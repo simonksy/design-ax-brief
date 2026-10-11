@@ -1,106 +1,68 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "movies",
   "picks": [
     {
-      "url": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
-      "title": "Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu,' a Spin-Off From the Hit Series 'The Pit'",
-      "source": "Variety",
+      "url": "https://lumalabs.ai/news/Luma-Claude-Motion-Launch-Partnership",
+      "title": "Start in Claude Motion. Finish it in Luma. | Luma",
+      "source": "Luma",
       "category": "movies",
-      "published_iso": "2026-10-10T13:25:21+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Prime Video has taken world rights on 'Çukur:Vartolu,' an AI-generated feature spun off from the Turkish hit series known internationally as 'The Pit' — a major streamer betting on a fully AI-made feature from an existing IP.",
+      "published_iso": "2026-10-08T19:07:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
+      "excerpt": "Claude Motion videos now open in Luma so creators turn an idea in motion into video in any format.",
       "source_lang": "en",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A major streamer acquiring global rights to a fully AI-generated feature built on an established IP is a distribution first, and a different film and buyer from the Baska Sinema story published 09-26."
+      "rationale": "A new cross-tool integration: Claude Motion drafts now open directly in Luma for finishing. It changes the handoff from idea to final video today."
     },
     {
-      "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
-      "title": "Nicolas Cage Didn't Sign AI Waiver For 'Spider-Noir' & \"Probably\" Won't Work Again With \"AI-Friendly\" Amazon",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-10-10T19:46:17+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-      "excerpt": "At NYCC, Nicolas Cage said he refused to sign an AI waiver for Prime Video's 'Spider-Noir' and probably won't work with the 'AI-friendly' streamer again — a performer-likeness flashpoint in AI production deals.",
-      "source_lang": "en",
-      "tool": "Movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "A star publicly refusing an AI likeness waiver brings performer consent clauses in production contracts into the open, and it is new news."
-    },
-    {
-      "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
-      "title": "Generative AI Still Needs Artists' Judgment, Says Netflix's Eyeline GenFX Chief James Rustad at Busan",
+      "url": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/",
+      "title": "Sci-Fi Thriller ‘Overstake’ Gets Generative AI Rebuild, Boarded by Cappu Films at Busan Market (EXCLUSIVE)",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-10-10T10:50:03+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=563&crop=1",
-      "excerpt": "At Busan's ACFM, Eyeline's James Rustad mapped Netflix's generative-AI VFX workflow, saying artists still decide which generated shots serve the story.",
+      "published_iso": "2026-10-11T06:31:57+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Cappu Films boards worldwide sales on Stas Mareev’s ‘Overstake,’ a live-action sci-fi thriller whose world is being rebuilt with generative AI.",
       "source_lang": "en",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "The single Busan ACFM pick, chosen because it lays out a concrete studio workflow: Netflix's in-house GenFX pipeline and where artists make the decisions."
+      "rationale": "A concrete new deal: a worldwide sales agent signed on to a live-action feature whose world is being rebuilt with generative AI. It is a distinct film and transaction, not more panel talk from Busan."
     },
     {
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407934",
-      "title": "모픽, '3D 씬'으로 영상 구도·카메라 연출 직접 다룬다",
-      "source": "테크월드",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/",
+      "title": "AI-Native Studios Can Create Original IP While Traditional Studios Keep Their Edge, VFX Veteran Hong Jae Cheol Says at Busan",
+      "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-10-08T10:20:00+09:00",
-      "og_image": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-      "excerpt": "모픽이 AI 영상의 연출 무작위성과 구도 붕괴를 해결하는 3D 장면 연출 에디터 '3D 씬'을 출시했다 — 3D 마네킹과 카메라로 구도를 먼저 잡고 생성한다.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-11T10:33:16+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=563&crop=1",
+      "excerpt": "At Busan’s InnoAsia AI Creators Camp, VFX veteran Hong Jae Cheol mapped a hybrid future of AI-native studios and traditional VFX.",
+      "source_lang": "en",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "A new tool release that fixes a real AI video problem: you block the composition and camera with 3D mannequins before generating. It is the most hands-on pick for creators."
-    },
-    {
-      "url": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
-      "title": "Latvian filmmaker wins AI film Grand Prix in Kazakhstan",
-      "source": "Euronews",
-      "category": "movies",
-      "published_iso": "2026-10-06T10:37:39+02:00",
-      "og_image": "https://images.euronews.com/articles/stories/09/93/92/42/1200x675_cmsv2_7cecc9dd-7306-5f0d-93f1-f62a32a1677c-9939242.jpg",
-      "excerpt": "The first Astana AI Film Festival wrapped with Latvian filmmaker Nikolay Shestak taking the €400,000 Grand Prix from 8,000+ entries; the €1.8M fund splits prizes and investment in AI film projects.",
-      "source_lang": "en",
-      "tool": "Movies",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "A concrete event: the first Astana AI Film Festival named its €400K Grand Prix winner from 8,000+ entries. It shows the AI-film prize and funding circuit growing outside Hollywood."
+      "rationale": "A Korean VFX veteran's model for how AI-native studios and traditional VFX houses will split the work. It comes from the separate InnoAsia AI Creators Camp, not the ACFM/Netflix sessions behind the 10-11 Eyeline card."
     }
   ],
   "dedup": {
     "checks": {
-      "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/": {
-        "verdict": "new",
-        "nearest": "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817/",
-        "new_action": ""
-      },
-      "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/": {
+      "https://lumalabs.ai/news/Luma-Claude-Motion-Launch-Partnership": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/": {
+      "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/": {
         "verdict": "new",
-        "nearest": "https://www.mhns.co.kr/news/articleView.html?idxno=762264",
+        "nearest": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
         "new_action": ""
       },
-      "https://www.epnc.co.kr/news/articleView.html?idxno=407934": {
+      "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival": {
-        "verdict": "new",
-        "nearest": "",
+        "nearest": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
         "new_action": ""
       }
     },
-    "note": "Busan ACFM appears three times (Variety/Eyeline, Deadline/Weta CTO panel, Screen Daily ACFM preview). I treated them as one running event and kept only the Variety Eyeline piece. I dropped Deadline Weta as a same-event sibling. I dropped Screen Daily because it is a market preview close to the published Forum BIFF item (mhns 10-05) and the Kling TIFF panel (09-14). View Conference lineup was dropped because it is the same VIEW 2026 event as the LOFTAPPS card published 10-07. Visko/Google Cloud fireside was dropped because it is an upcoming-event notice close to the vfxvoice tools piece published 10-07. The George Miller and Aaron Sorkin opinion pieces, the VFX Voice young-artists feature and the USC survey call were dropped as low-novelty commentary or notices. The Curious Refuge tutorial was dropped for low novelty. 머니투데이 더로드 and the Google Flow filmathon were left out because 모픽 and Astana already fill those slots. Prime Video Çukur is a different film and buyer from the published Baska Sinema story, so it counts as new. Outlets: Variety 2, Deadline 1, 테크월드 1, Euronews 1."
+    "note": "Re-curation after the fact-check. REMOVED: befores & afters 'Step into the director's seat with 3D Editor in Flow Studio'. Enrichment found it is a sponsored Autodesk 'VFX Insight' ad (three lines of marketing copy, no AI content), so it is not news. No replacement added. The pool has 7 items, and the three that remain were re-examined on the merits and still fail. THR 'Netflix used AI on ~300 titles' comes from Netflix's Creative Asia session in Busan, part of the same running Busan/Netflix story as the published Eyeline/Rustad card (nearest variety ...netflix-genfx-head-1236907383). A usage figure given on stage is commentary, not a new release or announcement. Deadline Kling AI panel (history_match related to the TIFF Kling panel 09-14, variety ...1236858840) is ACFM panel commentary with no new release. AWN Visko x Google Cloud (related to vfxvoice tools 10-07) is a notice for an upcoming event on Oct 14, not something that has happened. Publishing 3 (floor 3), not padding. Outlets: Variety 2, Luma 1. Only 2 distinct outlets, because the pool has no other qualifying outlet."
   }
 }

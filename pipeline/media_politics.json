@@ -1,7 +1,31 @@
-{"date":"2026-10-11","section":"politics","media":[
-{"id":"sif-incident-duty","type":"image","src":"pipeline/media/sif-incident-duty.jpg"},
-{"id":"uber-gdpr-art22-fine","type":"image","src":"pipeline/media/uber-gdpr-art22-fine.jpg"},
-{"id":"ai-labs-backlash-plans","type":"image","src":"pipeline/media/ai-labs-backlash-plans.jpg"},
-{"id":"artex-pentest-pulled","type":"image","src":"pipeline/media/artex-pentest-pulled.jpg"},
-{"id":"china-speed-first-safety","type":"image","src":"pipeline/media/china-speed-first-safety.jpg"}
-]}
+{
+ "date": "2026-10-12",
+ "section": "politics",
+ "media": [
+  {
+   "id": "ai-sme-tax-audit-relief",
+   "type": "image",
+   "src": "pipeline/media/ai-sme-tax-audit-relief.jpg"
+  },
+  {
+   "id": "us-china-ai-safety-cooperation",
+   "type": "image",
+   "src": "pipeline/media/us-china-ai-safety-cooperation.jpg"
+  },
+  {
+   "id": "ai-on-ieum-low-uptake",
+   "type": "image",
+   "src": "pipeline/media/ai-on-ieum-low-uptake.jpg"
+  },
+  {
+   "id": "nippon-life-openai-upl",
+   "type": "image",
+   "src": "pipeline/media/nippon-life-openai-upl.jpg"
+  },
+  {
+   "id": "ireland-ai-summit-omnibus",
+   "type": "image",
+   "src": "pipeline/media/ireland-ai-summit-omnibus.png"
+  }
+ ]
+}

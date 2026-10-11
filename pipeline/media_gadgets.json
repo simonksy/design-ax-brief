@@ -1,7 +1,31 @@
-{"date":"2026-10-11","section":"gadgets","media":[
-{"id":"xda-local-llm-gmail","type":"image","src":"pipeline/media/xda-local-llm-gmail.jpg"},
-{"id":"siri-personal-index-limits","type":"image","src":"pipeline/media/siri-personal-index-limits.jpg"},
-{"id":"verge-ai-bird-feeder","type":"image","src":"pipeline/media/verge-ai-bird-feeder.jpg"},
-{"id":"msi-pro-max-edge-ai","type":"image","src":"pipeline/media/msi-pro-max-edge-ai.jpg"},
-{"id":"amazon-driver-ai-glasses","type":"image","src":"pipeline/media/amazon-driver-ai-glasses.jpg"}
-]}
+{
+ "date": "2026-10-12",
+ "section": "gadgets",
+ "media": [
+  {
+   "id": "raspberry-pi-29mb-ai-model",
+   "type": "image",
+   "src": "pipeline/media/raspberry-pi-29mb-ai-model.jpg"
+  },
+  {
+   "id": "verge-local-ai-hermes-qwen-diary",
+   "type": "image",
+   "src": "pipeline/media/verge-local-ai-hermes-qwen-diary.jpg"
+  },
+  {
+   "id": "ibuypower-ai-halo-minipc",
+   "type": "image",
+   "src": "pipeline/media/ibuypower-ai-halo-minipc.jpg"
+  },
+  {
+   "id": "humanoid-robot-rental-exchanges",
+   "type": "image",
+   "src": "pipeline/media/humanoid-robot-rental-exchanges.jpg"
+  },
+  {
+   "id": "siri-ai-vs-gemini-column",
+   "type": "image",
+   "src": "pipeline/media/siri-ai-vs-gemini-column.jpg"
+  }
+ ]
+}

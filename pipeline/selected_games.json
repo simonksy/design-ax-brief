@@ -1,106 +1,87 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "games",
   "picks": [
     {
-      "url": "https://gamesbeat.com/uchicago-ai-researcher-rana-hanocka-launches-thrixel-a-3d-generation-platform/",
-      "title": "UChicago AI Researcher Rana Hanocka launches Thrixel, a 3D generation platform",
-      "source": "GamesBeat",
+      "url": "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
+      "title": "How Roblox Evaluates Build Game Creation",
+      "source": "Roblox",
       "category": "games",
-      "published_iso": "2026-10-08T12:00:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg",
-      "excerpt": "UChicago researcher Rana Hanocka launches Thrixel, a 3D generation platform whose Build World workflow pairs creators with an AI coding agent to generate assets and logic for Roblox, Three.js, Unity and Unreal.",
+      "published_iso": "2026-10-08T12:00:00.000Z",
+      "og_image": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png",
+      "excerpt": "Roblox details how it measures Build, its mobile-first agentic text-to-game creation tool: since the NZ alpha 100,000+ users tried it, ~9,000 games were published, and 71% of creators had never used Roblox Studio.",
       "source_lang": "en",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "New tool launch: text-to-3D plus an agent that writes game logic for Roblox/Unity/Unreal; directly usable by game artists and designers."
+      "rationale": "Roblox's own data on Build, its agentic text-to-game tool (100k users, ~9k games, 71% new to Studio), plus how Roblox judges what it produces. Real numbers for anyone building creation tools."
     },
     {
-      "url": "https://gamesbeat.com/how-ea-javelin-anti-cheat-is-changing-in-the-face-of-ai-attacks-mike-reavey-exclusive-interview/",
-      "title": "How EA Javelin anti-cheat is changing in the face of AI attacks | Mike Reavey exclusive interview",
-      "source": "GamesBeat",
+      "url": "https://bbs.ruliweb.com/news/read/230407",
+      "title": "14Dimension Enterprise, 게임 전용 AI 게임마스터 내장 오프라인 TRPG '일루네스의 귀환(The Return of Illunes)' Steam 정식 출시",
+      "source": "루리웹",
       "category": "games",
-      "published_iso": "2026-10-06T13:30:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg",
-      "excerpt": "EA's Mike Reavey explains how the Javelin anti-cheat system is evolving to counter AI-powered cheats such as computer-vision aimbots, and how EA uses ML on its own side of detection.",
-      "source_lang": "en",
-      "tool": "Games",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "rationale": "Fresh angle: computer-vision aimbots vs ML detection at EA; first anti-cheat story in the 30-day history."
-    },
-    {
-      "url": "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/",
-      "title": "Black Myth: Wukong sequel devs said no to AI because of Christopher Nolan's The Odyssey",
-      "source": "Destructoid",
-      "category": "games",
-      "published_iso": "2026-10-10T21:00:08+00:00",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg",
-      "excerpt": "Game Science says it will refrain from using AI on Black Myth: Zhong Kui 'until the end', citing Christopher Nolan's all-practical approach on The Odyssey as inspiration.",
-      "source_lang": "en",
+      "published_iso": "2026-10-09T16:38:41+09:00",
+      "og_image": "https://i2.ruliweb.com/ori/26/10/09/1a11f984465afd4.webp",
+      "excerpt": "The Return of Illunes launched on Steam (KRW 22,500 / $19.99) with a fine-tuned AI game master bundled on-device: it writes each run's story, companion dialogue, subclasses, skills, relics and bosses, and adjudicates free-text 'free actions' with no server, subscription or per-use fee; damage and stats stay rule-bound.",
+      "source_lang": "ko",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "New studio policy statement from a major AAA team (Game Science), freshest item in the pool."
+      "rationale": "A released paid game whose fine-tuned LLM game master runs offline on the player's device, so there is no per-use fee. A concrete design answer to the inference-cost problem (cf. the 10-10 card on a game paying KRW 1.35M/day in AI fees)."
     },
     {
-      "url": "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/",
-      "title": "New MMO Aion 2 soars on Steam with nearly 400,000 concurrent players despite mixed reviews grilling AI slop and pay-to-win shop",
-      "source": "GamesRadar+",
+      "url": "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/",
+      "title": "PSVR Exclusive 'Astro Bot Rescue Mission' Running on Quest 3 is the Latest in VR Mod Explosion",
+      "source": "Road to VR",
       "category": "games",
-      "published_iso": "2026-10-06T14:41:50Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg",
-      "excerpt": "NCSoft's Aion 2 hits nearly 400,000 concurrent Steam players at its global launch, but 'Mixed' user reviews call out AI-generated content alongside its monetization.",
+      "published_iso": "2026-10-05T08:20:57+00:00",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg",
+      "excerpt": "AI vibecoding has caused an explosion in the VR modding scene; modder Bigmak94's latest brings PSVR exclusive Astro Bot Rescue Mission to Quest 3 and PC VR.",
       "source_lang": "en",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Market data point: a big Korean MMO launch where AI-generated content shows up in player reviews despite strong concurrency."
+      "rationale": "A new, concrete port: AI-assisted modding brings a PSVR exclusive to Quest 3 and PC VR. Our first card on the VR mod wave."
     },
     {
-      "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
-      "title": "Google debuts new 'experimental' AI game platform named Google Playground",
-      "source": "Game Developer",
+      "url": "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/",
+      "title": "\"It has no place in my world\": Analogue Pocket SNES emulator dev says AI-powered hack is loaded with slop code and wastes \"time and brainpower\"",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-10-06T20:14:47.000Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "Google has announced Google Playground, a new platform for making and playing games derived from gen-AI prompts.",
+      "published_iso": "2026-10-06T21:08:17Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+      "excerpt": "The developer of the Analogue Pocket SNES emulator core criticizes an AI-generated hack of his work as full of slop code that wastes maintainers' time.",
       "source_lang": "en",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Google's own prompt-to-game platform launch; a new first-party AI game destination, distinct from Unity Spark (editor) and Astrocade (third-party platform)."
+      "rationale": "A new incident on a different platform (the Analogue Pocket FPGA core): a maintainer explains how much review time AI-generated forks cost open-source game projects."
     }
   ],
   "dedup": {
     "checks": {
-      "https://gamesbeat.com/uchicago-ai-researcher-rana-hanocka-launches-thrixel-a-3d-generation-platform/": {
+      "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation": {
         "verdict": "new",
-        "nearest": "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/",
+        "nearest": "https://gamesbeat.com/roblox-reality-brings-greater-realism-to-roblox-graphics/",
         "new_action": ""
       },
-      "https://gamesbeat.com/how-ea-javelin-anti-cheat-is-changing-in-the-face-of-ai-attacks-mike-reavey-exclusive-interview/": {
+      "https://bbs.ruliweb.com/news/read/230407": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.gamemeca.com/view.php?gid=1781573",
         "new_action": ""
       },
-      "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/": {
+      "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/": {
         "verdict": "new",
-        "nearest": "https://www.gamespot.com/articles/the-witcher-4-will-be-made-predominantly-using-people-and-not-ai/",
+        "nearest": "https://www.uploadvr.com/i-had-never-built-a-vr-app-8-days-later-mine-was-on-the-quest-store/",
         "new_action": ""
       },
-      "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/": {
+      "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground": {
-        "verdict": "new",
-        "nearest": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
+        "nearest": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
         "new_action": ""
       }
     },
-    "note": "Dropped: Unreal MCP first look (YouTube FON_noub0C0) - same UE 5.8 MCP feature published 2026-09-19 (k0tgmrBuIJc), no new release. Unity CEO on Unity Spark (GamesRadar) - commentary on the Unity Spark launch published 2026-10-08 (80.lv). Google Playground cluster c5 (Game Developer debut + PC Gamer opinion) - could not rule out overlap with the 2026-10-08 Kotaku 'AI-generated games platform 10M monthly users' card and the Google-built Unity Spark coverage; dropped conservatively since the pool had enough clean fresh items. PC Gamer OpenAI StarCraft cheating - running story from the 2026-09-30 GPT-6 StarCraft botmatch card, and a cheating incident is not a new release/announcement. RPS Banjo-Kazooie Recompiled dev - commentary within the recomp/genAI running story (2026-10-03 GamesRadar, 2026-10-09 CTR recomp). GamesRadar Kingdom Come 2 boss - Warhorse AI commentary overlaps the 2026-09-26 PC Gamer Warhorse co-founder interview. GamesBeat AI-made game opinion - evergreen op-ed, lower novelty. Thrixel vs Dreamlands (2026-10-10): different product and company, so new. Diversity: GamesBeat 2, Destructoid, GamesRadar+, RPS = 4 outlets. SWAP 2026-10-11: removed RPS Borderlands Online (enrichment showed it is a modding story with AI only in one quote/aside). Replacement: Game Developer 'Google debuts Google Playground' (cluster c5, kept the news debut over the PC Gamer opinion). Re-checked against news_data sections.games 2026-10-08: the Kotaku Astrocade card is a different, third-party platform (Astrocade user numbers), and the 80.lv Unity Spark card covers Unity's editor and only mentions Playground in one closing sentence as a place to publish Spark games; Google's own Playground platform launch was never the subject of a published card, so it is a new story (nearest = Unity Spark). Other leftovers stay dropped for the reasons above; GamesBeat opinion also blocked by the 2-per-outlet cap. Diversity now: GamesBeat 2, Destructoid, GamesRadar+, Game Developer = 4 outlets."
+    "note": "Re-curation after the fact-check pass, published with 4 picks. REMOVED: PCGamesN 'Arc Raiders ... Celeste' (https://www.pcgamesn.com/arc-raiders/celeste-frozen-trail-update). The enrichment fetch found the card overstated the story. Diana Gardner has voiced Celeste all along, and Embark is adding full motion and facial capture to replace stiff text-to-speech delivery. The article never uses the word 'AI', so the story is about animation and performance capture, not AI. It is no longer an AI x games story, and keeping it would repeat the non-AI-pick failure mode. No replacement qualified, and the earlier dedup calls stand. Tom's Hardware 'Embark AI anti-cheat stack' is too close to the 10-11 EA Javelin AI anti-cheat card and related to the 09-28 Polygon Arc Raiders ML card. GamesRadar+ vibe-coded Bloodborne PC port is part of the running backlash over vibe-coded ports (10-09 CTR recomp, 10-10 Kotaku browser ports, 10-03 Banjo-Tooie). Tom's Hardware DLSS 5 on Pac-Man is part of the running DLSS 5 retro-mod series (10-09 DOOM, 09-26 Melee, 09-17 UNCANNY). The three PocketGamer.biz items (Nordic AI part three, 'How developers are using AI right now', the Luke Dicken interview) are surveys or commentary with no new release. GamesBeat Hive Axyl is the same story as the 09-30 Inven card. The GamesRadar+ Unity CEO piece is commentary on the 10-08 Spark card. The PC Gamer OpenAI StarCraft piece continues the running story from 09-30. The GamesBeat AI-made-game piece is an evergreen opinion column. The pool has no more fresh, unique AI x games items, so the section ships 4 rather than padding. Outlets: Roblox, Ruliweb, Road to VR, GamesRadar+ (4 distinct, 1 each)."
   }
 }

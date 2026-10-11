@@ -6920,6 +6920,110 @@
           "x": "The IFPI said the result \"sends a clear message that streaming fraud is a crime\", adding that the industry must also prevent, detect and disrupt fraud through its Streaming Integrity Initiative."
         }
       ]
+    },
+    "music/biff-ai-entrance-song-intent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://isp.edailystatic.com/data/isp/image/2026/10/08/isp20261008000114.1280x.0.jpg",
+          "cap": "Director Min Kyu-dong / Photo courtesy of Yonhap News"
+        },
+        {
+          "t": "p",
+          "x": "A set of special entrance songs that lit up the opening ceremony of the 31st Busan International Film Festival has been a talking point online for days. Min Kyu-dong, who directed the opening ceremony again following last year, shared the story behind them with Ilgan Sports on the 8th, calling them “music prepared for each and every guest.”"
+        },
+        {
+          "t": "p",
+          "x": "Min said, “The Busan International Film Festival has a principle of holding no separate performances at the opening ceremony, so music has to fill nearly two hours, from audience entry to the red carpet,” adding that he thought of this time as a kind of ‘pre-show.’ Because two hours of house music in the same rhythm can easily dull the senses, he explained, he inserted songs carrying messages of welcome at suitable intervals."
+        },
+        {
+          "t": "p",
+          "x": "The songs played on the red carpet on the 6th were made to fit each film and person, with lyrics featuring film titles, cast members, production companies and descriptions of the works. Shim Eun-kyung was visibly startled when her name was called, and songs also played as international guests such as Fan Bingbing, Charlotte Gainsbourg and Hirokazu Kore-eda made their entrances."
+        },
+        {
+          "t": "img",
+          "src": "https://isp.edailystatic.com/data/isp/image/2026/10/08/isp20261008000115.1280x.0.jpg",
+          "cap": "Red carpet at the opening ceremony of the 31st Busan International Film Festival / Photo courtesy of Yonhap News"
+        },
+        {
+          "t": "p",
+          "x": "The songs were made using AI, but the lyrics and the direction of each song carry Min's own creative choices. “I wrote the lyrics myself, and designed each song differently to match the genre and mood of the film the guest brought,” he said, adding, “I hope people will look not at the tool used to make the music, but at what that music offered, and to whom.”"
+        },
+        {
+          "t": "p",
+          "x": "On why not every guest received an entrance song, he said, “We did not single out or treat any particular guest or film differently,” adding that because the order and spacing of entrances kept changing on site, not all of the prepared songs could be played. The festival runs through the 15th."
+        }
+      ]
+    },
+    "music/smorph-playable-sound-morphing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sound morphing, generating intermediate sounds that transition from one sonic identity to another, can be a powerful tool for musical sound design. Existing diffusion-based morphing approaches entangle temporal structure and timbral identity, offering no mechanism to hold one fixed while transforming the other."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.06478v1/assets/fig1_v7.png",
+          "cap": "SoundCanvas by smorph: four text-or-audio prompts define the corners of a 2D sound morphing space."
+        },
+        {
+          "t": "p",
+          "x": "The authors (Annie Chu, Justin Salamon and colleagues) present smorph, a training-free guidance framework that preserves how a sound behaves over time while transforming what the sound is, allowing users to morph, for instance, from brass to strings at a fixed pitch. It works across three modes: prompt-to-prompt, audio-to-prompt, and audio-to-audio."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.06478v1/assets/fig-specs.png",
+          "cap": "Example morph trajectory with explicit structural control (top) and without (bottom)."
+        },
+        {
+          "t": "p",
+          "x": "Evaluations across diverse datasets show smooth morph trajectories and substantially improved temporal-structure and source preservation over baselines, albeit with more conservative target-ward transformation in some settings. In an exploratory case study, musicians found smorph trajectories expressive and playable, suggesting structural anchoring can serve as a productive constraint for instrumental interaction."
+        }
+      ]
+    },
+    "music/artist-identity-song-model-encoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Text-to-song generation models can be prompted to imitate specific artists or regurgitate entire songs from their training data. Although these phenomena have been documented behaviorally, little is known about the internal representations that may give rise to them."
+        },
+        {
+          "t": "p",
+          "x": "In 'Ghost in the Encoder', Arhan Vohra, Choenden Kyirong, Laura Ibáñez-Martínez and Martín Rocamora show that a trained model can be probed for linearly decodable representations of artist identity from song lyrics alone, without any additional identifiers."
+        },
+        {
+          "t": "p",
+          "x": "Through a controlled case study of ACE-Step 1.5 spanning 2,000 songs across 100 artists, they demonstrate that the artist associated with a given set of lyrics can be identified within the model's internal activations, and that this conditioning signal propagates from the lyric encoder to the diffusion backbone during inference."
+        },
+        {
+          "t": "p",
+          "x": "The findings indicate that lyrics constitute an artist-level conditioning channel not addressed by prompt-side replication safeguards, and highlight how latent-space analysis can be used to audit what generative music models have implicitly learned from their training data."
+        }
+      ]
+    },
+    "music/distrokid-umg-takedowns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
+        },
+        {
+          "t": "p",
+          "x": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG, which filed a lawsuit in September claiming DistroKid has created an “AI-slop pipeline.” Artists say their non-AI works are being caught up in the purge."
+        },
+        {
+          "t": "p",
+          "x": "Musician McGwire reported that six of his songs were removed from streaming, with no communication from DistroKid before or after. One was a cover of Stevie Wonder’s “Isn’t She Lovely,” which he claims to have had a proper license for; another was pulled for an uncleared sample of a song released two years after his track."
+        },
+        {
+          "t": "p",
+          "x": "Producer Jesse Cannon said “DistroKid gave up on customer service about two years ago.” Rapper King Chase said an entire album that had been up for 3-4 years was removed with no explanation."
+        },
+        {
+          "t": "p",
+          "x": "DistroKid VP of Artist Services Amanda Ferri said “A very small number of recordings distributed through DistroKid have been removed in response to claims made by UMG. We strongly dispute the allegations underlying UMG’s lawsuit and regret the disruption to affected artists.”"
+        }
+      ]
     }
   }
 }

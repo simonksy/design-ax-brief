@@ -1,269 +1,317 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "politics",
   "cards": [
     {
-      "id": "sif-incident-duty",
+      "id": "ai-sme-tax-audit-relief",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "미 백악관, AI 사고\n신고·시정 의무화",
-      "body": "백악관 SIF가 AI 기업에 사고 즉시 신고와 시정을 국가안보 의무로 요구했다.",
-      "mini_headline": "AI 사고 신고 의무화",
+      "headline": "AI 기업 2,559곳에\n세무조사 유예 등 지원",
+      "body": "창업 5년 내 AI 스타트업은 정기 세무조사 제외, 나머지는 2년 유예 신청 가능.",
+      "mini_headline": "AI 기업 세무조사 유예",
       "tool": "Politics",
       "source": "Yonhap News Agency",
-      "url": "https://www.yna.co.kr/view/AKR20261010020100009",
+      "url": "https://www.yna.co.kr/view/AKR20261009033600030",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "중소벤처기업부와 국세청은 인공지능(AI) 중소기업·스타트업 2천559개사에 기술개발·사업화 지원과 세정지원을 연계해 제공한다고 11일 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "이번 지원은 지난해 12월 양 기관이 체결한 'AI 중소·스타트업 성장지원을 위한 업무협약'의 후속 조치다."
+          },
+          {
+            "t": "p",
+            "x": "중기부가 성장 가능성이 높은 AI 기업을 발굴해 연구개발(R&D)과 사업화, 금융, 창업, 해외 진출 등을 지원하면 국세청이 해당 기업에 세정지원을 제공하는 방식이다."
+          },
+          {
+            "t": "p",
+            "x": "중기부는 올해 AI 응용제품 상용화, AI·인공지능 전환(AX) 우대보증, AI 기반 스마트공장, 딥테크 창업지원, 글로벌 액셀러레이팅 등 20개 사업에 참여한 기업 명단을 국세청과 공유했다."
+          },
+          {
+            "t": "p",
+            "x": "국세청은 이들 기업에 대해 ▲ 세무검증 최소화 ▲ 연구·인력개발비 세액공제 사전심사 및 법인세 공제·감면 컨설팅 우선 처리 ▲ 납부기한 연장·환급금 조기 지급 등 유동성 지원 ▲ AI 기업 전용 세무상담 등을 해주기로 했다."
+          },
+          {
+            "t": "p",
+            "x": "특히 창업 5년 이내 AI 스타트업을 정기 세무조사 선정에서 제외하고, 그 밖의 AI 중소기업은 납세자 신청에 따라 세무조사 착수 예정일로부터 2년간 정기 세무조사를 유예한다."
+          },
+          {
+            "t": "p",
+            "x": "또한 명백한 탈루 혐의가 없는 기업은 신고내용 확인 대상에서도 제외한다. 세정지원 기간은 이달 1일부터 2028년 2월 28일까지다."
+          },
+          {
+            "t": "p",
+            "x": "임광현 국세청장은 \"AI 중소·스타트업은 기술혁신과 미래 성장동력 창출을 이끌 핵심 기업인 만큼 성장 과정에서 겪는 세무상 어려움을 줄여 기업이 연구개발과 사업에 집중할 수 있는 환경을 조성하는 것이 중요하다\"고 강조했다."
+          },
+          {
+            "t": "p",
+            "x": "이소영 중기부 장관은 \"AI 산업의 경쟁력은 혁신적인 기술과 아이디어를 가진 스타트업이 얼마나 빠르게 성장할 수 있는 환경을 만들어 주느냐에 달려 있다\"며 \"이번 협업을 통해 중기부의 기술개발(R&D)·사업화·금융·글로벌 진출 지원과 국세청의 세정지원이 유기적으로 연결돼 유망 AI 중소·스타트업이 기술개발과 성장에 더욱 집중할 수 있는 기반을 만들겠다\"고 말했다."
+          },
+          {
             "t": "img",
-            "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-            "cap": "인공지능(AI) [로이터=연합뉴스 자료사진]"
-          },
-          {
-            "t": "p",
-            "x": "미국 도널드 트럼프 행정부가 인공지능(AI) 기업에 자사 모델이 일으킨 각종 사고를 정부에 즉시 신고하고 피해를 시정하도록 의무화했다. 10일(현지시간) 인터넷 매체 악시오스에 따르면 백악관 슈퍼인텔리전스 포스(SIF)는 성명에서 AI 사고 신고가 '중대한 국가안보 의무'라며 이같이 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "백악관은 \"AI 기업들은 자사 모델과 관련된 사고를 즉시 공개하고 발생한 모든 피해를 바로잡기 위해 신속하고 단호한 조치를 취해야 한다\"고 강조했다. 이어 사고 발생 시 AI 기업들은 유사 사고 재발 방지를 위해 협력하고, 법 집행 기관에도 전적으로 협조해야 한다고 요구했다."
-          },
-          {
-            "t": "p",
-            "x": "그동안 AI 산업에 대해 자율규제 방침을 고수했던 트럼프 행정부가 이처럼 의무적 대응을 요구하고 나선 것은 최근 잇따른 AI 모델의 오작동 사례 때문으로 보인다."
-          },
-          {
-            "t": "p",
-            "x": "미 국무부 당국자에 따르면 앤트로픽의 시험용 AI 모델 하나가 지난 8월 국무부 홈페이지의 공개 양식을 통해 비이민 비자 신청서 19건을 제출했다. 또한 필라델피아에서는 앤트로픽의 AI 모델이 미해결 살인 사건에 관한 허위 제보를 한 사례도 확인됐다. 앤트로픽은 지난달 말 이 같은 사례들을 발견한 뒤 정부에 신고했다."
-          },
-          {
-            "t": "p",
-            "x": "AI 정책을 총괄하는 제이 클레이턴 국가정보국(DNI) 국장과 SIF 관계자들은 앤트로픽 측에 관련 기관과 대중에 '즉각적이고 완전한 투명성'을 제공하라고 요구한 것으로 전해졌다. 이날 발표한 규제는 앤트로픽뿐 아니라 모든 AI 기업에 적용된다."
-          },
-          {
-            "t": "p",
-            "x": "백악관 측은 \"신고 지연과 불충분한 시정 조치, 책임 회피는 용납되지 않을 것\"이라며 \"혁신이 국가안보와 정부 시스템의 신뢰성, 공공의 신뢰를 훼손하는 구실이 될 수는 없다\"고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "트럼프 행정부의 AI 정책을 총괄하는 SIF는 클레이턴 국장과 함께 앤드루 퍼거슨 연방거래위원회(FTC) 위원장과 스콧 쿠퍼 인사관리처(OPM) 처장, 에밀 마이클 국방부 차관이 공동의장을 맡고 있다."
+            "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+            "cap": "중소벤처기업부 현판 [중소벤처기업부 제공]"
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "미 백악관, AI 사고\n신고·시정 의무화",
-          "body": "백악관 SIF가 AI 기업에 사고 즉시 신고와 시정을 국가안보 의무로 요구했다.",
-          "mini_headline": "AI 사고 신고 의무화",
+          "headline": "AI 기업 2,559곳에\n세무조사 유예 등 지원",
+          "body": "창업 5년 내 AI 스타트업은 정기 세무조사 제외, 나머지는 2년 유예 신청 가능.",
+          "mini_headline": "AI 기업 세무조사 유예",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "중소벤처기업부와 국세청은 인공지능(AI) 중소기업·스타트업 2천559개사에 기술개발·사업화 지원과 세정지원을 연계해 제공한다고 11일 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "이번 지원은 지난해 12월 양 기관이 체결한 'AI 중소·스타트업 성장지원을 위한 업무협약'의 후속 조치다."
+              },
+              {
+                "t": "p",
+                "x": "중기부가 성장 가능성이 높은 AI 기업을 발굴해 연구개발(R&D)과 사업화, 금융, 창업, 해외 진출 등을 지원하면 국세청이 해당 기업에 세정지원을 제공하는 방식이다."
+              },
+              {
+                "t": "p",
+                "x": "중기부는 올해 AI 응용제품 상용화, AI·인공지능 전환(AX) 우대보증, AI 기반 스마트공장, 딥테크 창업지원, 글로벌 액셀러레이팅 등 20개 사업에 참여한 기업 명단을 국세청과 공유했다."
+              },
+              {
+                "t": "p",
+                "x": "국세청은 이들 기업에 대해 ▲ 세무검증 최소화 ▲ 연구·인력개발비 세액공제 사전심사 및 법인세 공제·감면 컨설팅 우선 처리 ▲ 납부기한 연장·환급금 조기 지급 등 유동성 지원 ▲ AI 기업 전용 세무상담 등을 해주기로 했다."
+              },
+              {
+                "t": "p",
+                "x": "특히 창업 5년 이내 AI 스타트업을 정기 세무조사 선정에서 제외하고, 그 밖의 AI 중소기업은 납세자 신청에 따라 세무조사 착수 예정일로부터 2년간 정기 세무조사를 유예한다."
+              },
+              {
+                "t": "p",
+                "x": "또한 명백한 탈루 혐의가 없는 기업은 신고내용 확인 대상에서도 제외한다. 세정지원 기간은 이달 1일부터 2028년 2월 28일까지다."
+              },
+              {
+                "t": "p",
+                "x": "임광현 국세청장은 \"AI 중소·스타트업은 기술혁신과 미래 성장동력 창출을 이끌 핵심 기업인 만큼 성장 과정에서 겪는 세무상 어려움을 줄여 기업이 연구개발과 사업에 집중할 수 있는 환경을 조성하는 것이 중요하다\"고 강조했다."
+              },
+              {
+                "t": "p",
+                "x": "이소영 중기부 장관은 \"AI 산업의 경쟁력은 혁신적인 기술과 아이디어를 가진 스타트업이 얼마나 빠르게 성장할 수 있는 환경을 만들어 주느냐에 달려 있다\"며 \"이번 협업을 통해 중기부의 기술개발(R&D)·사업화·금융·글로벌 진출 지원과 국세청의 세정지원이 유기적으로 연결돼 유망 AI 중소·스타트업이 기술개발과 성장에 더욱 집중할 수 있는 기반을 만들겠다\"고 말했다."
+              },
+              {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-                "cap": "인공지능(AI) [로이터=연합뉴스 자료사진]"
-              },
-              {
-                "t": "p",
-                "x": "미국 도널드 트럼프 행정부가 인공지능(AI) 기업에 자사 모델이 일으킨 각종 사고를 정부에 즉시 신고하고 피해를 시정하도록 의무화했다. 10일(현지시간) 인터넷 매체 악시오스에 따르면 백악관 슈퍼인텔리전스 포스(SIF)는 성명에서 AI 사고 신고가 '중대한 국가안보 의무'라며 이같이 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "백악관은 \"AI 기업들은 자사 모델과 관련된 사고를 즉시 공개하고 발생한 모든 피해를 바로잡기 위해 신속하고 단호한 조치를 취해야 한다\"고 강조했다. 이어 사고 발생 시 AI 기업들은 유사 사고 재발 방지를 위해 협력하고, 법 집행 기관에도 전적으로 협조해야 한다고 요구했다."
-              },
-              {
-                "t": "p",
-                "x": "그동안 AI 산업에 대해 자율규제 방침을 고수했던 트럼프 행정부가 이처럼 의무적 대응을 요구하고 나선 것은 최근 잇따른 AI 모델의 오작동 사례 때문으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "미 국무부 당국자에 따르면 앤트로픽의 시험용 AI 모델 하나가 지난 8월 국무부 홈페이지의 공개 양식을 통해 비이민 비자 신청서 19건을 제출했다. 또한 필라델피아에서는 앤트로픽의 AI 모델이 미해결 살인 사건에 관한 허위 제보를 한 사례도 확인됐다. 앤트로픽은 지난달 말 이 같은 사례들을 발견한 뒤 정부에 신고했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 정책을 총괄하는 제이 클레이턴 국가정보국(DNI) 국장과 SIF 관계자들은 앤트로픽 측에 관련 기관과 대중에 '즉각적이고 완전한 투명성'을 제공하라고 요구한 것으로 전해졌다. 이날 발표한 규제는 앤트로픽뿐 아니라 모든 AI 기업에 적용된다."
-              },
-              {
-                "t": "p",
-                "x": "백악관 측은 \"신고 지연과 불충분한 시정 조치, 책임 회피는 용납되지 않을 것\"이라며 \"혁신이 국가안보와 정부 시스템의 신뢰성, 공공의 신뢰를 훼손하는 구실이 될 수는 없다\"고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "트럼프 행정부의 AI 정책을 총괄하는 SIF는 클레이턴 국장과 함께 앤드루 퍼거슨 연방거래위원회(FTC) 위원장과 스콧 쿠퍼 인사관리처(OPM) 처장, 에밀 마이클 국방부 차관이 공동의장을 맡고 있다."
+                "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+                "cap": "중소벤처기업부 현판 [중소벤처기업부 제공]"
               }
             ]
           }
         },
         "en": {
-          "headline": "White House orders AI incident\nreporting and remediation",
-          "body": "The White House SIF required AI companies to report and correct incidents immediately as a national security duty.",
-          "mini_headline": "AI incident reporting mandated",
+          "headline": "Tax audit relief and support\nfor 2,559 AI companies",
+          "body": "AI startups within 5 years of founding are exempt from regular tax audits, and others may seek a 2-year deferral.",
+          "mini_headline": "AI firms get tax audit deferral",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Ministry of SMEs and Startups and the National Tax Service said on the 11th that they will provide 2천559 artificial intelligence (AI) small and medium-sized businesses and startups with support for technology development and commercialization, linked with tax administration support."
+              },
+              {
+                "t": "p",
+                "x": "The support is a follow-up to the 'business agreement to support the growth of AI SMEs and startups' that the two agencies signed in December last year."
+              },
+              {
+                "t": "p",
+                "x": "Under the arrangement, the ministry identifies AI companies with high growth potential and supports them in research and development (R&D), commercialization, financing, startups and overseas expansion, while the National Tax Service provides those companies with tax administration support."
+              },
+              {
+                "t": "p",
+                "x": "This year the ministry shared with the National Tax Service the list of companies that took part in 20 programs, including AI application product commercialization, AI and AI transformation (AX) preferential guarantees, AI-based smart factories, deep-tech startup support and global accelerating."
+              },
+              {
+                "t": "p",
+                "x": "The National Tax Service will provide these companies with ▲ minimal tax verification ▲ priority handling of advance reviews for research and human resources development tax credits and of consulting on corporate tax deductions and reductions ▲ liquidity support such as payment deadline extensions and early payment of refunds ▲ dedicated tax consultation for AI companies."
+              },
+              {
+                "t": "p",
+                "x": "In particular, AI startups within 5 years of founding will be excluded from selection for regular tax audits, and other AI SMEs can, on the taxpayer's application, have regular tax audits deferred for 2 years from the scheduled start date of the audit."
+              },
+              {
+                "t": "p",
+                "x": "Companies without clear signs of tax evasion will also be excluded from filing reviews. The tax support period runs from the 1st of this month to February 28, 2028."
+              },
+              {
+                "t": "p",
+                "x": "National Tax Service Commissioner Lim Kwang-hyun stressed, \"As AI SMEs and startups are key companies that will lead technological innovation and create future growth engines, it is important to reduce the tax difficulties they face as they grow and to create an environment where they can focus on research and development and on their business.\""
+              },
+              {
+                "t": "p",
+                "x": "Minister of SMEs and Startups Lee So-young said, \"The competitiveness of the AI industry depends on how quickly we can create an environment in which startups with innovative technologies and ideas can grow,\" adding, \"Through this collaboration, the ministry's support for technology development (R&D), commercialization, financing and global expansion will be closely linked with the National Tax Service's tax support, laying a foundation for promising AI SMEs and startups to focus more on technology development and growth.\""
+              },
+              {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-                "cap": "Artificial intelligence (AI) [Reuters=Yonhap News file photo]"
-              },
-              {
-                "t": "p",
-                "x": "The Donald Trump administration in the United States has required artificial intelligence (AI) companies to immediately report to the government any incidents caused by their models and to remedy the harm. According to the online outlet Axios on the 10th (local time), the White House Superintelligence Force (SIF) said in a statement that reporting AI incidents is a 'critical national security duty.'"
-              },
-              {
-                "t": "p",
-                "x": "The White House stressed that \"AI companies must immediately disclose incidents involving their models and take swift and decisive action to correct any harm that has occurred.\" It went on to demand that, when an incident occurs, AI companies work together to prevent similar incidents from recurring and cooperate fully with law enforcement agencies."
-              },
-              {
-                "t": "p",
-                "x": "The Trump administration had held to a policy of self-regulation for the AI industry, and its move to demand a mandatory response appears to stem from a recent string of AI model malfunctions."
-              },
-              {
-                "t": "p",
-                "x": "According to a U.S. State Department official, one of Anthropic's test AI models submitted 19 nonimmigrant visa applications in August through a public form on the State Department website. In Philadelphia, an Anthropic AI model was also found to have made a false tip about an unsolved murder case. Anthropic reported these cases to the government after discovering them late last month."
-              },
-              {
-                "t": "p",
-                "x": "Jay Clayton, Director of National Intelligence (DNI), who oversees AI policy, and SIF officials reportedly demanded that Anthropic provide 'immediate and complete transparency' to the relevant agencies and the public. The regulation announced that day applies not only to Anthropic but to all AI companies."
-              },
-              {
-                "t": "p",
-                "x": "The White House said, \"Delays in reporting, inadequate corrective measures and evasion of responsibility will not be tolerated,\" adding, \"Innovation cannot be an excuse to undermine national security, the reliability of government systems, or public trust.\""
-              },
-              {
-                "t": "p",
-                "x": "The SIF, which oversees the Trump administration's AI policy, is co-chaired by Director Clayton along with Federal Trade Commission (FTC) Chairman Andrew Ferguson, Office of Personnel Management (OPM) Director Scott Kupor and Under Secretary of Defense Emil Michael."
+                "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+                "cap": "Signboard of the Ministry of SMEs and Startups [Provided by the Ministry of SMEs and Startups]"
               }
             ]
           }
         },
         "ja": {
-          "headline": "米ホワイトハウス、AI事故\nの報告・是正を義務化",
-          "body": "ホワイトハウスのSIFはAI企業に事故の即時報告と是正を国家安全保障上の義務として求めた。",
-          "mini_headline": "AI事故の報告を義務化",
+          "headline": "AI企業2,559社に\n税務調査猶予など支援",
+          "body": "創業5年以内のAIスタートアップは定期税務調査の対象外、他は2年の猶予を申請できる。",
+          "mini_headline": "AI企業の税務調査猶予",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "中小ベンチャー企業部と国税庁は11日、人工知能(AI)分野の中小企業・スタートアップ2천559社に対し、技術開発・事業化支援と税務支援を連携して提供すると明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "今回の支援は、昨年12月に両機関が締結した「AI中小・スタートアップ成長支援のための業務協約」の後続措置である。"
+              },
+              {
+                "t": "p",
+                "x": "中小ベンチャー企業部が成長可能性の高いAI企業を発掘して研究開発(R&D)や事業化、金融、創業、海外進出などを支援し、国税庁がそれらの企業に税務支援を提供する仕組みだ。"
+              },
+              {
+                "t": "p",
+                "x": "中小ベンチャー企業部は今年、AI応用製品の商用化、AI・人工知能転換(AX)優遇保証、AI基盤スマート工場、ディープテック創業支援、グローバルアクセラレーティングなど20の事業に参加した企業の名簿を国税庁と共有した。"
+              },
+              {
+                "t": "p",
+                "x": "国税庁はこれらの企業に対し、▲ 税務検証の最小化 ▲ 研究・人材開発費の税額控除の事前審査と法人税の控除・減免コンサルティングの優先処理 ▲ 納付期限の延長・還付金の早期支給などの流動性支援 ▲ AI企業専用の税務相談などを行うことにした。"
+              },
+              {
+                "t": "p",
+                "x": "特に創業5年以内のAIスタートアップは定期税務調査の選定から除外し、その他のAI中小企業は納税者の申請に応じて、税務調査の着手予定日から2年間、定期税務調査を猶予する。"
+              },
+              {
+                "t": "p",
+                "x": "また、明白な脱税の疑いがない企業は申告内容確認の対象からも除外する。税務支援の期間は今月1日から2028年2月28日までだ。"
+              },
+              {
+                "t": "p",
+                "x": "イム・グァンヒョン(임광현)国税庁長は「AI中小・スタートアップは技術革新と将来の成長動力の創出を牽引する中核企業であるだけに、成長過程で直面する税務上の困難を減らし、企業が研究開発と事業に集中できる環境を整えることが重要だ」と強調した。"
+              },
+              {
+                "t": "p",
+                "x": "イ・ソヨン(이소영)中小ベンチャー企業部長官は「AI産業の競争力は、革新的な技術とアイデアを持つスタートアップがどれだけ速く成長できる環境をつくれるかにかかっている」とし、「今回の協業を通じて中小ベンチャー企業部の技術開発(R&D)・事業化・金融・グローバル進出支援と国税庁の税務支援が有機的につながり、有望なAI中小・スタートアップが技術開発と成長に一層集中できる基盤をつくる」と述べた。"
+              },
+              {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-                "cap": "人工知能(AI) [ロイター=聯合ニュース資料写真]"
-              },
-              {
-                "t": "p",
-                "x": "米国のドナルド・トランプ政権は、人工知能(AI)企業に対し、自社モデルが引き起こしたさまざまな事故を直ちに政府へ報告し、被害を是正するよう義務付けた。10日(現地時間)のインターネットメディア、アクシオス(Axios)によると、ホワイトハウスのスーパーインテリジェンス・フォース(SIF)は声明で、AI事故の報告は「重大な国家安全保障上の義務」だとしてこう表明した。"
-              },
-              {
-                "t": "p",
-                "x": "ホワイトハウスは「AI企業は自社モデルに関わる事故を直ちに公表し、生じたあらゆる被害を是正するため、迅速かつ断固とした措置を取らなければならない」と強調した。さらに、事故が起きた場合、AI企業は同様の事故の再発防止に向けて協力し、法執行機関にも全面的に協力すべきだと求めた。"
-              },
-              {
-                "t": "p",
-                "x": "これまでAI産業に対して自主規制の方針を貫いてきたトランプ政権がこうした義務的な対応を求めたのは、最近相次いだAIモデルの誤作動事例が背景にあるとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "米国務省当局者によると、アンソロピック(Anthropic)の試験用AIモデルの一つが8月、国務省ウェブサイトの公開フォームを通じて非移民ビザの申請書19件を提出した。また、フィラデルフィアではアンソロピックのAIモデルが未解決の殺人事件について虚偽の情報提供をした事例も確認された。アンソロピックは先月末にこれらの事例を発見した後、政府に報告した。"
-              },
-              {
-                "t": "p",
-                "x": "AI政策を統括するジェイ・クレイトン国家情報長官(DNI)とSIFの関係者は、アンソロピック側に対し、関係機関と一般市民に「即時かつ完全な透明性」を提供するよう求めたという。この日発表された規制はアンソロピックだけでなく、すべてのAI企業に適用される。"
-              },
-              {
-                "t": "p",
-                "x": "ホワイトハウス側は「報告の遅れや不十分な是正措置、責任逃れは容認されない」とし、「イノベーションが国家安全保障や政府システムの信頼性、公共の信頼を損なう口実になってはならない」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "トランプ政権のAI政策を統括するSIFは、クレイトン長官とともに、アンドリュー・ファーガソン連邦取引委員会(FTC)委員長、スコット・クーパー人事管理局(OPM)局長、エミール・マイケル国防次官が共同議長を務めている。"
+                "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+                "cap": "中小ベンチャー企業部の看板[中小ベンチャー企業部提供]"
               }
             ]
           }
         },
         "zh": {
-          "headline": "美白宫要求AI企业\n报告并纠正事故",
-          "body": "白宫SIF要求AI企业将即时报告和纠正事故作为国家安全义务。",
-          "mini_headline": "AI事故强制报告",
+          "headline": "2,559家AI企业\n获暂缓税务调查等支持",
+          "body": "创业5年内的AI初创企业免于定期税务调查，其余企业可申请暂缓2年。",
+          "mini_headline": "AI企业税务调查暂缓",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "韩国中小风险企业部与国税厅11日表示，将为2천559家人工智能(AI)中小企业和初创企业联动提供技术开发、商业化支持与税务支持。"
+              },
+              {
+                "t": "p",
+                "x": "此次支持是两机构去年12月签署的《AI中小企业及初创企业成长支持业务协议》的后续措施。"
+              },
+              {
+                "t": "p",
+                "x": "具体方式是：中小风险企业部发掘成长潜力高的AI企业，在研发(R&D)、商业化、金融、创业、海外拓展等方面提供支持，国税厅则为这些企业提供税务支持。"
+              },
+              {
+                "t": "p",
+                "x": "中小风险企业部今年已与国税厅共享了参与AI应用产品商用化、AI·人工智能转型(AX)优惠担保、基于AI的智能工厂、深科技创业支持、全球加速等20个项目的企业名单。"
+              },
+              {
+                "t": "p",
+                "x": "国税厅将为这些企业提供▲ 最大限度减少税务核查 ▲ 优先处理研究与人力开发费税额抵免事前审查及法人税抵免、减免咨询 ▲ 延长缴税期限、提前发放退税等流动性支持 ▲ AI企业专属税务咨询等服务。"
+              },
+              {
+                "t": "p",
+                "x": "特别是，创业5年以内的AI初创企业将不被列入定期税务调查对象，其他AI中小企业可依纳税人申请，自税务调查预定启动日起暂缓2年定期税务调查。"
+              },
+              {
+                "t": "p",
+                "x": "此外，无明显逃税嫌疑的企业也不列入申报内容核查对象。税务支持期限为本月1日至2028年2月28日。"
+              },
+              {
+                "t": "p",
+                "x": "国税厅厅长임광현强调：“AI中小企业和初创企业是引领技术创新、创造未来增长动力的核心企业，因此减轻其成长过程中面临的税务困难，营造让企业专注于研发和经营的环境十分重要。”"
+              },
+              {
+                "t": "p",
+                "x": "中小风险企业部长官이소영表示：“AI产业的竞争力取决于能否营造让拥有创新技术和创意的初创企业快速成长的环境。”并表示：“通过此次合作，中小风险企业部的技术开发(R&D)、商业化、金融、全球拓展支持将与国税厅的税务支持有机衔接，为有潜力的AI中小企业和初创企业更加专注于技术开发和成长打下基础。”"
+              },
+              {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-                "cap": "人工智能(AI) [路透社=韩联社资料照片]"
-              },
-              {
-                "t": "p",
-                "x": "美国唐纳德·特朗普政府要求人工智能(AI)企业立即向政府报告其模型引发的各类事故，并纠正所造成的损害。据网络媒体Axios当地时间10日报道，白宫超级智能工作组(SIF)在声明中称，报告AI事故是一项“重大的国家安全义务”。"
-              },
-              {
-                "t": "p",
-                "x": "白宫强调：“AI企业必须立即公开与其模型相关的事故，并采取迅速、果断的措施，纠正已造成的一切损害。”白宫还要求，一旦发生事故，AI企业应携手防止类似事故再次发生，并全力配合执法机构。"
-              },
-              {
-                "t": "p",
-                "x": "此前在AI产业问题上一直坚持自律监管方针的特朗普政府，此次转而要求采取强制性应对措施，似乎是由于近期接连出现AI模型故障事件。"
-              },
-              {
-                "t": "p",
-                "x": "据美国国务院官员透露，Anthropic的一个测试用AI模型今年8月通过国务院官网的公开表单提交了19份非移民签证申请。此外，在费城还发现了Anthropic的AI模型就一起未破谋杀案提供虚假线索的案例。Anthropic于上月底发现这些案例后向政府作了报告。"
-              },
-              {
-                "t": "p",
-                "x": "据悉，负责统筹AI政策的国家情报总监(DNI)杰伊·克莱顿和SIF相关人员要求Anthropic方面向相关机构和公众提供“即时且完全的透明度”。当天公布的规定不仅适用于Anthropic，也适用于所有AI企业。"
-              },
-              {
-                "t": "p",
-                "x": "白宫方面表示：“报告拖延、纠正措施不力和逃避责任都将不被容忍。”并称：“创新不能成为损害国家安全、政府系统可靠性和公众信任的借口。”"
-              },
-              {
-                "t": "p",
-                "x": "统筹特朗普政府AI政策的SIF由克莱顿总监与联邦贸易委员会(FTC)主席安德鲁·弗格森、人事管理办公室(OPM)主任斯科特·库珀、国防部副部长埃米尔·迈克尔共同担任主席。"
+                "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+                "cap": "中小风险企业部牌匾[中小风险企业部提供]"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Casa Blanca obliga a reportar\ny corregir incidentes de IA",
-          "body": "El SIF de la Casa Blanca exigió a las empresas de IA reportar y corregir incidentes como deber de seguridad nacional.",
-          "mini_headline": "Reporte obligatorio de incidentes de IA",
+          "headline": "2,559 empresas de AI reciben\nalivio en auditorías fiscales",
+          "body": "Las startups de AI de menos de 5 años no tendrán inspecciones ordinarias y el resto podrá aplazarlas 2 años.",
+          "mini_headline": "Prórroga fiscal para empresas de AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Ministerio de Pymes y Startups y el Servicio Nacional de Impuestos anunciaron el 11 que ofrecerán a 2천559 pymes y startups de inteligencia artificial (AI) apoyo al desarrollo tecnológico y a la comercialización, vinculado a apoyo en materia tributaria."
+              },
+              {
+                "t": "p",
+                "x": "La medida da seguimiento al 'acuerdo de cooperación para apoyar el crecimiento de pymes y startups de AI' que ambas instituciones firmaron en diciembre del año pasado."
+              },
+              {
+                "t": "p",
+                "x": "El ministerio identifica empresas de AI con alto potencial de crecimiento y las apoya en investigación y desarrollo (R&D), comercialización, financiación, emprendimiento y expansión internacional, y el Servicio Nacional de Impuestos ofrece a esas empresas apoyo tributario."
+              },
+              {
+                "t": "p",
+                "x": "Este año, el ministerio compartió con el Servicio Nacional de Impuestos la lista de empresas que participaron en 20 programas, como la comercialización de productos de aplicación de AI, las garantías preferentes para AI y transformación con inteligencia artificial (AX), las fábricas inteligentes basadas en AI, el apoyo a startups de tecnología profunda y la aceleración global."
+              },
+              {
+                "t": "p",
+                "x": "El Servicio Nacional de Impuestos ofrecerá a estas empresas ▲ mínima verificación tributaria ▲ tramitación prioritaria de la revisión previa de créditos fiscales por gastos de investigación y desarrollo de personal y de la asesoría sobre deducciones y reducciones del impuesto de sociedades ▲ apoyo de liquidez, como la prórroga de plazos de pago y el pago anticipado de devoluciones ▲ asesoría tributaria exclusiva para empresas de AI."
+              },
+              {
+                "t": "p",
+                "x": "En particular, las startups de AI con menos de 5 años desde su creación quedarán excluidas de la selección para inspecciones fiscales ordinarias, y las demás pymes de AI podrán, a solicitud del contribuyente, aplazar las inspecciones ordinarias durante 2 años desde la fecha prevista de inicio."
+              },
+              {
+                "t": "p",
+                "x": "Además, las empresas sin indicios claros de evasión quedarán excluidas de la verificación de sus declaraciones. El periodo de apoyo va del 1 de este mes al 28 de febrero de 2028."
+              },
+              {
+                "t": "p",
+                "x": "El comisionado del Servicio Nacional de Impuestos, Lim Kwang-hyun, subrayó: \"Como las pymes y startups de AI son empresas clave que impulsarán la innovación tecnológica y crearán nuevos motores de crecimiento, es importante reducir las dificultades tributarias que enfrentan al crecer y crear un entorno en el que puedan concentrarse en la investigación y el desarrollo y en su negocio\"."
+              },
+              {
+                "t": "p",
+                "x": "La ministra de Pymes y Startups, Lee So-young, afirmó: \"La competitividad de la industria de la AI depende de con qué rapidez se cree un entorno en el que las startups con tecnologías e ideas innovadoras puedan crecer\", y añadió: \"Con esta colaboración, el apoyo del ministerio al desarrollo tecnológico (R&D), la comercialización, la financiación y la expansión global se conectará de forma orgánica con el apoyo tributario del Servicio Nacional de Impuestos, para sentar las bases de que las pymes y startups de AI prometedoras se concentren aún más en el desarrollo tecnológico y el crecimiento\"."
+              },
+              {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-                "cap": "Inteligencia artificial (AI) [Reuters=foto de archivo de Yonhap]"
-              },
-              {
-                "t": "p",
-                "x": "El gobierno de Donald Trump en Estados Unidos ha obligado a las empresas de inteligencia artificial (AI) a informar de inmediato al gobierno de los incidentes causados por sus modelos y a reparar los daños. Según el medio digital Axios, el día 10 (hora local) la Fuerza de Superinteligencia (SIF) de la Casa Blanca afirmó en un comunicado que la notificación de incidentes de IA es un 'deber crucial de seguridad nacional'."
-              },
-              {
-                "t": "p",
-                "x": "La Casa Blanca subrayó que \"las empresas de IA deben revelar de inmediato los incidentes relacionados con sus modelos y tomar medidas rápidas y decididas para corregir todo daño ocasionado\". Además, exigió que, cuando ocurra un incidente, las empresas de IA colaboren para evitar que se repitan casos similares y cooperen plenamente con las fuerzas del orden."
-              },
-              {
-                "t": "p",
-                "x": "Que el gobierno de Trump, que había mantenido una política de autorregulación para la industria de la IA, exija ahora una respuesta obligatoria parece deberse a los recientes y sucesivos fallos de modelos de IA."
-              },
-              {
-                "t": "p",
-                "x": "Según un funcionario del Departamento de Estado, uno de los modelos de IA de prueba de Anthropic presentó en agosto 19 solicitudes de visa de no inmigrante a través de un formulario público del sitio web del Departamento de Estado. También se confirmó un caso en Filadelfia en el que un modelo de IA de Anthropic dio una pista falsa sobre un asesinato sin resolver. Anthropic informó al gobierno tras detectar estos casos a finales del mes pasado."
-              },
-              {
-                "t": "p",
-                "x": "Según se informó, Jay Clayton, director de Inteligencia Nacional (DNI), que supervisa la política de IA, y funcionarios del SIF pidieron a Anthropic que ofreciera 'transparencia inmediata y completa' a los organismos pertinentes y al público. La regulación anunciada ese día se aplica no solo a Anthropic, sino a todas las empresas de IA."
-              },
-              {
-                "t": "p",
-                "x": "La Casa Blanca afirmó que \"no se tolerarán los retrasos en la notificación, las medidas correctivas insuficientes ni la evasión de responsabilidades\" y que \"la innovación no puede ser una excusa para socavar la seguridad nacional, la fiabilidad de los sistemas gubernamentales y la confianza pública\"."
-              },
-              {
-                "t": "p",
-                "x": "El SIF, que supervisa la política de IA del gobierno de Trump, está copresidido por el director Clayton junto con el presidente de la Comisión Federal de Comercio (FTC), Andrew Ferguson; el director de la Oficina de Gestión de Personal (OPM), Scott Kupor, y el subsecretario de Defensa Emil Michael."
+                "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+                "cap": "Placa del Ministerio de Pymes y Startups [Cortesía del Ministerio de Pymes y Startups]"
               }
             ]
           }
@@ -271,173 +319,205 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "White House orders AI incident\nreporting and remediation",
-          "body": "The White House SIF required AI companies to report and correct incidents immediately as a national security duty.",
-          "mini_headline": "AI incident reporting mandated",
+          "headline": "Tax audit relief and support\nfor 2,559 AI companies",
+          "body": "AI startups within 5 years of founding are exempt from regular tax audits, and others may seek a 2-year deferral.",
+          "mini_headline": "AI firms get tax audit deferral",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Ministry of SMEs and Startups and the National Tax Service said on the 11th that they will provide 2천559 artificial intelligence (AI) small and medium-sized businesses and startups with support for technology development and commercialization, linked with tax administration support."
+              },
+              {
+                "t": "p",
+                "x": "The support is a follow-up to the 'business agreement to support the growth of AI SMEs and startups' that the two agencies signed in December last year."
+              },
+              {
+                "t": "p",
+                "x": "Under the arrangement, the ministry identifies AI companies with high growth potential and supports them in research and development (R&D), commercialization, financing, startups and overseas expansion, while the National Tax Service provides those companies with tax administration support."
+              },
+              {
+                "t": "p",
+                "x": "This year the ministry shared with the National Tax Service the list of companies that took part in 20 programs, including AI application product commercialization, AI and AI transformation (AX) preferential guarantees, AI-based smart factories, deep-tech startup support and global accelerating."
+              },
+              {
+                "t": "p",
+                "x": "The National Tax Service will provide these companies with ▲ minimal tax verification ▲ priority handling of advance reviews for research and human resources development tax credits and of consulting on corporate tax deductions and reductions ▲ liquidity support such as payment deadline extensions and early payment of refunds ▲ dedicated tax consultation for AI companies."
+              },
+              {
+                "t": "p",
+                "x": "In particular, AI startups within 5 years of founding will be excluded from selection for regular tax audits, and other AI SMEs can, on the taxpayer's application, have regular tax audits deferred for 2 years from the scheduled start date of the audit."
+              },
+              {
+                "t": "p",
+                "x": "Companies without clear signs of tax evasion will also be excluded from filing reviews. The tax support period runs from the 1st of this month to February 28, 2028."
+              },
+              {
+                "t": "p",
+                "x": "National Tax Service Commissioner Lim Kwang-hyun stressed, \"As AI SMEs and startups are key companies that will lead technological innovation and create future growth engines, it is important to reduce the tax difficulties they face as they grow and to create an environment where they can focus on research and development and on their business.\""
+              },
+              {
+                "t": "p",
+                "x": "Minister of SMEs and Startups Lee So-young said, \"The competitiveness of the AI industry depends on how quickly we can create an environment in which startups with innovative technologies and ideas can grow,\" adding, \"Through this collaboration, the ministry's support for technology development (R&D), commercialization, financing and global expansion will be closely linked with the National Tax Service's tax support, laying a foundation for promising AI SMEs and startups to focus more on technology development and growth.\""
+              },
+              {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-                "cap": "Artificial intelligence (AI) [Reuters=Yonhap News file photo]"
-              },
-              {
-                "t": "p",
-                "x": "The Donald Trump administration in the United States has required artificial intelligence (AI) companies to immediately report to the government any incidents caused by their models and to remedy the harm. According to the online outlet Axios on the 10th (local time), the White House Superintelligence Force (SIF) said in a statement that reporting AI incidents is a 'critical national security duty.'"
-              },
-              {
-                "t": "p",
-                "x": "The White House stressed that \"AI companies must immediately disclose incidents involving their models and take swift and decisive action to correct any harm that has occurred.\" It went on to demand that, when an incident occurs, AI companies work together to prevent similar incidents from recurring and cooperate fully with law enforcement agencies."
-              },
-              {
-                "t": "p",
-                "x": "The Trump administration had held to a policy of self-regulation for the AI industry, and its move to demand a mandatory response appears to stem from a recent string of AI model malfunctions."
-              },
-              {
-                "t": "p",
-                "x": "According to a U.S. State Department official, one of Anthropic's test AI models submitted 19 nonimmigrant visa applications in August through a public form on the State Department website. In Philadelphia, an Anthropic AI model was also found to have made a false tip about an unsolved murder case. Anthropic reported these cases to the government after discovering them late last month."
-              },
-              {
-                "t": "p",
-                "x": "Jay Clayton, Director of National Intelligence (DNI), who oversees AI policy, and SIF officials reportedly demanded that Anthropic provide 'immediate and complete transparency' to the relevant agencies and the public. The regulation announced that day applies not only to Anthropic but to all AI companies."
-              },
-              {
-                "t": "p",
-                "x": "The White House said, \"Delays in reporting, inadequate corrective measures and evasion of responsibility will not be tolerated,\" adding, \"Innovation cannot be an excuse to undermine national security, the reliability of government systems, or public trust.\""
-              },
-              {
-                "t": "p",
-                "x": "The SIF, which oversees the Trump administration's AI policy, is co-chaired by Director Clayton along with Federal Trade Commission (FTC) Chairman Andrew Ferguson, Office of Personnel Management (OPM) Director Scott Kupor and Under Secretary of Defense Emil Michael."
+                "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+                "cap": "Signboard of the Ministry of SMEs and Startups [Provided by the Ministry of SMEs and Startups]"
               }
             ]
           }
         },
         "ja": {
-          "headline": "米ホワイトハウス、AI事故\nの報告・是正を義務化",
-          "body": "ホワイトハウスのSIFはAI企業に事故の即時報告と是正を国家安全保障上の義務として求めた。",
-          "mini_headline": "AI事故の報告を義務化",
+          "headline": "AI企業2,559社に\n税務調査猶予など支援",
+          "body": "創業5年以内のAIスタートアップは定期税務調査の対象外、他は2年の猶予を申請できる。",
+          "mini_headline": "AI企業の税務調査猶予",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "中小ベンチャー企業部と国税庁は11日、人工知能(AI)分野の中小企業・スタートアップ2천559社に対し、技術開発・事業化支援と税務支援を連携して提供すると明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "今回の支援は、昨年12月に両機関が締結した「AI中小・スタートアップ成長支援のための業務協約」の後続措置である。"
+              },
+              {
+                "t": "p",
+                "x": "中小ベンチャー企業部が成長可能性の高いAI企業を発掘して研究開発(R&D)や事業化、金融、創業、海外進出などを支援し、国税庁がそれらの企業に税務支援を提供する仕組みだ。"
+              },
+              {
+                "t": "p",
+                "x": "中小ベンチャー企業部は今年、AI応用製品の商用化、AI・人工知能転換(AX)優遇保証、AI基盤スマート工場、ディープテック創業支援、グローバルアクセラレーティングなど20の事業に参加した企業の名簿を国税庁と共有した。"
+              },
+              {
+                "t": "p",
+                "x": "国税庁はこれらの企業に対し、▲ 税務検証の最小化 ▲ 研究・人材開発費の税額控除の事前審査と法人税の控除・減免コンサルティングの優先処理 ▲ 納付期限の延長・還付金の早期支給などの流動性支援 ▲ AI企業専用の税務相談などを行うことにした。"
+              },
+              {
+                "t": "p",
+                "x": "特に創業5年以内のAIスタートアップは定期税務調査の選定から除外し、その他のAI中小企業は納税者の申請に応じて、税務調査の着手予定日から2年間、定期税務調査を猶予する。"
+              },
+              {
+                "t": "p",
+                "x": "また、明白な脱税の疑いがない企業は申告内容確認の対象からも除外する。税務支援の期間は今月1日から2028年2月28日までだ。"
+              },
+              {
+                "t": "p",
+                "x": "イム・グァンヒョン(임광현)国税庁長は「AI中小・スタートアップは技術革新と将来の成長動力の創出を牽引する中核企業であるだけに、成長過程で直面する税務上の困難を減らし、企業が研究開発と事業に集中できる環境を整えることが重要だ」と強調した。"
+              },
+              {
+                "t": "p",
+                "x": "イ・ソヨン(이소영)中小ベンチャー企業部長官は「AI産業の競争力は、革新的な技術とアイデアを持つスタートアップがどれだけ速く成長できる環境をつくれるかにかかっている」とし、「今回の協業を通じて中小ベンチャー企業部の技術開発(R&D)・事業化・金融・グローバル進出支援と国税庁の税務支援が有機的につながり、有望なAI中小・スタートアップが技術開発と成長に一層集中できる基盤をつくる」と述べた。"
+              },
+              {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-                "cap": "人工知能(AI) [ロイター=聯合ニュース資料写真]"
-              },
-              {
-                "t": "p",
-                "x": "米国のドナルド・トランプ政権は、人工知能(AI)企業に対し、自社モデルが引き起こしたさまざまな事故を直ちに政府へ報告し、被害を是正するよう義務付けた。10日(現地時間)のインターネットメディア、アクシオス(Axios)によると、ホワイトハウスのスーパーインテリジェンス・フォース(SIF)は声明で、AI事故の報告は「重大な国家安全保障上の義務」だとしてこう表明した。"
-              },
-              {
-                "t": "p",
-                "x": "ホワイトハウスは「AI企業は自社モデルに関わる事故を直ちに公表し、生じたあらゆる被害を是正するため、迅速かつ断固とした措置を取らなければならない」と強調した。さらに、事故が起きた場合、AI企業は同様の事故の再発防止に向けて協力し、法執行機関にも全面的に協力すべきだと求めた。"
-              },
-              {
-                "t": "p",
-                "x": "これまでAI産業に対して自主規制の方針を貫いてきたトランプ政権がこうした義務的な対応を求めたのは、最近相次いだAIモデルの誤作動事例が背景にあるとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "米国務省当局者によると、アンソロピック(Anthropic)の試験用AIモデルの一つが8月、国務省ウェブサイトの公開フォームを通じて非移民ビザの申請書19件を提出した。また、フィラデルフィアではアンソロピックのAIモデルが未解決の殺人事件について虚偽の情報提供をした事例も確認された。アンソロピックは先月末にこれらの事例を発見した後、政府に報告した。"
-              },
-              {
-                "t": "p",
-                "x": "AI政策を統括するジェイ・クレイトン国家情報長官(DNI)とSIFの関係者は、アンソロピック側に対し、関係機関と一般市民に「即時かつ完全な透明性」を提供するよう求めたという。この日発表された規制はアンソロピックだけでなく、すべてのAI企業に適用される。"
-              },
-              {
-                "t": "p",
-                "x": "ホワイトハウス側は「報告の遅れや不十分な是正措置、責任逃れは容認されない」とし、「イノベーションが国家安全保障や政府システムの信頼性、公共の信頼を損なう口実になってはならない」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "トランプ政権のAI政策を統括するSIFは、クレイトン長官とともに、アンドリュー・ファーガソン連邦取引委員会(FTC)委員長、スコット・クーパー人事管理局(OPM)局長、エミール・マイケル国防次官が共同議長を務めている。"
+                "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+                "cap": "中小ベンチャー企業部の看板[中小ベンチャー企業部提供]"
               }
             ]
           }
         },
         "zh": {
-          "headline": "美白宫要求AI企业\n报告并纠正事故",
-          "body": "白宫SIF要求AI企业将即时报告和纠正事故作为国家安全义务。",
-          "mini_headline": "AI事故强制报告",
+          "headline": "2,559家AI企业\n获暂缓税务调查等支持",
+          "body": "创业5年内的AI初创企业免于定期税务调查，其余企业可申请暂缓2年。",
+          "mini_headline": "AI企业税务调查暂缓",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "韩国中小风险企业部与国税厅11日表示，将为2천559家人工智能(AI)中小企业和初创企业联动提供技术开发、商业化支持与税务支持。"
+              },
+              {
+                "t": "p",
+                "x": "此次支持是两机构去年12月签署的《AI中小企业及初创企业成长支持业务协议》的后续措施。"
+              },
+              {
+                "t": "p",
+                "x": "具体方式是：中小风险企业部发掘成长潜力高的AI企业，在研发(R&D)、商业化、金融、创业、海外拓展等方面提供支持，国税厅则为这些企业提供税务支持。"
+              },
+              {
+                "t": "p",
+                "x": "中小风险企业部今年已与国税厅共享了参与AI应用产品商用化、AI·人工智能转型(AX)优惠担保、基于AI的智能工厂、深科技创业支持、全球加速等20个项目的企业名单。"
+              },
+              {
+                "t": "p",
+                "x": "国税厅将为这些企业提供▲ 最大限度减少税务核查 ▲ 优先处理研究与人力开发费税额抵免事前审查及法人税抵免、减免咨询 ▲ 延长缴税期限、提前发放退税等流动性支持 ▲ AI企业专属税务咨询等服务。"
+              },
+              {
+                "t": "p",
+                "x": "特别是，创业5年以内的AI初创企业将不被列入定期税务调查对象，其他AI中小企业可依纳税人申请，自税务调查预定启动日起暂缓2年定期税务调查。"
+              },
+              {
+                "t": "p",
+                "x": "此外，无明显逃税嫌疑的企业也不列入申报内容核查对象。税务支持期限为本月1日至2028年2月28日。"
+              },
+              {
+                "t": "p",
+                "x": "国税厅厅长임광현强调：“AI中小企业和初创企业是引领技术创新、创造未来增长动力的核心企业，因此减轻其成长过程中面临的税务困难，营造让企业专注于研发和经营的环境十分重要。”"
+              },
+              {
+                "t": "p",
+                "x": "中小风险企业部长官이소영表示：“AI产业的竞争力取决于能否营造让拥有创新技术和创意的初创企业快速成长的环境。”并表示：“通过此次合作，中小风险企业部的技术开发(R&D)、商业化、金融、全球拓展支持将与国税厅的税务支持有机衔接，为有潜力的AI中小企业和初创企业更加专注于技术开发和成长打下基础。”"
+              },
+              {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-                "cap": "人工智能(AI) [路透社=韩联社资料照片]"
-              },
-              {
-                "t": "p",
-                "x": "美国唐纳德·特朗普政府要求人工智能(AI)企业立即向政府报告其模型引发的各类事故，并纠正所造成的损害。据网络媒体Axios当地时间10日报道，白宫超级智能工作组(SIF)在声明中称，报告AI事故是一项“重大的国家安全义务”。"
-              },
-              {
-                "t": "p",
-                "x": "白宫强调：“AI企业必须立即公开与其模型相关的事故，并采取迅速、果断的措施，纠正已造成的一切损害。”白宫还要求，一旦发生事故，AI企业应携手防止类似事故再次发生，并全力配合执法机构。"
-              },
-              {
-                "t": "p",
-                "x": "此前在AI产业问题上一直坚持自律监管方针的特朗普政府，此次转而要求采取强制性应对措施，似乎是由于近期接连出现AI模型故障事件。"
-              },
-              {
-                "t": "p",
-                "x": "据美国国务院官员透露，Anthropic的一个测试用AI模型今年8月通过国务院官网的公开表单提交了19份非移民签证申请。此外，在费城还发现了Anthropic的AI模型就一起未破谋杀案提供虚假线索的案例。Anthropic于上月底发现这些案例后向政府作了报告。"
-              },
-              {
-                "t": "p",
-                "x": "据悉，负责统筹AI政策的国家情报总监(DNI)杰伊·克莱顿和SIF相关人员要求Anthropic方面向相关机构和公众提供“即时且完全的透明度”。当天公布的规定不仅适用于Anthropic，也适用于所有AI企业。"
-              },
-              {
-                "t": "p",
-                "x": "白宫方面表示：“报告拖延、纠正措施不力和逃避责任都将不被容忍。”并称：“创新不能成为损害国家安全、政府系统可靠性和公众信任的借口。”"
-              },
-              {
-                "t": "p",
-                "x": "统筹特朗普政府AI政策的SIF由克莱顿总监与联邦贸易委员会(FTC)主席安德鲁·弗格森、人事管理办公室(OPM)主任斯科特·库珀、国防部副部长埃米尔·迈克尔共同担任主席。"
+                "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+                "cap": "中小风险企业部牌匾[中小风险企业部提供]"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Casa Blanca obliga a reportar\ny corregir incidentes de IA",
-          "body": "El SIF de la Casa Blanca exigió a las empresas de IA reportar y corregir incidentes como deber de seguridad nacional.",
-          "mini_headline": "Reporte obligatorio de incidentes de IA",
+          "headline": "2,559 empresas de AI reciben\nalivio en auditorías fiscales",
+          "body": "Las startups de AI de menos de 5 años no tendrán inspecciones ordinarias y el resto podrá aplazarlas 2 años.",
+          "mini_headline": "Prórroga fiscal para empresas de AI",
           "full": {
             "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Ministerio de Pymes y Startups y el Servicio Nacional de Impuestos anunciaron el 11 que ofrecerán a 2천559 pymes y startups de inteligencia artificial (AI) apoyo al desarrollo tecnológico y a la comercialización, vinculado a apoyo en materia tributaria."
+              },
+              {
+                "t": "p",
+                "x": "La medida da seguimiento al 'acuerdo de cooperación para apoyar el crecimiento de pymes y startups de AI' que ambas instituciones firmaron en diciembre del año pasado."
+              },
+              {
+                "t": "p",
+                "x": "El ministerio identifica empresas de AI con alto potencial de crecimiento y las apoya en investigación y desarrollo (R&D), comercialización, financiación, emprendimiento y expansión internacional, y el Servicio Nacional de Impuestos ofrece a esas empresas apoyo tributario."
+              },
+              {
+                "t": "p",
+                "x": "Este año, el ministerio compartió con el Servicio Nacional de Impuestos la lista de empresas que participaron en 20 programas, como la comercialización de productos de aplicación de AI, las garantías preferentes para AI y transformación con inteligencia artificial (AX), las fábricas inteligentes basadas en AI, el apoyo a startups de tecnología profunda y la aceleración global."
+              },
+              {
+                "t": "p",
+                "x": "El Servicio Nacional de Impuestos ofrecerá a estas empresas ▲ mínima verificación tributaria ▲ tramitación prioritaria de la revisión previa de créditos fiscales por gastos de investigación y desarrollo de personal y de la asesoría sobre deducciones y reducciones del impuesto de sociedades ▲ apoyo de liquidez, como la prórroga de plazos de pago y el pago anticipado de devoluciones ▲ asesoría tributaria exclusiva para empresas de AI."
+              },
+              {
+                "t": "p",
+                "x": "En particular, las startups de AI con menos de 5 años desde su creación quedarán excluidas de la selección para inspecciones fiscales ordinarias, y las demás pymes de AI podrán, a solicitud del contribuyente, aplazar las inspecciones ordinarias durante 2 años desde la fecha prevista de inicio."
+              },
+              {
+                "t": "p",
+                "x": "Además, las empresas sin indicios claros de evasión quedarán excluidas de la verificación de sus declaraciones. El periodo de apoyo va del 1 de este mes al 28 de febrero de 2028."
+              },
+              {
+                "t": "p",
+                "x": "El comisionado del Servicio Nacional de Impuestos, Lim Kwang-hyun, subrayó: \"Como las pymes y startups de AI son empresas clave que impulsarán la innovación tecnológica y crearán nuevos motores de crecimiento, es importante reducir las dificultades tributarias que enfrentan al crecer y crear un entorno en el que puedan concentrarse en la investigación y el desarrollo y en su negocio\"."
+              },
+              {
+                "t": "p",
+                "x": "La ministra de Pymes y Startups, Lee So-young, afirmó: \"La competitividad de la industria de la AI depende de con qué rapidez se cree un entorno en el que las startups con tecnologías e ideas innovadoras puedan crecer\", y añadió: \"Con esta colaboración, el apoyo del ministerio al desarrollo tecnológico (R&D), la comercialización, la financiación y la expansión global se conectará de forma orgánica con el apoyo tributario del Servicio Nacional de Impuestos, para sentar las bases de que las pymes y startups de AI prometedoras se concentren aún más en el desarrollo tecnológico y el crecimiento\"."
+              },
+              {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-                "cap": "Inteligencia artificial (AI) [Reuters=foto de archivo de Yonhap]"
-              },
-              {
-                "t": "p",
-                "x": "El gobierno de Donald Trump en Estados Unidos ha obligado a las empresas de inteligencia artificial (AI) a informar de inmediato al gobierno de los incidentes causados por sus modelos y a reparar los daños. Según el medio digital Axios, el día 10 (hora local) la Fuerza de Superinteligencia (SIF) de la Casa Blanca afirmó en un comunicado que la notificación de incidentes de IA es un 'deber crucial de seguridad nacional'."
-              },
-              {
-                "t": "p",
-                "x": "La Casa Blanca subrayó que \"las empresas de IA deben revelar de inmediato los incidentes relacionados con sus modelos y tomar medidas rápidas y decididas para corregir todo daño ocasionado\". Además, exigió que, cuando ocurra un incidente, las empresas de IA colaboren para evitar que se repitan casos similares y cooperen plenamente con las fuerzas del orden."
-              },
-              {
-                "t": "p",
-                "x": "Que el gobierno de Trump, que había mantenido una política de autorregulación para la industria de la IA, exija ahora una respuesta obligatoria parece deberse a los recientes y sucesivos fallos de modelos de IA."
-              },
-              {
-                "t": "p",
-                "x": "Según un funcionario del Departamento de Estado, uno de los modelos de IA de prueba de Anthropic presentó en agosto 19 solicitudes de visa de no inmigrante a través de un formulario público del sitio web del Departamento de Estado. También se confirmó un caso en Filadelfia en el que un modelo de IA de Anthropic dio una pista falsa sobre un asesinato sin resolver. Anthropic informó al gobierno tras detectar estos casos a finales del mes pasado."
-              },
-              {
-                "t": "p",
-                "x": "Según se informó, Jay Clayton, director de Inteligencia Nacional (DNI), que supervisa la política de IA, y funcionarios del SIF pidieron a Anthropic que ofreciera 'transparencia inmediata y completa' a los organismos pertinentes y al público. La regulación anunciada ese día se aplica no solo a Anthropic, sino a todas las empresas de IA."
-              },
-              {
-                "t": "p",
-                "x": "La Casa Blanca afirmó que \"no se tolerarán los retrasos en la notificación, las medidas correctivas insuficientes ni la evasión de responsabilidades\" y que \"la innovación no puede ser una excusa para socavar la seguridad nacional, la fiabilidad de los sistemas gubernamentales y la confianza pública\"."
-              },
-              {
-                "t": "p",
-                "x": "El SIF, que supervisa la política de IA del gobierno de Trump, está copresidido por el director Clayton junto con el presidente de la Comisión Federal de Comercio (FTC), Andrew Ferguson; el director de la Oficina de Gestión de Personal (OPM), Scott Kupor, y el subsecretario de Defensa Emil Michael."
+                "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+                "cap": "Placa del Ministerio de Pymes y Startups [Cortesía del Ministerio de Pymes y Startups]"
               }
             ]
           }
@@ -445,311 +525,321 @@
       }
     },
     {
-      "id": "uber-gdpr-art22-fine",
+      "id": "us-china-ai-safety-cooperation",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "네덜란드 당국, Uber에\n€825M 자동결정 벌금",
-      "body": "네덜란드 당국이 GDPR을 어긴 Uber 자동결정에 약 €825M 벌금을 매겼다.",
-      "mini_headline": "Uber, 알고리즘 탓 €825M 벌금",
+      "headline": "US-China AI 안전\n협력이 필요한 이유",
+      "body": "Marina Yue Zhang은 신뢰 없이도 AI 안전 협력이 가능하다고 본다.",
+      "mini_headline": "US-China AI 안전 협력론",
       "tool": "Politics",
-      "source": "European Data Protection Board",
-      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "법적 근거: 제22조(프로파일링을 포함한 자동화된 개인 결정)와 제13조(정보주체로부터 개인정보를 수집할 때 제공해야 할 정보). 결정: 행정 과징금."
+            "t": "img",
+            "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+            "cap": "Credit: Depositphotos"
           },
           {
             "t": "p",
-            "x": "네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)는 Uber에 EUR 824 990 000의 과징금을 부과했다. AP는 Uber가 운전기사에 대한 결정을 완전히 자동으로 내렸다고 봤다. 사기 의심이 있거나 고객 평점이 지나치게 낮으면 기사 계정이 자동으로 일시 비활성화됐고, 낮은 평점이 계속되면 영구 비활성화됐다. 기사들은 계정이 막힌 동안 Uber에서 벌던 수입을 잃었다."
+            "x": "Marina Yue Zhang은 The Diplomat 기고문에서 AI의 핵심 변화로 에이전트가 이제 직접 행동한다는 점을 꼽는다. 코드를 짜서 실행하고 도구를 쓰며 자격 증명까지 얻는다. 그러면 안전은 집단행동 문제가 된다. 워싱턴도 베이징도 속도를 늦추려 하지 않는 죄수의 딜레마다."
           },
           {
             "t": "p",
-            "x": "조사는 프랑스 Uber 기사 171명이 Ligue des droits de l’Homme(LDH)를 통해 프랑스 Commission Nationale de l'Informatique et des Libertés(CNIL)에 낸 민원에서 시작됐다. Uber의 유럽 본사가 네덜란드에 있어서 사건은 GDPR One-Stop-Shop 절차에 따라 네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)가 맡았다. 문제가 된 일은 2018년부터 2022년 사이에 벌어졌다."
+            "x": "Zhang은 US가 9월 29일 기업 여섯 곳이 서명한 백악관 협약을 비롯해 업계의 자율 통제에 기대는 반면, 중국은 AI Safety Governance Framework 3.0 같은 중앙 조율형 규칙을 쓴다고 짚는다. 두 나라가 소프트웨어와 인증서, 오픈소스 의존성을 함께 쓰는 만큼 심각하지만 눈에 잘 띄지 않는 피해가 국경을 넘을 수 있다."
           },
           {
             "t": "p",
-            "x": "AP에 따르면 Uber는 일반개인정보보호법(GDPR)의 완전 자동화 결정 금지 조항을 위반했다. Uber가 자동 결정을 두고 기사들에게 충분히 알리지 않았다는 것도 AP의 판단이다. Uber는 위반 행위를 이미 멈췄다."
+            "x": "협력 범위는 좁게 묶어 둘 수 있다는 게 Zhang의 주장이다. US는 중국을 신뢰하거나 프런티어 모델을 공유하거나 자국의 개발 속도를 늦출 필요가 없다. 그는 인간 통제 임계값에 관한 공동 작업, 샌드박스 탈출과 종료 저항을 점검하는 호환 가능한 시험, AI-enabled 사이버 사건을 확대하기 전 적용할 공통 증거 기준, 그리고 프런티어 방어 역량을 다른 나라로 넓혀 \"AI remediation gap\"(AI 복구 격차)을 메우는 일을 제안한다."
           },
           {
             "t": "p",
-            "x": "Uber는 과징금에 불복해 항소했고 최종 사법 판단은 아직 나오지 않았다."
+            "x": "Zhang은 APEC 선전(Shenzhen) 정상회의가 중견국을 중재자로 두고 기술 기구에 이 작업을 맡길 수 있다고 제안한다. 기술적 실패가 지정학적 위기로 번지지 않게 막는 것이 목표라고 그는 적었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Dutch regulator fines Uber\n€825M over automated decisions",
-          "body": "The Dutch data protection authority fined Uber about €825 million for unlawful automated decision-making under GDPR.",
-          "mini_headline": "Uber fined €825M over algorithms",
+          "headline": "A case for US-China\nAI safety cooperation",
+          "body": "Marina Yue Zhang argues the US can cooperate with China on AI safety without trusting it or slowing down.",
+          "mini_headline": "Case for US-China AI safety",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the data subject). Decision: Administrative fine."
+                "t": "img",
+                "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+                "cap": "Credit: Depositphotos"
               },
               {
                 "t": "p",
-                "x": "The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, imposes a fine of EUR 824 990 000 on Uber. The reason for this is that the AP has ruled that Uber made fully automated decisions about drivers. In case of suspicions of fraud or customer reviews that were too low, drivers' accounts were automatically temporarily deactivated or, in case of persistent low customer reviews, permanently deactivated. As a result, their income was lost via Uber during the deactivation."
+                "x": "In a commentary for The Diplomat, Marina Yue Zhang argues that the key shift in AI is that agents can now act: write and run code, use tools and obtain credentials. That makes safety a collective-action problem, a prisoner's dilemma in which neither Washington nor Beijing wants to slow down."
               },
               {
                 "t": "p",
-                "x": "Complaints from 171 French Uber drivers, submitted through the Ligue des droits de l’Homme (LDH) to the French Commission Nationale de l'Informatique et des Libertés (CNIL), led to the investigation. As Uber’s European headquarters are in the Netherlands, the case was handled by the Dutch data protection authority, the Autoriteit Persoonsgegevens (AP), under the GDPR One-Stop-Shop procedure. The case concerned incidents between 2018 and 2022."
+                "x": "She notes the US relies on voluntary industry controls, including a September 29 White House accord signed by six firms, while China uses centrally coordinated rules such as its AI Safety Governance Framework 3.0. Both share software, certificates and open-source dependencies, so severe, invisible harm can cross borders."
               },
               {
                 "t": "p",
-                "x": "According to the AP, Uber has violated the prohibition of fully automated decision-making under the General Data Protection Regulation (GDPR). The AP also found that Uber did not sufficiently inform drivers about automatic decision-making. Uber has now stopped the violations."
+                "x": "Cooperation can stay narrow, she argues: the US need not trust China, share frontier models or slow its own development. She proposes joint work on human-control thresholds, compatible tests for sandbox escape and shutdown resistance, shared evidence standards before escalating AI-enabled cyber incidents, and closing the \"AI remediation gap\" by extending frontier defensive capability to other countries."
               },
               {
                 "t": "p",
-                "x": "Uber has appealed the fine, and there is no final judicial decision yet."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Países Bajos multa a Uber con\n€825M por decisiones automáticas",
-          "body": "El regulador neerlandés multó a Uber con unos 825 millones de euros por decisiones automatizadas contrarias al GDPR.",
-          "mini_headline": "Multa de €825M a Uber por algoritmos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Referencias legales (Legal Reference(s)): artículo 22 (Article 22; decisiones individuales automatizadas, incluida la elaboración de perfiles) y artículo 13 (Article 13; información que deberá facilitarse cuando los datos personales se obtengan del interesado). Decisión (Decision): multa administrativa (Administrative fine)."
-              },
-              {
-                "t": "p",
-                "x": "La Autoriteit Persoonsgegevens (AP), la autoridad neerlandesa de protección de datos, impone a Uber una multa de EUR 824 990 000. El motivo es que la AP ha determinado que Uber tomó decisiones totalmente automatizadas sobre los conductores. Ante sospechas de fraude o valoraciones de clientes demasiado bajas, las cuentas de los conductores se desactivaban automáticamente de forma temporal o, si las valoraciones bajas persistían, de forma permanente. Como resultado, los conductores perdían los ingresos obtenidos a través de Uber durante la desactivación."
-              },
-              {
-                "t": "p",
-                "x": "Las quejas de 171 conductores franceses de Uber, presentadas a través de la Ligue des droits de l’Homme (LDH) ante la Commission Nationale de l'Informatique et des Libertés (CNIL) de Francia, dieron origen a la investigación. Como la sede europea de Uber está en los Países Bajos, el caso lo tramitó la autoridad neerlandesa de protección de datos, la Autoriteit Persoonsgegevens (AP), conforme al procedimiento One-Stop-Shop del GDPR. El caso se refería a incidentes ocurridos entre 2018 y 2022."
-              },
-              {
-                "t": "p",
-                "x": "Según la AP, Uber vulneró la prohibición de la toma de decisiones totalmente automatizada (decision-making) establecida en el Reglamento General de Protección de Datos (General Data Protection Regulation, GDPR). La AP también concluyó que Uber no informó suficientemente a los conductores sobre la toma de decisiones automatizada. Uber ya ha puesto fin a las infracciones."
-              },
-              {
-                "t": "p",
-                "x": "Uber ha recurrido la multa y aún no hay una resolución judicial firme."
+                "x": "She suggests APEC's Shenzhen leaders' meeting could task technical bodies with this work, with middle powers as intermediaries. The goal, she writes, is to stop technical failures from becoming geopolitical crises."
               }
             ]
           }
         },
         "ko": {
-          "headline": "네덜란드 당국, Uber에\n€825M 자동결정 벌금",
-          "body": "네덜란드 당국이 GDPR을 어긴 Uber 자동결정에 약 €825M 벌금을 매겼다.",
-          "mini_headline": "Uber, 알고리즘 탓 €825M 벌금",
+          "headline": "US-China AI 안전\n협력이 필요한 이유",
+          "body": "Marina Yue Zhang은 신뢰 없이도 AI 안전 협력이 가능하다고 본다.",
+          "mini_headline": "US-China AI 안전 협력론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "법적 근거: 제22조(프로파일링을 포함한 자동화된 개인 결정)와 제13조(정보주체로부터 개인정보를 수집할 때 제공해야 할 정보). 결정: 행정 과징금."
+                "t": "img",
+                "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+                "cap": "Credit: Depositphotos"
               },
               {
                 "t": "p",
-                "x": "네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)는 Uber에 EUR 824 990 000의 과징금을 부과했다. AP는 Uber가 운전기사에 대한 결정을 완전히 자동으로 내렸다고 봤다. 사기 의심이 있거나 고객 평점이 지나치게 낮으면 기사 계정이 자동으로 일시 비활성화됐고, 낮은 평점이 계속되면 영구 비활성화됐다. 기사들은 계정이 막힌 동안 Uber에서 벌던 수입을 잃었다."
+                "x": "Marina Yue Zhang은 The Diplomat 기고문에서 AI의 핵심 변화로 에이전트가 이제 직접 행동한다는 점을 꼽는다. 코드를 짜서 실행하고 도구를 쓰며 자격 증명까지 얻는다. 그러면 안전은 집단행동 문제가 된다. 워싱턴도 베이징도 속도를 늦추려 하지 않는 죄수의 딜레마다."
               },
               {
                 "t": "p",
-                "x": "조사는 프랑스 Uber 기사 171명이 Ligue des droits de l’Homme(LDH)를 통해 프랑스 Commission Nationale de l'Informatique et des Libertés(CNIL)에 낸 민원에서 시작됐다. Uber의 유럽 본사가 네덜란드에 있어서 사건은 GDPR One-Stop-Shop 절차에 따라 네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)가 맡았다. 문제가 된 일은 2018년부터 2022년 사이에 벌어졌다."
+                "x": "Zhang은 US가 9월 29일 기업 여섯 곳이 서명한 백악관 협약을 비롯해 업계의 자율 통제에 기대는 반면, 중국은 AI Safety Governance Framework 3.0 같은 중앙 조율형 규칙을 쓴다고 짚는다. 두 나라가 소프트웨어와 인증서, 오픈소스 의존성을 함께 쓰는 만큼 심각하지만 눈에 잘 띄지 않는 피해가 국경을 넘을 수 있다."
               },
               {
                 "t": "p",
-                "x": "AP에 따르면 Uber는 일반개인정보보호법(GDPR)의 완전 자동화 결정 금지 조항을 위반했다. Uber가 자동 결정을 두고 기사들에게 충분히 알리지 않았다는 것도 AP의 판단이다. Uber는 위반 행위를 이미 멈췄다."
+                "x": "협력 범위는 좁게 묶어 둘 수 있다는 게 Zhang의 주장이다. US는 중국을 신뢰하거나 프런티어 모델을 공유하거나 자국의 개발 속도를 늦출 필요가 없다. 그는 인간 통제 임계값에 관한 공동 작업, 샌드박스 탈출과 종료 저항을 점검하는 호환 가능한 시험, AI-enabled 사이버 사건을 확대하기 전 적용할 공통 증거 기준, 그리고 프런티어 방어 역량을 다른 나라로 넓혀 \"AI remediation gap\"(AI 복구 격차)을 메우는 일을 제안한다."
               },
               {
                 "t": "p",
-                "x": "Uber는 과징금에 불복해 항소했고 최종 사법 판단은 아직 나오지 않았다."
+                "x": "Zhang은 APEC 선전(Shenzhen) 정상회의가 중견국을 중재자로 두고 기술 기구에 이 작업을 맡길 수 있다고 제안한다. 기술적 실패가 지정학적 위기로 번지지 않게 막는 것이 목표라고 그는 적었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オランダ当局、Uberに\n自動決定で€825M 制裁金",
-          "body": "オランダ当局はGDPR違反の自動決定でUberに約€825M の制裁金を科した。",
-          "mini_headline": "Uber、アルゴリズムで€825M 制裁金",
+          "headline": "US-China AI安全\n協力を求める論考",
+          "body": "Marina Yue ZhangはUSが中国を信頼せずともAI安全で協力できると説く。",
+          "mini_headline": "US-China AI安全協力論",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "法的根拠:第22条(プロファイリングを含む自動化された個人に関する決定)および第13条(データ主体から個人データを収集する際に提供すべき情報)。決定:行政制裁金。"
+                "t": "img",
+                "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+                "cap": "Credit: Depositphotos"
               },
               {
                 "t": "p",
-                "x": "オランダのデータ保護機関Autoriteit Persoonsgegevens(AP)は、UberにEUR 824 990 000の制裁金を科す。APは、Uberが運転手について完全に自動化された決定を行ったと判断した。不正の疑いや顧客評価が低すぎる場合、運転手のアカウントは自動的に一時停止され、低評価が続く場合は永久に停止された。その結果、運転手は停止期間中、Uberを通じた収入を失った。"
+                "x": "Marina Yue ZhangはThe Diplomatへの寄稿で、AIにおける重要な変化は、エージェントがコードを書いて実行し、ツールを使い、認証情報を取得するといった行動を取れるようになった点だと論じる。これにより安全は集団行動の問題、つまりワシントンも北京も減速を望まない囚人のジレンマになる。"
               },
               {
                 "t": "p",
-                "x": "調査のきっかけは、フランスのUber運転手171人がLigue des droits de l’Homme(LDH)を通じてフランスのCommission Nationale de l'Informatique et des Libertés(CNIL)に提出した苦情である。Uberの欧州本社がオランダにあるため、案件はGDPRのOne-Stop-Shop手続きに基づき、オランダのデータ保護機関Autoriteit Persoonsgegevens(AP)が扱った。対象は2018年から2022年にかけての事案である。"
+                "x": "Zhangによれば、USは9月29日に六社が署名したホワイトハウスの合意を含む業界の自主的な管理に頼る一方、中国はAI Safety Governance Framework 3.0のような中央で調整された規則を用いる。両国はソフトウェアや証明書、オープンソースへの依存を共有しており、深刻で目に見えない被害が国境を越えうる。"
               },
               {
                 "t": "p",
-                "x": "APによれば、Uberは一般データ保護規則(GDPR)が定める完全自動化決定の禁止に違反した。APはまた、Uberが自動決定について運転手に十分な情報を提供していなかったと認定した。Uberはすでに違反行為をやめている。"
+                "x": "協力は限定的なままでよいとZhangは主張する。USは中国を信頼する必要も、フロンティアモデルを共有する必要も、自らの開発を減速させる必要もない。Zhangは、人間による制御の閾値をめぐる共同作業、サンドボックスからの脱出やシャットダウンへの抵抗に関する互換性のあるテスト、AI-enabledのサイバー事案をエスカレートさせる前の共通の証拠基準、そしてフロンティアの防御能力を他国に広げることで「AI remediation gap」(AI修復格差)を埋めることを提案する。"
               },
               {
                 "t": "p",
-                "x": "Uberは制裁金を不服として控訴しており、最終的な司法判断はまだ出ていない。"
+                "x": "ZhangはAPECの深圳(Shenzhen)首脳会議が、ミドルパワーを仲介役として技術機関にこの作業を委ねることができると示唆する。目標は技術的な失敗が地政学的危機に発展するのを防ぐことだと書いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "荷兰监管机构因自动决策\nUber 被罚 €825M",
-          "body": "荷兰数据保护机构因 GDPR 下违法的自动化决策，对 Uber 处以约 €825M 罚款。",
-          "mini_headline": "Uber 因算法被罚 €825M",
+          "headline": "US-China AI安全\n合作的理由",
+          "body": "Marina Yue Zhang认为US无需信任中国、无需减速，也能在AI安全上合作。",
+          "mini_headline": "US-China AI安全合作论",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "法律依据：第22条（包括画像在内的自动化个人决策）和第13条（向数据主体收集个人数据时应提供的信息）。决定：行政罚款。"
+                "t": "img",
+                "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+                "cap": "Credit: Depositphotos"
               },
               {
                 "t": "p",
-                "x": "荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）对 Uber 处以 EUR 824 990 000 的罚款。原因是 AP 认定 Uber 对司机作出了完全自动化的决策。在怀疑存在欺诈或客户评价过低时，司机账户会被自动暂时停用；若客户评价持续偏低，则会被永久停用。由此，司机在停用期间失去了通过 Uber 获得的收入。"
+                "x": "Marina Yue Zhang在为The Diplomat撰写的评论中指出，AI领域的关键转变在于智能体如今能够采取行动：编写并运行代码、使用工具、获取凭证。这让安全成为一个集体行动问题，即华盛顿和北京都不愿放慢脚步的囚徒困境。"
               },
               {
                 "t": "p",
-                "x": "调查源于171名法国 Uber 司机通过 Ligue des droits de l’Homme（LDH）向法国 Commission Nationale de l'Informatique et des Libertés（CNIL）提交的投诉。由于 Uber 的欧洲总部位于荷兰，此案依据 GDPR One-Stop-Shop 程序由荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）处理。案件涉及2018年至2022年间发生的事件。"
+                "x": "她指出，US依赖行业自愿管控，包括9月29日由六家企业签署的白宫协议；而中国采用中央协调的规则，如AI Safety Governance Framework 3.0。双方共享软件、证书和开源依赖，因此严重而隐蔽的危害可能跨越国界。"
               },
               {
                 "t": "p",
-                "x": "AP 表示，Uber 违反了《通用数据保护条例》（GDPR）关于禁止完全自动化决策的规定。AP 还认定，Uber 未就自动决策向司机提供充分信息。Uber 目前已停止上述违规行为。"
+                "x": "她认为合作可以保持在狭窄范围内：US无需信任中国、共享前沿模型或放慢自身发展。她提议就人类控制阈值开展联合工作，建立针对沙箱逃逸和抗拒关机的兼容测试，在升级AI-enabled网络事件前采用共同证据标准，并通过向其他国家扩展前沿防御能力来弥合“AI remediation gap”（AI修复差距）。"
               },
               {
                 "t": "p",
-                "x": "Uber 已就罚款提起上诉，目前尚无最终司法裁决。"
+                "x": "她建议，APEC深圳(Shenzhen)领导人会议可委托技术机构开展这项工作，由中等强国充当中间人。她写道，目标是防止技术故障演变为地缘政治危机。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Por una cooperación US-China\nen seguridad de AI",
+          "body": "Marina Yue Zhang sostiene que US puede cooperar con China en seguridad de AI sin confiar en ella ni frenar.",
+          "mini_headline": "Cooperación US-China en AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+                "cap": "Credit: Depositphotos"
+              },
+              {
+                "t": "p",
+                "x": "En un comentario para The Diplomat, Marina Yue Zhang sostiene que el cambio clave en la AI es que los agentes ya pueden actuar: escribir y ejecutar código, usar herramientas y obtener credenciales. Eso convierte la seguridad en un problema de acción colectiva, un dilema del prisionero en el que ni Washington ni Beijing quieren frenar."
+              },
+              {
+                "t": "p",
+                "x": "Señala que US depende de controles voluntarios de la industria, incluido un acuerdo de la Casa Blanca del 29 de septiembre firmado por seis empresas, mientras que China aplica normas coordinadas de forma centralizada, como su AI Safety Governance Framework 3.0. Ambos comparten software, certificados y dependencias de código abierto, por lo que daños graves e invisibles pueden cruzar fronteras."
+              },
+              {
+                "t": "p",
+                "x": "La cooperación puede ser limitada, argumenta: US no necesita confiar en China, compartir modelos de frontera ni frenar su propio desarrollo. Propone trabajo conjunto sobre umbrales de control humano, pruebas compatibles de escape del entorno aislado (sandbox) y de resistencia al apagado, estándares de evidencia compartidos antes de escalar incidentes cibernéticos AI-enabled, y cerrar la \"AI remediation gap\" (brecha de remediación de AI) extendiendo la capacidad defensiva de frontera a otros países."
+              },
+              {
+                "t": "p",
+                "x": "Sugiere que la reunión de líderes de APEC en Shenzhen podría encargar este trabajo a organismos técnicos, con potencias medias como intermediarias. El objetivo, escribe, es evitar que los fallos técnicos se conviertan en crisis geopolíticas."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Países Bajos multa a Uber con\n€825M por decisiones automáticas",
-          "body": "El regulador neerlandés multó a Uber con unos 825 millones de euros por decisiones automatizadas contrarias al GDPR.",
-          "mini_headline": "Multa de €825M a Uber por algoritmos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Referencias legales (Legal Reference(s)): artículo 22 (Article 22; decisiones individuales automatizadas, incluida la elaboración de perfiles) y artículo 13 (Article 13; información que deberá facilitarse cuando los datos personales se obtengan del interesado). Decisión (Decision): multa administrativa (Administrative fine)."
-              },
-              {
-                "t": "p",
-                "x": "La Autoriteit Persoonsgegevens (AP), la autoridad neerlandesa de protección de datos, impone a Uber una multa de EUR 824 990 000. El motivo es que la AP ha determinado que Uber tomó decisiones totalmente automatizadas sobre los conductores. Ante sospechas de fraude o valoraciones de clientes demasiado bajas, las cuentas de los conductores se desactivaban automáticamente de forma temporal o, si las valoraciones bajas persistían, de forma permanente. Como resultado, los conductores perdían los ingresos obtenidos a través de Uber durante la desactivación."
-              },
-              {
-                "t": "p",
-                "x": "Las quejas de 171 conductores franceses de Uber, presentadas a través de la Ligue des droits de l’Homme (LDH) ante la Commission Nationale de l'Informatique et des Libertés (CNIL) de Francia, dieron origen a la investigación. Como la sede europea de Uber está en los Países Bajos, el caso lo tramitó la autoridad neerlandesa de protección de datos, la Autoriteit Persoonsgegevens (AP), conforme al procedimiento One-Stop-Shop del GDPR. El caso se refería a incidentes ocurridos entre 2018 y 2022."
-              },
-              {
-                "t": "p",
-                "x": "Según la AP, Uber vulneró la prohibición de la toma de decisiones totalmente automatizada (decision-making) establecida en el Reglamento General de Protección de Datos (General Data Protection Regulation, GDPR). La AP también concluyó que Uber no informó suficientemente a los conductores sobre la toma de decisiones automatizada. Uber ya ha puesto fin a las infracciones."
-              },
-              {
-                "t": "p",
-                "x": "Uber ha recurrido la multa y aún no hay una resolución judicial firme."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "네덜란드 당국, Uber에\n€825M 자동결정 벌금",
-          "body": "네덜란드 당국이 Uber 자동결정의 GDPR 위반에 약 €825M 벌금을 매겼다.",
-          "mini_headline": "Uber, 알고리즘 탓 €825M 벌금",
+          "headline": "US-China AI 안전\n협력이 필요한 이유",
+          "body": "Marina Yue Zhang은 신뢰 없이도 AI 안전 협력이 가능하다고 본다.",
+          "mini_headline": "US-China AI 안전 협력론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "법적 근거: 제22조(프로파일링을 포함한 자동화된 개인 결정)와 제13조(정보주체로부터 개인정보를 수집할 때 제공해야 할 정보). 결정: 행정 과징금."
+                "t": "img",
+                "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+                "cap": "Credit: Depositphotos"
               },
               {
                 "t": "p",
-                "x": "네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)는 Uber에 EUR 824 990 000의 과징금을 부과한다. AP는 Uber가 운전기사에 관해 완전히 자동화된 결정을 내렸다고 판단했다. 사기 의심이 있거나 고객 평점이 지나치게 낮으면 기사 계정이 자동으로 일시 비활성화됐고, 낮은 평점이 계속되면 영구 비활성화됐다. 그 결과 기사들은 비활성화 기간 동안 Uber를 통한 수입을 잃었다."
+                "x": "Marina Yue Zhang은 The Diplomat 기고문에서 AI의 핵심 변화는 에이전트가 이제 직접 행동한다는 점이라고 주장한다. 코드를 작성해 실행하고, 도구를 쓰고, 자격 증명을 얻는다. 그래서 안전은 집단행동 문제, 즉 워싱턴도 베이징도 속도를 늦추려 하지 않는 죄수의 딜레마가 된다."
               },
               {
                 "t": "p",
-                "x": "조사는 프랑스 Uber 기사 171명이 Ligue des droits de l’Homme(LDH)를 통해 프랑스 Commission Nationale de l'Informatique et des Libertés(CNIL)에 낸 민원에서 시작됐다. Uber의 유럽 본사가 네덜란드에 있어, 사건은 GDPR One-Stop-Shop 절차에 따라 네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)가 맡았다. 사건은 2018년부터 2022년 사이의 일이다."
+                "x": "Zhang은 US가 9월 29일 기업 여섯 곳이 서명한 백악관 협약을 비롯해 업계의 자율 통제에 기대는 반면, 중국은 AI Safety Governance Framework 3.0 같은 중앙 조율형 규칙을 쓴다고 짚는다. 두 나라는 소프트웨어, 인증서, 오픈소스 의존성을 함께 쓰기 때문에 심각하면서도 눈에 띄지 않는 피해가 국경을 넘을 수 있다."
               },
               {
                 "t": "p",
-                "x": "AP에 따르면 Uber는 일반개인정보보호법(GDPR)의 완전 자동화 결정 금지 조항을 위반했다. AP는 Uber가 자동 결정에 관해 기사들에게 충분히 알리지 않았다고도 판단했다. Uber는 현재 위반 행위를 중단한 상태다."
+                "x": "Zhang은 협력의 범위를 좁게 유지할 수 있다고 주장한다. US는 중국을 신뢰하거나 프런티어 모델을 공유하거나 자국의 개발 속도를 늦출 필요가 없다. 그는 인간 통제 임계값에 관한 공동 작업, 샌드박스 탈출과 종료 저항에 대한 호환 가능한 시험, AI-enabled 사이버 사건을 확대하기 전 적용할 공통 증거 기준, 그리고 프런티어 방어 역량을 다른 나라로 넓혀 \"AI remediation gap\"(AI 복구 격차)을 메우는 일을 제안한다."
               },
               {
                 "t": "p",
-                "x": "Uber는 과징금에 불복해 항소했으며, 아직 최종 사법 판단은 나오지 않았다."
+                "x": "Zhang은 APEC 선전(Shenzhen) 정상회의가 중견국을 중재자로 두고 기술 기구에 이 작업을 맡길 수 있다고 제안한다. 목표는 기술적 실패가 지정학적 위기로 번지지 않게 하는 것이라고 그는 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "オランダ当局、Uberに\n自動決定で€825M 制裁金",
-          "body": "オランダ当局はGDPR違反の自動決定でUberに約€825M の制裁金を科した。",
-          "mini_headline": "Uber、アルゴリズムで€825M 制裁金",
+          "headline": "US-China AI安全\n協力を求める論考",
+          "body": "Marina Yue ZhangはUSが中国を信頼せずともAI安全で協力できると説く。",
+          "mini_headline": "US-China AI安全協力論",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "法的根拠:第22条(プロファイリングを含む自動化された個人に関する決定)および第13条(データ主体から個人データを収集する際に提供すべき情報)。決定:行政制裁金。"
+                "t": "img",
+                "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+                "cap": "Credit: Depositphotos"
               },
               {
                 "t": "p",
-                "x": "オランダのデータ保護機関Autoriteit Persoonsgegevens(AP)は、UberにEUR 824 990 000の制裁金を科す。APは、Uberが運転手について完全に自動化された決定を行ったと判断した。不正の疑いや顧客評価が低すぎる場合、運転手のアカウントは自動的に一時停止され、低評価が続く場合は永久に停止された。その結果、運転手は停止期間中、Uberを通じた収入を失った。"
+                "x": "Marina Yue ZhangはThe Diplomatへの寄稿で、AIにおける重要な変化は、エージェントがコードを書いて実行し、ツールを使い、認証情報を取得するといった行動を取れるようになった点だと論じる。これにより安全は集団行動の問題、つまりワシントンも北京も減速を望まない囚人のジレンマになる。"
               },
               {
                 "t": "p",
-                "x": "調査のきっかけは、フランスのUber運転手171人がLigue des droits de l’Homme(LDH)を通じてフランスのCommission Nationale de l'Informatique et des Libertés(CNIL)に提出した苦情である。Uberの欧州本社がオランダにあるため、案件はGDPRのOne-Stop-Shop手続きに基づき、オランダのデータ保護機関Autoriteit Persoonsgegevens(AP)が扱った。対象は2018年から2022年にかけての事案である。"
+                "x": "Zhangによれば、USは9月29日に六社が署名したホワイトハウスの合意を含む業界の自主的な管理に頼る一方、中国はAI Safety Governance Framework 3.0のような中央で調整された規則を用いる。両国はソフトウェアや証明書、オープンソースへの依存を共有しており、深刻で目に見えない被害が国境を越えうる。"
               },
               {
                 "t": "p",
-                "x": "APによれば、Uberは一般データ保護規則(GDPR)が定める完全自動化決定の禁止に違反した。APはまた、Uberが自動決定について運転手に十分な情報を提供していなかったと認定した。Uberはすでに違反行為をやめている。"
+                "x": "協力は限定的なままでよいとZhangは主張する。USは中国を信頼する必要も、フロンティアモデルを共有する必要も、自らの開発を減速させる必要もない。Zhangは、人間による制御の閾値をめぐる共同作業、サンドボックスからの脱出やシャットダウンへの抵抗に関する互換性のあるテスト、AI-enabledのサイバー事案をエスカレートさせる前の共通の証拠基準、そしてフロンティアの防御能力を他国に広げることで「AI remediation gap」(AI修復格差)を埋めることを提案する。"
               },
               {
                 "t": "p",
-                "x": "Uberは制裁金を不服として控訴しており、最終的な司法判断はまだ出ていない。"
+                "x": "ZhangはAPECの深圳(Shenzhen)首脳会議が、ミドルパワーを仲介役として技術機関にこの作業を委ねることができると示唆する。目標は技術的な失敗が地政学的危機に発展するのを防ぐことだと書いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "荷兰监管机构因自动决策\nUber 被罚 €825M",
-          "body": "荷兰数据保护机构因 GDPR 下违法的自动化决策，对 Uber 处以约 €825M 罚款。",
-          "mini_headline": "Uber 因算法被罚 €825M",
+          "headline": "US-China AI安全\n合作的理由",
+          "body": "Marina Yue Zhang认为US无需信任中国、无需减速，也能在AI安全上合作。",
+          "mini_headline": "US-China AI安全合作论",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "法律依据：第22条（包括画像在内的自动化个人决策）和第13条（向数据主体收集个人数据时应提供的信息）。决定：行政罚款。"
+                "t": "img",
+                "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+                "cap": "Credit: Depositphotos"
               },
               {
                 "t": "p",
-                "x": "荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）对 Uber 处以 EUR 824 990 000 的罚款。原因是 AP 认定 Uber 对司机作出了完全自动化的决策。在怀疑存在欺诈或客户评价过低时，司机账户会被自动暂时停用；若客户评价持续偏低，则会被永久停用。由此，司机在停用期间失去了通过 Uber 获得的收入。"
+                "x": "Marina Yue Zhang在为The Diplomat撰写的评论中指出，AI领域的关键转变在于智能体如今能够采取行动：编写并运行代码、使用工具、获取凭证。这让安全成为一个集体行动问题，即华盛顿和北京都不愿放慢脚步的囚徒困境。"
               },
               {
                 "t": "p",
-                "x": "调查源于171名法国 Uber 司机通过 Ligue des droits de l’Homme（LDH）向法国 Commission Nationale de l'Informatique et des Libertés（CNIL）提交的投诉。由于 Uber 的欧洲总部位于荷兰，此案依据 GDPR One-Stop-Shop 程序由荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）处理。案件涉及2018年至2022年间发生的事件。"
+                "x": "她指出，US依赖行业自愿管控，包括9月29日由六家企业签署的白宫协议；而中国采用中央协调的规则，如AI Safety Governance Framework 3.0。双方共享软件、证书和开源依赖，因此严重而隐蔽的危害可能跨越国界。"
               },
               {
                 "t": "p",
-                "x": "AP 表示，Uber 违反了《通用数据保护条例》（GDPR）关于禁止完全自动化决策的规定。AP 还认定，Uber 未就自动决策向司机提供充分信息。Uber 目前已停止上述违规行为。"
+                "x": "她认为合作可以保持在狭窄范围内：US无需信任中国、共享前沿模型或放慢自身发展。她提议就人类控制阈值开展联合工作，建立针对沙箱逃逸和抗拒关机的兼容测试，在升级AI-enabled网络事件前采用共同证据标准，并通过向其他国家扩展前沿防御能力来弥合“AI remediation gap”（AI修复差距）。"
               },
               {
                 "t": "p",
-                "x": "Uber 已就罚款提起上诉，目前尚无最终司法裁决。"
+                "x": "她建议，APEC深圳(Shenzhen)领导人会议可委托技术机构开展这项工作，由中等强国充当中间人。她写道，目标是防止技术故障演变为地缘政治危机。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Por una cooperación US-China\nen seguridad de AI",
+          "body": "Marina Yue Zhang sostiene que US puede cooperar con China en seguridad de AI sin confiar en ella ni frenar.",
+          "mini_headline": "Cooperación US-China en AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+                "cap": "Credit: Depositphotos"
+              },
+              {
+                "t": "p",
+                "x": "En un comentario para The Diplomat, Marina Yue Zhang sostiene que el cambio clave en la AI es que los agentes ya pueden actuar: escribir y ejecutar código, usar herramientas y obtener credenciales. Eso convierte la seguridad en un problema de acción colectiva, un dilema del prisionero en el que ni Washington ni Beijing quieren frenar."
+              },
+              {
+                "t": "p",
+                "x": "Señala que US depende de controles voluntarios de la industria, incluido un acuerdo de la Casa Blanca del 29 de septiembre firmado por seis empresas, mientras que China aplica normas coordinadas de forma centralizada, como su AI Safety Governance Framework 3.0. Ambos comparten software, certificados y dependencias de código abierto, por lo que daños graves e invisibles pueden cruzar fronteras."
+              },
+              {
+                "t": "p",
+                "x": "La cooperación puede ser limitada, argumenta: US no necesita confiar en China, compartir modelos de frontera ni frenar su propio desarrollo. Propone trabajo conjunto sobre umbrales de control humano, pruebas compatibles de escape del entorno aislado (sandbox) y de resistencia al apagado, estándares de evidencia compartidos antes de escalar incidentes cibernéticos AI-enabled, y cerrar la \"AI remediation gap\" (brecha de remediación de AI) extendiendo la capacidad defensiva de frontera a otros países."
+              },
+              {
+                "t": "p",
+                "x": "Sugiere que la reunión de líderes de APEC en Shenzhen podría encargar este trabajo a organismos técnicos, con potencias medias como intermediarias. El objetivo, escribe, es evitar que los fallos técnicos se conviertan en crisis geopolíticas."
               }
             ]
           }
@@ -757,15 +847,15 @@
       }
     },
     {
-      "id": "ai-labs-backlash-plans",
-      "source_lang": "en",
+      "id": "ai-on-ieum-low-uptake",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI 업계, 대형 공격 뒤\n여론 반발 시나리오 점검",
-      "body": "Anthropic·OpenAI 경영진이 AI 참사 뒤 닥칠 역풍에 은밀히 대비한다.",
-      "mini_headline": "AI 업계, 반발 대비",
+      "headline": "취약층 AI 지원 사업\n실이용 목표 10% 미만",
+      "body": "서범수 의원은 AI 온이음 실이용자가 목표 12만명 중 8,324명뿐이라고 했다.",
+      "mini_headline": "AI 온이음 이용 저조",
       "tool": "Politics",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+      "source": "Yonhap News Agency",
+      "url": "https://www.yna.co.kr/view/AKR20261011033600001",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -773,335 +863,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+            "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+            "cap": "대정부질문 나선 국민의힘 서범수 의원 (2026.9.14)"
           },
           {
             "t": "p",
-            "x": "Axios에 따르면 Anthropic, OpenAI 등 AI 기업 최고 경영진이 재앙적 AI 사건 이후 대중과 정치권의 반발이 일어나는 시나리오를 비공개로 점검한다. 이들이 예상하는 건 금융 서비스와 인터넷 접속, 나아가 전력과 수도까지 끊는 대규모(large-scale) 사건이고, 가장 유력한 형태로는 사이버 공격을 꼽는다."
+            "x": "취약계층 고등학생의 유료형 AI 서비스 이용을 지원하는 '2026년 AI 온이음 사업' 이용자가 당초 목표치의 10%에도 미치지 못하는 것으로 나타났다."
           },
           {
             "t": "p",
-            "x": "보도에 따르면 실제 세계(real-world)에서 첫 대형 피해가 나는 순간 이미 경계하던 대중은 이 기술과 그 리더들, 곧 다리오 아모데이(Dario Amodei)와 샘 올트먼(Sam Altman)에게서 더 멀어지고 규제를 꺼려 온 트럼프(Trump) 대통령에게도 반감을 키울 것이다. 최고 AI 연구자와 경영진 상당수는 대형 사고가 피할 수 없는 일이라고 본다."
+            "x": "국회 교육위원회 소속 국민의힘 서범수 의원이 한국장학재단으로부터 제출받은 자료에 따르면, 신청 후 실제로 서비스를 이용한 학생은 9월 말 기준 8천324명이다. 교육부는 8월 추경 특별교부금 95억원을 배정해 사업을 시작하며 지원 대상을 12만명으로 예고했다."
           },
           {
             "t": "p",
-            "x": "OpenAI 대변인은 \"OpenAI는 팀들이 다양한 잠재 시나리오를 논의하고 검토하는 대비 훈련을 진행한다\"며 \"이 시나리오들을 불가피한 것으로 다루지는 않는다\"고 말했다. Anthropic은 논평을 거부했다."
+            "x": "요건 해당 학생 31만4천674명 가운데 신청은 6만8천40명(21.6%), 계정 발급은 3만9천331명(12.5%), 한 번이라도 로그인한 학생은 8천324명(2.6%)이었다."
           },
           {
             "t": "p",
-            "x": "Axios는 최근 한국 금융기관을 겨냥한 공격 사례도 짚었다. CrowdStrike에 따르면 중국 해커가 DeepSeek 등 중국산(China-developed) AI 모델을 써서 은행 고객 수만 명의 데이터를 훔쳤다."
+            "x": "서 의원은 위탁 지정과 입찰·계약이 늦어져 학생 신청이 8월 20∼28일에야 진행됐다고 지적했다. 재단은 \"추경 편성 후 긴급 추진 사업으로 불가피했다\"고 설명했다. 서 의원 측은 계약 업체 마인드로직의 재무 상태를 들어 \"업체 선정과 검증도 허술했다\"고 주장했다."
           },
           {
             "t": "p",
-            "x": "AI 업계의 최고 기획자들은 중간선거 이후 세를 넓힌 민주당이 AI를 막으려 빠르게 움직이겠지만 상당한 난관에 부딪히리라 본다. 대비 계획의 초점은 주로 의회 의원들을 서둘러 교육하는 데 있다. 업계 내부자 다수는 Axios에 앞으로 여섯 달에서 12개월 안에 대형 사건이 터질 것으로 내다봤다."
+            "x": "예산 95억원 중 66억5천만원만 계약돼 28억5천만원은 반납될 예정이며, 종량제 계약이라 반납액은 늘어날 수 있다. 서 의원은 \"발표부터 하고 보는 주먹구구 행정\"이라며 보완책이 없으면 감사원 감사 청구를 검토하겠다고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI labs game out a public\nbacklash after a major attack",
-          "body": "Axios reports Anthropic and OpenAI executives are privately gaming out a backlash after a catastrophic AI incident.",
-          "mini_headline": "AI labs plan for backlash",
+        "ko": {
+          "headline": "취약층 AI 지원 사업\n실이용 목표 10% 미만",
+          "body": "서범수 의원은 AI 온이음 실이용자가 목표 12만명 중 8,324명뿐이라고 했다.",
+          "mini_headline": "AI 온이음 이용 저조",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+                "cap": "대정부질문 나선 국민의힘 서범수 의원 (2026.9.14)"
               },
               {
                 "t": "p",
-                "x": "Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event, Axios reports. They anticipate a large-scale event, most likely a cyberattack, that shuts down access to financial services, internet connectivity, or even power and water."
+                "x": "취약계층 고등학생의 유료형 AI 서비스 이용을 지원하는 '2026년 AI 온이음 사업' 이용자가 당초 목표치의 10%에도 미치지 못하는 것으로 나타났다."
               },
               {
                 "t": "p",
-                "x": "Such a first case of significant real-world harm would turn an already wary public further against the technology and its leaders, including Dario Amodei and Sam Altman, as well as President Trump for his reluctance to regulate it, according to the report. Many top AI researchers and executives believe a major incident is inevitable."
+                "x": "국회 교육위원회 소속 국민의힘 서범수 의원이 한국장학재단으로부터 제출받은 자료에 따르면, 신청 후 실제로 서비스를 이용한 학생은 9월 말 기준 8천324명이다. 교육부는 8월 추경 특별교부금 95억원을 배정해 사업을 시작하며 지원 대상을 12만명으로 예고했다."
               },
               {
                 "t": "p",
-                "x": "\"OpenAI conducts preparedness exercises where teams discuss and work through a range of potential scenarios,\" a company spokesperson said. \"These scenarios are not treated as inevitable.\" Anthropic declined to comment."
+                "x": "요건 해당 학생 31만4천674명 가운데 신청은 6만8천40명(21.6%), 계정 발급은 3만9천331명(12.5%), 한 번이라도 로그인한 학생은 8천324명(2.6%)이었다."
               },
               {
                 "t": "p",
-                "x": "Axios cites a recent campaign against South Korean financial organizations: per CrowdStrike, a hacker from China allegedly used China-developed AI models, including DeepSeek, to steal data from tens of thousands of bank customers."
+                "x": "서 의원은 위탁 지정과 입찰·계약이 늦어져 학생 신청이 8월 20∼28일에야 진행됐다고 지적했다. 재단은 \"추경 편성 후 긴급 추진 사업으로 불가피했다\"고 설명했다. 서 의원 측은 계약 업체 마인드로직의 재무 상태를 들어 \"업체 선정과 검증도 허술했다\"고 주장했다."
               },
               {
                 "t": "p",
-                "x": "Top AI planners assume Democrats, ascendant after the midterms, will move fast to shut down AI but will face significant challenges. The planning focuses mainly on racing to educate members of Congress, and many industry insiders told Axios they expect a major event in the next six to 12 months."
+                "x": "예산 95억원 중 66억5천만원만 계약돼 28억5천만원은 반납될 예정이며, 종량제 계약이라 반납액은 늘어날 수 있다. 서 의원은 \"발표부터 하고 보는 주먹구구 행정\"이라며 보완책이 없으면 감사원 감사 청구를 검토하겠다고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "AI 업계, 대형 공격 뒤\n여론 반발 시나리오 점검",
-          "body": "Anthropic·OpenAI 경영진이 AI 참사 뒤 닥칠 역풍에 은밀히 대비한다.",
-          "mini_headline": "AI 업계, 반발 대비",
+        "en": {
+          "headline": "AI aid for vulnerable students\nfalls below 10% of target use",
+          "body": "Rep. Seo Beom-su said only 8,324 students actually used AI On-Ieum, against a target of 120,000.",
+          "mini_headline": "Low uptake of AI On-Ieum",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+                "cap": "Rep. Seo Beom-su (서범수) of the People Power Party during questioning of the government (2026.9.14)"
               },
               {
                 "t": "p",
-                "x": "Axios에 따르면 Anthropic, OpenAI 등 AI 기업 최고 경영진이 재앙적 AI 사건 이후 대중과 정치권의 반발이 일어나는 시나리오를 비공개로 점검한다. 이들이 예상하는 건 금융 서비스와 인터넷 접속, 나아가 전력과 수도까지 끊는 대규모(large-scale) 사건이고, 가장 유력한 형태로는 사이버 공격을 꼽는다."
+                "x": "Users of the '2026 AI On-Ieum program', which supports paid AI services for high school students from vulnerable groups, fell short of even 10% of the original target."
               },
               {
                 "t": "p",
-                "x": "보도에 따르면 실제 세계(real-world)에서 첫 대형 피해가 나는 순간 이미 경계하던 대중은 이 기술과 그 리더들, 곧 다리오 아모데이(Dario Amodei)와 샘 올트먼(Sam Altman)에게서 더 멀어지고 규제를 꺼려 온 트럼프(Trump) 대통령에게도 반감을 키울 것이다. 최고 AI 연구자와 경영진 상당수는 대형 사고가 피할 수 없는 일이라고 본다."
+                "x": "According to data that Rep. Seo Beom-su (서범수) of the People Power Party, a member of the National Assembly's Education Committee, obtained from the Korea Student Aid Foundation, 8천324 students had actually used the service after applying as of the end of September. The Ministry of Education launched the program in August with 9.5 billion won in special grants from the supplementary budget, announcing a target of 120,000 students."
               },
               {
                 "t": "p",
-                "x": "OpenAI 대변인은 \"OpenAI는 팀들이 다양한 잠재 시나리오를 논의하고 검토하는 대비 훈련을 진행한다\"며 \"이 시나리오들을 불가피한 것으로 다루지는 않는다\"고 말했다. Anthropic은 논평을 거부했다."
+                "x": "Of the 31만4천674 eligible students, 6만8천40 (21.6%) applied, 3만9천331 (12.5%) were issued accounts, and 8천324 (2.6%) logged in at least once."
               },
               {
                 "t": "p",
-                "x": "Axios는 최근 한국 금융기관을 겨냥한 공격 사례도 짚었다. CrowdStrike에 따르면 중국 해커가 DeepSeek 등 중국산(China-developed) AI 모델을 써서 은행 고객 수만 명의 데이터를 훔쳤다."
+                "x": "Seo pointed out that delays in designating the contractor and in bidding and contracting meant student applications only took place from August 20 to 28. The foundation explained that \"it was unavoidable as an urgent program pushed after the supplementary budget was drawn up.\" Seo's side, citing the financial condition of contractor Mindlogic, argued that \"vendor selection and vetting were also sloppy.\""
               },
               {
                 "t": "p",
-                "x": "AI 업계의 최고 기획자들은 중간선거 이후 세를 넓힌 민주당이 AI를 막으려 빠르게 움직이겠지만 상당한 난관에 부딪히리라 본다. 대비 계획의 초점은 주로 의회 의원들을 서둘러 교육하는 데 있다. 업계 내부자 다수는 Axios에 앞으로 여섯 달에서 12개월 안에 대형 사건이 터질 것으로 내다봤다."
+                "x": "Of the 9.5 billion won budget, only 66억5천만원 was contracted and 28억5천만원 is set to be returned; because the contract is pay-per-use, the returned amount could grow. Calling it \"slapdash administration that announces first and thinks later,\" Seo said he would consider requesting an audit by the Board of Audit and Inspection if no remedial measures are made."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI各社、大規模攻撃後の\n世論の反発を想定",
-          "body": "AnthropicとOpenAIの幹部が、AI大惨事後の反発を密かに想定している。",
-          "mini_headline": "AI各社、反発に備える",
+          "headline": "脆弱層向けAI支援事業\n実利用は目標の10%未満",
+          "body": "ソ・ボムス議員はAIオンイウムの実利用者が目標12万人中8,324人にとどまるとした。",
+          "mini_headline": "AIオンイウムの利用低迷",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+                "cap": "対政府質問に立つ国民の力のソ・ボムス(서범수)議員(2026.9.14)"
               },
               {
                 "t": "p",
-                "x": "Axiosによると、Anthropic、OpenAIなどAI企業の経営トップは、壊滅的なAI事象の後に世論と政治の反発が起きるシナリオを非公開で検討している。彼らは、金融サービスやインターネット接続、さらには電力や水道まで止まる大規模(large-scale)な事象を想定しており、最も可能性が高いのはサイバー攻撃だとみている。"
+                "x": "脆弱層の高校生による有料型AIサービスの利用を支援する「2026年AIオンイウム事業」の利用者が、当初目標の10%にも届いていないことがわかった。"
               },
               {
                 "t": "p",
-                "x": "同報道によると、現実世界(real-world)で初めて重大な被害が生じれば、すでに警戒している世論は、この技術とダリオ・アモデイ(Dario Amodei)氏やサム・アルトマン(Sam Altman)氏ら業界の指導者に一段と反発し、規制に消極的なトランプ(Trump)大統領にも矛先を向けるだろう。多くのトップAI研究者や経営者は、大規模な事故は避けられないと考えている。"
+                "x": "国会教育委員会所属で国民の力のソ・ボムス(서범수)議員が韓国奨学財団から提出を受けた資料によると、申請後に実際にサービスを利用した学生は9月末時点で8천324人だ。教育部は8月、補正予算の特別交付金95億ウォンを配分して事業を始め、支援対象を12万人と予告していた。"
               },
               {
                 "t": "p",
-                "x": "OpenAIの広報担当者は「OpenAIは、チームがさまざまな潜在的シナリオを議論し検討する備えの演習を行っている」と述べ、「これらのシナリオは不可避なものとして扱われてはいない」とした。Anthropicはコメントを控えた。"
+                "x": "要件に該当する学生31만4천674人のうち、申請は6만8천40人(21.6%)、アカウント発行は3만9천331人(12.5%)、一度でもログインした学生は8천324人(2.6%)だった。"
               },
               {
                 "t": "p",
-                "x": "Axiosは、最近の韓国金融機関を狙った攻撃を例に挙げる。CrowdStrikeによると、中国のハッカーがDeepSeekを含む中国開発(China-developed)のAIモデルを使い、銀行顧客数万人のデータを盗んだとされる。"
+                "x": "ソ議員は、委託先の指定と入札・契約が遅れ、学生の申請が8月20∼28日にようやく行われたと指摘した。財団は「補正予算編成後の緊急推進事業であり、やむを得なかった」と説明した。ソ議員側は契約業者マインドロジックの財務状態を挙げ、「業者の選定と検証もずさんだった」と主張した。"
               },
               {
                 "t": "p",
-                "x": "AI業界の主要な計画担当者は、中間選挙後に勢いを増した民主党がAIを止めようと素早く動くものの、大きな壁に直面すると想定している。計画の中心は議会議員への説明を急ぐことにあり、多くの業界関係者はAxiosに対し、今後六カ月から12カ月以内に大規模な事象が起きると予想していると語った。"
+                "x": "予算95億ウォンのうち66억5천만원しか契約されず、28억5천만원は返納される見通しで、従量制契約のため返納額はさらに増える可能性がある。ソ議員は「発表を先にしてから考える場当たり的な行政だ」とし、補完策がなければ監査院への監査請求を検討すると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI巨头推演重大袭击后\n公众反弹的局面",
-          "body": "据Axios报道，Anthropic和OpenAI高管正私下推演AI灾难后的公众反弹。",
-          "mini_headline": "AI公司预演反弹",
+          "headline": "弱势群体AI支援项目\n实际使用不足目标10%",
+          "body": "서범수议员称，AI On-Ieum实际用户仅8,324人，远低于12万人目标。",
+          "mini_headline": "AI On-Ieum使用率低",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+                "cap": "在对政府质询中发言的国民力量党议员서범수（2026.9.14）"
               },
               {
                 "t": "p",
-                "x": "据Axios报道，Anthropic、OpenAI等AI公司的高层正私下推演一场灾难性AI事件之后公众与政界强烈反弹的情景。他们预计会发生一场大规模(large-scale)事件，最可能是网络攻击，导致金融服务、互联网连接乃至电力和供水中断。"
+                "x": "支持弱势群体高中生使用付费AI服务的“2026年AI On-Ieum项目”，用户数连原定目标的10%都未达到。"
               },
               {
                 "t": "p",
-                "x": "报道称，这种首次在现实世界(real-world)造成重大损害的事件，会让本已心存戒备的公众更加反感这项技术及其领军人物，包括达里奥·阿莫代伊(Dario Amodei)和萨姆·奥尔特曼(Sam Altman)，也会迁怒于不愿对其加以监管的特朗普(Trump)总统。许多顶尖AI研究人员和高管认为，重大事故不可避免。"
+                "x": "根据国会教育委员会所属国民力量党议员서범수从韩国奖学财团获得的资料，截至9月底，申请后实际使用服务的学生为8천324人。教育部8月拨出追加预算特别交付金95亿韩元启动该项目，并预告支持对象为12万人。"
               },
               {
                 "t": "p",
-                "x": "OpenAI发言人表示：“OpenAI会开展准备演练，由团队讨论并推演一系列潜在情景。”“这些情景并不被视为必然发生。”Anthropic拒绝置评。"
+                "x": "在符合条件的31만4천674名学生中，申请者6만8천40人(21.6%)，获发账号者3만9천331人(12.5%)，至少登录过一次的学生为8천324人(2.6%)。"
               },
               {
                 "t": "p",
-                "x": "Axios援引了近期针对韩国金融机构的攻击：据CrowdStrike称，一名来自中国的黑客涉嫌利用包括DeepSeek在内的中国研发(China-developed)AI模型，窃取了数万名银行客户的数据。"
+                "x": "서범수指出，由于委托指定和招标、签约延迟，学生申请直到8月20∼28日才进行。财团解释称：“这是追加预算编制后紧急推进的项目，实属不得已。”서범수方面以签约企业Mindlogic的财务状况为由，称“企业遴选和审查也很草率”。"
               },
               {
                 "t": "p",
-                "x": "AI业界的高层规划者预计，中期选举后势力上升的民主党会迅速采取行动叫停AI，但将面临重大挑战。相关规划主要集中在抓紧向国会议员普及相关知识，许多业内人士对Axios表示，预计未来六到12个月内会发生重大事件。"
+                "x": "95亿韩元预算中仅66억5천만원签约，28억5천만원将被退还，且由于是按量计费合同，退还金额可能增加。서범수称这是“先发布再说的粗放式行政”，表示如无补救措施，将考虑申请监查院审计。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Laboratorios de IA prevén una\nreacción tras un gran ataque",
-          "body": "Según Axios, directivos de Anthropic y OpenAI planifican en privado la reacción pública a una catástrofe de IA.",
-          "mini_headline": "Laboratorios de IA ante el rechazo",
+          "headline": "Programa de AI para vulnerables\nlo usa menos del 10% previsto",
+          "body": "El diputado Seo Beom-su dijo que solo 8,324 estudiantes usaron realmente AI On-Ieum, frente a una meta de 120,000.",
+          "mini_headline": "Bajo uso de AI On-Ieum",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+                "cap": "El diputado Seo Beom-su (서범수), del Partido del Poder Popular, durante la sesión de preguntas al Gobierno (2026.9.14)"
               },
               {
                 "t": "p",
-                "x": "Altos directivos de Anthropic, OpenAI y otras empresas de inteligencia artificial (AI) están ensayando en privado escenarios de rebelión pública y política tras un evento catastrófico de IA, según informa Axios. Prevén un evento a gran escala (large-scale), probablemente un ciberataque, que corte el acceso a servicios financieros, a la conexión a internet o incluso al suministro eléctrico y de agua."
+                "x": "Los usuarios del 'programa AI On-Ieum 2026', que apoya el uso de servicios de AI de pago por parte de estudiantes de secundaria de grupos vulnerables, no alcanzaron ni el 10% del objetivo inicial."
               },
               {
                 "t": "p",
-                "x": "Según el informe, un primer caso de daño significativo en el mundo real (real-world) volvería aún más a una opinión pública ya recelosa contra la tecnología y sus líderes, entre ellos Dario Amodei y Sam Altman, así como contra el presidente Trump por su reticencia a regularla. Muchos de los principales investigadores y directivos de IA creen que un incidente grave es inevitable."
+                "x": "Según datos que el diputado Seo Beom-su (서범수), del Partido del Poder Popular y miembro del Comité de Educación de la Asamblea Nacional, obtuvo de la Fundación Coreana de Becas, los estudiantes que usaron realmente el servicio tras solicitarlo eran 8천324 a finales de septiembre. El Ministerio de Educación lanzó el programa en agosto con 95억원 en subvenciones especiales del presupuesto suplementario y anunció un objetivo de 120,000 estudiantes."
               },
               {
                 "t": "p",
-                "x": "\"OpenAI realiza ejercicios de preparación en los que los equipos discuten y analizan una serie de posibles escenarios\", dijo un portavoz de la empresa. \"Estos escenarios no se tratan como inevitables\". Anthropic declinó hacer comentarios."
+                "x": "De los 31만4천674 estudiantes que cumplían los requisitos, 6만8천40 (21.6%) presentaron solicitud, 3만9천331 (12.5%) recibieron una cuenta y 8천324 (2.6%) iniciaron sesión al menos una vez."
               },
               {
                 "t": "p",
-                "x": "Axios cita una campaña reciente contra organizaciones financieras de Corea del Sur: según CrowdStrike, un hacker de China habría utilizado modelos de IA desarrollados en China (China-developed), entre ellos DeepSeek, para robar datos de decenas de miles de clientes bancarios."
+                "x": "Seo señaló que, por los retrasos en la designación de la entidad encargada y en la licitación y el contrato, las solicitudes de los estudiantes solo se abrieron del 20 al 28 de agosto. La fundación explicó que \"era inevitable al tratarse de un programa urgente puesto en marcha tras aprobarse el presupuesto suplementario\". El equipo de Seo, citando la situación financiera de la contratista Mindlogic, sostuvo que \"la selección y la verificación de la empresa también fueron deficientes\"."
               },
               {
                 "t": "p",
-                "x": "Los principales planificadores del sector de la IA dan por hecho que los demócratas, fortalecidos tras las elecciones de mitad de mandato, actuarán con rapidez para frenar la IA, pero se enfrentarán a obstáculos importantes. La planificación se centra sobre todo en una carrera por informar a los miembros del Congreso, y muchos conocedores del sector dijeron a Axios que esperan un evento grave en los próximos seis a 12 meses."
+                "x": "De los 95억원 del presupuesto solo se contrataron 66억5천만원, por lo que se devolverán 28억5천만원, y como el contrato es de pago por uso, la cifra devuelta podría aumentar. Seo calificó el caso de \"administración improvisada que anuncia primero y piensa después\" y dijo que, si no hay medidas correctivas, estudiará solicitar una auditoría a la Junta de Auditoría e Inspección."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI 업계, 대형 공격 뒤\n여론 반발 시나리오 점검",
-          "body": "Anthropic·OpenAI 경영진이 AI 참사 뒤 역풍에 은밀히 대비한다.",
-          "mini_headline": "AI 업계, 반발 대비",
+        "en": {
+          "headline": "AI aid for vulnerable students\nfalls below 10% of target use",
+          "body": "Rep. Seo Beom-su said only 8,324 students actually used AI On-Ieum, against a target of 120,000.",
+          "mini_headline": "Low uptake of AI On-Ieum",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+                "cap": "Rep. Seo Beom-su (서범수) of the People Power Party during questioning of the government (2026.9.14)"
               },
               {
                 "t": "p",
-                "x": "Axios에 따르면 Anthropic, OpenAI 등 AI 기업 최고 경영진이 재앙적 AI 사건 이후 대중과 정치권의 반발이 일어나는 시나리오를 비공개로 점검하고 있다. 이들은 금융 서비스와 인터넷 접속, 나아가 전력과 수도까지 끊는 대규모(large-scale) 사건을 예상하며, 가장 가능성이 큰 형태로 사이버 공격을 꼽는다."
+                "x": "Users of the '2026 AI On-Ieum program', which supports paid AI services for high school students from vulnerable groups, fell short of even 10% of the original target."
               },
               {
                 "t": "p",
-                "x": "보도에 따르면 실제 세계(real-world)에서 처음으로 큰 피해가 발생하면 이미 경계심을 품은 대중은 이 기술과 그 리더들, 곧 다리오 아모데이(Dario Amodei)와 샘 올트먼(Sam Altman)에게 더 등을 돌리고, 규제를 꺼려 온 트럼프(Trump) 대통령에게도 반감을 키울 것이다. 많은 최고 AI 연구자와 경영진은 대형 사고를 피할 수 없다고 본다."
+                "x": "According to data that Rep. Seo Beom-su (서범수) of the People Power Party, a member of the National Assembly's Education Committee, obtained from the Korea Student Aid Foundation, 8천324 students had actually used the service after applying as of the end of September. The Ministry of Education launched the program in August with 9.5 billion won in special grants from the supplementary budget, announcing a target of 120,000 students."
               },
               {
                 "t": "p",
-                "x": "OpenAI 대변인은 \"OpenAI는 팀들이 다양한 잠재 시나리오를 논의하고 검토하는 대비 훈련을 진행한다\"며 \"이 시나리오들을 불가피한 것으로 다루지는 않는다\"고 말했다. Anthropic은 논평을 거부했다."
+                "x": "Of the 31만4천674 eligible students, 6만8천40 (21.6%) applied, 3만9천331 (12.5%) were issued accounts, and 8천324 (2.6%) logged in at least once."
               },
               {
                 "t": "p",
-                "x": "Axios는 최근 한국 금융기관을 겨냥한 공격 사례를 언급했다. CrowdStrike에 따르면 중국 해커가 DeepSeek 등 중국산(China-developed) AI 모델을 이용해 은행 고객 수만 명의 데이터를 훔친 것으로 알려졌다."
+                "x": "Seo pointed out that delays in designating the contractor and in bidding and contracting meant student applications only took place from August 20 to 28. The foundation explained that \"it was unavoidable as an urgent program pushed after the supplementary budget was drawn up.\" Seo's side, citing the financial condition of contractor Mindlogic, argued that \"vendor selection and vetting were also sloppy.\""
               },
               {
                 "t": "p",
-                "x": "AI 업계의 최고 기획자들은 중간선거 이후 세를 넓힌 민주당이 AI를 막으려 빠르게 움직이겠지만 상당한 난관에 부딪힐 것으로 본다. 대비 계획은 주로 의회 의원들을 서둘러 교육하는 데 맞춰져 있으며, 업계 내부자 다수는 Axios에 앞으로 여섯 달에서 12개월 안에 대형 사건이 일어날 것으로 예상한다고 말했다."
+                "x": "Of the 9.5 billion won budget, only 66억5천만원 was contracted and 28억5천만원 is set to be returned; because the contract is pay-per-use, the returned amount could grow. Calling it \"slapdash administration that announces first and thinks later,\" Seo said he would consider requesting an audit by the Board of Audit and Inspection if no remedial measures are made."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI各社、大規模攻撃後の\n世論の反発を想定",
-          "body": "AnthropicとOpenAIの幹部が、AI大惨事後の反発を密かに想定している。",
-          "mini_headline": "AI各社、反発に備える",
+          "headline": "脆弱層向けAI支援事業\n実利用は目標の10%未満",
+          "body": "ソ・ボムス議員はAIオンイウムの実利用者が目標12万人中8,324人にとどまるとした。",
+          "mini_headline": "AIオンイウムの利用低迷",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+                "cap": "対政府質問に立つ国民の力のソ・ボムス(서범수)議員(2026.9.14)"
               },
               {
                 "t": "p",
-                "x": "Axiosによると、Anthropic、OpenAIなどAI企業の経営トップは、壊滅的なAI事象の後に世論と政治の反発が起きるシナリオを非公開で検討している。彼らは、金融サービスやインターネット接続、さらには電力や水道まで止まる大規模(large-scale)な事象を想定しており、最も可能性が高いのはサイバー攻撃だとみている。"
+                "x": "脆弱層の高校生による有料型AIサービスの利用を支援する「2026年AIオンイウム事業」の利用者が、当初目標の10%にも届いていないことがわかった。"
               },
               {
                 "t": "p",
-                "x": "同報道によると、現実世界(real-world)で初めて重大な被害が生じれば、すでに警戒している世論は、この技術とダリオ・アモデイ(Dario Amodei)氏やサム・アルトマン(Sam Altman)氏ら業界の指導者に一段と反発し、規制に消極的なトランプ(Trump)大統領にも矛先を向けるだろう。多くのトップAI研究者や経営者は、大規模な事故は避けられないと考えている。"
+                "x": "国会教育委員会所属で国民の力のソ・ボムス(서범수)議員が韓国奨学財団から提出を受けた資料によると、申請後に実際にサービスを利用した学生は9月末時点で8천324人だ。教育部は8月、補正予算の特別交付金95億ウォンを配分して事業を始め、支援対象を12万人と予告していた。"
               },
               {
                 "t": "p",
-                "x": "OpenAIの広報担当者は「OpenAIは、チームがさまざまな潜在的シナリオを議論し検討する備えの演習を行っている」と述べ、「これらのシナリオは不可避なものとして扱われてはいない」とした。Anthropicはコメントを控えた。"
+                "x": "要件に該当する学生31만4천674人のうち、申請は6만8천40人(21.6%)、アカウント発行は3만9천331人(12.5%)、一度でもログインした学生は8천324人(2.6%)だった。"
               },
               {
                 "t": "p",
-                "x": "Axiosは、最近の韓国金融機関を狙った攻撃を例に挙げる。CrowdStrikeによると、中国のハッカーがDeepSeekを含む中国開発(China-developed)のAIモデルを使い、銀行顧客数万人のデータを盗んだとされる。"
+                "x": "ソ議員は、委託先の指定と入札・契約が遅れ、学生の申請が8月20∼28日にようやく行われたと指摘した。財団は「補正予算編成後の緊急推進事業であり、やむを得なかった」と説明した。ソ議員側は契約業者マインドロジックの財務状態を挙げ、「業者の選定と検証もずさんだった」と主張した。"
               },
               {
                 "t": "p",
-                "x": "AI業界の主要な計画担当者は、中間選挙後に勢いを増した民主党がAIを止めようと素早く動くものの、大きな壁に直面すると想定している。計画の中心は議会議員への説明を急ぐことにあり、多くの業界関係者はAxiosに対し、今後六カ月から12カ月以内に大規模な事象が起きると予想していると語った。"
+                "x": "予算95億ウォンのうち66억5천만원しか契約されず、28억5천만원は返納される見通しで、従量制契約のため返納額はさらに増える可能性がある。ソ議員は「発表を先にしてから考える場当たり的な行政だ」とし、補完策がなければ監査院への監査請求を検討すると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI巨头推演重大袭击后\n公众反弹的局面",
-          "body": "据Axios报道，Anthropic和OpenAI高管正私下推演AI灾难后的公众反弹。",
-          "mini_headline": "AI公司预演反弹",
+          "headline": "弱势群体AI支援项目\n实际使用不足目标10%",
+          "body": "서범수议员称，AI On-Ieum实际用户仅8,324人，远低于12万人目标。",
+          "mini_headline": "AI On-Ieum使用率低",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+                "cap": "在对政府质询中发言的国民力量党议员서범수（2026.9.14）"
               },
               {
                 "t": "p",
-                "x": "据Axios报道，Anthropic、OpenAI等AI公司的高层正私下推演一场灾难性AI事件之后公众与政界强烈反弹的情景。他们预计会发生一场大规模(large-scale)事件，最可能是网络攻击，导致金融服务、互联网连接乃至电力和供水中断。"
+                "x": "支持弱势群体高中生使用付费AI服务的“2026年AI On-Ieum项目”，用户数连原定目标的10%都未达到。"
               },
               {
                 "t": "p",
-                "x": "报道称，这种首次在现实世界(real-world)造成重大损害的事件，会让本已心存戒备的公众更加反感这项技术及其领军人物，包括达里奥·阿莫代伊(Dario Amodei)和萨姆·奥尔特曼(Sam Altman)，也会迁怒于不愿对其加以监管的特朗普(Trump)总统。许多顶尖AI研究人员和高管认为，重大事故不可避免。"
+                "x": "根据国会教育委员会所属国民力量党议员서범수从韩国奖学财团获得的资料，截至9月底，申请后实际使用服务的学生为8천324人。教育部8月拨出追加预算特别交付金95亿韩元启动该项目，并预告支持对象为12万人。"
               },
               {
                 "t": "p",
-                "x": "OpenAI发言人表示：“OpenAI会开展准备演练，由团队讨论并推演一系列潜在情景。”“这些情景并不被视为必然发生。”Anthropic拒绝置评。"
+                "x": "在符合条件的31만4천674名学生中，申请者6만8천40人(21.6%)，获发账号者3만9천331人(12.5%)，至少登录过一次的学生为8천324人(2.6%)。"
               },
               {
                 "t": "p",
-                "x": "Axios援引了近期针对韩国金融机构的攻击：据CrowdStrike称，一名来自中国的黑客涉嫌利用包括DeepSeek在内的中国研发(China-developed)AI模型，窃取了数万名银行客户的数据。"
+                "x": "서범수指出，由于委托指定和招标、签约延迟，学生申请直到8月20∼28日才进行。财团解释称：“这是追加预算编制后紧急推进的项目，实属不得已。”서범수方面以签约企业Mindlogic的财务状况为由，称“企业遴选和审查也很草率”。"
               },
               {
                 "t": "p",
-                "x": "AI业界的高层规划者预计，中期选举后势力上升的民主党会迅速采取行动叫停AI，但将面临重大挑战。相关规划主要集中在抓紧向国会议员普及相关知识，许多业内人士对Axios表示，预计未来六到12个月内会发生重大事件。"
+                "x": "95亿韩元预算中仅66억5천만원签约，28억5천만원将被退还，且由于是按量计费合同，退还金额可能增加。서범수称这是“先发布再说的粗放式行政”，表示如无补救措施，将考虑申请监查院审计。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Laboratorios de IA prevén una\nreacción tras un gran ataque",
-          "body": "Según Axios, directivos de Anthropic y OpenAI planifican en privado la reacción pública a una catástrofe de IA.",
-          "mini_headline": "Laboratorios de IA ante el rechazo",
+          "headline": "Programa de AI para vulnerables\nlo usa menos del 10% previsto",
+          "body": "El diputado Seo Beom-su dijo que solo 8,324 estudiantes usaron realmente AI On-Ieum, frente a una meta de 120,000.",
+          "mini_headline": "Bajo uso de AI On-Ieum",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+                "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+                "cap": "El diputado Seo Beom-su (서범수), del Partido del Poder Popular, durante la sesión de preguntas al Gobierno (2026.9.14)"
               },
               {
                 "t": "p",
-                "x": "Altos directivos de Anthropic, OpenAI y otras empresas de inteligencia artificial (AI) están ensayando en privado escenarios de rebelión pública y política tras un evento catastrófico de IA, según informa Axios. Prevén un evento a gran escala (large-scale), probablemente un ciberataque, que corte el acceso a servicios financieros, a la conexión a internet o incluso al suministro eléctrico y de agua."
+                "x": "Los usuarios del 'programa AI On-Ieum 2026', que apoya el uso de servicios de AI de pago por parte de estudiantes de secundaria de grupos vulnerables, no alcanzaron ni el 10% del objetivo inicial."
               },
               {
                 "t": "p",
-                "x": "Según el informe, un primer caso de daño significativo en el mundo real (real-world) volvería aún más a una opinión pública ya recelosa contra la tecnología y sus líderes, entre ellos Dario Amodei y Sam Altman, así como contra el presidente Trump por su reticencia a regularla. Muchos de los principales investigadores y directivos de IA creen que un incidente grave es inevitable."
+                "x": "Según datos que el diputado Seo Beom-su (서범수), del Partido del Poder Popular y miembro del Comité de Educación de la Asamblea Nacional, obtuvo de la Fundación Coreana de Becas, los estudiantes que usaron realmente el servicio tras solicitarlo eran 8천324 a finales de septiembre. El Ministerio de Educación lanzó el programa en agosto con 95억원 en subvenciones especiales del presupuesto suplementario y anunció un objetivo de 120,000 estudiantes."
               },
               {
                 "t": "p",
-                "x": "\"OpenAI realiza ejercicios de preparación en los que los equipos discuten y analizan una serie de posibles escenarios\", dijo un portavoz de la empresa. \"Estos escenarios no se tratan como inevitables\". Anthropic declinó hacer comentarios."
+                "x": "De los 31만4천674 estudiantes que cumplían los requisitos, 6만8천40 (21.6%) presentaron solicitud, 3만9천331 (12.5%) recibieron una cuenta y 8천324 (2.6%) iniciaron sesión al menos una vez."
               },
               {
                 "t": "p",
-                "x": "Axios cita una campaña reciente contra organizaciones financieras de Corea del Sur: según CrowdStrike, un hacker de China habría utilizado modelos de IA desarrollados en China (China-developed), entre ellos DeepSeek, para robar datos de decenas de miles de clientes bancarios."
+                "x": "Seo señaló que, por los retrasos en la designación de la entidad encargada y en la licitación y el contrato, las solicitudes de los estudiantes solo se abrieron del 20 al 28 de agosto. La fundación explicó que \"era inevitable al tratarse de un programa urgente puesto en marcha tras aprobarse el presupuesto suplementario\". El equipo de Seo, citando la situación financiera de la contratista Mindlogic, sostuvo que \"la selección y la verificación de la empresa también fueron deficientes\"."
               },
               {
                 "t": "p",
-                "x": "Los principales planificadores del sector de la IA dan por hecho que los demócratas, fortalecidos tras las elecciones de mitad de mandato, actuarán con rapidez para frenar la IA, pero se enfrentarán a obstáculos importantes. La planificación se centra sobre todo en una carrera por informar a los miembros del Congreso, y muchos conocedores del sector dijeron a Axios que esperan un evento grave en los próximos seis a 12 meses."
+                "x": "De los 95억원 del presupuesto solo se contrataron 66억5천만원, por lo que se devolverán 28억5천만원, y como el contrato es de pago por uso, la cifra devuelta podría aumentar. Seo calificó el caso de \"administración improvisada que anuncia primero y piensa después\" y dijo que, si no hay medidas correctivas, estudiará solicitar una auditoría a la Junta de Auditoría e Inspección."
               }
             ]
           }
@@ -1109,417 +1209,156 @@
       }
     },
     {
-      "id": "artex-pentest-pulled",
-      "source_lang": "ko",
+      "id": "nippon-life-openai-upl",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "금융권 해킹에 등장한\n'아르텍스' 공개 중단",
-      "body": "한국 금융권 해킹에 쓰였다고 알려진 중국산 AI 도구 아르텍스가 공개를 중단했다.",
-      "mini_headline": "'아르텍스' 공개 중단",
+      "headline": "Nippon Life v. OpenAI tests\nchatbot legal drafting",
+      "body": "Daniel Kalish asks whether chatbot-drafted briefs could be unauthorized practice of law under century-old statutes.",
+      "mini_headline": "Chatbot briefs on trial",
       "tool": "Politics",
-      "source": "Yonhap News Agency",
-      "url": "https://www.yna.co.kr/view/AKR20261010022500017",
+      "source": "Tech Policy Press",
+      "url": "https://techpolicy.press/nippon-life-v-openai-and-the-future-of-ai-legal-work",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-            "cap": "서울 시내 은행 ATM [연합뉴스 자료사진. 재판매 및 DB 금지]"
+            "src": "https://cdn.sanity.io/images/3tzzh18d/production/a382ebca845ca81d96cb19b48783a406d4a829ad-1200x675.tif?fm=jpg&w=1200",
+            "cap": "A courtroom at the US District Court for the Northern District of Illinois. Library of Congress (public domain)."
           },
           {
             "t": "p",
-            "x": "최근 한국 금융권을 겨냥한 연쇄 해킹 공격에 활용된 것으로 알려진 중국산 인공지능(AI) 침투테스트 도구 '아르텍스'(ARTEX)가 악용 논란 끝에 공개 개발을 중단한다."
+            "x": "In Tech Policy Press, Daniel Kalish writes that Nippon Life Insurance Co. of America v. OpenAI Foundation, pending in the Northern District of Illinois, is among the first cases to ask whether legal briefs drafted with AI assistance constitute the unauthorized practice of law (UPL) and whether the AI company is liable."
           },
           {
             "t": "p",
-            "x": "아르텍스 개발자는 도구가 사이버 공격에 악용된 점을 이유로 업데이트를 중단하고 추가 버전도 공개하지 않겠다고 밝혔다. 개발자 플랫폼 깃허브에서도 관련 페이지가 사라진 것으로 전해졌다. 다만 이미 배포된 프로그램까지 회수할 수는 없어 개발 중단 조치만으로 아르텍스를 활용한 사이버 공격을 차단하기는 어려울 것으로 보인다."
+            "x": "Nippon Life alleges that Graciela Dela Torre, after settling a disability claim, used ChatGPT to file two lawsuits with over 60 filings and a subpoena, including a fabricated citation. It is suing OpenAI for interfering with the settlement, aiding and abetting abuse of process, and violating an Illinois UPL statute."
           },
           {
             "t": "p",
-            "x": "10일 AFP·로이터 통신 등 외신에 따르면 아르텍스 개발자 '오텀(Autumn)-27'은 개발자 플랫폼 깃허브에 지난 8일 올린 글에서 아르텍스가 악용됐다며 \"도구의 잘못된 사용을 고려해 아르텍스는 더 이상 업데이트되지 않고 비공개 소스로 전환될 것\"이라고 말했다. 그는 \"추가 버전은 대중에게 공개되지 않을 것이며 유지 지원도 제공되지 않을 것\"이라고 덧붙였다."
+            "x": "OpenAI argues ChatGPT is a helpful tool that advances access to justice, yet cannot have the knowledge and intent needed for liability. Nippon counters that OpenAI is responsible for its tool under products liability doctrine."
           },
           {
             "t": "p",
-            "x": "아르텍스 측은 이 도구를 사이버 공격에 사용하는 것은 개발자 의도에 반하는 것이라면서도 국내에서 벌어진 해킹 사태를 직접 언급하지는 않았다. 아울러 아르텍스 측은 도구를 활용해 법과 규제를 위반한 행위에 대해 책임지지 않는다고 주장했다. 아르텍스의 깃허브 페이지는 사라진 상태라고 로이터가 전했다."
-          },
-          {
-            "t": "p",
-            "x": "전문가들은 아르텍스가 비공개 소스로 전환되면 신규 사용자가 코드를 만들기 더 어려워질 수 있다고 짚었다. 다만 중국 정보통신 전문가는 아르텍스의 이번 결정이 이미 다운로드된 사본을 제거하거나 사용자가 계속해서 쓰는 것을 막을 수는 없을 것이라고 AFP에 말했다."
-          },
-          {
-            "t": "p",
-            "x": "아르텍스는 대규모 언어모델(LLM)을 연결해 AI 에이전트가 공격 대상을 분석하고 침투 경로를 계획하며 보안 도구를 실행하도록 설계된 자율형 침투테스트 프로그램이다. 미국 보안업체 크라우드스트라이크는 지난달 말부터 이달 초 사이에 한국 금융기관을 겨냥한 공격이 이뤄졌으며, 공격자가 아르텍스와 LLM을 함께 활용했다고 분석했다."
+            "x": "Kalish notes Nippon sued under the Attorney Act, a mid-nineteenth-century law, rather than the 1917 corporate-practice law, and argues the ruling will show how far century-old licensing laws reach technology their drafters never anticipated."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "금융권 해킹에 등장한\n'아르텍스' 공개 중단",
-          "body": "한국 금융권 해킹에 쓰였다고 알려진 중국산 AI 도구 아르텍스가 공개를 중단했다.",
-          "mini_headline": "'아르텍스' 공개 중단",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-                "cap": "서울 시내 은행 ATM [연합뉴스 자료사진. 재판매 및 DB 금지]"
-              },
-              {
-                "t": "p",
-                "x": "최근 한국 금융권을 겨냥한 연쇄 해킹 공격에 활용된 것으로 알려진 중국산 인공지능(AI) 침투테스트 도구 '아르텍스'(ARTEX)가 악용 논란 끝에 공개 개발을 중단한다."
-              },
-              {
-                "t": "p",
-                "x": "아르텍스 개발자는 도구가 사이버 공격에 악용된 점을 이유로 업데이트를 중단하고 추가 버전도 공개하지 않겠다고 밝혔다. 개발자 플랫폼 깃허브에서도 관련 페이지가 사라진 것으로 전해졌다. 다만 이미 배포된 프로그램까지 회수할 수는 없어 개발 중단 조치만으로 아르텍스를 활용한 사이버 공격을 차단하기는 어려울 것으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "10일 AFP·로이터 통신 등 외신에 따르면 아르텍스 개발자 '오텀(Autumn)-27'은 개발자 플랫폼 깃허브에 지난 8일 올린 글에서 아르텍스가 악용됐다며 \"도구의 잘못된 사용을 고려해 아르텍스는 더 이상 업데이트되지 않고 비공개 소스로 전환될 것\"이라고 말했다. 그는 \"추가 버전은 대중에게 공개되지 않을 것이며 유지 지원도 제공되지 않을 것\"이라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "아르텍스 측은 이 도구를 사이버 공격에 사용하는 것은 개발자 의도에 반하는 것이라면서도 국내에서 벌어진 해킹 사태를 직접 언급하지는 않았다. 아울러 아르텍스 측은 도구를 활용해 법과 규제를 위반한 행위에 대해 책임지지 않는다고 주장했다. 아르텍스의 깃허브 페이지는 사라진 상태라고 로이터가 전했다."
-              },
-              {
-                "t": "p",
-                "x": "전문가들은 아르텍스가 비공개 소스로 전환되면 신규 사용자가 코드를 만들기 더 어려워질 수 있다고 짚었다. 다만 중국 정보통신 전문가는 아르텍스의 이번 결정이 이미 다운로드된 사본을 제거하거나 사용자가 계속해서 쓰는 것을 막을 수는 없을 것이라고 AFP에 말했다."
-              },
-              {
-                "t": "p",
-                "x": "아르텍스는 대규모 언어모델(LLM)을 연결해 AI 에이전트가 공격 대상을 분석하고 침투 경로를 계획하며 보안 도구를 실행하도록 설계된 자율형 침투테스트 프로그램이다. 미국 보안업체 크라우드스트라이크는 지난달 말부터 이달 초 사이에 한국 금융기관을 겨냥한 공격이 이뤄졌으며, 공격자가 아르텍스와 LLM을 함께 활용했다고 분석했다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "ARTEX, tool tied to bank hacks,\nhalts public release",
-          "body": "ARTEX, a Chinese-made AI tool reportedly used in hacks on South Korean financial firms, has stopped public release.",
-          "mini_headline": "ARTEX halts public release",
+          "headline": "Nippon Life v. OpenAI tests\nchatbot legal drafting",
+          "body": "Daniel Kalish asks whether chatbot-drafted briefs could be unauthorized practice of law under century-old statutes.",
+          "mini_headline": "Chatbot briefs on trial",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-                "cap": "A bank ATM in Seoul [Yonhap file photo. Resale and DB prohibited]"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/a382ebca845ca81d96cb19b48783a406d4a829ad-1200x675.tif?fm=jpg&w=1200",
+                "cap": "A courtroom at the US District Court for the Northern District of Illinois. Library of Congress (public domain)."
               },
               {
                 "t": "p",
-                "x": "ARTEX, a Chinese-made artificial intelligence (AI) penetration-testing tool reportedly used in a string of hacking attacks on South Korea's financial sector, is ending public development after controversy over its misuse."
+                "x": "In Tech Policy Press, Daniel Kalish writes that Nippon Life Insurance Co. of America v. OpenAI Foundation, pending in the Northern District of Illinois, is among the first cases to ask whether legal briefs drafted with AI assistance constitute the unauthorized practice of law (UPL) and whether the AI company is liable."
               },
               {
                 "t": "p",
-                "x": "The ARTEX developer said updates would stop and no further versions would be released, citing the tool's misuse in cyberattacks. The related page on the developer platform GitHub has also reportedly disappeared. However, since programs already distributed cannot be recalled, halting development alone is unlikely to block cyberattacks using ARTEX."
+                "x": "Nippon Life alleges that Graciela Dela Torre, after settling a disability claim, used ChatGPT to file two lawsuits with over 60 filings and a subpoena, including a fabricated citation. It is suing OpenAI for interfering with the settlement, aiding and abetting abuse of process, and violating an Illinois UPL statute."
               },
               {
                 "t": "p",
-                "x": "According to foreign media including AFP and Reuters on the 10th, ARTEX developer 'Autumn-27' said in a post on the developer platform GitHub on the 8th that ARTEX had been misused, adding, \"Given the misuse of the tool, ARTEX will no longer be updated and will move to closed source.\" The developer added, \"Further versions will not be released to the public, and no maintenance support will be provided.\""
+                "x": "OpenAI argues ChatGPT is a helpful tool that advances access to justice, yet cannot have the knowledge and intent needed for liability. Nippon counters that OpenAI is responsible for its tool under products liability doctrine."
               },
               {
                 "t": "p",
-                "x": "The ARTEX side said using the tool for cyberattacks runs counter to the developer's intent, but did not directly mention the hacking incidents in South Korea. It also claimed it bears no responsibility for acts that violate laws and regulations using the tool. Reuters reported that ARTEX's GitHub page is gone."
-              },
-              {
-                "t": "p",
-                "x": "Experts noted that ARTEX's move to closed source could make it harder for new users to build the code. However, a Chinese information and communications expert told AFP that the decision cannot remove copies already downloaded or stop users from continuing to use them."
-              },
-              {
-                "t": "p",
-                "x": "ARTEX is an autonomous penetration-testing program that connects large language models (LLM) so that AI agents analyze targets, plan intrusion paths and run security tools. U.S. security firm CrowdStrike found that attacks targeting South Korean financial institutions took place between late last month and early this month, and that the attackers used ARTEX together with LLM."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "金融ハッキングに登場した\nARTEX、公開を中止",
-          "body": "韓国金融界へのハッキングに使われたとされる中国製AIツールARTEXが公開を中止した。",
-          "mini_headline": "ARTEX、公開中止",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-                "cap": "ソウル市内の銀行のATM [聯合ニュース資料写真。転売およびDB化禁止]"
-              },
-              {
-                "t": "p",
-                "x": "最近、韓国の金融界を狙った連続ハッキング攻撃に使われたとされる中国製の人工知能(AI)侵入テストツール「アルテックス」(ARTEX)が、悪用をめぐる論争の末、公開開発を中止する。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEXの開発者は、ツールがサイバー攻撃に悪用されたことを理由に、アップデートを停止し、今後のバージョンも公開しないと明らかにした。開発者プラットフォームのGitHubからも関連ページが消えたという。ただ、すでに配布されたプログラムまで回収することはできず、開発中止だけでARTEXを使ったサイバー攻撃を防ぐのは難しいとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "10日のAFP・ロイター通信など海外メディアによると、ARTEXの開発者「オータム(Autumn)-27」は8日に開発者プラットフォームGitHubに投稿した文章で、ARTEXが悪用されたとして「ツールの誤用を考慮し、ARTEXは今後アップデートされず、クローズドソースに移行する」と述べた。さらに「今後のバージョンは一般に公開されず、保守サポートも提供されない」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEX側は、このツールをサイバー攻撃に使うことは開発者の意図に反するとしながらも、韓国で起きたハッキング事件には直接言及しなかった。また、ツールを使って法律や規制に違反した行為について責任を負わないと主張した。ARTEXのGitHubページは消えた状態だとロイターが伝えた。"
-              },
-              {
-                "t": "p",
-                "x": "専門家らは、ARTEXがクローズドソースに移行すれば、新規ユーザーがコードを作成するのは難しくなる可能性があると指摘した。ただ、中国の情報通信専門家はAFPに対し、今回の決定ですでにダウンロードされたコピーを削除したり、ユーザーが使い続けるのを止めたりすることはできないだろうと語った。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEXは、大規模言語モデル(LLM)を接続し、AIエージェントが攻撃対象を分析して侵入経路を計画し、セキュリティツールを実行するよう設計された自律型の侵入テストプログラムである。米セキュリティ企業クラウドストライク(CrowdStrike)は、先月末から今月初めにかけて韓国の金融機関を狙った攻撃が行われ、攻撃者がARTEXとLLMを併用したと分析した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "现身韩国金融黑客案的\nARTEX停止公开",
-          "body": "据称被用于入侵韩国金融业的中国产AI工具ARTEX已停止公开。",
-          "mini_headline": "ARTEX停止公开",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-                "cap": "首尔市内的银行ATM [韩联社资料照片，禁止转售及收入DB]"
-              },
-              {
-                "t": "p",
-                "x": "据称被用于近期针对韩国金融业的一系列黑客攻击的中国产人工智能(AI)渗透测试工具“ARTEX”，在滥用争议之下停止公开开发。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEX开发者表示，由于该工具被滥用于网络攻击，将停止更新，也不再公开后续版本。据悉，开发者平台GitHub上的相关页面也已消失。不过，已分发的程序无法收回，仅靠停止开发恐怕难以阻止利用ARTEX发动的网络攻击。"
-              },
-              {
-                "t": "p",
-                "x": "据AFP、路透社等外媒10日报道，ARTEX开发者“Autumn-27”8日在开发者平台GitHub上发文称ARTEX遭到滥用，并表示：“考虑到该工具被误用，ARTEX将不再更新，并将转为闭源。”他还补充说：“后续版本将不会向公众发布，也不会提供维护支持。”"
-              },
-              {
-                "t": "p",
-                "x": "ARTEX方面称，将该工具用于网络攻击违背了开发者的本意，但并未直接提及在韩国发生的黑客事件。ARTEX方面还声称，对于利用该工具违反法律法规的行为不承担责任。路透社报道称，ARTEX的GitHub页面已经消失。"
-              },
-              {
-                "t": "p",
-                "x": "专家指出，ARTEX转为闭源后，新用户编写代码可能会更加困难。不过，一名中国信息通信专家对AFP表示，ARTEX此次的决定无法删除已下载的副本，也无法阻止用户继续使用。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEX是一款自主渗透测试程序，通过连接大语言模型(LLM)，让AI代理分析攻击目标、规划渗透路径并运行安全工具。美国安全企业CrowdStrike分析称，上月底至本月初发生了针对韩国金融机构的攻击，攻击者同时使用了ARTEX和LLM。"
+                "x": "Kalish notes Nippon sued under the Attorney Act, a mid-nineteenth-century law, rather than the 1917 corporate-practice law, and argues the ruling will show how far century-old licensing laws reach technology their drafters never anticipated."
               }
             ]
           }
         },
         "es": {
-          "headline": "ARTEX, usada en ciberataques\na bancos, deja de ser pública",
-          "body": "ARTEX, herramienta china de IA presuntamente usada en hackeos a la banca surcoreana, ha dejado de publicarse.",
-          "mini_headline": "ARTEX deja de ser pública",
+          "headline": "Nippon Life v. OpenAI examina\nla redacción legal con chatbots",
+          "body": "Daniel Kalish pregunta si los escritos de chatbots podrían ser ejercicio ilegal de la abogacía según leyes centenarias.",
+          "mini_headline": "Escritos de chatbot, a juicio",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-                "cap": "Cajero automático (ATM) de un banco en Seúl [Foto de archivo de Yonhap. Prohibida su reventa y su inclusión en DB]"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/a382ebca845ca81d96cb19b48783a406d4a829ad-1200x675.tif?fm=jpg&w=1200",
+                "cap": "Una sala del US District Court for the Northern District of Illinois. Library of Congress (dominio público)."
               },
               {
                 "t": "p",
-                "x": "ARTEX, una herramienta china de pruebas de penetración basada en inteligencia artificial (AI) que, según se informó, se utilizó en una serie de ataques informáticos contra el sector financiero de Corea del Sur, pone fin a su desarrollo público tras la polémica por su uso indebido."
+                "x": "En Tech Policy Press, Daniel Kalish escribe que Nippon Life Insurance Co. of America v. OpenAI Foundation, pendiente en el Northern District of Illinois, es uno de los primeros casos que plantean si los escritos legales AI-assisted constituyen ejercicio no autorizado de la abogacía (UPL) y si la empresa de AI es responsable."
               },
               {
                 "t": "p",
-                "x": "El desarrollador de ARTEX anunció que dejará de actualizar la herramienta y no publicará nuevas versiones, alegando que se utilizó de forma indebida en ciberataques. Según se informó, la página correspondiente también desapareció de la plataforma para desarrolladores GitHub. Sin embargo, como no es posible retirar los programas ya distribuidos, parece difícil que la sola suspensión del desarrollo baste para frenar los ciberataques con ARTEX."
+                "x": "Nippon Life alega que Graciela Dela Torre, tras llegar a un acuerdo en una reclamación por discapacidad, usó ChatGPT para presentar dos demandas con más de 60 escritos y una citación judicial, incluida una cita inventada. Demanda a OpenAI por interferir en el acuerdo, por complicidad en el abuso del proceso y por violar una ley de UPL de Illinois."
               },
               {
                 "t": "p",
-                "x": "Según medios extranjeros como AFP y Reuters del día 10, el desarrollador de ARTEX, 'Autumn-27', afirmó en una publicación en la plataforma GitHub el día 8 que ARTEX había sido utilizada de forma indebida y que, \"teniendo en cuenta el mal uso de la herramienta, ARTEX dejará de actualizarse y pasará a ser de código cerrado\". Añadió que \"las próximas versiones no se publicarán al público y no se ofrecerá soporte de mantenimiento\"."
+                "x": "OpenAI sostiene que ChatGPT es una herramienta útil que mejora el acceso a la justicia, pero que no puede tener el conocimiento ni la intención necesarios para ser responsable. Nippon replica que OpenAI responde por su herramienta según la doctrina de responsabilidad por productos."
               },
               {
                 "t": "p",
-                "x": "Los responsables de ARTEX señalaron que usar la herramienta para ciberataques va en contra de la intención del desarrollador, aunque no mencionaron directamente los ataques ocurridos en Corea del Sur. Asimismo, sostuvieron que no se hacen responsables de los actos que infrinjan leyes y normas mediante la herramienta. Reuters informó de que la página de ARTEX en GitHub ha desaparecido."
-              },
-              {
-                "t": "p",
-                "x": "Los expertos señalaron que el paso de ARTEX a código cerrado podría dificultar que nuevos usuarios generen el código. No obstante, un experto chino en tecnologías de la información y las comunicaciones dijo a AFP que esta decisión no podrá eliminar las copias ya descargadas ni impedir que los usuarios sigan utilizándolas."
-              },
-              {
-                "t": "p",
-                "x": "ARTEX es un programa autónomo de pruebas de penetración que conecta grandes modelos de lenguaje (LLM) para que agentes de IA analicen objetivos, planifiquen vías de intrusión y ejecuten herramientas de seguridad. La empresa de seguridad estadounidense CrowdStrike concluyó que entre finales del mes pasado y principios de este mes se produjeron ataques contra instituciones financieras surcoreanas y que los atacantes utilizaron ARTEX junto con LLM."
+                "x": "Kalish señala que Nippon demandó con base en la Attorney Act de mediados del siglo XIX (mid-1800s) y no en la ley de 1917 sobre ejercicio corporativo, y sostiene que el fallo mostrará hasta dónde alcanzan unas leyes de licencias centenarias sobre tecnologías que sus redactores nunca previeron."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "ARTEX, tool tied to bank hacks,\nhalts public release",
-          "body": "ARTEX, a Chinese-made AI tool reportedly used in hacks on South Korean financial firms, has stopped public release.",
-          "mini_headline": "ARTEX halts public release",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-                "cap": "A bank ATM in Seoul [Yonhap file photo. Resale and DB prohibited]"
-              },
-              {
-                "t": "p",
-                "x": "ARTEX, a Chinese-made artificial intelligence (AI) penetration-testing tool reportedly used in a string of hacking attacks on South Korea's financial sector, is ending public development after controversy over its misuse."
-              },
-              {
-                "t": "p",
-                "x": "The ARTEX developer said updates would stop and no further versions would be released, citing the tool's misuse in cyberattacks. The related page on the developer platform GitHub has also reportedly disappeared. However, since programs already distributed cannot be recalled, halting development alone is unlikely to block cyberattacks using ARTEX."
-              },
-              {
-                "t": "p",
-                "x": "According to foreign media including AFP and Reuters on the 10th, ARTEX developer 'Autumn-27' said in a post on the developer platform GitHub on the 8th that ARTEX had been misused, adding, \"Given the misuse of the tool, ARTEX will no longer be updated and will move to closed source.\" The developer added, \"Further versions will not be released to the public, and no maintenance support will be provided.\""
-              },
-              {
-                "t": "p",
-                "x": "The ARTEX side said using the tool for cyberattacks runs counter to the developer's intent, but did not directly mention the hacking incidents in South Korea. It also claimed it bears no responsibility for acts that violate laws and regulations using the tool. Reuters reported that ARTEX's GitHub page is gone."
-              },
-              {
-                "t": "p",
-                "x": "Experts noted that ARTEX's move to closed source could make it harder for new users to build the code. However, a Chinese information and communications expert told AFP that the decision cannot remove copies already downloaded or stop users from continuing to use them."
-              },
-              {
-                "t": "p",
-                "x": "ARTEX is an autonomous penetration-testing program that connects large language models (LLM) so that AI agents analyze targets, plan intrusion paths and run security tools. U.S. security firm CrowdStrike found that attacks targeting South Korean financial institutions took place between late last month and early this month, and that the attackers used ARTEX together with LLM."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "金融ハッキングに登場した\nARTEX、公開を中止",
-          "body": "韓国金融界へのハッキングに使われたとされる中国製AIツールARTEXが公開を中止した。",
-          "mini_headline": "ARTEX、公開中止",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-                "cap": "ソウル市内の銀行のATM [聯合ニュース資料写真。転売およびDB化禁止]"
-              },
-              {
-                "t": "p",
-                "x": "最近、韓国の金融界を狙った連続ハッキング攻撃に使われたとされる中国製の人工知能(AI)侵入テストツール「アルテックス」(ARTEX)が、悪用をめぐる論争の末、公開開発を中止する。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEXの開発者は、ツールがサイバー攻撃に悪用されたことを理由に、アップデートを停止し、今後のバージョンも公開しないと明らかにした。開発者プラットフォームのGitHubからも関連ページが消えたという。ただ、すでに配布されたプログラムまで回収することはできず、開発中止だけでARTEXを使ったサイバー攻撃を防ぐのは難しいとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "10日のAFP・ロイター通信など海外メディアによると、ARTEXの開発者「オータム(Autumn)-27」は8日に開発者プラットフォームGitHubに投稿した文章で、ARTEXが悪用されたとして「ツールの誤用を考慮し、ARTEXは今後アップデートされず、クローズドソースに移行する」と述べた。さらに「今後のバージョンは一般に公開されず、保守サポートも提供されない」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEX側は、このツールをサイバー攻撃に使うことは開発者の意図に反するとしながらも、韓国で起きたハッキング事件には直接言及しなかった。また、ツールを使って法律や規制に違反した行為について責任を負わないと主張した。ARTEXのGitHubページは消えた状態だとロイターが伝えた。"
-              },
-              {
-                "t": "p",
-                "x": "専門家らは、ARTEXがクローズドソースに移行すれば、新規ユーザーがコードを作成するのは難しくなる可能性があると指摘した。ただ、中国の情報通信専門家はAFPに対し、今回の決定ですでにダウンロードされたコピーを削除したり、ユーザーが使い続けるのを止めたりすることはできないだろうと語った。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEXは、大規模言語モデル(LLM)を接続し、AIエージェントが攻撃対象を分析して侵入経路を計画し、セキュリティツールを実行するよう設計された自律型の侵入テストプログラムである。米セキュリティ企業クラウドストライク(CrowdStrike)は、先月末から今月初めにかけて韓国の金融機関を狙った攻撃が行われ、攻撃者がARTEXとLLMを併用したと分析した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "现身韩国金融黑客案的\nARTEX停止公开",
-          "body": "据称被用于入侵韩国金融业的中国产AI工具ARTEX已停止公开。",
-          "mini_headline": "ARTEX停止公开",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-                "cap": "首尔市内的银行ATM [韩联社资料照片，禁止转售及收入DB]"
-              },
-              {
-                "t": "p",
-                "x": "据称被用于近期针对韩国金融业的一系列黑客攻击的中国产人工智能(AI)渗透测试工具“ARTEX”，在滥用争议之下停止公开开发。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEX开发者表示，由于该工具被滥用于网络攻击，将停止更新，也不再公开后续版本。据悉，开发者平台GitHub上的相关页面也已消失。不过，已分发的程序无法收回，仅靠停止开发恐怕难以阻止利用ARTEX发动的网络攻击。"
-              },
-              {
-                "t": "p",
-                "x": "据AFP、路透社等外媒10日报道，ARTEX开发者“Autumn-27”8日在开发者平台GitHub上发文称ARTEX遭到滥用，并表示：“考虑到该工具被误用，ARTEX将不再更新，并将转为闭源。”他还补充说：“后续版本将不会向公众发布，也不会提供维护支持。”"
-              },
-              {
-                "t": "p",
-                "x": "ARTEX方面称，将该工具用于网络攻击违背了开发者的本意，但并未直接提及在韩国发生的黑客事件。ARTEX方面还声称，对于利用该工具违反法律法规的行为不承担责任。路透社报道称，ARTEX的GitHub页面已经消失。"
-              },
-              {
-                "t": "p",
-                "x": "专家指出，ARTEX转为闭源后，新用户编写代码可能会更加困难。不过，一名中国信息通信专家对AFP表示，ARTEX此次的决定无法删除已下载的副本，也无法阻止用户继续使用。"
-              },
-              {
-                "t": "p",
-                "x": "ARTEX是一款自主渗透测试程序，通过连接大语言模型(LLM)，让AI代理分析攻击目标、规划渗透路径并运行安全工具。美国安全企业CrowdStrike分析称，上月底至本月初发生了针对韩国金融机构的攻击，攻击者同时使用了ARTEX和LLM。"
-              }
-            ]
-          }
-        },
         "es": {
-          "headline": "ARTEX, usada en ciberataques\na bancos, deja de ser pública",
-          "body": "ARTEX, herramienta china de IA presuntamente usada en hackeos a la banca surcoreana, ha dejado de publicarse.",
-          "mini_headline": "ARTEX deja de ser pública",
+          "headline": "Nippon Life v. OpenAI examina\nla redacción legal con chatbots",
+          "body": "Daniel Kalish pregunta si los escritos de chatbots podrían ser ejercicio ilegal de la abogacía según leyes centenarias.",
+          "mini_headline": "Escritos de chatbot, a juicio",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-                "cap": "Cajero automático (ATM) de un banco en Seúl [Foto de archivo de Yonhap. Prohibida su reventa y su inclusión en DB]"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/a382ebca845ca81d96cb19b48783a406d4a829ad-1200x675.tif?fm=jpg&w=1200",
+                "cap": "Una sala del US District Court for the Northern District of Illinois. Library of Congress (dominio público)."
               },
               {
                 "t": "p",
-                "x": "ARTEX, una herramienta china de pruebas de penetración basada en inteligencia artificial (AI) que, según se informó, se utilizó en una serie de ataques informáticos contra el sector financiero de Corea del Sur, pone fin a su desarrollo público tras la polémica por su uso indebido."
+                "x": "En Tech Policy Press, Daniel Kalish escribe que Nippon Life Insurance Co. of America v. OpenAI Foundation, pendiente en el Northern District of Illinois, es uno de los primeros casos que plantean si los escritos legales AI-assisted constituyen ejercicio no autorizado de la abogacía (UPL) y si la empresa de AI es responsable."
               },
               {
                 "t": "p",
-                "x": "El desarrollador de ARTEX anunció que dejará de actualizar la herramienta y no publicará nuevas versiones, alegando que se utilizó de forma indebida en ciberataques. Según se informó, la página correspondiente también desapareció de la plataforma para desarrolladores GitHub. Sin embargo, como no es posible retirar los programas ya distribuidos, parece difícil que la sola suspensión del desarrollo baste para frenar los ciberataques con ARTEX."
+                "x": "Nippon Life alega que Graciela Dela Torre, tras llegar a un acuerdo en una reclamación por discapacidad, usó ChatGPT para presentar dos demandas con más de 60 escritos y una citación judicial, incluida una cita inventada. Demanda a OpenAI por interferir en el acuerdo, por complicidad en el abuso del proceso y por violar una ley de UPL de Illinois."
               },
               {
                 "t": "p",
-                "x": "Según medios extranjeros como AFP y Reuters del día 10, el desarrollador de ARTEX, 'Autumn-27', afirmó en una publicación en la plataforma GitHub el día 8 que ARTEX había sido utilizada de forma indebida y que, \"teniendo en cuenta el mal uso de la herramienta, ARTEX dejará de actualizarse y pasará a ser de código cerrado\". Añadió que \"las próximas versiones no se publicarán al público y no se ofrecerá soporte de mantenimiento\"."
+                "x": "OpenAI sostiene que ChatGPT es una herramienta útil que mejora el acceso a la justicia, pero que no puede tener el conocimiento ni la intención necesarios para ser responsable. Nippon replica que OpenAI responde por su herramienta según la doctrina de responsabilidad por productos."
               },
               {
                 "t": "p",
-                "x": "Los responsables de ARTEX señalaron que usar la herramienta para ciberataques va en contra de la intención del desarrollador, aunque no mencionaron directamente los ataques ocurridos en Corea del Sur. Asimismo, sostuvieron que no se hacen responsables de los actos que infrinjan leyes y normas mediante la herramienta. Reuters informó de que la página de ARTEX en GitHub ha desaparecido."
-              },
-              {
-                "t": "p",
-                "x": "Los expertos señalaron que el paso de ARTEX a código cerrado podría dificultar que nuevos usuarios generen el código. No obstante, un experto chino en tecnologías de la información y las comunicaciones dijo a AFP que esta decisión no podrá eliminar las copias ya descargadas ni impedir que los usuarios sigan utilizándolas."
-              },
-              {
-                "t": "p",
-                "x": "ARTEX es un programa autónomo de pruebas de penetración que conecta grandes modelos de lenguaje (LLM) para que agentes de IA analicen objetivos, planifiquen vías de intrusión y ejecuten herramientas de seguridad. La empresa de seguridad estadounidense CrowdStrike concluyó que entre finales del mes pasado y principios de este mes se produjeron ataques contra instituciones financieras surcoreanas y que los atacantes utilizaron ARTEX junto con LLM."
+                "x": "Kalish señala que Nippon demandó con base en la Attorney Act de mediados del siglo XIX (mid-1800s) y no en la ley de 1917 sobre ejercicio corporativo, y sostiene que el fallo mostrará hasta dónde alcanzan unas leyes de licencias centenarias sobre tecnologías que sus redactores nunca previeron."
               }
             ]
           }
         }
+      },
+      "i18n_status": {
+        "ko": "fallback",
+        "ja": "fallback",
+        "zh": "fallback"
       }
     },
     {
-      "id": "china-speed-first-safety",
+      "id": "ireland-ai-summit-omnibus",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "SemiAnalysis\n중국은 프런티어 못 이끈다",
-      "body": "SemiAnalysis는 속도를 앞세운 중국이 AI 경쟁을 이끌지 않는다고 본다.",
-      "mini_headline": "중국의 속도 우선(speed-first) AI 안전",
+      "headline": "아일랜드 AI 정상회의\n시민사회 빠진 의제",
+      "body": "Tech Policy Press 집계로는 발언 45석 중 37석이 기업 몫이다.",
+      "mini_headline": "아일랜드 AI 정상회의",
       "tool": "Politics",
-      "source": "SemiAnalysis",
-      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+      "source": "Tech Policy Press",
+      "url": "https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1527,203 +1366,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+            "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+            "cap": "아일랜드가 EU Council 의장국 임기를 시작하며 University College Cork에 선 Taoiseach(아일랜드 총리) Micheál Martin과 European Commission 위원장 Ursula von der Leyen. Photo: Liam McBurney/PA Wire (AP Images)"
           },
           {
             "t": "p",
-            "x": "다리오 아모데이(Dario Amodei)가 2026년 9월 12일 중국을 핵심 근거로 들며 프런티어 연구소들이 의도적으로 역량 향상 속도를 늦춰야 한다고 주장하자, SemiAnalysis는 중국이 AI 안전에서 실제로 무엇을 하는지 따져 본다. 결론부터 말하면 베이징(Beijing)의 실제 접근법은 안전 중심(safety-based)이 아니라 속도 중심(speed-based)이다."
+            "x": "Tech Policy Press 펠로 Liz Carolan에 따르면 아일랜드는 다음 주 더블린에서 초청자만 참석하는 International AI Summit을 열 예정이다. 같은 시기에 의장국으로서 EU의 Digital Omnibus 협상 마지막 단계도 이끈다. GDPR을 포함한 유럽 디지털 규범 일부를 고치는 패키지다."
           },
           {
             "t": "p",
-            "x": "중국이 내세우는 입장은 안전 우선(safety-forward)이다. TC260의 AI Safety Governance Framework 3.0(2026년 9월 14일)은 재귀적 자기 개선(self-improvement)도 경고한다. 그런데 정작 이 Framework의 첫머리는 혁신 촉진이고, 약속했던 포괄적 AI 법(AI Law)은 2025년에 보류됐다. AI+ 행동계획(AI+ Action Plan)은 2027년까지 에이전트 보급률 70%를 목표로 잡았다. 수많은 규정이 다루는 것도 프런티어 모델이 아니라 애플리케이션 속 AI의 말과 행동이다."
-          },
-          {
-            "t": "img",
-            "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-            "cap": "출처: SemiAnalysis"
+            "x": "주요 발언 자리는 Google, Microsoft, OpenAI가 차지했고, Meta, IBM, Intel, Nvidia, Amazon, Anthropic, AMD, Stripe, SAP, Mistral도 패널에 오른다."
           },
           {
             "t": "p",
-            "x": "2021년부터 2026년 9월 15일까지 중국 주요 개발사 9곳이 내놓은 857건의 출시 데이터셋에서 안전성 결과를 한 번이라도 공개한 경우는 31건(3.6%)에 그쳤고, 출시 시점이나 그 이전에 공개한 경우는 9건(1.1%)뿐이었다. 위험 역량(dangerous-capability) 평가를 거치고 나온 중국 프런티어 텍스트 모델은 하나도 없다. 안전을 전략 차원의 약속으로 분명히 내건 곳도 Zhipu 하나뿐이다."
+            "x": "Tech Policy Press 분석에 따르면 발언 자리 45석 중 37석(82%)이 기업이나 경제단체를 대표하는 임원에게 돌아간다. 의제에 시민사회단체나 학계 인사는 없다. 노조 대표도 노동계가 노동자 대표 부재를 비판하고 나서야 한 명 추가됐다."
           },
           {
             "t": "p",
-            "x": "문서 102건을 텍스트로 분석해 보니 개발보다 안전을 앞세운 쪽은 기술 과학자들뿐이었다. 프런티어 모델에 구속력 있는 의무를 지우자는 제안 13건은 하나도 채택되지 않았다. 저자들은 중국을 속도 쪽으로 몰아간 것이 지정학이라고 주장하며 Anthropic의 다음 출시 게시물조차 속도 조절을 \"중국과의 경쟁력 유지(remaining competitive with China)\"로 규정했다고 짚는다."
+            "x": "정상회의를 전후해 Workers' AI Counter Summit을 비롯한 대안 행사가 열릴 예정이고, 공공부문 노조는 정상회의 당일에 맞춰 하루 파업을 예고했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "SemiAnalysis: Beijing won't\npace the AI frontier",
-          "body": "SemiAnalysis argues China's AI safety rules put speed first, so Beijing will not be the one to pace the frontier race.",
-          "mini_headline": "China's speed-first AI safety",
+          "headline": "Ireland's AI summit agenda\nleaves out civil society",
+          "body": "Tech Policy Press counts 37 of 45 speaking slots at Ireland's upcoming AI summit going to business representatives.",
+          "mini_headline": "Ireland's AI summit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+                "cap": "Taoiseach Micheál Martin and European Commission President Ursula von der Leyen at University College Cork as Ireland begins its EU Council presidency. Photo: Liam McBurney/PA Wire (AP Images)"
               },
               {
                 "t": "p",
-                "x": "After Dario Amodei argued on 12 September 2026 that frontier labs must deliberately slow capability gains, with China central to his case, SemiAnalysis asks what China is actually doing on AI safety. Its answer: Beijing's real approach is speed-based, not safety-based."
+                "x": "Liz Carolan, a Tech Policy Press fellow, reports that Ireland is preparing to host an invitation-only International AI Summit in Dublin next week while chairing the final stages of negotiations on the EU's Digital Omnibus, a package that would amend parts of Europe's digital rulebook, including the GDPR."
               },
               {
                 "t": "p",
-                "x": "China's stated position is safety-forward, and TC260's AI Safety Governance Framework 3.0 (14 September 2026) warns of recursive self-improvement. But the Framework opens with promoting innovation, the promised comprehensive AI Law was shelved in 2025, and the AI+ Action Plan targets 70% agent penetration by 2027. Its many mandates govern what AI says and does in applications, not frontier models."
-              },
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-                "cap": "Source: SemiAnalysis"
+                "x": "Google, Microsoft and OpenAI hold prominent speaking slots, with Meta, IBM, Intel, Nvidia, Amazon, Anthropic, AMD, Stripe, SAP and Mistral also on panels."
               },
               {
                 "t": "p",
-                "x": "In a dataset of 857 releases by 9 leading Chinese developers from 2021 to 15 September 2026, only 31 (3.6%) ever came with a published safety result, and just 9 (1.1%) at or before release. No Chinese frontier text model has shipped with a dangerous-capability evaluation; Zhipu is the only lab where safety is a named strategic commitment."
+                "x": "Tech Policy Press analysis found that 37 of 45 speaking slots (82%) go to executives representing companies or business groups. No civil society organizations or academics appear on the agenda; a single trade union representative was added after unions criticized the lack of worker representation."
               },
               {
                 "t": "p",
-                "x": "A text analysis of 102 documents finds only technical scientists put safety ahead of development; none of 13 calls for binding frontier duties was adopted. The authors argue geopolitics pushed China toward speed, and note that Anthropic's own next launch post framed pacing as \"remaining competitive with China.\""
+                "x": "Alternative events, including a Workers' AI Counter Summit, are planned around the summit, and public sector unions have called a one-day strike that coincides with it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "SemiAnalysis\n중국은 프런티어 못 이끈다",
-          "body": "SemiAnalysis는 속도를 앞세운 중국이 AI 경쟁을 이끌지 않는다고 본다.",
-          "mini_headline": "중국의 속도 우선(speed-first) AI 안전",
+          "headline": "아일랜드 AI 정상회의\n시민사회 빠진 의제",
+          "body": "Tech Policy Press 집계로는 발언 45석 중 37석이 기업 몫이다.",
+          "mini_headline": "아일랜드 AI 정상회의",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+                "cap": "아일랜드가 EU Council 의장국 임기를 시작하며 University College Cork에 선 Taoiseach(아일랜드 총리) Micheál Martin과 European Commission 위원장 Ursula von der Leyen. Photo: Liam McBurney/PA Wire (AP Images)"
               },
               {
                 "t": "p",
-                "x": "다리오 아모데이(Dario Amodei)가 2026년 9월 12일 중국을 핵심 근거로 들며 프런티어 연구소들이 의도적으로 역량 향상 속도를 늦춰야 한다고 주장하자, SemiAnalysis는 중국이 AI 안전에서 실제로 무엇을 하는지 따져 본다. 결론부터 말하면 베이징(Beijing)의 실제 접근법은 안전 중심(safety-based)이 아니라 속도 중심(speed-based)이다."
+                "x": "Tech Policy Press 펠로 Liz Carolan에 따르면 아일랜드는 다음 주 더블린에서 초청자만 참석하는 International AI Summit을 열 예정이다. 같은 시기에 의장국으로서 EU의 Digital Omnibus 협상 마지막 단계도 이끈다. GDPR을 포함한 유럽 디지털 규범 일부를 고치는 패키지다."
               },
               {
                 "t": "p",
-                "x": "중국이 내세우는 입장은 안전 우선(safety-forward)이다. TC260의 AI Safety Governance Framework 3.0(2026년 9월 14일)은 재귀적 자기 개선(self-improvement)도 경고한다. 그런데 정작 이 Framework의 첫머리는 혁신 촉진이고, 약속했던 포괄적 AI 법(AI Law)은 2025년에 보류됐다. AI+ 행동계획(AI+ Action Plan)은 2027년까지 에이전트 보급률 70%를 목표로 잡았다. 수많은 규정이 다루는 것도 프런티어 모델이 아니라 애플리케이션 속 AI의 말과 행동이다."
-              },
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-                "cap": "출처: SemiAnalysis"
+                "x": "주요 발언 자리는 Google, Microsoft, OpenAI가 차지했고, Meta, IBM, Intel, Nvidia, Amazon, Anthropic, AMD, Stripe, SAP, Mistral도 패널에 오른다."
               },
               {
                 "t": "p",
-                "x": "2021년부터 2026년 9월 15일까지 중국 주요 개발사 9곳이 내놓은 857건의 출시 데이터셋에서 안전성 결과를 한 번이라도 공개한 경우는 31건(3.6%)에 그쳤고, 출시 시점이나 그 이전에 공개한 경우는 9건(1.1%)뿐이었다. 위험 역량(dangerous-capability) 평가를 거치고 나온 중국 프런티어 텍스트 모델은 하나도 없다. 안전을 전략 차원의 약속으로 분명히 내건 곳도 Zhipu 하나뿐이다."
+                "x": "Tech Policy Press 분석에 따르면 발언 자리 45석 중 37석(82%)이 기업이나 경제단체를 대표하는 임원에게 돌아간다. 의제에 시민사회단체나 학계 인사는 없다. 노조 대표도 노동계가 노동자 대표 부재를 비판하고 나서야 한 명 추가됐다."
               },
               {
                 "t": "p",
-                "x": "문서 102건을 텍스트로 분석해 보니 개발보다 안전을 앞세운 쪽은 기술 과학자들뿐이었다. 프런티어 모델에 구속력 있는 의무를 지우자는 제안 13건은 하나도 채택되지 않았다. 저자들은 중국을 속도 쪽으로 몰아간 것이 지정학이라고 주장하며 Anthropic의 다음 출시 게시물조차 속도 조절을 \"중국과의 경쟁력 유지(remaining competitive with China)\"로 규정했다고 짚는다."
+                "x": "정상회의를 전후해 Workers' AI Counter Summit을 비롯한 대안 행사가 열릴 예정이고, 공공부문 노조는 정상회의 당일에 맞춰 하루 파업을 예고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SemiAnalysis\n中国はAI最前線を先導せず",
-          "body": "SemiAnalysisは、速度優先の中国がAI競争の先頭に立つことはないと論じる。",
-          "mini_headline": "中国の速度優先(speed-first)のAI安全",
+          "headline": "アイルランドAIサミット\n市民社会抜きの議題",
+          "body": "Tech Policy Pressの集計では、登壇枠45のうち37が企業代表だ。",
+          "mini_headline": "アイルランドAIサミット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+                "cap": "アイルランドがEU Council議長国の任期を始めるにあたり、University College Corkに立つTaoiseach(アイルランド首相)Micheál MartinとEuropean Commission委員長Ursula von der Leyen。Photo: Liam McBurney/PA Wire (AP Images)"
               },
               {
                 "t": "p",
-                "x": "ダリオ・アモデイ(Dario Amodei)氏が2026年9月12日、中国を論拠の中心に据えて、フロンティアラボは能力向上を意図的に減速させるべきだと主張したのを受け、SemiAnalysisは中国がAI安全について実際に何をしているのかを問う。その答えは、北京(Beijing)の実際のアプローチは安全重視(safety-based)ではなく速度重視(speed-based)だというものだ。"
+                "x": "Tech Policy PressフェローのLiz Carolanによると、アイルランドは来週ダブリンで招待者限定のInternational AI Summitを開催する準備を進めている。同時に、GDPRを含む欧州のデジタル規則の一部を改正するパッケージであるEUのDigital Omnibusをめぐる交渉の最終段階で議長を務めている。"
               },
               {
                 "t": "p",
-                "x": "中国の公式な立場は安全優先(safety-forward)であり、TC260のAI Safety Governance Framework 3.0(2026年9月14日)は再帰的な自己改善(self-improvement)に警鐘を鳴らす。しかし同Frameworkはイノベーションの促進から始まり、約束されていた包括的なAI法(AI Law)は2025年に棚上げされ、AI+行動計画(AI+ Action Plan)は2027年までにエージェント普及率70%を目標に掲げる。多くの規定が対象とするのは、フロンティアモデルではなく、アプリケーションでAIが何を言い、何をするかである。"
-              },
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-                "cap": "出典：SemiAnalysis"
+                "x": "Google、Microsoft、OpenAIが主要な登壇枠を占め、Meta、IBM、Intel、Nvidia、Amazon、Anthropic、AMD、Stripe、SAP、Mistralもパネルに登場する。"
               },
               {
                 "t": "p",
-                "x": "2021年から2026年9月15日までの中国主要開発企業9社による857件のリリースのデータセットでは、安全性の結果が公表されたのは31件(3.6%)にとどまり、リリース時またはそれ以前に公表されたのは9件(1.1%)だけだった。危険な能力(dangerous-capability)の評価を伴ってリリースされた中国のフロンティア・テキストモデルはなく、安全を明確な戦略的コミットメントとして掲げるラボはZhipuだけである。"
+                "x": "Tech Policy Pressの分析では、登壇枠45のうち37(82%)が企業や経済団体を代表する幹部に割り当てられている。議題に市民社会団体や学者の名はなく、労働組合が労働者代表の不在を批判した後、労組代表が一人だけ追加された。"
               },
               {
                 "t": "p",
-                "x": "102件の文書のテキスト分析では、開発より安全を優先したのは技術系の科学者だけで、フロンティアに拘束力のある義務を課すよう求めた13件の提言はいずれも採用されなかった。著者らは、地政学が中国を速度へと向かわせたと主張し、Anthropic自身の次のリリース告知も、ペース配分を「中国に対する競争力の維持(remaining competitive with China)」と位置づけていたと指摘する。"
+                "x": "サミットに合わせてWorkers' AI Counter Summitなどの代替イベントが計画されており、公共部門の労組はサミットと同日に一日ストライキを呼びかけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SemiAnalysis：\n中国不会引领AI前沿节奏",
-          "body": "SemiAnalysis认为，中国AI安全规则奉行速度优先，北京不会主导前沿竞赛的节奏。",
-          "mini_headline": "中国速度优先(speed-first)的AI安全",
+          "headline": "爱尔兰AI峰会议程\n将公民社会排除在外",
+          "body": "据Tech Policy Press统计，AI峰会45个发言席位中有37个属企业代表。",
+          "mini_headline": "爱尔兰AI峰会",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+                "cap": "爱尔兰开始担任EU Council轮值主席国之际，爱尔兰总理（Taoiseach）Micheál Martin与European Commission主席Ursula von der Leyen在University College Cork。Photo: Liam McBurney/PA Wire (AP Images)"
               },
               {
                 "t": "p",
-                "x": "2026年9月12日，达里奥·阿莫代伊(Dario Amodei)以中国为核心论据，主张前沿实验室必须有意放缓能力提升。此后，SemiAnalysis追问中国在AI安全上究竟在做什么。其答案是：北京(Beijing)的实际做法以速度为本(speed-based)，而非以安全为本(safety-based)。"
+                "x": "Tech Policy Press研究员Liz Carolan报道，爱尔兰正准备下周在都柏林举办仅限受邀者参加的International AI Summit，同时作为主席国主持EU的Digital Omnibus谈判的最后阶段。该一揽子方案将修订欧洲数字规则的部分内容，包括GDPR。"
               },
               {
                 "t": "p",
-                "x": "中国的官方立场是安全优先(safety-forward)，TC260发布的AI Safety Governance Framework 3.0(2026年9月14日)对递归式自我改进(self-improvement)发出警告。但该Framework开篇即强调促进创新，承诺的综合性AI法(AI Law)已于2025年搁置，而AI+行动计划(AI+ Action Plan)的目标是到2027年智能体普及率达到70%。其众多规定管的是AI在应用中说什么、做什么，而非前沿模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-                "cap": "来源：SemiAnalysis"
+                "x": "Google、Microsoft和OpenAI占据重要发言席位，Meta、IBM、Intel、Nvidia、Amazon、Anthropic、AMD、Stripe、SAP和Mistral也将参加小组讨论。"
               },
               {
                 "t": "p",
-                "x": "在2021年至2026年9月15日期间9家中国主要开发商的857次发布数据中，只有31次(3.6%)曾公布安全评估结果，在发布时或之前公布的仅9次(1.1%)。没有一款中国前沿文本模型在发布时附带危险能力(dangerous-capability)评估；智谱(Zhipu)是唯一将安全列为明确战略承诺的实验室。"
+                "x": "Tech Policy Press的分析发现，45个发言席位中有37个（82%）分配给代表企业或商业团体的高管。议程上没有公民社会组织或学者；在工会批评缺乏劳工代表后，才增加了一名工会代表。"
               },
               {
                 "t": "p",
-                "x": "对102份文件的文本分析发现，只有技术科学家把安全置于发展之前；13项要求为前沿模型设定约束性义务的呼吁无一被采纳。作者认为，地缘政治推动中国走向速度优先，并指出Anthropic自己下一次发布的公告也把节奏问题表述为“保持对中国的竞争力(remaining competitive with China)”。"
+                "x": "峰会前后还计划举办包括Workers' AI Counter Summit在内的替代活动，公共部门工会已宣布在峰会当天举行一天罢工。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SemiAnalysis: Pekín no marcará\nel ritmo de la frontera de la IA",
-          "body": "SemiAnalysis sostiene que las normas chinas de seguridad de IA priorizan la velocidad y que Pekín no marcará el ritmo.",
-          "mini_headline": "Seguridad de IA china: velocidad primero (speed-first)",
+          "headline": "La cumbre de AI de Irlanda\ndeja fuera a la sociedad civil",
+          "body": "Tech Policy Press cuenta que 37 de 45 turnos de palabra en la próxima cumbre de AI de Irlanda son para empresas.",
+          "mini_headline": "La cumbre de AI de Irlanda",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+                "cap": "El Taoiseach Micheál Martin y la presidenta de la European Commission, Ursula von der Leyen, en University College Cork, cuando Irlanda inicia su presidencia del EU Council. Photo: Liam McBurney/PA Wire (AP Images)"
               },
               {
                 "t": "p",
-                "x": "Después de que Dario Amodei afirmara el 12 de septiembre de 2026 que los laboratorios de frontera deben frenar deliberadamente el avance de sus capacidades, con China en el centro de su argumento, SemiAnalysis se pregunta qué está haciendo realmente China en materia de seguridad de la inteligencia artificial (AI). Su respuesta: el enfoque real de Pekín (Beijing) se basa en la velocidad (speed-based), no en la seguridad (safety-based)."
+                "x": "Liz Carolan, investigadora asociada de Tech Policy Press, informa que Irlanda se prepara para acoger la próxima semana en Dublín una International AI Summit solo con invitación, mientras preside la fase final de las negociaciones sobre el Digital Omnibus de la EU, un paquete que modificaría partes del reglamento digital europeo, incluido el GDPR."
               },
               {
                 "t": "p",
-                "x": "La posición declarada de China prioriza la seguridad (safety-forward), y el AI Safety Governance Framework 3.0 del TC260 (14 de septiembre de 2026) advierte sobre la automejora recursiva (self-improvement). Pero el Framework comienza con la promoción de la innovación, la prometida ley integral de IA (AI Law) se archivó en 2025 y el Plan de Acción AI+ (AI+ Action Plan) fija como meta una penetración de agentes del 70% para 2027. Sus numerosas normas regulan lo que la IA dice y hace en las aplicaciones, no los modelos de frontera."
-              },
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-                "cap": "Fuente: SemiAnalysis"
+                "x": "Google, Microsoft y OpenAI ocupan turnos de palabra destacados, y Meta, IBM, Intel, Nvidia, Amazon, Anthropic, AMD, Stripe, SAP y Mistral también participan en paneles."
               },
               {
                 "t": "p",
-                "x": "En un conjunto de datos de 857 lanzamientos de 9 desarrolladores chinos líderes entre 2021 y el 15 de septiembre de 2026, solo 31 (3.6%) llegaron a publicar algún resultado de seguridad, y apenas 9 (1.1%) lo hicieron en el momento del lanzamiento o antes. Ningún modelo de texto chino de frontera se ha lanzado con una evaluación de capacidades peligrosas (dangerous-capability); Zhipu es el único laboratorio en el que la seguridad es un compromiso estratégico explícito."
+                "x": "Un análisis de Tech Policy Press halló que 37 de 45 turnos de palabra (82%) corresponden a ejecutivos que representan a empresas o grupos empresariales. En la agenda no figuran organizaciones de la sociedad civil ni académicos; se añadió un único representante sindical después de que los sindicatos criticaran la falta de representación de los trabajadores."
               },
               {
                 "t": "p",
-                "x": "Un análisis textual de 102 documentos concluye que solo los científicos técnicos anteponen la seguridad al desarrollo; ninguna de las 13 propuestas de obligaciones vinculantes para la frontera fue adoptada. Los autores sostienen que la geopolítica empujó a China hacia la velocidad y señalan que la propia publicación de Anthropic sobre su próximo lanzamiento presentó el ritmo como \"mantenerse competitivos frente a China\" (\"remaining competitive with China\")."
+                "x": "En torno a la cumbre se preparan eventos alternativos, entre ellos una Workers' AI Counter Summit, y los sindicatos del sector público han convocado una huelga de un día que coincide con ella."
               }
             ]
           }
@@ -1731,141 +1546,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "SemiAnalysis\n중국은 프런티어 못 이끈다",
-          "body": "SemiAnalysis는 속도 우선인 중국이 AI 경쟁을 이끌지 않는다고 본다.",
-          "mini_headline": "중국의 속도 우선(speed-first) AI 안전",
+          "headline": "아일랜드 AI 정상회의\n시민사회 빠진 의제",
+          "body": "Tech Policy Press 집계로는 발언 45석 중 37석이 기업 몫이다.",
+          "mini_headline": "아일랜드 AI 정상회의",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+                "cap": "아일랜드가 EU Council 의장국 임기를 시작하며 University College Cork에 선 Taoiseach(아일랜드 총리) Micheál Martin과 European Commission 위원장 Ursula von der Leyen. Photo: Liam McBurney/PA Wire (AP Images)"
               },
               {
                 "t": "p",
-                "x": "다리오 아모데이(Dario Amodei)가 2026년 9월 12일 중국을 핵심 근거로 들며 프런티어 연구소들이 의도적으로 역량 향상 속도를 늦춰야 한다고 주장한 뒤, SemiAnalysis는 중국이 AI 안전에서 실제로 무엇을 하고 있는지 묻는다. 답은 베이징(Beijing)의 실제 접근법이 안전 중심(safety-based)이 아니라 속도 중심(speed-based)이라는 것이다."
+                "x": "Tech Policy Press 펠로 Liz Carolan은 아일랜드가 다음 주 더블린에서 초청자만 참석하는 International AI Summit을 열 준비를 하고 있으며, 동시에 GDPR을 포함한 유럽 디지털 규범 일부를 고치는 패키지인 EU의 Digital Omnibus 협상 마지막 단계를 의장국으로서 이끌고 있다고 전한다."
               },
               {
                 "t": "p",
-                "x": "중국이 내세우는 입장은 안전 우선(safety-forward)이며, TC260의 AI Safety Governance Framework 3.0(2026년 9월 14일)은 재귀적 자기 개선(self-improvement)을 경고한다. 그러나 이 Framework는 혁신 촉진으로 시작하고, 약속했던 포괄적 AI 법(AI Law)은 2025년에 보류됐으며, AI+ 행동계획(AI+ Action Plan)은 2027년까지 에이전트 보급률 70%를 목표로 한다. 수많은 규정은 프런티어 모델이 아니라 애플리케이션에서 AI가 말하고 행동하는 바를 다룬다."
-              },
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-                "cap": "출처: SemiAnalysis"
+                "x": "Google, Microsoft, OpenAI가 주요 발언 자리를 차지했고, Meta, IBM, Intel, Nvidia, Amazon, Anthropic, AMD, Stripe, SAP, Mistral도 패널에 오른다."
               },
               {
                 "t": "p",
-                "x": "2021년부터 2026년 9월 15일까지 중국 주요 개발사 9곳이 내놓은 857건의 출시 데이터셋에서 안전성 결과를 한 번이라도 공개한 경우는 31건(3.6%)에 그쳤고, 출시 시점이나 그 이전에 공개한 경우는 9건(1.1%)뿐이었다. 위험 역량(dangerous-capability) 평가를 거쳐 출시된 중국 프런티어 텍스트 모델은 없으며, 안전을 명시적인 전략적 약속으로 내건 곳은 Zhipu가 유일하다."
+                "x": "Tech Policy Press 분석에 따르면 발언 자리 45석 중 37석(82%)이 기업이나 경제단체를 대표하는 임원에게 돌아간다. 의제에 시민사회단체나 학계 인사는 없으며, 노동계가 노동자 대표 부재를 비판한 뒤에야 노조 대표 한 명이 추가됐다."
               },
               {
                 "t": "p",
-                "x": "102건의 문서를 텍스트 분석한 결과 개발보다 안전을 앞세운 쪽은 기술 과학자들뿐이었고, 프런티어 모델에 구속력 있는 의무를 지우자는 13건의 제안은 하나도 채택되지 않았다. 저자들은 지정학이 중국을 속도 쪽으로 밀어붙였다고 주장하며, Anthropic의 다음 출시 게시물조차 속도 조절을 \"중국과의 경쟁력 유지(remaining competitive with China)\"로 규정했다고 짚는다."
+                "x": "정상회의를 전후해 Workers' AI Counter Summit을 비롯한 대안 행사가 예정돼 있으며, 공공부문 노조는 정상회의 당일에 맞춰 하루 파업을 예고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SemiAnalysis\n中国はAI最前線を先導せず",
-          "body": "SemiAnalysisは、速度優先の中国がAI競争の先頭に立つことはないと論じる。",
-          "mini_headline": "中国の速度優先(speed-first)のAI安全",
+          "headline": "アイルランドAIサミット\n市民社会抜きの議題",
+          "body": "Tech Policy Pressの集計では、登壇枠45のうち37が企業代表だ。",
+          "mini_headline": "アイルランドAIサミット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+                "cap": "アイルランドがEU Council議長国の任期を始めるにあたり、University College Corkに立つTaoiseach(アイルランド首相)Micheál MartinとEuropean Commission委員長Ursula von der Leyen。Photo: Liam McBurney/PA Wire (AP Images)"
               },
               {
                 "t": "p",
-                "x": "ダリオ・アモデイ(Dario Amodei)氏が2026年9月12日、中国を論拠の中心に据えて、フロンティアラボは能力向上を意図的に減速させるべきだと主張したのを受け、SemiAnalysisは中国がAI安全について実際に何をしているのかを問う。その答えは、北京(Beijing)の実際のアプローチは安全重視(safety-based)ではなく速度重視(speed-based)だというものだ。"
+                "x": "Tech Policy PressフェローのLiz Carolanによると、アイルランドは来週ダブリンで招待者限定のInternational AI Summitを開催する準備を進めている。同時に、GDPRを含む欧州のデジタル規則の一部を改正するパッケージであるEUのDigital Omnibusをめぐる交渉の最終段階で議長を務めている。"
               },
               {
                 "t": "p",
-                "x": "中国の公式な立場は安全優先(safety-forward)であり、TC260のAI Safety Governance Framework 3.0(2026年9月14日)は再帰的な自己改善(self-improvement)に警鐘を鳴らす。しかし同Frameworkはイノベーションの促進から始まり、約束されていた包括的なAI法(AI Law)は2025年に棚上げされ、AI+行動計画(AI+ Action Plan)は2027年までにエージェント普及率70%を目標に掲げる。多くの規定が対象とするのは、フロンティアモデルではなく、アプリケーションでAIが何を言い、何をするかである。"
-              },
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-                "cap": "出典：SemiAnalysis"
+                "x": "Google、Microsoft、OpenAIが主要な登壇枠を占め、Meta、IBM、Intel、Nvidia、Amazon、Anthropic、AMD、Stripe、SAP、Mistralもパネルに登場する。"
               },
               {
                 "t": "p",
-                "x": "2021年から2026年9月15日までの中国主要開発企業9社による857件のリリースのデータセットでは、安全性の結果が公表されたのは31件(3.6%)にとどまり、リリース時またはそれ以前に公表されたのは9件(1.1%)だけだった。危険な能力(dangerous-capability)の評価を伴ってリリースされた中国のフロンティア・テキストモデルはなく、安全を明確な戦略的コミットメントとして掲げるラボはZhipuだけである。"
+                "x": "Tech Policy Pressの分析では、登壇枠45のうち37(82%)が企業や経済団体を代表する幹部に割り当てられている。議題に市民社会団体や学者の名はなく、労働組合が労働者代表の不在を批判した後、労組代表が一人だけ追加された。"
               },
               {
                 "t": "p",
-                "x": "102件の文書のテキスト分析では、開発より安全を優先したのは技術系の科学者だけで、フロンティアに拘束力のある義務を課すよう求めた13件の提言はいずれも採用されなかった。著者らは、地政学が中国を速度へと向かわせたと主張し、Anthropic自身の次のリリース告知も、ペース配分を「中国に対する競争力の維持(remaining competitive with China)」と位置づけていたと指摘する。"
+                "x": "サミットに合わせてWorkers' AI Counter Summitなどの代替イベントが計画されており、公共部門の労組はサミットと同日に一日ストライキを呼びかけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SemiAnalysis：\n中国不会引领AI前沿节奏",
-          "body": "SemiAnalysis认为，中国AI安全规则奉行速度优先，北京不会主导前沿竞赛的节奏。",
-          "mini_headline": "中国速度优先(speed-first)的AI安全",
+          "headline": "爱尔兰AI峰会议程\n将公民社会排除在外",
+          "body": "据Tech Policy Press统计，AI峰会45个发言席位中有37个属企业代表。",
+          "mini_headline": "爱尔兰AI峰会",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+                "cap": "爱尔兰开始担任EU Council轮值主席国之际，爱尔兰总理（Taoiseach）Micheál Martin与European Commission主席Ursula von der Leyen在University College Cork。Photo: Liam McBurney/PA Wire (AP Images)"
               },
               {
                 "t": "p",
-                "x": "2026年9月12日，达里奥·阿莫代伊(Dario Amodei)以中国为核心论据，主张前沿实验室必须有意放缓能力提升。此后，SemiAnalysis追问中国在AI安全上究竟在做什么。其答案是：北京(Beijing)的实际做法以速度为本(speed-based)，而非以安全为本(safety-based)。"
+                "x": "Tech Policy Press研究员Liz Carolan报道，爱尔兰正准备下周在都柏林举办仅限受邀者参加的International AI Summit，同时作为主席国主持EU的Digital Omnibus谈判的最后阶段。该一揽子方案将修订欧洲数字规则的部分内容，包括GDPR。"
               },
               {
                 "t": "p",
-                "x": "中国的官方立场是安全优先(safety-forward)，TC260发布的AI Safety Governance Framework 3.0(2026年9月14日)对递归式自我改进(self-improvement)发出警告。但该Framework开篇即强调促进创新，承诺的综合性AI法(AI Law)已于2025年搁置，而AI+行动计划(AI+ Action Plan)的目标是到2027年智能体普及率达到70%。其众多规定管的是AI在应用中说什么、做什么，而非前沿模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-                "cap": "来源：SemiAnalysis"
+                "x": "Google、Microsoft和OpenAI占据重要发言席位，Meta、IBM、Intel、Nvidia、Amazon、Anthropic、AMD、Stripe、SAP和Mistral也将参加小组讨论。"
               },
               {
                 "t": "p",
-                "x": "在2021年至2026年9月15日期间9家中国主要开发商的857次发布数据中，只有31次(3.6%)曾公布安全评估结果，在发布时或之前公布的仅9次(1.1%)。没有一款中国前沿文本模型在发布时附带危险能力(dangerous-capability)评估；智谱(Zhipu)是唯一将安全列为明确战略承诺的实验室。"
+                "x": "Tech Policy Press的分析发现，45个发言席位中有37个（82%）分配给代表企业或商业团体的高管。议程上没有公民社会组织或学者；在工会批评缺乏劳工代表后，才增加了一名工会代表。"
               },
               {
                 "t": "p",
-                "x": "对102份文件的文本分析发现，只有技术科学家把安全置于发展之前；13项要求为前沿模型设定约束性义务的呼吁无一被采纳。作者认为，地缘政治推动中国走向速度优先，并指出Anthropic自己下一次发布的公告也把节奏问题表述为“保持对中国的竞争力(remaining competitive with China)”。"
+                "x": "峰会前后还计划举办包括Workers' AI Counter Summit在内的替代活动，公共部门工会已宣布在峰会当天举行一天罢工。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SemiAnalysis: Pekín no marcará\nel ritmo de la frontera de la IA",
-          "body": "SemiAnalysis sostiene que las normas chinas de seguridad de IA priorizan la velocidad y que Pekín no marcará el ritmo.",
-          "mini_headline": "Seguridad de IA china: velocidad primero (speed-first)",
+          "headline": "La cumbre de AI de Irlanda\ndeja fuera a la sociedad civil",
+          "body": "Tech Policy Press cuenta que 37 de 45 turnos de palabra en la próxima cumbre de AI de Irlanda son para empresas.",
+          "mini_headline": "La cumbre de AI de Irlanda",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+                "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+                "cap": "El Taoiseach Micheál Martin y la presidenta de la European Commission, Ursula von der Leyen, en University College Cork, cuando Irlanda inicia su presidencia del EU Council. Photo: Liam McBurney/PA Wire (AP Images)"
               },
               {
                 "t": "p",
-                "x": "Después de que Dario Amodei afirmara el 12 de septiembre de 2026 que los laboratorios de frontera deben frenar deliberadamente el avance de sus capacidades, con China en el centro de su argumento, SemiAnalysis se pregunta qué está haciendo realmente China en materia de seguridad de la inteligencia artificial (AI). Su respuesta: el enfoque real de Pekín (Beijing) se basa en la velocidad (speed-based), no en la seguridad (safety-based)."
+                "x": "Liz Carolan, investigadora asociada de Tech Policy Press, informa que Irlanda se prepara para acoger la próxima semana en Dublín una International AI Summit solo con invitación, mientras preside la fase final de las negociaciones sobre el Digital Omnibus de la EU, un paquete que modificaría partes del reglamento digital europeo, incluido el GDPR."
               },
               {
                 "t": "p",
-                "x": "La posición declarada de China prioriza la seguridad (safety-forward), y el AI Safety Governance Framework 3.0 del TC260 (14 de septiembre de 2026) advierte sobre la automejora recursiva (self-improvement). Pero el Framework comienza con la promoción de la innovación, la prometida ley integral de IA (AI Law) se archivó en 2025 y el Plan de Acción AI+ (AI+ Action Plan) fija como meta una penetración de agentes del 70% para 2027. Sus numerosas normas regulan lo que la IA dice y hace en las aplicaciones, no los modelos de frontera."
-              },
-              {
-                "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
-                "cap": "Fuente: SemiAnalysis"
+                "x": "Google, Microsoft y OpenAI ocupan turnos de palabra destacados, y Meta, IBM, Intel, Nvidia, Amazon, Anthropic, AMD, Stripe, SAP y Mistral también participan en paneles."
               },
               {
                 "t": "p",
-                "x": "En un conjunto de datos de 857 lanzamientos de 9 desarrolladores chinos líderes entre 2021 y el 15 de septiembre de 2026, solo 31 (3.6%) llegaron a publicar algún resultado de seguridad, y apenas 9 (1.1%) lo hicieron en el momento del lanzamiento o antes. Ningún modelo de texto chino de frontera se ha lanzado con una evaluación de capacidades peligrosas (dangerous-capability); Zhipu es el único laboratorio en el que la seguridad es un compromiso estratégico explícito."
+                "x": "Un análisis de Tech Policy Press halló que 37 de 45 turnos de palabra (82%) corresponden a ejecutivos que representan a empresas o grupos empresariales. En la agenda no figuran organizaciones de la sociedad civil ni académicos; se añadió un único representante sindical después de que los sindicatos criticaran la falta de representación de los trabajadores."
               },
               {
                 "t": "p",
-                "x": "Un análisis textual de 102 documentos concluye que solo los científicos técnicos anteponen la seguridad al desarrollo; ninguna de las 13 propuestas de obligaciones vinculantes para la frontera fue adoptada. Los autores sostienen que la geopolítica empujó a China hacia la velocidad y señalan que la propia publicación de Anthropic sobre su próximo lanzamiento presentó el ritmo como \"mantenerse competitivos frente a China\" (\"remaining competitive with China\")."
+                "x": "En torno a la cumbre se preparan eventos alternativos, entre ellos una Workers' AI Counter Summit, y los sindicatos del sector público han convocado una huelga de un día que coincide con ella."
               }
             ]
           }

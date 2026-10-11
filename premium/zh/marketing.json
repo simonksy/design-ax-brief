@@ -656,6 +656,128 @@
           "x": "这正是Meta和Google用来锁定持续广告支出的控股集团销售体系。"
         }
       ]
+    },
+    "marketing/retail-platforms-block-ai-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "随着人工智能（AI）智能体市场快速增长，电商平台的立场出现分歧。原因在于，当AI智能体代替用户搜索和付款时，与用户建立接触的节点就不再是平台，而是AI智能体。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon近日以违反使用条款为由，封锁了Meta的AI智能体“Muse”，因为后者试图代替用户在Amazon上搜索和购买商品。Amazon称Meta未事先获得批准，且该智能体没有明确表明自己是AI。eBay也从2月起修改条款，禁止第三方AI代购智能体未经授权访问。"
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "相比之下，Google在1月与Shopify共同发布了开放式商务标准（UCP），并在印度开始试行通过Gemini直接购物。6日，Meta、Walmart、Shopify、Stripe等公司决定共同制定一套标准，用于确认AI智能体的身份及其获授的权限。"
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "当AI智能体代劳搜索、比较和付款，用户就不再经过应用和搜索框，对平台而言，广告曝光、推荐算法、客户行为数据和会员锁定等核心资产都会被削弱。在韩国，Naver也在限制外部智能体访问，同时扩大自家购物AI智能体功能；韩国电商排名第一的Coupang也禁止外部AI在其应用内付款。"
+        }
+      ]
+    },
+    "marketing/ias-youtube-ai-slop-filter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Integral Ad Science于2026年9月30日将其Low-Quality GenAI Avoidance（低质量generative-AI规避）产品扩展至YouTube，帮助广告主让广告活动远离批量生产的AI视频。该功能通过IAS的YouTube Optimization和Total Media Quality产品在全球提供，需经客户代表开通。IAS表示后续还将扩展到更多“社交和视频平台”，但未点名。"
+        },
+        {
+          "t": "p",
+          "x": "它包含三个部分：AI垃圾内容成为Custom Brand Suitability配置中的一个类别；Automated Avoidance在竞价前排除内容，并“每日自动更新”；竞价后的TMQ报告包含AVOC比率。分类“基于YouTube Data API的上下文信号构建，未经Google审核”。"
+        },
+        {
+          "t": "p",
+          "x": "公告未给出准确率、支持语言、价格或对覆盖面的影响，也未提及Shorts或CTV。Kapwing的一项研究发现，向新账户展示的前500条Shorts中有21%是AI垃圾内容，头部垃圾频道每年从广告中估计赚取400万至425万美元。"
+        }
+      ]
+    },
+    "marketing/naver-ai-briefing-ad-results": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
+          "cap": "Kakao将于13日至14日在京畿道龙仁市Kakao AI园区举办的“if(kakao)26”宣传图。图片=Kakao"
+        },
+        {
+          "t": "p",
+          "x": "Naver和Kakao正将人工智能（AI）与现有服务结合，把用户意图连接到广告、电商和支付。截至7月，Naver“AI简报”的月用户已突破3000万，Kakao则计划在年底前让基于KakaoTalk的智能体AI获得1000万MAU。"
+        },
+        {
+          "t": "p",
+          "x": "Naver率先在AI搜索上看到了营收成效。7月底推出的AI简报广告点击率比传统搜索广告高出30%以上，购买转化率则超过3倍。今年第二季度广告营收增量中，AI贡献的比重也超过60%。Naver计划将从AI简报和AI标签页中捕捉到的搜索意图扩展到购物、地点和预约，再一路连接到Naver Pay支付。"
+        },
+        {
+          "t": "p",
+          "x": "Kakao将于13日至14日在“if(kakao)26”上公布“AI层”和Kanana模型战略。它将把从对话中识别出的意图连接到商品探索、推荐、预约、下单和支付，并通过开放平台“PlayMCP”（工具超过3400个，日调用量超过10万次）扩大执行范围。Kakao计划到2028年将AI在Talk Biz营收中的占比提升至两位数。"
+        }
+      ]
+    },
+    "marketing/ai-ad-consumer-backlash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+        },
+        {
+          "t": "p",
+          "x": "越来越多的消费者表示对生成式AI制作的广告感到反感。有人指出，AI图像特有的不自然感反而降低了购买欲。在线上时尚平台看到AI模特试穿图的林贤书（28岁）说：“看到这样的AI图片，真不知道该怎么相信它去买衣服。”社交媒体上也出现了“家附近炸鸡店的菜单照片是AI做的，每次看到都起鸡皮疙瘩”之类的反应。"
+        },
+        {
+          "t": "p",
+          "x": "也有人批评为省钱而制作AI广告的商家让人失去信任。还有意见称，对在YouTube等平台反复出现的AI视频广告感到厌倦。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+        },
+        {
+          "t": "p",
+          "x": "大邱大学心理学系教授朴恩雅表示“AI广告是真实性的问题”，并分析称，消费者越是认为广告制作中AI使用程度高，感受到的广告真实性就越低。仁荷大学消费者学系教授李恩熙强调：“为节省成本而使用AI图像，反而可能成为降低信任度的行为。”"
+        }
+      ]
+    },
+    "marketing/muse-agent-traffic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+          "cap": "门卫按着计数器放行橙色纸人克隆体，其数量以2.34比1压过所有对手"
+        },
+        {
+          "t": "p",
+          "x": "HUMAN Security在2026年9月28日发布的博客文章中称，初步观测显示，Meta的Muse智能体平均占每日AI-agent请求的72%，每日请求量是排在其后的ChatGPT Agent的5.2倍。截至9月27日，Muse的每日请求量已是所有其他被测智能体总和的2.34倍。"
+        },
+        {
+          "t": "p",
+          "x": "文章未给出请求数量、样本规模和观测时段，也未界定请求的含义。HUMAN将这一增速归因于价格、内置浏览器智能体的慷慨免费层级，以及通过Facebook、Instagram、Messenger和WhatsApp实现的触达。据报道，截至9月21日，Muse下载量已超过250万次。"
+        },
+        {
+          "t": "p",
+          "x": "Muse的请求中有84%指向商品和搜索页面，且Muse到达结账页面的可能性比其他AI智能体高25%。文章指出，把智能体算作无差别的机器人流量，或把智能体会话当作人类会话，“可能扭曲转化率、漏斗表现、归因和欺诈信号”。"
+        },
+        {
+          "t": "p",
+          "x": "HUMAN本身销售机器人与智能体检测服务，其数据来自自家平台，未引用任何独立测量。"
+        }
+      ]
     }
   }
 }

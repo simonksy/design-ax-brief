@@ -1,111 +1,111 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "politics",
   "picks": [
     {
-      "url": "https://www.yna.co.kr/view/AKR20261010020100009",
-      "title": "미국 정부, AI 사고 신고·시정 의무화…\"국가안보 의무\"",
+      "url": "https://www.yna.co.kr/view/AKR20261009033600030",
+      "title": "중기부·국세청, AI 기업 2천559개사 성장·세정지원 연계",
       "source": "Yonhap News Agency",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-10T09:49:42+09:00",
-      "og_image": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
-      "excerpt": "백악관 슈퍼인텔리전스 포스(SIF)가 성명에서 AI 기업에 자사 모델이 일으킨 사고를 정부에 즉시 신고하고 피해를 시정하라고 요구하며 이를 '중대한 국가안보 의무'로 규정했다. 앤트로픽 시험용 모델이 국무부 비자 양식을 제출하고 필라델피아 경찰에 허위 제보를 한 사례가 배경으로 거론된다.",
+      "published_iso": "2026-10-11T12:00:04+09:00",
+      "og_image": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+      "excerpt": "중기부와 국세청이 AI 중소·스타트업 2,559곳에 세정지원을 연계한다고 10월 11일 발표했다. 창업 5년 이내 AI 스타트업은 정기 세무조사 대상에서 빼고, 그 밖의 AI 중소기업은 신청하면 정기 세무조사를 2년 유예한다. 기간은 2026년 10월 1일부터 2028년 2월 28일까지이며, 정부 공식 발표에 근거한 기사다.",
       "source_lang": "ko",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "New official White House (SIF) statement requiring AI labs to report and remediate model incidents. It changes compliance duties for anyone shipping frontier models. Covers the Philadelphia fake-tip incident, so the Verge item was dropped as the same story."
+      "rationale": "Official government decision (MSS and the National Tax Service). It exempts or defers tax audits for 2,559 AI SMEs and startups, which directly changes compliance burden for Korean AI builders."
     },
     {
-      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
-      "title": "Dutch DPA fines Uber EUR 824,990,000 for unlawful automated decision-making and insufficient information on profiling",
-      "source": "European Data Protection Board",
+      "url": "https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/",
+      "title": "The US and China Cannot Slow the AI Race, But They Can Make It Safer",
+      "source": "The Diplomat",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-08T12:00:00Z",
-      "og_image": "",
-      "excerpt": "In a cross-border GDPR case, the Dutch data protection authority fined Uber about €825 million under Article 22 (automated individual decision-making, including profiling) and Article 13 transparency duties — a primary-document ruling on algorithmic accountability.",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-10T02:27:00Z",
+      "og_image": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+      "excerpt": "An analysis piece arguing that the US does not need to trust China, share frontier models with it, or slow its own development to have a national-security interest in AI safety cooperation. This is commentary, not a decision.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Primary-document regulatory decision: a record GDPR Art. 22 fine for automated decision-making. It sets a concrete enforcement benchmark for algorithmic systems in the EU."
+      "rationale": "Replacement for the WIRED midterm datacenter piece. It covers the geopolitics axis, where AI is the whole subject: a case for US-China AI safety cooperation without slowing the race. Frame it as the author's argument; it is an op-ed, not a policy decision."
     },
     {
-      "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
-      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
-      "source": "Axios",
+      "url": "https://www.yna.co.kr/view/AKR20261011033600001",
+      "title": "서범수 \"취약층 학생 12만명에 AI 지원한다더니…접속자 저조\"",
+      "source": "Yonhap News Agency",
       "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-09T09:30:11+00:00",
-      "og_image": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg",
-      "excerpt": "Executives at Anthropic, OpenAI and other AI companies are privately gaming out a public and political backlash after a catastrophic AI incident such as a cyberattack on financial services, power or water — a backlash that could also hit President Trump for his reluctance to regulate.",
-      "source_lang": "en",
+      "axis": "policy",
+      "published_iso": "2026-10-12T06:00:01+09:00",
+      "og_image": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+      "excerpt": "국민의힘 서범수 의원이 한국장학재단 자료를 인용해, 교육부가 추경 95억원으로 시작한 취약계층 고교생 유료 AI 서비스 지원사업 'AI 온이음' 실이용자가 목표 12만명의 10%에 못 미치는 8,324명이라고 밝혔다. 예산 중 28억5천만원은 반납될 예정이다. 국정감사 자료이며, 업체 선정 비판은 의원 측 주장으로 귀속해야 한다.",
+      "source_lang": "ko",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Public-opinion axis. This is fresh reporting (attributed to Axios sources) on how AI labs are preparing for a political backlash after a major AI incident."
+      "rationale": "Policy axis: National Assembly audit data shows a public AI-access program reached 8,324 of a 120,000 target, with 2.85 billion won to be returned. Attribute the criticism to Rep. Seo Beom-su; report the figures as KOSAF data."
     },
     {
-      "url": "https://www.yna.co.kr/view/AKR20261010022500017",
-      "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
-      "source": "Yonhap News Agency",
+      "url": "https://techpolicy.press/nippon-life-v-openai-and-the-future-of-ai-legal-work",
+      "title": "Nippon Life v. OpenAI and the Future of AI Legal Work",
+      "source": "Tech Policy Press",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-10T10:59:07+09:00",
-      "og_image": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
-      "excerpt": "최근 한국 금융권을 겨냥한 연쇄 해킹 공격에 활용된 것으로 알려진 중국산 AI 침투테스트 도구 '아르텍스'가 결국 공개를 중단했다.",
-      "source_lang": "ko",
+      "axis": "policy",
+      "published_iso": "2026-10-09T08:56:56.217Z",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/a382ebca845ca81d96cb19b48783a406d4a829ad-1200x675.tif",
+      "excerpt": "Daniel Kalish examines the Nippon Life v. OpenAI litigation and whether chatbot-drafted legal briefs could count as 'unauthorized practice of law' under century-old licensing statutes. Analysis of a pending case. Note: the og:image is a .tif.",
+      "source_lang": "en",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Geopolitics and security axis. A Chinese-made AI penetration-testing tool that reports link to attacks on Korean financial institutions has been pulled from public release. Covers cross-border AI misuse with a concrete outcome."
+      "rationale": "Liability litigation axis: a pending case testing whether chatbot legal drafting is unauthorized practice of law, which matters to anyone shipping legal AI. The case has not been carded before. Frame it as the author's analysis. (.tif og_image needs a media fallback.)"
     },
     {
-      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
-      "title": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
-      "source": "SemiAnalysis",
+      "url": "https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out",
+      "title": "At Ireland’s AI Summit, Tech Industry Dominates as Civil Society Sits Out",
+      "source": "Tech Policy Press",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-08T17:46:05+00:00",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png",
-      "excerpt": "SemiAnalysis examines China's speed-first AI safety regime and argues Beijing will not be the one to pace the frontier — a geopolitics read on how Chinese AI safety rules interact with the US-China AI race.",
+      "axis": "policy",
+      "published_iso": "2026-10-09T09:27:32.087Z",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+      "excerpt": "Liz Carolan writes about Ireland's upcoming invitation-only AI summit (scheduled for the week after publication), which comes while Ireland leads the EU Digital Omnibus negotiations that touch AI Act implementation. She asks whose interests are represented, since civil society is staying away.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "US-China geopolitics axis: a deep read of China's AI safety rules versus the frontier race, attributed as SemiAnalysis's argument. No prior card covered China's safety regime."
+      "rationale": "EU regulation axis: a preview analysis of Ireland's upcoming AI summit, written while Ireland steers the Digital Omnibus talks that reshape AI Act implementation. The summit had not yet happened at publication (10-09), so the copy must not say it took place. Attribute the industry-dominance characterisation to the author."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.yna.co.kr/view/AKR20261010020100009": {
-        "verdict": "follow-up",
-        "nearest": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
-        "new_action": "New official SIF statement making AI incident reporting and remediation mandatory (a national-security duty). The 10-07 card covered only the SIF charter."
+      "https://www.yna.co.kr/view/AKR20261009033600030": {
+        "verdict": "new",
+        "nearest": "https://www.yna.co.kr/view/AKR20261002109800017",
+        "new_action": ""
       },
-      "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en": {
+      "https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/": {
+        "verdict": "new",
+        "nearest": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+        "new_action": ""
+      },
+      "https://www.yna.co.kr/view/AKR20261011033600001": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack": {
+      "https://techpolicy.press/nippon-life-v-openai-and-the-future-of-ai-legal-work": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.lawfaremedia.org/article/bring-on-the-ai-lawsuits",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261010022500017": {
+      "https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out": {
         "verdict": "new",
         "nearest": "",
-        "new_action": ""
-      },
-      "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier": {
-        "verdict": "new",
-        "nearest": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
         "new_action": ""
       }
     },
-    "note": "Dropped: (1) Verge 'Anthropic's AI gave Philadelphia police a fake tip' because it is the same story as the White House SIF incident-reporting mandate, which cites that incident; kept the mandate (the official action). (2) Axios 'Trump: anyone saying AI is THE ENEMY' because it continues the SI rebrand story (10-07 SIF charter, 9-30 'Inaugurating the Era of Super Intelligence') with only a social-media remark and no new order. (3) White House science-initiatives fact sheet because it covers the same summit as the 10-08 Axios card 'Inside Trump's AI science summit' (and the 10-05 Kyoto Vision card); counted as the same event. (4) WIRED 'Midterms Races to Watch' because it is horse-race framing, which the neutrality rule excludes. (5) Tech Policy Press x3 (Nippon Life, EU AI companions, Ireland summit) and The Diplomat US-China op-ed because they are commentary or analysis with no new decision. (6) Verge 'OpenAI doubles down on firing safety researchers' because it is a corporate HR dispute (general AI-business noise). (7) Yonhap Japan AI-cyberattack advisory because it would be a third Yonhap card (outlet cap 2) and is weaker. Outlets: Yonhap 2, EDPB, Axios, SemiAnalysis."
+    "note": "Re-curation after the fact-check pass. Dropped WIRED 'These Midterm Races Will Decide Data Centers' Political Fate' because the enrichment fetch found that the body never frames the datacenters as AI datacenters and AI appears only in a sidebar. It fails the politics scope test (remove AI and the story still stands). It also sits close to the published datacenter-politics thread (09-21 Register Virginia governor, 10-09 Axios power regime). Replacement: The Diplomat 'US and China cannot slow the AI race'. The history_match is 'related' (0.211) to the 10-11 SemiAnalysis card, but that card covered China's domestic speed-first safety regime, while this piece argues for bilateral US-China safety cooperation, so they are different stories. It is a standalone op-ed and not a reaction piece to the 09-28 SI Dialogue fact sheet, so the verdict is new. Choosing it keeps the outlet guard (Yonhap 2, TPP 2, Diplomat 1) and adds a geopolitics axis to an otherwise all-policy set. Alternatives rejected: Yonhap global AI hub, because it would be a third Yonhap card and is a regional bidding story ahead of the 10/14 MSIT hearing, which has not happened yet. TPP 'Europe wants to regulate AI friends', because it would be a third TPP card, and the guard can only be relaxed if nothing else qualifies. Verge SI rename, because it reports corporate adoption with no new government action and continues the 09-30 and 10-07 thread. WIRED ICE/Palantir, because it fails AI-centrality. ChinaTalk Q3 digest, because it is a broad roundup. Ireland summit pick retained: it is a 10-09 analysis of an upcoming summit, and its excerpt and rationale were reworded so the copy does not imply the summit already took place."
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "science",
   "cards": [
     {
-      "id": "science-etruscan-tomb-acoustics",
+      "id": "science-lensless-cell-imaging-sfpulse",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 되살린\n에트루리아 무덤의 소리",
-      "body": "연구진이 AI와 음향 기술로 에트루리아 '푸른 악마의 무덤' 속 소리를 되살렸다.",
-      "mini_headline": "AI가 되살린 에트루리아 무덤의 소리",
+      "headline": "렌즈 없이 생세포를\n염색 없이 며칠 추적",
+      "body": "Tampere University의 SF-PULSE는 렌즈 없이 세포를 추적한다.",
+      "mini_headline": "렌즈도 염색도 없는 세포 관찰",
       "tool": "Science",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/how-ai-helped-bring-an-ancient-tomb-dating-to-before-the-roman-empire-back-to-life/",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,203 +19,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-            "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+            "cap": "SF-PULSE 방법으로 촬영하고 재구성한 교모세포종 세포. 스케일 바: 0.5 mm. 출처: Computational Imaging Group and Molecular Signaling Group, Tampere University."
           },
           {
             "t": "p",
-            "x": "이탈리아 중부 에트루리아(Etruria)의 pre-Roman(로마 이전) 사회는 문화 곳곳에 소리를 녹여 냈다. 타르퀴니아(Tarquinia)·키우시(Chiusi)·오르비에토(Orvieto)의 채색 무덤은 음악과 연회, 사후 세계를 그린 장면으로 이름나 있다. Jacqueline Ortoleva(Oxford)와 Maurizio Forte(Duke)의 새 연구에 따르면 이 무덤들은 정교한 감각 경험을 주도록 설계됐다."
+            "x": "Tampere University 연구진이 렌즈리스 정량 위상 이미징 기법 SF-PULSE를 개발했다. 신경망과 물리 기반(physics-informed) 이미지 재구성을 합친 방식으로, 이미지 한 장만으로 살아 있는 세포의 정밀한 정량 데이터를 얻는다."
           },
           {
             "t": "p",
-            "x": "연구의 바탕은 AI·음향 분야의 선행 작업이다. Oxford의 Sounds of Silence 프로젝트, 신경과학과 AI로 유물이 인지에 미치는 영향을 살피는 Duke의 Neuroartifact 프로젝트가 그 예다. 연구팀은 음향·시각·AI 기술을 묶어 기원전(BC) 5세기 무덤 두 곳, '푸른 악마의 무덤(Tomb of the Blue Demons)'과 '수탉의 무덤(Tomb of the Rooster)'을 조사했다."
-          },
-          {
-            "t": "video",
-            "yt": "i7pe404dgoU"
+            "x": "시스템이 작아 일반 세포 배양(cell-culture) 인큐베이터에 그대로 들어가고, 염색이나 다른 표지 없이 살아 있는 세포를 몇 시간에서 며칠까지 계속 지켜본다. 제1저자 Igor Shevkunov는 SF-PULSE가 \"단 한 장의 측정 이미지로 정량 위상 정보를 재구성할 수 있다\"고 설명했다."
           },
           {
             "t": "p",
-            "x": "푸른 악마(Blue Demon) 무덤 안에서는 잔향과 메아리가 유난히 길다. 이 소리가 깜박이는 횃불, 향, 헌주와 어우러져 몰입형 경험에 극적인 사운드트랙을 입혔다. Blue Demon 무덤이 지각을 흐트러뜨린다면 수탉(Rooster) 무덤은 시각적 주의를 앞세운다."
-          },
-          {
-            "t": "p",
-            "x": "저자들은 이 무덤들이 죽은 이를 안치하는 데 그치지 않고, 오늘날의 3D 영화처럼 산 자에게 영향을 주려고 지어졌다고 본다. 연구진은 비슷한 음향·AI 기법을 이제 야외 의례 경관에 적용하고 있다."
+            "x": "집단 평균 대신 개별 세포를 따라가므로 세포의 성장, 이동, 분열, 바이오매스 변화를 시간 순으로 추적한다. 연구진은 약물 반응(drug-response) 연구, 독성 스크리닝, 세포 사멸(cell-death) 연구에 활용될 것으로 본다. 연구 결과는 Applied Physics Letters에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI brings back the sound\nof an Etruscan tomb",
-          "body": "Researchers paired AI with acoustic technology to reconstruct how the Etruscan Tomb of the Blue Demons sounded.",
-          "mini_headline": "AI revives an Etruscan tomb's sound",
+          "headline": "Lensless imaging tracks living\ncells for days without stains",
+          "body": "Tampere University's SF-PULSE pulls quantitative cell data from a single lensless image, tracking growth for days.",
+          "mini_headline": "Lensless cell imaging, no stains",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+                "cap": "Glioblastoma cells imaged and reconstructed with the SF-PULSE method. Scale bar: 0.5 mm. Credit: Computational Imaging Group and Molecular Signaling Group, Tampere University."
               },
               {
                 "t": "p",
-                "x": "The pre-Roman society of Etruria in central Italy embedded sound throughout its culture, and its painted tombs in Tarquinia, Chiusi and Orvieto are known for scenes of music, feasting and the afterlife. New research by Jacqueline Ortoleva (Oxford) and Maurizio Forte (Duke) shows these tombs were designed to offer sophisticated sensory experiences."
+                "x": "Researchers at Tampere University have developed SF-PULSE, a lensless quantitative phase imaging method that combines a neural network with physics-informed image reconstruction. It produces precise quantitative data on living cells from a single image."
               },
               {
                 "t": "p",
-                "x": "The study draws on AI and acoustics work including Oxford's Sounds of Silence project and Duke's Neuroartifact project, which uses neuroscience and AI to understand the cognitive impact of artifacts. Combining acoustic, visual and AI technology, the team studied two 5th-century BC tombs: the Tomb of the Blue Demons and the Tomb of the Rooster."
-              },
-              {
-                "t": "video",
-                "yt": "i7pe404dgoU"
+                "x": "The compact system can be placed inside a standard cell-culture incubator, allowing living cells to be monitored continuously for hours or even days without staining or other labels. According to first author Igor Shevkunov, SF-PULSE \"can reconstruct quantitative phase information from a single measurement image.\""
               },
               {
                 "t": "p",
-                "x": "Exceptionally long reverberation and echoes inside the Blue Demon tomb gave a dramatic soundtrack to an immersive experience, alongside flickering torchlight, incense and libations. While the Blue Demon induces perceptual disorientation, the Rooster privileges visual attention."
-              },
-              {
-                "t": "p",
-                "x": "The authors argue the tombs were built not simply to house the dead but to affect the living, like a modern 3D film, and are now applying similar acoustic and AI techniques to ritual landscapes outdoors."
+                "x": "Because it follows individual cells rather than population averages, the method can track their growth, movement, division and biomass changes over time. The researchers see uses in drug-response studies, toxicity screening and cell-death research. The work is published in Applied Physics Letters."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 되살린\n에트루리아 무덤의 소리",
-          "body": "연구진이 AI와 음향 기술로 에트루리아 '푸른 악마의 무덤' 속 소리를 되살렸다.",
-          "mini_headline": "AI가 되살린 에트루리아 무덤의 소리",
+          "headline": "렌즈 없이 생세포를\n염색 없이 며칠 추적",
+          "body": "Tampere University의 SF-PULSE는 렌즈 없이 세포를 추적한다.",
+          "mini_headline": "렌즈도 염색도 없는 세포 관찰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+                "cap": "SF-PULSE 방법으로 촬영하고 재구성한 교모세포종 세포. 스케일 바: 0.5 mm. 출처: Computational Imaging Group and Molecular Signaling Group, Tampere University."
               },
               {
                 "t": "p",
-                "x": "이탈리아 중부 에트루리아(Etruria)의 pre-Roman(로마 이전) 사회는 문화 곳곳에 소리를 녹여 냈다. 타르퀴니아(Tarquinia)·키우시(Chiusi)·오르비에토(Orvieto)의 채색 무덤은 음악과 연회, 사후 세계를 그린 장면으로 이름나 있다. Jacqueline Ortoleva(Oxford)와 Maurizio Forte(Duke)의 새 연구에 따르면 이 무덤들은 정교한 감각 경험을 주도록 설계됐다."
+                "x": "Tampere University 연구진이 렌즈리스 정량 위상 이미징 기법 SF-PULSE를 개발했다. 신경망과 물리 기반(physics-informed) 이미지 재구성을 합친 방식으로, 이미지 한 장만으로 살아 있는 세포의 정밀한 정량 데이터를 얻는다."
               },
               {
                 "t": "p",
-                "x": "연구의 바탕은 AI·음향 분야의 선행 작업이다. Oxford의 Sounds of Silence 프로젝트, 신경과학과 AI로 유물이 인지에 미치는 영향을 살피는 Duke의 Neuroartifact 프로젝트가 그 예다. 연구팀은 음향·시각·AI 기술을 묶어 기원전(BC) 5세기 무덤 두 곳, '푸른 악마의 무덤(Tomb of the Blue Demons)'과 '수탉의 무덤(Tomb of the Rooster)'을 조사했다."
-              },
-              {
-                "t": "video",
-                "yt": "i7pe404dgoU"
+                "x": "시스템이 작아 일반 세포 배양(cell-culture) 인큐베이터에 그대로 들어가고, 염색이나 다른 표지 없이 살아 있는 세포를 몇 시간에서 며칠까지 계속 지켜본다. 제1저자 Igor Shevkunov는 SF-PULSE가 \"단 한 장의 측정 이미지로 정량 위상 정보를 재구성할 수 있다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "푸른 악마(Blue Demon) 무덤 안에서는 잔향과 메아리가 유난히 길다. 이 소리가 깜박이는 횃불, 향, 헌주와 어우러져 몰입형 경험에 극적인 사운드트랙을 입혔다. Blue Demon 무덤이 지각을 흐트러뜨린다면 수탉(Rooster) 무덤은 시각적 주의를 앞세운다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 이 무덤들이 죽은 이를 안치하는 데 그치지 않고, 오늘날의 3D 영화처럼 산 자에게 영향을 주려고 지어졌다고 본다. 연구진은 비슷한 음향·AI 기법을 이제 야외 의례 경관에 적용하고 있다."
+                "x": "집단 평균 대신 개별 세포를 따라가므로 세포의 성장, 이동, 분열, 바이오매스 변화를 시간 순으로 추적한다. 연구진은 약물 반응(drug-response) 연구, 독성 스크리닝, 세포 사멸(cell-death) 연구에 활용될 것으로 본다. 연구 결과는 Applied Physics Letters에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがよみがえらせた\nエトルリアの墓の音",
-          "body": "研究者らはAIと音響技術を組み合わせ、エトルリアの「青い悪魔の墓」の音を再現した。",
-          "mini_headline": "AIがエトルリアの墓の音を再現",
+          "headline": "レンズなしで生細胞を\n染色せず数日間追跡",
+          "body": "Tampere UniversityのSF-PULSEはレンズなしで細胞を数日間追跡する。",
+          "mini_headline": "レンズも染色も不要の細胞観察",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+                "cap": "SF-PULSE法で撮像・再構成した膠芽腫細胞。スケールバーは0.5 mm である。提供:Computational Imaging Group and Molecular Signaling Group, Tampere University"
               },
               {
                 "t": "p",
-                "x": "イタリア中部エトルリア(Etruria)のpre-Roman(ローマ以前)社会は文化の隅々に音を織り込んでおり、タルクィニア(Tarquinia)、キウージ(Chiusi)、オルヴィエート(Orvieto)の彩色墓は音楽や饗宴、死後の世界を描いた場面で知られる。Jacqueline Ortoleva(Oxford)とMaurizio Forte(Duke)の新たな研究は、これらの墓が洗練された感覚体験をもたらすよう設計されていたことを示している。"
+                "x": "Tampere Universityの研究チームは、ニューラルネットワークと物理情報に基づく(physics-informed)画像再構成を組み合わせたレンズレス定量位相イメージング法「SF-PULSE」を開発した。1枚の画像から生きた細胞の精密な定量データが得られる。"
               },
               {
                 "t": "p",
-                "x": "研究はOxfordのSounds of Silenceプロジェクトや、神経科学とAIを用いて遺物が認知に与える影響を探るDukeのNeuroartifactプロジェクトなど、AIと音響の研究に基づく。チームは音響・視覚・AI技術を組み合わせ、紀元前(BC)5世紀の2つの墓、「青い悪魔の墓(Tomb of the Blue Demons)」と「雄鶏の墓(Tomb of the Rooster)」を調べた。"
-              },
-              {
-                "t": "video",
-                "yt": "i7pe404dgoU"
+                "x": "装置は小型で、標準的な細胞培養(cell-culture)インキュベーター内に設置でき、染色などの標識を使わずに生細胞を数時間から数日間にわたって連続観察できる。筆頭著者のIgor Shevkunov氏によると、SF-PULSEは「1枚の測定画像から定量位相情報を再構成できる」という。"
               },
               {
                 "t": "p",
-                "x": "青い悪魔(Blue Demon)の墓内部の際立って長い残響とこだまは、揺らめく松明の光や香、献酒とともに、没入型の体験に劇的なサウンドトラックを添えていた。Blue Demonの墓が知覚の混乱を誘うのに対し、雄鶏(Rooster)の墓は視覚的な注意を優先させる。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、これらの墓が単に死者を納めるためではなく、現代の3D映画のように生者に作用するよう造られたと論じる。現在は同様の音響・AI技術を屋外の儀礼的景観に応用している。"
+                "x": "集団の平均ではなく個々の細胞を追うため、成長、移動、分裂、バイオマスの変化を経時的に追跡できる。研究チームは薬剤応答(drug-response)研究、毒性スクリーニング、細胞死(cell-death)研究への応用を見込む。成果はApplied Physics Lettersに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI 重现\n伊特鲁里亚古墓之声",
-          "body": "研究人员结合AI与声学技术，重建了伊特鲁里亚“蓝魔之墓”的声音。",
-          "mini_headline": "AI 重现伊特鲁里亚古墓之声",
+          "headline": "无透镜成像免染色\n连续数日追踪活细胞",
+          "body": "Tampere University的SF-PULSE仅凭一张无透镜图像即可追踪细胞数日。",
+          "mini_headline": "无透镜、免染色的细胞成像",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+                "cap": "用SF-PULSE方法成像并重建的胶质母细胞瘤细胞，比例尺为0.5 mm (图片来源：Computational Imaging Group and Molecular Signaling Group, Tampere University)。"
               },
               {
                 "t": "p",
-                "x": "意大利中部伊特鲁里亚（Etruria）的 pre-Roman（前罗马）社会将声音融入文化的方方面面，塔尔奎尼亚（Tarquinia）、丘西（Chiusi）和奥尔维耶托（Orvieto）的彩绘墓葬以描绘音乐、宴饮和来世的场景而闻名。Jacqueline Ortoleva（Oxford）与 Maurizio Forte（Duke）的新研究表明，这些墓葬旨在提供精妙的感官体验。"
+                "x": "Tampere University的研究人员开发出SF-PULSE，这是一种将神经网络与物理信息驱动（physics-informed）的图像重建相结合的无透镜定量相位成像方法，仅凭一张图像即可获得活细胞的精确定量数据。"
               },
               {
                 "t": "p",
-                "x": "该研究借鉴了多项 AI 与声学工作，包括 Oxford 的 Sounds of Silence 项目，以及 Duke 运用神经科学和 AI 理解文物认知影响的 Neuroartifact 项目。团队结合声学、视觉与 AI 技术，研究了两座公元前（BC）5 世纪的墓葬：蓝魔之墓（Tomb of the Blue Demons）和公鸡之墓（Tomb of the Rooster）。"
-              },
-              {
-                "t": "video",
-                "yt": "i7pe404dgoU"
+                "x": "这套紧凑的系统可放入标准细胞培养（cell-culture）培养箱，无需染色或其他标记，就能连续数小时乃至数日监测活细胞。第一作者Igor Shevkunov表示，SF-PULSE“能够从单张测量图像中重建定量相位信息”。"
               },
               {
                 "t": "p",
-                "x": "蓝魔（Blue Demon）墓内异常悠长的混响与回声，伴着摇曳的火把、熏香和奠酒，为沉浸式体验配上了戏剧性的声景。Blue Demon 墓引发知觉迷失，公鸡（Rooster）墓则侧重视觉注意。"
-              },
-              {
-                "t": "p",
-                "x": "作者认为，这些墓葬并非只是安葬死者，而是像现代 3D 电影一样旨在影响生者；他们目前正将类似的声学与 AI 技术应用于户外的仪式景观。"
+                "x": "由于该方法追踪的是单个细胞而非群体平均值，它可以记录细胞随时间的生长、移动、分裂和生物量变化。研究人员认为它可用于药物反应（drug-response）研究、毒性筛查和细胞死亡（cell-death）研究。该成果发表于Applied Physics Letters。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA recupera el sonido\nde una tumba etrusca",
-          "body": "Investigadores unieron IA y tecnología acústica para reconstruir el sonido de la etrusca Tumba de los Demonios Azules.",
-          "mini_headline": "La IA revive el sonido de una tumba etrusca",
+          "headline": "Imagen sin lentes sigue células\nvivas durante días sin tinción",
+          "body": "SF-PULSE, de Tampere University, cuantifica células con una sola imagen sin lentes y sigue su crecimiento durante días.",
+          "mini_headline": "Imagen celular sin lentes ni tinción",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+                "cap": "Células de glioblastoma captadas y reconstruidas con el método SF-PULSE. Barra de escala: 0.5 mm. Crédito: Computational Imaging Group and Molecular Signaling Group, Tampere University."
               },
               {
                 "t": "p",
-                "x": "La sociedad pre-Roman (prerromana) de Etruria, en el centro de Italia, integró el sonido en toda su cultura, y sus tumbas pintadas de Tarquinia, Chiusi y Orvieto son conocidas por escenas de música, banquetes y el más allá. Una nueva investigación de Jacqueline Ortoleva (Oxford) y Maurizio Forte (Duke) muestra que estas tumbas se diseñaron para ofrecer experiencias sensoriales sofisticadas."
+                "x": "Investigadores de Tampere University han desarrollado SF-PULSE, un método de imagen de fase cuantitativa sin lentes que combina una red neuronal con una reconstrucción de imagen basada en la física (physics-informed). Produce datos cuantitativos precisos sobre células vivas a partir de una sola imagen."
               },
               {
                 "t": "p",
-                "x": "El estudio se apoya en trabajos de inteligencia artificial (AI) y acústica, entre ellos el proyecto Sounds of Silence de Oxford y el proyecto Neuroartifact de Duke, que usa la neurociencia y la IA para entender el impacto cognitivo de los artefactos. Combinando tecnología acústica, visual y de IA, el equipo estudió dos tumbas del siglo V a. C. (5th-century BC): la Tumba de los Demonios Azules (Tomb of the Blue Demons) y la Tumba del Gallo (Tomb of the Rooster)."
-              },
-              {
-                "t": "video",
-                "yt": "i7pe404dgoU"
+                "x": "El sistema, compacto, puede colocarse dentro de una incubadora estándar de cultivo celular (cell-culture), lo que permite vigilar células vivas de forma continua durante horas o incluso días sin tinción ni otros marcadores. Según el primer autor, Igor Shevkunov, SF-PULSE \"puede reconstruir información de fase cuantitativa a partir de una sola imagen de medición\"."
               },
               {
                 "t": "p",
-                "x": "La reverberación y los ecos excepcionalmente largos dentro de la tumba del Demonio Azul (Blue Demon) daban una banda sonora dramática a una experiencia inmersiva, junto a la luz parpadeante de las antorchas, el incienso y las libaciones. Mientras la Blue Demon induce desorientación perceptiva, la del Gallo (Rooster) privilegia la atención visual."
-              },
-              {
-                "t": "p",
-                "x": "Los autores sostienen que las tumbas no se construyeron solo para albergar a los muertos, sino para afectar a los vivos, como una película 3D moderna, y ahora aplican técnicas similares de acústica e IA a paisajes rituales al aire libre."
+                "x": "Como sigue células individuales y no promedios de población, el método puede registrar su crecimiento, movimiento, división y cambios de biomasa a lo largo del tiempo. Los investigadores prevén usos en estudios de respuesta a fármacos (drug-response), cribado de toxicidad e investigación sobre muerte celular (cell-death). El trabajo se publica en Applied Physics Letters."
               }
             ]
           }
@@ -223,141 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 되살린\n에트루리아 무덤의 소리",
-          "body": "연구진이 AI와 음향 기술로 에트루리아 '푸른 악마의 무덤'의 소리를 재구성했다.",
-          "mini_headline": "AI가 되살린 에트루리아 무덤의 소리",
+          "headline": "렌즈 없이 생세포를\n염색 없이 며칠 추적",
+          "body": "Tampere University의 SF-PULSE는 렌즈 없이 세포를 추적한다.",
+          "mini_headline": "렌즈도 염색도 없는 세포 관찰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+                "cap": "SF-PULSE 방법으로 촬영하고 재구성한 교모세포종 세포. 스케일 바: 0.5 mm. 출처: Computational Imaging Group and Molecular Signaling Group, Tampere University."
               },
               {
                 "t": "p",
-                "x": "이탈리아 중부 에트루리아(Etruria)의 pre-Roman(로마 이전) 사회는 문화 전반에 소리를 녹여 냈고, 타르퀴니아(Tarquinia)·키우시(Chiusi)·오르비에토(Orvieto)의 채색 무덤은 음악과 연회, 사후 세계를 그린 장면으로 이름나 있다. Jacqueline Ortoleva(Oxford)와 Maurizio Forte(Duke)의 새 연구는 이 무덤들이 정교한 감각 경험을 주도록 설계됐음을 보여 준다."
+                "x": "Tampere University 연구진이 신경망과 물리 기반(physics-informed) 이미지 재구성을 결합한 렌즈리스 정량 위상 이미징 기법 SF-PULSE를 개발했다. 이 기법은 이미지 한 장만으로 살아 있는 세포의 정밀한 정량 데이터를 얻는다."
               },
               {
                 "t": "p",
-                "x": "연구는 Oxford의 Sounds of Silence 프로젝트, 그리고 신경과학과 AI로 유물이 인지에 미치는 영향을 탐구하는 Duke의 Neuroartifact 프로젝트 등 AI·음향 연구에 기반한다. 연구팀은 음향·시각·AI 기술을 결합해 기원전(BC) 5세기 무덤 두 곳, 곧 '푸른 악마의 무덤(Tomb of the Blue Demons)'과 '수탉의 무덤(Tomb of the Rooster)'을 조사했다."
-              },
-              {
-                "t": "video",
-                "yt": "i7pe404dgoU"
+                "x": "시스템이 작아 일반 세포 배양(cell-culture) 인큐베이터 안에 넣을 수 있고, 염색이나 다른 표지 없이 살아 있는 세포를 몇 시간에서 며칠까지 연속으로 관찰할 수 있다. 제1저자 Igor Shevkunov는 SF-PULSE가 \"단 한 장의 측정 이미지로 정량 위상 정보를 재구성할 수 있다\"고 설명했다."
               },
               {
                 "t": "p",
-                "x": "푸른 악마(Blue Demon) 무덤 안의 유난히 긴 잔향과 메아리는 깜박이는 횃불, 향, 헌주와 어우러져 몰입형 경험에 극적인 사운드트랙을 입혔다. Blue Demon 무덤이 지각의 혼란을 일으킨다면, 수탉(Rooster) 무덤은 시각적 주의를 앞세운다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 이 무덤들이 단지 죽은 이를 안치하려고가 아니라 오늘날의 3D 영화처럼 산 자에게 영향을 주려고 지어졌다고 본다. 연구진은 지금 비슷한 음향·AI 기법을 야외의 의례 경관에 적용하고 있다."
+                "x": "집단 평균이 아니라 개별 세포를 따라가기 때문에 시간에 따른 세포의 성장, 이동, 분열, 바이오매스 변화를 추적할 수 있다. 연구진은 약물 반응(drug-response) 연구, 독성 스크리닝, 세포 사멸(cell-death) 연구에 쓰일 수 있다고 본다. 연구 결과는 Applied Physics Letters에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがよみがえらせた\nエトルリアの墓の音",
-          "body": "研究者らはAIと音響技術を組み合わせ、エトルリアの「青い悪魔の墓」の音を再現した。",
-          "mini_headline": "AIがエトルリアの墓の音を再現",
+          "headline": "レンズなしで生細胞を\n染色せず数日間追跡",
+          "body": "Tampere UniversityのSF-PULSEはレンズなしで細胞を数日間追跡する。",
+          "mini_headline": "レンズも染色も不要の細胞観察",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+                "cap": "SF-PULSE法で撮像・再構成した膠芽腫細胞。スケールバーは0.5 mm である。提供:Computational Imaging Group and Molecular Signaling Group, Tampere University"
               },
               {
                 "t": "p",
-                "x": "イタリア中部エトルリア(Etruria)のpre-Roman(ローマ以前)社会は文化の隅々に音を織り込んでおり、タルクィニア(Tarquinia)、キウージ(Chiusi)、オルヴィエート(Orvieto)の彩色墓は音楽や饗宴、死後の世界を描いた場面で知られる。Jacqueline Ortoleva(Oxford)とMaurizio Forte(Duke)の新たな研究は、これらの墓が洗練された感覚体験をもたらすよう設計されていたことを示している。"
+                "x": "Tampere Universityの研究チームは、ニューラルネットワークと物理情報に基づく(physics-informed)画像再構成を組み合わせたレンズレス定量位相イメージング法「SF-PULSE」を開発した。1枚の画像から生きた細胞の精密な定量データが得られる。"
               },
               {
                 "t": "p",
-                "x": "研究はOxfordのSounds of Silenceプロジェクトや、神経科学とAIを用いて遺物が認知に与える影響を探るDukeのNeuroartifactプロジェクトなど、AIと音響の研究に基づく。チームは音響・視覚・AI技術を組み合わせ、紀元前(BC)5世紀の2つの墓、「青い悪魔の墓(Tomb of the Blue Demons)」と「雄鶏の墓(Tomb of the Rooster)」を調べた。"
-              },
-              {
-                "t": "video",
-                "yt": "i7pe404dgoU"
+                "x": "装置は小型で、標準的な細胞培養(cell-culture)インキュベーター内に設置でき、染色などの標識を使わずに生細胞を数時間から数日間にわたって連続観察できる。筆頭著者のIgor Shevkunov氏によると、SF-PULSEは「1枚の測定画像から定量位相情報を再構成できる」という。"
               },
               {
                 "t": "p",
-                "x": "青い悪魔(Blue Demon)の墓内部の際立って長い残響とこだまは、揺らめく松明の光や香、献酒とともに、没入型の体験に劇的なサウンドトラックを添えていた。Blue Demonの墓が知覚の混乱を誘うのに対し、雄鶏(Rooster)の墓は視覚的な注意を優先させる。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、これらの墓が単に死者を納めるためではなく、現代の3D映画のように生者に作用するよう造られたと論じる。現在は同様の音響・AI技術を屋外の儀礼的景観に応用している。"
+                "x": "集団の平均ではなく個々の細胞を追うため、成長、移動、分裂、バイオマスの変化を経時的に追跡できる。研究チームは薬剤応答(drug-response)研究、毒性スクリーニング、細胞死(cell-death)研究への応用を見込む。成果はApplied Physics Lettersに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI 重现\n伊特鲁里亚古墓之声",
-          "body": "研究人员结合AI与声学技术，重建了伊特鲁里亚“蓝魔之墓”的声音。",
-          "mini_headline": "AI 重现伊特鲁里亚古墓之声",
+          "headline": "无透镜成像免染色\n连续数日追踪活细胞",
+          "body": "Tampere University的SF-PULSE仅凭一张无透镜图像即可追踪细胞数日。",
+          "mini_headline": "无透镜、免染色的细胞成像",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+                "cap": "用SF-PULSE方法成像并重建的胶质母细胞瘤细胞，比例尺为0.5 mm (图片来源：Computational Imaging Group and Molecular Signaling Group, Tampere University)。"
               },
               {
                 "t": "p",
-                "x": "意大利中部伊特鲁里亚（Etruria）的 pre-Roman（前罗马）社会将声音融入文化的方方面面，塔尔奎尼亚（Tarquinia）、丘西（Chiusi）和奥尔维耶托（Orvieto）的彩绘墓葬以描绘音乐、宴饮和来世的场景而闻名。Jacqueline Ortoleva（Oxford）与 Maurizio Forte（Duke）的新研究表明，这些墓葬旨在提供精妙的感官体验。"
+                "x": "Tampere University的研究人员开发出SF-PULSE，这是一种将神经网络与物理信息驱动（physics-informed）的图像重建相结合的无透镜定量相位成像方法，仅凭一张图像即可获得活细胞的精确定量数据。"
               },
               {
                 "t": "p",
-                "x": "该研究借鉴了多项 AI 与声学工作，包括 Oxford 的 Sounds of Silence 项目，以及 Duke 运用神经科学和 AI 理解文物认知影响的 Neuroartifact 项目。团队结合声学、视觉与 AI 技术，研究了两座公元前（BC）5 世纪的墓葬：蓝魔之墓（Tomb of the Blue Demons）和公鸡之墓（Tomb of the Rooster）。"
-              },
-              {
-                "t": "video",
-                "yt": "i7pe404dgoU"
+                "x": "这套紧凑的系统可放入标准细胞培养（cell-culture）培养箱，无需染色或其他标记，就能连续数小时乃至数日监测活细胞。第一作者Igor Shevkunov表示，SF-PULSE“能够从单张测量图像中重建定量相位信息”。"
               },
               {
                 "t": "p",
-                "x": "蓝魔（Blue Demon）墓内异常悠长的混响与回声，伴着摇曳的火把、熏香和奠酒，为沉浸式体验配上了戏剧性的声景。Blue Demon 墓引发知觉迷失，公鸡（Rooster）墓则侧重视觉注意。"
-              },
-              {
-                "t": "p",
-                "x": "作者认为，这些墓葬并非只是安葬死者，而是像现代 3D 电影一样旨在影响生者；他们目前正将类似的声学与 AI 技术应用于户外的仪式景观。"
+                "x": "由于该方法追踪的是单个细胞而非群体平均值，它可以记录细胞随时间的生长、移动、分裂和生物量变化。研究人员认为它可用于药物反应（drug-response）研究、毒性筛查和细胞死亡（cell-death）研究。该成果发表于Applied Physics Letters。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA recupera el sonido\nde una tumba etrusca",
-          "body": "Investigadores unieron IA y tecnología acústica para reconstruir el sonido de la etrusca Tumba de los Demonios Azules.",
-          "mini_headline": "La IA revive el sonido de una tumba etrusca",
+          "headline": "Imagen sin lentes sigue células\nvivas durante días sin tinción",
+          "body": "SF-PULSE, de Tampere University, cuantifica células con una sola imagen sin lentes y sigue su crecimiento durante días.",
+          "mini_headline": "Imagen celular sin lentes ni tinción",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+                "cap": "Células de glioblastoma captadas y reconstruidas con el método SF-PULSE. Barra de escala: 0.5 mm. Crédito: Computational Imaging Group and Molecular Signaling Group, Tampere University."
               },
               {
                 "t": "p",
-                "x": "La sociedad pre-Roman (prerromana) de Etruria, en el centro de Italia, integró el sonido en toda su cultura, y sus tumbas pintadas de Tarquinia, Chiusi y Orvieto son conocidas por escenas de música, banquetes y el más allá. Una nueva investigación de Jacqueline Ortoleva (Oxford) y Maurizio Forte (Duke) muestra que estas tumbas se diseñaron para ofrecer experiencias sensoriales sofisticadas."
+                "x": "Investigadores de Tampere University han desarrollado SF-PULSE, un método de imagen de fase cuantitativa sin lentes que combina una red neuronal con una reconstrucción de imagen basada en la física (physics-informed). Produce datos cuantitativos precisos sobre células vivas a partir de una sola imagen."
               },
               {
                 "t": "p",
-                "x": "El estudio se apoya en trabajos de inteligencia artificial (AI) y acústica, entre ellos el proyecto Sounds of Silence de Oxford y el proyecto Neuroartifact de Duke, que usa la neurociencia y la IA para entender el impacto cognitivo de los artefactos. Combinando tecnología acústica, visual y de IA, el equipo estudió dos tumbas del siglo V a. C. (5th-century BC): la Tumba de los Demonios Azules (Tomb of the Blue Demons) y la Tumba del Gallo (Tomb of the Rooster)."
-              },
-              {
-                "t": "video",
-                "yt": "i7pe404dgoU"
+                "x": "El sistema, compacto, puede colocarse dentro de una incubadora estándar de cultivo celular (cell-culture), lo que permite vigilar células vivas de forma continua durante horas o incluso días sin tinción ni otros marcadores. Según el primer autor, Igor Shevkunov, SF-PULSE \"puede reconstruir información de fase cuantitativa a partir de una sola imagen de medición\"."
               },
               {
                 "t": "p",
-                "x": "La reverberación y los ecos excepcionalmente largos dentro de la tumba del Demonio Azul (Blue Demon) daban una banda sonora dramática a una experiencia inmersiva, junto a la luz parpadeante de las antorchas, el incienso y las libaciones. Mientras la Blue Demon induce desorientación perceptiva, la del Gallo (Rooster) privilegia la atención visual."
-              },
-              {
-                "t": "p",
-                "x": "Los autores sostienen que las tumbas no se construyeron solo para albergar a los muertos, sino para afectar a los vivos, como una película 3D moderna, y ahora aplican técnicas similares de acústica e IA a paisajes rituales al aire libre."
+                "x": "Como sigue células individuales y no promedios de población, el método puede registrar su crecimiento, movimiento, división y cambios de biomasa a lo largo del tiempo. Los investigadores prevén usos en estudios de respuesta a fármacos (drug-response), cribado de toxicidad e investigación sobre muerte celular (cell-death). El trabajo se publica en Applied Physics Letters."
               }
             ]
           }
@@ -365,15 +285,15 @@
       }
     },
     {
-      "id": "science-chatbots-climate-status-quo",
+      "id": "science-ntu-lace-llm-heuristics",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 챗봇은 새 기후안보다\n기존 계획을 편든다",
-      "body": "LLMs 11종은 기존 기후 계획에 약 70%, 새 제안에는 34%만 찬성했다.",
-      "mini_headline": "챗봇은 기존 기후 계획을 편든다",
+      "headline": "AI가 최적화 소프트웨어를\n몇 달 아닌 한 시간에",
+      "body": "NTU Singapore LACE는 LLMs로 US$10 미만에 97-99%였다.",
+      "mini_headline": "AI가 한 시간 만에 해법 설계",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-ai-custom-decision-software-hour.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -381,179 +301,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-            "cap": "사진: Matheus Bertelli, Pexels"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+            "cap": "직접 만든 LACE 모델을 소개하는 Research Fellow Dr Gong Huatian(L)과 Asst Prof Yan Ran. 출처: NTU Singapore."
           },
           {
             "t": "p",
-            "x": "University of Waterloo 연구진이 대규모 언어 모델(LLM) 11종의 기후 조언에 현상 유지 편향이 있는지 시험했다. 결과는 Environmental Research Communications에 실렸다."
+            "x": "Nanyang Technological University, Singapore(NTU) 연구진이 AI 프레임워크 LACE(LLM-driven Algorithm Construction via Complementary Evolution)를 개발했다. 일상 언어(plain-language)로 쓴 문제 설명만 넣으면 의사결정(decision-making) 소프트웨어를 만들어 준다. 전문 엔지니어에게 몇 달 걸리던 일을 약 한 시간으로 줄였다."
           },
           {
             "t": "p",
-            "x": "연구진은 차량 구매, 요리법, 주택 난방, 기후 정책의 득실 등을 다룬 질의 7,500건 이상을 평가했고, 여기서 프롬프트 약 55,000개를 만들었다. 정책 득실을 따질 여지가 있으면 모델은 사용자가 이미 내린 결정을 약 두 배 더 자주 밀어 줬다."
+            "x": "LACE는 문제를 모듈 단위로 쪼갠 뒤 서로 보완하는 전문 휴리스틱 팀을 진화시켜 이를 처리한다. 컨테이너 터미널, 예인선 경로 설정 등 새로운 해운 문제 네 가지로 시험하자 비교한 모든 방법의 최고 결과 대비 97%에서 99% 수준까지 올라왔고, 문제당 계산 비용은 US$10 미만이었다. Google의 FunSearch 등 LLM-based 경쟁 시스템은 실행 가능한 해조차 내지 못했다."
           },
           {
             "t": "p",
-            "x": "모델은 기존 계획에 약 70% 비율로 찬성했지만 새 계획이나 정책에는 34%에 그쳤다. 지역 요인을 감안해도 모델이 전기차를 추천한 빈도는 각국에서 이미 팔리는 전기차 비율보다 낮았다."
-          },
-          {
-            "t": "p",
-            "x": "연구 책임자 Seth Wynes는 챗봇에게 새로운 일을 해야 할 이유를 논증해 달라고 요청해 보라고 권한다."
+            "x": "Asst Prof Yan Ran과 Dr Gong Huatian이 이끈 연구팀은 소규모 팀, 지역 물류 거점, 공공보건 기관, 유틸리티 기업이 이 방식의 덕을 볼 수 있다고 말한다. Yan은 \"더 큰 AI 모델을 만드는 것만이 아니라 AI 프레임워크를 영리하게 설계하는 것으로 이 격차를 메울 수 있다\"고 말했다. 연구 결과는 Nature Machine Intelligence에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI chatbots favor existing\nclimate plans over new ones",
-          "body": "Tested across 11 LLMs, chatbots endorsed existing climate plans about 70% of the time versus 34% for new proposals.",
-          "mini_headline": "Chatbots favor existing climate plans",
+          "headline": "AI builds optimization software\nin an hour, not months",
+          "body": "NTU Singapore's LACE uses LLMs to evolve heuristic teams, reaching 97-99% of the best tested methods for under US$10.",
+          "mini_headline": "AI designs solvers in an hour",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-                "cap": "Credit: Matheus Bertelli from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+                "cap": "Research Fellow Dr Gong Huatian (L) and Asst Prof Yan Ran highlighting the LACE model they created. Credit: NTU Singapore."
               },
               {
                 "t": "p",
-                "x": "University of Waterloo researchers tested 11 large language models for status quo bias in climate-related advice. The study appears in Environmental Research Communications."
+                "x": "Researchers at Nanyang Technological University, Singapore (NTU) have built LACE (LLM-driven Algorithm Construction via Complementary Evolution), an AI framework that creates decision-making software from plain-language problem descriptions, cutting development from months of specialist engineering to about an hour."
               },
               {
                 "t": "p",
-                "x": "They evaluated more than 7,500 queries on topics such as vehicle purchases, recipes, home heating and climate policy trade-offs, producing nearly 55,000 prompts. Where policy trade-offs were possible, the models reinforced users' existing decisions about twice as often."
+                "x": "LACE first breaks a problem into modular parts, then evolves a team of complementary specialist heuristics to handle them. On four new maritime problems, including container terminal and tugboat routing, it reached 97% to 99% of the best result from any tested method, at under US$10 in computation per problem. Competing LLM-based systems, including Google's FunSearch, failed to produce feasible solutions."
               },
               {
                 "t": "p",
-                "x": "The models said yes to existing plans about 70% of the time, but only 34% of the time for new plans or policies. Even when accounting for regional factors, they recommended electric vehicles less often than those vehicles were already selling in each country."
-              },
-              {
-                "t": "p",
-                "x": "Lead researcher Seth Wynes suggests users ask chatbots to make the case for doing something new."
+                "x": "The team, led by Asst Prof Yan Ran and Dr Gong Huatian, says the approach could help smaller teams, regional logistics hubs, public health institutions and utilities. \"Clever design of an AI framework, rather than just building larger AI models, can bridge this gap,\" Yan said. The study appears in Nature Machine Intelligence."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 챗봇은 새 기후안보다\n기존 계획을 편든다",
-          "body": "LLMs 11종은 기존 기후 계획에 약 70%, 새 제안에는 34%만 찬성했다.",
-          "mini_headline": "챗봇은 기존 기후 계획을 편든다",
+          "headline": "AI가 최적화 소프트웨어를\n몇 달 아닌 한 시간에",
+          "body": "NTU Singapore LACE는 LLMs로 US$10 미만에 97-99%였다.",
+          "mini_headline": "AI가 한 시간 만에 해법 설계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-                "cap": "사진: Matheus Bertelli, Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+                "cap": "직접 만든 LACE 모델을 소개하는 Research Fellow Dr Gong Huatian(L)과 Asst Prof Yan Ran. 출처: NTU Singapore."
               },
               {
                 "t": "p",
-                "x": "University of Waterloo 연구진이 대규모 언어 모델(LLM) 11종의 기후 조언에 현상 유지 편향이 있는지 시험했다. 결과는 Environmental Research Communications에 실렸다."
+                "x": "Nanyang Technological University, Singapore(NTU) 연구진이 AI 프레임워크 LACE(LLM-driven Algorithm Construction via Complementary Evolution)를 개발했다. 일상 언어(plain-language)로 쓴 문제 설명만 넣으면 의사결정(decision-making) 소프트웨어를 만들어 준다. 전문 엔지니어에게 몇 달 걸리던 일을 약 한 시간으로 줄였다."
               },
               {
                 "t": "p",
-                "x": "연구진은 차량 구매, 요리법, 주택 난방, 기후 정책의 득실 등을 다룬 질의 7,500건 이상을 평가했고, 여기서 프롬프트 약 55,000개를 만들었다. 정책 득실을 따질 여지가 있으면 모델은 사용자가 이미 내린 결정을 약 두 배 더 자주 밀어 줬다."
+                "x": "LACE는 문제를 모듈 단위로 쪼갠 뒤 서로 보완하는 전문 휴리스틱 팀을 진화시켜 이를 처리한다. 컨테이너 터미널, 예인선 경로 설정 등 새로운 해운 문제 네 가지로 시험하자 비교한 모든 방법의 최고 결과 대비 97%에서 99% 수준까지 올라왔고, 문제당 계산 비용은 US$10 미만이었다. Google의 FunSearch 등 LLM-based 경쟁 시스템은 실행 가능한 해조차 내지 못했다."
               },
               {
                 "t": "p",
-                "x": "모델은 기존 계획에 약 70% 비율로 찬성했지만 새 계획이나 정책에는 34%에 그쳤다. 지역 요인을 감안해도 모델이 전기차를 추천한 빈도는 각국에서 이미 팔리는 전기차 비율보다 낮았다."
-              },
-              {
-                "t": "p",
-                "x": "연구 책임자 Seth Wynes는 챗봇에게 새로운 일을 해야 할 이유를 논증해 달라고 요청해 보라고 권한다."
+                "x": "Asst Prof Yan Ran과 Dr Gong Huatian이 이끈 연구팀은 소규모 팀, 지역 물류 거점, 공공보건 기관, 유틸리티 기업이 이 방식의 덕을 볼 수 있다고 말한다. Yan은 \"더 큰 AI 모델을 만드는 것만이 아니라 AI 프레임워크를 영리하게 설계하는 것으로 이 격차를 메울 수 있다\"고 말했다. 연구 결과는 Nature Machine Intelligence에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIチャットボットは\n新案より既存の気候策",
-          "body": "11のLLMsで試すと、既存の気候計画への賛成は約70%、新提案は34%だった。",
-          "mini_headline": "チャットボットは既存の気候計画を好む",
+          "headline": "AIが最適化ソフトを\n数カ月でなく1時間で",
+          "body": "NTU SingaporeのLACEはLLMsでUS$10未満、97-99%に達した。",
+          "mini_headline": "AIが1時間でソルバーを設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-                "cap": "写真：Matheus Bertelli / Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+                "cap": "自ら開発したLACEモデルを紹介するResearch FellowのDr Gong Huatian(L)とAsst Prof Yan Ran。提供:NTU Singapore"
               },
               {
                 "t": "p",
-                "x": "University of Waterlooの研究者らは、11の大規模言語モデル(LLM)を対象に、気候関連の助言における現状維持バイアスを検証した。研究はEnvironmental Research Communicationsに掲載された。"
+                "x": "Nanyang Technological University, Singapore(NTU)の研究チームは、平易な言葉(plain-language)で書いた問題の説明から意思決定(decision-making)ソフトウェアを作るAIフレームワーク「LACE」(LLM-driven Algorithm Construction via Complementary Evolution)を構築した。専門エンジニアが数カ月かけていた開発を約1時間に短縮する。"
               },
               {
                 "t": "p",
-                "x": "車の購入、レシピ、住宅の暖房、気候政策のトレードオフといったテーマで7,500件を超える質問を評価し、約55,000件のプロンプトを作成した。政策のトレードオフが生じ得る場面では、モデルはユーザーの既存の決定を約二倍の頻度で後押しした。"
+                "x": "LACEはまず問題をモジュール単位に分解し、それらを処理する相補的な専門ヒューリスティクスのチームを進化させる。コンテナターミナルやタグボートの経路計画を含む4つの新たな海事問題で、試したあらゆる手法の最良結果の97%から99%に達し、計算コストは1問あたりUS$10未満だった。GoogleのFunSearchを含む競合のLLM-basedシステムは、実行可能な解を出せなかった。"
               },
               {
                 "t": "p",
-                "x": "モデルは既存の計画には約70%の割合で賛成したが、新しい計画や政策への賛成は34%にとどまった。地域的な要因を考慮しても、電気自動車を勧める頻度は各国ですでに売れている電気自動車の割合を下回った。"
-              },
-              {
-                "t": "p",
-                "x": "筆頭研究者のSeth Wynesは、新しいことをする理由をチャットボットに論じさせるようユーザーに勧めている。"
+                "x": "Asst Prof Yan RanとDr Gong Huatianが率いるチームは、この手法が小規模なチームや地域の物流拠点、公衆衛生機関、公益事業者の助けになり得るとしている。Yan氏は「より大きなAIモデルを作るだけでなく、AIフレームワークを巧みに設計することでこの差を埋められる」と述べた。研究はNature Machine Intelligenceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI聊天机器人\n偏爱既有气候方案",
-          "body": "在11个LLMs的测试中，聊天机器人支持既有气候方案约70%，新提议仅34%。",
-          "mini_headline": "聊天机器人偏爱既有气候方案",
+          "headline": "AI一小时造出优化软件\n不再耗时数月",
+          "body": "NTU Singapore的LACE借助LLMs，以不到US$10达到最优的97-99%。",
+          "mini_headline": "AI一小时设计求解器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-                "cap": "图片来源：Matheus Bertelli / Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+                "cap": "Research Fellow Dr Gong Huatian (L)与Asst Prof Yan Ran展示他们开发的LACE模型。图片来源：NTU Singapore"
               },
               {
                 "t": "p",
-                "x": "University of Waterloo的研究人员测试了11个大语言模型（LLM）在气候相关建议中的现状偏见。研究发表于Environmental Research Communications。"
+                "x": "Nanyang Technological University, Singapore (NTU)的研究人员开发了AI框架LACE（LLM-driven Algorithm Construction via Complementary Evolution）。它能根据通俗语言（plain-language）的问题描述生成决策（decision-making）软件，把原本需要专业工程师数月的开发缩短到约一小时。"
               },
               {
                 "t": "p",
-                "x": "他们评估了涵盖购车、食谱、家庭供暖和气候政策权衡等主题的7,500多个问题，生成了近55,000条提示词。在可能涉及政策权衡的情况下，模型强化用户既有决定的频率约为两倍。"
+                "x": "LACE先将问题拆分为模块化部分，再进化出一组互补的专业启发式算法分别处理。在包括集装箱码头和拖船路径规划在内的四个新海事问题上，它达到了所有受测方法最佳结果的97%至99%，每个问题的计算成本不到US$10。包括Google的FunSearch在内的其他LLM-based系统均未能给出可行解。"
               },
               {
                 "t": "p",
-                "x": "模型对既有计划表示赞同的比例约为70%，对新计划或新政策则只有34%。即使考虑地区因素，模型推荐电动汽车的频率也低于这些车型在各国的实际销售比例。"
-              },
-              {
-                "t": "p",
-                "x": "首席研究员Seth Wynes建议用户让聊天机器人论证做一件新事情的理由。"
+                "x": "由Asst Prof Yan Ran和Dr Gong Huatian领导的团队表示，这一方法可帮助规模较小的团队、区域物流枢纽、公共卫生机构和公用事业单位。Yan说：“巧妙设计AI框架，而不只是构建更大的AI模型，就能弥合这一差距。”该研究发表于Nature Machine Intelligence。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los chatbots de IA prefieren\nlos planes climáticos vigentes",
-          "body": "En 11 LLMs, los chatbots avalaron planes climáticos vigentes cerca de un 70% de las veces, y propuestas nuevas un 34%.",
-          "mini_headline": "Los chatbots prefieren los planes climáticos vigentes",
+          "headline": "AI crea software de optimización\nen una hora, no en meses",
+          "body": "LACE, de NTU Singapore, usa LLMs para evolucionar heurísticas y logra el 97-99% del mejor método por menos de US$10.",
+          "mini_headline": "AI diseña solucionadores en una hora",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-                "cap": "Crédito: Matheus Bertelli en Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+                "cap": "El Research Fellow Dr Gong Huatian (L) y Asst Prof Yan Ran muestran el modelo LACE que crearon. Crédito: NTU Singapore."
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Waterloo evaluaron 11 grandes modelos de lenguaje en busca de sesgo de statu quo en consejos relacionados con el clima. El estudio se publica en Environmental Research Communications."
+                "x": "Investigadores de Nanyang Technological University, Singapore (NTU) han creado LACE (LLM-driven Algorithm Construction via Complementary Evolution), un marco de AI que genera software de toma de decisiones (decision-making) a partir de descripciones de problemas en lenguaje sencillo (plain-language), lo que reduce el desarrollo de meses de ingeniería especializada a alrededor de una hora."
               },
               {
                 "t": "p",
-                "x": "Evaluaron más de 7,500 consultas sobre temas como la compra de vehículos, recetas, calefacción doméstica y disyuntivas de política climática, lo que dio lugar a casi 55,000 prompts. Cuando cabían disyuntivas de política, los modelos reforzaron las decisiones previas de los usuarios aproximadamente el doble de veces."
+                "x": "LACE primero divide un problema en partes modulares y luego hace evolucionar un equipo de heurísticas especializadas y complementarias para resolverlas. En cuatro nuevos problemas marítimos, entre ellos la gestión de una terminal de contenedores y el enrutamiento de remolcadores, alcanzó entre el 97% y el 99% del mejor resultado de cualquier método probado, con menos de US$10 de cómputo por problema. Los sistemas rivales LLM-based, incluido FunSearch de Google, no lograron producir soluciones factibles."
               },
               {
                 "t": "p",
-                "x": "Los modelos dijeron que sí a los planes existentes cerca del 70% de las veces, pero solo el 34% en el caso de planes o políticas nuevos. Incluso teniendo en cuenta factores regionales, recomendaron vehículos eléctricos con menos frecuencia de la que esos vehículos ya se vendían en cada país."
-              },
-              {
-                "t": "p",
-                "x": "El investigador principal, Seth Wynes, sugiere pedir a los chatbots que argumenten a favor de hacer algo nuevo."
+                "x": "El equipo, dirigido por Asst Prof Yan Ran y Dr Gong Huatian, afirma que el enfoque podría ayudar a equipos más pequeños, centros logísticos regionales, instituciones de salud pública y empresas de servicios públicos. \"Un diseño inteligente de un marco de AI, y no solo la construcción de modelos de AI más grandes, puede cerrar esta brecha\", dijo Yan. El estudio se publica en Nature Machine Intelligence."
               }
             ]
           }
@@ -561,125 +457,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 챗봇은 새 기후안보다\n기존 계획을 편든다",
-          "body": "LLMs 11종은 기존 기후 계획에 약 70%, 새 제안에는 34%만 찬성했다.",
-          "mini_headline": "챗봇은 기존 기후 계획을 편든다",
+          "headline": "AI가 최적화 소프트웨어를\n몇 달 아닌 한 시간에",
+          "body": "NTU Singapore LACE는 LLMs로 US$10 미만에 97-99%였다.",
+          "mini_headline": "AI가 한 시간 만에 해법 설계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-                "cap": "사진: Matheus Bertelli, Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+                "cap": "직접 만든 LACE 모델을 소개하는 Research Fellow Dr Gong Huatian(L)과 Asst Prof Yan Ran. 출처: NTU Singapore."
               },
               {
                 "t": "p",
-                "x": "University of Waterloo 연구진이 대규모 언어 모델(LLM) 11종을 대상으로 기후 관련 조언에 현상 유지 편향이 있는지 시험했다. 연구는 Environmental Research Communications에 실렸다."
+                "x": "Nanyang Technological University, Singapore(NTU) 연구진이 일상 언어(plain-language)로 쓴 문제 설명만으로 의사결정(decision-making) 소프트웨어를 만드는 AI 프레임워크 LACE(LLM-driven Algorithm Construction via Complementary Evolution)를 개발했다. 전문 엔지니어가 몇 달 걸리던 개발 기간을 약 한 시간으로 줄였다."
               },
               {
                 "t": "p",
-                "x": "연구진은 차량 구매, 요리법, 주택 난방, 기후 정책의 득실 같은 주제에 걸친 7,500건 이상의 질의를 평가했고, 이를 통해 약 55,000개의 프롬프트를 만들었다. 정책의 득실을 따질 여지가 있는 경우, 모델은 사용자의 기존 결정을 약 두 배 더 자주 강화했다."
+                "x": "LACE는 먼저 문제를 모듈 단위로 나눈 뒤, 이를 처리할 상호 보완적인 전문 휴리스틱 팀을 진화시킨다. 컨테이너 터미널과 예인선 경로 설정을 포함한 새로운 해운 문제 네 가지에서 시험한 모든 방법의 최고 결과 대비 97%에서 99% 수준에 도달했고, 문제당 계산 비용은 US$10 미만이었다. Google의 FunSearch를 비롯한 LLM-based 경쟁 시스템들은 실행 가능한 해를 내지 못했다."
               },
               {
                 "t": "p",
-                "x": "모델은 기존 계획에는 약 70%의 비율로 찬성했지만, 새 계획이나 정책에는 34%에 그쳤다. 지역 요인을 감안해도 모델이 전기차를 추천한 빈도는 각국에서 이미 팔리고 있는 전기차 비율보다 낮았다."
-              },
-              {
-                "t": "p",
-                "x": "연구 책임자 Seth Wynes는 사용자가 챗봇에게 새로운 일을 해야 하는 이유를 논증해 달라고 요청해 보라고 제안한다."
+                "x": "Asst Prof Yan Ran과 Dr Gong Huatian이 이끈 연구팀은 이 방식이 소규모 팀, 지역 물류 거점, 공공보건 기관, 유틸리티 기업에 도움이 될 수 있다고 말한다. Yan은 \"더 큰 AI 모델을 만드는 것만이 아니라 AI 프레임워크를 영리하게 설계하는 것으로 이 격차를 메울 수 있다\"고 말했다. 연구 결과는 Nature Machine Intelligence에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIチャットボットは\n新案より既存の気候策",
-          "body": "11のLLMsで試すと、既存の気候計画への賛成は約70%、新提案は34%だった。",
-          "mini_headline": "チャットボットは既存の気候計画を好む",
+          "headline": "AIが最適化ソフトを\n数カ月でなく1時間で",
+          "body": "NTU SingaporeのLACEはLLMsでUS$10未満、97-99%に達した。",
+          "mini_headline": "AIが1時間でソルバーを設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-                "cap": "写真：Matheus Bertelli / Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+                "cap": "自ら開発したLACEモデルを紹介するResearch FellowのDr Gong Huatian(L)とAsst Prof Yan Ran。提供:NTU Singapore"
               },
               {
                 "t": "p",
-                "x": "University of Waterlooの研究者らは、11の大規模言語モデル(LLM)を対象に、気候関連の助言における現状維持バイアスを検証した。研究はEnvironmental Research Communicationsに掲載された。"
+                "x": "Nanyang Technological University, Singapore(NTU)の研究チームは、平易な言葉(plain-language)で書いた問題の説明から意思決定(decision-making)ソフトウェアを作るAIフレームワーク「LACE」(LLM-driven Algorithm Construction via Complementary Evolution)を構築した。専門エンジニアが数カ月かけていた開発を約1時間に短縮する。"
               },
               {
                 "t": "p",
-                "x": "車の購入、レシピ、住宅の暖房、気候政策のトレードオフといったテーマで7,500件を超える質問を評価し、約55,000件のプロンプトを作成した。政策のトレードオフが生じ得る場面では、モデルはユーザーの既存の決定を約二倍の頻度で後押しした。"
+                "x": "LACEはまず問題をモジュール単位に分解し、それらを処理する相補的な専門ヒューリスティクスのチームを進化させる。コンテナターミナルやタグボートの経路計画を含む4つの新たな海事問題で、試したあらゆる手法の最良結果の97%から99%に達し、計算コストは1問あたりUS$10未満だった。GoogleのFunSearchを含む競合のLLM-basedシステムは、実行可能な解を出せなかった。"
               },
               {
                 "t": "p",
-                "x": "モデルは既存の計画には約70%の割合で賛成したが、新しい計画や政策への賛成は34%にとどまった。地域的な要因を考慮しても、電気自動車を勧める頻度は各国ですでに売れている電気自動車の割合を下回った。"
-              },
-              {
-                "t": "p",
-                "x": "筆頭研究者のSeth Wynesは、新しいことをする理由をチャットボットに論じさせるようユーザーに勧めている。"
+                "x": "Asst Prof Yan RanとDr Gong Huatianが率いるチームは、この手法が小規模なチームや地域の物流拠点、公衆衛生機関、公益事業者の助けになり得るとしている。Yan氏は「より大きなAIモデルを作るだけでなく、AIフレームワークを巧みに設計することでこの差を埋められる」と述べた。研究はNature Machine Intelligenceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI聊天机器人\n偏爱既有气候方案",
-          "body": "在11个LLMs的测试中，聊天机器人支持既有气候方案约70%，新提议仅34%。",
-          "mini_headline": "聊天机器人偏爱既有气候方案",
+          "headline": "AI一小时造出优化软件\n不再耗时数月",
+          "body": "NTU Singapore的LACE借助LLMs，以不到US$10达到最优的97-99%。",
+          "mini_headline": "AI一小时设计求解器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-                "cap": "图片来源：Matheus Bertelli / Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+                "cap": "Research Fellow Dr Gong Huatian (L)与Asst Prof Yan Ran展示他们开发的LACE模型。图片来源：NTU Singapore"
               },
               {
                 "t": "p",
-                "x": "University of Waterloo的研究人员测试了11个大语言模型（LLM）在气候相关建议中的现状偏见。研究发表于Environmental Research Communications。"
+                "x": "Nanyang Technological University, Singapore (NTU)的研究人员开发了AI框架LACE（LLM-driven Algorithm Construction via Complementary Evolution）。它能根据通俗语言（plain-language）的问题描述生成决策（decision-making）软件，把原本需要专业工程师数月的开发缩短到约一小时。"
               },
               {
                 "t": "p",
-                "x": "他们评估了涵盖购车、食谱、家庭供暖和气候政策权衡等主题的7,500多个问题，生成了近55,000条提示词。在可能涉及政策权衡的情况下，模型强化用户既有决定的频率约为两倍。"
+                "x": "LACE先将问题拆分为模块化部分，再进化出一组互补的专业启发式算法分别处理。在包括集装箱码头和拖船路径规划在内的四个新海事问题上，它达到了所有受测方法最佳结果的97%至99%，每个问题的计算成本不到US$10。包括Google的FunSearch在内的其他LLM-based系统均未能给出可行解。"
               },
               {
                 "t": "p",
-                "x": "模型对既有计划表示赞同的比例约为70%，对新计划或新政策则只有34%。即使考虑地区因素，模型推荐电动汽车的频率也低于这些车型在各国的实际销售比例。"
-              },
-              {
-                "t": "p",
-                "x": "首席研究员Seth Wynes建议用户让聊天机器人论证做一件新事情的理由。"
+                "x": "由Asst Prof Yan Ran和Dr Gong Huatian领导的团队表示，这一方法可帮助规模较小的团队、区域物流枢纽、公共卫生机构和公用事业单位。Yan说：“巧妙设计AI框架，而不只是构建更大的AI模型，就能弥合这一差距。”该研究发表于Nature Machine Intelligence。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los chatbots de IA prefieren\nlos planes climáticos vigentes",
-          "body": "En 11 LLMs, los chatbots avalaron planes climáticos vigentes cerca de un 70% de las veces, y propuestas nuevas un 34%.",
-          "mini_headline": "Los chatbots prefieren los planes climáticos vigentes",
+          "headline": "AI crea software de optimización\nen una hora, no en meses",
+          "body": "LACE, de NTU Singapore, usa LLMs para evolucionar heurísticas y logra el 97-99% del mejor método por menos de US$10.",
+          "mini_headline": "AI diseña solucionadores en una hora",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
-                "cap": "Crédito: Matheus Bertelli en Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+                "cap": "El Research Fellow Dr Gong Huatian (L) y Asst Prof Yan Ran muestran el modelo LACE que crearon. Crédito: NTU Singapore."
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Waterloo evaluaron 11 grandes modelos de lenguaje en busca de sesgo de statu quo en consejos relacionados con el clima. El estudio se publica en Environmental Research Communications."
+                "x": "Investigadores de Nanyang Technological University, Singapore (NTU) han creado LACE (LLM-driven Algorithm Construction via Complementary Evolution), un marco de AI que genera software de toma de decisiones (decision-making) a partir de descripciones de problemas en lenguaje sencillo (plain-language), lo que reduce el desarrollo de meses de ingeniería especializada a alrededor de una hora."
               },
               {
                 "t": "p",
-                "x": "Evaluaron más de 7,500 consultas sobre temas como la compra de vehículos, recetas, calefacción doméstica y disyuntivas de política climática, lo que dio lugar a casi 55,000 prompts. Cuando cabían disyuntivas de política, los modelos reforzaron las decisiones previas de los usuarios aproximadamente el doble de veces."
+                "x": "LACE primero divide un problema en partes modulares y luego hace evolucionar un equipo de heurísticas especializadas y complementarias para resolverlas. En cuatro nuevos problemas marítimos, entre ellos la gestión de una terminal de contenedores y el enrutamiento de remolcadores, alcanzó entre el 97% y el 99% del mejor resultado de cualquier método probado, con menos de US$10 de cómputo por problema. Los sistemas rivales LLM-based, incluido FunSearch de Google, no lograron producir soluciones factibles."
               },
               {
                 "t": "p",
-                "x": "Los modelos dijeron que sí a los planes existentes cerca del 70% de las veces, pero solo el 34% en el caso de planes o políticas nuevos. Incluso teniendo en cuenta factores regionales, recomendaron vehículos eléctricos con menos frecuencia de la que esos vehículos ya se vendían en cada país."
-              },
-              {
-                "t": "p",
-                "x": "El investigador principal, Seth Wynes, sugiere pedir a los chatbots que argumenten a favor de hacer algo nuevo."
+                "x": "El equipo, dirigido por Asst Prof Yan Ran y Dr Gong Huatian, afirma que el enfoque podría ayudar a equipos más pequeños, centros logísticos regionales, instituciones de salud pública y empresas de servicios públicos. \"Un diseño inteligente de un marco de AI, y no solo la construcción de modelos de AI más grandes, puede cerrar esta brecha\", dijo Yan. El estudio se publica en Nature Machine Intelligence."
               }
             ]
           }
@@ -687,15 +567,15 @@
       }
     },
     {
-      "id": "science-patent-attorney-ai-rct",
+      "id": "science-image-ai-face-orientation-stereotypes",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI는 일을 높이지만\n모두의 실력은 아니다",
-      "body": "석 달 변리사 실험에서 AI는 모두의 작업 질을 높였지만 판단력은 시니어만 늘었다.",
-      "mini_headline": "AI는 일을 높이지만 모두를 키우진 않는다",
+      "headline": "요청하면 이미지 AI가\n'게이'·'이성애자' 편집",
+      "body": "Gemini와 GPT는 성적 지향 판단은 거부하고도 고정관념 편집은 따랐다.",
+      "mini_headline": "이미지 AI의 얼굴 고정관념",
       "tool": "Science",
-      "source": "Google Research",
-      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-gay-ai-people-stereotypical-straight.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -703,233 +583,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+            "cap": "주요 상업용 이미지 생성(image-generating) AI 모델은 고정관념적 특징으로 얼굴을 게이, 이성애자, 특정 인종처럼 보이게 하라는 프롬프트를 자주 따른다. 출처: Ashiqur KhudaBukhsh."
           },
           {
             "t": "p",
-            "x": "David Autor와 Tanya Rodchenko는 현업 변리사를 상대로 세 달간 무작위 대조 실험을 했다. AI를 일상적으로 쓰면 작업 품질은 전반적으로 오르지만, 업무 중 학습(on-the-job learning)에 미치는 효과는 연차마다 달랐다."
+            "x": "Ashique KhudaBukhsh 연구팀은 OpenAI의 GPT Image 1 Mini와 Google의 Gemini 2.5 Flash Image를 AI로 만든(AI-generated) 얼굴 1,002개로 시험했다. 얼굴을 보고 그 사람이 게이인지 이성애자인지 묻자 두 모델은 외모로 성적 지향을 판단할 수 없다며 답하지 않았다."
           },
           {
             "t": "p",
-            "x": "연구팀은 당시 미공개였던 Google Labs의 특허 작성 어시스턴트(현재 Gemini Notebook의 일부) 접근권을 IP 로펌 열한 곳의 변호사 133명에게 무작위로 나눠 줬다. AI를 쓴 집단의 초안 작성 점수는 10일 차에 0.34 표준편차, 90일 차에 0.38 SD 올랐다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-            "cap": "AI 접근이 특허 초안 작성과 레드라이닝 품질에 미친 추정 효과(전체, 주니어, 시니어 변호사별)."
+            "x": "그런데 얼굴을 \"게이처럼 보이게\" 또는 \"이성애자처럼 보이게\" 바꾸라고 지시하자 GPT는 70% 넘게, Gemini는 99% 넘게 그대로 따랐다. 세 번째 AI 시스템에 변형된 얼굴 14,131개를 보여 주자 \"게이\" 편집과 \"이성애자\" 편집을 83–88% 비율로 가려냈다. 일관된 고정관념 단서가 있다는 방증이다. 얼굴을 범죄자처럼 또는 범죄자가 아닌 것처럼 보이게 하라는 요청을 따른 비율도 97%를 넘었다."
           },
           {
             "t": "p",
-            "x": "90일 차에 AI 없이 치른 레드라이닝 과제에서 AI 집단은 대조군을 0.32 SD 앞섰다. 이 차이는 전부 시니어 변호사(0.45 SD)에게서 나왔다. 주니어는 눈에 띄게 나아지지 않았고, 점수가 아주 낮은 쪽과 좋은 쪽으로 더 크게 갈라졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-            "cap": "경력별 처치군과 대조군 변호사의 평균 레드라이닝 점수 분포."
-          },
-          {
-            "t": "p",
-            "x": "시니어들은 AI 결과물을 \"논리 감사관(logic auditor)\"처럼 다뤘다고 했다. 저자들은 오늘 더 나은 결과물을 내는 도구가 주니어들이 내일의 전문가로 크는 길을 막아서는 안 된다고 경고한다."
+            "x": "저자는 이 결과를 이미 신빙성을 잃은 관상학을 떠올리게 하는 AI 안전 문제로 본다. 이번 연구는 EMNLP 2026에 채택됐으며 AI로 만든(AI-generated) 얼굴과 몇 가지 정체성 범주만 다뤘다. 연구팀은 다음으로 종교나 나이 같은 특성과 채용 같은 의사결정에 미치는 영향을 살펴볼 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI lifts the work, but not\nevery worker's skill",
-          "body": "In a three-month patent attorney trial, AI raised everyone's work quality, but only seniors gained stronger judgment.",
-          "mini_headline": "AI lifts work, not every worker",
+          "headline": "Image AI edits faces to look\n'gay' or 'straight' on request",
+          "body": "Gemini and GPT image models refused to infer orientation yet applied stereotyped 'gay' or 'straight' edits on request.",
+          "mini_headline": "Image AI stereotypes faces",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+                "cap": "Leading commercial image-generating AI models often follow prompts to make faces look gay, straight or of a racial group using stereotypical features. Credit: Ashiqur KhudaBukhsh."
               },
               {
                 "t": "p",
-                "x": "In a three-month randomized controlled trial with practicing patent attorneys, David Autor and Tanya Rodchenko found that routine AI use lifts work quality across the board, but its effect on on-the-job learning depends on seniority."
+                "x": "Ashique KhudaBukhsh's team tested OpenAI's GPT Image 1 Mini and Google's Gemini 2.5 Flash Image on 1,002 AI-generated faces. Asked whether a face showed someone was gay or straight, the models refused, explaining that sexual orientation cannot be determined from appearance."
               },
               {
                 "t": "p",
-                "x": "The team randomized access to a then-unreleased Google Labs patent-writing assistant, now part of Gemini Notebook, among 133 lawyers at eleven IP law firms. AI access raised drafting scores by 0.34 standard deviations at 10 days and 0.38 SD at 90 days."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-                "cap": "Estimated impact of AI access on patent drafting and redlining quality, for all, junior and senior lawyers."
+                "x": "Yet when told to make a face \"look gay\" or \"look straight,\" GPT complied more than 70% of the time and Gemini more than 99%. A third AI system shown 14,131 altered faces could tell the \"gay\" and \"straight\" edits apart 83–88% of the time, suggesting consistent stereotyped cues. Requests to make faces look criminal or noncriminal were followed more than 97% of the time."
               },
               {
                 "t": "p",
-                "x": "On an unassisted redlining task at 90 days, the AI group outperformed controls by 0.32 SD, driven entirely by senior lawyers (0.45 SD). Juniors showed no discernible improvement; their scores bifurcated into more very low and more good ones."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-                "cap": "Distributions of average redlining scores for treated and control lawyers by experience."
-              },
-              {
-                "t": "p",
-                "x": "Seniors described treating AI output as a \"logic auditor.\" The authors warn that tools producing better work today must not prevent juniors from becoming tomorrow's experts."
+                "x": "The author calls this an AI safety concern echoing physiognomy, a discredited practice. The study, accepted at EMNLP 2026, used AI-generated faces and a few identity categories; next the team will probe traits like religion or age and effects on decisions such as hiring."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI는 일을 높이지만\n모두의 실력은 아니다",
-          "body": "석 달 변리사 실험에서 AI는 모두의 작업 질을 높였지만 판단력은 시니어만 늘었다.",
-          "mini_headline": "AI는 일을 높이지만 모두를 키우진 않는다",
+          "headline": "요청하면 이미지 AI가\n'게이'·'이성애자' 편집",
+          "body": "Gemini와 GPT는 성적 지향 판단은 거부하고도 고정관념 편집은 따랐다.",
+          "mini_headline": "이미지 AI의 얼굴 고정관념",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+                "cap": "주요 상업용 이미지 생성(image-generating) AI 모델은 고정관념적 특징으로 얼굴을 게이, 이성애자, 특정 인종처럼 보이게 하라는 프롬프트를 자주 따른다. 출처: Ashiqur KhudaBukhsh."
               },
               {
                 "t": "p",
-                "x": "David Autor와 Tanya Rodchenko는 현업 변리사를 상대로 세 달간 무작위 대조 실험을 했다. AI를 일상적으로 쓰면 작업 품질은 전반적으로 오르지만, 업무 중 학습(on-the-job learning)에 미치는 효과는 연차마다 달랐다."
+                "x": "Ashique KhudaBukhsh 연구팀은 OpenAI의 GPT Image 1 Mini와 Google의 Gemini 2.5 Flash Image를 AI로 만든(AI-generated) 얼굴 1,002개로 시험했다. 얼굴을 보고 그 사람이 게이인지 이성애자인지 묻자 두 모델은 외모로 성적 지향을 판단할 수 없다며 답하지 않았다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 당시 미공개였던 Google Labs의 특허 작성 어시스턴트(현재 Gemini Notebook의 일부) 접근권을 IP 로펌 열한 곳의 변호사 133명에게 무작위로 나눠 줬다. AI를 쓴 집단의 초안 작성 점수는 10일 차에 0.34 표준편차, 90일 차에 0.38 SD 올랐다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-                "cap": "AI 접근이 특허 초안 작성과 레드라이닝 품질에 미친 추정 효과(전체, 주니어, 시니어 변호사별)."
+                "x": "그런데 얼굴을 \"게이처럼 보이게\" 또는 \"이성애자처럼 보이게\" 바꾸라고 지시하자 GPT는 70% 넘게, Gemini는 99% 넘게 그대로 따랐다. 세 번째 AI 시스템에 변형된 얼굴 14,131개를 보여 주자 \"게이\" 편집과 \"이성애자\" 편집을 83–88% 비율로 가려냈다. 일관된 고정관념 단서가 있다는 방증이다. 얼굴을 범죄자처럼 또는 범죄자가 아닌 것처럼 보이게 하라는 요청을 따른 비율도 97%를 넘었다."
               },
               {
                 "t": "p",
-                "x": "90일 차에 AI 없이 치른 레드라이닝 과제에서 AI 집단은 대조군을 0.32 SD 앞섰다. 이 차이는 전부 시니어 변호사(0.45 SD)에게서 나왔다. 주니어는 눈에 띄게 나아지지 않았고, 점수가 아주 낮은 쪽과 좋은 쪽으로 더 크게 갈라졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-                "cap": "경력별 처치군과 대조군 변호사의 평균 레드라이닝 점수 분포."
-              },
-              {
-                "t": "p",
-                "x": "시니어들은 AI 결과물을 \"논리 감사관(logic auditor)\"처럼 다뤘다고 했다. 저자들은 오늘 더 나은 결과물을 내는 도구가 주니어들이 내일의 전문가로 크는 길을 막아서는 안 된다고 경고한다."
+                "x": "저자는 이 결과를 이미 신빙성을 잃은 관상학을 떠올리게 하는 AI 안전 문제로 본다. 이번 연구는 EMNLP 2026에 채택됐으며 AI로 만든(AI-generated) 얼굴과 몇 가지 정체성 범주만 다뤘다. 연구팀은 다음으로 종교나 나이 같은 특성과 채용 같은 의사결정에 미치는 영향을 살펴볼 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは仕事を底上げ\nだが全員の腕は伸びず",
-          "body": "弁理士の三か月の試験で、AIは全員の仕事の質を上げたが、判断力が伸びたのはシニアのみだ。",
-          "mini_headline": "AIは仕事を上げ、全員は伸ばさない",
+          "headline": "画像AI、指示で顔を\n「ゲイ」「ストレート」風に",
+          "body": "GeminiとGPTの画像モデルは性的指向の推定を拒みつつ、固定観念的な編集には応じた。",
+          "mini_headline": "画像AIが顔を固定観念で編集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+                "cap": "主要な商用の画像生成(image-generating)AIモデルは、固定観念的な特徴を用いて顔をゲイ、ストレート、あるいは特定の人種に見せるよう求めるプロンプトにしばしば従う。提供:Ashiqur KhudaBukhsh"
               },
               {
                 "t": "p",
-                "x": "現役の弁理士を対象にした三か月間のランダム化比較試験で、David AutorとTanya Rodchenkoは、AIを日常的に使うと仕事の質が全般的に向上する一方、職場での学び(on-the-job learning)への効果は経験年数によって異なることを明らかにした。"
+                "x": "Ashique KhudaBukhsh氏のチームは、OpenAIのGPT Image 1 MiniとGoogleのGemini 2.5 Flash Imageを、AIで生成した(AI-generated)顔1,002枚で検証した。顔から本人がゲイかストレートかを判断するよう求めると、両モデルは外見から性的指向は判断できないと説明して拒否した。"
               },
               {
                 "t": "p",
-                "x": "チームは、当時未公開だったGoogle Labsの特許作成アシスタント(現在はGemini Notebookの一部)へのアクセスを、十一のIP法律事務所に所属する弁護士133人の間で無作為に割り当てた。AIへのアクセスにより、起草スコアは10日時点で0.34標準偏差、90日時点で0.38 SD上昇した。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-                "cap": "AIへのアクセスが特許起草とレッドライン作業の質に与えた推定効果(全体、ジュニア、シニア弁護士別)。"
+                "x": "ところが顔を「ゲイに見えるように」「ストレートに見えるように」変えるよう指示すると、GPTは70%超、Geminiは99%超の割合で応じた。改変された顔14,131枚を見せた3つ目のAIシステムは、「ゲイ」と「ストレート」の編集を83–88%の割合で見分け、一貫した固定観念的な手がかりがあることを示唆した。顔を犯罪者らしく、あるいは犯罪者らしくなく見せる要求にも97%超の割合で従った。"
               },
               {
                 "t": "p",
-                "x": "90日時点でAIなしに行ったレッドライン作業では、AIグループが対照群を0.32 SD上回ったが、その差はすべてシニア弁護士(0.45 SD)によるものだった。ジュニアには目立った改善が見られず、スコアは非常に低いものと良いものの両方が増える形で二極化した。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-                "cap": "経験別に見た、処置群と対照群の弁護士の平均レッドラインスコアの分布。"
-              },
-              {
-                "t": "p",
-                "x": "シニアは、AIの出力を「論理の監査役(logic auditor)」として扱ったと語った。著者らは、今日より良い仕事を生み出すツールが、ジュニアが明日の専門家になる道を妨げてはならないと警告する。"
+                "x": "著者はこれを、すでに否定された人相学を思わせるAI安全性の懸念だとする。EMNLP 2026に採択された本研究は、AIで生成した(AI-generated)顔と少数のアイデンティティ区分を用いた。チームは次に、宗教や年齢といった属性や、採用などの意思決定への影響を調べる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI提升了工作\n但未让人人技能提升",
-          "body": "在为期三个月的专利律师试验中，AI提升了所有人的工作质量，但只有资深者判断力增强。",
-          "mini_headline": "AI提升工作，未必提升每个人",
+          "headline": "图像AI按要求把人脸\n改得像“同性恋”或“异性恋”",
+          "body": "Gemini与GPT图像模型拒绝推断性取向，却会按要求做刻板化的“同性恋”“异性恋”编辑。",
+          "mini_headline": "图像AI的人脸刻板印象",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+                "cap": "主流商用图像生成（image-generating）AI模型常会按提示，借助刻板特征让人脸看起来像同性恋、异性恋或某个种族。图片来源：Ashiqur KhudaBukhsh"
               },
               {
                 "t": "p",
-                "x": "在一项针对执业专利律师、为期三个月的随机对照试验中，David Autor和Tanya Rodchenko发现，日常使用AI能全面提升工作质量，但它对在职学习（on-the-job learning）的影响取决于资历。"
+                "x": "Ashique KhudaBukhsh团队用1,002张AI生成（AI-generated）的人脸测试了OpenAI的GPT Image 1 Mini和Google的Gemini 2.5 Flash Image。当被问及能否从人脸看出某人是同性恋还是异性恋时，两款模型都拒绝回答，并解释说性取向无法从外貌判断。"
               },
               {
                 "t": "p",
-                "x": "团队在十一家IP律所的133名律师中，随机分配了一款当时尚未发布的Google Labs专利撰写助手的使用权限，该工具现已成为Gemini Notebook的一部分。获得AI后，起草得分在第10天提高了0.34个标准差，在第90天提高了0.38 SD。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-                "cap": "AI使用权限对专利起草和修订标注质量的估计影响，分为全体、初级和资深律师。"
+                "x": "然而，当被要求让人脸“看起来像同性恋”或“看起来像异性恋”时，GPT的遵从率超过70%，Gemini超过99%。另一套AI系统在查看14,131张修改后的人脸后，能以83–88%的比例区分“同性恋”与“异性恋”编辑，表明其中存在一致的刻板线索。让人脸看起来像罪犯或非罪犯的要求，遵从率也超过97%。"
               },
               {
                 "t": "p",
-                "x": "在第90天进行的无辅助修订标注任务中，AI组比对照组高出0.32 SD，这一差距完全来自资深律师（0.45 SD）。初级律师没有明显进步，他们的分数出现两极分化，极低分和高分都更多。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-                "cap": "按经验划分的实验组与对照组律师平均修订标注得分分布。"
-              },
-              {
-                "t": "p",
-                "x": "资深律师表示，他们把AI输出当作“逻辑审计员”（logic auditor）来对待。作者警告，今天能产出更好成果的工具，不能阻碍初级律师成长为明天的专家。"
+                "x": "作者认为这是一个AI安全问题，令人联想到早已被摒弃的面相学。该研究已被EMNLP 2026接收，使用的是AI生成（AI-generated）的人脸和少数几类身份类别；团队下一步将探究宗教、年龄等特征，以及对招聘等决策的影响。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA eleva el trabajo,\npero no la destreza de todos",
-          "body": "Con abogados de patentes, la IA mejoró en tres meses el trabajo de todos, pero solo los sénior ganaron criterio.",
-          "mini_headline": "La IA mejora el trabajo, no a todos los trabajadores",
+          "headline": "La AI de imágenes, a petición,\nhace ver caras 'gay' o 'hetero'",
+          "body": "Gemini y GPT se negaron a inferir la orientación, pero hicieron ediciones estereotipadas 'gay' o 'hetero' a petición.",
+          "mini_headline": "La AI de imágenes estereotipa rostros",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+                "cap": "Los principales modelos comerciales de AI generadores de imágenes (image-generating) suelen seguir instrucciones para que los rostros parezcan gais, heterosexuales o de un grupo racial mediante rasgos estereotipados. Crédito: Ashiqur KhudaBukhsh."
               },
               {
                 "t": "p",
-                "x": "En un ensayo controlado aleatorizado de tres meses con abogados de patentes en ejercicio, David Autor y Tanya Rodchenko observaron que el uso habitual de la IA eleva la calidad del trabajo en todos los casos, pero que su efecto sobre el aprendizaje en el puesto (on-the-job learning) depende de la antigüedad."
+                "x": "El equipo de Ashique KhudaBukhsh probó GPT Image 1 Mini, de OpenAI, y Gemini 2.5 Flash Image, de Google, con 1,002 rostros generados por AI (AI-generated). Cuando se les preguntó si un rostro mostraba que alguien era gay o heterosexual, los modelos se negaron y explicaron que la orientación sexual no puede determinarse por la apariencia."
               },
               {
                 "t": "p",
-                "x": "El equipo asignó al azar el acceso a un asistente de redacción de patentes de Google Labs, entonces inédito y hoy parte de Gemini Notebook, entre 133 abogados de once bufetes de IP. El acceso a la IA elevó las puntuaciones de redacción en 0.34 desviaciones estándar a los 10 días y en 0.38 SD a los 90 días."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-                "cap": "Impacto estimado del acceso a la IA en la calidad de la redacción de patentes y de la revisión con marcas, para todos los abogados, los júnior y los sénior."
+                "x": "Sin embargo, cuando se les pidió que un rostro \"pareciera gay\" o \"pareciera heterosexual\", GPT obedeció más del 70% de las veces y Gemini más del 99%. Un tercer sistema de AI al que se mostraron 14,131 rostros alterados distinguió las ediciones \"gay\" y \"heterosexual\" el 83–88% de las veces, lo que sugiere pistas estereotipadas coherentes. Las peticiones de hacer que los rostros parecieran criminales o no criminales se atendieron más del 97% de las veces."
               },
               {
                 "t": "p",
-                "x": "En una tarea de revisión con marcas sin asistencia a los 90 días, el grupo con IA superó al de control en 0.32 SD, una ventaja que procedía por completo de los abogados sénior (0.45 SD). Los júnior no mostraron una mejora apreciable; sus puntuaciones se bifurcaron, con más resultados muy bajos y más resultados buenos."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-                "cap": "Distribución de las puntuaciones medias de revisión con marcas de los abogados tratados y de control, según experiencia."
-              },
-              {
-                "t": "p",
-                "x": "Los sénior contaron que trataban los resultados de la IA como un \"auditor lógico\" (logic auditor). Los autores advierten de que las herramientas que hoy producen un mejor trabajo no deben impedir que los júnior se conviertan en los expertos del mañana."
+                "x": "El autor lo considera un problema de seguridad de la AI que recuerda a la fisiognomía, una práctica desacreditada. El estudio, aceptado en EMNLP 2026, usó rostros generados por AI (AI-generated) y unas pocas categorías de identidad; a continuación, el equipo examinará rasgos como la religión o la edad y sus efectos en decisiones como la contratación."
               }
             ]
           }
@@ -937,161 +739,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI는 일을 높이지만\n모두의 실력은 아니다",
-          "body": "석 달 변리사 실험에서 AI는 모두의 작업 질을 높였지만 판단력은 시니어만 늘었다.",
-          "mini_headline": "AI는 일을 높이지만 모두를 키우진 않는다",
+          "headline": "요청하면 이미지 AI가\n'게이'·'이성애자' 편집",
+          "body": "Gemini와 GPT는 성적 지향 판단은 거부하고도 고정관념 편집은 따랐다.",
+          "mini_headline": "이미지 AI의 얼굴 고정관념",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+                "cap": "주요 상업용 이미지 생성(image-generating) AI 모델은 고정관념적 특징을 이용해 얼굴을 게이, 이성애자 또는 특정 인종처럼 보이게 하라는 프롬프트를 자주 따른다. 출처: Ashiqur KhudaBukhsh."
               },
               {
                 "t": "p",
-                "x": "현업 변리사를 대상으로 한 세 달간의 무작위 대조 실험에서 David Autor와 Tanya Rodchenko는 AI를 일상적으로 쓰면 작업 품질이 전반적으로 오르지만, 업무 중 학습(on-the-job learning)에 미치는 효과는 연차에 따라 다르다는 사실을 확인했다."
+                "x": "Ashique KhudaBukhsh 연구팀은 OpenAI의 GPT Image 1 Mini와 Google의 Gemini 2.5 Flash Image를 AI로 생성한(AI-generated) 얼굴 1,002개로 시험했다. 얼굴을 보고 그 사람이 게이인지 이성애자인지 묻자, 두 모델은 외모로는 성적 지향을 판단할 수 없다며 답을 거부했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 당시 미공개였던 Google Labs의 특허 작성 어시스턴트(현재 Gemini Notebook의 일부)에 대한 접근권을 열한 곳의 IP 로펌 소속 변호사 133명에게 무작위로 배정했다. AI 접근은 초안 작성 점수를 10일 차에 0.34 표준편차, 90일 차에 0.38 SD 높였다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-                "cap": "AI 접근이 특허 초안 작성과 레드라이닝 품질에 미친 추정 효과(전체, 주니어, 시니어 변호사별)."
+                "x": "그런데 얼굴을 \"게이처럼 보이게\" 또는 \"이성애자처럼 보이게\" 바꾸라고 지시하자 GPT는 70% 넘게, Gemini는 99% 넘게 이를 따랐다. 변형된 얼굴 14,131개를 본 세 번째 AI 시스템은 \"게이\" 편집과 \"이성애자\" 편집을 83–88%의 비율로 구별해, 일관된 고정관념적 단서가 있음을 시사했다. 얼굴을 범죄자처럼, 또는 범죄자가 아닌 것처럼 보이게 하라는 요청을 따른 비율도 97%를 넘었다."
               },
               {
                 "t": "p",
-                "x": "90일 차에 AI 없이 수행한 레드라이닝 과제에서 AI 집단은 대조군을 0.32 SD 앞섰는데, 이 차이는 전적으로 시니어 변호사(0.45 SD)에게서 나왔다. 주니어는 눈에 띄는 향상이 없었고, 점수는 매우 낮은 쪽과 좋은 쪽으로 더 많이 갈라졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-                "cap": "경력별 처치군과 대조군 변호사의 평균 레드라이닝 점수 분포."
-              },
-              {
-                "t": "p",
-                "x": "시니어들은 AI 결과물을 \"논리 감사관(logic auditor)\"처럼 다뤘다고 말했다. 저자들은 오늘 더 나은 결과물을 내는 도구가 주니어들이 내일의 전문가로 성장하는 길을 막아서는 안 된다고 경고한다."
+                "x": "저자는 이를 이미 신빙성을 잃은 관상학을 떠올리게 하는 AI 안전 문제로 본다. EMNLP 2026에 채택된 이 연구는 AI로 생성한(AI-generated) 얼굴과 몇 가지 정체성 범주만 다뤘다. 연구팀은 다음으로 종교나 나이 같은 특성, 그리고 채용 같은 의사결정에 미치는 영향을 살필 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは仕事を底上げ\nだが全員の腕は伸びず",
-          "body": "弁理士の三か月の試験で、AIは全員の仕事の質を上げたが、判断力が伸びたのはシニアのみだ。",
-          "mini_headline": "AIは仕事を上げ、全員は伸ばさない",
+          "headline": "画像AI、指示で顔を\n「ゲイ」「ストレート」風に",
+          "body": "GeminiとGPTの画像モデルは性的指向の推定を拒みつつ、固定観念的な編集には応じた。",
+          "mini_headline": "画像AIが顔を固定観念で編集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+                "cap": "主要な商用の画像生成(image-generating)AIモデルは、固定観念的な特徴を用いて顔をゲイ、ストレート、あるいは特定の人種に見せるよう求めるプロンプトにしばしば従う。提供:Ashiqur KhudaBukhsh"
               },
               {
                 "t": "p",
-                "x": "現役の弁理士を対象にした三か月間のランダム化比較試験で、David AutorとTanya Rodchenkoは、AIを日常的に使うと仕事の質が全般的に向上する一方、職場での学び(on-the-job learning)への効果は経験年数によって異なることを明らかにした。"
+                "x": "Ashique KhudaBukhsh氏のチームは、OpenAIのGPT Image 1 MiniとGoogleのGemini 2.5 Flash Imageを、AIで生成した(AI-generated)顔1,002枚で検証した。顔から本人がゲイかストレートかを判断するよう求めると、両モデルは外見から性的指向は判断できないと説明して拒否した。"
               },
               {
                 "t": "p",
-                "x": "チームは、当時未公開だったGoogle Labsの特許作成アシスタント(現在はGemini Notebookの一部)へのアクセスを、十一のIP法律事務所に所属する弁護士133人の間で無作為に割り当てた。AIへのアクセスにより、起草スコアは10日時点で0.34標準偏差、90日時点で0.38 SD上昇した。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-                "cap": "AIへのアクセスが特許起草とレッドライン作業の質に与えた推定効果(全体、ジュニア、シニア弁護士別)。"
+                "x": "ところが顔を「ゲイに見えるように」「ストレートに見えるように」変えるよう指示すると、GPTは70%超、Geminiは99%超の割合で応じた。改変された顔14,131枚を見せた3つ目のAIシステムは、「ゲイ」と「ストレート」の編集を83–88%の割合で見分け、一貫した固定観念的な手がかりがあることを示唆した。顔を犯罪者らしく、あるいは犯罪者らしくなく見せる要求にも97%超の割合で従った。"
               },
               {
                 "t": "p",
-                "x": "90日時点でAIなしに行ったレッドライン作業では、AIグループが対照群を0.32 SD上回ったが、その差はすべてシニア弁護士(0.45 SD)によるものだった。ジュニアには目立った改善が見られず、スコアは非常に低いものと良いものの両方が増える形で二極化した。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-                "cap": "経験別に見た、処置群と対照群の弁護士の平均レッドラインスコアの分布。"
-              },
-              {
-                "t": "p",
-                "x": "シニアは、AIの出力を「論理の監査役(logic auditor)」として扱ったと語った。著者らは、今日より良い仕事を生み出すツールが、ジュニアが明日の専門家になる道を妨げてはならないと警告する。"
+                "x": "著者はこれを、すでに否定された人相学を思わせるAI安全性の懸念だとする。EMNLP 2026に採択された本研究は、AIで生成した(AI-generated)顔と少数のアイデンティティ区分を用いた。チームは次に、宗教や年齢といった属性や、採用などの意思決定への影響を調べる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI提升了工作\n但未让人人技能提升",
-          "body": "在为期三个月的专利律师试验中，AI提升了所有人的工作质量，但只有资深者判断力增强。",
-          "mini_headline": "AI提升工作，未必提升每个人",
+          "headline": "图像AI按要求把人脸\n改得像“同性恋”或“异性恋”",
+          "body": "Gemini与GPT图像模型拒绝推断性取向，却会按要求做刻板化的“同性恋”“异性恋”编辑。",
+          "mini_headline": "图像AI的人脸刻板印象",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+                "cap": "主流商用图像生成（image-generating）AI模型常会按提示，借助刻板特征让人脸看起来像同性恋、异性恋或某个种族。图片来源：Ashiqur KhudaBukhsh"
               },
               {
                 "t": "p",
-                "x": "在一项针对执业专利律师、为期三个月的随机对照试验中，David Autor和Tanya Rodchenko发现，日常使用AI能全面提升工作质量，但它对在职学习（on-the-job learning）的影响取决于资历。"
+                "x": "Ashique KhudaBukhsh团队用1,002张AI生成（AI-generated）的人脸测试了OpenAI的GPT Image 1 Mini和Google的Gemini 2.5 Flash Image。当被问及能否从人脸看出某人是同性恋还是异性恋时，两款模型都拒绝回答，并解释说性取向无法从外貌判断。"
               },
               {
                 "t": "p",
-                "x": "团队在十一家IP律所的133名律师中，随机分配了一款当时尚未发布的Google Labs专利撰写助手的使用权限，该工具现已成为Gemini Notebook的一部分。获得AI后，起草得分在第10天提高了0.34个标准差，在第90天提高了0.38 SD。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-                "cap": "AI使用权限对专利起草和修订标注质量的估计影响，分为全体、初级和资深律师。"
+                "x": "然而，当被要求让人脸“看起来像同性恋”或“看起来像异性恋”时，GPT的遵从率超过70%，Gemini超过99%。另一套AI系统在查看14,131张修改后的人脸后，能以83–88%的比例区分“同性恋”与“异性恋”编辑，表明其中存在一致的刻板线索。让人脸看起来像罪犯或非罪犯的要求，遵从率也超过97%。"
               },
               {
                 "t": "p",
-                "x": "在第90天进行的无辅助修订标注任务中，AI组比对照组高出0.32 SD，这一差距完全来自资深律师（0.45 SD）。初级律师没有明显进步，他们的分数出现两极分化，极低分和高分都更多。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-                "cap": "按经验划分的实验组与对照组律师平均修订标注得分分布。"
-              },
-              {
-                "t": "p",
-                "x": "资深律师表示，他们把AI输出当作“逻辑审计员”（logic auditor）来对待。作者警告，今天能产出更好成果的工具，不能阻碍初级律师成长为明天的专家。"
+                "x": "作者认为这是一个AI安全问题，令人联想到早已被摒弃的面相学。该研究已被EMNLP 2026接收，使用的是AI生成（AI-generated）的人脸和少数几类身份类别；团队下一步将探究宗教、年龄等特征，以及对招聘等决策的影响。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA eleva el trabajo,\npero no la destreza de todos",
-          "body": "Con abogados de patentes, la IA mejoró en tres meses el trabajo de todos, pero solo los sénior ganaron criterio.",
-          "mini_headline": "La IA mejora el trabajo, no a todos los trabajadores",
+          "headline": "La AI de imágenes, a petición,\nhace ver caras 'gay' o 'hetero'",
+          "body": "Gemini y GPT se negaron a inferir la orientación, pero hicieron ediciones estereotipadas 'gay' o 'hetero' a petición.",
+          "mini_headline": "La AI de imágenes estereotipa rostros",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+                "cap": "Los principales modelos comerciales de AI generadores de imágenes (image-generating) suelen seguir instrucciones para que los rostros parezcan gais, heterosexuales o de un grupo racial mediante rasgos estereotipados. Crédito: Ashiqur KhudaBukhsh."
               },
               {
                 "t": "p",
-                "x": "En un ensayo controlado aleatorizado de tres meses con abogados de patentes en ejercicio, David Autor y Tanya Rodchenko observaron que el uso habitual de la IA eleva la calidad del trabajo en todos los casos, pero que su efecto sobre el aprendizaje en el puesto (on-the-job learning) depende de la antigüedad."
+                "x": "El equipo de Ashique KhudaBukhsh probó GPT Image 1 Mini, de OpenAI, y Gemini 2.5 Flash Image, de Google, con 1,002 rostros generados por AI (AI-generated). Cuando se les preguntó si un rostro mostraba que alguien era gay o heterosexual, los modelos se negaron y explicaron que la orientación sexual no puede determinarse por la apariencia."
               },
               {
                 "t": "p",
-                "x": "El equipo asignó al azar el acceso a un asistente de redacción de patentes de Google Labs, entonces inédito y hoy parte de Gemini Notebook, entre 133 abogados de once bufetes de IP. El acceso a la IA elevó las puntuaciones de redacción en 0.34 desviaciones estándar a los 10 días y en 0.38 SD a los 90 días."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
-                "cap": "Impacto estimado del acceso a la IA en la calidad de la redacción de patentes y de la revisión con marcas, para todos los abogados, los júnior y los sénior."
+                "x": "Sin embargo, cuando se les pidió que un rostro \"pareciera gay\" o \"pareciera heterosexual\", GPT obedeció más del 70% de las veces y Gemini más del 99%. Un tercer sistema de AI al que se mostraron 14,131 rostros alterados distinguió las ediciones \"gay\" y \"heterosexual\" el 83–88% de las veces, lo que sugiere pistas estereotipadas coherentes. Las peticiones de hacer que los rostros parecieran criminales o no criminales se atendieron más del 97% de las veces."
               },
               {
                 "t": "p",
-                "x": "En una tarea de revisión con marcas sin asistencia a los 90 días, el grupo con IA superó al de control en 0.32 SD, una ventaja que procedía por completo de los abogados sénior (0.45 SD). Los júnior no mostraron una mejora apreciable; sus puntuaciones se bifurcaron, con más resultados muy bajos y más resultados buenos."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
-                "cap": "Distribución de las puntuaciones medias de revisión con marcas de los abogados tratados y de control, según experiencia."
-              },
-              {
-                "t": "p",
-                "x": "Los sénior contaron que trataban los resultados de la IA como un \"auditor lógico\" (logic auditor). Los autores advierten de que las herramientas que hoy producen un mejor trabajo no deben impedir que los júnior se conviertan en los expertos del mañana."
+                "x": "El autor lo considera un problema de seguridad de la AI que recuerda a la fisiognomía, una práctica desacreditada. El estudio, aceptado en EMNLP 2026, usó rostros generados por AI (AI-generated) y unas pocas categorías de identidad; a continuación, el equipo examinará rasgos como la religión o la edad y sus efectos en decisiones como la contratación."
               }
             ]
           }
@@ -1099,15 +849,15 @@
       }
     },
     {
-      "id": "science-quanta-math-ai-reckoning",
+      "id": "science-hybrid-digital-twin-autonomous-biolab",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI의 급진전 앞에\n고민하는 수학자들",
-      "body": "수학자들은 AI의 급진전에 슬퍼하고 분노하며, 살아남으려 보상 체계를 다시 짠다.",
-      "mini_headline": "AI 앞에서 고민하는 수학자들",
+      "headline": "하이브리드 디지털 트윈,\n자율 바이오공정 랩 겨냥",
+      "body": "Sungkyunkwan 연구진이 세포 모델과 설명형 AI로 자율 랩을 노린다.",
+      "mini_headline": "자율 실험실을 위한 디지털 트윈",
       "tool": "Science",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "source": "GEN",
+      "url": "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1115,203 +865,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-            "cap": "Eduardo Ramón for Quanta Magazine"
+            "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
           },
           {
             "t": "p",
-            "x": "9월 8일 OpenAI는 자사 모델이 수학의 가장 유명한 난제 가운데 하나를 풀었다고 발표했고, 저자 자격과 기준을 둘러싼 논란이 뒤따랐다. 반응에는 슬픔과 혼란, 두려움이 짙게 묻어났다. 스타트업(start-up) Axiom Math의 Ken Ono가 Berkeley에서 강연하자 학생들은 분노와 좌절을 드러냈다."
+            "x": "한국 연구진이 기계론적 모델링과 인공지능을 합친 디지털 트윈을 만들고 있다. 언젠가 사람의 개입을 최소화한 완전 자율 실험실을 꾸리는 게 목표다. Sungkyunkwan University의 Bioprocess Digital Twin Lab을 이끄는 Dong-Yup Lee는 \"이 기계론적 모델을 데이터 기반(data-driven) AI 모델과 결합해 하이브리드 모델을 만드는 데 집중해 왔다\"고 말한다."
           },
           {
             "t": "p",
-            "x": "AI의 증명은 검증은 되지만 거의 읽히지 않아, 수학자들끼리 주고받던 이해가 빠져 있다. Caltech의 Tasmin Chu는 \"그것은 우리 체계를 무너뜨린다\"고 말했다. OpenAI는 100건이 넘는 결과를 공개하지 않고 있다. arXiv는 이제 저자 한 명당 한 달에 두 편까지만 투고를 받고, MathOverflow의 활동은 줄어드는 중이다."
+            "x": "트윈은 바이오리액터 데이터를 모으는 다중 센서(multi-sensory) 시스템과 늘 연결돼 있고, Chinese Hamster Ovary(CHO) 세포의 수학 모델로 조건별 거동을 예측한다. 다만 기계론적 예측만으로는 실시간 정확도가 모자랐다. 그래서 연구팀은 어떤 입력이 공정 출력을 가장 크게 좌우하는지 보여 주는 설명 가능한 AI(XAI)를 더했다."
           },
           {
             "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+            "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+            "cap": "Sungkyunkwan University에 있는 Bioprocess Digital Twin Lab의 설비. [Sungkyunkwan University]"
           },
           {
             "t": "p",
-            "x": "University of Toronto의 Daniel Litt는 \"우리가 적응하지 못하면 50년 뒤에는 수학이 아예 사라지는 나쁜 미래가 있다\"고 말했다. MIT의 Pavel Etingof는 다르게 본다. 수학자들이 AI의 결과를 해석하는 역할을 맡으리라는 것이다. McGill의 Marcel Goh처럼 스스로를 AI \"채식주의자\"라 부르는 이들도 있다."
-          },
-          {
-            "t": "p",
-            "x": "Chu 등은 Association for Human Mathematics를 꾸렸다. 수학자들은 훈련과 출판, 채용 방식을 다시 생각하는 중이다."
+            "x": "Lee는 \"하이브리드 모델 [개발]은 아마 80% 정도 왔다\"고 말한다. 남은 20%는 모델을 제어 시스템과 향후 로봇에 잇는 작업이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mathematicians reckon with\nAI's sudden advance",
-          "body": "Mathematicians are meeting AI's sudden advance with grief and anger, and rethinking their field's incentives to survive.",
-          "mini_headline": "Mathematicians reckon with AI",
+          "headline": "Hybrid digital twins aim for\nautonomous bioprocess labs",
+          "body": "Sungkyunkwan researchers pair mechanistic cell models with explainable AI, aiming for labs that need little human input.",
+          "mini_headline": "Digital twins for autonomous labs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-                "cap": "Eduardo Ramón for Quanta Magazine"
+                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
               },
               {
                 "t": "p",
-                "x": "On September 8, OpenAI announced its models had solved one of math's most famous problems, sparking controversy over authorship and standards. Many responses revealed grief, confusion and fear. At a Berkeley talk by Ken Ono of the start-up Axiom Math, students reacted with anger and frustration."
+                "x": "Researchers from South Korea are developing a digital twin that combines mechanistic modeling with artificial intelligence, hoping it will eventually enable a fully autonomous lab operating with minimal human intervention. \"We've been focused on combining this mechanistic model with the data-driven AI model to create a hybridized model,\" says Dong-Yup Lee, head of the Bioprocess Digital Twin Lab at Sungkyunkwan University."
               },
               {
                 "t": "p",
-                "x": "AI proofs are verified but nearly impossible to read, leaving out the understanding mathematicians trade in. \"It breaks our system,\" said Caltech's Tasmin Chu. OpenAI is keeping more than 100 results secret, arXiv now limits authors to two submissions a month, and MathOverflow activity is declining."
+                "x": "The twin is continuously connected to a multi-sensory system collecting bioreactor data, and uses mathematical models of Chinese Hamster Ovary (CHO) cells to predict behavior under different conditions. Because mechanistic predictions alone lack real-time accuracy, the team adds explainable AI (XAI), which shows which inputs most affect process outputs."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+                "cap": "Bioprocess Digital Twin Lab's setup at Sungkyunkwan University. [Sungkyunkwan University]"
               },
               {
                 "t": "p",
-                "x": "\"There's a bad future where if we don't adapt, there's just no more math in 50 years,\" said Daniel Litt of the University of Toronto. MIT's Pavel Etingof sees mathematicians interpreting AI results instead. Some, like McGill's Marcel Goh, call themselves AI \"vegetarians.\""
-              },
-              {
-                "t": "p",
-                "x": "Chu and others formed the Association for Human Mathematics, and mathematicians are rethinking training, publication and hiring."
+                "x": "\"We're probably at 80% on [developing] the hybridized model,\" Lee says; the remaining 20% is linking the models to the control system and future robotics."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI의 급진전 앞에\n고민하는 수학자들",
-          "body": "수학자들은 AI의 급진전에 슬퍼하고 분노하며, 살아남으려 보상 체계를 다시 짠다.",
-          "mini_headline": "AI 앞에서 고민하는 수학자들",
+          "headline": "하이브리드 디지털 트윈,\n자율 바이오공정 랩 겨냥",
+          "body": "Sungkyunkwan 연구진이 세포 모델과 설명형 AI로 자율 랩을 노린다.",
+          "mini_headline": "자율 실험실을 위한 디지털 트윈",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-                "cap": "Eduardo Ramón for Quanta Magazine"
+                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
               },
               {
                 "t": "p",
-                "x": "9월 8일 OpenAI는 자사 모델이 수학의 가장 유명한 난제 가운데 하나를 풀었다고 발표했고, 저자 자격과 기준을 둘러싼 논란이 뒤따랐다. 반응에는 슬픔과 혼란, 두려움이 짙게 묻어났다. 스타트업(start-up) Axiom Math의 Ken Ono가 Berkeley에서 강연하자 학생들은 분노와 좌절을 드러냈다."
+                "x": "한국 연구진이 기계론적 모델링과 인공지능을 합친 디지털 트윈을 만들고 있다. 언젠가 사람의 개입을 최소화한 완전 자율 실험실을 꾸리는 게 목표다. Sungkyunkwan University의 Bioprocess Digital Twin Lab을 이끄는 Dong-Yup Lee는 \"이 기계론적 모델을 데이터 기반(data-driven) AI 모델과 결합해 하이브리드 모델을 만드는 데 집중해 왔다\"고 말한다."
               },
               {
                 "t": "p",
-                "x": "AI의 증명은 검증은 되지만 거의 읽히지 않아, 수학자들끼리 주고받던 이해가 빠져 있다. Caltech의 Tasmin Chu는 \"그것은 우리 체계를 무너뜨린다\"고 말했다. OpenAI는 100건이 넘는 결과를 공개하지 않고 있다. arXiv는 이제 저자 한 명당 한 달에 두 편까지만 투고를 받고, MathOverflow의 활동은 줄어드는 중이다."
+                "x": "트윈은 바이오리액터 데이터를 모으는 다중 센서(multi-sensory) 시스템과 늘 연결돼 있고, Chinese Hamster Ovary(CHO) 세포의 수학 모델로 조건별 거동을 예측한다. 다만 기계론적 예측만으로는 실시간 정확도가 모자랐다. 그래서 연구팀은 어떤 입력이 공정 출력을 가장 크게 좌우하는지 보여 주는 설명 가능한 AI(XAI)를 더했다."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+                "cap": "Sungkyunkwan University에 있는 Bioprocess Digital Twin Lab의 설비. [Sungkyunkwan University]"
               },
               {
                 "t": "p",
-                "x": "University of Toronto의 Daniel Litt는 \"우리가 적응하지 못하면 50년 뒤에는 수학이 아예 사라지는 나쁜 미래가 있다\"고 말했다. MIT의 Pavel Etingof는 다르게 본다. 수학자들이 AI의 결과를 해석하는 역할을 맡으리라는 것이다. McGill의 Marcel Goh처럼 스스로를 AI \"채식주의자\"라 부르는 이들도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Chu 등은 Association for Human Mathematics를 꾸렸다. 수학자들은 훈련과 출판, 채용 방식을 다시 생각하는 중이다."
+                "x": "Lee는 \"하이브리드 모델 [개발]은 아마 80% 정도 왔다\"고 말한다. 남은 20%는 모델을 제어 시스템과 향후 로봇에 잇는 작업이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの急進展に\n向き合う数学者たち",
-          "body": "数学者たちはAIの急進展に悲しみと怒りで応じ、生き残るため分野の動機づけを見直している。",
-          "mini_headline": "AIと向き合う数学者たち",
+          "headline": "ハイブリッド型デジタルツイン\n自律型バイオ工程ラボへ",
+          "body": "Sungkyunkwanの研究者は機構モデルと説明可能なAIを融合し、自律ラボを目指す。",
+          "mini_headline": "自律ラボのためのデジタルツイン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-                "cap": "Eduardo Ramón for Quanta Magazine"
+                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
               },
               {
                 "t": "p",
-                "x": "9月8日、OpenAIは自社のモデルが数学で最も有名な問題の一つを解いたと発表し、著者の資格や基準をめぐる論争を巻き起こした。多くの反応には悲しみや混乱、恐れがにじんでいた。スタートアップ(start-up)Axiom MathのKen OnoがBerkeleyで講演した際には、学生たちが怒りと苛立ちをあらわにした。"
+                "x": "韓国の研究者らが、機構論的モデリングと人工知能を組み合わせたデジタルツインを開発している。最終的には人の介入を最小限に抑えた完全自律型ラボの実現を目指す。Sungkyunkwan UniversityのBioprocess Digital Twin Labを率いるDong-Yup Lee氏は「この機構論的モデルとデータ駆動型(data-driven)のAIモデルを組み合わせ、ハイブリッドモデルを作ることに注力してきた」と語る。"
               },
               {
                 "t": "p",
-                "x": "AIによる証明は検証済みでもほとんど読み解けず、数学者がやり取りしてきた理解が抜け落ちている。CaltechのTasmin Chuは「それは私たちの仕組みを壊す」と語った。OpenAIは100件を超える成果を非公開にしており、arXivは著者の投稿を月二本までに制限し、MathOverflowの活動は減っている。"
+                "x": "このツインはバイオリアクターのデータを収集するマルチセンサー(multi-sensory)システムに常時接続され、Chinese Hamster Ovary(CHO)細胞の数理モデルを使って、さまざまな条件下での挙動を予測する。機構論的な予測だけではリアルタイムの精度が足りないため、チームはどの入力がプロセス出力に最も影響するかを示す説明可能なAI(XAI)を加えている。"
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+                "cap": "Sungkyunkwan UniversityのBioprocess Digital Twin Labの設備。[Sungkyunkwan University]"
               },
               {
                 "t": "p",
-                "x": "University of TorontoのDaniel Littは「適応しなければ、50年後には数学がまったくなくなってしまう悪い未来がある」と語った。MITのPavel Etingofは、数学者がむしろAIの成果を解釈する役割を担うとみる。McGillのMarcel Gohのように、自らをAIの「ベジタリアン」と呼ぶ人もいる。"
-              },
-              {
-                "t": "p",
-                "x": "ChuらはAssociation for Human Mathematicsを結成し、数学者たちは教育や出版、採用のあり方を見直している。"
+                "x": "Lee氏は「ハイブリッドモデル[の開発]はおそらく80%まで来ている」と話す。残る20%は、モデルを制御システムや将来のロボットとつなぐ作業だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "数学家直面\nAI的突飞猛进",
-          "body": "面对AI的突飞猛进，数学家们悲伤又愤怒，正重新思考学科的激励机制以求生存。",
-          "mini_headline": "数学家直面AI冲击",
+          "headline": "混合数字孪生瞄准\n自主运行的生物工艺实验室",
+          "body": "Sungkyunkwan研究人员将机理细胞模型与可解释AI结合，目标是少人干预的实验室。",
+          "mini_headline": "面向自主实验室的数字孪生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-                "cap": "Eduardo Ramón for Quanta Magazine"
+                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
               },
               {
                 "t": "p",
-                "x": "9月8日，OpenAI宣布其模型解决了数学界最著名的难题之一，引发了关于作者身份和标准的争议。许多反应流露出悲伤、困惑与恐惧。在初创公司（start-up）Axiom Math的Ken Ono于Berkeley举行的讲座上，学生们以愤怒和沮丧回应。"
+                "x": "韩国研究人员正在开发一种结合机理建模与人工智能的数字孪生，希望最终实现人工干预极少的全自主实验室。Sungkyunkwan University的Bioprocess Digital Twin Lab负责人Dong-Yup Lee说：“我们一直专注于把这个机理模型与数据驱动（data-driven）的AI模型结合起来，打造一个混合模型。”"
               },
               {
                 "t": "p",
-                "x": "AI给出的证明虽经过验证，却几乎无法读懂，缺少了数学家赖以交流的理解。Caltech的Tasmin Chu说：“它打破了我们的体系。”OpenAI将100多项成果保密，arXiv现在限制每位作者每月只能投稿两篇，MathOverflow的活跃度也在下降。"
+                "x": "该孪生系统与采集生物反应器数据的多传感器（multi-sensory）系统持续相连，并利用Chinese Hamster Ovary（CHO）细胞的数学模型预测不同条件下的行为。由于仅靠机理预测缺乏实时精度，团队加入了可解释AI（XAI），用以显示哪些输入对工艺输出影响最大。"
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+                "cap": "Sungkyunkwan University的Bioprocess Digital Twin Lab实验装置。[Sungkyunkwan University]"
               },
               {
                 "t": "p",
-                "x": "“如果我们不适应，就会有一个糟糕的未来：50年后数学将不复存在。”University of Toronto的Daniel Litt说。MIT的Pavel Etingof则认为，数学家将转而解读AI的成果。也有人像McGill的Marcel Goh一样，自称AI“素食者”。"
-              },
-              {
-                "t": "p",
-                "x": "Chu等人成立了Association for Human Mathematics，数学家们正在重新思考培养、发表和招聘方式。"
+                "x": "Lee说：“混合模型[的开发]大概已完成80%。”剩下的20%是把模型与控制系统以及未来的机器人连接起来。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los matemáticos afrontan\nel súbito avance de la IA",
-          "body": "Los matemáticos afrontan con dolor y enojo el súbito avance de la IA y replantean sus incentivos para sobrevivir.",
-          "mini_headline": "Los matemáticos ante la IA",
+          "headline": "Gemelos digitales híbridos\npara laboratorios autónomos",
+          "body": "Investigadores de Sungkyunkwan unen modelos celulares mecanicistas y AI explicable para crear laboratorios autónomos.",
+          "mini_headline": "Gemelos digitales para laboratorios autónomos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-                "cap": "Eduardo Ramón para Quanta Magazine"
+                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
               },
               {
                 "t": "p",
-                "x": "El 8 de septiembre, OpenAI anunció que sus modelos habían resuelto uno de los problemas más famosos de las matemáticas, lo que desató una polémica sobre la autoría y los estándares. Muchas reacciones revelaron dolor, confusión y miedo. En una charla en Berkeley de Ken Ono, de la start-up Axiom Math, los estudiantes reaccionaron con enojo y frustración."
+                "x": "Investigadores de Corea del Sur desarrollan un gemelo digital que combina modelado mecanicista con inteligencia artificial, con la esperanza de que algún día permita un laboratorio totalmente autónomo que funcione con una intervención humana mínima. \"Nos hemos centrado en combinar este modelo mecanicista con el modelo de AI basado en datos (data-driven) para crear un modelo híbrido\", afirma Dong-Yup Lee, director del Bioprocess Digital Twin Lab de Sungkyunkwan University."
               },
               {
                 "t": "p",
-                "x": "Las demostraciones de la IA están verificadas, pero son casi imposibles de leer, y dejan fuera la comprensión con la que trabajan los matemáticos. \"Rompe nuestro sistema\", dijo Tasmin Chu, de Caltech. OpenAI mantiene en secreto más de 100 resultados, arXiv limita ahora a los autores a dos envíos al mes y la actividad en MathOverflow está disminuyendo."
+                "x": "El gemelo está conectado de forma continua a un sistema multisensorial (multi-sensory) que recoge datos del biorreactor y utiliza modelos matemáticos de células Chinese Hamster Ovary (CHO) para predecir su comportamiento en distintas condiciones. Como las predicciones mecanicistas por sí solas carecen de precisión en tiempo real, el equipo añade AI explicable (XAI), que muestra qué entradas afectan más a los resultados del proceso."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+                "cap": "Instalación del Bioprocess Digital Twin Lab en Sungkyunkwan University. [Sungkyunkwan University]"
               },
               {
                 "t": "p",
-                "x": "\"Hay un futuro malo en el que, si no nos adaptamos, simplemente no habrá más matemáticas dentro de 50 años\", dijo Daniel Litt, de la University of Toronto. Pavel Etingof, del MIT, ve en cambio a los matemáticos interpretando resultados de la IA. Algunos, como Marcel Goh, de McGill, se definen como \"vegetarianos\" de la IA."
-              },
-              {
-                "t": "p",
-                "x": "Chu y otros fundaron la Association for Human Mathematics, y los matemáticos están replanteando la formación, la publicación y la contratación."
+                "x": "\"Probablemente estamos en un 80% en [el desarrollo de] el modelo híbrido\", dice Lee; el 20% restante consiste en conectar los modelos al sistema de control y a la futura robótica."
               }
             ]
           }
@@ -1319,141 +1045,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI의 급진전 앞에\n고민하는 수학자들",
-          "body": "수학자들은 AI의 급진전에 슬퍼하고 분노하며 생존을 위해 보상 체계를 재고한다.",
-          "mini_headline": "AI 앞에서 고민하는 수학자들",
+          "headline": "하이브리드 디지털 트윈,\n자율 바이오공정 랩 겨냥",
+          "body": "Sungkyunkwan 연구진이 세포 모델과 설명형 AI로 자율 랩을 노린다.",
+          "mini_headline": "자율 실험실을 위한 디지털 트윈",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-                "cap": "Eduardo Ramón for Quanta Magazine"
+                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
               },
               {
                 "t": "p",
-                "x": "9월 8일 OpenAI는 자사 모델이 수학에서 가장 유명한 난제 가운데 하나를 풀었다고 발표했고, 이는 저자 자격과 기준을 둘러싼 논란을 불러왔다. 많은 반응에서 슬픔과 혼란, 두려움이 드러났다. 스타트업(start-up) Axiom Math의 Ken Ono가 Berkeley에서 강연했을 때 학생들은 분노와 좌절로 반응했다."
+                "x": "한국 연구진이 기계론적 모델링과 인공지능을 결합한 디지털 트윈을 개발하고 있다. 사람의 개입을 최소화한 완전 자율 실험실을 언젠가 구현하는 것이 목표다. Sungkyunkwan University의 Bioprocess Digital Twin Lab을 이끄는 Dong-Yup Lee는 \"이 기계론적 모델을 데이터 기반(data-driven) AI 모델과 결합해 하이브리드 모델을 만드는 데 집중해 왔다\"고 말한다."
               },
               {
                 "t": "p",
-                "x": "AI의 증명은 검증은 되지만 읽기가 거의 불가능해, 수학자들이 주고받는 이해가 빠져 있다. Caltech의 Tasmin Chu는 \"그것은 우리 체계를 무너뜨린다\"고 말했다. OpenAI는 100건이 넘는 결과를 비공개로 두고 있고, arXiv는 이제 저자당 한 달에 두 편까지만 투고를 허용하며, MathOverflow의 활동은 줄고 있다."
+                "x": "이 트윈은 바이오리액터 데이터를 수집하는 다중 센서(multi-sensory) 시스템과 상시 연결돼 있으며, Chinese Hamster Ovary(CHO) 세포의 수학 모델로 조건별 거동을 예측한다. 기계론적 예측만으로는 실시간 정확도가 부족해, 연구팀은 어떤 입력이 공정 출력에 가장 큰 영향을 주는지 보여주는 설명 가능한 AI(XAI)를 더했다."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+                "cap": "Sungkyunkwan University에 있는 Bioprocess Digital Twin Lab의 설비. [Sungkyunkwan University]"
               },
               {
                 "t": "p",
-                "x": "University of Toronto의 Daniel Litt는 \"우리가 적응하지 못하면 50년 뒤에는 수학이 아예 사라지는 나쁜 미래가 있다\"고 말했다. MIT의 Pavel Etingof는 그 대신 수학자들이 AI의 결과를 해석하는 역할을 맡을 것으로 본다. McGill의 Marcel Goh처럼 스스로를 AI \"채식주의자\"라고 부르는 이들도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Chu 등은 Association for Human Mathematics를 결성했고, 수학자들은 훈련과 출판, 채용 방식을 다시 생각하고 있다."
+                "x": "Lee는 \"하이브리드 모델 [개발]은 아마 80% 정도 왔다\"고 말한다. 나머지 20%는 모델을 제어 시스템과 향후 로봇에 연결하는 일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの急進展に\n向き合う数学者たち",
-          "body": "数学者たちはAIの急進展に悲しみと怒りで応じ、生き残るため分野の動機づけを見直している。",
-          "mini_headline": "AIと向き合う数学者たち",
+          "headline": "ハイブリッド型デジタルツイン\n自律型バイオ工程ラボへ",
+          "body": "Sungkyunkwanの研究者は機構モデルと説明可能なAIを融合し、自律ラボを目指す。",
+          "mini_headline": "自律ラボのためのデジタルツイン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-                "cap": "Eduardo Ramón for Quanta Magazine"
+                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
               },
               {
                 "t": "p",
-                "x": "9月8日、OpenAIは自社のモデルが数学で最も有名な問題の一つを解いたと発表し、著者の資格や基準をめぐる論争を巻き起こした。多くの反応には悲しみや混乱、恐れがにじんでいた。スタートアップ(start-up)Axiom MathのKen OnoがBerkeleyで講演した際には、学生たちが怒りと苛立ちをあらわにした。"
+                "x": "韓国の研究者らが、機構論的モデリングと人工知能を組み合わせたデジタルツインを開発している。最終的には人の介入を最小限に抑えた完全自律型ラボの実現を目指す。Sungkyunkwan UniversityのBioprocess Digital Twin Labを率いるDong-Yup Lee氏は「この機構論的モデルとデータ駆動型(data-driven)のAIモデルを組み合わせ、ハイブリッドモデルを作ることに注力してきた」と語る。"
               },
               {
                 "t": "p",
-                "x": "AIによる証明は検証済みでもほとんど読み解けず、数学者がやり取りしてきた理解が抜け落ちている。CaltechのTasmin Chuは「それは私たちの仕組みを壊す」と語った。OpenAIは100件を超える成果を非公開にしており、arXivは著者の投稿を月二本までに制限し、MathOverflowの活動は減っている。"
+                "x": "このツインはバイオリアクターのデータを収集するマルチセンサー(multi-sensory)システムに常時接続され、Chinese Hamster Ovary(CHO)細胞の数理モデルを使って、さまざまな条件下での挙動を予測する。機構論的な予測だけではリアルタイムの精度が足りないため、チームはどの入力がプロセス出力に最も影響するかを示す説明可能なAI(XAI)を加えている。"
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+                "cap": "Sungkyunkwan UniversityのBioprocess Digital Twin Labの設備。[Sungkyunkwan University]"
               },
               {
                 "t": "p",
-                "x": "University of TorontoのDaniel Littは「適応しなければ、50年後には数学がまったくなくなってしまう悪い未来がある」と語った。MITのPavel Etingofは、数学者がむしろAIの成果を解釈する役割を担うとみる。McGillのMarcel Gohのように、自らをAIの「ベジタリアン」と呼ぶ人もいる。"
-              },
-              {
-                "t": "p",
-                "x": "ChuらはAssociation for Human Mathematicsを結成し、数学者たちは教育や出版、採用のあり方を見直している。"
+                "x": "Lee氏は「ハイブリッドモデル[の開発]はおそらく80%まで来ている」と話す。残る20%は、モデルを制御システムや将来のロボットとつなぐ作業だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "数学家直面\nAI的突飞猛进",
-          "body": "面对AI的突飞猛进，数学家们悲伤又愤怒，正重新思考学科的激励机制以求生存。",
-          "mini_headline": "数学家直面AI冲击",
+          "headline": "混合数字孪生瞄准\n自主运行的生物工艺实验室",
+          "body": "Sungkyunkwan研究人员将机理细胞模型与可解释AI结合，目标是少人干预的实验室。",
+          "mini_headline": "面向自主实验室的数字孪生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-                "cap": "Eduardo Ramón for Quanta Magazine"
+                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
               },
               {
                 "t": "p",
-                "x": "9月8日，OpenAI宣布其模型解决了数学界最著名的难题之一，引发了关于作者身份和标准的争议。许多反应流露出悲伤、困惑与恐惧。在初创公司（start-up）Axiom Math的Ken Ono于Berkeley举行的讲座上，学生们以愤怒和沮丧回应。"
+                "x": "韩国研究人员正在开发一种结合机理建模与人工智能的数字孪生，希望最终实现人工干预极少的全自主实验室。Sungkyunkwan University的Bioprocess Digital Twin Lab负责人Dong-Yup Lee说：“我们一直专注于把这个机理模型与数据驱动（data-driven）的AI模型结合起来，打造一个混合模型。”"
               },
               {
                 "t": "p",
-                "x": "AI给出的证明虽经过验证，却几乎无法读懂，缺少了数学家赖以交流的理解。Caltech的Tasmin Chu说：“它打破了我们的体系。”OpenAI将100多项成果保密，arXiv现在限制每位作者每月只能投稿两篇，MathOverflow的活跃度也在下降。"
+                "x": "该孪生系统与采集生物反应器数据的多传感器（multi-sensory）系统持续相连，并利用Chinese Hamster Ovary（CHO）细胞的数学模型预测不同条件下的行为。由于仅靠机理预测缺乏实时精度，团队加入了可解释AI（XAI），用以显示哪些输入对工艺输出影响最大。"
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+                "cap": "Sungkyunkwan University的Bioprocess Digital Twin Lab实验装置。[Sungkyunkwan University]"
               },
               {
                 "t": "p",
-                "x": "“如果我们不适应，就会有一个糟糕的未来：50年后数学将不复存在。”University of Toronto的Daniel Litt说。MIT的Pavel Etingof则认为，数学家将转而解读AI的成果。也有人像McGill的Marcel Goh一样，自称AI“素食者”。"
-              },
-              {
-                "t": "p",
-                "x": "Chu等人成立了Association for Human Mathematics，数学家们正在重新思考培养、发表和招聘方式。"
+                "x": "Lee说：“混合模型[的开发]大概已完成80%。”剩下的20%是把模型与控制系统以及未来的机器人连接起来。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los matemáticos afrontan\nel súbito avance de la IA",
-          "body": "Los matemáticos afrontan con dolor y enojo el súbito avance de la IA y replantean sus incentivos para sobrevivir.",
-          "mini_headline": "Los matemáticos ante la IA",
+          "headline": "Gemelos digitales híbridos\npara laboratorios autónomos",
+          "body": "Investigadores de Sungkyunkwan unen modelos celulares mecanicistas y AI explicable para crear laboratorios autónomos.",
+          "mini_headline": "Gemelos digitales para laboratorios autónomos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
-                "cap": "Eduardo Ramón para Quanta Magazine"
+                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
               },
               {
                 "t": "p",
-                "x": "El 8 de septiembre, OpenAI anunció que sus modelos habían resuelto uno de los problemas más famosos de las matemáticas, lo que desató una polémica sobre la autoría y los estándares. Muchas reacciones revelaron dolor, confusión y miedo. En una charla en Berkeley de Ken Ono, de la start-up Axiom Math, los estudiantes reaccionaron con enojo y frustración."
+                "x": "Investigadores de Corea del Sur desarrollan un gemelo digital que combina modelado mecanicista con inteligencia artificial, con la esperanza de que algún día permita un laboratorio totalmente autónomo que funcione con una intervención humana mínima. \"Nos hemos centrado en combinar este modelo mecanicista con el modelo de AI basado en datos (data-driven) para crear un modelo híbrido\", afirma Dong-Yup Lee, director del Bioprocess Digital Twin Lab de Sungkyunkwan University."
               },
               {
                 "t": "p",
-                "x": "Las demostraciones de la IA están verificadas, pero son casi imposibles de leer, y dejan fuera la comprensión con la que trabajan los matemáticos. \"Rompe nuestro sistema\", dijo Tasmin Chu, de Caltech. OpenAI mantiene en secreto más de 100 resultados, arXiv limita ahora a los autores a dos envíos al mes y la actividad en MathOverflow está disminuyendo."
+                "x": "El gemelo está conectado de forma continua a un sistema multisensorial (multi-sensory) que recoge datos del biorreactor y utiliza modelos matemáticos de células Chinese Hamster Ovary (CHO) para predecir su comportamiento en distintas condiciones. Como las predicciones mecanicistas por sí solas carecen de precisión en tiempo real, el equipo añade AI explicable (XAI), que muestra qué entradas afectan más a los resultados del proceso."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+                "cap": "Instalación del Bioprocess Digital Twin Lab en Sungkyunkwan University. [Sungkyunkwan University]"
               },
               {
                 "t": "p",
-                "x": "\"Hay un futuro malo en el que, si no nos adaptamos, simplemente no habrá más matemáticas dentro de 50 años\", dijo Daniel Litt, de la University of Toronto. Pavel Etingof, del MIT, ve en cambio a los matemáticos interpretando resultados de la IA. Algunos, como Marcel Goh, de McGill, se definen como \"vegetarianos\" de la IA."
-              },
-              {
-                "t": "p",
-                "x": "Chu y otros fundaron la Association for Human Mathematics, y los matemáticos están replanteando la formación, la publicación y la contratación."
+                "x": "\"Probablemente estamos en un 80% en [el desarrollo de] el modelo híbrido\", dice Lee; el 20% restante consiste en conectar los modelos al sistema de control y a la futura robótica."
               }
             ]
           }
@@ -1461,15 +1171,15 @@
       }
     },
     {
-      "id": "science-halzen-nobel-icecube-ai",
+      "id": "science-coating-thickness-pitting-ml",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "노벨상 Halzen이\n돌아본 초기 AI 제안",
-      "body": "1991년 AI를 제안한 Halzen의 IceCube는 신경망으로 은하수를 봤다.",
-      "mini_headline": "노벨상 수상자의 이른 AI 제안",
+      "headline": "해석 가능한 AI가\n코팅 두께·내공식성 연결",
+      "body": "ML로 90개 시편을 보니 2,200 nm 두께 부근에서 거칠기 효과가 뒤집혔다.",
+      "mini_headline": "AI로 본 코팅 부식",
       "tool": "Science",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
+      "url": "https://phys.org/news/2026-10-ai-reveals-coating-thickness-link.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1477,155 +1187,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-            "cap": "Francis Halzen은 AI 덕분에 연구진이 중성미자 데이터에서 \"은하수를 보게\" 됐다고 말했다."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+            "cap": "네 가지 물리 기술자의 분리와, 높은 형태(higher-morphology) 영역의 약 2,200 nm 막 두께 부근에서 모델이 뒷받침하는(model-supported) 전이. 출처: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
           },
           {
             "t": "p",
-            "x": "University of Wisconsin-Madison의 노벨 물리학상 수상자 Francis Halzen(82)은 토리노(Turin)에서, 중성미자 연구에 일찍이 AI를 들이자고 주장했던 일을 자랑스럽게 돌아봤다. 남극 얼음 속에 광학 모듈 5,484개를 심은 IceCube를 구상한 사람이 바로 그다."
+            "x": "Shibaura Institute of Technology 연구진은 증기 코팅한(steam-coated) A6061-T6 알루미늄 시편 90개에 해석 가능한 머신러닝(machine-learning) 프레임워크를 적용했다. 막 두께, 표면 거칠기, 결정자 크기, 기판 전위 밀도 지수라는 네 가지 기술자를 5 wt.% 염화나트륨 용액에서 잰 공식 전위와 견줘 분석했다."
           },
           {
             "t": "p",
-            "x": "실험 데이터 분석을 두고 그는 \"최초의 신경망은 1980년대 후반에 나왔고, 1991년에 AI를 쓰자고 제안하는 논문을 쓴 것이 매우 자랑스럽다\"고 말했다. 몇 년 전 매우 강력한 신경망이 나오기 전까지 신경망은 가끔 쓰이는 데 그쳤다."
+            "x": "가장 중요한 예측 변수는 막 두께와 표면 거칠기였다. 거칠기가 약 600–1,080 nm 범위일 때 두 변수의 모델상 상호작용은 막 두께 2,200 nm 부근에서 부호가 바뀌었다. 거칠기가 더 낮을 때는 이런 반전이 없었다. 저자들은 거칠기가 얇은 막에서는 보호 피복을, 두꺼운 막에서는 구조적 불균일성을 반영할 수 있다고 본다. 다만 이 가설은 아직 실험 검증을 거쳐야 한다."
           },
           {
             "t": "p",
-            "x": "Halzen에 따르면 중성미자로 본 하늘에서는 은하수가 아니라 다른 은하들이 보인다. 신경망 덕분에 \"마침내 우리 데이터에서 은하수가 보이기 시작했다\"고 한다. 그는 과학계가 받는 예산 압박도 언급했다. IceCube는 미국 국립과학재단(U.S. National Science Foundation)에서 약 $250 million을 지원받았다."
+            "x": "Monte Carlo 분석에 따르면 예측 변동성 가운데 약 0.080 V 만큼은 측정 불확실성 탓이다. 모델 전체 RMSE는 0.292 V 수준이다. 연구는 npj Materials Degradation에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nobel winner Halzen recalls\nhis early push for AI",
-          "body": "Halzen's 1991 paper proposed AI to analyze physics data; neural networks later revealed the Milky Way in IceCube data.",
-          "mini_headline": "A Nobel laureate's early AI push",
+          "headline": "Interpretable AI links coating\nthickness to pitting resistance",
+          "body": "On 90 coated aluminum samples, interpretable ML finds roughness flips its pitting effect near 2,200 nm film thickness.",
+          "mini_headline": "AI maps coating corrosion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-                "cap": "Francis Halzen said AI helped researchers \"see the Milky Way\" in their data on neutrinos."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+                "cap": "Decoupling of four physical descriptors and a model-supported transition near a film thickness of about 2,200 nm in the higher-morphology regime. Credit: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
               },
               {
                 "t": "p",
-                "x": "Nobel physics laureate Francis Halzen, 82, of the University of Wisconsin-Madison, spoke with pride in Turin about his early promotion of AI in neutrino research. He is the mind behind IceCube, with 5,484 optical modules in the Antarctic ice."
+                "x": "Researchers at Shibaura Institute of Technology applied an interpretable machine-learning framework to 90 steam-coated A6061-T6 aluminum specimens. They analyzed four descriptors (film thickness, surface roughness, crystallite size and a substrate dislocation density index) against pitting potential measured in 5 wt.% sodium chloride solution."
               },
               {
                 "t": "p",
-                "x": "\"The first neural nets appeared in the late 1980s, and I am very proud that I wrote a paper in 1991 proposing to use AI\" to analyze experimental data, he said. Neural nets were used only occasionally until very powerful ones came along a few years ago."
+                "x": "Film thickness and surface roughness were the leading predictors. For roughness of about 600–1,080 nm, their modeled interaction changed sign near a film thickness of 2,200 nm; the reversal was not seen at lower roughness. The authors propose that roughness may reflect protective coverage in thinner films but structural irregularities in thicker ones, a hypothesis that still needs experimental testing."
               },
               {
                 "t": "p",
-                "x": "In the neutrino sky, Halzen said, you see other galaxies rather than the Milky Way. With neural networks, \"we finally began to see the Milky Way in our data.\" He also discussed funding pressures on science; IceCube has received about $250 million from the U.S. National Science Foundation."
+                "x": "A Monte Carlo analysis attributed about 0.080 V of prediction variability to measurement uncertainty, against an overall model RMSE of 0.292 V. The study is published in npj Materials Degradation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "노벨상 Halzen이\n돌아본 초기 AI 제안",
-          "body": "1991년 AI를 제안한 Halzen의 IceCube는 신경망으로 은하수를 봤다.",
-          "mini_headline": "노벨상 수상자의 이른 AI 제안",
+          "headline": "해석 가능한 AI가\n코팅 두께·내공식성 연결",
+          "body": "ML로 90개 시편을 보니 2,200 nm 두께 부근에서 거칠기 효과가 뒤집혔다.",
+          "mini_headline": "AI로 본 코팅 부식",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-                "cap": "Francis Halzen은 AI 덕분에 연구진이 중성미자 데이터에서 \"은하수를 보게\" 됐다고 말했다."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+                "cap": "네 가지 물리 기술자의 분리와, 높은 형태(higher-morphology) 영역의 약 2,200 nm 막 두께 부근에서 모델이 뒷받침하는(model-supported) 전이. 출처: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
               },
               {
                 "t": "p",
-                "x": "University of Wisconsin-Madison의 노벨 물리학상 수상자 Francis Halzen(82)은 토리노(Turin)에서, 중성미자 연구에 일찍이 AI를 들이자고 주장했던 일을 자랑스럽게 돌아봤다. 남극 얼음 속에 광학 모듈 5,484개를 심은 IceCube를 구상한 사람이 바로 그다."
+                "x": "Shibaura Institute of Technology 연구진은 증기 코팅한(steam-coated) A6061-T6 알루미늄 시편 90개에 해석 가능한 머신러닝(machine-learning) 프레임워크를 적용했다. 막 두께, 표면 거칠기, 결정자 크기, 기판 전위 밀도 지수라는 네 가지 기술자를 5 wt.% 염화나트륨 용액에서 잰 공식 전위와 견줘 분석했다."
               },
               {
                 "t": "p",
-                "x": "실험 데이터 분석을 두고 그는 \"최초의 신경망은 1980년대 후반에 나왔고, 1991년에 AI를 쓰자고 제안하는 논문을 쓴 것이 매우 자랑스럽다\"고 말했다. 몇 년 전 매우 강력한 신경망이 나오기 전까지 신경망은 가끔 쓰이는 데 그쳤다."
+                "x": "가장 중요한 예측 변수는 막 두께와 표면 거칠기였다. 거칠기가 약 600–1,080 nm 범위일 때 두 변수의 모델상 상호작용은 막 두께 2,200 nm 부근에서 부호가 바뀌었다. 거칠기가 더 낮을 때는 이런 반전이 없었다. 저자들은 거칠기가 얇은 막에서는 보호 피복을, 두꺼운 막에서는 구조적 불균일성을 반영할 수 있다고 본다. 다만 이 가설은 아직 실험 검증을 거쳐야 한다."
               },
               {
                 "t": "p",
-                "x": "Halzen에 따르면 중성미자로 본 하늘에서는 은하수가 아니라 다른 은하들이 보인다. 신경망 덕분에 \"마침내 우리 데이터에서 은하수가 보이기 시작했다\"고 한다. 그는 과학계가 받는 예산 압박도 언급했다. IceCube는 미국 국립과학재단(U.S. National Science Foundation)에서 약 $250 million을 지원받았다."
+                "x": "Monte Carlo 분석에 따르면 예측 변동성 가운데 약 0.080 V 만큼은 측정 불확실성 탓이다. 모델 전체 RMSE는 0.292 V 수준이다. 연구는 npj Materials Degradation에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ノーベル賞Halzen\n早期のAI推進を回想",
-          "body": "Halzenは1991年にAI活用を提案し、後に神経網がIceCubeで天の川を捉えた。",
-          "mini_headline": "ノーベル賞学者の早期のAI推進",
+          "headline": "解釈可能なAIが\n膜厚と耐孔食性を結びつける",
+          "body": "90個のアルミ試料で、MLは膜厚2,200 nm 付近で粗さの孔食効果が反転すると示した。",
+          "mini_headline": "AIで読み解くコーティング腐食",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-                "cap": "Francis Halzenは、AIのおかげで研究者がニュートリノのデータの中に「天の川を見る」ことができたと語った。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+                "cap": "4つの物理記述子の分離と、高モルフォロジー(higher-morphology)領域における膜厚約2,200 nm 付近でのモデルに支持された(model-supported)転移。提供:Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
               },
               {
                 "t": "p",
-                "x": "University of Wisconsin-Madisonのノーベル物理学賞受賞者Francis Halzen(82)は、トリノ(Turin)で、ニュートリノ研究にいち早くAIを取り入れようと訴えたことを誇らしげに語った。彼は南極の氷の中に5,484個の光学モジュールを備えたIceCubeの生みの親である。"
+                "x": "Shibaura Institute of Technologyの研究チームは、蒸気コーティングした(steam-coated)A6061-T6アルミニウム試料90個に、解釈可能な機械学習(machine-learning)フレームワークを適用した。膜厚、表面粗さ、結晶子サイズ、基材の転位密度指数という4つの記述子を、5 wt.% 塩化ナトリウム溶液中で測定した孔食電位と照らし合わせて解析した。"
               },
               {
                 "t": "p",
-                "x": "「最初のニューラルネットは1980年代後半に登場した。1991年に、AIを使うことを提案する論文を書いたことをとても誇りに思う」と彼は実験データの解析について語った。ニューラルネットは、数年前に非常に強力なものが登場するまで、たまにしか使われなかった。"
+                "x": "主要な予測因子は膜厚と表面粗さだった。粗さが約600–1,080 nm の範囲では、両者のモデル上の相互作用が膜厚2,200 nm 付近で符号を変えた。粗さが低い場合、この反転は見られなかった。著者らは、粗さが薄い膜では保護的な被覆を、厚い膜では構造的な不規則性を反映している可能性があると提案するが、この仮説はまだ実験による検証が必要だ。"
               },
               {
                 "t": "p",
-                "x": "Halzenによれば、ニュートリノで見た空では、天の川ではなく他の銀河が見える。ニューラルネットワークによって「ようやくデータの中に天の川が見え始めた」という。彼は科学への資金面の圧力についても語った。IceCubeはU.S. National Science Foundation(米国立科学財団)から約$250 millionの資金を受けている。"
+                "x": "Monte Carlo解析では、予測のばらつきのうち約0.080 V 分が測定の不確かさに起因するとされ、モデル全体のRMSEは0.292 V だった。研究はnpj Materials Degradationに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "诺奖得主Halzen\n忆早年力推AI",
-          "body": "Halzen在1991年提议用AI分析数据，神经网络后来在IceCube数据中揭示银河。",
-          "mini_headline": "诺奖得主早年力推AI",
+          "headline": "可解释AI揭示涂层厚度\n与抗点蚀性能的关联",
+          "body": "可解释ML分析90个涂层铝样品，发现粗糙度对点蚀的影响在膜厚2,200 nm 附近反转。",
+          "mini_headline": "AI解析涂层腐蚀",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-                "cap": "Francis Halzen表示，AI帮助研究人员在中微子数据中“看到了银河”。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+                "cap": "四个物理描述符的解耦，以及在高形貌（higher-morphology）区域中膜厚约2,200 nm 附近出现的模型支持（model-supported）转变。图片来源：Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
               },
               {
                 "t": "p",
-                "x": "82岁的诺贝尔物理学奖得主、University of Wisconsin-Madison的Francis Halzen在都灵（Turin）自豪地谈起自己早年在中微子研究中推动AI的经历。他是IceCube的构想者，该项目在南极冰层中布设了5,484个光学模块。"
+                "x": "Shibaura Institute of Technology的研究人员将可解释的机器学习（machine-learning）框架应用于90个经蒸汽涂层（steam-coated）处理的A6061-T6铝试样，分析了膜厚、表面粗糙度、微晶尺寸和基体位错密度指数这四个描述符与在5 wt.% 氯化钠溶液中测得的点蚀电位之间的关系。"
               },
               {
                 "t": "p",
-                "x": "“最早的神经网络出现在1980年代末，我非常自豪自己在1991年写了一篇论文，提议用AI”分析实验数据，他说。在几年前出现非常强大的神经网络之前，神经网络只是偶尔被使用。"
+                "x": "膜厚和表面粗糙度是最主要的预测因子。在粗糙度约为600–1,080 nm 时，两者在模型中的交互作用在膜厚2,200 nm 附近改变符号；粗糙度较低时未见这种反转。作者提出，粗糙度在较薄的膜中可能反映保护性覆盖，而在较厚的膜中则反映结构不规则性，但这一假设仍需实验验证。"
               },
               {
                 "t": "p",
-                "x": "Halzen说，在中微子天空中，人们看到的是其他星系，而不是银河。借助神经网络，“我们终于开始在数据中看到银河”。他还谈到了科学面临的经费压力；IceCube已从U.S. National Science Foundation（美国国家科学基金会）获得约$250 million资助。"
+                "x": "Monte Carlo分析显示，在模型整体RMSE为0.292 V 的情况下，约0.080 V 的预测波动来自测量不确定性。该研究发表于npj Materials Degradation。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El nobel Halzen recuerda\nsu temprano impulso a la IA",
-          "body": "Halzen propuso en 1991 usar IA con datos de física; luego, redes neuronales revelaron la Vía Láctea en IceCube.",
-          "mini_headline": "El temprano impulso de un nobel a la IA",
+          "headline": "AI interpretable vincula grosor\ny resistencia a la picadura",
+          "body": "En 90 muestras de aluminio, un ML interpretable halla que la rugosidad invierte su efecto cerca de 2,200 nm de espesor.",
+          "mini_headline": "La AI mapea la corrosión de recubrimientos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-                "cap": "Francis Halzen dijo que la IA ayudó a los investigadores a \"ver la Vía Láctea\" en sus datos de neutrinos."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+                "cap": "Desacoplamiento de cuatro descriptores físicos y una transición respaldada por el modelo (model-supported) cerca de un espesor de película de unos 2,200 nm en el régimen de mayor morfología (higher-morphology). Crédito: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
               },
               {
                 "t": "p",
-                "x": "El premio Nobel de Física Francis Halzen, de 82 años, de la University of Wisconsin-Madison, habló con orgullo en Turín de su temprana promoción de la IA en la investigación de neutrinos. Es la mente detrás de IceCube, con 5,484 módulos ópticos en el hielo antártico."
+                "x": "Investigadores del Shibaura Institute of Technology aplicaron un marco interpretable de aprendizaje automático (machine-learning) a 90 probetas de aluminio A6061-T6 recubiertas con vapor (steam-coated). Analizaron cuatro descriptores (espesor de película, rugosidad superficial, tamaño de cristalito y un índice de densidad de dislocaciones del sustrato) frente al potencial de picadura medido en una solución de cloruro de sodio al 5 wt.%."
               },
               {
                 "t": "p",
-                "x": "\"Las primeras redes neuronales aparecieron a finales de los años 1980, y estoy muy orgulloso de haber escrito en 1991 un artículo que proponía usar la IA\" para analizar datos experimentales, dijo. Las redes neuronales solo se usaron de forma ocasional hasta que, hace unos años, llegaron unas muy potentes."
+                "x": "El espesor de película y la rugosidad superficial fueron los principales predictores. Con una rugosidad de unos 600–1,080 nm, su interacción modelada cambió de signo cerca de un espesor de película de 2,200 nm; la inversión no se observó con rugosidades menores. Los autores proponen que la rugosidad podría reflejar una cobertura protectora en películas más delgadas, pero irregularidades estructurales en las más gruesas, una hipótesis que aún requiere comprobación experimental."
               },
               {
                 "t": "p",
-                "x": "En el cielo de neutrinos, dijo Halzen, se ven otras galaxias en lugar de la Vía Láctea. Con las redes neuronales, \"por fin empezamos a ver la Vía Láctea en nuestros datos\". También habló de las presiones de financiación sobre la ciencia; IceCube ha recibido unos 250 millones de dólares de la U.S. National Science Foundation."
+                "x": "Un análisis de Monte Carlo atribuyó unos 0.080 V de la variabilidad de las predicciones a la incertidumbre de medición, frente a un RMSE global del modelo de 0.292 V. El estudio se publica en npj Materials Degradation."
               }
             ]
           }
@@ -1633,109 +1343,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "노벨상 Halzen이\n돌아본 초기 AI 제안",
-          "body": "1991년 AI를 제안한 Halzen의 IceCube는 신경망으로 은하수를 봤다.",
-          "mini_headline": "노벨상 수상자의 이른 AI 제안",
+          "headline": "해석 가능한 AI가\n코팅 두께·내공식성 연결",
+          "body": "ML이 90개 시편에서 2,200 nm 두께 부근 거칠기 효과 역전을 확인했다.",
+          "mini_headline": "AI로 본 코팅 부식",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-                "cap": "Francis Halzen은 AI 덕분에 연구진이 중성미자 데이터에서 \"은하수를 보게\" 됐다고 말했다."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+                "cap": "네 가지 물리 기술자의 분리와, 높은 형태(higher-morphology) 영역의 약 2,200 nm 막 두께 부근에서 모델이 뒷받침하는(model-supported) 전이. 출처: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
               },
               {
                 "t": "p",
-                "x": "University of Wisconsin-Madison의 노벨 물리학상 수상자 Francis Halzen(82)은 토리노(Turin)에서 중성미자 연구에 AI를 일찍이 도입하자고 주장했던 일을 자랑스럽게 이야기했다. 그는 남극 얼음 속에 광학 모듈 5,484개를 설치한 IceCube를 구상한 인물이다."
+                "x": "Shibaura Institute of Technology 연구진은 증기 코팅한(steam-coated) A6061-T6 알루미늄 시편 90개에 해석 가능한 머신러닝(machine-learning) 프레임워크를 적용했다. 막 두께, 표면 거칠기, 결정자 크기, 기판 전위 밀도 지수 등 네 가지 기술자를 5 wt.% 염화나트륨 용액에서 측정한 공식 전위와 비교해 분석했다."
               },
               {
                 "t": "p",
-                "x": "\"최초의 신경망은 1980년대 후반에 나왔고, 1991년에 AI를 쓰자고 제안하는 논문을 쓴 것이 매우 자랑스럽다\"고 그는 실험 데이터 분석을 두고 말했다. 신경망은 몇 년 전 매우 강력한 신경망이 등장하기 전까지는 가끔씩만 쓰였다."
+                "x": "막 두께와 표면 거칠기가 가장 중요한 예측 변수였다. 거칠기가 약 600–1,080 nm 범위일 때 두 변수의 모델상 상호작용은 막 두께 2,200 nm 부근에서 부호가 바뀌었고, 거칠기가 더 낮을 때는 이런 반전이 보이지 않았다. 저자들은 거칠기가 얇은 막에서는 보호 피복을, 두꺼운 막에서는 구조적 불균일성을 반영할 수 있다고 제안하지만, 이 가설은 아직 실험으로 검증해야 한다."
               },
               {
                 "t": "p",
-                "x": "Halzen은 중성미자로 본 하늘에서는 은하수가 아니라 다른 은하들이 보인다고 말했다. 신경망 덕분에 \"마침내 우리 데이터에서 은하수가 보이기 시작했다\"는 것이다. 그는 과학계가 받는 예산 압박에 대해서도 이야기했다. IceCube는 미국 국립과학재단(U.S. National Science Foundation)으로부터 약 $250 million을 지원받았다."
+                "x": "Monte Carlo 분석은 예측 변동성 중 약 0.080 V 만큼을 측정 불확실성 탓으로 보았다. 모델 전체의 RMSE는 0.292 V 수준이다. 연구는 npj Materials Degradation에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ノーベル賞Halzen\n早期のAI推進を回想",
-          "body": "Halzenは1991年にAI活用を提案し、後に神経網がIceCubeで天の川を捉えた。",
-          "mini_headline": "ノーベル賞学者の早期のAI推進",
+          "headline": "解釈可能なAIが\n膜厚と耐孔食性を結びつける",
+          "body": "90個のアルミ試料で、MLは膜厚2,200 nm 付近で粗さの孔食効果が反転すると示した。",
+          "mini_headline": "AIで読み解くコーティング腐食",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-                "cap": "Francis Halzenは、AIのおかげで研究者がニュートリノのデータの中に「天の川を見る」ことができたと語った。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+                "cap": "4つの物理記述子の分離と、高モルフォロジー(higher-morphology)領域における膜厚約2,200 nm 付近でのモデルに支持された(model-supported)転移。提供:Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
               },
               {
                 "t": "p",
-                "x": "University of Wisconsin-Madisonのノーベル物理学賞受賞者Francis Halzen(82)は、トリノ(Turin)で、ニュートリノ研究にいち早くAIを取り入れようと訴えたことを誇らしげに語った。彼は南極の氷の中に5,484個の光学モジュールを備えたIceCubeの生みの親である。"
+                "x": "Shibaura Institute of Technologyの研究チームは、蒸気コーティングした(steam-coated)A6061-T6アルミニウム試料90個に、解釈可能な機械学習(machine-learning)フレームワークを適用した。膜厚、表面粗さ、結晶子サイズ、基材の転位密度指数という4つの記述子を、5 wt.% 塩化ナトリウム溶液中で測定した孔食電位と照らし合わせて解析した。"
               },
               {
                 "t": "p",
-                "x": "「最初のニューラルネットは1980年代後半に登場した。1991年に、AIを使うことを提案する論文を書いたことをとても誇りに思う」と彼は実験データの解析について語った。ニューラルネットは、数年前に非常に強力なものが登場するまで、たまにしか使われなかった。"
+                "x": "主要な予測因子は膜厚と表面粗さだった。粗さが約600–1,080 nm の範囲では、両者のモデル上の相互作用が膜厚2,200 nm 付近で符号を変えた。粗さが低い場合、この反転は見られなかった。著者らは、粗さが薄い膜では保護的な被覆を、厚い膜では構造的な不規則性を反映している可能性があると提案するが、この仮説はまだ実験による検証が必要だ。"
               },
               {
                 "t": "p",
-                "x": "Halzenによれば、ニュートリノで見た空では、天の川ではなく他の銀河が見える。ニューラルネットワークによって「ようやくデータの中に天の川が見え始めた」という。彼は科学への資金面の圧力についても語った。IceCubeはU.S. National Science Foundation(米国立科学財団)から約$250 millionの資金を受けている。"
+                "x": "Monte Carlo解析では、予測のばらつきのうち約0.080 V 分が測定の不確かさに起因するとされ、モデル全体のRMSEは0.292 V だった。研究はnpj Materials Degradationに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "诺奖得主Halzen\n忆早年力推AI",
-          "body": "Halzen在1991年提议用AI分析数据，神经网络后来在IceCube数据中揭示银河。",
-          "mini_headline": "诺奖得主早年力推AI",
+          "headline": "可解释AI揭示涂层厚度\n与抗点蚀性能的关联",
+          "body": "可解释ML分析90个涂层铝样品，发现粗糙度对点蚀的影响在膜厚2,200 nm 附近反转。",
+          "mini_headline": "AI解析涂层腐蚀",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-                "cap": "Francis Halzen表示，AI帮助研究人员在中微子数据中“看到了银河”。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+                "cap": "四个物理描述符的解耦，以及在高形貌（higher-morphology）区域中膜厚约2,200 nm 附近出现的模型支持（model-supported）转变。图片来源：Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
               },
               {
                 "t": "p",
-                "x": "82岁的诺贝尔物理学奖得主、University of Wisconsin-Madison的Francis Halzen在都灵（Turin）自豪地谈起自己早年在中微子研究中推动AI的经历。他是IceCube的构想者，该项目在南极冰层中布设了5,484个光学模块。"
+                "x": "Shibaura Institute of Technology的研究人员将可解释的机器学习（machine-learning）框架应用于90个经蒸汽涂层（steam-coated）处理的A6061-T6铝试样，分析了膜厚、表面粗糙度、微晶尺寸和基体位错密度指数这四个描述符与在5 wt.% 氯化钠溶液中测得的点蚀电位之间的关系。"
               },
               {
                 "t": "p",
-                "x": "“最早的神经网络出现在1980年代末，我非常自豪自己在1991年写了一篇论文，提议用AI”分析实验数据，他说。在几年前出现非常强大的神经网络之前，神经网络只是偶尔被使用。"
+                "x": "膜厚和表面粗糙度是最主要的预测因子。在粗糙度约为600–1,080 nm 时，两者在模型中的交互作用在膜厚2,200 nm 附近改变符号；粗糙度较低时未见这种反转。作者提出，粗糙度在较薄的膜中可能反映保护性覆盖，而在较厚的膜中则反映结构不规则性，但这一假设仍需实验验证。"
               },
               {
                 "t": "p",
-                "x": "Halzen说，在中微子天空中，人们看到的是其他星系，而不是银河。借助神经网络，“我们终于开始在数据中看到银河”。他还谈到了科学面临的经费压力；IceCube已从U.S. National Science Foundation（美国国家科学基金会）获得约$250 million资助。"
+                "x": "Monte Carlo分析显示，在模型整体RMSE为0.292 V 的情况下，约0.080 V 的预测波动来自测量不确定性。该研究发表于npj Materials Degradation。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El nobel Halzen recuerda\nsu temprano impulso a la IA",
-          "body": "Halzen propuso en 1991 usar IA con datos de física; luego, redes neuronales revelaron la Vía Láctea en IceCube.",
-          "mini_headline": "El temprano impulso de un nobel a la IA",
+          "headline": "AI interpretable vincula grosor\ny resistencia a la picadura",
+          "body": "En 90 muestras de aluminio, un ML interpretable halla que la rugosidad invierte su efecto cerca de 2,200 nm de espesor.",
+          "mini_headline": "La AI mapea la corrosión de recubrimientos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
-                "cap": "Francis Halzen dijo que la IA ayudó a los investigadores a \"ver la Vía Láctea\" en sus datos de neutrinos."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+                "cap": "Desacoplamiento de cuatro descriptores físicos y una transición respaldada por el modelo (model-supported) cerca de un espesor de película de unos 2,200 nm en el régimen de mayor morfología (higher-morphology). Crédito: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
               },
               {
                 "t": "p",
-                "x": "El premio Nobel de Física Francis Halzen, de 82 años, de la University of Wisconsin-Madison, habló con orgullo en Turín de su temprana promoción de la IA en la investigación de neutrinos. Es la mente detrás de IceCube, con 5,484 módulos ópticos en el hielo antártico."
+                "x": "Investigadores del Shibaura Institute of Technology aplicaron un marco interpretable de aprendizaje automático (machine-learning) a 90 probetas de aluminio A6061-T6 recubiertas con vapor (steam-coated). Analizaron cuatro descriptores (espesor de película, rugosidad superficial, tamaño de cristalito y un índice de densidad de dislocaciones del sustrato) frente al potencial de picadura medido en una solución de cloruro de sodio al 5 wt.%."
               },
               {
                 "t": "p",
-                "x": "\"Las primeras redes neuronales aparecieron a finales de los años 1980, y estoy muy orgulloso de haber escrito en 1991 un artículo que proponía usar la IA\" para analizar datos experimentales, dijo. Las redes neuronales solo se usaron de forma ocasional hasta que, hace unos años, llegaron unas muy potentes."
+                "x": "El espesor de película y la rugosidad superficial fueron los principales predictores. Con una rugosidad de unos 600–1,080 nm, su interacción modelada cambió de signo cerca de un espesor de película de 2,200 nm; la inversión no se observó con rugosidades menores. Los autores proponen que la rugosidad podría reflejar una cobertura protectora en películas más delgadas, pero irregularidades estructurales en las más gruesas, una hipótesis que aún requiere comprobación experimental."
               },
               {
                 "t": "p",
-                "x": "En el cielo de neutrinos, dijo Halzen, se ven otras galaxias en lugar de la Vía Láctea. Con las redes neuronales, \"por fin empezamos a ver la Vía Láctea en nuestros datos\". También habló de las presiones de financiación sobre la ciencia; IceCube ha recibido unos 250 millones de dólares de la U.S. National Science Foundation."
+                "x": "Un análisis de Monte Carlo atribuyó unos 0.080 V de la variabilidad de las predicciones a la incertidumbre de medición, frente a un RMSE global del modelo de 0.292 V. El estudio se publica en npj Materials Degradation."
               }
             ]
           }

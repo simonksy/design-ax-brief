@@ -656,6 +656,128 @@
           "x": "Es la misma capa de ventas orientada a holdings que Meta y Google usan para asegurar un gasto recurrente."
         }
       ]
+    },
+    "marketing/retail-platforms-block-ai-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "A medida que el mercado de agentes de inteligencia artificial (IA) crece con rapidez, las plataformas de comercio adoptan posturas distintas. Si un agente de IA busca y paga en nombre del usuario, el punto de contacto con el usuario pasa a ser el agente de IA y no la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Amazon bloqueó recientemente el acceso de Muse, el agente de IA de Meta, alegando una violación de sus términos de uso, cuando intentó buscar y comprar productos en Amazon en nombre de los usuarios. Sostiene que Meta no obtuvo autorización previa y que el agente no indicó con claridad que era una IA. eBay también modificó sus condiciones en febrero para prohibir el acceso no autorizado de agentes de compra de IA de terceros."
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "En cambio, Google presentó en enero junto a Shopify un estándar abierto de comercio (UCP) y empezó en la India una prueba de compras directas a través de Gemini. El día 6, Meta, Walmart, Shopify, Stripe y otras empresas acordaron crear un estándar común para verificar la identidad de los agentes de IA y los permisos que se les delegan."
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Cuando un agente de IA se encarga de buscar, comparar y pagar, los usuarios dejan de pasar por las apps y los buscadores, y se debilitan activos clave de las plataformas como la exposición publicitaria, los algoritmos de recomendación, los datos de comportamiento de los clientes y la fidelización mediante membresías. En Corea, Naver restringe el acceso de agentes externos y amplía sus propias funciones de agente de IA para compras, y Coupang, líder del comercio electrónico en el país, también impide que una IA externa realice pagos en su app."
+        }
+      ]
+    },
+    "marketing/ias-youtube-ai-slop-filter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Integral Ad Science amplió el 30 de septiembre de 2026 su producto Low-Quality GenAI Avoidance (evitación de contenido generative-AI de baja calidad) a YouTube, lo que permite a los anunciantes alejar sus campañas del vídeo de IA producido en masa. Está disponible en todo el mundo a través de los productos YouTube Optimization y Total Media Quality de IAS, y se activa mediante un representante de cuenta. IAS afirma que llegarán más «plataformas sociales y de vídeo», sin nombrarlas."
+        },
+        {
+          "t": "p",
+          "x": "Tiene tres componentes: el AI slop pasa a ser una categoría en los perfiles de Custom Brand Suitability; Automated Avoidance excluye contenido antes de la puja «con actualizaciones automáticas diarias»; y los informes TMQ posteriores a la puja incluyen tasas de AVOC. Las clasificaciones se elaboran «con señales contextuales de la YouTube Data API y no son revisadas por Google»."
+        },
+        {
+          "t": "p",
+          "x": "La publicación no ofrece tasa de precisión, idiomas, precios ni efecto en el alcance, y no menciona Shorts ni CTV. Un estudio de Kapwing halló que el 21 % de los primeros 500 Shorts mostrados a una cuenta nueva eran AI slop, y que los principales canales de slop ganaban un estimado de entre 4 millones y 4,25 millones de dólares al año con anuncios."
+        }
+      ]
+    },
+    "marketing/naver-ai-briefing-ad-results": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
+          "cap": "Imagen informativa de ‘if(kakao)26’, que Kakao celebrará del 13 al 14 en el Kakao AI Campus de Yongin, provincia de Gyeonggi. Foto: Kakao"
+        },
+        {
+          "t": "p",
+          "x": "Naver y Kakao están combinando la inteligencia artificial (IA) con sus servicios existentes para conectar la intención de los usuarios con la publicidad, el comercio y los pagos. ‘AI Briefing’ de Naver superó los 30 millones de usuarios mensuales en julio, y Kakao prevé alcanzar 10 millones de MAU para su IA agéntica basada en KakaoTalk antes de fin de año."
+        },
+        {
+          "t": "p",
+          "x": "Naver fue la primera en constatar resultados de ingresos en la búsqueda con IA. Los anuncios AI Briefing, lanzados a finales de julio, registraron una tasa de clics más de un 30 % superior a la de los anuncios de búsqueda tradicionales. La tasa de conversión de compra fue más del triple. La contribución de la IA al aumento de los ingresos publicitarios del segundo trimestre de este año también superó el 60 %. Naver planea extender la intención de búsqueda detectada en AI Briefing y la pestaña de IA a compras, lugares y reservas, y conectarla después con los pagos de Naver Pay."
+        },
+        {
+          "t": "p",
+          "x": "Kakao presentará los días 13 y 14, en ‘if(kakao)26’, su ‘capa de IA’ y la estrategia de sus modelos Kanana. Conectará la intención detectada en las conversaciones con la búsqueda de productos, las recomendaciones, las reservas, los pedidos y los pagos, y ampliará su alcance de ejecución con la plataforma abierta ‘PlayMCP’ (más de 3.400 herramientas y más de 100.000 llamadas al día). Para 2028 aspira a que la IA alcance una cuota de dos dígitos en los ingresos de Talk Biz."
+        }
+      ]
+    },
+    "marketing/ai-ad-consumer-backlash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Crece el número de consumidores que dicen sentir rechazo hacia los anuncios creados con IA generativa. Señalan que la falta de naturalidad propia de las imágenes de IA reduce, de hecho, las ganas de comprar. Lim Hyun-seo (28), que vio imágenes de modelos de IA luciendo prendas en una plataforma de moda en línea, dijo: \"Me pregunto cómo voy a fiarme de imágenes de IA como estas para comprar ropa\". En las redes sociales aparecieron reacciones como \"Las fotos del menú de la pollería de mi barrio están hechas con IA y me dan escalofríos cada vez que las veo\"."
+        },
+        {
+          "t": "p",
+          "x": "También hubo críticas de quienes dicen perder la confianza en las empresas que hacen anuncios con IA para ahorrar dinero. Otros afirman sentirse cansados de los anuncios en vídeo hechos con IA que se repiten en YouTube y otras plataformas."
+        },
+        {
+          "t": "img",
+          "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Park Eun-a, del departamento de Psicología de la Universidad de Daegu, afirmó que \"los anuncios con IA son una cuestión de autenticidad\" y explicó que, cuanto mayor es el uso de IA que el consumidor percibe en la producción de un anuncio, menor es la autenticidad que le atribuye. Lee Eun-hee, del departamento de Ciencias del Consumo de la Universidad Inha, subrayó que \"usar imágenes de IA para reducir costes puede acabar siendo un acto que resta confianza\"."
+        }
+      ]
+    },
+    "marketing/muse-agent-traffic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+          "cap": "Un portero pulsa su contador ante clones de papel naranjas que superan a cada rival 2.34 a 1"
+        },
+        {
+          "t": "p",
+          "x": "HUMAN Security afirmó en una entrada de blog fechada el 28 de septiembre de 2026 que, según sus primeras observaciones, el agente Muse de Meta concentra de media el 72% de las peticiones diarias de tipo AI-agent, con un volumen diario 5.2 veces superior al de ChatGPT Agent, el segundo mayor. Para el 27 de septiembre, las peticiones diarias de Muse superaban en 2.34 veces a las de todos los demás agentes medidos juntos."
+        },
+        {
+          "t": "p",
+          "x": "La entrada no ofrece recuentos de peticiones, tamaño de muestra, periodo de observación ni una definición de petición. HUMAN atribuye el ritmo al precio, a un generoso nivel gratuito con un agente de navegador integrado y al alcance a través de Facebook, Instagram, Messenger y WhatsApp. Según se informa, para el 21 de septiembre Muse ya había superado los 2.5 millones de descargas."
+        },
+        {
+          "t": "p",
+          "x": "El 84% de las peticiones de Muse se dirige a páginas de producto y de búsqueda, y Muse tiene un 25% más de probabilidades que otros agentes de AI de llegar a páginas de pago. Contar a los agentes como tráfico de bots indiferenciado, o tratar una sesión de agente como humana, \"puede distorsionar las tasas de conversión, el rendimiento del embudo, la atribución y las señales de fraude\", señala la entrada."
+        },
+        {
+          "t": "p",
+          "x": "HUMAN vende detección de bots y agentes, y sus cifras proceden de su propia plataforma, sin que se cite ninguna medición independiente."
+        }
+      ]
     }
   }
 }

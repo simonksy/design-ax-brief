@@ -1,32 +1,31 @@
 {
-  "date": "2026-10-11",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-etruscan-tomb-acoustics",
-      "type": "video",
-      "src": "pipeline/media/science-etruscan-tomb-acoustics.mp4",
-      "poster": "pipeline/media/science-etruscan-tomb-acoustics.jpg"
-    },
-    {
-      "id": "science-chatbots-climate-status-quo",
-      "type": "image",
-      "src": "pipeline/media/science-chatbots-climate-status-quo.jpg"
-    },
-    {
-      "id": "science-patent-attorney-ai-rct",
-      "type": "image",
-      "src": "pipeline/media/science-patent-attorney-ai-rct.jpg"
-    },
-    {
-      "id": "science-quanta-math-ai-reckoning",
-      "type": "image",
-      "src": "pipeline/media/science-quanta-math-ai-reckoning.jpg"
-    },
-    {
-      "id": "science-halzen-nobel-icecube-ai",
-      "type": "image",
-      "src": "pipeline/media/science-halzen-nobel-icecube-ai.jpg"
-    }
-  ]
+ "date": "2026-10-12",
+ "section": "science",
+ "media": [
+  {
+   "id": "science-lensless-cell-imaging-sfpulse",
+   "type": "image",
+   "src": "pipeline/media/science-lensless-cell-imaging-sfpulse.jpg"
+  },
+  {
+   "id": "science-ntu-lace-llm-heuristics",
+   "type": "image",
+   "src": "pipeline/media/science-ntu-lace-llm-heuristics.jpg"
+  },
+  {
+   "id": "science-image-ai-face-orientation-stereotypes",
+   "type": "image",
+   "src": "pipeline/media/science-image-ai-face-orientation-stereotypes.jpg"
+  },
+  {
+   "id": "science-hybrid-digital-twin-autonomous-biolab",
+   "type": "image",
+   "src": "pipeline/media/science-hybrid-digital-twin-autonomous-biolab.jpg"
+  },
+  {
+   "id": "science-coating-thickness-pitting-ml",
+   "type": "image",
+   "src": "pipeline/media/science-coating-thickness-pitting-ml.jpg"
+  }
+ ]
 }

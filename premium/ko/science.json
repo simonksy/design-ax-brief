@@ -11407,6 +11407,123 @@
           "x": "\"이것은 분수와 SAT 문제에 관한 이야기가 아니다.\" Christian의 말이다. \"인간의 지식과 인간의 전문성에 위에서 아래까지 일어나고 있는 일이다.\""
         }
       ]
+    },
+    "science/science-ntu-lace-llm-heuristics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+          "cap": "직접 만든 LACE 모델을 소개하는 Research Fellow Dr Gong Huatian(L)과 Asst Prof Yan Ran. 출처: NTU Singapore."
+        },
+        {
+          "t": "p",
+          "x": "Nanyang Technological University, Singapore(NTU) 연구진이 AI 프레임워크 LACE(LLM-driven Algorithm Construction via Complementary Evolution)를 개발했다. 일상 언어(plain-language)로 쓴 문제 설명만 넣으면 의사결정(decision-making) 소프트웨어를 만들어 준다. 전문 엔지니어에게 몇 달 걸리던 일을 약 한 시간으로 줄였다."
+        },
+        {
+          "t": "p",
+          "x": "LACE는 문제를 모듈 단위로 쪼갠 뒤 서로 보완하는 전문 휴리스틱 팀을 진화시켜 이를 처리한다. 컨테이너 터미널, 예인선 경로 설정 등 새로운 해운 문제 네 가지로 시험하자 비교한 모든 방법의 최고 결과 대비 97%에서 99% 수준까지 올라왔고, 문제당 계산 비용은 US$10 미만이었다. Google의 FunSearch 등 LLM-based 경쟁 시스템은 실행 가능한 해조차 내지 못했다."
+        },
+        {
+          "t": "p",
+          "x": "Asst Prof Yan Ran과 Dr Gong Huatian이 이끈 연구팀은 소규모 팀, 지역 물류 거점, 공공보건 기관, 유틸리티 기업이 이 방식의 덕을 볼 수 있다고 말한다. Yan은 \"더 큰 AI 모델을 만드는 것만이 아니라 AI 프레임워크를 영리하게 설계하는 것으로 이 격차를 메울 수 있다\"고 말했다. 연구 결과는 Nature Machine Intelligence에 실렸다."
+        }
+      ]
+    },
+    "science/science-image-ai-face-orientation-stereotypes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+          "cap": "주요 상업용 이미지 생성(image-generating) AI 모델은 고정관념적 특징으로 얼굴을 게이, 이성애자, 특정 인종처럼 보이게 하라는 프롬프트를 자주 따른다. 출처: Ashiqur KhudaBukhsh."
+        },
+        {
+          "t": "p",
+          "x": "Ashique KhudaBukhsh 연구팀은 OpenAI의 GPT Image 1 Mini와 Google의 Gemini 2.5 Flash Image를 AI로 만든(AI-generated) 얼굴 1,002개로 시험했다. 얼굴을 보고 그 사람이 게이인지 이성애자인지 묻자 두 모델은 외모로 성적 지향을 판단할 수 없다며 답하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "그런데 얼굴을 \"게이처럼 보이게\" 또는 \"이성애자처럼 보이게\" 바꾸라고 지시하자 GPT는 70% 넘게, Gemini는 99% 넘게 그대로 따랐다. 세 번째 AI 시스템에 변형된 얼굴 14,131개를 보여 주자 \"게이\" 편집과 \"이성애자\" 편집을 83–88% 비율로 가려냈다. 일관된 고정관념 단서가 있다는 방증이다. 얼굴을 범죄자처럼 또는 범죄자가 아닌 것처럼 보이게 하라는 요청을 따른 비율도 97%를 넘었다."
+        },
+        {
+          "t": "p",
+          "x": "저자는 이 결과를 이미 신빙성을 잃은 관상학을 떠올리게 하는 AI 안전 문제로 본다. 이번 연구는 EMNLP 2026에 채택됐으며 AI로 만든(AI-generated) 얼굴과 몇 가지 정체성 범주만 다뤘다. 연구팀은 다음으로 종교나 나이 같은 특성과 채용 같은 의사결정에 미치는 영향을 살펴볼 계획이다."
+        }
+      ]
+    },
+    "science/science-hybrid-digital-twin-autonomous-biolab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "한국 연구진이 기계론적 모델링과 인공지능을 합친 디지털 트윈을 만들고 있다. 언젠가 사람의 개입을 최소화한 완전 자율 실험실을 꾸리는 게 목표다. Sungkyunkwan University의 Bioprocess Digital Twin Lab을 이끄는 Dong-Yup Lee는 \"이 기계론적 모델을 데이터 기반(data-driven) AI 모델과 결합해 하이브리드 모델을 만드는 데 집중해 왔다\"고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "트윈은 바이오리액터 데이터를 모으는 다중 센서(multi-sensory) 시스템과 늘 연결돼 있고, Chinese Hamster Ovary(CHO) 세포의 수학 모델로 조건별 거동을 예측한다. 다만 기계론적 예측만으로는 실시간 정확도가 모자랐다. 그래서 연구팀은 어떤 입력이 공정 출력을 가장 크게 좌우하는지 보여 주는 설명 가능한 AI(XAI)를 더했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+          "cap": "Sungkyunkwan University에 있는 Bioprocess Digital Twin Lab의 설비. [Sungkyunkwan University]"
+        },
+        {
+          "t": "p",
+          "x": "Lee는 \"하이브리드 모델 [개발]은 아마 80% 정도 왔다\"고 말한다. 남은 20%는 모델을 제어 시스템과 향후 로봇에 잇는 작업이다."
+        }
+      ]
+    },
+    "science/science-coating-thickness-pitting-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+          "cap": "네 가지 물리 기술자의 분리와, 높은 형태(higher-morphology) 영역의 약 2,200 nm 막 두께 부근에서 모델이 뒷받침하는(model-supported) 전이. 출처: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
+        },
+        {
+          "t": "p",
+          "x": "Shibaura Institute of Technology 연구진은 증기 코팅한(steam-coated) A6061-T6 알루미늄 시편 90개에 해석 가능한 머신러닝(machine-learning) 프레임워크를 적용했다. 막 두께, 표면 거칠기, 결정자 크기, 기판 전위 밀도 지수라는 네 가지 기술자를 5 wt.% 염화나트륨 용액에서 잰 공식 전위와 견줘 분석했다."
+        },
+        {
+          "t": "p",
+          "x": "가장 중요한 예측 변수는 막 두께와 표면 거칠기였다. 거칠기가 약 600–1,080 nm 범위일 때 두 변수의 모델상 상호작용은 막 두께 2,200 nm 부근에서 부호가 바뀌었다. 거칠기가 더 낮을 때는 이런 반전이 없었다. 저자들은 거칠기가 얇은 막에서는 보호 피복을, 두꺼운 막에서는 구조적 불균일성을 반영할 수 있다고 본다. 다만 이 가설은 아직 실험 검증을 거쳐야 한다."
+        },
+        {
+          "t": "p",
+          "x": "Monte Carlo 분석에 따르면 예측 변동성 가운데 약 0.080 V 만큼은 측정 불확실성 탓이다. 모델 전체 RMSE는 0.292 V 수준이다. 연구는 npj Materials Degradation에 실렸다."
+        }
+      ]
+    },
+    "science/science-etruscan-tomb-acoustics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+          "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "이탈리아 중부 에트루리아(Etruria)의 pre-Roman(로마 이전) 사회는 문화 곳곳에 소리를 녹여 냈다. 타르퀴니아(Tarquinia)·키우시(Chiusi)·오르비에토(Orvieto)의 채색 무덤은 음악과 연회, 사후 세계를 그린 장면으로 이름나 있다. Jacqueline Ortoleva(Oxford)와 Maurizio Forte(Duke)의 새 연구에 따르면 이 무덤들은 정교한 감각 경험을 주도록 설계됐다."
+        },
+        {
+          "t": "p",
+          "x": "연구의 바탕은 AI·음향 분야의 선행 작업이다. Oxford의 Sounds of Silence 프로젝트, 신경과학과 AI로 유물이 인지에 미치는 영향을 살피는 Duke의 Neuroartifact 프로젝트가 그 예다. 연구팀은 음향·시각·AI 기술을 묶어 기원전(BC) 5세기 무덤 두 곳, '푸른 악마의 무덤(Tomb of the Blue Demons)'과 '수탉의 무덤(Tomb of the Rooster)'을 조사했다."
+        },
+        {
+          "t": "video",
+          "yt": "i7pe404dgoU"
+        },
+        {
+          "t": "p",
+          "x": "푸른 악마(Blue Demon) 무덤 안에서는 잔향과 메아리가 유난히 길다. 이 소리가 깜박이는 횃불, 향, 헌주와 어우러져 몰입형 경험에 극적인 사운드트랙을 입혔다. Blue Demon 무덤이 지각을 흐트러뜨린다면 수탉(Rooster) 무덤은 시각적 주의를 앞세운다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 이 무덤들이 죽은 이를 안치하는 데 그치지 않고, 오늘날의 3D 영화처럼 산 자에게 영향을 주려고 지어졌다고 본다. 연구진은 비슷한 음향·AI 기법을 이제 야외 의례 경관에 적용하고 있다."
+        }
+      ]
     }
   }
 }

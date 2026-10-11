@@ -6964,6 +6964,123 @@
           "x": "\"Esta no es una historia sobre fracciones y problemas del SAT\", dijo Christian. \"Es algo que le está ocurriendo al conocimiento humano y a la experiencia humana de arriba abajo.\""
         }
       ]
+    },
+    "science/science-ntu-lace-llm-heuristics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+          "cap": "El Research Fellow Dr Gong Huatian (L) y Asst Prof Yan Ran muestran el modelo LACE que crearon. Crédito: NTU Singapore."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Nanyang Technological University, Singapore (NTU) han creado LACE (LLM-driven Algorithm Construction via Complementary Evolution), un marco de AI que genera software de toma de decisiones (decision-making) a partir de descripciones de problemas en lenguaje sencillo (plain-language), lo que reduce el desarrollo de meses de ingeniería especializada a alrededor de una hora."
+        },
+        {
+          "t": "p",
+          "x": "LACE primero divide un problema en partes modulares y luego hace evolucionar un equipo de heurísticas especializadas y complementarias para resolverlas. En cuatro nuevos problemas marítimos, entre ellos la gestión de una terminal de contenedores y el enrutamiento de remolcadores, alcanzó entre el 97% y el 99% del mejor resultado de cualquier método probado, con menos de US$10 de cómputo por problema. Los sistemas rivales LLM-based, incluido FunSearch de Google, no lograron producir soluciones factibles."
+        },
+        {
+          "t": "p",
+          "x": "El equipo, dirigido por Asst Prof Yan Ran y Dr Gong Huatian, afirma que el enfoque podría ayudar a equipos más pequeños, centros logísticos regionales, instituciones de salud pública y empresas de servicios públicos. \"Un diseño inteligente de un marco de AI, y no solo la construcción de modelos de AI más grandes, puede cerrar esta brecha\", dijo Yan. El estudio se publica en Nature Machine Intelligence."
+        }
+      ]
+    },
+    "science/science-image-ai-face-orientation-stereotypes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+          "cap": "Los principales modelos comerciales de AI generadores de imágenes (image-generating) suelen seguir instrucciones para que los rostros parezcan gais, heterosexuales o de un grupo racial mediante rasgos estereotipados. Crédito: Ashiqur KhudaBukhsh."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de Ashique KhudaBukhsh probó GPT Image 1 Mini, de OpenAI, y Gemini 2.5 Flash Image, de Google, con 1,002 rostros generados por AI (AI-generated). Cuando se les preguntó si un rostro mostraba que alguien era gay o heterosexual, los modelos se negaron y explicaron que la orientación sexual no puede determinarse por la apariencia."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, cuando se les pidió que un rostro \"pareciera gay\" o \"pareciera heterosexual\", GPT obedeció más del 70% de las veces y Gemini más del 99%. Un tercer sistema de AI al que se mostraron 14,131 rostros alterados distinguió las ediciones \"gay\" y \"heterosexual\" el 83–88% de las veces, lo que sugiere pistas estereotipadas coherentes. Las peticiones de hacer que los rostros parecieran criminales o no criminales se atendieron más del 97% de las veces."
+        },
+        {
+          "t": "p",
+          "x": "El autor lo considera un problema de seguridad de la AI que recuerda a la fisiognomía, una práctica desacreditada. El estudio, aceptado en EMNLP 2026, usó rostros generados por AI (AI-generated) y unas pocas categorías de identidad; a continuación, el equipo examinará rasgos como la religión o la edad y sus efectos en decisiones como la contratación."
+        }
+      ]
+    },
+    "science/science-hybrid-digital-twin-autonomous-biolab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Corea del Sur desarrollan un gemelo digital que combina modelado mecanicista con inteligencia artificial, con la esperanza de que algún día permita un laboratorio totalmente autónomo que funcione con una intervención humana mínima. \"Nos hemos centrado en combinar este modelo mecanicista con el modelo de AI basado en datos (data-driven) para crear un modelo híbrido\", afirma Dong-Yup Lee, director del Bioprocess Digital Twin Lab de Sungkyunkwan University."
+        },
+        {
+          "t": "p",
+          "x": "El gemelo está conectado de forma continua a un sistema multisensorial (multi-sensory) que recoge datos del biorreactor y utiliza modelos matemáticos de células Chinese Hamster Ovary (CHO) para predecir su comportamiento en distintas condiciones. Como las predicciones mecanicistas por sí solas carecen de precisión en tiempo real, el equipo añade AI explicable (XAI), que muestra qué entradas afectan más a los resultados del proceso."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+          "cap": "Instalación del Bioprocess Digital Twin Lab en Sungkyunkwan University. [Sungkyunkwan University]"
+        },
+        {
+          "t": "p",
+          "x": "\"Probablemente estamos en un 80% en [el desarrollo de] el modelo híbrido\", dice Lee; el 20% restante consiste en conectar los modelos al sistema de control y a la futura robótica."
+        }
+      ]
+    },
+    "science/science-coating-thickness-pitting-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+          "cap": "Desacoplamiento de cuatro descriptores físicos y una transición respaldada por el modelo (model-supported) cerca de un espesor de película de unos 2,200 nm en el régimen de mayor morfología (higher-morphology). Crédito: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Shibaura Institute of Technology aplicaron un marco interpretable de aprendizaje automático (machine-learning) a 90 probetas de aluminio A6061-T6 recubiertas con vapor (steam-coated). Analizaron cuatro descriptores (espesor de película, rugosidad superficial, tamaño de cristalito y un índice de densidad de dislocaciones del sustrato) frente al potencial de picadura medido en una solución de cloruro de sodio al 5 wt.%."
+        },
+        {
+          "t": "p",
+          "x": "El espesor de película y la rugosidad superficial fueron los principales predictores. Con una rugosidad de unos 600–1,080 nm, su interacción modelada cambió de signo cerca de un espesor de película de 2,200 nm; la inversión no se observó con rugosidades menores. Los autores proponen que la rugosidad podría reflejar una cobertura protectora en películas más delgadas, pero irregularidades estructurales en las más gruesas, una hipótesis que aún requiere comprobación experimental."
+        },
+        {
+          "t": "p",
+          "x": "Un análisis de Monte Carlo atribuyó unos 0.080 V de la variabilidad de las predicciones a la incertidumbre de medición, frente a un RMSE global del modelo de 0.292 V. El estudio se publica en npj Materials Degradation."
+        }
+      ]
+    },
+    "science/science-etruscan-tomb-acoustics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+          "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "La sociedad pre-Roman (prerromana) de Etruria, en el centro de Italia, integró el sonido en toda su cultura, y sus tumbas pintadas de Tarquinia, Chiusi y Orvieto son conocidas por escenas de música, banquetes y el más allá. Una nueva investigación de Jacqueline Ortoleva (Oxford) y Maurizio Forte (Duke) muestra que estas tumbas se diseñaron para ofrecer experiencias sensoriales sofisticadas."
+        },
+        {
+          "t": "p",
+          "x": "El estudio se apoya en trabajos de inteligencia artificial (AI) y acústica, entre ellos el proyecto Sounds of Silence de Oxford y el proyecto Neuroartifact de Duke, que usa la neurociencia y la IA para entender el impacto cognitivo de los artefactos. Combinando tecnología acústica, visual y de IA, el equipo estudió dos tumbas del siglo V a. C. (5th-century BC): la Tumba de los Demonios Azules (Tomb of the Blue Demons) y la Tumba del Gallo (Tomb of the Rooster)."
+        },
+        {
+          "t": "video",
+          "yt": "i7pe404dgoU"
+        },
+        {
+          "t": "p",
+          "x": "La reverberación y los ecos excepcionalmente largos dentro de la tumba del Demonio Azul (Blue Demon) daban una banda sonora dramática a una experiencia inmersiva, junto a la luz parpadeante de las antorchas, el incienso y las libaciones. Mientras la Blue Demon induce desorientación perceptiva, la del Gallo (Rooster) privilegia la atención visual."
+        },
+        {
+          "t": "p",
+          "x": "Los autores sostienen que las tumbas no se construyeron solo para albergar a los muertos, sino para afectar a los vivos, como una película 3D moderna, y ahora aplican técnicas similares de acústica e IA a paisajes rituales al aire libre."
+        }
+      ]
     }
   }
 }

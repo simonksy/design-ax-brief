@@ -6654,6 +6654,156 @@
           "x": "它有局限，但仍是Google在Pixel Watch 5上并未大力宣传的出色工具。更新正在推送中，可能需要一段时间才会出现。"
         }
       ]
+    },
+    "gadgets/verge-local-ai-hermes-qwen-diary": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Antonio G. Di Benedetto一直不愿把个人数据交给云端AI，但在本地运行强大的模型改变了这一考量。作为测试M5 Ultra Mac Studio的一部分，他开始折腾本地LLMs。"
+        },
+        {
+          "t": "p",
+          "x": "他安装了open-source的Hermes Agent，这是一款适用于macOS、Windows和Linux的免费self-hosted AI代理应用。凭借256GB 统一内存，他放开手脚，选择了Qwen 3.8 Flash Next——一个约105GB 大小的125-billion 参数模型——并通过Telegram机器人实现了手机操控。接着，他的克星出现了：文本框。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "每日早间简报的cron任务屡屡失败，直到他意识到macOS在7:30am 时不能处于睡眠状态。更有用的是：Hermes借助一个临时API密钥，几分钟内就按类型整理好了他那拥有400-plus款游戏的Steam库。他还用它处理财务number-crunching和一份禁发期内的笔记本电脑规格表——这些数据他不会托付给任何云服务。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "用vibe-coded的Python自动化笔记本电脑基准测试仍在推进中，他的简报也已经坏了好几次。即便是强大的本地模型也不是神奇助手——他只把Hermes当作一件工具。"
+        }
+      ]
+    },
+    "gadgets/ibuypower-ai-halo-minipc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+          "cap": "iBuyPower Pro AMD AI Halo Mini PC仅提供单一外观。"
+        },
+        {
+          "t": "p",
+          "x": "iBuyPower推出了一款配备128 GB RAM的high-end mini-PC。iBuyPower Pro AMD AI Halo Mini PC还搭载AMD的Ryzen AI Max+ Pro 495处理器，在尺寸为200 x 198 x 70 mm 的机身中塞进了双USB4、双10 GbE Ethernet和三个M.2插槽。"
+        },
+        {
+          "t": "p",
+          "x": "iBuyPower加入了采用AMD全新Gorgon Halo平台的mini-PC厂商行列；Ryzen AI Max+ Pro 495已用于EVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro和YO2 495，不过目前只有EVO-X5 Pro和F9A Pro 495在中国以外有售。"
+        },
+        {
+          "t": "p",
+          "x": "iBuyPower这款机器也将在全球发售，但RAM最高只有128 GB ，而非GMKtec和AceMagic同类产品的192 GB 。因此，它与较早的Strix Halo mini-PCs一样，最多可将96 GB RAM分配为VRAM。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
+        },
+        {
+          "t": "p",
+          "x": "机身配有六个USB端口，其中两个是40 Gbps 的USB4，另有HDMI 2.1 (48 Gbps)和DisplayPort 1.4 (HBR3, 32.4 Gbps)。iBuyPower只承诺'Q4 2026'的发布窗口，起价$3,999；但尚未说明该价格是否包含128 GB RAM。"
+        }
+      ]
+    },
+    "gadgets/humanoid-robot-rental-exchanges": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "租用人形机器人曾是卖方市场。Unitree的机器人在中国2025年Spring Festival Gala（春晚）上跳舞后，需求激增，据报道租用一台机器人一天的价格达到五位数元，约合$1,400或更高。"
+        },
+        {
+          "t": "p",
+          "x": "如今泡沫已经消退：到2026年初，日租金降至约2,000至3,000元（约$280至$420），此后又跌破1,000元。在一个分类信息交易平台上，部分商家挂出的Unitree人形机器人日租金低至289元，约合$40。"
+        },
+        {
+          "t": "p",
+          "x": "2026年春晚有四家机器人厂商登台（Magic Atom、Unitree、Songyan Power和Galaxy General），但流通的机器越来越多，新鲜感带来的溢价正在消退。市场也在走向规范：号称全球首个机器人专属租赁平台的Qingtianzu于2026年1月宣布完成种子轮融资，据报道其订单量在2月第一周增长约百分之30。"
+        },
+        {
+          "t": "p",
+          "x": "租赁主要让好奇的顾客无需全价购买就能体验人形机器人，而Unitree G1+的起售价为95,000元（约$13,000）。Unitree的目标是在2030年前销售通用人形机器人，中国已有超过70个机器人训练设施投入运营，另有40多个在建。"
+        }
+      ]
+    },
+    "gadgets/siri-ai-vs-gemini-column": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+          "cap": "并排运行的Siri AI和Gemini。"
+        },
+        {
+          "t": "p",
+          "x": "这位专栏作者原以为会是一边倒的比较，结果却发现新版Siri AI在短时间内更自然地融入了日常，而Gemini依然感觉与手机上的其他应用脱节。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini在Google生态内表现出色，从把Spark研究导入NotebookLM（现为Gemini Notebook）到在Sheets中编辑都不在话下，但第三方集成却不尽如人意：让它往TickTick里添加任务时，它没有询问就默认用了Google Tasks。Instacart、Angi、Zillow等合作应用因地区而异，身在印度的作者除了Canva之外，日常一个都不用。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+          "cap": "iOS 27上的Siri AI界面。"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI更像是准备好采取行动，而不只是调出信息：无需每次说出应用名称，它就能朗读并管理TickTick任务，还能通过语音把商品加入Blinkit购物车。作者将此归功于Apple更严格的准则、App Store的激励措施，以及Apple India与本地开发者的合作。"
+        },
+        {
+          "t": "p",
+          "x": "对话不再是最突出的功能，在其他应用内执行操作才是。Google为Home应用推出MCP连接是一步好棋，但需要折腾设置，还得订阅Home Premium。作者认为，Google必须让Gemini的跨应用交互简单到不可思议。"
+        }
+      ]
+    },
+    "gadgets/xda-local-llm-gmail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+          "cap": "OpenCode通过MCP运行本地模型"
+        },
+        {
+          "t": "p",
+          "x": "我本来就用Gmail、Google Calendar和Home Assistant管理一天中的不同事务，于是把它们接入了我在Mac上运行的本地模型。模型在我的电脑上运行，不过Gmail和Calendar仍需依赖Google的在线服务。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+          "cap": "配置了filesystem服务器的LM Studio mcp.json"
+        },
+        {
+          "t": "p",
+          "x": "LM Studio支持MCP（Model Context Protocol），这是AI应用访问其他服务工具的一种标准方式。Google Workspace MCP等社区项目覆盖了Gmail和Calendar；Home Assistant则有自己的MCP Server集成。此外还需要一个能可靠使用工具的模型。"
+        },
+        {
+          "t": "p",
+          "x": "两个应用接入后，模型可以调取邮件往来，并在查看我的日程后提出会议时间。回复和日历条目我都保留为草稿再审核——需要我纠正的情况不多，但我不会让它盲目运行。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "Home Assistant MCP"
+        },
+        {
+          "t": "p",
+          "x": "开放睡前脚本后，我可以让它“关闭整个房子”，它也能处理带例外的指令，比如“把灯关掉，但浴室的灯留着”。简单的请求仍交给Home Assistant的原生命令。本地LLMs在聊天框之外更有用。"
+        }
+      ]
     }
   }
 }

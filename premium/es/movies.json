@@ -6565,6 +6565,77 @@
           "x": "El video ha sido descalificado y retirado del sitio web de Nikon, y Nguyen Nam Nhat ocupa ahora el primer puesto. Nikon prevé “revisar las normas y los procedimientos de evaluación para futuras participaciones en la competición”, y añade que la decisión no debe interpretarse como un juicio sobre la reputación, las contribuciones científicas o la intención del participante."
         }
       ]
+    },
+    "movies/overstake-genai-rebuild-cappu-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+          "cap": "Cappu Films"
+        },
+        {
+          "t": "p",
+          "x": "La compañía de Hong Kong Cappu Films se ha sumado como agente de ventas internacionales de “Overstake”, un thriller de acción y ciencia ficción del guionista y director Stas Mareev que combina un rodaje de imagen real con escenarios que se están reconstruyendo mediante AI generativa. La empresa de ventas presenta el título a los compradores en el Asian Contents & Film Market del Busan International Film Festival."
+        },
+        {
+          "t": "p",
+          "x": "En la película, un veterano herido entra en un letal juego de apuestas: tiene dos horas para cruzar una ciudad industrial y mantener con vida a su exesposa, mientras desconocidos reciben ofertas en sus teléfonos para salvarlo o detenerlo."
+        },
+        {
+          "t": "p",
+          "x": "“‘Overstake’ es una oportunidad de volver a una película que ya dirigí y reconstruir su mundo a una escala que antes era imposible para nosotros”, dijo Mareev. “Las actuaciones y la historia siguen siendo la base, mientras que la AI generativa me permite repensar los entornos, la acción y el lenguaje visual sin perder el núcleo humano de la película”."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo con AI sigue en curso, así que los compradores en Busan verán una promo junto con un puñado de secuencias terminadas."
+        }
+      ]
+    },
+    "movies/hong-jae-cheol-ai-native-studios-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+          "cap": "Lin Ying-Hsuan"
+        },
+        {
+          "t": "p",
+          "x": "Las empresas pequeñas y AI-native que operan con pipelines automatizados pueden desarrollar su propia propiedad intelectual, mientras que los estudios tradicionales conservan sus ventajas en franquicias consolidadas, infraestructura de producción, talento y distribución, según el veterano de VFX Hong Jae Cheol, productor y director en Viscode, que comenzó su carrera en Industrial Light & Magic. “Estamos pasando de usar la AI para generar imágenes individuales a usar la AI como parte de un flujo de producción completo”, dijo en el InnoAsia AI Creators Camp de Busan."
+        },
+        {
+          "t": "p",
+          "x": "Los efectos visuales tradicionales siguen siendo esenciales para que el material generado sea utilizable en pantalla, sostuvo Hong, que planteó el futuro como un modelo híbrido y no como un reemplazo total de los estudios existentes. En un enfoque AI-assisted, los actores actúan en un set controlado, la AI genera entornos y elementos visuales, y los artistas de VFX se encargan del tracking, la integración y el acabado."
+        },
+        {
+          "t": "p",
+          "x": "Mark Wachholz, de Dreamkite Studios, definió la cocreación con AI como “explorar en lugar de controlar”, mientras que el director de Climax Studio, Ahn Jaehong, trazó un flujo de trabajo que va de los prompts a los storyboards y los keyframes. Hong lo resumió así: “La AI es solo una herramienta; el cine es una secuencia”."
+        }
+      ]
+    },
+    "movies/cukur-vartolu-prime-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+          "cap": "Çukur:Vartolu. Cortesía de AI Yapim"
+        },
+        {
+          "t": "p",
+          "x": "Prime Video adquirió los derechos globales de “Çukur: Vartolu”, la película de IA de la potencia televisiva turca Ay Yapim, un spin-off de su exitosa serie “Çukur”, conocida internacionalmente como “The Pit”."
+        },
+        {
+          "t": "p",
+          "x": "La película se produce en AI Yapim, el estudio de IA de Ay Yapim con sede en Singapur, que en agosto lanzó en Prime Video el drama histórico AI-generated “Castle Walls”, presentado como la primera serie hecha de principio a fin con IA que llega a una gran plataforma global de streaming. Con “Çukur: Vartolu”, según la compañía, lleva ese enfoque AI-native “de una historia original a una franquicia dramática consolidada”."
+        },
+        {
+          "t": "p",
+          "x": "Según Ay Yapim, “Çukur” se ha emitido en televisión abierta en 105 países desde su estreno en 2017, y su canal oficial de YouTube supera los 6.400 millones de visualizaciones acumuladas. El spin-off se centra en la infancia y las decisiones que forjaron a Vartolu Sadettin, el hijo ilegítimo de la familia Koçovalı, y se mueve entre Doğubeyazıt, en el este de Türkiye, y un enfrentamiento posterior en Istanbul."
+        },
+        {
+          "t": "p",
+          "x": "“Cada fotograma de la película se generó con IA, desde los rostros de los personajes hasta cada escenario”, señaló el comunicado de Ay Yapim. Sin embargo, “la actuación es humana: los actores interpretaron las escenas y la IA generó los personajes sobre su movimiento, ritmo y expresión. Todos los diálogos fueron grabados por actores de voz humanos”."
+        }
+      ]
     }
   }
 }

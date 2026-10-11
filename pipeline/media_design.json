@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-11",
-  "section": "design",
-  "media": [
-    {
-      "id": "synthetic-users-uxr",
-      "type": "image",
-      "src": "pipeline/media/synthetic-users-uxr.png"
-    },
-    {
-      "id": "agent-permission-preview",
-      "type": "image",
-      "src": "pipeline/media/agent-permission-preview.png"
-    },
-    {
-      "id": "grok-imagine-vercel",
-      "type": "image",
-      "src": "pipeline/media/grok-imagine-vercel.png"
-    },
-    {
-      "id": "atlas-hand-sim",
-      "type": "video",
-      "src": "pipeline/media/atlas-hand-sim.mp4",
-      "poster": "pipeline/media/atlas-hand-sim.jpg"
-    },
-    {
-      "id": "figma-ai-team-rituals",
-      "type": "image",
-      "src": "pipeline/media/figma-ai-team-rituals.png"
-    }
-  ]
+ "date": "2026-10-12",
+ "section": "design",
+ "media": [
+  {
+   "id": "odyssey-3-world-model",
+   "type": "video",
+   "src": "pipeline/media/odyssey-3-world-model.mp4",
+   "poster": "pipeline/media/odyssey-3-world-model.jpg"
+  },
+  {
+   "id": "nngroup-context-libraries",
+   "type": "image",
+   "src": "pipeline/media/nngroup-context-libraries.png"
+  },
+  {
+   "id": "teslers-law-chat-field-ai",
+   "type": "image",
+   "src": "pipeline/media/teslers-law-chat-field-ai.png"
+  },
+  {
+   "id": "ai-generated-ui-fast-design-not-ux",
+   "type": "image",
+   "src": "pipeline/media/ai-generated-ui-fast-design-not-ux.png"
+  },
+  {
+   "id": "boring-ai-hollywood-vfx",
+   "type": "image",
+   "src": "pipeline/media/boring-ai-hollywood-vfx.jpg"
+  }
+ ]
 }

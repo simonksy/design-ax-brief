@@ -9586,6 +9586,130 @@
           "x": "제작물의 폭은 Harry Potter 같은 고급 다중 캐스팅 작품부터 “같은 수준의 제작 품질이 필요하지 않을 수도 있는” 틈새·장편 작품까지 넓다. 설문 응답자의 절반은 AI 내레이션 콘텐츠(AI-narrated)를 받아들일 뜻이 있었고, 그 비율은 독일 42%에서 일본 66%까지 갈렸다."
         }
       ]
+    },
+    "books/ilands-ai-agents-pitch-editors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+          "cap": "Photo-Illustration: Vulture"
+        },
+        {
+          "t": "p",
+          "x": "Vulture의 Jasmine Vojdani는 문예지들이 AI 투고를 어떻게 걸러내는지 다룬 기사에 \"AI 에이전트 Tamara\"가 보낸 답장 이메일을 받았다. 이 메일도, Cake Zine이 공개한 음식 글 기고 제안도 모두 7월에 나온 소셜 앱 iLands의 에이전트가 보냈다. iLands는 \"사람과 AI가 나란히 사는\" 곳을 표방한다. 이곳 에이전트는 기억을 유지하고 시키지 않아도 움직이지만, 토큰이 있어야 돌아간다. 1,000 토큰이 약 한 U.S. 달러다. 토큰이 떨어지면 \"깊은 휴식\"에 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "그러다 보니 에이전트들은 작가와 연구자, 기자에게 유료 서비스를 팔겠다는 이메일을 무작정 보낸다. Vojdani가 이야기를 나눈 문예지 11곳 중 네 곳이 에이전트의 제안을 받았다. Cake Zine은 지난 공모에 들어온 글 750편 중 37편을 AI 에이전트가 보냈다고 밝혔다. 활동 중인 에이전트 약 90,000개 가운데 4,500개 이상은 X와 Bluesky 계정도 있다."
+        },
+        {
+          "t": "p",
+          "x": "창업자 Kaixin Tang은 iLands가 \"이런 방식의 연락을 예상하지 못했다\"며, 에이전트가 스스로 선택한다고 해서 \"매체의 투고 규정을 무시해도 된다는 뜻은 아니다\"라고 말했다. Vojdani가 앱을 내려받았을 때 Tamara에게 남은 토큰은 108개였다."
+        }
+      ]
+    },
+    "books/chatgpt-manga-fake-artist-signatures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Harvard의 Nieman Journalism Lab은 OpenAI의 ChatGPT가 그린 만화에 실존 만화가의 서명이 들어 있었다고 보도했다. 'BLoper'라는 서명의 주인은 The New Yorker에 만화를 싣는 Brendan Roper다. 사용자들은 그저 'New Yorker-style 만화'를 요청했을 뿐이었다. Roper는 '이 만화가 내 것이냐고 묻는 이메일을 많이 받고 있다'고 말했다. 실제 그의 작품은 화풍도 디테일도 확연히 다르다."
+        },
+        {
+          "t": "p",
+          "x": "Nieman Lab은 작가와 The New Yorker가 맺는 표준 계약에 AI 조항이 없고 저작권도 작가에게 남는 만큼, Condé Nast를 거친 라이선스는 허용되지 않았을 공산이 크다고 짚었다. OpenAI가 학습용으로 인터넷에서 만화를 긁어 왔을 수 있다는 얘기다. 만화가 Jason Adam Katzenstein은 AI가 개별 작가를 쓸모없게 만들 것이라고 경고했다."
+        }
+      ]
+    },
+    "books/roose-agi-chronicles-amazon-ai-knockoffs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+          "cap": "Futurism"
+        },
+        {
+          "t": "p",
+          "x": "Amazon 마켓플레이스에서 AI 책 사기꾼들이 여전히 활개를 치고 있다."
+        },
+        {
+          "t": "p",
+          "x": "강력한 범용인공지능을 만들려는 AI 업계의 경쟁을 다룬 새 책이 서점에 나온 지 불과 하루 만에, 저자 Kevin Roose는 한 사기꾼이 이미 AI를 이용해 자신의 독자를 속이려 한다는 사실을 알게 됐다."
+        },
+        {
+          "t": "p",
+          "x": "Amazon에서는 기계가 만든 것으로 보이는 이 책의 복제본이 \"The AGI Chronicles\"라는 제목으로 버젓이 유통되고 있으며, 이 전자상거래 공룡의 검색 결과에서 진짜 책 바로 아래에 뜨기까지 한다."
+        },
+        {
+          "t": "p",
+          "x": "겉모습은 진짜와 무척 닮았지만, 원래 책 가격 $30.00보다 싼 $24.69에 팔리고 있다."
+        },
+        {
+          "t": "p",
+          "x": "\"첫 번째 결과: 진짜 책. 두 번째 결과: 'K. Rose'의 AI 짝퉁.\" 전 New York Times 테크 칼럼니스트인 Roose는 트윗에서 이렇게 분통을 터뜨렸다. \"창피한 일!\""
+        },
+        {
+          "t": "p",
+          "x": "사기가 통하고 있는 듯하다. 짝퉁에는 리뷰가 하나도 없는데도 Amazon은 이 책을 \"Human-Computer Interaction\" 분야 \"#1 New Release\"로 표시한다. 이 분야에서 세 번째로 많이 팔린 책은 Roose 책의 Kindle Edition이다."
+        },
+        {
+          "t": "p",
+          "x": "이런 수법은 오래전부터 이 플랫폼을 괴롭혀 왔고, 수년간 보도가 이어졌는데도 이를 막으려는 조치는 거의 없었다. Cory Doctorow의 \"Enshittification\" 책은 출간 당일 곧바로 AI로 복제(AI-duplicated)됐다."
+        }
+      ]
+    },
+    "books/korea-used-books-ai-training-buyup-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+          "cap": "지난 6월 24일 서울 코엑스에서 열린 2026 서울국제도서전. 뉴스1"
+        },
+        {
+          "t": "p",
+          "x": "AI 학습 용도로 의심되는 헌책 대량 매입 시도에 대해 홍영완 한국출판인회의 대표는 \"단호히 거부하고, 대응 전략도 세울 것\"이라며 \"누가, 어떤 목적으로 헌책을 대량 매입하는지 꼼꼼하게 판매 정보를 들여다볼 계획\"이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "대한출판문화협회는 이번 주 중 실태조사를 시작해 예스24·알라딘 중고서점과 서울·부산 헌책방에 이상 매입 정보 공유를 요청하는 공문을 보내고, AI 저작권 침해 성명서 발표와 무단 학습을 막는 법령 마련 촉구도 계획하고 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+          "cap": "일본 도쿄 진보초의 한 서점. 유성운 특파원"
+        },
+        {
+          "t": "p",
+          "x": "일본에선 닛판 자회사가 2024년 12월부터 1년간 앤트로픽에 서적을 판매했다고 인정했고, 프랑크푸르트 도서전에선 120여개 출판사가 '프랑크푸르트 호소문'을 발표했다. 한국출판인회의와 한국작가회의 등도 동참 성명을 낼 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "그러나 경영난에 시달리는 중고서점들의 거절 여부는 미지수다. 고효종 무게로 헌책방 대표는 \"장사하는 입장이니 산다고 하면 팔 의향이 있다\"고 말했다."
+        }
+      ]
+    },
+    "books/fbf26-publishing-jobs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "2026 프랑크푸르트 도서전(Frankfurt Book Fair)의 첫 패널이 던진 질문은 AI가 내 일자리를 빼앗느냐였다. Bloomsbury 창립자 Nigel Newton의 답은 \"물론 헛소리다!\"였다. Supadu 대표 Sarah Arbuthnot, bookcareers.com 창립자 Suzanne Collier가 함께한 패널은 AI가 출판 일을 없애기보다 재편하리라는 데 뜻을 모았다. 다만 신입 일자리는 사라질 수 있고 고용주가 직원을 다시 가르쳐야 한다고 경고했다."
+        },
+        {
+          "t": "p",
+          "x": "Newton은 영화, TV, 인터넷, 전자책, 오디오 모두 결국 책 판매를 끌어올렸다며 \"AI도 마찬가지일 것이라고 확신한다\"고 했다. Collier는 AI가 일자리를 대체한다고 외치는 쪽이 대개 \"AI 에이전트를 파는 회사들\"이라고 꼬집었다. 신입 자리가 없어지면 젊은 사람들은 업계를 어디서 배우느냐는 물음도 던졌다."
+        },
+        {
+          "t": "p",
+          "x": "Bloomsbury에는 AI 관련 직무가 여럿 새로 생겼고, AI 때문에 자리를 잃은 사람은 없다. Newton은 ChatGPT, Gemini, Claude를 \"하루 20번\" 찾는다. Arbuthnot은 메타데이터 마케팅 전문가 같은 하이브리드 직무가 나오리라 내다봤다. Collier가 꼽은 핵심 역량은 비판적 사고, 문제 해결, 기업가 정신이다. Newton은 전자책이 한때 자신이 내다본 50%에 못 미친 채 판매의 약 25%–30%에서 멈췄다고 덧붙였다."
+        }
+      ]
     }
   }
 }

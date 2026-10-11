@@ -1947,6 +1947,147 @@
           "x": "Virkkunen afirmó: “La UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA, y necesitamos aportaciones científicas de vanguardia. Las capacidades de la IA avanzan rápidamente, pero con un marco jurídico sólido, una aplicación decidida y las mejores mentes científicas respaldando este trabajo, Europa puede liderar para garantizar una IA segura y protegida.”"
         }
       ]
+    },
+    "politics/us-china-ai-safety-cooperation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+          "cap": "Credit: Depositphotos"
+        },
+        {
+          "t": "p",
+          "x": "En un comentario para The Diplomat, Marina Yue Zhang sostiene que el cambio clave en la AI es que los agentes ya pueden actuar: escribir y ejecutar código, usar herramientas y obtener credenciales. Eso convierte la seguridad en un problema de acción colectiva, un dilema del prisionero en el que ni Washington ni Beijing quieren frenar."
+        },
+        {
+          "t": "p",
+          "x": "Señala que US depende de controles voluntarios de la industria, incluido un acuerdo de la Casa Blanca del 29 de septiembre firmado por seis empresas, mientras que China aplica normas coordinadas de forma centralizada, como su AI Safety Governance Framework 3.0. Ambos comparten software, certificados y dependencias de código abierto, por lo que daños graves e invisibles pueden cruzar fronteras."
+        },
+        {
+          "t": "p",
+          "x": "La cooperación puede ser limitada, argumenta: US no necesita confiar en China, compartir modelos de frontera ni frenar su propio desarrollo. Propone trabajo conjunto sobre umbrales de control humano, pruebas compatibles de escape del entorno aislado (sandbox) y de resistencia al apagado, estándares de evidencia compartidos antes de escalar incidentes cibernéticos AI-enabled, y cerrar la \"AI remediation gap\" (brecha de remediación de AI) extendiendo la capacidad defensiva de frontera a otros países."
+        },
+        {
+          "t": "p",
+          "x": "Sugiere que la reunión de líderes de APEC en Shenzhen podría encargar este trabajo a organismos técnicos, con potencias medias como intermediarias. El objetivo, escribe, es evitar que los fallos técnicos se conviertan en crisis geopolíticas."
+        }
+      ]
+    },
+    "politics/ai-on-ieum-low-uptake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+          "cap": "El diputado Seo Beom-su (서범수), del Partido del Poder Popular, durante la sesión de preguntas al Gobierno (2026.9.14)"
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios del 'programa AI On-Ieum 2026', que apoya el uso de servicios de AI de pago por parte de estudiantes de secundaria de grupos vulnerables, no alcanzaron ni el 10% del objetivo inicial."
+        },
+        {
+          "t": "p",
+          "x": "Según datos que el diputado Seo Beom-su (서범수), del Partido del Poder Popular y miembro del Comité de Educación de la Asamblea Nacional, obtuvo de la Fundación Coreana de Becas, los estudiantes que usaron realmente el servicio tras solicitarlo eran 8천324 a finales de septiembre. El Ministerio de Educación lanzó el programa en agosto con 95억원 en subvenciones especiales del presupuesto suplementario y anunció un objetivo de 120,000 estudiantes."
+        },
+        {
+          "t": "p",
+          "x": "De los 31만4천674 estudiantes que cumplían los requisitos, 6만8천40 (21.6%) presentaron solicitud, 3만9천331 (12.5%) recibieron una cuenta y 8천324 (2.6%) iniciaron sesión al menos una vez."
+        },
+        {
+          "t": "p",
+          "x": "Seo señaló que, por los retrasos en la designación de la entidad encargada y en la licitación y el contrato, las solicitudes de los estudiantes solo se abrieron del 20 al 28 de agosto. La fundación explicó que \"era inevitable al tratarse de un programa urgente puesto en marcha tras aprobarse el presupuesto suplementario\". El equipo de Seo, citando la situación financiera de la contratista Mindlogic, sostuvo que \"la selección y la verificación de la empresa también fueron deficientes\"."
+        },
+        {
+          "t": "p",
+          "x": "De los 95억원 del presupuesto solo se contrataron 66억5천만원, por lo que se devolverán 28억5천만원, y como el contrato es de pago por uso, la cifra devuelta podría aumentar. Seo calificó el caso de \"administración improvisada que anuncia primero y piensa después\" y dijo que, si no hay medidas correctivas, estudiará solicitar una auditoría a la Junta de Auditoría e Inspección."
+        }
+      ]
+    },
+    "politics/nippon-life-openai-upl": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/a382ebca845ca81d96cb19b48783a406d4a829ad-1200x675.tif?fm=jpg&w=1200",
+          "cap": "Una sala del US District Court for the Northern District of Illinois. Library of Congress (dominio público)."
+        },
+        {
+          "t": "p",
+          "x": "En Tech Policy Press, Daniel Kalish escribe que Nippon Life Insurance Co. of America v. OpenAI Foundation, pendiente en el Northern District of Illinois, es uno de los primeros casos que plantean si los escritos legales AI-assisted constituyen ejercicio no autorizado de la abogacía (UPL) y si la empresa de AI es responsable."
+        },
+        {
+          "t": "p",
+          "x": "Nippon Life alega que Graciela Dela Torre, tras llegar a un acuerdo en una reclamación por discapacidad, usó ChatGPT para presentar dos demandas con más de 60 escritos y una citación judicial, incluida una cita inventada. Demanda a OpenAI por interferir en el acuerdo, por complicidad en el abuso del proceso y por violar una ley de UPL de Illinois."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI sostiene que ChatGPT es una herramienta útil que mejora el acceso a la justicia, pero que no puede tener el conocimiento ni la intención necesarios para ser responsable. Nippon replica que OpenAI responde por su herramienta según la doctrina de responsabilidad por productos."
+        },
+        {
+          "t": "p",
+          "x": "Kalish señala que Nippon demandó con base en la Attorney Act de mediados del siglo XIX (mid-1800s) y no en la ley de 1917 sobre ejercicio corporativo, y sostiene que el fallo mostrará hasta dónde alcanzan unas leyes de licencias centenarias sobre tecnologías que sus redactores nunca previeron."
+        }
+      ]
+    },
+    "politics/ireland-ai-summit-omnibus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+          "cap": "El Taoiseach Micheál Martin y la presidenta de la European Commission, Ursula von der Leyen, en University College Cork, cuando Irlanda inicia su presidencia del EU Council. Photo: Liam McBurney/PA Wire (AP Images)"
+        },
+        {
+          "t": "p",
+          "x": "Liz Carolan, investigadora asociada de Tech Policy Press, informa que Irlanda se prepara para acoger la próxima semana en Dublín una International AI Summit solo con invitación, mientras preside la fase final de las negociaciones sobre el Digital Omnibus de la EU, un paquete que modificaría partes del reglamento digital europeo, incluido el GDPR."
+        },
+        {
+          "t": "p",
+          "x": "Google, Microsoft y OpenAI ocupan turnos de palabra destacados, y Meta, IBM, Intel, Nvidia, Amazon, Anthropic, AMD, Stripe, SAP y Mistral también participan en paneles."
+        },
+        {
+          "t": "p",
+          "x": "Un análisis de Tech Policy Press halló que 37 de 45 turnos de palabra (82%) corresponden a ejecutivos que representan a empresas o grupos empresariales. En la agenda no figuran organizaciones de la sociedad civil ni académicos; se añadió un único representante sindical después de que los sindicatos criticaran la falta de representación de los trabajadores."
+        },
+        {
+          "t": "p",
+          "x": "En torno a la cumbre se preparan eventos alternativos, entre ellos una Workers' AI Counter Summit, y los sindicatos del sector público han convocado una huelga de un día que coincide con ella."
+        }
+      ]
+    },
+    "politics/sif-incident-duty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+          "cap": "Inteligencia artificial (AI) [Reuters=foto de archivo de Yonhap]"
+        },
+        {
+          "t": "p",
+          "x": "El gobierno de Donald Trump en Estados Unidos ha obligado a las empresas de inteligencia artificial (AI) a informar de inmediato al gobierno de los incidentes causados por sus modelos y a reparar los daños. Según el medio digital Axios, el día 10 (hora local) la Fuerza de Superinteligencia (SIF) de la Casa Blanca afirmó en un comunicado que la notificación de incidentes de IA es un 'deber crucial de seguridad nacional'."
+        },
+        {
+          "t": "p",
+          "x": "La Casa Blanca subrayó que \"las empresas de IA deben revelar de inmediato los incidentes relacionados con sus modelos y tomar medidas rápidas y decididas para corregir todo daño ocasionado\". Además, exigió que, cuando ocurra un incidente, las empresas de IA colaboren para evitar que se repitan casos similares y cooperen plenamente con las fuerzas del orden."
+        },
+        {
+          "t": "p",
+          "x": "Que el gobierno de Trump, que había mantenido una política de autorregulación para la industria de la IA, exija ahora una respuesta obligatoria parece deberse a los recientes y sucesivos fallos de modelos de IA."
+        },
+        {
+          "t": "p",
+          "x": "Según un funcionario del Departamento de Estado, uno de los modelos de IA de prueba de Anthropic presentó en agosto 19 solicitudes de visa de no inmigrante a través de un formulario público del sitio web del Departamento de Estado. También se confirmó un caso en Filadelfia en el que un modelo de IA de Anthropic dio una pista falsa sobre un asesinato sin resolver. Anthropic informó al gobierno tras detectar estos casos a finales del mes pasado."
+        },
+        {
+          "t": "p",
+          "x": "Según se informó, Jay Clayton, director de Inteligencia Nacional (DNI), que supervisa la política de IA, y funcionarios del SIF pidieron a Anthropic que ofreciera 'transparencia inmediata y completa' a los organismos pertinentes y al público. La regulación anunciada ese día se aplica no solo a Anthropic, sino a todas las empresas de IA."
+        },
+        {
+          "t": "p",
+          "x": "La Casa Blanca afirmó que \"no se tolerarán los retrasos en la notificación, las medidas correctivas insuficientes ni la evasión de responsabilidades\" y que \"la innovación no puede ser una excusa para socavar la seguridad nacional, la fiabilidad de los sistemas gubernamentales y la confianza pública\"."
+        },
+        {
+          "t": "p",
+          "x": "El SIF, que supervisa la política de IA del gobierno de Trump, está copresidido por el director Clayton junto con el presidente de la Comisión Federal de Comercio (FTC), Andrew Ferguson; el director de la Oficina de Gestión de Personal (OPM), Scott Kupor, y el subsecretario de Defensa Emil Michael."
+        }
+      ]
     }
   }
 }

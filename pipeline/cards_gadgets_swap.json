@@ -1,57 +1,128 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-12",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-one-ui-9-galaxy-s26-ai",
+      "id": "ibuypower-ai-halo-minipc",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "One UI 9 adds more Galaxy AI\ntools to the Galaxy S26",
-      "body": "One UI 9 brings Call Brief, My FanCam, and custom Now Brief cards to the Galaxy S26, alongside many non-AI tweaks.",
-      "mini_headline": "More Galaxy AI on the S26",
+      "headline": "iBuyPower packs 128GB into\nan AI Halo mini-PC",
+      "body": "iBuyPower's Pro AMD AI Halo Mini PC pairs a Ryzen AI Max+ Pro 495 with 128 GB of RAM and dual 10 GbE.",
+      "mini_headline": "iBuyPower's 128GB AI mini-PC",
       "tool": "Gadgets",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/one-ui-9-samsung-galaxy-s26-plus-ultra-changes-features/",
-      "accent": "#f5a623",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
+      "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+            "cap": "The iBuyPower Pro AMD AI Halo Mini PC comes in a single finish."
           },
           {
             "t": "p",
-            "x": "One UI 9 brings Android 17 and several new features to the Galaxy S26, S26+, and S26 Ultra, including more Galaxy AI tools and additional customization options. The S26 series launched with One UI 8.5, so some features were already available."
+            "x": "iBuyPower has launched a high-end mini-PC featuring 128 GB of RAM. Also equipped with AMD's Ryzen AI Max+ Pro 495 processor, the iBuyPower Pro AMD AI Halo Mini PC packs dual USB4, dual 10 GbE Ethernet and three M.2 slots into a housing that measures 200 x 198 x 70 mm."
           },
           {
             "t": "p",
-            "x": "Call Brief displays relevant information on the call screen — for example, a caller's country and local time when calling overseas."
+            "x": "iBuyPower joins the mini-PC makers adopting AMD's new Gorgon Halo platform; the Ryzen AI Max+ Pro 495 already powers the EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro and YO2 495, though only the EVO-X5 Pro and F9A Pro 495 are available outside China for now."
           },
           {
             "t": "p",
-            "x": "My FanCam takes an existing video and creates a cropped version that follows a person you select: open a video in Gallery, tap the Galaxy AI icon, choose the person, orientation, and aspect ratio, then tap Follow."
-          },
-          {
-            "t": "video",
-            "yt": "cWtvEpKt8Tw"
-          },
-          {
-            "t": "p",
-            "x": "Now Brief gets custom cards: you can create up to three using weather, health, or video information and choose when they appear."
-          },
-          {
-            "t": "p",
-            "x": "The rest of the update is non-AI: resizable Quick Panel controls, a Warranty and care section, Bixby home screen widgets in three sizes, split layouts for Dual Recording, Driving Report, and easier Samsung DeX desktop management."
+            "x": "iBuyPower's machine will also be released globally, but it peaks at 128 GB of RAM rather than the 192 GB of GMKtec's and AceMagic's alternatives. As a result, it matches older Strix Halo mini-PCs in assigning up to 96 GB of RAM as VRAM."
           },
           {
             "t": "img",
-            "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
           },
           {
             "t": "p",
-            "x": "Good Lock's Home Up adds multi-finger gestures, such as a pinch-out to launch AI Select. The biggest reasons to explore One UI 9 are the additional AI tools and smaller conveniences."
+            "x": "Six USB ports are included, two of them USB4 at 40 Gbps, alongside HDMI 2.1 (48 Gbps) and DisplayPort 1.4 (HBR3, 32.4 Gbps). iBuyPower has only committed to a 'Q4 2026' release window, with pricing from $3,999; it has not clarified whether that price includes 128 GB of RAM."
+          }
+        ]
+      }
+    },
+    {
+      "id": "humanoid-robot-rental-exchanges",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Humanoid robot rental prices\ncrater as exchanges appear",
+      "body": "Humanoid robot rentals in China have dropped from five-figure yuan day rates to as little as 289 yuan a day.",
+      "mini_headline": "Robot rentals get cheaper",
+      "tool": "Gadgets",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Renting a humanoid robot used to be a seller's market. After Unitree's robots danced on China's 2025 Spring Festival Gala, demand surged and daily rates reportedly reached five figures in yuan, roughly $1,400 or more, for a single day with a machine."
+          },
+          {
+            "t": "p",
+            "x": "That bubble has deflated: rates fell to around 2,000 to 3,000 yuan per day (about $280 to $420) by early 2026 and have since slipped below 1,000 yuan. On one classifieds marketplace, some merchants now list Unitree humanoids from just 289 yuan per day, or roughly $40."
+          },
+          {
+            "t": "p",
+            "x": "The 2026 gala put four robot makers on stage (Magic Atom, Unitree, Songyan Power and Galaxy General), but more machines are now in circulation and the novelty premium is fading. The market is also getting organized: in January 2026 Qingtianzu, billed as the world's first dedicated robot rental platform, announced a seed round, and its order volume reportedly grew about 30 percent in the first week of February."
+          },
+          {
+            "t": "p",
+            "x": "Rentals mostly let curious customers try a humanoid instead of paying full price, which for a Unitree G1+ starts at 95,000 yuan (about $13,000). Unitree aims to sell a general-purpose humanoid by 2030, and China has over 70 robot training facilities in operation, with more than 40 under construction."
+          }
+        ]
+      }
+    },
+    {
+      "id": "siri-ai-vs-gemini-column",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "One writer finds Siri AI\nbeats Gemini where it counts",
+      "body": "An Android Authority columnist argues Siri AI acts inside apps like TickTick while Gemini stays stuck in Google's world.",
+      "mini_headline": "Siri AI over Gemini, one view",
+      "tool": "Gadgets",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+            "cap": "Siri AI and Gemini running next to each other."
+          },
+          {
+            "t": "p",
+            "x": "Expecting a one-sided comparison, the columnist instead found the new Siri AI fit into their everyday routine more naturally in a short span of time, while Gemini still feels disconnected from the rest of the apps on their phone."
+          },
+          {
+            "t": "p",
+            "x": "Gemini is excellent inside Google's ecosystem, from Spark research into NotebookLM (now Gemini Notebook) to edits in Sheets, but third-party integrations fall short: asked to add a task to TickTick, it defaulted to Google Tasks without asking. Its partner apps such as Instacart, Angi and Zillow are region-dependent, and the writer, based in India, uses none of them daily except Canva."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+            "cap": "Siri AI interface on iOS 27."
+          },
+          {
+            "t": "p",
+            "x": "Siri AI feels more ready to take actions rather than just pull up information: it reads out and manages TickTick tasks without naming the app each time, and adds items to a Blinkit cart by voice. The writer credits Apple's stricter guidelines, App Store incentives and Apple India's work with local developers."
+          },
+          {
+            "t": "p",
+            "x": "Conversation is no longer the standout feature; acting inside other apps is. Google's MCP connections for the Home app are a solid move but need tinkering and a Home Premium subscription. Google, the writer argues, must make cross-app interactions with Gemini stupidly effortless."
           }
         ]
       }

@@ -1,64 +1,113 @@
 {
-  "date": "2026-09-30",
-  "section": "games",
-  "now_iso": "2026-09-29T22:03:11Z",
-  "window_hours": 336,
-  "pass": "recovery-1",
-  "notes": "Recovery pass #1. Harvested RSS/sitemaps/archives: GI.biz, Game Developer, 80.lv, RPS, VG247, Eurogamer, PC Gamer + GamesRadar monthly archives, TheGamer, Wccftech (paged), GamesBeat (paged), Road to VR, GamingBolt, Aftermath, Destructoid, Polygon, IGN, Kotaku sitemap, PocketGamer.biz, Automaton, Unity/Unreal blogs, Inven (20 list pages), GameMeca. 5 WebSearch used. On-list outlets were saturated with already-published or rejected stories (DLSS 5, Level-5, Insomniac, MiHoYo, CESA, RuneScape clone/NHL 27/Shift Up out of window). Off-list exceptions: etoday.co.kr (Korean studio AI roundup) and 36kr (Brood War Bench), both uncovered by allowed domains. Dropped: haystack slop (no AI in body), Windup Minds (classic NPC AI only), Modulate/General Intuition (funding), NVIDIA RTX Kit wccftech (same story as published NVIDIA blog), GameMeca ONE Store (dup of Inven). Removed Imagination NSR (Inven 321275, already published in games 2026-09-23). WARNING: dedup_candidates.py norm_url strips the query string, so every inven.co.kr/webzine/news/?news=N URL collapses to one key and falsely matches the published 321275; the two remaining Inven items (321517 ONE Store, 321491 Hive Axil) are NOT published (verified by exact grep of published_urls.json/news_data.json).",
-  "items": [
-    {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321517",
-      "source": "Inven",
-      "category": "games",
-      "published_iso": "2026-09-29T09:37:29+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/29/news/i1975564524.jpg",
-      "title": "원스토어, AI 게임 등록 전면 개방",
-      "excerpt": "원스토어가 AI 게임 전용관을 모든 개발자에게 개방하고 원콘솔에서 AI 기반 게임 등록을 시작한다. 10월 초 전용관 명칭을 'AI 게임'으로 바꿔 앱 하단에 상시 배치하고 웹게임 SDK로 수익화도 지원하며, 코딩 경험 없는 개발자도 AI로 만든 게임을 등록할 수 있다."
-    },
-    {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321491",
-      "source": "Inven",
-      "category": "games",
-      "published_iso": "2026-09-28T14:40:47+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg",
-      "title": "컴투스플랫폼, 하이브 액실 30일 출시",
-      "excerpt": "컴투스플랫폼이 도쿄 AI 게임 개발 행사에서 차세대 백엔드 플랫폼 '하이브 액실'을 공개했다. 9월 30일 정식 출시되며 자연어 프롬프트로 백엔드 설정·결제·데이터 분석 등 라이브 운영 기능을 다루고, 코덱스 플러그인 연결로 개발 효율을 높인다."
-    },
-    {
-      "url": "https://www.etoday.co.kr/news/view/2628643",
-      "source": "이투데이",
-      "category": "games",
-      "published_iso": "2026-09-22T16:17:00+09:00",
-      "og_image": "https://img.etoday.co.kr/pto_db/2026/09/20260922150625_2392220_1199_825.png",
-      "title": "게임사 AI, 제작 도구 넘어선다…자체 모델·에이전트·피지컬 AI로 확장",
-      "excerpt": "NC AI는 가상환경·동작 기술로 로봇 학습을 지원하고, 크래프톤은 AI 동료와 자체 모델을 병행하며, 넥슨은 '모노레이크'로 개발·운영 데이터를 활용하고, 넷마블은 '1인 1에이전트'를 추진한다. 리니지M 배경 원화에 바르코 3D를 도입해 2~3주 작업을 약 1주로 줄인 사례도 담겼다. (Off-list exception: no allowed-domain coverage; overlaps partly with first-pass PUBG Ally item.)"
-    },
-    {
-      "url": "https://www.pocketgamer.biz/qualcomm-unveils-two-flagship-snapdragon-chips-for-mobile-and-ai-gaming/",
-      "source": "PocketGamer.biz",
-      "category": "games",
-      "published_iso": "2026-09-25T12:38:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141537/89924/snapdragon8eliteextremegen6andsnapdragon8elitegen6mobileplatforms_l1200.jpg",
-      "title": "Qualcomm unveils two flagship Snapdragon chips for mobile and AI gaming",
-      "excerpt": "Qualcomm's Snapdragon 8 Elite Extreme Gen 6 and 8 Elite Gen 6 introduce Adreno Neural Fusion, which uses AI to enhance mobile graphics for richer visuals and longer play sessions, alongside on-device agentic AI features."
-    },
-    {
-      "url": "https://gamesbeat.com/limerence-launching-october-29-asks-would-trust-an-ai-designed-to-love-you-unconditionally/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-09-23T13:00:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/09/limerence.jpg",
-      "title": "Limerence, launching October 29, asks, 'Would trust an AI designed to love you unconditionally?'",
-      "excerpt": "Salix Games' narrative title Limerence, set entirely inside a simulated smartphone, has players build a relationship with an AI companion app whose personality responds to their choices, probing intimacy and dependency in AI companionship. Launches on PC October 29."
-    },
-    {
-      "url": "https://eu.36kr.com/en/p/3995368325501056",
-      "source": "36Kr",
-      "category": "games",
-      "published_iso": "2026-09-23T03:30:39Z",
-      "og_image": "https://img.36krcdn.com/hsossms/20260923/v2_223d100e1f86474cb2ed109ec0c750c3@000000@ai_oswg1012394oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
-      "excerpt": "Developer Ben Swerdlow's Brood War Bench ran 19 AI agent configurations through 171 round-robin StarCraft: Brood War matches; GPT-6 Astra went 18-0, yet no model played above beginner level against humans. (Off-list exception: no allowed-domain coverage.)"
-    }
-  ]
+ "section": "games",
+ "date": "2026-10-12",
+ "now_iso": "2026-10-11T22:00:00Z",
+ "window_hours": 336,
+ "expansion": [
+  "Recovery pass: 50+ outlet RSS feeds (EN/KR/JP), pcgamer+gamesradar /archive/2026/10, Kotaku post-sitemap-2026-10, Inven AI search page, vendor blogs (Xbox Wire, PS Blog, Unity, Unreal, NVIDIA)",
+  "3 WebSearch queries (Inworld/Convai/PUBG Ally, Xbox Copilot/Muse, Krafton/NC/Netmarble AI) - all stale, no usable hits",
+  "Dropped as already published/same story: Horii AI mystery game, Kutaragi, Sega AI stance (Kotaku), Warhorse AI interview, driving-sim $1,000/day follow-ups, Capcom RE Engine, PS5 QSSR, Jagex, Ryza AI chat, Krafton-SNU world model, Sony boss-AI patent"
+ ],
+ "items": [
+  {
+   "category": "games",
+   "url": "https://bbs.ruliweb.com/news/read/230407",
+   "title": "14Dimension Enterprise, 게임 전용 AI 게임마스터 내장 오프라인 TRPG '일루네스의 귀환(The Return of Illunes)' Steam 정식 출시",
+   "source": "루리웹",
+   "published_iso": "2026-10-09T16:38:41+09:00",
+   "og_image": "https://i2.ruliweb.com/ori/26/10/09/1a11f984465afd4.webp",
+   "excerpt": "The Return of Illunes launched on Steam (KRW 22,500 / $19.99) with a fine-tuned AI game master bundled on-device: it writes each run's story, companion dialogue, subclasses, skills, relics and bosses, and adjudicates free-text 'free actions' with no server, subscription or per-use fee; damage and stats stay rule-bound.",
+   "source_lang": "ko"
+  },
+  {
+   "category": "games",
+   "url": "https://www.pcgamesn.com/arc-raiders/celeste-frozen-trail-update",
+   "title": "Arc Raiders is replacing AI with real human performances, starting with Celeste",
+   "source": "PCGamesN",
+   "published_iso": "2026-10-05T14:49:32Z",
+   "og_image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/10/arc-raiders-celeste-frozen-trail-update.jpg",
+   "excerpt": "Embark is moving trader NPC Celeste off text-to-speech-driven performance to full motion and facial capture of voice actor Diana Gardner, debuting in the Frozen Trail trailer; the studio admits her limited expressiveness was immersion-breaking.",
+   "source_lang": "en"
+  },
+  {
+   "category": "games",
+   "url": "https://www.tomshardware.com/video-games/pc-gaming/arc-raiders-developer-uses-ai-to-detect-cheating-embark-cracks-down-on-cheaters-deploys-harsh-penalties-including-permaban-on-first-time-offenders",
+   "title": "Arc Raiders publisher developing AI anti-cheat stack in escalating war with cheaters",
+   "source": "Tom's Hardware",
+   "published_iso": "2026-10-09T10:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/G8Nf2LUvQtGJTSr5FwNfaM-1920-80.png",
+   "excerpt": "Embark is building an AI-based cheat-detection stack for Arc Raiders, paired with game-license blacklisting and permanent bans for first-time offenders.",
+   "source_lang": "en"
+  },
+  {
+   "category": "games",
+   "url": "https://www.inven.co.kr/webzine/news/?news=321834",
+   "title": "[이슈] '사람 중심 축제'라더니...AGF, AI로 만든 티저 영상에 팬심 싸늘",
+   "source": "인벤",
+   "published_iso": "2026-10-07T12:20:57+09:00",
+   "og_image": "https://static.inven.co.kr/column/2026/10/07/news/i1069853047.png",
+   "excerpt": "Korea's Anime x Game Festival (AGF 2026) posted an official teaser made with generative AI, two months before opening, drawing fan backlash; organizers had pledged a 'people-centered' festival at last year's press event.",
+   "source_lang": "ko"
+  },
+  {
+   "category": "games",
+   "url": "https://www.inven.co.kr/webzine/news/?news=321774",
+   "title": "AI 플루토, 놀라운 혁신인가 불공정한 체급 차이인가",
+   "source": "인벤",
+   "published_iso": "2026-10-05T13:07:12+09:00",
+   "og_image": "https://static.inven.co.kr/column/2026/10/05/news/i1279768091.jpg",
+   "excerpt": "StarCraft: Brood War AI 'Pluto' is beating ex-pros and ASL players on YouTube with unconventional builds and perfect micro; Inven asks whether a machine with superhuman APM and vision is a fair competitor or just a new kind of training partner.",
+   "source_lang": "ko"
+  },
+  {
+   "category": "games",
+   "url": "https://www.pocketgamer.biz/nordic-ai-part-three-how-nordic-studios-are-using-ai-part-three-lore-checks-a-programmers-programmer-and-the-parts-writers-keep-for-themselves/",
+   "title": "How Nordic studios are using AI part three: Lore checks, a \"programmer's programmer\" and the parts writers keep for themselves",
+   "source": "PocketGamer.biz",
+   "published_iso": "2026-10-06T14:18:00+01:00",
+   "og_image": "https://media.pocketgamer.biz/images/141607/89958/nordicsaipart3_l1200.jpg",
+   "excerpt": "Four Nordic voices on where AI earns its place: Skábma studio Red Stage keeps gen-AI out of its games and Indigenous stories, using it only for producer 'dull bits', while others use it for lore checks and code assistance.",
+   "source_lang": "en"
+  },
+  {
+   "category": "games",
+   "url": "https://www.pocketgamer.biz/how-developers-are-using-ai-right-now/",
+   "title": "How developers are using AI right now",
+   "source": "PocketGamer.biz",
+   "published_iso": "2026-10-05T15:27:00+01:00",
+   "og_image": "https://media.pocketgamer.biz/images/131443/89974/artificial-intelligence-ai-image_l1200.jpg",
+   "excerpt": "Studio leaders describe how they are using AI across production, live ops and marketing.",
+   "source_lang": "en"
+  },
+  {
+   "category": "games",
+   "url": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
+   "title": "Bloodborne PC port with full multiplayer can't get FromSoftware fans to vibe with vibe coding",
+   "source": "GamesRadar+",
+   "published_iso": "2026-10-09T16:30:24Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/HYgVWfc7Vi2zK2m4QHVb6C-1920-80.jpg",
+   "excerpt": "A Claude-assisted, vibe-coded Bloodborne PC port with full multiplayer is drawing rejection from FromSoftware fans who say they'll stick with the human-made emulator.",
+   "source_lang": "en"
+  },
+  {
+   "category": "games",
+   "url": "https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost",
+   "title": "Ukranian modder slaps DLSS 5 onto Pac-Man with 4x Multipass",
+   "source": "Tom's Hardware",
+   "published_iso": "2026-10-10T12:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/NaNALL3p3BQGgmQHbKsDo-1920-80.jpg",
+   "excerpt": "A modder ran DLSS 5's neural rendering over Pac-Man in MAME via ReShade with 4x Multipass, producing creepy reinterpretations, including a mode that erases a ghost's eyes.",
+   "source_lang": "en"
+  },
+  {
+   "category": "games",
+   "url": "https://www.pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
+   "title": "In the Hot Seat: Ex-Take-Two AI chief Luke Dicken on the $2tn bubble, junior jobs and the next 2008",
+   "source": "PocketGamer.biz",
+   "published_iso": "2026-10-08T15:20:00+01:00",
+   "og_image": "https://media.pocketgamer.biz/images/141675/90006/lukedickeninthehseat_l1200.jpg",
+   "excerpt": "Take-Two's former head of AI on trillion-dollar valuations, disappearing junior roles and why studios on the sidelines might be wise to stay there.",
+   "source_lang": "en"
+  }
+ ]
 }

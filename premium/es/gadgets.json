@@ -7442,6 +7442,156 @@
           "x": "Tiene sus limitaciones, pero es una gran herramienta que Google apenas promocionó con el Pixel Watch 5. La actualización se está desplegando, así que puede tardar en aparecer."
         }
       ]
+    },
+    "gadgets/verge-local-ai-hermes-qwen-diary": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Antonio G. Di Benedetto ha dudado en entregar sus datos personales a la AI en la nube, pero ejecutar modelos potentes en local cambia la ecuación. Como parte de sus pruebas del M5 Ultra Mac Studio, ha empezado a experimentar con LLMs locales."
+        },
+        {
+          "t": "p",
+          "x": "Instaló Hermes Agent, una aplicación open-source, gratuita y self-hosted de agentes de AI para macOS, Windows y Linux. Con 256GB de memoria unificada apostó en grande y eligió Qwen 3.8 Flash Next —un modelo de 125-billion parámetros y unos 105GB— y lo hizo controlable desde su teléfono mediante un bot de Telegram. Entonces llegó su némesis: el cuadro de texto."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Una tarea cron de resumen matutino diario fallaba una y otra vez hasta que se dio cuenta de que macOS no podía estar en reposo a las 7:30am. Más útil: Hermes ordenó por género su biblioteca de Steam de 400-plus juegos en minutos con una clave de API temporal. También lo usó para number-crunching financiero y para la ficha técnica de un portátil bajo embargo, datos que no confiaría a ningún servicio en la nube."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Automatizar las pruebas de rendimiento de portátiles con Python vibe-coded sigue siendo un trabajo en curso, y su resumen ya se ha roto varias veces. Ni siquiera los modelos locales potentes son un asistente mágico: él trata a Hermes como una simple herramienta."
+        }
+      ]
+    },
+    "gadgets/ibuypower-ai-halo-minipc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+          "cap": "El iBuyPower Pro AMD AI Halo Mini PC se ofrece en un único acabado."
+        },
+        {
+          "t": "p",
+          "x": "iBuyPower ha lanzado un mini-PC high-end con 128 GB de RAM. Equipado además con el procesador Ryzen AI Max+ Pro 495 de AMD, el iBuyPower Pro AMD AI Halo Mini PC reúne doble USB4, doble 10 GbE Ethernet y tres ranuras M.2 en una carcasa de 200 x 198 x 70 mm."
+        },
+        {
+          "t": "p",
+          "x": "iBuyPower se suma a los fabricantes de mini-PC que adoptan la nueva plataforma Gorgon Halo de AMD; el Ryzen AI Max+ Pro 495 ya impulsa los EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro y YO2 495, aunque por ahora solo el EVO-X5 Pro y el F9A Pro 495 se venden fuera de China."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de iBuyPower también se lanzará a nivel mundial, pero llega como máximo a 128 GB de RAM, frente a los 192 GB de las alternativas de GMKtec y AceMagic. Por ello, al igual que los mini-PCs Strix Halo anteriores, puede asignar hasta 96 GB de RAM como VRAM."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Incluye seis puertos USB, dos de ellos USB4 a 40 Gbps, además de HDMI 2.1 (48 Gbps) y DisplayPort 1.4 (HBR3, 32.4 Gbps). iBuyPower solo se ha comprometido a un lanzamiento en el 'Q4 2026', con precios desde $3,999; no ha aclarado si ese precio incluye 128 GB de RAM."
+        }
+      ]
+    },
+    "gadgets/humanoid-robot-rental-exchanges": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Alquilar un robot humanoide solía ser un mercado de vendedores. Después de que los robots de Unitree bailaran en la Gala del Festival de Primavera 2025 de China, la demanda se disparó y, según informes, las tarifas diarias alcanzaron las cinco cifras en yuanes, unos $1,400 o más, por un solo día con una máquina."
+        },
+        {
+          "t": "p",
+          "x": "Esa burbuja se ha desinflado: las tarifas cayeron a unos 2,000 a 3,000 yuanes al día (unos $280 a $420) a principios de 2026 y desde entonces han bajado de 1,000 yuanes. En un mercado de anuncios clasificados, algunos comerciantes ofrecen ahora humanoides de Unitree desde solo 289 yuanes al día, unos $40."
+        },
+        {
+          "t": "p",
+          "x": "La gala de 2026 llevó al escenario a cuatro fabricantes de robots (Magic Atom, Unitree, Songyan Power y Galaxy General), pero ahora circulan más máquinas y la prima por novedad se desvanece. El mercado también se organiza: en enero de 2026, Qingtianzu, presentada como la primera plataforma del mundo dedicada al alquiler de robots, anunció una ronda semilla, y su volumen de pedidos habría crecido alrededor de un 30 por ciento en la primera semana de febrero."
+        },
+        {
+          "t": "p",
+          "x": "El alquiler permite sobre todo que los clientes curiosos prueben un humanoide sin pagar el precio completo, que en el caso de un Unitree G1+ parte de 95,000 yuanes (unos $13,000). Unitree aspira a vender un humanoide de uso general para 2030, y China tiene más de 70 centros de entrenamiento de robots en funcionamiento y más de 40 en construcción."
+        }
+      ]
+    },
+    "gadgets/siri-ai-vs-gemini-column": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+          "cap": "Siri AI y Gemini funcionando uno al lado del otro."
+        },
+        {
+          "t": "p",
+          "x": "El columnista esperaba una comparación desigual, pero descubrió que el nuevo Siri AI se integró de forma más natural en su rutina diaria en poco tiempo, mientras que Gemini todavía se siente desconectado del resto de las apps de su teléfono."
+        },
+        {
+          "t": "p",
+          "x": "Gemini destaca dentro del ecosistema de Google, desde llevar investigaciones de Spark a NotebookLM (ahora Gemini Notebook) hasta editar en Sheets, pero las integraciones con terceros se quedan cortas: al pedirle que añadiera una tarea a TickTick, recurrió a Google Tasks sin preguntar. Sus apps asociadas, como Instacart, Angi y Zillow, dependen de la región, y el autor, que vive en India, no usa ninguna a diario salvo Canva."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+          "cap": "Interfaz de Siri AI en iOS 27."
+        },
+        {
+          "t": "p",
+          "x": "Siri AI parece más dispuesto a actuar que a limitarse a mostrar información: lee y gestiona las tareas de TickTick sin nombrar la app cada vez, y añade productos a un carrito de Blinkit por voz. El autor lo atribuye a las directrices más estrictas de Apple, a los incentivos de la App Store y al trabajo de Apple India con desarrolladores locales."
+        },
+        {
+          "t": "p",
+          "x": "La conversación ya no es la función más destacada; lo es actuar dentro de otras apps. Las conexiones MCP de Google para la app Home son un buen paso, pero requieren ajustes y una suscripción a Home Premium. Google, sostiene el autor, debe lograr que las interacciones entre apps con Gemini sean absurdamente sencillas."
+        }
+      ]
+    },
+    "gadgets/xda-local-llm-gmail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+          "cap": "OpenCode ejecutando un modelo local con MCP"
+        },
+        {
+          "t": "p",
+          "x": "Ya uso Gmail, Google Calendar y Home Assistant para gestionar distintas partes de mi día, así que los conecté a los modelos locales que ejecuto en mi Mac. El modelo funciona en mi equipo, aunque Gmail y Calendar siguen necesitando los servicios en línea de Google."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+          "cap": "mcp.json de LM Studio con servidor filesystem"
+        },
+        {
+          "t": "p",
+          "x": "LM Studio admite MCP (Model Context Protocol), una forma estándar de que una aplicación de AI acceda a herramientas de otro servicio. Proyectos de la comunidad como Google Workspace MCP cubren Gmail y Calendar; Home Assistant tiene su propia integración MCP Server. También se necesita un modelo capaz de usar herramientas de forma fiable."
+        },
+        {
+          "t": "p",
+          "x": "Con ambas aplicaciones conectadas, el modelo puede recuperar un hilo de correo y revisar mis citas antes de proponer una hora de reunión. Dejo las respuestas y las entradas del calendario como borradores para revisarlas: no tuve que corregirlo a menudo, pero no lo dejaría funcionar a ciegas."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "Home Assistant MCP"
+        },
+        {
+          "t": "p",
+          "x": "Exponer mi script de la hora de dormir me permite pedirle que “apague la casa”, y puede manejar órdenes con excepciones como “Apaga las luces, pero deja encendida la luz del baño”. Las peticiones simples siguen yendo a los comandos nativos de Home Assistant. Los LLMs locales son más útiles fuera de una ventana de chat."
+        }
+      ]
     }
   }
 }

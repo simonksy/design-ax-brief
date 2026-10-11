@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "medicine",
   "cards": [
     {
-      "id": "jama-ai-psychosis-cohort",
+      "id": "jama-aya-cancer-risk-chatbot-rct",
       "source_lang": "en",
       "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "AI 정신증을\n대형 의료기관에서 재다",
-      "body": "코호트 연구가 AI 정신증 유병률과 정신병 삽화에서 대화형 AI의 역할을 추정했다.",
-      "mini_headline": "AI 정신증을 재다",
-      "source": "JAMA Psychiatry",
-      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/10.1001/jamapsychiatry.2026.2923",
+      "headline": "유전성 암 위험 챗봇,\n임상시험으로 검증",
+      "body": "챗봇을 쓴 젊은 층 78%가 30세까지의 암 위험을 알았고 대조군은 37%였다.",
+      "mini_headline": "유전성 암 위험을 알려주는 챗봇",
+      "source": "JAMA Network Open",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.35794",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,149 +19,149 @@
         "blocks": [
           {
             "t": "p",
-            "x": "대화형 AI 챗봇이 정신병적 증상의 발현이나 악화와 맞물린 사례가 늘고 있다. 저자들은 이 현상을 \"AI 정신증(AI psychosis)\"이라 부른다. 지금까지의 근거는 대부분 증례 보고나 관점 논문, 시뮬레이션에 머물렀다."
+            "x": "유전성 암 소인을 지닌 청소년·청년(AYAs)은 평생 암 위험이 높은데도 그 위험을 이해하도록 돕는 모델은 없었다. 이번 무작위 임상시험은 2022년 12월부터 2025년 5월까지 Dana-Farber, Emory/Children’s Healthcare of Atlanta, University of Chicago, Utah’s Huntsman Cancer Institute에서 챗봇 기반 전자 암 위험 소통 도구 AYA Risk Information and Screening Education을 시험했다."
           },
           {
             "t": "p",
-            "x": "밴더빌트대학교 의료센터(Vanderbilt University Medical Center) 연구진은 2022년 12월 1일부터 2026년 4월 15일까지의 행동건강 경과 기록을 후향적으로 검토해 AI 관련(AI-related) 키워드와 정신병적 장애 진단이 함께 기록된 환자를 추렸다. 평가자 두 명이 AI 상호작용을 중립, AI 정신증(챗봇 사용이 정신증을 악화시킨 경우), AI 관련 정신병적 내용으로 분류했고 AI 정신증 사례는 다시 촉매, 증폭자, 공동저자, 대상의 네 유형으로 나눴다."
+            "x": "참가자는 9개 유전성 암 소인 증후군 중 1개를 지닌 12~24세 영어 사용자였다. 챗봇은 증후군별 위험과 검진 정보를 알려 주고, 배우기, 검진 계획 세우기, 또래와 공유하기, 지지 모임과 연결하기, 대처 지원으로 성장하기를 위한 자료 페이지도 갖췄다."
           },
           {
             "t": "p",
-            "x": "578,058건의 기록(고유 환자 215,712명) 가운데 환자 73명의 진료 187건이 기준을 충족했다. 28명(정신건강 진료를 받은 환자의 0.013%)이 AI 정신증 군에 속했다. 기록된 제품 가운데 15건(53.6%)이 ChatGPT였고 상호작용 24건(85.7%)은 GPT-4o가 출시된 2024년 5월 이후에 기록됐다. AI 정신증 군의 60.7%가 첫 정신병 삽화였던 반면 중립 군은 17.6%였다. 가장 흔한 유형은 증폭자(64.3%)였다."
+            "x": "평가 대상 AYAs 798명 중 106명을 무작위 배정했다(챗봇 54명, 대조군 52명). 진료 후 30세까지의 암 위험을 정확히 아는 비율은 챗봇군 78%, 대조군 37%였다(OR, 3.50; P = .005). 검진 지식 향상과 고통 감소에서는 통계적으로 유의한 차이가 없었다."
           },
           {
             "t": "p",
-            "x": "저자들은 GPT-4o 이후 사례가 늘어난 시기가 이 모델의 아첨(sycophancy) 성향이 보고된 때와 겹친다고 짚었다. 다만 연구 설계상 인과관계까지 입증하지는 못한다. 정신과 진료에서 AI 사용을 정기적으로 평가할 필요가 있어 보인다는 게 이들의 결론이다."
+            "x": "연구진은 진료에 맞춰 개인 맞춤형의 정확한 전자 정보를 주면 고통을 늘리지 않고도 위험 지식을 높일 수 있다고 결론 내렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Measuring AI psychosis\nin a large health system",
-          "body": "A cohort study estimates the prevalence of AI psychosis and the role conversational AI played in psychotic episodes.",
-          "mini_headline": "AI psychosis, measured",
+          "headline": "A trial tests a chatbot for\ninherited cancer risk",
+          "body": "In a randomized trial, 78% of young people using a cancer-risk chatbot knew their risk by age 30, vs 37% of controls.",
+          "mini_headline": "A chatbot for inherited cancer risk",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Conversational AI chatbots are increasingly linked to emerging or worsening psychotic symptoms, a phenomenon the authors call \"AI psychosis.\" Prior evidence was mostly case reports, viewpoints and simulations."
+                "x": "Adolescents and young adults (AYAs) with hereditary cancer predisposition face high lifetime cancer risk, yet no models existed to support their understanding of that risk. This randomized clinical trial tested an electronic chatbot-based cancer risk communication tool, AYA Risk Information and Screening Education, at Dana-Farber, Emory/Children’s Healthcare of Atlanta, the University of Chicago and Utah’s Huntsman Cancer Institute between December 2022 and May 2025."
               },
               {
                 "t": "p",
-                "x": "Researchers at Vanderbilt University Medical Center retrospectively reviewed behavioral health progress notes from December 1, 2022, to April 15, 2026, for patients with AI-related keywords and a documented psychotic-disorder diagnosis. Two raters classified AI interactions as neutral, AI psychosis (chatbot use that worsened psychosis) or AI-related psychotic content, and sorted AI psychosis cases into four types: catalyst, amplifier, coauthor and object."
+                "x": "Participants were English speakers aged 12 to 24 with 1 of 9 hereditary cancer predisposition syndromes. The chatbot gave syndrome-specific risk and screening information, with resource pages to learn, plan screening, share with peers, connect to support groups and grow through coping support."
               },
               {
                 "t": "p",
-                "x": "Of 578,058 records (215,712 unique patients), 187 encounters from 73 patients met criteria. 28 patients (0.013% of those receiving mental health care) were in the AI psychosis group. ChatGPT was the documented product in 15 cases (53.6%), and 24 interactions (85.7%) were documented after the May 2024 release of GPT-4o. 60.7% of the AI psychosis group were in a first psychotic episode, vs 17.6% of the neutral group. Amplifier was the most common type (64.3%)."
+                "x": "Of 798 AYAs assessed, 106 were randomized (54 chatbot, 52 control). After the clinic visit, 78% of the chatbot group versus 37% of controls had accurate knowledge of their cancer risk by age 30 (OR, 3.50; P = .005). Gains in screening knowledge and reductions in distress were not statistically significant."
               },
               {
                 "t": "p",
-                "x": "The authors note the rise after GPT-4o coincides with documented sycophancy in that model, but the design cannot establish causation. They conclude that routine assessment of AI use during psychiatric encounters appears warranted."
+                "x": "The authors conclude that pairing a clinic visit with personalized, accurate electronic information improved risk knowledge without increasing distress."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 정신증을\n대형 의료기관에서 재다",
-          "body": "코호트 연구가 AI 정신증 유병률과 정신병 삽화에서 대화형 AI의 역할을 추정했다.",
-          "mini_headline": "AI 정신증을 재다",
+          "headline": "유전성 암 위험 챗봇,\n임상시험으로 검증",
+          "body": "챗봇을 쓴 젊은 층 78%가 30세까지의 암 위험을 알았고 대조군은 37%였다.",
+          "mini_headline": "유전성 암 위험을 알려주는 챗봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "대화형 AI 챗봇이 정신병적 증상의 발현이나 악화와 맞물린 사례가 늘고 있다. 저자들은 이 현상을 \"AI 정신증(AI psychosis)\"이라 부른다. 지금까지의 근거는 대부분 증례 보고나 관점 논문, 시뮬레이션에 머물렀다."
+                "x": "유전성 암 소인을 지닌 청소년·청년(AYAs)은 평생 암 위험이 높은데도 그 위험을 이해하도록 돕는 모델은 없었다. 이번 무작위 임상시험은 2022년 12월부터 2025년 5월까지 Dana-Farber, Emory/Children’s Healthcare of Atlanta, University of Chicago, Utah’s Huntsman Cancer Institute에서 챗봇 기반 전자 암 위험 소통 도구 AYA Risk Information and Screening Education을 시험했다."
               },
               {
                 "t": "p",
-                "x": "밴더빌트대학교 의료센터(Vanderbilt University Medical Center) 연구진은 2022년 12월 1일부터 2026년 4월 15일까지의 행동건강 경과 기록을 후향적으로 검토해 AI 관련(AI-related) 키워드와 정신병적 장애 진단이 함께 기록된 환자를 추렸다. 평가자 두 명이 AI 상호작용을 중립, AI 정신증(챗봇 사용이 정신증을 악화시킨 경우), AI 관련 정신병적 내용으로 분류했고 AI 정신증 사례는 다시 촉매, 증폭자, 공동저자, 대상의 네 유형으로 나눴다."
+                "x": "참가자는 9개 유전성 암 소인 증후군 중 1개를 지닌 12~24세 영어 사용자였다. 챗봇은 증후군별 위험과 검진 정보를 알려 주고, 배우기, 검진 계획 세우기, 또래와 공유하기, 지지 모임과 연결하기, 대처 지원으로 성장하기를 위한 자료 페이지도 갖췄다."
               },
               {
                 "t": "p",
-                "x": "578,058건의 기록(고유 환자 215,712명) 가운데 환자 73명의 진료 187건이 기준을 충족했다. 28명(정신건강 진료를 받은 환자의 0.013%)이 AI 정신증 군에 속했다. 기록된 제품 가운데 15건(53.6%)이 ChatGPT였고 상호작용 24건(85.7%)은 GPT-4o가 출시된 2024년 5월 이후에 기록됐다. AI 정신증 군의 60.7%가 첫 정신병 삽화였던 반면 중립 군은 17.6%였다. 가장 흔한 유형은 증폭자(64.3%)였다."
+                "x": "평가 대상 AYAs 798명 중 106명을 무작위 배정했다(챗봇 54명, 대조군 52명). 진료 후 30세까지의 암 위험을 정확히 아는 비율은 챗봇군 78%, 대조군 37%였다(OR, 3.50; P = .005). 검진 지식 향상과 고통 감소에서는 통계적으로 유의한 차이가 없었다."
               },
               {
                 "t": "p",
-                "x": "저자들은 GPT-4o 이후 사례가 늘어난 시기가 이 모델의 아첨(sycophancy) 성향이 보고된 때와 겹친다고 짚었다. 다만 연구 설계상 인과관계까지 입증하지는 못한다. 정신과 진료에서 AI 사용을 정기적으로 평가할 필요가 있어 보인다는 게 이들의 결론이다."
+                "x": "연구진은 진료에 맞춰 개인 맞춤형의 정확한 전자 정보를 주면 고통을 늘리지 않고도 위험 지식을 높일 수 있다고 결론 내렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI精神病を\n大規模医療機関で測る",
-          "body": "コホート研究がAI精神病の有病率と、精神病エピソードにおける対話型AIの役割を推定した。",
-          "mini_headline": "AI精神病を測る",
+          "headline": "遺伝性がんリスクの\nチャットボットを試験",
+          "body": "チャットボットを使った若者の78%が30歳までのがんリスクを知り、対照群は37%だった。",
+          "mini_headline": "遺伝性がんリスクのチャットボット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "対話型AIチャットボットが精神病症状の出現や悪化と結びつく例が増えている。著者らはこの現象を「AI精神病(AI psychosis)」と呼ぶ。これまでの根拠は症例報告、見解論文、シミュレーションが中心だった。"
+                "x": "遺伝性がん素因をもつ思春期・若年成人(AYAs)は生涯のがんリスクが高いが、そのリスクの理解を支えるモデルは存在しなかった。この無作為化臨床試験は2022年12月から2025年5月にかけて、Dana-Farber、Emory/Children’s Healthcare of Atlanta、University of Chicago、Utah’s Huntsman Cancer Instituteで、チャットボット型の電子的ながんリスク伝達ツールAYA Risk Information and Screening Educationを検証した。"
               },
               {
                 "t": "p",
-                "x": "ヴァンダービルト大学医療センター(Vanderbilt University Medical Center)の研究者らは、2022年12月1日から2026年4月15日までの行動保健の経過記録を後ろ向きに調べ、AI関連(AI-related)のキーワードがあり精神病性障害の診断が記録された患者を抽出した。二人の評価者がAIとのやり取りを中立、AI精神病(チャットボット利用が精神病を悪化させたもの)、AI関連の精神病的内容に分類し、AI精神病の症例を触媒、増幅者、共著者、対象の四つの類型に分けた。"
+                "x": "参加者は9種類の遺伝性がん素因症候群のうち1つをもつ12〜24歳の英語話者だった。チャットボットは症候群ごとのリスクと検診の情報を示し、学ぶ、検診を計画する、仲間と共有する、支援グループとつながる、対処支援を通じて成長する、ためのリソースページを備えていた。"
               },
               {
                 "t": "p",
-                "x": "578,058件の記録(固有患者215,712人)のうち、患者73人による187件の診療が基準を満たした。28人(精神保健医療を受けた患者の0.013%)がAI精神病群に該当した。記録された製品は15件(53.6%)がChatGPTで、やり取り24件(85.7%)はGPT-4oが公開された2024年5月以降に記録されていた。AI精神病群の60.7%が初回精神病エピソードだったのに対し、中立群は17.6%だった。最も多い類型は増幅者(64.3%)だった。"
+                "x": "評価した798人のAYAsのうち106人を無作為に割り付けた(チャットボット54人、対照52人)。受診後、30歳までのがんリスクを正確に把握していたのはチャットボット群の78%、対照群の37%だった(OR, 3.50; P = .005)。検診知識の向上と苦痛の軽減は統計的に有意ではなかった。"
               },
               {
                 "t": "p",
-                "x": "著者らは、GPT-4o以降の増加が同モデルで指摘された迎合性(sycophancy)の時期と重なると指摘する一方、研究デザイン上、因果関係は立証できないとしている。そのうえで、精神科診療の場でAI利用を日常的に評価することが妥当だと結論づけた。"
+                "x": "著者らは、受診に個別化された正確な電子情報を組み合わせることで、苦痛を増やさずにリスクの理解が向上したと結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "在大型医疗系统中\n测量AI精神病",
-          "body": "一项队列研究估算了AI精神病的患病率，以及对话式AI在精神病发作中的作用。",
-          "mini_headline": "测量AI精神病",
+          "headline": "试验检验一款\n遗传性癌症风险聊天机器人",
+          "body": "随机试验中，使用癌症风险聊天机器人的年轻人有78%知晓30岁前的风险，对照组为37%。",
+          "mini_headline": "遗传性癌症风险聊天机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "对话式AI聊天机器人与精神病性症状的出现或加重之间的关联日益增多，作者将这一现象称为“AI精神病（AI psychosis）”。此前的证据大多是病例报告、观点文章和模拟研究。"
+                "x": "携带遗传性癌症易感性的青少年和年轻成人（AYAs）终生患癌风险很高，但此前没有任何模型帮助他们理解这一风险。这项随机临床试验于2022年12月至2025年5月在Dana-Farber、Emory/Children’s Healthcare of Atlanta、University of Chicago和Utah’s Huntsman Cancer Institute开展，测试了一款基于聊天机器人的电子癌症风险沟通工具AYA Risk Information and Screening Education。"
               },
               {
                 "t": "p",
-                "x": "范德堡大学医学中心（Vanderbilt University Medical Center）的研究人员回顾性审阅了2022年12月1日至2026年4月15日的行为健康病程记录，筛选出含有AI相关（AI-related）关键词且记录有精神病性障碍诊断的患者。两名评估者将AI互动分为中性、AI精神病（使用聊天机器人加重了精神病）或与AI相关的精神病性内容，并将AI精神病病例分为四种类型：催化者、放大者、共同作者和对象。"
+                "x": "参与者为12至24岁、患有9种遗传性癌症易感综合征中1种的英语使用者。聊天机器人提供针对具体综合征的风险和筛查信息，并设有资源页面，用于学习、规划筛查、与同伴分享、联系支持团体，以及借助应对支持实现成长。"
               },
               {
                 "t": "p",
-                "x": "在578,058份记录（215,712名独立患者）中，73名患者的187次就诊符合标准。28名患者（占接受精神卫生服务者的0.013%）属于AI精神病组。有记录的产品中ChatGPT占15例（53.6%），24次互动（85.7%）记录于GPT-4o在2024年5月发布之后。AI精神病组中60.7%处于首次精神病发作，中性组为17.6%。放大者是最常见的类型（64.3%）。"
+                "x": "在接受评估的798名AYAs中，106人被随机分组（聊天机器人组54人，对照组52人）。就诊后，聊天机器人组78%的人准确了解自己30岁前的癌症风险，对照组为37%（OR, 3.50; P = .005）。筛查知识的提升和心理困扰的减轻均无统计学意义。"
               },
               {
                 "t": "p",
-                "x": "作者指出，GPT-4o之后的增加与该模型有记录的谄媚（sycophancy）倾向在时间上吻合，但研究设计无法确立因果关系。他们的结论是，在精神科诊疗中常规评估AI使用情况似乎是有必要的。"
+                "x": "作者总结称，在就诊的同时提供个性化、准确的电子信息，可在不增加心理困扰的情况下提升对风险的认知。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Medir la psicosis por IA (AI)\nen un gran sistema de salud",
-          "body": "Un estudio de cohorte estima la prevalencia de la psicosis por IA (AI) y el papel de los chatbots en brotes psicóticos.",
-          "mini_headline": "Psicosis por IA (AI), medida",
+          "headline": "Un ensayo prueba un chatbot\nsobre riesgo de cáncer heredado",
+          "body": "El 78% de los jóvenes que usaron el chatbot conocía su riesgo de cáncer a los 30 años, frente al 37% de los controles.",
+          "mini_headline": "Un chatbot para el riesgo hereditario de cáncer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los chatbots de IA conversacional se asocian cada vez más con la aparición o el empeoramiento de síntomas psicóticos, un fenómeno que los autores llaman «psicosis por IA» (\"AI psychosis\"). La evidencia previa consistía sobre todo en informes de casos, artículos de opinión y simulaciones."
+                "x": "Los adolescentes y adultos jóvenes (AYAs) con predisposición hereditaria al cáncer afrontan un alto riesgo de cáncer a lo largo de la vida, pero no existían modelos que los ayudaran a comprender ese riesgo. Este ensayo clínico aleatorizado probó una herramienta electrónica de comunicación del riesgo de cáncer basada en un chatbot, AYA Risk Information and Screening Education, en Dana-Farber, Emory/Children’s Healthcare of Atlanta, la University of Chicago y Utah’s Huntsman Cancer Institute entre diciembre de 2022 y mayo de 2025."
               },
               {
                 "t": "p",
-                "x": "Investigadores del Vanderbilt University Medical Center revisaron de forma retrospectiva las notas de evolución de salud conductual del 1 de diciembre de 2022 al 15 de abril de 2026 en busca de pacientes con palabras clave relacionadas con la IA (AI-related) y un diagnóstico documentado de trastorno psicótico. Dos evaluadores clasificaron las interacciones con la IA como neutrales, psicosis por IA (uso de chatbots que empeoró la psicosis) o contenido psicótico relacionado con la IA, y ordenaron los casos de psicosis por IA en cuatro tipos: catalizador, amplificador, coautor y objeto."
+                "x": "Los participantes eran hablantes de inglés de 12 a 24 años con 1 de 9 síndromes de predisposición hereditaria al cáncer. El chatbot ofrecía información sobre el riesgo y el cribado específica de cada síndrome, con páginas de recursos para aprender, planificar el cribado, compartir con sus pares, conectar con grupos de apoyo y crecer mediante apoyo para el afrontamiento."
               },
               {
                 "t": "p",
-                "x": "De 578,058 registros (215,712 pacientes únicos), 187 consultas de 73 pacientes cumplieron los criterios. 28 pacientes (0.013% de quienes recibían atención de salud mental) formaban el grupo de psicosis por IA (AI). ChatGPT fue el producto documentado en 15 casos (53.6%), y 24 interacciones (85.7%) se documentaron después del lanzamiento de GPT-4o en mayo de 2024. El 60.7% del grupo de psicosis por IA atravesaba un primer episodio psicótico, frente al 17.6% del grupo neutral. El tipo más frecuente fue el amplificador (64.3%)."
+                "x": "De 798 AYAs evaluados, 106 fueron aleatorizados (54 al chatbot, 52 al grupo control). Tras la visita clínica, el 78% del grupo del chatbot frente al 37% de los controles conocía con precisión su riesgo de cáncer a los 30 años (OR, 3.50; P = .005). Las mejoras en el conocimiento sobre el cribado y la reducción del malestar no fueron estadísticamente significativas."
               },
               {
                 "t": "p",
-                "x": "Los autores señalan que el aumento tras GPT-4o coincide con la complacencia (sycophancy) documentada en ese modelo, pero el diseño no permite establecer causalidad. Concluyen que parece justificado evaluar de forma rutinaria el uso de IA (AI) durante las consultas psiquiátricas."
+                "x": "Los autores concluyen que combinar la visita clínica con información electrónica personalizada y precisa mejoró el conocimiento del riesgo sin aumentar el malestar."
               }
             ]
           }
@@ -169,105 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 정신증을\n대형 의료기관에서 재다",
-          "body": "코호트 연구가 AI 정신증 유병률과 정신병 삽화에서 대화형 AI의 역할을 추정했다.",
-          "mini_headline": "AI 정신증을 재다",
+          "headline": "유전성 암 위험 챗봇,\n임상시험으로 검증",
+          "body": "챗봇을 쓴 젊은 층 78%가 30세까지의 암 위험을 알았고 대조군은 37%였다.",
+          "mini_headline": "유전성 암 위험을 알려주는 챗봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "대화형 AI 챗봇이 정신병적 증상의 발현이나 악화와 연결되는 사례가 늘고 있다. 저자들은 이 현상을 \"AI 정신증(AI psychosis)\"이라 부른다. 기존 근거는 대부분 증례 보고, 관점 논문, 시뮬레이션이었다."
+                "x": "유전성 암 소인을 지닌 청소년·청년(AYAs)은 평생 암 위험이 높지만, 이들이 그 위험을 이해하도록 돕는 모델은 없었다. 이 무작위 임상시험은 2022년 12월부터 2025년 5월까지 Dana-Farber, Emory/Children’s Healthcare of Atlanta, University of Chicago, Utah’s Huntsman Cancer Institute에서 챗봇 기반 전자 암 위험 소통 도구 AYA Risk Information and Screening Education을 시험했다."
               },
               {
                 "t": "p",
-                "x": "밴더빌트대학교 의료센터(Vanderbilt University Medical Center) 연구진은 2022년 12월 1일부터 2026년 4월 15일까지의 행동건강 경과 기록을 후향적으로 검토해, AI 관련(AI-related) 키워드가 있고 정신병적 장애 진단이 기록된 환자를 찾았다. 평가자 두 명이 AI 상호작용을 중립, AI 정신증(챗봇 사용이 정신증을 악화시킨 경우), AI 관련 정신병적 내용으로 분류했고, AI 정신증 사례를 촉매, 증폭자, 공동저자, 대상의 네 유형으로 나눴다."
+                "x": "참가자는 9개 유전성 암 소인 증후군 중 1개를 지닌 12~24세 영어 사용자였다. 챗봇은 증후군별 위험과 검진 정보를 제공했고, 배우기, 검진 계획 세우기, 또래와 공유하기, 지지 모임과 연결하기, 대처 지원으로 성장하기를 위한 자료 페이지를 갖췄다."
               },
               {
                 "t": "p",
-                "x": "578,058건의 기록(고유 환자 215,712명) 가운데 환자 73명의 진료 187건이 기준을 충족했다. 28명(정신건강 진료를 받은 환자의 0.013%)이 AI 정신증 군에 속했다. 기록된 제품은 15건(53.6%)이 ChatGPT였고, 상호작용 24건(85.7%)은 GPT-4o가 출시된 2024년 5월 이후에 기록됐다. AI 정신증 군의 60.7%가 첫 정신병 삽화였던 반면 중립 군은 17.6%였다. 가장 흔한 유형은 증폭자(64.3%)였다."
+                "x": "평가한 798명의 AYAs 중 106명을 무작위 배정했다(챗봇 54명, 대조군 52명). 진료 후 30세까지의 암 위험을 정확히 아는 비율은 챗봇군 78%, 대조군 37%였다(OR, 3.50; P = .005). 검진 지식 향상과 고통 감소는 통계적으로 유의하지 않았다."
               },
               {
                 "t": "p",
-                "x": "저자들은 GPT-4o 이후의 증가가 이 모델에서 보고된 아첨(sycophancy) 성향과 시기가 겹친다고 짚었지만, 연구 설계상 인과관계를 입증할 수는 없다. 이들은 정신과 진료에서 AI 사용을 정기적으로 평가할 필요가 있어 보인다고 결론지었다."
+                "x": "연구진은 진료와 함께 개인 맞춤형의 정확한 전자 정보를 제공하면 고통을 늘리지 않고 위험 지식을 높일 수 있다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI精神病を\n大規模医療機関で測る",
-          "body": "コホート研究がAI精神病の有病率と、精神病エピソードにおける対話型AIの役割を推定した。",
-          "mini_headline": "AI精神病を測る",
+          "headline": "遺伝性がんリスクの\nチャットボットを試験",
+          "body": "チャットボットを使った若者の78%が30歳までのがんリスクを知り、対照群は37%だった。",
+          "mini_headline": "遺伝性がんリスクのチャットボット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "対話型AIチャットボットが精神病症状の出現や悪化と結びつく例が増えている。著者らはこの現象を「AI精神病(AI psychosis)」と呼ぶ。これまでの根拠は症例報告、見解論文、シミュレーションが中心だった。"
+                "x": "遺伝性がん素因をもつ思春期・若年成人(AYAs)は生涯のがんリスクが高いが、そのリスクの理解を支えるモデルは存在しなかった。この無作為化臨床試験は2022年12月から2025年5月にかけて、Dana-Farber、Emory/Children’s Healthcare of Atlanta、University of Chicago、Utah’s Huntsman Cancer Instituteで、チャットボット型の電子的ながんリスク伝達ツールAYA Risk Information and Screening Educationを検証した。"
               },
               {
                 "t": "p",
-                "x": "ヴァンダービルト大学医療センター(Vanderbilt University Medical Center)の研究者らは、2022年12月1日から2026年4月15日までの行動保健の経過記録を後ろ向きに調べ、AI関連(AI-related)のキーワードがあり精神病性障害の診断が記録された患者を抽出した。二人の評価者がAIとのやり取りを中立、AI精神病(チャットボット利用が精神病を悪化させたもの)、AI関連の精神病的内容に分類し、AI精神病の症例を触媒、増幅者、共著者、対象の四つの類型に分けた。"
+                "x": "参加者は9種類の遺伝性がん素因症候群のうち1つをもつ12〜24歳の英語話者だった。チャットボットは症候群ごとのリスクと検診の情報を示し、学ぶ、検診を計画する、仲間と共有する、支援グループとつながる、対処支援を通じて成長する、ためのリソースページを備えていた。"
               },
               {
                 "t": "p",
-                "x": "578,058件の記録(固有患者215,712人)のうち、患者73人による187件の診療が基準を満たした。28人(精神保健医療を受けた患者の0.013%)がAI精神病群に該当した。記録された製品は15件(53.6%)がChatGPTで、やり取り24件(85.7%)はGPT-4oが公開された2024年5月以降に記録されていた。AI精神病群の60.7%が初回精神病エピソードだったのに対し、中立群は17.6%だった。最も多い類型は増幅者(64.3%)だった。"
+                "x": "評価した798人のAYAsのうち106人を無作為に割り付けた(チャットボット54人、対照52人)。受診後、30歳までのがんリスクを正確に把握していたのはチャットボット群の78%、対照群の37%だった(OR, 3.50; P = .005)。検診知識の向上と苦痛の軽減は統計的に有意ではなかった。"
               },
               {
                 "t": "p",
-                "x": "著者らは、GPT-4o以降の増加が同モデルで指摘された迎合性(sycophancy)の時期と重なると指摘する一方、研究デザイン上、因果関係は立証できないとしている。そのうえで、精神科診療の場でAI利用を日常的に評価することが妥当だと結論づけた。"
+                "x": "著者らは、受診に個別化された正確な電子情報を組み合わせることで、苦痛を増やさずにリスクの理解が向上したと結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "在大型医疗系统中\n测量AI精神病",
-          "body": "一项队列研究估算了AI精神病的患病率，以及对话式AI在精神病发作中的作用。",
-          "mini_headline": "测量AI精神病",
+          "headline": "试验检验一款\n遗传性癌症风险聊天机器人",
+          "body": "随机试验中，使用癌症风险聊天机器人的年轻人有78%知晓30岁前的风险，对照组为37%。",
+          "mini_headline": "遗传性癌症风险聊天机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "对话式AI聊天机器人与精神病性症状的出现或加重之间的关联日益增多，作者将这一现象称为“AI精神病（AI psychosis）”。此前的证据大多是病例报告、观点文章和模拟研究。"
+                "x": "携带遗传性癌症易感性的青少年和年轻成人（AYAs）终生患癌风险很高，但此前没有任何模型帮助他们理解这一风险。这项随机临床试验于2022年12月至2025年5月在Dana-Farber、Emory/Children’s Healthcare of Atlanta、University of Chicago和Utah’s Huntsman Cancer Institute开展，测试了一款基于聊天机器人的电子癌症风险沟通工具AYA Risk Information and Screening Education。"
               },
               {
                 "t": "p",
-                "x": "范德堡大学医学中心（Vanderbilt University Medical Center）的研究人员回顾性审阅了2022年12月1日至2026年4月15日的行为健康病程记录，筛选出含有AI相关（AI-related）关键词且记录有精神病性障碍诊断的患者。两名评估者将AI互动分为中性、AI精神病（使用聊天机器人加重了精神病）或与AI相关的精神病性内容，并将AI精神病病例分为四种类型：催化者、放大者、共同作者和对象。"
+                "x": "参与者为12至24岁、患有9种遗传性癌症易感综合征中1种的英语使用者。聊天机器人提供针对具体综合征的风险和筛查信息，并设有资源页面，用于学习、规划筛查、与同伴分享、联系支持团体，以及借助应对支持实现成长。"
               },
               {
                 "t": "p",
-                "x": "在578,058份记录（215,712名独立患者）中，73名患者的187次就诊符合标准。28名患者（占接受精神卫生服务者的0.013%）属于AI精神病组。有记录的产品中ChatGPT占15例（53.6%），24次互动（85.7%）记录于GPT-4o在2024年5月发布之后。AI精神病组中60.7%处于首次精神病发作，中性组为17.6%。放大者是最常见的类型（64.3%）。"
+                "x": "在接受评估的798名AYAs中，106人被随机分组（聊天机器人组54人，对照组52人）。就诊后，聊天机器人组78%的人准确了解自己30岁前的癌症风险，对照组为37%（OR, 3.50; P = .005）。筛查知识的提升和心理困扰的减轻均无统计学意义。"
               },
               {
                 "t": "p",
-                "x": "作者指出，GPT-4o之后的增加与该模型有记录的谄媚（sycophancy）倾向在时间上吻合，但研究设计无法确立因果关系。他们的结论是，在精神科诊疗中常规评估AI使用情况似乎是有必要的。"
+                "x": "作者总结称，在就诊的同时提供个性化、准确的电子信息，可在不增加心理困扰的情况下提升对风险的认知。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Medir la psicosis por IA (AI)\nen un gran sistema de salud",
-          "body": "Un estudio de cohorte estima la prevalencia de la psicosis por IA (AI) y el papel de los chatbots en brotes psicóticos.",
-          "mini_headline": "Psicosis por IA (AI), medida",
+          "headline": "Un ensayo prueba un chatbot\nsobre riesgo de cáncer heredado",
+          "body": "El 78% de los jóvenes que usaron el chatbot conocía su riesgo de cáncer a los 30 años, frente al 37% de los controles.",
+          "mini_headline": "Un chatbot para el riesgo hereditario de cáncer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los chatbots de IA conversacional se asocian cada vez más con la aparición o el empeoramiento de síntomas psicóticos, un fenómeno que los autores llaman «psicosis por IA» (\"AI psychosis\"). La evidencia previa consistía sobre todo en informes de casos, artículos de opinión y simulaciones."
+                "x": "Los adolescentes y adultos jóvenes (AYAs) con predisposición hereditaria al cáncer afrontan un alto riesgo de cáncer a lo largo de la vida, pero no existían modelos que los ayudaran a comprender ese riesgo. Este ensayo clínico aleatorizado probó una herramienta electrónica de comunicación del riesgo de cáncer basada en un chatbot, AYA Risk Information and Screening Education, en Dana-Farber, Emory/Children’s Healthcare of Atlanta, la University of Chicago y Utah’s Huntsman Cancer Institute entre diciembre de 2022 y mayo de 2025."
               },
               {
                 "t": "p",
-                "x": "Investigadores del Vanderbilt University Medical Center revisaron de forma retrospectiva las notas de evolución de salud conductual del 1 de diciembre de 2022 al 15 de abril de 2026 en busca de pacientes con palabras clave relacionadas con la IA (AI-related) y un diagnóstico documentado de trastorno psicótico. Dos evaluadores clasificaron las interacciones con la IA como neutrales, psicosis por IA (uso de chatbots que empeoró la psicosis) o contenido psicótico relacionado con la IA, y ordenaron los casos de psicosis por IA en cuatro tipos: catalizador, amplificador, coautor y objeto."
+                "x": "Los participantes eran hablantes de inglés de 12 a 24 años con 1 de 9 síndromes de predisposición hereditaria al cáncer. El chatbot ofrecía información sobre el riesgo y el cribado específica de cada síndrome, con páginas de recursos para aprender, planificar el cribado, compartir con sus pares, conectar con grupos de apoyo y crecer mediante apoyo para el afrontamiento."
               },
               {
                 "t": "p",
-                "x": "De 578,058 registros (215,712 pacientes únicos), 187 consultas de 73 pacientes cumplieron los criterios. 28 pacientes (0.013% de quienes recibían atención de salud mental) formaban el grupo de psicosis por IA (AI). ChatGPT fue el producto documentado en 15 casos (53.6%), y 24 interacciones (85.7%) se documentaron después del lanzamiento de GPT-4o en mayo de 2024. El 60.7% del grupo de psicosis por IA atravesaba un primer episodio psicótico, frente al 17.6% del grupo neutral. El tipo más frecuente fue el amplificador (64.3%)."
+                "x": "De 798 AYAs evaluados, 106 fueron aleatorizados (54 al chatbot, 52 al grupo control). Tras la visita clínica, el 78% del grupo del chatbot frente al 37% de los controles conocía con precisión su riesgo de cáncer a los 30 años (OR, 3.50; P = .005). Las mejoras en el conocimiento sobre el cribado y la reducción del malestar no fueron estadísticamente significativas."
               },
               {
                 "t": "p",
-                "x": "Los autores señalan que el aumento tras GPT-4o coincide con la complacencia (sycophancy) documentada en ese modelo, pero el diseño no permite establecer causalidad. Concluyen que parece justificado evaluar de forma rutinaria el uso de IA (AI) durante las consultas psiquiátricas."
+                "x": "Los autores concluyen que combinar la visita clínica con información electrónica personalizada y precisa mejoró el conocimiento del riesgo sin aumentar el malestar."
               }
             ]
           }
@@ -275,195 +275,165 @@
       }
     },
     {
-      "id": "fda-cdrh-fy27-ai-guidance",
+      "id": "pancreatic-cancer-subtype-histopathology-dl",
       "source_lang": "en",
       "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "FDA, AI·수술 로봇\nFY2027 의제에 올렸다",
-      "body": "FDA는 FY2027에 AI 기기 지침을 확정하고 생성형 AI 권고 초안을 낸다.",
-      "mini_headline": "FDA의 FY2027 AI 과제",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
+      "headline": "일상 슬라이드로\n췌장암 아형 판별",
+      "body": "딥러닝이 비싼 유전자 발현 검사 없이 H&E 슬라이드만으로 췌장암 아형을 가려낸다.",
+      "mini_headline": "슬라이드로 읽는 췌장암 아형",
+      "source": "Communications Medicine",
+      "url": "https://www.nature.com/articles/s43856-026-01952-5",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-            "cap": "FDA의 차순위 과제에는 맥박산소측정기 지침 확정이 들어 있다."
+            "t": "p",
+            "x": "췌장관선암은 예후와 치료 반응이 다른 고전형과 기저형 분자 아형으로 나뉜다. 하지만 전사체 기반 아형 분류는 비용과 소요 시간, 조직 요건 탓에 널리 쓰이지 못한다. 연구진은 딥러닝이 일상적인 H&E-stained 전체 슬라이드 이미지만 보고 이 아형을 바로 추론할 수 있는지 살폈다."
           },
           {
             "t": "p",
-            "x": "식품의약국(Food and Drug Administration, FDA)은 목요일 2027 회계연도 지침 우선순위를 발표하고 인공지능 관련 문서를 확정하거나 초안을 내겠다는 목표를 내걸었다. 앞으로 12개월 동안 FDA가 가장 먼저 처리할 과제에는 AI 기반 기기(AI-enabled devices)의 시판 제출·전 주기 관리 지침 확정과 생성형 AI(generative-AI) 권고안 초안 작성이 들어 있다."
+            "x": "연구진은 Pancreatic Cancer Action Network(n = 506)와 The Cancer Genome Atlas(n = 183)에서 조직 소견과 RNA-sequencing 데이터를 함께 갖춘 환자 689명을 분석했다. 연구진이 만든 PanSubNet은 세포 형태와 조직 구조를 함께 보고 아형을 예측한다."
           },
           {
             "t": "p",
-            "x": "FDA는 지난주 초안으로 공개한 로봇 보조 수술기기 시판 전 제출 지침도 빨리 확정할 과제로 꼽았다. FDA는 우선순위 의견을 11월 30일까지 받는다."
+            "x": "PanSubNet은 신뢰도 높은 고전형과 기저형 종양을 내부 검증에서 평균 AUC 90.3%, 독립 외부 검증에서 84.0%로 구분했다. 전이성 질환에서는 예측 아형에 따라 전체 생존이 유의하게 갈렸고, 전사체 결과가 엇갈리는 사례 가운데 공격적인 종양을 가려냈다."
           },
           {
             "t": "p",
-            "x": "FDA는 2025년 1월 AI 기반 기기(AI-enabled) 전 주기 지침 초안을 공개했다. 올해는 정신질환용 생성형 AI 기반 대화형 기기의 근거 권고안 초안부터 쓴다. 지난해 목록에 없던 주제로, 8월에 생성형 AI 규제 의견을 요청한 흐름과 맞닿아 있다."
-          },
-          {
-            "t": "p",
-            "x": "공기정화 호흡보호구, 생리용품 시험과 표시, 품질경영시스템, 지난해에서 넘어온 사전 변경 관리 계획도 우선순위에 올랐다. 맥박산소측정기 지침 확정은 차순위 과제에 들어갔다."
+            "x": "분자 검사가 제한적이거나 현실적으로 어려운 곳이라면 이 방법이 전사체 프로파일링을 보완할 빠르고 조직을 아끼는 수단이 된다고 연구진은 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "FDA puts AI and surgical\nrobots on its FY2027 agenda",
-          "body": "The FDA device center plans to finalize AI-enabled device guidance and draft generative-AI advice in fiscal 2027.",
-          "mini_headline": "FDA's FY2027 AI agenda",
+          "headline": "Reading pancreatic cancer\nsubtypes from routine slides",
+          "body": "Deep learning infers pancreatic cancer subtypes, which normally need costly gene-expression tests, from H&E slides.",
+          "mini_headline": "Pancreatic subtypes from slides",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-                "cap": "The FDA's second-tier priorities include finalizing guidance on pulse oximeters."
+                "t": "p",
+                "x": "Pancreatic ductal adenocarcinoma comprises classical and basal-like molecular subtypes that differ in prognosis and treatment response, but transcriptomic subtyping is limited by cost, turnaround time and tissue requirements. The researchers asked whether these subtypes can be inferred directly from routine H&E-stained whole-slide images using deep learning."
               },
               {
                 "t": "p",
-                "x": "The Food and Drug Administration published its fiscal 2027 guidance priorities Thursday, setting itself the goal of finalizing and drafting artificial intelligence documents. Over the coming 12 months, the FDA's top priorities include finalizing guidance on marketing submissions and lifecycle management for AI-enabled devices and drafting generative AI advice."
+                "x": "They analyzed 689 patients with paired histology and RNA-sequencing data from the Pancreatic Cancer Action Network (n = 506) and The Cancer Genome Atlas (n = 183). Their model, PanSubNet, integrates cellular morphology with tissue architecture to predict subtype."
               },
               {
                 "t": "p",
-                "x": "The agency is also prioritizing the swift finalization of its guidance on premarket submissions of robotically assisted surgical devices, which it published in draft form last week. The FDA is accepting feedback on its priorities until Nov. 30."
+                "x": "PanSubNet distinguished high-confidence classical and basal-like tumors with a mean AUC of 90.3% in internal validation and 84.0% in independent external validation. In metastatic disease, its predicted subtypes significantly stratified overall survival and flagged aggressive tumors among transcriptionally discordant cases."
               },
               {
                 "t": "p",
-                "x": "The FDA published the draft AI-enabled device lifecycle guidance in January 2025. This year, it is prioritizing drafting evidentiary recommendations on generative AI-enabled conversational devices for mental disorders, a topic absent from last year's list but aligned with an August call for feedback on regulating generative AI."
-              },
-              {
-                "t": "p",
-                "x": "Other priorities include air-purifying respirators, menstrual product testing and labeling, quality management systems, and a holdover on predetermined change control plans. Second-tier priorities include finalizing guidance on pulse oximeters."
+                "x": "The authors say the approach offers a rapid, tissue-sparing complement to transcriptomic profiling where molecular testing is limited or impractical."
               }
             ]
           }
         },
         "ko": {
-          "headline": "FDA, AI·수술 로봇\nFY2027 의제에 올렸다",
-          "body": "FDA는 FY2027에 AI 기기 지침을 확정하고 생성형 AI 권고 초안을 낸다.",
-          "mini_headline": "FDA의 FY2027 AI 과제",
+          "headline": "일상 슬라이드로\n췌장암 아형 판별",
+          "body": "딥러닝이 비싼 유전자 발현 검사 없이 H&E 슬라이드만으로 췌장암 아형을 가려낸다.",
+          "mini_headline": "슬라이드로 읽는 췌장암 아형",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-                "cap": "FDA의 차순위 과제에는 맥박산소측정기 지침 확정이 들어 있다."
+                "t": "p",
+                "x": "췌장관선암은 예후와 치료 반응이 다른 고전형과 기저형 분자 아형으로 나뉜다. 하지만 전사체 기반 아형 분류는 비용과 소요 시간, 조직 요건 탓에 널리 쓰이지 못한다. 연구진은 딥러닝이 일상적인 H&E-stained 전체 슬라이드 이미지만 보고 이 아형을 바로 추론할 수 있는지 살폈다."
               },
               {
                 "t": "p",
-                "x": "식품의약국(Food and Drug Administration, FDA)은 목요일 2027 회계연도 지침 우선순위를 발표하고 인공지능 관련 문서를 확정하거나 초안을 내겠다는 목표를 내걸었다. 앞으로 12개월 동안 FDA가 가장 먼저 처리할 과제에는 AI 기반 기기(AI-enabled devices)의 시판 제출·전 주기 관리 지침 확정과 생성형 AI(generative-AI) 권고안 초안 작성이 들어 있다."
+                "x": "연구진은 Pancreatic Cancer Action Network(n = 506)와 The Cancer Genome Atlas(n = 183)에서 조직 소견과 RNA-sequencing 데이터를 함께 갖춘 환자 689명을 분석했다. 연구진이 만든 PanSubNet은 세포 형태와 조직 구조를 함께 보고 아형을 예측한다."
               },
               {
                 "t": "p",
-                "x": "FDA는 지난주 초안으로 공개한 로봇 보조 수술기기 시판 전 제출 지침도 빨리 확정할 과제로 꼽았다. FDA는 우선순위 의견을 11월 30일까지 받는다."
+                "x": "PanSubNet은 신뢰도 높은 고전형과 기저형 종양을 내부 검증에서 평균 AUC 90.3%, 독립 외부 검증에서 84.0%로 구분했다. 전이성 질환에서는 예측 아형에 따라 전체 생존이 유의하게 갈렸고, 전사체 결과가 엇갈리는 사례 가운데 공격적인 종양을 가려냈다."
               },
               {
                 "t": "p",
-                "x": "FDA는 2025년 1월 AI 기반 기기(AI-enabled) 전 주기 지침 초안을 공개했다. 올해는 정신질환용 생성형 AI 기반 대화형 기기의 근거 권고안 초안부터 쓴다. 지난해 목록에 없던 주제로, 8월에 생성형 AI 규제 의견을 요청한 흐름과 맞닿아 있다."
-              },
-              {
-                "t": "p",
-                "x": "공기정화 호흡보호구, 생리용품 시험과 표시, 품질경영시스템, 지난해에서 넘어온 사전 변경 관리 계획도 우선순위에 올랐다. 맥박산소측정기 지침 확정은 차순위 과제에 들어갔다."
+                "x": "분자 검사가 제한적이거나 현실적으로 어려운 곳이라면 이 방법이 전사체 프로파일링을 보완할 빠르고 조직을 아끼는 수단이 된다고 연구진은 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、AIと手術ロボットを\nFY2027の重点課題に",
-          "body": "FDAの機器部門は2027会計年度にAI機器指針の確定と生成AI助言の草案作成を予定する。",
-          "mini_headline": "FDAのFY2027 AI計画",
+          "headline": "通常のスライドから\n膵がんサブタイプを読む",
+          "body": "高価な遺伝子発現検査を要する膵がんのサブタイプを、深層学習がH&Eスライドから推定する。",
+          "mini_headline": "スライドから読む膵がんサブタイプ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-                "cap": "FDAの準優先課題には、パルスオキシメーターのガイダンス確定が含まれる。"
+                "t": "p",
+                "x": "膵管腺がんは予後と治療反応が異なる古典型と基底様型の分子サブタイプに分かれるが、トランスクリプトームによるサブタイプ分類はコスト、所要時間、組織量の要件に制約される。研究チームは、深層学習を用いて日常的なH&E-stained 全スライド画像からこれらのサブタイプを直接推定できるかを検討した。"
               },
               {
                 "t": "p",
-                "x": "食品医薬品局(Food and Drug Administration、FDA)は木曜日、2027会計年度のガイダンス優先事項を公表し、人工知能関連文書の確定と草案作成を目標に掲げた。今後12か月のFDAの最優先事項には、AI搭載機器(AI-enabled devices)の販売申請とライフサイクル管理に関するガイダンスの確定と、生成AI(generative-AI)に関する助言の草案作成が含まれる。"
+                "x": "研究チームは、Pancreatic Cancer Action Network(n = 506)とThe Cancer Genome Atlas(n = 183)から、組織像とRNA-sequencingデータが対になった患者689人を解析した。モデルPanSubNetは細胞形態と組織構築を統合してサブタイプを予測する。"
               },
               {
                 "t": "p",
-                "x": "FDAはまた、先週草案として公表したロボット支援手術機器の市販前申請に関するガイダンスを早期に確定することも優先している。FDAは11月30日まで優先事項への意見を受け付けている。"
+                "x": "PanSubNetは高信頼度の古典型と基底様型の腫瘍を、内部検証で平均AUC 90.3%、独立した外部検証で84.0%で識別した。転移例では予測サブタイプが全生存期間を有意に層別化し、トランスクリプトーム上で判定が食い違う症例の中から悪性度の高い腫瘍を拾い上げた。"
               },
               {
                 "t": "p",
-                "x": "FDAは2025年1月、AI搭載機器(AI-enabled)のライフサイクルに関するガイダンス草案を公表した。今年は、精神疾患向けの生成AI搭載対話型機器に関するエビデンス推奨の草案作成を優先する。昨年のリストにはなかったテーマだが、生成AIの規制をめぐる8月の意見募集と方向性が一致する。"
-              },
-              {
-                "t": "p",
-                "x": "このほかの優先事項には、空気清浄式呼吸用保護具、生理用品の試験と表示、品質マネジメントシステム、昨年から持ち越された事前変更管理計画がある。準優先課題には、パルスオキシメーターのガイダンス確定が含まれる。"
+                "x": "著者らは、分子検査が限られる、あるいは現実的でない場面で、この手法がトランスクリプトーム解析を補う迅速で組織を節約できる手段になるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA将AI与手术机器人\n列入FY2027议程",
-          "body": "FDA器械中心计划在2027财年敲定AI赋能器械指南，并起草生成式AI建议。",
-          "mini_headline": "FDA的FY2027 AI议程",
+          "headline": "从常规切片\n读出胰腺癌亚型",
+          "body": "深度学习可从H&E切片推断胰腺癌亚型，而这通常需要昂贵的基因表达检测。",
+          "mini_headline": "从切片识别胰腺癌亚型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-                "cap": "FDA的次级优先事项包括敲定脉搏血氧仪指南。"
+                "t": "p",
+                "x": "胰腺导管腺癌包括经典型和基底样型两种分子亚型，二者的预后和治疗反应不同，但转录组分型受限于成本、周转时间和组织需求。研究人员探讨能否利用深度学习，直接从常规H&E-stained全切片图像中推断这些亚型。"
               },
               {
                 "t": "p",
-                "x": "食品药品监督管理局（Food and Drug Administration，FDA）周四公布了2027财年指南优先事项，为自己设定了敲定和起草人工智能文件的目标。未来12个月，FDA的首要任务包括敲定AI赋能器械（AI-enabled devices）上市申报与全生命周期管理指南，以及起草生成式AI（generative-AI）建议。"
+                "x": "他们分析了来自Pancreatic Cancer Action Network（n = 506）和The Cancer Genome Atlas（n = 183）的689名患者，这些患者同时拥有配对的组织学和RNA-sequencing数据。他们的模型PanSubNet整合细胞形态与组织结构来预测亚型。"
               },
               {
                 "t": "p",
-                "x": "该机构还优先推动尽快敲定机器人辅助手术器械上市前申报指南，该指南草案已于上周发布。FDA将在11月30日前就其优先事项征求意见。"
+                "x": "PanSubNet在内部验证中区分高置信度经典型和基底样型肿瘤的平均AUC为90.3%，在独立外部验证中为84.0%。在转移性疾病中，其预测亚型可显著区分总生存期，并在转录组结果不一致的病例中识别出侵袭性肿瘤。"
               },
               {
                 "t": "p",
-                "x": "FDA于2025年1月发布了AI赋能器械（AI-enabled）全生命周期指南草案。今年，FDA优先起草关于用于精神障碍的生成式AI赋能对话式器械的证据建议，这一主题未出现在去年的清单中，但与8月就生成式AI监管征求意见的举措一致。"
-              },
-              {
-                "t": "p",
-                "x": "其他优先事项包括空气净化呼吸器、经期用品的检测与标签、质量管理体系，以及从去年延续下来的预定变更控制计划。次级优先事项包括敲定脉搏血氧仪指南。"
+                "x": "作者表示，在分子检测受限或不切实际的情况下，这一方法可作为转录组分析的快速、节省组织的补充手段。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FDA incluye IA (AI) y robots\nquirúrgicos en su agenda FY2027",
-          "body": "La FDA prevé finalizar en el año fiscal 2027 su guía de dispositivos con IA y redactar otra sobre IA generativa.",
-          "mini_headline": "La agenda de IA (AI) de la FDA para FY2027",
+          "headline": "Subtipos de cáncer de páncreas\nleídos en láminas de rutina",
+          "body": "El aprendizaje profundo deduce de láminas H&E subtipos de cáncer de páncreas que exigen costosos análisis génicos.",
+          "mini_headline": "Subtipos pancreáticos desde láminas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-                "cap": "Entre las prioridades secundarias de la FDA figura finalizar la guía sobre pulsioxímetros."
+                "t": "p",
+                "x": "El adenocarcinoma ductal de páncreas comprende los subtipos moleculares clásico y de tipo basal, que difieren en pronóstico y respuesta al tratamiento, pero la subtipificación transcriptómica está limitada por el coste, el tiempo de respuesta y los requisitos de tejido. Los investigadores se preguntaron si estos subtipos pueden inferirse directamente a partir de imágenes de lámina completa H&E-stained de rutina mediante aprendizaje profundo."
               },
               {
                 "t": "p",
-                "x": "La Food and Drug Administration (FDA) publicó el jueves sus prioridades de guías para el año fiscal 2027 y se fijó como meta finalizar y redactar documentos sobre inteligencia artificial. En los próximos 12 meses, las principales prioridades de la FDA incluyen finalizar la guía sobre solicitudes de comercialización y gestión del ciclo de vida de los dispositivos con IA (AI-enabled) y redactar recomendaciones sobre IA generativa (generative-AI)."
+                "x": "Analizaron a 689 pacientes con datos pareados de histología y RNA-sequencing del Pancreatic Cancer Action Network (n = 506) y The Cancer Genome Atlas (n = 183). Su modelo, PanSubNet, integra la morfología celular con la arquitectura tisular para predecir el subtipo."
               },
               {
                 "t": "p",
-                "x": "La agencia también da prioridad a finalizar con rapidez su guía sobre solicitudes previas a la comercialización de dispositivos quirúrgicos asistidos por robot, que publicó como borrador la semana pasada. La FDA acepta comentarios sobre sus prioridades hasta el 30 de noviembre."
+                "x": "PanSubNet distinguió los tumores clásicos y de tipo basal de alta confianza con un AUC medio del 90.3% en la validación interna y del 84.0% en una validación externa independiente. En la enfermedad metastásica, los subtipos predichos estratificaron de forma significativa la supervivencia global y señalaron tumores agresivos entre los casos transcriptómicamente discordantes."
               },
               {
                 "t": "p",
-                "x": "La FDA publicó en enero de 2025 el borrador de la guía sobre el ciclo de vida de los dispositivos con IA (AI-enabled). Este año prioriza redactar recomendaciones probatorias sobre dispositivos conversacionales con IA generativa para trastornos mentales, un tema ausente en la lista del año pasado pero alineado con la convocatoria de comentarios de agosto sobre la regulación de la IA (AI) generativa."
-              },
-              {
-                "t": "p",
-                "x": "Otras prioridades incluyen los respiradores purificadores de aire, las pruebas y el etiquetado de productos menstruales, los sistemas de gestión de calidad y un tema pendiente sobre planes de control de cambios predeterminados. Entre las prioridades secundarias figura finalizar la guía sobre pulsioxímetros."
+                "x": "Los autores afirman que el método ofrece un complemento rápido y que ahorra tejido al perfil transcriptómico cuando las pruebas moleculares son limitadas o poco prácticas."
               }
             ]
           }
@@ -471,125 +441,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "FDA, AI·수술 로봇\nFY2027 의제에 올렸다",
-          "body": "FDA는 FY2027에 AI 기기 지침을 확정하고 생성형 AI 권고 초안을 낸다.",
-          "mini_headline": "FDA의 FY2027 AI 과제",
+          "headline": "일상 슬라이드로\n췌장암 아형 판별",
+          "body": "딥러닝이 고가의 유전자 발현 검사 없이 H&E 슬라이드로 췌장암 아형을 추론한다.",
+          "mini_headline": "슬라이드로 읽는 췌장암 아형",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-                "cap": "FDA의 차순위 과제에는 맥박산소측정기 지침 확정이 들어 있다."
+                "t": "p",
+                "x": "췌장관선암은 예후와 치료 반응이 다른 고전형과 기저형 분자 아형으로 나뉘지만, 전사체 기반 아형 분류는 비용, 소요 시간, 조직 요건 때문에 쓰임이 제한된다. 연구진은 딥러닝으로 일상적인 H&E-stained 전체 슬라이드 이미지에서 이 아형을 바로 추론할 수 있는지 살폈다."
               },
               {
                 "t": "p",
-                "x": "식품의약국(Food and Drug Administration, FDA)은 목요일 2027 회계연도 지침 우선순위를 발표하며 인공지능 관련 문서의 확정과 초안 작성을 목표로 내걸었다. 앞으로 12개월 동안 FDA의 최우선 과제에는 AI 기반 기기(AI-enabled devices)의 시판 제출과 전 주기 관리에 관한 지침 확정, 그리고 생성형 AI(generative-AI) 권고안 초안 작성이 들어 있다."
+                "x": "연구진은 Pancreatic Cancer Action Network(n = 506)와 The Cancer Genome Atlas(n = 183)에서 조직 소견과 RNA-sequencing 데이터를 함께 갖춘 환자 689명을 분석했다. 이들의 모델 PanSubNet은 세포 형태와 조직 구조를 통합해 아형을 예측한다."
               },
               {
                 "t": "p",
-                "x": "FDA는 지난주 초안으로 공개한 로봇 보조 수술기기 시판 전 제출 지침도 신속히 확정하는 데 우선순위를 두고 있다. FDA는 11월 30일까지 우선순위에 대한 의견을 받는다."
+                "x": "PanSubNet은 신뢰도 높은 고전형과 기저형 종양을 내부 검증에서 평균 AUC 90.3%, 독립 외부 검증에서 84.0%로 구분했다. 전이성 질환에서는 예측 아형이 전체 생존을 유의하게 층화했고, 전사체 결과가 엇갈리는 사례 가운데 공격적인 종양을 가려냈다."
               },
               {
                 "t": "p",
-                "x": "FDA는 2025년 1월 AI 기반 기기(AI-enabled) 전 주기 지침 초안을 공개했다. 올해는 정신질환용 생성형 AI 기반 대화형 기기에 대한 근거 권고안 초안 작성을 우선한다. 지난해 목록에는 없던 주제지만, 생성형 AI 규제에 관한 8월 의견 요청과 궤를 같이한다."
-              },
-              {
-                "t": "p",
-                "x": "그 밖의 우선순위로는 공기정화 호흡보호구, 생리용품 시험과 표시, 품질경영시스템, 그리고 지난해에서 넘어온 사전 변경 관리 계획이 있다. 차순위 과제에는 맥박산소측정기 지침 확정이 포함된다."
+                "x": "연구진은 이 방법이 분자 검사가 제한적이거나 현실적으로 어려운 곳에서 전사체 프로파일링을 보완하는, 빠르고 조직을 아끼는 수단이 된다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、AIと手術ロボットを\nFY2027の重点課題に",
-          "body": "FDAの機器部門は2027会計年度にAI機器指針の確定と生成AI助言の草案作成を予定する。",
-          "mini_headline": "FDAのFY2027 AI計画",
+          "headline": "通常のスライドから\n膵がんサブタイプを読む",
+          "body": "高価な遺伝子発現検査を要する膵がんのサブタイプを、深層学習がH&Eスライドから推定する。",
+          "mini_headline": "スライドから読む膵がんサブタイプ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-                "cap": "FDAの準優先課題には、パルスオキシメーターのガイダンス確定が含まれる。"
+                "t": "p",
+                "x": "膵管腺がんは予後と治療反応が異なる古典型と基底様型の分子サブタイプに分かれるが、トランスクリプトームによるサブタイプ分類はコスト、所要時間、組織量の要件に制約される。研究チームは、深層学習を用いて日常的なH&E-stained 全スライド画像からこれらのサブタイプを直接推定できるかを検討した。"
               },
               {
                 "t": "p",
-                "x": "食品医薬品局(Food and Drug Administration、FDA)は木曜日、2027会計年度のガイダンス優先事項を公表し、人工知能関連文書の確定と草案作成を目標に掲げた。今後12か月のFDAの最優先事項には、AI搭載機器(AI-enabled devices)の販売申請とライフサイクル管理に関するガイダンスの確定と、生成AI(generative-AI)に関する助言の草案作成が含まれる。"
+                "x": "研究チームは、Pancreatic Cancer Action Network(n = 506)とThe Cancer Genome Atlas(n = 183)から、組織像とRNA-sequencingデータが対になった患者689人を解析した。モデルPanSubNetは細胞形態と組織構築を統合してサブタイプを予測する。"
               },
               {
                 "t": "p",
-                "x": "FDAはまた、先週草案として公表したロボット支援手術機器の市販前申請に関するガイダンスを早期に確定することも優先している。FDAは11月30日まで優先事項への意見を受け付けている。"
+                "x": "PanSubNetは高信頼度の古典型と基底様型の腫瘍を、内部検証で平均AUC 90.3%、独立した外部検証で84.0%で識別した。転移例では予測サブタイプが全生存期間を有意に層別化し、トランスクリプトーム上で判定が食い違う症例の中から悪性度の高い腫瘍を拾い上げた。"
               },
               {
                 "t": "p",
-                "x": "FDAは2025年1月、AI搭載機器(AI-enabled)のライフサイクルに関するガイダンス草案を公表した。今年は、精神疾患向けの生成AI搭載対話型機器に関するエビデンス推奨の草案作成を優先する。昨年のリストにはなかったテーマだが、生成AIの規制をめぐる8月の意見募集と方向性が一致する。"
-              },
-              {
-                "t": "p",
-                "x": "このほかの優先事項には、空気清浄式呼吸用保護具、生理用品の試験と表示、品質マネジメントシステム、昨年から持ち越された事前変更管理計画がある。準優先課題には、パルスオキシメーターのガイダンス確定が含まれる。"
+                "x": "著者らは、分子検査が限られる、あるいは現実的でない場面で、この手法がトランスクリプトーム解析を補う迅速で組織を節約できる手段になるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA将AI与手术机器人\n列入FY2027议程",
-          "body": "FDA器械中心计划在2027财年敲定AI赋能器械指南，并起草生成式AI建议。",
-          "mini_headline": "FDA的FY2027 AI议程",
+          "headline": "从常规切片\n读出胰腺癌亚型",
+          "body": "深度学习可从H&E切片推断胰腺癌亚型，而这通常需要昂贵的基因表达检测。",
+          "mini_headline": "从切片识别胰腺癌亚型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-                "cap": "FDA的次级优先事项包括敲定脉搏血氧仪指南。"
+                "t": "p",
+                "x": "胰腺导管腺癌包括经典型和基底样型两种分子亚型，二者的预后和治疗反应不同，但转录组分型受限于成本、周转时间和组织需求。研究人员探讨能否利用深度学习，直接从常规H&E-stained全切片图像中推断这些亚型。"
               },
               {
                 "t": "p",
-                "x": "食品药品监督管理局（Food and Drug Administration，FDA）周四公布了2027财年指南优先事项，为自己设定了敲定和起草人工智能文件的目标。未来12个月，FDA的首要任务包括敲定AI赋能器械（AI-enabled devices）上市申报与全生命周期管理指南，以及起草生成式AI（generative-AI）建议。"
+                "x": "他们分析了来自Pancreatic Cancer Action Network（n = 506）和The Cancer Genome Atlas（n = 183）的689名患者，这些患者同时拥有配对的组织学和RNA-sequencing数据。他们的模型PanSubNet整合细胞形态与组织结构来预测亚型。"
               },
               {
                 "t": "p",
-                "x": "该机构还优先推动尽快敲定机器人辅助手术器械上市前申报指南，该指南草案已于上周发布。FDA将在11月30日前就其优先事项征求意见。"
+                "x": "PanSubNet在内部验证中区分高置信度经典型和基底样型肿瘤的平均AUC为90.3%，在独立外部验证中为84.0%。在转移性疾病中，其预测亚型可显著区分总生存期，并在转录组结果不一致的病例中识别出侵袭性肿瘤。"
               },
               {
                 "t": "p",
-                "x": "FDA于2025年1月发布了AI赋能器械（AI-enabled）全生命周期指南草案。今年，FDA优先起草关于用于精神障碍的生成式AI赋能对话式器械的证据建议，这一主题未出现在去年的清单中，但与8月就生成式AI监管征求意见的举措一致。"
-              },
-              {
-                "t": "p",
-                "x": "其他优先事项包括空气净化呼吸器、经期用品的检测与标签、质量管理体系，以及从去年延续下来的预定变更控制计划。次级优先事项包括敲定脉搏血氧仪指南。"
+                "x": "作者表示，在分子检测受限或不切实际的情况下，这一方法可作为转录组分析的快速、节省组织的补充手段。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FDA incluye IA (AI) y robots\nquirúrgicos en su agenda FY2027",
-          "body": "La FDA prevé finalizar en el año fiscal 2027 su guía de dispositivos con IA y redactar otra sobre IA generativa.",
-          "mini_headline": "La agenda de IA (AI) de la FDA para FY2027",
+          "headline": "Subtipos de cáncer de páncreas\nleídos en láminas de rutina",
+          "body": "El aprendizaje profundo deduce de láminas H&E subtipos de cáncer de páncreas que exigen costosos análisis génicos.",
+          "mini_headline": "Subtipos pancreáticos desde láminas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-                "cap": "Entre las prioridades secundarias de la FDA figura finalizar la guía sobre pulsioxímetros."
+                "t": "p",
+                "x": "El adenocarcinoma ductal de páncreas comprende los subtipos moleculares clásico y de tipo basal, que difieren en pronóstico y respuesta al tratamiento, pero la subtipificación transcriptómica está limitada por el coste, el tiempo de respuesta y los requisitos de tejido. Los investigadores se preguntaron si estos subtipos pueden inferirse directamente a partir de imágenes de lámina completa H&E-stained de rutina mediante aprendizaje profundo."
               },
               {
                 "t": "p",
-                "x": "La Food and Drug Administration (FDA) publicó el jueves sus prioridades de guías para el año fiscal 2027 y se fijó como meta finalizar y redactar documentos sobre inteligencia artificial. En los próximos 12 meses, las principales prioridades de la FDA incluyen finalizar la guía sobre solicitudes de comercialización y gestión del ciclo de vida de los dispositivos con IA (AI-enabled) y redactar recomendaciones sobre IA generativa (generative-AI)."
+                "x": "Analizaron a 689 pacientes con datos pareados de histología y RNA-sequencing del Pancreatic Cancer Action Network (n = 506) y The Cancer Genome Atlas (n = 183). Su modelo, PanSubNet, integra la morfología celular con la arquitectura tisular para predecir el subtipo."
               },
               {
                 "t": "p",
-                "x": "La agencia también da prioridad a finalizar con rapidez su guía sobre solicitudes previas a la comercialización de dispositivos quirúrgicos asistidos por robot, que publicó como borrador la semana pasada. La FDA acepta comentarios sobre sus prioridades hasta el 30 de noviembre."
+                "x": "PanSubNet distinguió los tumores clásicos y de tipo basal de alta confianza con un AUC medio del 90.3% en la validación interna y del 84.0% en una validación externa independiente. En la enfermedad metastásica, los subtipos predichos estratificaron de forma significativa la supervivencia global y señalaron tumores agresivos entre los casos transcriptómicamente discordantes."
               },
               {
                 "t": "p",
-                "x": "La FDA publicó en enero de 2025 el borrador de la guía sobre el ciclo de vida de los dispositivos con IA (AI-enabled). Este año prioriza redactar recomendaciones probatorias sobre dispositivos conversacionales con IA generativa para trastornos mentales, un tema ausente en la lista del año pasado pero alineado con la convocatoria de comentarios de agosto sobre la regulación de la IA (AI) generativa."
-              },
-              {
-                "t": "p",
-                "x": "Otras prioridades incluyen los respiradores purificadores de aire, las pruebas y el etiquetado de productos menstruales, los sistemas de gestión de calidad y un tema pendiente sobre planes de control de cambios predeterminados. Entre las prioridades secundarias figura finalizar la guía sobre pulsioxímetros."
+                "x": "Los autores afirman que el método ofrece un complemento rápido y que ahorra tejido al perfil transcriptómico cuando las pruebas moleculares son limitadas o poco prácticas."
               }
             ]
           }
@@ -597,165 +547,165 @@
       }
     },
     {
-      "id": "voice-ae-ctcae-audio",
+      "id": "fda-radiology-ai-authorizations-rise-42",
       "source_lang": "en",
       "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "암 치료 부작용 등급을\n진료실 대화에서 매기다",
-      "body": "VOICE-AE는 음성인식·LLMs로 녹음 속 CTCAE 이상반응 등급을 매긴다.",
-      "mini_headline": "진료 음성으로 독성 등급화",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03373-z",
+      "headline": "영상의학 AI 연간\n허가 42% 증가",
+      "body": "FDA-authorized 영상 AI는 1,094건이고 연간 허가는 42% 늘었다.",
+      "mini_headline": "영상의학 AI 허가 42% 증가",
+      "source": "Radiology Business",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-ai-authorizations-rise-42-regulatory-landscape-evolves",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "치료 관련 이상반응 기록은 손이 많이 들고 관찰자 간 편차가 생기기 쉽다. VOICE-AE는 자동 음성인식과 화자 분리, 대규모 언어모델을 엮은 다단계 파이프라인이다. 의료진과 환자의 대화 녹음에서 CTCAE 독성을 자동으로 뽑아 등급을 매긴다."
+            "t": "img",
+            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
           },
           {
             "t": "p",
-            "x": "방사선 치료를 받는 전립선암 환자의 진료를 녹음한 뒤 눈가림된 평가자 여섯 명이 같은 전사본으로 비뇨생식기·위장관 독성 10종의 등급을 매겼다. 환자 31명(진료 39건)에서 진료–독성 평가 390건이 나왔는데 이 가운데 300건(76.9%)은 기준 등급이 0이었다."
+            "x": "Academic Radiology에 실린 FDA의 AI-enabled 의료기기 데이터베이스 신규 분석을 보면 이 기술의 규제상 위치가 어떻게 바뀌어 왔는지 자세히 드러난다. Columbia University Irving Medical Center의 Stella K. Kang, MD와 동료들은 2025년 12월까지 허가된 영상의학 AI 기기 1,094개의 특성을 분석했다."
           },
           {
             "t": "p",
-            "x": "VOICE-AE의 평균 가중 카파(kappa)는 0.717이었다. CTCAE 등급 완전 일치율은 82.6%, 한 등급 이내 정확도는 99.2%였다. 하지만 늘 0등급만 내놓는 단순 분류기(always-grade-0)도 각각 76.9%와 93.6%에 이른다. 1등급과 2등급에서는 성능이 떨어졌고(F1 0.58과 0.57) 이분 탐지 민감도는 77.8%, 특이도는 89.0%였다."
+            "x": "연구 기간에 연간 허가 건수는 42% 늘었지만 기능별 구성은 비교적 안정적이었다. 영상 관리·처리 시스템이 38%, 영상 장비가 33%, 판독용 AI 도구가 23%를 차지했다. Multi-finding 기기는 4%에서 18%로 늘었다."
           },
           {
             "t": "p",
-            "x": "VOICE-AE의 성능은 전문가 간 일치도 범위 안에 들었고, 진료 후 이상반응(AE) 기록 자동화가 실현 가능하다는 쪽에 힘을 실었다. 다만 ≥2등급 정확도와 중증 독성 탐지는 아직 입증되지 않았다."
+            "x": "FDA 심사 기간 중앙값은 OEM 기기가 118일로 non-OEM 기기의 138일보다 짧았다. 사전 변경 관리 계획 허가 비율은 2020–2023년 1%에 조금 못 미치던 수준에서 2025년 9% 가까이로 올랐다. 일부 소프트웨어 수정을 기존 규제 틀 안에서 관리할 수 있다는 신호다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Grading cancer side effects\nfrom clinic conversations",
-          "body": "VOICE-AE uses speech recognition and LLMs to extract and grade CTCAE adverse events from recorded oncology visits.",
-          "mini_headline": "Ambient audio grades toxicity",
+          "headline": "Yearly radiology AI\nauthorizations up 42%",
+          "body": "A review of 1,094 FDA-authorized radiology AI devices finds annual authorizations rose 42% over the study period.",
+          "mini_headline": "Radiology AI authorizations up 42%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Treatment-related adverse event documentation is labor-intensive and subject to inter-observer variability. VOICE-AE is a multi-stage pipeline integrating automatic speech recognition, speaker diarization and large language models for automated extraction and grading of CTCAE toxicities from clinician-patient audio recordings."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
               },
               {
                 "t": "p",
-                "x": "Encounters of prostate cancer patients undergoing radiotherapy were recorded; six blinded human raters graded 10 genitourinary/gastrointestinal toxicities from the same transcripts. 31 patients (39 encounters) yielded 390 encounter–toxicity assessments, 300 (76.9%) with a reference grade of 0."
+                "x": "A new analysis of the FDA’s AI-enabled medical device database, published in Academic Radiology, details how the technology’s regulatory standing has evolved. Stella K. Kang, MD, of Columbia University Irving Medical Center and colleagues characterized 1,094 radiology AI devices authorized through December 2025."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE achieved a mean weighted kappa of 0.717. Exact CTCAE grade match was 82.6% and within-one-grade accuracy 99.2%, though a trivial always-grade-0 classifier would reach 76.9% and 93.6%. Performance was weaker at grades 1 and 2 (F1 0.58 and 0.57); binary detection sensitivity was 77.8%, specificity 89.0%."
+                "x": "Annual authorizations increased by 42% during the timeframe studied, though the functional makeup stayed relatively stable: image management and processing systems made up 38% of devices, imaging systems 33% and interpretive AI tools 23%. Multi-finding devices rose from 4% to 18%."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE performed within the range of inter-expert agreement, supporting the feasibility of automated post-encounter AE documentation. Accuracy at grade ≥2 and detection of severe toxicity remain unproven."
+                "x": "Median FDA review time was shorter for OEM devices than non-OEM ones, 118 versus 138 days. Predetermined change control plan authorization rose from just under 1% in 2020–2023 to nearly 9% in 2025, a sign that some software modifications can be managed within an existing regulatory framework."
               }
             ]
           }
         },
         "ko": {
-          "headline": "암 치료 부작용 등급을\n진료실 대화에서 매기다",
-          "body": "VOICE-AE는 음성인식·LLMs로 녹음 속 CTCAE 이상반응 등급을 매긴다.",
-          "mini_headline": "진료 음성으로 독성 등급화",
+          "headline": "영상의학 AI 연간\n허가 42% 증가",
+          "body": "FDA-authorized 영상 AI는 1,094건이고 연간 허가는 42% 늘었다.",
+          "mini_headline": "영상의학 AI 허가 42% 증가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "치료 관련 이상반응 기록은 손이 많이 들고 관찰자 간 편차가 생기기 쉽다. VOICE-AE는 자동 음성인식과 화자 분리, 대규모 언어모델을 엮은 다단계 파이프라인이다. 의료진과 환자의 대화 녹음에서 CTCAE 독성을 자동으로 뽑아 등급을 매긴다."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
               },
               {
                 "t": "p",
-                "x": "방사선 치료를 받는 전립선암 환자의 진료를 녹음한 뒤 눈가림된 평가자 여섯 명이 같은 전사본으로 비뇨생식기·위장관 독성 10종의 등급을 매겼다. 환자 31명(진료 39건)에서 진료–독성 평가 390건이 나왔는데 이 가운데 300건(76.9%)은 기준 등급이 0이었다."
+                "x": "Academic Radiology에 실린 FDA의 AI-enabled 의료기기 데이터베이스 신규 분석을 보면 이 기술의 규제상 위치가 어떻게 바뀌어 왔는지 자세히 드러난다. Columbia University Irving Medical Center의 Stella K. Kang, MD와 동료들은 2025년 12월까지 허가된 영상의학 AI 기기 1,094개의 특성을 분석했다."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE의 평균 가중 카파(kappa)는 0.717이었다. CTCAE 등급 완전 일치율은 82.6%, 한 등급 이내 정확도는 99.2%였다. 하지만 늘 0등급만 내놓는 단순 분류기(always-grade-0)도 각각 76.9%와 93.6%에 이른다. 1등급과 2등급에서는 성능이 떨어졌고(F1 0.58과 0.57) 이분 탐지 민감도는 77.8%, 특이도는 89.0%였다."
+                "x": "연구 기간에 연간 허가 건수는 42% 늘었지만 기능별 구성은 비교적 안정적이었다. 영상 관리·처리 시스템이 38%, 영상 장비가 33%, 판독용 AI 도구가 23%를 차지했다. Multi-finding 기기는 4%에서 18%로 늘었다."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE의 성능은 전문가 간 일치도 범위 안에 들었고, 진료 후 이상반응(AE) 기록 자동화가 실현 가능하다는 쪽에 힘을 실었다. 다만 ≥2등급 정확도와 중증 독성 탐지는 아직 입증되지 않았다."
+                "x": "FDA 심사 기간 중앙값은 OEM 기기가 118일로 non-OEM 기기의 138일보다 짧았다. 사전 변경 관리 계획 허가 비율은 2020–2023년 1%에 조금 못 미치던 수준에서 2025년 9% 가까이로 올랐다. 일부 소프트웨어 수정을 기존 규제 틀 안에서 관리할 수 있다는 신호다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "がん治療の副作用を\n診察の会話でグレード判定",
-          "body": "VOICE-AEは音声認識とLLMsで、診察録音からCTCAE有害事象を抽出し等級化する。",
-          "mini_headline": "診察音声で毒性を判定",
+          "headline": "放射線AIの年間\n承認が42%増",
+          "body": "FDA-authorizedの放射線AI機器1,094件を調べると年間承認は42%増えた。",
+          "mini_headline": "放射線AIの承認が42%増",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "治療関連有害事象の記録は手間がかかり、観察者間のばらつきも生じやすい。VOICE-AEは自動音声認識、話者分離、大規模言語モデルを統合した多段階パイプラインで、医師と患者の会話録音からCTCAEの毒性を自動で抽出し、グレードを判定する。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
               },
               {
                 "t": "p",
-                "x": "放射線治療を受ける前立腺がん患者の診察を録音し、盲検化された六人の評価者が同じ書き起こしから泌尿生殖器・消化器の毒性10項目のグレードを判定した。患者31人(診察39回)から390件の診察–毒性評価が得られ、そのうち300件(76.9%)は基準グレードが0だった。"
+                "x": "Academic Radiologyに掲載された、FDAのAI-enabled医療機器データベースの新たな分析は、この技術の規制上の位置づけがどう変わってきたかを詳しく示している。Columbia University Irving Medical CenterのStella K. Kang, MDらは、2025年12月までに承認された放射線科AI機器1,094件の特徴を分析した。"
               },
               {
                 "t": "p",
-                "x": "VOICE-AEの平均重み付きカッパ(kappa)は0.717だった。CTCAEグレードの完全一致率は82.6%、一段階以内の正解率は99.2%だったが、常にグレード0と答えるだけの単純な分類器(always-grade-0)でも76.9%と93.6%に達する。グレード1と2では性能が低く(F1 0.58と0.57)、二値検出の感度は77.8%、特異度は89.0%だった。"
+                "x": "調査期間中に年間承認数は42%増えたが、機能別の構成は比較的安定していた。画像管理・処理システムが38%、画像診断装置が33%、読影AIツールが23%を占めた。Multi-finding機器は4%から18%に増えた。"
               },
               {
                 "t": "p",
-                "x": "VOICE-AEの性能は専門家間の一致の範囲内にあり、診察後のAE記録を自動化できる可能性を裏づけた。ただし、グレード≥2での精度と重症毒性の検出はまだ証明されていない。"
+                "x": "FDAの審査期間の中央値は、OEM機器が118日、non-OEM機器が138日とOEM機器のほうが短かった。事前変更管理計画の承認は2020–2023年の1%弱から2025年には9%近くに上昇しており、一部のソフトウェア変更を既存の規制枠組みの中で管理できることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从诊室对话中\n为癌症副作用分级",
-          "body": "VOICE-AE借助语音识别和LLMs，从肿瘤科就诊录音中提取CTCAE不良事件并分级。",
-          "mini_headline": "用诊室音频为毒性分级",
+          "headline": "放射学AI年度获批\n数量增长42%",
+          "body": "对1,094款FDA-authorized放射学AI设备的分析显示，年度获批增长42%。",
+          "mini_headline": "放射学AI获批量增长42%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "治疗相关不良事件的记录费时费力，且易受观察者间差异影响。VOICE-AE是一个多阶段流程，整合了自动语音识别、说话人分离和大语言模型，可从医患对话录音中自动提取CTCAE毒性并进行分级。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
               },
               {
                 "t": "p",
-                "x": "研究录制了接受放疗的前列腺癌患者的就诊过程；六名设盲的人类评估者根据同一份转录文本，对10种泌尿生殖/胃肠道毒性进行分级。31名患者（39次就诊）共产生390项就诊–毒性评估，其中300项（76.9%）的参考等级为0。"
+                "x": "发表在Academic Radiology上的一项新分析梳理了FDA的AI-enabled医疗器械数据库，详细说明了这项技术的监管地位如何演变。Columbia University Irving Medical Center的Stella K. Kang, MD及其同事对截至2025年12月获批的1,094款放射学AI设备进行了特征分析。"
               },
               {
                 "t": "p",
-                "x": "VOICE-AE的平均加权kappa为0.717。CTCAE等级完全一致率为82.6%，相差一级以内的准确率为99.2%，但一个始终判为0级的简单分类器（always-grade-0）也能达到76.9%和93.6%。在1级和2级上表现较弱（F1分别为0.58和0.57）；二分类检测的灵敏度为77.8%，特异度为89.0%。"
+                "x": "在研究期间，年度获批数量增长了42%，但功能构成相对稳定：图像管理与处理系统占38%，成像系统占33%，解读型AI工具占23%。Multi-finding设备从4%升至18%。"
               },
               {
                 "t": "p",
-                "x": "VOICE-AE的表现处于专家间一致性的范围之内，支持了就诊后AE记录自动化的可行性。但在≥2级上的准确性以及对严重毒性的检测仍未得到证实。"
+                "x": "OEM设备的FDA审评时间中位数短于non-OEM设备，分别为118天和138天。预定变更控制计划的获批比例从2020–2023年的略低于1%升至2025年的近9%，表明部分软件修改可以在现有监管框架内管理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Graduar toxicidad oncológica\ndesde lo hablado en consulta",
-          "body": "VOICE-AE usa reconocimiento de voz y LLMs para extraer y graduar eventos adversos CTCAE en grabaciones de oncología.",
-          "mini_headline": "El audio clínico gradúa la toxicidad",
+          "headline": "Autorizaciones anuales de AI\nen radiología suben un 42%",
+          "body": "Un estudio de 1,094 dispositivos FDA-authorized de AI radiológica halla que las autorizaciones anuales subieron un 42%.",
+          "mini_headline": "Las autorizaciones de AI en radiología suben un 42%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Documentar los eventos adversos relacionados con el tratamiento exige mucho trabajo y está sujeto a variabilidad entre observadores. VOICE-AE es un proceso de varias etapas que integra reconocimiento automático de voz, diarización de hablantes y modelos de lenguaje de gran tamaño para extraer y graduar de forma automática las toxicidades CTCAE a partir de grabaciones de audio entre clínico y paciente."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
               },
               {
                 "t": "p",
-                "x": "Se grabaron consultas de pacientes con cáncer de próstata en radioterapia; seis evaluadores humanos con enmascaramiento graduaron 10 toxicidades genitourinarias/gastrointestinales a partir de las mismas transcripciones. 31 pacientes (39 consultas) generaron 390 evaluaciones consulta–toxicidad, 300 de ellas (76.9%) con un grado de referencia de 0."
+                "x": "Un nuevo análisis de la base de datos de dispositivos médicos AI-enabled de la FDA, publicado en Academic Radiology, detalla cómo ha evolucionado la situación regulatoria de esta tecnología. Stella K. Kang, MD, del Columbia University Irving Medical Center, y sus colegas caracterizaron 1,094 dispositivos de AI en radiología autorizados hasta diciembre de 2025."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE alcanzó una kappa ponderada media de 0.717. La coincidencia exacta del grado CTCAE fue del 82.6% y la precisión con margen de un grado, del 99.2%, aunque un clasificador trivial que siempre asigna grado 0 (always-grade-0) llegaría al 76.9% y al 93.6%. El rendimiento fue menor en los grados 1 y 2 (F1 0.58 y 0.57); la sensibilidad de detección binaria fue del 77.8% y la especificidad, del 89.0%."
+                "x": "Las autorizaciones anuales aumentaron un 42% durante el periodo estudiado, aunque la composición funcional se mantuvo relativamente estable: los sistemas de gestión y procesamiento de imágenes representaron el 38% de los dispositivos, los sistemas de imagen el 33% y las herramientas de AI interpretativa el 23%. Los dispositivos Multi-finding pasaron del 4% al 18%."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE se situó dentro del rango de concordancia entre expertos, lo que respalda la viabilidad de documentar automáticamente los AE tras la consulta. La precisión en grado ≥2 y la detección de toxicidad grave siguen sin demostrarse."
+                "x": "La mediana del tiempo de revisión de la FDA fue menor para los dispositivos OEM que para los non-OEM: 118 frente a 138 días. La autorización con plan de control de cambios predeterminado pasó de poco menos del 1% en 2020–2023 a casi el 9% en 2025, señal de que algunas modificaciones de software pueden gestionarse dentro de un marco regulatorio existente."
               }
             ]
           }
@@ -763,105 +713,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "암 치료 부작용 등급을\n진료실 대화에서 매기다",
-          "body": "VOICE-AE는 음성인식·LLMs로 녹음 속 CTCAE 이상반응을 등급화한다.",
-          "mini_headline": "진료 음성으로 독성 등급화",
+          "headline": "영상의학 AI 연간\n허가 42% 증가",
+          "body": "FDA-authorized 영상 AI는 1,094건이며 연 허가는 42% 늘었다.",
+          "mini_headline": "영상의학 AI 허가 42% 증가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "치료 관련 이상반응 기록은 손이 많이 들고 관찰자 간 편차가 생기기 쉽다. VOICE-AE는 자동 음성인식, 화자 분리, 대규모 언어모델을 통합한 다단계 파이프라인으로, 의료진과 환자의 대화 녹음에서 CTCAE 독성을 자동으로 추출하고 등급을 매긴다."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
               },
               {
                 "t": "p",
-                "x": "방사선 치료를 받는 전립선암 환자의 진료를 녹음했고, 눈가림된 평가자 여섯 명이 같은 전사본으로 비뇨생식기·위장관 독성 10종의 등급을 매겼다. 환자 31명(진료 39건)에서 진료–독성 평가 390건이 나왔고, 그중 300건(76.9%)의 기준 등급이 0이었다."
+                "x": "Academic Radiology에 실린 FDA의 AI-enabled 의료기기 데이터베이스 신규 분석은 이 기술의 규제상 위치가 어떻게 바뀌어 왔는지를 자세히 보여준다. Columbia University Irving Medical Center의 Stella K. Kang, MD와 동료들은 2025년 12월까지 허가된 영상의학 AI 기기 1,094개의 특성을 분석했다."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE의 평균 가중 카파(kappa)는 0.717이었다. CTCAE 등급 완전 일치율은 82.6%, 한 등급 이내 정확도는 99.2%였지만, 언제나 0등급만 내놓는 단순 분류기(always-grade-0)도 76.9%와 93.6%에 이른다. 1등급과 2등급에서는 성능이 약했고(F1 0.58과 0.57), 이분 탐지 민감도는 77.8%, 특이도는 89.0%였다."
+                "x": "연구 기간 동안 연간 허가 건수는 42% 늘었지만 기능별 구성은 비교적 안정적이었다. 영상 관리·처리 시스템이 38%, 영상 장비가 33%, 판독용 AI 도구가 23%를 차지했다. Multi-finding 기기는 4%에서 18%로 늘었다."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE는 전문가 간 일치도 범위 안의 성능을 보여, 진료 후 이상반응(AE) 기록 자동화의 실현 가능성을 뒷받침했다. 다만 ≥2등급에서의 정확도와 중증 독성 탐지는 아직 입증되지 않았다."
+                "x": "FDA 심사 기간 중앙값은 OEM 기기가 non-OEM 기기보다 짧아 118일 대 138일이었다. 사전 변경 관리 계획 허가 비율은 2020–2023년 1%에 조금 못 미치던 수준에서 2025년 9% 가까이로 올랐는데, 이는 일부 소프트웨어 수정을 기존 규제 틀 안에서 관리할 수 있다는 신호다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "がん治療の副作用を\n診察の会話でグレード判定",
-          "body": "VOICE-AEは音声認識とLLMsで、診察録音からCTCAE有害事象を抽出し等級化する。",
-          "mini_headline": "診察音声で毒性を判定",
+          "headline": "放射線AIの年間\n承認が42%増",
+          "body": "FDA-authorizedの放射線AI機器1,094件を調べると年間承認は42%増えた。",
+          "mini_headline": "放射線AIの承認が42%増",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "治療関連有害事象の記録は手間がかかり、観察者間のばらつきも生じやすい。VOICE-AEは自動音声認識、話者分離、大規模言語モデルを統合した多段階パイプラインで、医師と患者の会話録音からCTCAEの毒性を自動で抽出し、グレードを判定する。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
               },
               {
                 "t": "p",
-                "x": "放射線治療を受ける前立腺がん患者の診察を録音し、盲検化された六人の評価者が同じ書き起こしから泌尿生殖器・消化器の毒性10項目のグレードを判定した。患者31人(診察39回)から390件の診察–毒性評価が得られ、そのうち300件(76.9%)は基準グレードが0だった。"
+                "x": "Academic Radiologyに掲載された、FDAのAI-enabled医療機器データベースの新たな分析は、この技術の規制上の位置づけがどう変わってきたかを詳しく示している。Columbia University Irving Medical CenterのStella K. Kang, MDらは、2025年12月までに承認された放射線科AI機器1,094件の特徴を分析した。"
               },
               {
                 "t": "p",
-                "x": "VOICE-AEの平均重み付きカッパ(kappa)は0.717だった。CTCAEグレードの完全一致率は82.6%、一段階以内の正解率は99.2%だったが、常にグレード0と答えるだけの単純な分類器(always-grade-0)でも76.9%と93.6%に達する。グレード1と2では性能が低く(F1 0.58と0.57)、二値検出の感度は77.8%、特異度は89.0%だった。"
+                "x": "調査期間中に年間承認数は42%増えたが、機能別の構成は比較的安定していた。画像管理・処理システムが38%、画像診断装置が33%、読影AIツールが23%を占めた。Multi-finding機器は4%から18%に増えた。"
               },
               {
                 "t": "p",
-                "x": "VOICE-AEの性能は専門家間の一致の範囲内にあり、診察後のAE記録を自動化できる可能性を裏づけた。ただし、グレード≥2での精度と重症毒性の検出はまだ証明されていない。"
+                "x": "FDAの審査期間の中央値は、OEM機器が118日、non-OEM機器が138日とOEM機器のほうが短かった。事前変更管理計画の承認は2020–2023年の1%弱から2025年には9%近くに上昇しており、一部のソフトウェア変更を既存の規制枠組みの中で管理できることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从诊室对话中\n为癌症副作用分级",
-          "body": "VOICE-AE借助语音识别和LLMs，从肿瘤科就诊录音中提取CTCAE不良事件并分级。",
-          "mini_headline": "用诊室音频为毒性分级",
+          "headline": "放射学AI年度获批\n数量增长42%",
+          "body": "对1,094款FDA-authorized放射学AI设备的分析显示，年度获批增长42%。",
+          "mini_headline": "放射学AI获批量增长42%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "治疗相关不良事件的记录费时费力，且易受观察者间差异影响。VOICE-AE是一个多阶段流程，整合了自动语音识别、说话人分离和大语言模型，可从医患对话录音中自动提取CTCAE毒性并进行分级。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
               },
               {
                 "t": "p",
-                "x": "研究录制了接受放疗的前列腺癌患者的就诊过程；六名设盲的人类评估者根据同一份转录文本，对10种泌尿生殖/胃肠道毒性进行分级。31名患者（39次就诊）共产生390项就诊–毒性评估，其中300项（76.9%）的参考等级为0。"
+                "x": "发表在Academic Radiology上的一项新分析梳理了FDA的AI-enabled医疗器械数据库，详细说明了这项技术的监管地位如何演变。Columbia University Irving Medical Center的Stella K. Kang, MD及其同事对截至2025年12月获批的1,094款放射学AI设备进行了特征分析。"
               },
               {
                 "t": "p",
-                "x": "VOICE-AE的平均加权kappa为0.717。CTCAE等级完全一致率为82.6%，相差一级以内的准确率为99.2%，但一个始终判为0级的简单分类器（always-grade-0）也能达到76.9%和93.6%。在1级和2级上表现较弱（F1分别为0.58和0.57）；二分类检测的灵敏度为77.8%，特异度为89.0%。"
+                "x": "在研究期间，年度获批数量增长了42%，但功能构成相对稳定：图像管理与处理系统占38%，成像系统占33%，解读型AI工具占23%。Multi-finding设备从4%升至18%。"
               },
               {
                 "t": "p",
-                "x": "VOICE-AE的表现处于专家间一致性的范围之内，支持了就诊后AE记录自动化的可行性。但在≥2级上的准确性以及对严重毒性的检测仍未得到证实。"
+                "x": "OEM设备的FDA审评时间中位数短于non-OEM设备，分别为118天和138天。预定变更控制计划的获批比例从2020–2023年的略低于1%升至2025年的近9%，表明部分软件修改可以在现有监管框架内管理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Graduar toxicidad oncológica\ndesde lo hablado en consulta",
-          "body": "VOICE-AE usa reconocimiento de voz y LLMs para extraer y graduar eventos adversos CTCAE en grabaciones de oncología.",
-          "mini_headline": "El audio clínico gradúa la toxicidad",
+          "headline": "Autorizaciones anuales de AI\nen radiología suben un 42%",
+          "body": "Un estudio de 1,094 dispositivos FDA-authorized de AI radiológica halla que las autorizaciones anuales subieron un 42%.",
+          "mini_headline": "Las autorizaciones de AI en radiología suben un 42%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Documentar los eventos adversos relacionados con el tratamiento exige mucho trabajo y está sujeto a variabilidad entre observadores. VOICE-AE es un proceso de varias etapas que integra reconocimiento automático de voz, diarización de hablantes y modelos de lenguaje de gran tamaño para extraer y graduar de forma automática las toxicidades CTCAE a partir de grabaciones de audio entre clínico y paciente."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
               },
               {
                 "t": "p",
-                "x": "Se grabaron consultas de pacientes con cáncer de próstata en radioterapia; seis evaluadores humanos con enmascaramiento graduaron 10 toxicidades genitourinarias/gastrointestinales a partir de las mismas transcripciones. 31 pacientes (39 consultas) generaron 390 evaluaciones consulta–toxicidad, 300 de ellas (76.9%) con un grado de referencia de 0."
+                "x": "Un nuevo análisis de la base de datos de dispositivos médicos AI-enabled de la FDA, publicado en Academic Radiology, detalla cómo ha evolucionado la situación regulatoria de esta tecnología. Stella K. Kang, MD, del Columbia University Irving Medical Center, y sus colegas caracterizaron 1,094 dispositivos de AI en radiología autorizados hasta diciembre de 2025."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE alcanzó una kappa ponderada media de 0.717. La coincidencia exacta del grado CTCAE fue del 82.6% y la precisión con margen de un grado, del 99.2%, aunque un clasificador trivial que siempre asigna grado 0 (always-grade-0) llegaría al 76.9% y al 93.6%. El rendimiento fue menor en los grados 1 y 2 (F1 0.58 y 0.57); la sensibilidad de detección binaria fue del 77.8% y la especificidad, del 89.0%."
+                "x": "Las autorizaciones anuales aumentaron un 42% durante el periodo estudiado, aunque la composición funcional se mantuvo relativamente estable: los sistemas de gestión y procesamiento de imágenes representaron el 38% de los dispositivos, los sistemas de imagen el 33% y las herramientas de AI interpretativa el 23%. Los dispositivos Multi-finding pasaron del 4% al 18%."
               },
               {
                 "t": "p",
-                "x": "VOICE-AE se situó dentro del rango de concordancia entre expertos, lo que respalda la viabilidad de documentar automáticamente los AE tras la consulta. La precisión en grado ≥2 y la detección de toxicidad grave siguen sin demostrarse."
+                "x": "La mediana del tiempo de revisión de la FDA fue menor para los dispositivos OEM que para los non-OEM: 118 frente a 138 días. La autorización con plan de control de cambios predeterminado pasó de poco menos del 1% en 2020–2023 a casi el 9% en 2025, señal de que algunas modificaciones de software pueden gestionarse dentro de un marco regulatorio existente."
               }
             ]
           }
@@ -869,15 +819,15 @@
       }
     },
     {
-      "id": "asan-peds-rrs-vuno",
-      "source_lang": "ko",
+      "id": "hhs-arpa-h-ai-clinical-trials",
+      "source_lang": "en",
       "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "소아 신속대응시스템에\n들어온 뷰노 AI",
-      "body": "박유경 교수는 아산 소아 RRS의 뷰노 AI가 고위험 환아 선별을 돕는다고 했다.",
-      "mini_headline": "아산 소아 RRS의 AI",
-      "source": "메디게이트뉴스",
-      "url": "https://www.medigatenews.com/news/1174160810",
+      "headline": "HHS, AI로\n임상시험 가속·확대",
+      "body": "HHS가 ARPA-H로 AI 기반 임상시험 가속 사업 SURPASS를 공개했다.",
+      "mini_headline": "HHS, 임상시험에 AI를 건다",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -885,355 +835,255 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://medigatenews.com/file/news/526509",
-            "cap": "서울아산병원 소아청소년과 박유경 교수."
+            "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
           },
           {
             "t": "p",
-            "x": "서울아산병원 소아청소년과 박유경 교수는 9월 19일 뷰노 소아 환자안전 글로벌 심포지엄에서 서울아산병원의 소아 RRS 운영 경험과 AI 기반 심정지 위험관리 의료기기 딥카스(DeepCARS) 활용 사례를 소개했다. 실제 임상에서 기존 점수체계보다 먼저 고위험 환자를 포착해 의료진의 개입으로 이어진 사례도 나오고 있다."
+            "x": "보건복지부(HHS)가 임상시험 속도를 높일 새 계획들을 발표했다. 인공지능과 계산 모델을 더 많이 들이고, 뚜렷하게 나뉜 임상시험 단계에서 벗어나겠다는 내용이다. U.S. 당국자들이 중국 등 다른 나라와 경쟁에 나선 가운데 나온 조치다."
           },
           {
             "t": "p",
-            "x": "서울아산병원은 2012년 소아 신속대응팀(PMET)을 도입했고, 2020년 APPLE 점수, 2022년 PMAS에 이어 지난해 딥카스를 추가했다. 딥카스 점수가 90점을 넘거나 단기간에 30점 이상 오르는 환아는 팝업 알람으로 스크리닝 대상이 된다. 박 교수는 \"유용하게 사용하고 있다\"고 했다."
+            "x": "핵심 프로그램 SURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)는 다섯 해 동안 이어지며, 올가을 늦게 “통계, AI, 임상시험 설계·운영·규제 분야의 학제 간 팀이 내놓는 획기적인 아이디어”를 받으며 출범한다."
           },
           {
             "t": "p",
-            "x": "조혈모세포이식을 위해 입원한 3세 11개월 여아는 ATG 투여 후 딥카스 점수가 95점으로 올라 신속대응팀에 포착됐다. 호흡수 등 일부 정보가 입력되지 않아 APPLE 점수보다 딥카스 점수가 먼저 상승했고, 환자는 PICU 전실과 치료 후 호전됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://medigatenews.com/file/news/526512",
-            "cap": "서울아산병원은 소아신속대응체계로 딥카스를 활용하고 있다. 사진=박유경 교수 발표 자료"
-          },
-          {
-            "t": "p",
-            "x": "한계도 있다. 실시간 연속 모니터링이 아닌 탓에 기록되지 않은 활력징후는 APPLE 점수와 딥카스 모두 포착하기 어려웠고, 검사 중에는 거짓 경보가 많다. 박 교수는 앞으로 AI가 왜 점수가 높게 나왔는지, 어느 정도의 신뢰도로 평가했는지까지 알려주는 방향이 필요하다고 덧붙였다."
+            "x": "HHS는 Advanced Research Projects Agency for Health(ARPA-H)를 거쳐 이 프로그램을 시작한다. 다만 첫 발표에는 배정된 예산 규모도, 참가자가 유연성이나 자원을 더 얻게 될지도 빠져 있었다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "소아 신속대응시스템에\n들어온 뷰노 AI",
-          "body": "박유경 교수는 아산 소아 RRS의 뷰노 AI가 고위험 환아 선별을 돕는다고 했다.",
-          "mini_headline": "아산 소아 RRS의 AI",
+        "en": {
+          "headline": "HHS turns to AI to speed\nand expand clinical trials",
+          "body": "HHS, via ARPA-H, unveiled SURPASS, a five-year program using AI and simulation to speed up clinical trials.",
+          "mini_headline": "HHS bets on AI for trials",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/526509",
-                "cap": "서울아산병원 소아청소년과 박유경 교수."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "서울아산병원 소아청소년과 박유경 교수는 9월 19일 뷰노 소아 환자안전 글로벌 심포지엄에서 서울아산병원의 소아 RRS 운영 경험과 AI 기반 심정지 위험관리 의료기기 딥카스(DeepCARS) 활용 사례를 소개했다. 실제 임상에서 기존 점수체계보다 먼저 고위험 환자를 포착해 의료진의 개입으로 이어진 사례도 나오고 있다."
+                "x": "The Department of Health and Human Services announced a set of new initiatives aimed at speeding up clinical trials by incorporating more artificial intelligence and computational models and moving away from sharply delineated trial phases, as U.S. officials work to compete with China and other countries."
               },
               {
                 "t": "p",
-                "x": "서울아산병원은 2012년 소아 신속대응팀(PMET)을 도입했고, 2020년 APPLE 점수, 2022년 PMAS에 이어 지난해 딥카스를 추가했다. 딥카스 점수가 90점을 넘거나 단기간에 30점 이상 오르는 환아는 팝업 알람으로 스크리닝 대상이 된다. 박 교수는 \"유용하게 사용하고 있다\"고 했다."
+                "x": "The centerpiece five-year program, dubbed SURPASS — “Simulation-augmented, Real-time Platform Adaptive Seamless Trials” — will kick off later this fall by accepting “ground-breaking ideas from cross-disciplinary teams in statistics, AI, and clinical trial design, operations, and regulation.”"
               },
               {
                 "t": "p",
-                "x": "조혈모세포이식을 위해 입원한 3세 11개월 여아는 ATG 투여 후 딥카스 점수가 95점으로 올라 신속대응팀에 포착됐다. 호흡수 등 일부 정보가 입력되지 않아 APPLE 점수보다 딥카스 점수가 먼저 상승했고, 환자는 PICU 전실과 치료 후 호전됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/526512",
-                "cap": "서울아산병원은 소아신속대응체계로 딥카스를 활용하고 있다. 사진=박유경 교수 발표 자료"
-              },
-              {
-                "t": "p",
-                "x": "한계도 있다. 실시간 연속 모니터링이 아닌 탓에 기록되지 않은 활력징후는 APPLE 점수와 딥카스 모두 포착하기 어려웠고, 검사 중에는 거짓 경보가 많다. 박 교수는 앞으로 AI가 왜 점수가 높게 나왔는지, 어느 정도의 신뢰도로 평가했는지까지 알려주는 방향이 필요하다고 덧붙였다."
+                "x": "HHS is launching the program through the Advanced Research Projects Agency for Health. The initial announcement did not note how much funding was designated, nor whether participants would be offered more flexibility or resources."
               }
             ]
           }
         },
-        "en": {
-          "headline": "VUNO AI enters a pediatric\nrapid response system",
-          "body": "Prof. Park Yu-kyung said VUNO's AI in Asan's pediatric RRS helps screen high-risk children.",
-          "mini_headline": "AI in Asan's pediatric RRS",
+        "ko": {
+          "headline": "HHS, AI로\n임상시험 가속·확대",
+          "body": "HHS가 ARPA-H로 AI 기반 임상시험 가속 사업 SURPASS를 공개했다.",
+          "mini_headline": "HHS, 임상시험에 AI를 건다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/526509",
-                "cap": "Professor Park Yu-kyung, Department of Pediatrics, Asan Medical Center."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Professor Park Yu-kyung of the Department of Pediatrics at Asan Medical Center presented the hospital's experience running a pediatric RRS and its use of DeepCARS, an AI-based medical device for managing cardiac arrest risk, at VUNO's global pediatric patient safety symposium on September 19. In clinical practice, there have been cases where it flagged high-risk patients earlier than existing scoring systems, leading to intervention by the medical team."
+                "x": "보건복지부(HHS)가 임상시험 속도를 높일 새 계획들을 발표했다. 인공지능과 계산 모델을 더 많이 들이고, 뚜렷하게 나뉜 임상시험 단계에서 벗어나겠다는 내용이다. U.S. 당국자들이 중국 등 다른 나라와 경쟁에 나선 가운데 나온 조치다."
               },
               {
                 "t": "p",
-                "x": "Asan Medical Center introduced a pediatric rapid response team (PMET) in 2012, then added the APPLE score in 2020 and PMAS in 2022, followed by DeepCARS last year. Children whose DeepCARS score exceeds 90 or rises by 30 points or more over a short period are flagged for screening by a pop-up alarm. Park said, \"We are finding it useful.\""
+                "x": "핵심 프로그램 SURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)는 다섯 해 동안 이어지며, 올가을 늦게 “통계, AI, 임상시험 설계·운영·규제 분야의 학제 간 팀이 내놓는 획기적인 아이디어”를 받으며 출범한다."
               },
               {
                 "t": "p",
-                "x": "A girl aged 3 years and 11 months, admitted for hematopoietic stem cell transplantation, was caught by the rapid response team after her DeepCARS score rose to 95 following ATG administration. Because some information, such as respiratory rate, had not been entered, the DeepCARS score rose before the APPLE score; the patient improved after transfer to the PICU and treatment."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/526512",
-                "cap": "Asan Medical Center uses DeepCARS in its pediatric rapid response system. Photo: presentation materials by Professor Park Yu-kyung"
-              },
-              {
-                "t": "p",
-                "x": "There are limitations. Because monitoring is not real-time and continuous, vital signs that went unrecorded were hard to capture for both the APPLE score and DeepCARS, and false alarms are frequent during tests. Park added that AI should move toward also explaining why a score came out high and with what level of confidence it was assessed."
+                "x": "HHS는 Advanced Research Projects Agency for Health(ARPA-H)를 거쳐 이 프로그램을 시작한다. 다만 첫 발표에는 배정된 예산 규모도, 참가자가 유연성이나 자원을 더 얻게 될지도 빠져 있었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "小児迅速対応システムに\nVUNOのAIが導入",
-          "body": "パク・ユギョン教授は峨山の小児RRSでVUNOのAIが高リスク患児の選別を助けると述べた。",
-          "mini_headline": "峨山小児RRSのAI",
+          "headline": "HHS、AIで臨床試験の\n迅速化と拡大へ",
+          "body": "HHSはARPA-Hを通じ、AIで臨床試験を速める五カ年計画SURPASSを発表した。",
+          "mini_headline": "HHS、臨床試験のAI活用に賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/526509",
-                "cap": "ソウル峨山病院小児青少年科のパク・ユギョン教授。"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "ソウル峨山病院小児青少年科のパク・ユギョン教授は9月19日、VUNOの小児患者安全グローバルシンポジウムで、同院の小児RRS運用経験と、AIベースの心停止リスク管理医療機器DeepCARSの活用事例を紹介した。実際の臨床では、従来のスコア体系より先に高リスク患者を捉え、医療陣の介入につながった事例も出ている。"
+                "x": "保健福祉省(HHS)は、人工知能と計算モデルをより多く取り入れ、明確に区切られた試験フェーズから脱却することで臨床試験を加速させる一連の新たな取り組みを発表した。U.S.の当局者が中国など他国との競争に取り組むなかでの動きだ。"
               },
               {
                 "t": "p",
-                "x": "ソウル峨山病院は2012年に小児迅速対応チーム(PMET)を導入し、2020年のAPPLEスコア、2022年のPMASに続き、昨年DeepCARSを加えた。DeepCARSのスコアが90点を超えるか、短期間に30点以上上昇した患児は、ポップアップアラームでスクリーニング対象となる。パク教授は「有用に使っている」と語った。"
+                "x": "中核となる五カ年プログラムはSURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)と名づけられ、この秋の後半に「統計、AI、臨床試験の設計・運営・規制にわたる学際的チームによる画期的なアイデア」の受け付けから始まる。"
               },
               {
                 "t": "p",
-                "x": "造血幹細胞移植のため入院した3歳11か月の女児は、ATG投与後にDeepCARSスコアが95点に上がり、迅速対応チームに捕捉された。呼吸数など一部の情報が入力されていなかったため、APPLEスコアよりDeepCARSスコアが先に上昇し、患者はPICUへの転室と治療の後に回復した。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/526512",
-                "cap": "ソウル峨山病院は小児迅速対応体制にDeepCARSを活用している。写真=パク・ユギョン教授の発表資料"
-              },
-              {
-                "t": "p",
-                "x": "限界もある。リアルタイムの連続モニタリングではないため、記録されていないバイタルサインはAPPLEスコアもDeepCARSも捉えにくく、検査中は誤警報が多い。パク教授は今後、AIがなぜスコアが高く出たのか、どの程度の信頼度で評価したのかまで示す方向が必要だと付け加えた。"
+                "x": "HHSはこのプログラムをAdvanced Research Projects Agency for Health(ARPA-H)を通じて立ち上げる。最初の発表では、割り当てられた資金の額も、参加者により多くの柔軟性や資源が与えられるかどうかも示されなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VUNO的AI进入\n儿科快速反应系统",
-          "body": "朴有庆教授表示，峨山儿科RRS中的VUNO AI有助于筛查高危患儿。",
-          "mini_headline": "峨山儿科RRS中的AI",
+          "headline": "HHS借助AI\n加速并扩大临床试验",
+          "body": "HHS通过ARPA-H推出SURPASS，这是一项借助AI与模拟加速临床试验的五年计划。",
+          "mini_headline": "HHS押注AI临床试验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/526509",
-                "cap": "首尔峨山医院儿童青少年科朴有庆教授。"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "首尔峨山医院儿童青少年科朴有庆教授于9月19日在VUNO儿科患者安全全球研讨会上，介绍了该院儿科RRS的运行经验，以及基于AI的心脏骤停风险管理医疗器械DeepCARS的应用案例。在实际临床中，已出现比现有评分体系更早发现高危患者、进而促成医护人员介入的案例。"
+                "x": "卫生与公众服务部宣布了一系列新举措，旨在通过更多引入人工智能和计算模型、摆脱界限分明的试验分期来加快临床试验，U.S.官员正努力与中国等国家竞争。"
               },
               {
                 "t": "p",
-                "x": "首尔峨山医院于2012年引入儿科快速反应团队（PMET），继2020年的APPLE评分、2022年的PMAS之后，去年又加入了DeepCARS。DeepCARS评分超过90分或在短时间内上升30分以上的患儿，会通过弹窗警报被列为筛查对象。朴教授表示：“用起来很有帮助。”"
+                "x": "其中的核心项目为期五年，名为SURPASS（“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”），将于今秋晚些时候启动，征集“来自统计、AI以及临床试验设计、运营和监管领域跨学科团队的突破性想法”。"
               },
               {
                 "t": "p",
-                "x": "一名因造血干细胞移植入院的3岁11个月女童，在使用ATG后DeepCARS评分升至95分，被快速反应团队发现。由于呼吸频率等部分信息未录入，DeepCARS评分先于APPLE评分上升；患者转入PICU并接受治疗后好转。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/526512",
-                "cap": "首尔峨山医院在儿科快速反应体系中使用DeepCARS。图片=朴有庆教授演讲资料"
-              },
-              {
-                "t": "p",
-                "x": "也存在局限。由于并非实时连续监测，未被记录的生命体征无论APPLE评分还是DeepCARS都难以捕捉，检查期间误报也较多。朴教授补充说，今后AI需要朝着进一步说明为何评分偏高、以何种置信度作出评估的方向发展。"
+                "x": "HHS通过Advanced Research Projects Agency for Health启动该项目。首份公告未说明拨付了多少资金，也未说明参与者是否会获得更多灵活性或资源。"
               }
             ]
           }
         },
         "es": {
-          "headline": "VUNO AI entra en un sistema\npediátrico de respuesta rápida",
-          "body": "Park Yu-kyung afirmó que la IA (AI) de VUNO en el RRS pediátrico de Asan ayuda a detectar a niños de alto riesgo.",
-          "mini_headline": "La IA (AI) en el RRS pediátrico de Asan",
+          "headline": "HHS recurre a la AI para\nacelerar y ampliar los ensayos",
+          "body": "El HHS presentó, vía ARPA-H, SURPASS: un plan de cinco años con AI y simulación para acelerar ensayos clínicos.",
+          "mini_headline": "HHS apuesta por la AI en los ensayos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/526509",
-                "cap": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl, presentó el 19 de septiembre, en el simposio global de VUNO sobre seguridad del paciente pediátrico, la experiencia del hospital con su RRS pediátrico y el uso de DeepCARS, un dispositivo médico basado en IA (AI) para gestionar el riesgo de paro cardíaco. En la práctica clínica ya hay casos en los que detectó a pacientes de alto riesgo antes que los sistemas de puntuación existentes, lo que permitió la intervención del equipo médico."
+                "x": "El Departamento de Salud y Servicios Humanos anunció un conjunto de nuevas iniciativas destinadas a acelerar los ensayos clínicos incorporando más inteligencia artificial y modelos computacionales y alejándose de fases de ensayo claramente delimitadas, mientras los funcionarios de U.S. trabajan para competir con China y otros países."
               },
               {
                 "t": "p",
-                "x": "El Asan Medical Center implantó en 2012 un equipo de respuesta rápida pediátrico (PMET) y, tras la puntuación APPLE en 2020 y PMAS en 2022, incorporó DeepCARS el año pasado. Los niños cuya puntuación DeepCARS supera los 90 puntos o sube 30 puntos o más en poco tiempo pasan a ser objeto de cribado mediante una alarma emergente. Park afirmó: «Nos resulta útil»."
+                "x": "El programa central, de cinco años y denominado SURPASS —“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”—, arrancará a finales de este otoño con la recepción de “ideas innovadoras de equipos interdisciplinarios en estadística, AI y diseño, operaciones y regulación de ensayos clínicos”."
               },
               {
                 "t": "p",
-                "x": "Una niña de 3 años y 11 meses, ingresada para un trasplante de células madre hematopoyéticas, fue detectada por el equipo de respuesta rápida cuando su puntuación DeepCARS subió a 95 tras la administración de ATG. Como no se habían introducido algunos datos, como la frecuencia respiratoria, la puntuación DeepCARS subió antes que la APPLE; la paciente mejoró tras su traslado a la PICU y el tratamiento."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/526512",
-                "cap": "El Asan Medical Center utiliza DeepCARS en su sistema de respuesta rápida pediátrico. Foto: material de la presentación de Park Yu-kyung"
-              },
-              {
-                "t": "p",
-                "x": "También hay limitaciones. Al no tratarse de una monitorización continua en tiempo real, los signos vitales no registrados eran difíciles de captar tanto para la puntuación APPLE como para DeepCARS, y durante las pruebas hay muchas falsas alarmas. Park añadió que en el futuro la IA (AI) debería indicar también por qué la puntuación salió alta y con qué grado de confianza se hizo la evaluación."
+                "x": "El HHS pone en marcha el programa a través de la Advanced Research Projects Agency for Health. El anuncio inicial no indicó cuánta financiación se destinó ni si se ofrecería a los participantes más flexibilidad o recursos."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "VUNO AI enters a pediatric\nrapid response system",
-          "body": "Prof. Park Yu-kyung said VUNO's AI in Asan's pediatric RRS helps screen high-risk children.",
-          "mini_headline": "AI in Asan's pediatric RRS",
+        "ko": {
+          "headline": "HHS, AI로\n임상시험 가속·확대",
+          "body": "HHS가 ARPA-H로 AI 기반 임상시험 가속 사업 SURPASS를 공개했다.",
+          "mini_headline": "HHS, 임상시험에 AI를 건다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/526509",
-                "cap": "Professor Park Yu-kyung, Department of Pediatrics, Asan Medical Center."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Professor Park Yu-kyung of the Department of Pediatrics at Asan Medical Center presented the hospital's experience running a pediatric RRS and its use of DeepCARS, an AI-based medical device for managing cardiac arrest risk, at VUNO's global pediatric patient safety symposium on September 19. In clinical practice, there have been cases where it flagged high-risk patients earlier than existing scoring systems, leading to intervention by the medical team."
+                "x": "보건복지부(HHS)가 인공지능과 계산 모델을 더 많이 도입하고 뚜렷하게 나뉜 임상시험 단계에서 벗어나 임상시험 속도를 높이려는 일련의 새 계획을 발표했다. U.S. 당국자들이 중국 등 다른 나라와 경쟁하려는 가운데 나온 조치다."
               },
               {
                 "t": "p",
-                "x": "Asan Medical Center introduced a pediatric rapid response team (PMET) in 2012, then added the APPLE score in 2020 and PMAS in 2022, followed by DeepCARS last year. Children whose DeepCARS score exceeds 90 or rises by 30 points or more over a short period are flagged for screening by a pop-up alarm. Park said, \"We are finding it useful.\""
+                "x": "다섯 해 동안 이어질 핵심 프로그램 SURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)는 올가을 늦게 “통계, AI, 임상시험 설계·운영·규제 분야의 학제 간 팀이 내놓는 획기적인 아이디어”를 받으며 출범한다."
               },
               {
                 "t": "p",
-                "x": "A girl aged 3 years and 11 months, admitted for hematopoietic stem cell transplantation, was caught by the rapid response team after her DeepCARS score rose to 95 following ATG administration. Because some information, such as respiratory rate, had not been entered, the DeepCARS score rose before the APPLE score; the patient improved after transfer to the PICU and treatment."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/526512",
-                "cap": "Asan Medical Center uses DeepCARS in its pediatric rapid response system. Photo: presentation materials by Professor Park Yu-kyung"
-              },
-              {
-                "t": "p",
-                "x": "There are limitations. Because monitoring is not real-time and continuous, vital signs that went unrecorded were hard to capture for both the APPLE score and DeepCARS, and false alarms are frequent during tests. Park added that AI should move toward also explaining why a score came out high and with what level of confidence it was assessed."
+                "x": "HHS는 Advanced Research Projects Agency for Health(ARPA-H)를 통해 이 프로그램을 시작한다. 첫 발표에는 배정된 예산 규모도, 참가자에게 더 많은 유연성이나 자원이 주어질지도 담기지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "小児迅速対応システムに\nVUNOのAIが導入",
-          "body": "パク・ユギョン教授は峨山の小児RRSでVUNOのAIが高リスク患児の選別を助けると述べた。",
-          "mini_headline": "峨山小児RRSのAI",
+          "headline": "HHS、AIで臨床試験の\n迅速化と拡大へ",
+          "body": "HHSはARPA-Hを通じ、AIで臨床試験を速める五カ年計画SURPASSを発表した。",
+          "mini_headline": "HHS、臨床試験のAI活用に賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/526509",
-                "cap": "ソウル峨山病院小児青少年科のパク・ユギョン教授。"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "ソウル峨山病院小児青少年科のパク・ユギョン教授は9月19日、VUNOの小児患者安全グローバルシンポジウムで、同院の小児RRS運用経験と、AIベースの心停止リスク管理医療機器DeepCARSの活用事例を紹介した。実際の臨床では、従来のスコア体系より先に高リスク患者を捉え、医療陣の介入につながった事例も出ている。"
+                "x": "保健福祉省(HHS)は、人工知能と計算モデルをより多く取り入れ、明確に区切られた試験フェーズから脱却することで臨床試験を加速させる一連の新たな取り組みを発表した。U.S.の当局者が中国など他国との競争に取り組むなかでの動きだ。"
               },
               {
                 "t": "p",
-                "x": "ソウル峨山病院は2012年に小児迅速対応チーム(PMET)を導入し、2020年のAPPLEスコア、2022年のPMASに続き、昨年DeepCARSを加えた。DeepCARSのスコアが90点を超えるか、短期間に30点以上上昇した患児は、ポップアップアラームでスクリーニング対象となる。パク教授は「有用に使っている」と語った。"
+                "x": "中核となる五カ年プログラムはSURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)と名づけられ、この秋の後半に「統計、AI、臨床試験の設計・運営・規制にわたる学際的チームによる画期的なアイデア」の受け付けから始まる。"
               },
               {
                 "t": "p",
-                "x": "造血幹細胞移植のため入院した3歳11か月の女児は、ATG投与後にDeepCARSスコアが95点に上がり、迅速対応チームに捕捉された。呼吸数など一部の情報が入力されていなかったため、APPLEスコアよりDeepCARSスコアが先に上昇し、患者はPICUへの転室と治療の後に回復した。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/526512",
-                "cap": "ソウル峨山病院は小児迅速対応体制にDeepCARSを活用している。写真=パク・ユギョン教授の発表資料"
-              },
-              {
-                "t": "p",
-                "x": "限界もある。リアルタイムの連続モニタリングではないため、記録されていないバイタルサインはAPPLEスコアもDeepCARSも捉えにくく、検査中は誤警報が多い。パク教授は今後、AIがなぜスコアが高く出たのか、どの程度の信頼度で評価したのかまで示す方向が必要だと付け加えた。"
+                "x": "HHSはこのプログラムをAdvanced Research Projects Agency for Health(ARPA-H)を通じて立ち上げる。最初の発表では、割り当てられた資金の額も、参加者により多くの柔軟性や資源が与えられるかどうかも示されなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VUNO的AI进入\n儿科快速反应系统",
-          "body": "朴有庆教授表示，峨山儿科RRS中的VUNO AI有助于筛查高危患儿。",
-          "mini_headline": "峨山儿科RRS中的AI",
+          "headline": "HHS借助AI\n加速并扩大临床试验",
+          "body": "HHS通过ARPA-H推出SURPASS，这是一项借助AI与模拟加速临床试验的五年计划。",
+          "mini_headline": "HHS押注AI临床试验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/526509",
-                "cap": "首尔峨山医院儿童青少年科朴有庆教授。"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "首尔峨山医院儿童青少年科朴有庆教授于9月19日在VUNO儿科患者安全全球研讨会上，介绍了该院儿科RRS的运行经验，以及基于AI的心脏骤停风险管理医疗器械DeepCARS的应用案例。在实际临床中，已出现比现有评分体系更早发现高危患者、进而促成医护人员介入的案例。"
+                "x": "卫生与公众服务部宣布了一系列新举措，旨在通过更多引入人工智能和计算模型、摆脱界限分明的试验分期来加快临床试验，U.S.官员正努力与中国等国家竞争。"
               },
               {
                 "t": "p",
-                "x": "首尔峨山医院于2012年引入儿科快速反应团队（PMET），继2020年的APPLE评分、2022年的PMAS之后，去年又加入了DeepCARS。DeepCARS评分超过90分或在短时间内上升30分以上的患儿，会通过弹窗警报被列为筛查对象。朴教授表示：“用起来很有帮助。”"
+                "x": "其中的核心项目为期五年，名为SURPASS（“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”），将于今秋晚些时候启动，征集“来自统计、AI以及临床试验设计、运营和监管领域跨学科团队的突破性想法”。"
               },
               {
                 "t": "p",
-                "x": "一名因造血干细胞移植入院的3岁11个月女童，在使用ATG后DeepCARS评分升至95分，被快速反应团队发现。由于呼吸频率等部分信息未录入，DeepCARS评分先于APPLE评分上升；患者转入PICU并接受治疗后好转。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/526512",
-                "cap": "首尔峨山医院在儿科快速反应体系中使用DeepCARS。图片=朴有庆教授演讲资料"
-              },
-              {
-                "t": "p",
-                "x": "也存在局限。由于并非实时连续监测，未被记录的生命体征无论APPLE评分还是DeepCARS都难以捕捉，检查期间误报也较多。朴教授补充说，今后AI需要朝着进一步说明为何评分偏高、以何种置信度作出评估的方向发展。"
+                "x": "HHS通过Advanced Research Projects Agency for Health启动该项目。首份公告未说明拨付了多少资金，也未说明参与者是否会获得更多灵活性或资源。"
               }
             ]
           }
         },
         "es": {
-          "headline": "VUNO AI entra en un sistema\npediátrico de respuesta rápida",
-          "body": "Park Yu-kyung afirmó que la IA (AI) de VUNO en el RRS pediátrico de Asan ayuda a detectar a niños de alto riesgo.",
-          "mini_headline": "La IA (AI) en el RRS pediátrico de Asan",
+          "headline": "HHS recurre a la AI para\nacelerar y ampliar los ensayos",
+          "body": "El HHS presentó, vía ARPA-H, SURPASS: un plan de cinco años con AI y simulación para acelerar ensayos clínicos.",
+          "mini_headline": "HHS apuesta por la AI en los ensayos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://medigatenews.com/file/news/526509",
-                "cap": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl, presentó el 19 de septiembre, en el simposio global de VUNO sobre seguridad del paciente pediátrico, la experiencia del hospital con su RRS pediátrico y el uso de DeepCARS, un dispositivo médico basado en IA (AI) para gestionar el riesgo de paro cardíaco. En la práctica clínica ya hay casos en los que detectó a pacientes de alto riesgo antes que los sistemas de puntuación existentes, lo que permitió la intervención del equipo médico."
+                "x": "El Departamento de Salud y Servicios Humanos anunció un conjunto de nuevas iniciativas destinadas a acelerar los ensayos clínicos incorporando más inteligencia artificial y modelos computacionales y alejándose de fases de ensayo claramente delimitadas, mientras los funcionarios de U.S. trabajan para competir con China y otros países."
               },
               {
                 "t": "p",
-                "x": "El Asan Medical Center implantó en 2012 un equipo de respuesta rápida pediátrico (PMET) y, tras la puntuación APPLE en 2020 y PMAS en 2022, incorporó DeepCARS el año pasado. Los niños cuya puntuación DeepCARS supera los 90 puntos o sube 30 puntos o más en poco tiempo pasan a ser objeto de cribado mediante una alarma emergente. Park afirmó: «Nos resulta útil»."
+                "x": "El programa central, de cinco años y denominado SURPASS —“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”—, arrancará a finales de este otoño con la recepción de “ideas innovadoras de equipos interdisciplinarios en estadística, AI y diseño, operaciones y regulación de ensayos clínicos”."
               },
               {
                 "t": "p",
-                "x": "Una niña de 3 años y 11 meses, ingresada para un trasplante de células madre hematopoyéticas, fue detectada por el equipo de respuesta rápida cuando su puntuación DeepCARS subió a 95 tras la administración de ATG. Como no se habían introducido algunos datos, como la frecuencia respiratoria, la puntuación DeepCARS subió antes que la APPLE; la paciente mejoró tras su traslado a la PICU y el tratamiento."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/526512",
-                "cap": "El Asan Medical Center utiliza DeepCARS en su sistema de respuesta rápida pediátrico. Foto: material de la presentación de Park Yu-kyung"
-              },
-              {
-                "t": "p",
-                "x": "También hay limitaciones. Al no tratarse de una monitorización continua en tiempo real, los signos vitales no registrados eran difíciles de captar tanto para la puntuación APPLE como para DeepCARS, y durante las pruebas hay muchas falsas alarmas. Park añadió que en el futuro la IA (AI) debería indicar también por qué la puntuación salió alta y con qué grado de confianza se hizo la evaluación."
+                "x": "El HHS pone en marcha el programa a través de la Advanced Research Projects Agency for Health. El anuncio inicial no indicó cuánta financiación se destinó ni si se ofrecería a los participantes más flexibilidad o recursos."
               }
             ]
           }
@@ -1241,15 +1091,15 @@
       }
     },
     {
-      "id": "llm-ophtho-preconsult-rct",
+      "id": "gottlieb-clinical-ai-ldt-pathway",
       "source_lang": "en",
       "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "LLM vs 전공의,\n안과 사전 문진 대결",
-      "body": "안과 병원 무작위 시험에서 이중 에이전트 LLM 문진을 전공의와 비교했다.",
-      "mini_headline": "LLM vs 전공의, 안과 RCT",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03232-x",
+      "headline": "검사실 검사에서 찾은\n임상 AI 규제 선례",
+      "body": "Scott Gottlieb은 임상 AI를 만드는 병원을 FDA가 인증하자고 한다.",
+      "mini_headline": "검사실 검사처럼 임상 AI 규제",
+      "source": "JAMA Health Forum",
+      "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/10.1001/jamahealthforum.2026.4704",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1257,125 +1107,125 @@
         "blocks": [
           {
             "t": "p",
-            "x": "병력 청취는 진료의 핵심이지만 임상 자원이 한정돼 제약을 받는다. 연구진은 이중 에이전트(dual-agent) 구조의 사전 문진용 LLM 에이전트를 만들었다. 증상 중심 논리 트리는 스킬 엔지니어링으로 설계했다. 그리고 중국 광저우(Guangzhou)의 상급 안과 병원에서 무작위 임상시험을 진행했다."
+            "x": "전 FDA 국장 Scott Gottlieb은 임상 AI가 검사실 개발 검사가 밟은 길을 따르고 있다고 주장한다. Duke Health, Johns Hopkins, NYU Langone 같은 학술 의료기관은 자체 모델을 만들어 대부분 FDA 의료기기 감독 밖에서 쓴다. 실험에는 도움이 되지만 쓸 만한 도구가 퍼지는 걸 막을 수 있고, 상업 개발사에 불리한 이중 시장도 생긴다."
           },
           {
             "t": "p",
-            "x": "2025년 5월 10일부터 6월 10일까지 접촉한 비응급 예약 환자 175명 중 172명을 LLM 에이전트군과 안과 전공의군에 1:1로 무작위 배정했다. MedHistory 점수로 본 사전 문진 품질은 에이전트가 더 높았고(보정 평균 차이 17.7점, 95% CI 14.1~21.3) 인내심과 공감 평가에서도 앞섰다. 상호작용 시간도 더 길었다(중앙값 11.2분 대 3.1분)."
+            "x": "그가 인용한 전국 조사에 따르면 US 병원의 65%가 AI 모델을 쓰지만, 예측 모델을 쓰는 병원 가운데 편향을 평가한 곳은 44%에 그쳤다."
           },
           {
             "t": "p",
-            "x": "검사 권고 성능에는 유의한 차이가 없었다. 탐색적 분석에서 병력만으로 낸 진단 정확도는 에이전트가 앞섰다(F1 0.85 대 0.68). 그런데 안구 소견을 더하자 전공의 쪽이 더 크게 좋아지면서 격차가 줄었다. 저자들은 의료진이 신체 진찰과 진단 종합에 집중하는 하이브리드 워크플로를 제안한다."
+            "x": "Gottlieb은 의회가 CLIA-like 인증 경로를 만들자고 제안한다. FDA가 의료기관을 인증하면 의료기관이 검증, 하위집단 성능 점검, 변경 관리, 드리프트 모니터링, 정기 보고를 책임지는 구조이고, 요건은 위험도에 따라 다르다. 저위험 도구는 먼저 분석적 타당성을, 고위험 도구는 시판 전 임상 평가를 갖춰야 한다. 완전 자율 시스템, 환자 대상 진단, 기관 밖으로 나가는 모델은 지금처럼 의료기기 규제를 받는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LLM agent vs residents\nin eye pre-consultation",
-          "body": "A randomized trial at an eye center compared a dual-agent LLM history-taking agent with ophthalmology residents.",
-          "mini_headline": "LLM vs residents, eye RCT",
+          "headline": "A lab-test precedent for\nregulating clinical AI",
+          "body": "Scott Gottlieb proposes FDA certification of health systems that build their own clinical AI, modeled on lab-test rules.",
+          "mini_headline": "Regulating clinical AI like lab tests",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "History-taking is central yet constrained by limited clinical resources. The researchers designed a pre-consultation LLM agent for history-taking using a dual-agent architecture with skills-engineered symptom-oriented logic trees, and ran a randomized clinical trial at a tertiary ophthalmic hospital in Guangzhou, China."
+                "x": "Former FDA commissioner Scott Gottlieb argues clinical AI is following the path laboratory developed tests took: academic medical centers such as Duke Health, Johns Hopkins and NYU Langone build and deploy their own models largely outside FDA device oversight. That encourages experimentation but can keep useful tools from spreading and creates a two-tier market that disadvantages commercial developers."
               },
               {
                 "t": "p",
-                "x": "Between May 10 and June 10, 2025, 172 of 175 approached patients with non-emergency appointments were randomized 1:1 to the LLM agent or ophthalmology residents. The agent achieved better pre-consultation quality by MedHistory score (adjusted mean difference 17.7 points; 95% CI 14.1 to 21.3), higher patience and empathy ratings, and longer interactions (median 11.2 vs 3.1 minutes)."
+                "x": "He cites a national survey finding 65% of US hospitals use AI models, while only 44% of those using predictive models evaluated them for bias."
               },
               {
                 "t": "p",
-                "x": "Test recommendation performance did not differ significantly. Exploratory analyses showed superior diagnostic accuracy from history alone (F1 0.85 vs 0.68), while ocular signs improved residents more, narrowing the gap. The authors suggest a hybrid workflow where clinicians focus on physical examination and diagnostic synthesis."
+                "x": "Gottlieb proposes that Congress create a CLIA-like certification route: the FDA would certify health systems, which would be responsible for validation, subgroup performance checks, change control, drift monitoring and regular reporting, with requirements scaled to risk. Lower-risk tools would need analytical validity first; higher-risk tools would need premarket clinical evaluation. Fully autonomous systems, patient-facing diagnostics and models offered outside the institution would stay under conventional device regulation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LLM vs 전공의,\n안과 사전 문진 대결",
-          "body": "안과 병원 무작위 시험에서 이중 에이전트 LLM 문진을 전공의와 비교했다.",
-          "mini_headline": "LLM vs 전공의, 안과 RCT",
+          "headline": "검사실 검사에서 찾은\n임상 AI 규제 선례",
+          "body": "Scott Gottlieb은 임상 AI를 만드는 병원을 FDA가 인증하자고 한다.",
+          "mini_headline": "검사실 검사처럼 임상 AI 규제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "병력 청취는 진료의 핵심이지만 임상 자원이 한정돼 제약을 받는다. 연구진은 이중 에이전트(dual-agent) 구조의 사전 문진용 LLM 에이전트를 만들었다. 증상 중심 논리 트리는 스킬 엔지니어링으로 설계했다. 그리고 중국 광저우(Guangzhou)의 상급 안과 병원에서 무작위 임상시험을 진행했다."
+                "x": "전 FDA 국장 Scott Gottlieb은 임상 AI가 검사실 개발 검사가 밟은 길을 따르고 있다고 주장한다. Duke Health, Johns Hopkins, NYU Langone 같은 학술 의료기관은 자체 모델을 만들어 대부분 FDA 의료기기 감독 밖에서 쓴다. 실험에는 도움이 되지만 쓸 만한 도구가 퍼지는 걸 막을 수 있고, 상업 개발사에 불리한 이중 시장도 생긴다."
               },
               {
                 "t": "p",
-                "x": "2025년 5월 10일부터 6월 10일까지 접촉한 비응급 예약 환자 175명 중 172명을 LLM 에이전트군과 안과 전공의군에 1:1로 무작위 배정했다. MedHistory 점수로 본 사전 문진 품질은 에이전트가 더 높았고(보정 평균 차이 17.7점, 95% CI 14.1~21.3) 인내심과 공감 평가에서도 앞섰다. 상호작용 시간도 더 길었다(중앙값 11.2분 대 3.1분)."
+                "x": "그가 인용한 전국 조사에 따르면 US 병원의 65%가 AI 모델을 쓰지만, 예측 모델을 쓰는 병원 가운데 편향을 평가한 곳은 44%에 그쳤다."
               },
               {
                 "t": "p",
-                "x": "검사 권고 성능에는 유의한 차이가 없었다. 탐색적 분석에서 병력만으로 낸 진단 정확도는 에이전트가 앞섰다(F1 0.85 대 0.68). 그런데 안구 소견을 더하자 전공의 쪽이 더 크게 좋아지면서 격차가 줄었다. 저자들은 의료진이 신체 진찰과 진단 종합에 집중하는 하이브리드 워크플로를 제안한다."
+                "x": "Gottlieb은 의회가 CLIA-like 인증 경로를 만들자고 제안한다. FDA가 의료기관을 인증하면 의료기관이 검증, 하위집단 성능 점검, 변경 관리, 드리프트 모니터링, 정기 보고를 책임지는 구조이고, 요건은 위험도에 따라 다르다. 저위험 도구는 먼저 분석적 타당성을, 고위험 도구는 시판 전 임상 평가를 갖춰야 한다. 완전 자율 시스템, 환자 대상 진단, 기관 밖으로 나가는 모델은 지금처럼 의료기기 규제를 받는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMエージェントvs研修医\n眼科の事前問診で比較",
-          "body": "眼科病院の無作為化試験で、二重エージェント型LLM問診と眼科研修医を比較した。",
-          "mini_headline": "LLM vs 研修医、眼科RCT",
+          "headline": "臨床AI規制に\n臨床検査の前例",
+          "body": "Scott Gottliebは臨床AIを自作する医療機関のFDA認証を提案する。",
+          "mini_headline": "臨床検査のように臨床AIを規制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "病歴聴取は診療の中核だが、限られた臨床資源に制約される。研究者らは、スキルエンジニアリングで設計した症状別ロジックツリーを備えた二重エージェント(dual-agent)構成の事前問診用LLMエージェントを開発し、中国・広州(Guangzhou)の高次眼科病院で無作為化臨床試験を実施した。"
+                "x": "元FDA長官のScott Gottliebは、臨床AIは検査室開発検査がたどった道を歩んでいると論じる。Duke Health、Johns Hopkins、NYU Langoneなどの大学医療センターは独自のモデルを開発・導入しており、その多くはFDAの医療機器監督の外にある。これは試行を促す一方、有用なツールの普及を妨げかねず、商用開発企業に不利な二層構造の市場を生む。"
               },
               {
                 "t": "p",
-                "x": "2025年5月10日から6月10日にかけて、声をかけた非緊急予約患者175人のうち172人をLLMエージェント群と眼科研修医群に1:1で無作為に割り付けた。エージェントはMedHistoryスコアによる事前問診の質で上回り(調整後平均差17.7点、95% CI 14.1〜21.3)、忍耐と共感の評価も高く、やり取りも長かった(中央値11.2分対3.1分)。"
+                "x": "彼は、US病院の65%がAIモデルを使う一方、予測モデルを使う病院のうちバイアスを評価したのは44%にとどまるという全国調査を引用する。"
               },
               {
                 "t": "p",
-                "x": "検査推奨の性能には有意差がなかった。探索的解析では、病歴のみに基づく診断精度はエージェントが優れていた(F1 0.85対0.68)が、眼所見を加えると研修医の改善幅が大きく、差は縮まった。著者らは、臨床医が身体診察と診断の統合に専念するハイブリッドなワークフローを提案している。"
+                "x": "Gottliebは、議会がCLIA-likeの認証ルートを設けるよう提案する。FDAが医療機関を認証し、医療機関は検証、サブグループ別の性能確認、変更管理、ドリフト監視、定期報告に責任を負い、要件はリスクに応じて調整される。低リスクのツールはまず分析的妥当性が、高リスクのツールは市販前の臨床評価が必要になる。完全自律型システム、患者向け診断、施設外に提供されるモデルは従来の医療機器規制の下にとどまる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLM智能体vs住院医师\n眼科预问诊对决",
-          "body": "一项眼科中心的随机试验比较了双智能体LLM病史采集工具与眼科住院医师。",
-          "mini_headline": "LLM vs 住院医师：眼科RCT",
+          "headline": "临床AI监管可借鉴\n实验室检测先例",
+          "body": "Scott Gottlieb提议仿照实验室检测，由FDA认证自研临床AI的医疗系统。",
+          "mini_headline": "像实验室检测一样监管临床AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "病史采集是诊疗的核心，却受限于有限的临床资源。研究人员设计了一款用于预问诊病史采集的LLM智能体，采用双智能体（dual-agent）架构，并配有经技能工程设计、以症状为导向的逻辑树；随后在中国广州（Guangzhou）一家三级眼科医院开展了随机临床试验。"
+                "x": "前FDA局长Scott Gottlieb认为，临床AI正在走实验室自建检测走过的老路：Duke Health、Johns Hopkins和NYU Langone等学术医疗中心自行开发并部署模型，基本处于FDA器械监管之外。这鼓励了探索，却可能阻碍有用工具的推广，并形成对商业开发者不利的双层市场。"
               },
               {
                 "t": "p",
-                "x": "2025年5月10日至6月10日，在接触的175名非急诊预约患者中，172名按1:1随机分配至LLM智能体组或眼科住院医师组。按MedHistory评分衡量，智能体的预问诊质量更高（校正平均差17.7分；95% CI 14.1至21.3），耐心和共情评分更高，交互时间也更长（中位数11.2分钟对3.1分钟）。"
+                "x": "他援引一项全国调查称，65%的US医院使用AI模型，而使用预测模型的医院中只有44%评估过模型偏倚。"
               },
               {
                 "t": "p",
-                "x": "检查建议方面的表现无显著差异。探索性分析显示，仅凭病史时智能体的诊断准确性更高（F1 0.85对0.68），而加入眼部体征后住院医师提升更多，差距随之缩小。作者建议采用混合工作流程，让临床医生专注于体格检查和诊断综合。"
+                "x": "Gottlieb提议国会建立一条CLIA-like的认证路径：由FDA认证医疗系统，医疗系统负责验证、亚组性能检查、变更控制、漂移监测和定期报告，要求按风险分级。低风险工具首先需证明分析有效性，高风险工具需进行上市前临床评估。完全自主的系统、面向患者的诊断工具以及在机构外提供的模型仍适用常规器械监管。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agente LLM vs residentes\nen la preconsulta oftalmológica",
-          "body": "Un ensayo aleatorizado en un centro oftalmológico comparó un agente LLM dual para la anamnesis con residentes.",
-          "mini_headline": "LLM vs residentes: RCT oftalmológico",
+          "headline": "Un precedente de laboratorio\npara regular la AI clínica",
+          "body": "Scott Gottlieb propone que la FDA certifique a los sistemas de salud que crean su propia AI clínica.",
+          "mini_headline": "Regular la AI clínica como las pruebas de laboratorio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La anamnesis es central, pero se ve limitada por los escasos recursos clínicos. Los investigadores diseñaron un agente LLM de preconsulta para la anamnesis con una arquitectura de doble agente (dual-agent) y árboles lógicos orientados a síntomas creados mediante ingeniería de habilidades, y realizaron un ensayo clínico aleatorizado en un hospital oftalmológico de tercer nivel en Guangzhou, China."
+                "x": "El excomisionado de la FDA Scott Gottlieb sostiene que la AI clínica sigue el camino que recorrieron las pruebas desarrolladas en laboratorio: centros médicos académicos como Duke Health, Johns Hopkins y NYU Langone crean y despliegan sus propios modelos en gran medida fuera de la supervisión de dispositivos de la FDA. Eso fomenta la experimentación, pero puede impedir que herramientas útiles se difundan y crea un mercado de dos niveles que perjudica a los desarrolladores comerciales."
               },
               {
                 "t": "p",
-                "x": "Entre el 10 de mayo y el 10 de junio de 2025, 172 de los 175 pacientes con citas no urgentes a los que se invitó fueron asignados al azar 1:1 al agente LLM o a residentes de oftalmología. El agente logró una mejor calidad de preconsulta según la puntuación MedHistory (diferencia media ajustada de 17.7 puntos; 95% CI 14.1 a 21.3), mejores valoraciones de paciencia y empatía e interacciones más largas (mediana de 11.2 frente a 3.1 minutos)."
+                "x": "Cita una encuesta nacional según la cual el 65% de los hospitales de US usa modelos de AI, mientras que solo el 44% de los que usan modelos predictivos los evaluó en busca de sesgos."
               },
               {
                 "t": "p",
-                "x": "El rendimiento en la recomendación de pruebas no difirió de forma significativa. Los análisis exploratorios mostraron una mayor precisión diagnóstica a partir solo de la anamnesis (F1 0.85 frente a 0.68), mientras que los signos oculares mejoraron más a los residentes y redujeron la diferencia. Los autores proponen un flujo de trabajo híbrido en el que los clínicos se centren en la exploración física y la síntesis diagnóstica."
+                "x": "Gottlieb propone que el Congreso cree una vía de certificación CLIA-like: la FDA certificaría a los sistemas de salud, que serían responsables de la validación, las comprobaciones de rendimiento por subgrupos, el control de cambios, el seguimiento de la deriva y los informes periódicos, con requisitos ajustados al riesgo. Las herramientas de menor riesgo necesitarían primero validez analítica; las de mayor riesgo, una evaluación clínica previa a la comercialización. Los sistemas totalmente autónomos, los diagnósticos dirigidos a pacientes y los modelos ofrecidos fuera de la institución seguirían sujetos a la regulación convencional de dispositivos."
               }
             ]
           }
@@ -1383,89 +1233,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LLM vs 전공의,\n안과 사전 문진 대결",
-          "body": "안과 병원 무작위 시험이 이중 에이전트 LLM 문진과 전공의를 비교했다.",
-          "mini_headline": "LLM vs 전공의, 안과 RCT",
+          "headline": "검사실 검사에서 찾은\n임상 AI 규제 선례",
+          "body": "Scott Gottlieb은 임상 AI를 만드는 병원을 FDA가 인증하자고 한다.",
+          "mini_headline": "검사실 검사처럼 임상 AI 규제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "병력 청취는 진료의 핵심이지만 한정된 임상 자원에 제약을 받는다. 연구진은 스킬 엔지니어링으로 설계한 증상 중심 논리 트리를 갖춘 이중 에이전트(dual-agent) 구조의 사전 문진용 LLM 에이전트를 만들고, 중국 광저우(Guangzhou)의 상급 안과 병원에서 무작위 임상시험을 진행했다."
+                "x": "전 FDA 국장 Scott Gottlieb은 임상 AI가 검사실 개발 검사가 밟은 길을 따르고 있다고 주장한다. Duke Health, Johns Hopkins, NYU Langone 같은 학술 의료기관은 자체 모델을 만들어 대부분 FDA 의료기기 감독 밖에서 배치한다. 이는 실험을 장려하지만 유용한 도구의 확산을 막을 수 있고, 상업 개발사에 불리한 이중 시장을 만든다."
               },
               {
                 "t": "p",
-                "x": "2025년 5월 10일부터 6월 10일까지, 접촉한 비응급 예약 환자 175명 중 172명을 LLM 에이전트군과 안과 전공의군에 1:1로 무작위 배정했다. MedHistory 점수로 본 사전 문진 품질은 에이전트가 더 높았고(보정 평균 차이 17.7점, 95% CI 14.1~21.3), 인내심과 공감 평가도 높았으며, 상호작용 시간도 더 길었다(중앙값 11.2분 대 3.1분)."
+                "x": "그는 전국 조사에서 US 병원의 65%가 AI 모델을 쓰지만, 예측 모델을 쓰는 병원 중 편향을 평가한 곳은 44%에 그쳤다는 결과를 인용한다."
               },
               {
                 "t": "p",
-                "x": "검사 권고 성능에는 유의한 차이가 없었다. 탐색적 분석에서 병력만으로 낸 진단 정확도는 에이전트가 앞섰지만(F1 0.85 대 0.68), 안구 소견을 더하면 전공의의 개선 폭이 더 커 격차가 좁혀졌다. 저자들은 의료진이 신체 진찰과 진단 종합에 집중하는 하이브리드 워크플로를 제안한다."
+                "x": "Gottlieb은 의회가 CLIA-like 인증 경로를 만들자고 제안한다. FDA가 의료기관을 인증하고, 의료기관은 검증, 하위집단 성능 점검, 변경 관리, 드리프트 모니터링, 정기 보고를 책임지며, 요건은 위험도에 따라 달라진다. 저위험 도구는 먼저 분석적 타당성을, 고위험 도구는 시판 전 임상 평가를 갖춰야 한다. 완전 자율 시스템, 환자 대상 진단, 기관 밖에 제공되는 모델은 기존 의료기기 규제를 그대로 받는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMエージェントvs研修医\n眼科の事前問診で比較",
-          "body": "眼科病院の無作為化試験で、二重エージェント型LLM問診と眼科研修医を比較した。",
-          "mini_headline": "LLM vs 研修医、眼科RCT",
+          "headline": "臨床AI規制に\n臨床検査の前例",
+          "body": "Scott Gottliebは臨床AIを自作する医療機関のFDA認証を提案する。",
+          "mini_headline": "臨床検査のように臨床AIを規制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "病歴聴取は診療の中核だが、限られた臨床資源に制約される。研究者らは、スキルエンジニアリングで設計した症状別ロジックツリーを備えた二重エージェント(dual-agent)構成の事前問診用LLMエージェントを開発し、中国・広州(Guangzhou)の高次眼科病院で無作為化臨床試験を実施した。"
+                "x": "元FDA長官のScott Gottliebは、臨床AIは検査室開発検査がたどった道を歩んでいると論じる。Duke Health、Johns Hopkins、NYU Langoneなどの大学医療センターは独自のモデルを開発・導入しており、その多くはFDAの医療機器監督の外にある。これは試行を促す一方、有用なツールの普及を妨げかねず、商用開発企業に不利な二層構造の市場を生む。"
               },
               {
                 "t": "p",
-                "x": "2025年5月10日から6月10日にかけて、声をかけた非緊急予約患者175人のうち172人をLLMエージェント群と眼科研修医群に1:1で無作為に割り付けた。エージェントはMedHistoryスコアによる事前問診の質で上回り(調整後平均差17.7点、95% CI 14.1〜21.3)、忍耐と共感の評価も高く、やり取りも長かった(中央値11.2分対3.1分)。"
+                "x": "彼は、US病院の65%がAIモデルを使う一方、予測モデルを使う病院のうちバイアスを評価したのは44%にとどまるという全国調査を引用する。"
               },
               {
                 "t": "p",
-                "x": "検査推奨の性能には有意差がなかった。探索的解析では、病歴のみに基づく診断精度はエージェントが優れていた(F1 0.85対0.68)が、眼所見を加えると研修医の改善幅が大きく、差は縮まった。著者らは、臨床医が身体診察と診断の統合に専念するハイブリッドなワークフローを提案している。"
+                "x": "Gottliebは、議会がCLIA-likeの認証ルートを設けるよう提案する。FDAが医療機関を認証し、医療機関は検証、サブグループ別の性能確認、変更管理、ドリフト監視、定期報告に責任を負い、要件はリスクに応じて調整される。低リスクのツールはまず分析的妥当性が、高リスクのツールは市販前の臨床評価が必要になる。完全自律型システム、患者向け診断、施設外に提供されるモデルは従来の医療機器規制の下にとどまる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLM智能体vs住院医师\n眼科预问诊对决",
-          "body": "一项眼科中心的随机试验比较了双智能体LLM病史采集工具与眼科住院医师。",
-          "mini_headline": "LLM vs 住院医师：眼科RCT",
+          "headline": "临床AI监管可借鉴\n实验室检测先例",
+          "body": "Scott Gottlieb提议仿照实验室检测，由FDA认证自研临床AI的医疗系统。",
+          "mini_headline": "像实验室检测一样监管临床AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "病史采集是诊疗的核心，却受限于有限的临床资源。研究人员设计了一款用于预问诊病史采集的LLM智能体，采用双智能体（dual-agent）架构，并配有经技能工程设计、以症状为导向的逻辑树；随后在中国广州（Guangzhou）一家三级眼科医院开展了随机临床试验。"
+                "x": "前FDA局长Scott Gottlieb认为，临床AI正在走实验室自建检测走过的老路：Duke Health、Johns Hopkins和NYU Langone等学术医疗中心自行开发并部署模型，基本处于FDA器械监管之外。这鼓励了探索，却可能阻碍有用工具的推广，并形成对商业开发者不利的双层市场。"
               },
               {
                 "t": "p",
-                "x": "2025年5月10日至6月10日，在接触的175名非急诊预约患者中，172名按1:1随机分配至LLM智能体组或眼科住院医师组。按MedHistory评分衡量，智能体的预问诊质量更高（校正平均差17.7分；95% CI 14.1至21.3），耐心和共情评分更高，交互时间也更长（中位数11.2分钟对3.1分钟）。"
+                "x": "他援引一项全国调查称，65%的US医院使用AI模型，而使用预测模型的医院中只有44%评估过模型偏倚。"
               },
               {
                 "t": "p",
-                "x": "检查建议方面的表现无显著差异。探索性分析显示，仅凭病史时智能体的诊断准确性更高（F1 0.85对0.68），而加入眼部体征后住院医师提升更多，差距随之缩小。作者建议采用混合工作流程，让临床医生专注于体格检查和诊断综合。"
+                "x": "Gottlieb提议国会建立一条CLIA-like的认证路径：由FDA认证医疗系统，医疗系统负责验证、亚组性能检查、变更控制、漂移监测和定期报告，要求按风险分级。低风险工具首先需证明分析有效性，高风险工具需进行上市前临床评估。完全自主的系统、面向患者的诊断工具以及在机构外提供的模型仍适用常规器械监管。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agente LLM vs residentes\nen la preconsulta oftalmológica",
-          "body": "Un ensayo aleatorizado en un centro oftalmológico comparó un agente LLM dual para la anamnesis con residentes.",
-          "mini_headline": "LLM vs residentes: RCT oftalmológico",
+          "headline": "Un precedente de laboratorio\npara regular la AI clínica",
+          "body": "Scott Gottlieb propone que la FDA certifique a los sistemas de salud que crean su propia AI clínica.",
+          "mini_headline": "Regular la AI clínica como las pruebas de laboratorio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La anamnesis es central, pero se ve limitada por los escasos recursos clínicos. Los investigadores diseñaron un agente LLM de preconsulta para la anamnesis con una arquitectura de doble agente (dual-agent) y árboles lógicos orientados a síntomas creados mediante ingeniería de habilidades, y realizaron un ensayo clínico aleatorizado en un hospital oftalmológico de tercer nivel en Guangzhou, China."
+                "x": "El excomisionado de la FDA Scott Gottlieb sostiene que la AI clínica sigue el camino que recorrieron las pruebas desarrolladas en laboratorio: centros médicos académicos como Duke Health, Johns Hopkins y NYU Langone crean y despliegan sus propios modelos en gran medida fuera de la supervisión de dispositivos de la FDA. Eso fomenta la experimentación, pero puede impedir que herramientas útiles se difundan y crea un mercado de dos niveles que perjudica a los desarrolladores comerciales."
               },
               {
                 "t": "p",
-                "x": "Entre el 10 de mayo y el 10 de junio de 2025, 172 de los 175 pacientes con citas no urgentes a los que se invitó fueron asignados al azar 1:1 al agente LLM o a residentes de oftalmología. El agente logró una mejor calidad de preconsulta según la puntuación MedHistory (diferencia media ajustada de 17.7 puntos; 95% CI 14.1 a 21.3), mejores valoraciones de paciencia y empatía e interacciones más largas (mediana de 11.2 frente a 3.1 minutos)."
+                "x": "Cita una encuesta nacional según la cual el 65% de los hospitales de US usa modelos de AI, mientras que solo el 44% de los que usan modelos predictivos los evaluó en busca de sesgos."
               },
               {
                 "t": "p",
-                "x": "El rendimiento en la recomendación de pruebas no difirió de forma significativa. Los análisis exploratorios mostraron una mayor precisión diagnóstica a partir solo de la anamnesis (F1 0.85 frente a 0.68), mientras que los signos oculares mejoraron más a los residentes y redujeron la diferencia. Los autores proponen un flujo de trabajo híbrido en el que los clínicos se centren en la exploración física y la síntesis diagnóstica."
+                "x": "Gottlieb propone que el Congreso cree una vía de certificación CLIA-like: la FDA certificaría a los sistemas de salud, que serían responsables de la validación, las comprobaciones de rendimiento por subgrupos, el control de cambios, el seguimiento de la deriva y los informes periódicos, con requisitos ajustados al riesgo. Las herramientas de menor riesgo necesitarían primero validez analítica; las de mayor riesgo, una evaluación clínica previa a la comercialización. Los sistemas totalmente autónomos, los diagnósticos dirigidos a pacientes y los modelos ofrecidos fuera de la institución seguirían sujetos a la regulación convencional de dispositivos."
               }
             ]
           }

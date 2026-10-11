@@ -530,6 +530,102 @@
           "yt": "f3jK_SsHcAw"
         }
       ]
+    },
+    "medicine/pancreatic-cancer-subtype-histopathology-dl": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El adenocarcinoma ductal de páncreas comprende los subtipos moleculares clásico y de tipo basal, que difieren en pronóstico y respuesta al tratamiento, pero la subtipificación transcriptómica está limitada por el coste, el tiempo de respuesta y los requisitos de tejido. Los investigadores se preguntaron si estos subtipos pueden inferirse directamente a partir de imágenes de lámina completa H&E-stained de rutina mediante aprendizaje profundo."
+        },
+        {
+          "t": "p",
+          "x": "Analizaron a 689 pacientes con datos pareados de histología y RNA-sequencing del Pancreatic Cancer Action Network (n = 506) y The Cancer Genome Atlas (n = 183). Su modelo, PanSubNet, integra la morfología celular con la arquitectura tisular para predecir el subtipo."
+        },
+        {
+          "t": "p",
+          "x": "PanSubNet distinguió los tumores clásicos y de tipo basal de alta confianza con un AUC medio del 90.3% en la validación interna y del 84.0% en una validación externa independiente. En la enfermedad metastásica, los subtipos predichos estratificaron de forma significativa la supervivencia global y señalaron tumores agresivos entre los casos transcriptómicamente discordantes."
+        },
+        {
+          "t": "p",
+          "x": "Los autores afirman que el método ofrece un complemento rápido y que ahorra tejido al perfil transcriptómico cuando las pruebas moleculares son limitadas o poco prácticas."
+        }
+      ]
+    },
+    "medicine/fda-radiology-ai-authorizations-rise-42": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo análisis de la base de datos de dispositivos médicos AI-enabled de la FDA, publicado en Academic Radiology, detalla cómo ha evolucionado la situación regulatoria de esta tecnología. Stella K. Kang, MD, del Columbia University Irving Medical Center, y sus colegas caracterizaron 1,094 dispositivos de AI en radiología autorizados hasta diciembre de 2025."
+        },
+        {
+          "t": "p",
+          "x": "Las autorizaciones anuales aumentaron un 42% durante el periodo estudiado, aunque la composición funcional se mantuvo relativamente estable: los sistemas de gestión y procesamiento de imágenes representaron el 38% de los dispositivos, los sistemas de imagen el 33% y las herramientas de AI interpretativa el 23%. Los dispositivos Multi-finding pasaron del 4% al 18%."
+        },
+        {
+          "t": "p",
+          "x": "La mediana del tiempo de revisión de la FDA fue menor para los dispositivos OEM que para los non-OEM: 118 frente a 138 días. La autorización con plan de control de cambios predeterminado pasó de poco menos del 1% en 2020–2023 a casi el 9% en 2025, señal de que algunas modificaciones de software pueden gestionarse dentro de un marco regulatorio existente."
+        }
+      ]
+    },
+    "medicine/hhs-arpa-h-ai-clinical-trials": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El Departamento de Salud y Servicios Humanos anunció un conjunto de nuevas iniciativas destinadas a acelerar los ensayos clínicos incorporando más inteligencia artificial y modelos computacionales y alejándose de fases de ensayo claramente delimitadas, mientras los funcionarios de U.S. trabajan para competir con China y otros países."
+        },
+        {
+          "t": "p",
+          "x": "El programa central, de cinco años y denominado SURPASS —“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”—, arrancará a finales de este otoño con la recepción de “ideas innovadoras de equipos interdisciplinarios en estadística, AI y diseño, operaciones y regulación de ensayos clínicos”."
+        },
+        {
+          "t": "p",
+          "x": "El HHS pone en marcha el programa a través de la Advanced Research Projects Agency for Health. El anuncio inicial no indicó cuánta financiación se destinó ni si se ofrecería a los participantes más flexibilidad o recursos."
+        }
+      ]
+    },
+    "medicine/gottlieb-clinical-ai-ldt-pathway": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El excomisionado de la FDA Scott Gottlieb sostiene que la AI clínica sigue el camino que recorrieron las pruebas desarrolladas en laboratorio: centros médicos académicos como Duke Health, Johns Hopkins y NYU Langone crean y despliegan sus propios modelos en gran medida fuera de la supervisión de dispositivos de la FDA. Eso fomenta la experimentación, pero puede impedir que herramientas útiles se difundan y crea un mercado de dos niveles que perjudica a los desarrolladores comerciales."
+        },
+        {
+          "t": "p",
+          "x": "Cita una encuesta nacional según la cual el 65% de los hospitales de US usa modelos de AI, mientras que solo el 44% de los que usan modelos predictivos los evaluó en busca de sesgos."
+        },
+        {
+          "t": "p",
+          "x": "Gottlieb propone que el Congreso cree una vía de certificación CLIA-like: la FDA certificaría a los sistemas de salud, que serían responsables de la validación, las comprobaciones de rendimiento por subgrupos, el control de cambios, el seguimiento de la deriva y los informes periódicos, con requisitos ajustados al riesgo. Las herramientas de menor riesgo necesitarían primero validez analítica; las de mayor riesgo, una evaluación clínica previa a la comercialización. Los sistemas totalmente autónomos, los diagnósticos dirigidos a pacientes y los modelos ofrecidos fuera de la institución seguirían sujetos a la regulación convencional de dispositivos."
+        }
+      ]
+    },
+    "medicine/jama-ai-psychosis-cohort": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los chatbots de IA conversacional se asocian cada vez más con la aparición o el empeoramiento de síntomas psicóticos, un fenómeno que los autores llaman «psicosis por IA» (\"AI psychosis\"). La evidencia previa consistía sobre todo en informes de casos, artículos de opinión y simulaciones."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Vanderbilt University Medical Center revisaron de forma retrospectiva las notas de evolución de salud conductual del 1 de diciembre de 2022 al 15 de abril de 2026 en busca de pacientes con palabras clave relacionadas con la IA (AI-related) y un diagnóstico documentado de trastorno psicótico. Dos evaluadores clasificaron las interacciones con la IA como neutrales, psicosis por IA (uso de chatbots que empeoró la psicosis) o contenido psicótico relacionado con la IA, y ordenaron los casos de psicosis por IA en cuatro tipos: catalizador, amplificador, coautor y objeto."
+        },
+        {
+          "t": "p",
+          "x": "De 578,058 registros (215,712 pacientes únicos), 187 consultas de 73 pacientes cumplieron los criterios. 28 pacientes (0.013% de quienes recibían atención de salud mental) formaban el grupo de psicosis por IA (AI). ChatGPT fue el producto documentado en 15 casos (53.6%), y 24 interacciones (85.7%) se documentaron después del lanzamiento de GPT-4o en mayo de 2024. El 60.7% del grupo de psicosis por IA atravesaba un primer episodio psicótico, frente al 17.6% del grupo neutral. El tipo más frecuente fue el amplificador (64.3%)."
+        },
+        {
+          "t": "p",
+          "x": "Los autores señalan que el aumento tras GPT-4o coincide con la complacencia (sycophancy) documentada en ese modelo, pero el diseño no permite establecer causalidad. Concluyen que parece justificado evaluar de forma rutinaria el uso de IA (AI) durante las consultas psiquiátricas."
+        }
+      ]
     }
   }
 }

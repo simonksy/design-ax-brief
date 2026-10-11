@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "gadgets",
   "cards": [
     {
-      "id": "xda-local-llm-gmail",
+      "id": "raspberry-pi-29mb-ai-model",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "로컬 LLM을 Gmail과\n스마트홈에 연결하다",
-      "body": "로컬 LLM은 Gmail·Home Assistant와 연결하자 쓸모가 생겼다.",
-      "mini_headline": "로컬 LLM, Gmail로 쓸모를 찾다",
+      "headline": "HAT 없는 29MB AI\nRaspberry Pi 5",
+      "body": "29MB Needle 3은 AI HAT 없이 Raspberry Pi 5에서 돈다.",
+      "mini_headline": "Raspberry Pi 5에서 도는 29MB AI",
       "tool": "Gadgets",
       "source": "XDA Developers",
-      "url": "https://www.xda-developers.com/connected-local-llm-gmail-calendar-home-assistant-finally-became-useful/",
+      "url": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,239 +19,287 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-            "cap": "MCP로 로컬 모델을 실행하는 OpenCode"
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
           },
           {
             "t": "p",
-            "x": "하루의 여러 부분을 이미 Gmail, Google Calendar, Home Assistant로 관리하던 터라, 이 서비스들을 Mac에서 돌리는 로컬 모델에 연결했다. 모델은 내 컴퓨터에서 돌아도 Gmail과 Calendar는 여전히 Google의 온라인 서비스를 거쳐야 한다."
+            "x": "XDA의 Ayush Pande는 Raspberry Pi 5에서 작은 LLMs를 숱하게 돌려 봤지만 Cactus Compute Needle 3은 달랐다. Python을 조금 손보면 이 가벼운 모델이 겨우 몇 MBs 만으로 SBC를 강력한 자동화 기기로 바꿔 놓는다. AI HAT도 필요 없다."
           },
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-            "cap": "filesystem 서버를 설정한 LM Studio의 mcp.json"
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+            "cap": "스마트 플러그를 제어하는 Python 스크립트"
           },
           {
             "t": "p",
-            "x": "LM Studio는 AI 앱이 다른 서비스의 도구에 접근하는 표준 방식인 MCP(Model Context Protocol)를 지원한다. Google Workspace MCP 같은 커뮤니티 프로젝트가 Gmail과 Calendar를 다루고, Home Assistant에는 자체 MCP Server 통합 기능이 있다. 모델 쪽도 도구를 안정적으로 다룰 줄 알아야 한다."
+            "x": "Needle 3은 일반 대화 기능을 덜어 낸 덕에 최대 29MB 만 쓴다. 도구 호출, 비정형 데이터의 JSON 변환, 텍스트 벡터 생성처럼 기계가 할 일에 집중한다. 잘라 쓰는 사다리 구조라 하드웨어에 맞춰 2개에서 20개 레이어까지 하위 네트워크를 고르면 된다."
           },
           {
             "t": "p",
-            "x": "두 앱을 연결하면 모델이 이메일 스레드를 불러오고 내 일정을 확인한 뒤 회의 시간을 제안한다. 답장과 일정 항목은 검토용 초안으로 남겨 둔다. 손볼 일은 많지 않았지만 무작정 맡길 생각은 없다."
+            "x": "DietPi를 설치한 8GB Raspberry Pi 5에서는 pip 설치 몇 번에 20개 레이어를 모두 쓴 needle 빌드 하나면 설정이 끝났다. (1세대 Pi Zero는 지원되지 않는 ARMv6 아키텍처라 빌드에 실패했다.)"
           },
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-            "cap": "Home Assistant MCP"
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+            "cap": "Cactus Compute Needle 3 실행"
           },
           {
             "t": "p",
-            "x": "취침 스크립트를 노출해 두면 “집을 꺼 줘”라고만 하면 되고, “조명을 끄되 욕실 조명은 켜 둬” 같은 예외가 붙은 명령도 처리한다. 단순한 요청은 여전히 Home Assistant의 기본 명령이 맡는다. 로컬 LLMs는 채팅창 밖에서 더 쓸모가 있다."
+            "x": "맞춤 Python 도구 파일로 Home Assistant와 연동하자 Needle 3은 스마트 플러그를 켜라는 프롬프트를 알아들었고 기기는 곧바로 켜졌다(디코드 280.2 tokens/s, 프리필 996.4 tokens/s)."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+            "cap": "원격 Docker 노드를 제어하는 Python 스크립트 만들기"
+          },
+          {
+            "t": "p",
+            "x": "도구는 스마트 기기와 ESP32 센서부터 문서 분석, Docker 제어까지 입맛대로 만들 수 있다. 작성에 품이 들긴 해도 성능을 보면 그 수고가 아깝지 않다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A local LLM wired into Gmail,\nCalendar and Home Assistant",
-          "body": "Connecting a local LLM to Gmail, Calendar and Home Assistant is what finally made it productive.",
-          "mini_headline": "Local LLM gets useful with Gmail",
+          "headline": "A 29MB AI model runs on\nRaspberry Pi 5, no AI HAT",
+          "body": "Cactus Compute's 29MB Needle 3 model runs on a Raspberry Pi 5 without an AI HAT, calling tools for Home Assistant.",
+          "mini_headline": "29MB AI on a Raspberry Pi 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-                "cap": "OpenCode running local model with MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "I already use Gmail, Google Calendar, and Home Assistant to manage different parts of my day, so I connected them to the local models I run on my Mac. The model runs on my computer, although Gmail and Calendar still need Google's online services."
+                "x": "XDA's Ayush Pande has run plenty of small LLMs on his Raspberry Pi 5, but the Cactus Compute Needle 3 is different: with some Python tinkering, this slim model needs barely a few MBs to turn the SBC into an automation beast — no AI HAT required."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-                "cap": "LM Studio mcp.json with filesystem server"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "A Python script for controlling a smart plug"
               },
               {
                 "t": "p",
-                "x": "LM Studio supports MCP (Model Context Protocol), a standard way for an AI app to access tools from another service. Community projects such as Google Workspace MCP cover Gmail and Calendar; Home Assistant has its own MCP Server integration. You also need a model that can use tools reliably."
+                "x": "Needle 3 consumes a maximum of 29MB because it ditches general chat. It focuses on machine-level tasks — calling tools, converting unstructured data into JSON, and generating vectors from text — and its sliceable ladder architecture lets you pick subnetworks from 2 to 20 layers depending on the hardware."
               },
               {
                 "t": "p",
-                "x": "With both apps connected, the model can retrieve an email thread and check my appointments before proposing a meeting time. I keep replies and calendar entries as drafts to review — I didn't have to correct it often, but I wouldn't let it run blindly."
+                "x": "On an 8GB Raspberry Pi 5 running DietPi, setup was a few pip installs and a needle build with all 20 layers. (It wouldn't build on a first-gen Pi Zero, which uses the unsupported ARMv6 architecture.)"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Home Assistant MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Running Cactus Compute Needle 3"
               },
               {
                 "t": "p",
-                "x": "Exposing my bedtime script lets me ask it to “shut down the house,” and it can handle commands with exceptions like “Turn off the lights, but leave the bathroom light on.” Simple requests still go to Home Assistant's native commands. Local LLMs are more useful outside a chat box."
+                "x": "Paired with Home Assistant through a custom Python tool file, Needle 3 understood a prompt to turn on a smart plug and the device came online immediately, at a decode rate of 280.2 tokens/s and a prefill rate of 996.4 tokens/s."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Creating a Python script to control a remote Docker node"
+              },
+              {
+                "t": "p",
+                "x": "The tools are highly customizable — smart devices, ESP32 sensors, document analysis or Docker control. Writing them takes effort, but the performance more than makes up for it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "로컬 LLM을 Gmail과\n스마트홈에 연결하다",
-          "body": "로컬 LLM은 Gmail·Home Assistant와 연결하자 쓸모가 생겼다.",
-          "mini_headline": "로컬 LLM, Gmail로 쓸모를 찾다",
+          "headline": "HAT 없는 29MB AI\nRaspberry Pi 5",
+          "body": "29MB Needle 3은 AI HAT 없이 Raspberry Pi 5에서 돈다.",
+          "mini_headline": "Raspberry Pi 5에서 도는 29MB AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-                "cap": "MCP로 로컬 모델을 실행하는 OpenCode"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "하루의 여러 부분을 이미 Gmail, Google Calendar, Home Assistant로 관리하던 터라, 이 서비스들을 Mac에서 돌리는 로컬 모델에 연결했다. 모델은 내 컴퓨터에서 돌아도 Gmail과 Calendar는 여전히 Google의 온라인 서비스를 거쳐야 한다."
+                "x": "XDA의 Ayush Pande는 Raspberry Pi 5에서 작은 LLMs를 숱하게 돌려 봤지만 Cactus Compute Needle 3은 달랐다. Python을 조금 손보면 이 가벼운 모델이 겨우 몇 MBs 만으로 SBC를 강력한 자동화 기기로 바꿔 놓는다. AI HAT도 필요 없다."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-                "cap": "filesystem 서버를 설정한 LM Studio의 mcp.json"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "스마트 플러그를 제어하는 Python 스크립트"
               },
               {
                 "t": "p",
-                "x": "LM Studio는 AI 앱이 다른 서비스의 도구에 접근하는 표준 방식인 MCP(Model Context Protocol)를 지원한다. Google Workspace MCP 같은 커뮤니티 프로젝트가 Gmail과 Calendar를 다루고, Home Assistant에는 자체 MCP Server 통합 기능이 있다. 모델 쪽도 도구를 안정적으로 다룰 줄 알아야 한다."
+                "x": "Needle 3은 일반 대화 기능을 덜어 낸 덕에 최대 29MB 만 쓴다. 도구 호출, 비정형 데이터의 JSON 변환, 텍스트 벡터 생성처럼 기계가 할 일에 집중한다. 잘라 쓰는 사다리 구조라 하드웨어에 맞춰 2개에서 20개 레이어까지 하위 네트워크를 고르면 된다."
               },
               {
                 "t": "p",
-                "x": "두 앱을 연결하면 모델이 이메일 스레드를 불러오고 내 일정을 확인한 뒤 회의 시간을 제안한다. 답장과 일정 항목은 검토용 초안으로 남겨 둔다. 손볼 일은 많지 않았지만 무작정 맡길 생각은 없다."
+                "x": "DietPi를 설치한 8GB Raspberry Pi 5에서는 pip 설치 몇 번에 20개 레이어를 모두 쓴 needle 빌드 하나면 설정이 끝났다. (1세대 Pi Zero는 지원되지 않는 ARMv6 아키텍처라 빌드에 실패했다.)"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Home Assistant MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Cactus Compute Needle 3 실행"
               },
               {
                 "t": "p",
-                "x": "취침 스크립트를 노출해 두면 “집을 꺼 줘”라고만 하면 되고, “조명을 끄되 욕실 조명은 켜 둬” 같은 예외가 붙은 명령도 처리한다. 단순한 요청은 여전히 Home Assistant의 기본 명령이 맡는다. 로컬 LLMs는 채팅창 밖에서 더 쓸모가 있다."
+                "x": "맞춤 Python 도구 파일로 Home Assistant와 연동하자 Needle 3은 스마트 플러그를 켜라는 프롬프트를 알아들었고 기기는 곧바로 켜졌다(디코드 280.2 tokens/s, 프리필 996.4 tokens/s)."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "원격 Docker 노드를 제어하는 Python 스크립트 만들기"
+              },
+              {
+                "t": "p",
+                "x": "도구는 스마트 기기와 ESP32 센서부터 문서 분석, Docker 제어까지 입맛대로 만들 수 있다. 작성에 품이 들긴 해도 성능을 보면 그 수고가 아깝지 않다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ローカルLLMを\nGmailとスマートホームへ",
-          "body": "ローカルLLMはGmailやHome Assistantとつないで初めて役に立った。",
-          "mini_headline": "ローカルLLM、Gmailで実用に",
+          "headline": "HAT不要の29MB AI\nRaspberry Pi 5",
+          "body": "29MB のNeedle 3はAI HATなしでRaspberry Pi 5で動く。",
+          "mini_headline": "Raspberry Pi 5で動く29MB AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-                "cap": "MCPでローカルモデルを動かすOpenCode"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "私はすでにGmail、Google Calendar、Home Assistantで一日のさまざまな場面を管理しているので、Macで動かしているローカルモデルにそれらを接続した。モデルは自分のコンピューターで動くが、GmailとCalendarは依然としてGoogleのオンラインサービスを必要とする。"
+                "x": "XDAのAyush PandeはRaspberry Pi 5で数多くの小型LLMsを動かしてきたが、Cactus Compute Needle 3は違った。Pythonを少しいじるだけで、このスリムなモデルはわずか数MBs でSBCを強力な自動化マシンに変える。AI HATも要らない。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-                "cap": "filesystemサーバーを設定したLM Studioのmcp.json"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "スマートプラグを制御するPythonスクリプト"
               },
               {
                 "t": "p",
-                "x": "LM Studioは、AIアプリが別のサービスのツールにアクセスするための標準的な仕組みであるMCP(Model Context Protocol)に対応している。Google Workspace MCPなどのコミュニティプロジェクトがGmailとCalendarをカバーし、Home Assistantには独自のMCP Server統合がある。ツールを確実に使えるモデルも必要だ。"
+                "x": "Needle 3は汎用チャットを切り捨てたため、消費量は最大29MB にとどまる。ツール呼び出し、非構造化データのJSON変換、テキストからのベクトル生成といった機械レベルのタスクに特化しており、スライス可能なラダー構造によって、ハードウェアに応じて2〜20層のサブネットワークを選べる。"
               },
               {
                 "t": "p",
-                "x": "両方のアプリを接続すると、モデルはメールのスレッドを取得し、予定を確認したうえで会議の時間を提案できる。返信やカレンダーの予定は確認用の下書きとして残している。修正が必要になることは多くなかったが、無条件に任せるつもりはない。"
+                "x": "DietPiを入れた8GB のRaspberry Pi 5では、pipでのインストールを数回行い、全20層でneedleをビルドするだけで準備が済んだ。(サポート外のARMv6アーキテクチャを使う初代Pi Zeroではビルドできなかった。)"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Home Assistant MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Cactus Compute Needle 3を実行"
               },
               {
                 "t": "p",
-                "x": "就寝用スクリプトを公開しておけば「家をシャットダウンして」と頼めるし、「電気を消して、でも浴室の電気はつけたままにして」のような例外付きの指示も処理できる。単純な依頼は引き続きHome Assistantのネイティブコマンドが処理する。ローカルLLMsはチャット画面の外でこそ役に立つ。"
+                "x": "カスタムのPythonツールファイルでHome Assistantと連携させると、Needle 3はスマートプラグをオンにするプロンプトを理解し、デバイスはすぐに起動した(デコード280.2 tokens/s, プリフィル996.4 tokens/s)。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "リモートのDockerノードを制御するPythonスクリプトの作成"
+              },
+              {
+                "t": "p",
+                "x": "ツールはスマートデバイス、ESP32センサー、文書解析、Docker制御など自在にカスタマイズできる。作成には手間がかかるが、その性能は労力を補って余りある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "本地LLM接入\nGmail与智能家居",
-          "body": "本地LLM接入Gmail和Home Assistant后，才真正派上用场。",
-          "mini_headline": "本地LLM接入Gmail才好用",
+          "headline": "无需HAT的29MB AI\nRaspberry Pi 5",
+          "body": "29MB 的Needle 3无需AI HAT即可在Raspberry Pi 5上运行。",
+          "mini_headline": "Raspberry Pi 5上的29MB AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-                "cap": "OpenCode通过MCP运行本地模型"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "我本来就用Gmail、Google Calendar和Home Assistant管理一天中的不同事务，于是把它们接入了我在Mac上运行的本地模型。模型在我的电脑上运行，不过Gmail和Calendar仍需依赖Google的在线服务。"
+                "x": "XDA的Ayush Pande在Raspberry Pi 5上跑过不少小型LLMs，但Cactus Compute Needle 3与众不同：只需稍微折腾一下Python，这款轻巧的模型仅用几MBs 就能把这台SBC变成自动化利器，而且不需要AI HAT。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-                "cap": "配置了filesystem服务器的LM Studio mcp.json"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "控制智能插座的Python脚本"
               },
               {
                 "t": "p",
-                "x": "LM Studio支持MCP（Model Context Protocol），这是AI应用访问其他服务工具的一种标准方式。Google Workspace MCP等社区项目覆盖了Gmail和Calendar；Home Assistant则有自己的MCP Server集成。此外还需要一个能可靠使用工具的模型。"
+                "x": "Needle 3舍弃了通用聊天功能，因此最多只占用29MB 。它专注于机器层面的任务——调用工具、把非结构化数据转换为JSON、从文本生成向量——其可切分的阶梯式架构还能根据硬件选择2到20层的子网络。"
               },
               {
                 "t": "p",
-                "x": "两个应用接入后，模型可以调取邮件往来，并在查看我的日程后提出会议时间。回复和日历条目我都保留为草稿再审核——需要我纠正的情况不多，但我不会让它盲目运行。"
+                "x": "在运行DietPi的8GB Raspberry Pi 5上，只需几次pip安装，再用全部20层构建needle，就完成了设置。（它无法在第一代Pi Zero上构建，因为后者采用不受支持的ARMv6架构。）"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Home Assistant MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "运行Cactus Compute Needle 3"
               },
               {
                 "t": "p",
-                "x": "开放睡前脚本后，我可以让它“关闭整个房子”，它也能处理带例外的指令，比如“把灯关掉，但浴室的灯留着”。简单的请求仍交给Home Assistant的原生命令。本地LLMs在聊天框之外更有用。"
+                "x": "通过自定义Python工具文件与Home Assistant配合后，Needle 3理解了打开智能插座的提示词，设备随即上线(解码速度280.2 tokens/s, 预填充速度996.4 tokens/s)。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "创建控制远程Docker节点的Python脚本"
+              },
+              {
+                "t": "p",
+                "x": "这些工具可高度定制，可用于智能设备、ESP32传感器、文档分析或Docker控制。编写它们需要花些功夫，但性能足以弥补这份付出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un LLM local conectado a Gmail,\nCalendar y Home Assistant",
-          "body": "Conectar un LLM local a Gmail, Calendar y Home Assistant fue lo que por fin lo volvió productivo.",
-          "mini_headline": "Un LLM local, útil con Gmail",
+          "headline": "Modelo de IA de 29MB funciona en\nRaspberry Pi 5 sin AI HAT",
+          "body": "Needle 3 (29MB), de Cactus Compute, funciona en una Raspberry Pi 5 sin AI HAT y usa herramientas de Home Assistant.",
+          "mini_headline": "Un modelo AI de 29MB en Raspberry Pi 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-                "cap": "OpenCode ejecutando un modelo local con MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Ya uso Gmail, Google Calendar y Home Assistant para gestionar distintas partes de mi día, así que los conecté a los modelos locales que ejecuto en mi Mac. El modelo funciona en mi equipo, aunque Gmail y Calendar siguen necesitando los servicios en línea de Google."
+                "x": "Ayush Pande, de XDA, ha ejecutado muchos LLMs pequeños en su Raspberry Pi 5, pero Cactus Compute Needle 3 es distinto: con algunos ajustes en Python, este modelo ligero necesita apenas unos pocos MBs para convertir la SBC en una potente máquina de automatización, sin necesidad de AI HAT."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-                "cap": "mcp.json de LM Studio con servidor filesystem"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Un script de Python para controlar un enchufe inteligente"
               },
               {
                 "t": "p",
-                "x": "LM Studio admite MCP (Model Context Protocol), una forma estándar de que una aplicación de AI acceda a herramientas de otro servicio. Proyectos de la comunidad como Google Workspace MCP cubren Gmail y Calendar; Home Assistant tiene su propia integración MCP Server. También se necesita un modelo capaz de usar herramientas de forma fiable."
+                "x": "Needle 3 consume como máximo 29MB porque prescinde del chat general. Se centra en tareas a nivel de máquina —llamar a herramientas, convertir datos no estructurados en JSON y generar vectores a partir de texto— y su arquitectura escalonada divisible permite elegir subredes de 2 a 20 capas según el hardware."
               },
               {
                 "t": "p",
-                "x": "Con ambas aplicaciones conectadas, el modelo puede recuperar un hilo de correo y revisar mis citas antes de proponer una hora de reunión. Dejo las respuestas y las entradas del calendario como borradores para revisarlas: no tuve que corregirlo a menudo, pero no lo dejaría funcionar a ciegas."
+                "x": "En una Raspberry Pi 5 de 8GB con DietPi, la configuración consistió en unas cuantas instalaciones con pip y una compilación de needle con las 20 capas. (No se pudo compilar en una Pi Zero de primera generación, que usa la arquitectura ARMv6, no compatible.)"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Home Assistant MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Ejecución de Cactus Compute Needle 3"
               },
               {
                 "t": "p",
-                "x": "Exponer mi script de la hora de dormir me permite pedirle que “apague la casa”, y puede manejar órdenes con excepciones como “Apaga las luces, pero deja encendida la luz del baño”. Las peticiones simples siguen yendo a los comandos nativos de Home Assistant. Los LLMs locales son más útiles fuera de una ventana de chat."
+                "x": "Conectado a Home Assistant mediante un archivo de herramientas personalizado en Python, Needle 3 entendió una instrucción para encender un enchufe inteligente y el dispositivo se activó de inmediato, con una velocidad de decodificación de 280.2 tokens/s y de prellenado de 996.4 tokens/s."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Creación de un script de Python para controlar un nodo remoto de Docker"
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas son muy personalizables: dispositivos inteligentes, sensores ESP32, análisis de documentos o control de Docker. Escribirlas exige esfuerzo, pero el rendimiento lo compensa con creces."
               }
             ]
           }
@@ -259,165 +307,197 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "로컬 LLM을 Gmail과\n스마트홈에 연결하다",
-          "body": "로컬 LLM은 Gmail·Home Assistant와 연결하자 쓸모가 생겼다.",
-          "mini_headline": "로컬 LLM, Gmail로 쓸모를 찾다",
+          "headline": "HAT 없는 29MB AI\nRaspberry Pi 5",
+          "body": "29MB Needle 3은 AI HAT 없이 Raspberry Pi 5에서 돈다.",
+          "mini_headline": "Raspberry Pi 5에서 도는 29MB AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-                "cap": "MCP로 로컬 모델을 실행하는 OpenCode"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "나는 이미 Gmail, Google Calendar, Home Assistant로 하루의 여러 부분을 관리하고 있어서, 이들을 Mac에서 돌리는 로컬 모델에 연결했다. 모델은 내 컴퓨터에서 돌지만, Gmail과 Calendar는 여전히 Google의 온라인 서비스가 필요하다."
+                "x": "XDA의 Ayush Pande는 Raspberry Pi 5에서 작은 LLMs를 숱하게 돌려 봤지만, Cactus Compute Needle 3은 달랐다. Python을 조금 손보면 이 가벼운 모델은 겨우 몇 MBs 만으로 SBC를 강력한 자동화 기기로 바꾼다. AI HAT도 필요 없다."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-                "cap": "filesystem 서버를 설정한 LM Studio의 mcp.json"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "스마트 플러그를 제어하는 Python 스크립트"
               },
               {
                 "t": "p",
-                "x": "LM Studio는 AI 앱이 다른 서비스의 도구에 접근하는 표준 방식인 MCP(Model Context Protocol)를 지원한다. Google Workspace MCP 같은 커뮤니티 프로젝트가 Gmail과 Calendar를 다루고, Home Assistant에는 자체 MCP Server 통합 기능이 있다. 도구를 안정적으로 쓸 수 있는 모델도 필요하다."
+                "x": "Needle 3은 일반 대화 기능을 덜어 낸 덕에 최대 29MB 만 소비한다. 도구 호출, 비정형 데이터의 JSON 변환, 텍스트의 벡터 생성 같은 기계 수준의 작업에 집중하며, 잘라 쓸 수 있는 사다리 구조 덕분에 하드웨어에 맞춰 2개에서 20개 레이어까지 하위 네트워크를 고를 수 있다."
               },
               {
                 "t": "p",
-                "x": "두 앱을 연결하면 모델이 이메일 스레드를 불러오고 내 일정을 확인한 뒤 회의 시간을 제안한다. 답장과 일정 항목은 검토용 초안으로 남겨 둔다. 고칠 일은 많지 않았지만, 무작정 맡겨 두지는 않을 것이다."
+                "x": "DietPi를 설치한 8GB Raspberry Pi 5에서는 pip 설치 몇 번과 20개 레이어 전체를 쓴 needle 빌드로 설정이 끝났다. (지원되지 않는 ARMv6 아키텍처를 쓰는 1세대 Pi Zero에서는 빌드되지 않았다.)"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Home Assistant MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Cactus Compute Needle 3 실행"
               },
               {
                 "t": "p",
-                "x": "취침 스크립트를 노출해 두면 “집을 꺼 줘”라고 요청할 수 있고, “조명을 끄되 욕실 조명은 켜 둬” 같은 예외가 붙은 명령도 처리한다. 단순한 요청은 여전히 Home Assistant의 기본 명령이 맡는다. 로컬 LLMs는 채팅창 밖에서 더 쓸모 있다."
+                "x": "맞춤 Python 도구 파일로 Home Assistant와 연동하자 Needle 3은 스마트 플러그를 켜라는 프롬프트를 이해했고, 기기는 곧바로 켜졌다(디코드 280.2 tokens/s, 프리필 996.4 tokens/s)."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "원격 Docker 노드를 제어하는 Python 스크립트 만들기"
+              },
+              {
+                "t": "p",
+                "x": "도구는 스마트 기기, ESP32 센서, 문서 분석, Docker 제어까지 폭넓게 맞춤화할 수 있다. 작성에는 품이 들지만, 성능이 그 수고를 충분히 보상한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ローカルLLMを\nGmailとスマートホームへ",
-          "body": "ローカルLLMはGmailやHome Assistantとつないで初めて役に立った。",
-          "mini_headline": "ローカルLLM、Gmailで実用に",
+          "headline": "HAT不要の29MB AI\nRaspberry Pi 5",
+          "body": "29MB のNeedle 3はAI HATなしでRaspberry Pi 5で動く。",
+          "mini_headline": "Raspberry Pi 5で動く29MB AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-                "cap": "MCPでローカルモデルを動かすOpenCode"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "私はすでにGmail、Google Calendar、Home Assistantで一日のさまざまな場面を管理しているので、Macで動かしているローカルモデルにそれらを接続した。モデルは自分のコンピューターで動くが、GmailとCalendarは依然としてGoogleのオンラインサービスを必要とする。"
+                "x": "XDAのAyush PandeはRaspberry Pi 5で数多くの小型LLMsを動かしてきたが、Cactus Compute Needle 3は違った。Pythonを少しいじるだけで、このスリムなモデルはわずか数MBs でSBCを強力な自動化マシンに変える。AI HATも要らない。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-                "cap": "filesystemサーバーを設定したLM Studioのmcp.json"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "スマートプラグを制御するPythonスクリプト"
               },
               {
                 "t": "p",
-                "x": "LM Studioは、AIアプリが別のサービスのツールにアクセスするための標準的な仕組みであるMCP(Model Context Protocol)に対応している。Google Workspace MCPなどのコミュニティプロジェクトがGmailとCalendarをカバーし、Home Assistantには独自のMCP Server統合がある。ツールを確実に使えるモデルも必要だ。"
+                "x": "Needle 3は汎用チャットを切り捨てたため、消費量は最大29MB にとどまる。ツール呼び出し、非構造化データのJSON変換、テキストからのベクトル生成といった機械レベルのタスクに特化しており、スライス可能なラダー構造によって、ハードウェアに応じて2〜20層のサブネットワークを選べる。"
               },
               {
                 "t": "p",
-                "x": "両方のアプリを接続すると、モデルはメールのスレッドを取得し、予定を確認したうえで会議の時間を提案できる。返信やカレンダーの予定は確認用の下書きとして残している。修正が必要になることは多くなかったが、無条件に任せるつもりはない。"
+                "x": "DietPiを入れた8GB のRaspberry Pi 5では、pipでのインストールを数回行い、全20層でneedleをビルドするだけで準備が済んだ。(サポート外のARMv6アーキテクチャを使う初代Pi Zeroではビルドできなかった。)"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Home Assistant MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Cactus Compute Needle 3を実行"
               },
               {
                 "t": "p",
-                "x": "就寝用スクリプトを公開しておけば「家をシャットダウンして」と頼めるし、「電気を消して、でも浴室の電気はつけたままにして」のような例外付きの指示も処理できる。単純な依頼は引き続きHome Assistantのネイティブコマンドが処理する。ローカルLLMsはチャット画面の外でこそ役に立つ。"
+                "x": "カスタムのPythonツールファイルでHome Assistantと連携させると、Needle 3はスマートプラグをオンにするプロンプトを理解し、デバイスはすぐに起動した(デコード280.2 tokens/s, プリフィル996.4 tokens/s)。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "リモートのDockerノードを制御するPythonスクリプトの作成"
+              },
+              {
+                "t": "p",
+                "x": "ツールはスマートデバイス、ESP32センサー、文書解析、Docker制御など自在にカスタマイズできる。作成には手間がかかるが、その性能は労力を補って余りある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "本地LLM接入\nGmail与智能家居",
-          "body": "本地LLM接入Gmail和Home Assistant后，才真正派上用场。",
-          "mini_headline": "本地LLM接入Gmail才好用",
+          "headline": "无需HAT的29MB AI\nRaspberry Pi 5",
+          "body": "29MB 的Needle 3无需AI HAT即可在Raspberry Pi 5上运行。",
+          "mini_headline": "Raspberry Pi 5上的29MB AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-                "cap": "OpenCode通过MCP运行本地模型"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "我本来就用Gmail、Google Calendar和Home Assistant管理一天中的不同事务，于是把它们接入了我在Mac上运行的本地模型。模型在我的电脑上运行，不过Gmail和Calendar仍需依赖Google的在线服务。"
+                "x": "XDA的Ayush Pande在Raspberry Pi 5上跑过不少小型LLMs，但Cactus Compute Needle 3与众不同：只需稍微折腾一下Python，这款轻巧的模型仅用几MBs 就能把这台SBC变成自动化利器，而且不需要AI HAT。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-                "cap": "配置了filesystem服务器的LM Studio mcp.json"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "控制智能插座的Python脚本"
               },
               {
                 "t": "p",
-                "x": "LM Studio支持MCP（Model Context Protocol），这是AI应用访问其他服务工具的一种标准方式。Google Workspace MCP等社区项目覆盖了Gmail和Calendar；Home Assistant则有自己的MCP Server集成。此外还需要一个能可靠使用工具的模型。"
+                "x": "Needle 3舍弃了通用聊天功能，因此最多只占用29MB 。它专注于机器层面的任务——调用工具、把非结构化数据转换为JSON、从文本生成向量——其可切分的阶梯式架构还能根据硬件选择2到20层的子网络。"
               },
               {
                 "t": "p",
-                "x": "两个应用接入后，模型可以调取邮件往来，并在查看我的日程后提出会议时间。回复和日历条目我都保留为草稿再审核——需要我纠正的情况不多，但我不会让它盲目运行。"
+                "x": "在运行DietPi的8GB Raspberry Pi 5上，只需几次pip安装，再用全部20层构建needle，就完成了设置。（它无法在第一代Pi Zero上构建，因为后者采用不受支持的ARMv6架构。）"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Home Assistant MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "运行Cactus Compute Needle 3"
               },
               {
                 "t": "p",
-                "x": "开放睡前脚本后，我可以让它“关闭整个房子”，它也能处理带例外的指令，比如“把灯关掉，但浴室的灯留着”。简单的请求仍交给Home Assistant的原生命令。本地LLMs在聊天框之外更有用。"
+                "x": "通过自定义Python工具文件与Home Assistant配合后，Needle 3理解了打开智能插座的提示词，设备随即上线(解码速度280.2 tokens/s, 预填充速度996.4 tokens/s)。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "创建控制远程Docker节点的Python脚本"
+              },
+              {
+                "t": "p",
+                "x": "这些工具可高度定制，可用于智能设备、ESP32传感器、文档分析或Docker控制。编写它们需要花些功夫，但性能足以弥补这份付出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un LLM local conectado a Gmail,\nCalendar y Home Assistant",
-          "body": "Conectar un LLM local a Gmail, Calendar y Home Assistant fue lo que por fin lo volvió productivo.",
-          "mini_headline": "Un LLM local, útil con Gmail",
+          "headline": "Modelo de IA de 29MB funciona en\nRaspberry Pi 5 sin AI HAT",
+          "body": "Needle 3 (29MB), de Cactus Compute, funciona en una Raspberry Pi 5 sin AI HAT y usa herramientas de Home Assistant.",
+          "mini_headline": "Un modelo AI de 29MB en Raspberry Pi 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
-                "cap": "OpenCode ejecutando un modelo local con MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
               },
               {
                 "t": "p",
-                "x": "Ya uso Gmail, Google Calendar y Home Assistant para gestionar distintas partes de mi día, así que los conecté a los modelos locales que ejecuto en mi Mac. El modelo funciona en mi equipo, aunque Gmail y Calendar siguen necesitando los servicios en línea de Google."
+                "x": "Ayush Pande, de XDA, ha ejecutado muchos LLMs pequeños en su Raspberry Pi 5, pero Cactus Compute Needle 3 es distinto: con algunos ajustes en Python, este modelo ligero necesita apenas unos pocos MBs para convertir la SBC en una potente máquina de automatización, sin necesidad de AI HAT."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
-                "cap": "mcp.json de LM Studio con servidor filesystem"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Un script de Python para controlar un enchufe inteligente"
               },
               {
                 "t": "p",
-                "x": "LM Studio admite MCP (Model Context Protocol), una forma estándar de que una aplicación de AI acceda a herramientas de otro servicio. Proyectos de la comunidad como Google Workspace MCP cubren Gmail y Calendar; Home Assistant tiene su propia integración MCP Server. También se necesita un modelo capaz de usar herramientas de forma fiable."
+                "x": "Needle 3 consume como máximo 29MB porque prescinde del chat general. Se centra en tareas a nivel de máquina —llamar a herramientas, convertir datos no estructurados en JSON y generar vectores a partir de texto— y su arquitectura escalonada divisible permite elegir subredes de 2 a 20 capas según el hardware."
               },
               {
                 "t": "p",
-                "x": "Con ambas aplicaciones conectadas, el modelo puede recuperar un hilo de correo y revisar mis citas antes de proponer una hora de reunión. Dejo las respuestas y las entradas del calendario como borradores para revisarlas: no tuve que corregirlo a menudo, pero no lo dejaría funcionar a ciegas."
+                "x": "En una Raspberry Pi 5 de 8GB con DietPi, la configuración consistió en unas cuantas instalaciones con pip y una compilación de needle con las 20 capas. (No se pudo compilar en una Pi Zero de primera generación, que usa la arquitectura ARMv6, no compatible.)"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Home Assistant MCP"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Ejecución de Cactus Compute Needle 3"
               },
               {
                 "t": "p",
-                "x": "Exponer mi script de la hora de dormir me permite pedirle que “apague la casa”, y puede manejar órdenes con excepciones como “Apaga las luces, pero deja encendida la luz del baño”. Las peticiones simples siguen yendo a los comandos nativos de Home Assistant. Los LLMs locales son más útiles fuera de una ventana de chat."
+                "x": "Conectado a Home Assistant mediante un archivo de herramientas personalizado en Python, Needle 3 entendió una instrucción para encender un enchufe inteligente y el dispositivo se activó de inmediato, con una velocidad de decodificación de 280.2 tokens/s y de prellenado de 996.4 tokens/s."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Creación de un script de Python para controlar un nodo remoto de Docker"
+              },
+              {
+                "t": "p",
+                "x": "Las herramientas son muy personalizables: dispositivos inteligentes, sensores ESP32, análisis de documentos o control de Docker. Escribirlas exige esfuerzo, pero el rendimiento lo compensa con creces."
               }
             ]
           }
@@ -425,437 +505,15 @@
       }
     },
     {
-      "id": "siri-personal-index-limits",
+      "id": "verge-local-ai-hermes-qwen-diary",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "새 Siri가 색인하는\n개인 데이터 줄이기",
-      "body": "새 Siri가 개인 데이터를 더 색인하자 Engadget이 제한법을 정리했다.",
-      "mini_headline": "새 Siri의 데이터 색인 제한하기",
-      "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2275255/iphone-siri-ai-can-index-more-personal-data-how-to-limit/",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-            "cap": "Siri AI는 iOS, iPadOS, watchOS, macOS에서 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Apple은 iOS 27과 함께 오랫동안 미뤄 온 Siri 개편을 배포하기 시작했다. Siri AI 밑에는 Apple이 Google과 손잡고 훈련한 대규모 언어 모델이 있고, 이 어시스턴트가 제대로 돌아가려면 사용자 데이터가 꽤 많이 필요하다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-            "cap": "App Intents는 Siri와 다른 Apple Intelligence 기능이 앱 데이터에 접근하도록 해 준다."
-          },
-          {
-            "t": "p",
-            "x": "Siri는 App Intents라는 프레임워크로 Notes와 Messages 같은 Apple 앱은 물론, 개발자가 지원하는 서드파티 앱까지 검색한다. Siri AI는 온디바이스 모델과 Private Cloud Compute를 함께 쓴다. Apple은 PCC로 보낸 데이터를 저장하지 않고 들여다볼 수도 없다고 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-            "cap": "Siri AI가 앱 데이터를 꺼내 보이지 못하게 막는 방법."
-          },
-          {
-            "t": "p",
-            "x": "특정 앱을 차단하려면 Settings > Apps > [app] > Search로 가서 Show Content in Search를 끄면 된다. 그러면 직접 요청해도 Siri가 그 앱에서 정보를 가져오지 않는다. 다만 화면 인식 기능은 여전히 스크린숏을 읽고, 그 스크린숏이 PCC로 넘어갈 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "Siri 녹음이 훈련에 쓰이지 않게 하려면 Privacy & Security > Analytics & Improvements에서 Improve Siri & Dictation을 끄면 된다. Screen Time > Content & Privacy Restrictions에서 Siri Classic으로 되돌리거나 Siri를 완전히 끌 수도 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Limiting how much personal data\nthe new Siri can index",
-          "body": "Apple's new Siri can index more of your personal data, and Engadget shows how to restrict what it can access.",
-          "mini_headline": "Limiting the new Siri's data index",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-                "cap": "Siri AI is available on iOS, iPadOS, watchOS and macOS."
-              },
-              {
-                "t": "p",
-                "x": "With iOS 27, Apple has begun rolling out its long-delayed Siri redesign. Apple partnered with Google to train the large language models behind Siri AI, and the assistant needs a great deal of your data to work at its best."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-                "cap": "App Intents allows Siri and other Apple Intelligence features to access data from your apps."
-              },
-              {
-                "t": "p",
-                "x": "A framework called App Intents lets Siri search your Apple apps, including Notes and Messages, plus third-party apps whose developers support it. Siri AI combines on-device models with Private Cloud Compute; Apple says it doesn't store data sent to PCC and can't see it."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-                "cap": "How to prevent Siri AI from surfacing data from your apps."
-              },
-              {
-                "t": "p",
-                "x": "To block an app, go to Settings > Apps > [app] > Search and toggle off Show Content in Search; Siri then won't pull information from it even if asked directly. On-screen awareness can still read screenshots, which might be sent to PCC."
-              },
-              {
-                "t": "p",
-                "x": "To keep Siri recordings out of training, disable Improve Siri & Dictation under Privacy & Security > Analytics & Improvements. You can also revert to Siri Classic via Screen Time > Content & Privacy Restrictions, or turn Siri off entirely."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "새 Siri가 색인하는\n개인 데이터 줄이기",
-          "body": "새 Siri가 개인 데이터를 더 색인하자 Engadget이 제한법을 정리했다.",
-          "mini_headline": "새 Siri의 데이터 색인 제한하기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-                "cap": "Siri AI는 iOS, iPadOS, watchOS, macOS에서 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 iOS 27과 함께 오랫동안 미뤄 온 Siri 개편을 배포하기 시작했다. Siri AI 밑에는 Apple이 Google과 손잡고 훈련한 대규모 언어 모델이 있고, 이 어시스턴트가 제대로 돌아가려면 사용자 데이터가 꽤 많이 필요하다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-                "cap": "App Intents는 Siri와 다른 Apple Intelligence 기능이 앱 데이터에 접근하도록 해 준다."
-              },
-              {
-                "t": "p",
-                "x": "Siri는 App Intents라는 프레임워크로 Notes와 Messages 같은 Apple 앱은 물론, 개발자가 지원하는 서드파티 앱까지 검색한다. Siri AI는 온디바이스 모델과 Private Cloud Compute를 함께 쓴다. Apple은 PCC로 보낸 데이터를 저장하지 않고 들여다볼 수도 없다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-                "cap": "Siri AI가 앱 데이터를 꺼내 보이지 못하게 막는 방법."
-              },
-              {
-                "t": "p",
-                "x": "특정 앱을 차단하려면 Settings > Apps > [app] > Search로 가서 Show Content in Search를 끄면 된다. 그러면 직접 요청해도 Siri가 그 앱에서 정보를 가져오지 않는다. 다만 화면 인식 기능은 여전히 스크린숏을 읽고, 그 스크린숏이 PCC로 넘어갈 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Siri 녹음이 훈련에 쓰이지 않게 하려면 Privacy & Security > Analytics & Improvements에서 Improve Siri & Dictation을 끄면 된다. Screen Time > Content & Privacy Restrictions에서 Siri Classic으로 되돌리거나 Siri를 완전히 끌 수도 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "新しいSiriが索引する\n個人データを絞る",
-          "body": "新しいSiriは個人データをより多く索引し、Engadgetがその制限方法を紹介した。",
-          "mini_headline": "新Siriのデータ索引を制限する",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-                "cap": "Siri AIはiOS、iPadOS、watchOS、macOSで利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "AppleはiOS 27で、長らく延期されていたSiriの刷新を展開し始めた。AppleはGoogleと提携してSiri AIを支える大規模言語モデルを訓練しており、このアシスタントが本領を発揮するには大量の個人データが必要になる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-                "cap": "App Intentsにより、Siriやその他のApple Intelligence機能がアプリのデータにアクセスできる。"
-              },
-              {
-                "t": "p",
-                "x": "App Intentsというフレームワークによって、SiriはNotesやMessagesを含むAppleのアプリに加え、開発者が対応したサードパーティ製アプリも検索できる。Siri AIはオンデバイスモデルとPrivate Cloud Computeを組み合わせており、AppleはPCCに送られたデータを保存せず、閲覧もできないとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-                "cap": "Siri AIがアプリのデータを表示しないようにする方法。"
-              },
-              {
-                "t": "p",
-                "x": "アプリをブロックするには、Settings > Apps > [app] > Searchに進み、Show Content in Searchをオフにする。するとSiriは直接頼まれてもそのアプリから情報を引き出さない。ただし画面認識機能は引き続きスクリーンショットを読み取ることができ、それがPCCに送られる可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "Siriの録音を学習に使わせないためには、Privacy & Security > Analytics & ImprovementsでImprove Siri & Dictationを無効にする。Screen Time > Content & Privacy RestrictionsからSiri Classicに戻すことも、Siriを完全にオフにすることもできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "限制新版Siri\n可索引的个人数据",
-          "body": "Apple新版Siri能索引更多个人数据，Engadget介绍了限制其访问范围的方法。",
-          "mini_headline": "限制新版Siri的数据索引",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-                "cap": "Siri AI可在iOS、iPadOS、watchOS和macOS上使用。"
-              },
-              {
-                "t": "p",
-                "x": "随着iOS 27推出，Apple开始推送延宕已久的Siri改版。Apple与Google合作训练支撑Siri AI的大语言模型，而这一助手要发挥最佳效果，需要大量用户数据。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-                "cap": "App Intents让Siri及其他Apple Intelligence功能可以访问你应用中的数据。"
-              },
-              {
-                "t": "p",
-                "x": "借助名为App Intents的框架，Siri可以搜索包括Notes和Messages在内的Apple应用，以及开发者提供支持的第三方应用。Siri AI结合了端侧模型与Private Cloud Compute；Apple表示不会存储发送到PCC的数据，也无法查看这些数据。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-                "cap": "如何阻止Siri AI调出你应用中的数据。"
-              },
-              {
-                "t": "p",
-                "x": "要屏蔽某个应用，进入Settings > Apps > [app] > Search，关闭Show Content in Search；之后即使直接要求，Siri也不会从该应用提取信息。不过屏幕感知功能仍可读取截图，这些截图可能会被发送到PCC。"
-              },
-              {
-                "t": "p",
-                "x": "若不想让Siri录音被用于训练，可在Privacy & Security > Analytics & Improvements中关闭Improve Siri & Dictation。也可以通过Screen Time > Content & Privacy Restrictions恢复为Siri Classic，或彻底关闭Siri。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cómo limitar los datos\nque puede indexar el nuevo Siri",
-          "body": "El nuevo Siri de Apple puede indexar más datos personales, y Engadget explica cómo restringir a qué puede acceder.",
-          "mini_headline": "Limitar el índice de datos de Siri",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-                "cap": "Siri AI está disponible en iOS, iPadOS, watchOS y macOS."
-              },
-              {
-                "t": "p",
-                "x": "Con iOS 27, Apple ha comenzado a desplegar el rediseño de Siri, retrasado durante mucho tiempo. Apple se asoció con Google para entrenar los grandes modelos de lenguaje en los que se basa Siri AI, y el asistente necesita una gran cantidad de tus datos para funcionar de la mejor manera."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-                "cap": "App Intents permite que Siri y otras funciones de Apple Intelligence accedan a los datos de tus apps."
-              },
-              {
-                "t": "p",
-                "x": "Un framework llamado App Intents permite a Siri buscar en tus apps de Apple, como Notes y Messages, además de en apps de terceros cuyos desarrolladores lo admitan. Siri AI combina modelos en el dispositivo con Private Cloud Compute; Apple afirma que no almacena los datos enviados a PCC y que no puede verlos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-                "cap": "Cómo impedir que Siri AI muestre datos de tus apps."
-              },
-              {
-                "t": "p",
-                "x": "Para bloquear una app, ve a Settings > Apps > [app] > Search y desactiva Show Content in Search; así Siri no extraerá información de ella aunque se le pida directamente. El reconocimiento de pantalla aún puede leer capturas, que podrían enviarse a PCC."
-              },
-              {
-                "t": "p",
-                "x": "Para que las grabaciones de Siri no se usen en el entrenamiento, desactiva Improve Siri & Dictation en Privacy & Security > Analytics & Improvements. También puedes volver a Siri Classic desde Screen Time > Content & Privacy Restrictions, o desactivar Siri por completo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "새 Siri가 색인하는\n개인 데이터 줄이기",
-          "body": "새 Siri가 개인 데이터를 더 색인하자 Engadget이 제한법을 정리했다.",
-          "mini_headline": "새 Siri의 데이터 색인 제한하기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-                "cap": "Siri AI는 iOS, iPadOS, watchOS, macOS에서 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 iOS 27과 함께 오랫동안 미뤄 온 Siri 개편을 배포하기 시작했다. Apple은 Google과 손잡고 Siri AI를 뒷받침하는 대규모 언어 모델을 훈련했으며, 이 어시스턴트가 제대로 작동하려면 사용자 데이터가 상당히 많이 필요하다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-                "cap": "App Intents는 Siri와 다른 Apple Intelligence 기능이 앱 데이터에 접근하도록 해 준다."
-              },
-              {
-                "t": "p",
-                "x": "App Intents라는 프레임워크를 통해 Siri는 Notes와 Messages를 비롯한 Apple 앱, 그리고 개발자가 지원하는 서드파티 앱을 검색할 수 있다. Siri AI는 온디바이스 모델과 Private Cloud Compute를 결합하며, Apple은 PCC로 보낸 데이터를 저장하지 않고 볼 수도 없다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-                "cap": "Siri AI가 앱 데이터를 꺼내 보이지 못하게 막는 방법."
-              },
-              {
-                "t": "p",
-                "x": "특정 앱을 차단하려면 Settings > Apps > [app] > Search로 가서 Show Content in Search를 끄면 된다. 그러면 Siri는 직접 요청을 받아도 그 앱에서 정보를 가져오지 않는다. 다만 화면 인식 기능은 여전히 스크린숏을 읽을 수 있고, 이 스크린숏은 PCC로 전송될 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Siri 녹음이 훈련에 쓰이지 않게 하려면 Privacy & Security > Analytics & Improvements에서 Improve Siri & Dictation을 끄면 된다. Screen Time > Content & Privacy Restrictions에서 Siri Classic으로 되돌리거나 Siri를 완전히 끌 수도 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "新しいSiriが索引する\n個人データを絞る",
-          "body": "新しいSiriは個人データをより多く索引し、Engadgetがその制限方法を紹介した。",
-          "mini_headline": "新Siriのデータ索引を制限する",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-                "cap": "Siri AIはiOS、iPadOS、watchOS、macOSで利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "AppleはiOS 27で、長らく延期されていたSiriの刷新を展開し始めた。AppleはGoogleと提携してSiri AIを支える大規模言語モデルを訓練しており、このアシスタントが本領を発揮するには大量の個人データが必要になる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-                "cap": "App Intentsにより、Siriやその他のApple Intelligence機能がアプリのデータにアクセスできる。"
-              },
-              {
-                "t": "p",
-                "x": "App Intentsというフレームワークによって、SiriはNotesやMessagesを含むAppleのアプリに加え、開発者が対応したサードパーティ製アプリも検索できる。Siri AIはオンデバイスモデルとPrivate Cloud Computeを組み合わせており、AppleはPCCに送られたデータを保存せず、閲覧もできないとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-                "cap": "Siri AIがアプリのデータを表示しないようにする方法。"
-              },
-              {
-                "t": "p",
-                "x": "アプリをブロックするには、Settings > Apps > [app] > Searchに進み、Show Content in Searchをオフにする。するとSiriは直接頼まれてもそのアプリから情報を引き出さない。ただし画面認識機能は引き続きスクリーンショットを読み取ることができ、それがPCCに送られる可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "Siriの録音を学習に使わせないためには、Privacy & Security > Analytics & ImprovementsでImprove Siri & Dictationを無効にする。Screen Time > Content & Privacy RestrictionsからSiri Classicに戻すことも、Siriを完全にオフにすることもできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "限制新版Siri\n可索引的个人数据",
-          "body": "Apple新版Siri能索引更多个人数据，Engadget介绍了限制其访问范围的方法。",
-          "mini_headline": "限制新版Siri的数据索引",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-                "cap": "Siri AI可在iOS、iPadOS、watchOS和macOS上使用。"
-              },
-              {
-                "t": "p",
-                "x": "随着iOS 27推出，Apple开始推送延宕已久的Siri改版。Apple与Google合作训练支撑Siri AI的大语言模型，而这一助手要发挥最佳效果，需要大量用户数据。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-                "cap": "App Intents让Siri及其他Apple Intelligence功能可以访问你应用中的数据。"
-              },
-              {
-                "t": "p",
-                "x": "借助名为App Intents的框架，Siri可以搜索包括Notes和Messages在内的Apple应用，以及开发者提供支持的第三方应用。Siri AI结合了端侧模型与Private Cloud Compute；Apple表示不会存储发送到PCC的数据，也无法查看这些数据。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-                "cap": "如何阻止Siri AI调出你应用中的数据。"
-              },
-              {
-                "t": "p",
-                "x": "要屏蔽某个应用，进入Settings > Apps > [app] > Search，关闭Show Content in Search；之后即使直接要求，Siri也不会从该应用提取信息。不过屏幕感知功能仍可读取截图，这些截图可能会被发送到PCC。"
-              },
-              {
-                "t": "p",
-                "x": "若不想让Siri录音被用于训练，可在Privacy & Security > Analytics & Improvements中关闭Improve Siri & Dictation。也可以通过Screen Time > Content & Privacy Restrictions恢复为Siri Classic，或彻底关闭Siri。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cómo limitar los datos\nque puede indexar el nuevo Siri",
-          "body": "El nuevo Siri de Apple puede indexar más datos personales, y Engadget explica cómo restringir a qué puede acceder.",
-          "mini_headline": "Limitar el índice de datos de Siri",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
-                "cap": "Siri AI está disponible en iOS, iPadOS, watchOS y macOS."
-              },
-              {
-                "t": "p",
-                "x": "Con iOS 27, Apple ha comenzado a desplegar el rediseño de Siri, retrasado durante mucho tiempo. Apple se asoció con Google para entrenar los grandes modelos de lenguaje en los que se basa Siri AI, y el asistente necesita una gran cantidad de tus datos para funcionar de la mejor manera."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
-                "cap": "App Intents permite que Siri y otras funciones de Apple Intelligence accedan a los datos de tus apps."
-              },
-              {
-                "t": "p",
-                "x": "Un framework llamado App Intents permite a Siri buscar en tus apps de Apple, como Notes y Messages, además de en apps de terceros cuyos desarrolladores lo admitan. Siri AI combina modelos en el dispositivo con Private Cloud Compute; Apple afirma que no almacena los datos enviados a PCC y que no puede verlos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
-                "cap": "Cómo impedir que Siri AI muestre datos de tus apps."
-              },
-              {
-                "t": "p",
-                "x": "Para bloquear una app, ve a Settings > Apps > [app] > Search y desactiva Show Content in Search; así Siri no extraerá información de ella aunque se le pida directamente. El reconocimiento de pantalla aún puede leer capturas, que podrían enviarse a PCC."
-              },
-              {
-                "t": "p",
-                "x": "Para que las grabaciones de Siri no se usen en el entrenamiento, desactiva Improve Siri & Dictation en Privacy & Security > Analytics & Improvements. También puedes volver a Siri Classic desde Screen Time > Content & Privacy Restrictions, o desactivar Siri por completo."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "verge-ai-bird-feeder",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 새 모이통과의\n짧은 로맨스",
-      "body": "Verge 기자가 써 본 AI 모이통에는 박새와 함께 비둘기와 쥐도 몰려들었다.",
-      "mini_headline": "AI 새 모이통과의 짧은 로맨스",
+      "headline": "로컬 AI 배우기,\n설레고도 답답하다",
+      "body": "Verge 기자가 Hermes Agent와 Qwen으로 로컬 AI의 명암을 겪었다.",
+      "mini_headline": "로컬 AI, 내 방식대로",
       "tool": "Gadgets",
       "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -863,203 +521,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-            "cap": "사랑스러운 박새들이 그립다."
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
           },
           {
             "t": "p",
-            "x": "$269짜리 Kiwibit Bird Feeder 2 Pro를 단 지 몇 주 만에 작고 알록달록한 새 수십 마리가 정원을 찾았다. 휴대폰으로 온 첫 AI-driven 알림은 “Looks like Great Tit!”(박새로 보입니다!)였다. 껍질을 벗긴 해바라기씨를 먹으러 박새 수백 마리가 찾아왔고, 나는 그 모습을 4K HDR 영상으로 지켜보면서 Kiwibit 앱에서 새에 대한 설명을 읽었다."
+            "x": "Antonio G. Di Benedetto는 개인 데이터를 클라우드 AI에 넘기기를 망설여 왔다. 하지만 강력한 모델을 로컬에서 돌릴 수 있다면 얘기가 다르다. 그는 M5 Ultra Mac Studio를 테스트하면서 로컬 LLMs를 만지기 시작했다."
+          },
+          {
+            "t": "p",
+            "x": "먼저 open-source Hermes Agent를 깔았다. macOS, Windows, Linux에서 쓰는 무료 self-hosted AI 에이전트 앱이다. 256GB 통합 메모리를 믿고 105GB 안팎의 125-billion 파라미터 모델 Qwen 3.8 Flash Next를 과감히 골랐고, Telegram 봇을 붙여 휴대폰으로도 조종했다. 그러자 숙적이 나타났다. 텍스트 상자였다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
           },
           {
             "t": "p",
-            "x": "그다음엔 “Looks like Common Wood Pigeon!”(산비둘기로 보입니다!)이 떴다. 비둘기는 렌즈를 가린 채 모이통의 Nuisance Animal Alarm도 아랑곳없이 내가 쫓아낼 때까지 15분을 먹어 댔다. 비둘기들은 아예 눌러앉아 30분 이상 머물렀고, 아래로는 떨어진 먹이를 노린 쥐들이 모여들었다. 나는 모이통을 떼어 벽장에 처박았다."
+            "x": "매일 아침 브리핑을 보내는 cron 작업은 7:30am에 macOS가 잠들어 있으면 안 된다는 걸 알아차리기 전까지 번번이 실패했다. 쓸모는 다른 데서 드러났다. Hermes는 임시 API 키로 400-plus 게임이 든 Steam 라이브러리를 몇 분 만에 장르별로 나눴다. 재무 number-crunching과 엠바고 걸린 노트북 사양표에도 Hermes를 썼다. 어느 클라우드 서비스에도 맡기지 않을 데이터다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
           },
           {
             "t": "p",
-            "x": "Kiwibit에 화가 나지는 않았다. 문제가 생기기 전까지는 쓰는 재미가 있는 모이통이었다. 스마트 새 모이통이 끌린다면 AI 없는 단순하고 저렴한 제품부터 써 보길 권한다. 해로운 동물이 꼬인다는 이유만으로 쓰던 모이통을 반품할 수는 없으니까."
+            "x": "vibe-coded Python으로 노트북 벤치마크를 자동화하는 일은 아직 진행 중이고 브리핑은 벌써 여러 번 고장 났다. 강력한 로컬 모델이라고 마법 같은 비서가 되진 않는다. 그에게 Hermes는 그저 도구다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A brief romance with\nan AI bird feeder",
-          "body": "A Verge writer's brief fling with an AI bird feeder showed it draws pigeons and mice along with the tits.",
-          "mini_headline": "AI bird feeder, brief romance",
+          "headline": "Learning local AI is\nexciting and frustrating",
+          "body": "A Verge writer running Hermes Agent with a Qwen model on an M5 Ultra Mac Studio finds local AI exciting yet frustrating.",
+          "mini_headline": "Local AI, on my terms",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-                "cap": "I miss my sweet tits."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Dozens of tiny, colorful birds came to my garden a few weeks after I mounted a $269 Kiwibit Bird Feeder 2 Pro. “Looks like Great Tit!” read the first AI-driven alert sent to my phone. Hundreds of tits came for the husked sunflower seeds, and I admired them in 4K HDR video and read about them in the Kiwibit app."
+                "x": "Antonio G. Di Benedetto has been hesitant to hand his personal data to cloud AI, but running powerful models locally changes the equation. As part of testing the M5 Ultra Mac Studio, he has started tinkering with local LLMs."
+              },
+              {
+                "t": "p",
+                "x": "He installed the open-source Hermes Agent, a free self-hosted AI agent app for macOS, Windows, and Linux. With 256GB of unified memory he went big, picking Qwen 3.8 Flash Next — a 125-billion parameter model around 105GB in size — and made it controllable from his phone via a Telegram bot. Then came his nemesis: the text box."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Then came “Looks like Common Wood Pigeon!” The pigeon blocked the lens and ignored the feeder's Nuisance Animal Alarm, eating for 15 minutes until I shooed it away. Pigeons moved in, perching for 30 minutes or more, and mice arrived below to feast on the spoils. I dismounted the feeder and shoved it into a closet."
+                "x": "A daily morning briefing cron job kept failing until he realized macOS couldn't be asleep at 7:30am. More useful: Hermes sorted his 400-plus game Steam library by genre in minutes using a temporary API key. He also used it for financial number-crunching and an embargoed laptop spec sheet — data he won't trust to any cloud service."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "I'm not mad at Kiwibit; the feeder was a joy to use until it wasn't. If you're tempted by a smart bird feeder, start with something simple, inexpensive, and without AI — you can't return a used feeder just because it attracts pests."
+                "x": "Automating laptop benchmarks with vibe-coded Python remains a work in progress, and his briefing has already broken multiple times. Even powerful local models aren't a magical assistant — he treats Hermes as just a tool."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 새 모이통과의\n짧은 로맨스",
-          "body": "Verge 기자가 써 본 AI 모이통에는 박새와 함께 비둘기와 쥐도 몰려들었다.",
-          "mini_headline": "AI 새 모이통과의 짧은 로맨스",
+          "headline": "로컬 AI 배우기,\n설레고도 답답하다",
+          "body": "Verge 기자가 Hermes Agent와 Qwen으로 로컬 AI의 명암을 겪었다.",
+          "mini_headline": "로컬 AI, 내 방식대로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-                "cap": "사랑스러운 박새들이 그립다."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "$269짜리 Kiwibit Bird Feeder 2 Pro를 단 지 몇 주 만에 작고 알록달록한 새 수십 마리가 정원을 찾았다. 휴대폰으로 온 첫 AI-driven 알림은 “Looks like Great Tit!”(박새로 보입니다!)였다. 껍질을 벗긴 해바라기씨를 먹으러 박새 수백 마리가 찾아왔고, 나는 그 모습을 4K HDR 영상으로 지켜보면서 Kiwibit 앱에서 새에 대한 설명을 읽었다."
+                "x": "Antonio G. Di Benedetto는 개인 데이터를 클라우드 AI에 넘기기를 망설여 왔다. 하지만 강력한 모델을 로컬에서 돌릴 수 있다면 얘기가 다르다. 그는 M5 Ultra Mac Studio를 테스트하면서 로컬 LLMs를 만지기 시작했다."
+              },
+              {
+                "t": "p",
+                "x": "먼저 open-source Hermes Agent를 깔았다. macOS, Windows, Linux에서 쓰는 무료 self-hosted AI 에이전트 앱이다. 256GB 통합 메모리를 믿고 105GB 안팎의 125-billion 파라미터 모델 Qwen 3.8 Flash Next를 과감히 골랐고, Telegram 봇을 붙여 휴대폰으로도 조종했다. 그러자 숙적이 나타났다. 텍스트 상자였다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "그다음엔 “Looks like Common Wood Pigeon!”(산비둘기로 보입니다!)이 떴다. 비둘기는 렌즈를 가린 채 모이통의 Nuisance Animal Alarm도 아랑곳없이 내가 쫓아낼 때까지 15분을 먹어 댔다. 비둘기들은 아예 눌러앉아 30분 이상 머물렀고, 아래로는 떨어진 먹이를 노린 쥐들이 모여들었다. 나는 모이통을 떼어 벽장에 처박았다."
+                "x": "매일 아침 브리핑을 보내는 cron 작업은 7:30am에 macOS가 잠들어 있으면 안 된다는 걸 알아차리기 전까지 번번이 실패했다. 쓸모는 다른 데서 드러났다. Hermes는 임시 API 키로 400-plus 게임이 든 Steam 라이브러리를 몇 분 만에 장르별로 나눴다. 재무 number-crunching과 엠바고 걸린 노트북 사양표에도 Hermes를 썼다. 어느 클라우드 서비스에도 맡기지 않을 데이터다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Kiwibit에 화가 나지는 않았다. 문제가 생기기 전까지는 쓰는 재미가 있는 모이통이었다. 스마트 새 모이통이 끌린다면 AI 없는 단순하고 저렴한 제품부터 써 보길 권한다. 해로운 동물이 꼬인다는 이유만으로 쓰던 모이통을 반품할 수는 없으니까."
+                "x": "vibe-coded Python으로 노트북 벤치마크를 자동화하는 일은 아직 진행 중이고 브리핑은 벌써 여러 번 고장 났다. 강력한 로컬 모델이라고 마법 같은 비서가 되진 않는다. 그에게 Hermes는 그저 도구다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI餌台との\n短いロマンス",
-          "body": "Vergeの記者がAI餌台を試すと、シジュウカラとともにハトやネズミまで集まった。",
-          "mini_headline": "AI餌台との短いロマンス",
+          "headline": "ローカルAIの習得は\n楽しくも悩ましい",
+          "body": "VergeのライターはHermes AgentとQwenでローカルAIの光と影を知った。",
+          "mini_headline": "ローカルAIを自分の流儀で",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-                "cap": "かわいいシジュウカラたちが恋しい。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "$269のKiwibit Bird Feeder 2 Proを取り付けて数週間後、小さく色とりどりの鳥が何十羽も庭にやって来た。スマホに届いた最初のAI-drivenアラートは「Looks like Great Tit!」だった。殻をむいたヒマワリの種を目当てに数百羽のシジュウカラが訪れ、私はその姿を4K HDR映像で眺め、Kiwibitアプリで解説を読んだ。"
+                "x": "Antonio G. Di Benedettoは個人データをクラウドAIに渡すことをためらってきたが、強力なモデルをローカルで動かせるなら話は変わる。M5 Ultra Mac Studioのテストの一環として、彼はローカルLLMsをいじり始めた。"
+              },
+              {
+                "t": "p",
+                "x": "彼はmacOS、Windows、Linuxに対応した無料のself-hostedなAIエージェントアプリ、open-sourceのHermes Agentを導入した。256GB の統合メモリがあるので大胆に、約105GB の125-billion パラメータモデルQwen 3.8 Flash Nextを選び、Telegramボット経由でスマートフォンから操作できるようにした。そこへ宿敵が現れた。テキストボックスである。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "次に届いたのは「Looks like Common Wood Pigeon!」だった。ハトはレンズをふさぎ、餌台のNuisance Animal Alarmも無視して、私が追い払うまで15分間食べ続けた。ハトは居着いて30分以上止まるようになり、下にはおこぼれを狙うネズミまで現れた。私は餌台を取り外し、クローゼットに押し込んだ。"
+                "x": "毎朝のブリーフィングを送るcronジョブは、7:30am の時点でmacOSがスリープしていてはいけないと気づくまで失敗し続けた。より役立ったのは別の用途だ。Hermesは一時的なAPIキーを使い、400-plusのゲームがあるSteamライブラリを数分でジャンル別に整理した。財務のnumber-crunchingや、エンバーゴ中のノートPCの仕様書にも使った。どのクラウドサービスにも預けたくないデータである。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Kiwibitに腹を立ててはいない。この餌台は、そうでなくなるまでは使うのが楽しかった。スマートな餌台に惹かれるなら、シンプルで安価な、AIなしのものから始めるといい。害獣を引き寄せるという理由だけでは、使用済みの餌台は返品できないからだ。"
+                "x": "vibe-codedなPythonでノートPCのベンチマークを自動化する試みはまだ途中で、ブリーフィングもすでに何度も壊れている。強力なローカルモデルでも魔法のアシスタントではない。彼はHermesをあくまで道具として扱っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "与AI喂鸟器的\n一段短暂恋情",
-          "body": "一位Verge作者短暂试用AI喂鸟器，发现它引来山雀的同时也招来鸽子和老鼠。",
-          "mini_headline": "AI喂鸟器的短暂恋情",
+          "headline": "学习本地AI\n既兴奋又沮丧",
+          "body": "Verge作者用Hermes Agent和Qwen模型体验本地AI，既兴奋又沮丧。",
+          "mini_headline": "本地AI，按我的方式",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-                "cap": "我想念那些可爱的山雀。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "我装上售价$269的Kiwibit Bird Feeder 2 Pro几周后，几十只娇小多彩的鸟来到了我的花园。手机收到的第一条AI-driven提醒写着“Looks like Great Tit!”。数百只山雀为去壳葵花籽而来，我用4K HDR视频欣赏它们，并在Kiwibit应用里阅读相关介绍。"
+                "x": "Antonio G. Di Benedetto一直不愿把个人数据交给云端AI，但在本地运行强大的模型改变了这一考量。作为测试M5 Ultra Mac Studio的一部分，他开始折腾本地LLMs。"
+              },
+              {
+                "t": "p",
+                "x": "他安装了open-source的Hermes Agent，这是一款适用于macOS、Windows和Linux的免费self-hosted AI代理应用。凭借256GB 统一内存，他放开手脚，选择了Qwen 3.8 Flash Next——一个约105GB 大小的125-billion 参数模型——并通过Telegram机器人实现了手机操控。接着，他的克星出现了：文本框。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "接着来了“Looks like Common Wood Pigeon!”。鸽子挡住镜头，无视喂鸟器的Nuisance Animal Alarm，一直吃了15分钟，直到我把它赶走。鸽子们就此安营扎寨，一待就是30分钟以上，下方还来了老鼠享用掉落的残食。我把喂鸟器拆下来，塞进了壁橱。"
+                "x": "每日早间简报的cron任务屡屡失败，直到他意识到macOS在7:30am 时不能处于睡眠状态。更有用的是：Hermes借助一个临时API密钥，几分钟内就按类型整理好了他那拥有400-plus款游戏的Steam库。他还用它处理财务number-crunching和一份禁发期内的笔记本电脑规格表——这些数据他不会托付给任何云服务。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "我并不怪Kiwibit；在出问题之前，这个喂鸟器用起来很愉快。如果你对智能喂鸟器心动，不妨从简单、便宜、不带AI的产品开始——用过的喂鸟器可不能只因招来害兽就退货。"
+                "x": "用vibe-coded的Python自动化笔记本电脑基准测试仍在推进中，他的简报也已经坏了好几次。即便是强大的本地模型也不是神奇助手——他只把Hermes当作一件工具。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un breve romance con\nun comedero de aves con AI",
-          "body": "La aventura de un redactor de Verge con un comedero con AI mostró que atrae palomas y ratones además de carboneros.",
-          "mini_headline": "Comedero con AI, breve romance",
+          "headline": "Aprender AI local: emocionante\ny frustrante",
+          "body": "Un periodista de The Verge prueba Hermes Agent y Qwen en un M5 Ultra Mac Studio: la AI local emociona y frustra.",
+          "mini_headline": "AI local, a mi manera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-                "cap": "Echo de menos a mis queridos carboneros."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Docenas de pajaritos de colores llegaron a mi jardín unas semanas después de instalar un Kiwibit Bird Feeder 2 Pro de $269. “Looks like Great Tit!”, decía la primera alerta AI-driven que llegó a mi teléfono. Cientos de carboneros acudieron por las semillas de girasol peladas, y yo los admiraba en video 4K HDR y leía sobre ellos en la app de Kiwibit."
+                "x": "Antonio G. Di Benedetto ha dudado en entregar sus datos personales a la AI en la nube, pero ejecutar modelos potentes en local cambia la ecuación. Como parte de sus pruebas del M5 Ultra Mac Studio, ha empezado a experimentar con LLMs locales."
+              },
+              {
+                "t": "p",
+                "x": "Instaló Hermes Agent, una aplicación open-source, gratuita y self-hosted de agentes de AI para macOS, Windows y Linux. Con 256GB de memoria unificada apostó en grande y eligió Qwen 3.8 Flash Next —un modelo de 125-billion parámetros y unos 105GB— y lo hizo controlable desde su teléfono mediante un bot de Telegram. Entonces llegó su némesis: el cuadro de texto."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Luego llegó “Looks like Common Wood Pigeon!”. La paloma tapó la lente e ignoró la Nuisance Animal Alarm del comedero, y comió durante 15 minutos hasta que la espanté. Las palomas se instalaron, posándose 30 minutos o más, y abajo aparecieron ratones para darse un festín con los restos. Desmonté el comedero y lo metí en un armario."
+                "x": "Una tarea cron de resumen matutino diario fallaba una y otra vez hasta que se dio cuenta de que macOS no podía estar en reposo a las 7:30am. Más útil: Hermes ordenó por género su biblioteca de Steam de 400-plus juegos en minutos con una clave de API temporal. También lo usó para number-crunching financiero y para la ficha técnica de un portátil bajo embargo, datos que no confiaría a ningún servicio en la nube."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "No estoy molesto con Kiwibit; el comedero fue un placer de usar hasta que dejó de serlo. Si te tienta un comedero inteligente, empieza por algo sencillo, barato y sin AI: no se puede devolver un comedero usado solo porque atrae plagas."
+                "x": "Automatizar las pruebas de rendimiento de portátiles con Python vibe-coded sigue siendo un trabajo en curso, y su resumen ya se ha roto varias veces. Ni siquiera los modelos locales potentes son un asistente mágico: él trata a Hermes como una simple herramienta."
               }
             ]
           }
@@ -1067,141 +743,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 새 모이통과의\n짧은 로맨스",
-          "body": "Verge 기자가 써 본 AI 모이통에는 박새와 함께 비둘기와 쥐도 몰려들었다.",
-          "mini_headline": "AI 새 모이통과의 짧은 로맨스",
+          "headline": "로컬 AI 배우기,\n설레고도 답답하다",
+          "body": "Verge 기자가 Hermes Agent와 Qwen으로 로컬 AI의 명암을 겪었다.",
+          "mini_headline": "로컬 AI, 내 방식대로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-                "cap": "사랑스러운 박새들이 그립다."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "$269짜리 Kiwibit Bird Feeder 2 Pro를 단 지 몇 주 만에 작고 알록달록한 새 수십 마리가 정원을 찾았다. 휴대폰으로 온 첫 AI-driven 알림은 “Looks like Great Tit!”(박새로 보입니다!)였다. 껍질을 벗긴 해바라기씨를 먹으러 박새 수백 마리가 찾아왔고, 나는 4K HDR 영상으로 그 모습을 감상하며 Kiwibit 앱에서 새에 관한 정보를 읽었다."
+                "x": "Antonio G. Di Benedetto는 개인 데이터를 클라우드 AI에 넘기기를 망설여 왔지만, 강력한 모델을 로컬에서 돌릴 수 있다면 이야기가 달라진다. 그는 M5 Ultra Mac Studio 테스트의 일환으로 로컬 LLMs를 만지기 시작했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 macOS, Windows, Linux에서 쓸 수 있는 무료 self-hosted AI 에이전트 앱인 open-source Hermes Agent를 설치했다. 256GB 통합 메모리가 있으니 과감하게 105GB 안팎의 125-billion 파라미터 모델 Qwen 3.8 Flash Next를 골랐고, Telegram 봇으로 휴대폰에서 조종할 수 있게 했다. 그다음 숙적이 나타났다. 바로 텍스트 상자다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "그다음엔 “Looks like Common Wood Pigeon!”(산비둘기로 보입니다!)이 떴다. 비둘기는 렌즈를 가리고 모이통의 Nuisance Animal Alarm도 무시한 채 내가 쫓아낼 때까지 15분 동안 먹었다. 비둘기들은 아예 눌러앉아 30분 이상 머물렀고, 아래에는 쥐들이 떨어진 먹이를 먹으러 왔다. 나는 모이통을 떼어 벽장에 처박았다."
+                "x": "매일 아침 브리핑을 보내는 cron 작업은 7:30am 시점에 macOS가 잠자기 상태여서는 안 된다는 사실을 깨닫기 전까지 계속 실패했다. 더 유용했던 건 따로 있다. Hermes는 임시 API 키를 써서 400-plus 게임이 담긴 Steam 라이브러리를 몇 분 만에 장르별로 분류했다. 그는 재무 관련 number-crunching과 엠바고가 걸린 노트북 사양표에도 Hermes를 썼다. 어떤 클라우드 서비스에도 맡기지 않을 데이터다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Kiwibit에 화가 나지는 않았다. 이 모이통은 문제가 생기기 전까지는 쓰는 즐거움이 있었다. 스마트 새 모이통에 끌린다면 단순하고 저렴하며 AI가 없는 제품부터 시작하길 권한다. 해로운 동물이 꼬인다는 이유만으로 사용한 모이통을 반품할 수는 없기 때문이다."
+                "x": "vibe-coded Python으로 노트북 벤치마크를 자동화하는 작업은 아직 진행 중이고, 브리핑은 벌써 여러 번 고장 났다. 강력한 로컬 모델도 마법 같은 비서는 아니다. 그는 Hermes를 그저 도구로 대한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI餌台との\n短いロマンス",
-          "body": "Vergeの記者がAI餌台を試すと、シジュウカラとともにハトやネズミまで集まった。",
-          "mini_headline": "AI餌台との短いロマンス",
+          "headline": "ローカルAIの習得は\n楽しくも悩ましい",
+          "body": "VergeのライターはHermes AgentとQwenでローカルAIの光と影を知った。",
+          "mini_headline": "ローカルAIを自分の流儀で",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-                "cap": "かわいいシジュウカラたちが恋しい。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "$269のKiwibit Bird Feeder 2 Proを取り付けて数週間後、小さく色とりどりの鳥が何十羽も庭にやって来た。スマホに届いた最初のAI-drivenアラートは「Looks like Great Tit!」だった。殻をむいたヒマワリの種を目当てに数百羽のシジュウカラが訪れ、私はその姿を4K HDR映像で眺め、Kiwibitアプリで解説を読んだ。"
+                "x": "Antonio G. Di Benedettoは個人データをクラウドAIに渡すことをためらってきたが、強力なモデルをローカルで動かせるなら話は変わる。M5 Ultra Mac Studioのテストの一環として、彼はローカルLLMsをいじり始めた。"
+              },
+              {
+                "t": "p",
+                "x": "彼はmacOS、Windows、Linuxに対応した無料のself-hostedなAIエージェントアプリ、open-sourceのHermes Agentを導入した。256GB の統合メモリがあるので大胆に、約105GB の125-billion パラメータモデルQwen 3.8 Flash Nextを選び、Telegramボット経由でスマートフォンから操作できるようにした。そこへ宿敵が現れた。テキストボックスである。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "次に届いたのは「Looks like Common Wood Pigeon!」だった。ハトはレンズをふさぎ、餌台のNuisance Animal Alarmも無視して、私が追い払うまで15分間食べ続けた。ハトは居着いて30分以上止まるようになり、下にはおこぼれを狙うネズミまで現れた。私は餌台を取り外し、クローゼットに押し込んだ。"
+                "x": "毎朝のブリーフィングを送るcronジョブは、7:30am の時点でmacOSがスリープしていてはいけないと気づくまで失敗し続けた。より役立ったのは別の用途だ。Hermesは一時的なAPIキーを使い、400-plusのゲームがあるSteamライブラリを数分でジャンル別に整理した。財務のnumber-crunchingや、エンバーゴ中のノートPCの仕様書にも使った。どのクラウドサービスにも預けたくないデータである。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Kiwibitに腹を立ててはいない。この餌台は、そうでなくなるまでは使うのが楽しかった。スマートな餌台に惹かれるなら、シンプルで安価な、AIなしのものから始めるといい。害獣を引き寄せるという理由だけでは、使用済みの餌台は返品できないからだ。"
+                "x": "vibe-codedなPythonでノートPCのベンチマークを自動化する試みはまだ途中で、ブリーフィングもすでに何度も壊れている。強力なローカルモデルでも魔法のアシスタントではない。彼はHermesをあくまで道具として扱っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "与AI喂鸟器的\n一段短暂恋情",
-          "body": "一位Verge作者短暂试用AI喂鸟器，发现它引来山雀的同时也招来鸽子和老鼠。",
-          "mini_headline": "AI喂鸟器的短暂恋情",
+          "headline": "学习本地AI\n既兴奋又沮丧",
+          "body": "Verge作者用Hermes Agent和Qwen模型体验本地AI，既兴奋又沮丧。",
+          "mini_headline": "本地AI，按我的方式",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-                "cap": "我想念那些可爱的山雀。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "我装上售价$269的Kiwibit Bird Feeder 2 Pro几周后，几十只娇小多彩的鸟来到了我的花园。手机收到的第一条AI-driven提醒写着“Looks like Great Tit!”。数百只山雀为去壳葵花籽而来，我用4K HDR视频欣赏它们，并在Kiwibit应用里阅读相关介绍。"
+                "x": "Antonio G. Di Benedetto一直不愿把个人数据交给云端AI，但在本地运行强大的模型改变了这一考量。作为测试M5 Ultra Mac Studio的一部分，他开始折腾本地LLMs。"
+              },
+              {
+                "t": "p",
+                "x": "他安装了open-source的Hermes Agent，这是一款适用于macOS、Windows和Linux的免费self-hosted AI代理应用。凭借256GB 统一内存，他放开手脚，选择了Qwen 3.8 Flash Next——一个约105GB 大小的125-billion 参数模型——并通过Telegram机器人实现了手机操控。接着，他的克星出现了：文本框。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "接着来了“Looks like Common Wood Pigeon!”。鸽子挡住镜头，无视喂鸟器的Nuisance Animal Alarm，一直吃了15分钟，直到我把它赶走。鸽子们就此安营扎寨，一待就是30分钟以上，下方还来了老鼠享用掉落的残食。我把喂鸟器拆下来，塞进了壁橱。"
+                "x": "每日早间简报的cron任务屡屡失败，直到他意识到macOS在7:30am 时不能处于睡眠状态。更有用的是：Hermes借助一个临时API密钥，几分钟内就按类型整理好了他那拥有400-plus款游戏的Steam库。他还用它处理财务number-crunching和一份禁发期内的笔记本电脑规格表——这些数据他不会托付给任何云服务。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "我并不怪Kiwibit；在出问题之前，这个喂鸟器用起来很愉快。如果你对智能喂鸟器心动，不妨从简单、便宜、不带AI的产品开始——用过的喂鸟器可不能只因招来害兽就退货。"
+                "x": "用vibe-coded的Python自动化笔记本电脑基准测试仍在推进中，他的简报也已经坏了好几次。即便是强大的本地模型也不是神奇助手——他只把Hermes当作一件工具。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un breve romance con\nun comedero de aves con AI",
-          "body": "La aventura de un redactor de Verge con un comedero con AI mostró que atrae palomas y ratones además de carboneros.",
-          "mini_headline": "Comedero con AI, breve romance",
+          "headline": "Aprender AI local: emocionante\ny frustrante",
+          "body": "Un periodista de The Verge prueba Hermes Agent y Qwen en un M5 Ultra Mac Studio: la AI local emociona y frustra.",
+          "mini_headline": "AI local, a mi manera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
-                "cap": "Echo de menos a mis queridos carboneros."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Docenas de pajaritos de colores llegaron a mi jardín unas semanas después de instalar un Kiwibit Bird Feeder 2 Pro de $269. “Looks like Great Tit!”, decía la primera alerta AI-driven que llegó a mi teléfono. Cientos de carboneros acudieron por las semillas de girasol peladas, y yo los admiraba en video 4K HDR y leía sobre ellos en la app de Kiwibit."
+                "x": "Antonio G. Di Benedetto ha dudado en entregar sus datos personales a la AI en la nube, pero ejecutar modelos potentes en local cambia la ecuación. Como parte de sus pruebas del M5 Ultra Mac Studio, ha empezado a experimentar con LLMs locales."
+              },
+              {
+                "t": "p",
+                "x": "Instaló Hermes Agent, una aplicación open-source, gratuita y self-hosted de agentes de AI para macOS, Windows y Linux. Con 256GB de memoria unificada apostó en grande y eligió Qwen 3.8 Flash Next —un modelo de 125-billion parámetros y unos 105GB— y lo hizo controlable desde su teléfono mediante un bot de Telegram. Entonces llegó su némesis: el cuadro de texto."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Luego llegó “Looks like Common Wood Pigeon!”. La paloma tapó la lente e ignoró la Nuisance Animal Alarm del comedero, y comió durante 15 minutos hasta que la espanté. Las palomas se instalaron, posándose 30 minutos o más, y abajo aparecieron ratones para darse un festín con los restos. Desmonté el comedero y lo metí en un armario."
+                "x": "Una tarea cron de resumen matutino diario fallaba una y otra vez hasta que se dio cuenta de que macOS no podía estar en reposo a las 7:30am. Más útil: Hermes ordenó por género su biblioteca de Steam de 400-plus juegos en minutos con una clave de API temporal. También lo usó para number-crunching financiero y para la ficha técnica de un portátil bajo embargo, datos que no confiaría a ningún servicio en la nube."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "No estoy molesto con Kiwibit; el comedero fue un placer de usar hasta que dejó de serlo. Si te tienta un comedero inteligente, empieza por algo sencillo, barato y sin AI: no se puede devolver un comedero usado solo porque atrae plagas."
+                "x": "Automatizar las pruebas de rendimiento de portátiles con Python vibe-coded sigue siendo un trabajo en curso, y su resumen ya se ha roto varias veces. Ni siquiera los modelos locales potentes son un asistente mágico: él trata a Hermes como una simple herramienta."
               }
             ]
           }
@@ -1209,15 +897,15 @@
       }
     },
     {
-      "id": "msi-pro-max-edge-ai",
+      "id": "ibuypower-ai-halo-minipc",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "로컬 AI를 위한\nMSI 미니 PC",
-      "body": "MSI Pro Max Edge AI+는 50-TOPS NPU 탑재 미니 PC다.",
-      "mini_headline": "로컬 AI용 MSI 미니 PC",
+      "headline": "iBuyPower의 AI\n128GB mini-PC",
+      "body": "Ryzen AI Max+ Pro 495에 128 GB RAM을 더한 미니 PC다.",
+      "mini_headline": "iBuyPower의 128GB AI mini-PC",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1225,209 +913,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+            "cap": "iBuyPower Pro AMD AI Halo Mini PC는 마감이 한 가지뿐이다."
           },
           {
             "t": "p",
-            "x": "MSI Pro Max Edge AI+는 내가 테스트한 미니 워크스테이션 가운데 가장 강력한 축에 든다. 내부에는 Radeon 8060S 그래픽을 갖춘 AMD Ryzen AI Max+ 395, 최대 50 TOPS를 내는 AMD XDNA NPU, 128GB 통합 메모리가 들어 있어 LLMs를 완전히 오프라인에서 빠르게 돌리고도 남는다."
+            "x": "iBuyPower가 128 GB RAM을 넣은 high-end mini-PC를 내놨다. 이름은 iBuyPower Pro AMD AI Halo Mini PC로, AMD의 Ryzen AI Max+ Pro 495 프로세서를 얹었고 200 x 198 x 70 mm 본체에 USB4 두 개, 10 GbE Ethernet 두 개, M.2 슬롯 세 개를 담았다."
+          },
+          {
+            "t": "p",
+            "x": "이로써 iBuyPower도 AMD의 새 Gorgon Halo 플랫폼을 쓰는 mini-PC 제조사 대열에 섰다. Ryzen AI Max+ Pro 495는 이미 EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro, YO2 495에 들어갔지만 지금 중국 밖에서 살 수 있는 제품은 EVO-X5 Pro와 F9A Pro 495뿐이다."
+          },
+          {
+            "t": "p",
+            "x": "iBuyPower 제품도 전 세계에 나오지만 RAM은 최대 128 GB 로, GMKtec과 AceMagic 경쟁 제품의 192 GB 에 못 미친다. 그래서 이전 Strix Halo mini-PCs처럼 VRAM에는 최대 96 GB 의 RAM을 할당한다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-            "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
           },
           {
             "t": "p",
-            "x": "Lemonade에서 관리하는 모델로 2,600장이 넘는 이미지를 분류하고, 이미지를 생성하고, 열 페이지짜리 웹사이트도 만들었다. 웹사이트는 프롬프트를 꽤 많이 넣어야 했다. Photoshop, Lightroom, 4K Premiere Pro 편집도 무리 없이 해냈다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-            "cap": "MSI PRO MAX Edge AI+"
-          },
-          {
-            "t": "p",
-            "x": "단점도 있다. 나온 지 한 해가 넘은 CPU, 느린 2.5GbE 네트워킹, 업그레이드할 수 없는 RAM, 그리고 $5,499 (US), €5,299, £5,999라는 비싼 가격이다. 로컬 AI를 제대로 쓰려면 설정하고 실험하는 데도 품이 꽤 든다. 그래도 사생활을 지키는 완전한 오프라인 AI를 원한다면 이 작은 기계에 담긴 성능은 엄청나다."
+            "x": "USB 포트는 여섯 개이고 그중 두 개가 40 Gbps USB4다. HDMI 2.1(48 Gbps)과 DisplayPort 1.4(HBR3, 32.4 Gbps)도 있다. iBuyPower는 출시 시점을 'Q4 2026'이라고만 했고 가격은 $3,999부터다. 이 가격에 128 GB RAM이 들어가는지는 밝히지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MSI's Pro Max Edge AI+ mini PC\nis built for local AI",
-          "body": "MSI's Pro Max Edge AI+ is a mini PC built for local AI, pairing AMD's Ryzen AI Max+ 395 with a 50-TOPS NPU.",
-          "mini_headline": "MSI's mini PC built for local AI",
+          "headline": "iBuyPower packs 128GB into\nan AI Halo mini-PC",
+          "body": "iBuyPower's Pro AMD AI Halo Mini PC pairs a Ryzen AI Max+ Pro 495 with 128 GB of RAM and dual 10 GbE.",
+          "mini_headline": "iBuyPower's 128GB AI mini-PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+                "cap": "The iBuyPower Pro AMD AI Halo Mini PC comes in a single finish."
               },
               {
                 "t": "p",
-                "x": "The MSI Pro Max Edge AI+ is one of the most powerful mini workstations I've tested. Inside is AMD's Ryzen AI Max+ 395 with Radeon 8060S graphics, an AMD XDNA NPU offering up to 50 TOPS, and 128GB of unified memory — enough to run LLMs fully offline and at speed."
+                "x": "iBuyPower has launched a high-end mini-PC featuring 128 GB of RAM. Also equipped with AMD's Ryzen AI Max+ Pro 495 processor, the iBuyPower Pro AMD AI Halo Mini PC packs dual USB4, dual 10 GbE Ethernet and three M.2 slots into a housing that measures 200 x 198 x 70 mm."
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower joins the mini-PC makers adopting AMD's new Gorgon Halo platform; the Ryzen AI Max+ Pro 495 already powers the EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro and YO2 495, though only the EVO-X5 Pro and F9A Pro 495 are available outside China for now."
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower's machine will also be released globally, but it peaks at 128 GB of RAM rather than the 192 GB of GMKtec's and AceMagic's alternatives. As a result, it matches older Strix Halo mini-PCs in assigning up to 96 GB of RAM as VRAM."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
               },
               {
                 "t": "p",
-                "x": "Using models managed in Lemonade, it sorted more than 2,600 images, generated images, and built a ten-page website, though that took quite a bit of prompting. Photoshop, Lightroom and 4K Premiere Pro edits were handled equally well."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-                "cap": "MSI PRO MAX Edge AI+"
-              },
-              {
-                "t": "p",
-                "x": "Drawbacks: a CPU that is over a year old, slow 2.5GbE networking, RAM that can't be upgraded, and a steep price — $5,499 (US), €5,299, £5,999. Getting the most from local AI also takes plenty of setup and experimentation. But for private, completely offline AI, there's an enormous amount of power in this compact machine."
+                "x": "Six USB ports are included, two of them USB4 at 40 Gbps, alongside HDMI 2.1 (48 Gbps) and DisplayPort 1.4 (HBR3, 32.4 Gbps). iBuyPower has only committed to a 'Q4 2026' release window, with pricing from $3,999; it has not clarified whether that price includes 128 GB of RAM."
               }
             ]
           }
         },
         "ko": {
-          "headline": "로컬 AI를 위한\nMSI 미니 PC",
-          "body": "MSI Pro Max Edge AI+는 50-TOPS NPU 탑재 미니 PC다.",
-          "mini_headline": "로컬 AI용 MSI 미니 PC",
+          "headline": "iBuyPower의 AI\n128GB mini-PC",
+          "body": "Ryzen AI Max+ Pro 495에 128 GB RAM을 더한 미니 PC다.",
+          "mini_headline": "iBuyPower의 128GB AI mini-PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+                "cap": "iBuyPower Pro AMD AI Halo Mini PC는 마감이 한 가지뿐이다."
               },
               {
                 "t": "p",
-                "x": "MSI Pro Max Edge AI+는 내가 테스트한 미니 워크스테이션 가운데 가장 강력한 축에 든다. 내부에는 Radeon 8060S 그래픽을 갖춘 AMD Ryzen AI Max+ 395, 최대 50 TOPS를 내는 AMD XDNA NPU, 128GB 통합 메모리가 들어 있어 LLMs를 완전히 오프라인에서 빠르게 돌리고도 남는다."
+                "x": "iBuyPower가 128 GB RAM을 넣은 high-end mini-PC를 내놨다. 이름은 iBuyPower Pro AMD AI Halo Mini PC로, AMD의 Ryzen AI Max+ Pro 495 프로세서를 얹었고 200 x 198 x 70 mm 본체에 USB4 두 개, 10 GbE Ethernet 두 개, M.2 슬롯 세 개를 담았다."
+              },
+              {
+                "t": "p",
+                "x": "이로써 iBuyPower도 AMD의 새 Gorgon Halo 플랫폼을 쓰는 mini-PC 제조사 대열에 섰다. Ryzen AI Max+ Pro 495는 이미 EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro, YO2 495에 들어갔지만 지금 중국 밖에서 살 수 있는 제품은 EVO-X5 Pro와 F9A Pro 495뿐이다."
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower 제품도 전 세계에 나오지만 RAM은 최대 128 GB 로, GMKtec과 AceMagic 경쟁 제품의 192 GB 에 못 미친다. 그래서 이전 Strix Halo mini-PCs처럼 VRAM에는 최대 96 GB 의 RAM을 할당한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
               },
               {
                 "t": "p",
-                "x": "Lemonade에서 관리하는 모델로 2,600장이 넘는 이미지를 분류하고, 이미지를 생성하고, 열 페이지짜리 웹사이트도 만들었다. 웹사이트는 프롬프트를 꽤 많이 넣어야 했다. Photoshop, Lightroom, 4K Premiere Pro 편집도 무리 없이 해냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-                "cap": "MSI PRO MAX Edge AI+"
-              },
-              {
-                "t": "p",
-                "x": "단점도 있다. 나온 지 한 해가 넘은 CPU, 느린 2.5GbE 네트워킹, 업그레이드할 수 없는 RAM, 그리고 $5,499 (US), €5,299, £5,999라는 비싼 가격이다. 로컬 AI를 제대로 쓰려면 설정하고 실험하는 데도 품이 꽤 든다. 그래도 사생활을 지키는 완전한 오프라인 AI를 원한다면 이 작은 기계에 담긴 성능은 엄청나다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MSI迷你PC\n专为本地AI打造",
-          "body": "MSI Pro Max Edge AI+是搭载50-TOPS NPU的本地AI迷你PC。",
-          "mini_headline": "MSI为本地AI打造的迷你PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MSI Pro Max Edge AI+是我测试过的最强大的迷你工作站之一。机内搭载配备Radeon 8060S显卡的AMD Ryzen AI Max+ 395、算力最高50 TOPS的AMD XDNA NPU，以及128GB统一内存，足以完全离线并高速运行LLMs。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
-              },
-              {
-                "t": "p",
-                "x": "借助在Lemonade中管理的模型，它整理了2,600多张图片、生成了图片，还搭建了一个十页的网站，不过这需要相当多的提示。Photoshop、Lightroom以及4K Premiere Pro剪辑也同样处理得很好。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-                "cap": "MSI PRO MAX Edge AI+"
-              },
-              {
-                "t": "p",
-                "x": "缺点包括：CPU已推出一年多、2.5GbE网络较慢、RAM无法升级，以及高昂的价格——$5,499 (US)、€5,299、£5,999。想充分发挥本地AI的能力，还需要大量设置和尝试。但若追求私密、完全离线的AI，这台小巧的机器蕴藏着巨大的性能。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El Pro Max Edge AI+ de MSI,\nun mini PC para AI local",
-          "body": "El Pro Max Edge AI+ de MSI es un mini PC para AI local que combina el Ryzen AI Max+ 395 de AMD con una NPU 50-TOPS.",
-          "mini_headline": "El mini PC de MSI para AI local",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El MSI Pro Max Edge AI+ es una de las miniestaciones de trabajo más potentes que he probado. En su interior hay un AMD Ryzen AI Max+ 395 con gráficos Radeon 8060S, una AMD XDNA NPU de hasta 50 TOPS y 128GB de memoria unificada, suficiente para ejecutar LLMs totalmente sin conexión y con rapidez."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
-              },
-              {
-                "t": "p",
-                "x": "Con modelos gestionados en Lemonade, clasificó más de 2,600 imágenes, generó imágenes y creó un sitio web de diez páginas, aunque esto último requirió bastantes instrucciones. Las ediciones en Photoshop, Lightroom y Premiere Pro en 4K se resolvieron igual de bien."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-                "cap": "MSI PRO MAX Edge AI+"
-              },
-              {
-                "t": "p",
-                "x": "Inconvenientes: una CPU con más de un año, una red 2.5GbE lenta, RAM que no se puede ampliar y un precio elevado: $5,499 (US), €5,299, £5,999. Sacar el máximo partido a la AI local también exige mucha configuración y experimentación. Pero para una AI privada y completamente sin conexión, esta máquina compacta ofrece una enorme cantidad de potencia."
+                "x": "USB 포트는 여섯 개이고 그중 두 개가 40 Gbps USB4다. HDMI 2.1(48 Gbps)과 DisplayPort 1.4(HBR3, 32.4 Gbps)도 있다. iBuyPower는 출시 시점을 'Q4 2026'이라고만 했고 가격은 $3,999부터다. 이 가격에 128 GB RAM이 들어가는지는 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MSIのミニPCは\nローカルAI向けだ",
-          "body": "Pro Max Edge AI+は50 TOPS NPU搭載のローカルAI向けミニPCだ。",
-          "mini_headline": "ローカルAI向けのMSI製ミニPC",
+          "headline": "iBuyPowerのAI\n128GB mini-PC",
+          "body": "Ryzen AI Max+ Pro 495と128 GB のRAMを積むミニPCだ。",
+          "mini_headline": "iBuyPowerの128GB AI mini-PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+                "cap": "iBuyPower Pro AMD AI Halo Mini PCは単一の仕上げで展開される。"
               },
               {
                 "t": "p",
-                "x": "MSI Pro Max Edge AI+は、筆者がテストした中で最も強力なミニワークステーションの一つだ。内部にはRadeon 8060S グラフィックスを備えたAMDのRyzen AI Max+ 395、最大50 TOPSのAMD XDNA NPU、そして128GB のユニファイドメモリを搭載し、LLMs（大規模言語モデル）を完全オフラインで高速に動かせる。"
+                "x": "iBuyPowerが128 GB のRAMを備えたhigh-endなmini-PCを発売した。AMDのRyzen AI Max+ Pro 495プロセッサーも搭載するiBuyPower Pro AMD AI Halo Mini PCは、200 x 198 x 70 mm の筐体に、デュアルUSB4、デュアル10 GbE Ethernet、三つのM.2スロットを詰め込んでいる。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPowerは、AMDの新しいGorgon Haloプラットフォームを採用するmini-PCメーカーの仲間入りをした。Ryzen AI Max+ Pro 495はすでにEVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro、YO2 495に搭載されているが、現時点で中国国外で入手できるのはEVO-X5 ProとF9A Pro 495だけだ。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPowerのマシンもグローバルで発売されるが、RAMの上限は128 GB で、GMKtecやAceMagicの競合機の192 GB には届かない。その結果、旧世代のStrix Halo mini-PCsと同じく、最大96 GB のRAMをVRAMとして割り当てる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-                "cap": "MSI PRO MAX Edge AI+（画像提供: Alastair Jennings）"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
               },
               {
                 "t": "p",
-                "x": "Lemonadeで管理するモデルを使い、2,600 枚を超える画像の仕分けや画像生成、十ページのウェブサイト構築までこなした。ただし、それにはかなりのプロンプト調整を要した。Photoshop、Lightroom、4K の Premiere Pro 編集も同じく快適に処理できた。"
+                "x": "USBポートは六つで、そのうち二つは40 Gbps のUSB4だ。ほかにHDMI 2.1 (48 Gbps)とDisplayPort 1.4 (HBR3, 32.4 Gbps)を備える。iBuyPowerが明言しているのは'Q4 2026'という発売時期のみで、価格は$3,999からだが、この価格に128 GB のRAMが含まれるかは明らかにしていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "iBuyPower的AI\n128GB mini-PC",
+          "body": "iBuyPower新品搭载Ryzen AI Max+ Pro 495与128 GB RAM。",
+          "mini_headline": "iBuyPower的128GB AI mini-PC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+                "cap": "iBuyPower Pro AMD AI Halo Mini PC仅提供单一外观。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower推出了一款配备128 GB RAM的high-end mini-PC。iBuyPower Pro AMD AI Halo Mini PC还搭载AMD的Ryzen AI Max+ Pro 495处理器，在尺寸为200 x 198 x 70 mm 的机身中塞进了双USB4、双10 GbE Ethernet和三个M.2插槽。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower加入了采用AMD全新Gorgon Halo平台的mini-PC厂商行列；Ryzen AI Max+ Pro 495已用于EVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro和YO2 495，不过目前只有EVO-X5 Pro和F9A Pro 495在中国以外有售。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower这款机器也将在全球发售，但RAM最高只有128 GB ，而非GMKtec和AceMagic同类产品的192 GB 。因此，它与较早的Strix Halo mini-PCs一样，最多可将96 GB RAM分配为VRAM。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-                "cap": "MSI PRO MAX Edge AI+"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
               },
               {
                 "t": "p",
-                "x": "欠点は、発売から一年以上経つCPU、低速な2.5GbE ネットワーク、増設できないRAM、そして高い価格だ — $5,499 (US)、€5,299、£5,999。ローカルAIを最大限に活かすには、多くのセットアップと試行錯誤も必要になる。それでも、プライベートで完全オフラインのAIを求めるなら、このコンパクトなマシンには膨大なパワーが詰まっている。"
+                "x": "机身配有六个USB端口，其中两个是40 Gbps 的USB4，另有HDMI 2.1 (48 Gbps)和DisplayPort 1.4 (HBR3, 32.4 Gbps)。iBuyPower只承诺'Q4 2026'的发布窗口，起价$3,999；但尚未说明该价格是否包含128 GB RAM。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "iBuyPower integra 128GB en un\nmini-PC AI Halo",
+          "body": "El Pro AMD AI Halo Mini PC de iBuyPower combina un Ryzen AI Max+ Pro 495 con 128 GB de RAM y doble 10 GbE.",
+          "mini_headline": "El mini-PC AI de 128GB de iBuyPower",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+                "cap": "El iBuyPower Pro AMD AI Halo Mini PC se ofrece en un único acabado."
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower ha lanzado un mini-PC high-end con 128 GB de RAM. Equipado además con el procesador Ryzen AI Max+ Pro 495 de AMD, el iBuyPower Pro AMD AI Halo Mini PC reúne doble USB4, doble 10 GbE Ethernet y tres ranuras M.2 en una carcasa de 200 x 198 x 70 mm."
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower se suma a los fabricantes de mini-PC que adoptan la nueva plataforma Gorgon Halo de AMD; el Ryzen AI Max+ Pro 495 ya impulsa los EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro y YO2 495, aunque por ahora solo el EVO-X5 Pro y el F9A Pro 495 se venden fuera de China."
+              },
+              {
+                "t": "p",
+                "x": "El equipo de iBuyPower también se lanzará a nivel mundial, pero llega como máximo a 128 GB de RAM, frente a los 192 GB de las alternativas de GMKtec y AceMagic. Por ello, al igual que los mini-PCs Strix Halo anteriores, puede asignar hasta 96 GB de RAM como VRAM."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Incluye seis puertos USB, dos de ellos USB4 a 40 Gbps, además de HDMI 2.1 (48 Gbps) y DisplayPort 1.4 (HBR3, 32.4 Gbps). iBuyPower solo se ha comprometido a un lanzamiento en el 'Q4 2026', con precios desde $3,999; no ha aclarado si ese precio incluye 128 GB de RAM."
               }
             ]
           }
@@ -1435,145 +1117,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "로컬 AI를 위한\nMSI 미니 PC",
-          "body": "MSI Pro Max Edge AI+는 50-TOPS NPU 탑재 미니 PC다.",
-          "mini_headline": "로컬 AI용 MSI 미니 PC",
+          "headline": "iBuyPower의 AI\n128GB mini-PC",
+          "body": "Ryzen AI Max+ Pro 495에 128 GB RAM을 더한 미니 PC다.",
+          "mini_headline": "iBuyPower의 128GB AI mini-PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+                "cap": "iBuyPower Pro AMD AI Halo Mini PC는 단일 마감으로 나온다."
               },
               {
                 "t": "p",
-                "x": "MSI Pro Max Edge AI+는 내가 테스트한 미니 워크스테이션 가운데 가장 강력한 축에 든다. 내부에는 Radeon 8060S 그래픽을 갖춘 AMD Ryzen AI Max+ 395, 최대 50 TOPS를 내는 AMD XDNA NPU, 128GB 통합 메모리가 들어 있어 LLMs를 완전히 오프라인으로, 빠르게 돌리기에 충분하다."
+                "x": "iBuyPower가 128 GB RAM을 갖춘 high-end mini-PC를 출시했다. AMD의 Ryzen AI Max+ Pro 495 프로세서도 탑재한 iBuyPower Pro AMD AI Halo Mini PC는 200 x 198 x 70 mm 크기의 본체에 USB4 두 개, 10 GbE Ethernet 두 개, M.2 슬롯 세 개를 담았다."
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower는 AMD의 새 Gorgon Halo 플랫폼을 채택한 mini-PC 제조사 대열에 합류했다. Ryzen AI Max+ Pro 495는 이미 EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro, YO2 495에 쓰이고 있지만, 현재 중국 밖에서 구할 수 있는 제품은 EVO-X5 Pro와 F9A Pro 495뿐이다."
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower 제품도 전 세계에 출시되지만, RAM은 최대 128 GB 로 GMKtec과 AceMagic 대안 제품의 192 GB 에 못 미친다. 그 결과 이전 Strix Halo mini-PCs와 마찬가지로 최대 96 GB 의 RAM을 VRAM으로 할당한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
               },
               {
                 "t": "p",
-                "x": "Lemonade에서 관리하는 모델로 2,600장이 넘는 이미지를 분류하고, 이미지를 생성하고, 열 페이지짜리 웹사이트도 만들었다. 다만 웹사이트에는 꽤 많은 프롬프트가 필요했다. Photoshop, Lightroom, 4K Premiere Pro 편집도 똑같이 잘 처리했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-                "cap": "MSI PRO MAX Edge AI+"
-              },
-              {
-                "t": "p",
-                "x": "단점도 있다. 나온 지 한 해가 넘은 CPU, 느린 2.5GbE 네트워킹, 업그레이드할 수 없는 RAM, 그리고 $5,499 (US), €5,299, £5,999라는 비싼 가격이다. 로컬 AI를 최대한 활용하려면 설정과 실험에도 상당한 품이 든다. 그래도 사생활을 지키는 완전한 오프라인 AI를 원한다면, 이 작은 기계에는 엄청난 성능이 담겨 있다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MSI迷你PC\n专为本地AI打造",
-          "body": "MSI Pro Max Edge AI+是搭载50-TOPS NPU的本地AI迷你PC。",
-          "mini_headline": "MSI为本地AI打造的迷你PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MSI Pro Max Edge AI+是我测试过的最强大的迷你工作站之一。机内搭载配备Radeon 8060S显卡的AMD Ryzen AI Max+ 395、算力最高50 TOPS的AMD XDNA NPU，以及128GB统一内存，足以完全离线并高速运行LLMs。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
-              },
-              {
-                "t": "p",
-                "x": "借助在Lemonade中管理的模型，它整理了2,600多张图片、生成了图片，还搭建了一个十页的网站，不过这需要相当多的提示。Photoshop、Lightroom以及4K Premiere Pro剪辑也同样处理得很好。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-                "cap": "MSI PRO MAX Edge AI+"
-              },
-              {
-                "t": "p",
-                "x": "缺点包括：CPU已推出一年多、2.5GbE网络较慢、RAM无法升级，以及高昂的价格——$5,499 (US)、€5,299、£5,999。想充分发挥本地AI的能力，还需要大量设置和尝试。但若追求私密、完全离线的AI，这台小巧的机器蕴藏着巨大的性能。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El Pro Max Edge AI+ de MSI,\nun mini PC para AI local",
-          "body": "El Pro Max Edge AI+ de MSI es un mini PC para AI local que combina el Ryzen AI Max+ 395 de AMD con una NPU 50-TOPS.",
-          "mini_headline": "El mini PC de MSI para AI local",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El MSI Pro Max Edge AI+ es una de las miniestaciones de trabajo más potentes que he probado. En su interior hay un AMD Ryzen AI Max+ 395 con gráficos Radeon 8060S, una AMD XDNA NPU de hasta 50 TOPS y 128GB de memoria unificada, suficiente para ejecutar LLMs totalmente sin conexión y con rapidez."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
-              },
-              {
-                "t": "p",
-                "x": "Con modelos gestionados en Lemonade, clasificó más de 2,600 imágenes, generó imágenes y creó un sitio web de diez páginas, aunque esto último requirió bastantes instrucciones. Las ediciones en Photoshop, Lightroom y Premiere Pro en 4K se resolvieron igual de bien."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-                "cap": "MSI PRO MAX Edge AI+"
-              },
-              {
-                "t": "p",
-                "x": "Inconvenientes: una CPU con más de un año, una red 2.5GbE lenta, RAM que no se puede ampliar y un precio elevado: $5,499 (US), €5,299, £5,999. Sacar el máximo partido a la AI local también exige mucha configuración y experimentación. Pero para una AI privada y completamente sin conexión, esta máquina compacta ofrece una enorme cantidad de potencia."
+                "x": "USB 포트는 여섯 개로, 그중 두 개는 40 Gbps USB4이며 HDMI 2.1(48 Gbps)과 DisplayPort 1.4(HBR3, 32.4 Gbps)도 갖췄다. iBuyPower는 'Q4 2026' 출시라는 일정만 밝혔고, 가격은 $3,999부터다. 이 가격에 128 GB RAM이 포함되는지는 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MSIのミニPCは\nローカルAI向けだ",
-          "body": "Pro Max Edge AI+は50 TOPS NPU搭載のローカルAI向けミニPCだ。",
-          "mini_headline": "ローカルAI向けのMSI製ミニPC",
+          "headline": "iBuyPowerのAI\n128GB mini-PC",
+          "body": "Ryzen AI Max+ Pro 495と128 GB のRAMを積むミニPCだ。",
+          "mini_headline": "iBuyPowerの128GB AI mini-PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+                "cap": "iBuyPower Pro AMD AI Halo Mini PCは単一の仕上げで展開される。"
               },
               {
                 "t": "p",
-                "x": "MSI Pro Max Edge AI+は、筆者がテストした中で最も強力なミニワークステーションの一つだ。内部にはRadeon 8060S グラフィックスを備えたAMDのRyzen AI Max+ 395、最大50 TOPSのAMD XDNA NPU、そして128GB のユニファイドメモリを搭載し、LLMs（大規模言語モデル）を完全オフラインで高速に動かせる。"
+                "x": "iBuyPowerが128 GB のRAMを備えたhigh-endなmini-PCを発売した。AMDのRyzen AI Max+ Pro 495プロセッサーも搭載するiBuyPower Pro AMD AI Halo Mini PCは、200 x 198 x 70 mm の筐体に、デュアルUSB4、デュアル10 GbE Ethernet、三つのM.2スロットを詰め込んでいる。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPowerは、AMDの新しいGorgon Haloプラットフォームを採用するmini-PCメーカーの仲間入りをした。Ryzen AI Max+ Pro 495はすでにEVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro、YO2 495に搭載されているが、現時点で中国国外で入手できるのはEVO-X5 ProとF9A Pro 495だけだ。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPowerのマシンもグローバルで発売されるが、RAMの上限は128 GB で、GMKtecやAceMagicの競合機の192 GB には届かない。その結果、旧世代のStrix Halo mini-PCsと同じく、最大96 GB のRAMをVRAMとして割り当てる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
-                "cap": "MSI PRO MAX Edge AI+（画像提供: Alastair Jennings）"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
               },
               {
                 "t": "p",
-                "x": "Lemonadeで管理するモデルを使い、2,600 枚を超える画像の仕分けや画像生成、十ページのウェブサイト構築までこなした。ただし、それにはかなりのプロンプト調整を要した。Photoshop、Lightroom、4K の Premiere Pro 編集も同じく快適に処理できた。"
+                "x": "USBポートは六つで、そのうち二つは40 Gbps のUSB4だ。ほかにHDMI 2.1 (48 Gbps)とDisplayPort 1.4 (HBR3, 32.4 Gbps)を備える。iBuyPowerが明言しているのは'Q4 2026'という発売時期のみで、価格は$3,999からだが、この価格に128 GB のRAMが含まれるかは明らかにしていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "iBuyPower的AI\n128GB mini-PC",
+          "body": "iBuyPower新品搭载Ryzen AI Max+ Pro 495与128 GB RAM。",
+          "mini_headline": "iBuyPower的128GB AI mini-PC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+                "cap": "iBuyPower Pro AMD AI Halo Mini PC仅提供单一外观。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower推出了一款配备128 GB RAM的high-end mini-PC。iBuyPower Pro AMD AI Halo Mini PC还搭载AMD的Ryzen AI Max+ Pro 495处理器，在尺寸为200 x 198 x 70 mm 的机身中塞进了双USB4、双10 GbE Ethernet和三个M.2插槽。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower加入了采用AMD全新Gorgon Halo平台的mini-PC厂商行列；Ryzen AI Max+ Pro 495已用于EVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro和YO2 495，不过目前只有EVO-X5 Pro和F9A Pro 495在中国以外有售。"
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower这款机器也将在全球发售，但RAM最高只有128 GB ，而非GMKtec和AceMagic同类产品的192 GB 。因此，它与较早的Strix Halo mini-PCs一样，最多可将96 GB RAM分配为VRAM。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
-                "cap": "MSI PRO MAX Edge AI+"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
               },
               {
                 "t": "p",
-                "x": "欠点は、発売から一年以上経つCPU、低速な2.5GbE ネットワーク、増設できないRAM、そして高い価格だ — $5,499 (US)、€5,299、£5,999。ローカルAIを最大限に活かすには、多くのセットアップと試行錯誤も必要になる。それでも、プライベートで完全オフラインのAIを求めるなら、このコンパクトなマシンには膨大なパワーが詰まっている。"
+                "x": "机身配有六个USB端口，其中两个是40 Gbps 的USB4，另有HDMI 2.1 (48 Gbps)和DisplayPort 1.4 (HBR3, 32.4 Gbps)。iBuyPower只承诺'Q4 2026'的发布窗口，起价$3,999；但尚未说明该价格是否包含128 GB RAM。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "iBuyPower integra 128GB en un\nmini-PC AI Halo",
+          "body": "El Pro AMD AI Halo Mini PC de iBuyPower combina un Ryzen AI Max+ Pro 495 con 128 GB de RAM y doble 10 GbE.",
+          "mini_headline": "El mini-PC AI de 128GB de iBuyPower",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+                "cap": "El iBuyPower Pro AMD AI Halo Mini PC se ofrece en un único acabado."
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower ha lanzado un mini-PC high-end con 128 GB de RAM. Equipado además con el procesador Ryzen AI Max+ Pro 495 de AMD, el iBuyPower Pro AMD AI Halo Mini PC reúne doble USB4, doble 10 GbE Ethernet y tres ranuras M.2 en una carcasa de 200 x 198 x 70 mm."
+              },
+              {
+                "t": "p",
+                "x": "iBuyPower se suma a los fabricantes de mini-PC que adoptan la nueva plataforma Gorgon Halo de AMD; el Ryzen AI Max+ Pro 495 ya impulsa los EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro y YO2 495, aunque por ahora solo el EVO-X5 Pro y el F9A Pro 495 se venden fuera de China."
+              },
+              {
+                "t": "p",
+                "x": "El equipo de iBuyPower también se lanzará a nivel mundial, pero llega como máximo a 128 GB de RAM, frente a los 192 GB de las alternativas de GMKtec y AceMagic. Por ello, al igual que los mini-PCs Strix Halo anteriores, puede asignar hasta 96 GB de RAM como VRAM."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Incluye seis puertos USB, dos de ellos USB4 a 40 Gbps, además de HDMI 2.1 (48 Gbps) y DisplayPort 1.4 (HBR3, 32.4 Gbps). iBuyPower solo se ha comprometido a un lanzamiento en el 'Q4 2026', con precios desde $3,999; no ha aclarado si ese precio incluye 128 GB de RAM."
               }
             ]
           }
@@ -1581,15 +1259,15 @@
       }
     },
     {
-      "id": "amazon-driver-ai-glasses",
+      "id": "humanoid-robot-rental-exchanges",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "배송기사엔 AI 안경\n주인공은 로봇이다",
-      "body": "Amazon은 배송기사에게 AI 안경을 주지만, 핵심은 1백만 대의 로봇이다.",
-      "mini_headline": "Amazon의 AI 안경과 로봇",
+      "headline": "휴머노이드 로봇 대여료\n거래소 등장에 급락",
+      "body": "중국 휴머노이드 로봇 대여료가 다섯 자릿수 위안에서 하루 289위안까지 내려갔다.",
+      "mini_headline": "로봇 대여료가 싸진다",
       "tool": "Gadgets",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/ai/amazons-delivery-drivers-are-getting-ai-glasses-and-thats-the-least-unsettling-ai-in-the-job",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
@@ -1597,209 +1275,521 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-            "cap": "Amazon 배송기사 (Image credit: Future)"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
           },
           {
             "t": "p",
-            "x": "Amazon은 500명이 넘는 기사가 275,000건 이상을 배송한 시범 운영에 이어, 2027년 말까지 배송기사에게 스마트 안경 20,000개 이상을 지급할 계획이다. 안경은 길 안내와 소포 정보, 위험 경고를 시야에 띄우고 정지 이미지도 자주 찍는다. 집이 찍혀도 고객은 거부할 방법이 없다."
-          },
-          {
-            "t": "video",
-            "yt": "XXVhNlNKxQA"
+            "x": "휴머노이드 로봇 대여는 원래 파는 쪽이 갑인 시장이었다. Unitree 로봇이 중국의 2025년 Spring Festival Gala(춘완)에서 춤을 춘 뒤 수요가 치솟았고 로봇 한 대 하루 대여료가 다섯 자릿수 위안, 약 $1,400 이상까지 올랐다고 한다."
           },
           {
             "t": "p",
-            "x": "하지만 시간당 600,000건의 주문을 처리하는 1백만 대 로봇의 운영에 비하면 안경은 겉으로 드러난 일부일 뿐이다. 파운데이션 모델이 수요를 예측하고 재고 위치를 정하며, Amazon은 2025년 300곳이 넘는 시설에 걸쳐 백만 번째 로봇을 배치했다. DeepFleet은 로봇 무리를 조율해 이동 시간을 약 10% 줄일 전망이고, 에이전트형 Project Eluna는 관리자에게 인력을 어디로 옮길지 추천한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-            "cap": "Amazon 창고 (Image credit: Getty Images/Daniel Holland)"
+            "x": "거품은 이제 꺼졌다. 대여료는 2026년 초 하루 2,000~3,000위안(약 $280~$420) 수준으로 떨어졌다가 이후 1,000위안 아래로 내려갔다. 한 중고 거래 플랫폼에는 Unitree 휴머노이드를 하루 289위안, 약 $40부터 내놓은 판매자도 있다."
           },
           {
             "t": "p",
-            "x": "Wellspring 매핑은 202백만 곳의 주차 위치를 찾아냈고, 안경에서 얻은 이미지가 다시 여기에 반영될 수 있다. Amazon은 안경 덕분에 기사가 교대 근무당 최대 30분을 아낀다고 추산했지만 그 시간이 누구 몫인지는 밝히지 않았다. 안경은 Amazon AI의 빙산의 일각일 뿐이다."
+            "x": "2026년 춘완 무대에는 Magic Atom, Unitree, Songyan Power, Galaxy General 등 로봇 제조사 네 곳이 올랐다. 하지만 풀린 로봇이 늘면서 신기함에 붙던 웃돈은 사라지는 중이다. 시장도 틀을 갖춰 간다. 세계 최초 로봇 전용 대여 플랫폼을 내건 Qingtianzu는 2026년 1월 시드 투자 유치를 발표했고 2월 첫째 주 주문량이 약 30퍼센트 늘었다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "대여는 대개 호기심 많은 고객이 제값을 다 내지 않고 휴머노이드를 써 보는 방법이다. Unitree G1+의 가격은 95,000위안(약 $13,000)부터다. Unitree는 2030년까지 범용 휴머노이드 판매를 목표로 삼았다. 중국에서는 로봇 훈련 시설 70곳 이상이 돌아가고 있고 40곳 이상을 짓는 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon drivers get AI glasses,\nbut robots are the real story",
-          "body": "Amazon is giving delivery drivers AI glasses, but a warehouse tour shows its 1 million robots are the bigger story.",
-          "mini_headline": "Amazon's AI glasses and robots",
+          "headline": "Humanoid robot rental prices\ncrater as exchanges appear",
+          "body": "Humanoid robot rentals in China have dropped from five-figure yuan day rates to as little as 289 yuan a day.",
+          "mini_headline": "Robot rentals get cheaper",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-                "cap": "Amazon driver (Image credit: Future)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Amazon plans to put more than 20,000 pairs of smart glasses on its delivery drivers by the end of 2027, after a pilot in which more than 500 drivers completed over 275,000 deliveries. The glasses put navigation, package details and hazard alerts in view — and take still images at frequent intervals, with no opt-out for customers whose homes are pictured."
-              },
-              {
-                "t": "video",
-                "yt": "XXVhNlNKxQA"
+                "x": "Renting a humanoid robot used to be a seller's market. After Unitree's robots danced on China's 2025 Spring Festival Gala, demand surged and daily rates reportedly reached five figures in yuan, roughly $1,400 or more, for a single day with a machine."
               },
               {
                 "t": "p",
-                "x": "But looking at Amazon's operation of 1 million robots processing 600,000 orders an hour, the glasses are just the part the public can see. A foundation model forecasts demand and decides where inventory sits; Amazon deployed its millionth robot in 2025 across more than 300 facilities. DeepFleet coordinates the fleet and is projected to cut travel time by about 10%, and agentic Project Eluna recommends where managers should shift workers."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-                "cap": "Amazon Warehouse (Image credit: Getty Images/Daniel Holland)"
+                "x": "That bubble has deflated: rates fell to around 2,000 to 3,000 yuan per day (about $280 to $420) by early 2026 and have since slipped below 1,000 yuan. On one classifieds marketplace, some merchants now list Unitree humanoids from just 289 yuan per day, or roughly $40."
               },
               {
                 "t": "p",
-                "x": "Wellspring mapping has identified 202 million parking locations, and images from the glasses may feed back into it. Amazon estimates the glasses could save drivers up to 30 minutes per shift, but hasn't said who gets that time back. The glasses are just the tip of Amazon's AI."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "배송기사엔 AI 안경\n주인공은 로봇이다",
-          "body": "Amazon은 배송기사에게 AI 안경을 주지만, 핵심은 1백만 대의 로봇이다.",
-          "mini_headline": "Amazon의 AI 안경과 로봇",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-                "cap": "Amazon 배송기사 (Image credit: Future)"
+                "x": "The 2026 gala put four robot makers on stage (Magic Atom, Unitree, Songyan Power and Galaxy General), but more machines are now in circulation and the novelty premium is fading. The market is also getting organized: in January 2026 Qingtianzu, billed as the world's first dedicated robot rental platform, announced a seed round, and its order volume reportedly grew about 30 percent in the first week of February."
               },
               {
                 "t": "p",
-                "x": "Amazon은 500명이 넘는 기사가 275,000건 이상을 배송한 시범 운영에 이어, 2027년 말까지 배송기사에게 스마트 안경 20,000개 이상을 지급할 계획이다. 안경은 길 안내와 소포 정보, 위험 경고를 시야에 띄우고 정지 이미지도 자주 찍는다. 집이 찍혀도 고객은 거부할 방법이 없다."
-              },
-              {
-                "t": "video",
-                "yt": "XXVhNlNKxQA"
-              },
-              {
-                "t": "p",
-                "x": "하지만 시간당 600,000건의 주문을 처리하는 1백만 대 로봇의 운영에 비하면 안경은 겉으로 드러난 일부일 뿐이다. 파운데이션 모델이 수요를 예측하고 재고 위치를 정하며, Amazon은 2025년 300곳이 넘는 시설에 걸쳐 백만 번째 로봇을 배치했다. DeepFleet은 로봇 무리를 조율해 이동 시간을 약 10% 줄일 전망이고, 에이전트형 Project Eluna는 관리자에게 인력을 어디로 옮길지 추천한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-                "cap": "Amazon 창고 (Image credit: Getty Images/Daniel Holland)"
-              },
-              {
-                "t": "p",
-                "x": "Wellspring 매핑은 202백만 곳의 주차 위치를 찾아냈고, 안경에서 얻은 이미지가 다시 여기에 반영될 수 있다. Amazon은 안경 덕분에 기사가 교대 근무당 최대 30분을 아낀다고 추산했지만 그 시간이 누구 몫인지는 밝히지 않았다. 안경은 Amazon AI의 빙산의 일각일 뿐이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "配達員にAIメガネ、\n本命はロボット",
-          "body": "Amazonは配達員にAIメガネを配るが、本当の主役は1百万台のロボットだ。",
-          "mini_headline": "AmazonのAIメガネとロボット",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-                "cap": "Amazonの配達員(Image credit: Future)"
-              },
-              {
-                "t": "p",
-                "x": "Amazonは、500人を超える配達員が275,000件以上の配達をこなした試験運用を経て、2027年末までに20,000台以上のスマートグラスを配達員に配備する計画だ。メガネはナビゲーションや荷物の詳細、危険の警告を視界に表示し、静止画を頻繁に撮影する。自宅が写り込む顧客にオプトアウトの手段はない。"
-              },
-              {
-                "t": "video",
-                "yt": "XXVhNlNKxQA"
-              },
-              {
-                "t": "p",
-                "x": "しかし、毎時600,000件の注文を処理する1百万台のロボットによるAmazonの運用を見れば、メガネは一般の人の目に見える一部にすぎない。基盤モデルが需要を予測して在庫の配置を決め、Amazonは2025年に300を超える施設で百万台目のロボットを導入した。DeepFleetがロボット群を調整して移動時間を約10%短縮すると見込まれ、エージェント型のProject Elunaは管理者に人員の配置転換先を提案する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-                "cap": "Amazonの倉庫(Image credit: Getty Images/Daniel Holland)"
-              },
-              {
-                "t": "p",
-                "x": "Wellspringのマッピングは202百万カ所の駐車位置を特定しており、メガネの画像がそこにフィードバックされる可能性もある。Amazonはメガネによって配達員がシフトあたり最大30分を節約できると見積もるが、その時間が誰に還元されるかは明らかにしていない。メガネはAmazonのAIの氷山の一角にすぎない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Amazon司机戴AI眼镜\n真正主角却是机器人",
-          "body": "Amazon为配送司机配备AI眼镜，但仓库参观显示，1百万台机器人才是重点。",
-          "mini_headline": "Amazon的AI眼镜与机器人",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-                "cap": "Amazon司机（Image credit: Future）"
-              },
-              {
-                "t": "p",
-                "x": "Amazon计划在2027年底前为配送司机配备20,000多副智能眼镜，此前的试点中，500多名司机完成了275,000多次配送。眼镜会在视野中显示导航、包裹详情和危险提醒——还会频繁拍摄静态图像，而住宅被拍到的顾客无法选择退出。"
-              },
-              {
-                "t": "video",
-                "yt": "XXVhNlNKxQA"
-              },
-              {
-                "t": "p",
-                "x": "但看看Amazon每小时处理600,000个订单的1百万台机器人运营，眼镜不过是公众能看到的那一部分。基础模型负责预测需求并决定库存存放位置；Amazon于2025年在300多个设施中部署了第一百万台机器人。DeepFleet负责协调机器人集群，预计可将行驶时间缩短约10%；智能体Project Eluna则向管理者建议应将工人调往何处。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-                "cap": "Amazon仓库（Image credit: Getty Images/Daniel Holland）"
-              },
-              {
-                "t": "p",
-                "x": "Wellspring地图已识别出202百万个停车位置，眼镜拍下的图像也可能回流其中。Amazon估计眼镜每班最多可为司机节省30分钟，但没有说明这些时间归谁。眼镜只是Amazon AI的冰山一角。"
+                "x": "Rentals mostly let curious customers try a humanoid instead of paying full price, which for a Unitree G1+ starts at 95,000 yuan (about $13,000). Unitree aims to sell a general-purpose humanoid by 2030, and China has over 70 robot training facilities in operation, with more than 40 under construction."
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon da gafas con AI,\npero lo clave son sus robots",
-          "body": "Amazon da gafas con AI a sus repartidores, pero una visita al almacén muestra que su 1 millón de robots pesa más.",
-          "mini_headline": "Gafas con AI y robots de Amazon",
+          "headline": "El alquiler de robots humanoides\nse hunde al surgir plataformas",
+          "body": "El alquiler de robots humanoides en China ha bajado de cinco cifras en yuanes al día a solo 289 yuanes.",
+          "mini_headline": "Alquilar robots sale más barato",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-                "cap": "Repartidor de Amazon (Image credit: Future)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Amazon planea dotar a sus repartidores de más de 20,000 gafas inteligentes antes de finales de 2027, tras un piloto en el que más de 500 conductores completaron más de 275,000 entregas. Las gafas muestran navegación, detalles de los paquetes y alertas de peligro en el campo de visión, y toman imágenes fijas a intervalos frecuentes, sin opción de exclusión para los clientes cuyas casas aparecen en ellas."
-              },
-              {
-                "t": "video",
-                "yt": "XXVhNlNKxQA"
+                "x": "Alquilar un robot humanoide solía ser un mercado de vendedores. Después de que los robots de Unitree bailaran en la Gala del Festival de Primavera 2025 de China, la demanda se disparó y, según informes, las tarifas diarias alcanzaron las cinco cifras en yuanes, unos $1,400 o más, por un solo día con una máquina."
               },
               {
                 "t": "p",
-                "x": "Pero al observar la operación de Amazon, con 1 millón de robots que procesan 600,000 pedidos por hora, las gafas son solo la parte que el público puede ver. Un modelo fundacional pronostica la demanda y decide dónde se ubica el inventario; Amazon desplegó su robot número un millón en 2025 en más de 300 instalaciones. DeepFleet coordina la flota y se prevé que reduzca el tiempo de desplazamiento en aproximadamente un 10%, y el sistema agéntico Project Eluna recomienda a los gerentes adónde trasladar a los trabajadores."
+                "x": "Esa burbuja se ha desinflado: las tarifas cayeron a unos 2,000 a 3,000 yuanes al día (unos $280 a $420) a principios de 2026 y desde entonces han bajado de 1,000 yuanes. En un mercado de anuncios clasificados, algunos comerciantes ofrecen ahora humanoides de Unitree desde solo 289 yuanes al día, unos $40."
+              },
+              {
+                "t": "p",
+                "x": "La gala de 2026 llevó al escenario a cuatro fabricantes de robots (Magic Atom, Unitree, Songyan Power y Galaxy General), pero ahora circulan más máquinas y la prima por novedad se desvanece. El mercado también se organiza: en enero de 2026, Qingtianzu, presentada como la primera plataforma del mundo dedicada al alquiler de robots, anunció una ronda semilla, y su volumen de pedidos habría crecido alrededor de un 30 por ciento en la primera semana de febrero."
+              },
+              {
+                "t": "p",
+                "x": "El alquiler permite sobre todo que los clientes curiosos prueben un humanoide sin pagar el precio completo, que en el caso de un Unitree G1+ parte de 95,000 yuanes (unos $13,000). Unitree aspira a vender un humanoide de uso general para 2030, y China tiene más de 70 centros de entrenamiento de robots en funcionamiento y más de 40 en construcción."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "휴머노이드 로봇 대여료\n거래소 등장에 급락",
+          "body": "중국 휴머노이드 로봇 대여료가 다섯 자릿수 위안에서 하루 289위안까지 내려갔다.",
+          "mini_headline": "로봇 대여료가 싸진다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "휴머노이드 로봇 대여는 원래 파는 쪽이 갑인 시장이었다. Unitree 로봇이 중국의 2025년 Spring Festival Gala(춘완)에서 춤을 춘 뒤 수요가 치솟았고 로봇 한 대 하루 대여료가 다섯 자릿수 위안, 약 $1,400 이상까지 올랐다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "거품은 이제 꺼졌다. 대여료는 2026년 초 하루 2,000~3,000위안(약 $280~$420) 수준으로 떨어졌다가 이후 1,000위안 아래로 내려갔다. 한 중고 거래 플랫폼에는 Unitree 휴머노이드를 하루 289위안, 약 $40부터 내놓은 판매자도 있다."
+              },
+              {
+                "t": "p",
+                "x": "2026년 춘완 무대에는 Magic Atom, Unitree, Songyan Power, Galaxy General 등 로봇 제조사 네 곳이 올랐다. 하지만 풀린 로봇이 늘면서 신기함에 붙던 웃돈은 사라지는 중이다. 시장도 틀을 갖춰 간다. 세계 최초 로봇 전용 대여 플랫폼을 내건 Qingtianzu는 2026년 1월 시드 투자 유치를 발표했고 2월 첫째 주 주문량이 약 30퍼센트 늘었다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "대여는 대개 호기심 많은 고객이 제값을 다 내지 않고 휴머노이드를 써 보는 방법이다. Unitree G1+의 가격은 95,000위안(약 $13,000)부터다. Unitree는 2030년까지 범용 휴머노이드 판매를 목표로 삼았다. 중국에서는 로봇 훈련 시설 70곳 이상이 돌아가고 있고 40곳 이상을 짓는 중이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "人型ロボットのレンタル料\n取引所の登場で急落",
+          "body": "中国の人型ロボットのレンタル料は、日額数万元から最安289元まで下がった。",
+          "mini_headline": "ロボットレンタルが安く",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "人型ロボットのレンタルは、かつて売り手市場だった。Unitreeのロボットが中国の2025年Spring Festival Gala（春晩）で踊ったことで需要が急増し、ロボット一台を一日借りる料金は数万元、約$1,400以上に達したと伝えられる。"
+              },
+              {
+                "t": "p",
+                "x": "そのバブルはしぼんだ。料金は2026年初めまでに一日2,000〜3,000元（約$280〜$420）程度に下がり、その後1,000元を割り込んだ。ある売買仲介サイトでは、一部の業者がUnitreeの人型ロボットを一日289元、約$40から掲載している。"
+              },
+              {
+                "t": "p",
+                "x": "2026年の春晩にはMagic Atom、Unitree、Songyan Power、Galaxy Generalの四社のロボットメーカーが登場したが、流通する機体が増え、物珍しさによる上乗せは薄れつつある。市場の組織化も進む。世界初のロボット専門レンタルプラットフォームをうたうQingtianzuは2026年1月にシードラウンドを発表し、2月第一週の注文量は約30パーセント伸びたと伝えられる。"
+              },
+              {
+                "t": "p",
+                "x": "レンタルは主に、興味を持つ客が定価を払わずに人型ロボットを試す手段となっている。Unitree G1+の価格は95,000元（約$13,000）からだ。Unitreeは2030年までに汎用人型ロボットの販売を目指しており、中国では70を超えるロボット訓練施設が稼働し、40以上が建設中である。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "人形机器人租金\n随交易平台出现暴跌",
+          "body": "中国人形机器人的租金已从日租五位数元，降到最低每天289元。",
+          "mini_headline": "机器人租赁变便宜",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "租用人形机器人曾是卖方市场。Unitree的机器人在中国2025年Spring Festival Gala（春晚）上跳舞后，需求激增，据报道租用一台机器人一天的价格达到五位数元，约合$1,400或更高。"
+              },
+              {
+                "t": "p",
+                "x": "如今泡沫已经消退：到2026年初，日租金降至约2,000至3,000元（约$280至$420），此后又跌破1,000元。在一个分类信息交易平台上，部分商家挂出的Unitree人形机器人日租金低至289元，约合$40。"
+              },
+              {
+                "t": "p",
+                "x": "2026年春晚有四家机器人厂商登台（Magic Atom、Unitree、Songyan Power和Galaxy General），但流通的机器越来越多，新鲜感带来的溢价正在消退。市场也在走向规范：号称全球首个机器人专属租赁平台的Qingtianzu于2026年1月宣布完成种子轮融资，据报道其订单量在2月第一周增长约百分之30。"
+              },
+              {
+                "t": "p",
+                "x": "租赁主要让好奇的顾客无需全价购买就能体验人形机器人，而Unitree G1+的起售价为95,000元（约$13,000）。Unitree的目标是在2030年前销售通用人形机器人，中国已有超过70个机器人训练设施投入运营，另有40多个在建。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "El alquiler de robots humanoides\nse hunde al surgir plataformas",
+          "body": "El alquiler de robots humanoides en China ha bajado de cinco cifras en yuanes al día a solo 289 yuanes.",
+          "mini_headline": "Alquilar robots sale más barato",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Alquilar un robot humanoide solía ser un mercado de vendedores. Después de que los robots de Unitree bailaran en la Gala del Festival de Primavera 2025 de China, la demanda se disparó y, según informes, las tarifas diarias alcanzaron las cinco cifras en yuanes, unos $1,400 o más, por un solo día con una máquina."
+              },
+              {
+                "t": "p",
+                "x": "Esa burbuja se ha desinflado: las tarifas cayeron a unos 2,000 a 3,000 yuanes al día (unos $280 a $420) a principios de 2026 y desde entonces han bajado de 1,000 yuanes. En un mercado de anuncios clasificados, algunos comerciantes ofrecen ahora humanoides de Unitree desde solo 289 yuanes al día, unos $40."
+              },
+              {
+                "t": "p",
+                "x": "La gala de 2026 llevó al escenario a cuatro fabricantes de robots (Magic Atom, Unitree, Songyan Power y Galaxy General), pero ahora circulan más máquinas y la prima por novedad se desvanece. El mercado también se organiza: en enero de 2026, Qingtianzu, presentada como la primera plataforma del mundo dedicada al alquiler de robots, anunció una ronda semilla, y su volumen de pedidos habría crecido alrededor de un 30 por ciento en la primera semana de febrero."
+              },
+              {
+                "t": "p",
+                "x": "El alquiler permite sobre todo que los clientes curiosos prueben un humanoide sin pagar el precio completo, que en el caso de un Unitree G1+ parte de 95,000 yuanes (unos $13,000). Unitree aspira a vender un humanoide de uso general para 2030, y China tiene más de 70 centros de entrenamiento de robots en funcionamiento y más de 40 en construcción."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "휴머노이드 로봇 대여료\n거래소 등장에 급락",
+          "body": "중국 휴머노이드 로봇 대여료가 다섯 자릿수 위안에서 하루 289위안까지 내려갔다.",
+          "mini_headline": "로봇 대여료가 싸진다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "휴머노이드 로봇 대여는 원래 판매자 우위 시장이었다. Unitree 로봇이 중국의 2025년 Spring Festival Gala(춘완)에서 춤을 춘 뒤 수요가 치솟았고, 로봇 한 대를 하루 빌리는 값이 다섯 자릿수 위안, 약 $1,400 이상까지 올랐다고 전해진다."
+              },
+              {
+                "t": "p",
+                "x": "그 거품은 이제 꺼졌다. 대여료는 2026년 초 하루 2,000~3,000위안(약 $280~$420) 수준으로 떨어졌고, 이후 1,000위안 아래로 내려갔다. 한 중고 거래 플랫폼에서는 일부 판매자가 Unitree 휴머노이드를 하루 289위안, 약 $40부터 내놓고 있다."
+              },
+              {
+                "t": "p",
+                "x": "2026년 춘완 무대에는 Magic Atom, Unitree, Songyan Power, Galaxy General 등 네 곳의 로봇 제조사가 올랐지만, 유통되는 로봇이 늘면서 신기함에 붙던 웃돈은 사라지고 있다. 시장도 체계를 갖춰 간다. 세계 최초의 로봇 전용 대여 플랫폼을 내세운 Qingtianzu는 2026년 1월 시드 투자 유치를 발표했고, 2월 첫째 주 주문량이 약 30퍼센트 늘었다고 전해진다."
+              },
+              {
+                "t": "p",
+                "x": "대여는 주로 호기심 있는 고객이 제값을 치르지 않고 휴머노이드를 체험해 보는 수단이다. Unitree G1+의 가격은 95,000위안(약 $13,000)부터다. Unitree는 2030년까지 범용 휴머노이드 판매를 목표로 하며, 중국에서는 로봇 훈련 시설 70곳 이상이 운영 중이고 40곳 이상이 건설 중이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "人型ロボットのレンタル料\n取引所の登場で急落",
+          "body": "中国の人型ロボットのレンタル料は、日額数万元から最安289元まで下がった。",
+          "mini_headline": "ロボットレンタルが安く",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "人型ロボットのレンタルは、かつて売り手市場だった。Unitreeのロボットが中国の2025年Spring Festival Gala（春晩）で踊ったことで需要が急増し、ロボット一台を一日借りる料金は数万元、約$1,400以上に達したと伝えられる。"
+              },
+              {
+                "t": "p",
+                "x": "そのバブルはしぼんだ。料金は2026年初めまでに一日2,000〜3,000元（約$280〜$420）程度に下がり、その後1,000元を割り込んだ。ある売買仲介サイトでは、一部の業者がUnitreeの人型ロボットを一日289元、約$40から掲載している。"
+              },
+              {
+                "t": "p",
+                "x": "2026年の春晩にはMagic Atom、Unitree、Songyan Power、Galaxy Generalの四社のロボットメーカーが登場したが、流通する機体が増え、物珍しさによる上乗せは薄れつつある。市場の組織化も進む。世界初のロボット専門レンタルプラットフォームをうたうQingtianzuは2026年1月にシードラウンドを発表し、2月第一週の注文量は約30パーセント伸びたと伝えられる。"
+              },
+              {
+                "t": "p",
+                "x": "レンタルは主に、興味を持つ客が定価を払わずに人型ロボットを試す手段となっている。Unitree G1+の価格は95,000元（約$13,000）からだ。Unitreeは2030年までに汎用人型ロボットの販売を目指しており、中国では70を超えるロボット訓練施設が稼働し、40以上が建設中である。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "人形机器人租金\n随交易平台出现暴跌",
+          "body": "中国人形机器人的租金已从日租五位数元，降到最低每天289元。",
+          "mini_headline": "机器人租赁变便宜",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "租用人形机器人曾是卖方市场。Unitree的机器人在中国2025年Spring Festival Gala（春晚）上跳舞后，需求激增，据报道租用一台机器人一天的价格达到五位数元，约合$1,400或更高。"
+              },
+              {
+                "t": "p",
+                "x": "如今泡沫已经消退：到2026年初，日租金降至约2,000至3,000元（约$280至$420），此后又跌破1,000元。在一个分类信息交易平台上，部分商家挂出的Unitree人形机器人日租金低至289元，约合$40。"
+              },
+              {
+                "t": "p",
+                "x": "2026年春晚有四家机器人厂商登台（Magic Atom、Unitree、Songyan Power和Galaxy General），但流通的机器越来越多，新鲜感带来的溢价正在消退。市场也在走向规范：号称全球首个机器人专属租赁平台的Qingtianzu于2026年1月宣布完成种子轮融资，据报道其订单量在2月第一周增长约百分之30。"
+              },
+              {
+                "t": "p",
+                "x": "租赁主要让好奇的顾客无需全价购买就能体验人形机器人，而Unitree G1+的起售价为95,000元（约$13,000）。Unitree的目标是在2030年前销售通用人形机器人，中国已有超过70个机器人训练设施投入运营，另有40多个在建。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "siri-ai-vs-gemini-column",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "핵심에선 Siri AI가\nGemini보다 낫다는 평",
+      "body": "Siri AI는 앱 안에서 움직이고 Gemini는 Google 안에 갇혔다고 본다.",
+      "mini_headline": "Siri AI가 Gemini보다 낫다는 시각",
+      "tool": "Gadgets",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+            "cap": "나란히 실행 중인 Siri AI와 Gemini."
+          },
+          {
+            "t": "p",
+            "x": "칼럼니스트는 한쪽으로 기운 비교가 되리라 예상했다. 그런데 새 Siri AI는 금세 일상에 더 자연스럽게 녹아들었고 Gemini는 여전히 휴대폰의 다른 앱과 따로 노는 느낌이었다."
+          },
+          {
+            "t": "p",
+            "x": "Gemini는 Spark 리서치를 NotebookLM(현재 Gemini Notebook)으로 옮기는 일부터 Sheets 편집까지 Google 생태계 안에서는 뛰어나지만 서드파티 연동은 약하다. TickTick에 할 일을 추가해 달라고 하자 묻지도 않고 Google Tasks를 택했다. Instacart, Angi, Zillow 같은 파트너 앱은 지역마다 달라서 인도에 사는 필자가 매일 쓰는 건 Canva 하나뿐이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+            "cap": "iOS 27의 Siri AI 인터페이스."
+          },
+          {
+            "t": "p",
+            "x": "Siri AI는 정보를 불러오는 데서 그치지 않고 실제로 움직일 준비가 더 돼 보인다. 매번 앱 이름을 말하지 않아도 TickTick 할 일을 읽어 주고 관리하며, 음성으로 Blinkit 장바구니에 물건을 담는다. 필자는 그 이유로 Apple의 더 엄격한 가이드라인과 App Store 인센티브, Apple India가 현지 개발자와 해 온 작업을 꼽는다."
+          },
+          {
+            "t": "p",
+            "x": "이제 눈에 띄는 기능은 대화보다 다른 앱 안에서 직접 움직이는 능력이다. Google이 Home 앱에 붙인 MCP 연결은 좋은 시도지만 설정에 손이 많이 가고 Home Premium 구독도 필요하다. 필자는 Google이 Gemini의 앱 간 연동을 어이없을 만큼 쉽게 만들어야 한다고 본다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "One writer finds Siri AI\nbeats Gemini where it counts",
+          "body": "An Android Authority columnist argues Siri AI acts inside apps like TickTick while Gemini stays stuck in Google's world.",
+          "mini_headline": "Siri AI over Gemini, one view",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+                "cap": "Siri AI and Gemini running next to each other."
+              },
+              {
+                "t": "p",
+                "x": "Expecting a one-sided comparison, the columnist instead found the new Siri AI fit into their everyday routine more naturally in a short span of time, while Gemini still feels disconnected from the rest of the apps on their phone."
+              },
+              {
+                "t": "p",
+                "x": "Gemini is excellent inside Google's ecosystem, from Spark research into NotebookLM (now Gemini Notebook) to edits in Sheets, but third-party integrations fall short: asked to add a task to TickTick, it defaulted to Google Tasks without asking. Its partner apps such as Instacart, Angi and Zillow are region-dependent, and the writer, based in India, uses none of them daily except Canva."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-                "cap": "Almacén de Amazon (Image credit: Getty Images/Daniel Holland)"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+                "cap": "Siri AI interface on iOS 27."
               },
               {
                 "t": "p",
-                "x": "El mapeo de Wellspring ha identificado 202 millones de ubicaciones de estacionamiento, y las imágenes de las gafas podrían retroalimentarlo. Amazon calcula que las gafas podrían ahorrar a los repartidores hasta 30 minutos por turno, pero no ha dicho quién recupera ese tiempo. Las gafas son solo la punta del iceberg de la AI de Amazon."
+                "x": "Siri AI feels more ready to take actions rather than just pull up information: it reads out and manages TickTick tasks without naming the app each time, and adds items to a Blinkit cart by voice. The writer credits Apple's stricter guidelines, App Store incentives and Apple India's work with local developers."
+              },
+              {
+                "t": "p",
+                "x": "Conversation is no longer the standout feature; acting inside other apps is. Google's MCP connections for the Home app are a solid move but need tinkering and a Home Premium subscription. Google, the writer argues, must make cross-app interactions with Gemini stupidly effortless."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "핵심에선 Siri AI가\nGemini보다 낫다는 평",
+          "body": "Siri AI는 앱 안에서 움직이고 Gemini는 Google 안에 갇혔다고 본다.",
+          "mini_headline": "Siri AI가 Gemini보다 낫다는 시각",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+                "cap": "나란히 실행 중인 Siri AI와 Gemini."
+              },
+              {
+                "t": "p",
+                "x": "칼럼니스트는 한쪽으로 기운 비교가 되리라 예상했다. 그런데 새 Siri AI는 금세 일상에 더 자연스럽게 녹아들었고 Gemini는 여전히 휴대폰의 다른 앱과 따로 노는 느낌이었다."
+              },
+              {
+                "t": "p",
+                "x": "Gemini는 Spark 리서치를 NotebookLM(현재 Gemini Notebook)으로 옮기는 일부터 Sheets 편집까지 Google 생태계 안에서는 뛰어나지만 서드파티 연동은 약하다. TickTick에 할 일을 추가해 달라고 하자 묻지도 않고 Google Tasks를 택했다. Instacart, Angi, Zillow 같은 파트너 앱은 지역마다 달라서 인도에 사는 필자가 매일 쓰는 건 Canva 하나뿐이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+                "cap": "iOS 27의 Siri AI 인터페이스."
+              },
+              {
+                "t": "p",
+                "x": "Siri AI는 정보를 불러오는 데서 그치지 않고 실제로 움직일 준비가 더 돼 보인다. 매번 앱 이름을 말하지 않아도 TickTick 할 일을 읽어 주고 관리하며, 음성으로 Blinkit 장바구니에 물건을 담는다. 필자는 그 이유로 Apple의 더 엄격한 가이드라인과 App Store 인센티브, Apple India가 현지 개발자와 해 온 작업을 꼽는다."
+              },
+              {
+                "t": "p",
+                "x": "이제 눈에 띄는 기능은 대화보다 다른 앱 안에서 직접 움직이는 능력이다. Google이 Home 앱에 붙인 MCP 연결은 좋은 시도지만 설정에 손이 많이 가고 Home Premium 구독도 필요하다. 필자는 Google이 Gemini의 앱 간 연동을 어이없을 만큼 쉽게 만들어야 한다고 본다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "肝心な所でSiri AIが\nGeminiに勝るとの声",
+          "body": "Siri AIはアプリ内で動き、GeminiはGoogleの中に閉じたままだとコラムは説く。",
+          "mini_headline": "Siri AIがGeminiに勝るという見方",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+                "cap": "並べて動かしたSiri AIとGemini。"
+              },
+              {
+                "t": "p",
+                "x": "一方的な比較になると予想していたコラムニストだったが、新しいSiri AIは短期間で日々の習慣により自然になじんだ。一方Geminiは、今もスマートフォン上のほかのアプリから切り離された印象だという。"
+              },
+              {
+                "t": "p",
+                "x": "GeminiはGoogleのエコシステム内では優秀で、SparkのリサーチをNotebookLM(現Gemini Notebook)に取り込むことからSheetsでの編集までこなすが、サードパーティー連携は物足りない。TickTickにタスクを追加するよう頼むと、確認もせずにGoogle Tasksを使った。Instacart、Angi、Zillowといった提携アプリは地域に左右され、インドに住む筆者はCanva以外どれも日常的には使っていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+                "cap": "iOS 27のSiri AIのインターフェース。"
+              },
+              {
+                "t": "p",
+                "x": "Siri AIは情報を呼び出すだけでなく、行動に移す準備がより整っているように感じられる。毎回アプリ名を言わなくてもTickTickのタスクを読み上げて管理し、音声でBlinkitのカートに商品を追加する。筆者は、Appleのより厳格なガイドライン、App Storeのインセンティブ、そしてApple Indiaによる現地開発者との取り組みがその理由だとみる。"
+              },
+              {
+                "t": "p",
+                "x": "もはや際立つ機能は会話ではなく、ほかのアプリ内で行動することだ。GoogleがHomeアプリ向けに用意したMCP接続は堅実な一手だが、手間のかかる設定とHome Premiumへの加入が必要になる。筆者は、GoogleはGeminiのアプリ間連携をあきれるほど簡単にすべきだと主張する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "一位作者认为Siri AI\n关键处胜过Gemini",
+          "body": "专栏认为Siri AI能在应用内操作，而Gemini仍困在Google生态里。",
+          "mini_headline": "一种观点：Siri AI胜过Gemini",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+                "cap": "并排运行的Siri AI和Gemini。"
+              },
+              {
+                "t": "p",
+                "x": "这位专栏作者原以为会是一边倒的比较，结果却发现新版Siri AI在短时间内更自然地融入了日常，而Gemini依然感觉与手机上的其他应用脱节。"
+              },
+              {
+                "t": "p",
+                "x": "Gemini在Google生态内表现出色，从把Spark研究导入NotebookLM（现为Gemini Notebook）到在Sheets中编辑都不在话下，但第三方集成却不尽如人意：让它往TickTick里添加任务时，它没有询问就默认用了Google Tasks。Instacart、Angi、Zillow等合作应用因地区而异，身在印度的作者除了Canva之外，日常一个都不用。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+                "cap": "iOS 27上的Siri AI界面。"
+              },
+              {
+                "t": "p",
+                "x": "Siri AI更像是准备好采取行动，而不只是调出信息：无需每次说出应用名称，它就能朗读并管理TickTick任务，还能通过语音把商品加入Blinkit购物车。作者将此归功于Apple更严格的准则、App Store的激励措施，以及Apple India与本地开发者的合作。"
+              },
+              {
+                "t": "p",
+                "x": "对话不再是最突出的功能，在其他应用内执行操作才是。Google为Home应用推出MCP连接是一步好棋，但需要折腾设置，还得订阅Home Premium。作者认为，Google必须让Gemini的跨应用交互简单到不可思议。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un columnista ve a Siri AI por\nencima de Gemini en lo esencial",
+          "body": "Un columnista de Android Authority afirma que Siri AI actúa en apps como TickTick y Gemini sigue encerrado en Google.",
+          "mini_headline": "Siri AI por encima de Gemini, según una opinión",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+                "cap": "Siri AI y Gemini funcionando uno al lado del otro."
+              },
+              {
+                "t": "p",
+                "x": "El columnista esperaba una comparación desigual, pero descubrió que el nuevo Siri AI se integró de forma más natural en su rutina diaria en poco tiempo, mientras que Gemini todavía se siente desconectado del resto de las apps de su teléfono."
+              },
+              {
+                "t": "p",
+                "x": "Gemini destaca dentro del ecosistema de Google, desde llevar investigaciones de Spark a NotebookLM (ahora Gemini Notebook) hasta editar en Sheets, pero las integraciones con terceros se quedan cortas: al pedirle que añadiera una tarea a TickTick, recurrió a Google Tasks sin preguntar. Sus apps asociadas, como Instacart, Angi y Zillow, dependen de la región, y el autor, que vive en India, no usa ninguna a diario salvo Canva."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+                "cap": "Interfaz de Siri AI en iOS 27."
+              },
+              {
+                "t": "p",
+                "x": "Siri AI parece más dispuesto a actuar que a limitarse a mostrar información: lee y gestiona las tareas de TickTick sin nombrar la app cada vez, y añade productos a un carrito de Blinkit por voz. El autor lo atribuye a las directrices más estrictas de Apple, a los incentivos de la App Store y al trabajo de Apple India con desarrolladores locales."
+              },
+              {
+                "t": "p",
+                "x": "La conversación ya no es la función más destacada; lo es actuar dentro de otras apps. Las conexiones MCP de Google para la app Home son un buen paso, pero requieren ajustes y una suscripción a Home Premium. Google, sostiene el autor, debe lograr que las interacciones entre apps con Gemini sean absurdamente sencillas."
               }
             ]
           }
@@ -1807,145 +1797,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "배송기사엔 AI 안경\n주인공은 로봇이다",
-          "body": "Amazon은 배송기사에게 AI 안경을 주지만, 핵심은 1백만 대의 로봇이다.",
-          "mini_headline": "Amazon의 AI 안경과 로봇",
+          "headline": "핵심에선 Siri AI가\nGemini보다 낫다는 평",
+          "body": "Siri AI는 앱 안에서 움직이고 Gemini는 Google 안에 갇혔다고 본다.",
+          "mini_headline": "Siri AI가 Gemini보다 낫다는 시각",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-                "cap": "Amazon 배송기사 (Image credit: Future)"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+                "cap": "나란히 실행 중인 Siri AI와 Gemini."
               },
               {
                 "t": "p",
-                "x": "Amazon은 500명이 넘는 기사가 275,000건 이상을 배송한 시범 운영에 이어, 2027년 말까지 배송기사에게 스마트 안경 20,000개 이상을 지급할 계획이다. 안경은 길 안내와 소포 정보, 위험 경고를 시야에 띄우고, 정지 이미지를 자주 촬영한다. 집이 찍히는 고객에게는 거부할 방법이 없다."
-              },
-              {
-                "t": "video",
-                "yt": "XXVhNlNKxQA"
+                "x": "칼럼니스트는 일방적인 비교가 되리라 예상했지만, 새 Siri AI는 짧은 시간 만에 일상에 더 자연스럽게 녹아들었고, Gemini는 여전히 휴대폰의 다른 앱들과 따로 노는 느낌이었다."
               },
               {
                 "t": "p",
-                "x": "하지만 시간당 600,000건의 주문을 처리하는 1백만 대 로봇의 운영을 보면, 안경은 대중의 눈에 보이는 일부에 불과하다. 파운데이션 모델이 수요를 예측하고 재고 위치를 정하며, Amazon은 2025년 300곳이 넘는 시설에 걸쳐 백만 번째 로봇을 배치했다. DeepFleet은 로봇 무리를 조율해 이동 시간을 약 10% 줄일 것으로 예상되고, 에이전트형 Project Eluna는 관리자에게 인력을 어디로 옮길지 추천한다."
+                "x": "Gemini는 Spark 리서치를 NotebookLM(현재 Gemini Notebook)으로 옮기는 일부터 Sheets 편집까지 Google 생태계 안에서는 뛰어나지만, 서드파티 연동은 부족하다. TickTick에 할 일을 추가해 달라고 하자 묻지도 않고 Google Tasks를 택했다. Instacart, Angi, Zillow 같은 파트너 앱은 지역에 따라 달라서, 인도에 사는 필자는 Canva를 빼면 어느 것도 매일 쓰지 않는다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-                "cap": "Amazon 창고 (Image credit: Getty Images/Daniel Holland)"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+                "cap": "iOS 27의 Siri AI 인터페이스."
               },
               {
                 "t": "p",
-                "x": "Wellspring 매핑은 202백만 곳의 주차 위치를 찾아냈고, 안경에서 얻은 이미지가 다시 여기에 반영될 수 있다. Amazon은 안경 덕분에 기사가 교대 근무당 최대 30분을 아낄 수 있다고 추산하지만, 그 시간이 누구에게 돌아가는지는 밝히지 않았다. 안경은 Amazon AI의 빙산의 일각일 뿐이다."
+                "x": "Siri AI는 정보를 불러오는 데 그치지 않고 실제로 행동할 준비가 더 된 듯하다. 매번 앱 이름을 말하지 않아도 TickTick 할 일을 읽어 주고 관리하며, 음성으로 Blinkit 장바구니에 물건을 담는다. 필자는 Apple의 더 엄격한 가이드라인, App Store 인센티브, 그리고 Apple India가 현지 개발자들과 해 온 작업을 그 이유로 꼽는다."
+              },
+              {
+                "t": "p",
+                "x": "이제 돋보이는 기능은 대화가 아니라 다른 앱 안에서 행동하는 능력이다. Google이 Home 앱에 붙인 MCP 연결은 좋은 행보지만, 손이 가는 설정과 Home Premium 구독이 필요하다. 필자는 Google이 Gemini의 앱 간 연동을 어이없을 만큼 쉽게 만들어야 한다고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "配達員にAIメガネ、\n本命はロボット",
-          "body": "Amazonは配達員にAIメガネを配るが、本当の主役は1百万台のロボットだ。",
-          "mini_headline": "AmazonのAIメガネとロボット",
+          "headline": "肝心な所でSiri AIが\nGeminiに勝るとの声",
+          "body": "Siri AIはアプリ内で動き、GeminiはGoogleの中に閉じたままだとコラムは説く。",
+          "mini_headline": "Siri AIがGeminiに勝るという見方",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-                "cap": "Amazonの配達員(Image credit: Future)"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+                "cap": "並べて動かしたSiri AIとGemini。"
               },
               {
                 "t": "p",
-                "x": "Amazonは、500人を超える配達員が275,000件以上の配達をこなした試験運用を経て、2027年末までに20,000台以上のスマートグラスを配達員に配備する計画だ。メガネはナビゲーションや荷物の詳細、危険の警告を視界に表示し、静止画を頻繁に撮影する。自宅が写り込む顧客にオプトアウトの手段はない。"
-              },
-              {
-                "t": "video",
-                "yt": "XXVhNlNKxQA"
+                "x": "一方的な比較になると予想していたコラムニストだったが、新しいSiri AIは短期間で日々の習慣により自然になじんだ。一方Geminiは、今もスマートフォン上のほかのアプリから切り離された印象だという。"
               },
               {
                 "t": "p",
-                "x": "しかし、毎時600,000件の注文を処理する1百万台のロボットによるAmazonの運用を見れば、メガネは一般の人の目に見える一部にすぎない。基盤モデルが需要を予測して在庫の配置を決め、Amazonは2025年に300を超える施設で百万台目のロボットを導入した。DeepFleetがロボット群を調整して移動時間を約10%短縮すると見込まれ、エージェント型のProject Elunaは管理者に人員の配置転換先を提案する。"
+                "x": "GeminiはGoogleのエコシステム内では優秀で、SparkのリサーチをNotebookLM(現Gemini Notebook)に取り込むことからSheetsでの編集までこなすが、サードパーティー連携は物足りない。TickTickにタスクを追加するよう頼むと、確認もせずにGoogle Tasksを使った。Instacart、Angi、Zillowといった提携アプリは地域に左右され、インドに住む筆者はCanva以外どれも日常的には使っていない。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-                "cap": "Amazonの倉庫(Image credit: Getty Images/Daniel Holland)"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+                "cap": "iOS 27のSiri AIのインターフェース。"
               },
               {
                 "t": "p",
-                "x": "Wellspringのマッピングは202百万カ所の駐車位置を特定しており、メガネの画像がそこにフィードバックされる可能性もある。Amazonはメガネによって配達員がシフトあたり最大30分を節約できると見積もるが、その時間が誰に還元されるかは明らかにしていない。メガネはAmazonのAIの氷山の一角にすぎない。"
+                "x": "Siri AIは情報を呼び出すだけでなく、行動に移す準備がより整っているように感じられる。毎回アプリ名を言わなくてもTickTickのタスクを読み上げて管理し、音声でBlinkitのカートに商品を追加する。筆者は、Appleのより厳格なガイドライン、App Storeのインセンティブ、そしてApple Indiaによる現地開発者との取り組みがその理由だとみる。"
+              },
+              {
+                "t": "p",
+                "x": "もはや際立つ機能は会話ではなく、ほかのアプリ内で行動することだ。GoogleがHomeアプリ向けに用意したMCP接続は堅実な一手だが、手間のかかる設定とHome Premiumへの加入が必要になる。筆者は、GoogleはGeminiのアプリ間連携をあきれるほど簡単にすべきだと主張する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon司机戴AI眼镜\n真正主角却是机器人",
-          "body": "Amazon为配送司机配备AI眼镜，但仓库参观显示，1百万台机器人才是重点。",
-          "mini_headline": "Amazon的AI眼镜与机器人",
+          "headline": "一位作者认为Siri AI\n关键处胜过Gemini",
+          "body": "专栏认为Siri AI能在应用内操作，而Gemini仍困在Google生态里。",
+          "mini_headline": "一种观点：Siri AI胜过Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-                "cap": "Amazon司机（Image credit: Future）"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+                "cap": "并排运行的Siri AI和Gemini。"
               },
               {
                 "t": "p",
-                "x": "Amazon计划在2027年底前为配送司机配备20,000多副智能眼镜，此前的试点中，500多名司机完成了275,000多次配送。眼镜会在视野中显示导航、包裹详情和危险提醒——还会频繁拍摄静态图像，而住宅被拍到的顾客无法选择退出。"
-              },
-              {
-                "t": "video",
-                "yt": "XXVhNlNKxQA"
+                "x": "这位专栏作者原以为会是一边倒的比较，结果却发现新版Siri AI在短时间内更自然地融入了日常，而Gemini依然感觉与手机上的其他应用脱节。"
               },
               {
                 "t": "p",
-                "x": "但看看Amazon每小时处理600,000个订单的1百万台机器人运营，眼镜不过是公众能看到的那一部分。基础模型负责预测需求并决定库存存放位置；Amazon于2025年在300多个设施中部署了第一百万台机器人。DeepFleet负责协调机器人集群，预计可将行驶时间缩短约10%；智能体Project Eluna则向管理者建议应将工人调往何处。"
+                "x": "Gemini在Google生态内表现出色，从把Spark研究导入NotebookLM（现为Gemini Notebook）到在Sheets中编辑都不在话下，但第三方集成却不尽如人意：让它往TickTick里添加任务时，它没有询问就默认用了Google Tasks。Instacart、Angi、Zillow等合作应用因地区而异，身在印度的作者除了Canva之外，日常一个都不用。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-                "cap": "Amazon仓库（Image credit: Getty Images/Daniel Holland）"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+                "cap": "iOS 27上的Siri AI界面。"
               },
               {
                 "t": "p",
-                "x": "Wellspring地图已识别出202百万个停车位置，眼镜拍下的图像也可能回流其中。Amazon估计眼镜每班最多可为司机节省30分钟，但没有说明这些时间归谁。眼镜只是Amazon AI的冰山一角。"
+                "x": "Siri AI更像是准备好采取行动，而不只是调出信息：无需每次说出应用名称，它就能朗读并管理TickTick任务，还能通过语音把商品加入Blinkit购物车。作者将此归功于Apple更严格的准则、App Store的激励措施，以及Apple India与本地开发者的合作。"
+              },
+              {
+                "t": "p",
+                "x": "对话不再是最突出的功能，在其他应用内执行操作才是。Google为Home应用推出MCP连接是一步好棋，但需要折腾设置，还得订阅Home Premium。作者认为，Google必须让Gemini的跨应用交互简单到不可思议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon da gafas con AI,\npero lo clave son sus robots",
-          "body": "Amazon da gafas con AI a sus repartidores, pero una visita al almacén muestra que su 1 millón de robots pesa más.",
-          "mini_headline": "Gafas con AI y robots de Amazon",
+          "headline": "Un columnista ve a Siri AI por\nencima de Gemini en lo esencial",
+          "body": "Un columnista de Android Authority afirma que Siri AI actúa en apps como TickTick y Gemini sigue encerrado en Google.",
+          "mini_headline": "Siri AI por encima de Gemini, según una opinión",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
-                "cap": "Repartidor de Amazon (Image credit: Future)"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+                "cap": "Siri AI y Gemini funcionando uno al lado del otro."
               },
               {
                 "t": "p",
-                "x": "Amazon planea dotar a sus repartidores de más de 20,000 gafas inteligentes antes de finales de 2027, tras un piloto en el que más de 500 conductores completaron más de 275,000 entregas. Las gafas muestran navegación, detalles de los paquetes y alertas de peligro en el campo de visión, y toman imágenes fijas a intervalos frecuentes, sin opción de exclusión para los clientes cuyas casas aparecen en ellas."
-              },
-              {
-                "t": "video",
-                "yt": "XXVhNlNKxQA"
+                "x": "El columnista esperaba una comparación desigual, pero descubrió que el nuevo Siri AI se integró de forma más natural en su rutina diaria en poco tiempo, mientras que Gemini todavía se siente desconectado del resto de las apps de su teléfono."
               },
               {
                 "t": "p",
-                "x": "Pero al observar la operación de Amazon, con 1 millón de robots que procesan 600,000 pedidos por hora, las gafas son solo la parte que el público puede ver. Un modelo fundacional pronostica la demanda y decide dónde se ubica el inventario; Amazon desplegó su robot número un millón en 2025 en más de 300 instalaciones. DeepFleet coordina la flota y se prevé que reduzca el tiempo de desplazamiento en aproximadamente un 10%, y el sistema agéntico Project Eluna recomienda a los gerentes adónde trasladar a los trabajadores."
+                "x": "Gemini destaca dentro del ecosistema de Google, desde llevar investigaciones de Spark a NotebookLM (ahora Gemini Notebook) hasta editar en Sheets, pero las integraciones con terceros se quedan cortas: al pedirle que añadiera una tarea a TickTick, recurrió a Google Tasks sin preguntar. Sus apps asociadas, como Instacart, Angi y Zillow, dependen de la región, y el autor, que vive en India, no usa ninguna a diario salvo Canva."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
-                "cap": "Almacén de Amazon (Image credit: Getty Images/Daniel Holland)"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+                "cap": "Interfaz de Siri AI en iOS 27."
               },
               {
                 "t": "p",
-                "x": "El mapeo de Wellspring ha identificado 202 millones de ubicaciones de estacionamiento, y las imágenes de las gafas podrían retroalimentarlo. Amazon calcula que las gafas podrían ahorrar a los repartidores hasta 30 minutos por turno, pero no ha dicho quién recupera ese tiempo. Las gafas son solo la punta del iceberg de la AI de Amazon."
+                "x": "Siri AI parece más dispuesto a actuar que a limitarse a mostrar información: lee y gestiona las tareas de TickTick sin nombrar la app cada vez, y añade productos a un carrito de Blinkit por voz. El autor lo atribuye a las directrices más estrictas de Apple, a los incentivos de la App Store y al trabajo de Apple India con desarrolladores locales."
+              },
+              {
+                "t": "p",
+                "x": "La conversación ya no es la función más destacada; lo es actuar dentro de otras apps. Las conexiones MCP de Google para la app Home son un buen paso, pero requieren ajustes y una suscripción a Home Premium. Google, sostiene el autor, debe lograr que las interacciones entre apps con Gemini sean absurdamente sencillas."
               }
             ]
           }

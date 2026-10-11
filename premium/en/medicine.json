@@ -530,6 +530,102 @@
           "yt": "f3jK_SsHcAw"
         }
       ]
+    },
+    "medicine/pancreatic-cancer-subtype-histopathology-dl": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pancreatic ductal adenocarcinoma comprises classical and basal-like molecular subtypes that differ in prognosis and treatment response, but transcriptomic subtyping is limited by cost, turnaround time and tissue requirements. The researchers asked whether these subtypes can be inferred directly from routine H&E-stained whole-slide images using deep learning."
+        },
+        {
+          "t": "p",
+          "x": "They analyzed 689 patients with paired histology and RNA-sequencing data from the Pancreatic Cancer Action Network (n = 506) and The Cancer Genome Atlas (n = 183). Their model, PanSubNet, integrates cellular morphology with tissue architecture to predict subtype."
+        },
+        {
+          "t": "p",
+          "x": "PanSubNet distinguished high-confidence classical and basal-like tumors with a mean AUC of 90.3% in internal validation and 84.0% in independent external validation. In metastatic disease, its predicted subtypes significantly stratified overall survival and flagged aggressive tumors among transcriptionally discordant cases."
+        },
+        {
+          "t": "p",
+          "x": "The authors say the approach offers a rapid, tissue-sparing complement to transcriptomic profiling where molecular testing is limited or impractical."
+        }
+      ]
+    },
+    "medicine/fda-radiology-ai-authorizations-rise-42": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+        },
+        {
+          "t": "p",
+          "x": "A new analysis of the FDA’s AI-enabled medical device database, published in Academic Radiology, details how the technology’s regulatory standing has evolved. Stella K. Kang, MD, of Columbia University Irving Medical Center and colleagues characterized 1,094 radiology AI devices authorized through December 2025."
+        },
+        {
+          "t": "p",
+          "x": "Annual authorizations increased by 42% during the timeframe studied, though the functional makeup stayed relatively stable: image management and processing systems made up 38% of devices, imaging systems 33% and interpretive AI tools 23%. Multi-finding devices rose from 4% to 18%."
+        },
+        {
+          "t": "p",
+          "x": "Median FDA review time was shorter for OEM devices than non-OEM ones, 118 versus 138 days. Predetermined change control plan authorization rose from just under 1% in 2020–2023 to nearly 9% in 2025, a sign that some software modifications can be managed within an existing regulatory framework."
+        }
+      ]
+    },
+    "medicine/hhs-arpa-h-ai-clinical-trials": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The Department of Health and Human Services announced a set of new initiatives aimed at speeding up clinical trials by incorporating more artificial intelligence and computational models and moving away from sharply delineated trial phases, as U.S. officials work to compete with China and other countries."
+        },
+        {
+          "t": "p",
+          "x": "The centerpiece five-year program, dubbed SURPASS — “Simulation-augmented, Real-time Platform Adaptive Seamless Trials” — will kick off later this fall by accepting “ground-breaking ideas from cross-disciplinary teams in statistics, AI, and clinical trial design, operations, and regulation.”"
+        },
+        {
+          "t": "p",
+          "x": "HHS is launching the program through the Advanced Research Projects Agency for Health. The initial announcement did not note how much funding was designated, nor whether participants would be offered more flexibility or resources."
+        }
+      ]
+    },
+    "medicine/gottlieb-clinical-ai-ldt-pathway": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Former FDA commissioner Scott Gottlieb argues clinical AI is following the path laboratory developed tests took: academic medical centers such as Duke Health, Johns Hopkins and NYU Langone build and deploy their own models largely outside FDA device oversight. That encourages experimentation but can keep useful tools from spreading and creates a two-tier market that disadvantages commercial developers."
+        },
+        {
+          "t": "p",
+          "x": "He cites a national survey finding 65% of US hospitals use AI models, while only 44% of those using predictive models evaluated them for bias."
+        },
+        {
+          "t": "p",
+          "x": "Gottlieb proposes that Congress create a CLIA-like certification route: the FDA would certify health systems, which would be responsible for validation, subgroup performance checks, change control, drift monitoring and regular reporting, with requirements scaled to risk. Lower-risk tools would need analytical validity first; higher-risk tools would need premarket clinical evaluation. Fully autonomous systems, patient-facing diagnostics and models offered outside the institution would stay under conventional device regulation."
+        }
+      ]
+    },
+    "medicine/jama-ai-psychosis-cohort": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Conversational AI chatbots are increasingly linked to emerging or worsening psychotic symptoms, a phenomenon the authors call \"AI psychosis.\" Prior evidence was mostly case reports, viewpoints and simulations."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Vanderbilt University Medical Center retrospectively reviewed behavioral health progress notes from December 1, 2022, to April 15, 2026, for patients with AI-related keywords and a documented psychotic-disorder diagnosis. Two raters classified AI interactions as neutral, AI psychosis (chatbot use that worsened psychosis) or AI-related psychotic content, and sorted AI psychosis cases into four types: catalyst, amplifier, coauthor and object."
+        },
+        {
+          "t": "p",
+          "x": "Of 578,058 records (215,712 unique patients), 187 encounters from 73 patients met criteria. 28 patients (0.013% of those receiving mental health care) were in the AI psychosis group. ChatGPT was the documented product in 15 cases (53.6%), and 24 interactions (85.7%) were documented after the May 2024 release of GPT-4o. 60.7% of the AI psychosis group were in a first psychotic episode, vs 17.6% of the neutral group. Amplifier was the most common type (64.3%)."
+        },
+        {
+          "t": "p",
+          "x": "The authors note the rise after GPT-4o coincides with documented sycophancy in that model, but the design cannot establish causation. They conclude that routine assessment of AI use during psychiatric encounters appears warranted."
+        }
+      ]
     }
   }
 }

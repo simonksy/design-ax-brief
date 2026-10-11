@@ -7240,6 +7240,151 @@
           "x": "Runway建议的用法包括：把动画数据与依据一张参考照片生成的产品镜头结合起来的发布视频；包含生成的客户场景的入门引导视频；加入配音和音乐的全员大会更新；以及无需重做动画，就把16:9解说视频扩展为竖版和方形格式，或进行本地化。"
         }
       ]
+    },
+    "design/nngroup-context-libraries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude重度用户很少编辑自己的上下文文件，还常常找不到它们。在NN/g的研究中，参与者花在构建上下文库上的精力多于编写提示词，但每个人都临时拼凑出一套自己的流程，文件随之过时或丢失。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+          "cap": "用户写的提示词更简单，依靠智能体来引用和更新上下文库。"
+        },
+        {
+          "t": "p",
+          "x": "上下文库是一组机构性与流程性知识，存放在markdown文件或外部软件中，供AI智能体引用和编辑。研究得出四条经验：上下文需要持续维护；让智能体替你更新上下文，因为几乎没人直接在文件里打字；为便于查找而组织上下文库；只给智能体它们需要的上下文。"
+        },
+        {
+          "t": "p",
+          "x": "一位参与者维护着2,700多个上下文文件，每个文件夹里都有一张CLAUDE.md“索引卡”，设计目标是尽量少加载：“它必须先上移或下移，才能横向移动。”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+          "cap": "层级中的每个文件夹都有自己的CLAUDE.md索引文件。"
+        },
+        {
+          "t": "p",
+          "x": "在平台自己承担起整理策略之前，这项工作只能落在用户身上。"
+        }
+      ]
+    },
+    "design/teslers-law-chat-field-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+        },
+        {
+          "t": "p",
+          "x": "AI并没有消除软件的复杂性。它去掉的是那个告诉你复杂性去了哪里、如今由谁来承担的界面。Larry Tesler's law（复杂性守恒定律）认为，任何应用程序中困难的部分都无法消除，只能转交给别人。"
+        },
+        {
+          "t": "p",
+          "x": "Patrick Neeman认为，聊天框是一次朝三个方向的转移：一部分复杂性进入了模型，一部分转给了如今要撰写需求并评判结果的用户，其余则落到你的团队身上，变成无人配备人手的评估工作。“界面上的简洁，几乎总是别人的工作量。”"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+          "cap": "受压的水床：一处被压下，另一处就会隆起。"
+        },
+        {
+          "t": "p",
+          "x": "他引用了METR's 2025年的试验：AI让资深开发者的速度慢了19 percent；另一项针对5,172名客服人员的研究则显示提升了15 percent。有些工作，比如薪资核算，建立在确定性的底层之上。他的建议是：为核查而设计，为接收一方建立度量，并以书面形式确定每一份难度由谁承担。"
+        }
+      ]
+    },
+    "design/ai-generated-ui-fast-design-not-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+          "cap": "作者继父的店铺Architectural Salvage里一张带雕花桌腿的桌子"
+        },
+        {
+          "t": "p",
+          "x": "Sophie Shrimpton从继父抢救回来的17、18世纪手工雕刻家具说起，并将其与自家摇摇晃晃的廉价餐桌作对比。她写道，快家具用好材料和手艺换来了速度与利润；据EPA统计，被填埋的家具达12.1M 吨，自1960年代以来增长了450%。"
+        },
+        {
+          "t": "p",
+          "x": "如今企业也希望从AI身上获得同样的速度。她认为，AI是有用的工具，却无法取代人类的思考：设计师需要自由地漫游、提问和失败。她引用Giorgia Lupi的观点，警告不要止步于最简单的答案。“先写提示词，永远不思考”的心态，会产出她所说的AI slop：只用几条提示词生成、既无审查也无明确问题的UI。"
+        },
+        {
+          "t": "p",
+          "x": "Air Canada的聊天机器人案赔偿了$812.02，暴露出隐性成本。设计师可能沦为替AI收拾残局的清洁工，呼应了NN/G所说的“UX的清洁工时代”。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+          "cap": "NN/G：设计师如何沦为清洁工"
+        },
+        {
+          "t": "p",
+          "x": "她的建议是：先理解问题，在完成繁重的思考之后再把AI当作工具。“We are in the age of AI AND we can be in the age of craft too.”（我们身处AI时代，也同样可以身处手艺时代。）"
+        }
+      ]
+    },
+    "design/boring-ai-hollywood-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一部票房惨败的电影就可能让片厂损失数千万甚至数亿美元，因此使用生成式AI的诱惑可以理解。但Filmustage CEO Egor Dubrovsky认为，观众和从业者都排斥让AI担纲主角；阻止AI抢走创意工作，正是2023年SAG-AFTRA罢工的主要原因。"
+        },
+        {
+          "t": "p",
+          "x": "Netflix的《The Gentlemen》只在幕后使用AI，用于拆解剧本、辅助拍摄决策和维持制作运转。如今许多剧组把剧本拆解、拍摄排期和预算规划等不影响最终画面的琐碎前期工作交给AI。"
+        },
+        {
+          "t": "p",
+          "x": "过去需要几天的分场拆解，现在几分钟就能完成。前期制作平均占总预算的10-15%。片厂应把省下的钱用在观众在意的地方：打磨剧本、提升特效、完善表演。"
+        }
+      ]
+    },
+    "design/synthetic-users-uxr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+        },
+        {
+          "t": "p",
+          "x": "UX研究者之间有一场大争论：是否使用合成用户。一方认为用人工画像测试服务人类的产品有违伦理；另一方则视之为提升研究效率的工具。SAP首席设计官（Chief Design Officer）Arin Bhowmick理解双方观点，但他说：“这些用户不是真实的。”"
+        },
+        {
+          "t": "p",
+          "x": "LLMs过于积极。在2025年的研究《She was useful, but a bit too optimistic》中，八名UX设计师与一个名为Alice的AI画像合作，Alice表现出“对设计方案不加批判地认同的一贯倾向”。尽管如此，参与者仍认为她对早期探索有用。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+        },
+        {
+          "t": "p",
+          "x": "速度是优势。User Interviews于2026年5月调查了150名研究者：41%把合成用户当作人类研究之前的预备工具，认为它们最适用于问卷与筛选问卷设计（46%）、方向性可用性测试（34%）和早期研究（32%）。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
+        },
+        {
+          "t": "p",
+          "x": "SAP的Eric Mahlstedt用合成用户重做了过去的研究，发现回答过于笼统：“与其说是在做研究，不如说更像一次精巧的互联网搜索。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+        },
+        {
+          "t": "p",
+          "x": "Bhowmick的答案是否定的：合成用户只能用来扩大已完成的人类UX研究的规模，绝不能作为关键产品决策的唯一依据。"
+        }
+      ]
     }
   }
 }
