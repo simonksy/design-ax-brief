@@ -1,197 +1,191 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "movies",
   "cards": [
     {
-      "id": "cukur-vartolu-prime-ai",
+      "id": "luma-claude-motion-handoff",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Prime Video가\nAI-made 영화 확보",
-      "body": "Prime Video가 'The Pit' 스핀오프 AI 영화 세계 판권을 샀다.",
-      "mini_headline": "Prime Video, AI-made 영화 구매",
+      "headline": "Claude Motion,\nLuma에서 바로 열린다",
+      "body": "Claude Motion 애니메이션을 Luma에서 어떤 형식의 영상으로든 만든다.",
+      "mini_headline": "Claude Motion, Luma에서 열린다",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
+      "source": "Luma",
+      "url": "https://lumalabs.ai/news/Luma-Claude-Motion-Launch-Partnership",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "이제 Claude Motion 애니메이션을 Luma에서 열 수 있다. 크리에이터는 움직이는 아이디어를 Luma에서 어떤 형식의 영상으로든 만든다."
+          },
+          {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-            "cap": "Çukur:Vartolu. 사진 제공 AI Yapim"
+            "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
           },
           {
             "t": "p",
-            "x": "Prime Video가 튀르키예 TV 업계 강자 Ay Yapim의 AI 영화 “Çukur: Vartolu” 전 세계 판권을 확보했다. 해외에서 “The Pit”으로 알려진 히트 시리즈 “Çukur”의 스핀오프다."
+            "x": "SAN FRANCISCO, Calif. — Luma는 오늘 Claude Motion 애니메이션을 Luma에서 바로 열 수 있게 됐다고 발표했다. 크리에이터는 이를 확장하고 다듬어 어떤 에셋 형식으로든 다시 짠다. Claude에서 만든 애니메이션 설명 영상을 MCP 연결로 Luma에 가져온 뒤 원하는 바를 에이전트에게 말하기만 하면, 어떤 형식으로든 다시 만들어 준다. Claude Motion이 텍스트, 차트, 도형, 이미지를 움직이는 코드를 짜서 아이디어에 움직임을 붙이면, Luma가 그 움직임을 최종 영상으로 완성한다."
           },
           {
             "t": "p",
-            "x": "제작은 Ay Yapim이 싱가포르에 둔 AI 스튜디오 AI Yapim이 맡는다. AI Yapim은 8월 AI-generated 사극 “Castle Walls”를 Prime Video에 공개했는데, 처음부터 끝까지 AI로 만들어 주요 글로벌 스트리머에 오른 첫 시리즈라는 소개가 붙었다. 회사는 “Çukur: Vartolu”로 이 AI-native 방식을 “오리지널 스토리에서 기존 드라마 프랜차이즈로” 넓힌다고 밝혔다."
+            "x": "Claude Motion은 현재 Claude Team과 Enterprise 플랜에서 베타로 제공된다. 아이디어에 움직임을 더해 더 잘 설명하게 해 주는 기능이다. Claude가 프롬프트로 만든 애니메이션은 짧은 영상처럼 재생된다. Anthropic은 발표에서 어떤 고객이든 Claude Motion을 Luma에서 열어 룩과 숏, 모든 화면에서 재생할 수 있는 확장 버전을 만들며 한 단계 더 나아갈 수 있다고 강조했다. Luma는 Ray와 Uni 영상 생성 모델을 Claude Motion 애니메이션에 적용해 크리에이터가 최종 영상 파일을 내놓게 돕는다."
           },
           {
             "t": "p",
-            "x": "Ay Yapim에 따르면 “Çukur”는 2017년 첫 방송 뒤 105개국 무료 지상파 TV에서 방영됐고, 공식 YouTube 채널 누적 조회수는 64억 회를 넘었다. 스핀오프는 Koçovalı 가문의 서자 Vartolu Sadettin의 어린 시절과 지금의 그를 만든 선택을 그리며, Türkiye 동부 Doğubeyazıt와 훗날 Istanbul에서 벌어지는 대결을 오간다."
-          },
-          {
-            "t": "p",
-            "x": "Ay Yapim은 성명에서 “인물의 얼굴부터 모든 배경까지 영화의 모든 프레임을 AI로 생성했다”고 밝혔다. 다만 “연기는 사람이 했다. 배우들이 장면을 연기했고, AI는 그들의 움직임과 타이밍, 표정 위에 캐릭터를 생성했다. 모든 대사는 성우가 녹음했다”고 덧붙였다."
+            "x": "함께 쓰는 법은 이렇다. Claude Motion으로 프롬프트를 애니메이션 설명 영상으로 만든 뒤 Claude에 Luma 커넥터를 추가하면, 애니메이션이 Luma에 영상으로 뜬다. Luma 안에서는 움직임을 살린 채 룩을 바꿀 수도, 화면비를 9:16, 1:1, 4:3, 21:9로 바꿀 수도 있다. Luma 에이전트에게 추가 버전을 요청해도 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Prime Video takes global rights\nto AI-made 'Çukur:Vartolu'",
-          "body": "Prime Video took world rights to an AI-generated feature spun off from the Turkish hit series 'The Pit'.",
-          "mini_headline": "Prime Video buys AI-made film",
+          "headline": "Claude Motion animations now\nopen directly in Luma",
+          "body": "Claude Motion animations now open directly in Luma, where creators turn them into video in any format.",
+          "mini_headline": "Claude Motion opens in Luma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Claude Motion animations now open in Luma, where creators turn an idea in motion into video in any format."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-                "cap": "Çukur:Vartolu. Courtesy AI Yapim"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
               },
               {
                 "t": "p",
-                "x": "Prime Video has taken global rights to Turkish TV powerhouse Ay Yapim’s AI movie “Çukur: Vartolu,” a spin-off from its hit series “Çukur,” known internationally as “The Pit.”"
+                "x": "SAN FRANCISCO, Calif. — Luma today announced that Claude Motion animations now open directly in Luma, ready for creators to expand, refine, and reframe to any asset output. Now creators can bring an animated explainer made in Claude into Luma via MCP connection to re-create in any format simply by telling the agent what they want. Claude Motion gets an idea moving, writing code that animates text, charts, shapes and images, and Luma makes that movement into a final video output."
               },
               {
                 "t": "p",
-                "x": "The film is produced under Ay Yapim’s Singapore-based AI studio AI Yapim, which in August launched the AI-generated historical drama “Castle Walls” on Prime Video, touted as the first show made end-to-end with AI to bow on a major global streamer. With “Çukur: Vartolu,” the company said, it takes that AI-native approach “from an original story to an established drama franchise.”"
+                "x": "Claude Motion, now in beta on Claude Team and Enterprise plans, helps you to explain your ideas better by adding motion. Claude builds an animation from your prompt, and it plays like a short video. Anthropic’s announcement highlighted that any customer can take Claude Motion further by opening it in Luma to create the look, the shots, and expanded versions that can play on every screen. Luma brings Ray and Uni video generation models to Claude Motion animations to help creators deliver final video files."
               },
               {
                 "t": "p",
-                "x": "“Çukur” has aired on free-to-air television in 105 countries since its 2017 premiere, and its official YouTube channel has surpassed 6.4 billion cumulative views, according to Ay Yapim. The spin-off turns to the childhood and choices that shaped Vartolu Sadettin, the Koçovalı family’s illegitimate son, moving between Doğubeyazıt in eastern Türkiye and a later confrontation in Istanbul."
-              },
-              {
-                "t": "p",
-                "x": "“Every frame of the film was generated with AI, from the characters’ faces to every setting,” the Ay Yapim statement said. However, “The acting is human: actors performed the scenes, and AI generated the characters over their movement, timing and expression. All dialogue was recorded by human voice actors.”"
+                "x": "How to use them together: use Claude Motion to turn a prompt into an animated explainer; add the Luma connector in Claude; your animation appears in Luma as a video. Inside Luma you can restyle the look while the motion holds, reframe it to 9:16, 1:1, 4:3 or 21:9, or ask the Luma agent to make additional versions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Prime Video가\nAI-made 영화 확보",
-          "body": "Prime Video가 'The Pit' 스핀오프 AI 영화 세계 판권을 샀다.",
-          "mini_headline": "Prime Video, AI-made 영화 구매",
+          "headline": "Claude Motion,\nLuma에서 바로 열린다",
+          "body": "Claude Motion 애니메이션을 Luma에서 어떤 형식의 영상으로든 만든다.",
+          "mini_headline": "Claude Motion, Luma에서 열린다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "이제 Claude Motion 애니메이션을 Luma에서 열 수 있다. 크리에이터는 움직이는 아이디어를 Luma에서 어떤 형식의 영상으로든 만든다."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-                "cap": "Çukur:Vartolu. 사진 제공 AI Yapim"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
               },
               {
                 "t": "p",
-                "x": "Prime Video가 튀르키예 TV 업계 강자 Ay Yapim의 AI 영화 “Çukur: Vartolu” 전 세계 판권을 확보했다. 해외에서 “The Pit”으로 알려진 히트 시리즈 “Çukur”의 스핀오프다."
+                "x": "SAN FRANCISCO, Calif. — Luma는 오늘 Claude Motion 애니메이션을 Luma에서 바로 열 수 있게 됐다고 발표했다. 크리에이터는 이를 확장하고 다듬어 어떤 에셋 형식으로든 다시 짠다. Claude에서 만든 애니메이션 설명 영상을 MCP 연결로 Luma에 가져온 뒤 원하는 바를 에이전트에게 말하기만 하면, 어떤 형식으로든 다시 만들어 준다. Claude Motion이 텍스트, 차트, 도형, 이미지를 움직이는 코드를 짜서 아이디어에 움직임을 붙이면, Luma가 그 움직임을 최종 영상으로 완성한다."
               },
               {
                 "t": "p",
-                "x": "제작은 Ay Yapim이 싱가포르에 둔 AI 스튜디오 AI Yapim이 맡는다. AI Yapim은 8월 AI-generated 사극 “Castle Walls”를 Prime Video에 공개했는데, 처음부터 끝까지 AI로 만들어 주요 글로벌 스트리머에 오른 첫 시리즈라는 소개가 붙었다. 회사는 “Çukur: Vartolu”로 이 AI-native 방식을 “오리지널 스토리에서 기존 드라마 프랜차이즈로” 넓힌다고 밝혔다."
+                "x": "Claude Motion은 현재 Claude Team과 Enterprise 플랜에서 베타로 제공된다. 아이디어에 움직임을 더해 더 잘 설명하게 해 주는 기능이다. Claude가 프롬프트로 만든 애니메이션은 짧은 영상처럼 재생된다. Anthropic은 발표에서 어떤 고객이든 Claude Motion을 Luma에서 열어 룩과 숏, 모든 화면에서 재생할 수 있는 확장 버전을 만들며 한 단계 더 나아갈 수 있다고 강조했다. Luma는 Ray와 Uni 영상 생성 모델을 Claude Motion 애니메이션에 적용해 크리에이터가 최종 영상 파일을 내놓게 돕는다."
               },
               {
                 "t": "p",
-                "x": "Ay Yapim에 따르면 “Çukur”는 2017년 첫 방송 뒤 105개국 무료 지상파 TV에서 방영됐고, 공식 YouTube 채널 누적 조회수는 64억 회를 넘었다. 스핀오프는 Koçovalı 가문의 서자 Vartolu Sadettin의 어린 시절과 지금의 그를 만든 선택을 그리며, Türkiye 동부 Doğubeyazıt와 훗날 Istanbul에서 벌어지는 대결을 오간다."
-              },
-              {
-                "t": "p",
-                "x": "Ay Yapim은 성명에서 “인물의 얼굴부터 모든 배경까지 영화의 모든 프레임을 AI로 생성했다”고 밝혔다. 다만 “연기는 사람이 했다. 배우들이 장면을 연기했고, AI는 그들의 움직임과 타이밍, 표정 위에 캐릭터를 생성했다. 모든 대사는 성우가 녹음했다”고 덧붙였다."
+                "x": "함께 쓰는 법은 이렇다. Claude Motion으로 프롬프트를 애니메이션 설명 영상으로 만든 뒤 Claude에 Luma 커넥터를 추가하면, 애니메이션이 Luma에 영상으로 뜬다. Luma 안에서는 움직임을 살린 채 룩을 바꿀 수도, 화면비를 9:16, 1:1, 4:3, 21:9로 바꿀 수도 있다. Luma 에이전트에게 추가 버전을 요청해도 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Prime Videoが\nAI-made映画の権利取得",
-          "body": "Prime Videoが「The Pit」派生のAI映画の全世界権利を得た。",
-          "mini_headline": "Prime Video、AI-made映画を獲得",
+          "headline": "Claude Motionが\nLumaで直接開ける",
+          "body": "Claude MotionのアニメーションをLumaで開き、あらゆる形式の動画にできる。",
+          "mini_headline": "Claude MotionがLumaで開ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Claude MotionのアニメーションがLumaで開けるようになった。クリエイターは動きのあるアイデアを、Lumaであらゆる形式の動画に仕上げられる。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-                "cap": "Çukur:Vartolu。提供：AI Yapim"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
               },
               {
                 "t": "p",
-                "x": "Prime Videoは、トルコのテレビ大手Ay YapimのAI映画「Çukur: Vartolu」の全世界での権利を取得した。同作は、海外では「The Pit」として知られるヒットシリーズ「Çukur」のスピンオフである。"
+                "x": "SAN FRANCISCO, Calif. — Lumaは本日、Claude MotionのアニメーションをLumaで直接開けるようになったと発表した。クリエイターはそれを拡張し、磨き上げ、あらゆるアセット出力に合わせて再構成できる。Claudeで作ったアニメーション解説をMCP接続でLumaに取り込み、エージェントに望みを伝えるだけで、どんな形式にも作り直せる。Claude Motionはテキスト、チャート、図形、画像を動かすコードを書いてアイデアに動きを与え、Lumaはその動きを最終的な動画に仕上げる。"
               },
               {
                 "t": "p",
-                "x": "製作はAy Yapimのシンガポール拠点のAIスタジオAI Yapimが担う。同スタジオは8月、AI-generatedの歴史ドラマ「Castle Walls」をPrime Videoで公開しており、同作は全工程をAIで制作し大手グローバル配信サービスに登場した初の番組とうたわれた。同社によれば、「Çukur: Vartolu」でそのAI-nativeな手法を「オリジナルの物語から、確立されたドラマフランチャイズへ」広げるという。"
+                "x": "Claude Motionは現在Claude TeamとEnterpriseプランでベータ提供されており、動きを加えることでアイデアをよりわかりやすく伝える手助けをする。Claudeはプロンプトからアニメーションを作り、それは短い動画のように再生される。Anthropicの発表は、どの顧客もClaude MotionをLumaで開き、ルックやショット、あらゆる画面で再生できる拡張版を作ることで、さらに先へ進められると強調した。LumaはRayとUniの動画生成モデルをClaude Motionのアニメーションに適用し、クリエイターが最終的な動画ファイルを届けられるよう支える。"
               },
               {
                 "t": "p",
-                "x": "Ay Yapimによると、「Çukur」は2017年の初放送以来105カ国の無料地上波で放送され、公式YouTubeチャンネルの累計再生回数は64億回を超えた。スピンオフは、Koçovalı家の非嫡出子Vartolu Sadettinの幼少期と彼を形づくった選択に焦点を当て、Türkiye東部のDoğubeyazıtと、その後のIstanbulでの対決とを行き来する。"
-              },
-              {
-                "t": "p",
-                "x": "Ay Yapimは声明で「登場人物の顔からあらゆる舞台まで、映画のすべてのフレームをAIで生成した」と述べた。ただし「演技は人間によるものだ。俳優が場面を演じ、AIは彼らの動き、間合い、表情の上にキャラクターを生成した。台詞はすべて人間の声優が収録した」という。"
+                "x": "併用の手順はこうだ。Claude Motionでプロンプトをアニメーション解説にし、ClaudeにLumaコネクタを追加すると、アニメーションが動画としてLumaに表示される。Luma内では動きを保ったままルックを変えたり、9:16、1:1、4:3、21:9に再フレーミングしたり、Lumaエージェントに追加バージョンを作らせたりできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Prime Video拿下\nAI-made电影全球版权",
-          "body": "Prime Video获得土耳其热剧《The Pit》衍生AI电影的全球版权。",
-          "mini_headline": "Prime Video购入AI-made电影",
+          "headline": "Claude Motion\n可直接在Luma打开",
+          "body": "Claude Motion动画现可直接在Luma打开，创作者可将其制成任意格式的视频。",
+          "mini_headline": "Claude Motion登陆Luma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Claude Motion动画现在可以在Luma中打开，创作者可在Luma将动态构思制作成任意格式的视频。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-                "cap": "Çukur:Vartolu。图片由AI Yapim提供"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
               },
               {
                 "t": "p",
-                "x": "Prime Video已取得土耳其电视巨头Ay Yapim旗下AI电影《Çukur: Vartolu》的全球版权。该片衍生自其热门剧集《Çukur》，该剧在国际上以《The Pit》之名为人所知。"
+                "x": "SAN FRANCISCO, Calif. — Luma今日宣布，Claude Motion动画现可直接在Luma中打开，供创作者扩展、打磨并重新构图为任意素材输出。创作者如今可通过MCP连接，把在Claude中制作的动画讲解带入Luma，只需告诉智能体想要什么，就能以任意格式重新制作。Claude Motion通过编写让文字、图表、形状和图像动起来的代码，让构思动起来；Luma则把这些动态制成最终视频成品。"
               },
               {
                 "t": "p",
-                "x": "影片由Ay Yapim位于新加坡的AI工作室AI Yapim制作。该工作室8月在Prime Video推出AI-generated历史剧《Castle Walls》，被称为首部完全由AI制作并登陆大型全球流媒体平台的剧集。公司表示，借助《Çukur: Vartolu》，它将这种AI-native方式“从原创故事延伸到成熟的剧集系列”。"
+                "x": "Claude Motion目前在Claude Team和Enterprise方案中以测试版提供，通过加入动态帮助用户更好地阐释想法。Claude根据提示词生成动画，播放起来就像一段短视频。Anthropic在公告中强调，任何客户都可以在Luma中打开Claude Motion，进一步打造画面风格、镜头以及可在各类屏幕播放的扩展版本。Luma将Ray和Uni视频生成模型引入Claude Motion动画，帮助创作者交付最终视频文件。"
               },
               {
                 "t": "p",
-                "x": "据Ay Yapim介绍，《Çukur》自2017年首播以来已在105个国家的免费电视台播出，其官方YouTube频道累计观看次数已超过64亿次。这部衍生作聚焦Koçovalı家族私生子Vartolu Sadettin的童年及塑造他的种种选择，场景在Türkiye东部的Doğubeyazıt与后来在Istanbul的对决之间切换。"
-              },
-              {
-                "t": "p",
-                "x": "Ay Yapim在声明中表示：“影片的每一帧都由AI生成，从角色的面孔到每一处场景。”不过，“表演出自真人：演员们演绎了这些场景，AI则在他们的动作、节奏和表情之上生成角色。所有对白均由真人配音演员录制。”"
+                "x": "两者配合使用的方法：用Claude Motion把提示词变成动画讲解；在Claude中添加Luma连接器；动画便会以视频形式出现在Luma中。在Luma里，你可以在保留动态的同时更换画面风格，将画幅调整为9:16、1:1、4:3或21:9，或让Luma智能体制作更多版本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prime Video, derechos globales\nde 'Çukur:Vartolu' (AI-made)",
-          "body": "Prime Video compró los derechos mundiales de una película hecha con IA, derivada de la serie turca 'The Pit'.",
-          "mini_headline": "Prime Video compra un filme AI-made",
+          "headline": "Las animaciones de Claude Motion\nya se abren en Luma",
+          "body": "Las animaciones de Claude Motion ya se abren en Luma, donde los creadores las llevan a video en cualquier formato.",
+          "mini_headline": "Claude Motion se abre en Luma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Las animaciones de Claude Motion ya se abren en Luma, donde los creadores convierten una idea en movimiento en un video de cualquier formato."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-                "cap": "Çukur:Vartolu. Cortesía de AI Yapim"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
               },
               {
                 "t": "p",
-                "x": "Prime Video adquirió los derechos globales de “Çukur: Vartolu”, la película de IA de la potencia televisiva turca Ay Yapim, un spin-off de su exitosa serie “Çukur”, conocida internacionalmente como “The Pit”."
+                "x": "SAN FRANCISCO, Calif. — Luma anunció hoy que las animaciones de Claude Motion ya se abren directamente en Luma, listas para que los creadores las amplíen, las pulan y las reencuadren para cualquier formato de salida. Ahora los creadores pueden llevar a Luma un video explicativo animado hecho en Claude mediante una conexión MCP y recrearlo en cualquier formato con solo decirle al agente lo que quieren. Claude Motion pone una idea en movimiento escribiendo código que anima texto, gráficos, formas e imágenes, y Luma convierte ese movimiento en un video final."
               },
               {
                 "t": "p",
-                "x": "La película se produce en AI Yapim, el estudio de IA de Ay Yapim con sede en Singapur, que en agosto lanzó en Prime Video el drama histórico AI-generated “Castle Walls”, presentado como la primera serie hecha de principio a fin con IA que llega a una gran plataforma global de streaming. Con “Çukur: Vartolu”, según la compañía, lleva ese enfoque AI-native “de una historia original a una franquicia dramática consolidada”."
+                "x": "Claude Motion, ahora en beta en los planes Claude Team y Enterprise, ayuda a explicar mejor las ideas al añadirles movimiento. Claude crea una animación a partir de tu prompt y esta se reproduce como un video corto. El anuncio de Anthropic destacó que cualquier cliente puede llevar Claude Motion más lejos al abrirlo en Luma para crear el estilo visual, los planos y versiones ampliadas que se reproducen en cualquier pantalla. Luma aplica sus modelos de generación de video Ray y Uni a las animaciones de Claude Motion para ayudar a los creadores a entregar archivos de video finales."
               },
               {
                 "t": "p",
-                "x": "Según Ay Yapim, “Çukur” se ha emitido en televisión abierta en 105 países desde su estreno en 2017, y su canal oficial de YouTube supera los 6.400 millones de visualizaciones acumuladas. El spin-off se centra en la infancia y las decisiones que forjaron a Vartolu Sadettin, el hijo ilegítimo de la familia Koçovalı, y se mueve entre Doğubeyazıt, en el este de Türkiye, y un enfrentamiento posterior en Istanbul."
-              },
-              {
-                "t": "p",
-                "x": "“Cada fotograma de la película se generó con IA, desde los rostros de los personajes hasta cada escenario”, señaló el comunicado de Ay Yapim. Sin embargo, “la actuación es humana: los actores interpretaron las escenas y la IA generó los personajes sobre su movimiento, ritmo y expresión. Todos los diálogos fueron grabados por actores de voz humanos”."
+                "x": "Cómo usarlos juntos: usa Claude Motion para convertir un prompt en un video explicativo animado; añade el conector de Luma en Claude; tu animación aparece en Luma como video. Dentro de Luma puedes cambiar el estilo visual mientras se mantiene el movimiento, reencuadrarla a 9:16, 1:1, 4:3 o 21:9, o pedir al agente de Luma que haga versiones adicionales."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Prime Video가\nAI-made 영화 확보",
-          "body": "Prime Video가 'The Pit' 스핀오프 AI 영화 세계 판권을 샀다.",
-          "mini_headline": "Prime Video, AI-made 영화 구매",
+          "headline": "Claude Motion,\nLuma에서 바로 열린다",
+          "body": "Claude Motion 애니메이션을 Luma에서 어떤 형식의 영상으로도 만든다.",
+          "mini_headline": "Claude Motion, Luma에서 열린다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Claude Motion 애니메이션을 이제 Luma에서 열 수 있다. 크리에이터는 Luma에서 움직이는 아이디어를 어떤 형식의 영상으로도 만든다."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-                "cap": "Çukur:Vartolu. 사진 제공 AI Yapim"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
               },
               {
                 "t": "p",
-                "x": "Prime Video가 튀르키예 TV 업계 강자 Ay Yapim의 AI 영화 “Çukur: Vartolu”의 전 세계 판권을 확보했다. 이 작품은 해외에서 “The Pit”으로 알려진 히트 시리즈 “Çukur”의 스핀오프다."
+                "x": "SAN FRANCISCO, Calif. — Luma는 오늘 Claude Motion 애니메이션을 Luma에서 바로 열 수 있게 됐다고 발표했다. 크리에이터는 이를 확장하고 다듬어 어떤 에셋 형식으로든 다시 구성할 수 있다. 이제 Claude에서 만든 애니메이션 설명 영상을 MCP 연결로 Luma에 가져와, 원하는 바를 에이전트에게 말하기만 하면 어떤 형식으로든 다시 만들 수 있다. Claude Motion은 텍스트, 차트, 도형, 이미지를 움직이는 코드를 작성해 아이디어에 움직임을 주고, Luma는 그 움직임을 최종 영상 결과물로 완성한다."
               },
               {
                 "t": "p",
-                "x": "영화는 Ay Yapim의 싱가포르 기반 AI 스튜디오 AI Yapim이 제작한다. AI Yapim은 8월 AI-generated 사극 “Castle Walls”를 Prime Video에서 공개했고, 이 작품은 처음부터 끝까지 AI로 만들어 주요 글로벌 스트리머에 오른 첫 시리즈로 소개됐다. 회사는 “Çukur: Vartolu”로 그 AI-native 방식을 “오리지널 스토리에서 기존 드라마 프랜차이즈로” 넓힌다고 밝혔다."
+                "x": "Claude Motion은 현재 Claude Team과 Enterprise 플랜에서 베타로 제공되며, 움직임을 더해 아이디어를 더 잘 설명하도록 돕는다. Claude는 프롬프트로 애니메이션을 만들고, 이 애니메이션은 짧은 영상처럼 재생된다. Anthropic은 발표에서 어떤 고객이든 Claude Motion을 Luma에서 열어 룩과 숏, 모든 화면에서 재생할 수 있는 확장 버전을 만들며 한 단계 더 나아갈 수 있다고 강조했다. Luma는 Ray와 Uni 영상 생성 모델을 Claude Motion 애니메이션에 적용해 크리에이터가 최종 영상 파일을 내놓도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "Ay Yapim에 따르면 “Çukur”는 2017년 첫 방송 이후 105개국의 무료 지상파 TV에서 방영됐고, 공식 YouTube 채널 누적 조회수는 64억 회를 넘었다. 스핀오프는 Koçovalı 가문의 서자 Vartolu Sadettin의 어린 시절과 그를 만든 선택을 다루며, Türkiye 동부 Doğubeyazıt와 이후 Istanbul에서 벌어지는 대결을 오간다."
-              },
-              {
-                "t": "p",
-                "x": "Ay Yapim은 성명에서 “인물의 얼굴부터 모든 배경까지 영화의 모든 프레임을 AI로 생성했다”고 밝혔다. 다만 “연기는 사람이 했다. 배우들이 장면을 연기했고, AI는 그들의 움직임과 타이밍, 표정 위에 캐릭터를 생성했다. 모든 대사는 성우가 녹음했다”고 덧붙였다."
+                "x": "함께 쓰는 방법은 이렇다. Claude Motion으로 프롬프트를 애니메이션 설명 영상으로 만들고, Claude에 Luma 커넥터를 추가하면 애니메이션이 Luma에 영상으로 나타난다. Luma 안에서는 움직임을 유지한 채 룩을 바꾸거나, 9:16, 1:1, 4:3, 21:9로 화면비를 바꾸거나, Luma 에이전트에게 추가 버전을 요청할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Prime Videoが\nAI-made映画の権利取得",
-          "body": "Prime Videoが「The Pit」派生のAI映画の全世界権利を得た。",
-          "mini_headline": "Prime Video、AI-made映画を獲得",
+          "headline": "Claude Motionが\nLumaで直接開ける",
+          "body": "Claude MotionのアニメーションをLumaで開き、あらゆる形式の動画にできる。",
+          "mini_headline": "Claude MotionがLumaで開ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Claude MotionのアニメーションがLumaで開けるようになった。クリエイターは動きのあるアイデアを、Lumaであらゆる形式の動画に仕上げられる。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-                "cap": "Çukur:Vartolu。提供：AI Yapim"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
               },
               {
                 "t": "p",
-                "x": "Prime Videoは、トルコのテレビ大手Ay YapimのAI映画「Çukur: Vartolu」の全世界での権利を取得した。同作は、海外では「The Pit」として知られるヒットシリーズ「Çukur」のスピンオフである。"
+                "x": "SAN FRANCISCO, Calif. — Lumaは本日、Claude MotionのアニメーションをLumaで直接開けるようになったと発表した。クリエイターはそれを拡張し、磨き上げ、あらゆるアセット出力に合わせて再構成できる。Claudeで作ったアニメーション解説をMCP接続でLumaに取り込み、エージェントに望みを伝えるだけで、どんな形式にも作り直せる。Claude Motionはテキスト、チャート、図形、画像を動かすコードを書いてアイデアに動きを与え、Lumaはその動きを最終的な動画に仕上げる。"
               },
               {
                 "t": "p",
-                "x": "製作はAy Yapimのシンガポール拠点のAIスタジオAI Yapimが担う。同スタジオは8月、AI-generatedの歴史ドラマ「Castle Walls」をPrime Videoで公開しており、同作は全工程をAIで制作し大手グローバル配信サービスに登場した初の番組とうたわれた。同社によれば、「Çukur: Vartolu」でそのAI-nativeな手法を「オリジナルの物語から、確立されたドラマフランチャイズへ」広げるという。"
+                "x": "Claude Motionは現在Claude TeamとEnterpriseプランでベータ提供されており、動きを加えることでアイデアをよりわかりやすく伝える手助けをする。Claudeはプロンプトからアニメーションを作り、それは短い動画のように再生される。Anthropicの発表は、どの顧客もClaude MotionをLumaで開き、ルックやショット、あらゆる画面で再生できる拡張版を作ることで、さらに先へ進められると強調した。LumaはRayとUniの動画生成モデルをClaude Motionのアニメーションに適用し、クリエイターが最終的な動画ファイルを届けられるよう支える。"
               },
               {
                 "t": "p",
-                "x": "Ay Yapimによると、「Çukur」は2017年の初放送以来105カ国の無料地上波で放送され、公式YouTubeチャンネルの累計再生回数は64億回を超えた。スピンオフは、Koçovalı家の非嫡出子Vartolu Sadettinの幼少期と彼を形づくった選択に焦点を当て、Türkiye東部のDoğubeyazıtと、その後のIstanbulでの対決とを行き来する。"
-              },
-              {
-                "t": "p",
-                "x": "Ay Yapimは声明で「登場人物の顔からあらゆる舞台まで、映画のすべてのフレームをAIで生成した」と述べた。ただし「演技は人間によるものだ。俳優が場面を演じ、AIは彼らの動き、間合い、表情の上にキャラクターを生成した。台詞はすべて人間の声優が収録した」という。"
+                "x": "併用の手順はこうだ。Claude Motionでプロンプトをアニメーション解説にし、ClaudeにLumaコネクタを追加すると、アニメーションが動画としてLumaに表示される。Luma内では動きを保ったままルックを変えたり、9:16、1:1、4:3、21:9に再フレーミングしたり、Lumaエージェントに追加バージョンを作らせたりできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Prime Video拿下\nAI-made电影全球版权",
-          "body": "Prime Video获得土耳其热剧《The Pit》衍生AI电影的全球版权。",
-          "mini_headline": "Prime Video购入AI-made电影",
+          "headline": "Claude Motion\n可直接在Luma打开",
+          "body": "Claude Motion动画现可直接在Luma打开，创作者可将其制成任意格式的视频。",
+          "mini_headline": "Claude Motion登陆Luma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Claude Motion动画现在可以在Luma中打开，创作者可在Luma将动态构思制作成任意格式的视频。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-                "cap": "Çukur:Vartolu。图片由AI Yapim提供"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
               },
               {
                 "t": "p",
-                "x": "Prime Video已取得土耳其电视巨头Ay Yapim旗下AI电影《Çukur: Vartolu》的全球版权。该片衍生自其热门剧集《Çukur》，该剧在国际上以《The Pit》之名为人所知。"
+                "x": "SAN FRANCISCO, Calif. — Luma今日宣布，Claude Motion动画现可直接在Luma中打开，供创作者扩展、打磨并重新构图为任意素材输出。创作者如今可通过MCP连接，把在Claude中制作的动画讲解带入Luma，只需告诉智能体想要什么，就能以任意格式重新制作。Claude Motion通过编写让文字、图表、形状和图像动起来的代码，让构思动起来；Luma则把这些动态制成最终视频成品。"
               },
               {
                 "t": "p",
-                "x": "影片由Ay Yapim位于新加坡的AI工作室AI Yapim制作。该工作室8月在Prime Video推出AI-generated历史剧《Castle Walls》，被称为首部完全由AI制作并登陆大型全球流媒体平台的剧集。公司表示，借助《Çukur: Vartolu》，它将这种AI-native方式“从原创故事延伸到成熟的剧集系列”。"
+                "x": "Claude Motion目前在Claude Team和Enterprise方案中以测试版提供，通过加入动态帮助用户更好地阐释想法。Claude根据提示词生成动画，播放起来就像一段短视频。Anthropic在公告中强调，任何客户都可以在Luma中打开Claude Motion，进一步打造画面风格、镜头以及可在各类屏幕播放的扩展版本。Luma将Ray和Uni视频生成模型引入Claude Motion动画，帮助创作者交付最终视频文件。"
               },
               {
                 "t": "p",
-                "x": "据Ay Yapim介绍，《Çukur》自2017年首播以来已在105个国家的免费电视台播出，其官方YouTube频道累计观看次数已超过64亿次。这部衍生作聚焦Koçovalı家族私生子Vartolu Sadettin的童年及塑造他的种种选择，场景在Türkiye东部的Doğubeyazıt与后来在Istanbul的对决之间切换。"
-              },
-              {
-                "t": "p",
-                "x": "Ay Yapim在声明中表示：“影片的每一帧都由AI生成，从角色的面孔到每一处场景。”不过，“表演出自真人：演员们演绎了这些场景，AI则在他们的动作、节奏和表情之上生成角色。所有对白均由真人配音演员录制。”"
+                "x": "两者配合使用的方法：用Claude Motion把提示词变成动画讲解；在Claude中添加Luma连接器；动画便会以视频形式出现在Luma中。在Luma里，你可以在保留动态的同时更换画面风格，将画幅调整为9:16、1:1、4:3或21:9，或让Luma智能体制作更多版本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prime Video, derechos globales\nde 'Çukur:Vartolu' (AI-made)",
-          "body": "Prime Video compró los derechos mundiales de una película hecha con IA, derivada de la serie turca 'The Pit'.",
-          "mini_headline": "Prime Video compra un filme AI-made",
+          "headline": "Las animaciones de Claude Motion\nya se abren en Luma",
+          "body": "Las animaciones de Claude Motion ya se abren en Luma, donde los creadores las llevan a video en cualquier formato.",
+          "mini_headline": "Claude Motion se abre en Luma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Las animaciones de Claude Motion ya se abren en Luma, donde los creadores convierten una idea en movimiento en un video de cualquier formato."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
-                "cap": "Çukur:Vartolu. Cortesía de AI Yapim"
+                "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
               },
               {
                 "t": "p",
-                "x": "Prime Video adquirió los derechos globales de “Çukur: Vartolu”, la película de IA de la potencia televisiva turca Ay Yapim, un spin-off de su exitosa serie “Çukur”, conocida internacionalmente como “The Pit”."
+                "x": "SAN FRANCISCO, Calif. — Luma anunció hoy que las animaciones de Claude Motion ya se abren directamente en Luma, listas para que los creadores las amplíen, las pulan y las reencuadren para cualquier formato de salida. Ahora los creadores pueden llevar a Luma un video explicativo animado hecho en Claude mediante una conexión MCP y recrearlo en cualquier formato con solo decirle al agente lo que quieren. Claude Motion pone una idea en movimiento escribiendo código que anima texto, gráficos, formas e imágenes, y Luma convierte ese movimiento en un video final."
               },
               {
                 "t": "p",
-                "x": "La película se produce en AI Yapim, el estudio de IA de Ay Yapim con sede en Singapur, que en agosto lanzó en Prime Video el drama histórico AI-generated “Castle Walls”, presentado como la primera serie hecha de principio a fin con IA que llega a una gran plataforma global de streaming. Con “Çukur: Vartolu”, según la compañía, lleva ese enfoque AI-native “de una historia original a una franquicia dramática consolidada”."
+                "x": "Claude Motion, ahora en beta en los planes Claude Team y Enterprise, ayuda a explicar mejor las ideas al añadirles movimiento. Claude crea una animación a partir de tu prompt y esta se reproduce como un video corto. El anuncio de Anthropic destacó que cualquier cliente puede llevar Claude Motion más lejos al abrirlo en Luma para crear el estilo visual, los planos y versiones ampliadas que se reproducen en cualquier pantalla. Luma aplica sus modelos de generación de video Ray y Uni a las animaciones de Claude Motion para ayudar a los creadores a entregar archivos de video finales."
               },
               {
                 "t": "p",
-                "x": "Según Ay Yapim, “Çukur” se ha emitido en televisión abierta en 105 países desde su estreno en 2017, y su canal oficial de YouTube supera los 6.400 millones de visualizaciones acumuladas. El spin-off se centra en la infancia y las decisiones que forjaron a Vartolu Sadettin, el hijo ilegítimo de la familia Koçovalı, y se mueve entre Doğubeyazıt, en el este de Türkiye, y un enfrentamiento posterior en Istanbul."
-              },
-              {
-                "t": "p",
-                "x": "“Cada fotograma de la película se generó con IA, desde los rostros de los personajes hasta cada escenario”, señaló el comunicado de Ay Yapim. Sin embargo, “la actuación es humana: los actores interpretaron las escenas y la IA generó los personajes sobre su movimiento, ritmo y expresión. Todos los diálogos fueron grabados por actores de voz humanos”."
+                "x": "Cómo usarlos juntos: usa Claude Motion para convertir un prompt en un video explicativo animado; añade el conector de Luma en Claude; tu animación aparece en Luma como video. Dentro de Luma puedes cambiar el estilo visual mientras se mantiene el movimiento, reencuadrarla a 9:16, 1:1, 4:3 o 21:9, o pedir al agente de Luma que haga versiones adicionales."
               }
             ]
           }
@@ -325,377 +315,15 @@
       }
     },
     {
-      "id": "cage-spider-noir-ai-waiver",
+      "id": "overstake-genai-rebuild-cappu-busan",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Spider-Noir서\nCage, AI 동의 거부",
-      "body": "Nicolas Cage는 'Spider-Noir' AI 동의서에 서명하지 않았다.",
-      "mini_headline": "Cage, Spider-Noir AI 동의 거부",
-      "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-            "cap": "Nicolas Cage. Earl Gibson III/Deadline"
-          },
-          {
-            "t": "p",
-            "x": "Nicolas Cage가 New York Comic-Con 관객 앞에서 소문대로 HBO True Detective 한 시즌에 나올 가능성이 크다고 말했다. Spider-Noir를 공개한 Prime Video와 다시 일할 가능성은 낮다고 했다. Amazon이 “매우 AI-friendly”하다는 게 이유였다."
-          },
-          {
-            "t": "p",
-            "x": "영화 Perish를 작업 중인 Cage는 “True Detective 한 시즌을 할 수도 있을 것 같다. 제가 처음 발표하는 거, OK죠?”라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Cage는 AI가 달갑지 않다. Prime Video Spider-Noir 단독 시즌에 출연 계약을 하면서도 AI 동의서에는 서명하지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "Cage는 “AI 시대에 어떻게 살아남느냐”며 “Amazon은 OpenAI에 50 billion 달러를 투자할 만큼 매우 AI-friendly한 회사다. 나는 AI-friendly한 배우가 아니다…. 그들 클럽의 회원이 아니다. Spider-Noir에 AI를 쓰도록 허용하는 동의서에 서명하지 않았다. 아마 그 스튜디오와 다시 일하지는 않겠지만 괜찮다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Cage는 “자기만의 방식으로 해 나가는” 젊은 Gen Z 감독들과 일하고 싶다고도 했다. “그들은 처음부터 손으로 직접 만든다”며 “나는 거기에 함께하고 싶다”고 했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Nicolas Cage refused an AI\nwaiver for 'Spider-Noir'",
-          "body": "Nicolas Cage said he refused an AI waiver for 'Spider-Noir' and probably won't work with 'AI-friendly' Amazon again.",
-          "mini_headline": "Cage refuses AI waiver",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
-              },
-              {
-                "t": "p",
-                "x": "Nicolas Cage told a New York Comic-Con audience that, yes, he’s likely to do a season of HBO’s True Detective, as rumored, and no, he’s not likely to work again with Spider-Noir streamer Prime Video because Amazon is “very AI-friendly.”"
-              },
-              {
-                "t": "p",
-                "x": "“I think I might do a season of True Detective. That’s OK that I’m the first to announce that, right?” said Cage, who is currently at work on the film Perish."
-              },
-              {
-                "t": "p",
-                "x": "As for AI, Cage is no fan. He wouldn’t sign an AI waiver when he signed up for the sole season of Prime Video’s Spider-Noir."
-              },
-              {
-                "t": "p",
-                "x": "“How do you survive AI?” Cage said. “Amazon is a very AI-friendly company to the tune of 50 billion dollars invested in OpenAI. I am not an AI-friendly actor….I’m not a member of their club. I didn’t sign the waiver to let them use AI on Spider-Noir. I’m probably not going to be working with that studio again, but that’s okay.”"
-              },
-              {
-                "t": "p",
-                "x": "Cage added that he’d prefer to work with young Gen Z directors who are “going at it their own way.” “They’re doing it from scratch and by hand,” he said. “I want to get with that.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Spider-Noir서\nCage, AI 동의 거부",
-          "body": "Nicolas Cage는 'Spider-Noir' AI 동의서에 서명하지 않았다.",
-          "mini_headline": "Cage, Spider-Noir AI 동의 거부",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
-              },
-              {
-                "t": "p",
-                "x": "Nicolas Cage가 New York Comic-Con 관객 앞에서 소문대로 HBO True Detective 한 시즌에 나올 가능성이 크다고 말했다. Spider-Noir를 공개한 Prime Video와 다시 일할 가능성은 낮다고 했다. Amazon이 “매우 AI-friendly”하다는 게 이유였다."
-              },
-              {
-                "t": "p",
-                "x": "영화 Perish를 작업 중인 Cage는 “True Detective 한 시즌을 할 수도 있을 것 같다. 제가 처음 발표하는 거, OK죠?”라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Cage는 AI가 달갑지 않다. Prime Video Spider-Noir 단독 시즌에 출연 계약을 하면서도 AI 동의서에는 서명하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Cage는 “AI 시대에 어떻게 살아남느냐”며 “Amazon은 OpenAI에 50 billion 달러를 투자할 만큼 매우 AI-friendly한 회사다. 나는 AI-friendly한 배우가 아니다…. 그들 클럽의 회원이 아니다. Spider-Noir에 AI를 쓰도록 허용하는 동의서에 서명하지 않았다. 아마 그 스튜디오와 다시 일하지는 않겠지만 괜찮다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Cage는 “자기만의 방식으로 해 나가는” 젊은 Gen Z 감독들과 일하고 싶다고도 했다. “그들은 처음부터 손으로 직접 만든다”며 “나는 거기에 함께하고 싶다”고 했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Spider-Noirで\nCageがAI免責を拒否",
-          "body": "Nicolas CageはSpider-NoirのAI免責書に署名しなかったと語った。",
-          "mini_headline": "Cage、Spider-NoirでAI免責拒否",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-                "cap": "Nicolas Cage。Earl Gibson III/Deadline"
-              },
-              {
-                "t": "p",
-                "x": "Nicolas CageはNew York Comic-Conの観客に対し、噂どおりHBOのTrue Detectiveのシーズンに出演する可能性が高いと語った。一方、Spider-Noirを配信するPrime Videoと再び仕事をする可能性は低いという。Amazonが「非常にAI-friendly」だからだ。"
-              },
-              {
-                "t": "p",
-                "x": "現在映画Perishに取り組んでいるCageは「True Detectiveのシーズンをやるかもしれない。最初に発表するのが私でもOKだよね？」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "CageはAIを好まない。Prime VideoのSpider-Noir唯一のシーズンへの出演契約の際も、AI免責書には署名しなかった。"
-              },
-              {
-                "t": "p",
-                "x": "「AIの中でどう生き残るのか」とCageは語った。「AmazonはOpenAIに50 billionドルを投資するほど、非常にAI-friendlyな企業だ。私はAI-friendlyな俳優ではない….彼らのクラブの一員ではない。Spider-NoirでAIを使うことを認める免責書には署名しなかった。あのスタジオとはおそらくもう仕事をしないだろうが、それで構わない」"
-              },
-              {
-                "t": "p",
-                "x": "Cageは、「自分たちのやり方で進んでいる」若いGen Zの監督たちと組みたいと付け加えた。「彼らはゼロから手作業で作っている。私はそこに加わりたい」と語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Spider-Noir中\nCage拒签AI豁免书",
-          "body": "Nicolas Cage称，他拒绝签署《Spider-Noir》的AI豁免书。",
-          "mini_headline": "Cage拒签Spider-Noir AI豁免书",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-                "cap": "Nicolas Cage。Earl Gibson III/Deadline"
-              },
-              {
-                "t": "p",
-                "x": "Nicolas Cage在New York Comic-Con上告诉观众，正如传闻所说，他很可能出演HBO《True Detective》的一季；但他不太可能再与播出《Spider-Noir》的Prime Video合作，因为Amazon“非常AI-friendly”。"
-              },
-              {
-                "t": "p",
-                "x": "正在拍摄电影《Perish》的Cage说：“我想我可能会出演一季《True Detective》。由我第一个宣布，OK吧？”"
-              },
-              {
-                "t": "p",
-                "x": "Cage并不喜欢AI。他签约出演Prime Video《Spider-Noir》仅有的一季时，没有签署AI豁免书。"
-              },
-              {
-                "t": "p",
-                "x": "“在AI面前怎么生存？”Cage说，“Amazon是一家非常AI-friendly的公司，向OpenAI投资了50 billion美元。我不是AI-friendly的演员….我不是他们俱乐部的一员。我没有签署允许他们在《Spider-Noir》上使用AI的豁免书。我大概不会再和那家公司合作了，但这没关系。”"
-              },
-              {
-                "t": "p",
-                "x": "Cage补充说，他更愿意和“走自己路子”的年轻Gen Z导演合作。“他们从零开始，亲手制作，”他说，“我想加入他们。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Nicolas Cage rechazó la cláusula\nde IA de 'Spider-Noir'",
-          "body": "Nicolas Cage dijo que rechazó la cláusula de IA de 'Spider-Noir' y que quizá no vuelva a trabajar con Amazon.",
-          "mini_headline": "Cage rechaza la cláusula de IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
-              },
-              {
-                "t": "p",
-                "x": "Nicolas Cage dijo al público de la New York Comic-Con que, sí, probablemente hará una temporada de True Detective de HBO, como se rumoreaba, y que no, probablemente no volverá a trabajar con Prime Video, la plataforma de Spider-Noir, porque Amazon es “muy AI-friendly”."
-              },
-              {
-                "t": "p",
-                "x": "“Creo que podría hacer una temporada de True Detective. Está OK que yo sea el primero en anunciarlo, ¿verdad?”, dijo Cage, que trabaja actualmente en la película Perish."
-              },
-              {
-                "t": "p",
-                "x": "En cuanto a la IA, Cage no es partidario. No quiso firmar una cláusula de IA cuando se sumó a la única temporada de Spider-Noir de Prime Video."
-              },
-              {
-                "t": "p",
-                "x": "“¿Cómo se sobrevive a la IA?”, dijo Cage. “Amazon es una empresa muy AI-friendly, hasta el punto de haber invertido 50 billion dólares en OpenAI. Yo no soy un actor AI-friendly….No soy miembro de su club. No firmé la cláusula para que usaran IA en Spider-Noir. Probablemente no vuelva a trabajar con ese estudio, pero está bien”."
-              },
-              {
-                "t": "p",
-                "x": "Cage añadió que prefiere trabajar con jóvenes directores de la Gen Z que “lo hacen a su manera”. “Lo hacen desde cero y a mano”, dijo. “Quiero sumarme a eso”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Spider-Noir서\nCage, AI 동의 거부",
-          "body": "Nicolas Cage는 'Spider-Noir' AI 동의서에 서명하지 않았다.",
-          "mini_headline": "Cage, Spider-Noir AI 동의 거부",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
-              },
-              {
-                "t": "p",
-                "x": "Nicolas Cage는 New York Comic-Con 관객들에게 소문대로 HBO의 True Detective 한 시즌에 출연할 가능성이 크다고 말했다. 반면 Spider-Noir를 공개한 Prime Video와는 다시 일할 가능성이 낮다고 했다. Amazon이 “매우 AI-friendly”하다는 이유다."
-              },
-              {
-                "t": "p",
-                "x": "현재 영화 Perish를 작업 중인 Cage는 “True Detective 한 시즌을 할 수도 있을 것 같다. 제가 처음 발표하는 거, OK죠?”라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Cage는 AI를 반기지 않는다. Prime Video의 Spider-Noir 단독 시즌에 출연 계약을 할 때도 AI 동의서에는 서명하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Cage는 “AI 시대에 어떻게 살아남느냐”며 “Amazon은 OpenAI에 50 billion 달러를 투자할 만큼 매우 AI-friendly한 회사다. 나는 AI-friendly한 배우가 아니다…. 그들 클럽의 회원이 아니다. Spider-Noir에 AI를 쓰도록 허용하는 동의서에 서명하지 않았다. 아마 그 스튜디오와 다시 일하지는 않겠지만 괜찮다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Cage는 “자기만의 방식으로 해 나가는” 젊은 Gen Z 감독들과 일하고 싶다고 덧붙였다. 그는 “그들은 처음부터 손으로 직접 만든다”며 “나는 거기에 함께하고 싶다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Spider-Noirで\nCageがAI免責を拒否",
-          "body": "Nicolas CageはSpider-NoirのAI免責書に署名しなかったと語った。",
-          "mini_headline": "Cage、Spider-NoirでAI免責拒否",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-                "cap": "Nicolas Cage。Earl Gibson III/Deadline"
-              },
-              {
-                "t": "p",
-                "x": "Nicolas CageはNew York Comic-Conの観客に対し、噂どおりHBOのTrue Detectiveのシーズンに出演する可能性が高いと語った。一方、Spider-Noirを配信するPrime Videoと再び仕事をする可能性は低いという。Amazonが「非常にAI-friendly」だからだ。"
-              },
-              {
-                "t": "p",
-                "x": "現在映画Perishに取り組んでいるCageは「True Detectiveのシーズンをやるかもしれない。最初に発表するのが私でもOKだよね？」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "CageはAIを好まない。Prime VideoのSpider-Noir唯一のシーズンへの出演契約の際も、AI免責書には署名しなかった。"
-              },
-              {
-                "t": "p",
-                "x": "「AIの中でどう生き残るのか」とCageは語った。「AmazonはOpenAIに50 billionドルを投資するほど、非常にAI-friendlyな企業だ。私はAI-friendlyな俳優ではない….彼らのクラブの一員ではない。Spider-NoirでAIを使うことを認める免責書には署名しなかった。あのスタジオとはおそらくもう仕事をしないだろうが、それで構わない」"
-              },
-              {
-                "t": "p",
-                "x": "Cageは、「自分たちのやり方で進んでいる」若いGen Zの監督たちと組みたいと付け加えた。「彼らはゼロから手作業で作っている。私はそこに加わりたい」と語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Spider-Noir中\nCage拒签AI豁免书",
-          "body": "Nicolas Cage称，他拒绝签署《Spider-Noir》的AI豁免书。",
-          "mini_headline": "Cage拒签Spider-Noir AI豁免书",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-                "cap": "Nicolas Cage。Earl Gibson III/Deadline"
-              },
-              {
-                "t": "p",
-                "x": "Nicolas Cage在New York Comic-Con上告诉观众，正如传闻所说，他很可能出演HBO《True Detective》的一季；但他不太可能再与播出《Spider-Noir》的Prime Video合作，因为Amazon“非常AI-friendly”。"
-              },
-              {
-                "t": "p",
-                "x": "正在拍摄电影《Perish》的Cage说：“我想我可能会出演一季《True Detective》。由我第一个宣布，OK吧？”"
-              },
-              {
-                "t": "p",
-                "x": "Cage并不喜欢AI。他签约出演Prime Video《Spider-Noir》仅有的一季时，没有签署AI豁免书。"
-              },
-              {
-                "t": "p",
-                "x": "“在AI面前怎么生存？”Cage说，“Amazon是一家非常AI-friendly的公司，向OpenAI投资了50 billion美元。我不是AI-friendly的演员….我不是他们俱乐部的一员。我没有签署允许他们在《Spider-Noir》上使用AI的豁免书。我大概不会再和那家公司合作了，但这没关系。”"
-              },
-              {
-                "t": "p",
-                "x": "Cage补充说，他更愿意和“走自己路子”的年轻Gen Z导演合作。“他们从零开始，亲手制作，”他说，“我想加入他们。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Nicolas Cage rechazó la cláusula\nde IA de 'Spider-Noir'",
-          "body": "Nicolas Cage dijo que rechazó la cláusula de IA de 'Spider-Noir' y que quizá no vuelva a trabajar con Amazon.",
-          "mini_headline": "Cage rechaza la cláusula de IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
-                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
-              },
-              {
-                "t": "p",
-                "x": "Nicolas Cage dijo al público de la New York Comic-Con que, sí, probablemente hará una temporada de True Detective de HBO, como se rumoreaba, y que no, probablemente no volverá a trabajar con Prime Video, la plataforma de Spider-Noir, porque Amazon es “muy AI-friendly”."
-              },
-              {
-                "t": "p",
-                "x": "“Creo que podría hacer una temporada de True Detective. Está OK que yo sea el primero en anunciarlo, ¿verdad?”, dijo Cage, que trabaja actualmente en la película Perish."
-              },
-              {
-                "t": "p",
-                "x": "En cuanto a la IA, Cage no es partidario. No quiso firmar una cláusula de IA cuando se sumó a la única temporada de Spider-Noir de Prime Video."
-              },
-              {
-                "t": "p",
-                "x": "“¿Cómo se sobrevive a la IA?”, dijo Cage. “Amazon es una empresa muy AI-friendly, hasta el punto de haber invertido 50 billion dólares en OpenAI. Yo no soy un actor AI-friendly….No soy miembro de su club. No firmé la cláusula para que usaran IA en Spider-Noir. Probablemente no vuelva a trabajar con ese estudio, pero está bien”."
-              },
-              {
-                "t": "p",
-                "x": "Cage añadió que prefiere trabajar con jóvenes directores de la Gen Z que “lo hacen a su manera”. “Lo hacen desde cero y a mano”, dijo. “Quiero sumarme a eso”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "eyeline-genfx-rustad-busan",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Netflix GenFX\nAI도 아티스트 판단 필요",
-      "body": "James Rustad는 AI VFX 샷도 결국 아티스트가 고른다고 말했다.",
-      "mini_headline": "Netflix GenFX, 결정은 아티스트 몫",
+      "headline": "Overstake, AI로\nBusan에서 판매사 확보",
+      "body": "Cappu Films가 AI로 다시 짓는 Overstake의 세계 판매를 맡는다.",
+      "mini_headline": "Overstake, AI로 다시 짓는다",
       "tool": "Movies",
       "source": "Variety",
-      "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
+      "url": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -703,203 +331,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-            "cap": "James Rustad. Lin Ying-Hsuan"
+            "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+            "cap": "Cappu Films"
           },
           {
             "t": "p",
-            "x": "Netflix 사내(in-house) VFX 스튜디오 Eyeline에서 GenFX 글로벌 총괄을 맡은 James Rustad는 생성형 AI가 시각효과 샷의 선택지를 넓혀 줄 수는 있어도, 그중 무엇이 이야기에 맞는지는 여전히 아티스트가 정한다고 말했다."
+            "x": "홍콩(Hong Kong)의 Cappu Films가 각본가 겸 감독 Stas Mareev의 SF 액션 스릴러 “Overstake”의 월드와이드 세일즈를 맡았다. 실사 촬영분에 생성형 AI로 다시 짓고 있는 배경을 입히는 작품이다. Cappu Films는 부산국제영화제(Busan International Film Festival) 아시아콘텐츠&필름마켓(Asian Contents & Film Market)에서 바이어들에게 작품을 선보이는 중이다."
           },
           {
             "t": "p",
-            "x": "Rustad는 부산국제영화제(Busan International Film Festival) 아시아콘텐츠&필름마켓(Asian Contents & Film Market)의 InnoAsia 세션에서 Netflix “Brazil ‘70: The Third Star”를 예로 들었다. 이 시리즈에 들어간 시각효과 샷은 1,300개가 넘고, 800개 이상이 축구장 장면이다."
+            "x": "영화는 부상당한 퇴역 군인이 목숨을 건 내기 게임에 뛰어드는 이야기다. 두 시간 안에 산업 도시를 가로질러 전처를 살려야 하는데, 낯선 사람들은 휴대폰으로 그를 구하거나 막으라는 제안을 받는다."
           },
           {
             "t": "p",
-            "x": "Rustad에 따르면 Eyeline은 아티스트 45명과 하이브리드 방식으로 일하며, 기존 특수효과 기법을 쓰는 공정에 생성형 도구를 더한다. 그는 “아티스트의 판단도 중요하다”고 말했다."
+            "x": "“‘Overstake’는 이미 연출한 영화로 돌아가, 예전의 우리로서는 불가능했던 규모로 그 세계를 다시 지을 기회입니다.” Mareev의 말이다. “연기와 이야기는 여전히 토대로 남고, 생성형 AI 덕분에 영화의 인간적인 핵심을 잃지 않으면서 배경과 액션, 시각 언어를 새로 구상할 수 있습니다.”"
           },
           {
             "t": "p",
-            "x": "그는 발표에서 생성형 AI 샷 워크플로를 설정, 내러티브, 룩, 납품 네 단계로 나눴다. 프롬프트 작성과 레퍼런스 수집, 초기 테스트로 선택지를 마련하고 결과물을 이야기에 비춰 평가한다. 이어 조명, 장면 디테일, 시대 고증 같은 시각적 다듬기를 거쳐 합성, 업스케일링, 비트 심도(bit-depth) 점검, 기술 검수로 이뤄진 납품 단계로 넘어간다."
-          },
-          {
-            "t": "p",
-            "x": "내러티브 단계는 “가능한 것”에서 “이야기에 맞는 것”으로 옮겨 가는 과정이고, 아티스트의 판단이 들어가는 곳도 여기다. AI가 생성한(AI-generated) 결과물 가운데 무엇을 완성 샷으로 삼을지 고르는 일이다."
+            "x": "AI 작업이 아직 진행 중이라 부산의 바이어들은 프로모 영상과 완성된 시퀀스 몇 편을 보게 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Netflix GenFX chief says AI\nstill needs artists' judgment",
-          "body": "At Busan, Eyeline's James Rustad said artists still decide which AI-generated VFX shots serve the story.",
-          "mini_headline": "Netflix GenFX: artists decide",
+          "headline": "Overstake gets an AI rebuild\nand a sales agent at Busan",
+          "body": "Cappu Films boards worldwide sales on Overstake, a live-action sci-fi thriller whose world is being rebuilt with AI.",
+          "mini_headline": "Overstake gets an AI rebuild",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-                "cap": "James Rustad. Lin Ying-Hsuan"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+                "cap": "Cappu Films"
               },
               {
                 "t": "p",
-                "x": "Generative AI can widen the options for a visual effects shot, but artists still decide which of them serve the story, according to James Rustad, global head of GenFX at Eyeline, Netflix’s in-house VFX studio."
+                "x": "Hong Kong’s Cappu Films has signed on as worldwide sales agent for “Overstake,” a sci-fi action thriller from writer-director Stas Mareev that pairs a live-action shoot with settings being rebuilt through generative AI. The sales company is introducing the title to buyers at the Busan International Film Festival’s Asian Contents & Film Market."
               },
               {
                 "t": "p",
-                "x": "Rustad spoke at an InnoAsia session at the Busan International Film Festival’s Asian Contents & Film Market, using Netflix’s “Brazil ‘70: The Third Star” as a reference point. The series features more than 1,300 visual effects shots, including over 800 set on the soccer field."
+                "x": "In the film, a wounded veteran joins a deadly betting game: he has two hours to cross an industrial city and keep his ex-wife alive, while strangers get offers on their phones to save him or stop him."
               },
               {
                 "t": "p",
-                "x": "Eyeline works with 45 artists on a hybrid approach, Rustad said, bringing generative tools into a process that also draws on established effects techniques. “Artists’ judgments are also important,” he said."
+                "x": "“‘Overstake’ is a chance to return to a film I already directed and rebuild its world at a scale that was impossible for us before,” Mareev said. “The performances and story remain the foundation, while generative AI allows me to rethink the environments, action and visual language without losing the human core of the film.”"
               },
               {
                 "t": "p",
-                "x": "His presentation mapped four stages of a generative AI shot workflow: setup, narrative, look and delivery. Prompts, reference gathering and initial tests establish the options; results are assessed against the story, then move through visual refinement — lighting, scene details, period accuracy — and delivery: compositing, upscaling, bit-depth checks and technical review."
-              },
-              {
-                "t": "p",
-                "x": "The narrative step moves from “what’s possible” to “what works for the story.” That is where artists’ judgment comes in: selecting which generated results should become finished shots."
+                "x": "The AI work is still in progress, so buyers in Busan will see a promo along with a handful of finished sequences."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Netflix GenFX\nAI도 아티스트 판단 필요",
-          "body": "James Rustad는 AI VFX 샷도 결국 아티스트가 고른다고 말했다.",
-          "mini_headline": "Netflix GenFX, 결정은 아티스트 몫",
+          "headline": "Overstake, AI로\nBusan에서 판매사 확보",
+          "body": "Cappu Films가 AI로 다시 짓는 Overstake의 세계 판매를 맡는다.",
+          "mini_headline": "Overstake, AI로 다시 짓는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-                "cap": "James Rustad. Lin Ying-Hsuan"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+                "cap": "Cappu Films"
               },
               {
                 "t": "p",
-                "x": "Netflix 사내(in-house) VFX 스튜디오 Eyeline에서 GenFX 글로벌 총괄을 맡은 James Rustad는 생성형 AI가 시각효과 샷의 선택지를 넓혀 줄 수는 있어도, 그중 무엇이 이야기에 맞는지는 여전히 아티스트가 정한다고 말했다."
+                "x": "홍콩(Hong Kong)의 Cappu Films가 각본가 겸 감독 Stas Mareev의 SF 액션 스릴러 “Overstake”의 월드와이드 세일즈를 맡았다. 실사 촬영분에 생성형 AI로 다시 짓고 있는 배경을 입히는 작품이다. Cappu Films는 부산국제영화제(Busan International Film Festival) 아시아콘텐츠&필름마켓(Asian Contents & Film Market)에서 바이어들에게 작품을 선보이는 중이다."
               },
               {
                 "t": "p",
-                "x": "Rustad는 부산국제영화제(Busan International Film Festival) 아시아콘텐츠&필름마켓(Asian Contents & Film Market)의 InnoAsia 세션에서 Netflix “Brazil ‘70: The Third Star”를 예로 들었다. 이 시리즈에 들어간 시각효과 샷은 1,300개가 넘고, 800개 이상이 축구장 장면이다."
+                "x": "영화는 부상당한 퇴역 군인이 목숨을 건 내기 게임에 뛰어드는 이야기다. 두 시간 안에 산업 도시를 가로질러 전처를 살려야 하는데, 낯선 사람들은 휴대폰으로 그를 구하거나 막으라는 제안을 받는다."
               },
               {
                 "t": "p",
-                "x": "Rustad에 따르면 Eyeline은 아티스트 45명과 하이브리드 방식으로 일하며, 기존 특수효과 기법을 쓰는 공정에 생성형 도구를 더한다. 그는 “아티스트의 판단도 중요하다”고 말했다."
+                "x": "“‘Overstake’는 이미 연출한 영화로 돌아가, 예전의 우리로서는 불가능했던 규모로 그 세계를 다시 지을 기회입니다.” Mareev의 말이다. “연기와 이야기는 여전히 토대로 남고, 생성형 AI 덕분에 영화의 인간적인 핵심을 잃지 않으면서 배경과 액션, 시각 언어를 새로 구상할 수 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "그는 발표에서 생성형 AI 샷 워크플로를 설정, 내러티브, 룩, 납품 네 단계로 나눴다. 프롬프트 작성과 레퍼런스 수집, 초기 테스트로 선택지를 마련하고 결과물을 이야기에 비춰 평가한다. 이어 조명, 장면 디테일, 시대 고증 같은 시각적 다듬기를 거쳐 합성, 업스케일링, 비트 심도(bit-depth) 점검, 기술 검수로 이뤄진 납품 단계로 넘어간다."
-              },
-              {
-                "t": "p",
-                "x": "내러티브 단계는 “가능한 것”에서 “이야기에 맞는 것”으로 옮겨 가는 과정이고, 아티스트의 판단이 들어가는 곳도 여기다. AI가 생성한(AI-generated) 결과물 가운데 무엇을 완성 샷으로 삼을지 고르는 일이다."
+                "x": "AI 작업이 아직 진행 중이라 부산의 바이어들은 프로모 영상과 완성된 시퀀스 몇 편을 보게 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Netflix GenFX\nAIにもアーティストの判断",
-          "body": "James RustadはAI生成のVFXショットも選ぶのはアーティストだと語った。",
-          "mini_headline": "Netflix GenFX、決めるのはアーティスト",
+          "headline": "OverstakeをAIで\n再構築、Busanで販売へ",
+          "body": "Cappu FilmsがAIで再構築するOverstakeの世界販売を担う。",
+          "mini_headline": "OverstakeをAIで再構築",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-                "cap": "James Rustad。Lin Ying-Hsuan"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+                "cap": "Cappu Films"
               },
               {
                 "t": "p",
-                "x": "Netflixの社内(in-house)VFXスタジオEyelineでGenFXのグローバル責任者を務めるJames Rustadによれば、生成AIは視覚効果ショットの選択肢を広げられるが、どれが物語に資するかを決めるのは依然としてアーティストだという。"
+                "x": "香港（Hong Kong）のCappu Filmsが、脚本・監督Stas MareevによるSFアクションスリラー「Overstake」のワールドワイドセールスを担うことになった。実写撮影に、生成AIで再構築中の舞台設定を組み合わせた作品だ。同社は釜山国際映画祭（Busan International Film Festival）のアジアコンテンツ＆フィルムマーケット（Asian Contents & Film Market）でバイヤーに本作を紹介している。"
               },
               {
                 "t": "p",
-                "x": "Rustadは釜山国際映画祭(Busan International Film Festival)のアジアコンテンツ&フィルムマーケット(Asian Contents & Film Market)で開かれたInnoAsiaセッションに登壇し、Netflixの「Brazil ‘70: The Third Star」を例に挙げた。同シリーズには1,300を超える視覚効果ショットがあり、そのうち800以上がサッカー場の場面だ。"
+                "x": "物語では、負傷した退役軍人が命がけの賭けゲームに加わる。彼は二時間で工業都市を横断し、元妻を生かし続けなければならない。その間、見知らぬ人々のスマートフォンには、彼を救うか阻止するかの依頼が届く。"
               },
               {
                 "t": "p",
-                "x": "Rustadによると、Eyelineは45人のアーティストとハイブリッドな手法で取り組んでおり、従来の特殊効果技術も用いる工程に生成ツールを組み込んでいる。「アーティストの判断も重要だ」と彼は述べた。"
+                "x": "「『Overstake』は、すでに監督した作品に立ち返り、以前の私たちには不可能だった規模でその世界を再構築する機会だ」とMareevは語った。「演技と物語は土台のまま残り、生成AIによって、作品の人間的な核を失うことなく、環境やアクション、視覚言語を考え直すことができる」"
               },
               {
                 "t": "p",
-                "x": "発表では、生成AIによるショット制作のワークフローを、セットアップ、ナラティブ、ルック、デリバリーの四段階に整理した。プロンプト、参考資料の収集、初期テストで選択肢を用意し、結果を物語に照らして評価したうえで、照明、シーンの細部、時代考証といった視覚的な仕上げを経て、合成、アップスケーリング、ビット深度(bit-depth)の確認、技術レビューからなるデリバリーへ進む。"
-              },
-              {
-                "t": "p",
-                "x": "ナラティブの段階では「何が可能か」から「何が物語に合うか」へと視点が移る。アーティストの判断が生きるのはここで、AIが生成した(AI-generated)結果のうちどれを完成ショットにするかを選ぶ。"
+                "x": "AI作業はまだ進行中のため、釜山のバイヤーはプロモ映像と、完成したシーケンスをいくつか見ることになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Netflix GenFX\nAI仍需艺术家判断",
-          "body": "Eyeline的James Rustad在釜山表示,AI生成的VFX镜头仍由艺术家挑选。",
-          "mini_headline": "Netflix GenFX:由艺术家决定",
+          "headline": "Overstake用AI重建\n并在Busan获销售代理",
+          "body": "Cappu Films接手Overstake全球销售，这部实拍科幻惊悚片正用AI重建世界。",
+          "mini_headline": "Overstake用AI重建",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-                "cap": "James Rustad。Lin Ying-Hsuan"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+                "cap": "Cappu Films"
               },
               {
                 "t": "p",
-                "x": "Netflix内部(in-house)VFX工作室Eyeline的GenFX全球负责人James Rustad表示,生成式AI可以拓宽视效镜头的选择,但哪些选择服务于故事,仍由艺术家决定。"
+                "x": "香港（Hong Kong）公司Cappu Films已签约担任编剧兼导演Stas Mareev的科幻动作惊悚片《Overstake》的全球销售代理。该片将实拍素材与正在用生成式AI重建的场景相结合。这家销售公司正在釜山国际电影节（Busan International Film Festival）亚洲内容与电影市场（Asian Contents & Film Market）上向买家推介该片。"
               },
               {
                 "t": "p",
-                "x": "Rustad在釜山国际电影节(Busan International Film Festival)亚洲内容与电影市场(Asian Contents & Film Market)的InnoAsia环节发言,以Netflix的《Brazil ‘70: The Third Star》为例。该剧包含1,300多个视效镜头,其中800多个发生在足球场上。"
+                "x": "片中，一名负伤的退伍老兵加入了一场致命的赌局：他必须在两个小时内穿越一座工业城市，保住前妻的性命，而陌生人则会在手机上收到救他或阻止他的报价。"
               },
               {
                 "t": "p",
-                "x": "Rustad说,Eyeline与45名艺术家采用混合方式工作,把生成式工具引入同样运用成熟特效技术的流程。他说:“艺术家的判断同样重要。”"
+                "x": "“《Overstake》让我有机会回到一部自己已经执导过的电影，以我们过去无法企及的规模重建它的世界，”Mareev说，“表演和故事依然是根基，而生成式AI让我能够重新构想场景、动作和视觉语言，同时不丢失影片以人为本的内核。”"
               },
               {
                 "t": "p",
-                "x": "他的演讲将生成式AI镜头工作流程分为四个阶段:设定、叙事、视觉风格和交付。提示词、参考资料收集和初步测试确定可选方案;随后对照故事评估结果,再进入灯光、场景细节、时代准确性等视觉打磨,最后是交付:合成、放大、位深(bit-depth)检查和技术审查。"
-              },
-              {
-                "t": "p",
-                "x": "叙事阶段是从“什么是可能的”转向“什么适合故事”。艺术家的判断正是在这里发挥作用:从AI生成(AI-generated)的结果中挑选哪些应成为最终镜头。"
+                "x": "AI制作仍在进行中，因此釜山的买家将看到一段宣传片和几段已完成的片段。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jefe de GenFX de Netflix: la IA\naún requiere criterio artístico",
-          "body": "En Busan, James Rustad, de Eyeline, dijo que los artistas aún eligen qué tomas VFX hechas con IA sirven a la historia.",
-          "mini_headline": "Netflix GenFX: deciden los artistas",
+          "headline": "Overstake se rehace con AI\ny suma agente de ventas en Busan",
+          "body": "Cappu Films asume las ventas mundiales de Overstake, un thriller de ciencia ficción cuyo mundo se rehace con AI.",
+          "mini_headline": "Overstake se rehace con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-                "cap": "James Rustad. Lin Ying-Hsuan"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+                "cap": "Cappu Films"
               },
               {
                 "t": "p",
-                "x": "La IA generativa (generative AI) puede ampliar las opciones para una toma de efectos visuales, pero los artistas siguen decidiendo cuáles sirven a la historia, según James Rustad, responsable global de GenFX en Eyeline, el estudio de VFX interno (in-house) de Netflix."
+                "x": "La compañía de Hong Kong Cappu Films se ha sumado como agente de ventas internacionales de “Overstake”, un thriller de acción y ciencia ficción del guionista y director Stas Mareev que combina un rodaje de imagen real con escenarios que se están reconstruyendo mediante AI generativa. La empresa de ventas presenta el título a los compradores en el Asian Contents & Film Market del Busan International Film Festival."
               },
               {
                 "t": "p",
-                "x": "Rustad habló en una sesión de InnoAsia en el Asian Contents & Film Market del Busan International Film Festival y tomó como referencia “Brazil ‘70: The Third Star”, de Netflix. La serie incluye más de 1,300 tomas de efectos visuales, más de 800 de ellas ambientadas en el campo de fútbol."
+                "x": "En la película, un veterano herido entra en un letal juego de apuestas: tiene dos horas para cruzar una ciudad industrial y mantener con vida a su exesposa, mientras desconocidos reciben ofertas en sus teléfonos para salvarlo o detenerlo."
               },
               {
                 "t": "p",
-                "x": "Eyeline trabaja con 45 artistas con un enfoque híbrido, explicó Rustad, que incorpora herramientas generativas a un proceso que también recurre a técnicas de efectos consolidadas. “El criterio de los artistas también es importante”, dijo."
+                "x": "“‘Overstake’ es una oportunidad de volver a una película que ya dirigí y reconstruir su mundo a una escala que antes era imposible para nosotros”, dijo Mareev. “Las actuaciones y la historia siguen siendo la base, mientras que la AI generativa me permite repensar los entornos, la acción y el lenguaje visual sin perder el núcleo humano de la película”."
               },
               {
                 "t": "p",
-                "x": "Su presentación describió cuatro etapas de un flujo de trabajo de tomas con IA generativa: preparación, narrativa, estética y entrega. Los prompts, la recopilación de referencias y las pruebas iniciales establecen las opciones; los resultados se evalúan frente a la historia y luego pasan por el refinamiento visual —iluminación, detalles de escena, rigor de época— y la entrega: composición, escalado, comprobación de profundidad de bits (bit-depth) y revisión técnica."
-              },
-              {
-                "t": "p",
-                "x": "La etapa narrativa pasa de “lo que es posible” a “lo que funciona para la historia”. Ahí entra el criterio de los artistas: seleccionar qué resultados generados con IA (AI-generated) deben convertirse en tomas finales."
+                "x": "El trabajo con AI sigue en curso, así que los compradores en Busan verán una promo junto con un puñado de secuencias terminadas."
               }
             ]
           }
@@ -907,141 +511,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Netflix GenFX\nAI도 아티스트 판단 필요",
-          "body": "James Rustad는 AI로 만든 VFX 샷도 아티스트가 고른다고 했다.",
-          "mini_headline": "Netflix GenFX: 결정은 아티스트가",
+          "headline": "Overstake, AI로\nBusan에서 판매사 확보",
+          "body": "Cappu Films가 AI로 재건하는 Overstake 세계 판매를 맡는다.",
+          "mini_headline": "Overstake, AI로 다시 짓는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-                "cap": "James Rustad. Lin Ying-Hsuan"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+                "cap": "Cappu Films"
               },
               {
                 "t": "p",
-                "x": "Netflix의 사내(in-house) VFX 스튜디오 Eyeline에서 GenFX 글로벌 총괄을 맡은 James Rustad는 생성형 AI가 시각효과 샷의 선택지를 넓힐 수는 있지만, 그중 무엇이 이야기에 맞는지는 여전히 아티스트가 정한다고 말했다."
+                "x": "홍콩(Hong Kong)의 Cappu Films가 각본가 겸 감독 Stas Mareev의 SF 액션 스릴러 “Overstake”의 월드와이드 세일즈를 맡았다. 이 작품은 실사 촬영에 생성형 AI로 다시 짓고 있는 배경을 결합한다. Cappu Films는 부산국제영화제(Busan International Film Festival) 아시아콘텐츠&필름마켓(Asian Contents & Film Market)에서 바이어들에게 작품을 소개하고 있다."
               },
               {
                 "t": "p",
-                "x": "Rustad는 부산국제영화제(Busan International Film Festival) 아시아콘텐츠&필름마켓(Asian Contents & Film Market)의 InnoAsia 세션에서 Netflix의 “Brazil ‘70: The Third Star”를 사례로 들었다. 이 시리즈에는 1,300개가 넘는 시각효과 샷이 들어갔고, 그중 800개 이상이 축구장 장면이다."
+                "x": "영화 속에서 부상당한 퇴역 군인이 목숨을 건 내기 게임에 뛰어든다. 그는 두 시간 안에 산업 도시를 가로질러 전처를 살려야 하고, 낯선 사람들은 휴대폰으로 그를 구하거나 막으라는 제안을 받는다."
               },
               {
                 "t": "p",
-                "x": "Rustad는 Eyeline이 45명의 아티스트와 하이브리드 방식으로 작업하며, 기존 특수효과 기법도 활용하는 공정에 생성형 도구를 접목한다고 설명했다. 그는 “아티스트의 판단도 중요하다”고 말했다."
+                "x": "“‘Overstake’는 이미 연출한 영화로 돌아가, 예전의 우리로서는 불가능했던 규모로 그 세계를 다시 지을 기회입니다.” Mareev는 이렇게 말했다. “연기와 이야기는 여전히 토대로 남고, 생성형 AI 덕분에 영화의 인간적인 핵심을 잃지 않으면서 배경과 액션, 시각 언어를 새로 구상할 수 있습니다.”"
               },
               {
                 "t": "p",
-                "x": "그는 발표에서 생성형 AI 샷 워크플로를 설정, 내러티브, 룩, 납품의 네 단계로 정리했다. 프롬프트 작성, 레퍼런스 수집, 초기 테스트로 선택지를 마련하고, 결과물을 이야기에 비춰 평가한 뒤 조명, 장면 디테일, 시대 고증 같은 시각적 다듬기를 거쳐 합성, 업스케일링, 비트 심도(bit-depth) 점검, 기술 검수로 이뤄진 납품 단계로 넘어간다."
-              },
-              {
-                "t": "p",
-                "x": "내러티브 단계는 “가능한 것”에서 “이야기에 맞는 것”으로 넘어가는 과정이다. 아티스트의 판단이 개입하는 지점도 여기다. AI가 생성한(AI-generated) 결과물 가운데 어떤 것을 완성 샷으로 삼을지 고르는 일이다."
+                "x": "AI 작업은 아직 진행 중이어서 부산의 바이어들은 프로모 영상과 완성된 시퀀스 몇 편을 보게 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Netflix GenFX\nAIにもアーティストの判断",
-          "body": "James RustadはAI生成のVFXショットも選ぶのはアーティストだと語った。",
-          "mini_headline": "Netflix GenFX、決めるのはアーティスト",
+          "headline": "OverstakeをAIで\n再構築、Busanで販売へ",
+          "body": "Cappu FilmsがAIで再構築するOverstakeの世界販売を担う。",
+          "mini_headline": "OverstakeをAIで再構築",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-                "cap": "James Rustad。Lin Ying-Hsuan"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+                "cap": "Cappu Films"
               },
               {
                 "t": "p",
-                "x": "Netflixの社内(in-house)VFXスタジオEyelineでGenFXのグローバル責任者を務めるJames Rustadによれば、生成AIは視覚効果ショットの選択肢を広げられるが、どれが物語に資するかを決めるのは依然としてアーティストだという。"
+                "x": "香港（Hong Kong）のCappu Filmsが、脚本・監督Stas MareevによるSFアクションスリラー「Overstake」のワールドワイドセールスを担うことになった。実写撮影に、生成AIで再構築中の舞台設定を組み合わせた作品だ。同社は釜山国際映画祭（Busan International Film Festival）のアジアコンテンツ＆フィルムマーケット（Asian Contents & Film Market）でバイヤーに本作を紹介している。"
               },
               {
                 "t": "p",
-                "x": "Rustadは釜山国際映画祭(Busan International Film Festival)のアジアコンテンツ&フィルムマーケット(Asian Contents & Film Market)で開かれたInnoAsiaセッションに登壇し、Netflixの「Brazil ‘70: The Third Star」を例に挙げた。同シリーズには1,300を超える視覚効果ショットがあり、そのうち800以上がサッカー場の場面だ。"
+                "x": "物語では、負傷した退役軍人が命がけの賭けゲームに加わる。彼は二時間で工業都市を横断し、元妻を生かし続けなければならない。その間、見知らぬ人々のスマートフォンには、彼を救うか阻止するかの依頼が届く。"
               },
               {
                 "t": "p",
-                "x": "Rustadによると、Eyelineは45人のアーティストとハイブリッドな手法で取り組んでおり、従来の特殊効果技術も用いる工程に生成ツールを組み込んでいる。「アーティストの判断も重要だ」と彼は述べた。"
+                "x": "「『Overstake』は、すでに監督した作品に立ち返り、以前の私たちには不可能だった規模でその世界を再構築する機会だ」とMareevは語った。「演技と物語は土台のまま残り、生成AIによって、作品の人間的な核を失うことなく、環境やアクション、視覚言語を考え直すことができる」"
               },
               {
                 "t": "p",
-                "x": "発表では、生成AIによるショット制作のワークフローを、セットアップ、ナラティブ、ルック、デリバリーの四段階に整理した。プロンプト、参考資料の収集、初期テストで選択肢を用意し、結果を物語に照らして評価したうえで、照明、シーンの細部、時代考証といった視覚的な仕上げを経て、合成、アップスケーリング、ビット深度(bit-depth)の確認、技術レビューからなるデリバリーへ進む。"
-              },
-              {
-                "t": "p",
-                "x": "ナラティブの段階では「何が可能か」から「何が物語に合うか」へと視点が移る。アーティストの判断が生きるのはここで、AIが生成した(AI-generated)結果のうちどれを完成ショットにするかを選ぶ。"
+                "x": "AI作業はまだ進行中のため、釜山のバイヤーはプロモ映像と、完成したシーケンスをいくつか見ることになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Netflix GenFX\nAI仍需艺术家判断",
-          "body": "Eyeline的James Rustad在釜山表示,AI生成的VFX镜头仍由艺术家挑选。",
-          "mini_headline": "Netflix GenFX:由艺术家决定",
+          "headline": "Overstake用AI重建\n并在Busan获销售代理",
+          "body": "Cappu Films接手Overstake全球销售，这部实拍科幻惊悚片正用AI重建世界。",
+          "mini_headline": "Overstake用AI重建",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-                "cap": "James Rustad。Lin Ying-Hsuan"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+                "cap": "Cappu Films"
               },
               {
                 "t": "p",
-                "x": "Netflix内部(in-house)VFX工作室Eyeline的GenFX全球负责人James Rustad表示,生成式AI可以拓宽视效镜头的选择,但哪些选择服务于故事,仍由艺术家决定。"
+                "x": "香港（Hong Kong）公司Cappu Films已签约担任编剧兼导演Stas Mareev的科幻动作惊悚片《Overstake》的全球销售代理。该片将实拍素材与正在用生成式AI重建的场景相结合。这家销售公司正在釜山国际电影节（Busan International Film Festival）亚洲内容与电影市场（Asian Contents & Film Market）上向买家推介该片。"
               },
               {
                 "t": "p",
-                "x": "Rustad在釜山国际电影节(Busan International Film Festival)亚洲内容与电影市场(Asian Contents & Film Market)的InnoAsia环节发言,以Netflix的《Brazil ‘70: The Third Star》为例。该剧包含1,300多个视效镜头,其中800多个发生在足球场上。"
+                "x": "片中，一名负伤的退伍老兵加入了一场致命的赌局：他必须在两个小时内穿越一座工业城市，保住前妻的性命，而陌生人则会在手机上收到救他或阻止他的报价。"
               },
               {
                 "t": "p",
-                "x": "Rustad说,Eyeline与45名艺术家采用混合方式工作,把生成式工具引入同样运用成熟特效技术的流程。他说:“艺术家的判断同样重要。”"
+                "x": "“《Overstake》让我有机会回到一部自己已经执导过的电影，以我们过去无法企及的规模重建它的世界，”Mareev说，“表演和故事依然是根基，而生成式AI让我能够重新构想场景、动作和视觉语言，同时不丢失影片以人为本的内核。”"
               },
               {
                 "t": "p",
-                "x": "他的演讲将生成式AI镜头工作流程分为四个阶段:设定、叙事、视觉风格和交付。提示词、参考资料收集和初步测试确定可选方案;随后对照故事评估结果,再进入灯光、场景细节、时代准确性等视觉打磨,最后是交付:合成、放大、位深(bit-depth)检查和技术审查。"
-              },
-              {
-                "t": "p",
-                "x": "叙事阶段是从“什么是可能的”转向“什么适合故事”。艺术家的判断正是在这里发挥作用:从AI生成(AI-generated)的结果中挑选哪些应成为最终镜头。"
+                "x": "AI制作仍在进行中，因此釜山的买家将看到一段宣传片和几段已完成的片段。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jefe de GenFX de Netflix: la IA\naún requiere criterio artístico",
-          "body": "En Busan, James Rustad, de Eyeline, dijo que los artistas aún eligen qué tomas VFX hechas con IA sirven a la historia.",
-          "mini_headline": "Netflix GenFX: deciden los artistas",
+          "headline": "Overstake se rehace con AI\ny suma agente de ventas en Busan",
+          "body": "Cappu Films asume las ventas mundiales de Overstake, un thriller de ciencia ficción cuyo mundo se rehace con AI.",
+          "mini_headline": "Overstake se rehace con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
-                "cap": "James Rustad. Lin Ying-Hsuan"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+                "cap": "Cappu Films"
               },
               {
                 "t": "p",
-                "x": "La IA generativa (generative AI) puede ampliar las opciones para una toma de efectos visuales, pero los artistas siguen decidiendo cuáles sirven a la historia, según James Rustad, responsable global de GenFX en Eyeline, el estudio de VFX interno (in-house) de Netflix."
+                "x": "La compañía de Hong Kong Cappu Films se ha sumado como agente de ventas internacionales de “Overstake”, un thriller de acción y ciencia ficción del guionista y director Stas Mareev que combina un rodaje de imagen real con escenarios que se están reconstruyendo mediante AI generativa. La empresa de ventas presenta el título a los compradores en el Asian Contents & Film Market del Busan International Film Festival."
               },
               {
                 "t": "p",
-                "x": "Rustad habló en una sesión de InnoAsia en el Asian Contents & Film Market del Busan International Film Festival y tomó como referencia “Brazil ‘70: The Third Star”, de Netflix. La serie incluye más de 1,300 tomas de efectos visuales, más de 800 de ellas ambientadas en el campo de fútbol."
+                "x": "En la película, un veterano herido entra en un letal juego de apuestas: tiene dos horas para cruzar una ciudad industrial y mantener con vida a su exesposa, mientras desconocidos reciben ofertas en sus teléfonos para salvarlo o detenerlo."
               },
               {
                 "t": "p",
-                "x": "Eyeline trabaja con 45 artistas con un enfoque híbrido, explicó Rustad, que incorpora herramientas generativas a un proceso que también recurre a técnicas de efectos consolidadas. “El criterio de los artistas también es importante”, dijo."
+                "x": "“‘Overstake’ es una oportunidad de volver a una película que ya dirigí y reconstruir su mundo a una escala que antes era imposible para nosotros”, dijo Mareev. “Las actuaciones y la historia siguen siendo la base, mientras que la AI generativa me permite repensar los entornos, la acción y el lenguaje visual sin perder el núcleo humano de la película”."
               },
               {
                 "t": "p",
-                "x": "Su presentación describió cuatro etapas de un flujo de trabajo de tomas con IA generativa: preparación, narrativa, estética y entrega. Los prompts, la recopilación de referencias y las pruebas iniciales establecen las opciones; los resultados se evalúan frente a la historia y luego pasan por el refinamiento visual —iluminación, detalles de escena, rigor de época— y la entrega: composición, escalado, comprobación de profundidad de bits (bit-depth) y revisión técnica."
-              },
-              {
-                "t": "p",
-                "x": "La etapa narrativa pasa de “lo que es posible” a “lo que funciona para la historia”. Ahí entra el criterio de los artistas: seleccionar qué resultados generados con IA (AI-generated) deben convertirse en tomas finales."
+                "x": "El trabajo con AI sigue en curso, así que los compradores en Busan verán una promo junto con un puñado de secuencias terminadas."
               }
             ]
           }
@@ -1049,611 +637,171 @@
       }
     },
     {
-      "id": "morph-3d-scene-editor",
-      "source_lang": "ko",
+      "id": "hong-jae-cheol-ai-native-studios-busan",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "모픽, '3D 씬'으로\n구도·카메라 직접 연출",
-      "body": "모픽이 3D 마네킹과 카메라로 구도를 잡고 AI 영상을 만드는 에디터를 냈다.",
-      "mini_headline": "모픽 '3D 씬' 출시",
+      "headline": "AI-native는 IP를\n기존 스튜디오는 강점 유지",
+      "body": "Hong Jae Cheol은 AI-native 기업과 VFX의 공존을 내다봤다.",
+      "mini_headline": "VFX의 하이브리드 미래",
       "tool": "Movies",
-      "source": "테크월드",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407934",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "모픽이 기존 AI 영상의 주요 한계로 꼽히는 연출 무작위성과 구도 붕괴 문제를 해결하는 3D 장면 연출 에디터 ‘3D 씬(3D Scene)’을 출시했다고 8일 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "3D 씬은 자연어 지시로 3D 공간과 세트 내 인물 배치를 자동 구축하는 대화형 AI 코파일럿과, 카메라 각도와 조명을 프레임 단위로 수동 제어하는 3D 조작 툴을 하나로 결합했다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-            "cap": "[제공=모픽]"
+            "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+            "cap": "Lin Ying-Hsuan"
           },
           {
             "t": "p",
-            "x": "약 2500개의 에셋 라이브러리로 수 분 만에 3D 세트를 만들고, 클릭 한 번으로 인물의 이동 경로와 속도를 지정해 200여가지 동작을 다듬을 수 있으며, 최대 60명에 달하는 군중 연출이나 추격전도 한 번에 구현할 수 있다."
+            "x": "자동화 파이프라인을 굴리는 작은 AI-native 기업은 자체 지식재산(IP)을 개발할 수 있다. 전통 스튜디오는 기존 프랜차이즈와 제작 인프라, 인재, 배급에서 강점을 지킨다. Industrial Light & Magic에서 경력을 시작해 Viscode에서 프로듀서 겸 감독으로 일하는 VFX 베테랑 Hong Jae Cheol의 진단이다. 부산(Busan)에서 열린 InnoAsia AI Creators Camp에서 그는 “AI로 개별 이미지를 생성하던 데서, AI를 완전한 제작 워크플로의 일부로 쓰는 쪽으로 옮겨 가고 있다”고 말했다."
           },
           {
             "t": "p",
-            "x": "‘색상별 마네킹(Cast by Color)’ 시스템은 각 마네킹에 색상과 이름을 부여해 구도를 잡은 뒤 최종 생성 프롬프트에 연결하면 AI가 인물의 위치, 방향, 시선을 인지해 영상을 생성하도록 한다. 드론·크레인 등 12가지 카메라 워킹 제어와, 180° 연출 법칙 준수 여부와 비현실적 이동 속도 등을 자동으로 감지하는 연속성 검사 기능도 탑재했다."
+            "x": "Hong은 생성된 소재를 화면에 쓸 만하게 만들려면 전통적인 시각효과가 여전히 필수라고 주장했다. 그가 보는 미래는 기존 스튜디오의 전면 대체가 아니라 하이브리드다. AI-assisted 방식에서는 배우가 통제된 세트에서 연기하면 AI가 환경과 시각 요소를 생성하고, VFX 아티스트가 트래킹과 합성, 마무리를 맡는다."
           },
           {
             "t": "p",
-            "x": "제이디 카나니 모픽 대표는 “3D 씬은 창작자가 3D 공간에서 인물 동선과 카메라 무빙을 직접 통제해 연출 의도를 정확히 구현할 수 있고 유료 크레딧 소진 없이 장면을 사전 검증한 뒤 최종 생성할 수 있어 스튜디오의 예산과 시간을 절감하는 데 도움이 될 것”이라고 밝혔다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "모픽, '3D 씬'으로\n구도·카메라 직접 연출",
-          "body": "모픽이 3D 마네킹과 카메라로 구도를 잡고 AI 영상을 만드는 에디터를 냈다.",
-          "mini_headline": "모픽 '3D 씬' 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "모픽이 기존 AI 영상의 주요 한계로 꼽히는 연출 무작위성과 구도 붕괴 문제를 해결하는 3D 장면 연출 에디터 ‘3D 씬(3D Scene)’을 출시했다고 8일 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "3D 씬은 자연어 지시로 3D 공간과 세트 내 인물 배치를 자동 구축하는 대화형 AI 코파일럿과, 카메라 각도와 조명을 프레임 단위로 수동 제어하는 3D 조작 툴을 하나로 결합했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-                "cap": "[제공=모픽]"
-              },
-              {
-                "t": "p",
-                "x": "약 2500개의 에셋 라이브러리로 수 분 만에 3D 세트를 만들고, 클릭 한 번으로 인물의 이동 경로와 속도를 지정해 200여가지 동작을 다듬을 수 있으며, 최대 60명에 달하는 군중 연출이나 추격전도 한 번에 구현할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "‘색상별 마네킹(Cast by Color)’ 시스템은 각 마네킹에 색상과 이름을 부여해 구도를 잡은 뒤 최종 생성 프롬프트에 연결하면 AI가 인물의 위치, 방향, 시선을 인지해 영상을 생성하도록 한다. 드론·크레인 등 12가지 카메라 워킹 제어와, 180° 연출 법칙 준수 여부와 비현실적 이동 속도 등을 자동으로 감지하는 연속성 검사 기능도 탑재했다."
-              },
-              {
-                "t": "p",
-                "x": "제이디 카나니 모픽 대표는 “3D 씬은 창작자가 3D 공간에서 인물 동선과 카메라 무빙을 직접 통제해 연출 의도를 정확히 구현할 수 있고 유료 크레딧 소진 없이 장면을 사전 검증한 뒤 최종 생성할 수 있어 스튜디오의 예산과 시간을 절감하는 데 도움이 될 것”이라고 밝혔다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Morphic's '3D Scene' lets users\ndirect framing and camera",
-          "body": "Morphic released an editor that sets up shots with 3D mannequins and cameras before generating AI video.",
-          "mini_headline": "Morphic launches '3D Scene'",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Morphic said on the 8th that it has launched ‘3D Scene’, a 3D scene-directing editor designed to solve random staging and broken composition, which are seen as key limitations of existing AI video."
-              },
-              {
-                "t": "p",
-                "x": "3D Scene combines a conversational AI copilot that automatically builds 3D spaces and places characters within sets from natural-language instructions with a 3D control tool for manually adjusting camera angles and lighting frame by frame."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-                "cap": "[Courtesy of Morphic]"
-              },
-              {
-                "t": "p",
-                "x": "With a library of about 2500 assets, users can build a 3D set in minutes, set a character's path and speed with a single click to refine around 200 types of movement, and stage crowd scenes of up to 60 people or chase sequences in one go."
-              },
-              {
-                "t": "p",
-                "x": "The ‘Cast by Color’ system assigns each mannequin a color and a name; once the composition is set and linked to the final generation prompt, the AI recognizes each character's position, direction and gaze when generating the video. The editor also offers 12 types of camera-movement control, including drone and crane moves, and a continuity check that automatically detects issues such as breaks in the 180° rule and unrealistic movement speeds."
-              },
-              {
-                "t": "p",
-                "x": "“3D Scene lets creators directly control character blocking and camera movement in 3D space to realize their directorial intent precisely, and verify scenes in advance before final generation without spending paid credits, which should help studios save budget and time,” said Morphic CEO JD Kanani."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "「3D Scene」で\n構図とカメラを直接演出",
-          "body": "Morphicが3Dマネキンとカメラで構図を決めてAI映像を作るエディタを出した。",
-          "mini_headline": "Morphic「3D Scene」公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Morphicは8日、既存のAI映像の主な限界とされる演出のランダム性や構図の崩れを解消する3D場面演出エディタ「3D Scene」を公開したと発表した。"
-              },
-              {
-                "t": "p",
-                "x": "3D Sceneは、自然言語の指示で3D空間とセット内の人物配置を自動で構築する対話型AIコパイロットと、カメラアングルや照明をフレーム単位で手動制御する3D操作ツールを一つに統合した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-                "cap": "[提供=Morphic]"
-              },
-              {
-                "t": "p",
-                "x": "約2500点のアセットライブラリで数分のうちに3Dセットを作り、ワンクリックで人物の移動経路と速度を指定して200種類余りの動きを調整できるほか、最大60人に及ぶ群衆シーンや追跡劇も一度に実現できる。"
-              },
-              {
-                "t": "p",
-                "x": "「色別マネキン(Cast by Color)」システムは、各マネキンに色と名前を割り当てて構図を決め、最終生成プロンプトに結び付けると、AIが人物の位置、向き、視線を認識して映像を生成する仕組みだ。ドローンやクレーンなど12種類のカメラワーク制御に加え、180°ルールの順守状況や非現実的な移動速度などを自動で検出する連続性チェック機能も搭載した。"
-              },
-              {
-                "t": "p",
-                "x": "MorphicのJD Kanani代表は「3D Sceneでは、クリエイターが3D空間で人物の動線とカメラの動きを直接制御して演出意図を正確に実現でき、有料クレジットを消費せずに場面を事前検証してから最終生成できるため、スタジオの予算と時間の削減に役立つだろう」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Morphic推出\n3D Scene掌控构图镜头",
-          "body": "Morphic推出可用3D人偶和摄像机布置构图、再生成AI视频的编辑器。",
-          "mini_headline": "Morphic推出“3D Scene”",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Morphic于8日宣布推出3D场景导演编辑器“3D Scene”,旨在解决被视为现有AI视频主要局限的导演随机性和构图崩坏问题。"
-              },
-              {
-                "t": "p",
-                "x": "3D Scene将对话式AI副驾驶与3D操控工具合二为一:前者可根据自然语言指令自动搭建3D空间并安排场景中的人物位置,后者可逐帧手动控制摄像机角度和灯光。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-                "cap": "[图片提供=Morphic]"
-              },
-              {
-                "t": "p",
-                "x": "借助约2500个素材的资源库,用户可在几分钟内搭好3D场景,一键指定人物的移动路径和速度,细调200余种动作,还能一次性实现多达60人的群戏或追逐戏。"
-              },
-              {
-                "t": "p",
-                "x": "“按颜色分配人偶”(Cast by Color)系统为每个人偶分配颜色和名称,确定构图后将其连接到最终生成提示词,AI便能识别人物的位置、朝向和视线来生成视频。产品还配备无人机、摇臂等12种运镜控制,以及能自动检测是否遵守180°法则、是否存在不现实移动速度等问题的连贯性检查功能。"
-              },
-              {
-                "t": "p",
-                "x": "Morphic首席执行官JD Kanani表示:“3D Scene让创作者能在3D空间中直接控制人物走位和摄像机运动,准确实现导演意图,并且无需消耗付费额度即可预先验证场景再进行最终生成,有助于为制片公司节省预算和时间。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Morphic lanza '3D Scene' para\ndirigir encuadre y cámara",
-          "body": "Morphic lanzó un editor que permite componer planos con maniquíes y cámaras 3D antes de generar video con IA.",
-          "mini_headline": "Morphic lanza '3D Scene'",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Morphic anunció el día 8 el lanzamiento de ‘3D Scene’, un editor de dirección de escenas en 3D que resuelve la aleatoriedad en la puesta en escena y el colapso del encuadre, considerados las principales limitaciones del video con IA (AI) actual."
-              },
-              {
-                "t": "p",
-                "x": "3D Scene integra un copiloto de IA conversacional que construye automáticamente espacios 3D y la disposición de personajes en el set a partir de instrucciones en lenguaje natural, y una herramienta de manipulación 3D que controla manualmente los ángulos de cámara y la iluminación fotograma a fotograma."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-                "cap": "[Cortesía de Morphic]"
-              },
-              {
-                "t": "p",
-                "x": "Con una biblioteca de unos 2500 recursos, se puede montar un set 3D en pocos minutos, definir con un solo clic la trayectoria y la velocidad de un personaje para ajustar unos 200 tipos de movimiento, y recrear de una sola vez escenas de multitudes de hasta 60 personas o persecuciones."
-              },
-              {
-                "t": "p",
-                "x": "El sistema de ‘maniquíes por color (Cast by Color)’ asigna un color y un nombre a cada maniquí para fijar el encuadre; al vincularlo con el prompt final de generación, la IA reconoce la posición, la orientación y la mirada de cada personaje al generar el video. También incluye control de 12 tipos de movimientos de cámara, como dron o grúa, y una función de verificación de continuidad que detecta automáticamente si se respeta la regla de los 180° y velocidades de movimiento poco realistas."
-              },
-              {
-                "t": "p",
-                "x": "“3D Scene permite a los creadores controlar directamente en un espacio 3D el recorrido de los personajes y los movimientos de cámara para plasmar con precisión su intención como directores, y validar escenas antes de la generación final sin consumir créditos de pago, lo que ayudará a los estudios a ahorrar presupuesto y tiempo”, afirmó JD Kanani, CEO de Morphic."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Morphic's '3D Scene' lets users\ndirect framing and camera",
-          "body": "Morphic released an editor that sets up shots with 3D mannequins and cameras before generating AI video.",
-          "mini_headline": "Morphic launches '3D Scene'",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Morphic said on the 8th that it has launched ‘3D Scene’, a 3D scene-directing editor designed to solve random staging and broken composition, which are seen as key limitations of existing AI video."
-              },
-              {
-                "t": "p",
-                "x": "3D Scene combines a conversational AI copilot that automatically builds 3D spaces and places characters within sets from natural-language instructions with a 3D control tool for manually adjusting camera angles and lighting frame by frame."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-                "cap": "[Courtesy of Morphic]"
-              },
-              {
-                "t": "p",
-                "x": "With a library of about 2500 assets, users can build a 3D set in minutes, set a character's path and speed with a single click to refine around 200 types of movement, and stage crowd scenes of up to 60 people or chase sequences in one go."
-              },
-              {
-                "t": "p",
-                "x": "The ‘Cast by Color’ system assigns each mannequin a color and a name; once the composition is set and linked to the final generation prompt, the AI recognizes each character's position, direction and gaze when generating the video. The editor also offers 12 types of camera-movement control, including drone and crane moves, and a continuity check that automatically detects issues such as breaks in the 180° rule and unrealistic movement speeds."
-              },
-              {
-                "t": "p",
-                "x": "“3D Scene lets creators directly control character blocking and camera movement in 3D space to realize their directorial intent precisely, and verify scenes in advance before final generation without spending paid credits, which should help studios save budget and time,” said Morphic CEO JD Kanani."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "「3D Scene」で\n構図とカメラを直接演出",
-          "body": "Morphicが3Dマネキンとカメラで構図を決めてAI映像を作るエディタを出した。",
-          "mini_headline": "Morphic「3D Scene」公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Morphicは8日、既存のAI映像の主な限界とされる演出のランダム性や構図の崩れを解消する3D場面演出エディタ「3D Scene」を公開したと発表した。"
-              },
-              {
-                "t": "p",
-                "x": "3D Sceneは、自然言語の指示で3D空間とセット内の人物配置を自動で構築する対話型AIコパイロットと、カメラアングルや照明をフレーム単位で手動制御する3D操作ツールを一つに統合した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-                "cap": "[提供=Morphic]"
-              },
-              {
-                "t": "p",
-                "x": "約2500点のアセットライブラリで数分のうちに3Dセットを作り、ワンクリックで人物の移動経路と速度を指定して200種類余りの動きを調整できるほか、最大60人に及ぶ群衆シーンや追跡劇も一度に実現できる。"
-              },
-              {
-                "t": "p",
-                "x": "「色別マネキン(Cast by Color)」システムは、各マネキンに色と名前を割り当てて構図を決め、最終生成プロンプトに結び付けると、AIが人物の位置、向き、視線を認識して映像を生成する仕組みだ。ドローンやクレーンなど12種類のカメラワーク制御に加え、180°ルールの順守状況や非現実的な移動速度などを自動で検出する連続性チェック機能も搭載した。"
-              },
-              {
-                "t": "p",
-                "x": "MorphicのJD Kanani代表は「3D Sceneでは、クリエイターが3D空間で人物の動線とカメラの動きを直接制御して演出意図を正確に実現でき、有料クレジットを消費せずに場面を事前検証してから最終生成できるため、スタジオの予算と時間の削減に役立つだろう」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Morphic推出\n3D Scene掌控构图镜头",
-          "body": "Morphic推出可用3D人偶和摄像机布置构图、再生成AI视频的编辑器。",
-          "mini_headline": "Morphic推出“3D Scene”",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Morphic于8日宣布推出3D场景导演编辑器“3D Scene”,旨在解决被视为现有AI视频主要局限的导演随机性和构图崩坏问题。"
-              },
-              {
-                "t": "p",
-                "x": "3D Scene将对话式AI副驾驶与3D操控工具合二为一:前者可根据自然语言指令自动搭建3D空间并安排场景中的人物位置,后者可逐帧手动控制摄像机角度和灯光。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-                "cap": "[图片提供=Morphic]"
-              },
-              {
-                "t": "p",
-                "x": "借助约2500个素材的资源库,用户可在几分钟内搭好3D场景,一键指定人物的移动路径和速度,细调200余种动作,还能一次性实现多达60人的群戏或追逐戏。"
-              },
-              {
-                "t": "p",
-                "x": "“按颜色分配人偶”(Cast by Color)系统为每个人偶分配颜色和名称,确定构图后将其连接到最终生成提示词,AI便能识别人物的位置、朝向和视线来生成视频。产品还配备无人机、摇臂等12种运镜控制,以及能自动检测是否遵守180°法则、是否存在不现实移动速度等问题的连贯性检查功能。"
-              },
-              {
-                "t": "p",
-                "x": "Morphic首席执行官JD Kanani表示:“3D Scene让创作者能在3D空间中直接控制人物走位和摄像机运动,准确实现导演意图,并且无需消耗付费额度即可预先验证场景再进行最终生成,有助于为制片公司节省预算和时间。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Morphic lanza '3D Scene' para\ndirigir encuadre y cámara",
-          "body": "Morphic lanzó un editor que permite componer planos con maniquíes y cámaras 3D antes de generar video con IA.",
-          "mini_headline": "Morphic lanza '3D Scene'",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Morphic anunció el día 8 el lanzamiento de ‘3D Scene’, un editor de dirección de escenas en 3D que resuelve la aleatoriedad en la puesta en escena y el colapso del encuadre, considerados las principales limitaciones del video con IA (AI) actual."
-              },
-              {
-                "t": "p",
-                "x": "3D Scene integra un copiloto de IA conversacional que construye automáticamente espacios 3D y la disposición de personajes en el set a partir de instrucciones en lenguaje natural, y una herramienta de manipulación 3D que controla manualmente los ángulos de cámara y la iluminación fotograma a fotograma."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
-                "cap": "[Cortesía de Morphic]"
-              },
-              {
-                "t": "p",
-                "x": "Con una biblioteca de unos 2500 recursos, se puede montar un set 3D en pocos minutos, definir con un solo clic la trayectoria y la velocidad de un personaje para ajustar unos 200 tipos de movimiento, y recrear de una sola vez escenas de multitudes de hasta 60 personas o persecuciones."
-              },
-              {
-                "t": "p",
-                "x": "El sistema de ‘maniquíes por color (Cast by Color)’ asigna un color y un nombre a cada maniquí para fijar el encuadre; al vincularlo con el prompt final de generación, la IA reconoce la posición, la orientación y la mirada de cada personaje al generar el video. También incluye control de 12 tipos de movimientos de cámara, como dron o grúa, y una función de verificación de continuidad que detecta automáticamente si se respeta la regla de los 180° y velocidades de movimiento poco realistas."
-              },
-              {
-                "t": "p",
-                "x": "“3D Scene permite a los creadores controlar directamente en un espacio 3D el recorrido de los personajes y los movimientos de cámara para plasmar con precisión su intención como directores, y validar escenas antes de la generación final sin consumir créditos de pago, lo que ayudará a los estudios a ahorrar presupuesto y tiempo”, afirmó JD Kanani, CEO de Morphic."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "astana-ai-film-grand-prix",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "라트비아 감독이\n아스타나 AI 영화제 대상",
-      "body": "Nikolay Shestak이 8,000편 넘는 출품작 중 대상을 받았다.",
-      "mini_headline": "Astana AI 영화제 Grand Prix",
-      "tool": "Movies",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "RxHoSyLNNRo"
-          },
-          {
-            "t": "p",
-            "x": "라트비아 출신 영화감독 Nikolay Shestak이 카자흐스탄(Kazakhstan)에서 처음 열린 Astana AI Film Festival에서 인공지능으로 만든 영화 The First Honest Day로 상금 $450,000(€401,000)의 그랑프리(Grand Prix)를 받았다. 영화 속 인물들은 나쁜 짓을 하면 외모가 흉해지고, 착한 일을 하면 모습이 나아진다."
-          },
-          {
-            "t": "p",
-            "x": "두 해 전 AI로 영화를 만들기 시작한 Shestak은 “솔직히 우승을 기대하지 않았다”고 말했다. 인도(India)의 Abhik Banerjee는 SITARA로 두 번째($200,000), 스페인(Spain)의 Ernest Desumbila는 Looking For Perseida로 세 번째($100,000) 자리에 올랐다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-            "cap": "Astana AI Film Festival 결선 진출자들. Copyright: Astana AI Film Festival"
-          },
-          {
-            "t": "p",
-            "x": "심사 기준은 AI 도구를 쓰는 방식만이 아니었다. 예술적 비전, 스토리텔링, 완성도, 그리고 기술을 얼마나 자연스럽게 녹여냈는지도 함께 봤다. 공모에는 125개국에서 8,000편 넘는 작품이 몰렸고, 최종 프로그램에 오른 25편은 19개 장르와 80개가 넘는 생성형 AI 모델에 걸쳐 있었다. 영화제 총기금 $2 million 가운데 절반은 상금, 나머지 절반은 AI 팀을 위한 투자 자본이다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-            "cap": "Astana AI Film Festival 개막식에 참석한 Tokayev 대통령(President Tokayev). Copyright: Astana AI Film Festival"
-          },
-          {
-            "t": "p",
-            "x": "영화제 개막을 알린 Kassym-Jomart Tokayev 대통령은 “진입 장벽이 크게 낮아졌다”면서도 AI가 영화인의 창작 역할을 대신하지는 못할 거라고 말했다. 공동 창립자 Aizat Kussainov는 “이 영화제의 원동력은 FOMO였다”고 했다."
+            "x": "Dreamkite Studios의 Mark Wachholz는 AI 공동 창작을 “통제가 아닌 탐색”이라 불렀다. Climax Studio의 Ahn Jaehong 감독은 프롬프트에서 스토리보드, 키프레임으로 이어지는 워크플로를 보여 줬다. Hong의 정리는 이랬다. “AI는 도구일 뿐이고, 영화는 시퀀스다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Latvian filmmaker wins Astana\nAI film festival Grand Prix",
-          "body": "Nikolay Shestak took the $450,000 Grand Prix at the first Astana AI Film Festival from more than 8,000 entries.",
-          "mini_headline": "AI film Grand Prix in Astana",
+          "headline": "AI-native studios create IP,\nlegacy studios keep their edge",
+          "body": "At Busan's InnoAsia camp, VFX veteran Hong Jae Cheol mapped a hybrid future of AI-native studios and traditional VFX.",
+          "mini_headline": "A hybrid future for VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "RxHoSyLNNRo"
-              },
-              {
-                "t": "p",
-                "x": "Latvian filmmaker Nikolay Shestak has won the $450,000 (€401,000) Grand Prix at the first Astana AI Film Festival in Kazakhstan for his film The First Honest Day, created using artificial intelligence. In it, bad deeds make its characters physically uglier and good deeds change them for the better."
-              },
-              {
-                "t": "p",
-                "x": "“Honestly, I didn't expect to win,” said Shestak, who began making films with AI two years ago. Second place went to India’s Abhik Banerjee for SITARA ($200,000), and third to Spain’s Ernest Desumbila for Looking For Perseida ($100,000)."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-                "cap": "Finalists of the Astana AI Film Festival. Copyright: Astana AI Film Festival"
+                "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+                "cap": "Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "Films were judged on how AI tools were used, but also on artistic vision, storytelling, coherence and how organically the technology was integrated. The competition drew more than 8,000 submissions from 125 countries; 25 films made the final programme, spanning 19 genres and more than 80 generative AI models. The festival had a total fund of $2 million, half for prizes and half as investment capital for AI teams."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-                "cap": "President Tokayev at the opening of the Astana AI Film Festival. Copyright: Astana AI Film Festival"
+                "x": "Small, AI-native companies running automated pipelines can develop their own intellectual property, while traditional studios hold on to their advantages in established franchises, production infrastructure, talent and distribution, according to VFX veteran Hong Jae Cheol, a producer-director at Viscode who began his career at Industrial Light & Magic. “We are moving from using AI to generate individual images toward using AI as part of a complete production workflow,” he said at the InnoAsia AI Creators Camp in Busan."
               },
               {
                 "t": "p",
-                "x": "President Kassym-Jomart Tokayev, who opened the festival, said “the barrier to entry has become significantly lower,” but that AI would not replace filmmakers’ creative role. “The driving force of this festival was FOMO,” said co-founder Aizat Kussainov."
+                "x": "Traditional visual effects remain essential to making generated material usable on screen, Hong argued, framing the future as a hybrid rather than a wholesale replacement of existing studios. In an AI-assisted approach, actors perform on a controlled set, AI generates environments and visual elements, and VFX artists handle tracking, integration and finishing."
+              },
+              {
+                "t": "p",
+                "x": "Dreamkite Studios’ Mark Wachholz framed AI co-creation as “exploring instead of controlling,” while Climax Studio director Ahn Jaehong mapped a workflow from prompts to storyboards and keyframes. Hong summed up: “AI is just a tool; film is a sequence.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "라트비아 감독이\n아스타나 AI 영화제 대상",
-          "body": "Nikolay Shestak이 8,000편 넘는 출품작 중 대상을 받았다.",
-          "mini_headline": "Astana AI 영화제 Grand Prix",
+          "headline": "AI-native는 IP를\n기존 스튜디오는 강점 유지",
+          "body": "Hong Jae Cheol은 AI-native 기업과 VFX의 공존을 내다봤다.",
+          "mini_headline": "VFX의 하이브리드 미래",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "RxHoSyLNNRo"
-              },
-              {
-                "t": "p",
-                "x": "라트비아 출신 영화감독 Nikolay Shestak이 카자흐스탄(Kazakhstan)에서 처음 열린 Astana AI Film Festival에서 인공지능으로 만든 영화 The First Honest Day로 상금 $450,000(€401,000)의 그랑프리(Grand Prix)를 받았다. 영화 속 인물들은 나쁜 짓을 하면 외모가 흉해지고, 착한 일을 하면 모습이 나아진다."
-              },
-              {
-                "t": "p",
-                "x": "두 해 전 AI로 영화를 만들기 시작한 Shestak은 “솔직히 우승을 기대하지 않았다”고 말했다. 인도(India)의 Abhik Banerjee는 SITARA로 두 번째($200,000), 스페인(Spain)의 Ernest Desumbila는 Looking For Perseida로 세 번째($100,000) 자리에 올랐다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-                "cap": "Astana AI Film Festival 결선 진출자들. Copyright: Astana AI Film Festival"
+                "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+                "cap": "Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "심사 기준은 AI 도구를 쓰는 방식만이 아니었다. 예술적 비전, 스토리텔링, 완성도, 그리고 기술을 얼마나 자연스럽게 녹여냈는지도 함께 봤다. 공모에는 125개국에서 8,000편 넘는 작품이 몰렸고, 최종 프로그램에 오른 25편은 19개 장르와 80개가 넘는 생성형 AI 모델에 걸쳐 있었다. 영화제 총기금 $2 million 가운데 절반은 상금, 나머지 절반은 AI 팀을 위한 투자 자본이다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-                "cap": "Astana AI Film Festival 개막식에 참석한 Tokayev 대통령(President Tokayev). Copyright: Astana AI Film Festival"
+                "x": "자동화 파이프라인을 굴리는 작은 AI-native 기업은 자체 지식재산(IP)을 개발할 수 있다. 전통 스튜디오는 기존 프랜차이즈와 제작 인프라, 인재, 배급에서 강점을 지킨다. Industrial Light & Magic에서 경력을 시작해 Viscode에서 프로듀서 겸 감독으로 일하는 VFX 베테랑 Hong Jae Cheol의 진단이다. 부산(Busan)에서 열린 InnoAsia AI Creators Camp에서 그는 “AI로 개별 이미지를 생성하던 데서, AI를 완전한 제작 워크플로의 일부로 쓰는 쪽으로 옮겨 가고 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "영화제 개막을 알린 Kassym-Jomart Tokayev 대통령은 “진입 장벽이 크게 낮아졌다”면서도 AI가 영화인의 창작 역할을 대신하지는 못할 거라고 말했다. 공동 창립자 Aizat Kussainov는 “이 영화제의 원동력은 FOMO였다”고 했다."
+                "x": "Hong은 생성된 소재를 화면에 쓸 만하게 만들려면 전통적인 시각효과가 여전히 필수라고 주장했다. 그가 보는 미래는 기존 스튜디오의 전면 대체가 아니라 하이브리드다. AI-assisted 방식에서는 배우가 통제된 세트에서 연기하면 AI가 환경과 시각 요소를 생성하고, VFX 아티스트가 트래킹과 합성, 마무리를 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "Dreamkite Studios의 Mark Wachholz는 AI 공동 창작을 “통제가 아닌 탐색”이라 불렀다. Climax Studio의 Ahn Jaehong 감독은 프롬프트에서 스토리보드, 키프레임으로 이어지는 워크플로를 보여 줬다. Hong의 정리는 이랬다. “AI는 도구일 뿐이고, 영화는 시퀀스다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ラトビアの監督が\nアスタナAI映画祭で大賞",
-          "body": "Nikolay Shestakが8,000作超の応募から$450,000の大賞を得た。",
-          "mini_headline": "Astana AI映画祭のGrand Prix",
+          "headline": "AI-nativeはIPを、\n既存スタジオは強みを保つ",
+          "body": "Hong Jae CheolはInnoAsiaでAI-nativeとVFXの共存を描いた。",
+          "mini_headline": "VFXのハイブリッドな未来",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "RxHoSyLNNRo"
-              },
-              {
-                "t": "p",
-                "x": "ラトビアの映画監督Nikolay Shestakが、カザフスタン(Kazakhstan)で開かれた初のAstana AI Film Festivalで、人工知能を使って制作した映画「The First Honest Day」により$450,000(€401,000)のグランプリ(Grand Prix)を獲得した。作中では、悪い行いをすると登場人物の外見が醜くなり、善い行いをすると良い方向へ変わる。"
-              },
-              {
-                "t": "p",
-                "x": "「正直、勝てるとは思っていなかった」と、二年前にAIで映画を作り始めたShestakは語った。二位はインド(India)のAbhik Banerjeeによる「SITARA」($200,000)、三位はスペイン(Spain)のErnest Desumbilaによる「Looking For Perseida」($100,000)だった。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-                "cap": "Astana AI Film Festivalのファイナリストたち。Copyright: Astana AI Film Festival"
+                "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+                "cap": "Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "審査ではAIツールの使い方に加え、芸術的なビジョン、ストーリーテリング、一貫性、技術がどれだけ自然に溶け込んでいるかも評価された。コンペには125カ国から8,000作を超える応募があり、最終プログラムに残った25作品は19のジャンルと80を超える生成AIモデルにまたがった。映画祭の基金総額は$2 millionで、半分が賞金、残り半分がAIチーム向けの投資資金に充てられた。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-                "cap": "Astana AI Film Festivalの開幕式に臨むTokayev大統領(President Tokayev)。Copyright: Astana AI Film Festival"
+                "x": "自動化パイプラインを動かす小規模なAI-native企業は独自の知的財産を開発でき、一方で伝統的なスタジオは既存のフランチャイズ、制作インフラ、人材、配給における強みを保つ。Industrial Light & Magicでキャリアを始め、現在はViscodeでプロデューサー兼監督を務めるVFXのベテラン、Hong Jae Cheolの見立てだ。釜山（Busan）で開かれたInnoAsia AI Creators Campで彼は「AIで個々の画像を生成する段階から、AIを制作ワークフロー全体の一部として使う段階へと移りつつある」と語った。"
               },
               {
                 "t": "p",
-                "x": "映画祭の開幕を宣言したKassym-Jomart Tokayev大統領は「参入障壁は大きく下がった」と述べつつ、AIが映画製作者の創造的な役割に取って代わることはないとした。共同創設者のAizat Kussainovは「この映画祭の原動力はFOMOだった」と語った。"
+                "x": "Hongは、生成された素材をスクリーンで使えるものにするには従来の視覚効果が今も欠かせないと主張し、未来を既存スタジオの全面的な置き換えではなくハイブリッドとして描いた。AI-assistedの手法では、俳優が管理されたセットで演技し、AIが環境や視覚要素を生成し、VFXアーティストがトラッキング、統合、仕上げを担う。"
+              },
+              {
+                "t": "p",
+                "x": "Dreamkite StudiosのMark WachholzはAIとの共創を「制御ではなく探求」と位置づけ、Climax Studioの監督Ahn Jaehongはプロンプトからストーリーボード、キーフレームへと至るワークフローを示した。Hongは「AIは道具にすぎない。映画はシーケンスだ」とまとめた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "拉脱维亚导演\n摘得阿斯塔纳AI影展大奖",
-          "body": "Nikolay Shestak从8,000多部作品中胜出,摘得$450,000大奖。",
-          "mini_headline": "Astana AI电影节Grand Prix揭晓",
+          "headline": "AI-native造IP，\n老牌工作室守优势",
+          "body": "Hong Jae Cheol在InnoAsia勾勒AI-native与VFX的混合未来。",
+          "mini_headline": "VFX的混合未来",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "RxHoSyLNNRo"
-              },
-              {
-                "t": "p",
-                "x": "拉脱维亚电影人Nikolay Shestak凭借运用人工智能创作的影片《The First Honest Day》,在哈萨克斯坦(Kazakhstan)首届Astana AI Film Festival上夺得$450,000(€401,000)的大奖(Grand Prix)。片中,角色做坏事会让外表变得更丑,做好事则会让他们变得更好。"
-              },
-              {
-                "t": "p",
-                "x": "两年前开始用AI拍片的Shestak说:“老实说,我没想到会赢。”第二名是印度(India)的Abhik Banerjee,作品为《SITARA》($200,000);第三名是西班牙(Spain)的Ernest Desumbila,作品为《Looking For Perseida》($100,000)。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-                "cap": "Astana AI Film Festival入围者。Copyright: Astana AI Film Festival"
+                "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+                "cap": "Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "评审不仅看AI工具的使用方式,也考量艺术视野、叙事、连贯性以及技术融入的自然程度。比赛共收到来自125个国家的8,000多部作品;25部影片进入最终片单,涵盖19种类型和80多个生成式AI模型。电影节总基金为$2 million,一半用于奖金,一半作为AI团队的投资资本。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-                "cap": "Tokayev总统(President Tokayev)出席Astana AI Film Festival开幕式。Copyright: Astana AI Film Festival"
+                "x": "曾在Industrial Light & Magic开启职业生涯、现任Viscode制片人兼导演的VFX资深人士Hong Jae Cheol表示，运行自动化流程的小型AI-native公司可以开发自有知识产权，而传统工作室则在成熟系列、制作基础设施、人才和发行方面保有优势。他在釜山（Busan）举行的InnoAsia AI Creators Camp上说：“我们正从用AI生成单张图像，转向把AI作为完整制作流程的一部分。”"
               },
               {
                 "t": "p",
-                "x": "为电影节揭幕的Kassym-Jomart Tokayev总统表示,“准入门槛已大幅降低”,但AI不会取代电影人的创作角色。联合创始人Aizat Kussainov说:“这个电影节的驱动力是FOMO。”"
+                "x": "Hong认为，要让生成的素材能够用于银幕，传统视觉特效依然不可或缺；他将未来描述为一种混合模式，而非对现有工作室的全面取代。在AI-assisted的做法中，演员在受控片场表演，AI生成环境和视觉元素，VFX艺术家负责跟踪、合成与收尾。"
+              },
+              {
+                "t": "p",
+                "x": "Dreamkite Studios的Mark Wachholz将与AI共同创作形容为“探索而非控制”，Climax Studio导演Ahn Jaehong则梳理了从提示词到故事板再到关键帧的工作流程。Hong总结道：“AI只是工具；电影是一个序列。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un letón gana el Grand Prix\ndel festival de IA de Astana",
-          "body": "Nikolay Shestak ganó el Grand Prix de $450,000 del primer Astana AI Film Festival entre más de 8,000 obras.",
-          "mini_headline": "Grand Prix de cine con IA en Astana",
+          "headline": "Los estudios AI-native crean IP;\nlos clásicos mantienen ventaja",
+          "body": "En el campamento InnoAsia de Busan, Hong Jae Cheol trazó un futuro híbrido de estudios AI-native y VFX tradicional.",
+          "mini_headline": "Un futuro híbrido para los VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "RxHoSyLNNRo"
-              },
-              {
-                "t": "p",
-                "x": "El cineasta letón Nikolay Shestak ganó el Grand Prix de $450,000 (€401,000) del primer Astana AI Film Festival, en Kazajistán (Kazakhstan), con su película The First Honest Day, creada con inteligencia artificial. En ella, las malas acciones vuelven físicamente más feos a sus personajes y las buenas los cambian para mejor."
-              },
-              {
-                "t": "p",
-                "x": "“Sinceramente, no esperaba ganar”, dijo Shestak, que empezó a hacer películas con IA hace dos años. El segundo puesto fue para Abhik Banerjee, de India, por SITARA ($200,000), y el tercero para Ernest Desumbila, de España (Spain), por Looking For Perseida ($100,000)."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-                "cap": "Finalistas del Astana AI Film Festival. Copyright: Astana AI Film Festival"
+                "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+                "cap": "Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "Las películas se evaluaron por el uso de las herramientas de IA, pero también por su visión artística, narrativa, coherencia y la naturalidad con que se integraba la tecnología. El certamen recibió más de 8,000 obras de 125 países; 25 películas llegaron al programa final, con 19 géneros y más de 80 modelos de IA generativa. El festival contó con un fondo total de $2 millones, la mitad para premios y la otra mitad como capital de inversión para equipos de IA."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-                "cap": "El presidente Tokayev (President Tokayev) en la inauguración del Astana AI Film Festival. Copyright: Astana AI Film Festival"
+                "x": "Las empresas pequeñas y AI-native que operan con pipelines automatizados pueden desarrollar su propia propiedad intelectual, mientras que los estudios tradicionales conservan sus ventajas en franquicias consolidadas, infraestructura de producción, talento y distribución, según el veterano de VFX Hong Jae Cheol, productor y director en Viscode, que comenzó su carrera en Industrial Light & Magic. “Estamos pasando de usar la AI para generar imágenes individuales a usar la AI como parte de un flujo de producción completo”, dijo en el InnoAsia AI Creators Camp de Busan."
               },
               {
                 "t": "p",
-                "x": "El presidente Kassym-Jomart Tokayev, que inauguró el festival, afirmó que “la barrera de entrada se ha reducido notablemente”, pero que la IA no sustituirá el papel creativo de los cineastas. “La fuerza impulsora de este festival fue el FOMO”, dijo el cofundador Aizat Kussainov."
+                "x": "Los efectos visuales tradicionales siguen siendo esenciales para que el material generado sea utilizable en pantalla, sostuvo Hong, que planteó el futuro como un modelo híbrido y no como un reemplazo total de los estudios existentes. En un enfoque AI-assisted, los actores actúan en un set controlado, la AI genera entornos y elementos visuales, y los artistas de VFX se encargan del tracking, la integración y el acabado."
+              },
+              {
+                "t": "p",
+                "x": "Mark Wachholz, de Dreamkite Studios, definió la cocreación con AI como “explorar en lugar de controlar”, mientras que el director de Climax Studio, Ahn Jaehong, trazó un flujo de trabajo que va de los prompts a los storyboards y los keyframes. Hong lo resumió así: “La AI es solo una herramienta; el cine es una secuencia”."
               }
             ]
           }
@@ -1661,161 +809,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "라트비아 감독이\n아스타나 AI 영화제 대상",
-          "body": "Nikolay Shestak이 8,000편 넘는 출품작 중 대상을 받았다.",
-          "mini_headline": "Astana AI 영화제 Grand Prix",
+          "headline": "AI-native는 IP를\n기존 스튜디오는 강점 유지",
+          "body": "Hong Jae Cheol은 AI-native와 VFX의 공존을 말했다.",
+          "mini_headline": "VFX의 하이브리드 미래",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "RxHoSyLNNRo"
-              },
-              {
-                "t": "p",
-                "x": "라트비아 출신 영화감독 Nikolay Shestak이 카자흐스탄(Kazakhstan)에서 열린 첫 Astana AI Film Festival에서 인공지능으로 만든 영화 The First Honest Day로 $450,000(€401,000) 상금의 그랑프리(Grand Prix)를 차지했다. 작품 속 인물들은 나쁜 행동을 하면 외모가 흉해지고, 좋은 행동을 하면 더 나은 모습으로 바뀐다."
-              },
-              {
-                "t": "p",
-                "x": "두 해 전부터 AI로 영화를 만들기 시작한 Shestak은 “솔직히 우승을 기대하지 않았다”고 말했다. 이어 인도(India)의 Abhik Banerjee가 SITARA로 두 번째($200,000), 스페인(Spain)의 Ernest Desumbila가 Looking For Perseida로 세 번째($100,000) 자리에 올랐다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-                "cap": "Astana AI Film Festival 결선 진출자들. Copyright: Astana AI Film Festival"
+                "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+                "cap": "Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "심사는 AI 도구 활용 방식뿐 아니라 예술적 비전, 스토리텔링, 완성도, 기술을 얼마나 자연스럽게 녹여냈는지를 기준으로 이뤄졌다. 공모에는 125개국에서 8,000편이 넘는 작품이 몰렸고, 최종 프로그램에 오른 25편은 19개 장르와 80개가 넘는 생성형 AI 모델을 아울렀다. 영화제의 총기금은 $2 million으로, 절반은 상금, 나머지 절반은 AI 팀을 위한 투자 자본이다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-                "cap": "Astana AI Film Festival 개막식에 참석한 Tokayev 대통령(President Tokayev). Copyright: Astana AI Film Festival"
+                "x": "자동화 파이프라인을 운영하는 작은 AI-native 기업은 자체 지식재산(IP)을 개발할 수 있고, 전통 스튜디오는 기존 프랜차이즈와 제작 인프라, 인재, 배급에서 강점을 유지한다. Industrial Light & Magic에서 경력을 시작해 Viscode에서 프로듀서 겸 감독으로 일하는 VFX 베테랑 Hong Jae Cheol의 진단이다. 그는 부산(Busan)에서 열린 InnoAsia AI Creators Camp에서 “AI로 개별 이미지를 생성하던 데서, AI를 완전한 제작 워크플로의 일부로 쓰는 쪽으로 옮겨 가고 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "영화제 개막을 알린 Kassym-Jomart Tokayev 대통령은 “진입 장벽이 크게 낮아졌다”면서도 AI가 영화인의 창작 역할을 대신하지는 못할 것이라고 말했다. 공동 창립자 Aizat Kussainov는 “이 영화제의 원동력은 FOMO였다”고 말했다."
+                "x": "Hong은 생성된 소재를 화면에서 쓸 수 있게 만드는 데 전통적인 시각효과가 여전히 필수라고 주장하며, 미래를 기존 스튜디오의 전면 대체가 아닌 하이브리드로 규정했다. AI-assisted 방식에서는 배우가 통제된 세트에서 연기하고, AI가 환경과 시각 요소를 생성하며, VFX 아티스트가 트래킹과 합성, 마무리를 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "Dreamkite Studios의 Mark Wachholz는 AI 공동 창작을 “통제가 아닌 탐색”으로 규정했고, Climax Studio의 Ahn Jaehong 감독은 프롬프트에서 스토리보드, 키프레임으로 이어지는 워크플로를 제시했다. Hong은 “AI는 도구일 뿐이고, 영화는 시퀀스다”라고 정리했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ラトビアの監督が\nアスタナAI映画祭で大賞",
-          "body": "Nikolay Shestakが8,000作超の応募から$450,000の大賞を得た。",
-          "mini_headline": "Astana AI映画祭のGrand Prix",
+          "headline": "AI-nativeはIPを、\n既存スタジオは強みを保つ",
+          "body": "Hong Jae CheolはInnoAsiaでAI-nativeとVFXの共存を描いた。",
+          "mini_headline": "VFXのハイブリッドな未来",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "RxHoSyLNNRo"
-              },
-              {
-                "t": "p",
-                "x": "ラトビアの映画監督Nikolay Shestakが、カザフスタン(Kazakhstan)で開かれた初のAstana AI Film Festivalで、人工知能を使って制作した映画「The First Honest Day」により$450,000(€401,000)のグランプリ(Grand Prix)を獲得した。作中では、悪い行いをすると登場人物の外見が醜くなり、善い行いをすると良い方向へ変わる。"
-              },
-              {
-                "t": "p",
-                "x": "「正直、勝てるとは思っていなかった」と、二年前にAIで映画を作り始めたShestakは語った。二位はインド(India)のAbhik Banerjeeによる「SITARA」($200,000)、三位はスペイン(Spain)のErnest Desumbilaによる「Looking For Perseida」($100,000)だった。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-                "cap": "Astana AI Film Festivalのファイナリストたち。Copyright: Astana AI Film Festival"
+                "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+                "cap": "Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "審査ではAIツールの使い方に加え、芸術的なビジョン、ストーリーテリング、一貫性、技術がどれだけ自然に溶け込んでいるかも評価された。コンペには125カ国から8,000作を超える応募があり、最終プログラムに残った25作品は19のジャンルと80を超える生成AIモデルにまたがった。映画祭の基金総額は$2 millionで、半分が賞金、残り半分がAIチーム向けの投資資金に充てられた。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-                "cap": "Astana AI Film Festivalの開幕式に臨むTokayev大統領(President Tokayev)。Copyright: Astana AI Film Festival"
+                "x": "自動化パイプラインを動かす小規模なAI-native企業は独自の知的財産を開発でき、一方で伝統的なスタジオは既存のフランチャイズ、制作インフラ、人材、配給における強みを保つ。Industrial Light & Magicでキャリアを始め、現在はViscodeでプロデューサー兼監督を務めるVFXのベテラン、Hong Jae Cheolの見立てだ。釜山（Busan）で開かれたInnoAsia AI Creators Campで彼は「AIで個々の画像を生成する段階から、AIを制作ワークフロー全体の一部として使う段階へと移りつつある」と語った。"
               },
               {
                 "t": "p",
-                "x": "映画祭の開幕を宣言したKassym-Jomart Tokayev大統領は「参入障壁は大きく下がった」と述べつつ、AIが映画製作者の創造的な役割に取って代わることはないとした。共同創設者のAizat Kussainovは「この映画祭の原動力はFOMOだった」と語った。"
+                "x": "Hongは、生成された素材をスクリーンで使えるものにするには従来の視覚効果が今も欠かせないと主張し、未来を既存スタジオの全面的な置き換えではなくハイブリッドとして描いた。AI-assistedの手法では、俳優が管理されたセットで演技し、AIが環境や視覚要素を生成し、VFXアーティストがトラッキング、統合、仕上げを担う。"
+              },
+              {
+                "t": "p",
+                "x": "Dreamkite StudiosのMark WachholzはAIとの共創を「制御ではなく探求」と位置づけ、Climax Studioの監督Ahn Jaehongはプロンプトからストーリーボード、キーフレームへと至るワークフローを示した。Hongは「AIは道具にすぎない。映画はシーケンスだ」とまとめた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "拉脱维亚导演\n摘得阿斯塔纳AI影展大奖",
-          "body": "Nikolay Shestak从8,000多部作品中胜出,摘得$450,000大奖。",
-          "mini_headline": "Astana AI电影节Grand Prix揭晓",
+          "headline": "AI-native造IP，\n老牌工作室守优势",
+          "body": "Hong Jae Cheol在InnoAsia勾勒AI-native与VFX的混合未来。",
+          "mini_headline": "VFX的混合未来",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "RxHoSyLNNRo"
-              },
-              {
-                "t": "p",
-                "x": "拉脱维亚电影人Nikolay Shestak凭借运用人工智能创作的影片《The First Honest Day》,在哈萨克斯坦(Kazakhstan)首届Astana AI Film Festival上夺得$450,000(€401,000)的大奖(Grand Prix)。片中,角色做坏事会让外表变得更丑,做好事则会让他们变得更好。"
-              },
-              {
-                "t": "p",
-                "x": "两年前开始用AI拍片的Shestak说:“老实说,我没想到会赢。”第二名是印度(India)的Abhik Banerjee,作品为《SITARA》($200,000);第三名是西班牙(Spain)的Ernest Desumbila,作品为《Looking For Perseida》($100,000)。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-                "cap": "Astana AI Film Festival入围者。Copyright: Astana AI Film Festival"
+                "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+                "cap": "Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "评审不仅看AI工具的使用方式,也考量艺术视野、叙事、连贯性以及技术融入的自然程度。比赛共收到来自125个国家的8,000多部作品;25部影片进入最终片单,涵盖19种类型和80多个生成式AI模型。电影节总基金为$2 million,一半用于奖金,一半作为AI团队的投资资本。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-                "cap": "Tokayev总统(President Tokayev)出席Astana AI Film Festival开幕式。Copyright: Astana AI Film Festival"
+                "x": "曾在Industrial Light & Magic开启职业生涯、现任Viscode制片人兼导演的VFX资深人士Hong Jae Cheol表示，运行自动化流程的小型AI-native公司可以开发自有知识产权，而传统工作室则在成熟系列、制作基础设施、人才和发行方面保有优势。他在釜山（Busan）举行的InnoAsia AI Creators Camp上说：“我们正从用AI生成单张图像，转向把AI作为完整制作流程的一部分。”"
               },
               {
                 "t": "p",
-                "x": "为电影节揭幕的Kassym-Jomart Tokayev总统表示,“准入门槛已大幅降低”,但AI不会取代电影人的创作角色。联合创始人Aizat Kussainov说:“这个电影节的驱动力是FOMO。”"
+                "x": "Hong认为，要让生成的素材能够用于银幕，传统视觉特效依然不可或缺；他将未来描述为一种混合模式，而非对现有工作室的全面取代。在AI-assisted的做法中，演员在受控片场表演，AI生成环境和视觉元素，VFX艺术家负责跟踪、合成与收尾。"
+              },
+              {
+                "t": "p",
+                "x": "Dreamkite Studios的Mark Wachholz将与AI共同创作形容为“探索而非控制”，Climax Studio导演Ahn Jaehong则梳理了从提示词到故事板再到关键帧的工作流程。Hong总结道：“AI只是工具；电影是一个序列。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un letón gana el Grand Prix\ndel festival de IA de Astana",
-          "body": "Nikolay Shestak ganó el Grand Prix de $450,000 del primer Astana AI Film Festival entre más de 8,000 obras.",
-          "mini_headline": "Grand Prix de cine con IA en Astana",
+          "headline": "Los estudios AI-native crean IP;\nlos clásicos mantienen ventaja",
+          "body": "En el campamento InnoAsia de Busan, Hong Jae Cheol trazó un futuro híbrido de estudios AI-native y VFX tradicional.",
+          "mini_headline": "Un futuro híbrido para los VFX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "RxHoSyLNNRo"
-              },
-              {
-                "t": "p",
-                "x": "El cineasta letón Nikolay Shestak ganó el Grand Prix de $450,000 (€401,000) del primer Astana AI Film Festival, en Kazajistán (Kazakhstan), con su película The First Honest Day, creada con inteligencia artificial. En ella, las malas acciones vuelven físicamente más feos a sus personajes y las buenas los cambian para mejor."
-              },
-              {
-                "t": "p",
-                "x": "“Sinceramente, no esperaba ganar”, dijo Shestak, que empezó a hacer películas con IA hace dos años. El segundo puesto fue para Abhik Banerjee, de India, por SITARA ($200,000), y el tercero para Ernest Desumbila, de España (Spain), por Looking For Perseida ($100,000)."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
-                "cap": "Finalistas del Astana AI Film Festival. Copyright: Astana AI Film Festival"
+                "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+                "cap": "Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "Las películas se evaluaron por el uso de las herramientas de IA, pero también por su visión artística, narrativa, coherencia y la naturalidad con que se integraba la tecnología. El certamen recibió más de 8,000 obras de 125 países; 25 películas llegaron al programa final, con 19 géneros y más de 80 modelos de IA generativa. El festival contó con un fondo total de $2 millones, la mitad para premios y la otra mitad como capital de inversión para equipos de IA."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
-                "cap": "El presidente Tokayev (President Tokayev) en la inauguración del Astana AI Film Festival. Copyright: Astana AI Film Festival"
+                "x": "Las empresas pequeñas y AI-native que operan con pipelines automatizados pueden desarrollar su propia propiedad intelectual, mientras que los estudios tradicionales conservan sus ventajas en franquicias consolidadas, infraestructura de producción, talento y distribución, según el veterano de VFX Hong Jae Cheol, productor y director en Viscode, que comenzó su carrera en Industrial Light & Magic. “Estamos pasando de usar la AI para generar imágenes individuales a usar la AI como parte de un flujo de producción completo”, dijo en el InnoAsia AI Creators Camp de Busan."
               },
               {
                 "t": "p",
-                "x": "El presidente Kassym-Jomart Tokayev, que inauguró el festival, afirmó que “la barrera de entrada se ha reducido notablemente”, pero que la IA no sustituirá el papel creativo de los cineastas. “La fuerza impulsora de este festival fue el FOMO”, dijo el cofundador Aizat Kussainov."
+                "x": "Los efectos visuales tradicionales siguen siendo esenciales para que el material generado sea utilizable en pantalla, sostuvo Hong, que planteó el futuro como un modelo híbrido y no como un reemplazo total de los estudios existentes. En un enfoque AI-assisted, los actores actúan en un set controlado, la AI genera entornos y elementos visuales, y los artistas de VFX se encargan del tracking, la integración y el acabado."
+              },
+              {
+                "t": "p",
+                "x": "Mark Wachholz, de Dreamkite Studios, definió la cocreación con AI como “explorar en lugar de controlar”, mientras que el director de Climax Studio, Ahn Jaehong, trazó un flujo de trabajo que va de los prompts a los storyboards y los keyframes. Hong lo resumió así: “La AI es solo una herramienta; el cine es una secuencia”."
               }
             ]
           }

@@ -6655,6 +6655,139 @@
           "x": "La diferencia es que Claude Opus 5.5 puede dejarse funcionando toda la noche para descompilar un juego. Los equipos legales de las editoras tendrán que hacer horas extra en el futuro previsible."
         }
       ]
+    },
+    "games/illunes-offline-ai-game-master": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "14Dimension Enterprise anunció el lanzamiento oficial del RPG roguelike por turnos The Return of Illunes en Steam (PC) el 9 de octubre de 2026 (hora de Corea). Su precio es de 22.500 wones (19,99 dólares estadounidenses). La versión para Nintendo Switch está en revisión de la plataforma y su fecha de lanzamiento se anunciará más adelante."
+        },
+        {
+          "t": "p",
+          "x": "The Return of Illunes integra de serie un máster de juego con IA entrenado adicionalmente para este título, y es el primer TRPG offline del mundo que genera directamente en el dispositivo no solo la historia y la resolución de acciones, sino también subclases, habilidades, equipo, reliquias y jefes."
+        },
+        {
+          "t": "p",
+          "x": "※ El modelo de lenguaje viene incluido en el juego y funciona solo dentro del PC del jugador, por lo que no hay conexión a servidores, suscripciones ni tarifas por uso."
+        },
+        {
+          "t": "p",
+          "x": "La IA escribe la historia y los objetivos de cada partida, los eventos de aventura, la narración de los combates, los diálogos con los compañeros y los epílogos finales, y crea los nombres y el trasfondo de nuevas subclases, habilidades, equipo y reliquias, así como las escenas de entrada y las mecánicas de los jefes. El daño, las estadísticas, la dificultad y la progresión los fijan siempre las reglas del juego; la entrada del jugador se revisa antes de llegar al modelo, y el texto generado, antes de mostrarse."
+        },
+        {
+          "t": "p",
+          "x": "El sistema principal es la 'acción libre'. En combates o eventos, el jugador puede escribir una acción que no está en el menú, como \"cortar la cuerda del candelabro y dejarlo caer sobre el enemigo\", y el máster de juego con IA decide si tiene éxito y narra el resultado. La resolución se refleja en el resultado real del combate."
+        },
+        {
+          "t": "p",
+          "x": "La interfaz admite 13 idiomas, y el texto generado por IA está disponible en coreano, inglés y japonés."
+        },
+        {
+          "t": "p",
+          "x": "※ Lo de 'primero del mundo' se basa en una investigación propia con materiales públicos al 9 de octubre de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
+        },
+        {
+          "t": "video",
+          "yt": "RtNtd1x5RZo"
+        }
+      ]
+    },
+    "games/astro-bot-psvr-quest3-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El vibecoding con IA ha provocado una auténtica explosión en la escena del modding de VR. El último en beneficiarse es Astro Bot Rescue Mission (2018), exclusivo de PSVR: el modder de VR 'Bigmak94', conocido también por un mod de VR de Super Mario Galaxy, pidió al asistente de IA Claude que modificara shadPS4, un emulador de PlayStation 4 de código abierto."
+        },
+        {
+          "t": "p",
+          "x": "Según la publicación del modder en Reddit, Claude generó en la práctica dos versiones: una compilación nativa para Quest 3 que se instala por sideload y se juega en el propio dispositivo, y una versión para PC VR que se transmite a otros visores."
+        },
+        {
+          "t": "video",
+          "yt": "20hsnzFcG1Y"
+        },
+        {
+          "t": "p",
+          "x": "El mod 'AstroQuest', que requiere un volcado del juego desde la consola, añade seguimiento del visor con 6DOF, asignación nativa de mandos, audio espacial y compatibilidad con DualSense. La versión independiente para Quest 3 es jugable, pero lleva la GPU móvil \"al límite\" con una resolución más baja."
+        },
+        {
+          "t": "p",
+          "x": "Astro Bot nunca recibió una versión para PSVR 2. Con agentes de IA como Claude abriendo el modding y la descompilación, Road to VR afirma que esto es solo la punta del iceberg, tras un mod de VR similar para Titanfall 2."
+        }
+      ]
+    },
+    "games/analogue-pocket-snes-ai-hack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+          "cap": "Crédito de la imagen: Phil Hayton"
+        },
+        {
+          "t": "p",
+          "x": "Los creadores de los núcleos de emulación openFPGA de código abierto para Analogue Pocket se enfrentan a aportes de poco esfuerzo hechos con vibe coding. Un colaborador que se hace llamar nasonliu envió una función de \"streaming experimental MSU-1\" para el núcleo de SNES de Pocket; MSU-1 es un chip de mejora ficticio que permite a los romhackers añadir audio CD-quality (con calidad de CD)."
+        },
+        {
+          "t": "p",
+          "x": "\"Me enviaste un diff de casi 50k líneas, sin que nadie lo pidiera, construido por completo con LLM, y de algún modo esperas que lo revise\", dijo agg23, que portó el núcleo FPGA de SNES. \"Aquí hay MUCHÍSIMA basura sin relación\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Estás invadiendo el tiempo y la capacidad mental de las personas al imponer contenido 'tuyo' en el que pusiste poca o ninguna capacidad mental propia\", añadió agg23. \"Me parece genial que tú y tu LLM supuestamente lograran que esto funcionara. No tiene cabida en mi mundo\"."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores del emulador de PS3 RPCS3 también pidieron a los colaboradores que dejaran de enviar código basura generado por IA; RPCS3 permite la IA, pero exige que los colaboradores entiendan por completo su código."
+        }
+      ]
+    },
+    "games/thrixel-hanocka-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Thrixel, fundada por la científica informática de la University of Chicago Rana Hanocka, lanzó una plataforma de creación 3D que genera recursos formados por piezas con nombre propio y una jerarquía lógica, de modo que los agentes de IA (AI) pueden identificarlos, ensamblarlos y animarlos directamente en motores de juego estándar de la industria. Un coche generado con Thrixel llega con las ruedas, las puertas y el chasis como piezas separadas y con nombre, que se pueden animar o sustituir."
+        },
+        {
+          "t": "video",
+          "yt": "1rC0RlBDwrg"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma combina modelos de lenguaje visual, pipelines agénticos, difusión generativa y técnicas de optimización, cada uno asignado a un paso concreto del pipeline de modelado 3D. La investigación de Hanocka sentó bases clave de la IA 3D, entre ellas MeshCNN y Text2Mesh."
+        },
+        {
+          "t": "p",
+          "x": "“Thrixel crea recursos estructurados, de modo que un LLM puede animarlos, añadirles lógica y colocarlos en una escena”, dijo Hanocka."
+        },
+        {
+          "t": "p",
+          "x": "Junto con la plataforma, Thrixel presenta Build World, un flujo de trabajo agéntico en el que los creadores trabajan junto a un agente de código con IA que genera el contenido 3D necesario mientras escribe la lógica y el código subyacentes. Es compatible con Roblox, Three.js, Unity y Unreal Engine. Thrixel ha recaudado 3 millones de dólares en financiación inicial de Sierra Ventures, MFV Partners, Harper Court Ventures y Z5 Capital."
+        }
+      ]
     }
   }
 }

@@ -6307,6 +6307,110 @@
           "x": "La IFPI dijo que el resultado “envía un mensaje claro de que el fraude en streaming es un delito” y añadió que la industria también debe prevenir, detectar y desarticular el fraude mediante su Streaming Integrity Initiative."
         }
       ]
+    },
+    "music/biff-ai-entrance-song-intent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://isp.edailystatic.com/data/isp/image/2026/10/08/isp20261008000114.1280x.0.jpg",
+          "cap": "El director Min Kyu-dong / Foto: cortesía de Yonhap News"
+        },
+        {
+          "t": "p",
+          "x": "Las singulares canciones de entrada que animaron la ceremonia de apertura del 31.º Festival Internacional de Cine de Busan siguen dando que hablar en internet día tras día. Min Kyu-dong, que volvió a dirigir la ceremonia de apertura tras hacerlo el año pasado, contó la historia detrás de ellas a Ilgan Sports el día 8: “Es música preparada para cada uno de los invitados”."
+        },
+        {
+          "t": "p",
+          "x": "Min explicó: “El Festival Internacional de Cine de Busan tiene como principio no ofrecer actuaciones aparte en la ceremonia de apertura, así que la música tiene que llenar casi dos horas, desde la entrada del público hasta la alfombra roja”, y dijo que concibió ese tiempo como una especie de ‘preshow’. Según explicó, como dos horas de música house con el mismo ritmo pueden adormecer los sentidos, intercaló a intervalos adecuados canciones con mensajes de bienvenida."
+        },
+        {
+          "t": "p",
+          "x": "Las canciones que sonaron en la alfombra roja el día 6 se crearon a la medida de cada obra y persona, y sus letras incluían el título de la obra, los actores, la productora y una presentación de la película. Shim Eun-kyung se sobresaltó al oír su nombre, y también sonaron canciones a la llegada de invitados internacionales como Fan Bingbing, Charlotte Gainsbourg y Hirokazu Kore-eda."
+        },
+        {
+          "t": "img",
+          "src": "https://isp.edailystatic.com/data/isp/image/2026/10/08/isp20261008000115.1280x.0.jpg",
+          "cap": "Alfombra roja de la ceremonia de apertura del 31.º Festival Internacional de Cine de Busan / Foto: cortesía de Yonhap News"
+        },
+        {
+          "t": "p",
+          "x": "Las canciones se produjeron con IA, pero las letras y la orientación de cada tema reflejan la dirección de Min. “Escribí las letras yo mismo y diseñé cada canción de forma distinta según el género y el ambiente de la obra que traía cada invitado”, afirmó, y pidió: “Me gustaría que se mirara no la herramienta con la que se hizo la música, sino qué le transmitió esa música y a quién”."
+        },
+        {
+          "t": "p",
+          "x": "Sobre el hecho de que no todos los invitados recibieran una canción de entrada, señaló que “no se seleccionó ni se dio un trato diferente a ningún invitado u obra en particular”, y añadió que, como el orden y los intervalos de entrada cambiaban constantemente sobre la marcha, no se pudieron reproducir todas las canciones preparadas. El festival continúa hasta el día 15."
+        }
+      ]
+    },
+    "music/smorph-playable-sound-morphing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El morphing sonoro, que genera sonidos intermedios en la transición de una identidad sonora a otra, puede ser una herramienta potente para el diseño de sonido musical. Los enfoques de morphing basados en difusión existentes entrelazan la estructura temporal y la identidad tímbrica, sin ofrecer un mecanismo para mantener una fija mientras se transforma la otra."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.06478v1/assets/fig1_v7.png",
+          "cap": "SoundCanvas de smorph: cuatro prompts de texto o audio definen las esquinas de un espacio 2D de morphing sonoro."
+        },
+        {
+          "t": "p",
+          "x": "Los autores (Annie Chu, Justin Salamon y colegas) presentan smorph, un marco de guiado sin entrenamiento que conserva cómo se comporta un sonido a lo largo del tiempo mientras transforma lo que el sonido es, lo que permite, por ejemplo, pasar de metales a cuerdas con una altura fija. Funciona en tres modos: prompt-to-prompt, audio-to-prompt y audio-to-audio."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.06478v1/assets/fig-specs.png",
+          "cap": "Ejemplo de trayectoria de morphing con control estructural explícito (arriba) y sin él (abajo)."
+        },
+        {
+          "t": "p",
+          "x": "Las evaluaciones en conjuntos de datos diversos muestran trayectorias de morphing suaves y una preservación de la estructura temporal y de la fuente sustancialmente mejor que la de los modelos de referencia, aunque con una transformación hacia el objetivo más conservadora en algunos escenarios. En un estudio de caso exploratorio, los músicos consideraron expresivas y tocables las trayectorias de smorph, lo que sugiere que el anclaje estructural puede servir como una restricción productiva para la interacción instrumental."
+        }
+      ]
+    },
+    "music/artist-identity-song-model-encoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los modelos de generación de texto a canción pueden ser inducidos mediante prompts a imitar a artistas concretos o a regurgitar canciones enteras de sus datos de entrenamiento. Aunque estos fenómenos se han documentado a nivel de comportamiento, se sabe poco sobre las representaciones internas que pueden originarlos."
+        },
+        {
+          "t": "p",
+          "x": "En 'Ghost in the Encoder', Arhan Vohra, Choenden Kyirong, Laura Ibáñez-Martínez y Martín Rocamora muestran que se puede sondear un modelo entrenado en busca de representaciones linealmente decodificables de la identidad del artista a partir únicamente de las letras de las canciones, sin ningún identificador adicional."
+        },
+        {
+          "t": "p",
+          "x": "Mediante un estudio de caso controlado de ACE-Step 1.5 que abarca 2.000 canciones de 100 artistas, demuestran que el artista asociado a un conjunto dado de letras puede identificarse en las activaciones internas del modelo, y que esta señal de condicionamiento se propaga desde el codificador de letras hasta la red troncal de difusión durante la inferencia."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados indican que las letras constituyen un canal de condicionamiento a nivel de artista que las salvaguardas contra la replicación del lado del prompt no abordan, y ponen de relieve cómo el análisis del espacio latente puede servir para auditar lo que los modelos generativos de música han aprendido implícitamente de sus datos de entrenamiento."
+        }
+      ]
+    },
+    "music/distrokid-umg-takedowns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
+        },
+        {
+          "t": "p",
+          "x": "Los artistas se quejan en redes sociales de que DistroKid ha retirado sus obras sin miramientos y sin previo aviso. DistroKid confirmó a The Verge que las retiradas son una respuesta directa a las reclamaciones de UMG, que en septiembre presentó una demanda en la que afirma que DistroKid ha creado una “canalización de AI-slop”. Los artistas aseguran que obras suyas hechas sin IA (non-AI) se están viendo arrastradas por la purga."
+        },
+        {
+          "t": "p",
+          "x": "El músico McGwire contó que seis de sus canciones fueron retiradas de las plataformas de streaming, sin ninguna comunicación de DistroKid antes ni después. Una era una versión de “Isn’t She Lovely”, de Stevie Wonder, para la que asegura tener la licencia correspondiente; otra se retiró por un sample no autorizado de una canción publicada dos años después que su tema."
+        },
+        {
+          "t": "p",
+          "x": "El productor Jesse Cannon dijo que “DistroKid renunció a la atención al cliente hace unos dos años”. El rapero King Chase afirmó que le retiraron sin explicación un álbum completo que llevaba publicado 3-4 años."
+        },
+        {
+          "t": "p",
+          "x": "Amanda Ferri, VP de Artist Services de DistroKid, declaró: “Un número muy reducido de grabaciones distribuidas a través de DistroKid se ha retirado en respuesta a las reclamaciones de UMG. Rechazamos con firmeza las acusaciones en las que se basa la demanda de UMG y lamentamos los trastornos causados a los artistas afectados”."
+        }
+      ]
     }
   }
 }

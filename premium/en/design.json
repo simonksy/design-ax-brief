@@ -7499,6 +7499,151 @@
           "x": "Runway suggests launch videos that pair animated stats with product shots generated from one reference photo, onboarding walkthroughs with generated scenes of customers, all-hands updates with added voiceover and music, and 16:9 explainers expanded into vertical and square formats or localized without rebuilding the animation."
         }
       ]
+    },
+    "design/nngroup-context-libraries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude power users rarely edit their context files and often can't find them. In NN/g's study, participants spent more effort engineering context libraries than crafting prompts, yet each had improvised a bespoke process, and files went stale or missing."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+          "cap": "Users write simpler prompts, relying on the agent to reference and update the context library."
+        },
+        {
+          "t": "p",
+          "x": "A context library is a collection of institutional and procedural knowledge, in markdown files or external software, that AI agents may reference and edit. Four lessons emerged: context needs ongoing maintenance; let the agent update context for you, since almost nobody typed directly into their files; structure the library for findability; and give agents only the context they need."
+        },
+        {
+          "t": "p",
+          "x": "One participant kept over 2,700 context files with a CLAUDE.md \"index card\" in each folder, engineered to load as little as possible: \"It must move up or down before it can move sideways.\""
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+          "cap": "Each folder in the hierarchy has its own CLAUDE.md index file."
+        },
+        {
+          "t": "p",
+          "x": "Until platforms take on curation strategy themselves, that work falls to users."
+        }
+      ]
+    },
+    "design/teslers-law-chat-field-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+        },
+        {
+          "t": "p",
+          "x": "AI did not remove the complexity of software. It removed the interface that told you where the complexity went, and who is now paying for it. Larry Tesler's law of conservation of complexity says the hard part of any application cannot be removed, only handed to somebody else."
+        },
+        {
+          "t": "p",
+          "x": "Patrick Neeman argues the chat box was a transfer in three directions: some complexity moved into the model, some onto the user, who now writes the specification and judges the result, and the rest to your team, into evaluation work nobody staffed. \"Simplicity in an interface is almost always someone else's workload.\""
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+          "cap": "A waterbed under pressure, pushed down in one place and rising in another."
+        },
+        {
+          "t": "p",
+          "x": "He cites METR's 2025 trial, where AI meant a 19 percent slowdown for experienced developers, and a study of 5,172 support agents with a 15 percent gain. Some work, like payroll, sits on a deterministic floor. His advice: design for the checking, instrument the receiving column, and decide in writing who pays for each piece of difficulty."
+        }
+      ]
+    },
+    "design/ai-generated-ui-fast-design-not-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+          "cap": "Table with carved feet from the author's stepfather's shop, Architectural Salvage"
+        },
+        {
+          "t": "p",
+          "x": "Sophie Shrimpton opens with the hand-carved 17th- and 18th-century pieces her stepfather salvaged, and contrasts them with her wobbly builder-grade dining table. Fast furniture, she writes, traded good materials and craft for speed and margin; the EPA counts 12.1M tons of furniture landfilled, up 450% since the 1960s."
+        },
+        {
+          "t": "p",
+          "x": "Companies now want the same speed from AI. AI is a useful tool, she argues, but it cannot replace human thinking: designers need the freedom to wander, question and fail. Citing Giorgia Lupi, she warns against stopping at the simplest answer. A \"prompt first, think never\" mindset produces what she calls AI slop: UI generated in a few prompts, without review or a known problem."
+        },
+        {
+          "t": "p",
+          "x": "Air Canada's chatbot case, which cost $812.02 in damages, shows the hidden cost. Designers risk becoming custodians cleaning up after AI, echoing NN/G's \"custodial era of UX.\""
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+          "cap": "NN/G: how designers are becoming custodians"
+        },
+        {
+          "t": "p",
+          "x": "Her advice: understand the problem first, then use AI as a tool once the heavy thinking is done. \"We are in the age of AI AND we can be in the age of craft too.\""
+        }
+      ]
+    },
+    "design/boring-ai-hollywood-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A single box office bomb can lose studios tens, if not hundreds, of millions, so the temptation to use generative AI is understandable. But Filmustage CEO Egor Dubrovsky argues audiences and workers reject AI in a starring role; preventing AI from taking creative jobs was a primary cause of the 2023 SAG-AFTRA strike."
+        },
+        {
+          "t": "p",
+          "x": "Netflix's The Gentlemen used AI only behind the scenes, to break down the script, inform shooting decisions and keep production running. Many productions now assign AI menial pre-production tasks such as script breakdowns, shooting schedules and budget planning that do not influence what ends up on screen."
+        },
+        {
+          "t": "p",
+          "x": "A scene breakdown that took days can be done in minutes. Pre-production accounts for 10-15% of the total budget on average. Studios should use the savings to focus on what matters to audiences: refining scripts, improving special effects, perfecting performances."
+        }
+      ]
+    },
+    "design/synthetic-users-uxr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+        },
+        {
+          "t": "p",
+          "x": "A big debate among UX researchers is whether to use synthetic users. One group considers it unethical to test a product that serves humans with an artificial persona; the other defends it as a tool that makes research more efficient. SAP Chief Design Officer Arin Bhowmick understands both, but: “These users aren’t real.”"
+        },
+        {
+          "t": "p",
+          "x": "LLMs are too positive. In a 2025 study, “She was useful, but a bit too optimistic,” eight UX designers worked with an AI persona called Alice, which showed “a consistent tendency to agree uncritically with design proposals.” Participants still found her useful for early exploration."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+        },
+        {
+          "t": "p",
+          "x": "Speed is the plus. User Interviews surveyed 150 researchers in May 2026: 41% treat synthetic users as a preliminary tool before human research, rating them most useful for survey and screener design (46%), directional usability testing (34%) and early-stage research (32%)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
+        },
+        {
+          "t": "p",
+          "x": "SAP’s Eric Mahlstedt recreated past studies with synthetic users and found the answers overly generic: “It felt less like conducting research and more like a sophisticated internet search.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+        },
+        {
+          "t": "p",
+          "x": "Bhowmick’s answer is no: use synthetic users only to extend the scale of human UX research already done, never as the one source for key product decisions."
+        }
+      ]
     }
   }
 }

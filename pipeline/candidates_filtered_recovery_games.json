@@ -1,50 +1,98 @@
 {
-  "generated_at": "2026-09-27T22:40:00Z",
   "section": "games",
+  "date": "2026-10-12",
+  "now_iso": "2026-10-11T22:00:00Z",
   "window_hours": 336,
-  "recovery_pass": 1,
-  "keywords_added": [
-    "AI global illumination diffusion",
-    "AI prototype art director",
-    "LLM fan port vibecoded",
-    "DLSS FSR upscaling mod",
-    "AI-native studio",
-    "DLSS-NR-on-AMD",
-    "AI 챗봇 가이드 MMORPG",
-    "실시간 학습 AI"
+  "expansion": [
+    "Recovery pass: 50+ outlet RSS feeds (EN/KR/JP), pcgamer+gamesradar /archive/2026/10, Kotaku post-sitemap-2026-10, Inven AI search page, vendor blogs (Xbox Wire, PS Blog, Unity, Unreal, NVIDIA)",
+    "3 WebSearch queries (Inworld/Convai/PUBG Ally, Xbox Copilot/Muse, Krafton/NC/Netmarble AI) - all stale, no usable hits",
+    "Dropped as already published/same story: Horii AI mystery game, Kutaragi, Sega AI stance (Kotaku), Warhorse AI interview, driving-sim $1,000/day follow-ups, Capcom RE Engine, PS5 QSSR, Jagex, Ryza AI chat, Krafton-SNU world model, Sony boss-AI patent"
   ],
   "items": [
     {
-      "url": "https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-09-24T10:30:09+00:00",
-      "title": "After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support",
-      "og_image": "https://assetsio.gnwcdn.com/gta-4-grand-theft-auto-iv-niko-bellic-show-off.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "A new community mod adds DLSS and FSR upscaling to 2008's GTA IV, giving the game a sharper, modern AI-reconstructed image.",
-      "category": "games"
+      "category": "games",
+      "url": "https://bbs.ruliweb.com/news/read/230407",
+      "title": "14Dimension Enterprise, 게임 전용 AI 게임마스터 내장 오프라인 TRPG '일루네스의 귀환(The Return of Illunes)' Steam 정식 출시",
+      "source": "루리웹",
+      "published_iso": "2026-10-09T16:38:41+09:00",
+      "og_image": "https://i2.ruliweb.com/ori/26/10/09/1a11f984465afd4.webp",
+      "excerpt": "The Return of Illunes launched on Steam (KRW 22,500 / $19.99) with a fine-tuned AI game master bundled on-device: it writes each run's story, companion dialogue, subclasses, skills, relics and bosses, and adjudicates free-text 'free actions' with no server, subscription or per-use fee; damage and stats stay rule-bound.",
+      "source_lang": "ko"
     },
     {
-      "url": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/",
+      "category": "games",
+      "url": "https://www.pcgamesn.com/arc-raiders/celeste-frozen-trail-update",
+      "title": "Arc Raiders is replacing AI with real human performances, starting with Celeste",
+      "source": "PCGamesN",
+      "published_iso": "2026-10-05T14:49:32Z",
+      "og_image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/10/arc-raiders-celeste-frozen-trail-update.jpg",
+      "excerpt": "Embark is moving trader NPC Celeste off text-to-speech-driven performance to full motion and facial capture of voice actor Diana Gardner, debuting in the Frozen Trail trailer; the studio admits her limited expressiveness was immersion-breaking.",
+      "source_lang": "en"
+    },
+    {
+      "category": "games",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/arc-raiders-developer-uses-ai-to-detect-cheating-embark-cracks-down-on-cheaters-deploys-harsh-penalties-including-permaban-on-first-time-offenders",
+      "title": "Arc Raiders publisher developing AI anti-cheat stack in escalating war with cheaters",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-10-09T10:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/G8Nf2LUvQtGJTSr5FwNfaM-1920-80.png",
+      "excerpt": "Embark is building an AI-based cheat-detection stack for Arc Raiders, paired with game-license blacklisting and permanent bans for first-time offenders.",
+      "source_lang": "en"
+    },
+    {
+      "category": "games",
+      "url": "https://www.pocketgamer.biz/nordic-ai-part-three-how-nordic-studios-are-using-ai-part-three-lore-checks-a-programmers-programmer-and-the-parts-writers-keep-for-themselves/",
+      "title": "How Nordic studios are using AI part three: Lore checks, a \"programmer's programmer\" and the parts writers keep for themselves",
       "source": "PocketGamer.biz",
-      "published_iso": "2026-09-23T15:48:00+01:00",
-      "title": "Starform's Lou Fasulo on staying at 26 people, AI-native development and who really funds a live game",
-      "og_image": "https://media.pocketgamer.biz/images/141400/89849/starformlou_l1200.jpg",
-      "excerpt": "The Metalstorm studio head says AI gave his 26-person team more throughput, not new capability, and explains where AI-native development stops.",
-      "category": "games"
+      "published_iso": "2026-10-06T14:18:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141607/89958/nordicsaipart3_l1200.jpg",
+      "excerpt": "Four Nordic voices on where AI earns its place: Skábma studio Red Stage keeps gen-AI out of its games and Indigenous stories, using it only for producer 'dull bits', while others use it for lore checks and code assistance.",
+      "source_lang": "en"
     },
     {
-      "url": "https://wccftech.com/dlss-nr-on-amd-developer-delivers-74-performance-boost-on-radeon-gpus-in-a-single-day/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-26T18:02:42+00:00",
-      "title": "DLSS-NR-on-AMD Developer Delivers 74% Performance Boost On Radeon GPUs In A Single Day",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-NR-on-AMD-RX-9000-Alpha-0.4.0.jpg",
-      "excerpt": "DLSS-NR-on-AMD Alpha 0.4.0 boosts Radeon performance by 74% in DLSS 5 neural rendering, pushing Cyberpunk 2077 from 30 to 50 fps at 3440x1440. Note: DLSS 5 modding thread overlaps prior coverage (open-source Vulkan reimplementation); curator should weigh as follow-up.",
-      "category": "games"
+      "category": "games",
+      "url": "https://www.pocketgamer.biz/how-developers-are-using-ai-right-now/",
+      "title": "How developers are using AI right now",
+      "source": "PocketGamer.biz",
+      "published_iso": "2026-10-05T15:27:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/131443/89974/artificial-intelligence-ai-image_l1200.jpg",
+      "excerpt": "Studio leaders describe how they are using AI across production, live ops and marketing.",
+      "source_lang": "en"
+    },
+    {
+      "category": "games",
+      "url": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
+      "title": "Bloodborne PC port with full multiplayer can't get FromSoftware fans to vibe with vibe coding",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-09T16:30:24Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HYgVWfc7Vi2zK2m4QHVb6C-1920-80.jpg",
+      "excerpt": "A Claude-assisted, vibe-coded Bloodborne PC port with full multiplayer is drawing rejection from FromSoftware fans who say they'll stick with the human-made emulator.",
+      "source_lang": "en"
+    },
+    {
+      "category": "games",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost",
+      "title": "Ukranian modder slaps DLSS 5 onto Pac-Man with 4x Multipass",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-10-10T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/NaNALL3p3BQGgmQHbKsDo-1920-80.jpg",
+      "excerpt": "A modder ran DLSS 5's neural rendering over Pac-Man in MAME via ReShade with 4x Multipass, producing creepy reinterpretations, including a mode that erases a ghost's eyes.",
+      "source_lang": "en"
+    },
+    {
+      "category": "games",
+      "url": "https://www.pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
+      "title": "In the Hot Seat: Ex-Take-Two AI chief Luke Dicken on the $2tn bubble, junior jobs and the next 2008",
+      "source": "PocketGamer.biz",
+      "published_iso": "2026-10-08T15:20:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141675/90006/lukedickeninthehseat_l1200.jpg",
+      "excerpt": "Take-Two's former head of AI on trillion-dollar valuations, disappearing junior roles and why studios on the sidelines might be wise to stay there.",
+      "source_lang": "en"
     }
   ],
   "dedup": {
-    "dropped": 5,
-    "kept": 3,
+    "dropped": 2,
+    "kept": 8,
     "against_days": 5
   }
 }

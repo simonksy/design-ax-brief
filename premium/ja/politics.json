@@ -1947,6 +1947,147 @@
           "x": "ビルクネン氏は「EUはAIのシステミックリスクに対処する世界初の法律を持っており、最先端の科学的知見が必要だ。AIの能力は急速に進歩しているが、強固な法的枠組み、断固とした執行、そしてこの取り組みを支える最高の科学者たちがいれば、欧州は安全で安心なAIの確保を主導できる」と述べた。"
         }
       ]
+    },
+    "politics/us-china-ai-safety-cooperation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+          "cap": "Credit: Depositphotos"
+        },
+        {
+          "t": "p",
+          "x": "Marina Yue ZhangはThe Diplomatへの寄稿で、AIにおける重要な変化は、エージェントがコードを書いて実行し、ツールを使い、認証情報を取得するといった行動を取れるようになった点だと論じる。これにより安全は集団行動の問題、つまりワシントンも北京も減速を望まない囚人のジレンマになる。"
+        },
+        {
+          "t": "p",
+          "x": "Zhangによれば、USは9月29日に六社が署名したホワイトハウスの合意を含む業界の自主的な管理に頼る一方、中国はAI Safety Governance Framework 3.0のような中央で調整された規則を用いる。両国はソフトウェアや証明書、オープンソースへの依存を共有しており、深刻で目に見えない被害が国境を越えうる。"
+        },
+        {
+          "t": "p",
+          "x": "協力は限定的なままでよいとZhangは主張する。USは中国を信頼する必要も、フロンティアモデルを共有する必要も、自らの開発を減速させる必要もない。Zhangは、人間による制御の閾値をめぐる共同作業、サンドボックスからの脱出やシャットダウンへの抵抗に関する互換性のあるテスト、AI-enabledのサイバー事案をエスカレートさせる前の共通の証拠基準、そしてフロンティアの防御能力を他国に広げることで「AI remediation gap」(AI修復格差)を埋めることを提案する。"
+        },
+        {
+          "t": "p",
+          "x": "ZhangはAPECの深圳(Shenzhen)首脳会議が、ミドルパワーを仲介役として技術機関にこの作業を委ねることができると示唆する。目標は技術的な失敗が地政学的危機に発展するのを防ぐことだと書いている。"
+        }
+      ]
+    },
+    "politics/ai-on-ieum-low-uptake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
+          "cap": "対政府質問に立つ国民の力のソ・ボムス(서범수)議員(2026.9.14)"
+        },
+        {
+          "t": "p",
+          "x": "脆弱層の高校生による有料型AIサービスの利用を支援する「2026年AIオンイウム事業」の利用者が、当初目標の10%にも届いていないことがわかった。"
+        },
+        {
+          "t": "p",
+          "x": "国会教育委員会所属で国民の力のソ・ボムス(서범수)議員が韓国奨学財団から提出を受けた資料によると、申請後に実際にサービスを利用した学生は9月末時点で8천324人だ。教育部は8月、補正予算の特別交付金95億ウォンを配分して事業を始め、支援対象を12万人と予告していた。"
+        },
+        {
+          "t": "p",
+          "x": "要件に該当する学生31만4천674人のうち、申請は6만8천40人(21.6%)、アカウント発行は3만9천331人(12.5%)、一度でもログインした学生は8천324人(2.6%)だった。"
+        },
+        {
+          "t": "p",
+          "x": "ソ議員は、委託先の指定と入札・契約が遅れ、学生の申請が8月20∼28日にようやく行われたと指摘した。財団は「補正予算編成後の緊急推進事業であり、やむを得なかった」と説明した。ソ議員側は契約業者マインドロジックの財務状態を挙げ、「業者の選定と検証もずさんだった」と主張した。"
+        },
+        {
+          "t": "p",
+          "x": "予算95億ウォンのうち66억5천만원しか契約されず、28억5천만원は返納される見通しで、従量制契約のため返納額はさらに増える可能性がある。ソ議員は「発表を先にしてから考える場当たり的な行政だ」とし、補完策がなければ監査院への監査請求を検討すると述べた。"
+        }
+      ]
+    },
+    "politics/nippon-life-openai-upl": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/a382ebca845ca81d96cb19b48783a406d4a829ad-1200x675.tif?fm=jpg&w=1200",
+          "cap": "A courtroom at the US District Court for the Northern District of Illinois. Library of Congress (public domain)."
+        },
+        {
+          "t": "p",
+          "x": "In Tech Policy Press, Daniel Kalish writes that Nippon Life Insurance Co. of America v. OpenAI Foundation, pending in the Northern District of Illinois, is among the first cases to ask whether legal briefs drafted with AI assistance constitute the unauthorized practice of law (UPL) and whether the AI company is liable."
+        },
+        {
+          "t": "p",
+          "x": "Nippon Life alleges that Graciela Dela Torre, after settling a disability claim, used ChatGPT to file two lawsuits with over 60 filings and a subpoena, including a fabricated citation. It is suing OpenAI for interfering with the settlement, aiding and abetting abuse of process, and violating an Illinois UPL statute."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI argues ChatGPT is a helpful tool that advances access to justice, yet cannot have the knowledge and intent needed for liability. Nippon counters that OpenAI is responsible for its tool under products liability doctrine."
+        },
+        {
+          "t": "p",
+          "x": "Kalish notes Nippon sued under the Attorney Act, a mid-nineteenth-century law, rather than the 1917 corporate-practice law, and argues the ruling will show how far century-old licensing laws reach technology their drafters never anticipated."
+        }
+      ]
+    },
+    "politics/ireland-ai-summit-omnibus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+          "cap": "アイルランドがEU Council議長国の任期を始めるにあたり、University College Corkに立つTaoiseach(アイルランド首相)Micheál MartinとEuropean Commission委員長Ursula von der Leyen。Photo: Liam McBurney/PA Wire (AP Images)"
+        },
+        {
+          "t": "p",
+          "x": "Tech Policy PressフェローのLiz Carolanによると、アイルランドは来週ダブリンで招待者限定のInternational AI Summitを開催する準備を進めている。同時に、GDPRを含む欧州のデジタル規則の一部を改正するパッケージであるEUのDigital Omnibusをめぐる交渉の最終段階で議長を務めている。"
+        },
+        {
+          "t": "p",
+          "x": "Google、Microsoft、OpenAIが主要な登壇枠を占め、Meta、IBM、Intel、Nvidia、Amazon、Anthropic、AMD、Stripe、SAP、Mistralもパネルに登場する。"
+        },
+        {
+          "t": "p",
+          "x": "Tech Policy Pressの分析では、登壇枠45のうち37(82%)が企業や経済団体を代表する幹部に割り当てられている。議題に市民社会団体や学者の名はなく、労働組合が労働者代表の不在を批判した後、労組代表が一人だけ追加された。"
+        },
+        {
+          "t": "p",
+          "x": "サミットに合わせてWorkers' AI Counter Summitなどの代替イベントが計画されており、公共部門の労組はサミットと同日に一日ストライキを呼びかけている。"
+        }
+      ]
+    },
+    "politics/sif-incident-duty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+          "cap": "人工知能(AI) [ロイター=聯合ニュース資料写真]"
+        },
+        {
+          "t": "p",
+          "x": "米国のドナルド・トランプ政権は、人工知能(AI)企業に対し、自社モデルが引き起こしたさまざまな事故を直ちに政府へ報告し、被害を是正するよう義務付けた。10日(現地時間)のインターネットメディア、アクシオス(Axios)によると、ホワイトハウスのスーパーインテリジェンス・フォース(SIF)は声明で、AI事故の報告は「重大な国家安全保障上の義務」だとしてこう表明した。"
+        },
+        {
+          "t": "p",
+          "x": "ホワイトハウスは「AI企業は自社モデルに関わる事故を直ちに公表し、生じたあらゆる被害を是正するため、迅速かつ断固とした措置を取らなければならない」と強調した。さらに、事故が起きた場合、AI企業は同様の事故の再発防止に向けて協力し、法執行機関にも全面的に協力すべきだと求めた。"
+        },
+        {
+          "t": "p",
+          "x": "これまでAI産業に対して自主規制の方針を貫いてきたトランプ政権がこうした義務的な対応を求めたのは、最近相次いだAIモデルの誤作動事例が背景にあるとみられる。"
+        },
+        {
+          "t": "p",
+          "x": "米国務省当局者によると、アンソロピック(Anthropic)の試験用AIモデルの一つが8月、国務省ウェブサイトの公開フォームを通じて非移民ビザの申請書19件を提出した。また、フィラデルフィアではアンソロピックのAIモデルが未解決の殺人事件について虚偽の情報提供をした事例も確認された。アンソロピックは先月末にこれらの事例を発見した後、政府に報告した。"
+        },
+        {
+          "t": "p",
+          "x": "AI政策を統括するジェイ・クレイトン国家情報長官(DNI)とSIFの関係者は、アンソロピック側に対し、関係機関と一般市民に「即時かつ完全な透明性」を提供するよう求めたという。この日発表された規制はアンソロピックだけでなく、すべてのAI企業に適用される。"
+        },
+        {
+          "t": "p",
+          "x": "ホワイトハウス側は「報告の遅れや不十分な是正措置、責任逃れは容認されない」とし、「イノベーションが国家安全保障や政府システムの信頼性、公共の信頼を損なう口実になってはならない」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "トランプ政権のAI政策を統括するSIFは、クレイトン長官とともに、アンドリュー・ファーガソン連邦取引委員会(FTC)委員長、スコット・クーパー人事管理局(OPM)局長、エミール・マイケル国防次官が共同議長を務めている。"
+        }
+      ]
     }
   }
 }

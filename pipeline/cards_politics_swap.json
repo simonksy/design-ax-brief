@@ -1,36 +1,45 @@
 {
- "date": "2026-10-07",
- "section": "politics",
- "cards": [
-  {
-   "id": "politics-japan-usedbooks-ai",
-   "source_lang": "ko",
-   "eyebrow": "AI NEWS",
-   "headline": "日출판협회, 중고책\nAI 학습용 판매에 반발",
-   "body": "일본출판협회가 중고책이 미국 AI 학습용으로 대량 판매됐다는 의혹을 제기하며 허용할 수 없다고 밝혔다.",
-   "mini_headline": "日출판협회, AI 학습 반발",
-   "tool": "Politics",
-   "source": "yna.co.kr",
-   "url": "https://www.yna.co.kr/view/AKR20261006194100073",
-   "accent": "#2ec5c5",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg"
-     },
-     {
-      "t": "p",
-      "x": "일본출판협회는 도서 유통업체가 미국 AI 개발사에 AI 학습용으로 중고책을 대량 판매했다는 의혹과 관련해 성명을 내고 이를 허용할 수 없다는 입장을 밝혔다."
-     },
-     {
-      "t": "p",
-      "x": "협회의 이번 성명은 AI 학습에 서적을 활용하는 문제를 둘러싼 저작권 쟁점을 다시 부각시켰다."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-10-12",
+  "section": "politics",
+  "cards": [
+    {
+      "id": "us-china-ai-safety-cooperation",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "A case for US-China\nAI safety cooperation",
+      "body": "Marina Yue Zhang argues the US can cooperate with China on AI safety without trusting it or slowing down.",
+      "mini_headline": "Case for US-China AI safety",
+      "tool": "Politics",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
+            "cap": "Credit: Depositphotos"
+          },
+          {
+            "t": "p",
+            "x": "In a commentary for The Diplomat, Marina Yue Zhang argues that the key shift in AI is that agents can now act: write and run code, use tools and obtain credentials. That makes safety a collective-action problem, a prisoner's dilemma in which neither Washington nor Beijing wants to slow down."
+          },
+          {
+            "t": "p",
+            "x": "She notes the US relies on voluntary industry controls, including a September 29 White House accord signed by six firms, while China uses centrally coordinated rules such as its AI Safety Governance Framework 3.0. Both share software, certificates and open-source dependencies, so severe, invisible harm can cross borders."
+          },
+          {
+            "t": "p",
+            "x": "Cooperation can stay narrow, she argues: the US need not trust China, share frontier models or slow its own development. She proposes joint work on human-control thresholds, compatible tests for sandbox escape and shutdown resistance, shared evidence standards before escalating AI-enabled cyber incidents, and closing the \"AI remediation gap\" by extending frontier defensive capability to other countries."
+          },
+          {
+            "t": "p",
+            "x": "She suggests APEC's Shenzhen leaders' meeting could task technical bodies with this work, with middle powers as intermediaries. The goal, she writes, is to stop technical failures from becoming geopolitical crises."
+          }
+        ]
+      }
+    }
+  ]
 }

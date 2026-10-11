@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "games",
   "cards": [
     {
-      "id": "thrixel-hanocka-3d",
+      "id": "roblox-build-evaluation",
       "source_lang": "en",
-      "tool": "Games",
       "eyebrow": "AI NEWS",
-      "headline": "Thrixel 3D 생성\nAI 코딩 에이전트와 결합",
-      "body": "Thrixel Build World에선 AI 코딩 에이전트가 에셋과 로직을 만든다.",
-      "mini_headline": "Thrixel, 3D에 코딩 에이전트",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/uchicago-ai-researcher-rana-hanocka-launches-thrixel-a-3d-generation-platform/",
+      "headline": "Roblox, 에이전트형\n게임 도구 Build 평가",
+      "body": "NZ 알파 후 10만여 명이 Build를 써 봤고 게임 약 9,000개가 공개됐다.",
+      "mini_headline": "Roblox Build: 게임 9,000개",
+      "tool": "Games",
+      "source": "Roblox",
+      "url": "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,197 +19,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+            "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
           },
           {
             "t": "p",
-            "x": "시카고대학교(University of Chicago) 컴퓨터과학자 Rana Hanocka가 세운 Thrixel이 3D 제작 플랫폼을 출시했다. 부품마다 이름을 붙이고 논리적 계층으로 엮은 에셋을 만들어 주므로 AI 에이전트가 업계 표준 게임 엔진 안에서 이를 직접 알아보고 조립하고 애니메이션할 수 있다. Thrixel로 만든 자동차라면 바퀴, 문, 차체가 저마다 이름 붙은 별도 부품으로 나와 애니메이션을 넣거나 갈아 끼우기 쉽다."
-          },
-          {
-            "t": "video",
-            "yt": "1rC0RlBDwrg"
+            "x": "Roblox가 새로 내놓은 모바일 우선 제작 도구 Build는 코드, 비주얼 애셋, 게임플레이 시스템, UI, 조작을 한데 조율하는 엔드투엔드 에이전트 시스템이다. 텍스트 프롬프트만 넣으면 게임을 만들어 공개까지 할 수 있다. 뉴질랜드 알파 출시 이후 100,000명이 넘는 플레이어가 써 봤고 Build 게임은 약 9,000개가 공개됐다. 제작자의 71%는 Roblox Studio를 한 번도 써 본 적이 없었다."
           },
           {
             "t": "p",
-            "x": "비전 언어 모델, 에이전틱 파이프라인, 생성형 디퓨전, 최적화 기법을 한데 묶고, 3D 모델링 파이프라인의 단계마다 하나씩 맡겼다. MeshCNN과 Text2Mesh 등 3D AI의 핵심 토대가 Hanocka의 연구에서 나왔다."
+            "x": "평가 프레임워크는 점수 신호 네 가지로 이뤄진다. 게임 명세 품질, 엔지니어링과 디자인 두 관점으로 나눠 보는 정적 게임 품질, 실제 플레이어처럼 입력하는 플레이테스트 에이전트, 그리고 기기 뷰포트에서 본 시각 품질이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+            "cap": "Build의 평가 신호는 게임 제작의 전 과정에 걸쳐 있다."
           },
           {
             "t": "p",
-            "x": "Hanocka는 “Thrixel은 구조화된 에셋을 만들기 때문에 LLM이 이를 애니메이션하고, 로직을 더하고, 장면에 바로 배치할 수 있다”고 말했다."
+            "x": "3D 오비를 만들어 달라는 프롬프트에 Build는 약 8분 만에 Skyforge Ascent를 내놓았다. 명세 91, 엔지니어링 98, 플레이테스트 100, 비주얼 86을 받았지만 디자인은 31에 그쳤다. 진행·반복 플레이·훅 항목은 영점이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+            "cap": "Build가 만든 게임 Skyforge Ascent."
           },
           {
             "t": "p",
-            "x": "Thrixel은 플랫폼과 함께 Build World도 내놨다. 창작자가 AI 코딩 에이전트와 나란히 일하는 에이전틱 워크플로로, 에이전트가 필요한 3D 콘텐츠를 만들면서 그 밑에 깔릴 로직과 코드까지 짠다. Roblox, Three.js, Unity, Unreal Engine을 지원한다. 인셉션 투자 $3 million(3백만 달러)은 Sierra Ventures, MFV Partners, Harper Court Ventures, Z5 Capital에서 받았다."
+            "x": "알파 이후 제작자 만족도는 10% 올랐다. \"원하던 게 아니다\"라는 불만은 18%에서 3%로 줄었다. 프롬프트를 입력한 세션은 약 14%, 플레이테스트는 19%가 실제 공개로 이어진다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Thrixel pairs 3D generation\nwith an AI coding agent",
-          "body": "Thrixel's Build World workflow pairs creators with an AI coding agent that generates assets and game logic.",
-          "mini_headline": "Thrixel: 3D plus a coding agent",
+          "headline": "Roblox measures Build, its\nagentic text-to-game tool",
+          "body": "Since the NZ alpha, 100,000+ users tried Build and published ~9,000 games, and 71% had never used Studio.",
+          "mini_headline": "Roblox Build: 9,000 games",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+                "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
               },
               {
                 "t": "p",
-                "x": "Thrixel, founded by University of Chicago computer scientist Rana Hanocka, launched a 3D creation platform that generates assets built from individually named parts with logical hierarchy, so AI agents can identify, assemble, and animate them directly in industry-standard game engines. A car generated with Thrixel arrives with its wheels, doors, and chassis as separate named parts that can be animated or swapped."
-              },
-              {
-                "t": "video",
-                "yt": "1rC0RlBDwrg"
+                "x": "Build, Roblox's new mobile-first creation tool, lets a user create a game from text prompts and publish it, using an end-to-end agentic system that coordinates code, visual assets, gameplay systems, UI and controls. Since the alpha launch in New Zealand, over 100,000 players have tried it, about 9,000 Build games have been published, and 71% of creators had never used Roblox Studio."
               },
               {
                 "t": "p",
-                "x": "The platform combines vision language models, agentic pipelines, generative diffusion, and optimization techniques, each mapped to a discrete step in the 3D modeling pipeline. Hanocka's research laid key foundations for 3D AI, including MeshCNN and Text2Mesh."
+                "x": "Its eval framework combines four scored signals: game specification quality, static game quality (split into engineering and design lenses), a playtest agent using real player-like input, and visual quality on device viewports."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+                "cap": "Build creation evaluation signals cover the full game creation process."
               },
               {
                 "t": "p",
-                "x": "“Thrixel creates assets that are structured, so an LLM can animate them, add logic, and drop them into a scene,” said Hanocka."
+                "x": "On a 3D obby prompt, Build made Skyforge Ascent in about eight minutes: spec 91, engineering 98, playtest 100, visuals 86 — but design only 31, with zero on progression, replayability and hook."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+                "cap": "Skyforge Ascent, game created by Build."
               },
               {
                 "t": "p",
-                "x": "Alongside the platform, Thrixel is introducing Build World, an agentic workflow in which creators work alongside an AI coding agent that generates the needed 3D content while writing the underlying logic and code. It supports Roblox, Three.js, Unity, and Unreal Engine. Thrixel has raised $3 million in inception funding from Sierra Ventures, MFV Partners, Harper Court Ventures, and Z5 Capital."
+                "x": "Since the alpha, creator satisfaction rose 10%, \"not what I want\" complaints fell from 18% to 3%, and about 14% of prompted sessions and 19% of playtests are published."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Thrixel 3D 생성\nAI 코딩 에이전트와 결합",
-          "body": "Thrixel Build World에선 AI 코딩 에이전트가 에셋과 로직을 만든다.",
-          "mini_headline": "Thrixel, 3D에 코딩 에이전트",
+          "headline": "Roblox, 에이전트형\n게임 도구 Build 평가",
+          "body": "NZ 알파 후 10만여 명이 Build를 써 봤고 게임 약 9,000개가 공개됐다.",
+          "mini_headline": "Roblox Build: 게임 9,000개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+                "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
               },
               {
                 "t": "p",
-                "x": "시카고대학교(University of Chicago) 컴퓨터과학자 Rana Hanocka가 세운 Thrixel이 3D 제작 플랫폼을 출시했다. 부품마다 이름을 붙이고 논리적 계층으로 엮은 에셋을 만들어 주므로 AI 에이전트가 업계 표준 게임 엔진 안에서 이를 직접 알아보고 조립하고 애니메이션할 수 있다. Thrixel로 만든 자동차라면 바퀴, 문, 차체가 저마다 이름 붙은 별도 부품으로 나와 애니메이션을 넣거나 갈아 끼우기 쉽다."
-              },
-              {
-                "t": "video",
-                "yt": "1rC0RlBDwrg"
+                "x": "Roblox가 새로 내놓은 모바일 우선 제작 도구 Build는 코드, 비주얼 애셋, 게임플레이 시스템, UI, 조작을 한데 조율하는 엔드투엔드 에이전트 시스템이다. 텍스트 프롬프트만 넣으면 게임을 만들어 공개까지 할 수 있다. 뉴질랜드 알파 출시 이후 100,000명이 넘는 플레이어가 써 봤고 Build 게임은 약 9,000개가 공개됐다. 제작자의 71%는 Roblox Studio를 한 번도 써 본 적이 없었다."
               },
               {
                 "t": "p",
-                "x": "비전 언어 모델, 에이전틱 파이프라인, 생성형 디퓨전, 최적화 기법을 한데 묶고, 3D 모델링 파이프라인의 단계마다 하나씩 맡겼다. MeshCNN과 Text2Mesh 등 3D AI의 핵심 토대가 Hanocka의 연구에서 나왔다."
+                "x": "평가 프레임워크는 점수 신호 네 가지로 이뤄진다. 게임 명세 품질, 엔지니어링과 디자인 두 관점으로 나눠 보는 정적 게임 품질, 실제 플레이어처럼 입력하는 플레이테스트 에이전트, 그리고 기기 뷰포트에서 본 시각 품질이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+                "cap": "Build의 평가 신호는 게임 제작의 전 과정에 걸쳐 있다."
               },
               {
                 "t": "p",
-                "x": "Hanocka는 “Thrixel은 구조화된 에셋을 만들기 때문에 LLM이 이를 애니메이션하고, 로직을 더하고, 장면에 바로 배치할 수 있다”고 말했다."
+                "x": "3D 오비를 만들어 달라는 프롬프트에 Build는 약 8분 만에 Skyforge Ascent를 내놓았다. 명세 91, 엔지니어링 98, 플레이테스트 100, 비주얼 86을 받았지만 디자인은 31에 그쳤다. 진행·반복 플레이·훅 항목은 영점이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+                "cap": "Build가 만든 게임 Skyforge Ascent."
               },
               {
                 "t": "p",
-                "x": "Thrixel은 플랫폼과 함께 Build World도 내놨다. 창작자가 AI 코딩 에이전트와 나란히 일하는 에이전틱 워크플로로, 에이전트가 필요한 3D 콘텐츠를 만들면서 그 밑에 깔릴 로직과 코드까지 짠다. Roblox, Three.js, Unity, Unreal Engine을 지원한다. 인셉션 투자 $3 million(3백만 달러)은 Sierra Ventures, MFV Partners, Harper Court Ventures, Z5 Capital에서 받았다."
+                "x": "알파 이후 제작자 만족도는 10% 올랐다. \"원하던 게 아니다\"라는 불만은 18%에서 3%로 줄었다. 프롬프트를 입력한 세션은 약 14%, 플레이테스트는 19%가 실제 공개로 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Thrixel、3D生成と\nAIコーディングエージェント",
-          "body": "Build WorldではAIコーディングエージェントがアセットとゲームロジックを作る。",
-          "mini_headline": "Thrixel:3Dとコーディングエージェント",
+          "headline": "Roblox、エージェント型\nゲーム制作Buildを評価",
+          "body": "NZでのアルファ以降、10万人超がBuildを試し、約9,000本のゲームを公開した。",
+          "mini_headline": "Roblox Build：9,000本のゲーム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+                "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
               },
               {
                 "t": "p",
-                "x": "シカゴ大学（University of Chicago）のコンピューター科学者Rana Hanockaが創業したThrixelは、3D制作プラットフォームを公開した。個々に名前の付いたパーツを論理的な階層で組み上げたアセットを生成し、AIエージェントが業界標準のゲームエンジン上でそれらを直接識別し、組み立て、アニメーションできるようにする。Thrixelで生成した車は、ホイール、ドア、シャシーがそれぞれ名前付きの別パーツとして出力され、アニメーションさせたり差し替えたりできる。"
-              },
-              {
-                "t": "video",
-                "yt": "1rC0RlBDwrg"
+                "x": "Robloxの新しいモバイルファーストの制作ツールBuildは、コード、ビジュアルアセット、ゲームプレイシステム、UI、操作系を連携させるエンドツーエンドのエージェントシステムにより、テキストプロンプトからゲームを作って公開できる。ニュージーランドでのアルファ版公開以降、10万人を超えるプレイヤーが試し、約9,000本のBuildゲームが公開された。制作者の71%はRoblox Studioを一度も使ったことがなかった。"
               },
               {
                 "t": "p",
-                "x": "このプラットフォームは、視覚言語モデル、エージェント型パイプライン、生成拡散、最適化手法を組み合わせ、それぞれを3Dモデリングパイプラインの個別の工程に割り当てている。Hanockaの研究は、MeshCNNやText2Meshなど、3D AIの重要な基盤を築いた。"
+                "x": "評価フレームワークは4つのスコア化された指標を組み合わせる。ゲーム仕様の質、静的なゲーム品質（エンジニアリングとデザインの観点に分割）、実際のプレイヤーに近い入力を使うプレイテストエージェント、そして端末のビューポート上での視覚品質だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+                "cap": "Buildの制作評価指標はゲーム制作の全工程をカバーする。"
               },
               {
                 "t": "p",
-                "x": "「Thrixelが生み出すアセットは構造化されているので、LLMがアニメーションを付け、ロジックを加え、シーンに配置できる」とHanockaは語った。"
+                "x": "3Dのobby（アスレチック）のプロンプトで、Buildは約8分でSkyforge Ascentを作った。仕様91、エンジニアリング98、プレイテスト100、ビジュアル86だったが、デザインは31にとどまり、進行、リプレイ性、フックはゼロだった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+                "cap": "Buildが作ったゲームSkyforge Ascent。"
               },
               {
                 "t": "p",
-                "x": "Thrixelはプラットフォームと併せてBuild Worldを導入する。クリエイターがAIコーディングエージェントと並んで作業するエージェント型ワークフローで、エージェントは必要な3Dコンテンツを生成しながら、その土台となるロジックとコードを書く。Roblox、Three.js、Unity、Unreal Engineに対応する。ThrixelはSierra Ventures、MFV Partners、Harper Court Ventures、Z5 Capitalから$3 million（3百万ドル）のインセプション資金を調達している。"
+                "x": "アルファ版以降、制作者の満足度は10%上昇し、「思っていたものと違う」という不満は18%から3%に減った。プロンプトを入力したセッションの約14%、プレイテストの19%が公開に至っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Thrixel将3D生成\n与AI编程智能体结合",
-          "body": "Thrixel的Build World让创作者与生成资产和游戏逻辑的AI编程智能体协作。",
-          "mini_headline": "Thrixel：3D加编程智能体",
+          "headline": "Roblox评估其智能体\n文字生成游戏工具Build",
+          "body": "自NZ alpha测试以来，超10万人试用Build，发布约9,000款游戏。",
+          "mini_headline": "Roblox Build：9,000款游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+                "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
               },
               {
                 "t": "p",
-                "x": "由芝加哥大学（University of Chicago）计算机科学家Rana Hanocka创办的Thrixel推出了一款3D创作平台。该平台生成的资产由逐一命名的部件按逻辑层级构成，AI智能体可以在业界标准游戏引擎中直接识别、组装这些资产并为其制作动画。用Thrixel生成的汽车，其车轮、车门和底盘都是各自命名的独立部件，可以单独制作动画或替换。"
-              },
-              {
-                "t": "video",
-                "yt": "1rC0RlBDwrg"
+                "x": "Build是Roblox新推出的移动优先创作工具，借助协调代码、视觉素材、玩法系统、UI与操控的端到端智能体系统，用户只需输入文字提示即可创建并发布游戏。自在新西兰开启alpha测试以来，已有超过10万名玩家试用，约9,000款Build游戏发布，71%的创作者此前从未用过Roblox Studio。"
               },
               {
                 "t": "p",
-                "x": "该平台结合了视觉语言模型、智能体流水线、生成式扩散和优化技术，每一项都对应3D建模流程中的一个独立步骤。Hanocka的研究为3D AI奠定了重要基础，包括MeshCNN和Text2Mesh。"
+                "x": "其评估框架综合四项评分信号：游戏规格质量、静态游戏质量（分为工程与设计两个视角）、使用类真人输入的试玩智能体，以及设备视口上的视觉质量。"
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+                "cap": "Build创作评估信号覆盖游戏创作全流程。"
               },
               {
                 "t": "p",
-                "x": "“Thrixel创建的资产是结构化的，因此LLM可以为其制作动画、添加逻辑并放入场景中，”Hanocka说。"
+                "x": "在一个3D跑酷（obby）提示下，Build用约8分钟做出了Skyforge Ascent：规格91分、工程98分、试玩100分、视觉86分，但设计仅31分，进程、重玩性和吸引力三项均为零分。"
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+                "cap": "Build创作的游戏Skyforge Ascent。"
               },
               {
                 "t": "p",
-                "x": "除平台外，Thrixel还推出了Build World。这是一种智能体工作流：创作者与AI编程智能体协同工作，后者生成所需的3D内容，同时编写底层逻辑和代码。它支持Roblox、Three.js、Unity和Unreal Engine。Thrixel已从Sierra Ventures、MFV Partners、Harper Court Ventures和Z5 Capital获得$3 million（3百万美元）的初创期融资。"
+                "x": "alpha测试以来，创作者满意度提升10%，“不是我想要的”投诉从18%降至3%，约14%的提示会话和19%的试玩最终得以发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Thrixel une la generación 3D\ncon un agente de código de IA",
-          "body": "El flujo Build World de Thrixel une a creadores con un agente de código con IA que genera recursos y lógica de juego.",
-          "mini_headline": "Thrixel: 3D y un agente de código",
+          "headline": "Roblox evalúa Build, su\nherramienta agéntica de juegos",
+          "body": "Desde la alfa en NZ, más de 100.000 usuarios probaron Build y publicaron unos 9.000 juegos, y el 71% nunca usó Studio.",
+          "mini_headline": "Roblox Build: 9.000 juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+                "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
               },
               {
                 "t": "p",
-                "x": "Thrixel, fundada por la científica informática de la University of Chicago Rana Hanocka, lanzó una plataforma de creación 3D que genera recursos formados por piezas con nombre propio y una jerarquía lógica, de modo que los agentes de IA (AI) pueden identificarlos, ensamblarlos y animarlos directamente en motores de juego estándar de la industria. Un coche generado con Thrixel llega con las ruedas, las puertas y el chasis como piezas separadas y con nombre, que se pueden animar o sustituir."
-              },
-              {
-                "t": "video",
-                "yt": "1rC0RlBDwrg"
+                "x": "Build, la nueva herramienta de creación de Roblox pensada primero para móviles, permite crear un juego a partir de instrucciones de texto y publicarlo mediante un sistema agéntico de extremo a extremo que coordina código, recursos visuales, sistemas de juego, UI y controles. Desde el lanzamiento alfa en Nueva Zelanda, más de 100.000 jugadores lo han probado, se han publicado unos 9.000 juegos de Build y el 71% de los creadores nunca había usado Roblox Studio."
               },
               {
                 "t": "p",
-                "x": "La plataforma combina modelos de lenguaje visual, pipelines agénticos, difusión generativa y técnicas de optimización, cada uno asignado a un paso concreto del pipeline de modelado 3D. La investigación de Hanocka sentó bases clave de la IA 3D, entre ellas MeshCNN y Text2Mesh."
+                "x": "Su marco de evaluación combina cuatro señales puntuadas: la calidad de la especificación del juego, la calidad estática del juego (dividida en las perspectivas de ingeniería y de diseño), un agente de pruebas de juego que usa entradas similares a las de un jugador real y la calidad visual en las pantallas de los dispositivos."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+                "cap": "Las señales de evaluación de creación de Build cubren todo el proceso de creación de un juego."
               },
               {
                 "t": "p",
-                "x": "“Thrixel crea recursos estructurados, de modo que un LLM puede animarlos, añadirles lógica y colocarlos en una escena”, dijo Hanocka."
+                "x": "Con una instrucción para un obby en 3D, Build creó Skyforge Ascent en unos ocho minutos: especificación 91, ingeniería 98, prueba de juego 100 y visuales 86, pero diseño solo 31, con cero en progresión, rejugabilidad y gancho."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+                "cap": "Skyforge Ascent, juego creado por Build."
               },
               {
                 "t": "p",
-                "x": "Junto con la plataforma, Thrixel presenta Build World, un flujo de trabajo agéntico en el que los creadores trabajan junto a un agente de código con IA que genera el contenido 3D necesario mientras escribe la lógica y el código subyacentes. Es compatible con Roblox, Three.js, Unity y Unreal Engine. Thrixel ha recaudado 3 millones de dólares en financiación inicial de Sierra Ventures, MFV Partners, Harper Court Ventures y Z5 Capital."
+                "x": "Desde la alfa, la satisfacción de los creadores subió un 10%, las quejas de \"no es lo que quiero\" bajaron del 18% al 3%, y se publica alrededor del 14% de las sesiones con instrucciones y el 19% de las pruebas de juego."
               }
             ]
           }
@@ -217,137 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Thrixel 3D 생성\nAI 코딩 에이전트와 결합",
-          "body": "Thrixel Build World는 AI 코딩 에이전트가 에셋과 로직을 만든다.",
-          "mini_headline": "Thrixel: 3D와 코딩 에이전트",
+          "headline": "Roblox, 에이전트형\n게임 도구 Build 평가",
+          "body": "NZ 알파 후 10만여 명이 Build로 약 9,000개 게임을 공개했다.",
+          "mini_headline": "Roblox Build: 게임 9,000개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+                "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
               },
               {
                 "t": "p",
-                "x": "시카고대학교(University of Chicago) 컴퓨터과학자 Rana Hanocka가 세운 Thrixel이 3D 제작 플랫폼을 출시했다. 이 플랫폼은 부품마다 이름을 붙이고 논리적 계층 구조로 엮은 에셋을 생성해, AI 에이전트가 업계 표준 게임 엔진 안에서 이를 직접 식별하고 조립하고 애니메이션할 수 있게 한다. Thrixel로 생성한 자동차는 바퀴, 문, 차체가 각각 이름 붙은 별도 부품으로 나와 애니메이션을 넣거나 교체할 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "1rC0RlBDwrg"
+                "x": "Roblox의 새 모바일 우선 제작 도구 Build는 코드, 비주얼 애셋, 게임플레이 시스템, UI, 조작을 조율하는 엔드투엔드 에이전트 시스템으로 텍스트 프롬프트만으로 게임을 만들고 공개하게 해 준다. 뉴질랜드 알파 출시 이후 100,000명이 넘는 플레이어가 써 봤고, Build 게임 약 9,000개가 공개됐으며, 제작자의 71%는 Roblox Studio를 한 번도 써 본 적이 없었다."
               },
               {
                 "t": "p",
-                "x": "이 플랫폼은 비전 언어 모델, 에이전틱 파이프라인, 생성형 디퓨전, 최적화 기법을 결합하고 각각을 3D 모델링 파이프라인의 개별 단계에 대응시킨다. Hanocka의 연구는 MeshCNN과 Text2Mesh 등 3D AI의 핵심 토대를 놓았다."
+                "x": "평가 프레임워크는 네 가지 점수 신호를 묶는다. 게임 명세 품질, 정적 게임 품질(엔지니어링과 디자인 두 관점으로 나눈다), 실제 플레이어와 비슷한 입력을 쓰는 플레이테스트 에이전트, 기기 뷰포트에서의 시각 품질이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+                "cap": "Build 제작 평가 신호는 게임 제작 전 과정을 다룬다."
               },
               {
                 "t": "p",
-                "x": "Hanocka는 “Thrixel은 구조화된 에셋을 만들기 때문에 LLM이 이를 애니메이션하고, 로직을 더하고, 장면에 바로 배치할 수 있다”고 말했다."
+                "x": "3D 오비 프롬프트에서 Build는 약 8분 만에 Skyforge Ascent를 만들었다. 명세 91, 엔지니어링 98, 플레이테스트 100, 비주얼 86이었지만 디자인은 31에 그쳤고, 진행·반복 플레이·훅 항목은 영점이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+                "cap": "Build가 만든 게임 Skyforge Ascent."
               },
               {
                 "t": "p",
-                "x": "Thrixel은 플랫폼과 함께 Build World를 선보인다. 창작자가 AI 코딩 에이전트와 나란히 작업하는 에이전틱 워크플로로, 에이전트가 필요한 3D 콘텐츠를 생성하면서 바탕이 되는 로직과 코드를 작성한다. Roblox, Three.js, Unity, Unreal Engine을 지원한다. Thrixel은 Sierra Ventures, MFV Partners, Harper Court Ventures, Z5 Capital로부터 인셉션 투자 $3 million(3백만 달러)을 유치했다."
+                "x": "알파 이후 제작자 만족도는 10% 올랐고, \"원하던 게 아니다\"라는 불만은 18%에서 3%로 줄었다. 프롬프트를 입력한 세션의 약 14%, 플레이테스트의 19%가 공개로 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Thrixel、3D生成と\nAIコーディングエージェント",
-          "body": "Build WorldではAIコーディングエージェントがアセットとゲームロジックを作る。",
-          "mini_headline": "Thrixel:3Dとコーディングエージェント",
+          "headline": "Roblox、エージェント型\nゲーム制作Buildを評価",
+          "body": "NZでのアルファ以降、10万人超がBuildを試し、約9,000本のゲームを公開した。",
+          "mini_headline": "Roblox Build：9,000本のゲーム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+                "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
               },
               {
                 "t": "p",
-                "x": "シカゴ大学（University of Chicago）のコンピューター科学者Rana Hanockaが創業したThrixelは、3D制作プラットフォームを公開した。個々に名前の付いたパーツを論理的な階層で組み上げたアセットを生成し、AIエージェントが業界標準のゲームエンジン上でそれらを直接識別し、組み立て、アニメーションできるようにする。Thrixelで生成した車は、ホイール、ドア、シャシーがそれぞれ名前付きの別パーツとして出力され、アニメーションさせたり差し替えたりできる。"
-              },
-              {
-                "t": "video",
-                "yt": "1rC0RlBDwrg"
+                "x": "Robloxの新しいモバイルファーストの制作ツールBuildは、コード、ビジュアルアセット、ゲームプレイシステム、UI、操作系を連携させるエンドツーエンドのエージェントシステムにより、テキストプロンプトからゲームを作って公開できる。ニュージーランドでのアルファ版公開以降、10万人を超えるプレイヤーが試し、約9,000本のBuildゲームが公開された。制作者の71%はRoblox Studioを一度も使ったことがなかった。"
               },
               {
                 "t": "p",
-                "x": "このプラットフォームは、視覚言語モデル、エージェント型パイプライン、生成拡散、最適化手法を組み合わせ、それぞれを3Dモデリングパイプラインの個別の工程に割り当てている。Hanockaの研究は、MeshCNNやText2Meshなど、3D AIの重要な基盤を築いた。"
+                "x": "評価フレームワークは4つのスコア化された指標を組み合わせる。ゲーム仕様の質、静的なゲーム品質（エンジニアリングとデザインの観点に分割）、実際のプレイヤーに近い入力を使うプレイテストエージェント、そして端末のビューポート上での視覚品質だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+                "cap": "Buildの制作評価指標はゲーム制作の全工程をカバーする。"
               },
               {
                 "t": "p",
-                "x": "「Thrixelが生み出すアセットは構造化されているので、LLMがアニメーションを付け、ロジックを加え、シーンに配置できる」とHanockaは語った。"
+                "x": "3Dのobby（アスレチック）のプロンプトで、Buildは約8分でSkyforge Ascentを作った。仕様91、エンジニアリング98、プレイテスト100、ビジュアル86だったが、デザインは31にとどまり、進行、リプレイ性、フックはゼロだった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+                "cap": "Buildが作ったゲームSkyforge Ascent。"
               },
               {
                 "t": "p",
-                "x": "Thrixelはプラットフォームと併せてBuild Worldを導入する。クリエイターがAIコーディングエージェントと並んで作業するエージェント型ワークフローで、エージェントは必要な3Dコンテンツを生成しながら、その土台となるロジックとコードを書く。Roblox、Three.js、Unity、Unreal Engineに対応する。ThrixelはSierra Ventures、MFV Partners、Harper Court Ventures、Z5 Capitalから$3 million（3百万ドル）のインセプション資金を調達している。"
+                "x": "アルファ版以降、制作者の満足度は10%上昇し、「思っていたものと違う」という不満は18%から3%に減った。プロンプトを入力したセッションの約14%、プレイテストの19%が公開に至っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Thrixel将3D生成\n与AI编程智能体结合",
-          "body": "Thrixel的Build World让创作者与生成资产和游戏逻辑的AI编程智能体协作。",
-          "mini_headline": "Thrixel：3D加编程智能体",
+          "headline": "Roblox评估其智能体\n文字生成游戏工具Build",
+          "body": "自NZ alpha测试以来，超10万人试用Build，发布约9,000款游戏。",
+          "mini_headline": "Roblox Build：9,000款游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+                "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
               },
               {
                 "t": "p",
-                "x": "由芝加哥大学（University of Chicago）计算机科学家Rana Hanocka创办的Thrixel推出了一款3D创作平台。该平台生成的资产由逐一命名的部件按逻辑层级构成，AI智能体可以在业界标准游戏引擎中直接识别、组装这些资产并为其制作动画。用Thrixel生成的汽车，其车轮、车门和底盘都是各自命名的独立部件，可以单独制作动画或替换。"
-              },
-              {
-                "t": "video",
-                "yt": "1rC0RlBDwrg"
+                "x": "Build是Roblox新推出的移动优先创作工具，借助协调代码、视觉素材、玩法系统、UI与操控的端到端智能体系统，用户只需输入文字提示即可创建并发布游戏。自在新西兰开启alpha测试以来，已有超过10万名玩家试用，约9,000款Build游戏发布，71%的创作者此前从未用过Roblox Studio。"
               },
               {
                 "t": "p",
-                "x": "该平台结合了视觉语言模型、智能体流水线、生成式扩散和优化技术，每一项都对应3D建模流程中的一个独立步骤。Hanocka的研究为3D AI奠定了重要基础，包括MeshCNN和Text2Mesh。"
+                "x": "其评估框架综合四项评分信号：游戏规格质量、静态游戏质量（分为工程与设计两个视角）、使用类真人输入的试玩智能体，以及设备视口上的视觉质量。"
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+                "cap": "Build创作评估信号覆盖游戏创作全流程。"
               },
               {
                 "t": "p",
-                "x": "“Thrixel创建的资产是结构化的，因此LLM可以为其制作动画、添加逻辑并放入场景中，”Hanocka说。"
+                "x": "在一个3D跑酷（obby）提示下，Build用约8分钟做出了Skyforge Ascent：规格91分、工程98分、试玩100分、视觉86分，但设计仅31分，进程、重玩性和吸引力三项均为零分。"
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+                "cap": "Build创作的游戏Skyforge Ascent。"
               },
               {
                 "t": "p",
-                "x": "除平台外，Thrixel还推出了Build World。这是一种智能体工作流：创作者与AI编程智能体协同工作，后者生成所需的3D内容，同时编写底层逻辑和代码。它支持Roblox、Three.js、Unity和Unreal Engine。Thrixel已从Sierra Ventures、MFV Partners、Harper Court Ventures和Z5 Capital获得$3 million（3百万美元）的初创期融资。"
+                "x": "alpha测试以来，创作者满意度提升10%，“不是我想要的”投诉从18%降至3%，约14%的提示会话和19%的试玩最终得以发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Thrixel une la generación 3D\ncon un agente de código de IA",
-          "body": "El flujo Build World de Thrixel une a creadores con un agente de código con IA que genera recursos y lógica de juego.",
-          "mini_headline": "Thrixel: 3D y un agente de código",
+          "headline": "Roblox evalúa Build, su\nherramienta agéntica de juegos",
+          "body": "Desde la alfa en NZ, más de 100.000 usuarios probaron Build y publicaron unos 9.000 juegos, y el 71% nunca usó Studio.",
+          "mini_headline": "Roblox Build: 9.000 juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+                "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
               },
               {
                 "t": "p",
-                "x": "Thrixel, fundada por la científica informática de la University of Chicago Rana Hanocka, lanzó una plataforma de creación 3D que genera recursos formados por piezas con nombre propio y una jerarquía lógica, de modo que los agentes de IA (AI) pueden identificarlos, ensamblarlos y animarlos directamente en motores de juego estándar de la industria. Un coche generado con Thrixel llega con las ruedas, las puertas y el chasis como piezas separadas y con nombre, que se pueden animar o sustituir."
-              },
-              {
-                "t": "video",
-                "yt": "1rC0RlBDwrg"
+                "x": "Build, la nueva herramienta de creación de Roblox pensada primero para móviles, permite crear un juego a partir de instrucciones de texto y publicarlo mediante un sistema agéntico de extremo a extremo que coordina código, recursos visuales, sistemas de juego, UI y controles. Desde el lanzamiento alfa en Nueva Zelanda, más de 100.000 jugadores lo han probado, se han publicado unos 9.000 juegos de Build y el 71% de los creadores nunca había usado Roblox Studio."
               },
               {
                 "t": "p",
-                "x": "La plataforma combina modelos de lenguaje visual, pipelines agénticos, difusión generativa y técnicas de optimización, cada uno asignado a un paso concreto del pipeline de modelado 3D. La investigación de Hanocka sentó bases clave de la IA 3D, entre ellas MeshCNN y Text2Mesh."
+                "x": "Su marco de evaluación combina cuatro señales puntuadas: la calidad de la especificación del juego, la calidad estática del juego (dividida en las perspectivas de ingeniería y de diseño), un agente de pruebas de juego que usa entradas similares a las de un jugador real y la calidad visual en las pantallas de los dispositivos."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+                "cap": "Las señales de evaluación de creación de Build cubren todo el proceso de creación de un juego."
               },
               {
                 "t": "p",
-                "x": "“Thrixel crea recursos estructurados, de modo que un LLM puede animarlos, añadirles lógica y colocarlos en una escena”, dijo Hanocka."
+                "x": "Con una instrucción para un obby en 3D, Build creó Skyforge Ascent en unos ocho minutos: especificación 91, ingeniería 98, prueba de juego 100 y visuales 86, pero diseño solo 31, con cero en progresión, rejugabilidad y gancho."
+              },
+              {
+                "t": "img",
+                "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+                "cap": "Skyforge Ascent, juego creado por Build."
               },
               {
                 "t": "p",
-                "x": "Junto con la plataforma, Thrixel presenta Build World, un flujo de trabajo agéntico en el que los creadores trabajan junto a un agente de código con IA que genera el contenido 3D necesario mientras escribe la lógica y el código subyacentes. Es compatible con Roblox, Three.js, Unity y Unreal Engine. Thrixel ha recaudado 3 millones de dólares en financiación inicial de Sierra Ventures, MFV Partners, Harper Court Ventures y Z5 Capital."
+                "x": "Desde la alfa, la satisfacción de los creadores subió un 10%, las quejas de \"no es lo que quiero\" bajaron del 18% al 3%, y se publica alrededor del 14% de las sesiones con instrucciones y el 19% de las pruebas de juego."
               }
             ]
           }
@@ -355,504 +415,591 @@
       }
     },
     {
-      "id": "ea-javelin-ai-aimbots",
-      "source_lang": "en",
-      "tool": "Games",
+      "id": "illunes-offline-ai-game-master",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "EA's Javelin anti-cheat\nadapts to AI-era attacks",
-      "body": "EA's Javelin anti-cheat is adapting to AI-era threats, using AI tools to defend at machine speed against cheaters.",
-      "mini_headline": "EA anti-cheat vs AI attacks",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/how-ea-javelin-anti-cheat-is-changing-in-the-face-of-ai-attacks-mike-reavey-exclusive-interview/",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Intorqa's 2026 Cheatonomics study estimates the global video game cheating economy at $8.5 billion a year. EA says its Javelin anti-cheat now protects 21 games, monitored 10.8 billion PC sessions and dealt with 26.7 million cheat attempts in the past year, with 99%-plus detection accuracy."
-          },
-          {
-            "t": "p",
-            "x": "EA CISO Mike Reavey says Javelin rests on strong tech, on disrupting the business of cheat sellers, and on talking openly with players."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/javelin-1024x579.jpg"
-          },
-          {
-            "t": "p",
-            "x": "On AI, Reavey says: “AI is real. It can help you in a lot of ways, both good and bad. We're going to use whatever tools we can to try and keep our games as secure as possible.” CISOs are asking how to take what they did at human speed and do it at machine speed, because attackers might be moving at machine speed now."
-          },
-          {
-            "t": "p",
-            "x": "Asked whether AI can create undetectable cheats, he says what's undetectable today is probably detectable with the right solution, and that the same tools available to attackers are available to defenders."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "EA's Javelin anti-cheat\nadapts to AI-era attacks",
-          "body": "EA's Javelin anti-cheat is adapting to AI-era threats, using AI tools to defend at machine speed against cheaters.",
-          "mini_headline": "EA anti-cheat vs AI attacks",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Intorqa's 2026 Cheatonomics study estimates the global video game cheating economy at $8.5 billion a year. EA says its Javelin anti-cheat now protects 21 games, monitored 10.8 billion PC sessions and dealt with 26.7 million cheat attempts in the past year, with 99%-plus detection accuracy."
-              },
-              {
-                "t": "p",
-                "x": "EA CISO Mike Reavey says Javelin rests on strong tech, on disrupting the business of cheat sellers, and on talking openly with players."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/javelin-1024x579.jpg"
-              },
-              {
-                "t": "p",
-                "x": "On AI, Reavey says: “AI is real. It can help you in a lot of ways, both good and bad. We're going to use whatever tools we can to try and keep our games as secure as possible.” CISOs are asking how to take what they did at human speed and do it at machine speed, because attackers might be moving at machine speed now."
-              },
-              {
-                "t": "p",
-                "x": "Asked whether AI can create undetectable cheats, he says what's undetectable today is probably detectable with the right solution, and that the same tools available to attackers are available to defenders."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El anti-cheat Javelin de EA\nse adapta a ataques de la AI-era",
-          "body": "Javelin, el anti-cheat de EA, usa AI para defenderse a velocidad de máquina ante las amenazas de la AI-era.",
-          "mini_headline": "El anti-cheat de EA frente a ataques de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El estudio Cheatonomics 2026 de Intorqa estima que la economía mundial de las trampas en videojuegos mueve $8.5 billion al año. EA afirma que su anti-cheat Javelin protege ahora 21 juegos, supervisó 10.8 billion de sesiones de PC y gestionó 26.7 million de intentos de trampa en el último año, con una precisión de detección superior al 99%."
-              },
-              {
-                "t": "p",
-                "x": "Mike Reavey, CISO de EA, explica que Javelin se apoya en una tecnología sólida, en desarticular el negocio de los vendedores de trampas y en hablar abiertamente con los jugadores."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/javelin-1024x579.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sobre la AI, Reavey dice: “La AI es real. Puede ayudarte de muchas maneras, tanto buenas como malas. Vamos a usar todas las herramientas que podamos para intentar que nuestros juegos sean lo más seguros posible”. Los CISOs se preguntan cómo llevar lo que hacían a velocidad humana a la velocidad de las máquinas, porque los atacantes quizá ya se mueven a velocidad de máquina."
-              },
-              {
-                "t": "p",
-                "x": "Ante la pregunta de si la AI puede crear trampas indetectables, responde que lo que hoy es indetectable probablemente pueda detectarse con la solución adecuada, y que las mismas herramientas al alcance de los atacantes están al alcance de los defensores."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "El anti-cheat Javelin de EA\nse adapta a ataques de la AI-era",
-          "body": "Javelin, el anti-cheat de EA, usa AI para defenderse a velocidad de máquina ante las amenazas de la AI-era.",
-          "mini_headline": "El anti-cheat de EA frente a ataques de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El estudio Cheatonomics 2026 de Intorqa estima que la economía mundial de las trampas en videojuegos mueve $8.5 billion al año. EA afirma que su anti-cheat Javelin protege ahora 21 juegos, supervisó 10.8 billion de sesiones de PC y gestionó 26.7 million de intentos de trampa en el último año, con una precisión de detección superior al 99%."
-              },
-              {
-                "t": "p",
-                "x": "Mike Reavey, CISO de EA, explica que Javelin se apoya en una tecnología sólida, en desarticular el negocio de los vendedores de trampas y en hablar abiertamente con los jugadores."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/javelin-1024x579.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Sobre la AI, Reavey dice: “La AI es real. Puede ayudarte de muchas maneras, tanto buenas como malas. Vamos a usar todas las herramientas que podamos para intentar que nuestros juegos sean lo más seguros posible”. Los CISOs se preguntan cómo llevar lo que hacían a velocidad humana a la velocidad de las máquinas, porque los atacantes quizá ya se mueven a velocidad de máquina."
-              },
-              {
-                "t": "p",
-                "x": "Ante la pregunta de si la AI puede crear trampas indetectables, responde que lo que hoy es indetectable probablemente pueda detectarse con la solución adecuada, y que las mismas herramientas al alcance de los atacantes están al alcance de los defensores."
-              }
-            ]
-          }
-        }
-      },
-      "i18n_status": {
-        "ko": "fallback",
-        "ja": "fallback",
-        "zh": "fallback"
-      }
-    },
-    {
-      "id": "black-myth-zhongkui-no-ai",
-      "source_lang": "en",
+      "headline": "오프라인 AI 게임마스터\nTRPG 스팀 출시",
+      "body": "일루네스의 귀환은 서버나 사용료 없이 기기 내 AI가 이야기와 판정을 맡는다.",
+      "mini_headline": "AI GM 내장 TRPG",
       "tool": "Games",
-      "eyebrow": "AI NEWS",
-      "headline": "Black Myth 속편팀\nNolan처럼 AI 거부",
-      "body": "Game Science, Zhong Kui엔 끝까지 AI를 쓰지 않는다.",
-      "mini_headline": "Black Myth 속편, AI 거부",
-      "source": "Destructoid",
-      "url": "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/",
+      "source": "루리웹",
+      "url": "https://bbs.ruliweb.com/news/read/230407",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "14Dimension Enterprise는 턴제 로그라이크 RPG 「일루네스의 귀환(The Return of Illunes)」을 2026년 10월 9일(한국 시간) Steam(PC)에 정식 출시했다고 밝혔다. 가격은 22,500원(미화 19.99달러)이다. Nintendo Switch판은 현재 플랫폼 심사 중이며 출시일은 추후 공개된다."
+          },
+          {
+            "t": "p",
+            "x": "「일루네스의 귀환」은 게임 전용으로 추가 학습한 AI 게임마스터를 기본 내장하고, 이야기와 행동 판정은 물론 서브클래스·스킬·장비·유물·보스까지 기기에서 직접 생성하는 세계 최초의 오프라인 TRPG다."
+          },
+          {
+            "t": "p",
+            "x": "※ 언어 모델이 게임에 동봉되어 플레이어의 PC 안에서만 동작하므로 서버 연결, 구독, 건별 사용료가 없다."
+          },
+          {
+            "t": "p",
+            "x": "AI는 매 런의 이야기와 목표, 모험 이벤트, 전투 서술, 동료 대화, 엔딩 에필로그를 쓰고, 새 서브클래스와 스킬·장비·유물의 이름과 전승, 보스의 등장 장면과 기믹을 만들어 낸다. 피해량·능력치·난이도·성장은 언제나 게임 규칙이 정하며, 플레이어 입력은 모델에 닿기 전에, 생성 문장은 표시 전에 검수된다."
+          },
+          {
+            "t": "p",
+            "x": "대표 시스템은 '자유 행동'이다. 전투나 이벤트에서 \"샹들리에 줄을 끊어 적 위로 떨어뜨린다\"처럼 메뉴에 없는 행동을 문장으로 입력하면, AI 게임마스터가 성패를 판정하고 결과를 서사로 들려준다. 판정은 실제 전투 결과에 반영된다."
+          },
+          {
+            "t": "p",
+            "x": "인터페이스는 13개 언어를 지원하며, AI 생성 텍스트는 한국어·영어·일본어로 제공된다."
+          },
+          {
+            "t": "p",
+            "x": "※ '세계 최초'는 2026년 10월 9일 공개 자료 기준 자사 조사 결과입니다."
+          },
+          {
             "t": "img",
-            "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+            "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
           },
           {
-            "t": "p",
-            "x": "Black Myth: Wukong과 곧 나올 속편 Black Myth: Zhong Kui의 개발사인 중국 스튜디오 Game Science가 AI 사용을 “끝까지” 삼가겠다고 밝혔다. 계기는 Christopher Nolan이었다."
+            "t": "img",
+            "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
           },
           {
-            "t": "p",
-            "x": "GamesRadar가 찾아낸 최근 번역본 Q&A에서 공동 창업자이자 아트 디렉터 Yang Qi는 Zhong Kui에 AI를 쓰느냐는 의구심을 일축하며 Nolan의 The Odyssey를 예로 들었다. “디지털 영화 제작과 3D 후반 작업이 막다른 길에 이른 듯한 지금, Nolan을 보라…” 그러고는 “그는 훨씬 더 오래된 기법으로 판을 흔들며 승승장구하고 있다”고 덧붙였다."
+            "t": "img",
+            "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
           },
           {
-            "t": "p",
-            "x": "genAI는 게임 에셋에만 쓰더라도 오래전부터 플레이어들의 우려를 샀다. 앞으로 대형 스튜디오 상당수가 AI 도구를 더 쓸 테니, 필자는 Game Science의 입장이 오히려 신선하다고 본다."
-          },
-          {
-            "t": "p",
-            "x": "Black Myth: Zhong Kui는 아직 출시일이 없다. Game Science 공동 창업자 말마따나 “서두를 것 없다”는 이유다."
+            "t": "img",
+            "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
           },
           {
             "t": "video",
-            "yt": "sqe3j4Qch1Y"
+            "yt": "RtNtd1x5RZo"
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Black Myth sequel team\nsays no to AI, citing Nolan",
-          "body": "Game Science says it will avoid AI on Black Myth: Zhong Kui to the end, inspired by Nolan's old-school The Odyssey.",
-          "mini_headline": "Black Myth sequel rejects AI",
+        "ko": {
+          "headline": "오프라인 AI 게임마스터\nTRPG 스팀 출시",
+          "body": "일루네스의 귀환은 서버나 사용료 없이 기기 내 AI가 이야기와 판정을 맡는다.",
+          "mini_headline": "AI GM 내장 TRPG",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "14Dimension Enterprise는 턴제 로그라이크 RPG 「일루네스의 귀환(The Return of Illunes)」을 2026년 10월 9일(한국 시간) Steam(PC)에 정식 출시했다고 밝혔다. 가격은 22,500원(미화 19.99달러)이다. Nintendo Switch판은 현재 플랫폼 심사 중이며 출시일은 추후 공개된다."
+              },
+              {
+                "t": "p",
+                "x": "「일루네스의 귀환」은 게임 전용으로 추가 학습한 AI 게임마스터를 기본 내장하고, 이야기와 행동 판정은 물론 서브클래스·스킬·장비·유물·보스까지 기기에서 직접 생성하는 세계 최초의 오프라인 TRPG다."
+              },
+              {
+                "t": "p",
+                "x": "※ 언어 모델이 게임에 동봉되어 플레이어의 PC 안에서만 동작하므로 서버 연결, 구독, 건별 사용료가 없다."
+              },
+              {
+                "t": "p",
+                "x": "AI는 매 런의 이야기와 목표, 모험 이벤트, 전투 서술, 동료 대화, 엔딩 에필로그를 쓰고, 새 서브클래스와 스킬·장비·유물의 이름과 전승, 보스의 등장 장면과 기믹을 만들어 낸다. 피해량·능력치·난이도·성장은 언제나 게임 규칙이 정하며, 플레이어 입력은 모델에 닿기 전에, 생성 문장은 표시 전에 검수된다."
+              },
+              {
+                "t": "p",
+                "x": "대표 시스템은 '자유 행동'이다. 전투나 이벤트에서 \"샹들리에 줄을 끊어 적 위로 떨어뜨린다\"처럼 메뉴에 없는 행동을 문장으로 입력하면, AI 게임마스터가 성패를 판정하고 결과를 서사로 들려준다. 판정은 실제 전투 결과에 반영된다."
+              },
+              {
+                "t": "p",
+                "x": "인터페이스는 13개 언어를 지원하며, AI 생성 텍스트는 한국어·영어·일본어로 제공된다."
+              },
+              {
+                "t": "p",
+                "x": "※ '세계 최초'는 2026년 10월 9일 공개 자료 기준 자사 조사 결과입니다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
               },
               {
-                "t": "p",
-                "x": "Game Science, the Chinese studio behind Black Myth: Wukong and its upcoming sequel Black Myth: Zhong Kui, announced it will refrain from using AI “until the end” because of Christopher Nolan."
+                "t": "img",
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
               },
               {
-                "t": "p",
-                "x": "In a recently translated Q&A caught by GamesRadar, co-founder and art director Yang Qi shot down doubts about AI use on Zhong Kui, citing Nolan's The Odyssey: “At a time when digital filmmaking and 3D post-production seem to have reached a dead end, look at Nolan…” and “he's thriving, using even older techniques to shake things up.”"
+                "t": "img",
+                "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
               },
               {
-                "t": "p",
-                "x": "The author notes that genAI, even just for game assets, has long concerned players, and that many big studios will use more AI tools going forward, making Game Science's stance refreshing."
-              },
-              {
-                "t": "p",
-                "x": "There's still no release date for Black Myth: Zhong Kui, because, in the words of Game Science's co-founder, “no rush.”"
+                "t": "img",
+                "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
               },
               {
                 "t": "video",
-                "yt": "sqe3j4Qch1Y"
+                "yt": "RtNtd1x5RZo"
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Black Myth 속편팀\nNolan처럼 AI 거부",
-          "body": "Game Science, Zhong Kui엔 끝까지 AI를 쓰지 않는다.",
-          "mini_headline": "Black Myth 속편, AI 거부",
+        "en": {
+          "headline": "Offline AI game master TRPG\nlaunches on Steam",
+          "body": "The Return of Illunes runs story and rulings on an on-device AI, with no servers or usage fees.",
+          "mini_headline": "TRPG with a built-in AI GM",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "14Dimension Enterprise said it officially released the turn-based roguelike RPG The Return of Illunes on Steam (PC) on October 9, 2026 (Korea time). It is priced at 22,500 won (US$19.99). A Nintendo Switch version is currently under platform review, and its release date will be announced later."
+              },
+              {
+                "t": "p",
+                "x": "The Return of Illunes comes with a built-in AI game master given additional training specifically for the game, and it is the world's first offline TRPG that generates not only the story and action rulings but also subclasses, skills, gear, relics and bosses directly on the device."
+              },
+              {
+                "t": "p",
+                "x": "※ The language model ships with the game and runs only inside the player's PC, so there is no server connection, no subscription and no per-use fee."
+              },
+              {
+                "t": "p",
+                "x": "The AI writes each run's story and goals, adventure events, combat narration, companion dialogue and ending epilogues, and creates the names and lore of new subclasses, skills, gear and relics, as well as boss entrance scenes and gimmicks. Damage, stats, difficulty and progression are always set by the game's rules; player input is screened before it reaches the model, and generated text is screened before it is displayed."
+              },
+              {
+                "t": "p",
+                "x": "The signature system is 'Free Action.' In combat or events, players can type an action that isn't on the menu, such as \"cut the chandelier rope and drop it on the enemy,\" and the AI game master judges success or failure and narrates the result. The ruling carries over into the actual combat outcome."
+              },
+              {
+                "t": "p",
+                "x": "The interface supports 13 languages, and AI-generated text is available in Korean, English and Japanese."
+              },
+              {
+                "t": "p",
+                "x": "※ 'World's first' is based on the company's own research using materials public as of October 9, 2026."
+              },
+              {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
               },
               {
-                "t": "p",
-                "x": "Black Myth: Wukong과 곧 나올 속편 Black Myth: Zhong Kui의 개발사인 중국 스튜디오 Game Science가 AI 사용을 “끝까지” 삼가겠다고 밝혔다. 계기는 Christopher Nolan이었다."
+                "t": "img",
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
               },
               {
-                "t": "p",
-                "x": "GamesRadar가 찾아낸 최근 번역본 Q&A에서 공동 창업자이자 아트 디렉터 Yang Qi는 Zhong Kui에 AI를 쓰느냐는 의구심을 일축하며 Nolan의 The Odyssey를 예로 들었다. “디지털 영화 제작과 3D 후반 작업이 막다른 길에 이른 듯한 지금, Nolan을 보라…” 그러고는 “그는 훨씬 더 오래된 기법으로 판을 흔들며 승승장구하고 있다”고 덧붙였다."
+                "t": "img",
+                "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
               },
               {
-                "t": "p",
-                "x": "genAI는 게임 에셋에만 쓰더라도 오래전부터 플레이어들의 우려를 샀다. 앞으로 대형 스튜디오 상당수가 AI 도구를 더 쓸 테니, 필자는 Game Science의 입장이 오히려 신선하다고 본다."
-              },
-              {
-                "t": "p",
-                "x": "Black Myth: Zhong Kui는 아직 출시일이 없다. Game Science 공동 창업자 말마따나 “서두를 것 없다”는 이유다."
+                "t": "img",
+                "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
               },
               {
                 "t": "video",
-                "yt": "sqe3j4Qch1Y"
+                "yt": "RtNtd1x5RZo"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Black Myth続編、\nNolanに倣いAI不使用",
-          "body": "Game ScienceはZhong KuiでAIを最後まで使わないと表明した。",
-          "mini_headline": "Black Myth続編はAIを拒否",
+          "headline": "オフラインAI GM搭載\nTRPGがSteamで発売",
+          "body": "『イルーネスの帰還』は、サーバーも利用料もなく端末内のAIが物語と判定を担う。",
+          "mini_headline": "AI GM内蔵のTRPG",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "14Dimension Enterpriseは、ターン制ローグライクRPG『イルーネスの帰還（The Return of Illunes）』を2026年10月9日（韓国時間）にSteam（PC）で正式リリースしたと発表した。価格は22,500ウォン（19.99米ドル）。Nintendo Switch版は現在プラットフォームの審査中で、発売日は後日公開される。"
+              },
+              {
+                "t": "p",
+                "x": "『イルーネスの帰還』は、ゲーム専用に追加学習したAIゲームマスターを標準搭載し、物語や行動の判定はもちろん、サブクラス・スキル・装備・遺物・ボスまで端末上で直接生成する、世界初のオフラインTRPGだ。"
+              },
+              {
+                "t": "p",
+                "x": "※ 言語モデルがゲームに同梱され、プレイヤーのPC内だけで動作するため、サーバー接続、サブスクリプション、利用ごとの料金は一切ない。"
+              },
+              {
+                "t": "p",
+                "x": "AIは各ランの物語と目標、冒険イベント、戦闘描写、仲間との会話、エンディングのエピローグを書き、新たなサブクラスやスキル・装備・遺物の名前と伝承、ボスの登場シーンとギミックを生み出す。ダメージ・能力値・難易度・成長は常にゲームのルールが決め、プレイヤーの入力はモデルに届く前に、生成された文章は表示前に検査される。"
+              },
+              {
+                "t": "p",
+                "x": "目玉となるシステムは「自由行動」だ。戦闘やイベントで「シャンデリアの綱を切って敵の上に落とす」のようにメニューにない行動を文章で入力すると、AIゲームマスターが成否を判定し、結果を物語として語る。判定は実際の戦闘結果に反映される。"
+              },
+              {
+                "t": "p",
+                "x": "インターフェースは13言語に対応し、AI生成テキストは韓国語・英語・日本語で提供される。"
+              },
+              {
+                "t": "p",
+                "x": "※「世界初」は2026年10月9日時点の公開資料に基づく自社調査の結果である。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
               },
               {
-                "t": "p",
-                "x": "Black Myth: Wukongと、その続編として控えるBlack Myth: Zhong Kuiを手がける中国のスタジオGame Scienceは、Christopher Nolanの影響から、AIの使用を「最後まで」控えると明らかにした。"
+                "t": "img",
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
               },
               {
-                "t": "p",
-                "x": "GamesRadarが取り上げた、最近翻訳されたQ&Aで、共同創業者でアートディレクターのYang Qiは、Zhong KuiでのAI使用への疑念を否定し、NolanのThe Odysseyを引き合いに出した。「デジタルの映画制作と3Dのポストプロダクションが行き詰まったように見える今、Nolanを見てほしい…」、そして「彼はさらに古い手法を使って状況を揺さぶり、成功している」と語った。"
+                "t": "img",
+                "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
               },
               {
-                "t": "p",
-                "x": "筆者は、ゲームアセットに限ってもgenAIは以前からプレイヤーの懸念の的であり、今後は多くの大手スタジオがAIツールをさらに使うことになるだけに、Game Scienceの姿勢は新鮮だと指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "Black Myth: Zhong Kuiの発売日はまだ決まっていない。Game Science共同創業者の言葉を借りれば、「急ぐことはない」からだ。"
+                "t": "img",
+                "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
               },
               {
                 "t": "video",
-                "yt": "sqe3j4Qch1Y"
+                "yt": "RtNtd1x5RZo"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Black Myth续作团队\n援引Nolan拒用AI",
-          "body": "Game Science称《Black Myth: Zhong Kui》将始终不用AI。",
-          "mini_headline": "Black Myth续作拒用AI",
+          "headline": "离线AI游戏主持人\nTRPG登陆Steam",
+          "body": "《伊卢内斯的归来》无需服务器或使用费，由设备内AI负责剧情与判定。",
+          "mini_headline": "内置AI GM的TRPG",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "14Dimension Enterprise宣布，回合制Roguelike RPG《伊卢内斯的归来》（The Return of Illunes）已于2026年10月9日（韩国时间）在Steam（PC）正式发售，售价22,500韩元（19.99美元）。Nintendo Switch版目前正在接受平台审核，发售日期将另行公布。"
+              },
+              {
+                "t": "p",
+                "x": "《伊卢内斯的归来》默认内置专为本作追加训练的AI游戏主持人，不仅能在设备上直接生成剧情与行动判定，还能生成子职业、技能、装备、遗物乃至Boss，是全球首款离线TRPG。"
+              },
+              {
+                "t": "p",
+                "x": "※ 语言模型随游戏附带，仅在玩家的PC内运行，因此无需连接服务器，也没有订阅费或按次计费。"
+              },
+              {
+                "t": "p",
+                "x": "AI会为每一局撰写剧情与目标、冒险事件、战斗叙述、同伴对话和结局尾声，并创造新子职业及技能、装备、遗物的名称与传说，以及Boss的登场场景与机制。伤害、属性、难度和成长始终由游戏规则决定；玩家输入在送达模型前、生成文本在显示前都会经过审核。"
+              },
+              {
+                "t": "p",
+                "x": "其核心系统是“自由行动”。在战斗或事件中，玩家可以像“砍断吊灯绳索，让它砸到敌人身上”这样，用文字输入菜单中没有的行动，AI游戏主持人会判定成败，并以叙事形式讲述结果。判定会反映在实际战斗结果中。"
+              },
+              {
+                "t": "p",
+                "x": "界面支持13种语言，AI生成文本提供韩语、英语和日语版本。"
+              },
+              {
+                "t": "p",
+                "x": "※“全球首款”系基于2026年10月9日公开资料的自家调查结果。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
               },
               {
-                "t": "p",
-                "x": "打造《Black Myth: Wukong》及其即将推出的续作《Black Myth: Zhong Kui》的中国工作室Game Science宣布，受Christopher Nolan影响，将“直到最后”都不使用AI。"
+                "t": "img",
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
               },
               {
-                "t": "p",
-                "x": "在GamesRadar注意到的一篇近期翻译的Q&A中，联合创始人兼美术总监Yang Qi驳斥了外界对《Zhong Kui》使用AI的质疑，并援引Nolan的《The Odyssey》：“在数字电影制作和3D后期制作似乎已走到死胡同的时候，看看Nolan……”以及“他正用更古老的技术来打破常规，而且如鱼得水。”"
+                "t": "img",
+                "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
               },
               {
-                "t": "p",
-                "x": "作者指出，即便只用于游戏素材，genAI也一直令玩家担忧，而今后许多大型工作室会更多地使用AI工具，这让Game Science的立场显得令人耳目一新。"
-              },
-              {
-                "t": "p",
-                "x": "《Black Myth: Zhong Kui》仍未公布发售日期，用Game Science联合创始人的话说，因为“不着急”。"
+                "t": "img",
+                "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
               },
               {
                 "t": "video",
-                "yt": "sqe3j4Qch1Y"
+                "yt": "RtNtd1x5RZo"
               }
             ]
           }
         },
         "es": {
-          "headline": "La secuela de Black Myth\nrechaza la IA y cita a Nolan",
-          "body": "Game Science evitará la IA hasta el final en Black Myth: Zhong Kui, inspirado por la clásica The Odyssey de Nolan.",
-          "mini_headline": "La secuela de Black Myth rechaza la IA",
+          "headline": "TRPG con máster de IA offline\nllega a Steam",
+          "body": "En The Return of Illunes, una IA en el dispositivo narra y arbitra sin servidores ni cuotas de uso.",
+          "mini_headline": "TRPG con máster de IA integrado",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "14Dimension Enterprise anunció el lanzamiento oficial del RPG roguelike por turnos The Return of Illunes en Steam (PC) el 9 de octubre de 2026 (hora de Corea). Su precio es de 22.500 wones (19,99 dólares estadounidenses). La versión para Nintendo Switch está en revisión de la plataforma y su fecha de lanzamiento se anunciará más adelante."
+              },
+              {
+                "t": "p",
+                "x": "The Return of Illunes integra de serie un máster de juego con IA entrenado adicionalmente para este título, y es el primer TRPG offline del mundo que genera directamente en el dispositivo no solo la historia y la resolución de acciones, sino también subclases, habilidades, equipo, reliquias y jefes."
+              },
+              {
+                "t": "p",
+                "x": "※ El modelo de lenguaje viene incluido en el juego y funciona solo dentro del PC del jugador, por lo que no hay conexión a servidores, suscripciones ni tarifas por uso."
+              },
+              {
+                "t": "p",
+                "x": "La IA escribe la historia y los objetivos de cada partida, los eventos de aventura, la narración de los combates, los diálogos con los compañeros y los epílogos finales, y crea los nombres y el trasfondo de nuevas subclases, habilidades, equipo y reliquias, así como las escenas de entrada y las mecánicas de los jefes. El daño, las estadísticas, la dificultad y la progresión los fijan siempre las reglas del juego; la entrada del jugador se revisa antes de llegar al modelo, y el texto generado, antes de mostrarse."
+              },
+              {
+                "t": "p",
+                "x": "El sistema principal es la 'acción libre'. En combates o eventos, el jugador puede escribir una acción que no está en el menú, como \"cortar la cuerda del candelabro y dejarlo caer sobre el enemigo\", y el máster de juego con IA decide si tiene éxito y narra el resultado. La resolución se refleja en el resultado real del combate."
+              },
+              {
+                "t": "p",
+                "x": "La interfaz admite 13 idiomas, y el texto generado por IA está disponible en coreano, inglés y japonés."
+              },
+              {
+                "t": "p",
+                "x": "※ Lo de 'primero del mundo' se basa en una investigación propia con materiales públicos al 9 de octubre de 2026."
+              },
+              {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
               },
               {
-                "t": "p",
-                "x": "Game Science, el estudio chino detrás de Black Myth: Wukong y de su próxima secuela, Black Myth: Zhong Kui, anunció que se abstendrá de usar IA (AI) “hasta el final” por Christopher Nolan."
+                "t": "img",
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
               },
               {
-                "t": "p",
-                "x": "En una sesión de Q&A traducida recientemente y recogida por GamesRadar, el cofundador y director de arte Yang Qi descartó las dudas sobre el uso de IA en Zhong Kui y citó The Odyssey de Nolan: “En un momento en que el cine digital y la posproducción 3D parecen haber llegado a un callejón sin salida, miren a Nolan…” y “le va muy bien, usando técnicas aún más antiguas para sacudir las cosas”."
+                "t": "img",
+                "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
               },
               {
-                "t": "p",
-                "x": "El autor señala que la genAI, incluso solo para recursos de juego, preocupa a los jugadores desde hace tiempo, y que muchos grandes estudios usarán más herramientas de IA en adelante, lo que hace refrescante la postura de Game Science."
-              },
-              {
-                "t": "p",
-                "x": "Black Myth: Zhong Kui sigue sin fecha de lanzamiento porque, en palabras del cofundador de Game Science, “no hay prisa”."
+                "t": "img",
+                "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
               },
               {
                 "t": "video",
-                "yt": "sqe3j4Qch1Y"
+                "yt": "RtNtd1x5RZo"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Black Myth 속편팀\nNolan처럼 AI 거부",
-          "body": "Game Science, Zhong Kui엔 끝까지 AI를 쓰지 않는다.",
-          "mini_headline": "Black Myth 속편, AI 거부",
+        "en": {
+          "headline": "Offline AI game master TRPG\nlaunches on Steam",
+          "body": "The Return of Illunes runs story and rulings on an on-device AI, with no servers or usage fees.",
+          "mini_headline": "TRPG with a built-in AI GM",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "14Dimension Enterprise said it officially released the turn-based roguelike RPG The Return of Illunes on Steam (PC) on October 9, 2026 (Korea time). It is priced at 22,500 won (US$19.99). A Nintendo Switch version is currently under platform review, and its release date will be announced later."
+              },
+              {
+                "t": "p",
+                "x": "The Return of Illunes comes with a built-in AI game master given additional training specifically for the game, and it is the world's first offline TRPG that generates not only the story and action rulings but also subclasses, skills, gear, relics and bosses directly on the device."
+              },
+              {
+                "t": "p",
+                "x": "※ The language model ships with the game and runs only inside the player's PC, so there is no server connection, no subscription and no per-use fee."
+              },
+              {
+                "t": "p",
+                "x": "The AI writes each run's story and goals, adventure events, combat narration, companion dialogue and ending epilogues, and creates the names and lore of new subclasses, skills, gear and relics, as well as boss entrance scenes and gimmicks. Damage, stats, difficulty and progression are always set by the game's rules; player input is screened before it reaches the model, and generated text is screened before it is displayed."
+              },
+              {
+                "t": "p",
+                "x": "The signature system is 'Free Action.' In combat or events, players can type an action that isn't on the menu, such as \"cut the chandelier rope and drop it on the enemy,\" and the AI game master judges success or failure and narrates the result. The ruling carries over into the actual combat outcome."
+              },
+              {
+                "t": "p",
+                "x": "The interface supports 13 languages, and AI-generated text is available in Korean, English and Japanese."
+              },
+              {
+                "t": "p",
+                "x": "※ 'World's first' is based on the company's own research using materials public as of October 9, 2026."
+              },
+              {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
               },
               {
-                "t": "p",
-                "x": "Black Myth: Wukong과 곧 나올 속편 Black Myth: Zhong Kui를 만든 중국 스튜디오 Game Science가 Christopher Nolan 때문에 AI 사용을 “끝까지” 삼가겠다고 밝혔다."
+                "t": "img",
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
               },
               {
-                "t": "p",
-                "x": "GamesRadar가 포착한, 최근 번역된 Q&A에서 공동 창업자이자 아트 디렉터인 Yang Qi는 Zhong Kui에 AI를 쓰느냐는 의구심을 일축하며 Nolan의 The Odyssey를 예로 들었다. 그는 “디지털 영화 제작과 3D 후반 작업이 막다른 길에 이른 듯한 지금, Nolan을 보라…”라고 했고, “그는 훨씬 더 오래된 기법으로 판을 흔들며 승승장구하고 있다”고 말했다."
+                "t": "img",
+                "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
               },
               {
-                "t": "p",
-                "x": "필자는 게임 에셋에만 쓰더라도 genAI는 오랫동안 플레이어들의 우려를 샀고, 앞으로 많은 대형 스튜디오가 AI 도구를 더 많이 쓸 것이기에 Game Science의 입장이 신선하다고 짚는다."
-              },
-              {
-                "t": "p",
-                "x": "Black Myth: Zhong Kui는 아직 출시일이 없다. Game Science 공동 창업자의 말을 빌리면 “서두를 것 없다”는 이유에서다."
+                "t": "img",
+                "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
               },
               {
                 "t": "video",
-                "yt": "sqe3j4Qch1Y"
+                "yt": "RtNtd1x5RZo"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Black Myth続編、\nNolanに倣いAI不使用",
-          "body": "Game ScienceはZhong KuiでAIを最後まで使わないと表明した。",
-          "mini_headline": "Black Myth続編はAIを拒否",
+          "headline": "オフラインAI GM搭載\nTRPGがSteamで発売",
+          "body": "『イルーネスの帰還』は、サーバーも利用料もなく端末内のAIが物語と判定を担う。",
+          "mini_headline": "AI GM内蔵のTRPG",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "14Dimension Enterpriseは、ターン制ローグライクRPG『イルーネスの帰還（The Return of Illunes）』を2026年10月9日（韓国時間）にSteam（PC）で正式リリースしたと発表した。価格は22,500ウォン（19.99米ドル）。Nintendo Switch版は現在プラットフォームの審査中で、発売日は後日公開される。"
+              },
+              {
+                "t": "p",
+                "x": "『イルーネスの帰還』は、ゲーム専用に追加学習したAIゲームマスターを標準搭載し、物語や行動の判定はもちろん、サブクラス・スキル・装備・遺物・ボスまで端末上で直接生成する、世界初のオフラインTRPGだ。"
+              },
+              {
+                "t": "p",
+                "x": "※ 言語モデルがゲームに同梱され、プレイヤーのPC内だけで動作するため、サーバー接続、サブスクリプション、利用ごとの料金は一切ない。"
+              },
+              {
+                "t": "p",
+                "x": "AIは各ランの物語と目標、冒険イベント、戦闘描写、仲間との会話、エンディングのエピローグを書き、新たなサブクラスやスキル・装備・遺物の名前と伝承、ボスの登場シーンとギミックを生み出す。ダメージ・能力値・難易度・成長は常にゲームのルールが決め、プレイヤーの入力はモデルに届く前に、生成された文章は表示前に検査される。"
+              },
+              {
+                "t": "p",
+                "x": "目玉となるシステムは「自由行動」だ。戦闘やイベントで「シャンデリアの綱を切って敵の上に落とす」のようにメニューにない行動を文章で入力すると、AIゲームマスターが成否を判定し、結果を物語として語る。判定は実際の戦闘結果に反映される。"
+              },
+              {
+                "t": "p",
+                "x": "インターフェースは13言語に対応し、AI生成テキストは韓国語・英語・日本語で提供される。"
+              },
+              {
+                "t": "p",
+                "x": "※「世界初」は2026年10月9日時点の公開資料に基づく自社調査の結果である。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
               },
               {
-                "t": "p",
-                "x": "Black Myth: Wukongと、その続編として控えるBlack Myth: Zhong Kuiを手がける中国のスタジオGame Scienceは、Christopher Nolanの影響から、AIの使用を「最後まで」控えると明らかにした。"
+                "t": "img",
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
               },
               {
-                "t": "p",
-                "x": "GamesRadarが取り上げた、最近翻訳されたQ&Aで、共同創業者でアートディレクターのYang Qiは、Zhong KuiでのAI使用への疑念を否定し、NolanのThe Odysseyを引き合いに出した。「デジタルの映画制作と3Dのポストプロダクションが行き詰まったように見える今、Nolanを見てほしい…」、そして「彼はさらに古い手法を使って状況を揺さぶり、成功している」と語った。"
+                "t": "img",
+                "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
               },
               {
-                "t": "p",
-                "x": "筆者は、ゲームアセットに限ってもgenAIは以前からプレイヤーの懸念の的であり、今後は多くの大手スタジオがAIツールをさらに使うことになるだけに、Game Scienceの姿勢は新鮮だと指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "Black Myth: Zhong Kuiの発売日はまだ決まっていない。Game Science共同創業者の言葉を借りれば、「急ぐことはない」からだ。"
+                "t": "img",
+                "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
               },
               {
                 "t": "video",
-                "yt": "sqe3j4Qch1Y"
+                "yt": "RtNtd1x5RZo"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Black Myth续作团队\n援引Nolan拒用AI",
-          "body": "Game Science称《Black Myth: Zhong Kui》将始终不用AI。",
-          "mini_headline": "Black Myth续作拒用AI",
+          "headline": "离线AI游戏主持人\nTRPG登陆Steam",
+          "body": "《伊卢内斯的归来》无需服务器或使用费，由设备内AI负责剧情与判定。",
+          "mini_headline": "内置AI GM的TRPG",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "14Dimension Enterprise宣布，回合制Roguelike RPG《伊卢内斯的归来》（The Return of Illunes）已于2026年10月9日（韩国时间）在Steam（PC）正式发售，售价22,500韩元（19.99美元）。Nintendo Switch版目前正在接受平台审核，发售日期将另行公布。"
+              },
+              {
+                "t": "p",
+                "x": "《伊卢内斯的归来》默认内置专为本作追加训练的AI游戏主持人，不仅能在设备上直接生成剧情与行动判定，还能生成子职业、技能、装备、遗物乃至Boss，是全球首款离线TRPG。"
+              },
+              {
+                "t": "p",
+                "x": "※ 语言模型随游戏附带，仅在玩家的PC内运行，因此无需连接服务器，也没有订阅费或按次计费。"
+              },
+              {
+                "t": "p",
+                "x": "AI会为每一局撰写剧情与目标、冒险事件、战斗叙述、同伴对话和结局尾声，并创造新子职业及技能、装备、遗物的名称与传说，以及Boss的登场场景与机制。伤害、属性、难度和成长始终由游戏规则决定；玩家输入在送达模型前、生成文本在显示前都会经过审核。"
+              },
+              {
+                "t": "p",
+                "x": "其核心系统是“自由行动”。在战斗或事件中，玩家可以像“砍断吊灯绳索，让它砸到敌人身上”这样，用文字输入菜单中没有的行动，AI游戏主持人会判定成败，并以叙事形式讲述结果。判定会反映在实际战斗结果中。"
+              },
+              {
+                "t": "p",
+                "x": "界面支持13种语言，AI生成文本提供韩语、英语和日语版本。"
+              },
+              {
+                "t": "p",
+                "x": "※“全球首款”系基于2026年10月9日公开资料的自家调查结果。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
               },
               {
-                "t": "p",
-                "x": "打造《Black Myth: Wukong》及其即将推出的续作《Black Myth: Zhong Kui》的中国工作室Game Science宣布，受Christopher Nolan影响，将“直到最后”都不使用AI。"
+                "t": "img",
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
               },
               {
-                "t": "p",
-                "x": "在GamesRadar注意到的一篇近期翻译的Q&A中，联合创始人兼美术总监Yang Qi驳斥了外界对《Zhong Kui》使用AI的质疑，并援引Nolan的《The Odyssey》：“在数字电影制作和3D后期制作似乎已走到死胡同的时候，看看Nolan……”以及“他正用更古老的技术来打破常规，而且如鱼得水。”"
+                "t": "img",
+                "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
               },
               {
-                "t": "p",
-                "x": "作者指出，即便只用于游戏素材，genAI也一直令玩家担忧，而今后许多大型工作室会更多地使用AI工具，这让Game Science的立场显得令人耳目一新。"
-              },
-              {
-                "t": "p",
-                "x": "《Black Myth: Zhong Kui》仍未公布发售日期，用Game Science联合创始人的话说，因为“不着急”。"
+                "t": "img",
+                "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
               },
               {
                 "t": "video",
-                "yt": "sqe3j4Qch1Y"
+                "yt": "RtNtd1x5RZo"
               }
             ]
           }
         },
         "es": {
-          "headline": "La secuela de Black Myth\nrechaza la IA y cita a Nolan",
-          "body": "Game Science evitará la IA hasta el final en Black Myth: Zhong Kui, inspirado por la clásica The Odyssey de Nolan.",
-          "mini_headline": "La secuela de Black Myth rechaza la IA",
+          "headline": "TRPG con máster de IA offline\nllega a Steam",
+          "body": "En The Return of Illunes, una IA en el dispositivo narra y arbitra sin servidores ni cuotas de uso.",
+          "mini_headline": "TRPG con máster de IA integrado",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "14Dimension Enterprise anunció el lanzamiento oficial del RPG roguelike por turnos The Return of Illunes en Steam (PC) el 9 de octubre de 2026 (hora de Corea). Su precio es de 22.500 wones (19,99 dólares estadounidenses). La versión para Nintendo Switch está en revisión de la plataforma y su fecha de lanzamiento se anunciará más adelante."
+              },
+              {
+                "t": "p",
+                "x": "The Return of Illunes integra de serie un máster de juego con IA entrenado adicionalmente para este título, y es el primer TRPG offline del mundo que genera directamente en el dispositivo no solo la historia y la resolución de acciones, sino también subclases, habilidades, equipo, reliquias y jefes."
+              },
+              {
+                "t": "p",
+                "x": "※ El modelo de lenguaje viene incluido en el juego y funciona solo dentro del PC del jugador, por lo que no hay conexión a servidores, suscripciones ni tarifas por uso."
+              },
+              {
+                "t": "p",
+                "x": "La IA escribe la historia y los objetivos de cada partida, los eventos de aventura, la narración de los combates, los diálogos con los compañeros y los epílogos finales, y crea los nombres y el trasfondo de nuevas subclases, habilidades, equipo y reliquias, así como las escenas de entrada y las mecánicas de los jefes. El daño, las estadísticas, la dificultad y la progresión los fijan siempre las reglas del juego; la entrada del jugador se revisa antes de llegar al modelo, y el texto generado, antes de mostrarse."
+              },
+              {
+                "t": "p",
+                "x": "El sistema principal es la 'acción libre'. En combates o eventos, el jugador puede escribir una acción que no está en el menú, como \"cortar la cuerda del candelabro y dejarlo caer sobre el enemigo\", y el máster de juego con IA decide si tiene éxito y narra el resultado. La resolución se refleja en el resultado real del combate."
+              },
+              {
+                "t": "p",
+                "x": "La interfaz admite 13 idiomas, y el texto generado por IA está disponible en coreano, inglés y japonés."
+              },
+              {
+                "t": "p",
+                "x": "※ Lo de 'primero del mundo' se basa en una investigación propia con materiales públicos al 9 de octubre de 2026."
+              },
+              {
                 "t": "img",
-                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
               },
               {
-                "t": "p",
-                "x": "Game Science, el estudio chino detrás de Black Myth: Wukong y de su próxima secuela, Black Myth: Zhong Kui, anunció que se abstendrá de usar IA (AI) “hasta el final” por Christopher Nolan."
+                "t": "img",
+                "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
               },
               {
-                "t": "p",
-                "x": "En una sesión de Q&A traducida recientemente y recogida por GamesRadar, el cofundador y director de arte Yang Qi descartó las dudas sobre el uso de IA en Zhong Kui y citó The Odyssey de Nolan: “En un momento en que el cine digital y la posproducción 3D parecen haber llegado a un callejón sin salida, miren a Nolan…” y “le va muy bien, usando técnicas aún más antiguas para sacudir las cosas”."
+                "t": "img",
+                "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
               },
               {
-                "t": "p",
-                "x": "El autor señala que la genAI, incluso solo para recursos de juego, preocupa a los jugadores desde hace tiempo, y que muchos grandes estudios usarán más herramientas de IA en adelante, lo que hace refrescante la postura de Game Science."
-              },
-              {
-                "t": "p",
-                "x": "Black Myth: Zhong Kui sigue sin fecha de lanzamiento porque, en palabras del cofundador de Game Science, “no hay prisa”."
+                "t": "img",
+                "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
               },
               {
                 "t": "video",
-                "yt": "sqe3j4Qch1Y"
+                "yt": "RtNtd1x5RZo"
               }
             ]
           }
@@ -860,15 +1007,15 @@
       }
     },
     {
-      "id": "aion2-steam-ai-reviews",
+      "id": "astro-bot-psvr-quest3-mod",
       "source_lang": "en",
-      "tool": "Games",
       "eyebrow": "AI NEWS",
-      "headline": "Aion 2 40만 육박\nAI 슬롭 비판에도",
-      "body": "NCSoft Aion 2, Steam 첫날 40만에 육박했지만 평가는 Mixed다.",
-      "mini_headline": "Aion 2, AI 비판 속 흥행",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/",
+      "headline": "모더가 Claude로\nAstro Bot을 이식",
+      "body": "Bigmak94가 Claude를 써서 PSVR 독점작을 Quest 3로 옮겼다.",
+      "mini_headline": "Astro Bot, Quest로 이식",
+      "tool": "Games",
+      "source": "Road to VR",
+      "url": "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -876,295 +1023,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+            "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
           },
           {
             "t": "p",
-            "x": "2008년 한국 MMO 'Aion: The Tower of Eternity'의 후속작 Aion 2가 Steam 정식 출시 첫날 약 40만 명(SteamDB 기준 397,905명)을 끌어모았다. 개발과 퍼블리싱을 맡은 NC가 생성형 AI를 썼는데도 거둔 성적이다. Steam Most Played 차트에선 4위에 올라 Apex Legends를 앞질렀다."
+            "x": "AI 바이브코딩 덕에 VR 모딩계가 그야말로 폭발했다. 가장 최근 수혜작은 PSVR 독점작 Astro Bot Rescue Mission(2018)이다. Super Mario Galaxy VR 모드로 이름을 알린 VR 모더 'Bigmak94'가 AI 어시스턴트 Claude에게 오픈소스 PlayStation 4 에뮬레이터 shadPS4를 고쳐 달라고 맡겼다."
+          },
+          {
+            "t": "p",
+            "x": "모더가 Reddit에 올린 글을 보면 Claude가 내놓은 결과물은 사실상 두 가지다. 사이드로드해 기기에서 바로 즐기는 Quest 3 네이티브 빌드, 그리고 다른 헤드셋으로 스트리밍하는 PC VR 버전이다."
           },
           {
             "t": "video",
-            "yt": "YYelxy0eEsA"
+            "yt": "20hsnzFcG1Y"
           },
           {
             "t": "p",
-            "x": "Steam 평가는 현재 “Mixed”이고, 리뷰 상당수가 pay-to-win 요소를 문제 삼는다. “극도로 약탈적인 수익화”라는 평까지 나왔다. NC의 생성형 AI 사용을 겨냥한 듯 “slop” 느낌을 꼬집은 리뷰도 있다. 스토어 페이지에는 “일부 인게임 에셋은 AI 도구의 도움을 받아 제작됐다. Arcana 카드 디자인과 일부 아이콘에는 AI 생성(AI-generated) 에셋을 사용했다”고 적혀 있다."
+            "x": "'AstroQuest' 모드를 돌리려면 콘솔에서 추출한 게임 덤프가 있어야 한다. 모드는 6DOF 헤드셋 트래킹과 네이티브 컨트롤러 매핑, 공간 음향, DualSense 지원을 더한다. 단독형 Quest 3 빌드도 플레이는 되지만, 해상도를 낮춰도 모바일 GPU를 \"한계까지\" 몰아붙인다."
           },
           {
             "t": "p",
-            "x": "다만 작성자가 보기에 플레이어 피드백의 중심 화제는 Gen AI가 아니다. 캐릭터 생성이 훌륭하고 월드가 아름답다는 호평도 많다."
+            "x": "Astro Bot은 PSVR 2로 이식된 적이 없다. Road to VR은 앞서 나온 Titanfall 2의 비슷한 VR 모드를 들며, Claude 같은 AI 에이전트가 모딩과 디컴파일의 문을 연 만큼 이번 일은 빙산의 일각일 뿐이라고 본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Aion 2 nears 400,000 players\ndespite AI slop complaints",
-          "body": "NCSoft's Aion 2 drew nearly 400,000 Steam players on day one, yet Mixed reviews fault its monetization and AI assets.",
-          "mini_headline": "Aion 2 soars amid AI criticism",
+          "headline": "Modder uses Claude to bring\nAstro Bot to Quest 3",
+          "body": "Bigmak94 had Claude modify the shadPS4 emulator, bringing PSVR exclusive Astro Bot Rescue Mission to Quest 3 and PC VR.",
+          "mini_headline": "Astro Bot modded onto Quest",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+                "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
               },
               {
                 "t": "p",
-                "x": "Aion 2, the sequel to the 2008 Korean MMO Aion: The Tower of Eternity, hit nearly 400,000 players on its first official day on Steam – 397,905, according to SteamDB – despite developer and publisher NC's use of generative AI. It ranks fourth on Steam's Most Played chart, ahead of Apex Legends."
+                "x": "AI vibecoding has caused a veritable explosion in the VR modding scene. The latest to benefit is the PSVR exclusive Astro Bot Rescue Mission (2018): VR modder 'Bigmak94', also known for a Super Mario Galaxy VR mod, asked AI assistant Claude to modify shadPS4, an open-source PlayStation 4 emulator."
+              },
+              {
+                "t": "p",
+                "x": "According to the modder's Reddit post, Claude effectively output two versions: a native Quest 3 build to sideload and play on-device, and a PC VR version to stream to other headsets."
               },
               {
                 "t": "video",
-                "yt": "YYelxy0eEsA"
+                "yt": "20hsnzFcG1Y"
               },
               {
                 "t": "p",
-                "x": "The game currently has a “Mixed” Steam rating, with many reviews discussing its pay-to-win features; one calls it “extremely predatory monetization.” Others complain of “slop” vibes, perhaps alluding to NC's use of generative AI. The store page discloses: “Some in-game assets were created with the assistance of AI tools. Arcana card designs and some icons use AI-generated assets.”"
+                "x": "The 'AstroQuest' mod, which requires a game dump from the console, adds 6DOF headset tracking, native controller mapping, spatial audio and DualSense support. The standalone Quest 3 build is playable but pushes the mobile GPU \"to its limits\" at lower resolution."
               },
               {
                 "t": "p",
-                "x": "Gen AI isn't the topic dominating players' feedback, the writer notes, and there is plenty of praise too: the character creation is wonderful and the world is gorgeous."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Aion 2遭AI批评\n玩家仍近400,000",
-          "body": "NCSoft的Aion 2首日Steam玩家近400,000，但评价为Mixed。",
-          "mini_headline": "Aion 2在AI slop争议中走红",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Aion 2是2008年韩国MMO《Aion: The Tower of Eternity》的续作。尽管开发商兼发行商NC使用了生成式AI，该作在Steam正式上线首日仍吸引了近400,000名玩家——据SteamDB统计为397,905人。它在Steam的Most Played榜单上位列第四，领先Apex Legends。"
-              },
-              {
-                "t": "video",
-                "yt": "YYelxy0eEsA"
-              },
-              {
-                "t": "p",
-                "x": "该作目前的Steam评价为“Mixed”，许多评测都在讨论其pay-to-win机制，其中一篇称之为“极其掠夺性的商业化”。另一些人抱怨游戏透着“slop”感，或许是在影射NC使用生成式AI。商店页面披露：“部分游戏内素材在AI工具的辅助下制作。Arcana卡牌设计和部分图标使用了AI生成（AI-generated）素材。”"
-              },
-              {
-                "t": "p",
-                "x": "作者指出，Gen AI并不是玩家反馈中的主要话题，赞誉之声也不少：角色创建很出色，世界也很美。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aion 2 roza 400,000 jugadores\npese a las críticas por AI slop",
-          "body": "Aion 2 de NCSoft rozó 400,000 jugadores en Steam en su estreno, pero reseñas Mixed critican su monetización y su IA.",
-          "mini_headline": "Aion 2 despega pese a las críticas a la IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Aion 2, secuela del MMO coreano de 2008 Aion: The Tower of Eternity, alcanzó casi 400,000 jugadores en su primer día oficial en Steam –397,905, según SteamDB– pese al uso de IA generativa por parte de NC, su desarrolladora y editora. Ocupa el cuarto puesto en la lista Most Played de Steam, por delante de Apex Legends."
-              },
-              {
-                "t": "video",
-                "yt": "YYelxy0eEsA"
-              },
-              {
-                "t": "p",
-                "x": "El juego tiene actualmente una valoración “Mixed” en Steam, y muchas reseñas hablan de sus elementos pay-to-win; una lo califica de “monetización extremadamente depredadora”. Otras se quejan de una sensación de “slop”, quizá en alusión al uso de IA generativa por parte de NC. La página de la tienda indica: “Algunos recursos del juego se crearon con ayuda de herramientas de IA. Los diseños de las cartas Arcana y algunos iconos usan recursos generados por IA (AI-generated)”."
-              },
-              {
-                "t": "p",
-                "x": "La Gen AI no es el tema que domina las opiniones de los jugadores, señala el autor, y también hay muchos elogios: la creación de personajes es magnífica y el mundo es precioso."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI slop批判の中\nAion 2が40万人に迫る",
-          "body": "NCSoftのAion 2はSteam初日に40万人近くを集めたが、評価はMixedだ。",
-          "mini_headline": "AI批判の中Aion 2が好発進",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "2008年の韓国産MMO『Aion: The Tower of Eternity』の続編Aion 2が、Steamでの正式サービス初日に400,000人近いプレイヤーを集めた。SteamDBによれば397,905人だ。開発・パブリッシャーのNC(NCSoft)が生成AIを使用していたにもかかわらずである。SteamのMost Playedチャートでは、Apex Legendsを上回る4位につけている。"
-              },
-              {
-                "t": "video",
-                "yt": "YYelxy0eEsA"
-              },
-              {
-                "t": "p",
-                "x": "現在のSteam評価は「Mixed」で、多くのレビューがpay-to-win要素に触れている。ある レビューは「極めて搾取的な課金」と評した。「slop」っぽさへの不満もあり、NCによる生成AIの使用を指している可能性がある。ストアページには「ゲーム内アセットの一部はAIツールの支援を受けて制作された。Arcanaのカードデザインと一部のアイコンにはAI-generatedアセットを使用している」との開示がある。"
-              },
-              {
-                "t": "p",
-                "x": "筆者は、Gen AIがプレイヤーの反応の中心的な話題ではないと指摘する。称賛の声も多く、キャラクタークリエイトは素晴らしく、世界は美しいという。"
+                "x": "Astro Bot never got a PSVR 2 port. With AI agents like Claude opening up modding and decompiling, Road to VR says it is only the tip of the iceberg, after a similar VR mod for Titanfall 2."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Aion 2 40만 육박\nAI 슬롭 비판에도",
-          "body": "NCSoft Aion 2, Steam 첫날 40만에 육박했지만 평가는 Mixed다.",
-          "mini_headline": "Aion 2, AI 비판 속 흥행",
+          "headline": "모더가 Claude로\nAstro Bot을 이식",
+          "body": "Bigmak94가 Claude를 써서 PSVR 독점작을 Quest 3로 옮겼다.",
+          "mini_headline": "Astro Bot, Quest로 이식",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+                "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
               },
               {
                 "t": "p",
-                "x": "2008년 한국 MMO 'Aion: The Tower of Eternity'의 후속작 Aion 2가 Steam 정식 출시 첫날 약 40만 명(SteamDB 기준 397,905명)을 끌어모았다. 개발과 퍼블리싱을 맡은 NC가 생성형 AI를 썼는데도 거둔 성적이다. Steam Most Played 차트에선 4위에 올라 Apex Legends를 앞질렀다."
+                "x": "AI 바이브코딩 덕에 VR 모딩계가 그야말로 폭발했다. 가장 최근 수혜작은 PSVR 독점작 Astro Bot Rescue Mission(2018)이다. Super Mario Galaxy VR 모드로 이름을 알린 VR 모더 'Bigmak94'가 AI 어시스턴트 Claude에게 오픈소스 PlayStation 4 에뮬레이터 shadPS4를 고쳐 달라고 맡겼다."
+              },
+              {
+                "t": "p",
+                "x": "모더가 Reddit에 올린 글을 보면 Claude가 내놓은 결과물은 사실상 두 가지다. 사이드로드해 기기에서 바로 즐기는 Quest 3 네이티브 빌드, 그리고 다른 헤드셋으로 스트리밍하는 PC VR 버전이다."
               },
               {
                 "t": "video",
-                "yt": "YYelxy0eEsA"
+                "yt": "20hsnzFcG1Y"
               },
               {
                 "t": "p",
-                "x": "Steam 평가는 현재 “Mixed”이고, 리뷰 상당수가 pay-to-win 요소를 문제 삼는다. “극도로 약탈적인 수익화”라는 평까지 나왔다. NC의 생성형 AI 사용을 겨냥한 듯 “slop” 느낌을 꼬집은 리뷰도 있다. 스토어 페이지에는 “일부 인게임 에셋은 AI 도구의 도움을 받아 제작됐다. Arcana 카드 디자인과 일부 아이콘에는 AI 생성(AI-generated) 에셋을 사용했다”고 적혀 있다."
+                "x": "'AstroQuest' 모드를 돌리려면 콘솔에서 추출한 게임 덤프가 있어야 한다. 모드는 6DOF 헤드셋 트래킹과 네이티브 컨트롤러 매핑, 공간 음향, DualSense 지원을 더한다. 단독형 Quest 3 빌드도 플레이는 되지만, 해상도를 낮춰도 모바일 GPU를 \"한계까지\" 몰아붙인다."
               },
               {
                 "t": "p",
-                "x": "다만 작성자가 보기에 플레이어 피드백의 중심 화제는 Gen AI가 아니다. 캐릭터 생성이 훌륭하고 월드가 아름답다는 호평도 많다."
+                "x": "Astro Bot은 PSVR 2로 이식된 적이 없다. Road to VR은 앞서 나온 Titanfall 2의 비슷한 VR 모드를 들며, Claude 같은 AI 에이전트가 모딩과 디컴파일의 문을 연 만큼 이번 일은 빙산의 일각일 뿐이라고 본다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "モッダーがClaudeで\nAstro Botを移植",
+          "body": "Bigmak94がClaudeでPSVR専用作をQuest 3とPC VRへ移植した。",
+          "mini_headline": "Astro BotをQuestへ移植",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AIのバイブコーディングは、VRモッディング界にまさに爆発的な盛り上がりをもたらしている。最新の恩恵を受けたのはPSVR専用タイトル『Astro Bot Rescue Mission』（2018年）だ。『Super Mario Galaxy』のVR化Modでも知られるVRモッダー「Bigmak94」が、AIアシスタントのClaudeに、オープンソースのPlayStation 4エミュレーターshadPS4の改造を依頼した。"
+              },
+              {
+                "t": "p",
+                "x": "モッダーのRedditへの投稿によると、Claudeは実質的に2つのバージョンを出力した。サイドロードして本体で遊べるQuest 3ネイティブ版と、他のヘッドセットにストリーミングするPC VR版だ。"
+              },
+              {
+                "t": "video",
+                "yt": "20hsnzFcG1Y"
+              },
+              {
+                "t": "p",
+                "x": "コンソールから吸い出したゲームデータを必要とする「AstroQuest」Modは、6DOFのヘッドセットトラッキング、ネイティブのコントローラー割り当て、空間オーディオ、DualSense対応を追加する。Quest 3単体版はプレイ可能だが、低い解像度でもモバイルGPUを「限界まで」酷使する。"
+              },
+              {
+                "t": "p",
+                "x": "Astro BotはPSVR 2には移植されなかった。Road to VRは、Titanfall 2の同様のVR Modに続き、ClaudeのようなAIエージェントがモッディングと逆コンパイルの門戸を開く中、これは氷山の一角にすぎないと指摘する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "模组作者借Claude\n移植Astro Bot",
+          "body": "Bigmak94用Claude修改shadPS4，将PSVR独占作移植到Quest 3。",
+          "mini_headline": "Astro Bot模组登陆Quest",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI氛围编程让VR模组圈迎来了一场名副其实的爆发。最新受益的是PSVR独占作《Astro Bot Rescue Mission》（2018）：曾制作《Super Mario Galaxy》VR模组的VR模组作者“Bigmak94”，请AI助手Claude修改开源PlayStation 4模拟器shadPS4。"
+              },
+              {
+                "t": "p",
+                "x": "据该作者在Reddit上的帖子，Claude实际上产出了两个版本：可侧载并在设备上直接游玩的Quest 3原生版本，以及可串流到其他头显的PC VR版本。"
+              },
+              {
+                "t": "video",
+                "yt": "20hsnzFcG1Y"
+              },
+              {
+                "t": "p",
+                "x": "“AstroQuest”模组需要从主机导出的游戏镜像，它加入了6DOF头显追踪、原生手柄映射、空间音频以及DualSense支持。Quest 3独立版本可以游玩，但即便在较低分辨率下，也会把移动GPU推到“极限”。"
+              },
+              {
+                "t": "p",
+                "x": "Astro Bot从未推出PSVR 2移植版。Road to VR表示，继Titanfall 2的类似VR模组之后，随着Claude等AI智能体为模组制作和反编译打开大门，这只是冰山一角。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un modder lleva con Claude\nAstro Bot a Quest 3",
+          "body": "Bigmak94 usó Claude para modificar shadPS4 y llevar el exclusivo de PSVR Astro Bot a Quest 3 y PC VR.",
+          "mini_headline": "Astro Bot llega a Quest con un mod",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El vibecoding con IA ha provocado una auténtica explosión en la escena del modding de VR. El último en beneficiarse es Astro Bot Rescue Mission (2018), exclusivo de PSVR: el modder de VR 'Bigmak94', conocido también por un mod de VR de Super Mario Galaxy, pidió al asistente de IA Claude que modificara shadPS4, un emulador de PlayStation 4 de código abierto."
+              },
+              {
+                "t": "p",
+                "x": "Según la publicación del modder en Reddit, Claude generó en la práctica dos versiones: una compilación nativa para Quest 3 que se instala por sideload y se juega en el propio dispositivo, y una versión para PC VR que se transmite a otros visores."
+              },
+              {
+                "t": "video",
+                "yt": "20hsnzFcG1Y"
+              },
+              {
+                "t": "p",
+                "x": "El mod 'AstroQuest', que requiere un volcado del juego desde la consola, añade seguimiento del visor con 6DOF, asignación nativa de mandos, audio espacial y compatibilidad con DualSense. La versión independiente para Quest 3 es jugable, pero lleva la GPU móvil \"al límite\" con una resolución más baja."
+              },
+              {
+                "t": "p",
+                "x": "Astro Bot nunca recibió una versión para PSVR 2. Con agentes de IA como Claude abriendo el modding y la descompilación, Road to VR afirma que esto es solo la punta del iceberg, tras un mod de VR similar para Titanfall 2."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "zh": {
-          "headline": "Aion 2遭AI批评\n玩家仍近400,000",
-          "body": "NCSoft的Aion 2首日Steam玩家近400,000，但评价为Mixed。",
-          "mini_headline": "Aion 2在AI slop争议中走红",
+        "ko": {
+          "headline": "모더가 Claude로\nAstro Bot을 이식",
+          "body": "Bigmak94가 Claude로 PSVR 독점작을 Quest 3에 옮겼다.",
+          "mini_headline": "Astro Bot, Quest로 이식",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+                "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
               },
               {
                 "t": "p",
-                "x": "Aion 2是2008年韩国MMO《Aion: The Tower of Eternity》的续作。尽管开发商兼发行商NC使用了生成式AI，该作在Steam正式上线首日仍吸引了近400,000名玩家——据SteamDB统计为397,905人。它在Steam的Most Played榜单上位列第四，领先Apex Legends。"
+                "x": "AI 바이브코딩이 VR 모딩계에 그야말로 폭발을 일으켰다. 최근 수혜작은 PSVR 독점작 Astro Bot Rescue Mission(2018)이다. Super Mario Galaxy VR 모드로도 알려진 VR 모더 'Bigmak94'는 AI 어시스턴트 Claude에게 오픈소스 PlayStation 4 에뮬레이터 shadPS4를 수정해 달라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "모더의 Reddit 게시글에 따르면 Claude는 사실상 두 가지 버전을 내놓았다. 사이드로드해 기기에서 바로 즐기는 Quest 3 네이티브 빌드와, 다른 헤드셋으로 스트리밍하는 PC VR 버전이다."
               },
               {
                 "t": "video",
-                "yt": "YYelxy0eEsA"
+                "yt": "20hsnzFcG1Y"
               },
               {
                 "t": "p",
-                "x": "该作目前的Steam评价为“Mixed”，许多评测都在讨论其pay-to-win机制，其中一篇称之为“极其掠夺性的商业化”。另一些人抱怨游戏透着“slop”感，或许是在影射NC使用生成式AI。商店页面披露：“部分游戏内素材在AI工具的辅助下制作。Arcana卡牌设计和部分图标使用了AI生成（AI-generated）素材。”"
+                "x": "콘솔에서 추출한 게임 덤프가 필요한 'AstroQuest' 모드는 6DOF 헤드셋 트래킹, 네이티브 컨트롤러 매핑, 공간 음향, DualSense 지원을 더한다. 단독형 Quest 3 빌드는 플레이할 수 있지만, 낮은 해상도에서도 모바일 GPU를 \"한계까지\" 몰아붙인다."
               },
               {
                 "t": "p",
-                "x": "作者指出，Gen AI并不是玩家反馈中的主要话题，赞誉之声也不少：角色创建很出色，世界也很美。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aion 2 roza 400,000 jugadores\npese a las críticas por AI slop",
-          "body": "Aion 2 de NCSoft rozó 400,000 jugadores en Steam en su estreno, pero reseñas Mixed critican su monetización y su IA.",
-          "mini_headline": "Aion 2 despega pese a las críticas a la IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Aion 2, secuela del MMO coreano de 2008 Aion: The Tower of Eternity, alcanzó casi 400,000 jugadores en su primer día oficial en Steam –397,905, según SteamDB– pese al uso de IA generativa por parte de NC, su desarrolladora y editora. Ocupa el cuarto puesto en la lista Most Played de Steam, por delante de Apex Legends."
-              },
-              {
-                "t": "video",
-                "yt": "YYelxy0eEsA"
-              },
-              {
-                "t": "p",
-                "x": "El juego tiene actualmente una valoración “Mixed” en Steam, y muchas reseñas hablan de sus elementos pay-to-win; una lo califica de “monetización extremadamente depredadora”. Otras se quejan de una sensación de “slop”, quizá en alusión al uso de IA generativa por parte de NC. La página de la tienda indica: “Algunos recursos del juego se crearon con ayuda de herramientas de IA. Los diseños de las cartas Arcana y algunos iconos usan recursos generados por IA (AI-generated)”."
-              },
-              {
-                "t": "p",
-                "x": "La Gen AI no es el tema que domina las opiniones de los jugadores, señala el autor, y también hay muchos elogios: la creación de personajes es magnífica y el mundo es precioso."
+                "x": "Astro Bot은 PSVR 2로 이식된 적이 없다. Road to VR은 Titanfall 2의 비슷한 VR 모드에 이어, Claude 같은 AI 에이전트가 모딩과 디컴파일의 문을 열면서 이번 일은 빙산의 일각일 뿐이라고 전한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI slop批判の中\nAion 2が40万人に迫る",
-          "body": "NCSoftのAion 2はSteam初日に40万人近くを集めたが、評価はMixedだ。",
-          "mini_headline": "AI批判の中Aion 2が好発進",
+          "headline": "モッダーがClaudeで\nAstro Botを移植",
+          "body": "Bigmak94がClaudeでPSVR専用作をQuest 3とPC VRへ移植した。",
+          "mini_headline": "Astro BotをQuestへ移植",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+                "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
               },
               {
                 "t": "p",
-                "x": "2008年の韓国産MMO『Aion: The Tower of Eternity』の続編Aion 2が、Steamでの正式サービス初日に400,000人近いプレイヤーを集めた。SteamDBによれば397,905人だ。開発・パブリッシャーのNC(NCSoft)が生成AIを使用していたにもかかわらずである。SteamのMost Playedチャートでは、Apex Legendsを上回る4位につけている。"
+                "x": "AIのバイブコーディングは、VRモッディング界にまさに爆発的な盛り上がりをもたらしている。最新の恩恵を受けたのはPSVR専用タイトル『Astro Bot Rescue Mission』（2018年）だ。『Super Mario Galaxy』のVR化Modでも知られるVRモッダー「Bigmak94」が、AIアシスタントのClaudeに、オープンソースのPlayStation 4エミュレーターshadPS4の改造を依頼した。"
+              },
+              {
+                "t": "p",
+                "x": "モッダーのRedditへの投稿によると、Claudeは実質的に2つのバージョンを出力した。サイドロードして本体で遊べるQuest 3ネイティブ版と、他のヘッドセットにストリーミングするPC VR版だ。"
               },
               {
                 "t": "video",
-                "yt": "YYelxy0eEsA"
+                "yt": "20hsnzFcG1Y"
               },
               {
                 "t": "p",
-                "x": "現在のSteam評価は「Mixed」で、多くのレビューがpay-to-win要素に触れている。ある レビューは「極めて搾取的な課金」と評した。「slop」っぽさへの不満もあり、NCによる生成AIの使用を指している可能性がある。ストアページには「ゲーム内アセットの一部はAIツールの支援を受けて制作された。Arcanaのカードデザインと一部のアイコンにはAI-generatedアセットを使用している」との開示がある。"
+                "x": "コンソールから吸い出したゲームデータを必要とする「AstroQuest」Modは、6DOFのヘッドセットトラッキング、ネイティブのコントローラー割り当て、空間オーディオ、DualSense対応を追加する。Quest 3単体版はプレイ可能だが、低い解像度でもモバイルGPUを「限界まで」酷使する。"
               },
               {
                 "t": "p",
-                "x": "筆者は、Gen AIがプレイヤーの反応の中心的な話題ではないと指摘する。称賛の声も多く、キャラクタークリエイトは素晴らしく、世界は美しいという。"
+                "x": "Astro BotはPSVR 2には移植されなかった。Road to VRは、Titanfall 2の同様のVR Modに続き、ClaudeのようなAIエージェントがモッディングと逆コンパイルの門戸を開く中、これは氷山の一角にすぎないと指摘する。"
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Aion 2 40만 육박\nAI 슬롭 비판에도",
-          "body": "NCSoft Aion 2는 Steam 첫날 40만 육박에도 Mixed 평가다.",
-          "mini_headline": "Aion 2, AI 비판 속 흥행",
+        "zh": {
+          "headline": "模组作者借Claude\n移植Astro Bot",
+          "body": "Bigmak94用Claude修改shadPS4，将PSVR独占作移植到Quest 3。",
+          "mini_headline": "Astro Bot模组登陆Quest",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+                "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
               },
               {
                 "t": "p",
-                "x": "2008년 한국 MMO 'Aion: The Tower of Eternity'의 후속작 Aion 2는 개발사이자 퍼블리셔인 NC의 생성형 AI 사용에도 Steam 공식 출시 첫날 약 40만 명(SteamDB 기준 397,905명)을 기록했다. Steam Most Played 차트에서는 4위로 Apex Legends를 앞섰다."
+                "x": "AI氛围编程让VR模组圈迎来了一场名副其实的爆发。最新受益的是PSVR独占作《Astro Bot Rescue Mission》（2018）：曾制作《Super Mario Galaxy》VR模组的VR模组作者“Bigmak94”，请AI助手Claude修改开源PlayStation 4模拟器shadPS4。"
+              },
+              {
+                "t": "p",
+                "x": "据该作者在Reddit上的帖子，Claude实际上产出了两个版本：可侧载并在设备上直接游玩的Quest 3原生版本，以及可串流到其他头显的PC VR版本。"
               },
               {
                 "t": "video",
-                "yt": "YYelxy0eEsA"
+                "yt": "20hsnzFcG1Y"
               },
               {
                 "t": "p",
-                "x": "현재 Steam 평가는 “Mixed”이며, 많은 리뷰가 pay-to-win 요소를 다룬다. 한 리뷰는 “극도로 약탈적인 수익화”라고 평했다. NC의 생성형 AI 사용을 겨냥한 듯 “slop” 느낌을 지적하는 리뷰도 있다. 스토어 페이지는 “일부 인게임 에셋은 AI 도구의 도움을 받아 제작됐다. Arcana 카드 디자인과 일부 아이콘에는 AI 생성(AI-generated) 에셋을 사용했다”고 밝힌다."
+                "x": "“AstroQuest”模组需要从主机导出的游戏镜像，它加入了6DOF头显追踪、原生手柄映射、空间音频以及DualSense支持。Quest 3独立版本可以游玩，但即便在较低分辨率下，也会把移动GPU推到“极限”。"
               },
               {
                 "t": "p",
-                "x": "작성자는 Gen AI가 플레이어 피드백의 중심 화제는 아니라고 짚는다. 캐릭터 생성은 훌륭하고 월드는 아름답다는 호평도 많다."
+                "x": "Astro Bot从未推出PSVR 2移植版。Road to VR表示，继Titanfall 2的类似VR模组之后，随着Claude等AI智能体为模组制作和反编译打开大门，这只是冰山一角。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un modder lleva con Claude\nAstro Bot a Quest 3",
+          "body": "Bigmak94 usó Claude para modificar shadPS4 y llevar el exclusivo de PSVR Astro Bot a Quest 3 y PC VR.",
+          "mini_headline": "Astro Bot llega a Quest con un mod",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El vibecoding con IA ha provocado una auténtica explosión en la escena del modding de VR. El último en beneficiarse es Astro Bot Rescue Mission (2018), exclusivo de PSVR: el modder de VR 'Bigmak94', conocido también por un mod de VR de Super Mario Galaxy, pidió al asistente de IA Claude que modificara shadPS4, un emulador de PlayStation 4 de código abierto."
+              },
+              {
+                "t": "p",
+                "x": "Según la publicación del modder en Reddit, Claude generó en la práctica dos versiones: una compilación nativa para Quest 3 que se instala por sideload y se juega en el propio dispositivo, y una versión para PC VR que se transmite a otros visores."
+              },
+              {
+                "t": "video",
+                "yt": "20hsnzFcG1Y"
+              },
+              {
+                "t": "p",
+                "x": "El mod 'AstroQuest', que requiere un volcado del juego desde la consola, añade seguimiento del visor con 6DOF, asignación nativa de mandos, audio espacial y compatibilidad con DualSense. La versión independiente para Quest 3 es jugable, pero lleva la GPU móvil \"al límite\" con una resolución más baja."
+              },
+              {
+                "t": "p",
+                "x": "Astro Bot nunca recibió una versión para PSVR 2. Con agentes de IA como Claude abriendo el modding y la descompilación, Road to VR afirma que esto es solo la punta del iceberg, tras un mod de VR similar para Titanfall 2."
               }
             ]
           }
@@ -1172,237 +1359,195 @@
       }
     },
     {
-      "id": "google-playground-ai-games",
+      "id": "analogue-pocket-snes-ai-hack",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google, 실험적인\nAI 게임 플랫폼 공개",
-      "body": "Playground는 gen-AI 프롬프트로 게임을 만들고 즐기는 플랫폼이다.",
-      "mini_headline": "Google, AI 게임 Playground 공개",
+      "headline": "SNES 50k-line\nLLM-built에 반발",
+      "body": "agg23은 요청 없는 50k-line LLM 코드가 관리자 시간을 뺏는다고 했다.",
+      "mini_headline": "SNES 코어 개발자, AI 코드 비판",
       "tool": "Games",
-      "source": "Game Developer",
-      "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+            "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+            "cap": "이미지 출처: Phil Hayton"
           },
           {
             "t": "p",
-            "x": "Google이 전용 비디오게임 플랫폼에 다시 한번 크게 도전한다. 이번엔 생성형 AI로 만든 게임이 대상이다. 새 사업 Google Playground에서는 생성형 AI 도구로 게임을 만들고 공유하고 플레이할 수 있다."
+            "x": "Analogue Pocket용 오픈소스 openFPGA 에뮬레이터 코어 제작자들이 성의 없는 바이브코딩 기여에 시달린다. nasonliu라는 기여자가 Pocket SNES 코어에 \"실험적 MSU-1 스트리밍\" 기능을 제출했다. MSU-1은 롬해커가 CD-quality 오디오를 넣을 때 쓰는 가상의 확장 칩이다."
           },
           {
             "t": "p",
-            "x": "Google 대변인은 오늘 발표에서 Playground를 “실험적인 게이밍 플랫폼”이라 부르며 “코딩 경험 없이도 사용자가 완전히 맞춤화된 게임을 만들고, 플레이하고, 공유할 수 있게 한다”고 설명했다."
+            "x": "\"요청하지도 않은, 완전히 LLM으로 만든 거의 50k 줄짜리 diff를 보내 놓고 어떻게든 제가 리뷰해 주길 기대하는군요.\" SNES FPGA 코어를 이식한 agg23의 말이다. \"여기엔 관련 없는 쓰레기가 너무나(SO MUCH) 많습니다.\""
           },
           {
             "t": "p",
-            "x": "회사 측은 “Playground의 대화형 인터페이스로 사용자는 원하는 것을 입력하거나, 스타터 프롬프트를 리믹스하거나, 안내를 받아 맞춤형 게임을 만들고 자신의 창의성을 세상과 나눌 수 있다”고 밝혔다. “사용자는 사실상 감독처럼 프롬프트로 규칙을 다듬고, 캐릭터를 꾸미고, 환경을 조정해 구상한 모습을 완성할 수 있다. 또 Playground는 브라우저 기반이라 휴대폰과 노트북에서 모두 게임을 즐길 수 있다”는 설명도 덧붙였다."
+            "x": "\"당신의 머리는 거의, 혹은 전혀 쓰지 않은 '당신의' 콘텐츠를 밀어붙이면서 남의 시간과 두뇌를 침해하고 있습니다.\" agg23은 이렇게 덧붙였다. \"당신과 당신의 LLM이 이걸 작동시켰다니 멋지다고 생각해요. 하지만 제 세계에는 설 자리가 없습니다.\""
           },
           {
             "t": "p",
-            "x": "Playground로 실험해 보려는 개발자라면 Unity가 따로 발표한 새 도구 Unity Spark도 쓸 수 있다. Playground와 함께 쓰도록 만든 도구다."
-          },
-          {
-            "t": "p",
-            "x": "Google의 새 플랫폼은 숙련된 게임 개발자는 물론, 전통적인 개발 과정을 거치지 않고 아이디어를 게임으로 옮기고 싶은 예비 제작자까지 겨냥한 듯하다. 개발자들이 생성형 AI 실험을 이어가면서도 비디오게임 산업에 미칠 영향을 깊이 우려하는 와중에 나온 행보다."
-          },
-          {
-            "t": "p",
-            "x": "Google의 새 플랫폼이 궁금하다면 직접 게임을 해 보면 된다."
+            "x": "PS3 에뮬레이터 RPCS3 개발진 역시 AI 슬롭 코드를 그만 보내 달라고 호소했다. RPCS3는 AI 사용은 허용하되, 기여자가 자기 코드를 완전히 이해하고 있어야 한다는 조건을 단다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google debuts experimental\nAI game platform Playground",
-          "body": "Google's experimental Playground is a new platform for making and playing games derived from gen-AI prompts.",
-          "mini_headline": "Google debuts\nAI game Playground",
+          "headline": "SNES core dev slams a 50k-line\nLLM-built contribution",
+          "body": "agg23, who ported the SNES core to Analogue Pocket, says an unrequested 50k-line LLM diff wastes maintainers' time.",
+          "mini_headline": "SNES core dev slams AI code",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+                "cap": "Image credit: Phil Hayton"
               },
               {
                 "t": "p",
-                "x": "Google is making another big swing at building a dedicated video game platform—this time opting to produce one for games made with generative AI. The new venture, Google Playground, is a platform for making, sharing, and playing games made using generative AI tools."
+                "x": "Makers of open-source openFPGA emulator cores for the Analogue Pocket are contending with low-effort, vibe-coded contributions. A contributor going by nasonliu submitted an \"experimental MSU-1 streaming\" feature for the Pocket SNES core; MSU-1 is a fictitious enhancement chip that lets romhackers add CD-quality audio."
               },
               {
                 "t": "p",
-                "x": "In today's announcement, a Google spokesperson described Playground as an \"experimental gaming platform\" that \"Lets users create, play and share fully custom games with no coding experience required.\""
+                "x": "\"You sent me a nearly 50k line diff, unasked for, completely LLM built, and you somehow expect me to review it,\" said agg23, who ported the SNES FPGA core. \"There is SO MUCH unrelated garbage here.\""
               },
               {
                 "t": "p",
-                "x": "\"With Playground’s conversational interface, users can create custom games by typing what they want, remixing starter prompts or getting guided support to help them share their creativity with the world,\" the company stated. \"Essentially acting as a director, users can refine the rules with prompts, customize characters and tweak the environment until it’s what they envision. And since Playground is browser-based, games are playable across phones and laptops.\""
+                "x": "\"You are infringing on the time and brainpower of people by pushing 'your' content that little/no of your brainpower went into,\" agg23 added. \"I think it's cool that you and your LLM supposedly got this to work. It has no place in my world.\""
               },
               {
                 "t": "p",
-                "x": "Developers interested in experimenting with Playground can also take advantage of Unity Spark, a new, separately-announced tool from Unity built to work with Playground."
-              },
-              {
-                "t": "p",
-                "x": "Google's new platform appears targeted to both veteran game developers and would-be game-makers who want to turn their ideas into games without going through the traditional development process. This comes as developers continue to experiment with generative AI, but do so with grave concerns about its impact on the video game industry."
-              },
-              {
-                "t": "p",
-                "x": "Those curious about Google's new platform can try the games for themselves."
+                "x": "PS3 emulator RPCS3's devs similarly begged contributors to stop submitting AI slop code; RPCS3 allows AI but requires contributors to fully understand their code."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google, 실험적인\nAI 게임 플랫폼 공개",
-          "body": "Playground는 gen-AI 프롬프트로 게임을 만들고 즐기는 플랫폼이다.",
-          "mini_headline": "Google, AI 게임 Playground 공개",
+          "headline": "SNES 50k-line\nLLM-built에 반발",
+          "body": "agg23은 요청 없는 50k-line LLM 코드가 관리자 시간을 뺏는다고 했다.",
+          "mini_headline": "SNES 코어 개발자, AI 코드 비판",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+                "cap": "이미지 출처: Phil Hayton"
               },
               {
                 "t": "p",
-                "x": "Google이 전용 비디오게임 플랫폼에 다시 한번 크게 도전한다. 이번엔 생성형 AI로 만든 게임이 대상이다. 새 사업 Google Playground에서는 생성형 AI 도구로 게임을 만들고 공유하고 플레이할 수 있다."
+                "x": "Analogue Pocket용 오픈소스 openFPGA 에뮬레이터 코어 제작자들이 성의 없는 바이브코딩 기여에 시달린다. nasonliu라는 기여자가 Pocket SNES 코어에 \"실험적 MSU-1 스트리밍\" 기능을 제출했다. MSU-1은 롬해커가 CD-quality 오디오를 넣을 때 쓰는 가상의 확장 칩이다."
               },
               {
                 "t": "p",
-                "x": "Google 대변인은 오늘 발표에서 Playground를 “실험적인 게이밍 플랫폼”이라 부르며 “코딩 경험 없이도 사용자가 완전히 맞춤화된 게임을 만들고, 플레이하고, 공유할 수 있게 한다”고 설명했다."
+                "x": "\"요청하지도 않은, 완전히 LLM으로 만든 거의 50k 줄짜리 diff를 보내 놓고 어떻게든 제가 리뷰해 주길 기대하는군요.\" SNES FPGA 코어를 이식한 agg23의 말이다. \"여기엔 관련 없는 쓰레기가 너무나(SO MUCH) 많습니다.\""
               },
               {
                 "t": "p",
-                "x": "회사 측은 “Playground의 대화형 인터페이스로 사용자는 원하는 것을 입력하거나, 스타터 프롬프트를 리믹스하거나, 안내를 받아 맞춤형 게임을 만들고 자신의 창의성을 세상과 나눌 수 있다”고 밝혔다. “사용자는 사실상 감독처럼 프롬프트로 규칙을 다듬고, 캐릭터를 꾸미고, 환경을 조정해 구상한 모습을 완성할 수 있다. 또 Playground는 브라우저 기반이라 휴대폰과 노트북에서 모두 게임을 즐길 수 있다”는 설명도 덧붙였다."
+                "x": "\"당신의 머리는 거의, 혹은 전혀 쓰지 않은 '당신의' 콘텐츠를 밀어붙이면서 남의 시간과 두뇌를 침해하고 있습니다.\" agg23은 이렇게 덧붙였다. \"당신과 당신의 LLM이 이걸 작동시켰다니 멋지다고 생각해요. 하지만 제 세계에는 설 자리가 없습니다.\""
               },
               {
                 "t": "p",
-                "x": "Playground로 실험해 보려는 개발자라면 Unity가 따로 발표한 새 도구 Unity Spark도 쓸 수 있다. Playground와 함께 쓰도록 만든 도구다."
-              },
-              {
-                "t": "p",
-                "x": "Google의 새 플랫폼은 숙련된 게임 개발자는 물론, 전통적인 개발 과정을 거치지 않고 아이디어를 게임으로 옮기고 싶은 예비 제작자까지 겨냥한 듯하다. 개발자들이 생성형 AI 실험을 이어가면서도 비디오게임 산업에 미칠 영향을 깊이 우려하는 와중에 나온 행보다."
-              },
-              {
-                "t": "p",
-                "x": "Google의 새 플랫폼이 궁금하다면 직접 게임을 해 보면 된다."
+                "x": "PS3 에뮬레이터 RPCS3 개발진 역시 AI 슬롭 코드를 그만 보내 달라고 호소했다. RPCS3는 AI 사용은 허용하되, 기여자가 자기 코드를 완전히 이해하고 있어야 한다는 조건을 단다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、実験的な\nAIゲーム基盤を公開",
-          "body": "Playgroundはgen-AIプロンプトでゲームを作り遊べる新しい基盤だ。",
-          "mini_headline": "Google、AIゲーム基盤Playgroundを公開",
+          "headline": "SNESの50k-line\nLLM-built投稿に苦言",
+          "body": "agg23は、頼まれていない50k-lineのLLM差分がメンテナの時間を奪うと語る。",
+          "mini_headline": "SNESコア開発者がAIコードを批判",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+                "cap": "画像提供：Phil Hayton"
               },
               {
                 "t": "p",
-                "x": "Googleが、専用のビデオゲームプラットフォーム構築に再び大きく挑む。今回は生成AIで作られたゲーム向けだ。新事業のGoogle Playgroundは、生成AIツールで作ったゲームを制作・共有・プレイするためのプラットフォームである。"
+                "x": "Analogue Pocket向けオープンソースのopenFPGAエミュレーターコアの開発者たちが、手抜きのバイブコーディングによる投稿に悩まされている。nasonliuと名乗る投稿者が、Pocket用SNESコアに「実験的なMSU-1ストリーミング」機能を提出した。MSU-1はROMハッカーがCD-qualityのオーディオを追加できる架空の拡張チップだ。"
               },
               {
                 "t": "p",
-                "x": "本日の発表で、Googleの広報担当者はPlaygroundを「実験的なゲーミングプラットフォーム」と表現し、「コーディング経験がなくても、ユーザーが完全にカスタムしたゲームを作り、遊び、共有できる」と説明した。"
+                "x": "「頼んでもいない、完全にLLMで作られた50k 行近いdiffを送ってきて、なぜか私にレビューしてもらえると思っている」と、SNESのFPGAコアを移植したagg23は語った。「ここには無関係なゴミが本当に（SO MUCH）多い」"
               },
               {
                 "t": "p",
-                "x": "同社は「Playgroundの対話型インターフェースにより、ユーザーは作りたいものを入力したり、スターター用プロンプトをリミックスしたり、ガイド付きのサポートを受けたりしてカスタムゲームを作り、自らの創造性を世界と共有できる」と述べた。さらに「ユーザーはいわば監督として、プロンプトでルールを練り、キャラクターをカスタマイズし、環境を調整して、思い描いた形に仕上げられる。Playgroundはブラウザベースなので、ゲームはスマートフォンでもノートパソコンでも遊べる」としている。"
+                "x": "「自分の頭をほとんど、あるいはまったく使っていない『自分の』コンテンツを押しつけることで、他人の時間と頭脳を侵害している」とagg23は付け加えた。「あなたとあなたのLLMがこれを動かせたらしいのはクールだと思う。でも私の世界に居場所はない」"
               },
               {
                 "t": "p",
-                "x": "Playgroundを試したい開発者は、Unityが別途発表した新ツールUnity Sparkも活用できる。Playgroundと連携するよう作られたツールだ。"
-              },
-              {
-                "t": "p",
-                "x": "Googleの新プラットフォームは、ベテランのゲーム開発者と、従来の開発プロセスを経ずにアイデアをゲームにしたい作り手志望の人々の双方を狙っているようだ。開発者が生成AIの試行を続けつつも、ビデオゲーム業界への影響を深く懸念するなかでの動きである。"
-              },
-              {
-                "t": "p",
-                "x": "Googleの新プラットフォームが気になる人は、自分でゲームを試せる。"
+                "x": "PS3エミュレーターRPCS3の開発者たちも同様に、AIスロップコードの投稿をやめるよう訴えた。RPCS3はAIの使用を認めているが、投稿者が自分のコードを完全に理解していることを求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google推出实验性\nAI游戏平台",
-          "body": "Google实验性平台Playground可用gen-AI提示词制作并游玩游戏。",
-          "mini_headline": "Google推出AI游戏平台Playground",
+          "headline": "SNES方斥50k-line\nLLM-built代码贡献",
+          "body": "agg23称，未经请求的50k-line LLM差异代码浪费维护者时间。",
+          "mini_headline": "SNES核心开发者痛批AI代码",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+                "cap": "图片来源：Phil Hayton"
               },
               {
                 "t": "p",
-                "x": "Google再次大举尝试打造专属电子游戏平台，这一次面向用生成式AI制作的游戏。新项目Google Playground是一个用于制作、分享和游玩由生成式AI工具制作的游戏的平台。"
+                "x": "为Analogue Pocket制作开源openFPGA模拟器核心的开发者们，正被敷衍了事的氛围编程贡献所困扰。一位名为nasonliu的贡献者为Pocket SNES核心提交了“实验性MSU-1串流”功能；MSU-1是一种虚构的增强芯片，可让ROM改版作者加入CD-quality音频。"
               },
               {
                 "t": "p",
-                "x": "在今天的发布中，一位Google发言人将Playground描述为“实验性游戏平台”，它“让用户无需编程经验即可创建、游玩和分享完全自定义的游戏”。"
+                "x": "“你发给我一份近50k 行、没人要求、完全由LLM生成的diff，还不知怎么指望我去审查它，”移植了SNES FPGA核心的agg23说，“这里面有SO MUCH无关的垃圾。”"
               },
               {
                 "t": "p",
-                "x": "该公司表示：“借助Playground的对话式界面，用户可以输入想要的内容、混编入门提示词或获得引导式支持来创建自定义游戏，与世界分享自己的创意。”“用户基本上相当于导演，可以通过提示词完善规则、定制角色、调整环境，直到达到心中设想。而且由于Playground基于浏览器，游戏可在手机和笔记本电脑上游玩。”"
+                "x": "“你推送着几乎或根本没花你自己脑力的‘你的’内容，侵占了别人的时间和脑力，”agg23补充道，“你和你的LLM据说让它跑起来了，我觉得挺酷的。但它在我的世界里没有立足之地。”"
               },
               {
                 "t": "p",
-                "x": "有意尝试Playground的开发者还可以使用Unity Spark，这是Unity另行发布的一款新工具，专为配合Playground而打造。"
-              },
-              {
-                "t": "p",
-                "x": "Google的新平台似乎同时面向资深游戏开发者，以及希望绕开传统开发流程、把创意变成游戏的准游戏制作者。与此同时，开发者仍在持续尝试生成式AI，却对其给电子游戏行业带来的影响深感担忧。"
-              },
-              {
-                "t": "p",
-                "x": "对Google新平台感兴趣的人可以亲自试玩这些游戏。"
+                "x": "PS3模拟器RPCS3的开发者也曾同样恳请贡献者别再提交AI垃圾代码；RPCS3允许使用AI，但要求贡献者完全理解自己的代码。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google presenta Playground,\nplataforma de juegos con IA",
-          "body": "Playground, la plataforma experimental de Google, permite crear y jugar títulos generados con prompts de gen-AI.",
-          "mini_headline": "Google lanza la plataforma de juegos Playground",
+          "headline": "Desarrollador de SNES critica\nun aporte LLM-built de 50k-line",
+          "body": "agg23, que portó el core de SNES, dice que un diff LLM de 50k-line no pedido roba tiempo a los mantenedores.",
+          "mini_headline": "Un dev de SNES critica código de IA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+                "cap": "Crédito de la imagen: Phil Hayton"
               },
               {
                 "t": "p",
-                "x": "Google vuelve a apostar fuerte por crear una plataforma dedicada de videojuegos, esta vez para juegos hechos con IA generativa (AI). La nueva iniciativa, Google Playground, es una plataforma para crear, compartir y jugar juegos hechos con herramientas de IA generativa."
+                "x": "Los creadores de los núcleos de emulación openFPGA de código abierto para Analogue Pocket se enfrentan a aportes de poco esfuerzo hechos con vibe coding. Un colaborador que se hace llamar nasonliu envió una función de \"streaming experimental MSU-1\" para el núcleo de SNES de Pocket; MSU-1 es un chip de mejora ficticio que permite a los romhackers añadir audio CD-quality (con calidad de CD)."
               },
               {
                 "t": "p",
-                "x": "En el anuncio de hoy, un portavoz de Google describió Playground como una \"plataforma de juegos experimental\" que \"permite a los usuarios crear, jugar y compartir juegos totalmente personalizados sin necesidad de experiencia en programación\"."
+                "x": "\"Me enviaste un diff de casi 50k líneas, sin que nadie lo pidiera, construido por completo con LLM, y de algún modo esperas que lo revise\", dijo agg23, que portó el núcleo FPGA de SNES. \"Aquí hay MUCHÍSIMA basura sin relación\"."
               },
               {
                 "t": "p",
-                "x": "\"Con la interfaz conversacional de Playground, los usuarios pueden crear juegos personalizados escribiendo lo que quieren, remezclando prompts iniciales u obteniendo ayuda guiada para compartir su creatividad con el mundo\", afirmó la compañía. \"Actuando básicamente como directores, los usuarios pueden afinar las reglas con prompts, personalizar personajes y ajustar el entorno hasta que sea lo que imaginan. Y como Playground funciona en el navegador, los juegos se pueden jugar en teléfonos y portátiles\"."
+                "x": "\"Estás invadiendo el tiempo y la capacidad mental de las personas al imponer contenido 'tuyo' en el que pusiste poca o ninguna capacidad mental propia\", añadió agg23. \"Me parece genial que tú y tu LLM supuestamente lograran que esto funcionara. No tiene cabida en mi mundo\"."
               },
               {
                 "t": "p",
-                "x": "Los desarrolladores interesados en experimentar con Playground también pueden aprovechar Unity Spark, una nueva herramienta de Unity anunciada por separado y diseñada para funcionar con Playground."
-              },
-              {
-                "t": "p",
-                "x": "La nueva plataforma de Google parece dirigida tanto a desarrolladores de juegos veteranos como a aspirantes que quieren convertir sus ideas en juegos sin pasar por el proceso de desarrollo tradicional. Llega en un momento en que los desarrolladores siguen experimentando con la IA generativa, pero con serias preocupaciones por su impacto en la industria del videojuego."
-              },
-              {
-                "t": "p",
-                "x": "Quienes sientan curiosidad por la nueva plataforma de Google pueden probar los juegos por sí mismos."
+                "x": "Los desarrolladores del emulador de PS3 RPCS3 también pidieron a los colaboradores que dejaran de enviar código basura generado por IA; RPCS3 permite la IA, pero exige que los colaboradores entiendan por completo su código."
               }
             ]
           }
@@ -1410,153 +1555,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google, 실험적인\nAI 게임 플랫폼 공개",
-          "body": "Playground는 gen-AI 프롬프트로 게임을 만들고 즐기는 플랫폼이다.",
-          "mini_headline": "Google, AI 게임 Playground 공개",
+          "headline": "SNES 50k-line\nLLM-built에 반발",
+          "body": "agg23은 요청 없는 50k-line LLM 코드가 관리자 시간을 뺏는다고 했다.",
+          "mini_headline": "SNES 코어 개발자, AI 코드 비판",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+                "cap": "이미지 출처: Phil Hayton"
               },
               {
                 "t": "p",
-                "x": "Google이 전용 비디오게임 플랫폼 구축에 다시 한번 크게 도전한다. 이번에는 생성형 AI로 만든 게임을 위한 플랫폼이다. 새 사업인 Google Playground는 생성형 AI 도구로 만든 게임을 제작하고 공유하고 플레이하는 플랫폼이다."
+                "x": "Analogue Pocket용 오픈소스 openFPGA 에뮬레이터 코어 제작자들이 성의 없는 바이브코딩 기여에 시달리고 있다. nasonliu라는 기여자가 Pocket SNES 코어에 \"실험적 MSU-1 스트리밍\" 기능을 제출했다. MSU-1은 롬해커가 CD-quality 오디오를 넣을 수 있게 해 주는 가상의 확장 칩이다."
               },
               {
                 "t": "p",
-                "x": "오늘 발표에서 Google 대변인은 Playground를 “실험적인 게이밍 플랫폼”이라 소개하며, “코딩 경험 없이도 사용자가 완전히 맞춤화된 게임을 만들고, 플레이하고, 공유할 수 있게 한다”고 설명했다."
+                "x": "\"요청하지도 않은, 완전히 LLM으로 만든 거의 50k 줄짜리 diff를 보내 놓고 어떻게든 제가 리뷰해 주길 기대하는군요.\" SNES FPGA 코어를 이식한 agg23의 말이다. \"여기엔 관련 없는 쓰레기가 너무나(SO MUCH) 많습니다.\""
               },
               {
                 "t": "p",
-                "x": "회사는 “Playground의 대화형 인터페이스로 사용자는 원하는 것을 입력하거나, 스타터 프롬프트를 리믹스하거나, 안내를 받아 맞춤형 게임을 만들고 자신의 창의성을 세상과 나눌 수 있다”고 밝혔다. 이어 “사용자는 사실상 감독처럼 프롬프트로 규칙을 다듬고, 캐릭터를 꾸미고, 환경을 조정해 구상한 모습을 완성할 수 있다. 또 Playground는 브라우저 기반이라 휴대폰과 노트북에서 모두 게임을 즐길 수 있다”고 했다."
+                "x": "\"당신의 머리는 거의, 혹은 전혀 쓰지 않은 '당신의' 콘텐츠를 밀어붙이면서 남의 시간과 두뇌를 침해하고 있습니다.\" agg23은 이렇게 덧붙였다. \"당신과 당신의 LLM이 이걸 작동시켰다니 멋지다고 생각해요. 하지만 제 세계에는 설 자리가 없습니다.\""
               },
               {
                 "t": "p",
-                "x": "Playground로 실험해 보려는 개발자는 Unity가 별도로 발표한 새 도구 Unity Spark도 활용할 수 있다. 이 도구는 Playground와 함께 쓰도록 만들었다."
-              },
-              {
-                "t": "p",
-                "x": "Google의 새 플랫폼은 숙련된 게임 개발자와, 전통적인 개발 과정을 거치지 않고 아이디어를 게임으로 만들고 싶은 예비 제작자를 모두 겨냥한 것으로 보인다. 개발자들이 생성형 AI 실험을 이어가면서도 비디오게임 산업에 미칠 영향을 깊이 우려하는 가운데 나온 행보다."
-              },
-              {
-                "t": "p",
-                "x": "Google의 새 플랫폼이 궁금하다면 직접 게임을 해 볼 수 있다."
+                "x": "PS3 에뮬레이터 RPCS3 개발진도 비슷하게 AI 슬롭 코드를 그만 보내 달라고 호소했다. RPCS3는 AI 사용을 허용하지만 기여자가 자기 코드를 완전히 이해할 것을 요구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、実験的な\nAIゲーム基盤を公開",
-          "body": "Playgroundはgen-AIプロンプトでゲームを作り遊べる新しい基盤だ。",
-          "mini_headline": "Google、AIゲーム基盤Playgroundを公開",
+          "headline": "SNESの50k-line\nLLM-built投稿に苦言",
+          "body": "agg23は、頼まれていない50k-lineのLLM差分がメンテナの時間を奪うと語る。",
+          "mini_headline": "SNESコア開発者がAIコードを批判",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+                "cap": "画像提供：Phil Hayton"
               },
               {
                 "t": "p",
-                "x": "Googleが、専用のビデオゲームプラットフォーム構築に再び大きく挑む。今回は生成AIで作られたゲーム向けだ。新事業のGoogle Playgroundは、生成AIツールで作ったゲームを制作・共有・プレイするためのプラットフォームである。"
+                "x": "Analogue Pocket向けオープンソースのopenFPGAエミュレーターコアの開発者たちが、手抜きのバイブコーディングによる投稿に悩まされている。nasonliuと名乗る投稿者が、Pocket用SNESコアに「実験的なMSU-1ストリーミング」機能を提出した。MSU-1はROMハッカーがCD-qualityのオーディオを追加できる架空の拡張チップだ。"
               },
               {
                 "t": "p",
-                "x": "本日の発表で、Googleの広報担当者はPlaygroundを「実験的なゲーミングプラットフォーム」と表現し、「コーディング経験がなくても、ユーザーが完全にカスタムしたゲームを作り、遊び、共有できる」と説明した。"
+                "x": "「頼んでもいない、完全にLLMで作られた50k 行近いdiffを送ってきて、なぜか私にレビューしてもらえると思っている」と、SNESのFPGAコアを移植したagg23は語った。「ここには無関係なゴミが本当に（SO MUCH）多い」"
               },
               {
                 "t": "p",
-                "x": "同社は「Playgroundの対話型インターフェースにより、ユーザーは作りたいものを入力したり、スターター用プロンプトをリミックスしたり、ガイド付きのサポートを受けたりしてカスタムゲームを作り、自らの創造性を世界と共有できる」と述べた。さらに「ユーザーはいわば監督として、プロンプトでルールを練り、キャラクターをカスタマイズし、環境を調整して、思い描いた形に仕上げられる。Playgroundはブラウザベースなので、ゲームはスマートフォンでもノートパソコンでも遊べる」としている。"
+                "x": "「自分の頭をほとんど、あるいはまったく使っていない『自分の』コンテンツを押しつけることで、他人の時間と頭脳を侵害している」とagg23は付け加えた。「あなたとあなたのLLMがこれを動かせたらしいのはクールだと思う。でも私の世界に居場所はない」"
               },
               {
                 "t": "p",
-                "x": "Playgroundを試したい開発者は、Unityが別途発表した新ツールUnity Sparkも活用できる。Playgroundと連携するよう作られたツールだ。"
-              },
-              {
-                "t": "p",
-                "x": "Googleの新プラットフォームは、ベテランのゲーム開発者と、従来の開発プロセスを経ずにアイデアをゲームにしたい作り手志望の人々の双方を狙っているようだ。開発者が生成AIの試行を続けつつも、ビデオゲーム業界への影響を深く懸念するなかでの動きである。"
-              },
-              {
-                "t": "p",
-                "x": "Googleの新プラットフォームが気になる人は、自分でゲームを試せる。"
+                "x": "PS3エミュレーターRPCS3の開発者たちも同様に、AIスロップコードの投稿をやめるよう訴えた。RPCS3はAIの使用を認めているが、投稿者が自分のコードを完全に理解していることを求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google推出实验性\nAI游戏平台",
-          "body": "Google实验性平台Playground可用gen-AI提示词制作并游玩游戏。",
-          "mini_headline": "Google推出AI游戏平台Playground",
+          "headline": "SNES方斥50k-line\nLLM-built代码贡献",
+          "body": "agg23称，未经请求的50k-line LLM差异代码浪费维护者时间。",
+          "mini_headline": "SNES核心开发者痛批AI代码",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+                "cap": "图片来源：Phil Hayton"
               },
               {
                 "t": "p",
-                "x": "Google再次大举尝试打造专属电子游戏平台，这一次面向用生成式AI制作的游戏。新项目Google Playground是一个用于制作、分享和游玩由生成式AI工具制作的游戏的平台。"
+                "x": "为Analogue Pocket制作开源openFPGA模拟器核心的开发者们，正被敷衍了事的氛围编程贡献所困扰。一位名为nasonliu的贡献者为Pocket SNES核心提交了“实验性MSU-1串流”功能；MSU-1是一种虚构的增强芯片，可让ROM改版作者加入CD-quality音频。"
               },
               {
                 "t": "p",
-                "x": "在今天的发布中，一位Google发言人将Playground描述为“实验性游戏平台”，它“让用户无需编程经验即可创建、游玩和分享完全自定义的游戏”。"
+                "x": "“你发给我一份近50k 行、没人要求、完全由LLM生成的diff，还不知怎么指望我去审查它，”移植了SNES FPGA核心的agg23说，“这里面有SO MUCH无关的垃圾。”"
               },
               {
                 "t": "p",
-                "x": "该公司表示：“借助Playground的对话式界面，用户可以输入想要的内容、混编入门提示词或获得引导式支持来创建自定义游戏，与世界分享自己的创意。”“用户基本上相当于导演，可以通过提示词完善规则、定制角色、调整环境，直到达到心中设想。而且由于Playground基于浏览器，游戏可在手机和笔记本电脑上游玩。”"
+                "x": "“你推送着几乎或根本没花你自己脑力的‘你的’内容，侵占了别人的时间和脑力，”agg23补充道，“你和你的LLM据说让它跑起来了，我觉得挺酷的。但它在我的世界里没有立足之地。”"
               },
               {
                 "t": "p",
-                "x": "有意尝试Playground的开发者还可以使用Unity Spark，这是Unity另行发布的一款新工具，专为配合Playground而打造。"
-              },
-              {
-                "t": "p",
-                "x": "Google的新平台似乎同时面向资深游戏开发者，以及希望绕开传统开发流程、把创意变成游戏的准游戏制作者。与此同时，开发者仍在持续尝试生成式AI，却对其给电子游戏行业带来的影响深感担忧。"
-              },
-              {
-                "t": "p",
-                "x": "对Google新平台感兴趣的人可以亲自试玩这些游戏。"
+                "x": "PS3模拟器RPCS3的开发者也曾同样恳请贡献者别再提交AI垃圾代码；RPCS3允许使用AI，但要求贡献者完全理解自己的代码。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google presenta Playground,\nplataforma de juegos con IA",
-          "body": "Playground, la plataforma experimental de Google, permite crear y jugar títulos generados con prompts de gen-AI.",
-          "mini_headline": "Google lanza la plataforma de juegos Playground",
+          "headline": "Desarrollador de SNES critica\nun aporte LLM-built de 50k-line",
+          "body": "agg23, que portó el core de SNES, dice que un diff LLM de 50k-line no pedido roba tiempo a los mantenedores.",
+          "mini_headline": "Un dev de SNES critica código de IA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+                "cap": "Crédito de la imagen: Phil Hayton"
               },
               {
                 "t": "p",
-                "x": "Google vuelve a apostar fuerte por crear una plataforma dedicada de videojuegos, esta vez para juegos hechos con IA generativa (AI). La nueva iniciativa, Google Playground, es una plataforma para crear, compartir y jugar juegos hechos con herramientas de IA generativa."
+                "x": "Los creadores de los núcleos de emulación openFPGA de código abierto para Analogue Pocket se enfrentan a aportes de poco esfuerzo hechos con vibe coding. Un colaborador que se hace llamar nasonliu envió una función de \"streaming experimental MSU-1\" para el núcleo de SNES de Pocket; MSU-1 es un chip de mejora ficticio que permite a los romhackers añadir audio CD-quality (con calidad de CD)."
               },
               {
                 "t": "p",
-                "x": "En el anuncio de hoy, un portavoz de Google describió Playground como una \"plataforma de juegos experimental\" que \"permite a los usuarios crear, jugar y compartir juegos totalmente personalizados sin necesidad de experiencia en programación\"."
+                "x": "\"Me enviaste un diff de casi 50k líneas, sin que nadie lo pidiera, construido por completo con LLM, y de algún modo esperas que lo revise\", dijo agg23, que portó el núcleo FPGA de SNES. \"Aquí hay MUCHÍSIMA basura sin relación\"."
               },
               {
                 "t": "p",
-                "x": "\"Con la interfaz conversacional de Playground, los usuarios pueden crear juegos personalizados escribiendo lo que quieren, remezclando prompts iniciales u obteniendo ayuda guiada para compartir su creatividad con el mundo\", afirmó la compañía. \"Actuando básicamente como directores, los usuarios pueden afinar las reglas con prompts, personalizar personajes y ajustar el entorno hasta que sea lo que imaginan. Y como Playground funciona en el navegador, los juegos se pueden jugar en teléfonos y portátiles\"."
+                "x": "\"Estás invadiendo el tiempo y la capacidad mental de las personas al imponer contenido 'tuyo' en el que pusiste poca o ninguna capacidad mental propia\", añadió agg23. \"Me parece genial que tú y tu LLM supuestamente lograran que esto funcionara. No tiene cabida en mi mundo\"."
               },
               {
                 "t": "p",
-                "x": "Los desarrolladores interesados en experimentar con Playground también pueden aprovechar Unity Spark, una nueva herramienta de Unity anunciada por separado y diseñada para funcionar con Playground."
-              },
-              {
-                "t": "p",
-                "x": "La nueva plataforma de Google parece dirigida tanto a desarrolladores de juegos veteranos como a aspirantes que quieren convertir sus ideas en juegos sin pasar por el proceso de desarrollo tradicional. Llega en un momento en que los desarrolladores siguen experimentando con la IA generativa, pero con serias preocupaciones por su impacto en la industria del videojuego."
-              },
-              {
-                "t": "p",
-                "x": "Quienes sientan curiosidad por la nueva plataforma de Google pueden probar los juegos por sí mismos."
+                "x": "Los desarrolladores del emulador de PS3 RPCS3 también pidieron a los colaboradores que dejaran de enviar código basura generado por IA; RPCS3 permite la IA, pero exige que los colaboradores entiendan por completo su código."
               }
             ]
           }

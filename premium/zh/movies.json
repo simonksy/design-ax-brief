@@ -6170,6 +6170,77 @@
           "x": "该视频已被取消资格并从Nikon网站撤下，Nguyen Nam Nhat现列第一名。Nikon计划“重新审视未来参赛作品的规则和评审程序”，并补充说，这一决定不应被视为对参赛者声誉、科学贡献或意图的评判。"
         }
       ]
+    },
+    "movies/overstake-genai-rebuild-cappu-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=667&crop=1",
+          "cap": "Cappu Films"
+        },
+        {
+          "t": "p",
+          "x": "香港（Hong Kong）公司Cappu Films已签约担任编剧兼导演Stas Mareev的科幻动作惊悚片《Overstake》的全球销售代理。该片将实拍素材与正在用生成式AI重建的场景相结合。这家销售公司正在釜山国际电影节（Busan International Film Festival）亚洲内容与电影市场（Asian Contents & Film Market）上向买家推介该片。"
+        },
+        {
+          "t": "p",
+          "x": "片中，一名负伤的退伍老兵加入了一场致命的赌局：他必须在两个小时内穿越一座工业城市，保住前妻的性命，而陌生人则会在手机上收到救他或阻止他的报价。"
+        },
+        {
+          "t": "p",
+          "x": "“《Overstake》让我有机会回到一部自己已经执导过的电影，以我们过去无法企及的规模重建它的世界，”Mareev说，“表演和故事依然是根基，而生成式AI让我能够重新构想场景、动作和视觉语言，同时不丢失影片以人为本的内核。”"
+        },
+        {
+          "t": "p",
+          "x": "AI制作仍在进行中，因此釜山的买家将看到一段宣传片和几段已完成的片段。"
+        }
+      ]
+    },
+    "movies/hong-jae-cheol-ai-native-studios-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=667&crop=1",
+          "cap": "Lin Ying-Hsuan"
+        },
+        {
+          "t": "p",
+          "x": "曾在Industrial Light & Magic开启职业生涯、现任Viscode制片人兼导演的VFX资深人士Hong Jae Cheol表示，运行自动化流程的小型AI-native公司可以开发自有知识产权，而传统工作室则在成熟系列、制作基础设施、人才和发行方面保有优势。他在釜山（Busan）举行的InnoAsia AI Creators Camp上说：“我们正从用AI生成单张图像，转向把AI作为完整制作流程的一部分。”"
+        },
+        {
+          "t": "p",
+          "x": "Hong认为，要让生成的素材能够用于银幕，传统视觉特效依然不可或缺；他将未来描述为一种混合模式，而非对现有工作室的全面取代。在AI-assisted的做法中，演员在受控片场表演，AI生成环境和视觉元素，VFX艺术家负责跟踪、合成与收尾。"
+        },
+        {
+          "t": "p",
+          "x": "Dreamkite Studios的Mark Wachholz将与AI共同创作形容为“探索而非控制”，Climax Studio导演Ahn Jaehong则梳理了从提示词到故事板再到关键帧的工作流程。Hong总结道：“AI只是工具；电影是一个序列。”"
+        }
+      ]
+    },
+    "movies/cukur-vartolu-prime-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+          "cap": "Çukur:Vartolu。图片由AI Yapim提供"
+        },
+        {
+          "t": "p",
+          "x": "Prime Video已取得土耳其电视巨头Ay Yapim旗下AI电影《Çukur: Vartolu》的全球版权。该片衍生自其热门剧集《Çukur》，该剧在国际上以《The Pit》之名为人所知。"
+        },
+        {
+          "t": "p",
+          "x": "影片由Ay Yapim位于新加坡的AI工作室AI Yapim制作。该工作室8月在Prime Video推出AI-generated历史剧《Castle Walls》，被称为首部完全由AI制作并登陆大型全球流媒体平台的剧集。公司表示，借助《Çukur: Vartolu》，它将这种AI-native方式“从原创故事延伸到成熟的剧集系列”。"
+        },
+        {
+          "t": "p",
+          "x": "据Ay Yapim介绍，《Çukur》自2017年首播以来已在105个国家的免费电视台播出，其官方YouTube频道累计观看次数已超过64亿次。这部衍生作聚焦Koçovalı家族私生子Vartolu Sadettin的童年及塑造他的种种选择，场景在Türkiye东部的Doğubeyazıt与后来在Istanbul的对决之间切换。"
+        },
+        {
+          "t": "p",
+          "x": "Ay Yapim在声明中表示：“影片的每一帧都由AI生成，从角色的面孔到每一处场景。”不过，“表演出自真人：演员们演绎了这些场景，AI则在他们的动作、节奏和表情之上生成角色。所有对白均由真人配音演员录制。”"
+        }
+      ]
     }
   }
 }

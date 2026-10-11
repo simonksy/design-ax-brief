@@ -1,7 +1,30 @@
-{"date":"2026-10-11","section":"marketing","media":[
-{"id":"muse-agent-traffic","type":"image","src":"pipeline/media/muse-agent-traffic.jpg"},
-{"id":"agency-agentic-buying","type":"image","src":"pipeline/media/agency-agentic-buying.jpg"},
-{"id":"ai-max-bidding-math","type":"image","src":"pipeline/media/ai-max-bidding-math.jpg"},
-{"id":"regulated-ads-ai-defaults","type":"image","src":"pipeline/media/regulated-ads-ai-defaults.png"},
-{"id":"chatgpt-ads-holiday","type":"image","src":"pipeline/media/chatgpt-ads-holiday.jpg"}
-]}
+{
+ "date": "2026-10-12",
+ "section": "marketing",
+ "media": [
+  {
+   "id": "meta-muse-ad-accounts",
+   "type": "image",
+   "src": "pipeline/media/meta-muse-ad-accounts.jpg"
+  },
+  {
+   "id": "retail-platforms-block-ai-agents",
+   "type": "svg"
+  },
+  {
+   "id": "ias-youtube-ai-slop-filter",
+   "type": "image",
+   "src": "pipeline/media/ias-youtube-ai-slop-filter.jpg"
+  },
+  {
+   "id": "naver-ai-briefing-ad-results",
+   "type": "image",
+   "src": "pipeline/media/naver-ai-briefing-ad-results.png"
+  },
+  {
+   "id": "ai-ad-consumer-backlash",
+   "type": "image",
+   "src": "pipeline/media/ai-ad-consumer-backlash.jpg"
+  }
+ ]
+}

@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "design",
   "picks": [
     {
-      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec",
-      "title": "Are synthetic users (really) the future of UX research?",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-10-08T23:16:42+00:00",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png",
-      "excerpt": "Human-centered design demands limited use of AI-generated personas, if at all; the piece weighs the UX research debate over synthetic users.",
-      "source_lang": "en",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Synthetic-user research is a live decision for research teams; first time this topic appears in the 30-day history."
-    },
-    {
-      "url": "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h",
-      "title": "Before an AI agent acts, show me what it can change",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-10-10T06:27:09Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png",
-      "excerpt": "A UX pattern argument: agent permission prompts should preview exactly what an AI agent action will change instead of a bare 'Allow this action'.",
-      "source_lang": "en",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "Concrete, reusable pattern for agent permission prompts (diff-preview instead of bare Allow) that product designers can apply directly."
-    },
-    {
-      "url": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
-      "title": "Grok Imagine Video 1.5 Lite on AI Gateway",
-      "source": "Vercel",
+      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+      "title": "Odyssey-3 is a new generative world model that you can try for free",
+      "source": "The Decoder",
       "category": "render",
-      "published_iso": "2026-10-08T00:00:00+00:00",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png",
-      "excerpt": "xAI's Grok Imagine Video 1.5 Lite video-generation model is now callable through Vercel AI Gateway with one API key, unified billing and request traces.",
+      "published_iso": "2026-10-11T07:48:01Z",
+      "og_image": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg",
+      "excerpt": "Odyssey released its 14-billion-parameter world model Odyssey-3 as a public research preview. It generates interactive environments from text prompts in real time.",
       "source_lang": "en",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "New release: a video-generation model now one API key away for design/prototyping teams already on Vercel."
+      "rationale": "Fresh release: a free, real-time text-to-interactive-environment world model designers can try today for spatial and scene ideation."
     },
     {
-      "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
-      "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
-      "source": "The Robot Report",
-      "category": "cad",
-      "published_iso": "2026-10-09T16:59:57+00:00",
-      "og_image": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg",
-      "excerpt": "Atlas's new hand was designed for high-fidelity simulation to enable sim-to-real reinforcement learning, Boston Dynamics' Alberto Rodriguez explains.",
+      "url": "https://www.nngroup.com/articles/context-libraries/",
+      "title": "Context Libraries: How AI power users manage context engineering",
+      "source": "Nielsen Norman Group",
+      "category": "figma",
+      "published_iso": "2026-10-09T17:00:00Z",
+      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Context_Libraries-1.png",
+      "excerpt": "NN/g research finds Claude power users rarely edit their context files and often can't find them. Your AI agent is only as powerful as its context library.",
       "source_lang": "en",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Industrial-design insight: hardware shaped to be simulatable so AI can learn on it, a design-for-RL principle new to the brief."
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Original NN/g user research on how people manage AI context files. It works as a workflow tip for designers and also shows a UX gap for teams building agent tools."
     },
     {
-      "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
-      "title": "4 team rituals that drive AI adoption",
-      "source": "Figma",
+      "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490",
+      "title": "Tesler's Law: complexity moved to a different part of the journey",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-10-08T23:17:58Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*3075AKBZYzb99y7ImuTgDQ.png",
+      "excerpt": "AI did not remove the complexity of software; it removed the interface that told you where the complexity went. Applies Tesler's Law of conservation of complexity to chat-field AI products.",
+      "source_lang": "en",
+      "tool": "Figma",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "Applies a classic UX law to chat-first AI products, giving designers a concrete lens for where complexity lands in the journey."
+    },
+    {
+      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
+      "title": "AI-generated UI is fast design, not UX",
+      "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-10-10T02:12:00.000Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Four ways teams at Figma, Mercari, Atlassian and Sephora are building habits that help designers and product teams get real value from AI.",
+      "published_iso": "2026-10-08T23:16:10Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+      "excerpt": "An editor's pick arguing that AI-generated interfaces speed up production but skip problem discovery, and making the case for wandering and craft in the age of AI.",
       "source_lang": "en",
       "tool": "AI Workflow",
-      "accent": "#3b6bff",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "Concrete team rituals from Figma, Mercari, Atlassian and Sephora that design leads can adopt to make AI use stick; adds Figma as a fifth distinct outlet."
+      "rationale": "Replacement for the Robot Report advertorial. It is a process argument about where AI UI generation fits in the design workflow (production, not discovery), so it is filed under workflow rather than as a third Figma card."
+    },
+    {
+      "url": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
+      "title": "Why 'boring' AI is Hollywood's best bet",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-10-10T08:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg",
+      "excerpt": "Generative AI could be the film industry's secret weapon, but not in the way people expect: the real wins are in unglamorous production and VFX pipeline tasks.",
+      "source_lang": "en",
+      "tool": "KeyShot",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "Shows visual and VFX artists where generative AI actually pays off: unglamorous pre-production and pipeline tasks, not headline generation. The author is Filmustage's CEO, but the piece is genuinely about AI pre-production, so it stays."
     }
   ],
   "dedup": {
     "checks": {
-      "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec": {
+      "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/": {
+        "verdict": "new",
+        "nearest": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+        "new_action": ""
+      },
+      "https://www.nngroup.com/articles/context-libraries/": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+        "new_action": ""
+      },
+      "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h": {
-        "verdict": "new",
-        "nearest": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
-        "new_action": ""
-      },
-      "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/": {
+      "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28": {
         "verdict": "new",
         "nearest": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
         "new_action": ""
+      },
+      "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet": {
+        "verdict": "new",
+        "nearest": "https://www.creativebloq.com/3d/autodesks-own-ai-film-has-a-continuity-error-nobody-could-prompt-away",
+        "new_action": ""
       }
     },
-    "note": "Pool 17, no clusters. Dropped: Matt Wolfe roundup (headline item ChatGPT Intelligent UI already published 10-08); NVIDIA 'Into the Omniverse' agents (same running theme as 10-10 SimReady assets and 09-18 AI agents for 3D sim scenes); Google Gemini enterprise agent and Microsoft Windows/Surface (general AI-business/OS news, not design). Agent permission-preview post is a distinct pattern piece, not a repeat of 10-08 bounded delegation / design-system agent posts. Lower-ranked but fresh, not picked: Sightlines no.3 (same Figma source + same AI-adoption topic as the rituals post, keep one), UX Collective AI-UI and Tesler's Law essays, Firefly risk playbook and 'designers redundant' (dev.to, weaker), Creative Bloq Hollywood/Fanta (less actionable). SWAP: removed Figma Motion 'Show Your Work' video (youtube IjtOndtmC-Q) after the enrichment fetch showed it is not substantively about AI (~30s of 238s on AI). Replaced with Figma blog '4 team rituals that drive AI adoption': substantively design x AI, new outlet (5 distinct outlets in final set), history_match 'related' to 10-07 Figma-agent post is a different story (agent usage tips vs team adoption rituals), also distinct from 09-25 'What it takes to build great products now'. Second workflow card, so given palette accent #3b6bff."
+    "note": "Re-curation after the fact-check pass. REPLACED: The Robot Report 'Will boring robots win in the real world?'. The enrichment fetch showed it is a guest piece by a Vishay Precision Group exec promoting strain-based sensing, with only a 'physical AI' label for AI content (borderline advertorial). REPLACEMENT: UX Collective 'AI-generated UI is fast design, not UX' (editor's pick, reliable RSS date of 10-08). It is filed as workflow (#ff5a4d), not figma, because it argues about where AI UI generation belongs in the design process. That keeps figma at 2 cards. UX Collective now has 2 cards, which is the maximum allowed. history_match (related, 10-07 Figma agent craft/speed post) is a different story: that was a vendor how-to, this is a critique essay. It is also distinct from the 09-30 'de-slopify' and 10-08 'bounded delegation' UXC essays. Other replacement options considered and rejected: Eleken 'Inside Vibe Design' (CMS bulk-timestamp freshness is unverifiable, and it is agency content marketing), DesignCourse ElevenLabs Studio V4 (sponsored, same angle as the 09-15 ElevenLabs card), Artec Twins (light AI content, related to the 09-20 Artec Neo card), Figma Sightlines No.3 (same source/topic as the 10-11 rituals card), 'What the AI era owes you' (career essay, would be a third UXC card), Matt Wolfe roundup (visual ChatGPT UI already ran 10-08), AI Studio Build Ultra (unlaunched leak), MarkTechPost Qwen-Image (Cloudflare-blocked, no og:image). Cross-section exclusions: Verge Nikon (movies 10-10), 9to5Google Pixel Watch face (gadgets 10-10), Verge local AI (today's gadgets). KEPT: Creative Bloq 'boring AI' (Filmustage CEO byline, semi-advertorial but on-topic, and no clearly better option). Final diversity: 4 outlets (The Decoder, NN/g, UX Collective x2, Creative Bloq). Categories: render x2, figma x2, workflow x1. The second figma card uses #2ec5c5 and the second render card uses #eb367f."
   }
 }

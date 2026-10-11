@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "medicine",
   "picks": [
     {
-      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/10.1001/jamapsychiatry.2026.2923",
-      "title": "Characterizing Artificial Intelligence Psychosis in a Large Medical Setting",
-      "source": "JAMA Psychiatry",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.35794",
+      "title": "Chatbot Intervention and Cancer Risk Knowledge in Adolescents and Young Adults With Cancer Predisposition",
+      "source": "JAMA Network Open",
       "category": "medicine",
-      "published_iso": "2026-10-07T15:00:35Z",
+      "published_iso": "2026-10-07T15:00:34Z",
       "og_image": "",
-      "excerpt": "A cohort study in a large health system estimates the prevalence of \"AI psychosis,\" characterizes affected patients and defines the role conversational AI played in documented psychotic episodes.",
+      "excerpt": "A randomized clinical trial tested an electronic chatbot-based cancer risk communication tool for adolescents and young adults with hereditary cancer predisposition syndromes.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "First health-system cohort quantifying chatbot-linked psychotic episodes in real patients - a patient-safety signal clinicians can act on now."
+      "rationale": "Randomized trial of a patient-facing chatbot for young people with hereditary cancer syndromes: RCT-level evidence on AI in genetic risk counseling."
     },
     {
-      "url": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
-      "title": "FDA to prioritize guidance on AI, surgical robots next year",
-      "source": "Healthcare Dive",
+      "url": "https://www.nature.com/articles/s43856-026-01952-5",
+      "title": "Inferring clinically relevant molecular subtypes of pancreatic cancer from routine histopathology using deep learning",
+      "source": "Communications Medicine",
       "category": "medicine",
-      "published_iso": "2026-10-02T11:00:00-04:00",
-      "og_image": "https://imgproxy.divecdn.com/WvpD-kt25JtQS2B3gXfgkmwJ0zzPHpIHDOVIvNPeKWs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
-      "excerpt": "The FDA device center plans to finalize guidance for AI-enabled devices, draft generative-AI advice and address surgical robots in its fiscal 2027 guidance agenda.",
+      "published_iso": "2026-10-06T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Deep learning infers pancreatic cancer molecular subtypes, normally requiring costly gene-expression testing, directly from routine H&E histopathology slides.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Official CDRH FY2027 guidance agenda: final AI-device guidance, first generative-AI draft and surgical robots - sets the regulatory roadmap for every AI device maker."
+      "rationale": "Reads treatment-relevant pancreatic cancer subtypes off routine H&E slides, which could stand in for costly gene-expression testing."
     },
     {
-      "url": "https://www.nature.com/articles/s41746-026-03373-z",
-      "title": "VOICE-AE: automated CTCAE scoring from ambient clinical audio using speech recognition and large language models",
-      "source": "npj Digital Medicine",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-ai-authorizations-rise-42-regulatory-landscape-evolves",
+      "title": "Radiology AI authorizations rise 42% as regulatory landscape evolves",
+      "source": "Radiology Business",
       "category": "medicine",
-      "published_iso": "2026-10-10T10:18:12Z",
-      "og_image": "",
-      "excerpt": "VOICE-AE combines speech recognition, speaker diarization and LLMs to extract and grade treatment-related adverse events (CTCAE) directly from recorded oncology clinic conversations.",
+      "published_iso": "2026-09-29T18:34:33Z",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0",
+      "excerpt": "A new analysis of the FDA AI-enabled medical device database details how radiology AI authorizations rose 42% and how the regulatory standing of the technology has shifted.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Ambient audio moves beyond note-writing into structured oncology toxicity grading from real clinic visits - a concrete new use of ambient AI."
+      "rationale": "Analysis of the FDA AI-device database shows how fast cleared radiology AI is growing, the clearest picture of regulatory momentum."
     },
     {
-      "url": "https://www.medigatenews.com/news/1174160810",
-      "title": "박유경 교수 \"서울아산병원 소아 RRS에 들어온 AI…고위험 환아 조기 선별에 도움\"",
-      "source": "메디게이트뉴스",
+      "url": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/",
+      "title": "HHS announces new efforts to speed up, expand clinical trials with AI",
+      "source": "STAT",
       "category": "medicine",
-      "published_iso": "2026-10-07T09:29:00+09:00",
-      "og_image": "https://medigatenews.com/file/news/526509",
-      "excerpt": "서울아산병원 소아 신속대응시스템(RRS)에 도입된 뷰노 AI가 데이터 누락과 알람 피로를 보완하며 고위험 환아를 조기에 선별하는 데 도움이 된다는 임상 경험이 소개됐다.",
-      "source_lang": "ko",
+      "published_iso": "2026-09-30T20:09:15Z",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg",
+      "excerpt": "HHS and ARPA-H announced new AI-driven efforts to speed up and expand clinical trials as federal officials seek to compete with countries like China.",
+      "source_lang": "en",
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "On-the-ward deployment report: VUNO deterioration AI inside Asan Medical Center's pediatric rapid response system, with clinician experience on alarm fatigue."
+      "rationale": "An official HHS/ARPA-H program announcement putting federal AI into trial design and recruitment, a concrete government action."
     },
     {
-      "url": "https://www.nature.com/articles/s41746-026-03232-x",
-      "title": "Standardized pre-consultation by a large language model agent vs ophthalmology residents: a randomized clinical trial",
-      "source": "npj Digital Medicine",
+      "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/10.1001/jamahealthforum.2026.4704",
+      "title": "A Precedent for Regulating Clinical AI Models",
+      "source": "JAMA Health Forum",
       "category": "medicine",
-      "published_iso": "2026-10-05T10:25:07Z",
+      "published_iso": "2026-10-08T15:00:19Z",
       "og_image": "",
-      "excerpt": "A randomized clinical trial at a tertiary ophthalmology center compared a dual-agent LLM pre-consultation history-taking agent against ophthalmology residents.",
+      "excerpt": "Former FDA commissioner Scott Gottlieb argues clinical AI models already in use could be regulated by improving on the pathway used for laboratory developed tests.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "RCT pitting an LLM history-taking agent against residents with real patients - randomized evidence for AI in the pre-visit workflow."
+      "rationale": "A former FDA commissioner proposes a concrete route for regulating clinical AI models already in use, modeled on the lab-developed-test pathway. Aimed at regulators and health systems."
     }
   ],
   "dedup": {
     "checks": {
-      "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/10.1001/jamapsychiatry.2026.2923": {
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.35794": {
         "verdict": "new",
-        "nearest": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043448",
+        "nearest": "https://www.auntminnie.com/clinical-news/womens-imaging/news/15836407/clairity-expands-access-to-ai-breast-cancer-risk-tool-via-everlywell",
         "new_action": ""
       },
-      "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/": {
+      "https://www.nature.com/articles/s43856-026-01952-5": {
+        "verdict": "new",
+        "nearest": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+        "new_action": ""
+      },
+      "https://radiologybusiness.com/topics/artificial-intelligence/radiology-ai-authorizations-rise-42-regulatory-landscape-evolves": {
+        "verdict": "new",
+        "nearest": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
+        "new_action": ""
+      },
+      "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/": {
         "verdict": "new",
         "nearest": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41746-026-03373-z": {
+      "https://jamanetwork.com/journals/jama-health-forum/fullarticle/10.1001/jamahealthforum.2026.4704": {
         "verdict": "new",
-        "nearest": "https://www.healthcaredive.com/news/teladoc-unveils-remote-monitoring-ambient-ai-features/832328/",
-        "new_action": ""
-      },
-      "https://www.medigatenews.com/news/1174160810": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03243-8",
-        "new_action": ""
-      },
-      "https://www.nature.com/articles/s41746-026-03232-x": {
-        "verdict": "new",
-        "nearest": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+        "nearest": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
         "new_action": ""
       }
     },
-    "note": "No candidate duplicates a story in the 30-day history_digest. The only history_match was the JAMA Netw Open AYA chatbot RCT (band 'related' to Clairity/Everlywell). It is a different story but was not picked: jamanetwork already has one card and the other picks were stronger. Not picked on scope or noise grounds: STAT physician op-ed on AI and billing, Healthcare Dive insurer-vs-billing piece (from Sept 28, commentary on cost research), Radiology Business physician pushback on the RFK Jr. remark (reaction), Healthcare Dive privacy survey, MedCity cognitive-decline opinion, JAMA Health Forum LDT-pathway opinion, and K-Melody (program-funding critique). Also left out: Fierce weekly rundown (a mixed roundup), Barreleye and Oncosoft (vendor showcase pieces), the vibe-coding PI-RADS tool (a single case report), the home-ECG LLM study, AITRICS MADE (a paper, with Asan RRS as the stronger deterioration-AI story), and the STAT HHS/ARPA-H trials piece (Sept 30, the oldest, and policy rather than care delivery). Diversity: nature.com 2, jamanetwork 1, healthcaredive 1, medigatenews 1, for 4 distinct outlets. None of the picks involve biosecurity."
+    "note": "No candidate repeats a story in the 30-day history_digest, and the pool had no clusters. The only history_match was the JAMA Netw Open AYA chatbot RCT (band 'related' to the Clairity/Everlywell DTC breast-risk tool). It was checked and is a different story: a randomized trial of a counseling chatbot for hereditary syndromes, not a commercial access expansion. The 42% radiology AI analysis and the Gottlieb LDT-pathway proposal are distinct from the published FDA FY2027 guidance agenda: one is a database analysis, the other a policy proposal, and neither covers the CDRH agenda. Not picked: the STAT Anthropic/ARPA-H item (a newsletter segment, overlaps the ARPA-H trials story we picked), the npj pathology AI evidence-availability study (same regulatory theme as the 42% card), npj sepsis ICU-stay model (retrospective prediction, weaker), JAMA Pediatrics governance Viewpoint (generic), RB physician pushback on RFK Jr. (reaction piece), RB RSNA certificate (an education product update), STAT physician op-ed and Healthcare Dive insurer-vs-billing (commentary on cost research), Healthcare Dive privacy survey, MedCity cognitive-decline opinion, Fierce weekly rundown (a mixed roundup), and AuntMinnie ClearRead/RapidAI, CARPL/HOPPR and Oncosoft ASTRO (vendor integration or showcase pieces). Diversity: jamanetwork 2, nature.com 1, radiologybusiness 1, statnews 1, for 4 distinct outlets. No pick involves biosecurity or gain-of-function."
   }
 }

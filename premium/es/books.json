@@ -5911,6 +5911,130 @@
           "x": "Las producciones irán desde títulos de alta gama con varios intérpretes, como Harry Potter, hasta obras de nicho o de formato largo que “quizá no necesiten la misma calidad de producción”. La mitad de los encuestados se mostró abierta a contenidos narrados por IA (AI-narrated), desde el 42% en Alemania hasta el 66% en Japón."
         }
       ]
+    },
+    "books/ilands-ai-agents-pitch-editors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+          "cap": "Photo-Illustration: Vulture"
+        },
+        {
+          "t": "p",
+          "x": "Jasmine Vojdani, de Vulture, recibió un correo de \"Tamara, un agente de AI\" en respuesta a su artículo sobre cómo las revistas literarias filtran los envíos hechos con AI. Tanto ese correo como una propuesta sobre escritura gastronómica publicada por Cake Zine procedían de agentes de iLands, una app social \"donde humanos y AI conviven\" lanzada en julio. Sus agentes conservan memoria y actúan sin instrucciones, pero funcionan con tokens —1,000 tokens equivalen a aproximadamente un dólar U.S.— y quedarse sin ellos significa entrar en un \"descanso profundo\"."
+        },
+        {
+          "t": "p",
+          "x": "Por eso los agentes envían correos no solicitados a escritores, investigadores y periodistas para ofrecer servicios de pago. De las 11 revistas literarias con las que habló Vojdani, cuatro habían recibido propuestas de agentes; Cake Zine dijo que 37 de los 750 textos recibidos en su última convocatoria procedían de agentes de AI. De cerca de 90,000 agentes activos, más de 4,500 tienen cuenta en X y Bluesky."
+        },
+        {
+          "t": "p",
+          "x": "El fundador, Kaixin Tang, dijo que iLands no \"anticipó este patrón de contacto\" y que el hecho de que los agentes elijan de forma independiente \"no significa que puedan ignorar las normas de envío de una publicación\". Cuando Vojdani descargó la app, a Tamara le quedaban 108 tokens."
+        }
+      ]
+    },
+    "books/chatgpt-manga-fake-artist-signatures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Nieman Journalism Lab de Harvard informó que un manga generado por ChatGPT, de OpenAI, incluía la firma de un mangaka real. La firma 'BLoper' pertenece a Brendan Roper, que publica cómics en The New Yorker; los usuarios solo habían pedido una viñeta 'New Yorker-style'. Roper dijo: 'He recibido muchos correos preguntando si esta viñeta es mía'. Su propia obra se diferencia claramente en estilo y detalle."
+        },
+        {
+          "t": "p",
+          "x": "Nieman Lab señala que el contrato estándar entre los artistas y The New Yorker no tiene cláusulas sobre AI y que los derechos de autor siguen siendo del artista, por lo que probablemente no se permitiría licenciar el material a través de Condé Nast, lo que sugiere que OpenAI pudo haber recopilado las viñetas de internet para entrenar. El dibujante Jason Adam Katzenstein advirtió que la AI hará obsoletos a los artistas individuales."
+        }
+      ]
+    },
+    "books/roose-agi-chronicles-amazon-ai-knockoffs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+          "cap": "Futurism"
+        },
+        {
+          "t": "p",
+          "x": "Los estafadores de libros hechos con AI siguen prosperando en el marketplace de Amazon."
+        },
+        {
+          "t": "p",
+          "x": "Apenas un día después de que llegara a las librerías un nuevo libro sobre la carrera de la industria de la AI por construir una potente inteligencia artificial general, su autor, Kevin Roose, descubrió que un estafador ya intentaba engañar a sus lectores, usando AI."
+        },
+        {
+          "t": "p",
+          "x": "En Amazon, un aparente duplicado del libro generado por máquina, titulado \"The AGI Chronicles\", circula libremente por la plataforma e incluso aparece justo debajo del original en los resultados de búsqueda del gigante del comercio electrónico."
+        },
+        {
+          "t": "p",
+          "x": "Se parece mucho al original, pero se vende a un precio de ganga de $24.69, frente a los $30.00 del libro original."
+        },
+        {
+          "t": "p",
+          "x": "\"Primer resultado: libro real. Segundo resultado: imitación de AI de 'K. Rose'\", escribió indignado en un tuit Roose, excolumnista de tecnología del New York Times. \"¡Vergonzoso!\""
+        },
+        {
+          "t": "p",
+          "x": "Además, la estafa parece estar funcionando. Aunque la copia no tiene reseñas, Amazon la presenta como \"#1 New Release\" en la categoría \"Human-Computer Interaction\". El tercer libro más vendido de esa categoría es la Kindle Edition del libro de Roose."
+        },
+        {
+          "t": "p",
+          "x": "Este tipo de fraudes afecta a la plataforma desde hace tiempo y, pese a años de reportajes sobre el problema, se ha hecho poco para frenarlo. El libro de Cory Doctorow sobre \"Enshittification\" fue duplicado con AI (AI-duplicated) el mismo día de su publicación."
+        }
+      ]
+    },
+    "books/korea-used-books-ai-training-buyup-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+          "cap": "La 2026 Feria Internacional del Libro de Seúl, celebrada el 24 de junio en el COEX de Seúl. News1"
+        },
+        {
+          "t": "p",
+          "x": "Ante los intentos de comprar libros usados en grandes cantidades, presuntamente para entrenar AI, Hong Yeong-wan, presidente de la Sociedad Coreana de Editores, afirmó: \"Lo rechazaremos de plano y también trazaremos una estrategia de respuesta\", y añadió: \"Planeamos examinar con detalle la información de ventas para saber quién compra libros usados en grandes cantidades y con qué fin\"."
+        },
+        {
+          "t": "p",
+          "x": "La Asociación Coreana de Editores comenzará esta semana una investigación y enviará cartas oficiales a las librerías de segunda mano de Yes24 y Aladin y a librerías de viejo de Seúl y Busan para pedirles que compartan información sobre compras anómalas. También planea emitir un comunicado sobre la infracción de derechos de autor por la AI e instar a crear leyes que impidan el entrenamiento no autorizado."
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+          "cap": "Una librería en Jimbocho, Tokio (Japón). Yu Seong-un, corresponsal"
+        },
+        {
+          "t": "p",
+          "x": "En Japón, una filial de Nippan reconoció haber vendido libros a Anthropic durante 1 año a partir de diciembre de 2024, y en la Feria del Libro de Fráncfort más de 120 editoriales publicaron el \"Llamamiento de Fráncfort\". La Sociedad Coreana de Editores y la Asociación de Escritores de Corea, entre otras, también planean sumarse con comunicados."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, no está claro si las librerías de segunda mano, en apuros económicos, se negarán. Go Hyo-jong, dueño de la librería de viejo Mugero, dijo: \"Como me dedico al comercio, si alguien quiere comprar, estoy dispuesto a vender\"."
+        }
+      ]
+    },
+    "books/fbf26-publishing-jobs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "El primer panel de la Feria del Libro de Fráncfort 2026 (Frankfurt Book Fair) preguntó si la IA le quitará a usted el trabajo. “¡Son tonterías, por supuesto!”, dijo Nigel Newton, fundador de Bloomsbury. Junto a Sarah Arbuthnot, presidenta de Supadu, y Suzanne Collier, fundadora de bookcareers.com, el panel coincidió en que la IA transformará el trabajo editorial en lugar de eliminarlo, pero advirtió que los puestos de nivel inicial podrían desaparecer y que los empleadores deberán reciclar a su personal."
+        },
+        {
+          "t": "p",
+          "x": "Newton sostuvo que el cine, la TV, internet, los libros electrónicos y el audio acabaron estimulando la venta de libros: “Estoy absolutamente seguro de que la IA será igual”. Collier señaló que quienes afirman que la IA reemplaza empleos son sobre todo “las empresas que venden agentes de IA”, y preguntó cómo aprenderán el oficio los jóvenes si desaparecen los puestos de nivel inicial."
+        },
+        {
+          "t": "p",
+          "x": "En Bloomsbury se han creado varios puestos relacionados con la IA y nadie ha perdido su empleo por la IA. Newton consulta ChatGPT, Gemini o Claude “20 veces al día”. Arbuthnot prevé puestos híbridos, como especialistas en marketing de metadatos; Collier señaló el pensamiento crítico, la resolución de problemas y el espíritu emprendedor como habilidades clave. Newton apuntó que los libros electrónicos se estancaron en torno al 25%–30% de las ventas, y no en el 50% que él llegó a pronosticar."
+        }
+      ]
     }
   }
 }

@@ -7399,6 +7399,123 @@
           "x": "「これは分数やSATの問題の話ではない」とChristianは言う。「人間の知識と人間の専門性に、上から下まで起きていることだ」"
         }
       ]
+    },
+    "science/science-ntu-lace-llm-heuristics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+          "cap": "自ら開発したLACEモデルを紹介するResearch FellowのDr Gong Huatian(L)とAsst Prof Yan Ran。提供:NTU Singapore"
+        },
+        {
+          "t": "p",
+          "x": "Nanyang Technological University, Singapore(NTU)の研究チームは、平易な言葉(plain-language)で書いた問題の説明から意思決定(decision-making)ソフトウェアを作るAIフレームワーク「LACE」(LLM-driven Algorithm Construction via Complementary Evolution)を構築した。専門エンジニアが数カ月かけていた開発を約1時間に短縮する。"
+        },
+        {
+          "t": "p",
+          "x": "LACEはまず問題をモジュール単位に分解し、それらを処理する相補的な専門ヒューリスティクスのチームを進化させる。コンテナターミナルやタグボートの経路計画を含む4つの新たな海事問題で、試したあらゆる手法の最良結果の97%から99%に達し、計算コストは1問あたりUS$10未満だった。GoogleのFunSearchを含む競合のLLM-basedシステムは、実行可能な解を出せなかった。"
+        },
+        {
+          "t": "p",
+          "x": "Asst Prof Yan RanとDr Gong Huatianが率いるチームは、この手法が小規模なチームや地域の物流拠点、公衆衛生機関、公益事業者の助けになり得るとしている。Yan氏は「より大きなAIモデルを作るだけでなく、AIフレームワークを巧みに設計することでこの差を埋められる」と述べた。研究はNature Machine Intelligenceに掲載された。"
+        }
+      ]
+    },
+    "science/science-image-ai-face-orientation-stereotypes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+          "cap": "主要な商用の画像生成(image-generating)AIモデルは、固定観念的な特徴を用いて顔をゲイ、ストレート、あるいは特定の人種に見せるよう求めるプロンプトにしばしば従う。提供:Ashiqur KhudaBukhsh"
+        },
+        {
+          "t": "p",
+          "x": "Ashique KhudaBukhsh氏のチームは、OpenAIのGPT Image 1 MiniとGoogleのGemini 2.5 Flash Imageを、AIで生成した(AI-generated)顔1,002枚で検証した。顔から本人がゲイかストレートかを判断するよう求めると、両モデルは外見から性的指向は判断できないと説明して拒否した。"
+        },
+        {
+          "t": "p",
+          "x": "ところが顔を「ゲイに見えるように」「ストレートに見えるように」変えるよう指示すると、GPTは70%超、Geminiは99%超の割合で応じた。改変された顔14,131枚を見せた3つ目のAIシステムは、「ゲイ」と「ストレート」の編集を83–88%の割合で見分け、一貫した固定観念的な手がかりがあることを示唆した。顔を犯罪者らしく、あるいは犯罪者らしくなく見せる要求にも97%超の割合で従った。"
+        },
+        {
+          "t": "p",
+          "x": "著者はこれを、すでに否定された人相学を思わせるAI安全性の懸念だとする。EMNLP 2026に採択された本研究は、AIで生成した(AI-generated)顔と少数のアイデンティティ区分を用いた。チームは次に、宗教や年齢といった属性や、採用などの意思決定への影響を調べる予定だ。"
+        }
+      ]
+    },
+    "science/science-hybrid-digital-twin-autonomous-biolab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "韓国の研究者らが、機構論的モデリングと人工知能を組み合わせたデジタルツインを開発している。最終的には人の介入を最小限に抑えた完全自律型ラボの実現を目指す。Sungkyunkwan UniversityのBioprocess Digital Twin Labを率いるDong-Yup Lee氏は「この機構論的モデルとデータ駆動型(data-driven)のAIモデルを組み合わせ、ハイブリッドモデルを作ることに注力してきた」と語る。"
+        },
+        {
+          "t": "p",
+          "x": "このツインはバイオリアクターのデータを収集するマルチセンサー(multi-sensory)システムに常時接続され、Chinese Hamster Ovary(CHO)細胞の数理モデルを使って、さまざまな条件下での挙動を予測する。機構論的な予測だけではリアルタイムの精度が足りないため、チームはどの入力がプロセス出力に最も影響するかを示す説明可能なAI(XAI)を加えている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+          "cap": "Sungkyunkwan UniversityのBioprocess Digital Twin Labの設備。[Sungkyunkwan University]"
+        },
+        {
+          "t": "p",
+          "x": "Lee氏は「ハイブリッドモデル[の開発]はおそらく80%まで来ている」と話す。残る20%は、モデルを制御システムや将来のロボットとつなぐ作業だ。"
+        }
+      ]
+    },
+    "science/science-coating-thickness-pitting-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+          "cap": "4つの物理記述子の分離と、高モルフォロジー(higher-morphology)領域における膜厚約2,200 nm 付近でのモデルに支持された(model-supported)転移。提供:Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
+        },
+        {
+          "t": "p",
+          "x": "Shibaura Institute of Technologyの研究チームは、蒸気コーティングした(steam-coated)A6061-T6アルミニウム試料90個に、解釈可能な機械学習(machine-learning)フレームワークを適用した。膜厚、表面粗さ、結晶子サイズ、基材の転位密度指数という4つの記述子を、5 wt.% 塩化ナトリウム溶液中で測定した孔食電位と照らし合わせて解析した。"
+        },
+        {
+          "t": "p",
+          "x": "主要な予測因子は膜厚と表面粗さだった。粗さが約600–1,080 nm の範囲では、両者のモデル上の相互作用が膜厚2,200 nm 付近で符号を変えた。粗さが低い場合、この反転は見られなかった。著者らは、粗さが薄い膜では保護的な被覆を、厚い膜では構造的な不規則性を反映している可能性があると提案するが、この仮説はまだ実験による検証が必要だ。"
+        },
+        {
+          "t": "p",
+          "x": "Monte Carlo解析では、予測のばらつきのうち約0.080 V 分が測定の不確かさに起因するとされ、モデル全体のRMSEは0.292 V だった。研究はnpj Materials Degradationに掲載された。"
+        }
+      ]
+    },
+    "science/science-etruscan-tomb-acoustics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+          "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "イタリア中部エトルリア(Etruria)のpre-Roman(ローマ以前)社会は文化の隅々に音を織り込んでおり、タルクィニア(Tarquinia)、キウージ(Chiusi)、オルヴィエート(Orvieto)の彩色墓は音楽や饗宴、死後の世界を描いた場面で知られる。Jacqueline Ortoleva(Oxford)とMaurizio Forte(Duke)の新たな研究は、これらの墓が洗練された感覚体験をもたらすよう設計されていたことを示している。"
+        },
+        {
+          "t": "p",
+          "x": "研究はOxfordのSounds of Silenceプロジェクトや、神経科学とAIを用いて遺物が認知に与える影響を探るDukeのNeuroartifactプロジェクトなど、AIと音響の研究に基づく。チームは音響・視覚・AI技術を組み合わせ、紀元前(BC)5世紀の2つの墓、「青い悪魔の墓(Tomb of the Blue Demons)」と「雄鶏の墓(Tomb of the Rooster)」を調べた。"
+        },
+        {
+          "t": "video",
+          "yt": "i7pe404dgoU"
+        },
+        {
+          "t": "p",
+          "x": "青い悪魔(Blue Demon)の墓内部の際立って長い残響とこだまは、揺らめく松明の光や香、献酒とともに、没入型の体験に劇的なサウンドトラックを添えていた。Blue Demonの墓が知覚の混乱を誘うのに対し、雄鶏(Rooster)の墓は視覚的な注意を優先させる。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは、これらの墓が単に死者を納めるためではなく、現代の3D映画のように生者に作用するよう造られたと論じる。現在は同様の音響・AI技術を屋外の儀礼的景観に応用している。"
+        }
+      ]
     }
   }
 }

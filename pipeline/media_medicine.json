@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-11",
-  "section": "medicine",
-  "media": [
-    {
-      "id": "jama-ai-psychosis-cohort",
-      "type": "image",
-      "src": "pipeline/media/jama-ai-psychosis-cohort.jpg"
-    },
-    {
-      "id": "fda-cdrh-fy27-ai-guidance",
-      "type": "image",
-      "src": "pipeline/media/fda-cdrh-fy27-ai-guidance.jpg"
-    },
-    {
-      "id": "voice-ae-ctcae-audio",
-      "type": "svg"
-    },
-    {
-      "id": "asan-peds-rrs-vuno",
-      "type": "image",
-      "src": "pipeline/media/asan-peds-rrs-vuno.jpg"
-    },
-    {
-      "id": "llm-ophtho-preconsult-rct",
-      "type": "image",
-      "src": "pipeline/media/llm-ophtho-preconsult-rct.jpg"
-    }
-  ]
+ "date": "2026-10-12",
+ "section": "medicine",
+ "media": [
+  {
+   "id": "jama-aya-cancer-risk-chatbot-rct",
+   "type": "image",
+   "src": "pipeline/media/jama-aya-cancer-risk-chatbot-rct.jpg"
+  },
+  {
+   "id": "pancreatic-cancer-subtype-histopathology-dl",
+   "type": "image",
+   "src": "pipeline/media/pancreatic-cancer-subtype-histopathology-dl.png"
+  },
+  {
+   "id": "fda-radiology-ai-authorizations-rise-42",
+   "type": "image",
+   "src": "pipeline/media/fda-radiology-ai-authorizations-rise-42.jpg"
+  },
+  {
+   "id": "hhs-arpa-h-ai-clinical-trials",
+   "type": "image",
+   "src": "pipeline/media/hhs-arpa-h-ai-clinical-trials.jpg"
+  },
+  {
+   "id": "gottlieb-clinical-ai-ldt-pathway",
+   "type": "svg"
+  }
+ ]
 }

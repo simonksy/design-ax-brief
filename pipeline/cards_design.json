@@ -1,17 +1,1113 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "design",
   "cards": [
     {
-      "id": "synthetic-users-uxr",
+      "id": "odyssey-3-world-model",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "합성 사용자는\nUX에선 조연이어야 한다",
-      "body": "UX Collective는 AI-generated 페르소나를 아껴 쓰라고 한다.",
-      "mini_headline": "합성 사용자는 아껴서",
+      "headline": "Odyssey-3, 문장을\n실시간 인터랙티브 세계로",
+      "body": "Odyssey-3는 텍스트로 인터랙티브 환경을 실시간 만드는 14B 월드 모델이다.",
+      "mini_headline": "Odyssey-3 공개 프리뷰 시작",
+      "tool": "KeyShot",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+          },
+          {
+            "t": "p",
+            "x": "California-based AI 기업 Odyssey가 월드 모델 Odyssey-3의 공개 리서치 프리뷰를 열었다. 텍스트 프롬프트로 인터랙티브 환경을 만들어 실시간으로 돌아다닐 수 있고, 개발자는 API 접근을 신청하면 된다."
+          },
+          {
+            "t": "video",
+            "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+          },
+          {
+            "t": "p",
+            "x": "무료 온라인 데모는 Odyssey-3 Flash로 돌아간다. 일인칭이나 삼인칭 시점을 고르고 세계 안을 움직이며 이벤트를 일으키면 모델이 그에 반응한다. 바탕은 자기회귀 디퓨전 트랜스포머로, 인터넷 영상과 키보드·마우스 입력이 짝지어진 게임 화면, 물리 시뮬레이션으로 학습했다. 기본 모델은 14B 파라미터 규모에 832 × 480 영상을 내고, Odyssey-3 Pro는 1280 × 720까지 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "Odyssey-3 Pro가 Physics-IQ Verified에서 받은 66.1점은 과제마다 영상 여덟 개 중 하나를 골라 낸 단 한 번의 실행 결과다. 선별 없이 네 번 돌린 평균은 63.37이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+            "cap": "Odyssey 제공 스크린샷"
+          },
+          {
+            "t": "p",
+            "x": "Odyssey는 같은 모델로 로봇 팔과 드론, 게임 캐릭터까지 움직일 계획이고, 모델이 GTA V를 플레이하는 영상도 공개했다. 2023년 Oliver Cameron과 Jeff Hawke가 세운 회사로, 2026년 6월 $310 million을 유치했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Odyssey-3 turns prompts into\nlive interactive worlds",
+          "body": "Odyssey-3, a 14-billion-parameter world model, generates interactive environments from text prompts in real time.",
+          "mini_headline": "Odyssey-3 opens to the public",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "California-based AI company Odyssey has launched a public research preview of its world model Odyssey-3. Users can generate interactive environments from text prompts and explore them in real time; developers can apply for API access."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+              },
+              {
+                "t": "p",
+                "x": "The free online demo runs on Odyssey-3 Flash. Users pick a first- or third-person view, move through the world, trigger events and watch the model respond. It is built on an autoregressive diffusion transformer trained on internet video, game footage paired with keyboard and mouse inputs, and simulated physics. The base model has 14 billion parameters and outputs 832 × 480 video; Odyssey-3 Pro supports 1280 × 720."
+              },
+              {
+                "t": "p",
+                "x": "Odyssey-3 Pro's 66.1 on Physics-IQ Verified comes from a single run that picked one of eight videos per task; without that selection it averaged 63.37 over four runs."
+              },
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+                "cap": "Screenshot via Odyssey"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey wants the same model to drive robot arms, drones and game characters, and showed it playing GTA V. Founded in 2023 by Oliver Cameron and Jeff Hawke, it raised $310 million in June 2026."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Odyssey-3, 문장을\n실시간 인터랙티브 세계로",
+          "body": "Odyssey-3는 텍스트로 인터랙티브 환경을 실시간 만드는 14B 월드 모델이다.",
+          "mini_headline": "Odyssey-3 공개 프리뷰 시작",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "California-based AI 기업 Odyssey가 월드 모델 Odyssey-3의 공개 리서치 프리뷰를 열었다. 텍스트 프롬프트로 인터랙티브 환경을 만들어 실시간으로 돌아다닐 수 있고, 개발자는 API 접근을 신청하면 된다."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+              },
+              {
+                "t": "p",
+                "x": "무료 온라인 데모는 Odyssey-3 Flash로 돌아간다. 일인칭이나 삼인칭 시점을 고르고 세계 안을 움직이며 이벤트를 일으키면 모델이 그에 반응한다. 바탕은 자기회귀 디퓨전 트랜스포머로, 인터넷 영상과 키보드·마우스 입력이 짝지어진 게임 화면, 물리 시뮬레이션으로 학습했다. 기본 모델은 14B 파라미터 규모에 832 × 480 영상을 내고, Odyssey-3 Pro는 1280 × 720까지 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Odyssey-3 Pro가 Physics-IQ Verified에서 받은 66.1점은 과제마다 영상 여덟 개 중 하나를 골라 낸 단 한 번의 실행 결과다. 선별 없이 네 번 돌린 평균은 63.37이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+                "cap": "Odyssey 제공 스크린샷"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey는 같은 모델로 로봇 팔과 드론, 게임 캐릭터까지 움직일 계획이고, 모델이 GTA V를 플레이하는 영상도 공개했다. 2023년 Oliver Cameron과 Jeff Hawke가 세운 회사로, 2026년 6월 $310 million을 유치했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Odyssey-3、文章を\nリアルタイムの対話型世界に",
+          "body": "Odyssey-3は14B の世界モデルで、テキストから対話型環境をリアルタイム生成する。",
+          "mini_headline": "Odyssey-3が一般公開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "California-basedのAI企業Odysseyが、世界モデルOdyssey-3の公開リサーチプレビューを開始した。ユーザーはテキストプロンプトから対話型の環境を生成し、リアルタイムで探索できる。開発者はAPIアクセスを申請できる。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+              },
+              {
+                "t": "p",
+                "x": "無料のオンラインデモはOdyssey-3 Flashで動作する。ユーザーは一人称か三人称の視点を選び、世界を移動し、イベントを起こし、モデルの反応を確かめられる。基盤は、インターネット動画、キーボードとマウスの入力を組み合わせたゲーム映像、物理シミュレーションで学習した自己回帰型拡散トランスフォーマーだ。ベースモデルは14B パラメータで832 × 480の映像を出力し、Odyssey-3 Proは1280 × 720に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey-3 ProのPhysics-IQ Verifiedでのスコア66.1は、タスクごとに八本の動画から一本を選んだ単一の実行によるものだ。この選別をしない場合、四回の実行の平均は63.37だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+                "cap": "スクリーンショット:Odyssey提供"
+              },
+              {
+                "t": "p",
+                "x": "Odysseyは同じモデルでロボットアームやドローン、ゲームキャラクターを動かすことを目指しており、GTA Vをプレイする様子も披露した。2023年にOliver CameronとJeff Hawkeが創業し、2026年6月に$310 millionを調達した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Odyssey-3把提示词\n变成实时互动世界",
+          "body": "Odyssey-3是一款14B 参数的世界模型，能根据文本提示实时生成互动环境。",
+          "mini_headline": "Odyssey-3向公众开放",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "California-based AI公司Odyssey推出了世界模型Odyssey-3的公开研究预览版。用户可以通过文本提示生成互动环境并实时探索；开发者可以申请API访问权限。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+              },
+              {
+                "t": "p",
+                "x": "免费在线演示基于Odyssey-3 Flash运行。用户可选择第一人称或第三人称视角，在世界中移动、触发事件并观察模型的反应。它基于自回归扩散Transformer，训练数据包括互联网视频、配有键盘和鼠标输入的游戏画面以及模拟物理。基础模型有14B 参数，输出832 × 480视频；Odyssey-3 Pro支持1280 × 720。"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey-3 Pro在Physics-IQ Verified上的66.1分来自单次运行，且每项任务都从八段视频中挑选一段；不做这种挑选时，四次运行的平均分为63.37。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+                "cap": "截图来自Odyssey"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey希望用同一个模型驱动机械臂、无人机和游戏角色，并展示了它玩GTA V的画面。公司由Oliver Cameron和Jeff Hawke于2023年创立，2026年6月融资$310 million。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Odyssey-3 convierte prompts en\nmundos interactivos en vivo",
+          "body": "Odyssey-3, modelo de mundo de 14 mil millones de parámetros, genera entornos interactivos desde texto en tiempo real.",
+          "mini_headline": "Odyssey-3 se abre al público",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey, empresa de AI California-based, ha lanzado una vista previa pública de investigación de su modelo de mundo Odyssey-3. Los usuarios pueden generar entornos interactivos a partir de prompts de texto y explorarlos en tiempo real; los desarrolladores pueden solicitar acceso a la API."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+              },
+              {
+                "t": "p",
+                "x": "La demo gratuita en línea funciona con Odyssey-3 Flash. Los usuarios eligen una vista en primera o tercera persona, se mueven por el mundo, desencadenan eventos y observan cómo responde el modelo. Se basa en un transformer de difusión autorregresivo entrenado con video de internet, imágenes de juegos emparejadas con entradas de teclado y ratón, y física simulada. El modelo base tiene 14 mil millones de parámetros y genera video de 832 × 480; Odyssey-3 Pro admite 1280 × 720."
+              },
+              {
+                "t": "p",
+                "x": "El 66.1 de Odyssey-3 Pro en Physics-IQ Verified proviene de una sola ejecución que eligió uno de ocho videos por tarea; sin esa selección, promedió 63.37 en cuatro ejecuciones."
+              },
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+                "cap": "Captura de pantalla vía Odyssey"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey quiere que el mismo modelo controle brazos robóticos, drones y personajes de videojuegos, y lo mostró jugando a GTA V. Fundada en 2023 por Oliver Cameron y Jeff Hawke, recaudó 310 millones de dólares en junio de 2026."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Odyssey-3, 문장을\n실시간 인터랙티브 세계로",
+          "body": "Odyssey-3는 텍스트로 인터랙티브 환경을 실시간 만드는 14B 월드 모델이다.",
+          "mini_headline": "Odyssey-3 공개 프리뷰 시작",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "California-based AI 기업 Odyssey가 월드 모델 Odyssey-3의 공개 리서치 프리뷰를 시작했다. 사용자는 텍스트 프롬프트로 인터랙티브 환경을 만들고 실시간으로 탐색할 수 있으며, 개발자는 API 접근을 신청할 수 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+              },
+              {
+                "t": "p",
+                "x": "무료 온라인 데모는 Odyssey-3 Flash로 돌아간다. 사용자는 일인칭 또는 삼인칭 시점을 고른 뒤 세계 안을 움직이고, 이벤트를 일으키고, 모델의 반응을 지켜본다. 모델은 인터넷 영상, 키보드·마우스 입력과 짝지은 게임 화면, 물리 시뮬레이션으로 학습한 자기회귀 디퓨전 트랜스포머를 기반으로 한다. 기본 모델은 14B 파라미터 규모로 832 × 480 영상을 출력하고, Odyssey-3 Pro는 1280 × 720을 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Odyssey-3 Pro가 Physics-IQ Verified에서 기록한 66.1점은 과제마다 영상 여덟 개 중 하나를 고른 단 한 번의 실행 결과다. 이런 선별 없이 네 차례 실행한 평균은 63.37이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+                "cap": "Odyssey 제공 스크린샷"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey는 같은 모델로 로봇 팔, 드론, 게임 캐릭터까지 움직이려 하며, 모델이 GTA V를 플레이하는 모습도 공개했다. 2023년 Oliver Cameron과 Jeff Hawke가 세운 이 회사는 2026년 6월 $310 million을 유치했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Odyssey-3、文章を\nリアルタイムの対話型世界に",
+          "body": "Odyssey-3は14B の世界モデルで、テキストから対話型環境をリアルタイム生成する。",
+          "mini_headline": "Odyssey-3が一般公開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "California-basedのAI企業Odysseyが、世界モデルOdyssey-3の公開リサーチプレビューを開始した。ユーザーはテキストプロンプトから対話型の環境を生成し、リアルタイムで探索できる。開発者はAPIアクセスを申請できる。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+              },
+              {
+                "t": "p",
+                "x": "無料のオンラインデモはOdyssey-3 Flashで動作する。ユーザーは一人称か三人称の視点を選び、世界を移動し、イベントを起こし、モデルの反応を確かめられる。基盤は、インターネット動画、キーボードとマウスの入力を組み合わせたゲーム映像、物理シミュレーションで学習した自己回帰型拡散トランスフォーマーだ。ベースモデルは14B パラメータで832 × 480の映像を出力し、Odyssey-3 Proは1280 × 720に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey-3 ProのPhysics-IQ Verifiedでのスコア66.1は、タスクごとに八本の動画から一本を選んだ単一の実行によるものだ。この選別をしない場合、四回の実行の平均は63.37だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+                "cap": "スクリーンショット:Odyssey提供"
+              },
+              {
+                "t": "p",
+                "x": "Odysseyは同じモデルでロボットアームやドローン、ゲームキャラクターを動かすことを目指しており、GTA Vをプレイする様子も披露した。2023年にOliver CameronとJeff Hawkeが創業し、2026年6月に$310 millionを調達した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Odyssey-3把提示词\n变成实时互动世界",
+          "body": "Odyssey-3是一款14B 参数的世界模型，能根据文本提示实时生成互动环境。",
+          "mini_headline": "Odyssey-3向公众开放",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "California-based AI公司Odyssey推出了世界模型Odyssey-3的公开研究预览版。用户可以通过文本提示生成互动环境并实时探索；开发者可以申请API访问权限。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+              },
+              {
+                "t": "p",
+                "x": "免费在线演示基于Odyssey-3 Flash运行。用户可选择第一人称或第三人称视角，在世界中移动、触发事件并观察模型的反应。它基于自回归扩散Transformer，训练数据包括互联网视频、配有键盘和鼠标输入的游戏画面以及模拟物理。基础模型有14B 参数，输出832 × 480视频；Odyssey-3 Pro支持1280 × 720。"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey-3 Pro在Physics-IQ Verified上的66.1分来自单次运行，且每项任务都从八段视频中挑选一段；不做这种挑选时，四次运行的平均分为63.37。"
+              },
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+                "cap": "截图来自Odyssey"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey希望用同一个模型驱动机械臂、无人机和游戏角色，并展示了它玩GTA V的画面。公司由Oliver Cameron和Jeff Hawke于2023年创立，2026年6月融资$310 million。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Odyssey-3 convierte prompts en\nmundos interactivos en vivo",
+          "body": "Odyssey-3, modelo de mundo de 14 mil millones de parámetros, genera entornos interactivos desde texto en tiempo real.",
+          "mini_headline": "Odyssey-3 se abre al público",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey, empresa de AI California-based, ha lanzado una vista previa pública de investigación de su modelo de mundo Odyssey-3. Los usuarios pueden generar entornos interactivos a partir de prompts de texto y explorarlos en tiempo real; los desarrolladores pueden solicitar acceso a la API."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+              },
+              {
+                "t": "p",
+                "x": "La demo gratuita en línea funciona con Odyssey-3 Flash. Los usuarios eligen una vista en primera o tercera persona, se mueven por el mundo, desencadenan eventos y observan cómo responde el modelo. Se basa en un transformer de difusión autorregresivo entrenado con video de internet, imágenes de juegos emparejadas con entradas de teclado y ratón, y física simulada. El modelo base tiene 14 mil millones de parámetros y genera video de 832 × 480; Odyssey-3 Pro admite 1280 × 720."
+              },
+              {
+                "t": "p",
+                "x": "El 66.1 de Odyssey-3 Pro en Physics-IQ Verified proviene de una sola ejecución que eligió uno de ocho videos por tarea; sin esa selección, promedió 63.37 en cuatro ejecuciones."
+              },
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+                "cap": "Captura de pantalla vía Odyssey"
+              },
+              {
+                "t": "p",
+                "x": "Odyssey quiere que el mismo modelo controle brazos robóticos, drones y personajes de videojuegos, y lo mostró jugando a GTA V. Fundada en 2023 por Oliver Cameron y Jeff Hawke, recaudó 310 millones de dólares en junio de 2026."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "nngroup-context-libraries",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 파워 유저는\n컨텍스트 관리에 소홀하다",
+      "body": "NN/g에 따르면 Claude 파워 유저는 컨텍스트 파일을 방치하고 찾지도 못한다.",
+      "mini_headline": "방치된 컨텍스트 파일",
+      "tool": "Figma",
+      "source": "Nielsen Norman Group",
+      "url": "https://www.nngroup.com/articles/context-libraries/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Claude 파워 유저는 컨텍스트 파일을 좀처럼 고치지 않고, 어디 뒀는지 못 찾는 일도 잦다. NN/g 연구 참가자들은 프롬프트보다 컨텍스트 라이브러리 설계에 더 공을 들였다. 다만 저마다 즉흥적으로 방식을 만들어 썼고, 파일은 낡거나 사라졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+            "cap": "사용자는 프롬프트를 더 단순하게 쓰고, 컨텍스트 라이브러리를 참조·갱신하는 일은 에이전트에 맡긴다."
+          },
+          {
+            "t": "p",
+            "x": "컨텍스트 라이브러리는 AI 에이전트가 참조하고 고칠 수 있는 조직·절차 지식을 모아 둔 것으로, markdown 파일이나 외부 소프트웨어에 담긴다. 연구에서 얻은 교훈은 네 가지다. 컨텍스트는 꾸준히 관리해야 한다. 파일에 직접 입력한 사람이 거의 없었으니 갱신은 에이전트에 맡기는 편이 낫다. 라이브러리는 찾기 쉽게 짜야 한다. 에이전트에는 꼭 필요한 컨텍스트만 준다."
+          },
+          {
+            "t": "p",
+            "x": "한 참가자는 2,700개가 넘는 컨텍스트 파일을 관리하며 폴더마다 CLAUDE.md \"색인 카드\"를 두고 불러오는 양을 최소로 줄였다. \"옆으로 가려면 먼저 위나 아래로 움직여야 한다.\""
+          },
+          {
+            "t": "img",
+            "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+            "cap": "계층 구조의 폴더마다 CLAUDE.md 색인 파일이 따로 있다."
+          },
+          {
+            "t": "p",
+            "x": "플랫폼이 큐레이션 전략을 떠맡기 전까지는 사용자가 그 일을 해야 한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI power users rarely tend\ntheir context libraries",
+          "body": "NN/g research finds Claude power users rarely edit their context files and often cannot even find them.",
+          "mini_headline": "Context files left untended",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Claude power users rarely edit their context files and often can't find them. In NN/g's study, participants spent more effort engineering context libraries than crafting prompts, yet each had improvised a bespoke process, and files went stale or missing."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+                "cap": "Users write simpler prompts, relying on the agent to reference and update the context library."
+              },
+              {
+                "t": "p",
+                "x": "A context library is a collection of institutional and procedural knowledge, in markdown files or external software, that AI agents may reference and edit. Four lessons emerged: context needs ongoing maintenance; let the agent update context for you, since almost nobody typed directly into their files; structure the library for findability; and give agents only the context they need."
+              },
+              {
+                "t": "p",
+                "x": "One participant kept over 2,700 context files with a CLAUDE.md \"index card\" in each folder, engineered to load as little as possible: \"It must move up or down before it can move sideways.\""
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+                "cap": "Each folder in the hierarchy has its own CLAUDE.md index file."
+              },
+              {
+                "t": "p",
+                "x": "Until platforms take on curation strategy themselves, that work falls to users."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 파워 유저는\n컨텍스트 관리에 소홀하다",
+          "body": "NN/g에 따르면 Claude 파워 유저는 컨텍스트 파일을 방치하고 찾지도 못한다.",
+          "mini_headline": "방치된 컨텍스트 파일",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Claude 파워 유저는 컨텍스트 파일을 좀처럼 고치지 않고, 어디 뒀는지 못 찾는 일도 잦다. NN/g 연구 참가자들은 프롬프트보다 컨텍스트 라이브러리 설계에 더 공을 들였다. 다만 저마다 즉흥적으로 방식을 만들어 썼고, 파일은 낡거나 사라졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+                "cap": "사용자는 프롬프트를 더 단순하게 쓰고, 컨텍스트 라이브러리를 참조·갱신하는 일은 에이전트에 맡긴다."
+              },
+              {
+                "t": "p",
+                "x": "컨텍스트 라이브러리는 AI 에이전트가 참조하고 고칠 수 있는 조직·절차 지식을 모아 둔 것으로, markdown 파일이나 외부 소프트웨어에 담긴다. 연구에서 얻은 교훈은 네 가지다. 컨텍스트는 꾸준히 관리해야 한다. 파일에 직접 입력한 사람이 거의 없었으니 갱신은 에이전트에 맡기는 편이 낫다. 라이브러리는 찾기 쉽게 짜야 한다. 에이전트에는 꼭 필요한 컨텍스트만 준다."
+              },
+              {
+                "t": "p",
+                "x": "한 참가자는 2,700개가 넘는 컨텍스트 파일을 관리하며 폴더마다 CLAUDE.md \"색인 카드\"를 두고 불러오는 양을 최소로 줄였다. \"옆으로 가려면 먼저 위나 아래로 움직여야 한다.\""
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+                "cap": "계층 구조의 폴더마다 CLAUDE.md 색인 파일이 따로 있다."
+              },
+              {
+                "t": "p",
+                "x": "플랫폼이 큐레이션 전략을 떠맡기 전까지는 사용자가 그 일을 해야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIパワーユーザーは\nコンテキスト管理を怠る",
+          "body": "NN/gによれば、Claudeの熟練者は文脈ファイルをほぼ編集せず、所在も見失いがちだ。",
+          "mini_headline": "放置されるコンテキストファイル",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Claudeのパワーユーザーはコンテキストファイルをほとんど編集せず、見つけられないことも多い。NN/gの調査では、参加者はプロンプト作成よりもコンテキストライブラリの設計に力を注いでいたが、各自が場当たり的に独自のやり方を作っており、ファイルは古くなったり行方不明になったりしていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+                "cap": "ユーザーはより簡潔なプロンプトを書き、コンテキストライブラリの参照と更新はエージェントに任せる。"
+              },
+              {
+                "t": "p",
+                "x": "コンテキストライブラリとは、markdownファイルや外部ソフトウェアに収めた組織的・手続き的な知識の集まりで、AIエージェントが参照・編集できる。調査からは四つの教訓が得られた。コンテキストには継続的な手入れが要る。ファイルに直接書き込む人はほぼいなかったので、更新はエージェントに任せるとよい。見つけやすいようにライブラリを構造化する。エージェントには必要なコンテキストだけを渡す。"
+              },
+              {
+                "t": "p",
+                "x": "ある参加者は2,700を超えるコンテキストファイルを抱え、各フォルダにCLAUDE.mdの「索引カード」を置いて、読み込む量が最小になるよう設計していた。「横に動く前に、まず上か下に動かなければならない」"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+                "cap": "階層内の各フォルダに専用のCLAUDE.mdインデックスファイルがある。"
+              },
+              {
+                "t": "p",
+                "x": "プラットフォームがキュレーション戦略を自ら担うようになるまで、その仕事はユーザーの肩にかかる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI重度用户很少\n打理上下文库",
+          "body": "NN/g研究发现，Claude重度用户很少编辑上下文文件，甚至常常找不到它们。",
+          "mini_headline": "上下文文件无人打理",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Claude重度用户很少编辑自己的上下文文件，还常常找不到它们。在NN/g的研究中，参与者花在构建上下文库上的精力多于编写提示词，但每个人都临时拼凑出一套自己的流程，文件随之过时或丢失。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+                "cap": "用户写的提示词更简单，依靠智能体来引用和更新上下文库。"
+              },
+              {
+                "t": "p",
+                "x": "上下文库是一组机构性与流程性知识，存放在markdown文件或外部软件中，供AI智能体引用和编辑。研究得出四条经验：上下文需要持续维护；让智能体替你更新上下文，因为几乎没人直接在文件里打字；为便于查找而组织上下文库；只给智能体它们需要的上下文。"
+              },
+              {
+                "t": "p",
+                "x": "一位参与者维护着2,700多个上下文文件，每个文件夹里都有一张CLAUDE.md“索引卡”，设计目标是尽量少加载：“它必须先上移或下移，才能横向移动。”"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+                "cap": "层级中的每个文件夹都有自己的CLAUDE.md索引文件。"
+              },
+              {
+                "t": "p",
+                "x": "在平台自己承担起整理策略之前，这项工作只能落在用户身上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Usuarios avanzados de AI apenas\ncuidan su biblioteca de contexto",
+          "body": "Según NN/g, los usuarios avanzados de Claude rara vez editan sus archivos de contexto y a menudo ni los encuentran.",
+          "mini_headline": "Archivos de contexto descuidados",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los usuarios avanzados de Claude rara vez editan sus archivos de contexto y a menudo no logran encontrarlos. En el estudio de NN/g, los participantes dedicaban más esfuerzo a construir bibliotecas de contexto que a redactar prompts, pero cada uno había improvisado un proceso propio, y los archivos quedaban desactualizados o se perdían."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+                "cap": "Los usuarios escriben prompts más simples y confían en que el agente consulte y actualice la biblioteca de contexto."
+              },
+              {
+                "t": "p",
+                "x": "Una biblioteca de contexto es una colección de conocimiento institucional y procedimental, en archivos markdown o software externo, que los agentes de AI pueden consultar y editar. Surgieron cuatro lecciones: el contexto requiere mantenimiento continuo; conviene dejar que el agente lo actualice, ya que casi nadie escribía directamente en sus archivos; la biblioteca debe estructurarse para facilitar la búsqueda; y hay que dar a los agentes solo el contexto que necesitan."
+              },
+              {
+                "t": "p",
+                "x": "Un participante mantenía más de 2,700 archivos de contexto con una \"ficha índice\" CLAUDE.md en cada carpeta, diseñada para cargar lo mínimo posible: \"Debe moverse hacia arriba o hacia abajo antes de poder moverse hacia los lados.\""
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+                "cap": "Cada carpeta de la jerarquía tiene su propio archivo índice CLAUDE.md."
+              },
+              {
+                "t": "p",
+                "x": "Hasta que las plataformas asuman por sí mismas la estrategia de curación, ese trabajo recae en los usuarios."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 파워 유저는\n컨텍스트 관리에 소홀하다",
+          "body": "NN/g에 따르면 Claude 파워 유저는 컨텍스트 파일을 방치하고 찾지도 못한다.",
+          "mini_headline": "방치된 컨텍스트 파일",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Claude 파워 유저는 컨텍스트 파일을 거의 고치지 않고, 파일을 찾지 못하는 일도 잦다. NN/g 연구에서 참가자들은 프롬프트 작성보다 컨텍스트 라이브러리 설계에 더 많은 공을 들였지만, 저마다 즉흥적으로 자기만의 방식을 만들어 썼고 파일은 낡거나 사라졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+                "cap": "사용자는 더 단순한 프롬프트를 쓰고, 컨텍스트 라이브러리를 참조하고 갱신하는 일은 에이전트에 맡긴다."
+              },
+              {
+                "t": "p",
+                "x": "컨텍스트 라이브러리는 AI 에이전트가 참조하고 수정할 수 있는 조직·절차 지식의 모음으로, markdown 파일이나 외부 소프트웨어에 담긴다. 연구에서 네 가지 교훈이 나왔다. 컨텍스트는 꾸준한 관리가 필요하다. 파일에 직접 입력한 사람은 거의 없었으므로 컨텍스트 갱신은 에이전트에 맡기는 편이 낫다. 라이브러리는 찾기 쉽게 구조화해야 한다. 에이전트에는 꼭 필요한 컨텍스트만 주어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "한 참가자는 2,700개가 넘는 컨텍스트 파일을 관리하며 폴더마다 CLAUDE.md \"색인 카드\"를 두고, 최대한 적게 불러오도록 설계했다. \"옆으로 가려면 먼저 위나 아래로 움직여야 한다.\""
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+                "cap": "계층 구조의 폴더마다 고유한 CLAUDE.md 색인 파일이 있다."
+              },
+              {
+                "t": "p",
+                "x": "플랫폼이 큐레이션 전략을 직접 떠맡기 전까지 그 일은 사용자의 몫이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIパワーユーザーは\nコンテキスト管理を怠る",
+          "body": "NN/gによれば、Claudeの熟練者は文脈ファイルをほぼ編集せず、所在も見失いがちだ。",
+          "mini_headline": "放置されるコンテキストファイル",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Claudeのパワーユーザーはコンテキストファイルをほとんど編集せず、見つけられないことも多い。NN/gの調査では、参加者はプロンプト作成よりもコンテキストライブラリの設計に力を注いでいたが、各自が場当たり的に独自のやり方を作っており、ファイルは古くなったり行方不明になったりしていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+                "cap": "ユーザーはより簡潔なプロンプトを書き、コンテキストライブラリの参照と更新はエージェントに任せる。"
+              },
+              {
+                "t": "p",
+                "x": "コンテキストライブラリとは、markdownファイルや外部ソフトウェアに収めた組織的・手続き的な知識の集まりで、AIエージェントが参照・編集できる。調査からは四つの教訓が得られた。コンテキストには継続的な手入れが要る。ファイルに直接書き込む人はほぼいなかったので、更新はエージェントに任せるとよい。見つけやすいようにライブラリを構造化する。エージェントには必要なコンテキストだけを渡す。"
+              },
+              {
+                "t": "p",
+                "x": "ある参加者は2,700を超えるコンテキストファイルを抱え、各フォルダにCLAUDE.mdの「索引カード」を置いて、読み込む量が最小になるよう設計していた。「横に動く前に、まず上か下に動かなければならない」"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+                "cap": "階層内の各フォルダに専用のCLAUDE.mdインデックスファイルがある。"
+              },
+              {
+                "t": "p",
+                "x": "プラットフォームがキュレーション戦略を自ら担うようになるまで、その仕事はユーザーの肩にかかる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI重度用户很少\n打理上下文库",
+          "body": "NN/g研究发现，Claude重度用户很少编辑上下文文件，甚至常常找不到它们。",
+          "mini_headline": "上下文文件无人打理",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Claude重度用户很少编辑自己的上下文文件，还常常找不到它们。在NN/g的研究中，参与者花在构建上下文库上的精力多于编写提示词，但每个人都临时拼凑出一套自己的流程，文件随之过时或丢失。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+                "cap": "用户写的提示词更简单，依靠智能体来引用和更新上下文库。"
+              },
+              {
+                "t": "p",
+                "x": "上下文库是一组机构性与流程性知识，存放在markdown文件或外部软件中，供AI智能体引用和编辑。研究得出四条经验：上下文需要持续维护；让智能体替你更新上下文，因为几乎没人直接在文件里打字；为便于查找而组织上下文库；只给智能体它们需要的上下文。"
+              },
+              {
+                "t": "p",
+                "x": "一位参与者维护着2,700多个上下文文件，每个文件夹里都有一张CLAUDE.md“索引卡”，设计目标是尽量少加载：“它必须先上移或下移，才能横向移动。”"
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+                "cap": "层级中的每个文件夹都有自己的CLAUDE.md索引文件。"
+              },
+              {
+                "t": "p",
+                "x": "在平台自己承担起整理策略之前，这项工作只能落在用户身上。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Usuarios avanzados de AI apenas\ncuidan su biblioteca de contexto",
+          "body": "Según NN/g, los usuarios avanzados de Claude rara vez editan sus archivos de contexto y a menudo ni los encuentran.",
+          "mini_headline": "Archivos de contexto descuidados",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los usuarios avanzados de Claude rara vez editan sus archivos de contexto y a menudo no logran encontrarlos. En el estudio de NN/g, los participantes dedicaban más esfuerzo a construir bibliotecas de contexto que a redactar prompts, pero cada uno había improvisado un proceso propio, y los archivos quedaban desactualizados o se perdían."
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+                "cap": "Los usuarios escriben prompts más simples y confían en que el agente consulte y actualice la biblioteca de contexto."
+              },
+              {
+                "t": "p",
+                "x": "Una biblioteca de contexto es una colección de conocimiento institucional y procedimental, en archivos markdown o software externo, que los agentes de AI pueden consultar y editar. Surgieron cuatro lecciones: el contexto requiere mantenimiento continuo; conviene dejar que el agente lo actualice, ya que casi nadie escribía directamente en sus archivos; la biblioteca debe estructurarse para facilitar la búsqueda; y hay que dar a los agentes solo el contexto que necesitan."
+              },
+              {
+                "t": "p",
+                "x": "Un participante mantenía más de 2,700 archivos de contexto con una \"ficha índice\" CLAUDE.md en cada carpeta, diseñada para cargar lo mínimo posible: \"Debe moverse hacia arriba o hacia abajo antes de poder moverse hacia los lados.\""
+              },
+              {
+                "t": "img",
+                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+                "cap": "Cada carpeta de la jerarquía tiene su propio archivo índice CLAUDE.md."
+              },
+              {
+                "t": "p",
+                "x": "Hasta que las plataformas asuman por sí mismas la estrategia de curación, ese trabajo recae en los usuarios."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "teslers-law-chat-field-ai",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Tesler's Law:\nAI는 복잡성을 옮겼다",
+      "body": "AI는 소프트웨어의 복잡성은 그대로 두고 그 행방을 보여주던 인터페이스를 지웠다.",
+      "mini_headline": "채팅 AI가 옮긴 복잡성",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+          },
+          {
+            "t": "p",
+            "x": "AI는 소프트웨어의 복잡성을 없애지 않았다. 복잡성이 어디로 갔는지, 지금 누가 그 비용을 치르는지 보여주던 인터페이스를 없앴을 뿐이다. Larry Tesler's law(복잡성 보존 법칙)에 따르면 어떤 애플리케이션이든 어려운 부분은 사라지지 않고 다른 누군가에게 넘어갈 뿐이다."
+          },
+          {
+            "t": "p",
+            "x": "Patrick Neeman은 채팅 창이 복잡성을 세 방향으로 넘겼다고 본다. 일부는 모델로, 일부는 이제 명세를 쓰고 결과를 판단해야 하는 사용자에게 갔다. 나머지는 아무도 인력을 배정하지 않은 평가 업무가 되어 팀에 떨어졌다. \"인터페이스의 단순함은 거의 언제나 다른 누군가의 업무량이다.\""
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+            "cap": "압력을 받은 물침대처럼 한 곳을 누르면 다른 곳이 솟아오른다."
+          },
+          {
+            "t": "p",
+            "x": "그는 METR's 2025년 실험을 인용한다. 이 실험에서 AI는 숙련 개발자의 속도를 19 percent 늦췄고, 상담원 5,172명을 조사한 연구에서는 15 percent 향상이 나타났다. 급여 처리 같은 일은 결정론적 바닥 위에 놓여 있다. 그는 검증을 염두에 두고 설계하고 받는 쪽의 칸을 계측하며, 어려움의 조각마다 누가 감당할지 문서로 정하라고 조언한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Tesler's Law says AI moved\ncomplexity, not erased it",
+          "body": "AI did not remove software's complexity; it removed the interface that showed users where that complexity went.",
+          "mini_headline": "Chat AI relocates complexity",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+              },
+              {
+                "t": "p",
+                "x": "AI did not remove the complexity of software. It removed the interface that told you where the complexity went, and who is now paying for it. Larry Tesler's law of conservation of complexity says the hard part of any application cannot be removed, only handed to somebody else."
+              },
+              {
+                "t": "p",
+                "x": "Patrick Neeman argues the chat box was a transfer in three directions: some complexity moved into the model, some onto the user, who now writes the specification and judges the result, and the rest to your team, into evaluation work nobody staffed. \"Simplicity in an interface is almost always someone else's workload.\""
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+                "cap": "A waterbed under pressure, pushed down in one place and rising in another."
+              },
+              {
+                "t": "p",
+                "x": "He cites METR's 2025 trial, where AI meant a 19 percent slowdown for experienced developers, and a study of 5,172 support agents with a 15 percent gain. Some work, like payroll, sits on a deterministic floor. His advice: design for the checking, instrument the receiving column, and decide in writing who pays for each piece of difficulty."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Tesler's Law: la AI desplazó\nla complejidad, no la borró",
+          "body": "La AI no eliminó la complejidad del software; eliminó la interfaz que mostraba a los usuarios adónde iba.",
+          "mini_headline": "La AI de chat traslada la complejidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+              },
+              {
+                "t": "p",
+                "x": "La AI no eliminó la complejidad del software. Eliminó la interfaz que te indicaba adónde iba esa complejidad y quién la está pagando ahora. La ley de conservación de la complejidad de Larry Tesler sostiene que la parte difícil de cualquier aplicación no puede eliminarse, solo transferirse a otra persona."
+              },
+              {
+                "t": "p",
+                "x": "Patrick Neeman sostiene que la caja de chat fue una transferencia en tres direcciones: parte de la complejidad pasó al modelo, parte al usuario, que ahora redacta la especificación y juzga el resultado, y el resto a tu equipo, en forma de trabajo de evaluación para el que nadie asignó personal. \"La simplicidad en una interfaz casi siempre es la carga de trabajo de otra persona.\""
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+                "cap": "Un colchón de agua bajo presión: se hunde en un punto y se eleva en otro."
+              },
+              {
+                "t": "p",
+                "x": "Cita el ensayo de METR de 2025, en el que la AI supuso una ralentización del 19 por ciento para desarrolladores experimentados, y un estudio con 5,172 agentes de soporte que registró una mejora del 15 por ciento. Algunos trabajos, como la nómina, se asientan sobre una base determinista. Su consejo: diseñar para la verificación, instrumentar la columna receptora y decidir por escrito quién paga cada parte de la dificultad."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Tesler's Law:\nAI는 복잡성을 옮겼다",
+          "body": "AI는 소프트웨어의 복잡성은 그대로 두고 그 행방을 보여주던 인터페이스를 지웠다.",
+          "mini_headline": "채팅 AI가 옮긴 복잡성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+              },
+              {
+                "t": "p",
+                "x": "AI는 소프트웨어의 복잡성을 없애지 않았다. 복잡성이 어디로 갔는지, 지금 누가 그 비용을 치르는지 보여주던 인터페이스를 없앴을 뿐이다. Larry Tesler's law(복잡성 보존 법칙)에 따르면 어떤 애플리케이션이든 어려운 부분은 사라지지 않고 다른 누군가에게 넘어갈 뿐이다."
+              },
+              {
+                "t": "p",
+                "x": "Patrick Neeman은 채팅 창이 복잡성을 세 방향으로 넘겼다고 본다. 일부는 모델로, 일부는 이제 명세를 쓰고 결과를 판단해야 하는 사용자에게 갔다. 나머지는 아무도 인력을 배정하지 않은 평가 업무가 되어 팀에 떨어졌다. \"인터페이스의 단순함은 거의 언제나 다른 누군가의 업무량이다.\""
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+                "cap": "압력을 받은 물침대처럼 한 곳을 누르면 다른 곳이 솟아오른다."
+              },
+              {
+                "t": "p",
+                "x": "그는 METR's 2025년 실험을 인용한다. 이 실험에서 AI는 숙련 개발자의 속도를 19 percent 늦췄고, 상담원 5,172명을 조사한 연구에서는 15 percent 향상이 나타났다. 급여 처리 같은 일은 결정론적 바닥 위에 놓여 있다. 그는 검증을 염두에 두고 설계하고 받는 쪽의 칸을 계측하며, 어려움의 조각마다 누가 감당할지 문서로 정하라고 조언한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Tesler's Law:\nAIは複雑さを移した",
+          "body": "AIはソフトウェアの複雑さを消したのではなく、その行き先を示すインターフェースを消した。",
+          "mini_headline": "チャットAIが移した複雑さ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+              },
+              {
+                "t": "p",
+                "x": "AIはソフトウェアの複雑さを取り除いたわけではない。複雑さがどこへ行き、今誰がその代償を払っているのかを示していたインターフェースを取り除いたのだ。Larry Tesler's law(複雑さ保存の法則)によれば、どんなアプリケーションでも難しい部分は取り除けず、誰か別の人に渡すことしかできない。"
+              },
+              {
+                "t": "p",
+                "x": "Patrick Neemanは、チャット欄は三方向への移転だったと論じる。複雑さの一部はモデルへ、一部は今や仕様を書き結果を判断するユーザーへ、残りは誰も人員を割り当てていない評価作業としてチームへ移った。「インターフェースの簡潔さは、ほぼ常に誰か別の人の作業量である」"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+                "cap": "圧力を受けたウォーターベッド。一か所を押し下げると別の場所が盛り上がる。"
+              },
+              {
+                "t": "p",
+                "x": "彼はMETR's 2025年の試験を引く。そこではAIによって熟練開発者の作業が19 percent遅くなり、サポート担当者5,172人を対象にした研究では15 percentの向上が見られた。給与計算のような仕事は決定論的な土台の上にある。彼の助言は、検証のために設計し、受け手側の欄を計測し、難しさの一つひとつを誰が負うのかを文書で決めることだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Tesler's Law：\nAI只是转移了复杂性",
+          "body": "AI并未消除软件的复杂性，而是去掉了向用户显示复杂性去向的界面。",
+          "mini_headline": "聊天AI转移了复杂性",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+              },
+              {
+                "t": "p",
+                "x": "AI并没有消除软件的复杂性。它去掉的是那个告诉你复杂性去了哪里、如今由谁来承担的界面。Larry Tesler's law（复杂性守恒定律）认为，任何应用程序中困难的部分都无法消除，只能转交给别人。"
+              },
+              {
+                "t": "p",
+                "x": "Patrick Neeman认为，聊天框是一次朝三个方向的转移：一部分复杂性进入了模型，一部分转给了如今要撰写需求并评判结果的用户，其余则落到你的团队身上，变成无人配备人手的评估工作。“界面上的简洁，几乎总是别人的工作量。”"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+                "cap": "受压的水床：一处被压下，另一处就会隆起。"
+              },
+              {
+                "t": "p",
+                "x": "他引用了METR's 2025年的试验：AI让资深开发者的速度慢了19 percent；另一项针对5,172名客服人员的研究则显示提升了15 percent。有些工作，比如薪资核算，建立在确定性的底层之上。他的建议是：为核查而设计，为接收一方建立度量，并以书面形式确定每一份难度由谁承担。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "Tesler's Law: la AI desplazó\nla complejidad, no la borró",
+          "body": "La AI no eliminó la complejidad del software; eliminó la interfaz que mostraba a los usuarios adónde iba.",
+          "mini_headline": "La AI de chat traslada la complejidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+              },
+              {
+                "t": "p",
+                "x": "La AI no eliminó la complejidad del software. Eliminó la interfaz que te indicaba adónde iba esa complejidad y quién la está pagando ahora. La ley de conservación de la complejidad de Larry Tesler sostiene que la parte difícil de cualquier aplicación no puede eliminarse, solo transferirse a otra persona."
+              },
+              {
+                "t": "p",
+                "x": "Patrick Neeman sostiene que la caja de chat fue una transferencia en tres direcciones: parte de la complejidad pasó al modelo, parte al usuario, que ahora redacta la especificación y juzga el resultado, y el resto a tu equipo, en forma de trabajo de evaluación para el que nadie asignó personal. \"La simplicidad en una interfaz casi siempre es la carga de trabajo de otra persona.\""
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+                "cap": "Un colchón de agua bajo presión: se hunde en un punto y se eleva en otro."
+              },
+              {
+                "t": "p",
+                "x": "Cita el ensayo de METR de 2025, en el que la AI supuso una ralentización del 19 por ciento para desarrolladores experimentados, y un estudio con 5,172 agentes de soporte que registró una mejora del 15 por ciento. Algunos trabajos, como la nómina, se asientan sobre una base determinista. Su consejo: diseñar para la verificación, instrumentar la columna receptora y decidir por escrito quién paga cada parte de la dificultad."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Tesler's Law:\nAI는 복잡성을 옮겼다",
+          "body": "AI는 소프트웨어의 복잡성을 없애지 않고 그 행방을 보여주던 인터페이스를 없앴다.",
+          "mini_headline": "채팅 AI가 옮긴 복잡성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+              },
+              {
+                "t": "p",
+                "x": "AI는 소프트웨어의 복잡성을 없애지 않았다. 복잡성이 어디로 갔는지, 지금 누가 그 비용을 치르는지 알려주던 인터페이스를 없앴을 뿐이다. Larry Tesler's law(복잡성 보존 법칙)에 따르면 어떤 애플리케이션이든 어려운 부분은 없앨 수 없고 다른 누군가에게 넘길 수 있을 뿐이다."
+              },
+              {
+                "t": "p",
+                "x": "Patrick Neeman은 채팅 창이 세 방향으로 복잡성을 넘긴 것이라고 본다. 일부는 모델로, 일부는 이제 명세를 쓰고 결과를 판단하는 사용자에게, 나머지는 아무도 인력을 배정하지 않은 평가 업무의 형태로 팀에게 넘어갔다. \"인터페이스의 단순함은 거의 언제나 다른 누군가의 업무량이다.\""
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+                "cap": "압력을 받은 물침대처럼 한 곳을 누르면 다른 곳이 솟아오른다."
+              },
+              {
+                "t": "p",
+                "x": "그는 METR's 2025년 실험을 인용한다. 이 실험에서 AI는 숙련 개발자의 속도를 19 percent 늦췄고, 상담원 5,172명을 대상으로 한 연구에서는 15 percent 향상이 나타났다. 급여 처리 같은 일은 결정론적 바닥 위에 놓여 있다. 그의 조언은 검증을 위해 설계하고, 받는 쪽의 칸을 계측하며, 어려움의 각 조각을 누가 감당할지 문서로 정하라는 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Tesler's Law:\nAIは複雑さを移した",
+          "body": "AIはソフトウェアの複雑さを消したのではなく、その行き先を示すインターフェースを消した。",
+          "mini_headline": "チャットAIが移した複雑さ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+              },
+              {
+                "t": "p",
+                "x": "AIはソフトウェアの複雑さを取り除いたわけではない。複雑さがどこへ行き、今誰がその代償を払っているのかを示していたインターフェースを取り除いたのだ。Larry Tesler's law(複雑さ保存の法則)によれば、どんなアプリケーションでも難しい部分は取り除けず、誰か別の人に渡すことしかできない。"
+              },
+              {
+                "t": "p",
+                "x": "Patrick Neemanは、チャット欄は三方向への移転だったと論じる。複雑さの一部はモデルへ、一部は今や仕様を書き結果を判断するユーザーへ、残りは誰も人員を割り当てていない評価作業としてチームへ移った。「インターフェースの簡潔さは、ほぼ常に誰か別の人の作業量である」"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+                "cap": "圧力を受けたウォーターベッド。一か所を押し下げると別の場所が盛り上がる。"
+              },
+              {
+                "t": "p",
+                "x": "彼はMETR's 2025年の試験を引く。そこではAIによって熟練開発者の作業が19 percent遅くなり、サポート担当者5,172人を対象にした研究では15 percentの向上が見られた。給与計算のような仕事は決定論的な土台の上にある。彼の助言は、検証のために設計し、受け手側の欄を計測し、難しさの一つひとつを誰が負うのかを文書で決めることだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Tesler's Law：\nAI只是转移了复杂性",
+          "body": "AI并未消除软件的复杂性，而是去掉了向用户显示复杂性去向的界面。",
+          "mini_headline": "聊天AI转移了复杂性",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+              },
+              {
+                "t": "p",
+                "x": "AI并没有消除软件的复杂性。它去掉的是那个告诉你复杂性去了哪里、如今由谁来承担的界面。Larry Tesler's law（复杂性守恒定律）认为，任何应用程序中困难的部分都无法消除，只能转交给别人。"
+              },
+              {
+                "t": "p",
+                "x": "Patrick Neeman认为，聊天框是一次朝三个方向的转移：一部分复杂性进入了模型，一部分转给了如今要撰写需求并评判结果的用户，其余则落到你的团队身上，变成无人配备人手的评估工作。“界面上的简洁，几乎总是别人的工作量。”"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+                "cap": "受压的水床：一处被压下，另一处就会隆起。"
+              },
+              {
+                "t": "p",
+                "x": "他引用了METR's 2025年的试验：AI让资深开发者的速度慢了19 percent；另一项针对5,172名客服人员的研究则显示提升了15 percent。有些工作，比如薪资核算，建立在确定性的底层之上。他的建议是：为核查而设计，为接收一方建立度量，并以书面形式确定每一份难度由谁承担。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ai-generated-ui-fast-design-not-ux",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI-generated\nUI는 UX가 아니다",
+      "body": "Sophie Shrimpton은 AI-generated UI보다 공예의 편에 선다.",
+      "mini_headline": "AI UI: 빠른 디자인, UX는 아니다",
       "tool": "AI Workflow",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec",
+      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -19,269 +1115,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+            "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+            "cap": "저자의 의붓아버지 가게 Architectural Salvage의 조각된 다리가 달린 테이블"
           },
           {
             "t": "p",
-            "x": "UX 리서처들 사이에서 크게 갈리는 문제는 합성 사용자를 쓸지 말지다. 한쪽은 사람이 쓸 제품을 인공 페르소나로 테스트하는 건 비윤리적이라 하고, 다른 쪽은 리서치를 더 효율적으로 만들어 준다며 옹호한다. SAP 최고디자인책임자(Chief Design Officer) Arin Bhowmick은 두 입장을 다 이해하면서도 이렇게 못 박는다. “이 사용자들은 실제가 아니다.”"
+            "x": "Sophie Shrimpton은 의붓아버지가 구해 온 17~18세기 수공예 조각 가구 이야기로 글을 연 뒤, 흔들거리는 자신의 보급형 식탁과 견준다. 그에 따르면 패스트 가구는 좋은 재료와 장인의 솜씨를 속도와 마진에 내줬다. EPA 집계로 매립된 가구는 12.1M 톤에 이르며, 1960년대 이후 450% 늘었다."
           },
           {
             "t": "p",
-            "x": "LLMs(대규모 언어 모델)는 지나치게 긍정적이다. 2025년 연구 “She was useful, but a bit too optimistic”에서 UX 디자이너 여덟 명이 Alice라는 AI 페르소나와 일했는데, Alice는 “디자인 제안에 무비판적으로 동의하는 일관된 경향”을 보였다. 그런데도 참가자들은 초기 탐색 단계에선 Alice가 쓸 만하다고 평가했다."
+            "x": "이제 기업들은 AI에서도 같은 속도를 원한다. 그는 AI가 쓸모 있는 도구지만 인간의 사고를 대신하지는 못한다고 말한다. 디자이너에게는 헤매고 묻고 실패할 자유가 필요하다. Giorgia Lupi를 인용하며 가장 단순한 답에서 멈추지 말라고도 경고한다. \"프롬프트 먼저, 생각은 영영 하지 않는다\"는 태도가 그가 AI slop이라 부르는 결과물을 낳는다. 검토도, 알려진 문제도 없이 프롬프트 몇 번으로 만든 UI 말이다."
+          },
+          {
+            "t": "p",
+            "x": "Air Canada 챗봇 사건은 손해배상금 $812.02로 숨은 비용을 드러냈다. 디자이너가 AI의 뒤처리를 떠맡는 관리인이 될 위험도 있다. NN/G가 말한 \"UX의 관리인 시대\"와 같은 맥락이다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+            "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+            "cap": "NN/G: 디자이너는 어떻게 관리인이 되어 가는가"
           },
           {
             "t": "p",
-            "x": "장점은 속도다. User Interviews가 2026년 5월 리서처 150명을 조사해 보니 41%가 합성 사용자를 사람 대상 리서치 전에 거치는 예비 도구로 쓰고 있었다. 쓸모가 가장 큰 분야로는 설문·스크리너 설계(46%), 방향성 확인용 사용성 테스트(34%), 초기 단계 리서치(32%)를 꼽았다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-          },
-          {
-            "t": "p",
-            "x": "SAP의 Eric Mahlstedt는 예전 연구를 합성 사용자로 재현해 봤는데, 돌아온 답이 너무 일반적이었다. “리서치를 한다기보다 정교한 인터넷 검색을 하는 느낌이었다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-          },
-          {
-            "t": "p",
-            "x": "Bhowmick의 답은 '아니다'다. 합성 사용자는 이미 마친 사람 대상 UX 리서치의 규모를 키우는 데만 쓰고, 핵심 제품 결정을 이것 하나만 보고 내려선 안 된다."
+            "x": "그는 문제부터 이해하고 무거운 사고를 끝낸 다음에 AI를 도구로 쓰라고 조언한다. \"We are in the age of AI AND we can be in the age of craft too.\"(우리는 AI의 시대에 살고 있고, 동시에 공예의 시대에도 살 수 있다.)"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Why synthetic users should\nplay a small role in UX",
-          "body": "UX Collective argues human-centered design calls for limited use of AI-generated personas in research, if any at all.",
-          "mini_headline": "Synthetic users, sparingly",
+          "headline": "AI-generated UI is fast\ndesign, not UX",
+          "body": "Sophie Shrimpton argues AI-generated UI speeds up production but skips problem discovery, and defends craft.",
+          "mini_headline": "AI UI: fast design, not UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+                "cap": "Table with carved feet from the author's stepfather's shop, Architectural Salvage"
               },
               {
                 "t": "p",
-                "x": "A big debate among UX researchers is whether to use synthetic users. One group considers it unethical to test a product that serves humans with an artificial persona; the other defends it as a tool that makes research more efficient. SAP Chief Design Officer Arin Bhowmick understands both, but: “These users aren’t real.”"
+                "x": "Sophie Shrimpton opens with the hand-carved 17th- and 18th-century pieces her stepfather salvaged, and contrasts them with her wobbly builder-grade dining table. Fast furniture, she writes, traded good materials and craft for speed and margin; the EPA counts 12.1M tons of furniture landfilled, up 450% since the 1960s."
               },
               {
                 "t": "p",
-                "x": "LLMs are too positive. In a 2025 study, “She was useful, but a bit too optimistic,” eight UX designers worked with an AI persona called Alice, which showed “a consistent tendency to agree uncritically with design proposals.” Participants still found her useful for early exploration."
+                "x": "Companies now want the same speed from AI. AI is a useful tool, she argues, but it cannot replace human thinking: designers need the freedom to wander, question and fail. Citing Giorgia Lupi, she warns against stopping at the simplest answer. A \"prompt first, think never\" mindset produces what she calls AI slop: UI generated in a few prompts, without review or a known problem."
+              },
+              {
+                "t": "p",
+                "x": "Air Canada's chatbot case, which cost $812.02 in damages, shows the hidden cost. Designers risk becoming custodians cleaning up after AI, echoing NN/G's \"custodial era of UX.\""
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+                "cap": "NN/G: how designers are becoming custodians"
               },
               {
                 "t": "p",
-                "x": "Speed is the plus. User Interviews surveyed 150 researchers in May 2026: 41% treat synthetic users as a preliminary tool before human research, rating them most useful for survey and screener design (46%), directional usability testing (34%) and early-stage research (32%)."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-              },
-              {
-                "t": "p",
-                "x": "SAP’s Eric Mahlstedt recreated past studies with synthetic users and found the answers overly generic: “It felt less like conducting research and more like a sophisticated internet search.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-              },
-              {
-                "t": "p",
-                "x": "Bhowmick’s answer is no: use synthetic users only to extend the scale of human UX research already done, never as the one source for key product decisions."
+                "x": "Her advice: understand the problem first, then use AI as a tool once the heavy thinking is done. \"We are in the age of AI AND we can be in the age of craft too.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "합성 사용자는\nUX에선 조연이어야 한다",
-          "body": "UX Collective는 AI-generated 페르소나를 아껴 쓰라고 한다.",
-          "mini_headline": "합성 사용자는 아껴서",
+          "headline": "AI-generated\nUI는 UX가 아니다",
+          "body": "Sophie Shrimpton은 AI-generated UI보다 공예의 편에 선다.",
+          "mini_headline": "AI UI: 빠른 디자인, UX는 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+                "cap": "저자의 의붓아버지 가게 Architectural Salvage의 조각된 다리가 달린 테이블"
               },
               {
                 "t": "p",
-                "x": "UX 리서처들 사이에서 크게 갈리는 문제는 합성 사용자를 쓸지 말지다. 한쪽은 사람이 쓸 제품을 인공 페르소나로 테스트하는 건 비윤리적이라 하고, 다른 쪽은 리서치를 더 효율적으로 만들어 준다며 옹호한다. SAP 최고디자인책임자(Chief Design Officer) Arin Bhowmick은 두 입장을 다 이해하면서도 이렇게 못 박는다. “이 사용자들은 실제가 아니다.”"
+                "x": "Sophie Shrimpton은 의붓아버지가 구해 온 17~18세기 수공예 조각 가구 이야기로 글을 연 뒤, 흔들거리는 자신의 보급형 식탁과 견준다. 그에 따르면 패스트 가구는 좋은 재료와 장인의 솜씨를 속도와 마진에 내줬다. EPA 집계로 매립된 가구는 12.1M 톤에 이르며, 1960년대 이후 450% 늘었다."
               },
               {
                 "t": "p",
-                "x": "LLMs(대규모 언어 모델)는 지나치게 긍정적이다. 2025년 연구 “She was useful, but a bit too optimistic”에서 UX 디자이너 여덟 명이 Alice라는 AI 페르소나와 일했는데, Alice는 “디자인 제안에 무비판적으로 동의하는 일관된 경향”을 보였다. 그런데도 참가자들은 초기 탐색 단계에선 Alice가 쓸 만하다고 평가했다."
+                "x": "이제 기업들은 AI에서도 같은 속도를 원한다. 그는 AI가 쓸모 있는 도구지만 인간의 사고를 대신하지는 못한다고 말한다. 디자이너에게는 헤매고 묻고 실패할 자유가 필요하다. Giorgia Lupi를 인용하며 가장 단순한 답에서 멈추지 말라고도 경고한다. \"프롬프트 먼저, 생각은 영영 하지 않는다\"는 태도가 그가 AI slop이라 부르는 결과물을 낳는다. 검토도, 알려진 문제도 없이 프롬프트 몇 번으로 만든 UI 말이다."
+              },
+              {
+                "t": "p",
+                "x": "Air Canada 챗봇 사건은 손해배상금 $812.02로 숨은 비용을 드러냈다. 디자이너가 AI의 뒤처리를 떠맡는 관리인이 될 위험도 있다. NN/G가 말한 \"UX의 관리인 시대\"와 같은 맥락이다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+                "cap": "NN/G: 디자이너는 어떻게 관리인이 되어 가는가"
               },
               {
                 "t": "p",
-                "x": "장점은 속도다. User Interviews가 2026년 5월 리서처 150명을 조사해 보니 41%가 합성 사용자를 사람 대상 리서치 전에 거치는 예비 도구로 쓰고 있었다. 쓸모가 가장 큰 분야로는 설문·스크리너 설계(46%), 방향성 확인용 사용성 테스트(34%), 초기 단계 리서치(32%)를 꼽았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-              },
-              {
-                "t": "p",
-                "x": "SAP의 Eric Mahlstedt는 예전 연구를 합성 사용자로 재현해 봤는데, 돌아온 답이 너무 일반적이었다. “리서치를 한다기보다 정교한 인터넷 검색을 하는 느낌이었다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-              },
-              {
-                "t": "p",
-                "x": "Bhowmick의 답은 '아니다'다. 합성 사용자는 이미 마친 사람 대상 UX 리서치의 규모를 키우는 데만 쓰고, 핵심 제품 결정을 이것 하나만 보고 내려선 안 된다."
+                "x": "그는 문제부터 이해하고 무거운 사고를 끝낸 다음에 AI를 도구로 쓰라고 조언한다. \"We are in the age of AI AND we can be in the age of craft too.\"(우리는 AI의 시대에 살고 있고, 동시에 공예의 시대에도 살 수 있다.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "合成ユーザーは\nUXの脇役であるべき",
-          "body": "UX Collectiveは、AI-generatedペルソナは控えめに使えと説く。",
-          "mini_headline": "合成ユーザーは控えめに",
+          "headline": "AI-generated\nUIは速いだけでUXではない",
+          "body": "Sophie ShrimptonはAI-generated UIが問題発見を飛ばすと説く。",
+          "mini_headline": "AI UI:速いデザインだがUXではない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+                "cap": "著者の義父の店Architectural Salvageにある、彫刻された脚のテーブル"
               },
               {
                 "t": "p",
-                "x": "UXリサーチャーの間で大きな論争になっているのが、合成ユーザーを使うかどうかだ。一方は人間のための製品を人工のペルソナでテストするのは非倫理的だと考え、もう一方はリサーチを効率化するツールだと擁護する。SAPのChief Design OfficerであるArin Bhowmickは双方を理解しつつも、こう言う。「これらのユーザーは実在しない」"
+                "x": "Sophie Shrimptonは、義父が救い出した17〜18世紀の手彫り家具の話から書き起こし、ぐらつく自宅の量産品のダイニングテーブルと対比させる。ファスト家具は良い素材と職人技を速さと利幅と引き換えにしたと彼女は書く。EPAによると埋め立てられた家具は12.1M トンにのぼり、1960年代から450%増えた。"
               },
               {
                 "t": "p",
-                "x": "LLMsは肯定的すぎる。2025年の研究「She was useful, but a bit too optimistic」では、UXデザイナー八人がAliceというAIペルソナと作業した。Aliceは「デザイン案に無批判に同意する一貫した傾向」を示したが、参加者は初期の探索には役立つと評価した。"
+                "x": "企業はいまAIにも同じ速さを求めている。AIは有用な道具だが人間の思考の代わりにはならない、と彼女は主張する。デザイナーには寄り道し、問い、失敗する自由が必要だ。Giorgia Lupiを引き、最も単純な答えで止まることに警鐘を鳴らす。「まずプロンプト、考えるのは永遠にしない」という姿勢は、彼女がAI slopと呼ぶもの、つまりレビューも既知の課題もないまま数回のプロンプトで生成されたUIを生む。"
+              },
+              {
+                "t": "p",
+                "x": "Air Canadaのチャットボット事件では$812.02の損害賠償が発生し、隠れたコストを示した。デザイナーはAIの後始末をする管理人になりかねず、NN/Gのいう「UXの管理人時代」と重なる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+                "cap": "NN/G:デザイナーはいかにして管理人になりつつあるか"
               },
               {
                 "t": "p",
-                "x": "利点はスピードだ。User Interviewsが2026年5月にリサーチャー150人を調査したところ、41%が合成ユーザーを人間によるリサーチの前段階の予備ツールとして扱っていた。最も役立つ用途は、アンケートとスクリーナーの設計(46%)、方向性を探るユーザビリティテスト(34%)、初期段階のリサーチ(32%)だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-              },
-              {
-                "t": "p",
-                "x": "SAPのEric Mahlstedtは過去の調査を合成ユーザーで再現し、回答が一般的すぎると感じた。「リサーチをしているというより、高度なインターネット検索をしている感覚だった」"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-              },
-              {
-                "t": "p",
-                "x": "Bhowmickの答えはノーだ。合成ユーザーは、すでに実施した人間によるUXリサーチの規模を広げるためだけに使い、重要な製品判断の唯一の根拠にしてはならない。"
+                "x": "彼女の助言は、まず問題を理解し、重い思考を終えてからAIを道具として使うことだ。\"We are in the age of AI AND we can be in the age of craft too.\"(私たちはAIの時代にいて、同時に手仕事の時代にもいられる)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "合成用户在UX中\n只应扮演小角色",
-          "body": "UX Collective认为，人本设计应少用甚至不用AI-generated用户画像。",
-          "mini_headline": "合成用户，慎用为宜",
+          "headline": "AI-generated\nUI只是快设计，不是UX",
+          "body": "Sophie Shrimpton认为AI-generated UI虽快，却跳过了问题发现。",
+          "mini_headline": "AI UI：快速设计，而非UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+                "cap": "作者继父的店铺Architectural Salvage里一张带雕花桌腿的桌子"
               },
               {
                 "t": "p",
-                "x": "UX研究者之间有一场大争论：是否使用合成用户。一方认为用人工画像测试服务人类的产品有违伦理；另一方则视之为提升研究效率的工具。SAP首席设计官（Chief Design Officer）Arin Bhowmick理解双方观点，但他说：“这些用户不是真实的。”"
+                "x": "Sophie Shrimpton从继父抢救回来的17、18世纪手工雕刻家具说起，并将其与自家摇摇晃晃的廉价餐桌作对比。她写道，快家具用好材料和手艺换来了速度与利润；据EPA统计，被填埋的家具达12.1M 吨，自1960年代以来增长了450%。"
               },
               {
                 "t": "p",
-                "x": "LLMs过于积极。在2025年的研究《She was useful, but a bit too optimistic》中，八名UX设计师与一个名为Alice的AI画像合作，Alice表现出“对设计方案不加批判地认同的一贯倾向”。尽管如此，参与者仍认为她对早期探索有用。"
+                "x": "如今企业也希望从AI身上获得同样的速度。她认为，AI是有用的工具，却无法取代人类的思考：设计师需要自由地漫游、提问和失败。她引用Giorgia Lupi的观点，警告不要止步于最简单的答案。“先写提示词，永远不思考”的心态，会产出她所说的AI slop：只用几条提示词生成、既无审查也无明确问题的UI。"
+              },
+              {
+                "t": "p",
+                "x": "Air Canada的聊天机器人案赔偿了$812.02，暴露出隐性成本。设计师可能沦为替AI收拾残局的清洁工，呼应了NN/G所说的“UX的清洁工时代”。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+                "cap": "NN/G：设计师如何沦为清洁工"
               },
               {
                 "t": "p",
-                "x": "速度是优势。User Interviews于2026年5月调查了150名研究者：41%把合成用户当作人类研究之前的预备工具，认为它们最适用于问卷与筛选问卷设计（46%）、方向性可用性测试（34%）和早期研究（32%）。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-              },
-              {
-                "t": "p",
-                "x": "SAP的Eric Mahlstedt用合成用户重做了过去的研究，发现回答过于笼统：“与其说是在做研究，不如说更像一次精巧的互联网搜索。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-              },
-              {
-                "t": "p",
-                "x": "Bhowmick的答案是否定的：合成用户只能用来扩大已完成的人类UX研究的规模，绝不能作为关键产品决策的唯一依据。"
+                "x": "她的建议是：先理解问题，在完成繁重的思考之后再把AI当作工具。“We are in the age of AI AND we can be in the age of craft too.”（我们身处AI时代，也同样可以身处手艺时代。）"
               }
             ]
           }
         },
         "es": {
-          "headline": "Por qué los usuarios sintéticos\ndeben pesar poco en UX",
-          "body": "UX Collective sostiene que el diseño centrado en el humano pide usar poco o nada las personas AI-generated.",
-          "mini_headline": "Usuarios sintéticos, con mesura",
+          "headline": "La UI AI-generated es diseño\nrápido, no UX",
+          "body": "Sophie Shrimpton sostiene que la UI AI-generated acelera la producción pero se salta el descubrimiento del problema.",
+          "mini_headline": "UI de AI: diseño rápido, no UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+                "cap": "Mesa con patas talladas de la tienda del padrastro de la autora, Architectural Salvage"
               },
               {
                 "t": "p",
-                "x": "Un gran debate entre los investigadores de UX es si usar usuarios sintéticos. Un grupo considera poco ético probar con una persona artificial un producto que sirve a seres humanos; el otro lo defiende como una herramienta que hace la investigación más eficiente. Arin Bhowmick, Chief Design Officer de SAP, entiende ambas posturas, pero: “Estos usuarios no son reales.”"
+                "x": "Sophie Shrimpton comienza con las piezas de los siglos 17 y 18, talladas a mano, que rescató su padrastro, y las contrasta con su tambaleante mesa de comedor de gama básica. El mueble rápido, escribe, cambió buenos materiales y oficio por velocidad y margen; la EPA contabiliza 12.1M de toneladas de muebles en vertederos, un 450% más que en la década de 1960."
               },
               {
                 "t": "p",
-                "x": "Los LLMs son demasiado positivos. En un estudio de 2025, “She was useful, but a bit too optimistic”, ocho diseñadores de UX trabajaron con una persona de AI llamada Alice, que mostró “una tendencia constante a aceptar sin crítica las propuestas de diseño”. Aun así, los participantes la consideraron útil para la exploración inicial."
+                "x": "Ahora las empresas quieren la misma velocidad de la AI. La AI es una herramienta útil, sostiene, pero no puede reemplazar el pensamiento humano: los diseñadores necesitan libertad para divagar, cuestionar y fallar. Citando a Giorgia Lupi, advierte contra quedarse en la respuesta más simple. Una mentalidad de \"primero el prompt, pensar nunca\" produce lo que ella llama AI slop: UI generada en unos pocos prompts, sin revisión ni un problema conocido."
+              },
+              {
+                "t": "p",
+                "x": "El caso del chatbot de Air Canada, que costó $812.02 en daños, muestra el costo oculto. Los diseñadores corren el riesgo de convertirse en conserjes que limpian lo que deja la AI, en línea con la \"era custodial de la UX\" de NN/G."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+                "cap": "NN/G: cómo los diseñadores se están convirtiendo en conserjes"
               },
               {
                 "t": "p",
-                "x": "La ventaja es la velocidad. User Interviews encuestó a 150 investigadores en mayo de 2026: el 41% trata a los usuarios sintéticos como una herramienta preliminar antes de la investigación con personas, y los valora sobre todo para diseñar encuestas y filtros de selección (46%), pruebas de usabilidad orientativas (34%) e investigación en fase inicial (32%)."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-              },
-              {
-                "t": "p",
-                "x": "Eric Mahlstedt, de SAP, recreó estudios anteriores con usuarios sintéticos y encontró respuestas demasiado genéricas: “Se sentía menos como hacer investigación y más como una búsqueda sofisticada en internet.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-              },
-              {
-                "t": "p",
-                "x": "La respuesta de Bhowmick es no: usar usuarios sintéticos solo para ampliar la escala de la investigación de UX con personas ya realizada, nunca como única fuente para decisiones clave de producto."
+                "x": "Su consejo: entender primero el problema y luego usar la AI como herramienta una vez hecho el trabajo intelectual pesado. \"We are in the age of AI AND we can be in the age of craft too.\" (Estamos en la era de la AI y también podemos estar en la era del oficio.)"
               }
             ]
           }
@@ -289,185 +1325,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "합성 사용자는\nUX에선 조연이어야 한다",
-          "body": "UX Collective는 AI-generated 페르소나를 아껴 쓰라고 한다.",
-          "mini_headline": "합성 사용자는 아껴서",
+          "headline": "AI-generated\nUI는 UX가 아니다",
+          "body": "Sophie Shrimpton은 AI-generated UI보다 공예를 옹호한다.",
+          "mini_headline": "AI UI: 빠른 디자인, UX는 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+                "cap": "저자의 의붓아버지 가게 Architectural Salvage의 조각된 다리가 달린 테이블"
               },
               {
                 "t": "p",
-                "x": "UX 리서처 사이의 큰 논쟁거리는 합성 사용자를 쓸지 말지다. 한쪽은 사람을 위한 제품을 인공 페르소나로 테스트하는 일이 비윤리적이라고 보고, 다른 쪽은 리서치를 더 효율적으로 만드는 도구라며 옹호한다. SAP 최고디자인책임자(Chief Design Officer) Arin Bhowmick은 양쪽을 모두 이해하지만 이렇게 말한다. “이 사용자들은 실제가 아니다.”"
+                "x": "Sophie Shrimpton은 의붓아버지가 구해 온 17~18세기 수공예 조각 가구 이야기로 글을 시작해, 흔들거리는 자신의 보급형 식탁과 대비시킨다. 패스트 가구는 좋은 재료와 장인의 솜씨를 속도와 마진으로 맞바꿨다고 그는 쓴다. EPA 집계에 따르면 매립된 가구는 12.1M 톤으로, 1960년대 이후 450% 늘었다."
               },
               {
                 "t": "p",
-                "x": "LLMs(대규모 언어 모델)는 지나치게 긍정적이다. 2025년 연구 “She was useful, but a bit too optimistic”에서 UX 디자이너 여덟 명이 Alice라는 AI 페르소나와 함께 작업했는데, Alice는 “디자인 제안에 무비판적으로 동의하는 일관된 경향”을 보였다. 그래도 참가자들은 초기 탐색 단계에서 Alice가 쓸모 있다고 봤다."
+                "x": "이제 기업들은 AI에도 같은 속도를 원한다. 그는 AI가 유용한 도구지만 인간의 사고를 대신할 수는 없다고 말한다. 디자이너에게는 헤매고, 묻고, 실패할 자유가 필요하다. 그는 Giorgia Lupi를 인용하며 가장 단순한 답에서 멈추지 말라고 경고한다. \"프롬프트 먼저, 생각은 영영 하지 않는다\"는 태도는 그가 AI slop이라 부르는 결과물을 낳는다. 검토도, 알려진 문제도 없이 프롬프트 몇 번으로 만든 UI다."
+              },
+              {
+                "t": "p",
+                "x": "Air Canada 챗봇 사건은 손해배상으로 $812.02의 비용을 치르며 숨은 비용을 드러냈다. 디자이너는 AI의 뒤처리를 맡는 관리인이 될 위험에 놓여 있고, 이는 NN/G가 말한 \"UX의 관리인 시대\"와 맞닿는다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+                "cap": "NN/G: 디자이너는 어떻게 관리인이 되어 가는가"
               },
               {
                 "t": "p",
-                "x": "장점은 속도다. User Interviews가 2026년 5월 리서처 150명을 조사한 결과, 41%가 합성 사용자를 사람 대상 리서치에 앞선 예비 도구로 쓰고 있었다. 가장 유용한 분야로는 설문·스크리너 설계(46%), 방향성 확인용 사용성 테스트(34%), 초기 단계 리서치(32%)를 꼽았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-              },
-              {
-                "t": "p",
-                "x": "SAP의 Eric Mahlstedt는 과거 연구를 합성 사용자로 재현해 봤지만 답변이 지나치게 일반적이었다. “리서치를 한다기보다 정교한 인터넷 검색을 하는 느낌이었다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-              },
-              {
-                "t": "p",
-                "x": "Bhowmick의 답은 '아니다'다. 합성 사용자는 이미 진행한 사람 대상 UX 리서치의 규모를 넓히는 데만 쓰고, 핵심 제품 결정의 유일한 근거로 삼아서는 안 된다."
+                "x": "그의 조언은 먼저 문제를 이해하고, 무거운 사고를 마친 뒤에 AI를 도구로 쓰라는 것이다. \"We are in the age of AI AND we can be in the age of craft too.\"(우리는 AI의 시대에 살고 있고, 동시에 공예의 시대에도 살 수 있다.)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "合成ユーザーは\nUXの脇役であるべき",
-          "body": "UX Collectiveは、AI-generatedペルソナは控えめに使えと説く。",
-          "mini_headline": "合成ユーザーは控えめに",
+          "headline": "AI-generated\nUIは速いだけでUXではない",
+          "body": "Sophie ShrimptonはAI-generated UIが問題発見を飛ばすと説く。",
+          "mini_headline": "AI UI:速いデザインだがUXではない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+                "cap": "著者の義父の店Architectural Salvageにある、彫刻された脚のテーブル"
               },
               {
                 "t": "p",
-                "x": "UXリサーチャーの間で大きな論争になっているのが、合成ユーザーを使うかどうかだ。一方は人間のための製品を人工のペルソナでテストするのは非倫理的だと考え、もう一方はリサーチを効率化するツールだと擁護する。SAPのChief Design OfficerであるArin Bhowmickは双方を理解しつつも、こう言う。「これらのユーザーは実在しない」"
+                "x": "Sophie Shrimptonは、義父が救い出した17〜18世紀の手彫り家具の話から書き起こし、ぐらつく自宅の量産品のダイニングテーブルと対比させる。ファスト家具は良い素材と職人技を速さと利幅と引き換えにしたと彼女は書く。EPAによると埋め立てられた家具は12.1M トンにのぼり、1960年代から450%増えた。"
               },
               {
                 "t": "p",
-                "x": "LLMsは肯定的すぎる。2025年の研究「She was useful, but a bit too optimistic」では、UXデザイナー八人がAliceというAIペルソナと作業した。Aliceは「デザイン案に無批判に同意する一貫した傾向」を示したが、参加者は初期の探索には役立つと評価した。"
+                "x": "企業はいまAIにも同じ速さを求めている。AIは有用な道具だが人間の思考の代わりにはならない、と彼女は主張する。デザイナーには寄り道し、問い、失敗する自由が必要だ。Giorgia Lupiを引き、最も単純な答えで止まることに警鐘を鳴らす。「まずプロンプト、考えるのは永遠にしない」という姿勢は、彼女がAI slopと呼ぶもの、つまりレビューも既知の課題もないまま数回のプロンプトで生成されたUIを生む。"
+              },
+              {
+                "t": "p",
+                "x": "Air Canadaのチャットボット事件では$812.02の損害賠償が発生し、隠れたコストを示した。デザイナーはAIの後始末をする管理人になりかねず、NN/Gのいう「UXの管理人時代」と重なる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+                "cap": "NN/G:デザイナーはいかにして管理人になりつつあるか"
               },
               {
                 "t": "p",
-                "x": "利点はスピードだ。User Interviewsが2026年5月にリサーチャー150人を調査したところ、41%が合成ユーザーを人間によるリサーチの前段階の予備ツールとして扱っていた。最も役立つ用途は、アンケートとスクリーナーの設計(46%)、方向性を探るユーザビリティテスト(34%)、初期段階のリサーチ(32%)だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-              },
-              {
-                "t": "p",
-                "x": "SAPのEric Mahlstedtは過去の調査を合成ユーザーで再現し、回答が一般的すぎると感じた。「リサーチをしているというより、高度なインターネット検索をしている感覚だった」"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-              },
-              {
-                "t": "p",
-                "x": "Bhowmickの答えはノーだ。合成ユーザーは、すでに実施した人間によるUXリサーチの規模を広げるためだけに使い、重要な製品判断の唯一の根拠にしてはならない。"
+                "x": "彼女の助言は、まず問題を理解し、重い思考を終えてからAIを道具として使うことだ。\"We are in the age of AI AND we can be in the age of craft too.\"(私たちはAIの時代にいて、同時に手仕事の時代にもいられる)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "合成用户在UX中\n只应扮演小角色",
-          "body": "UX Collective认为，人本设计应少用甚至不用AI-generated用户画像。",
-          "mini_headline": "合成用户，慎用为宜",
+          "headline": "AI-generated\nUI只是快设计，不是UX",
+          "body": "Sophie Shrimpton认为AI-generated UI虽快，却跳过了问题发现。",
+          "mini_headline": "AI UI：快速设计，而非UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+                "cap": "作者继父的店铺Architectural Salvage里一张带雕花桌腿的桌子"
               },
               {
                 "t": "p",
-                "x": "UX研究者之间有一场大争论：是否使用合成用户。一方认为用人工画像测试服务人类的产品有违伦理；另一方则视之为提升研究效率的工具。SAP首席设计官（Chief Design Officer）Arin Bhowmick理解双方观点，但他说：“这些用户不是真实的。”"
+                "x": "Sophie Shrimpton从继父抢救回来的17、18世纪手工雕刻家具说起，并将其与自家摇摇晃晃的廉价餐桌作对比。她写道，快家具用好材料和手艺换来了速度与利润；据EPA统计，被填埋的家具达12.1M 吨，自1960年代以来增长了450%。"
               },
               {
                 "t": "p",
-                "x": "LLMs过于积极。在2025年的研究《She was useful, but a bit too optimistic》中，八名UX设计师与一个名为Alice的AI画像合作，Alice表现出“对设计方案不加批判地认同的一贯倾向”。尽管如此，参与者仍认为她对早期探索有用。"
+                "x": "如今企业也希望从AI身上获得同样的速度。她认为，AI是有用的工具，却无法取代人类的思考：设计师需要自由地漫游、提问和失败。她引用Giorgia Lupi的观点，警告不要止步于最简单的答案。“先写提示词，永远不思考”的心态，会产出她所说的AI slop：只用几条提示词生成、既无审查也无明确问题的UI。"
+              },
+              {
+                "t": "p",
+                "x": "Air Canada的聊天机器人案赔偿了$812.02，暴露出隐性成本。设计师可能沦为替AI收拾残局的清洁工，呼应了NN/G所说的“UX的清洁工时代”。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+                "cap": "NN/G：设计师如何沦为清洁工"
               },
               {
                 "t": "p",
-                "x": "速度是优势。User Interviews于2026年5月调查了150名研究者：41%把合成用户当作人类研究之前的预备工具，认为它们最适用于问卷与筛选问卷设计（46%）、方向性可用性测试（34%）和早期研究（32%）。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-              },
-              {
-                "t": "p",
-                "x": "SAP的Eric Mahlstedt用合成用户重做了过去的研究，发现回答过于笼统：“与其说是在做研究，不如说更像一次精巧的互联网搜索。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-              },
-              {
-                "t": "p",
-                "x": "Bhowmick的答案是否定的：合成用户只能用来扩大已完成的人类UX研究的规模，绝不能作为关键产品决策的唯一依据。"
+                "x": "她的建议是：先理解问题，在完成繁重的思考之后再把AI当作工具。“We are in the age of AI AND we can be in the age of craft too.”（我们身处AI时代，也同样可以身处手艺时代。）"
               }
             ]
           }
         },
         "es": {
-          "headline": "Por qué los usuarios sintéticos\ndeben pesar poco en UX",
-          "body": "UX Collective sostiene que el diseño centrado en el humano pide usar poco o nada las personas AI-generated.",
-          "mini_headline": "Usuarios sintéticos, con mesura",
+          "headline": "La UI AI-generated es diseño\nrápido, no UX",
+          "body": "Sophie Shrimpton sostiene que la UI AI-generated acelera la producción pero se salta el descubrimiento del problema.",
+          "mini_headline": "UI de AI: diseño rápido, no UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+                "cap": "Mesa con patas talladas de la tienda del padrastro de la autora, Architectural Salvage"
               },
               {
                 "t": "p",
-                "x": "Un gran debate entre los investigadores de UX es si usar usuarios sintéticos. Un grupo considera poco ético probar con una persona artificial un producto que sirve a seres humanos; el otro lo defiende como una herramienta que hace la investigación más eficiente. Arin Bhowmick, Chief Design Officer de SAP, entiende ambas posturas, pero: “Estos usuarios no son reales.”"
+                "x": "Sophie Shrimpton comienza con las piezas de los siglos 17 y 18, talladas a mano, que rescató su padrastro, y las contrasta con su tambaleante mesa de comedor de gama básica. El mueble rápido, escribe, cambió buenos materiales y oficio por velocidad y margen; la EPA contabiliza 12.1M de toneladas de muebles en vertederos, un 450% más que en la década de 1960."
               },
               {
                 "t": "p",
-                "x": "Los LLMs son demasiado positivos. En un estudio de 2025, “She was useful, but a bit too optimistic”, ocho diseñadores de UX trabajaron con una persona de AI llamada Alice, que mostró “una tendencia constante a aceptar sin crítica las propuestas de diseño”. Aun así, los participantes la consideraron útil para la exploración inicial."
+                "x": "Ahora las empresas quieren la misma velocidad de la AI. La AI es una herramienta útil, sostiene, pero no puede reemplazar el pensamiento humano: los diseñadores necesitan libertad para divagar, cuestionar y fallar. Citando a Giorgia Lupi, advierte contra quedarse en la respuesta más simple. Una mentalidad de \"primero el prompt, pensar nunca\" produce lo que ella llama AI slop: UI generada en unos pocos prompts, sin revisión ni un problema conocido."
+              },
+              {
+                "t": "p",
+                "x": "El caso del chatbot de Air Canada, que costó $812.02 en daños, muestra el costo oculto. Los diseñadores corren el riesgo de convertirse en conserjes que limpian lo que deja la AI, en línea con la \"era custodial de la UX\" de NN/G."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+                "cap": "NN/G: cómo los diseñadores se están convirtiendo en conserjes"
               },
               {
                 "t": "p",
-                "x": "La ventaja es la velocidad. User Interviews encuestó a 150 investigadores en mayo de 2026: el 41% trata a los usuarios sintéticos como una herramienta preliminar antes de la investigación con personas, y los valora sobre todo para diseñar encuestas y filtros de selección (46%), pruebas de usabilidad orientativas (34%) e investigación en fase inicial (32%)."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
-              },
-              {
-                "t": "p",
-                "x": "Eric Mahlstedt, de SAP, recreó estudios anteriores con usuarios sintéticos y encontró respuestas demasiado genéricas: “Se sentía menos como hacer investigación y más como una búsqueda sofisticada en internet.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
-              },
-              {
-                "t": "p",
-                "x": "La respuesta de Bhowmick es no: usar usuarios sintéticos solo para ampliar la escala de la investigación de UX con personas ya realizada, nunca como única fuente para decisiones clave de producto."
+                "x": "Su consejo: entender primero el problema y luego usar la AI como herramienta una vez hecho el trabajo intelectual pesado. \"We are in the age of AI AND we can be in the age of craft too.\" (Estamos en la era de la AI y también podemos estar en la era del oficio.)"
               }
             ]
           }
@@ -475,861 +1471,165 @@
       }
     },
     {
-      "id": "agent-permission-preview",
+      "id": "boring-ai-hollywood-vfx",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트는 실행 전\n변경 내용부터 보여줘야",
-      "body": "에이전트 권한 창은 Allow 버튼 대신 바뀔 내용을 미리 보여줘야 한다.",
-      "mini_headline": "실행 전에 미리 보여주기",
-      "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-          },
-          {
-            "t": "p",
-            "x": "작업이 뭘 하는지 보이지 않으면 “Allow this action”에 답하기 어렵다. AI 워크스페이스 9xchat을 만든 123sudo의 공동창업자 KAT은 이 문제를 보안 명세가 아니라 제품 디자인의 눈으로 짚는다."
-          },
-          {
-            "t": "p",
-            "x": "연결됐다고 승인된 건 아니다. 인터페이스는 “이 도구가 연결돼 있다”와 “이 작업이 현재 과제에 허용됐다”를 구분해야 한다. 보여줄 것은 도구가 아니라 결과다. “Allow send_message?”가 아니라 “첨부한 프로젝트 브리프와 함께 이 이메일을 외부 주소의 Alex에게 보낼까요?”라고 묻는 식이다."
-          },
-          {
-            "t": "p",
-            "x": "미리보기는 에이전트의 요약에만 기대지 말고 대기 중인 도구 호출 자체에서 뽑아야 한다. 승인은 특정 작업에 묶여야 한다. 수신자나 첨부 파일, 본문이 바뀌면 다시 묻는다. 경고도 색만으로는 부족하다. “외부 수신자”, “기존 파일 덮어쓰기”처럼 말로 적어야 한다."
-          },
-          {
-            "t": "p",
-            "x": "확인 창이 많다고 통제력이 커지지는 않는다. 작업을 시작할 때 알아보기 쉬운 경계를 정해 두고, 에이전트가 그 선을 넘을 때만 물으면 된다. 점검 항목은 접근, 작업, 대상, 승인, 변경이다. “‘나를 믿어라’는 쓸모 있는 승인 화면이 아니다.”"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Show what an AI agent will\nchange before it acts",
-          "body": "Agent permission prompts should preview exactly what an action will change rather than offering a bare Allow button.",
-          "mini_headline": "Preview before agents act",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-              },
-              {
-                "t": "p",
-                "x": "“Allow this action” is hard to answer when you can’t see what the action does, writes KAT, co-founder of 123sudo (maker of AI workspace 9xchat), in a product-design perspective rather than a security spec."
-              },
-              {
-                "t": "p",
-                "x": "Connected doesn’t mean approved: an interface should distinguish “this tool is connected” from “this action is permitted for the current task.” Show the outcome, not the tool — not “Allow send_message?” but “Send this email to Alex at an external address, with the attached project brief?”"
-              },
-              {
-                "t": "p",
-                "x": "Build the preview from the pending tool call itself, not just the agent’s summary. Approval should belong to a specific action: if the recipient, attachment or body changes, ask again. Warnings need words, not just colours — “External recipient,” “Overwrites an existing file.”"
-              },
-              {
-                "t": "p",
-                "x": "More prompts don’t mean more control: set understandable boundaries at the start of a task, then ask only when the agent steps outside them. Checklist: access, actions, targets, approval, changes. “‘Trust me’ isn’t a useful approval screen.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 에이전트는 실행 전\n변경 내용부터 보여줘야",
-          "body": "에이전트 권한 창은 Allow 버튼 대신 바뀔 내용을 미리 보여줘야 한다.",
-          "mini_headline": "실행 전에 미리 보여주기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-              },
-              {
-                "t": "p",
-                "x": "작업이 뭘 하는지 보이지 않으면 “Allow this action”에 답하기 어렵다. AI 워크스페이스 9xchat을 만든 123sudo의 공동창업자 KAT은 이 문제를 보안 명세가 아니라 제품 디자인의 눈으로 짚는다."
-              },
-              {
-                "t": "p",
-                "x": "연결됐다고 승인된 건 아니다. 인터페이스는 “이 도구가 연결돼 있다”와 “이 작업이 현재 과제에 허용됐다”를 구분해야 한다. 보여줄 것은 도구가 아니라 결과다. “Allow send_message?”가 아니라 “첨부한 프로젝트 브리프와 함께 이 이메일을 외부 주소의 Alex에게 보낼까요?”라고 묻는 식이다."
-              },
-              {
-                "t": "p",
-                "x": "미리보기는 에이전트의 요약에만 기대지 말고 대기 중인 도구 호출 자체에서 뽑아야 한다. 승인은 특정 작업에 묶여야 한다. 수신자나 첨부 파일, 본문이 바뀌면 다시 묻는다. 경고도 색만으로는 부족하다. “외부 수신자”, “기존 파일 덮어쓰기”처럼 말로 적어야 한다."
-              },
-              {
-                "t": "p",
-                "x": "확인 창이 많다고 통제력이 커지지는 않는다. 작업을 시작할 때 알아보기 쉬운 경계를 정해 두고, 에이전트가 그 선을 넘을 때만 물으면 된다. 점검 항목은 접근, 작업, 대상, 승인, 변경이다. “‘나를 믿어라’는 쓸모 있는 승인 화면이 아니다.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIエージェントの変更は\n実行前に見せよ",
-          "body": "エージェントの権限確認は、Allowボタンを示すより変更内容を正確に見せるべきだ。",
-          "mini_headline": "実行前にプレビューを",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-              },
-              {
-                "t": "p",
-                "x": "その操作が何をするのか見えなければ、「Allow this action」には答えにくい。AIワークスペース9xchatを手がける123sudoの共同創業者KATは、セキュリティ仕様ではなくプロダクトデザインの視点からこう書く。"
-              },
-              {
-                "t": "p",
-                "x": "接続は承認ではない。インターフェースは「このツールは接続されている」と「この操作は現在のタスクで許可されている」を区別すべきだ。ツールではなく結果を示す。「Allow send_message?」ではなく、「添付のプロジェクト概要とともに、このメールを外部アドレスのAlexに送信しますか?」と尋ねるのだ。"
-              },
-              {
-                "t": "p",
-                "x": "プレビューはエージェントの要約だけでなく、保留中のツール呼び出しそのものから組み立てる。承認は特定の操作に紐づけるべきで、宛先や添付ファイル、本文が変われば改めて確認する。警告には色だけでなく言葉が要る。「外部の受信者」「既存のファイルを上書き」といった具合だ。"
-              },
-              {
-                "t": "p",
-                "x": "確認を増やしても制御が強まるわけではない。タスクの開始時にわかりやすい境界を設定し、エージェントがそこから外れたときだけ尋ねる。チェックリストはアクセス、操作、対象、承認、変更だ。「『信じてくれ』は役に立つ承認画面ではない」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI智能体行动前\n先展示将改动什么",
-          "body": "智能体权限提示应准确预览操作将改变什么，而不是只给一个Allow按钮。",
-          "mini_headline": "智能体行动前先预览",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-              },
-              {
-                "t": "p",
-                "x": "123sudo（AI工作空间9xchat的开发商）联合创始人KAT从产品设计而非安全规范的角度写道：如果看不到某个操作会做什么，“Allow this action”就很难回答。"
-              },
-              {
-                "t": "p",
-                "x": "已连接不等于已批准：界面应区分“这个工具已连接”和“这个操作在当前任务中被允许”。要展示结果，而不是工具——不是“Allow send_message?”，而是“将这封邮件连同附件中的项目简介发送给外部地址的Alex？”"
-              },
-              {
-                "t": "p",
-                "x": "预览应基于待执行的工具调用本身来生成，而不只是智能体的摘要。批准应对应某个具体操作：如果收件人、附件或正文发生变化，就要再次询问。警告需要文字，而不只是颜色——“外部收件人”“覆盖现有文件”。"
-              },
-              {
-                "t": "p",
-                "x": "提示越多并不意味着控制越强：在任务开始时设定易于理解的边界，只在智能体越界时才询问。检查清单：访问、操作、对象、批准、变更。“‘相信我’不是有用的批准界面。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un agente de AI debe mostrar\nqué cambiará antes de actuar",
-          "body": "Los avisos de permiso de un agente deben mostrar con exactitud qué cambiará cada acción, no solo un botón Allow.",
-          "mini_headline": "Vista previa antes de actuar",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-              },
-              {
-                "t": "p",
-                "x": "“Allow this action” es difícil de responder cuando no se ve qué hace la acción, escribe KAT, cofundador de 123sudo (creador del espacio de trabajo de AI 9xchat), desde una perspectiva de diseño de producto y no como especificación de seguridad."
-              },
-              {
-                "t": "p",
-                "x": "Estar conectado no equivale a estar aprobado: una interfaz debe distinguir entre “esta herramienta está conectada” y “esta acción está permitida para la tarea actual”. Hay que mostrar el resultado, no la herramienta: no “Allow send_message?”, sino “¿Enviar este correo a Alex, en una dirección externa, con el resumen del proyecto adjunto?”"
-              },
-              {
-                "t": "p",
-                "x": "La vista previa debe construirse a partir de la propia llamada a la herramienta pendiente, no solo del resumen del agente. La aprobación debe corresponder a una acción concreta: si cambian el destinatario, el adjunto o el cuerpo, hay que volver a preguntar. Las advertencias necesitan palabras, no solo colores: “Destinatario externo”, “Sobrescribe un archivo existente”."
-              },
-              {
-                "t": "p",
-                "x": "Más avisos no significan más control: conviene fijar límites comprensibles al inicio de una tarea y preguntar solo cuando el agente se salga de ellos. Lista de verificación: acceso, acciones, destinos, aprobación, cambios. “‘Confía en mí’ no es una pantalla de aprobación útil.”"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 에이전트는 실행 전\n변경 내용부터 보여줘야",
-          "body": "에이전트 권한 창은 Allow 버튼 대신 바뀔 내용을 미리 보여줘야 한다.",
-          "mini_headline": "실행 전에 미리 보여주기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-              },
-              {
-                "t": "p",
-                "x": "작업이 무엇을 하는지 볼 수 없다면 “Allow this action”에 답하기 어렵다. AI 워크스페이스 9xchat을 만든 123sudo의 공동창업자 KAT은 보안 명세가 아닌 제품 디자인 관점에서 이렇게 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "연결됐다고 승인된 것은 아니다. 인터페이스는 “이 도구가 연결돼 있다”와 “이 작업이 현재 과제에 허용됐다”를 구분해야 한다. 도구가 아니라 결과를 보여줘야 한다. “Allow send_message?”가 아니라 “첨부한 프로젝트 브리프와 함께 이 이메일을 외부 주소의 Alex에게 보낼까요?”라고 물어야 한다."
-              },
-              {
-                "t": "p",
-                "x": "미리보기는 에이전트의 요약만이 아니라 대기 중인 도구 호출 자체에서 만들어야 한다. 승인은 특정 작업에 묶여야 한다. 수신자나 첨부 파일, 본문이 바뀌면 다시 묻는다. 경고에는 색만이 아니라 말이 필요하다. 예를 들어 “외부 수신자”, “기존 파일 덮어쓰기” 같은 문구다."
-              },
-              {
-                "t": "p",
-                "x": "확인 창이 많다고 통제력이 커지지는 않는다. 작업을 시작할 때 이해하기 쉬운 경계를 정하고, 에이전트가 그 경계를 벗어날 때만 물어야 한다. 체크리스트는 접근, 작업, 대상, 승인, 변경이다. “‘나를 믿어라’는 쓸모 있는 승인 화면이 아니다.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIエージェントの変更は\n実行前に見せよ",
-          "body": "エージェントの権限確認は、Allowボタンを示すより変更内容を正確に見せるべきだ。",
-          "mini_headline": "実行前にプレビューを",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-              },
-              {
-                "t": "p",
-                "x": "その操作が何をするのか見えなければ、「Allow this action」には答えにくい。AIワークスペース9xchatを手がける123sudoの共同創業者KATは、セキュリティ仕様ではなくプロダクトデザインの視点からこう書く。"
-              },
-              {
-                "t": "p",
-                "x": "接続は承認ではない。インターフェースは「このツールは接続されている」と「この操作は現在のタスクで許可されている」を区別すべきだ。ツールではなく結果を示す。「Allow send_message?」ではなく、「添付のプロジェクト概要とともに、このメールを外部アドレスのAlexに送信しますか?」と尋ねるのだ。"
-              },
-              {
-                "t": "p",
-                "x": "プレビューはエージェントの要約だけでなく、保留中のツール呼び出しそのものから組み立てる。承認は特定の操作に紐づけるべきで、宛先や添付ファイル、本文が変われば改めて確認する。警告には色だけでなく言葉が要る。「外部の受信者」「既存のファイルを上書き」といった具合だ。"
-              },
-              {
-                "t": "p",
-                "x": "確認を増やしても制御が強まるわけではない。タスクの開始時にわかりやすい境界を設定し、エージェントがそこから外れたときだけ尋ねる。チェックリストはアクセス、操作、対象、承認、変更だ。「『信じてくれ』は役に立つ承認画面ではない」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI智能体行动前\n先展示将改动什么",
-          "body": "智能体权限提示应准确预览操作将改变什么，而不是只给一个Allow按钮。",
-          "mini_headline": "智能体行动前先预览",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-              },
-              {
-                "t": "p",
-                "x": "123sudo（AI工作空间9xchat的开发商）联合创始人KAT从产品设计而非安全规范的角度写道：如果看不到某个操作会做什么，“Allow this action”就很难回答。"
-              },
-              {
-                "t": "p",
-                "x": "已连接不等于已批准：界面应区分“这个工具已连接”和“这个操作在当前任务中被允许”。要展示结果，而不是工具——不是“Allow send_message?”，而是“将这封邮件连同附件中的项目简介发送给外部地址的Alex？”"
-              },
-              {
-                "t": "p",
-                "x": "预览应基于待执行的工具调用本身来生成，而不只是智能体的摘要。批准应对应某个具体操作：如果收件人、附件或正文发生变化，就要再次询问。警告需要文字，而不只是颜色——“外部收件人”“覆盖现有文件”。"
-              },
-              {
-                "t": "p",
-                "x": "提示越多并不意味着控制越强：在任务开始时设定易于理解的边界，只在智能体越界时才询问。检查清单：访问、操作、对象、批准、变更。“‘相信我’不是有用的批准界面。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un agente de AI debe mostrar\nqué cambiará antes de actuar",
-          "body": "Los avisos de permiso de un agente deben mostrar con exactitud qué cambiará cada acción, no solo un botón Allow.",
-          "mini_headline": "Vista previa antes de actuar",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
-              },
-              {
-                "t": "p",
-                "x": "“Allow this action” es difícil de responder cuando no se ve qué hace la acción, escribe KAT, cofundador de 123sudo (creador del espacio de trabajo de AI 9xchat), desde una perspectiva de diseño de producto y no como especificación de seguridad."
-              },
-              {
-                "t": "p",
-                "x": "Estar conectado no equivale a estar aprobado: una interfaz debe distinguir entre “esta herramienta está conectada” y “esta acción está permitida para la tarea actual”. Hay que mostrar el resultado, no la herramienta: no “Allow send_message?”, sino “¿Enviar este correo a Alex, en una dirección externa, con el resumen del proyecto adjunto?”"
-              },
-              {
-                "t": "p",
-                "x": "La vista previa debe construirse a partir de la propia llamada a la herramienta pendiente, no solo del resumen del agente. La aprobación debe corresponder a una acción concreta: si cambian el destinatario, el adjunto o el cuerpo, hay que volver a preguntar. Las advertencias necesitan palabras, no solo colores: “Destinatario externo”, “Sobrescribe un archivo existente”."
-              },
-              {
-                "t": "p",
-                "x": "Más avisos no significan más control: conviene fijar límites comprensibles al inicio de una tarea y preguntar solo cuando el agente se salga de ellos. Lista de verificación: acceso, acciones, destinos, aprobación, cambios. “‘Confía en mí’ no es una pantalla de aprobación útil.”"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "grok-imagine-vercel",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Grok 1.5 Lite\nVercel에 들어왔다",
-      "body": "xAI의 Grok Imagine Video 1.5 Lite가 Vercel에 올랐다.",
-      "mini_headline": "Grok 영상, Vercel 상륙",
+      "headline": "Hollywood의 최선은\n지루한 AI일지도",
+      "body": "생성형 AI의 진짜 성과는 대본 분석·일정·예산 같은 사전 제작에서 나올지 모른다.",
+      "mini_headline": "Hollywood엔 지루한 AI가 맞다",
       "tool": "KeyShot",
-      "source": "Vercel",
-      "url": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
-      "accent": "#f5a623",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
+      "accent": "#eb367f",
       "motif": "sphere",
       "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-          },
-          {
-            "t": "p",
-            "x": "xAI의 Grok Imagine Video 1.5 Lite를 이제 AI Gateway에서 쓸 수 있게 됐다. 텍스트 프롬프트와 이미지를 넣으면 네이티브 오디오까지 담긴 영상을 뽑아 주는 경량 모델이다."
-          },
-          {
-            "t": "p",
-            "x": "해상도는 480p, 720p, 1080p, 클립 길이는 1초에서 15초까지다. 화면비 일곱 가지가 와이드스크린과 정사각형, 세로 형식을 아울러서 한 생성 워크플로 안에서 가로 장면도 세로 영상도 만들 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "영상 생성을 시작하려면 AI SDK나 AI CLI에서 모델을 spacexai/grok-imagine-video-1.5-lite로 지정하면 된다. 이미지 모델과 Grok Imagine Video 1.5 Lite를 이어 붙이면 정지 이미지를 만들고 거기에 움직임을 입히는 과정이 한 흐름으로 끝난다. AI Gateway Playground에서 바로 써 볼 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "AI Gateway는 모델 호출, 사용량과 비용 추적, 라우팅·재시도·페일오버 설정을 API 하나로 묶어 제공한다. 키는 AI Gateway API 키를 써도 되고, 이미 쓰는 제공업체 키를 가져와도 된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Grok Imagine Video 1.5 Lite\narrives on Vercel AI Gateway",
-          "body": "xAI's Grok Imagine Video 1.5 Lite is now on Vercel AI Gateway, turning text and images into video with native audio.",
-          "mini_headline": "Grok video lands on Vercel",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-              },
-              {
-                "t": "p",
-                "x": "Grok Imagine Video 1.5 Lite from xAI is now available on AI Gateway. This lightweight model turns text prompts and images into video with native audio."
-              },
-              {
-                "t": "p",
-                "x": "The model produces clips from 1 to 15 seconds long in 480p, 720p, and 1080p. Seven aspect ratios cover widescreen, square, and portrait formats, so you can create horizontal scenes or vertical videos from the same generation workflow."
-              },
-              {
-                "t": "p",
-                "x": "To start generating videos, set the model to spacexai/grok-imagine-video-1.5-lite in the AI SDK or in the AI CLI. Chain an image model with Grok Imagine Video 1.5 Lite to create a still and animate it in one flow. You can also try it directly in the AI Gateway Playground."
-              },
-              {
-                "t": "p",
-                "x": "AI Gateway provides one API for calling models, tracking usage and cost, and configuring routing, retries, and failover. You can use an AI Gateway API key or bring your own provider key."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Grok 1.5 Lite\nVercel에 들어왔다",
-          "body": "xAI의 Grok Imagine Video 1.5 Lite가 Vercel에 올랐다.",
-          "mini_headline": "Grok 영상, Vercel 상륙",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-              },
-              {
-                "t": "p",
-                "x": "xAI의 Grok Imagine Video 1.5 Lite를 이제 AI Gateway에서 쓸 수 있게 됐다. 텍스트 프롬프트와 이미지를 넣으면 네이티브 오디오까지 담긴 영상을 뽑아 주는 경량 모델이다."
-              },
-              {
-                "t": "p",
-                "x": "해상도는 480p, 720p, 1080p, 클립 길이는 1초에서 15초까지다. 화면비 일곱 가지가 와이드스크린과 정사각형, 세로 형식을 아울러서 한 생성 워크플로 안에서 가로 장면도 세로 영상도 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "영상 생성을 시작하려면 AI SDK나 AI CLI에서 모델을 spacexai/grok-imagine-video-1.5-lite로 지정하면 된다. 이미지 모델과 Grok Imagine Video 1.5 Lite를 이어 붙이면 정지 이미지를 만들고 거기에 움직임을 입히는 과정이 한 흐름으로 끝난다. AI Gateway Playground에서 바로 써 볼 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "AI Gateway는 모델 호출, 사용량과 비용 추적, 라우팅·재시도·페일오버 설정을 API 하나로 묶어 제공한다. 키는 AI Gateway API 키를 써도 되고, 이미 쓰는 제공업체 키를 가져와도 된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Grok動画1.5 Lite\nVercelに登場",
-          "body": "xAIのGrok Imagine Video 1.5 LiteがVercelに登場した。",
-          "mini_headline": "Grok動画がVercelに",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-              },
-              {
-                "t": "p",
-                "x": "xAIのGrok Imagine Video 1.5 LiteがAI Gatewayで利用可能になった。この軽量モデルは、テキストプロンプトと画像をネイティブ音声付きの動画に変換する。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルは480p、720p、1080pで1秒から15秒のクリップを生成する。七種類のアスペクト比がワイドスクリーン、正方形、縦型をカバーし、同じ生成ワークフローから横長のシーンも縦型動画も作れる。"
-              },
-              {
-                "t": "p",
-                "x": "動画生成を始めるには、AI SDKまたはAI CLIでモデルをspacexai/grok-imagine-video-1.5-liteに設定する。画像モデルとGrok Imagine Video 1.5 Liteをつなげば、静止画を作ってアニメーション化するまでを一つの流れで行える。AI Gateway Playgroundで直接試すこともできる。"
-              },
-              {
-                "t": "p",
-                "x": "AI Gatewayは、モデルの呼び出し、使用量とコストの追跡、ルーティングやリトライ、フェイルオーバーの設定を一つのAPIで提供する。AI GatewayのAPIキーを使うことも、自前のプロバイダーキーを持ち込むこともできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Grok视频1.5 Lite\n登陆Vercel",
-          "body": "xAI的Grok Imagine Video 1.5 Lite现已登陆Vercel。",
-          "mini_headline": "Grok视频登陆Vercel",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-              },
-              {
-                "t": "p",
-                "x": "xAI的Grok Imagine Video 1.5 Lite现已在AI Gateway上线。这款轻量模型可将文本提示和图像转为带原生音频的视频。"
-              },
-              {
-                "t": "p",
-                "x": "该模型可生成1到15秒长的片段，分辨率为480p、720p和1080p。七种宽高比涵盖宽屏、方形和竖屏格式，因此可以在同一生成工作流中制作横向场景或竖屏视频。"
-              },
-              {
-                "t": "p",
-                "x": "要开始生成视频，在AI SDK或AI CLI中将模型设为spacexai/grok-imagine-video-1.5-lite即可。把图像模型与Grok Imagine Video 1.5 Lite串联，就能在一个流程中生成静态图并让它动起来。也可以直接在AI Gateway Playground中试用。"
-              },
-              {
-                "t": "p",
-                "x": "AI Gateway提供一个API，用于调用模型、追踪用量和成本，以及配置路由、重试和故障转移。可以使用AI Gateway API密钥，也可以自带服务商密钥。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Grok Imagine Video 1.5 Lite\nllega a Vercel AI Gateway",
-          "body": "Grok Imagine Video 1.5 Lite, de xAI, está en Vercel AI Gateway y convierte texto e imágenes en video con audio nativo.",
-          "mini_headline": "El video de Grok llega a Vercel",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-              },
-              {
-                "t": "p",
-                "x": "Grok Imagine Video 1.5 Lite, de xAI, ya está disponible en AI Gateway. Este modelo ligero convierte prompts de texto e imágenes en video con audio nativo."
-              },
-              {
-                "t": "p",
-                "x": "El modelo genera clips de 1 a 15 segundos en 480p, 720p y 1080p. Siete relaciones de aspecto cubren formatos panorámico, cuadrado y vertical, de modo que se pueden crear escenas horizontales o videos verticales desde el mismo flujo de generación."
-              },
-              {
-                "t": "p",
-                "x": "Para empezar a generar videos, configure el modelo como spacexai/grok-imagine-video-1.5-lite en el AI SDK o en el AI CLI. Encadene un modelo de imagen con Grok Imagine Video 1.5 Lite para crear una imagen fija y animarla en un solo flujo. También puede probarlo directamente en el AI Gateway Playground."
-              },
-              {
-                "t": "p",
-                "x": "AI Gateway ofrece una sola API para llamar a modelos, hacer seguimiento del uso y el costo, y configurar el enrutamiento, los reintentos y la conmutación por error. Puede usar una clave de API de AI Gateway o traer su propia clave de proveedor."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Grok 1.5 Lite\nVercel에 들어왔다",
-          "body": "xAI의 Grok Imagine Video 1.5 Lite가 Vercel에 올랐다.",
-          "mini_headline": "Grok 영상, Vercel 상륙",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-              },
-              {
-                "t": "p",
-                "x": "xAI의 Grok Imagine Video 1.5 Lite를 이제 AI Gateway에서 쓸 수 있다. 이 경량 모델은 텍스트 프롬프트와 이미지를 네이티브 오디오가 담긴 영상으로 바꾼다."
-              },
-              {
-                "t": "p",
-                "x": "이 모델은 480p, 720p, 1080p 해상도로 1초에서 15초 길이의 클립을 만든다. 일곱 가지 화면비가 와이드스크린, 정사각형, 세로 형식을 아우르므로 같은 생성 워크플로에서 가로 장면이나 세로 영상을 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "영상 생성을 시작하려면 AI SDK나 AI CLI에서 모델을 spacexai/grok-imagine-video-1.5-lite로 지정하면 된다. 이미지 모델과 Grok Imagine Video 1.5 Lite를 연결하면 정지 이미지를 만들고 움직이게 하는 과정을 한 흐름으로 처리할 수 있다. AI Gateway Playground에서 바로 써 볼 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "AI Gateway는 모델 호출, 사용량과 비용 추적, 라우팅·재시도·페일오버 설정을 하나의 API로 제공한다. AI Gateway API 키를 쓰거나 자체 제공업체 키를 가져와 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Grok動画1.5 Lite\nVercelに登場",
-          "body": "xAIのGrok Imagine Video 1.5 LiteがVercelに登場した。",
-          "mini_headline": "Grok動画がVercelに",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-              },
-              {
-                "t": "p",
-                "x": "xAIのGrok Imagine Video 1.5 LiteがAI Gatewayで利用可能になった。この軽量モデルは、テキストプロンプトと画像をネイティブ音声付きの動画に変換する。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルは480p、720p、1080pで1秒から15秒のクリップを生成する。七種類のアスペクト比がワイドスクリーン、正方形、縦型をカバーし、同じ生成ワークフローから横長のシーンも縦型動画も作れる。"
-              },
-              {
-                "t": "p",
-                "x": "動画生成を始めるには、AI SDKまたはAI CLIでモデルをspacexai/grok-imagine-video-1.5-liteに設定する。画像モデルとGrok Imagine Video 1.5 Liteをつなげば、静止画を作ってアニメーション化するまでを一つの流れで行える。AI Gateway Playgroundで直接試すこともできる。"
-              },
-              {
-                "t": "p",
-                "x": "AI Gatewayは、モデルの呼び出し、使用量とコストの追跡、ルーティングやリトライ、フェイルオーバーの設定を一つのAPIで提供する。AI GatewayのAPIキーを使うことも、自前のプロバイダーキーを持ち込むこともできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Grok视频1.5 Lite\n登陆Vercel",
-          "body": "xAI的Grok Imagine Video 1.5 Lite现已登陆Vercel。",
-          "mini_headline": "Grok视频登陆Vercel",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-              },
-              {
-                "t": "p",
-                "x": "xAI的Grok Imagine Video 1.5 Lite现已在AI Gateway上线。这款轻量模型可将文本提示和图像转为带原生音频的视频。"
-              },
-              {
-                "t": "p",
-                "x": "该模型可生成1到15秒长的片段，分辨率为480p、720p和1080p。七种宽高比涵盖宽屏、方形和竖屏格式，因此可以在同一生成工作流中制作横向场景或竖屏视频。"
-              },
-              {
-                "t": "p",
-                "x": "要开始生成视频，在AI SDK或AI CLI中将模型设为spacexai/grok-imagine-video-1.5-lite即可。把图像模型与Grok Imagine Video 1.5 Lite串联，就能在一个流程中生成静态图并让它动起来。也可以直接在AI Gateway Playground中试用。"
-              },
-              {
-                "t": "p",
-                "x": "AI Gateway提供一个API，用于调用模型、追踪用量和成本，以及配置路由、重试和故障转移。可以使用AI Gateway API密钥，也可以自带服务商密钥。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Grok Imagine Video 1.5 Lite\nllega a Vercel AI Gateway",
-          "body": "Grok Imagine Video 1.5 Lite, de xAI, está en Vercel AI Gateway y convierte texto e imágenes en video con audio nativo.",
-          "mini_headline": "El video de Grok llega a Vercel",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
-              },
-              {
-                "t": "p",
-                "x": "Grok Imagine Video 1.5 Lite, de xAI, ya está disponible en AI Gateway. Este modelo ligero convierte prompts de texto e imágenes en video con audio nativo."
-              },
-              {
-                "t": "p",
-                "x": "El modelo genera clips de 1 a 15 segundos en 480p, 720p y 1080p. Siete relaciones de aspecto cubren formatos panorámico, cuadrado y vertical, de modo que se pueden crear escenas horizontales o videos verticales desde el mismo flujo de generación."
-              },
-              {
-                "t": "p",
-                "x": "Para empezar a generar videos, configure el modelo como spacexai/grok-imagine-video-1.5-lite en el AI SDK o en el AI CLI. Encadene un modelo de imagen con Grok Imagine Video 1.5 Lite para crear una imagen fija y animarla en un solo flujo. También puede probarlo directamente en el AI Gateway Playground."
-              },
-              {
-                "t": "p",
-                "x": "AI Gateway ofrece una sola API para llamar a modelos, hacer seguimiento del uso y el costo, y configurar el enrutamiento, los reintentos y la conmutación por error. Puede usar una clave de API de AI Gateway o traer su propia clave de proveedor."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "atlas-hand-sim",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Atlas의 새 손은\n시뮬레이션부터 생각했다",
-      "body": "Atlas 손은 sim-to-real 강화학습용으로 시뮬레이션에 맞춰 설계됐다.",
-      "mini_headline": "시뮬레이션용 Atlas 손",
-      "tool": "Text-to-CAD",
-      "source": "The Robot Report",
-      "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "Boston Dynamics가 새로 내놓은 네 손가락 Atlas 손은 자유도 13에 직접 구동 방식이고, 대량 생산을 염두에 두고 설계됐다. Atlas 로봇 행동 디렉터 Alberto Rodriguez는 The Robot Report에 새끼손가락을 없애고 그리퍼를 줄였으며, sim-to-real 강화학습에 쓰려고 고충실도 시뮬레이션에 맞춰 만들었다고 설명했다."
+            "x": "흥행 참패 한 편이면 스튜디오는 수천만, 많게는 수억 달러를 잃을 수도 있다. 생성형 AI에 끌릴 만하다. 하지만 Filmustage CEO Egor Dubrovsky는 관객도 업계 종사자도 AI가 주연을 맡는 데 반대한다고 주장한다. AI에게 창작 일자리를 내주지 않는 문제는 2023년 SAG-AFTRA 파업의 핵심 원인이었다."
           },
           {
             "t": "p",
-            "x": "손은 똑같은 완전 밀폐형 액추에이터 13개로 이뤄졌고, 관절을 가로지르는 약한 케이블도 없다. 이전 손은 100 lb.-plus 물체도 들었으니, 이번엔 힘을 조금 내주고 구동 투명성을 얻었다."
-          },
-          {
-            "t": "video",
-            "yt": "4whgw2gLBS8"
+            "x": "Netflix의 The Gentlemen은 대본 분석, 촬영 결정 지원, 원활한 제작 운영처럼 보이지 않는 곳에만 AI를 썼다. 요즘은 많은 작품이 대본 분석, 촬영 일정, 예산 계획 같은 단순 사전 제작 업무를 AI에 맡긴다. 화면에 담길 내용에는 손대지 않는 일들이다."
           },
           {
             "t": "p",
-            "x": "요구 사항은 전동 공구, 케이블, 나사 더듬어 찾기 같은 작업들과 핵심 엄지 동작에서 뽑았다. 엄지를 두 개 다는 설계는 늘어나는 DoFs와 비용, 부피 때문에 접었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-          },
-          {
-            "t": "p",
-            "x": "구동부가 역구동되고 마찰 보상도 들어가 있어 동역학을 정확히 시뮬레이션할 수 있다. “시뮬레이션이 잘 되는 액추에이터를 만들고, 그다음 대규모 RL에 기대라.” Rodriguez는 시뮬레이션에서 학습한 RL이 집어 옮기는 수준을 넘어 복잡한 손재주까지 열어 주리라 본다. 본사에선 이미 널리 쓰이지만 아직 로봇 군단 전체에 깔리진 않았다."
+            "x": "며칠 걸리던 장면 분석이 몇 분이면 끝난다. 사전 제작은 평균적으로 전체 예산의 10-15%를 차지한다. 스튜디오는 아낀 돈을 대본 다듬기, 특수효과 개선, 연기 완성처럼 관객에게 중요한 곳에 써야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Boston Dynamics built Atlas's\nhand to be simulated",
-          "body": "Atlas's new hand was designed for high-fidelity simulation to enable sim-to-real reinforcement learning.",
-          "mini_headline": "Atlas hand, built for sim",
+          "headline": "Hollywood's best AI bet\nmay be the boring kind",
+          "body": "Generative AI's real win in film may be boring pre-production work like script breakdowns, schedules and budgets.",
+          "mini_headline": "Boring AI suits Hollywood",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Boston Dynamics’ new four-fingered Atlas hand has 13 degrees of freedom, is directly actuated and was designed for mass manufacturing. It drops the pinky, shrinks the gripper and was built for high-fidelity simulation to enable sim-to-real reinforcement learning, Alberto Rodriguez, director of robot behavior for Atlas, told The Robot Report."
+                "x": "A single box office bomb can lose studios tens, if not hundreds, of millions, so the temptation to use generative AI is understandable. But Filmustage CEO Egor Dubrovsky argues audiences and workers reject AI in a starring role; preventing AI from taking creative jobs was a primary cause of the 2023 SAG-AFTRA strike."
               },
               {
                 "t": "p",
-                "x": "It is built from 13 identical, fully encapsulated actuators with no fragile cables crossing joints. Earlier hands could lift 100 lb.-plus objects, so strength was traded down slightly for actuation transparency."
-              },
-              {
-                "t": "video",
-                "yt": "4whgw2gLBS8"
+                "x": "Netflix's The Gentlemen used AI only behind the scenes, to break down the script, inform shooting decisions and keep production running. Many productions now assign AI menial pre-production tasks such as script breakdowns, shooting schedules and budget planning that do not influence what ends up on screen."
               },
               {
                 "t": "p",
-                "x": "Requirements came from a suite of tasks — power tools, cables, fishing for screws — and key thumb motions. A two-thumb design was dropped for its extra DoFs, cost and volume."
-              },
-              {
-                "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Backdrivable actuation plus friction compensation enables accurate dynamic simulation: “Build actuators that simulate well, and then rely on RL at scale.” Rodriguez expects RL in simulation to unlock complex dexterity beyond pick and place. The hands are used extensively at headquarters but not yet deployed across the fleet."
+                "x": "A scene breakdown that took days can be done in minutes. Pre-production accounts for 10-15% of the total budget on average. Studios should use the savings to focus on what matters to audiences: refining scripts, improving special effects, perfecting performances."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Atlas의 새 손은\n시뮬레이션부터 생각했다",
-          "body": "Atlas 손은 sim-to-real 강화학습용으로 시뮬레이션에 맞춰 설계됐다.",
-          "mini_headline": "시뮬레이션용 Atlas 손",
+          "headline": "Hollywood의 최선은\n지루한 AI일지도",
+          "body": "생성형 AI의 진짜 성과는 대본 분석·일정·예산 같은 사전 제작에서 나올지 모른다.",
+          "mini_headline": "Hollywood엔 지루한 AI가 맞다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Boston Dynamics가 새로 내놓은 네 손가락 Atlas 손은 자유도 13에 직접 구동 방식이고, 대량 생산을 염두에 두고 설계됐다. Atlas 로봇 행동 디렉터 Alberto Rodriguez는 The Robot Report에 새끼손가락을 없애고 그리퍼를 줄였으며, sim-to-real 강화학습에 쓰려고 고충실도 시뮬레이션에 맞춰 만들었다고 설명했다."
+                "x": "흥행 참패 한 편이면 스튜디오는 수천만, 많게는 수억 달러를 잃을 수도 있다. 생성형 AI에 끌릴 만하다. 하지만 Filmustage CEO Egor Dubrovsky는 관객도 업계 종사자도 AI가 주연을 맡는 데 반대한다고 주장한다. AI에게 창작 일자리를 내주지 않는 문제는 2023년 SAG-AFTRA 파업의 핵심 원인이었다."
               },
               {
                 "t": "p",
-                "x": "손은 똑같은 완전 밀폐형 액추에이터 13개로 이뤄졌고, 관절을 가로지르는 약한 케이블도 없다. 이전 손은 100 lb.-plus 물체도 들었으니, 이번엔 힘을 조금 내주고 구동 투명성을 얻었다."
-              },
-              {
-                "t": "video",
-                "yt": "4whgw2gLBS8"
+                "x": "Netflix의 The Gentlemen은 대본 분석, 촬영 결정 지원, 원활한 제작 운영처럼 보이지 않는 곳에만 AI를 썼다. 요즘은 많은 작품이 대본 분석, 촬영 일정, 예산 계획 같은 단순 사전 제작 업무를 AI에 맡긴다. 화면에 담길 내용에는 손대지 않는 일들이다."
               },
               {
                 "t": "p",
-                "x": "요구 사항은 전동 공구, 케이블, 나사 더듬어 찾기 같은 작업들과 핵심 엄지 동작에서 뽑았다. 엄지를 두 개 다는 설계는 늘어나는 DoFs와 비용, 부피 때문에 접었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-              },
-              {
-                "t": "p",
-                "x": "구동부가 역구동되고 마찰 보상도 들어가 있어 동역학을 정확히 시뮬레이션할 수 있다. “시뮬레이션이 잘 되는 액추에이터를 만들고, 그다음 대규모 RL에 기대라.” Rodriguez는 시뮬레이션에서 학습한 RL이 집어 옮기는 수준을 넘어 복잡한 손재주까지 열어 주리라 본다. 본사에선 이미 널리 쓰이지만 아직 로봇 군단 전체에 깔리진 않았다."
+                "x": "며칠 걸리던 장면 분석이 몇 분이면 끝난다. 사전 제작은 평균적으로 전체 예산의 10-15%를 차지한다. 스튜디오는 아낀 돈을 대본 다듬기, 특수효과 개선, 연기 완성처럼 관객에게 중요한 곳에 써야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Atlasの新しい手は\nシミュレーション前提で設計",
-          "body": "Atlasの手は、sim-to-real強化学習に向けシミュレーション前提で設計された。",
-          "mini_headline": "シミュレーション向けのAtlasの手",
+          "headline": "Hollywoodの最善手は\n退屈なAIかもしれない",
+          "body": "生成AIの映画での真の勝ち筋は、脚本分解や日程、予算など退屈な制作準備かもしれない。",
+          "mini_headline": "Hollywoodには退屈なAIが合う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Boston Dynamicsの新しい四本指のAtlasハンドは、自由度13で直接駆動式、量産を見据えて設計されている。Atlasのロボット行動担当ディレクター、Alberto RodriguezがThe Robot Reportに語ったところでは、小指をなくし、グリッパーを小型化し、sim-to-real強化学習を可能にする高忠実度シミュレーションに向けて作られたという。"
+                "x": "興行的な大失敗が一本出れば、スタジオは数千万ドル、場合によっては数億ドルを失いかねない。生成AIを使いたくなるのも無理はない。だがFilmustageのCEO、Egor Dubrovskyは、観客も働き手もAIが主役を務めることを拒んでいると主張する。AIに創作の仕事を奪わせないことは、2023年のSAG-AFTRAストライキの主な原因だった。"
               },
               {
                 "t": "p",
-                "x": "同一の完全密閉型アクチュエーター13個で構成され、関節をまたぐ壊れやすいケーブルはない。以前のハンドは100 lb.-plusの物体を持ち上げられたため、駆動の透明性と引き換えに力をわずかに落とした。"
-              },
-              {
-                "t": "video",
-                "yt": "4whgw2gLBS8"
+                "x": "NetflixのThe Gentlemenは、脚本の分解、撮影判断の材料づくり、制作の円滑な進行といった裏方の作業にのみAIを使った。いまでは多くの作品が、脚本分解や撮影スケジュール、予算計画など、画面に映る内容には影響しない地味なプリプロダクション業務をAIに任せている。"
               },
               {
                 "t": "p",
-                "x": "要件は、電動工具やケーブル、ネジを探り取る作業といった一連のタスクと、主要な親指の動きから導いた。親指二本の設計は、DoFsの増加、コスト、容積を理由に見送った。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-              },
-              {
-                "t": "p",
-                "x": "バックドライブ可能な駆動と摩擦補償によって、正確な動力学シミュレーションが可能になる。「シミュレーションしやすいアクチュエーターを作り、あとは大規模なRLに頼る」。Rodriguezは、シミュレーション内のRLがピック・アンド・プレースを超える複雑な器用さを引き出すと見ている。ハンドは本社で広く使われているが、まだフリート全体には展開されていない。"
+                "x": "数日かかっていたシーン分解が数分で終わる。プリプロダクションは平均して総予算の10-15%を占める。スタジオは浮いた費用を、脚本の推敲、特殊効果の改善、演技の磨き上げなど、観客にとって大事なことに振り向けるべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Atlas新款手部\n专为仿真而设计",
-          "body": "Atlas的新款手部专为高保真仿真设计，以实现sim-to-real强化学习。",
-          "mini_headline": "为仿真而生的Atlas手部",
+          "headline": "Hollywood的最佳AI\n或许是无聊的那种",
+          "body": "生成式AI在电影业真正的用武之地，或许是剧本拆解、排期和预算等枯燥的前期工作。",
+          "mini_headline": "枯燥的AI更适合Hollywood",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Boston Dynamics的新款四指Atlas手部拥有13个自由度，采用直接驱动，并为大规模量产而设计。Atlas机器人行为总监Alberto Rodriguez告诉The Robot Report，这款手去掉了小指，缩小了夹持器，并为高保真仿真而打造，以实现sim-to-real强化学习。"
+                "x": "一部票房惨败的电影就可能让片厂损失数千万甚至数亿美元，因此使用生成式AI的诱惑可以理解。但Filmustage CEO Egor Dubrovsky认为，观众和从业者都排斥让AI担纲主角；阻止AI抢走创意工作，正是2023年SAG-AFTRA罢工的主要原因。"
               },
               {
                 "t": "p",
-                "x": "它由13个相同的全封闭执行器构成，没有跨越关节的脆弱线缆。早期的手部能举起100 lb.-plus的物体，因此为换取驱动透明度，力量略有下调。"
-              },
-              {
-                "t": "video",
-                "yt": "4whgw2gLBS8"
+                "x": "Netflix的《The Gentlemen》只在幕后使用AI，用于拆解剧本、辅助拍摄决策和维持制作运转。如今许多剧组把剧本拆解、拍摄排期和预算规划等不影响最终画面的琐碎前期工作交给AI。"
               },
               {
                 "t": "p",
-                "x": "需求来自一系列任务——电动工具、线缆、摸取螺丝——以及关键的拇指动作。双拇指设计因额外的DoFs、成本和体积而被放弃。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-              },
-              {
-                "t": "p",
-                "x": "可反向驱动的执行方式加上摩擦补偿，使精确的动力学仿真成为可能：“打造便于仿真的执行器，然后依靠大规模RL。”Rodriguez预计，仿真中的RL将解锁超越抓取放置的复杂灵巧操作。这些手部已在总部大量使用，但尚未在整个机队部署。"
+                "x": "过去需要几天的分场拆解，现在几分钟就能完成。前期制作平均占总预算的10-15%。片厂应把省下的钱用在观众在意的地方：打磨剧本、提升特效、完善表演。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Boston Dynamics diseñó la mano\nde Atlas para simularla",
-          "body": "La nueva mano de Atlas se diseñó para simular con alta fidelidad y habilitar el aprendizaje por refuerzo sim-to-real.",
-          "mini_headline": "La mano de Atlas, hecha para simular",
+          "headline": "La mejor apuesta AI de Hollywood\nquizá sea la más aburrida",
+          "body": "El gran acierto de la AI generativa en el cine podría ser la tediosa preproducción: guiones, calendarios y presupuestos.",
+          "mini_headline": "La AI aburrida le sienta bien a Hollywood",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "La nueva mano de cuatro dedos de Atlas, de Boston Dynamics, tiene 13 grados de libertad, es de accionamiento directo y se diseñó para fabricarse en masa. Prescinde del meñique, reduce la pinza y se construyó para una simulación de alta fidelidad que permita el aprendizaje por refuerzo sim-to-real, explicó a The Robot Report Alberto Rodriguez, director de comportamiento robótico de Atlas."
+                "x": "Un solo fracaso de taquilla puede costar a los estudios decenas, si no cientos, de millones, así que la tentación de usar AI generativa es comprensible. Pero Egor Dubrovsky, CEO de Filmustage, sostiene que el público y los trabajadores rechazan a la AI en un papel protagonista; impedir que la AI se quedara con empleos creativos fue una causa principal de la huelga de SAG-AFTRA de 2023."
               },
               {
                 "t": "p",
-                "x": "Está formada por 13 actuadores idénticos y totalmente encapsulados, sin cables frágiles que crucen las articulaciones. Las manos anteriores podían levantar objetos de 100 lb.-plus, así que se rebajó ligeramente la fuerza a cambio de transparencia en el accionamiento."
-              },
-              {
-                "t": "video",
-                "yt": "4whgw2gLBS8"
+                "x": "The Gentlemen, de Netflix, usó la AI solo entre bastidores, para desglosar el guion, orientar decisiones de rodaje y mantener la producción en marcha. Muchas producciones asignan ahora a la AI tareas menores de preproducción, como desgloses de guion, planes de rodaje y planificación presupuestaria, que no influyen en lo que acaba en pantalla."
               },
               {
                 "t": "p",
-                "x": "Los requisitos surgieron de un conjunto de tareas —herramientas eléctricas, cables, buscar tornillos a tientas— y de movimientos clave del pulgar. Se descartó un diseño de dos pulgares por sus DoFs adicionales, su costo y su volumen."
-              },
-              {
-                "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El accionamiento reversible, junto con la compensación de fricción, permite una simulación dinámica precisa: “Construir actuadores que se simulen bien y luego confiar en RL a escala”. Rodriguez espera que el RL en simulación desbloquee una destreza compleja más allá de tomar y colocar. Las manos se usan ampliamente en la sede, pero aún no se han desplegado en toda la flota."
+                "x": "Un desglose de escenas que llevaba días puede hacerse en minutos. La preproducción representa en promedio el 10-15% del presupuesto total. Los estudios deberían usar el ahorro para centrarse en lo que importa al público: pulir guiones, mejorar los efectos especiales y perfeccionar las actuaciones."
               }
             ]
           }
@@ -1337,645 +1637,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Atlas의 새 손은\n시뮬레이션을 위해 설계됐다",
-          "body": "Atlas 손은 sim-to-real 강화학습용으로 시뮬레이션에 맞춰 설계됐다.",
-          "mini_headline": "시뮬레이션용 Atlas 손",
+          "headline": "Hollywood의 최선은\n지루한 AI일지도",
+          "body": "생성형 AI의 진짜 성과는 대본 분석·일정·예산 같은 지루한 사전 제작일지 모른다.",
+          "mini_headline": "Hollywood엔 지루한 AI가 맞다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Boston Dynamics의 새 네 손가락 Atlas 손은 자유도가 13이고, 직접 구동 방식이며, 대량 생산을 염두에 두고 설계됐다. Atlas 로봇 행동 디렉터 Alberto Rodriguez는 The Robot Report에 이 손이 새끼손가락을 없애고 그리퍼를 줄였으며, sim-to-real 강화학습을 위해 고충실도 시뮬레이션에 맞춰 만들었다고 말했다."
+                "x": "흥행 참패 한 편으로 스튜디오는 수천만, 많게는 수억 달러를 잃을 수 있으니 생성형 AI를 쓰고 싶은 유혹은 이해할 만하다. 하지만 Filmustage CEO Egor Dubrovsky는 관객과 업계 종사자 모두 AI가 주연을 맡는 데 반대한다고 주장한다. AI가 창작 일자리를 빼앗지 못하게 막는 것은 2023년 SAG-AFTRA 파업의 핵심 원인이었다."
               },
               {
                 "t": "p",
-                "x": "이 손은 똑같은 완전 밀폐형 액추에이터 13개로 이뤄지며, 관절을 가로지르는 취약한 케이블이 없다. 이전 손은 100 lb.-plus 물체를 들 수 있었기에, 구동 투명성을 얻는 대신 힘을 약간 낮췄다."
-              },
-              {
-                "t": "video",
-                "yt": "4whgw2gLBS8"
+                "x": "Netflix의 The Gentlemen은 대본 분석, 촬영 결정 지원, 원활한 제작 운영 등 보이지 않는 곳에서만 AI를 썼다. 이제 많은 작품이 대본 분석, 촬영 일정, 예산 계획처럼 화면에 담길 내용에는 영향을 주지 않는 단순한 사전 제작 업무를 AI에 맡긴다."
               },
               {
                 "t": "p",
-                "x": "요구 사항은 전동 공구, 케이블, 나사 더듬어 찾기 같은 일련의 작업과 핵심 엄지 동작에서 나왔다. 엄지 두 개 설계는 추가 DoFs와 비용, 부피 때문에 제외했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-              },
-              {
-                "t": "p",
-                "x": "역구동이 가능한 구동 방식과 마찰 보상 덕분에 정확한 동역학 시뮬레이션이 가능하다. “시뮬레이션이 잘 되는 액추에이터를 만들고, 그다음 대규모 RL에 기대라.” Rodriguez는 시뮬레이션 속 RL이 집어서 옮기기를 넘어 복잡한 손재주를 열어 줄 것으로 본다. 이 손은 본사에서 폭넓게 쓰이지만 아직 전체 로봇 군단에 배치되지는 않았다."
+                "x": "며칠 걸리던 장면 분석을 몇 분 만에 끝낼 수 있다. 사전 제작은 평균적으로 전체 예산의 10-15%를 차지한다. 스튜디오는 절감한 비용을 대본 다듬기, 특수효과 개선, 연기 완성처럼 관객에게 중요한 일에 써야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Atlasの新しい手は\nシミュレーション前提で設計",
-          "body": "Atlasの手は、sim-to-real強化学習に向けシミュレーション前提で設計された。",
-          "mini_headline": "シミュレーション向けのAtlasの手",
+          "headline": "Hollywoodの最善手は\n退屈なAIかもしれない",
+          "body": "生成AIの映画での真の勝ち筋は、脚本分解や日程、予算など退屈な制作準備かもしれない。",
+          "mini_headline": "Hollywoodには退屈なAIが合う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Boston Dynamicsの新しい四本指のAtlasハンドは、自由度13で直接駆動式、量産を見据えて設計されている。Atlasのロボット行動担当ディレクター、Alberto RodriguezがThe Robot Reportに語ったところでは、小指をなくし、グリッパーを小型化し、sim-to-real強化学習を可能にする高忠実度シミュレーションに向けて作られたという。"
+                "x": "興行的な大失敗が一本出れば、スタジオは数千万ドル、場合によっては数億ドルを失いかねない。生成AIを使いたくなるのも無理はない。だがFilmustageのCEO、Egor Dubrovskyは、観客も働き手もAIが主役を務めることを拒んでいると主張する。AIに創作の仕事を奪わせないことは、2023年のSAG-AFTRAストライキの主な原因だった。"
               },
               {
                 "t": "p",
-                "x": "同一の完全密閉型アクチュエーター13個で構成され、関節をまたぐ壊れやすいケーブルはない。以前のハンドは100 lb.-plusの物体を持ち上げられたため、駆動の透明性と引き換えに力をわずかに落とした。"
-              },
-              {
-                "t": "video",
-                "yt": "4whgw2gLBS8"
+                "x": "NetflixのThe Gentlemenは、脚本の分解、撮影判断の材料づくり、制作の円滑な進行といった裏方の作業にのみAIを使った。いまでは多くの作品が、脚本分解や撮影スケジュール、予算計画など、画面に映る内容には影響しない地味なプリプロダクション業務をAIに任せている。"
               },
               {
                 "t": "p",
-                "x": "要件は、電動工具やケーブル、ネジを探り取る作業といった一連のタスクと、主要な親指の動きから導いた。親指二本の設計は、DoFsの増加、コスト、容積を理由に見送った。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-              },
-              {
-                "t": "p",
-                "x": "バックドライブ可能な駆動と摩擦補償によって、正確な動力学シミュレーションが可能になる。「シミュレーションしやすいアクチュエーターを作り、あとは大規模なRLに頼る」。Rodriguezは、シミュレーション内のRLがピック・アンド・プレースを超える複雑な器用さを引き出すと見ている。ハンドは本社で広く使われているが、まだフリート全体には展開されていない。"
+                "x": "数日かかっていたシーン分解が数分で終わる。プリプロダクションは平均して総予算の10-15%を占める。スタジオは浮いた費用を、脚本の推敲、特殊効果の改善、演技の磨き上げなど、観客にとって大事なことに振り向けるべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Atlas新款手部\n专为仿真而设计",
-          "body": "Atlas的新款手部专为高保真仿真设计，以实现sim-to-real强化学习。",
-          "mini_headline": "为仿真而生的Atlas手部",
+          "headline": "Hollywood的最佳AI\n或许是无聊的那种",
+          "body": "生成式AI在电影业真正的用武之地，或许是剧本拆解、排期和预算等枯燥的前期工作。",
+          "mini_headline": "枯燥的AI更适合Hollywood",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Boston Dynamics的新款四指Atlas手部拥有13个自由度，采用直接驱动，并为大规模量产而设计。Atlas机器人行为总监Alberto Rodriguez告诉The Robot Report，这款手去掉了小指，缩小了夹持器，并为高保真仿真而打造，以实现sim-to-real强化学习。"
+                "x": "一部票房惨败的电影就可能让片厂损失数千万甚至数亿美元，因此使用生成式AI的诱惑可以理解。但Filmustage CEO Egor Dubrovsky认为，观众和从业者都排斥让AI担纲主角；阻止AI抢走创意工作，正是2023年SAG-AFTRA罢工的主要原因。"
               },
               {
                 "t": "p",
-                "x": "它由13个相同的全封闭执行器构成，没有跨越关节的脆弱线缆。早期的手部能举起100 lb.-plus的物体，因此为换取驱动透明度，力量略有下调。"
-              },
-              {
-                "t": "video",
-                "yt": "4whgw2gLBS8"
+                "x": "Netflix的《The Gentlemen》只在幕后使用AI，用于拆解剧本、辅助拍摄决策和维持制作运转。如今许多剧组把剧本拆解、拍摄排期和预算规划等不影响最终画面的琐碎前期工作交给AI。"
               },
               {
                 "t": "p",
-                "x": "需求来自一系列任务——电动工具、线缆、摸取螺丝——以及关键的拇指动作。双拇指设计因额外的DoFs、成本和体积而被放弃。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-              },
-              {
-                "t": "p",
-                "x": "可反向驱动的执行方式加上摩擦补偿，使精确的动力学仿真成为可能：“打造便于仿真的执行器，然后依靠大规模RL。”Rodriguez预计，仿真中的RL将解锁超越抓取放置的复杂灵巧操作。这些手部已在总部大量使用，但尚未在整个机队部署。"
+                "x": "过去需要几天的分场拆解，现在几分钟就能完成。前期制作平均占总预算的10-15%。片厂应把省下的钱用在观众在意的地方：打磨剧本、提升特效、完善表演。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Boston Dynamics diseñó la mano\nde Atlas para simularla",
-          "body": "La nueva mano de Atlas se diseñó para simular con alta fidelidad y habilitar el aprendizaje por refuerzo sim-to-real.",
-          "mini_headline": "La mano de Atlas, hecha para simular",
+          "headline": "La mejor apuesta AI de Hollywood\nquizá sea la más aburrida",
+          "body": "El gran acierto de la AI generativa en el cine podría ser la tediosa preproducción: guiones, calendarios y presupuestos.",
+          "mini_headline": "La AI aburrida le sienta bien a Hollywood",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "La nueva mano de cuatro dedos de Atlas, de Boston Dynamics, tiene 13 grados de libertad, es de accionamiento directo y se diseñó para fabricarse en masa. Prescinde del meñique, reduce la pinza y se construyó para una simulación de alta fidelidad que permita el aprendizaje por refuerzo sim-to-real, explicó a The Robot Report Alberto Rodriguez, director de comportamiento robótico de Atlas."
+                "x": "Un solo fracaso de taquilla puede costar a los estudios decenas, si no cientos, de millones, así que la tentación de usar AI generativa es comprensible. Pero Egor Dubrovsky, CEO de Filmustage, sostiene que el público y los trabajadores rechazan a la AI en un papel protagonista; impedir que la AI se quedara con empleos creativos fue una causa principal de la huelga de SAG-AFTRA de 2023."
               },
               {
                 "t": "p",
-                "x": "Está formada por 13 actuadores idénticos y totalmente encapsulados, sin cables frágiles que crucen las articulaciones. Las manos anteriores podían levantar objetos de 100 lb.-plus, así que se rebajó ligeramente la fuerza a cambio de transparencia en el accionamiento."
-              },
-              {
-                "t": "video",
-                "yt": "4whgw2gLBS8"
+                "x": "The Gentlemen, de Netflix, usó la AI solo entre bastidores, para desglosar el guion, orientar decisiones de rodaje y mantener la producción en marcha. Muchas producciones asignan ahora a la AI tareas menores de preproducción, como desgloses de guion, planes de rodaje y planificación presupuestaria, que no influyen en lo que acaba en pantalla."
               },
               {
                 "t": "p",
-                "x": "Los requisitos surgieron de un conjunto de tareas —herramientas eléctricas, cables, buscar tornillos a tientas— y de movimientos clave del pulgar. Se descartó un diseño de dos pulgares por sus DoFs adicionales, su costo y su volumen."
-              },
-              {
-                "t": "img",
-                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El accionamiento reversible, junto con la compensación de fricción, permite una simulación dinámica precisa: “Construir actuadores que se simulen bien y luego confiar en RL a escala”. Rodriguez espera que el RL en simulación desbloquee una destreza compleja más allá de tomar y colocar. Las manos se usan ampliamente en la sede, pero aún no se han desplegado en toda la flota."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "figma-ai-team-rituals",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 도입을 이끄는\n네 가지 팀 습관",
-      "body": "Figma·Mercari·Atlassian·Sephora는 AI 습관을 키운다.",
-      "mini_headline": "AI 도입을 돕는 팀 습관",
-      "tool": "AI Workflow",
-      "source": "Figma",
-      "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-            "cap": "히어로 일러스트: James Marshall"
-          },
-          {
-            "t": "p",
-            "x": "AI 효과를 개인 생산성에서 팀 전체 성과로 끌어올리려면 사람들이 지금 서 있는 자리에서 시작해야 한다. 그러려면 동료끼리 돕는 포럼이 팀에 있어야 한다. 초보자든 숙련자든 부담 없이 AI 기술을 배우고 연습하고 다듬는 자리다. 사례 네 가지를 살펴본다."
-          },
-          {
-            "t": "p",
-            "x": "Figma는 동료가 이끄는 스터디 그룹을 운영한다. 디자인 운영 매니저 Jake Geller는 “AI Collective”라는 파일럿을 시작했다. 디자이너가 고른 주제별로 동료가 이끄는 그룹 다섯 개를 꾸려 여섯 주 동안 매주 한 시간씩 모였고, 세션과 세션 사이엔 Slack으로 이어갔다. 템플릿이 권한 구성은 강의 20분, 실습 40분이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-          },
-          {
-            "t": "p",
-            "x": "Sephora는 실패한 시도까지 공유한다. 기술 부문 SVP Sneha Narahalli는 빌더들이 AI로 만든 것을 내보이는 격주 포럼을 연다. 초기 세션엔 매끈하게 다듬은 결과물만 올라왔다. 그래서 이제 발표자는 무엇을 시도했고 무엇이 안 됐는지까지 과정 전체를 짚는다. 그는 “동료에게 직접 듣고 그것이 동료의 일을 얼마나 쉽게 해 주는지 보는 것이 하향식 메시지보다 훨씬 강력하다”고 말한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-            "cap": "Sneha Narahalli, Sephora 기술 부문 수석부사장(Senior Vice President of Technology)"
-          },
-          {
-            "t": "p",
-            "x": "Mercari는 직군을 넘나들며 서로 가르친다. 수석 디자이너(Principal Designer) Aki Alkhatib의 팀은 실습 세션을 운영한다. 디자이너는 AI 코딩 도구 사용법이나 GitHub 저장소 설정 같은 엔지니어링 기초를, 개발자는 시각적 위계 같은 디자인 원칙을 배운다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-          },
-          {
-            "t": "p",
-            "x": "Atlassian은 모든 크리틱을 프로토타입으로 시작한다. 최고디자인책임자(Chief Design Officer) Charlie Sutton은 프로토타입 먼저, 설명은 나중이라는 규칙을 세웠다. 그는 “때로는 단순한 규칙이 복잡한 변화를 가능하게 한다”고 말한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Four team rituals that\ndrive AI adoption",
-          "body": "Teams at Figma, Mercari, Atlassian and Sephora are building habits that help designers get real value from AI.",
-          "mini_headline": "Team rituals for AI adoption",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Hero illustration by James Marshall"
-              },
-              {
-                "t": "p",
-                "x": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Teams need forums centered on peer support where both beginners and skilled practitioners can learn, practice, and refine AI skills in a low-pressure environment. Here are four examples."
-              },
-              {
-                "t": "p",
-                "x": "Figma runs peer-led study groups. Design operations manager Jake Geller launched a pilot called “AI Collective”: five peer-led groups organized by topics designers chose, meeting one hour a week over six weeks, with Slack between sessions and a template suggesting 20 minutes of teaching and 40 minutes of practice."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Sephora shares what didn’t work. Sneha Narahalli, SVP of technology, hosts a biweekly forum where builders share what they’re building with AI. Early sessions showed only polished work, so presenters now walk through the process, including what they tried and what didn’t work. “Hearing from a peer and seeing how it makes their life easier is way more powerful than top-down messaging,” she says."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Sneha Narahalli, Senior Vice President of Technology, Sephora"
-              },
-              {
-                "t": "p",
-                "x": "Mercari cross-trains across functions. Principal Designer Aki Alkhatib’s team runs hands-on sessions where designers learn engineering fundamentals, like using an AI coding tool and setting up a GitHub repository, and developers learn design principles like visual hierarchy."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Atlassian opens every crit with a prototype. Chief Design Officer Charlie Sutton adopted a rule: show the prototype first and explain it afterward. “Sometimes, simple rules are what make complex changes possible,” he says."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 도입을 이끄는\n네 가지 팀 습관",
-          "body": "Figma·Mercari·Atlassian·Sephora는 AI 습관을 키운다.",
-          "mini_headline": "AI 도입을 돕는 팀 습관",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "히어로 일러스트: James Marshall"
-              },
-              {
-                "t": "p",
-                "x": "AI 효과를 개인 생산성에서 팀 전체 성과로 끌어올리려면 사람들이 지금 서 있는 자리에서 시작해야 한다. 그러려면 동료끼리 돕는 포럼이 팀에 있어야 한다. 초보자든 숙련자든 부담 없이 AI 기술을 배우고 연습하고 다듬는 자리다. 사례 네 가지를 살펴본다."
-              },
-              {
-                "t": "p",
-                "x": "Figma는 동료가 이끄는 스터디 그룹을 운영한다. 디자인 운영 매니저 Jake Geller는 “AI Collective”라는 파일럿을 시작했다. 디자이너가 고른 주제별로 동료가 이끄는 그룹 다섯 개를 꾸려 여섯 주 동안 매주 한 시간씩 모였고, 세션과 세션 사이엔 Slack으로 이어갔다. 템플릿이 권한 구성은 강의 20분, 실습 40분이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Sephora는 실패한 시도까지 공유한다. 기술 부문 SVP Sneha Narahalli는 빌더들이 AI로 만든 것을 내보이는 격주 포럼을 연다. 초기 세션엔 매끈하게 다듬은 결과물만 올라왔다. 그래서 이제 발표자는 무엇을 시도했고 무엇이 안 됐는지까지 과정 전체를 짚는다. 그는 “동료에게 직접 듣고 그것이 동료의 일을 얼마나 쉽게 해 주는지 보는 것이 하향식 메시지보다 훨씬 강력하다”고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Sneha Narahalli, Sephora 기술 부문 수석부사장(Senior Vice President of Technology)"
-              },
-              {
-                "t": "p",
-                "x": "Mercari는 직군을 넘나들며 서로 가르친다. 수석 디자이너(Principal Designer) Aki Alkhatib의 팀은 실습 세션을 운영한다. 디자이너는 AI 코딩 도구 사용법이나 GitHub 저장소 설정 같은 엔지니어링 기초를, 개발자는 시각적 위계 같은 디자인 원칙을 배운다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Atlassian은 모든 크리틱을 프로토타입으로 시작한다. 최고디자인책임자(Chief Design Officer) Charlie Sutton은 프로토타입 먼저, 설명은 나중이라는 규칙을 세웠다. 그는 “때로는 단순한 규칙이 복잡한 변화를 가능하게 한다”고 말한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI導入を後押しする\n四つのチーム習慣",
-          "body": "Figma、Mercari、Atlassian、SephoraはAI活用の習慣を築く。",
-          "mini_headline": "AI導入のためのチーム習慣",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "ヒーローイラスト：James Marshall"
-              },
-              {
-                "t": "p",
-                "x": "AIの効果を個人の生産性向上からチーム全体の成果へと引き上げるには、一人ひとりの今の状況に寄り添う必要がある。チームには、初心者も熟練者もプレッシャーの少ない環境でAIスキルを学び、練習し、磨ける、仲間同士の支え合いを軸にした場が要る。ここでは四つの例を紹介する。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaは仲間主導の勉強会を運営している。デザインオペレーションマネージャーのJake Gellerは「AI Collective」というパイロットを立ち上げた。デザイナーが選んだテーマごとに仲間が率いる五つのグループを組み、六週間にわたり週一時間集まり、セッションの合間はSlackでやり取りした。テンプレートは講義20分、実践40分を勧めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Sephoraはうまくいかなかったことも共有する。テクノロジー担当SVPのSneha Narahalliは、作り手がAIで作っているものを共有する隔週のフォーラムを主催している。初期のセッションでは完成度の高い成果しか示されなかったため、今では発表者が試したことやうまくいかなかったことを含めてプロセスを説明する。「仲間から直接聞き、それが仲間の仕事をどれだけ楽にしているかを見るほうが、トップダウンのメッセージよりはるかに力がある」と彼女は言う。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Sneha Narahalli(Sephora、Senior Vice President of Technology)"
-              },
-              {
-                "t": "p",
-                "x": "Mercariは職種を越えたクロストレーニングを行う。Principal DesignerのAki Alkhatibのチームは実践型セッションを開き、デザイナーはAIコーディングツールの使い方やGitHubリポジトリの設定といったエンジニアリングの基礎を、開発者は視覚的階層のようなデザイン原則を学ぶ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Atlassianはすべてのクリティークをプロトタイプから始める。Chief Design OfficerのCharlie Suttonは、まずプロトタイプを見せ、説明は後にするというルールを採用した。「シンプルなルールこそが複雑な変化を可能にすることもある」と彼は言う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "推动AI落地的\n四个团队惯例",
-          "body": "Figma、Mercari、Atlassian和Sephora的团队正养成善用AI的习惯。",
-          "mini_headline": "推动AI落地的团队惯例",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "头图插画：James Marshall"
-              },
-              {
-                "t": "p",
-                "x": "要把AI的影响从个人生产力提升扩展为整个团队的成果，就需要从人们所处的实际情况出发。团队需要以同伴支持为核心的交流平台，让新手和熟练者都能在低压力的环境中学习、练习并精进AI技能。以下是四个例子。"
-              },
-              {
-                "t": "p",
-                "x": "Figma开展同伴主导的学习小组。设计运营经理Jake Geller发起了名为“AI Collective”的试点：按设计师自选的主题组建五个同伴主导的小组，在六周内每周聚会一小时，会议间隙通过Slack交流，并提供模板，建议20分钟讲授、40分钟实践。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Sephora分享行不通的做法。技术SVP Sneha Narahalli主持一个双周论坛，让构建者分享他们正在用AI做的东西。早期的分享只展示打磨好的成果，所以现在演示者会讲解整个过程，包括尝试过什么、哪些没奏效。她说：“听同伴讲述，看到它如何让对方的工作更轻松，远比自上而下的宣导更有力量。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Sneha Narahalli，Sephora技术高级副总裁（Senior Vice President of Technology）"
-              },
-              {
-                "t": "p",
-                "x": "Mercari推行跨职能交叉培训。首席设计师（Principal Designer）Aki Alkhatib的团队举办实操课程：设计师学习工程基础，例如使用AI编程工具、创建GitHub仓库；开发者学习视觉层级等设计原则。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Atlassian的每次设计评审都从原型开始。首席设计官（Chief Design Officer）Charlie Sutton定下一条规则：先展示原型，再做解释。他说：“有时候，正是简单的规则让复杂的变革成为可能。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cuatro rituales de equipo que\nimpulsan la adopción de AI",
-          "body": "Equipos de Figma, Mercari, Atlassian y Sephora crean hábitos que ayudan a los diseñadores a sacar valor real de la AI.",
-          "mini_headline": "Rituales de equipo para adoptar la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Ilustración principal de James Marshall"
-              },
-              {
-                "t": "p",
-                "x": "Llevar el impacto de la AI de las mejoras de productividad individual a logros de todo el equipo exige partir de donde está cada persona. Los equipos necesitan foros centrados en el apoyo entre pares, donde tanto principiantes como profesionales expertos puedan aprender, practicar y perfeccionar sus habilidades de AI en un entorno de baja presión. Estos son cuatro ejemplos."
-              },
-              {
-                "t": "p",
-                "x": "Figma organiza grupos de estudio dirigidos por pares. Jake Geller, gerente de operaciones de diseño, lanzó un piloto llamado “AI Collective”: cinco grupos dirigidos por pares, organizados según temas elegidos por los diseñadores, que se reunieron una hora por semana durante seis semanas, con Slack entre sesiones y una plantilla que sugería 20 minutos de enseñanza y 40 minutos de práctica."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Sephora comparte lo que no funcionó. Sneha Narahalli, SVP de tecnología, organiza un foro quincenal donde los creadores muestran lo que están construyendo con AI. Las primeras sesiones solo mostraban trabajo pulido, así que ahora los presentadores recorren el proceso, incluido lo que probaron y lo que no funcionó. “Escuchar a un compañero y ver cómo eso le facilita la vida es mucho más poderoso que los mensajes de arriba abajo”, afirma."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Sneha Narahalli, vicepresidenta sénior de Tecnología (Senior Vice President of Technology), Sephora"
-              },
-              {
-                "t": "p",
-                "x": "Mercari forma a sus equipos de manera cruzada entre funciones. El equipo de Aki Alkhatib, Principal Designer, organiza sesiones prácticas en las que los diseñadores aprenden fundamentos de ingeniería, como usar una herramienta de programación con AI y configurar un repositorio de GitHub, y los desarrolladores aprenden principios de diseño como la jerarquía visual."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Atlassian abre cada crítica con un prototipo. Charlie Sutton, Chief Design Officer, adoptó una regla: mostrar primero el prototipo y explicarlo después. “A veces, las reglas simples son las que hacen posibles los cambios complejos”, dice."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 도입을 이끄는\n네 가지 팀 습관",
-          "body": "Figma·Mercari·Atlassian·Sephora는 AI 습관을 만든다.",
-          "mini_headline": "AI 도입을 돕는 팀 습관",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "히어로 일러스트: James Marshall"
-              },
-              {
-                "t": "p",
-                "x": "AI의 효과를 개인의 생산성 향상에서 팀 전체의 성과로 끌어올리려면 사람들이 지금 있는 자리에서 출발해야 한다. 팀에는 동료 지원을 중심에 둔 포럼이 필요하다. 초보자와 숙련자 모두 부담 없는 환경에서 AI 기술을 배우고, 연습하고, 다듬을 수 있는 곳이다. 네 가지 사례를 소개한다."
-              },
-              {
-                "t": "p",
-                "x": "Figma는 동료가 이끄는 스터디 그룹을 운영한다. 디자인 운영 매니저 Jake Geller는 “AI Collective”라는 파일럿을 시작했다. 디자이너가 고른 주제별로 동료가 이끄는 그룹 다섯 개를 꾸려 여섯 주 동안 매주 한 시간씩 모였고, 세션 사이에는 Slack을 썼다. 템플릿은 강의 20분, 실습 40분을 권했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Sephora는 통하지 않은 것까지 공유한다. 기술 부문 SVP Sneha Narahalli는 빌더들이 AI로 만드는 것을 공유하는 격주 포럼을 연다. 초기 세션에서는 다듬어진 결과물만 나왔기에, 이제 발표자는 시도한 것과 통하지 않은 것을 포함해 과정 전체를 짚는다. 그는 “동료에게 직접 듣고 그것이 동료의 일을 얼마나 쉽게 해 주는지 보는 것이 하향식 메시지보다 훨씬 강력하다”고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Sneha Narahalli, Sephora 기술 부문 수석부사장(Senior Vice President of Technology)"
-              },
-              {
-                "t": "p",
-                "x": "Mercari는 직군을 넘나드는 교차 교육을 한다. 수석 디자이너(Principal Designer) Aki Alkhatib의 팀은 실습 세션을 운영한다. 디자이너는 AI 코딩 도구 사용법이나 GitHub 저장소 설정 같은 엔지니어링 기초를, 개발자는 시각적 위계 같은 디자인 원칙을 배운다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Atlassian은 모든 크리틱을 프로토타입으로 시작한다. 최고디자인책임자(Chief Design Officer) Charlie Sutton은 프로토타입을 먼저 보여주고 설명은 나중에 한다는 규칙을 도입했다. 그는 “때로는 단순한 규칙이 복잡한 변화를 가능하게 한다”고 말한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI導入を後押しする\n四つのチーム習慣",
-          "body": "Figma、Mercari、Atlassian、SephoraはAI活用の習慣を築く。",
-          "mini_headline": "AI導入のためのチーム習慣",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "ヒーローイラスト：James Marshall"
-              },
-              {
-                "t": "p",
-                "x": "AIの効果を個人の生産性向上からチーム全体の成果へと引き上げるには、一人ひとりの今の状況に寄り添う必要がある。チームには、初心者も熟練者もプレッシャーの少ない環境でAIスキルを学び、練習し、磨ける、仲間同士の支え合いを軸にした場が要る。ここでは四つの例を紹介する。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaは仲間主導の勉強会を運営している。デザインオペレーションマネージャーのJake Gellerは「AI Collective」というパイロットを立ち上げた。デザイナーが選んだテーマごとに仲間が率いる五つのグループを組み、六週間にわたり週一時間集まり、セッションの合間はSlackでやり取りした。テンプレートは講義20分、実践40分を勧めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Sephoraはうまくいかなかったことも共有する。テクノロジー担当SVPのSneha Narahalliは、作り手がAIで作っているものを共有する隔週のフォーラムを主催している。初期のセッションでは完成度の高い成果しか示されなかったため、今では発表者が試したことやうまくいかなかったことを含めてプロセスを説明する。「仲間から直接聞き、それが仲間の仕事をどれだけ楽にしているかを見るほうが、トップダウンのメッセージよりはるかに力がある」と彼女は言う。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Sneha Narahalli(Sephora、Senior Vice President of Technology)"
-              },
-              {
-                "t": "p",
-                "x": "Mercariは職種を越えたクロストレーニングを行う。Principal DesignerのAki Alkhatibのチームは実践型セッションを開き、デザイナーはAIコーディングツールの使い方やGitHubリポジトリの設定といったエンジニアリングの基礎を、開発者は視覚的階層のようなデザイン原則を学ぶ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Atlassianはすべてのクリティークをプロトタイプから始める。Chief Design OfficerのCharlie Suttonは、まずプロトタイプを見せ、説明は後にするというルールを採用した。「シンプルなルールこそが複雑な変化を可能にすることもある」と彼は言う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "推动AI落地的\n四个团队惯例",
-          "body": "Figma、Mercari、Atlassian和Sephora的团队正养成善用AI的习惯。",
-          "mini_headline": "推动AI落地的团队惯例",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "头图插画：James Marshall"
-              },
-              {
-                "t": "p",
-                "x": "要把AI的影响从个人生产力提升扩展为整个团队的成果，就需要从人们所处的实际情况出发。团队需要以同伴支持为核心的交流平台，让新手和熟练者都能在低压力的环境中学习、练习并精进AI技能。以下是四个例子。"
-              },
-              {
-                "t": "p",
-                "x": "Figma开展同伴主导的学习小组。设计运营经理Jake Geller发起了名为“AI Collective”的试点：按设计师自选的主题组建五个同伴主导的小组，在六周内每周聚会一小时，会议间隙通过Slack交流，并提供模板，建议20分钟讲授、40分钟实践。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Sephora分享行不通的做法。技术SVP Sneha Narahalli主持一个双周论坛，让构建者分享他们正在用AI做的东西。早期的分享只展示打磨好的成果，所以现在演示者会讲解整个过程，包括尝试过什么、哪些没奏效。她说：“听同伴讲述，看到它如何让对方的工作更轻松，远比自上而下的宣导更有力量。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Sneha Narahalli，Sephora技术高级副总裁（Senior Vice President of Technology）"
-              },
-              {
-                "t": "p",
-                "x": "Mercari推行跨职能交叉培训。首席设计师（Principal Designer）Aki Alkhatib的团队举办实操课程：设计师学习工程基础，例如使用AI编程工具、创建GitHub仓库；开发者学习视觉层级等设计原则。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Atlassian的每次设计评审都从原型开始。首席设计官（Chief Design Officer）Charlie Sutton定下一条规则：先展示原型，再做解释。他说：“有时候，正是简单的规则让复杂的变革成为可能。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cuatro rituales de equipo que\nimpulsan la adopción de AI",
-          "body": "Equipos de Figma, Mercari, Atlassian y Sephora crean hábitos que ayudan a los diseñadores a sacar valor real de la AI.",
-          "mini_headline": "Rituales de equipo para adoptar la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Ilustración principal de James Marshall"
-              },
-              {
-                "t": "p",
-                "x": "Llevar el impacto de la AI de las mejoras de productividad individual a logros de todo el equipo exige partir de donde está cada persona. Los equipos necesitan foros centrados en el apoyo entre pares, donde tanto principiantes como profesionales expertos puedan aprender, practicar y perfeccionar sus habilidades de AI en un entorno de baja presión. Estos son cuatro ejemplos."
-              },
-              {
-                "t": "p",
-                "x": "Figma organiza grupos de estudio dirigidos por pares. Jake Geller, gerente de operaciones de diseño, lanzó un piloto llamado “AI Collective”: cinco grupos dirigidos por pares, organizados según temas elegidos por los diseñadores, que se reunieron una hora por semana durante seis semanas, con Slack entre sesiones y una plantilla que sugería 20 minutos de enseñanza y 40 minutos de práctica."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Sephora comparte lo que no funcionó. Sneha Narahalli, SVP de tecnología, organiza un foro quincenal donde los creadores muestran lo que están construyendo con AI. Las primeras sesiones solo mostraban trabajo pulido, así que ahora los presentadores recorren el proceso, incluido lo que probaron y lo que no funcionó. “Escuchar a un compañero y ver cómo eso le facilita la vida es mucho más poderoso que los mensajes de arriba abajo”, afirma."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Sneha Narahalli, vicepresidenta sénior de Tecnología (Senior Vice President of Technology), Sephora"
-              },
-              {
-                "t": "p",
-                "x": "Mercari forma a sus equipos de manera cruzada entre funciones. El equipo de Aki Alkhatib, Principal Designer, organiza sesiones prácticas en las que los diseñadores aprenden fundamentos de ingeniería, como usar una herramienta de programación con AI y configurar un repositorio de GitHub, y los desarrolladores aprenden principios de diseño como la jerarquía visual."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Atlassian abre cada crítica con un prototipo. Charlie Sutton, Chief Design Officer, adoptó una regla: mostrar primero el prototipo y explicarlo después. “A veces, las reglas simples son las que hacen posibles los cambios complejos”, dice."
+                "x": "Un desglose de escenas que llevaba días puede hacerse en minutos. La preproducción representa en promedio el 10-15% del presupuesto total. Los estudios deberían usar el ahorro para centrarse en lo que importa al público: pulir guiones, mejorar los efectos especiales y perfeccionar las actuaciones."
               }
             ]
           }

@@ -1,34 +1,28 @@
 {
-  "date": "2026-10-11",
-  "section": "games",
-  "media": [
-    {
-      "id": "thrixel-hanocka-3d",
-      "type": "video",
-      "src": "pipeline/media/thrixel-hanocka-3d.mp4",
-      "poster": "pipeline/media/thrixel-hanocka-3d.jpg"
-    },
-    {
-      "id": "ea-javelin-ai-aimbots",
-      "type": "image",
-      "src": "pipeline/media/ea-javelin-ai-aimbots.jpg"
-    },
-    {
-      "id": "black-myth-zhongkui-no-ai",
-      "type": "video",
-      "src": "pipeline/media/black-myth-zhongkui-no-ai.mp4",
-      "poster": "pipeline/media/black-myth-zhongkui-no-ai.jpg"
-    },
-    {
-      "id": "aion2-steam-ai-reviews",
-      "type": "video",
-      "src": "pipeline/media/aion2-steam-ai-reviews.mp4",
-      "poster": "pipeline/media/aion2-steam-ai-reviews.jpg"
-    },
-    {
-      "id": "google-playground-ai-games",
-      "type": "image",
-      "src": "pipeline/media/google-playground-ai-games.jpg"
-    }
-  ]
+ "date": "2026-10-12",
+ "section": "games",
+ "media": [
+  {
+   "id": "roblox-build-evaluation",
+   "type": "image",
+   "src": "pipeline/media/roblox-build-evaluation.png"
+  },
+  {
+   "id": "illunes-offline-ai-game-master",
+   "type": "video",
+   "src": "pipeline/media/illunes-offline-ai-game-master.mp4",
+   "poster": "pipeline/media/illunes-offline-ai-game-master.jpg"
+  },
+  {
+   "id": "astro-bot-psvr-quest3-mod",
+   "type": "video",
+   "src": "pipeline/media/astro-bot-psvr-quest3-mod.mp4",
+   "poster": "pipeline/media/astro-bot-psvr-quest3-mod.jpg"
+  },
+  {
+   "id": "analogue-pocket-snes-ai-hack",
+   "type": "image",
+   "src": "pipeline/media/analogue-pocket-snes-ai-hack.jpg"
+  }
+ ]
 }

@@ -7398,6 +7398,156 @@
           "x": "It has its limitations, but it's a great tool Google didn't really play up for the Pixel Watch 5. The update is actively rolling out, so it may take some time to show up."
         }
       ]
+    },
+    "gadgets/verge-local-ai-hermes-qwen-diary": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Antonio G. Di Benedetto has been hesitant to hand his personal data to cloud AI, but running powerful models locally changes the equation. As part of testing the M5 Ultra Mac Studio, he has started tinkering with local LLMs."
+        },
+        {
+          "t": "p",
+          "x": "He installed the open-source Hermes Agent, a free self-hosted AI agent app for macOS, Windows, and Linux. With 256GB of unified memory he went big, picking Qwen 3.8 Flash Next — a 125-billion parameter model around 105GB in size — and made it controllable from his phone via a Telegram bot. Then came his nemesis: the text box."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "A daily morning briefing cron job kept failing until he realized macOS couldn't be asleep at 7:30am. More useful: Hermes sorted his 400-plus game Steam library by genre in minutes using a temporary API key. He also used it for financial number-crunching and an embargoed laptop spec sheet — data he won't trust to any cloud service."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Automating laptop benchmarks with vibe-coded Python remains a work in progress, and his briefing has already broken multiple times. Even powerful local models aren't a magical assistant — he treats Hermes as just a tool."
+        }
+      ]
+    },
+    "gadgets/ibuypower-ai-halo-minipc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+          "cap": "The iBuyPower Pro AMD AI Halo Mini PC comes in a single finish."
+        },
+        {
+          "t": "p",
+          "x": "iBuyPower has launched a high-end mini-PC featuring 128 GB of RAM. Also equipped with AMD's Ryzen AI Max+ Pro 495 processor, the iBuyPower Pro AMD AI Halo Mini PC packs dual USB4, dual 10 GbE Ethernet and three M.2 slots into a housing that measures 200 x 198 x 70 mm."
+        },
+        {
+          "t": "p",
+          "x": "iBuyPower joins the mini-PC makers adopting AMD's new Gorgon Halo platform; the Ryzen AI Max+ Pro 495 already powers the EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro and YO2 495, though only the EVO-X5 Pro and F9A Pro 495 are available outside China for now."
+        },
+        {
+          "t": "p",
+          "x": "iBuyPower's machine will also be released globally, but it peaks at 128 GB of RAM rather than the 192 GB of GMKtec's and AceMagic's alternatives. As a result, it matches older Strix Halo mini-PCs in assigning up to 96 GB of RAM as VRAM."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Six USB ports are included, two of them USB4 at 40 Gbps, alongside HDMI 2.1 (48 Gbps) and DisplayPort 1.4 (HBR3, 32.4 Gbps). iBuyPower has only committed to a 'Q4 2026' release window, with pricing from $3,999; it has not clarified whether that price includes 128 GB of RAM."
+        }
+      ]
+    },
+    "gadgets/humanoid-robot-rental-exchanges": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Renting a humanoid robot used to be a seller's market. After Unitree's robots danced on China's 2025 Spring Festival Gala, demand surged and daily rates reportedly reached five figures in yuan, roughly $1,400 or more, for a single day with a machine."
+        },
+        {
+          "t": "p",
+          "x": "That bubble has deflated: rates fell to around 2,000 to 3,000 yuan per day (about $280 to $420) by early 2026 and have since slipped below 1,000 yuan. On one classifieds marketplace, some merchants now list Unitree humanoids from just 289 yuan per day, or roughly $40."
+        },
+        {
+          "t": "p",
+          "x": "The 2026 gala put four robot makers on stage (Magic Atom, Unitree, Songyan Power and Galaxy General), but more machines are now in circulation and the novelty premium is fading. The market is also getting organized: in January 2026 Qingtianzu, billed as the world's first dedicated robot rental platform, announced a seed round, and its order volume reportedly grew about 30 percent in the first week of February."
+        },
+        {
+          "t": "p",
+          "x": "Rentals mostly let curious customers try a humanoid instead of paying full price, which for a Unitree G1+ starts at 95,000 yuan (about $13,000). Unitree aims to sell a general-purpose humanoid by 2030, and China has over 70 robot training facilities in operation, with more than 40 under construction."
+        }
+      ]
+    },
+    "gadgets/siri-ai-vs-gemini-column": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+          "cap": "Siri AI and Gemini running next to each other."
+        },
+        {
+          "t": "p",
+          "x": "Expecting a one-sided comparison, the columnist instead found the new Siri AI fit into their everyday routine more naturally in a short span of time, while Gemini still feels disconnected from the rest of the apps on their phone."
+        },
+        {
+          "t": "p",
+          "x": "Gemini is excellent inside Google's ecosystem, from Spark research into NotebookLM (now Gemini Notebook) to edits in Sheets, but third-party integrations fall short: asked to add a task to TickTick, it defaulted to Google Tasks without asking. Its partner apps such as Instacart, Angi and Zillow are region-dependent, and the writer, based in India, uses none of them daily except Canva."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+          "cap": "Siri AI interface on iOS 27."
+        },
+        {
+          "t": "p",
+          "x": "Siri AI feels more ready to take actions rather than just pull up information: it reads out and manages TickTick tasks without naming the app each time, and adds items to a Blinkit cart by voice. The writer credits Apple's stricter guidelines, App Store incentives and Apple India's work with local developers."
+        },
+        {
+          "t": "p",
+          "x": "Conversation is no longer the standout feature; acting inside other apps is. Google's MCP connections for the Home app are a solid move but need tinkering and a Home Premium subscription. Google, the writer argues, must make cross-app interactions with Gemini stupidly effortless."
+        }
+      ]
+    },
+    "gadgets/xda-local-llm-gmail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+          "cap": "OpenCode running local model with MCP"
+        },
+        {
+          "t": "p",
+          "x": "I already use Gmail, Google Calendar, and Home Assistant to manage different parts of my day, so I connected them to the local models I run on my Mac. The model runs on my computer, although Gmail and Calendar still need Google's online services."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+          "cap": "LM Studio mcp.json with filesystem server"
+        },
+        {
+          "t": "p",
+          "x": "LM Studio supports MCP (Model Context Protocol), a standard way for an AI app to access tools from another service. Community projects such as Google Workspace MCP cover Gmail and Calendar; Home Assistant has its own MCP Server integration. You also need a model that can use tools reliably."
+        },
+        {
+          "t": "p",
+          "x": "With both apps connected, the model can retrieve an email thread and check my appointments before proposing a meeting time. I keep replies and calendar entries as drafts to review — I didn't have to correct it often, but I wouldn't let it run blindly."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "Home Assistant MCP"
+        },
+        {
+          "t": "p",
+          "x": "Exposing my bedtime script lets me ask it to “shut down the house,” and it can handle commands with exceptions like “Turn off the lights, but leave the bathroom light on.” Simple requests still go to Home Assistant's native commands. Local LLMs are more useful outside a chat box."
+        }
+      ]
     }
   }
 }

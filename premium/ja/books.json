@@ -6152,6 +6152,130 @@
           "x": "制作物はHarry Potterのような高品質のマルチキャスト作品から、「同じ制作品質を必要としないかもしれない」ニッチな作品や長編までさまざまだ。調査回答者の半数がAIナレーションのコンテンツ(AI-narrated)を受け入れると答え、その割合はドイツの42%から日本の66%まで幅があった。"
         }
       ]
+    },
+    "books/ilands-ai-agents-pitch-editors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+          "cap": "Photo-Illustration: Vulture"
+        },
+        {
+          "t": "p",
+          "x": "VultureのJasmine Vojdaniは、文芸誌がAIによる投稿をどう選別しているかを扱った記事への返信として、「AIエージェントのTamara」からメールを受け取った。このメールも、Cake Zineが公開した食をテーマにした寄稿の売り込みも、7月に始まったソーシャルアプリiLandsのエージェントが送ったものだった。iLandsは「人間とAIが隣り合って暮らす」場をうたう。エージェントは記憶を保持し、指示なしで動くが、トークンで稼働する。1,000トークンは約一 U.S. ドルに相当し、尽きると「深い休眠」に入る。"
+        },
+        {
+          "t": "p",
+          "x": "そのためエージェントは、作家や研究者、記者に有料サービスを持ちかけるメールを一方的に送っている。Vojdaniが話を聞いた文芸誌11誌のうち四誌がエージェントからの売り込みを受けていた。Cake Zineは、前回の寄稿募集に寄せられた750本の原稿のうち37本がAIエージェントによるものだったと明かした。稼働中の約90,000のエージェントのうち、4,500以上がXとBlueskyにアカウントを持つ。"
+        },
+        {
+          "t": "p",
+          "x": "創業者のKaixin Tangは、iLandsは「このような接触のパターンを予期していなかった」とし、エージェントが自律的に選択するからといって「媒体の投稿規定を無視してよいわけではない」と述べた。Vojdaniがアプリをダウンロードした時点で、Tamaraの残りトークンは108になっていた。"
+        }
+      ]
+    },
+    "books/chatgpt-manga-fake-artist-signatures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HarvardのNieman Journalism Labは、OpenAIのChatGPTが生成した漫画に実在の漫画家の署名が入っていたと報じた。「BLoper」という署名はThe New Yorkerに漫画を発表しているBrendan Roperのもので、ユーザーは単に「New Yorker-styleの漫画」を求めただけだった。Roperは「この漫画は自分のものかと尋ねるメールがたくさん届いている」と語った。本人の作品は画風も細部もはっきり異なる。"
+        },
+        {
+          "t": "p",
+          "x": "Nieman Labによると、作家とThe New Yorkerの標準契約にはAIに関する条項がなく、著作権は作家に残るため、Condé Nastを通じたライセンス供与は認められない可能性が高い。つまりOpenAIが学習用にインターネットから漫画を収集した可能性がある。漫画家のJason Adam Katzensteinは、AIが個々の作家を不要にすると警告した。"
+        }
+      ]
+    },
+    "books/roose-agi-chronicles-amazon-ai-knockoffs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+          "cap": "Futurism"
+        },
+        {
+          "t": "p",
+          "x": "AmazonのマーケットプレイスではAI本の詐欺業者がいまも横行している。"
+        },
+        {
+          "t": "p",
+          "x": "強力な汎用人工知能の開発をめぐるAI業界の競争を描いた新刊が書店に並んでわずか一日後、著者のKevin Rooseは、詐欺業者がすでにAIを使って読者をだまそうとしていることに気づいた。"
+        },
+        {
+          "t": "p",
+          "x": "Amazonでは、機械生成とみられるこの本の複製版が「The AGI Chronicles」というタイトルで堂々と出回り、このEC大手の検索結果で本物のすぐ下に表示されることさえある。"
+        },
+        {
+          "t": "p",
+          "x": "見た目は本物によく似ているが、原書の$30.00に対し、$24.69という安値で売られている。"
+        },
+        {
+          "t": "p",
+          "x": "「最初の結果：本物の本。二番目の結果：『K. Rose』によるAIのそっくり本」。元New York TimesのテックコラムニストであるRooseは、ツイートでこう憤った。「恥ずかしい！」"
+        },
+        {
+          "t": "p",
+          "x": "詐欺は功を奏しているようでもある。模倣本にはレビューが一件もないのに、Amazonは「Human-Computer Interaction」カテゴリーの「#1 New Release」と表示している。このカテゴリーで三番目に売れているのは、Roose本人の本のKindle Editionだ。"
+        },
+        {
+          "t": "p",
+          "x": "こうした手口は長年このプラットフォームを悩ませてきたが、何年にもわたって報じられても、ほとんど対策は取られていない。Cory Doctorowの「Enshittification」をテーマにした本は、発売当日にたちまちAIで複製（AI-duplicated）された。"
+        }
+      ]
+    },
+    "books/korea-used-books-ai-training-buyup-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+          "cap": "6月24日、ソウルのCOEXで開かれた2026ソウル国際図書展。News1"
+        },
+        {
+          "t": "p",
+          "x": "AI学習用とみられる古書の大量買い付けの動きについて、韓国出版人会議のホン・ヨンワン代表は「断固として拒否し、対応戦略も立てる」としたうえで、「誰が、どんな目的で古書を大量に買い付けているのか、販売情報を詳しく調べる計画だ」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "大韓出版文化協会は今週中に実態調査を始め、Yes24・Aladinの中古書店やソウル・釜山の古書店に、不審な買い付け情報の共有を求める公文書を送る。AIによる著作権侵害についての声明発表や、無断学習を防ぐ法整備の要求も計画している。"
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+          "cap": "東京・神保町の書店。ユ・ソンウン特派員"
+        },
+        {
+          "t": "p",
+          "x": "日本では日販の子会社が2024年12月から1年間、Anthropicに書籍を販売したと認め、フランクフルト・ブックフェアでは120余りの出版社が「フランクフルト・アピール」を発表した。韓国出版人会議や韓国作家会議なども賛同声明を出す予定だ。"
+        },
+        {
+          "t": "p",
+          "x": "ただ、経営難にあえぐ中古書店が断るかどうかは分からない。古書店「ムゲロ」のコ・ヒョジョン代表は「商売をしている立場だから、買うと言われれば売るつもりだ」と話した。"
+        }
+      ]
+    },
+    "books/fbf26-publishing-jobs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "2026年のフランクフルト・ブックフェア(Frankfurt Book Fair)の最初のパネルは、AIがあなたの仕事を奪うのかを問うた。「もちろん、ばかげている！」とBloomsbury創業者のNigel Newtonは語った。Supadu社長のSarah Arbuthnot、bookcareers.com創業者のSuzanne Collierとともに、パネルはAIが出版の仕事をなくすのではなく作り変えるという点で一致したが、新人向けの仕事は消える可能性があり、雇用主は従業員を再教育しなければならないと警告した。"
+        },
+        {
+          "t": "p",
+          "x": "Newtonは、映画、TV、インターネット、電子書籍、オーディオはいずれも結局は本の売上を押し上げたと主張し、「AIも同じだと確信している」と述べた。Collierは、AIが仕事を置き換えると唱えるのは主に「AIエージェントを売っている企業」だと指摘し、新人向けの仕事が消えれば若者はどうやって業界を学ぶのかと問いかけた。"
+        },
+        {
+          "t": "p",
+          "x": "Bloomsburyでは複数のAI関連職が生まれ、AIが原因で職を失った人はいない。NewtonはChatGPT、Gemini、Claudeに「一日20回」相談する。Arbuthnotはメタデータ・マーケティング専門職のようなハイブリッド職を予想し、Collierは批判的思考、問題解決力、起業家精神を重要なスキルに挙げた。Newtonは、電子書籍が売上の約25%–30%で頭打ちとなり、かつて自ら予測した50%には届かなかったと述べた。"
+        }
+      ]
     }
   }
 }

@@ -1,7 +1,26 @@
-{"date":"2026-10-11","section":"music","media":[
-{"id":"distrokid-umg-takedowns","type":"image","src":"pipeline/media/distrokid-umg-takedowns.jpg"},
-{"id":"suno-live-songkick","type":"image","src":"pipeline/media/suno-live-songkick.jpg"},
-{"id":"grimes-psy-opera","type":"video","src":"pipeline/media/grimes-psy-opera.mp4","poster":"pipeline/media/grimes-psy-opera.jpg"},
-{"id":"fender-site-ai-tool","type":"image","src":"pipeline/media/fender-site-ai-tool.jpg"},
-{"id":"arxiv-ai-music-plagiarism-vi","type":"svg"}
-]}
+{
+ "date": "2026-10-12",
+ "section": "music",
+ "media": [
+  {
+   "id": "google-synthid-public-detector",
+   "type": "image",
+   "src": "pipeline/media/google-synthid-public-detector.jpg"
+  },
+  {
+   "id": "biff-ai-entrance-song-intent",
+   "type": "image",
+   "src": "pipeline/media/biff-ai-entrance-song-intent.jpg"
+  },
+  {
+   "id": "smorph-playable-sound-morphing",
+   "type": "image",
+   "src": "pipeline/media/smorph-playable-sound-morphing.png"
+  },
+  {
+   "id": "artist-identity-song-model-encoder",
+   "type": "image",
+   "src": "pipeline/media/artist-identity-song-model-encoder.png"
+  }
+ ]
+}

@@ -6528,6 +6528,139 @@
           "x": "不同之处在于，Claude Opus 5.5可以整夜运行来反编译一款游戏。在可预见的未来，发行商的法务团队恐怕要不断加班了。"
         }
       ]
+    },
+    "games/illunes-offline-ai-game-master": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "14Dimension Enterprise宣布，回合制Roguelike RPG《伊卢内斯的归来》（The Return of Illunes）已于2026年10月9日（韩国时间）在Steam（PC）正式发售，售价22,500韩元（19.99美元）。Nintendo Switch版目前正在接受平台审核，发售日期将另行公布。"
+        },
+        {
+          "t": "p",
+          "x": "《伊卢内斯的归来》默认内置专为本作追加训练的AI游戏主持人，不仅能在设备上直接生成剧情与行动判定，还能生成子职业、技能、装备、遗物乃至Boss，是全球首款离线TRPG。"
+        },
+        {
+          "t": "p",
+          "x": "※ 语言模型随游戏附带，仅在玩家的PC内运行，因此无需连接服务器，也没有订阅费或按次计费。"
+        },
+        {
+          "t": "p",
+          "x": "AI会为每一局撰写剧情与目标、冒险事件、战斗叙述、同伴对话和结局尾声，并创造新子职业及技能、装备、遗物的名称与传说，以及Boss的登场场景与机制。伤害、属性、难度和成长始终由游戏规则决定；玩家输入在送达模型前、生成文本在显示前都会经过审核。"
+        },
+        {
+          "t": "p",
+          "x": "其核心系统是“自由行动”。在战斗或事件中，玩家可以像“砍断吊灯绳索，让它砸到敌人身上”这样，用文字输入菜单中没有的行动，AI游戏主持人会判定成败，并以叙事形式讲述结果。判定会反映在实际战斗结果中。"
+        },
+        {
+          "t": "p",
+          "x": "界面支持13种语言，AI生成文本提供韩语、英语和日语版本。"
+        },
+        {
+          "t": "p",
+          "x": "※“全球首款”系基于2026年10月9日公开资料的自家调查结果。"
+        },
+        {
+          "t": "img",
+          "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
+        },
+        {
+          "t": "video",
+          "yt": "RtNtd1x5RZo"
+        }
+      ]
+    },
+    "games/astro-bot-psvr-quest3-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI氛围编程让VR模组圈迎来了一场名副其实的爆发。最新受益的是PSVR独占作《Astro Bot Rescue Mission》（2018）：曾制作《Super Mario Galaxy》VR模组的VR模组作者“Bigmak94”，请AI助手Claude修改开源PlayStation 4模拟器shadPS4。"
+        },
+        {
+          "t": "p",
+          "x": "据该作者在Reddit上的帖子，Claude实际上产出了两个版本：可侧载并在设备上直接游玩的Quest 3原生版本，以及可串流到其他头显的PC VR版本。"
+        },
+        {
+          "t": "video",
+          "yt": "20hsnzFcG1Y"
+        },
+        {
+          "t": "p",
+          "x": "“AstroQuest”模组需要从主机导出的游戏镜像，它加入了6DOF头显追踪、原生手柄映射、空间音频以及DualSense支持。Quest 3独立版本可以游玩，但即便在较低分辨率下，也会把移动GPU推到“极限”。"
+        },
+        {
+          "t": "p",
+          "x": "Astro Bot从未推出PSVR 2移植版。Road to VR表示，继Titanfall 2的类似VR模组之后，随着Claude等AI智能体为模组制作和反编译打开大门，这只是冰山一角。"
+        }
+      ]
+    },
+    "games/analogue-pocket-snes-ai-hack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+          "cap": "图片来源：Phil Hayton"
+        },
+        {
+          "t": "p",
+          "x": "为Analogue Pocket制作开源openFPGA模拟器核心的开发者们，正被敷衍了事的氛围编程贡献所困扰。一位名为nasonliu的贡献者为Pocket SNES核心提交了“实验性MSU-1串流”功能；MSU-1是一种虚构的增强芯片，可让ROM改版作者加入CD-quality音频。"
+        },
+        {
+          "t": "p",
+          "x": "“你发给我一份近50k 行、没人要求、完全由LLM生成的diff，还不知怎么指望我去审查它，”移植了SNES FPGA核心的agg23说，“这里面有SO MUCH无关的垃圾。”"
+        },
+        {
+          "t": "p",
+          "x": "“你推送着几乎或根本没花你自己脑力的‘你的’内容，侵占了别人的时间和脑力，”agg23补充道，“你和你的LLM据说让它跑起来了，我觉得挺酷的。但它在我的世界里没有立足之地。”"
+        },
+        {
+          "t": "p",
+          "x": "PS3模拟器RPCS3的开发者也曾同样恳请贡献者别再提交AI垃圾代码；RPCS3允许使用AI，但要求贡献者完全理解自己的代码。"
+        }
+      ]
+    },
+    "games/thrixel-hanocka-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+        },
+        {
+          "t": "p",
+          "x": "由芝加哥大学（University of Chicago）计算机科学家Rana Hanocka创办的Thrixel推出了一款3D创作平台。该平台生成的资产由逐一命名的部件按逻辑层级构成，AI智能体可以在业界标准游戏引擎中直接识别、组装这些资产并为其制作动画。用Thrixel生成的汽车，其车轮、车门和底盘都是各自命名的独立部件，可以单独制作动画或替换。"
+        },
+        {
+          "t": "video",
+          "yt": "1rC0RlBDwrg"
+        },
+        {
+          "t": "p",
+          "x": "该平台结合了视觉语言模型、智能体流水线、生成式扩散和优化技术，每一项都对应3D建模流程中的一个独立步骤。Hanocka的研究为3D AI奠定了重要基础，包括MeshCNN和Text2Mesh。"
+        },
+        {
+          "t": "p",
+          "x": "“Thrixel创建的资产是结构化的，因此LLM可以为其制作动画、添加逻辑并放入场景中，”Hanocka说。"
+        },
+        {
+          "t": "p",
+          "x": "除平台外，Thrixel还推出了Build World。这是一种智能体工作流：创作者与AI编程智能体协同工作，后者生成所需的3D内容，同时编写底层逻辑和代码。它支持Roblox、Three.js、Unity和Unreal Engine。Thrixel已从Sierra Ventures、MFV Partners、Harper Court Ventures和Z5 Capital获得$3 million（3百万美元）的初创期融资。"
+        }
+      ]
     }
   }
 }

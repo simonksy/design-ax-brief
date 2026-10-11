@@ -6993,6 +6993,156 @@
           "x": "制約はあるものの、GoogleがPixel Watch 5であまり宣伝しなかった優れたツールだ。アップデートは現在配信中のため、表示されるまで時間がかかる場合がある。"
         }
       ]
+    },
+    "gadgets/verge-local-ai-hermes-qwen-diary": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Antonio G. Di Benedettoは個人データをクラウドAIに渡すことをためらってきたが、強力なモデルをローカルで動かせるなら話は変わる。M5 Ultra Mac Studioのテストの一環として、彼はローカルLLMsをいじり始めた。"
+        },
+        {
+          "t": "p",
+          "x": "彼はmacOS、Windows、Linuxに対応した無料のself-hostedなAIエージェントアプリ、open-sourceのHermes Agentを導入した。256GB の統合メモリがあるので大胆に、約105GB の125-billion パラメータモデルQwen 3.8 Flash Nextを選び、Telegramボット経由でスマートフォンから操作できるようにした。そこへ宿敵が現れた。テキストボックスである。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "毎朝のブリーフィングを送るcronジョブは、7:30am の時点でmacOSがスリープしていてはいけないと気づくまで失敗し続けた。より役立ったのは別の用途だ。Hermesは一時的なAPIキーを使い、400-plusのゲームがあるSteamライブラリを数分でジャンル別に整理した。財務のnumber-crunchingや、エンバーゴ中のノートPCの仕様書にも使った。どのクラウドサービスにも預けたくないデータである。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "vibe-codedなPythonでノートPCのベンチマークを自動化する試みはまだ途中で、ブリーフィングもすでに何度も壊れている。強力なローカルモデルでも魔法のアシスタントではない。彼はHermesをあくまで道具として扱っている。"
+        }
+      ]
+    },
+    "gadgets/ibuypower-ai-halo-minipc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
+          "cap": "iBuyPower Pro AMD AI Halo Mini PCは単一の仕上げで展開される。"
+        },
+        {
+          "t": "p",
+          "x": "iBuyPowerが128 GB のRAMを備えたhigh-endなmini-PCを発売した。AMDのRyzen AI Max+ Pro 495プロセッサーも搭載するiBuyPower Pro AMD AI Halo Mini PCは、200 x 198 x 70 mm の筐体に、デュアルUSB4、デュアル10 GbE Ethernet、三つのM.2スロットを詰め込んでいる。"
+        },
+        {
+          "t": "p",
+          "x": "iBuyPowerは、AMDの新しいGorgon Haloプラットフォームを採用するmini-PCメーカーの仲間入りをした。Ryzen AI Max+ Pro 495はすでにEVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro、YO2 495に搭載されているが、現時点で中国国外で入手できるのはEVO-X5 ProとF9A Pro 495だけだ。"
+        },
+        {
+          "t": "p",
+          "x": "iBuyPowerのマシンもグローバルで発売されるが、RAMの上限は128 GB で、GMKtecやAceMagicの競合機の192 GB には届かない。その結果、旧世代のStrix Halo mini-PCsと同じく、最大96 GB のRAMをVRAMとして割り当てる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
+        },
+        {
+          "t": "p",
+          "x": "USBポートは六つで、そのうち二つは40 Gbps のUSB4だ。ほかにHDMI 2.1 (48 Gbps)とDisplayPort 1.4 (HBR3, 32.4 Gbps)を備える。iBuyPowerが明言しているのは'Q4 2026'という発売時期のみで、価格は$3,999からだが、この価格に128 GB のRAMが含まれるかは明らかにしていない。"
+        }
+      ]
+    },
+    "gadgets/humanoid-robot-rental-exchanges": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "人型ロボットのレンタルは、かつて売り手市場だった。Unitreeのロボットが中国の2025年Spring Festival Gala（春晩）で踊ったことで需要が急増し、ロボット一台を一日借りる料金は数万元、約$1,400以上に達したと伝えられる。"
+        },
+        {
+          "t": "p",
+          "x": "そのバブルはしぼんだ。料金は2026年初めまでに一日2,000〜3,000元（約$280〜$420）程度に下がり、その後1,000元を割り込んだ。ある売買仲介サイトでは、一部の業者がUnitreeの人型ロボットを一日289元、約$40から掲載している。"
+        },
+        {
+          "t": "p",
+          "x": "2026年の春晩にはMagic Atom、Unitree、Songyan Power、Galaxy Generalの四社のロボットメーカーが登場したが、流通する機体が増え、物珍しさによる上乗せは薄れつつある。市場の組織化も進む。世界初のロボット専門レンタルプラットフォームをうたうQingtianzuは2026年1月にシードラウンドを発表し、2月第一週の注文量は約30パーセント伸びたと伝えられる。"
+        },
+        {
+          "t": "p",
+          "x": "レンタルは主に、興味を持つ客が定価を払わずに人型ロボットを試す手段となっている。Unitree G1+の価格は95,000元（約$13,000）からだ。Unitreeは2030年までに汎用人型ロボットの販売を目指しており、中国では70を超えるロボット訓練施設が稼働し、40以上が建設中である。"
+        }
+      ]
+    },
+    "gadgets/siri-ai-vs-gemini-column": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
+          "cap": "並べて動かしたSiri AIとGemini。"
+        },
+        {
+          "t": "p",
+          "x": "一方的な比較になると予想していたコラムニストだったが、新しいSiri AIは短期間で日々の習慣により自然になじんだ。一方Geminiは、今もスマートフォン上のほかのアプリから切り離された印象だという。"
+        },
+        {
+          "t": "p",
+          "x": "GeminiはGoogleのエコシステム内では優秀で、SparkのリサーチをNotebookLM(現Gemini Notebook)に取り込むことからSheetsでの編集までこなすが、サードパーティー連携は物足りない。TickTickにタスクを追加するよう頼むと、確認もせずにGoogle Tasksを使った。Instacart、Angi、Zillowといった提携アプリは地域に左右され、インドに住む筆者はCanva以外どれも日常的には使っていない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
+          "cap": "iOS 27のSiri AIのインターフェース。"
+        },
+        {
+          "t": "p",
+          "x": "Siri AIは情報を呼び出すだけでなく、行動に移す準備がより整っているように感じられる。毎回アプリ名を言わなくてもTickTickのタスクを読み上げて管理し、音声でBlinkitのカートに商品を追加する。筆者は、Appleのより厳格なガイドライン、App Storeのインセンティブ、そしてApple Indiaによる現地開発者との取り組みがその理由だとみる。"
+        },
+        {
+          "t": "p",
+          "x": "もはや際立つ機能は会話ではなく、ほかのアプリ内で行動することだ。GoogleがHomeアプリ向けに用意したMCP接続は堅実な一手だが、手間のかかる設定とHome Premiumへの加入が必要になる。筆者は、GoogleはGeminiのアプリ間連携をあきれるほど簡単にすべきだと主張する。"
+        }
+      ]
+    },
+    "gadgets/xda-local-llm-gmail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+          "cap": "MCPでローカルモデルを動かすOpenCode"
+        },
+        {
+          "t": "p",
+          "x": "私はすでにGmail、Google Calendar、Home Assistantで一日のさまざまな場面を管理しているので、Macで動かしているローカルモデルにそれらを接続した。モデルは自分のコンピューターで動くが、GmailとCalendarは依然としてGoogleのオンラインサービスを必要とする。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+          "cap": "filesystemサーバーを設定したLM Studioのmcp.json"
+        },
+        {
+          "t": "p",
+          "x": "LM Studioは、AIアプリが別のサービスのツールにアクセスするための標準的な仕組みであるMCP(Model Context Protocol)に対応している。Google Workspace MCPなどのコミュニティプロジェクトがGmailとCalendarをカバーし、Home Assistantには独自のMCP Server統合がある。ツールを確実に使えるモデルも必要だ。"
+        },
+        {
+          "t": "p",
+          "x": "両方のアプリを接続すると、モデルはメールのスレッドを取得し、予定を確認したうえで会議の時間を提案できる。返信やカレンダーの予定は確認用の下書きとして残している。修正が必要になることは多くなかったが、無条件に任せるつもりはない。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "Home Assistant MCP"
+        },
+        {
+          "t": "p",
+          "x": "就寝用スクリプトを公開しておけば「家をシャットダウンして」と頼めるし、「電気を消して、でも浴室の電気はつけたままにして」のような例外付きの指示も処理できる。単純な依頼は引き続きHome Assistantのネイティブコマンドが処理する。ローカルLLMsはチャット画面の外でこそ役に立つ。"
+        }
+      ]
     }
   }
 }

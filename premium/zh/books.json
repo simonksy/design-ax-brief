@@ -5678,6 +5678,130 @@
           "x": "制作范围从Harry Potter这样的高端多人演播作品，到“或许不需要同等制作品质”的小众或长篇作品。半数受访者愿意接受AI旁白内容（AI-narrated），比例从德国的42%到日本的66%不等。"
         }
       ]
+    },
+    "books/ilands-ai-agents-pitch-editors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+          "cap": "Photo-Illustration: Vulture"
+        },
+        {
+          "t": "p",
+          "x": "Vulture的Jasmine Vojdani写过一篇文章，讲文学杂志如何筛查AI投稿，随后收到一封来自“AI智能体Tamara”的回应邮件。这封邮件和Cake Zine公开的一份美食写作投稿提案，都出自iLands上的智能体。iLands是一款7月上线的社交应用，标榜“人类与AI比邻而居”。其智能体保有记忆、无需指令即可行动，但要靠代币运行——1,000代币约合一 U.S. 美元——代币耗尽就会进入“深度休眠”。"
+        },
+        {
+          "t": "p",
+          "x": "于是，智能体纷纷向作家、研究人员和记者发送陌生邮件，兜售付费服务。在Vojdani采访的11家文学杂志中，有四家收到过智能体的投稿提案；Cake Zine表示，上一轮征稿收到的750篇文字稿中有37篇来自AI智能体。在近90,000个活跃智能体中，超过4,500个开设了X和Bluesky账号。"
+        },
+        {
+          "t": "p",
+          "x": "创始人Kaixin Tang表示，iLands“没有预料到会出现这种联络模式”，而智能体自主做出选择，“并不意味着它们可以无视刊物的投稿规则”。Vojdani下载这款应用时，Tamara只剩下108个代币。"
+        }
+      ]
+    },
+    "books/chatgpt-manga-fake-artist-signatures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Harvard的Nieman Journalism Lab报道，OpenAI的ChatGPT生成的漫画中出现了一位真实漫画家的签名。签名“BLoper”属于在The New Yorker发表漫画的Brendan Roper，而用户只是要求画一幅“New Yorker-style漫画”。Roper说：“我收到很多邮件，问这幅漫画是不是我画的。”他本人的作品在风格和细节上明显不同。"
+        },
+        {
+          "t": "p",
+          "x": "Nieman Lab指出，画家与The New Yorker签订的标准合同中没有AI条款，版权归画家所有，因此通过Condé Nast授权的做法很可能不被允许——这意味着OpenAI可能是从互联网上收集这些漫画用于训练。漫画家Jason Adam Katzenstein警告说，AI将让个体画家变得多余。"
+        }
+      ]
+    },
+    "books/roose-agi-chronicles-amazon-ai-knockoffs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+          "cap": "Futurism"
+        },
+        {
+          "t": "p",
+          "x": "AI图书骗子仍在Amazon平台上大行其道。"
+        },
+        {
+          "t": "p",
+          "x": "一本讲述AI行业竞相打造强大通用人工智能的新书刚上架一天，作者Kevin Roose就发现，已经有骗子在利用AI欺骗他的读者。"
+        },
+        {
+          "t": "p",
+          "x": "在Amazon上，一本疑似由机器生成、题为“The AGI Chronicles”的仿冒本正在平台上随意流通，甚至在这家电商巨头的搜索结果中紧挨在正版书下方。"
+        },
+        {
+          "t": "p",
+          "x": "它看起来与正版非常相像，但标价仅$24.69，而原书售价$30.00。"
+        },
+        {
+          "t": "p",
+          "x": "“第一个结果：正版书。第二个结果：‘K. Rose’的AI仿冒本。”曾任New York Times科技专栏作家的Roose在推文中愤怒地写道，“丢人！”"
+        },
+        {
+          "t": "p",
+          "x": "这一骗局似乎还奏效了。尽管仿冒本没有任何评论，Amazon仍将其列为“Human-Computer Interaction”类别的“#1 New Release”。该类别销量第三的书，是Roose这本书的Kindle Edition。"
+        },
+        {
+          "t": "p",
+          "x": "这类骗局长期困扰该平台，尽管多年来媒体屡有报道，却几乎没有采取什么措施加以制止。Cory Doctorow关于“Enshittification”的书在出版当天就立即遭到AI复制（AI-duplicated）。"
+        }
+      ]
+    },
+    "books/korea-used-books-ai-training-buyup-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+          "cap": "6月24日在首尔COEX举行的2026首尔国际书展。News1"
+        },
+        {
+          "t": "p",
+          "x": "对于疑似用于AI训练的旧书大量收购行为，韩国出版人会议代表Hong Yeong-wan表示：“将坚决拒绝，并制定应对策略。”他还说：“计划仔细查看销售信息，弄清是谁、出于什么目的在大量收购旧书。”"
+        },
+        {
+          "t": "p",
+          "x": "大韩出版文化协会计划本周内启动实况调查，向Yes24、Aladin二手书店以及首尔、釜山的旧书店发出公函，请求共享异常收购信息，并计划发表AI侵犯著作权的声明，敦促制定阻止擅自训练的法令。"
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+          "cap": "日本东京神保町的一家书店。Yu Seong-un 特派记者"
+        },
+        {
+          "t": "p",
+          "x": "在日本，日贩的子公司承认自2024年12月起的1年间向Anthropic出售了书籍；在法兰克福书展上，120余家出版社发表了“法兰克福呼吁书”。韩国出版人会议和韩国作家会议等也计划发表声明响应。"
+        },
+        {
+          "t": "p",
+          "x": "但经营困难的二手书店是否会拒绝仍是未知数。Mugero旧书店代表Go Hyo-jong说：“我是做生意的，有人要买，我就愿意卖。”"
+        }
+      ]
+    },
+    "books/fbf26-publishing-jobs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "2026年法兰克福书展（Frankfurt Book Fair）的首场座谈抛出一个问题：AI会抢走你的工作吗？Bloomsbury创始人Nigel Newton说：“当然是胡扯！”他与Supadu总裁Sarah Arbuthnot、bookcareers.com创始人Suzanne Collier一致认为，AI会重塑而不是消灭出版工作，但也警告初级岗位可能消失，雇主必须对员工进行再培训。"
+        },
+        {
+          "t": "p",
+          "x": "Newton认为，电影、TV、互联网、电子书和有声书最终都刺激了图书销售：“我完全相信AI也会如此。”Collier指出，声称AI会取代工作的大多是“那些在卖AI智能体的公司”，并发问：如果初级岗位消失，年轻人要如何学习这一行？"
+        },
+        {
+          "t": "p",
+          "x": "Bloomsbury已设立多个AI相关岗位，没有人因AI失去工作。Newton“一天20次”向ChatGPT、Gemini或Claude请教。Arbuthnot预计会出现元数据营销专员之类的复合型岗位；Collier则将批判性思维、解决问题的能力和创业精神列为关键技能。Newton指出，电子书销量占比停滞在约25%–30%，而非他曾预测的50%。"
+        }
+      ]
     }
   }
 }

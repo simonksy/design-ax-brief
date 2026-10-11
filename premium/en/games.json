@@ -7054,6 +7054,139 @@
           "x": "The difference is that Claude Opus 5.5 can be left running overnight to decompile a game. Publishers' legal teams are going to be working overtime for the foreseeable future."
         }
       ]
+    },
+    "games/illunes-offline-ai-game-master": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "14Dimension Enterprise said it officially released the turn-based roguelike RPG The Return of Illunes on Steam (PC) on October 9, 2026 (Korea time). It is priced at 22,500 won (US$19.99). A Nintendo Switch version is currently under platform review, and its release date will be announced later."
+        },
+        {
+          "t": "p",
+          "x": "The Return of Illunes comes with a built-in AI game master given additional training specifically for the game, and it is the world's first offline TRPG that generates not only the story and action rulings but also subclasses, skills, gear, relics and bosses directly on the device."
+        },
+        {
+          "t": "p",
+          "x": "※ The language model ships with the game and runs only inside the player's PC, so there is no server connection, no subscription and no per-use fee."
+        },
+        {
+          "t": "p",
+          "x": "The AI writes each run's story and goals, adventure events, combat narration, companion dialogue and ending epilogues, and creates the names and lore of new subclasses, skills, gear and relics, as well as boss entrance scenes and gimmicks. Damage, stats, difficulty and progression are always set by the game's rules; player input is screened before it reaches the model, and generated text is screened before it is displayed."
+        },
+        {
+          "t": "p",
+          "x": "The signature system is 'Free Action.' In combat or events, players can type an action that isn't on the menu, such as \"cut the chandelier rope and drop it on the enemy,\" and the AI game master judges success or failure and narrates the result. The ruling carries over into the actual combat outcome."
+        },
+        {
+          "t": "p",
+          "x": "The interface supports 13 languages, and AI-generated text is available in Korean, English and Japanese."
+        },
+        {
+          "t": "p",
+          "x": "※ 'World's first' is based on the company's own research using materials public as of October 9, 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://i2.ruliweb.com/img/26/10/09/1a11f984465afd4.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://i2.ruliweb.com/img/26/10/09/1a11f98530dafd4.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://i1.ruliweb.com/img/26/10/09/1a11f98601bafd4.webp"
+        },
+        {
+          "t": "img",
+          "src": "https://i3.ruliweb.com/img/26/10/09/1a11f986d7eafd4.webp"
+        },
+        {
+          "t": "video",
+          "yt": "RtNtd1x5RZo"
+        }
+      ]
+    },
+    "games/astro-bot-psvr-quest3-mod": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI vibecoding has caused a veritable explosion in the VR modding scene. The latest to benefit is the PSVR exclusive Astro Bot Rescue Mission (2018): VR modder 'Bigmak94', also known for a Super Mario Galaxy VR mod, asked AI assistant Claude to modify shadPS4, an open-source PlayStation 4 emulator."
+        },
+        {
+          "t": "p",
+          "x": "According to the modder's Reddit post, Claude effectively output two versions: a native Quest 3 build to sideload and play on-device, and a PC VR version to stream to other headsets."
+        },
+        {
+          "t": "video",
+          "yt": "20hsnzFcG1Y"
+        },
+        {
+          "t": "p",
+          "x": "The 'AstroQuest' mod, which requires a game dump from the console, adds 6DOF headset tracking, native controller mapping, spatial audio and DualSense support. The standalone Quest 3 build is playable but pushes the mobile GPU \"to its limits\" at lower resolution."
+        },
+        {
+          "t": "p",
+          "x": "Astro Bot never got a PSVR 2 port. With AI agents like Claude opening up modding and decompiling, Road to VR says it is only the tip of the iceberg, after a similar VR mod for Titanfall 2."
+        }
+      ]
+    },
+    "games/analogue-pocket-snes-ai-hack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
+          "cap": "Image credit: Phil Hayton"
+        },
+        {
+          "t": "p",
+          "x": "Makers of open-source openFPGA emulator cores for the Analogue Pocket are contending with low-effort, vibe-coded contributions. A contributor going by nasonliu submitted an \"experimental MSU-1 streaming\" feature for the Pocket SNES core; MSU-1 is a fictitious enhancement chip that lets romhackers add CD-quality audio."
+        },
+        {
+          "t": "p",
+          "x": "\"You sent me a nearly 50k line diff, unasked for, completely LLM built, and you somehow expect me to review it,\" said agg23, who ported the SNES FPGA core. \"There is SO MUCH unrelated garbage here.\""
+        },
+        {
+          "t": "p",
+          "x": "\"You are infringing on the time and brainpower of people by pushing 'your' content that little/no of your brainpower went into,\" agg23 added. \"I think it's cool that you and your LLM supposedly got this to work. It has no place in my world.\""
+        },
+        {
+          "t": "p",
+          "x": "PS3 emulator RPCS3's devs similarly begged contributors to stop submitting AI slop code; RPCS3 allows AI but requires contributors to fully understand their code."
+        }
+      ]
+    },
+    "games/thrixel-hanocka-3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Thrixel, founded by University of Chicago computer scientist Rana Hanocka, launched a 3D creation platform that generates assets built from individually named parts with logical hierarchy, so AI agents can identify, assemble, and animate them directly in industry-standard game engines. A car generated with Thrixel arrives with its wheels, doors, and chassis as separate named parts that can be animated or swapped."
+        },
+        {
+          "t": "video",
+          "yt": "1rC0RlBDwrg"
+        },
+        {
+          "t": "p",
+          "x": "The platform combines vision language models, agentic pipelines, generative diffusion, and optimization techniques, each mapped to a discrete step in the 3D modeling pipeline. Hanocka's research laid key foundations for 3D AI, including MeshCNN and Text2Mesh."
+        },
+        {
+          "t": "p",
+          "x": "“Thrixel creates assets that are structured, so an LLM can animate them, add logic, and drop them into a scene,” said Hanocka."
+        },
+        {
+          "t": "p",
+          "x": "Alongside the platform, Thrixel is introducing Build World, an agentic workflow in which creators work alongside an AI coding agent that generates the needed 3D content while writing the underlying logic and code. It supports Roblox, Three.js, Unity, and Unreal Engine. Thrixel has raised $3 million in inception funding from Sierra Ventures, MFV Partners, Harper Court Ventures, and Z5 Capital."
+        }
+      ]
     }
   }
 }

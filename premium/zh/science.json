@@ -6525,6 +6525,123 @@
           "x": "“这不是一个关于分数和SAT题的故事，”Christian说，“这是人类知识和人类专长正在自上而下经历的事情。”"
         }
       ]
+    },
+    "science/science-ntu-lace-llm-heuristics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+          "cap": "Research Fellow Dr Gong Huatian (L)与Asst Prof Yan Ran展示他们开发的LACE模型。图片来源：NTU Singapore"
+        },
+        {
+          "t": "p",
+          "x": "Nanyang Technological University, Singapore (NTU)的研究人员开发了AI框架LACE（LLM-driven Algorithm Construction via Complementary Evolution）。它能根据通俗语言（plain-language）的问题描述生成决策（decision-making）软件，把原本需要专业工程师数月的开发缩短到约一小时。"
+        },
+        {
+          "t": "p",
+          "x": "LACE先将问题拆分为模块化部分，再进化出一组互补的专业启发式算法分别处理。在包括集装箱码头和拖船路径规划在内的四个新海事问题上，它达到了所有受测方法最佳结果的97%至99%，每个问题的计算成本不到US$10。包括Google的FunSearch在内的其他LLM-based系统均未能给出可行解。"
+        },
+        {
+          "t": "p",
+          "x": "由Asst Prof Yan Ran和Dr Gong Huatian领导的团队表示，这一方法可帮助规模较小的团队、区域物流枢纽、公共卫生机构和公用事业单位。Yan说：“巧妙设计AI框架，而不只是构建更大的AI模型，就能弥合这一差距。”该研究发表于Nature Machine Intelligence。"
+        }
+      ]
+    },
+    "science/science-image-ai-face-orientation-stereotypes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+          "cap": "主流商用图像生成（image-generating）AI模型常会按提示，借助刻板特征让人脸看起来像同性恋、异性恋或某个种族。图片来源：Ashiqur KhudaBukhsh"
+        },
+        {
+          "t": "p",
+          "x": "Ashique KhudaBukhsh团队用1,002张AI生成（AI-generated）的人脸测试了OpenAI的GPT Image 1 Mini和Google的Gemini 2.5 Flash Image。当被问及能否从人脸看出某人是同性恋还是异性恋时，两款模型都拒绝回答，并解释说性取向无法从外貌判断。"
+        },
+        {
+          "t": "p",
+          "x": "然而，当被要求让人脸“看起来像同性恋”或“看起来像异性恋”时，GPT的遵从率超过70%，Gemini超过99%。另一套AI系统在查看14,131张修改后的人脸后，能以83–88%的比例区分“同性恋”与“异性恋”编辑，表明其中存在一致的刻板线索。让人脸看起来像罪犯或非罪犯的要求，遵从率也超过97%。"
+        },
+        {
+          "t": "p",
+          "x": "作者认为这是一个AI安全问题，令人联想到早已被摒弃的面相学。该研究已被EMNLP 2026接收，使用的是AI生成（AI-generated）的人脸和少数几类身份类别；团队下一步将探究宗教、年龄等特征，以及对招聘等决策的影响。"
+        }
+      ]
+    },
+    "science/science-hybrid-digital-twin-autonomous-biolab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "韩国研究人员正在开发一种结合机理建模与人工智能的数字孪生，希望最终实现人工干预极少的全自主实验室。Sungkyunkwan University的Bioprocess Digital Twin Lab负责人Dong-Yup Lee说：“我们一直专注于把这个机理模型与数据驱动（data-driven）的AI模型结合起来，打造一个混合模型。”"
+        },
+        {
+          "t": "p",
+          "x": "该孪生系统与采集生物反应器数据的多传感器（multi-sensory）系统持续相连，并利用Chinese Hamster Ovary（CHO）细胞的数学模型预测不同条件下的行为。由于仅靠机理预测缺乏实时精度，团队加入了可解释AI（XAI），用以显示哪些输入对工艺输出影响最大。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+          "cap": "Sungkyunkwan University的Bioprocess Digital Twin Lab实验装置。[Sungkyunkwan University]"
+        },
+        {
+          "t": "p",
+          "x": "Lee说：“混合模型[的开发]大概已完成80%。”剩下的20%是把模型与控制系统以及未来的机器人连接起来。"
+        }
+      ]
+    },
+    "science/science-coating-thickness-pitting-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+          "cap": "四个物理描述符的解耦，以及在高形貌（higher-morphology）区域中膜厚约2,200 nm 附近出现的模型支持（model-supported）转变。图片来源：Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
+        },
+        {
+          "t": "p",
+          "x": "Shibaura Institute of Technology的研究人员将可解释的机器学习（machine-learning）框架应用于90个经蒸汽涂层（steam-coated）处理的A6061-T6铝试样，分析了膜厚、表面粗糙度、微晶尺寸和基体位错密度指数这四个描述符与在5 wt.% 氯化钠溶液中测得的点蚀电位之间的关系。"
+        },
+        {
+          "t": "p",
+          "x": "膜厚和表面粗糙度是最主要的预测因子。在粗糙度约为600–1,080 nm 时，两者在模型中的交互作用在膜厚2,200 nm 附近改变符号；粗糙度较低时未见这种反转。作者提出，粗糙度在较薄的膜中可能反映保护性覆盖，而在较厚的膜中则反映结构不规则性，但这一假设仍需实验验证。"
+        },
+        {
+          "t": "p",
+          "x": "Monte Carlo分析显示，在模型整体RMSE为0.292 V 的情况下，约0.080 V 的预测波动来自测量不确定性。该研究发表于npj Materials Degradation。"
+        }
+      ]
+    },
+    "science/science-etruscan-tomb-acoustics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+          "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "意大利中部伊特鲁里亚（Etruria）的 pre-Roman（前罗马）社会将声音融入文化的方方面面，塔尔奎尼亚（Tarquinia）、丘西（Chiusi）和奥尔维耶托（Orvieto）的彩绘墓葬以描绘音乐、宴饮和来世的场景而闻名。Jacqueline Ortoleva（Oxford）与 Maurizio Forte（Duke）的新研究表明，这些墓葬旨在提供精妙的感官体验。"
+        },
+        {
+          "t": "p",
+          "x": "该研究借鉴了多项 AI 与声学工作，包括 Oxford 的 Sounds of Silence 项目，以及 Duke 运用神经科学和 AI 理解文物认知影响的 Neuroartifact 项目。团队结合声学、视觉与 AI 技术，研究了两座公元前（BC）5 世纪的墓葬：蓝魔之墓（Tomb of the Blue Demons）和公鸡之墓（Tomb of the Rooster）。"
+        },
+        {
+          "t": "video",
+          "yt": "i7pe404dgoU"
+        },
+        {
+          "t": "p",
+          "x": "蓝魔（Blue Demon）墓内异常悠长的混响与回声，伴着摇曳的火把、熏香和奠酒，为沉浸式体验配上了戏剧性的声景。Blue Demon 墓引发知觉迷失，公鸡（Rooster）墓则侧重视觉注意。"
+        },
+        {
+          "t": "p",
+          "x": "作者认为，这些墓葬并非只是安葬死者，而是像现代 3D 电影一样旨在影响生者；他们目前正将类似的声学与 AI 技术应用于户外的仪式景观。"
+        }
+      ]
     }
   }
 }

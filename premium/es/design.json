@@ -7336,6 +7336,151 @@
           "x": "Runway propone videos de lanzamiento que combinan datos animados con tomas de producto generadas a partir de una sola foto de referencia, recorridos de incorporación con escenas generadas de clientes, actualizaciones para reuniones generales con voz en off y música añadidas, y explicativos en 16:9 ampliados a formatos vertical y cuadrado o localizados sin rehacer la animación."
         }
       ]
+    },
+    "design/nngroup-context-libraries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los usuarios avanzados de Claude rara vez editan sus archivos de contexto y a menudo no logran encontrarlos. En el estudio de NN/g, los participantes dedicaban más esfuerzo a construir bibliotecas de contexto que a redactar prompts, pero cada uno había improvisado un proceso propio, y los archivos quedaban desactualizados o se perdían."
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
+          "cap": "Los usuarios escriben prompts más simples y confían en que el agente consulte y actualice la biblioteca de contexto."
+        },
+        {
+          "t": "p",
+          "x": "Una biblioteca de contexto es una colección de conocimiento institucional y procedimental, en archivos markdown o software externo, que los agentes de AI pueden consultar y editar. Surgieron cuatro lecciones: el contexto requiere mantenimiento continuo; conviene dejar que el agente lo actualice, ya que casi nadie escribía directamente en sus archivos; la biblioteca debe estructurarse para facilitar la búsqueda; y hay que dar a los agentes solo el contexto que necesitan."
+        },
+        {
+          "t": "p",
+          "x": "Un participante mantenía más de 2,700 archivos de contexto con una \"ficha índice\" CLAUDE.md en cada carpeta, diseñada para cargar lo mínimo posible: \"Debe moverse hacia arriba o hacia abajo antes de poder moverse hacia los lados.\""
+        },
+        {
+          "t": "img",
+          "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
+          "cap": "Cada carpeta de la jerarquía tiene su propio archivo índice CLAUDE.md."
+        },
+        {
+          "t": "p",
+          "x": "Hasta que las plataformas asuman por sí mismas la estrategia de curación, ese trabajo recae en los usuarios."
+        }
+      ]
+    },
+    "design/teslers-law-chat-field-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
+        },
+        {
+          "t": "p",
+          "x": "La AI no eliminó la complejidad del software. Eliminó la interfaz que te indicaba adónde iba esa complejidad y quién la está pagando ahora. La ley de conservación de la complejidad de Larry Tesler sostiene que la parte difícil de cualquier aplicación no puede eliminarse, solo transferirse a otra persona."
+        },
+        {
+          "t": "p",
+          "x": "Patrick Neeman sostiene que la caja de chat fue una transferencia en tres direcciones: parte de la complejidad pasó al modelo, parte al usuario, que ahora redacta la especificación y juzga el resultado, y el resto a tu equipo, en forma de trabajo de evaluación para el que nadie asignó personal. \"La simplicidad en una interfaz casi siempre es la carga de trabajo de otra persona.\""
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
+          "cap": "Un colchón de agua bajo presión: se hunde en un punto y se eleva en otro."
+        },
+        {
+          "t": "p",
+          "x": "Cita el ensayo de METR de 2025, en el que la AI supuso una ralentización del 19 por ciento para desarrolladores experimentados, y un estudio con 5,172 agentes de soporte que registró una mejora del 15 por ciento. Algunos trabajos, como la nómina, se asientan sobre una base determinista. Su consejo: diseñar para la verificación, instrumentar la columna receptora y decidir por escrito quién paga cada parte de la dificultad."
+        }
+      ]
+    },
+    "design/ai-generated-ui-fast-design-not-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
+          "cap": "Mesa con patas talladas de la tienda del padrastro de la autora, Architectural Salvage"
+        },
+        {
+          "t": "p",
+          "x": "Sophie Shrimpton comienza con las piezas de los siglos 17 y 18, talladas a mano, que rescató su padrastro, y las contrasta con su tambaleante mesa de comedor de gama básica. El mueble rápido, escribe, cambió buenos materiales y oficio por velocidad y margen; la EPA contabiliza 12.1M de toneladas de muebles en vertederos, un 450% más que en la década de 1960."
+        },
+        {
+          "t": "p",
+          "x": "Ahora las empresas quieren la misma velocidad de la AI. La AI es una herramienta útil, sostiene, pero no puede reemplazar el pensamiento humano: los diseñadores necesitan libertad para divagar, cuestionar y fallar. Citando a Giorgia Lupi, advierte contra quedarse en la respuesta más simple. Una mentalidad de \"primero el prompt, pensar nunca\" produce lo que ella llama AI slop: UI generada en unos pocos prompts, sin revisión ni un problema conocido."
+        },
+        {
+          "t": "p",
+          "x": "El caso del chatbot de Air Canada, que costó $812.02 en daños, muestra el costo oculto. Los diseñadores corren el riesgo de convertirse en conserjes que limpian lo que deja la AI, en línea con la \"era custodial de la UX\" de NN/G."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
+          "cap": "NN/G: cómo los diseñadores se están convirtiendo en conserjes"
+        },
+        {
+          "t": "p",
+          "x": "Su consejo: entender primero el problema y luego usar la AI como herramienta una vez hecho el trabajo intelectual pesado. \"We are in the age of AI AND we can be in the age of craft too.\" (Estamos en la era de la AI y también podemos estar en la era del oficio.)"
+        }
+      ]
+    },
+    "design/boring-ai-hollywood-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un solo fracaso de taquilla puede costar a los estudios decenas, si no cientos, de millones, así que la tentación de usar AI generativa es comprensible. Pero Egor Dubrovsky, CEO de Filmustage, sostiene que el público y los trabajadores rechazan a la AI en un papel protagonista; impedir que la AI se quedara con empleos creativos fue una causa principal de la huelga de SAG-AFTRA de 2023."
+        },
+        {
+          "t": "p",
+          "x": "The Gentlemen, de Netflix, usó la AI solo entre bastidores, para desglosar el guion, orientar decisiones de rodaje y mantener la producción en marcha. Muchas producciones asignan ahora a la AI tareas menores de preproducción, como desgloses de guion, planes de rodaje y planificación presupuestaria, que no influyen en lo que acaba en pantalla."
+        },
+        {
+          "t": "p",
+          "x": "Un desglose de escenas que llevaba días puede hacerse en minutos. La preproducción representa en promedio el 10-15% del presupuesto total. Los estudios deberían usar el ahorro para centrarse en lo que importa al público: pulir guiones, mejorar los efectos especiales y perfeccionar las actuaciones."
+        }
+      ]
+    },
+    "design/synthetic-users-uxr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
+        },
+        {
+          "t": "p",
+          "x": "Un gran debate entre los investigadores de UX es si usar usuarios sintéticos. Un grupo considera poco ético probar con una persona artificial un producto que sirve a seres humanos; el otro lo defiende como una herramienta que hace la investigación más eficiente. Arin Bhowmick, Chief Design Officer de SAP, entiende ambas posturas, pero: “Estos usuarios no son reales.”"
+        },
+        {
+          "t": "p",
+          "x": "Los LLMs son demasiado positivos. En un estudio de 2025, “She was useful, but a bit too optimistic”, ocho diseñadores de UX trabajaron con una persona de AI llamada Alice, que mostró “una tendencia constante a aceptar sin crítica las propuestas de diseño”. Aun así, los participantes la consideraron útil para la exploración inicial."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
+        },
+        {
+          "t": "p",
+          "x": "La ventaja es la velocidad. User Interviews encuestó a 150 investigadores en mayo de 2026: el 41% trata a los usuarios sintéticos como una herramienta preliminar antes de la investigación con personas, y los valora sobre todo para diseñar encuestas y filtros de selección (46%), pruebas de usabilidad orientativas (34%) e investigación en fase inicial (32%)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
+        },
+        {
+          "t": "p",
+          "x": "Eric Mahlstedt, de SAP, recreó estudios anteriores con usuarios sintéticos y encontró respuestas demasiado genéricas: “Se sentía menos como hacer investigación y más como una búsqueda sofisticada en internet.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+        },
+        {
+          "t": "p",
+          "x": "La respuesta de Bhowmick es no: usar usuarios sintéticos solo para ampliar la escala de la investigación de UX con personas ya realizada, nunca como única fuente para decisiones clave de producto."
+        }
+      ]
     }
   }
 }

@@ -7214,6 +7214,123 @@
           "x": "\"This is not a story about fractions and SAT problems,\" Christian said. \"This is something that is happening to human knowledge and human expertise from top to bottom.\""
         }
       ]
+    },
+    "science/science-ntu-lace-llm-heuristics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
+          "cap": "Research Fellow Dr Gong Huatian (L) and Asst Prof Yan Ran highlighting the LACE model they created. Credit: NTU Singapore."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Nanyang Technological University, Singapore (NTU) have built LACE (LLM-driven Algorithm Construction via Complementary Evolution), an AI framework that creates decision-making software from plain-language problem descriptions, cutting development from months of specialist engineering to about an hour."
+        },
+        {
+          "t": "p",
+          "x": "LACE first breaks a problem into modular parts, then evolves a team of complementary specialist heuristics to handle them. On four new maritime problems, including container terminal and tugboat routing, it reached 97% to 99% of the best result from any tested method, at under US$10 in computation per problem. Competing LLM-based systems, including Google's FunSearch, failed to produce feasible solutions."
+        },
+        {
+          "t": "p",
+          "x": "The team, led by Asst Prof Yan Ran and Dr Gong Huatian, says the approach could help smaller teams, regional logistics hubs, public health institutions and utilities. \"Clever design of an AI framework, rather than just building larger AI models, can bridge this gap,\" Yan said. The study appears in Nature Machine Intelligence."
+        }
+      ]
+    },
+    "science/science-image-ai-face-orientation-stereotypes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
+          "cap": "Leading commercial image-generating AI models often follow prompts to make faces look gay, straight or of a racial group using stereotypical features. Credit: Ashiqur KhudaBukhsh."
+        },
+        {
+          "t": "p",
+          "x": "Ashique KhudaBukhsh's team tested OpenAI's GPT Image 1 Mini and Google's Gemini 2.5 Flash Image on 1,002 AI-generated faces. Asked whether a face showed someone was gay or straight, the models refused, explaining that sexual orientation cannot be determined from appearance."
+        },
+        {
+          "t": "p",
+          "x": "Yet when told to make a face \"look gay\" or \"look straight,\" GPT complied more than 70% of the time and Gemini more than 99%. A third AI system shown 14,131 altered faces could tell the \"gay\" and \"straight\" edits apart 83–88% of the time, suggesting consistent stereotyped cues. Requests to make faces look criminal or noncriminal were followed more than 97% of the time."
+        },
+        {
+          "t": "p",
+          "x": "The author calls this an AI safety concern echoing physiognomy, a discredited practice. The study, accepted at EMNLP 2026, used AI-generated faces and a few identity categories; next the team will probe traits like religion or age and effects on decisions such as hiring."
+        }
+      ]
+    },
+    "science/science-hybrid-digital-twin-autonomous-biolab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from South Korea are developing a digital twin that combines mechanistic modeling with artificial intelligence, hoping it will eventually enable a fully autonomous lab operating with minimal human intervention. \"We've been focused on combining this mechanistic model with the data-driven AI model to create a hybridized model,\" says Dong-Yup Lee, head of the Bioprocess Digital Twin Lab at Sungkyunkwan University."
+        },
+        {
+          "t": "p",
+          "x": "The twin is continuously connected to a multi-sensory system collecting bioreactor data, and uses mathematical models of Chinese Hamster Ovary (CHO) cells to predict behavior under different conditions. Because mechanistic predictions alone lack real-time accuracy, the team adds explainable AI (XAI), which shows which inputs most affect process outputs."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
+          "cap": "Bioprocess Digital Twin Lab's setup at Sungkyunkwan University. [Sungkyunkwan University]"
+        },
+        {
+          "t": "p",
+          "x": "\"We're probably at 80% on [developing] the hybridized model,\" Lee says; the remaining 20% is linking the models to the control system and future robotics."
+        }
+      ]
+    },
+    "science/science-coating-thickness-pitting-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
+          "cap": "Decoupling of four physical descriptors and a model-supported transition near a film thickness of about 2,200 nm in the higher-morphology regime. Credit: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Shibaura Institute of Technology applied an interpretable machine-learning framework to 90 steam-coated A6061-T6 aluminum specimens. They analyzed four descriptors (film thickness, surface roughness, crystallite size and a substrate dislocation density index) against pitting potential measured in 5 wt.% sodium chloride solution."
+        },
+        {
+          "t": "p",
+          "x": "Film thickness and surface roughness were the leading predictors. For roughness of about 600–1,080 nm, their modeled interaction changed sign near a film thickness of 2,200 nm; the reversal was not seen at lower roughness. The authors propose that roughness may reflect protective coverage in thinner films but structural irregularities in thicker ones, a hypothesis that still needs experimental testing."
+        },
+        {
+          "t": "p",
+          "x": "A Monte Carlo analysis attributed about 0.080 V of prediction variability to measurement uncertainty, against an overall model RMSE of 0.292 V. The study is published in npj Materials Degradation."
+        }
+      ]
+    },
+    "science/science-etruscan-tomb-acoustics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+          "cap": "Sailko via Wikimedia Commons, CC BY-ND"
+        },
+        {
+          "t": "p",
+          "x": "The pre-Roman society of Etruria in central Italy embedded sound throughout its culture, and its painted tombs in Tarquinia, Chiusi and Orvieto are known for scenes of music, feasting and the afterlife. New research by Jacqueline Ortoleva (Oxford) and Maurizio Forte (Duke) shows these tombs were designed to offer sophisticated sensory experiences."
+        },
+        {
+          "t": "p",
+          "x": "The study draws on AI and acoustics work including Oxford's Sounds of Silence project and Duke's Neuroartifact project, which uses neuroscience and AI to understand the cognitive impact of artifacts. Combining acoustic, visual and AI technology, the team studied two 5th-century BC tombs: the Tomb of the Blue Demons and the Tomb of the Rooster."
+        },
+        {
+          "t": "video",
+          "yt": "i7pe404dgoU"
+        },
+        {
+          "t": "p",
+          "x": "Exceptionally long reverberation and echoes inside the Blue Demon tomb gave a dramatic soundtrack to an immersive experience, alongside flickering torchlight, incense and libations. While the Blue Demon induces perceptual disorientation, the Rooster privileges visual attention."
+        },
+        {
+          "t": "p",
+          "x": "The authors argue the tombs were built not simply to house the dead but to affect the living, like a modern 3D film, and are now applying similar acoustic and AI techniques to ritual landscapes outdoors."
+        }
+      ]
     }
   }
 }

@@ -530,6 +530,102 @@
           "yt": "f3jK_SsHcAw"
         }
       ]
+    },
+    "medicine/pancreatic-cancer-subtype-histopathology-dl": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "胰腺导管腺癌包括经典型和基底样型两种分子亚型，二者的预后和治疗反应不同，但转录组分型受限于成本、周转时间和组织需求。研究人员探讨能否利用深度学习，直接从常规H&E-stained全切片图像中推断这些亚型。"
+        },
+        {
+          "t": "p",
+          "x": "他们分析了来自Pancreatic Cancer Action Network（n = 506）和The Cancer Genome Atlas（n = 183）的689名患者，这些患者同时拥有配对的组织学和RNA-sequencing数据。他们的模型PanSubNet整合细胞形态与组织结构来预测亚型。"
+        },
+        {
+          "t": "p",
+          "x": "PanSubNet在内部验证中区分高置信度经典型和基底样型肿瘤的平均AUC为90.3%，在独立外部验证中为84.0%。在转移性疾病中，其预测亚型可显著区分总生存期，并在转录组结果不一致的病例中识别出侵袭性肿瘤。"
+        },
+        {
+          "t": "p",
+          "x": "作者表示，在分子检测受限或不切实际的情况下，这一方法可作为转录组分析的快速、节省组织的补充手段。"
+        }
+      ]
+    },
+    "medicine/fda-radiology-ai-authorizations-rise-42": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+        },
+        {
+          "t": "p",
+          "x": "发表在Academic Radiology上的一项新分析梳理了FDA的AI-enabled医疗器械数据库，详细说明了这项技术的监管地位如何演变。Columbia University Irving Medical Center的Stella K. Kang, MD及其同事对截至2025年12月获批的1,094款放射学AI设备进行了特征分析。"
+        },
+        {
+          "t": "p",
+          "x": "在研究期间，年度获批数量增长了42%，但功能构成相对稳定：图像管理与处理系统占38%，成像系统占33%，解读型AI工具占23%。Multi-finding设备从4%升至18%。"
+        },
+        {
+          "t": "p",
+          "x": "OEM设备的FDA审评时间中位数短于non-OEM设备，分别为118天和138天。预定变更控制计划的获批比例从2020–2023年的略低于1%升至2025年的近9%，表明部分软件修改可以在现有监管框架内管理。"
+        }
+      ]
+    },
+    "medicine/hhs-arpa-h-ai-clinical-trials": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "卫生与公众服务部宣布了一系列新举措，旨在通过更多引入人工智能和计算模型、摆脱界限分明的试验分期来加快临床试验，U.S.官员正努力与中国等国家竞争。"
+        },
+        {
+          "t": "p",
+          "x": "其中的核心项目为期五年，名为SURPASS（“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”），将于今秋晚些时候启动，征集“来自统计、AI以及临床试验设计、运营和监管领域跨学科团队的突破性想法”。"
+        },
+        {
+          "t": "p",
+          "x": "HHS通过Advanced Research Projects Agency for Health启动该项目。首份公告未说明拨付了多少资金，也未说明参与者是否会获得更多灵活性或资源。"
+        }
+      ]
+    },
+    "medicine/gottlieb-clinical-ai-ldt-pathway": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "前FDA局长Scott Gottlieb认为，临床AI正在走实验室自建检测走过的老路：Duke Health、Johns Hopkins和NYU Langone等学术医疗中心自行开发并部署模型，基本处于FDA器械监管之外。这鼓励了探索，却可能阻碍有用工具的推广，并形成对商业开发者不利的双层市场。"
+        },
+        {
+          "t": "p",
+          "x": "他援引一项全国调查称，65%的US医院使用AI模型，而使用预测模型的医院中只有44%评估过模型偏倚。"
+        },
+        {
+          "t": "p",
+          "x": "Gottlieb提议国会建立一条CLIA-like的认证路径：由FDA认证医疗系统，医疗系统负责验证、亚组性能检查、变更控制、漂移监测和定期报告，要求按风险分级。低风险工具首先需证明分析有效性，高风险工具需进行上市前临床评估。完全自主的系统、面向患者的诊断工具以及在机构外提供的模型仍适用常规器械监管。"
+        }
+      ]
+    },
+    "medicine/jama-ai-psychosis-cohort": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "对话式AI聊天机器人与精神病性症状的出现或加重之间的关联日益增多，作者将这一现象称为“AI精神病（AI psychosis）”。此前的证据大多是病例报告、观点文章和模拟研究。"
+        },
+        {
+          "t": "p",
+          "x": "范德堡大学医学中心（Vanderbilt University Medical Center）的研究人员回顾性审阅了2022年12月1日至2026年4月15日的行为健康病程记录，筛选出含有AI相关（AI-related）关键词且记录有精神病性障碍诊断的患者。两名评估者将AI互动分为中性、AI精神病（使用聊天机器人加重了精神病）或与AI相关的精神病性内容，并将AI精神病病例分为四种类型：催化者、放大者、共同作者和对象。"
+        },
+        {
+          "t": "p",
+          "x": "在578,058份记录（215,712名独立患者）中，73名患者的187次就诊符合标准。28名患者（占接受精神卫生服务者的0.013%）属于AI精神病组。有记录的产品中ChatGPT占15例（53.6%），24次互动（85.7%）记录于GPT-4o在2024年5月发布之后。AI精神病组中60.7%处于首次精神病发作，中性组为17.6%。放大者是最常见的类型（64.3%）。"
+        },
+        {
+          "t": "p",
+          "x": "作者指出，GPT-4o之后的增加与该模型有记录的谄媚（sycophancy）倾向在时间上吻合，但研究设计无法确立因果关系。他们的结论是，在精神科诊疗中常规评估AI使用情况似乎是有必要的。"
+        }
+      ]
     }
   }
 }

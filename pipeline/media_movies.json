@@ -1,32 +1,21 @@
 {
-  "date": "2026-10-11",
-  "section": "movies",
-  "media": [
-    {
-      "id": "cukur-vartolu-prime-ai",
-      "type": "image",
-      "src": "pipeline/media/cukur-vartolu-prime-ai.jpg"
-    },
-    {
-      "id": "cage-spider-noir-ai-waiver",
-      "type": "image",
-      "src": "pipeline/media/cage-spider-noir-ai-waiver.jpg"
-    },
-    {
-      "id": "eyeline-genfx-rustad-busan",
-      "type": "image",
-      "src": "pipeline/media/eyeline-genfx-rustad-busan.jpg"
-    },
-    {
-      "id": "morph-3d-scene-editor",
-      "type": "image",
-      "src": "pipeline/media/morph-3d-scene-editor.png"
-    },
-    {
-      "id": "astana-ai-film-grand-prix",
-      "type": "video",
-      "src": "pipeline/media/astana-ai-film-grand-prix.mp4",
-      "poster": "pipeline/media/astana-ai-film-grand-prix.jpg"
-    }
-  ]
+ "date": "2026-10-12",
+ "section": "movies",
+ "media": [
+  {
+   "id": "luma-claude-motion-handoff",
+   "type": "image",
+   "src": "pipeline/media/luma-claude-motion-handoff.jpg"
+  },
+  {
+   "id": "overstake-genai-rebuild-cappu-busan",
+   "type": "image",
+   "src": "pipeline/media/overstake-genai-rebuild-cappu-busan.jpg"
+  },
+  {
+   "id": "hong-jae-cheol-ai-native-studios-busan",
+   "type": "image",
+   "src": "pipeline/media/hong-jae-cheol-ai-native-studios-busan.jpg"
+  }
+ ]
 }

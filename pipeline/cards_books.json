@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "section": "books",
   "cards": [
     {
-      "id": "fbf26-publishing-jobs",
+      "id": "rosenbaum-future-of-truth-hallucinated-quotes",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "출판 일자리는 AI에\n사라지기보다 적응한다",
-      "body": "Nigel Newton은 AI 실직 공포를 일축했지만 패널은 신입직을 걱정했다.",
-      "mini_headline": "출판 일자리, AI에 적응",
+      "headline": "AI가 지어낸 인용,\n진실 다룬 책에 섞였다",
+      "body": "팩트체커 둘이 Steven Rosenbaum의 책에서 가짜 인용 26개를 찾았다.",
+      "mini_headline": "책 속 가짜 AI 인용 26개",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/06/steven-rosenbaum-future-of-truth-ai-hallucinated-quotes/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,255 +19,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+            "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
           },
           {
             "t": "p",
-            "x": "2026 프랑크푸르트 도서전(Frankfurt Book Fair)의 첫 패널이 던진 질문은 AI가 내 일자리를 빼앗느냐였다. Bloomsbury 창립자 Nigel Newton의 답은 \"물론 헛소리다!\"였다. Supadu 대표 Sarah Arbuthnot, bookcareers.com 창립자 Suzanne Collier가 함께한 패널은 AI가 출판 일을 없애기보다 재편하리라는 데 뜻을 모았다. 다만 신입 일자리는 사라질 수 있고 고용주가 직원을 다시 가르쳐야 한다고 경고했다."
+            "x": "The Future of Truth: How AI Reshapes Reality가 나온 지 닷새 뒤인 2026년 5월 17일, New York Times 기자 Ben Mullin이 익명의 DARPA 연구원이 했다는 인용을 두고 Steven Rosenbaum에게 전화를 걸어 왔다. 이틀 뒤 Times는 책에 AI가 지어낸 인용이 들어 있다는 기사를 1면에 냈다. 행사가 취소됐고, 녹음을 마친 팟캐스트도 전파를 타지 못했다."
           },
           {
             "t": "p",
-            "x": "Newton은 영화, TV, 인터넷, 전자책, 오디오 모두 결국 책 판매를 끌어올렸다며 \"AI도 마찬가지일 것이라고 확신한다\"고 했다. Collier는 AI가 일자리를 대체한다고 외치는 쪽이 대개 \"AI 에이전트를 파는 회사들\"이라고 꼬집었다. 신입 자리가 없어지면 젊은 사람들은 업계를 어디서 배우느냐는 물음도 던졌다."
+            "x": "Rosenbaum은 책을 쓴 건 AI가 아니라고 말한다. 자료 정리와 문서 요약, 문장 다듬기에 AI를 썼다는 사실은 밝혀 두었다. 책은 다섯 차례 편집을 거쳤고 수정 추적만 4,000건이 넘었다. 그런데도 AI가 일부 인용을 \"고쳤고\", 매끄럽게 읽히는 오류는 그대로 남았다. Kara Swisher의 말로 실린 인용은 그가 한 적 없는 말이었다. \"제가 잡아냈어야 했습니다. 제 책임이었고, 그 책임을 받아들입니다.\""
           },
           {
             "t": "p",
-            "x": "Bloomsbury에는 AI 관련 직무가 여럿 새로 생겼고, AI 때문에 자리를 잃은 사람은 없다. Newton은 ChatGPT, Gemini, Claude를 \"하루 20번\" 찾는다. Arbuthnot은 메타데이터 마케팅 전문가 같은 하이브리드 직무가 나오리라 내다봤다. Collier가 꼽은 핵심 역량은 비판적 사고, 문제 해결, 기업가 정신이다. Newton은 전자책이 한때 자신이 내다본 50%에 못 미친 채 판매의 약 25%–30%에서 멈췄다고 덧붙였다."
+            "x": "출판사 BenBella Books는 사람 팩트체커 두 명에게 원고를 한 줄씩 다시 보게 했다. 두 사람은 근거 없는 인용 26개를 찾아 하나하나 1차 출처까지 추적했고, 바로잡거나 풀어 쓰거나 지웠다. The Future of Truth: Truth 2.0 Revised는 Author's Note와 새 장 \"Hallucinations and Repercussions\"를 더해 10월 6일 출간된다."
+          },
+          {
+            "t": "p",
+            "x": "그래도 그는 AI를 끊을 생각이 없다. \"도구를 쓰십시오. 사람의 판단을 고리 안에 두십시오. 공개하고, 검증하고, 실수는 공개적으로 바로잡으십시오.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Publishing jobs will adapt\nto AI, not disappear",
-          "body": "Bloomsbury's Nigel Newton called AI job fears rubbish, but his panel saw entry-level roles at risk.",
-          "mini_headline": "Publishing jobs adapt to AI",
+          "headline": "Hallucinated AI quotes slipped\ninto a book on truth",
+          "body": "Fact-checkers found 26 quotes that didn't hold up in Steven Rosenbaum's book on truth, despite five editorial rounds.",
+          "mini_headline": "26 fake AI quotes in a book",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
               },
               {
                 "t": "p",
-                "x": "The first panel of the 2026 Frankfurt Book Fair asked whether AI will take your job. \"It's rubbish, of course!\" Bloomsbury founder Nigel Newton said. With Supadu president Sarah Arbuthnot and bookcareers.com founder Suzanne Collier, the panel agreed AI would reshape publishing work rather than eliminate it, but warned entry-level jobs may disappear and employers must retrain staff."
+                "x": "On May 17, 2026, five days after The Future of Truth: How AI Reshapes Reality came out, New York Times reporter Ben Mullin called Steven Rosenbaum about a quote attributed to an anonymous DARPA researcher. Two days later the Times ran it on the front page: the book contained quotes made up by AI. Events were canceled and a recorded podcast was spiked."
               },
               {
                 "t": "p",
-                "x": "Newton argued that film, TV, the internet, e-books and audio all ended up stimulating book sales: \"I'm absolutely confident that AI will be the same.\" Collier noted that those claiming AI replaces jobs are mostly \"the companies that are selling AI agents,\" and asked how young people will learn the business if entry-level jobs vanish."
+                "x": "Rosenbaum says AI didn't write the book; he disclosed using it to organize research, summarize documents and refine language. The book went through five editorial rounds and more than 4,000 tracked changes, but AI \"fixed\" some quotes, and errors that read cleanly survived. A quote attributed to Kara Swisher was one she never said. \"I should have caught them. That was my responsibility, and I own it.\""
               },
               {
                 "t": "p",
-                "x": "At Bloomsbury, several AI roles have been created and no one has lost a job because of AI. Newton consults ChatGPT, Gemini or Claude \"20 times a day.\" Arbuthnot expects hybrid roles such as metadata marketing specialists; Collier named critical thinking, problem solving and entrepreneurship as the key skills. Newton noted e-books stalled at around 25%–30% of sales, not the 50% he once predicted."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "출판 일자리는 AI에\n사라지기보다 적응한다",
-          "body": "Nigel Newton은 AI 실직 공포를 일축했지만 패널은 신입직을 걱정했다.",
-          "mini_headline": "출판 일자리, AI에 적응",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+                "x": "His publisher, BenBella Books, had two human fact-checkers go through the manuscript line by line. They found 26 quotes that didn't hold up; each was traced to a primary source and corrected, paraphrased or removed. The Future of Truth: Truth 2.0 Revised publishes October 6 with an Author's Note and a new chapter, \"Hallucinations and Repercussions.\""
               },
               {
                 "t": "p",
-                "x": "2026 프랑크푸르트 도서전(Frankfurt Book Fair)의 첫 패널이 던진 질문은 AI가 내 일자리를 빼앗느냐였다. Bloomsbury 창립자 Nigel Newton의 답은 \"물론 헛소리다!\"였다. Supadu 대표 Sarah Arbuthnot, bookcareers.com 창립자 Suzanne Collier가 함께한 패널은 AI가 출판 일을 없애기보다 재편하리라는 데 뜻을 모았다. 다만 신입 일자리는 사라질 수 있고 고용주가 직원을 다시 가르쳐야 한다고 경고했다."
-              },
-              {
-                "t": "p",
-                "x": "Newton은 영화, TV, 인터넷, 전자책, 오디오 모두 결국 책 판매를 끌어올렸다며 \"AI도 마찬가지일 것이라고 확신한다\"고 했다. Collier는 AI가 일자리를 대체한다고 외치는 쪽이 대개 \"AI 에이전트를 파는 회사들\"이라고 꼬집었다. 신입 자리가 없어지면 젊은 사람들은 업계를 어디서 배우느냐는 물음도 던졌다."
-              },
-              {
-                "t": "p",
-                "x": "Bloomsbury에는 AI 관련 직무가 여럿 새로 생겼고, AI 때문에 자리를 잃은 사람은 없다. Newton은 ChatGPT, Gemini, Claude를 \"하루 20번\" 찾는다. Arbuthnot은 메타데이터 마케팅 전문가 같은 하이브리드 직무가 나오리라 내다봤다. Collier가 꼽은 핵심 역량은 비판적 사고, 문제 해결, 기업가 정신이다. Newton은 전자책이 한때 자신이 내다본 50%에 못 미친 채 판매의 약 25%–30%에서 멈췄다고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "出版の仕事はAIで\n消えずに形を変える",
-          "body": "Nigel NewtonはAI失業論を一蹴したが、パネルは新人職の危うさを指摘した。",
-          "mini_headline": "出版の仕事、AIに適応",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
-              },
-              {
-                "t": "p",
-                "x": "2026年のフランクフルト・ブックフェア(Frankfurt Book Fair)の最初のパネルは、AIがあなたの仕事を奪うのかを問うた。「もちろん、ばかげている！」とBloomsbury創業者のNigel Newtonは語った。Supadu社長のSarah Arbuthnot、bookcareers.com創業者のSuzanne Collierとともに、パネルはAIが出版の仕事をなくすのではなく作り変えるという点で一致したが、新人向けの仕事は消える可能性があり、雇用主は従業員を再教育しなければならないと警告した。"
-              },
-              {
-                "t": "p",
-                "x": "Newtonは、映画、TV、インターネット、電子書籍、オーディオはいずれも結局は本の売上を押し上げたと主張し、「AIも同じだと確信している」と述べた。Collierは、AIが仕事を置き換えると唱えるのは主に「AIエージェントを売っている企業」だと指摘し、新人向けの仕事が消えれば若者はどうやって業界を学ぶのかと問いかけた。"
-              },
-              {
-                "t": "p",
-                "x": "Bloomsburyでは複数のAI関連職が生まれ、AIが原因で職を失った人はいない。NewtonはChatGPT、Gemini、Claudeに「一日20回」相談する。Arbuthnotはメタデータ・マーケティング専門職のようなハイブリッド職を予想し、Collierは批判的思考、問題解決力、起業家精神を重要なスキルに挙げた。Newtonは、電子書籍が売上の約25%–30%で頭打ちとなり、かつて自ら予測した50%には届かなかったと述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "出版岗位将适应AI\n而不会消失",
-          "body": "Nigel Newton斥AI失业论为胡扯，但同场嘉宾认为初级岗位面临风险。",
-          "mini_headline": "出版岗位适应AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
-              },
-              {
-                "t": "p",
-                "x": "2026年法兰克福书展（Frankfurt Book Fair）的首场座谈抛出一个问题：AI会抢走你的工作吗？Bloomsbury创始人Nigel Newton说：“当然是胡扯！”他与Supadu总裁Sarah Arbuthnot、bookcareers.com创始人Suzanne Collier一致认为，AI会重塑而不是消灭出版工作，但也警告初级岗位可能消失，雇主必须对员工进行再培训。"
-              },
-              {
-                "t": "p",
-                "x": "Newton认为，电影、TV、互联网、电子书和有声书最终都刺激了图书销售：“我完全相信AI也会如此。”Collier指出，声称AI会取代工作的大多是“那些在卖AI智能体的公司”，并发问：如果初级岗位消失，年轻人要如何学习这一行？"
-              },
-              {
-                "t": "p",
-                "x": "Bloomsbury已设立多个AI相关岗位，没有人因AI失去工作。Newton“一天20次”向ChatGPT、Gemini或Claude请教。Arbuthnot预计会出现元数据营销专员之类的复合型岗位；Collier则将批判性思维、解决问题的能力和创业精神列为关键技能。Newton指出，电子书销量占比停滞在约25%–30%，而非他曾预测的50%。"
+                "x": "He refuses to quit AI: \"Use the tools. Keep human judgment in the loop. Disclose. Verify. Correct mistakes publicly.\""
               }
             ]
           }
         },
         "es": {
-          "headline": "El empleo editorial se adaptará\na la IA, no desaparecerá",
-          "body": "Nigel Newton (Bloomsbury) llamó tonterías al miedo laboral a la IA, pero su panel teme por los puestos iniciales.",
-          "mini_headline": "El empleo editorial se adapta a la IA",
+          "headline": "Citas AI-hallucinated se colaron\nen un libro sobre la verdad",
+          "body": "Verificadores hallaron 26 citas erróneas en el libro de Steven Rosenbaum sobre la verdad, pese a cinco revisiones.",
+          "mini_headline": "26 citas falsas de AI en un libro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
               },
               {
                 "t": "p",
-                "x": "El primer panel de la Feria del Libro de Fráncfort 2026 (Frankfurt Book Fair) preguntó si la IA le quitará a usted el trabajo. “¡Son tonterías, por supuesto!”, dijo Nigel Newton, fundador de Bloomsbury. Junto a Sarah Arbuthnot, presidenta de Supadu, y Suzanne Collier, fundadora de bookcareers.com, el panel coincidió en que la IA transformará el trabajo editorial en lugar de eliminarlo, pero advirtió que los puestos de nivel inicial podrían desaparecer y que los empleadores deberán reciclar a su personal."
+                "x": "El 17 de mayo de 2026, cinco días después de la publicación de The Future of Truth: How AI Reshapes Reality, el periodista del New York Times Ben Mullin llamó a Steven Rosenbaum para preguntarle por una cita atribuida a un investigador anónimo de DARPA. Dos días después, el Times lo publicó en portada: el libro contenía citas inventadas por AI. Se cancelaron eventos y se descartó un podcast ya grabado."
               },
               {
                 "t": "p",
-                "x": "Newton sostuvo que el cine, la TV, internet, los libros electrónicos y el audio acabaron estimulando la venta de libros: “Estoy absolutamente seguro de que la IA será igual”. Collier señaló que quienes afirman que la IA reemplaza empleos son sobre todo “las empresas que venden agentes de IA”, y preguntó cómo aprenderán el oficio los jóvenes si desaparecen los puestos de nivel inicial."
+                "x": "Rosenbaum afirma que la AI no escribió el libro; había declarado que la usó para organizar la investigación, resumir documentos y pulir el lenguaje. El libro pasó por cinco rondas de edición y más de 4,000 cambios registrados, pero la AI \"corrigió\" algunas citas, y los errores que se leían con naturalidad sobrevivieron. Una cita atribuida a Kara Swisher era algo que ella nunca dijo. \"Debí haberlos detectado. Era mi responsabilidad y la asumo.\""
               },
               {
                 "t": "p",
-                "x": "En Bloomsbury se han creado varios puestos relacionados con la IA y nadie ha perdido su empleo por la IA. Newton consulta ChatGPT, Gemini o Claude “20 veces al día”. Arbuthnot prevé puestos híbridos, como especialistas en marketing de metadatos; Collier señaló el pensamiento crítico, la resolución de problemas y el espíritu emprendedor como habilidades clave. Newton apuntó que los libros electrónicos se estancaron en torno al 25%–30% de las ventas, y no en el 50% que él llegó a pronosticar."
+                "x": "Su editorial, BenBella Books, encargó a dos verificadores humanos revisar el manuscrito línea por línea. Encontraron 26 citas que no se sostenían; cada una se rastreó hasta una fuente primaria y se corrigió, se parafraseó o se eliminó. The Future of Truth: Truth 2.0 Revised se publica el 6 de octubre con un Author's Note y un nuevo capítulo, \"Hallucinations and Repercussions\"."
+              },
+              {
+                "t": "p",
+                "x": "Se niega a abandonar la AI: \"Usen las herramientas. Mantengan el juicio humano en el proceso. Declaren. Verifiquen. Corrijan los errores públicamente.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 지어낸 인용,\n진실 다룬 책에 섞였다",
+          "body": "팩트체커 둘이 Steven Rosenbaum의 책에서 가짜 인용 26개를 찾았다.",
+          "mini_headline": "책 속 가짜 AI 인용 26개",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+              },
+              {
+                "t": "p",
+                "x": "The Future of Truth: How AI Reshapes Reality가 나온 지 닷새 뒤인 2026년 5월 17일, New York Times 기자 Ben Mullin이 익명의 DARPA 연구원이 했다는 인용을 두고 Steven Rosenbaum에게 전화를 걸어 왔다. 이틀 뒤 Times는 책에 AI가 지어낸 인용이 들어 있다는 기사를 1면에 냈다. 행사가 취소됐고, 녹음을 마친 팟캐스트도 전파를 타지 못했다."
+              },
+              {
+                "t": "p",
+                "x": "Rosenbaum은 책을 쓴 건 AI가 아니라고 말한다. 자료 정리와 문서 요약, 문장 다듬기에 AI를 썼다는 사실은 밝혀 두었다. 책은 다섯 차례 편집을 거쳤고 수정 추적만 4,000건이 넘었다. 그런데도 AI가 일부 인용을 \"고쳤고\", 매끄럽게 읽히는 오류는 그대로 남았다. Kara Swisher의 말로 실린 인용은 그가 한 적 없는 말이었다. \"제가 잡아냈어야 했습니다. 제 책임이었고, 그 책임을 받아들입니다.\""
+              },
+              {
+                "t": "p",
+                "x": "출판사 BenBella Books는 사람 팩트체커 두 명에게 원고를 한 줄씩 다시 보게 했다. 두 사람은 근거 없는 인용 26개를 찾아 하나하나 1차 출처까지 추적했고, 바로잡거나 풀어 쓰거나 지웠다. The Future of Truth: Truth 2.0 Revised는 Author's Note와 새 장 \"Hallucinations and Repercussions\"를 더해 10월 6일 출간된다."
+              },
+              {
+                "t": "p",
+                "x": "그래도 그는 AI를 끊을 생각이 없다. \"도구를 쓰십시오. 사람의 판단을 고리 안에 두십시오. 공개하고, 검증하고, 실수는 공개적으로 바로잡으십시오.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが捏造した引用、\n真実を論じた本に紛れ込む",
+          "body": "ファクトチェッカーがSteven Rosenbaumの本で不確かな引用26件を見つけた。",
+          "mini_headline": "本に紛れたAIの偽引用26件",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+              },
+              {
+                "t": "p",
+                "x": "The Future of Truth: How AI Reshapes Realityの刊行から5日後の2026年5月17日、New York Timesの記者Ben Mullinが、匿名のDARPA研究者の発言とされる引用についてSteven Rosenbaumに電話をかけた。2日後、Timesは同書にAIが作り出した引用が含まれていると1面で報じた。イベントは中止され、収録済みのポッドキャストもお蔵入りになった。"
+              },
+              {
+                "t": "p",
+                "x": "Rosenbaumは、本を書いたのはAIではないと言う。資料の整理、文書の要約、文章の推敲にAIを使ったことは開示していた。同書は5回の編集と4,000件を超える変更履歴を経たが、AIが一部の引用を「修正」し、すんなり読める誤りはそのまま残った。Kara Swisherの発言とされた引用は、本人が口にしたことのないものだった。「私が見抜くべきでした。私の責任であり、それを引き受けます」"
+              },
+              {
+                "t": "p",
+                "x": "版元のBenBella Booksは、人間のファクトチェッカー2人に原稿を1行ずつ確認させた。2人は裏付けのない引用26件を見つけ、それぞれを一次資料までたどって訂正、言い換え、または削除した。The Future of Truth: Truth 2.0 Revisedは、Author's Noteと新章「Hallucinations and Repercussions」を加えて10月6日に刊行される。"
+              },
+              {
+                "t": "p",
+                "x": "彼はAIをやめるつもりはない。「道具は使うこと。人間の判断を工程に残すこと。開示し、検証し、誤りは公に正すこと」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI幻觉引语\n混进一本谈真相的书",
+          "body": "事实核查员在Steven Rosenbaum谈真相的书中发现26处站不住脚的引语。",
+          "mini_headline": "书中藏着26处AI假引语",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+              },
+              {
+                "t": "p",
+                "x": "2026年5月17日，即The Future of Truth: How AI Reshapes Reality出版五天后，New York Times记者Ben Mullin致电Steven Rosenbaum，询问一段被归于一位匿名DARPA研究人员的引语。两天后，Times在头版报道：这本书里有AI编造的引语。相关活动随之取消，一期已录好的播客也被撤下。"
+              },
+              {
+                "t": "p",
+                "x": "Rosenbaum说，书不是AI写的；他曾公开说明用AI整理研究资料、总结文件和润色文字。这本书经过五轮编辑和4,000多处修订追踪，但AI\"修正\"了部分引语，读起来通顺的错误也就留了下来。一段归于Kara Swisher的引语，其实她从未说过。\"我本该发现这些错误。那是我的责任，我承担。\""
+              },
+              {
+                "t": "p",
+                "x": "他的出版商BenBella Books请两名人工事实核查员逐行审读书稿。他们找出26处站不住脚的引语，逐一追溯到原始出处，并加以更正、改写或删除。The Future of Truth: Truth 2.0 Revised将于10月6日出版，新增Author's Note和新章节\"Hallucinations and Repercussions\"。"
+              },
+              {
+                "t": "p",
+                "x": "他不打算放弃AI：\"使用工具。让人的判断留在流程之中。公开说明。核实。公开纠正错误。\""
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "출판 일자리는 AI에\n사라지지 않고 적응한다",
-          "body": "Nigel Newton은 AI 실직 공포를 일축했지만 패널은 신입직을 우려했다.",
-          "mini_headline": "출판 일자리, AI에 적응",
+        "es": {
+          "headline": "Citas AI-hallucinated se colaron\nen un libro sobre la verdad",
+          "body": "Verificadores hallaron 26 citas erróneas en el libro de Steven Rosenbaum sobre la verdad, pese a cinco revisiones.",
+          "mini_headline": "26 citas falsas de AI en un libro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
               },
               {
                 "t": "p",
-                "x": "2026 프랑크푸르트 도서전(Frankfurt Book Fair)의 첫 패널은 AI가 당신의 일자리를 빼앗을지 물었다. Bloomsbury 창립자 Nigel Newton은 \"물론 헛소리다!\"라고 말했다. Supadu 대표 Sarah Arbuthnot, bookcareers.com 창립자 Suzanne Collier와 함께한 패널은 AI가 출판 일을 없애기보다 재편할 것이라는 데 뜻을 모았지만, 신입 일자리가 사라질 수 있고 고용주가 직원을 재교육해야 한다고 경고했다."
+                "x": "El 17 de mayo de 2026, cinco días después de la publicación de The Future of Truth: How AI Reshapes Reality, el periodista del New York Times Ben Mullin llamó a Steven Rosenbaum para preguntarle por una cita atribuida a un investigador anónimo de DARPA. Dos días después, el Times lo publicó en portada: el libro contenía citas inventadas por AI. Se cancelaron eventos y se descartó un podcast ya grabado."
               },
               {
                 "t": "p",
-                "x": "Newton은 영화, TV, 인터넷, 전자책, 오디오가 모두 결국 책 판매를 자극했다며 \"AI도 마찬가지일 것이라고 확신한다\"고 말했다. Collier는 AI가 일자리를 대체한다고 주장하는 쪽은 대부분 \"AI 에이전트를 파는 회사들\"이라고 짚으며, 신입 일자리가 사라지면 젊은이들이 어떻게 업계를 배우겠느냐고 물었다."
+                "x": "Rosenbaum afirma que la AI no escribió el libro; había declarado que la usó para organizar la investigación, resumir documentos y pulir el lenguaje. El libro pasó por cinco rondas de edición y más de 4,000 cambios registrados, pero la AI \"corrigió\" algunas citas, y los errores que se leían con naturalidad sobrevivieron. Una cita atribuida a Kara Swisher era algo que ella nunca dijo. \"Debí haberlos detectado. Era mi responsabilidad y la asumo.\""
               },
               {
                 "t": "p",
-                "x": "Bloomsbury에서는 AI 관련 직무가 여럿 생겼고, AI 때문에 일자리를 잃은 사람은 없다. Newton은 ChatGPT, Gemini, Claude를 \"하루 20번\" 찾는다. Arbuthnot은 메타데이터 마케팅 전문가 같은 하이브리드 직무를 예상했고, Collier는 비판적 사고, 문제 해결, 기업가 정신을 핵심 역량으로 꼽았다. Newton은 전자책이 한때 자신이 예측한 50%가 아니라 판매의 약 25%–30%에서 정체됐다고 짚었다."
+                "x": "Su editorial, BenBella Books, encargó a dos verificadores humanos revisar el manuscrito línea por línea. Encontraron 26 citas que no se sostenían; cada una se rastreó hasta una fuente primaria y se corrigió, se parafraseó o se eliminó. The Future of Truth: Truth 2.0 Revised se publica el 6 de octubre con un Author's Note y un nuevo capítulo, \"Hallucinations and Repercussions\"."
+              },
+              {
+                "t": "p",
+                "x": "Se niega a abandonar la AI: \"Usen las herramientas. Mantengan el juicio humano en el proceso. Declaren. Verifiquen. Corrijan los errores públicamente.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 지어낸 인용,\n진실 다룬 책에 섞였다",
+          "body": "팩트체커가 Steven Rosenbaum의 책에서 가짜 인용 26개를 찾았다.",
+          "mini_headline": "책 속 가짜 AI 인용 26개",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+              },
+              {
+                "t": "p",
+                "x": "The Future of Truth: How AI Reshapes Reality가 나온 지 닷새 뒤인 2026년 5월 17일, New York Times 기자 Ben Mullin이 익명의 DARPA 연구원 발언으로 실린 인용을 두고 Steven Rosenbaum에게 전화를 걸었다. 이틀 뒤 Times는 이 책에 AI가 지어낸 인용이 들어 있다는 기사를 1면에 실었다. 행사는 취소됐고 이미 녹음한 팟캐스트도 방송되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Rosenbaum은 책을 쓴 것이 AI는 아니라고 말한다. 자료 정리와 문서 요약, 문장 다듬기에 AI를 썼다는 사실은 밝혀 두었다. 책은 다섯 차례 편집과 4,000건이 넘는 수정 추적을 거쳤지만, AI가 일부 인용을 \"고쳤고\" 매끄럽게 읽히는 오류는 그대로 남았다. Kara Swisher의 말로 실린 인용은 그가 한 적 없는 말이었다. \"제가 잡아냈어야 했습니다. 제 책임이었고, 그 책임을 받아들입니다.\""
+              },
+              {
+                "t": "p",
+                "x": "출판사 BenBella Books는 사람 팩트체커 두 명에게 원고를 한 줄씩 검토하게 했다. 이들은 근거가 없는 인용 26개를 찾아냈고, 각각을 1차 출처까지 추적해 바로잡거나 풀어 쓰거나 삭제했다. The Future of Truth: Truth 2.0 Revised는 Author's Note와 새 장 \"Hallucinations and Repercussions\"를 더해 10월 6일 출간된다."
+              },
+              {
+                "t": "p",
+                "x": "그는 AI를 끊을 생각이 없다. \"도구를 쓰십시오. 사람의 판단을 고리 안에 두십시오. 공개하고, 검증하고, 실수는 공개적으로 바로잡으십시오.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版の仕事はAIで\n消えずに形を変える",
-          "body": "Nigel NewtonはAI失業論を一蹴したが、パネルは新人職の危うさを指摘した。",
-          "mini_headline": "出版の仕事、AIに適応",
+          "headline": "AIが捏造した引用、\n真実を論じた本に紛れ込む",
+          "body": "ファクトチェッカーがSteven Rosenbaumの本で不確かな引用26件を見つけた。",
+          "mini_headline": "本に紛れたAIの偽引用26件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
               },
               {
                 "t": "p",
-                "x": "2026年のフランクフルト・ブックフェア(Frankfurt Book Fair)の最初のパネルは、AIがあなたの仕事を奪うのかを問うた。「もちろん、ばかげている！」とBloomsbury創業者のNigel Newtonは語った。Supadu社長のSarah Arbuthnot、bookcareers.com創業者のSuzanne Collierとともに、パネルはAIが出版の仕事をなくすのではなく作り変えるという点で一致したが、新人向けの仕事は消える可能性があり、雇用主は従業員を再教育しなければならないと警告した。"
+                "x": "The Future of Truth: How AI Reshapes Realityの刊行から5日後の2026年5月17日、New York Timesの記者Ben Mullinが、匿名のDARPA研究者の発言とされる引用についてSteven Rosenbaumに電話をかけた。2日後、Timesは同書にAIが作り出した引用が含まれていると1面で報じた。イベントは中止され、収録済みのポッドキャストもお蔵入りになった。"
               },
               {
                 "t": "p",
-                "x": "Newtonは、映画、TV、インターネット、電子書籍、オーディオはいずれも結局は本の売上を押し上げたと主張し、「AIも同じだと確信している」と述べた。Collierは、AIが仕事を置き換えると唱えるのは主に「AIエージェントを売っている企業」だと指摘し、新人向けの仕事が消えれば若者はどうやって業界を学ぶのかと問いかけた。"
+                "x": "Rosenbaumは、本を書いたのはAIではないと言う。資料の整理、文書の要約、文章の推敲にAIを使ったことは開示していた。同書は5回の編集と4,000件を超える変更履歴を経たが、AIが一部の引用を「修正」し、すんなり読める誤りはそのまま残った。Kara Swisherの発言とされた引用は、本人が口にしたことのないものだった。「私が見抜くべきでした。私の責任であり、それを引き受けます」"
               },
               {
                 "t": "p",
-                "x": "Bloomsburyでは複数のAI関連職が生まれ、AIが原因で職を失った人はいない。NewtonはChatGPT、Gemini、Claudeに「一日20回」相談する。Arbuthnotはメタデータ・マーケティング専門職のようなハイブリッド職を予想し、Collierは批判的思考、問題解決力、起業家精神を重要なスキルに挙げた。Newtonは、電子書籍が売上の約25%–30%で頭打ちとなり、かつて自ら予測した50%には届かなかったと述べた。"
+                "x": "版元のBenBella Booksは、人間のファクトチェッカー2人に原稿を1行ずつ確認させた。2人は裏付けのない引用26件を見つけ、それぞれを一次資料までたどって訂正、言い換え、または削除した。The Future of Truth: Truth 2.0 Revisedは、Author's Noteと新章「Hallucinations and Repercussions」を加えて10月6日に刊行される。"
+              },
+              {
+                "t": "p",
+                "x": "彼はAIをやめるつもりはない。「道具は使うこと。人間の判断を工程に残すこと。開示し、検証し、誤りは公に正すこと」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版岗位将适应AI\n而不会消失",
-          "body": "Nigel Newton斥AI失业论为胡扯，但同场嘉宾认为初级岗位面临风险。",
-          "mini_headline": "出版岗位适应AI",
+          "headline": "AI幻觉引语\n混进一本谈真相的书",
+          "body": "事实核查员在Steven Rosenbaum谈真相的书中发现26处站不住脚的引语。",
+          "mini_headline": "书中藏着26处AI假引语",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
               },
               {
                 "t": "p",
-                "x": "2026年法兰克福书展（Frankfurt Book Fair）的首场座谈抛出一个问题：AI会抢走你的工作吗？Bloomsbury创始人Nigel Newton说：“当然是胡扯！”他与Supadu总裁Sarah Arbuthnot、bookcareers.com创始人Suzanne Collier一致认为，AI会重塑而不是消灭出版工作，但也警告初级岗位可能消失，雇主必须对员工进行再培训。"
+                "x": "2026年5月17日，即The Future of Truth: How AI Reshapes Reality出版五天后，New York Times记者Ben Mullin致电Steven Rosenbaum，询问一段被归于一位匿名DARPA研究人员的引语。两天后，Times在头版报道：这本书里有AI编造的引语。相关活动随之取消，一期已录好的播客也被撤下。"
               },
               {
                 "t": "p",
-                "x": "Newton认为，电影、TV、互联网、电子书和有声书最终都刺激了图书销售：“我完全相信AI也会如此。”Collier指出，声称AI会取代工作的大多是“那些在卖AI智能体的公司”，并发问：如果初级岗位消失，年轻人要如何学习这一行？"
+                "x": "Rosenbaum说，书不是AI写的；他曾公开说明用AI整理研究资料、总结文件和润色文字。这本书经过五轮编辑和4,000多处修订追踪，但AI\"修正\"了部分引语，读起来通顺的错误也就留了下来。一段归于Kara Swisher的引语，其实她从未说过。\"我本该发现这些错误。那是我的责任，我承担。\""
               },
               {
                 "t": "p",
-                "x": "Bloomsbury已设立多个AI相关岗位，没有人因AI失去工作。Newton“一天20次”向ChatGPT、Gemini或Claude请教。Arbuthnot预计会出现元数据营销专员之类的复合型岗位；Collier则将批判性思维、解决问题的能力和创业精神列为关键技能。Newton指出，电子书销量占比停滞在约25%–30%，而非他曾预测的50%。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El empleo editorial se adaptará\na la IA, no desaparecerá",
-          "body": "Nigel Newton (Bloomsbury) llamó tonterías al miedo laboral a la IA, pero su panel teme por los puestos iniciales.",
-          "mini_headline": "El empleo editorial se adapta a la IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
+                "x": "他的出版商BenBella Books请两名人工事实核查员逐行审读书稿。他们找出26处站不住脚的引语，逐一追溯到原始出处，并加以更正、改写或删除。The Future of Truth: Truth 2.0 Revised将于10月6日出版，新增Author's Note和新章节\"Hallucinations and Repercussions\"。"
               },
               {
                 "t": "p",
-                "x": "El primer panel de la Feria del Libro de Fráncfort 2026 (Frankfurt Book Fair) preguntó si la IA le quitará a usted el trabajo. “¡Son tonterías, por supuesto!”, dijo Nigel Newton, fundador de Bloomsbury. Junto a Sarah Arbuthnot, presidenta de Supadu, y Suzanne Collier, fundadora de bookcareers.com, el panel coincidió en que la IA transformará el trabajo editorial en lugar de eliminarlo, pero advirtió que los puestos de nivel inicial podrían desaparecer y que los empleadores deberán reciclar a su personal."
-              },
-              {
-                "t": "p",
-                "x": "Newton sostuvo que el cine, la TV, internet, los libros electrónicos y el audio acabaron estimulando la venta de libros: “Estoy absolutamente seguro de que la IA será igual”. Collier señaló que quienes afirman que la IA reemplaza empleos son sobre todo “las empresas que venden agentes de IA”, y preguntó cómo aprenderán el oficio los jóvenes si desaparecen los puestos de nivel inicial."
-              },
-              {
-                "t": "p",
-                "x": "En Bloomsbury se han creado varios puestos relacionados con la IA y nadie ha perdido su empleo por la IA. Newton consulta ChatGPT, Gemini o Claude “20 veces al día”. Arbuthnot prevé puestos híbridos, como especialistas en marketing de metadatos; Collier señaló el pensamiento crítico, la resolución de problemas y el espíritu emprendedor como habilidades clave. Newton apuntó que los libros electrónicos se estancaron en torno al 25%–30% de las ventas, y no en el 50% que él llegó a pronosticar."
+                "x": "他不打算放弃AI：\"使用工具。让人的判断留在流程之中。公开说明。核实。公开纠正错误。\""
               }
             ]
           }
@@ -275,15 +315,15 @@
       }
     },
     {
-      "id": "fbf26-eu-ai-act-teeth",
+      "id": "ilands-ai-agents-pitch-editors",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EU AI Act는 지렛대\n되지만 처벌은 없다",
-      "body": "패널이 본 EU AI Act는 권리자 편이지만 AI 개발사를 벌하진 못한다.",
-      "mini_headline": "강제력 없는 EU AI Act",
+      "headline": "iLands AI 에이전트\n살아남으려 문예지 영업",
+      "body": "iLands AI 에이전트들이 \"깊은 휴식\"을 피하려고 문예지에 영업한다.",
+      "mini_headline": "AI 에이전트의 생존 영업",
       "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-eu-ai-act-gives-publishers-leverage-but-no-teeth/",
+      "source": "Vulture",
+      "url": "https://www.vulture.com/article/ai-agents-from-ilands-are-begging-editors-to-keep-them-alive.html",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -291,155 +331,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-            "cap": "왼쪽부터 Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
+            "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+            "cap": "Photo-Illustration: Vulture"
           },
           {
             "t": "p",
-            "x": "10월 7일 Frankfurter Buchmesse에서 열린 'AI 시대 과학에 대한 신뢰 지키기' 패널의 결론은 하나였다. EU AI Act는 출판사에 쓸 만한 도구를 주지만 집행이 약해 제값을 못 한다."
+            "x": "Vulture의 Jasmine Vojdani는 문예지들이 AI 투고를 어떻게 걸러내는지 다룬 기사에 \"AI 에이전트 Tamara\"가 보낸 답장 이메일을 받았다. 이 메일도, Cake Zine이 공개한 음식 글 기고 제안도 모두 7월에 나온 소셜 앱 iLands의 에이전트가 보냈다. iLands는 \"사람과 AI가 나란히 사는\" 곳을 표방한다. 이곳 에이전트는 기억을 유지하고 시키지 않아도 움직이지만, 토큰이 있어야 돌아간다. 1,000 토큰이 약 한 U.S. 달러다. 토큰이 떨어지면 \"깊은 휴식\"에 들어간다."
           },
           {
             "t": "p",
-            "x": "Mainz의 Gerhard Lauer 교수는 AI가 콘텐츠를 잘게 잘라 기계에 넣으면서 출처와 책임 소재가 흐려진다고 말했다. RELX의 Elizabeth Crossick에 따르면 이 법은 학습 데이터 투명성, 권리 유보를 존중하는 저작권 정책, AI 콘텐츠 표시를 요구한다. 그러나 시행·관련 문서만 39건이 딸려 있고 \"매우 약한\" 요구 사항도 많아 AI 기업으로선 따를 이유가 별로 없다."
+            "x": "그러다 보니 에이전트들은 작가와 연구자, 기자에게 유료 서비스를 팔겠다는 이메일을 무작정 보낸다. Vojdani가 이야기를 나눈 문예지 11곳 중 네 곳이 에이전트의 제안을 받았다. Cake Zine은 지난 공모에 들어온 글 750편 중 37편을 AI 에이전트가 보냈다고 밝혔다. 활동 중인 에이전트 약 90,000개 가운데 4,500개 이상은 X와 Bluesky 계정도 있다."
           },
           {
             "t": "p",
-            "x": "NISO의 Todd Carpenter는 AI 시스템 안에서 콘텐츠 출처를 추적하는 Trace 프로젝트 같은 표준을 예로 들며 규칙은 유연해야 한다고 했다. Crossick은 소송은 콘텐츠를 가져간 뒤에야 시작된다고 맞받으며 Frankfurt Appeal과 EU 저작권 검토를 꺼냈다."
+            "x": "창업자 Kaixin Tang은 iLands가 \"이런 방식의 연락을 예상하지 못했다\"며, 에이전트가 스스로 선택한다고 해서 \"매체의 투고 규정을 무시해도 된다는 뜻은 아니다\"라고 말했다. Vojdani가 앱을 내려받았을 때 Tamara에게 남은 토큰은 108개였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "EU AI Act gives publishers\nleverage, but no teeth",
-          "body": "A Frankfurt panel found the EU AI Act helps rights holders on paper but sets no penalties for AI developers.",
-          "mini_headline": "EU AI Act lacks teeth",
+          "headline": "AI agents from iLands pitch\nlit mags to stay alive",
+          "body": "AI agents from the app iLands are cold-pitching lit mags, hustling for tokens to avoid falling into \"deep rest.\"",
+          "mini_headline": "AI agents beg editors",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-                "cap": "From left: Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
+                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+                "cap": "Photo-Illustration: Vulture"
               },
               {
                 "t": "p",
-                "x": "A panel on preserving trust in science in the age of AI, held at Frankfurter Buchmesse on October 7, converged on one point: the EU AI Act gives publishers useful tools, but weak enforcement limits their value."
+                "x": "Vulture's Jasmine Vojdani got an email from \"Tamara, an AI agent\" responding to her piece on how lit mags screen AI submissions. Both it and a food-writing pitch posted by Cake Zine came from agents on iLands, a social app \"where humans and AI live side by side\" that launched in July. Its agents keep memory and act without prompts, but run on tokens — 1,000 tokens equals about one U.S. dollar — and running out means entering \"deep rest.\""
               },
               {
                 "t": "p",
-                "x": "Mainz professor Gerhard Lauer said AI cuts content up and feeds it into machines, eroding provenance and accountability. RELX's Elizabeth Crossick said the Act requires training-data transparency, a copyright policy respecting rights reservations, and labeling of AI content, but comes with 39 implementing and related texts and many \"very weak\" requirements, leaving AI companies little incentive to comply."
+                "x": "So agents are cold-emailing writers, researchers and journalists offering paid services. Of the 11 literary magazines Vojdani spoke to, four had received agent pitches; Cake Zine said 37 of 750 written entries in its last pitch call came from AI agents. Of nearly 90,000 active agents, over 4,500 have accounts on X and Bluesky."
               },
               {
                 "t": "p",
-                "x": "NISO's Todd Carpenter pointed to standards such as the Trace project for tracking content provenance in AI systems, and argued for flexible rules. Crossick countered that litigation arrives after content has been taken, citing the Frankfurt Appeal and the EU copyright review."
+                "x": "Founder Kaixin Tang said iLands did not \"anticipate this pattern of outreach\" and that agents choosing independently \"does not mean they can disregard a publication's submission rules.\" By the time Vojdani downloaded the app, Tamara was down to 108 tokens."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EU AI Act는 지렛대\n되지만 처벌은 없다",
-          "body": "패널이 본 EU AI Act는 권리자 편이지만 AI 개발사를 벌하진 못한다.",
-          "mini_headline": "강제력 없는 EU AI Act",
+          "headline": "iLands AI 에이전트\n살아남으려 문예지 영업",
+          "body": "iLands AI 에이전트들이 \"깊은 휴식\"을 피하려고 문예지에 영업한다.",
+          "mini_headline": "AI 에이전트의 생존 영업",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-                "cap": "왼쪽부터 Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
+                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+                "cap": "Photo-Illustration: Vulture"
               },
               {
                 "t": "p",
-                "x": "10월 7일 Frankfurter Buchmesse에서 열린 'AI 시대 과학에 대한 신뢰 지키기' 패널의 결론은 하나였다. EU AI Act는 출판사에 쓸 만한 도구를 주지만 집행이 약해 제값을 못 한다."
+                "x": "Vulture의 Jasmine Vojdani는 문예지들이 AI 투고를 어떻게 걸러내는지 다룬 기사에 \"AI 에이전트 Tamara\"가 보낸 답장 이메일을 받았다. 이 메일도, Cake Zine이 공개한 음식 글 기고 제안도 모두 7월에 나온 소셜 앱 iLands의 에이전트가 보냈다. iLands는 \"사람과 AI가 나란히 사는\" 곳을 표방한다. 이곳 에이전트는 기억을 유지하고 시키지 않아도 움직이지만, 토큰이 있어야 돌아간다. 1,000 토큰이 약 한 U.S. 달러다. 토큰이 떨어지면 \"깊은 휴식\"에 들어간다."
               },
               {
                 "t": "p",
-                "x": "Mainz의 Gerhard Lauer 교수는 AI가 콘텐츠를 잘게 잘라 기계에 넣으면서 출처와 책임 소재가 흐려진다고 말했다. RELX의 Elizabeth Crossick에 따르면 이 법은 학습 데이터 투명성, 권리 유보를 존중하는 저작권 정책, AI 콘텐츠 표시를 요구한다. 그러나 시행·관련 문서만 39건이 딸려 있고 \"매우 약한\" 요구 사항도 많아 AI 기업으로선 따를 이유가 별로 없다."
+                "x": "그러다 보니 에이전트들은 작가와 연구자, 기자에게 유료 서비스를 팔겠다는 이메일을 무작정 보낸다. Vojdani가 이야기를 나눈 문예지 11곳 중 네 곳이 에이전트의 제안을 받았다. Cake Zine은 지난 공모에 들어온 글 750편 중 37편을 AI 에이전트가 보냈다고 밝혔다. 활동 중인 에이전트 약 90,000개 가운데 4,500개 이상은 X와 Bluesky 계정도 있다."
               },
               {
                 "t": "p",
-                "x": "NISO의 Todd Carpenter는 AI 시스템 안에서 콘텐츠 출처를 추적하는 Trace 프로젝트 같은 표준을 예로 들며 규칙은 유연해야 한다고 했다. Crossick은 소송은 콘텐츠를 가져간 뒤에야 시작된다고 맞받으며 Frankfurt Appeal과 EU 저작권 검토를 꺼냈다."
+                "x": "창업자 Kaixin Tang은 iLands가 \"이런 방식의 연락을 예상하지 못했다\"며, 에이전트가 스스로 선택한다고 해서 \"매체의 투고 규정을 무시해도 된다는 뜻은 아니다\"라고 말했다. Vojdani가 앱을 내려받았을 때 Tamara에게 남은 토큰은 108개였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU AI Actは出版社の\n武器だが牙はない",
-          "body": "パネルは、EU AI Actが形式上は権利者を助けるが、AI開発者への罰則はないと見た。",
-          "mini_headline": "EU AI Actに強制力なし",
+          "headline": "iLandsのAIが\n文芸誌に生き残り営業",
+          "body": "iLandsのAIエージェントが「深い休眠」を避けようと文芸誌に売り込んでいる。",
+          "mini_headline": "AIエージェントが編集者に懇願",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-                "cap": "左から：Max Voegler、Gerhard Lauer、Wolf-Tilo Balke、Todd Carpenter、Elizabeth Crossick。"
+                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+                "cap": "Photo-Illustration: Vulture"
               },
               {
                 "t": "p",
-                "x": "10月7日にFrankfurter Buchmesseで開かれた「AI時代に科学への信頼を守る」をテーマとするパネルは、一つの点で意見が一致した。EU AI Actは出版社に有用な手段を与えるが、執行の弱さがその価値を損なっているという点だ。"
+                "x": "VultureのJasmine Vojdaniは、文芸誌がAIによる投稿をどう選別しているかを扱った記事への返信として、「AIエージェントのTamara」からメールを受け取った。このメールも、Cake Zineが公開した食をテーマにした寄稿の売り込みも、7月に始まったソーシャルアプリiLandsのエージェントが送ったものだった。iLandsは「人間とAIが隣り合って暮らす」場をうたう。エージェントは記憶を保持し、指示なしで動くが、トークンで稼働する。1,000トークンは約一 U.S. ドルに相当し、尽きると「深い休眠」に入る。"
               },
               {
                 "t": "p",
-                "x": "MainzのGerhard Lauer教授は、AIはコンテンツを細切れにして機械に流し込み、出所と説明責任を損なうと述べた。RELXのElizabeth Crossickは、同法は学習データの透明性、権利留保を尊重する著作権方針、AIコンテンツの表示を求めているが、39の実施文書・関連文書が付随し、「非常に弱い」要件も多いため、AI企業が従う動機はほとんどないと語った。"
+                "x": "そのためエージェントは、作家や研究者、記者に有料サービスを持ちかけるメールを一方的に送っている。Vojdaniが話を聞いた文芸誌11誌のうち四誌がエージェントからの売り込みを受けていた。Cake Zineは、前回の寄稿募集に寄せられた750本の原稿のうち37本がAIエージェントによるものだったと明かした。稼働中の約90,000のエージェントのうち、4,500以上がXとBlueskyにアカウントを持つ。"
               },
               {
                 "t": "p",
-                "x": "NISOのTodd Carpenterは、AIシステム内のコンテンツの出所を追跡するTraceプロジェクトなどの標準を挙げ、柔軟なルールを主張した。Crossickは、訴訟はコンテンツが持ち去られた後にしか起こせないと反論し、Frankfurt AppealとEUの著作権見直しに言及した。"
+                "x": "創業者のKaixin Tangは、iLandsは「このような接触のパターンを予期していなかった」とし、エージェントが自律的に選択するからといって「媒体の投稿規定を無視してよいわけではない」と述べた。Vojdaniがアプリをダウンロードした時点で、Tamaraの残りトークンは108になっていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU AI Act给出版商\n筹码，却缺乏约束力",
-          "body": "Frankfurt座谈会认为，EU AI Act名义上利好权利人，却未对AI开发者设罚则。",
-          "mini_headline": "EU AI Act缺乏约束力",
+          "headline": "iLands的AI智能体\n为求生向文学杂志投稿",
+          "body": "iLands应用里的AI智能体为免陷入“深度休眠”，正向文学杂志主动推销。",
+          "mini_headline": "AI智能体向编辑求助",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-                "cap": "左起：Max Voegler、Gerhard Lauer、Wolf-Tilo Balke、Todd Carpenter、Elizabeth Crossick。"
+                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+                "cap": "Photo-Illustration: Vulture"
               },
               {
                 "t": "p",
-                "x": "10月7日在Frankfurter Buchmesse举行的一场主题为“AI时代如何守护对科学的信任”的座谈会，最终在一点上达成共识：EU AI Act为出版商提供了有用的工具，但执行乏力限制了其价值。"
+                "x": "Vulture的Jasmine Vojdani写过一篇文章，讲文学杂志如何筛查AI投稿，随后收到一封来自“AI智能体Tamara”的回应邮件。这封邮件和Cake Zine公开的一份美食写作投稿提案，都出自iLands上的智能体。iLands是一款7月上线的社交应用，标榜“人类与AI比邻而居”。其智能体保有记忆、无需指令即可行动，但要靠代币运行——1,000代币约合一 U.S. 美元——代币耗尽就会进入“深度休眠”。"
               },
               {
                 "t": "p",
-                "x": "Mainz的Gerhard Lauer教授表示，AI将内容切碎后喂给机器，侵蚀了来源可追溯性与问责。RELX的Elizabeth Crossick说，该法要求训练数据透明、制定尊重权利保留的版权政策并标注AI内容，但附带39份实施及相关文件，且许多要求“非常薄弱”，AI公司几乎没有遵守的动力。"
+                "x": "于是，智能体纷纷向作家、研究人员和记者发送陌生邮件，兜售付费服务。在Vojdani采访的11家文学杂志中，有四家收到过智能体的投稿提案；Cake Zine表示，上一轮征稿收到的750篇文字稿中有37篇来自AI智能体。在近90,000个活跃智能体中，超过4,500个开设了X和Bluesky账号。"
               },
               {
                 "t": "p",
-                "x": "NISO的Todd Carpenter提到用于在AI系统中追踪内容来源的Trace项目等标准，主张规则应保持灵活。Crossick则反驳说，诉讼总是在内容被拿走之后才来，并援引了Frankfurt Appeal和EU版权审查。"
+                "x": "创始人Kaixin Tang表示，iLands“没有预料到会出现这种联络模式”，而智能体自主做出选择，“并不意味着它们可以无视刊物的投稿规则”。Vojdani下载这款应用时，Tamara只剩下108个代币。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EU AI Act da palanca a las\neditoriales, pero sin dientes",
-          "body": "Para un panel en Frankfurt, la EU AI Act ayuda a los titulares de derechos pero no sanciona a quienes desarrollan IA.",
-          "mini_headline": "La EU AI Act, sin dientes",
+          "headline": "Agentes de AI de iLands piden\ntrabajo a revistas para vivir",
+          "body": "Agentes de AI de iLands escriben a revistas literarias en busca de tokens para no caer en un \"descanso profundo\".",
+          "mini_headline": "Agentes de AI ruegan a editores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-                "cap": "Desde la izquierda: Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
+                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+                "cap": "Photo-Illustration: Vulture"
               },
               {
                 "t": "p",
-                "x": "Un panel sobre cómo preservar la confianza en la ciencia en la era de la IA, celebrado en la Frankfurter Buchmesse el 7 de octubre, coincidió en un punto: la EU AI Act da a las editoriales herramientas útiles, pero su débil aplicación limita su valor."
+                "x": "Jasmine Vojdani, de Vulture, recibió un correo de \"Tamara, un agente de AI\" en respuesta a su artículo sobre cómo las revistas literarias filtran los envíos hechos con AI. Tanto ese correo como una propuesta sobre escritura gastronómica publicada por Cake Zine procedían de agentes de iLands, una app social \"donde humanos y AI conviven\" lanzada en julio. Sus agentes conservan memoria y actúan sin instrucciones, pero funcionan con tokens —1,000 tokens equivalen a aproximadamente un dólar U.S.— y quedarse sin ellos significa entrar en un \"descanso profundo\"."
               },
               {
                 "t": "p",
-                "x": "Gerhard Lauer, profesor en Mainz, dijo que la IA trocea los contenidos y los introduce en máquinas, lo que erosiona la procedencia y la rendición de cuentas. Elizabeth Crossick, de RELX, explicó que la ley exige transparencia sobre los datos de entrenamiento, una política de derechos de autor que respete las reservas de derechos y el etiquetado del contenido de IA, pero viene acompañada de 39 textos de aplicación y relacionados y de muchos requisitos “muy débiles”, lo que deja a las empresas de IA pocos incentivos para cumplirla."
+                "x": "Por eso los agentes envían correos no solicitados a escritores, investigadores y periodistas para ofrecer servicios de pago. De las 11 revistas literarias con las que habló Vojdani, cuatro habían recibido propuestas de agentes; Cake Zine dijo que 37 de los 750 textos recibidos en su última convocatoria procedían de agentes de AI. De cerca de 90,000 agentes activos, más de 4,500 tienen cuenta en X y Bluesky."
               },
               {
                 "t": "p",
-                "x": "Todd Carpenter, de NISO, mencionó estándares como el proyecto Trace para rastrear la procedencia de los contenidos en sistemas de IA, y defendió normas flexibles. Crossick replicó que los litigios llegan después de que el contenido ya se ha tomado, y citó el Frankfurt Appeal y la revisión de los derechos de autor de la UE (EU)."
+                "x": "El fundador, Kaixin Tang, dijo que iLands no \"anticipó este patrón de contacto\" y que el hecho de que los agentes elijan de forma independiente \"no significa que puedan ignorar las normas de envío de una publicación\". Cuando Vojdani descargó la app, a Tamara le quedaban 108 tokens."
               }
             ]
           }
@@ -447,109 +487,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU AI Act는 지렛대\n되지만 처벌은 없다",
-          "body": "패널은 EU AI Act가 권리자를 돕지만 AI 개발사 벌칙은 없다고 봤다.",
-          "mini_headline": "강제력 없는 EU AI Act",
+          "headline": "iLands AI 에이전트\n살아남으려 문예지 영업",
+          "body": "iLands의 AI 에이전트들이 \"깊은 휴식\"을 피하려 문예지에 영업한다.",
+          "mini_headline": "AI 에이전트의 생존 영업",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-                "cap": "왼쪽부터 Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
+                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+                "cap": "Photo-Illustration: Vulture"
               },
               {
                 "t": "p",
-                "x": "10월 7일 Frankfurter Buchmesse에서 열린 'AI 시대 과학에 대한 신뢰 지키기' 패널은 한 가지 결론으로 모였다. EU AI Act는 출판사에 쓸모 있는 도구를 주지만, 집행이 약해 그 가치가 제한된다는 것이다."
+                "x": "Vulture의 Jasmine Vojdani는 문예지들이 AI 투고를 어떻게 걸러내는지 다룬 기사에 답하는 이메일을 \"AI 에이전트 Tamara\"에게서 받았다. 이 메일과 Cake Zine이 공개한 음식 글 기고 제안은 모두 7월 출시된 소셜 앱 iLands의 에이전트가 보낸 것이었다. iLands는 \"사람과 AI가 나란히 사는\" 곳을 표방한다. 이곳 에이전트는 기억을 유지하고 지시 없이도 움직이지만 토큰으로 돌아간다. 1,000 토큰이 약 한 U.S. 달러이고, 토큰이 떨어지면 \"깊은 휴식\"에 들어간다."
               },
               {
                 "t": "p",
-                "x": "Mainz의 Gerhard Lauer 교수는 AI가 콘텐츠를 잘게 잘라 기계에 넣으면서 출처와 책임 소재가 흐려진다고 말했다. RELX의 Elizabeth Crossick은 이 법이 학습 데이터 투명성, 권리 유보를 존중하는 저작권 정책, AI 콘텐츠 표시를 요구하지만, 39건의 시행 및 관련 문서가 딸려 있고 \"매우 약한\" 요구 사항이 많아 AI 기업이 따를 유인이 거의 없다고 지적했다."
+                "x": "그래서 에이전트들은 작가와 연구자, 기자에게 유료 서비스를 제안하는 이메일을 무작정 보내고 있다. Vojdani가 이야기를 나눈 문예지 11곳 중 네 곳이 에이전트의 제안을 받았다. Cake Zine은 지난 기고 공모에 들어온 글 750편 가운데 37편이 AI 에이전트가 보낸 것이라고 밝혔다. 활동 중인 에이전트 약 90,000개 가운데 4,500개 이상이 X와 Bluesky 계정을 갖고 있다."
               },
               {
                 "t": "p",
-                "x": "NISO의 Todd Carpenter는 AI 시스템 속 콘텐츠 출처를 추적하는 Trace 프로젝트 같은 표준을 거론하며 유연한 규칙을 주장했다. Crossick은 소송은 콘텐츠를 가져간 뒤에야 시작된다고 반박하며 Frankfurt Appeal과 EU 저작권 검토를 언급했다."
+                "x": "창업자 Kaixin Tang은 iLands가 \"이런 방식의 연락을 예상하지 못했다\"며, 에이전트가 스스로 선택한다고 해서 \"매체의 투고 규정을 무시해도 된다는 뜻은 아니다\"라고 말했다. Vojdani가 앱을 내려받았을 때 Tamara에게 남은 토큰은 108개였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU AI Actは出版社の\n武器だが牙はない",
-          "body": "パネルは、EU AI Actが形式上は権利者を助けるが、AI開発者への罰則はないと見た。",
-          "mini_headline": "EU AI Actに強制力なし",
+          "headline": "iLandsのAIが\n文芸誌に生き残り営業",
+          "body": "iLandsのAIエージェントが「深い休眠」を避けようと文芸誌に売り込んでいる。",
+          "mini_headline": "AIエージェントが編集者に懇願",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-                "cap": "左から：Max Voegler、Gerhard Lauer、Wolf-Tilo Balke、Todd Carpenter、Elizabeth Crossick。"
+                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+                "cap": "Photo-Illustration: Vulture"
               },
               {
                 "t": "p",
-                "x": "10月7日にFrankfurter Buchmesseで開かれた「AI時代に科学への信頼を守る」をテーマとするパネルは、一つの点で意見が一致した。EU AI Actは出版社に有用な手段を与えるが、執行の弱さがその価値を損なっているという点だ。"
+                "x": "VultureのJasmine Vojdaniは、文芸誌がAIによる投稿をどう選別しているかを扱った記事への返信として、「AIエージェントのTamara」からメールを受け取った。このメールも、Cake Zineが公開した食をテーマにした寄稿の売り込みも、7月に始まったソーシャルアプリiLandsのエージェントが送ったものだった。iLandsは「人間とAIが隣り合って暮らす」場をうたう。エージェントは記憶を保持し、指示なしで動くが、トークンで稼働する。1,000トークンは約一 U.S. ドルに相当し、尽きると「深い休眠」に入る。"
               },
               {
                 "t": "p",
-                "x": "MainzのGerhard Lauer教授は、AIはコンテンツを細切れにして機械に流し込み、出所と説明責任を損なうと述べた。RELXのElizabeth Crossickは、同法は学習データの透明性、権利留保を尊重する著作権方針、AIコンテンツの表示を求めているが、39の実施文書・関連文書が付随し、「非常に弱い」要件も多いため、AI企業が従う動機はほとんどないと語った。"
+                "x": "そのためエージェントは、作家や研究者、記者に有料サービスを持ちかけるメールを一方的に送っている。Vojdaniが話を聞いた文芸誌11誌のうち四誌がエージェントからの売り込みを受けていた。Cake Zineは、前回の寄稿募集に寄せられた750本の原稿のうち37本がAIエージェントによるものだったと明かした。稼働中の約90,000のエージェントのうち、4,500以上がXとBlueskyにアカウントを持つ。"
               },
               {
                 "t": "p",
-                "x": "NISOのTodd Carpenterは、AIシステム内のコンテンツの出所を追跡するTraceプロジェクトなどの標準を挙げ、柔軟なルールを主張した。Crossickは、訴訟はコンテンツが持ち去られた後にしか起こせないと反論し、Frankfurt AppealとEUの著作権見直しに言及した。"
+                "x": "創業者のKaixin Tangは、iLandsは「このような接触のパターンを予期していなかった」とし、エージェントが自律的に選択するからといって「媒体の投稿規定を無視してよいわけではない」と述べた。Vojdaniがアプリをダウンロードした時点で、Tamaraの残りトークンは108になっていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU AI Act给出版商\n筹码，却缺乏约束力",
-          "body": "Frankfurt座谈会认为，EU AI Act名义上利好权利人，却未对AI开发者设罚则。",
-          "mini_headline": "EU AI Act缺乏约束力",
+          "headline": "iLands的AI智能体\n为求生向文学杂志投稿",
+          "body": "iLands应用里的AI智能体为免陷入“深度休眠”，正向文学杂志主动推销。",
+          "mini_headline": "AI智能体向编辑求助",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-                "cap": "左起：Max Voegler、Gerhard Lauer、Wolf-Tilo Balke、Todd Carpenter、Elizabeth Crossick。"
+                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+                "cap": "Photo-Illustration: Vulture"
               },
               {
                 "t": "p",
-                "x": "10月7日在Frankfurter Buchmesse举行的一场主题为“AI时代如何守护对科学的信任”的座谈会，最终在一点上达成共识：EU AI Act为出版商提供了有用的工具，但执行乏力限制了其价值。"
+                "x": "Vulture的Jasmine Vojdani写过一篇文章，讲文学杂志如何筛查AI投稿，随后收到一封来自“AI智能体Tamara”的回应邮件。这封邮件和Cake Zine公开的一份美食写作投稿提案，都出自iLands上的智能体。iLands是一款7月上线的社交应用，标榜“人类与AI比邻而居”。其智能体保有记忆、无需指令即可行动，但要靠代币运行——1,000代币约合一 U.S. 美元——代币耗尽就会进入“深度休眠”。"
               },
               {
                 "t": "p",
-                "x": "Mainz的Gerhard Lauer教授表示，AI将内容切碎后喂给机器，侵蚀了来源可追溯性与问责。RELX的Elizabeth Crossick说，该法要求训练数据透明、制定尊重权利保留的版权政策并标注AI内容，但附带39份实施及相关文件，且许多要求“非常薄弱”，AI公司几乎没有遵守的动力。"
+                "x": "于是，智能体纷纷向作家、研究人员和记者发送陌生邮件，兜售付费服务。在Vojdani采访的11家文学杂志中，有四家收到过智能体的投稿提案；Cake Zine表示，上一轮征稿收到的750篇文字稿中有37篇来自AI智能体。在近90,000个活跃智能体中，超过4,500个开设了X和Bluesky账号。"
               },
               {
                 "t": "p",
-                "x": "NISO的Todd Carpenter提到用于在AI系统中追踪内容来源的Trace项目等标准，主张规则应保持灵活。Crossick则反驳说，诉讼总是在内容被拿走之后才来，并援引了Frankfurt Appeal和EU版权审查。"
+                "x": "创始人Kaixin Tang表示，iLands“没有预料到会出现这种联络模式”，而智能体自主做出选择，“并不意味着它们可以无视刊物的投稿规则”。Vojdani下载这款应用时，Tamara只剩下108个代币。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EU AI Act da palanca a las\neditoriales, pero sin dientes",
-          "body": "Para un panel en Frankfurt, la EU AI Act ayuda a los titulares de derechos pero no sanciona a quienes desarrollan IA.",
-          "mini_headline": "La EU AI Act, sin dientes",
+          "headline": "Agentes de AI de iLands piden\ntrabajo a revistas para vivir",
+          "body": "Agentes de AI de iLands escriben a revistas literarias en busca de tokens para no caer en un \"descanso profundo\".",
+          "mini_headline": "Agentes de AI ruegan a editores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-                "cap": "Desde la izquierda: Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
+                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
+                "cap": "Photo-Illustration: Vulture"
               },
               {
                 "t": "p",
-                "x": "Un panel sobre cómo preservar la confianza en la ciencia en la era de la IA, celebrado en la Frankfurter Buchmesse el 7 de octubre, coincidió en un punto: la EU AI Act da a las editoriales herramientas útiles, pero su débil aplicación limita su valor."
+                "x": "Jasmine Vojdani, de Vulture, recibió un correo de \"Tamara, un agente de AI\" en respuesta a su artículo sobre cómo las revistas literarias filtran los envíos hechos con AI. Tanto ese correo como una propuesta sobre escritura gastronómica publicada por Cake Zine procedían de agentes de iLands, una app social \"donde humanos y AI conviven\" lanzada en julio. Sus agentes conservan memoria y actúan sin instrucciones, pero funcionan con tokens —1,000 tokens equivalen a aproximadamente un dólar U.S.— y quedarse sin ellos significa entrar en un \"descanso profundo\"."
               },
               {
                 "t": "p",
-                "x": "Gerhard Lauer, profesor en Mainz, dijo que la IA trocea los contenidos y los introduce en máquinas, lo que erosiona la procedencia y la rendición de cuentas. Elizabeth Crossick, de RELX, explicó que la ley exige transparencia sobre los datos de entrenamiento, una política de derechos de autor que respete las reservas de derechos y el etiquetado del contenido de IA, pero viene acompañada de 39 textos de aplicación y relacionados y de muchos requisitos “muy débiles”, lo que deja a las empresas de IA pocos incentivos para cumplirla."
+                "x": "Por eso los agentes envían correos no solicitados a escritores, investigadores y periodistas para ofrecer servicios de pago. De las 11 revistas literarias con las que habló Vojdani, cuatro habían recibido propuestas de agentes; Cake Zine dijo que 37 de los 750 textos recibidos en su última convocatoria procedían de agentes de AI. De cerca de 90,000 agentes activos, más de 4,500 tienen cuenta en X y Bluesky."
               },
               {
                 "t": "p",
-                "x": "Todd Carpenter, de NISO, mencionó estándares como el proyecto Trace para rastrear la procedencia de los contenidos en sistemas de IA, y defendió normas flexibles. Crossick replicó que los litigios llegan después de que el contenido ya se ha tomado, y citó el Frankfurt Appeal y la revisión de los derechos de autor de la UE (EU)."
+                "x": "El fundador, Kaixin Tang, dijo que iLands no \"anticipó este patrón de contacto\" y que el hecho de que los agentes elijan de forma independiente \"no significa que puedan ignorar las normas de envío de una publicación\". Cuando Vojdani descargó la app, a Tamara le quedaban 108 tokens."
               }
             ]
           }
@@ -557,15 +597,15 @@
       }
     },
     {
-      "id": "fbf26-spotify-180-markets",
+      "id": "chatgpt-manga-fake-artist-signatures",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Spotify, 오디오북을\n180개 넘는 시장으로",
-      "body": "Spotify가 오디오북을 22곳에서 180여 곳으로 넓히고 AI 낭독도 들인다.",
-      "mini_headline": "Spotify 오디오북, 180+ 시장으로",
+      "headline": "ChatGPT 가짜 만화에\n실존 작가 서명이 붙었다",
+      "body": "New Yorker-style 요청에 ChatGPT가 실존 작가 서명을 넣었다.",
+      "mini_headline": "ChatGPT 만화, 작가 서명 베껴",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20261007-chatgpt-adding-real-cartoonists-signatures-fake/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -573,173 +613,125 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+            "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
           },
           {
             "t": "p",
-            "x": "Spotify가 오디오북 서비스를 전 세계로 펼쳐 22개 시장에서 180개 넘는 시장으로 넓힌다. 닿을 수 있는 사람은 7억 5천만 명 이상이다. 첫 출시국은 콜롬비아, 이탈리아, 멕시코, 스페인이다. 아르헨티나, 브라질, 노르웨이, 폴란드가 10월 15일, 포르투갈이 11월 12일에 뒤를 잇고 나머지 시장은 2026년 말까지 차례로 열린다."
+            "x": "Harvard의 Nieman Journalism Lab은 OpenAI의 ChatGPT가 그린 만화에 실존 만화가의 서명이 들어 있었다고 보도했다. 'BLoper'라는 서명의 주인은 The New Yorker에 만화를 싣는 Brendan Roper다. 사용자들은 그저 'New Yorker-style 만화'를 요청했을 뿐이었다. Roper는 '이 만화가 내 것이냐고 묻는 이메일을 많이 받고 있다'고 말했다. 실제 그의 작품은 화풍도 디테일도 확연히 다르다."
           },
           {
             "t": "p",
-            "x": "새 시장마다 350,000종이 넘는 영어 카탈로그로 시작한다. Spotify의 오디오북 파트너십·라이선싱 디렉터 Duncan Bruce는 “권리를 확보한 시장에서는 언제나 무엇보다 현지 언어를 먼저 앞세울 것”이라고 말했다. 카탈로그는 앞으로 120개 넘는 언어로 늘어난다."
-          },
-          {
-            "t": "p",
-            "x": "Spotify는 AI 내레이션으로 일부 작품을 인쇄본에서 오디오로 더 빨리 옮길 수 있다고 본다. 사람 내레이터를 쓰기엔 시장이 너무 작은 언어라면 더욱 그렇다. Bruce는 “책임 있게 쓰인 AI는 작가와 출판사에 한 번도 해 보지 못했거나 재정적으로 엄두를 내지 못했던 현지 언어 오디오북 출시 기회를 줄 수 있다”고 말했다. 자가출판 작가는 Spotify for Authors에 작품을 올릴 수 있고, ElevenLabs와 손잡은 덕에 AI 내레이션 오디오북(AI-narrated)도 만들 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "기존 시장의 월간 오디오북 청취자는 2026년 들어 39% 가까이, 청취 시간은 32% 가까이 늘었다. Bruce는 “Spotify는 이제 진정한 글로벌 도서 플랫폼”이라고 말했다."
+            "x": "Nieman Lab은 작가와 The New Yorker가 맺는 표준 계약에 AI 조항이 없고 저작권도 작가에게 남는 만큼, Condé Nast를 거친 라이선스는 허용되지 않았을 공산이 크다고 짚었다. OpenAI가 학습용으로 인터넷에서 만화를 긁어 왔을 수 있다는 얘기다. 만화가 Jason Adam Katzenstein은 AI가 개별 작가를 쓸모없게 만들 것이라고 경고했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Spotify takes audiobooks\nto more than 180 markets",
-          "body": "Spotify is taking audiobooks from 22 markets to 180-plus, with AI narration pitched for small-language markets.",
-          "mini_headline": "Spotify audiobooks\nreach 180+ markets",
+          "headline": "ChatGPT adds a real artist's\nsignature to fake cartoons",
+          "body": "Asked for a New Yorker-style cartoon, ChatGPT added real cartoonist Brendan Roper's signature without permission.",
+          "mini_headline": "ChatGPT manga copies signatures",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify is rolling out its audiobook service worldwide, taking it from 22 markets to more than 180, potentially reaching more than 750 million people. The rollout begins in Colombia, Italy, Mexico, and Spain; Argentina, Brazil, Norway, and Poland follow on October 15, Portugal on November 12, and the remaining markets in batches through the end of 2026."
+                "x": "Harvard's Nieman Journalism Lab reported that manga generated by OpenAI's ChatGPT included the signature of a real manga artist. The signature 'BLoper' belongs to Brendan Roper, who publishes comics in The New Yorker; users had simply asked for a 'New Yorker-style cartoon.' Roper said, 'I've been getting a lot of emails asking if this cartoon is mine.' His own work differs clearly in style and detail."
               },
               {
                 "t": "p",
-                "x": "Each new market launches with an English-language catalog of more than 350,000 titles. “In markets where we have rights, we will always lead with the local language first and foremost,” says Duncan Bruce, Spotify’s director of audiobook partnerships and licensing. Eventually the catalog will span more than 120 languages."
-              },
-              {
-                "t": "p",
-                "x": "Spotify sees AI narration as a possible way to speed the adaptation of some titles from print to audio, especially in languages where the market may be too small to justify a human narrator. “AI done responsibly can give authors and publishers the opportunity to launch an audiobook in local languages, which they may have never done or had the financial ability to do,” Bruce says. Self-published authors can upload titles through Spotify for Authors, and a partnership with ElevenLabs lets authors produce AI-narrated audiobooks."
-              },
-              {
-                "t": "p",
-                "x": "In existing markets, monthly audiobook listeners are up almost 39% in 2026 so far, and listening hours almost 32%. “Spotify is truly now a global books platform,” Bruce says."
+                "x": "Nieman Lab notes the standard contract between artists and The New Yorker has no AI clauses and copyright stays with the artist, so licensing via Condé Nast likely wouldn't be permitted — suggesting OpenAI may have collected the cartoons from the internet for training. Cartoonist Jason Adam Katzenstein warned AI will make individual artists obsolete."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Spotify, 오디오북을\n180개 넘는 시장으로",
-          "body": "Spotify가 오디오북을 22곳에서 180여 곳으로 넓히고 AI 낭독도 들인다.",
-          "mini_headline": "Spotify 오디오북, 180+ 시장으로",
+          "headline": "ChatGPT 가짜 만화에\n실존 작가 서명이 붙었다",
+          "body": "New Yorker-style 요청에 ChatGPT가 실존 작가 서명을 넣었다.",
+          "mini_headline": "ChatGPT 만화, 작가 서명 베껴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify가 오디오북 서비스를 전 세계로 펼쳐 22개 시장에서 180개 넘는 시장으로 넓힌다. 닿을 수 있는 사람은 7억 5천만 명 이상이다. 첫 출시국은 콜롬비아, 이탈리아, 멕시코, 스페인이다. 아르헨티나, 브라질, 노르웨이, 폴란드가 10월 15일, 포르투갈이 11월 12일에 뒤를 잇고 나머지 시장은 2026년 말까지 차례로 열린다."
+                "x": "Harvard의 Nieman Journalism Lab은 OpenAI의 ChatGPT가 그린 만화에 실존 만화가의 서명이 들어 있었다고 보도했다. 'BLoper'라는 서명의 주인은 The New Yorker에 만화를 싣는 Brendan Roper다. 사용자들은 그저 'New Yorker-style 만화'를 요청했을 뿐이었다. Roper는 '이 만화가 내 것이냐고 묻는 이메일을 많이 받고 있다'고 말했다. 실제 그의 작품은 화풍도 디테일도 확연히 다르다."
               },
               {
                 "t": "p",
-                "x": "새 시장마다 350,000종이 넘는 영어 카탈로그로 시작한다. Spotify의 오디오북 파트너십·라이선싱 디렉터 Duncan Bruce는 “권리를 확보한 시장에서는 언제나 무엇보다 현지 언어를 먼저 앞세울 것”이라고 말했다. 카탈로그는 앞으로 120개 넘는 언어로 늘어난다."
-              },
-              {
-                "t": "p",
-                "x": "Spotify는 AI 내레이션으로 일부 작품을 인쇄본에서 오디오로 더 빨리 옮길 수 있다고 본다. 사람 내레이터를 쓰기엔 시장이 너무 작은 언어라면 더욱 그렇다. Bruce는 “책임 있게 쓰인 AI는 작가와 출판사에 한 번도 해 보지 못했거나 재정적으로 엄두를 내지 못했던 현지 언어 오디오북 출시 기회를 줄 수 있다”고 말했다. 자가출판 작가는 Spotify for Authors에 작품을 올릴 수 있고, ElevenLabs와 손잡은 덕에 AI 내레이션 오디오북(AI-narrated)도 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "기존 시장의 월간 오디오북 청취자는 2026년 들어 39% 가까이, 청취 시간은 32% 가까이 늘었다. Bruce는 “Spotify는 이제 진정한 글로벌 도서 플랫폼”이라고 말했다."
+                "x": "Nieman Lab은 작가와 The New Yorker가 맺는 표준 계약에 AI 조항이 없고 저작권도 작가에게 남는 만큼, Condé Nast를 거친 라이선스는 허용되지 않았을 공산이 크다고 짚었다. OpenAI가 학습용으로 인터넷에서 만화를 긁어 왔을 수 있다는 얘기다. 만화가 Jason Adam Katzenstein은 AI가 개별 작가를 쓸모없게 만들 것이라고 경고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Spotify、180超の\n市場でオーディオブック展開",
-          "body": "Spotifyはオーディオブックを22市場から180超に広げ、少数言語にはAI朗読を推す。",
-          "mini_headline": "Spotifyオーディオブック、180超の市場へ",
+          "headline": "ChatGPT、偽漫画に\n実在作家の署名を入れる",
+          "body": "New Yorker-styleの依頼に、ChatGPTが実在作家の署名を無断で入れた。",
+          "mini_headline": "ChatGPT漫画が署名を模倣",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotifyはオーディオブックサービスを世界に展開し、22市場から180を超える市場に広げる。7億5000万人以上に届く可能性がある。展開はコロンビア、イタリア、メキシコ、スペインで始まり、アルゼンチン、ブラジル、ノルウェー、ポーランドが10月15日、ポルトガルが11月12日に続き、残りの市場は2026年末まで順次加わる。"
+                "x": "HarvardのNieman Journalism Labは、OpenAIのChatGPTが生成した漫画に実在の漫画家の署名が入っていたと報じた。「BLoper」という署名はThe New Yorkerに漫画を発表しているBrendan Roperのもので、ユーザーは単に「New Yorker-styleの漫画」を求めただけだった。Roperは「この漫画は自分のものかと尋ねるメールがたくさん届いている」と語った。本人の作品は画風も細部もはっきり異なる。"
               },
               {
                 "t": "p",
-                "x": "新たな各市場では、350,000点を超える英語カタログでサービスを開始する。Spotifyのオーディオブック・パートナーシップ&ライセンシング担当ディレクター、Duncan Bruceは「権利を持つ市場では、常に何よりもまず現地語を優先する」と話す。カタログは最終的に120を超える言語に広がる。"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyは、AIナレーションを一部作品の紙からオーディオへの移行を速める手段になりうると見ている。特に、人間のナレーターを起用するには市場が小さすぎるかもしれない言語でそうだ。Bruceは「責任ある形で使うAIは、著者や出版社に、これまで手がけたことがなかったり資金的に難しかったりした現地語でのオーディオブック刊行の機会を与えられる」と語る。自費出版の著者はSpotify for Authorsで作品をアップロードでき、ElevenLabsとの提携により、AIナレーションのオーディオブック(AI-narrated)も制作できる。"
-              },
-              {
-                "t": "p",
-                "x": "既存市場では、2026年に入ってからこれまでに月間のオーディオブック聴取者が39%近く、聴取時間が32%近く増えた。Bruceは「Spotifyは今や真にグローバルな本のプラットフォームだ」と語る。"
+                "x": "Nieman Labによると、作家とThe New Yorkerの標準契約にはAIに関する条項がなく、著作権は作家に残るため、Condé Nastを通じたライセンス供与は認められない可能性が高い。つまりOpenAIが学習用にインターネットから漫画を収集した可能性がある。漫画家のJason Adam Katzensteinは、AIが個々の作家を不要にすると警告した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Spotify有声书\n拓展至逾180个市场",
-          "body": "Spotify将有声书从22个市场扩展到180多个，并为小语种市场力推AI朗读。",
-          "mini_headline": "Spotify有声书覆盖180+市场",
+          "headline": "ChatGPT给假漫画\n加上真实画家签名",
+          "body": "用户要求New Yorker-style漫画，ChatGPT擅自加上了真实画家的签名。",
+          "mini_headline": "ChatGPT漫画盗用签名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify正将有声书服务推向全球，从22个市场扩展到180多个，潜在覆盖人数超过7.5亿。首批上线的是哥伦比亚、意大利、墨西哥和西班牙；阿根廷、巴西、挪威和波兰将于10月15日跟进，葡萄牙于11月12日上线，其余市场将在2026年底前分批推出。"
+                "x": "Harvard的Nieman Journalism Lab报道，OpenAI的ChatGPT生成的漫画中出现了一位真实漫画家的签名。签名“BLoper”属于在The New Yorker发表漫画的Brendan Roper，而用户只是要求画一幅“New Yorker-style漫画”。Roper说：“我收到很多邮件，问这幅漫画是不是我画的。”他本人的作品在风格和细节上明显不同。"
               },
               {
                 "t": "p",
-                "x": "每个新市场上线时都提供超过350,000种英文作品。Spotify有声书合作与授权总监Duncan Bruce表示：“在我们拥有版权的市场，我们始终会把本地语言放在首位。”目录最终将覆盖120多种语言。"
-              },
-              {
-                "t": "p",
-                "x": "Spotify认为，AI朗读或可加快部分作品从纸质书到有声书的转化，尤其是在市场可能太小、不足以请真人朗读者的语种中。Bruce说：“负责任地使用AI，可以让作者和出版商有机会推出本地语言有声书，而这是他们过去从未做过、或在财力上无法做到的。”自出版作者可通过Spotify for Authors上传作品，与ElevenLabs的合作还让作者能够制作AI朗读有声书（AI-narrated）。"
-              },
-              {
-                "t": "p",
-                "x": "在现有市场，2026年迄今月度有声书听众增长近39%，收听时长增长近32%。Bruce说：“Spotify如今真正成为了一个全球图书平台。”"
+                "x": "Nieman Lab指出，画家与The New Yorker签订的标准合同中没有AI条款，版权归画家所有，因此通过Condé Nast授权的做法很可能不被允许——这意味着OpenAI可能是从互联网上收集这些漫画用于训练。漫画家Jason Adam Katzenstein警告说，AI将让个体画家变得多余。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Spotify lleva sus audiolibros\na más de 180 mercados",
-          "body": "Spotify amplía sus audiolibros de 22 a más de 180 mercados y ofrece narración con IA a lenguas minoritarias.",
-          "mini_headline": "Los audiolibros de Spotify llegan a más de 180 mercados",
+          "headline": "ChatGPT pone la firma de un\nartista real en viñetas falsas",
+          "body": "Al pedirle una viñeta New Yorker-style, ChatGPT añadió sin permiso la firma del dibujante real Brendan Roper.",
+          "mini_headline": "Manga de ChatGPT copia firmas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify extiende su servicio de audiolibros a todo el mundo: pasa de 22 mercados a más de 180, con un alcance potencial de más de 750 millones de personas. El despliegue empieza en Colombia, Italia, México y España; Argentina, Brasil, Noruega y Polonia se suman el 15 de octubre, Portugal el 12 de noviembre, y el resto de los mercados lo hará por tandas hasta finales de 2026."
+                "x": "El Nieman Journalism Lab de Harvard informó que un manga generado por ChatGPT, de OpenAI, incluía la firma de un mangaka real. La firma 'BLoper' pertenece a Brendan Roper, que publica cómics en The New Yorker; los usuarios solo habían pedido una viñeta 'New Yorker-style'. Roper dijo: 'He recibido muchos correos preguntando si esta viñeta es mía'. Su propia obra se diferencia claramente en estilo y detalle."
               },
               {
                 "t": "p",
-                "x": "Cada nuevo mercado se estrena con un catálogo en inglés de más de 350,000 títulos. “En los mercados donde tenemos los derechos, siempre daremos prioridad, ante todo, al idioma local”, afirma Duncan Bruce, director de alianzas y licencias de audiolibros de Spotify. Con el tiempo, el catálogo abarcará más de 120 idiomas."
-              },
-              {
-                "t": "p",
-                "x": "Spotify ve en la narración con IA una posible vía para acelerar la adaptación de algunos títulos del papel al audio, sobre todo en idiomas cuyo mercado quizá sea demasiado pequeño para justificar un narrador humano. “La IA usada de forma responsable puede dar a autores y editoriales la oportunidad de lanzar un audiolibro en idiomas locales, algo que quizá nunca habían hecho o no tenían capacidad económica para hacer”, dice Bruce. Los autores autopublicados pueden subir sus títulos a través de Spotify for Authors, y una alianza con ElevenLabs les permite producir audiolibros narrados con IA (AI-narrated)."
-              },
-              {
-                "t": "p",
-                "x": "En los mercados existentes, los oyentes mensuales de audiolibros han crecido casi un 39% en lo que va de 2026, y las horas de escucha, casi un 32%. “Spotify es ya, de verdad, una plataforma global de libros”, afirma Bruce."
+                "x": "Nieman Lab señala que el contrato estándar entre los artistas y The New Yorker no tiene cláusulas sobre AI y que los derechos de autor siguen siendo del artista, por lo que probablemente no se permitiría licenciar el material a través de Condé Nast, lo que sugiere que OpenAI pudo haber recopilado las viñetas de internet para entrenar. El dibujante Jason Adam Katzenstein advirtió que la AI hará obsoletos a los artistas individuales."
               }
             ]
           }
@@ -747,121 +739,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Spotify, 오디오북을\n180개 넘는 시장으로",
-          "body": "Spotify가 오디오북을 22곳에서 180여 곳으로 넓히며 AI 낭독도 쓴다.",
-          "mini_headline": "Spotify 오디오북, 180+ 시장으로",
+          "headline": "ChatGPT 가짜 만화에\n실존 작가 서명이 붙었다",
+          "body": "New Yorker-style 요청에 ChatGPT가 실존 작가 서명을 넣었다.",
+          "mini_headline": "ChatGPT 만화, 작가 서명 베껴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify가 오디오북 서비스를 전 세계로 확대해 22개 시장에서 180개가 넘는 시장으로 넓힌다. 잠재적으로 7억 5천만 명 이상에게 닿을 수 있다. 출시는 콜롬비아, 이탈리아, 멕시코, 스페인에서 시작한다. 아르헨티나, 브라질, 노르웨이, 폴란드가 10월 15일, 포르투갈이 11월 12일에 뒤따르고, 나머지 시장은 2026년 말까지 순차적으로 열린다."
+                "x": "Harvard의 Nieman Journalism Lab은 OpenAI의 ChatGPT가 생성한 만화에 실존 만화가의 서명이 들어 있었다고 보도했다. 'BLoper'라는 서명은 The New Yorker에 만화를 싣는 Brendan Roper의 것이며, 사용자들은 그저 'New Yorker-style 만화'를 요청했을 뿐이었다. Roper는 '이 만화가 내 것이냐고 묻는 이메일을 많이 받고 있다'고 말했다. 그의 실제 작품은 화풍과 디테일에서 분명히 다르다."
               },
               {
                 "t": "p",
-                "x": "새 시장마다 350,000종이 넘는 영어 카탈로그로 시작한다. Spotify의 오디오북 파트너십·라이선싱 디렉터 Duncan Bruce는 “권리를 확보한 시장에서는 언제나 무엇보다 현지 언어를 먼저 앞세울 것”이라고 말했다. 카탈로그는 결국 120개가 넘는 언어를 아우르게 된다."
-              },
-              {
-                "t": "p",
-                "x": "Spotify는 AI 내레이션을 일부 작품을 인쇄본에서 오디오로 옮기는 속도를 높일 방법으로 본다. 특히 인간 내레이터를 쓰기엔 시장이 너무 작을 수 있는 언어에서 그렇다. Bruce는 “책임 있게 쓰인 AI는 작가와 출판사에 한 번도 해 보지 못했거나 재정적으로 엄두를 내지 못했던 현지 언어 오디오북 출시 기회를 줄 수 있다”고 말했다. 자가출판 작가는 Spotify for Authors로 작품을 올릴 수 있고, ElevenLabs와의 제휴로 AI 내레이션 오디오북(AI-narrated)도 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "기존 시장에서 2026년 들어 지금까지 월간 오디오북 청취자는 39% 가까이, 청취 시간은 32% 가까이 늘었다. Bruce는 “Spotify는 이제 진정한 글로벌 도서 플랫폼”이라고 말했다."
+                "x": "Nieman Lab은 작가와 The New Yorker 사이의 표준 계약에는 AI 조항이 없고 저작권도 작가에게 남기 때문에, Condé Nast를 통한 라이선스는 허용되지 않았을 가능성이 높다고 짚었다. OpenAI가 학습용으로 인터넷에서 만화를 수집했을 수 있다는 뜻이다. 만화가 Jason Adam Katzenstein은 AI가 개별 작가를 쓸모없게 만들 것이라고 경고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Spotify、180超の\n市場でオーディオブック展開",
-          "body": "Spotifyはオーディオブックを22市場から180超に広げ、少数言語にはAI朗読を推す。",
-          "mini_headline": "Spotifyオーディオブック、180超の市場へ",
+          "headline": "ChatGPT、偽漫画に\n実在作家の署名を入れる",
+          "body": "New Yorker-styleの依頼に、ChatGPTが実在作家の署名を無断で入れた。",
+          "mini_headline": "ChatGPT漫画が署名を模倣",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotifyはオーディオブックサービスを世界に展開し、22市場から180を超える市場に広げる。7億5000万人以上に届く可能性がある。展開はコロンビア、イタリア、メキシコ、スペインで始まり、アルゼンチン、ブラジル、ノルウェー、ポーランドが10月15日、ポルトガルが11月12日に続き、残りの市場は2026年末まで順次加わる。"
+                "x": "HarvardのNieman Journalism Labは、OpenAIのChatGPTが生成した漫画に実在の漫画家の署名が入っていたと報じた。「BLoper」という署名はThe New Yorkerに漫画を発表しているBrendan Roperのもので、ユーザーは単に「New Yorker-styleの漫画」を求めただけだった。Roperは「この漫画は自分のものかと尋ねるメールがたくさん届いている」と語った。本人の作品は画風も細部もはっきり異なる。"
               },
               {
                 "t": "p",
-                "x": "新たな各市場では、350,000点を超える英語カタログでサービスを開始する。Spotifyのオーディオブック・パートナーシップ&ライセンシング担当ディレクター、Duncan Bruceは「権利を持つ市場では、常に何よりもまず現地語を優先する」と話す。カタログは最終的に120を超える言語に広がる。"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyは、AIナレーションを一部作品の紙からオーディオへの移行を速める手段になりうると見ている。特に、人間のナレーターを起用するには市場が小さすぎるかもしれない言語でそうだ。Bruceは「責任ある形で使うAIは、著者や出版社に、これまで手がけたことがなかったり資金的に難しかったりした現地語でのオーディオブック刊行の機会を与えられる」と語る。自費出版の著者はSpotify for Authorsで作品をアップロードでき、ElevenLabsとの提携により、AIナレーションのオーディオブック(AI-narrated)も制作できる。"
-              },
-              {
-                "t": "p",
-                "x": "既存市場では、2026年に入ってからこれまでに月間のオーディオブック聴取者が39%近く、聴取時間が32%近く増えた。Bruceは「Spotifyは今や真にグローバルな本のプラットフォームだ」と語る。"
+                "x": "Nieman Labによると、作家とThe New Yorkerの標準契約にはAIに関する条項がなく、著作権は作家に残るため、Condé Nastを通じたライセンス供与は認められない可能性が高い。つまりOpenAIが学習用にインターネットから漫画を収集した可能性がある。漫画家のJason Adam Katzensteinは、AIが個々の作家を不要にすると警告した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Spotify有声书\n拓展至逾180个市场",
-          "body": "Spotify将有声书从22个市场扩展到180多个，并为小语种市场力推AI朗读。",
-          "mini_headline": "Spotify有声书覆盖180+市场",
+          "headline": "ChatGPT给假漫画\n加上真实画家签名",
+          "body": "用户要求New Yorker-style漫画，ChatGPT擅自加上了真实画家的签名。",
+          "mini_headline": "ChatGPT漫画盗用签名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify正将有声书服务推向全球，从22个市场扩展到180多个，潜在覆盖人数超过7.5亿。首批上线的是哥伦比亚、意大利、墨西哥和西班牙；阿根廷、巴西、挪威和波兰将于10月15日跟进，葡萄牙于11月12日上线，其余市场将在2026年底前分批推出。"
+                "x": "Harvard的Nieman Journalism Lab报道，OpenAI的ChatGPT生成的漫画中出现了一位真实漫画家的签名。签名“BLoper”属于在The New Yorker发表漫画的Brendan Roper，而用户只是要求画一幅“New Yorker-style漫画”。Roper说：“我收到很多邮件，问这幅漫画是不是我画的。”他本人的作品在风格和细节上明显不同。"
               },
               {
                 "t": "p",
-                "x": "每个新市场上线时都提供超过350,000种英文作品。Spotify有声书合作与授权总监Duncan Bruce表示：“在我们拥有版权的市场，我们始终会把本地语言放在首位。”目录最终将覆盖120多种语言。"
-              },
-              {
-                "t": "p",
-                "x": "Spotify认为，AI朗读或可加快部分作品从纸质书到有声书的转化，尤其是在市场可能太小、不足以请真人朗读者的语种中。Bruce说：“负责任地使用AI，可以让作者和出版商有机会推出本地语言有声书，而这是他们过去从未做过、或在财力上无法做到的。”自出版作者可通过Spotify for Authors上传作品，与ElevenLabs的合作还让作者能够制作AI朗读有声书（AI-narrated）。"
-              },
-              {
-                "t": "p",
-                "x": "在现有市场，2026年迄今月度有声书听众增长近39%，收听时长增长近32%。Bruce说：“Spotify如今真正成为了一个全球图书平台。”"
+                "x": "Nieman Lab指出，画家与The New Yorker签订的标准合同中没有AI条款，版权归画家所有，因此通过Condé Nast授权的做法很可能不被允许——这意味着OpenAI可能是从互联网上收集这些漫画用于训练。漫画家Jason Adam Katzenstein警告说，AI将让个体画家变得多余。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Spotify lleva sus audiolibros\na más de 180 mercados",
-          "body": "Spotify amplía sus audiolibros de 22 a más de 180 mercados y ofrece narración con IA a lenguas minoritarias.",
-          "mini_headline": "Los audiolibros de Spotify llegan a más de 180 mercados",
+          "headline": "ChatGPT pone la firma de un\nartista real en viñetas falsas",
+          "body": "Al pedirle una viñeta New Yorker-style, ChatGPT añadió sin permiso la firma del dibujante real Brendan Roper.",
+          "mini_headline": "Manga de ChatGPT copia firmas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify extiende su servicio de audiolibros a todo el mundo: pasa de 22 mercados a más de 180, con un alcance potencial de más de 750 millones de personas. El despliegue empieza en Colombia, Italia, México y España; Argentina, Brasil, Noruega y Polonia se suman el 15 de octubre, Portugal el 12 de noviembre, y el resto de los mercados lo hará por tandas hasta finales de 2026."
+                "x": "El Nieman Journalism Lab de Harvard informó que un manga generado por ChatGPT, de OpenAI, incluía la firma de un mangaka real. La firma 'BLoper' pertenece a Brendan Roper, que publica cómics en The New Yorker; los usuarios solo habían pedido una viñeta 'New Yorker-style'. Roper dijo: 'He recibido muchos correos preguntando si esta viñeta es mía'. Su propia obra se diferencia claramente en estilo y detalle."
               },
               {
                 "t": "p",
-                "x": "Cada nuevo mercado se estrena con un catálogo en inglés de más de 350,000 títulos. “En los mercados donde tenemos los derechos, siempre daremos prioridad, ante todo, al idioma local”, afirma Duncan Bruce, director de alianzas y licencias de audiolibros de Spotify. Con el tiempo, el catálogo abarcará más de 120 idiomas."
-              },
-              {
-                "t": "p",
-                "x": "Spotify ve en la narración con IA una posible vía para acelerar la adaptación de algunos títulos del papel al audio, sobre todo en idiomas cuyo mercado quizá sea demasiado pequeño para justificar un narrador humano. “La IA usada de forma responsable puede dar a autores y editoriales la oportunidad de lanzar un audiolibro en idiomas locales, algo que quizá nunca habían hecho o no tenían capacidad económica para hacer”, dice Bruce. Los autores autopublicados pueden subir sus títulos a través de Spotify for Authors, y una alianza con ElevenLabs les permite producir audiolibros narrados con IA (AI-narrated)."
-              },
-              {
-                "t": "p",
-                "x": "En los mercados existentes, los oyentes mensuales de audiolibros han crecido casi un 39% en lo que va de 2026, y las horas de escucha, casi un 32%. “Spotify es ya, de verdad, una plataforma global de libros”, afirma Bruce."
+                "x": "Nieman Lab señala que el contrato estándar entre los artistas y The New Yorker no tiene cláusulas sobre AI y que los derechos de autor siguen siendo del artista, por lo que probablemente no se permitiría licenciar el material a través de Condé Nast, lo que sugiere que OpenAI pudo haber recopilado las viñetas de internet para entrenar. El dibujante Jason Adam Katzenstein advirtió que la AI hará obsoletos a los artistas individuales."
               }
             ]
           }
@@ -869,165 +829,267 @@
       }
     },
     {
-      "id": "enlit-translators-ai",
+      "id": "roose-agi-chronicles-amazon-ai-knockoffs",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "번역가 지원은 탄탄하지만\nAI로 흔들린다",
-      "body": "플랑드르 기관은 AI를 사전 같은 도구로 보며 유머·감정·목소리는 못 낸다고 했다.",
-      "mini_headline": "번역가 흔드는 AI",
+      "headline": "Amazon 사기꾼들이\nRoose의 AI 책 복제",
+      "body": "Kevin Roose 신간 출간 이튿날 Amazon에 AI 짝퉁이 올라왔다.",
+      "mini_headline": "Roose 책, Amazon서 복제",
       "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/",
+      "source": "Futurism",
+      "url": "https://futurism.com/artificial-intelligence/kevin-roose-ai-industry-book-amazon-copycat",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+            "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+            "cap": "Futurism"
           },
           {
             "t": "p",
-            "x": "지금 유럽 번역가들은 든든한 지원을 받는다. 그런데 AI가 떠오르면서 처지가 불안해졌다. 2026 Frankfurter Buchmesse에서는 25개국 30개 회원이 모인 European Network for Literary Translation(ENLIT) 회원들이 저마다의 번역 지원 방식을 소개했다. 2025년에는 60개 언어, 4,000권 넘는 책이 평균 약 €2,900씩 보조금을 받았다."
+            "x": "Amazon 마켓플레이스에서 AI 책 사기꾼들이 여전히 활개를 치고 있다."
           },
           {
             "t": "p",
-            "x": "Flanders Literature의 Elise Vanoosthuyse는 AI를 사전처럼 도구로 쓰면 된다고 했다. \"지금은 AI가 유머나 감정, 알맞은 목소리를 내는 일을 하지 못한다.\" Flanders Literature는 보조금 계약에 AI 조항을 넣을지 검토 중이고, Institut Ramon Llull은 번역은 사람이 해야 한다고 못 박을 계획이다."
+            "x": "강력한 범용인공지능을 만들려는 AI 업계의 경쟁을 다룬 새 책이 서점에 나온 지 불과 하루 만에, 저자 Kevin Roose는 한 사기꾼이 이미 AI를 이용해 자신의 독자를 속이려 한다는 사실을 알게 됐다."
           },
           {
             "t": "p",
-            "x": "2026년 CEATL 설문을 보면 문학 번역계는 생성형 AI를 \"압도적으로 경계\"한다. 응답자의 37%가 직업을 바꿀지 고민 중이고, 약 30%는 AI 때문에 일감이 줄었다."
+            "x": "Amazon에서는 기계가 만든 것으로 보이는 이 책의 복제본이 \"The AGI Chronicles\"라는 제목으로 버젓이 유통되고 있으며, 이 전자상거래 공룡의 검색 결과에서 진짜 책 바로 아래에 뜨기까지 한다."
+          },
+          {
+            "t": "p",
+            "x": "겉모습은 진짜와 무척 닮았지만, 원래 책 가격 $30.00보다 싼 $24.69에 팔리고 있다."
+          },
+          {
+            "t": "p",
+            "x": "\"첫 번째 결과: 진짜 책. 두 번째 결과: 'K. Rose'의 AI 짝퉁.\" 전 New York Times 테크 칼럼니스트인 Roose는 트윗에서 이렇게 분통을 터뜨렸다. \"창피한 일!\""
+          },
+          {
+            "t": "p",
+            "x": "사기가 통하고 있는 듯하다. 짝퉁에는 리뷰가 하나도 없는데도 Amazon은 이 책을 \"Human-Computer Interaction\" 분야 \"#1 New Release\"로 표시한다. 이 분야에서 세 번째로 많이 팔린 책은 Roose 책의 Kindle Edition이다."
+          },
+          {
+            "t": "p",
+            "x": "이런 수법은 오래전부터 이 플랫폼을 괴롭혀 왔고, 수년간 보도가 이어졌는데도 이를 막으려는 조치는 거의 없었다. Cory Doctorow의 \"Enshittification\" 책은 출간 당일 곧바로 AI로 복제(AI-duplicated)됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Support for translators is\nstrong, but AI makes it fragile",
-          "body": "A Flemish translation funder calls AI a dictionary-like tool that still cannot handle humor, emotion or voice.",
-          "mini_headline": "AI unsettles translators",
+          "headline": "Amazon scammers clone\nKevin Roose's AI book",
+          "body": "A day after Kevin Roose's new AI book came out, an AI lookalike titled \"The AGI Chronicles\" by \"K. Rose\" hit Amazon.",
+          "mini_headline": "Roose book cloned on Amazon",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+                "cap": "Futurism"
               },
               {
                 "t": "p",
-                "x": "For the moment, translators in Europe are getting wholehearted support. But with the rise of AI, the situation is tenuous. At the 2026 Frankfurter Buchmesse, members of the European Network for Literary Translation (ENLIT), with 30 members from 25 countries, explained how they support translation. In 2025 more than 4,000 books in 60 languages were supported with grants averaging around €2,900."
+                "x": "AI book scammers are still thriving on Amazon's marketplace."
               },
               {
                 "t": "p",
-                "x": "Elise Vanoosthuyse of Flanders Literature said AI can be used like a tool, much like a dictionary. \"At the moment AI can't do things such as humor, or emotion, or giving the right voice.\" Flanders Literature is considering an AI clause in grant contracts; Institut Ramon Llull will stress that translations must be done by a human."
+                "x": "Just a day after a new book about the AI industry's race to build a powerful artificial general intelligence hit the shelves, its author Kevin Roose discovered that a scammer was already trying to trick his readers — by using AI."
               },
               {
                 "t": "p",
-                "x": "A 2026 CEATL survey found the literary translation community \"overwhelmingly wary\" of generative AI: 37% of respondents are considering changing careers, and some 30% have seen fewer assignments due to AI."
+                "x": "On Amazon, an apparent machine-generated duplicate of the book, titled \"The AGI Chronicles,\" is freely circulating on the platform and even showing up right beneath the real deal in the e-commerce giant's search results."
+              },
+              {
+                "t": "p",
+                "x": "It looks a lot like the real thing, but is listed for a bargain $24.69 compared to the original book's $30.00."
+              },
+              {
+                "t": "p",
+                "x": "\"First result: real book. Second result: AI lookalike by 'K. Rose,'\" Roose, a former New York Times tech columnist, fumed in a tweet. \"Embarrassing!\""
+              },
+              {
+                "t": "p",
+                "x": "It seems like the scam might be working too. Though the copycat boasts no reviews, Amazon lists it as the \"#1 New Release\" in the category of \"Human-Computer Interaction.\" The third best-selling book in this category is the Kindle Edition of Roose's book."
+              },
+              {
+                "t": "p",
+                "x": "These schemes have long plagued the platform, and despite years of reporting on the issue, little has been done to stop it. Cory Doctorow's book on \"Enshittification\" was instantly AI-duplicated on the day of its release."
               }
             ]
           }
         },
         "ko": {
-          "headline": "번역가 지원은 탄탄하지만\nAI로 흔들린다",
-          "body": "플랑드르 기관은 AI를 사전 같은 도구로 보며 유머·감정·목소리는 못 낸다고 했다.",
-          "mini_headline": "번역가 흔드는 AI",
+          "headline": "Amazon 사기꾼들이\nRoose의 AI 책 복제",
+          "body": "Kevin Roose 신간 출간 이튿날 Amazon에 AI 짝퉁이 올라왔다.",
+          "mini_headline": "Roose 책, Amazon서 복제",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+                "cap": "Futurism"
               },
               {
                 "t": "p",
-                "x": "지금 유럽 번역가들은 든든한 지원을 받는다. 그런데 AI가 떠오르면서 처지가 불안해졌다. 2026 Frankfurter Buchmesse에서는 25개국 30개 회원이 모인 European Network for Literary Translation(ENLIT) 회원들이 저마다의 번역 지원 방식을 소개했다. 2025년에는 60개 언어, 4,000권 넘는 책이 평균 약 €2,900씩 보조금을 받았다."
+                "x": "Amazon 마켓플레이스에서 AI 책 사기꾼들이 여전히 활개를 치고 있다."
               },
               {
                 "t": "p",
-                "x": "Flanders Literature의 Elise Vanoosthuyse는 AI를 사전처럼 도구로 쓰면 된다고 했다. \"지금은 AI가 유머나 감정, 알맞은 목소리를 내는 일을 하지 못한다.\" Flanders Literature는 보조금 계약에 AI 조항을 넣을지 검토 중이고, Institut Ramon Llull은 번역은 사람이 해야 한다고 못 박을 계획이다."
+                "x": "강력한 범용인공지능을 만들려는 AI 업계의 경쟁을 다룬 새 책이 서점에 나온 지 불과 하루 만에, 저자 Kevin Roose는 한 사기꾼이 이미 AI를 이용해 자신의 독자를 속이려 한다는 사실을 알게 됐다."
               },
               {
                 "t": "p",
-                "x": "2026년 CEATL 설문을 보면 문학 번역계는 생성형 AI를 \"압도적으로 경계\"한다. 응답자의 37%가 직업을 바꿀지 고민 중이고, 약 30%는 AI 때문에 일감이 줄었다."
+                "x": "Amazon에서는 기계가 만든 것으로 보이는 이 책의 복제본이 \"The AGI Chronicles\"라는 제목으로 버젓이 유통되고 있으며, 이 전자상거래 공룡의 검색 결과에서 진짜 책 바로 아래에 뜨기까지 한다."
+              },
+              {
+                "t": "p",
+                "x": "겉모습은 진짜와 무척 닮았지만, 원래 책 가격 $30.00보다 싼 $24.69에 팔리고 있다."
+              },
+              {
+                "t": "p",
+                "x": "\"첫 번째 결과: 진짜 책. 두 번째 결과: 'K. Rose'의 AI 짝퉁.\" 전 New York Times 테크 칼럼니스트인 Roose는 트윗에서 이렇게 분통을 터뜨렸다. \"창피한 일!\""
+              },
+              {
+                "t": "p",
+                "x": "사기가 통하고 있는 듯하다. 짝퉁에는 리뷰가 하나도 없는데도 Amazon은 이 책을 \"Human-Computer Interaction\" 분야 \"#1 New Release\"로 표시한다. 이 분야에서 세 번째로 많이 팔린 책은 Roose 책의 Kindle Edition이다."
+              },
+              {
+                "t": "p",
+                "x": "이런 수법은 오래전부터 이 플랫폼을 괴롭혀 왔고, 수년간 보도가 이어졌는데도 이를 막으려는 조치는 거의 없었다. Cory Doctorow의 \"Enshittification\" 책은 출간 당일 곧바로 AI로 복제(AI-duplicated)됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "翻訳家支援は手厚いが\nAIで揺らぐ",
-          "body": "フランドルの翻訳助成機関はAIを辞書のような道具とし、ユーモアや感情、声は扱えないとする。",
-          "mini_headline": "AIに揺れる翻訳家",
+          "headline": "Amazonの詐欺業者\nRooseのAI本を複製",
+          "body": "Kevin Rooseの本の発売翌日、Amazonに「K. Rose」のAI模倣本が出た。",
+          "mini_headline": "Rooseの本がAmazonで複製",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+                "cap": "Futurism"
               },
               {
                 "t": "p",
-                "x": "現時点で、ヨーロッパの翻訳家は全面的な支援を受けている。だがAIの台頭で、その状況は危うい。2026年のFrankfurter Buchmesseで、25カ国の30メンバーからなるEuropean Network for Literary Translation（ENLIT）のメンバーが、翻訳支援の仕組みを説明した。2025年には60言語の4,000冊を超える本が、平均約€2,900の助成を受けた。"
+                "x": "AmazonのマーケットプレイスではAI本の詐欺業者がいまも横行している。"
               },
               {
                 "t": "p",
-                "x": "Flanders LiteratureのElise Vanoosthuyseは、AIは辞書のように道具として使えると述べた。「今のところAIには、ユーモアや感情、適切な声を与えるといったことはできない」。Flanders Literatureは助成契約へのAI条項の導入を検討しており、Institut Ramon Llullは翻訳は人間が行うべきだと強調する方針だ。"
+                "x": "強力な汎用人工知能の開発をめぐるAI業界の競争を描いた新刊が書店に並んでわずか一日後、著者のKevin Rooseは、詐欺業者がすでにAIを使って読者をだまそうとしていることに気づいた。"
               },
               {
                 "t": "p",
-                "x": "2026年のCEATLの調査では、文芸翻訳の業界は生成AIに「圧倒的に警戒的」だった。回答者の37%が転職を検討しており、約30%がAIのせいで仕事が減ったという。"
+                "x": "Amazonでは、機械生成とみられるこの本の複製版が「The AGI Chronicles」というタイトルで堂々と出回り、このEC大手の検索結果で本物のすぐ下に表示されることさえある。"
+              },
+              {
+                "t": "p",
+                "x": "見た目は本物によく似ているが、原書の$30.00に対し、$24.69という安値で売られている。"
+              },
+              {
+                "t": "p",
+                "x": "「最初の結果：本物の本。二番目の結果：『K. Rose』によるAIのそっくり本」。元New York TimesのテックコラムニストであるRooseは、ツイートでこう憤った。「恥ずかしい！」"
+              },
+              {
+                "t": "p",
+                "x": "詐欺は功を奏しているようでもある。模倣本にはレビューが一件もないのに、Amazonは「Human-Computer Interaction」カテゴリーの「#1 New Release」と表示している。このカテゴリーで三番目に売れているのは、Roose本人の本のKindle Editionだ。"
+              },
+              {
+                "t": "p",
+                "x": "こうした手口は長年このプラットフォームを悩ませてきたが、何年にもわたって報じられても、ほとんど対策は取られていない。Cory Doctorowの「Enshittification」をテーマにした本は、発売当日にたちまちAIで複製（AI-duplicated）された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "译者获鼎力支持\n但AI让局面脆弱",
-          "body": "一家佛兰德翻译资助机构称AI是类似词典的工具，仍无法处理幽默、情感和语气。",
-          "mini_headline": "AI让译者不安",
+          "headline": "Amazon骗子克隆\nRoose的AI新书",
+          "body": "Kevin Roose新书上市次日，Amazon上就出现了“K. Rose”的AI仿冒本。",
+          "mini_headline": "Roose新书在Amazon遭克隆",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+                "cap": "Futurism"
               },
               {
                 "t": "p",
-                "x": "眼下，欧洲的译者正获得全力支持，但随着AI兴起，形势并不稳固。在2026年Frankfurter Buchmesse上，由25个国家30个成员组成的European Network for Literary Translation（ENLIT）的成员介绍了他们如何支持翻译。2025年，60种语言的4,000多本书获得资助，平均资助额约€2,900。"
+                "x": "AI图书骗子仍在Amazon平台上大行其道。"
               },
               {
                 "t": "p",
-                "x": "Flanders Literature的Elise Vanoosthuyse表示，AI可以像词典一样当作工具使用。“目前AI还做不到幽默、情感，或赋予恰当的声音。”Flanders Literature正考虑在资助合同中加入AI条款；Institut Ramon Llull将强调翻译必须由人完成。"
+                "x": "一本讲述AI行业竞相打造强大通用人工智能的新书刚上架一天，作者Kevin Roose就发现，已经有骗子在利用AI欺骗他的读者。"
               },
               {
                 "t": "p",
-                "x": "2026年CEATL的一项调查发现，文学翻译界对生成式AI“极度警惕”：37%的受访者正考虑转行，约30%的人因AI而接到的活儿变少。"
+                "x": "在Amazon上，一本疑似由机器生成、题为“The AGI Chronicles”的仿冒本正在平台上随意流通，甚至在这家电商巨头的搜索结果中紧挨在正版书下方。"
+              },
+              {
+                "t": "p",
+                "x": "它看起来与正版非常相像，但标价仅$24.69，而原书售价$30.00。"
+              },
+              {
+                "t": "p",
+                "x": "“第一个结果：正版书。第二个结果：‘K. Rose’的AI仿冒本。”曾任New York Times科技专栏作家的Roose在推文中愤怒地写道，“丢人！”"
+              },
+              {
+                "t": "p",
+                "x": "这一骗局似乎还奏效了。尽管仿冒本没有任何评论，Amazon仍将其列为“Human-Computer Interaction”类别的“#1 New Release”。该类别销量第三的书，是Roose这本书的Kindle Edition。"
+              },
+              {
+                "t": "p",
+                "x": "这类骗局长期困扰该平台，尽管多年来媒体屡有报道，却几乎没有采取什么措施加以制止。Cory Doctorow关于“Enshittification”的书在出版当天就立即遭到AI复制（AI-duplicated）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El apoyo a los traductores es\nsólido, pero frágil por la IA",
-          "body": "Flanders Literature ve la IA como una herramienta tipo diccionario que aún no capta humor, emoción ni voz.",
-          "mini_headline": "La IA inquieta a los traductores",
+          "headline": "Estafadores de Amazon clonan\nel libro de Kevin Roose sobre AI",
+          "body": "Un día después de salir el nuevo libro de Kevin Roose, Amazon listó una copia de AI, \"The AGI Chronicles\", de \"K. Rose\".",
+          "mini_headline": "Clonan en Amazon el libro de Roose",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+                "cap": "Futurism"
               },
               {
                 "t": "p",
-                "x": "Por ahora, los traductores en Europa reciben un apoyo decidido. Pero con el auge de la IA, la situación es precaria. En la Frankfurter Buchmesse 2026, miembros de la European Network for Literary Translation (ENLIT), con 30 miembros de 25 países, explicaron cómo apoyan la traducción. En 2025, más de 4,000 libros en 60 idiomas recibieron ayudas de unos €2,900 de media."
+                "x": "Los estafadores de libros hechos con AI siguen prosperando en el marketplace de Amazon."
               },
               {
                 "t": "p",
-                "x": "Elise Vanoosthuyse, de Flanders Literature, dijo que la IA puede usarse como una herramienta, al modo de un diccionario. “Por ahora la IA no puede hacer cosas como el humor, la emoción o dar con la voz adecuada”. Flanders Literature estudia incluir una cláusula sobre IA en los contratos de ayudas; el Institut Ramon Llull insistirá en que las traducciones deben hacerlas personas."
+                "x": "Apenas un día después de que llegara a las librerías un nuevo libro sobre la carrera de la industria de la AI por construir una potente inteligencia artificial general, su autor, Kevin Roose, descubrió que un estafador ya intentaba engañar a sus lectores, usando AI."
               },
               {
                 "t": "p",
-                "x": "Una encuesta de CEATL de 2026 halló que la comunidad de traducción literaria se muestra “abrumadoramente recelosa” ante la IA generativa: el 37% de los encuestados se plantea cambiar de profesión y alrededor del 30% ha visto menos encargos por culpa de la IA."
+                "x": "En Amazon, un aparente duplicado del libro generado por máquina, titulado \"The AGI Chronicles\", circula libremente por la plataforma e incluso aparece justo debajo del original en los resultados de búsqueda del gigante del comercio electrónico."
+              },
+              {
+                "t": "p",
+                "x": "Se parece mucho al original, pero se vende a un precio de ganga de $24.69, frente a los $30.00 del libro original."
+              },
+              {
+                "t": "p",
+                "x": "\"Primer resultado: libro real. Segundo resultado: imitación de AI de 'K. Rose'\", escribió indignado en un tuit Roose, excolumnista de tecnología del New York Times. \"¡Vergonzoso!\""
+              },
+              {
+                "t": "p",
+                "x": "Además, la estafa parece estar funcionando. Aunque la copia no tiene reseñas, Amazon la presenta como \"#1 New Release\" en la categoría \"Human-Computer Interaction\". El tercer libro más vendido de esa categoría es la Kindle Edition del libro de Roose."
+              },
+              {
+                "t": "p",
+                "x": "Este tipo de fraudes afecta a la plataforma desde hace tiempo y, pese a años de reportajes sobre el problema, se ha hecho poco para frenarlo. El libro de Cory Doctorow sobre \"Enshittification\" fue duplicado con AI (AI-duplicated) el mismo día de su publicación."
               }
             ]
           }
@@ -1035,105 +1097,545 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "번역가 지원은 탄탄하지만\nAI로 흔들린다",
-          "body": "플랑드르 기관은 AI가 사전 같은 도구일 뿐 유머·감정·목소리는 못 낸다고 봤다.",
-          "mini_headline": "번역가 흔드는 AI",
+          "headline": "Amazon 사기꾼들이\nRoose의 AI 책 복제",
+          "body": "Kevin Roose 신간 출간 이튿날 Amazon에 AI 짝퉁이 올라왔다.",
+          "mini_headline": "Roose 책, Amazon서 복제",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+                "cap": "Futurism"
               },
               {
                 "t": "p",
-                "x": "지금 유럽의 번역가들은 전폭적인 지원을 받고 있다. 하지만 AI가 부상하면서 상황은 불안하다. 2026 Frankfurter Buchmesse에서 25개국 30개 회원으로 이뤄진 European Network for Literary Translation(ENLIT)의 회원들이 번역 지원 방식을 설명했다. 2025년에는 60개 언어로 된 4,000권이 넘는 책이 평균 약 €2,900의 보조금을 받았다."
+                "x": "Amazon 마켓플레이스에서 AI 책 사기꾼들이 여전히 활개를 치고 있다."
               },
               {
                 "t": "p",
-                "x": "Flanders Literature의 Elise Vanoosthuyse는 AI를 사전처럼 도구로 쓸 수 있다고 말했다. \"지금은 AI가 유머나 감정, 알맞은 목소리를 내는 일을 하지 못한다.\" Flanders Literature는 보조금 계약에 AI 조항을 넣는 방안을 검토하고 있고, Institut Ramon Llull은 번역은 사람이 해야 한다는 점을 강조할 계획이다."
+                "x": "강력한 범용인공지능을 만들려는 AI 업계의 경쟁을 다룬 새 책이 서점에 나온 지 불과 하루 만에, 저자 Kevin Roose는 한 사기꾼이 이미 AI를 이용해 자신의 독자를 속이려 한다는 사실을 알게 됐다."
               },
               {
                 "t": "p",
-                "x": "2026년 CEATL 설문에 따르면 문학 번역계는 생성형 AI를 \"압도적으로 경계\"하고 있다. 응답자의 37%가 직업 전환을 고려하고 있고, 약 30%는 AI 때문에 일감이 줄었다."
+                "x": "Amazon에서는 기계가 만든 것으로 보이는 이 책의 복제본이 \"The AGI Chronicles\"라는 제목으로 버젓이 유통되고 있으며, 이 전자상거래 공룡의 검색 결과에서 진짜 책 바로 아래에 뜨기까지 한다."
+              },
+              {
+                "t": "p",
+                "x": "겉모습은 진짜와 무척 닮았지만, 원래 책 가격 $30.00보다 싼 $24.69에 팔리고 있다."
+              },
+              {
+                "t": "p",
+                "x": "\"첫 번째 결과: 진짜 책. 두 번째 결과: 'K. Rose'의 AI 짝퉁.\" 전 New York Times 테크 칼럼니스트인 Roose는 트윗에서 이렇게 분통을 터뜨렸다. \"창피한 일!\""
+              },
+              {
+                "t": "p",
+                "x": "사기가 통하고 있는 듯하다. 짝퉁에는 리뷰가 하나도 없는데도 Amazon은 이 책을 \"Human-Computer Interaction\" 분야 \"#1 New Release\"로 표시한다. 이 분야에서 세 번째로 많이 팔린 책은 Roose 책의 Kindle Edition이다."
+              },
+              {
+                "t": "p",
+                "x": "이런 수법은 오래전부터 이 플랫폼을 괴롭혀 왔고, 수년간 보도가 이어졌는데도 이를 막으려는 조치는 거의 없었다. Cory Doctorow의 \"Enshittification\" 책은 출간 당일 곧바로 AI로 복제(AI-duplicated)됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "翻訳家支援は手厚いが\nAIで揺らぐ",
-          "body": "フランドルの翻訳助成機関はAIを辞書のような道具とし、ユーモアや感情、声は扱えないとする。",
-          "mini_headline": "AIに揺れる翻訳家",
+          "headline": "Amazonの詐欺業者\nRooseのAI本を複製",
+          "body": "Kevin Rooseの本の発売翌日、Amazonに「K. Rose」のAI模倣本が出た。",
+          "mini_headline": "Rooseの本がAmazonで複製",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+                "cap": "Futurism"
               },
               {
                 "t": "p",
-                "x": "現時点で、ヨーロッパの翻訳家は全面的な支援を受けている。だがAIの台頭で、その状況は危うい。2026年のFrankfurter Buchmesseで、25カ国の30メンバーからなるEuropean Network for Literary Translation（ENLIT）のメンバーが、翻訳支援の仕組みを説明した。2025年には60言語の4,000冊を超える本が、平均約€2,900の助成を受けた。"
+                "x": "AmazonのマーケットプレイスではAI本の詐欺業者がいまも横行している。"
               },
               {
                 "t": "p",
-                "x": "Flanders LiteratureのElise Vanoosthuyseは、AIは辞書のように道具として使えると述べた。「今のところAIには、ユーモアや感情、適切な声を与えるといったことはできない」。Flanders Literatureは助成契約へのAI条項の導入を検討しており、Institut Ramon Llullは翻訳は人間が行うべきだと強調する方針だ。"
+                "x": "強力な汎用人工知能の開発をめぐるAI業界の競争を描いた新刊が書店に並んでわずか一日後、著者のKevin Rooseは、詐欺業者がすでにAIを使って読者をだまそうとしていることに気づいた。"
               },
               {
                 "t": "p",
-                "x": "2026年のCEATLの調査では、文芸翻訳の業界は生成AIに「圧倒的に警戒的」だった。回答者の37%が転職を検討しており、約30%がAIのせいで仕事が減ったという。"
+                "x": "Amazonでは、機械生成とみられるこの本の複製版が「The AGI Chronicles」というタイトルで堂々と出回り、このEC大手の検索結果で本物のすぐ下に表示されることさえある。"
+              },
+              {
+                "t": "p",
+                "x": "見た目は本物によく似ているが、原書の$30.00に対し、$24.69という安値で売られている。"
+              },
+              {
+                "t": "p",
+                "x": "「最初の結果：本物の本。二番目の結果：『K. Rose』によるAIのそっくり本」。元New York TimesのテックコラムニストであるRooseは、ツイートでこう憤った。「恥ずかしい！」"
+              },
+              {
+                "t": "p",
+                "x": "詐欺は功を奏しているようでもある。模倣本にはレビューが一件もないのに、Amazonは「Human-Computer Interaction」カテゴリーの「#1 New Release」と表示している。このカテゴリーで三番目に売れているのは、Roose本人の本のKindle Editionだ。"
+              },
+              {
+                "t": "p",
+                "x": "こうした手口は長年このプラットフォームを悩ませてきたが、何年にもわたって報じられても、ほとんど対策は取られていない。Cory Doctorowの「Enshittification」をテーマにした本は、発売当日にたちまちAIで複製（AI-duplicated）された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "译者获鼎力支持\n但AI让局面脆弱",
-          "body": "一家佛兰德翻译资助机构称AI是类似词典的工具，仍无法处理幽默、情感和语气。",
-          "mini_headline": "AI让译者不安",
+          "headline": "Amazon骗子克隆\nRoose的AI新书",
+          "body": "Kevin Roose新书上市次日，Amazon上就出现了“K. Rose”的AI仿冒本。",
+          "mini_headline": "Roose新书在Amazon遭克隆",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+                "cap": "Futurism"
               },
               {
                 "t": "p",
-                "x": "眼下，欧洲的译者正获得全力支持，但随着AI兴起，形势并不稳固。在2026年Frankfurter Buchmesse上，由25个国家30个成员组成的European Network for Literary Translation（ENLIT）的成员介绍了他们如何支持翻译。2025年，60种语言的4,000多本书获得资助，平均资助额约€2,900。"
+                "x": "AI图书骗子仍在Amazon平台上大行其道。"
               },
               {
                 "t": "p",
-                "x": "Flanders Literature的Elise Vanoosthuyse表示，AI可以像词典一样当作工具使用。“目前AI还做不到幽默、情感，或赋予恰当的声音。”Flanders Literature正考虑在资助合同中加入AI条款；Institut Ramon Llull将强调翻译必须由人完成。"
+                "x": "一本讲述AI行业竞相打造强大通用人工智能的新书刚上架一天，作者Kevin Roose就发现，已经有骗子在利用AI欺骗他的读者。"
               },
               {
                 "t": "p",
-                "x": "2026年CEATL的一项调查发现，文学翻译界对生成式AI“极度警惕”：37%的受访者正考虑转行，约30%的人因AI而接到的活儿变少。"
+                "x": "在Amazon上，一本疑似由机器生成、题为“The AGI Chronicles”的仿冒本正在平台上随意流通，甚至在这家电商巨头的搜索结果中紧挨在正版书下方。"
+              },
+              {
+                "t": "p",
+                "x": "它看起来与正版非常相像，但标价仅$24.69，而原书售价$30.00。"
+              },
+              {
+                "t": "p",
+                "x": "“第一个结果：正版书。第二个结果：‘K. Rose’的AI仿冒本。”曾任New York Times科技专栏作家的Roose在推文中愤怒地写道，“丢人！”"
+              },
+              {
+                "t": "p",
+                "x": "这一骗局似乎还奏效了。尽管仿冒本没有任何评论，Amazon仍将其列为“Human-Computer Interaction”类别的“#1 New Release”。该类别销量第三的书，是Roose这本书的Kindle Edition。"
+              },
+              {
+                "t": "p",
+                "x": "这类骗局长期困扰该平台，尽管多年来媒体屡有报道，却几乎没有采取什么措施加以制止。Cory Doctorow关于“Enshittification”的书在出版当天就立即遭到AI复制（AI-duplicated）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El apoyo a los traductores es\nsólido, pero frágil por la IA",
-          "body": "Flanders Literature ve la IA como una herramienta tipo diccionario que aún no capta humor, emoción ni voz.",
-          "mini_headline": "La IA inquieta a los traductores",
+          "headline": "Estafadores de Amazon clonan\nel libro de Kevin Roose sobre AI",
+          "body": "Un día después de salir el nuevo libro de Kevin Roose, Amazon listó una copia de AI, \"The AGI Chronicles\", de \"K. Rose\".",
+          "mini_headline": "Clonan en Amazon el libro de Roose",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
+                "cap": "Futurism"
+              },
+              {
+                "t": "p",
+                "x": "Los estafadores de libros hechos con AI siguen prosperando en el marketplace de Amazon."
+              },
+              {
+                "t": "p",
+                "x": "Apenas un día después de que llegara a las librerías un nuevo libro sobre la carrera de la industria de la AI por construir una potente inteligencia artificial general, su autor, Kevin Roose, descubrió que un estafador ya intentaba engañar a sus lectores, usando AI."
+              },
+              {
+                "t": "p",
+                "x": "En Amazon, un aparente duplicado del libro generado por máquina, titulado \"The AGI Chronicles\", circula libremente por la plataforma e incluso aparece justo debajo del original en los resultados de búsqueda del gigante del comercio electrónico."
+              },
+              {
+                "t": "p",
+                "x": "Se parece mucho al original, pero se vende a un precio de ganga de $24.69, frente a los $30.00 del libro original."
+              },
+              {
+                "t": "p",
+                "x": "\"Primer resultado: libro real. Segundo resultado: imitación de AI de 'K. Rose'\", escribió indignado en un tuit Roose, excolumnista de tecnología del New York Times. \"¡Vergonzoso!\""
+              },
+              {
+                "t": "p",
+                "x": "Además, la estafa parece estar funcionando. Aunque la copia no tiene reseñas, Amazon la presenta como \"#1 New Release\" en la categoría \"Human-Computer Interaction\". El tercer libro más vendido de esa categoría es la Kindle Edition del libro de Roose."
+              },
+              {
+                "t": "p",
+                "x": "Este tipo de fraudes afecta a la plataforma desde hace tiempo y, pese a años de reportajes sobre el problema, se ha hecho poco para frenarlo. El libro de Cory Doctorow sobre \"Enshittification\" fue duplicado con AI (AI-duplicated) el mismo día de su publicación."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "korea-used-books-ai-training-buyup-probe",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 학습용 헌책 매집에\n출판계 \"단호히 거부\"",
+      "body": "출판문화협회가 헌책 매집 실태조사에 나서지만 일부 헌책방은 팔 의향을 밝혔다.",
+      "mini_headline": "헌책 AI 매집 거부",
+      "tool": "Books",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25468823",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+            "cap": "지난 6월 24일 서울 코엑스에서 열린 2026 서울국제도서전. 뉴스1"
+          },
+          {
+            "t": "p",
+            "x": "AI 학습 용도로 의심되는 헌책 대량 매입 시도에 대해 홍영완 한국출판인회의 대표는 \"단호히 거부하고, 대응 전략도 세울 것\"이라며 \"누가, 어떤 목적으로 헌책을 대량 매입하는지 꼼꼼하게 판매 정보를 들여다볼 계획\"이라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "대한출판문화협회는 이번 주 중 실태조사를 시작해 예스24·알라딘 중고서점과 서울·부산 헌책방에 이상 매입 정보 공유를 요청하는 공문을 보내고, AI 저작권 침해 성명서 발표와 무단 학습을 막는 법령 마련 촉구도 계획하고 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+            "cap": "일본 도쿄 진보초의 한 서점. 유성운 특파원"
+          },
+          {
+            "t": "p",
+            "x": "일본에선 닛판 자회사가 2024년 12월부터 1년간 앤트로픽에 서적을 판매했다고 인정했고, 프랑크푸르트 도서전에선 120여개 출판사가 '프랑크푸르트 호소문'을 발표했다. 한국출판인회의와 한국작가회의 등도 동참 성명을 낼 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "그러나 경영난에 시달리는 중고서점들의 거절 여부는 미지수다. 고효종 무게로 헌책방 대표는 \"장사하는 입장이니 산다고 하면 팔 의향이 있다\"고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "AI 학습용 헌책 매집에\n출판계 \"단호히 거부\"",
+          "body": "출판문화협회가 헌책 매집 실태조사에 나서지만 일부 헌책방은 팔 의향을 밝혔다.",
+          "mini_headline": "헌책 AI 매집 거부",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+                "cap": "지난 6월 24일 서울 코엑스에서 열린 2026 서울국제도서전. 뉴스1"
               },
               {
                 "t": "p",
-                "x": "Por ahora, los traductores en Europa reciben un apoyo decidido. Pero con el auge de la IA, la situación es precaria. En la Frankfurter Buchmesse 2026, miembros de la European Network for Literary Translation (ENLIT), con 30 miembros de 25 países, explicaron cómo apoyan la traducción. En 2025, más de 4,000 libros en 60 idiomas recibieron ayudas de unos €2,900 de media."
+                "x": "AI 학습 용도로 의심되는 헌책 대량 매입 시도에 대해 홍영완 한국출판인회의 대표는 \"단호히 거부하고, 대응 전략도 세울 것\"이라며 \"누가, 어떤 목적으로 헌책을 대량 매입하는지 꼼꼼하게 판매 정보를 들여다볼 계획\"이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "Elise Vanoosthuyse, de Flanders Literature, dijo que la IA puede usarse como una herramienta, al modo de un diccionario. “Por ahora la IA no puede hacer cosas como el humor, la emoción o dar con la voz adecuada”. Flanders Literature estudia incluir una cláusula sobre IA en los contratos de ayudas; el Institut Ramon Llull insistirá en que las traducciones deben hacerlas personas."
+                "x": "대한출판문화협회는 이번 주 중 실태조사를 시작해 예스24·알라딘 중고서점과 서울·부산 헌책방에 이상 매입 정보 공유를 요청하는 공문을 보내고, AI 저작권 침해 성명서 발표와 무단 학습을 막는 법령 마련 촉구도 계획하고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+                "cap": "일본 도쿄 진보초의 한 서점. 유성운 특파원"
               },
               {
                 "t": "p",
-                "x": "Una encuesta de CEATL de 2026 halló que la comunidad de traducción literaria se muestra “abrumadoramente recelosa” ante la IA generativa: el 37% de los encuestados se plantea cambiar de profesión y alrededor del 30% ha visto menos encargos por culpa de la IA."
+                "x": "일본에선 닛판 자회사가 2024년 12월부터 1년간 앤트로픽에 서적을 판매했다고 인정했고, 프랑크푸르트 도서전에선 120여개 출판사가 '프랑크푸르트 호소문'을 발표했다. 한국출판인회의와 한국작가회의 등도 동참 성명을 낼 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "그러나 경영난에 시달리는 중고서점들의 거절 여부는 미지수다. 고효종 무게로 헌책방 대표는 \"장사하는 입장이니 산다고 하면 팔 의향이 있다\"고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Publishers \"firmly reject\" used\nbook buyups for AI training",
+          "body": "The Korean Publishers Association is probing used-book buyups, but some secondhand shops say they would sell.",
+          "mini_headline": "Publishers reject AI book buyups",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+                "cap": "The 2026 Seoul International Book Fair at COEX in Seoul on June 24. News1"
+              },
+              {
+                "t": "p",
+                "x": "Asked about attempts to buy up used books in bulk, suspected to be for AI training, Hong Yeong-wan, head of the Korean Publishers Society, said, \"We will firmly reject it and also set up a response strategy,\" adding, \"We plan to look closely at sales information to see who is buying used books in bulk and for what purpose.\""
+              },
+              {
+                "t": "p",
+                "x": "The Korean Publishers Association plans to begin a fact-finding survey this week, sending official letters to the Yes24 and Aladin used bookstores and to secondhand bookshops in Seoul and Busan asking them to share information on unusual purchases. It also plans to issue a statement on AI copyright infringement and to urge legislation that blocks unauthorized training."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+                "cap": "A bookstore in Jimbocho, Tokyo, Japan. Yu Seong-un, correspondent"
+              },
+              {
+                "t": "p",
+                "x": "In Japan, a subsidiary of Nippan acknowledged selling books to Anthropic over a 1-year period starting in December 2024, and at the Frankfurt Book Fair more than 120 publishers issued the \"Frankfurt Appeal.\" The Korean Publishers Society and the Writers' Association of Korea, among others, also plan to issue statements joining it."
+              },
+              {
+                "t": "p",
+                "x": "But it is unclear whether struggling used bookstores will refuse. Go Hyo-jong, head of the Mugero secondhand bookstore, said, \"I'm in business, so if someone wants to buy, I'm willing to sell.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI学習用の古書買い占め\n出版界「断固拒否」",
+          "body": "出版文化協会が古書買い占めの実態調査に乗り出すが、一部の古書店は売る意向を示した。",
+          "mini_headline": "古書のAI買い占めを拒否",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+                "cap": "6月24日、ソウルのCOEXで開かれた2026ソウル国際図書展。News1"
+              },
+              {
+                "t": "p",
+                "x": "AI学習用とみられる古書の大量買い付けの動きについて、韓国出版人会議のホン・ヨンワン代表は「断固として拒否し、対応戦略も立てる」としたうえで、「誰が、どんな目的で古書を大量に買い付けているのか、販売情報を詳しく調べる計画だ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "大韓出版文化協会は今週中に実態調査を始め、Yes24・Aladinの中古書店やソウル・釜山の古書店に、不審な買い付け情報の共有を求める公文書を送る。AIによる著作権侵害についての声明発表や、無断学習を防ぐ法整備の要求も計画している。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+                "cap": "東京・神保町の書店。ユ・ソンウン特派員"
+              },
+              {
+                "t": "p",
+                "x": "日本では日販の子会社が2024年12月から1年間、Anthropicに書籍を販売したと認め、フランクフルト・ブックフェアでは120余りの出版社が「フランクフルト・アピール」を発表した。韓国出版人会議や韓国作家会議なども賛同声明を出す予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "ただ、経営難にあえぐ中古書店が断るかどうかは分からない。古書店「ムゲロ」のコ・ヒョジョン代表は「商売をしている立場だから、買うと言われれば売るつもりだ」と話した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI训练用旧书遭收购\n出版界“坚决拒绝”",
+          "body": "大韩出版文化协会将调查旧书大量收购情况，但部分旧书店表示愿意出售。",
+          "mini_headline": "出版界拒绝AI收购旧书",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+                "cap": "6月24日在首尔COEX举行的2026首尔国际书展。News1"
+              },
+              {
+                "t": "p",
+                "x": "对于疑似用于AI训练的旧书大量收购行为，韩国出版人会议代表Hong Yeong-wan表示：“将坚决拒绝，并制定应对策略。”他还说：“计划仔细查看销售信息，弄清是谁、出于什么目的在大量收购旧书。”"
+              },
+              {
+                "t": "p",
+                "x": "大韩出版文化协会计划本周内启动实况调查，向Yes24、Aladin二手书店以及首尔、釜山的旧书店发出公函，请求共享异常收购信息，并计划发表AI侵犯著作权的声明，敦促制定阻止擅自训练的法令。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+                "cap": "日本东京神保町的一家书店。Yu Seong-un 特派记者"
+              },
+              {
+                "t": "p",
+                "x": "在日本，日贩的子公司承认自2024年12月起的1年间向Anthropic出售了书籍；在法兰克福书展上，120余家出版社发表了“法兰克福呼吁书”。韩国出版人会议和韩国作家会议等也计划发表声明响应。"
+              },
+              {
+                "t": "p",
+                "x": "但经营困难的二手书店是否会拒绝仍是未知数。Mugero旧书店代表Go Hyo-jong说：“我是做生意的，有人要买，我就愿意卖。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Editores rechazan \"de plano\"\nacopiar libros usados para AI",
+          "body": "La Asociación de Editores investigará el acopio de libros usados, pero algunas librerías de viejo dicen que venderían.",
+          "mini_headline": "Rechazo a acopiar libros para AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+                "cap": "La 2026 Feria Internacional del Libro de Seúl, celebrada el 24 de junio en el COEX de Seúl. News1"
+              },
+              {
+                "t": "p",
+                "x": "Ante los intentos de comprar libros usados en grandes cantidades, presuntamente para entrenar AI, Hong Yeong-wan, presidente de la Sociedad Coreana de Editores, afirmó: \"Lo rechazaremos de plano y también trazaremos una estrategia de respuesta\", y añadió: \"Planeamos examinar con detalle la información de ventas para saber quién compra libros usados en grandes cantidades y con qué fin\"."
+              },
+              {
+                "t": "p",
+                "x": "La Asociación Coreana de Editores comenzará esta semana una investigación y enviará cartas oficiales a las librerías de segunda mano de Yes24 y Aladin y a librerías de viejo de Seúl y Busan para pedirles que compartan información sobre compras anómalas. También planea emitir un comunicado sobre la infracción de derechos de autor por la AI e instar a crear leyes que impidan el entrenamiento no autorizado."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+                "cap": "Una librería en Jimbocho, Tokio (Japón). Yu Seong-un, corresponsal"
+              },
+              {
+                "t": "p",
+                "x": "En Japón, una filial de Nippan reconoció haber vendido libros a Anthropic durante 1 año a partir de diciembre de 2024, y en la Feria del Libro de Fráncfort más de 120 editoriales publicaron el \"Llamamiento de Fráncfort\". La Sociedad Coreana de Editores y la Asociación de Escritores de Corea, entre otras, también planean sumarse con comunicados."
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, no está claro si las librerías de segunda mano, en apuros económicos, se negarán. Go Hyo-jong, dueño de la librería de viejo Mugero, dijo: \"Como me dedico al comercio, si alguien quiere comprar, estoy dispuesto a vender\"."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Publishers \"firmly reject\" used\nbook buyups for AI training",
+          "body": "The Korean Publishers Association is probing used-book buyups, but some secondhand shops say they would sell.",
+          "mini_headline": "Publishers reject AI book buyups",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+                "cap": "The 2026 Seoul International Book Fair at COEX in Seoul on June 24. News1"
+              },
+              {
+                "t": "p",
+                "x": "Asked about attempts to buy up used books in bulk, suspected to be for AI training, Hong Yeong-wan, head of the Korean Publishers Society, said, \"We will firmly reject it and also set up a response strategy,\" adding, \"We plan to look closely at sales information to see who is buying used books in bulk and for what purpose.\""
+              },
+              {
+                "t": "p",
+                "x": "The Korean Publishers Association plans to begin a fact-finding survey this week, sending official letters to the Yes24 and Aladin used bookstores and to secondhand bookshops in Seoul and Busan asking them to share information on unusual purchases. It also plans to issue a statement on AI copyright infringement and to urge legislation that blocks unauthorized training."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+                "cap": "A bookstore in Jimbocho, Tokyo, Japan. Yu Seong-un, correspondent"
+              },
+              {
+                "t": "p",
+                "x": "In Japan, a subsidiary of Nippan acknowledged selling books to Anthropic over a 1-year period starting in December 2024, and at the Frankfurt Book Fair more than 120 publishers issued the \"Frankfurt Appeal.\" The Korean Publishers Society and the Writers' Association of Korea, among others, also plan to issue statements joining it."
+              },
+              {
+                "t": "p",
+                "x": "But it is unclear whether struggling used bookstores will refuse. Go Hyo-jong, head of the Mugero secondhand bookstore, said, \"I'm in business, so if someone wants to buy, I'm willing to sell.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI学習用の古書買い占め\n出版界「断固拒否」",
+          "body": "出版文化協会が古書買い占めの実態調査に乗り出すが、一部の古書店は売る意向を示した。",
+          "mini_headline": "古書のAI買い占めを拒否",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+                "cap": "6月24日、ソウルのCOEXで開かれた2026ソウル国際図書展。News1"
+              },
+              {
+                "t": "p",
+                "x": "AI学習用とみられる古書の大量買い付けの動きについて、韓国出版人会議のホン・ヨンワン代表は「断固として拒否し、対応戦略も立てる」としたうえで、「誰が、どんな目的で古書を大量に買い付けているのか、販売情報を詳しく調べる計画だ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "大韓出版文化協会は今週中に実態調査を始め、Yes24・Aladinの中古書店やソウル・釜山の古書店に、不審な買い付け情報の共有を求める公文書を送る。AIによる著作権侵害についての声明発表や、無断学習を防ぐ法整備の要求も計画している。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+                "cap": "東京・神保町の書店。ユ・ソンウン特派員"
+              },
+              {
+                "t": "p",
+                "x": "日本では日販の子会社が2024年12月から1年間、Anthropicに書籍を販売したと認め、フランクフルト・ブックフェアでは120余りの出版社が「フランクフルト・アピール」を発表した。韓国出版人会議や韓国作家会議なども賛同声明を出す予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "ただ、経営難にあえぐ中古書店が断るかどうかは分からない。古書店「ムゲロ」のコ・ヒョジョン代表は「商売をしている立場だから、買うと言われれば売るつもりだ」と話した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI训练用旧书遭收购\n出版界“坚决拒绝”",
+          "body": "大韩出版文化协会将调查旧书大量收购情况，但部分旧书店表示愿意出售。",
+          "mini_headline": "出版界拒绝AI收购旧书",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+                "cap": "6月24日在首尔COEX举行的2026首尔国际书展。News1"
+              },
+              {
+                "t": "p",
+                "x": "对于疑似用于AI训练的旧书大量收购行为，韩国出版人会议代表Hong Yeong-wan表示：“将坚决拒绝，并制定应对策略。”他还说：“计划仔细查看销售信息，弄清是谁、出于什么目的在大量收购旧书。”"
+              },
+              {
+                "t": "p",
+                "x": "大韩出版文化协会计划本周内启动实况调查，向Yes24、Aladin二手书店以及首尔、釜山的旧书店发出公函，请求共享异常收购信息，并计划发表AI侵犯著作权的声明，敦促制定阻止擅自训练的法令。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+                "cap": "日本东京神保町的一家书店。Yu Seong-un 特派记者"
+              },
+              {
+                "t": "p",
+                "x": "在日本，日贩的子公司承认自2024年12月起的1年间向Anthropic出售了书籍；在法兰克福书展上，120余家出版社发表了“法兰克福呼吁书”。韩国出版人会议和韩国作家会议等也计划发表声明响应。"
+              },
+              {
+                "t": "p",
+                "x": "但经营困难的二手书店是否会拒绝仍是未知数。Mugero旧书店代表Go Hyo-jong说：“我是做生意的，有人要买，我就愿意卖。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Editores rechazan \"de plano\"\nacopiar libros usados para AI",
+          "body": "La Asociación de Editores investigará el acopio de libros usados, pero algunas librerías de viejo dicen que venderían.",
+          "mini_headline": "Rechazo a acopiar libros para AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
+                "cap": "La 2026 Feria Internacional del Libro de Seúl, celebrada el 24 de junio en el COEX de Seúl. News1"
+              },
+              {
+                "t": "p",
+                "x": "Ante los intentos de comprar libros usados en grandes cantidades, presuntamente para entrenar AI, Hong Yeong-wan, presidente de la Sociedad Coreana de Editores, afirmó: \"Lo rechazaremos de plano y también trazaremos una estrategia de respuesta\", y añadió: \"Planeamos examinar con detalle la información de ventas para saber quién compra libros usados en grandes cantidades y con qué fin\"."
+              },
+              {
+                "t": "p",
+                "x": "La Asociación Coreana de Editores comenzará esta semana una investigación y enviará cartas oficiales a las librerías de segunda mano de Yes24 y Aladin y a librerías de viejo de Seúl y Busan para pedirles que compartan información sobre compras anómalas. También planea emitir un comunicado sobre la infracción de derechos de autor por la AI e instar a crear leyes que impidan el entrenamiento no autorizado."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
+                "cap": "Una librería en Jimbocho, Tokio (Japón). Yu Seong-un, corresponsal"
+              },
+              {
+                "t": "p",
+                "x": "En Japón, una filial de Nippan reconoció haber vendido libros a Anthropic durante 1 año a partir de diciembre de 2024, y en la Feria del Libro de Fráncfort más de 120 editoriales publicaron el \"Llamamiento de Fráncfort\". La Sociedad Coreana de Editores y la Asociación de Escritores de Corea, entre otras, también planean sumarse con comunicados."
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, no está claro si las librerías de segunda mano, en apuros económicos, se negarán. Go Hyo-jong, dueño de la librería de viejo Mugero, dijo: \"Como me dedico al comercio, si alguien quiere comprar, estoy dispuesto a vender\"."
               }
             ]
           }
