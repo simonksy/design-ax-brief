@@ -1,106 +1,150 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
-      "title": "A 29MB AI model is the most useful thing I've run on my Raspberry Pi 5, and it doesn't need an AI HAT",
-      "source": "XDA Developers",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+      "source": "Ars Technica",
       "category": "gadgets",
-      "published_iso": "2026-10-11T19:30:17Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "The tiniest AI model I've tried on a Raspberry Pi 5 is only 29MB, and it's surprisingly handy",
+      "published_iso": "2026-10-12T13:00:52+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive-1152x648.jpg",
+      "excerpt": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "A 29MB model running on a $60 board with no accelerator. A clear, copyable example of how small on-device AI can get."
+      "rationale": "An official new wearable from Google, announced on 10-12, that sits between the Fitbit Air and the Pixel Watch. It is a concrete launch, not a leak."
     },
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-10-11T11:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "If I gotta do it I want it on my terms.",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "rationale": "A first-person diary of running Hermes and Qwen models locally on a Mac Studio and a laptop. It shows the real friction of doing AI on your own device."
-    },
-    {
-      "url": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
-      "title": "Powerful new mini-PC launches with 128 GB RAM, dual 10 GbE and Ryzen AI Max+ Pro 495",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-09T16:07:00+00:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-      "excerpt": "iBuyPower has launched a high-end mini-PC featuring 128 GB of RAM. Also equipped with AMD's Ryzen AI Max+ Pro 495 processor, the iBuyPower Pro AMD AI Halo Mini PC packs dual USB4, dual 10 GbE Ethernet and three M.2 slots into a housing that measures 200 x 198 x 70 mm.",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "rationale": "A newly launched 'AMD AI Halo' desktop box with 128GB of memory, the class of machine sold for running large models at home. It adds another vendor to the local-AI mini-PC field."
-    },
-    {
-      "url": "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html",
-      "title": "Humanoid robot rental prices crater as dedicated exchanges appear",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-10T11:47:00+00:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg",
-      "excerpt": "Unitree and other popular humanoid robot makers are renting their bipeds on dedicated exchanges now. The choreographed dance during the Chinese New Year has left a lasting impression with people who rent them.",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "Unitree and other humanoid makers now rent robots through dedicated exchanges, and prices are falling fast. AI-driven robot hardware is becoming something you can book by the day."
-    },
-    {
-      "url": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
-      "title": "Siri AI beats Gemini at the thing that matters most",
+      "url": "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/",
+      "title": "Google Translate could soon auto-save transcripts of your Live conversations (Updated: Rolling out)",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-10-10T10:00:09+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462-500w-260h.jpg",
-      "excerpt": "Making my life easier.",
+      "published_iso": "2026-10-12T08:28:34+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+      "excerpt": "Google Translate is testing an “Auto-save transcript” toggle for Live Translate; transcript saving is disabled entirely when smart glasses are connected, to protect privacy.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "A hands-on comparison of the two phone assistants now that Siri AI has shipped, from an Android-focused outlet. A useful read on where on-device assistants actually differ in daily use."
+      "rationale": "Live Translate auto-saved transcripts are now rolling out, and saving switches off when smart glasses connect. That is a concrete privacy design choice for AI wearables."
+    },
+    {
+      "url": "https://9to5google.com/2026/10/12/googlebook-os-review/",
+      "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-12T16:00:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "All attempts to bring the lessons and benefits of the touch era to PCs have failed, from Windows 8 to...",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "rationale": "The first in-depth review of Google's AI-first laptop OS on shipping hardware. It covers the whole platform rather than one laptop."
+    },
+    {
+      "url": "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html",
+      "title": "RTX Spark mini PC promises to overcome memory limitations using Mechrevo's unusual AI SSD",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-10-12T21:28:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+      "excerpt": "Mechrevo's upcoming Master Road X10 mini PC combines Nvidia RTX Spark hardware with proprietary AI SSD technology, which the maker claims can accommodate AI models with up to 122 billion parameters.",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "rationale": "A newly announced RTX Spark mini PC that pairs the chip with an SSD it says can hold 122B-parameter models. It is a different way around the local-AI memory limit."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "title": "Meta has some Wonder Full new AI models",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-10-12T17:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "excerpt": "Meta says the models compete with the industry’s best and will soon power its Muse agent.  ",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "Meta released its new Wonder Full models, which will soon power the Muse agent on its smart glasses. This is the model layer behind Meta's gadgets."
+    }
+  ],
+  "alternates": [
+    {
+      "url": "https://www.notebookcheck.net/Motorola-Razr-Ultra-2026-Android-17-update-brings-programmable-AI-key-themed-icons-and-more.1419198.0.html",
+      "title": "Motorola Razr Ultra 2026: Android 17 update brings programmable AI key, themed icons, and more",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-10-08T16:01:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Motorola-Razr-Ultra-2026.jpg",
+      "excerpt": "Owners of the Motorola Razr Ultra 2026 are receiving the Android 17 update, which adds a programmable AI key, themed icons, a new look and enhanced security.",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#3b6bff",
+      "motif": "headset",
+      "rationale": "A rolling update that adds a programmable AI key to a shipping foldable."
+    },
+    {
+      "url": "https://www.techradar.com/pro/microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-new-16-inch-128gb-beast",
+      "title": "MSI reveals new 16-inch, 128GB beast powered by Nvidia RTX Spark",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-10-11T21:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/6jyULr5WpSu9nkrxAY392J-1376-80.jpg",
+      "excerpt": "Five big brands beat MSI to Nvidia’s RTX Spark laptops, so here is what the latecomer is bringing along.",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#ff2d55",
+      "motif": "headset",
+      "rationale": "A new RTX Spark laptop from MSI with 128GB of memory. It is a new product in an already-covered launch wave."
+    },
+    {
+      "url": "https://www.androidauthority.com/gemini-shop-this-3722162/",
+      "title": "Gemini’s floating overlay may soon help you ‘Shop this’ right from your screen",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-12T18:40:26+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Gemini-Overlay-Mininize-button-scaled.jpg",
+      "excerpt": "Google is working on a new “Shop this” suggestion for Gemini’s pop-up overlay that would recognize on-screen products, summarize selling points and offer comparisons.",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#171717",
+      "motif": "headset",
+      "rationale": "An APK teardown showing on-screen product recognition coming to Gemini's overlay. It is not yet shipped."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/": {
+      "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.digitaltrends.com/wearables/googles-new-fitbit-could-make-you-rethink-buying-a-smartwatch/",
+        "new_action": "Google officially announced and launched the Fitbit Edge on 2026-10-12. The 10-07 Digital Trends card was a pre-launch rumor; this card reports the official product announcement."
+      },
+      "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+        "nearest": "https://www.androidauthority.com/google-translate-live-offline-2-3711572/",
         "new_action": ""
       },
-      "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress": {
+      "https://9to5google.com/2026/10/12/googlebook-os-review/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+        "new_action": "Googlebook hardware is now shipping and has been reviewed; this is the first full OS review, not the 09-22 lineup announcement or the 09-26 widget-app listing."
+      },
+      "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html": {
         "verdict": "new",
-        "nearest": "https://www.xda-developers.com/connected-local-llm-gmail-calendar-home-assistant-finally-became-useful/",
+        "nearest": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html": {
+      "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model": {
         "verdict": "new",
-        "nearest": "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
-        "new_action": ""
-      },
-      "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html": {
-        "verdict": "new",
-        "nearest": "https://www.cnet.com/tech/computing/flourish-3555-humanoid-robot-learns-chores-in-30-minutes-startup-says/",
-        "new_action": ""
-      },
-      "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+        "nearest": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
         "new_action": ""
       }
     },
-    "note": "Re-curation after the fact-check pass. REMOVED: 9to5Google XREAL Aura price (no AI content in the body). REPLACED: TechRadar MSI RTX Spark laptop (spec/price only, and the RTX Spark laptop launch was already published 10-08 and 10-10, so MSI is the sixth brand on a running story); Notebookcheck Razr Ultra Android 17 (an OS update where AI is minor, and including it would put 3 Notebookcheck cards in the set). ADDED: iBuyPower AI Halo mini PC (a new product launch from a different vendor than the 10-11 MSI review and the 09-29 GMKtec story; still mostly specs, but the machine is built for local AI); humanoid robot rental exchanges (fresh, nothing like it in the 30-day history); Android Authority Siri-vs-Gemini (an AI-centric comparison column. Not an event, but it doesn't duplicate any published story). STILL DROPPED (same calls as before): all five Apple Oct 13 pre-event leaks (9to5Mac and TechCrunch HomeView [cluster c0], MacRumors 16-details roundup, Verge Apple TV mic, Verge Apple x LG). These are rumor and extra reporting on a launch already published 10-09, 09-22 and 10-06, with no official announcement. Cover the real launch after Oct 13. Engadget Apple Home AI camera prices (same pricing story as MacRumors 09-15); AA 'Gemini as Assistant is a disaster' (reactions to the 10-03 story); Road to VR Meta VR Glasses (analysis, weak AI angle). Diversity: 4 outlets, Notebookcheck at the cap of 2, every card with its own palette accent."
+    "note": "Fitbit Edge re-checked at the coordinator's request: the 10-07 Digital Trends card was a pre-launch rumor, so the 10-12 official announcement is a new concrete event; kept as a follow-up. Dropped as same story: Pixel Buds Pro 2 update (likely-repeat of 09-29 Pixel Buds Gemini controls and not clearly AI), Meta Muse on glasses (UploadVR, likely-repeat of 09-24 leak and covered again 10-10), ZDNET Alexa tablets (same launch as 10-09 Engadget), ZDNET Surface Laptop Ultra price and Notebookcheck Surface RTX Spark Dev Box (same Microsoft RTX Spark launch as 10-08 TechCrunch). Dropped as pre-event rumor: 9to5Mac HomePad, HomeView and Apple TV reports (the Apple 10-13 event was already announced 10-09). Dropped as commentary: AMD on RTX Spark (Tom's Guide). Dropped as a within-pool duplicate: Lenovo Googlebook 15 review (same Googlebook review wave; the 9to5Google OS review was kept). Lower priority: DLSS modders interview, Shield DVD upscaling essay, Gemini Live UI teardown. The Mechrevo pick was chosen over MSI to avoid a second RTX Spark card; MSI is the first alternate after Motorola. Final 5 come from 5 distinct outlets."
   }
 }

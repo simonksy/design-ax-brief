@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "marketing",
   "cards": [
     {
-      "id": "meta-muse-ad-accounts",
+      "id": "marketing-google-ai-mode-rx-ads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta 에이전트 Muse\nSMB 광고 계정까지",
-      "body": "미국·캐나다 소상공인은 Muse에 Meta 광고 계정을 잇되 지출은 직접 승인한다.",
-      "mini_headline": "Muse, SMB 광고 계정 진입",
+      "headline": "Google AI Mode\n처방약 광고 연다",
+      "body": "Google이 이달 AI Mode에서 규제 문턱이 높은 처방약 광고를 시험한다.",
+      "mini_headline": "Rx 광고, Google AI Mode 진입",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,149 +19,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+            "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+            "cap": "John Keeble via Getty Images"
           },
           {
             "t": "p",
-            "x": "Meta는 2026년 9월 29일, 3주 전 출시한 개인용 AI 에이전트 Muse를 미국·캐나다 소상공인용으로 넓혔다. Muse for Small Business에는 Facebook Pages, Instagram 프로페셔널 계정 분석, Meta 광고 계정이 붙고, Shopify, Intuit QuickBooks, Klaviyo, Stripe, Canva 등 외부 도구 커넥터 15개도 들어갔다. Meta는 \"당신의 승인 없이는 아무것도 게시하거나 보내거나 지출하지 않는다\"고 밝혔다."
+            "x": "Google이 AI Mode와 AI Overviews에서 브랜드 처방약 광고를 시험 중이라고 ADWEEK에 확인했다. 광고 업계에서 규제가 가장 까다로운 범주 하나에 AI 검색 플랫폼의 문을 연 셈이다."
           },
           {
             "t": "p",
-            "x": "광고주가 눈여겨볼 대목은 광고 계정이다. 지난 4월 Claude와 ChatGPT에 열린 광고 MCP 서버 같은 기존 연동은 외부 모델을 Meta 인터페이스로 끌어와야 했다. 이번엔 모델도 에이전트도 앱도 광고 계정도 모두 Meta 것이다. 광고 계정 접근이 읽기 전용인지, 예산·입찰가·소재까지 바꿀 수 있는지, 커넥터 데이터가 Meta 광고 시스템과 분리되는지는 발표문에 없다."
+            "x": "Google 대변인은 처방약을 포함한 의약품 광고 시험이 이달 시작됐고 U.S에 한정된다고 전했다. 제약 광고주는 일반 텍스트 광고와 Shopping 광고를 낼 수 있고, 광고는 “Sponsored” 표시가 붙은 영역에 뜬다."
           },
           {
             "t": "p",
-            "x": "수치로 나온 성과는 테스터 한 명의 사례뿐이다. 식료품점 주인 Tom Mulholland는 Muse 덕분에 급여 처리 시간이 최소 15분 줄었다고 했다. Muse는 대부분 용도에서 무료이고 구독 요금제도 있지만, Meta는 가격을 밝히지 않았다. Meta의 2026년 Q2 매출은 608억 달러였고, 97% 이상이 광고에서 나왔다."
+            "x": "Google 대변인은 성명에서 “AI Mode와 AI Overviews에서 일반 텍스트 광고와 Shopping 광고를 시험하고 있으며, 최근 일부 의약품까지 범위를 넓혔다”고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta's Muse agent can now\nwork inside SMB ad accounts",
-          "body": "US and Canadian small businesses can link Meta ad accounts to Muse, but nothing is spent without the owner's sign-off.",
-          "mini_headline": "Muse enters SMB ad accounts",
+          "headline": "Google opens AI Mode\nto prescription drug ads",
+          "body": "Google began testing prescription drug ads in AI Mode this month, moving a heavily regulated category into AI answers.",
+          "mini_headline": "Rx ads enter Google AI Mode",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+                "cap": "John Keeble via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta on September 29, 2026 extended Muse, the personal AI agent it released three weeks earlier, into a product for small businesses in the US and Canada. Muse for Small Business adds connectors to 15 third-party tools including Shopify, Intuit QuickBooks, Klaviyo, Stripe and Canva, alongside Facebook Pages, Instagram professional account analytics and Meta ad accounts. Meta says \"nothing publishes, sends, or spends without your approval.\""
+                "x": "Google is testing ads for branded prescription drugs in AI Mode and AI Overviews, opening its AI search platform to one of the most tightly regulated categories in advertising, the company confirmed to ADWEEK."
               },
               {
                 "t": "p",
-                "x": "For advertisers, the significant line is the one about ad accounts. Earlier integrations — the ads MCP server opened to Claude and ChatGPT in April — required bringing an external model to Meta's interfaces. Here the model, the agent, the app and the ad account all belong to Meta. The post does not say whether ad-account access is read-only or can change budgets, bids or creative, nor whether connector data is kept out of Meta's ad systems."
+                "x": "The testing for pharmaceutical products, including prescription drugs, began this month and is limited to the U.S, according to a Google spokesperson. Pharmaceutical advertisers can run standard text and Shopping ads, which will appear in sections labeled as “Sponsored.”"
               },
               {
                 "t": "p",
-                "x": "The only quantified outcome is one tester's: grocer Tom Mulholland says Muse cut at least 15 minutes from payroll. Muse is free for most uses, with subscription plans whose prices Meta has not stated. Meta's Q2 2026 revenue was $60.80 billion, more than 97% of it from ads."
+                "x": "“We’re testing standard text and Shopping ads in AI Mode and AI Overviews, which we recently expanded to include certain pharmaceutical products,” a Google spokesperson said in a statement."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta 에이전트 Muse\nSMB 광고 계정까지",
-          "body": "미국·캐나다 소상공인은 Muse에 Meta 광고 계정을 잇되 지출은 직접 승인한다.",
-          "mini_headline": "Muse, SMB 광고 계정 진입",
+          "headline": "Google AI Mode\n처방약 광고 연다",
+          "body": "Google이 이달 AI Mode에서 규제 문턱이 높은 처방약 광고를 시험한다.",
+          "mini_headline": "Rx 광고, Google AI Mode 진입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+                "cap": "John Keeble via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta는 2026년 9월 29일, 3주 전 출시한 개인용 AI 에이전트 Muse를 미국·캐나다 소상공인용으로 넓혔다. Muse for Small Business에는 Facebook Pages, Instagram 프로페셔널 계정 분석, Meta 광고 계정이 붙고, Shopify, Intuit QuickBooks, Klaviyo, Stripe, Canva 등 외부 도구 커넥터 15개도 들어갔다. Meta는 \"당신의 승인 없이는 아무것도 게시하거나 보내거나 지출하지 않는다\"고 밝혔다."
+                "x": "Google이 AI Mode와 AI Overviews에서 브랜드 처방약 광고를 시험 중이라고 ADWEEK에 확인했다. 광고 업계에서 규제가 가장 까다로운 범주 하나에 AI 검색 플랫폼의 문을 연 셈이다."
               },
               {
                 "t": "p",
-                "x": "광고주가 눈여겨볼 대목은 광고 계정이다. 지난 4월 Claude와 ChatGPT에 열린 광고 MCP 서버 같은 기존 연동은 외부 모델을 Meta 인터페이스로 끌어와야 했다. 이번엔 모델도 에이전트도 앱도 광고 계정도 모두 Meta 것이다. 광고 계정 접근이 읽기 전용인지, 예산·입찰가·소재까지 바꿀 수 있는지, 커넥터 데이터가 Meta 광고 시스템과 분리되는지는 발표문에 없다."
+                "x": "Google 대변인은 처방약을 포함한 의약품 광고 시험이 이달 시작됐고 U.S에 한정된다고 전했다. 제약 광고주는 일반 텍스트 광고와 Shopping 광고를 낼 수 있고, 광고는 “Sponsored” 표시가 붙은 영역에 뜬다."
               },
               {
                 "t": "p",
-                "x": "수치로 나온 성과는 테스터 한 명의 사례뿐이다. 식료품점 주인 Tom Mulholland는 Muse 덕분에 급여 처리 시간이 최소 15분 줄었다고 했다. Muse는 대부분 용도에서 무료이고 구독 요금제도 있지만, Meta는 가격을 밝히지 않았다. Meta의 2026년 Q2 매출은 608억 달러였고, 97% 이상이 광고에서 나왔다."
+                "x": "Google 대변인은 성명에서 “AI Mode와 AI Overviews에서 일반 텍스트 광고와 Shopping 광고를 시험하고 있으며, 최근 일부 의약품까지 범위를 넓혔다”고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MetaのMuse\nSMBの広告アカウントへ",
-          "body": "米国・カナダの中小企業はMuseにMeta広告アカウントを連携できるが、支出には承認が要る。",
-          "mini_headline": "Muse、SMB広告アカウントへ",
+          "headline": "Google AI Mode\n処方薬広告を解禁",
+          "body": "Googleは今月、AI Modeで規制の厳しい処方薬広告のテストを始めた。",
+          "mini_headline": "Rx広告がGoogle AI Modeへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+                "cap": "John Keeble via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Metaは2026年9月29日、3週間前に公開した個人向けAIエージェントMuseを、米国とカナダの中小企業向け製品へと拡張した。Muse for Small Businessは、Facebook Pages、Instagramプロアカウントの分析、Meta広告アカウントに加え、Shopify、Intuit QuickBooks、Klaviyo、Stripe、Canvaなど15の外部ツールとのコネクタを備える。Metaは「あなたの承認なしに、何も公開、送信、支出しない」としている。"
+                "x": "GoogleはAI ModeとAI Overviewsでブランド処方薬の広告をテストしている。広告で最も規制が厳しいカテゴリーの一つにAI検索プラットフォームを開く動きで、同社がADWEEKに認めた。"
               },
               {
                 "t": "p",
-                "x": "広告主にとって重要なのは広告アカウントに関するくだりだ。4月にClaudeとChatGPTに開放された広告MCPサーバーなど、これまでの連携では外部モデルをMetaのインターフェースに持ち込む必要があった。今回はモデル、エージェント、アプリ、広告アカウントのすべてがMetaのものだ。発表は、広告アカウントへのアクセスが読み取り専用なのか、予算や入札、クリエイティブを変更できるのか、またコネクタのデータがMetaの広告システムから切り離されるのかを明らかにしていない。"
+                "x": "Googleの広報担当者によると、処方薬を含む医薬品のテストは今月始まり、U.Sに限定される。製薬広告主は通常のテキスト広告とShopping広告を出稿でき、広告は「Sponsored」と表示された枠に掲載される。"
               },
               {
                 "t": "p",
-                "x": "数値で示された成果はテスター1人のものだけだ。食料品店を営むTom Mulhollandは、Museで給与計算の作業が少なくとも15分短縮されたと話す。Museは大半の用途で無料で、サブスクリプションプランもあるが、Metaは価格を明らかにしていない。Metaの2026年Q2の売上高は608億ドルで、その97%超が広告によるものだった。"
+                "x": "Googleの広報担当者は声明で「AI ModeとAI Overviewsで通常のテキスト広告とShopping広告をテストしており、最近これを一部の医薬品にも広げた」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta的Muse智能体\n进驻SMB广告账户",
-          "body": "美国和加拿大小企业可将Meta广告账户接入Muse，但未经店主批准不会花一分钱。",
-          "mini_headline": "Muse进驻SMB广告账户",
+          "headline": "Google AI Mode\n向处方药广告开放",
+          "body": "Google本月起在AI Mode测试处方药广告，把强监管品类引入AI回答。",
+          "mini_headline": "Rx 广告进入 Google AI Mode",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+                "cap": "John Keeble via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta于2026年9月29日将三周前发布的个人AI智能体Muse扩展为面向美国和加拿大小企业的产品。Muse for Small Business除Facebook Pages、Instagram专业账户分析和Meta广告账户外，还新增了Shopify、Intuit QuickBooks、Klaviyo、Stripe和Canva等15款第三方工具的连接器。Meta表示：“未经你的批准，不会发布、发送或花费任何东西。”"
+                "x": "Google向ADWEEK证实，正在AI Mode和AI Overviews中测试品牌处方药广告，将其AI搜索平台向广告业监管最严格的品类之一开放。"
               },
               {
                 "t": "p",
-                "x": "对广告主而言，关键在于广告账户这一条。此前的集成——例如4月向Claude和ChatGPT开放的广告MCP服务器——需要把外部模型接入Meta的接口。这一次，模型、智能体、应用和广告账户都归Meta所有。公告没有说明广告账户访问权限是只读，还是可以修改预算、出价或创意，也没有说明连接器数据是否与Meta的广告系统隔离。"
+                "x": "据Google发言人介绍，包括处方药在内的医药产品测试于本月启动，仅限U.S。医药广告主可投放标准文字广告和Shopping广告，这些广告将出现在标有“Sponsored”的区域。"
               },
               {
                 "t": "p",
-                "x": "唯一量化的成果来自一位测试者：杂货店主Tom Mulholland表示，Muse让他处理工资的时间至少缩短了15分钟。Muse在大多数用途下免费，另有订阅方案，但Meta未公布价格。Meta 2026年Q2营收为608亿美元，其中超过97%来自广告。"
+                "x": "Google发言人在声明中表示：“我们正在AI Mode和AI Overviews中测试标准文字广告和Shopping广告，最近已将范围扩大到部分医药产品。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente Muse de Meta ya opera\nen cuentas publicitarias de SMB",
-          "body": "Pymes de EE. UU. y Canadá pueden conectar cuentas de anuncios de Meta a Muse, pero nada se gasta sin su aprobación.",
-          "mini_headline": "Muse entra en cuentas publicitarias de SMB",
+          "headline": "Google abre AI Mode a los\nanuncios de fármacos con receta",
+          "body": "Google prueba desde este mes anuncios de fármacos con receta en AI Mode, una categoría muy regulada.",
+          "mini_headline": "Los anuncios Rx llegan a Google AI Mode",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+                "cap": "John Keeble via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta amplió el 29 de septiembre de 2026 Muse, el agente personal de IA que había lanzado tres semanas antes, a un producto para pequeñas empresas de EE. UU. y Canadá. Muse for Small Business añade conectores con 15 herramientas de terceros, entre ellas Shopify, Intuit QuickBooks, Klaviyo, Stripe y Canva, además de Facebook Pages, las analíticas de cuentas profesionales de Instagram y las cuentas publicitarias de Meta. Meta afirma que «nada se publica, se envía ni se gasta sin tu aprobación»."
+                "x": "Google está probando anuncios de medicamentos de marca con receta en AI Mode y AI Overviews, con lo que abre su plataforma de búsqueda con AI a una de las categorías más reguladas de la publicidad, según confirmó la compañía a ADWEEK."
               },
               {
                 "t": "p",
-                "x": "Para los anunciantes, la frase relevante es la de las cuentas publicitarias. Las integraciones anteriores —el servidor MCP de anuncios abierto a Claude y ChatGPT en abril— exigían llevar un modelo externo a las interfaces de Meta. Aquí el modelo, el agente, la app y la cuenta publicitaria pertenecen todos a Meta. La publicación no aclara si el acceso a la cuenta publicitaria es de solo lectura o permite cambiar presupuestos, pujas o creatividades, ni si los datos de los conectores quedan fuera de los sistemas publicitarios de Meta."
+                "x": "Las pruebas con productos farmacéuticos, incluidos los medicamentos con receta, comenzaron este mes y se limitan a U.S, según un portavoz de Google. Los anunciantes farmacéuticos pueden publicar anuncios de texto estándar y de Shopping, que aparecerán en secciones etiquetadas como “Sponsored”."
               },
               {
                 "t": "p",
-                "x": "El único resultado cuantificado es el de un probador: el tendero Tom Mulholland dice que Muse le ahorró al menos 15 minutos en la gestión de nóminas. Muse es gratuito para la mayoría de usos, con planes de suscripción cuyos precios Meta no ha indicado. Los ingresos de Meta en el Q2 de 2026 fueron de 60.800 millones de dólares, más del 97 % procedentes de la publicidad."
+                "x": "“Estamos probando anuncios de texto estándar y de Shopping en AI Mode y AI Overviews, que recientemente ampliamos para incluir ciertos productos farmacéuticos”, dijo un portavoz de Google en un comunicado."
               }
             ]
           }
@@ -169,105 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta 에이전트 Muse\nSMB 광고 계정까지",
-          "body": "미국·캐나다 소상공인은 Muse에 Meta 광고 계정을 잇되 지출은 승인해야 한다.",
-          "mini_headline": "Muse, SMB 광고 계정 진입",
+          "headline": "Google AI Mode\n처방약 광고 연다",
+          "body": "Google이 이달 AI Mode에서 규제가 엄격한 처방약 광고 시험에 나섰다.",
+          "mini_headline": "Rx 광고, Google AI Mode 진입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+                "cap": "John Keeble via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta는 2026년 9월 29일, 3주 전 내놓은 개인용 AI 에이전트 Muse를 미국과 캐나다 소상공인용 제품으로 확장했다. Muse for Small Business는 Facebook Pages, Instagram 프로페셔널 계정 분석, Meta 광고 계정과 함께 Shopify, Intuit QuickBooks, Klaviyo, Stripe, Canva 등 15개 외부 도구 커넥터를 더했다. Meta는 \"당신의 승인 없이는 아무것도 게시하거나 보내거나 지출하지 않는다\"고 밝혔다."
+                "x": "Google이 AI Mode와 AI Overviews에서 브랜드 처방약 광고를 시험하고 있다고 ADWEEK에 확인했다. 광고 업계에서 규제가 가장 엄격한 범주 가운데 하나에 AI 검색 플랫폼을 여는 셈이다."
               },
               {
                 "t": "p",
-                "x": "광고주에게 중요한 대목은 광고 계정 부분이다. 지난 4월 Claude와 ChatGPT에 열린 광고 MCP 서버 같은 기존 연동은 외부 모델을 Meta의 인터페이스로 끌어와야 했다. 이번에는 모델, 에이전트, 앱, 광고 계정이 모두 Meta 것이다. 발표문은 광고 계정 접근이 읽기 전용인지, 예산·입찰가·소재까지 바꿀 수 있는지, 커넥터 데이터가 Meta 광고 시스템과 분리되는지는 밝히지 않았다."
+                "x": "Google 대변인에 따르면 처방약을 포함한 의약품 광고 시험은 이달 시작됐고 U.S에 한정된다. 제약 광고주는 일반 텍스트 광고와 Shopping 광고를 집행할 수 있으며, 이 광고는 “Sponsored” 표시가 붙은 영역에 노출된다."
               },
               {
                 "t": "p",
-                "x": "수치로 제시된 성과는 테스터 한 명의 것뿐이다. 식료품점 주인 Tom Mulholland는 Muse 덕에 급여 처리 시간을 최소 15분 줄였다고 말했다. Muse는 대부분 용도에서 무료이며 구독 요금제도 있지만, Meta는 가격을 밝히지 않았다. Meta의 2026년 Q2 매출은 608억 달러였고, 그중 97% 이상이 광고에서 나왔다."
+                "x": "Google 대변인은 성명에서 “AI Mode와 AI Overviews에서 일반 텍스트 광고와 Shopping 광고를 시험하고 있으며, 최근 일부 의약품까지 범위를 넓혔다”고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MetaのMuse\nSMBの広告アカウントへ",
-          "body": "米国・カナダの中小企業はMuseにMeta広告アカウントを連携できるが、支出には承認が要る。",
-          "mini_headline": "Muse、SMB広告アカウントへ",
+          "headline": "Google AI Mode\n処方薬広告を解禁",
+          "body": "Googleは今月、AI Modeで規制の厳しい処方薬広告のテストを始めた。",
+          "mini_headline": "Rx広告がGoogle AI Modeへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+                "cap": "John Keeble via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Metaは2026年9月29日、3週間前に公開した個人向けAIエージェントMuseを、米国とカナダの中小企業向け製品へと拡張した。Muse for Small Businessは、Facebook Pages、Instagramプロアカウントの分析、Meta広告アカウントに加え、Shopify、Intuit QuickBooks、Klaviyo、Stripe、Canvaなど15の外部ツールとのコネクタを備える。Metaは「あなたの承認なしに、何も公開、送信、支出しない」としている。"
+                "x": "GoogleはAI ModeとAI Overviewsでブランド処方薬の広告をテストしている。広告で最も規制が厳しいカテゴリーの一つにAI検索プラットフォームを開く動きで、同社がADWEEKに認めた。"
               },
               {
                 "t": "p",
-                "x": "広告主にとって重要なのは広告アカウントに関するくだりだ。4月にClaudeとChatGPTに開放された広告MCPサーバーなど、これまでの連携では外部モデルをMetaのインターフェースに持ち込む必要があった。今回はモデル、エージェント、アプリ、広告アカウントのすべてがMetaのものだ。発表は、広告アカウントへのアクセスが読み取り専用なのか、予算や入札、クリエイティブを変更できるのか、またコネクタのデータがMetaの広告システムから切り離されるのかを明らかにしていない。"
+                "x": "Googleの広報担当者によると、処方薬を含む医薬品のテストは今月始まり、U.Sに限定される。製薬広告主は通常のテキスト広告とShopping広告を出稿でき、広告は「Sponsored」と表示された枠に掲載される。"
               },
               {
                 "t": "p",
-                "x": "数値で示された成果はテスター1人のものだけだ。食料品店を営むTom Mulhollandは、Museで給与計算の作業が少なくとも15分短縮されたと話す。Museは大半の用途で無料で、サブスクリプションプランもあるが、Metaは価格を明らかにしていない。Metaの2026年Q2の売上高は608億ドルで、その97%超が広告によるものだった。"
+                "x": "Googleの広報担当者は声明で「AI ModeとAI Overviewsで通常のテキスト広告とShopping広告をテストしており、最近これを一部の医薬品にも広げた」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta的Muse智能体\n进驻SMB广告账户",
-          "body": "美国和加拿大小企业可将Meta广告账户接入Muse，但未经店主批准不会花一分钱。",
-          "mini_headline": "Muse进驻SMB广告账户",
+          "headline": "Google AI Mode\n向处方药广告开放",
+          "body": "Google本月起在AI Mode测试处方药广告，把强监管品类引入AI回答。",
+          "mini_headline": "Rx 广告进入 Google AI Mode",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+                "cap": "John Keeble via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta于2026年9月29日将三周前发布的个人AI智能体Muse扩展为面向美国和加拿大小企业的产品。Muse for Small Business除Facebook Pages、Instagram专业账户分析和Meta广告账户外，还新增了Shopify、Intuit QuickBooks、Klaviyo、Stripe和Canva等15款第三方工具的连接器。Meta表示：“未经你的批准，不会发布、发送或花费任何东西。”"
+                "x": "Google向ADWEEK证实，正在AI Mode和AI Overviews中测试品牌处方药广告，将其AI搜索平台向广告业监管最严格的品类之一开放。"
               },
               {
                 "t": "p",
-                "x": "对广告主而言，关键在于广告账户这一条。此前的集成——例如4月向Claude和ChatGPT开放的广告MCP服务器——需要把外部模型接入Meta的接口。这一次，模型、智能体、应用和广告账户都归Meta所有。公告没有说明广告账户访问权限是只读，还是可以修改预算、出价或创意，也没有说明连接器数据是否与Meta的广告系统隔离。"
+                "x": "据Google发言人介绍，包括处方药在内的医药产品测试于本月启动，仅限U.S。医药广告主可投放标准文字广告和Shopping广告，这些广告将出现在标有“Sponsored”的区域。"
               },
               {
                 "t": "p",
-                "x": "唯一量化的成果来自一位测试者：杂货店主Tom Mulholland表示，Muse让他处理工资的时间至少缩短了15分钟。Muse在大多数用途下免费，另有订阅方案，但Meta未公布价格。Meta 2026年Q2营收为608亿美元，其中超过97%来自广告。"
+                "x": "Google发言人在声明中表示：“我们正在AI Mode和AI Overviews中测试标准文字广告和Shopping广告，最近已将范围扩大到部分医药产品。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El agente Muse de Meta ya opera\nen cuentas publicitarias de SMB",
-          "body": "Pymes de EE. UU. y Canadá pueden conectar cuentas de anuncios de Meta a Muse, pero nada se gasta sin su aprobación.",
-          "mini_headline": "Muse entra en cuentas publicitarias de SMB",
+          "headline": "Google abre AI Mode a los\nanuncios de fármacos con receta",
+          "body": "Google prueba desde este mes anuncios de fármacos con receta en AI Mode, una categoría muy regulada.",
+          "mini_headline": "Los anuncios Rx llegan a Google AI Mode",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+                "cap": "John Keeble via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta amplió el 29 de septiembre de 2026 Muse, el agente personal de IA que había lanzado tres semanas antes, a un producto para pequeñas empresas de EE. UU. y Canadá. Muse for Small Business añade conectores con 15 herramientas de terceros, entre ellas Shopify, Intuit QuickBooks, Klaviyo, Stripe y Canva, además de Facebook Pages, las analíticas de cuentas profesionales de Instagram y las cuentas publicitarias de Meta. Meta afirma que «nada se publica, se envía ni se gasta sin tu aprobación»."
+                "x": "Google está probando anuncios de medicamentos de marca con receta en AI Mode y AI Overviews, con lo que abre su plataforma de búsqueda con AI a una de las categorías más reguladas de la publicidad, según confirmó la compañía a ADWEEK."
               },
               {
                 "t": "p",
-                "x": "Para los anunciantes, la frase relevante es la de las cuentas publicitarias. Las integraciones anteriores —el servidor MCP de anuncios abierto a Claude y ChatGPT en abril— exigían llevar un modelo externo a las interfaces de Meta. Aquí el modelo, el agente, la app y la cuenta publicitaria pertenecen todos a Meta. La publicación no aclara si el acceso a la cuenta publicitaria es de solo lectura o permite cambiar presupuestos, pujas o creatividades, ni si los datos de los conectores quedan fuera de los sistemas publicitarios de Meta."
+                "x": "Las pruebas con productos farmacéuticos, incluidos los medicamentos con receta, comenzaron este mes y se limitan a U.S, según un portavoz de Google. Los anunciantes farmacéuticos pueden publicar anuncios de texto estándar y de Shopping, que aparecerán en secciones etiquetadas como “Sponsored”."
               },
               {
                 "t": "p",
-                "x": "El único resultado cuantificado es el de un probador: el tendero Tom Mulholland dice que Muse le ahorró al menos 15 minutos en la gestión de nóminas. Muse es gratuito para la mayoría de usos, con planes de suscripción cuyos precios Meta no ha indicado. Los ingresos de Meta en el Q2 de 2026 fueron de 60.800 millones de dólares, más del 97 % procedentes de la publicidad."
+                "x": "“Estamos probando anuncios de texto estándar y de Shopping en AI Mode y AI Overviews, que recientemente ampliamos para incluir ciertos productos farmacéuticos”, dijo un portavoz de Google en un comunicado."
               }
             ]
           }
@@ -275,391 +285,391 @@
       }
     },
     {
-      "id": "retail-platforms-block-ai-agents",
-      "source_lang": "ko",
+      "id": "marketing-google-ads-ai-goals-assets",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "아마존·네이버·쿠팡\n외부 AI 에이전트 차단",
-      "body": "광고 노출이 약해질까 봐 아마존·네이버·쿠팡이 외부 AI 에이전트를 막는다.",
-      "mini_headline": "외부 AI 에이전트 차단",
+      "headline": "Google Ads 목표\nAI-suggested로",
+      "body": "Google Ads에서 AI가 캠페인 목표와 애셋을 제안하는 테스트가 돌고 있다.",
+      "mini_headline": "Google Ads, AI가 목표 제안",
       "tool": "Marketing",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/it/12173227",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+            "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
           },
           {
             "t": "p",
-            "x": "인공지능(AI) 에이전트 시장이 급성장하면서 커머스 플랫폼의 입장이 엇갈리고 있다. AI 에이전트가 사용자 대신 검색하고 결제를 하면 사용자와 접점을 만드는 지점이 플랫폼이 아니라 AI 에이전트가 되기 때문이다."
+            "x": "Google이 AI로 Google Ads 캠페인의 목표와 애셋을 제안하는 기능을 시험한다. Google도 현재 진행 중인 테스트라고 확인했다."
           },
           {
             "t": "p",
-            "x": "아마존은 최근 메타의 AI 에이전트 ‘뮤즈’가 사용자를 대신해 아마존에서 상품을 검색·구매하려 하자 이용약관 위반을 이유로 접근을 차단했다. 메타가 사전 승인을 받지 않았고, 에이전트가 자신이 AI라는 사실을 명확히 알리지 않았다는 주장이다. 이베이도 지난 2월부터 약관을 개정해 제3자 AI 구매 대행 에이전트의 무단 접근을 금지했다."
+            "x": "Dima가 올린 Google Ads 광고주 콘솔 스크린샷에는 \"What's your goal for this campaign?\"라는 문구와 함께 \"Google AI will suggest goals and assets based on your input\"이라는 안내가 보인다. Dima는 이 스크린샷을 X에 게시했다."
           },
           {
             "t": "img",
-            "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+            "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
           },
           {
             "t": "p",
-            "x": "반면 구글은 지난 1월 쇼피파이와 함께 개방형 상거래 표준(UCP)을 공개했고, 인도에서 제미나이를 통한 직접 구매 시험 운용을 시작했다. 지난 6일 메타와 월마트, 쇼피파이, 스트라이프 등은 AI 에이전트의 신원과 위임받은 권한을 확인하는 공통 표준을 만들기로 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+            "x": "큰 입력란에 목표를 적으면 된다. 원치 않으면 \"Create campaign manually.\" 링크를 눌러 직접 만들면 된다."
           },
           {
             "t": "p",
-            "x": "AI 에이전트가 검색·비교·결제를 대신 해버리면 이용자가 앱과 검색창을 거치지 않게 돼, 플랫폼 입장에서는 광고 노출, 추천 알고리즘, 고객 행동 데이터, 멤버십 락인 같은 핵심 자산이 약해진다. 국내에서도 네이버는 외부 에이전트의 접근을 제한하고 자체 쇼핑 AI 에이전트 기능을 확대하고 있으며, 국내 이커머스 1위인 쿠팡도 외부 AI가 자사 앱에서 결제하는 것을 차단하고 있다."
+            "x": "Google의 Ads Liaison인 Ginny Marvin은 X에서 테스트가 맞다고 확인하며 \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\"라고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "짐작하겠지만 Google은 곳곳에 AI를 밀어 넣는 중이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "아마존·네이버·쿠팡\n외부 AI 에이전트 차단",
-          "body": "광고 노출이 약해질까 봐 아마존·네이버·쿠팡이 외부 AI 에이전트를 막는다.",
-          "mini_headline": "외부 AI 에이전트 차단",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "인공지능(AI) 에이전트 시장이 급성장하면서 커머스 플랫폼의 입장이 엇갈리고 있다. AI 에이전트가 사용자 대신 검색하고 결제를 하면 사용자와 접점을 만드는 지점이 플랫폼이 아니라 AI 에이전트가 되기 때문이다."
-              },
-              {
-                "t": "p",
-                "x": "아마존은 최근 메타의 AI 에이전트 ‘뮤즈’가 사용자를 대신해 아마존에서 상품을 검색·구매하려 하자 이용약관 위반을 이유로 접근을 차단했다. 메타가 사전 승인을 받지 않았고, 에이전트가 자신이 AI라는 사실을 명확히 알리지 않았다는 주장이다. 이베이도 지난 2월부터 약관을 개정해 제3자 AI 구매 대행 에이전트의 무단 접근을 금지했다."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "반면 구글은 지난 1월 쇼피파이와 함께 개방형 상거래 표준(UCP)을 공개했고, 인도에서 제미나이를 통한 직접 구매 시험 운용을 시작했다. 지난 6일 메타와 월마트, 쇼피파이, 스트라이프 등은 AI 에이전트의 신원과 위임받은 권한을 확인하는 공통 표준을 만들기로 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "AI 에이전트가 검색·비교·결제를 대신 해버리면 이용자가 앱과 검색창을 거치지 않게 돼, 플랫폼 입장에서는 광고 노출, 추천 알고리즘, 고객 행동 데이터, 멤버십 락인 같은 핵심 자산이 약해진다. 국내에서도 네이버는 외부 에이전트의 접근을 제한하고 자체 쇼핑 AI 에이전트 기능을 확대하고 있으며, 국내 이커머스 1위인 쿠팡도 외부 AI가 자사 앱에서 결제하는 것을 차단하고 있다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Amazon, Naver and Coupang\nblock outside AI agents",
-          "body": "Amazon, Naver and Coupang are blocking outside AI agents, worried that ad exposure on their platforms will weaken.",
-          "mini_headline": "Outside AI agents blocked",
+          "headline": "Google Ads tests AI-suggested\ngoals and campaign assets",
+          "body": "Google has confirmed a test in which AI suggests goals and assets for advertisers' Google Ads campaigns.",
+          "mini_headline": "Google Ads AI suggests goals",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
               },
               {
                 "t": "p",
-                "x": "As the artificial intelligence (AI) agent market grows quickly, commerce platforms are taking divergent positions. When an AI agent searches and pays on a user's behalf, the point of contact with the user becomes the AI agent rather than the platform."
+                "x": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test."
               },
               {
                 "t": "p",
-                "x": "Amazon recently blocked Meta's AI agent 'Muse', citing a violation of its terms of use, when it tried to search for and buy products on Amazon on users' behalf. Amazon argues that Meta did not obtain prior approval and that the agent did not clearly disclose that it was an AI. eBay also revised its terms in February to ban unauthorized access by third-party AI shopping agents."
+                "x": "Dima posted a screenshot from the Google Ads advertiser console that says \"What's your goal for this campaign?\" \"Google AI will suggest goals and assets based on your input,\" it also says. Dima posted this screenshot on X:"
               },
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
               },
               {
                 "t": "p",
-                "x": "Google, by contrast, unveiled an open commerce standard (UCP) with Shopify in January and began a pilot of direct purchases through Gemini in India. On the 6th, Meta, Walmart, Shopify, Stripe and others agreed to create a common standard for verifying AI agents' identities and the permissions delegated to them."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+                "x": "In the large box, you describe your goal and if you don't want to do that, you can click on the link to \"Create campaign manually.\""
               },
               {
                 "t": "p",
-                "x": "When AI agents take over searching, comparing and paying, users no longer pass through apps and search bars, weakening core platform assets such as ad exposure, recommendation algorithms, customer behavior data and membership lock-in. In Korea, Naver is restricting access by outside agents while expanding its own shopping AI agent features, and Coupang, the country's No. 1 e-commerce company, is also blocking outside AI from making payments in its app."
+                "x": "Ginny Marvin, Google's Ads Liaison, confirmed this is a test and said on X, \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\""
+              },
+              {
+                "t": "p",
+                "x": "Google is shoving AI everywhere, as you can imagine."
               }
             ]
           }
         },
         "ja": {
-          "headline": "アマゾン・ネイバー・クーパン\n外部AIエージェント遮断",
-          "body": "広告露出の低下を懸念し、アマゾン・ネイバー・クーパンが外部AIエージェントを締め出す。",
-          "mini_headline": "外部AIエージェントを遮断",
+          "headline": "Google Adsが試す\nAI-suggested目標",
+          "body": "GoogleはGoogle AdsでAI-suggestedの目標・アセットを試験中だ。",
+          "mini_headline": "Google AdsのAIが目標を提案",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）エージェント市場が急成長するなか、コマースプラットフォームの立場が分かれている。AIエージェントがユーザーに代わって検索し決済まで行えば、ユーザーとの接点がプラットフォームではなくAIエージェントになるからだ。"
+                "x": "GoogleはAIを使い、Google Adsキャンペーンの目標とアセットを提案する機能をテストしている。Googleはこれが現在実施中のテストだと認めた。"
               },
               {
                 "t": "p",
-                "x": "Amazonは最近、MetaのAIエージェント「Muse」がユーザーに代わってAmazonで商品を検索・購入しようとしたことに対し、利用規約違反を理由にアクセスを遮断した。Metaが事前承認を得ておらず、エージェントが自らAIであることを明確に示さなかったという主張だ。eBayも2月から規約を改定し、第三者のAI購入代行エージェントによる無断アクセスを禁じている。"
+                "x": "DimaはGoogle Adsの広告主コンソールのスクリーンショットを投稿した。画面には\"What's your goal for this campaign?\"(このキャンペーンの目標は?)とあり、\"Google AI will suggest goals and assets based on your input\"(入力内容に基づきGoogle AIが目標とアセットを提案します)とも書かれている。DimaはこのスクリーンショットをXに投稿した:"
               },
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
               },
               {
                 "t": "p",
-                "x": "一方、Googleは1月にShopifyと共にオープンなコマース標準（UCP）を公開し、インドではGeminiを通じた直接購入の試験運用を始めた。6日にはMeta、Walmart、Shopify、Stripeなどが、AIエージェントの身元と委任された権限を確認する共通標準を作ることで合意した。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+                "x": "大きな入力欄に目標を記述する。それを望まない場合は\"Create campaign manually\"(キャンペーンを手動で作成)のリンクをクリックすればよい。"
               },
               {
                 "t": "p",
-                "x": "AIエージェントが検索・比較・決済を代行すれば、利用者はアプリや検索窓を経由しなくなり、プラットフォームにとっては広告露出、レコメンドアルゴリズム、顧客行動データ、会員の囲い込みといった中核資産が弱まる。韓国でもNaverが外部エージェントのアクセスを制限しつつ自社のショッピングAIエージェント機能を拡大しており、国内EC首位のCoupangも外部AIによる自社アプリでの決済を遮断している。"
+                "x": "GoogleのAds LiaisonであるGinny MarvinはXでテストであることを認め、\"これは実験だ。この種のワークフローがどこで、どのように役立つか、広告主からのフィードバックを歓迎する\"と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "想像のとおり、GoogleはあらゆるところにAIを押し込んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "亚马逊·Naver·酷澎\n封堵外部AI智能体",
-          "body": "担心广告曝光减弱，亚马逊、Naver和酷澎纷纷封堵外部AI智能体。",
-          "mini_headline": "封堵外部AI智能体",
+          "headline": "Google Ads测试\nAI-suggested目标",
+          "body": "Google证实正在Google Ads测试AI-suggested目标和素材。",
+          "mini_headline": "Google Ads AI 建议目标",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
               },
               {
                 "t": "p",
-                "x": "随着人工智能（AI）智能体市场快速增长，电商平台的立场出现分歧。原因在于，当AI智能体代替用户搜索和付款时，与用户建立接触的节点就不再是平台，而是AI智能体。"
+                "x": "Google正在测试用AI为你的Google Ads广告系列生成建议目标和素材。Google已证实这是一项正在进行的测试。"
               },
               {
                 "t": "p",
-                "x": "Amazon近日以违反使用条款为由，封锁了Meta的AI智能体“Muse”，因为后者试图代替用户在Amazon上搜索和购买商品。Amazon称Meta未事先获得批准，且该智能体没有明确表明自己是AI。eBay也从2月起修改条款，禁止第三方AI代购智能体未经授权访问。"
+                "x": "Dima发布了一张Google Ads广告主控制台的截图，上面写着\"What's your goal for this campaign?\"（这个广告系列的目标是什么？），还写着\"Google AI will suggest goals and assets based on your input\"（Google AI将根据你的输入建议目标和素材）。Dima把这张截图发在了X上："
               },
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
               },
               {
                 "t": "p",
-                "x": "相比之下，Google在1月与Shopify共同发布了开放式商务标准（UCP），并在印度开始试行通过Gemini直接购物。6日，Meta、Walmart、Shopify、Stripe等公司决定共同制定一套标准，用于确认AI智能体的身份及其获授的权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+                "x": "在大输入框中描述你的目标；如果不想这样做，可以点击\"Create campaign manually\"（手动创建广告系列）链接。"
               },
               {
                 "t": "p",
-                "x": "当AI智能体代劳搜索、比较和付款，用户就不再经过应用和搜索框，对平台而言，广告曝光、推荐算法、客户行为数据和会员锁定等核心资产都会被削弱。在韩国，Naver也在限制外部智能体访问，同时扩大自家购物AI智能体功能；韩国电商排名第一的Coupang也禁止外部AI在其应用内付款。"
+                "x": "Google广告联络人（Ads Liaison）Ginny Marvin在X上确认这是一项测试，并表示：\"这是一项实验。我们欢迎广告主就这类工作流在何处、以何种方式能派上用场提供反馈。\""
+              },
+              {
+                "t": "p",
+                "x": "可以想见，Google正在把AI塞进各个角落。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon, Naver y Coupang\nbloquean agentes de IA externos",
-          "body": "Amazon, Naver y Coupang bloquean agentes de IA externos por temor a que se debilite la exposición de sus anuncios.",
-          "mini_headline": "Bloqueo a agentes de IA externos",
+          "headline": "Google Ads prueba objetivos\ny recursos AI-suggested",
+          "body": "Google confirmó que prueba objetivos y recursos AI-suggested para las campañas de Google Ads.",
+          "mini_headline": "Google Ads: la AI sugiere objetivos",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
               },
               {
                 "t": "p",
-                "x": "A medida que el mercado de agentes de inteligencia artificial (IA) crece con rapidez, las plataformas de comercio adoptan posturas distintas. Si un agente de IA busca y paga en nombre del usuario, el punto de contacto con el usuario pasa a ser el agente de IA y no la plataforma."
+                "x": "Google está probando el uso de AI para proponer objetivos y recursos sugeridos para tus campañas de Google Ads. Google confirmó que se trata de una prueba en curso."
               },
               {
                 "t": "p",
-                "x": "Amazon bloqueó recientemente el acceso de Muse, el agente de IA de Meta, alegando una violación de sus términos de uso, cuando intentó buscar y comprar productos en Amazon en nombre de los usuarios. Sostiene que Meta no obtuvo autorización previa y que el agente no indicó con claridad que era una IA. eBay también modificó sus condiciones en febrero para prohibir el acceso no autorizado de agentes de compra de IA de terceros."
+                "x": "Dima publicó una captura de pantalla de la consola de anunciantes de Google Ads que dice \"What's your goal for this campaign?\" (¿Cuál es tu objetivo para esta campaña?). \"Google AI will suggest goals and assets based on your input\" (Google AI sugerirá objetivos y recursos según lo que indiques), dice también. Dima publicó esta captura en X:"
               },
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
               },
               {
                 "t": "p",
-                "x": "En cambio, Google presentó en enero junto a Shopify un estándar abierto de comercio (UCP) y empezó en la India una prueba de compras directas a través de Gemini. El día 6, Meta, Walmart, Shopify, Stripe y otras empresas acordaron crear un estándar común para verificar la identidad de los agentes de IA y los permisos que se les delegan."
+                "x": "En el recuadro grande se describe el objetivo y, si no se quiere hacer eso, se puede hacer clic en el enlace \"Create campaign manually\" (Crear campaña manualmente)."
+              },
+              {
+                "t": "p",
+                "x": "Ginny Marvin, Ads Liaison de Google, confirmó que se trata de una prueba y dijo en X: \"esto es un experimento. Agradecemos los comentarios de los anunciantes sobre cómo y dónde sería útil este tipo de flujo de trabajo\"."
+              },
+              {
+                "t": "p",
+                "x": "Google está metiendo AI en todas partes, como cabe imaginar."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google Ads 목표\nAI-suggested로",
+          "body": "Google Ads에서 AI가 캠페인 목표와 애셋을 제안하는 테스트가 돌고 있다.",
+          "mini_headline": "Google Ads, AI가 목표 제안",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google이 AI로 Google Ads 캠페인의 목표와 애셋을 제안하는 기능을 시험한다. Google도 현재 진행 중인 테스트라고 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "Dima가 올린 Google Ads 광고주 콘솔 스크린샷에는 \"What's your goal for this campaign?\"라는 문구와 함께 \"Google AI will suggest goals and assets based on your input\"이라는 안내가 보인다. Dima는 이 스크린샷을 X에 게시했다."
               },
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
               },
               {
                 "t": "p",
-                "x": "Cuando un agente de IA se encarga de buscar, comparar y pagar, los usuarios dejan de pasar por las apps y los buscadores, y se debilitan activos clave de las plataformas como la exposición publicitaria, los algoritmos de recomendación, los datos de comportamiento de los clientes y la fidelización mediante membresías. En Corea, Naver restringe el acceso de agentes externos y amplía sus propias funciones de agente de IA para compras, y Coupang, líder del comercio electrónico en el país, también impide que una IA externa realice pagos en su app."
+                "x": "큰 입력란에 목표를 적으면 된다. 원치 않으면 \"Create campaign manually.\" 링크를 눌러 직접 만들면 된다."
+              },
+              {
+                "t": "p",
+                "x": "Google의 Ads Liaison인 Ginny Marvin은 X에서 테스트가 맞다고 확인하며 \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\"라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "짐작하겠지만 Google은 곳곳에 AI를 밀어 넣는 중이다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Amazon, Naver and Coupang\nblock outside AI agents",
-          "body": "Amazon, Naver and Coupang are blocking outside AI agents, worried that ad exposure on their platforms will weaken.",
-          "mini_headline": "Outside AI agents blocked",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "As the artificial intelligence (AI) agent market grows quickly, commerce platforms are taking divergent positions. When an AI agent searches and pays on a user's behalf, the point of contact with the user becomes the AI agent rather than the platform."
-              },
-              {
-                "t": "p",
-                "x": "Amazon recently blocked Meta's AI agent 'Muse', citing a violation of its terms of use, when it tried to search for and buy products on Amazon on users' behalf. Amazon argues that Meta did not obtain prior approval and that the agent did not clearly disclose that it was an AI. eBay also revised its terms in February to ban unauthorized access by third-party AI shopping agents."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "Google, by contrast, unveiled an open commerce standard (UCP) with Shopify in January and began a pilot of direct purchases through Gemini in India. On the 6th, Meta, Walmart, Shopify, Stripe and others agreed to create a common standard for verifying AI agents' identities and the permissions delegated to them."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
-              },
-              {
-                "t": "p",
-                "x": "When AI agents take over searching, comparing and paying, users no longer pass through apps and search bars, weakening core platform assets such as ad exposure, recommendation algorithms, customer behavior data and membership lock-in. In Korea, Naver is restricting access by outside agents while expanding its own shopping AI agent features, and Coupang, the country's No. 1 e-commerce company, is also blocking outside AI from making payments in its app."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "アマゾン・ネイバー・クーパン\n外部AIエージェント遮断",
-          "body": "広告露出の低下を懸念し、アマゾン・ネイバー・クーパンが外部AIエージェントを締め出す。",
-          "mini_headline": "外部AIエージェントを遮断",
+          "headline": "Google Adsが試す\nAI-suggested目標",
+          "body": "GoogleはGoogle AdsでAI-suggestedの目標・アセットを試験中だ。",
+          "mini_headline": "Google AdsのAIが目標を提案",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）エージェント市場が急成長するなか、コマースプラットフォームの立場が分かれている。AIエージェントがユーザーに代わって検索し決済まで行えば、ユーザーとの接点がプラットフォームではなくAIエージェントになるからだ。"
+                "x": "GoogleはAIを使い、Google Adsキャンペーンの目標とアセットを提案する機能をテストしている。Googleはこれが現在実施中のテストだと認めた。"
               },
               {
                 "t": "p",
-                "x": "Amazonは最近、MetaのAIエージェント「Muse」がユーザーに代わってAmazonで商品を検索・購入しようとしたことに対し、利用規約違反を理由にアクセスを遮断した。Metaが事前承認を得ておらず、エージェントが自らAIであることを明確に示さなかったという主張だ。eBayも2月から規約を改定し、第三者のAI購入代行エージェントによる無断アクセスを禁じている。"
+                "x": "DimaはGoogle Adsの広告主コンソールのスクリーンショットを投稿した。画面には\"What's your goal for this campaign?\"(このキャンペーンの目標は?)とあり、\"Google AI will suggest goals and assets based on your input\"(入力内容に基づきGoogle AIが目標とアセットを提案します)とも書かれている。DimaはこのスクリーンショットをXに投稿した:"
               },
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
               },
               {
                 "t": "p",
-                "x": "一方、Googleは1月にShopifyと共にオープンなコマース標準（UCP）を公開し、インドではGeminiを通じた直接購入の試験運用を始めた。6日にはMeta、Walmart、Shopify、Stripeなどが、AIエージェントの身元と委任された権限を確認する共通標準を作ることで合意した。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+                "x": "大きな入力欄に目標を記述する。それを望まない場合は\"Create campaign manually\"(キャンペーンを手動で作成)のリンクをクリックすればよい。"
               },
               {
                 "t": "p",
-                "x": "AIエージェントが検索・比較・決済を代行すれば、利用者はアプリや検索窓を経由しなくなり、プラットフォームにとっては広告露出、レコメンドアルゴリズム、顧客行動データ、会員の囲い込みといった中核資産が弱まる。韓国でもNaverが外部エージェントのアクセスを制限しつつ自社のショッピングAIエージェント機能を拡大しており、国内EC首位のCoupangも外部AIによる自社アプリでの決済を遮断している。"
+                "x": "GoogleのAds LiaisonであるGinny MarvinはXでテストであることを認め、\"これは実験だ。この種のワークフローがどこで、どのように役立つか、広告主からのフィードバックを歓迎する\"と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "想像のとおり、GoogleはあらゆるところにAIを押し込んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "亚马逊·Naver·酷澎\n封堵外部AI智能体",
-          "body": "担心广告曝光减弱，亚马逊、Naver和酷澎纷纷封堵外部AI智能体。",
-          "mini_headline": "封堵外部AI智能体",
+          "headline": "Google Ads测试\nAI-suggested目标",
+          "body": "Google证实正在Google Ads测试AI-suggested目标和素材。",
+          "mini_headline": "Google Ads AI 建议目标",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
               },
               {
                 "t": "p",
-                "x": "随着人工智能（AI）智能体市场快速增长，电商平台的立场出现分歧。原因在于，当AI智能体代替用户搜索和付款时，与用户建立接触的节点就不再是平台，而是AI智能体。"
+                "x": "Google正在测试用AI为你的Google Ads广告系列生成建议目标和素材。Google已证实这是一项正在进行的测试。"
               },
               {
                 "t": "p",
-                "x": "Amazon近日以违反使用条款为由，封锁了Meta的AI智能体“Muse”，因为后者试图代替用户在Amazon上搜索和购买商品。Amazon称Meta未事先获得批准，且该智能体没有明确表明自己是AI。eBay也从2月起修改条款，禁止第三方AI代购智能体未经授权访问。"
+                "x": "Dima发布了一张Google Ads广告主控制台的截图，上面写着\"What's your goal for this campaign?\"（这个广告系列的目标是什么？），还写着\"Google AI will suggest goals and assets based on your input\"（Google AI将根据你的输入建议目标和素材）。Dima把这张截图发在了X上："
               },
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
               },
               {
                 "t": "p",
-                "x": "相比之下，Google在1月与Shopify共同发布了开放式商务标准（UCP），并在印度开始试行通过Gemini直接购物。6日，Meta、Walmart、Shopify、Stripe等公司决定共同制定一套标准，用于确认AI智能体的身份及其获授的权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+                "x": "在大输入框中描述你的目标；如果不想这样做，可以点击\"Create campaign manually\"（手动创建广告系列）链接。"
               },
               {
                 "t": "p",
-                "x": "当AI智能体代劳搜索、比较和付款，用户就不再经过应用和搜索框，对平台而言，广告曝光、推荐算法、客户行为数据和会员锁定等核心资产都会被削弱。在韩国，Naver也在限制外部智能体访问，同时扩大自家购物AI智能体功能；韩国电商排名第一的Coupang也禁止外部AI在其应用内付款。"
+                "x": "Google广告联络人（Ads Liaison）Ginny Marvin在X上确认这是一项测试，并表示：\"这是一项实验。我们欢迎广告主就这类工作流在何处、以何种方式能派上用场提供反馈。\""
+              },
+              {
+                "t": "p",
+                "x": "可以想见，Google正在把AI塞进各个角落。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amazon, Naver y Coupang\nbloquean agentes de IA externos",
-          "body": "Amazon, Naver y Coupang bloquean agentes de IA externos por temor a que se debilite la exposición de sus anuncios.",
-          "mini_headline": "Bloqueo a agentes de IA externos",
+          "headline": "Google Ads prueba objetivos\ny recursos AI-suggested",
+          "body": "Google confirmó que prueba objetivos y recursos AI-suggested para las campañas de Google Ads.",
+          "mini_headline": "Google Ads: la AI sugiere objetivos",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_P1.png"
+                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
               },
               {
                 "t": "p",
-                "x": "A medida que el mercado de agentes de inteligencia artificial (IA) crece con rapidez, las plataformas de comercio adoptan posturas distintas. Si un agente de IA busca y paga en nombre del usuario, el punto de contacto con el usuario pasa a ser el agente de IA y no la plataforma."
+                "x": "Google está probando el uso de AI para proponer objetivos y recursos sugeridos para tus campañas de Google Ads. Google confirmó que se trata de una prueba en curso."
               },
               {
                 "t": "p",
-                "x": "Amazon bloqueó recientemente el acceso de Muse, el agente de IA de Meta, alegando una violación de sus términos de uso, cuando intentó buscar y comprar productos en Amazon en nombre de los usuarios. Sostiene que Meta no obtuvo autorización previa y que el agente no indicó con claridad que era una IA. eBay también modificó sus condiciones en febrero para prohibir el acceso no autorizado de agentes de compra de IA de terceros."
+                "x": "Dima publicó una captura de pantalla de la consola de anunciantes de Google Ads que dice \"What's your goal for this campaign?\" (¿Cuál es tu objetivo para esta campaña?). \"Google AI will suggest goals and assets based on your input\" (Google AI sugerirá objetivos y recursos según lo que indiques), dice también. Dima publicó esta captura en X:"
               },
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.7da93d5e9fdc4dfeb030dfe7efea9810_P1.png"
+                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
               },
               {
                 "t": "p",
-                "x": "En cambio, Google presentó en enero junto a Shopify un estándar abierto de comercio (UCP) y empezó en la India una prueba de compras directas a través de Gemini. El día 6, Meta, Walmart, Shopify, Stripe y otras empresas acordaron crear un estándar común para verificar la identidad de los agentes de IA y los permisos que se les delegan."
+                "x": "En el recuadro grande se describe el objetivo y, si no se quiere hacer eso, se puede hacer clic en el enlace \"Create campaign manually\" (Crear campaña manualmente)."
+              },
+              {
+                "t": "p",
+                "x": "Ginny Marvin, Ads Liaison de Google, confirmó que se trata de una prueba y dijo en X: \"esto es un experimento. Agradecemos los comentarios de los anunciantes sobre cómo y dónde sería útil este tipo de flujo de trabajo\"."
+              },
+              {
+                "t": "p",
+                "x": "Google está metiendo AI en todas partes, como cabe imaginar."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google Ads 목표\nAI-suggested로",
+          "body": "Google Ads 캠페인 목표와 애셋을 AI가 제안하는 테스트가 확인됐다.",
+          "mini_headline": "Google Ads, AI가 목표 제안",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google이 AI를 활용해 Google Ads 캠페인의 목표와 애셋을 제안하는 기능을 시험하고 있다. Google은 현재 진행 중인 테스트라고 확인했다."
+              },
+              {
+                "t": "p",
+                "x": "Dima는 Google Ads 광고주 콘솔의 스크린샷을 올렸다. 화면에는 \"What's your goal for this campaign?\"라는 문구와 함께 \"Google AI will suggest goals and assets based on your input\"이라는 안내가 적혀 있다. Dima는 이 스크린샷을 X에 게시했다."
               },
               {
                 "t": "img",
-                "src": "https://wimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.346c6b57a6c9430384f306c138da184f_P1.png"
+                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
               },
               {
                 "t": "p",
-                "x": "Cuando un agente de IA se encarga de buscar, comparar y pagar, los usuarios dejan de pasar por las apps y los buscadores, y se debilitan activos clave de las plataformas como la exposición publicitaria, los algoritmos de recomendación, los datos de comportamiento de los clientes y la fidelización mediante membresías. En Corea, Naver restringe el acceso de agentes externos y amplía sus propias funciones de agente de IA para compras, y Coupang, líder del comercio electrónico en el país, también impide que una IA externa realice pagos en su app."
+                "x": "큰 입력란에 목표를 설명하면 되고, 원하지 않으면 \"Create campaign manually.\" 링크를 눌러 직접 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google의 Ads Liaison인 Ginny Marvin은 X에서 이것이 테스트임을 확인하며 \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\"라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "짐작하듯 Google은 곳곳에 AI를 밀어 넣고 있다."
               }
             ]
           }
@@ -667,15 +677,15 @@
       }
     },
     {
-      "id": "ias-youtube-ai-slop-filter",
+      "id": "marketing-olyzon-ctv-four-dsps",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "IAS가 YouTube\n광고 AI 슬롭 채널 회피",
-      "body": "매일 갱신되는 IAS 제외 목록이 저품질 생성형 AI 채널에서 광고를 뺀다.",
-      "mini_headline": "IAS, YouTube AI 슬롭 차단",
+      "headline": "Olyzon AI가 CTV\n예산을 DSPs 네 곳에",
+      "body": "Olyzon 에이전트가 DV360 등 DSP 네 곳을 오가며 CTV 예산을 옮긴다.",
+      "mini_headline": "Olyzon 에이전트, DSPs 네 곳 연결",
       "tool": "Marketing",
       "source": "PPC Land",
-      "url": "https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/",
+      "url": "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -683,149 +693,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+            "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+            "cap": "Olyzon 에이전트는 바이어가 정한 상한 안에서 DSPs 네 곳의 CTV 예산을 옮긴다. 발표에 수치는 없다"
           },
           {
             "t": "p",
-            "x": "Integral Ad Science는 2026년 9월 30일 Low-Quality GenAI Avoidance(저품질 generative-AI 회피) 제품을 YouTube로 넓혔다. 광고주는 대량 생산된 AI 영상에서 캠페인을 떼어 놓을 수 있다. 이 기능은 IAS의 YouTube Optimization과 Total Media Quality 제품으로 전 세계에서 쓸 수 있고, 계정 담당자를 거쳐 켠다. IAS는 더 많은 \"소셜·동영상 플랫폼\"으로 넓힐 계획이라면서도 어디인지는 밝히지 않았다."
+            "x": "파리 기업 Olyzon이 2026년 10월 7일 Advertising Week New York에서 에이전틱 오케스트레이션 플랫폼을 정식 상용 출시했다. 소프트웨어 에이전트가 The Trade Desk, Amazon DSP, DV360, Yahoo DSP를 넘나들며 집행 중인 캠페인 예산의 계획부터 활성화, 재배분까지 맡는다. 바이어는 지금 쓰는 시트와 도구, 직거래를 버리지 않아도 된다."
           },
           {
             "t": "p",
-            "x": "구성 요소는 세 가지다. AI 슬롭이 Custom Brand Suitability 프로필의 한 카테고리로 들어가고, Automated Avoidance가 \"매일 자동 갱신\"으로 입찰 전에 콘텐츠를 걸러내며, 입찰 후 TMQ 리포트에는 AVOC 비율이 담긴다. 분류는 \"YouTube Data API의 맥락 신호를 활용해 만들며, Google의 검토를 거치지 않는다.\""
+            "x": "예산 한도와 승인 규칙은 사람이 정하고 에이전트는 그 안에서 움직인다. Olyzon은 \"예산은 집행 중에 성과가 나는 쪽으로 이동하며, 바이어가 통제하는 상한과 승인 기준 안에서 전체 감사 로그와 함께 움직인다\"고 설명했다. 직접 게재 주문(insertion order)은 이메일 에이전트가 변경안 초안을 쓰고 발송은 바이어가 한다."
           },
           {
             "t": "p",
-            "x": "발표문에는 정확도, 지원 언어, 가격, 도달 범위에 미치는 영향이 없고 Shorts나 CTV 언급도 없다. Kapwing 조사에 따르면 새 계정에 처음 노출된 Shorts 500개 가운데 21%가 AI 슬롭이었고, 상위 슬롭 채널은 광고로 한 해 약 400만~425만 달러를 버는 것으로 추산됐다."
+            "x": "공동 창업자 겸 CEO Jules Minvielle은 \"파편화의 고통이 가장 큰 곳이 CTV라서 CTV부터 시작한다\"며 \"오케스트레이션은 에이전트가 하고, 결정은 사람이 내린다\"고 말했다. Method1에 따르면 이 에이전트는 이제 크로스 플랫폼 예산, 입찰, bundle ID 결정 같은 \"Level 1 optimizations\"를 처리한다."
+          },
+          {
+            "t": "p",
+            "x": "발표문에는 성과 수치도, 프로토콜도, 가격도, 브랜드 고객사도 없다. 파트너 목록마저 부제와 본문, 회사 소개문마다 다르다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "New IAS tool steers YouTube ads\naway from AI slop channels",
-          "body": "IAS exclusion lists, refreshed daily from YouTube Data API signals, keep ads off low-quality generative-AI channels.",
-          "mini_headline": "IAS filters YouTube AI slop",
+          "headline": "Olyzon's AI agents shift CTV\nbudgets across four DSPs",
+          "body": "Olyzon's agents move live CTV budgets across Trade Desk, Amazon DSP, DV360 and Yahoo DSP under caps and audit logs.",
+          "mini_headline": "Olyzon agents span four DSPs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+                "cap": "Olyzon agents move CTV budget across four DSPs inside buyer-set caps, yet release shows no figures"
               },
               {
                 "t": "p",
-                "x": "Integral Ad Science on September 30, 2026 extended its Low-Quality GenAI Avoidance product to YouTube, giving advertisers a way to keep campaigns away from mass-produced AI video. It is available globally through IAS's YouTube Optimization and Total Media Quality products, activated via an account representative. IAS says more \"Social and Video platforms\" will follow, without naming them."
+                "x": "Paris-based Olyzon on October 7, 2026 put its agentic orchestration platform into full commercial release at Advertising Week New York. Its software agents plan, activate and reallocate live campaign budgets across The Trade Desk, Amazon DSP, DV360 and Yahoo DSP without asking buyers to give up the seats, tools or direct deals they already hold."
               },
               {
                 "t": "p",
-                "x": "Three components: AI slop becomes a category in Custom Brand Suitability profiles; Automated Avoidance excludes content before the bid \"with automated daily refreshes\"; and post-bid TMQ reporting includes AVOC rates. Classifications are built \"using contextual signals from the YouTube Data API, and are not reviewed by Google.\""
+                "x": "A person sets the budget limits and approval rules; the agent works inside them. According to Olyzon, \"Budget moves in-flight toward what is working, inside caps and approval thresholds the buyer controls, with a full audit log.\" For direct insertion orders, an email agent drafts changes while the buyer keeps the send."
               },
               {
                 "t": "p",
-                "x": "The post gives no accuracy rate, languages, pricing or effect on reach, and does not mention Shorts or CTV. A Kapwing study found 21% of the first 500 Shorts shown to a new account were AI slop, with top slop channels earning an estimated $4 million to $4.25 million a year from ads."
+                "x": "\"We start with CTV because that is where the fragmentation hurts most,\" said co-founder and CEO Jules Minvielle. \"The agent does the orchestration. The human keeps the decision.\" Method1 says the agent now handles \"Level 1 optimizations\" such as cross-platform budgets, bids and bundle ID decisions."
+              },
+              {
+                "t": "p",
+                "x": "The release names no performance figures, protocols, pricing or brand clients, and its partner lists differ between the subheadline, body and boilerplate."
               }
             ]
           }
         },
         "ko": {
-          "headline": "IAS가 YouTube\n광고 AI 슬롭 채널 회피",
-          "body": "매일 갱신되는 IAS 제외 목록이 저품질 생성형 AI 채널에서 광고를 뺀다.",
-          "mini_headline": "IAS, YouTube AI 슬롭 차단",
+          "headline": "Olyzon AI가 CTV\n예산을 DSPs 네 곳에",
+          "body": "Olyzon 에이전트가 DV360 등 DSP 네 곳을 오가며 CTV 예산을 옮긴다.",
+          "mini_headline": "Olyzon 에이전트, DSPs 네 곳 연결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+                "cap": "Olyzon 에이전트는 바이어가 정한 상한 안에서 DSPs 네 곳의 CTV 예산을 옮긴다. 발표에 수치는 없다"
               },
               {
                 "t": "p",
-                "x": "Integral Ad Science는 2026년 9월 30일 Low-Quality GenAI Avoidance(저품질 generative-AI 회피) 제품을 YouTube로 넓혔다. 광고주는 대량 생산된 AI 영상에서 캠페인을 떼어 놓을 수 있다. 이 기능은 IAS의 YouTube Optimization과 Total Media Quality 제품으로 전 세계에서 쓸 수 있고, 계정 담당자를 거쳐 켠다. IAS는 더 많은 \"소셜·동영상 플랫폼\"으로 넓힐 계획이라면서도 어디인지는 밝히지 않았다."
+                "x": "파리 기업 Olyzon이 2026년 10월 7일 Advertising Week New York에서 에이전틱 오케스트레이션 플랫폼을 정식 상용 출시했다. 소프트웨어 에이전트가 The Trade Desk, Amazon DSP, DV360, Yahoo DSP를 넘나들며 집행 중인 캠페인 예산의 계획부터 활성화, 재배분까지 맡는다. 바이어는 지금 쓰는 시트와 도구, 직거래를 버리지 않아도 된다."
               },
               {
                 "t": "p",
-                "x": "구성 요소는 세 가지다. AI 슬롭이 Custom Brand Suitability 프로필의 한 카테고리로 들어가고, Automated Avoidance가 \"매일 자동 갱신\"으로 입찰 전에 콘텐츠를 걸러내며, 입찰 후 TMQ 리포트에는 AVOC 비율이 담긴다. 분류는 \"YouTube Data API의 맥락 신호를 활용해 만들며, Google의 검토를 거치지 않는다.\""
+                "x": "예산 한도와 승인 규칙은 사람이 정하고 에이전트는 그 안에서 움직인다. Olyzon은 \"예산은 집행 중에 성과가 나는 쪽으로 이동하며, 바이어가 통제하는 상한과 승인 기준 안에서 전체 감사 로그와 함께 움직인다\"고 설명했다. 직접 게재 주문(insertion order)은 이메일 에이전트가 변경안 초안을 쓰고 발송은 바이어가 한다."
               },
               {
                 "t": "p",
-                "x": "발표문에는 정확도, 지원 언어, 가격, 도달 범위에 미치는 영향이 없고 Shorts나 CTV 언급도 없다. Kapwing 조사에 따르면 새 계정에 처음 노출된 Shorts 500개 가운데 21%가 AI 슬롭이었고, 상위 슬롭 채널은 광고로 한 해 약 400만~425만 달러를 버는 것으로 추산됐다."
+                "x": "공동 창업자 겸 CEO Jules Minvielle은 \"파편화의 고통이 가장 큰 곳이 CTV라서 CTV부터 시작한다\"며 \"오케스트레이션은 에이전트가 하고, 결정은 사람이 내린다\"고 말했다. Method1에 따르면 이 에이전트는 이제 크로스 플랫폼 예산, 입찰, bundle ID 결정 같은 \"Level 1 optimizations\"를 처리한다."
+              },
+              {
+                "t": "p",
+                "x": "발표문에는 성과 수치도, 프로토콜도, 가격도, 브랜드 고객사도 없다. 파트너 목록마저 부제와 본문, 회사 소개문마다 다르다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IASがYouTube広告で\nAIスロップ回避の新ツール",
-          "body": "毎日更新されるIASの除外リストが、低品質な生成AIチャンネルから広告を外す。",
-          "mini_headline": "IAS、YouTubeのAIスロップを排除",
+          "headline": "OlyzonのAIが\nCTV予算を四つのDSPsへ",
+          "body": "Olyzonのエージェントは上限内でDV360など四つのDSPのCTV予算を動かす。",
+          "mini_headline": "Olyzonのエージェント、四つのDSPsを横断",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+                "cap": "Olyzonのエージェントはバイヤーが設定した上限内で四つのDSPsにまたがりCTV予算を動かすが、発表に数値はない"
               },
               {
                 "t": "p",
-                "x": "Integral Ad Scienceは2026年9月30日、Low-Quality GenAI Avoidance（低品質なgenerative-AIの回避）製品をYouTubeに拡大し、広告主が大量生産されたAI動画からキャンペーンを遠ざけられるようにした。IASのYouTube OptimizationとTotal Media Quality製品を通じて全世界で利用でき、アカウント担当者を通じて有効化する。IASは今後さらに「ソーシャルおよび動画プラットフォーム」に広げるとしているが、具体名は挙げていない。"
+                "x": "パリを拠点とするOlyzonは2026年10月7日、Advertising Week New Yorkでエージェント型オーケストレーション・プラットフォームを本格的に商用リリースした。ソフトウェアエージェントがThe Trade Desk、Amazon DSP、DV360、Yahoo DSPにまたがって配信中のキャンペーン予算を計画、実行、再配分する。バイヤーはすでに持つシート、ツール、直接取引を手放す必要がない。"
               },
               {
                 "t": "p",
-                "x": "構成要素は三つある。AIスロップがCustom Brand Suitabilityプロファイルのカテゴリーの一つになること、Automated Avoidanceが入札前に「毎日の自動更新」でコンテンツを除外すること、そして入札後のTMQレポートにAVOC率が含まれることだ。分類は「YouTube Data APIの文脈シグナルを用いて作成され、Googleによるレビューは受けていない」という。"
+                "x": "予算の上限と承認ルールは人が決め、エージェントはその範囲内で動く。Olyzonによれば「予算は配信中に成果の出ているところへ移り、バイヤーが管理する上限と承認しきい値の範囲内で、完全な監査ログとともに動く」。直接のインサーションオーダーについては、メールエージェントが変更案を下書きし、送信はバイヤーが担う。"
               },
               {
                 "t": "p",
-                "x": "発表は精度、対応言語、価格、リーチへの影響を示しておらず、ShortsやCTVにも触れていない。Kapwingの調査では、新規アカウントに最初に表示されたShorts 500本のうち21%がAIスロップで、上位のスロップチャンネルは広告で年間推定400万〜425万ドルを稼いでいた。"
+                "x": "共同創業者兼CEOのJules Minvielleは「断片化の痛みが最も大きいのがCTVなので、CTVから始める」と語り、「オーケストレーションはエージェントが担い、判断は人間が持ち続ける」と述べた。Method1によると、エージェントは現在、プラットフォーム横断の予算、入札、bundle IDの判断といった「Level 1 optimizations」を担っている。"
+              },
+              {
+                "t": "p",
+                "x": "リリースには成果の数値、プロトコル、価格、ブランド顧客の名前がなく、パートナーのリストもサブ見出し、本文、会社概要の間で食い違っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IAS新工具助YouTube\n广告避开AI垃圾频道",
-          "body": "IAS排除清单每日更新，让YouTube广告远离低质量生成式AI频道。",
-          "mini_headline": "IAS过滤YouTube AI垃圾内容",
+          "headline": "Olyzon AI代理\n跨四个DSPs调度CTV预算",
+          "body": "Olyzon代理在上限和审计日志约束下，于DV360等四个DSP间调动CTV预算。",
+          "mini_headline": "Olyzon代理横跨四个DSPs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+                "cap": "Olyzon代理在买方设定的上限内跨四个DSPs调动CTV预算，但新闻稿未给出任何数据"
               },
               {
                 "t": "p",
-                "x": "Integral Ad Science于2026年9月30日将其Low-Quality GenAI Avoidance（低质量generative-AI规避）产品扩展至YouTube，帮助广告主让广告活动远离批量生产的AI视频。该功能通过IAS的YouTube Optimization和Total Media Quality产品在全球提供，需经客户代表开通。IAS表示后续还将扩展到更多“社交和视频平台”，但未点名。"
+                "x": "总部位于巴黎的Olyzon于2026年10月7日在Advertising Week New York上全面商用发布其智能体编排平台。其软件代理可在The Trade Desk、Amazon DSP、DV360和Yahoo DSP之间规划、启动并重新分配正在投放的广告活动预算，买方无需放弃已有的席位、工具或直接交易。"
               },
               {
                 "t": "p",
-                "x": "它包含三个部分：AI垃圾内容成为Custom Brand Suitability配置中的一个类别；Automated Avoidance在竞价前排除内容，并“每日自动更新”；竞价后的TMQ报告包含AVOC比率。分类“基于YouTube Data API的上下文信号构建，未经Google审核”。"
+                "x": "预算上限和审批规则由人设定，代理在此范围内运作。Olyzon表示：“预算会在投放过程中流向效果好的地方，始终处于买方控制的上限和审批阈值之内，并留有完整的审计日志。”对于直接insertion order，由邮件代理起草修改，发送权仍在买方手中。"
               },
               {
                 "t": "p",
-                "x": "公告未给出准确率、支持语言、价格或对覆盖面的影响，也未提及Shorts或CTV。Kapwing的一项研究发现，向新账户展示的前500条Shorts中有21%是AI垃圾内容，头部垃圾频道每年从广告中估计赚取400万至425万美元。"
+                "x": "联合创始人兼CEO Jules Minvielle表示：“我们从CTV做起，因为那里的碎片化最严重。”他还说：“代理负责编排，决定权留在人手中。”Method1称，该代理目前负责跨平台预算、出价和bundle ID决策等“Level 1 optimizations”。"
+              },
+              {
+                "t": "p",
+                "x": "新闻稿没有给出任何效果数据、协议、价格或品牌客户，而且副标题、正文和公司简介中的合作伙伴名单彼此不一致。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nueva herramienta de IAS aleja\nanuncios de YouTube del AI slop",
-          "body": "Listas de exclusión de IAS, actualizadas a diario, alejan los anuncios de canales de IA generativa de baja calidad.",
-          "mini_headline": "IAS filtra el AI slop en YouTube",
+          "headline": "Los agentes AI de Olyzon mueven\npresupuestos CTV en cuatro DSPs",
+          "body": "Los agentes de Olyzon mueven presupuestos CTV en Trade Desk, Amazon DSP, DV360 y Yahoo DSP con topes y auditoría.",
+          "mini_headline": "Los agentes de Olyzon abarcan cuatro DSPs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+                "cap": "Los agentes de Olyzon mueven presupuesto CTV entre cuatro DSPs dentro de los topes fijados por el comprador, aunque el anuncio no muestra cifras"
               },
               {
                 "t": "p",
-                "x": "Integral Ad Science amplió el 30 de septiembre de 2026 su producto Low-Quality GenAI Avoidance (evitación de contenido generative-AI de baja calidad) a YouTube, lo que permite a los anunciantes alejar sus campañas del vídeo de IA producido en masa. Está disponible en todo el mundo a través de los productos YouTube Optimization y Total Media Quality de IAS, y se activa mediante un representante de cuenta. IAS afirma que llegarán más «plataformas sociales y de vídeo», sin nombrarlas."
+                "x": "Olyzon, con sede en París, lanzó plenamente al mercado su plataforma de orquestación agéntica el 7 de octubre de 2026 en Advertising Week New York. Sus agentes de software planifican, activan y reasignan presupuestos de campañas en curso en The Trade Desk, Amazon DSP, DV360 y Yahoo DSP sin pedir a los compradores que renuncien a los asientos, herramientas o acuerdos directos que ya tienen."
               },
               {
                 "t": "p",
-                "x": "Tiene tres componentes: el AI slop pasa a ser una categoría en los perfiles de Custom Brand Suitability; Automated Avoidance excluye contenido antes de la puja «con actualizaciones automáticas diarias»; y los informes TMQ posteriores a la puja incluyen tasas de AVOC. Las clasificaciones se elaboran «con señales contextuales de la YouTube Data API y no son revisadas por Google»."
+                "x": "Una persona fija los límites de presupuesto y las reglas de aprobación; el agente trabaja dentro de ellos. Según Olyzon, \"el presupuesto se desplaza durante la campaña hacia lo que funciona, dentro de los topes y umbrales de aprobación que controla el comprador, con un registro de auditoría completo\". En las órdenes de inserción directas, un agente de correo redacta los cambios mientras el comprador conserva el envío."
               },
               {
                 "t": "p",
-                "x": "La publicación no ofrece tasa de precisión, idiomas, precios ni efecto en el alcance, y no menciona Shorts ni CTV. Un estudio de Kapwing halló que el 21 % de los primeros 500 Shorts mostrados a una cuenta nueva eran AI slop, y que los principales canales de slop ganaban un estimado de entre 4 millones y 4,25 millones de dólares al año con anuncios."
+                "x": "\"Empezamos por CTV porque es donde más duele la fragmentación\", dijo el cofundador y CEO Jules Minvielle. \"El agente hace la orquestación. El humano conserva la decisión\". Method1 afirma que el agente ya gestiona \"Level 1 optimizations\", como presupuestos multiplataforma, pujas y decisiones de bundle ID."
+              },
+              {
+                "t": "p",
+                "x": "El anuncio no menciona cifras de rendimiento, protocolos, precios ni clientes de marca, y sus listas de socios difieren entre el subtítulo, el cuerpo y el texto institucional."
               }
             ]
           }
@@ -833,105 +873,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "IAS가 YouTube\n광고 AI 슬롭 채널 회피",
-          "body": "매일 갱신되는 IAS 제외 목록이 저품질 생성형 AI 채널에서 광고를 뺀다.",
-          "mini_headline": "IAS, YouTube AI 슬롭 차단",
+          "headline": "Olyzon AI가 CTV\n예산 DSPs 네 곳 배분",
+          "body": "Olyzon 에이전트가 DV360 등 DSP 네 곳에서 CTV 예산을 옮긴다.",
+          "mini_headline": "Olyzon 에이전트, DSPs 네 곳 연결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+                "cap": "Olyzon 에이전트는 바이어가 정한 상한 안에서 DSPs 네 곳에 걸쳐 CTV 예산을 옮기지만, 발표에는 수치가 없다"
               },
               {
                 "t": "p",
-                "x": "Integral Ad Science는 2026년 9월 30일 Low-Quality GenAI Avoidance(저품질 generative-AI 회피) 제품을 YouTube로 확대해, 광고주가 대량 생산된 AI 영상에서 캠페인을 떼어 놓을 수 있게 했다. 이 기능은 IAS의 YouTube Optimization과 Total Media Quality 제품을 통해 전 세계에서 쓸 수 있고, 계정 담당자를 거쳐 활성화한다. IAS는 더 많은 \"소셜·동영상 플랫폼\"으로 넓힐 예정이라면서도 어디인지는 밝히지 않았다."
+                "x": "파리에 본사를 둔 Olyzon은 2026년 10월 7일 Advertising Week New York에서 에이전틱 오케스트레이션 플랫폼을 정식 상용 출시했다. 소프트웨어 에이전트가 The Trade Desk, Amazon DSP, DV360, Yahoo DSP에 걸쳐 집행 중인 캠페인 예산을 계획하고 활성화하며 재배분한다. 바이어는 이미 보유한 시트와 도구, 직거래를 포기할 필요가 없다."
               },
               {
                 "t": "p",
-                "x": "구성 요소는 세 가지다. AI 슬롭이 Custom Brand Suitability 프로필의 한 카테고리가 되고, Automated Avoidance가 \"매일 자동 갱신\"으로 입찰 전에 콘텐츠를 제외하며, 입찰 후 TMQ 리포트에 AVOC 비율이 들어간다. 분류는 \"YouTube Data API의 맥락 신호를 활용해 만들며, Google의 검토를 거치지 않는다.\""
+                "x": "예산 한도와 승인 규칙은 사람이 정하고, 에이전트는 그 안에서 움직인다. Olyzon은 \"예산은 집행 중에 성과가 나는 쪽으로 이동하며, 바이어가 통제하는 상한과 승인 기준 안에서 전체 감사 로그와 함께 움직인다\"고 설명했다. 직접 게재 주문(insertion order)은 이메일 에이전트가 변경안 초안을 쓰고, 발송은 바이어가 맡는다."
               },
               {
                 "t": "p",
-                "x": "발표문은 정확도, 지원 언어, 가격, 도달 범위에 미치는 영향을 밝히지 않았고, Shorts나 CTV도 언급하지 않았다. Kapwing 조사에서는 새 계정에 처음 노출된 Shorts 500개 중 21%가 AI 슬롭이었고, 상위 슬롭 채널은 광고로 한 해 약 400만~425만 달러를 버는 것으로 추산됐다."
+                "x": "공동 창업자 겸 CEO Jules Minvielle은 \"파편화의 고통이 가장 큰 곳이 CTV라서 CTV부터 시작한다\"며 \"오케스트레이션은 에이전트가 하고, 결정은 사람이 내린다\"고 말했다. Method1은 이 에이전트가 이제 크로스 플랫폼 예산, 입찰, bundle ID 결정 같은 \"Level 1 optimizations\"를 처리한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "발표문에는 성과 수치, 프로토콜, 가격, 브랜드 고객사가 전혀 나오지 않으며, 파트너 목록도 부제와 본문, 회사 소개문마다 다르다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IASがYouTube広告で\nAIスロップ回避の新ツール",
-          "body": "毎日更新されるIASの除外リストが、低品質な生成AIチャンネルから広告を外す。",
-          "mini_headline": "IAS、YouTubeのAIスロップを排除",
+          "headline": "OlyzonのAIが\nCTV予算を四つのDSPsへ",
+          "body": "Olyzonのエージェントは上限内でDV360など四つのDSPのCTV予算を動かす。",
+          "mini_headline": "Olyzonのエージェント、四つのDSPsを横断",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+                "cap": "Olyzonのエージェントはバイヤーが設定した上限内で四つのDSPsにまたがりCTV予算を動かすが、発表に数値はない"
               },
               {
                 "t": "p",
-                "x": "Integral Ad Scienceは2026年9月30日、Low-Quality GenAI Avoidance（低品質なgenerative-AIの回避）製品をYouTubeに拡大し、広告主が大量生産されたAI動画からキャンペーンを遠ざけられるようにした。IASのYouTube OptimizationとTotal Media Quality製品を通じて全世界で利用でき、アカウント担当者を通じて有効化する。IASは今後さらに「ソーシャルおよび動画プラットフォーム」に広げるとしているが、具体名は挙げていない。"
+                "x": "パリを拠点とするOlyzonは2026年10月7日、Advertising Week New Yorkでエージェント型オーケストレーション・プラットフォームを本格的に商用リリースした。ソフトウェアエージェントがThe Trade Desk、Amazon DSP、DV360、Yahoo DSPにまたがって配信中のキャンペーン予算を計画、実行、再配分する。バイヤーはすでに持つシート、ツール、直接取引を手放す必要がない。"
               },
               {
                 "t": "p",
-                "x": "構成要素は三つある。AIスロップがCustom Brand Suitabilityプロファイルのカテゴリーの一つになること、Automated Avoidanceが入札前に「毎日の自動更新」でコンテンツを除外すること、そして入札後のTMQレポートにAVOC率が含まれることだ。分類は「YouTube Data APIの文脈シグナルを用いて作成され、Googleによるレビューは受けていない」という。"
+                "x": "予算の上限と承認ルールは人が決め、エージェントはその範囲内で動く。Olyzonによれば「予算は配信中に成果の出ているところへ移り、バイヤーが管理する上限と承認しきい値の範囲内で、完全な監査ログとともに動く」。直接のインサーションオーダーについては、メールエージェントが変更案を下書きし、送信はバイヤーが担う。"
               },
               {
                 "t": "p",
-                "x": "発表は精度、対応言語、価格、リーチへの影響を示しておらず、ShortsやCTVにも触れていない。Kapwingの調査では、新規アカウントに最初に表示されたShorts 500本のうち21%がAIスロップで、上位のスロップチャンネルは広告で年間推定400万〜425万ドルを稼いでいた。"
+                "x": "共同創業者兼CEOのJules Minvielleは「断片化の痛みが最も大きいのがCTVなので、CTVから始める」と語り、「オーケストレーションはエージェントが担い、判断は人間が持ち続ける」と述べた。Method1によると、エージェントは現在、プラットフォーム横断の予算、入札、bundle IDの判断といった「Level 1 optimizations」を担っている。"
+              },
+              {
+                "t": "p",
+                "x": "リリースには成果の数値、プロトコル、価格、ブランド顧客の名前がなく、パートナーのリストもサブ見出し、本文、会社概要の間で食い違っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IAS新工具助YouTube\n广告避开AI垃圾频道",
-          "body": "IAS排除清单每日更新，让YouTube广告远离低质量生成式AI频道。",
-          "mini_headline": "IAS过滤YouTube AI垃圾内容",
+          "headline": "Olyzon AI代理\n跨四个DSPs调度CTV预算",
+          "body": "Olyzon代理在上限和审计日志约束下，于DV360等四个DSP间调动CTV预算。",
+          "mini_headline": "Olyzon代理横跨四个DSPs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+                "cap": "Olyzon代理在买方设定的上限内跨四个DSPs调动CTV预算，但新闻稿未给出任何数据"
               },
               {
                 "t": "p",
-                "x": "Integral Ad Science于2026年9月30日将其Low-Quality GenAI Avoidance（低质量generative-AI规避）产品扩展至YouTube，帮助广告主让广告活动远离批量生产的AI视频。该功能通过IAS的YouTube Optimization和Total Media Quality产品在全球提供，需经客户代表开通。IAS表示后续还将扩展到更多“社交和视频平台”，但未点名。"
+                "x": "总部位于巴黎的Olyzon于2026年10月7日在Advertising Week New York上全面商用发布其智能体编排平台。其软件代理可在The Trade Desk、Amazon DSP、DV360和Yahoo DSP之间规划、启动并重新分配正在投放的广告活动预算，买方无需放弃已有的席位、工具或直接交易。"
               },
               {
                 "t": "p",
-                "x": "它包含三个部分：AI垃圾内容成为Custom Brand Suitability配置中的一个类别；Automated Avoidance在竞价前排除内容，并“每日自动更新”；竞价后的TMQ报告包含AVOC比率。分类“基于YouTube Data API的上下文信号构建，未经Google审核”。"
+                "x": "预算上限和审批规则由人设定，代理在此范围内运作。Olyzon表示：“预算会在投放过程中流向效果好的地方，始终处于买方控制的上限和审批阈值之内，并留有完整的审计日志。”对于直接insertion order，由邮件代理起草修改，发送权仍在买方手中。"
               },
               {
                 "t": "p",
-                "x": "公告未给出准确率、支持语言、价格或对覆盖面的影响，也未提及Shorts或CTV。Kapwing的一项研究发现，向新账户展示的前500条Shorts中有21%是AI垃圾内容，头部垃圾频道每年从广告中估计赚取400万至425万美元。"
+                "x": "联合创始人兼CEO Jules Minvielle表示：“我们从CTV做起，因为那里的碎片化最严重。”他还说：“代理负责编排，决定权留在人手中。”Method1称，该代理目前负责跨平台预算、出价和bundle ID决策等“Level 1 optimizations”。"
+              },
+              {
+                "t": "p",
+                "x": "新闻稿没有给出任何效果数据、协议、价格或品牌客户，而且副标题、正文和公司简介中的合作伙伴名单彼此不一致。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nueva herramienta de IAS aleja\nanuncios de YouTube del AI slop",
-          "body": "Listas de exclusión de IAS, actualizadas a diario, alejan los anuncios de canales de IA generativa de baja calidad.",
-          "mini_headline": "IAS filtra el AI slop en YouTube",
+          "headline": "Los agentes AI de Olyzon mueven\npresupuestos CTV en cuatro DSPs",
+          "body": "Los agentes de Olyzon mueven presupuestos CTV en Trade Desk, Amazon DSP, DV360 y Yahoo DSP con topes y auditoría.",
+          "mini_headline": "Los agentes de Olyzon abarcan cuatro DSPs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+                "cap": "Los agentes de Olyzon mueven presupuesto CTV entre cuatro DSPs dentro de los topes fijados por el comprador, aunque el anuncio no muestra cifras"
               },
               {
                 "t": "p",
-                "x": "Integral Ad Science amplió el 30 de septiembre de 2026 su producto Low-Quality GenAI Avoidance (evitación de contenido generative-AI de baja calidad) a YouTube, lo que permite a los anunciantes alejar sus campañas del vídeo de IA producido en masa. Está disponible en todo el mundo a través de los productos YouTube Optimization y Total Media Quality de IAS, y se activa mediante un representante de cuenta. IAS afirma que llegarán más «plataformas sociales y de vídeo», sin nombrarlas."
+                "x": "Olyzon, con sede en París, lanzó plenamente al mercado su plataforma de orquestación agéntica el 7 de octubre de 2026 en Advertising Week New York. Sus agentes de software planifican, activan y reasignan presupuestos de campañas en curso en The Trade Desk, Amazon DSP, DV360 y Yahoo DSP sin pedir a los compradores que renuncien a los asientos, herramientas o acuerdos directos que ya tienen."
               },
               {
                 "t": "p",
-                "x": "Tiene tres componentes: el AI slop pasa a ser una categoría en los perfiles de Custom Brand Suitability; Automated Avoidance excluye contenido antes de la puja «con actualizaciones automáticas diarias»; y los informes TMQ posteriores a la puja incluyen tasas de AVOC. Las clasificaciones se elaboran «con señales contextuales de la YouTube Data API y no son revisadas por Google»."
+                "x": "Una persona fija los límites de presupuesto y las reglas de aprobación; el agente trabaja dentro de ellos. Según Olyzon, \"el presupuesto se desplaza durante la campaña hacia lo que funciona, dentro de los topes y umbrales de aprobación que controla el comprador, con un registro de auditoría completo\". En las órdenes de inserción directas, un agente de correo redacta los cambios mientras el comprador conserva el envío."
               },
               {
                 "t": "p",
-                "x": "La publicación no ofrece tasa de precisión, idiomas, precios ni efecto en el alcance, y no menciona Shorts ni CTV. Un estudio de Kapwing halló que el 21 % de los primeros 500 Shorts mostrados a una cuenta nueva eran AI slop, y que los principales canales de slop ganaban un estimado de entre 4 millones y 4,25 millones de dólares al año con anuncios."
+                "x": "\"Empezamos por CTV porque es donde más duele la fragmentación\", dijo el cofundador y CEO Jules Minvielle. \"El agente hace la orquestación. El humano conserva la decisión\". Method1 afirma que el agente ya gestiona \"Level 1 optimizations\", como presupuestos multiplataforma, pujas y decisiones de bundle ID."
+              },
+              {
+                "t": "p",
+                "x": "El anuncio no menciona cifras de rendimiento, protocolos, precios ni clientes de marca, y sus listas de socios difieren entre el subtítulo, el cuerpo y el texto institucional."
               }
             ]
           }
@@ -939,281 +999,311 @@
       }
     },
     {
-      "id": "naver-ai-briefing-ad-results",
-      "source_lang": "ko",
+      "id": "marketing-thg-criteo-ai-assistant",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "네이버 AI 브리핑 광고\n클릭률 30% 넘게 높아",
-      "body": "네이버 AI 브리핑 광고는 기존 검색광고보다 구매 전환율이 3배를 웃돌았다.",
-      "mini_headline": "네이버 AI 광고 성과",
+      "headline": "THG, AI 쇼핑 비서에\nCriteo 광고 도입",
+      "body": "THG가 Gemini-built AI 비서에 유럽 첫 Criteo 광고를 붙였다.",
+      "mini_headline": "THG AI 비서에 Criteo 광고",
       "tool": "Marketing",
-      "source": "매일일보",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2003965",
+      "source": "Retail Technology Innovation Hub",
+      "url": "https://retailtechinnovationhub.com/home/2026/10/11/first-for-thg-commerce-as-it-brings-criteo-sponsored-products-to-ai-shopping-assistant-solution",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "THG Ingenuity 계열사 THG Commerce가 Google Cloud의 Gemini Enterprise로 만든 AI Shopping Assistant에 Criteo Sponsored Products를 통합했다. THG Commerce는 자사가 Criteo Sponsored Products를 AI 대화형 검색에 들여온 유럽 첫 커머스 기술 기업이라고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "이제 한 대화 안에 스폰서 상품 추천과 일반 상품 추천이 나란히 뜬다. 초기 결과를 보면 비서에 노출된 스폰서 상품은 클릭률이 평균의 다섯 배, 전환율이 평균의 두 배를 넘었다."
+          },
+          {
+            "t": "p",
+            "x": "비서는 대화마다 키워드와 필터를 뽑아 맞춤형 상품 추천으로 바꾼다. 키워드 매칭, 의미 이해, 엄격한 관련성 기준을 포함한 Criteo의 관련성 모델이 대화 맥락에도 그대로 적용된다. 그래서 스폰서 추천은 쇼핑객의 요청에 맞을 때만, 분명한 표시를 달고 나타난다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-            "cap": "카카오가 오는 13일부터 14일까지 경기 용인시 카카오 AI 캠퍼스에서 개최하는 ‘if(kakao)26’ 안내 이미지. 사진=카카오"
+            "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
           },
           {
             "t": "p",
-            "x": "네이버와 카카오가 기존 서비스에 인공지능(AI)를 결합해 이용자의 의도를 광고·커머스·결제로 연결하고 있다. 네이버 ‘AI 브리핑’은 지난 7월 기준 월간 이용자 3000만명을 넘어섰고, 카카오는 연말까지 카카오톡 기반 에이전틱 AI의 MAU 1000만명을 확보할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "네이버는 AI 검색에서 먼저 매출 성과를 확인했다. 지난 7월 말 출시한 AI 브리핑 광고는 기존 검색광고보다 클릭률이 30% 이상 높았다. 구매 전환율은 3배를 웃돌았다. 올해 2분기 광고 매출 증가분에서 AI가 기여한 비중도 60% 이상이었다. 네이버는 AI 브리핑과 AI탭에서 파악한 검색 의도를 쇼핑·플레이스·예약으로 확장한 뒤 네이버페이 결제까지 연결할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "카카오는 13~14일 ‘if(kakao)26’에서 ‘AI 레이어’와 카나나 모델 전략을 공개한다. 대화에서 파악한 의도를 상품 탐색, 추천, 예약, 주문, 결제로 연결하고, 개방형 플랫폼 ‘플레이MCP’(도구 3400개 이상, 하루 호출 10만회 이상)로 실행 범위를 넓힌다. 2028년에는 톡비즈 매출에서 AI 비중을 두 자릿수로 높일 방침이다."
+            "x": "THG Ingenuity의 Chief Revenue Officer인 Darren Rajanah는 “고객은 대화로 쇼핑 여정을 시작한다... 이는 리테일러가 가질 수 있는 가장 구매 의도가 높은 트래픽 가운데 하나이며, 지금까지는 대부분 리테일 미디어 밖에 있었다”고 말했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "네이버 AI 브리핑 광고\n클릭률 30% 넘게 높아",
-          "body": "네이버 AI 브리핑 광고는 기존 검색광고보다 구매 전환율이 3배를 웃돌았다.",
-          "mini_headline": "네이버 AI 광고 성과",
+        "en": {
+          "headline": "THG brings Criteo ads into\nits AI shopping assistant",
+          "body": "THG Commerce has added Criteo Sponsored Products to its Gemini-built AI Shopping Assistant, claiming a European first.",
+          "mini_headline": "Criteo ads in THG's AI assistant",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "THG Commerce, part of THG Ingenuity, has integrated Criteo Sponsored Products into its AI Shopping Assistant, built using Google Cloud’s Gemini Enterprise. THG Commerce says it is the first commerce technology provider in Europe to bring Criteo Sponsored Products into AI powered conversational search."
+              },
+              {
+                "t": "p",
+                "x": "The integration places sponsored and organic product recommendations side by side within the same conversation. Early results show sponsored products surfaced through the assistant reached a click-through rate more than five times the average, and a conversion rate more than double the average."
+              },
+              {
+                "t": "p",
+                "x": "The assistant draws keywords and filters from each conversation and turns them into tailored product recommendations. Criteo’s relevance models, including keyword matching, semantic understanding and strict relevance thresholds, apply in the conversational context, so sponsored recommendations appear clearly labelled and only when they match what the shopper asked for."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-                "cap": "카카오가 오는 13일부터 14일까지 경기 용인시 카카오 AI 캠퍼스에서 개최하는 ‘if(kakao)26’ 안내 이미지. 사진=카카오"
+                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
               },
               {
                 "t": "p",
-                "x": "네이버와 카카오가 기존 서비스에 인공지능(AI)를 결합해 이용자의 의도를 광고·커머스·결제로 연결하고 있다. 네이버 ‘AI 브리핑’은 지난 7월 기준 월간 이용자 3000만명을 넘어섰고, 카카오는 연말까지 카카오톡 기반 에이전틱 AI의 MAU 1000만명을 확보할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "네이버는 AI 검색에서 먼저 매출 성과를 확인했다. 지난 7월 말 출시한 AI 브리핑 광고는 기존 검색광고보다 클릭률이 30% 이상 높았다. 구매 전환율은 3배를 웃돌았다. 올해 2분기 광고 매출 증가분에서 AI가 기여한 비중도 60% 이상이었다. 네이버는 AI 브리핑과 AI탭에서 파악한 검색 의도를 쇼핑·플레이스·예약으로 확장한 뒤 네이버페이 결제까지 연결할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "카카오는 13~14일 ‘if(kakao)26’에서 ‘AI 레이어’와 카나나 모델 전략을 공개한다. 대화에서 파악한 의도를 상품 탐색, 추천, 예약, 주문, 결제로 연결하고, 개방형 플랫폼 ‘플레이MCP’(도구 3400개 이상, 하루 호출 10만회 이상)로 실행 범위를 넓힌다. 2028년에는 톡비즈 매출에서 AI 비중을 두 자릿수로 높일 방침이다."
+                "x": "“Customers start their shopping journey with a conversation... That is some of the highest-intent traffic a retailer can have, and until now it has largely sat outside retail media,” said Darren Rajanah, Chief Revenue Officer, THG Ingenuity."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Naver AI Briefing ads post\nclick rates over 30% higher",
-          "body": "Naver's AI Briefing ads delivered purchase conversion rates more than three times those of its standard search ads.",
-          "mini_headline": "Naver AI ad results",
+        "ko": {
+          "headline": "THG, AI 쇼핑 비서에\nCriteo 광고 도입",
+          "body": "THG가 Gemini-built AI 비서에 유럽 첫 Criteo 광고를 붙였다.",
+          "mini_headline": "THG AI 비서에 Criteo 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "THG Ingenuity 계열사 THG Commerce가 Google Cloud의 Gemini Enterprise로 만든 AI Shopping Assistant에 Criteo Sponsored Products를 통합했다. THG Commerce는 자사가 Criteo Sponsored Products를 AI 대화형 검색에 들여온 유럽 첫 커머스 기술 기업이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "이제 한 대화 안에 스폰서 상품 추천과 일반 상품 추천이 나란히 뜬다. 초기 결과를 보면 비서에 노출된 스폰서 상품은 클릭률이 평균의 다섯 배, 전환율이 평균의 두 배를 넘었다."
+              },
+              {
+                "t": "p",
+                "x": "비서는 대화마다 키워드와 필터를 뽑아 맞춤형 상품 추천으로 바꾼다. 키워드 매칭, 의미 이해, 엄격한 관련성 기준을 포함한 Criteo의 관련성 모델이 대화 맥락에도 그대로 적용된다. 그래서 스폰서 추천은 쇼핑객의 요청에 맞을 때만, 분명한 표시를 달고 나타난다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-                "cap": "Promotional image for ‘if(kakao)26’, which Kakao will hold at the Kakao AI Campus in Yongin, Gyeonggi Province, from the 13th to the 14th. Photo: Kakao"
+                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
               },
               {
                 "t": "p",
-                "x": "Naver and Kakao are combining artificial intelligence (AI) with their existing services to connect users' intentions to advertising, commerce and payments. Naver's ‘AI Briefing’ passed 30 million monthly users as of July, and Kakao plans to secure 10 million MAU for its KakaoTalk-based agentic AI by the end of the year."
-              },
-              {
-                "t": "p",
-                "x": "Naver has seen revenue results from AI search first. AI Briefing ads, launched in late July, had click-through rates more than 30% higher than standard search ads. Purchase conversion rates were more than three times higher. AI also accounted for more than 60% of the growth in ad revenue in the second quarter of this year. Naver plans to extend the search intent identified in AI Briefing and the AI tab into shopping, places and reservations, and then connect it all the way to Naver Pay payments."
-              },
-              {
-                "t": "p",
-                "x": "At ‘if(kakao)26’ on the 13th and 14th, Kakao will unveil its ‘AI layer’ and its Kanana model strategy. It will connect intent identified in conversations to product discovery, recommendations, reservations, orders and payments, and widen the scope of execution through its open platform ‘PlayMCP’ (more than 3,400 tools and more than 100,000 calls a day). By 2028, Kakao aims to raise AI's share of Talk Biz revenue to double digits."
+                "x": "THG Ingenuity의 Chief Revenue Officer인 Darren Rajanah는 “고객은 대화로 쇼핑 여정을 시작한다... 이는 리테일러가 가질 수 있는 가장 구매 의도가 높은 트래픽 가운데 하나이며, 지금까지는 대부분 리테일 미디어 밖에 있었다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ネイバーのAI広告\nクリック率が30%超高い",
-          "body": "NaverのAIブリーフィング広告は、購入転換率が従来の検索広告の3倍を上回った。",
-          "mini_headline": "ネイバーAI広告の成果",
+          "headline": "THG、AI買い物支援に\nCriteo広告を統合",
+          "body": "THGはGemini-builtのAI買い物支援にCriteo広告を欧州で初めて導入した。",
+          "mini_headline": "THGのAIアシスタントにCriteo広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "THG Ingenuity傘下のTHG Commerceは、Google CloudのGemini Enterpriseで構築したAI Shopping AssistantにCriteo Sponsored Productsを統合した。THG Commerceは、Criteo Sponsored ProductsをAIによる対話型検索に導入した欧州初のコマーステクノロジー企業だとしている。"
+              },
+              {
+                "t": "p",
+                "x": "この統合により、同じ会話の中でスポンサー商品とオーガニックの商品レコメンドが並んで表示される。初期結果では、アシスタント経由で表示されたスポンサー商品のクリック率は平均の五倍を超え、コンバージョン率は平均の二倍を超えた。"
+              },
+              {
+                "t": "p",
+                "x": "アシスタントは会話ごとにキーワードとフィルターを抽出し、個々に合わせた商品レコメンドに変える。キーワードマッチング、意味理解、厳格な関連性しきい値を含むCriteoの関連性モデルが対話の文脈でも機能するため、スポンサー商品のレコメンドは明確にラベル付けされ、買い物客の求めに合う場合にのみ表示される。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-                "cap": "Kakaoが13日から14日まで京畿道竜仁市のKakao AIキャンパスで開催する「if(kakao)26」の案内画像。写真=Kakao"
+                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
               },
               {
                 "t": "p",
-                "x": "NaverとKakaoが既存サービスに人工知能（AI）を組み合わせ、利用者の意図を広告・コマース・決済につなげている。Naverの「AIブリーフィング」は7月時点で月間利用者3000万人を超え、Kakaoは年末までにKakaoTalkベースのエージェント型AIでMAU 1000万人の確保を目指す。"
-              },
-              {
-                "t": "p",
-                "x": "NaverはまずAI検索で売上面の成果を確認した。7月末に発売したAIブリーフィング広告は、従来の検索広告よりクリック率が30%以上高かった。購入転換率は3倍を上回った。今年第2四半期の広告売上の増加分に占めるAIの寄与も60%以上だった。NaverはAIブリーフィングとAIタブで把握した検索意図をショッピング・プレイス・予約へと広げ、Naver Payでの決済までつなげる計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "Kakaoは13〜14日の「if(kakao)26」で「AIレイヤー」とKananaモデルの戦略を公開する。会話から把握した意図を商品探索、推薦、予約、注文、決済へとつなげ、オープンプラットフォーム「PlayMCP」（ツール3400個以上、1日の呼び出し10万回以上）で実行範囲を広げる。2028年にはトークビズ売上に占めるAIの比率を二桁に引き上げる方針だ。"
+                "x": "THG IngenuityのChief Revenue Officer、Darren Rajanahは「顧客は会話から買い物の旅を始める...。それは小売業者が得られる中でも最も購買意欲の高いトラフィックの一つであり、これまでは大半がリテールメディアの外にあった」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Naver AI简报广告\n点击率高出30%以上",
-          "body": "Naver AI简报广告的购买转化率是传统搜索广告的3倍以上。",
-          "mini_headline": "Naver AI广告成效",
+          "headline": "THG将Criteo广告\n引入AI购物助手",
+          "body": "THG在Gemini-built AI购物助手中加入Criteo广告，称属欧洲首例。",
+          "mini_headline": "Criteo广告进入THG AI助手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "THG Ingenuity旗下的THG Commerce已将Criteo Sponsored Products整合进其基于Google Cloud Gemini Enterprise打造的AI Shopping Assistant。THG Commerce称，它是欧洲首家将Criteo Sponsored Products引入AI驱动对话式搜索的商务技术提供商。"
+              },
+              {
+                "t": "p",
+                "x": "此次整合让赞助商品推荐与自然商品推荐在同一段对话中并列呈现。早期结果显示，通过助手展示的赞助商品点击率超过平均水平的五倍，转化率超过平均水平的两倍。"
+              },
+              {
+                "t": "p",
+                "x": "助手会从每段对话中提取关键词和筛选条件，并将其转化为个性化的商品推荐。Criteo的相关性模型（包括关键词匹配、语义理解和严格的相关性阈值）同样适用于对话场景，因此赞助推荐会被清晰标注，且只在符合购物者需求时出现。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-                "cap": "Kakao将于13日至14日在京畿道龙仁市Kakao AI园区举办的“if(kakao)26”宣传图。图片=Kakao"
+                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
               },
               {
                 "t": "p",
-                "x": "Naver和Kakao正将人工智能（AI）与现有服务结合，把用户意图连接到广告、电商和支付。截至7月，Naver“AI简报”的月用户已突破3000万，Kakao则计划在年底前让基于KakaoTalk的智能体AI获得1000万MAU。"
-              },
-              {
-                "t": "p",
-                "x": "Naver率先在AI搜索上看到了营收成效。7月底推出的AI简报广告点击率比传统搜索广告高出30%以上，购买转化率则超过3倍。今年第二季度广告营收增量中，AI贡献的比重也超过60%。Naver计划将从AI简报和AI标签页中捕捉到的搜索意图扩展到购物、地点和预约，再一路连接到Naver Pay支付。"
-              },
-              {
-                "t": "p",
-                "x": "Kakao将于13日至14日在“if(kakao)26”上公布“AI层”和Kanana模型战略。它将把从对话中识别出的意图连接到商品探索、推荐、预约、下单和支付，并通过开放平台“PlayMCP”（工具超过3400个，日调用量超过10万次）扩大执行范围。Kakao计划到2028年将AI在Talk Biz营收中的占比提升至两位数。"
+                "x": "THG Ingenuity首席营收官（Chief Revenue Officer）Darren Rajanah表示：“顾客通过一段对话开启购物旅程……这是零售商能获得的购买意图最强的流量之一，而此前它大多游离于零售媒体之外。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Naver: los anuncios AI Briefing\nelevan los clics más de un 30%",
-          "body": "La conversión de compra de los anuncios AI Briefing de Naver triplicó con creces la de los anuncios de búsqueda.",
-          "mini_headline": "Resultados de los anuncios con IA de Naver",
+          "headline": "THG integra anuncios de Criteo\nen su asistente de compras AI",
+          "body": "THG Commerce suma Criteo Sponsored Products a su AI Shopping Assistant Gemini-built y se dice pionera en Europa.",
+          "mini_headline": "Anuncios de Criteo en el asistente AI de THG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "THG Commerce, parte de THG Ingenuity, ha integrado Criteo Sponsored Products en su AI Shopping Assistant, creado con Gemini Enterprise de Google Cloud. THG Commerce afirma ser el primer proveedor de tecnología de comercio en Europa que lleva Criteo Sponsored Products a la búsqueda conversacional impulsada por AI."
+              },
+              {
+                "t": "p",
+                "x": "La integración sitúa las recomendaciones de productos patrocinados y orgánicos una junto a otra dentro de la misma conversación. Los primeros resultados muestran que los productos patrocinados mostrados a través del asistente alcanzaron una tasa de clics más de cinco veces superior a la media y una tasa de conversión de más del doble de la media."
+              },
+              {
+                "t": "p",
+                "x": "El asistente extrae palabras clave y filtros de cada conversación y los convierte en recomendaciones de productos personalizadas. Los modelos de relevancia de Criteo, que incluyen coincidencia de palabras clave, comprensión semántica y umbrales estrictos de relevancia, se aplican en el contexto conversacional, de modo que las recomendaciones patrocinadas aparecen claramente etiquetadas y solo cuando coinciden con lo que pidió el comprador."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-                "cap": "Imagen informativa de ‘if(kakao)26’, que Kakao celebrará del 13 al 14 en el Kakao AI Campus de Yongin, provincia de Gyeonggi. Foto: Kakao"
+                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
               },
               {
                 "t": "p",
-                "x": "Naver y Kakao están combinando la inteligencia artificial (IA) con sus servicios existentes para conectar la intención de los usuarios con la publicidad, el comercio y los pagos. ‘AI Briefing’ de Naver superó los 30 millones de usuarios mensuales en julio, y Kakao prevé alcanzar 10 millones de MAU para su IA agéntica basada en KakaoTalk antes de fin de año."
-              },
-              {
-                "t": "p",
-                "x": "Naver fue la primera en constatar resultados de ingresos en la búsqueda con IA. Los anuncios AI Briefing, lanzados a finales de julio, registraron una tasa de clics más de un 30 % superior a la de los anuncios de búsqueda tradicionales. La tasa de conversión de compra fue más del triple. La contribución de la IA al aumento de los ingresos publicitarios del segundo trimestre de este año también superó el 60 %. Naver planea extender la intención de búsqueda detectada en AI Briefing y la pestaña de IA a compras, lugares y reservas, y conectarla después con los pagos de Naver Pay."
-              },
-              {
-                "t": "p",
-                "x": "Kakao presentará los días 13 y 14, en ‘if(kakao)26’, su ‘capa de IA’ y la estrategia de sus modelos Kanana. Conectará la intención detectada en las conversaciones con la búsqueda de productos, las recomendaciones, las reservas, los pedidos y los pagos, y ampliará su alcance de ejecución con la plataforma abierta ‘PlayMCP’ (más de 3.400 herramientas y más de 100.000 llamadas al día). Para 2028 aspira a que la IA alcance una cuota de dos dígitos en los ingresos de Talk Biz."
+                "x": "“Los clientes empiezan su recorrido de compra con una conversación... Ese es uno de los tráficos con mayor intención de compra que puede tener un minorista y, hasta ahora, ha quedado en gran parte fuera del retail media”, dijo Darren Rajanah, Chief Revenue Officer de THG Ingenuity."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Naver AI Briefing ads post\nclick rates over 30% higher",
-          "body": "Naver's AI Briefing ads delivered purchase conversion rates more than three times those of its standard search ads.",
-          "mini_headline": "Naver AI ad results",
+        "ko": {
+          "headline": "THG, AI 쇼핑 비서에\nCriteo 광고 도입",
+          "body": "THG가 Gemini-built AI 비서에 Criteo 광고를 유럽 첫 도입했다.",
+          "mini_headline": "THG AI 비서에 Criteo 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "THG Ingenuity 계열사 THG Commerce가 Google Cloud의 Gemini Enterprise로 만든 AI Shopping Assistant에 Criteo Sponsored Products를 통합했다. THG Commerce는 Criteo Sponsored Products를 AI 기반 대화형 검색에 들여온 유럽 최초의 커머스 기술 기업이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "이번 통합으로 같은 대화 안에 스폰서 상품 추천과 일반 상품 추천이 나란히 놓인다. 초기 결과에 따르면 비서를 통해 노출된 스폰서 상품의 클릭률은 평균의 다섯 배를 넘었고, 전환율은 평균의 두 배를 넘었다."
+              },
+              {
+                "t": "p",
+                "x": "비서는 대화마다 키워드와 필터를 뽑아 맞춤형 상품 추천으로 바꾼다. 키워드 매칭, 의미 이해, 엄격한 관련성 기준을 포함한 Criteo의 관련성 모델이 대화 맥락에도 적용되므로, 스폰서 추천은 분명한 표시와 함께 쇼핑객의 요청에 맞을 때만 나타난다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-                "cap": "Promotional image for ‘if(kakao)26’, which Kakao will hold at the Kakao AI Campus in Yongin, Gyeonggi Province, from the 13th to the 14th. Photo: Kakao"
+                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
               },
               {
                 "t": "p",
-                "x": "Naver and Kakao are combining artificial intelligence (AI) with their existing services to connect users' intentions to advertising, commerce and payments. Naver's ‘AI Briefing’ passed 30 million monthly users as of July, and Kakao plans to secure 10 million MAU for its KakaoTalk-based agentic AI by the end of the year."
-              },
-              {
-                "t": "p",
-                "x": "Naver has seen revenue results from AI search first. AI Briefing ads, launched in late July, had click-through rates more than 30% higher than standard search ads. Purchase conversion rates were more than three times higher. AI also accounted for more than 60% of the growth in ad revenue in the second quarter of this year. Naver plans to extend the search intent identified in AI Briefing and the AI tab into shopping, places and reservations, and then connect it all the way to Naver Pay payments."
-              },
-              {
-                "t": "p",
-                "x": "At ‘if(kakao)26’ on the 13th and 14th, Kakao will unveil its ‘AI layer’ and its Kanana model strategy. It will connect intent identified in conversations to product discovery, recommendations, reservations, orders and payments, and widen the scope of execution through its open platform ‘PlayMCP’ (more than 3,400 tools and more than 100,000 calls a day). By 2028, Kakao aims to raise AI's share of Talk Biz revenue to double digits."
+                "x": "THG Ingenuity의 Chief Revenue Officer인 Darren Rajanah는 “고객은 대화로 쇼핑 여정을 시작한다... 이는 리테일러가 가질 수 있는 가장 구매 의도가 높은 트래픽 가운데 하나이며, 지금까지는 대부분 리테일 미디어 밖에 있었다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ネイバーのAI広告\nクリック率が30%超高い",
-          "body": "NaverのAIブリーフィング広告は、購入転換率が従来の検索広告の3倍を上回った。",
-          "mini_headline": "ネイバーAI広告の成果",
+          "headline": "THG、AI買い物支援に\nCriteo広告を統合",
+          "body": "THGはGemini-builtのAI買い物支援にCriteo広告を欧州で初めて導入した。",
+          "mini_headline": "THGのAIアシスタントにCriteo広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "THG Ingenuity傘下のTHG Commerceは、Google CloudのGemini Enterpriseで構築したAI Shopping AssistantにCriteo Sponsored Productsを統合した。THG Commerceは、Criteo Sponsored ProductsをAIによる対話型検索に導入した欧州初のコマーステクノロジー企業だとしている。"
+              },
+              {
+                "t": "p",
+                "x": "この統合により、同じ会話の中でスポンサー商品とオーガニックの商品レコメンドが並んで表示される。初期結果では、アシスタント経由で表示されたスポンサー商品のクリック率は平均の五倍を超え、コンバージョン率は平均の二倍を超えた。"
+              },
+              {
+                "t": "p",
+                "x": "アシスタントは会話ごとにキーワードとフィルターを抽出し、個々に合わせた商品レコメンドに変える。キーワードマッチング、意味理解、厳格な関連性しきい値を含むCriteoの関連性モデルが対話の文脈でも機能するため、スポンサー商品のレコメンドは明確にラベル付けされ、買い物客の求めに合う場合にのみ表示される。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-                "cap": "Kakaoが13日から14日まで京畿道竜仁市のKakao AIキャンパスで開催する「if(kakao)26」の案内画像。写真=Kakao"
+                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
               },
               {
                 "t": "p",
-                "x": "NaverとKakaoが既存サービスに人工知能（AI）を組み合わせ、利用者の意図を広告・コマース・決済につなげている。Naverの「AIブリーフィング」は7月時点で月間利用者3000万人を超え、Kakaoは年末までにKakaoTalkベースのエージェント型AIでMAU 1000万人の確保を目指す。"
-              },
-              {
-                "t": "p",
-                "x": "NaverはまずAI検索で売上面の成果を確認した。7月末に発売したAIブリーフィング広告は、従来の検索広告よりクリック率が30%以上高かった。購入転換率は3倍を上回った。今年第2四半期の広告売上の増加分に占めるAIの寄与も60%以上だった。NaverはAIブリーフィングとAIタブで把握した検索意図をショッピング・プレイス・予約へと広げ、Naver Payでの決済までつなげる計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "Kakaoは13〜14日の「if(kakao)26」で「AIレイヤー」とKananaモデルの戦略を公開する。会話から把握した意図を商品探索、推薦、予約、注文、決済へとつなげ、オープンプラットフォーム「PlayMCP」（ツール3400個以上、1日の呼び出し10万回以上）で実行範囲を広げる。2028年にはトークビズ売上に占めるAIの比率を二桁に引き上げる方針だ。"
+                "x": "THG IngenuityのChief Revenue Officer、Darren Rajanahは「顧客は会話から買い物の旅を始める...。それは小売業者が得られる中でも最も購買意欲の高いトラフィックの一つであり、これまでは大半がリテールメディアの外にあった」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Naver AI简报广告\n点击率高出30%以上",
-          "body": "Naver AI简报广告的购买转化率是传统搜索广告的3倍以上。",
-          "mini_headline": "Naver AI广告成效",
+          "headline": "THG将Criteo广告\n引入AI购物助手",
+          "body": "THG在Gemini-built AI购物助手中加入Criteo广告，称属欧洲首例。",
+          "mini_headline": "Criteo广告进入THG AI助手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "THG Ingenuity旗下的THG Commerce已将Criteo Sponsored Products整合进其基于Google Cloud Gemini Enterprise打造的AI Shopping Assistant。THG Commerce称，它是欧洲首家将Criteo Sponsored Products引入AI驱动对话式搜索的商务技术提供商。"
+              },
+              {
+                "t": "p",
+                "x": "此次整合让赞助商品推荐与自然商品推荐在同一段对话中并列呈现。早期结果显示，通过助手展示的赞助商品点击率超过平均水平的五倍，转化率超过平均水平的两倍。"
+              },
+              {
+                "t": "p",
+                "x": "助手会从每段对话中提取关键词和筛选条件，并将其转化为个性化的商品推荐。Criteo的相关性模型（包括关键词匹配、语义理解和严格的相关性阈值）同样适用于对话场景，因此赞助推荐会被清晰标注，且只在符合购物者需求时出现。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-                "cap": "Kakao将于13日至14日在京畿道龙仁市Kakao AI园区举办的“if(kakao)26”宣传图。图片=Kakao"
+                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
               },
               {
                 "t": "p",
-                "x": "Naver和Kakao正将人工智能（AI）与现有服务结合，把用户意图连接到广告、电商和支付。截至7月，Naver“AI简报”的月用户已突破3000万，Kakao则计划在年底前让基于KakaoTalk的智能体AI获得1000万MAU。"
-              },
-              {
-                "t": "p",
-                "x": "Naver率先在AI搜索上看到了营收成效。7月底推出的AI简报广告点击率比传统搜索广告高出30%以上，购买转化率则超过3倍。今年第二季度广告营收增量中，AI贡献的比重也超过60%。Naver计划将从AI简报和AI标签页中捕捉到的搜索意图扩展到购物、地点和预约，再一路连接到Naver Pay支付。"
-              },
-              {
-                "t": "p",
-                "x": "Kakao将于13日至14日在“if(kakao)26”上公布“AI层”和Kanana模型战略。它将把从对话中识别出的意图连接到商品探索、推荐、预约、下单和支付，并通过开放平台“PlayMCP”（工具超过3400个，日调用量超过10万次）扩大执行范围。Kakao计划到2028年将AI在Talk Biz营收中的占比提升至两位数。"
+                "x": "THG Ingenuity首席营收官（Chief Revenue Officer）Darren Rajanah表示：“顾客通过一段对话开启购物旅程……这是零售商能获得的购买意图最强的流量之一，而此前它大多游离于零售媒体之外。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Naver: los anuncios AI Briefing\nelevan los clics más de un 30%",
-          "body": "La conversión de compra de los anuncios AI Briefing de Naver triplicó con creces la de los anuncios de búsqueda.",
-          "mini_headline": "Resultados de los anuncios con IA de Naver",
+          "headline": "THG integra anuncios de Criteo\nen su asistente de compras AI",
+          "body": "THG Commerce suma Criteo Sponsored Products a su AI Shopping Assistant Gemini-built y se dice pionera en Europa.",
+          "mini_headline": "Anuncios de Criteo en el asistente AI de THG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "THG Commerce, parte de THG Ingenuity, ha integrado Criteo Sponsored Products en su AI Shopping Assistant, creado con Gemini Enterprise de Google Cloud. THG Commerce afirma ser el primer proveedor de tecnología de comercio en Europa que lleva Criteo Sponsored Products a la búsqueda conversacional impulsada por AI."
+              },
+              {
+                "t": "p",
+                "x": "La integración sitúa las recomendaciones de productos patrocinados y orgánicos una junto a otra dentro de la misma conversación. Los primeros resultados muestran que los productos patrocinados mostrados a través del asistente alcanzaron una tasa de clics más de cinco veces superior a la media y una tasa de conversión de más del doble de la media."
+              },
+              {
+                "t": "p",
+                "x": "El asistente extrae palabras clave y filtros de cada conversación y los convierte en recomendaciones de productos personalizadas. Los modelos de relevancia de Criteo, que incluyen coincidencia de palabras clave, comprensión semántica y umbrales estrictos de relevancia, se aplican en el contexto conversacional, de modo que las recomendaciones patrocinadas aparecen claramente etiquetadas y solo cuando coinciden con lo que pidió el comprador."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-                "cap": "Imagen informativa de ‘if(kakao)26’, que Kakao celebrará del 13 al 14 en el Kakao AI Campus de Yongin, provincia de Gyeonggi. Foto: Kakao"
+                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
               },
               {
                 "t": "p",
-                "x": "Naver y Kakao están combinando la inteligencia artificial (IA) con sus servicios existentes para conectar la intención de los usuarios con la publicidad, el comercio y los pagos. ‘AI Briefing’ de Naver superó los 30 millones de usuarios mensuales en julio, y Kakao prevé alcanzar 10 millones de MAU para su IA agéntica basada en KakaoTalk antes de fin de año."
-              },
-              {
-                "t": "p",
-                "x": "Naver fue la primera en constatar resultados de ingresos en la búsqueda con IA. Los anuncios AI Briefing, lanzados a finales de julio, registraron una tasa de clics más de un 30 % superior a la de los anuncios de búsqueda tradicionales. La tasa de conversión de compra fue más del triple. La contribución de la IA al aumento de los ingresos publicitarios del segundo trimestre de este año también superó el 60 %. Naver planea extender la intención de búsqueda detectada en AI Briefing y la pestaña de IA a compras, lugares y reservas, y conectarla después con los pagos de Naver Pay."
-              },
-              {
-                "t": "p",
-                "x": "Kakao presentará los días 13 y 14, en ‘if(kakao)26’, su ‘capa de IA’ y la estrategia de sus modelos Kanana. Conectará la intención detectada en las conversaciones con la búsqueda de productos, las recomendaciones, las reservas, los pedidos y los pagos, y ampliará su alcance de ejecución con la plataforma abierta ‘PlayMCP’ (más de 3.400 herramientas y más de 100.000 llamadas al día). Para 2028 aspira a que la IA alcance una cuota de dos dígitos en los ingresos de Talk Biz."
+                "x": "“Los clientes empiezan su recorrido de compra con una conversación... Ese es uno de los tráficos con mayor intención de compra que puede tener un minorista y, hasta ahora, ha quedado en gran parte fuera del retail media”, dijo Darren Rajanah, Chief Revenue Officer de THG Ingenuity."
               }
             ]
           }
@@ -1221,311 +1311,351 @@
       }
     },
     {
-      "id": "ai-ad-consumer-backlash",
-      "source_lang": "ko",
+      "id": "marketing-meta-idle-inference-ads",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 만든 광고에\n등 돌리는 소비자",
-      "body": "소비자들은 AI 모델·메뉴 사진 광고가 구매욕과 신뢰를 깎는다고 말한다.",
-      "mini_headline": "AI 광고 외면",
+      "headline": "Meta, 유휴 AI 용량\n광고 추천에 활용",
+      "body": "Meta가 두 가지 탄력성 레버로 놀던 추론 용량을 광고 추천에 돌린다.",
+      "mini_headline": "Meta 광고, 유휴 AI 용량 활용",
       "tool": "Marketing",
-      "source": "더팩트",
-      "url": "https://news.tf.co.kr/read/life/2374702.htm",
-      "accent": "#eb367f",
+      "source": "Engineering at Meta",
+      "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+      "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
           },
           {
             "t": "p",
-            "x": "생성형 AI로 만든 광고에 거부감을 느낀다는 소비자들이 늘고 있다. AI 이미지 특유의 부자연스러움이 오히려 구매욕을 떨어뜨린다는 지적이다. 온라인 패션플랫폼의 AI 모델 착용 이미지를 본 임현서(28) 씨는 \"이런 AI 이미지를 어떻게 믿고 옷을 사야 할지 의문\"이라고 말했다. SNS에는 \"집 근처 치킨집 메뉴 사진이 AI로 만든 건데 볼 때마다 소름 돋는다\" 같은 반응이 올라왔다."
+            "x": "추론 플릿에는 용량의 역설이 있다. 전체로는 빠듯한데 곳곳에 적지 않은 유휴 용량이 남는다. Meta는 이 자투리를 모아 공유 기회형 용량 풀로 묶고 추가 용량 주문 없이 더 나은 광고 추천으로 바꾸는 시스템을 만들었다."
           },
           {
             "t": "p",
-            "x": "돈을 아끼려 AI 광고를 제작하는 업체에 신뢰가 떨어진다는 쓴소리도 이어졌다. 유튜브 등에서 반복적으로 노출되는 AI 영상 광고에 피로감을 느낀다는 의견도 있다."
+            "x": "이 용량은 거의 예고 없이 회수되기도 해서 Meta는 두 가지 탄력성 레버를 쓴다. Rank More Ads(RMA)는 랭킹 단계에서 평가하는 후보 수를 조정한다. Serve Better Models(SBM)는 더 강력한 모델로 보내는 요청 비율을 조정한다."
           },
           {
             "t": "img",
-            "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
           },
           {
             "t": "p",
-            "x": "박은아 대구대 심리학과 교수는 \"AI 광고는 진정성에 대한 문제\"라며 광고 제작 과정에서 AI 활용 정도가 높다고 인식할수록 소비자가 느끼는 광고의 진정성은 낮아진다고 분석했다. 이은희 인하대 소비자학과 교수는 \"비용 절감을 위해 AI 이미지를 사용하는 것이 오히려 신뢰도를 떨어뜨리는 행위가 될 수 있다\"고 강조했다."
+            "x": "RMA에는 CPU와 가속기 용량이 모두 필요하지만 SBM은 가속기만 남은 잉여 용량으로도 돌아간다. 기본 서빙은 물리적·논리적 격리로 보호하고 PID 컨트롤러가 꼬리 지연 시간을 보며 후보 규모를 조정한다. 용량이 회수되면 서버와 클라이언트의 가치 인식형 부하 차단이 밀리초 단위로 반응한다."
+          },
+          {
+            "t": "p",
+            "x": "다음 단계로 Meta는 두 레버를 확장하고 사전 계산 탄력성을 개발한다. 리전 간 추론을 넓히고 AI 추론 용량을 자동 배분하는 최적화 기반 시스템도 구축할 계획이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI로 만든 광고에\n등 돌리는 소비자",
-          "body": "소비자들은 AI 모델·메뉴 사진 광고가 구매욕과 신뢰를 깎는다고 말한다.",
-          "mini_headline": "AI 광고 외면",
+        "en": {
+          "headline": "Meta turns idle AI capacity\ninto better ad recommendations",
+          "body": "Meta's system expands ads recommendation work onto idle inference capacity across its fleet via two elasticity levers.",
+          "mini_headline": "Meta ads use idle AI capacity",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
               },
               {
                 "t": "p",
-                "x": "생성형 AI로 만든 광고에 거부감을 느낀다는 소비자들이 늘고 있다. AI 이미지 특유의 부자연스러움이 오히려 구매욕을 떨어뜨린다는 지적이다. 온라인 패션플랫폼의 AI 모델 착용 이미지를 본 임현서(28) 씨는 \"이런 AI 이미지를 어떻게 믿고 옷을 사야 할지 의문\"이라고 말했다. SNS에는 \"집 근처 치킨집 메뉴 사진이 AI로 만든 건데 볼 때마다 소름 돋는다\" 같은 반응이 올라왔다."
+                "x": "Inference fleets face a capacity paradox: they can be globally constrained while meaningful pockets of capacity remain locally idle. Meta built a system that aggregates these pockets into a shared opportunistic capacity pool and turns them into better ads recommendations, without requiring additional capacity orders."
               },
               {
                 "t": "p",
-                "x": "돈을 아끼려 AI 광고를 제작하는 업체에 신뢰가 떨어진다는 쓴소리도 이어졌다. 유튜브 등에서 반복적으로 노출되는 AI 영상 광고에 피로감을 느낀다는 의견도 있다."
+                "x": "The capacity may be reclaimed with little notice, so Meta uses two elasticity levers. Rank More Ads (RMA) adjusts the number of candidates evaluated by the ranking stages. Serve Better Models (SBM) adjusts the share of requests routed to a more powerful model."
               },
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
               },
               {
                 "t": "p",
-                "x": "박은아 대구대 심리학과 교수는 \"AI 광고는 진정성에 대한 문제\"라며 광고 제작 과정에서 AI 활용 정도가 높다고 인식할수록 소비자가 느끼는 광고의 진정성은 낮아진다고 분석했다. 이은희 인하대 소비자학과 교수는 \"비용 절감을 위해 AI 이미지를 사용하는 것이 오히려 신뢰도를 떨어뜨리는 행위가 될 수 있다\"고 강조했다."
+                "x": "RMA requires both CPU and accelerator capacity, while SBM can use accelerator-only surplus. Physical and logical isolation protects baseline serving; a PID controller tunes candidate volume from tail latency, and value-aware load shedding at servers and clients reacts within milliseconds when capacity is reclaimed."
+              },
+              {
+                "t": "p",
+                "x": "Next, Meta is extending both levers, developing precomputation elasticity, expanding cross-region inference, and building an optimization-based system to allocate AI inference capacity automatically."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Consumers turn away from\nads made with AI",
-          "body": "Consumers say ads using AI models and AI-made menu photos dampen their urge to buy and erode their trust.",
-          "mini_headline": "Turning away from AI ads",
+        "ko": {
+          "headline": "Meta, 유휴 AI 용량\n광고 추천에 활용",
+          "body": "Meta가 두 가지 탄력성 레버로 놀던 추론 용량을 광고 추천에 돌린다.",
+          "mini_headline": "Meta 광고, 유휴 AI 용량 활용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
               },
               {
                 "t": "p",
-                "x": "A growing number of consumers say they feel an aversion to ads made with generative AI. They point out that the unnaturalness peculiar to AI images actually dampens their desire to buy. Lim Hyun-seo (28), who saw images of AI models wearing clothes on an online fashion platform, said, \"I wonder how I'm supposed to trust AI images like these and buy clothes.\" On social media, reactions such as \"The menu photos at the chicken place near my house are made with AI, and they give me the creeps every time I see them\" have appeared."
+                "x": "추론 플릿에는 용량의 역설이 있다. 전체로는 빠듯한데 곳곳에 적지 않은 유휴 용량이 남는다. Meta는 이 자투리를 모아 공유 기회형 용량 풀로 묶고 추가 용량 주문 없이 더 나은 광고 추천으로 바꾸는 시스템을 만들었다."
               },
               {
                 "t": "p",
-                "x": "Others criticized businesses that make AI ads to save money, saying their trust in them falls. Some also say they are tired of AI video ads shown repeatedly on YouTube and elsewhere."
+                "x": "이 용량은 거의 예고 없이 회수되기도 해서 Meta는 두 가지 탄력성 레버를 쓴다. Rank More Ads(RMA)는 랭킹 단계에서 평가하는 후보 수를 조정한다. Serve Better Models(SBM)는 더 강력한 모델로 보내는 요청 비율을 조정한다."
               },
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
               },
               {
                 "t": "p",
-                "x": "Park Eun-a, a psychology professor at Daegu University, said \"AI advertising is a question of authenticity,\" explaining that the more consumers perceive AI as heavily used in making an ad, the less authentic they find the ad. Lee Eun-hee, a consumer studies professor at Inha University, stressed that \"using AI images to cut costs can actually be an act that lowers trust.\""
+                "x": "RMA에는 CPU와 가속기 용량이 모두 필요하지만 SBM은 가속기만 남은 잉여 용량으로도 돌아간다. 기본 서빙은 물리적·논리적 격리로 보호하고 PID 컨트롤러가 꼬리 지연 시간을 보며 후보 규모를 조정한다. 용량이 회수되면 서버와 클라이언트의 가치 인식형 부하 차단이 밀리초 단위로 반응한다."
+              },
+              {
+                "t": "p",
+                "x": "다음 단계로 Meta는 두 레버를 확장하고 사전 계산 탄력성을 개발한다. 리전 간 추론을 넓히고 AI 추론 용량을 자동 배분하는 최적화 기반 시스템도 구축할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで作った広告に\n背を向ける消費者",
-          "body": "消費者は、AIモデルやAIのメニュー写真を使った広告が購買意欲と信頼を損なうと語る。",
-          "mini_headline": "AI広告離れ",
+          "headline": "Meta、遊休AI容量を\n広告推薦に活用",
+          "body": "Metaは二つの弾力性レバーで、遊休の推論容量に広告推薦処理を広げる。",
+          "mini_headline": "Metaの広告が遊休AI容量を活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
               },
               {
                 "t": "p",
-                "x": "生成AIで作られた広告に拒否感を覚える消費者が増えている。AI画像特有の不自然さが、かえって購買意欲を下げるという指摘だ。オンラインファッションプラットフォームでAIモデルの着用画像を見たイム・ヒョンソさん（28）は「こんなAI画像をどう信じて服を買えばいいのか疑問だ」と話した。SNSには「近所のチキン店のメニュー写真がAIで作ったもので、見るたびに鳥肌が立つ」といった反応も上がった。"
+                "x": "推論フリートは容量のパラドックスに直面している。全体では逼迫していても、局所的には意味のある規模の容量が遊休状態で残る。Metaはこうした断片を共有の機会的容量プールに集約し、追加の容量発注なしに、より良い広告推薦へと変えるシステムを構築した。"
               },
               {
                 "t": "p",
-                "x": "費用を節約するためにAI広告を制作する企業への信頼が下がるという苦言も続いた。YouTubeなどで繰り返し表示されるAI動画広告に疲れを感じるという意見もある。"
+                "x": "この容量はほとんど予告なく回収される可能性があるため、Metaは二つの弾力性レバーを使う。Rank More Ads(RMA)はランキング段階で評価する候補の数を調整する。Serve Better Models(SBM)はより強力なモデルに回すリクエストの割合を調整する。"
               },
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
               },
               {
                 "t": "p",
-                "x": "大邱大学心理学科のパク・ウナ教授は「AI広告は真正性の問題だ」とし、広告制作でAIの活用度が高いと認識するほど、消費者が感じる広告の真正性は低くなると分析した。仁荷大学消費者学科のイ・ウニ教授は「コスト削減のためにAI画像を使うことが、かえって信頼性を下げる行為になりうる」と強調した。"
+                "x": "RMAにはCPUとアクセラレーターの両方の容量が必要だが、SBMはアクセラレーターのみの余剰も使える。物理的・論理的な分離でベースラインのサービングを守り、PIDコントローラーがテールレイテンシーから候補量を調整する。容量が回収されると、サーバーとクライアントでの価値を考慮した負荷制限がミリ秒単位で反応する。"
+              },
+              {
+                "t": "p",
+                "x": "Metaは今後、両レバーの拡張、事前計算の弾力性の開発、リージョン間推論の拡大、そしてAI推論容量を自動で割り当てる最適化ベースのシステムの構築を進める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI制作的广告\n遭消费者冷落",
-          "body": "消费者表示，AI模特和AI菜单照片广告会削弱购买欲和信任感。",
-          "mini_headline": "冷落AI广告",
+          "headline": "Meta把闲置AI算力\n用于优化广告推荐",
+          "body": "Meta借助两种弹性杠杆，把广告推荐任务扩展到整个集群的闲置推理容量上。",
+          "mini_headline": "Meta广告利用闲置AI算力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
               },
               {
                 "t": "p",
-                "x": "越来越多的消费者表示对生成式AI制作的广告感到反感。有人指出，AI图像特有的不自然感反而降低了购买欲。在线上时尚平台看到AI模特试穿图的林贤书（28岁）说：“看到这样的AI图片，真不知道该怎么相信它去买衣服。”社交媒体上也出现了“家附近炸鸡店的菜单照片是AI做的，每次看到都起鸡皮疙瘩”之类的反应。"
+                "x": "推理集群面临一个容量悖论：整体容量可能吃紧，局部却仍有可观的闲置容量。Meta构建了一套系统，把这些零散容量汇聚成共享的机会性容量池，并在无需追加容量订单的情况下，将其转化为更好的广告推荐。"
               },
               {
                 "t": "p",
-                "x": "也有人批评为省钱而制作AI广告的商家让人失去信任。还有意见称，对在YouTube等平台反复出现的AI视频广告感到厌倦。"
+                "x": "这些容量可能在几乎没有预警的情况下被收回，因此Meta采用了两种弹性杠杆。Rank More Ads（RMA）调整排序阶段评估的候选数量；Serve Better Models（SBM）调整路由到更强模型的请求比例。"
               },
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
               },
               {
                 "t": "p",
-                "x": "大邱大学心理学系教授朴恩雅表示“AI广告是真实性的问题”，并分析称，消费者越是认为广告制作中AI使用程度高，感受到的广告真实性就越低。仁荷大学消费者学系教授李恩熙强调：“为节省成本而使用AI图像，反而可能成为降低信任度的行为。”"
+                "x": "RMA同时需要CPU和加速器容量，而SBM可以使用仅有加速器的富余容量。物理和逻辑隔离保护基线服务；PID控制器根据尾延迟调节候选量；容量被收回时，服务器端和客户端的价值感知负载削减会在毫秒级内作出反应。"
+              },
+              {
+                "t": "p",
+                "x": "接下来，Meta将扩展这两种杠杆，开发预计算弹性，扩大跨区域推理，并构建一套基于优化的系统来自动分配AI推理容量。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los consumidores dan la espalda\na los anuncios hechos con IA",
-          "body": "Los consumidores dicen que los anuncios con modelos y fotos de menú con IA les quitan ganas de comprar y confianza.",
-          "mini_headline": "Rechazo a los anuncios con IA",
+          "headline": "Meta usa capacidad AI ociosa\npara recomendar mejores anuncios",
+          "body": "Meta extiende la recomendación de anuncios a capacidad de inferencia ociosa con dos palancas de elasticidad.",
+          "mini_headline": "Los anuncios de Meta usan capacidad AI ociosa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
               },
               {
                 "t": "p",
-                "x": "Crece el número de consumidores que dicen sentir rechazo hacia los anuncios creados con IA generativa. Señalan que la falta de naturalidad propia de las imágenes de IA reduce, de hecho, las ganas de comprar. Lim Hyun-seo (28), que vio imágenes de modelos de IA luciendo prendas en una plataforma de moda en línea, dijo: \"Me pregunto cómo voy a fiarme de imágenes de IA como estas para comprar ropa\". En las redes sociales aparecieron reacciones como \"Las fotos del menú de la pollería de mi barrio están hechas con IA y me dan escalofríos cada vez que las veo\"."
+                "x": "Las flotas de inferencia afrontan una paradoja de capacidad: pueden estar limitadas a escala global mientras quedan bolsas significativas de capacidad ociosa a escala local. Meta creó un sistema que agrupa esas bolsas en un pool compartido de capacidad oportunista y las convierte en mejores recomendaciones de anuncios, sin necesidad de pedidos de capacidad adicional."
               },
               {
                 "t": "p",
-                "x": "También hubo críticas de quienes dicen perder la confianza en las empresas que hacen anuncios con IA para ahorrar dinero. Otros afirman sentirse cansados de los anuncios en vídeo hechos con IA que se repiten en YouTube y otras plataformas."
+                "x": "Esa capacidad puede recuperarse casi sin aviso, por lo que Meta usa dos palancas de elasticidad. Rank More Ads (RMA) ajusta el número de candidatos que evalúan las etapas de ranking. Serve Better Models (SBM) ajusta la proporción de solicitudes enviadas a un modelo más potente."
               },
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
               },
               {
                 "t": "p",
-                "x": "Park Eun-a, del departamento de Psicología de la Universidad de Daegu, afirmó que \"los anuncios con IA son una cuestión de autenticidad\" y explicó que, cuanto mayor es el uso de IA que el consumidor percibe en la producción de un anuncio, menor es la autenticidad que le atribuye. Lee Eun-hee, del departamento de Ciencias del Consumo de la Universidad Inha, subrayó que \"usar imágenes de IA para reducir costes puede acabar siendo un acto que resta confianza\"."
+                "x": "RMA requiere capacidad tanto de CPU como de aceleradores, mientras que SBM puede usar excedentes solo de aceleradores. El aislamiento físico y lógico protege el servicio base; un controlador PID ajusta el volumen de candidatos a partir de la latencia de cola, y el descarte de carga consciente del valor en servidores y clientes reacciona en milisegundos cuando se recupera la capacidad."
+              },
+              {
+                "t": "p",
+                "x": "A continuación, Meta ampliará ambas palancas, desarrollará elasticidad de precomputación, extenderá la inferencia entre regiones y construirá un sistema basado en optimización para asignar automáticamente la capacidad de inferencia de AI."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Consumers turn away from\nads made with AI",
-          "body": "Consumers say ads using AI models and AI-made menu photos dampen their urge to buy and erode their trust.",
-          "mini_headline": "Turning away from AI ads",
+        "ko": {
+          "headline": "Meta, 유휴 AI 용량\n광고 추천에 활용",
+          "body": "Meta가 두 가지 탄력성 레버로 유휴 추론 용량에 광고 추천 작업을 넓힌다.",
+          "mini_headline": "Meta 광고, 유휴 AI 용량 활용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
               },
               {
                 "t": "p",
-                "x": "A growing number of consumers say they feel an aversion to ads made with generative AI. They point out that the unnaturalness peculiar to AI images actually dampens their desire to buy. Lim Hyun-seo (28), who saw images of AI models wearing clothes on an online fashion platform, said, \"I wonder how I'm supposed to trust AI images like these and buy clothes.\" On social media, reactions such as \"The menu photos at the chicken place near my house are made with AI, and they give me the creeps every time I see them\" have appeared."
+                "x": "추론 플릿은 용량의 역설을 안고 있다. 전체로는 용량이 빠듯한데도 곳곳에 의미 있는 규모의 유휴 용량이 남는다. Meta는 이런 자투리 용량을 모아 공유 기회형 용량 풀로 묶고, 추가 용량 주문 없이 더 나은 광고 추천으로 바꾸는 시스템을 만들었다."
               },
               {
                 "t": "p",
-                "x": "Others criticized businesses that make AI ads to save money, saying their trust in them falls. Some also say they are tired of AI video ads shown repeatedly on YouTube and elsewhere."
+                "x": "이 용량은 거의 예고 없이 회수될 수 있어 Meta는 두 가지 탄력성 레버를 쓴다. Rank More Ads(RMA)는 랭킹 단계에서 평가하는 후보 수를 조정한다. Serve Better Models(SBM)는 더 강력한 모델로 보내는 요청 비율을 조정한다."
               },
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
               },
               {
                 "t": "p",
-                "x": "Park Eun-a, a psychology professor at Daegu University, said \"AI advertising is a question of authenticity,\" explaining that the more consumers perceive AI as heavily used in making an ad, the less authentic they find the ad. Lee Eun-hee, a consumer studies professor at Inha University, stressed that \"using AI images to cut costs can actually be an act that lowers trust.\""
+                "x": "RMA에는 CPU와 가속기 용량이 모두 필요하지만, SBM은 가속기만 남는 잉여 용량도 쓸 수 있다. 물리적·논리적 격리로 기본 서빙을 보호하고, PID 컨트롤러가 꼬리 지연 시간을 보고 후보 규모를 조정한다. 용량이 회수되면 서버와 클라이언트의 가치 인식형 부하 차단이 밀리초 단위로 반응한다."
+              },
+              {
+                "t": "p",
+                "x": "Meta는 앞으로 두 레버를 확장하고, 사전 계산 탄력성을 개발하며, 리전 간 추론을 넓히고, AI 추론 용량을 자동 배분하는 최적화 기반 시스템을 구축할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで作った広告に\n背を向ける消費者",
-          "body": "消費者は、AIモデルやAIのメニュー写真を使った広告が購買意欲と信頼を損なうと語る。",
-          "mini_headline": "AI広告離れ",
+          "headline": "Meta、遊休AI容量を\n広告推薦に活用",
+          "body": "Metaは二つの弾力性レバーで、遊休の推論容量に広告推薦処理を広げる。",
+          "mini_headline": "Metaの広告が遊休AI容量を活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
               },
               {
                 "t": "p",
-                "x": "生成AIで作られた広告に拒否感を覚える消費者が増えている。AI画像特有の不自然さが、かえって購買意欲を下げるという指摘だ。オンラインファッションプラットフォームでAIモデルの着用画像を見たイム・ヒョンソさん（28）は「こんなAI画像をどう信じて服を買えばいいのか疑問だ」と話した。SNSには「近所のチキン店のメニュー写真がAIで作ったもので、見るたびに鳥肌が立つ」といった反応も上がった。"
+                "x": "推論フリートは容量のパラドックスに直面している。全体では逼迫していても、局所的には意味のある規模の容量が遊休状態で残る。Metaはこうした断片を共有の機会的容量プールに集約し、追加の容量発注なしに、より良い広告推薦へと変えるシステムを構築した。"
               },
               {
                 "t": "p",
-                "x": "費用を節約するためにAI広告を制作する企業への信頼が下がるという苦言も続いた。YouTubeなどで繰り返し表示されるAI動画広告に疲れを感じるという意見もある。"
+                "x": "この容量はほとんど予告なく回収される可能性があるため、Metaは二つの弾力性レバーを使う。Rank More Ads(RMA)はランキング段階で評価する候補の数を調整する。Serve Better Models(SBM)はより強力なモデルに回すリクエストの割合を調整する。"
               },
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
               },
               {
                 "t": "p",
-                "x": "大邱大学心理学科のパク・ウナ教授は「AI広告は真正性の問題だ」とし、広告制作でAIの活用度が高いと認識するほど、消費者が感じる広告の真正性は低くなると分析した。仁荷大学消費者学科のイ・ウニ教授は「コスト削減のためにAI画像を使うことが、かえって信頼性を下げる行為になりうる」と強調した。"
+                "x": "RMAにはCPUとアクセラレーターの両方の容量が必要だが、SBMはアクセラレーターのみの余剰も使える。物理的・論理的な分離でベースラインのサービングを守り、PIDコントローラーがテールレイテンシーから候補量を調整する。容量が回収されると、サーバーとクライアントでの価値を考慮した負荷制限がミリ秒単位で反応する。"
+              },
+              {
+                "t": "p",
+                "x": "Metaは今後、両レバーの拡張、事前計算の弾力性の開発、リージョン間推論の拡大、そしてAI推論容量を自動で割り当てる最適化ベースのシステムの構築を進める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI制作的广告\n遭消费者冷落",
-          "body": "消费者表示，AI模特和AI菜单照片广告会削弱购买欲和信任感。",
-          "mini_headline": "冷落AI广告",
+          "headline": "Meta把闲置AI算力\n用于优化广告推荐",
+          "body": "Meta借助两种弹性杠杆，把广告推荐任务扩展到整个集群的闲置推理容量上。",
+          "mini_headline": "Meta广告利用闲置AI算力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
               },
               {
                 "t": "p",
-                "x": "越来越多的消费者表示对生成式AI制作的广告感到反感。有人指出，AI图像特有的不自然感反而降低了购买欲。在线上时尚平台看到AI模特试穿图的林贤书（28岁）说：“看到这样的AI图片，真不知道该怎么相信它去买衣服。”社交媒体上也出现了“家附近炸鸡店的菜单照片是AI做的，每次看到都起鸡皮疙瘩”之类的反应。"
+                "x": "推理集群面临一个容量悖论：整体容量可能吃紧，局部却仍有可观的闲置容量。Meta构建了一套系统，把这些零散容量汇聚成共享的机会性容量池，并在无需追加容量订单的情况下，将其转化为更好的广告推荐。"
               },
               {
                 "t": "p",
-                "x": "也有人批评为省钱而制作AI广告的商家让人失去信任。还有意见称，对在YouTube等平台反复出现的AI视频广告感到厌倦。"
+                "x": "这些容量可能在几乎没有预警的情况下被收回，因此Meta采用了两种弹性杠杆。Rank More Ads（RMA）调整排序阶段评估的候选数量；Serve Better Models（SBM）调整路由到更强模型的请求比例。"
               },
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
               },
               {
                 "t": "p",
-                "x": "大邱大学心理学系教授朴恩雅表示“AI广告是真实性的问题”，并分析称，消费者越是认为广告制作中AI使用程度高，感受到的广告真实性就越低。仁荷大学消费者学系教授李恩熙强调：“为节省成本而使用AI图像，反而可能成为降低信任度的行为。”"
+                "x": "RMA同时需要CPU和加速器容量，而SBM可以使用仅有加速器的富余容量。物理和逻辑隔离保护基线服务；PID控制器根据尾延迟调节候选量；容量被收回时，服务器端和客户端的价值感知负载削减会在毫秒级内作出反应。"
+              },
+              {
+                "t": "p",
+                "x": "接下来，Meta将扩展这两种杠杆，开发预计算弹性，扩大跨区域推理，并构建一套基于优化的系统来自动分配AI推理容量。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los consumidores dan la espalda\na los anuncios hechos con IA",
-          "body": "Los consumidores dicen que los anuncios con modelos y fotos de menú con IA les quitan ganas de comprar y confianza.",
-          "mini_headline": "Rechazo a los anuncios con IA",
+          "headline": "Meta usa capacidad AI ociosa\npara recomendar mejores anuncios",
+          "body": "Meta extiende la recomendación de anuncios a capacidad de inferencia ociosa con dos palancas de elasticidad.",
+          "mini_headline": "Los anuncios de Meta usan capacidad AI ociosa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
               },
               {
                 "t": "p",
-                "x": "Crece el número de consumidores que dicen sentir rechazo hacia los anuncios creados con IA generativa. Señalan que la falta de naturalidad propia de las imágenes de IA reduce, de hecho, las ganas de comprar. Lim Hyun-seo (28), que vio imágenes de modelos de IA luciendo prendas en una plataforma de moda en línea, dijo: \"Me pregunto cómo voy a fiarme de imágenes de IA como estas para comprar ropa\". En las redes sociales aparecieron reacciones como \"Las fotos del menú de la pollería de mi barrio están hechas con IA y me dan escalofríos cada vez que las veo\"."
+                "x": "Las flotas de inferencia afrontan una paradoja de capacidad: pueden estar limitadas a escala global mientras quedan bolsas significativas de capacidad ociosa a escala local. Meta creó un sistema que agrupa esas bolsas en un pool compartido de capacidad oportunista y las convierte en mejores recomendaciones de anuncios, sin necesidad de pedidos de capacidad adicional."
               },
               {
                 "t": "p",
-                "x": "También hubo críticas de quienes dicen perder la confianza en las empresas que hacen anuncios con IA para ahorrar dinero. Otros afirman sentirse cansados de los anuncios en vídeo hechos con IA que se repiten en YouTube y otras plataformas."
+                "x": "Esa capacidad puede recuperarse casi sin aviso, por lo que Meta usa dos palancas de elasticidad. Rank More Ads (RMA) ajusta el número de candidatos que evalúan las etapas de ranking. Serve Better Models (SBM) ajusta la proporción de solicitudes enviadas a un modelo más potente."
               },
               {
                 "t": "img",
-                "src": "https://img.tf.co.kr/article/home/2026/10/08/20264417179155369310.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
               },
               {
                 "t": "p",
-                "x": "Park Eun-a, del departamento de Psicología de la Universidad de Daegu, afirmó que \"los anuncios con IA son una cuestión de autenticidad\" y explicó que, cuanto mayor es el uso de IA que el consumidor percibe en la producción de un anuncio, menor es la autenticidad que le atribuye. Lee Eun-hee, del departamento de Ciencias del Consumo de la Universidad Inha, subrayó que \"usar imágenes de IA para reducir costes puede acabar siendo un acto que resta confianza\"."
+                "x": "RMA requiere capacidad tanto de CPU como de aceleradores, mientras que SBM puede usar excedentes solo de aceleradores. El aislamiento físico y lógico protege el servicio base; un controlador PID ajusta el volumen de candidatos a partir de la latencia de cola, y el descarte de carga consciente del valor en servidores y clientes reacciona en milisegundos cuando se recupera la capacidad."
+              },
+              {
+                "t": "p",
+                "x": "A continuación, Meta ampliará ambas palancas, desarrollará elasticidad de precomputación, extenderá la inferencia entre regiones y construirá un sistema basado en optimización para asignar automáticamente la capacidad de inferencia de AI."
               }
             ]
           }

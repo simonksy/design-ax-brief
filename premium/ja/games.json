@@ -6815,6 +6815,150 @@
           "x": "Thrixelはプラットフォームと併せてBuild Worldを導入する。クリエイターがAIコーディングエージェントと並んで作業するエージェント型ワークフローで、エージェントは必要な3Dコンテンツを生成しながら、その土台となるロジックとコードを書く。Roblox、Three.js、Unity、Unreal Engineに対応する。ThrixelはSierra Ventures、MFV Partners、Harper Court Ventures、Z5 Capitalから$3 million（3百万ドル）のインセプション資金を調達している。"
         }
       ]
+    },
+    "games/games-horii-claude-30min-game": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Yuji-Horii-AI-game-.jpg",
+          "cap": "堀井雄二のAIゲーム"
+        },
+        {
+          "t": "p",
+          "x": "Dragon Quest RPGシリーズで最もよく知られる堀井雄二（Yuji Horii）は、日本では1983年の殺人ミステリーアドベンチャー『The Portopia Serial Murder Case（ポートピア連続殺人事件）』でも知られている。AI実験を他人任せにするだけでは満足せず、堀井自身がClaudeを使い、同作の精神的後継作の「開発」に挑んだ。"
+        },
+        {
+          "t": "p",
+          "x": "そのゲームの名は『Komiya in the Interrogation Room』。金庫破りの容疑がかかる72歳の容疑者Komiyaの取り調べだけで構成された、短いブラウザゲームだ。容疑者は嘘をつき続けるため、プレイヤーはAgitation（動揺）とResistance（抵抗）のメーターのバランスを取りながら、さまざまな質問で真相を明らかにしなければならない。"
+        },
+        {
+          "t": "p",
+          "x": "堀井のSNS投稿によると、AnthropicのAIツールを使った制作にかかった時間は約30分だけだった。「PCで『The Portopia Serial Murder Case』を作っていた頃は、ストーリーを自分で考え、絵を描き、コードを書き、すべてを一人で作らなければならなかった」と堀井は書いている。「今はAIがあれば、絵が描けなくても、プログラムが書けなくても、AIに頼むだけで一人でゲームを作れる。すごいことだ」"
+        },
+        {
+          "t": "p",
+          "x": "堀井は現在『Dragon Quest XII』のシナリオを手がけており、Portopiaは来年、G-Modeによる開発者とアーティスト主導のリメイクが出る見通しだ。"
+        }
+      ]
+    },
+    "games/games-square-enix-collective-vaultbreakers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://novacrystallis.com/wp-content/uploads/2026/10/VB_Splash_KeyArtDragonvault_4k_Logo-1024x576.jpg",
+          "cap": "Vaultbreakers"
+        },
+        {
+          "t": "p",
+          "x": "Square Enixは本日、Vaultbreakersの開発元BetaDwarfとのパブリッシング提携が、Square Enix Collectiveの「再始動（re-launch）」の一環になると発表した。CollectiveはこれまでFuturLabの『PowerWash Simulator』やAstralShiftの『Little Goody Two Shoes』など、独立系スタジオのゲームを共同パブリッシングしてきた。Square Enixは新生Collectiveを「独立系開発者に資金、投資、パブリッシング支援を提供するSquare Enix Ltd.のグローバル部門」と説明している。"
+        },
+        {
+          "t": "p",
+          "x": "Vaultbreakersは、PvEとPvPのモードを備えた「トップダウン型Extraction RPG」とされる。Steamページによると、開発陣はアセットのプロトタイプ、ゲームデザインに関わる大量のデータ入力作業、「コードの生成とレビュー」、「テキストの整理」など、開発に生成AIを使っている。BetaDwarfは、生成AIが「リサーチを速め」、「アイテム名やステータスを提案している」とも説明している。"
+        },
+        {
+          "t": "img",
+          "src": "https://novacrystallis.com/wp-content/uploads/2026/10/image-5.png",
+          "cap": "VaultbreakersのSteamページにあるAI生成コンテンツの開示"
+        },
+        {
+          "t": "p",
+          "x": "Square Enixは過去にも生成AIを使っており、2024年の『Foamstars』ではゲーム内のアルバムカバーをMidjourneyで生成し、プレイヤーから大きな反発を受けた。VaultbreakersはSteam向けに発表され、本日からデモが配信されている。"
+        },
+        {
+          "t": "video",
+          "yt": "juORlA4AhaE"
+        }
+      ]
+    },
+    "games/games-flathub-ai-disclosure-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamingonlinux.com/uploads/tagline_gallery/flathub.jpg",
+          "cap": "Flathub"
+        },
+        {
+          "t": "p",
+          "x": "5月、GamingOnLinuxはFlathubがアプリやゲームの提出で生成AIをほぼ禁止したと報じたが、Flathubはこれを大部分撤回した。Flathubは、Linuxに追加アプリケーションをインストールする最も人気のある手段の一つであり、SteamOSのDesktop Modeでソフトを入れる主な方法でもある。"
+        },
+        {
+          "t": "p",
+          "x": "今後は生成AIを使ったものを一律に禁止するのではなく、提出するアプリケーションやゲームにAIが少しでも使われていれば、その使用をすべて開示しなければならない。審査担当者は引き続き、自らの裁量で提出を却下できる。"
+        },
+        {
+          "t": "p",
+          "x": "新ポリシーにはこうある。「提出者は、アプリケーションまたはそのFlathubパッケージングに含まれていると知っている、あるいは合理的に考えられるAI-generatedのコード、ドキュメント、パッケージング、その他の素材をすべて開示しなければならない」。Flathubのマニフェストには、AI-generatedまたはAI-assistedのコンテンツを含めてはならず、調査、議論、デバッグのみに使ったAIは開示不要だ。AIツールやエージェントがFlathubへの提出用プルリクエストを作成・自動化してはならず、違反を繰り返すと永久追放となる場合がある。"
+        },
+        {
+          "t": "p",
+          "x": "SteamのAIポリシーにかなり近づいた印象だ。"
+        }
+      ]
+    },
+    "games/games-netmarble-nexus-kiro-adoption": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "1年前、ネットマーブルネクサスの開発チームでは「複雑なゲームコードをAIが分析して使えるコードを作るのは難しい」という見方が優勢だった。これを乗り越えるため、開発チームはAIコーディングツールを積極的に活用する実務者を「チャンピオン」に選び、経営陣は彼らの学習と共有の活動を業務として認めた。最初の導入先はライブゲームではなく、新規開発中のゲームだった。"
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/Picture2.png",
+          "cap": "チャンピオンが自ら行った研修資料の一部"
+        },
+        {
+          "t": "p",
+          "x": "鍵となったのはKiroのSteeringファイルだった。プロジェクトのルールと背景知識をまとめたこの文書はバージョン管理でチーム全体に共有され、Visual Studioを使っていた開発者の大半が自然とKiro IDEに移行した。エージェントの作業が終わるとAIがセッションログに「どこで間違えたか」を書き残すフックを設定し、50件以上たまったログが実際のルール変更につながった。"
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/Picture3-505x1024.png",
+          "cap": "AIが作成するmermaidダイアグラムの例"
+        },
+        {
+          "t": "p",
+          "x": "ルールが安定すると、要件→設計→タスクの順に文書を先に合意するSpec方式を導入し、MCPで開発DBやExcelまでつないで、データ整合性の問題を一つの会話の中で見つけ出した。"
+        },
+        {
+          "t": "p",
+          "x": "限界もあった。レビューの負担が増え、ユニットテストの導入が事実上必須になり、開発スピードが上がって企画が追いつかないと感じるほどだった。それでも「AIコーディングツールは人を置き換えるものではなく、人がより重要な仕事に集中できるよう助けるツールだった」というのがチームの結論だ。"
+        }
+      ]
+    },
+    "games/roblox-build-evaluation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
+        },
+        {
+          "t": "p",
+          "x": "Robloxの新しいモバイルファーストの制作ツールBuildは、コード、ビジュアルアセット、ゲームプレイシステム、UI、操作系を連携させるエンドツーエンドのエージェントシステムにより、テキストプロンプトからゲームを作って公開できる。ニュージーランドでのアルファ版公開以降、10万人を超えるプレイヤーが試し、約9,000本のBuildゲームが公開された。制作者の71%はRoblox Studioを一度も使ったことがなかった。"
+        },
+        {
+          "t": "p",
+          "x": "評価フレームワークは4つのスコア化された指標を組み合わせる。ゲーム仕様の質、静的なゲーム品質（エンジニアリングとデザインの観点に分割）、実際のプレイヤーに近い入力を使うプレイテストエージェント、そして端末のビューポート上での視覚品質だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+          "cap": "Buildの制作評価指標はゲーム制作の全工程をカバーする。"
+        },
+        {
+          "t": "p",
+          "x": "3Dのobby（アスレチック）のプロンプトで、Buildは約8分でSkyforge Ascentを作った。仕様91、エンジニアリング98、プレイテスト100、ビジュアル86だったが、デザインは31にとどまり、進行、リプレイ性、フックはゼロだった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+          "cap": "Buildが作ったゲームSkyforge Ascent。"
+        },
+        {
+          "t": "p",
+          "x": "アルファ版以降、制作者の満足度は10%上昇し、「思っていたものと違う」という不満は18%から3%に減った。プロンプトを入力したセッションの約14%、プレイテストの19%が公開に至っている。"
+        }
+      ]
     }
   }
 }

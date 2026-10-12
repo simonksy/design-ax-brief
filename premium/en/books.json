@@ -6269,6 +6269,121 @@
           "x": "At Bloomsbury, several AI roles have been created and no one has lost a job because of AI. Newton consults ChatGPT, Gemini or Claude \"20 times a day.\" Arbuthnot expects hybrid roles such as metadata marketing specialists; Collier named critical thinking, problem solving and entrepreneurship as the key skills. Newton noted e-books stalled at around 25%–30% of sales, not the 50% he once predicted."
         }
       ]
+    },
+    "books/books-revoy-pepper-carrot-no-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "David Revoy, the artist behind the open-source webcomic Pepper&Carrot, prohibited AI-generated derivatives of his work in a license update published Oct. 8. The statement bans stories, lore, fan-fiction, scripts, comics and image renderings where AI generated or substantially replaced the development of ideas, the creative process or the visual rendering. It sits next to the CC BY (Pepper&Carrot) and CC BY-SA (MiniFantasyTheater) licenses he has used for more than a decade."
+        },
+        {
+          "t": "p",
+          "x": "The trigger was his inbox: studios, publishers, game developers and self-taught AI comic artists ask permission to build AI derivatives of his art, more than three requests a day this week. Revoy said he waited for Creative Commons to add an AI-specific option, saw no sign of it, and wrote the clause himself. As a European artist under moral rights protection, he says the blog post serves as the required assertion of those rights."
+        },
+        {
+          "t": "p",
+          "x": "He will tolerate software that accepted AI contributions, such as Linux, and AI grammar, proofreading and translation aids that correct human-authored text. AI-assisted and automatic translation of his comics stays off limits; Pepper&Carrot has hundreds of human translators working in 69 languages."
+        }
+      ]
+    },
+    "books/books-road-to-the-end-ai-prompt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+        },
+        {
+          "t": "p",
+          "x": "Readers shared an absurd scene from the physical book \"The Road to the End\": a sentence suddenly appeared in the text asking, \"Do you need me to adjust some sentences to make the overall style more consistent with the suspense and supernatural atmosphere?\" — clearly the tone of an AI assistant. In the online version, the corresponding position in chapter 80 has no such line."
+        },
+        {
+          "t": "p",
+          "x": "Tianjin Zhiyu Shiguang Cultural Media Co., Ltd., the company behind the book, apologized, saying the content was not in the manuscript: during the text reduction process, the team mistakenly included the prompt words from the proofreading software as part of the main text. Jiangsu Phoenix Literature and Art Press said responsibility became diluted across editing and proofreading handovers and the issue was not with the author. For already released books, the publisher will recall and destroy all copies, and re-edit them."
+        },
+        {
+          "t": "p",
+          "x": "AIBase calls it a warning for AI participation in publishing: as intelligent proofreading enters the workflow, the final line of manual checks matters more."
+        }
+      ]
+    },
+    "books/books-hivemind-webnovel-ai-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+          "cap": "Hivemind official website / Source: Hivemind"
+        },
+        {
+          "t": "p",
+          "x": "Web novels face higher barriers to overseas expansion than video content. Translating a long series running to hundreds of episodes into a foreign language costs more than 1000만 won (10 million won) even at low rates, and there is no guarantee of recouping the cost. Hivemind, a startup developing the global content publishing platform 'Aurorah', wants to lower this barrier through collaboration between generative AI and human translators."
+        },
+        {
+          "t": "p",
+          "x": "Writer Lee Yung-hee said, \"Even at just 10 won (10원) per character, 200 episodes cost at least 10 million won.\" Lim Heo-kyu, president of the Korea Creative Story Writers Association, said \"AI translation is a welcome breakthrough for IP expansion,\" but added that systematizing MTPE (machine translation post-editing), in which human experts review AI drafts, is essential."
+        },
+        {
+          "t": "p",
+          "x": "Aurorah's localization process runs in this order: AI first-draft translation, expert review, AI review, and a final human review. Hivemind is taking part this year in a translation technology R&D project of the Ministry of Culture, Sports and Tourism."
+        },
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+          "cap": "Kim Dong-wook, CEO of Hivemind / Source: IT Donga"
+        },
+        {
+          "t": "p",
+          "x": "CEO Kim Dong-wook stressed, \"The bigger change is making it possible to continuously commercialize works that could not be attempted because of cost barriers, and to test their viability across multiple languages and markets.\""
+        }
+      ]
+    },
+    "books/books-yuriten-10th-anniversary-ai-cancel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+          "cap": "Image via Yuriten's deleted X/Twitter post"
+        },
+        {
+          "t": "p",
+          "x": "The organizers of the Yuriten (Yuri Fair) exhibition canceled the first of Yuriten's planned 10th anniversary events, the free \"Yuriten 10th Anniversary Restart Campaign in Ikebukuro\" set for October 17 and 18 in Tokyo, after yuri manga creators criticized the event's use of AI-generated imagery in promotional material."
+        },
+        {
+          "t": "p",
+          "x": "Organizers had acknowledged using generative AI in the announcement visual, the event decorations and some other promotions. Bloom Into You creator Nio Nakatani called it confounding and disappointing; Yukiko and Yayoi Osawa also criticized it."
+        },
+        {
+          "t": "p",
+          "x": "Lilium, the company behind Yuriten, apologized, saying it contracted another company to manage and promote the event and citing shortcomings in its own vetting. It promised to strengthen oversight of outside contractors and said it will not use generative AI in future Yuriten exhibitions."
+        }
+      ]
+    },
+    "books/rosenbaum-future-of-truth-hallucinated-quotes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+        },
+        {
+          "t": "p",
+          "x": "On May 17, 2026, five days after The Future of Truth: How AI Reshapes Reality came out, New York Times reporter Ben Mullin called Steven Rosenbaum about a quote attributed to an anonymous DARPA researcher. Two days later the Times ran it on the front page: the book contained quotes made up by AI. Events were canceled and a recorded podcast was spiked."
+        },
+        {
+          "t": "p",
+          "x": "Rosenbaum says AI didn't write the book; he disclosed using it to organize research, summarize documents and refine language. The book went through five editorial rounds and more than 4,000 tracked changes, but AI \"fixed\" some quotes, and errors that read cleanly survived. A quote attributed to Kara Swisher was one she never said. \"I should have caught them. That was my responsibility, and I own it.\""
+        },
+        {
+          "t": "p",
+          "x": "His publisher, BenBella Books, had two human fact-checkers go through the manuscript line by line. They found 26 quotes that didn't hold up; each was traced to a primary source and corrected, paraphrased or removed. The Future of Truth: Truth 2.0 Revised publishes October 6 with an Author's Note and a new chapter, \"Hallucinations and Repercussions.\""
+        },
+        {
+          "t": "p",
+          "x": "He refuses to quit AI: \"Use the tools. Keep human judgment in the loop. Disclose. Verify. Correct mistakes publicly.\""
+        }
+      ]
     }
   }
 }

@@ -626,6 +626,113 @@
           "x": "저자들은 GPT-4o 이후 사례가 늘어난 시기가 이 모델의 아첨(sycophancy) 성향이 보고된 때와 겹친다고 짚었다. 다만 연구 설계상 인과관계까지 입증하지는 못한다. 정신과 진료에서 AI 사용을 정기적으로 평가할 필요가 있어 보인다는 게 이들의 결론이다."
         }
       ]
+    },
+    "medicine/medicine-medgemma-open-vlm-nature-medicine": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "의료 AI는 학습도 배포도 쉽지 않다. 데이터가 제각각이고 과제 범위가 복잡한 데다 개인정보 보호 요구도 무겁기 때문이다. 저자들이 내놓은 MedGemma는 Gemma 3 기반의 의료용 비전-언어 파운데이션 모델 모음이다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+          "cap": "Fig. 1: MedGemma 모델 개요."
+        },
+        {
+          "t": "p",
+          "x": "MedGemma는 영상과 텍스트, 여러 영상 영역을 가리지 않고 의학을 깊이 이해하고 추론한다. Gemma 기본 모델의 일반 능력은 그대로 지키면서 비슷한 크기의 생성 모델을 앞선다. 분포 밖 과제에서도 기본 모델보다 의료 영상 질의응답은 2.6–10%, 흉부 X-ray 소견 분류는 15.5–18.1%, 에이전트 평가는 10.8% 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "의료 과제라면 기본 Gemma 3보다 MedGemma를 미세조정하는 편이 나을 수 있고, 학습 데이터가 적을수록 더 그렇다. 연구팀은 SigLIP에서 파생해 의료용으로 다듬은 비전 인코더 MedSigLIP도 함께 내놓았다. MedSigLIP가 MedGemma의 시각 이해를 받쳐 주며, 성능은 여러 특화 의료 영상 인코더와 대등하거나 그 이상이다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+          "cap": "Fig. 2: MedGemma 4B의 개방형 멀티모달 질의응답 예시."
+        }
+      ]
+    },
+    "medicine/medicine-bmj-healthai-patient-data-sale": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "의료 AI 분야의 저명한 전문가가 환자 데이터를 파는 정부는 국민의 “신뢰를 저버리는” 셈이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "HealthAI 최고경영자 Ricardo Baptista Leite는 이달 초 European Health Forum Gastein 연설에서 정부가 환자 데이터를 사고팔아서는 안 되고, 그런 정부는 규탄받아야 한다고 촉구했다. HealthAI는 의료 현장에서 AI가 안전하고 책임 있게, 규제 안에서 쓰이도록 이끄는 비영리 단체다."
+        },
+        {
+          "t": "p",
+          "x": "포르투갈계 캐나다인(Portuguese-Canadian) 의사인 Leite는 AI 기업을 이끄는 “테크 브로(tech bros)”와 시민사회 사이의 지식·권력 불균형도 경고했다. 이 불균형이 건강 불평등을 키울 수 있다는 지적이다."
+        },
+        {
+          "t": "p",
+          "x": "발언이 나온 때는 NHS England가 Palantir와 맺은 보건 데이터 계약을 끝내라는 압박이 거세지던 무렵이다. 이 미국(US) 기업은 2023년 계약을 따낸 뒤 NHS의 연합 데이터 플랫폼을 운영해 왔다."
+        }
+      ]
+    },
+    "medicine/medicine-claude-genome-ashley-standards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Stanford 내과 학과장 Euan Ashley가 자신의 전체 게놈 분석을 Claude에게 맡겼다. 기준으로 삼은 건 2009년 30명 규모의 팀이 1년 가까이 Stephen Quake의 게놈을 해석할 때 쓴 프레임워크다."
+        },
+        {
+          "t": "p",
+          "x": "10년 묵은 게놈 파일인데도 Claude는 주요 소견 상당수를 다시 짚어 냈다. 알츠하이머 위험과 연관된 APOE ε4 변이 두 카피, 희귀 유전 질환과 연관된 주요 변이가 없다는 사실, 약물 반응에 영향을 주는 DPYD·CYP2C19 변이가 그렇다. 이 파일로는 믿을 만한 위험 점수를 낼 데이터가 모자란다는 경고도 Claude가 내놓았다. 작업에 든 토큰은 약 400,000개, 비용은 약 $5였다. 30분 가운데 대부분은 데이터베이스 로딩을 기다리며 보냈다."
+        },
+        {
+          "t": "p",
+          "x": "소비자가 Claude나 ChatGPT 같은 시스템에 게놈을 올리는 지금, 의료급 게놈 해석이 무엇을 담아야 하는지 기준이 있어야 한다는 게 Ashley의 주장이다. 그가 꼽은 것은 잘 규명된 참조 게놈, 염기서열 분석이 까다로운 의학적 중요 유전자 목록, 그리고 검사 기관과 AI 개발사가 자기 시스템이 무엇을 안정적으로 잡아내는지 공개하는 일이다. “그러나 오늘날 희소한 것은 신뢰성일지도 모른다.”"
+        }
+      ]
+    },
+    "medicine/medicine-patient-ai-privacy-survey-dive": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "AI는 미국인의 삶에 빠르게 파고들었다. Wolters Kluwer 의뢰로 Ipsos가 3월에 U.S. 환자 254명을 조사해 보니 응답자의 40%가 하루 한 번 이상 AI를 쓴다고 답했다. 약 4명 중 1명은 AI로 증상이나 질환을 알아본 뒤 진료를 더 일찍 받았다고 했다."
+        },
+        {
+          "t": "p",
+          "x": "그런데 의료 제공자를 찾을 때 AI를 쓰겠다는 응답은 약 30%였고, 식단·운동·수면 계획은 28%, 보험 보장 범위 확인은 19%에 그쳤다. 망설이는 이유는 신뢰다. 70% 이상이 보호 대상 건강정보의 프라이버시를 걱정했고 AI 편향(72%)과 환각(69%)을 우려하는 목소리도 있었다."
+        },
+        {
+          "t": "p",
+          "x": "대다수는 AI가 생성한(AI-generated) 건강 답변을 사람 전문가가 확인해야 한다고 했다. 절반 가까이는 건강 조언용 AI 도구도 신약처럼 연방 차원의 시험과 승인을 거쳐야 한다고 봤다."
+        }
+      ]
+    },
+    "medicine/jama-aya-cancer-risk-chatbot-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "유전성 암 소인을 지닌 청소년·청년(AYAs)은 평생 암 위험이 높은데도 그 위험을 이해하도록 돕는 모델은 없었다. 이번 무작위 임상시험은 2022년 12월부터 2025년 5월까지 Dana-Farber, Emory/Children’s Healthcare of Atlanta, University of Chicago, Utah’s Huntsman Cancer Institute에서 챗봇 기반 전자 암 위험 소통 도구 AYA Risk Information and Screening Education을 시험했다."
+        },
+        {
+          "t": "p",
+          "x": "참가자는 9개 유전성 암 소인 증후군 중 1개를 지닌 12~24세 영어 사용자였다. 챗봇은 증후군별 위험과 검진 정보를 알려 주고, 배우기, 검진 계획 세우기, 또래와 공유하기, 지지 모임과 연결하기, 대처 지원으로 성장하기를 위한 자료 페이지도 갖췄다."
+        },
+        {
+          "t": "p",
+          "x": "평가 대상 AYAs 798명 중 106명을 무작위 배정했다(챗봇 54명, 대조군 52명). 진료 후 30세까지의 암 위험을 정확히 아는 비율은 챗봇군 78%, 대조군 37%였다(OR, 3.50; P = .005). 검진 지식 향상과 고통 감소에서는 통계적으로 유의한 차이가 없었다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 진료에 맞춰 개인 맞춤형의 정확한 전자 정보를 주면 고통을 늘리지 않고도 위험 지식을 높일 수 있다고 결론 내렸다."
+        }
+      ]
     }
   }
 }

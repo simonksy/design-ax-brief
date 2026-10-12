@@ -1,87 +1,145 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "games",
   "picks": [
     {
-      "url": "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
-      "title": "How Roblox Evaluates Build Game Creation",
-      "source": "Roblox",
+      "title": "Epic Games delays Disney game and tells developers to go \"AI first\"",
+      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "published_iso": "2026-10-08T12:00:00.000Z",
-      "og_image": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png",
-      "excerpt": "Roblox details how it measures Build, its mobile-first agentic text-to-game creation tool: since the NZ alpha 100,000+ users tried it, ~9,000 games were published, and 71% of creators had never used Roblox Studio.",
-      "source_lang": "en",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Roblox's own data on Build, its agentic text-to-game tool (100k users, ~9k games, 71% new to Studio), plus how Roblox judges what it produces. Real numbers for anyone building creation tools."
+      "published_iso": "2026-10-12T19:54:58.368382+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/image002_5im69wh.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the Marvel and Star Wars…",
+      "rationale": "Major studio formally shifting production to an AI-first model, with a flagship project delayed. Biggest games-industry AI story of the day; trade-press source chosen over the IGN/Polygon copies of the same story."
     },
     {
-      "url": "https://bbs.ruliweb.com/news/read/230407",
-      "title": "14Dimension Enterprise, 게임 전용 AI 게임마스터 내장 오프라인 TRPG '일루네스의 귀환(The Return of Illunes)' Steam 정식 출시",
-      "source": "루리웹",
+      "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
+      "url": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-10-09T16:38:41+09:00",
-      "og_image": "https://i2.ruliweb.com/ori/26/10/09/1a11f984465afd4.webp",
-      "excerpt": "The Return of Illunes launched on Steam (KRW 22,500 / $19.99) with a fine-tuned AI game master bundled on-device: it writes each run's story, companion dialogue, subclasses, skills, relics and bosses, and adjudicates free-text 'free actions' with no server, subscription or per-use fee; damage and stats stay rule-bound.",
-      "source_lang": "ko",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "published_iso": "2026-10-12T15:34:17+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/Yuji-Horii-AI-game--1200x675.jpg",
+      "excerpt": "Yuji Horii released a Claude-driven adventure he says took about 30 minutes, saying AI means he no longer needs to code or draw to make a game.",
+      "rationale": "Legendary designer ships a game he says he built with Claude in 30 minutes. A concrete release, not just an opinion. Kotaku chosen from the cluster because it names the tool, and it adds a fifth outlet."
+    },
+    {
+      "title": "Square Enix re-launches 'Collective' co-publishing operation, featuring game developed with generative AI",
+      "url": "https://novacrystallis.com/2026/10/square-enix-re-launches-collective-co-publishing-operation-featuring-game-developed-with-generative-ai/",
+      "source": "Nova Crystallis",
+      "category": "games",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A released paid game whose fine-tuned LLM game master runs offline on the player's device, so there is no per-use fee. A concrete design answer to the inference-cost problem (cf. the 10-10 card on a game paying KRW 1.35M/day in AI fees)."
+      "published_iso": "2026-10-09T00:07:04+00:00",
+      "og_image": "https://novacrystallis.com/wp-content/uploads/2026/10/VB_Splash_KeyArtDragonvault_4k_Logo-1024x576.jpg",
+      "excerpt": "Today, Square Enix revealed that its publishing partnership with Vaultbreakers developer BetaDwarf will be part of a \"re-launch\" of its Square Enix Collective operation, which co-published games with…",
+      "rationale": "A major Japanese publisher relaunches its indie label around a game openly made with generative AI. It shows where publishers will accept AI-built work."
     },
     {
-      "url": "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/",
-      "title": "PSVR Exclusive 'Astro Bot Rescue Mission' Running on Quest 3 is the Latest in VR Mod Explosion",
-      "source": "Road to VR",
+      "title": "Flathub walked back their generative AI ban, replaced with a disclosure policy",
+      "url": "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/",
+      "source": "GamingOnLinux",
       "category": "games",
-      "published_iso": "2026-10-05T08:20:57+00:00",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2018/05/astrobot2.jpg",
-      "excerpt": "AI vibecoding has caused an explosion in the VR modding scene; modder Bigmak94's latest brings PSVR exclusive Astro Bot Rescue Mission to Quest 3 and PC VR.",
-      "source_lang": "en",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "A new, concrete port: AI-assisted modding brings a PSVR exclusive to Quest 3 and PC VR. Our first card on the VR mod wave."
-    },
-    {
-      "url": "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/",
-      "title": "\"It has no place in my world\": Analogue Pocket SNES emulator dev says AI-powered hack is loaded with slop code and wastes \"time and brainpower\"",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-06T21:08:17Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/amLR5AcFxnqwZ7Z7Rn5XPR-1920-80.jpg",
-      "excerpt": "The developer of the Analogue Pocket SNES emulator core criticizes an AI-generated hack of his work as full of slop code that wastes maintainers' time.",
-      "source_lang": "en",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "A new incident on a different platform (the Analogue Pocket FPGA core): a maintainer explains how much review time AI-generated forks cost open-source game projects."
+      "published_iso": "2026-10-08T07:17:57Z",
+      "og_image": "https://www.gamingonlinux.com/uploads/tagline_gallery/flathub.jpg",
+      "excerpt": "Back in May, GamingOnLinux reported how Flathub had near-enough banned generative AI for app / game submissions, but they've mostly walked it back.",
+      "rationale": "A storefront policy change: the near-ban is replaced by mandatory disclosure. This directly affects how developers who use AI can submit and label their games."
+    },
+    {
+      "title": "넷마블넥서스의 AI 코딩 도구 도입기 – 게임 개발팀의 Kiro 도입 및 활용 여정",
+      "url": "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team/",
+      "source": "AWS Korea Tech Blog",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "published_iso": "2026-10-08T11:36:25+09:00",
+      "og_image": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/08/Screenshot-2026-10-08-at-11.41.38 AM-1132x630.png",
+      "excerpt": "넷마블넥서스 게임 개발팀이 AI 코딩 도구 Kiro를 도입해 스펙 기반 개발과 코드 생성에 활용한 과정과 효과를 정리한 사례.",
+      "rationale": "A first-hand case study of a Korean game team adopting spec-driven AI coding with Kiro. This is the most practical pick for developers and adds a Korean production angle."
+    }
+  ],
+  "alternates": [
+    {
+      "title": "Tencent tests AI gaming companion that responds to live gameplay",
+      "url": "https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/",
+      "source": "TechNode",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "published_iso": "2026-09-29T06:55:27+00:00",
+      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/09/c2d3bb8ce1b9c3e5.jpg?fit=1920%2C1280&ssl=1",
+      "excerpt": "Tencent is recruiting closed-beta testers for Goose Dimension, a product described in local reports as an AI game companion. It reportedly supports voice",
+      "rationale": "Closed beta of Tencent's live-gameplay AI companion; new product, but two weeks old.",
+      "dedup": {"verdict": "new", "nearest": "", "new_action": ""}
+    },
+    {
+      "title": "Gears of War: E-Day Gets a Fan-Made Russian AI Dub",
+      "url": "https://www.voiceoverherald.com/gears-of-war-e-day-russian-ai-fan-dub/",
+      "source": "Voice Over Herald",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "published_iso": "2026-10-06T13:00:00+00:00",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/10/gears-e-day-marcus-dom.jpg",
+      "excerpt": "E-Day launches with voices in 11 languages but only subtitles in Russian. A fan project's AI dub filled the gap first, and players are split.",
+      "rationale": "A fan-made AI dub fills a missing localization for a AAA launch; a concrete AI-localization case.",
+      "dedup": {"verdict": "new", "nearest": "", "new_action": ""}
+    },
+    {
+      "title": "The happiest man in gaming hates generative AI",
+      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "published_iso": "2026-10-12T13:11:17.121952+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Tarn-Adams-Dwarf-Fortress.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Dwarf Fortress creator Tarn Adams on bloated AI-generated code, why he refuses generative AI in his work, and surviving on Steam.",
+      "rationale": "Interview with Tarn Adams of Dwarf Fortress; distinct from the Punk Games showcase story it was loosely matched to, but opinion-only.",
+      "dedup": {"verdict": "new", "nearest": "https://www.gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis/", "new_action": ""}
     }
   ],
   "dedup": {
     "checks": {
-      "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation": {
+      "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first": {
         "verdict": "new",
-        "nearest": "https://gamesbeat.com/roblox-reality-brings-greater-realism-to-roblox-graphics/",
+        "nearest": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark",
         "new_action": ""
       },
-      "https://bbs.ruliweb.com/news/read/230407": {
+      "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194": {
         "verdict": "new",
-        "nearest": "https://www.gamemeca.com/view.php?gid=1781573",
+        "nearest": "",
         "new_action": ""
       },
-      "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/": {
+      "https://novacrystallis.com/2026/10/square-enix-re-launches-collective-co-publishing-operation-featuring-game-developed-with-generative-ai/": {
         "verdict": "new",
-        "nearest": "https://www.uploadvr.com/i-had-never-built-a-vr-app-8-days-later-mine-was-on-the-quest-store/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/": {
+      "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team/": {
+        "verdict": "new",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Re-curation after the fact-check pass, published with 4 picks. REMOVED: PCGamesN 'Arc Raiders ... Celeste' (https://www.pcgamesn.com/arc-raiders/celeste-frozen-trail-update). The enrichment fetch found the card overstated the story. Diana Gardner has voiced Celeste all along, and Embark is adding full motion and facial capture to replace stiff text-to-speech delivery. The article never uses the word 'AI', so the story is about animation and performance capture, not AI. It is no longer an AI x games story, and keeping it would repeat the non-AI-pick failure mode. No replacement qualified, and the earlier dedup calls stand. Tom's Hardware 'Embark AI anti-cheat stack' is too close to the 10-11 EA Javelin AI anti-cheat card and related to the 09-28 Polygon Arc Raiders ML card. GamesRadar+ vibe-coded Bloodborne PC port is part of the running backlash over vibe-coded ports (10-09 CTR recomp, 10-10 Kotaku browser ports, 10-03 Banjo-Tooie). Tom's Hardware DLSS 5 on Pac-Man is part of the running DLSS 5 retro-mod series (10-09 DOOM, 09-26 Melee, 09-17 UNCANNY). The three PocketGamer.biz items (Nordic AI part three, 'How developers are using AI right now', the Luke Dicken interview) are surveys or commentary with no new release. GamesBeat Hive Axyl is the same story as the 09-30 Inven card. The GamesRadar+ Unity CEO piece is commentary on the 10-08 Spark card. The PC Gamer OpenAI StarCraft piece continues the running story from 09-30. The GamesBeat AI-made-game piece is an evergreen opinion column. The pool has no more fresh, unique AI x games items, so the section ships 4 rather than padding. Outlets: Roblox, Ruliweb, Road to VR, GamesRadar+ (4 distinct, 1 each)."
+    "note": "Cluster c0 (Epic AI-first): kept GamesIndustry.biz, dropped Polygon and IGN copies. Cluster c1 (Yuji Horii 30-minute AI game): kept Kotaku, dropped GamesIndustry.biz, Eurogamer, GamesRadar+ copies. Dropped Odyssey-3 (the-decoder): already published in design on 2026-10-12. Dropped PC Gamer StarCraft GPT-6 Astra cheating: same StarCraft agent benchmark already published 2026-09-30 (36kr), extra reporting with no new release. Dropped PC Gamer Warhorse 'not a get out of jail free card' and GamesRadar+ KCD2 boss AI remarks: commentary from the same Warhorse co-founder interview published 2026-09-26 (PC Gamer). Dropped Mick Gordon and Dawnwalker actor pieces as opinion-only with no new event. Tarn Adams interview held as alternate (opinion; history_match to Punk Games showcase is a different story). Diversity: 5 picks from 5 distinct outlets."
   }
 }

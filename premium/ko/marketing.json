@@ -778,6 +778,135 @@
           "x": "HUMAN은 봇·에이전트 탐지 서비스를 파는 회사다. 수치는 자사 플랫폼 데이터이고 독립적인 측정 자료는 인용하지 않았다."
         }
       ]
+    },
+    "marketing/marketing-google-ads-ai-goals-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google이 AI로 Google Ads 캠페인의 목표와 애셋을 제안하는 기능을 시험한다. Google도 현재 진행 중인 테스트라고 확인했다."
+        },
+        {
+          "t": "p",
+          "x": "Dima가 올린 Google Ads 광고주 콘솔 스크린샷에는 \"What's your goal for this campaign?\"라는 문구와 함께 \"Google AI will suggest goals and assets based on your input\"이라는 안내가 보인다. Dima는 이 스크린샷을 X에 게시했다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+        },
+        {
+          "t": "p",
+          "x": "큰 입력란에 목표를 적으면 된다. 원치 않으면 \"Create campaign manually.\" 링크를 눌러 직접 만들면 된다."
+        },
+        {
+          "t": "p",
+          "x": "Google의 Ads Liaison인 Ginny Marvin은 X에서 테스트가 맞다고 확인하며 \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\"라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "짐작하겠지만 Google은 곳곳에 AI를 밀어 넣는 중이다."
+        }
+      ]
+    },
+    "marketing/marketing-olyzon-ctv-four-dsps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+          "cap": "Olyzon 에이전트는 바이어가 정한 상한 안에서 DSPs 네 곳의 CTV 예산을 옮긴다. 발표에 수치는 없다"
+        },
+        {
+          "t": "p",
+          "x": "파리 기업 Olyzon이 2026년 10월 7일 Advertising Week New York에서 에이전틱 오케스트레이션 플랫폼을 정식 상용 출시했다. 소프트웨어 에이전트가 The Trade Desk, Amazon DSP, DV360, Yahoo DSP를 넘나들며 집행 중인 캠페인 예산의 계획부터 활성화, 재배분까지 맡는다. 바이어는 지금 쓰는 시트와 도구, 직거래를 버리지 않아도 된다."
+        },
+        {
+          "t": "p",
+          "x": "예산 한도와 승인 규칙은 사람이 정하고 에이전트는 그 안에서 움직인다. Olyzon은 \"예산은 집행 중에 성과가 나는 쪽으로 이동하며, 바이어가 통제하는 상한과 승인 기준 안에서 전체 감사 로그와 함께 움직인다\"고 설명했다. 직접 게재 주문(insertion order)은 이메일 에이전트가 변경안 초안을 쓰고 발송은 바이어가 한다."
+        },
+        {
+          "t": "p",
+          "x": "공동 창업자 겸 CEO Jules Minvielle은 \"파편화의 고통이 가장 큰 곳이 CTV라서 CTV부터 시작한다\"며 \"오케스트레이션은 에이전트가 하고, 결정은 사람이 내린다\"고 말했다. Method1에 따르면 이 에이전트는 이제 크로스 플랫폼 예산, 입찰, bundle ID 결정 같은 \"Level 1 optimizations\"를 처리한다."
+        },
+        {
+          "t": "p",
+          "x": "발표문에는 성과 수치도, 프로토콜도, 가격도, 브랜드 고객사도 없다. 파트너 목록마저 부제와 본문, 회사 소개문마다 다르다."
+        }
+      ]
+    },
+    "marketing/marketing-thg-criteo-ai-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "THG Ingenuity 계열사 THG Commerce가 Google Cloud의 Gemini Enterprise로 만든 AI Shopping Assistant에 Criteo Sponsored Products를 통합했다. THG Commerce는 자사가 Criteo Sponsored Products를 AI 대화형 검색에 들여온 유럽 첫 커머스 기술 기업이라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "이제 한 대화 안에 스폰서 상품 추천과 일반 상품 추천이 나란히 뜬다. 초기 결과를 보면 비서에 노출된 스폰서 상품은 클릭률이 평균의 다섯 배, 전환율이 평균의 두 배를 넘었다."
+        },
+        {
+          "t": "p",
+          "x": "비서는 대화마다 키워드와 필터를 뽑아 맞춤형 상품 추천으로 바꾼다. 키워드 매칭, 의미 이해, 엄격한 관련성 기준을 포함한 Criteo의 관련성 모델이 대화 맥락에도 그대로 적용된다. 그래서 스폰서 추천은 쇼핑객의 요청에 맞을 때만, 분명한 표시를 달고 나타난다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+        },
+        {
+          "t": "p",
+          "x": "THG Ingenuity의 Chief Revenue Officer인 Darren Rajanah는 “고객은 대화로 쇼핑 여정을 시작한다... 이는 리테일러가 가질 수 있는 가장 구매 의도가 높은 트래픽 가운데 하나이며, 지금까지는 대부분 리테일 미디어 밖에 있었다”고 말했다."
+        }
+      ]
+    },
+    "marketing/marketing-meta-idle-inference-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
+        },
+        {
+          "t": "p",
+          "x": "추론 플릿에는 용량의 역설이 있다. 전체로는 빠듯한데 곳곳에 적지 않은 유휴 용량이 남는다. Meta는 이 자투리를 모아 공유 기회형 용량 풀로 묶고 추가 용량 주문 없이 더 나은 광고 추천으로 바꾸는 시스템을 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "이 용량은 거의 예고 없이 회수되기도 해서 Meta는 두 가지 탄력성 레버를 쓴다. Rank More Ads(RMA)는 랭킹 단계에서 평가하는 후보 수를 조정한다. Serve Better Models(SBM)는 더 강력한 모델로 보내는 요청 비율을 조정한다."
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "RMA에는 CPU와 가속기 용량이 모두 필요하지만 SBM은 가속기만 남은 잉여 용량으로도 돌아간다. 기본 서빙은 물리적·논리적 격리로 보호하고 PID 컨트롤러가 꼬리 지연 시간을 보며 후보 규모를 조정한다. 용량이 회수되면 서버와 클라이언트의 가치 인식형 부하 차단이 밀리초 단위로 반응한다."
+        },
+        {
+          "t": "p",
+          "x": "다음 단계로 Meta는 두 레버를 확장하고 사전 계산 탄력성을 개발한다. 리전 간 추론을 넓히고 AI 추론 용량을 자동 배분하는 최적화 기반 시스템도 구축할 계획이다."
+        }
+      ]
+    },
+    "marketing/meta-muse-ad-accounts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta는 2026년 9월 29일, 3주 전 출시한 개인용 AI 에이전트 Muse를 미국·캐나다 소상공인용으로 넓혔다. Muse for Small Business에는 Facebook Pages, Instagram 프로페셔널 계정 분석, Meta 광고 계정이 붙고, Shopify, Intuit QuickBooks, Klaviyo, Stripe, Canva 등 외부 도구 커넥터 15개도 들어갔다. Meta는 \"당신의 승인 없이는 아무것도 게시하거나 보내거나 지출하지 않는다\"고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "광고주가 눈여겨볼 대목은 광고 계정이다. 지난 4월 Claude와 ChatGPT에 열린 광고 MCP 서버 같은 기존 연동은 외부 모델을 Meta 인터페이스로 끌어와야 했다. 이번엔 모델도 에이전트도 앱도 광고 계정도 모두 Meta 것이다. 광고 계정 접근이 읽기 전용인지, 예산·입찰가·소재까지 바꿀 수 있는지, 커넥터 데이터가 Meta 광고 시스템과 분리되는지는 발표문에 없다."
+        },
+        {
+          "t": "p",
+          "x": "수치로 나온 성과는 테스터 한 명의 사례뿐이다. 식료품점 주인 Tom Mulholland는 Muse 덕분에 급여 처리 시간이 최소 15분 줄었다고 했다. Muse는 대부분 용도에서 무료이고 구독 요금제도 있지만, Meta는 가격을 밝히지 않았다. Meta의 2026년 Q2 매출은 608억 달러였고, 97% 이상이 광고에서 나왔다."
+        }
+      ]
     }
   }
 }

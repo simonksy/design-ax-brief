@@ -1,31 +1,32 @@
 {
- "date": "2026-10-12",
- "section": "gadgets",
- "media": [
-  {
-   "id": "raspberry-pi-29mb-ai-model",
-   "type": "image",
-   "src": "pipeline/media/raspberry-pi-29mb-ai-model.jpg"
-  },
-  {
-   "id": "verge-local-ai-hermes-qwen-diary",
-   "type": "image",
-   "src": "pipeline/media/verge-local-ai-hermes-qwen-diary.jpg"
-  },
-  {
-   "id": "ibuypower-ai-halo-minipc",
-   "type": "image",
-   "src": "pipeline/media/ibuypower-ai-halo-minipc.jpg"
-  },
-  {
-   "id": "humanoid-robot-rental-exchanges",
-   "type": "image",
-   "src": "pipeline/media/humanoid-robot-rental-exchanges.jpg"
-  },
-  {
-   "id": "siri-ai-vs-gemini-column",
-   "type": "image",
-   "src": "pipeline/media/siri-ai-vs-gemini-column.jpg"
-  }
- ]
+  "date": "2026-10-13",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "gadgets-fitbit-edge-launch",
+      "type": "video",
+      "src": "pipeline/media/gadgets-fitbit-edge-launch.mp4",
+      "poster": "pipeline/media/gadgets-fitbit-edge-launch.jpg"
+    },
+    {
+      "id": "gadgets-translate-transcript-autosave",
+      "type": "image",
+      "src": "pipeline/media/gadgets-translate-transcript-autosave.jpg"
+    },
+    {
+      "id": "gadgets-googlebook-os-review",
+      "type": "image",
+      "src": "pipeline/media/gadgets-googlebook-os-review.jpg"
+    },
+    {
+      "id": "gadgets-mechrevo-x10-ai-ssd",
+      "type": "image",
+      "src": "pipeline/media/gadgets-mechrevo-x10-ai-ssd.png"
+    },
+    {
+      "id": "gadgets-meta-wonder-full",
+      "type": "image",
+      "src": "pipeline/media/gadgets-meta-wonder-full.jpg"
+    }
+  ]
 }

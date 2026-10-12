@@ -1,26 +1,32 @@
 {
- "date": "2026-10-12",
- "section": "music",
- "media": [
-  {
-   "id": "google-synthid-public-detector",
-   "type": "image",
-   "src": "pipeline/media/google-synthid-public-detector.jpg"
-  },
-  {
-   "id": "biff-ai-entrance-song-intent",
-   "type": "image",
-   "src": "pipeline/media/biff-ai-entrance-song-intent.jpg"
-  },
-  {
-   "id": "smorph-playable-sound-morphing",
-   "type": "image",
-   "src": "pipeline/media/smorph-playable-sound-morphing.png"
-  },
-  {
-   "id": "artist-identity-song-model-encoder",
-   "type": "image",
-   "src": "pipeline/media/artist-identity-song-model-encoder.png"
-  }
- ]
+  "date": "2026-10-13",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-tencent-musicbuddy",
+      "type": "image",
+      "src": "pipeline/media/music-tencent-musicbuddy.jpg"
+    },
+    {
+      "id": "music-claude-yamaha-cs80-patches",
+      "type": "video",
+      "src": "pipeline/media/music-claude-yamaha-cs80-patches.mp4",
+      "poster": "pipeline/media/music-claude-yamaha-cs80-patches.jpg"
+    },
+    {
+      "id": "music-instagram-dm-ai-songs",
+      "type": "image",
+      "src": "pipeline/media/music-instagram-dm-ai-songs.jpg"
+    },
+    {
+      "id": "music-livesynth-streaming-neural-synth",
+      "type": "image",
+      "src": "pipeline/media/music-livesynth-streaming-neural-synth.png"
+    },
+    {
+      "id": "music-suno-new-autotune-viral-artists",
+      "type": "image",
+      "src": "pipeline/media/music-suno-new-autotune-viral-artists.jpg"
+    }
+  ]
 }

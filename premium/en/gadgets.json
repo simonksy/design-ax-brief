@@ -7548,6 +7548,151 @@
           "x": "Exposing my bedtime script lets me ask it to “shut down the house,” and it can handle commands with exceptions like “Turn off the lights, but leave the bathroom light on.” Simple requests still go to Home Assistant's native commands. Local LLMs are more useful outside a chat box."
         }
       ]
+    },
+    "gadgets/gadgets-translate-transcript-autosave": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+          "cap": "Google Translate home screen"
+        },
+        {
+          "t": "p",
+          "x": "Google Translate has been testing an “Auto-save transcript” toggle in Live Translate settings for mobile users. Update, October 12, 2026: Google is rolling out the auto-save transcript option for Live Translate with Google Translate v10.39.34.995726622.4."
+        },
+        {
+          "t": "p",
+          "x": "Android Authority's September 29 teardown found that transcript saving will be completely disabled when smart glasses are connected and in use, to protect privacy. Users will be able to use voice commands to start translation on smart glasses, while a swipe on the touchpad will end the session."
+        }
+      ]
+    },
+    "gadgets/gadgets-googlebook-os-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "All attempts to bring the lessons and benefits of the touch era to PCs have failed, from Windows 8 to the era after the iPad when the Mac gained fullscreen apps. After using Googlebook OS for over a week, 9to5Google's reviewer sees the beginnings of a desktop OS for the Android smartphone generation, but a rough first take."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+        },
+        {
+          "t": "p",
+          "x": "Googlebook OS looks like ChromeOS on the surface but feels like Android. Chrome is built on the Android version, with extensions, vertical tabs and the full Gemini in Chrome side panel, but it feels barebones for 1.0."
+        },
+        {
+          "t": "p",
+          "x": "Magic Pointer is basically the Gemini overlay on phones, and Circle to Search ships too, making two similar features. The more useful AI feature is Rambler voice dictation on the F13 key, while Create My Widget brings generative UI: “the future of computing.”"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "The decade-old app gap remains largely unfixed and missing features like Linux app support are steps back from ChromeOS. Still, there are no fatal flaws for the general user and no foundational issues that can't be remedied in future updates."
+        }
+      ]
+    },
+    "gadgets/gadgets-mechrevo-x10-ai-ssd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+          "cap": "Mechrevo's new mini-PC can use its SSD to run AI models"
+        },
+        {
+          "t": "p",
+          "x": "Chinese PC manufacturer Mechrevo is preparing the Master Road X10, a mini PC primarily designed for running large AI models locally. It uses Nvidia's RTX Spark platform: a 20-core Grace CPU, a Blackwell GPU with up to 6,144 CUDA cores and up to 128 GB of LPDDR5X unified memory."
+        },
+        {
+          "t": "p",
+          "x": "Its proprietary AI SSD can offload portions of large AI models from DRAM to NAND flash and preserve and reuse previously processed context. Mechrevo claims this lets the X10 run models with 80 billion, 120 billion and even 122 billion parameters while maintaining responsive performance. The SSD capacity hasn't been specified."
+        },
+        {
+          "t": "p",
+          "x": "In September, the company claimed its AI SSD could increase supported model workloads by up to 5.7 times and accelerate the prefill stage by as much as 95%."
+        },
+        {
+          "t": "p",
+          "x": "Mechrevo has not published detailed benchmarks, quantisation settings or test conditions, and NAND flash is considerably slower than DRAM. Pricing and release date remain unknown."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-wonder-full": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it’s now launching two new models it claims can go toe-to-toe with the industry’s best."
+        },
+        {
+          "t": "p",
+          "x": "The new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said."
+        },
+        {
+          "t": "p",
+          "x": "Meta says it eventually plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it “can bring to everyone using Muse.” It hasn’t shared specifics or provided a timeline for either."
+        },
+        {
+          "t": "p",
+          "x": "The company says its new models can rival leading models from OpenAI and Anthropic, including GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5.1, pointing to results from internal testing on several industry benchmarks. It’s unclear how they stack up against Google’s Gemini 4 Argon, whose capabilities are still coming into focus."
+        },
+        {
+          "t": "p",
+          "x": "The launches are part of Meta’s aggressive push to reestablish itself as a major force in AI. The company has poured billions into talent and infrastructure and has been steadily expanding its AI lineup, including with image model Muse Image and a heavy focus on bringing useful AI agents to the masses through Muse."
+        }
+      ]
+    },
+    "gadgets/raspberry-pi-29mb-ai-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "XDA's Ayush Pande has run plenty of small LLMs on his Raspberry Pi 5, but the Cactus Compute Needle 3 is different: with some Python tinkering, this slim model needs barely a few MBs to turn the SBC into an automation beast — no AI HAT required."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "A Python script for controlling a smart plug"
+        },
+        {
+          "t": "p",
+          "x": "Needle 3 consumes a maximum of 29MB because it ditches general chat. It focuses on machine-level tasks — calling tools, converting unstructured data into JSON, and generating vectors from text — and its sliceable ladder architecture lets you pick subnetworks from 2 to 20 layers depending on the hardware."
+        },
+        {
+          "t": "p",
+          "x": "On an 8GB Raspberry Pi 5 running DietPi, setup was a few pip installs and a needle build with all 20 layers. (It wouldn't build on a first-gen Pi Zero, which uses the unsupported ARMv6 architecture.)"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "Running Cactus Compute Needle 3"
+        },
+        {
+          "t": "p",
+          "x": "Paired with Home Assistant through a custom Python tool file, Needle 3 understood a prompt to turn on a smart plug and the device came online immediately, at a decode rate of 280.2 tokens/s and a prefill rate of 996.4 tokens/s."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "Creating a Python script to control a remote Docker node"
+        },
+        {
+          "t": "p",
+          "x": "The tools are highly customizable — smart devices, ESP32 sensors, document analysis or Docker control. Writing them takes effort, but the performance more than makes up for it."
+        }
+      ]
     }
   }
 }

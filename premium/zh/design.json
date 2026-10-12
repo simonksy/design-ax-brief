@@ -7385,6 +7385,167 @@
           "x": "Bhowmick的答案是否定的：合成用户只能用来扩大已完成的人类UX研究的规模，绝不能作为关键产品决策的唯一依据。"
         }
       ]
+    },
+    "design/design-figma-wp-blueprint-claude-code": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+        },
+        {
+          "t": "p",
+          "x": "我做了 figma-wp-blueprint，这是一套 Claude Code 技能，用于把 Figma 设计转换成定制的 WordPress 主题。"
+        },
+        {
+          "t": "p",
+          "x": "粘贴一个 Figma URL，它会："
+        },
+        {
+          "t": "p",
+          "x": "• 提取颜色、字体、间距和断点"
+        },
+        {
+          "t": "p",
+          "x": "• 将每个区块构建为 ACF Flexible Content 布局（字段、PHP 模板、作用域 CSS）"
+        },
+        {
+          "t": "p",
+          "x": "• 用 /pixel-check 在每个断点上将结果与 Figma 对比测量"
+        },
+        {
+          "t": "p",
+          "x": "• 每次只处理一个功能，各自使用独立的 Git 分支，并在提交前征求你的批准"
+        },
+        {
+          "t": "p",
+          "x": "最终得到的是一个使用纯 CSS 和 vanilla JS 的经典 PHP 主题：没有页面构建器，没有 jQuery，也没有构建步骤。"
+        },
+        {
+          "t": "p",
+          "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 欢迎反馈！"
+        }
+      ]
+    },
+    "design/design-ai-clients-pixel-pushers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Emily Foran 是创意总监、平面设计师，也是 AIGA Maine 的主席。一年来，没有客户请她从头提出原创想法。“新老客户都会把让 Claude 或 ChatGPT 做出来的垃圾模型发给我，然后让我要么把它收拾干净，要么直接拿来用，”她说。她觉得自己更像是“像素工”，而不是创意人。"
+        },
+        {
+          "t": "p",
+          "x": "Fast Company 采访了十几位平面设计师，她是其中之一。他们表示，过去 18 个月里，生成式 AI 彻底改变了他们与上司、客户和工作的关系。客户要求降低报价，一些设计师被裁员并被告知 AI 会取代他们，还有人得到的指导无异于“去问 ChatGPT”。"
+        },
+        {
+          "t": "p",
+          "x": "设计师们说，AI-rendered 图像意味着后期工作更多。“过去一小时能做完的事，现在可能要花三小时，”一位 Boston 设计师说。Premier Designs 的 Michele Kasl 表示，客户如今期待更短的工期：“坦白说，我们因此丢了生意。”Rock Pixel Scissors 的 Robert Lodi 为 AI-built 模型增加了重新设计环节：“我还没见过哪一个能通过无障碍测试。”"
+        },
+        {
+          "t": "p",
+          "x": "市场营销设计师 Erik 被告知“直接问 ChatGPT 就行”，在 AI 使用问题上发生冲突后最终丢了工作；Alan Peters 的团队被裁，取而代之的是一项在线 AI 服务。Foran 说，年轻设计师正在离开这个行业，因为“一直没有机会”。"
+        }
+      ]
+    },
+    "design/design-accessibility-agent-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+          "cap": "同一个页面，两类读者。智能体从不看你设计的界面，它读取的是底层结构。"
+        },
+        {
+          "t": "p",
+          "x": "你的网站迎来了一种新的访客。它读取的是页面的精简模型，即无障碍树——二十年来浏览器一直为屏幕阅读器构建的同一种结构。2026年6月上旬，Cloudflare报告称，网络上的自动化流量首次超过人类流量，在页面请求中约占57%，人类约占43%。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+          "cap": "各厂商的切入点各不相同。"
+        },
+        {
+          "t": "p",
+          "x": "智能体可以读取截图、原始HTML或无障碍树。Claude in Chrome的read_page工具优先读取无障碍树；Microsoft的Playwright MCP基于结构化的无障碍快照运行；OpenAI则告诉网站所有者，Atlas借助ARIA标签来理解页面结构。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+          "cap": "在CHI 2026上发表的A11y-CUA研究"
+        },
+        {
+          "t": "p",
+          "x": "在A11y-CUA研究中，Claude Sonnet 4.5在60项日常任务中，正常访问时完成约78%，仅用键盘时完成42%，放大视口下完成百分之二十八。如果键盘用户无法完成某项任务，智能体通常也做不到。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+          "cap": "The WebAIM Million"
+        },
+        {
+          "t": "p",
+          "x": "WebAIM发现，排名前一百万的网站首页中有95.9%存在可检测的WCAG问题，高于此前的94.8%，并指出AI-assisted编码可能是原因之一。解决办法是原生HTML、合乎逻辑的标题与地标、有名称的控件、替代文本、带标签的字段以及可播报的状态——先从智能体必须执行操作的流程做起。"
+        }
+      ]
+    },
+    "design/design-iris-3b-pixel-space": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Iris 3B 是 Spirit Labs 推出的 3B 参数图像生成模型，它直接在像素空间中绘制图像，跳过了包括 Flux 和 Qwen Image 在内的几乎所有现代图像生成器都依赖的变分自编码器（VAE）和潜在空间步骤。"
+        },
+        {
+          "t": "p",
+          "x": "它用冻结的 Qwen3-VL 4B 编码器加一个小型文本适配器对文本提示进行编码，然后把带噪图像直接切成 16x16 像素的图块。主干由八个“双流”块和随后的十六个“单流”块组成，再由四个较小的块把每个图块还原为原始像素值。"
+        },
+        {
+          "t": "p",
+          "x": "这种做法似乎在编织纹理、皮肤质感和根根分明的胡须等细节上见效。代价是速度：据称每张图像需要一到三分钟。VRAM 占用不到 28 GB，与 Flux 和 Qwen Image 相当。"
+        },
+        {
+          "t": "p",
+          "x": "同一模型经过不同的微调，还能完成深度估计和图像放大。但它在人物的文化与族裔特征上表现不足：要求生成澳大利亚原住民长者的提示，得到的面孔看起来并不像澳大利亚原住民；要求生成库纳法的提示，结果更接近果仁蜜饼。"
+        }
+      ]
+    },
+    "design/odyssey-3-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "California-based AI公司Odyssey推出了世界模型Odyssey-3的公开研究预览版。用户可以通过文本提示生成互动环境并实时探索；开发者可以申请API访问权限。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+        },
+        {
+          "t": "p",
+          "x": "免费在线演示基于Odyssey-3 Flash运行。用户可选择第一人称或第三人称视角，在世界中移动、触发事件并观察模型的反应。它基于自回归扩散Transformer，训练数据包括互联网视频、配有键盘和鼠标输入的游戏画面以及模拟物理。基础模型有14B 参数，输出832 × 480视频；Odyssey-3 Pro支持1280 × 720。"
+        },
+        {
+          "t": "p",
+          "x": "Odyssey-3 Pro在Physics-IQ Verified上的66.1分来自单次运行，且每项任务都从八段视频中挑选一段；不做这种挑选时，四次运行的平均分为63.37。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+          "cap": "截图来自Odyssey"
+        },
+        {
+          "t": "p",
+          "x": "Odyssey希望用同一个模型驱动机械臂、无人机和游戏角色，并展示了它玩GTA V的画面。公司由Oliver Cameron和Jeff Hawke于2023年创立，2026年6月融资$310 million。"
+        }
+      ]
     }
   }
 }

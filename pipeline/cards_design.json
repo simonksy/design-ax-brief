@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "design",
   "cards": [
     {
-      "id": "odyssey-3-world-model",
+      "id": "design-world-creator-4-mcp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Odyssey-3, 문장을\n실시간 인터랙티브 세계로",
-      "body": "Odyssey-3는 텍스트로 인터랙티브 환경을 실시간 만드는 14B 월드 모델이다.",
-      "mini_headline": "Odyssey-3 공개 프리뷰 시작",
+      "headline": "지형 툴 신버전이 행성과\nMCP 서버까지 품는다",
+      "body": "World Creator 4에 행성 생성과 AI용 MCP 서버가 들어간다.",
+      "mini_headline": "World Creator 4, MCP 탑재",
       "tool": "KeyShot",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/10/bitethebytes-unveils-world-creator-4/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -19,227 +19,245 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
           },
           {
             "t": "p",
-            "x": "California-based AI 기업 Odyssey가 월드 모델 Odyssey-3의 공개 리서치 프리뷰를 열었다. 텍스트 프롬프트로 인터랙티브 환경을 만들어 실시간으로 돌아다닐 수 있고, 개발자는 API 접근을 신청하면 된다."
-          },
-          {
-            "t": "video",
-            "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-          },
-          {
-            "t": "p",
-            "x": "무료 온라인 데모는 Odyssey-3 Flash로 돌아간다. 일인칭이나 삼인칭 시점을 고르고 세계 안을 움직이며 이벤트를 일으키면 모델이 그에 반응한다. 바탕은 자기회귀 디퓨전 트랜스포머로, 인터넷 영상과 키보드·마우스 입력이 짝지어진 게임 화면, 물리 시뮬레이션으로 학습했다. 기본 모델은 14B 파라미터 규모에 832 × 480 영상을 내고, Odyssey-3 Pro는 1280 × 720까지 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "Odyssey-3 Pro가 Physics-IQ Verified에서 받은 66.1점은 과제마다 영상 여덟 개 중 하나를 골라 낸 단 한 번의 실행 결과다. 선별 없이 네 번 돌린 평균은 63.37이었다."
+            "x": "BiteTheBytes가 GPU-based 지형 생성 소프트웨어 World Creator 4를 공개했다. 게임 개발, 모션 그래픽, VFX 작업에 쓰는 이 툴의 차기 메이저 버전이다. 다음 달 나오는 이번 버전은 코어 아키텍처를 새로 짜서 일반 지형부터 행성 전체 환경까지 다룰 수 있다."
           },
           {
             "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-            "cap": "Odyssey 제공 스크린샷"
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
           },
           {
             "t": "p",
-            "x": "Odyssey는 같은 모델로 로봇 팔과 드론, 게임 캐릭터까지 움직일 계획이고, 모델이 GTA V를 플레이하는 영상도 공개했다. 2023년 Oliver Cameron과 Jeff Hawke가 세운 회사로, 2026년 6월 $310 million을 유치했다."
+            "x": "새 아키텍처의 바탕은 BiteTheBytes의 Cloddy SDK다. “완전히 GPU-driven 방식의 행성 지형 파이프라인”을 제공하도록 손본 버전이다. 높이·분포 데이터는 구체에 매핑할 수 있는 형식으로 내보낸다. 렌더 이미지는 9GB 용량의 USGS DEM 화성 모델로 만들었고, BiteTheBytes는 이 모델을 World Creator 안에서 실시간으로 탐색할 수 있다고 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+          },
+          {
+            "t": "p",
+            "x": "레이어 시스템을 보완할 노드 뷰가 새로 들어간다. “예전 레벨 단계 시스템 없이 하이트필드를 직접 스컬프팅”하는 기능, 절차적 침식과 물·모래 퇴적을 다루는 새 모델, 110가지가 넘는 절차적 노이즈 유형도 더해진다. 새 폴리곤 기반 렌더러는 “패스 트레이싱과 함께 일반적인 실시간 게임 렌더링”을 제공하고, 두 렌더러 모두 DLSS 4.5를 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "배치 처리 시스템과 통합 MCP 서버도 실려서 Claude, ChatGPT 같은 외부 AI 도구로 World Creator를 제어할 수 있다. 그동안 Windows-only였던 소프트웨어가 이제 macOS와 Linux에서도 돌아간다."
+          },
+          {
+            "t": "p",
+            "x": "World Creator 4는 2026년 11월에 나올 예정이다. BiteTheBytes가 발표한 가격 변경은 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Odyssey-3 turns prompts into\nlive interactive worlds",
-          "body": "Odyssey-3, a 14-billion-parameter world model, generates interactive environments from text prompts in real time.",
-          "mini_headline": "Odyssey-3 opens to the public",
+          "headline": "World Creator 4 adds planets\nand a built-in MCP server",
+          "body": "World Creator 4 adds planet creation, node-based authoring, a real-time renderer and an MCP server for AI tools.",
+          "mini_headline": "World Creator 4 adds MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "California-based AI company Odyssey has launched a public research preview of its world model Odyssey-3. Users can generate interactive environments from text prompts and explore them in real time; developers can apply for API access."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-              },
-              {
-                "t": "p",
-                "x": "The free online demo runs on Odyssey-3 Flash. Users pick a first- or third-person view, move through the world, trigger events and watch the model respond. It is built on an autoregressive diffusion transformer trained on internet video, game footage paired with keyboard and mouse inputs, and simulated physics. The base model has 14 billion parameters and outputs 832 × 480 video; Odyssey-3 Pro supports 1280 × 720."
-              },
-              {
-                "t": "p",
-                "x": "Odyssey-3 Pro's 66.1 on Physics-IQ Verified comes from a single run that picked one of eight videos per task; without that selection it averaged 63.37 over four runs."
+                "x": "BiteTheBytes has unveiled World Creator 4, the next major version of its GPU-based terrain-generation software for game development, motion graphics and VFX work. The release, due next month, will introduce a new core architecture, enabling the software to scale from generating conventional terrain to complete planetary environments."
               },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-                "cap": "Screenshot via Odyssey"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odyssey wants the same model to drive robot arms, drones and game characters, and showed it playing GTA V. Founded in 2023 by Oliver Cameron and Jeff Hawke, it raised $310 million in June 2026."
+                "x": "The new architecture is powered by BiteTheBytes’ Cloddy SDK, updated to provide a “fully GPU-driven planetary terrain pipeline”. Height and distribution data can be exported in a format that can be mapped onto a sphere; the render is based on a 9GB USGS DEM model of Mars, which BiteTheBytes says is navigable in real time inside World Creator."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "A new node view supplements the layer system, alongside “direct heightfield sculpting without the old level step system”, new models for procedural erosion, water and sand deposition, and over 110 procedural noise types. A new polygon-based renderer brings “conventional real-time game rendering alongside path tracing”, and both renderers support DLSS 4.5."
+              },
+              {
+                "t": "p",
+                "x": "The release will also feature a batch processing system and an integrated MCP server, making it possible to control World Creator with external AI tools like Claude and ChatGPT. The formerly Windows-only software is coming to macOS and Linux."
+              },
+              {
+                "t": "p",
+                "x": "World Creator 4 is due for release in November 2026. BiteTheBytes hasn’t announced any price changes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Odyssey-3, 문장을\n실시간 인터랙티브 세계로",
-          "body": "Odyssey-3는 텍스트로 인터랙티브 환경을 실시간 만드는 14B 월드 모델이다.",
-          "mini_headline": "Odyssey-3 공개 프리뷰 시작",
+          "headline": "지형 툴 신버전이 행성과\nMCP 서버까지 품는다",
+          "body": "World Creator 4에 행성 생성과 AI용 MCP 서버가 들어간다.",
+          "mini_headline": "World Creator 4, MCP 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "California-based AI 기업 Odyssey가 월드 모델 Odyssey-3의 공개 리서치 프리뷰를 열었다. 텍스트 프롬프트로 인터랙티브 환경을 만들어 실시간으로 돌아다닐 수 있고, 개발자는 API 접근을 신청하면 된다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-              },
-              {
-                "t": "p",
-                "x": "무료 온라인 데모는 Odyssey-3 Flash로 돌아간다. 일인칭이나 삼인칭 시점을 고르고 세계 안을 움직이며 이벤트를 일으키면 모델이 그에 반응한다. 바탕은 자기회귀 디퓨전 트랜스포머로, 인터넷 영상과 키보드·마우스 입력이 짝지어진 게임 화면, 물리 시뮬레이션으로 학습했다. 기본 모델은 14B 파라미터 규모에 832 × 480 영상을 내고, Odyssey-3 Pro는 1280 × 720까지 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "Odyssey-3 Pro가 Physics-IQ Verified에서 받은 66.1점은 과제마다 영상 여덟 개 중 하나를 골라 낸 단 한 번의 실행 결과다. 선별 없이 네 번 돌린 평균은 63.37이었다."
+                "x": "BiteTheBytes가 GPU-based 지형 생성 소프트웨어 World Creator 4를 공개했다. 게임 개발, 모션 그래픽, VFX 작업에 쓰는 이 툴의 차기 메이저 버전이다. 다음 달 나오는 이번 버전은 코어 아키텍처를 새로 짜서 일반 지형부터 행성 전체 환경까지 다룰 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-                "cap": "Odyssey 제공 스크린샷"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odyssey는 같은 모델로 로봇 팔과 드론, 게임 캐릭터까지 움직일 계획이고, 모델이 GTA V를 플레이하는 영상도 공개했다. 2023년 Oliver Cameron과 Jeff Hawke가 세운 회사로, 2026년 6월 $310 million을 유치했다."
+                "x": "새 아키텍처의 바탕은 BiteTheBytes의 Cloddy SDK다. “완전히 GPU-driven 방식의 행성 지형 파이프라인”을 제공하도록 손본 버전이다. 높이·분포 데이터는 구체에 매핑할 수 있는 형식으로 내보낸다. 렌더 이미지는 9GB 용량의 USGS DEM 화성 모델로 만들었고, BiteTheBytes는 이 모델을 World Creator 안에서 실시간으로 탐색할 수 있다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "레이어 시스템을 보완할 노드 뷰가 새로 들어간다. “예전 레벨 단계 시스템 없이 하이트필드를 직접 스컬프팅”하는 기능, 절차적 침식과 물·모래 퇴적을 다루는 새 모델, 110가지가 넘는 절차적 노이즈 유형도 더해진다. 새 폴리곤 기반 렌더러는 “패스 트레이싱과 함께 일반적인 실시간 게임 렌더링”을 제공하고, 두 렌더러 모두 DLSS 4.5를 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "배치 처리 시스템과 통합 MCP 서버도 실려서 Claude, ChatGPT 같은 외부 AI 도구로 World Creator를 제어할 수 있다. 그동안 Windows-only였던 소프트웨어가 이제 macOS와 Linux에서도 돌아간다."
+              },
+              {
+                "t": "p",
+                "x": "World Creator 4는 2026년 11월에 나올 예정이다. BiteTheBytes가 발표한 가격 변경은 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Odyssey-3、文章を\nリアルタイムの対話型世界に",
-          "body": "Odyssey-3は14B の世界モデルで、テキストから対話型環境をリアルタイム生成する。",
-          "mini_headline": "Odyssey-3が一般公開",
+          "headline": "地形生成の新版が惑星対応\nMCPサーバーも内蔵",
+          "body": "World Creator 4は惑星生成とAIツール向けMCPサーバーを追加する。",
+          "mini_headline": "World Creator 4がMCP対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "California-basedのAI企業Odysseyが、世界モデルOdyssey-3の公開リサーチプレビューを開始した。ユーザーはテキストプロンプトから対話型の環境を生成し、リアルタイムで探索できる。開発者はAPIアクセスを申請できる。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-              },
-              {
-                "t": "p",
-                "x": "無料のオンラインデモはOdyssey-3 Flashで動作する。ユーザーは一人称か三人称の視点を選び、世界を移動し、イベントを起こし、モデルの反応を確かめられる。基盤は、インターネット動画、キーボードとマウスの入力を組み合わせたゲーム映像、物理シミュレーションで学習した自己回帰型拡散トランスフォーマーだ。ベースモデルは14B パラメータで832 × 480の映像を出力し、Odyssey-3 Proは1280 × 720に対応する。"
-              },
-              {
-                "t": "p",
-                "x": "Odyssey-3 ProのPhysics-IQ Verifiedでのスコア66.1は、タスクごとに八本の動画から一本を選んだ単一の実行によるものだ。この選別をしない場合、四回の実行の平均は63.37だった。"
+                "x": "BiteTheBytesは、ゲーム開発やモーショングラフィックス、VFX向けのGPU-based地形生成ソフトの次期メジャーバージョン、World Creator 4を発表した。来月リリース予定の新版は新しいコアアーキテクチャを導入し、従来の地形生成から惑星全体の環境まで扱えるようになる。"
               },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-                "cap": "スクリーンショット:Odyssey提供"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odysseyは同じモデルでロボットアームやドローン、ゲームキャラクターを動かすことを目指しており、GTA Vをプレイする様子も披露した。2023年にOliver CameronとJeff Hawkeが創業し、2026年6月に$310 millionを調達した。"
+                "x": "新アーキテクチャを支えるのは、「完全にGPU-drivenな惑星地形パイプライン」を提供するよう更新されたBiteTheBytesのCloddy SDKだ。高さと分布のデータは球体にマッピングできる形式で書き出せる。レンダー画像は9GB のUSGS DEMによる火星モデルを基にしたもので、BiteTheBytesによればWorld Creator内でリアルタイムに操作できるという。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "レイヤーシステムを補う新しいノードビューに加え、「旧来のレベルステップ方式を使わない直接的なハイトフィールドスカルプト」、プロシージャルな侵食や水・砂の堆積の新モデル、110種類を超えるプロシージャルノイズが加わる。新しいポリゴンベースのレンダラーは「パストレーシングと並ぶ従来型のリアルタイムゲームレンダリング」をもたらし、両レンダラーともDLSS 4.5に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "バッチ処理システムと統合MCPサーバーも備え、ClaudeやChatGPTといった外部のAIツールからWorld Creatorを操作できる。これまでWindows-onlyだったソフトはmacOSとLinuxにも対応する。"
+              },
+              {
+                "t": "p",
+                "x": "World Creator 4は2026年11月にリリース予定だ。BiteTheBytesは価格改定を発表していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Odyssey-3把提示词\n变成实时互动世界",
-          "body": "Odyssey-3是一款14B 参数的世界模型，能根据文本提示实时生成互动环境。",
-          "mini_headline": "Odyssey-3向公众开放",
+          "headline": "地形软件新版支持行星\n并内置MCP服务器",
+          "body": "World Creator 4 新增行星生成、实时渲染器和面向AI工具的MCP服务器。",
+          "mini_headline": "World Creator 4 加入MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "California-based AI公司Odyssey推出了世界模型Odyssey-3的公开研究预览版。用户可以通过文本提示生成互动环境并实时探索；开发者可以申请API访问权限。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-              },
-              {
-                "t": "p",
-                "x": "免费在线演示基于Odyssey-3 Flash运行。用户可选择第一人称或第三人称视角，在世界中移动、触发事件并观察模型的反应。它基于自回归扩散Transformer，训练数据包括互联网视频、配有键盘和鼠标输入的游戏画面以及模拟物理。基础模型有14B 参数，输出832 × 480视频；Odyssey-3 Pro支持1280 × 720。"
-              },
-              {
-                "t": "p",
-                "x": "Odyssey-3 Pro在Physics-IQ Verified上的66.1分来自单次运行，且每项任务都从八段视频中挑选一段；不做这种挑选时，四次运行的平均分为63.37。"
+                "x": "BiteTheBytes 发布了 World Creator 4，这是其面向游戏开发、动态图形和 VFX 工作的 GPU-based 地形生成软件的下一个主要版本。新版将于下个月推出，引入全新核心架构，使软件能够从生成常规地形扩展到完整的行星环境。"
               },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-                "cap": "截图来自Odyssey"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odyssey希望用同一个模型驱动机械臂、无人机和游戏角色，并展示了它玩GTA V的画面。公司由Oliver Cameron和Jeff Hawke于2023年创立，2026年6月融资$310 million。"
+                "x": "新架构由 BiteTheBytes 的 Cloddy SDK 驱动，该 SDK 经过更新，可提供“完全 GPU-driven 的行星地形管线”。高度和分布数据可以导出为能映射到球体上的格式；示意渲染基于 9GB 的 USGS DEM 火星模型，BiteTheBytes 表示该模型可在 World Creator 中实时浏览。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "新的节点视图对图层系统形成补充，同时加入“无需旧式层级步进系统的直接高度场雕刻”、新的程序化侵蚀与水、沙沉积模型，以及超过 110 种程序化噪波类型。新的基于多边形的渲染器带来“与路径追踪并行的常规实时游戏渲染”，两种渲染器均支持 DLSS 4.5。"
+              },
+              {
+                "t": "p",
+                "x": "新版还将提供批处理系统和集成的 MCP 服务器，可通过 Claude、ChatGPT 等外部 AI 工具控制 World Creator。此前 Windows-only 的这款软件也将登陆 macOS 和 Linux。"
+              },
+              {
+                "t": "p",
+                "x": "World Creator 4 预计于 2026 年 11 月发布。BiteTheBytes 尚未宣布任何价格调整。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Odyssey-3 convierte prompts en\nmundos interactivos en vivo",
-          "body": "Odyssey-3, modelo de mundo de 14 mil millones de parámetros, genera entornos interactivos desde texto en tiempo real.",
-          "mini_headline": "Odyssey-3 se abre al público",
+          "headline": "World Creator 4 suma planetas\ny un servidor MCP integrado",
+          "body": "World Creator 4 añade creación de planetas, un renderizador en tiempo real y un servidor MCP para herramientas de AI.",
+          "mini_headline": "World Creator 4 incorpora MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odyssey, empresa de AI California-based, ha lanzado una vista previa pública de investigación de su modelo de mundo Odyssey-3. Los usuarios pueden generar entornos interactivos a partir de prompts de texto y explorarlos en tiempo real; los desarrolladores pueden solicitar acceso a la API."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-              },
-              {
-                "t": "p",
-                "x": "La demo gratuita en línea funciona con Odyssey-3 Flash. Los usuarios eligen una vista en primera o tercera persona, se mueven por el mundo, desencadenan eventos y observan cómo responde el modelo. Se basa en un transformer de difusión autorregresivo entrenado con video de internet, imágenes de juegos emparejadas con entradas de teclado y ratón, y física simulada. El modelo base tiene 14 mil millones de parámetros y genera video de 832 × 480; Odyssey-3 Pro admite 1280 × 720."
-              },
-              {
-                "t": "p",
-                "x": "El 66.1 de Odyssey-3 Pro en Physics-IQ Verified proviene de una sola ejecución que eligió uno de ocho videos por tarea; sin esa selección, promedió 63.37 en cuatro ejecuciones."
+                "x": "BiteTheBytes ha presentado World Creator 4, la próxima versión principal de su software de generación de terrenos GPU-based para desarrollo de videojuegos, motion graphics y trabajos de VFX. La versión, prevista para el próximo mes, introducirá una nueva arquitectura central que permitirá al software pasar de generar terrenos convencionales a entornos planetarios completos."
               },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-                "cap": "Captura de pantalla vía Odyssey"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odyssey quiere que el mismo modelo controle brazos robóticos, drones y personajes de videojuegos, y lo mostró jugando a GTA V. Fundada en 2023 por Oliver Cameron y Jeff Hawke, recaudó 310 millones de dólares en junio de 2026."
+                "x": "La nueva arquitectura se apoya en el Cloddy SDK de BiteTheBytes, actualizado para ofrecer un “pipeline de terreno planetario totalmente GPU-driven”. Los datos de altura y distribución pueden exportarse en un formato que se puede mapear sobre una esfera; el render se basa en un modelo USGS DEM de Marte de 9GB, que según BiteTheBytes puede recorrerse en tiempo real dentro de World Creator."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Una nueva vista de nodos complementa el sistema de capas, junto con “escultura directa de heightfields sin el antiguo sistema de pasos por niveles”, nuevos modelos de erosión procedural y deposición de agua y arena, y más de 110 tipos de ruido procedural. Un nuevo renderizador basado en polígonos aporta “renderizado convencional de juegos en tiempo real junto con path tracing”, y ambos renderizadores admiten DLSS 4.5."
+              },
+              {
+                "t": "p",
+                "x": "La versión también incluirá un sistema de procesamiento por lotes y un servidor MCP integrado, que permitirá controlar World Creator con herramientas de AI externas como Claude y ChatGPT. El software, hasta ahora Windows-only, llegará a macOS y Linux."
+              },
+              {
+                "t": "p",
+                "x": "World Creator 4 saldrá en noviembre de 2026. BiteTheBytes no ha anunciado cambios de precio."
               }
             ]
           }
@@ -247,157 +265,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Odyssey-3, 문장을\n실시간 인터랙티브 세계로",
-          "body": "Odyssey-3는 텍스트로 인터랙티브 환경을 실시간 만드는 14B 월드 모델이다.",
-          "mini_headline": "Odyssey-3 공개 프리뷰 시작",
+          "headline": "지형 툴 신버전, 행성과\nMCP 서버까지 품다",
+          "body": "World Creator 4가 행성 생성과 AI용 MCP 서버를 더한다.",
+          "mini_headline": "World Creator 4, MCP 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "California-based AI 기업 Odyssey가 월드 모델 Odyssey-3의 공개 리서치 프리뷰를 시작했다. 사용자는 텍스트 프롬프트로 인터랙티브 환경을 만들고 실시간으로 탐색할 수 있으며, 개발자는 API 접근을 신청할 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-              },
-              {
-                "t": "p",
-                "x": "무료 온라인 데모는 Odyssey-3 Flash로 돌아간다. 사용자는 일인칭 또는 삼인칭 시점을 고른 뒤 세계 안을 움직이고, 이벤트를 일으키고, 모델의 반응을 지켜본다. 모델은 인터넷 영상, 키보드·마우스 입력과 짝지은 게임 화면, 물리 시뮬레이션으로 학습한 자기회귀 디퓨전 트랜스포머를 기반으로 한다. 기본 모델은 14B 파라미터 규모로 832 × 480 영상을 출력하고, Odyssey-3 Pro는 1280 × 720을 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "Odyssey-3 Pro가 Physics-IQ Verified에서 기록한 66.1점은 과제마다 영상 여덟 개 중 하나를 고른 단 한 번의 실행 결과다. 이런 선별 없이 네 차례 실행한 평균은 63.37이었다."
+                "x": "BiteTheBytes가 게임 개발, 모션 그래픽, VFX 작업용 GPU-based 지형 생성 소프트웨어의 차기 메이저 버전인 World Creator 4를 공개했다. 다음 달 나오는 이번 버전은 새 코어 아키텍처를 도입해 일반 지형 생성에서 행성 전체 환경까지 규모를 키울 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-                "cap": "Odyssey 제공 스크린샷"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odyssey는 같은 모델로 로봇 팔, 드론, 게임 캐릭터까지 움직이려 하며, 모델이 GTA V를 플레이하는 모습도 공개했다. 2023년 Oliver Cameron과 Jeff Hawke가 세운 이 회사는 2026년 6월 $310 million을 유치했다."
+                "x": "새 아키텍처는 “완전히 GPU-driven 방식의 행성 지형 파이프라인”을 제공하도록 업데이트한 BiteTheBytes의 Cloddy SDK를 기반으로 한다. 높이·분포 데이터는 구체에 매핑할 수 있는 형식으로 내보낼 수 있다. 렌더 이미지는 9GB 용량의 USGS DEM 화성 모델을 바탕으로 하며, BiteTheBytes는 이 모델을 World Creator 안에서 실시간으로 탐색할 수 있다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "레이어 시스템을 보완하는 새 노드 뷰가 들어가고, “예전 레벨 단계 시스템 없이 하이트필드를 직접 스컬프팅”하는 기능, 절차적 침식과 물·모래 퇴적을 위한 새 모델, 110가지가 넘는 절차적 노이즈 유형이 더해진다. 새 폴리곤 기반 렌더러는 “패스 트레이싱과 함께 일반적인 실시간 게임 렌더링”을 제공하며, 두 렌더러 모두 DLSS 4.5를 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "배치 처리 시스템과 통합 MCP 서버도 탑재해 Claude, ChatGPT 같은 외부 AI 도구로 World Creator를 제어할 수 있다. 그동안 Windows-only였던 이 소프트웨어는 macOS와 Linux도 지원하게 된다."
+              },
+              {
+                "t": "p",
+                "x": "World Creator 4는 2026년 11월 출시 예정이다. BiteTheBytes는 가격 변경을 발표하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Odyssey-3、文章を\nリアルタイムの対話型世界に",
-          "body": "Odyssey-3は14B の世界モデルで、テキストから対話型環境をリアルタイム生成する。",
-          "mini_headline": "Odyssey-3が一般公開",
+          "headline": "地形生成の新版が惑星対応\nMCPサーバーも内蔵",
+          "body": "World Creator 4は惑星生成とAIツール向けMCPサーバーを追加する。",
+          "mini_headline": "World Creator 4がMCP対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "California-basedのAI企業Odysseyが、世界モデルOdyssey-3の公開リサーチプレビューを開始した。ユーザーはテキストプロンプトから対話型の環境を生成し、リアルタイムで探索できる。開発者はAPIアクセスを申請できる。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-              },
-              {
-                "t": "p",
-                "x": "無料のオンラインデモはOdyssey-3 Flashで動作する。ユーザーは一人称か三人称の視点を選び、世界を移動し、イベントを起こし、モデルの反応を確かめられる。基盤は、インターネット動画、キーボードとマウスの入力を組み合わせたゲーム映像、物理シミュレーションで学習した自己回帰型拡散トランスフォーマーだ。ベースモデルは14B パラメータで832 × 480の映像を出力し、Odyssey-3 Proは1280 × 720に対応する。"
-              },
-              {
-                "t": "p",
-                "x": "Odyssey-3 ProのPhysics-IQ Verifiedでのスコア66.1は、タスクごとに八本の動画から一本を選んだ単一の実行によるものだ。この選別をしない場合、四回の実行の平均は63.37だった。"
+                "x": "BiteTheBytesは、ゲーム開発やモーショングラフィックス、VFX向けのGPU-based地形生成ソフトの次期メジャーバージョン、World Creator 4を発表した。来月リリース予定の新版は新しいコアアーキテクチャを導入し、従来の地形生成から惑星全体の環境まで扱えるようになる。"
               },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-                "cap": "スクリーンショット:Odyssey提供"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odysseyは同じモデルでロボットアームやドローン、ゲームキャラクターを動かすことを目指しており、GTA Vをプレイする様子も披露した。2023年にOliver CameronとJeff Hawkeが創業し、2026年6月に$310 millionを調達した。"
+                "x": "新アーキテクチャを支えるのは、「完全にGPU-drivenな惑星地形パイプライン」を提供するよう更新されたBiteTheBytesのCloddy SDKだ。高さと分布のデータは球体にマッピングできる形式で書き出せる。レンダー画像は9GB のUSGS DEMによる火星モデルを基にしたもので、BiteTheBytesによればWorld Creator内でリアルタイムに操作できるという。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "レイヤーシステムを補う新しいノードビューに加え、「旧来のレベルステップ方式を使わない直接的なハイトフィールドスカルプト」、プロシージャルな侵食や水・砂の堆積の新モデル、110種類を超えるプロシージャルノイズが加わる。新しいポリゴンベースのレンダラーは「パストレーシングと並ぶ従来型のリアルタイムゲームレンダリング」をもたらし、両レンダラーともDLSS 4.5に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "バッチ処理システムと統合MCPサーバーも備え、ClaudeやChatGPTといった外部のAIツールからWorld Creatorを操作できる。これまでWindows-onlyだったソフトはmacOSとLinuxにも対応する。"
+              },
+              {
+                "t": "p",
+                "x": "World Creator 4は2026年11月にリリース予定だ。BiteTheBytesは価格改定を発表していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Odyssey-3把提示词\n变成实时互动世界",
-          "body": "Odyssey-3是一款14B 参数的世界模型，能根据文本提示实时生成互动环境。",
-          "mini_headline": "Odyssey-3向公众开放",
+          "headline": "地形软件新版支持行星\n并内置MCP服务器",
+          "body": "World Creator 4 新增行星生成、实时渲染器和面向AI工具的MCP服务器。",
+          "mini_headline": "World Creator 4 加入MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "California-based AI公司Odyssey推出了世界模型Odyssey-3的公开研究预览版。用户可以通过文本提示生成互动环境并实时探索；开发者可以申请API访问权限。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-              },
-              {
-                "t": "p",
-                "x": "免费在线演示基于Odyssey-3 Flash运行。用户可选择第一人称或第三人称视角，在世界中移动、触发事件并观察模型的反应。它基于自回归扩散Transformer，训练数据包括互联网视频、配有键盘和鼠标输入的游戏画面以及模拟物理。基础模型有14B 参数，输出832 × 480视频；Odyssey-3 Pro支持1280 × 720。"
-              },
-              {
-                "t": "p",
-                "x": "Odyssey-3 Pro在Physics-IQ Verified上的66.1分来自单次运行，且每项任务都从八段视频中挑选一段；不做这种挑选时，四次运行的平均分为63.37。"
+                "x": "BiteTheBytes 发布了 World Creator 4，这是其面向游戏开发、动态图形和 VFX 工作的 GPU-based 地形生成软件的下一个主要版本。新版将于下个月推出，引入全新核心架构，使软件能够从生成常规地形扩展到完整的行星环境。"
               },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-                "cap": "截图来自Odyssey"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odyssey希望用同一个模型驱动机械臂、无人机和游戏角色，并展示了它玩GTA V的画面。公司由Oliver Cameron和Jeff Hawke于2023年创立，2026年6月融资$310 million。"
+                "x": "新架构由 BiteTheBytes 的 Cloddy SDK 驱动，该 SDK 经过更新，可提供“完全 GPU-driven 的行星地形管线”。高度和分布数据可以导出为能映射到球体上的格式；示意渲染基于 9GB 的 USGS DEM 火星模型，BiteTheBytes 表示该模型可在 World Creator 中实时浏览。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "新的节点视图对图层系统形成补充，同时加入“无需旧式层级步进系统的直接高度场雕刻”、新的程序化侵蚀与水、沙沉积模型，以及超过 110 种程序化噪波类型。新的基于多边形的渲染器带来“与路径追踪并行的常规实时游戏渲染”，两种渲染器均支持 DLSS 4.5。"
+              },
+              {
+                "t": "p",
+                "x": "新版还将提供批处理系统和集成的 MCP 服务器，可通过 Claude、ChatGPT 等外部 AI 工具控制 World Creator。此前 Windows-only 的这款软件也将登陆 macOS 和 Linux。"
+              },
+              {
+                "t": "p",
+                "x": "World Creator 4 预计于 2026 年 11 月发布。BiteTheBytes 尚未宣布任何价格调整。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Odyssey-3 convierte prompts en\nmundos interactivos en vivo",
-          "body": "Odyssey-3, modelo de mundo de 14 mil millones de parámetros, genera entornos interactivos desde texto en tiempo real.",
-          "mini_headline": "Odyssey-3 se abre al público",
+          "headline": "World Creator 4 suma planetas\ny un servidor MCP integrado",
+          "body": "World Creator 4 añade creación de planetas, un renderizador en tiempo real y un servidor MCP para herramientas de AI.",
+          "mini_headline": "World Creator 4 incorpora MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odyssey, empresa de AI California-based, ha lanzado una vista previa pública de investigación de su modelo de mundo Odyssey-3. Los usuarios pueden generar entornos interactivos a partir de prompts de texto y explorarlos en tiempo real; los desarrolladores pueden solicitar acceso a la API."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
-              },
-              {
-                "t": "p",
-                "x": "La demo gratuita en línea funciona con Odyssey-3 Flash. Los usuarios eligen una vista en primera o tercera persona, se mueven por el mundo, desencadenan eventos y observan cómo responde el modelo. Se basa en un transformer de difusión autorregresivo entrenado con video de internet, imágenes de juegos emparejadas con entradas de teclado y ratón, y física simulada. El modelo base tiene 14 mil millones de parámetros y genera video de 832 × 480; Odyssey-3 Pro admite 1280 × 720."
-              },
-              {
-                "t": "p",
-                "x": "El 66.1 de Odyssey-3 Pro en Physics-IQ Verified proviene de una sola ejecución que eligió uno de ocho videos por tarea; sin esa selección, promedió 63.37 en cuatro ejecuciones."
+                "x": "BiteTheBytes ha presentado World Creator 4, la próxima versión principal de su software de generación de terrenos GPU-based para desarrollo de videojuegos, motion graphics y trabajos de VFX. La versión, prevista para el próximo mes, introducirá una nueva arquitectura central que permitirá al software pasar de generar terrenos convencionales a entornos planetarios completos."
               },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
-                "cap": "Captura de pantalla vía Odyssey"
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
               },
               {
                 "t": "p",
-                "x": "Odyssey quiere que el mismo modelo controle brazos robóticos, drones y personajes de videojuegos, y lo mostró jugando a GTA V. Fundada en 2023 por Oliver Cameron y Jeff Hawke, recaudó 310 millones de dólares en junio de 2026."
+                "x": "La nueva arquitectura se apoya en el Cloddy SDK de BiteTheBytes, actualizado para ofrecer un “pipeline de terreno planetario totalmente GPU-driven”. Los datos de altura y distribución pueden exportarse en un formato que se puede mapear sobre una esfera; el render se basa en un modelo USGS DEM de Marte de 9GB, que según BiteTheBytes puede recorrerse en tiempo real dentro de World Creator."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Una nueva vista de nodos complementa el sistema de capas, junto con “escultura directa de heightfields sin el antiguo sistema de pasos por niveles”, nuevos modelos de erosión procedural y deposición de agua y arena, y más de 110 tipos de ruido procedural. Un nuevo renderizador basado en polígonos aporta “renderizado convencional de juegos en tiempo real junto con path tracing”, y ambos renderizadores admiten DLSS 4.5."
+              },
+              {
+                "t": "p",
+                "x": "La versión también incluirá un sistema de procesamiento por lotes y un servidor MCP integrado, que permitirá controlar World Creator con herramientas de AI externas como Claude y ChatGPT. El software, hasta ahora Windows-only, llegará a macOS y Linux."
+              },
+              {
+                "t": "p",
+                "x": "World Creator 4 saldrá en noviembre de 2026. BiteTheBytes no ha anunciado cambios de precio."
               }
             ]
           }
@@ -405,225 +435,285 @@
       }
     },
     {
-      "id": "nngroup-context-libraries",
+      "id": "design-figma-wp-blueprint-claude-code",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 파워 유저는\n컨텍스트 관리에 소홀하다",
-      "body": "NN/g에 따르면 Claude 파워 유저는 컨텍스트 파일을 방치하고 찾지도 못한다.",
-      "mini_headline": "방치된 컨텍스트 파일",
+      "headline": "Figma URL이 곧\nWordPress 테마로",
+      "body": "Figma URL을 Claude Code 스킬이 WordPress 테마로 바꾼다.",
+      "mini_headline": "Claude로 Figma를 WordPress로",
       "tool": "Figma",
-      "source": "Nielsen Norman Group",
-      "url": "https://www.nngroup.com/articles/context-libraries/",
+      "source": "DEV Community",
+      "url": "https://dev.to/saidmounaim/from-a-figma-url-to-a-custom-wordpress-theme-with-claude-code-4p9a",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "Claude 파워 유저는 컨텍스트 파일을 좀처럼 고치지 않고, 어디 뒀는지 못 찾는 일도 잦다. NN/g 연구 참가자들은 프롬프트보다 컨텍스트 라이브러리 설계에 더 공을 들였다. 다만 저마다 즉흥적으로 방식을 만들어 썼고, 파일은 낡거나 사라졌다."
-          },
-          {
             "t": "img",
-            "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-            "cap": "사용자는 프롬프트를 더 단순하게 쓰고, 컨텍스트 라이브러리를 참조·갱신하는 일은 에이전트에 맡긴다."
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
           },
           {
             "t": "p",
-            "x": "컨텍스트 라이브러리는 AI 에이전트가 참조하고 고칠 수 있는 조직·절차 지식을 모아 둔 것으로, markdown 파일이나 외부 소프트웨어에 담긴다. 연구에서 얻은 교훈은 네 가지다. 컨텍스트는 꾸준히 관리해야 한다. 파일에 직접 입력한 사람이 거의 없었으니 갱신은 에이전트에 맡기는 편이 낫다. 라이브러리는 찾기 쉽게 짜야 한다. 에이전트에는 꼭 필요한 컨텍스트만 준다."
+            "x": "figma-wp-blueprint를 만들었다. Figma 디자인을 커스텀 WordPress 테마로 바꿔 주는 Claude Code 스킬 모음이다."
           },
           {
             "t": "p",
-            "x": "한 참가자는 2,700개가 넘는 컨텍스트 파일을 관리하며 폴더마다 CLAUDE.md \"색인 카드\"를 두고 불러오는 양을 최소로 줄였다. \"옆으로 가려면 먼저 위나 아래로 움직여야 한다.\""
-          },
-          {
-            "t": "img",
-            "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-            "cap": "계층 구조의 폴더마다 CLAUDE.md 색인 파일이 따로 있다."
+            "x": "Figma URL을 붙여 넣으면 다음 작업이 돌아간다."
           },
           {
             "t": "p",
-            "x": "플랫폼이 큐레이션 전략을 떠맡기 전까지는 사용자가 그 일을 해야 한다."
+            "x": "• 색상, 폰트, 간격, 브레이크포인트를 뽑아낸다"
+          },
+          {
+            "t": "p",
+            "x": "• 각 섹션을 ACF Flexible Content 레이아웃(필드, PHP 템플릿, 범위 지정 CSS)으로 만든다"
+          },
+          {
+            "t": "p",
+            "x": "• /pixel-check로 브레이크포인트마다 결과물을 Figma와 맞대어 잰다"
+          },
+          {
+            "t": "p",
+            "x": "• 기능은 한 번에 하나씩 각자의 Git 브랜치에서 작업하고, 커밋 전에 승인을 요청한다"
+          },
+          {
+            "t": "p",
+            "x": "결과물은 순수 CSS와 vanilla JS로 만든 클래식 PHP 테마다. 페이지 빌더도, jQuery도, 빌드 단계도 없다."
+          },
+          {
+            "t": "p",
+            "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 피드백 기다린다!"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI power users rarely tend\ntheir context libraries",
-          "body": "NN/g research finds Claude power users rarely edit their context files and often cannot even find them.",
-          "mini_headline": "Context files left untended",
+          "headline": "A Figma URL becomes a custom\nWordPress theme via Claude Code",
+          "body": "A developer built figma-wp-blueprint, a set of Claude Code skills that turn a Figma design URL into a WordPress theme.",
+          "mini_headline": "Figma to WordPress via Claude",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Claude power users rarely edit their context files and often can't find them. In NN/g's study, participants spent more effort engineering context libraries than crafting prompts, yet each had improvised a bespoke process, and files went stale or missing."
-              },
-              {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-                "cap": "Users write simpler prompts, relying on the agent to reference and update the context library."
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
               },
               {
                 "t": "p",
-                "x": "A context library is a collection of institutional and procedural knowledge, in markdown files or external software, that AI agents may reference and edit. Four lessons emerged: context needs ongoing maintenance; let the agent update context for you, since almost nobody typed directly into their files; structure the library for findability; and give agents only the context they need."
+                "x": "I built figma-wp-blueprint, a set of Claude Code skills for turning a Figma design into a custom WordPress theme."
               },
               {
                 "t": "p",
-                "x": "One participant kept over 2,700 context files with a CLAUDE.md \"index card\" in each folder, engineered to load as little as possible: \"It must move up or down before it can move sideways.\""
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-                "cap": "Each folder in the hierarchy has its own CLAUDE.md index file."
+                "x": "Paste a Figma URL and it:"
               },
               {
                 "t": "p",
-                "x": "Until platforms take on curation strategy themselves, that work falls to users."
+                "x": "• extracts colors, fonts, spacing, and breakpoints"
+              },
+              {
+                "t": "p",
+                "x": "• builds each section as an ACF Flexible Content layout (fields, PHP template, scoped CSS)"
+              },
+              {
+                "t": "p",
+                "x": "• measures the result against Figma at every breakpoint with /pixel-check"
+              },
+              {
+                "t": "p",
+                "x": "• works one feature at a time, on its own Git branch, and asks for your approval before committing"
+              },
+              {
+                "t": "p",
+                "x": "The result is a classic PHP theme with pure CSS and vanilla JS: no page builder, no jQuery, no build step."
+              },
+              {
+                "t": "p",
+                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — Feedback welcome!"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 파워 유저는\n컨텍스트 관리에 소홀하다",
-          "body": "NN/g에 따르면 Claude 파워 유저는 컨텍스트 파일을 방치하고 찾지도 못한다.",
-          "mini_headline": "방치된 컨텍스트 파일",
+          "headline": "Figma URL이 곧\nWordPress 테마로",
+          "body": "Figma URL을 Claude Code 스킬이 WordPress 테마로 바꾼다.",
+          "mini_headline": "Claude로 Figma를 WordPress로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Claude 파워 유저는 컨텍스트 파일을 좀처럼 고치지 않고, 어디 뒀는지 못 찾는 일도 잦다. NN/g 연구 참가자들은 프롬프트보다 컨텍스트 라이브러리 설계에 더 공을 들였다. 다만 저마다 즉흥적으로 방식을 만들어 썼고, 파일은 낡거나 사라졌다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-                "cap": "사용자는 프롬프트를 더 단순하게 쓰고, 컨텍스트 라이브러리를 참조·갱신하는 일은 에이전트에 맡긴다."
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
               },
               {
                 "t": "p",
-                "x": "컨텍스트 라이브러리는 AI 에이전트가 참조하고 고칠 수 있는 조직·절차 지식을 모아 둔 것으로, markdown 파일이나 외부 소프트웨어에 담긴다. 연구에서 얻은 교훈은 네 가지다. 컨텍스트는 꾸준히 관리해야 한다. 파일에 직접 입력한 사람이 거의 없었으니 갱신은 에이전트에 맡기는 편이 낫다. 라이브러리는 찾기 쉽게 짜야 한다. 에이전트에는 꼭 필요한 컨텍스트만 준다."
+                "x": "figma-wp-blueprint를 만들었다. Figma 디자인을 커스텀 WordPress 테마로 바꿔 주는 Claude Code 스킬 모음이다."
               },
               {
                 "t": "p",
-                "x": "한 참가자는 2,700개가 넘는 컨텍스트 파일을 관리하며 폴더마다 CLAUDE.md \"색인 카드\"를 두고 불러오는 양을 최소로 줄였다. \"옆으로 가려면 먼저 위나 아래로 움직여야 한다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-                "cap": "계층 구조의 폴더마다 CLAUDE.md 색인 파일이 따로 있다."
+                "x": "Figma URL을 붙여 넣으면 다음 작업이 돌아간다."
               },
               {
                 "t": "p",
-                "x": "플랫폼이 큐레이션 전략을 떠맡기 전까지는 사용자가 그 일을 해야 한다."
+                "x": "• 색상, 폰트, 간격, 브레이크포인트를 뽑아낸다"
+              },
+              {
+                "t": "p",
+                "x": "• 각 섹션을 ACF Flexible Content 레이아웃(필드, PHP 템플릿, 범위 지정 CSS)으로 만든다"
+              },
+              {
+                "t": "p",
+                "x": "• /pixel-check로 브레이크포인트마다 결과물을 Figma와 맞대어 잰다"
+              },
+              {
+                "t": "p",
+                "x": "• 기능은 한 번에 하나씩 각자의 Git 브랜치에서 작업하고, 커밋 전에 승인을 요청한다"
+              },
+              {
+                "t": "p",
+                "x": "결과물은 순수 CSS와 vanilla JS로 만든 클래식 PHP 테마다. 페이지 빌더도, jQuery도, 빌드 단계도 없다."
+              },
+              {
+                "t": "p",
+                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 피드백 기다린다!"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIパワーユーザーは\nコンテキスト管理を怠る",
-          "body": "NN/gによれば、Claudeの熟練者は文脈ファイルをほぼ編集せず、所在も見失いがちだ。",
-          "mini_headline": "放置されるコンテキストファイル",
+          "headline": "Figma URLから\nWordPressテーマへ",
+          "body": "Claude Codeのスキルで、Figma URLをWordPressテーマに変える。",
+          "mini_headline": "ClaudeでFigmaからWordPressへ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Claudeのパワーユーザーはコンテキストファイルをほとんど編集せず、見つけられないことも多い。NN/gの調査では、参加者はプロンプト作成よりもコンテキストライブラリの設計に力を注いでいたが、各自が場当たり的に独自のやり方を作っており、ファイルは古くなったり行方不明になったりしていた。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-                "cap": "ユーザーはより簡潔なプロンプトを書き、コンテキストライブラリの参照と更新はエージェントに任せる。"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
               },
               {
                 "t": "p",
-                "x": "コンテキストライブラリとは、markdownファイルや外部ソフトウェアに収めた組織的・手続き的な知識の集まりで、AIエージェントが参照・編集できる。調査からは四つの教訓が得られた。コンテキストには継続的な手入れが要る。ファイルに直接書き込む人はほぼいなかったので、更新はエージェントに任せるとよい。見つけやすいようにライブラリを構造化する。エージェントには必要なコンテキストだけを渡す。"
+                "x": "Figmaのデザインを独自のWordPressテーマに変換するClaude Codeスキル集、figma-wp-blueprintを作った。"
               },
               {
                 "t": "p",
-                "x": "ある参加者は2,700を超えるコンテキストファイルを抱え、各フォルダにCLAUDE.mdの「索引カード」を置いて、読み込む量が最小になるよう設計していた。「横に動く前に、まず上か下に動かなければならない」"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-                "cap": "階層内の各フォルダに専用のCLAUDE.mdインデックスファイルがある。"
+                "x": "Figma URLを貼り付けると、次の処理を行う。"
               },
               {
                 "t": "p",
-                "x": "プラットフォームがキュレーション戦略を自ら担うようになるまで、その仕事はユーザーの肩にかかる。"
+                "x": "• 色、フォント、余白、ブレークポイントを抽出する"
+              },
+              {
+                "t": "p",
+                "x": "• 各セクションをACF Flexible Contentのレイアウト(フィールド、PHPテンプレート、スコープ付きCSS)として構築する"
+              },
+              {
+                "t": "p",
+                "x": "• /pixel-checkで、すべてのブレークポイントにおいて結果をFigmaと照合・計測する"
+              },
+              {
+                "t": "p",
+                "x": "• 機能を一つずつ、それぞれ専用のGitブランチで作業し、コミット前に承認を求める"
+              },
+              {
+                "t": "p",
+                "x": "成果物は純粋なCSSとvanilla JSによるクラシックなPHPテーマだ。ページビルダーもjQueryもビルド工程も使わない。"
+              },
+              {
+                "t": "p",
+                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — フィードバック歓迎だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI重度用户很少\n打理上下文库",
-          "body": "NN/g研究发现，Claude重度用户很少编辑上下文文件，甚至常常找不到它们。",
-          "mini_headline": "上下文文件无人打理",
+          "headline": "Figma URL变身\nWordPress定制主题",
+          "body": "开发者打造Claude Code技能，可将Figma URL转为WordPress主题。",
+          "mini_headline": "用Claude把Figma转为WordPress",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Claude重度用户很少编辑自己的上下文文件，还常常找不到它们。在NN/g的研究中，参与者花在构建上下文库上的精力多于编写提示词，但每个人都临时拼凑出一套自己的流程，文件随之过时或丢失。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-                "cap": "用户写的提示词更简单，依靠智能体来引用和更新上下文库。"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
               },
               {
                 "t": "p",
-                "x": "上下文库是一组机构性与流程性知识，存放在markdown文件或外部软件中，供AI智能体引用和编辑。研究得出四条经验：上下文需要持续维护；让智能体替你更新上下文，因为几乎没人直接在文件里打字；为便于查找而组织上下文库；只给智能体它们需要的上下文。"
+                "x": "我做了 figma-wp-blueprint，这是一套 Claude Code 技能，用于把 Figma 设计转换成定制的 WordPress 主题。"
               },
               {
                 "t": "p",
-                "x": "一位参与者维护着2,700多个上下文文件，每个文件夹里都有一张CLAUDE.md“索引卡”，设计目标是尽量少加载：“它必须先上移或下移，才能横向移动。”"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-                "cap": "层级中的每个文件夹都有自己的CLAUDE.md索引文件。"
+                "x": "粘贴一个 Figma URL，它会："
               },
               {
                 "t": "p",
-                "x": "在平台自己承担起整理策略之前，这项工作只能落在用户身上。"
+                "x": "• 提取颜色、字体、间距和断点"
+              },
+              {
+                "t": "p",
+                "x": "• 将每个区块构建为 ACF Flexible Content 布局（字段、PHP 模板、作用域 CSS）"
+              },
+              {
+                "t": "p",
+                "x": "• 用 /pixel-check 在每个断点上将结果与 Figma 对比测量"
+              },
+              {
+                "t": "p",
+                "x": "• 每次只处理一个功能，各自使用独立的 Git 分支，并在提交前征求你的批准"
+              },
+              {
+                "t": "p",
+                "x": "最终得到的是一个使用纯 CSS 和 vanilla JS 的经典 PHP 主题：没有页面构建器，没有 jQuery，也没有构建步骤。"
+              },
+              {
+                "t": "p",
+                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 欢迎反馈！"
               }
             ]
           }
         },
         "es": {
-          "headline": "Usuarios avanzados de AI apenas\ncuidan su biblioteca de contexto",
-          "body": "Según NN/g, los usuarios avanzados de Claude rara vez editan sus archivos de contexto y a menudo ni los encuentran.",
-          "mini_headline": "Archivos de contexto descuidados",
+          "headline": "Claude Code convierte una URL\nde Figma en un tema de WordPress",
+          "body": "figma-wp-blueprint reúne skills de Claude Code que convierten una URL de Figma en un tema de WordPress.",
+          "mini_headline": "De Figma a WordPress con Claude",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los usuarios avanzados de Claude rara vez editan sus archivos de contexto y a menudo no logran encontrarlos. En el estudio de NN/g, los participantes dedicaban más esfuerzo a construir bibliotecas de contexto que a redactar prompts, pero cada uno había improvisado un proceso propio, y los archivos quedaban desactualizados o se perdían."
-              },
-              {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-                "cap": "Los usuarios escriben prompts más simples y confían en que el agente consulte y actualice la biblioteca de contexto."
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
               },
               {
                 "t": "p",
-                "x": "Una biblioteca de contexto es una colección de conocimiento institucional y procedimental, en archivos markdown o software externo, que los agentes de AI pueden consultar y editar. Surgieron cuatro lecciones: el contexto requiere mantenimiento continuo; conviene dejar que el agente lo actualice, ya que casi nadie escribía directamente en sus archivos; la biblioteca debe estructurarse para facilitar la búsqueda; y hay que dar a los agentes solo el contexto que necesitan."
+                "x": "Creé figma-wp-blueprint, un conjunto de skills de Claude Code para convertir un diseño de Figma en un tema personalizado de WordPress."
               },
               {
                 "t": "p",
-                "x": "Un participante mantenía más de 2,700 archivos de contexto con una \"ficha índice\" CLAUDE.md en cada carpeta, diseñada para cargar lo mínimo posible: \"Debe moverse hacia arriba o hacia abajo antes de poder moverse hacia los lados.\""
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-                "cap": "Cada carpeta de la jerarquía tiene su propio archivo índice CLAUDE.md."
+                "x": "Pega una URL de Figma y la herramienta:"
               },
               {
                 "t": "p",
-                "x": "Hasta que las plataformas asuman por sí mismas la estrategia de curación, ese trabajo recae en los usuarios."
+                "x": "• extrae colores, fuentes, espaciados y breakpoints"
+              },
+              {
+                "t": "p",
+                "x": "• construye cada sección como un layout de ACF Flexible Content (campos, plantilla PHP, CSS con ámbito)"
+              },
+              {
+                "t": "p",
+                "x": "• mide el resultado frente a Figma en cada breakpoint con /pixel-check"
+              },
+              {
+                "t": "p",
+                "x": "• trabaja una funcionalidad a la vez, en su propia rama de Git, y pide tu aprobación antes de hacer commit"
+              },
+              {
+                "t": "p",
+                "x": "El resultado es un tema PHP clásico con CSS puro y vanilla JS: sin page builder, sin jQuery, sin paso de compilación."
+              },
+              {
+                "t": "p",
+                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — ¡Se agradecen comentarios!"
               }
             ]
           }
@@ -631,145 +721,185 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 파워 유저는\n컨텍스트 관리에 소홀하다",
-          "body": "NN/g에 따르면 Claude 파워 유저는 컨텍스트 파일을 방치하고 찾지도 못한다.",
-          "mini_headline": "방치된 컨텍스트 파일",
+          "headline": "Figma URL이 곧\nWordPress 테마로",
+          "body": "Claude Code 스킬로 Figma URL을 WordPress 테마로 바꾼다.",
+          "mini_headline": "Claude로 Figma를 WordPress로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Claude 파워 유저는 컨텍스트 파일을 거의 고치지 않고, 파일을 찾지 못하는 일도 잦다. NN/g 연구에서 참가자들은 프롬프트 작성보다 컨텍스트 라이브러리 설계에 더 많은 공을 들였지만, 저마다 즉흥적으로 자기만의 방식을 만들어 썼고 파일은 낡거나 사라졌다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-                "cap": "사용자는 더 단순한 프롬프트를 쓰고, 컨텍스트 라이브러리를 참조하고 갱신하는 일은 에이전트에 맡긴다."
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
               },
               {
                 "t": "p",
-                "x": "컨텍스트 라이브러리는 AI 에이전트가 참조하고 수정할 수 있는 조직·절차 지식의 모음으로, markdown 파일이나 외부 소프트웨어에 담긴다. 연구에서 네 가지 교훈이 나왔다. 컨텍스트는 꾸준한 관리가 필요하다. 파일에 직접 입력한 사람은 거의 없었으므로 컨텍스트 갱신은 에이전트에 맡기는 편이 낫다. 라이브러리는 찾기 쉽게 구조화해야 한다. 에이전트에는 꼭 필요한 컨텍스트만 주어야 한다."
+                "x": "Figma 디자인을 커스텀 WordPress 테마로 바꿔 주는 Claude Code 스킬 모음 figma-wp-blueprint를 만들었다."
               },
               {
                 "t": "p",
-                "x": "한 참가자는 2,700개가 넘는 컨텍스트 파일을 관리하며 폴더마다 CLAUDE.md \"색인 카드\"를 두고, 최대한 적게 불러오도록 설계했다. \"옆으로 가려면 먼저 위나 아래로 움직여야 한다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-                "cap": "계층 구조의 폴더마다 고유한 CLAUDE.md 색인 파일이 있다."
+                "x": "Figma URL을 붙여 넣으면 이런 일을 한다."
               },
               {
                 "t": "p",
-                "x": "플랫폼이 큐레이션 전략을 직접 떠맡기 전까지 그 일은 사용자의 몫이다."
+                "x": "• 색상, 폰트, 간격, 브레이크포인트를 추출한다"
+              },
+              {
+                "t": "p",
+                "x": "• 각 섹션을 ACF Flexible Content 레이아웃(필드, PHP 템플릿, 범위 지정 CSS)으로 만든다"
+              },
+              {
+                "t": "p",
+                "x": "• /pixel-check로 모든 브레이크포인트에서 결과물을 Figma와 비교해 측정한다"
+              },
+              {
+                "t": "p",
+                "x": "• 기능을 한 번에 하나씩, 각자의 Git 브랜치에서 작업하고, 커밋 전에 승인을 요청한다"
+              },
+              {
+                "t": "p",
+                "x": "결과물은 순수 CSS와 vanilla JS로 만든 클래식 PHP 테마다. 페이지 빌더도, jQuery도, 빌드 단계도 없다."
+              },
+              {
+                "t": "p",
+                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 피드백을 기다린다!"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIパワーユーザーは\nコンテキスト管理を怠る",
-          "body": "NN/gによれば、Claudeの熟練者は文脈ファイルをほぼ編集せず、所在も見失いがちだ。",
-          "mini_headline": "放置されるコンテキストファイル",
+          "headline": "Figma URLから\nWordPressテーマへ",
+          "body": "Claude Codeのスキルで、Figma URLをWordPressテーマに変える。",
+          "mini_headline": "ClaudeでFigmaからWordPressへ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Claudeのパワーユーザーはコンテキストファイルをほとんど編集せず、見つけられないことも多い。NN/gの調査では、参加者はプロンプト作成よりもコンテキストライブラリの設計に力を注いでいたが、各自が場当たり的に独自のやり方を作っており、ファイルは古くなったり行方不明になったりしていた。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-                "cap": "ユーザーはより簡潔なプロンプトを書き、コンテキストライブラリの参照と更新はエージェントに任せる。"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
               },
               {
                 "t": "p",
-                "x": "コンテキストライブラリとは、markdownファイルや外部ソフトウェアに収めた組織的・手続き的な知識の集まりで、AIエージェントが参照・編集できる。調査からは四つの教訓が得られた。コンテキストには継続的な手入れが要る。ファイルに直接書き込む人はほぼいなかったので、更新はエージェントに任せるとよい。見つけやすいようにライブラリを構造化する。エージェントには必要なコンテキストだけを渡す。"
+                "x": "Figmaのデザインを独自のWordPressテーマに変換するClaude Codeスキル集、figma-wp-blueprintを作った。"
               },
               {
                 "t": "p",
-                "x": "ある参加者は2,700を超えるコンテキストファイルを抱え、各フォルダにCLAUDE.mdの「索引カード」を置いて、読み込む量が最小になるよう設計していた。「横に動く前に、まず上か下に動かなければならない」"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-                "cap": "階層内の各フォルダに専用のCLAUDE.mdインデックスファイルがある。"
+                "x": "Figma URLを貼り付けると、次の処理を行う。"
               },
               {
                 "t": "p",
-                "x": "プラットフォームがキュレーション戦略を自ら担うようになるまで、その仕事はユーザーの肩にかかる。"
+                "x": "• 色、フォント、余白、ブレークポイントを抽出する"
+              },
+              {
+                "t": "p",
+                "x": "• 各セクションをACF Flexible Contentのレイアウト(フィールド、PHPテンプレート、スコープ付きCSS)として構築する"
+              },
+              {
+                "t": "p",
+                "x": "• /pixel-checkで、すべてのブレークポイントにおいて結果をFigmaと照合・計測する"
+              },
+              {
+                "t": "p",
+                "x": "• 機能を一つずつ、それぞれ専用のGitブランチで作業し、コミット前に承認を求める"
+              },
+              {
+                "t": "p",
+                "x": "成果物は純粋なCSSとvanilla JSによるクラシックなPHPテーマだ。ページビルダーもjQueryもビルド工程も使わない。"
+              },
+              {
+                "t": "p",
+                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — フィードバック歓迎だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI重度用户很少\n打理上下文库",
-          "body": "NN/g研究发现，Claude重度用户很少编辑上下文文件，甚至常常找不到它们。",
-          "mini_headline": "上下文文件无人打理",
+          "headline": "Figma URL变身\nWordPress定制主题",
+          "body": "开发者打造Claude Code技能，可将Figma URL转为WordPress主题。",
+          "mini_headline": "用Claude把Figma转为WordPress",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Claude重度用户很少编辑自己的上下文文件，还常常找不到它们。在NN/g的研究中，参与者花在构建上下文库上的精力多于编写提示词，但每个人都临时拼凑出一套自己的流程，文件随之过时或丢失。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-                "cap": "用户写的提示词更简单，依靠智能体来引用和更新上下文库。"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
               },
               {
                 "t": "p",
-                "x": "上下文库是一组机构性与流程性知识，存放在markdown文件或外部软件中，供AI智能体引用和编辑。研究得出四条经验：上下文需要持续维护；让智能体替你更新上下文，因为几乎没人直接在文件里打字；为便于查找而组织上下文库；只给智能体它们需要的上下文。"
+                "x": "我做了 figma-wp-blueprint，这是一套 Claude Code 技能，用于把 Figma 设计转换成定制的 WordPress 主题。"
               },
               {
                 "t": "p",
-                "x": "一位参与者维护着2,700多个上下文文件，每个文件夹里都有一张CLAUDE.md“索引卡”，设计目标是尽量少加载：“它必须先上移或下移，才能横向移动。”"
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-                "cap": "层级中的每个文件夹都有自己的CLAUDE.md索引文件。"
+                "x": "粘贴一个 Figma URL，它会："
               },
               {
                 "t": "p",
-                "x": "在平台自己承担起整理策略之前，这项工作只能落在用户身上。"
+                "x": "• 提取颜色、字体、间距和断点"
+              },
+              {
+                "t": "p",
+                "x": "• 将每个区块构建为 ACF Flexible Content 布局（字段、PHP 模板、作用域 CSS）"
+              },
+              {
+                "t": "p",
+                "x": "• 用 /pixel-check 在每个断点上将结果与 Figma 对比测量"
+              },
+              {
+                "t": "p",
+                "x": "• 每次只处理一个功能，各自使用独立的 Git 分支，并在提交前征求你的批准"
+              },
+              {
+                "t": "p",
+                "x": "最终得到的是一个使用纯 CSS 和 vanilla JS 的经典 PHP 主题：没有页面构建器，没有 jQuery，也没有构建步骤。"
+              },
+              {
+                "t": "p",
+                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 欢迎反馈！"
               }
             ]
           }
         },
         "es": {
-          "headline": "Usuarios avanzados de AI apenas\ncuidan su biblioteca de contexto",
-          "body": "Según NN/g, los usuarios avanzados de Claude rara vez editan sus archivos de contexto y a menudo ni los encuentran.",
-          "mini_headline": "Archivos de contexto descuidados",
+          "headline": "Claude Code convierte una URL\nde Figma en un tema de WordPress",
+          "body": "figma-wp-blueprint reúne skills de Claude Code que convierten una URL de Figma en un tema de WordPress.",
+          "mini_headline": "De Figma a WordPress con Claude",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los usuarios avanzados de Claude rara vez editan sus archivos de contexto y a menudo no logran encontrarlos. En el estudio de NN/g, los participantes dedicaban más esfuerzo a construir bibliotecas de contexto que a redactar prompts, pero cada uno había improvisado un proceso propio, y los archivos quedaban desactualizados o se perdían."
-              },
-              {
                 "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-1-1.png",
-                "cap": "Los usuarios escriben prompts más simples y confían en que el agente consulte y actualice la biblioteca de contexto."
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
               },
               {
                 "t": "p",
-                "x": "Una biblioteca de contexto es una colección de conocimiento institucional y procedimental, en archivos markdown o software externo, que los agentes de AI pueden consultar y editar. Surgieron cuatro lecciones: el contexto requiere mantenimiento continuo; conviene dejar que el agente lo actualice, ya que casi nadie escribía directamente en sus archivos; la biblioteca debe estructurarse para facilitar la búsqueda; y hay que dar a los agentes solo el contexto que necesitan."
+                "x": "Creé figma-wp-blueprint, un conjunto de skills de Claude Code para convertir un diseño de Figma en un tema personalizado de WordPress."
               },
               {
                 "t": "p",
-                "x": "Un participante mantenía más de 2,700 archivos de contexto con una \"ficha índice\" CLAUDE.md en cada carpeta, diseñada para cargar lo mínimo posible: \"Debe moverse hacia arriba o hacia abajo antes de poder moverse hacia los lados.\""
-              },
-              {
-                "t": "img",
-                "src": "https://media.nngroup.com/media/editor/2026/09/24/context-libraries-for-ai-agents-2-1.png",
-                "cap": "Cada carpeta de la jerarquía tiene su propio archivo índice CLAUDE.md."
+                "x": "Pega una URL de Figma y la herramienta:"
               },
               {
                 "t": "p",
-                "x": "Hasta que las plataformas asuman por sí mismas la estrategia de curación, ese trabajo recae en los usuarios."
+                "x": "• extrae colores, fuentes, espaciados y breakpoints"
+              },
+              {
+                "t": "p",
+                "x": "• construye cada sección como un layout de ACF Flexible Content (campos, plantilla PHP, CSS con ámbito)"
+              },
+              {
+                "t": "p",
+                "x": "• mide el resultado frente a Figma en cada breakpoint con /pixel-check"
+              },
+              {
+                "t": "p",
+                "x": "• trabaja una funcionalidad a la vez, en su propia rama de Git, y pide tu aprobación antes de hacer commit"
+              },
+              {
+                "t": "p",
+                "x": "El resultado es un tema PHP clásico con CSS puro y vanilla JS: sin page builder, sin jQuery, sin paso de compilación."
+              },
+              {
+                "t": "p",
+                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — ¡Se agradecen comentarios!"
               }
             ]
           }
@@ -777,337 +907,15 @@
       }
     },
     {
-      "id": "teslers-law-chat-field-ai",
+      "id": "design-ai-clients-pixel-pushers",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tesler's Law:\nAI는 복잡성을 옮겼다",
-      "body": "AI는 소프트웨어의 복잡성은 그대로 두고 그 행방을 보여주던 인터페이스를 지웠다.",
-      "mini_headline": "채팅 AI가 옮긴 복잡성",
-      "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-          },
-          {
-            "t": "p",
-            "x": "AI는 소프트웨어의 복잡성을 없애지 않았다. 복잡성이 어디로 갔는지, 지금 누가 그 비용을 치르는지 보여주던 인터페이스를 없앴을 뿐이다. Larry Tesler's law(복잡성 보존 법칙)에 따르면 어떤 애플리케이션이든 어려운 부분은 사라지지 않고 다른 누군가에게 넘어갈 뿐이다."
-          },
-          {
-            "t": "p",
-            "x": "Patrick Neeman은 채팅 창이 복잡성을 세 방향으로 넘겼다고 본다. 일부는 모델로, 일부는 이제 명세를 쓰고 결과를 판단해야 하는 사용자에게 갔다. 나머지는 아무도 인력을 배정하지 않은 평가 업무가 되어 팀에 떨어졌다. \"인터페이스의 단순함은 거의 언제나 다른 누군가의 업무량이다.\""
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-            "cap": "압력을 받은 물침대처럼 한 곳을 누르면 다른 곳이 솟아오른다."
-          },
-          {
-            "t": "p",
-            "x": "그는 METR's 2025년 실험을 인용한다. 이 실험에서 AI는 숙련 개발자의 속도를 19 percent 늦췄고, 상담원 5,172명을 조사한 연구에서는 15 percent 향상이 나타났다. 급여 처리 같은 일은 결정론적 바닥 위에 놓여 있다. 그는 검증을 염두에 두고 설계하고 받는 쪽의 칸을 계측하며, 어려움의 조각마다 누가 감당할지 문서로 정하라고 조언한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Tesler's Law says AI moved\ncomplexity, not erased it",
-          "body": "AI did not remove software's complexity; it removed the interface that showed users where that complexity went.",
-          "mini_headline": "Chat AI relocates complexity",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-              },
-              {
-                "t": "p",
-                "x": "AI did not remove the complexity of software. It removed the interface that told you where the complexity went, and who is now paying for it. Larry Tesler's law of conservation of complexity says the hard part of any application cannot be removed, only handed to somebody else."
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neeman argues the chat box was a transfer in three directions: some complexity moved into the model, some onto the user, who now writes the specification and judges the result, and the rest to your team, into evaluation work nobody staffed. \"Simplicity in an interface is almost always someone else's workload.\""
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-                "cap": "A waterbed under pressure, pushed down in one place and rising in another."
-              },
-              {
-                "t": "p",
-                "x": "He cites METR's 2025 trial, where AI meant a 19 percent slowdown for experienced developers, and a study of 5,172 support agents with a 15 percent gain. Some work, like payroll, sits on a deterministic floor. His advice: design for the checking, instrument the receiving column, and decide in writing who pays for each piece of difficulty."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Tesler's Law: la AI desplazó\nla complejidad, no la borró",
-          "body": "La AI no eliminó la complejidad del software; eliminó la interfaz que mostraba a los usuarios adónde iba.",
-          "mini_headline": "La AI de chat traslada la complejidad",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-              },
-              {
-                "t": "p",
-                "x": "La AI no eliminó la complejidad del software. Eliminó la interfaz que te indicaba adónde iba esa complejidad y quién la está pagando ahora. La ley de conservación de la complejidad de Larry Tesler sostiene que la parte difícil de cualquier aplicación no puede eliminarse, solo transferirse a otra persona."
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neeman sostiene que la caja de chat fue una transferencia en tres direcciones: parte de la complejidad pasó al modelo, parte al usuario, que ahora redacta la especificación y juzga el resultado, y el resto a tu equipo, en forma de trabajo de evaluación para el que nadie asignó personal. \"La simplicidad en una interfaz casi siempre es la carga de trabajo de otra persona.\""
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-                "cap": "Un colchón de agua bajo presión: se hunde en un punto y se eleva en otro."
-              },
-              {
-                "t": "p",
-                "x": "Cita el ensayo de METR de 2025, en el que la AI supuso una ralentización del 19 por ciento para desarrolladores experimentados, y un estudio con 5,172 agentes de soporte que registró una mejora del 15 por ciento. Algunos trabajos, como la nómina, se asientan sobre una base determinista. Su consejo: diseñar para la verificación, instrumentar la columna receptora y decidir por escrito quién paga cada parte de la dificultad."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Tesler's Law:\nAI는 복잡성을 옮겼다",
-          "body": "AI는 소프트웨어의 복잡성은 그대로 두고 그 행방을 보여주던 인터페이스를 지웠다.",
-          "mini_headline": "채팅 AI가 옮긴 복잡성",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-              },
-              {
-                "t": "p",
-                "x": "AI는 소프트웨어의 복잡성을 없애지 않았다. 복잡성이 어디로 갔는지, 지금 누가 그 비용을 치르는지 보여주던 인터페이스를 없앴을 뿐이다. Larry Tesler's law(복잡성 보존 법칙)에 따르면 어떤 애플리케이션이든 어려운 부분은 사라지지 않고 다른 누군가에게 넘어갈 뿐이다."
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neeman은 채팅 창이 복잡성을 세 방향으로 넘겼다고 본다. 일부는 모델로, 일부는 이제 명세를 쓰고 결과를 판단해야 하는 사용자에게 갔다. 나머지는 아무도 인력을 배정하지 않은 평가 업무가 되어 팀에 떨어졌다. \"인터페이스의 단순함은 거의 언제나 다른 누군가의 업무량이다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-                "cap": "압력을 받은 물침대처럼 한 곳을 누르면 다른 곳이 솟아오른다."
-              },
-              {
-                "t": "p",
-                "x": "그는 METR's 2025년 실험을 인용한다. 이 실험에서 AI는 숙련 개발자의 속도를 19 percent 늦췄고, 상담원 5,172명을 조사한 연구에서는 15 percent 향상이 나타났다. 급여 처리 같은 일은 결정론적 바닥 위에 놓여 있다. 그는 검증을 염두에 두고 설계하고 받는 쪽의 칸을 계측하며, 어려움의 조각마다 누가 감당할지 문서로 정하라고 조언한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Tesler's Law:\nAIは複雑さを移した",
-          "body": "AIはソフトウェアの複雑さを消したのではなく、その行き先を示すインターフェースを消した。",
-          "mini_headline": "チャットAIが移した複雑さ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-              },
-              {
-                "t": "p",
-                "x": "AIはソフトウェアの複雑さを取り除いたわけではない。複雑さがどこへ行き、今誰がその代償を払っているのかを示していたインターフェースを取り除いたのだ。Larry Tesler's law(複雑さ保存の法則)によれば、どんなアプリケーションでも難しい部分は取り除けず、誰か別の人に渡すことしかできない。"
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neemanは、チャット欄は三方向への移転だったと論じる。複雑さの一部はモデルへ、一部は今や仕様を書き結果を判断するユーザーへ、残りは誰も人員を割り当てていない評価作業としてチームへ移った。「インターフェースの簡潔さは、ほぼ常に誰か別の人の作業量である」"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-                "cap": "圧力を受けたウォーターベッド。一か所を押し下げると別の場所が盛り上がる。"
-              },
-              {
-                "t": "p",
-                "x": "彼はMETR's 2025年の試験を引く。そこではAIによって熟練開発者の作業が19 percent遅くなり、サポート担当者5,172人を対象にした研究では15 percentの向上が見られた。給与計算のような仕事は決定論的な土台の上にある。彼の助言は、検証のために設計し、受け手側の欄を計測し、難しさの一つひとつを誰が負うのかを文書で決めることだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Tesler's Law：\nAI只是转移了复杂性",
-          "body": "AI并未消除软件的复杂性，而是去掉了向用户显示复杂性去向的界面。",
-          "mini_headline": "聊天AI转移了复杂性",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-              },
-              {
-                "t": "p",
-                "x": "AI并没有消除软件的复杂性。它去掉的是那个告诉你复杂性去了哪里、如今由谁来承担的界面。Larry Tesler's law（复杂性守恒定律）认为，任何应用程序中困难的部分都无法消除，只能转交给别人。"
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neeman认为，聊天框是一次朝三个方向的转移：一部分复杂性进入了模型，一部分转给了如今要撰写需求并评判结果的用户，其余则落到你的团队身上，变成无人配备人手的评估工作。“界面上的简洁，几乎总是别人的工作量。”"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-                "cap": "受压的水床：一处被压下，另一处就会隆起。"
-              },
-              {
-                "t": "p",
-                "x": "他引用了METR's 2025年的试验：AI让资深开发者的速度慢了19 percent；另一项针对5,172名客服人员的研究则显示提升了15 percent。有些工作，比如薪资核算，建立在确定性的底层之上。他的建议是：为核查而设计，为接收一方建立度量，并以书面形式确定每一份难度由谁承担。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "Tesler's Law: la AI desplazó\nla complejidad, no la borró",
-          "body": "La AI no eliminó la complejidad del software; eliminó la interfaz que mostraba a los usuarios adónde iba.",
-          "mini_headline": "La AI de chat traslada la complejidad",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-              },
-              {
-                "t": "p",
-                "x": "La AI no eliminó la complejidad del software. Eliminó la interfaz que te indicaba adónde iba esa complejidad y quién la está pagando ahora. La ley de conservación de la complejidad de Larry Tesler sostiene que la parte difícil de cualquier aplicación no puede eliminarse, solo transferirse a otra persona."
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neeman sostiene que la caja de chat fue una transferencia en tres direcciones: parte de la complejidad pasó al modelo, parte al usuario, que ahora redacta la especificación y juzga el resultado, y el resto a tu equipo, en forma de trabajo de evaluación para el que nadie asignó personal. \"La simplicidad en una interfaz casi siempre es la carga de trabajo de otra persona.\""
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-                "cap": "Un colchón de agua bajo presión: se hunde en un punto y se eleva en otro."
-              },
-              {
-                "t": "p",
-                "x": "Cita el ensayo de METR de 2025, en el que la AI supuso una ralentización del 19 por ciento para desarrolladores experimentados, y un estudio con 5,172 agentes de soporte que registró una mejora del 15 por ciento. Algunos trabajos, como la nómina, se asientan sobre una base determinista. Su consejo: diseñar para la verificación, instrumentar la columna receptora y decidir por escrito quién paga cada parte de la dificultad."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Tesler's Law:\nAI는 복잡성을 옮겼다",
-          "body": "AI는 소프트웨어의 복잡성을 없애지 않고 그 행방을 보여주던 인터페이스를 없앴다.",
-          "mini_headline": "채팅 AI가 옮긴 복잡성",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-              },
-              {
-                "t": "p",
-                "x": "AI는 소프트웨어의 복잡성을 없애지 않았다. 복잡성이 어디로 갔는지, 지금 누가 그 비용을 치르는지 알려주던 인터페이스를 없앴을 뿐이다. Larry Tesler's law(복잡성 보존 법칙)에 따르면 어떤 애플리케이션이든 어려운 부분은 없앨 수 없고 다른 누군가에게 넘길 수 있을 뿐이다."
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neeman은 채팅 창이 세 방향으로 복잡성을 넘긴 것이라고 본다. 일부는 모델로, 일부는 이제 명세를 쓰고 결과를 판단하는 사용자에게, 나머지는 아무도 인력을 배정하지 않은 평가 업무의 형태로 팀에게 넘어갔다. \"인터페이스의 단순함은 거의 언제나 다른 누군가의 업무량이다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-                "cap": "압력을 받은 물침대처럼 한 곳을 누르면 다른 곳이 솟아오른다."
-              },
-              {
-                "t": "p",
-                "x": "그는 METR's 2025년 실험을 인용한다. 이 실험에서 AI는 숙련 개발자의 속도를 19 percent 늦췄고, 상담원 5,172명을 대상으로 한 연구에서는 15 percent 향상이 나타났다. 급여 처리 같은 일은 결정론적 바닥 위에 놓여 있다. 그의 조언은 검증을 위해 설계하고, 받는 쪽의 칸을 계측하며, 어려움의 각 조각을 누가 감당할지 문서로 정하라는 것이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Tesler's Law:\nAIは複雑さを移した",
-          "body": "AIはソフトウェアの複雑さを消したのではなく、その行き先を示すインターフェースを消した。",
-          "mini_headline": "チャットAIが移した複雑さ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-              },
-              {
-                "t": "p",
-                "x": "AIはソフトウェアの複雑さを取り除いたわけではない。複雑さがどこへ行き、今誰がその代償を払っているのかを示していたインターフェースを取り除いたのだ。Larry Tesler's law(複雑さ保存の法則)によれば、どんなアプリケーションでも難しい部分は取り除けず、誰か別の人に渡すことしかできない。"
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neemanは、チャット欄は三方向への移転だったと論じる。複雑さの一部はモデルへ、一部は今や仕様を書き結果を判断するユーザーへ、残りは誰も人員を割り当てていない評価作業としてチームへ移った。「インターフェースの簡潔さは、ほぼ常に誰か別の人の作業量である」"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-                "cap": "圧力を受けたウォーターベッド。一か所を押し下げると別の場所が盛り上がる。"
-              },
-              {
-                "t": "p",
-                "x": "彼はMETR's 2025年の試験を引く。そこではAIによって熟練開発者の作業が19 percent遅くなり、サポート担当者5,172人を対象にした研究では15 percentの向上が見られた。給与計算のような仕事は決定論的な土台の上にある。彼の助言は、検証のために設計し、受け手側の欄を計測し、難しさの一つひとつを誰が負うのかを文書で決めることだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Tesler's Law：\nAI只是转移了复杂性",
-          "body": "AI并未消除软件的复杂性，而是去掉了向用户显示复杂性去向的界面。",
-          "mini_headline": "聊天AI转移了复杂性",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:2000/1*3075AKBZYzb99y7ImuTgDQ.png"
-              },
-              {
-                "t": "p",
-                "x": "AI并没有消除软件的复杂性。它去掉的是那个告诉你复杂性去了哪里、如今由谁来承担的界面。Larry Tesler's law（复杂性守恒定律）认为，任何应用程序中困难的部分都无法消除，只能转交给别人。"
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neeman认为，聊天框是一次朝三个方向的转移：一部分复杂性进入了模型，一部分转给了如今要撰写需求并评判结果的用户，其余则落到你的团队身上，变成无人配备人手的评估工作。“界面上的简洁，几乎总是别人的工作量。”"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1000/1*yGQwQ4JUwzyWx9DIjrbpxg.png",
-                "cap": "受压的水床：一处被压下，另一处就会隆起。"
-              },
-              {
-                "t": "p",
-                "x": "他引用了METR's 2025年的试验：AI让资深开发者的速度慢了19 percent；另一项针对5,172名客服人员的研究则显示提升了15 percent。有些工作，比如薪资核算，建立在确定性的底层之上。他的建议是：为核查而设计，为接收一方建立度量，并以书面形式确定每一份难度由谁承担。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ai-generated-ui-fast-design-not-ux",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI-generated\nUI는 UX가 아니다",
-      "body": "Sophie Shrimpton은 AI-generated UI보다 공예의 편에 선다.",
-      "mini_headline": "AI UI: 빠른 디자인, UX는 아니다",
+      "headline": "AI-pilled 고객이\n디자이너를 픽셀 일꾼으로",
+      "body": "고객이 내민 AI 목업과 'ChatGPT에 물어봐' 앞에서 디자이너는 수정만 한다.",
+      "mini_headline": "픽셀 일꾼이 된 디자이너",
       "tool": "AI Workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
+      "source": "Fast Company",
+      "url": "https://www.fastcompany.com/91621558/ai-pilled-bosses-and-clients-turning-designers-into-pixel-pushers",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -1115,209 +923,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-            "cap": "저자의 의붓아버지 가게 Architectural Salvage의 조각된 다리가 달린 테이블"
+            "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
           },
           {
             "t": "p",
-            "x": "Sophie Shrimpton은 의붓아버지가 구해 온 17~18세기 수공예 조각 가구 이야기로 글을 연 뒤, 흔들거리는 자신의 보급형 식탁과 견준다. 그에 따르면 패스트 가구는 좋은 재료와 장인의 솜씨를 속도와 마진에 내줬다. EPA 집계로 매립된 가구는 12.1M 톤에 이르며, 1960년대 이후 450% 늘었다."
+            "x": "Emily Foran은 크리에이티브 디렉터이자 그래픽 디자이너이고, AIGA Maine 회장이다. 지난 일 년 동안 독창적인 아이디어를 처음부터 내 달라는 클라이언트 요청은 한 번도 없었다. “신규든 기존이든 클라이언트들이 Claude나 ChatGPT로 목업을 만든 쓰레기를 보내고는, 그걸 다듬거나 아예 그대로 작업해 달라고 한다”고 했다. 스스로는 크리에이티브라기보다 ‘픽셀 일꾼’이 된 기분이라고 한다."
           },
           {
             "t": "p",
-            "x": "이제 기업들은 AI에서도 같은 속도를 원한다. 그는 AI가 쓸모 있는 도구지만 인간의 사고를 대신하지는 못한다고 말한다. 디자이너에게는 헤매고 묻고 실패할 자유가 필요하다. Giorgia Lupi를 인용하며 가장 단순한 답에서 멈추지 말라고도 경고한다. \"프롬프트 먼저, 생각은 영영 하지 않는다\"는 태도가 그가 AI slop이라 부르는 결과물을 낳는다. 검토도, 알려진 문제도 없이 프롬프트 몇 번으로 만든 UI 말이다."
+            "x": "그 역시 Fast Company가 인터뷰한 열두 명이 넘는 그래픽 디자이너 가운데 하나다. 지난 18개월 사이 생성형 AI가 상사, 클라이언트, 일과의 관계를 통째로 바꿔 놓았다는 게 이들의 이야기다. 클라이언트는 단가를 깎아 달라고 했고, 어떤 디자이너는 AI가 대신할 거라는 말과 함께 해고됐다. 사실상 “ChatGPT에 물어보라”는 수준의 지침을 받는 이들도 있다."
           },
           {
             "t": "p",
-            "x": "Air Canada 챗봇 사건은 손해배상금 $812.02로 숨은 비용을 드러냈다. 디자이너가 AI의 뒤처리를 떠맡는 관리인이 될 위험도 있다. NN/G가 말한 \"UX의 관리인 시대\"와 같은 맥락이다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-            "cap": "NN/G: 디자이너는 어떻게 관리인이 되어 가는가"
+            "x": "디자이너들은 AI-rendered 이미지 때문에 후반 작업이 더 늘었다고 한다. Boston의 한 디자이너는 “예전엔 한 시간이면 하던 일이 세 시간씩 걸리기도 한다”고 했다. Premier Designs의 Michele Kasl은 클라이언트들이 이제 더 짧은 일정을 바란다며 “솔직히 그 때문에 일감을 잃었다”고 털어놓는다. Rock Pixel Scissors의 Robert Lodi는 AI-built 목업용 재디자인 단계를 따로 두었다. “접근성 테스트를 통과할 만한 건 아직 하나도 못 봤다.”"
           },
           {
             "t": "p",
-            "x": "그는 문제부터 이해하고 무거운 사고를 끝낸 다음에 AI를 도구로 쓰라고 조언한다. \"We are in the age of AI AND we can be in the age of craft too.\"(우리는 AI의 시대에 살고 있고, 동시에 공예의 시대에도 살 수 있다.)"
+            "x": "마케팅 디자이너 Erik은 “그냥 ChatGPT에 물어보라”는 말을 들었다. AI 사용 문제로 부딪치다 결국 일자리를 잃었다. Alan Peters의 팀은 온라인 AI 서비스에 자리를 내주고 해고됐다. Foran은 젊은 디자이너들이 “기회가 없었기 때문에” 업계를 떠난다고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI-generated UI is fast\ndesign, not UX",
-          "body": "Sophie Shrimpton argues AI-generated UI speeds up production but skips problem discovery, and defends craft.",
-          "mini_headline": "AI UI: fast design, not UX",
+          "headline": "AI-pilled clients are turning\ndesigners into pixel pushers",
+          "body": "Designers say clients' AI mockups and 'just ask ChatGPT' direction leave them fixing output, not originating ideas.",
+          "mini_headline": "Designers as pixel pushers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-                "cap": "Table with carved feet from the author's stepfather's shop, Architectural Salvage"
+                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
               },
               {
                 "t": "p",
-                "x": "Sophie Shrimpton opens with the hand-carved 17th- and 18th-century pieces her stepfather salvaged, and contrasts them with her wobbly builder-grade dining table. Fast furniture, she writes, traded good materials and craft for speed and margin; the EPA counts 12.1M tons of furniture landfilled, up 450% since the 1960s."
+                "x": "Emily Foran, a creative director and graphic designer and president of AIGA Maine, has not been asked by clients to come up with an original idea from scratch in a year. “I’m having clients, new and existing, send me crap they had Claude or ChatGPT mock up for them, and then ask me to either clean it up or straight up work with it,” she says. She feels more like a “pixel pusher” than a creative."
               },
               {
                 "t": "p",
-                "x": "Companies now want the same speed from AI. AI is a useful tool, she argues, but it cannot replace human thinking: designers need the freedom to wander, question and fail. Citing Giorgia Lupi, she warns against stopping at the simplest answer. A \"prompt first, think never\" mindset produces what she calls AI slop: UI generated in a few prompts, without review or a known problem."
+                "x": "She is one of more than a dozen graphic designers Fast Company interviewed who say generative AI has completely changed their relationship with their bosses, clients, and work over the past 18 months. Clients have asked for lower rates, some designers have been laid off and told AI would replace them, and others get guidance that amounts to “Ask ChatGPT.”"
               },
               {
                 "t": "p",
-                "x": "Air Canada's chatbot case, which cost $812.02 in damages, shows the hidden cost. Designers risk becoming custodians cleaning up after AI, echoing NN/G's \"custodial era of UX.\""
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-                "cap": "NN/G: how designers are becoming custodians"
+                "x": "Designers say AI-rendered images mean more work on the back end. “What used to take me an hour to do might be taking me three hours,” says one Boston designer. Michele Kasl of Premier Designs says clients now expect shorter timelines: “Frankly, we’ve lost business because of it.” Robert Lodi of Rock Pixel Scissors has added a redesign phase for AI-built mockups: “I have yet to see one that’s going to pass an accessibility test.”"
               },
               {
                 "t": "p",
-                "x": "Her advice: understand the problem first, then use AI as a tool once the heavy thinking is done. \"We are in the age of AI AND we can be in the age of craft too.\""
+                "x": "Marketing designer Erik was told to “just ask ChatGPT” and eventually lost his job after clashing over AI use; Alan Peters’ team was laid off in favor of an online AI service. Foran says younger designers are leaving the industry because “there haven’t been opportunities.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-generated\nUI는 UX가 아니다",
-          "body": "Sophie Shrimpton은 AI-generated UI보다 공예의 편에 선다.",
-          "mini_headline": "AI UI: 빠른 디자인, UX는 아니다",
+          "headline": "AI-pilled 고객이\n디자이너를 픽셀 일꾼으로",
+          "body": "고객이 내민 AI 목업과 'ChatGPT에 물어봐' 앞에서 디자이너는 수정만 한다.",
+          "mini_headline": "픽셀 일꾼이 된 디자이너",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-                "cap": "저자의 의붓아버지 가게 Architectural Salvage의 조각된 다리가 달린 테이블"
+                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
               },
               {
                 "t": "p",
-                "x": "Sophie Shrimpton은 의붓아버지가 구해 온 17~18세기 수공예 조각 가구 이야기로 글을 연 뒤, 흔들거리는 자신의 보급형 식탁과 견준다. 그에 따르면 패스트 가구는 좋은 재료와 장인의 솜씨를 속도와 마진에 내줬다. EPA 집계로 매립된 가구는 12.1M 톤에 이르며, 1960년대 이후 450% 늘었다."
+                "x": "Emily Foran은 크리에이티브 디렉터이자 그래픽 디자이너이고, AIGA Maine 회장이다. 지난 일 년 동안 독창적인 아이디어를 처음부터 내 달라는 클라이언트 요청은 한 번도 없었다. “신규든 기존이든 클라이언트들이 Claude나 ChatGPT로 목업을 만든 쓰레기를 보내고는, 그걸 다듬거나 아예 그대로 작업해 달라고 한다”고 했다. 스스로는 크리에이티브라기보다 ‘픽셀 일꾼’이 된 기분이라고 한다."
               },
               {
                 "t": "p",
-                "x": "이제 기업들은 AI에서도 같은 속도를 원한다. 그는 AI가 쓸모 있는 도구지만 인간의 사고를 대신하지는 못한다고 말한다. 디자이너에게는 헤매고 묻고 실패할 자유가 필요하다. Giorgia Lupi를 인용하며 가장 단순한 답에서 멈추지 말라고도 경고한다. \"프롬프트 먼저, 생각은 영영 하지 않는다\"는 태도가 그가 AI slop이라 부르는 결과물을 낳는다. 검토도, 알려진 문제도 없이 프롬프트 몇 번으로 만든 UI 말이다."
+                "x": "그 역시 Fast Company가 인터뷰한 열두 명이 넘는 그래픽 디자이너 가운데 하나다. 지난 18개월 사이 생성형 AI가 상사, 클라이언트, 일과의 관계를 통째로 바꿔 놓았다는 게 이들의 이야기다. 클라이언트는 단가를 깎아 달라고 했고, 어떤 디자이너는 AI가 대신할 거라는 말과 함께 해고됐다. 사실상 “ChatGPT에 물어보라”는 수준의 지침을 받는 이들도 있다."
               },
               {
                 "t": "p",
-                "x": "Air Canada 챗봇 사건은 손해배상금 $812.02로 숨은 비용을 드러냈다. 디자이너가 AI의 뒤처리를 떠맡는 관리인이 될 위험도 있다. NN/G가 말한 \"UX의 관리인 시대\"와 같은 맥락이다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-                "cap": "NN/G: 디자이너는 어떻게 관리인이 되어 가는가"
+                "x": "디자이너들은 AI-rendered 이미지 때문에 후반 작업이 더 늘었다고 한다. Boston의 한 디자이너는 “예전엔 한 시간이면 하던 일이 세 시간씩 걸리기도 한다”고 했다. Premier Designs의 Michele Kasl은 클라이언트들이 이제 더 짧은 일정을 바란다며 “솔직히 그 때문에 일감을 잃었다”고 털어놓는다. Rock Pixel Scissors의 Robert Lodi는 AI-built 목업용 재디자인 단계를 따로 두었다. “접근성 테스트를 통과할 만한 건 아직 하나도 못 봤다.”"
               },
               {
                 "t": "p",
-                "x": "그는 문제부터 이해하고 무거운 사고를 끝낸 다음에 AI를 도구로 쓰라고 조언한다. \"We are in the age of AI AND we can be in the age of craft too.\"(우리는 AI의 시대에 살고 있고, 동시에 공예의 시대에도 살 수 있다.)"
+                "x": "마케팅 디자이너 Erik은 “그냥 ChatGPT에 물어보라”는 말을 들었다. AI 사용 문제로 부딪치다 결국 일자리를 잃었다. Alan Peters의 팀은 온라인 AI 서비스에 자리를 내주고 해고됐다. Foran은 젊은 디자이너들이 “기회가 없었기 때문에” 업계를 떠난다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-generated\nUIは速いだけでUXではない",
-          "body": "Sophie ShrimptonはAI-generated UIが問題発見を飛ばすと説く。",
-          "mini_headline": "AI UI:速いデザインだがUXではない",
+          "headline": "AI-pilledな顧客が\nデザイナーを画素の作業員に",
+          "body": "顧客のAI製モックや「ChatGPTに聞け」という指示で、デザイナーは修正役になっている。",
+          "mini_headline": "作業員化するデザイナー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-                "cap": "著者の義父の店Architectural Salvageにある、彫刻された脚のテーブル"
+                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
               },
               {
                 "t": "p",
-                "x": "Sophie Shrimptonは、義父が救い出した17〜18世紀の手彫り家具の話から書き起こし、ぐらつく自宅の量産品のダイニングテーブルと対比させる。ファスト家具は良い素材と職人技を速さと利幅と引き換えにしたと彼女は書く。EPAによると埋め立てられた家具は12.1M トンにのぼり、1960年代から450%増えた。"
+                "x": "クリエイティブディレクター兼グラフィックデザイナーで、AIGA Maineの会長を務めるEmily Foranは、この一年、クライアントから独自のアイデアを一から出してほしいと頼まれたことがない。「新規も既存も、クライアントがClaudeやChatGPTにモックアップさせたひどいものを送ってきて、それを整えるか、そのまま使って作業するよう求めてくる」と彼女は言う。クリエイティブというより「ピクセル作業員」になった気分だという。"
               },
               {
                 "t": "p",
-                "x": "企業はいまAIにも同じ速さを求めている。AIは有用な道具だが人間の思考の代わりにはならない、と彼女は主張する。デザイナーには寄り道し、問い、失敗する自由が必要だ。Giorgia Lupiを引き、最も単純な答えで止まることに警鐘を鳴らす。「まずプロンプト、考えるのは永遠にしない」という姿勢は、彼女がAI slopと呼ぶもの、つまりレビューも既知の課題もないまま数回のプロンプトで生成されたUIを生む。"
+                "x": "彼女はFast Companyが取材した十数人のグラフィックデザイナーの一人で、彼らはこの18カ月で生成AIが上司やクライアント、仕事との関係を一変させたと語る。クライアントは料金の引き下げを求め、AIに置き換えられると告げられて解雇されたデザイナーもいれば、「ChatGPTに聞いて」と言うに等しい指示を受ける者もいる。"
               },
               {
                 "t": "p",
-                "x": "Air Canadaのチャットボット事件では$812.02の損害賠償が発生し、隠れたコストを示した。デザイナーはAIの後始末をする管理人になりかねず、NN/Gのいう「UXの管理人時代」と重なる。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-                "cap": "NN/G:デザイナーはいかにして管理人になりつつあるか"
+                "x": "デザイナーたちは、AI-renderedの画像のせいで後工程の作業が増えたと言う。「以前なら一時間で済んだ作業に三時間かかることもある」とBostonのデザイナーは話す。Premier DesignsのMichele Kaslによれば、クライアントは今やより短い納期を期待しており、「正直に言って、そのせいで仕事を失った」という。Rock Pixel ScissorsのRobert Lodiは、AI-builtのモックアップ向けにリデザイン工程を加えた。「アクセシビリティテストに合格しそうなものは、まだ一つも見たことがない」"
               },
               {
                 "t": "p",
-                "x": "彼女の助言は、まず問題を理解し、重い思考を終えてからAIを道具として使うことだ。\"We are in the age of AI AND we can be in the age of craft too.\"(私たちはAIの時代にいて、同時に手仕事の時代にもいられる)"
+                "x": "マーケティングデザイナーのErikは「とにかくChatGPTに聞け」と言われ、AIの使用をめぐって対立した末に職を失った。Alan Petersのチームはオンラインの AIサービスに取って代わられ、解雇された。Foranによると、若いデザイナーは「機会がなかった」ために業界を去りつつある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-generated\nUI只是快设计，不是UX",
-          "body": "Sophie Shrimpton认为AI-generated UI虽快，却跳过了问题发现。",
-          "mini_headline": "AI UI：快速设计，而非UX",
+          "headline": "AI-pilled的客户\n把设计师变成像素工",
+          "body": "设计师称，客户的AI草图和“去问ChatGPT”式指示让他们只能修改输出，而非原创。",
+          "mini_headline": "设计师沦为像素工",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-                "cap": "作者继父的店铺Architectural Salvage里一张带雕花桌腿的桌子"
+                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
               },
               {
                 "t": "p",
-                "x": "Sophie Shrimpton从继父抢救回来的17、18世纪手工雕刻家具说起，并将其与自家摇摇晃晃的廉价餐桌作对比。她写道，快家具用好材料和手艺换来了速度与利润；据EPA统计，被填埋的家具达12.1M 吨，自1960年代以来增长了450%。"
+                "x": "Emily Foran 是创意总监、平面设计师，也是 AIGA Maine 的主席。一年来，没有客户请她从头提出原创想法。“新老客户都会把让 Claude 或 ChatGPT 做出来的垃圾模型发给我，然后让我要么把它收拾干净，要么直接拿来用，”她说。她觉得自己更像是“像素工”，而不是创意人。"
               },
               {
                 "t": "p",
-                "x": "如今企业也希望从AI身上获得同样的速度。她认为，AI是有用的工具，却无法取代人类的思考：设计师需要自由地漫游、提问和失败。她引用Giorgia Lupi的观点，警告不要止步于最简单的答案。“先写提示词，永远不思考”的心态，会产出她所说的AI slop：只用几条提示词生成、既无审查也无明确问题的UI。"
+                "x": "Fast Company 采访了十几位平面设计师，她是其中之一。他们表示，过去 18 个月里，生成式 AI 彻底改变了他们与上司、客户和工作的关系。客户要求降低报价，一些设计师被裁员并被告知 AI 会取代他们，还有人得到的指导无异于“去问 ChatGPT”。"
               },
               {
                 "t": "p",
-                "x": "Air Canada的聊天机器人案赔偿了$812.02，暴露出隐性成本。设计师可能沦为替AI收拾残局的清洁工，呼应了NN/G所说的“UX的清洁工时代”。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-                "cap": "NN/G：设计师如何沦为清洁工"
+                "x": "设计师们说，AI-rendered 图像意味着后期工作更多。“过去一小时能做完的事，现在可能要花三小时，”一位 Boston 设计师说。Premier Designs 的 Michele Kasl 表示，客户如今期待更短的工期：“坦白说，我们因此丢了生意。”Rock Pixel Scissors 的 Robert Lodi 为 AI-built 模型增加了重新设计环节：“我还没见过哪一个能通过无障碍测试。”"
               },
               {
                 "t": "p",
-                "x": "她的建议是：先理解问题，在完成繁重的思考之后再把AI当作工具。“We are in the age of AI AND we can be in the age of craft too.”（我们身处AI时代，也同样可以身处手艺时代。）"
+                "x": "市场营销设计师 Erik 被告知“直接问 ChatGPT 就行”，在 AI 使用问题上发生冲突后最终丢了工作；Alan Peters 的团队被裁，取而代之的是一项在线 AI 服务。Foran 说，年轻设计师正在离开这个行业，因为“一直没有机会”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La UI AI-generated es diseño\nrápido, no UX",
-          "body": "Sophie Shrimpton sostiene que la UI AI-generated acelera la producción pero se salta el descubrimiento del problema.",
-          "mini_headline": "UI de AI: diseño rápido, no UX",
+          "headline": "Clientes AI-pilled convierten\na diseñadores en meros operarios",
+          "body": "Según los diseñadores, las maquetas con AI y el 'pregunta a ChatGPT' de los clientes los relegan a corregir.",
+          "mini_headline": "Diseñadores como meros operarios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-                "cap": "Mesa con patas talladas de la tienda del padrastro de la autora, Architectural Salvage"
+                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
               },
               {
                 "t": "p",
-                "x": "Sophie Shrimpton comienza con las piezas de los siglos 17 y 18, talladas a mano, que rescató su padrastro, y las contrasta con su tambaleante mesa de comedor de gama básica. El mueble rápido, escribe, cambió buenos materiales y oficio por velocidad y margen; la EPA contabiliza 12.1M de toneladas de muebles en vertederos, un 450% más que en la década de 1960."
+                "x": "Emily Foran, directora creativa, diseñadora gráfica y presidenta de AIGA Maine, lleva un año sin que sus clientes le pidan una idea original desde el principio. “Tengo clientes, nuevos y de siempre, que me mandan basura que le pidieron maquetar a Claude o ChatGPT y luego me piden que la limpie o que trabaje directamente con ella”, dice. Se siente más una “empujadora de píxeles” que una creativa."
               },
               {
                 "t": "p",
-                "x": "Ahora las empresas quieren la misma velocidad de la AI. La AI es una herramienta útil, sostiene, pero no puede reemplazar el pensamiento humano: los diseñadores necesitan libertad para divagar, cuestionar y fallar. Citando a Giorgia Lupi, advierte contra quedarse en la respuesta más simple. Una mentalidad de \"primero el prompt, pensar nunca\" produce lo que ella llama AI slop: UI generada en unos pocos prompts, sin revisión ni un problema conocido."
+                "x": "Es una de los más de una docena de diseñadores gráficos entrevistados por Fast Company que afirman que la AI generativa ha cambiado por completo su relación con jefes, clientes y trabajo en los últimos 18 meses. Los clientes han pedido tarifas más bajas, algunos diseñadores han sido despedidos con el argumento de que la AI los reemplazaría y otros reciben indicaciones que se reducen a “Pregúntale a ChatGPT”."
               },
               {
                 "t": "p",
-                "x": "El caso del chatbot de Air Canada, que costó $812.02 en daños, muestra el costo oculto. Los diseñadores corren el riesgo de convertirse en conserjes que limpian lo que deja la AI, en línea con la \"era custodial de la UX\" de NN/G."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-                "cap": "NN/G: cómo los diseñadores se están convirtiendo en conserjes"
+                "x": "Los diseñadores dicen que las imágenes AI-rendered implican más trabajo al final del proceso. “Lo que antes me llevaba una hora puede llevarme ahora tres horas”, dice un diseñador de Boston. Michele Kasl, de Premier Designs, cuenta que los clientes ahora esperan plazos más cortos: “Francamente, hemos perdido negocio por eso”. Robert Lodi, de Rock Pixel Scissors, ha añadido una fase de rediseño para las maquetas AI-built: “Todavía no he visto ninguna que vaya a pasar una prueba de accesibilidad”."
               },
               {
                 "t": "p",
-                "x": "Su consejo: entender primero el problema y luego usar la AI como herramienta una vez hecho el trabajo intelectual pesado. \"We are in the age of AI AND we can be in the age of craft too.\" (Estamos en la era de la AI y también podemos estar en la era del oficio.)"
+                "x": "Al diseñador de marketing Erik le dijeron que “simplemente le preguntara a ChatGPT” y acabó perdiendo su empleo tras chocar por el uso de la AI; el equipo de Alan Peters fue despedido en favor de un servicio de AI en línea. Foran dice que los diseñadores jóvenes están dejando el sector porque “no ha habido oportunidades”."
               }
             ]
           }
@@ -1325,145 +1097,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-generated\nUI는 UX가 아니다",
-          "body": "Sophie Shrimpton은 AI-generated UI보다 공예를 옹호한다.",
-          "mini_headline": "AI UI: 빠른 디자인, UX는 아니다",
+          "headline": "AI-pilled 고객들,\n디자이너를 픽셀 일꾼으로",
+          "body": "고객의 AI 목업과 'ChatGPT에 물어봐' 지시에 디자이너는 수정만 한다.",
+          "mini_headline": "픽셀 일꾼이 된 디자이너",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-                "cap": "저자의 의붓아버지 가게 Architectural Salvage의 조각된 다리가 달린 테이블"
+                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
               },
               {
                 "t": "p",
-                "x": "Sophie Shrimpton은 의붓아버지가 구해 온 17~18세기 수공예 조각 가구 이야기로 글을 시작해, 흔들거리는 자신의 보급형 식탁과 대비시킨다. 패스트 가구는 좋은 재료와 장인의 솜씨를 속도와 마진으로 맞바꿨다고 그는 쓴다. EPA 집계에 따르면 매립된 가구는 12.1M 톤으로, 1960년대 이후 450% 늘었다."
+                "x": "크리에이티브 디렉터이자 그래픽 디자이너이며 AIGA Maine 회장인 Emily Foran은 지난 일 년 동안 클라이언트에게서 독창적인 아이디어를 처음부터 내 달라는 요청을 받은 적이 없다. “신규든 기존이든 클라이언트들이 Claude나 ChatGPT로 목업을 만든 쓰레기를 보내고는, 그걸 다듬거나 아예 그대로 작업해 달라고 한다”고 그는 말한다. 그는 크리에이티브라기보다 ‘픽셀 일꾼’이 된 기분이라고 한다."
               },
               {
                 "t": "p",
-                "x": "이제 기업들은 AI에도 같은 속도를 원한다. 그는 AI가 유용한 도구지만 인간의 사고를 대신할 수는 없다고 말한다. 디자이너에게는 헤매고, 묻고, 실패할 자유가 필요하다. 그는 Giorgia Lupi를 인용하며 가장 단순한 답에서 멈추지 말라고 경고한다. \"프롬프트 먼저, 생각은 영영 하지 않는다\"는 태도는 그가 AI slop이라 부르는 결과물을 낳는다. 검토도, 알려진 문제도 없이 프롬프트 몇 번으로 만든 UI다."
+                "x": "그는 Fast Company가 인터뷰한 열두 명이 넘는 그래픽 디자이너 중 한 명이다. 이들은 지난 18개월 동안 생성형 AI가 상사, 클라이언트, 일과의 관계를 완전히 바꿔 놓았다고 말한다. 클라이언트는 단가 인하를 요구했고, 일부 디자이너는 AI가 자신을 대체할 것이라는 말과 함께 해고됐으며, 또 다른 이들은 사실상 “ChatGPT에 물어보라”는 수준의 지침을 받는다."
               },
               {
                 "t": "p",
-                "x": "Air Canada 챗봇 사건은 손해배상으로 $812.02의 비용을 치르며 숨은 비용을 드러냈다. 디자이너는 AI의 뒤처리를 맡는 관리인이 될 위험에 놓여 있고, 이는 NN/G가 말한 \"UX의 관리인 시대\"와 맞닿는다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-                "cap": "NN/G: 디자이너는 어떻게 관리인이 되어 가는가"
+                "x": "디자이너들은 AI-rendered 이미지 탓에 후반 작업이 더 늘었다고 말한다. Boston의 한 디자이너는 “예전엔 한 시간이면 하던 일이 세 시간씩 걸리기도 한다”고 말한다. Premier Designs의 Michele Kasl은 클라이언트들이 이제 더 짧은 일정을 기대한다며 “솔직히 그 때문에 일감을 잃었다”고 말한다. Rock Pixel Scissors의 Robert Lodi는 AI-built 목업을 위한 재디자인 단계를 추가했다. “접근성 테스트를 통과할 만한 건 아직 하나도 못 봤다.”"
               },
               {
                 "t": "p",
-                "x": "그의 조언은 먼저 문제를 이해하고, 무거운 사고를 마친 뒤에 AI를 도구로 쓰라는 것이다. \"We are in the age of AI AND we can be in the age of craft too.\"(우리는 AI의 시대에 살고 있고, 동시에 공예의 시대에도 살 수 있다.)"
+                "x": "마케팅 디자이너 Erik은 “그냥 ChatGPT에 물어보라”는 말을 들었고, AI 사용을 두고 갈등을 빚다 결국 일자리를 잃었다. Alan Peters의 팀은 온라인 AI 서비스로 대체되며 해고됐다. Foran은 “기회가 없었기 때문에” 젊은 디자이너들이 업계를 떠나고 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-generated\nUIは速いだけでUXではない",
-          "body": "Sophie ShrimptonはAI-generated UIが問題発見を飛ばすと説く。",
-          "mini_headline": "AI UI:速いデザインだがUXではない",
+          "headline": "AI-pilledな顧客が\nデザイナーを画素の作業員に",
+          "body": "顧客のAI製モックや「ChatGPTに聞け」という指示で、デザイナーは修正役になっている。",
+          "mini_headline": "作業員化するデザイナー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-                "cap": "著者の義父の店Architectural Salvageにある、彫刻された脚のテーブル"
+                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
               },
               {
                 "t": "p",
-                "x": "Sophie Shrimptonは、義父が救い出した17〜18世紀の手彫り家具の話から書き起こし、ぐらつく自宅の量産品のダイニングテーブルと対比させる。ファスト家具は良い素材と職人技を速さと利幅と引き換えにしたと彼女は書く。EPAによると埋め立てられた家具は12.1M トンにのぼり、1960年代から450%増えた。"
+                "x": "クリエイティブディレクター兼グラフィックデザイナーで、AIGA Maineの会長を務めるEmily Foranは、この一年、クライアントから独自のアイデアを一から出してほしいと頼まれたことがない。「新規も既存も、クライアントがClaudeやChatGPTにモックアップさせたひどいものを送ってきて、それを整えるか、そのまま使って作業するよう求めてくる」と彼女は言う。クリエイティブというより「ピクセル作業員」になった気分だという。"
               },
               {
                 "t": "p",
-                "x": "企業はいまAIにも同じ速さを求めている。AIは有用な道具だが人間の思考の代わりにはならない、と彼女は主張する。デザイナーには寄り道し、問い、失敗する自由が必要だ。Giorgia Lupiを引き、最も単純な答えで止まることに警鐘を鳴らす。「まずプロンプト、考えるのは永遠にしない」という姿勢は、彼女がAI slopと呼ぶもの、つまりレビューも既知の課題もないまま数回のプロンプトで生成されたUIを生む。"
+                "x": "彼女はFast Companyが取材した十数人のグラフィックデザイナーの一人で、彼らはこの18カ月で生成AIが上司やクライアント、仕事との関係を一変させたと語る。クライアントは料金の引き下げを求め、AIに置き換えられると告げられて解雇されたデザイナーもいれば、「ChatGPTに聞いて」と言うに等しい指示を受ける者もいる。"
               },
               {
                 "t": "p",
-                "x": "Air Canadaのチャットボット事件では$812.02の損害賠償が発生し、隠れたコストを示した。デザイナーはAIの後始末をする管理人になりかねず、NN/Gのいう「UXの管理人時代」と重なる。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-                "cap": "NN/G:デザイナーはいかにして管理人になりつつあるか"
+                "x": "デザイナーたちは、AI-renderedの画像のせいで後工程の作業が増えたと言う。「以前なら一時間で済んだ作業に三時間かかることもある」とBostonのデザイナーは話す。Premier DesignsのMichele Kaslによれば、クライアントは今やより短い納期を期待しており、「正直に言って、そのせいで仕事を失った」という。Rock Pixel ScissorsのRobert Lodiは、AI-builtのモックアップ向けにリデザイン工程を加えた。「アクセシビリティテストに合格しそうなものは、まだ一つも見たことがない」"
               },
               {
                 "t": "p",
-                "x": "彼女の助言は、まず問題を理解し、重い思考を終えてからAIを道具として使うことだ。\"We are in the age of AI AND we can be in the age of craft too.\"(私たちはAIの時代にいて、同時に手仕事の時代にもいられる)"
+                "x": "マーケティングデザイナーのErikは「とにかくChatGPTに聞け」と言われ、AIの使用をめぐって対立した末に職を失った。Alan Petersのチームはオンラインの AIサービスに取って代わられ、解雇された。Foranによると、若いデザイナーは「機会がなかった」ために業界を去りつつある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-generated\nUI只是快设计，不是UX",
-          "body": "Sophie Shrimpton认为AI-generated UI虽快，却跳过了问题发现。",
-          "mini_headline": "AI UI：快速设计，而非UX",
+          "headline": "AI-pilled的客户\n把设计师变成像素工",
+          "body": "设计师称，客户的AI草图和“去问ChatGPT”式指示让他们只能修改输出，而非原创。",
+          "mini_headline": "设计师沦为像素工",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-                "cap": "作者继父的店铺Architectural Salvage里一张带雕花桌腿的桌子"
+                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
               },
               {
                 "t": "p",
-                "x": "Sophie Shrimpton从继父抢救回来的17、18世纪手工雕刻家具说起，并将其与自家摇摇晃晃的廉价餐桌作对比。她写道，快家具用好材料和手艺换来了速度与利润；据EPA统计，被填埋的家具达12.1M 吨，自1960年代以来增长了450%。"
+                "x": "Emily Foran 是创意总监、平面设计师，也是 AIGA Maine 的主席。一年来，没有客户请她从头提出原创想法。“新老客户都会把让 Claude 或 ChatGPT 做出来的垃圾模型发给我，然后让我要么把它收拾干净，要么直接拿来用，”她说。她觉得自己更像是“像素工”，而不是创意人。"
               },
               {
                 "t": "p",
-                "x": "如今企业也希望从AI身上获得同样的速度。她认为，AI是有用的工具，却无法取代人类的思考：设计师需要自由地漫游、提问和失败。她引用Giorgia Lupi的观点，警告不要止步于最简单的答案。“先写提示词，永远不思考”的心态，会产出她所说的AI slop：只用几条提示词生成、既无审查也无明确问题的UI。"
+                "x": "Fast Company 采访了十几位平面设计师，她是其中之一。他们表示，过去 18 个月里，生成式 AI 彻底改变了他们与上司、客户和工作的关系。客户要求降低报价，一些设计师被裁员并被告知 AI 会取代他们，还有人得到的指导无异于“去问 ChatGPT”。"
               },
               {
                 "t": "p",
-                "x": "Air Canada的聊天机器人案赔偿了$812.02，暴露出隐性成本。设计师可能沦为替AI收拾残局的清洁工，呼应了NN/G所说的“UX的清洁工时代”。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-                "cap": "NN/G：设计师如何沦为清洁工"
+                "x": "设计师们说，AI-rendered 图像意味着后期工作更多。“过去一小时能做完的事，现在可能要花三小时，”一位 Boston 设计师说。Premier Designs 的 Michele Kasl 表示，客户如今期待更短的工期：“坦白说，我们因此丢了生意。”Rock Pixel Scissors 的 Robert Lodi 为 AI-built 模型增加了重新设计环节：“我还没见过哪一个能通过无障碍测试。”"
               },
               {
                 "t": "p",
-                "x": "她的建议是：先理解问题，在完成繁重的思考之后再把AI当作工具。“We are in the age of AI AND we can be in the age of craft too.”（我们身处AI时代，也同样可以身处手艺时代。）"
+                "x": "市场营销设计师 Erik 被告知“直接问 ChatGPT 就行”，在 AI 使用问题上发生冲突后最终丢了工作；Alan Peters 的团队被裁，取而代之的是一项在线 AI 服务。Foran 说，年轻设计师正在离开这个行业，因为“一直没有机会”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La UI AI-generated es diseño\nrápido, no UX",
-          "body": "Sophie Shrimpton sostiene que la UI AI-generated acelera la producción pero se salta el descubrimiento del problema.",
-          "mini_headline": "UI de AI: diseño rápido, no UX",
+          "headline": "Clientes AI-pilled convierten\na diseñadores en meros operarios",
+          "body": "Según los diseñadores, las maquetas con AI y el 'pregunta a ChatGPT' de los clientes los relegan a corregir.",
+          "mini_headline": "Diseñadores como meros operarios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-                "cap": "Mesa con patas talladas de la tienda del padrastro de la autora, Architectural Salvage"
+                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
               },
               {
                 "t": "p",
-                "x": "Sophie Shrimpton comienza con las piezas de los siglos 17 y 18, talladas a mano, que rescató su padrastro, y las contrasta con su tambaleante mesa de comedor de gama básica. El mueble rápido, escribe, cambió buenos materiales y oficio por velocidad y margen; la EPA contabiliza 12.1M de toneladas de muebles en vertederos, un 450% más que en la década de 1960."
+                "x": "Emily Foran, directora creativa, diseñadora gráfica y presidenta de AIGA Maine, lleva un año sin que sus clientes le pidan una idea original desde el principio. “Tengo clientes, nuevos y de siempre, que me mandan basura que le pidieron maquetar a Claude o ChatGPT y luego me piden que la limpie o que trabaje directamente con ella”, dice. Se siente más una “empujadora de píxeles” que una creativa."
               },
               {
                 "t": "p",
-                "x": "Ahora las empresas quieren la misma velocidad de la AI. La AI es una herramienta útil, sostiene, pero no puede reemplazar el pensamiento humano: los diseñadores necesitan libertad para divagar, cuestionar y fallar. Citando a Giorgia Lupi, advierte contra quedarse en la respuesta más simple. Una mentalidad de \"primero el prompt, pensar nunca\" produce lo que ella llama AI slop: UI generada en unos pocos prompts, sin revisión ni un problema conocido."
+                "x": "Es una de los más de una docena de diseñadores gráficos entrevistados por Fast Company que afirman que la AI generativa ha cambiado por completo su relación con jefes, clientes y trabajo en los últimos 18 meses. Los clientes han pedido tarifas más bajas, algunos diseñadores han sido despedidos con el argumento de que la AI los reemplazaría y otros reciben indicaciones que se reducen a “Pregúntale a ChatGPT”."
               },
               {
                 "t": "p",
-                "x": "El caso del chatbot de Air Canada, que costó $812.02 en daños, muestra el costo oculto. Los diseñadores corren el riesgo de convertirse en conserjes que limpian lo que deja la AI, en línea con la \"era custodial de la UX\" de NN/G."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-                "cap": "NN/G: cómo los diseñadores se están convirtiendo en conserjes"
+                "x": "Los diseñadores dicen que las imágenes AI-rendered implican más trabajo al final del proceso. “Lo que antes me llevaba una hora puede llevarme ahora tres horas”, dice un diseñador de Boston. Michele Kasl, de Premier Designs, cuenta que los clientes ahora esperan plazos más cortos: “Francamente, hemos perdido negocio por eso”. Robert Lodi, de Rock Pixel Scissors, ha añadido una fase de rediseño para las maquetas AI-built: “Todavía no he visto ninguna que vaya a pasar una prueba de accesibilidad”."
               },
               {
                 "t": "p",
-                "x": "Su consejo: entender primero el problema y luego usar la AI como herramienta una vez hecho el trabajo intelectual pesado. \"We are in the age of AI AND we can be in the age of craft too.\" (Estamos en la era de la AI y también podemos estar en la era del oficio.)"
+                "x": "Al diseñador de marketing Erik le dijeron que “simplemente le preguntara a ChatGPT” y acabó perdiendo su empleo tras chocar por el uso de la AI; el equipo de Alan Peters fue despedido en favor de un servicio de AI en línea. Foran dice que los diseñadores jóvenes están dejando el sector porque “no ha habido oportunidades”."
               }
             ]
           }
@@ -1471,165 +1219,285 @@
       }
     },
     {
-      "id": "boring-ai-hollywood-vfx",
+      "id": "design-accessibility-agent-ux",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Hollywood의 최선은\n지루한 AI일지도",
-      "body": "생성형 AI의 진짜 성과는 대본 분석·일정·예산 같은 사전 제작에서 나올지 모른다.",
-      "mini_headline": "Hollywood엔 지루한 AI가 맞다",
-      "tool": "KeyShot",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
-      "accent": "#eb367f",
-      "motif": "sphere",
+      "headline": "접근성 마크업이\nAI 에이전트의 UX다",
+      "body": "AI 에이전트는 화면 아닌 의미 구조를 읽기에 접근성 마크업이 곧 에이전트 UX다.",
+      "mini_headline": "접근성이 곧 에이전트 UX",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
+      "accent": "#3b6bff",
+      "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+            "cap": "독자는 둘, 페이지는 하나. 에이전트는 디자인한 화면을 보지 않고 그 아래 구조를 읽는다."
           },
           {
             "t": "p",
-            "x": "흥행 참패 한 편이면 스튜디오는 수천만, 많게는 수억 달러를 잃을 수도 있다. 생성형 AI에 끌릴 만하다. 하지만 Filmustage CEO Egor Dubrovsky는 관객도 업계 종사자도 AI가 주연을 맡는 데 반대한다고 주장한다. AI에게 창작 일자리를 내주지 않는 문제는 2023년 SAG-AFTRA 파업의 핵심 원인이었다."
+            "x": "웹사이트에 새 방문자가 생겼다. 이들은 페이지를 단순화한 모델, 곧 접근성 트리를 읽는다. 브라우저가 이십 년 동안 스크린 리더용으로 다듬어 온 바로 그 구조다. 2026년 6월 초 Cloudflare는 웹의 자동화 트래픽이 처음으로 사람 트래픽을 넘어섰다고 발표했다. 페이지 요청 기준 약 57퍼센트 대 43퍼센트다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+            "cap": "어디서 시작할지는 업체마다 갈린다."
           },
           {
             "t": "p",
-            "x": "Netflix의 The Gentlemen은 대본 분석, 촬영 결정 지원, 원활한 제작 운영처럼 보이지 않는 곳에만 AI를 썼다. 요즘은 많은 작품이 대본 분석, 촬영 일정, 예산 계획 같은 단순 사전 제작 업무를 AI에 맡긴다. 화면에 담길 내용에는 손대지 않는 일들이다."
+            "x": "에이전트는 스크린숏, 원본 HTML, 접근성 트리 가운데 무엇이든 읽는다. Claude in Chrome의 read_page 도구는 접근성 트리부터 가져온다. Microsoft의 Playwright MCP는 구조화된 접근성 스냅숏으로 움직인다. OpenAI는 사이트 운영자들에게 Atlas가 ARIA 태그로 페이지 구조를 해석한다고 안내한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+            "cap": "CHI 2026에서 발표된 A11y-CUA 연구"
           },
           {
             "t": "p",
-            "x": "며칠 걸리던 장면 분석이 몇 분이면 끝난다. 사전 제작은 평균적으로 전체 예산의 10-15%를 차지한다. 스튜디오는 아낀 돈을 대본 다듬기, 특수효과 개선, 연기 완성처럼 관객에게 중요한 곳에 써야 한다."
+            "x": "A11y-CUA 연구에서 Claude Sonnet 4.5는 일상 과제 60개 가운데 일반 접근 환경에서 약 78퍼센트, 키보드만 쓸 때 42퍼센트, 화면을 확대한 상태에서 28퍼센트를 완수했다. 키보드 사용자가 막히는 과제에서는 대개 에이전트도 막힌다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+            "cap": "The WebAIM Million"
+          },
+          {
+            "t": "p",
+            "x": "WebAIM이 상위 백만 개 홈페이지를 살펴보니 95.9퍼센트에서 감지 가능한 WCAG 오류가 나왔다. 이전 94.8퍼센트보다 늘었고, WebAIM은 AI-assisted 코딩을 유력한 원인으로 본다. 해법은 네이티브 HTML, 논리적인 제목과 랜드마크, 이름 붙은 컨트롤, 대체 텍스트, 레이블 달린 입력 필드, 상태 안내다. 에이전트가 직접 행동해야 하는 흐름부터 손보면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hollywood's best AI bet\nmay be the boring kind",
-          "body": "Generative AI's real win in film may be boring pre-production work like script breakdowns, schedules and budgets.",
-          "mini_headline": "Boring AI suits Hollywood",
+          "headline": "Accessible markup is now\nthe UX that AI agents read",
+          "body": "AI agents skip the surface you designed and read the semantic structure beneath, so accessible markup is now agent UX.",
+          "mini_headline": "Accessibility is agent UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+                "cap": "Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath."
               },
               {
                 "t": "p",
-                "x": "A single box office bomb can lose studios tens, if not hundreds, of millions, so the temptation to use generative AI is understandable. But Filmustage CEO Egor Dubrovsky argues audiences and workers reject AI in a starring role; preventing AI from taking creative jobs was a primary cause of the 2023 SAG-AFTRA strike."
+                "x": "Your website has a new kind of visitor. It reads a stripped-down model of the page called the accessibility tree — the same structure browsers have built for screen readers for two decades. In early June 2026, Cloudflare reported that automated traffic had passed human traffic on the web for the first time, roughly 57 percent of page requests against 43 percent."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+                "cap": "The vendors split on where they start."
               },
               {
                 "t": "p",
-                "x": "Netflix's The Gentlemen used AI only behind the scenes, to break down the script, inform shooting decisions and keep production running. Many productions now assign AI menial pre-production tasks such as script breakdowns, shooting schedules and budget planning that do not influence what ends up on screen."
+                "x": "Agents can read a screenshot, raw HTML, or the accessibility tree. Claude in Chrome’s read_page tool takes the accessibility tree first; Microsoft’s Playwright MCP works from structured accessibility snapshots; OpenAI tells site owners that Atlas uses ARIA tags to interpret page structure."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+                "cap": "A11y-CUA study presented at CHI 2026"
               },
               {
                 "t": "p",
-                "x": "A scene breakdown that took days can be done in minutes. Pre-production accounts for 10-15% of the total budget on average. Studios should use the savings to focus on what matters to audiences: refining scripts, improving special effects, perfecting performances."
+                "x": "In the A11y-CUA study, Claude Sonnet 4.5 finished about 78 percent of 60 everyday tasks with normal access, 42 percent keyboard-only and 28 percent under a magnified viewport. If a keyboard user cannot finish the task, the agent usually cannot either."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+                "cap": "The WebAIM Million"
+              },
+              {
+                "t": "p",
+                "x": "WebAIM found detectable WCAG failures on 95.9 percent of the top million home pages, up from 94.8 percent, and names AI-assisted coding as a likely culprit. The fix is native HTML, logical headings and landmarks, named controls, alt text, labeled fields and announced state — starting with the flows where an agent has to act."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Hollywood의 최선은\n지루한 AI일지도",
-          "body": "생성형 AI의 진짜 성과는 대본 분석·일정·예산 같은 사전 제작에서 나올지 모른다.",
-          "mini_headline": "Hollywood엔 지루한 AI가 맞다",
+          "headline": "접근성 마크업이\nAI 에이전트의 UX다",
+          "body": "AI 에이전트는 화면 아닌 의미 구조를 읽기에 접근성 마크업이 곧 에이전트 UX다.",
+          "mini_headline": "접근성이 곧 에이전트 UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+                "cap": "독자는 둘, 페이지는 하나. 에이전트는 디자인한 화면을 보지 않고 그 아래 구조를 읽는다."
               },
               {
                 "t": "p",
-                "x": "흥행 참패 한 편이면 스튜디오는 수천만, 많게는 수억 달러를 잃을 수도 있다. 생성형 AI에 끌릴 만하다. 하지만 Filmustage CEO Egor Dubrovsky는 관객도 업계 종사자도 AI가 주연을 맡는 데 반대한다고 주장한다. AI에게 창작 일자리를 내주지 않는 문제는 2023년 SAG-AFTRA 파업의 핵심 원인이었다."
+                "x": "웹사이트에 새 방문자가 생겼다. 이들은 페이지를 단순화한 모델, 곧 접근성 트리를 읽는다. 브라우저가 이십 년 동안 스크린 리더용으로 다듬어 온 바로 그 구조다. 2026년 6월 초 Cloudflare는 웹의 자동화 트래픽이 처음으로 사람 트래픽을 넘어섰다고 발표했다. 페이지 요청 기준 약 57퍼센트 대 43퍼센트다."
               },
-              {
-                "t": "p",
-                "x": "Netflix의 The Gentlemen은 대본 분석, 촬영 결정 지원, 원활한 제작 운영처럼 보이지 않는 곳에만 AI를 썼다. 요즘은 많은 작품이 대본 분석, 촬영 일정, 예산 계획 같은 단순 사전 제작 업무를 AI에 맡긴다. 화면에 담길 내용에는 손대지 않는 일들이다."
-              },
-              {
-                "t": "p",
-                "x": "며칠 걸리던 장면 분석이 몇 분이면 끝난다. 사전 제작은 평균적으로 전체 예산의 10-15%를 차지한다. 스튜디오는 아낀 돈을 대본 다듬기, 특수효과 개선, 연기 완성처럼 관객에게 중요한 곳에 써야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Hollywoodの最善手は\n退屈なAIかもしれない",
-          "body": "生成AIの映画での真の勝ち筋は、脚本分解や日程、予算など退屈な制作準備かもしれない。",
-          "mini_headline": "Hollywoodには退屈なAIが合う",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+                "cap": "어디서 시작할지는 업체마다 갈린다."
               },
               {
                 "t": "p",
-                "x": "興行的な大失敗が一本出れば、スタジオは数千万ドル、場合によっては数億ドルを失いかねない。生成AIを使いたくなるのも無理はない。だがFilmustageのCEO、Egor Dubrovskyは、観客も働き手もAIが主役を務めることを拒んでいると主張する。AIに創作の仕事を奪わせないことは、2023年のSAG-AFTRAストライキの主な原因だった。"
+                "x": "에이전트는 스크린숏, 원본 HTML, 접근성 트리 가운데 무엇이든 읽는다. Claude in Chrome의 read_page 도구는 접근성 트리부터 가져온다. Microsoft의 Playwright MCP는 구조화된 접근성 스냅숏으로 움직인다. OpenAI는 사이트 운영자들에게 Atlas가 ARIA 태그로 페이지 구조를 해석한다고 안내한다."
               },
-              {
-                "t": "p",
-                "x": "NetflixのThe Gentlemenは、脚本の分解、撮影判断の材料づくり、制作の円滑な進行といった裏方の作業にのみAIを使った。いまでは多くの作品が、脚本分解や撮影スケジュール、予算計画など、画面に映る内容には影響しない地味なプリプロダクション業務をAIに任せている。"
-              },
-              {
-                "t": "p",
-                "x": "数日かかっていたシーン分解が数分で終わる。プリプロダクションは平均して総予算の10-15%を占める。スタジオは浮いた費用を、脚本の推敲、特殊効果の改善、演技の磨き上げなど、観客にとって大事なことに振り向けるべきだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Hollywood的最佳AI\n或许是无聊的那种",
-          "body": "生成式AI在电影业真正的用武之地，或许是剧本拆解、排期和预算等枯燥的前期工作。",
-          "mini_headline": "枯燥的AI更适合Hollywood",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+                "cap": "CHI 2026에서 발표된 A11y-CUA 연구"
               },
               {
                 "t": "p",
-                "x": "一部票房惨败的电影就可能让片厂损失数千万甚至数亿美元，因此使用生成式AI的诱惑可以理解。但Filmustage CEO Egor Dubrovsky认为，观众和从业者都排斥让AI担纲主角；阻止AI抢走创意工作，正是2023年SAG-AFTRA罢工的主要原因。"
+                "x": "A11y-CUA 연구에서 Claude Sonnet 4.5는 일상 과제 60개 가운데 일반 접근 환경에서 약 78퍼센트, 키보드만 쓸 때 42퍼센트, 화면을 확대한 상태에서 28퍼센트를 완수했다. 키보드 사용자가 막히는 과제에서는 대개 에이전트도 막힌다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+                "cap": "The WebAIM Million"
               },
               {
                 "t": "p",
-                "x": "Netflix的《The Gentlemen》只在幕后使用AI，用于拆解剧本、辅助拍摄决策和维持制作运转。如今许多剧组把剧本拆解、拍摄排期和预算规划等不影响最终画面的琐碎前期工作交给AI。"
-              },
-              {
-                "t": "p",
-                "x": "过去需要几天的分场拆解，现在几分钟就能完成。前期制作平均占总预算的10-15%。片厂应把省下的钱用在观众在意的地方：打磨剧本、提升特效、完善表演。"
+                "x": "WebAIM이 상위 백만 개 홈페이지를 살펴보니 95.9퍼센트에서 감지 가능한 WCAG 오류가 나왔다. 이전 94.8퍼센트보다 늘었고, WebAIM은 AI-assisted 코딩을 유력한 원인으로 본다. 해법은 네이티브 HTML, 논리적인 제목과 랜드마크, 이름 붙은 컨트롤, 대체 텍스트, 레이블 달린 입력 필드, 상태 안내다. 에이전트가 직접 행동해야 하는 흐름부터 손보면 된다."
               }
             ]
           }
         },
         "es": {
-          "headline": "La mejor apuesta AI de Hollywood\nquizá sea la más aburrida",
-          "body": "El gran acierto de la AI generativa en el cine podría ser la tediosa preproducción: guiones, calendarios y presupuestos.",
-          "mini_headline": "La AI aburrida le sienta bien a Hollywood",
+          "headline": "El marcado accesible es ahora\nla UX que leen agentes de AI",
+          "body": "Los agentes de AI leen la estructura semántica y no la superficie, así que el marcado accesible es su UX.",
+          "mini_headline": "La accesibilidad es UX para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+                "cap": "Dos lectores, una página. El agente nunca ve la superficie que diseñaste; lee la estructura que hay debajo."
               },
               {
                 "t": "p",
-                "x": "Un solo fracaso de taquilla puede costar a los estudios decenas, si no cientos, de millones, así que la tentación de usar AI generativa es comprensible. Pero Egor Dubrovsky, CEO de Filmustage, sostiene que el público y los trabajadores rechazan a la AI en un papel protagonista; impedir que la AI se quedara con empleos creativos fue una causa principal de la huelga de SAG-AFTRA de 2023."
+                "x": "Tu sitio web tiene un nuevo tipo de visitante. Lee un modelo simplificado de la página llamado árbol de accesibilidad, la misma estructura que los navegadores llevan dos décadas construyendo para los lectores de pantalla. A principios de junio de 2026, Cloudflare informó de que el tráfico automatizado había superado por primera vez al humano en la web, con aproximadamente un 57 por ciento de las solicitudes de página frente a un 43 por ciento."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+                "cap": "Los proveedores difieren en por dónde empiezan."
               },
               {
                 "t": "p",
-                "x": "The Gentlemen, de Netflix, usó la AI solo entre bastidores, para desglosar el guion, orientar decisiones de rodaje y mantener la producción en marcha. Muchas producciones asignan ahora a la AI tareas menores de preproducción, como desgloses de guion, planes de rodaje y planificación presupuestaria, que no influyen en lo que acaba en pantalla."
+                "x": "Los agentes pueden leer una captura de pantalla, el HTML sin procesar o el árbol de accesibilidad. La herramienta read_page de Claude in Chrome toma primero el árbol de accesibilidad; Playwright MCP, de Microsoft, trabaja a partir de instantáneas estructuradas de accesibilidad; OpenAI indica a los responsables de sitios que Atlas usa etiquetas ARIA para interpretar la estructura de la página."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+                "cap": "Estudio A11y-CUA presentado en CHI 2026"
               },
               {
                 "t": "p",
-                "x": "Un desglose de escenas que llevaba días puede hacerse en minutos. La preproducción representa en promedio el 10-15% del presupuesto total. Los estudios deberían usar el ahorro para centrarse en lo que importa al público: pulir guiones, mejorar los efectos especiales y perfeccionar las actuaciones."
+                "x": "En el estudio A11y-CUA, Claude Sonnet 4.5 completó alrededor del 78 por ciento de 60 tareas cotidianas con acceso normal, el 42 por ciento solo con teclado y el 28 por ciento con una ventana ampliada. Si un usuario de teclado no puede terminar la tarea, normalmente el agente tampoco."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+                "cap": "The WebAIM Million"
+              },
+              {
+                "t": "p",
+                "x": "WebAIM detectó fallos de WCAG en el 95.9 por ciento del millón de páginas de inicio principales, frente al 94.8 por ciento anterior, y señala la programación AI-assisted como probable causa. La solución pasa por HTML nativo, encabezados y landmarks lógicos, controles con nombre, texto alternativo, campos etiquetados y estados anunciados, empezando por los flujos en los que un agente tiene que actuar."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "アクセシブルなマークアップは\nAIエージェントが読むUX",
+          "body": "AIエージェントは画面より構造を読み、アクセシブルなマークアップがエージェントUXになる。",
+          "mini_headline": "アクセシビリティはエージェントUXだ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+                "cap": "ひとつのページに、ふたりの読み手。エージェントは設計された見た目を見ることはなく、その下の構造を読む。"
+              },
+              {
+                "t": "p",
+                "x": "ウェブサイトに新しい種類の訪問者が来ている。それはアクセシビリティツリーと呼ばれる、ページを簡素化したモデルを読む。ブラウザが二十年にわたりスクリーンリーダーのために構築してきたのと同じ構造だ。2026年6月上旬、Cloudflareはウェブ上の自動トラフィックが初めて人間のトラフィックを上回ったと報告した。ページリクエストの約57パーセント対43パーセントである。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+                "cap": "どこから読み始めるかは、ベンダーによって分かれる。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントはスクリーンショット、生のHTML、あるいはアクセシビリティツリーを読むことができる。Claude in Chromeのread_pageツールはまずアクセシビリティツリーを取得する。MicrosoftのPlaywright MCPは構造化されたアクセシビリティのスナップショットをもとに動作する。OpenAIはサイト運営者に対し、AtlasがARIAタグを使ってページ構造を解釈していると説明している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+                "cap": "CHI 2026で発表されたA11y-CUA研究"
+              },
+              {
+                "t": "p",
+                "x": "A11y-CUA研究では、Claude Sonnet 4.5は60の日常的なタスクのうち、通常のアクセスで約78パーセント、キーボードのみで42パーセント、拡大表示のビューポートで28パーセントを完了した。キーボード利用者がタスクを終えられなければ、エージェントもたいてい終えられない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+                "cap": "The WebAIM Million"
+              },
+              {
+                "t": "p",
+                "x": "WebAIMは上位百万件のホームページの95.9パーセントで検出可能なWCAG違反を確認した。前回の94.8パーセントから増えており、AI-assistedなコーディングが原因の一つとみられるという。対策はネイティブなHTML、論理的な見出しとランドマーク、名前の付いたコントロール、代替テキスト、ラベル付きの入力欄、状態の読み上げだ。まずはエージェントが操作しなければならないフローから始めるべきである。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "无障碍标记如今\n就是AI智能体读取的UX",
+          "body": "AI智能体跳过你设计的界面，直接读取底层语义结构，因此无障碍标记已成为智能体UX。",
+          "mini_headline": "无障碍即智能体UX",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+                "cap": "同一个页面，两类读者。智能体从不看你设计的界面，它读取的是底层结构。"
+              },
+              {
+                "t": "p",
+                "x": "你的网站迎来了一种新的访客。它读取的是页面的精简模型，即无障碍树——二十年来浏览器一直为屏幕阅读器构建的同一种结构。2026年6月上旬，Cloudflare报告称，网络上的自动化流量首次超过人类流量，在页面请求中约占57%，人类约占43%。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+                "cap": "各厂商的切入点各不相同。"
+              },
+              {
+                "t": "p",
+                "x": "智能体可以读取截图、原始HTML或无障碍树。Claude in Chrome的read_page工具优先读取无障碍树；Microsoft的Playwright MCP基于结构化的无障碍快照运行；OpenAI则告诉网站所有者，Atlas借助ARIA标签来理解页面结构。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+                "cap": "在CHI 2026上发表的A11y-CUA研究"
+              },
+              {
+                "t": "p",
+                "x": "在A11y-CUA研究中，Claude Sonnet 4.5在60项日常任务中，正常访问时完成约78%，仅用键盘时完成42%，放大视口下完成百分之二十八。如果键盘用户无法完成某项任务，智能体通常也做不到。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+                "cap": "The WebAIM Million"
+              },
+              {
+                "t": "p",
+                "x": "WebAIM发现，排名前一百万的网站首页中有95.9%存在可检测的WCAG问题，高于此前的94.8%，并指出AI-assisted编码可能是原因之一。解决办法是原生HTML、合乎逻辑的标题与地标、有名称的控件、替代文本、带标签的字段以及可播报的状态——先从智能体必须执行操作的流程做起。"
               }
             ]
           }
@@ -1637,105 +1505,497 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Hollywood의 최선은\n지루한 AI일지도",
-          "body": "생성형 AI의 진짜 성과는 대본 분석·일정·예산 같은 지루한 사전 제작일지 모른다.",
-          "mini_headline": "Hollywood엔 지루한 AI가 맞다",
+          "headline": "접근성 마크업이\nAI 에이전트의 UX다",
+          "body": "AI 에이전트는 화면 대신 의미 구조를 읽어, 접근성 마크업이 에이전트 UX다.",
+          "mini_headline": "접근성이 곧 에이전트 UX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+                "cap": "독자는 둘, 페이지는 하나. 에이전트는 디자인한 화면을 보지 않고 그 아래 구조를 읽는다."
               },
               {
                 "t": "p",
-                "x": "흥행 참패 한 편으로 스튜디오는 수천만, 많게는 수억 달러를 잃을 수 있으니 생성형 AI를 쓰고 싶은 유혹은 이해할 만하다. 하지만 Filmustage CEO Egor Dubrovsky는 관객과 업계 종사자 모두 AI가 주연을 맡는 데 반대한다고 주장한다. AI가 창작 일자리를 빼앗지 못하게 막는 것은 2023년 SAG-AFTRA 파업의 핵심 원인이었다."
+                "x": "웹사이트에 새로운 방문자가 생겼다. 이 방문자는 접근성 트리라는, 페이지를 단순화한 모델을 읽는다. 브라우저가 이십 년 동안 스크린 리더를 위해 만들어 온 바로 그 구조다. 2026년 6월 초 Cloudflare는 웹에서 자동화 트래픽이 처음으로 사람의 트래픽을 넘어섰다고 발표했다. 페이지 요청 기준으로 약 57퍼센트 대 43퍼센트다."
               },
-              {
-                "t": "p",
-                "x": "Netflix의 The Gentlemen은 대본 분석, 촬영 결정 지원, 원활한 제작 운영 등 보이지 않는 곳에서만 AI를 썼다. 이제 많은 작품이 대본 분석, 촬영 일정, 예산 계획처럼 화면에 담길 내용에는 영향을 주지 않는 단순한 사전 제작 업무를 AI에 맡긴다."
-              },
-              {
-                "t": "p",
-                "x": "며칠 걸리던 장면 분석을 몇 분 만에 끝낼 수 있다. 사전 제작은 평균적으로 전체 예산의 10-15%를 차지한다. 스튜디오는 절감한 비용을 대본 다듬기, 특수효과 개선, 연기 완성처럼 관객에게 중요한 일에 써야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Hollywoodの最善手は\n退屈なAIかもしれない",
-          "body": "生成AIの映画での真の勝ち筋は、脚本分解や日程、予算など退屈な制作準備かもしれない。",
-          "mini_headline": "Hollywoodには退屈なAIが合う",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+                "cap": "어디서 시작하느냐를 두고 업체들의 선택이 갈린다."
               },
               {
                 "t": "p",
-                "x": "興行的な大失敗が一本出れば、スタジオは数千万ドル、場合によっては数億ドルを失いかねない。生成AIを使いたくなるのも無理はない。だがFilmustageのCEO、Egor Dubrovskyは、観客も働き手もAIが主役を務めることを拒んでいると主張する。AIに創作の仕事を奪わせないことは、2023年のSAG-AFTRAストライキの主な原因だった。"
+                "x": "에이전트는 스크린숏, 원본 HTML, 접근성 트리 가운데 무엇이든 읽을 수 있다. Claude in Chrome의 read_page 도구는 접근성 트리를 먼저 가져오고, Microsoft의 Playwright MCP는 구조화된 접근성 스냅숏을 바탕으로 작동한다. OpenAI는 사이트 운영자들에게 Atlas가 페이지 구조를 해석할 때 ARIA 태그를 쓴다고 안내한다."
               },
-              {
-                "t": "p",
-                "x": "NetflixのThe Gentlemenは、脚本の分解、撮影判断の材料づくり、制作の円滑な進行といった裏方の作業にのみAIを使った。いまでは多くの作品が、脚本分解や撮影スケジュール、予算計画など、画面に映る内容には影響しない地味なプリプロダクション業務をAIに任せている。"
-              },
-              {
-                "t": "p",
-                "x": "数日かかっていたシーン分解が数分で終わる。プリプロダクションは平均して総予算の10-15%を占める。スタジオは浮いた費用を、脚本の推敲、特殊効果の改善、演技の磨き上げなど、観客にとって大事なことに振り向けるべきだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Hollywood的最佳AI\n或许是无聊的那种",
-          "body": "生成式AI在电影业真正的用武之地，或许是剧本拆解、排期和预算等枯燥的前期工作。",
-          "mini_headline": "枯燥的AI更适合Hollywood",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+                "cap": "CHI 2026에서 발표된 A11y-CUA 연구"
               },
               {
                 "t": "p",
-                "x": "一部票房惨败的电影就可能让片厂损失数千万甚至数亿美元，因此使用生成式AI的诱惑可以理解。但Filmustage CEO Egor Dubrovsky认为，观众和从业者都排斥让AI担纲主角；阻止AI抢走创意工作，正是2023年SAG-AFTRA罢工的主要原因。"
+                "x": "A11y-CUA 연구에서 Claude Sonnet 4.5는 일상 과제 60개 가운데 일반 접근 환경에서 약 78퍼센트, 키보드만 쓸 때 42퍼센트, 화면을 확대한 상태에서 28퍼센트를 완수했다. 키보드 사용자가 끝내지 못하는 과제는 대개 에이전트도 끝내지 못한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+                "cap": "The WebAIM Million"
               },
               {
                 "t": "p",
-                "x": "Netflix的《The Gentlemen》只在幕后使用AI，用于拆解剧本、辅助拍摄决策和维持制作运转。如今许多剧组把剧本拆解、拍摄排期和预算规划等不影响最终画面的琐碎前期工作交给AI。"
-              },
-              {
-                "t": "p",
-                "x": "过去需要几天的分场拆解，现在几分钟就能完成。前期制作平均占总预算的10-15%。片厂应把省下的钱用在观众在意的地方：打磨剧本、提升特效、完善表演。"
+                "x": "WebAIM은 상위 백만 개 홈페이지의 95.9퍼센트에서 감지 가능한 WCAG 오류를 발견했다. 이전 94.8퍼센트보다 늘어난 수치로, WebAIM은 AI-assisted 코딩을 유력한 원인으로 꼽는다. 해법은 네이티브 HTML, 논리적인 제목과 랜드마크, 이름이 붙은 컨트롤, 대체 텍스트, 레이블이 달린 입력 필드, 상태 안내다. 에이전트가 직접 행동해야 하는 흐름부터 시작하면 된다."
               }
             ]
           }
         },
         "es": {
-          "headline": "La mejor apuesta AI de Hollywood\nquizá sea la más aburrida",
-          "body": "El gran acierto de la AI generativa en el cine podría ser la tediosa preproducción: guiones, calendarios y presupuestos.",
-          "mini_headline": "La AI aburrida le sienta bien a Hollywood",
+          "headline": "El marcado accesible es ahora\nla UX que leen agentes de AI",
+          "body": "Los agentes de AI leen la estructura semántica y no la superficie, así que el marcado accesible es su UX.",
+          "mini_headline": "La accesibilidad es UX para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+                "cap": "Dos lectores, una página. El agente nunca ve la superficie que diseñaste; lee la estructura que hay debajo."
               },
               {
                 "t": "p",
-                "x": "Un solo fracaso de taquilla puede costar a los estudios decenas, si no cientos, de millones, así que la tentación de usar AI generativa es comprensible. Pero Egor Dubrovsky, CEO de Filmustage, sostiene que el público y los trabajadores rechazan a la AI en un papel protagonista; impedir que la AI se quedara con empleos creativos fue una causa principal de la huelga de SAG-AFTRA de 2023."
+                "x": "Tu sitio web tiene un nuevo tipo de visitante. Lee un modelo simplificado de la página llamado árbol de accesibilidad, la misma estructura que los navegadores llevan dos décadas construyendo para los lectores de pantalla. A principios de junio de 2026, Cloudflare informó de que el tráfico automatizado había superado por primera vez al humano en la web, con aproximadamente un 57 por ciento de las solicitudes de página frente a un 43 por ciento."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+                "cap": "Los proveedores difieren en por dónde empiezan."
               },
               {
                 "t": "p",
-                "x": "The Gentlemen, de Netflix, usó la AI solo entre bastidores, para desglosar el guion, orientar decisiones de rodaje y mantener la producción en marcha. Muchas producciones asignan ahora a la AI tareas menores de preproducción, como desgloses de guion, planes de rodaje y planificación presupuestaria, que no influyen en lo que acaba en pantalla."
+                "x": "Los agentes pueden leer una captura de pantalla, el HTML sin procesar o el árbol de accesibilidad. La herramienta read_page de Claude in Chrome toma primero el árbol de accesibilidad; Playwright MCP, de Microsoft, trabaja a partir de instantáneas estructuradas de accesibilidad; OpenAI indica a los responsables de sitios que Atlas usa etiquetas ARIA para interpretar la estructura de la página."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+                "cap": "Estudio A11y-CUA presentado en CHI 2026"
               },
               {
                 "t": "p",
-                "x": "Un desglose de escenas que llevaba días puede hacerse en minutos. La preproducción representa en promedio el 10-15% del presupuesto total. Los estudios deberían usar el ahorro para centrarse en lo que importa al público: pulir guiones, mejorar los efectos especiales y perfeccionar las actuaciones."
+                "x": "En el estudio A11y-CUA, Claude Sonnet 4.5 completó alrededor del 78 por ciento de 60 tareas cotidianas con acceso normal, el 42 por ciento solo con teclado y el 28 por ciento con una ventana ampliada. Si un usuario de teclado no puede terminar la tarea, normalmente el agente tampoco."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+                "cap": "The WebAIM Million"
+              },
+              {
+                "t": "p",
+                "x": "WebAIM detectó fallos de WCAG en el 95.9 por ciento del millón de páginas de inicio principales, frente al 94.8 por ciento anterior, y señala la programación AI-assisted como probable causa. La solución pasa por HTML nativo, encabezados y landmarks lógicos, controles con nombre, texto alternativo, campos etiquetados y estados anunciados, empezando por los flujos en los que un agente tiene que actuar."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "アクセシブルなマークアップは\nAIエージェントが読むUX",
+          "body": "AIエージェントは画面より構造を読み、アクセシブルなマークアップがエージェントUXになる。",
+          "mini_headline": "アクセシビリティはエージェントUXだ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+                "cap": "ひとつのページに、ふたりの読み手。エージェントは設計された見た目を見ることはなく、その下の構造を読む。"
+              },
+              {
+                "t": "p",
+                "x": "ウェブサイトに新しい種類の訪問者が来ている。それはアクセシビリティツリーと呼ばれる、ページを簡素化したモデルを読む。ブラウザが二十年にわたりスクリーンリーダーのために構築してきたのと同じ構造だ。2026年6月上旬、Cloudflareはウェブ上の自動トラフィックが初めて人間のトラフィックを上回ったと報告した。ページリクエストの約57パーセント対43パーセントである。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+                "cap": "どこから読み始めるかは、ベンダーによって分かれる。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントはスクリーンショット、生のHTML、あるいはアクセシビリティツリーを読むことができる。Claude in Chromeのread_pageツールはまずアクセシビリティツリーを取得する。MicrosoftのPlaywright MCPは構造化されたアクセシビリティのスナップショットをもとに動作する。OpenAIはサイト運営者に対し、AtlasがARIAタグを使ってページ構造を解釈していると説明している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+                "cap": "CHI 2026で発表されたA11y-CUA研究"
+              },
+              {
+                "t": "p",
+                "x": "A11y-CUA研究では、Claude Sonnet 4.5は60の日常的なタスクのうち、通常のアクセスで約78パーセント、キーボードのみで42パーセント、拡大表示のビューポートで28パーセントを完了した。キーボード利用者がタスクを終えられなければ、エージェントもたいてい終えられない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+                "cap": "The WebAIM Million"
+              },
+              {
+                "t": "p",
+                "x": "WebAIMは上位百万件のホームページの95.9パーセントで検出可能なWCAG違反を確認した。前回の94.8パーセントから増えており、AI-assistedなコーディングが原因の一つとみられるという。対策はネイティブなHTML、論理的な見出しとランドマーク、名前の付いたコントロール、代替テキスト、ラベル付きの入力欄、状態の読み上げだ。まずはエージェントが操作しなければならないフローから始めるべきである。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "无障碍标记如今\n就是AI智能体读取的UX",
+          "body": "AI智能体跳过你设计的界面，直接读取底层语义结构，因此无障碍标记已成为智能体UX。",
+          "mini_headline": "无障碍即智能体UX",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+                "cap": "同一个页面，两类读者。智能体从不看你设计的界面，它读取的是底层结构。"
+              },
+              {
+                "t": "p",
+                "x": "你的网站迎来了一种新的访客。它读取的是页面的精简模型，即无障碍树——二十年来浏览器一直为屏幕阅读器构建的同一种结构。2026年6月上旬，Cloudflare报告称，网络上的自动化流量首次超过人类流量，在页面请求中约占57%，人类约占43%。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+                "cap": "各厂商的切入点各不相同。"
+              },
+              {
+                "t": "p",
+                "x": "智能体可以读取截图、原始HTML或无障碍树。Claude in Chrome的read_page工具优先读取无障碍树；Microsoft的Playwright MCP基于结构化的无障碍快照运行；OpenAI则告诉网站所有者，Atlas借助ARIA标签来理解页面结构。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+                "cap": "在CHI 2026上发表的A11y-CUA研究"
+              },
+              {
+                "t": "p",
+                "x": "在A11y-CUA研究中，Claude Sonnet 4.5在60项日常任务中，正常访问时完成约78%，仅用键盘时完成42%，放大视口下完成百分之二十八。如果键盘用户无法完成某项任务，智能体通常也做不到。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+                "cap": "The WebAIM Million"
+              },
+              {
+                "t": "p",
+                "x": "WebAIM发现，排名前一百万的网站首页中有95.9%存在可检测的WCAG问题，高于此前的94.8%，并指出AI-assisted编码可能是原因之一。解决办法是原生HTML、合乎逻辑的标题与地标、有名称的控件、替代文本、带标签的字段以及可播报的状态——先从智能体必须执行操作的流程做起。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-iris-3b-pixel-space",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Iris 3B, 이미지를\n잠재 공간 없이 만든다",
+      "body": "Iris 3B는 VAE를 거치지 않고 픽셀 공간에서 그리며 깊이 추정까지 한다.",
+      "mini_headline": "잠재 공간 건너뛴 Iris 3B",
+      "tool": "Design Tokens",
+      "source": "MindStudio",
+      "url": "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+          },
+          {
+            "t": "p",
+            "x": "Iris 3B 모델은 Spirit Labs가 만든 3B 파라미터 규모의 이미지 생성 모델이다. Flux, Qwen Image를 비롯해 요즘 이미지 생성기는 거의 다 변분 오토인코더(VAE)와 잠재 공간 단계에 기대는데, 이 모델은 그 단계를 건너뛰고 픽셀 공간에 바로 이미지를 그린다."
+          },
+          {
+            "t": "p",
+            "x": "텍스트 프롬프트는 고정된 Qwen3-VL 4B 인코더와 작은 텍스트 어댑터로 인코딩하고, 노이즈가 섞인 이미지는 곧바로 16x16 픽셀 패치로 자른다. 몸통은 “듀얼 스트림” 블록 여덟 개와 뒤이은 “싱글 스트림” 블록 열여섯 개다. 그보다 작은 블록 네 개가 각 패치를 원래 픽셀 값으로 되돌린다."
+          },
+          {
+            "t": "p",
+            "x": "직물 무늬, 피부 질감, 수염 한 올 한 올 같은 세밀한 디테일에서 이 방식이 힘을 쓰는 듯하다. 대신 느리다. 이미지 한 장에 일 분에서 삼 분이 걸린다고 한다. VRAM은 28기가바이트 미만을 써서 Flux, Qwen Image와 비슷한 수준이다."
+          },
+          {
+            "t": "p",
+            "x": "같은 모델을 달리 미세 조정하면 깊이 추정과 이미지 업스케일링도 해낸다. 인물의 문화적·민족적 특수성은 잘 살리지 못한다. 호주 원주민 원로를 그려 달라고 하자 호주 원주민으로 보이지 않는 얼굴이 나왔고, 크나페를 주문하자 바클라바에 더 가까운 그림이 나왔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Iris 3B generates images\nwithout a latent space",
+          "body": "Iris 3B generates images in pixel space with no VAE, and fine-tuned versions also handle depth estimation and upscaling.",
+          "mini_headline": "Iris 3B skips latent space",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Iris 3B is a 3 billion parameter image generation model from Spirit Labs that paints images directly in pixel space, skipping the variational autoencoder (VAE) and latent space step that nearly every modern image generator, including Flux and Qwen Image, relies on."
+              },
+              {
+                "t": "p",
+                "x": "It encodes a text prompt with a frozen Qwen3-VL 4B encoder plus a small text adapter, then cuts the noisy image directly into 16x16 pixel patches. The trunk has eight “dual stream” blocks followed by sixteen “single stream” blocks, and four smaller blocks convert each patch back into raw pixel values."
+              },
+              {
+                "t": "p",
+                "x": "The approach appears to pay off in fine detail such as woven patterns, skin texture and individual beard hairs. The tradeoff is speed: generation reportedly takes one to three minutes per image. VRAM consumption lands under 28 gigabytes, comparable to Flux and Qwen Image."
+              },
+              {
+                "t": "p",
+                "x": "The same model, with different fine-tuning, handles depth estimation and image upscaling. It falls short on cultural and ethnic specificity in people: an Indigenous Australian elder prompt produced a face that didn’t read as Indigenous Australian, and a knafeh prompt produced something closer to baklava."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Iris 3B, 이미지를\n잠재 공간 없이 만든다",
+          "body": "Iris 3B는 VAE를 거치지 않고 픽셀 공간에서 그리며 깊이 추정까지 한다.",
+          "mini_headline": "잠재 공간 건너뛴 Iris 3B",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Iris 3B 모델은 Spirit Labs가 만든 3B 파라미터 규모의 이미지 생성 모델이다. Flux, Qwen Image를 비롯해 요즘 이미지 생성기는 거의 다 변분 오토인코더(VAE)와 잠재 공간 단계에 기대는데, 이 모델은 그 단계를 건너뛰고 픽셀 공간에 바로 이미지를 그린다."
+              },
+              {
+                "t": "p",
+                "x": "텍스트 프롬프트는 고정된 Qwen3-VL 4B 인코더와 작은 텍스트 어댑터로 인코딩하고, 노이즈가 섞인 이미지는 곧바로 16x16 픽셀 패치로 자른다. 몸통은 “듀얼 스트림” 블록 여덟 개와 뒤이은 “싱글 스트림” 블록 열여섯 개다. 그보다 작은 블록 네 개가 각 패치를 원래 픽셀 값으로 되돌린다."
+              },
+              {
+                "t": "p",
+                "x": "직물 무늬, 피부 질감, 수염 한 올 한 올 같은 세밀한 디테일에서 이 방식이 힘을 쓰는 듯하다. 대신 느리다. 이미지 한 장에 일 분에서 삼 분이 걸린다고 한다. VRAM은 28기가바이트 미만을 써서 Flux, Qwen Image와 비슷한 수준이다."
+              },
+              {
+                "t": "p",
+                "x": "같은 모델을 달리 미세 조정하면 깊이 추정과 이미지 업스케일링도 해낸다. 인물의 문화적·민족적 특수성은 잘 살리지 못한다. 호주 원주민 원로를 그려 달라고 하자 호주 원주민으로 보이지 않는 얼굴이 나왔고, 크나페를 주문하자 바클라바에 더 가까운 그림이 나왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Iris 3B、\n潜在空間なしで画像生成",
+          "body": "Iris 3B はVAEなしでピクセル空間に画像を描き、微調整で深度推定や超解像もこなす。",
+          "mini_headline": "潜在空間を省くIris 3B",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Iris 3B はSpirit Labsによる3B パラメータの画像生成モデルで、FluxやQwen Imageを含むほぼすべての最新の画像生成モデルが頼る変分オートエンコーダー(VAE)と潜在空間のステップを省き、ピクセル空間に直接画像を描く。"
+              },
+              {
+                "t": "p",
+                "x": "テキストプロンプトは凍結したQwen3-VL 4B エンコーダーと小さなテキストアダプターでエンコードし、ノイズの乗った画像をそのまま16x16 ピクセルのパッチに切り分ける。幹となる部分は八つの「デュアルストリーム」ブロックと、それに続く十六の「シングルストリーム」ブロックで構成され、四つの小さなブロックが各パッチを生のピクセル値に戻す。"
+              },
+              {
+                "t": "p",
+                "x": "この手法は、織物の模様や肌の質感、ひげの一本一本といった細部で効果を上げているようだ。代償は速度で、画像一枚の生成に一分から三分かかるという。VRAM使用量は28ギガバイト未満で、FluxやQwen Imageと同程度だ。"
+              },
+              {
+                "t": "p",
+                "x": "同じモデルでも微調整を変えれば、深度推定や画像のアップスケーリングもこなす。一方、人物の文化的・民族的な特徴の表現は弱い。オーストラリア先住民の長老を求めたプロンプトでは先住民らしく見えない顔が生成され、クナーファを求めたプロンプトではバクラヴァに近いものが出てきた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Iris 3B 生成图像\n无需潜在空间",
+          "body": "Iris 3B 无需VAE即可在像素空间生成图像，微调版本还能做深度估计和超分放大。",
+          "mini_headline": "Iris 3B 绕开潜在空间",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Iris 3B 是 Spirit Labs 推出的 3B 参数图像生成模型，它直接在像素空间中绘制图像，跳过了包括 Flux 和 Qwen Image 在内的几乎所有现代图像生成器都依赖的变分自编码器（VAE）和潜在空间步骤。"
+              },
+              {
+                "t": "p",
+                "x": "它用冻结的 Qwen3-VL 4B 编码器加一个小型文本适配器对文本提示进行编码，然后把带噪图像直接切成 16x16 像素的图块。主干由八个“双流”块和随后的十六个“单流”块组成，再由四个较小的块把每个图块还原为原始像素值。"
+              },
+              {
+                "t": "p",
+                "x": "这种做法似乎在编织纹理、皮肤质感和根根分明的胡须等细节上见效。代价是速度：据称每张图像需要一到三分钟。VRAM 占用不到 28 GB，与 Flux 和 Qwen Image 相当。"
+              },
+              {
+                "t": "p",
+                "x": "同一模型经过不同的微调，还能完成深度估计和图像放大。但它在人物的文化与族裔特征上表现不足：要求生成澳大利亚原住民长者的提示，得到的面孔看起来并不像澳大利亚原住民；要求生成库纳法的提示，结果更接近果仁蜜饼。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Iris 3B genera imágenes\nsin un espacio latente",
+          "body": "Iris 3B genera imágenes en píxeles sin VAE, y sus versiones ajustadas estiman profundidad y escalan imágenes.",
+          "mini_headline": "Iris 3B prescinde del espacio latente",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Iris 3B es un modelo de generación de imágenes de 3 mil millones de parámetros de Spirit Labs que pinta las imágenes directamente en el espacio de píxeles, sin el paso del autoencoder variacional (VAE) y del espacio latente del que dependen casi todos los generadores de imágenes modernos, incluidos Flux y Qwen Image."
+              },
+              {
+                "t": "p",
+                "x": "Codifica el prompt de texto con un codificador Qwen3-VL 4B congelado y un pequeño adaptador de texto, y luego corta la imagen con ruido directamente en parches de 16x16 píxeles. El tronco tiene ocho bloques de “doble flujo” seguidos de dieciséis bloques de “flujo único”, y cuatro bloques más pequeños convierten cada parche de nuevo en valores de píxel en bruto."
+              },
+              {
+                "t": "p",
+                "x": "El enfoque parece dar resultado en detalles finos como tramas tejidas, textura de la piel y pelos sueltos de la barba. La contrapartida es la velocidad: según se informa, generar cada imagen lleva entre uno y tres minutos. El consumo de VRAM se queda por debajo de 28 gigabytes, comparable al de Flux y Qwen Image."
+              },
+              {
+                "t": "p",
+                "x": "El mismo modelo, con otro ajuste fino, se encarga de la estimación de profundidad y del escalado de imágenes. Se queda corto en la especificidad cultural y étnica de las personas: un prompt de un anciano aborigen australiano produjo un rostro que no parecía aborigen australiano, y un prompt de knafeh produjo algo más parecido a baklava."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Iris 3B, 이미지를\n잠재 공간 없이 만든다",
+          "body": "Iris 3B 모델은 VAE 없이 픽셀 공간에서 그리며 깊이 추정도 한다.",
+          "mini_headline": "잠재 공간 건너뛴 Iris 3B",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Iris 3B 모델은 Spirit Labs가 만든 3B 파라미터 규모의 이미지 생성 모델이다. Flux, Qwen Image를 비롯해 요즘 거의 모든 이미지 생성기가 의존하는 변분 오토인코더(VAE)와 잠재 공간 단계를 건너뛰고 픽셀 공간에 직접 이미지를 그린다."
+              },
+              {
+                "t": "p",
+                "x": "텍스트 프롬프트는 고정된 Qwen3-VL 4B 인코더와 작은 텍스트 어댑터로 인코딩하고, 노이즈가 섞인 이미지는 곧바로 16x16 픽셀 패치로 자른다. 몸통은 “듀얼 스트림” 블록 여덟 개와 그 뒤의 “싱글 스트림” 블록 열여섯 개로 이뤄지며, 더 작은 블록 네 개가 각 패치를 원래 픽셀 값으로 되돌린다."
+              },
+              {
+                "t": "p",
+                "x": "이 방식은 직물 무늬, 피부 질감, 수염 한 올 한 올 같은 세밀한 디테일에서 효과를 내는 것으로 보인다. 대가는 속도다. 이미지 한 장을 만드는 데 일 분에서 삼 분이 걸린다고 한다. VRAM 사용량은 28기가바이트 미만으로 Flux, Qwen Image와 비슷하다."
+              },
+              {
+                "t": "p",
+                "x": "같은 모델을 다르게 미세 조정하면 깊이 추정과 이미지 업스케일링도 할 수 있다. 다만 인물의 문화적·민족적 특수성은 잘 살리지 못한다. 호주 원주민 원로를 그리라는 프롬프트에서는 호주 원주민으로 보이지 않는 얼굴이 나왔고, 크나페를 그리라는 프롬프트에서는 바클라바에 더 가까운 결과가 나왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Iris 3B、\n潜在空間なしで画像生成",
+          "body": "Iris 3B はVAEなしでピクセル空間に画像を描き、微調整で深度推定や超解像もこなす。",
+          "mini_headline": "潜在空間を省くIris 3B",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Iris 3B はSpirit Labsによる3B パラメータの画像生成モデルで、FluxやQwen Imageを含むほぼすべての最新の画像生成モデルが頼る変分オートエンコーダー(VAE)と潜在空間のステップを省き、ピクセル空間に直接画像を描く。"
+              },
+              {
+                "t": "p",
+                "x": "テキストプロンプトは凍結したQwen3-VL 4B エンコーダーと小さなテキストアダプターでエンコードし、ノイズの乗った画像をそのまま16x16 ピクセルのパッチに切り分ける。幹となる部分は八つの「デュアルストリーム」ブロックと、それに続く十六の「シングルストリーム」ブロックで構成され、四つの小さなブロックが各パッチを生のピクセル値に戻す。"
+              },
+              {
+                "t": "p",
+                "x": "この手法は、織物の模様や肌の質感、ひげの一本一本といった細部で効果を上げているようだ。代償は速度で、画像一枚の生成に一分から三分かかるという。VRAM使用量は28ギガバイト未満で、FluxやQwen Imageと同程度だ。"
+              },
+              {
+                "t": "p",
+                "x": "同じモデルでも微調整を変えれば、深度推定や画像のアップスケーリングもこなす。一方、人物の文化的・民族的な特徴の表現は弱い。オーストラリア先住民の長老を求めたプロンプトでは先住民らしく見えない顔が生成され、クナーファを求めたプロンプトではバクラヴァに近いものが出てきた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Iris 3B 生成图像\n无需潜在空间",
+          "body": "Iris 3B 无需VAE即可在像素空间生成图像，微调版本还能做深度估计和超分放大。",
+          "mini_headline": "Iris 3B 绕开潜在空间",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Iris 3B 是 Spirit Labs 推出的 3B 参数图像生成模型，它直接在像素空间中绘制图像，跳过了包括 Flux 和 Qwen Image 在内的几乎所有现代图像生成器都依赖的变分自编码器（VAE）和潜在空间步骤。"
+              },
+              {
+                "t": "p",
+                "x": "它用冻结的 Qwen3-VL 4B 编码器加一个小型文本适配器对文本提示进行编码，然后把带噪图像直接切成 16x16 像素的图块。主干由八个“双流”块和随后的十六个“单流”块组成，再由四个较小的块把每个图块还原为原始像素值。"
+              },
+              {
+                "t": "p",
+                "x": "这种做法似乎在编织纹理、皮肤质感和根根分明的胡须等细节上见效。代价是速度：据称每张图像需要一到三分钟。VRAM 占用不到 28 GB，与 Flux 和 Qwen Image 相当。"
+              },
+              {
+                "t": "p",
+                "x": "同一模型经过不同的微调，还能完成深度估计和图像放大。但它在人物的文化与族裔特征上表现不足：要求生成澳大利亚原住民长者的提示，得到的面孔看起来并不像澳大利亚原住民；要求生成库纳法的提示，结果更接近果仁蜜饼。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Iris 3B genera imágenes\nsin un espacio latente",
+          "body": "Iris 3B genera imágenes en píxeles sin VAE, y sus versiones ajustadas estiman profundidad y escalan imágenes.",
+          "mini_headline": "Iris 3B prescinde del espacio latente",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+              },
+              {
+                "t": "p",
+                "x": "Iris 3B es un modelo de generación de imágenes de 3 mil millones de parámetros de Spirit Labs que pinta las imágenes directamente en el espacio de píxeles, sin el paso del autoencoder variacional (VAE) y del espacio latente del que dependen casi todos los generadores de imágenes modernos, incluidos Flux y Qwen Image."
+              },
+              {
+                "t": "p",
+                "x": "Codifica el prompt de texto con un codificador Qwen3-VL 4B congelado y un pequeño adaptador de texto, y luego corta la imagen con ruido directamente en parches de 16x16 píxeles. El tronco tiene ocho bloques de “doble flujo” seguidos de dieciséis bloques de “flujo único”, y cuatro bloques más pequeños convierten cada parche de nuevo en valores de píxel en bruto."
+              },
+              {
+                "t": "p",
+                "x": "El enfoque parece dar resultado en detalles finos como tramas tejidas, textura de la piel y pelos sueltos de la barba. La contrapartida es la velocidad: según se informa, generar cada imagen lleva entre uno y tres minutos. El consumo de VRAM se queda por debajo de 28 gigabytes, comparable al de Flux y Qwen Image."
+              },
+              {
+                "t": "p",
+                "x": "El mismo modelo, con otro ajuste fino, se encarga de la estimación de profundidad y del escalado de imágenes. Se queda corto en la especificidad cultural y étnica de las personas: un prompt de un anciano aborigen australiano produjo un rostro que no parecía aborigen australiano, y un prompt de knafeh produjo algo más parecido a baklava."
               }
             ]
           }

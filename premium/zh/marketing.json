@@ -778,6 +778,135 @@
           "x": "HUMAN本身销售机器人与智能体检测服务，其数据来自自家平台，未引用任何独立测量。"
         }
       ]
+    },
+    "marketing/marketing-google-ads-ai-goals-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google正在测试用AI为你的Google Ads广告系列生成建议目标和素材。Google已证实这是一项正在进行的测试。"
+        },
+        {
+          "t": "p",
+          "x": "Dima发布了一张Google Ads广告主控制台的截图，上面写着\"What's your goal for this campaign?\"（这个广告系列的目标是什么？），还写着\"Google AI will suggest goals and assets based on your input\"（Google AI将根据你的输入建议目标和素材）。Dima把这张截图发在了X上："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在大输入框中描述你的目标；如果不想这样做，可以点击\"Create campaign manually\"（手动创建广告系列）链接。"
+        },
+        {
+          "t": "p",
+          "x": "Google广告联络人（Ads Liaison）Ginny Marvin在X上确认这是一项测试，并表示：\"这是一项实验。我们欢迎广告主就这类工作流在何处、以何种方式能派上用场提供反馈。\""
+        },
+        {
+          "t": "p",
+          "x": "可以想见，Google正在把AI塞进各个角落。"
+        }
+      ]
+    },
+    "marketing/marketing-olyzon-ctv-four-dsps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+          "cap": "Olyzon代理在买方设定的上限内跨四个DSPs调动CTV预算，但新闻稿未给出任何数据"
+        },
+        {
+          "t": "p",
+          "x": "总部位于巴黎的Olyzon于2026年10月7日在Advertising Week New York上全面商用发布其智能体编排平台。其软件代理可在The Trade Desk、Amazon DSP、DV360和Yahoo DSP之间规划、启动并重新分配正在投放的广告活动预算，买方无需放弃已有的席位、工具或直接交易。"
+        },
+        {
+          "t": "p",
+          "x": "预算上限和审批规则由人设定，代理在此范围内运作。Olyzon表示：“预算会在投放过程中流向效果好的地方，始终处于买方控制的上限和审批阈值之内，并留有完整的审计日志。”对于直接insertion order，由邮件代理起草修改，发送权仍在买方手中。"
+        },
+        {
+          "t": "p",
+          "x": "联合创始人兼CEO Jules Minvielle表示：“我们从CTV做起，因为那里的碎片化最严重。”他还说：“代理负责编排，决定权留在人手中。”Method1称，该代理目前负责跨平台预算、出价和bundle ID决策等“Level 1 optimizations”。"
+        },
+        {
+          "t": "p",
+          "x": "新闻稿没有给出任何效果数据、协议、价格或品牌客户，而且副标题、正文和公司简介中的合作伙伴名单彼此不一致。"
+        }
+      ]
+    },
+    "marketing/marketing-thg-criteo-ai-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "THG Ingenuity旗下的THG Commerce已将Criteo Sponsored Products整合进其基于Google Cloud Gemini Enterprise打造的AI Shopping Assistant。THG Commerce称，它是欧洲首家将Criteo Sponsored Products引入AI驱动对话式搜索的商务技术提供商。"
+        },
+        {
+          "t": "p",
+          "x": "此次整合让赞助商品推荐与自然商品推荐在同一段对话中并列呈现。早期结果显示，通过助手展示的赞助商品点击率超过平均水平的五倍，转化率超过平均水平的两倍。"
+        },
+        {
+          "t": "p",
+          "x": "助手会从每段对话中提取关键词和筛选条件，并将其转化为个性化的商品推荐。Criteo的相关性模型（包括关键词匹配、语义理解和严格的相关性阈值）同样适用于对话场景，因此赞助推荐会被清晰标注，且只在符合购物者需求时出现。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+        },
+        {
+          "t": "p",
+          "x": "THG Ingenuity首席营收官（Chief Revenue Officer）Darren Rajanah表示：“顾客通过一段对话开启购物旅程……这是零售商能获得的购买意图最强的流量之一，而此前它大多游离于零售媒体之外。”"
+        }
+      ]
+    },
+    "marketing/marketing-meta-idle-inference-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
+        },
+        {
+          "t": "p",
+          "x": "推理集群面临一个容量悖论：整体容量可能吃紧，局部却仍有可观的闲置容量。Meta构建了一套系统，把这些零散容量汇聚成共享的机会性容量池，并在无需追加容量订单的情况下，将其转化为更好的广告推荐。"
+        },
+        {
+          "t": "p",
+          "x": "这些容量可能在几乎没有预警的情况下被收回，因此Meta采用了两种弹性杠杆。Rank More Ads（RMA）调整排序阶段评估的候选数量；Serve Better Models（SBM）调整路由到更强模型的请求比例。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "RMA同时需要CPU和加速器容量，而SBM可以使用仅有加速器的富余容量。物理和逻辑隔离保护基线服务；PID控制器根据尾延迟调节候选量；容量被收回时，服务器端和客户端的价值感知负载削减会在毫秒级内作出反应。"
+        },
+        {
+          "t": "p",
+          "x": "接下来，Meta将扩展这两种杠杆，开发预计算弹性，扩大跨区域推理，并构建一套基于优化的系统来自动分配AI推理容量。"
+        }
+      ]
+    },
+    "marketing/meta-muse-ad-accounts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta于2026年9月29日将三周前发布的个人AI智能体Muse扩展为面向美国和加拿大小企业的产品。Muse for Small Business除Facebook Pages、Instagram专业账户分析和Meta广告账户外，还新增了Shopify、Intuit QuickBooks、Klaviyo、Stripe和Canva等15款第三方工具的连接器。Meta表示：“未经你的批准，不会发布、发送或花费任何东西。”"
+        },
+        {
+          "t": "p",
+          "x": "对广告主而言，关键在于广告账户这一条。此前的集成——例如4月向Claude和ChatGPT开放的广告MCP服务器——需要把外部模型接入Meta的接口。这一次，模型、智能体、应用和广告账户都归Meta所有。公告没有说明广告账户访问权限是只读，还是可以修改预算、出价或创意，也没有说明连接器数据是否与Meta的广告系统隔离。"
+        },
+        {
+          "t": "p",
+          "x": "唯一量化的成果来自一位测试者：杂货店主Tom Mulholland表示，Muse让他处理工资的时间至少缩短了15分钟。Muse在大多数用途下免费，另有订阅方案，但Meta未公布价格。Meta 2026年Q2营收为608亿美元，其中超过97%来自广告。"
+        }
+      ]
     }
   }
 }

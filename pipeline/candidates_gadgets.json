@@ -1,192 +1,206 @@
 {
  "section": "gadgets",
- "date": "2026-10-12",
- "now_iso": "2026-10-11T22:00:00Z",
+ "generated_at": "2026-10-12T22:00:00Z",
+ "now_iso": "2026-10-12T22:00:00Z",
  "window_hours": 336,
- "expansion": [
-  "Apple Oct 13 \"Welcome home\" leaks: HomeView hub (A18, Nov), Apple TV mic/Siri, Apple Home AI camera summaries, Apple x LG accessories",
-  "local AI hardware: Raspberry Pi 29MB model, iBuyPower Ryzen AI Max+ mini PC, MSI RTX Spark laptop, Verge local-AI diary",
-  "humanoid robot rental market, Razr Ultra AI key, XREAL Aura Android XR price, Meta VR glasses",
-  "extra feeds: cnet/wired/zdnet/tomsguide AI tags, TC hardware, Verge AI/smart-home, sammobile/AA/XDA page 2",
-  "3 WebSearch (2 errored on blocked domains); Digital Trends human-verification wall, PhoneBot + Samsung Gemini glasses dropped (no verifiable date)",
-  "dropped as already in ledger: Muse Charm, Norway smart-glasses ban, Rambler port"
- ],
  "items": [
   {
-   "url": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/",
+   "title": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
+   "url": "https://9to5google.com/2026/10/12/googlebook-os-review/",
+   "source": "9to5Google",
+   "category": "gadgets",
+   "published_iso": "2026-10-12T16:00:00+00:00",
+   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&resize=1200,628",
+   "excerpt": "All attempts to bring the lessons and benefits of the touch era to PCs have failed, from Windows 8 to..."
+  },
+  {
+   "title": "Someone ported Pixel 11's Rambler voice-to-text to other Android phones",
+   "url": "https://9to5google.com/2026/10/11/android-gboard-rambler-port/",
+   "source": "9to5Google",
+   "category": "gadgets",
+   "published_iso": "2026-10-11T20:00:00+00:00",
+   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Rambler-2.jpg?quality=82&strip=all&resize=1200,628",
+   "excerpt": "One of the best new features of Google’s Pixel 11 (and Googlebook) is support for Rambler voice-to-text, and it’s now..."
+  },
+  {
+   "title": "Google rolling out 'massive' Pixel Buds Pro 2 and 2a update [U]",
+   "url": "https://9to5google.com/2026/10/06/pixel-buds-pro-update-oct-2026/",
+   "source": "9to5Google",
+   "category": "gadgets",
+   "published_iso": "2026-10-06T20:11:28+00:00",
+   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-buds-2-pro-2.jpg?quality=82&strip=all&resize=1200,628",
+   "excerpt": "Following last month's addition of Gemini control, Google is rolling out a sizable Pixel Buds Pro 2 and Pixel Buds 2a update."
+  },
+  {
+   "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
+   "url": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
+   "source": "9to5Mac",
+   "category": "gadgets",
+   "published_iso": "2026-10-09T19:02:07+00:00",
+   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/homepad-white-hello-homepod.jpg?quality=82&strip=all&resize=1200,628",
+   "excerpt": "Apple’s long-rumored ‘HomePad’ product is coming next week, with three features I’ve been waiting a long time for."
+  },
+  {
    "title": "Report: Apple 'HomeView' smart home hub will ship in November, come in four colors, A18 chip",
+   "url": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/",
    "source": "9to5Mac",
    "category": "gadgets",
    "published_iso": "2026-10-11T14:09:49+00:00",
    "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/homepod-touch-homepad-photos-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-   "excerpt": "Bloomberg’s Mark Gurman today reported that the Apple home hub – set to be announced on October 13 as part...",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
+   "excerpt": "Bloomberg’s Mark Gurman today reported that the Apple home hub – set to be announced on October 13 as part..."
   },
   {
-   "url": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
-   "title": "Apple Home's new AI summaries for security cameras cost more than you'd think",
-   "source": "Engadget",
+   "title": "Apple testing two new features for upgraded Apple TV 4K, per report",
+   "url": "https://9to5mac.com/2026/10/11/apple-testing-two-new-features-for-upgraded-apple-tv-4k-per-report/",
+   "source": "9to5Mac",
    "category": "gadgets",
-   "published_iso": "2026-10-11T16:15:00+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/apple-homes-new-ai-summaries-for-security-cameras-cost-more-than-youd-think/l-intro-1791469750.jpg",
-   "excerpt": "If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans.",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
+   "published_iso": "2026-10-11T14:27:21+00:00",
+   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+   "excerpt": "Apple will hold its “Welcome home” product launch on Tuesday, with the headlining announcement expected to be the new “HomeView”..."
   },
   {
-   "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-homeview-homepod-mini-2-leaks/",
-   "title": "New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked",
-   "source": "MacRumors",
+   "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+   "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+   "source": "Ars Technica",
    "category": "gadgets",
-   "published_iso": "2026-10-11T19:56:28+00:00",
-   "og_image": "https://images.macrumors.com/t/AGuUSLZkrvS8nabbs2W-NkYqQkc=/2848x/article-new/2026/10/Apple-TV-4K-HomeView-HomePod-Mini.jpeg",
-   "excerpt": "Just two days before Apple's \"Welcome home\" experience in New York, Bloomberg's Mark Gurman has leaked several details about the new products set to be unveiled, including an all-new smart home hub, a HomePod mini 2, and a new Apple TV 4K. Here is an all-in-one summary of the details shared by Gurman:Apple's home hub with a touch-enabled display will be named HomeView, seemingly confirming a trademark filing discovered by MacRumors.",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
+   "published_iso": "2026-10-12T13:00:52+00:00",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive-1152x648.jpg",
+   "excerpt": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch."
   },
   {
-   "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
-   "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
-   "source": "The Verge",
-   "category": "gadgets",
-   "published_iso": "2026-10-11T17:31:07+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "The overdue Apple TV refresh makes it easier to talk to Siri and find your remote.",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
-  },
-  {
-   "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-   "title": "Will the HomeView be Apple’s first smart home success?",
-   "source": "TechCrunch",
-   "category": "gadgets",
-   "published_iso": "2026-10-11T21:14:40+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
-   "excerpt": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
-  },
-  {
-   "url": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
-   "title": "A 29MB AI model is the most useful thing I've run on my Raspberry Pi 5, and it doesn't need an AI HAT",
-   "source": "XDA Developers",
-   "category": "gadgets",
-   "published_iso": "2026-10-11T19:30:17Z",
-   "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?w=1600&h=900&fit=crop",
-   "excerpt": "The tiniest AI model I've tried on a Raspberry Pi 5 is only 29MB, and it's surprisingly handy",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
-  },
-  {
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-   "source": "The Verge",
-   "category": "gadgets",
-   "published_iso": "2026-10-11T11:00:00+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "If I gotta do it I want it on my terms.",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
-  },
-  {
-   "url": "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html",
-   "title": "Humanoid robot rental prices crater as dedicated exchanges appear",
-   "source": "Notebookcheck",
-   "category": "gadgets",
-   "published_iso": "2026-10-10T11:47:00+00:00",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg",
-   "excerpt": "Unitree and other popular humanoid robot makers are renting their bipeds on dedicated exchanges now. The choreographed dance during the Chinese New Year has left a lasting impression with people who rent them.",
-   "source_lang": "en",
-   "date_source": "rss_pubDate"
-  },
-  {
-   "url": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
-   "title": "Powerful new mini-PC launches with 128 GB RAM, dual 10 GbE and Ryzen AI Max+ Pro 495",
-   "source": "Notebookcheck",
-   "category": "gadgets",
-   "published_iso": "2026-10-09T16:07:00+00:00",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-   "excerpt": "iBuyPower has launched a high-end mini-PC featuring 128 GB of RAM. Also equipped with AMD's Ryzen AI Max+ Pro 495 processor, the iBuyPower Pro AMD AI Halo Mini PC packs dual USB4, dual 10 GbE Ethernet and three M.2 slots into a housing that measures 200 x 198 x 70 mm.",
-   "source_lang": "en",
-   "date_source": "rss_pubDate"
-  },
-  {
-   "url": "https://www.notebookcheck.net/Motorola-Razr-Ultra-2026-Android-17-update-brings-programmable-AI-key-themed-icons-and-more.1419198.0.html",
-   "title": "Motorola Razr Ultra 2026: Android 17 update brings programmable AI key, themed icons, and more",
-   "source": "Notebookcheck",
-   "category": "gadgets",
-   "published_iso": "2026-10-08T14:01:00+00:00",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Motorola-Razr-Ultra-2026.jpg",
-   "excerpt": "Owners of the Motorola Razr Ultra 2026 have begun receiving an update that brings Android 17 to the clamshell foldable. The update brings several new features, a new look, and enhanced security and protection.",
-   "source_lang": "en",
-   "date_source": "rss_pubDate"
-  },
-  {
-   "url": "https://9to5google.com/2026/10/07/xreal-aura-with-android-xr-start-at-1279/",
-   "title": "XREAL Aura with Android XR start at $1,279",
-   "source": "9to5Google",
-   "category": "gadgets",
-   "published_iso": "2026-10-07T13:35:00+00:00",
-   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/xreal-aura-android-xr-1.webp?resize=1200,628",
-   "excerpt": "XREAL’s first pair of Android XR glasses, XREAL Aura, finally have a price tag – $1,279. XREAL makes glasses that...",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
-  },
-  {
-   "url": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
-   "title": "Siri AI beats Gemini at the thing that matters most",
-   "source": "Android Authority",
-   "category": "gadgets",
-   "published_iso": "2026-10-10T10:00:09+00:00",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462-500w-260h.jpg",
-   "excerpt": "Making my life easier.",
-   "source_lang": "en",
-   "date_source": "rss_pubDate"
-  },
-  {
-   "url": "https://www.androidauthority.com/gemini-vs-google-assistant-complaints-3721074/",
-   "title": "Users say ‘Gemini as the Google Assistant is a disaster’",
-   "source": "Android Authority",
-   "category": "gadgets",
-   "published_iso": "2026-10-09T06:08:58+00:00",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/05/choosing-between-google-assistant-and-gemini-on-a-smartphone-scaled.jpg",
-   "excerpt": "Google forced Gemini on Assistant users, and they're not happy about it.",
-   "source_lang": "en",
-   "date_source": "rss_pubDate"
-  },
-  {
-   "url": "https://roadtovr.com/meta-vr-glasses-future-of-quest/",
-   "title": "What Meta VR Glasses Mean for the Future of Quest",
-   "source": "Road to VR",
-   "category": "gadgets",
-   "published_iso": "2026-10-08T11:05:45+00:00",
-   "og_image": "https://roadtovr.com/wp-content/uploads/2026/09/vr-glasses-quest.jpg",
-   "excerpt": "Meta says VR Glasses are a different product for a different market. Quest isn’t dead, but it has been relegated, as the company has pulled back from games, shut down a number of studios, and is ostensibly building on its next chapter around something else. VR Glasses Meta VR Glasses are a compute-puck-tethered mixed reality […]",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
-  },
-  {
-   "url": "https://www.techradar.com/pro/microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-new-16-inch-128gb-beast",
    "title": "MSI reveals new 16-inch, 128GB beast powered by Nvidia RTX Spark",
+   "url": "https://www.techradar.com/pro/microsoft-isnt-the-only-company-releasing-a-laptop-with-an-nvidia-rtx-spark-msi-reveals-new-16-inch-128gb-beast",
    "source": "TechRadar",
    "category": "gadgets",
    "published_iso": "2026-10-11T21:05:00Z",
    "og_image": "https://cdn.mos.cms.futurecdn.net/6jyULr5WpSu9nkrxAY392J-1376-80.jpg",
-   "excerpt": "Five big brands beat MSI to Nvidia’s RTX Spark laptops, so here is what the latecomer is bringing along.",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
+   "excerpt": "Five big brands beat MSI to Nvidia’s RTX Spark laptops, so here is what the latecomer is bringing along."
   },
   {
-   "url": "https://www.theverge.com/tech/1006727/apple-lg-leak-smart-home-deadbolt-lock-thermostat-temperature-sensor",
-   "title": "New leaks provide our first look at Apple and LG’s smart home devices",
+   "title": "I tested the Lenovo Googlebook 15 — here’s why it’s my favorite",
+   "url": "https://www.tomsguide.com/computing/laptops/lenovo-googlebook-15-review",
+   "source": "Tom's Guide",
+   "category": "gadgets",
+   "published_iso": "2026-10-11T10:30:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/R35GTA56iHFcx4bgDYe5pB-2000-80.jpg",
+   "excerpt": "Sleek OLED display, useful AI features, and seamless Android integration make the Lenovo Googlebook 15 an impressive showcase for Google’s new laptop OS"
+  },
+  {
+   "title": "'They are new to the laptop market': AMD issues a reality check to Nvidia's RTX Spark and fires a warning shot at Arm",
+   "url": "https://www.tomsguide.com/computing/laptops/they-are-new-to-the-laptop-market-amd-issues-a-reality-check-to-nvidias-rtx-spark-and-fires-a-warning-shot-at-arm",
+   "source": "Tom's Guide",
+   "category": "gadgets",
+   "published_iso": "2026-10-12T10:30:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/g6ELurRKoJh2X5LMsAYk9B-2550-80.jpg",
+   "excerpt": "AMD fires back"
+  },
+  {
+   "title": "Meet the modders porting ringfenced DLSS features to older GPUs — how DLSS 5 and Multi-Frame Generation were unlocked for older architectures",
+   "url": "https://www.tomshardware.com/pc-components/gpus/meet-the-modders-porting-ringfenced-dlss-features-to-older-gpus-how-dlss-5-and-multi-frame-generation-were-unlocked-for-older-architectures",
+   "source": "Tom's Hardware",
+   "category": "gadgets",
+   "published_iso": "2026-10-12T15:30:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/HaHzvifkTWtmuLrdYTBfPe-1920-80.jpg",
+   "excerpt": "DLSS Multi-Frame Generation and DLSS 5 Neural Rendering can now run on hardware never intended for it, at least according to Nvidia. Now, two of the modders foundational to the release of these community advancements speak out."
+  },
+  {
+   "title": "Meta's Smart Glasses Are Getting Its 'Muse' AI Agent",
+   "url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent/",
+   "source": "UploadVR",
+   "category": "gadgets",
+   "published_iso": "2026-09-29T01:26:21.000Z",
+   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Introducing-Muse_-Personal-AI-Agent_SocialShare-1.jpg",
+   "excerpt": "Meta's Muse AI agent is coming to its smart glasses \"soon\", letting it take actions at your request while your phone stays in your pocket."
+  },
+  {
+   "title": "Meta has some Wonder Full new AI models",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
    "source": "The Verge",
    "category": "gadgets",
-   "published_iso": "2026-10-07T14:34:37+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple.jpg?quality=90&strip=all&crop=0%2C10.702894625985%2C100%2C78.594210748029&w=1200",
-   "excerpt": "Apple’s smart home aspirations are expanding with help from LG.",
-   "source_lang": "en",
-   "date_source": "og/jsonld"
+   "published_iso": "2026-10-12T17:00:00+00:00",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "excerpt": "Meta says the models compete with the industry’s best and will soon power its Muse agent.  "
+  },
+  {
+   "title": "I compared a DVD upscaled by my Shield TV against the same film streaming in 4K, and the DVD held up embarrassingly well",
+   "url": "https://www.xda-developers.com/i-compared-dvd-upscaled-by-shield-tv-against-same-film-streaming-4k-dvd-held-up-embarrassingly-well/",
+   "source": "XDA Developers",
+   "category": "gadgets",
+   "published_iso": "2026-10-12T19:00:18Z",
+   "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/demo-ai-enhanced-upscaling-menu-mode.JPEG?w=1600&h=900&fit=crop",
+   "excerpt": "The quality of an AI-enhanced upscaled DVD compared to 4K streaming is close."
+  },
+  {
+   "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line - starting with Google Play - ZDNET",
+   "url": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
+   "source": "ZDNET",
+   "category": "gadgets",
+   "published_iso": "2026-10-09T15:10:13-04:00",
+   "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/alexa-tablets-22.jpg",
+   "excerpt": "Amazon just upped its game with new Android tablets for entertainment and work."
+  },
+  {
+   "title": "Microsoft's new Surface Laptop Ultra finally has a starting price (you should sit down) - ZDNET",
+   "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
+   "source": "ZDNET",
+   "category": "gadgets",
+   "published_iso": "2026-10-08T08:13:08-04:00",
+   "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC05850.jpg",
+   "excerpt": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia's new RTX Spark chip and up to 128GB of unified memory - and it's priced for power users."
+  },
+  {
+   "title": "Gemini Live’s mobile UI might start looking different very soon",
+   "url": "https://www.androidauthority.com/gemini-live-redesign-apk-teardown-3721755/",
+   "source": "Android Authority",
+   "published_iso": "2026-10-12T08:09:34+00:00",
+   "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/gemini-live-defining-a-word-in-afrikaans-scaled.jpg",
+   "excerpt": "Google is testing an updated interface for Gemini Live featuring a redesigned waveform animation at the bottom of the screen, plus a new speaker icon near the top-right corner.",
+   "category": "gadgets"
+  },
+  {
+   "title": "Gemini’s floating overlay may soon help you ‘Shop this’ right from your screen",
+   "url": "https://www.androidauthority.com/gemini-shop-this-3722162/",
+   "source": "Android Authority",
+   "published_iso": "2026-10-12T18:40:26+00:00",
+   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Gemini-Overlay-Mininize-button-scaled.jpg",
+   "excerpt": "Google is working on a new “Shop this” suggestion for Gemini’s pop-up overlay that would recognize on-screen products, summarize selling points and offer comparisons.",
+   "category": "gadgets"
+  },
+  {
+   "title": "Google Translate could soon auto-save transcripts of your Live conversations (Updated: Rolling out)",
+   "url": "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/",
+   "source": "Android Authority",
+   "published_iso": "2026-10-12T08:28:34+00:00",
+   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+   "excerpt": "Google Translate is testing an “Auto-save transcript” toggle for Live Translate; transcript saving is disabled entirely when smart glasses are connected, to protect privacy.",
+   "category": "gadgets"
+  },
+  {
+   "title": "RTX Spark mini PC promises to overcome memory limitations using Mechrevo's unusual AI SSD",
+   "url": "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html",
+   "source": "Notebookcheck",
+   "published_iso": "2026-10-12T21:28:00+02:00",
+   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+   "excerpt": "Mechrevo's upcoming Master Road X10 mini PC combines Nvidia RTX Spark hardware with proprietary AI SSD technology, which the maker claims can accommodate AI models with up to 122 billion parameters.",
+   "category": "gadgets"
+  },
+  {
+   "title": "Microsoft launches compact local AI monster with 128 GB unified memory",
+   "url": "https://www.notebookcheck.net/Microsoft-launches-compact-local-AI-monster-with-128-GB-unified-memory.1418421.0.html",
+   "source": "Notebookcheck",
+   "published_iso": "2026-10-07T21:02:00+02:00",
+   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Microsoft-Surface-RTX-Spark-Dev-Box-Header.png",
+   "excerpt": "Microsoft has launched the Surface RTX Spark Dev Box, a compact Windows 11 workstation built for local AI development with 128 GB of unified memory and 2 TB of storage.",
+   "category": "gadgets"
+  },
+  {
+   "title": "Motorola Razr Ultra 2026: Android 17 update brings programmable AI key, themed icons, and more",
+   "url": "https://www.notebookcheck.net/Motorola-Razr-Ultra-2026-Android-17-update-brings-programmable-AI-key-themed-icons-and-more.1419198.0.html",
+   "source": "Notebookcheck",
+   "published_iso": "2026-10-08T16:01:00+02:00",
+   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Motorola-Razr-Ultra-2026.jpg",
+   "excerpt": "Owners of the Motorola Razr Ultra 2026 are receiving the Android 17 update, which adds a programmable AI key, themed icons, a new look and enhanced security.",
+   "category": "gadgets"
   }
  ]
 }

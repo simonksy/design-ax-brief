@@ -1,21 +1,32 @@
 {
- "date": "2026-10-12",
- "section": "movies",
- "media": [
-  {
-   "id": "luma-claude-motion-handoff",
-   "type": "image",
-   "src": "pipeline/media/luma-claude-motion-handoff.jpg"
-  },
-  {
-   "id": "overstake-genai-rebuild-cappu-busan",
-   "type": "image",
-   "src": "pipeline/media/overstake-genai-rebuild-cappu-busan.jpg"
-  },
-  {
-   "id": "hong-jae-cheol-ai-native-studios-busan",
-   "type": "image",
-   "src": "pipeline/media/hong-jae-cheol-ai-native-studios-busan.jpg"
-  }
- ]
+  "date": "2026-10-13",
+  "section": "movies",
+  "media": [
+    {
+      "id": "movies-merry-christmas-witch-ai-budget",
+      "type": "image",
+      "src": "pipeline/media/movies-merry-christmas-witch-ai-budget.jpg"
+    },
+    {
+      "id": "movies-banderas-cortes-utopai",
+      "type": "image",
+      "src": "pipeline/media/movies-banderas-cortes-utopai.jpg"
+    },
+    {
+      "id": "movies-kling-busan-trained-crew-panel",
+      "type": "image",
+      "src": "pipeline/media/movies-kling-busan-trained-crew-panel.jpg"
+    },
+    {
+      "id": "movies-curious-refuge-credit-savings",
+      "type": "video",
+      "src": "pipeline/media/movies-curious-refuge-credit-savings.mp4",
+      "poster": "pipeline/media/movies-curious-refuge-credit-savings.jpg"
+    },
+    {
+      "id": "movies-visko-google-cloud-ai-worlds",
+      "type": "image",
+      "src": "pipeline/media/movies-visko-google-cloud-ai-worlds.jpg"
+    }
+  ]
 }

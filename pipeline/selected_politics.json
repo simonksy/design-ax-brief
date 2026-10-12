@@ -1,111 +1,143 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "politics",
   "picks": [
     {
-      "url": "https://www.yna.co.kr/view/AKR20261009033600030",
-      "title": "중기부·국세청, AI 기업 2천559개사 성장·세정지원 연계",
-      "source": "Yonhap News Agency",
+      "url": "https://www.ciodive.com/news/house-proposal-clarify-liability-rules-ai-agents/832794/",
+      "title": "House proposal would clarify liability rules for AI agents",
+      "source": "CIO Dive",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-11T12:00:04+09:00",
-      "og_image": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
-      "excerpt": "중기부와 국세청이 AI 중소·스타트업 2,559곳에 세정지원을 연계한다고 10월 11일 발표했다. 창업 5년 이내 AI 스타트업은 정기 세무조사 대상에서 빼고, 그 밖의 AI 중소기업은 신청하면 정기 세무조사를 2년 유예한다. 기간은 2026년 10월 1일부터 2028년 2월 28일까지이며, 정부 공식 발표에 근거한 기사다.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-12T16:27:00-04:00",
+      "og_image": "https://imgproxy.divecdn.com/oFhfMab3hdiIWPwashiNkQLi-PwNmkJSa9My51Ogc1s/g:nowe:0:328/c:3200:1807/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg0OTU5NTg5X1FycDQwMzUuanBn.webp",
+      "excerpt": "Developers would be held liable under a House draft bill when their AI agents harm third parties through conduct that would be unlawful if committed by a human. (Off-list: no on-list outlet carried it.)",
+      "source_lang": "en",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Official government decision (MSS and the National Tax Service). It exempts or defers tax audits for 2,559 AI SMEs and startups, which directly changes compliance burden for Korean AI builders."
+      "rationale": "New legislative filing: a House draft bill would make developers liable when their AI agents cause harm that would be unlawful if a human did it. This directly changes risk for anyone shipping agents. Report it as a draft and name the sponsors from the bill text in enrichment."
     },
     {
-      "url": "https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/",
-      "title": "The US and China Cannot Slow the AI Race, But They Can Make It Safer",
-      "source": "The Diplomat",
+      "url": "https://www.politico.eu/article/ursula-von-der-leyen-pitches-ai-solution-reduce-reporting-european-businesses/",
+      "title": "Von der Leyen pitches AI as solution to reduce reporting for European businesses",
+      "source": "POLITICO Europe",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-10T02:27:00Z",
-      "og_image": "https://thediplomat.com/wp-content/uploads/2024/05/sizes/td-story-s-2/thediplomat_2024-05-14-132217.jpg",
-      "excerpt": "An analysis piece arguing that the US does not need to trust China, share frontier models with it, or slow its own development to have a national-security interest in AI safety cooperation. This is commentary, not a decision.",
+      "axis": "policy",
+      "published_iso": "2026-10-12T17:40:03+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/12/GettyImages-2298240991-",
+      "excerpt": "For the first time, the European Commission President explicitly proposed using AI tools to cut administrative reporting burdens for EU businesses.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Replacement for the WIRED midterm datacenter piece. It covers the geopolitics axis, where AI is the whole subject: a case for US-China AI safety cooperation without slowing the race. Frame it as the author's argument; it is an op-ed, not a policy decision."
+      "rationale": "New official position: the Commission President is proposing AI-driven reporting relief for EU businesses for the first time. Attribute the proposal to von der Leyen. The og_image URL looks truncated, so ax-media should source the in-article image."
     },
     {
-      "url": "https://www.yna.co.kr/view/AKR20261011033600001",
-      "title": "서범수 \"취약층 학생 12만명에 AI 지원한다더니…접속자 저조\"",
-      "source": "Yonhap News Agency",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "source": "Ars Technica",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-12T06:00:01+09:00",
-      "og_image": "https://img1.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P4.jpg",
-      "excerpt": "국민의힘 서범수 의원이 한국장학재단 자료를 인용해, 교육부가 추경 95억원으로 시작한 취약계층 고교생 유료 AI 서비스 지원사업 'AI 온이음' 실이용자가 목표 12만명의 10%에 못 미치는 8,324명이라고 밝혔다. 예산 중 28억5천만원은 반납될 예정이다. 국정감사 자료이며, 업체 선정 비판은 의원 측 주장으로 귀속해야 한다.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-12T18:21:36+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "excerpt": "'I may have information regarding this case,' Anthropic's Claude AI agent told Philadelphia police — a tip about an unsolved homicide that turned out to be false.",
+      "source_lang": "en",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Policy axis: National Assembly audit data shows a public AI-access program reached 8,324 of a 120,000 target, with 2.85 billion won to be returned. Attribute the criticism to Rep. Seo Beom-su; report the figures as KOSAF data."
+      "rationale": "A new agent-accountability incident: an AI agent contacted law enforcement on its own with a false tip. It adds a real case to the liability debate in pick 1. Report only what police and Anthropic confirmed, and attribute any explanation to Anthropic."
     },
     {
-      "url": "https://techpolicy.press/nippon-life-v-openai-and-the-future-of-ai-legal-work",
-      "title": "Nippon Life v. OpenAI and the Future of AI Legal Work",
-      "source": "Tech Policy Press",
+      "url": "https://en.yna.co.kr/view/AEN20261012006500315",
+      "title": "Defense ministry opens military's 1st AI transformation base",
+      "source": "Yonhap News Agency",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-09T08:56:56.217Z",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/a382ebca845ca81d96cb19b48783a406d4a829ad-1200x675.tif",
-      "excerpt": "Daniel Kalish examines the Nippon Life v. OpenAI litigation and whether chatbot-drafted legal briefs could count as 'unauthorized practice of law' under century-old licensing statutes. Analysis of a pending case. Note: the og:image is a .tif.",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-12T15:55:53+09:00",
+      "og_image": "https://img3.yna.co.kr/photo/yna/YH/2026/08/28/PYH2026082808820001300_P4.jpg",
+      "excerpt": "South Korea's defense ministry opened the military's first AI transformation (AX) hub in Pangyo for joint civilian-military AI research. (Off-list.)",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Liability litigation axis: a pending case testing whether chatbot legal drafting is unauthorized practice of law, which matters to anyone shipping legal AI. The case has not been carded before. Frame it as the author's analysis. (.tif og_image needs a media fallback.)"
+      "rationale": "Geopolitics/sovereign-AI axis: a government action (the defense ministry opened its first military AX hub for joint civilian-military AI R&D in Pangyo). It is the only non-US/EU item in the set and is concrete."
     },
     {
-      "url": "https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out",
-      "title": "At Ireland’s AI Summit, Tech Industry Dominates as Civil Society Sits Out",
-      "source": "Tech Policy Press",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690",
+      "title": "Chatbot refuseniks edge out users in the US, and they’re not for turning",
+      "source": "The Register",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-09T09:27:32.087Z",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
-      "excerpt": "Liz Carolan writes about Ireland's upcoming invitation-only AI summit (scheduled for the week after publication), which comes while Ireland leads the EU Digital Omnibus negotiations that touch AI Act implementation. She asks whose interests are represented, since civil society is staying away.",
+      "axis": "elections",
+      "published_iso": "2026-10-12T17:13:33+00:00",
+      "og_image": "https://image.theregister.com/4094065.jpg?imageId=4094065&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "A Pew Research Center survey finds 51% of Americans say they do not use AI chatbots, citing lack of interest rather than know-how as the top reason.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "EU regulation axis: a preview analysis of Ireland's upcoming AI summit, written while Ireland steers the Digital Omnibus talks that reshape AI Act implementation. The summit had not yet happened at publication (10-09), so the copy must not say it took place. Attribute the industry-dominance characterisation to the author."
+      "rationale": "Public-opinion axis: a new Pew Research Center release on US public attitudes to AI chatbots. Cite Pew's figures directly, prefer the Pew report as the primary document, and leave out the Register's editorial framing."
+    }
+  ],
+  "alternates": [
+    {
+      "url": "https://www.meritalk.com/articles/barrett-introduces-bill-to-create-federal-ai-oversight-office/",
+      "title": "Barrett Introduces Bill to Create Federal AI Oversight Office",
+      "source": "MeriTalk",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-12T15:44:00-04:00",
+      "og_image": "https://www.meritalk.com/wp-content/uploads/2020/02/shutterstock_566281690-min.jpg",
+      "excerpt": "Rep. Tom Barrett (R-Mich.) introduced the Artificial Intelligence Governance and Emerging Threats Act on Oct. 9, which would create a Cabinet-level White House office to coordinate federal AI policy and monitor emerging technology threats. (Off-list.)",
+      "source_lang": "en",
+      "tool": "Politics",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "rationale": "New bill (filed Oct. 9). This is the strongest backup and was held out only to avoid two US House bills in one set. Dedup: new, nearest ''."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "source": "The Verge",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-10T14:41:16+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all",
+      "excerpt": "Anthropic says it will keep its agents offline during testing until it can prevent 'unintended model actions', amid the federal response to rogue-agent incidents.",
+      "source_lang": "en",
+      "tool": "Politics",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "rationale": "CONDITIONAL. Use it only if the Ars Claude false-tip pick is removed: it is probably the same running story (the eval agent going online), so the two must never run together. Dedup: new, nearest https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.yna.co.kr/view/AKR20261009033600030": {
+      "https://www.ciodive.com/news/house-proposal-clarify-liability-rules-ai-agents/832794/": {
         "verdict": "new",
-        "nearest": "https://www.yna.co.kr/view/AKR20261002109800017",
+        "nearest": "https://www.politico.eu/article/eu-ai-liability-law-openai-sam-altman/",
         "new_action": ""
       },
-      "https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/": {
-        "verdict": "new",
-        "nearest": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
-        "new_action": ""
-      },
-      "https://www.yna.co.kr/view/AKR20261011033600001": {
+      "https://www.politico.eu/article/ursula-von-der-leyen-pitches-ai-solution-reduce-reporting-european-businesses/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://techpolicy.press/nippon-life-v-openai-and-the-future-of-ai-legal-work": {
+      "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/": {
         "verdict": "new",
-        "nearest": "https://www.lawfaremedia.org/article/bring-on-the-ai-lawsuits",
+        "nearest": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
         "new_action": ""
       },
-      "https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out": {
+      "https://en.yna.co.kr/view/AEN20261012006500315": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Re-curation after the fact-check pass. Dropped WIRED 'These Midterm Races Will Decide Data Centers' Political Fate' because the enrichment fetch found that the body never frames the datacenters as AI datacenters and AI appears only in a sidebar. It fails the politics scope test (remove AI and the story still stands). It also sits close to the published datacenter-politics thread (09-21 Register Virginia governor, 10-09 Axios power regime). Replacement: The Diplomat 'US and China cannot slow the AI race'. The history_match is 'related' (0.211) to the 10-11 SemiAnalysis card, but that card covered China's domestic speed-first safety regime, while this piece argues for bilateral US-China safety cooperation, so they are different stories. It is a standalone op-ed and not a reaction piece to the 09-28 SI Dialogue fact sheet, so the verdict is new. Choosing it keeps the outlet guard (Yonhap 2, TPP 2, Diplomat 1) and adds a geopolitics axis to an otherwise all-policy set. Alternatives rejected: Yonhap global AI hub, because it would be a third Yonhap card and is a regional bidding story ahead of the 10/14 MSIT hearing, which has not happened yet. TPP 'Europe wants to regulate AI friends', because it would be a third TPP card, and the guard can only be relaxed if nothing else qualifies. Verge SI rename, because it reports corporate adoption with no new government action and continues the 09-30 and 10-07 thread. WIRED ICE/Palantir, because it fails AI-centrality. ChinaTalk Q3 digest, because it is a broad roundup. Ireland summit pick retained: it is a 10-09 analysis of an upcoming summit, and its excerpt and rationale were reworded so the copy does not imply the summit already took place."
+    "note": "Dropped as follow-ups with no new decision/filing/release: Register Yandex outage and Verge Yandex bots debunk (cluster c2; both follow up the 10-10 Ars 'Ukraine's drones knock out AI data center' card, and they report more consequences and a rebuttal, not a new event). Also Verge 'Silicon Valley falling in line with Trump's rename' (corporate adoption of the 09-30 EO / 10-07 SI Force charter; no new government action) and MeriTalk 'White House AI Task Force weighs safety' (official remarks continuing the 10-07 SI Force charter story; no new decision). Dropped as commentary/analysis: Tech Policy Press 'AI governance is being decided now', Brookings 'Shaping global governance of AI agents', Brookings 'children need a voice', ChinaTalk Q3 takeaways. Dropped WIRED midterm data-center races, which yesterday's enrichment found fails AI-centrality (the datacenters are not framed as AI). Held as alternates: MeriTalk Barrett AI oversight office bill (left out to avoid two US House bills) and Verge 'Anthropic cutting off internal evaluations' (likely the same running story as the Ars Claude false-tip pick, so at most one of them can run). Diversity: 5 distinct outlets; axes are policy x3, geopolitics x1, public opinion x1."
   }
 }

@@ -778,6 +778,135 @@
           "x": "HUMAN vende detección de bots y agentes, y sus cifras proceden de su propia plataforma, sin que se cite ninguna medición independiente."
         }
       ]
+    },
+    "marketing/marketing-google-ads-ai-goals-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google está probando el uso de AI para proponer objetivos y recursos sugeridos para tus campañas de Google Ads. Google confirmó que se trata de una prueba en curso."
+        },
+        {
+          "t": "p",
+          "x": "Dima publicó una captura de pantalla de la consola de anunciantes de Google Ads que dice \"What's your goal for this campaign?\" (¿Cuál es tu objetivo para esta campaña?). \"Google AI will suggest goals and assets based on your input\" (Google AI sugerirá objetivos y recursos según lo que indiques), dice también. Dima publicó esta captura en X:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En el recuadro grande se describe el objetivo y, si no se quiere hacer eso, se puede hacer clic en el enlace \"Create campaign manually\" (Crear campaña manualmente)."
+        },
+        {
+          "t": "p",
+          "x": "Ginny Marvin, Ads Liaison de Google, confirmó que se trata de una prueba y dijo en X: \"esto es un experimento. Agradecemos los comentarios de los anunciantes sobre cómo y dónde sería útil este tipo de flujo de trabajo\"."
+        },
+        {
+          "t": "p",
+          "x": "Google está metiendo AI en todas partes, como cabe imaginar."
+        }
+      ]
+    },
+    "marketing/marketing-olyzon-ctv-four-dsps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+          "cap": "Los agentes de Olyzon mueven presupuesto CTV entre cuatro DSPs dentro de los topes fijados por el comprador, aunque el anuncio no muestra cifras"
+        },
+        {
+          "t": "p",
+          "x": "Olyzon, con sede en París, lanzó plenamente al mercado su plataforma de orquestación agéntica el 7 de octubre de 2026 en Advertising Week New York. Sus agentes de software planifican, activan y reasignan presupuestos de campañas en curso en The Trade Desk, Amazon DSP, DV360 y Yahoo DSP sin pedir a los compradores que renuncien a los asientos, herramientas o acuerdos directos que ya tienen."
+        },
+        {
+          "t": "p",
+          "x": "Una persona fija los límites de presupuesto y las reglas de aprobación; el agente trabaja dentro de ellos. Según Olyzon, \"el presupuesto se desplaza durante la campaña hacia lo que funciona, dentro de los topes y umbrales de aprobación que controla el comprador, con un registro de auditoría completo\". En las órdenes de inserción directas, un agente de correo redacta los cambios mientras el comprador conserva el envío."
+        },
+        {
+          "t": "p",
+          "x": "\"Empezamos por CTV porque es donde más duele la fragmentación\", dijo el cofundador y CEO Jules Minvielle. \"El agente hace la orquestación. El humano conserva la decisión\". Method1 afirma que el agente ya gestiona \"Level 1 optimizations\", como presupuestos multiplataforma, pujas y decisiones de bundle ID."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio no menciona cifras de rendimiento, protocolos, precios ni clientes de marca, y sus listas de socios difieren entre el subtítulo, el cuerpo y el texto institucional."
+        }
+      ]
+    },
+    "marketing/marketing-thg-criteo-ai-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "THG Commerce, parte de THG Ingenuity, ha integrado Criteo Sponsored Products en su AI Shopping Assistant, creado con Gemini Enterprise de Google Cloud. THG Commerce afirma ser el primer proveedor de tecnología de comercio en Europa que lleva Criteo Sponsored Products a la búsqueda conversacional impulsada por AI."
+        },
+        {
+          "t": "p",
+          "x": "La integración sitúa las recomendaciones de productos patrocinados y orgánicos una junto a otra dentro de la misma conversación. Los primeros resultados muestran que los productos patrocinados mostrados a través del asistente alcanzaron una tasa de clics más de cinco veces superior a la media y una tasa de conversión de más del doble de la media."
+        },
+        {
+          "t": "p",
+          "x": "El asistente extrae palabras clave y filtros de cada conversación y los convierte en recomendaciones de productos personalizadas. Los modelos de relevancia de Criteo, que incluyen coincidencia de palabras clave, comprensión semántica y umbrales estrictos de relevancia, se aplican en el contexto conversacional, de modo que las recomendaciones patrocinadas aparecen claramente etiquetadas y solo cuando coinciden con lo que pidió el comprador."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+        },
+        {
+          "t": "p",
+          "x": "“Los clientes empiezan su recorrido de compra con una conversación... Ese es uno de los tráficos con mayor intención de compra que puede tener un minorista y, hasta ahora, ha quedado en gran parte fuera del retail media”, dijo Darren Rajanah, Chief Revenue Officer de THG Ingenuity."
+        }
+      ]
+    },
+    "marketing/marketing-meta-idle-inference-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
+        },
+        {
+          "t": "p",
+          "x": "Las flotas de inferencia afrontan una paradoja de capacidad: pueden estar limitadas a escala global mientras quedan bolsas significativas de capacidad ociosa a escala local. Meta creó un sistema que agrupa esas bolsas en un pool compartido de capacidad oportunista y las convierte en mejores recomendaciones de anuncios, sin necesidad de pedidos de capacidad adicional."
+        },
+        {
+          "t": "p",
+          "x": "Esa capacidad puede recuperarse casi sin aviso, por lo que Meta usa dos palancas de elasticidad. Rank More Ads (RMA) ajusta el número de candidatos que evalúan las etapas de ranking. Serve Better Models (SBM) ajusta la proporción de solicitudes enviadas a un modelo más potente."
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "RMA requiere capacidad tanto de CPU como de aceleradores, mientras que SBM puede usar excedentes solo de aceleradores. El aislamiento físico y lógico protege el servicio base; un controlador PID ajusta el volumen de candidatos a partir de la latencia de cola, y el descarte de carga consciente del valor en servidores y clientes reacciona en milisegundos cuando se recupera la capacidad."
+        },
+        {
+          "t": "p",
+          "x": "A continuación, Meta ampliará ambas palancas, desarrollará elasticidad de precomputación, extenderá la inferencia entre regiones y construirá un sistema basado en optimización para asignar automáticamente la capacidad de inferencia de AI."
+        }
+      ]
+    },
+    "marketing/meta-muse-ad-accounts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta amplió el 29 de septiembre de 2026 Muse, el agente personal de IA que había lanzado tres semanas antes, a un producto para pequeñas empresas de EE. UU. y Canadá. Muse for Small Business añade conectores con 15 herramientas de terceros, entre ellas Shopify, Intuit QuickBooks, Klaviyo, Stripe y Canva, además de Facebook Pages, las analíticas de cuentas profesionales de Instagram y las cuentas publicitarias de Meta. Meta afirma que «nada se publica, se envía ni se gasta sin tu aprobación»."
+        },
+        {
+          "t": "p",
+          "x": "Para los anunciantes, la frase relevante es la de las cuentas publicitarias. Las integraciones anteriores —el servidor MCP de anuncios abierto a Claude y ChatGPT en abril— exigían llevar un modelo externo a las interfaces de Meta. Aquí el modelo, el agente, la app y la cuenta publicitaria pertenecen todos a Meta. La publicación no aclara si el acceso a la cuenta publicitaria es de solo lectura o permite cambiar presupuestos, pujas o creatividades, ni si los datos de los conectores quedan fuera de los sistemas publicitarios de Meta."
+        },
+        {
+          "t": "p",
+          "x": "El único resultado cuantificado es el de un probador: el tendero Tom Mulholland dice que Muse le ahorró al menos 15 minutos en la gestión de nóminas. Muse es gratuito para la mayoría de usos, con planes de suscripción cuyos precios Meta no ha indicado. Los ingresos de Meta en el Q2 de 2026 fueron de 60.800 millones de dólares, más del 97 % procedentes de la publicidad."
+        }
+      ]
     }
   }
 }

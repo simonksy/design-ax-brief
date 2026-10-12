@@ -626,6 +626,113 @@
           "x": "The authors note the rise after GPT-4o coincides with documented sycophancy in that model, but the design cannot establish causation. They conclude that routine assessment of AI use during psychiatric encounters appears warranted."
         }
       ]
+    },
+    "medicine/medicine-medgemma-open-vlm-nature-medicine": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI training and deployment in healthcare are challenging due to diverse data, a complex spectrum of tasks and important privacy needs. The authors introduce MedGemma, a collection of medical vision-language foundation models based on Gemma 3."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+          "cap": "Fig. 1: Overview of the MedGemma models."
+        },
+        {
+          "t": "p",
+          "x": "MedGemma demonstrates advanced medical understanding and reasoning across images, text and multiple imaging domains, exceeding similarly sized generative models while keeping the general capabilities of the Gemma base models. On out-of-distribution tasks it improves on the base models by 2.6–10% in medical image question answering, 15.5–18.1% in chest X-ray finding classification and 10.8% in agentic evaluations."
+        },
+        {
+          "t": "p",
+          "x": "Fine-tuning MedGemma can be more effective than fine-tuning base Gemma 3 for medical tasks, particularly with limited training data. The team also introduces MedSigLIP, a medically tuned vision encoder derived from SigLIP that powers MedGemma's visual understanding and matches or beats many specialized medical image encoders."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+          "cap": "Fig. 2: Examples of open-ended multimodal question answering with MedGemma 4B."
+        }
+      ]
+    },
+    "medicine/medicine-bmj-healthai-patient-data-sale": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Any government that sells patient data is “betraying the trust” of its people, a leading expert on AI in health has said."
+        },
+        {
+          "t": "p",
+          "x": "Speaking at the European Health Forum Gastein earlier this month, Ricardo Baptista Leite, chief executive officer of HealthAI—a non-profit group focused on promoting the safe, responsible, and regulated use of AI in healthcare—urged governments not to buy or sell patient data and to condemn those that do."
+        },
+        {
+          "t": "p",
+          "x": "Leite, a Portuguese-Canadian doctor, also warned of a knowledge and power imbalance between the “tech bros” running AI companies and civil society—an imbalance he said could lead to greater health inequalities."
+        },
+        {
+          "t": "p",
+          "x": "His comments come as pressure mounts on NHS England to end its health data contract with Palantir. The US company has been handling the NHS’s federated data platform since it won the contract in 2023."
+        }
+      ]
+    },
+    "medicine/medicine-claude-genome-ashley-standards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Euan Ashley, chair of the Department of Medicine at Stanford, sat down with Claude and asked it to analyze his entire genome, following the framework a 30-person team used in 2009 to interpret Stephen Quake's genome over nearly a year."
+        },
+        {
+          "t": "p",
+          "x": "Despite a decade-old genome file, Claude re-identified many key findings, including two copies of the APOE ε4 variant linked to Alzheimer's risk, no major variant for a rare inherited disorder, and DPYD and CYP2C19 variants affecting drug response. It warned the file lacked enough data for reliable risk scores. The interaction used around 400,000 tokens and cost approximately $5; most of the half-hour was spent waiting for databases to load."
+        },
+        {
+          "t": "p",
+          "x": "Ashley argues that as consumers upload genomes into systems such as Claude or ChatGPT, the field needs standards for what a medical-grade genomic interpretation should include: well-characterized reference genomes, a catalog of hard-to-sequence medically significant genes, and disclosures from labs and AI developers on what their systems detect reliably. “Today, however, what’s scarce may be reliability.”"
+        }
+      ]
+    },
+    "medicine/medicine-patient-ai-privacy-survey-dive": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "AI has quickly become integrated into Americans' lives, with 40% of respondents saying they use AI at least once daily, according to an Ipsos survey of 254 U.S. patients conducted in March for Wolters Kluwer. About 1 in 4 said they pursued healthcare sooner after using AI to research symptoms or conditions."
+        },
+        {
+          "t": "p",
+          "x": "But only about 30% would use AI to find a provider, 28% to create a diet, workout or sleep plan and 19% to navigate insurance coverage. Trust issues drive the reluctance: over 70% worry about the privacy of their protected health information, and patients are also concerned about AI bias (72%) and hallucinations (69%)."
+        },
+        {
+          "t": "p",
+          "x": "A vast majority said a human expert should validate AI-generated health responses, and nearly half said AI tools used for health advice should undergo federal testing and approval, similar to new medications."
+        }
+      ]
+    },
+    "medicine/jama-aya-cancer-risk-chatbot-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adolescents and young adults (AYAs) with hereditary cancer predisposition face high lifetime cancer risk, yet no models existed to support their understanding of that risk. This randomized clinical trial tested an electronic chatbot-based cancer risk communication tool, AYA Risk Information and Screening Education, at Dana-Farber, Emory/Children’s Healthcare of Atlanta, the University of Chicago and Utah’s Huntsman Cancer Institute between December 2022 and May 2025."
+        },
+        {
+          "t": "p",
+          "x": "Participants were English speakers aged 12 to 24 with 1 of 9 hereditary cancer predisposition syndromes. The chatbot gave syndrome-specific risk and screening information, with resource pages to learn, plan screening, share with peers, connect to support groups and grow through coping support."
+        },
+        {
+          "t": "p",
+          "x": "Of 798 AYAs assessed, 106 were randomized (54 chatbot, 52 control). After the clinic visit, 78% of the chatbot group versus 37% of controls had accurate knowledge of their cancer risk by age 30 (OR, 3.50; P = .005). Gains in screening knowledge and reductions in distress were not statistically significant."
+        },
+        {
+          "t": "p",
+          "x": "The authors conclude that pairing a clinic visit with personalized, accurate electronic information improved risk knowledge without increasing distress."
+        }
+      ]
     }
   }
 }

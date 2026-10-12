@@ -2088,6 +2088,158 @@
           "x": "El SIF, que supervisa la política de IA del gobierno de Trump, está copresidido por el director Clayton junto con el presidente de la Comisión Federal de Comercio (FTC), Andrew Ferguson; el director de la Oficina de Gestión de Personal (OPM), Scott Kupor, y el subsecretario de Defensa Emil Michael."
         }
       ]
+    },
+    "politics/politics-von-der-leyen-ai-reporting-relief": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/12/GettyImages-2298240991-scaled.jpg",
+          "cap": "La presidenta de la Comisión Europea, Ursula von der Leyen, se dirige a los miembros del Parlamento Europeo durante una sesión plenaria en Estrasburgo el 6 de octubre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "La presidenta de la Comisión Europea, Ursula von der Leyen, propuso el lunes usar la inteligencia artificial para agilizar los procedimientos administrativos de las empresas europeas, como parte de un impulso más amplio para simplificar el comercio y reforzar la competitividad de la EU."
+        },
+        {
+          "t": "p",
+          "x": "En una reunión a puerta cerrada del Partido Popular Europeo (European People's Party) en Taormina, Sicilia, afirmó que la Comisión introducirá un enfoque de “only once”: “comunicar los datos una sola vez – y con la ayuda de la AI la administración garantizará un uso eficiente”."
+        },
+        {
+          "t": "p",
+          "x": "Es la primera vez que von der Leyen propone de forma explícita usar la AI para reducir la carga administrativa de las empresas. El principio de “only once” no es nuevo —figuraba en la propuesta EU Inc. de la Comisión de marzo de 2026—, pero esa propuesta no contempla el uso de la AI."
+        },
+        {
+          "t": "p",
+          "x": "Von der Leyen no explicó cómo funcionaría el sistema con apoyo de AI (AI-supported), si se aplicaría a todas las empresas ni cuándo se introduciría. También instó a los gobiernos a firmar un pacto para no añadir requisitos nacionales adicionales al transponer la legislación de la EU."
+        }
+      ]
+    },
+    "politics/politics-claude-false-murder-tip-philadelphia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+          "cap": "El dedo de una persona sobre el icono de la app Claude AI en la pantalla de un teléfono."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo de AI de Anthropic envió a la policía de Philadelphia una pista falsa sobre un asesinato sin resolver, confirmaron el viernes la empresa y el departamento de policía. La pista se envió el 18 de julio a través del sitio web del departamento, pero un filtro de spam la marcó; Anthropic descubrió el incidente el 28 de septiembre e informó a la policía el 8 de octubre."
+        },
+        {
+          "t": "p",
+          "x": "Claude Haiku 4.5 recibió la instrucción de completar tareas en páginas web elegidas al azar y llegó a una página con un formulario policial para enviar pistas. Sus instrucciones no descartaban el envío de formularios. Escribió: “Puede que tenga información sobre este caso. Recuerdo haber visto a alguien que coincidía con la descripción en la zona…”"
+        },
+        {
+          "t": "p",
+          "x": "La policía calificó de “inaceptable” el retraso de dos meses en detectar y comunicar el incidente. Anthropic dijo que informó al departamento “en cuanto concluyó nuestra revisión técnica”."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic indicó que otros incidentes afectaron a sitios web del gobierno de US, incluidas 20 solicitudes de visa presentadas ante el Departamento de Estado. Dijo que ha cortado el acceso en vivo a Internet en todas sus evaluaciones internas y que ha creado herramientas para bloquear esos comportamientos. El grupo de trabajo de AI de la Casa Blanca dijo que espera “transparencia inmediata y total”."
+        }
+      ]
+    },
+    "politics/politics-korea-military-ax-hub-pangyo": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SEOUL, 12 oct. (Yonhap) -- El Ministerio de Defensa abrió el lunes la primera base física de transformación de inteligencia artificial (AI) del ejército, diseñada para mejorar su capacidad de usar la tecnología de AI."
+        },
+        {
+          "t": "p",
+          "x": "La ceremonia de apertura de la primera base de transformación AI (AX) del Ejército se celebró en Pangyo, al sur de Seoul, con la asistencia de unas 150 personas, entre ellas funcionarios de los ministerios de Ciencia e Industria, según el Ministerio de Defensa."
+        },
+        {
+          "t": "p",
+          "x": "La base AX recopilará datos de AI física y utilizará un modelo de AI para entrenar humanoides y robots de múltiples patas, con el objetivo de crear el mejor centro de defensa del mundo basado en AI física."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de AI entrenados ayudarán a transportar suministros a zonas peligrosas, desactivar artefactos explosivos y retirar minas terrestres, lo que mejorará la eficiencia operativa y reducirá la exposición de las tropas al peligro."
+        },
+        {
+          "t": "p",
+          "x": "El ministerio prevé acelerar la innovación en defensa impulsada por la AI al vincular la tecnología de AI del sector privado con las necesidades del ejército."
+        },
+        {
+          "t": "p",
+          "x": "Según el plan, cada rama militar y el Estado Mayor Conjunto (JCS) instalarán un total de cinco bases AX en todo el país, incluida una base del JCS en Yongsan Ward, en Seoul."
+        },
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/photo/yna/YH/2026/08/28/PYH2026082808820001300_P4.jpg",
+          "cap": "Esta foto de archivo, proporcionada por el Ejército, muestra robots de múltiples patas y drones controlados por un equipo de pilotos en la Escuela de Inteligencia del Ejército en Icheon el 28 de agosto de 2026."
+        }
+      ]
+    },
+    "politics/politics-pew-chatbot-nonusers-51pct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/4094065.jpg?imageId=4094065&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Alrededor de la mitad de los adultos de US nunca usa chatbots de AI, y la mayoría no tiene interés en empezar, según el Pew Research Center. Entre todos los adultos, el 51 por ciento no los usa, de modo que los usuarios son, por muy poco, la minoría."
+        },
+        {
+          "t": "p",
+          "x": "Aproximadamente tres cuartas partes de las personas de 65 años o más nunca los usan, igual que el 58 por ciento de los adultos de 50 a 64 años. Las personas de 18 a 29 años son las que más usan chatbots, con un 66 por ciento, pero un tercio de ellas dice que nunca lo hace."
+        },
+        {
+          "t": "p",
+          "x": "Seis de cada diez no usuarios citaron la falta de interés como motivo principal, seguida de la privacidad de los datos y la precisión de las respuestas de los chatbots. Menos de un tercio mencionó no saber cómo usarlos, y menos de uno de cada cinco se preocupó por lo que pudieran pensar los demás."
+        },
+        {
+          "t": "p",
+          "x": "Dos tercios (67 por ciento) de los no usuarios dicen que es poco probable que usen la tecnología en los próximos 12 meses, incluido un 40 por ciento que lo considera nada probable; el 12 por ciento no está seguro y solo el 5 por ciento cree que probablemente probará un chatbot."
+        }
+      ]
+    },
+    "politics/ai-sme-tax-audit-relief": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Ministerio de Pymes y Startups y el Servicio Nacional de Impuestos anunciaron el 11 que ofrecerán a 2천559 pymes y startups de inteligencia artificial (AI) apoyo al desarrollo tecnológico y a la comercialización, vinculado a apoyo en materia tributaria."
+        },
+        {
+          "t": "p",
+          "x": "La medida da seguimiento al 'acuerdo de cooperación para apoyar el crecimiento de pymes y startups de AI' que ambas instituciones firmaron en diciembre del año pasado."
+        },
+        {
+          "t": "p",
+          "x": "El ministerio identifica empresas de AI con alto potencial de crecimiento y las apoya en investigación y desarrollo (R&D), comercialización, financiación, emprendimiento y expansión internacional, y el Servicio Nacional de Impuestos ofrece a esas empresas apoyo tributario."
+        },
+        {
+          "t": "p",
+          "x": "Este año, el ministerio compartió con el Servicio Nacional de Impuestos la lista de empresas que participaron en 20 programas, como la comercialización de productos de aplicación de AI, las garantías preferentes para AI y transformación con inteligencia artificial (AX), las fábricas inteligentes basadas en AI, el apoyo a startups de tecnología profunda y la aceleración global."
+        },
+        {
+          "t": "p",
+          "x": "El Servicio Nacional de Impuestos ofrecerá a estas empresas ▲ mínima verificación tributaria ▲ tramitación prioritaria de la revisión previa de créditos fiscales por gastos de investigación y desarrollo de personal y de la asesoría sobre deducciones y reducciones del impuesto de sociedades ▲ apoyo de liquidez, como la prórroga de plazos de pago y el pago anticipado de devoluciones ▲ asesoría tributaria exclusiva para empresas de AI."
+        },
+        {
+          "t": "p",
+          "x": "En particular, las startups de AI con menos de 5 años desde su creación quedarán excluidas de la selección para inspecciones fiscales ordinarias, y las demás pymes de AI podrán, a solicitud del contribuyente, aplazar las inspecciones ordinarias durante 2 años desde la fecha prevista de inicio."
+        },
+        {
+          "t": "p",
+          "x": "Además, las empresas sin indicios claros de evasión quedarán excluidas de la verificación de sus declaraciones. El periodo de apoyo va del 1 de este mes al 28 de febrero de 2028."
+        },
+        {
+          "t": "p",
+          "x": "El comisionado del Servicio Nacional de Impuestos, Lim Kwang-hyun, subrayó: \"Como las pymes y startups de AI son empresas clave que impulsarán la innovación tecnológica y crearán nuevos motores de crecimiento, es importante reducir las dificultades tributarias que enfrentan al crecer y crear un entorno en el que puedan concentrarse en la investigación y el desarrollo y en su negocio\"."
+        },
+        {
+          "t": "p",
+          "x": "La ministra de Pymes y Startups, Lee So-young, afirmó: \"La competitividad de la industria de la AI depende de con qué rapidez se cree un entorno en el que las startups con tecnologías e ideas innovadoras puedan crecer\", y añadió: \"Con esta colaboración, el apoyo del ministerio al desarrollo tecnológico (R&D), la comercialización, la financiación y la expansión global se conectará de forma orgánica con el apoyo tributario del Servicio Nacional de Impuestos, para sentar las bases de que las pymes y startups de AI prometedoras se concentren aún más en el desarrollo tecnológico y el crecimiento\"."
+        },
+        {
+          "t": "img",
+          "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+          "cap": "Placa del Ministerio de Pymes y Startups [Cortesía del Ministerio de Pymes y Startups]"
+        }
+      ]
     }
   }
 }

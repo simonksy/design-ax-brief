@@ -626,6 +626,113 @@
           "x": "作者指出，GPT-4o之后的增加与该模型有记录的谄媚（sycophancy）倾向在时间上吻合，但研究设计无法确立因果关系。他们的结论是，在精神科诊疗中常规评估AI使用情况似乎是有必要的。"
         }
       ]
+    },
+    "medicine/medicine-medgemma-open-vlm-nature-medicine": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "由于数据多样、任务范围复杂且隐私要求重要，医疗领域的AI训练与部署面临挑战。作者推出了MedGemma，这是一组基于Gemma 3的医学视觉-语言基础模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+          "cap": "Fig. 1: MedGemma模型概览。"
+        },
+        {
+          "t": "p",
+          "x": "MedGemma在图像、文本及多个影像领域展现出先进的医学理解与推理能力，在保留Gemma基础模型通用能力的同时，超越了规模相近的生成模型。在分布外任务上，它相较基础模型在医学图像问答中提升2.6–10%，在胸部X-ray发现分类中提升15.5–18.1%，在智能体评估中提升10.8%。"
+        },
+        {
+          "t": "p",
+          "x": "在医学任务上，微调MedGemma可能比微调基础Gemma 3更有效，在训练数据有限时尤其如此。团队还推出了MedSigLIP，这是一款源自SigLIP、经医学调优的视觉编码器，为MedGemma的视觉理解提供支撑，其表现与许多专用医学图像编码器相当或更优。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+          "cap": "Fig. 2: MedGemma 4B开放式多模态问答示例。"
+        }
+      ]
+    },
+    "medicine/medicine-bmj-healthai-patient-data-sale": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一位医疗AI领域的权威专家表示，任何出售患者数据的政府，都是在“背叛”本国民众的“信任”。"
+        },
+        {
+          "t": "p",
+          "x": "本月早些时候，HealthAI首席执行官Ricardo Baptista Leite在European Health Forum Gastein上发言，敦促各国政府不要买卖患者数据，并谴责这样做的政府。HealthAI是一家致力于推动在医疗领域安全、负责任且受监管地使用AI的非营利组织。"
+        },
+        {
+          "t": "p",
+          "x": "身为葡萄牙裔加拿大籍（Portuguese-Canadian）医生的Leite还警告，经营AI公司的“tech bros（科技兄弟）”与公民社会之间存在知识和权力失衡，他认为这种失衡可能加剧健康不平等。"
+        },
+        {
+          "t": "p",
+          "x": "他发表上述言论之际，要求NHS England终止与Palantir健康数据合同的压力不断加大。这家美国（US）公司自2023年赢得合同以来，一直负责NHS的联邦式数据平台。"
+        }
+      ]
+    },
+    "medicine/medicine-claude-genome-ashley-standards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Stanford医学系主任Euan Ashley让Claude分析他的完整基因组，所依循的是2009年一支30人团队花近一年解读Stephen Quake基因组时使用的框架。"
+        },
+        {
+          "t": "p",
+          "x": "尽管基因组文件已有十年之久，Claude仍重新识别出许多关键发现，包括与阿尔茨海默病风险相关的两个APOE ε4变异拷贝、未发现罕见遗传病的主要变异，以及影响药物反应的DPYD和CYP2C19变异。它还提醒，该文件的数据不足以得出可靠的风险评分。这次交互用了约400,000个token，花费约$5；这半小时的大部分时间都在等待数据库加载。"
+        },
+        {
+          "t": "p",
+          "x": "Ashley认为，随着消费者把基因组上传到Claude或ChatGPT等系统，该领域需要制定标准，明确医疗级基因组解读应包含哪些内容：经过充分表征的参考基因组、难以测序但具有医学意义的基因目录，以及检测机构和AI开发者对其系统能可靠检测哪些内容的披露。“不过如今，稀缺的或许是可靠性。”"
+        }
+      ]
+    },
+    "medicine/medicine-patient-ai-privacy-survey-dive": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "根据Ipsos于3月为Wolters Kluwer对254名U.S.患者开展的调查，40%的受访者表示每天至少使用一次AI，AI已迅速融入美国人的生活。约每4人中有1人表示，在用AI查询症状或病情后更早就医。"
+        },
+        {
+          "t": "p",
+          "x": "但只有约30%的人愿意用AI寻找医疗服务提供者，28%愿意用它制定饮食、锻炼或睡眠计划，19%愿意用它了解保险覆盖范围。这种犹豫源于信任问题：逾70%的人担心受保护健康信息的隐私，患者还担心AI偏见（72%）和幻觉（69%）。"
+        },
+        {
+          "t": "p",
+          "x": "绝大多数人认为，AI生成（AI-generated）的健康回答应由人类专家核实；近一半人认为，用于健康建议的AI工具应像新药一样接受联邦测试与审批。"
+        }
+      ]
+    },
+    "medicine/jama-aya-cancer-risk-chatbot-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "携带遗传性癌症易感性的青少年和年轻成人（AYAs）终生患癌风险很高，但此前没有任何模型帮助他们理解这一风险。这项随机临床试验于2022年12月至2025年5月在Dana-Farber、Emory/Children’s Healthcare of Atlanta、University of Chicago和Utah’s Huntsman Cancer Institute开展，测试了一款基于聊天机器人的电子癌症风险沟通工具AYA Risk Information and Screening Education。"
+        },
+        {
+          "t": "p",
+          "x": "参与者为12至24岁、患有9种遗传性癌症易感综合征中1种的英语使用者。聊天机器人提供针对具体综合征的风险和筛查信息，并设有资源页面，用于学习、规划筛查、与同伴分享、联系支持团体，以及借助应对支持实现成长。"
+        },
+        {
+          "t": "p",
+          "x": "在接受评估的798名AYAs中，106人被随机分组（聊天机器人组54人，对照组52人）。就诊后，聊天机器人组78%的人准确了解自己30岁前的癌症风险，对照组为37%（OR, 3.50; P = .005）。筛查知识的提升和心理困扰的减轻均无统计学意义。"
+        },
+        {
+          "t": "p",
+          "x": "作者总结称，在就诊的同时提供个性化、准确的电子信息，可在不增加心理困扰的情况下提升对风险的认知。"
+        }
+      ]
     }
   }
 }

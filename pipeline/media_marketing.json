@@ -1,30 +1,31 @@
 {
- "date": "2026-10-12",
- "section": "marketing",
- "media": [
-  {
-   "id": "meta-muse-ad-accounts",
-   "type": "image",
-   "src": "pipeline/media/meta-muse-ad-accounts.jpg"
-  },
-  {
-   "id": "retail-platforms-block-ai-agents",
-   "type": "svg"
-  },
-  {
-   "id": "ias-youtube-ai-slop-filter",
-   "type": "image",
-   "src": "pipeline/media/ias-youtube-ai-slop-filter.jpg"
-  },
-  {
-   "id": "naver-ai-briefing-ad-results",
-   "type": "image",
-   "src": "pipeline/media/naver-ai-briefing-ad-results.png"
-  },
-  {
-   "id": "ai-ad-consumer-backlash",
-   "type": "image",
-   "src": "pipeline/media/ai-ad-consumer-backlash.jpg"
-  }
- ]
+  "date": "2026-10-13",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "marketing-google-ai-mode-rx-ads",
+      "type": "image",
+      "src": "pipeline/media/marketing-google-ai-mode-rx-ads.jpg"
+    },
+    {
+      "id": "marketing-google-ads-ai-goals-assets",
+      "type": "image",
+      "src": "pipeline/media/marketing-google-ads-ai-goals-assets.jpg"
+    },
+    {
+      "id": "marketing-olyzon-ctv-four-dsps",
+      "type": "image",
+      "src": "pipeline/media/marketing-olyzon-ctv-four-dsps.jpg"
+    },
+    {
+      "id": "marketing-thg-criteo-ai-assistant",
+      "type": "image",
+      "src": "pipeline/media/marketing-thg-criteo-ai-assistant.png"
+    },
+    {
+      "id": "marketing-meta-idle-inference-ads",
+      "type": "image",
+      "src": "pipeline/media/marketing-meta-idle-inference-ads.png"
+    }
+  ]
 }

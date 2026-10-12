@@ -626,6 +626,113 @@
           "x": "Los autores señalan que el aumento tras GPT-4o coincide con la complacencia (sycophancy) documentada en ese modelo, pero el diseño no permite establecer causalidad. Concluyen que parece justificado evaluar de forma rutinaria el uso de IA (AI) durante las consultas psiquiátricas."
         }
       ]
+    },
+    "medicine/medicine-medgemma-open-vlm-nature-medicine": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El entrenamiento y el despliegue de la AI en salud son difíciles por la diversidad de datos, el complejo abanico de tareas y las importantes exigencias de privacidad. Los autores presentan MedGemma, una colección de modelos fundacionales médicos de visión y lenguaje basados en Gemma 3."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+          "cap": "Fig. 1: Descripción general de los modelos MedGemma."
+        },
+        {
+          "t": "p",
+          "x": "MedGemma muestra una comprensión y un razonamiento médicos avanzados en imágenes, texto y múltiples dominios de imagen, y supera a modelos generativos de tamaño similar sin perder las capacidades generales de los modelos base Gemma. En tareas fuera de distribución mejora a los modelos base en un 2.6–10% en preguntas y respuestas sobre imágenes médicas, en un 15.5–18.1% en la clasificación de hallazgos en X-ray de tórax y en un 10.8% en evaluaciones agénticas."
+        },
+        {
+          "t": "p",
+          "x": "Ajustar MedGemma puede ser más eficaz que ajustar el modelo base Gemma 3 en tareas médicas, sobre todo con pocos datos de entrenamiento. El equipo presenta también MedSigLIP, un codificador visual ajustado para medicina y derivado de SigLIP, que impulsa la comprensión visual de MedGemma e iguala o supera a muchos codificadores especializados de imagen médica."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+          "cap": "Fig. 2: Ejemplos de preguntas y respuestas multimodales abiertas con MedGemma 4B."
+        }
+      ]
+    },
+    "medicine/medicine-bmj-healthai-patient-data-sale": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cualquier gobierno que venda datos de pacientes está “traicionando la confianza” de su población, afirmó un destacado experto en AI aplicada a la salud."
+        },
+        {
+          "t": "p",
+          "x": "En su intervención en el European Health Forum Gastein a principios de este mes, Ricardo Baptista Leite, director ejecutivo de HealthAI —una organización sin ánimo de lucro dedicada a promover el uso seguro, responsable y regulado de la AI en la atención sanitaria—, instó a los gobiernos a no comprar ni vender datos de pacientes y a condenar a quienes lo hagan."
+        },
+        {
+          "t": "p",
+          "x": "Leite, médico portugués-canadiense (Portuguese-Canadian), advirtió también de un desequilibrio de conocimiento y de poder entre los “tech bros” que dirigen las empresas de AI y la sociedad civil, un desequilibrio que, según dijo, podría agravar las desigualdades en salud."
+        },
+        {
+          "t": "p",
+          "x": "Sus comentarios llegan en un momento de creciente presión sobre NHS England para que ponga fin a su contrato de datos de salud con Palantir. La empresa estadounidense (US) gestiona la plataforma federada de datos del NHS desde que obtuvo el contrato en 2023."
+        }
+      ]
+    },
+    "medicine/medicine-claude-genome-ashley-standards": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Euan Ashley, jefe del Departamento de Medicina de Stanford, se sentó con Claude y le pidió analizar su genoma completo, siguiendo el marco que un equipo de 30 personas utilizó en 2009 para interpretar el genoma de Stephen Quake durante casi un año."
+        },
+        {
+          "t": "p",
+          "x": "Pese a tratarse de un archivo genómico de hace una década, Claude volvió a identificar muchos hallazgos clave, entre ellos dos copias de la variante APOE ε4 vinculada al riesgo de Alzheimer, la ausencia de variantes importantes de un trastorno hereditario raro y variantes de DPYD y CYP2C19 que afectan a la respuesta a fármacos. Advirtió de que el archivo carecía de datos suficientes para obtener puntuaciones de riesgo fiables. La interacción consumió unos 400,000 tokens y costó aproximadamente $5; la mayor parte de la media hora se dedicó a esperar a que se cargaran las bases de datos."
+        },
+        {
+          "t": "p",
+          "x": "Ashley sostiene que, a medida que los consumidores suben sus genomas a sistemas como Claude o ChatGPT, el campo necesita estándares sobre lo que debe incluir una interpretación genómica de grado médico: genomas de referencia bien caracterizados, un catálogo de genes médicamente relevantes difíciles de secuenciar y que laboratorios y desarrolladores de AI informen de lo que sus sistemas detectan con fiabilidad. “Hoy, sin embargo, lo escaso puede ser la fiabilidad”."
+        }
+      ]
+    },
+    "medicine/medicine-patient-ai-privacy-survey-dive": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+          "cap": "Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La AI se ha integrado rápidamente en la vida de los estadounidenses: el 40% de los encuestados dice usar AI al menos una vez al día, según una encuesta de Ipsos a 254 pacientes en U.S. realizada en marzo para Wolters Kluwer. Alrededor de 1 de cada 4 afirmó haber buscado atención médica antes tras usar AI para investigar síntomas o enfermedades."
+        },
+        {
+          "t": "p",
+          "x": "Pero solo alrededor del 30% usaría AI para encontrar un proveedor, el 28% para crear un plan de dieta, ejercicio o sueño y el 19% para orientarse en la cobertura del seguro. Los problemas de confianza explican esta reticencia: más del 70% teme por la privacidad de su información de salud protegida, y a los pacientes también les preocupan el sesgo de la AI (72%) y las alucinaciones (69%)."
+        },
+        {
+          "t": "p",
+          "x": "Una amplia mayoría dijo que un experto humano debería validar las respuestas de salud generadas por AI (AI-generated), y casi la mitad afirmó que las herramientas de AI usadas para dar consejos de salud deberían someterse a pruebas y aprobación federales, como los nuevos medicamentos."
+        }
+      ]
+    },
+    "medicine/jama-aya-cancer-risk-chatbot-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los adolescentes y adultos jóvenes (AYAs) con predisposición hereditaria al cáncer afrontan un alto riesgo de cáncer a lo largo de la vida, pero no existían modelos que los ayudaran a comprender ese riesgo. Este ensayo clínico aleatorizado probó una herramienta electrónica de comunicación del riesgo de cáncer basada en un chatbot, AYA Risk Information and Screening Education, en Dana-Farber, Emory/Children’s Healthcare of Atlanta, la University of Chicago y Utah’s Huntsman Cancer Institute entre diciembre de 2022 y mayo de 2025."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes eran hablantes de inglés de 12 a 24 años con 1 de 9 síndromes de predisposición hereditaria al cáncer. El chatbot ofrecía información sobre el riesgo y el cribado específica de cada síndrome, con páginas de recursos para aprender, planificar el cribado, compartir con sus pares, conectar con grupos de apoyo y crecer mediante apoyo para el afrontamiento."
+        },
+        {
+          "t": "p",
+          "x": "De 798 AYAs evaluados, 106 fueron aleatorizados (54 al chatbot, 52 al grupo control). Tras la visita clínica, el 78% del grupo del chatbot frente al 37% de los controles conocía con precisión su riesgo de cáncer a los 30 años (OR, 3.50; P = .005). Las mejoras en el conocimiento sobre el cribado y la reducción del malestar no fueron estadísticamente significativas."
+        },
+        {
+          "t": "p",
+          "x": "Los autores concluyen que combinar la visita clínica con información electrónica personalizada y precisa mejoró el conocimiento del riesgo sin aumentar el malestar."
+        }
+      ]
     }
   }
 }

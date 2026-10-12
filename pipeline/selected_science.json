@@ -1,106 +1,150 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "science",
   "picks": [
     {
-      "url": "https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html",
-      "title": "Lensless imaging method enables long-term monitoring of living cells without staining",
-      "source": "Phys.org",
+      "url": "https://www.scientificamerican.com/article/a-unique-shape-a-3d-einstein-tile-has-been-discovered/",
+      "title": "A unique shape, a 3D einstein tile, has been discovered",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-08T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-      "excerpt": "Tampere University's SF-PULSE pairs a neural network with physics-informed image reconstruction to pull quantitative data on living cells from a single lensless image. The compact rig fits in an incubator and tracks growth, movement, division and biomass for days without labels.",
+      "published_iso": "2026-10-12T06:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+      "excerpt": "AI helped uncover a special object that can fill space without repeating patterns",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "New physics-informed neural imaging method with a concrete lab payoff (label-free, multi-day cell tracking in an incubator); no lensless-imaging story in the 30-day history."
+      "rationale": "AI-assisted discovery of a 3D aperiodic monotile is a fresh, concrete mathematical result; recent math-AI cards covered proofs, curves and sphere packing, never tilings."
     },
     {
-      "url": "https://techxplore.com/news/2026-10-ai-custom-decision-software-hour.html",
-      "title": "AI builds custom decision-making software in about an hour instead of months",
-      "source": "Tech Xplore",
+      "url": "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html",
+      "title": "AI platform and database map protein phase separation across species",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-09T12:20:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-      "excerpt": "NTU Singapore's LACE framework, reported in Nature Machine Intelligence, uses large language models to split complex optimization problems into modules and evolve teams of specialized heuristics. On four new maritime logistics problems it reached 97-99% of the best tested methods in about an hour for under US$10 per solution.",
+      "published_iso": "2026-10-12T09:20:16-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+      "excerpt": "NTU Singapore researchers used large language models to mine PubMed for phase-behavior data and built PLATO, a database of ~5,118 tested protein sequences, plus PhaseHub, which uses the MolPhase machine-learning predictor to map protein phase separation across 1,106 species (Molecular Plant).",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Peer-reviewed (Nature MI) LLM-driven heuristic design with hard numbers (97-99% of best methods, about an hour, under $10); a new method, not a math-proof story."
+      "rationale": "New open resource (PLATO + PhaseHub) built with LLM literature mining and an ML predictor across 1,106 species; basic biology, no disease target, so it belongs in science."
     },
     {
-      "url": "https://techxplore.com/news/2026-10-gay-ai-people-stereotypical-straight.html",
-      "title": "'Make this face look gay': AI models alter faces to give people stereotypical 'gay,' 'straight' or 'criminal' features",
-      "source": "Tech Xplore",
+      "url": "https://phys.org/news/2026-10-nature-lovers-aid-ecology-ai.html",
+      "title": "How nature lovers can aid ecology with an assist from AI",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-08T11:20:38-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-      "excerpt": "An EMNLP 2026 study by Ashique KhudaBukhsh's group tested GPT Image 1 Mini and Gemini 2.5 Flash Image on 1,002 synthetic faces. The models refused to infer orientation but complied with edits to make faces 'look gay' or 'straight' over 70% (GPT) and 99% (Gemini) of the time, producing stereotyped features a classifier could detect.",
-      "source_lang": "en",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Fresh EMNLP measurement of stereotype injection by image-editing models, with clear compliance rates; this is a different study from the 09-30 face-judgement bias post."
-    },
-    {
-      "url": "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
-      "title": "Hybrid Digital Twins Developed for Future Autonomous Labs",
-      "source": "GEN",
-      "category": "science",
-      "published_iso": "2026-10-07T16:00:29Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg",
-      "excerpt": "South Korean researchers are building a hybrid digital twin that combines mechanistic bioprocess modeling with data-driven AI. They aim for a fully autonomous lab that runs biomanufacturing with minimal human intervention, from academic to larger scales.",
+      "published_iso": "2026-10-12T11:40:20-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+      "excerpt": "University of Michigan researchers used ChatGPT and Claude to find and classify species-interaction observations buried in eBird and iNaturalist comments, surfacing signs of nonnative plant spread on the U.S. West Coast; a task taking a student eight hours took Claude six minutes (PNAS).",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "AI lab-automation angle on bioprocessing (mechanistic plus data-driven twin), adding a third outlet; unrelated to the 09-26 tumor digital twin (clinical oncology) despite the shared term."
+      "rationale": "PNAS study using LLMs to mine citizen-science notes, with a hard speedup figure (8 hours to 6 minutes); actionable method for any researcher sitting on free-text field data."
     },
     {
-      "url": "https://phys.org/news/2026-10-ai-reveals-coating-thickness-link.html",
-      "title": "AI reveals how coating thickness changes the link between surface roughness and pitting resistance",
-      "source": "Phys.org",
+      "url": "https://techxplore.com/news/2026-10-approach-sustainable-ai-offloading-burden.html",
+      "title": "A new approach to sustainable AI: Offloading part of the computational burden onto light",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-09T00:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-coating.jpg",
-      "excerpt": "Shibaura Institute of Technology researchers used interpretable machine learning (random forest with SHAP and ALE) on 90 steam-coated aluminum specimens to map what drives corrosion pitting resistance. The model suggests the roughness-thickness relationship flips near 2,200 nm, a hypothesis still awaiting experimental confirmation (npj Materials Degradation).",
+      "published_iso": "2026-10-10T06:55:27-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+      "excerpt": "Koç University researchers built two photonic systems that move part of AI computation onto light: a programmable optical neural network that learns from experimental measurements (raising skin-lesion classification accuracy from 68% to 98%) and a multimode fiber laser that processes images at 85-99% accuracy with fewer trainable parameters (Communications Engineering / Communications Physics).",
+      "source_lang": "en",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Two peer-reviewed photonic computing systems (Koç University) with measured accuracy gains; a distinct group and design from the earlier LightTok chip and light-powered deepfake detector."
+    },
+    {
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "title": "Is 'Attention' the Essence of Intelligence?",
+      "source": "Quanta Magazine",
+      "category": "science",
+      "published_iso": "2026-10-12T14:20:30+00:00",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Social.jpg",
+      "excerpt": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key?",
+      "source_lang": "en",
+      "tool": "Science",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "rationale": "Quanta explainer linking transformer attention to attention in cognitive science; a credible outlet, a fifth distinct source, and no overlap with the 30-day history (the 10-11 Quanta card was about AI and math)."
+    }
+  ],
+  "alternates": [
+    {
+      "url": "https://www.psychologytoday.com/us/blog/time-travel-across-borders/202610/when-imagining-the-future-of-ai-gen-zers-are-not-optimistic",
+      "title": "When Imagining the Future of AI, Gen-Zers Are Not Optimistic",
+      "source": "Psychology Today",
+      "category": "science",
+      "published_iso": "2026-10-12T17:18:10-04:00",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-10/jackson-sophat-tq3sgrw9lkm-unsplash.jpg?itok=4aRwTS5z",
+      "excerpt": "A soon-to-be-published study shows Gen-Zers imagine more worrying than exciting events regarding AI, yet attitudes toward technology and one's politics play a role.",
+      "source_lang": "en",
+      "tool": "Science",
+      "accent": "#ff5a4d",
+      "motif": "sphere",
+      "rationale": "A psychology study preview on how Gen Z imagines the future of AI; new data, but it comes from a blog write-up of an unpublished paper."
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "title": "We're putting too much faith in AI's ability to say no",
+      "source": "MIT Technology Review",
+      "category": "science",
+      "published_iso": "2026-10-09T05:00:00-04:00",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
+      "excerpt": "Today's LLMs are engineered to disobey dangerous requests. But AI refusal is far from foolproof—and could become an instrument of repression.",
+      "source_lang": "en",
+      "tool": "Science",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "rationale": "An op-ed on the limits of LLM refusal; credible outlet, but it is commentary."
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/how-attachment-theory-can-help-us-understand-ai-relationships/",
+      "title": "How attachment theory can help us understand AI relationships",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-10-04T06:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg?m=1785858312.019&w=1200",
+      "excerpt": "Attachment is the term psychologists use for the most significant relationships that hold people's lives together",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Adds a materials-science pick: interpretable ML produces a testable hypothesis (a flip near 2,200 nm). No corrosion story in history; the last materials card ran 10-01."
+      "rationale": "A psychology framing of human-AI relationships; older (10-04) and essay-style."
     }
   ],
   "dedup": {
     "checks": {
-      "https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html": {
+      "https://www.scientificamerican.com/article/a-unique-shape-a-3d-einstein-tile-has-been-discovered/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-tracking-cellular-gene-functions-ai.html",
+        "nearest": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-ai-custom-decision-software-hour.html": {
+      "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://phys.org/news/2026-09-ai-hidden-human-proteins-reveals.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-gay-ai-people-stereotypical-straight.html": {
+      "https://phys.org/news/2026-10-nature-lovers-aid-ecology-ai.html": {
         "verdict": "new",
-        "nearest": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/a-hidden-bias-of-ai-revealed",
+        "nearest": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
         "new_action": ""
       },
-      "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/": {
+      "https://techxplore.com/news/2026-10-approach-sustainable-ai-offloading-burden.html": {
         "verdict": "new",
-        "nearest": "https://medicalxpress.com/news/2026-09-tumor-digital-twins-months-ai.html",
+        "nearest": "https://www.livescience.com/technology/electronics/new-lighttok-chip-converts-light-directly-into-tokens-for-ai-slashing-energy-use-in-drones-and-other-autonomous-machines",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-reveals-coating-thickness-link.html": {
+      "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-physics-grounded-ai-framework-aims.html",
+        "nearest": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
         "new_action": ""
       }
     },
-    "note": "No clusters and no likely-repeat bands in the pool. Dropped or ranked below: Ai2 COLM recap (event recap that rehashes Asta/Bolmo, already published 10-08 and 10-10, so it counts as a duplicate); arXiv fusion-control benchmark (related to the 09-14 ScienceDaily fusion story; carried over, no image); SciAm OpenAI math trove (math proofs deprioritized today, heavy math coverage 10-08 to 10-11); Honda/Redwire space lab (no clear AI angle); arXiv Station (related to the 09-18 manuscripts-to-agents story, preprint, no image); Great Lakes ML (solid, but Phys.org already at 2 picks and an Earth-system flood story ran 10-07); social-jetlag AI evaluator preference and Psychology Today disaster-recovery opinion (lower novelty and weaker method); carried-over items ranked lower (legoESM, drones-wildlife, attachment theory, AI safety tests, AI-language blog, GPT-6 Astra AGI). No biosecurity or pathogen items and no clinical items. Outlets: Phys.org x2, Tech Xplore x2, GEN x1."
+    "note": "Dropped as repeats: the Tech Xplore '10 minutes of AI erodes persistence' story (likely-repeat of the EurekAlert card published 2026-10-10, same COLM study) and the Ai2 COLM 2026 recap (a roundup of Olmo Hybrid/Asta/Bolmo, which were already published as AstaBrief on 10-08 and Bolmo on 10-10; no new release). Swapped on coordinator request: the DOE Genesis Mission $159M awards are treated as funding noise under the run rules and were replaced by the Quanta attention column. The Live Science rogue-agent liability feature was skipped because it overlaps the AI-agent liability bill claimed by politics today; nothing here covers the Ars 'Claude false murder tip' story. Dropped on scoring: opinion and commentary pieces (Psychology Today 'Good Enough AI' and 'algorithmic self', Live Science on GPT-6 Astra AGI claims), the evergreen GEN multiomics overview, and the STAT researcher profile, which fits medicine more than science. Diversity: Phys.org has 2 cards and the 5 picks come from 4 outlets. No item is biosecurity-adjacent."
   }
 }

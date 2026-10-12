@@ -1,36 +1,53 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "movies",
+  "now_iso": "2026-10-12T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/",
+      "title": "‘Merry the Christmas Witch’ Director Estimated Movie Would Cost $80 Million — but Says With AI, He Made It for $1.5 Million (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/merry-the-christmas-witch-ai-film-80-million-1-5-million-1236905721/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-10-11T10:33:16+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/InnoAsia1.jpg?w=1000&h=563&crop=1",
-      "excerpt": "At Busan’s InnoAsia AI Creators Camp, VFX veteran Hong Jae Cheol mapped a hybrid future of AI-native studios and traditional VFX.",
-      "title": "AI-Native Studios Can Create Original IP While Traditional Studios Keep Their Edge, VFX Veteran Hong Jae Cheol Says at Busan"
+      "published_iso": "2026-10-12T16:37:10+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Merry_Poster_HiRes-1.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Director Tom Walsh said he produced the two-hour film for $1.5 million using AI, perhaps serving as a test case for the types of projects AI can help make."
     },
     {
-      "url": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/",
+      "title": "Antonio Banderas to Star in AI-Powered Feature ‘Cortes’ From Utopai Studios",
+      "url": "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-10-11T06:31:57+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Overstake.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Cappu Films boards worldwide sales on Stas Mareev’s ‘Overstake,’ a live-action sci-fi thriller whose world is being rebuilt with generative AI.",
-      "title": "Sci-Fi Thriller ‘Overstake’ Gets Generative AI Rebuild, Boarded by Cappu Films at Busan Market (EXCLUSIVE)"
+      "published_iso": "2026-10-12T15:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2182672949-e1774570677557.jpg?w=1000&h=563&crop=1",
+      "excerpt": "The Oscar-nominated actor will star as Hernán Cortés in “Cortés,” an AI-powered feature from Utopai Studios and Ex Machina Studios now shooting in Paris.",
+      "history_match": {
+        "score": 0.224,
+        "date": "2026-10-01",
+        "url": "https://www.tvtechnology.com/production/live-production/utopai-studios-launches-new-pai-and-utopai-x-to-advance-production-intelligence-for-film-and-tv",
+        "title": "Utopai Studios Launches New PAI and Utopai X to Advance Production Intelligence for Film and TV",
+        "band": "related"
+      }
     },
     {
+      "title": "Tilly Nollywood? African Filmmakers — Ready or Not — Get Set for the AI Revolution",
+      "url": "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-10-12T18:36:57+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=563&crop=1",
+      "excerpt": "While generative AI has the potential to transform filmmaking in Africa, practical challenges on the continent abound."
+    },
+    {
+      "title": "AI Productions Require Traditional Skills To Be Cinematic, Say Filmmakers On Kling AI Panel: “You Need Experts To Prevent Everything Looking The Same”",
       "url": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
       "source": "Deadline",
       "category": "movies",
       "published_iso": "2026-10-11T09:47:54+00:00",
       "og_image": "https://deadline.com/wp-content/uploads/2026/10/Kling-AI-panel-.jpg?w=1024",
-      "excerpt": "Filmmakers speaking on an ACFM & Kling AI panel said AI production requires traditionally trained crew members to prevent everything looking the same.",
-      "title": "AI Productions Require Traditional Skills To Be Cinematic, Say Filmmakers On Kling AI Panel: “You Need Experts To Prevent Everything Looking The Same”",
+      "excerpt": "Filmmakers including '12.12: The Day' director Kim Sung-soo said on an ACFM & Kling AI panel in Busan that AI production still needs traditionally trained crew to keep results from looking the same.",
       "history_match": {
-        "score": 0.166,
+        "score": 0.182,
         "date": "2026-09-14",
         "url": "https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/",
         "title": "Kling AI’s TIFF Market Panel Illuminates Tech Challenges and Human-Led Solutions in AI Filmmaking: ‘The Script Is Still the Blueprint’",
@@ -38,33 +55,60 @@
       }
     },
     {
+      "title": "Netflix Has Used AI on About 300 Titles, but “Human Touch Is Critical,” Exec Says in Busan",
       "url": "https://www.hollywoodreporter.com/business/business-news/netflix-ai-300-titles-busan-film-fest-1236727138/",
       "source": "The Hollywood Reporter",
       "category": "movies",
       "published_iso": "2026-10-11T05:12:50+00:00",
       "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/AI-in-Filmmaking_2.jpg?w=1296&h=730&crop=1",
-      "excerpt": "Netflix’s Asia-Pacific production head Sung Q Lee, ‘The Outlaws’ director Kang Yun-sung and Wētā FX's Kimball Thurston discussed creative possibilities, production savings and the limits of AI at the streamer’s Creative Asia event in Busan.",
-      "title": "Netflix Has Used AI on About 300 Titles, but “Human Touch Is Critical,” Exec Says in Busan"
+      "excerpt": "Netflix’s Asia-Pacific production head Sung Q Lee, ‘The Outlaws’ director Kang Yun-sung and Wētā FX's Kimball Thurston discussed creative possibilities, production savings and the limits of AI at the streamer’s Busan panel."
     },
     {
-      "url": "https://beforesandafters.com/2026/10/07/step-into-the-directors-seat-with-3d-editor-in-flow-studio/",
-      "source": "befores & afters",
+      "title": "Busan’s Asian Contents & Film Market evolves with added focus on AI and microdramas",
+      "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
+      "source": "Screen Daily",
       "category": "movies",
-      "published_iso": "2026-10-07T09:11:03+00:00",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/1920x1080_me_flow-studio_phase-2_meta_3d-editor-and-canvas_try-free_V2.jpg",
-      "excerpt": "Stage every scene with characters, CG worlds, and cameras you control.",
-      "title": "Step into the director's seat with 3D Editor in Flow Studio﻿"
+      "published_iso": "2026-10-10T01:19:00+00:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
+      "excerpt": "Busan's ACFM (October 10-13) adds new programming on generative AI filmmaking and microdramas, including the InnoAsia tech strand and AI tool sessions."
     },
     {
+      "title": "My Screen Life: Taiwanese producer Patrick Mao Huang on spotting new talent and embracing AI",
+      "url": "https://www.screendaily.com/features/my-screen-life-taiwanese-producer-patrick-mao-huang-on-spotting-new-talent-and-embracing-ai/5221306.article",
+      "source": "Screen Daily",
+      "category": "movies",
+      "published_iso": "2026-10-12T00:01:00+00:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/5/8/7/1489587_patrickmaohuanginhisoffice1_536722_crop.jpg",
+      "excerpt": "Taiwanese producer Patrick Mao Huang talks spotting up-and-coming filmmakers and why he is embracing AI tools in production."
+    },
+    {
+      "title": "AI Creative Summit unveils full lineup for 2026 edition",
+      "url": "https://www.screendaily.com/news/ai-creative-summit-unveils-full-lineup-for-2026-edition/5221158.article",
+      "source": "Screen Daily",
+      "category": "movies",
+      "published_iso": "2026-10-07T14:10:00+00:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/7/2/1489172_54122656066_58575ad699_k_630174_crop.jpg",
+      "excerpt": "Presented by Screen International, Broadcast and Broadcast Tech, the AI Creative Summit is expanding this year in response to unprecedented interest in AI from the creative and media industries."
+    },
+    {
+      "title": "Aaron Sorkin Explains What AI Gets Wrong About Storytelling",
+      "url": "https://nofilmschool.com/aaron-sorkin-explains-ai-gets-wrong-storytelling",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-10-06T22:30:48+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=68278315&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+      "excerpt": "In a wide-ranging interview, Aaron Sorkin breaks down where AI-generated writing falls short of human storytelling craft."
+    },
+    {
+      "title": "Real-Time AI Worlds in Focus at Visko and Google Cloud's October 14 LA Fireside Chat",
       "url": "https://www.awn.com/news/real-time-ai-worlds-focus-visko-and-google-clouds-october-14-la-fireside-chat",
       "source": "Animation World Network",
       "category": "movies",
       "published_iso": "2026-10-09T16:48:43-07:00",
       "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081522-visko-google-cloud-live-models-landscape-1280.jpg?itok=w4XccKHY",
-      "excerpt": "Get together looks at AI-generated environments that respond to user input while keeping continuity, and what they could mean for previs, virtual production and games.",
-      "title": "Real-Time AI Worlds in Focus at Visko and Google Cloud's October 14 LA Fireside Chat",
+      "excerpt": "The get-together looks at AI-generated environments that respond to user input while keeping continuity, and what they could mean for previs, virtual production and games.",
       "history_match": {
-        "score": 0.156,
+        "score": 0.154,
         "date": "2026-10-07",
         "url": "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/",
         "title": "The Tools Shaping the Future of VFX",
@@ -72,18 +116,91 @@
       }
     },
     {
-      "url": "https://lumalabs.ai/news/Luma-Claude-Motion-Launch-Partnership",
-      "source": "Luma",
+      "title": "Call for Participation: USC Annenberg AI in Film and TV Survey",
+      "url": "https://www.awn.com/news/call-participation-usc-annenberg-ai-film-and-tv-survey",
+      "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-10-08T19:07:00.000Z",
-      "og_image": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg",
-      "excerpt": "Claude Motion videos now open in Luma so creators turn an idea in motion into video in any format.",
-      "title": "Start in Claude Motion. Finish it in Luma. | Luma"
+      "published_iso": "2026-10-06T09:24:04-07:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/ai-clapperboard-1280.jpg?itok=QQzQTtG3",
+      "excerpt": "Dr. Stacy L. Smith's Inclusion Initiative is asking professionals above and below the line to share their thoughts on artificial intelligence in a 30-minute anonymous online questionnaire."
+    },
+    {
+      "title": "RevThink’s Revolve Accelerator Explores What Clients Value in the Age of AI",
+      "url": "https://motionographer.com/news/revthink-revolve-accelerator-ai-creative-business/",
+      "source": "Motionographer",
+      "category": "movies",
+      "published_iso": "2026-10-07T14:03:58+00:00",
+      "og_image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&quality=80&ssl=1",
+      "excerpt": "RevThink’s six-week program for motion studio owners begins October 13, exploring how AI changes creative expertise and client value."
+    },
+    {
+      "title": "Retouch4me Lab: AI color correction for a whole shoot",
+      "url": "https://www.provideocoalition.com/retouch4me-lab-ai-color-correction-for-a-whole-shoot/",
+      "source": "ProVideo Coalition",
+      "category": "movies",
+      "published_iso": "2026-10-06T08:12:09-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/retouch4melab001.jpg",
+      "excerpt": "The new Retouch4me Lab app is an AI color correction tool that works on a whole shoot at once; the company recently launched Lab Video, a color tool for video professionals.",
+      "history_match": {
+        "score": 0.232,
+        "date": "2026-09-27",
+        "url": "https://www.provideocoalition.com/retouch4me-lab-video-get-a-cinematic-look-in-a-few-clicks/",
+        "title": "Retouch4me Lab Video: get a cinematic look in a few clicks",
+        "band": "related"
+      }
+    },
+    {
+      "title": "You're Spending Too Much on Your AI Videos",
+      "url": "https://www.youtube.com/watch?v=h4MKJAJvins",
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-10-09T15:24:51-07:00",
+      "og_image": "https://i.ytimg.com/vi/h4MKJAJvins/maxresdefault.jpg",
+      "excerpt": "Curious Refuge shares workflows for saving generation credits on an AI film so you don't waste money on bad generations.",
+      "history_match": {
+        "score": 0.153,
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=JWEAmLHp7Sg",
+        "title": "How Much of Filmmaking Can AI Agents Actually Do?",
+        "band": "related"
+      }
+    },
+    {
+      "title": "I Tested AI Agents Against a Real AI Artist",
+      "url": "https://www.youtube.com/watch?v=aVVxF88J2co",
+      "source": "Curious Refuge (YouTube)",
+      "category": "movies",
+      "published_iso": "2026-09-30T14:33:06-07:00",
+      "og_image": "https://i.ytimg.com/vi/aVVxF88J2co/maxresdefault.jpg",
+      "excerpt": "Curious Refuge tests the top AI creative agents against a real AI artist's work and looks at new AI filmmaking tech.",
+      "history_match": {
+        "score": 0.186,
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=JWEAmLHp7Sg",
+        "title": "How Much of Filmmaking Can AI Agents Actually Do?",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Catherine Zeta-Jones Prefers \"Real People\" Over AI \"Actors\"",
+      "url": "https://deadline.com/2026/10/catherine-zeta-jones-comments-ai-prefers-real-people-1237154109/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-10-10T22:45:06+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/P106I5B5-e1791671386890.jpg?w=1003",
+      "excerpt": "Catherine Zeta-Jones wants to see fewer AI \"actors\" onscreen and more undiscovered human talent, weighing in on the synthetic-performer debate.",
+      "history_match": {
+        "score": 0.191,
+        "date": "2026-09-22",
+        "url": "https://variety.com/2026/film/global/tom-cruise-ai-movies-people-want-real-things-1236871464/",
+        "title": "Tom Cruise Says AI Is 'Coming and It's Going to Happen,' but 'People Want to See Real Things'",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 12,
-    "kept": 9,
+    "dropped": 0,
+    "kept": 17,
     "against_days": 5
   },
   "story_dedup": {
@@ -93,52 +210,17 @@
         "url": "https://deadline.com/2026/10/ben-affleck-used-ai-lots-of-things-animals-1237145166/",
         "title": "Ben Affleck Used AI For \"Lots Of Things\" In Netflix's 'Animals'",
         "match": {
-          "score": 0.715,
+          "score": 0.716,
           "date": "2026-10-02",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-ai-netflix-movie-animals-1236717919/",
           "title": "Ben Affleck Used AI “For Lots of Things” in His New Netflix Movie ‘Animals’"
         }
-      },
-      {
-        "url": "https://www.hollywoodreporter.com/tv/tv-news/nicolas-cage-true-detective-anti-ai-amazon-spider-noir-1236726924/",
-        "title": "Nicolas Cage Teases ‘True Detective’ Role, Says He “Probably” Won’t Work With Prime Video Again After Refusing to Sign AI Waiver for ‘Spider-Noir’",
-        "match": {
-          "score": 0.611,
-          "date": "2026-10-11",
-          "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
-          "title": "Nicolas Cage Didn't Sign AI Waiver For 'Spider-Noir' & \"Probably\" Won't Work Again With \"AI-Friendly\" Amazon"
-        }
       }
     ],
-    "review": 2,
+    "review": 7,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-12",
-      "title": "SNS Adds AI Suite Advanced, Avid Media Composer Support to EVO",
-      "url": "https://postperspective.com/sns-adds-ai-suite-advanced-avid-media-composer-support-to-evo-more/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Guillermo Del Toro On What Artists Lose To AI: 'You're Never A Master; You're Always An Apprentice'",
-      "url": "https://www.cartoonbrew.com/artificial-intelligence/guillermo-del-toro-artificial-intelligence-debate-266406.html"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "AI-Generated Verticals Are Flooding the Microdrama Apps That Kept Crews Working",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ai-hollywood-microdramas-1236694483/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Daniel Kwan and Joseph Gordon-Levitt's CCAI Launches a Site to Define AI's Impact",
-      "url": "https://www.hollywoodreporter.com/business/digital/ai-impact-hollywood-kwan-gordon-levitt-study-1236695085/"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Eddie AI v4 adds Avid support, C2PA signing, and generative b-roll",
-      "url": "https://www.redsharknews.com/eddie-ai-v4-avid-c2pa-generative-features"
-    },
     {
       "date": "2026-09-13",
       "title": "Acon Acoustica 8 Provides AI-Assisted Audio Workflow Tools",
@@ -783,6 +865,21 @@
       "date": "2026-10-11",
       "title": "Latvian filmmaker wins AI film Grand Prix in Kazakhstan",
       "url": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Start in Claude Motion. Finish it in Luma. | Luma",
+      "url": "https://lumalabs.ai/news/Luma-Claude-Motion-Launch-Partnership"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "AI-Native Studios Can Create Original IP While Traditional Studios Keep Their Edge, VFX Veteran Hong Jae Cheol Says at Busan",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Sci-Fi Thriller ‘Overstake’ Gets Generative AI Rebuild, Boarded by Cappu Films at Busan Market (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/"
     }
   ]
 }

@@ -778,6 +778,135 @@
           "x": "HUMAN sells bot and agent detection, and its numbers come from its own platform, with no independent measurement cited."
         }
       ]
+    },
+    "marketing/marketing-google-ads-ai-goals-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test."
+        },
+        {
+          "t": "p",
+          "x": "Dima posted a screenshot from the Google Ads advertiser console that says \"What's your goal for this campaign?\" \"Google AI will suggest goals and assets based on your input,\" it also says. Dima posted this screenshot on X:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In the large box, you describe your goal and if you don't want to do that, you can click on the link to \"Create campaign manually.\""
+        },
+        {
+          "t": "p",
+          "x": "Ginny Marvin, Google's Ads Liaison, confirmed this is a test and said on X, \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\""
+        },
+        {
+          "t": "p",
+          "x": "Google is shoving AI everywhere, as you can imagine."
+        }
+      ]
+    },
+    "marketing/marketing-olyzon-ctv-four-dsps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+          "cap": "Olyzon agents move CTV budget across four DSPs inside buyer-set caps, yet release shows no figures"
+        },
+        {
+          "t": "p",
+          "x": "Paris-based Olyzon on October 7, 2026 put its agentic orchestration platform into full commercial release at Advertising Week New York. Its software agents plan, activate and reallocate live campaign budgets across The Trade Desk, Amazon DSP, DV360 and Yahoo DSP without asking buyers to give up the seats, tools or direct deals they already hold."
+        },
+        {
+          "t": "p",
+          "x": "A person sets the budget limits and approval rules; the agent works inside them. According to Olyzon, \"Budget moves in-flight toward what is working, inside caps and approval thresholds the buyer controls, with a full audit log.\" For direct insertion orders, an email agent drafts changes while the buyer keeps the send."
+        },
+        {
+          "t": "p",
+          "x": "\"We start with CTV because that is where the fragmentation hurts most,\" said co-founder and CEO Jules Minvielle. \"The agent does the orchestration. The human keeps the decision.\" Method1 says the agent now handles \"Level 1 optimizations\" such as cross-platform budgets, bids and bundle ID decisions."
+        },
+        {
+          "t": "p",
+          "x": "The release names no performance figures, protocols, pricing or brand clients, and its partner lists differ between the subheadline, body and boilerplate."
+        }
+      ]
+    },
+    "marketing/marketing-thg-criteo-ai-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "THG Commerce, part of THG Ingenuity, has integrated Criteo Sponsored Products into its AI Shopping Assistant, built using Google Cloud’s Gemini Enterprise. THG Commerce says it is the first commerce technology provider in Europe to bring Criteo Sponsored Products into AI powered conversational search."
+        },
+        {
+          "t": "p",
+          "x": "The integration places sponsored and organic product recommendations side by side within the same conversation. Early results show sponsored products surfaced through the assistant reached a click-through rate more than five times the average, and a conversion rate more than double the average."
+        },
+        {
+          "t": "p",
+          "x": "The assistant draws keywords and filters from each conversation and turns them into tailored product recommendations. Criteo’s relevance models, including keyword matching, semantic understanding and strict relevance thresholds, apply in the conversational context, so sponsored recommendations appear clearly labelled and only when they match what the shopper asked for."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+        },
+        {
+          "t": "p",
+          "x": "“Customers start their shopping journey with a conversation... That is some of the highest-intent traffic a retailer can have, and until now it has largely sat outside retail media,” said Darren Rajanah, Chief Revenue Officer, THG Ingenuity."
+        }
+      ]
+    },
+    "marketing/marketing-meta-idle-inference-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
+        },
+        {
+          "t": "p",
+          "x": "Inference fleets face a capacity paradox: they can be globally constrained while meaningful pockets of capacity remain locally idle. Meta built a system that aggregates these pockets into a shared opportunistic capacity pool and turns them into better ads recommendations, without requiring additional capacity orders."
+        },
+        {
+          "t": "p",
+          "x": "The capacity may be reclaimed with little notice, so Meta uses two elasticity levers. Rank More Ads (RMA) adjusts the number of candidates evaluated by the ranking stages. Serve Better Models (SBM) adjusts the share of requests routed to a more powerful model."
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "RMA requires both CPU and accelerator capacity, while SBM can use accelerator-only surplus. Physical and logical isolation protects baseline serving; a PID controller tunes candidate volume from tail latency, and value-aware load shedding at servers and clients reacts within milliseconds when capacity is reclaimed."
+        },
+        {
+          "t": "p",
+          "x": "Next, Meta is extending both levers, developing precomputation elasticity, expanding cross-region inference, and building an optimization-based system to allocate AI inference capacity automatically."
+        }
+      ]
+    },
+    "marketing/meta-muse-ad-accounts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta on September 29, 2026 extended Muse, the personal AI agent it released three weeks earlier, into a product for small businesses in the US and Canada. Muse for Small Business adds connectors to 15 third-party tools including Shopify, Intuit QuickBooks, Klaviyo, Stripe and Canva, alongside Facebook Pages, Instagram professional account analytics and Meta ad accounts. Meta says \"nothing publishes, sends, or spends without your approval.\""
+        },
+        {
+          "t": "p",
+          "x": "For advertisers, the significant line is the one about ad accounts. Earlier integrations — the ads MCP server opened to Claude and ChatGPT in April — required bringing an external model to Meta's interfaces. Here the model, the agent, the app and the ad account all belong to Meta. The post does not say whether ad-account access is read-only or can change budgets, bids or creative, nor whether connector data is kept out of Meta's ad systems."
+        },
+        {
+          "t": "p",
+          "x": "The only quantified outcome is one tester's: grocer Tom Mulholland says Muse cut at least 15 minutes from payroll. Muse is free for most uses, with subscription plans whose prices Meta has not stated. Meta's Q2 2026 revenue was $60.80 billion, more than 97% of it from ads."
+        }
+      ]
     }
   }
 }

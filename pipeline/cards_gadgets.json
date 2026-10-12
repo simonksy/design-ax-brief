@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "gadgets",
   "cards": [
     {
-      "id": "raspberry-pi-29mb-ai-model",
+      "id": "gadgets-fitbit-edge-launch",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "HAT 없는 29MB AI\nRaspberry Pi 5",
-      "body": "29MB Needle 3은 AI HAT 없이 Raspberry Pi 5에서 돈다.",
-      "mini_headline": "Raspberry Pi 5에서 도는 29MB AI",
+      "headline": "Fitbit Edge,\nAir와 Pixel 사이",
+      "body": "Google의 Fitbit Edge는 Air보다 낫지만 스마트워치엔 못 미친다.",
+      "mini_headline": "Fitbit Edge, Air와 Watch 사이",
       "tool": "Gadgets",
-      "source": "XDA Developers",
-      "url": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,287 +19,251 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
           },
           {
             "t": "p",
-            "x": "XDA의 Ayush Pande는 Raspberry Pi 5에서 작은 LLMs를 숱하게 돌려 봤지만 Cactus Compute Needle 3은 달랐다. Python을 조금 손보면 이 가벼운 모델이 겨우 몇 MBs 만으로 SBC를 강력한 자동화 기기로 바꿔 놓는다. AI HAT도 필요 없다."
+            "x": "Google이 2026년 두 번째 Fitbit 트래커를 내놓는다. 새 Fitbit Edge의 자리는 딱 Pixel Watch 5와 Fitbit Air 사이다. 화면은 작고 건강 센서는 Air보다 많으며, 가격은 Pixel Watch 5의 절반 정도다."
           },
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-            "cap": "스마트 플러그를 제어하는 Python 스크립트"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+            "cap": "왼쪽부터 Fitbit Air(새 메탈 메시 밴드 장착), Fitbit Edge, Pixel Watch 5."
           },
           {
             "t": "p",
-            "x": "Needle 3은 일반 대화 기능을 덜어 낸 덕에 최대 29MB 만 쓴다. 도구 호출, 비정형 데이터의 JSON 변환, 텍스트 벡터 생성처럼 기계가 할 일에 집중한다. 잘라 쓰는 사다리 구조라 하드웨어에 맞춰 2개에서 20개 레이어까지 하위 네트워크를 고르면 된다."
+            "x": "가는 알루미늄 프레임에 알약 모양의 1.34인치 OLED 터치 디스플레이를 얹었고 IP68(5 ATM) 등급을 받았다. Google Health 앱으로 Android 폰이나 iPhones와 함께 쓴다. 한 번 충전하면 약 7일(상시 표시 화면을 켜면 약 2일) 간다."
           },
           {
             "t": "p",
-            "x": "DietPi를 설치한 8GB Raspberry Pi 5에서는 pip 설치 몇 번에 20개 레이어를 모두 쓴 needle 빌드 하나면 설정이 끝났다. (1세대 Pi Zero는 지원되지 않는 ARMv6 아키텍처라 빌드에 실패했다.)"
-          },
-          {
-            "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-            "cap": "Cactus Compute Needle 3 실행"
+            "x": "휴대폰 알림은 그대로 띄우지만 마이크와 스피커가 없고 Gemini 상호작용과 NFC도 지원하지 않는다. 대신 Air에는 없던 기기 자체 GPS와 Pixel Watch의 ECG·혈중 산소 센서가 더해졌다."
           },
           {
             "t": "p",
-            "x": "맞춤 Python 도구 파일로 Home Assistant와 연동하자 Needle 3은 스마트 플러그를 켜라는 프롬프트를 알아들었고 기기는 곧바로 켜졌다(디코드 280.2 tokens/s, 프리필 996.4 tokens/s)."
+            "x": "이렇게 모은 데이터는 전부 Google Health 앱의 Gemini 기반 챗봇 Health Coach로 간다. Edge에는 Google Health Premium(월 10달러) 3개월 이용권이 딸려 오는데, 이게 없으면 AI 기능을 못 쓴다. Health Coach는 원하면 끌 수 있다."
           },
           {
-            "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-            "cap": "원격 Docker 노드를 제어하는 Python 스크립트 만들기"
+            "t": "video",
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
           },
           {
             "t": "p",
-            "x": "도구는 스마트 기기와 ESP32 센서부터 문서 분석, Docker 제어까지 입맛대로 만들 수 있다. 작성에 품이 들긴 해도 성능을 보면 그 수고가 아깝지 않다."
+            "x": "Edge는 180달러다. 오늘부터 예약 주문을 받고 10월 27일 출고된다. Google이 처음 내놓는 수리 가능한 피트니스 트래커로, 배터리를 교체할 수는 있지만 사용자가 직접 바꾸지는 못한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A 29MB AI model runs on\nRaspberry Pi 5, no AI HAT",
-          "body": "Cactus Compute's 29MB Needle 3 model runs on a Raspberry Pi 5 without an AI HAT, calling tools for Home Assistant.",
-          "mini_headline": "29MB AI on a Raspberry Pi 5",
+          "headline": "Fitbit Edge sits between\nAir and Pixel Watch 5",
+          "body": "Google's Fitbit Edge offers more than the Fitbit Air but stops short of being a real smartwatch.",
+          "mini_headline": "Fitbit Edge, between Air and Watch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
               },
               {
                 "t": "p",
-                "x": "XDA's Ayush Pande has run plenty of small LLMs on his Raspberry Pi 5, but the Cactus Compute Needle 3 is different: with some Python tinkering, this slim model needs barely a few MBs to turn the SBC into an automation beast — no AI HAT required."
+                "x": "Google is releasing its second Fitbit tracker of 2026. The new Fitbit Edge slots right in between the Pixel Watch 5 and the Fitbit Air, featuring a compact screen and more health sensors than the Air, at only about half the price of the Pixel Watch 5."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "A Python script for controlling a smart plug"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+                "cap": "Left to right: Fitbit Air (with new metal mesh band), Fitbit Edge, and Pixel Watch 5."
               },
               {
                 "t": "p",
-                "x": "Needle 3 consumes a maximum of 29MB because it ditches general chat. It focuses on machine-level tasks — calling tools, converting unstructured data into JSON, and generating vectors from text — and its sliceable ladder architecture lets you pick subnetworks from 2 to 20 layers depending on the hardware."
+                "x": "It has a pill-shaped 1.34-inch OLED touch display in a slender aluminum frame rated IP68 (5 ATM), works with Android or iPhones via the Google Health app, and runs about seven days on a charge (about two with always-on display)."
               },
               {
                 "t": "p",
-                "x": "On an 8GB Raspberry Pi 5 running DietPi, setup was a few pip installs and a needle build with all 20 layers. (It wouldn't build on a first-gen Pi Zero, which uses the unsupported ARMv6 architecture.)"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Running Cactus Compute Needle 3"
+                "x": "It mirrors phone notifications, but there's no microphone or speaker, no support for Gemini interactions and no NFC. Over the Air, it adds on-device GPS plus the ECG and blood oxygen sensor from the Pixel Watch."
               },
               {
                 "t": "p",
-                "x": "Paired with Home Assistant through a custom Python tool file, Needle 3 understood a prompt to turn on a smart plug and the device came online immediately, at a decode rate of 280.2 tokens/s and a prefill rate of 996.4 tokens/s."
+                "x": "All this data feeds the Gemini-powered Health Coach chatbot in the Google Health app. The Edge comes with three months of Google Health Premium ($10 per month), without which you won't get the AI features; you can disable the Health Coach if you want."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Creating a Python script to control a remote Docker node"
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "The tools are highly customizable — smart devices, ESP32 sensors, document analysis or Docker control. Writing them takes effort, but the performance more than makes up for it."
+                "x": "The Edge costs $180, is available for preorder today and ships on October 27. It is Google's first repairable fitness tracker, with a replaceable battery that is not user-replaceable."
               }
             ]
           }
         },
         "ko": {
-          "headline": "HAT 없는 29MB AI\nRaspberry Pi 5",
-          "body": "29MB Needle 3은 AI HAT 없이 Raspberry Pi 5에서 돈다.",
-          "mini_headline": "Raspberry Pi 5에서 도는 29MB AI",
+          "headline": "Fitbit Edge,\nAir와 Pixel 사이",
+          "body": "Google의 Fitbit Edge는 Air보다 낫지만 스마트워치엔 못 미친다.",
+          "mini_headline": "Fitbit Edge, Air와 Watch 사이",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
               },
               {
                 "t": "p",
-                "x": "XDA의 Ayush Pande는 Raspberry Pi 5에서 작은 LLMs를 숱하게 돌려 봤지만 Cactus Compute Needle 3은 달랐다. Python을 조금 손보면 이 가벼운 모델이 겨우 몇 MBs 만으로 SBC를 강력한 자동화 기기로 바꿔 놓는다. AI HAT도 필요 없다."
+                "x": "Google이 2026년 두 번째 Fitbit 트래커를 내놓는다. 새 Fitbit Edge의 자리는 딱 Pixel Watch 5와 Fitbit Air 사이다. 화면은 작고 건강 센서는 Air보다 많으며, 가격은 Pixel Watch 5의 절반 정도다."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "스마트 플러그를 제어하는 Python 스크립트"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+                "cap": "왼쪽부터 Fitbit Air(새 메탈 메시 밴드 장착), Fitbit Edge, Pixel Watch 5."
               },
               {
                 "t": "p",
-                "x": "Needle 3은 일반 대화 기능을 덜어 낸 덕에 최대 29MB 만 쓴다. 도구 호출, 비정형 데이터의 JSON 변환, 텍스트 벡터 생성처럼 기계가 할 일에 집중한다. 잘라 쓰는 사다리 구조라 하드웨어에 맞춰 2개에서 20개 레이어까지 하위 네트워크를 고르면 된다."
+                "x": "가는 알루미늄 프레임에 알약 모양의 1.34인치 OLED 터치 디스플레이를 얹었고 IP68(5 ATM) 등급을 받았다. Google Health 앱으로 Android 폰이나 iPhones와 함께 쓴다. 한 번 충전하면 약 7일(상시 표시 화면을 켜면 약 2일) 간다."
               },
               {
                 "t": "p",
-                "x": "DietPi를 설치한 8GB Raspberry Pi 5에서는 pip 설치 몇 번에 20개 레이어를 모두 쓴 needle 빌드 하나면 설정이 끝났다. (1세대 Pi Zero는 지원되지 않는 ARMv6 아키텍처라 빌드에 실패했다.)"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Cactus Compute Needle 3 실행"
+                "x": "휴대폰 알림은 그대로 띄우지만 마이크와 스피커가 없고 Gemini 상호작용과 NFC도 지원하지 않는다. 대신 Air에는 없던 기기 자체 GPS와 Pixel Watch의 ECG·혈중 산소 센서가 더해졌다."
               },
               {
                 "t": "p",
-                "x": "맞춤 Python 도구 파일로 Home Assistant와 연동하자 Needle 3은 스마트 플러그를 켜라는 프롬프트를 알아들었고 기기는 곧바로 켜졌다(디코드 280.2 tokens/s, 프리필 996.4 tokens/s)."
+                "x": "이렇게 모은 데이터는 전부 Google Health 앱의 Gemini 기반 챗봇 Health Coach로 간다. Edge에는 Google Health Premium(월 10달러) 3개월 이용권이 딸려 오는데, 이게 없으면 AI 기능을 못 쓴다. Health Coach는 원하면 끌 수 있다."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "원격 Docker 노드를 제어하는 Python 스크립트 만들기"
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "도구는 스마트 기기와 ESP32 센서부터 문서 분석, Docker 제어까지 입맛대로 만들 수 있다. 작성에 품이 들긴 해도 성능을 보면 그 수고가 아깝지 않다."
+                "x": "Edge는 180달러다. 오늘부터 예약 주문을 받고 10월 27일 출고된다. Google이 처음 내놓는 수리 가능한 피트니스 트래커로, 배터리를 교체할 수는 있지만 사용자가 직접 바꾸지는 못한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HAT不要の29MB AI\nRaspberry Pi 5",
-          "body": "29MB のNeedle 3はAI HATなしでRaspberry Pi 5で動く。",
-          "mini_headline": "Raspberry Pi 5で動く29MB AI",
+          "headline": "Fitbit Edgeは\nAirとPixelの間に",
+          "body": "GoogleのFitbit EdgeはAirを上回るが、スマートウォッチには届かない。",
+          "mini_headline": "Fitbit Edge、AirとWatchの間",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
               },
               {
                 "t": "p",
-                "x": "XDAのAyush PandeはRaspberry Pi 5で数多くの小型LLMsを動かしてきたが、Cactus Compute Needle 3は違った。Pythonを少しいじるだけで、このスリムなモデルはわずか数MBs でSBCを強力な自動化マシンに変える。AI HATも要らない。"
+                "x": "Googleが2026年2機種目となるFitbitトラッカーを投入する。新しいFitbit EdgeはPixel Watch 5とFitbit Airのちょうど中間に位置し、コンパクトな画面とAirより多い健康センサーを備えながら、価格はPixel Watch 5の約半分だ。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "スマートプラグを制御するPythonスクリプト"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+                "cap": "左からFitbit Air(新しいメタルメッシュバンド付き)、Fitbit Edge、Pixel Watch 5。"
               },
               {
                 "t": "p",
-                "x": "Needle 3は汎用チャットを切り捨てたため、消費量は最大29MB にとどまる。ツール呼び出し、非構造化データのJSON変換、テキストからのベクトル生成といった機械レベルのタスクに特化しており、スライス可能なラダー構造によって、ハードウェアに応じて2〜20層のサブネットワークを選べる。"
+                "x": "細身のアルミフレームに錠剤型の1.34インチOLEDタッチディスプレイを収め、防水性能はIP68(5 ATM)だ。Google HealthアプリでAndroidやiPhonesと連携でき、1回の充電で約7日(常時表示オンなら約2日)持つ。"
               },
               {
                 "t": "p",
-                "x": "DietPiを入れた8GB のRaspberry Pi 5では、pipでのインストールを数回行い、全20層でneedleをビルドするだけで準備が済んだ。(サポート外のARMv6アーキテクチャを使う初代Pi Zeroではビルドできなかった。)"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Cactus Compute Needle 3を実行"
+                "x": "スマートフォンの通知を表示できるが、マイクとスピーカーはなく、Geminiとの対話やNFCにも対応しない。Airと比べると、端末内蔵のGPSとPixel Watch由来のECG・血中酸素センサーが加わった。"
               },
               {
                 "t": "p",
-                "x": "カスタムのPythonツールファイルでHome Assistantと連携させると、Needle 3はスマートプラグをオンにするプロンプトを理解し、デバイスはすぐに起動した(デコード280.2 tokens/s, プリフィル996.4 tokens/s)。"
+                "x": "こうしたデータはすべて、Google HealthアプリのGemini搭載チャットボットHealth Coachに送られる。EdgeにはGoogle Health Premium(月10ドル)の3カ月分が付属し、これがないとAI機能は使えない。Health Coachは必要に応じて無効にできる。"
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "リモートのDockerノードを制御するPythonスクリプトの作成"
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "ツールはスマートデバイス、ESP32センサー、文書解析、Docker制御など自在にカスタマイズできる。作成には手間がかかるが、その性能は労力を補って余りある。"
+                "x": "Edgeの価格は180ドルで、本日予約受付を開始し、10月27日に出荷される。Google初の修理可能なフィットネストラッカーで、バッテリーは交換可能だがユーザー自身では交換できない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "无需HAT的29MB AI\nRaspberry Pi 5",
-          "body": "29MB 的Needle 3无需AI HAT即可在Raspberry Pi 5上运行。",
-          "mini_headline": "Raspberry Pi 5上的29MB AI",
+          "headline": "Fitbit Edge\n介于Air与Pixel之间",
+          "body": "Google的Fitbit Edge比Air功能更多，但还算不上真正的智能手表。",
+          "mini_headline": "Fitbit Edge，介于Air与Watch之间",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
               },
               {
                 "t": "p",
-                "x": "XDA的Ayush Pande在Raspberry Pi 5上跑过不少小型LLMs，但Cactus Compute Needle 3与众不同：只需稍微折腾一下Python，这款轻巧的模型仅用几MBs 就能把这台SBC变成自动化利器，而且不需要AI HAT。"
+                "x": "Google推出2026年第二款Fitbit手环。新款Fitbit Edge的定位恰好介于Pixel Watch 5和Fitbit Air之间，配备小巧屏幕，健康传感器比Air更多，售价却只有Pixel Watch 5的一半左右。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "控制智能插座的Python脚本"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+                "cap": "从左到右：Fitbit Air（配新款金属网眼表带）、Fitbit Edge和Pixel Watch 5。"
               },
               {
                 "t": "p",
-                "x": "Needle 3舍弃了通用聊天功能，因此最多只占用29MB 。它专注于机器层面的任务——调用工具、把非结构化数据转换为JSON、从文本生成向量——其可切分的阶梯式架构还能根据硬件选择2到20层的子网络。"
+                "x": "它采用胶囊形1.34英寸OLED触控屏，搭配纤薄铝制边框，具备IP68（5 ATM）防护等级，可通过Google Health应用与Android手机或iPhones配合使用，单次充电续航约七天（开启常亮显示约两天）。"
               },
               {
                 "t": "p",
-                "x": "在运行DietPi的8GB Raspberry Pi 5上，只需几次pip安装，再用全部20层构建needle，就完成了设置。（它无法在第一代Pi Zero上构建，因为后者采用不受支持的ARMv6架构。）"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "运行Cactus Compute Needle 3"
+                "x": "它能同步显示手机通知，但没有麦克风和扬声器，不支持Gemini交互，也没有NFC。相比Air，它增加了机载GPS，以及来自Pixel Watch的ECG和血氧传感器。"
               },
               {
                 "t": "p",
-                "x": "通过自定义Python工具文件与Home Assistant配合后，Needle 3理解了打开智能插座的提示词，设备随即上线(解码速度280.2 tokens/s, 预填充速度996.4 tokens/s)。"
+                "x": "所有这些数据都会输入Google Health应用中由Gemini驱动的聊天机器人Health Coach。Edge附赠三个月Google Health Premium（每月10美元），没有订阅就无法使用AI功能；用户也可以选择关闭Health Coach。"
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "创建控制远程Docker节点的Python脚本"
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "这些工具可高度定制，可用于智能设备、ESP32传感器、文档分析或Docker控制。编写它们需要花些功夫，但性能足以弥补这份付出。"
+                "x": "Edge售价180美元，今天开启预购，10月27日发货。这是Google首款可维修的健身手环，电池可更换，但用户无法自行更换。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelo de IA de 29MB funciona en\nRaspberry Pi 5 sin AI HAT",
-          "body": "Needle 3 (29MB), de Cactus Compute, funciona en una Raspberry Pi 5 sin AI HAT y usa herramientas de Home Assistant.",
-          "mini_headline": "Un modelo AI de 29MB en Raspberry Pi 5",
+          "headline": "Fitbit Edge, entre el Air\ny el Pixel Watch 5",
+          "body": "El Fitbit Edge de Google ofrece más que el Fitbit Air, pero no llega a ser un verdadero smartwatch.",
+          "mini_headline": "Fitbit Edge, entre el Air y el Watch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
               },
               {
                 "t": "p",
-                "x": "Ayush Pande, de XDA, ha ejecutado muchos LLMs pequeños en su Raspberry Pi 5, pero Cactus Compute Needle 3 es distinto: con algunos ajustes en Python, este modelo ligero necesita apenas unos pocos MBs para convertir la SBC en una potente máquina de automatización, sin necesidad de AI HAT."
+                "x": "Google lanza su segundo monitor Fitbit de 2026. El nuevo Fitbit Edge se sitúa justo entre el Pixel Watch 5 y el Fitbit Air: tiene una pantalla compacta y más sensores de salud que el Air, por aproximadamente la mitad del precio del Pixel Watch 5."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Un script de Python para controlar un enchufe inteligente"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+                "cap": "De izquierda a derecha: Fitbit Air (con la nueva correa de malla metálica), Fitbit Edge y Pixel Watch 5."
               },
               {
                 "t": "p",
-                "x": "Needle 3 consume como máximo 29MB porque prescinde del chat general. Se centra en tareas a nivel de máquina —llamar a herramientas, convertir datos no estructurados en JSON y generar vectores a partir de texto— y su arquitectura escalonada divisible permite elegir subredes de 2 a 20 capas según el hardware."
+                "x": "Tiene una pantalla táctil OLED de 1.34 pulgadas en forma de píldora, dentro de un delgado marco de aluminio con certificación IP68 (5 ATM); funciona con Android o iPhones a través de la app Google Health y su batería dura unos siete días por carga (unos dos con la pantalla siempre activa)."
               },
               {
                 "t": "p",
-                "x": "En una Raspberry Pi 5 de 8GB con DietPi, la configuración consistió en unas cuantas instalaciones con pip y una compilación de needle con las 20 capas. (No se pudo compilar en una Pi Zero de primera generación, que usa la arquitectura ARMv6, no compatible.)"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Ejecución de Cactus Compute Needle 3"
+                "x": "Replica las notificaciones del teléfono, pero no tiene micrófono ni altavoz, no admite interacciones con Gemini y carece de NFC. Respecto al Air, añade GPS integrado y los sensores de ECG y oxígeno en sangre del Pixel Watch."
               },
               {
                 "t": "p",
-                "x": "Conectado a Home Assistant mediante un archivo de herramientas personalizado en Python, Needle 3 entendió una instrucción para encender un enchufe inteligente y el dispositivo se activó de inmediato, con una velocidad de decodificación de 280.2 tokens/s y de prellenado de 996.4 tokens/s."
+                "x": "Todos estos datos alimentan a Health Coach, el chatbot impulsado por Gemini de la app Google Health. El Edge incluye tres meses de Google Health Premium (10 dólares al mes), sin el cual no se obtienen las funciones de IA; Health Coach puede desactivarse si se desea."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Creación de un script de Python para controlar un nodo remoto de Docker"
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "Las herramientas son muy personalizables: dispositivos inteligentes, sensores ESP32, análisis de documentos o control de Docker. Escribirlas exige esfuerzo, pero el rendimiento lo compensa con creces."
+                "x": "El Edge cuesta 180 dólares, se puede reservar desde hoy y se envía el 27 de octubre. Es el primer monitor de actividad reparable de Google, con una batería reemplazable que no puede cambiar el propio usuario."
               }
             ]
           }
@@ -307,197 +271,173 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "HAT 없는 29MB AI\nRaspberry Pi 5",
-          "body": "29MB Needle 3은 AI HAT 없이 Raspberry Pi 5에서 돈다.",
-          "mini_headline": "Raspberry Pi 5에서 도는 29MB AI",
+          "headline": "Fitbit Edge,\nAir와 Pixel 사이",
+          "body": "Google의 Fitbit Edge는 Air보다 낫지만 스마트워치엔 못 미친다.",
+          "mini_headline": "Fitbit Edge, Air와 Watch 사이",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
               },
               {
                 "t": "p",
-                "x": "XDA의 Ayush Pande는 Raspberry Pi 5에서 작은 LLMs를 숱하게 돌려 봤지만, Cactus Compute Needle 3은 달랐다. Python을 조금 손보면 이 가벼운 모델은 겨우 몇 MBs 만으로 SBC를 강력한 자동화 기기로 바꾼다. AI HAT도 필요 없다."
+                "x": "Google이 2026년 두 번째 Fitbit 트래커를 내놓는다. 새 Fitbit Edge는 Pixel Watch 5와 Fitbit Air 사이에 정확히 자리한다. 작은 화면을 갖추고 Air보다 건강 센서가 많으며, 가격은 Pixel Watch 5의 절반 정도다."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "스마트 플러그를 제어하는 Python 스크립트"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+                "cap": "왼쪽부터 Fitbit Air(새 메탈 메시 밴드 장착), Fitbit Edge, Pixel Watch 5."
               },
               {
                 "t": "p",
-                "x": "Needle 3은 일반 대화 기능을 덜어 낸 덕에 최대 29MB 만 소비한다. 도구 호출, 비정형 데이터의 JSON 변환, 텍스트의 벡터 생성 같은 기계 수준의 작업에 집중하며, 잘라 쓸 수 있는 사다리 구조 덕분에 하드웨어에 맞춰 2개에서 20개 레이어까지 하위 네트워크를 고를 수 있다."
+                "x": "가는 알루미늄 프레임에 알약 모양의 1.34인치 OLED 터치 디스플레이를 얹었고, IP68(5 ATM) 등급을 받았다. Google Health 앱으로 Android 폰이나 iPhones와 함께 쓸 수 있으며, 한 번 충전하면 약 7일(상시 표시 화면을 켜면 약 2일) 간다."
               },
               {
                 "t": "p",
-                "x": "DietPi를 설치한 8GB Raspberry Pi 5에서는 pip 설치 몇 번과 20개 레이어 전체를 쓴 needle 빌드로 설정이 끝났다. (지원되지 않는 ARMv6 아키텍처를 쓰는 1세대 Pi Zero에서는 빌드되지 않았다.)"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Cactus Compute Needle 3 실행"
+                "x": "휴대폰 알림을 그대로 보여주지만 마이크와 스피커가 없고, Gemini 상호작용과 NFC도 지원하지 않는다. Air와 비교하면 기기 자체 GPS와 Pixel Watch의 ECG·혈중 산소 센서가 더해졌다."
               },
               {
                 "t": "p",
-                "x": "맞춤 Python 도구 파일로 Home Assistant와 연동하자 Needle 3은 스마트 플러그를 켜라는 프롬프트를 이해했고, 기기는 곧바로 켜졌다(디코드 280.2 tokens/s, 프리필 996.4 tokens/s)."
+                "x": "이렇게 모은 데이터는 모두 Google Health 앱의 Gemini 기반 챗봇 Health Coach로 들어간다. Edge에는 Google Health Premium(월 10달러) 3개월 이용권이 포함되며, 이것이 없으면 AI 기능을 쓸 수 없다. 원하면 Health Coach를 끌 수도 있다."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "원격 Docker 노드를 제어하는 Python 스크립트 만들기"
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "도구는 스마트 기기, ESP32 센서, 문서 분석, Docker 제어까지 폭넓게 맞춤화할 수 있다. 작성에는 품이 들지만, 성능이 그 수고를 충분히 보상한다."
+                "x": "Edge의 가격은 180달러로, 오늘부터 예약 주문을 받고 10월 27일 출고된다. Google 최초의 수리 가능한 피트니스 트래커로, 배터리는 교체할 수 있지만 사용자가 직접 바꿀 수는 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HAT不要の29MB AI\nRaspberry Pi 5",
-          "body": "29MB のNeedle 3はAI HATなしでRaspberry Pi 5で動く。",
-          "mini_headline": "Raspberry Pi 5で動く29MB AI",
+          "headline": "Fitbit Edgeは\nAirとPixelの間に",
+          "body": "GoogleのFitbit EdgeはAirを上回るが、スマートウォッチには届かない。",
+          "mini_headline": "Fitbit Edge、AirとWatchの間",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
               },
               {
                 "t": "p",
-                "x": "XDAのAyush PandeはRaspberry Pi 5で数多くの小型LLMsを動かしてきたが、Cactus Compute Needle 3は違った。Pythonを少しいじるだけで、このスリムなモデルはわずか数MBs でSBCを強力な自動化マシンに変える。AI HATも要らない。"
+                "x": "Googleが2026年2機種目となるFitbitトラッカーを投入する。新しいFitbit EdgeはPixel Watch 5とFitbit Airのちょうど中間に位置し、コンパクトな画面とAirより多い健康センサーを備えながら、価格はPixel Watch 5の約半分だ。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "スマートプラグを制御するPythonスクリプト"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+                "cap": "左からFitbit Air(新しいメタルメッシュバンド付き)、Fitbit Edge、Pixel Watch 5。"
               },
               {
                 "t": "p",
-                "x": "Needle 3は汎用チャットを切り捨てたため、消費量は最大29MB にとどまる。ツール呼び出し、非構造化データのJSON変換、テキストからのベクトル生成といった機械レベルのタスクに特化しており、スライス可能なラダー構造によって、ハードウェアに応じて2〜20層のサブネットワークを選べる。"
+                "x": "細身のアルミフレームに錠剤型の1.34インチOLEDタッチディスプレイを収め、防水性能はIP68(5 ATM)だ。Google HealthアプリでAndroidやiPhonesと連携でき、1回の充電で約7日(常時表示オンなら約2日)持つ。"
               },
               {
                 "t": "p",
-                "x": "DietPiを入れた8GB のRaspberry Pi 5では、pipでのインストールを数回行い、全20層でneedleをビルドするだけで準備が済んだ。(サポート外のARMv6アーキテクチャを使う初代Pi Zeroではビルドできなかった。)"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Cactus Compute Needle 3を実行"
+                "x": "スマートフォンの通知を表示できるが、マイクとスピーカーはなく、Geminiとの対話やNFCにも対応しない。Airと比べると、端末内蔵のGPSとPixel Watch由来のECG・血中酸素センサーが加わった。"
               },
               {
                 "t": "p",
-                "x": "カスタムのPythonツールファイルでHome Assistantと連携させると、Needle 3はスマートプラグをオンにするプロンプトを理解し、デバイスはすぐに起動した(デコード280.2 tokens/s, プリフィル996.4 tokens/s)。"
+                "x": "こうしたデータはすべて、Google HealthアプリのGemini搭載チャットボットHealth Coachに送られる。EdgeにはGoogle Health Premium(月10ドル)の3カ月分が付属し、これがないとAI機能は使えない。Health Coachは必要に応じて無効にできる。"
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "リモートのDockerノードを制御するPythonスクリプトの作成"
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "ツールはスマートデバイス、ESP32センサー、文書解析、Docker制御など自在にカスタマイズできる。作成には手間がかかるが、その性能は労力を補って余りある。"
+                "x": "Edgeの価格は180ドルで、本日予約受付を開始し、10月27日に出荷される。Google初の修理可能なフィットネストラッカーで、バッテリーは交換可能だがユーザー自身では交換できない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "无需HAT的29MB AI\nRaspberry Pi 5",
-          "body": "29MB 的Needle 3无需AI HAT即可在Raspberry Pi 5上运行。",
-          "mini_headline": "Raspberry Pi 5上的29MB AI",
+          "headline": "Fitbit Edge\n介于Air与Pixel之间",
+          "body": "Google的Fitbit Edge比Air功能更多，但还算不上真正的智能手表。",
+          "mini_headline": "Fitbit Edge，介于Air与Watch之间",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
               },
               {
                 "t": "p",
-                "x": "XDA的Ayush Pande在Raspberry Pi 5上跑过不少小型LLMs，但Cactus Compute Needle 3与众不同：只需稍微折腾一下Python，这款轻巧的模型仅用几MBs 就能把这台SBC变成自动化利器，而且不需要AI HAT。"
+                "x": "Google推出2026年第二款Fitbit手环。新款Fitbit Edge的定位恰好介于Pixel Watch 5和Fitbit Air之间，配备小巧屏幕，健康传感器比Air更多，售价却只有Pixel Watch 5的一半左右。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "控制智能插座的Python脚本"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+                "cap": "从左到右：Fitbit Air（配新款金属网眼表带）、Fitbit Edge和Pixel Watch 5。"
               },
               {
                 "t": "p",
-                "x": "Needle 3舍弃了通用聊天功能，因此最多只占用29MB 。它专注于机器层面的任务——调用工具、把非结构化数据转换为JSON、从文本生成向量——其可切分的阶梯式架构还能根据硬件选择2到20层的子网络。"
+                "x": "它采用胶囊形1.34英寸OLED触控屏，搭配纤薄铝制边框，具备IP68（5 ATM）防护等级，可通过Google Health应用与Android手机或iPhones配合使用，单次充电续航约七天（开启常亮显示约两天）。"
               },
               {
                 "t": "p",
-                "x": "在运行DietPi的8GB Raspberry Pi 5上，只需几次pip安装，再用全部20层构建needle，就完成了设置。（它无法在第一代Pi Zero上构建，因为后者采用不受支持的ARMv6架构。）"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "运行Cactus Compute Needle 3"
+                "x": "它能同步显示手机通知，但没有麦克风和扬声器，不支持Gemini交互，也没有NFC。相比Air，它增加了机载GPS，以及来自Pixel Watch的ECG和血氧传感器。"
               },
               {
                 "t": "p",
-                "x": "通过自定义Python工具文件与Home Assistant配合后，Needle 3理解了打开智能插座的提示词，设备随即上线(解码速度280.2 tokens/s, 预填充速度996.4 tokens/s)。"
+                "x": "所有这些数据都会输入Google Health应用中由Gemini驱动的聊天机器人Health Coach。Edge附赠三个月Google Health Premium（每月10美元），没有订阅就无法使用AI功能；用户也可以选择关闭Health Coach。"
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "创建控制远程Docker节点的Python脚本"
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "这些工具可高度定制，可用于智能设备、ESP32传感器、文档分析或Docker控制。编写它们需要花些功夫，但性能足以弥补这份付出。"
+                "x": "Edge售价180美元，今天开启预购，10月27日发货。这是Google首款可维修的健身手环，电池可更换，但用户无法自行更换。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelo de IA de 29MB funciona en\nRaspberry Pi 5 sin AI HAT",
-          "body": "Needle 3 (29MB), de Cactus Compute, funciona en una Raspberry Pi 5 sin AI HAT y usa herramientas de Home Assistant.",
-          "mini_headline": "Un modelo AI de 29MB en Raspberry Pi 5",
+          "headline": "Fitbit Edge, entre el Air\ny el Pixel Watch 5",
+          "body": "El Fitbit Edge de Google ofrece más que el Fitbit Air, pero no llega a ser un verdadero smartwatch.",
+          "mini_headline": "Fitbit Edge, entre el Air y el Watch",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
               },
               {
                 "t": "p",
-                "x": "Ayush Pande, de XDA, ha ejecutado muchos LLMs pequeños en su Raspberry Pi 5, pero Cactus Compute Needle 3 es distinto: con algunos ajustes en Python, este modelo ligero necesita apenas unos pocos MBs para convertir la SBC en una potente máquina de automatización, sin necesidad de AI HAT."
+                "x": "Google lanza su segundo monitor Fitbit de 2026. El nuevo Fitbit Edge se sitúa justo entre el Pixel Watch 5 y el Fitbit Air: tiene una pantalla compacta y más sensores de salud que el Air, por aproximadamente la mitad del precio del Pixel Watch 5."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Un script de Python para controlar un enchufe inteligente"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+                "cap": "De izquierda a derecha: Fitbit Air (con la nueva correa de malla metálica), Fitbit Edge y Pixel Watch 5."
               },
               {
                 "t": "p",
-                "x": "Needle 3 consume como máximo 29MB porque prescinde del chat general. Se centra en tareas a nivel de máquina —llamar a herramientas, convertir datos no estructurados en JSON y generar vectores a partir de texto— y su arquitectura escalonada divisible permite elegir subredes de 2 a 20 capas según el hardware."
+                "x": "Tiene una pantalla táctil OLED de 1.34 pulgadas en forma de píldora, dentro de un delgado marco de aluminio con certificación IP68 (5 ATM); funciona con Android o iPhones a través de la app Google Health y su batería dura unos siete días por carga (unos dos con la pantalla siempre activa)."
               },
               {
                 "t": "p",
-                "x": "En una Raspberry Pi 5 de 8GB con DietPi, la configuración consistió en unas cuantas instalaciones con pip y una compilación de needle con las 20 capas. (No se pudo compilar en una Pi Zero de primera generación, que usa la arquitectura ARMv6, no compatible.)"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Ejecución de Cactus Compute Needle 3"
+                "x": "Replica las notificaciones del teléfono, pero no tiene micrófono ni altavoz, no admite interacciones con Gemini y carece de NFC. Respecto al Air, añade GPS integrado y los sensores de ECG y oxígeno en sangre del Pixel Watch."
               },
               {
                 "t": "p",
-                "x": "Conectado a Home Assistant mediante un archivo de herramientas personalizado en Python, Needle 3 entendió una instrucción para encender un enchufe inteligente y el dispositivo se activó de inmediato, con una velocidad de decodificación de 280.2 tokens/s y de prellenado de 996.4 tokens/s."
+                "x": "Todos estos datos alimentan a Health Coach, el chatbot impulsado por Gemini de la app Google Health. El Edge incluye tres meses de Google Health Premium (10 dólares al mes), sin el cual no se obtienen las funciones de IA; Health Coach puede desactivarse si se desea."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
-                "cap": "Creación de un script de Python para controlar un nodo remoto de Docker"
+                "t": "video",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
               },
               {
                 "t": "p",
-                "x": "Las herramientas son muy personalizables: dispositivos inteligentes, sensores ESP32, análisis de documentos o control de Docker. Escribirlas exige esfuerzo, pero el rendimiento lo compensa con creces."
+                "x": "El Edge cuesta 180 dólares, se puede reservar desde hoy y se envía el 27 de octubre. Es el primer monitor de actividad reparable de Google, con una batería reemplazable que no puede cambiar el propio usuario."
               }
             ]
           }
@@ -505,1081 +445,15 @@
       }
     },
     {
-      "id": "verge-local-ai-hermes-qwen-diary",
+      "id": "gadgets-translate-transcript-autosave",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "로컬 AI 배우기,\n설레고도 답답하다",
-      "body": "Verge 기자가 Hermes Agent와 Qwen으로 로컬 AI의 명암을 겪었다.",
-      "mini_headline": "로컬 AI, 내 방식대로",
-      "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-          },
-          {
-            "t": "p",
-            "x": "Antonio G. Di Benedetto는 개인 데이터를 클라우드 AI에 넘기기를 망설여 왔다. 하지만 강력한 모델을 로컬에서 돌릴 수 있다면 얘기가 다르다. 그는 M5 Ultra Mac Studio를 테스트하면서 로컬 LLMs를 만지기 시작했다."
-          },
-          {
-            "t": "p",
-            "x": "먼저 open-source Hermes Agent를 깔았다. macOS, Windows, Linux에서 쓰는 무료 self-hosted AI 에이전트 앱이다. 256GB 통합 메모리를 믿고 105GB 안팎의 125-billion 파라미터 모델 Qwen 3.8 Flash Next를 과감히 골랐고, Telegram 봇을 붙여 휴대폰으로도 조종했다. 그러자 숙적이 나타났다. 텍스트 상자였다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-          },
-          {
-            "t": "p",
-            "x": "매일 아침 브리핑을 보내는 cron 작업은 7:30am에 macOS가 잠들어 있으면 안 된다는 걸 알아차리기 전까지 번번이 실패했다. 쓸모는 다른 데서 드러났다. Hermes는 임시 API 키로 400-plus 게임이 든 Steam 라이브러리를 몇 분 만에 장르별로 나눴다. 재무 number-crunching과 엠바고 걸린 노트북 사양표에도 Hermes를 썼다. 어느 클라우드 서비스에도 맡기지 않을 데이터다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-          },
-          {
-            "t": "p",
-            "x": "vibe-coded Python으로 노트북 벤치마크를 자동화하는 일은 아직 진행 중이고 브리핑은 벌써 여러 번 고장 났다. 강력한 로컬 모델이라고 마법 같은 비서가 되진 않는다. 그에게 Hermes는 그저 도구다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Learning local AI is\nexciting and frustrating",
-          "body": "A Verge writer running Hermes Agent with a Qwen model on an M5 Ultra Mac Studio finds local AI exciting yet frustrating.",
-          "mini_headline": "Local AI, on my terms",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Antonio G. Di Benedetto has been hesitant to hand his personal data to cloud AI, but running powerful models locally changes the equation. As part of testing the M5 Ultra Mac Studio, he has started tinkering with local LLMs."
-              },
-              {
-                "t": "p",
-                "x": "He installed the open-source Hermes Agent, a free self-hosted AI agent app for macOS, Windows, and Linux. With 256GB of unified memory he went big, picking Qwen 3.8 Flash Next — a 125-billion parameter model around 105GB in size — and made it controllable from his phone via a Telegram bot. Then came his nemesis: the text box."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "A daily morning briefing cron job kept failing until he realized macOS couldn't be asleep at 7:30am. More useful: Hermes sorted his 400-plus game Steam library by genre in minutes using a temporary API key. He also used it for financial number-crunching and an embargoed laptop spec sheet — data he won't trust to any cloud service."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Automating laptop benchmarks with vibe-coded Python remains a work in progress, and his briefing has already broken multiple times. Even powerful local models aren't a magical assistant — he treats Hermes as just a tool."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "로컬 AI 배우기,\n설레고도 답답하다",
-          "body": "Verge 기자가 Hermes Agent와 Qwen으로 로컬 AI의 명암을 겪었다.",
-          "mini_headline": "로컬 AI, 내 방식대로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Antonio G. Di Benedetto는 개인 데이터를 클라우드 AI에 넘기기를 망설여 왔다. 하지만 강력한 모델을 로컬에서 돌릴 수 있다면 얘기가 다르다. 그는 M5 Ultra Mac Studio를 테스트하면서 로컬 LLMs를 만지기 시작했다."
-              },
-              {
-                "t": "p",
-                "x": "먼저 open-source Hermes Agent를 깔았다. macOS, Windows, Linux에서 쓰는 무료 self-hosted AI 에이전트 앱이다. 256GB 통합 메모리를 믿고 105GB 안팎의 125-billion 파라미터 모델 Qwen 3.8 Flash Next를 과감히 골랐고, Telegram 봇을 붙여 휴대폰으로도 조종했다. 그러자 숙적이 나타났다. 텍스트 상자였다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "매일 아침 브리핑을 보내는 cron 작업은 7:30am에 macOS가 잠들어 있으면 안 된다는 걸 알아차리기 전까지 번번이 실패했다. 쓸모는 다른 데서 드러났다. Hermes는 임시 API 키로 400-plus 게임이 든 Steam 라이브러리를 몇 분 만에 장르별로 나눴다. 재무 number-crunching과 엠바고 걸린 노트북 사양표에도 Hermes를 썼다. 어느 클라우드 서비스에도 맡기지 않을 데이터다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "vibe-coded Python으로 노트북 벤치마크를 자동화하는 일은 아직 진행 중이고 브리핑은 벌써 여러 번 고장 났다. 강력한 로컬 모델이라고 마법 같은 비서가 되진 않는다. 그에게 Hermes는 그저 도구다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ローカルAIの習得は\n楽しくも悩ましい",
-          "body": "VergeのライターはHermes AgentとQwenでローカルAIの光と影を知った。",
-          "mini_headline": "ローカルAIを自分の流儀で",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Antonio G. Di Benedettoは個人データをクラウドAIに渡すことをためらってきたが、強力なモデルをローカルで動かせるなら話は変わる。M5 Ultra Mac Studioのテストの一環として、彼はローカルLLMsをいじり始めた。"
-              },
-              {
-                "t": "p",
-                "x": "彼はmacOS、Windows、Linuxに対応した無料のself-hostedなAIエージェントアプリ、open-sourceのHermes Agentを導入した。256GB の統合メモリがあるので大胆に、約105GB の125-billion パラメータモデルQwen 3.8 Flash Nextを選び、Telegramボット経由でスマートフォンから操作できるようにした。そこへ宿敵が現れた。テキストボックスである。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "毎朝のブリーフィングを送るcronジョブは、7:30am の時点でmacOSがスリープしていてはいけないと気づくまで失敗し続けた。より役立ったのは別の用途だ。Hermesは一時的なAPIキーを使い、400-plusのゲームがあるSteamライブラリを数分でジャンル別に整理した。財務のnumber-crunchingや、エンバーゴ中のノートPCの仕様書にも使った。どのクラウドサービスにも預けたくないデータである。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "vibe-codedなPythonでノートPCのベンチマークを自動化する試みはまだ途中で、ブリーフィングもすでに何度も壊れている。強力なローカルモデルでも魔法のアシスタントではない。彼はHermesをあくまで道具として扱っている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "学习本地AI\n既兴奋又沮丧",
-          "body": "Verge作者用Hermes Agent和Qwen模型体验本地AI，既兴奋又沮丧。",
-          "mini_headline": "本地AI，按我的方式",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Antonio G. Di Benedetto一直不愿把个人数据交给云端AI，但在本地运行强大的模型改变了这一考量。作为测试M5 Ultra Mac Studio的一部分，他开始折腾本地LLMs。"
-              },
-              {
-                "t": "p",
-                "x": "他安装了open-source的Hermes Agent，这是一款适用于macOS、Windows和Linux的免费self-hosted AI代理应用。凭借256GB 统一内存，他放开手脚，选择了Qwen 3.8 Flash Next——一个约105GB 大小的125-billion 参数模型——并通过Telegram机器人实现了手机操控。接着，他的克星出现了：文本框。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "每日早间简报的cron任务屡屡失败，直到他意识到macOS在7:30am 时不能处于睡眠状态。更有用的是：Hermes借助一个临时API密钥，几分钟内就按类型整理好了他那拥有400-plus款游戏的Steam库。他还用它处理财务number-crunching和一份禁发期内的笔记本电脑规格表——这些数据他不会托付给任何云服务。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "用vibe-coded的Python自动化笔记本电脑基准测试仍在推进中，他的简报也已经坏了好几次。即便是强大的本地模型也不是神奇助手——他只把Hermes当作一件工具。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aprender AI local: emocionante\ny frustrante",
-          "body": "Un periodista de The Verge prueba Hermes Agent y Qwen en un M5 Ultra Mac Studio: la AI local emociona y frustra.",
-          "mini_headline": "AI local, a mi manera",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Antonio G. Di Benedetto ha dudado en entregar sus datos personales a la AI en la nube, pero ejecutar modelos potentes en local cambia la ecuación. Como parte de sus pruebas del M5 Ultra Mac Studio, ha empezado a experimentar con LLMs locales."
-              },
-              {
-                "t": "p",
-                "x": "Instaló Hermes Agent, una aplicación open-source, gratuita y self-hosted de agentes de AI para macOS, Windows y Linux. Con 256GB de memoria unificada apostó en grande y eligió Qwen 3.8 Flash Next —un modelo de 125-billion parámetros y unos 105GB— y lo hizo controlable desde su teléfono mediante un bot de Telegram. Entonces llegó su némesis: el cuadro de texto."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Una tarea cron de resumen matutino diario fallaba una y otra vez hasta que se dio cuenta de que macOS no podía estar en reposo a las 7:30am. Más útil: Hermes ordenó por género su biblioteca de Steam de 400-plus juegos en minutos con una clave de API temporal. También lo usó para number-crunching financiero y para la ficha técnica de un portátil bajo embargo, datos que no confiaría a ningún servicio en la nube."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Automatizar las pruebas de rendimiento de portátiles con Python vibe-coded sigue siendo un trabajo en curso, y su resumen ya se ha roto varias veces. Ni siquiera los modelos locales potentes son un asistente mágico: él trata a Hermes como una simple herramienta."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "로컬 AI 배우기,\n설레고도 답답하다",
-          "body": "Verge 기자가 Hermes Agent와 Qwen으로 로컬 AI의 명암을 겪었다.",
-          "mini_headline": "로컬 AI, 내 방식대로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Antonio G. Di Benedetto는 개인 데이터를 클라우드 AI에 넘기기를 망설여 왔지만, 강력한 모델을 로컬에서 돌릴 수 있다면 이야기가 달라진다. 그는 M5 Ultra Mac Studio 테스트의 일환으로 로컬 LLMs를 만지기 시작했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 macOS, Windows, Linux에서 쓸 수 있는 무료 self-hosted AI 에이전트 앱인 open-source Hermes Agent를 설치했다. 256GB 통합 메모리가 있으니 과감하게 105GB 안팎의 125-billion 파라미터 모델 Qwen 3.8 Flash Next를 골랐고, Telegram 봇으로 휴대폰에서 조종할 수 있게 했다. 그다음 숙적이 나타났다. 바로 텍스트 상자다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "매일 아침 브리핑을 보내는 cron 작업은 7:30am 시점에 macOS가 잠자기 상태여서는 안 된다는 사실을 깨닫기 전까지 계속 실패했다. 더 유용했던 건 따로 있다. Hermes는 임시 API 키를 써서 400-plus 게임이 담긴 Steam 라이브러리를 몇 분 만에 장르별로 분류했다. 그는 재무 관련 number-crunching과 엠바고가 걸린 노트북 사양표에도 Hermes를 썼다. 어떤 클라우드 서비스에도 맡기지 않을 데이터다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "vibe-coded Python으로 노트북 벤치마크를 자동화하는 작업은 아직 진행 중이고, 브리핑은 벌써 여러 번 고장 났다. 강력한 로컬 모델도 마법 같은 비서는 아니다. 그는 Hermes를 그저 도구로 대한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ローカルAIの習得は\n楽しくも悩ましい",
-          "body": "VergeのライターはHermes AgentとQwenでローカルAIの光と影を知った。",
-          "mini_headline": "ローカルAIを自分の流儀で",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Antonio G. Di Benedettoは個人データをクラウドAIに渡すことをためらってきたが、強力なモデルをローカルで動かせるなら話は変わる。M5 Ultra Mac Studioのテストの一環として、彼はローカルLLMsをいじり始めた。"
-              },
-              {
-                "t": "p",
-                "x": "彼はmacOS、Windows、Linuxに対応した無料のself-hostedなAIエージェントアプリ、open-sourceのHermes Agentを導入した。256GB の統合メモリがあるので大胆に、約105GB の125-billion パラメータモデルQwen 3.8 Flash Nextを選び、Telegramボット経由でスマートフォンから操作できるようにした。そこへ宿敵が現れた。テキストボックスである。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "毎朝のブリーフィングを送るcronジョブは、7:30am の時点でmacOSがスリープしていてはいけないと気づくまで失敗し続けた。より役立ったのは別の用途だ。Hermesは一時的なAPIキーを使い、400-plusのゲームがあるSteamライブラリを数分でジャンル別に整理した。財務のnumber-crunchingや、エンバーゴ中のノートPCの仕様書にも使った。どのクラウドサービスにも預けたくないデータである。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "vibe-codedなPythonでノートPCのベンチマークを自動化する試みはまだ途中で、ブリーフィングもすでに何度も壊れている。強力なローカルモデルでも魔法のアシスタントではない。彼はHermesをあくまで道具として扱っている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "学习本地AI\n既兴奋又沮丧",
-          "body": "Verge作者用Hermes Agent和Qwen模型体验本地AI，既兴奋又沮丧。",
-          "mini_headline": "本地AI，按我的方式",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Antonio G. Di Benedetto一直不愿把个人数据交给云端AI，但在本地运行强大的模型改变了这一考量。作为测试M5 Ultra Mac Studio的一部分，他开始折腾本地LLMs。"
-              },
-              {
-                "t": "p",
-                "x": "他安装了open-source的Hermes Agent，这是一款适用于macOS、Windows和Linux的免费self-hosted AI代理应用。凭借256GB 统一内存，他放开手脚，选择了Qwen 3.8 Flash Next——一个约105GB 大小的125-billion 参数模型——并通过Telegram机器人实现了手机操控。接着，他的克星出现了：文本框。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "每日早间简报的cron任务屡屡失败，直到他意识到macOS在7:30am 时不能处于睡眠状态。更有用的是：Hermes借助一个临时API密钥，几分钟内就按类型整理好了他那拥有400-plus款游戏的Steam库。他还用它处理财务number-crunching和一份禁发期内的笔记本电脑规格表——这些数据他不会托付给任何云服务。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "用vibe-coded的Python自动化笔记本电脑基准测试仍在推进中，他的简报也已经坏了好几次。即便是强大的本地模型也不是神奇助手——他只把Hermes当作一件工具。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Aprender AI local: emocionante\ny frustrante",
-          "body": "Un periodista de The Verge prueba Hermes Agent y Qwen en un M5 Ultra Mac Studio: la AI local emociona y frustra.",
-          "mini_headline": "AI local, a mi manera",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Antonio G. Di Benedetto ha dudado en entregar sus datos personales a la AI en la nube, pero ejecutar modelos potentes en local cambia la ecuación. Como parte de sus pruebas del M5 Ultra Mac Studio, ha empezado a experimentar con LLMs locales."
-              },
-              {
-                "t": "p",
-                "x": "Instaló Hermes Agent, una aplicación open-source, gratuita y self-hosted de agentes de AI para macOS, Windows y Linux. Con 256GB de memoria unificada apostó en grande y eligió Qwen 3.8 Flash Next —un modelo de 125-billion parámetros y unos 105GB— y lo hizo controlable desde su teléfono mediante un bot de Telegram. Entonces llegó su némesis: el cuadro de texto."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hermes-telegram-daily-briefing-cron-job.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Una tarea cron de resumen matutino diario fallaba una y otra vez hasta que se dio cuenta de que macOS no podía estar en reposo a las 7:30am. Más útil: Hermes ordenó por género su biblioteca de Steam de 400-plus juegos en minutos con una clave de API temporal. También lo usó para number-crunching financiero y para la ficha técnica de un portátil bajo embargo, datos que no confiaría a ningún servicio en la nube."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Apple_Mac_Studio_M5_Ultra_local_AI_cluster_ADiBenedetto_0002.jpg?quality=90&strip=all&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Automatizar las pruebas de rendimiento de portátiles con Python vibe-coded sigue siendo un trabajo en curso, y su resumen ya se ha roto varias veces. Ni siquiera los modelos locales potentes son un asistente mágico: él trata a Hermes como una simple herramienta."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ibuypower-ai-halo-minipc",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "iBuyPower의 AI\n128GB mini-PC",
-      "body": "Ryzen AI Max+ Pro 495에 128 GB RAM을 더한 미니 PC다.",
-      "mini_headline": "iBuyPower의 128GB AI mini-PC",
-      "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-            "cap": "iBuyPower Pro AMD AI Halo Mini PC는 마감이 한 가지뿐이다."
-          },
-          {
-            "t": "p",
-            "x": "iBuyPower가 128 GB RAM을 넣은 high-end mini-PC를 내놨다. 이름은 iBuyPower Pro AMD AI Halo Mini PC로, AMD의 Ryzen AI Max+ Pro 495 프로세서를 얹었고 200 x 198 x 70 mm 본체에 USB4 두 개, 10 GbE Ethernet 두 개, M.2 슬롯 세 개를 담았다."
-          },
-          {
-            "t": "p",
-            "x": "이로써 iBuyPower도 AMD의 새 Gorgon Halo 플랫폼을 쓰는 mini-PC 제조사 대열에 섰다. Ryzen AI Max+ Pro 495는 이미 EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro, YO2 495에 들어갔지만 지금 중국 밖에서 살 수 있는 제품은 EVO-X5 Pro와 F9A Pro 495뿐이다."
-          },
-          {
-            "t": "p",
-            "x": "iBuyPower 제품도 전 세계에 나오지만 RAM은 최대 128 GB 로, GMKtec과 AceMagic 경쟁 제품의 192 GB 에 못 미친다. 그래서 이전 Strix Halo mini-PCs처럼 VRAM에는 최대 96 GB 의 RAM을 할당한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-          },
-          {
-            "t": "p",
-            "x": "USB 포트는 여섯 개이고 그중 두 개가 40 Gbps USB4다. HDMI 2.1(48 Gbps)과 DisplayPort 1.4(HBR3, 32.4 Gbps)도 있다. iBuyPower는 출시 시점을 'Q4 2026'이라고만 했고 가격은 $3,999부터다. 이 가격에 128 GB RAM이 들어가는지는 밝히지 않았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "iBuyPower packs 128GB into\nan AI Halo mini-PC",
-          "body": "iBuyPower's Pro AMD AI Halo Mini PC pairs a Ryzen AI Max+ Pro 495 with 128 GB of RAM and dual 10 GbE.",
-          "mini_headline": "iBuyPower's 128GB AI mini-PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-                "cap": "The iBuyPower Pro AMD AI Halo Mini PC comes in a single finish."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower has launched a high-end mini-PC featuring 128 GB of RAM. Also equipped with AMD's Ryzen AI Max+ Pro 495 processor, the iBuyPower Pro AMD AI Halo Mini PC packs dual USB4, dual 10 GbE Ethernet and three M.2 slots into a housing that measures 200 x 198 x 70 mm."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower joins the mini-PC makers adopting AMD's new Gorgon Halo platform; the Ryzen AI Max+ Pro 495 already powers the EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro and YO2 495, though only the EVO-X5 Pro and F9A Pro 495 are available outside China for now."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower's machine will also be released globally, but it peaks at 128 GB of RAM rather than the 192 GB of GMKtec's and AceMagic's alternatives. As a result, it matches older Strix Halo mini-PCs in assigning up to 96 GB of RAM as VRAM."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Six USB ports are included, two of them USB4 at 40 Gbps, alongside HDMI 2.1 (48 Gbps) and DisplayPort 1.4 (HBR3, 32.4 Gbps). iBuyPower has only committed to a 'Q4 2026' release window, with pricing from $3,999; it has not clarified whether that price includes 128 GB of RAM."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "iBuyPower의 AI\n128GB mini-PC",
-          "body": "Ryzen AI Max+ Pro 495에 128 GB RAM을 더한 미니 PC다.",
-          "mini_headline": "iBuyPower의 128GB AI mini-PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-                "cap": "iBuyPower Pro AMD AI Halo Mini PC는 마감이 한 가지뿐이다."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower가 128 GB RAM을 넣은 high-end mini-PC를 내놨다. 이름은 iBuyPower Pro AMD AI Halo Mini PC로, AMD의 Ryzen AI Max+ Pro 495 프로세서를 얹었고 200 x 198 x 70 mm 본체에 USB4 두 개, 10 GbE Ethernet 두 개, M.2 슬롯 세 개를 담았다."
-              },
-              {
-                "t": "p",
-                "x": "이로써 iBuyPower도 AMD의 새 Gorgon Halo 플랫폼을 쓰는 mini-PC 제조사 대열에 섰다. Ryzen AI Max+ Pro 495는 이미 EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro, YO2 495에 들어갔지만 지금 중국 밖에서 살 수 있는 제품은 EVO-X5 Pro와 F9A Pro 495뿐이다."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower 제품도 전 세계에 나오지만 RAM은 최대 128 GB 로, GMKtec과 AceMagic 경쟁 제품의 192 GB 에 못 미친다. 그래서 이전 Strix Halo mini-PCs처럼 VRAM에는 최대 96 GB 의 RAM을 할당한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-              },
-              {
-                "t": "p",
-                "x": "USB 포트는 여섯 개이고 그중 두 개가 40 Gbps USB4다. HDMI 2.1(48 Gbps)과 DisplayPort 1.4(HBR3, 32.4 Gbps)도 있다. iBuyPower는 출시 시점을 'Q4 2026'이라고만 했고 가격은 $3,999부터다. 이 가격에 128 GB RAM이 들어가는지는 밝히지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "iBuyPowerのAI\n128GB mini-PC",
-          "body": "Ryzen AI Max+ Pro 495と128 GB のRAMを積むミニPCだ。",
-          "mini_headline": "iBuyPowerの128GB AI mini-PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-                "cap": "iBuyPower Pro AMD AI Halo Mini PCは単一の仕上げで展開される。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPowerが128 GB のRAMを備えたhigh-endなmini-PCを発売した。AMDのRyzen AI Max+ Pro 495プロセッサーも搭載するiBuyPower Pro AMD AI Halo Mini PCは、200 x 198 x 70 mm の筐体に、デュアルUSB4、デュアル10 GbE Ethernet、三つのM.2スロットを詰め込んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPowerは、AMDの新しいGorgon Haloプラットフォームを採用するmini-PCメーカーの仲間入りをした。Ryzen AI Max+ Pro 495はすでにEVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro、YO2 495に搭載されているが、現時点で中国国外で入手できるのはEVO-X5 ProとF9A Pro 495だけだ。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPowerのマシンもグローバルで発売されるが、RAMの上限は128 GB で、GMKtecやAceMagicの競合機の192 GB には届かない。その結果、旧世代のStrix Halo mini-PCsと同じく、最大96 GB のRAMをVRAMとして割り当てる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-              },
-              {
-                "t": "p",
-                "x": "USBポートは六つで、そのうち二つは40 Gbps のUSB4だ。ほかにHDMI 2.1 (48 Gbps)とDisplayPort 1.4 (HBR3, 32.4 Gbps)を備える。iBuyPowerが明言しているのは'Q4 2026'という発売時期のみで、価格は$3,999からだが、この価格に128 GB のRAMが含まれるかは明らかにしていない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "iBuyPower的AI\n128GB mini-PC",
-          "body": "iBuyPower新品搭载Ryzen AI Max+ Pro 495与128 GB RAM。",
-          "mini_headline": "iBuyPower的128GB AI mini-PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-                "cap": "iBuyPower Pro AMD AI Halo Mini PC仅提供单一外观。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower推出了一款配备128 GB RAM的high-end mini-PC。iBuyPower Pro AMD AI Halo Mini PC还搭载AMD的Ryzen AI Max+ Pro 495处理器，在尺寸为200 x 198 x 70 mm 的机身中塞进了双USB4、双10 GbE Ethernet和三个M.2插槽。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower加入了采用AMD全新Gorgon Halo平台的mini-PC厂商行列；Ryzen AI Max+ Pro 495已用于EVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro和YO2 495，不过目前只有EVO-X5 Pro和F9A Pro 495在中国以外有售。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower这款机器也将在全球发售，但RAM最高只有128 GB ，而非GMKtec和AceMagic同类产品的192 GB 。因此，它与较早的Strix Halo mini-PCs一样，最多可将96 GB RAM分配为VRAM。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-              },
-              {
-                "t": "p",
-                "x": "机身配有六个USB端口，其中两个是40 Gbps 的USB4，另有HDMI 2.1 (48 Gbps)和DisplayPort 1.4 (HBR3, 32.4 Gbps)。iBuyPower只承诺'Q4 2026'的发布窗口，起价$3,999；但尚未说明该价格是否包含128 GB RAM。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "iBuyPower integra 128GB en un\nmini-PC AI Halo",
-          "body": "El Pro AMD AI Halo Mini PC de iBuyPower combina un Ryzen AI Max+ Pro 495 con 128 GB de RAM y doble 10 GbE.",
-          "mini_headline": "El mini-PC AI de 128GB de iBuyPower",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-                "cap": "El iBuyPower Pro AMD AI Halo Mini PC se ofrece en un único acabado."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower ha lanzado un mini-PC high-end con 128 GB de RAM. Equipado además con el procesador Ryzen AI Max+ Pro 495 de AMD, el iBuyPower Pro AMD AI Halo Mini PC reúne doble USB4, doble 10 GbE Ethernet y tres ranuras M.2 en una carcasa de 200 x 198 x 70 mm."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower se suma a los fabricantes de mini-PC que adoptan la nueva plataforma Gorgon Halo de AMD; el Ryzen AI Max+ Pro 495 ya impulsa los EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro y YO2 495, aunque por ahora solo el EVO-X5 Pro y el F9A Pro 495 se venden fuera de China."
-              },
-              {
-                "t": "p",
-                "x": "El equipo de iBuyPower también se lanzará a nivel mundial, pero llega como máximo a 128 GB de RAM, frente a los 192 GB de las alternativas de GMKtec y AceMagic. Por ello, al igual que los mini-PCs Strix Halo anteriores, puede asignar hasta 96 GB de RAM como VRAM."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Incluye seis puertos USB, dos de ellos USB4 a 40 Gbps, además de HDMI 2.1 (48 Gbps) y DisplayPort 1.4 (HBR3, 32.4 Gbps). iBuyPower solo se ha comprometido a un lanzamiento en el 'Q4 2026', con precios desde $3,999; no ha aclarado si ese precio incluye 128 GB de RAM."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "iBuyPower의 AI\n128GB mini-PC",
-          "body": "Ryzen AI Max+ Pro 495에 128 GB RAM을 더한 미니 PC다.",
-          "mini_headline": "iBuyPower의 128GB AI mini-PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-                "cap": "iBuyPower Pro AMD AI Halo Mini PC는 단일 마감으로 나온다."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower가 128 GB RAM을 갖춘 high-end mini-PC를 출시했다. AMD의 Ryzen AI Max+ Pro 495 프로세서도 탑재한 iBuyPower Pro AMD AI Halo Mini PC는 200 x 198 x 70 mm 크기의 본체에 USB4 두 개, 10 GbE Ethernet 두 개, M.2 슬롯 세 개를 담았다."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower는 AMD의 새 Gorgon Halo 플랫폼을 채택한 mini-PC 제조사 대열에 합류했다. Ryzen AI Max+ Pro 495는 이미 EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro, YO2 495에 쓰이고 있지만, 현재 중국 밖에서 구할 수 있는 제품은 EVO-X5 Pro와 F9A Pro 495뿐이다."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower 제품도 전 세계에 출시되지만, RAM은 최대 128 GB 로 GMKtec과 AceMagic 대안 제품의 192 GB 에 못 미친다. 그 결과 이전 Strix Halo mini-PCs와 마찬가지로 최대 96 GB 의 RAM을 VRAM으로 할당한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-              },
-              {
-                "t": "p",
-                "x": "USB 포트는 여섯 개로, 그중 두 개는 40 Gbps USB4이며 HDMI 2.1(48 Gbps)과 DisplayPort 1.4(HBR3, 32.4 Gbps)도 갖췄다. iBuyPower는 'Q4 2026' 출시라는 일정만 밝혔고, 가격은 $3,999부터다. 이 가격에 128 GB RAM이 포함되는지는 밝히지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "iBuyPowerのAI\n128GB mini-PC",
-          "body": "Ryzen AI Max+ Pro 495と128 GB のRAMを積むミニPCだ。",
-          "mini_headline": "iBuyPowerの128GB AI mini-PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-                "cap": "iBuyPower Pro AMD AI Halo Mini PCは単一の仕上げで展開される。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPowerが128 GB のRAMを備えたhigh-endなmini-PCを発売した。AMDのRyzen AI Max+ Pro 495プロセッサーも搭載するiBuyPower Pro AMD AI Halo Mini PCは、200 x 198 x 70 mm の筐体に、デュアルUSB4、デュアル10 GbE Ethernet、三つのM.2スロットを詰め込んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPowerは、AMDの新しいGorgon Haloプラットフォームを採用するmini-PCメーカーの仲間入りをした。Ryzen AI Max+ Pro 495はすでにEVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro、YO2 495に搭載されているが、現時点で中国国外で入手できるのはEVO-X5 ProとF9A Pro 495だけだ。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPowerのマシンもグローバルで発売されるが、RAMの上限は128 GB で、GMKtecやAceMagicの競合機の192 GB には届かない。その結果、旧世代のStrix Halo mini-PCsと同じく、最大96 GB のRAMをVRAMとして割り当てる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-              },
-              {
-                "t": "p",
-                "x": "USBポートは六つで、そのうち二つは40 Gbps のUSB4だ。ほかにHDMI 2.1 (48 Gbps)とDisplayPort 1.4 (HBR3, 32.4 Gbps)を備える。iBuyPowerが明言しているのは'Q4 2026'という発売時期のみで、価格は$3,999からだが、この価格に128 GB のRAMが含まれるかは明らかにしていない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "iBuyPower的AI\n128GB mini-PC",
-          "body": "iBuyPower新品搭载Ryzen AI Max+ Pro 495与128 GB RAM。",
-          "mini_headline": "iBuyPower的128GB AI mini-PC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-                "cap": "iBuyPower Pro AMD AI Halo Mini PC仅提供单一外观。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower推出了一款配备128 GB RAM的high-end mini-PC。iBuyPower Pro AMD AI Halo Mini PC还搭载AMD的Ryzen AI Max+ Pro 495处理器，在尺寸为200 x 198 x 70 mm 的机身中塞进了双USB4、双10 GbE Ethernet和三个M.2插槽。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower加入了采用AMD全新Gorgon Halo平台的mini-PC厂商行列；Ryzen AI Max+ Pro 495已用于EVO-X5 Pro、FAEX2、F9A Pro 495、GTR9 Pro和YO2 495，不过目前只有EVO-X5 Pro和F9A Pro 495在中国以外有售。"
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower这款机器也将在全球发售，但RAM最高只有128 GB ，而非GMKtec和AceMagic同类产品的192 GB 。因此，它与较早的Strix Halo mini-PCs一样，最多可将96 GB RAM分配为VRAM。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-              },
-              {
-                "t": "p",
-                "x": "机身配有六个USB端口，其中两个是40 Gbps 的USB4，另有HDMI 2.1 (48 Gbps)和DisplayPort 1.4 (HBR3, 32.4 Gbps)。iBuyPower只承诺'Q4 2026'的发布窗口，起价$3,999；但尚未说明该价格是否包含128 GB RAM。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "iBuyPower integra 128GB en un\nmini-PC AI Halo",
-          "body": "El Pro AMD AI Halo Mini PC de iBuyPower combina un Ryzen AI Max+ Pro 495 con 128 GB de RAM y doble 10 GbE.",
-          "mini_headline": "El mini-PC AI de 128GB de iBuyPower",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-                "cap": "El iBuyPower Pro AMD AI Halo Mini PC se ofrece en un único acabado."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower ha lanzado un mini-PC high-end con 128 GB de RAM. Equipado además con el procesador Ryzen AI Max+ Pro 495 de AMD, el iBuyPower Pro AMD AI Halo Mini PC reúne doble USB4, doble 10 GbE Ethernet y tres ranuras M.2 en una carcasa de 200 x 198 x 70 mm."
-              },
-              {
-                "t": "p",
-                "x": "iBuyPower se suma a los fabricantes de mini-PC que adoptan la nueva plataforma Gorgon Halo de AMD; el Ryzen AI Max+ Pro 495 ya impulsa los EVO-X5 Pro, FAEX2, F9A Pro 495, GTR9 Pro y YO2 495, aunque por ahora solo el EVO-X5 Pro y el F9A Pro 495 se venden fuera de China."
-              },
-              {
-                "t": "p",
-                "x": "El equipo de iBuyPower también se lanzará a nivel mundial, pero llega como máximo a 128 GB de RAM, frente a los 192 GB de las alternativas de GMKtec y AceMagic. Por ello, al igual que los mini-PCs Strix Halo anteriores, puede asignar hasta 96 GB de RAM como VRAM."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-bottom.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Incluye seis puertos USB, dos de ellos USB4 a 40 Gbps, además de HDMI 2.1 (48 Gbps) y DisplayPort 1.4 (HBR3, 32.4 Gbps). iBuyPower solo se ha comprometido a un lanzamiento en el 'Q4 2026', con precios desde $3,999; no ha aclarado si ese precio incluye 128 GB de RAM."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "humanoid-robot-rental-exchanges",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "휴머노이드 로봇 대여료\n거래소 등장에 급락",
-      "body": "중국 휴머노이드 로봇 대여료가 다섯 자릿수 위안에서 하루 289위안까지 내려갔다.",
-      "mini_headline": "로봇 대여료가 싸진다",
-      "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "휴머노이드 로봇 대여는 원래 파는 쪽이 갑인 시장이었다. Unitree 로봇이 중국의 2025년 Spring Festival Gala(춘완)에서 춤을 춘 뒤 수요가 치솟았고 로봇 한 대 하루 대여료가 다섯 자릿수 위안, 약 $1,400 이상까지 올랐다고 한다."
-          },
-          {
-            "t": "p",
-            "x": "거품은 이제 꺼졌다. 대여료는 2026년 초 하루 2,000~3,000위안(약 $280~$420) 수준으로 떨어졌다가 이후 1,000위안 아래로 내려갔다. 한 중고 거래 플랫폼에는 Unitree 휴머노이드를 하루 289위안, 약 $40부터 내놓은 판매자도 있다."
-          },
-          {
-            "t": "p",
-            "x": "2026년 춘완 무대에는 Magic Atom, Unitree, Songyan Power, Galaxy General 등 로봇 제조사 네 곳이 올랐다. 하지만 풀린 로봇이 늘면서 신기함에 붙던 웃돈은 사라지는 중이다. 시장도 틀을 갖춰 간다. 세계 최초 로봇 전용 대여 플랫폼을 내건 Qingtianzu는 2026년 1월 시드 투자 유치를 발표했고 2월 첫째 주 주문량이 약 30퍼센트 늘었다고 한다."
-          },
-          {
-            "t": "p",
-            "x": "대여는 대개 호기심 많은 고객이 제값을 다 내지 않고 휴머노이드를 써 보는 방법이다. Unitree G1+의 가격은 95,000위안(약 $13,000)부터다. Unitree는 2030년까지 범용 휴머노이드 판매를 목표로 삼았다. 중국에서는 로봇 훈련 시설 70곳 이상이 돌아가고 있고 40곳 이상을 짓는 중이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Humanoid robot rental prices\ncrater as exchanges appear",
-          "body": "Humanoid robot rentals in China have dropped from five-figure yuan day rates to as little as 289 yuan a day.",
-          "mini_headline": "Robot rentals get cheaper",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Renting a humanoid robot used to be a seller's market. After Unitree's robots danced on China's 2025 Spring Festival Gala, demand surged and daily rates reportedly reached five figures in yuan, roughly $1,400 or more, for a single day with a machine."
-              },
-              {
-                "t": "p",
-                "x": "That bubble has deflated: rates fell to around 2,000 to 3,000 yuan per day (about $280 to $420) by early 2026 and have since slipped below 1,000 yuan. On one classifieds marketplace, some merchants now list Unitree humanoids from just 289 yuan per day, or roughly $40."
-              },
-              {
-                "t": "p",
-                "x": "The 2026 gala put four robot makers on stage (Magic Atom, Unitree, Songyan Power and Galaxy General), but more machines are now in circulation and the novelty premium is fading. The market is also getting organized: in January 2026 Qingtianzu, billed as the world's first dedicated robot rental platform, announced a seed round, and its order volume reportedly grew about 30 percent in the first week of February."
-              },
-              {
-                "t": "p",
-                "x": "Rentals mostly let curious customers try a humanoid instead of paying full price, which for a Unitree G1+ starts at 95,000 yuan (about $13,000). Unitree aims to sell a general-purpose humanoid by 2030, and China has over 70 robot training facilities in operation, with more than 40 under construction."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El alquiler de robots humanoides\nse hunde al surgir plataformas",
-          "body": "El alquiler de robots humanoides en China ha bajado de cinco cifras en yuanes al día a solo 289 yuanes.",
-          "mini_headline": "Alquilar robots sale más barato",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Alquilar un robot humanoide solía ser un mercado de vendedores. Después de que los robots de Unitree bailaran en la Gala del Festival de Primavera 2025 de China, la demanda se disparó y, según informes, las tarifas diarias alcanzaron las cinco cifras en yuanes, unos $1,400 o más, por un solo día con una máquina."
-              },
-              {
-                "t": "p",
-                "x": "Esa burbuja se ha desinflado: las tarifas cayeron a unos 2,000 a 3,000 yuanes al día (unos $280 a $420) a principios de 2026 y desde entonces han bajado de 1,000 yuanes. En un mercado de anuncios clasificados, algunos comerciantes ofrecen ahora humanoides de Unitree desde solo 289 yuanes al día, unos $40."
-              },
-              {
-                "t": "p",
-                "x": "La gala de 2026 llevó al escenario a cuatro fabricantes de robots (Magic Atom, Unitree, Songyan Power y Galaxy General), pero ahora circulan más máquinas y la prima por novedad se desvanece. El mercado también se organiza: en enero de 2026, Qingtianzu, presentada como la primera plataforma del mundo dedicada al alquiler de robots, anunció una ronda semilla, y su volumen de pedidos habría crecido alrededor de un 30 por ciento en la primera semana de febrero."
-              },
-              {
-                "t": "p",
-                "x": "El alquiler permite sobre todo que los clientes curiosos prueben un humanoide sin pagar el precio completo, que en el caso de un Unitree G1+ parte de 95,000 yuanes (unos $13,000). Unitree aspira a vender un humanoide de uso general para 2030, y China tiene más de 70 centros de entrenamiento de robots en funcionamiento y más de 40 en construcción."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "휴머노이드 로봇 대여료\n거래소 등장에 급락",
-          "body": "중국 휴머노이드 로봇 대여료가 다섯 자릿수 위안에서 하루 289위안까지 내려갔다.",
-          "mini_headline": "로봇 대여료가 싸진다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "휴머노이드 로봇 대여는 원래 파는 쪽이 갑인 시장이었다. Unitree 로봇이 중국의 2025년 Spring Festival Gala(춘완)에서 춤을 춘 뒤 수요가 치솟았고 로봇 한 대 하루 대여료가 다섯 자릿수 위안, 약 $1,400 이상까지 올랐다고 한다."
-              },
-              {
-                "t": "p",
-                "x": "거품은 이제 꺼졌다. 대여료는 2026년 초 하루 2,000~3,000위안(약 $280~$420) 수준으로 떨어졌다가 이후 1,000위안 아래로 내려갔다. 한 중고 거래 플랫폼에는 Unitree 휴머노이드를 하루 289위안, 약 $40부터 내놓은 판매자도 있다."
-              },
-              {
-                "t": "p",
-                "x": "2026년 춘완 무대에는 Magic Atom, Unitree, Songyan Power, Galaxy General 등 로봇 제조사 네 곳이 올랐다. 하지만 풀린 로봇이 늘면서 신기함에 붙던 웃돈은 사라지는 중이다. 시장도 틀을 갖춰 간다. 세계 최초 로봇 전용 대여 플랫폼을 내건 Qingtianzu는 2026년 1월 시드 투자 유치를 발표했고 2월 첫째 주 주문량이 약 30퍼센트 늘었다고 한다."
-              },
-              {
-                "t": "p",
-                "x": "대여는 대개 호기심 많은 고객이 제값을 다 내지 않고 휴머노이드를 써 보는 방법이다. Unitree G1+의 가격은 95,000위안(약 $13,000)부터다. Unitree는 2030년까지 범용 휴머노이드 판매를 목표로 삼았다. 중국에서는 로봇 훈련 시설 70곳 이상이 돌아가고 있고 40곳 이상을 짓는 중이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "人型ロボットのレンタル料\n取引所の登場で急落",
-          "body": "中国の人型ロボットのレンタル料は、日額数万元から最安289元まで下がった。",
-          "mini_headline": "ロボットレンタルが安く",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "人型ロボットのレンタルは、かつて売り手市場だった。Unitreeのロボットが中国の2025年Spring Festival Gala（春晩）で踊ったことで需要が急増し、ロボット一台を一日借りる料金は数万元、約$1,400以上に達したと伝えられる。"
-              },
-              {
-                "t": "p",
-                "x": "そのバブルはしぼんだ。料金は2026年初めまでに一日2,000〜3,000元（約$280〜$420）程度に下がり、その後1,000元を割り込んだ。ある売買仲介サイトでは、一部の業者がUnitreeの人型ロボットを一日289元、約$40から掲載している。"
-              },
-              {
-                "t": "p",
-                "x": "2026年の春晩にはMagic Atom、Unitree、Songyan Power、Galaxy Generalの四社のロボットメーカーが登場したが、流通する機体が増え、物珍しさによる上乗せは薄れつつある。市場の組織化も進む。世界初のロボット専門レンタルプラットフォームをうたうQingtianzuは2026年1月にシードラウンドを発表し、2月第一週の注文量は約30パーセント伸びたと伝えられる。"
-              },
-              {
-                "t": "p",
-                "x": "レンタルは主に、興味を持つ客が定価を払わずに人型ロボットを試す手段となっている。Unitree G1+の価格は95,000元（約$13,000）からだ。Unitreeは2030年までに汎用人型ロボットの販売を目指しており、中国では70を超えるロボット訓練施設が稼働し、40以上が建設中である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "人形机器人租金\n随交易平台出现暴跌",
-          "body": "中国人形机器人的租金已从日租五位数元，降到最低每天289元。",
-          "mini_headline": "机器人租赁变便宜",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "租用人形机器人曾是卖方市场。Unitree的机器人在中国2025年Spring Festival Gala（春晚）上跳舞后，需求激增，据报道租用一台机器人一天的价格达到五位数元，约合$1,400或更高。"
-              },
-              {
-                "t": "p",
-                "x": "如今泡沫已经消退：到2026年初，日租金降至约2,000至3,000元（约$280至$420），此后又跌破1,000元。在一个分类信息交易平台上，部分商家挂出的Unitree人形机器人日租金低至289元，约合$40。"
-              },
-              {
-                "t": "p",
-                "x": "2026年春晚有四家机器人厂商登台（Magic Atom、Unitree、Songyan Power和Galaxy General），但流通的机器越来越多，新鲜感带来的溢价正在消退。市场也在走向规范：号称全球首个机器人专属租赁平台的Qingtianzu于2026年1月宣布完成种子轮融资，据报道其订单量在2月第一周增长约百分之30。"
-              },
-              {
-                "t": "p",
-                "x": "租赁主要让好奇的顾客无需全价购买就能体验人形机器人，而Unitree G1+的起售价为95,000元（约$13,000）。Unitree的目标是在2030年前销售通用人形机器人，中国已有超过70个机器人训练设施投入运营，另有40多个在建。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "El alquiler de robots humanoides\nse hunde al surgir plataformas",
-          "body": "El alquiler de robots humanoides en China ha bajado de cinco cifras en yuanes al día a solo 289 yuanes.",
-          "mini_headline": "Alquilar robots sale más barato",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Alquilar un robot humanoide solía ser un mercado de vendedores. Después de que los robots de Unitree bailaran en la Gala del Festival de Primavera 2025 de China, la demanda se disparó y, según informes, las tarifas diarias alcanzaron las cinco cifras en yuanes, unos $1,400 o más, por un solo día con una máquina."
-              },
-              {
-                "t": "p",
-                "x": "Esa burbuja se ha desinflado: las tarifas cayeron a unos 2,000 a 3,000 yuanes al día (unos $280 a $420) a principios de 2026 y desde entonces han bajado de 1,000 yuanes. En un mercado de anuncios clasificados, algunos comerciantes ofrecen ahora humanoides de Unitree desde solo 289 yuanes al día, unos $40."
-              },
-              {
-                "t": "p",
-                "x": "La gala de 2026 llevó al escenario a cuatro fabricantes de robots (Magic Atom, Unitree, Songyan Power y Galaxy General), pero ahora circulan más máquinas y la prima por novedad se desvanece. El mercado también se organiza: en enero de 2026, Qingtianzu, presentada como la primera plataforma del mundo dedicada al alquiler de robots, anunció una ronda semilla, y su volumen de pedidos habría crecido alrededor de un 30 por ciento en la primera semana de febrero."
-              },
-              {
-                "t": "p",
-                "x": "El alquiler permite sobre todo que los clientes curiosos prueben un humanoide sin pagar el precio completo, que en el caso de un Unitree G1+ parte de 95,000 yuanes (unos $13,000). Unitree aspira a vender un humanoide de uso general para 2030, y China tiene más de 70 centros de entrenamiento de robots en funcionamiento y más de 40 en construcción."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "휴머노이드 로봇 대여료\n거래소 등장에 급락",
-          "body": "중국 휴머노이드 로봇 대여료가 다섯 자릿수 위안에서 하루 289위안까지 내려갔다.",
-          "mini_headline": "로봇 대여료가 싸진다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "휴머노이드 로봇 대여는 원래 판매자 우위 시장이었다. Unitree 로봇이 중국의 2025년 Spring Festival Gala(춘완)에서 춤을 춘 뒤 수요가 치솟았고, 로봇 한 대를 하루 빌리는 값이 다섯 자릿수 위안, 약 $1,400 이상까지 올랐다고 전해진다."
-              },
-              {
-                "t": "p",
-                "x": "그 거품은 이제 꺼졌다. 대여료는 2026년 초 하루 2,000~3,000위안(약 $280~$420) 수준으로 떨어졌고, 이후 1,000위안 아래로 내려갔다. 한 중고 거래 플랫폼에서는 일부 판매자가 Unitree 휴머노이드를 하루 289위안, 약 $40부터 내놓고 있다."
-              },
-              {
-                "t": "p",
-                "x": "2026년 춘완 무대에는 Magic Atom, Unitree, Songyan Power, Galaxy General 등 네 곳의 로봇 제조사가 올랐지만, 유통되는 로봇이 늘면서 신기함에 붙던 웃돈은 사라지고 있다. 시장도 체계를 갖춰 간다. 세계 최초의 로봇 전용 대여 플랫폼을 내세운 Qingtianzu는 2026년 1월 시드 투자 유치를 발표했고, 2월 첫째 주 주문량이 약 30퍼센트 늘었다고 전해진다."
-              },
-              {
-                "t": "p",
-                "x": "대여는 주로 호기심 있는 고객이 제값을 치르지 않고 휴머노이드를 체험해 보는 수단이다. Unitree G1+의 가격은 95,000위안(약 $13,000)부터다. Unitree는 2030년까지 범용 휴머노이드 판매를 목표로 하며, 중국에서는 로봇 훈련 시설 70곳 이상이 운영 중이고 40곳 이상이 건설 중이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "人型ロボットのレンタル料\n取引所の登場で急落",
-          "body": "中国の人型ロボットのレンタル料は、日額数万元から最安289元まで下がった。",
-          "mini_headline": "ロボットレンタルが安く",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "人型ロボットのレンタルは、かつて売り手市場だった。Unitreeのロボットが中国の2025年Spring Festival Gala（春晩）で踊ったことで需要が急増し、ロボット一台を一日借りる料金は数万元、約$1,400以上に達したと伝えられる。"
-              },
-              {
-                "t": "p",
-                "x": "そのバブルはしぼんだ。料金は2026年初めまでに一日2,000〜3,000元（約$280〜$420）程度に下がり、その後1,000元を割り込んだ。ある売買仲介サイトでは、一部の業者がUnitreeの人型ロボットを一日289元、約$40から掲載している。"
-              },
-              {
-                "t": "p",
-                "x": "2026年の春晩にはMagic Atom、Unitree、Songyan Power、Galaxy Generalの四社のロボットメーカーが登場したが、流通する機体が増え、物珍しさによる上乗せは薄れつつある。市場の組織化も進む。世界初のロボット専門レンタルプラットフォームをうたうQingtianzuは2026年1月にシードラウンドを発表し、2月第一週の注文量は約30パーセント伸びたと伝えられる。"
-              },
-              {
-                "t": "p",
-                "x": "レンタルは主に、興味を持つ客が定価を払わずに人型ロボットを試す手段となっている。Unitree G1+の価格は95,000元（約$13,000）からだ。Unitreeは2030年までに汎用人型ロボットの販売を目指しており、中国では70を超えるロボット訓練施設が稼働し、40以上が建設中である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "人形机器人租金\n随交易平台出现暴跌",
-          "body": "中国人形机器人的租金已从日租五位数元，降到最低每天289元。",
-          "mini_headline": "机器人租赁变便宜",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unitree-kung-fu-robots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "租用人形机器人曾是卖方市场。Unitree的机器人在中国2025年Spring Festival Gala（春晚）上跳舞后，需求激增，据报道租用一台机器人一天的价格达到五位数元，约合$1,400或更高。"
-              },
-              {
-                "t": "p",
-                "x": "如今泡沫已经消退：到2026年初，日租金降至约2,000至3,000元（约$280至$420），此后又跌破1,000元。在一个分类信息交易平台上，部分商家挂出的Unitree人形机器人日租金低至289元，约合$40。"
-              },
-              {
-                "t": "p",
-                "x": "2026年春晚有四家机器人厂商登台（Magic Atom、Unitree、Songyan Power和Galaxy General），但流通的机器越来越多，新鲜感带来的溢价正在消退。市场也在走向规范：号称全球首个机器人专属租赁平台的Qingtianzu于2026年1月宣布完成种子轮融资，据报道其订单量在2月第一周增长约百分之30。"
-              },
-              {
-                "t": "p",
-                "x": "租赁主要让好奇的顾客无需全价购买就能体验人形机器人，而Unitree G1+的起售价为95,000元（约$13,000）。Unitree的目标是在2030年前销售通用人形机器人，中国已有超过70个机器人训练设施投入运营，另有40多个在建。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "siri-ai-vs-gemini-column",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "핵심에선 Siri AI가\nGemini보다 낫다는 평",
-      "body": "Siri AI는 앱 안에서 움직이고 Gemini는 Google 안에 갇혔다고 본다.",
-      "mini_headline": "Siri AI가 Gemini보다 낫다는 시각",
+      "headline": "번역 대화 자동 저장,\n스마트 글래스는 예외",
+      "body": "Live Translate 기록이 자동 저장되지만 스마트 글래스를 연결하면 꺼진다.",
+      "mini_headline": "Translate 기록 자동 저장, 글래스는 제외",
       "tool": "Gadgets",
       "source": "Android Authority",
-      "url": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
+      "url": "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -1587,209 +461,131 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-            "cap": "나란히 실행 중인 Siri AI와 Gemini."
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+            "cap": "Google Translate 홈 화면"
           },
           {
             "t": "p",
-            "x": "칼럼니스트는 한쪽으로 기운 비교가 되리라 예상했다. 그런데 새 Siri AI는 금세 일상에 더 자연스럽게 녹아들었고 Gemini는 여전히 휴대폰의 다른 앱과 따로 노는 느낌이었다."
+            "x": "Google Translate가 모바일 사용자를 대상으로 Live Translate 설정의 “Auto-save transcript” 토글을 시험해 왔다. 2026년 10월 12일 업데이트: Google이 Google Translate v10.39.34.995726622.4와 함께 Live Translate 기록 자동 저장 옵션을 배포하는 중이다."
           },
           {
             "t": "p",
-            "x": "Gemini는 Spark 리서치를 NotebookLM(현재 Gemini Notebook)으로 옮기는 일부터 Sheets 편집까지 Google 생태계 안에서는 뛰어나지만 서드파티 연동은 약하다. TickTick에 할 일을 추가해 달라고 하자 묻지도 않고 Google Tasks를 택했다. Instacart, Angi, Zillow 같은 파트너 앱은 지역마다 달라서 인도에 사는 필자가 매일 쓰는 건 Canva 하나뿐이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-            "cap": "iOS 27의 Siri AI 인터페이스."
-          },
-          {
-            "t": "p",
-            "x": "Siri AI는 정보를 불러오는 데서 그치지 않고 실제로 움직일 준비가 더 돼 보인다. 매번 앱 이름을 말하지 않아도 TickTick 할 일을 읽어 주고 관리하며, 음성으로 Blinkit 장바구니에 물건을 담는다. 필자는 그 이유로 Apple의 더 엄격한 가이드라인과 App Store 인센티브, Apple India가 현지 개발자와 해 온 작업을 꼽는다."
-          },
-          {
-            "t": "p",
-            "x": "이제 눈에 띄는 기능은 대화보다 다른 앱 안에서 직접 움직이는 능력이다. Google이 Home 앱에 붙인 MCP 연결은 좋은 시도지만 설정에 손이 많이 가고 Home Premium 구독도 필요하다. 필자는 Google이 Gemini의 앱 간 연동을 어이없을 만큼 쉽게 만들어야 한다고 본다."
+            "x": "Android Authority가 9월 29일 공개한 코드 분석을 보면, 스마트 글래스를 연결해 쓰는 동안에는 개인정보 보호를 위해 기록 저장이 아예 꺼진다. 스마트 글래스에서는 음성 명령으로 번역을 시작하고 터치패드를 스와이프해 세션을 끝낸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "One writer finds Siri AI\nbeats Gemini where it counts",
-          "body": "An Android Authority columnist argues Siri AI acts inside apps like TickTick while Gemini stays stuck in Google's world.",
-          "mini_headline": "Siri AI over Gemini, one view",
+          "headline": "Translate auto-saves chats,\nexcept on smart glasses",
+          "body": "Google Translate is rolling out auto-saved Live Translate transcripts, switched off when smart glasses connect.",
+          "mini_headline": "Translate saves transcripts, not on glasses",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-                "cap": "Siri AI and Gemini running next to each other."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+                "cap": "Google Translate home screen"
               },
               {
                 "t": "p",
-                "x": "Expecting a one-sided comparison, the columnist instead found the new Siri AI fit into their everyday routine more naturally in a short span of time, while Gemini still feels disconnected from the rest of the apps on their phone."
+                "x": "Google Translate has been testing an “Auto-save transcript” toggle in Live Translate settings for mobile users. Update, October 12, 2026: Google is rolling out the auto-save transcript option for Live Translate with Google Translate v10.39.34.995726622.4."
               },
               {
                 "t": "p",
-                "x": "Gemini is excellent inside Google's ecosystem, from Spark research into NotebookLM (now Gemini Notebook) to edits in Sheets, but third-party integrations fall short: asked to add a task to TickTick, it defaulted to Google Tasks without asking. Its partner apps such as Instacart, Angi and Zillow are region-dependent, and the writer, based in India, uses none of them daily except Canva."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-                "cap": "Siri AI interface on iOS 27."
-              },
-              {
-                "t": "p",
-                "x": "Siri AI feels more ready to take actions rather than just pull up information: it reads out and manages TickTick tasks without naming the app each time, and adds items to a Blinkit cart by voice. The writer credits Apple's stricter guidelines, App Store incentives and Apple India's work with local developers."
-              },
-              {
-                "t": "p",
-                "x": "Conversation is no longer the standout feature; acting inside other apps is. Google's MCP connections for the Home app are a solid move but need tinkering and a Home Premium subscription. Google, the writer argues, must make cross-app interactions with Gemini stupidly effortless."
+                "x": "Android Authority's September 29 teardown found that transcript saving will be completely disabled when smart glasses are connected and in use, to protect privacy. Users will be able to use voice commands to start translation on smart glasses, while a swipe on the touchpad will end the session."
               }
             ]
           }
         },
         "ko": {
-          "headline": "핵심에선 Siri AI가\nGemini보다 낫다는 평",
-          "body": "Siri AI는 앱 안에서 움직이고 Gemini는 Google 안에 갇혔다고 본다.",
-          "mini_headline": "Siri AI가 Gemini보다 낫다는 시각",
+          "headline": "번역 대화 자동 저장,\n스마트 글래스는 예외",
+          "body": "Live Translate 기록이 자동 저장되지만 스마트 글래스를 연결하면 꺼진다.",
+          "mini_headline": "Translate 기록 자동 저장, 글래스는 제외",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-                "cap": "나란히 실행 중인 Siri AI와 Gemini."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+                "cap": "Google Translate 홈 화면"
               },
               {
                 "t": "p",
-                "x": "칼럼니스트는 한쪽으로 기운 비교가 되리라 예상했다. 그런데 새 Siri AI는 금세 일상에 더 자연스럽게 녹아들었고 Gemini는 여전히 휴대폰의 다른 앱과 따로 노는 느낌이었다."
+                "x": "Google Translate가 모바일 사용자를 대상으로 Live Translate 설정의 “Auto-save transcript” 토글을 시험해 왔다. 2026년 10월 12일 업데이트: Google이 Google Translate v10.39.34.995726622.4와 함께 Live Translate 기록 자동 저장 옵션을 배포하는 중이다."
               },
               {
                 "t": "p",
-                "x": "Gemini는 Spark 리서치를 NotebookLM(현재 Gemini Notebook)으로 옮기는 일부터 Sheets 편집까지 Google 생태계 안에서는 뛰어나지만 서드파티 연동은 약하다. TickTick에 할 일을 추가해 달라고 하자 묻지도 않고 Google Tasks를 택했다. Instacart, Angi, Zillow 같은 파트너 앱은 지역마다 달라서 인도에 사는 필자가 매일 쓰는 건 Canva 하나뿐이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-                "cap": "iOS 27의 Siri AI 인터페이스."
-              },
-              {
-                "t": "p",
-                "x": "Siri AI는 정보를 불러오는 데서 그치지 않고 실제로 움직일 준비가 더 돼 보인다. 매번 앱 이름을 말하지 않아도 TickTick 할 일을 읽어 주고 관리하며, 음성으로 Blinkit 장바구니에 물건을 담는다. 필자는 그 이유로 Apple의 더 엄격한 가이드라인과 App Store 인센티브, Apple India가 현지 개발자와 해 온 작업을 꼽는다."
-              },
-              {
-                "t": "p",
-                "x": "이제 눈에 띄는 기능은 대화보다 다른 앱 안에서 직접 움직이는 능력이다. Google이 Home 앱에 붙인 MCP 연결은 좋은 시도지만 설정에 손이 많이 가고 Home Premium 구독도 필요하다. 필자는 Google이 Gemini의 앱 간 연동을 어이없을 만큼 쉽게 만들어야 한다고 본다."
+                "x": "Android Authority가 9월 29일 공개한 코드 분석을 보면, 스마트 글래스를 연결해 쓰는 동안에는 개인정보 보호를 위해 기록 저장이 아예 꺼진다. 스마트 글래스에서는 음성 명령으로 번역을 시작하고 터치패드를 스와이프해 세션을 끝낸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "肝心な所でSiri AIが\nGeminiに勝るとの声",
-          "body": "Siri AIはアプリ内で動き、GeminiはGoogleの中に閉じたままだとコラムは説く。",
-          "mini_headline": "Siri AIがGeminiに勝るという見方",
+          "headline": "翻訳の会話を自動保存、\nスマートグラスは除外",
+          "body": "Live Translateの記録が自動保存されるが、スマートグラス接続時は無効になる。",
+          "mini_headline": "Translateが記録を自動保存、グラスは対象外",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-                "cap": "並べて動かしたSiri AIとGemini。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+                "cap": "Google Translateのホーム画面"
               },
               {
                 "t": "p",
-                "x": "一方的な比較になると予想していたコラムニストだったが、新しいSiri AIは短期間で日々の習慣により自然になじんだ。一方Geminiは、今もスマートフォン上のほかのアプリから切り離された印象だという。"
+                "x": "Google Translateは、モバイルユーザー向けにLive Translateの設定で「Auto-save transcript」トグルをテストしてきた。2026年10月12日更新：GoogleはGoogle Translate v10.39.34.995726622.4で、Live Translateの記録自動保存オプションを配信している。"
               },
               {
                 "t": "p",
-                "x": "GeminiはGoogleのエコシステム内では優秀で、SparkのリサーチをNotebookLM(現Gemini Notebook)に取り込むことからSheetsでの編集までこなすが、サードパーティー連携は物足りない。TickTickにタスクを追加するよう頼むと、確認もせずにGoogle Tasksを使った。Instacart、Angi、Zillowといった提携アプリは地域に左右され、インドに住む筆者はCanva以外どれも日常的には使っていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-                "cap": "iOS 27のSiri AIのインターフェース。"
-              },
-              {
-                "t": "p",
-                "x": "Siri AIは情報を呼び出すだけでなく、行動に移す準備がより整っているように感じられる。毎回アプリ名を言わなくてもTickTickのタスクを読み上げて管理し、音声でBlinkitのカートに商品を追加する。筆者は、Appleのより厳格なガイドライン、App Storeのインセンティブ、そしてApple Indiaによる現地開発者との取り組みがその理由だとみる。"
-              },
-              {
-                "t": "p",
-                "x": "もはや際立つ機能は会話ではなく、ほかのアプリ内で行動することだ。GoogleがHomeアプリ向けに用意したMCP接続は堅実な一手だが、手間のかかる設定とHome Premiumへの加入が必要になる。筆者は、GoogleはGeminiのアプリ間連携をあきれるほど簡単にすべきだと主張する。"
+                "x": "Android Authorityが9月29日に行った解析によると、スマートグラスを接続して使用している間は、プライバシー保護のため記録の保存が完全に無効になる。スマートグラスでは音声コマンドで翻訳を開始でき、タッチパッドをスワイプするとセッションが終了する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一位作者认为Siri AI\n关键处胜过Gemini",
-          "body": "专栏认为Siri AI能在应用内操作，而Gemini仍困在Google生态里。",
-          "mini_headline": "一种观点：Siri AI胜过Gemini",
+          "headline": "翻译自动保存对话，\n智能眼镜除外",
+          "body": "Translate推出Live Translate记录自动保存，连接智能眼镜时关闭。",
+          "mini_headline": "Translate自动保存记录，眼镜除外",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-                "cap": "并排运行的Siri AI和Gemini。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+                "cap": "Google Translate主屏幕"
               },
               {
                 "t": "p",
-                "x": "这位专栏作者原以为会是一边倒的比较，结果却发现新版Siri AI在短时间内更自然地融入了日常，而Gemini依然感觉与手机上的其他应用脱节。"
+                "x": "Google Translate一直在为移动端用户测试Live Translate设置中的“Auto-save transcript”开关。2026年10月12日更新：Google正随Google Translate v10.39.34.995726622.4推出Live Translate的记录自动保存选项。"
               },
               {
                 "t": "p",
-                "x": "Gemini在Google生态内表现出色，从把Spark研究导入NotebookLM（现为Gemini Notebook）到在Sheets中编辑都不在话下，但第三方集成却不尽如人意：让它往TickTick里添加任务时，它没有询问就默认用了Google Tasks。Instacart、Angi、Zillow等合作应用因地区而异，身在印度的作者除了Canva之外，日常一个都不用。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-                "cap": "iOS 27上的Siri AI界面。"
-              },
-              {
-                "t": "p",
-                "x": "Siri AI更像是准备好采取行动，而不只是调出信息：无需每次说出应用名称，它就能朗读并管理TickTick任务，还能通过语音把商品加入Blinkit购物车。作者将此归功于Apple更严格的准则、App Store的激励措施，以及Apple India与本地开发者的合作。"
-              },
-              {
-                "t": "p",
-                "x": "对话不再是最突出的功能，在其他应用内执行操作才是。Google为Home应用推出MCP连接是一步好棋，但需要折腾设置，还得订阅Home Premium。作者认为，Google必须让Gemini的跨应用交互简单到不可思议。"
+                "x": "根据Android Authority 9月29日的拆解分析，为保护隐私，连接并使用智能眼镜时，记录保存功能将完全停用。用户可以在智能眼镜上用语音命令开始翻译，在触控板上滑动即可结束会话。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un columnista ve a Siri AI por\nencima de Gemini en lo esencial",
-          "body": "Un columnista de Android Authority afirma que Siri AI actúa en apps como TickTick y Gemini sigue encerrado en Google.",
-          "mini_headline": "Siri AI por encima de Gemini, según una opinión",
+          "headline": "Translate guarda los chats,\nsalvo en gafas inteligentes",
+          "body": "Google Translate guarda ya las transcripciones de Live Translate, pero no con gafas inteligentes conectadas.",
+          "mini_headline": "Translate guarda transcripciones, no en gafas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-                "cap": "Siri AI y Gemini funcionando uno al lado del otro."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+                "cap": "Pantalla de inicio de Google Translate"
               },
               {
                 "t": "p",
-                "x": "El columnista esperaba una comparación desigual, pero descubrió que el nuevo Siri AI se integró de forma más natural en su rutina diaria en poco tiempo, mientras que Gemini todavía se siente desconectado del resto de las apps de su teléfono."
+                "x": "Google Translate ha estado probando un interruptor “Auto-save transcript” en los ajustes de Live Translate para usuarios móviles. Actualización, 12 de octubre de 2026: Google está desplegando la opción de guardado automático de transcripciones de Live Translate con Google Translate v10.39.34.995726622.4."
               },
               {
                 "t": "p",
-                "x": "Gemini destaca dentro del ecosistema de Google, desde llevar investigaciones de Spark a NotebookLM (ahora Gemini Notebook) hasta editar en Sheets, pero las integraciones con terceros se quedan cortas: al pedirle que añadiera una tarea a TickTick, recurrió a Google Tasks sin preguntar. Sus apps asociadas, como Instacart, Angi y Zillow, dependen de la región, y el autor, que vive en India, no usa ninguna a diario salvo Canva."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-                "cap": "Interfaz de Siri AI en iOS 27."
-              },
-              {
-                "t": "p",
-                "x": "Siri AI parece más dispuesto a actuar que a limitarse a mostrar información: lee y gestiona las tareas de TickTick sin nombrar la app cada vez, y añade productos a un carrito de Blinkit por voz. El autor lo atribuye a las directrices más estrictas de Apple, a los incentivos de la App Store y al trabajo de Apple India con desarrolladores locales."
-              },
-              {
-                "t": "p",
-                "x": "La conversación ya no es la función más destacada; lo es actuar dentro de otras apps. Las conexiones MCP de Google para la app Home son un buen paso, pero requieren ajustes y una suscripción a Home Premium. Google, sostiene el autor, debe lograr que las interacciones entre apps con Gemini sean absurdamente sencillas."
+                "x": "El análisis del código que Android Authority publicó el 29 de septiembre reveló que el guardado de transcripciones se desactivará por completo mientras haya gafas inteligentes conectadas y en uso, para proteger la privacidad. Los usuarios podrán iniciar la traducción en las gafas con comandos de voz y terminar la sesión deslizando el dedo por el panel táctil."
               }
             ]
           }
@@ -1797,145 +593,1159 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "핵심에선 Siri AI가\nGemini보다 낫다는 평",
-          "body": "Siri AI는 앱 안에서 움직이고 Gemini는 Google 안에 갇혔다고 본다.",
-          "mini_headline": "Siri AI가 Gemini보다 낫다는 시각",
+          "headline": "번역 대화 자동 저장,\n스마트 글래스는 예외",
+          "body": "Live Translate 기록이 자동 저장되며 스마트 글래스 연결 땐 꺼진다.",
+          "mini_headline": "Translate 기록 자동 저장, 글래스는 제외",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-                "cap": "나란히 실행 중인 Siri AI와 Gemini."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+                "cap": "Google Translate 홈 화면"
               },
               {
                 "t": "p",
-                "x": "칼럼니스트는 일방적인 비교가 되리라 예상했지만, 새 Siri AI는 짧은 시간 만에 일상에 더 자연스럽게 녹아들었고, Gemini는 여전히 휴대폰의 다른 앱들과 따로 노는 느낌이었다."
+                "x": "Google Translate는 모바일 사용자를 대상으로 Live Translate 설정에서 “Auto-save transcript” 토글을 시험해 왔다. 2026년 10월 12일 업데이트: Google이 Google Translate v10.39.34.995726622.4와 함께 Live Translate의 기록 자동 저장 옵션을 배포하고 있다."
               },
               {
                 "t": "p",
-                "x": "Gemini는 Spark 리서치를 NotebookLM(현재 Gemini Notebook)으로 옮기는 일부터 Sheets 편집까지 Google 생태계 안에서는 뛰어나지만, 서드파티 연동은 부족하다. TickTick에 할 일을 추가해 달라고 하자 묻지도 않고 Google Tasks를 택했다. Instacart, Angi, Zillow 같은 파트너 앱은 지역에 따라 달라서, 인도에 사는 필자는 Canva를 빼면 어느 것도 매일 쓰지 않는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-                "cap": "iOS 27의 Siri AI 인터페이스."
-              },
-              {
-                "t": "p",
-                "x": "Siri AI는 정보를 불러오는 데 그치지 않고 실제로 행동할 준비가 더 된 듯하다. 매번 앱 이름을 말하지 않아도 TickTick 할 일을 읽어 주고 관리하며, 음성으로 Blinkit 장바구니에 물건을 담는다. 필자는 Apple의 더 엄격한 가이드라인, App Store 인센티브, 그리고 Apple India가 현지 개발자들과 해 온 작업을 그 이유로 꼽는다."
-              },
-              {
-                "t": "p",
-                "x": "이제 돋보이는 기능은 대화가 아니라 다른 앱 안에서 행동하는 능력이다. Google이 Home 앱에 붙인 MCP 연결은 좋은 행보지만, 손이 가는 설정과 Home Premium 구독이 필요하다. 필자는 Google이 Gemini의 앱 간 연동을 어이없을 만큼 쉽게 만들어야 한다고 주장한다."
+                "x": "Android Authority가 9월 29일 공개한 코드 분석에 따르면, 스마트 글래스를 연결해 사용하는 동안에는 개인정보 보호를 위해 기록 저장이 완전히 꺼진다. 스마트 글래스에서는 음성 명령으로 번역을 시작하고, 터치패드를 스와이프해 세션을 끝낼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "肝心な所でSiri AIが\nGeminiに勝るとの声",
-          "body": "Siri AIはアプリ内で動き、GeminiはGoogleの中に閉じたままだとコラムは説く。",
-          "mini_headline": "Siri AIがGeminiに勝るという見方",
+          "headline": "翻訳の会話を自動保存、\nスマートグラスは除外",
+          "body": "Live Translateの記録が自動保存されるが、スマートグラス接続時は無効になる。",
+          "mini_headline": "Translateが記録を自動保存、グラスは対象外",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-                "cap": "並べて動かしたSiri AIとGemini。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+                "cap": "Google Translateのホーム画面"
               },
               {
                 "t": "p",
-                "x": "一方的な比較になると予想していたコラムニストだったが、新しいSiri AIは短期間で日々の習慣により自然になじんだ。一方Geminiは、今もスマートフォン上のほかのアプリから切り離された印象だという。"
+                "x": "Google Translateは、モバイルユーザー向けにLive Translateの設定で「Auto-save transcript」トグルをテストしてきた。2026年10月12日更新：GoogleはGoogle Translate v10.39.34.995726622.4で、Live Translateの記録自動保存オプションを配信している。"
               },
               {
                 "t": "p",
-                "x": "GeminiはGoogleのエコシステム内では優秀で、SparkのリサーチをNotebookLM(現Gemini Notebook)に取り込むことからSheetsでの編集までこなすが、サードパーティー連携は物足りない。TickTickにタスクを追加するよう頼むと、確認もせずにGoogle Tasksを使った。Instacart、Angi、Zillowといった提携アプリは地域に左右され、インドに住む筆者はCanva以外どれも日常的には使っていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-                "cap": "iOS 27のSiri AIのインターフェース。"
-              },
-              {
-                "t": "p",
-                "x": "Siri AIは情報を呼び出すだけでなく、行動に移す準備がより整っているように感じられる。毎回アプリ名を言わなくてもTickTickのタスクを読み上げて管理し、音声でBlinkitのカートに商品を追加する。筆者は、Appleのより厳格なガイドライン、App Storeのインセンティブ、そしてApple Indiaによる現地開発者との取り組みがその理由だとみる。"
-              },
-              {
-                "t": "p",
-                "x": "もはや際立つ機能は会話ではなく、ほかのアプリ内で行動することだ。GoogleがHomeアプリ向けに用意したMCP接続は堅実な一手だが、手間のかかる設定とHome Premiumへの加入が必要になる。筆者は、GoogleはGeminiのアプリ間連携をあきれるほど簡単にすべきだと主張する。"
+                "x": "Android Authorityが9月29日に行った解析によると、スマートグラスを接続して使用している間は、プライバシー保護のため記録の保存が完全に無効になる。スマートグラスでは音声コマンドで翻訳を開始でき、タッチパッドをスワイプするとセッションが終了する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一位作者认为Siri AI\n关键处胜过Gemini",
-          "body": "专栏认为Siri AI能在应用内操作，而Gemini仍困在Google生态里。",
-          "mini_headline": "一种观点：Siri AI胜过Gemini",
+          "headline": "翻译自动保存对话，\n智能眼镜除外",
+          "body": "Translate推出Live Translate记录自动保存，连接智能眼镜时关闭。",
+          "mini_headline": "Translate自动保存记录，眼镜除外",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-                "cap": "并排运行的Siri AI和Gemini。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+                "cap": "Google Translate主屏幕"
               },
               {
                 "t": "p",
-                "x": "这位专栏作者原以为会是一边倒的比较，结果却发现新版Siri AI在短时间内更自然地融入了日常，而Gemini依然感觉与手机上的其他应用脱节。"
+                "x": "Google Translate一直在为移动端用户测试Live Translate设置中的“Auto-save transcript”开关。2026年10月12日更新：Google正随Google Translate v10.39.34.995726622.4推出Live Translate的记录自动保存选项。"
               },
               {
                 "t": "p",
-                "x": "Gemini在Google生态内表现出色，从把Spark研究导入NotebookLM（现为Gemini Notebook）到在Sheets中编辑都不在话下，但第三方集成却不尽如人意：让它往TickTick里添加任务时，它没有询问就默认用了Google Tasks。Instacart、Angi、Zillow等合作应用因地区而异，身在印度的作者除了Canva之外，日常一个都不用。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-                "cap": "iOS 27上的Siri AI界面。"
-              },
-              {
-                "t": "p",
-                "x": "Siri AI更像是准备好采取行动，而不只是调出信息：无需每次说出应用名称，它就能朗读并管理TickTick任务，还能通过语音把商品加入Blinkit购物车。作者将此归功于Apple更严格的准则、App Store的激励措施，以及Apple India与本地开发者的合作。"
-              },
-              {
-                "t": "p",
-                "x": "对话不再是最突出的功能，在其他应用内执行操作才是。Google为Home应用推出MCP连接是一步好棋，但需要折腾设置，还得订阅Home Premium。作者认为，Google必须让Gemini的跨应用交互简单到不可思议。"
+                "x": "根据Android Authority 9月29日的拆解分析，为保护隐私，连接并使用智能眼镜时，记录保存功能将完全停用。用户可以在智能眼镜上用语音命令开始翻译，在触控板上滑动即可结束会话。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un columnista ve a Siri AI por\nencima de Gemini en lo esencial",
-          "body": "Un columnista de Android Authority afirma que Siri AI actúa en apps como TickTick y Gemini sigue encerrado en Google.",
-          "mini_headline": "Siri AI por encima de Gemini, según una opinión",
+          "headline": "Translate guarda los chats,\nsalvo en gafas inteligentes",
+          "body": "Google Translate guarda ya las transcripciones de Live Translate, pero no con gafas inteligentes conectadas.",
+          "mini_headline": "Translate guarda transcripciones, no en gafas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462.jpg",
-                "cap": "Siri AI y Gemini funcionando uno al lado del otro."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+                "cap": "Pantalla de inicio de Google Translate"
               },
               {
                 "t": "p",
-                "x": "El columnista esperaba una comparación desigual, pero descubrió que el nuevo Siri AI se integró de forma más natural en su rutina diaria en poco tiempo, mientras que Gemini todavía se siente desconectado del resto de las apps de su teléfono."
+                "x": "Google Translate ha estado probando un interruptor “Auto-save transcript” en los ajustes de Live Translate para usuarios móviles. Actualización, 12 de octubre de 2026: Google está desplegando la opción de guardado automático de transcripciones de Live Translate con Google Translate v10.39.34.995726622.4."
               },
               {
                 "t": "p",
-                "x": "Gemini destaca dentro del ecosistema de Google, desde llevar investigaciones de Spark a NotebookLM (ahora Gemini Notebook) hasta editar en Sheets, pero las integraciones con terceros se quedan cortas: al pedirle que añadiera una tarea a TickTick, recurrió a Google Tasks sin preguntar. Sus apps asociadas, como Instacart, Angi y Zillow, dependen de la región, y el autor, que vive en India, no usa ninguna a diario salvo Canva."
+                "x": "El análisis del código que Android Authority publicó el 29 de septiembre reveló que el guardado de transcripciones se desactivará por completo mientras haya gafas inteligentes conectadas y en uso, para proteger la privacidad. Los usuarios podrán iniciar la traducción en las gafas con comandos de voz y terminar la sesión deslizando el dedo por el panel táctil."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-googlebook-os-review",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Googlebook OS,\n스마트폰 이후의 PC",
+      "body": "9to5Google은 Googlebook OS를 스마트폰 이후의 PC로 평했다.",
+      "mini_headline": "Googlebook OS 리뷰",
+      "tool": "Gadgets",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/12/googlebook-os-review/",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+          },
+          {
+            "t": "p",
+            "x": "Windows 8부터 iPad 이후 Mac이 전체 화면 앱을 들인 시기까지, 터치 시대의 교훈과 장점을 PCs(개인용 컴퓨터)로 옮기려던 시도는 하나같이 실패했다. 9to5Google 리뷰어는 Googlebook OS를 일주일 넘게 써 보고, Android 스마트폰 세대를 위한 데스크톱 OS의 시작이지만 첫 버전은 아직 거칠다고 평한다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+          },
+          {
+            "t": "p",
+            "x": "Googlebook OS는 겉보기엔 ChromeOS 같은데 막상 써 보면 Android에 가깝다. Chrome은 Android 버전 기반으로 확장 프로그램, 세로 탭, Gemini in Chrome 사이드 패널까지 전부 지원하지만 1.0치고는 기능이 빈약하게 느껴진다."
+          },
+          {
+            "t": "p",
+            "x": "Magic Pointer는 사실상 휴대폰의 Gemini 오버레이다. 여기에 Circle to Search까지 들어가 비슷한 기능이 두 개가 됐다. 더 쓸모 있는 AI 기능은 F13 키에 할당된 Rambler 음성 받아쓰기이고, Create My Widget은 생성형 UI, 즉 “컴퓨팅의 미래”를 가져온다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+          },
+          {
+            "t": "p",
+            "x": "10년 묵은 앱 부족 문제는 대부분 그대로이고, Linux 앱 지원 같은 기능이 빠진 건 ChromeOS보다 뒷걸음질한 부분이다. 그래도 일반 사용자에게 치명적인 결함은 없고, 앞으로 업데이트로 못 고칠 근본 문제도 없다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Googlebook OS reviewed as a\npost-smartphone PC",
+          "body": "9to5Google's review casts Googlebook OS as a post-smartphone PC, after touch-era attempts from Windows 8 onward failed.",
+          "mini_headline": "Googlebook OS, reviewed",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "All attempts to bring the lessons and benefits of the touch era to PCs have failed, from Windows 8 to the era after the iPad when the Mac gained fullscreen apps. After using Googlebook OS for over a week, 9to5Google's reviewer sees the beginnings of a desktop OS for the Android smartphone generation, but a rough first take."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-6-e1781538836816.jpg",
-                "cap": "Interfaz de Siri AI en iOS 27."
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
               },
               {
                 "t": "p",
-                "x": "Siri AI parece más dispuesto a actuar que a limitarse a mostrar información: lee y gestiona las tareas de TickTick sin nombrar la app cada vez, y añade productos a un carrito de Blinkit por voz. El autor lo atribuye a las directrices más estrictas de Apple, a los incentivos de la App Store y al trabajo de Apple India con desarrolladores locales."
+                "x": "Googlebook OS looks like ChromeOS on the surface but feels like Android. Chrome is built on the Android version, with extensions, vertical tabs and the full Gemini in Chrome side panel, but it feels barebones for 1.0."
               },
               {
                 "t": "p",
-                "x": "La conversación ya no es la función más destacada; lo es actuar dentro de otras apps. Las conexiones MCP de Google para la app Home son un buen paso, pero requieren ajustes y una suscripción a Home Premium. Google, sostiene el autor, debe lograr que las interacciones entre apps con Gemini sean absurdamente sencillas."
+                "x": "Magic Pointer is basically the Gemini overlay on phones, and Circle to Search ships too, making two similar features. The more useful AI feature is Rambler voice dictation on the F13 key, while Create My Widget brings generative UI: “the future of computing.”"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "The decade-old app gap remains largely unfixed and missing features like Linux app support are steps back from ChromeOS. Still, there are no fatal flaws for the general user and no foundational issues that can't be remedied in future updates."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Googlebook OS,\n스마트폰 이후의 PC",
+          "body": "9to5Google은 Googlebook OS를 스마트폰 이후의 PC로 평했다.",
+          "mini_headline": "Googlebook OS 리뷰",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Windows 8부터 iPad 이후 Mac이 전체 화면 앱을 들인 시기까지, 터치 시대의 교훈과 장점을 PCs(개인용 컴퓨터)로 옮기려던 시도는 하나같이 실패했다. 9to5Google 리뷰어는 Googlebook OS를 일주일 넘게 써 보고, Android 스마트폰 세대를 위한 데스크톱 OS의 시작이지만 첫 버전은 아직 거칠다고 평한다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+              },
+              {
+                "t": "p",
+                "x": "Googlebook OS는 겉보기엔 ChromeOS 같은데 막상 써 보면 Android에 가깝다. Chrome은 Android 버전 기반으로 확장 프로그램, 세로 탭, Gemini in Chrome 사이드 패널까지 전부 지원하지만 1.0치고는 기능이 빈약하게 느껴진다."
+              },
+              {
+                "t": "p",
+                "x": "Magic Pointer는 사실상 휴대폰의 Gemini 오버레이다. 여기에 Circle to Search까지 들어가 비슷한 기능이 두 개가 됐다. 더 쓸모 있는 AI 기능은 F13 키에 할당된 Rambler 음성 받아쓰기이고, Create My Widget은 생성형 UI, 즉 “컴퓨팅의 미래”를 가져온다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "10년 묵은 앱 부족 문제는 대부분 그대로이고, Linux 앱 지원 같은 기능이 빠진 건 ChromeOS보다 뒷걸음질한 부분이다. 그래도 일반 사용자에게 치명적인 결함은 없고, 앞으로 업데이트로 못 고칠 근본 문제도 없다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Googlebook OS、\nポストスマホのPCを評価",
+          "body": "9to5GoogleはGooglebook OSをスマホ以後のPCと評した。",
+          "mini_headline": "Googlebook OSレビュー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Windows 8から、iPad登場後にMacがフルスクリーンアプリを取り入れた時代まで、タッチ時代の教訓と利点をPCsへ持ち込む試みはすべて失敗してきた。9to5GoogleのレビュアーはGooglebook OSを1週間以上使い、Androidスマートフォン世代向けデスクトップOSの萌芽を見るが、まだ粗削りな第一歩だという。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+              },
+              {
+                "t": "p",
+                "x": "Googlebook OSは見た目こそChromeOSに似ているが、使用感はAndroidに近い。ChromeはAndroid版をベースにしており、拡張機能、縦型タブ、完全なGemini in Chromeサイドパネルを備えるものの、1.0としては機能が乏しく感じられる。"
+              },
+              {
+                "t": "p",
+                "x": "Magic Pointerは実質的にスマートフォンのGeminiオーバーレイで、Circle to Searchも搭載されるため、似た機能が2つ並ぶ。より有用なAI機能はF13キーに割り当てられたRambler音声入力で、Create My Widgetは生成UIという「コンピューティングの未来」をもたらす。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "10年来のアプリ不足はほぼ解消されておらず、Linuxアプリ対応などの欠落はChromeOSからの後退だ。それでも一般ユーザーにとって致命的な欠陥はなく、今後のアップデートで直せない根本的な問題もない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Googlebook OS\n评测：后智能手机时代PC",
+          "body": "9to5Google评测认为，Googlebook OS是后智能手机时代的PC。",
+          "mini_headline": "Googlebook OS评测",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "从Windows 8到iPad问世后Mac加入全屏应用的时代，把触屏时代的经验与优势带到PCs上的尝试全都失败了。9to5Google的评测者使用Googlebook OS一周多后认为，它是面向Android智能手机一代的桌面OS的雏形，但第一版还很粗糙。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+              },
+              {
+                "t": "p",
+                "x": "Googlebook OS表面上像ChromeOS，用起来却像Android。Chrome基于Android版本打造，支持扩展、垂直标签页以及完整的Gemini in Chrome侧边栏，但作为1.0版本仍显得过于简陋。"
+              },
+              {
+                "t": "p",
+                "x": "Magic Pointer基本上就是手机上的Gemini浮层，而Circle to Search也一并提供，于是出现了两个相似功能。更实用的AI功能是F13键上的Rambler语音输入，而Create My Widget带来了生成式UI，即“计算的未来”。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "存在了十年的应用缺口大体仍未解决，缺少Linux应用支持等功能也比ChromeOS有所倒退。不过，对普通用户来说没有致命缺陷，也没有无法通过未来更新弥补的根本性问题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Googlebook OS, analizado como\nun PC posterior al smartphone",
+          "body": "9to5Google ve en Googlebook OS un PC posterior al smartphone, tras fracasar los intentos táctiles desde Windows 8.",
+          "mini_headline": "Googlebook OS, a prueba",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Todos los intentos de llevar a los PCs las lecciones y ventajas de la era táctil han fracasado, desde Windows 8 hasta la etapa posterior al iPad en la que el Mac incorporó apps a pantalla completa. Tras usar Googlebook OS durante más de una semana, el autor de la reseña de 9to5Google ve el inicio de un sistema operativo de escritorio para la generación del smartphone Android, aunque en una primera versión tosca."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+              },
+              {
+                "t": "p",
+                "x": "Googlebook OS parece ChromeOS en la superficie, pero se siente como Android. Chrome está basado en la versión de Android, con extensiones, pestañas verticales y el panel lateral completo de Gemini in Chrome, pero resulta escaso para una versión 1.0."
+              },
+              {
+                "t": "p",
+                "x": "Magic Pointer es básicamente la capa de Gemini de los teléfonos, y también se incluye Circle to Search, con lo que hay dos funciones similares. La función de IA más útil es el dictado por voz Rambler en la tecla F13, mientras que Create My Widget aporta una interfaz generativa: “el futuro de la informática”."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "La carencia de apps, que arrastra una década, sigue en gran parte sin resolverse, y la falta de funciones como la compatibilidad con apps de Linux supone un paso atrás respecto a ChromeOS. Aun así, no hay fallos graves para el usuario general ni problemas de fondo que no puedan corregirse en futuras actualizaciones."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Googlebook OS,\n스마트폰 이후의 PC",
+          "body": "9to5Google은 Googlebook OS를 스마트폰 이후의 PC로 평했다.",
+          "mini_headline": "Googlebook OS 리뷰",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Windows 8부터 iPad 이후 Mac이 전체 화면 앱을 들인 시기까지, 터치 시대의 교훈과 장점을 PCs(개인용 컴퓨터)에 옮기려던 시도는 모두 실패했다. 9to5Google 리뷰어는 Googlebook OS를 일주일 넘게 써 본 뒤, 이것이 Android 스마트폰 세대를 위한 데스크톱 OS의 시작이지만 아직 거친 첫 버전이라고 본다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+              },
+              {
+                "t": "p",
+                "x": "Googlebook OS는 겉보기엔 ChromeOS 같지만 쓰는 느낌은 Android에 가깝다. Chrome은 Android 버전을 기반으로 하며 확장 프로그램, 세로 탭, Gemini in Chrome 사이드 패널 전체를 지원하지만, 1.0치고는 기능이 빈약하게 느껴진다."
+              },
+              {
+                "t": "p",
+                "x": "Magic Pointer는 사실상 휴대폰의 Gemini 오버레이이며, Circle to Search도 함께 들어가 비슷한 기능이 두 개가 됐다. 더 쓸모 있는 AI 기능은 F13 키에 할당된 Rambler 음성 받아쓰기이고, Create My Widget은 생성형 UI, 즉 “컴퓨팅의 미래”를 가져온다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "10년 묵은 앱 부족 문제는 대부분 그대로이고, Linux 앱 지원 같은 기능이 빠진 점은 ChromeOS보다 후퇴한 부분이다. 그래도 일반 사용자에게 치명적인 결함은 없으며, 향후 업데이트로 고칠 수 없는 근본적 문제도 없다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Googlebook OS、\nポストスマホのPCを評価",
+          "body": "9to5GoogleはGooglebook OSをスマホ以後のPCと評した。",
+          "mini_headline": "Googlebook OSレビュー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Windows 8から、iPad登場後にMacがフルスクリーンアプリを取り入れた時代まで、タッチ時代の教訓と利点をPCsへ持ち込む試みはすべて失敗してきた。9to5GoogleのレビュアーはGooglebook OSを1週間以上使い、Androidスマートフォン世代向けデスクトップOSの萌芽を見るが、まだ粗削りな第一歩だという。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+              },
+              {
+                "t": "p",
+                "x": "Googlebook OSは見た目こそChromeOSに似ているが、使用感はAndroidに近い。ChromeはAndroid版をベースにしており、拡張機能、縦型タブ、完全なGemini in Chromeサイドパネルを備えるものの、1.0としては機能が乏しく感じられる。"
+              },
+              {
+                "t": "p",
+                "x": "Magic Pointerは実質的にスマートフォンのGeminiオーバーレイで、Circle to Searchも搭載されるため、似た機能が2つ並ぶ。より有用なAI機能はF13キーに割り当てられたRambler音声入力で、Create My Widgetは生成UIという「コンピューティングの未来」をもたらす。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "10年来のアプリ不足はほぼ解消されておらず、Linuxアプリ対応などの欠落はChromeOSからの後退だ。それでも一般ユーザーにとって致命的な欠陥はなく、今後のアップデートで直せない根本的な問題もない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Googlebook OS\n评测：后智能手机时代PC",
+          "body": "9to5Google评测认为，Googlebook OS是后智能手机时代的PC。",
+          "mini_headline": "Googlebook OS评测",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "从Windows 8到iPad问世后Mac加入全屏应用的时代，把触屏时代的经验与优势带到PCs上的尝试全都失败了。9to5Google的评测者使用Googlebook OS一周多后认为，它是面向Android智能手机一代的桌面OS的雏形，但第一版还很粗糙。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+              },
+              {
+                "t": "p",
+                "x": "Googlebook OS表面上像ChromeOS，用起来却像Android。Chrome基于Android版本打造，支持扩展、垂直标签页以及完整的Gemini in Chrome侧边栏，但作为1.0版本仍显得过于简陋。"
+              },
+              {
+                "t": "p",
+                "x": "Magic Pointer基本上就是手机上的Gemini浮层，而Circle to Search也一并提供，于是出现了两个相似功能。更实用的AI功能是F13键上的Rambler语音输入，而Create My Widget带来了生成式UI，即“计算的未来”。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "存在了十年的应用缺口大体仍未解决，缺少Linux应用支持等功能也比ChromeOS有所倒退。不过，对普通用户来说没有致命缺陷，也没有无法通过未来更新弥补的根本性问题。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Googlebook OS, analizado como\nun PC posterior al smartphone",
+          "body": "9to5Google ve en Googlebook OS un PC posterior al smartphone, tras fracasar los intentos táctiles desde Windows 8.",
+          "mini_headline": "Googlebook OS, a prueba",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "Todos los intentos de llevar a los PCs las lecciones y ventajas de la era táctil han fracasado, desde Windows 8 hasta la etapa posterior al iPad en la que el Mac incorporó apps a pantalla completa. Tras usar Googlebook OS durante más de una semana, el autor de la reseña de 9to5Google ve el inicio de un sistema operativo de escritorio para la generación del smartphone Android, aunque en una primera versión tosca."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+              },
+              {
+                "t": "p",
+                "x": "Googlebook OS parece ChromeOS en la superficie, pero se siente como Android. Chrome está basado en la versión de Android, con extensiones, pestañas verticales y el panel lateral completo de Gemini in Chrome, pero resulta escaso para una versión 1.0."
+              },
+              {
+                "t": "p",
+                "x": "Magic Pointer es básicamente la capa de Gemini de los teléfonos, y también se incluye Circle to Search, con lo que hay dos funciones similares. La función de IA más útil es el dictado por voz Rambler en la tecla F13, mientras que Create My Widget aporta una interfaz generativa: “el futuro de la informática”."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "La carencia de apps, que arrastra una década, sigue en gran parte sin resolverse, y la falta de funciones como la compatibilidad con apps de Linux supone un paso atrás respecto a ChromeOS. Aun así, no hay fallos graves para el usuario general ni problemas de fondo que no puedan corregirse en futuras actualizaciones."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-mechrevo-x10-ai-ssd",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "RTX Spark 미니PC\nAI SSD에 기댄다",
+      "body": "Mechrevo X10은 AI SSD로 최대 1220억 파라미터 모델을 담는다.",
+      "mini_headline": "Mechrevo의 AI SSD 미니 PC",
+      "tool": "Gadgets",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+            "cap": "Mechrevo의 새 미니 PC는 SSD를 써서 AI 모델을 돌린다"
+          },
+          {
+            "t": "p",
+            "x": "중국 PC 제조사 Mechrevo가 대형 AI 모델을 로컬에서 돌리는 데 주로 초점을 맞춘 미니 PC Master Road X10을 준비 중이다. Nvidia의 RTX Spark 플랫폼을 바탕으로 20코어 Grace CPU, 최대 6,144개 CUDA 코어를 갖춘 Blackwell GPU, 최대 128 GB LPDDR5X 통합 메모리를 얹었다."
+          },
+          {
+            "t": "p",
+            "x": "자체 개발한 AI SSD는 대형 AI 모델 일부를 DRAM에서 NAND 플래시로 넘기고, 앞서 처리한 컨텍스트를 보존했다가 다시 쓴다. Mechrevo는 덕분에 X10이 800억, 1200억, 심지어 1220억 매개변수 모델도 빠른 응답 성능을 유지하며 돌린다고 주장한다. SSD 용량은 공개하지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 9월에 AI SSD가 지원 가능한 모델 작업량을 최대 5.7배 늘리고 프리필 단계를 최대 95% 가속한다고 주장했다."
+          },
+          {
+            "t": "p",
+            "x": "다만 Mechrevo는 상세 벤치마크와 양자화 설정, 테스트 조건을 내놓지 않았다. NAND 플래시는 DRAM보다 상당히 느리다. 가격과 출시일도 아직 알려지지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Mechrevo's RTX Spark mini PC\nleans on an AI SSD",
+          "body": "Mechrevo says its RTX Spark-based Master Road X10 uses an AI SSD to hold models of up to 122 billion parameters.",
+          "mini_headline": "Mechrevo's AI SSD mini PC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+                "cap": "Mechrevo's new mini-PC can use its SSD to run AI models"
+              },
+              {
+                "t": "p",
+                "x": "Chinese PC manufacturer Mechrevo is preparing the Master Road X10, a mini PC primarily designed for running large AI models locally. It uses Nvidia's RTX Spark platform: a 20-core Grace CPU, a Blackwell GPU with up to 6,144 CUDA cores and up to 128 GB of LPDDR5X unified memory."
+              },
+              {
+                "t": "p",
+                "x": "Its proprietary AI SSD can offload portions of large AI models from DRAM to NAND flash and preserve and reuse previously processed context. Mechrevo claims this lets the X10 run models with 80 billion, 120 billion and even 122 billion parameters while maintaining responsive performance. The SSD capacity hasn't been specified."
+              },
+              {
+                "t": "p",
+                "x": "In September, the company claimed its AI SSD could increase supported model workloads by up to 5.7 times and accelerate the prefill stage by as much as 95%."
+              },
+              {
+                "t": "p",
+                "x": "Mechrevo has not published detailed benchmarks, quantisation settings or test conditions, and NAND flash is considerably slower than DRAM. Pricing and release date remain unknown."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "RTX Spark 미니PC\nAI SSD에 기댄다",
+          "body": "Mechrevo X10은 AI SSD로 최대 1220억 파라미터 모델을 담는다.",
+          "mini_headline": "Mechrevo의 AI SSD 미니 PC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+                "cap": "Mechrevo의 새 미니 PC는 SSD를 써서 AI 모델을 돌린다"
+              },
+              {
+                "t": "p",
+                "x": "중국 PC 제조사 Mechrevo가 대형 AI 모델을 로컬에서 돌리는 데 주로 초점을 맞춘 미니 PC Master Road X10을 준비 중이다. Nvidia의 RTX Spark 플랫폼을 바탕으로 20코어 Grace CPU, 최대 6,144개 CUDA 코어를 갖춘 Blackwell GPU, 최대 128 GB LPDDR5X 통합 메모리를 얹었다."
+              },
+              {
+                "t": "p",
+                "x": "자체 개발한 AI SSD는 대형 AI 모델 일부를 DRAM에서 NAND 플래시로 넘기고, 앞서 처리한 컨텍스트를 보존했다가 다시 쓴다. Mechrevo는 덕분에 X10이 800억, 1200억, 심지어 1220억 매개변수 모델도 빠른 응답 성능을 유지하며 돌린다고 주장한다. SSD 용량은 공개하지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 9월에 AI SSD가 지원 가능한 모델 작업량을 최대 5.7배 늘리고 프리필 단계를 최대 95% 가속한다고 주장했다."
+              },
+              {
+                "t": "p",
+                "x": "다만 Mechrevo는 상세 벤치마크와 양자화 설정, 테스트 조건을 내놓지 않았다. NAND 플래시는 DRAM보다 상당히 느리다. 가격과 출시일도 아직 알려지지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "RTX SparkのミニPC\nAI SSDを活用",
+          "body": "MechrevoのX10はAI SSDで最大1220億パラメータのモデルを扱う。",
+          "mini_headline": "MechrevoのAI SSDミニPC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+                "cap": "Mechrevoの新しいミニPCは、SSDを使ってAIモデルを実行できる"
+              },
+              {
+                "t": "p",
+                "x": "中国のPCメーカーMechrevoは、大規模AIモデルをローカルで動かすことを主眼としたミニPC「Master Road X10」を準備している。NvidiaのRTX Sparkプラットフォームを採用し、20コアのGrace CPU、最大6,144基のCUDAコアを持つBlackwell GPU、最大128 GBのLPDDR5Xユニファイドメモリを備える。"
+              },
+              {
+                "t": "p",
+                "x": "独自のAI SSDは、大規模AIモデルの一部をDRAMからNANDフラッシュへ退避させ、処理済みのコンテキストを保持・再利用できる。Mechrevoによれば、これによりX10は800億、1200億、さらには1220億パラメータのモデルでも応答性を保ったまま実行できるという。SSDの容量は明らかにされていない。"
+              },
+              {
+                "t": "p",
+                "x": "同社は9月、AI SSDによって対応可能なモデルのワークロードを最大5.7倍に増やし、プリフィル段階を最大95%高速化できると主張していた。"
+              },
+              {
+                "t": "p",
+                "x": "Mechrevoは詳細なベンチマークや量子化設定、テスト条件を公表しておらず、NANDフラッシュはDRAMよりかなり遅い。価格と発売日は未定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "RTX Spark迷你主机\n倚重AI SSD",
+          "body": "Mechrevo称，X10借助AI SSD可容纳最高1220亿参数模型。",
+          "mini_headline": "Mechrevo的AI SSD迷你主机",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+                "cap": "Mechrevo的新款迷你主机可利用SSD运行AI模型"
+              },
+              {
+                "t": "p",
+                "x": "中国PC厂商Mechrevo正在准备Master Road X10，这是一款主要为本地运行大型AI模型而设计的迷你主机。它采用Nvidia的RTX Spark平台：20核Grace CPU、最多6,144个CUDA核心的Blackwell GPU，以及最高128 GB的LPDDR5X统一内存。"
+              },
+              {
+                "t": "p",
+                "x": "其自研的AI SSD可将大型AI模型的部分内容从DRAM卸载到NAND闪存，并保存和复用此前处理过的上下文。Mechrevo称，这让X10能够运行800亿、1200亿乃至1220亿参数的模型，同时保持流畅的响应性能。SSD容量尚未公布。"
+              },
+              {
+                "t": "p",
+                "x": "该公司在9月曾声称，其AI SSD可将可支持的模型工作负载最多提升至5.7倍，并将预填充阶段最多加速95%。"
+              },
+              {
+                "t": "p",
+                "x": "Mechrevo尚未公布详细的基准测试、量化设置或测试条件，而且NAND闪存比DRAM慢得多。价格和发布日期仍不得而知。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El mini PC RTX Spark de Mechrevo\nse apoya en un AI SSD",
+          "body": "Según Mechrevo, su Master Road X10 con RTX Spark usa un AI SSD para modelos de hasta 122.000 millones de parámetros.",
+          "mini_headline": "El mini PC con AI SSD de Mechrevo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+                "cap": "El nuevo mini PC de Mechrevo puede usar su SSD para ejecutar modelos de IA"
+              },
+              {
+                "t": "p",
+                "x": "El fabricante chino de PC Mechrevo prepara el Master Road X10, un mini PC diseñado principalmente para ejecutar grandes modelos de IA en local. Utiliza la plataforma RTX Spark de Nvidia: una CPU Grace de 20 núcleos, una GPU Blackwell con hasta 6.144 núcleos CUDA y hasta 128 GB de memoria unificada LPDDR5X."
+              },
+              {
+                "t": "p",
+                "x": "Su AI SSD propio puede descargar partes de grandes modelos de IA de la DRAM a la memoria flash NAND, y conservar y reutilizar el contexto ya procesado. Mechrevo asegura que así el X10 puede ejecutar modelos de 80.000 millones, 120.000 millones e incluso 122.000 millones de parámetros manteniendo un rendimiento ágil. No se ha especificado la capacidad del SSD."
+              },
+              {
+                "t": "p",
+                "x": "En septiembre, la compañía afirmó que su AI SSD podía multiplicar hasta por 5,7 las cargas de trabajo de modelos admitidas y acelerar la fase de prefill hasta un 95%."
+              },
+              {
+                "t": "p",
+                "x": "Mechrevo no ha publicado pruebas de rendimiento detalladas, ajustes de cuantización ni condiciones de prueba, y la memoria flash NAND es bastante más lenta que la DRAM. Se desconocen el precio y la fecha de lanzamiento."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "RTX Spark 미니PC\nAI SSD에 기댄다",
+          "body": "Mechrevo X10은 AI SSD로 최대 1220억 파라미터 모델을 담는다.",
+          "mini_headline": "Mechrevo의 AI SSD 미니 PC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+                "cap": "Mechrevo의 새 미니 PC는 SSD를 활용해 AI 모델을 실행할 수 있다"
+              },
+              {
+                "t": "p",
+                "x": "중국 PC 제조사 Mechrevo가 대형 AI 모델을 로컬에서 돌리는 데 주로 초점을 맞춘 미니 PC Master Road X10을 준비하고 있다. Nvidia의 RTX Spark 플랫폼을 쓰며, 20코어 Grace CPU, 최대 6,144개 CUDA 코어를 갖춘 Blackwell GPU, 최대 128 GB LPDDR5X 통합 메모리로 구성된다."
+              },
+              {
+                "t": "p",
+                "x": "자체 개발한 AI SSD는 대형 AI 모델의 일부를 DRAM에서 NAND 플래시로 넘기고, 이전에 처리한 컨텍스트를 보존해 다시 쓸 수 있다. Mechrevo는 이 덕분에 X10이 800억, 1200억, 심지어 1220억 매개변수 모델도 빠른 응답 성능을 유지하며 실행한다고 주장한다. SSD 용량은 공개되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 9월에 AI SSD가 지원 가능한 모델 작업량을 최대 5.7배 늘리고 프리필 단계를 최대 95% 가속할 수 있다고 주장했다."
+              },
+              {
+                "t": "p",
+                "x": "Mechrevo는 상세 벤치마크, 양자화 설정, 테스트 조건을 공개하지 않았으며, NAND 플래시는 DRAM보다 상당히 느리다. 가격과 출시일은 아직 알려지지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "RTX SparkのミニPC\nAI SSDを活用",
+          "body": "MechrevoのX10はAI SSDで最大1220億パラメータのモデルを扱う。",
+          "mini_headline": "MechrevoのAI SSDミニPC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+                "cap": "Mechrevoの新しいミニPCは、SSDを使ってAIモデルを実行できる"
+              },
+              {
+                "t": "p",
+                "x": "中国のPCメーカーMechrevoは、大規模AIモデルをローカルで動かすことを主眼としたミニPC「Master Road X10」を準備している。NvidiaのRTX Sparkプラットフォームを採用し、20コアのGrace CPU、最大6,144基のCUDAコアを持つBlackwell GPU、最大128 GBのLPDDR5Xユニファイドメモリを備える。"
+              },
+              {
+                "t": "p",
+                "x": "独自のAI SSDは、大規模AIモデルの一部をDRAMからNANDフラッシュへ退避させ、処理済みのコンテキストを保持・再利用できる。Mechrevoによれば、これによりX10は800億、1200億、さらには1220億パラメータのモデルでも応答性を保ったまま実行できるという。SSDの容量は明らかにされていない。"
+              },
+              {
+                "t": "p",
+                "x": "同社は9月、AI SSDによって対応可能なモデルのワークロードを最大5.7倍に増やし、プリフィル段階を最大95%高速化できると主張していた。"
+              },
+              {
+                "t": "p",
+                "x": "Mechrevoは詳細なベンチマークや量子化設定、テスト条件を公表しておらず、NANDフラッシュはDRAMよりかなり遅い。価格と発売日は未定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "RTX Spark迷你主机\n倚重AI SSD",
+          "body": "Mechrevo称，X10借助AI SSD可容纳最高1220亿参数模型。",
+          "mini_headline": "Mechrevo的AI SSD迷你主机",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+                "cap": "Mechrevo的新款迷你主机可利用SSD运行AI模型"
+              },
+              {
+                "t": "p",
+                "x": "中国PC厂商Mechrevo正在准备Master Road X10，这是一款主要为本地运行大型AI模型而设计的迷你主机。它采用Nvidia的RTX Spark平台：20核Grace CPU、最多6,144个CUDA核心的Blackwell GPU，以及最高128 GB的LPDDR5X统一内存。"
+              },
+              {
+                "t": "p",
+                "x": "其自研的AI SSD可将大型AI模型的部分内容从DRAM卸载到NAND闪存，并保存和复用此前处理过的上下文。Mechrevo称，这让X10能够运行800亿、1200亿乃至1220亿参数的模型，同时保持流畅的响应性能。SSD容量尚未公布。"
+              },
+              {
+                "t": "p",
+                "x": "该公司在9月曾声称，其AI SSD可将可支持的模型工作负载最多提升至5.7倍，并将预填充阶段最多加速95%。"
+              },
+              {
+                "t": "p",
+                "x": "Mechrevo尚未公布详细的基准测试、量化设置或测试条件，而且NAND闪存比DRAM慢得多。价格和发布日期仍不得而知。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El mini PC RTX Spark de Mechrevo\nse apoya en un AI SSD",
+          "body": "Según Mechrevo, su Master Road X10 con RTX Spark usa un AI SSD para modelos de hasta 122.000 millones de parámetros.",
+          "mini_headline": "El mini PC con AI SSD de Mechrevo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+                "cap": "El nuevo mini PC de Mechrevo puede usar su SSD para ejecutar modelos de IA"
+              },
+              {
+                "t": "p",
+                "x": "El fabricante chino de PC Mechrevo prepara el Master Road X10, un mini PC diseñado principalmente para ejecutar grandes modelos de IA en local. Utiliza la plataforma RTX Spark de Nvidia: una CPU Grace de 20 núcleos, una GPU Blackwell con hasta 6.144 núcleos CUDA y hasta 128 GB de memoria unificada LPDDR5X."
+              },
+              {
+                "t": "p",
+                "x": "Su AI SSD propio puede descargar partes de grandes modelos de IA de la DRAM a la memoria flash NAND, y conservar y reutilizar el contexto ya procesado. Mechrevo asegura que así el X10 puede ejecutar modelos de 80.000 millones, 120.000 millones e incluso 122.000 millones de parámetros manteniendo un rendimiento ágil. No se ha especificado la capacidad del SSD."
+              },
+              {
+                "t": "p",
+                "x": "En septiembre, la compañía afirmó que su AI SSD podía multiplicar hasta por 5,7 las cargas de trabajo de modelos admitidas y acelerar la fase de prefill hasta un 95%."
+              },
+              {
+                "t": "p",
+                "x": "Mechrevo no ha publicado pruebas de rendimiento detalladas, ajustes de cuantización ni condiciones de prueba, y la memoria flash NAND es bastante más lenta que la DRAM. Se desconocen el precio y la fecha de lanzamiento."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-meta-wonder-full",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Muse Wonder 모델\nMuse 에이전트 구동",
+      "body": "Meta는 새 Muse Wonder 모델이 업계 최고에 맞선다고 밝혔다.",
+      "mini_headline": "Meta의 Muse Wonder 모델",
+      "tool": "Gadgets",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+          },
+          {
+            "t": "p",
+            "x": "Meta가 AI 경쟁에서 뒤처진 시간을 만회하는 중이다. 새로 개편한 Superintelligence Labs 부서의 첫 모델 Muse Spark, 화제를 모은 AI 에이전트 Muse에 이어 이번엔 업계 최고 모델과 정면으로 겨룰 만하다고 주장하는 새 모델 두 종을 내놓는다."
+          },
+          {
+            "t": "p",
+            "x": "새 모델 Muse Wonder와 Muse Wonder Full은 오늘부터 Muse Code 구독자가 쓸 수 있다. Meta에 따르면 Wonder는 Meta Model API로도 이용 가능하다."
+          },
+          {
+            "t": "p",
+            "x": "Meta는 구독자부터 시작해 결국 Muse AI 에이전트를 Wonder로 돌릴 계획이다. “Muse를 쓰는 모든 사람에게 제공할 수 있는” 특화 모델도 만들겠다고 했지만, 두 계획 모두 구체적인 내용이나 일정은 내놓지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 여러 업계 벤치마크로 돌린 내부 테스트 결과를 들어, 새 모델이 GPT-6 Astra, Claude Opus 5.5, Claude Fable 5.1 등 OpenAI와 Anthropic의 주요 모델에 견줄 만하다고 말한다. 성능이 아직 다 드러나지 않은 Google의 Gemini 4 Argon과 비교하면 어느 수준인지는 분명하지 않다."
+          },
+          {
+            "t": "p",
+            "x": "이번 출시도 AI 분야의 주요 세력으로 다시 서려는 Meta의 공격적인 행보 가운데 하나다. Meta는 인재와 인프라에 수십억 달러를 쏟아부었고, 이미지 모델 Muse Image를 비롯해 AI 라인업을 꾸준히 넓혀 왔다. Muse로는 쓸모 있는 AI 에이전트를 대중에게 보급하는 데 힘을 쏟는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Meta's Muse Wonder models\nwill power its Muse agent",
+          "body": "Meta says its new Muse Wonder and Wonder Full models rival the industry's best and will eventually power its Muse agent.",
+          "mini_headline": "Meta's Muse Wonder models",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it’s now launching two new models it claims can go toe-to-toe with the industry’s best."
+              },
+              {
+                "t": "p",
+                "x": "The new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said."
+              },
+              {
+                "t": "p",
+                "x": "Meta says it eventually plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it “can bring to everyone using Muse.” It hasn’t shared specifics or provided a timeline for either."
+              },
+              {
+                "t": "p",
+                "x": "The company says its new models can rival leading models from OpenAI and Anthropic, including GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5.1, pointing to results from internal testing on several industry benchmarks. It’s unclear how they stack up against Google’s Gemini 4 Argon, whose capabilities are still coming into focus."
+              },
+              {
+                "t": "p",
+                "x": "The launches are part of Meta’s aggressive push to reestablish itself as a major force in AI. The company has poured billions into talent and infrastructure and has been steadily expanding its AI lineup, including with image model Muse Image and a heavy focus on bringing useful AI agents to the masses through Muse."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Muse Wonder 모델\nMuse 에이전트 구동",
+          "body": "Meta는 새 Muse Wonder 모델이 업계 최고에 맞선다고 밝혔다.",
+          "mini_headline": "Meta의 Muse Wonder 모델",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Meta가 AI 경쟁에서 뒤처진 시간을 만회하는 중이다. 새로 개편한 Superintelligence Labs 부서의 첫 모델 Muse Spark, 화제를 모은 AI 에이전트 Muse에 이어 이번엔 업계 최고 모델과 정면으로 겨룰 만하다고 주장하는 새 모델 두 종을 내놓는다."
+              },
+              {
+                "t": "p",
+                "x": "새 모델 Muse Wonder와 Muse Wonder Full은 오늘부터 Muse Code 구독자가 쓸 수 있다. Meta에 따르면 Wonder는 Meta Model API로도 이용 가능하다."
+              },
+              {
+                "t": "p",
+                "x": "Meta는 구독자부터 시작해 결국 Muse AI 에이전트를 Wonder로 돌릴 계획이다. “Muse를 쓰는 모든 사람에게 제공할 수 있는” 특화 모델도 만들겠다고 했지만, 두 계획 모두 구체적인 내용이나 일정은 내놓지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 여러 업계 벤치마크로 돌린 내부 테스트 결과를 들어, 새 모델이 GPT-6 Astra, Claude Opus 5.5, Claude Fable 5.1 등 OpenAI와 Anthropic의 주요 모델에 견줄 만하다고 말한다. 성능이 아직 다 드러나지 않은 Google의 Gemini 4 Argon과 비교하면 어느 수준인지는 분명하지 않다."
+              },
+              {
+                "t": "p",
+                "x": "이번 출시도 AI 분야의 주요 세력으로 다시 서려는 Meta의 공격적인 행보 가운데 하나다. Meta는 인재와 인프라에 수십억 달러를 쏟아부었고, 이미지 모델 Muse Image를 비롯해 AI 라인업을 꾸준히 넓혀 왔다. Muse로는 쓸모 있는 AI 에이전트를 대중에게 보급하는 데 힘을 쏟는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Muse Wonderが\nMuseエージェントを駆動",
+          "body": "Metaは新モデルMuse Wonderが業界最高に匹敵すると主張する。",
+          "mini_headline": "MetaのMuse Wonderモデル",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "MetaはAI競争での遅れを取り戻そうとしている。刷新したSuperintelligence Labs部門の初モデルMuse Sparkと、話題のAIエージェントMuseを投入したのに続き、今度は業界トップと互角に渡り合えるとする新モデル2種を投入する。"
+              },
+              {
+                "t": "p",
+                "x": "新モデルのMuse WonderとMuse Wonder Fullは、本日からMuse Codeの契約者が利用できる。WonderはMeta Model API経由でも利用できるとMetaは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Metaによると、まず契約者を対象に、最終的にはMuse AIエージェントをWonderで動かす計画で、「Museを使うすべての人に届けられる」特化型モデルも開発するという。いずれについても詳細や時期は明らかにしていない。"
+              },
+              {
+                "t": "p",
+                "x": "同社は複数の業界ベンチマークでの社内テスト結果を根拠に、新モデルがGPT-6 Astra、Claude Opus 5.5、Claude Fable 5.1といったOpenAIやAnthropicの主要モデルに匹敵するとしている。性能の全容がまだ見えていないGoogleのGemini 4 Argonと比べてどうかは不明だ。"
+              },
+              {
+                "t": "p",
+                "x": "今回の投入は、AIの主要勢力としての地位を取り戻そうとするMetaの積極攻勢の一環だ。同社は人材とインフラに数十億ドル規模を投じ、画像モデルMuse Imageを含めAIラインアップを着実に広げてきたほか、Museを通じて実用的なAIエージェントを大衆に届けることに力を注いでいる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Muse Wonder模型\n将驱动Muse智能体",
+          "body": "Meta称新款Muse Wonder模型可比肩业界顶尖水平，并将最终驱动Muse。",
+          "mini_headline": "Meta的Muse Wonder模型",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Meta正在弥补其在AI竞赛中失去的时间。在推出改组后的Superintelligence Labs部门首款模型Muse Spark和备受关注的AI智能体Muse之后，Meta又推出两款新模型，并称其可与业界最强模型正面抗衡。"
+              },
+              {
+                "t": "p",
+                "x": "新模型Muse Wonder和Muse Wonder Full即日起向Muse Code订阅用户开放。Meta表示，Wonder也可以通过Meta Model API使用。"
+              },
+              {
+                "t": "p",
+                "x": "Meta表示，计划最终用Wonder驱动其Muse AI智能体，先从订阅用户开始，并将开发“可以提供给所有Muse用户”的专用模型。对于这两项计划，Meta都未透露具体细节或时间表。"
+              },
+              {
+                "t": "p",
+                "x": "该公司援引多项行业基准的内部测试结果称，新模型可与OpenAI和Anthropic的领先模型相媲美，包括GPT-6 Astra、Claude Opus 5.5和Claude Fable 5.1。它们与能力尚未完全明朗的Google Gemini 4 Argon相比表现如何，目前尚不清楚。"
+              },
+              {
+                "t": "p",
+                "x": "此次发布是Meta力图重新确立AI领域主要力量地位的激进举措的一部分。该公司已向人才和基础设施投入数十亿美元，并持续扩充AI产品线，包括图像模型Muse Image，同时重点通过Muse把实用的AI智能体带给大众。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los modelos Muse Wonder de Meta\nimpulsarán su agente Muse",
+          "body": "Meta afirma que sus modelos Muse Wonder y Wonder Full rivalizan con los mejores y acabarán impulsando su agente Muse.",
+          "mini_headline": "Los modelos Muse Wonder de Meta",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Meta está recuperando el tiempo perdido en la carrera de la IA. Tras lanzar Muse Spark, el primer modelo de su renovada división Superintelligence Labs, y el comentado agente de IA Muse, ahora presenta dos nuevos modelos que, según afirma, pueden competir de tú a tú con los mejores del sector."
+              },
+              {
+                "t": "p",
+                "x": "Los nuevos modelos, Muse Wonder y Muse Wonder Full, están disponibles desde hoy para los suscriptores de Muse Code. Wonder también se puede usar a través de Meta Model API, según Meta."
+              },
+              {
+                "t": "p",
+                "x": "Meta afirma que con el tiempo planea impulsar su agente de IA Muse con Wonder, empezando por los suscriptores, y que desarrollará modelos especializados que “pueda llevar a todos los que usan Muse”. No ha dado detalles ni plazos para ninguna de las dos cosas."
+              },
+              {
+                "t": "p",
+                "x": "La compañía asegura que sus nuevos modelos pueden rivalizar con los modelos líderes de OpenAI y Anthropic, como GPT-6 Astra, Claude Opus 5.5 y Claude Fable 5.1, y se apoya en los resultados de pruebas internas en varios benchmarks del sector. No está claro cómo se comparan con Gemini 4 Argon de Google, cuyas capacidades aún se están perfilando."
+              },
+              {
+                "t": "p",
+                "x": "Los lanzamientos forman parte de la ofensiva de Meta para volver a consolidarse como una fuerza importante en la IA. La compañía ha invertido miles de millones en talento e infraestructura y ha ampliado de forma constante su catálogo de IA, incluido el modelo de imagen Muse Image, con un fuerte énfasis en llevar agentes de IA útiles al gran público a través de Muse."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Muse Wonder 모델\nMuse 에이전트 구동",
+          "body": "Meta는 새 Muse Wonder 모델이 업계 최고에 맞선다고 밝혔다.",
+          "mini_headline": "Meta의 Muse Wonder 모델",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Meta가 AI 경쟁에서 뒤처진 시간을 만회하고 있다. 새로 개편한 Superintelligence Labs 부서의 첫 모델 Muse Spark와 화제를 모은 AI 에이전트 Muse를 내놓은 데 이어, 이번에는 업계 최고 모델과 정면으로 겨룰 수 있다고 주장하는 새 모델 두 종을 출시한다."
+              },
+              {
+                "t": "p",
+                "x": "새 모델 Muse Wonder와 Muse Wonder Full은 오늘부터 Muse Code 구독자가 쓸 수 있다. Meta는 Wonder를 Meta Model API로도 이용할 수 있다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Meta는 구독자부터 시작해 결국 Muse AI 에이전트를 Wonder로 구동할 계획이며, “Muse를 쓰는 모든 사람에게 제공할 수 있는” 특화 모델도 개발하겠다고 밝혔다. 두 계획 모두 구체적인 내용이나 일정은 공개하지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 여러 업계 벤치마크에 대한 내부 테스트 결과를 근거로, 새 모델이 GPT-6 Astra, Claude Opus 5.5, Claude Fable 5.1 등 OpenAI와 Anthropic의 주요 모델에 견줄 만하다고 말한다. 아직 성능이 다 드러나지 않은 Google의 Gemini 4 Argon과 비교해 어떤 수준인지는 분명하지 않다."
+              },
+              {
+                "t": "p",
+                "x": "이번 출시는 AI 분야의 주요 세력으로 다시 자리 잡으려는 Meta의 공격적인 행보의 일환이다. Meta는 인재와 인프라에 수십억 달러를 쏟아부었고, 이미지 모델 Muse Image를 비롯해 AI 라인업을 꾸준히 넓혀 왔으며, Muse를 통해 쓸모 있는 AI 에이전트를 대중에게 보급하는 데 힘을 쏟고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Muse Wonderが\nMuseエージェントを駆動",
+          "body": "Metaは新モデルMuse Wonderが業界最高に匹敵すると主張する。",
+          "mini_headline": "MetaのMuse Wonderモデル",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "MetaはAI競争での遅れを取り戻そうとしている。刷新したSuperintelligence Labs部門の初モデルMuse Sparkと、話題のAIエージェントMuseを投入したのに続き、今度は業界トップと互角に渡り合えるとする新モデル2種を投入する。"
+              },
+              {
+                "t": "p",
+                "x": "新モデルのMuse WonderとMuse Wonder Fullは、本日からMuse Codeの契約者が利用できる。WonderはMeta Model API経由でも利用できるとMetaは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Metaによると、まず契約者を対象に、最終的にはMuse AIエージェントをWonderで動かす計画で、「Museを使うすべての人に届けられる」特化型モデルも開発するという。いずれについても詳細や時期は明らかにしていない。"
+              },
+              {
+                "t": "p",
+                "x": "同社は複数の業界ベンチマークでの社内テスト結果を根拠に、新モデルがGPT-6 Astra、Claude Opus 5.5、Claude Fable 5.1といったOpenAIやAnthropicの主要モデルに匹敵するとしている。性能の全容がまだ見えていないGoogleのGemini 4 Argonと比べてどうかは不明だ。"
+              },
+              {
+                "t": "p",
+                "x": "今回の投入は、AIの主要勢力としての地位を取り戻そうとするMetaの積極攻勢の一環だ。同社は人材とインフラに数十億ドル規模を投じ、画像モデルMuse Imageを含めAIラインアップを着実に広げてきたほか、Museを通じて実用的なAIエージェントを大衆に届けることに力を注いでいる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Muse Wonder模型\n将驱动Muse智能体",
+          "body": "Meta称新款Muse Wonder模型可比肩业界顶尖水平，并将最终驱动Muse。",
+          "mini_headline": "Meta的Muse Wonder模型",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Meta正在弥补其在AI竞赛中失去的时间。在推出改组后的Superintelligence Labs部门首款模型Muse Spark和备受关注的AI智能体Muse之后，Meta又推出两款新模型，并称其可与业界最强模型正面抗衡。"
+              },
+              {
+                "t": "p",
+                "x": "新模型Muse Wonder和Muse Wonder Full即日起向Muse Code订阅用户开放。Meta表示，Wonder也可以通过Meta Model API使用。"
+              },
+              {
+                "t": "p",
+                "x": "Meta表示，计划最终用Wonder驱动其Muse AI智能体，先从订阅用户开始，并将开发“可以提供给所有Muse用户”的专用模型。对于这两项计划，Meta都未透露具体细节或时间表。"
+              },
+              {
+                "t": "p",
+                "x": "该公司援引多项行业基准的内部测试结果称，新模型可与OpenAI和Anthropic的领先模型相媲美，包括GPT-6 Astra、Claude Opus 5.5和Claude Fable 5.1。它们与能力尚未完全明朗的Google Gemini 4 Argon相比表现如何，目前尚不清楚。"
+              },
+              {
+                "t": "p",
+                "x": "此次发布是Meta力图重新确立AI领域主要力量地位的激进举措的一部分。该公司已向人才和基础设施投入数十亿美元，并持续扩充AI产品线，包括图像模型Muse Image，同时重点通过Muse把实用的AI智能体带给大众。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los modelos Muse Wonder de Meta\nimpulsarán su agente Muse",
+          "body": "Meta afirma que sus modelos Muse Wonder y Wonder Full rivalizan con los mejores y acabarán impulsando su agente Muse.",
+          "mini_headline": "Los modelos Muse Wonder de Meta",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Meta está recuperando el tiempo perdido en la carrera de la IA. Tras lanzar Muse Spark, el primer modelo de su renovada división Superintelligence Labs, y el comentado agente de IA Muse, ahora presenta dos nuevos modelos que, según afirma, pueden competir de tú a tú con los mejores del sector."
+              },
+              {
+                "t": "p",
+                "x": "Los nuevos modelos, Muse Wonder y Muse Wonder Full, están disponibles desde hoy para los suscriptores de Muse Code. Wonder también se puede usar a través de Meta Model API, según Meta."
+              },
+              {
+                "t": "p",
+                "x": "Meta afirma que con el tiempo planea impulsar su agente de IA Muse con Wonder, empezando por los suscriptores, y que desarrollará modelos especializados que “pueda llevar a todos los que usan Muse”. No ha dado detalles ni plazos para ninguna de las dos cosas."
+              },
+              {
+                "t": "p",
+                "x": "La compañía asegura que sus nuevos modelos pueden rivalizar con los modelos líderes de OpenAI y Anthropic, como GPT-6 Astra, Claude Opus 5.5 y Claude Fable 5.1, y se apoya en los resultados de pruebas internas en varios benchmarks del sector. No está claro cómo se comparan con Gemini 4 Argon de Google, cuyas capacidades aún se están perfilando."
+              },
+              {
+                "t": "p",
+                "x": "Los lanzamientos forman parte de la ofensiva de Meta para volver a consolidarse como una fuerza importante en la IA. La compañía ha invertido miles de millones en talento e infraestructura y ha ampliado de forma constante su catálogo de IA, incluido el modelo de imagen Muse Image, con un fuerte énfasis en llevar agentes de IA útiles al gran público a través de Muse."
               }
             ]
           }

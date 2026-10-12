@@ -7331,6 +7331,122 @@
           "x": "The authors argue the tombs were built not simply to house the dead but to affect the living, like a modern 3D film, and are now applying similar acoustic and AI techniques to ritual landscapes outdoors."
         }
       ]
+    },
+    "science/science-plato-phasehub-protein-phase": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+          "cap": "Fungi. Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Nanyang Technological University, Singapore, developed two AI tools for predicting which proteins undergo phase separation, the process by which proteins form droplet-like compartments in cells. The work was published in Molecular Plant."
+        },
+        {
+          "t": "p",
+          "x": "PLATO is a database of 5,118 protein sequences, including more than 3,600 that phase-separate and about 1,300 that don't, plus truncated proteins, mutations and engineered variants rare in existing datasets. The team built it by using large language models to mine PubMed papers, then manually checking the results."
+        },
+        {
+          "t": "p",
+          "x": "PhaseHub combines MolPhase predictions across 1,106 species with protein abundance and interaction data to identify multicomponent compartments; users can search proteins, submit sequences and explore interactions. Eukaryotes generally have a higher proportion of predicted phase-separating proteins than bacteria."
+        },
+        {
+          "t": "p",
+          "x": "The researchers say the tools could help study cancer, Alzheimer's, aging and crop improvement. First author Dr. Liang Qiyu says the work \"provides a comprehensive framework for understanding phase-separating proteins.\""
+        }
+      ]
+    },
+    "science/science-ebird-inaturalist-llm-ecology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+          "cap": "A single snow goose feeds with a group of Canada geese, a mutually beneficial interaction often recorded in eBird comments. Credit: Jing-Yi Li"
+        },
+        {
+          "t": "p",
+          "x": "A University of Michigan-led study published in PNAS found that large language models can sort through public nature observations to pull out information about how species interact, using comments from eBird (birds) and iNaturalist (plants and pollinators)."
+        },
+        {
+          "t": "p",
+          "x": "The two case studies covered West Coast lady butterflies and their host plants, and interactions among Michigan birds. In the proof of concept, the approach revealed nonnative plants spreading along the U.S. West Coast that might otherwise have been missed."
+        },
+        {
+          "t": "p",
+          "x": "In one timed comparison, Claude classified nearly 500 comments in about six minutes, versus roughly eight hours for an undergraduate researcher. Lead author Hengxing Zou describes the work as using AI to extend human effort rather than replace scientists' creative work."
+        }
+      ]
+    },
+    "science/science-koc-photonic-optical-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+          "cap": "Experimental setup and optimization strategies for multichannel optical computing. Credit: Communications Engineering (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Koç University assistant professor Uğur Teğin and colleagues published two studies on using light to perform parts of AI computation, which could reduce the energy demands of AI."
+        },
+        {
+          "t": "p",
+          "x": "In Communications Engineering, the team built a programmable photonic neural network that processes an image's red, green and blue channels together instead of converting them to grayscale. In a dermatological classification task, accuracy rose from 68% on raw color pixel data to 98% after optical processing. The system learns from measured results, adapting to real-world imperfections in the optical setup."
+        },
+        {
+          "t": "p",
+          "x": "In Communications Physics, a multimode fiber laser served as a physical processor, encoding image data into light inside the laser cavity. Across recyclable waste, weather and satellite imagery, retinal scans and skin lesions, it reached 85% to 99% accuracy with a simple classifier and far fewer trainable parameters than conventional deep-learning models."
+        },
+        {
+          "t": "p",
+          "x": "The systems still rely on electronic parts such as cameras and control units; faster light-control devices and chip-based optics could shift more of the workload to light."
+        }
+      ]
+    },
+    "science/science-quanta-attention-intelligence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+        },
+        {
+          "t": "p",
+          "x": "Everything that's swept the world since ChatGPT starts, in some sense, with Dzmitry Bahdanau, a 23-year-old intern in a University of Montreal lab in 2014, working with Yoshua Bengio and Kyunghyun Cho on getting neural networks to translate English to French. Results got worse the longer the sentence, because each sentence was crammed into a fixed amount of memory."
+        },
+        {
+          "t": "p",
+          "x": "Bahdanau's trick, “attention,” let the network find the words anywhere in a sentence that most inform the next word of the translation. In 2017 Google's “Attention Is All You Need” introduced the transformer, cited more than 250,000 times; large language models such as ChatGPT and Claude followed."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+        },
+        {
+          "t": "p",
+          "x": "Attention heads compare each word's query with other words' keys, so context becomes math. Llion Jones calls language modeling “AI-complete.” The columnist argues human thought is not purely linguistic, and Jones now thinks attention is not all you need: “You seem to have to jump to something very, very different.”"
+        }
+      ]
+    },
+    "science/science-lensless-cell-imaging-sfpulse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+          "cap": "Glioblastoma cells imaged and reconstructed with the SF-PULSE method. Scale bar: 0.5 mm. Credit: Computational Imaging Group and Molecular Signaling Group, Tampere University."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Tampere University have developed SF-PULSE, a lensless quantitative phase imaging method that combines a neural network with physics-informed image reconstruction. It produces precise quantitative data on living cells from a single image."
+        },
+        {
+          "t": "p",
+          "x": "The compact system can be placed inside a standard cell-culture incubator, allowing living cells to be monitored continuously for hours or even days without staining or other labels. According to first author Igor Shevkunov, SF-PULSE \"can reconstruct quantitative phase information from a single measurement image.\""
+        },
+        {
+          "t": "p",
+          "x": "Because it follows individual cells rather than population averages, the method can track their growth, movement, division and biomass changes over time. The researchers see uses in drug-response studies, toxicity screening and cell-death research. The work is published in Applied Physics Letters."
+        }
+      ]
     }
   }
 }

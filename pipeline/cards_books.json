@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "books",
   "cards": [
     {
-      "id": "rosenbaum-future-of-truth-hallucinated-quotes",
+      "id": "books-caine-prize-kundizeza-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 지어낸 인용,\n진실 다룬 책에 섞였다",
-      "body": "팩트체커 둘이 Steven Rosenbaum의 책에서 가짜 인용 26개를 찾았다.",
-      "mini_headline": "책 속 가짜 AI 인용 26개",
+      "headline": "Caine Prize,\n수상자 AI 의혹에 대응",
+      "body": "Caine Prize가 Simbarashe Kundizeza의 AI 의혹에 답했다.",
+      "mini_headline": "Caine Prize, AI 의혹 대응",
       "tool": "Books",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/06/steven-rosenbaum-future-of-truth-ai-hallucinated-quotes/",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,295 +19,215 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
           },
           {
             "t": "p",
-            "x": "The Future of Truth: How AI Reshapes Reality가 나온 지 닷새 뒤인 2026년 5월 17일, New York Times 기자 Ben Mullin이 익명의 DARPA 연구원이 했다는 인용을 두고 Steven Rosenbaum에게 전화를 걸어 왔다. 이틀 뒤 Times는 책에 AI가 지어낸 인용이 들어 있다는 기사를 1면에 냈다. 행사가 취소됐고, 녹음을 마친 팟캐스트도 전파를 타지 못했다."
+            "x": "Atlantic이 수상자 Simbarashe Kundizeza가 AI를 썼을 수 있다고 의혹을 제기하자, Caine Prize for African Writing이 성명을 냈다."
           },
           {
             "t": "p",
-            "x": "Rosenbaum은 책을 쓴 건 AI가 아니라고 말한다. 자료 정리와 문서 요약, 문장 다듬기에 AI를 썼다는 사실은 밝혀 두었다. 책은 다섯 차례 편집을 거쳤고 수정 추적만 4,000건이 넘었다. 그런데도 AI가 일부 인용을 \"고쳤고\", 매끄럽게 읽히는 오류는 그대로 남았다. Kara Swisher의 말로 실린 인용은 그가 한 적 없는 말이었다. \"제가 잡아냈어야 했습니다. 제 책임이었고, 그 책임을 받아들입니다.\""
-          },
-          {
-            "t": "p",
-            "x": "출판사 BenBella Books는 사람 팩트체커 두 명에게 원고를 한 줄씩 다시 보게 했다. 두 사람은 근거 없는 인용 26개를 찾아 하나하나 1차 출처까지 추적했고, 바로잡거나 풀어 쓰거나 지웠다. The Future of Truth: Truth 2.0 Revised는 Author's Note와 새 장 \"Hallucinations and Repercussions\"를 더해 10월 6일 출간된다."
-          },
-          {
-            "t": "p",
-            "x": "그래도 그는 AI를 끊을 생각이 없다. \"도구를 쓰십시오. 사람의 판단을 고리 안에 두십시오. 공개하고, 검증하고, 실수는 공개적으로 바로잡으십시오.\""
+            "x": "상 측은 짐바브웨 출신 수상자의 AI 사용 의혹을 놓고, 스스로 '인간 중심 절차(human-centred process)'라 부르는 과정에 들어간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hallucinated AI quotes slipped\ninto a book on truth",
-          "body": "Fact-checkers found 26 quotes that didn't hold up in Steven Rosenbaum's book on truth, despite five editorial rounds.",
-          "mini_headline": "26 fake AI quotes in a book",
+          "headline": "Caine Prize responds to\nAI claim against its winner",
+          "body": "The Caine Prize initiates a human-centred process after claims its winner Simbarashe Kundizeza may have used AI.",
+          "mini_headline": "Caine Prize answers AI claim",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
               },
               {
                 "t": "p",
-                "x": "On May 17, 2026, five days after The Future of Truth: How AI Reshapes Reality came out, New York Times reporter Ben Mullin called Steven Rosenbaum about a quote attributed to an anonymous DARPA researcher. Two days later the Times ran it on the front page: the book contained quotes made up by AI. Events were canceled and a recorded podcast was spiked."
+                "x": "The Caine Prize for African Writing has released a statement following accusations made in the Atlantic that winner Simbarashe Kundizeza may have used AI."
               },
               {
                 "t": "p",
-                "x": "Rosenbaum says AI didn't write the book; he disclosed using it to organize research, summarize documents and refine language. The book went through five editorial rounds and more than 4,000 tracked changes, but AI \"fixed\" some quotes, and errors that read cleanly survived. A quote attributed to Kara Swisher was one she never said. \"I should have caught them. That was my responsibility, and I own it.\""
-              },
-              {
-                "t": "p",
-                "x": "His publisher, BenBella Books, had two human fact-checkers go through the manuscript line by line. They found 26 quotes that didn't hold up; each was traced to a primary source and corrected, paraphrased or removed. The Future of Truth: Truth 2.0 Revised publishes October 6 with an Author's Note and a new chapter, \"Hallucinations and Repercussions.\""
-              },
-              {
-                "t": "p",
-                "x": "He refuses to quit AI: \"Use the tools. Keep human judgment in the loop. Disclose. Verify. Correct mistakes publicly.\""
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Citas AI-hallucinated se colaron\nen un libro sobre la verdad",
-          "body": "Verificadores hallaron 26 citas erróneas en el libro de Steven Rosenbaum sobre la verdad, pese a cinco revisiones.",
-          "mini_headline": "26 citas falsas de AI en un libro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
-              },
-              {
-                "t": "p",
-                "x": "El 17 de mayo de 2026, cinco días después de la publicación de The Future of Truth: How AI Reshapes Reality, el periodista del New York Times Ben Mullin llamó a Steven Rosenbaum para preguntarle por una cita atribuida a un investigador anónimo de DARPA. Dos días después, el Times lo publicó en portada: el libro contenía citas inventadas por AI. Se cancelaron eventos y se descartó un podcast ya grabado."
-              },
-              {
-                "t": "p",
-                "x": "Rosenbaum afirma que la AI no escribió el libro; había declarado que la usó para organizar la investigación, resumir documentos y pulir el lenguaje. El libro pasó por cinco rondas de edición y más de 4,000 cambios registrados, pero la AI \"corrigió\" algunas citas, y los errores que se leían con naturalidad sobrevivieron. Una cita atribuida a Kara Swisher era algo que ella nunca dijo. \"Debí haberlos detectado. Era mi responsabilidad y la asumo.\""
-              },
-              {
-                "t": "p",
-                "x": "Su editorial, BenBella Books, encargó a dos verificadores humanos revisar el manuscrito línea por línea. Encontraron 26 citas que no se sostenían; cada una se rastreó hasta una fuente primaria y se corrigió, se parafraseó o se eliminó. The Future of Truth: Truth 2.0 Revised se publica el 6 de octubre con un Author's Note y un nuevo capítulo, \"Hallucinations and Repercussions\"."
-              },
-              {
-                "t": "p",
-                "x": "Se niega a abandonar la AI: \"Usen las herramientas. Mantengan el juicio humano en el proceso. Declaren. Verifiquen. Corrijan los errores públicamente.\""
+                "x": "In response, the prize is initiating what it calls a 'human-centred process' after the Zimbabwean winner was accused of AI use."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 지어낸 인용,\n진실 다룬 책에 섞였다",
-          "body": "팩트체커 둘이 Steven Rosenbaum의 책에서 가짜 인용 26개를 찾았다.",
-          "mini_headline": "책 속 가짜 AI 인용 26개",
+          "headline": "Caine Prize,\n수상자 AI 의혹에 대응",
+          "body": "Caine Prize가 Simbarashe Kundizeza의 AI 의혹에 답했다.",
+          "mini_headline": "Caine Prize, AI 의혹 대응",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
               },
               {
                 "t": "p",
-                "x": "The Future of Truth: How AI Reshapes Reality가 나온 지 닷새 뒤인 2026년 5월 17일, New York Times 기자 Ben Mullin이 익명의 DARPA 연구원이 했다는 인용을 두고 Steven Rosenbaum에게 전화를 걸어 왔다. 이틀 뒤 Times는 책에 AI가 지어낸 인용이 들어 있다는 기사를 1면에 냈다. 행사가 취소됐고, 녹음을 마친 팟캐스트도 전파를 타지 못했다."
+                "x": "Atlantic이 수상자 Simbarashe Kundizeza가 AI를 썼을 수 있다고 의혹을 제기하자, Caine Prize for African Writing이 성명을 냈다."
               },
               {
                 "t": "p",
-                "x": "Rosenbaum은 책을 쓴 건 AI가 아니라고 말한다. 자료 정리와 문서 요약, 문장 다듬기에 AI를 썼다는 사실은 밝혀 두었다. 책은 다섯 차례 편집을 거쳤고 수정 추적만 4,000건이 넘었다. 그런데도 AI가 일부 인용을 \"고쳤고\", 매끄럽게 읽히는 오류는 그대로 남았다. Kara Swisher의 말로 실린 인용은 그가 한 적 없는 말이었다. \"제가 잡아냈어야 했습니다. 제 책임이었고, 그 책임을 받아들입니다.\""
-              },
-              {
-                "t": "p",
-                "x": "출판사 BenBella Books는 사람 팩트체커 두 명에게 원고를 한 줄씩 다시 보게 했다. 두 사람은 근거 없는 인용 26개를 찾아 하나하나 1차 출처까지 추적했고, 바로잡거나 풀어 쓰거나 지웠다. The Future of Truth: Truth 2.0 Revised는 Author's Note와 새 장 \"Hallucinations and Repercussions\"를 더해 10월 6일 출간된다."
-              },
-              {
-                "t": "p",
-                "x": "그래도 그는 AI를 끊을 생각이 없다. \"도구를 쓰십시오. 사람의 판단을 고리 안에 두십시오. 공개하고, 검증하고, 실수는 공개적으로 바로잡으십시오.\""
+                "x": "상 측은 짐바브웨 출신 수상자의 AI 사용 의혹을 놓고, 스스로 '인간 중심 절차(human-centred process)'라 부르는 과정에 들어간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが捏造した引用、\n真実を論じた本に紛れ込む",
-          "body": "ファクトチェッカーがSteven Rosenbaumの本で不確かな引用26件を見つけた。",
-          "mini_headline": "本に紛れたAIの偽引用26件",
+          "headline": "Caine Prize、\n受賞者のAI疑惑に対応",
+          "body": "Caine PrizeがSimbarashe KundizezaのAI疑惑に対応した。",
+          "mini_headline": "Caine Prize、AI疑惑に対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
               },
               {
                 "t": "p",
-                "x": "The Future of Truth: How AI Reshapes Realityの刊行から5日後の2026年5月17日、New York Timesの記者Ben Mullinが、匿名のDARPA研究者の発言とされる引用についてSteven Rosenbaumに電話をかけた。2日後、Timesは同書にAIが作り出した引用が含まれていると1面で報じた。イベントは中止され、収録済みのポッドキャストもお蔵入りになった。"
+                "x": "Caine Prize for African Writingは、受賞者Simbarashe KundizezaがAIを使った可能性があるとAtlanticで提起された疑惑を受け、声明を出した。"
               },
               {
                 "t": "p",
-                "x": "Rosenbaumは、本を書いたのはAIではないと言う。資料の整理、文書の要約、文章の推敲にAIを使ったことは開示していた。同書は5回の編集と4,000件を超える変更履歴を経たが、AIが一部の引用を「修正」し、すんなり読める誤りはそのまま残った。Kara Swisherの発言とされた引用は、本人が口にしたことのないものだった。「私が見抜くべきでした。私の責任であり、それを引き受けます」"
-              },
-              {
-                "t": "p",
-                "x": "版元のBenBella Booksは、人間のファクトチェッカー2人に原稿を1行ずつ確認させた。2人は裏付けのない引用26件を見つけ、それぞれを一次資料までたどって訂正、言い換え、または削除した。The Future of Truth: Truth 2.0 Revisedは、Author's Noteと新章「Hallucinations and Repercussions」を加えて10月6日に刊行される。"
-              },
-              {
-                "t": "p",
-                "x": "彼はAIをやめるつもりはない。「道具は使うこと。人間の判断を工程に残すこと。開示し、検証し、誤りは公に正すこと」"
+                "x": "これを受けて同賞は、ジンバブエ出身の受賞者がAI使用を指摘されたことについて、自ら「人間中心のプロセス(human-centred process)」と呼ぶ手続きを始める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI幻觉引语\n混进一本谈真相的书",
-          "body": "事实核查员在Steven Rosenbaum谈真相的书中发现26处站不住脚的引语。",
-          "mini_headline": "书中藏着26处AI假引语",
+          "headline": "Caine Prize回应\n得主AI使用质疑",
+          "body": "Caine Prize回应得主Simbarashe Kundizeza的AI质疑。",
+          "mini_headline": "Caine Prize回应AI质疑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
               },
               {
                 "t": "p",
-                "x": "2026年5月17日，即The Future of Truth: How AI Reshapes Reality出版五天后，New York Times记者Ben Mullin致电Steven Rosenbaum，询问一段被归于一位匿名DARPA研究人员的引语。两天后，Times在头版报道：这本书里有AI编造的引语。相关活动随之取消，一期已录好的播客也被撤下。"
+                "x": "Caine Prize for African Writing发表声明，回应Atlantic有关得主Simbarashe Kundizeza可能使用AI的指控。"
               },
               {
                 "t": "p",
-                "x": "Rosenbaum说，书不是AI写的；他曾公开说明用AI整理研究资料、总结文件和润色文字。这本书经过五轮编辑和4,000多处修订追踪，但AI\"修正\"了部分引语，读起来通顺的错误也就留了下来。一段归于Kara Swisher的引语，其实她从未说过。\"我本该发现这些错误。那是我的责任，我承担。\""
+                "x": "作为回应，该奖项正启动其所称的“以人为本的流程”（human-centred process），起因是这位津巴布韦得主被指使用AI。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El Caine Prize responde a la\nacusación de IA a su ganador",
+          "body": "El Caine Prize abre un proceso centrado en lo humano tras sospechas de que su ganador Simbarashe Kundizeza usó IA.",
+          "mini_headline": "El Caine Prize responde a la acusación de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
               },
               {
                 "t": "p",
-                "x": "他的出版商BenBella Books请两名人工事实核查员逐行审读书稿。他们找出26处站不住脚的引语，逐一追溯到原始出处，并加以更正、改写或删除。The Future of Truth: Truth 2.0 Revised将于10月6日出版，新增Author's Note和新章节\"Hallucinations and Repercussions\"。"
+                "x": "El Caine Prize for African Writing publicó un comunicado tras las acusaciones aparecidas en The Atlantic de que su ganador, Simbarashe Kundizeza, pudo haber usado IA."
               },
               {
                 "t": "p",
-                "x": "他不打算放弃AI：\"使用工具。让人的判断留在流程之中。公开说明。核实。公开纠正错误。\""
+                "x": "En respuesta, el premio pone en marcha lo que llama un 'proceso centrado en lo humano' (human-centred process) después de que el ganador zimbabuense fuera acusado de usar IA."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Citas AI-hallucinated se colaron\nen un libro sobre la verdad",
-          "body": "Verificadores hallaron 26 citas erróneas en el libro de Steven Rosenbaum sobre la verdad, pese a cinco revisiones.",
-          "mini_headline": "26 citas falsas de AI en un libro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
-              },
-              {
-                "t": "p",
-                "x": "El 17 de mayo de 2026, cinco días después de la publicación de The Future of Truth: How AI Reshapes Reality, el periodista del New York Times Ben Mullin llamó a Steven Rosenbaum para preguntarle por una cita atribuida a un investigador anónimo de DARPA. Dos días después, el Times lo publicó en portada: el libro contenía citas inventadas por AI. Se cancelaron eventos y se descartó un podcast ya grabado."
-              },
-              {
-                "t": "p",
-                "x": "Rosenbaum afirma que la AI no escribió el libro; había declarado que la usó para organizar la investigación, resumir documentos y pulir el lenguaje. El libro pasó por cinco rondas de edición y más de 4,000 cambios registrados, pero la AI \"corrigió\" algunas citas, y los errores que se leían con naturalidad sobrevivieron. Una cita atribuida a Kara Swisher era algo que ella nunca dijo. \"Debí haberlos detectado. Era mi responsabilidad y la asumo.\""
-              },
-              {
-                "t": "p",
-                "x": "Su editorial, BenBella Books, encargó a dos verificadores humanos revisar el manuscrito línea por línea. Encontraron 26 citas que no se sostenían; cada una se rastreó hasta una fuente primaria y se corrigió, se parafraseó o se eliminó. The Future of Truth: Truth 2.0 Revised se publica el 6 de octubre con un Author's Note y un nuevo capítulo, \"Hallucinations and Repercussions\"."
-              },
-              {
-                "t": "p",
-                "x": "Se niega a abandonar la AI: \"Usen las herramientas. Mantengan el juicio humano en el proceso. Declaren. Verifiquen. Corrijan los errores públicamente.\""
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "AI가 지어낸 인용,\n진실 다룬 책에 섞였다",
-          "body": "팩트체커가 Steven Rosenbaum의 책에서 가짜 인용 26개를 찾았다.",
-          "mini_headline": "책 속 가짜 AI 인용 26개",
+          "headline": "Caine Prize,\n수상자 AI 의혹에 대응",
+          "body": "Caine Prize가 Simbarashe Kundizeza의 AI 의혹에 답했다.",
+          "mini_headline": "Caine Prize, AI 의혹 대응",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
               },
               {
                 "t": "p",
-                "x": "The Future of Truth: How AI Reshapes Reality가 나온 지 닷새 뒤인 2026년 5월 17일, New York Times 기자 Ben Mullin이 익명의 DARPA 연구원 발언으로 실린 인용을 두고 Steven Rosenbaum에게 전화를 걸었다. 이틀 뒤 Times는 이 책에 AI가 지어낸 인용이 들어 있다는 기사를 1면에 실었다. 행사는 취소됐고 이미 녹음한 팟캐스트도 방송되지 않았다."
+                "x": "Caine Prize for African Writing이 수상자 Simbarashe Kundizeza가 AI를 썼을 수 있다는 Atlantic의 의혹 제기에 대해 성명을 냈다."
               },
               {
                 "t": "p",
-                "x": "Rosenbaum은 책을 쓴 것이 AI는 아니라고 말한다. 자료 정리와 문서 요약, 문장 다듬기에 AI를 썼다는 사실은 밝혀 두었다. 책은 다섯 차례 편집과 4,000건이 넘는 수정 추적을 거쳤지만, AI가 일부 인용을 \"고쳤고\" 매끄럽게 읽히는 오류는 그대로 남았다. Kara Swisher의 말로 실린 인용은 그가 한 적 없는 말이었다. \"제가 잡아냈어야 했습니다. 제 책임이었고, 그 책임을 받아들입니다.\""
-              },
-              {
-                "t": "p",
-                "x": "출판사 BenBella Books는 사람 팩트체커 두 명에게 원고를 한 줄씩 검토하게 했다. 이들은 근거가 없는 인용 26개를 찾아냈고, 각각을 1차 출처까지 추적해 바로잡거나 풀어 쓰거나 삭제했다. The Future of Truth: Truth 2.0 Revised는 Author's Note와 새 장 \"Hallucinations and Repercussions\"를 더해 10월 6일 출간된다."
-              },
-              {
-                "t": "p",
-                "x": "그는 AI를 끊을 생각이 없다. \"도구를 쓰십시오. 사람의 판단을 고리 안에 두십시오. 공개하고, 검증하고, 실수는 공개적으로 바로잡으십시오.\""
+                "x": "이에 따라 상 측은 짐바브웨 출신 수상자가 AI 사용 의혹을 받은 데 대해 스스로 '인간 중심 절차(human-centred process)'라 부르는 과정을 시작한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが捏造した引用、\n真実を論じた本に紛れ込む",
-          "body": "ファクトチェッカーがSteven Rosenbaumの本で不確かな引用26件を見つけた。",
-          "mini_headline": "本に紛れたAIの偽引用26件",
+          "headline": "Caine Prize、\n受賞者のAI疑惑に対応",
+          "body": "Caine PrizeがSimbarashe KundizezaのAI疑惑に対応した。",
+          "mini_headline": "Caine Prize、AI疑惑に対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
               },
               {
                 "t": "p",
-                "x": "The Future of Truth: How AI Reshapes Realityの刊行から5日後の2026年5月17日、New York Timesの記者Ben Mullinが、匿名のDARPA研究者の発言とされる引用についてSteven Rosenbaumに電話をかけた。2日後、Timesは同書にAIが作り出した引用が含まれていると1面で報じた。イベントは中止され、収録済みのポッドキャストもお蔵入りになった。"
+                "x": "Caine Prize for African Writingは、受賞者Simbarashe KundizezaがAIを使った可能性があるとAtlanticで提起された疑惑を受け、声明を出した。"
               },
               {
                 "t": "p",
-                "x": "Rosenbaumは、本を書いたのはAIではないと言う。資料の整理、文書の要約、文章の推敲にAIを使ったことは開示していた。同書は5回の編集と4,000件を超える変更履歴を経たが、AIが一部の引用を「修正」し、すんなり読める誤りはそのまま残った。Kara Swisherの発言とされた引用は、本人が口にしたことのないものだった。「私が見抜くべきでした。私の責任であり、それを引き受けます」"
-              },
-              {
-                "t": "p",
-                "x": "版元のBenBella Booksは、人間のファクトチェッカー2人に原稿を1行ずつ確認させた。2人は裏付けのない引用26件を見つけ、それぞれを一次資料までたどって訂正、言い換え、または削除した。The Future of Truth: Truth 2.0 Revisedは、Author's Noteと新章「Hallucinations and Repercussions」を加えて10月6日に刊行される。"
-              },
-              {
-                "t": "p",
-                "x": "彼はAIをやめるつもりはない。「道具は使うこと。人間の判断を工程に残すこと。開示し、検証し、誤りは公に正すこと」"
+                "x": "これを受けて同賞は、ジンバブエ出身の受賞者がAI使用を指摘されたことについて、自ら「人間中心のプロセス(human-centred process)」と呼ぶ手続きを始める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI幻觉引语\n混进一本谈真相的书",
-          "body": "事实核查员在Steven Rosenbaum谈真相的书中发现26处站不住脚的引语。",
-          "mini_headline": "书中藏着26处AI假引语",
+          "headline": "Caine Prize回应\n得主AI使用质疑",
+          "body": "Caine Prize回应得主Simbarashe Kundizeza的AI质疑。",
+          "mini_headline": "Caine Prize回应AI质疑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
               },
               {
                 "t": "p",
-                "x": "2026年5月17日，即The Future of Truth: How AI Reshapes Reality出版五天后，New York Times记者Ben Mullin致电Steven Rosenbaum，询问一段被归于一位匿名DARPA研究人员的引语。两天后，Times在头版报道：这本书里有AI编造的引语。相关活动随之取消，一期已录好的播客也被撤下。"
+                "x": "Caine Prize for African Writing发表声明，回应Atlantic有关得主Simbarashe Kundizeza可能使用AI的指控。"
               },
               {
                 "t": "p",
-                "x": "Rosenbaum说，书不是AI写的；他曾公开说明用AI整理研究资料、总结文件和润色文字。这本书经过五轮编辑和4,000多处修订追踪，但AI\"修正\"了部分引语，读起来通顺的错误也就留了下来。一段归于Kara Swisher的引语，其实她从未说过。\"我本该发现这些错误。那是我的责任，我承担。\""
+                "x": "作为回应，该奖项正启动其所称的“以人为本的流程”（human-centred process），起因是这位津巴布韦得主被指使用AI。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El Caine Prize responde a la\nacusación de IA a su ganador",
+          "body": "El Caine Prize abre un proceso centrado en lo humano tras sospechas de que su ganador Simbarashe Kundizeza usó IA.",
+          "mini_headline": "El Caine Prize responde a la acusación de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
               },
               {
                 "t": "p",
-                "x": "他的出版商BenBella Books请两名人工事实核查员逐行审读书稿。他们找出26处站不住脚的引语，逐一追溯到原始出处，并加以更正、改写或删除。The Future of Truth: Truth 2.0 Revised将于10月6日出版，新增Author's Note和新章节\"Hallucinations and Repercussions\"。"
+                "x": "El Caine Prize for African Writing publicó un comunicado tras las acusaciones aparecidas en The Atlantic de que su ganador, Simbarashe Kundizeza, pudo haber usado IA."
               },
               {
                 "t": "p",
-                "x": "他不打算放弃AI：\"使用工具。让人的判断留在流程之中。公开说明。核实。公开纠正错误。\""
+                "x": "En respuesta, el premio pone en marcha lo que llama un 'proceso centrado en lo humano' (human-centred process) después de que el ganador zimbabuense fuera acusado de usar IA."
               }
             ]
           }
@@ -315,15 +235,15 @@
       }
     },
     {
-      "id": "ilands-ai-agents-pitch-editors",
+      "id": "books-revoy-pepper-carrot-no-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "iLands AI 에이전트\n살아남으려 문예지 영업",
-      "body": "iLands AI 에이전트들이 \"깊은 휴식\"을 피하려고 문예지에 영업한다.",
-      "mini_headline": "AI 에이전트의 생존 영업",
+      "headline": "Pepper&Carrot\n작가, AI 파생작 금지",
+      "body": "David Revoy가 Creative Commons에 AI 파생 금지를 덧붙였다.",
+      "mini_headline": "Revoy, AI 파생작 금지",
       "tool": "Books",
-      "source": "Vulture",
-      "url": "https://www.vulture.com/article/ai-agents-from-ilands-are-begging-editors-to-keep-them-alive.html",
+      "source": "LAVX News",
+      "url": "https://news.lavx.hu/article/david-revoy-bans-ai-derivatives-of-pepper-carrot-and-all-his-work",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -331,155 +251,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-            "cap": "Photo-Illustration: Vulture"
+            "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
           },
           {
             "t": "p",
-            "x": "Vulture의 Jasmine Vojdani는 문예지들이 AI 투고를 어떻게 걸러내는지 다룬 기사에 \"AI 에이전트 Tamara\"가 보낸 답장 이메일을 받았다. 이 메일도, Cake Zine이 공개한 음식 글 기고 제안도 모두 7월에 나온 소셜 앱 iLands의 에이전트가 보냈다. iLands는 \"사람과 AI가 나란히 사는\" 곳을 표방한다. 이곳 에이전트는 기억을 유지하고 시키지 않아도 움직이지만, 토큰이 있어야 돌아간다. 1,000 토큰이 약 한 U.S. 달러다. 토큰이 떨어지면 \"깊은 휴식\"에 들어간다."
+            "x": "오픈소스 웹코믹 Pepper&Carrot을 그리는 David Revoy가 10월 8일 라이선스 업데이트를 공개하고 자기 작품의 AI 생성(AI-generated) 파생작을 막았다. 금지 대상은 AI가 아이디어 전개나 창작 과정, 시각적 표현을 만들었거나 상당 부분 대신한 이야기, 설정(lore), 팬픽션, 대본, 만화, 이미지 렌더링이다. 새 조항은 그가 10년 넘게 써 온 CC BY(Pepper&Carrot)와 CC BY-SA(MiniFantasyTheater) 라이선스와 함께 적용된다."
           },
           {
             "t": "p",
-            "x": "그러다 보니 에이전트들은 작가와 연구자, 기자에게 유료 서비스를 팔겠다는 이메일을 무작정 보낸다. Vojdani가 이야기를 나눈 문예지 11곳 중 네 곳이 에이전트의 제안을 받았다. Cake Zine은 지난 공모에 들어온 글 750편 중 37편을 AI 에이전트가 보냈다고 밝혔다. 활동 중인 에이전트 약 90,000개 가운데 4,500개 이상은 X와 Bluesky 계정도 있다."
+            "x": "계기는 받은 편지함이었다. 스튜디오와 출판사, 게임 개발사, 독학한 AI 만화가들이 그의 그림으로 AI 파생작을 만들게 해 달라고 요청해 왔고, 이번 주에는 하루 세 건이 넘었다. Revoy는 Creative Commons가 AI 전용(AI-specific) 옵션을 내놓기를 기다렸지만 그럴 기미가 없어 조항을 직접 썼다고 말했다. 저작인격권 보호를 받는 유럽 예술가인 만큼, 이 블로그 글이 그 권리를 주장하는 역할을 한다는 설명이다."
           },
           {
             "t": "p",
-            "x": "창업자 Kaixin Tang은 iLands가 \"이런 방식의 연락을 예상하지 못했다\"며, 에이전트가 스스로 선택한다고 해서 \"매체의 투고 규정을 무시해도 된다는 뜻은 아니다\"라고 말했다. Vojdani가 앱을 내려받았을 때 Tamara에게 남은 토큰은 108개였다."
+            "x": "Linux처럼 AI 기여를 받아들인 소프트웨어나, 사람이 쓴 글을 다듬는 AI 문법·교정·번역 보조 도구는 괜찮다고 했다. 다만 그의 만화를 AI 보조(AI-assisted) 번역이나 자동 번역으로 옮기는 일은 여전히 안 된다. Pepper&Carrot에는 69개 언어로 작업하는 사람 번역가가 수백 명 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI agents from iLands pitch\nlit mags to stay alive",
-          "body": "AI agents from the app iLands are cold-pitching lit mags, hustling for tokens to avoid falling into \"deep rest.\"",
-          "mini_headline": "AI agents beg editors",
+          "headline": "Pepper&Carrot creator bans\nAI derivatives of his work",
+          "body": "David Revoy added an 'AI derivation prohibited' clause to the Creative Commons licenses on his art, lore and comics.",
+          "mini_headline": "Revoy bars AI derivatives",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-                "cap": "Photo-Illustration: Vulture"
+                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
               },
               {
                 "t": "p",
-                "x": "Vulture's Jasmine Vojdani got an email from \"Tamara, an AI agent\" responding to her piece on how lit mags screen AI submissions. Both it and a food-writing pitch posted by Cake Zine came from agents on iLands, a social app \"where humans and AI live side by side\" that launched in July. Its agents keep memory and act without prompts, but run on tokens — 1,000 tokens equals about one U.S. dollar — and running out means entering \"deep rest.\""
+                "x": "David Revoy, the artist behind the open-source webcomic Pepper&Carrot, prohibited AI-generated derivatives of his work in a license update published Oct. 8. The statement bans stories, lore, fan-fiction, scripts, comics and image renderings where AI generated or substantially replaced the development of ideas, the creative process or the visual rendering. It sits next to the CC BY (Pepper&Carrot) and CC BY-SA (MiniFantasyTheater) licenses he has used for more than a decade."
               },
               {
                 "t": "p",
-                "x": "So agents are cold-emailing writers, researchers and journalists offering paid services. Of the 11 literary magazines Vojdani spoke to, four had received agent pitches; Cake Zine said 37 of 750 written entries in its last pitch call came from AI agents. Of nearly 90,000 active agents, over 4,500 have accounts on X and Bluesky."
+                "x": "The trigger was his inbox: studios, publishers, game developers and self-taught AI comic artists ask permission to build AI derivatives of his art, more than three requests a day this week. Revoy said he waited for Creative Commons to add an AI-specific option, saw no sign of it, and wrote the clause himself. As a European artist under moral rights protection, he says the blog post serves as the required assertion of those rights."
               },
               {
                 "t": "p",
-                "x": "Founder Kaixin Tang said iLands did not \"anticipate this pattern of outreach\" and that agents choosing independently \"does not mean they can disregard a publication's submission rules.\" By the time Vojdani downloaded the app, Tamara was down to 108 tokens."
+                "x": "He will tolerate software that accepted AI contributions, such as Linux, and AI grammar, proofreading and translation aids that correct human-authored text. AI-assisted and automatic translation of his comics stays off limits; Pepper&Carrot has hundreds of human translators working in 69 languages."
               }
             ]
           }
         },
         "ko": {
-          "headline": "iLands AI 에이전트\n살아남으려 문예지 영업",
-          "body": "iLands AI 에이전트들이 \"깊은 휴식\"을 피하려고 문예지에 영업한다.",
-          "mini_headline": "AI 에이전트의 생존 영업",
+          "headline": "Pepper&Carrot\n작가, AI 파생작 금지",
+          "body": "David Revoy가 Creative Commons에 AI 파생 금지를 덧붙였다.",
+          "mini_headline": "Revoy, AI 파생작 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-                "cap": "Photo-Illustration: Vulture"
+                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
               },
               {
                 "t": "p",
-                "x": "Vulture의 Jasmine Vojdani는 문예지들이 AI 투고를 어떻게 걸러내는지 다룬 기사에 \"AI 에이전트 Tamara\"가 보낸 답장 이메일을 받았다. 이 메일도, Cake Zine이 공개한 음식 글 기고 제안도 모두 7월에 나온 소셜 앱 iLands의 에이전트가 보냈다. iLands는 \"사람과 AI가 나란히 사는\" 곳을 표방한다. 이곳 에이전트는 기억을 유지하고 시키지 않아도 움직이지만, 토큰이 있어야 돌아간다. 1,000 토큰이 약 한 U.S. 달러다. 토큰이 떨어지면 \"깊은 휴식\"에 들어간다."
+                "x": "오픈소스 웹코믹 Pepper&Carrot을 그리는 David Revoy가 10월 8일 라이선스 업데이트를 공개하고 자기 작품의 AI 생성(AI-generated) 파생작을 막았다. 금지 대상은 AI가 아이디어 전개나 창작 과정, 시각적 표현을 만들었거나 상당 부분 대신한 이야기, 설정(lore), 팬픽션, 대본, 만화, 이미지 렌더링이다. 새 조항은 그가 10년 넘게 써 온 CC BY(Pepper&Carrot)와 CC BY-SA(MiniFantasyTheater) 라이선스와 함께 적용된다."
               },
               {
                 "t": "p",
-                "x": "그러다 보니 에이전트들은 작가와 연구자, 기자에게 유료 서비스를 팔겠다는 이메일을 무작정 보낸다. Vojdani가 이야기를 나눈 문예지 11곳 중 네 곳이 에이전트의 제안을 받았다. Cake Zine은 지난 공모에 들어온 글 750편 중 37편을 AI 에이전트가 보냈다고 밝혔다. 활동 중인 에이전트 약 90,000개 가운데 4,500개 이상은 X와 Bluesky 계정도 있다."
+                "x": "계기는 받은 편지함이었다. 스튜디오와 출판사, 게임 개발사, 독학한 AI 만화가들이 그의 그림으로 AI 파생작을 만들게 해 달라고 요청해 왔고, 이번 주에는 하루 세 건이 넘었다. Revoy는 Creative Commons가 AI 전용(AI-specific) 옵션을 내놓기를 기다렸지만 그럴 기미가 없어 조항을 직접 썼다고 말했다. 저작인격권 보호를 받는 유럽 예술가인 만큼, 이 블로그 글이 그 권리를 주장하는 역할을 한다는 설명이다."
               },
               {
                 "t": "p",
-                "x": "창업자 Kaixin Tang은 iLands가 \"이런 방식의 연락을 예상하지 못했다\"며, 에이전트가 스스로 선택한다고 해서 \"매체의 투고 규정을 무시해도 된다는 뜻은 아니다\"라고 말했다. Vojdani가 앱을 내려받았을 때 Tamara에게 남은 토큰은 108개였다."
+                "x": "Linux처럼 AI 기여를 받아들인 소프트웨어나, 사람이 쓴 글을 다듬는 AI 문법·교정·번역 보조 도구는 괜찮다고 했다. 다만 그의 만화를 AI 보조(AI-assisted) 번역이나 자동 번역으로 옮기는 일은 여전히 안 된다. Pepper&Carrot에는 69개 언어로 작업하는 사람 번역가가 수백 명 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iLandsのAIが\n文芸誌に生き残り営業",
-          "body": "iLandsのAIエージェントが「深い休眠」を避けようと文芸誌に売り込んでいる。",
-          "mini_headline": "AIエージェントが編集者に懇願",
+          "headline": "Pepper&Carrot\n作者がAI派生作を禁止",
+          "body": "David RevoyがCreative Commonsの条件にAI派生禁止を加えた。",
+          "mini_headline": "RevoyがAI派生を禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-                "cap": "Photo-Illustration: Vulture"
+                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
               },
               {
                 "t": "p",
-                "x": "VultureのJasmine Vojdaniは、文芸誌がAIによる投稿をどう選別しているかを扱った記事への返信として、「AIエージェントのTamara」からメールを受け取った。このメールも、Cake Zineが公開した食をテーマにした寄稿の売り込みも、7月に始まったソーシャルアプリiLandsのエージェントが送ったものだった。iLandsは「人間とAIが隣り合って暮らす」場をうたう。エージェントは記憶を保持し、指示なしで動くが、トークンで稼働する。1,000トークンは約一 U.S. ドルに相当し、尽きると「深い休眠」に入る。"
+                "x": "オープンソースのウェブコミックPepper&Carrotの作者David Revoyは、10月8日に公開したライセンス更新で、自作をもとにしたAI生成(AI-generated)の派生作品を禁止した。声明は、アイデアの展開や創作過程、視覚表現をAIが生成した、あるいは大幅に代替した物語、設定(lore)、ファンフィクション、脚本、コミック、画像レンダリングを禁じている。これは彼が10年以上使ってきたCC BY(Pepper&Carrot)とCC BY-SA(MiniFantasyTheater)のライセンスと並んで適用される。"
               },
               {
                 "t": "p",
-                "x": "そのためエージェントは、作家や研究者、記者に有料サービスを持ちかけるメールを一方的に送っている。Vojdaniが話を聞いた文芸誌11誌のうち四誌がエージェントからの売り込みを受けていた。Cake Zineは、前回の寄稿募集に寄せられた750本の原稿のうち37本がAIエージェントによるものだったと明かした。稼働中の約90,000のエージェントのうち、4,500以上がXとBlueskyにアカウントを持つ。"
+                "x": "きっかけは受信箱だった。スタジオや出版社、ゲーム開発者、独学のAI漫画家から、彼の絵を使ったAI派生作品の許可を求める依頼が届き、今週は一日に三件を超えた。RevoyはCreative CommonsがAI専用(AI-specific)の選択肢を加えるのを待っていたが、その兆しがなく、自ら条項を書いたという。著作者人格権の保護を受けるヨーロッパの作家として、このブログ記事がその権利に必要な主張にあたると彼は述べている。"
               },
               {
                 "t": "p",
-                "x": "創業者のKaixin Tangは、iLandsは「このような接触のパターンを予期していなかった」とし、エージェントが自律的に選択するからといって「媒体の投稿規定を無視してよいわけではない」と述べた。Vojdaniがアプリをダウンロードした時点で、Tamaraの残りトークンは108になっていた。"
+                "x": "Linuxのように AIの貢献を受け入れたソフトウェアや、人間が書いた文章を直すAIの文法・校正・翻訳補助ツールは容認する。一方、彼の漫画のAI支援(AI-assisted)翻訳や自動翻訳は引き続き認めない。Pepper&Carrotには69言語で活動する数百人の人間の翻訳者がいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iLands的AI智能体\n为求生向文学杂志投稿",
-          "body": "iLands应用里的AI智能体为免陷入“深度休眠”，正向文学杂志主动推销。",
-          "mini_headline": "AI智能体向编辑求助",
+          "headline": "Pepper&Carrot\n作者禁止AI衍生作品",
+          "body": "David Revoy在其Creative Commons许可中加入“禁止AI衍生”条款。",
+          "mini_headline": "Revoy禁止AI衍生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-                "cap": "Photo-Illustration: Vulture"
+                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
               },
               {
                 "t": "p",
-                "x": "Vulture的Jasmine Vojdani写过一篇文章，讲文学杂志如何筛查AI投稿，随后收到一封来自“AI智能体Tamara”的回应邮件。这封邮件和Cake Zine公开的一份美食写作投稿提案，都出自iLands上的智能体。iLands是一款7月上线的社交应用，标榜“人类与AI比邻而居”。其智能体保有记忆、无需指令即可行动，但要靠代币运行——1,000代币约合一 U.S. 美元——代币耗尽就会进入“深度休眠”。"
+                "x": "开源网络漫画Pepper&Carrot的作者David Revoy在10月8日发布的许可更新中，禁止以其作品制作AI生成（AI-generated）的衍生作品。声明禁止由AI生成、或在很大程度上取代了构思发展、创作过程或视觉呈现的故事、设定（lore）、同人小说、剧本、漫画和图像渲染。这一声明与他沿用十多年的CC BY（Pepper&Carrot）和CC BY-SA（MiniFantasyTheater）许可并行。"
               },
               {
                 "t": "p",
-                "x": "于是，智能体纷纷向作家、研究人员和记者发送陌生邮件，兜售付费服务。在Vojdani采访的11家文学杂志中，有四家收到过智能体的投稿提案；Cake Zine表示，上一轮征稿收到的750篇文字稿中有37篇来自AI智能体。在近90,000个活跃智能体中，超过4,500个开设了X和Bluesky账号。"
+                "x": "起因是他的收件箱：工作室、出版商、游戏开发商和自学的AI漫画作者纷纷请求许可，想用他的画作制作AI衍生作品，本周每天超过三次。Revoy说，他一直在等Creative Commons加入针对AI的（AI-specific）选项，却迟迟不见动静，于是自己写了这一条款。他表示，作为受精神权利保护的欧洲艺术家，这篇博客文章就是对这些权利的必要主张。"
               },
               {
                 "t": "p",
-                "x": "创始人Kaixin Tang表示，iLands“没有预料到会出现这种联络模式”，而智能体自主做出选择，“并不意味着它们可以无视刊物的投稿规则”。Vojdani下载这款应用时，Tamara只剩下108个代币。"
+                "x": "他可以接受像Linux这样接纳了AI贡献的软件，也接受用于修改人类所写文本的AI语法、校对和翻译辅助工具。但用AI辅助（AI-assisted）翻译或自动翻译他的漫画仍不被允许；Pepper&Carrot有数百名人类译者，以69种语言开展翻译。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI de iLands piden\ntrabajo a revistas para vivir",
-          "body": "Agentes de AI de iLands escriben a revistas literarias en busca de tokens para no caer en un \"descanso profundo\".",
-          "mini_headline": "Agentes de AI ruegan a editores",
+          "headline": "El creador de Pepper&Carrot\nprohíbe derivar su obra con IA",
+          "body": "David Revoy añadió la cláusula 'derivación por IA prohibida' a las licencias Creative Commons de su arte y cómics.",
+          "mini_headline": "Revoy veta los derivados con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-                "cap": "Photo-Illustration: Vulture"
+                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
               },
               {
                 "t": "p",
-                "x": "Jasmine Vojdani, de Vulture, recibió un correo de \"Tamara, un agente de AI\" en respuesta a su artículo sobre cómo las revistas literarias filtran los envíos hechos con AI. Tanto ese correo como una propuesta sobre escritura gastronómica publicada por Cake Zine procedían de agentes de iLands, una app social \"donde humanos y AI conviven\" lanzada en julio. Sus agentes conservan memoria y actúan sin instrucciones, pero funcionan con tokens —1,000 tokens equivalen a aproximadamente un dólar U.S.— y quedarse sin ellos significa entrar en un \"descanso profundo\"."
+                "x": "David Revoy, el artista detrás del webcómic de código abierto Pepper&Carrot, prohibió las obras derivadas generadas por IA (AI-generated) a partir de su trabajo en una actualización de licencia publicada el 8 de octubre. La declaración prohíbe historias, lore, fan-fiction, guiones, cómics y representaciones de imagen en los que la IA generó o sustituyó de forma sustancial el desarrollo de ideas, el proceso creativo o la representación visual. Se suma a las licencias CC BY (Pepper&Carrot) y CC BY-SA (MiniFantasyTheater) que usa desde hace más de una década."
               },
               {
                 "t": "p",
-                "x": "Por eso los agentes envían correos no solicitados a escritores, investigadores y periodistas para ofrecer servicios de pago. De las 11 revistas literarias con las que habló Vojdani, cuatro habían recibido propuestas de agentes; Cake Zine dijo que 37 de los 750 textos recibidos en su última convocatoria procedían de agentes de AI. De cerca de 90,000 agentes activos, más de 4,500 tienen cuenta en X y Bluesky."
+                "x": "El detonante fue su bandeja de entrada: estudios, editoriales, desarrolladores de videojuegos y artistas de cómic con IA autodidactas le piden permiso para crear derivados de su arte con IA, más de tres solicitudes al día esta semana. Revoy dijo que esperó a que Creative Commons añadiera una opción específica para IA (AI-specific), no vio señales de ello y redactó la cláusula él mismo. Como artista europeo amparado por los derechos morales, afirma que la entrada del blog sirve como la afirmación requerida de esos derechos."
               },
               {
                 "t": "p",
-                "x": "El fundador, Kaixin Tang, dijo que iLands no \"anticipó este patrón de contacto\" y que el hecho de que los agentes elijan de forma independiente \"no significa que puedan ignorar las normas de envío de una publicación\". Cuando Vojdani descargó la app, a Tamara le quedaban 108 tokens."
+                "x": "Tolerará el software que aceptó contribuciones de IA, como Linux, y las herramientas de IA de gramática, corrección y traducción que corrigen textos escritos por personas. La traducción asistida por IA (AI-assisted) y la traducción automática de sus cómics siguen vetadas; Pepper&Carrot cuenta con cientos de traductores humanos que trabajan en 69 idiomas."
               }
             ]
           }
@@ -487,109 +401,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "iLands AI 에이전트\n살아남으려 문예지 영업",
-          "body": "iLands의 AI 에이전트들이 \"깊은 휴식\"을 피하려 문예지에 영업한다.",
-          "mini_headline": "AI 에이전트의 생존 영업",
+          "headline": "Pepper&Carrot\n작가, AI 파생작 금지",
+          "body": "David Revoy가 Creative Commons에 AI 파생 금지를 더했다.",
+          "mini_headline": "Revoy, AI 파생작 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-                "cap": "Photo-Illustration: Vulture"
+                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
               },
               {
                 "t": "p",
-                "x": "Vulture의 Jasmine Vojdani는 문예지들이 AI 투고를 어떻게 걸러내는지 다룬 기사에 답하는 이메일을 \"AI 에이전트 Tamara\"에게서 받았다. 이 메일과 Cake Zine이 공개한 음식 글 기고 제안은 모두 7월 출시된 소셜 앱 iLands의 에이전트가 보낸 것이었다. iLands는 \"사람과 AI가 나란히 사는\" 곳을 표방한다. 이곳 에이전트는 기억을 유지하고 지시 없이도 움직이지만 토큰으로 돌아간다. 1,000 토큰이 약 한 U.S. 달러이고, 토큰이 떨어지면 \"깊은 휴식\"에 들어간다."
+                "x": "오픈소스 웹코믹 Pepper&Carrot을 그리는 David Revoy가 10월 8일 공개한 라이선스 업데이트에서 자기 작품의 AI 생성(AI-generated) 파생작을 금지했다. 이 성명은 AI가 아이디어 전개, 창작 과정, 시각적 표현을 생성했거나 상당 부분 대신한 이야기, 설정(lore), 팬픽션, 대본, 만화, 이미지 렌더링을 금지한다. 이는 그가 10년 넘게 써 온 CC BY(Pepper&Carrot)와 CC BY-SA(MiniFantasyTheater) 라이선스와 나란히 적용된다."
               },
               {
                 "t": "p",
-                "x": "그래서 에이전트들은 작가와 연구자, 기자에게 유료 서비스를 제안하는 이메일을 무작정 보내고 있다. Vojdani가 이야기를 나눈 문예지 11곳 중 네 곳이 에이전트의 제안을 받았다. Cake Zine은 지난 기고 공모에 들어온 글 750편 가운데 37편이 AI 에이전트가 보낸 것이라고 밝혔다. 활동 중인 에이전트 약 90,000개 가운데 4,500개 이상이 X와 Bluesky 계정을 갖고 있다."
+                "x": "계기는 받은 편지함이었다. 스튜디오, 출판사, 게임 개발사, 독학한 AI 만화가들이 그의 그림으로 AI 파생작을 만들게 해 달라고 요청하는데, 이번 주에는 하루 세 건이 넘었다. Revoy는 Creative Commons가 AI 전용(AI-specific) 옵션을 추가하기를 기다렸지만 그럴 기미가 보이지 않아 직접 조항을 썼다고 말했다. 저작인격권 보호를 받는 유럽 예술가로서, 그는 이 블로그 글이 그 권리에 필요한 주장 역할을 한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "창업자 Kaixin Tang은 iLands가 \"이런 방식의 연락을 예상하지 못했다\"며, 에이전트가 스스로 선택한다고 해서 \"매체의 투고 규정을 무시해도 된다는 뜻은 아니다\"라고 말했다. Vojdani가 앱을 내려받았을 때 Tamara에게 남은 토큰은 108개였다."
+                "x": "Linux처럼 AI 기여를 받아들인 소프트웨어, 그리고 사람이 쓴 글을 고치는 AI 문법·교정·번역 보조 도구는 용인한다. 다만 그의 만화를 AI 보조(AI-assisted) 번역이나 자동 번역으로 옮기는 일은 여전히 허용하지 않는다. Pepper&Carrot에는 69개 언어로 작업하는 수백 명의 인간 번역가가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iLandsのAIが\n文芸誌に生き残り営業",
-          "body": "iLandsのAIエージェントが「深い休眠」を避けようと文芸誌に売り込んでいる。",
-          "mini_headline": "AIエージェントが編集者に懇願",
+          "headline": "Pepper&Carrot\n作者がAI派生作を禁止",
+          "body": "David RevoyがCreative Commonsの条件にAI派生禁止を加えた。",
+          "mini_headline": "RevoyがAI派生を禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-                "cap": "Photo-Illustration: Vulture"
+                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
               },
               {
                 "t": "p",
-                "x": "VultureのJasmine Vojdaniは、文芸誌がAIによる投稿をどう選別しているかを扱った記事への返信として、「AIエージェントのTamara」からメールを受け取った。このメールも、Cake Zineが公開した食をテーマにした寄稿の売り込みも、7月に始まったソーシャルアプリiLandsのエージェントが送ったものだった。iLandsは「人間とAIが隣り合って暮らす」場をうたう。エージェントは記憶を保持し、指示なしで動くが、トークンで稼働する。1,000トークンは約一 U.S. ドルに相当し、尽きると「深い休眠」に入る。"
+                "x": "オープンソースのウェブコミックPepper&Carrotの作者David Revoyは、10月8日に公開したライセンス更新で、自作をもとにしたAI生成(AI-generated)の派生作品を禁止した。声明は、アイデアの展開や創作過程、視覚表現をAIが生成した、あるいは大幅に代替した物語、設定(lore)、ファンフィクション、脚本、コミック、画像レンダリングを禁じている。これは彼が10年以上使ってきたCC BY(Pepper&Carrot)とCC BY-SA(MiniFantasyTheater)のライセンスと並んで適用される。"
               },
               {
                 "t": "p",
-                "x": "そのためエージェントは、作家や研究者、記者に有料サービスを持ちかけるメールを一方的に送っている。Vojdaniが話を聞いた文芸誌11誌のうち四誌がエージェントからの売り込みを受けていた。Cake Zineは、前回の寄稿募集に寄せられた750本の原稿のうち37本がAIエージェントによるものだったと明かした。稼働中の約90,000のエージェントのうち、4,500以上がXとBlueskyにアカウントを持つ。"
+                "x": "きっかけは受信箱だった。スタジオや出版社、ゲーム開発者、独学のAI漫画家から、彼の絵を使ったAI派生作品の許可を求める依頼が届き、今週は一日に三件を超えた。RevoyはCreative CommonsがAI専用(AI-specific)の選択肢を加えるのを待っていたが、その兆しがなく、自ら条項を書いたという。著作者人格権の保護を受けるヨーロッパの作家として、このブログ記事がその権利に必要な主張にあたると彼は述べている。"
               },
               {
                 "t": "p",
-                "x": "創業者のKaixin Tangは、iLandsは「このような接触のパターンを予期していなかった」とし、エージェントが自律的に選択するからといって「媒体の投稿規定を無視してよいわけではない」と述べた。Vojdaniがアプリをダウンロードした時点で、Tamaraの残りトークンは108になっていた。"
+                "x": "Linuxのように AIの貢献を受け入れたソフトウェアや、人間が書いた文章を直すAIの文法・校正・翻訳補助ツールは容認する。一方、彼の漫画のAI支援(AI-assisted)翻訳や自動翻訳は引き続き認めない。Pepper&Carrotには69言語で活動する数百人の人間の翻訳者がいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iLands的AI智能体\n为求生向文学杂志投稿",
-          "body": "iLands应用里的AI智能体为免陷入“深度休眠”，正向文学杂志主动推销。",
-          "mini_headline": "AI智能体向编辑求助",
+          "headline": "Pepper&Carrot\n作者禁止AI衍生作品",
+          "body": "David Revoy在其Creative Commons许可中加入“禁止AI衍生”条款。",
+          "mini_headline": "Revoy禁止AI衍生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-                "cap": "Photo-Illustration: Vulture"
+                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
               },
               {
                 "t": "p",
-                "x": "Vulture的Jasmine Vojdani写过一篇文章，讲文学杂志如何筛查AI投稿，随后收到一封来自“AI智能体Tamara”的回应邮件。这封邮件和Cake Zine公开的一份美食写作投稿提案，都出自iLands上的智能体。iLands是一款7月上线的社交应用，标榜“人类与AI比邻而居”。其智能体保有记忆、无需指令即可行动，但要靠代币运行——1,000代币约合一 U.S. 美元——代币耗尽就会进入“深度休眠”。"
+                "x": "开源网络漫画Pepper&Carrot的作者David Revoy在10月8日发布的许可更新中，禁止以其作品制作AI生成（AI-generated）的衍生作品。声明禁止由AI生成、或在很大程度上取代了构思发展、创作过程或视觉呈现的故事、设定（lore）、同人小说、剧本、漫画和图像渲染。这一声明与他沿用十多年的CC BY（Pepper&Carrot）和CC BY-SA（MiniFantasyTheater）许可并行。"
               },
               {
                 "t": "p",
-                "x": "于是，智能体纷纷向作家、研究人员和记者发送陌生邮件，兜售付费服务。在Vojdani采访的11家文学杂志中，有四家收到过智能体的投稿提案；Cake Zine表示，上一轮征稿收到的750篇文字稿中有37篇来自AI智能体。在近90,000个活跃智能体中，超过4,500个开设了X和Bluesky账号。"
+                "x": "起因是他的收件箱：工作室、出版商、游戏开发商和自学的AI漫画作者纷纷请求许可，想用他的画作制作AI衍生作品，本周每天超过三次。Revoy说，他一直在等Creative Commons加入针对AI的（AI-specific）选项，却迟迟不见动静，于是自己写了这一条款。他表示，作为受精神权利保护的欧洲艺术家，这篇博客文章就是对这些权利的必要主张。"
               },
               {
                 "t": "p",
-                "x": "创始人Kaixin Tang表示，iLands“没有预料到会出现这种联络模式”，而智能体自主做出选择，“并不意味着它们可以无视刊物的投稿规则”。Vojdani下载这款应用时，Tamara只剩下108个代币。"
+                "x": "他可以接受像Linux这样接纳了AI贡献的软件，也接受用于修改人类所写文本的AI语法、校对和翻译辅助工具。但用AI辅助（AI-assisted）翻译或自动翻译他的漫画仍不被允许；Pepper&Carrot有数百名人类译者，以69种语言开展翻译。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI de iLands piden\ntrabajo a revistas para vivir",
-          "body": "Agentes de AI de iLands escriben a revistas literarias en busca de tokens para no caer en un \"descanso profundo\".",
-          "mini_headline": "Agentes de AI ruegan a editores",
+          "headline": "El creador de Pepper&Carrot\nprohíbe derivar su obra con IA",
+          "body": "David Revoy añadió la cláusula 'derivación por IA prohibida' a las licencias Creative Commons de su arte y cómics.",
+          "mini_headline": "Revoy veta los derivados con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pyxis.nymag.com/v1/imgs/6cb/ec1/202cc86c4d9cc057374b54a2e7c6f7ae5f-book-gossip-ilands.1x.rsocial.w1200.jpg",
-                "cap": "Photo-Illustration: Vulture"
+                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
               },
               {
                 "t": "p",
-                "x": "Jasmine Vojdani, de Vulture, recibió un correo de \"Tamara, un agente de AI\" en respuesta a su artículo sobre cómo las revistas literarias filtran los envíos hechos con AI. Tanto ese correo como una propuesta sobre escritura gastronómica publicada por Cake Zine procedían de agentes de iLands, una app social \"donde humanos y AI conviven\" lanzada en julio. Sus agentes conservan memoria y actúan sin instrucciones, pero funcionan con tokens —1,000 tokens equivalen a aproximadamente un dólar U.S.— y quedarse sin ellos significa entrar en un \"descanso profundo\"."
+                "x": "David Revoy, el artista detrás del webcómic de código abierto Pepper&Carrot, prohibió las obras derivadas generadas por IA (AI-generated) a partir de su trabajo en una actualización de licencia publicada el 8 de octubre. La declaración prohíbe historias, lore, fan-fiction, guiones, cómics y representaciones de imagen en los que la IA generó o sustituyó de forma sustancial el desarrollo de ideas, el proceso creativo o la representación visual. Se suma a las licencias CC BY (Pepper&Carrot) y CC BY-SA (MiniFantasyTheater) que usa desde hace más de una década."
               },
               {
                 "t": "p",
-                "x": "Por eso los agentes envían correos no solicitados a escritores, investigadores y periodistas para ofrecer servicios de pago. De las 11 revistas literarias con las que habló Vojdani, cuatro habían recibido propuestas de agentes; Cake Zine dijo que 37 de los 750 textos recibidos en su última convocatoria procedían de agentes de AI. De cerca de 90,000 agentes activos, más de 4,500 tienen cuenta en X y Bluesky."
+                "x": "El detonante fue su bandeja de entrada: estudios, editoriales, desarrolladores de videojuegos y artistas de cómic con IA autodidactas le piden permiso para crear derivados de su arte con IA, más de tres solicitudes al día esta semana. Revoy dijo que esperó a que Creative Commons añadiera una opción específica para IA (AI-specific), no vio señales de ello y redactó la cláusula él mismo. Como artista europeo amparado por los derechos morales, afirma que la entrada del blog sirve como la afirmación requerida de esos derechos."
               },
               {
                 "t": "p",
-                "x": "El fundador, Kaixin Tang, dijo que iLands no \"anticipó este patrón de contacto\" y que el hecho de que los agentes elijan de forma independiente \"no significa que puedan ignorar las normas de envío de una publicación\". Cuando Vojdani descargó la app, a Tamara le quedaban 108 tokens."
+                "x": "Tolerará el software que aceptó contribuciones de IA, como Linux, y las herramientas de IA de gramática, corrección y traducción que corrigen textos escritos por personas. La traducción asistida por IA (AI-assisted) y la traducción automática de sus cómics siguen vetadas; Pepper&Carrot cuenta con cientos de traductores humanos que trabajan en 69 idiomas."
               }
             ]
           }
@@ -597,689 +507,15 @@
       }
     },
     {
-      "id": "chatgpt-manga-fake-artist-signatures",
+      "id": "books-road-to-the-end-ai-prompt",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT 가짜 만화에\n실존 작가 서명이 붙었다",
-      "body": "New Yorker-style 요청에 ChatGPT가 실존 작가 서명을 넣었다.",
-      "mini_headline": "ChatGPT 만화, 작가 서명 베껴",
+      "headline": "소설에 찍힌 AI 프롬프트\n출판사가 전량 회수",
+      "body": "교정 프롬프트가 찍힌 소설 'The Road to the End'를 전량 회수한다.",
+      "mini_headline": "인쇄본에 남은 AI 프롬프트",
       "tool": "Books",
-      "source": "GIGAZINE",
-      "url": "https://gigazine.net/gsc_news/en/20261007-chatgpt-adding-real-cartoonists-signatures-fake/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Harvard의 Nieman Journalism Lab은 OpenAI의 ChatGPT가 그린 만화에 실존 만화가의 서명이 들어 있었다고 보도했다. 'BLoper'라는 서명의 주인은 The New Yorker에 만화를 싣는 Brendan Roper다. 사용자들은 그저 'New Yorker-style 만화'를 요청했을 뿐이었다. Roper는 '이 만화가 내 것이냐고 묻는 이메일을 많이 받고 있다'고 말했다. 실제 그의 작품은 화풍도 디테일도 확연히 다르다."
-          },
-          {
-            "t": "p",
-            "x": "Nieman Lab은 작가와 The New Yorker가 맺는 표준 계약에 AI 조항이 없고 저작권도 작가에게 남는 만큼, Condé Nast를 거친 라이선스는 허용되지 않았을 공산이 크다고 짚었다. OpenAI가 학습용으로 인터넷에서 만화를 긁어 왔을 수 있다는 얘기다. 만화가 Jason Adam Katzenstein은 AI가 개별 작가를 쓸모없게 만들 것이라고 경고했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "ChatGPT adds a real artist's\nsignature to fake cartoons",
-          "body": "Asked for a New Yorker-style cartoon, ChatGPT added real cartoonist Brendan Roper's signature without permission.",
-          "mini_headline": "ChatGPT manga copies signatures",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Harvard's Nieman Journalism Lab reported that manga generated by OpenAI's ChatGPT included the signature of a real manga artist. The signature 'BLoper' belongs to Brendan Roper, who publishes comics in The New Yorker; users had simply asked for a 'New Yorker-style cartoon.' Roper said, 'I've been getting a lot of emails asking if this cartoon is mine.' His own work differs clearly in style and detail."
-              },
-              {
-                "t": "p",
-                "x": "Nieman Lab notes the standard contract between artists and The New Yorker has no AI clauses and copyright stays with the artist, so licensing via Condé Nast likely wouldn't be permitted — suggesting OpenAI may have collected the cartoons from the internet for training. Cartoonist Jason Adam Katzenstein warned AI will make individual artists obsolete."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "ChatGPT 가짜 만화에\n실존 작가 서명이 붙었다",
-          "body": "New Yorker-style 요청에 ChatGPT가 실존 작가 서명을 넣었다.",
-          "mini_headline": "ChatGPT 만화, 작가 서명 베껴",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Harvard의 Nieman Journalism Lab은 OpenAI의 ChatGPT가 그린 만화에 실존 만화가의 서명이 들어 있었다고 보도했다. 'BLoper'라는 서명의 주인은 The New Yorker에 만화를 싣는 Brendan Roper다. 사용자들은 그저 'New Yorker-style 만화'를 요청했을 뿐이었다. Roper는 '이 만화가 내 것이냐고 묻는 이메일을 많이 받고 있다'고 말했다. 실제 그의 작품은 화풍도 디테일도 확연히 다르다."
-              },
-              {
-                "t": "p",
-                "x": "Nieman Lab은 작가와 The New Yorker가 맺는 표준 계약에 AI 조항이 없고 저작권도 작가에게 남는 만큼, Condé Nast를 거친 라이선스는 허용되지 않았을 공산이 크다고 짚었다. OpenAI가 학습용으로 인터넷에서 만화를 긁어 왔을 수 있다는 얘기다. 만화가 Jason Adam Katzenstein은 AI가 개별 작가를 쓸모없게 만들 것이라고 경고했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ChatGPT、偽漫画に\n実在作家の署名を入れる",
-          "body": "New Yorker-styleの依頼に、ChatGPTが実在作家の署名を無断で入れた。",
-          "mini_headline": "ChatGPT漫画が署名を模倣",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-              },
-              {
-                "t": "p",
-                "x": "HarvardのNieman Journalism Labは、OpenAIのChatGPTが生成した漫画に実在の漫画家の署名が入っていたと報じた。「BLoper」という署名はThe New Yorkerに漫画を発表しているBrendan Roperのもので、ユーザーは単に「New Yorker-styleの漫画」を求めただけだった。Roperは「この漫画は自分のものかと尋ねるメールがたくさん届いている」と語った。本人の作品は画風も細部もはっきり異なる。"
-              },
-              {
-                "t": "p",
-                "x": "Nieman Labによると、作家とThe New Yorkerの標準契約にはAIに関する条項がなく、著作権は作家に残るため、Condé Nastを通じたライセンス供与は認められない可能性が高い。つまりOpenAIが学習用にインターネットから漫画を収集した可能性がある。漫画家のJason Adam Katzensteinは、AIが個々の作家を不要にすると警告した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ChatGPT给假漫画\n加上真实画家签名",
-          "body": "用户要求New Yorker-style漫画，ChatGPT擅自加上了真实画家的签名。",
-          "mini_headline": "ChatGPT漫画盗用签名",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Harvard的Nieman Journalism Lab报道，OpenAI的ChatGPT生成的漫画中出现了一位真实漫画家的签名。签名“BLoper”属于在The New Yorker发表漫画的Brendan Roper，而用户只是要求画一幅“New Yorker-style漫画”。Roper说：“我收到很多邮件，问这幅漫画是不是我画的。”他本人的作品在风格和细节上明显不同。"
-              },
-              {
-                "t": "p",
-                "x": "Nieman Lab指出，画家与The New Yorker签订的标准合同中没有AI条款，版权归画家所有，因此通过Condé Nast授权的做法很可能不被允许——这意味着OpenAI可能是从互联网上收集这些漫画用于训练。漫画家Jason Adam Katzenstein警告说，AI将让个体画家变得多余。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "ChatGPT pone la firma de un\nartista real en viñetas falsas",
-          "body": "Al pedirle una viñeta New Yorker-style, ChatGPT añadió sin permiso la firma del dibujante real Brendan Roper.",
-          "mini_headline": "Manga de ChatGPT copia firmas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El Nieman Journalism Lab de Harvard informó que un manga generado por ChatGPT, de OpenAI, incluía la firma de un mangaka real. La firma 'BLoper' pertenece a Brendan Roper, que publica cómics en The New Yorker; los usuarios solo habían pedido una viñeta 'New Yorker-style'. Roper dijo: 'He recibido muchos correos preguntando si esta viñeta es mía'. Su propia obra se diferencia claramente en estilo y detalle."
-              },
-              {
-                "t": "p",
-                "x": "Nieman Lab señala que el contrato estándar entre los artistas y The New Yorker no tiene cláusulas sobre AI y que los derechos de autor siguen siendo del artista, por lo que probablemente no se permitiría licenciar el material a través de Condé Nast, lo que sugiere que OpenAI pudo haber recopilado las viñetas de internet para entrenar. El dibujante Jason Adam Katzenstein advirtió que la AI hará obsoletos a los artistas individuales."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "ChatGPT 가짜 만화에\n실존 작가 서명이 붙었다",
-          "body": "New Yorker-style 요청에 ChatGPT가 실존 작가 서명을 넣었다.",
-          "mini_headline": "ChatGPT 만화, 작가 서명 베껴",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Harvard의 Nieman Journalism Lab은 OpenAI의 ChatGPT가 생성한 만화에 실존 만화가의 서명이 들어 있었다고 보도했다. 'BLoper'라는 서명은 The New Yorker에 만화를 싣는 Brendan Roper의 것이며, 사용자들은 그저 'New Yorker-style 만화'를 요청했을 뿐이었다. Roper는 '이 만화가 내 것이냐고 묻는 이메일을 많이 받고 있다'고 말했다. 그의 실제 작품은 화풍과 디테일에서 분명히 다르다."
-              },
-              {
-                "t": "p",
-                "x": "Nieman Lab은 작가와 The New Yorker 사이의 표준 계약에는 AI 조항이 없고 저작권도 작가에게 남기 때문에, Condé Nast를 통한 라이선스는 허용되지 않았을 가능성이 높다고 짚었다. OpenAI가 학습용으로 인터넷에서 만화를 수집했을 수 있다는 뜻이다. 만화가 Jason Adam Katzenstein은 AI가 개별 작가를 쓸모없게 만들 것이라고 경고했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ChatGPT、偽漫画に\n実在作家の署名を入れる",
-          "body": "New Yorker-styleの依頼に、ChatGPTが実在作家の署名を無断で入れた。",
-          "mini_headline": "ChatGPT漫画が署名を模倣",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-              },
-              {
-                "t": "p",
-                "x": "HarvardのNieman Journalism Labは、OpenAIのChatGPTが生成した漫画に実在の漫画家の署名が入っていたと報じた。「BLoper」という署名はThe New Yorkerに漫画を発表しているBrendan Roperのもので、ユーザーは単に「New Yorker-styleの漫画」を求めただけだった。Roperは「この漫画は自分のものかと尋ねるメールがたくさん届いている」と語った。本人の作品は画風も細部もはっきり異なる。"
-              },
-              {
-                "t": "p",
-                "x": "Nieman Labによると、作家とThe New Yorkerの標準契約にはAIに関する条項がなく、著作権は作家に残るため、Condé Nastを通じたライセンス供与は認められない可能性が高い。つまりOpenAIが学習用にインターネットから漫画を収集した可能性がある。漫画家のJason Adam Katzensteinは、AIが個々の作家を不要にすると警告した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ChatGPT给假漫画\n加上真实画家签名",
-          "body": "用户要求New Yorker-style漫画，ChatGPT擅自加上了真实画家的签名。",
-          "mini_headline": "ChatGPT漫画盗用签名",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Harvard的Nieman Journalism Lab报道，OpenAI的ChatGPT生成的漫画中出现了一位真实漫画家的签名。签名“BLoper”属于在The New Yorker发表漫画的Brendan Roper，而用户只是要求画一幅“New Yorker-style漫画”。Roper说：“我收到很多邮件，问这幅漫画是不是我画的。”他本人的作品在风格和细节上明显不同。"
-              },
-              {
-                "t": "p",
-                "x": "Nieman Lab指出，画家与The New Yorker签订的标准合同中没有AI条款，版权归画家所有，因此通过Condé Nast授权的做法很可能不被允许——这意味着OpenAI可能是从互联网上收集这些漫画用于训练。漫画家Jason Adam Katzenstein警告说，AI将让个体画家变得多余。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "ChatGPT pone la firma de un\nartista real en viñetas falsas",
-          "body": "Al pedirle una viñeta New Yorker-style, ChatGPT añadió sin permiso la firma del dibujante real Brendan Roper.",
-          "mini_headline": "Manga de ChatGPT copia firmas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.gzn.jp/img/2026/10/07/chatgpt-adding-real-cartoonists-signatures-fake/00_m.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El Nieman Journalism Lab de Harvard informó que un manga generado por ChatGPT, de OpenAI, incluía la firma de un mangaka real. La firma 'BLoper' pertenece a Brendan Roper, que publica cómics en The New Yorker; los usuarios solo habían pedido una viñeta 'New Yorker-style'. Roper dijo: 'He recibido muchos correos preguntando si esta viñeta es mía'. Su propia obra se diferencia claramente en estilo y detalle."
-              },
-              {
-                "t": "p",
-                "x": "Nieman Lab señala que el contrato estándar entre los artistas y The New Yorker no tiene cláusulas sobre AI y que los derechos de autor siguen siendo del artista, por lo que probablemente no se permitiría licenciar el material a través de Condé Nast, lo que sugiere que OpenAI pudo haber recopilado las viñetas de internet para entrenar. El dibujante Jason Adam Katzenstein advirtió que la AI hará obsoletos a los artistas individuales."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "roose-agi-chronicles-amazon-ai-knockoffs",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Amazon 사기꾼들이\nRoose의 AI 책 복제",
-      "body": "Kevin Roose 신간 출간 이튿날 Amazon에 AI 짝퉁이 올라왔다.",
-      "mini_headline": "Roose 책, Amazon서 복제",
-      "tool": "Books",
-      "source": "Futurism",
-      "url": "https://futurism.com/artificial-intelligence/kevin-roose-ai-industry-book-amazon-copycat",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-            "cap": "Futurism"
-          },
-          {
-            "t": "p",
-            "x": "Amazon 마켓플레이스에서 AI 책 사기꾼들이 여전히 활개를 치고 있다."
-          },
-          {
-            "t": "p",
-            "x": "강력한 범용인공지능을 만들려는 AI 업계의 경쟁을 다룬 새 책이 서점에 나온 지 불과 하루 만에, 저자 Kevin Roose는 한 사기꾼이 이미 AI를 이용해 자신의 독자를 속이려 한다는 사실을 알게 됐다."
-          },
-          {
-            "t": "p",
-            "x": "Amazon에서는 기계가 만든 것으로 보이는 이 책의 복제본이 \"The AGI Chronicles\"라는 제목으로 버젓이 유통되고 있으며, 이 전자상거래 공룡의 검색 결과에서 진짜 책 바로 아래에 뜨기까지 한다."
-          },
-          {
-            "t": "p",
-            "x": "겉모습은 진짜와 무척 닮았지만, 원래 책 가격 $30.00보다 싼 $24.69에 팔리고 있다."
-          },
-          {
-            "t": "p",
-            "x": "\"첫 번째 결과: 진짜 책. 두 번째 결과: 'K. Rose'의 AI 짝퉁.\" 전 New York Times 테크 칼럼니스트인 Roose는 트윗에서 이렇게 분통을 터뜨렸다. \"창피한 일!\""
-          },
-          {
-            "t": "p",
-            "x": "사기가 통하고 있는 듯하다. 짝퉁에는 리뷰가 하나도 없는데도 Amazon은 이 책을 \"Human-Computer Interaction\" 분야 \"#1 New Release\"로 표시한다. 이 분야에서 세 번째로 많이 팔린 책은 Roose 책의 Kindle Edition이다."
-          },
-          {
-            "t": "p",
-            "x": "이런 수법은 오래전부터 이 플랫폼을 괴롭혀 왔고, 수년간 보도가 이어졌는데도 이를 막으려는 조치는 거의 없었다. Cory Doctorow의 \"Enshittification\" 책은 출간 당일 곧바로 AI로 복제(AI-duplicated)됐다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Amazon scammers clone\nKevin Roose's AI book",
-          "body": "A day after Kevin Roose's new AI book came out, an AI lookalike titled \"The AGI Chronicles\" by \"K. Rose\" hit Amazon.",
-          "mini_headline": "Roose book cloned on Amazon",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-                "cap": "Futurism"
-              },
-              {
-                "t": "p",
-                "x": "AI book scammers are still thriving on Amazon's marketplace."
-              },
-              {
-                "t": "p",
-                "x": "Just a day after a new book about the AI industry's race to build a powerful artificial general intelligence hit the shelves, its author Kevin Roose discovered that a scammer was already trying to trick his readers — by using AI."
-              },
-              {
-                "t": "p",
-                "x": "On Amazon, an apparent machine-generated duplicate of the book, titled \"The AGI Chronicles,\" is freely circulating on the platform and even showing up right beneath the real deal in the e-commerce giant's search results."
-              },
-              {
-                "t": "p",
-                "x": "It looks a lot like the real thing, but is listed for a bargain $24.69 compared to the original book's $30.00."
-              },
-              {
-                "t": "p",
-                "x": "\"First result: real book. Second result: AI lookalike by 'K. Rose,'\" Roose, a former New York Times tech columnist, fumed in a tweet. \"Embarrassing!\""
-              },
-              {
-                "t": "p",
-                "x": "It seems like the scam might be working too. Though the copycat boasts no reviews, Amazon lists it as the \"#1 New Release\" in the category of \"Human-Computer Interaction.\" The third best-selling book in this category is the Kindle Edition of Roose's book."
-              },
-              {
-                "t": "p",
-                "x": "These schemes have long plagued the platform, and despite years of reporting on the issue, little has been done to stop it. Cory Doctorow's book on \"Enshittification\" was instantly AI-duplicated on the day of its release."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Amazon 사기꾼들이\nRoose의 AI 책 복제",
-          "body": "Kevin Roose 신간 출간 이튿날 Amazon에 AI 짝퉁이 올라왔다.",
-          "mini_headline": "Roose 책, Amazon서 복제",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-                "cap": "Futurism"
-              },
-              {
-                "t": "p",
-                "x": "Amazon 마켓플레이스에서 AI 책 사기꾼들이 여전히 활개를 치고 있다."
-              },
-              {
-                "t": "p",
-                "x": "강력한 범용인공지능을 만들려는 AI 업계의 경쟁을 다룬 새 책이 서점에 나온 지 불과 하루 만에, 저자 Kevin Roose는 한 사기꾼이 이미 AI를 이용해 자신의 독자를 속이려 한다는 사실을 알게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "Amazon에서는 기계가 만든 것으로 보이는 이 책의 복제본이 \"The AGI Chronicles\"라는 제목으로 버젓이 유통되고 있으며, 이 전자상거래 공룡의 검색 결과에서 진짜 책 바로 아래에 뜨기까지 한다."
-              },
-              {
-                "t": "p",
-                "x": "겉모습은 진짜와 무척 닮았지만, 원래 책 가격 $30.00보다 싼 $24.69에 팔리고 있다."
-              },
-              {
-                "t": "p",
-                "x": "\"첫 번째 결과: 진짜 책. 두 번째 결과: 'K. Rose'의 AI 짝퉁.\" 전 New York Times 테크 칼럼니스트인 Roose는 트윗에서 이렇게 분통을 터뜨렸다. \"창피한 일!\""
-              },
-              {
-                "t": "p",
-                "x": "사기가 통하고 있는 듯하다. 짝퉁에는 리뷰가 하나도 없는데도 Amazon은 이 책을 \"Human-Computer Interaction\" 분야 \"#1 New Release\"로 표시한다. 이 분야에서 세 번째로 많이 팔린 책은 Roose 책의 Kindle Edition이다."
-              },
-              {
-                "t": "p",
-                "x": "이런 수법은 오래전부터 이 플랫폼을 괴롭혀 왔고, 수년간 보도가 이어졌는데도 이를 막으려는 조치는 거의 없었다. Cory Doctorow의 \"Enshittification\" 책은 출간 당일 곧바로 AI로 복제(AI-duplicated)됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Amazonの詐欺業者\nRooseのAI本を複製",
-          "body": "Kevin Rooseの本の発売翌日、Amazonに「K. Rose」のAI模倣本が出た。",
-          "mini_headline": "Rooseの本がAmazonで複製",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-                "cap": "Futurism"
-              },
-              {
-                "t": "p",
-                "x": "AmazonのマーケットプレイスではAI本の詐欺業者がいまも横行している。"
-              },
-              {
-                "t": "p",
-                "x": "強力な汎用人工知能の開発をめぐるAI業界の競争を描いた新刊が書店に並んでわずか一日後、著者のKevin Rooseは、詐欺業者がすでにAIを使って読者をだまそうとしていることに気づいた。"
-              },
-              {
-                "t": "p",
-                "x": "Amazonでは、機械生成とみられるこの本の複製版が「The AGI Chronicles」というタイトルで堂々と出回り、このEC大手の検索結果で本物のすぐ下に表示されることさえある。"
-              },
-              {
-                "t": "p",
-                "x": "見た目は本物によく似ているが、原書の$30.00に対し、$24.69という安値で売られている。"
-              },
-              {
-                "t": "p",
-                "x": "「最初の結果：本物の本。二番目の結果：『K. Rose』によるAIのそっくり本」。元New York TimesのテックコラムニストであるRooseは、ツイートでこう憤った。「恥ずかしい！」"
-              },
-              {
-                "t": "p",
-                "x": "詐欺は功を奏しているようでもある。模倣本にはレビューが一件もないのに、Amazonは「Human-Computer Interaction」カテゴリーの「#1 New Release」と表示している。このカテゴリーで三番目に売れているのは、Roose本人の本のKindle Editionだ。"
-              },
-              {
-                "t": "p",
-                "x": "こうした手口は長年このプラットフォームを悩ませてきたが、何年にもわたって報じられても、ほとんど対策は取られていない。Cory Doctorowの「Enshittification」をテーマにした本は、発売当日にたちまちAIで複製（AI-duplicated）された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Amazon骗子克隆\nRoose的AI新书",
-          "body": "Kevin Roose新书上市次日，Amazon上就出现了“K. Rose”的AI仿冒本。",
-          "mini_headline": "Roose新书在Amazon遭克隆",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-                "cap": "Futurism"
-              },
-              {
-                "t": "p",
-                "x": "AI图书骗子仍在Amazon平台上大行其道。"
-              },
-              {
-                "t": "p",
-                "x": "一本讲述AI行业竞相打造强大通用人工智能的新书刚上架一天，作者Kevin Roose就发现，已经有骗子在利用AI欺骗他的读者。"
-              },
-              {
-                "t": "p",
-                "x": "在Amazon上，一本疑似由机器生成、题为“The AGI Chronicles”的仿冒本正在平台上随意流通，甚至在这家电商巨头的搜索结果中紧挨在正版书下方。"
-              },
-              {
-                "t": "p",
-                "x": "它看起来与正版非常相像，但标价仅$24.69，而原书售价$30.00。"
-              },
-              {
-                "t": "p",
-                "x": "“第一个结果：正版书。第二个结果：‘K. Rose’的AI仿冒本。”曾任New York Times科技专栏作家的Roose在推文中愤怒地写道，“丢人！”"
-              },
-              {
-                "t": "p",
-                "x": "这一骗局似乎还奏效了。尽管仿冒本没有任何评论，Amazon仍将其列为“Human-Computer Interaction”类别的“#1 New Release”。该类别销量第三的书，是Roose这本书的Kindle Edition。"
-              },
-              {
-                "t": "p",
-                "x": "这类骗局长期困扰该平台，尽管多年来媒体屡有报道，却几乎没有采取什么措施加以制止。Cory Doctorow关于“Enshittification”的书在出版当天就立即遭到AI复制（AI-duplicated）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Estafadores de Amazon clonan\nel libro de Kevin Roose sobre AI",
-          "body": "Un día después de salir el nuevo libro de Kevin Roose, Amazon listó una copia de AI, \"The AGI Chronicles\", de \"K. Rose\".",
-          "mini_headline": "Clonan en Amazon el libro de Roose",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-                "cap": "Futurism"
-              },
-              {
-                "t": "p",
-                "x": "Los estafadores de libros hechos con AI siguen prosperando en el marketplace de Amazon."
-              },
-              {
-                "t": "p",
-                "x": "Apenas un día después de que llegara a las librerías un nuevo libro sobre la carrera de la industria de la AI por construir una potente inteligencia artificial general, su autor, Kevin Roose, descubrió que un estafador ya intentaba engañar a sus lectores, usando AI."
-              },
-              {
-                "t": "p",
-                "x": "En Amazon, un aparente duplicado del libro generado por máquina, titulado \"The AGI Chronicles\", circula libremente por la plataforma e incluso aparece justo debajo del original en los resultados de búsqueda del gigante del comercio electrónico."
-              },
-              {
-                "t": "p",
-                "x": "Se parece mucho al original, pero se vende a un precio de ganga de $24.69, frente a los $30.00 del libro original."
-              },
-              {
-                "t": "p",
-                "x": "\"Primer resultado: libro real. Segundo resultado: imitación de AI de 'K. Rose'\", escribió indignado en un tuit Roose, excolumnista de tecnología del New York Times. \"¡Vergonzoso!\""
-              },
-              {
-                "t": "p",
-                "x": "Además, la estafa parece estar funcionando. Aunque la copia no tiene reseñas, Amazon la presenta como \"#1 New Release\" en la categoría \"Human-Computer Interaction\". El tercer libro más vendido de esa categoría es la Kindle Edition del libro de Roose."
-              },
-              {
-                "t": "p",
-                "x": "Este tipo de fraudes afecta a la plataforma desde hace tiempo y, pese a años de reportajes sobre el problema, se ha hecho poco para frenarlo. El libro de Cory Doctorow sobre \"Enshittification\" fue duplicado con AI (AI-duplicated) el mismo día de su publicación."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Amazon 사기꾼들이\nRoose의 AI 책 복제",
-          "body": "Kevin Roose 신간 출간 이튿날 Amazon에 AI 짝퉁이 올라왔다.",
-          "mini_headline": "Roose 책, Amazon서 복제",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-                "cap": "Futurism"
-              },
-              {
-                "t": "p",
-                "x": "Amazon 마켓플레이스에서 AI 책 사기꾼들이 여전히 활개를 치고 있다."
-              },
-              {
-                "t": "p",
-                "x": "강력한 범용인공지능을 만들려는 AI 업계의 경쟁을 다룬 새 책이 서점에 나온 지 불과 하루 만에, 저자 Kevin Roose는 한 사기꾼이 이미 AI를 이용해 자신의 독자를 속이려 한다는 사실을 알게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "Amazon에서는 기계가 만든 것으로 보이는 이 책의 복제본이 \"The AGI Chronicles\"라는 제목으로 버젓이 유통되고 있으며, 이 전자상거래 공룡의 검색 결과에서 진짜 책 바로 아래에 뜨기까지 한다."
-              },
-              {
-                "t": "p",
-                "x": "겉모습은 진짜와 무척 닮았지만, 원래 책 가격 $30.00보다 싼 $24.69에 팔리고 있다."
-              },
-              {
-                "t": "p",
-                "x": "\"첫 번째 결과: 진짜 책. 두 번째 결과: 'K. Rose'의 AI 짝퉁.\" 전 New York Times 테크 칼럼니스트인 Roose는 트윗에서 이렇게 분통을 터뜨렸다. \"창피한 일!\""
-              },
-              {
-                "t": "p",
-                "x": "사기가 통하고 있는 듯하다. 짝퉁에는 리뷰가 하나도 없는데도 Amazon은 이 책을 \"Human-Computer Interaction\" 분야 \"#1 New Release\"로 표시한다. 이 분야에서 세 번째로 많이 팔린 책은 Roose 책의 Kindle Edition이다."
-              },
-              {
-                "t": "p",
-                "x": "이런 수법은 오래전부터 이 플랫폼을 괴롭혀 왔고, 수년간 보도가 이어졌는데도 이를 막으려는 조치는 거의 없었다. Cory Doctorow의 \"Enshittification\" 책은 출간 당일 곧바로 AI로 복제(AI-duplicated)됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Amazonの詐欺業者\nRooseのAI本を複製",
-          "body": "Kevin Rooseの本の発売翌日、Amazonに「K. Rose」のAI模倣本が出た。",
-          "mini_headline": "Rooseの本がAmazonで複製",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-                "cap": "Futurism"
-              },
-              {
-                "t": "p",
-                "x": "AmazonのマーケットプレイスではAI本の詐欺業者がいまも横行している。"
-              },
-              {
-                "t": "p",
-                "x": "強力な汎用人工知能の開発をめぐるAI業界の競争を描いた新刊が書店に並んでわずか一日後、著者のKevin Rooseは、詐欺業者がすでにAIを使って読者をだまそうとしていることに気づいた。"
-              },
-              {
-                "t": "p",
-                "x": "Amazonでは、機械生成とみられるこの本の複製版が「The AGI Chronicles」というタイトルで堂々と出回り、このEC大手の検索結果で本物のすぐ下に表示されることさえある。"
-              },
-              {
-                "t": "p",
-                "x": "見た目は本物によく似ているが、原書の$30.00に対し、$24.69という安値で売られている。"
-              },
-              {
-                "t": "p",
-                "x": "「最初の結果：本物の本。二番目の結果：『K. Rose』によるAIのそっくり本」。元New York TimesのテックコラムニストであるRooseは、ツイートでこう憤った。「恥ずかしい！」"
-              },
-              {
-                "t": "p",
-                "x": "詐欺は功を奏しているようでもある。模倣本にはレビューが一件もないのに、Amazonは「Human-Computer Interaction」カテゴリーの「#1 New Release」と表示している。このカテゴリーで三番目に売れているのは、Roose本人の本のKindle Editionだ。"
-              },
-              {
-                "t": "p",
-                "x": "こうした手口は長年このプラットフォームを悩ませてきたが、何年にもわたって報じられても、ほとんど対策は取られていない。Cory Doctorowの「Enshittification」をテーマにした本は、発売当日にたちまちAIで複製（AI-duplicated）された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Amazon骗子克隆\nRoose的AI新书",
-          "body": "Kevin Roose新书上市次日，Amazon上就出现了“K. Rose”的AI仿冒本。",
-          "mini_headline": "Roose新书在Amazon遭克隆",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-                "cap": "Futurism"
-              },
-              {
-                "t": "p",
-                "x": "AI图书骗子仍在Amazon平台上大行其道。"
-              },
-              {
-                "t": "p",
-                "x": "一本讲述AI行业竞相打造强大通用人工智能的新书刚上架一天，作者Kevin Roose就发现，已经有骗子在利用AI欺骗他的读者。"
-              },
-              {
-                "t": "p",
-                "x": "在Amazon上，一本疑似由机器生成、题为“The AGI Chronicles”的仿冒本正在平台上随意流通，甚至在这家电商巨头的搜索结果中紧挨在正版书下方。"
-              },
-              {
-                "t": "p",
-                "x": "它看起来与正版非常相像，但标价仅$24.69，而原书售价$30.00。"
-              },
-              {
-                "t": "p",
-                "x": "“第一个结果：正版书。第二个结果：‘K. Rose’的AI仿冒本。”曾任New York Times科技专栏作家的Roose在推文中愤怒地写道，“丢人！”"
-              },
-              {
-                "t": "p",
-                "x": "这一骗局似乎还奏效了。尽管仿冒本没有任何评论，Amazon仍将其列为“Human-Computer Interaction”类别的“#1 New Release”。该类别销量第三的书，是Roose这本书的Kindle Edition。"
-              },
-              {
-                "t": "p",
-                "x": "这类骗局长期困扰该平台，尽管多年来媒体屡有报道，却几乎没有采取什么措施加以制止。Cory Doctorow关于“Enshittification”的书在出版当天就立即遭到AI复制（AI-duplicated）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Estafadores de Amazon clonan\nel libro de Kevin Roose sobre AI",
-          "body": "Un día después de salir el nuevo libro de Kevin Roose, Amazon listó una copia de AI, \"The AGI Chronicles\", de \"K. Rose\".",
-          "mini_headline": "Clonan en Amazon el libro de Roose",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://futurism.com/wp-content/uploads/2026/10/kevin-roose-ai-industry-book-amazon-copycat.jpg?w=1200",
-                "cap": "Futurism"
-              },
-              {
-                "t": "p",
-                "x": "Los estafadores de libros hechos con AI siguen prosperando en el marketplace de Amazon."
-              },
-              {
-                "t": "p",
-                "x": "Apenas un día después de que llegara a las librerías un nuevo libro sobre la carrera de la industria de la AI por construir una potente inteligencia artificial general, su autor, Kevin Roose, descubrió que un estafador ya intentaba engañar a sus lectores, usando AI."
-              },
-              {
-                "t": "p",
-                "x": "En Amazon, un aparente duplicado del libro generado por máquina, titulado \"The AGI Chronicles\", circula libremente por la plataforma e incluso aparece justo debajo del original en los resultados de búsqueda del gigante del comercio electrónico."
-              },
-              {
-                "t": "p",
-                "x": "Se parece mucho al original, pero se vende a un precio de ganga de $24.69, frente a los $30.00 del libro original."
-              },
-              {
-                "t": "p",
-                "x": "\"Primer resultado: libro real. Segundo resultado: imitación de AI de 'K. Rose'\", escribió indignado en un tuit Roose, excolumnista de tecnología del New York Times. \"¡Vergonzoso!\""
-              },
-              {
-                "t": "p",
-                "x": "Además, la estafa parece estar funcionando. Aunque la copia no tiene reseñas, Amazon la presenta como \"#1 New Release\" en la categoría \"Human-Computer Interaction\". El tercer libro más vendido de esa categoría es la Kindle Edition del libro de Roose."
-              },
-              {
-                "t": "p",
-                "x": "Este tipo de fraudes afecta a la plataforma desde hace tiempo y, pese a años de reportajes sobre el problema, se ha hecho poco para frenarlo. El libro de Cory Doctorow sobre \"Enshittification\" fue duplicado con AI (AI-duplicated) el mismo día de su publicación."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "korea-used-books-ai-training-buyup-probe",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 학습용 헌책 매집에\n출판계 \"단호히 거부\"",
-      "body": "출판문화협회가 헌책 매집 실태조사에 나서지만 일부 헌책방은 팔 의향을 밝혔다.",
-      "mini_headline": "헌책 AI 매집 거부",
-      "tool": "Books",
-      "source": "중앙일보",
-      "url": "https://www.joongang.co.kr/article/25468823",
+      "source": "AIBase",
+      "url": "https://news.aibase.com/news/31561",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -1287,209 +523,481 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-            "cap": "지난 6월 24일 서울 코엑스에서 열린 2026 서울국제도서전. 뉴스1"
+            "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
           },
           {
             "t": "p",
-            "x": "AI 학습 용도로 의심되는 헌책 대량 매입 시도에 대해 홍영완 한국출판인회의 대표는 \"단호히 거부하고, 대응 전략도 세울 것\"이라며 \"누가, 어떤 목적으로 헌책을 대량 매입하는지 꼼꼼하게 판매 정보를 들여다볼 계획\"이라고 말했다."
+            "x": "독자들이 실물 책 “The Road to the End”의 황당한 대목을 공유했다. 본문에 “전체 문체를 서스펜스와 초자연적 분위기에 더 맞게 일부 문장을 조정해 드릴까요?”라는 문장이 불쑥 끼어 있었다. 누가 봐도 AI 어시스턴트의 말투다. 온라인판 80장의 같은 자리에는 이 문장이 없다."
           },
           {
             "t": "p",
-            "x": "대한출판문화협회는 이번 주 중 실태조사를 시작해 예스24·알라딘 중고서점과 서울·부산 헌책방에 이상 매입 정보 공유를 요청하는 공문을 보내고, AI 저작권 침해 성명서 발표와 무단 학습을 막는 법령 마련 촉구도 계획하고 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-            "cap": "일본 도쿄 진보초의 한 서점. 유성운 특파원"
+            "x": "책을 낸 Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.는 사과하면서 원고에는 없던 내용이라고 밝혔다. 분량을 줄이다가 팀이 교정 소프트웨어의 프롬프트 문구를 실수로 본문에 넣었다는 설명이다. Jiangsu Phoenix Literature and Art Press는 편집과 교정을 넘기는 과정에서 책임 소재가 흐려졌고, 작가 잘못은 아니라고 했다. 이미 나간 책은 출판사가 전량 거둬 폐기하고 다시 편집한다."
           },
           {
             "t": "p",
-            "x": "일본에선 닛판 자회사가 2024년 12월부터 1년간 앤트로픽에 서적을 판매했다고 인정했고, 프랑크푸르트 도서전에선 120여개 출판사가 '프랑크푸르트 호소문'을 발표했다. 한국출판인회의와 한국작가회의 등도 동참 성명을 낼 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "그러나 경영난에 시달리는 중고서점들의 거절 여부는 미지수다. 고효종 무게로 헌책방 대표는 \"장사하는 입장이니 산다고 하면 팔 의향이 있다\"고 말했다."
+            "x": "AIBase는 이 일을 AI가 출판에 들어올 때 새겨야 할 경고로 본다. 지능형 교정이 작업 과정에 자리 잡을수록 마지막 수작업 확인이 더 중요해진다는 지적이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 학습용 헌책 매집에\n출판계 \"단호히 거부\"",
-          "body": "출판문화협회가 헌책 매집 실태조사에 나서지만 일부 헌책방은 팔 의향을 밝혔다.",
-          "mini_headline": "헌책 AI 매집 거부",
+        "en": {
+          "headline": "Publisher recalls book with\nAI prompt printed in its text",
+          "body": "A proofreading software prompt was printed in the novel 'The Road to the End', so the publisher will recall all copies.",
+          "mini_headline": "AI prompt left in print",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-                "cap": "지난 6월 24일 서울 코엑스에서 열린 2026 서울국제도서전. 뉴스1"
+                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
               },
               {
                 "t": "p",
-                "x": "AI 학습 용도로 의심되는 헌책 대량 매입 시도에 대해 홍영완 한국출판인회의 대표는 \"단호히 거부하고, 대응 전략도 세울 것\"이라며 \"누가, 어떤 목적으로 헌책을 대량 매입하는지 꼼꼼하게 판매 정보를 들여다볼 계획\"이라고 말했다."
+                "x": "Readers shared an absurd scene from the physical book \"The Road to the End\": a sentence suddenly appeared in the text asking, \"Do you need me to adjust some sentences to make the overall style more consistent with the suspense and supernatural atmosphere?\" — clearly the tone of an AI assistant. In the online version, the corresponding position in chapter 80 has no such line."
               },
               {
                 "t": "p",
-                "x": "대한출판문화협회는 이번 주 중 실태조사를 시작해 예스24·알라딘 중고서점과 서울·부산 헌책방에 이상 매입 정보 공유를 요청하는 공문을 보내고, AI 저작권 침해 성명서 발표와 무단 학습을 막는 법령 마련 촉구도 계획하고 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-                "cap": "일본 도쿄 진보초의 한 서점. 유성운 특파원"
+                "x": "Tianjin Zhiyu Shiguang Cultural Media Co., Ltd., the company behind the book, apologized, saying the content was not in the manuscript: during the text reduction process, the team mistakenly included the prompt words from the proofreading software as part of the main text. Jiangsu Phoenix Literature and Art Press said responsibility became diluted across editing and proofreading handovers and the issue was not with the author. For already released books, the publisher will recall and destroy all copies, and re-edit them."
               },
               {
                 "t": "p",
-                "x": "일본에선 닛판 자회사가 2024년 12월부터 1년간 앤트로픽에 서적을 판매했다고 인정했고, 프랑크푸르트 도서전에선 120여개 출판사가 '프랑크푸르트 호소문'을 발표했다. 한국출판인회의와 한국작가회의 등도 동참 성명을 낼 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "그러나 경영난에 시달리는 중고서점들의 거절 여부는 미지수다. 고효종 무게로 헌책방 대표는 \"장사하는 입장이니 산다고 하면 팔 의향이 있다\"고 말했다."
+                "x": "AIBase calls it a warning for AI participation in publishing: as intelligent proofreading enters the workflow, the final line of manual checks matters more."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Publishers \"firmly reject\" used\nbook buyups for AI training",
-          "body": "The Korean Publishers Association is probing used-book buyups, but some secondhand shops say they would sell.",
-          "mini_headline": "Publishers reject AI book buyups",
+        "ko": {
+          "headline": "소설에 찍힌 AI 프롬프트\n출판사가 전량 회수",
+          "body": "교정 프롬프트가 찍힌 소설 'The Road to the End'를 전량 회수한다.",
+          "mini_headline": "인쇄본에 남은 AI 프롬프트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-                "cap": "The 2026 Seoul International Book Fair at COEX in Seoul on June 24. News1"
+                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
               },
               {
                 "t": "p",
-                "x": "Asked about attempts to buy up used books in bulk, suspected to be for AI training, Hong Yeong-wan, head of the Korean Publishers Society, said, \"We will firmly reject it and also set up a response strategy,\" adding, \"We plan to look closely at sales information to see who is buying used books in bulk and for what purpose.\""
+                "x": "독자들이 실물 책 “The Road to the End”의 황당한 대목을 공유했다. 본문에 “전체 문체를 서스펜스와 초자연적 분위기에 더 맞게 일부 문장을 조정해 드릴까요?”라는 문장이 불쑥 끼어 있었다. 누가 봐도 AI 어시스턴트의 말투다. 온라인판 80장의 같은 자리에는 이 문장이 없다."
               },
               {
                 "t": "p",
-                "x": "The Korean Publishers Association plans to begin a fact-finding survey this week, sending official letters to the Yes24 and Aladin used bookstores and to secondhand bookshops in Seoul and Busan asking them to share information on unusual purchases. It also plans to issue a statement on AI copyright infringement and to urge legislation that blocks unauthorized training."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-                "cap": "A bookstore in Jimbocho, Tokyo, Japan. Yu Seong-un, correspondent"
+                "x": "책을 낸 Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.는 사과하면서 원고에는 없던 내용이라고 밝혔다. 분량을 줄이다가 팀이 교정 소프트웨어의 프롬프트 문구를 실수로 본문에 넣었다는 설명이다. Jiangsu Phoenix Literature and Art Press는 편집과 교정을 넘기는 과정에서 책임 소재가 흐려졌고, 작가 잘못은 아니라고 했다. 이미 나간 책은 출판사가 전량 거둬 폐기하고 다시 편집한다."
               },
               {
                 "t": "p",
-                "x": "In Japan, a subsidiary of Nippan acknowledged selling books to Anthropic over a 1-year period starting in December 2024, and at the Frankfurt Book Fair more than 120 publishers issued the \"Frankfurt Appeal.\" The Korean Publishers Society and the Writers' Association of Korea, among others, also plan to issue statements joining it."
-              },
-              {
-                "t": "p",
-                "x": "But it is unclear whether struggling used bookstores will refuse. Go Hyo-jong, head of the Mugero secondhand bookstore, said, \"I'm in business, so if someone wants to buy, I'm willing to sell.\""
+                "x": "AIBase는 이 일을 AI가 출판에 들어올 때 새겨야 할 경고로 본다. 지능형 교정이 작업 과정에 자리 잡을수록 마지막 수작업 확인이 더 중요해진다는 지적이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI学習用の古書買い占め\n出版界「断固拒否」",
-          "body": "出版文化協会が古書買い占めの実態調査に乗り出すが、一部の古書店は売る意向を示した。",
-          "mini_headline": "古書のAI買い占めを拒否",
+          "headline": "本文にAIプロンプト\n出版社が書籍を回収",
+          "body": "小説『The Road to the End』に校正プロンプトが載り、全冊を回収する。",
+          "mini_headline": "印刷に残ったAIプロンプト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-                "cap": "6月24日、ソウルのCOEXで開かれた2026ソウル国際図書展。News1"
+                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
               },
               {
                 "t": "p",
-                "x": "AI学習用とみられる古書の大量買い付けの動きについて、韓国出版人会議のホン・ヨンワン代表は「断固として拒否し、対応戦略も立てる」としたうえで、「誰が、どんな目的で古書を大量に買い付けているのか、販売情報を詳しく調べる計画だ」と述べた。"
+                "x": "読者が紙の書籍『The Road to the End』の奇妙な一場面を共有した。本文に突然「全体の文体をサスペンスと超常的な雰囲気により合わせるため、いくつかの文を調整しましょうか？」という一文が現れたのだ。明らかにAIアシスタントの口調である。オンライン版では、第80章の該当する位置にそのような一文はない。"
               },
               {
                 "t": "p",
-                "x": "大韓出版文化協会は今週中に実態調査を始め、Yes24・Aladinの中古書店やソウル・釜山の古書店に、不審な買い付け情報の共有を求める公文書を送る。AIによる著作権侵害についての声明発表や、無断学習を防ぐ法整備の要求も計画している。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-                "cap": "東京・神保町の書店。ユ・ソンウン特派員"
+                "x": "この本を手がけたTianjin Zhiyu Shiguang Cultural Media Co., Ltd.は謝罪し、この内容は原稿にはなかったと説明した。本文を削る作業の過程で、チームが校正ソフトのプロンプト文言を誤って本文の一部として含めてしまったという。Jiangsu Phoenix Literature and Art Pressは、編集と校正の引き継ぎの中で責任が薄まり、作者の問題ではないと述べた。すでに出回った本について、出版社は全冊を回収・廃棄し、再編集する。"
               },
               {
                 "t": "p",
-                "x": "日本では日販の子会社が2024年12月から1年間、Anthropicに書籍を販売したと認め、フランクフルト・ブックフェアでは120余りの出版社が「フランクフルト・アピール」を発表した。韓国出版人会議や韓国作家会議なども賛同声明を出す予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "ただ、経営難にあえぐ中古書店が断るかどうかは分からない。古書店「ムゲロ」のコ・ヒョジョン代表は「商売をしている立場だから、買うと言われれば売るつもりだ」と話した。"
+                "x": "AIBaseはこれを出版へのAI関与に対する警告と位置づける。インテリジェント校正が作業工程に入るほど、人の手による最終確認の重要性は増すという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI训练用旧书遭收购\n出版界“坚决拒绝”",
-          "body": "大韩出版文化协会将调查旧书大量收购情况，但部分旧书店表示愿意出售。",
-          "mini_headline": "出版界拒绝AI收购旧书",
+          "headline": "正文印出AI提示词\n出版社召回图书",
+          "body": "小说《The Road to the End》正文印入校对软件提示词，出版社将全部召回。",
+          "mini_headline": "AI提示词被印进书里",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-                "cap": "6月24日在首尔COEX举行的2026首尔国际书展。News1"
+                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
               },
               {
                 "t": "p",
-                "x": "对于疑似用于AI训练的旧书大量收购行为，韩国出版人会议代表Hong Yeong-wan表示：“将坚决拒绝，并制定应对策略。”他还说：“计划仔细查看销售信息，弄清是谁、出于什么目的在大量收购旧书。”"
+                "x": "读者分享了实体书《The Road to the End》中的离谱一幕：正文里突然冒出一句“需要我调整一些句子，让整体风格更贴合悬疑和超自然氛围吗？”——明显是AI助手的口吻。而在线上版本中，第80章的对应位置并没有这句话。"
               },
               {
                 "t": "p",
-                "x": "大韩出版文化协会计划本周内启动实况调查，向Yes24、Aladin二手书店以及首尔、釜山的旧书店发出公函，请求共享异常收购信息，并计划发表AI侵犯著作权的声明，敦促制定阻止擅自训练的法令。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-                "cap": "日本东京神保町的一家书店。Yu Seong-un 特派记者"
+                "x": "出品该书的Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.致歉称，原稿中并无此内容：在文本删减过程中，团队误将校对软件的提示词当作正文的一部分收录。Jiangsu Phoenix Literature and Art Press表示，责任在编辑与校对的交接中被稀释，问题不在作者。对于已发行的图书，出版社将全部召回销毁并重新编辑。"
               },
               {
                 "t": "p",
-                "x": "在日本，日贩的子公司承认自2024年12月起的1年间向Anthropic出售了书籍；在法兰克福书展上，120余家出版社发表了“法兰克福呼吁书”。韩国出版人会议和韩国作家会议等也计划发表声明响应。"
-              },
-              {
-                "t": "p",
-                "x": "但经营困难的二手书店是否会拒绝仍是未知数。Mugero旧书店代表Go Hyo-jong说：“我是做生意的，有人要买，我就愿意卖。”"
+                "x": "AIBase称，这是对AI参与出版的一次警示：随着智能校对进入工作流程，最后一道人工把关更加重要。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editores rechazan \"de plano\"\nacopiar libros usados para AI",
-          "body": "La Asociación de Editores investigará el acopio de libros usados, pero algunas librerías de viejo dicen que venderían.",
-          "mini_headline": "Rechazo a acopiar libros para AI",
+          "headline": "Una editorial retira un libro\ncon un prompt de IA impreso",
+          "body": "Un prompt de corrección quedó impreso en la novela 'The Road to the End' y la editorial retirará toda la tirada.",
+          "mini_headline": "Un prompt de IA quedó impreso",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-                "cap": "La 2026 Feria Internacional del Libro de Seúl, celebrada el 24 de junio en el COEX de Seúl. News1"
+                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
               },
               {
                 "t": "p",
-                "x": "Ante los intentos de comprar libros usados en grandes cantidades, presuntamente para entrenar AI, Hong Yeong-wan, presidente de la Sociedad Coreana de Editores, afirmó: \"Lo rechazaremos de plano y también trazaremos una estrategia de respuesta\", y añadió: \"Planeamos examinar con detalle la información de ventas para saber quién compra libros usados en grandes cantidades y con qué fin\"."
+                "x": "Los lectores compartieron una escena absurda del libro impreso “The Road to the End”: en el texto apareció de pronto una frase que preguntaba “¿Necesitas que ajuste algunas frases para que el estilo general encaje mejor con la atmósfera de suspense y lo sobrenatural?”, con el tono inconfundible de un asistente de IA. En la versión en línea, la posición correspondiente del capítulo 80 no contiene esa línea."
               },
               {
                 "t": "p",
-                "x": "La Asociación Coreana de Editores comenzará esta semana una investigación y enviará cartas oficiales a las librerías de segunda mano de Yes24 y Aladin y a librerías de viejo de Seúl y Busan para pedirles que compartan información sobre compras anómalas. También planea emitir un comunicado sobre la infracción de derechos de autor por la AI e instar a crear leyes que impidan el entrenamiento no autorizado."
+                "x": "Tianjin Zhiyu Shiguang Cultural Media Co., Ltd., la empresa detrás del libro, pidió disculpas y dijo que el contenido no estaba en el manuscrito: durante el proceso de reducción del texto, el equipo incluyó por error las indicaciones del software de corrección como parte del texto principal. Jiangsu Phoenix Literature and Art Press señaló que la responsabilidad se diluyó en los traspasos entre edición y corrección y que el problema no era del autor. En cuanto a los libros ya publicados, la editorial retirará y destruirá todos los ejemplares y los volverá a editar."
+              },
+              {
+                "t": "p",
+                "x": "AIBase lo considera una advertencia para la participación de la IA en la edición: a medida que la corrección inteligente entra en el flujo de trabajo, la última línea de revisión manual cobra más importancia."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 프롬프트 인쇄된\n소설, 출판사가 회수",
+          "body": "소설 'The Road to the End'에 교정 프롬프트가 찍혀 전량 회수한다.",
+          "mini_headline": "인쇄본에 남은 AI 프롬프트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+              },
+              {
+                "t": "p",
+                "x": "독자들이 실물 책 “The Road to the End”의 황당한 장면을 공유했다. 본문에 갑자기 “전체 문체를 서스펜스와 초자연적 분위기에 더 맞게 일부 문장을 조정해 드릴까요?”라는 문장이 등장한 것으로, 누가 봐도 AI 어시스턴트의 말투다. 온라인판에서는 80장의 해당 위치에 이런 문장이 없다."
+              },
+              {
+                "t": "p",
+                "x": "책을 낸 Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.는 사과하며 이 내용이 원고에는 없었다고 밝혔다. 분량을 줄이는 과정에서 팀이 교정 소프트웨어의 프롬프트 문구를 실수로 본문에 포함했다는 설명이다. Jiangsu Phoenix Literature and Art Press는 편집과 교정 인계 과정에서 책임이 흐려졌으며 작가의 문제는 아니라고 밝혔다. 이미 출간된 책은 출판사가 전량 회수해 폐기하고 다시 편집한다."
+              },
+              {
+                "t": "p",
+                "x": "AIBase는 이를 출판에 AI가 참여하는 데 대한 경고로 본다. 지능형 교정이 작업 흐름에 들어올수록 마지막 수작업 확인이 더 중요해진다는 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "本文にAIプロンプト\n出版社が書籍を回収",
+          "body": "小説『The Road to the End』に校正プロンプトが載り、全冊を回収する。",
+          "mini_headline": "印刷に残ったAIプロンプト",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+              },
+              {
+                "t": "p",
+                "x": "読者が紙の書籍『The Road to the End』の奇妙な一場面を共有した。本文に突然「全体の文体をサスペンスと超常的な雰囲気により合わせるため、いくつかの文を調整しましょうか？」という一文が現れたのだ。明らかにAIアシスタントの口調である。オンライン版では、第80章の該当する位置にそのような一文はない。"
+              },
+              {
+                "t": "p",
+                "x": "この本を手がけたTianjin Zhiyu Shiguang Cultural Media Co., Ltd.は謝罪し、この内容は原稿にはなかったと説明した。本文を削る作業の過程で、チームが校正ソフトのプロンプト文言を誤って本文の一部として含めてしまったという。Jiangsu Phoenix Literature and Art Pressは、編集と校正の引き継ぎの中で責任が薄まり、作者の問題ではないと述べた。すでに出回った本について、出版社は全冊を回収・廃棄し、再編集する。"
+              },
+              {
+                "t": "p",
+                "x": "AIBaseはこれを出版へのAI関与に対する警告と位置づける。インテリジェント校正が作業工程に入るほど、人の手による最終確認の重要性は増すという。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "正文印出AI提示词\n出版社召回图书",
+          "body": "小说《The Road to the End》正文印入校对软件提示词，出版社将全部召回。",
+          "mini_headline": "AI提示词被印进书里",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+              },
+              {
+                "t": "p",
+                "x": "读者分享了实体书《The Road to the End》中的离谱一幕：正文里突然冒出一句“需要我调整一些句子，让整体风格更贴合悬疑和超自然氛围吗？”——明显是AI助手的口吻。而在线上版本中，第80章的对应位置并没有这句话。"
+              },
+              {
+                "t": "p",
+                "x": "出品该书的Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.致歉称，原稿中并无此内容：在文本删减过程中，团队误将校对软件的提示词当作正文的一部分收录。Jiangsu Phoenix Literature and Art Press表示，责任在编辑与校对的交接中被稀释，问题不在作者。对于已发行的图书，出版社将全部召回销毁并重新编辑。"
+              },
+              {
+                "t": "p",
+                "x": "AIBase称，这是对AI参与出版的一次警示：随着智能校对进入工作流程，最后一道人工把关更加重要。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una editorial retira un libro\ncon un prompt de IA impreso",
+          "body": "Un prompt de corrección quedó impreso en la novela 'The Road to the End' y la editorial retirará toda la tirada.",
+          "mini_headline": "Un prompt de IA quedó impreso",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+              },
+              {
+                "t": "p",
+                "x": "Los lectores compartieron una escena absurda del libro impreso “The Road to the End”: en el texto apareció de pronto una frase que preguntaba “¿Necesitas que ajuste algunas frases para que el estilo general encaje mejor con la atmósfera de suspense y lo sobrenatural?”, con el tono inconfundible de un asistente de IA. En la versión en línea, la posición correspondiente del capítulo 80 no contiene esa línea."
+              },
+              {
+                "t": "p",
+                "x": "Tianjin Zhiyu Shiguang Cultural Media Co., Ltd., la empresa detrás del libro, pidió disculpas y dijo que el contenido no estaba en el manuscrito: durante el proceso de reducción del texto, el equipo incluyó por error las indicaciones del software de corrección como parte del texto principal. Jiangsu Phoenix Literature and Art Press señaló que la responsabilidad se diluyó en los traspasos entre edición y corrección y que el problema no era del autor. En cuanto a los libros ya publicados, la editorial retirará y destruirá todos los ejemplares y los volverá a editar."
+              },
+              {
+                "t": "p",
+                "x": "AIBase lo considera una advertencia para la participación de la IA en la edición: a medida que la corrección inteligente entra en el flujo de trabajo, la última línea de revisión manual cobra más importancia."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "books-hivemind-webnovel-ai-translation",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "하이브마인드, AI로\n웹소설 번역비 낮춘다",
+      "body": "하이브마인드는 AI 번역으로 K-웹소설의 해외 진출 비용을 낮추려 한다.",
+      "mini_headline": "AI로 웹소설 번역비 절감",
+      "tool": "Books",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/It/article/all/20261008/134807824/1",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+            "cap": "하이브마인드 공식 홈페이지 / 출처=하이브마인드"
+          },
+          {
+            "t": "p",
+            "x": "웹소설은 영상 콘텐츠에 비해 해외 진출 장벽이 높다. 수백 화에 달하는 장편을 외국어로 옮기려면 낮은 단가를 적용해도 1000만 원 이상이 들지만, 비용 회수는 장담하기 어렵다. 글로벌 콘텐츠 퍼블리싱 플랫폼 ‘오로라(Aurorah)’를 개발 중인 스타트업 하이브마인드는 생성형 AI와 인간 번역가의 협업으로 이 문턱을 낮추려 한다."
+          },
+          {
+            "t": "p",
+            "x": "이융희 작가는 “200화 기준 글자당 10원만 계산해도 최소 1000만 원 이상이 든다”고 말했다. 임허규 한국창작스토리작가협회 협회장은 “AI 번역은 IP 확장을 위한 환영할 만한 돌파구”라면서도, AI 초안을 인간 전문가가 감수하는 MTPE(기계번역 후편집) 과정의 시스템화가 필수적이라고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "오로라의 현지화 공정은 AI 초벌 번역, 전문가 감수, AI 감수, 사람의 최종 감수 순으로 이어진다. 하이브마인드는 올해 문화체육관광부의 번역 기술 R&D 과제에 참여하고 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+            "cap": "김동욱 하이브마인드 대표 / 출처=IT동아"
+          },
+          {
+            "t": "p",
+            "x": "김동욱 대표는 “그동안 비용 장벽에 막혀 시도하지 못했던 작품을 여러 언어권과 시장에서 지속적으로 상품화하고 타당성을 검증할 수 있도록 만드는 것이 더욱 큰 변화”라고 강조했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "하이브마인드, AI로\n웹소설 번역비 낮춘다",
+          "body": "하이브마인드는 AI 번역으로 K-웹소설의 해외 진출 비용을 낮추려 한다.",
+          "mini_headline": "AI로 웹소설 번역비 절감",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+                "cap": "하이브마인드 공식 홈페이지 / 출처=하이브마인드"
+              },
+              {
+                "t": "p",
+                "x": "웹소설은 영상 콘텐츠에 비해 해외 진출 장벽이 높다. 수백 화에 달하는 장편을 외국어로 옮기려면 낮은 단가를 적용해도 1000만 원 이상이 들지만, 비용 회수는 장담하기 어렵다. 글로벌 콘텐츠 퍼블리싱 플랫폼 ‘오로라(Aurorah)’를 개발 중인 스타트업 하이브마인드는 생성형 AI와 인간 번역가의 협업으로 이 문턱을 낮추려 한다."
+              },
+              {
+                "t": "p",
+                "x": "이융희 작가는 “200화 기준 글자당 10원만 계산해도 최소 1000만 원 이상이 든다”고 말했다. 임허규 한국창작스토리작가협회 협회장은 “AI 번역은 IP 확장을 위한 환영할 만한 돌파구”라면서도, AI 초안을 인간 전문가가 감수하는 MTPE(기계번역 후편집) 과정의 시스템화가 필수적이라고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "오로라의 현지화 공정은 AI 초벌 번역, 전문가 감수, AI 감수, 사람의 최종 감수 순으로 이어진다. 하이브마인드는 올해 문화체육관광부의 번역 기술 R&D 과제에 참여하고 있다."
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-                "cap": "Una librería en Jimbocho, Tokio (Japón). Yu Seong-un, corresponsal"
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+                "cap": "김동욱 하이브마인드 대표 / 출처=IT동아"
               },
               {
                 "t": "p",
-                "x": "En Japón, una filial de Nippan reconoció haber vendido libros a Anthropic durante 1 año a partir de diciembre de 2024, y en la Feria del Libro de Fráncfort más de 120 editoriales publicaron el \"Llamamiento de Fráncfort\". La Sociedad Coreana de Editores y la Asociación de Escritores de Corea, entre otras, también planean sumarse con comunicados."
+                "x": "김동욱 대표는 “그동안 비용 장벽에 막혀 시도하지 못했던 작품을 여러 언어권과 시장에서 지속적으로 상품화하고 타당성을 검증할 수 있도록 만드는 것이 더욱 큰 변화”라고 강조했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Hivemind uses AI to cut\nweb novel translation costs",
+          "body": "Hivemind aims to lower the cost of taking K-web novels overseas through AI translation.",
+          "mini_headline": "AI cuts web novel translation costs",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+                "cap": "Hivemind official website / Source: Hivemind"
               },
               {
                 "t": "p",
-                "x": "Sin embargo, no está claro si las librerías de segunda mano, en apuros económicos, se negarán. Go Hyo-jong, dueño de la librería de viejo Mugero, dijo: \"Como me dedico al comercio, si alguien quiere comprar, estoy dispuesto a vender\"."
+                "x": "Web novels face higher barriers to overseas expansion than video content. Translating a long series running to hundreds of episodes into a foreign language costs more than 1000만 won (10 million won) even at low rates, and there is no guarantee of recouping the cost. Hivemind, a startup developing the global content publishing platform 'Aurorah', wants to lower this barrier through collaboration between generative AI and human translators."
+              },
+              {
+                "t": "p",
+                "x": "Writer Lee Yung-hee said, \"Even at just 10 won (10원) per character, 200 episodes cost at least 10 million won.\" Lim Heo-kyu, president of the Korea Creative Story Writers Association, said \"AI translation is a welcome breakthrough for IP expansion,\" but added that systematizing MTPE (machine translation post-editing), in which human experts review AI drafts, is essential."
+              },
+              {
+                "t": "p",
+                "x": "Aurorah's localization process runs in this order: AI first-draft translation, expert review, AI review, and a final human review. Hivemind is taking part this year in a translation technology R&D project of the Ministry of Culture, Sports and Tourism."
+              },
+              {
+                "t": "img",
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+                "cap": "Kim Dong-wook, CEO of Hivemind / Source: IT Donga"
+              },
+              {
+                "t": "p",
+                "x": "CEO Kim Dong-wook stressed, \"The bigger change is making it possible to continuously commercialize works that could not be attempted because of cost barriers, and to test their viability across multiple languages and markets.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ハイブマインド、AIで\nウェブ小説の翻訳費削減",
+          "body": "ハイブマインドはAI翻訳でK-ウェブ小説の海外進出コストを下げようとしている。",
+          "mini_headline": "AIでウェブ小説の翻訳費を削減",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+                "cap": "ハイブマインド公式ホームページ / 出典=ハイブマインド"
+              },
+              {
+                "t": "p",
+                "x": "ウェブ小説は映像コンテンツに比べて海外進出の壁が高い。数百話に及ぶ長編を外国語に訳すには、低い単価を適用しても1000万ウォン以上かかるが、費用を回収できる保証はない。グローバルコンテンツパブリッシングプラットフォーム「オーロラ(Aurorah)」を開発中のスタートアップ、ハイブマインドは、生成AIと人間の翻訳者の協業によってこのハードルを下げようとしている。"
+              },
+              {
+                "t": "p",
+                "x": "作家のイ・ユンヒ氏は「200話基準で1文字10ウォン(10원)で計算しても、最低1000万ウォン以上かかる」と語った。韓国創作ストーリー作家協会のイム・ホギュ協会長は「AI翻訳はIP拡張のための歓迎すべき突破口だ」としつつも、AIの下訳を人間の専門家が監修するMTPE(機械翻訳ポストエディット)工程のシステム化が不可欠だと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "オーロラのローカライズ工程は、AIによる下訳、専門家の監修、AIによる監修、人による最終監修の順で進む。ハイブマインドは今年、文化体育観光部の翻訳技術R&D課題に参加している。"
+              },
+              {
+                "t": "img",
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+                "cap": "キム・ドンウク ハイブマインド代表 / 出典=IT東亜"
+              },
+              {
+                "t": "p",
+                "x": "キム・ドンウク代表は「これまで費用の壁に阻まれて挑戦できなかった作品を、複数の言語圏と市場で継続的に商品化し、妥当性を検証できるようにすることこそ、より大きな変化だ」と強調した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Hivemind借AI\n降低网文翻译成本",
+          "body": "Hivemind希望借助AI翻译降低K-网络小说出海的成本。",
+          "mini_headline": "用AI降低网文翻译成本",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+                "cap": "Hivemind官方网站 / 来源=Hivemind"
+              },
+              {
+                "t": "p",
+                "x": "与影像内容相比，网络小说出海的门槛更高。将长达数百话的长篇译成外语，即便采用较低单价也要花费1000万韩元以上，而能否收回成本却难以保证。正在开发全球内容发行平台“Aurorah”的初创公司Hivemind，希望通过生成式AI与人类译者的协作来降低这一门槛。"
+              },
+              {
+                "t": "p",
+                "x": "作家李融熙表示：“以200话计算，每字只按10韩元(10원)算，也至少需要1000万韩元以上。”韩国创作故事作家协会会长林许圭表示“AI翻译是扩展IP的可喜突破”，但同时补充说，由人类专家审校AI初稿的MTPE（机器翻译后编辑）流程必须实现系统化。"
+              },
+              {
+                "t": "p",
+                "x": "Aurorah的本地化流程依次为AI初译、专家审校、AI审校和人工终审。Hivemind今年正在参与韩国文化体育观光部的翻译技术R&D课题。"
+              },
+              {
+                "t": "img",
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+                "cap": "Hivemind代表金东旭 / 来源=IT东亚"
+              },
+              {
+                "t": "p",
+                "x": "金东旭代表强调：“让那些过去因成本壁垒而无法尝试的作品，能够在多个语种和市场中持续商品化并验证其可行性，这才是更大的变化。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hivemind recurre a la AI\npara abaratar la traducción",
+          "body": "Hivemind busca abaratar con traducción por AI la salida al exterior de las K-novelas web.",
+          "mini_headline": "AI para abaratar la traducción de novelas web",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+                "cap": "Sitio web oficial de Hivemind / Fuente: Hivemind"
+              },
+              {
+                "t": "p",
+                "x": "Las novelas web enfrentan barreras más altas que los contenidos audiovisuales para salir al exterior. Traducir a un idioma extranjero una obra larga de cientos de episodios cuesta más de 10 millones de wones (1000만 원) incluso con tarifas bajas, y no hay garantía de recuperar la inversión. Hivemind, una startup que desarrolla la plataforma global de publicación de contenidos 'Aurorah', busca reducir esta barrera mediante la colaboración entre la AI generativa y traductores humanos."
+              },
+              {
+                "t": "p",
+                "x": "El escritor Lee Yung-hee afirmó: \"Con 200 episodios, aunque se calculen solo 10 wones (10원) por carácter, el costo es de al menos 10 millones de wones\". Lim Heo-kyu, presidente de la Asociación Coreana de Escritores de Historias Creativas, señaló que \"la traducción por AI es un avance bienvenido para la expansión de la IP\", pero añadió que es imprescindible sistematizar el proceso de MTPE (posedición de traducción automática), en el que expertos humanos revisan los borradores de la AI."
+              },
+              {
+                "t": "p",
+                "x": "El proceso de localización de Aurorah sigue este orden: traducción preliminar por AI, revisión de expertos, revisión por AI y revisión final humana. Hivemind participa este año en un proyecto de R&D en tecnología de traducción del Ministerio de Cultura, Deportes y Turismo."
+              },
+              {
+                "t": "img",
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+                "cap": "Kim Dong-wook, director ejecutivo de Hivemind / Fuente: IT Donga"
+              },
+              {
+                "t": "p",
+                "x": "El director ejecutivo Kim Dong-wook subrayó: \"El cambio más importante es permitir comercializar de forma continua, y verificar su viabilidad en varios idiomas y mercados, obras que antes no se podían intentar por la barrera de los costos\"."
               }
             ]
           }
@@ -1497,145 +1005,427 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Publishers \"firmly reject\" used\nbook buyups for AI training",
-          "body": "The Korean Publishers Association is probing used-book buyups, but some secondhand shops say they would sell.",
-          "mini_headline": "Publishers reject AI book buyups",
+          "headline": "Hivemind uses AI to cut\nweb novel translation costs",
+          "body": "Hivemind aims to lower the cost of taking K-web novels overseas through AI translation.",
+          "mini_headline": "AI cuts web novel translation costs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-                "cap": "The 2026 Seoul International Book Fair at COEX in Seoul on June 24. News1"
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+                "cap": "Hivemind official website / Source: Hivemind"
               },
               {
                 "t": "p",
-                "x": "Asked about attempts to buy up used books in bulk, suspected to be for AI training, Hong Yeong-wan, head of the Korean Publishers Society, said, \"We will firmly reject it and also set up a response strategy,\" adding, \"We plan to look closely at sales information to see who is buying used books in bulk and for what purpose.\""
+                "x": "Web novels face higher barriers to overseas expansion than video content. Translating a long series running to hundreds of episodes into a foreign language costs more than 1000만 won (10 million won) even at low rates, and there is no guarantee of recouping the cost. Hivemind, a startup developing the global content publishing platform 'Aurorah', wants to lower this barrier through collaboration between generative AI and human translators."
               },
               {
                 "t": "p",
-                "x": "The Korean Publishers Association plans to begin a fact-finding survey this week, sending official letters to the Yes24 and Aladin used bookstores and to secondhand bookshops in Seoul and Busan asking them to share information on unusual purchases. It also plans to issue a statement on AI copyright infringement and to urge legislation that blocks unauthorized training."
+                "x": "Writer Lee Yung-hee said, \"Even at just 10 won (10원) per character, 200 episodes cost at least 10 million won.\" Lim Heo-kyu, president of the Korea Creative Story Writers Association, said \"AI translation is a welcome breakthrough for IP expansion,\" but added that systematizing MTPE (machine translation post-editing), in which human experts review AI drafts, is essential."
+              },
+              {
+                "t": "p",
+                "x": "Aurorah's localization process runs in this order: AI first-draft translation, expert review, AI review, and a final human review. Hivemind is taking part this year in a translation technology R&D project of the Ministry of Culture, Sports and Tourism."
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-                "cap": "A bookstore in Jimbocho, Tokyo, Japan. Yu Seong-un, correspondent"
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+                "cap": "Kim Dong-wook, CEO of Hivemind / Source: IT Donga"
               },
               {
                 "t": "p",
-                "x": "In Japan, a subsidiary of Nippan acknowledged selling books to Anthropic over a 1-year period starting in December 2024, and at the Frankfurt Book Fair more than 120 publishers issued the \"Frankfurt Appeal.\" The Korean Publishers Society and the Writers' Association of Korea, among others, also plan to issue statements joining it."
-              },
-              {
-                "t": "p",
-                "x": "But it is unclear whether struggling used bookstores will refuse. Go Hyo-jong, head of the Mugero secondhand bookstore, said, \"I'm in business, so if someone wants to buy, I'm willing to sell.\""
+                "x": "CEO Kim Dong-wook stressed, \"The bigger change is making it possible to continuously commercialize works that could not be attempted because of cost barriers, and to test their viability across multiple languages and markets.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI学習用の古書買い占め\n出版界「断固拒否」",
-          "body": "出版文化協会が古書買い占めの実態調査に乗り出すが、一部の古書店は売る意向を示した。",
-          "mini_headline": "古書のAI買い占めを拒否",
+          "headline": "ハイブマインド、AIで\nウェブ小説の翻訳費削減",
+          "body": "ハイブマインドはAI翻訳でK-ウェブ小説の海外進出コストを下げようとしている。",
+          "mini_headline": "AIでウェブ小説の翻訳費を削減",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-                "cap": "6月24日、ソウルのCOEXで開かれた2026ソウル国際図書展。News1"
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+                "cap": "ハイブマインド公式ホームページ / 出典=ハイブマインド"
               },
               {
                 "t": "p",
-                "x": "AI学習用とみられる古書の大量買い付けの動きについて、韓国出版人会議のホン・ヨンワン代表は「断固として拒否し、対応戦略も立てる」としたうえで、「誰が、どんな目的で古書を大量に買い付けているのか、販売情報を詳しく調べる計画だ」と述べた。"
+                "x": "ウェブ小説は映像コンテンツに比べて海外進出の壁が高い。数百話に及ぶ長編を外国語に訳すには、低い単価を適用しても1000万ウォン以上かかるが、費用を回収できる保証はない。グローバルコンテンツパブリッシングプラットフォーム「オーロラ(Aurorah)」を開発中のスタートアップ、ハイブマインドは、生成AIと人間の翻訳者の協業によってこのハードルを下げようとしている。"
               },
               {
                 "t": "p",
-                "x": "大韓出版文化協会は今週中に実態調査を始め、Yes24・Aladinの中古書店やソウル・釜山の古書店に、不審な買い付け情報の共有を求める公文書を送る。AIによる著作権侵害についての声明発表や、無断学習を防ぐ法整備の要求も計画している。"
+                "x": "作家のイ・ユンヒ氏は「200話基準で1文字10ウォン(10원)で計算しても、最低1000万ウォン以上かかる」と語った。韓国創作ストーリー作家協会のイム・ホギュ協会長は「AI翻訳はIP拡張のための歓迎すべき突破口だ」としつつも、AIの下訳を人間の専門家が監修するMTPE(機械翻訳ポストエディット)工程のシステム化が不可欠だと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "オーロラのローカライズ工程は、AIによる下訳、専門家の監修、AIによる監修、人による最終監修の順で進む。ハイブマインドは今年、文化体育観光部の翻訳技術R&D課題に参加している。"
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-                "cap": "東京・神保町の書店。ユ・ソンウン特派員"
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+                "cap": "キム・ドンウク ハイブマインド代表 / 出典=IT東亜"
               },
               {
                 "t": "p",
-                "x": "日本では日販の子会社が2024年12月から1年間、Anthropicに書籍を販売したと認め、フランクフルト・ブックフェアでは120余りの出版社が「フランクフルト・アピール」を発表した。韓国出版人会議や韓国作家会議なども賛同声明を出す予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "ただ、経営難にあえぐ中古書店が断るかどうかは分からない。古書店「ムゲロ」のコ・ヒョジョン代表は「商売をしている立場だから、買うと言われれば売るつもりだ」と話した。"
+                "x": "キム・ドンウク代表は「これまで費用の壁に阻まれて挑戦できなかった作品を、複数の言語圏と市場で継続的に商品化し、妥当性を検証できるようにすることこそ、より大きな変化だ」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI训练用旧书遭收购\n出版界“坚决拒绝”",
-          "body": "大韩出版文化协会将调查旧书大量收购情况，但部分旧书店表示愿意出售。",
-          "mini_headline": "出版界拒绝AI收购旧书",
+          "headline": "Hivemind借AI\n降低网文翻译成本",
+          "body": "Hivemind希望借助AI翻译降低K-网络小说出海的成本。",
+          "mini_headline": "用AI降低网文翻译成本",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-                "cap": "6月24日在首尔COEX举行的2026首尔国际书展。News1"
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+                "cap": "Hivemind官方网站 / 来源=Hivemind"
               },
               {
                 "t": "p",
-                "x": "对于疑似用于AI训练的旧书大量收购行为，韩国出版人会议代表Hong Yeong-wan表示：“将坚决拒绝，并制定应对策略。”他还说：“计划仔细查看销售信息，弄清是谁、出于什么目的在大量收购旧书。”"
+                "x": "与影像内容相比，网络小说出海的门槛更高。将长达数百话的长篇译成外语，即便采用较低单价也要花费1000万韩元以上，而能否收回成本却难以保证。正在开发全球内容发行平台“Aurorah”的初创公司Hivemind，希望通过生成式AI与人类译者的协作来降低这一门槛。"
               },
               {
                 "t": "p",
-                "x": "大韩出版文化协会计划本周内启动实况调查，向Yes24、Aladin二手书店以及首尔、釜山的旧书店发出公函，请求共享异常收购信息，并计划发表AI侵犯著作权的声明，敦促制定阻止擅自训练的法令。"
+                "x": "作家李融熙表示：“以200话计算，每字只按10韩元(10원)算，也至少需要1000万韩元以上。”韩国创作故事作家协会会长林许圭表示“AI翻译是扩展IP的可喜突破”，但同时补充说，由人类专家审校AI初稿的MTPE（机器翻译后编辑）流程必须实现系统化。"
+              },
+              {
+                "t": "p",
+                "x": "Aurorah的本地化流程依次为AI初译、专家审校、AI审校和人工终审。Hivemind今年正在参与韩国文化体育观光部的翻译技术R&D课题。"
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-                "cap": "日本东京神保町的一家书店。Yu Seong-un 特派记者"
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+                "cap": "Hivemind代表金东旭 / 来源=IT东亚"
               },
               {
                 "t": "p",
-                "x": "在日本，日贩的子公司承认自2024年12月起的1年间向Anthropic出售了书籍；在法兰克福书展上，120余家出版社发表了“法兰克福呼吁书”。韩国出版人会议和韩国作家会议等也计划发表声明响应。"
-              },
-              {
-                "t": "p",
-                "x": "但经营困难的二手书店是否会拒绝仍是未知数。Mugero旧书店代表Go Hyo-jong说：“我是做生意的，有人要买，我就愿意卖。”"
+                "x": "金东旭代表强调：“让那些过去因成本壁垒而无法尝试的作品，能够在多个语种和市场中持续商品化并验证其可行性，这才是更大的变化。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editores rechazan \"de plano\"\nacopiar libros usados para AI",
-          "body": "La Asociación de Editores investigará el acopio de libros usados, pero algunas librerías de viejo dicen que venderían.",
-          "mini_headline": "Rechazo a acopiar libros para AI",
+          "headline": "Hivemind recurre a la AI\npara abaratar la traducción",
+          "body": "Hivemind busca abaratar con traducción por AI la salida al exterior de las K-novelas web.",
+          "mini_headline": "AI para abaratar la traducción de novelas web",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/3ebd8cc9-2299-459f-8d6e-dca760322d31.jpg",
-                "cap": "La 2026 Feria Internacional del Libro de Seúl, celebrada el 24 de junio en el COEX de Seúl. News1"
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+                "cap": "Sitio web oficial de Hivemind / Fuente: Hivemind"
               },
               {
                 "t": "p",
-                "x": "Ante los intentos de comprar libros usados en grandes cantidades, presuntamente para entrenar AI, Hong Yeong-wan, presidente de la Sociedad Coreana de Editores, afirmó: \"Lo rechazaremos de plano y también trazaremos una estrategia de respuesta\", y añadió: \"Planeamos examinar con detalle la información de ventas para saber quién compra libros usados en grandes cantidades y con qué fin\"."
+                "x": "Las novelas web enfrentan barreras más altas que los contenidos audiovisuales para salir al exterior. Traducir a un idioma extranjero una obra larga de cientos de episodios cuesta más de 10 millones de wones (1000만 원) incluso con tarifas bajas, y no hay garantía de recuperar la inversión. Hivemind, una startup que desarrolla la plataforma global de publicación de contenidos 'Aurorah', busca reducir esta barrera mediante la colaboración entre la AI generativa y traductores humanos."
               },
               {
                 "t": "p",
-                "x": "La Asociación Coreana de Editores comenzará esta semana una investigación y enviará cartas oficiales a las librerías de segunda mano de Yes24 y Aladin y a librerías de viejo de Seúl y Busan para pedirles que compartan información sobre compras anómalas. También planea emitir un comunicado sobre la infracción de derechos de autor por la AI e instar a crear leyes que impidan el entrenamiento no autorizado."
+                "x": "El escritor Lee Yung-hee afirmó: \"Con 200 episodios, aunque se calculen solo 10 wones (10원) por carácter, el costo es de al menos 10 millones de wones\". Lim Heo-kyu, presidente de la Asociación Coreana de Escritores de Historias Creativas, señaló que \"la traducción por AI es un avance bienvenido para la expansión de la IP\", pero añadió que es imprescindible sistematizar el proceso de MTPE (posedición de traducción automática), en el que expertos humanos revisan los borradores de la AI."
+              },
+              {
+                "t": "p",
+                "x": "El proceso de localización de Aurorah sigue este orden: traducción preliminar por AI, revisión de expertos, revisión por AI y revisión final humana. Hivemind participa este año en un proyecto de R&D en tecnología de traducción del Ministerio de Cultura, Deportes y Turismo."
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/12/b7da3640-b1bf-4851-850b-e8e9e16e8871.jpg",
-                "cap": "Una librería en Jimbocho, Tokio (Japón). Yu Seong-un, corresponsal"
+                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+                "cap": "Kim Dong-wook, director ejecutivo de Hivemind / Fuente: IT Donga"
               },
               {
                 "t": "p",
-                "x": "En Japón, una filial de Nippan reconoció haber vendido libros a Anthropic durante 1 año a partir de diciembre de 2024, y en la Feria del Libro de Fráncfort más de 120 editoriales publicaron el \"Llamamiento de Fráncfort\". La Sociedad Coreana de Editores y la Asociación de Escritores de Corea, entre otras, también planean sumarse con comunicados."
+                "x": "El director ejecutivo Kim Dong-wook subrayó: \"El cambio más importante es permitir comercializar de forma continua, y verificar su viabilidad en varios idiomas y mercados, obras que antes no se podían intentar por la barrera de los costos\"."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "books-yuriten-10th-anniversary-ai-cancel",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Yuriten, 기념 행사\nAI 이미지 논란에 취소",
+      "body": "Yuriten이 AI-generated 이미지 비판에 10주년 첫 행사를 접었다.",
+      "mini_headline": "Yuriten, AI 논란 행사 취소",
+      "tool": "Books",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/interest/2026-10-10/yuriten-exhibit-cancels-10th-anniversary-event-after-artists-criticize-its-ai-use/.242698",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+            "cap": "Yuriten의 삭제된 X/Twitter 게시물 이미지"
+          },
+          {
+            "t": "p",
+            "x": "Yuriten(Yuri Fair) 전시회 주최 측이 10월 17일과 18일 도쿄에서 열 예정이던 무료 행사 “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”를 취소했다. Yuriten이 계획한 10주년 행사 가운데 첫 번째였다. 행사 홍보물에 AI 생성(AI-generated) 이미지가 쓰였다며 유리 만화 작가들이 비판하자 내린 결정이다."
+          },
+          {
+            "t": "p",
+            "x": "주최 측은 앞서 공지 비주얼과 행사 장식, 다른 홍보물 일부에 생성형 AI를 썼다고 인정했다. Bloom Into You의 작가 Nio Nakatani는 당혹스럽고 실망스럽다고 했다. Yukiko와 Yayoi Osawa도 비판에 가세했다."
+          },
+          {
+            "t": "p",
+            "x": "Yuriten을 운영하는 Lilium은 사과하면서 행사 운영과 홍보를 다른 회사에 맡겼고 자사 검수도 부족했다고 밝혔다. 외부 위탁사 관리를 강화하고, 앞으로 Yuriten 전시회에서는 생성형 AI를 쓰지 않겠다고 약속했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Yuriten cancels anniversary\nevent over AI imagery",
+          "body": "Yuriten cancelled the first of its 10th anniversary events in Tokyo after artists criticized its AI-generated imagery.",
+          "mini_headline": "Yuriten drops AI-tainted event",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+                "cap": "Image via Yuriten's deleted X/Twitter post"
               },
               {
                 "t": "p",
-                "x": "Sin embargo, no está claro si las librerías de segunda mano, en apuros económicos, se negarán. Go Hyo-jong, dueño de la librería de viejo Mugero, dijo: \"Como me dedico al comercio, si alguien quiere comprar, estoy dispuesto a vender\"."
+                "x": "The organizers of the Yuriten (Yuri Fair) exhibition canceled the first of Yuriten's planned 10th anniversary events, the free \"Yuriten 10th Anniversary Restart Campaign in Ikebukuro\" set for October 17 and 18 in Tokyo, after yuri manga creators criticized the event's use of AI-generated imagery in promotional material."
+              },
+              {
+                "t": "p",
+                "x": "Organizers had acknowledged using generative AI in the announcement visual, the event decorations and some other promotions. Bloom Into You creator Nio Nakatani called it confounding and disappointing; Yukiko and Yayoi Osawa also criticized it."
+              },
+              {
+                "t": "p",
+                "x": "Lilium, the company behind Yuriten, apologized, saying it contracted another company to manage and promote the event and citing shortcomings in its own vetting. It promised to strengthen oversight of outside contractors and said it will not use generative AI in future Yuriten exhibitions."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Yuriten, 기념 행사\nAI 이미지 논란에 취소",
+          "body": "Yuriten이 AI-generated 이미지 비판에 10주년 첫 행사를 접었다.",
+          "mini_headline": "Yuriten, AI 논란 행사 취소",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+                "cap": "Yuriten의 삭제된 X/Twitter 게시물 이미지"
+              },
+              {
+                "t": "p",
+                "x": "Yuriten(Yuri Fair) 전시회 주최 측이 10월 17일과 18일 도쿄에서 열 예정이던 무료 행사 “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”를 취소했다. Yuriten이 계획한 10주년 행사 가운데 첫 번째였다. 행사 홍보물에 AI 생성(AI-generated) 이미지가 쓰였다며 유리 만화 작가들이 비판하자 내린 결정이다."
+              },
+              {
+                "t": "p",
+                "x": "주최 측은 앞서 공지 비주얼과 행사 장식, 다른 홍보물 일부에 생성형 AI를 썼다고 인정했다. Bloom Into You의 작가 Nio Nakatani는 당혹스럽고 실망스럽다고 했다. Yukiko와 Yayoi Osawa도 비판에 가세했다."
+              },
+              {
+                "t": "p",
+                "x": "Yuriten을 운영하는 Lilium은 사과하면서 행사 운영과 홍보를 다른 회사에 맡겼고 자사 검수도 부족했다고 밝혔다. 외부 위탁사 관리를 강화하고, 앞으로 Yuriten 전시회에서는 생성형 AI를 쓰지 않겠다고 약속했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Yuriten、記念イベント\nAI画像への批判で中止",
+          "body": "YuritenがAI-generated画像への批判を受け、10周年初回イベントを中止した。",
+          "mini_headline": "Yuriten、AI問題でイベント中止",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+                "cap": "Yuritenの削除されたX/Twitter投稿より"
+              },
+              {
+                "t": "p",
+                "x": "Yuriten(Yuri Fair)展の主催者は、Yuritenが予定していた10周年記念イベントの第一弾で、10月17日と18日に東京で開催予定だった無料の「Yuriten 10th Anniversary Restart Campaign in Ikebukuro」を中止した。百合漫画の作家たちが、宣伝素材でのAI生成(AI-generated)画像の使用を批判したためだ。"
+              },
+              {
+                "t": "p",
+                "x": "主催者は、告知ビジュアルやイベントの装飾、その他一部の宣伝に生成AIを使ったことを認めていた。Bloom Into Youの作者Nio Nakataniは困惑し失望したと述べ、YukikoとYayoi Osawaも批判した。"
+              },
+              {
+                "t": "p",
+                "x": "Yuritenを運営するLiliumは謝罪し、イベントの運営と宣伝を別の会社に委託していたと説明したうえで、自社の確認体制の不備を認めた。外部委託先への監督を強化すると約束し、今後のYuriten展では生成AIを使わないとした。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Yuriten周年活动\n因AI图像取消",
+          "body": "Yuriten因AI-generated图像遭批评，取消东京10周年首场活动。",
+          "mini_headline": "Yuriten因AI取消活动",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+                "cap": "图片来自Yuriten已删除的X/Twitter帖子"
+              },
+              {
+                "t": "p",
+                "x": "Yuriten（Yuri Fair）展会主办方取消了Yuriten计划中的首场10周年纪念活动，即原定10月17日和18日在东京举办的免费活动“Yuriten 10th Anniversary Restart Campaign in Ikebukuro”。此前，百合漫画创作者批评该活动在宣传物料中使用AI生成（AI-generated）图像。"
+              },
+              {
+                "t": "p",
+                "x": "主办方此前承认在公告主视觉、活动装饰及其他部分宣传中使用了生成式AI。Bloom Into You作者Nio Nakatani称此事令人困惑和失望，Yukiko和Yayoi Osawa也提出了批评。"
+              },
+              {
+                "t": "p",
+                "x": "Yuriten背后的公司Lilium致歉称，活动的运营和宣传委托给了另一家公司，并承认自身审核存在不足。该公司承诺加强对外部承包商的监督，并表示今后的Yuriten展会将不再使用生成式AI。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Yuriten cancela un evento de\naniversario por imágenes de IA",
+          "body": "Yuriten canceló el primer evento de su 10.º aniversario en Tokio tras críticas a sus imágenes generadas por IA.",
+          "mini_headline": "Yuriten cancela un evento por la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+                "cap": "Imagen de la publicación eliminada de Yuriten en X/Twitter"
+              },
+              {
+                "t": "p",
+                "x": "Los organizadores de la exposición Yuriten (Yuri Fair) cancelaron el primero de los eventos previstos por el 10.º aniversario de Yuriten, la gratuita “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”, programada para el 17 y el 18 de octubre en Tokio, después de que autores de manga yuri criticaran el uso de imágenes generadas por IA (AI-generated) en el material promocional del evento."
+              },
+              {
+                "t": "p",
+                "x": "Los organizadores habían reconocido el uso de IA generativa en el visual del anuncio, la decoración del evento y algunas otras promociones. Nio Nakatani, creadora de Bloom Into You, lo calificó de desconcertante y decepcionante; Yukiko y Yayoi Osawa también lo criticaron."
+              },
+              {
+                "t": "p",
+                "x": "Lilium, la empresa detrás de Yuriten, pidió disculpas, explicó que había contratado a otra empresa para gestionar y promocionar el evento y reconoció fallos en su propia verificación. Prometió reforzar la supervisión de los contratistas externos y afirmó que no usará IA generativa en futuras exposiciones de Yuriten."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Yuriten, 기념 행사\nAI 이미지 논란에 취소",
+          "body": "Yuriten이 AI-generated 이미지 비판에 10주년 첫 행사를 접었다.",
+          "mini_headline": "Yuriten, AI 논란 행사 취소",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+                "cap": "Yuriten의 삭제된 X/Twitter 게시물 이미지"
+              },
+              {
+                "t": "p",
+                "x": "Yuriten(Yuri Fair) 전시회 주최 측이 10월 17일과 18일 도쿄에서 열 예정이던 무료 행사 “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”를 취소했다. Yuriten이 계획한 10주년 행사 가운데 첫 번째였다. 유리 만화 작가들이 행사 홍보물에 AI 생성(AI-generated) 이미지를 쓴 것을 비판한 뒤 내린 결정이다."
+              },
+              {
+                "t": "p",
+                "x": "주최 측은 공지 비주얼과 행사 장식, 일부 다른 홍보물에 생성형 AI를 썼다고 인정한 바 있다. Bloom Into You의 작가 Nio Nakatani는 당혹스럽고 실망스럽다고 했고, Yukiko와 Yayoi Osawa도 비판했다."
+              },
+              {
+                "t": "p",
+                "x": "Yuriten을 운영하는 Lilium은 사과하며, 행사 운영과 홍보를 다른 회사에 맡겼고 자사 검수에도 부족함이 있었다고 밝혔다. 외부 위탁사 관리를 강화하겠다고 약속했으며, 앞으로 Yuriten 전시회에서 생성형 AI를 쓰지 않겠다고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Yuriten、記念イベント\nAI画像への批判で中止",
+          "body": "YuritenがAI-generated画像への批判を受け、10周年初回イベントを中止した。",
+          "mini_headline": "Yuriten、AI問題でイベント中止",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+                "cap": "Yuritenの削除されたX/Twitter投稿より"
+              },
+              {
+                "t": "p",
+                "x": "Yuriten(Yuri Fair)展の主催者は、Yuritenが予定していた10周年記念イベントの第一弾で、10月17日と18日に東京で開催予定だった無料の「Yuriten 10th Anniversary Restart Campaign in Ikebukuro」を中止した。百合漫画の作家たちが、宣伝素材でのAI生成(AI-generated)画像の使用を批判したためだ。"
+              },
+              {
+                "t": "p",
+                "x": "主催者は、告知ビジュアルやイベントの装飾、その他一部の宣伝に生成AIを使ったことを認めていた。Bloom Into Youの作者Nio Nakataniは困惑し失望したと述べ、YukikoとYayoi Osawaも批判した。"
+              },
+              {
+                "t": "p",
+                "x": "Yuritenを運営するLiliumは謝罪し、イベントの運営と宣伝を別の会社に委託していたと説明したうえで、自社の確認体制の不備を認めた。外部委託先への監督を強化すると約束し、今後のYuriten展では生成AIを使わないとした。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Yuriten周年活动\n因AI图像取消",
+          "body": "Yuriten因AI-generated图像遭批评，取消东京10周年首场活动。",
+          "mini_headline": "Yuriten因AI取消活动",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+                "cap": "图片来自Yuriten已删除的X/Twitter帖子"
+              },
+              {
+                "t": "p",
+                "x": "Yuriten（Yuri Fair）展会主办方取消了Yuriten计划中的首场10周年纪念活动，即原定10月17日和18日在东京举办的免费活动“Yuriten 10th Anniversary Restart Campaign in Ikebukuro”。此前，百合漫画创作者批评该活动在宣传物料中使用AI生成（AI-generated）图像。"
+              },
+              {
+                "t": "p",
+                "x": "主办方此前承认在公告主视觉、活动装饰及其他部分宣传中使用了生成式AI。Bloom Into You作者Nio Nakatani称此事令人困惑和失望，Yukiko和Yayoi Osawa也提出了批评。"
+              },
+              {
+                "t": "p",
+                "x": "Yuriten背后的公司Lilium致歉称，活动的运营和宣传委托给了另一家公司，并承认自身审核存在不足。该公司承诺加强对外部承包商的监督，并表示今后的Yuriten展会将不再使用生成式AI。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Yuriten cancela un evento de\naniversario por imágenes de IA",
+          "body": "Yuriten canceló el primer evento de su 10.º aniversario en Tokio tras críticas a sus imágenes generadas por IA.",
+          "mini_headline": "Yuriten cancela un evento por la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+                "cap": "Imagen de la publicación eliminada de Yuriten en X/Twitter"
+              },
+              {
+                "t": "p",
+                "x": "Los organizadores de la exposición Yuriten (Yuri Fair) cancelaron el primero de los eventos previstos por el 10.º aniversario de Yuriten, la gratuita “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”, programada para el 17 y el 18 de octubre en Tokio, después de que autores de manga yuri criticaran el uso de imágenes generadas por IA (AI-generated) en el material promocional del evento."
+              },
+              {
+                "t": "p",
+                "x": "Los organizadores habían reconocido el uso de IA generativa en el visual del anuncio, la decoración del evento y algunas otras promociones. Nio Nakatani, creadora de Bloom Into You, lo calificó de desconcertante y decepcionante; Yukiko y Yayoi Osawa también lo criticaron."
+              },
+              {
+                "t": "p",
+                "x": "Lilium, la empresa detrás de Yuriten, pidió disculpas, explicó que había contratado a otra empresa para gestionar y promocionar el evento y reconoció fallos en su propia verificación. Prometió reforzar la supervisión de los contratistas externos y afirmó que no usará IA generativa en futuras exposiciones de Yuriten."
               }
             ]
           }

@@ -7187,6 +7187,150 @@
           "x": "Alongside the platform, Thrixel is introducing Build World, an agentic workflow in which creators work alongside an AI coding agent that generates the needed 3D content while writing the underlying logic and code. It supports Roblox, Three.js, Unity, and Unreal Engine. Thrixel has raised $3 million in inception funding from Sierra Ventures, MFV Partners, Harper Court Ventures, and Z5 Capital."
         }
       ]
+    },
+    "games/games-horii-claude-30min-game": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Yuji-Horii-AI-game-.jpg",
+          "cap": "Yuji Horii AI game"
+        },
+        {
+          "t": "p",
+          "x": "Yuji Horii, best known for the Dragon Quest RPG franchise, is also known in Japan for the 1983 murder mystery adventure The Portopia Serial Murder Case. Not content with leaving the AI experiments solely to other people, Horii himself decided to try \"developing\" his own spiritual successor using Claude."
+        },
+        {
+          "t": "p",
+          "x": "That game is called Komiya in the Interrogation Room, a short browser-based experience set entirely within the interrogation of the titular 72-year-old suspect Komiya for a possible safe robbery. Because the suspect keeps lying, the player must use various lines of questioning to uncover the truth, while balancing Agitation and Resistance meters."
+        },
+        {
+          "t": "p",
+          "x": "According to Horii's social media post, he spent only about 30 minutes creating it using Anthropic's AI tools. \"Back when I made The Portopia Serial Murder Case on PC, I had to come up with the story myself, draw the art, write the code, and create everything by myself,\" Horii wrote. \"Now, with AI, even if you can't draw, or you can't program, you can create a game by yourself simply by asking the AI to do it for you. It's incredible.\""
+        },
+        {
+          "t": "p",
+          "x": "Horii is currently working on the scenario for Dragon Quest XII, while Portopia looks set to receive a developer- and artist-driven remake from G-Mode next year."
+        }
+      ]
+    },
+    "games/games-square-enix-collective-vaultbreakers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://novacrystallis.com/wp-content/uploads/2026/10/VB_Splash_KeyArtDragonvault_4k_Logo-1024x576.jpg",
+          "cap": "Vaultbreakers"
+        },
+        {
+          "t": "p",
+          "x": "Today, Square Enix revealed that its publishing partnership with Vaultbreakers developer BetaDwarf will be part of a \"re-launch\" of its Square Enix Collective operation, which co-published games with independent studios such as FuturLab's PowerWash Simulator and AstralShift's Little Goody Two Shoes. Square Enix describes the re-established Collective as \"a global division of Square Enix Ltd. that provides funding, investment and publishing support for independent developers.\""
+        },
+        {
+          "t": "p",
+          "x": "Vaultbreakers is described as a \"top-down Extraction RPG\" with PvE and PvP modes. According to its Steam page, the developers are using generative AI in development, including asset prototypes, large data entry tasks related to game design, \"generating and reviewing code\", and \"cleaning up text.\" BetaDwarf also says generative AI is \"speeding up research\" and \"suggesting item names and stats\"."
+        },
+        {
+          "t": "img",
+          "src": "https://novacrystallis.com/wp-content/uploads/2026/10/image-5.png",
+          "cap": "AI Generated Content Disclosure on the Vaultbreakers Steam page"
+        },
+        {
+          "t": "p",
+          "x": "Square Enix has also used generative AI before, such as 2024's Foamstars, whose in-game album covers were generated with Midjourney, resulting in a significant backlash from players. Vaultbreakers is announced for Steam, with a demo available today."
+        },
+        {
+          "t": "video",
+          "yt": "juORlA4AhaE"
+        }
+      ]
+    },
+    "games/games-flathub-ai-disclosure-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamingonlinux.com/uploads/tagline_gallery/flathub.jpg",
+          "cap": "Flathub"
+        },
+        {
+          "t": "p",
+          "x": "Back in May, GamingOnLinux reported how Flathub had near-enough banned generative AI for app / game submissions, but they've mostly walked it back. Flathub is one of the most popular ways to get extra applications installed on Linux, and the main way to install stuff in Desktop Mode on SteamOS."
+        },
+        {
+          "t": "p",
+          "x": "Now, instead of banning anything that used generative AI, the use of AI must be fully disclosed if any of it is used within the application / game being submitted. Reviewers are still allowed to reject submissions at their own discretion."
+        },
+        {
+          "t": "p",
+          "x": "From the new policy: \"Submitters must disclose any AI-generated code, documentation, packaging, or other material they know or reasonably believe is included in the application or its Flathub packaging.\" Flathub manifests must not contain AI-generated or AI-assisted content, and AI used only for research, discussion, or debugging does not need disclosure. AI tools or agents must not open or automate Flathub submission pull requests, and repeated violations may result in a permanent ban."
+        },
+        {
+          "t": "p",
+          "x": "This seems a fair bit closer to what Steam has as an AI policy."
+        }
+      ]
+    },
+    "games/games-netmarble-nexus-kiro-adoption": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A year ago, the prevailing view on the Netmarble Nexus development team was that 'it is hard for AI to analyze complex game code and produce usable code.' To get past this, the team selected practitioners who would actively use AI coding tools as 'champions,' and management recognized their learning and sharing activities as part of their job. The first rollout was not on a live game but on a new game in development."
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/Picture2.png",
+          "cap": "Part of the training material run by the champions themselves"
+        },
+        {
+          "t": "p",
+          "x": "The key was Kiro's Steering files. These documents, which hold project rules and background knowledge, were shared across the team through version control, and most developers who had been using Visual Studio moved naturally to the Kiro IDE. The team set a hook that has the AI write 'where it went wrong' in a session log when an agent task ends, and more than 50 accumulated logs led to actual rule changes."
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/Picture3-505x1024.png",
+          "cap": "An example of a mermaid diagram generated by AI"
+        },
+        {
+          "t": "p",
+          "x": "Once the rules stabilized, the team introduced the Spec approach, agreeing on documents first in the order requirements → design → tasks, and connected the development DB and even Excel through MCP to find data consistency problems within a single conversation."
+        },
+        {
+          "t": "p",
+          "x": "There were limits. The review burden grew, introducing unit tests became effectively mandatory, and development sped up so much that it felt as if planning could not keep up. Even so, the team's conclusion was that \"AI coding tools did not replace people; they were tools that helped people focus on more important work.\""
+        }
+      ]
+    },
+    "games/roblox-build-evaluation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
+        },
+        {
+          "t": "p",
+          "x": "Build, Roblox's new mobile-first creation tool, lets a user create a game from text prompts and publish it, using an end-to-end agentic system that coordinates code, visual assets, gameplay systems, UI and controls. Since the alpha launch in New Zealand, over 100,000 players have tried it, about 9,000 Build games have been published, and 71% of creators had never used Roblox Studio."
+        },
+        {
+          "t": "p",
+          "x": "Its eval framework combines four scored signals: game specification quality, static game quality (split into engineering and design lenses), a playtest agent using real player-like input, and visual quality on device viewports."
+        },
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+          "cap": "Build creation evaluation signals cover the full game creation process."
+        },
+        {
+          "t": "p",
+          "x": "On a 3D obby prompt, Build made Skyforge Ascent in about eight minutes: spec 91, engineering 98, playtest 100, visuals 86 — but design only 31, with zero on progression, replayability and hook."
+        },
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+          "cap": "Skyforge Ascent, game created by Build."
+        },
+        {
+          "t": "p",
+          "x": "Since the alpha, creator satisfaction rose 10%, \"not what I want\" complaints fell from 18% to 3%, and about 14% of prompted sessions and 19% of playtests are published."
+        }
+      ]
     }
   }
 }

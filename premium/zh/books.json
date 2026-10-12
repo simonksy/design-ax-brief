@@ -5802,6 +5802,121 @@
           "x": "Bloomsbury已设立多个AI相关岗位，没有人因AI失去工作。Newton“一天20次”向ChatGPT、Gemini或Claude请教。Arbuthnot预计会出现元数据营销专员之类的复合型岗位；Collier则将批判性思维、解决问题的能力和创业精神列为关键技能。Newton指出，电子书销量占比停滞在约25%–30%，而非他曾预测的50%。"
         }
       ]
+    },
+    "books/books-revoy-pepper-carrot-no-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "开源网络漫画Pepper&Carrot的作者David Revoy在10月8日发布的许可更新中，禁止以其作品制作AI生成（AI-generated）的衍生作品。声明禁止由AI生成、或在很大程度上取代了构思发展、创作过程或视觉呈现的故事、设定（lore）、同人小说、剧本、漫画和图像渲染。这一声明与他沿用十多年的CC BY（Pepper&Carrot）和CC BY-SA（MiniFantasyTheater）许可并行。"
+        },
+        {
+          "t": "p",
+          "x": "起因是他的收件箱：工作室、出版商、游戏开发商和自学的AI漫画作者纷纷请求许可，想用他的画作制作AI衍生作品，本周每天超过三次。Revoy说，他一直在等Creative Commons加入针对AI的（AI-specific）选项，却迟迟不见动静，于是自己写了这一条款。他表示，作为受精神权利保护的欧洲艺术家，这篇博客文章就是对这些权利的必要主张。"
+        },
+        {
+          "t": "p",
+          "x": "他可以接受像Linux这样接纳了AI贡献的软件，也接受用于修改人类所写文本的AI语法、校对和翻译辅助工具。但用AI辅助（AI-assisted）翻译或自动翻译他的漫画仍不被允许；Pepper&Carrot有数百名人类译者，以69种语言开展翻译。"
+        }
+      ]
+    },
+    "books/books-road-to-the-end-ai-prompt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+        },
+        {
+          "t": "p",
+          "x": "读者分享了实体书《The Road to the End》中的离谱一幕：正文里突然冒出一句“需要我调整一些句子，让整体风格更贴合悬疑和超自然氛围吗？”——明显是AI助手的口吻。而在线上版本中，第80章的对应位置并没有这句话。"
+        },
+        {
+          "t": "p",
+          "x": "出品该书的Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.致歉称，原稿中并无此内容：在文本删减过程中，团队误将校对软件的提示词当作正文的一部分收录。Jiangsu Phoenix Literature and Art Press表示，责任在编辑与校对的交接中被稀释，问题不在作者。对于已发行的图书，出版社将全部召回销毁并重新编辑。"
+        },
+        {
+          "t": "p",
+          "x": "AIBase称，这是对AI参与出版的一次警示：随着智能校对进入工作流程，最后一道人工把关更加重要。"
+        }
+      ]
+    },
+    "books/books-hivemind-webnovel-ai-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+          "cap": "Hivemind官方网站 / 来源=Hivemind"
+        },
+        {
+          "t": "p",
+          "x": "与影像内容相比，网络小说出海的门槛更高。将长达数百话的长篇译成外语，即便采用较低单价也要花费1000万韩元以上，而能否收回成本却难以保证。正在开发全球内容发行平台“Aurorah”的初创公司Hivemind，希望通过生成式AI与人类译者的协作来降低这一门槛。"
+        },
+        {
+          "t": "p",
+          "x": "作家李融熙表示：“以200话计算，每字只按10韩元(10원)算，也至少需要1000万韩元以上。”韩国创作故事作家协会会长林许圭表示“AI翻译是扩展IP的可喜突破”，但同时补充说，由人类专家审校AI初稿的MTPE（机器翻译后编辑）流程必须实现系统化。"
+        },
+        {
+          "t": "p",
+          "x": "Aurorah的本地化流程依次为AI初译、专家审校、AI审校和人工终审。Hivemind今年正在参与韩国文化体育观光部的翻译技术R&D课题。"
+        },
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+          "cap": "Hivemind代表金东旭 / 来源=IT东亚"
+        },
+        {
+          "t": "p",
+          "x": "金东旭代表强调：“让那些过去因成本壁垒而无法尝试的作品，能够在多个语种和市场中持续商品化并验证其可行性，这才是更大的变化。”"
+        }
+      ]
+    },
+    "books/books-yuriten-10th-anniversary-ai-cancel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+          "cap": "图片来自Yuriten已删除的X/Twitter帖子"
+        },
+        {
+          "t": "p",
+          "x": "Yuriten（Yuri Fair）展会主办方取消了Yuriten计划中的首场10周年纪念活动，即原定10月17日和18日在东京举办的免费活动“Yuriten 10th Anniversary Restart Campaign in Ikebukuro”。此前，百合漫画创作者批评该活动在宣传物料中使用AI生成（AI-generated）图像。"
+        },
+        {
+          "t": "p",
+          "x": "主办方此前承认在公告主视觉、活动装饰及其他部分宣传中使用了生成式AI。Bloom Into You作者Nio Nakatani称此事令人困惑和失望，Yukiko和Yayoi Osawa也提出了批评。"
+        },
+        {
+          "t": "p",
+          "x": "Yuriten背后的公司Lilium致歉称，活动的运营和宣传委托给了另一家公司，并承认自身审核存在不足。该公司承诺加强对外部承包商的监督，并表示今后的Yuriten展会将不再使用生成式AI。"
+        }
+      ]
+    },
+    "books/rosenbaum-future-of-truth-hallucinated-quotes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+        },
+        {
+          "t": "p",
+          "x": "2026年5月17日，即The Future of Truth: How AI Reshapes Reality出版五天后，New York Times记者Ben Mullin致电Steven Rosenbaum，询问一段被归于一位匿名DARPA研究人员的引语。两天后，Times在头版报道：这本书里有AI编造的引语。相关活动随之取消，一期已录好的播客也被撤下。"
+        },
+        {
+          "t": "p",
+          "x": "Rosenbaum说，书不是AI写的；他曾公开说明用AI整理研究资料、总结文件和润色文字。这本书经过五轮编辑和4,000多处修订追踪，但AI\"修正\"了部分引语，读起来通顺的错误也就留了下来。一段归于Kara Swisher的引语，其实她从未说过。\"我本该发现这些错误。那是我的责任，我承担。\""
+        },
+        {
+          "t": "p",
+          "x": "他的出版商BenBella Books请两名人工事实核查员逐行审读书稿。他们找出26处站不住脚的引语，逐一追溯到原始出处，并加以更正、改写或删除。The Future of Truth: Truth 2.0 Revised将于10月6日出版，新增Author's Note和新章节\"Hallucinations and Repercussions\"。"
+        },
+        {
+          "t": "p",
+          "x": "他不打算放弃AI：\"使用工具。让人的判断留在流程之中。公开说明。核实。公开纠正错误。\""
+        }
+      ]
     }
   }
 }

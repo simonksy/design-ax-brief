@@ -6642,6 +6642,122 @@
           "x": "作者认为，这些墓葬并非只是安葬死者，而是像现代 3D 电影一样旨在影响生者；他们目前正将类似的声学与 AI 技术应用于户外的仪式景观。"
         }
       ]
+    },
+    "science/science-plato-phasehub-protein-phase": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+          "cap": "真菌。Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "新加坡Nanyang Technological University的研究人员开发了两款AI工具，用于预测哪些蛋白质会发生相分离，即蛋白质在细胞内形成液滴状区室的过程。研究发表在Molecular Plant上。"
+        },
+        {
+          "t": "p",
+          "x": "PLATO是一个包含5,118条蛋白质序列的数据库，其中3,600多条会发生相分离，约1,300条不会，另外还收录了现有数据集中少见的截短蛋白、突变和工程化变体。团队先用大语言模型挖掘PubMed论文，再人工核对结果，从而建成这一数据库。"
+        },
+        {
+          "t": "p",
+          "x": "PhaseHub将覆盖1,106个物种的MolPhase预测与蛋白质丰度和相互作用数据结合，用于识别多组分区室；用户可以搜索蛋白质、提交序列并探索相互作用。总体而言，真核生物中被预测会发生相分离的蛋白质比例高于细菌。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员表示，这些工具有望助力癌症、阿尔茨海默病、衰老和作物改良等研究。第一作者Liang Qiyu博士说，这项工作“为理解相分离蛋白质提供了一个全面的框架”。"
+        }
+      ]
+    },
+    "science/science-ebird-inaturalist-llm-ecology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+          "cap": "一只雪雁与一群加拿大雁（Canada goose）一同觅食，这种互利互动常见于eBird评论记录中。Credit: Jing-Yi Li"
+        },
+        {
+          "t": "p",
+          "x": "一项由University of Michigan牵头、发表在PNAS上的研究发现，大语言模型可以筛查公开的自然观察记录，从中提取物种如何互动的信息。研究使用的是eBird（鸟类）和iNaturalist（植物与传粉者）上的评论。"
+        },
+        {
+          "t": "p",
+          "x": "两项案例研究分别关注West Coast lady蝴蝶及其寄主植物，以及Michigan鸟类之间的互动。在概念验证中，这一方法揭示了沿美国（U.S.）西海岸扩散、原本可能被忽视的外来植物。"
+        },
+        {
+          "t": "p",
+          "x": "在一次计时对比中，Claude用约六分钟分类了近500条评论，而一名本科生研究员大约需要八小时。第一作者Hengxing Zou表示，这项工作是用AI扩展人的工作量，而不是取代科学家的创造性工作。"
+        }
+      ]
+    },
+    "science/science-koc-photonic-optical-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+          "cap": "多通道光计算的实验装置与优化策略。Credit: Communications Engineering (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Koç University助理教授Uğur Teğin及其同事发表了两项研究，探讨用光来完成部分AI计算，这有望降低AI的能耗需求。"
+        },
+        {
+          "t": "p",
+          "x": "在发表于Communications Engineering的研究中，团队构建了一个可编程光子神经网络，能把图像的红、绿、蓝通道一并处理，而不是先转成灰度图。在一项皮肤病分类任务中，准确率从原始彩色像素数据的68%提升到光学处理后的98%。该系统从实测结果中学习，能适应光学装置在现实中的缺陷。"
+        },
+        {
+          "t": "p",
+          "x": "在发表于Communications Physics的研究中，一台多模光纤激光器充当物理处理器，在激光腔内把图像数据编码进光中。在可回收垃圾、天气与卫星图像、视网膜扫描和皮肤病变等任务上，它搭配简单分类器达到85%至99%的准确率，可训练参数也远少于传统深度学习模型。"
+        },
+        {
+          "t": "p",
+          "x": "这些系统仍依赖摄像头和控制单元等电子部件；更快的光控器件和芯片级光学元件有望把更多计算负载转移到光上。"
+        }
+      ]
+    },
+    "science/science-quanta-attention-intelligence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+        },
+        {
+          "t": "p",
+          "x": "自ChatGPT以来席卷世界的一切，在某种意义上都始于Dzmitry Bahdanau。2014年，他是University of Montreal一个实验室里23岁的实习生，与Yoshua Bengio和Kyunghyun Cho一起研究如何让神经网络把英语翻译成法语。由于每个句子都被塞进固定大小的内存，句子越长，结果越差。"
+        },
+        {
+          "t": "p",
+          "x": "Bahdanau的妙招“注意力”，让网络能在句子任意位置找到对翻译下一个词最有帮助的词。2017年，Google的论文“Attention Is All You Need”提出了Transformer，被引用超过250,000次；随后出现了ChatGPT和Claude等大语言模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+        },
+        {
+          "t": "p",
+          "x": "注意力头将每个词的查询与其他词的键进行比较，于是语境变成了数学。Llion Jones称语言建模是“AI-complete”的。专栏作者认为，人类思维并非纯粹是语言性的；Jones如今也认为注意力并不是你所需要的全部：“你似乎必须跳到某种非常、非常不同的东西上去。”"
+        }
+      ]
+    },
+    "science/science-lensless-cell-imaging-sfpulse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+          "cap": "用SF-PULSE方法成像并重建的胶质母细胞瘤细胞，比例尺为0.5 mm (图片来源：Computational Imaging Group and Molecular Signaling Group, Tampere University)。"
+        },
+        {
+          "t": "p",
+          "x": "Tampere University的研究人员开发出SF-PULSE，这是一种将神经网络与物理信息驱动（physics-informed）的图像重建相结合的无透镜定量相位成像方法，仅凭一张图像即可获得活细胞的精确定量数据。"
+        },
+        {
+          "t": "p",
+          "x": "这套紧凑的系统可放入标准细胞培养（cell-culture）培养箱，无需染色或其他标记，就能连续数小时乃至数日监测活细胞。第一作者Igor Shevkunov表示，SF-PULSE“能够从单张测量图像中重建定量相位信息”。"
+        },
+        {
+          "t": "p",
+          "x": "由于该方法追踪的是单个细胞而非群体平均值，它可以记录细胞随时间的生长、移动、分裂和生物量变化。研究人员认为它可用于药物反应（drug-response）研究、毒性筛查和细胞死亡（cell-death）研究。该成果发表于Applied Physics Letters。"
+        }
+      ]
     }
   }
 }

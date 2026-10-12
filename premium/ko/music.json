@@ -11303,6 +11303,152 @@
           "x": "DistroKid의 Artist Services 담당 VP Amanda Ferri는 “DistroKid를 통해 유통된 극히 일부 음원이 UMG의 주장에 따라 삭제됐다. 우리는 UMG 소송의 근거가 된 주장에 강하게 반박하며, 영향을 받은 아티스트들이 겪은 불편에 유감을 표한다”고 말했다."
         }
       ]
+    },
+    "music/music-claude-yamaha-cs80-patches": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8ewLKEkqavk"
+        },
+        {
+          "t": "p",
+          "x": "Jose's Vintage Keys가 새로 올린 영상은 AI로 Yamaha CS-80 신시사이저 패치를 만드는 법을 다룬다."
+        },
+        {
+          "t": "p",
+          "x": "이 Yamaha CS-80에는 Mark Cox MIDI 업그레이드가 들어가 있고, Anthropic의 Claude AI는 MIDI 장비를 제어할 수 있다. 그래서 가능한 일이다."
+        },
+        {
+          "t": "p",
+          "x": "신시사이저 연주자 상당수에게 사운드 디자인과 소리 실험은 신시사이저를 다루는 가장 큰 즐거움 중 하나다. 연주나 공연, 작곡을 더 중시하는 이들도 있다. 이들에게는 오랫동안 프리셋이 창작을 빨리 시작하게 해 주는 도구였다. 소리를 만지작거리기보다 연주하고 싶은 음악가에게 AI가 중요한 도구가 되지 않으리라고는 이제 상상하기 어렵다."
+        },
+        {
+          "t": "p",
+          "x": "영상을 보고, 영상과 AI-enabled 사운드 디자인이라는 아이디어를 어떻게 생각하는지 댓글로 남겨 주기 바란다."
+        }
+      ]
+    },
+    "music/music-instagram-dm-ai-songs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Instagram이 최근 DM 받은편지함에 노래 만들기 옵션을 넣었다. AI로 노래를 만들어 친구에게 보낼 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/6MzwsGRDvInxYpHw5sO13OkXlcL4KyjoarylCPc0f4o/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nLnBuZw==.webp",
+          "cap": "Instagram 음악 공유"
+        },
+        {
+          "t": "p",
+          "x": "크리에이터 Jonah Manzano가 올린 이미지를 보면, 이제 Instagram 사용자는 DM 공유 옵션에서 노래를 만드는 새 옵션을 볼 수 있다. 누르면 가사를 입력하고 음악 장르를 골라 AI-generated 트랙을 만드는 단계가 차례로 나온다."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/5qt403dMkGtOtlmRIBCklaw-CGPs97nQIeAExzSf5Wg/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nNC5wbmc=.webp",
+          "cap": "Instagram 음악 공유"
+        },
+        {
+          "t": "p",
+          "x": "Meta는 이 기능이 재미있게 참여하는 수단이 될 수 있다고 설명했다. Snapchat의 새 Snap-to-Song 옵션과 비슷한데, 유료 Snapchat 사용자가 메시지 텍스트를 가사로 삼아 노래를 만드는 기능이다. 다만 Instagram 쪽은 가사를 세부적으로 제어하는 장치가 덜해, 사용자가 원하는 내용을 무엇이든 넣을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "DM 대화에 유머를 더해 줄 수는 있다. 그래도 AI를 세상을 바꿀 기술로 내세우는 Meta의 큰 서사에 비춰 보면, 이런 가벼운 기능은 오히려 그 메시지를 흐리는 듯하다."
+        }
+      ]
+    },
+    "music/music-livesynth-streaming-neural-synth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "생성형 신경망 신시사이저는 이미 참조 녹음만으로 악기를 zero-shot 방식으로 복제하고, 텍스트 프롬프트로 음색을 만든다. 문제는 기존 시스템이 완성된 오디오 구간을 오프라인으로 생성한다는 점이다. 그래서 연주 가능한 악기로는 쓸 수 없었다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.13054v1/figures/fig1.png",
+          "cap": "Figure 1: LiveSynth 개요."
+        },
+        {
+          "t": "p",
+          "x": "LiveSynth는 Kyungsu Kim, Yejin Kim, Kyogu Lee가 만든 스트리밍 신경망 신시사이저다. 음색을 유연하게 제어하며 상호작용으로 생성할 수 있고, zero-shot 악기 복제와 텍스트 기반 악기 합성을 지원한다. 피드백 없는 인과적 Transformer가 MIDI 이벤트와 CLAP 음색 임베딩을 조건으로 받아 100 Hz로 연속 오디오 잠재 벡터를 내보내면, 인과적 변분 오토인코더가 이를 오디오로 디코딩한다."
+        },
+        {
+          "t": "p",
+          "x": "음색은 프레임 단위로 조건화돼 연속적으로 변형되고, MIDI-conditioning 드롭아웃 덕분에 앞서 연주한 부분을 받아 스스로 연주를 이어 간다."
+        },
+        {
+          "t": "p",
+          "x": "NSynth와 Slakh 데이터셋에서 LiveSynth의 음색 유사도와 스펙트럼 재구성 품질은 오프라인 기준 모델에 견줄 만했다. M3 MacBook Air에서는 10 ms 오디오 프레임마다 8.8 ms의 연산이 들었고(RTF 0.88), 알고리즘 지연이 10 ms라 연주자와 실시간으로 주고받을 수 있었다."
+        }
+      ]
+    },
+    "music/music-suno-new-autotune-viral-artists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1450/7/1457204.jpeg",
+          "cap": "Kilo Kent 홍보 이미지"
+        },
+        {
+          "t": "p",
+          "x": "TikTok은 복면 래퍼 Kilo Kent의 \"40's\"로 도배됐고, 댓글을 다는 이들은 이 곡이 AI라고 확신한다. Spotify에서 Kilo의 최상위 추천 아티스트로 뜨는 Zemi는 AI 아바타를 내세운다. 알고 보니 둘 다 Isekai Records 소속이다. 이 레이블은 프로듀서 Haven의 바이럴 히트곡 \"I Run\"이 Suno로 Jorja Smith를 흉내 냈다는 의혹이 나온 뒤 그와 계약했다."
+        },
+        {
+          "t": "p",
+          "x": "인터뷰에서 두 사람은 Suno로 보컬을 바꾼다는 걸 숨기지 않는다. 다만 리버브나 오토튠과 다를 게 없다고 주장한다. \"네, 목소리는 AI지만 나머지는 전부 제가 만들어요. 비트, 탑라인, 프로덕션까지요.\" Zemi의 말이다. \"제가 노래를 부르고, Suno로 가져가 목소리를 바꾼 다음 직접 믹싱해요.\""
+        },
+        {
+          "t": "p",
+          "x": "\"AI-assisted 음악을 오븐이라고 생각해 보세요.\" Kilo의 말이다. \"요리를 준비하고, 채소를 썰고, 소금을 치고, 모든 걸 직접 하잖아요. 그건 오븐이 만든 음식이 아니죠.\""
+        },
+        {
+          "t": "p",
+          "x": "UNSW 부교수 Oliver Bown은 AI-assisted 음악과 AI-generated 음악 사이에 뚜렷한 선은 없고 연속선이 있을 뿐이라고 본다. 아티스트가 얼굴을 숨기면 페르소나를 상품으로 보는 시각이 생긴다고도 말한다. Isekai가 기사를 미리 검토하겠다고 요구했지만 기자는 거절했다."
+        }
+      ]
+    },
+    "music/google-synthid-public-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675",
+          "cap": "이미지 출처: Google"
+        },
+        {
+          "t": "p",
+          "x": "Google이 화요일 새 사이트를 공개했다. 이미지든 영상이든 오디오 클립이든, AI로 만든 미디어인지 누구나 확인할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "지난해 Google I/O에서는 일부 기자와 미디어 전문가, 연구자만 이 도구를 시험해 볼 수 있었다. 이제는 모두에게 열린다."
+        },
+        {
+          "t": "p",
+          "x": "지원 형식은 이미지가 JPG, JPEG, PNG, BMP, WEBP, AVIF, HEIC, HEIF, TIFF, TIF, GIF, 영상이 MP4, MOV, WEBM, 오디오가 WAV, MP3, OGG, FLAC, AAC, M4A다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Raccoon_Video_SynthIDDetector.jpeg?w=680",
+          "cap": "이미지 출처: Google"
+        },
+        {
+          "t": "p",
+          "x": "Google은 2023년 도입한 SynthID로 AI 생성(AI-generated) 여부를 가린다. Nano Banana, Veo, Lyria 같은 Google 모델은 물론이고 Gemini, Flow, ProducerAI, Vids처럼 생성 기능이 있는 도구도 모두 결과물에 SynthID 워터마크를 넣는다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI, Nvidia, Kakao도 SynthID를 지원한다. OpenAI는 콘텐츠를 확인하는 자체 사이트도 운영한다. Apple도 곧 지원을 추가할 것으로 알려졌다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini 앱과 Google Chrome에도 SynthID 검증 기능이 들어갔다. 회사 설명으로는 지금 하루 100만 건의 콘텐츠 검증 요청이 들어온다."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft와 Meta는 워터마킹과 검증에 자체 표준을 쓴다. 이런 도구가 완벽한 것은 아니어서, 자사 모델이 만든 콘텐츠조차 못 알아보는 경우가 많다."
+        }
+      ]
     }
   }
 }

@@ -1,106 +1,151 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "design",
+  "user_selection": null,
   "picks": [
     {
-      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
-      "title": "Odyssey-3 is a new generative world model that you can try for free",
-      "source": "The Decoder",
+      "rank": 1,
+      "title": "BiteTheBytes unveils World Creator 4",
+      "url": "https://www.cgchannel.com/2026/10/bitethebytes-unveils-world-creator-4/",
+      "source": "CG Channel",
       "category": "render",
-      "published_iso": "2026-10-11T07:48:01Z",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg",
-      "excerpt": "Odyssey released its 14-billion-parameter world model Odyssey-3 as a public research preview. It generates interactive environments from text prompts in real time.",
-      "source_lang": "en",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Fresh release: a free, real-time text-to-interactive-environment world model designers can try today for spatial and scene ideation."
+      "published_iso": "2026-10-12T06:30:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg",
+      "excerpt": "The terrain generator's big update adds planet creation, a node-based authoring environment, a real-time render engine and an integrated MCP server so AI tools like Claude and ChatGPT can drive it.",
+      "rationale": "Concrete major release: a production terrain/world tool now ships a built-in MCP server, so 3D artists can drive it from Claude or ChatGPT starting now."
     },
     {
-      "url": "https://www.nngroup.com/articles/context-libraries/",
-      "title": "Context Libraries: How AI power users manage context engineering",
-      "source": "Nielsen Norman Group",
+      "rank": 2,
+      "title": "From a Figma URL to a custom WordPress theme with Claude Code",
+      "url": "https://dev.to/saidmounaim/from-a-figma-url-to-a-custom-wordpress-theme-with-claude-code-4p9a",
+      "source": "DEV Community",
       "category": "figma",
-      "published_iso": "2026-10-09T17:00:00Z",
-      "og_image": "https://media.nngroup.com/media/articles/opengraph_images/Context_Libraries-1.png",
-      "excerpt": "NN/g research finds Claude power users rarely edit their context files and often can't find them. Your AI agent is only as powerful as its context library.",
-      "source_lang": "en",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Original NN/g user research on how people manage AI context files. It works as a workflow tip for designers and also shows a UX gap for teams building agent tools."
+      "published_iso": "2026-10-12T14:55:55Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png",
+      "excerpt": "The author built figma-wp-blueprint, a set of Claude Code skills that turn a Figma design URL into a custom WordPress theme.",
+      "rationale": "A new open toolset (figma-wp-blueprint skills) that takes a Figma file straight to a shippable WordPress theme; designers can try it tomorrow."
     },
     {
-      "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490",
-      "title": "Tesler's Law: complexity moved to a different part of the journey",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-10-08T23:17:58Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*3075AKBZYzb99y7ImuTgDQ.png",
-      "excerpt": "AI did not remove the complexity of software; it removed the interface that told you where the complexity went. Applies Tesler's Law of conservation of complexity to chat-field AI products.",
-      "source_lang": "en",
-      "tool": "Figma",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "Applies a classic UX law to chat-first AI products, giving designers a concrete lens for where complexity lands in the journey."
-    },
-    {
-      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
-      "title": "AI-generated UI is fast design, not UX",
-      "source": "UX Collective",
+      "rank": 3,
+      "title": "AI-pilled bosses and clients are turning designers into 'pixel pushers'",
+      "url": "https://www.fastcompany.com/91621558/ai-pilled-bosses-and-clients-turning-designers-into-pixel-pushers",
+      "source": "Fast Company",
       "category": "workflow",
-      "published_iso": "2026-10-08T23:16:10Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-      "excerpt": "An editor's pick arguing that AI-generated interfaces speed up production but skip problem discovery, and making the case for wandering and craft in the age of AI.",
-      "source_lang": "en",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "Replacement for the Robot Report advertorial. It is a process argument about where AI UI generation fits in the design workflow (production, not discovery), so it is filed under workflow rather than as a third Figma card."
+      "published_iso": "2026-10-12T09:00:00Z",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg",
+      "excerpt": "Designers say clients and managers now arrive with AI-generated mockups and 'just ask ChatGPT' direction, reducing them to fixing AI output instead of originating ideas.",
+      "rationale": "Fresh reported piece from a credible outlet on how AI mockups from clients are reshaping designers' roles; distinct from earlier Fast Company design-taste essays."
     },
     {
-      "url": "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet",
-      "title": "Why 'boring' AI is Hollywood's best bet",
+      "rank": 4,
+      "title": "Secret agent bot: accessibility matters for the agents even if you can't see them",
+      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
+      "source": "UX Collective",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "published_iso": "2026-10-12T20:19:31Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+      "excerpt": "Two readers, one page: AI agents never see the surface you designed, they read the semantic structure underneath, so accessible markup is now agent UX.",
+      "rationale": "Actionable reframing: semantic, accessible markup is now how AI agents read your UI, which changes handoff and markup priorities."
+    },
+    {
+      "rank": 5,
+      "title": "Iris 3B: The Image Generator That Skips Latent Space Entirely",
+      "url": "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/",
+      "source": "MindStudio",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-10-10T00:00:00Z",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop",
+      "excerpt": "Iris 3B generates images directly in pixel space with no VAE, and the same weights handle depth estimation and upscaling.",
+      "rationale": "New compact image model (no VAE, pixel-space) whose single set of weights also does depth and upscaling; a new tool option for visual designers, adding a fifth outlet and category."
+    }
+  ],
+  "alternates": [
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-10-12T17:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "excerpt": "Meta says its new Muse Wonder models compete with the industry's best and will soon power its multimodal Muse agent.",
+      "rationale": "New model release (Muse Wonder), distinct from the Muse Charm (09-27) and Instinct hands-on (10-10) stories; design relevance indirect.",
+      "dedup": {"verdict": "new", "nearest": "https://www.fastcompany.com/91612532/with-metas-muse-charm-ai-enters-its-kawaii-era", "new_action": ""}
+    },
+    {
+      "title": "Now AI isn't just faking art, it's faking artists' signatures as well",
+      "url": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well",
       "source": "Creative Bloq",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-10-12T09:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+      "excerpt": "ChatGPT has been signing its fake New Yorker-style cartoons with real cartoonists' names, raising new attribution problems for illustrators.",
+      "rationale": "Fresh attribution issue for illustrators; held back only because figma category already has 2 picks.",
+      "dedup": {"verdict": "new", "nearest": "", "new_action": ""}
+    },
+    {
+      "title": "Apple, Content Authenticity, and the War to Prove What's Real",
+      "url": "https://petapixel.com/2026/10/12/apple-content-authenticity-and-the-war-to-prove-whats-real/",
+      "source": "PetaPixel",
       "category": "render",
-      "published_iso": "2026-10-10T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/R63kywzJWrB7y2FfKVHCDB-1920-80.jpg",
-      "excerpt": "Generative AI could be the film industry's secret weapon, but not in the way people expect: the real wins are in unglamorous production and VFX pipeline tasks.",
-      "source_lang": "en",
       "tool": "KeyShot",
-      "accent": "#eb367f",
+      "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Shows visual and VFX artists where generative AI actually pays off: unglamorous pre-production and pipeline tasks, not headline generation. The author is Filmustage's CEO, but the piece is genuinely about AI pre-production, so it stays."
+      "published_iso": "2026-10-12T14:01:37Z",
+      "og_image": "https://petapixel.com/assets/uploads/2026/10/the-war-to-prove-whats-real-2-1600x840.jpg",
+      "excerpt": "With AI generators producing photorealistic images of things that never happened, the piece examines Apple's role in content credentials and proving an image is real.",
+      "rationale": "Provenance/content-credentials analysis; analysis rather than a release, so ranked below the picks.",
+      "dedup": {"verdict": "new", "nearest": "", "new_action": ""}
     }
   ],
   "dedup": {
     "checks": {
-      "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/": {
+      "https://www.cgchannel.com/2026/10/bitethebytes-unveils-world-creator-4/": {
         "verdict": "new",
-        "nearest": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+        "nearest": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
         "new_action": ""
       },
-      "https://www.nngroup.com/articles/context-libraries/": {
+      "https://dev.to/saidmounaim/from-a-figma-url-to-a-custom-wordpress-theme-with-claude-code-4p9a": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+        "nearest": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
         "new_action": ""
       },
-      "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490": {
+      "https://www.fastcompany.com/91621558/ai-pilled-bosses-and-clients-turning-designers-into-pixel-pushers": {
+        "verdict": "new",
+        "nearest": "https://www.fastcompany.com/91608605/having-good-taste-wont-save-designers",
+        "new_action": ""
+      },
+      "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9": {
+        "verdict": "new",
+        "nearest": "https://venturebeat.com/technology/we-asked-five-ai-tools-to-build-accessible-websites-all-15-sites-failed",
+        "new_action": ""
+      },
+      "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
-      },
-      "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28": {
-        "verdict": "new",
-        "nearest": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
-        "new_action": ""
-      },
-      "https://www.creativebloq.com/features/why-boring-ai-is-hollywoods-best-bet": {
-        "verdict": "new",
-        "nearest": "https://www.creativebloq.com/3d/autodesks-own-ai-film-has-a-continuity-error-nobody-could-prompt-away",
-        "new_action": ""
       }
     },
-    "note": "Re-curation after the fact-check pass. REPLACED: The Robot Report 'Will boring robots win in the real world?'. The enrichment fetch showed it is a guest piece by a Vishay Precision Group exec promoting strain-based sensing, with only a 'physical AI' label for AI content (borderline advertorial). REPLACEMENT: UX Collective 'AI-generated UI is fast design, not UX' (editor's pick, reliable RSS date of 10-08). It is filed as workflow (#ff5a4d), not figma, because it argues about where AI UI generation belongs in the design process. That keeps figma at 2 cards. UX Collective now has 2 cards, which is the maximum allowed. history_match (related, 10-07 Figma agent craft/speed post) is a different story: that was a vendor how-to, this is a critique essay. It is also distinct from the 09-30 'de-slopify' and 10-08 'bounded delegation' UXC essays. Other replacement options considered and rejected: Eleken 'Inside Vibe Design' (CMS bulk-timestamp freshness is unverifiable, and it is agency content marketing), DesignCourse ElevenLabs Studio V4 (sponsored, same angle as the 09-15 ElevenLabs card), Artec Twins (light AI content, related to the 09-20 Artec Neo card), Figma Sightlines No.3 (same source/topic as the 10-11 rituals card), 'What the AI era owes you' (career essay, would be a third UXC card), Matt Wolfe roundup (visual ChatGPT UI already ran 10-08), AI Studio Build Ultra (unlaunched leak), MarkTechPost Qwen-Image (Cloudflare-blocked, no og:image). Cross-section exclusions: Verge Nikon (movies 10-10), 9to5Google Pixel Watch face (gadgets 10-10), Verge local AI (today's gadgets). KEPT: Creative Bloq 'boring AI' (Filmustage CEO byline, semi-advertorial but on-topic, and no clearly better option). Final diversity: 4 outlets (The Decoder, NN/g, UX Collective x2, Creative Bloq). Categories: render x2, figma x2, workflow x1. The second figma card uses #2ec5c5 and the second render card uses #eb367f."
+    "note": "Dropped as already-published stories: MindStudio 'GPT-6 Intelligent UI' (same release as The Verge 2026-10-08 Intelligent UI card); CineD ArtCraft FilmCraft/EffectCraft, MindStudio 'AI Cloned Photoshop' and Fireship 'Every app on Earth is now open source' (all the AI-rebuilt open-source Adobe suite already published 2026-10-09 via Creative Bloq; reaction/commentary, no new release). Skipped on scoring/scope: Epic Disney game delay (games-section territory, cross-section clash risk), Nano Banana 3 Pro (unconfirmed leak), Visko/Google Cloud fireside chat (event promo), INSLOGIC/Neural4D prompt-to-print (marketing campaign), Eleken design-system-in-code (evergreen guide), DesignCourse ElevenCreative (sponsored demo, related to 09-15 ElevenLabs card), AI font test contract (low novelty, related to 09-28 capability-contract card), UX Collective hourglass essay and Beyond WCAG (second-tier essays; outlet/category caps). Final 5 span 5 distinct outlets; figma category used twice (second pick given palette accent #3b6bff)."
   }
 }
