@@ -6411,6 +6411,152 @@
           "x": "Amanda Ferri, VP de Artist Services de DistroKid, declaró: “Un número muy reducido de grabaciones distribuidas a través de DistroKid se ha retirado en respuesta a las reclamaciones de UMG. Rechazamos con firmeza las acusaciones en las que se basa la demanda de UMG y lamentamos los trastornos causados a los artistas afectados”."
         }
       ]
+    },
+    "music/music-claude-yamaha-cs80-patches": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8ewLKEkqavk"
+        },
+        {
+          "t": "p",
+          "x": "El último video de Jose's Vintage Keys analiza el uso de AI para crear sonidos para el sintetizador Yamaha CS-80."
+        },
+        {
+          "t": "p",
+          "x": "Esto es posible porque el Yamaha CS-80 ha sido modificado con la actualización Mark Cox MIDI, y Claude AI, de Anthropic, puede usarse para controlar equipos MIDI."
+        },
+        {
+          "t": "p",
+          "x": "Para muchos sintesistas, el diseño de sonido y la experimentación con sonidos son uno de los mayores placeres de la síntesis. Para otros, en cambio, tocar, actuar o componer son prioridades más altas. Para estos usuarios, los presets han sido durante mucho tiempo la herramienta para poner en marcha el proceso creativo. Cada vez resulta más difícil imaginar que la AI no se convierta en una herramienta importante para los músicos que prefieren tocar a ajustar parámetros."
+        },
+        {
+          "t": "p",
+          "x": "Vea el video y comparta en los comentarios su opinión sobre él y sobre la idea del diseño de sonido AI-enabled."
+        }
+      ]
+    },
+    "music/music-instagram-dm-ai-songs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Instagram añadió recientemente a su bandeja de DM una opción para crear canciones, que permite a los usuarios generar una canción con AI para enviarla a sus amigos."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/6MzwsGRDvInxYpHw5sO13OkXlcL4KyjoarylCPc0f4o/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nLnBuZw==.webp",
+          "cap": "Música compartida en Instagram"
+        },
+        {
+          "t": "p",
+          "x": "Como muestra una imagen publicada por el creador Jonah Manzano, los usuarios de Instagram verán ahora una nueva opción para crear una canción entre las opciones para compartir por DM. Al tocarla, se les guía para añadir la letra y elegir un género musical para su pista AI-generated."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/5qt403dMkGtOtlmRIBCklaw-CGPs97nQIeAExzSf5Wg/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nNC5wbmc=.webp",
+          "cap": "Música compartida en Instagram"
+        },
+        {
+          "t": "p",
+          "x": "Meta afirmó que la función podría ofrecer una opción de interacción divertida. Es similar a la nueva opción Snap-to-Song de Snapchat, que permite a los usuarios de pago de Snapchat generar canciones usando el texto de los mensajes como letra, aunque Instagram ofrece controles menos específicos sobre la letra, de modo que los usuarios pueden añadir lo que quieran."
+        },
+        {
+          "t": "p",
+          "x": "Podría añadir un toque de humor a las conversaciones por DM, pero dado el discurso más amplio de Meta sobre la AI como una tecnología que cambiará el mundo, funciones frívolas como esta parecen socavar ese mensaje."
+        }
+      ]
+    },
+    "music/music-livesynth-streaming-neural-synth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los sintetizadores neuronales generativos ya pueden clonar instrumentos zero-shot a partir de grabaciones de referencia y generar timbres a partir de instrucciones de texto, pero los sistemas existentes generan segmentos de audio completos fuera de línea, lo que impide usarlos como instrumentos tocables."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.13054v1/figures/fig1.png",
+          "cap": "Figure 1: Visión general de LiveSynth."
+        },
+        {
+          "t": "p",
+          "x": "LiveSynth, de Kyungsu Kim, Yejin Kim y Kyogu Lee, es un sintetizador neuronal en streaming con control flexible del timbre y generación interactiva, que incluye clonación de instrumentos zero-shot y síntesis de instrumentos a partir de texto. Un Transformer causal sin retroalimentación, condicionado por eventos MIDI y un embedding de timbre CLAP, produce latentes de audio continuos a 100 Hz, que un autocodificador variacional causal decodifica en audio."
+        },
+        {
+          "t": "p",
+          "x": "El condicionamiento del timbre por fotogramas permite transformarlo de forma continua, mientras que el dropout de MIDI-conditioning permite continuar de manera autónoma a partir de un fragmento interpretado."
+        },
+        {
+          "t": "p",
+          "x": "En los conjuntos de datos NSynth y Slakh, LiveSynth logró una similitud tímbrica y una calidad de reconstrucción espectral comparables a las de las referencias fuera de línea. En un M3 MacBook Air necesitó 8.8 ms de cómputo por cada trama de audio de 10 ms (un RTF de 0.88) con 10 ms de latencia algorítmica, lo que permite la interacción en tiempo real con un intérprete."
+        }
+      ]
+    },
+    "music/music-suno-new-autotune-viral-artists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1450/7/1457204.jpeg",
+          "cap": "Imagen promocional de Kilo Kent"
+        },
+        {
+          "t": "p",
+          "x": "TikTok está lleno de \"40's\", del rapero enmascarado Kilo Kent, y los comentaristas están convencidos de que es AI. El principal artista recomendado de Kilo en Spotify, Zemi, tiene como cara visible un avatar de AI. Resulta que ambos han firmado con Isekai Records, el sello que fichó al productor Haven después de que surgieran acusaciones de que su éxito viral \"I Run\" imitaba a Jorja Smith mediante Suno."
+        },
+        {
+          "t": "p",
+          "x": "En las entrevistas, ambos admiten abiertamente que usan Suno para modificar sus voces, pero insisten en que es como la reverberación o el auto-tune. \"Sí, la voz es AI, pero todo lo demás lo produzco yo: los beats, las melodías principales, la producción\", dice Zemi. \"Canto las canciones, las paso a Suno para cambiar la voz y luego las mezclo yo mismo.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Piensa en la música AI-assisted como en un horno\", dice Kilo. \"Preparas el plato, cortas las verduras, le pones sal, lo haces todo. Eso no es comida generada por el horno.\""
+        },
+        {
+          "t": "p",
+          "x": "Oliver Bown, profesor asociado de UNSW, afirma que no hay una línea clara entre la música AI-assisted y la AI-generated, sino un continuo, y que ocultar el rostro del artista alimenta la idea de que el personaje es una mercancía. Cuando Isekai exigió revisar el artículo, quien lo escribió se negó."
+        }
+      ]
+    },
+    "music/google-synthid-public-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675",
+          "cap": "Créditos de imagen: Google"
+        },
+        {
+          "t": "p",
+          "x": "Google lanzó el martes un nuevo sitio que permite a cualquier persona verificar si un contenido, ya sea una imagen, un video o un clip de audio, se generó con IA."
+        },
+        {
+          "t": "p",
+          "x": "La compañía puso esta herramienta a disposición de periodistas, profesionales de los medios e investigadores seleccionados para pruebas en Google I/O el año pasado, y ahora abre el acceso a todo el mundo."
+        },
+        {
+          "t": "p",
+          "x": "El sitio admite los formatos JPG, JPEG, PNG, BMP, WEBP, AVIF, HEIC, HEIF, TIFF, TIF y GIF para imágenes; MP4, MOV y WEBM para video; y WAV, MP3, OGG, FLAC, AAC y M4A para audio."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Raccoon_Video_SynthIDDetector.jpeg?w=680",
+          "cap": "Créditos de imagen: Google"
+        },
+        {
+          "t": "p",
+          "x": "Google usa SynthID, que presentó en 2023, para identificar si un contenido ha sido generado por IA (AI-generated). Los modelos Nano Banana, Veo y Lyria de la compañía, así como herramientas con capacidad de generación como Gemini, Flow, ProducerAI y Vids, usan SynthID para añadir una marca de agua a todo el contenido que generan."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI, Nvidia y Kakao también son compatibles con SynthID, y OpenAI mantiene su propio sitio para verificar contenido. Se dice que Apple también añadirá compatibilidad pronto."
+        },
+        {
+          "t": "p",
+          "x": "Google ha integrado la verificación de SynthID en la app Gemini y en Google Chrome. La compañía afirmó que actualmente se realizan 1 millón de solicitudes de verificación de contenido al día."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft y Meta tienen sus propios estándares para marcar y verificar contenido. Sin embargo, estas herramientas no son infalibles y a menudo no logran identificar contenido creado por los modelos de sus propios fabricantes."
+        }
+      ]
     }
   }
 }

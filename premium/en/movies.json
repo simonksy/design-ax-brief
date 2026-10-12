@@ -7051,6 +7051,121 @@
           "x": "“Every frame of the film was generated with AI, from the characters’ faces to every setting,” the Ay Yapim statement said. However, “The acting is human: actors performed the scenes, and AI generated the characters over their movement, timing and expression. All dialogue was recorded by human voice actors.”"
         }
       ]
+    },
+    "movies/movies-banderas-cortes-utopai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2182672949-e1774570677557.jpg?w=1000&h=563&crop=1",
+          "cap": "Antonio Banderas"
+        },
+        {
+          "t": "p",
+          "x": "The latest celebrity to endorse an AI studio? Antonio Banderas. The Oscar-nominated actor will star as Hernán Cortés in Utopai Studios’ “Cortés,” a new feature directed by Paul Mignot (“Vaincre ou mourir”) and written by Oscar nominee Nicholas Kazan (“Reversal of Fortune”). The film is in production in Paris and follows Cortés as a glory-hungry soldier in 1519 who leads an expedition to the Yucatán."
+        },
+        {
+          "t": "p",
+          "x": "It is a co-production between Utopai and Ex Machina Studios, a new company dedicated to “advancing episodic and feature-length cinema through the ethical, artist-first integration of artificial intelligence.” Both will co-finance; Utopai leads sales in the U.S., Canada, Asia, the Middle East and Africa, Ex Machina across most of Europe, Latin America, Australia and New Zealand."
+        },
+        {
+          "t": "p",
+          "x": "“Cortés is exactly why we built Utopai Studios,” said co-founder and CEO Cecilia Shen. Banderas is the latest Hollywood veteran to align with an AI-focused company as the industry remains divided over the technology. Utopai’s slate, both fully AI-generated and AI-enabled, includes an AI-assisted animated adaptation of “The Most Serious Fart” and a fully AI-generated “Journey to the West: The Lost Five Hundred Years” with Huace."
+        }
+      ]
+    },
+    "movies/movies-kling-busan-trained-crew-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Kling-AI-panel-.jpg?w=1024",
+          "cap": "Kling AI panel at ACFM, Busan"
+        },
+        {
+          "t": "p",
+          "x": "Korean director Kim Sung-soo (Asura: The City Of Madness, 12.12: The Day) talked about using Kling AI tools to make his short Worm Train, inspired by Kafka’s Metamorphosis, on a panel at Busan’s Asian Contents & Film Market (ACFM). “Initially, I thought AI would destroy the industry, but I don’t think so any more, because technology does not replace creativity,” Kim said."
+        },
+        {
+          "t": "p",
+          "x": "Harry Hyun, director and CEO of Korea’s MooAm Co, said: “if you don’t have experienced filmmakers on set, everything can end up looking the same… Only when you’re working with experts will you be able to create something different with AI – not just cookie cutter deliverables.”"
+        },
+        {
+          "t": "p",
+          "x": "Li Wei, making animated feature Born Of The Tide with Kling AI tools, said AI results can be seen right away, making crew feedback easier. MBC C&I’s Lee Sang-wook presented a teaser for Rendering Love, which mixes live action with AI-generated characters, and said all staff must fully understand the technology to get high-quality content."
+        },
+        {
+          "t": "p",
+          "x": "On industry standards, Kim said it was still too early in South Korea, but filmmakers must be conscious of whether they are infringing somebody’s rights."
+        }
+      ]
+    },
+    "movies/movies-curious-refuge-credit-savings": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "h4MKJAJvins"
+        },
+        {
+          "t": "p",
+          "x": "Here’s one of my favorite hacks for saving credits while generating for your AI Film. Nowadays, you don’t have to fully commit, but there are a handful of workflows and processes you can set up so that you can ensure you don’t waste tons of money on bad generations."
+        },
+        {
+          "t": "p",
+          "x": "The full breakdown is on the Curious Refuge blog: https://curiousrefuge.com/blog/how-to-save-money-on-ai-generations"
+        }
+      ]
+    },
+    "movies/movies-visko-google-cloud-ai-worlds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081522-visko-google-cloud-live-models-landscape-1280.jpg?itok=w4XccKHY",
+          "cap": "Visko × Google Cloud Live Models Fireside Chat"
+        },
+        {
+          "t": "p",
+          "x": "Visko and Google Cloud are hosting \"Live Models Fireside Chat,\" an evening conversation in Los Angeles on Wednesday, October 14, about AI-generated worlds that run in real time and the computing infrastructure needed to drive them."
+        },
+        {
+          "t": "p",
+          "x": "Visko is an AI research company and the creator of Orbis, a foundation model that generates and streams interactive environments as they are explored, combining persistent memory, interactivity and generation grounded in physics; they call these real-time systems Live Models."
+        },
+        {
+          "t": "p",
+          "x": "For animation, VFX and games artists, the evening centers on world-building and interactive storytelling: environments that respond to a user's input while keeping continuity from moment to moment, and what those could mean for previs, virtual production and game development."
+        },
+        {
+          "t": "p",
+          "x": "Visko CEO Will Yin will explain how Live Models differ from conventional AI systems and introduce Orbis. Dave Elliott, head of developer advocacy for AI at Google Cloud, will then present with Google's startup team on Tensor Processing Units (TPUs), and why they suit inference, which real-time models demand continuously and at scale."
+        },
+        {
+          "t": "p",
+          "x": "The event runs from 6:30 to 9 p.m. Pacific. Registration is required and subject to host approval."
+        }
+      ]
+    },
+    "movies/luma-claude-motion-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude Motion animations now open in Luma, where creators turn an idea in motion into video in any format."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "SAN FRANCISCO, Calif. — Luma today announced that Claude Motion animations now open directly in Luma, ready for creators to expand, refine, and reframe to any asset output. Now creators can bring an animated explainer made in Claude into Luma via MCP connection to re-create in any format simply by telling the agent what they want. Claude Motion gets an idea moving, writing code that animates text, charts, shapes and images, and Luma makes that movement into a final video output."
+        },
+        {
+          "t": "p",
+          "x": "Claude Motion, now in beta on Claude Team and Enterprise plans, helps you to explain your ideas better by adding motion. Claude builds an animation from your prompt, and it plays like a short video. Anthropic’s announcement highlighted that any customer can take Claude Motion further by opening it in Luma to create the look, the shots, and expanded versions that can play on every screen. Luma brings Ray and Uni video generation models to Claude Motion animations to help creators deliver final video files."
+        },
+        {
+          "t": "p",
+          "x": "How to use them together: use Claude Motion to turn a prompt into an animated explainer; add the Luma connector in Claude; your animation appears in Luma as a video. Inside Luma you can restyle the look while the motion holds, reframe it to 9:16, 1:1, 4:3 or 21:9, or ask the Luma agent to make additional versions."
+        }
+      ]
     }
   }
 }

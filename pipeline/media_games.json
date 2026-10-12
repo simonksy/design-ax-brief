@@ -1,28 +1,32 @@
 {
- "date": "2026-10-12",
- "section": "games",
- "media": [
-  {
-   "id": "roblox-build-evaluation",
-   "type": "image",
-   "src": "pipeline/media/roblox-build-evaluation.png"
-  },
-  {
-   "id": "illunes-offline-ai-game-master",
-   "type": "video",
-   "src": "pipeline/media/illunes-offline-ai-game-master.mp4",
-   "poster": "pipeline/media/illunes-offline-ai-game-master.jpg"
-  },
-  {
-   "id": "astro-bot-psvr-quest3-mod",
-   "type": "video",
-   "src": "pipeline/media/astro-bot-psvr-quest3-mod.mp4",
-   "poster": "pipeline/media/astro-bot-psvr-quest3-mod.jpg"
-  },
-  {
-   "id": "analogue-pocket-snes-ai-hack",
-   "type": "image",
-   "src": "pipeline/media/analogue-pocket-snes-ai-hack.jpg"
-  }
- ]
+  "date": "2026-10-13",
+  "section": "games",
+  "media": [
+    {
+      "id": "games-epic-ai-first-disney-delay",
+      "type": "image",
+      "src": "pipeline/media/games-epic-ai-first-disney-delay.png"
+    },
+    {
+      "id": "games-horii-claude-30min-game",
+      "type": "image",
+      "src": "pipeline/media/games-horii-claude-30min-game.jpg"
+    },
+    {
+      "id": "games-square-enix-collective-vaultbreakers",
+      "type": "video",
+      "src": "pipeline/media/games-square-enix-collective-vaultbreakers.mp4",
+      "poster": "pipeline/media/games-square-enix-collective-vaultbreakers.jpg"
+    },
+    {
+      "id": "games-flathub-ai-disclosure-policy",
+      "type": "image",
+      "src": "pipeline/media/games-flathub-ai-disclosure-policy.jpg"
+    },
+    {
+      "id": "games-netmarble-nexus-kiro-adoption",
+      "type": "image",
+      "src": "pipeline/media/games-netmarble-nexus-kiro-adoption.png"
+    }
+  ]
 }

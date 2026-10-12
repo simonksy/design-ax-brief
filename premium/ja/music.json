@@ -6377,6 +6377,152 @@
           "x": "DistroKidのArtist Services担当VP、Amanda Ferriは「DistroKidを通じて配信された音源のうち、ごく少数がUMGの申し立てを受けて削除された。UMGの訴訟の根拠となった主張には強く異議を唱えており、影響を受けたアーティストに混乱をもたらしたことを遺憾に思う」と述べた。"
         }
       ]
+    },
+    "music/music-claude-yamaha-cs80-patches": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8ewLKEkqavk"
+        },
+        {
+          "t": "p",
+          "x": "Jose's Vintage Keysの最新動画は、AIを使ってYamaha CS-80シンセサイザーのパッチを作る試みを取り上げている。"
+        },
+        {
+          "t": "p",
+          "x": "これが可能なのは、このYamaha CS-80にMark Cox MIDIアップグレードが施されており、AnthropicのClaude AIでMIDI機器を制御できるからだ。"
+        },
+        {
+          "t": "p",
+          "x": "多くのシンセ奏者にとって、サウンドデザインや音の実験はシンセサイザーの最大の楽しみの一つだ。一方で、演奏やパフォーマンス、作曲を優先する人もいる。そうしたユーザーにとって、プリセットは長らく創作を手早く始めるための道具だった。音をいじるより演奏していたい音楽家にとって、AIが重要な道具にならないと考えるのは難しくなりつつある。"
+        },
+        {
+          "t": "p",
+          "x": "動画をチェックして、動画について、そしてAI-enabledなサウンドデザインという発想について、コメント欄で意見を聞かせてほしい。"
+        }
+      ]
+    },
+    "music/music-instagram-dm-ai-songs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "InstagramはこのほどDMの受信箱に楽曲作成オプションを追加した。ユーザーはAIで曲を生成し、友人に送ることができる。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/6MzwsGRDvInxYpHw5sO13OkXlcL4KyjoarylCPc0f4o/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nLnBuZw==.webp",
+          "cap": "Instagramの音楽共有"
+        },
+        {
+          "t": "p",
+          "x": "クリエイターのJonah Manzanoが投稿した画像によると、InstagramユーザーにはDMの共有オプションに曲を作る新しい選択肢が表示される。タップすると、歌詞を入力し音楽ジャンルを選んでAI-generatedのトラックを作る手順が案内される。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/5qt403dMkGtOtlmRIBCklaw-CGPs97nQIeAExzSf5Wg/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nNC5wbmc=.webp",
+          "cap": "Instagramの音楽共有"
+        },
+        {
+          "t": "p",
+          "x": "Metaは、この機能が楽しいエンゲージメントの手段になり得ると述べた。有料のSnapchatユーザーがメッセージの文面を歌詞にして曲を生成できるSnapchatの新機能Snap-to-Songに似ているが、Instagramは歌詞に関する細かな制御が少なく、ユーザーは好きな内容を何でも入れられる。"
+        },
+        {
+          "t": "p",
+          "x": "DMでのやり取りにユーモアを添えることはできるだろう。だが、AIを世界を変える技術と位置づけるMetaの大きな物語を踏まえると、こうした軽い機能はそのメッセージを損ねているように見える。"
+        }
+      ]
+    },
+    "music/music-livesynth-streaming-neural-synth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "生成系ニューラルシンセサイザーはすでに、参照録音からzero-shotで楽器を複製したり、テキストプロンプトから音色を生成したりできる。しかし既存のシステムは完成したオーディオ区間をオフラインで生成するため、演奏可能な楽器としては使えなかった。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.13054v1/figures/fig1.png",
+          "cap": "Figure 1: LiveSynthの概要。"
+        },
+        {
+          "t": "p",
+          "x": "Kyungsu Kim、Yejin Kim、Kyogu LeeによるLiveSynthは、柔軟な音色制御とインタラクティブな生成を備えたストリーミング型ニューラルシンセサイザーで、zero-shotの楽器複製やテキストからの楽器合成にも対応する。MIDIイベントとCLAP音色埋め込みを条件とするフィードバックなしの因果的Transformerが100 Hzで連続的なオーディオ潜在表現を出力し、因果的変分オートエンコーダーがそれを音声にデコードする。"
+        },
+        {
+          "t": "p",
+          "x": "フレーム単位の音色条件付けにより音色を連続的にモーフィングでき、MIDI-conditioningのドロップアウトにより、演奏された冒頭部分から自律的に続きを生成できる。"
+        },
+        {
+          "t": "p",
+          "x": "NSynthとSlakhのデータセットで、LiveSynthはオフラインのベースラインに匹敵する音色類似度とスペクトル再構成品質を達成した。M3 MacBook Airでは10 msのオーディオフレームあたり8.8 msの計算を要し（RTFは0.88）、アルゴリズム遅延は10 msで、演奏者とのリアルタイムな対話が可能だった。"
+        }
+      ]
+    },
+    "music/music-suno-new-autotune-viral-artists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1450/7/1457204.jpeg",
+          "cap": "Kilo Kentのプロモーション画像"
+        },
+        {
+          "t": "p",
+          "x": "TikTokには覆面ラッパーKilo Kentの\"40's\"があふれ、コメント欄はAIだと確信している。SpotifyでKiloの最上位のおすすめアーティストに挙がるZemiは、AIアバターを前面に立てている。調べると、両者ともIsekai Recordsに所属していた。プロデューサーHavenのバイラルヒット\"I Run\"がSunoでJorja Smithをまねたとの疑惑が出た後に、彼と契約したレーベルだ。"
+        },
+        {
+          "t": "p",
+          "x": "インタビューで両者はSunoで歌声を加工していることを隠さないが、リバーブやオートチューンと同じだと主張する。「そう、声はAIだけど、それ以外は全部自分が作っている。ビートもトップラインもプロダクションも」とZemiは言う。「自分で歌って、Sunoに持っていって声を変え、それから自分でミックスする」"
+        },
+        {
+          "t": "p",
+          "x": "「AI-assistedの音楽はオーブンのようなものだと考えてほしい」とKiloは言う。「料理を準備し、野菜を刻み、塩をふり、すべて自分でやる。それはオーブンが作った料理じゃない」"
+        },
+        {
+          "t": "p",
+          "x": "UNSWの准教授Oliver Bownは、AI-assistedの音楽とAI-generatedの音楽の間に明確な線はなく連続体があるだけで、アーティストの顔を隠すことはペルソナを商品とみなす見方を招くと語る。Isekaiが記事の事前確認を求めたが、筆者は拒否した。"
+        }
+      ]
+    },
+    "music/google-synthid-public-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675",
+          "cap": "画像提供: Google"
+        },
+        {
+          "t": "p",
+          "x": "Googleは火曜日、画像、動画、音声クリップといったメディアがAIで生成されたものかどうかを、誰でも確認できる新しいサイトを公開した。"
+        },
+        {
+          "t": "p",
+          "x": "同社は昨年のGoogle I/Oで、一部のジャーナリストやメディア関係者、研究者にテスト用としてこのツールを提供しており、今回すべての人に開放する。"
+        },
+        {
+          "t": "p",
+          "x": "対応形式は、画像がJPG、JPEG、PNG、BMP、WEBP、AVIF、HEIC、HEIF、TIFF、TIF、GIF、動画がMP4、MOV、WEBM、音声がWAV、MP3、OGG、FLAC、AAC、M4Aである。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Raccoon_Video_SynthIDDetector.jpeg?w=680",
+          "cap": "画像提供: Google"
+        },
+        {
+          "t": "p",
+          "x": "Googleは2023年に導入したSynthIDを使い、メディアがAI生成(AI-generated)かどうかを判別している。同社のNano Banana、Veo、Lyriaの各モデルに加え、Gemini、Flow、ProducerAI、Vidsといった生成機能を持つツールも、生成したメディアすべてにSynthIDで透かしを入れている。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI、Nvidia、KakaoもSynthIDに対応しており、OpenAIはコンテンツ確認用の独自サイトも運営している。Appleも近く対応を加えるとされる。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはGeminiアプリとGoogle ChromeにSynthIDの検証機能を組み込んでいる。同社によると、現在毎日100万件のコンテンツ検証リクエストがあるという。"
+        },
+        {
+          "t": "p",
+          "x": "MicrosoftとMetaは、コンテンツの透かしと検証について独自の標準を持つ。ただしこうしたツールは万能ではなく、自社モデルが作ったコンテンツさえ識別できないことが多い。"
+        }
+      ]
     }
   }
 }

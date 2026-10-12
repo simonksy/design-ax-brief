@@ -6788,6 +6788,150 @@
           "x": "Junto con la plataforma, Thrixel presenta Build World, un flujo de trabajo agéntico en el que los creadores trabajan junto a un agente de código con IA que genera el contenido 3D necesario mientras escribe la lógica y el código subyacentes. Es compatible con Roblox, Three.js, Unity y Unreal Engine. Thrixel ha recaudado 3 millones de dólares en financiación inicial de Sierra Ventures, MFV Partners, Harper Court Ventures y Z5 Capital."
         }
       ]
+    },
+    "games/games-horii-claude-30min-game": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Yuji-Horii-AI-game-.jpg",
+          "cap": "Juego de IA de Yuji Horii"
+        },
+        {
+          "t": "p",
+          "x": "Yuji Horii, conocido sobre todo por la franquicia de RPG Dragon Quest, también es famoso en Japón por la aventura de misterio de 1983 The Portopia Serial Murder Case. No conforme con dejar los experimentos con IA solo a otros, Horii decidió \"desarrollar\" él mismo un sucesor espiritual usando Claude."
+        },
+        {
+          "t": "p",
+          "x": "El juego se llama Komiya in the Interrogation Room, una breve experiencia para navegador que transcurre por completo durante el interrogatorio de Komiya, el sospechoso de 72 años que da título al juego, por un posible robo de una caja fuerte. Como el sospechoso no deja de mentir, el jugador debe usar distintas líneas de interrogatorio para descubrir la verdad, mientras equilibra los medidores de Agitation y Resistance."
+        },
+        {
+          "t": "p",
+          "x": "Según la publicación de Horii en redes sociales, solo dedicó unos 30 minutos a crearlo con las herramientas de IA de Anthropic. \"Cuando hice The Portopia Serial Murder Case en PC, tenía que idear la historia, dibujar el arte, escribir el código y crearlo todo yo solo\", escribió Horii. \"Ahora, con la IA, aunque no sepas dibujar ni programar, puedes crear un juego tú solo con solo pedírselo a la IA. Es increíble\"."
+        },
+        {
+          "t": "p",
+          "x": "Horii trabaja actualmente en el guion de Dragon Quest XII, mientras que Portopia recibirá el próximo año un remake de G-Mode a cargo de desarrolladores y artistas."
+        }
+      ]
+    },
+    "games/games-square-enix-collective-vaultbreakers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://novacrystallis.com/wp-content/uploads/2026/10/VB_Splash_KeyArtDragonvault_4k_Logo-1024x576.jpg",
+          "cap": "Vaultbreakers"
+        },
+        {
+          "t": "p",
+          "x": "Square Enix ha revelado hoy que su alianza editorial con BetaDwarf, desarrollador de Vaultbreakers, formará parte del \"relanzamiento\" (re-launch) de Square Enix Collective, que coeditó juegos de estudios independientes como PowerWash Simulator, de FuturLab, y Little Goody Two Shoes, de AstralShift. Square Enix describe el nuevo Collective como \"una división global de Square Enix Ltd. que ofrece financiación, inversión y apoyo editorial a desarrolladores independientes\"."
+        },
+        {
+          "t": "p",
+          "x": "Vaultbreakers se describe como un \"Extraction RPG con vista cenital\" con modos PvE y PvP. Según su página de Steam, los desarrolladores usan IA generativa en el desarrollo, incluidos prototipos de recursos, grandes tareas de introducción de datos relacionadas con el diseño del juego, \"generar y revisar código\" y \"limpiar texto\". BetaDwarf también afirma que la IA generativa está \"acelerando la investigación\" y \"sugiriendo nombres y estadísticas de objetos\"."
+        },
+        {
+          "t": "img",
+          "src": "https://novacrystallis.com/wp-content/uploads/2026/10/image-5.png",
+          "cap": "Aviso de contenido generado por IA en la página de Steam de Vaultbreakers"
+        },
+        {
+          "t": "p",
+          "x": "Square Enix ya había usado IA generativa, por ejemplo en Foamstars (2024), cuyas portadas de álbumes dentro del juego se generaron con Midjourney, lo que provocó un fuerte rechazo de los jugadores. Vaultbreakers está anunciado para Steam y su demo está disponible desde hoy."
+        },
+        {
+          "t": "video",
+          "yt": "juORlA4AhaE"
+        }
+      ]
+    },
+    "games/games-flathub-ai-disclosure-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamingonlinux.com/uploads/tagline_gallery/flathub.jpg",
+          "cap": "Flathub"
+        },
+        {
+          "t": "p",
+          "x": "En mayo, GamingOnLinux informó de que Flathub había prácticamente prohibido la IA generativa en los envíos de apps y juegos, pero ahora ha dado marcha atrás en gran parte. Flathub es una de las formas más populares de instalar aplicaciones adicionales en Linux y la principal vía para instalar programas en el Desktop Mode de SteamOS."
+        },
+        {
+          "t": "p",
+          "x": "Ahora, en lugar de prohibir todo lo que haya usado IA generativa, el uso de IA debe declararse por completo si se emplea en cualquier parte de la aplicación o el juego enviado. Los revisores siguen pudiendo rechazar envíos a su criterio."
+        },
+        {
+          "t": "p",
+          "x": "Según la nueva política: \"Quienes envíen deben declarar cualquier código, documentación, empaquetado u otro material AI-generated que sepan o crean razonablemente que se incluye en la aplicación o en su empaquetado de Flathub\". Los manifiestos de Flathub no deben contener contenido AI-generated ni AI-assisted, y la IA usada solo para investigación, discusión o depuración no necesita declararse. Las herramientas o agentes de IA no deben abrir ni automatizar pull requests de envío a Flathub, y las infracciones reiteradas pueden suponer una expulsión permanente."
+        },
+        {
+          "t": "p",
+          "x": "Esto parece bastante más cercano a la política de IA que tiene Steam."
+        }
+      ]
+    },
+    "games/games-netmarble-nexus-kiro-adoption": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hace un año, en el equipo de desarrollo de Netmarble Nexus predominaba la idea de que 'es difícil que la IA analice código de juego complejo y genere código útil'. Para superarla, el equipo eligió como 'campeones' a profesionales que usarían activamente herramientas de programación con IA, y la dirección reconoció como trabajo sus actividades de aprendizaje y difusión. La primera implantación no fue en un juego en servicio, sino en un juego nuevo en desarrollo."
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/Picture2.png",
+          "cap": "Parte del material de formación que impartieron los propios campeones"
+        },
+        {
+          "t": "p",
+          "x": "La clave fueron los archivos Steering de Kiro. Estos documentos, que recogen las reglas y el contexto del proyecto, se compartieron con todo el equipo mediante control de versiones, y la mayoría de los desarrolladores que usaban Visual Studio pasaron de forma natural a Kiro IDE. Se configuró un hook para que, al terminar una tarea del agente, la IA anotara en el registro de sesión 'dónde se equivocó', y los más de 50 registros acumulados dieron lugar a cambios reales en las reglas."
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/Picture3-505x1024.png",
+          "cap": "Ejemplo de diagrama mermaid generado por IA"
+        },
+        {
+          "t": "p",
+          "x": "Cuando las reglas se estabilizaron, el equipo adoptó el método Spec, que consiste en acordar primero los documentos en el orden requisitos → diseño → tareas, y conectó mediante MCP la DB de desarrollo e incluso Excel para detectar problemas de coherencia de datos dentro de una misma conversación."
+        },
+        {
+          "t": "p",
+          "x": "También hubo límites. Aumentó la carga de revisión, la incorporación de pruebas unitarias se volvió prácticamente obligatoria y el desarrollo se aceleró tanto que parecía que la planificación no podía seguirle el ritmo. Aun así, la conclusión del equipo es que \"las herramientas de programación con IA no sustituyen a las personas, sino que les ayudan a centrarse en el trabajo más importante\"."
+        }
+      ]
+    },
+    "games/roblox-build-evaluation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
+        },
+        {
+          "t": "p",
+          "x": "Build, la nueva herramienta de creación de Roblox pensada primero para móviles, permite crear un juego a partir de instrucciones de texto y publicarlo mediante un sistema agéntico de extremo a extremo que coordina código, recursos visuales, sistemas de juego, UI y controles. Desde el lanzamiento alfa en Nueva Zelanda, más de 100.000 jugadores lo han probado, se han publicado unos 9.000 juegos de Build y el 71% de los creadores nunca había usado Roblox Studio."
+        },
+        {
+          "t": "p",
+          "x": "Su marco de evaluación combina cuatro señales puntuadas: la calidad de la especificación del juego, la calidad estática del juego (dividida en las perspectivas de ingeniería y de diseño), un agente de pruebas de juego que usa entradas similares a las de un jugador real y la calidad visual en las pantallas de los dispositivos."
+        },
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+          "cap": "Las señales de evaluación de creación de Build cubren todo el proceso de creación de un juego."
+        },
+        {
+          "t": "p",
+          "x": "Con una instrucción para un obby en 3D, Build creó Skyforge Ascent en unos ocho minutos: especificación 91, ingeniería 98, prueba de juego 100 y visuales 86, pero diseño solo 31, con cero en progresión, rejugabilidad y gancho."
+        },
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+          "cap": "Skyforge Ascent, juego creado por Build."
+        },
+        {
+          "t": "p",
+          "x": "Desde la alfa, la satisfacción de los creadores subió un 10%, las quejas de \"no es lo que quiero\" bajaron del 18% al 3%, y se publica alrededor del 14% de las sesiones con instrucciones y el 19% de las pruebas de juego."
+        }
+      ]
     }
   }
 }

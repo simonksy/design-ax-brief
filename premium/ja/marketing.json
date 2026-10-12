@@ -778,6 +778,135 @@
           "x": "HUMANはボットとエージェントの検知サービスを販売しており、数値は自社プラットフォームに由来し、独立した測定は引用されていない。"
         }
       ]
+    },
+    "marketing/marketing-google-ads-ai-goals-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはAIを使い、Google Adsキャンペーンの目標とアセットを提案する機能をテストしている。Googleはこれが現在実施中のテストだと認めた。"
+        },
+        {
+          "t": "p",
+          "x": "DimaはGoogle Adsの広告主コンソールのスクリーンショットを投稿した。画面には\"What's your goal for this campaign?\"(このキャンペーンの目標は?)とあり、\"Google AI will suggest goals and assets based on your input\"(入力内容に基づきGoogle AIが目標とアセットを提案します)とも書かれている。DimaはこのスクリーンショットをXに投稿した:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+        },
+        {
+          "t": "p",
+          "x": "大きな入力欄に目標を記述する。それを望まない場合は\"Create campaign manually\"(キャンペーンを手動で作成)のリンクをクリックすればよい。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleのAds LiaisonであるGinny MarvinはXでテストであることを認め、\"これは実験だ。この種のワークフローがどこで、どのように役立つか、広告主からのフィードバックを歓迎する\"と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "想像のとおり、GoogleはあらゆるところにAIを押し込んでいる。"
+        }
+      ]
+    },
+    "marketing/marketing-olyzon-ctv-four-dsps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+          "cap": "Olyzonのエージェントはバイヤーが設定した上限内で四つのDSPsにまたがりCTV予算を動かすが、発表に数値はない"
+        },
+        {
+          "t": "p",
+          "x": "パリを拠点とするOlyzonは2026年10月7日、Advertising Week New Yorkでエージェント型オーケストレーション・プラットフォームを本格的に商用リリースした。ソフトウェアエージェントがThe Trade Desk、Amazon DSP、DV360、Yahoo DSPにまたがって配信中のキャンペーン予算を計画、実行、再配分する。バイヤーはすでに持つシート、ツール、直接取引を手放す必要がない。"
+        },
+        {
+          "t": "p",
+          "x": "予算の上限と承認ルールは人が決め、エージェントはその範囲内で動く。Olyzonによれば「予算は配信中に成果の出ているところへ移り、バイヤーが管理する上限と承認しきい値の範囲内で、完全な監査ログとともに動く」。直接のインサーションオーダーについては、メールエージェントが変更案を下書きし、送信はバイヤーが担う。"
+        },
+        {
+          "t": "p",
+          "x": "共同創業者兼CEOのJules Minvielleは「断片化の痛みが最も大きいのがCTVなので、CTVから始める」と語り、「オーケストレーションはエージェントが担い、判断は人間が持ち続ける」と述べた。Method1によると、エージェントは現在、プラットフォーム横断の予算、入札、bundle IDの判断といった「Level 1 optimizations」を担っている。"
+        },
+        {
+          "t": "p",
+          "x": "リリースには成果の数値、プロトコル、価格、ブランド顧客の名前がなく、パートナーのリストもサブ見出し、本文、会社概要の間で食い違っている。"
+        }
+      ]
+    },
+    "marketing/marketing-thg-criteo-ai-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "THG Ingenuity傘下のTHG Commerceは、Google CloudのGemini Enterpriseで構築したAI Shopping AssistantにCriteo Sponsored Productsを統合した。THG Commerceは、Criteo Sponsored ProductsをAIによる対話型検索に導入した欧州初のコマーステクノロジー企業だとしている。"
+        },
+        {
+          "t": "p",
+          "x": "この統合により、同じ会話の中でスポンサー商品とオーガニックの商品レコメンドが並んで表示される。初期結果では、アシスタント経由で表示されたスポンサー商品のクリック率は平均の五倍を超え、コンバージョン率は平均の二倍を超えた。"
+        },
+        {
+          "t": "p",
+          "x": "アシスタントは会話ごとにキーワードとフィルターを抽出し、個々に合わせた商品レコメンドに変える。キーワードマッチング、意味理解、厳格な関連性しきい値を含むCriteoの関連性モデルが対話の文脈でも機能するため、スポンサー商品のレコメンドは明確にラベル付けされ、買い物客の求めに合う場合にのみ表示される。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+        },
+        {
+          "t": "p",
+          "x": "THG IngenuityのChief Revenue Officer、Darren Rajanahは「顧客は会話から買い物の旅を始める...。それは小売業者が得られる中でも最も購買意欲の高いトラフィックの一つであり、これまでは大半がリテールメディアの外にあった」と語った。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-idle-inference-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
+        },
+        {
+          "t": "p",
+          "x": "推論フリートは容量のパラドックスに直面している。全体では逼迫していても、局所的には意味のある規模の容量が遊休状態で残る。Metaはこうした断片を共有の機会的容量プールに集約し、追加の容量発注なしに、より良い広告推薦へと変えるシステムを構築した。"
+        },
+        {
+          "t": "p",
+          "x": "この容量はほとんど予告なく回収される可能性があるため、Metaは二つの弾力性レバーを使う。Rank More Ads(RMA)はランキング段階で評価する候補の数を調整する。Serve Better Models(SBM)はより強力なモデルに回すリクエストの割合を調整する。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "RMAにはCPUとアクセラレーターの両方の容量が必要だが、SBMはアクセラレーターのみの余剰も使える。物理的・論理的な分離でベースラインのサービングを守り、PIDコントローラーがテールレイテンシーから候補量を調整する。容量が回収されると、サーバーとクライアントでの価値を考慮した負荷制限がミリ秒単位で反応する。"
+        },
+        {
+          "t": "p",
+          "x": "Metaは今後、両レバーの拡張、事前計算の弾力性の開発、リージョン間推論の拡大、そしてAI推論容量を自動で割り当てる最適化ベースのシステムの構築を進める。"
+        }
+      ]
+    },
+    "marketing/meta-muse-ad-accounts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Metaは2026年9月29日、3週間前に公開した個人向けAIエージェントMuseを、米国とカナダの中小企業向け製品へと拡張した。Muse for Small Businessは、Facebook Pages、Instagramプロアカウントの分析、Meta広告アカウントに加え、Shopify、Intuit QuickBooks、Klaviyo、Stripe、Canvaなど15の外部ツールとのコネクタを備える。Metaは「あなたの承認なしに、何も公開、送信、支出しない」としている。"
+        },
+        {
+          "t": "p",
+          "x": "広告主にとって重要なのは広告アカウントに関するくだりだ。4月にClaudeとChatGPTに開放された広告MCPサーバーなど、これまでの連携では外部モデルをMetaのインターフェースに持ち込む必要があった。今回はモデル、エージェント、アプリ、広告アカウントのすべてがMetaのものだ。発表は、広告アカウントへのアクセスが読み取り専用なのか、予算や入札、クリエイティブを変更できるのか、またコネクタのデータがMetaの広告システムから切り離されるのかを明らかにしていない。"
+        },
+        {
+          "t": "p",
+          "x": "数値で示された成果はテスター1人のものだけだ。食料品店を営むTom Mulhollandは、Museで給与計算の作業が少なくとも15分短縮されたと話す。Museは大半の用途で無料で、サブスクリプションプランもあるが、Metaは価格を明らかにしていない。Metaの2026年Q2の売上高は608億ドルで、その97%超が広告によるものだった。"
+        }
+      ]
     }
   }
 }

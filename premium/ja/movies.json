@@ -6649,6 +6649,121 @@
           "x": "Ay Yapimは声明で「登場人物の顔からあらゆる舞台まで、映画のすべてのフレームをAIで生成した」と述べた。ただし「演技は人間によるものだ。俳優が場面を演じ、AIは彼らの動き、間合い、表情の上にキャラクターを生成した。台詞はすべて人間の声優が収録した」という。"
         }
       ]
+    },
+    "movies/movies-banderas-cortes-utopai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2182672949-e1774570677557.jpg?w=1000&h=563&crop=1",
+          "cap": "Antonio Banderas"
+        },
+        {
+          "t": "p",
+          "x": "AIスタジオを支持する最新の著名人は? Antonio Banderasだ。Oscar-nominatedの俳優である彼は、Utopai Studiosの新作長編“Cortés”でHernán Cortésを演じる。監督はPaul Mignot(“Vaincre ou mourir”)、脚本はOscar候補のNicholas Kazan(“Reversal of Fortune”)である。本作はParisで製作中で、1519年にYucatánへの遠征を率いる栄光に飢えた兵士Cortésを描く。"
+        },
+        {
+          "t": "p",
+          "x": "本作はUtopaiとEx Machina Studiosの共同製作だ。Ex Machina Studiosは「倫理的でアーティスト優先の人工知能の統合を通じて、エピソード作品と長編映画を前進させる」ことを掲げる新会社である。両社が共同出資し、販売はUtopaiがU.S.、Canada、Asia、Middle East、Africaを、Ex MachinaがEuropeの大半とLatin America、Australia、New Zealandを担う。"
+        },
+        {
+          "t": "p",
+          "x": "「Cortésこそ、私たちがUtopai Studiosを立ち上げた理由だ」と共同創業者兼CEOのCecilia Shenは述べた。業界がこの技術をめぐって割れたままの中、BanderasはAI-focusedの企業と組んだ最新のHollywoodのベテランとなった。完全にAI-generatedの作品とAI-enabledの作品からなるUtopaiのラインナップには、“The Most Serious Fart”のAI-assistedアニメ化と、Huaceと組む完全AI-generatedの“Journey to the West: The Lost Five Hundred Years”が含まれる。"
+        }
+      ]
+    },
+    "movies/movies-kling-busan-trained-crew-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Kling-AI-panel-.jpg?w=1024",
+          "cap": "Busan・ACFMのKling AIパネル"
+        },
+        {
+          "t": "p",
+          "x": "韓国のKim Sung-soo監督(Asura: The City Of Madness、12.12: The Day)は、BusanのAsian Contents & Film Market(ACFM)のパネルで、KafkaのMetamorphosisに着想を得た短編Worm TrainをKling AIのツールで制作した経験を語った。「当初はAIが業界を壊すと思っていたが、今はもうそう思わない。テクノロジーは創造性に取って代わらないからだ」とKimは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "韓国MooAm Coの監督兼CEO、Harry Hyunは「現場に経験豊富な映画人がいなければ、すべてが似たようなものになりかねない…専門家と組んでこそ、AIで型にはまった成果物ではない、違うものを生み出せる」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Kling AIのツールで長編アニメーションBorn Of The Tideを制作中のLi Weiは、AIの結果をすぐに確認できるため、スタッフのフィードバックが容易になると述べた。MBC C&IのLee Sang-wookは、実写とAI-generatedのキャラクターを組み合わせたRendering Loveのティーザーを披露し、高品質なコンテンツを得るには全スタッフが技術を十分に理解する必要があると語った。"
+        },
+        {
+          "t": "p",
+          "x": "業界標準についてKimは、韓国ではまだ時期尚早だとしつつ、映画人は誰かの権利を侵害していないかを意識すべきだと述べた。"
+        }
+      ]
+    },
+    "movies/movies-curious-refuge-credit-savings": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "h4MKJAJvins"
+        },
+        {
+          "t": "p",
+          "x": "AI Filmの生成でクレジットを節約する、私のお気に入りの裏技のひとつだ。今は全面的にコミットする必要はない。いくつかのワークフローやプロセスを整えておけば、出来の悪い生成に大金を無駄にせずに済む。"
+        },
+        {
+          "t": "p",
+          "x": "詳しい解説はCurious Refugeのブログにある: https://curiousrefuge.com/blog/how-to-save-money-on-ai-generations"
+        }
+      ]
+    },
+    "movies/movies-visko-google-cloud-ai-worlds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081522-visko-google-cloud-live-models-landscape-1280.jpg?itok=w4XccKHY",
+          "cap": "Visko × Google Cloud Live Models Fireside Chat"
+        },
+        {
+          "t": "p",
+          "x": "ViskoとGoogle Cloudは、October 14(Wednesday)の夜にLos Angelesで対談イベント\"Live Models Fireside Chat\"を開催する。リアルタイムで動くAI-generatedの世界と、それを動かすのに必要なコンピューティング基盤がテーマだ。"
+        },
+        {
+          "t": "p",
+          "x": "ViskoはAI研究企業で、Orbisの開発元だ。Orbisは探索に合わせてインタラクティブな環境を生成・ストリーミングする基盤モデルで、永続的なメモリ、インタラクティブ性、物理に基づく生成を組み合わせている。同社はこうしたreal-timeシステムをLive Modelsと呼ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "アニメーション、VFX、ゲームのアーティストに向け、この夜の焦点はワールドビルディングとインタラクティブなストーリーテリングにある。ユーザーの入力に反応しつつ瞬間ごとの連続性を保つ環境と、それがプリビズ、バーチャルプロダクション、ゲーム開発にもたらしうる意味を探る。"
+        },
+        {
+          "t": "p",
+          "x": "Visko CEOのWill Yinが、Live Modelsが従来のAIシステムとどう違うかを説明し、Orbisを紹介する。続いてGoogle CloudでAI担当デベロッパーアドボカシー責任者を務めるDave Elliottが、Googleのスタートアップチームとともに、Tensor Processing Units(TPUs)について発表し、real-timeモデルが大規模かつ継続的に必要とする推論にTPUsが適している理由を語る。"
+        },
+        {
+          "t": "p",
+          "x": "開催時間はPacific時間の6:30から9 p.m.まで。参加には登録が必要で、主催者の承認を要する。"
+        }
+      ]
+    },
+    "movies/luma-claude-motion-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude MotionのアニメーションがLumaで開けるようになった。クリエイターは動きのあるアイデアを、Lumaであらゆる形式の動画に仕上げられる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "SAN FRANCISCO, Calif. — Lumaは本日、Claude MotionのアニメーションをLumaで直接開けるようになったと発表した。クリエイターはそれを拡張し、磨き上げ、あらゆるアセット出力に合わせて再構成できる。Claudeで作ったアニメーション解説をMCP接続でLumaに取り込み、エージェントに望みを伝えるだけで、どんな形式にも作り直せる。Claude Motionはテキスト、チャート、図形、画像を動かすコードを書いてアイデアに動きを与え、Lumaはその動きを最終的な動画に仕上げる。"
+        },
+        {
+          "t": "p",
+          "x": "Claude Motionは現在Claude TeamとEnterpriseプランでベータ提供されており、動きを加えることでアイデアをよりわかりやすく伝える手助けをする。Claudeはプロンプトからアニメーションを作り、それは短い動画のように再生される。Anthropicの発表は、どの顧客もClaude MotionをLumaで開き、ルックやショット、あらゆる画面で再生できる拡張版を作ることで、さらに先へ進められると強調した。LumaはRayとUniの動画生成モデルをClaude Motionのアニメーションに適用し、クリエイターが最終的な動画ファイルを届けられるよう支える。"
+        },
+        {
+          "t": "p",
+          "x": "併用の手順はこうだ。Claude Motionでプロンプトをアニメーション解説にし、ClaudeにLumaコネクタを追加すると、アニメーションが動画としてLumaに表示される。Luma内では動きを保ったままルックを変えたり、9:16、1:1、4:3、21:9に再フレーミングしたり、Lumaエージェントに追加バージョンを作らせたりできる。"
+        }
+      ]
     }
   }
 }

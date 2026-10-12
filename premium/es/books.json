@@ -6035,6 +6035,121 @@
           "x": "En Bloomsbury se han creado varios puestos relacionados con la IA y nadie ha perdido su empleo por la IA. Newton consulta ChatGPT, Gemini o Claude “20 veces al día”. Arbuthnot prevé puestos híbridos, como especialistas en marketing de metadatos; Collier señaló el pensamiento crítico, la resolución de problemas y el espíritu emprendedor como habilidades clave. Newton apuntó que los libros electrónicos se estancaron en torno al 25%–30% de las ventas, y no en el 50% que él llegó a pronosticar."
         }
       ]
+    },
+    "books/books-revoy-pepper-carrot-no-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+        },
+        {
+          "t": "p",
+          "x": "David Revoy, el artista detrás del webcómic de código abierto Pepper&Carrot, prohibió las obras derivadas generadas por IA (AI-generated) a partir de su trabajo en una actualización de licencia publicada el 8 de octubre. La declaración prohíbe historias, lore, fan-fiction, guiones, cómics y representaciones de imagen en los que la IA generó o sustituyó de forma sustancial el desarrollo de ideas, el proceso creativo o la representación visual. Se suma a las licencias CC BY (Pepper&Carrot) y CC BY-SA (MiniFantasyTheater) que usa desde hace más de una década."
+        },
+        {
+          "t": "p",
+          "x": "El detonante fue su bandeja de entrada: estudios, editoriales, desarrolladores de videojuegos y artistas de cómic con IA autodidactas le piden permiso para crear derivados de su arte con IA, más de tres solicitudes al día esta semana. Revoy dijo que esperó a que Creative Commons añadiera una opción específica para IA (AI-specific), no vio señales de ello y redactó la cláusula él mismo. Como artista europeo amparado por los derechos morales, afirma que la entrada del blog sirve como la afirmación requerida de esos derechos."
+        },
+        {
+          "t": "p",
+          "x": "Tolerará el software que aceptó contribuciones de IA, como Linux, y las herramientas de IA de gramática, corrección y traducción que corrigen textos escritos por personas. La traducción asistida por IA (AI-assisted) y la traducción automática de sus cómics siguen vetadas; Pepper&Carrot cuenta con cientos de traductores humanos que trabajan en 69 idiomas."
+        }
+      ]
+    },
+    "books/books-road-to-the-end-ai-prompt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+        },
+        {
+          "t": "p",
+          "x": "Los lectores compartieron una escena absurda del libro impreso “The Road to the End”: en el texto apareció de pronto una frase que preguntaba “¿Necesitas que ajuste algunas frases para que el estilo general encaje mejor con la atmósfera de suspense y lo sobrenatural?”, con el tono inconfundible de un asistente de IA. En la versión en línea, la posición correspondiente del capítulo 80 no contiene esa línea."
+        },
+        {
+          "t": "p",
+          "x": "Tianjin Zhiyu Shiguang Cultural Media Co., Ltd., la empresa detrás del libro, pidió disculpas y dijo que el contenido no estaba en el manuscrito: durante el proceso de reducción del texto, el equipo incluyó por error las indicaciones del software de corrección como parte del texto principal. Jiangsu Phoenix Literature and Art Press señaló que la responsabilidad se diluyó en los traspasos entre edición y corrección y que el problema no era del autor. En cuanto a los libros ya publicados, la editorial retirará y destruirá todos los ejemplares y los volverá a editar."
+        },
+        {
+          "t": "p",
+          "x": "AIBase lo considera una advertencia para la participación de la IA en la edición: a medida que la corrección inteligente entra en el flujo de trabajo, la última línea de revisión manual cobra más importancia."
+        }
+      ]
+    },
+    "books/books-hivemind-webnovel-ai-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
+          "cap": "Sitio web oficial de Hivemind / Fuente: Hivemind"
+        },
+        {
+          "t": "p",
+          "x": "Las novelas web enfrentan barreras más altas que los contenidos audiovisuales para salir al exterior. Traducir a un idioma extranjero una obra larga de cientos de episodios cuesta más de 10 millones de wones (1000만 원) incluso con tarifas bajas, y no hay garantía de recuperar la inversión. Hivemind, una startup que desarrolla la plataforma global de publicación de contenidos 'Aurorah', busca reducir esta barrera mediante la colaboración entre la AI generativa y traductores humanos."
+        },
+        {
+          "t": "p",
+          "x": "El escritor Lee Yung-hee afirmó: \"Con 200 episodios, aunque se calculen solo 10 wones (10원) por carácter, el costo es de al menos 10 millones de wones\". Lim Heo-kyu, presidente de la Asociación Coreana de Escritores de Historias Creativas, señaló que \"la traducción por AI es un avance bienvenido para la expansión de la IP\", pero añadió que es imprescindible sistematizar el proceso de MTPE (posedición de traducción automática), en el que expertos humanos revisan los borradores de la AI."
+        },
+        {
+          "t": "p",
+          "x": "El proceso de localización de Aurorah sigue este orden: traducción preliminar por AI, revisión de expertos, revisión por AI y revisión final humana. Hivemind participa este año en un proyecto de R&D en tecnología de traducción del Ministerio de Cultura, Deportes y Turismo."
+        },
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
+          "cap": "Kim Dong-wook, director ejecutivo de Hivemind / Fuente: IT Donga"
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo Kim Dong-wook subrayó: \"El cambio más importante es permitir comercializar de forma continua, y verificar su viabilidad en varios idiomas y mercados, obras que antes no se podían intentar por la barrera de los costos\"."
+        }
+      ]
+    },
+    "books/books-yuriten-10th-anniversary-ai-cancel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
+          "cap": "Imagen de la publicación eliminada de Yuriten en X/Twitter"
+        },
+        {
+          "t": "p",
+          "x": "Los organizadores de la exposición Yuriten (Yuri Fair) cancelaron el primero de los eventos previstos por el 10.º aniversario de Yuriten, la gratuita “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”, programada para el 17 y el 18 de octubre en Tokio, después de que autores de manga yuri criticaran el uso de imágenes generadas por IA (AI-generated) en el material promocional del evento."
+        },
+        {
+          "t": "p",
+          "x": "Los organizadores habían reconocido el uso de IA generativa en el visual del anuncio, la decoración del evento y algunas otras promociones. Nio Nakatani, creadora de Bloom Into You, lo calificó de desconcertante y decepcionante; Yukiko y Yayoi Osawa también lo criticaron."
+        },
+        {
+          "t": "p",
+          "x": "Lilium, la empresa detrás de Yuriten, pidió disculpas, explicó que había contratado a otra empresa para gestionar y promocionar el evento y reconoció fallos en su propia verificación. Prometió reforzar la supervisión de los contratistas externos y afirmó que no usará IA generativa en futuras exposiciones de Yuriten."
+        }
+      ]
+    },
+    "books/rosenbaum-future-of-truth-hallucinated-quotes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://fortune.com/img-assets/wp-content/uploads/2026/10/ec0c3e20-f0e2-4a21-80d5-aaa5a20910d1_3f9497.jpg?resize=1200,600"
+        },
+        {
+          "t": "p",
+          "x": "El 17 de mayo de 2026, cinco días después de la publicación de The Future of Truth: How AI Reshapes Reality, el periodista del New York Times Ben Mullin llamó a Steven Rosenbaum para preguntarle por una cita atribuida a un investigador anónimo de DARPA. Dos días después, el Times lo publicó en portada: el libro contenía citas inventadas por AI. Se cancelaron eventos y se descartó un podcast ya grabado."
+        },
+        {
+          "t": "p",
+          "x": "Rosenbaum afirma que la AI no escribió el libro; había declarado que la usó para organizar la investigación, resumir documentos y pulir el lenguaje. El libro pasó por cinco rondas de edición y más de 4,000 cambios registrados, pero la AI \"corrigió\" algunas citas, y los errores que se leían con naturalidad sobrevivieron. Una cita atribuida a Kara Swisher era algo que ella nunca dijo. \"Debí haberlos detectado. Era mi responsabilidad y la asumo.\""
+        },
+        {
+          "t": "p",
+          "x": "Su editorial, BenBella Books, encargó a dos verificadores humanos revisar el manuscrito línea por línea. Encontraron 26 citas que no se sostenían; cada una se rastreó hasta una fuente primaria y se corrigió, se parafraseó o se eliminó. The Future of Truth: Truth 2.0 Revised se publica el 6 de octubre con un Author's Note y un nuevo capítulo, \"Hallucinations and Repercussions\"."
+        },
+        {
+          "t": "p",
+          "x": "Se niega a abandonar la AI: \"Usen las herramientas. Mantengan el juicio humano en el proceso. Declaren. Verifiquen. Corrijan los errores públicamente.\""
+        }
+      ]
     }
   }
 }

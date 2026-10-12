@@ -6661,6 +6661,150 @@
           "x": "除平台外，Thrixel还推出了Build World。这是一种智能体工作流：创作者与AI编程智能体协同工作，后者生成所需的3D内容，同时编写底层逻辑和代码。它支持Roblox、Three.js、Unity和Unreal Engine。Thrixel已从Sierra Ventures、MFV Partners、Harper Court Ventures和Z5 Capital获得$3 million（3百万美元）的初创期融资。"
         }
       ]
+    },
+    "games/games-horii-claude-30min-game": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Yuji-Horii-AI-game-.jpg",
+          "cap": "堀井雄二的AI游戏"
+        },
+        {
+          "t": "p",
+          "x": "堀井雄二（Yuji Horii）最为人熟知的是Dragon Quest RPG系列，在日本，他也以1983年的谋杀推理冒险游戏The Portopia Serial Murder Case闻名。不满足于把AI实验只留给别人，堀井亲自尝试用Claude“开发”这部作品的精神续作。"
+        },
+        {
+          "t": "p",
+          "x": "这款游戏名为Komiya in the Interrogation Room，是一款简短的浏览器游戏，全程围绕审讯涉嫌盗窃保险箱的72岁嫌疑人Komiya展开。由于嫌疑人不断撒谎，玩家必须在平衡Agitation（激动）与Resistance（抗拒）计量条的同时，用各种提问方式查明真相。"
+        },
+        {
+          "t": "p",
+          "x": "根据堀井在社交媒体上的帖子，他只用了约30分钟就借助Anthropic的AI工具完成了制作。“当年我在PC上制作The Portopia Serial Murder Case时，必须自己构思故事、绘制美术、编写代码，一切都要独自完成，”堀井写道，“现在有了AI，即使不会画画、不会编程，只要请AI代劳，就能独自做出一款游戏。这太不可思议了。”"
+        },
+        {
+          "t": "p",
+          "x": "堀井目前正在为Dragon Quest XII撰写剧本，而Portopia预计明年将由G-Mode推出由开发者和美术人员主导的重制版。"
+        }
+      ]
+    },
+    "games/games-square-enix-collective-vaultbreakers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://novacrystallis.com/wp-content/uploads/2026/10/VB_Splash_KeyArtDragonvault_4k_Logo-1024x576.jpg",
+          "cap": "Vaultbreakers"
+        },
+        {
+          "t": "p",
+          "x": "Square Enix今天宣布，与Vaultbreakers开发商BetaDwarf的发行合作将成为Square Enix Collective业务“重启”（re-launch）的一部分。Collective曾与独立工作室联合发行游戏，例如FuturLab的PowerWash Simulator和AstralShift的Little Goody Two Shoes。Square Enix将重建后的Collective描述为“Square Enix Ltd.的全球部门，为独立开发者提供资金、投资和发行支持”。"
+        },
+        {
+          "t": "p",
+          "x": "Vaultbreakers被描述为一款拥有PvE和PvP模式的“俯视角Extraction RPG”。据其Steam页面介绍，开发者在开发中使用了生成式AI，包括资产原型、与游戏设计相关的大量数据录入工作、“生成和审查代码”以及“整理文本”。BetaDwarf还表示，生成式AI正在“加快研究速度”并“建议道具名称和属性”。"
+        },
+        {
+          "t": "img",
+          "src": "https://novacrystallis.com/wp-content/uploads/2026/10/image-5.png",
+          "cap": "Vaultbreakers Steam页面上的AI生成内容披露"
+        },
+        {
+          "t": "p",
+          "x": "Square Enix此前也使用过生成式AI，例如2024年的Foamstars，其游戏内专辑封面由Midjourney生成，引发了玩家的强烈反对。Vaultbreakers已宣布登陆Steam，试玩版今天推出。"
+        },
+        {
+          "t": "video",
+          "yt": "juORlA4AhaE"
+        }
+      ]
+    },
+    "games/games-flathub-ai-disclosure-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamingonlinux.com/uploads/tagline_gallery/flathub.jpg",
+          "cap": "Flathub"
+        },
+        {
+          "t": "p",
+          "x": "早在5月，GamingOnLinux曾报道Flathub对应用/游戏提交几乎全面禁止生成式AI，但如今Flathub已基本撤回这一做法。Flathub是在Linux上安装额外应用最受欢迎的途径之一，也是在SteamOS的Desktop Mode下安装软件的主要方式。"
+        },
+        {
+          "t": "p",
+          "x": "现在，Flathub不再禁止任何使用生成式AI的内容，而是要求只要提交的应用/游戏中用到了AI，就必须完整披露。审核人员仍可自行决定拒绝提交。"
+        },
+        {
+          "t": "p",
+          "x": "新政策写道：“提交者必须披露其知道或有理由认为包含在应用或其Flathub打包中的任何AI-generated代码、文档、打包内容或其他材料。”Flathub清单文件不得包含AI-generated或AI-assisted内容，仅用于研究、讨论或调试的AI则无需披露。AI工具或代理不得发起或自动化Flathub提交的拉取请求，屡次违规可能导致永久封禁。"
+        },
+        {
+          "t": "p",
+          "x": "这似乎与Steam的AI政策相当接近了。"
+        }
+      ]
+    },
+    "games/games-netmarble-nexus-kiro-adoption": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一年前，Netmarble Nexus开发团队普遍认为“让AI分析复杂的游戏代码并写出可用的代码很难”。为突破这一点，开发团队选出积极使用AI编程工具的一线开发者担任“冠军”，管理层则把他们的学习和分享活动认定为正式工作。首次引入的对象不是线上运营中的游戏，而是一款正在开发的新游戏。"
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/Picture2.png",
+          "cap": "冠军亲自主讲的培训资料节选"
+        },
+        {
+          "t": "p",
+          "x": "关键在于Kiro的Steering文件。这份记录项目规则和背景知识的文档通过版本管理在全团队共享，原本使用Visual Studio的大多数开发者也自然转向了Kiro IDE。团队设置了一个钩子，让AI在智能体任务结束时把“哪里出了错”写进会话日志，累积的50多份日志带来了实际的规则修改。"
+        },
+        {
+          "t": "img",
+          "src": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/06/Picture3-505x1024.png",
+          "cap": "AI生成的mermaid图示例"
+        },
+        {
+          "t": "p",
+          "x": "规则稳定后，团队引入了按需求→设计→任务顺序先就文档达成共识的Spec方式，并通过MCP连接开发DB乃至Excel，在一次对话中找出了数据一致性问题。"
+        },
+        {
+          "t": "p",
+          "x": "局限也存在。评审负担加重，引入单元测试几乎成为必需，开发速度加快到让人感觉策划跟不上。尽管如此，团队的结论是：“AI编程工具不是取代人，而是帮助人专注于更重要工作的工具。”"
+        }
+      ]
+    },
+    "games/roblox-build-evaluation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/a16521ca-d464-4c9a-a704-94bc4a916510.png"
+        },
+        {
+          "t": "p",
+          "x": "Build是Roblox新推出的移动优先创作工具，借助协调代码、视觉素材、玩法系统、UI与操控的端到端智能体系统，用户只需输入文字提示即可创建并发布游戏。自在新西兰开启alpha测试以来，已有超过10万名玩家试用，约9,000款Build游戏发布，71%的创作者此前从未用过Roblox Studio。"
+        },
+        {
+          "t": "p",
+          "x": "其评估框架综合四项评分信号：游戏规格质量、静态游戏质量（分为工程与设计两个视角）、使用类真人输入的试玩智能体，以及设备视口上的视觉质量。"
+        },
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/e31bc753-96bc-4976-9b74-f6d437e9280c.png",
+          "cap": "Build创作评估信号覆盖游戏创作全流程。"
+        },
+        {
+          "t": "p",
+          "x": "在一个3D跑酷（obby）提示下，Build用约8分钟做出了Skyforge Ascent：规格91分、工程98分、试玩100分、视觉86分，但设计仅31分，进程、重玩性和吸引力三项均为零分。"
+        },
+        {
+          "t": "img",
+          "src": "https://cms-media.roblox.com/assets/df3a78e0-7532-4070-b17c-9fdef75f1638.png",
+          "cap": "Build创作的游戏Skyforge Ascent。"
+        },
+        {
+          "t": "p",
+          "x": "alpha测试以来，创作者满意度提升10%，“不是我想要的”投诉从18%降至3%，约14%的提示会话和19%的试玩最终得以发布。"
+        }
+      ]
     }
   }
 }

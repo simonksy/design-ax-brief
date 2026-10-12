@@ -7481,6 +7481,167 @@
           "x": "La respuesta de Bhowmick es no: usar usuarios sintéticos solo para ampliar la escala de la investigación de UX con personas ya realizada, nunca como única fuente para decisiones clave de producto."
         }
       ]
+    },
+    "design/design-figma-wp-blueprint-claude-code": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+        },
+        {
+          "t": "p",
+          "x": "Creé figma-wp-blueprint, un conjunto de skills de Claude Code para convertir un diseño de Figma en un tema personalizado de WordPress."
+        },
+        {
+          "t": "p",
+          "x": "Pega una URL de Figma y la herramienta:"
+        },
+        {
+          "t": "p",
+          "x": "• extrae colores, fuentes, espaciados y breakpoints"
+        },
+        {
+          "t": "p",
+          "x": "• construye cada sección como un layout de ACF Flexible Content (campos, plantilla PHP, CSS con ámbito)"
+        },
+        {
+          "t": "p",
+          "x": "• mide el resultado frente a Figma en cada breakpoint con /pixel-check"
+        },
+        {
+          "t": "p",
+          "x": "• trabaja una funcionalidad a la vez, en su propia rama de Git, y pide tu aprobación antes de hacer commit"
+        },
+        {
+          "t": "p",
+          "x": "El resultado es un tema PHP clásico con CSS puro y vanilla JS: sin page builder, sin jQuery, sin paso de compilación."
+        },
+        {
+          "t": "p",
+          "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — ¡Se agradecen comentarios!"
+        }
+      ]
+    },
+    "design/design-ai-clients-pixel-pushers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Emily Foran, directora creativa, diseñadora gráfica y presidenta de AIGA Maine, lleva un año sin que sus clientes le pidan una idea original desde el principio. “Tengo clientes, nuevos y de siempre, que me mandan basura que le pidieron maquetar a Claude o ChatGPT y luego me piden que la limpie o que trabaje directamente con ella”, dice. Se siente más una “empujadora de píxeles” que una creativa."
+        },
+        {
+          "t": "p",
+          "x": "Es una de los más de una docena de diseñadores gráficos entrevistados por Fast Company que afirman que la AI generativa ha cambiado por completo su relación con jefes, clientes y trabajo en los últimos 18 meses. Los clientes han pedido tarifas más bajas, algunos diseñadores han sido despedidos con el argumento de que la AI los reemplazaría y otros reciben indicaciones que se reducen a “Pregúntale a ChatGPT”."
+        },
+        {
+          "t": "p",
+          "x": "Los diseñadores dicen que las imágenes AI-rendered implican más trabajo al final del proceso. “Lo que antes me llevaba una hora puede llevarme ahora tres horas”, dice un diseñador de Boston. Michele Kasl, de Premier Designs, cuenta que los clientes ahora esperan plazos más cortos: “Francamente, hemos perdido negocio por eso”. Robert Lodi, de Rock Pixel Scissors, ha añadido una fase de rediseño para las maquetas AI-built: “Todavía no he visto ninguna que vaya a pasar una prueba de accesibilidad”."
+        },
+        {
+          "t": "p",
+          "x": "Al diseñador de marketing Erik le dijeron que “simplemente le preguntara a ChatGPT” y acabó perdiendo su empleo tras chocar por el uso de la AI; el equipo de Alan Peters fue despedido en favor de un servicio de AI en línea. Foran dice que los diseñadores jóvenes están dejando el sector porque “no ha habido oportunidades”."
+        }
+      ]
+    },
+    "design/design-accessibility-agent-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+          "cap": "Dos lectores, una página. El agente nunca ve la superficie que diseñaste; lee la estructura que hay debajo."
+        },
+        {
+          "t": "p",
+          "x": "Tu sitio web tiene un nuevo tipo de visitante. Lee un modelo simplificado de la página llamado árbol de accesibilidad, la misma estructura que los navegadores llevan dos décadas construyendo para los lectores de pantalla. A principios de junio de 2026, Cloudflare informó de que el tráfico automatizado había superado por primera vez al humano en la web, con aproximadamente un 57 por ciento de las solicitudes de página frente a un 43 por ciento."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+          "cap": "Los proveedores difieren en por dónde empiezan."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes pueden leer una captura de pantalla, el HTML sin procesar o el árbol de accesibilidad. La herramienta read_page de Claude in Chrome toma primero el árbol de accesibilidad; Playwright MCP, de Microsoft, trabaja a partir de instantáneas estructuradas de accesibilidad; OpenAI indica a los responsables de sitios que Atlas usa etiquetas ARIA para interpretar la estructura de la página."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+          "cap": "Estudio A11y-CUA presentado en CHI 2026"
+        },
+        {
+          "t": "p",
+          "x": "En el estudio A11y-CUA, Claude Sonnet 4.5 completó alrededor del 78 por ciento de 60 tareas cotidianas con acceso normal, el 42 por ciento solo con teclado y el 28 por ciento con una ventana ampliada. Si un usuario de teclado no puede terminar la tarea, normalmente el agente tampoco."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+          "cap": "The WebAIM Million"
+        },
+        {
+          "t": "p",
+          "x": "WebAIM detectó fallos de WCAG en el 95.9 por ciento del millón de páginas de inicio principales, frente al 94.8 por ciento anterior, y señala la programación AI-assisted como probable causa. La solución pasa por HTML nativo, encabezados y landmarks lógicos, controles con nombre, texto alternativo, campos etiquetados y estados anunciados, empezando por los flujos en los que un agente tiene que actuar."
+        }
+      ]
+    },
+    "design/design-iris-3b-pixel-space": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Iris 3B es un modelo de generación de imágenes de 3 mil millones de parámetros de Spirit Labs que pinta las imágenes directamente en el espacio de píxeles, sin el paso del autoencoder variacional (VAE) y del espacio latente del que dependen casi todos los generadores de imágenes modernos, incluidos Flux y Qwen Image."
+        },
+        {
+          "t": "p",
+          "x": "Codifica el prompt de texto con un codificador Qwen3-VL 4B congelado y un pequeño adaptador de texto, y luego corta la imagen con ruido directamente en parches de 16x16 píxeles. El tronco tiene ocho bloques de “doble flujo” seguidos de dieciséis bloques de “flujo único”, y cuatro bloques más pequeños convierten cada parche de nuevo en valores de píxel en bruto."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque parece dar resultado en detalles finos como tramas tejidas, textura de la piel y pelos sueltos de la barba. La contrapartida es la velocidad: según se informa, generar cada imagen lleva entre uno y tres minutos. El consumo de VRAM se queda por debajo de 28 gigabytes, comparable al de Flux y Qwen Image."
+        },
+        {
+          "t": "p",
+          "x": "El mismo modelo, con otro ajuste fino, se encarga de la estimación de profundidad y del escalado de imágenes. Se queda corto en la especificidad cultural y étnica de las personas: un prompt de un anciano aborigen australiano produjo un rostro que no parecía aborigen australiano, y un prompt de knafeh produjo algo más parecido a baklava."
+        }
+      ]
+    },
+    "design/odyssey-3-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Odyssey, empresa de AI California-based, ha lanzado una vista previa pública de investigación de su modelo de mundo Odyssey-3. Los usuarios pueden generar entornos interactivos a partir de prompts de texto y explorarlos en tiempo real; los desarrolladores pueden solicitar acceso a la API."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+        },
+        {
+          "t": "p",
+          "x": "La demo gratuita en línea funciona con Odyssey-3 Flash. Los usuarios eligen una vista en primera o tercera persona, se mueven por el mundo, desencadenan eventos y observan cómo responde el modelo. Se basa en un transformer de difusión autorregresivo entrenado con video de internet, imágenes de juegos emparejadas con entradas de teclado y ratón, y física simulada. El modelo base tiene 14 mil millones de parámetros y genera video de 832 × 480; Odyssey-3 Pro admite 1280 × 720."
+        },
+        {
+          "t": "p",
+          "x": "El 66.1 de Odyssey-3 Pro en Physics-IQ Verified proviene de una sola ejecución que eligió uno de ocho videos por tarea; sin esa selección, promedió 63.37 en cuatro ejecuciones."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+          "cap": "Captura de pantalla vía Odyssey"
+        },
+        {
+          "t": "p",
+          "x": "Odyssey quiere que el mismo modelo controle brazos robóticos, drones y personajes de videojuegos, y lo mostró jugando a GTA V. Fundada en 2023 por Oliver Cameron y Jeff Hawke, recaudó 310 millones de dólares en junio de 2026."
+        }
+      ]
     }
   }
 }

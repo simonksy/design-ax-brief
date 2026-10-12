@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "medicine",
   "cards": [
     {
-      "id": "jama-aya-cancer-risk-chatbot-rct",
+      "id": "medicine-wechat-gpt4o-respiratory-triage",
       "source_lang": "en",
-      "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "유전성 암 위험 챗봇,\n임상시험으로 검증",
-      "body": "챗봇을 쓴 젊은 층 78%가 30세까지의 암 위험을 알았고 대조군은 37%였다.",
-      "mini_headline": "유전성 암 위험을 알려주는 챗봇",
-      "source": "JAMA Network Open",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.35794",
+      "headline": "WeChat GPT-4o\n일반인 분류 정확도 높여",
+      "body": "2,400명 무작위 연구에서 GPT-4o 챗봇이 일반인 호흡기 진단·분류를 도왔다.",
+      "mini_headline": "WeChat 챗봇이 분류를 돕다",
+      "tool": "Medicine",
+      "source": "Nature Health",
+      "url": "https://www.nature.com/articles/s44360-026-00189-9",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,149 +19,209 @@
         "blocks": [
           {
             "t": "p",
-            "x": "유전성 암 소인을 지닌 청소년·청년(AYAs)은 평생 암 위험이 높은데도 그 위험을 이해하도록 돕는 모델은 없었다. 이번 무작위 임상시험은 2022년 12월부터 2025년 5월까지 Dana-Farber, Emory/Children’s Healthcare of Atlanta, University of Chicago, Utah’s Huntsman Cancer Institute에서 챗봇 기반 전자 암 위험 소통 도구 AYA Risk Information and Screening Education을 시험했다."
+            "x": "건강 정보를 AI로 찾는 사람은 늘었지만, 일반인이 호흡기 질환을 진단하고 중증도를 가릴 때 AI가 얼마나 도움이 되는지는 아직 분명하지 않다. 연구진은 호흡기 지식 계층을 얹고 과업 범위를 좁힌 WeChat 기반(WeChat-based) GPT-4o 챗봇 LungDiag를 기존 모바일 웹 검색과 맞붙였다. 전향적·다기관·단일맹검 무작위 모의 사례 비교 연구다."
           },
           {
             "t": "p",
-            "x": "참가자는 9개 유전성 암 소인 증후군 중 1개를 지닌 12~24세 영어 사용자였다. 챗봇은 증후군별 위험과 검진 정보를 알려 주고, 배우기, 검진 계획 세우기, 또래와 공유하기, 지지 모임과 연결하기, 대처 지원으로 성장하기를 위한 자료 페이지도 갖췄다."
+            "x": "2025년 4월부터 6월까지 중국 24개 의료 시스템에서 정식 의학 교육을 받지 않은 성인 2,400명을 LungDiag 지원군과 브라우저 검색군에 1:1로 무작위 배정했다. 대조군 쪽은 AI 검색 기능을 껐다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+            "cap": "Fig. 1: 연구 흐름도."
           },
           {
             "t": "p",
-            "x": "평가 대상 AYAs 798명 중 106명을 무작위 배정했다(챗봇 54명, 대조군 52명). 진료 후 30세까지의 암 위험을 정확히 아는 비율은 챗봇군 78%, 대조군 37%였다(OR, 3.50; P = .005). 검진 지식 향상과 고통 감소에서는 통계적으로 유의한 차이가 없었다."
+            "x": "설문지 2,176건을 놓고 한 1차 분석에서 LungDiag의 전체 정확도는 대조군보다 높았다(70.0% 대 55.4%). 위험 차이로는 14.6%포인트다. 격차는 진단 문항에서 가장 컸고(81.2% 대 54.5%) 분류 문항에서는 덜 벌어졌다(53.4% 대 47.1%). 대신 LungDiag 쪽이 끝내는 데 시간이 더 걸렸다(중앙값 527초 대 461초)."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+            "cap": "Fig. 2: LungDiag군과 웹 검색 대조군의 문항 단위 단순 통합 정확도."
           },
           {
             "t": "p",
-            "x": "연구진은 진료에 맞춰 개인 맞춤형의 정확한 전자 정보를 주면 고통을 늘리지 않고도 위험 지식을 높일 수 있다고 결론 내렸다."
+            "x": "저자들은 이번 결과가 실제 진료 이용 행동이나 진단 지연, 임상 결과에 미치는 영향까지 보여 주지는 못한다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A trial tests a chatbot for\ninherited cancer risk",
-          "body": "In a randomized trial, 78% of young people using a cancer-risk chatbot knew their risk by age 30, vs 37% of controls.",
-          "mini_headline": "A chatbot for inherited cancer risk",
+          "headline": "GPT-4o chatbot in WeChat\nimproves lay triage accuracy",
+          "body": "A randomized study of 2,400 laypeople found a GPT-4o chatbot in WeChat improved respiratory diagnosis and triage.",
+          "mini_headline": "WeChat chatbot aids triage",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Adolescents and young adults (AYAs) with hereditary cancer predisposition face high lifetime cancer risk, yet no models existed to support their understanding of that risk. This randomized clinical trial tested an electronic chatbot-based cancer risk communication tool, AYA Risk Information and Screening Education, at Dana-Farber, Emory/Children’s Healthcare of Atlanta, the University of Chicago and Utah’s Huntsman Cancer Institute between December 2022 and May 2025."
+                "x": "AI tools are increasingly used for health information seeking, but their performance in layperson respiratory diagnosis and triage remains uncertain. Researchers assessed LungDiag, a task-constrained WeChat-based GPT-4o chatbot with a respiratory knowledge layer, against conventional mobile web search in a prospective, multicentre, single-blind, randomized simulated-case comparison."
               },
               {
                 "t": "p",
-                "x": "Participants were English speakers aged 12 to 24 with 1 of 9 hereditary cancer predisposition syndromes. The chatbot gave syndrome-specific risk and screening information, with resource pages to learn, plan screening, share with peers, connect to support groups and grow through coping support."
+                "x": "Between April and June 2025, 2,400 adults without formal medical training at 24 Chinese healthcare systems were randomly assigned 1:1 to LungDiag assistance or browser-based search, with AI search functions disabled in the control arm."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+                "cap": "Fig. 1: Study flowchart."
               },
               {
                 "t": "p",
-                "x": "Of 798 AYAs assessed, 106 were randomized (54 chatbot, 52 control). After the clinic visit, 78% of the chatbot group versus 37% of controls had accurate knowledge of their cancer risk by age 30 (OR, 3.50; P = .005). Gains in screening knowledge and reductions in distress were not statistically significant."
+                "x": "In the primary analysis of 2,176 questionnaires, LungDiag achieved higher overall accuracy than the control (70.0% versus 55.4%), a risk difference of 14.6 percentage points. The largest difference was for diagnosis items (81.2% versus 54.5%), whereas triage gains were smaller (53.4% versus 47.1%). LungDiag required a longer completion time (median 527 s versus 461 s)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+                "cap": "Fig. 2: Crude pooled item-level accuracy for the LungDiag group and the web search control group."
               },
               {
                 "t": "p",
-                "x": "The authors conclude that pairing a clinic visit with personalized, accurate electronic information improved risk knowledge without increasing distress."
+                "x": "The authors note the findings do not establish effects on real-world care-seeking, diagnostic delay or clinical outcomes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "유전성 암 위험 챗봇,\n임상시험으로 검증",
-          "body": "챗봇을 쓴 젊은 층 78%가 30세까지의 암 위험을 알았고 대조군은 37%였다.",
-          "mini_headline": "유전성 암 위험을 알려주는 챗봇",
+          "headline": "WeChat GPT-4o\n일반인 분류 정확도 높여",
+          "body": "2,400명 무작위 연구에서 GPT-4o 챗봇이 일반인 호흡기 진단·분류를 도왔다.",
+          "mini_headline": "WeChat 챗봇이 분류를 돕다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "유전성 암 소인을 지닌 청소년·청년(AYAs)은 평생 암 위험이 높은데도 그 위험을 이해하도록 돕는 모델은 없었다. 이번 무작위 임상시험은 2022년 12월부터 2025년 5월까지 Dana-Farber, Emory/Children’s Healthcare of Atlanta, University of Chicago, Utah’s Huntsman Cancer Institute에서 챗봇 기반 전자 암 위험 소통 도구 AYA Risk Information and Screening Education을 시험했다."
+                "x": "건강 정보를 AI로 찾는 사람은 늘었지만, 일반인이 호흡기 질환을 진단하고 중증도를 가릴 때 AI가 얼마나 도움이 되는지는 아직 분명하지 않다. 연구진은 호흡기 지식 계층을 얹고 과업 범위를 좁힌 WeChat 기반(WeChat-based) GPT-4o 챗봇 LungDiag를 기존 모바일 웹 검색과 맞붙였다. 전향적·다기관·단일맹검 무작위 모의 사례 비교 연구다."
               },
               {
                 "t": "p",
-                "x": "참가자는 9개 유전성 암 소인 증후군 중 1개를 지닌 12~24세 영어 사용자였다. 챗봇은 증후군별 위험과 검진 정보를 알려 주고, 배우기, 검진 계획 세우기, 또래와 공유하기, 지지 모임과 연결하기, 대처 지원으로 성장하기를 위한 자료 페이지도 갖췄다."
+                "x": "2025년 4월부터 6월까지 중국 24개 의료 시스템에서 정식 의학 교육을 받지 않은 성인 2,400명을 LungDiag 지원군과 브라우저 검색군에 1:1로 무작위 배정했다. 대조군 쪽은 AI 검색 기능을 껐다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+                "cap": "Fig. 1: 연구 흐름도."
               },
               {
                 "t": "p",
-                "x": "평가 대상 AYAs 798명 중 106명을 무작위 배정했다(챗봇 54명, 대조군 52명). 진료 후 30세까지의 암 위험을 정확히 아는 비율은 챗봇군 78%, 대조군 37%였다(OR, 3.50; P = .005). 검진 지식 향상과 고통 감소에서는 통계적으로 유의한 차이가 없었다."
+                "x": "설문지 2,176건을 놓고 한 1차 분석에서 LungDiag의 전체 정확도는 대조군보다 높았다(70.0% 대 55.4%). 위험 차이로는 14.6%포인트다. 격차는 진단 문항에서 가장 컸고(81.2% 대 54.5%) 분류 문항에서는 덜 벌어졌다(53.4% 대 47.1%). 대신 LungDiag 쪽이 끝내는 데 시간이 더 걸렸다(중앙값 527초 대 461초)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+                "cap": "Fig. 2: LungDiag군과 웹 검색 대조군의 문항 단위 단순 통합 정확도."
               },
               {
                 "t": "p",
-                "x": "연구진은 진료에 맞춰 개인 맞춤형의 정확한 전자 정보를 주면 고통을 늘리지 않고도 위험 지식을 높일 수 있다고 결론 내렸다."
+                "x": "저자들은 이번 결과가 실제 진료 이용 행동이나 진단 지연, 임상 결과에 미치는 영향까지 보여 주지는 못한다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "遺伝性がんリスクの\nチャットボットを試験",
-          "body": "チャットボットを使った若者の78%が30歳までのがんリスクを知り、対照群は37%だった。",
-          "mini_headline": "遺伝性がんリスクのチャットボット",
+          "headline": "WeChatのGPT-4o\n一般人のトリアージ精度向上",
+          "body": "一般人2,400人の無作為化試験でWeChatのGPT-4oが呼吸器診断と振り分けを高めた。",
+          "mini_headline": "WeChatチャットボットがトリアージを支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "遺伝性がん素因をもつ思春期・若年成人(AYAs)は生涯のがんリスクが高いが、そのリスクの理解を支えるモデルは存在しなかった。この無作為化臨床試験は2022年12月から2025年5月にかけて、Dana-Farber、Emory/Children’s Healthcare of Atlanta、University of Chicago、Utah’s Huntsman Cancer Instituteで、チャットボット型の電子的ながんリスク伝達ツールAYA Risk Information and Screening Educationを検証した。"
+                "x": "健康情報の検索にAIツールを使う人は増えているが、一般人による呼吸器疾患の診断とトリアージにおける性能はなお不確かだ。研究チームは、呼吸器の知識層を備え、タスクを限定したWeChatベース（WeChat-based）のGPT-4oチャットボットLungDiagを、従来のモバイルWeb検索と比較した。前向き・多施設・単盲検の無作為化模擬症例比較である。"
               },
               {
                 "t": "p",
-                "x": "参加者は9種類の遺伝性がん素因症候群のうち1つをもつ12〜24歳の英語話者だった。チャットボットは症候群ごとのリスクと検診の情報を示し、学ぶ、検診を計画する、仲間と共有する、支援グループとつながる、対処支援を通じて成長する、ためのリソースページを備えていた。"
+                "x": "2025年4月から6月にかけ、中国の24の医療システムで正式な医学教育を受けていない成人2,400人を、LungDiagの支援群とブラウザ検索群に1:1で無作為に割り付けた。対照群ではAI検索機能を無効にした。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究のフローチャート。"
               },
               {
                 "t": "p",
-                "x": "評価した798人のAYAsのうち106人を無作為に割り付けた(チャットボット54人、対照52人)。受診後、30歳までのがんリスクを正確に把握していたのはチャットボット群の78%、対照群の37%だった(OR, 3.50; P = .005)。検診知識の向上と苦痛の軽減は統計的に有意ではなかった。"
+                "x": "質問票2,176件を対象とした主解析で、LungDiagの全体正答率は対照群を上回った（70.0%対55.4%）。リスク差は14.6パーセントポイントである。差が最も大きかったのは診断項目（81.2%対54.5%）で、トリアージの改善幅は小さかった（53.4%対47.1%）。LungDiagは回答完了までの時間が長かった（中央値527秒対461秒）。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+                "cap": "Fig. 2: LungDiag群とWeb検索対照群における項目単位の粗統合正答率。"
               },
               {
                 "t": "p",
-                "x": "著者らは、受診に個別化された正確な電子情報を組み合わせることで、苦痛を増やさずにリスクの理解が向上したと結論づけている。"
+                "x": "著者らは、今回の結果が実際の受診行動や診断の遅れ、臨床転帰への効果を示すものではないと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "试验检验一款\n遗传性癌症风险聊天机器人",
-          "body": "随机试验中，使用癌症风险聊天机器人的年轻人有78%知晓30岁前的风险，对照组为37%。",
-          "mini_headline": "遗传性癌症风险聊天机器人",
+          "headline": "WeChat内GPT-4o\n提升普通人分诊准确率",
+          "body": "2,400名普通人的随机研究中，WeChat内GPT-4o聊天机器人提升了呼吸道诊断与分诊。",
+          "mini_headline": "WeChat聊天机器人助力分诊",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "携带遗传性癌症易感性的青少年和年轻成人（AYAs）终生患癌风险很高，但此前没有任何模型帮助他们理解这一风险。这项随机临床试验于2022年12月至2025年5月在Dana-Farber、Emory/Children’s Healthcare of Atlanta、University of Chicago和Utah’s Huntsman Cancer Institute开展，测试了一款基于聊天机器人的电子癌症风险沟通工具AYA Risk Information and Screening Education。"
+                "x": "AI工具越来越多地用于获取健康信息，但其在普通人呼吸道疾病诊断与分诊中的表现仍不明确。研究人员通过一项前瞻性、多中心、单盲、随机模拟病例对照比较，评估了LungDiag与传统移动网页搜索的差异。LungDiag是一款基于WeChat（WeChat-based）、限定任务范围并配备呼吸道知识层的GPT-4o聊天机器人。"
               },
               {
                 "t": "p",
-                "x": "参与者为12至24岁、患有9种遗传性癌症易感综合征中1种的英语使用者。聊天机器人提供针对具体综合征的风险和筛查信息，并设有资源页面，用于学习、规划筛查、与同伴分享、联系支持团体，以及借助应对支持实现成长。"
+                "x": "2025年4月至6月，中国24个医疗系统中2,400名未受过正规医学训练的成年人按1:1随机分配至LungDiag辅助组或浏览器搜索组，对照组的AI搜索功能被关闭。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究流程图。"
               },
               {
                 "t": "p",
-                "x": "在接受评估的798名AYAs中，106人被随机分组（聊天机器人组54人，对照组52人）。就诊后，聊天机器人组78%的人准确了解自己30岁前的癌症风险，对照组为37%（OR, 3.50; P = .005）。筛查知识的提升和心理困扰的减轻均无统计学意义。"
+                "x": "在对2,176份问卷的主要分析中，LungDiag的总体准确率高于对照组（70.0%对55.4%），风险差为14.6个百分点。差异在诊断题上最大（81.2%对54.5%），分诊方面的提升较小（53.4%对47.1%）。LungDiag的完成时间更长（中位数527秒对461秒）。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+                "cap": "Fig. 2: LungDiag组与网页搜索对照组的题目层面粗合并准确率。"
               },
               {
                 "t": "p",
-                "x": "作者总结称，在就诊的同时提供个性化、准确的电子信息，可在不增加心理困扰的情况下提升对风险的认知。"
+                "x": "作者指出，这些结果并不能证明其对现实中的就医行为、诊断延误或临床结局有影响。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un ensayo prueba un chatbot\nsobre riesgo de cáncer heredado",
-          "body": "El 78% de los jóvenes que usaron el chatbot conocía su riesgo de cáncer a los 30 años, frente al 37% de los controles.",
-          "mini_headline": "Un chatbot para el riesgo hereditario de cáncer",
+          "headline": "Un chatbot GPT-4o en WeChat\nmejora el triaje de no expertos",
+          "body": "En un ensayo aleatorizado con 2,400 legos, un chatbot GPT-4o en WeChat mejoró el diagnóstico respiratorio y el triaje.",
+          "mini_headline": "Un chatbot de WeChat ayuda al triaje",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los adolescentes y adultos jóvenes (AYAs) con predisposición hereditaria al cáncer afrontan un alto riesgo de cáncer a lo largo de la vida, pero no existían modelos que los ayudaran a comprender ese riesgo. Este ensayo clínico aleatorizado probó una herramienta electrónica de comunicación del riesgo de cáncer basada en un chatbot, AYA Risk Information and Screening Education, en Dana-Farber, Emory/Children’s Healthcare of Atlanta, la University of Chicago y Utah’s Huntsman Cancer Institute entre diciembre de 2022 y mayo de 2025."
+                "x": "Las herramientas de AI se usan cada vez más para buscar información de salud, pero su rendimiento en el diagnóstico y el triaje respiratorio realizados por legos sigue siendo incierto. Los investigadores evaluaron LungDiag, un chatbot GPT-4o basado en WeChat (WeChat-based), limitado a la tarea y con una capa de conocimiento respiratorio, frente a la búsqueda web móvil convencional en una comparación prospectiva, multicéntrica, simple ciego y aleatorizada con casos simulados."
               },
               {
                 "t": "p",
-                "x": "Los participantes eran hablantes de inglés de 12 a 24 años con 1 de 9 síndromes de predisposición hereditaria al cáncer. El chatbot ofrecía información sobre el riesgo y el cribado específica de cada síndrome, con páginas de recursos para aprender, planificar el cribado, compartir con sus pares, conectar con grupos de apoyo y crecer mediante apoyo para el afrontamiento."
+                "x": "Entre abril y junio de 2025, 2,400 adultos sin formación médica formal de 24 sistemas de salud chinos fueron asignados al azar 1:1 a la asistencia de LungDiag o a la búsqueda en navegador, con las funciones de búsqueda con AI desactivadas en el grupo de control."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+                "cap": "Fig. 1: Diagrama de flujo del estudio."
               },
               {
                 "t": "p",
-                "x": "De 798 AYAs evaluados, 106 fueron aleatorizados (54 al chatbot, 52 al grupo control). Tras la visita clínica, el 78% del grupo del chatbot frente al 37% de los controles conocía con precisión su riesgo de cáncer a los 30 años (OR, 3.50; P = .005). Las mejoras en el conocimiento sobre el cribado y la reducción del malestar no fueron estadísticamente significativas."
+                "x": "En el análisis principal de 2,176 cuestionarios, LungDiag logró una precisión global mayor que el control (70.0% frente a 55.4%), una diferencia de riesgo de 14.6 puntos porcentuales. La mayor diferencia se dio en los ítems de diagnóstico (81.2% frente a 54.5%), mientras que las mejoras en triaje fueron menores (53.4% frente a 47.1%). LungDiag requirió más tiempo para completar la tarea (mediana de 527 s frente a 461 s)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+                "cap": "Fig. 2: Precisión agrupada bruta por ítem del grupo LungDiag y del grupo de control con búsqueda web."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que combinar la visita clínica con información electrónica personalizada y precisa mejoró el conocimiento del riesgo sin aumentar el malestar."
+                "x": "Los autores señalan que los resultados no demuestran efectos en la búsqueda real de atención, el retraso diagnóstico ni los resultados clínicos."
               }
             ]
           }
@@ -169,105 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "유전성 암 위험 챗봇,\n임상시험으로 검증",
-          "body": "챗봇을 쓴 젊은 층 78%가 30세까지의 암 위험을 알았고 대조군은 37%였다.",
-          "mini_headline": "유전성 암 위험을 알려주는 챗봇",
+          "headline": "WeChat GPT-4o\n일반인 분류 정확도 높여",
+          "body": "일반인 2,400명 무작위 연구에서 GPT-4o 챗봇이 호흡기 진단·분류를 높였다.",
+          "mini_headline": "WeChat 챗봇, 분류를 돕다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "유전성 암 소인을 지닌 청소년·청년(AYAs)은 평생 암 위험이 높지만, 이들이 그 위험을 이해하도록 돕는 모델은 없었다. 이 무작위 임상시험은 2022년 12월부터 2025년 5월까지 Dana-Farber, Emory/Children’s Healthcare of Atlanta, University of Chicago, Utah’s Huntsman Cancer Institute에서 챗봇 기반 전자 암 위험 소통 도구 AYA Risk Information and Screening Education을 시험했다."
+                "x": "건강 정보를 찾는 데 AI 도구를 쓰는 일이 늘고 있지만, 일반인의 호흡기 진단과 중증도 분류에서 AI 성능은 아직 불확실하다. 연구진은 호흡기 지식 계층을 갖추고 과업을 제한한 WeChat 기반(WeChat-based) GPT-4o 챗봇 LungDiag를 기존 모바일 웹 검색과 비교했다. 전향적·다기관·단일맹검 무작위 모의 사례 비교 연구다."
               },
               {
                 "t": "p",
-                "x": "참가자는 9개 유전성 암 소인 증후군 중 1개를 지닌 12~24세 영어 사용자였다. 챗봇은 증후군별 위험과 검진 정보를 제공했고, 배우기, 검진 계획 세우기, 또래와 공유하기, 지지 모임과 연결하기, 대처 지원으로 성장하기를 위한 자료 페이지를 갖췄다."
+                "x": "2025년 4월부터 6월까지 중국 24개 의료 시스템에서 정식 의학 교육을 받지 않은 성인 2,400명을 LungDiag 지원군과 브라우저 검색군에 1:1로 무작위 배정했다. 대조군에서는 AI 검색 기능을 껐다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+                "cap": "Fig. 1: 연구 흐름도."
               },
               {
                 "t": "p",
-                "x": "평가한 798명의 AYAs 중 106명을 무작위 배정했다(챗봇 54명, 대조군 52명). 진료 후 30세까지의 암 위험을 정확히 아는 비율은 챗봇군 78%, 대조군 37%였다(OR, 3.50; P = .005). 검진 지식 향상과 고통 감소는 통계적으로 유의하지 않았다."
+                "x": "설문지 2,176건을 대상으로 한 1차 분석에서 LungDiag의 전체 정확도는 대조군보다 높았다(70.0% 대 55.4%). 위험 차이는 14.6%포인트다. 차이는 진단 문항에서 가장 컸고(81.2% 대 54.5%), 분류 문항의 향상 폭은 작았다(53.4% 대 47.1%). LungDiag는 완료 시간이 더 길었다(중앙값 527초 대 461초)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+                "cap": "Fig. 2: LungDiag군과 웹 검색 대조군의 문항 단위 단순 통합 정확도."
               },
               {
                 "t": "p",
-                "x": "연구진은 진료와 함께 개인 맞춤형의 정확한 전자 정보를 제공하면 고통을 늘리지 않고 위험 지식을 높일 수 있다고 결론지었다."
+                "x": "저자들은 이번 결과가 실제 진료 이용 행동, 진단 지연, 임상 결과에 미치는 영향까지 입증하지는 않는다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "遺伝性がんリスクの\nチャットボットを試験",
-          "body": "チャットボットを使った若者の78%が30歳までのがんリスクを知り、対照群は37%だった。",
-          "mini_headline": "遺伝性がんリスクのチャットボット",
+          "headline": "WeChatのGPT-4o\n一般人のトリアージ精度向上",
+          "body": "一般人2,400人の無作為化試験でWeChatのGPT-4oが呼吸器診断と振り分けを高めた。",
+          "mini_headline": "WeChatチャットボットがトリアージを支援",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "遺伝性がん素因をもつ思春期・若年成人(AYAs)は生涯のがんリスクが高いが、そのリスクの理解を支えるモデルは存在しなかった。この無作為化臨床試験は2022年12月から2025年5月にかけて、Dana-Farber、Emory/Children’s Healthcare of Atlanta、University of Chicago、Utah’s Huntsman Cancer Instituteで、チャットボット型の電子的ながんリスク伝達ツールAYA Risk Information and Screening Educationを検証した。"
+                "x": "健康情報の検索にAIツールを使う人は増えているが、一般人による呼吸器疾患の診断とトリアージにおける性能はなお不確かだ。研究チームは、呼吸器の知識層を備え、タスクを限定したWeChatベース（WeChat-based）のGPT-4oチャットボットLungDiagを、従来のモバイルWeb検索と比較した。前向き・多施設・単盲検の無作為化模擬症例比較である。"
               },
               {
                 "t": "p",
-                "x": "参加者は9種類の遺伝性がん素因症候群のうち1つをもつ12〜24歳の英語話者だった。チャットボットは症候群ごとのリスクと検診の情報を示し、学ぶ、検診を計画する、仲間と共有する、支援グループとつながる、対処支援を通じて成長する、ためのリソースページを備えていた。"
+                "x": "2025年4月から6月にかけ、中国の24の医療システムで正式な医学教育を受けていない成人2,400人を、LungDiagの支援群とブラウザ検索群に1:1で無作為に割り付けた。対照群ではAI検索機能を無効にした。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究のフローチャート。"
               },
               {
                 "t": "p",
-                "x": "評価した798人のAYAsのうち106人を無作為に割り付けた(チャットボット54人、対照52人)。受診後、30歳までのがんリスクを正確に把握していたのはチャットボット群の78%、対照群の37%だった(OR, 3.50; P = .005)。検診知識の向上と苦痛の軽減は統計的に有意ではなかった。"
+                "x": "質問票2,176件を対象とした主解析で、LungDiagの全体正答率は対照群を上回った（70.0%対55.4%）。リスク差は14.6パーセントポイントである。差が最も大きかったのは診断項目（81.2%対54.5%）で、トリアージの改善幅は小さかった（53.4%対47.1%）。LungDiagは回答完了までの時間が長かった（中央値527秒対461秒）。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+                "cap": "Fig. 2: LungDiag群とWeb検索対照群における項目単位の粗統合正答率。"
               },
               {
                 "t": "p",
-                "x": "著者らは、受診に個別化された正確な電子情報を組み合わせることで、苦痛を増やさずにリスクの理解が向上したと結論づけている。"
+                "x": "著者らは、今回の結果が実際の受診行動や診断の遅れ、臨床転帰への効果を示すものではないと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "试验检验一款\n遗传性癌症风险聊天机器人",
-          "body": "随机试验中，使用癌症风险聊天机器人的年轻人有78%知晓30岁前的风险，对照组为37%。",
-          "mini_headline": "遗传性癌症风险聊天机器人",
+          "headline": "WeChat内GPT-4o\n提升普通人分诊准确率",
+          "body": "2,400名普通人的随机研究中，WeChat内GPT-4o聊天机器人提升了呼吸道诊断与分诊。",
+          "mini_headline": "WeChat聊天机器人助力分诊",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "携带遗传性癌症易感性的青少年和年轻成人（AYAs）终生患癌风险很高，但此前没有任何模型帮助他们理解这一风险。这项随机临床试验于2022年12月至2025年5月在Dana-Farber、Emory/Children’s Healthcare of Atlanta、University of Chicago和Utah’s Huntsman Cancer Institute开展，测试了一款基于聊天机器人的电子癌症风险沟通工具AYA Risk Information and Screening Education。"
+                "x": "AI工具越来越多地用于获取健康信息，但其在普通人呼吸道疾病诊断与分诊中的表现仍不明确。研究人员通过一项前瞻性、多中心、单盲、随机模拟病例对照比较，评估了LungDiag与传统移动网页搜索的差异。LungDiag是一款基于WeChat（WeChat-based）、限定任务范围并配备呼吸道知识层的GPT-4o聊天机器人。"
               },
               {
                 "t": "p",
-                "x": "参与者为12至24岁、患有9种遗传性癌症易感综合征中1种的英语使用者。聊天机器人提供针对具体综合征的风险和筛查信息，并设有资源页面，用于学习、规划筛查、与同伴分享、联系支持团体，以及借助应对支持实现成长。"
+                "x": "2025年4月至6月，中国24个医疗系统中2,400名未受过正规医学训练的成年人按1:1随机分配至LungDiag辅助组或浏览器搜索组，对照组的AI搜索功能被关闭。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+                "cap": "Fig. 1: 研究流程图。"
               },
               {
                 "t": "p",
-                "x": "在接受评估的798名AYAs中，106人被随机分组（聊天机器人组54人，对照组52人）。就诊后，聊天机器人组78%的人准确了解自己30岁前的癌症风险，对照组为37%（OR, 3.50; P = .005）。筛查知识的提升和心理困扰的减轻均无统计学意义。"
+                "x": "在对2,176份问卷的主要分析中，LungDiag的总体准确率高于对照组（70.0%对55.4%），风险差为14.6个百分点。差异在诊断题上最大（81.2%对54.5%），分诊方面的提升较小（53.4%对47.1%）。LungDiag的完成时间更长（中位数527秒对461秒）。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+                "cap": "Fig. 2: LungDiag组与网页搜索对照组的题目层面粗合并准确率。"
               },
               {
                 "t": "p",
-                "x": "作者总结称，在就诊的同时提供个性化、准确的电子信息，可在不增加心理困扰的情况下提升对风险的认知。"
+                "x": "作者指出，这些结果并不能证明其对现实中的就医行为、诊断延误或临床结局有影响。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un ensayo prueba un chatbot\nsobre riesgo de cáncer heredado",
-          "body": "El 78% de los jóvenes que usaron el chatbot conocía su riesgo de cáncer a los 30 años, frente al 37% de los controles.",
-          "mini_headline": "Un chatbot para el riesgo hereditario de cáncer",
+          "headline": "Un chatbot GPT-4o en WeChat\nmejora el triaje de no expertos",
+          "body": "En un ensayo aleatorizado con 2,400 legos, un chatbot GPT-4o en WeChat mejoró el diagnóstico respiratorio y el triaje.",
+          "mini_headline": "Un chatbot de WeChat ayuda al triaje",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los adolescentes y adultos jóvenes (AYAs) con predisposición hereditaria al cáncer afrontan un alto riesgo de cáncer a lo largo de la vida, pero no existían modelos que los ayudaran a comprender ese riesgo. Este ensayo clínico aleatorizado probó una herramienta electrónica de comunicación del riesgo de cáncer basada en un chatbot, AYA Risk Information and Screening Education, en Dana-Farber, Emory/Children’s Healthcare of Atlanta, la University of Chicago y Utah’s Huntsman Cancer Institute entre diciembre de 2022 y mayo de 2025."
+                "x": "Las herramientas de AI se usan cada vez más para buscar información de salud, pero su rendimiento en el diagnóstico y el triaje respiratorio realizados por legos sigue siendo incierto. Los investigadores evaluaron LungDiag, un chatbot GPT-4o basado en WeChat (WeChat-based), limitado a la tarea y con una capa de conocimiento respiratorio, frente a la búsqueda web móvil convencional en una comparación prospectiva, multicéntrica, simple ciego y aleatorizada con casos simulados."
               },
               {
                 "t": "p",
-                "x": "Los participantes eran hablantes de inglés de 12 a 24 años con 1 de 9 síndromes de predisposición hereditaria al cáncer. El chatbot ofrecía información sobre el riesgo y el cribado específica de cada síndrome, con páginas de recursos para aprender, planificar el cribado, compartir con sus pares, conectar con grupos de apoyo y crecer mediante apoyo para el afrontamiento."
+                "x": "Entre abril y junio de 2025, 2,400 adultos sin formación médica formal de 24 sistemas de salud chinos fueron asignados al azar 1:1 a la asistencia de LungDiag o a la búsqueda en navegador, con las funciones de búsqueda con AI desactivadas en el grupo de control."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+                "cap": "Fig. 1: Diagrama de flujo del estudio."
               },
               {
                 "t": "p",
-                "x": "De 798 AYAs evaluados, 106 fueron aleatorizados (54 al chatbot, 52 al grupo control). Tras la visita clínica, el 78% del grupo del chatbot frente al 37% de los controles conocía con precisión su riesgo de cáncer a los 30 años (OR, 3.50; P = .005). Las mejoras en el conocimiento sobre el cribado y la reducción del malestar no fueron estadísticamente significativas."
+                "x": "En el análisis principal de 2,176 cuestionarios, LungDiag logró una precisión global mayor que el control (70.0% frente a 55.4%), una diferencia de riesgo de 14.6 puntos porcentuales. La mayor diferencia se dio en los ítems de diagnóstico (81.2% frente a 54.5%), mientras que las mejoras en triaje fueron menores (53.4% frente a 47.1%). LungDiag requirió más tiempo para completar la tarea (mediana de 527 s frente a 461 s)."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+                "cap": "Fig. 2: Precisión agrupada bruta por ítem del grupo LungDiag y del grupo de control con búsqueda web."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que combinar la visita clínica con información electrónica personalizada y precisa mejoró el conocimiento del riesgo sin aumentar el malestar."
+                "x": "Los autores señalan que los resultados no demuestran efectos en la búsqueda real de atención, el retraso diagnóstico ni los resultados clínicos."
               }
             ]
           }
@@ -275,15 +375,15 @@
       }
     },
     {
-      "id": "pancreatic-cancer-subtype-histopathology-dl",
+      "id": "medicine-medgemma-open-vlm-nature-medicine",
       "source_lang": "en",
-      "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "일상 슬라이드로\n췌장암 아형 판별",
-      "body": "딥러닝이 비싼 유전자 발현 검사 없이 H&E 슬라이드만으로 췌장암 아형을 가려낸다.",
-      "mini_headline": "슬라이드로 읽는 췌장암 아형",
-      "source": "Communications Medicine",
-      "url": "https://www.nature.com/articles/s43856-026-01952-5",
+      "headline": "오픈 모델 MedGemma\n의료 영상·텍스트 다뤄",
+      "body": "Gemma 3 기반 MedGemma는 영상·임상 텍스트에서 동급 모델을 앞섰다.",
+      "mini_headline": "오픈 모델로 나온 MedGemma",
+      "tool": "Medicine",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04626-w",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -291,149 +391,185 @@
         "blocks": [
           {
             "t": "p",
-            "x": "췌장관선암은 예후와 치료 반응이 다른 고전형과 기저형 분자 아형으로 나뉜다. 하지만 전사체 기반 아형 분류는 비용과 소요 시간, 조직 요건 탓에 널리 쓰이지 못한다. 연구진은 딥러닝이 일상적인 H&E-stained 전체 슬라이드 이미지만 보고 이 아형을 바로 추론할 수 있는지 살폈다."
+            "x": "의료 AI는 학습도 배포도 쉽지 않다. 데이터가 제각각이고 과제 범위가 복잡한 데다 개인정보 보호 요구도 무겁기 때문이다. 저자들이 내놓은 MedGemma는 Gemma 3 기반의 의료용 비전-언어 파운데이션 모델 모음이다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+            "cap": "Fig. 1: MedGemma 모델 개요."
           },
           {
             "t": "p",
-            "x": "연구진은 Pancreatic Cancer Action Network(n = 506)와 The Cancer Genome Atlas(n = 183)에서 조직 소견과 RNA-sequencing 데이터를 함께 갖춘 환자 689명을 분석했다. 연구진이 만든 PanSubNet은 세포 형태와 조직 구조를 함께 보고 아형을 예측한다."
+            "x": "MedGemma는 영상과 텍스트, 여러 영상 영역을 가리지 않고 의학을 깊이 이해하고 추론한다. Gemma 기본 모델의 일반 능력은 그대로 지키면서 비슷한 크기의 생성 모델을 앞선다. 분포 밖 과제에서도 기본 모델보다 의료 영상 질의응답은 2.6–10%, 흉부 X-ray 소견 분류는 15.5–18.1%, 에이전트 평가는 10.8% 올랐다."
           },
           {
             "t": "p",
-            "x": "PanSubNet은 신뢰도 높은 고전형과 기저형 종양을 내부 검증에서 평균 AUC 90.3%, 독립 외부 검증에서 84.0%로 구분했다. 전이성 질환에서는 예측 아형에 따라 전체 생존이 유의하게 갈렸고, 전사체 결과가 엇갈리는 사례 가운데 공격적인 종양을 가려냈다."
+            "x": "의료 과제라면 기본 Gemma 3보다 MedGemma를 미세조정하는 편이 나을 수 있고, 학습 데이터가 적을수록 더 그렇다. 연구팀은 SigLIP에서 파생해 의료용으로 다듬은 비전 인코더 MedSigLIP도 함께 내놓았다. MedSigLIP가 MedGemma의 시각 이해를 받쳐 주며, 성능은 여러 특화 의료 영상 인코더와 대등하거나 그 이상이다."
           },
           {
-            "t": "p",
-            "x": "분자 검사가 제한적이거나 현실적으로 어려운 곳이라면 이 방법이 전사체 프로파일링을 보완할 빠르고 조직을 아끼는 수단이 된다고 연구진은 말한다."
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+            "cap": "Fig. 2: MedGemma 4B의 개방형 멀티모달 질의응답 예시."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Reading pancreatic cancer\nsubtypes from routine slides",
-          "body": "Deep learning infers pancreatic cancer subtypes, which normally need costly gene-expression tests, from H&E slides.",
-          "mini_headline": "Pancreatic subtypes from slides",
+          "headline": "MedGemma: an open model\nfor medical images and text",
+          "body": "Open MedGemma models, built on Gemma 3, beat similarly sized generative models on imaging and clinical text tasks.",
+          "mini_headline": "MedGemma goes open",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Pancreatic ductal adenocarcinoma comprises classical and basal-like molecular subtypes that differ in prognosis and treatment response, but transcriptomic subtyping is limited by cost, turnaround time and tissue requirements. The researchers asked whether these subtypes can be inferred directly from routine H&E-stained whole-slide images using deep learning."
+                "x": "AI training and deployment in healthcare are challenging due to diverse data, a complex spectrum of tasks and important privacy needs. The authors introduce MedGemma, a collection of medical vision-language foundation models based on Gemma 3."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+                "cap": "Fig. 1: Overview of the MedGemma models."
               },
               {
                 "t": "p",
-                "x": "They analyzed 689 patients with paired histology and RNA-sequencing data from the Pancreatic Cancer Action Network (n = 506) and The Cancer Genome Atlas (n = 183). Their model, PanSubNet, integrates cellular morphology with tissue architecture to predict subtype."
+                "x": "MedGemma demonstrates advanced medical understanding and reasoning across images, text and multiple imaging domains, exceeding similarly sized generative models while keeping the general capabilities of the Gemma base models. On out-of-distribution tasks it improves on the base models by 2.6–10% in medical image question answering, 15.5–18.1% in chest X-ray finding classification and 10.8% in agentic evaluations."
               },
               {
                 "t": "p",
-                "x": "PanSubNet distinguished high-confidence classical and basal-like tumors with a mean AUC of 90.3% in internal validation and 84.0% in independent external validation. In metastatic disease, its predicted subtypes significantly stratified overall survival and flagged aggressive tumors among transcriptionally discordant cases."
+                "x": "Fine-tuning MedGemma can be more effective than fine-tuning base Gemma 3 for medical tasks, particularly with limited training data. The team also introduces MedSigLIP, a medically tuned vision encoder derived from SigLIP that powers MedGemma's visual understanding and matches or beats many specialized medical image encoders."
               },
               {
-                "t": "p",
-                "x": "The authors say the approach offers a rapid, tissue-sparing complement to transcriptomic profiling where molecular testing is limited or impractical."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+                "cap": "Fig. 2: Examples of open-ended multimodal question answering with MedGemma 4B."
               }
             ]
           }
         },
         "ko": {
-          "headline": "일상 슬라이드로\n췌장암 아형 판별",
-          "body": "딥러닝이 비싼 유전자 발현 검사 없이 H&E 슬라이드만으로 췌장암 아형을 가려낸다.",
-          "mini_headline": "슬라이드로 읽는 췌장암 아형",
+          "headline": "오픈 모델 MedGemma\n의료 영상·텍스트 다뤄",
+          "body": "Gemma 3 기반 MedGemma는 영상·임상 텍스트에서 동급 모델을 앞섰다.",
+          "mini_headline": "오픈 모델로 나온 MedGemma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "췌장관선암은 예후와 치료 반응이 다른 고전형과 기저형 분자 아형으로 나뉜다. 하지만 전사체 기반 아형 분류는 비용과 소요 시간, 조직 요건 탓에 널리 쓰이지 못한다. 연구진은 딥러닝이 일상적인 H&E-stained 전체 슬라이드 이미지만 보고 이 아형을 바로 추론할 수 있는지 살폈다."
+                "x": "의료 AI는 학습도 배포도 쉽지 않다. 데이터가 제각각이고 과제 범위가 복잡한 데다 개인정보 보호 요구도 무겁기 때문이다. 저자들이 내놓은 MedGemma는 Gemma 3 기반의 의료용 비전-언어 파운데이션 모델 모음이다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+                "cap": "Fig. 1: MedGemma 모델 개요."
               },
               {
                 "t": "p",
-                "x": "연구진은 Pancreatic Cancer Action Network(n = 506)와 The Cancer Genome Atlas(n = 183)에서 조직 소견과 RNA-sequencing 데이터를 함께 갖춘 환자 689명을 분석했다. 연구진이 만든 PanSubNet은 세포 형태와 조직 구조를 함께 보고 아형을 예측한다."
+                "x": "MedGemma는 영상과 텍스트, 여러 영상 영역을 가리지 않고 의학을 깊이 이해하고 추론한다. Gemma 기본 모델의 일반 능력은 그대로 지키면서 비슷한 크기의 생성 모델을 앞선다. 분포 밖 과제에서도 기본 모델보다 의료 영상 질의응답은 2.6–10%, 흉부 X-ray 소견 분류는 15.5–18.1%, 에이전트 평가는 10.8% 올랐다."
               },
               {
                 "t": "p",
-                "x": "PanSubNet은 신뢰도 높은 고전형과 기저형 종양을 내부 검증에서 평균 AUC 90.3%, 독립 외부 검증에서 84.0%로 구분했다. 전이성 질환에서는 예측 아형에 따라 전체 생존이 유의하게 갈렸고, 전사체 결과가 엇갈리는 사례 가운데 공격적인 종양을 가려냈다."
+                "x": "의료 과제라면 기본 Gemma 3보다 MedGemma를 미세조정하는 편이 나을 수 있고, 학습 데이터가 적을수록 더 그렇다. 연구팀은 SigLIP에서 파생해 의료용으로 다듬은 비전 인코더 MedSigLIP도 함께 내놓았다. MedSigLIP가 MedGemma의 시각 이해를 받쳐 주며, 성능은 여러 특화 의료 영상 인코더와 대등하거나 그 이상이다."
               },
               {
-                "t": "p",
-                "x": "분자 검사가 제한적이거나 현실적으로 어려운 곳이라면 이 방법이 전사체 프로파일링을 보완할 빠르고 조직을 아끼는 수단이 된다고 연구진은 말한다."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+                "cap": "Fig. 2: MedGemma 4B의 개방형 멀티모달 질의응답 예시."
               }
             ]
           }
         },
         "ja": {
-          "headline": "通常のスライドから\n膵がんサブタイプを読む",
-          "body": "高価な遺伝子発現検査を要する膵がんのサブタイプを、深層学習がH&Eスライドから推定する。",
-          "mini_headline": "スライドから読む膵がんサブタイプ",
+          "headline": "MedGemma：オープンな\n医療画像・テキストモデル",
+          "body": "Gemma 3ベースのMedGemmaが画像と臨床テキストで同規模の生成モデルを上回った。",
+          "mini_headline": "MedGemmaをオープン公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "膵管腺がんは予後と治療反応が異なる古典型と基底様型の分子サブタイプに分かれるが、トランスクリプトームによるサブタイプ分類はコスト、所要時間、組織量の要件に制約される。研究チームは、深層学習を用いて日常的なH&E-stained 全スライド画像からこれらのサブタイプを直接推定できるかを検討した。"
+                "x": "医療におけるAIの学習と導入は、多様なデータ、複雑で幅広いタスク、重要なプライバシー要件のために難しい。著者らは、Gemma 3を基盤とする医療用の視覚言語基盤モデル群MedGemmaを発表した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+                "cap": "Fig. 1: MedGemmaモデルの概要。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、Pancreatic Cancer Action Network(n = 506)とThe Cancer Genome Atlas(n = 183)から、組織像とRNA-sequencingデータが対になった患者689人を解析した。モデルPanSubNetは細胞形態と組織構築を統合してサブタイプを予測する。"
+                "x": "MedGemmaは画像、テキスト、複数の画像領域にわたって高度な医学的理解と推論を示し、Gemmaベースモデルの汎用能力を保ちながら、同規模の生成モデルを上回る。分布外タスクでは、ベースモデルに比べて医療画像の質問応答で2.6–10%、胸部X-ray所見分類で15.5–18.1%、エージェント評価で10.8%改善した。"
               },
               {
                 "t": "p",
-                "x": "PanSubNetは高信頼度の古典型と基底様型の腫瘍を、内部検証で平均AUC 90.3%、独立した外部検証で84.0%で識別した。転移例では予測サブタイプが全生存期間を有意に層別化し、トランスクリプトーム上で判定が食い違う症例の中から悪性度の高い腫瘍を拾い上げた。"
+                "x": "医療タスクでは、ベースのGemma 3よりもMedGemmaをファインチューニングする方が効果的な場合があり、学習データが限られるときは特にそうだ。チームはまた、SigLIPから派生し医療向けに調整した視覚エンコーダーMedSigLIPも発表した。MedSigLIPはMedGemmaの視覚理解を支え、多くの専門的な医療画像エンコーダーと同等かそれ以上の性能を示す。"
               },
               {
-                "t": "p",
-                "x": "著者らは、分子検査が限られる、あるいは現実的でない場面で、この手法がトランスクリプトーム解析を補う迅速で組織を節約できる手段になるとしている。"
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+                "cap": "Fig. 2: MedGemma 4Bによる自由回答型マルチモーダル質問応答の例。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从常规切片\n读出胰腺癌亚型",
-          "body": "深度学习可从H&E切片推断胰腺癌亚型，而这通常需要昂贵的基因表达检测。",
-          "mini_headline": "从切片识别胰腺癌亚型",
+          "headline": "MedGemma：开放模型\n面向医学影像与文本",
+          "body": "基于Gemma 3的开放MedGemma模型，在影像和临床文本任务上超越同等规模生成模型。",
+          "mini_headline": "MedGemma开放发布",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "胰腺导管腺癌包括经典型和基底样型两种分子亚型，二者的预后和治疗反应不同，但转录组分型受限于成本、周转时间和组织需求。研究人员探讨能否利用深度学习，直接从常规H&E-stained全切片图像中推断这些亚型。"
+                "x": "由于数据多样、任务范围复杂且隐私要求重要，医疗领域的AI训练与部署面临挑战。作者推出了MedGemma，这是一组基于Gemma 3的医学视觉-语言基础模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+                "cap": "Fig. 1: MedGemma模型概览。"
               },
               {
                 "t": "p",
-                "x": "他们分析了来自Pancreatic Cancer Action Network（n = 506）和The Cancer Genome Atlas（n = 183）的689名患者，这些患者同时拥有配对的组织学和RNA-sequencing数据。他们的模型PanSubNet整合细胞形态与组织结构来预测亚型。"
+                "x": "MedGemma在图像、文本及多个影像领域展现出先进的医学理解与推理能力，在保留Gemma基础模型通用能力的同时，超越了规模相近的生成模型。在分布外任务上，它相较基础模型在医学图像问答中提升2.6–10%，在胸部X-ray发现分类中提升15.5–18.1%，在智能体评估中提升10.8%。"
               },
               {
                 "t": "p",
-                "x": "PanSubNet在内部验证中区分高置信度经典型和基底样型肿瘤的平均AUC为90.3%，在独立外部验证中为84.0%。在转移性疾病中，其预测亚型可显著区分总生存期，并在转录组结果不一致的病例中识别出侵袭性肿瘤。"
+                "x": "在医学任务上，微调MedGemma可能比微调基础Gemma 3更有效，在训练数据有限时尤其如此。团队还推出了MedSigLIP，这是一款源自SigLIP、经医学调优的视觉编码器，为MedGemma的视觉理解提供支撑，其表现与许多专用医学图像编码器相当或更优。"
               },
               {
-                "t": "p",
-                "x": "作者表示，在分子检测受限或不切实际的情况下，这一方法可作为转录组分析的快速、节省组织的补充手段。"
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+                "cap": "Fig. 2: MedGemma 4B开放式多模态问答示例。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Subtipos de cáncer de páncreas\nleídos en láminas de rutina",
-          "body": "El aprendizaje profundo deduce de láminas H&E subtipos de cáncer de páncreas que exigen costosos análisis génicos.",
-          "mini_headline": "Subtipos pancreáticos desde láminas",
+          "headline": "MedGemma: un modelo abierto\npara imágenes y textos médicos",
+          "body": "MedGemma, abierto y basado en Gemma 3, supera a modelos generativos de su tamaño en imagen y texto clínico.",
+          "mini_headline": "MedGemma, en abierto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El adenocarcinoma ductal de páncreas comprende los subtipos moleculares clásico y de tipo basal, que difieren en pronóstico y respuesta al tratamiento, pero la subtipificación transcriptómica está limitada por el coste, el tiempo de respuesta y los requisitos de tejido. Los investigadores se preguntaron si estos subtipos pueden inferirse directamente a partir de imágenes de lámina completa H&E-stained de rutina mediante aprendizaje profundo."
+                "x": "El entrenamiento y el despliegue de la AI en salud son difíciles por la diversidad de datos, el complejo abanico de tareas y las importantes exigencias de privacidad. Los autores presentan MedGemma, una colección de modelos fundacionales médicos de visión y lenguaje basados en Gemma 3."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+                "cap": "Fig. 1: Descripción general de los modelos MedGemma."
               },
               {
                 "t": "p",
-                "x": "Analizaron a 689 pacientes con datos pareados de histología y RNA-sequencing del Pancreatic Cancer Action Network (n = 506) y The Cancer Genome Atlas (n = 183). Su modelo, PanSubNet, integra la morfología celular con la arquitectura tisular para predecir el subtipo."
+                "x": "MedGemma muestra una comprensión y un razonamiento médicos avanzados en imágenes, texto y múltiples dominios de imagen, y supera a modelos generativos de tamaño similar sin perder las capacidades generales de los modelos base Gemma. En tareas fuera de distribución mejora a los modelos base en un 2.6–10% en preguntas y respuestas sobre imágenes médicas, en un 15.5–18.1% en la clasificación de hallazgos en X-ray de tórax y en un 10.8% en evaluaciones agénticas."
               },
               {
                 "t": "p",
-                "x": "PanSubNet distinguió los tumores clásicos y de tipo basal de alta confianza con un AUC medio del 90.3% en la validación interna y del 84.0% en una validación externa independiente. En la enfermedad metastásica, los subtipos predichos estratificaron de forma significativa la supervivencia global y señalaron tumores agresivos entre los casos transcriptómicamente discordantes."
+                "x": "Ajustar MedGemma puede ser más eficaz que ajustar el modelo base Gemma 3 en tareas médicas, sobre todo con pocos datos de entrenamiento. El equipo presenta también MedSigLIP, un codificador visual ajustado para medicina y derivado de SigLIP, que impulsa la comprensión visual de MedGemma e iguala o supera a muchos codificadores especializados de imagen médica."
               },
               {
-                "t": "p",
-                "x": "Los autores afirman que el método ofrece un complemento rápido y que ahorra tejido al perfil transcriptómico cuando las pruebas moleculares son limitadas o poco prácticas."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+                "cap": "Fig. 2: Ejemplos de preguntas y respuestas multimodales abiertas con MedGemma 4B."
               }
             ]
           }
@@ -441,105 +577,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "일상 슬라이드로\n췌장암 아형 판별",
-          "body": "딥러닝이 고가의 유전자 발현 검사 없이 H&E 슬라이드로 췌장암 아형을 추론한다.",
-          "mini_headline": "슬라이드로 읽는 췌장암 아형",
+          "headline": "오픈 모델 MedGemma\n의료 영상·텍스트 다뤄",
+          "body": "Gemma 3 기반 MedGemma가 영상·임상 텍스트에서 동급 모델을 앞섰다.",
+          "mini_headline": "MedGemma, 오픈 모델로 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "췌장관선암은 예후와 치료 반응이 다른 고전형과 기저형 분자 아형으로 나뉘지만, 전사체 기반 아형 분류는 비용, 소요 시간, 조직 요건 때문에 쓰임이 제한된다. 연구진은 딥러닝으로 일상적인 H&E-stained 전체 슬라이드 이미지에서 이 아형을 바로 추론할 수 있는지 살폈다."
+                "x": "의료 분야의 AI 학습과 배포는 다양한 데이터, 복잡한 과제 범위, 중요한 개인정보 보호 요구 때문에 쉽지 않다. 저자들은 Gemma 3 기반 의료용 비전-언어 파운데이션 모델 모음인 MedGemma를 소개했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+                "cap": "Fig. 1: MedGemma 모델 개요."
               },
               {
                 "t": "p",
-                "x": "연구진은 Pancreatic Cancer Action Network(n = 506)와 The Cancer Genome Atlas(n = 183)에서 조직 소견과 RNA-sequencing 데이터를 함께 갖춘 환자 689명을 분석했다. 이들의 모델 PanSubNet은 세포 형태와 조직 구조를 통합해 아형을 예측한다."
+                "x": "MedGemma는 영상, 텍스트, 여러 영상 영역에 걸쳐 고도의 의학적 이해와 추론 능력을 보인다. Gemma 기본 모델의 일반 능력을 유지하면서도 비슷한 크기의 생성 모델을 앞선다. 분포 밖 과제에서는 기본 모델 대비 의료 영상 질의응답에서 2.6–10%, 흉부 X-ray 소견 분류에서 15.5–18.1%, 에이전트 평가에서 10.8% 향상됐다."
               },
               {
                 "t": "p",
-                "x": "PanSubNet은 신뢰도 높은 고전형과 기저형 종양을 내부 검증에서 평균 AUC 90.3%, 독립 외부 검증에서 84.0%로 구분했다. 전이성 질환에서는 예측 아형이 전체 생존을 유의하게 층화했고, 전사체 결과가 엇갈리는 사례 가운데 공격적인 종양을 가려냈다."
+                "x": "의료 과제에서는 기본 Gemma 3보다 MedGemma를 미세조정하는 편이 더 효과적일 수 있으며, 학습 데이터가 적을 때 특히 그렇다. 연구팀은 SigLIP에서 파생해 의료용으로 조정한 비전 인코더 MedSigLIP도 소개했다. MedSigLIP는 MedGemma의 시각 이해를 뒷받침하며, 여러 특화 의료 영상 인코더와 대등하거나 이를 앞선다."
               },
               {
-                "t": "p",
-                "x": "연구진은 이 방법이 분자 검사가 제한적이거나 현실적으로 어려운 곳에서 전사체 프로파일링을 보완하는, 빠르고 조직을 아끼는 수단이 된다고 말한다."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+                "cap": "Fig. 2: MedGemma 4B의 개방형 멀티모달 질의응답 예시."
               }
             ]
           }
         },
         "ja": {
-          "headline": "通常のスライドから\n膵がんサブタイプを読む",
-          "body": "高価な遺伝子発現検査を要する膵がんのサブタイプを、深層学習がH&Eスライドから推定する。",
-          "mini_headline": "スライドから読む膵がんサブタイプ",
+          "headline": "MedGemma：オープンな\n医療画像・テキストモデル",
+          "body": "Gemma 3ベースのMedGemmaが画像と臨床テキストで同規模の生成モデルを上回った。",
+          "mini_headline": "MedGemmaをオープン公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "膵管腺がんは予後と治療反応が異なる古典型と基底様型の分子サブタイプに分かれるが、トランスクリプトームによるサブタイプ分類はコスト、所要時間、組織量の要件に制約される。研究チームは、深層学習を用いて日常的なH&E-stained 全スライド画像からこれらのサブタイプを直接推定できるかを検討した。"
+                "x": "医療におけるAIの学習と導入は、多様なデータ、複雑で幅広いタスク、重要なプライバシー要件のために難しい。著者らは、Gemma 3を基盤とする医療用の視覚言語基盤モデル群MedGemmaを発表した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+                "cap": "Fig. 1: MedGemmaモデルの概要。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、Pancreatic Cancer Action Network(n = 506)とThe Cancer Genome Atlas(n = 183)から、組織像とRNA-sequencingデータが対になった患者689人を解析した。モデルPanSubNetは細胞形態と組織構築を統合してサブタイプを予測する。"
+                "x": "MedGemmaは画像、テキスト、複数の画像領域にわたって高度な医学的理解と推論を示し、Gemmaベースモデルの汎用能力を保ちながら、同規模の生成モデルを上回る。分布外タスクでは、ベースモデルに比べて医療画像の質問応答で2.6–10%、胸部X-ray所見分類で15.5–18.1%、エージェント評価で10.8%改善した。"
               },
               {
                 "t": "p",
-                "x": "PanSubNetは高信頼度の古典型と基底様型の腫瘍を、内部検証で平均AUC 90.3%、独立した外部検証で84.0%で識別した。転移例では予測サブタイプが全生存期間を有意に層別化し、トランスクリプトーム上で判定が食い違う症例の中から悪性度の高い腫瘍を拾い上げた。"
+                "x": "医療タスクでは、ベースのGemma 3よりもMedGemmaをファインチューニングする方が効果的な場合があり、学習データが限られるときは特にそうだ。チームはまた、SigLIPから派生し医療向けに調整した視覚エンコーダーMedSigLIPも発表した。MedSigLIPはMedGemmaの視覚理解を支え、多くの専門的な医療画像エンコーダーと同等かそれ以上の性能を示す。"
               },
               {
-                "t": "p",
-                "x": "著者らは、分子検査が限られる、あるいは現実的でない場面で、この手法がトランスクリプトーム解析を補う迅速で組織を節約できる手段になるとしている。"
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+                "cap": "Fig. 2: MedGemma 4Bによる自由回答型マルチモーダル質問応答の例。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从常规切片\n读出胰腺癌亚型",
-          "body": "深度学习可从H&E切片推断胰腺癌亚型，而这通常需要昂贵的基因表达检测。",
-          "mini_headline": "从切片识别胰腺癌亚型",
+          "headline": "MedGemma：开放模型\n面向医学影像与文本",
+          "body": "基于Gemma 3的开放MedGemma模型，在影像和临床文本任务上超越同等规模生成模型。",
+          "mini_headline": "MedGemma开放发布",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "胰腺导管腺癌包括经典型和基底样型两种分子亚型，二者的预后和治疗反应不同，但转录组分型受限于成本、周转时间和组织需求。研究人员探讨能否利用深度学习，直接从常规H&E-stained全切片图像中推断这些亚型。"
+                "x": "由于数据多样、任务范围复杂且隐私要求重要，医疗领域的AI训练与部署面临挑战。作者推出了MedGemma，这是一组基于Gemma 3的医学视觉-语言基础模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+                "cap": "Fig. 1: MedGemma模型概览。"
               },
               {
                 "t": "p",
-                "x": "他们分析了来自Pancreatic Cancer Action Network（n = 506）和The Cancer Genome Atlas（n = 183）的689名患者，这些患者同时拥有配对的组织学和RNA-sequencing数据。他们的模型PanSubNet整合细胞形态与组织结构来预测亚型。"
+                "x": "MedGemma在图像、文本及多个影像领域展现出先进的医学理解与推理能力，在保留Gemma基础模型通用能力的同时，超越了规模相近的生成模型。在分布外任务上，它相较基础模型在医学图像问答中提升2.6–10%，在胸部X-ray发现分类中提升15.5–18.1%，在智能体评估中提升10.8%。"
               },
               {
                 "t": "p",
-                "x": "PanSubNet在内部验证中区分高置信度经典型和基底样型肿瘤的平均AUC为90.3%，在独立外部验证中为84.0%。在转移性疾病中，其预测亚型可显著区分总生存期，并在转录组结果不一致的病例中识别出侵袭性肿瘤。"
+                "x": "在医学任务上，微调MedGemma可能比微调基础Gemma 3更有效，在训练数据有限时尤其如此。团队还推出了MedSigLIP，这是一款源自SigLIP、经医学调优的视觉编码器，为MedGemma的视觉理解提供支撑，其表现与许多专用医学图像编码器相当或更优。"
               },
               {
-                "t": "p",
-                "x": "作者表示，在分子检测受限或不切实际的情况下，这一方法可作为转录组分析的快速、节省组织的补充手段。"
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+                "cap": "Fig. 2: MedGemma 4B开放式多模态问答示例。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Subtipos de cáncer de páncreas\nleídos en láminas de rutina",
-          "body": "El aprendizaje profundo deduce de láminas H&E subtipos de cáncer de páncreas que exigen costosos análisis génicos.",
-          "mini_headline": "Subtipos pancreáticos desde láminas",
+          "headline": "MedGemma: un modelo abierto\npara imágenes y textos médicos",
+          "body": "MedGemma, abierto y basado en Gemma 3, supera a modelos generativos de su tamaño en imagen y texto clínico.",
+          "mini_headline": "MedGemma, en abierto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El adenocarcinoma ductal de páncreas comprende los subtipos moleculares clásico y de tipo basal, que difieren en pronóstico y respuesta al tratamiento, pero la subtipificación transcriptómica está limitada por el coste, el tiempo de respuesta y los requisitos de tejido. Los investigadores se preguntaron si estos subtipos pueden inferirse directamente a partir de imágenes de lámina completa H&E-stained de rutina mediante aprendizaje profundo."
+                "x": "El entrenamiento y el despliegue de la AI en salud son difíciles por la diversidad de datos, el complejo abanico de tareas y las importantes exigencias de privacidad. Los autores presentan MedGemma, una colección de modelos fundacionales médicos de visión y lenguaje basados en Gemma 3."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
+                "cap": "Fig. 1: Descripción general de los modelos MedGemma."
               },
               {
                 "t": "p",
-                "x": "Analizaron a 689 pacientes con datos pareados de histología y RNA-sequencing del Pancreatic Cancer Action Network (n = 506) y The Cancer Genome Atlas (n = 183). Su modelo, PanSubNet, integra la morfología celular con la arquitectura tisular para predecir el subtipo."
+                "x": "MedGemma muestra una comprensión y un razonamiento médicos avanzados en imágenes, texto y múltiples dominios de imagen, y supera a modelos generativos de tamaño similar sin perder las capacidades generales de los modelos base Gemma. En tareas fuera de distribución mejora a los modelos base en un 2.6–10% en preguntas y respuestas sobre imágenes médicas, en un 15.5–18.1% en la clasificación de hallazgos en X-ray de tórax y en un 10.8% en evaluaciones agénticas."
               },
               {
                 "t": "p",
-                "x": "PanSubNet distinguió los tumores clásicos y de tipo basal de alta confianza con un AUC medio del 90.3% en la validación interna y del 84.0% en una validación externa independiente. En la enfermedad metastásica, los subtipos predichos estratificaron de forma significativa la supervivencia global y señalaron tumores agresivos entre los casos transcriptómicamente discordantes."
+                "x": "Ajustar MedGemma puede ser más eficaz que ajustar el modelo base Gemma 3 en tareas médicas, sobre todo con pocos datos de entrenamiento. El equipo presenta también MedSigLIP, un codificador visual ajustado para medicina y derivado de SigLIP, que impulsa la comprensión visual de MedGemma e iguala o supera a muchos codificadores especializados de imagen médica."
               },
               {
-                "t": "p",
-                "x": "Los autores afirman que el método ofrece un complemento rápido y que ahorra tejido al perfil transcriptómico cuando las pruebas moleculares son limitadas o poco prácticas."
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
+                "cap": "Fig. 2: Ejemplos de preguntas y respuestas multimodales abiertas con MedGemma 4B."
               }
             ]
           }
@@ -547,15 +707,287 @@
       }
     },
     {
-      "id": "fda-radiology-ai-authorizations-rise-42",
+      "id": "medicine-bmj-healthai-patient-data-sale",
       "source_lang": "en",
-      "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "영상의학 AI 연간\n허가 42% 증가",
-      "body": "FDA-authorized 영상 AI는 1,094건이고 연간 허가는 42% 늘었다.",
-      "mini_headline": "영상의학 AI 허가 42% 증가",
-      "source": "Radiology Business",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-ai-authorizations-rise-42-regulatory-landscape-evolves",
+      "headline": "환자 데이터 판매는 배신\nAI 전문가의 경고",
+      "body": "HealthAI CEO Leite가 정부에 환자 데이터를 사고팔지 말라고 경고했다.",
+      "mini_headline": "환자 데이터는 팔 물건이 아니다",
+      "tool": "Medicine",
+      "source": "The BMJ",
+      "url": "https://www.bmj.com/content/395/bmj-2026-101119",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "의료 AI 분야의 저명한 전문가가 환자 데이터를 파는 정부는 국민의 “신뢰를 저버리는” 셈이라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "HealthAI 최고경영자 Ricardo Baptista Leite는 이달 초 European Health Forum Gastein 연설에서 정부가 환자 데이터를 사고팔아서는 안 되고, 그런 정부는 규탄받아야 한다고 촉구했다. HealthAI는 의료 현장에서 AI가 안전하고 책임 있게, 규제 안에서 쓰이도록 이끄는 비영리 단체다."
+          },
+          {
+            "t": "p",
+            "x": "포르투갈계 캐나다인(Portuguese-Canadian) 의사인 Leite는 AI 기업을 이끄는 “테크 브로(tech bros)”와 시민사회 사이의 지식·권력 불균형도 경고했다. 이 불균형이 건강 불평등을 키울 수 있다는 지적이다."
+          },
+          {
+            "t": "p",
+            "x": "발언이 나온 때는 NHS England가 Palantir와 맺은 보건 데이터 계약을 끝내라는 압박이 거세지던 무렵이다. 이 미국(US) 기업은 2023년 계약을 따낸 뒤 NHS의 연합 데이터 플랫폼을 운영해 왔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Selling patient data is\na betrayal, says AI expert",
+          "body": "HealthAI CEO Ricardo Baptista Leite urged governments not to buy or sell patient data, warning of an AI power imbalance.",
+          "mini_headline": "Patient data not for sale",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Any government that sells patient data is “betraying the trust” of its people, a leading expert on AI in health has said."
+              },
+              {
+                "t": "p",
+                "x": "Speaking at the European Health Forum Gastein earlier this month, Ricardo Baptista Leite, chief executive officer of HealthAI—a non-profit group focused on promoting the safe, responsible, and regulated use of AI in healthcare—urged governments not to buy or sell patient data and to condemn those that do."
+              },
+              {
+                "t": "p",
+                "x": "Leite, a Portuguese-Canadian doctor, also warned of a knowledge and power imbalance between the “tech bros” running AI companies and civil society—an imbalance he said could lead to greater health inequalities."
+              },
+              {
+                "t": "p",
+                "x": "His comments come as pressure mounts on NHS England to end its health data contract with Palantir. The US company has been handling the NHS’s federated data platform since it won the contract in 2023."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "환자 데이터 판매는 배신\nAI 전문가의 경고",
+          "body": "HealthAI CEO Leite가 정부에 환자 데이터를 사고팔지 말라고 경고했다.",
+          "mini_headline": "환자 데이터는 팔 물건이 아니다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "의료 AI 분야의 저명한 전문가가 환자 데이터를 파는 정부는 국민의 “신뢰를 저버리는” 셈이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "HealthAI 최고경영자 Ricardo Baptista Leite는 이달 초 European Health Forum Gastein 연설에서 정부가 환자 데이터를 사고팔아서는 안 되고, 그런 정부는 규탄받아야 한다고 촉구했다. HealthAI는 의료 현장에서 AI가 안전하고 책임 있게, 규제 안에서 쓰이도록 이끄는 비영리 단체다."
+              },
+              {
+                "t": "p",
+                "x": "포르투갈계 캐나다인(Portuguese-Canadian) 의사인 Leite는 AI 기업을 이끄는 “테크 브로(tech bros)”와 시민사회 사이의 지식·권력 불균형도 경고했다. 이 불균형이 건강 불평등을 키울 수 있다는 지적이다."
+              },
+              {
+                "t": "p",
+                "x": "발언이 나온 때는 NHS England가 Palantir와 맺은 보건 데이터 계약을 끝내라는 압박이 거세지던 무렵이다. 이 미국(US) 기업은 2023년 계약을 따낸 뒤 NHS의 연합 데이터 플랫폼을 운영해 왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "患者データの販売は裏切り\nAI専門家が警鐘",
+          "body": "HealthAIのLeite CEOは、各国政府に患者データの売買をしないよう求めた。",
+          "mini_headline": "患者データは売り物ではない",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "患者データを売る政府は国民の「信頼を裏切っている」と、医療AIの第一人者が述べた。"
+              },
+              {
+                "t": "p",
+                "x": "今月初めにEuropean Health Forum Gasteinで講演したHealthAIの最高経営責任者Ricardo Baptista Leite氏は、政府に対し患者データを売買しないよう、またそうする政府を非難するよう求めた。HealthAIは、医療におけるAIの安全で責任ある、規制されたかたちでの利用の促進に取り組む非営利団体である。"
+              },
+              {
+                "t": "p",
+                "x": "ポルトガル系カナダ人（Portuguese-Canadian）の医師であるLeite氏は、AI企業を率いる「tech bros（テック・ブロ）」と市民社会との間にある知識と権力の不均衡にも警鐘を鳴らした。この不均衡は健康格差の拡大につながりかねないという。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、NHS EnglandにPalantirとの保健データ契約を打ち切るよう求める圧力が強まるなかで出た。この米国（US）企業は2023年に契約を獲得して以来、NHSの連合型データプラットフォームを担っている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "出售患者数据是背叛\n一位AI专家直言",
+          "body": "HealthAI CEO Leite敦促各国政府不要买卖患者数据，并警示AI权力失衡。",
+          "mini_headline": "患者数据不应出售",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "一位医疗AI领域的权威专家表示，任何出售患者数据的政府，都是在“背叛”本国民众的“信任”。"
+              },
+              {
+                "t": "p",
+                "x": "本月早些时候，HealthAI首席执行官Ricardo Baptista Leite在European Health Forum Gastein上发言，敦促各国政府不要买卖患者数据，并谴责这样做的政府。HealthAI是一家致力于推动在医疗领域安全、负责任且受监管地使用AI的非营利组织。"
+              },
+              {
+                "t": "p",
+                "x": "身为葡萄牙裔加拿大籍（Portuguese-Canadian）医生的Leite还警告，经营AI公司的“tech bros（科技兄弟）”与公民社会之间存在知识和权力失衡，他认为这种失衡可能加剧健康不平等。"
+              },
+              {
+                "t": "p",
+                "x": "他发表上述言论之际，要求NHS England终止与Palantir健康数据合同的压力不断加大。这家美国（US）公司自2023年赢得合同以来，一直负责NHS的联邦式数据平台。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Vender datos de pacientes es\nuna traición, dice experto en AI",
+          "body": "El CEO de HealthAI, Ricardo Baptista Leite, pidió a los gobiernos no comprar ni vender datos de pacientes.",
+          "mini_headline": "Datos de pacientes, no en venta",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Cualquier gobierno que venda datos de pacientes está “traicionando la confianza” de su población, afirmó un destacado experto en AI aplicada a la salud."
+              },
+              {
+                "t": "p",
+                "x": "En su intervención en el European Health Forum Gastein a principios de este mes, Ricardo Baptista Leite, director ejecutivo de HealthAI —una organización sin ánimo de lucro dedicada a promover el uso seguro, responsable y regulado de la AI en la atención sanitaria—, instó a los gobiernos a no comprar ni vender datos de pacientes y a condenar a quienes lo hagan."
+              },
+              {
+                "t": "p",
+                "x": "Leite, médico portugués-canadiense (Portuguese-Canadian), advirtió también de un desequilibrio de conocimiento y de poder entre los “tech bros” que dirigen las empresas de AI y la sociedad civil, un desequilibrio que, según dijo, podría agravar las desigualdades en salud."
+              },
+              {
+                "t": "p",
+                "x": "Sus comentarios llegan en un momento de creciente presión sobre NHS England para que ponga fin a su contrato de datos de salud con Palantir. La empresa estadounidense (US) gestiona la plataforma federada de datos del NHS desde que obtuvo el contrato en 2023."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "환자 데이터 판매는 배신\nAI 전문가의 경고",
+          "body": "HealthAI CEO Leite는 정부에 환자 데이터를 사고팔지 말라고 했다.",
+          "mini_headline": "환자 데이터는 팔 것이 아니다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "환자 데이터를 파는 정부는 국민의 “신뢰를 저버리는” 것이라고 의료 AI 분야의 저명한 전문가가 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이달 초 European Health Forum Gastein에서 연설한 HealthAI 최고경영자 Ricardo Baptista Leite는 정부가 환자 데이터를 사거나 팔아서는 안 되며, 그렇게 하는 정부를 규탄해야 한다고 촉구했다. HealthAI는 의료 분야에서 AI를 안전하고 책임 있게, 규제 아래 사용하도록 장려하는 데 주력하는 비영리 단체다."
+              },
+              {
+                "t": "p",
+                "x": "포르투갈계 캐나다인(Portuguese-Canadian) 의사인 Leite는 AI 기업을 운영하는 “테크 브로(tech bros)”와 시민사회 사이의 지식·권력 불균형에 대해서도 경고했다. 그는 이 불균형이 건강 불평등을 키울 수 있다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그의 발언은 NHS England가 Palantir와 맺은 보건 데이터 계약을 끝내라는 압박이 커지는 가운데 나왔다. 이 미국(US) 기업은 2023년 계약을 따낸 뒤 NHS의 연합 데이터 플랫폼을 운영해 왔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "患者データの販売は裏切り\nAI専門家が警鐘",
+          "body": "HealthAIのLeite CEOは、各国政府に患者データの売買をしないよう求めた。",
+          "mini_headline": "患者データは売り物ではない",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "患者データを売る政府は国民の「信頼を裏切っている」と、医療AIの第一人者が述べた。"
+              },
+              {
+                "t": "p",
+                "x": "今月初めにEuropean Health Forum Gasteinで講演したHealthAIの最高経営責任者Ricardo Baptista Leite氏は、政府に対し患者データを売買しないよう、またそうする政府を非難するよう求めた。HealthAIは、医療におけるAIの安全で責任ある、規制されたかたちでの利用の促進に取り組む非営利団体である。"
+              },
+              {
+                "t": "p",
+                "x": "ポルトガル系カナダ人（Portuguese-Canadian）の医師であるLeite氏は、AI企業を率いる「tech bros（テック・ブロ）」と市民社会との間にある知識と権力の不均衡にも警鐘を鳴らした。この不均衡は健康格差の拡大につながりかねないという。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、NHS EnglandにPalantirとの保健データ契約を打ち切るよう求める圧力が強まるなかで出た。この米国（US）企業は2023年に契約を獲得して以来、NHSの連合型データプラットフォームを担っている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "出售患者数据是背叛\n一位AI专家直言",
+          "body": "HealthAI CEO Leite敦促各国政府不要买卖患者数据，并警示AI权力失衡。",
+          "mini_headline": "患者数据不应出售",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "一位医疗AI领域的权威专家表示，任何出售患者数据的政府，都是在“背叛”本国民众的“信任”。"
+              },
+              {
+                "t": "p",
+                "x": "本月早些时候，HealthAI首席执行官Ricardo Baptista Leite在European Health Forum Gastein上发言，敦促各国政府不要买卖患者数据，并谴责这样做的政府。HealthAI是一家致力于推动在医疗领域安全、负责任且受监管地使用AI的非营利组织。"
+              },
+              {
+                "t": "p",
+                "x": "身为葡萄牙裔加拿大籍（Portuguese-Canadian）医生的Leite还警告，经营AI公司的“tech bros（科技兄弟）”与公民社会之间存在知识和权力失衡，他认为这种失衡可能加剧健康不平等。"
+              },
+              {
+                "t": "p",
+                "x": "他发表上述言论之际，要求NHS England终止与Palantir健康数据合同的压力不断加大。这家美国（US）公司自2023年赢得合同以来，一直负责NHS的联邦式数据平台。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Vender datos de pacientes es\nuna traición, dice experto en AI",
+          "body": "El CEO de HealthAI, Ricardo Baptista Leite, pidió a los gobiernos no comprar ni vender datos de pacientes.",
+          "mini_headline": "Datos de pacientes, no en venta",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Cualquier gobierno que venda datos de pacientes está “traicionando la confianza” de su población, afirmó un destacado experto en AI aplicada a la salud."
+              },
+              {
+                "t": "p",
+                "x": "En su intervención en el European Health Forum Gastein a principios de este mes, Ricardo Baptista Leite, director ejecutivo de HealthAI —una organización sin ánimo de lucro dedicada a promover el uso seguro, responsable y regulado de la AI en la atención sanitaria—, instó a los gobiernos a no comprar ni vender datos de pacientes y a condenar a quienes lo hagan."
+              },
+              {
+                "t": "p",
+                "x": "Leite, médico portugués-canadiense (Portuguese-Canadian), advirtió también de un desequilibrio de conocimiento y de poder entre los “tech bros” que dirigen las empresas de AI y la sociedad civil, un desequilibrio que, según dijo, podría agravar las desigualdades en salud."
+              },
+              {
+                "t": "p",
+                "x": "Sus comentarios llegan en un momento de creciente presión sobre NHS England para que ponga fin a su contrato de datos de salud con Palantir. La empresa estadounidense (US) gestiona la plataforma federada de datos del NHS desde que obtuvo el contrato en 2023."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "medicine-claude-genome-ashley-standards",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Claude가 30분 만에\n약 $5로 게놈을 읽었다",
+      "body": "Stanford의 Ashley는 AI 게놈 해석에 의료급 기준이 필요하다고 본다.",
+      "mini_headline": "$5짜리 AI 게놈 해석",
+      "tool": "Medicine",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -563,149 +995,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+            "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
           },
           {
             "t": "p",
-            "x": "Academic Radiology에 실린 FDA의 AI-enabled 의료기기 데이터베이스 신규 분석을 보면 이 기술의 규제상 위치가 어떻게 바뀌어 왔는지 자세히 드러난다. Columbia University Irving Medical Center의 Stella K. Kang, MD와 동료들은 2025년 12월까지 허가된 영상의학 AI 기기 1,094개의 특성을 분석했다."
+            "x": "Stanford 내과 학과장 Euan Ashley가 자신의 전체 게놈 분석을 Claude에게 맡겼다. 기준으로 삼은 건 2009년 30명 규모의 팀이 1년 가까이 Stephen Quake의 게놈을 해석할 때 쓴 프레임워크다."
           },
           {
             "t": "p",
-            "x": "연구 기간에 연간 허가 건수는 42% 늘었지만 기능별 구성은 비교적 안정적이었다. 영상 관리·처리 시스템이 38%, 영상 장비가 33%, 판독용 AI 도구가 23%를 차지했다. Multi-finding 기기는 4%에서 18%로 늘었다."
+            "x": "10년 묵은 게놈 파일인데도 Claude는 주요 소견 상당수를 다시 짚어 냈다. 알츠하이머 위험과 연관된 APOE ε4 변이 두 카피, 희귀 유전 질환과 연관된 주요 변이가 없다는 사실, 약물 반응에 영향을 주는 DPYD·CYP2C19 변이가 그렇다. 이 파일로는 믿을 만한 위험 점수를 낼 데이터가 모자란다는 경고도 Claude가 내놓았다. 작업에 든 토큰은 약 400,000개, 비용은 약 $5였다. 30분 가운데 대부분은 데이터베이스 로딩을 기다리며 보냈다."
           },
           {
             "t": "p",
-            "x": "FDA 심사 기간 중앙값은 OEM 기기가 118일로 non-OEM 기기의 138일보다 짧았다. 사전 변경 관리 계획 허가 비율은 2020–2023년 1%에 조금 못 미치던 수준에서 2025년 9% 가까이로 올랐다. 일부 소프트웨어 수정을 기존 규제 틀 안에서 관리할 수 있다는 신호다."
+            "x": "소비자가 Claude나 ChatGPT 같은 시스템에 게놈을 올리는 지금, 의료급 게놈 해석이 무엇을 담아야 하는지 기준이 있어야 한다는 게 Ashley의 주장이다. 그가 꼽은 것은 잘 규명된 참조 게놈, 염기서열 분석이 까다로운 의학적 중요 유전자 목록, 그리고 검사 기관과 AI 개발사가 자기 시스템이 무엇을 안정적으로 잡아내는지 공개하는 일이다. “그러나 오늘날 희소한 것은 신뢰성일지도 모른다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Yearly radiology AI\nauthorizations up 42%",
-          "body": "A review of 1,094 FDA-authorized radiology AI devices finds annual authorizations rose 42% over the study period.",
-          "mini_headline": "Radiology AI authorizations up 42%",
+          "headline": "Claude read a genome in\n30 minutes for about $5",
+          "body": "Stanford's Euan Ashley, who had Claude analyze his genome, says AI genome reads now need medical-grade standards.",
+          "mini_headline": "A $5 AI genome read",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "A new analysis of the FDA’s AI-enabled medical device database, published in Academic Radiology, details how the technology’s regulatory standing has evolved. Stella K. Kang, MD, of Columbia University Irving Medical Center and colleagues characterized 1,094 radiology AI devices authorized through December 2025."
+                "x": "Euan Ashley, chair of the Department of Medicine at Stanford, sat down with Claude and asked it to analyze his entire genome, following the framework a 30-person team used in 2009 to interpret Stephen Quake's genome over nearly a year."
               },
               {
                 "t": "p",
-                "x": "Annual authorizations increased by 42% during the timeframe studied, though the functional makeup stayed relatively stable: image management and processing systems made up 38% of devices, imaging systems 33% and interpretive AI tools 23%. Multi-finding devices rose from 4% to 18%."
+                "x": "Despite a decade-old genome file, Claude re-identified many key findings, including two copies of the APOE ε4 variant linked to Alzheimer's risk, no major variant for a rare inherited disorder, and DPYD and CYP2C19 variants affecting drug response. It warned the file lacked enough data for reliable risk scores. The interaction used around 400,000 tokens and cost approximately $5; most of the half-hour was spent waiting for databases to load."
               },
               {
                 "t": "p",
-                "x": "Median FDA review time was shorter for OEM devices than non-OEM ones, 118 versus 138 days. Predetermined change control plan authorization rose from just under 1% in 2020–2023 to nearly 9% in 2025, a sign that some software modifications can be managed within an existing regulatory framework."
+                "x": "Ashley argues that as consumers upload genomes into systems such as Claude or ChatGPT, the field needs standards for what a medical-grade genomic interpretation should include: well-characterized reference genomes, a catalog of hard-to-sequence medically significant genes, and disclosures from labs and AI developers on what their systems detect reliably. “Today, however, what’s scarce may be reliability.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "영상의학 AI 연간\n허가 42% 증가",
-          "body": "FDA-authorized 영상 AI는 1,094건이고 연간 허가는 42% 늘었다.",
-          "mini_headline": "영상의학 AI 허가 42% 증가",
+          "headline": "Claude가 30분 만에\n약 $5로 게놈을 읽었다",
+          "body": "Stanford의 Ashley는 AI 게놈 해석에 의료급 기준이 필요하다고 본다.",
+          "mini_headline": "$5짜리 AI 게놈 해석",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Academic Radiology에 실린 FDA의 AI-enabled 의료기기 데이터베이스 신규 분석을 보면 이 기술의 규제상 위치가 어떻게 바뀌어 왔는지 자세히 드러난다. Columbia University Irving Medical Center의 Stella K. Kang, MD와 동료들은 2025년 12월까지 허가된 영상의학 AI 기기 1,094개의 특성을 분석했다."
+                "x": "Stanford 내과 학과장 Euan Ashley가 자신의 전체 게놈 분석을 Claude에게 맡겼다. 기준으로 삼은 건 2009년 30명 규모의 팀이 1년 가까이 Stephen Quake의 게놈을 해석할 때 쓴 프레임워크다."
               },
               {
                 "t": "p",
-                "x": "연구 기간에 연간 허가 건수는 42% 늘었지만 기능별 구성은 비교적 안정적이었다. 영상 관리·처리 시스템이 38%, 영상 장비가 33%, 판독용 AI 도구가 23%를 차지했다. Multi-finding 기기는 4%에서 18%로 늘었다."
+                "x": "10년 묵은 게놈 파일인데도 Claude는 주요 소견 상당수를 다시 짚어 냈다. 알츠하이머 위험과 연관된 APOE ε4 변이 두 카피, 희귀 유전 질환과 연관된 주요 변이가 없다는 사실, 약물 반응에 영향을 주는 DPYD·CYP2C19 변이가 그렇다. 이 파일로는 믿을 만한 위험 점수를 낼 데이터가 모자란다는 경고도 Claude가 내놓았다. 작업에 든 토큰은 약 400,000개, 비용은 약 $5였다. 30분 가운데 대부분은 데이터베이스 로딩을 기다리며 보냈다."
               },
               {
                 "t": "p",
-                "x": "FDA 심사 기간 중앙값은 OEM 기기가 118일로 non-OEM 기기의 138일보다 짧았다. 사전 변경 관리 계획 허가 비율은 2020–2023년 1%에 조금 못 미치던 수준에서 2025년 9% 가까이로 올랐다. 일부 소프트웨어 수정을 기존 규제 틀 안에서 관리할 수 있다는 신호다."
+                "x": "소비자가 Claude나 ChatGPT 같은 시스템에 게놈을 올리는 지금, 의료급 게놈 해석이 무엇을 담아야 하는지 기준이 있어야 한다는 게 Ashley의 주장이다. 그가 꼽은 것은 잘 규명된 참조 게놈, 염기서열 분석이 까다로운 의학적 중요 유전자 목록, 그리고 검사 기관과 AI 개발사가 자기 시스템이 무엇을 안정적으로 잡아내는지 공개하는 일이다. “그러나 오늘날 희소한 것은 신뢰성일지도 모른다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "放射線AIの年間\n承認が42%増",
-          "body": "FDA-authorizedの放射線AI機器1,094件を調べると年間承認は42%増えた。",
-          "mini_headline": "放射線AIの承認が42%増",
+          "headline": "Claudeがゲノムを\n30分・約$5で解読",
+          "body": "StanfordのAshley氏は、AIによるゲノム解読には医療級の基準が必要だと説く。",
+          "mini_headline": "$5のAIゲノム解読",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Academic Radiologyに掲載された、FDAのAI-enabled医療機器データベースの新たな分析は、この技術の規制上の位置づけがどう変わってきたかを詳しく示している。Columbia University Irving Medical CenterのStella K. Kang, MDらは、2025年12月までに承認された放射線科AI機器1,094件の特徴を分析した。"
+                "x": "Stanford大学内科学部門の主任を務めるEuan Ashley氏は、Claudeに自身の全ゲノムの解析を依頼した。手本としたのは、2009年に30人のチームが1年近くかけてStephen Quake氏のゲノムを解釈した際の枠組みである。"
               },
               {
                 "t": "p",
-                "x": "調査期間中に年間承認数は42%増えたが、機能別の構成は比較的安定していた。画像管理・処理システムが38%、画像診断装置が33%、読影AIツールが23%を占めた。Multi-finding機器は4%から18%に増えた。"
+                "x": "10年前のゲノムファイルにもかかわらず、Claudeは多くの重要な所見を再び特定した。アルツハイマー病リスクに関連するAPOE ε4変異を2コピー持つこと、まれな遺伝性疾患の主要な変異がないこと、薬物応答に影響するDPYDとCYP2C19の変異などである。信頼できるリスクスコアを出すにはファイルのデータが不十分だとも警告した。やり取りに使われたのは約400,000トークンで、費用は約$5だった。30分の大半はデータベースの読み込み待ちに費やされた。"
               },
               {
                 "t": "p",
-                "x": "FDAの審査期間の中央値は、OEM機器が118日、non-OEM機器が138日とOEM機器のほうが短かった。事前変更管理計画の承認は2020–2023年の1%弱から2025年には9%近くに上昇しており、一部のソフトウェア変更を既存の規制枠組みの中で管理できることを示している。"
+                "x": "Ashley氏は、消費者がClaudeやChatGPTのようなシステムにゲノムをアップロードするようになるなか、医療グレードのゲノム解釈に何を含めるべきかの基準が必要だと主張する。よく特性評価された参照ゲノム、配列決定が難しい医学的に重要な遺伝子のカタログ、そして検査機関とAI開発者による、自社システムが確実に検出できる範囲の開示である。「しかし今日、希少なのは信頼性なのかもしれない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "放射学AI年度获批\n数量增长42%",
-          "body": "对1,094款FDA-authorized放射学AI设备的分析显示，年度获批增长42%。",
-          "mini_headline": "放射学AI获批量增长42%",
+          "headline": "Claude用30分钟\n约$5读完一个基因组",
+          "body": "让Claude分析基因组的Stanford学者Ashley称，AI基因组解读需医疗级标准。",
+          "mini_headline": "$5的AI基因组解读",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "发表在Academic Radiology上的一项新分析梳理了FDA的AI-enabled医疗器械数据库，详细说明了这项技术的监管地位如何演变。Columbia University Irving Medical Center的Stella K. Kang, MD及其同事对截至2025年12月获批的1,094款放射学AI设备进行了特征分析。"
+                "x": "Stanford医学系主任Euan Ashley让Claude分析他的完整基因组，所依循的是2009年一支30人团队花近一年解读Stephen Quake基因组时使用的框架。"
               },
               {
                 "t": "p",
-                "x": "在研究期间，年度获批数量增长了42%，但功能构成相对稳定：图像管理与处理系统占38%，成像系统占33%，解读型AI工具占23%。Multi-finding设备从4%升至18%。"
+                "x": "尽管基因组文件已有十年之久，Claude仍重新识别出许多关键发现，包括与阿尔茨海默病风险相关的两个APOE ε4变异拷贝、未发现罕见遗传病的主要变异，以及影响药物反应的DPYD和CYP2C19变异。它还提醒，该文件的数据不足以得出可靠的风险评分。这次交互用了约400,000个token，花费约$5；这半小时的大部分时间都在等待数据库加载。"
               },
               {
                 "t": "p",
-                "x": "OEM设备的FDA审评时间中位数短于non-OEM设备，分别为118天和138天。预定变更控制计划的获批比例从2020–2023年的略低于1%升至2025年的近9%，表明部分软件修改可以在现有监管框架内管理。"
+                "x": "Ashley认为，随着消费者把基因组上传到Claude或ChatGPT等系统，该领域需要制定标准，明确医疗级基因组解读应包含哪些内容：经过充分表征的参考基因组、难以测序但具有医学意义的基因目录，以及检测机构和AI开发者对其系统能可靠检测哪些内容的披露。“不过如今，稀缺的或许是可靠性。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autorizaciones anuales de AI\nen radiología suben un 42%",
-          "body": "Un estudio de 1,094 dispositivos FDA-authorized de AI radiológica halla que las autorizaciones anuales subieron un 42%.",
-          "mini_headline": "Las autorizaciones de AI en radiología suben un 42%",
+          "headline": "Claude leyó un genoma en\n30 minutos por unos $5",
+          "body": "Euan Ashley, de Stanford, analizó su genoma con Claude y pide estándares de grado médico para leer genomas con AI.",
+          "mini_headline": "Lectura genómica con AI por $5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Un nuevo análisis de la base de datos de dispositivos médicos AI-enabled de la FDA, publicado en Academic Radiology, detalla cómo ha evolucionado la situación regulatoria de esta tecnología. Stella K. Kang, MD, del Columbia University Irving Medical Center, y sus colegas caracterizaron 1,094 dispositivos de AI en radiología autorizados hasta diciembre de 2025."
+                "x": "Euan Ashley, jefe del Departamento de Medicina de Stanford, se sentó con Claude y le pidió analizar su genoma completo, siguiendo el marco que un equipo de 30 personas utilizó en 2009 para interpretar el genoma de Stephen Quake durante casi un año."
               },
               {
                 "t": "p",
-                "x": "Las autorizaciones anuales aumentaron un 42% durante el periodo estudiado, aunque la composición funcional se mantuvo relativamente estable: los sistemas de gestión y procesamiento de imágenes representaron el 38% de los dispositivos, los sistemas de imagen el 33% y las herramientas de AI interpretativa el 23%. Los dispositivos Multi-finding pasaron del 4% al 18%."
+                "x": "Pese a tratarse de un archivo genómico de hace una década, Claude volvió a identificar muchos hallazgos clave, entre ellos dos copias de la variante APOE ε4 vinculada al riesgo de Alzheimer, la ausencia de variantes importantes de un trastorno hereditario raro y variantes de DPYD y CYP2C19 que afectan a la respuesta a fármacos. Advirtió de que el archivo carecía de datos suficientes para obtener puntuaciones de riesgo fiables. La interacción consumió unos 400,000 tokens y costó aproximadamente $5; la mayor parte de la media hora se dedicó a esperar a que se cargaran las bases de datos."
               },
               {
                 "t": "p",
-                "x": "La mediana del tiempo de revisión de la FDA fue menor para los dispositivos OEM que para los non-OEM: 118 frente a 138 días. La autorización con plan de control de cambios predeterminado pasó de poco menos del 1% en 2020–2023 a casi el 9% en 2025, señal de que algunas modificaciones de software pueden gestionarse dentro de un marco regulatorio existente."
+                "x": "Ashley sostiene que, a medida que los consumidores suben sus genomas a sistemas como Claude o ChatGPT, el campo necesita estándares sobre lo que debe incluir una interpretación genómica de grado médico: genomas de referencia bien caracterizados, un catálogo de genes médicamente relevantes difíciles de secuenciar y que laboratorios y desarrolladores de AI informen de lo que sus sistemas detectan con fiabilidad. “Hoy, sin embargo, lo escaso puede ser la fiabilidad”."
               }
             ]
           }
@@ -713,105 +1145,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "영상의학 AI 연간\n허가 42% 증가",
-          "body": "FDA-authorized 영상 AI는 1,094건이며 연 허가는 42% 늘었다.",
-          "mini_headline": "영상의학 AI 허가 42% 증가",
+          "headline": "Claude가 30분 만에\n약 $5로 게놈을 읽었다",
+          "body": "Stanford의 Ashley는 AI 게놈 해석에 의료급 기준이 필요하다고 본다.",
+          "mini_headline": "$5짜리 AI 게놈 해석",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Academic Radiology에 실린 FDA의 AI-enabled 의료기기 데이터베이스 신규 분석은 이 기술의 규제상 위치가 어떻게 바뀌어 왔는지를 자세히 보여준다. Columbia University Irving Medical Center의 Stella K. Kang, MD와 동료들은 2025년 12월까지 허가된 영상의학 AI 기기 1,094개의 특성을 분석했다."
+                "x": "Stanford 내과 학과장 Euan Ashley는 Claude에게 자신의 전체 게놈 분석을 맡겼다. 2009년 30명 규모의 팀이 1년 가까이 Stephen Quake의 게놈을 해석할 때 쓴 프레임워크를 따랐다."
               },
               {
                 "t": "p",
-                "x": "연구 기간 동안 연간 허가 건수는 42% 늘었지만 기능별 구성은 비교적 안정적이었다. 영상 관리·처리 시스템이 38%, 영상 장비가 33%, 판독용 AI 도구가 23%를 차지했다. Multi-finding 기기는 4%에서 18%로 늘었다."
+                "x": "10년 된 게놈 파일이었는데도 Claude는 주요 소견을 다수 다시 찾아냈다. 알츠하이머 위험과 관련된 APOE ε4 변이 두 카피, 희귀 유전 질환과 관련된 주요 변이가 없다는 점, 약물 반응에 영향을 주는 DPYD·CYP2C19 변이가 그 예다. Claude는 이 파일에 신뢰할 만한 위험 점수를 낼 데이터가 부족하다고 경고하기도 했다. 이 작업에는 약 400,000 토큰이 쓰였고 비용은 약 $5였다. 30분 중 대부분은 데이터베이스 로딩을 기다리는 데 들었다."
               },
               {
                 "t": "p",
-                "x": "FDA 심사 기간 중앙값은 OEM 기기가 non-OEM 기기보다 짧아 118일 대 138일이었다. 사전 변경 관리 계획 허가 비율은 2020–2023년 1%에 조금 못 미치던 수준에서 2025년 9% 가까이로 올랐는데, 이는 일부 소프트웨어 수정을 기존 규제 틀 안에서 관리할 수 있다는 신호다."
+                "x": "Ashley는 소비자들이 Claude나 ChatGPT 같은 시스템에 게놈을 올리는 지금, 의료급 게놈 해석에 무엇이 포함돼야 하는지 기준이 필요하다고 주장한다. 잘 규명된 참조 게놈, 염기서열 분석이 어려운 의학적 중요 유전자 목록, 그리고 검사 기관과 AI 개발사가 자사 시스템이 무엇을 안정적으로 탐지하는지 공개하는 일이다. “그러나 오늘날 희소한 것은 신뢰성일지도 모른다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "放射線AIの年間\n承認が42%増",
-          "body": "FDA-authorizedの放射線AI機器1,094件を調べると年間承認は42%増えた。",
-          "mini_headline": "放射線AIの承認が42%増",
+          "headline": "Claudeがゲノムを\n30分・約$5で解読",
+          "body": "StanfordのAshley氏は、AIによるゲノム解読には医療級の基準が必要だと説く。",
+          "mini_headline": "$5のAIゲノム解読",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Academic Radiologyに掲載された、FDAのAI-enabled医療機器データベースの新たな分析は、この技術の規制上の位置づけがどう変わってきたかを詳しく示している。Columbia University Irving Medical CenterのStella K. Kang, MDらは、2025年12月までに承認された放射線科AI機器1,094件の特徴を分析した。"
+                "x": "Stanford大学内科学部門の主任を務めるEuan Ashley氏は、Claudeに自身の全ゲノムの解析を依頼した。手本としたのは、2009年に30人のチームが1年近くかけてStephen Quake氏のゲノムを解釈した際の枠組みである。"
               },
               {
                 "t": "p",
-                "x": "調査期間中に年間承認数は42%増えたが、機能別の構成は比較的安定していた。画像管理・処理システムが38%、画像診断装置が33%、読影AIツールが23%を占めた。Multi-finding機器は4%から18%に増えた。"
+                "x": "10年前のゲノムファイルにもかかわらず、Claudeは多くの重要な所見を再び特定した。アルツハイマー病リスクに関連するAPOE ε4変異を2コピー持つこと、まれな遺伝性疾患の主要な変異がないこと、薬物応答に影響するDPYDとCYP2C19の変異などである。信頼できるリスクスコアを出すにはファイルのデータが不十分だとも警告した。やり取りに使われたのは約400,000トークンで、費用は約$5だった。30分の大半はデータベースの読み込み待ちに費やされた。"
               },
               {
                 "t": "p",
-                "x": "FDAの審査期間の中央値は、OEM機器が118日、non-OEM機器が138日とOEM機器のほうが短かった。事前変更管理計画の承認は2020–2023年の1%弱から2025年には9%近くに上昇しており、一部のソフトウェア変更を既存の規制枠組みの中で管理できることを示している。"
+                "x": "Ashley氏は、消費者がClaudeやChatGPTのようなシステムにゲノムをアップロードするようになるなか、医療グレードのゲノム解釈に何を含めるべきかの基準が必要だと主張する。よく特性評価された参照ゲノム、配列決定が難しい医学的に重要な遺伝子のカタログ、そして検査機関とAI開発者による、自社システムが確実に検出できる範囲の開示である。「しかし今日、希少なのは信頼性なのかもしれない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "放射学AI年度获批\n数量增长42%",
-          "body": "对1,094款FDA-authorized放射学AI设备的分析显示，年度获批增长42%。",
-          "mini_headline": "放射学AI获批量增长42%",
+          "headline": "Claude用30分钟\n约$5读完一个基因组",
+          "body": "让Claude分析基因组的Stanford学者Ashley称，AI基因组解读需医疗级标准。",
+          "mini_headline": "$5的AI基因组解读",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "发表在Academic Radiology上的一项新分析梳理了FDA的AI-enabled医疗器械数据库，详细说明了这项技术的监管地位如何演变。Columbia University Irving Medical Center的Stella K. Kang, MD及其同事对截至2025年12月获批的1,094款放射学AI设备进行了特征分析。"
+                "x": "Stanford医学系主任Euan Ashley让Claude分析他的完整基因组，所依循的是2009年一支30人团队花近一年解读Stephen Quake基因组时使用的框架。"
               },
               {
                 "t": "p",
-                "x": "在研究期间，年度获批数量增长了42%，但功能构成相对稳定：图像管理与处理系统占38%，成像系统占33%，解读型AI工具占23%。Multi-finding设备从4%升至18%。"
+                "x": "尽管基因组文件已有十年之久，Claude仍重新识别出许多关键发现，包括与阿尔茨海默病风险相关的两个APOE ε4变异拷贝、未发现罕见遗传病的主要变异，以及影响药物反应的DPYD和CYP2C19变异。它还提醒，该文件的数据不足以得出可靠的风险评分。这次交互用了约400,000个token，花费约$5；这半小时的大部分时间都在等待数据库加载。"
               },
               {
                 "t": "p",
-                "x": "OEM设备的FDA审评时间中位数短于non-OEM设备，分别为118天和138天。预定变更控制计划的获批比例从2020–2023年的略低于1%升至2025年的近9%，表明部分软件修改可以在现有监管框架内管理。"
+                "x": "Ashley认为，随着消费者把基因组上传到Claude或ChatGPT等系统，该领域需要制定标准，明确医疗级基因组解读应包含哪些内容：经过充分表征的参考基因组、难以测序但具有医学意义的基因目录，以及检测机构和AI开发者对其系统能可靠检测哪些内容的披露。“不过如今，稀缺的或许是可靠性。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autorizaciones anuales de AI\nen radiología suben un 42%",
-          "body": "Un estudio de 1,094 dispositivos FDA-authorized de AI radiológica halla que las autorizaciones anuales subieron un 42%.",
-          "mini_headline": "Las autorizaciones de AI en radiología suben un 42%",
+          "headline": "Claude leyó un genoma en\n30 minutos por unos $5",
+          "body": "Euan Ashley, de Stanford, analizó su genoma con Claude y pide estándares de grado médico para leer genomas con AI.",
+          "mini_headline": "Lectura genómica con AI por $5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-09/ai_overload.jpg?h=4462e40b&itok=2CdSRsu0"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Un nuevo análisis de la base de datos de dispositivos médicos AI-enabled de la FDA, publicado en Academic Radiology, detalla cómo ha evolucionado la situación regulatoria de esta tecnología. Stella K. Kang, MD, del Columbia University Irving Medical Center, y sus colegas caracterizaron 1,094 dispositivos de AI en radiología autorizados hasta diciembre de 2025."
+                "x": "Euan Ashley, jefe del Departamento de Medicina de Stanford, se sentó con Claude y le pidió analizar su genoma completo, siguiendo el marco que un equipo de 30 personas utilizó en 2009 para interpretar el genoma de Stephen Quake durante casi un año."
               },
               {
                 "t": "p",
-                "x": "Las autorizaciones anuales aumentaron un 42% durante el periodo estudiado, aunque la composición funcional se mantuvo relativamente estable: los sistemas de gestión y procesamiento de imágenes representaron el 38% de los dispositivos, los sistemas de imagen el 33% y las herramientas de AI interpretativa el 23%. Los dispositivos Multi-finding pasaron del 4% al 18%."
+                "x": "Pese a tratarse de un archivo genómico de hace una década, Claude volvió a identificar muchos hallazgos clave, entre ellos dos copias de la variante APOE ε4 vinculada al riesgo de Alzheimer, la ausencia de variantes importantes de un trastorno hereditario raro y variantes de DPYD y CYP2C19 que afectan a la respuesta a fármacos. Advirtió de que el archivo carecía de datos suficientes para obtener puntuaciones de riesgo fiables. La interacción consumió unos 400,000 tokens y costó aproximadamente $5; la mayor parte de la media hora se dedicó a esperar a que se cargaran las bases de datos."
               },
               {
                 "t": "p",
-                "x": "La mediana del tiempo de revisión de la FDA fue menor para los dispositivos OEM que para los non-OEM: 118 frente a 138 días. La autorización con plan de control de cambios predeterminado pasó de poco menos del 1% en 2020–2023 a casi el 9% en 2025, señal de que algunas modificaciones de software pueden gestionarse dentro de un marco regulatorio existente."
+                "x": "Ashley sostiene que, a medida que los consumidores suben sus genomas a sistemas como Claude o ChatGPT, el campo necesita estándares sobre lo que debe incluir una interpretación genómica de grado médico: genomas de referencia bien caracterizados, un catálogo de genes médicamente relevantes difíciles de secuenciar y que laboratorios y desarrolladores de AI informen de lo que sus sistemas detectan con fiabilidad. “Hoy, sin embargo, lo escaso puede ser la fiabilidad”."
               }
             ]
           }
@@ -819,413 +1251,171 @@
       }
     },
     {
-      "id": "hhs-arpa-h-ai-clinical-trials",
+      "id": "medicine-patient-ai-privacy-survey-dive",
       "source_lang": "en",
-      "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "HHS, AI로\n임상시험 가속·확대",
-      "body": "HHS가 ARPA-H로 AI 기반 임상시험 가속 사업 SURPASS를 공개했다.",
-      "mini_headline": "HHS, 임상시험에 AI를 건다",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-          },
-          {
-            "t": "p",
-            "x": "보건복지부(HHS)가 임상시험 속도를 높일 새 계획들을 발표했다. 인공지능과 계산 모델을 더 많이 들이고, 뚜렷하게 나뉜 임상시험 단계에서 벗어나겠다는 내용이다. U.S. 당국자들이 중국 등 다른 나라와 경쟁에 나선 가운데 나온 조치다."
-          },
-          {
-            "t": "p",
-            "x": "핵심 프로그램 SURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)는 다섯 해 동안 이어지며, 올가을 늦게 “통계, AI, 임상시험 설계·운영·규제 분야의 학제 간 팀이 내놓는 획기적인 아이디어”를 받으며 출범한다."
-          },
-          {
-            "t": "p",
-            "x": "HHS는 Advanced Research Projects Agency for Health(ARPA-H)를 거쳐 이 프로그램을 시작한다. 다만 첫 발표에는 배정된 예산 규모도, 참가자가 유연성이나 자원을 더 얻게 될지도 빠져 있었다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "HHS turns to AI to speed\nand expand clinical trials",
-          "body": "HHS, via ARPA-H, unveiled SURPASS, a five-year program using AI and simulation to speed up clinical trials.",
-          "mini_headline": "HHS bets on AI for trials",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "The Department of Health and Human Services announced a set of new initiatives aimed at speeding up clinical trials by incorporating more artificial intelligence and computational models and moving away from sharply delineated trial phases, as U.S. officials work to compete with China and other countries."
-              },
-              {
-                "t": "p",
-                "x": "The centerpiece five-year program, dubbed SURPASS — “Simulation-augmented, Real-time Platform Adaptive Seamless Trials” — will kick off later this fall by accepting “ground-breaking ideas from cross-disciplinary teams in statistics, AI, and clinical trial design, operations, and regulation.”"
-              },
-              {
-                "t": "p",
-                "x": "HHS is launching the program through the Advanced Research Projects Agency for Health. The initial announcement did not note how much funding was designated, nor whether participants would be offered more flexibility or resources."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "HHS, AI로\n임상시험 가속·확대",
-          "body": "HHS가 ARPA-H로 AI 기반 임상시험 가속 사업 SURPASS를 공개했다.",
-          "mini_headline": "HHS, 임상시험에 AI를 건다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "보건복지부(HHS)가 임상시험 속도를 높일 새 계획들을 발표했다. 인공지능과 계산 모델을 더 많이 들이고, 뚜렷하게 나뉜 임상시험 단계에서 벗어나겠다는 내용이다. U.S. 당국자들이 중국 등 다른 나라와 경쟁에 나선 가운데 나온 조치다."
-              },
-              {
-                "t": "p",
-                "x": "핵심 프로그램 SURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)는 다섯 해 동안 이어지며, 올가을 늦게 “통계, AI, 임상시험 설계·운영·규제 분야의 학제 간 팀이 내놓는 획기적인 아이디어”를 받으며 출범한다."
-              },
-              {
-                "t": "p",
-                "x": "HHS는 Advanced Research Projects Agency for Health(ARPA-H)를 거쳐 이 프로그램을 시작한다. 다만 첫 발표에는 배정된 예산 규모도, 참가자가 유연성이나 자원을 더 얻게 될지도 빠져 있었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "HHS、AIで臨床試験の\n迅速化と拡大へ",
-          "body": "HHSはARPA-Hを通じ、AIで臨床試験を速める五カ年計画SURPASSを発表した。",
-          "mini_headline": "HHS、臨床試験のAI活用に賭ける",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "保健福祉省(HHS)は、人工知能と計算モデルをより多く取り入れ、明確に区切られた試験フェーズから脱却することで臨床試験を加速させる一連の新たな取り組みを発表した。U.S.の当局者が中国など他国との競争に取り組むなかでの動きだ。"
-              },
-              {
-                "t": "p",
-                "x": "中核となる五カ年プログラムはSURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)と名づけられ、この秋の後半に「統計、AI、臨床試験の設計・運営・規制にわたる学際的チームによる画期的なアイデア」の受け付けから始まる。"
-              },
-              {
-                "t": "p",
-                "x": "HHSはこのプログラムをAdvanced Research Projects Agency for Health(ARPA-H)を通じて立ち上げる。最初の発表では、割り当てられた資金の額も、参加者により多くの柔軟性や資源が与えられるかどうかも示されなかった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "HHS借助AI\n加速并扩大临床试验",
-          "body": "HHS通过ARPA-H推出SURPASS，这是一项借助AI与模拟加速临床试验的五年计划。",
-          "mini_headline": "HHS押注AI临床试验",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "卫生与公众服务部宣布了一系列新举措，旨在通过更多引入人工智能和计算模型、摆脱界限分明的试验分期来加快临床试验，U.S.官员正努力与中国等国家竞争。"
-              },
-              {
-                "t": "p",
-                "x": "其中的核心项目为期五年，名为SURPASS（“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”），将于今秋晚些时候启动，征集“来自统计、AI以及临床试验设计、运营和监管领域跨学科团队的突破性想法”。"
-              },
-              {
-                "t": "p",
-                "x": "HHS通过Advanced Research Projects Agency for Health启动该项目。首份公告未说明拨付了多少资金，也未说明参与者是否会获得更多灵活性或资源。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HHS recurre a la AI para\nacelerar y ampliar los ensayos",
-          "body": "El HHS presentó, vía ARPA-H, SURPASS: un plan de cinco años con AI y simulación para acelerar ensayos clínicos.",
-          "mini_headline": "HHS apuesta por la AI en los ensayos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "El Departamento de Salud y Servicios Humanos anunció un conjunto de nuevas iniciativas destinadas a acelerar los ensayos clínicos incorporando más inteligencia artificial y modelos computacionales y alejándose de fases de ensayo claramente delimitadas, mientras los funcionarios de U.S. trabajan para competir con China y otros países."
-              },
-              {
-                "t": "p",
-                "x": "El programa central, de cinco años y denominado SURPASS —“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”—, arrancará a finales de este otoño con la recepción de “ideas innovadoras de equipos interdisciplinarios en estadística, AI y diseño, operaciones y regulación de ensayos clínicos”."
-              },
-              {
-                "t": "p",
-                "x": "El HHS pone en marcha el programa a través de la Advanced Research Projects Agency for Health. El anuncio inicial no indicó cuánta financiación se destinó ni si se ofrecería a los participantes más flexibilidad o recursos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "HHS, AI로\n임상시험 가속·확대",
-          "body": "HHS가 ARPA-H로 AI 기반 임상시험 가속 사업 SURPASS를 공개했다.",
-          "mini_headline": "HHS, 임상시험에 AI를 건다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "보건복지부(HHS)가 인공지능과 계산 모델을 더 많이 도입하고 뚜렷하게 나뉜 임상시험 단계에서 벗어나 임상시험 속도를 높이려는 일련의 새 계획을 발표했다. U.S. 당국자들이 중국 등 다른 나라와 경쟁하려는 가운데 나온 조치다."
-              },
-              {
-                "t": "p",
-                "x": "다섯 해 동안 이어질 핵심 프로그램 SURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)는 올가을 늦게 “통계, AI, 임상시험 설계·운영·규제 분야의 학제 간 팀이 내놓는 획기적인 아이디어”를 받으며 출범한다."
-              },
-              {
-                "t": "p",
-                "x": "HHS는 Advanced Research Projects Agency for Health(ARPA-H)를 통해 이 프로그램을 시작한다. 첫 발표에는 배정된 예산 규모도, 참가자에게 더 많은 유연성이나 자원이 주어질지도 담기지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "HHS、AIで臨床試験の\n迅速化と拡大へ",
-          "body": "HHSはARPA-Hを通じ、AIで臨床試験を速める五カ年計画SURPASSを発表した。",
-          "mini_headline": "HHS、臨床試験のAI活用に賭ける",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "保健福祉省(HHS)は、人工知能と計算モデルをより多く取り入れ、明確に区切られた試験フェーズから脱却することで臨床試験を加速させる一連の新たな取り組みを発表した。U.S.の当局者が中国など他国との競争に取り組むなかでの動きだ。"
-              },
-              {
-                "t": "p",
-                "x": "中核となる五カ年プログラムはSURPASS(“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”)と名づけられ、この秋の後半に「統計、AI、臨床試験の設計・運営・規制にわたる学際的チームによる画期的なアイデア」の受け付けから始まる。"
-              },
-              {
-                "t": "p",
-                "x": "HHSはこのプログラムをAdvanced Research Projects Agency for Health(ARPA-H)を通じて立ち上げる。最初の発表では、割り当てられた資金の額も、参加者により多くの柔軟性や資源が与えられるかどうかも示されなかった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "HHS借助AI\n加速并扩大临床试验",
-          "body": "HHS通过ARPA-H推出SURPASS，这是一项借助AI与模拟加速临床试验的五年计划。",
-          "mini_headline": "HHS押注AI临床试验",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "卫生与公众服务部宣布了一系列新举措，旨在通过更多引入人工智能和计算模型、摆脱界限分明的试验分期来加快临床试验，U.S.官员正努力与中国等国家竞争。"
-              },
-              {
-                "t": "p",
-                "x": "其中的核心项目为期五年，名为SURPASS（“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”），将于今秋晚些时候启动，征集“来自统计、AI以及临床试验设计、运营和监管领域跨学科团队的突破性想法”。"
-              },
-              {
-                "t": "p",
-                "x": "HHS通过Advanced Research Projects Agency for Health启动该项目。首份公告未说明拨付了多少资金，也未说明参与者是否会获得更多灵活性或资源。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HHS recurre a la AI para\nacelerar y ampliar los ensayos",
-          "body": "El HHS presentó, vía ARPA-H, SURPASS: un plan de cinco años con AI y simulación para acelerar ensayos clínicos.",
-          "mini_headline": "HHS apuesta por la AI en los ensayos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2095644822-1024x576.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "El Departamento de Salud y Servicios Humanos anunció un conjunto de nuevas iniciativas destinadas a acelerar los ensayos clínicos incorporando más inteligencia artificial y modelos computacionales y alejándose de fases de ensayo claramente delimitadas, mientras los funcionarios de U.S. trabajan para competir con China y otros países."
-              },
-              {
-                "t": "p",
-                "x": "El programa central, de cinco años y denominado SURPASS —“Simulation-augmented, Real-time Platform Adaptive Seamless Trials”—, arrancará a finales de este otoño con la recepción de “ideas innovadoras de equipos interdisciplinarios en estadística, AI y diseño, operaciones y regulación de ensayos clínicos”."
-              },
-              {
-                "t": "p",
-                "x": "El HHS pone en marcha el programa a través de la Advanced Research Projects Agency for Health. El anuncio inicial no indicó cuánta financiación se destinó ni si se ofrecería a los participantes más flexibilidad o recursos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gottlieb-clinical-ai-ldt-pathway",
-      "source_lang": "en",
+      "headline": "개인정보 우려에 의료 AI\n환자 이용 늦어질 수도",
+      "body": "Wolters Kluwer 조사 결과 환자 70% 이상이 건강정보 보호를 걱정했다.",
+      "mini_headline": "개인정보 우려에 막힌 AI",
       "tool": "Medicine",
-      "eyebrow": "AI NEWS",
-      "headline": "검사실 검사에서 찾은\n임상 AI 규제 선례",
-      "body": "Scott Gottlieb은 임상 AI를 만드는 병원을 FDA가 인증하자고 한다.",
-      "mini_headline": "검사실 검사처럼 임상 AI 규제",
-      "source": "JAMA Health Forum",
-      "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/10.1001/jamahealthforum.2026.4704",
+      "source": "Healthcare Dive",
+      "url": "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "전 FDA 국장 Scott Gottlieb은 임상 AI가 검사실 개발 검사가 밟은 길을 따르고 있다고 주장한다. Duke Health, Johns Hopkins, NYU Langone 같은 학술 의료기관은 자체 모델을 만들어 대부분 FDA 의료기기 감독 밖에서 쓴다. 실험에는 도움이 되지만 쓸 만한 도구가 퍼지는 걸 막을 수 있고, 상업 개발사에 불리한 이중 시장도 생긴다."
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+            "cap": "Getty Images"
           },
           {
             "t": "p",
-            "x": "그가 인용한 전국 조사에 따르면 US 병원의 65%가 AI 모델을 쓰지만, 예측 모델을 쓰는 병원 가운데 편향을 평가한 곳은 44%에 그쳤다."
+            "x": "AI는 미국인의 삶에 빠르게 파고들었다. Wolters Kluwer 의뢰로 Ipsos가 3월에 U.S. 환자 254명을 조사해 보니 응답자의 40%가 하루 한 번 이상 AI를 쓴다고 답했다. 약 4명 중 1명은 AI로 증상이나 질환을 알아본 뒤 진료를 더 일찍 받았다고 했다."
           },
           {
             "t": "p",
-            "x": "Gottlieb은 의회가 CLIA-like 인증 경로를 만들자고 제안한다. FDA가 의료기관을 인증하면 의료기관이 검증, 하위집단 성능 점검, 변경 관리, 드리프트 모니터링, 정기 보고를 책임지는 구조이고, 요건은 위험도에 따라 다르다. 저위험 도구는 먼저 분석적 타당성을, 고위험 도구는 시판 전 임상 평가를 갖춰야 한다. 완전 자율 시스템, 환자 대상 진단, 기관 밖으로 나가는 모델은 지금처럼 의료기기 규제를 받는다."
+            "x": "그런데 의료 제공자를 찾을 때 AI를 쓰겠다는 응답은 약 30%였고, 식단·운동·수면 계획은 28%, 보험 보장 범위 확인은 19%에 그쳤다. 망설이는 이유는 신뢰다. 70% 이상이 보호 대상 건강정보의 프라이버시를 걱정했고 AI 편향(72%)과 환각(69%)을 우려하는 목소리도 있었다."
+          },
+          {
+            "t": "p",
+            "x": "대다수는 AI가 생성한(AI-generated) 건강 답변을 사람 전문가가 확인해야 한다고 했다. 절반 가까이는 건강 조언용 AI 도구도 신약처럼 연방 차원의 시험과 승인을 거쳐야 한다고 봤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A lab-test precedent for\nregulating clinical AI",
-          "body": "Scott Gottlieb proposes FDA certification of health systems that build their own clinical AI, modeled on lab-test rules.",
-          "mini_headline": "Regulating clinical AI like lab tests",
+          "headline": "Privacy worries may slow\npatient use of AI in care",
+          "body": "A Wolters Kluwer survey finds over 70% of patients worry about health data privacy, which could slow their use of AI.",
+          "mini_headline": "Privacy curbs patient AI use",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Former FDA commissioner Scott Gottlieb argues clinical AI is following the path laboratory developed tests took: academic medical centers such as Duke Health, Johns Hopkins and NYU Langone build and deploy their own models largely outside FDA device oversight. That encourages experimentation but can keep useful tools from spreading and creates a two-tier market that disadvantages commercial developers."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "He cites a national survey finding 65% of US hospitals use AI models, while only 44% of those using predictive models evaluated them for bias."
+                "x": "AI has quickly become integrated into Americans' lives, with 40% of respondents saying they use AI at least once daily, according to an Ipsos survey of 254 U.S. patients conducted in March for Wolters Kluwer. About 1 in 4 said they pursued healthcare sooner after using AI to research symptoms or conditions."
               },
               {
                 "t": "p",
-                "x": "Gottlieb proposes that Congress create a CLIA-like certification route: the FDA would certify health systems, which would be responsible for validation, subgroup performance checks, change control, drift monitoring and regular reporting, with requirements scaled to risk. Lower-risk tools would need analytical validity first; higher-risk tools would need premarket clinical evaluation. Fully autonomous systems, patient-facing diagnostics and models offered outside the institution would stay under conventional device regulation."
+                "x": "But only about 30% would use AI to find a provider, 28% to create a diet, workout or sleep plan and 19% to navigate insurance coverage. Trust issues drive the reluctance: over 70% worry about the privacy of their protected health information, and patients are also concerned about AI bias (72%) and hallucinations (69%)."
+              },
+              {
+                "t": "p",
+                "x": "A vast majority said a human expert should validate AI-generated health responses, and nearly half said AI tools used for health advice should undergo federal testing and approval, similar to new medications."
               }
             ]
           }
         },
         "ko": {
-          "headline": "검사실 검사에서 찾은\n임상 AI 규제 선례",
-          "body": "Scott Gottlieb은 임상 AI를 만드는 병원을 FDA가 인증하자고 한다.",
-          "mini_headline": "검사실 검사처럼 임상 AI 규제",
+          "headline": "개인정보 우려에 의료 AI\n환자 이용 늦어질 수도",
+          "body": "Wolters Kluwer 조사 결과 환자 70% 이상이 건강정보 보호를 걱정했다.",
+          "mini_headline": "개인정보 우려에 막힌 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "전 FDA 국장 Scott Gottlieb은 임상 AI가 검사실 개발 검사가 밟은 길을 따르고 있다고 주장한다. Duke Health, Johns Hopkins, NYU Langone 같은 학술 의료기관은 자체 모델을 만들어 대부분 FDA 의료기기 감독 밖에서 쓴다. 실험에는 도움이 되지만 쓸 만한 도구가 퍼지는 걸 막을 수 있고, 상업 개발사에 불리한 이중 시장도 생긴다."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "그가 인용한 전국 조사에 따르면 US 병원의 65%가 AI 모델을 쓰지만, 예측 모델을 쓰는 병원 가운데 편향을 평가한 곳은 44%에 그쳤다."
+                "x": "AI는 미국인의 삶에 빠르게 파고들었다. Wolters Kluwer 의뢰로 Ipsos가 3월에 U.S. 환자 254명을 조사해 보니 응답자의 40%가 하루 한 번 이상 AI를 쓴다고 답했다. 약 4명 중 1명은 AI로 증상이나 질환을 알아본 뒤 진료를 더 일찍 받았다고 했다."
               },
               {
                 "t": "p",
-                "x": "Gottlieb은 의회가 CLIA-like 인증 경로를 만들자고 제안한다. FDA가 의료기관을 인증하면 의료기관이 검증, 하위집단 성능 점검, 변경 관리, 드리프트 모니터링, 정기 보고를 책임지는 구조이고, 요건은 위험도에 따라 다르다. 저위험 도구는 먼저 분석적 타당성을, 고위험 도구는 시판 전 임상 평가를 갖춰야 한다. 완전 자율 시스템, 환자 대상 진단, 기관 밖으로 나가는 모델은 지금처럼 의료기기 규제를 받는다."
+                "x": "그런데 의료 제공자를 찾을 때 AI를 쓰겠다는 응답은 약 30%였고, 식단·운동·수면 계획은 28%, 보험 보장 범위 확인은 19%에 그쳤다. 망설이는 이유는 신뢰다. 70% 이상이 보호 대상 건강정보의 프라이버시를 걱정했고 AI 편향(72%)과 환각(69%)을 우려하는 목소리도 있었다."
+              },
+              {
+                "t": "p",
+                "x": "대다수는 AI가 생성한(AI-generated) 건강 답변을 사람 전문가가 확인해야 한다고 했다. 절반 가까이는 건강 조언용 AI 도구도 신약처럼 연방 차원의 시험과 승인을 거쳐야 한다고 봤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床AI規制に\n臨床検査の前例",
-          "body": "Scott Gottliebは臨床AIを自作する医療機関のFDA認証を提案する。",
-          "mini_headline": "臨床検査のように臨床AIを規制",
+          "headline": "プライバシー懸念が\n患者のAI利用を鈍らせるか",
+          "body": "Wolters Kluwerの調査で、患者の70%超が健康データのプライバシーを懸念した。",
+          "mini_headline": "プライバシーが患者のAI利用を抑制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "元FDA長官のScott Gottliebは、臨床AIは検査室開発検査がたどった道を歩んでいると論じる。Duke Health、Johns Hopkins、NYU Langoneなどの大学医療センターは独自のモデルを開発・導入しており、その多くはFDAの医療機器監督の外にある。これは試行を促す一方、有用なツールの普及を妨げかねず、商用開発企業に不利な二層構造の市場を生む。"
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "彼は、US病院の65%がAIモデルを使う一方、予測モデルを使う病院のうちバイアスを評価したのは44%にとどまるという全国調査を引用する。"
+                "x": "Wolters Kluwerの依頼でIpsosが3月に実施したU.S.の患者254人への調査によると、回答者の40%が少なくとも1日1回AIを使っており、AIは米国人の生活に急速に浸透している。約4人に1人は、AIで症状や病気を調べた後、より早く受診したと答えた。"
               },
               {
                 "t": "p",
-                "x": "Gottliebは、議会がCLIA-likeの認証ルートを設けるよう提案する。FDAが医療機関を認証し、医療機関は検証、サブグループ別の性能確認、変更管理、ドリフト監視、定期報告に責任を負い、要件はリスクに応じて調整される。低リスクのツールはまず分析的妥当性が、高リスクのツールは市販前の臨床評価が必要になる。完全自律型システム、患者向け診断、施設外に提供されるモデルは従来の医療機器規制の下にとどまる。"
+                "x": "しかし、医療提供者探しにAIを使うとした人は約30%、食事・運動・睡眠の計画づくりは28%、保険適用の確認は19%にとどまった。ためらいの背景には信頼の問題がある。70%超が保護対象の健康情報のプライバシーを懸念し、AIのバイアス（72%）やハルシネーション（69%）への懸念もあった。"
+              },
+              {
+                "t": "p",
+                "x": "大多数が、AIが生成した（AI-generated）健康関連の回答は人間の専門家が検証すべきだとし、半数近くは健康アドバイスに使うAIツールも新薬と同様に連邦政府の試験と承認を受けるべきだと答えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "临床AI监管可借鉴\n实验室检测先例",
-          "body": "Scott Gottlieb提议仿照实验室检测，由FDA认证自研临床AI的医疗系统。",
-          "mini_headline": "像实验室检测一样监管临床AI",
+          "headline": "隐私担忧或拖慢\n患者在医疗中使用AI",
+          "body": "Wolters Kluwer调查显示，逾70%的患者担忧健康数据隐私，或将拖慢其使用AI。",
+          "mini_headline": "隐私顾虑抑制患者使用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "前FDA局长Scott Gottlieb认为，临床AI正在走实验室自建检测走过的老路：Duke Health、Johns Hopkins和NYU Langone等学术医疗中心自行开发并部署模型，基本处于FDA器械监管之外。这鼓励了探索，却可能阻碍有用工具的推广，并形成对商业开发者不利的双层市场。"
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "他援引一项全国调查称，65%的US医院使用AI模型，而使用预测模型的医院中只有44%评估过模型偏倚。"
+                "x": "根据Ipsos于3月为Wolters Kluwer对254名U.S.患者开展的调查，40%的受访者表示每天至少使用一次AI，AI已迅速融入美国人的生活。约每4人中有1人表示，在用AI查询症状或病情后更早就医。"
               },
               {
                 "t": "p",
-                "x": "Gottlieb提议国会建立一条CLIA-like的认证路径：由FDA认证医疗系统，医疗系统负责验证、亚组性能检查、变更控制、漂移监测和定期报告，要求按风险分级。低风险工具首先需证明分析有效性，高风险工具需进行上市前临床评估。完全自主的系统、面向患者的诊断工具以及在机构外提供的模型仍适用常规器械监管。"
+                "x": "但只有约30%的人愿意用AI寻找医疗服务提供者，28%愿意用它制定饮食、锻炼或睡眠计划，19%愿意用它了解保险覆盖范围。这种犹豫源于信任问题：逾70%的人担心受保护健康信息的隐私，患者还担心AI偏见（72%）和幻觉（69%）。"
+              },
+              {
+                "t": "p",
+                "x": "绝大多数人认为，AI生成（AI-generated）的健康回答应由人类专家核实；近一半人认为，用于健康建议的AI工具应像新药一样接受联邦测试与审批。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un precedente de laboratorio\npara regular la AI clínica",
-          "body": "Scott Gottlieb propone que la FDA certifique a los sistemas de salud que crean su propia AI clínica.",
-          "mini_headline": "Regular la AI clínica como las pruebas de laboratorio",
+          "headline": "Temores de privacidad pueden\nfrenar la AI entre pacientes",
+          "body": "Una encuesta de Wolters Kluwer halla que más del 70% de los pacientes teme por la privacidad de sus datos de salud.",
+          "mini_headline": "La privacidad frena el uso de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El excomisionado de la FDA Scott Gottlieb sostiene que la AI clínica sigue el camino que recorrieron las pruebas desarrolladas en laboratorio: centros médicos académicos como Duke Health, Johns Hopkins y NYU Langone crean y despliegan sus propios modelos en gran medida fuera de la supervisión de dispositivos de la FDA. Eso fomenta la experimentación, pero puede impedir que herramientas útiles se difundan y crea un mercado de dos niveles que perjudica a los desarrolladores comerciales."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "Cita una encuesta nacional según la cual el 65% de los hospitales de US usa modelos de AI, mientras que solo el 44% de los que usan modelos predictivos los evaluó en busca de sesgos."
+                "x": "La AI se ha integrado rápidamente en la vida de los estadounidenses: el 40% de los encuestados dice usar AI al menos una vez al día, según una encuesta de Ipsos a 254 pacientes en U.S. realizada en marzo para Wolters Kluwer. Alrededor de 1 de cada 4 afirmó haber buscado atención médica antes tras usar AI para investigar síntomas o enfermedades."
               },
               {
                 "t": "p",
-                "x": "Gottlieb propone que el Congreso cree una vía de certificación CLIA-like: la FDA certificaría a los sistemas de salud, que serían responsables de la validación, las comprobaciones de rendimiento por subgrupos, el control de cambios, el seguimiento de la deriva y los informes periódicos, con requisitos ajustados al riesgo. Las herramientas de menor riesgo necesitarían primero validez analítica; las de mayor riesgo, una evaluación clínica previa a la comercialización. Los sistemas totalmente autónomos, los diagnósticos dirigidos a pacientes y los modelos ofrecidos fuera de la institución seguirían sujetos a la regulación convencional de dispositivos."
+                "x": "Pero solo alrededor del 30% usaría AI para encontrar un proveedor, el 28% para crear un plan de dieta, ejercicio o sueño y el 19% para orientarse en la cobertura del seguro. Los problemas de confianza explican esta reticencia: más del 70% teme por la privacidad de su información de salud protegida, y a los pacientes también les preocupan el sesgo de la AI (72%) y las alucinaciones (69%)."
+              },
+              {
+                "t": "p",
+                "x": "Una amplia mayoría dijo que un experto humano debería validar las respuestas de salud generadas por AI (AI-generated), y casi la mitad afirmó que las herramientas de AI usadas para dar consejos de salud deberían someterse a pruebas y aprobación federales, como los nuevos medicamentos."
               }
             ]
           }
@@ -1233,89 +1423,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "검사실 검사에서 찾은\n임상 AI 규제 선례",
-          "body": "Scott Gottlieb은 임상 AI를 만드는 병원을 FDA가 인증하자고 한다.",
-          "mini_headline": "검사실 검사처럼 임상 AI 규제",
+          "headline": "개인정보 우려에 의료 AI\n환자 이용 늦어질 수도",
+          "body": "Wolters Kluwer 조사에서 환자 70% 이상이 건강정보 보호를 걱정했다.",
+          "mini_headline": "개인정보 우려가 AI 이용 막아",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "전 FDA 국장 Scott Gottlieb은 임상 AI가 검사실 개발 검사가 밟은 길을 따르고 있다고 주장한다. Duke Health, Johns Hopkins, NYU Langone 같은 학술 의료기관은 자체 모델을 만들어 대부분 FDA 의료기기 감독 밖에서 배치한다. 이는 실험을 장려하지만 유용한 도구의 확산을 막을 수 있고, 상업 개발사에 불리한 이중 시장을 만든다."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "그는 전국 조사에서 US 병원의 65%가 AI 모델을 쓰지만, 예측 모델을 쓰는 병원 중 편향을 평가한 곳은 44%에 그쳤다는 결과를 인용한다."
+                "x": "Wolters Kluwer 의뢰로 Ipsos가 3월에 U.S. 환자 254명을 조사한 결과, 응답자의 40%가 하루 한 번 이상 AI를 쓴다고 답할 만큼 AI는 미국인의 삶에 빠르게 자리 잡았다. 약 4명 중 1명은 AI로 증상이나 질환을 알아본 뒤 더 일찍 진료를 받았다고 답했다."
               },
               {
                 "t": "p",
-                "x": "Gottlieb은 의회가 CLIA-like 인증 경로를 만들자고 제안한다. FDA가 의료기관을 인증하고, 의료기관은 검증, 하위집단 성능 점검, 변경 관리, 드리프트 모니터링, 정기 보고를 책임지며, 요건은 위험도에 따라 달라진다. 저위험 도구는 먼저 분석적 타당성을, 고위험 도구는 시판 전 임상 평가를 갖춰야 한다. 완전 자율 시스템, 환자 대상 진단, 기관 밖에 제공되는 모델은 기존 의료기기 규제를 그대로 받는다."
+                "x": "하지만 의료 제공자를 찾는 데 AI를 쓰겠다는 응답은 약 30%, 식단·운동·수면 계획을 짜는 데는 28%, 보험 보장 범위를 확인하는 데는 19%에 그쳤다. 이런 망설임의 배경에는 신뢰 문제가 있다. 70% 이상이 보호 대상 건강정보의 프라이버시를 걱정했고, AI 편향(72%)과 환각(69%)에 대한 우려도 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "대다수는 AI가 생성한(AI-generated) 건강 답변을 인간 전문가가 검증해야 한다고 답했고, 절반 가까이는 건강 조언용 AI 도구도 신약처럼 연방 차원의 시험과 승인을 거쳐야 한다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床AI規制に\n臨床検査の前例",
-          "body": "Scott Gottliebは臨床AIを自作する医療機関のFDA認証を提案する。",
-          "mini_headline": "臨床検査のように臨床AIを規制",
+          "headline": "プライバシー懸念が\n患者のAI利用を鈍らせるか",
+          "body": "Wolters Kluwerの調査で、患者の70%超が健康データのプライバシーを懸念した。",
+          "mini_headline": "プライバシーが患者のAI利用を抑制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "元FDA長官のScott Gottliebは、臨床AIは検査室開発検査がたどった道を歩んでいると論じる。Duke Health、Johns Hopkins、NYU Langoneなどの大学医療センターは独自のモデルを開発・導入しており、その多くはFDAの医療機器監督の外にある。これは試行を促す一方、有用なツールの普及を妨げかねず、商用開発企業に不利な二層構造の市場を生む。"
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "彼は、US病院の65%がAIモデルを使う一方、予測モデルを使う病院のうちバイアスを評価したのは44%にとどまるという全国調査を引用する。"
+                "x": "Wolters Kluwerの依頼でIpsosが3月に実施したU.S.の患者254人への調査によると、回答者の40%が少なくとも1日1回AIを使っており、AIは米国人の生活に急速に浸透している。約4人に1人は、AIで症状や病気を調べた後、より早く受診したと答えた。"
               },
               {
                 "t": "p",
-                "x": "Gottliebは、議会がCLIA-likeの認証ルートを設けるよう提案する。FDAが医療機関を認証し、医療機関は検証、サブグループ別の性能確認、変更管理、ドリフト監視、定期報告に責任を負い、要件はリスクに応じて調整される。低リスクのツールはまず分析的妥当性が、高リスクのツールは市販前の臨床評価が必要になる。完全自律型システム、患者向け診断、施設外に提供されるモデルは従来の医療機器規制の下にとどまる。"
+                "x": "しかし、医療提供者探しにAIを使うとした人は約30%、食事・運動・睡眠の計画づくりは28%、保険適用の確認は19%にとどまった。ためらいの背景には信頼の問題がある。70%超が保護対象の健康情報のプライバシーを懸念し、AIのバイアス（72%）やハルシネーション（69%）への懸念もあった。"
+              },
+              {
+                "t": "p",
+                "x": "大多数が、AIが生成した（AI-generated）健康関連の回答は人間の専門家が検証すべきだとし、半数近くは健康アドバイスに使うAIツールも新薬と同様に連邦政府の試験と承認を受けるべきだと答えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "临床AI监管可借鉴\n实验室检测先例",
-          "body": "Scott Gottlieb提议仿照实验室检测，由FDA认证自研临床AI的医疗系统。",
-          "mini_headline": "像实验室检测一样监管临床AI",
+          "headline": "隐私担忧或拖慢\n患者在医疗中使用AI",
+          "body": "Wolters Kluwer调查显示，逾70%的患者担忧健康数据隐私，或将拖慢其使用AI。",
+          "mini_headline": "隐私顾虑抑制患者使用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "前FDA局长Scott Gottlieb认为，临床AI正在走实验室自建检测走过的老路：Duke Health、Johns Hopkins和NYU Langone等学术医疗中心自行开发并部署模型，基本处于FDA器械监管之外。这鼓励了探索，却可能阻碍有用工具的推广，并形成对商业开发者不利的双层市场。"
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "他援引一项全国调查称，65%的US医院使用AI模型，而使用预测模型的医院中只有44%评估过模型偏倚。"
+                "x": "根据Ipsos于3月为Wolters Kluwer对254名U.S.患者开展的调查，40%的受访者表示每天至少使用一次AI，AI已迅速融入美国人的生活。约每4人中有1人表示，在用AI查询症状或病情后更早就医。"
               },
               {
                 "t": "p",
-                "x": "Gottlieb提议国会建立一条CLIA-like的认证路径：由FDA认证医疗系统，医疗系统负责验证、亚组性能检查、变更控制、漂移监测和定期报告，要求按风险分级。低风险工具首先需证明分析有效性，高风险工具需进行上市前临床评估。完全自主的系统、面向患者的诊断工具以及在机构外提供的模型仍适用常规器械监管。"
+                "x": "但只有约30%的人愿意用AI寻找医疗服务提供者，28%愿意用它制定饮食、锻炼或睡眠计划，19%愿意用它了解保险覆盖范围。这种犹豫源于信任问题：逾70%的人担心受保护健康信息的隐私，患者还担心AI偏见（72%）和幻觉（69%）。"
+              },
+              {
+                "t": "p",
+                "x": "绝大多数人认为，AI生成（AI-generated）的健康回答应由人类专家核实；近一半人认为，用于健康建议的AI工具应像新药一样接受联邦测试与审批。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un precedente de laboratorio\npara regular la AI clínica",
-          "body": "Scott Gottlieb propone que la FDA certifique a los sistemas de salud que crean su propia AI clínica.",
-          "mini_headline": "Regular la AI clínica como las pruebas de laboratorio",
+          "headline": "Temores de privacidad pueden\nfrenar la AI entre pacientes",
+          "body": "Una encuesta de Wolters Kluwer halla que más del 70% de los pacientes teme por la privacidad de sus datos de salud.",
+          "mini_headline": "La privacidad frena el uso de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El excomisionado de la FDA Scott Gottlieb sostiene que la AI clínica sigue el camino que recorrieron las pruebas desarrolladas en laboratorio: centros médicos académicos como Duke Health, Johns Hopkins y NYU Langone crean y despliegan sus propios modelos en gran medida fuera de la supervisión de dispositivos de la FDA. Eso fomenta la experimentación, pero puede impedir que herramientas útiles se difundan y crea un mercado de dos niveles que perjudica a los desarrolladores comerciales."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
+                "cap": "Getty Images"
               },
               {
                 "t": "p",
-                "x": "Cita una encuesta nacional según la cual el 65% de los hospitales de US usa modelos de AI, mientras que solo el 44% de los que usan modelos predictivos los evaluó en busca de sesgos."
+                "x": "La AI se ha integrado rápidamente en la vida de los estadounidenses: el 40% de los encuestados dice usar AI al menos una vez al día, según una encuesta de Ipsos a 254 pacientes en U.S. realizada en marzo para Wolters Kluwer. Alrededor de 1 de cada 4 afirmó haber buscado atención médica antes tras usar AI para investigar síntomas o enfermedades."
               },
               {
                 "t": "p",
-                "x": "Gottlieb propone que el Congreso cree una vía de certificación CLIA-like: la FDA certificaría a los sistemas de salud, que serían responsables de la validación, las comprobaciones de rendimiento por subgrupos, el control de cambios, el seguimiento de la deriva y los informes periódicos, con requisitos ajustados al riesgo. Las herramientas de menor riesgo necesitarían primero validez analítica; las de mayor riesgo, una evaluación clínica previa a la comercialización. Los sistemas totalmente autónomos, los diagnósticos dirigidos a pacientes y los modelos ofrecidos fuera de la institución seguirían sujetos a la regulación convencional de dispositivos."
+                "x": "Pero solo alrededor del 30% usaría AI para encontrar un proveedor, el 28% para crear un plan de dieta, ejercicio o sueño y el 19% para orientarse en la cobertura del seguro. Los problemas de confianza explican esta reticencia: más del 70% teme por la privacidad de su información de salud protegida, y a los pacientes también les preocupan el sesgo de la AI (72%) y las alucinaciones (69%)."
+              },
+              {
+                "t": "p",
+                "x": "Una amplia mayoría dijo que un experto humano debería validar las respuestas de salud generadas por AI (AI-generated), y casi la mitad afirmó que las herramientas de AI usadas para dar consejos de salud deberían someterse a pruebas y aprobación federales, como los nuevos medicamentos."
               }
             ]
           }

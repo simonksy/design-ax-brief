@@ -1,32 +1,31 @@
 {
- "date": "2026-10-12",
- "section": "design",
- "media": [
-  {
-   "id": "odyssey-3-world-model",
-   "type": "video",
-   "src": "pipeline/media/odyssey-3-world-model.mp4",
-   "poster": "pipeline/media/odyssey-3-world-model.jpg"
-  },
-  {
-   "id": "nngroup-context-libraries",
-   "type": "image",
-   "src": "pipeline/media/nngroup-context-libraries.png"
-  },
-  {
-   "id": "teslers-law-chat-field-ai",
-   "type": "image",
-   "src": "pipeline/media/teslers-law-chat-field-ai.png"
-  },
-  {
-   "id": "ai-generated-ui-fast-design-not-ux",
-   "type": "image",
-   "src": "pipeline/media/ai-generated-ui-fast-design-not-ux.png"
-  },
-  {
-   "id": "boring-ai-hollywood-vfx",
-   "type": "image",
-   "src": "pipeline/media/boring-ai-hollywood-vfx.jpg"
-  }
- ]
+  "date": "2026-10-13",
+  "section": "design",
+  "media": [
+    {
+      "id": "design-world-creator-4-mcp",
+      "type": "image",
+      "src": "pipeline/media/design-world-creator-4-mcp.jpg"
+    },
+    {
+      "id": "design-figma-wp-blueprint-claude-code",
+      "type": "image",
+      "src": "pipeline/media/design-figma-wp-blueprint-claude-code.png"
+    },
+    {
+      "id": "design-ai-clients-pixel-pushers",
+      "type": "image",
+      "src": "pipeline/media/design-ai-clients-pixel-pushers.jpg"
+    },
+    {
+      "id": "design-accessibility-agent-ux",
+      "type": "image",
+      "src": "pipeline/media/design-accessibility-agent-ux.png"
+    },
+    {
+      "id": "design-iris-3b-pixel-space",
+      "type": "image",
+      "src": "pipeline/media/design-iris-3b-pixel-space.jpg"
+    }
+  ]
 }

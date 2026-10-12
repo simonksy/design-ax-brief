@@ -6173,6 +6173,152 @@
           "x": "DistroKid的Artist Services副总裁（VP）Amanda Ferri表示：“通过DistroKid发行的录音中，有极少数已根据UMG的主张被移除。我们强烈反对UMG诉讼所依据的指控，并对受影响艺人遭受的干扰深表遗憾。”"
         }
       ]
+    },
+    "music/music-claude-yamaha-cs80-patches": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8ewLKEkqavk"
+        },
+        {
+          "t": "p",
+          "x": "Jose's Vintage Keys的最新视频探讨了如何用AI为Yamaha CS-80合成器制作音色。"
+        },
+        {
+          "t": "p",
+          "x": "之所以可行，是因为这台Yamaha CS-80加装了Mark Cox MIDI升级，而Anthropic的Claude AI可以用来控制MIDI设备。"
+        },
+        {
+          "t": "p",
+          "x": "对许多合成器玩家来说，声音设计和音色实验是合成器最大的乐趣之一。但对另一些人而言，演奏、表演或作曲更为重要。对这些用户来说，预设长期以来都是快速启动创作的工具。对于宁愿演奏也不愿调参数的音乐人，越来越难想象AI不会成为他们的重要工具。"
+        },
+        {
+          "t": "p",
+          "x": "欢迎观看视频，并在评论区分享你对视频以及AI-enabled声音设计这一想法的看法。"
+        }
+      ]
+    },
+    "music/music-instagram-dm-ai-songs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Instagram近日在DM收件箱中加入了歌曲创作选项，用户可以用AI生成歌曲并发送给好友。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/6MzwsGRDvInxYpHw5sO13OkXlcL4KyjoarylCPc0f4o/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nLnBuZw==.webp",
+          "cap": "Instagram音乐分享"
+        },
+        {
+          "t": "p",
+          "x": "从创作者Jonah Manzano发布的图片可以看到，Instagram用户现在会在DM分享选项中看到一个创作歌曲的新选项。点击后，系统会引导用户填写歌词并选择音乐风格，以生成AI-generated曲目。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/5qt403dMkGtOtlmRIBCklaw-CGPs97nQIeAExzSf5Wg/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nNC5wbmc=.webp",
+          "cap": "Instagram音乐分享"
+        },
+        {
+          "t": "p",
+          "x": "Meta表示，这项功能可以成为一种有趣的互动方式。它与Snapchat新推出的Snap-to-Song选项类似，后者让付费Snapchat用户以消息文本为歌词生成歌曲；不过Instagram对歌词的具体控制较少，用户可以随意添加内容。"
+        },
+        {
+          "t": "p",
+          "x": "这或许能为DM交流增添幽默感，但考虑到Meta将AI定位为改变世界的技术这一宏大叙事，此类轻浮的功能似乎在削弱这一信息。"
+        }
+      ]
+    },
+    "music/music-livesynth-streaming-neural-synth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "生成式神经合成器已经能根据参考录音以zero-shot方式克隆乐器，并根据文本提示生成音色，但现有系统都是离线生成完整的音频片段，无法当作可演奏的乐器使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.13054v1/figures/fig1.png",
+          "cap": "Figure 1：LiveSynth概览。"
+        },
+        {
+          "t": "p",
+          "x": "LiveSynth由Kyungsu Kim、Yejin Kim和Kyogu Lee开发，是一款音色控制灵活、支持交互式生成的流式神经合成器，具备zero-shot乐器克隆和文本生成乐器的能力。一个以MIDI事件和CLAP音色嵌入为条件、无反馈的因果Transformer以100 Hz输出连续音频潜变量，再由因果变分自编码器解码为音频。"
+        },
+        {
+          "t": "p",
+          "x": "逐帧音色条件控制可实现连续的音色渐变，MIDI-conditioning dropout则让模型能从已演奏的前段自主续写。"
+        },
+        {
+          "t": "p",
+          "x": "在NSynth和Slakh数据集上，LiveSynth的音色相似度和频谱重建质量与离线基线相当。在M3 MacBook Air上，每10 ms音频帧需要8.8 ms计算（RTF为0.88），算法延迟为10 ms，可与演奏者实时互动。"
+        }
+      ]
+    },
+    "music/music-suno-new-autotune-viral-artists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1450/7/1457204.jpeg",
+          "cap": "Kilo Kent宣传图"
+        },
+        {
+          "t": "p",
+          "x": "TikTok上满是蒙面说唱歌手Kilo Kent的\"40's\"，评论者都认定这是AI。Kilo在Spotify上的头号推荐艺人Zemi则以AI虚拟形象示人。原来两人都签约了Isekai Records。此前，制作人Haven的走红单曲\"I Run\"被指通过Suno模仿Jorja Smith，这家厂牌随后签下了他。"
+        },
+        {
+          "t": "p",
+          "x": "在采访中，两人都坦承用Suno修改人声，但坚称这和混响或自动修音没有区别。\"没错，声音是AI，但其余全是我做的——节拍、主旋律、制作。\"Zemi说，\"我先唱歌，再把它导入Suno换声音，然后自己混音。\""
+        },
+        {
+          "t": "p",
+          "x": "\"把AI-assisted音乐想成一台烤箱，\"Kilo说，\"你备菜、切菜、加盐，一切都自己来。那不是烤箱生成的食物。\""
+        },
+        {
+          "t": "p",
+          "x": "UNSW副教授Oliver Bown表示，AI-assisted音乐和AI-generated音乐之间没有清晰界线，而是一个连续体；隐藏艺人的面孔会让人觉得这个人设是一件商品。Isekai要求审核文章时，作者拒绝了。"
+        }
+      ]
+    },
+    "music/google-synthid-public-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675",
+          "cap": "图片来源：Google"
+        },
+        {
+          "t": "p",
+          "x": "Google周二推出一个新网站，任何人都可借此核实一段媒体内容（无论是图片、视频还是音频片段）是否由AI生成。"
+        },
+        {
+          "t": "p",
+          "x": "该公司去年在Google I/O上向部分记者、媒体从业者和研究人员开放了这一工具供测试，如今向所有人开放。"
+        },
+        {
+          "t": "p",
+          "x": "该网站支持的图片格式包括JPG、JPEG、PNG、BMP、WEBP、AVIF、HEIC、HEIF、TIFF、TIF和GIF，视频格式包括MP4、MOV和WEBM，音频格式包括WAV、MP3、OGG、FLAC、AAC和M4A。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Raccoon_Video_SynthIDDetector.jpeg?w=680",
+          "cap": "图片来源：Google"
+        },
+        {
+          "t": "p",
+          "x": "Google借助2023年推出的SynthID来识别媒体是否为AI生成（AI-generated）。该公司的Nano Banana、Veo和Lyria模型，以及Gemini、Flow、ProducerAI和Vids等具备生成能力的工具，都会用SynthID为其生成的所有媒体加上水印。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI、Nvidia和Kakao也支持SynthID，OpenAI还运营着自己的内容核查网站。据称Apple也将很快加入支持。"
+        },
+        {
+          "t": "p",
+          "x": "Google已将SynthID验证功能内置于Gemini应用和Google Chrome。该公司表示，目前人们每天发出100万次内容验证请求。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft和Meta拥有各自的内容水印与验证标准。不过这些工具并非万无一失，常常连自家模型生成的内容都无法识别。"
+        }
+      ]
     }
   }
 }

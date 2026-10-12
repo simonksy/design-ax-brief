@@ -7644,6 +7644,167 @@
           "x": "Bhowmick’s answer is no: use synthetic users only to extend the scale of human UX research already done, never as the one source for key product decisions."
         }
       ]
+    },
+    "design/design-figma-wp-blueprint-claude-code": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+        },
+        {
+          "t": "p",
+          "x": "I built figma-wp-blueprint, a set of Claude Code skills for turning a Figma design into a custom WordPress theme."
+        },
+        {
+          "t": "p",
+          "x": "Paste a Figma URL and it:"
+        },
+        {
+          "t": "p",
+          "x": "• extracts colors, fonts, spacing, and breakpoints"
+        },
+        {
+          "t": "p",
+          "x": "• builds each section as an ACF Flexible Content layout (fields, PHP template, scoped CSS)"
+        },
+        {
+          "t": "p",
+          "x": "• measures the result against Figma at every breakpoint with /pixel-check"
+        },
+        {
+          "t": "p",
+          "x": "• works one feature at a time, on its own Git branch, and asks for your approval before committing"
+        },
+        {
+          "t": "p",
+          "x": "The result is a classic PHP theme with pure CSS and vanilla JS: no page builder, no jQuery, no build step."
+        },
+        {
+          "t": "p",
+          "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — Feedback welcome!"
+        }
+      ]
+    },
+    "design/design-ai-clients-pixel-pushers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Emily Foran, a creative director and graphic designer and president of AIGA Maine, has not been asked by clients to come up with an original idea from scratch in a year. “I’m having clients, new and existing, send me crap they had Claude or ChatGPT mock up for them, and then ask me to either clean it up or straight up work with it,” she says. She feels more like a “pixel pusher” than a creative."
+        },
+        {
+          "t": "p",
+          "x": "She is one of more than a dozen graphic designers Fast Company interviewed who say generative AI has completely changed their relationship with their bosses, clients, and work over the past 18 months. Clients have asked for lower rates, some designers have been laid off and told AI would replace them, and others get guidance that amounts to “Ask ChatGPT.”"
+        },
+        {
+          "t": "p",
+          "x": "Designers say AI-rendered images mean more work on the back end. “What used to take me an hour to do might be taking me three hours,” says one Boston designer. Michele Kasl of Premier Designs says clients now expect shorter timelines: “Frankly, we’ve lost business because of it.” Robert Lodi of Rock Pixel Scissors has added a redesign phase for AI-built mockups: “I have yet to see one that’s going to pass an accessibility test.”"
+        },
+        {
+          "t": "p",
+          "x": "Marketing designer Erik was told to “just ask ChatGPT” and eventually lost his job after clashing over AI use; Alan Peters’ team was laid off in favor of an online AI service. Foran says younger designers are leaving the industry because “there haven’t been opportunities.”"
+        }
+      ]
+    },
+    "design/design-accessibility-agent-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+          "cap": "Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath."
+        },
+        {
+          "t": "p",
+          "x": "Your website has a new kind of visitor. It reads a stripped-down model of the page called the accessibility tree — the same structure browsers have built for screen readers for two decades. In early June 2026, Cloudflare reported that automated traffic had passed human traffic on the web for the first time, roughly 57 percent of page requests against 43 percent."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+          "cap": "The vendors split on where they start."
+        },
+        {
+          "t": "p",
+          "x": "Agents can read a screenshot, raw HTML, or the accessibility tree. Claude in Chrome’s read_page tool takes the accessibility tree first; Microsoft’s Playwright MCP works from structured accessibility snapshots; OpenAI tells site owners that Atlas uses ARIA tags to interpret page structure."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+          "cap": "A11y-CUA study presented at CHI 2026"
+        },
+        {
+          "t": "p",
+          "x": "In the A11y-CUA study, Claude Sonnet 4.5 finished about 78 percent of 60 everyday tasks with normal access, 42 percent keyboard-only and 28 percent under a magnified viewport. If a keyboard user cannot finish the task, the agent usually cannot either."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+          "cap": "The WebAIM Million"
+        },
+        {
+          "t": "p",
+          "x": "WebAIM found detectable WCAG failures on 95.9 percent of the top million home pages, up from 94.8 percent, and names AI-assisted coding as a likely culprit. The fix is native HTML, logical headings and landmarks, named controls, alt text, labeled fields and announced state — starting with the flows where an agent has to act."
+        }
+      ]
+    },
+    "design/design-iris-3b-pixel-space": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Iris 3B is a 3 billion parameter image generation model from Spirit Labs that paints images directly in pixel space, skipping the variational autoencoder (VAE) and latent space step that nearly every modern image generator, including Flux and Qwen Image, relies on."
+        },
+        {
+          "t": "p",
+          "x": "It encodes a text prompt with a frozen Qwen3-VL 4B encoder plus a small text adapter, then cuts the noisy image directly into 16x16 pixel patches. The trunk has eight “dual stream” blocks followed by sixteen “single stream” blocks, and four smaller blocks convert each patch back into raw pixel values."
+        },
+        {
+          "t": "p",
+          "x": "The approach appears to pay off in fine detail such as woven patterns, skin texture and individual beard hairs. The tradeoff is speed: generation reportedly takes one to three minutes per image. VRAM consumption lands under 28 gigabytes, comparable to Flux and Qwen Image."
+        },
+        {
+          "t": "p",
+          "x": "The same model, with different fine-tuning, handles depth estimation and image upscaling. It falls short on cultural and ethnic specificity in people: an Indigenous Australian elder prompt produced a face that didn’t read as Indigenous Australian, and a knafeh prompt produced something closer to baklava."
+        }
+      ]
+    },
+    "design/odyssey-3-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "California-based AI company Odyssey has launched a public research preview of its world model Odyssey-3. Users can generate interactive environments from text prompts and explore them in real time; developers can apply for API access."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The free online demo runs on Odyssey-3 Flash. Users pick a first- or third-person view, move through the world, trigger events and watch the model respond. It is built on an autoregressive diffusion transformer trained on internet video, game footage paired with keyboard and mouse inputs, and simulated physics. The base model has 14 billion parameters and outputs 832 × 480 video; Odyssey-3 Pro supports 1280 × 720."
+        },
+        {
+          "t": "p",
+          "x": "Odyssey-3 Pro's 66.1 on Physics-IQ Verified comes from a single run that picked one of eight videos per task; without that selection it averaged 63.37 over four runs."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+          "cap": "Screenshot via Odyssey"
+        },
+        {
+          "t": "p",
+          "x": "Odyssey wants the same model to drive robot arms, drones and game characters, and showed it playing GTA V. Founded in 2023 by Oliver Cameron and Jeff Hawke, it raised $310 million in June 2026."
+        }
+      ]
     }
   }
 }

@@ -7516,6 +7516,122 @@
           "x": "著者らは、これらの墓が単に死者を納めるためではなく、現代の3D映画のように生者に作用するよう造られたと論じる。現在は同様の音響・AI技術を屋外の儀礼的景観に応用している。"
         }
       ]
+    },
+    "science/science-plato-phasehub-protein-phase": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+          "cap": "菌類。Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "シンガポールのNanyang Technological Universityの研究者が、どのタンパク質が相分離を起こすかを予測するAIツールを2つ開発した。相分離とは、タンパク質が細胞内で液滴状の区画を形成する過程である。成果はMolecular Plantに掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "PLATOは5,118のタンパク質配列を収めたデータベースだ。相分離する3,600超の配列と、相分離しない約1,300の配列に加え、既存のデータセットでは少ない切断型タンパク質、変異、人工改変体も含む。チームは大規模言語モデルでPubMedの論文を解析し、結果を人の手で確認して構築した。"
+        },
+        {
+          "t": "p",
+          "x": "PhaseHubは1,106種にわたるMolPhaseの予測を、タンパク質の存在量や相互作用のデータと組み合わせ、多成分の区画を特定する。利用者はタンパク質の検索、配列の投稿、相互作用の探索ができる。真核生物は一般に、細菌よりも相分離すると予測されるタンパク質の割合が高い。"
+        },
+        {
+          "t": "p",
+          "x": "研究者らは、このツールががん、アルツハイマー病、老化、作物改良の研究に役立ちうるとしている。筆頭著者のLiang Qiyu博士は、この研究が「相分離タンパク質を理解するための包括的な枠組みを提供する」と述べた。"
+        }
+      ]
+    },
+    "science/science-ebird-inaturalist-llm-ecology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+          "cap": "カナダガン（Canada goose）の群れと一緒に餌をとる1羽のハクガン。eBirdのコメントによく記録される、互いに利益のある関係だ。Credit: Jing-Yi Li"
+        },
+        {
+          "t": "p",
+          "x": "University of Michiganが主導し、PNASに掲載された研究は、eBird（鳥類）とiNaturalist（植物と送粉者）のコメントを使い、大規模言語モデルが公開された自然観察記録を選り分けて、種同士の相互作用に関する情報を引き出せることを示した。"
+        },
+        {
+          "t": "p",
+          "x": "2つの事例研究は、West Coast ladyというチョウとその食草、そしてMichiganの鳥類間の相互作用を扱った。概念実証では、見逃されていたかもしれない、米国（U.S.）西海岸沿いに広がる外来植物を明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "時間を計ったある比較では、Claudeが500件近いコメントを約六分で分類したのに対し、学部生の研究者は約八時間かかった。筆頭著者のHengxing Zouは、この研究を科学者の創造的な仕事を置き換えるものではなく、AIで人間の労力を広げるものだと説明する。"
+        }
+      ]
+    },
+    "science/science-koc-photonic-optical-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+          "cap": "マルチチャネル光コンピューティングの実験装置と最適化戦略。Credit: Communications Engineering (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Koç UniversityのUğur Teğin助教らは、AI計算の一部を光で行う研究を2本発表した。AIのエネルギー需要を減らしうる手法である。"
+        },
+        {
+          "t": "p",
+          "x": "Communications Engineeringに掲載された研究で、チームは画像の赤・緑・青のチャネルをグレースケールに変換せず、まとめて処理するプログラム可能なフォトニック・ニューラルネットワークを構築した。皮膚科の分類タスクでは、精度が生のカラー画素データでの68%から、光学処理後には98%に上がった。システムは測定結果から学習し、光学装置の現実の不完全さに適応する。"
+        },
+        {
+          "t": "p",
+          "x": "Communications Physicsに掲載された研究では、マルチモードファイバーレーザーが物理的なプロセッサとして働き、レーザー共振器内で画像データを光に符号化した。リサイクル可能な廃棄物、気象・衛星画像、網膜スキャン、皮膚病変で、単純な分類器により85%から99%の精度に達し、学習可能なパラメータは従来の深層学習モデルよりはるかに少なかった。"
+        },
+        {
+          "t": "p",
+          "x": "これらのシステムは今もカメラや制御ユニットなどの電子部品に頼っている。より高速な光制御デバイスやチップ型光学素子が実現すれば、より多くの処理を光に移せる可能性がある。"
+        }
+      ]
+    },
+    "science/science-quanta-attention-intelligence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT以降に世界を席巻したものはすべて、ある意味でDzmitry Bahdanauから始まる。2014年、University of Montrealの研究室で23歳のインターンだった彼は、Yoshua Bengio、Kyunghyun Choとともに、ニューラルネットワークに英語をフランス語へ翻訳させる研究に取り組んでいた。各文を固定量のメモリに押し込んでいたため、文が長くなるほど結果は悪化した。"
+        },
+        {
+          "t": "p",
+          "x": "Bahdanauの工夫である「アテンション」は、翻訳の次の単語を決めるうえで最も手がかりになる単語を、文中のどこからでも見つけられるようにした。2017年、Googleの論文「Attention Is All You Need」がトランスフォーマーを提示し、250,000回以上引用された。その後にChatGPTやClaudeのような大規模言語モデルが続いた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+        },
+        {
+          "t": "p",
+          "x": "アテンションヘッドは各単語のクエリをほかの単語のキーと比べ、文脈を数学に変える。Llion Jonesは言語モデリングを「AI-complete」と呼ぶ。コラムニストは人間の思考が純粋に言語的なものではないと論じ、Jonesも今ではアテンションだけでは足りないと考えている。「何かまったく、まったく違うものへ飛躍しなければならないようだ」。"
+        }
+      ]
+    },
+    "science/science-lensless-cell-imaging-sfpulse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+          "cap": "SF-PULSE法で撮像・再構成した膠芽腫細胞。スケールバーは0.5 mm である。提供:Computational Imaging Group and Molecular Signaling Group, Tampere University"
+        },
+        {
+          "t": "p",
+          "x": "Tampere Universityの研究チームは、ニューラルネットワークと物理情報に基づく(physics-informed)画像再構成を組み合わせたレンズレス定量位相イメージング法「SF-PULSE」を開発した。1枚の画像から生きた細胞の精密な定量データが得られる。"
+        },
+        {
+          "t": "p",
+          "x": "装置は小型で、標準的な細胞培養(cell-culture)インキュベーター内に設置でき、染色などの標識を使わずに生細胞を数時間から数日間にわたって連続観察できる。筆頭著者のIgor Shevkunov氏によると、SF-PULSEは「1枚の測定画像から定量位相情報を再構成できる」という。"
+        },
+        {
+          "t": "p",
+          "x": "集団の平均ではなく個々の細胞を追うため、成長、移動、分裂、バイオマスの変化を経時的に追跡できる。研究チームは薬剤応答(drug-response)研究、毒性スクリーニング、細胞死(cell-death)研究への応用を見込む。成果はApplied Physics Lettersに掲載された。"
+        }
+      ]
     }
   }
 }

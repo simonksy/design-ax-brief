@@ -6804,6 +6804,151 @@
           "x": "开放睡前脚本后，我可以让它“关闭整个房子”，它也能处理带例外的指令，比如“把灯关掉，但浴室的灯留着”。简单的请求仍交给Home Assistant的原生命令。本地LLMs在聊天框之外更有用。"
         }
       ]
+    },
+    "gadgets/gadgets-translate-transcript-autosave": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+          "cap": "Google Translate主屏幕"
+        },
+        {
+          "t": "p",
+          "x": "Google Translate一直在为移动端用户测试Live Translate设置中的“Auto-save transcript”开关。2026年10月12日更新：Google正随Google Translate v10.39.34.995726622.4推出Live Translate的记录自动保存选项。"
+        },
+        {
+          "t": "p",
+          "x": "根据Android Authority 9月29日的拆解分析，为保护隐私，连接并使用智能眼镜时，记录保存功能将完全停用。用户可以在智能眼镜上用语音命令开始翻译，在触控板上滑动即可结束会话。"
+        }
+      ]
+    },
+    "gadgets/gadgets-googlebook-os-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "从Windows 8到iPad问世后Mac加入全屏应用的时代，把触屏时代的经验与优势带到PCs上的尝试全都失败了。9to5Google的评测者使用Googlebook OS一周多后认为，它是面向Android智能手机一代的桌面OS的雏形，但第一版还很粗糙。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+        },
+        {
+          "t": "p",
+          "x": "Googlebook OS表面上像ChromeOS，用起来却像Android。Chrome基于Android版本打造，支持扩展、垂直标签页以及完整的Gemini in Chrome侧边栏，但作为1.0版本仍显得过于简陋。"
+        },
+        {
+          "t": "p",
+          "x": "Magic Pointer基本上就是手机上的Gemini浮层，而Circle to Search也一并提供，于是出现了两个相似功能。更实用的AI功能是F13键上的Rambler语音输入，而Create My Widget带来了生成式UI，即“计算的未来”。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "存在了十年的应用缺口大体仍未解决，缺少Linux应用支持等功能也比ChromeOS有所倒退。不过，对普通用户来说没有致命缺陷，也没有无法通过未来更新弥补的根本性问题。"
+        }
+      ]
+    },
+    "gadgets/gadgets-mechrevo-x10-ai-ssd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+          "cap": "Mechrevo的新款迷你主机可利用SSD运行AI模型"
+        },
+        {
+          "t": "p",
+          "x": "中国PC厂商Mechrevo正在准备Master Road X10，这是一款主要为本地运行大型AI模型而设计的迷你主机。它采用Nvidia的RTX Spark平台：20核Grace CPU、最多6,144个CUDA核心的Blackwell GPU，以及最高128 GB的LPDDR5X统一内存。"
+        },
+        {
+          "t": "p",
+          "x": "其自研的AI SSD可将大型AI模型的部分内容从DRAM卸载到NAND闪存，并保存和复用此前处理过的上下文。Mechrevo称，这让X10能够运行800亿、1200亿乃至1220亿参数的模型，同时保持流畅的响应性能。SSD容量尚未公布。"
+        },
+        {
+          "t": "p",
+          "x": "该公司在9月曾声称，其AI SSD可将可支持的模型工作负载最多提升至5.7倍，并将预填充阶段最多加速95%。"
+        },
+        {
+          "t": "p",
+          "x": "Mechrevo尚未公布详细的基准测试、量化设置或测试条件，而且NAND闪存比DRAM慢得多。价格和发布日期仍不得而知。"
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-wonder-full": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Meta正在弥补其在AI竞赛中失去的时间。在推出改组后的Superintelligence Labs部门首款模型Muse Spark和备受关注的AI智能体Muse之后，Meta又推出两款新模型，并称其可与业界最强模型正面抗衡。"
+        },
+        {
+          "t": "p",
+          "x": "新模型Muse Wonder和Muse Wonder Full即日起向Muse Code订阅用户开放。Meta表示，Wonder也可以通过Meta Model API使用。"
+        },
+        {
+          "t": "p",
+          "x": "Meta表示，计划最终用Wonder驱动其Muse AI智能体，先从订阅用户开始，并将开发“可以提供给所有Muse用户”的专用模型。对于这两项计划，Meta都未透露具体细节或时间表。"
+        },
+        {
+          "t": "p",
+          "x": "该公司援引多项行业基准的内部测试结果称，新模型可与OpenAI和Anthropic的领先模型相媲美，包括GPT-6 Astra、Claude Opus 5.5和Claude Fable 5.1。它们与能力尚未完全明朗的Google Gemini 4 Argon相比表现如何，目前尚不清楚。"
+        },
+        {
+          "t": "p",
+          "x": "此次发布是Meta力图重新确立AI领域主要力量地位的激进举措的一部分。该公司已向人才和基础设施投入数十亿美元，并持续扩充AI产品线，包括图像模型Muse Image，同时重点通过Muse把实用的AI智能体带给大众。"
+        }
+      ]
+    },
+    "gadgets/raspberry-pi-29mb-ai-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "XDA的Ayush Pande在Raspberry Pi 5上跑过不少小型LLMs，但Cactus Compute Needle 3与众不同：只需稍微折腾一下Python，这款轻巧的模型仅用几MBs 就能把这台SBC变成自动化利器，而且不需要AI HAT。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "控制智能插座的Python脚本"
+        },
+        {
+          "t": "p",
+          "x": "Needle 3舍弃了通用聊天功能，因此最多只占用29MB 。它专注于机器层面的任务——调用工具、把非结构化数据转换为JSON、从文本生成向量——其可切分的阶梯式架构还能根据硬件选择2到20层的子网络。"
+        },
+        {
+          "t": "p",
+          "x": "在运行DietPi的8GB Raspberry Pi 5上，只需几次pip安装，再用全部20层构建needle，就完成了设置。（它无法在第一代Pi Zero上构建，因为后者采用不受支持的ARMv6架构。）"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "运行Cactus Compute Needle 3"
+        },
+        {
+          "t": "p",
+          "x": "通过自定义Python工具文件与Home Assistant配合后，Needle 3理解了打开智能插座的提示词，设备随即上线(解码速度280.2 tokens/s, 预填充速度996.4 tokens/s)。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "创建控制远程Docker节点的Python脚本"
+        },
+        {
+          "t": "p",
+          "x": "这些工具可高度定制，可用于智能设备、ESP32传感器、文档分析或Docker控制。编写它们需要花些功夫，但性能足以弥补这份付出。"
+        }
+      ]
     }
   }
 }

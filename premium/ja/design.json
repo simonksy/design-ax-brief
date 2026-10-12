@@ -7771,6 +7771,167 @@
           "x": "Bhowmickの答えはノーだ。合成ユーザーは、すでに実施した人間によるUXリサーチの規模を広げるためだけに使い、重要な製品判断の唯一の根拠にしてはならない。"
         }
       ]
+    },
+    "design/design-figma-wp-blueprint-claude-code": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+        },
+        {
+          "t": "p",
+          "x": "Figmaのデザインを独自のWordPressテーマに変換するClaude Codeスキル集、figma-wp-blueprintを作った。"
+        },
+        {
+          "t": "p",
+          "x": "Figma URLを貼り付けると、次の処理を行う。"
+        },
+        {
+          "t": "p",
+          "x": "• 色、フォント、余白、ブレークポイントを抽出する"
+        },
+        {
+          "t": "p",
+          "x": "• 各セクションをACF Flexible Contentのレイアウト(フィールド、PHPテンプレート、スコープ付きCSS)として構築する"
+        },
+        {
+          "t": "p",
+          "x": "• /pixel-checkで、すべてのブレークポイントにおいて結果をFigmaと照合・計測する"
+        },
+        {
+          "t": "p",
+          "x": "• 機能を一つずつ、それぞれ専用のGitブランチで作業し、コミット前に承認を求める"
+        },
+        {
+          "t": "p",
+          "x": "成果物は純粋なCSSとvanilla JSによるクラシックなPHPテーマだ。ページビルダーもjQueryもビルド工程も使わない。"
+        },
+        {
+          "t": "p",
+          "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — フィードバック歓迎だ。"
+        }
+      ]
+    },
+    "design/design-ai-clients-pixel-pushers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "クリエイティブディレクター兼グラフィックデザイナーで、AIGA Maineの会長を務めるEmily Foranは、この一年、クライアントから独自のアイデアを一から出してほしいと頼まれたことがない。「新規も既存も、クライアントがClaudeやChatGPTにモックアップさせたひどいものを送ってきて、それを整えるか、そのまま使って作業するよう求めてくる」と彼女は言う。クリエイティブというより「ピクセル作業員」になった気分だという。"
+        },
+        {
+          "t": "p",
+          "x": "彼女はFast Companyが取材した十数人のグラフィックデザイナーの一人で、彼らはこの18カ月で生成AIが上司やクライアント、仕事との関係を一変させたと語る。クライアントは料金の引き下げを求め、AIに置き換えられると告げられて解雇されたデザイナーもいれば、「ChatGPTに聞いて」と言うに等しい指示を受ける者もいる。"
+        },
+        {
+          "t": "p",
+          "x": "デザイナーたちは、AI-renderedの画像のせいで後工程の作業が増えたと言う。「以前なら一時間で済んだ作業に三時間かかることもある」とBostonのデザイナーは話す。Premier DesignsのMichele Kaslによれば、クライアントは今やより短い納期を期待しており、「正直に言って、そのせいで仕事を失った」という。Rock Pixel ScissorsのRobert Lodiは、AI-builtのモックアップ向けにリデザイン工程を加えた。「アクセシビリティテストに合格しそうなものは、まだ一つも見たことがない」"
+        },
+        {
+          "t": "p",
+          "x": "マーケティングデザイナーのErikは「とにかくChatGPTに聞け」と言われ、AIの使用をめぐって対立した末に職を失った。Alan Petersのチームはオンラインの AIサービスに取って代わられ、解雇された。Foranによると、若いデザイナーは「機会がなかった」ために業界を去りつつある。"
+        }
+      ]
+    },
+    "design/design-accessibility-agent-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
+          "cap": "ひとつのページに、ふたりの読み手。エージェントは設計された見た目を見ることはなく、その下の構造を読む。"
+        },
+        {
+          "t": "p",
+          "x": "ウェブサイトに新しい種類の訪問者が来ている。それはアクセシビリティツリーと呼ばれる、ページを簡素化したモデルを読む。ブラウザが二十年にわたりスクリーンリーダーのために構築してきたのと同じ構造だ。2026年6月上旬、Cloudflareはウェブ上の自動トラフィックが初めて人間のトラフィックを上回ったと報告した。ページリクエストの約57パーセント対43パーセントである。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
+          "cap": "どこから読み始めるかは、ベンダーによって分かれる。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントはスクリーンショット、生のHTML、あるいはアクセシビリティツリーを読むことができる。Claude in Chromeのread_pageツールはまずアクセシビリティツリーを取得する。MicrosoftのPlaywright MCPは構造化されたアクセシビリティのスナップショットをもとに動作する。OpenAIはサイト運営者に対し、AtlasがARIAタグを使ってページ構造を解釈していると説明している。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
+          "cap": "CHI 2026で発表されたA11y-CUA研究"
+        },
+        {
+          "t": "p",
+          "x": "A11y-CUA研究では、Claude Sonnet 4.5は60の日常的なタスクのうち、通常のアクセスで約78パーセント、キーボードのみで42パーセント、拡大表示のビューポートで28パーセントを完了した。キーボード利用者がタスクを終えられなければ、エージェントもたいてい終えられない。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
+          "cap": "The WebAIM Million"
+        },
+        {
+          "t": "p",
+          "x": "WebAIMは上位百万件のホームページの95.9パーセントで検出可能なWCAG違反を確認した。前回の94.8パーセントから増えており、AI-assistedなコーディングが原因の一つとみられるという。対策はネイティブなHTML、論理的な見出しとランドマーク、名前の付いたコントロール、代替テキスト、ラベル付きの入力欄、状態の読み上げだ。まずはエージェントが操作しなければならないフローから始めるべきである。"
+        }
+      ]
+    },
+    "design/design-iris-3b-pixel-space": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Iris 3B はSpirit Labsによる3B パラメータの画像生成モデルで、FluxやQwen Imageを含むほぼすべての最新の画像生成モデルが頼る変分オートエンコーダー(VAE)と潜在空間のステップを省き、ピクセル空間に直接画像を描く。"
+        },
+        {
+          "t": "p",
+          "x": "テキストプロンプトは凍結したQwen3-VL 4B エンコーダーと小さなテキストアダプターでエンコードし、ノイズの乗った画像をそのまま16x16 ピクセルのパッチに切り分ける。幹となる部分は八つの「デュアルストリーム」ブロックと、それに続く十六の「シングルストリーム」ブロックで構成され、四つの小さなブロックが各パッチを生のピクセル値に戻す。"
+        },
+        {
+          "t": "p",
+          "x": "この手法は、織物の模様や肌の質感、ひげの一本一本といった細部で効果を上げているようだ。代償は速度で、画像一枚の生成に一分から三分かかるという。VRAM使用量は28ギガバイト未満で、FluxやQwen Imageと同程度だ。"
+        },
+        {
+          "t": "p",
+          "x": "同じモデルでも微調整を変えれば、深度推定や画像のアップスケーリングもこなす。一方、人物の文化的・民族的な特徴の表現は弱い。オーストラリア先住民の長老を求めたプロンプトでは先住民らしく見えない顔が生成され、クナーファを求めたプロンプトではバクラヴァに近いものが出てきた。"
+        }
+      ]
+    },
+    "design/odyssey-3-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "California-basedのAI企業Odysseyが、世界モデルOdyssey-3の公開リサーチプレビューを開始した。ユーザーはテキストプロンプトから対話型の環境を生成し、リアルタイムで探索できる。開発者はAPIアクセスを申請できる。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2030/10/odyseey_3_demo_intro.mp4"
+        },
+        {
+          "t": "p",
+          "x": "無料のオンラインデモはOdyssey-3 Flashで動作する。ユーザーは一人称か三人称の視点を選び、世界を移動し、イベントを起こし、モデルの反応を確かめられる。基盤は、インターネット動画、キーボードとマウスの入力を組み合わせたゲーム映像、物理シミュレーションで学習した自己回帰型拡散トランスフォーマーだ。ベースモデルは14B パラメータで832 × 480の映像を出力し、Odyssey-3 Proは1280 × 720に対応する。"
+        },
+        {
+          "t": "p",
+          "x": "Odyssey-3 ProのPhysics-IQ Verifiedでのスコア66.1は、タスクごとに八本の動画から一本を選んだ単一の実行によるものだ。この選別をしない場合、四回の実行の平均は63.37だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2030/10/physics_leaderboard-scaled.jpg",
+          "cap": "スクリーンショット:Odyssey提供"
+        },
+        {
+          "t": "p",
+          "x": "Odysseyは同じモデルでロボットアームやドローン、ゲームキャラクターを動かすことを目指しており、GTA Vをプレイする様子も披露した。2023年にOliver CameronとJeff Hawkeが創業し、2026年6月に$310 millionを調達した。"
+        }
+      ]
     }
   }
 }

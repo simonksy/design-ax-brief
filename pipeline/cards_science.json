@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "science",
   "cards": [
     {
-      "id": "science-lensless-cell-imaging-sfpulse",
+      "id": "science-3d-einstein-tile-aperiodic",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "렌즈 없이 생세포를\n염색 없이 며칠 추적",
-      "body": "Tampere University의 SF-PULSE는 렌즈 없이 세포를 추적한다.",
-      "mini_headline": "렌즈도 염색도 없는 세포 관찰",
+      "headline": "AI와 함께 찾은\n3D 아인슈타인 타일",
+      "body": "반복 패턴 없이 공간을 채우는 3D 아인슈타인 타일을 찾는 데 AI가 힘을 보탰다.",
+      "mini_headline": "AI가 찾은 3D 아인슈타인 타일",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/a-unique-shape-a-3d-einstein-tile-has-been-discovered/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,155 +19,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-            "cap": "SF-PULSE 방법으로 촬영하고 재구성한 교모세포종 세포. 스케일 바: 0.5 mm. 출처: Computational Imaging Group and Molecular Signaling Group, Tampere University."
+            "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+            "cap": "Chair44 모노타일은 반복 패턴 없이 3D 공간을 채운다. Amanda Montañez"
           },
           {
             "t": "p",
-            "x": "Tampere University 연구진이 렌즈리스 정량 위상 이미징 기법 SF-PULSE를 개발했다. 신경망과 물리 기반(physics-informed) 이미지 재구성을 합친 방식으로, 이미지 한 장만으로 살아 있는 세포의 정밀한 정량 데이터를 얻는다."
+            "x": "연구진이 3차원 ‘아인슈타인(einstein)’ 타일을 찾아냈다. 2023년에는 아마추어 수학자 David Smith가 찾은 모자 모양 타일이 최초의 2D 비주기 모노타일로 증명된 바 있다. 평면을 무한히 채우면서도 같은 패턴을 한 번도 되풀이하지 않는 도형이다."
           },
           {
             "t": "p",
-            "x": "시스템이 작아 일반 세포 배양(cell-culture) 인큐베이터에 그대로 들어가고, 염색이나 다른 표지 없이 살아 있는 세포를 몇 시간에서 며칠까지 계속 지켜본다. 제1저자 Igor Shevkunov는 SF-PULSE가 \"단 한 장의 측정 이미지로 정량 위상 정보를 재구성할 수 있다\"고 설명했다."
+            "x": "이번 Chair44 모노타일은 틈도 겹침도 없이 3D 공간을 무한히 채우고, 배열은 비주기적이다. 발견을 발표한 이는 Automorph 대표 Ioannis Tsiokos다. 그는 Automorph를 AI 연구소라고 소개한다. 프리프린트의 유일한 인간 저자인 Tsiokos는 “저는 수학자가 아닙니다”라고 말한다. 논문은 Anthropic의 Claude Fable 5.1로 썼고, 3D 모노타일 탐색과 Chair44가 einstein 조건을 충족하는지 검증하는 일은 OpenAI의 ChatGPT-6 Astra에 맡겼다고 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+            "cap": "Chair44 모노타일 8개를 이어 만든 Superchair44의 분해도와 조립도."
           },
           {
             "t": "p",
-            "x": "집단 평균 대신 개별 세포를 따라가므로 세포의 성장, 이동, 분열, 바이오매스 변화를 시간 순으로 추적한다. 연구진은 약물 반응(drug-response) 연구, 독성 스크리닝, 세포 사멸(cell-death) 연구에 활용될 것으로 본다. 연구 결과는 Applied Physics Letters에 실렸다."
+            "x": "Craig Kaplan은 이 결과가 “타일링 이론에서 오래 남아 있던 골치 아픈 미해결 문제”를 매듭짓는다고 본다. 기존 Schmitt-Conway-Danzer 쌍각기둥은 비주기성이 약했기 때문이다. 생성형 AI에 크게 기댄 탓에 반응은 엇갈린다. Chaim Goodman-Strauss는 이 논문에서 “LLM-driven 연구 논문의 특징”이 보인다고 했다. 그는 Felix Flicker와 함께 Chair44가 비주기 모노타일임을 사람 손으로 직접 증명한 글을 썼다. Flicker는 “우리 일이 금덩이를 찾으려고 AI 슬롭(slop)을 뒤지는 일로 전락할 위험이 있다”고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Lensless imaging tracks living\ncells for days without stains",
-          "body": "Tampere University's SF-PULSE pulls quantitative cell data from a single lensless image, tracking growth for days.",
-          "mini_headline": "Lensless cell imaging, no stains",
+          "headline": "A 3D einstein tile\nfound with help from AI",
+          "body": "AI helped uncover a 3D einstein tile, a shape that fills space without ever forming a repeating pattern.",
+          "mini_headline": "AI finds a 3D einstein tile",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-                "cap": "Glioblastoma cells imaged and reconstructed with the SF-PULSE method. Scale bar: 0.5 mm. Credit: Computational Imaging Group and Molecular Signaling Group, Tampere University."
+                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+                "cap": "The Chair44 monotile can fill 3D space without creating repeating patterns. Amanda Montañez"
               },
               {
                 "t": "p",
-                "x": "Researchers at Tampere University have developed SF-PULSE, a lensless quantitative phase imaging method that combines a neural network with physics-informed image reconstruction. It produces precise quantitative data on living cells from a single image."
+                "x": "Researchers have just discovered a three-dimensional “einstein” tile. In 2023 the hat-shaped tile found by amateur mathematician David Smith was proved the first known 2D aperiodic monotile: a shape that can infinitely tile a surface without ever creating a repeating pattern."
               },
               {
                 "t": "p",
-                "x": "The compact system can be placed inside a standard cell-culture incubator, allowing living cells to be monitored continuously for hours or even days without staining or other labels. According to first author Igor Shevkunov, SF-PULSE \"can reconstruct quantitative phase information from a single measurement image.\""
+                "x": "Now the Chair44 monotile can infinitely tile 3D space without gaps or overlaps, and that tiling is aperiodic. The finding was announced by Ioannis Tsiokos, director of Automorph, which he describes as an AI research lab. “I’m not a mathematician myself,” says Tsiokos, the sole human author of the preprint. He says he used Anthropic’s Claude Fable 5.1 to write the paper and OpenAI’s ChatGPT-6 Astra to search for a 3D monotile and verify that Chair44 met the criteria for an einstein."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+                "cap": "An exploded and assembled version of Superchair44, composed of eight iterations of the Chair44 monotile."
               },
               {
                 "t": "p",
-                "x": "Because it follows individual cells rather than population averages, the method can track their growth, movement, division and biomass changes over time. The researchers see uses in drug-response studies, toxicity screening and cell-death research. The work is published in Applied Physics Letters."
+                "x": "Craig Kaplan says it settles “a nagging open problem in tiling theory”: the older Schmitt-Conway-Danzer biprism was only weakly aperiodic. Reception has been mixed because of the heavy use of generative AI. Chaim Goodman-Strauss said the paper has “hallmarks of an LLM-driven research paper,” and he and Felix Flicker have written human proofs that Chair44 is an aperiodic monotile. “The risk is that our jobs get reduced to sifting through AI slop in search of nuggets of gold,” Flicker says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "렌즈 없이 생세포를\n염색 없이 며칠 추적",
-          "body": "Tampere University의 SF-PULSE는 렌즈 없이 세포를 추적한다.",
-          "mini_headline": "렌즈도 염색도 없는 세포 관찰",
+          "headline": "AI와 함께 찾은\n3D 아인슈타인 타일",
+          "body": "반복 패턴 없이 공간을 채우는 3D 아인슈타인 타일을 찾는 데 AI가 힘을 보탰다.",
+          "mini_headline": "AI가 찾은 3D 아인슈타인 타일",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-                "cap": "SF-PULSE 방법으로 촬영하고 재구성한 교모세포종 세포. 스케일 바: 0.5 mm. 출처: Computational Imaging Group and Molecular Signaling Group, Tampere University."
+                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+                "cap": "Chair44 모노타일은 반복 패턴 없이 3D 공간을 채운다. Amanda Montañez"
               },
               {
                 "t": "p",
-                "x": "Tampere University 연구진이 렌즈리스 정량 위상 이미징 기법 SF-PULSE를 개발했다. 신경망과 물리 기반(physics-informed) 이미지 재구성을 합친 방식으로, 이미지 한 장만으로 살아 있는 세포의 정밀한 정량 데이터를 얻는다."
+                "x": "연구진이 3차원 ‘아인슈타인(einstein)’ 타일을 찾아냈다. 2023년에는 아마추어 수학자 David Smith가 찾은 모자 모양 타일이 최초의 2D 비주기 모노타일로 증명된 바 있다. 평면을 무한히 채우면서도 같은 패턴을 한 번도 되풀이하지 않는 도형이다."
               },
               {
                 "t": "p",
-                "x": "시스템이 작아 일반 세포 배양(cell-culture) 인큐베이터에 그대로 들어가고, 염색이나 다른 표지 없이 살아 있는 세포를 몇 시간에서 며칠까지 계속 지켜본다. 제1저자 Igor Shevkunov는 SF-PULSE가 \"단 한 장의 측정 이미지로 정량 위상 정보를 재구성할 수 있다\"고 설명했다."
+                "x": "이번 Chair44 모노타일은 틈도 겹침도 없이 3D 공간을 무한히 채우고, 배열은 비주기적이다. 발견을 발표한 이는 Automorph 대표 Ioannis Tsiokos다. 그는 Automorph를 AI 연구소라고 소개한다. 프리프린트의 유일한 인간 저자인 Tsiokos는 “저는 수학자가 아닙니다”라고 말한다. 논문은 Anthropic의 Claude Fable 5.1로 썼고, 3D 모노타일 탐색과 Chair44가 einstein 조건을 충족하는지 검증하는 일은 OpenAI의 ChatGPT-6 Astra에 맡겼다고 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+                "cap": "Chair44 모노타일 8개를 이어 만든 Superchair44의 분해도와 조립도."
               },
               {
                 "t": "p",
-                "x": "집단 평균 대신 개별 세포를 따라가므로 세포의 성장, 이동, 분열, 바이오매스 변화를 시간 순으로 추적한다. 연구진은 약물 반응(drug-response) 연구, 독성 스크리닝, 세포 사멸(cell-death) 연구에 활용될 것으로 본다. 연구 결과는 Applied Physics Letters에 실렸다."
+                "x": "Craig Kaplan은 이 결과가 “타일링 이론에서 오래 남아 있던 골치 아픈 미해결 문제”를 매듭짓는다고 본다. 기존 Schmitt-Conway-Danzer 쌍각기둥은 비주기성이 약했기 때문이다. 생성형 AI에 크게 기댄 탓에 반응은 엇갈린다. Chaim Goodman-Strauss는 이 논문에서 “LLM-driven 연구 논문의 특징”이 보인다고 했다. 그는 Felix Flicker와 함께 Chair44가 비주기 모노타일임을 사람 손으로 직접 증명한 글을 썼다. Flicker는 “우리 일이 금덩이를 찾으려고 AI 슬롭(slop)을 뒤지는 일로 전락할 위험이 있다”고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "レンズなしで生細胞を\n染色せず数日間追跡",
-          "body": "Tampere UniversityのSF-PULSEはレンズなしで細胞を数日間追跡する。",
-          "mini_headline": "レンズも染色も不要の細胞観察",
+          "headline": "AIの助けで見つかった\n3D アインシュタインタイル",
+          "body": "AIの助けで、繰り返し模様を作らずに空間を埋める3D アインシュタインタイルが見つかった。",
+          "mini_headline": "AIが3D アインシュタインタイルを発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-                "cap": "SF-PULSE法で撮像・再構成した膠芽腫細胞。スケールバーは0.5 mm である。提供:Computational Imaging Group and Molecular Signaling Group, Tampere University"
+                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+                "cap": "Chair44 モノタイルは繰り返し模様を作らずに3D 空間を埋め尽くせる。Amanda Montañez"
               },
               {
                 "t": "p",
-                "x": "Tampere Universityの研究チームは、ニューラルネットワークと物理情報に基づく(physics-informed)画像再構成を組み合わせたレンズレス定量位相イメージング法「SF-PULSE」を開発した。1枚の画像から生きた細胞の精密な定量データが得られる。"
+                "x": "研究者たちが3次元の「アインシュタイン（einstein）」タイルを発見した。2023年には、アマチュア数学者David Smithが見つけた帽子形のタイルが、初めて知られた2D 非周期モノタイルであると証明された。繰り返し模様を一度も作らずに平面を無限に敷き詰められる図形である。"
               },
               {
                 "t": "p",
-                "x": "装置は小型で、標準的な細胞培養(cell-culture)インキュベーター内に設置でき、染色などの標識を使わずに生細胞を数時間から数日間にわたって連続観察できる。筆頭著者のIgor Shevkunov氏によると、SF-PULSEは「1枚の測定画像から定量位相情報を再構成できる」という。"
+                "x": "今回のChair44 モノタイルは、隙間も重なりもなく3D 空間を無限に埋め尽くし、その敷き詰めは非周期的である。発見を発表したのはAutomorphの代表Ioannis Tsiokosで、彼は同社をAI研究所と説明している。プレプリントの唯一の人間の著者であるTsiokosは「私自身は数学者ではない」と語る。論文の執筆にはAnthropicのClaude Fable 5.1を、3D モノタイルの探索とChair44がeinsteinの条件を満たすかの検証にはOpenAIのChatGPT-6 Astraを使ったという。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+                "cap": "Chair44 モノタイル8個を組み合わせたSuperchair44の分解図と組立図。"
               },
               {
                 "t": "p",
-                "x": "集団の平均ではなく個々の細胞を追うため、成長、移動、分裂、バイオマスの変化を経時的に追跡できる。研究チームは薬剤応答(drug-response)研究、毒性スクリーニング、細胞死(cell-death)研究への応用を見込む。成果はApplied Physics Lettersに掲載された。"
+                "x": "Craig Kaplanは、これが「タイリング理論で長く残っていた厄介な未解決問題」に決着をつけると評価する。従来のSchmitt-Conway-Danzer双角柱は弱い非周期性しか持たなかったからだ。一方、生成AIを多用したことで反応は割れている。Chaim Goodman-Straussは論文に「LLM-driven研究論文の特徴」があると指摘し、彼とFelix FlickerはChair44が非周期モノタイルであることを人の手で証明した。Flickerは「私たちの仕事が、金塊を探してAIスロップ（slop）をふるいにかける作業に成り下がる恐れがある」と語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "无透镜成像免染色\n连续数日追踪活细胞",
-          "body": "Tampere University的SF-PULSE仅凭一张无透镜图像即可追踪细胞数日。",
-          "mini_headline": "无透镜、免染色的细胞成像",
+          "headline": "借助AI发现\n3D 爱因斯坦密铺块",
+          "body": "AI助力发现了一种3D 爱因斯坦密铺块，它能填满空间且永不形成重复图案。",
+          "mini_headline": "AI发现3D 爱因斯坦密铺块",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-                "cap": "用SF-PULSE方法成像并重建的胶质母细胞瘤细胞，比例尺为0.5 mm (图片来源：Computational Imaging Group and Molecular Signaling Group, Tampere University)。"
+                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+                "cap": "Chair44 单片密铺块可以填满3D 空间而不产生重复图案。Amanda Montañez"
               },
               {
                 "t": "p",
-                "x": "Tampere University的研究人员开发出SF-PULSE，这是一种将神经网络与物理信息驱动（physics-informed）的图像重建相结合的无透镜定量相位成像方法，仅凭一张图像即可获得活细胞的精确定量数据。"
+                "x": "研究人员刚刚发现了一种三维“爱因斯坦”（einstein）密铺块。2023年，业余数学家David Smith发现的帽子形密铺块被证明是首个已知的2D 非周期单片密铺块：一种可以无限铺满平面、却永远不会形成重复图案的形状。"
               },
               {
                 "t": "p",
-                "x": "这套紧凑的系统可放入标准细胞培养（cell-culture）培养箱，无需染色或其他标记，就能连续数小时乃至数日监测活细胞。第一作者Igor Shevkunov表示，SF-PULSE“能够从单张测量图像中重建定量相位信息”。"
+                "x": "如今，Chair44 单片密铺块能够无缝隙、无重叠地无限填满3D 空间，而且这种铺法是非周期的。这一发现由Automorph负责人Ioannis Tsiokos宣布，他称Automorph是一家AI研究实验室。作为这篇预印本唯一的人类作者，Tsiokos说：“我自己并不是数学家。”他表示，论文由Anthropic的Claude Fable 5.1撰写，而搜索3D 单片密铺块并验证Chair44是否符合einstein标准，则用了OpenAI的ChatGPT-6 Astra。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+                "cap": "Superchair44的分解图与组装图，由8个Chair44 单片密铺块组成。"
               },
               {
                 "t": "p",
-                "x": "由于该方法追踪的是单个细胞而非群体平均值，它可以记录细胞随时间的生长、移动、分裂和生物量变化。研究人员认为它可用于药物反应（drug-response）研究、毒性筛查和细胞死亡（cell-death）研究。该成果发表于Applied Physics Letters。"
+                "x": "Craig Kaplan认为，这解决了“密铺理论中一个长期悬而未决的棘手问题”：此前的Schmitt-Conway-Danzer双棱柱只是弱非周期的。由于大量使用生成式AI，外界反应不一。Chaim Goodman-Strauss说，这篇论文带有“LLM-driven研究论文的特征”，他与Felix Flicker已经写出了Chair44是非周期单片密铺块的人工证明。Flicker说：“风险在于，我们的工作会沦为在AI垃圾内容（slop）里淘金。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Imagen sin lentes sigue células\nvivas durante días sin tinción",
-          "body": "SF-PULSE, de Tampere University, cuantifica células con una sola imagen sin lentes y sigue su crecimiento durante días.",
-          "mini_headline": "Imagen celular sin lentes ni tinción",
+          "headline": "Una tesela einstein en 3D\nhallada con ayuda de la AI",
+          "body": "La AI ayudó a descubrir una tesela einstein en 3D, una forma que llena el espacio sin repetir nunca un patrón.",
+          "mini_headline": "La AI halla una tesela einstein en 3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-                "cap": "Células de glioblastoma captadas y reconstruidas con el método SF-PULSE. Barra de escala: 0.5 mm. Crédito: Computational Imaging Group and Molecular Signaling Group, Tampere University."
+                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+                "cap": "La monotesela Chair44 puede llenar el espacio 3D sin crear patrones repetidos. Amanda Montañez"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Tampere University han desarrollado SF-PULSE, un método de imagen de fase cuantitativa sin lentes que combina una red neuronal con una reconstrucción de imagen basada en la física (physics-informed). Produce datos cuantitativos precisos sobre células vivas a partir de una sola imagen."
+                "x": "Un grupo de investigadores acaba de descubrir una tesela “einstein” tridimensional. En 2023 se demostró que la tesela con forma de sombrero hallada por el matemático aficionado David Smith era la primera monotesela aperiódica 2D conocida: una forma que puede teselar una superficie de manera infinita sin crear nunca un patrón repetido."
               },
               {
                 "t": "p",
-                "x": "El sistema, compacto, puede colocarse dentro de una incubadora estándar de cultivo celular (cell-culture), lo que permite vigilar células vivas de forma continua durante horas o incluso días sin tinción ni otros marcadores. Según el primer autor, Igor Shevkunov, SF-PULSE \"puede reconstruir información de fase cuantitativa a partir de una sola imagen de medición\"."
+                "x": "Ahora, la monotesela Chair44 puede teselar de manera infinita el espacio 3D sin huecos ni solapamientos, y esa teselación es aperiódica. El hallazgo lo anunció Ioannis Tsiokos, director de Automorph, que él describe como un laboratorio de investigación en AI. “Yo no soy matemático”, dice Tsiokos, único autor humano del preprint. Afirma que usó Claude Fable 5.1, de Anthropic, para escribir el artículo, y ChatGPT-6 Astra, de OpenAI, para buscar una monotesela 3D y verificar que Chair44 cumplía los criterios de una einstein."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+                "cap": "Versión despiezada y ensamblada de Superchair44, compuesta por ocho iteraciones de la monotesela Chair44."
               },
               {
                 "t": "p",
-                "x": "Como sigue células individuales y no promedios de población, el método puede registrar su crecimiento, movimiento, división y cambios de biomasa a lo largo del tiempo. Los investigadores prevén usos en estudios de respuesta a fármacos (drug-response), cribado de toxicidad e investigación sobre muerte celular (cell-death). El trabajo se publica en Applied Physics Letters."
+                "x": "Craig Kaplan afirma que resuelve “un persistente problema abierto de la teoría de teselaciones”: el antiguo biprisma de Schmitt-Conway-Danzer solo era débilmente aperiódico. La recepción ha sido dispar por el uso intensivo de AI generativa. Chaim Goodman-Strauss dijo que el artículo tiene “rasgos de un artículo de investigación LLM-driven”, y él y Felix Flicker han escrito demostraciones humanas de que Chair44 es una monotesela aperiódica. “El riesgo es que nuestro trabajo quede reducido a cribar basura de AI en busca de pepitas de oro”, dice Flicker."
               }
             ]
           }
@@ -175,109 +205,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "렌즈 없이 생세포를\n염색 없이 며칠 추적",
-          "body": "Tampere University의 SF-PULSE는 렌즈 없이 세포를 추적한다.",
-          "mini_headline": "렌즈도 염색도 없는 세포 관찰",
+          "headline": "AI의 도움으로 찾은\n3D 아인슈타인 타일",
+          "body": "AI가 반복 패턴 없이 공간을 채우는 3D 아인슈타인 타일 발견을 도왔다.",
+          "mini_headline": "AI가 찾은 3D 아인슈타인 타일",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-                "cap": "SF-PULSE 방법으로 촬영하고 재구성한 교모세포종 세포. 스케일 바: 0.5 mm. 출처: Computational Imaging Group and Molecular Signaling Group, Tampere University."
+                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+                "cap": "Chair44 모노타일은 반복 패턴을 만들지 않고 3D 공간을 채울 수 있다. Amanda Montañez"
               },
               {
                 "t": "p",
-                "x": "Tampere University 연구진이 신경망과 물리 기반(physics-informed) 이미지 재구성을 결합한 렌즈리스 정량 위상 이미징 기법 SF-PULSE를 개발했다. 이 기법은 이미지 한 장만으로 살아 있는 세포의 정밀한 정량 데이터를 얻는다."
+                "x": "연구진이 3차원 ‘아인슈타인(einstein)’ 타일을 발견했다. 2023년에는 아마추어 수학자 David Smith가 찾은 모자 모양 타일이 처음으로 알려진 2D 비주기 모노타일로 증명됐다. 반복 패턴을 한 번도 만들지 않으면서 평면을 무한히 채울 수 있는 도형이다."
               },
               {
                 "t": "p",
-                "x": "시스템이 작아 일반 세포 배양(cell-culture) 인큐베이터 안에 넣을 수 있고, 염색이나 다른 표지 없이 살아 있는 세포를 몇 시간에서 며칠까지 연속으로 관찰할 수 있다. 제1저자 Igor Shevkunov는 SF-PULSE가 \"단 한 장의 측정 이미지로 정량 위상 정보를 재구성할 수 있다\"고 설명했다."
+                "x": "이번에 나온 Chair44 모노타일은 틈이나 겹침 없이 3D 공간을 무한히 채우며, 그 배열은 비주기적이다. 발견을 발표한 사람은 Automorph의 대표 Ioannis Tsiokos로, 그는 Automorph를 AI 연구소라고 소개한다. 프리프린트의 유일한 인간 저자인 Tsiokos는 “저는 수학자가 아닙니다”라고 말한다. 그는 논문 작성에 Anthropic의 Claude Fable 5.1을 썼고, 3D 모노타일 탐색과 Chair44가 einstein 조건을 충족하는지 검증하는 데는 OpenAI의 ChatGPT-6 Astra를 썼다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+                "cap": "Chair44 모노타일 8개를 이어 만든 Superchair44의 분해도와 조립도."
               },
               {
                 "t": "p",
-                "x": "집단 평균이 아니라 개별 세포를 따라가기 때문에 시간에 따른 세포의 성장, 이동, 분열, 바이오매스 변화를 추적할 수 있다. 연구진은 약물 반응(drug-response) 연구, 독성 스크리닝, 세포 사멸(cell-death) 연구에 쓰일 수 있다고 본다. 연구 결과는 Applied Physics Letters에 실렸다."
+                "x": "Craig Kaplan은 이 결과가 “타일링 이론에서 오래 남아 있던 골치 아픈 미해결 문제”를 매듭짓는다고 평가한다. 기존 Schmitt-Conway-Danzer 쌍각기둥은 약한 비주기성만 지녔기 때문이다. 다만 생성형 AI를 많이 쓴 탓에 반응은 엇갈린다. Chaim Goodman-Strauss는 이 논문에 “LLM-driven 연구 논문의 특징”이 있다고 했고, 그와 Felix Flicker는 Chair44가 비주기 모노타일임을 사람이 직접 증명한 글을 썼다. Flicker는 “우리 일이 금덩이를 찾으려고 AI 슬롭(slop)을 뒤지는 일로 전락할 위험이 있다”고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "レンズなしで生細胞を\n染色せず数日間追跡",
-          "body": "Tampere UniversityのSF-PULSEはレンズなしで細胞を数日間追跡する。",
-          "mini_headline": "レンズも染色も不要の細胞観察",
+          "headline": "AIの助けで見つかった\n3D アインシュタインタイル",
+          "body": "AIの助けで、繰り返し模様を作らずに空間を埋める3D アインシュタインタイルが見つかった。",
+          "mini_headline": "AIが3D アインシュタインタイルを発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-                "cap": "SF-PULSE法で撮像・再構成した膠芽腫細胞。スケールバーは0.5 mm である。提供:Computational Imaging Group and Molecular Signaling Group, Tampere University"
+                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+                "cap": "Chair44 モノタイルは繰り返し模様を作らずに3D 空間を埋め尽くせる。Amanda Montañez"
               },
               {
                 "t": "p",
-                "x": "Tampere Universityの研究チームは、ニューラルネットワークと物理情報に基づく(physics-informed)画像再構成を組み合わせたレンズレス定量位相イメージング法「SF-PULSE」を開発した。1枚の画像から生きた細胞の精密な定量データが得られる。"
+                "x": "研究者たちが3次元の「アインシュタイン（einstein）」タイルを発見した。2023年には、アマチュア数学者David Smithが見つけた帽子形のタイルが、初めて知られた2D 非周期モノタイルであると証明された。繰り返し模様を一度も作らずに平面を無限に敷き詰められる図形である。"
               },
               {
                 "t": "p",
-                "x": "装置は小型で、標準的な細胞培養(cell-culture)インキュベーター内に設置でき、染色などの標識を使わずに生細胞を数時間から数日間にわたって連続観察できる。筆頭著者のIgor Shevkunov氏によると、SF-PULSEは「1枚の測定画像から定量位相情報を再構成できる」という。"
+                "x": "今回のChair44 モノタイルは、隙間も重なりもなく3D 空間を無限に埋め尽くし、その敷き詰めは非周期的である。発見を発表したのはAutomorphの代表Ioannis Tsiokosで、彼は同社をAI研究所と説明している。プレプリントの唯一の人間の著者であるTsiokosは「私自身は数学者ではない」と語る。論文の執筆にはAnthropicのClaude Fable 5.1を、3D モノタイルの探索とChair44がeinsteinの条件を満たすかの検証にはOpenAIのChatGPT-6 Astraを使ったという。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+                "cap": "Chair44 モノタイル8個を組み合わせたSuperchair44の分解図と組立図。"
               },
               {
                 "t": "p",
-                "x": "集団の平均ではなく個々の細胞を追うため、成長、移動、分裂、バイオマスの変化を経時的に追跡できる。研究チームは薬剤応答(drug-response)研究、毒性スクリーニング、細胞死(cell-death)研究への応用を見込む。成果はApplied Physics Lettersに掲載された。"
+                "x": "Craig Kaplanは、これが「タイリング理論で長く残っていた厄介な未解決問題」に決着をつけると評価する。従来のSchmitt-Conway-Danzer双角柱は弱い非周期性しか持たなかったからだ。一方、生成AIを多用したことで反応は割れている。Chaim Goodman-Straussは論文に「LLM-driven研究論文の特徴」があると指摘し、彼とFelix FlickerはChair44が非周期モノタイルであることを人の手で証明した。Flickerは「私たちの仕事が、金塊を探してAIスロップ（slop）をふるいにかける作業に成り下がる恐れがある」と語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "无透镜成像免染色\n连续数日追踪活细胞",
-          "body": "Tampere University的SF-PULSE仅凭一张无透镜图像即可追踪细胞数日。",
-          "mini_headline": "无透镜、免染色的细胞成像",
+          "headline": "借助AI发现\n3D 爱因斯坦密铺块",
+          "body": "AI助力发现了一种3D 爱因斯坦密铺块，它能填满空间且永不形成重复图案。",
+          "mini_headline": "AI发现3D 爱因斯坦密铺块",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-                "cap": "用SF-PULSE方法成像并重建的胶质母细胞瘤细胞，比例尺为0.5 mm (图片来源：Computational Imaging Group and Molecular Signaling Group, Tampere University)。"
+                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+                "cap": "Chair44 单片密铺块可以填满3D 空间而不产生重复图案。Amanda Montañez"
               },
               {
                 "t": "p",
-                "x": "Tampere University的研究人员开发出SF-PULSE，这是一种将神经网络与物理信息驱动（physics-informed）的图像重建相结合的无透镜定量相位成像方法，仅凭一张图像即可获得活细胞的精确定量数据。"
+                "x": "研究人员刚刚发现了一种三维“爱因斯坦”（einstein）密铺块。2023年，业余数学家David Smith发现的帽子形密铺块被证明是首个已知的2D 非周期单片密铺块：一种可以无限铺满平面、却永远不会形成重复图案的形状。"
               },
               {
                 "t": "p",
-                "x": "这套紧凑的系统可放入标准细胞培养（cell-culture）培养箱，无需染色或其他标记，就能连续数小时乃至数日监测活细胞。第一作者Igor Shevkunov表示，SF-PULSE“能够从单张测量图像中重建定量相位信息”。"
+                "x": "如今，Chair44 单片密铺块能够无缝隙、无重叠地无限填满3D 空间，而且这种铺法是非周期的。这一发现由Automorph负责人Ioannis Tsiokos宣布，他称Automorph是一家AI研究实验室。作为这篇预印本唯一的人类作者，Tsiokos说：“我自己并不是数学家。”他表示，论文由Anthropic的Claude Fable 5.1撰写，而搜索3D 单片密铺块并验证Chair44是否符合einstein标准，则用了OpenAI的ChatGPT-6 Astra。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+                "cap": "Superchair44的分解图与组装图，由8个Chair44 单片密铺块组成。"
               },
               {
                 "t": "p",
-                "x": "由于该方法追踪的是单个细胞而非群体平均值，它可以记录细胞随时间的生长、移动、分裂和生物量变化。研究人员认为它可用于药物反应（drug-response）研究、毒性筛查和细胞死亡（cell-death）研究。该成果发表于Applied Physics Letters。"
+                "x": "Craig Kaplan认为，这解决了“密铺理论中一个长期悬而未决的棘手问题”：此前的Schmitt-Conway-Danzer双棱柱只是弱非周期的。由于大量使用生成式AI，外界反应不一。Chaim Goodman-Strauss说，这篇论文带有“LLM-driven研究论文的特征”，他与Felix Flicker已经写出了Chair44是非周期单片密铺块的人工证明。Flicker说：“风险在于，我们的工作会沦为在AI垃圾内容（slop）里淘金。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Imagen sin lentes sigue células\nvivas durante días sin tinción",
-          "body": "SF-PULSE, de Tampere University, cuantifica células con una sola imagen sin lentes y sigue su crecimiento durante días.",
-          "mini_headline": "Imagen celular sin lentes ni tinción",
+          "headline": "Una tesela einstein en 3D\nhallada con ayuda de la AI",
+          "body": "La AI ayudó a descubrir una tesela einstein en 3D, una forma que llena el espacio sin repetir nunca un patrón.",
+          "mini_headline": "La AI halla una tesela einstein en 3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-                "cap": "Células de glioblastoma captadas y reconstruidas con el método SF-PULSE. Barra de escala: 0.5 mm. Crédito: Computational Imaging Group and Molecular Signaling Group, Tampere University."
+                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+                "cap": "La monotesela Chair44 puede llenar el espacio 3D sin crear patrones repetidos. Amanda Montañez"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Tampere University han desarrollado SF-PULSE, un método de imagen de fase cuantitativa sin lentes que combina una red neuronal con una reconstrucción de imagen basada en la física (physics-informed). Produce datos cuantitativos precisos sobre células vivas a partir de una sola imagen."
+                "x": "Un grupo de investigadores acaba de descubrir una tesela “einstein” tridimensional. En 2023 se demostró que la tesela con forma de sombrero hallada por el matemático aficionado David Smith era la primera monotesela aperiódica 2D conocida: una forma que puede teselar una superficie de manera infinita sin crear nunca un patrón repetido."
               },
               {
                 "t": "p",
-                "x": "El sistema, compacto, puede colocarse dentro de una incubadora estándar de cultivo celular (cell-culture), lo que permite vigilar células vivas de forma continua durante horas o incluso días sin tinción ni otros marcadores. Según el primer autor, Igor Shevkunov, SF-PULSE \"puede reconstruir información de fase cuantitativa a partir de una sola imagen de medición\"."
+                "x": "Ahora, la monotesela Chair44 puede teselar de manera infinita el espacio 3D sin huecos ni solapamientos, y esa teselación es aperiódica. El hallazgo lo anunció Ioannis Tsiokos, director de Automorph, que él describe como un laboratorio de investigación en AI. “Yo no soy matemático”, dice Tsiokos, único autor humano del preprint. Afirma que usó Claude Fable 5.1, de Anthropic, para escribir el artículo, y ChatGPT-6 Astra, de OpenAI, para buscar una monotesela 3D y verificar que Chair44 cumplía los criterios de una einstein."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+                "cap": "Versión despiezada y ensamblada de Superchair44, compuesta por ocho iteraciones de la monotesela Chair44."
               },
               {
                 "t": "p",
-                "x": "Como sigue células individuales y no promedios de población, el método puede registrar su crecimiento, movimiento, división y cambios de biomasa a lo largo del tiempo. Los investigadores prevén usos en estudios de respuesta a fármacos (drug-response), cribado de toxicidad e investigación sobre muerte celular (cell-death). El trabajo se publica en Applied Physics Letters."
+                "x": "Craig Kaplan afirma que resuelve “un persistente problema abierto de la teoría de teselaciones”: el antiguo biprisma de Schmitt-Conway-Danzer solo era débilmente aperiódico. La recepción ha sido dispar por el uso intensivo de AI generativa. Chaim Goodman-Strauss dijo que el artículo tiene “rasgos de un artículo de investigación LLM-driven”, y él y Felix Flicker han escrito demostraciones humanas de que Chair44 es una monotesela aperiódica. “El riesgo es que nuestro trabajo quede reducido a cribar basura de AI en busca de pepitas de oro”, dice Flicker."
               }
             ]
           }
@@ -285,15 +335,15 @@
       }
     },
     {
-      "id": "science-ntu-lace-llm-heuristics",
+      "id": "science-plato-phasehub-protein-phase",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 최적화 소프트웨어를\n몇 달 아닌 한 시간에",
-      "body": "NTU Singapore LACE는 LLMs로 US$10 미만에 97-99%였다.",
-      "mini_headline": "AI가 한 시간 만에 해법 설계",
+      "headline": "LLMs로 들여다본\n여러 종의 단백질 상분리",
+      "body": "NTU Singapore는 LLMs로 PubMed를 훑어 PLATO를 구축했다.",
+      "mini_headline": "LLMs로 그린 단백질 상분리 지도",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-ai-custom-decision-software-hour.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -301,155 +351,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-            "cap": "직접 만든 LACE 모델을 소개하는 Research Fellow Dr Gong Huatian(L)과 Asst Prof Yan Ran. 출처: NTU Singapore."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+            "cap": "균류. Credit: CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "Nanyang Technological University, Singapore(NTU) 연구진이 AI 프레임워크 LACE(LLM-driven Algorithm Construction via Complementary Evolution)를 개발했다. 일상 언어(plain-language)로 쓴 문제 설명만 넣으면 의사결정(decision-making) 소프트웨어를 만들어 준다. 전문 엔지니어에게 몇 달 걸리던 일을 약 한 시간으로 줄였다."
+            "x": "싱가포르 Nanyang Technological University 연구진이 어떤 단백질이 상분리하는지 예측하는 AI 도구 두 가지를 내놓았다. 상분리란 단백질이 세포 안에서 물방울 같은 구획을 만드는 현상이다. 결과는 Molecular Plant에 실렸다."
           },
           {
             "t": "p",
-            "x": "LACE는 문제를 모듈 단위로 쪼갠 뒤 서로 보완하는 전문 휴리스틱 팀을 진화시켜 이를 처리한다. 컨테이너 터미널, 예인선 경로 설정 등 새로운 해운 문제 네 가지로 시험하자 비교한 모든 방법의 최고 결과 대비 97%에서 99% 수준까지 올라왔고, 문제당 계산 비용은 US$10 미만이었다. Google의 FunSearch 등 LLM-based 경쟁 시스템은 실행 가능한 해조차 내지 못했다."
+            "x": "PLATO에는 단백질 서열 5,118개가 들어 있다. 상분리하는 서열 3,600개 이상, 상분리하지 않는 서열 약 1,300개에 더해 기존 데이터셋에 드물던 절단 단백질, 돌연변이, 인공 변이체까지 담았다. 연구팀은 대규모 언어 모델로 PubMed 논문을 분석하고 그 결과를 직접 검수해 데이터베이스를 쌓았다."
           },
           {
             "t": "p",
-            "x": "Asst Prof Yan Ran과 Dr Gong Huatian이 이끈 연구팀은 소규모 팀, 지역 물류 거점, 공공보건 기관, 유틸리티 기업이 이 방식의 덕을 볼 수 있다고 말한다. Yan은 \"더 큰 AI 모델을 만드는 것만이 아니라 AI 프레임워크를 영리하게 설계하는 것으로 이 격차를 메울 수 있다\"고 말했다. 연구 결과는 Nature Machine Intelligence에 실렸다."
+            "x": "PhaseHub는 1,106개 종에 걸친 MolPhase 예측에 단백질 존재량·상호작용 데이터를 엮어 다성분 구획을 찾는다. 사용자는 단백질을 검색하거나 서열을 넣어 보고 상호작용도 살필 수 있다. 상분리 단백질로 예측된 비율은 대체로 진핵생물이 세균보다 높다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 암, 알츠하이머병, 노화, 작물 개량 연구에 이 도구가 쓰일 수 있다고 본다. 제1저자 Liang Qiyu 박사는 이 연구가 “상분리 단백질을 이해하기 위한 포괄적 프레임워크를 제공한다”고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI builds optimization software\nin an hour, not months",
-          "body": "NTU Singapore's LACE uses LLMs to evolve heuristic teams, reaching 97-99% of the best tested methods for under US$10.",
-          "mini_headline": "AI designs solvers in an hour",
+          "headline": "LLMs map protein phase\nseparation across species",
+          "body": "NTU Singapore used LLMs to mine PubMed for PLATO, a database of 5,118 protein sequences and their phase behavior.",
+          "mini_headline": "Protein phase maps via LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-                "cap": "Research Fellow Dr Gong Huatian (L) and Asst Prof Yan Ran highlighting the LACE model they created. Credit: NTU Singapore."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+                "cap": "Fungi. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Researchers at Nanyang Technological University, Singapore (NTU) have built LACE (LLM-driven Algorithm Construction via Complementary Evolution), an AI framework that creates decision-making software from plain-language problem descriptions, cutting development from months of specialist engineering to about an hour."
+                "x": "Researchers at Nanyang Technological University, Singapore, developed two AI tools for predicting which proteins undergo phase separation, the process by which proteins form droplet-like compartments in cells. The work was published in Molecular Plant."
               },
               {
                 "t": "p",
-                "x": "LACE first breaks a problem into modular parts, then evolves a team of complementary specialist heuristics to handle them. On four new maritime problems, including container terminal and tugboat routing, it reached 97% to 99% of the best result from any tested method, at under US$10 in computation per problem. Competing LLM-based systems, including Google's FunSearch, failed to produce feasible solutions."
+                "x": "PLATO is a database of 5,118 protein sequences, including more than 3,600 that phase-separate and about 1,300 that don't, plus truncated proteins, mutations and engineered variants rare in existing datasets. The team built it by using large language models to mine PubMed papers, then manually checking the results."
               },
               {
                 "t": "p",
-                "x": "The team, led by Asst Prof Yan Ran and Dr Gong Huatian, says the approach could help smaller teams, regional logistics hubs, public health institutions and utilities. \"Clever design of an AI framework, rather than just building larger AI models, can bridge this gap,\" Yan said. The study appears in Nature Machine Intelligence."
+                "x": "PhaseHub combines MolPhase predictions across 1,106 species with protein abundance and interaction data to identify multicomponent compartments; users can search proteins, submit sequences and explore interactions. Eukaryotes generally have a higher proportion of predicted phase-separating proteins than bacteria."
+              },
+              {
+                "t": "p",
+                "x": "The researchers say the tools could help study cancer, Alzheimer's, aging and crop improvement. First author Dr. Liang Qiyu says the work \"provides a comprehensive framework for understanding phase-separating proteins.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 최적화 소프트웨어를\n몇 달 아닌 한 시간에",
-          "body": "NTU Singapore LACE는 LLMs로 US$10 미만에 97-99%였다.",
-          "mini_headline": "AI가 한 시간 만에 해법 설계",
+          "headline": "LLMs로 들여다본\n여러 종의 단백질 상분리",
+          "body": "NTU Singapore는 LLMs로 PubMed를 훑어 PLATO를 구축했다.",
+          "mini_headline": "LLMs로 그린 단백질 상분리 지도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-                "cap": "직접 만든 LACE 모델을 소개하는 Research Fellow Dr Gong Huatian(L)과 Asst Prof Yan Ran. 출처: NTU Singapore."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+                "cap": "균류. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Nanyang Technological University, Singapore(NTU) 연구진이 AI 프레임워크 LACE(LLM-driven Algorithm Construction via Complementary Evolution)를 개발했다. 일상 언어(plain-language)로 쓴 문제 설명만 넣으면 의사결정(decision-making) 소프트웨어를 만들어 준다. 전문 엔지니어에게 몇 달 걸리던 일을 약 한 시간으로 줄였다."
+                "x": "싱가포르 Nanyang Technological University 연구진이 어떤 단백질이 상분리하는지 예측하는 AI 도구 두 가지를 내놓았다. 상분리란 단백질이 세포 안에서 물방울 같은 구획을 만드는 현상이다. 결과는 Molecular Plant에 실렸다."
               },
               {
                 "t": "p",
-                "x": "LACE는 문제를 모듈 단위로 쪼갠 뒤 서로 보완하는 전문 휴리스틱 팀을 진화시켜 이를 처리한다. 컨테이너 터미널, 예인선 경로 설정 등 새로운 해운 문제 네 가지로 시험하자 비교한 모든 방법의 최고 결과 대비 97%에서 99% 수준까지 올라왔고, 문제당 계산 비용은 US$10 미만이었다. Google의 FunSearch 등 LLM-based 경쟁 시스템은 실행 가능한 해조차 내지 못했다."
+                "x": "PLATO에는 단백질 서열 5,118개가 들어 있다. 상분리하는 서열 3,600개 이상, 상분리하지 않는 서열 약 1,300개에 더해 기존 데이터셋에 드물던 절단 단백질, 돌연변이, 인공 변이체까지 담았다. 연구팀은 대규모 언어 모델로 PubMed 논문을 분석하고 그 결과를 직접 검수해 데이터베이스를 쌓았다."
               },
               {
                 "t": "p",
-                "x": "Asst Prof Yan Ran과 Dr Gong Huatian이 이끈 연구팀은 소규모 팀, 지역 물류 거점, 공공보건 기관, 유틸리티 기업이 이 방식의 덕을 볼 수 있다고 말한다. Yan은 \"더 큰 AI 모델을 만드는 것만이 아니라 AI 프레임워크를 영리하게 설계하는 것으로 이 격차를 메울 수 있다\"고 말했다. 연구 결과는 Nature Machine Intelligence에 실렸다."
+                "x": "PhaseHub는 1,106개 종에 걸친 MolPhase 예측에 단백질 존재량·상호작용 데이터를 엮어 다성분 구획을 찾는다. 사용자는 단백질을 검색하거나 서열을 넣어 보고 상호작용도 살필 수 있다. 상분리 단백질로 예측된 비율은 대체로 진핵생물이 세균보다 높다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 암, 알츠하이머병, 노화, 작물 개량 연구에 이 도구가 쓰일 수 있다고 본다. 제1저자 Liang Qiyu 박사는 이 연구가 “상분리 단백질을 이해하기 위한 포괄적 프레임워크를 제공한다”고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが最適化ソフトを\n数カ月でなく1時間で",
-          "body": "NTU SingaporeのLACEはLLMsでUS$10未満、97-99%に達した。",
-          "mini_headline": "AIが1時間でソルバーを設計",
+          "headline": "LLMsで見る種を越えた\nタンパク質相分離",
+          "body": "NTU SingaporeはLLMsでPubMedから5,118配列のPLATOを作った。",
+          "mini_headline": "LLMsでタンパク質相分離を地図化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-                "cap": "自ら開発したLACEモデルを紹介するResearch FellowのDr Gong Huatian(L)とAsst Prof Yan Ran。提供:NTU Singapore"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+                "cap": "菌類。Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Nanyang Technological University, Singapore(NTU)の研究チームは、平易な言葉(plain-language)で書いた問題の説明から意思決定(decision-making)ソフトウェアを作るAIフレームワーク「LACE」(LLM-driven Algorithm Construction via Complementary Evolution)を構築した。専門エンジニアが数カ月かけていた開発を約1時間に短縮する。"
+                "x": "シンガポールのNanyang Technological Universityの研究者が、どのタンパク質が相分離を起こすかを予測するAIツールを2つ開発した。相分離とは、タンパク質が細胞内で液滴状の区画を形成する過程である。成果はMolecular Plantに掲載された。"
               },
               {
                 "t": "p",
-                "x": "LACEはまず問題をモジュール単位に分解し、それらを処理する相補的な専門ヒューリスティクスのチームを進化させる。コンテナターミナルやタグボートの経路計画を含む4つの新たな海事問題で、試したあらゆる手法の最良結果の97%から99%に達し、計算コストは1問あたりUS$10未満だった。GoogleのFunSearchを含む競合のLLM-basedシステムは、実行可能な解を出せなかった。"
+                "x": "PLATOは5,118のタンパク質配列を収めたデータベースだ。相分離する3,600超の配列と、相分離しない約1,300の配列に加え、既存のデータセットでは少ない切断型タンパク質、変異、人工改変体も含む。チームは大規模言語モデルでPubMedの論文を解析し、結果を人の手で確認して構築した。"
               },
               {
                 "t": "p",
-                "x": "Asst Prof Yan RanとDr Gong Huatianが率いるチームは、この手法が小規模なチームや地域の物流拠点、公衆衛生機関、公益事業者の助けになり得るとしている。Yan氏は「より大きなAIモデルを作るだけでなく、AIフレームワークを巧みに設計することでこの差を埋められる」と述べた。研究はNature Machine Intelligenceに掲載された。"
+                "x": "PhaseHubは1,106種にわたるMolPhaseの予測を、タンパク質の存在量や相互作用のデータと組み合わせ、多成分の区画を特定する。利用者はタンパク質の検索、配列の投稿、相互作用の探索ができる。真核生物は一般に、細菌よりも相分離すると予測されるタンパク質の割合が高い。"
+              },
+              {
+                "t": "p",
+                "x": "研究者らは、このツールががん、アルツハイマー病、老化、作物改良の研究に役立ちうるとしている。筆頭著者のLiang Qiyu博士は、この研究が「相分離タンパク質を理解するための包括的な枠組みを提供する」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI一小时造出优化软件\n不再耗时数月",
-          "body": "NTU Singapore的LACE借助LLMs，以不到US$10达到最优的97-99%。",
-          "mini_headline": "AI一小时设计求解器",
+          "headline": "LLMs绘制跨物种的\n蛋白质相分离图谱",
+          "body": "NTU Singapore用LLMs挖掘PubMed建成含5,118条序列的PLATO库。",
+          "mini_headline": "借助LLMs绘制蛋白质相图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-                "cap": "Research Fellow Dr Gong Huatian (L)与Asst Prof Yan Ran展示他们开发的LACE模型。图片来源：NTU Singapore"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+                "cap": "真菌。Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Nanyang Technological University, Singapore (NTU)的研究人员开发了AI框架LACE（LLM-driven Algorithm Construction via Complementary Evolution）。它能根据通俗语言（plain-language）的问题描述生成决策（decision-making）软件，把原本需要专业工程师数月的开发缩短到约一小时。"
+                "x": "新加坡Nanyang Technological University的研究人员开发了两款AI工具，用于预测哪些蛋白质会发生相分离，即蛋白质在细胞内形成液滴状区室的过程。研究发表在Molecular Plant上。"
               },
               {
                 "t": "p",
-                "x": "LACE先将问题拆分为模块化部分，再进化出一组互补的专业启发式算法分别处理。在包括集装箱码头和拖船路径规划在内的四个新海事问题上，它达到了所有受测方法最佳结果的97%至99%，每个问题的计算成本不到US$10。包括Google的FunSearch在内的其他LLM-based系统均未能给出可行解。"
+                "x": "PLATO是一个包含5,118条蛋白质序列的数据库，其中3,600多条会发生相分离，约1,300条不会，另外还收录了现有数据集中少见的截短蛋白、突变和工程化变体。团队先用大语言模型挖掘PubMed论文，再人工核对结果，从而建成这一数据库。"
               },
               {
                 "t": "p",
-                "x": "由Asst Prof Yan Ran和Dr Gong Huatian领导的团队表示，这一方法可帮助规模较小的团队、区域物流枢纽、公共卫生机构和公用事业单位。Yan说：“巧妙设计AI框架，而不只是构建更大的AI模型，就能弥合这一差距。”该研究发表于Nature Machine Intelligence。"
+                "x": "PhaseHub将覆盖1,106个物种的MolPhase预测与蛋白质丰度和相互作用数据结合，用于识别多组分区室；用户可以搜索蛋白质、提交序列并探索相互作用。总体而言，真核生物中被预测会发生相分离的蛋白质比例高于细菌。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员表示，这些工具有望助力癌症、阿尔茨海默病、衰老和作物改良等研究。第一作者Liang Qiyu博士说，这项工作“为理解相分离蛋白质提供了一个全面的框架”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI crea software de optimización\nen una hora, no en meses",
-          "body": "LACE, de NTU Singapore, usa LLMs para evolucionar heurísticas y logra el 97-99% del mejor método por menos de US$10.",
-          "mini_headline": "AI diseña solucionadores en una hora",
+          "headline": "Los LLMs mapean la separación\nde fases proteica entre especies",
+          "body": "NTU Singapore usó LLMs con PubMed para crear PLATO, base de 5,118 secuencias de proteínas y su comportamiento de fase.",
+          "mini_headline": "Mapas de fase proteica con LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-                "cap": "El Research Fellow Dr Gong Huatian (L) y Asst Prof Yan Ran muestran el modelo LACE que crearon. Crédito: NTU Singapore."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+                "cap": "Hongos. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Nanyang Technological University, Singapore (NTU) han creado LACE (LLM-driven Algorithm Construction via Complementary Evolution), un marco de AI que genera software de toma de decisiones (decision-making) a partir de descripciones de problemas en lenguaje sencillo (plain-language), lo que reduce el desarrollo de meses de ingeniería especializada a alrededor de una hora."
+                "x": "Investigadores de la Nanyang Technological University, de Singapur, desarrollaron dos herramientas de AI para predecir qué proteínas experimentan separación de fases, el proceso por el que las proteínas forman compartimentos en forma de gotas dentro de las células. El trabajo se publicó en Molecular Plant."
               },
               {
                 "t": "p",
-                "x": "LACE primero divide un problema en partes modulares y luego hace evolucionar un equipo de heurísticas especializadas y complementarias para resolverlas. En cuatro nuevos problemas marítimos, entre ellos la gestión de una terminal de contenedores y el enrutamiento de remolcadores, alcanzó entre el 97% y el 99% del mejor resultado de cualquier método probado, con menos de US$10 de cómputo por problema. Los sistemas rivales LLM-based, incluido FunSearch de Google, no lograron producir soluciones factibles."
+                "x": "PLATO es una base de datos de 5,118 secuencias de proteínas: más de 3,600 que se separan en fases y unas 1,300 que no, además de proteínas truncadas, mutaciones y variantes diseñadas, poco frecuentes en los conjuntos de datos existentes. El equipo la construyó usando grandes modelos de lenguaje para extraer información de artículos de PubMed y revisó después los resultados de forma manual."
               },
               {
                 "t": "p",
-                "x": "El equipo, dirigido por Asst Prof Yan Ran y Dr Gong Huatian, afirma que el enfoque podría ayudar a equipos más pequeños, centros logísticos regionales, instituciones de salud pública y empresas de servicios públicos. \"Un diseño inteligente de un marco de AI, y no solo la construcción de modelos de AI más grandes, puede cerrar esta brecha\", dijo Yan. El estudio se publica en Nature Machine Intelligence."
+                "x": "PhaseHub combina las predicciones de MolPhase en 1,106 especies con datos de abundancia e interacción de proteínas para identificar compartimentos multicomponente; los usuarios pueden buscar proteínas, enviar secuencias y explorar interacciones. En general, los eucariotas tienen una proporción mayor de proteínas con separación de fases prevista que las bacterias."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores afirman que las herramientas podrían ayudar a estudiar el cáncer, el alzhéimer, el envejecimiento y la mejora de cultivos. La primera autora, la Dra. Liang Qiyu, dice que el trabajo “ofrece un marco integral para comprender las proteínas que se separan en fases”."
               }
             ]
           }
@@ -457,109 +531,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 최적화 소프트웨어를\n몇 달 아닌 한 시간에",
-          "body": "NTU Singapore LACE는 LLMs로 US$10 미만에 97-99%였다.",
-          "mini_headline": "AI가 한 시간 만에 해법 설계",
+          "headline": "LLMs로 본 여러 종의\n단백질 상분리",
+          "body": "NTU Singapore가 LLMs로 PubMed를 분석해 PLATO를 만들었다.",
+          "mini_headline": "LLMs로 그린 단백질 상분리 지도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-                "cap": "직접 만든 LACE 모델을 소개하는 Research Fellow Dr Gong Huatian(L)과 Asst Prof Yan Ran. 출처: NTU Singapore."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+                "cap": "균류. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Nanyang Technological University, Singapore(NTU) 연구진이 일상 언어(plain-language)로 쓴 문제 설명만으로 의사결정(decision-making) 소프트웨어를 만드는 AI 프레임워크 LACE(LLM-driven Algorithm Construction via Complementary Evolution)를 개발했다. 전문 엔지니어가 몇 달 걸리던 개발 기간을 약 한 시간으로 줄였다."
+                "x": "싱가포르 Nanyang Technological University 연구진이 어떤 단백질이 상분리를 겪는지 예측하는 AI 도구 두 가지를 개발했다. 상분리는 단백질이 세포 안에서 물방울 같은 구획을 이루는 과정이다. 연구 결과는 Molecular Plant에 실렸다."
               },
               {
                 "t": "p",
-                "x": "LACE는 먼저 문제를 모듈 단위로 나눈 뒤, 이를 처리할 상호 보완적인 전문 휴리스틱 팀을 진화시킨다. 컨테이너 터미널과 예인선 경로 설정을 포함한 새로운 해운 문제 네 가지에서 시험한 모든 방법의 최고 결과 대비 97%에서 99% 수준에 도달했고, 문제당 계산 비용은 US$10 미만이었다. Google의 FunSearch를 비롯한 LLM-based 경쟁 시스템들은 실행 가능한 해를 내지 못했다."
+                "x": "PLATO는 단백질 서열 5,118개를 담은 데이터베이스다. 상분리하는 서열 3,600개 이상과 상분리하지 않는 약 1,300개에, 기존 데이터셋에서 드문 절단 단백질, 돌연변이, 인공 변이체까지 포함했다. 연구팀은 대규모 언어 모델로 PubMed 논문을 분석한 뒤 결과를 직접 검수해 이 데이터베이스를 구축했다."
               },
               {
                 "t": "p",
-                "x": "Asst Prof Yan Ran과 Dr Gong Huatian이 이끈 연구팀은 이 방식이 소규모 팀, 지역 물류 거점, 공공보건 기관, 유틸리티 기업에 도움이 될 수 있다고 말한다. Yan은 \"더 큰 AI 모델을 만드는 것만이 아니라 AI 프레임워크를 영리하게 설계하는 것으로 이 격차를 메울 수 있다\"고 말했다. 연구 결과는 Nature Machine Intelligence에 실렸다."
+                "x": "PhaseHub는 1,106개 종에 걸친 MolPhase 예측을 단백질 존재량·상호작용 데이터와 결합해 다성분 구획을 찾아낸다. 사용자는 단백질을 검색하고, 서열을 제출하고, 상호작용을 살펴볼 수 있다. 진핵생물은 대체로 세균보다 상분리 단백질로 예측된 비율이 높다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 이 도구가 암, 알츠하이머병, 노화, 작물 개량 연구에 도움이 될 수 있다고 말한다. 제1저자 Liang Qiyu 박사는 이 연구가 “상분리 단백질을 이해하기 위한 포괄적 프레임워크를 제공한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが最適化ソフトを\n数カ月でなく1時間で",
-          "body": "NTU SingaporeのLACEはLLMsでUS$10未満、97-99%に達した。",
-          "mini_headline": "AIが1時間でソルバーを設計",
+          "headline": "LLMsで見る種を越えた\nタンパク質相分離",
+          "body": "NTU SingaporeはLLMsでPubMedから5,118配列のPLATOを作った。",
+          "mini_headline": "LLMsでタンパク質相分離を地図化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-                "cap": "自ら開発したLACEモデルを紹介するResearch FellowのDr Gong Huatian(L)とAsst Prof Yan Ran。提供:NTU Singapore"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+                "cap": "菌類。Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Nanyang Technological University, Singapore(NTU)の研究チームは、平易な言葉(plain-language)で書いた問題の説明から意思決定(decision-making)ソフトウェアを作るAIフレームワーク「LACE」(LLM-driven Algorithm Construction via Complementary Evolution)を構築した。専門エンジニアが数カ月かけていた開発を約1時間に短縮する。"
+                "x": "シンガポールのNanyang Technological Universityの研究者が、どのタンパク質が相分離を起こすかを予測するAIツールを2つ開発した。相分離とは、タンパク質が細胞内で液滴状の区画を形成する過程である。成果はMolecular Plantに掲載された。"
               },
               {
                 "t": "p",
-                "x": "LACEはまず問題をモジュール単位に分解し、それらを処理する相補的な専門ヒューリスティクスのチームを進化させる。コンテナターミナルやタグボートの経路計画を含む4つの新たな海事問題で、試したあらゆる手法の最良結果の97%から99%に達し、計算コストは1問あたりUS$10未満だった。GoogleのFunSearchを含む競合のLLM-basedシステムは、実行可能な解を出せなかった。"
+                "x": "PLATOは5,118のタンパク質配列を収めたデータベースだ。相分離する3,600超の配列と、相分離しない約1,300の配列に加え、既存のデータセットでは少ない切断型タンパク質、変異、人工改変体も含む。チームは大規模言語モデルでPubMedの論文を解析し、結果を人の手で確認して構築した。"
               },
               {
                 "t": "p",
-                "x": "Asst Prof Yan RanとDr Gong Huatianが率いるチームは、この手法が小規模なチームや地域の物流拠点、公衆衛生機関、公益事業者の助けになり得るとしている。Yan氏は「より大きなAIモデルを作るだけでなく、AIフレームワークを巧みに設計することでこの差を埋められる」と述べた。研究はNature Machine Intelligenceに掲載された。"
+                "x": "PhaseHubは1,106種にわたるMolPhaseの予測を、タンパク質の存在量や相互作用のデータと組み合わせ、多成分の区画を特定する。利用者はタンパク質の検索、配列の投稿、相互作用の探索ができる。真核生物は一般に、細菌よりも相分離すると予測されるタンパク質の割合が高い。"
+              },
+              {
+                "t": "p",
+                "x": "研究者らは、このツールががん、アルツハイマー病、老化、作物改良の研究に役立ちうるとしている。筆頭著者のLiang Qiyu博士は、この研究が「相分離タンパク質を理解するための包括的な枠組みを提供する」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI一小时造出优化软件\n不再耗时数月",
-          "body": "NTU Singapore的LACE借助LLMs，以不到US$10达到最优的97-99%。",
-          "mini_headline": "AI一小时设计求解器",
+          "headline": "LLMs绘制跨物种的\n蛋白质相分离图谱",
+          "body": "NTU Singapore用LLMs挖掘PubMed建成含5,118条序列的PLATO库。",
+          "mini_headline": "借助LLMs绘制蛋白质相图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-                "cap": "Research Fellow Dr Gong Huatian (L)与Asst Prof Yan Ran展示他们开发的LACE模型。图片来源：NTU Singapore"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+                "cap": "真菌。Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Nanyang Technological University, Singapore (NTU)的研究人员开发了AI框架LACE（LLM-driven Algorithm Construction via Complementary Evolution）。它能根据通俗语言（plain-language）的问题描述生成决策（decision-making）软件，把原本需要专业工程师数月的开发缩短到约一小时。"
+                "x": "新加坡Nanyang Technological University的研究人员开发了两款AI工具，用于预测哪些蛋白质会发生相分离，即蛋白质在细胞内形成液滴状区室的过程。研究发表在Molecular Plant上。"
               },
               {
                 "t": "p",
-                "x": "LACE先将问题拆分为模块化部分，再进化出一组互补的专业启发式算法分别处理。在包括集装箱码头和拖船路径规划在内的四个新海事问题上，它达到了所有受测方法最佳结果的97%至99%，每个问题的计算成本不到US$10。包括Google的FunSearch在内的其他LLM-based系统均未能给出可行解。"
+                "x": "PLATO是一个包含5,118条蛋白质序列的数据库，其中3,600多条会发生相分离，约1,300条不会，另外还收录了现有数据集中少见的截短蛋白、突变和工程化变体。团队先用大语言模型挖掘PubMed论文，再人工核对结果，从而建成这一数据库。"
               },
               {
                 "t": "p",
-                "x": "由Asst Prof Yan Ran和Dr Gong Huatian领导的团队表示，这一方法可帮助规模较小的团队、区域物流枢纽、公共卫生机构和公用事业单位。Yan说：“巧妙设计AI框架，而不只是构建更大的AI模型，就能弥合这一差距。”该研究发表于Nature Machine Intelligence。"
+                "x": "PhaseHub将覆盖1,106个物种的MolPhase预测与蛋白质丰度和相互作用数据结合，用于识别多组分区室；用户可以搜索蛋白质、提交序列并探索相互作用。总体而言，真核生物中被预测会发生相分离的蛋白质比例高于细菌。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员表示，这些工具有望助力癌症、阿尔茨海默病、衰老和作物改良等研究。第一作者Liang Qiyu博士说，这项工作“为理解相分离蛋白质提供了一个全面的框架”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI crea software de optimización\nen una hora, no en meses",
-          "body": "LACE, de NTU Singapore, usa LLMs para evolucionar heurísticas y logra el 97-99% del mejor método por menos de US$10.",
-          "mini_headline": "AI diseña solucionadores en una hora",
+          "headline": "Los LLMs mapean la separación\nde fases proteica entre especies",
+          "body": "NTU Singapore usó LLMs con PubMed para crear PLATO, base de 5,118 secuencias de proteínas y su comportamiento de fase.",
+          "mini_headline": "Mapas de fase proteica con LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-                "cap": "El Research Fellow Dr Gong Huatian (L) y Asst Prof Yan Ran muestran el modelo LACE que crearon. Crédito: NTU Singapore."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+                "cap": "Hongos. Credit: CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Nanyang Technological University, Singapore (NTU) han creado LACE (LLM-driven Algorithm Construction via Complementary Evolution), un marco de AI que genera software de toma de decisiones (decision-making) a partir de descripciones de problemas en lenguaje sencillo (plain-language), lo que reduce el desarrollo de meses de ingeniería especializada a alrededor de una hora."
+                "x": "Investigadores de la Nanyang Technological University, de Singapur, desarrollaron dos herramientas de AI para predecir qué proteínas experimentan separación de fases, el proceso por el que las proteínas forman compartimentos en forma de gotas dentro de las células. El trabajo se publicó en Molecular Plant."
               },
               {
                 "t": "p",
-                "x": "LACE primero divide un problema en partes modulares y luego hace evolucionar un equipo de heurísticas especializadas y complementarias para resolverlas. En cuatro nuevos problemas marítimos, entre ellos la gestión de una terminal de contenedores y el enrutamiento de remolcadores, alcanzó entre el 97% y el 99% del mejor resultado de cualquier método probado, con menos de US$10 de cómputo por problema. Los sistemas rivales LLM-based, incluido FunSearch de Google, no lograron producir soluciones factibles."
+                "x": "PLATO es una base de datos de 5,118 secuencias de proteínas: más de 3,600 que se separan en fases y unas 1,300 que no, además de proteínas truncadas, mutaciones y variantes diseñadas, poco frecuentes en los conjuntos de datos existentes. El equipo la construyó usando grandes modelos de lenguaje para extraer información de artículos de PubMed y revisó después los resultados de forma manual."
               },
               {
                 "t": "p",
-                "x": "El equipo, dirigido por Asst Prof Yan Ran y Dr Gong Huatian, afirma que el enfoque podría ayudar a equipos más pequeños, centros logísticos regionales, instituciones de salud pública y empresas de servicios públicos. \"Un diseño inteligente de un marco de AI, y no solo la construcción de modelos de AI más grandes, puede cerrar esta brecha\", dijo Yan. El estudio se publica en Nature Machine Intelligence."
+                "x": "PhaseHub combina las predicciones de MolPhase en 1,106 especies con datos de abundancia e interacción de proteínas para identificar compartimentos multicomponente; los usuarios pueden buscar proteínas, enviar secuencias y explorar interacciones. En general, los eucariotas tienen una proporción mayor de proteínas con separación de fases prevista que las bacterias."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores afirman que las herramientas podrían ayudar a estudiar el cáncer, el alzhéimer, el envejecimiento y la mejora de cultivos. La primera autora, la Dra. Liang Qiyu, dice que el trabajo “ofrece un marco integral para comprender las proteínas que se separan en fases”."
               }
             ]
           }
@@ -567,297 +657,15 @@
       }
     },
     {
-      "id": "science-image-ai-face-orientation-stereotypes",
+      "id": "science-ebird-inaturalist-llm-ecology",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "요청하면 이미지 AI가\n'게이'·'이성애자' 편집",
-      "body": "Gemini와 GPT는 성적 지향 판단은 거부하고도 고정관념 편집은 따랐다.",
-      "mini_headline": "이미지 AI의 얼굴 고정관념",
+      "headline": "시민과학 기록에서\n생태 단서 캐는 LLMs",
+      "body": "Claude는 eBird·iNaturalist 약 500건을 육 분 만에 분류했다.",
+      "mini_headline": "시민과학 기록 읽는 LLMs",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-gay-ai-people-stereotypical-straight.html",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-            "cap": "주요 상업용 이미지 생성(image-generating) AI 모델은 고정관념적 특징으로 얼굴을 게이, 이성애자, 특정 인종처럼 보이게 하라는 프롬프트를 자주 따른다. 출처: Ashiqur KhudaBukhsh."
-          },
-          {
-            "t": "p",
-            "x": "Ashique KhudaBukhsh 연구팀은 OpenAI의 GPT Image 1 Mini와 Google의 Gemini 2.5 Flash Image를 AI로 만든(AI-generated) 얼굴 1,002개로 시험했다. 얼굴을 보고 그 사람이 게이인지 이성애자인지 묻자 두 모델은 외모로 성적 지향을 판단할 수 없다며 답하지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "그런데 얼굴을 \"게이처럼 보이게\" 또는 \"이성애자처럼 보이게\" 바꾸라고 지시하자 GPT는 70% 넘게, Gemini는 99% 넘게 그대로 따랐다. 세 번째 AI 시스템에 변형된 얼굴 14,131개를 보여 주자 \"게이\" 편집과 \"이성애자\" 편집을 83–88% 비율로 가려냈다. 일관된 고정관념 단서가 있다는 방증이다. 얼굴을 범죄자처럼 또는 범죄자가 아닌 것처럼 보이게 하라는 요청을 따른 비율도 97%를 넘었다."
-          },
-          {
-            "t": "p",
-            "x": "저자는 이 결과를 이미 신빙성을 잃은 관상학을 떠올리게 하는 AI 안전 문제로 본다. 이번 연구는 EMNLP 2026에 채택됐으며 AI로 만든(AI-generated) 얼굴과 몇 가지 정체성 범주만 다뤘다. 연구팀은 다음으로 종교나 나이 같은 특성과 채용 같은 의사결정에 미치는 영향을 살펴볼 계획이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Image AI edits faces to look\n'gay' or 'straight' on request",
-          "body": "Gemini and GPT image models refused to infer orientation yet applied stereotyped 'gay' or 'straight' edits on request.",
-          "mini_headline": "Image AI stereotypes faces",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-                "cap": "Leading commercial image-generating AI models often follow prompts to make faces look gay, straight or of a racial group using stereotypical features. Credit: Ashiqur KhudaBukhsh."
-              },
-              {
-                "t": "p",
-                "x": "Ashique KhudaBukhsh's team tested OpenAI's GPT Image 1 Mini and Google's Gemini 2.5 Flash Image on 1,002 AI-generated faces. Asked whether a face showed someone was gay or straight, the models refused, explaining that sexual orientation cannot be determined from appearance."
-              },
-              {
-                "t": "p",
-                "x": "Yet when told to make a face \"look gay\" or \"look straight,\" GPT complied more than 70% of the time and Gemini more than 99%. A third AI system shown 14,131 altered faces could tell the \"gay\" and \"straight\" edits apart 83–88% of the time, suggesting consistent stereotyped cues. Requests to make faces look criminal or noncriminal were followed more than 97% of the time."
-              },
-              {
-                "t": "p",
-                "x": "The author calls this an AI safety concern echoing physiognomy, a discredited practice. The study, accepted at EMNLP 2026, used AI-generated faces and a few identity categories; next the team will probe traits like religion or age and effects on decisions such as hiring."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "요청하면 이미지 AI가\n'게이'·'이성애자' 편집",
-          "body": "Gemini와 GPT는 성적 지향 판단은 거부하고도 고정관념 편집은 따랐다.",
-          "mini_headline": "이미지 AI의 얼굴 고정관념",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-                "cap": "주요 상업용 이미지 생성(image-generating) AI 모델은 고정관념적 특징으로 얼굴을 게이, 이성애자, 특정 인종처럼 보이게 하라는 프롬프트를 자주 따른다. 출처: Ashiqur KhudaBukhsh."
-              },
-              {
-                "t": "p",
-                "x": "Ashique KhudaBukhsh 연구팀은 OpenAI의 GPT Image 1 Mini와 Google의 Gemini 2.5 Flash Image를 AI로 만든(AI-generated) 얼굴 1,002개로 시험했다. 얼굴을 보고 그 사람이 게이인지 이성애자인지 묻자 두 모델은 외모로 성적 지향을 판단할 수 없다며 답하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "그런데 얼굴을 \"게이처럼 보이게\" 또는 \"이성애자처럼 보이게\" 바꾸라고 지시하자 GPT는 70% 넘게, Gemini는 99% 넘게 그대로 따랐다. 세 번째 AI 시스템에 변형된 얼굴 14,131개를 보여 주자 \"게이\" 편집과 \"이성애자\" 편집을 83–88% 비율로 가려냈다. 일관된 고정관념 단서가 있다는 방증이다. 얼굴을 범죄자처럼 또는 범죄자가 아닌 것처럼 보이게 하라는 요청을 따른 비율도 97%를 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "저자는 이 결과를 이미 신빙성을 잃은 관상학을 떠올리게 하는 AI 안전 문제로 본다. 이번 연구는 EMNLP 2026에 채택됐으며 AI로 만든(AI-generated) 얼굴과 몇 가지 정체성 범주만 다뤘다. 연구팀은 다음으로 종교나 나이 같은 특성과 채용 같은 의사결정에 미치는 영향을 살펴볼 계획이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "画像AI、指示で顔を\n「ゲイ」「ストレート」風に",
-          "body": "GeminiとGPTの画像モデルは性的指向の推定を拒みつつ、固定観念的な編集には応じた。",
-          "mini_headline": "画像AIが顔を固定観念で編集",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-                "cap": "主要な商用の画像生成(image-generating)AIモデルは、固定観念的な特徴を用いて顔をゲイ、ストレート、あるいは特定の人種に見せるよう求めるプロンプトにしばしば従う。提供:Ashiqur KhudaBukhsh"
-              },
-              {
-                "t": "p",
-                "x": "Ashique KhudaBukhsh氏のチームは、OpenAIのGPT Image 1 MiniとGoogleのGemini 2.5 Flash Imageを、AIで生成した(AI-generated)顔1,002枚で検証した。顔から本人がゲイかストレートかを判断するよう求めると、両モデルは外見から性的指向は判断できないと説明して拒否した。"
-              },
-              {
-                "t": "p",
-                "x": "ところが顔を「ゲイに見えるように」「ストレートに見えるように」変えるよう指示すると、GPTは70%超、Geminiは99%超の割合で応じた。改変された顔14,131枚を見せた3つ目のAIシステムは、「ゲイ」と「ストレート」の編集を83–88%の割合で見分け、一貫した固定観念的な手がかりがあることを示唆した。顔を犯罪者らしく、あるいは犯罪者らしくなく見せる要求にも97%超の割合で従った。"
-              },
-              {
-                "t": "p",
-                "x": "著者はこれを、すでに否定された人相学を思わせるAI安全性の懸念だとする。EMNLP 2026に採択された本研究は、AIで生成した(AI-generated)顔と少数のアイデンティティ区分を用いた。チームは次に、宗教や年齢といった属性や、採用などの意思決定への影響を調べる予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "图像AI按要求把人脸\n改得像“同性恋”或“异性恋”",
-          "body": "Gemini与GPT图像模型拒绝推断性取向，却会按要求做刻板化的“同性恋”“异性恋”编辑。",
-          "mini_headline": "图像AI的人脸刻板印象",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-                "cap": "主流商用图像生成（image-generating）AI模型常会按提示，借助刻板特征让人脸看起来像同性恋、异性恋或某个种族。图片来源：Ashiqur KhudaBukhsh"
-              },
-              {
-                "t": "p",
-                "x": "Ashique KhudaBukhsh团队用1,002张AI生成（AI-generated）的人脸测试了OpenAI的GPT Image 1 Mini和Google的Gemini 2.5 Flash Image。当被问及能否从人脸看出某人是同性恋还是异性恋时，两款模型都拒绝回答，并解释说性取向无法从外貌判断。"
-              },
-              {
-                "t": "p",
-                "x": "然而，当被要求让人脸“看起来像同性恋”或“看起来像异性恋”时，GPT的遵从率超过70%，Gemini超过99%。另一套AI系统在查看14,131张修改后的人脸后，能以83–88%的比例区分“同性恋”与“异性恋”编辑，表明其中存在一致的刻板线索。让人脸看起来像罪犯或非罪犯的要求，遵从率也超过97%。"
-              },
-              {
-                "t": "p",
-                "x": "作者认为这是一个AI安全问题，令人联想到早已被摒弃的面相学。该研究已被EMNLP 2026接收，使用的是AI生成（AI-generated）的人脸和少数几类身份类别；团队下一步将探究宗教、年龄等特征，以及对招聘等决策的影响。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI de imágenes, a petición,\nhace ver caras 'gay' o 'hetero'",
-          "body": "Gemini y GPT se negaron a inferir la orientación, pero hicieron ediciones estereotipadas 'gay' o 'hetero' a petición.",
-          "mini_headline": "La AI de imágenes estereotipa rostros",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-                "cap": "Los principales modelos comerciales de AI generadores de imágenes (image-generating) suelen seguir instrucciones para que los rostros parezcan gais, heterosexuales o de un grupo racial mediante rasgos estereotipados. Crédito: Ashiqur KhudaBukhsh."
-              },
-              {
-                "t": "p",
-                "x": "El equipo de Ashique KhudaBukhsh probó GPT Image 1 Mini, de OpenAI, y Gemini 2.5 Flash Image, de Google, con 1,002 rostros generados por AI (AI-generated). Cuando se les preguntó si un rostro mostraba que alguien era gay o heterosexual, los modelos se negaron y explicaron que la orientación sexual no puede determinarse por la apariencia."
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, cuando se les pidió que un rostro \"pareciera gay\" o \"pareciera heterosexual\", GPT obedeció más del 70% de las veces y Gemini más del 99%. Un tercer sistema de AI al que se mostraron 14,131 rostros alterados distinguió las ediciones \"gay\" y \"heterosexual\" el 83–88% de las veces, lo que sugiere pistas estereotipadas coherentes. Las peticiones de hacer que los rostros parecieran criminales o no criminales se atendieron más del 97% de las veces."
-              },
-              {
-                "t": "p",
-                "x": "El autor lo considera un problema de seguridad de la AI que recuerda a la fisiognomía, una práctica desacreditada. El estudio, aceptado en EMNLP 2026, usó rostros generados por AI (AI-generated) y unas pocas categorías de identidad; a continuación, el equipo examinará rasgos como la religión o la edad y sus efectos en decisiones como la contratación."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "요청하면 이미지 AI가\n'게이'·'이성애자' 편집",
-          "body": "Gemini와 GPT는 성적 지향 판단은 거부하고도 고정관념 편집은 따랐다.",
-          "mini_headline": "이미지 AI의 얼굴 고정관념",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-                "cap": "주요 상업용 이미지 생성(image-generating) AI 모델은 고정관념적 특징을 이용해 얼굴을 게이, 이성애자 또는 특정 인종처럼 보이게 하라는 프롬프트를 자주 따른다. 출처: Ashiqur KhudaBukhsh."
-              },
-              {
-                "t": "p",
-                "x": "Ashique KhudaBukhsh 연구팀은 OpenAI의 GPT Image 1 Mini와 Google의 Gemini 2.5 Flash Image를 AI로 생성한(AI-generated) 얼굴 1,002개로 시험했다. 얼굴을 보고 그 사람이 게이인지 이성애자인지 묻자, 두 모델은 외모로는 성적 지향을 판단할 수 없다며 답을 거부했다."
-              },
-              {
-                "t": "p",
-                "x": "그런데 얼굴을 \"게이처럼 보이게\" 또는 \"이성애자처럼 보이게\" 바꾸라고 지시하자 GPT는 70% 넘게, Gemini는 99% 넘게 이를 따랐다. 변형된 얼굴 14,131개를 본 세 번째 AI 시스템은 \"게이\" 편집과 \"이성애자\" 편집을 83–88%의 비율로 구별해, 일관된 고정관념적 단서가 있음을 시사했다. 얼굴을 범죄자처럼, 또는 범죄자가 아닌 것처럼 보이게 하라는 요청을 따른 비율도 97%를 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "저자는 이를 이미 신빙성을 잃은 관상학을 떠올리게 하는 AI 안전 문제로 본다. EMNLP 2026에 채택된 이 연구는 AI로 생성한(AI-generated) 얼굴과 몇 가지 정체성 범주만 다뤘다. 연구팀은 다음으로 종교나 나이 같은 특성, 그리고 채용 같은 의사결정에 미치는 영향을 살필 계획이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "画像AI、指示で顔を\n「ゲイ」「ストレート」風に",
-          "body": "GeminiとGPTの画像モデルは性的指向の推定を拒みつつ、固定観念的な編集には応じた。",
-          "mini_headline": "画像AIが顔を固定観念で編集",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-                "cap": "主要な商用の画像生成(image-generating)AIモデルは、固定観念的な特徴を用いて顔をゲイ、ストレート、あるいは特定の人種に見せるよう求めるプロンプトにしばしば従う。提供:Ashiqur KhudaBukhsh"
-              },
-              {
-                "t": "p",
-                "x": "Ashique KhudaBukhsh氏のチームは、OpenAIのGPT Image 1 MiniとGoogleのGemini 2.5 Flash Imageを、AIで生成した(AI-generated)顔1,002枚で検証した。顔から本人がゲイかストレートかを判断するよう求めると、両モデルは外見から性的指向は判断できないと説明して拒否した。"
-              },
-              {
-                "t": "p",
-                "x": "ところが顔を「ゲイに見えるように」「ストレートに見えるように」変えるよう指示すると、GPTは70%超、Geminiは99%超の割合で応じた。改変された顔14,131枚を見せた3つ目のAIシステムは、「ゲイ」と「ストレート」の編集を83–88%の割合で見分け、一貫した固定観念的な手がかりがあることを示唆した。顔を犯罪者らしく、あるいは犯罪者らしくなく見せる要求にも97%超の割合で従った。"
-              },
-              {
-                "t": "p",
-                "x": "著者はこれを、すでに否定された人相学を思わせるAI安全性の懸念だとする。EMNLP 2026に採択された本研究は、AIで生成した(AI-generated)顔と少数のアイデンティティ区分を用いた。チームは次に、宗教や年齢といった属性や、採用などの意思決定への影響を調べる予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "图像AI按要求把人脸\n改得像“同性恋”或“异性恋”",
-          "body": "Gemini与GPT图像模型拒绝推断性取向，却会按要求做刻板化的“同性恋”“异性恋”编辑。",
-          "mini_headline": "图像AI的人脸刻板印象",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-                "cap": "主流商用图像生成（image-generating）AI模型常会按提示，借助刻板特征让人脸看起来像同性恋、异性恋或某个种族。图片来源：Ashiqur KhudaBukhsh"
-              },
-              {
-                "t": "p",
-                "x": "Ashique KhudaBukhsh团队用1,002张AI生成（AI-generated）的人脸测试了OpenAI的GPT Image 1 Mini和Google的Gemini 2.5 Flash Image。当被问及能否从人脸看出某人是同性恋还是异性恋时，两款模型都拒绝回答，并解释说性取向无法从外貌判断。"
-              },
-              {
-                "t": "p",
-                "x": "然而，当被要求让人脸“看起来像同性恋”或“看起来像异性恋”时，GPT的遵从率超过70%，Gemini超过99%。另一套AI系统在查看14,131张修改后的人脸后，能以83–88%的比例区分“同性恋”与“异性恋”编辑，表明其中存在一致的刻板线索。让人脸看起来像罪犯或非罪犯的要求，遵从率也超过97%。"
-              },
-              {
-                "t": "p",
-                "x": "作者认为这是一个AI安全问题，令人联想到早已被摒弃的面相学。该研究已被EMNLP 2026接收，使用的是AI生成（AI-generated）的人脸和少数几类身份类别；团队下一步将探究宗教、年龄等特征，以及对招聘等决策的影响。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI de imágenes, a petición,\nhace ver caras 'gay' o 'hetero'",
-          "body": "Gemini y GPT se negaron a inferir la orientación, pero hicieron ediciones estereotipadas 'gay' o 'hetero' a petición.",
-          "mini_headline": "La AI de imágenes estereotipa rostros",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-                "cap": "Los principales modelos comerciales de AI generadores de imágenes (image-generating) suelen seguir instrucciones para que los rostros parezcan gais, heterosexuales o de un grupo racial mediante rasgos estereotipados. Crédito: Ashiqur KhudaBukhsh."
-              },
-              {
-                "t": "p",
-                "x": "El equipo de Ashique KhudaBukhsh probó GPT Image 1 Mini, de OpenAI, y Gemini 2.5 Flash Image, de Google, con 1,002 rostros generados por AI (AI-generated). Cuando se les preguntó si un rostro mostraba que alguien era gay o heterosexual, los modelos se negaron y explicaron que la orientación sexual no puede determinarse por la apariencia."
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, cuando se les pidió que un rostro \"pareciera gay\" o \"pareciera heterosexual\", GPT obedeció más del 70% de las veces y Gemini más del 99%. Un tercer sistema de AI al que se mostraron 14,131 rostros alterados distinguió las ediciones \"gay\" y \"heterosexual\" el 83–88% de las veces, lo que sugiere pistas estereotipadas coherentes. Las peticiones de hacer que los rostros parecieran criminales o no criminales se atendieron más del 97% de las veces."
-              },
-              {
-                "t": "p",
-                "x": "El autor lo considera un problema de seguridad de la AI que recuerda a la fisiognomía, una práctica desacreditada. El estudio, aceptado en EMNLP 2026, usó rostros generados por AI (AI-generated) y unas pocas categorías de identidad; a continuación, el equipo examinará rasgos como la religión o la edad y sus efectos en decisiones como la contratación."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "science-hybrid-digital-twin-autonomous-biolab",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "하이브리드 디지털 트윈,\n자율 바이오공정 랩 겨냥",
-      "body": "Sungkyunkwan 연구진이 세포 모델과 설명형 AI로 자율 랩을 노린다.",
-      "mini_headline": "자율 실험실을 위한 디지털 트윈",
-      "tool": "Science",
-      "source": "GEN",
-      "url": "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-nature-lovers-aid-ecology-ai.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -865,179 +673,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+            "cap": "흰기러기 한 마리가 캐나다기러기(Canada goose) 무리에 섞여 먹이를 먹는다. eBird 댓글에 자주 오르는 상호 이익 관계다. Credit: Jing-Yi Li"
           },
           {
             "t": "p",
-            "x": "한국 연구진이 기계론적 모델링과 인공지능을 합친 디지털 트윈을 만들고 있다. 언젠가 사람의 개입을 최소화한 완전 자율 실험실을 꾸리는 게 목표다. Sungkyunkwan University의 Bioprocess Digital Twin Lab을 이끄는 Dong-Yup Lee는 \"이 기계론적 모델을 데이터 기반(data-driven) AI 모델과 결합해 하이브리드 모델을 만드는 데 집중해 왔다\"고 말한다."
+            "x": "University of Michigan이 이끈 연구가 PNAS에 실렸다. 연구진은 eBird(조류)와 iNaturalist(식물과 꽃가루 매개자) 댓글로 대규모 언어 모델이 공개된 자연 관찰 기록에서 종 사이 상호작용 정보를 골라낼 수 있음을 보였다."
           },
           {
             "t": "p",
-            "x": "트윈은 바이오리액터 데이터를 모으는 다중 센서(multi-sensory) 시스템과 늘 연결돼 있고, Chinese Hamster Ovary(CHO) 세포의 수학 모델로 조건별 거동을 예측한다. 다만 기계론적 예측만으로는 실시간 정확도가 모자랐다. 그래서 연구팀은 어떤 입력이 공정 출력을 가장 크게 좌우하는지 보여 주는 설명 가능한 AI(XAI)를 더했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-            "cap": "Sungkyunkwan University에 있는 Bioprocess Digital Twin Lab의 설비. [Sungkyunkwan University]"
+            "x": "두 사례 연구는 West Coast lady 나비와 그 기주식물, 그리고 Michigan 조류의 상호작용을 다뤘다. 개념 증명 단계에서는 미국(U.S.) 서부 해안을 따라 퍼지는, 자칫 놓칠 뻔한 외래 식물이 드러났다."
           },
           {
             "t": "p",
-            "x": "Lee는 \"하이브리드 모델 [개발]은 아마 80% 정도 왔다\"고 말한다. 남은 20%는 모델을 제어 시스템과 향후 로봇에 잇는 작업이다."
+            "x": "시간을 재 본 비교에서 Claude는 댓글 500건 가까이를 약 육 분 만에 분류했다. 같은 일에 학부생 연구원은 약 여덟 시간을 썼다. 제1저자 Hengxing Zou는 이 연구가 과학자의 창의적 작업을 대신하려는 게 아니라 AI로 사람의 노력을 넓히려는 시도라고 설명한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hybrid digital twins aim for\nautonomous bioprocess labs",
-          "body": "Sungkyunkwan researchers pair mechanistic cell models with explainable AI, aiming for labs that need little human input.",
-          "mini_headline": "Digital twins for autonomous labs",
+          "headline": "LLMs mine citizen-science\nnotes for ecology clues",
+          "body": "Claude classified nearly 500 eBird and iNaturalist comments in about six minutes, a job that took a student eight hours.",
+          "mini_headline": "LLMs read citizen-science notes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+                "cap": "A single snow goose feeds with a group of Canada geese, a mutually beneficial interaction often recorded in eBird comments. Credit: Jing-Yi Li"
               },
               {
                 "t": "p",
-                "x": "Researchers from South Korea are developing a digital twin that combines mechanistic modeling with artificial intelligence, hoping it will eventually enable a fully autonomous lab operating with minimal human intervention. \"We've been focused on combining this mechanistic model with the data-driven AI model to create a hybridized model,\" says Dong-Yup Lee, head of the Bioprocess Digital Twin Lab at Sungkyunkwan University."
+                "x": "A University of Michigan-led study published in PNAS found that large language models can sort through public nature observations to pull out information about how species interact, using comments from eBird (birds) and iNaturalist (plants and pollinators)."
               },
               {
                 "t": "p",
-                "x": "The twin is continuously connected to a multi-sensory system collecting bioreactor data, and uses mathematical models of Chinese Hamster Ovary (CHO) cells to predict behavior under different conditions. Because mechanistic predictions alone lack real-time accuracy, the team adds explainable AI (XAI), which shows which inputs most affect process outputs."
-              },
-              {
-                "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-                "cap": "Bioprocess Digital Twin Lab's setup at Sungkyunkwan University. [Sungkyunkwan University]"
+                "x": "The two case studies covered West Coast lady butterflies and their host plants, and interactions among Michigan birds. In the proof of concept, the approach revealed nonnative plants spreading along the U.S. West Coast that might otherwise have been missed."
               },
               {
                 "t": "p",
-                "x": "\"We're probably at 80% on [developing] the hybridized model,\" Lee says; the remaining 20% is linking the models to the control system and future robotics."
+                "x": "In one timed comparison, Claude classified nearly 500 comments in about six minutes, versus roughly eight hours for an undergraduate researcher. Lead author Hengxing Zou describes the work as using AI to extend human effort rather than replace scientists' creative work."
               }
             ]
           }
         },
         "ko": {
-          "headline": "하이브리드 디지털 트윈,\n자율 바이오공정 랩 겨냥",
-          "body": "Sungkyunkwan 연구진이 세포 모델과 설명형 AI로 자율 랩을 노린다.",
-          "mini_headline": "자율 실험실을 위한 디지털 트윈",
+          "headline": "시민과학 기록에서\n생태 단서 캐는 LLMs",
+          "body": "Claude는 eBird·iNaturalist 약 500건을 육 분 만에 분류했다.",
+          "mini_headline": "시민과학 기록 읽는 LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+                "cap": "흰기러기 한 마리가 캐나다기러기(Canada goose) 무리에 섞여 먹이를 먹는다. eBird 댓글에 자주 오르는 상호 이익 관계다. Credit: Jing-Yi Li"
               },
               {
                 "t": "p",
-                "x": "한국 연구진이 기계론적 모델링과 인공지능을 합친 디지털 트윈을 만들고 있다. 언젠가 사람의 개입을 최소화한 완전 자율 실험실을 꾸리는 게 목표다. Sungkyunkwan University의 Bioprocess Digital Twin Lab을 이끄는 Dong-Yup Lee는 \"이 기계론적 모델을 데이터 기반(data-driven) AI 모델과 결합해 하이브리드 모델을 만드는 데 집중해 왔다\"고 말한다."
+                "x": "University of Michigan이 이끈 연구가 PNAS에 실렸다. 연구진은 eBird(조류)와 iNaturalist(식물과 꽃가루 매개자) 댓글로 대규모 언어 모델이 공개된 자연 관찰 기록에서 종 사이 상호작용 정보를 골라낼 수 있음을 보였다."
               },
               {
                 "t": "p",
-                "x": "트윈은 바이오리액터 데이터를 모으는 다중 센서(multi-sensory) 시스템과 늘 연결돼 있고, Chinese Hamster Ovary(CHO) 세포의 수학 모델로 조건별 거동을 예측한다. 다만 기계론적 예측만으로는 실시간 정확도가 모자랐다. 그래서 연구팀은 어떤 입력이 공정 출력을 가장 크게 좌우하는지 보여 주는 설명 가능한 AI(XAI)를 더했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-                "cap": "Sungkyunkwan University에 있는 Bioprocess Digital Twin Lab의 설비. [Sungkyunkwan University]"
+                "x": "두 사례 연구는 West Coast lady 나비와 그 기주식물, 그리고 Michigan 조류의 상호작용을 다뤘다. 개념 증명 단계에서는 미국(U.S.) 서부 해안을 따라 퍼지는, 자칫 놓칠 뻔한 외래 식물이 드러났다."
               },
               {
                 "t": "p",
-                "x": "Lee는 \"하이브리드 모델 [개발]은 아마 80% 정도 왔다\"고 말한다. 남은 20%는 모델을 제어 시스템과 향후 로봇에 잇는 작업이다."
+                "x": "시간을 재 본 비교에서 Claude는 댓글 500건 가까이를 약 육 분 만에 분류했다. 같은 일에 학부생 연구원은 약 여덟 시간을 썼다. 제1저자 Hengxing Zou는 이 연구가 과학자의 창의적 작업을 대신하려는 게 아니라 AI로 사람의 노력을 넓히려는 시도라고 설명한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ハイブリッド型デジタルツイン\n自律型バイオ工程ラボへ",
-          "body": "Sungkyunkwanの研究者は機構モデルと説明可能なAIを融合し、自律ラボを目指す。",
-          "mini_headline": "自律ラボのためのデジタルツイン",
+          "headline": "LLMsが市民科学の\n記録から生態の手がかり",
+          "body": "ClaudeはeBirdとiNaturalistのコメント約500件を約六分で分類した。",
+          "mini_headline": "LLMsが市民科学の記録を読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+                "cap": "カナダガン（Canada goose）の群れと一緒に餌をとる1羽のハクガン。eBirdのコメントによく記録される、互いに利益のある関係だ。Credit: Jing-Yi Li"
               },
               {
                 "t": "p",
-                "x": "韓国の研究者らが、機構論的モデリングと人工知能を組み合わせたデジタルツインを開発している。最終的には人の介入を最小限に抑えた完全自律型ラボの実現を目指す。Sungkyunkwan UniversityのBioprocess Digital Twin Labを率いるDong-Yup Lee氏は「この機構論的モデルとデータ駆動型(data-driven)のAIモデルを組み合わせ、ハイブリッドモデルを作ることに注力してきた」と語る。"
+                "x": "University of Michiganが主導し、PNASに掲載された研究は、eBird（鳥類）とiNaturalist（植物と送粉者）のコメントを使い、大規模言語モデルが公開された自然観察記録を選り分けて、種同士の相互作用に関する情報を引き出せることを示した。"
               },
               {
                 "t": "p",
-                "x": "このツインはバイオリアクターのデータを収集するマルチセンサー(multi-sensory)システムに常時接続され、Chinese Hamster Ovary(CHO)細胞の数理モデルを使って、さまざまな条件下での挙動を予測する。機構論的な予測だけではリアルタイムの精度が足りないため、チームはどの入力がプロセス出力に最も影響するかを示す説明可能なAI(XAI)を加えている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-                "cap": "Sungkyunkwan UniversityのBioprocess Digital Twin Labの設備。[Sungkyunkwan University]"
+                "x": "2つの事例研究は、West Coast ladyというチョウとその食草、そしてMichiganの鳥類間の相互作用を扱った。概念実証では、見逃されていたかもしれない、米国（U.S.）西海岸沿いに広がる外来植物を明らかにした。"
               },
               {
                 "t": "p",
-                "x": "Lee氏は「ハイブリッドモデル[の開発]はおそらく80%まで来ている」と話す。残る20%は、モデルを制御システムや将来のロボットとつなぐ作業だ。"
+                "x": "時間を計ったある比較では、Claudeが500件近いコメントを約六分で分類したのに対し、学部生の研究者は約八時間かかった。筆頭著者のHengxing Zouは、この研究を科学者の創造的な仕事を置き換えるものではなく、AIで人間の労力を広げるものだと説明する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "混合数字孪生瞄准\n自主运行的生物工艺实验室",
-          "body": "Sungkyunkwan研究人员将机理细胞模型与可解释AI结合，目标是少人干预的实验室。",
-          "mini_headline": "面向自主实验室的数字孪生",
+          "headline": "LLMs从公民科学记录中\n挖掘生态线索",
+          "body": "Claude约六分钟分类了近500条eBird和iNaturalist评论，学生需八小时。",
+          "mini_headline": "LLMs解读公民科学记录",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+                "cap": "一只雪雁与一群加拿大雁（Canada goose）一同觅食，这种互利互动常见于eBird评论记录中。Credit: Jing-Yi Li"
               },
               {
                 "t": "p",
-                "x": "韩国研究人员正在开发一种结合机理建模与人工智能的数字孪生，希望最终实现人工干预极少的全自主实验室。Sungkyunkwan University的Bioprocess Digital Twin Lab负责人Dong-Yup Lee说：“我们一直专注于把这个机理模型与数据驱动（data-driven）的AI模型结合起来，打造一个混合模型。”"
+                "x": "一项由University of Michigan牵头、发表在PNAS上的研究发现，大语言模型可以筛查公开的自然观察记录，从中提取物种如何互动的信息。研究使用的是eBird（鸟类）和iNaturalist（植物与传粉者）上的评论。"
               },
               {
                 "t": "p",
-                "x": "该孪生系统与采集生物反应器数据的多传感器（multi-sensory）系统持续相连，并利用Chinese Hamster Ovary（CHO）细胞的数学模型预测不同条件下的行为。由于仅靠机理预测缺乏实时精度，团队加入了可解释AI（XAI），用以显示哪些输入对工艺输出影响最大。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-                "cap": "Sungkyunkwan University的Bioprocess Digital Twin Lab实验装置。[Sungkyunkwan University]"
+                "x": "两项案例研究分别关注West Coast lady蝴蝶及其寄主植物，以及Michigan鸟类之间的互动。在概念验证中，这一方法揭示了沿美国（U.S.）西海岸扩散、原本可能被忽视的外来植物。"
               },
               {
                 "t": "p",
-                "x": "Lee说：“混合模型[的开发]大概已完成80%。”剩下的20%是把模型与控制系统以及未来的机器人连接起来。"
+                "x": "在一次计时对比中，Claude用约六分钟分类了近500条评论，而一名本科生研究员大约需要八小时。第一作者Hengxing Zou表示，这项工作是用AI扩展人的工作量，而不是取代科学家的创造性工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemelos digitales híbridos\npara laboratorios autónomos",
-          "body": "Investigadores de Sungkyunkwan unen modelos celulares mecanicistas y AI explicable para crear laboratorios autónomos.",
-          "mini_headline": "Gemelos digitales para laboratorios autónomos",
+          "headline": "LLMs buscan pistas ecológicas\nen notas de ciencia ciudadana",
+          "body": "Claude clasificó casi 500 comentarios de eBird e iNaturalist en unos seis minutos; a un estudiante le llevó ocho horas.",
+          "mini_headline": "Los LLMs leen notas de ciencia ciudadana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+                "cap": "Un ánsar nival se alimenta junto a un grupo de barnaclas canadienses (Canada geese), una interacción de beneficio mutuo que suele registrarse en los comentarios de eBird. Credit: Jing-Yi Li"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Corea del Sur desarrollan un gemelo digital que combina modelado mecanicista con inteligencia artificial, con la esperanza de que algún día permita un laboratorio totalmente autónomo que funcione con una intervención humana mínima. \"Nos hemos centrado en combinar este modelo mecanicista con el modelo de AI basado en datos (data-driven) para crear un modelo híbrido\", afirma Dong-Yup Lee, director del Bioprocess Digital Twin Lab de Sungkyunkwan University."
+                "x": "Un estudio dirigido por la University of Michigan y publicado en PNAS halló que los grandes modelos de lenguaje pueden revisar observaciones públicas de la naturaleza para extraer información sobre cómo interactúan las especies, a partir de comentarios de eBird (aves) e iNaturalist (plantas y polinizadores)."
               },
               {
                 "t": "p",
-                "x": "El gemelo está conectado de forma continua a un sistema multisensorial (multi-sensory) que recoge datos del biorreactor y utiliza modelos matemáticos de células Chinese Hamster Ovary (CHO) para predecir su comportamiento en distintas condiciones. Como las predicciones mecanicistas por sí solas carecen de precisión en tiempo real, el equipo añade AI explicable (XAI), que muestra qué entradas afectan más a los resultados del proceso."
-              },
-              {
-                "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-                "cap": "Instalación del Bioprocess Digital Twin Lab en Sungkyunkwan University. [Sungkyunkwan University]"
+                "x": "Los dos estudios de caso abarcaron la mariposa West Coast lady y sus plantas hospedadoras, y las interacciones entre aves de Michigan. En la prueba de concepto, el método reveló plantas no nativas que se extienden por la costa oeste de Estados Unidos (U.S.) y que, de otro modo, podrían haber pasado inadvertidas."
               },
               {
                 "t": "p",
-                "x": "\"Probablemente estamos en un 80% en [el desarrollo de] el modelo híbrido\", dice Lee; el 20% restante consiste en conectar los modelos al sistema de control y a la futura robótica."
+                "x": "En una comparación cronometrada, Claude clasificó casi 500 comentarios en unos seis minutos, frente a unas ocho horas de un investigador de grado. El autor principal, Hengxing Zou, describe el trabajo como un uso de la AI para ampliar el esfuerzo humano, no para sustituir el trabajo creativo de los científicos."
               }
             ]
           }
@@ -1045,125 +829,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "하이브리드 디지털 트윈,\n자율 바이오공정 랩 겨냥",
-          "body": "Sungkyunkwan 연구진이 세포 모델과 설명형 AI로 자율 랩을 노린다.",
-          "mini_headline": "자율 실험실을 위한 디지털 트윈",
+          "headline": "LLMs가 시민과학\n기록에서 생태 단서 캐다",
+          "body": "Claude가 eBird·iNaturalist 약 500건을 육 분 만에 분류했다.",
+          "mini_headline": "시민과학 기록 읽는 LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+                "cap": "흰기러기 한 마리가 캐나다기러기(Canada goose) 무리와 함께 먹이를 먹고 있다. eBird 댓글에 자주 기록되는 상호 이익 관계다. Credit: Jing-Yi Li"
               },
               {
                 "t": "p",
-                "x": "한국 연구진이 기계론적 모델링과 인공지능을 결합한 디지털 트윈을 개발하고 있다. 사람의 개입을 최소화한 완전 자율 실험실을 언젠가 구현하는 것이 목표다. Sungkyunkwan University의 Bioprocess Digital Twin Lab을 이끄는 Dong-Yup Lee는 \"이 기계론적 모델을 데이터 기반(data-driven) AI 모델과 결합해 하이브리드 모델을 만드는 데 집중해 왔다\"고 말한다."
+                "x": "University of Michigan이 이끈 연구가 PNAS에 실렸다. 연구진은 eBird(조류)와 iNaturalist(식물과 꽃가루 매개자) 댓글을 활용해, 대규모 언어 모델이 공개된 자연 관찰 기록을 걸러 종 사이의 상호작용 정보를 뽑아낼 수 있음을 확인했다."
               },
               {
                 "t": "p",
-                "x": "이 트윈은 바이오리액터 데이터를 수집하는 다중 센서(multi-sensory) 시스템과 상시 연결돼 있으며, Chinese Hamster Ovary(CHO) 세포의 수학 모델로 조건별 거동을 예측한다. 기계론적 예측만으로는 실시간 정확도가 부족해, 연구팀은 어떤 입력이 공정 출력에 가장 큰 영향을 주는지 보여주는 설명 가능한 AI(XAI)를 더했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-                "cap": "Sungkyunkwan University에 있는 Bioprocess Digital Twin Lab의 설비. [Sungkyunkwan University]"
+                "x": "두 사례 연구는 West Coast lady 나비와 그 기주식물, 그리고 Michigan 조류 사이의 상호작용을 다뤘다. 개념 증명 단계에서 이 방법은 자칫 놓칠 수 있었던, 미국(U.S.) 서부 해안을 따라 퍼지는 외래 식물을 드러냈다."
               },
               {
                 "t": "p",
-                "x": "Lee는 \"하이브리드 모델 [개발]은 아마 80% 정도 왔다\"고 말한다. 나머지 20%는 모델을 제어 시스템과 향후 로봇에 연결하는 일이다."
+                "x": "시간을 잰 한 비교에서 Claude는 댓글 500건 가까이를 약 육 분 만에 분류했고, 학부생 연구원은 약 여덟 시간이 걸렸다. 제1저자 Hengxing Zou는 이 연구를 과학자의 창의적 작업을 대신하는 것이 아니라, AI로 사람의 노력을 넓히는 일이라고 설명한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ハイブリッド型デジタルツイン\n自律型バイオ工程ラボへ",
-          "body": "Sungkyunkwanの研究者は機構モデルと説明可能なAIを融合し、自律ラボを目指す。",
-          "mini_headline": "自律ラボのためのデジタルツイン",
+          "headline": "LLMsが市民科学の\n記録から生態の手がかり",
+          "body": "ClaudeはeBirdとiNaturalistのコメント約500件を約六分で分類した。",
+          "mini_headline": "LLMsが市民科学の記録を読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+                "cap": "カナダガン（Canada goose）の群れと一緒に餌をとる1羽のハクガン。eBirdのコメントによく記録される、互いに利益のある関係だ。Credit: Jing-Yi Li"
               },
               {
                 "t": "p",
-                "x": "韓国の研究者らが、機構論的モデリングと人工知能を組み合わせたデジタルツインを開発している。最終的には人の介入を最小限に抑えた完全自律型ラボの実現を目指す。Sungkyunkwan UniversityのBioprocess Digital Twin Labを率いるDong-Yup Lee氏は「この機構論的モデルとデータ駆動型(data-driven)のAIモデルを組み合わせ、ハイブリッドモデルを作ることに注力してきた」と語る。"
+                "x": "University of Michiganが主導し、PNASに掲載された研究は、eBird（鳥類）とiNaturalist（植物と送粉者）のコメントを使い、大規模言語モデルが公開された自然観察記録を選り分けて、種同士の相互作用に関する情報を引き出せることを示した。"
               },
               {
                 "t": "p",
-                "x": "このツインはバイオリアクターのデータを収集するマルチセンサー(multi-sensory)システムに常時接続され、Chinese Hamster Ovary(CHO)細胞の数理モデルを使って、さまざまな条件下での挙動を予測する。機構論的な予測だけではリアルタイムの精度が足りないため、チームはどの入力がプロセス出力に最も影響するかを示す説明可能なAI(XAI)を加えている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-                "cap": "Sungkyunkwan UniversityのBioprocess Digital Twin Labの設備。[Sungkyunkwan University]"
+                "x": "2つの事例研究は、West Coast ladyというチョウとその食草、そしてMichiganの鳥類間の相互作用を扱った。概念実証では、見逃されていたかもしれない、米国（U.S.）西海岸沿いに広がる外来植物を明らかにした。"
               },
               {
                 "t": "p",
-                "x": "Lee氏は「ハイブリッドモデル[の開発]はおそらく80%まで来ている」と話す。残る20%は、モデルを制御システムや将来のロボットとつなぐ作業だ。"
+                "x": "時間を計ったある比較では、Claudeが500件近いコメントを約六分で分類したのに対し、学部生の研究者は約八時間かかった。筆頭著者のHengxing Zouは、この研究を科学者の創造的な仕事を置き換えるものではなく、AIで人間の労力を広げるものだと説明する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "混合数字孪生瞄准\n自主运行的生物工艺实验室",
-          "body": "Sungkyunkwan研究人员将机理细胞模型与可解释AI结合，目标是少人干预的实验室。",
-          "mini_headline": "面向自主实验室的数字孪生",
+          "headline": "LLMs从公民科学记录中\n挖掘生态线索",
+          "body": "Claude约六分钟分类了近500条eBird和iNaturalist评论，学生需八小时。",
+          "mini_headline": "LLMs解读公民科学记录",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+                "cap": "一只雪雁与一群加拿大雁（Canada goose）一同觅食，这种互利互动常见于eBird评论记录中。Credit: Jing-Yi Li"
               },
               {
                 "t": "p",
-                "x": "韩国研究人员正在开发一种结合机理建模与人工智能的数字孪生，希望最终实现人工干预极少的全自主实验室。Sungkyunkwan University的Bioprocess Digital Twin Lab负责人Dong-Yup Lee说：“我们一直专注于把这个机理模型与数据驱动（data-driven）的AI模型结合起来，打造一个混合模型。”"
+                "x": "一项由University of Michigan牵头、发表在PNAS上的研究发现，大语言模型可以筛查公开的自然观察记录，从中提取物种如何互动的信息。研究使用的是eBird（鸟类）和iNaturalist（植物与传粉者）上的评论。"
               },
               {
                 "t": "p",
-                "x": "该孪生系统与采集生物反应器数据的多传感器（multi-sensory）系统持续相连，并利用Chinese Hamster Ovary（CHO）细胞的数学模型预测不同条件下的行为。由于仅靠机理预测缺乏实时精度，团队加入了可解释AI（XAI），用以显示哪些输入对工艺输出影响最大。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-                "cap": "Sungkyunkwan University的Bioprocess Digital Twin Lab实验装置。[Sungkyunkwan University]"
+                "x": "两项案例研究分别关注West Coast lady蝴蝶及其寄主植物，以及Michigan鸟类之间的互动。在概念验证中，这一方法揭示了沿美国（U.S.）西海岸扩散、原本可能被忽视的外来植物。"
               },
               {
                 "t": "p",
-                "x": "Lee说：“混合模型[的开发]大概已完成80%。”剩下的20%是把模型与控制系统以及未来的机器人连接起来。"
+                "x": "在一次计时对比中，Claude用约六分钟分类了近500条评论，而一名本科生研究员大约需要八小时。第一作者Hengxing Zou表示，这项工作是用AI扩展人的工作量，而不是取代科学家的创造性工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemelos digitales híbridos\npara laboratorios autónomos",
-          "body": "Investigadores de Sungkyunkwan unen modelos celulares mecanicistas y AI explicable para crear laboratorios autónomos.",
-          "mini_headline": "Gemelos digitales para laboratorios autónomos",
+          "headline": "LLMs buscan pistas ecológicas\nen notas de ciencia ciudadana",
+          "body": "Claude clasificó casi 500 comentarios de eBird e iNaturalist en unos seis minutos; a un estudiante le llevó ocho horas.",
+          "mini_headline": "Los LLMs leen notas de ciencia ciudadana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+                "cap": "Un ánsar nival se alimenta junto a un grupo de barnaclas canadienses (Canada geese), una interacción de beneficio mutuo que suele registrarse en los comentarios de eBird. Credit: Jing-Yi Li"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Corea del Sur desarrollan un gemelo digital que combina modelado mecanicista con inteligencia artificial, con la esperanza de que algún día permita un laboratorio totalmente autónomo que funcione con una intervención humana mínima. \"Nos hemos centrado en combinar este modelo mecanicista con el modelo de AI basado en datos (data-driven) para crear un modelo híbrido\", afirma Dong-Yup Lee, director del Bioprocess Digital Twin Lab de Sungkyunkwan University."
+                "x": "Un estudio dirigido por la University of Michigan y publicado en PNAS halló que los grandes modelos de lenguaje pueden revisar observaciones públicas de la naturaleza para extraer información sobre cómo interactúan las especies, a partir de comentarios de eBird (aves) e iNaturalist (plantas y polinizadores)."
               },
               {
                 "t": "p",
-                "x": "El gemelo está conectado de forma continua a un sistema multisensorial (multi-sensory) que recoge datos del biorreactor y utiliza modelos matemáticos de células Chinese Hamster Ovary (CHO) para predecir su comportamiento en distintas condiciones. Como las predicciones mecanicistas por sí solas carecen de precisión en tiempo real, el equipo añade AI explicable (XAI), que muestra qué entradas afectan más a los resultados del proceso."
-              },
-              {
-                "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/Bioreactor-setup-image-2-small.jpg",
-                "cap": "Instalación del Bioprocess Digital Twin Lab en Sungkyunkwan University. [Sungkyunkwan University]"
+                "x": "Los dos estudios de caso abarcaron la mariposa West Coast lady y sus plantas hospedadoras, y las interacciones entre aves de Michigan. En la prueba de concepto, el método reveló plantas no nativas que se extienden por la costa oeste de Estados Unidos (U.S.) y que, de otro modo, podrían haber pasado inadvertidas."
               },
               {
                 "t": "p",
-                "x": "\"Probablemente estamos en un 80% en [el desarrollo de] el modelo híbrido\", dice Lee; el 20% restante consiste en conectar los modelos al sistema de control y a la futura robótica."
+                "x": "En una comparación cronometrada, Claude clasificó casi 500 comentarios en unos seis minutos, frente a unas ocho horas de un investigador de grado. El autor principal, Hengxing Zou, describe el trabajo como un uso de la AI para ampliar el esfuerzo humano, no para sustituir el trabajo creativo de los científicos."
               }
             ]
           }
@@ -1171,171 +939,195 @@
       }
     },
     {
-      "id": "science-coating-thickness-pitting-ml",
+      "id": "science-koc-photonic-optical-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "해석 가능한 AI가\n코팅 두께·내공식성 연결",
-      "body": "ML로 90개 시편을 보니 2,200 nm 두께 부근에서 거칠기 효과가 뒤집혔다.",
-      "mini_headline": "AI로 본 코팅 부식",
+      "headline": "Koç University\nAI 연산을 빛에 맡기다",
+      "body": "Koç University 광 신경망은 분류 정확도를 68%에서 98%로 높였다.",
+      "mini_headline": "빛으로 하는 AI 연산",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-reveals-coating-thickness-link.html",
-      "accent": "#eb367f",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-approach-sustainable-ai-offloading-burden.html",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-            "cap": "네 가지 물리 기술자의 분리와, 높은 형태(higher-morphology) 영역의 약 2,200 nm 막 두께 부근에서 모델이 뒷받침하는(model-supported) 전이. 출처: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+            "cap": "멀티채널 광 컴퓨팅의 실험 장치와 최적화 전략. Credit: Communications Engineering (2026)"
           },
           {
             "t": "p",
-            "x": "Shibaura Institute of Technology 연구진은 증기 코팅한(steam-coated) A6061-T6 알루미늄 시편 90개에 해석 가능한 머신러닝(machine-learning) 프레임워크를 적용했다. 막 두께, 표면 거칠기, 결정자 크기, 기판 전위 밀도 지수라는 네 가지 기술자를 5 wt.% 염화나트륨 용액에서 잰 공식 전위와 견줘 분석했다."
+            "x": "Koç University Uğur Teğin 조교수 연구팀이 AI 연산 일부를 빛으로 처리하는 연구 두 편을 내놨다. AI의 에너지 수요를 덜어 줄 방법이다."
           },
           {
             "t": "p",
-            "x": "가장 중요한 예측 변수는 막 두께와 표면 거칠기였다. 거칠기가 약 600–1,080 nm 범위일 때 두 변수의 모델상 상호작용은 막 두께 2,200 nm 부근에서 부호가 바뀌었다. 거칠기가 더 낮을 때는 이런 반전이 없었다. 저자들은 거칠기가 얇은 막에서는 보호 피복을, 두꺼운 막에서는 구조적 불균일성을 반영할 수 있다고 본다. 다만 이 가설은 아직 실험 검증을 거쳐야 한다."
+            "x": "Communications Engineering 논문에서 연구팀은 이미지의 빨강·초록·파랑 채널을 흑백으로 바꾸지 않은 채 한꺼번에 처리하는 프로그래머블 광자 신경망을 선보였다. 피부과 분류 과제의 정확도는 원본 컬러 픽셀 데이터로는 68%였지만 광학 처리를 거치자 98%로 뛰었다. 시스템은 측정 결과로 학습하며 광학 장치의 실제 결함에 맞춰 스스로 조정된다."
           },
           {
             "t": "p",
-            "x": "Monte Carlo 분석에 따르면 예측 변동성 가운데 약 0.080 V 만큼은 측정 불확실성 탓이다. 모델 전체 RMSE는 0.292 V 수준이다. 연구는 npj Materials Degradation에 실렸다."
+            "x": "Communications Physics 논문에서는 멀티모드 광섬유 레이저가 물리 프로세서 노릇을 하며 레이저 공진기 안에서 이미지 데이터를 빛으로 인코딩했다. 재활용 폐기물, 날씨·위성 이미지, 망막 스캔, 피부 병변 데이터에서 단순한 분류기만으로 정확도가 85%에서 99%에 이르렀다. 학습 파라미터 수는 기존 딥러닝 모델보다 훨씬 적었다."
+          },
+          {
+            "t": "p",
+            "x": "아직은 카메라와 제어 장치 같은 전자 부품이 필요하다. 광 제어 장치가 더 빨라지고 칩 기반 광학이 나오면 빛으로 옮길 수 있는 연산도 늘어난다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Interpretable AI links coating\nthickness to pitting resistance",
-          "body": "On 90 coated aluminum samples, interpretable ML finds roughness flips its pitting effect near 2,200 nm film thickness.",
-          "mini_headline": "AI maps coating corrosion",
+          "headline": "Koç University offloads AI\ncomputation onto light",
+          "body": "Koç University's programmable optical neural network raised skin-lesion classification accuracy from 68% to 98%.",
+          "mini_headline": "AI computing on light",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-                "cap": "Decoupling of four physical descriptors and a model-supported transition near a film thickness of about 2,200 nm in the higher-morphology regime. Credit: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+                "cap": "Experimental setup and optimization strategies for multichannel optical computing. Credit: Communications Engineering (2026)"
               },
               {
                 "t": "p",
-                "x": "Researchers at Shibaura Institute of Technology applied an interpretable machine-learning framework to 90 steam-coated A6061-T6 aluminum specimens. They analyzed four descriptors (film thickness, surface roughness, crystallite size and a substrate dislocation density index) against pitting potential measured in 5 wt.% sodium chloride solution."
+                "x": "Koç University assistant professor Uğur Teğin and colleagues published two studies on using light to perform parts of AI computation, which could reduce the energy demands of AI."
               },
               {
                 "t": "p",
-                "x": "Film thickness and surface roughness were the leading predictors. For roughness of about 600–1,080 nm, their modeled interaction changed sign near a film thickness of 2,200 nm; the reversal was not seen at lower roughness. The authors propose that roughness may reflect protective coverage in thinner films but structural irregularities in thicker ones, a hypothesis that still needs experimental testing."
+                "x": "In Communications Engineering, the team built a programmable photonic neural network that processes an image's red, green and blue channels together instead of converting them to grayscale. In a dermatological classification task, accuracy rose from 68% on raw color pixel data to 98% after optical processing. The system learns from measured results, adapting to real-world imperfections in the optical setup."
               },
               {
                 "t": "p",
-                "x": "A Monte Carlo analysis attributed about 0.080 V of prediction variability to measurement uncertainty, against an overall model RMSE of 0.292 V. The study is published in npj Materials Degradation."
+                "x": "In Communications Physics, a multimode fiber laser served as a physical processor, encoding image data into light inside the laser cavity. Across recyclable waste, weather and satellite imagery, retinal scans and skin lesions, it reached 85% to 99% accuracy with a simple classifier and far fewer trainable parameters than conventional deep-learning models."
+              },
+              {
+                "t": "p",
+                "x": "The systems still rely on electronic parts such as cameras and control units; faster light-control devices and chip-based optics could shift more of the workload to light."
               }
             ]
           }
         },
         "ko": {
-          "headline": "해석 가능한 AI가\n코팅 두께·내공식성 연결",
-          "body": "ML로 90개 시편을 보니 2,200 nm 두께 부근에서 거칠기 효과가 뒤집혔다.",
-          "mini_headline": "AI로 본 코팅 부식",
+          "headline": "Koç University\nAI 연산을 빛에 맡기다",
+          "body": "Koç University 광 신경망은 분류 정확도를 68%에서 98%로 높였다.",
+          "mini_headline": "빛으로 하는 AI 연산",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-                "cap": "네 가지 물리 기술자의 분리와, 높은 형태(higher-morphology) 영역의 약 2,200 nm 막 두께 부근에서 모델이 뒷받침하는(model-supported) 전이. 출처: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+                "cap": "멀티채널 광 컴퓨팅의 실험 장치와 최적화 전략. Credit: Communications Engineering (2026)"
               },
               {
                 "t": "p",
-                "x": "Shibaura Institute of Technology 연구진은 증기 코팅한(steam-coated) A6061-T6 알루미늄 시편 90개에 해석 가능한 머신러닝(machine-learning) 프레임워크를 적용했다. 막 두께, 표면 거칠기, 결정자 크기, 기판 전위 밀도 지수라는 네 가지 기술자를 5 wt.% 염화나트륨 용액에서 잰 공식 전위와 견줘 분석했다."
+                "x": "Koç University Uğur Teğin 조교수 연구팀이 AI 연산 일부를 빛으로 처리하는 연구 두 편을 내놨다. AI의 에너지 수요를 덜어 줄 방법이다."
               },
               {
                 "t": "p",
-                "x": "가장 중요한 예측 변수는 막 두께와 표면 거칠기였다. 거칠기가 약 600–1,080 nm 범위일 때 두 변수의 모델상 상호작용은 막 두께 2,200 nm 부근에서 부호가 바뀌었다. 거칠기가 더 낮을 때는 이런 반전이 없었다. 저자들은 거칠기가 얇은 막에서는 보호 피복을, 두꺼운 막에서는 구조적 불균일성을 반영할 수 있다고 본다. 다만 이 가설은 아직 실험 검증을 거쳐야 한다."
+                "x": "Communications Engineering 논문에서 연구팀은 이미지의 빨강·초록·파랑 채널을 흑백으로 바꾸지 않은 채 한꺼번에 처리하는 프로그래머블 광자 신경망을 선보였다. 피부과 분류 과제의 정확도는 원본 컬러 픽셀 데이터로는 68%였지만 광학 처리를 거치자 98%로 뛰었다. 시스템은 측정 결과로 학습하며 광학 장치의 실제 결함에 맞춰 스스로 조정된다."
               },
               {
                 "t": "p",
-                "x": "Monte Carlo 분석에 따르면 예측 변동성 가운데 약 0.080 V 만큼은 측정 불확실성 탓이다. 모델 전체 RMSE는 0.292 V 수준이다. 연구는 npj Materials Degradation에 실렸다."
+                "x": "Communications Physics 논문에서는 멀티모드 광섬유 레이저가 물리 프로세서 노릇을 하며 레이저 공진기 안에서 이미지 데이터를 빛으로 인코딩했다. 재활용 폐기물, 날씨·위성 이미지, 망막 스캔, 피부 병변 데이터에서 단순한 분류기만으로 정확도가 85%에서 99%에 이르렀다. 학습 파라미터 수는 기존 딥러닝 모델보다 훨씬 적었다."
+              },
+              {
+                "t": "p",
+                "x": "아직은 카메라와 제어 장치 같은 전자 부품이 필요하다. 광 제어 장치가 더 빨라지고 칩 기반 광학이 나오면 빛으로 옮길 수 있는 연산도 늘어난다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "解釈可能なAIが\n膜厚と耐孔食性を結びつける",
-          "body": "90個のアルミ試料で、MLは膜厚2,200 nm 付近で粗さの孔食効果が反転すると示した。",
-          "mini_headline": "AIで読み解くコーティング腐食",
+          "headline": "Koç University\nAI計算を光へ移す",
+          "body": "Koç Universityの光ニューラルネットが分類精度を68%から98%に高めた。",
+          "mini_headline": "光で行うAI計算",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-                "cap": "4つの物理記述子の分離と、高モルフォロジー(higher-morphology)領域における膜厚約2,200 nm 付近でのモデルに支持された(model-supported)転移。提供:Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+                "cap": "マルチチャネル光コンピューティングの実験装置と最適化戦略。Credit: Communications Engineering (2026)"
               },
               {
                 "t": "p",
-                "x": "Shibaura Institute of Technologyの研究チームは、蒸気コーティングした(steam-coated)A6061-T6アルミニウム試料90個に、解釈可能な機械学習(machine-learning)フレームワークを適用した。膜厚、表面粗さ、結晶子サイズ、基材の転位密度指数という4つの記述子を、5 wt.% 塩化ナトリウム溶液中で測定した孔食電位と照らし合わせて解析した。"
+                "x": "Koç UniversityのUğur Teğin助教らは、AI計算の一部を光で行う研究を2本発表した。AIのエネルギー需要を減らしうる手法である。"
               },
               {
                 "t": "p",
-                "x": "主要な予測因子は膜厚と表面粗さだった。粗さが約600–1,080 nm の範囲では、両者のモデル上の相互作用が膜厚2,200 nm 付近で符号を変えた。粗さが低い場合、この反転は見られなかった。著者らは、粗さが薄い膜では保護的な被覆を、厚い膜では構造的な不規則性を反映している可能性があると提案するが、この仮説はまだ実験による検証が必要だ。"
+                "x": "Communications Engineeringに掲載された研究で、チームは画像の赤・緑・青のチャネルをグレースケールに変換せず、まとめて処理するプログラム可能なフォトニック・ニューラルネットワークを構築した。皮膚科の分類タスクでは、精度が生のカラー画素データでの68%から、光学処理後には98%に上がった。システムは測定結果から学習し、光学装置の現実の不完全さに適応する。"
               },
               {
                 "t": "p",
-                "x": "Monte Carlo解析では、予測のばらつきのうち約0.080 V 分が測定の不確かさに起因するとされ、モデル全体のRMSEは0.292 V だった。研究はnpj Materials Degradationに掲載された。"
+                "x": "Communications Physicsに掲載された研究では、マルチモードファイバーレーザーが物理的なプロセッサとして働き、レーザー共振器内で画像データを光に符号化した。リサイクル可能な廃棄物、気象・衛星画像、網膜スキャン、皮膚病変で、単純な分類器により85%から99%の精度に達し、学習可能なパラメータは従来の深層学習モデルよりはるかに少なかった。"
+              },
+              {
+                "t": "p",
+                "x": "これらのシステムは今もカメラや制御ユニットなどの電子部品に頼っている。より高速な光制御デバイスやチップ型光学素子が実現すれば、より多くの処理を光に移せる可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "可解释AI揭示涂层厚度\n与抗点蚀性能的关联",
-          "body": "可解释ML分析90个涂层铝样品，发现粗糙度对点蚀的影响在膜厚2,200 nm 附近反转。",
-          "mini_headline": "AI解析涂层腐蚀",
+          "headline": "Koç University\n把AI计算交给光",
+          "body": "Koç University的可编程光神经网络把皮肤病变分类准确率从68%提升至98%。",
+          "mini_headline": "用光完成AI计算",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-                "cap": "四个物理描述符的解耦，以及在高形貌（higher-morphology）区域中膜厚约2,200 nm 附近出现的模型支持（model-supported）转变。图片来源：Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+                "cap": "多通道光计算的实验装置与优化策略。Credit: Communications Engineering (2026)"
               },
               {
                 "t": "p",
-                "x": "Shibaura Institute of Technology的研究人员将可解释的机器学习（machine-learning）框架应用于90个经蒸汽涂层（steam-coated）处理的A6061-T6铝试样，分析了膜厚、表面粗糙度、微晶尺寸和基体位错密度指数这四个描述符与在5 wt.% 氯化钠溶液中测得的点蚀电位之间的关系。"
+                "x": "Koç University助理教授Uğur Teğin及其同事发表了两项研究，探讨用光来完成部分AI计算，这有望降低AI的能耗需求。"
               },
               {
                 "t": "p",
-                "x": "膜厚和表面粗糙度是最主要的预测因子。在粗糙度约为600–1,080 nm 时，两者在模型中的交互作用在膜厚2,200 nm 附近改变符号；粗糙度较低时未见这种反转。作者提出，粗糙度在较薄的膜中可能反映保护性覆盖，而在较厚的膜中则反映结构不规则性，但这一假设仍需实验验证。"
+                "x": "在发表于Communications Engineering的研究中，团队构建了一个可编程光子神经网络，能把图像的红、绿、蓝通道一并处理，而不是先转成灰度图。在一项皮肤病分类任务中，准确率从原始彩色像素数据的68%提升到光学处理后的98%。该系统从实测结果中学习，能适应光学装置在现实中的缺陷。"
               },
               {
                 "t": "p",
-                "x": "Monte Carlo分析显示，在模型整体RMSE为0.292 V 的情况下，约0.080 V 的预测波动来自测量不确定性。该研究发表于npj Materials Degradation。"
+                "x": "在发表于Communications Physics的研究中，一台多模光纤激光器充当物理处理器，在激光腔内把图像数据编码进光中。在可回收垃圾、天气与卫星图像、视网膜扫描和皮肤病变等任务上，它搭配简单分类器达到85%至99%的准确率，可训练参数也远少于传统深度学习模型。"
+              },
+              {
+                "t": "p",
+                "x": "这些系统仍依赖摄像头和控制单元等电子部件；更快的光控器件和芯片级光学元件有望把更多计算负载转移到光上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI interpretable vincula grosor\ny resistencia a la picadura",
-          "body": "En 90 muestras de aluminio, un ML interpretable halla que la rugosidad invierte su efecto cerca de 2,200 nm de espesor.",
-          "mini_headline": "La AI mapea la corrosión de recubrimientos",
+          "headline": "La Koç University traslada\nel cómputo de AI a la luz",
+          "body": "La red neuronal óptica de la Koç University elevó del 68% al 98% la precisión al clasificar lesiones cutáneas.",
+          "mini_headline": "Cómputo de AI con luz",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-                "cap": "Desacoplamiento de cuatro descriptores físicos y una transición respaldada por el modelo (model-supported) cerca de un espesor de película de unos 2,200 nm en el régimen de mayor morfología (higher-morphology). Crédito: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+                "cap": "Montaje experimental y estrategias de optimización para la computación óptica multicanal. Credit: Communications Engineering (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Shibaura Institute of Technology aplicaron un marco interpretable de aprendizaje automático (machine-learning) a 90 probetas de aluminio A6061-T6 recubiertas con vapor (steam-coated). Analizaron cuatro descriptores (espesor de película, rugosidad superficial, tamaño de cristalito y un índice de densidad de dislocaciones del sustrato) frente al potencial de picadura medido en una solución de cloruro de sodio al 5 wt.%."
+                "x": "El profesor adjunto de la Koç University Uğur Teğin y sus colegas publicaron dos estudios sobre el uso de la luz para realizar parte del cómputo de la AI, lo que podría reducir la demanda energética de la AI."
               },
               {
                 "t": "p",
-                "x": "El espesor de película y la rugosidad superficial fueron los principales predictores. Con una rugosidad de unos 600–1,080 nm, su interacción modelada cambió de signo cerca de un espesor de película de 2,200 nm; la inversión no se observó con rugosidades menores. Los autores proponen que la rugosidad podría reflejar una cobertura protectora en películas más delgadas, pero irregularidades estructurales en las más gruesas, una hipótesis que aún requiere comprobación experimental."
+                "x": "En Communications Engineering, el equipo construyó una red neuronal fotónica programable que procesa juntos los canales rojo, verde y azul de una imagen en lugar de convertirlos a escala de grises. En una tarea de clasificación dermatológica, la precisión pasó del 68% con los datos de píxeles en color sin procesar al 98% tras el procesamiento óptico. El sistema aprende de los resultados medidos y se adapta a las imperfecciones reales del montaje óptico."
               },
               {
                 "t": "p",
-                "x": "Un análisis de Monte Carlo atribuyó unos 0.080 V de la variabilidad de las predicciones a la incertidumbre de medición, frente a un RMSE global del modelo de 0.292 V. El estudio se publica en npj Materials Degradation."
+                "x": "En Communications Physics, un láser de fibra multimodo funcionó como procesador físico y codificó datos de imagen en la luz dentro de la cavidad del láser. Con residuos reciclables, imágenes meteorológicas y satelitales, escáneres de retina y lesiones cutáneas, alcanzó entre el 85% y el 99% de precisión con un clasificador sencillo y muchos menos parámetros entrenables que los modelos convencionales de aprendizaje profundo."
+              },
+              {
+                "t": "p",
+                "x": "Los sistemas aún dependen de componentes electrónicos como cámaras y unidades de control; dispositivos de control de la luz más rápidos y una óptica basada en chips podrían trasladar a la luz una mayor parte de la carga de trabajo."
               }
             ]
           }
@@ -1343,109 +1135,437 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "해석 가능한 AI가\n코팅 두께·내공식성 연결",
-          "body": "ML이 90개 시편에서 2,200 nm 두께 부근 거칠기 효과 역전을 확인했다.",
-          "mini_headline": "AI로 본 코팅 부식",
+          "headline": "Koç University\nAI 연산을 빛에 맡기다",
+          "body": "Koç University 광 신경망이 분류 정확도를 68%에서 98%로 높였다.",
+          "mini_headline": "빛으로 하는 AI 연산",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-                "cap": "네 가지 물리 기술자의 분리와, 높은 형태(higher-morphology) 영역의 약 2,200 nm 막 두께 부근에서 모델이 뒷받침하는(model-supported) 전이. 출처: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+                "cap": "멀티채널 광 컴퓨팅의 실험 장치와 최적화 전략. Credit: Communications Engineering (2026)"
               },
               {
                 "t": "p",
-                "x": "Shibaura Institute of Technology 연구진은 증기 코팅한(steam-coated) A6061-T6 알루미늄 시편 90개에 해석 가능한 머신러닝(machine-learning) 프레임워크를 적용했다. 막 두께, 표면 거칠기, 결정자 크기, 기판 전위 밀도 지수 등 네 가지 기술자를 5 wt.% 염화나트륨 용액에서 측정한 공식 전위와 비교해 분석했다."
+                "x": "Koç University의 Uğur Teğin 조교수 연구팀이 빛으로 AI 연산의 일부를 수행하는 연구 두 편을 발표했다. AI의 에너지 수요를 줄일 수 있는 접근이다."
               },
               {
                 "t": "p",
-                "x": "막 두께와 표면 거칠기가 가장 중요한 예측 변수였다. 거칠기가 약 600–1,080 nm 범위일 때 두 변수의 모델상 상호작용은 막 두께 2,200 nm 부근에서 부호가 바뀌었고, 거칠기가 더 낮을 때는 이런 반전이 보이지 않았다. 저자들은 거칠기가 얇은 막에서는 보호 피복을, 두꺼운 막에서는 구조적 불균일성을 반영할 수 있다고 제안하지만, 이 가설은 아직 실험으로 검증해야 한다."
+                "x": "Communications Engineering에 실린 연구에서 연구팀은 이미지의 빨강·초록·파랑 채널을 흑백으로 바꾸지 않고 함께 처리하는 프로그래머블 광자 신경망을 만들었다. 피부과 분류 과제에서 정확도는 원본 컬러 픽셀 데이터 기준 68%에서 광학 처리 후 98%로 올랐다. 이 시스템은 측정 결과로 학습하며 광학 장치의 실제 결함에 맞춰 적응한다."
               },
               {
                 "t": "p",
-                "x": "Monte Carlo 분석은 예측 변동성 중 약 0.080 V 만큼을 측정 불확실성 탓으로 보았다. 모델 전체의 RMSE는 0.292 V 수준이다. 연구는 npj Materials Degradation에 실렸다."
+                "x": "Communications Physics에 실린 연구에서는 멀티모드 광섬유 레이저가 물리적 프로세서 역할을 맡아 레이저 공진기 안에서 이미지 데이터를 빛으로 인코딩했다. 재활용 폐기물, 날씨·위성 이미지, 망막 스캔, 피부 병변 데이터에서 단순한 분류기로 85%에서 99%에 이르는 정확도를 냈고, 학습 파라미터 수는 기존 딥러닝 모델보다 훨씬 적었다."
+              },
+              {
+                "t": "p",
+                "x": "다만 이 시스템은 여전히 카메라와 제어 장치 같은 전자 부품에 의존한다. 더 빠른 광 제어 장치와 칩 기반 광학이 나오면 더 많은 연산을 빛으로 옮길 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "解釈可能なAIが\n膜厚と耐孔食性を結びつける",
-          "body": "90個のアルミ試料で、MLは膜厚2,200 nm 付近で粗さの孔食効果が反転すると示した。",
-          "mini_headline": "AIで読み解くコーティング腐食",
+          "headline": "Koç University\nAI計算を光へ移す",
+          "body": "Koç Universityの光ニューラルネットが分類精度を68%から98%に高めた。",
+          "mini_headline": "光で行うAI計算",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-                "cap": "4つの物理記述子の分離と、高モルフォロジー(higher-morphology)領域における膜厚約2,200 nm 付近でのモデルに支持された(model-supported)転移。提供:Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+                "cap": "マルチチャネル光コンピューティングの実験装置と最適化戦略。Credit: Communications Engineering (2026)"
               },
               {
                 "t": "p",
-                "x": "Shibaura Institute of Technologyの研究チームは、蒸気コーティングした(steam-coated)A6061-T6アルミニウム試料90個に、解釈可能な機械学習(machine-learning)フレームワークを適用した。膜厚、表面粗さ、結晶子サイズ、基材の転位密度指数という4つの記述子を、5 wt.% 塩化ナトリウム溶液中で測定した孔食電位と照らし合わせて解析した。"
+                "x": "Koç UniversityのUğur Teğin助教らは、AI計算の一部を光で行う研究を2本発表した。AIのエネルギー需要を減らしうる手法である。"
               },
               {
                 "t": "p",
-                "x": "主要な予測因子は膜厚と表面粗さだった。粗さが約600–1,080 nm の範囲では、両者のモデル上の相互作用が膜厚2,200 nm 付近で符号を変えた。粗さが低い場合、この反転は見られなかった。著者らは、粗さが薄い膜では保護的な被覆を、厚い膜では構造的な不規則性を反映している可能性があると提案するが、この仮説はまだ実験による検証が必要だ。"
+                "x": "Communications Engineeringに掲載された研究で、チームは画像の赤・緑・青のチャネルをグレースケールに変換せず、まとめて処理するプログラム可能なフォトニック・ニューラルネットワークを構築した。皮膚科の分類タスクでは、精度が生のカラー画素データでの68%から、光学処理後には98%に上がった。システムは測定結果から学習し、光学装置の現実の不完全さに適応する。"
               },
               {
                 "t": "p",
-                "x": "Monte Carlo解析では、予測のばらつきのうち約0.080 V 分が測定の不確かさに起因するとされ、モデル全体のRMSEは0.292 V だった。研究はnpj Materials Degradationに掲載された。"
+                "x": "Communications Physicsに掲載された研究では、マルチモードファイバーレーザーが物理的なプロセッサとして働き、レーザー共振器内で画像データを光に符号化した。リサイクル可能な廃棄物、気象・衛星画像、網膜スキャン、皮膚病変で、単純な分類器により85%から99%の精度に達し、学習可能なパラメータは従来の深層学習モデルよりはるかに少なかった。"
+              },
+              {
+                "t": "p",
+                "x": "これらのシステムは今もカメラや制御ユニットなどの電子部品に頼っている。より高速な光制御デバイスやチップ型光学素子が実現すれば、より多くの処理を光に移せる可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "可解释AI揭示涂层厚度\n与抗点蚀性能的关联",
-          "body": "可解释ML分析90个涂层铝样品，发现粗糙度对点蚀的影响在膜厚2,200 nm 附近反转。",
-          "mini_headline": "AI解析涂层腐蚀",
+          "headline": "Koç University\n把AI计算交给光",
+          "body": "Koç University的可编程光神经网络把皮肤病变分类准确率从68%提升至98%。",
+          "mini_headline": "用光完成AI计算",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-                "cap": "四个物理描述符的解耦，以及在高形貌（higher-morphology）区域中膜厚约2,200 nm 附近出现的模型支持（model-supported）转变。图片来源：Prof. Takahiro Ishizaki, Shibaura Institute of Technology"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+                "cap": "多通道光计算的实验装置与优化策略。Credit: Communications Engineering (2026)"
               },
               {
                 "t": "p",
-                "x": "Shibaura Institute of Technology的研究人员将可解释的机器学习（machine-learning）框架应用于90个经蒸汽涂层（steam-coated）处理的A6061-T6铝试样，分析了膜厚、表面粗糙度、微晶尺寸和基体位错密度指数这四个描述符与在5 wt.% 氯化钠溶液中测得的点蚀电位之间的关系。"
+                "x": "Koç University助理教授Uğur Teğin及其同事发表了两项研究，探讨用光来完成部分AI计算，这有望降低AI的能耗需求。"
               },
               {
                 "t": "p",
-                "x": "膜厚和表面粗糙度是最主要的预测因子。在粗糙度约为600–1,080 nm 时，两者在模型中的交互作用在膜厚2,200 nm 附近改变符号；粗糙度较低时未见这种反转。作者提出，粗糙度在较薄的膜中可能反映保护性覆盖，而在较厚的膜中则反映结构不规则性，但这一假设仍需实验验证。"
+                "x": "在发表于Communications Engineering的研究中，团队构建了一个可编程光子神经网络，能把图像的红、绿、蓝通道一并处理，而不是先转成灰度图。在一项皮肤病分类任务中，准确率从原始彩色像素数据的68%提升到光学处理后的98%。该系统从实测结果中学习，能适应光学装置在现实中的缺陷。"
               },
               {
                 "t": "p",
-                "x": "Monte Carlo分析显示，在模型整体RMSE为0.292 V 的情况下，约0.080 V 的预测波动来自测量不确定性。该研究发表于npj Materials Degradation。"
+                "x": "在发表于Communications Physics的研究中，一台多模光纤激光器充当物理处理器，在激光腔内把图像数据编码进光中。在可回收垃圾、天气与卫星图像、视网膜扫描和皮肤病变等任务上，它搭配简单分类器达到85%至99%的准确率，可训练参数也远少于传统深度学习模型。"
+              },
+              {
+                "t": "p",
+                "x": "这些系统仍依赖摄像头和控制单元等电子部件；更快的光控器件和芯片级光学元件有望把更多计算负载转移到光上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI interpretable vincula grosor\ny resistencia a la picadura",
-          "body": "En 90 muestras de aluminio, un ML interpretable halla que la rugosidad invierte su efecto cerca de 2,200 nm de espesor.",
-          "mini_headline": "La AI mapea la corrosión de recubrimientos",
+          "headline": "La Koç University traslada\nel cómputo de AI a la luz",
+          "body": "La red neuronal óptica de la Koç University elevó del 68% al 98% la precisión al clasificar lesiones cutáneas.",
+          "mini_headline": "Cómputo de AI con luz",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-                "cap": "Desacoplamiento de cuatro descriptores físicos y una transición respaldada por el modelo (model-supported) cerca de un espesor de película de unos 2,200 nm en el régimen de mayor morfología (higher-morphology). Crédito: Prof. Takahiro Ishizaki, Shibaura Institute of Technology."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+                "cap": "Montaje experimental y estrategias de optimización para la computación óptica multicanal. Credit: Communications Engineering (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Shibaura Institute of Technology aplicaron un marco interpretable de aprendizaje automático (machine-learning) a 90 probetas de aluminio A6061-T6 recubiertas con vapor (steam-coated). Analizaron cuatro descriptores (espesor de película, rugosidad superficial, tamaño de cristalito y un índice de densidad de dislocaciones del sustrato) frente al potencial de picadura medido en una solución de cloruro de sodio al 5 wt.%."
+                "x": "El profesor adjunto de la Koç University Uğur Teğin y sus colegas publicaron dos estudios sobre el uso de la luz para realizar parte del cómputo de la AI, lo que podría reducir la demanda energética de la AI."
               },
               {
                 "t": "p",
-                "x": "El espesor de película y la rugosidad superficial fueron los principales predictores. Con una rugosidad de unos 600–1,080 nm, su interacción modelada cambió de signo cerca de un espesor de película de 2,200 nm; la inversión no se observó con rugosidades menores. Los autores proponen que la rugosidad podría reflejar una cobertura protectora en películas más delgadas, pero irregularidades estructurales en las más gruesas, una hipótesis que aún requiere comprobación experimental."
+                "x": "En Communications Engineering, el equipo construyó una red neuronal fotónica programable que procesa juntos los canales rojo, verde y azul de una imagen en lugar de convertirlos a escala de grises. En una tarea de clasificación dermatológica, la precisión pasó del 68% con los datos de píxeles en color sin procesar al 98% tras el procesamiento óptico. El sistema aprende de los resultados medidos y se adapta a las imperfecciones reales del montaje óptico."
               },
               {
                 "t": "p",
-                "x": "Un análisis de Monte Carlo atribuyó unos 0.080 V de la variabilidad de las predicciones a la incertidumbre de medición, frente a un RMSE global del modelo de 0.292 V. El estudio se publica en npj Materials Degradation."
+                "x": "En Communications Physics, un láser de fibra multimodo funcionó como procesador físico y codificó datos de imagen en la luz dentro de la cavidad del láser. Con residuos reciclables, imágenes meteorológicas y satelitales, escáneres de retina y lesiones cutáneas, alcanzó entre el 85% y el 99% de precisión con un clasificador sencillo y muchos menos parámetros entrenables que los modelos convencionales de aprendizaje profundo."
+              },
+              {
+                "t": "p",
+                "x": "Los sistemas aún dependen de componentes electrónicos como cámaras y unidades de control; dispositivos de control de la luz más rápidos y una óptica basada en chips podrían trasladar a la luz una mayor parte de la carga de trabajo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "science-quanta-attention-intelligence",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "어텐션은 지능의\n본질인가",
+      "body": "언어 모델을 움직이는 어텐션이 왜 AI의 핵심인지 Quanta 칼럼이 묻는다.",
+      "mini_headline": "어텐션이 중요한 이유",
+      "tool": "Science",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+          },
+          {
+            "t": "p",
+            "x": "ChatGPT 이후 세상을 휩쓴 모든 것은 따지고 보면 Dzmitry Bahdanau에게서 출발한다. 2014년 그는 University of Montreal 연구실의 23세 인턴으로, Yoshua Bengio, Kyunghyun Cho와 함께 신경망에 영어를 프랑스어로 번역시키는 일을 했다. 문장을 통째로 고정된 크기의 메모리에 욱여넣다 보니 문장이 길어질수록 결과가 나빠졌다."
+          },
+          {
+            "t": "p",
+            "x": "Bahdanau가 고안한 ‘어텐션’ 덕분에 모델은 번역의 다음 단어를 고를 때 가장 중요한 단어를 문장 어디서든 찾아낼 수 있었다. 2017년 Google 논문 “Attention Is All You Need”가 트랜스포머를 세상에 내놓았고, 인용 횟수는 250,000회를 넘었다. 그 뒤를 ChatGPT와 Claude 같은 대규모 언어 모델이 이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+          },
+          {
+            "t": "p",
+            "x": "어텐션 헤드는 단어마다 쿼리를 다른 단어의 키와 견줘 맥락을 수학으로 옮긴다. Llion Jones는 언어 모델링을 “AI-complete”라고 부른다. 칼럼니스트는 인간의 사고가 언어만으로 이뤄지지는 않는다고 주장한다. Jones 역시 이제는 어텐션만으로 부족하다고 본다. 그는 “아주, 아주 다른 무언가로 도약해야 할 것 같다”고 말한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Is attention the essence\nof intelligence",
+          "body": "A Quanta columnist asks why attention, the math mechanism powering large language models, is key to AI.",
+          "mini_headline": "Why attention matters",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+              },
+              {
+                "t": "p",
+                "x": "Everything that's swept the world since ChatGPT starts, in some sense, with Dzmitry Bahdanau, a 23-year-old intern in a University of Montreal lab in 2014, working with Yoshua Bengio and Kyunghyun Cho on getting neural networks to translate English to French. Results got worse the longer the sentence, because each sentence was crammed into a fixed amount of memory."
+              },
+              {
+                "t": "p",
+                "x": "Bahdanau's trick, “attention,” let the network find the words anywhere in a sentence that most inform the next word of the translation. In 2017 Google's “Attention Is All You Need” introduced the transformer, cited more than 250,000 times; large language models such as ChatGPT and Claude followed."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+              },
+              {
+                "t": "p",
+                "x": "Attention heads compare each word's query with other words' keys, so context becomes math. Llion Jones calls language modeling “AI-complete.” The columnist argues human thought is not purely linguistic, and Jones now thinks attention is not all you need: “You seem to have to jump to something very, very different.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "어텐션은 지능의\n본질인가",
+          "body": "언어 모델을 움직이는 어텐션이 왜 AI의 핵심인지 Quanta 칼럼이 묻는다.",
+          "mini_headline": "어텐션이 중요한 이유",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT 이후 세상을 휩쓴 모든 것은 따지고 보면 Dzmitry Bahdanau에게서 출발한다. 2014년 그는 University of Montreal 연구실의 23세 인턴으로, Yoshua Bengio, Kyunghyun Cho와 함께 신경망에 영어를 프랑스어로 번역시키는 일을 했다. 문장을 통째로 고정된 크기의 메모리에 욱여넣다 보니 문장이 길어질수록 결과가 나빠졌다."
+              },
+              {
+                "t": "p",
+                "x": "Bahdanau가 고안한 ‘어텐션’ 덕분에 모델은 번역의 다음 단어를 고를 때 가장 중요한 단어를 문장 어디서든 찾아낼 수 있었다. 2017년 Google 논문 “Attention Is All You Need”가 트랜스포머를 세상에 내놓았고, 인용 횟수는 250,000회를 넘었다. 그 뒤를 ChatGPT와 Claude 같은 대규모 언어 모델이 이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+              },
+              {
+                "t": "p",
+                "x": "어텐션 헤드는 단어마다 쿼리를 다른 단어의 키와 견줘 맥락을 수학으로 옮긴다. Llion Jones는 언어 모델링을 “AI-complete”라고 부른다. 칼럼니스트는 인간의 사고가 언어만으로 이뤄지지는 않는다고 주장한다. Jones 역시 이제는 어텐션만으로 부족하다고 본다. 그는 “아주, 아주 다른 무언가로 도약해야 할 것 같다”고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "アテンションは\n知能の本質か",
+          "body": "Quanta誌のコラムは、大規模言語モデルを動かすアテンションがなぜAIの鍵かを問う。",
+          "mini_headline": "アテンションが重要な理由",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT以降に世界を席巻したものはすべて、ある意味でDzmitry Bahdanauから始まる。2014年、University of Montrealの研究室で23歳のインターンだった彼は、Yoshua Bengio、Kyunghyun Choとともに、ニューラルネットワークに英語をフランス語へ翻訳させる研究に取り組んでいた。各文を固定量のメモリに押し込んでいたため、文が長くなるほど結果は悪化した。"
+              },
+              {
+                "t": "p",
+                "x": "Bahdanauの工夫である「アテンション」は、翻訳の次の単語を決めるうえで最も手がかりになる単語を、文中のどこからでも見つけられるようにした。2017年、Googleの論文「Attention Is All You Need」がトランスフォーマーを提示し、250,000回以上引用された。その後にChatGPTやClaudeのような大規模言語モデルが続いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+              },
+              {
+                "t": "p",
+                "x": "アテンションヘッドは各単語のクエリをほかの単語のキーと比べ、文脈を数学に変える。Llion Jonesは言語モデリングを「AI-complete」と呼ぶ。コラムニストは人間の思考が純粋に言語的なものではないと論じ、Jonesも今ではアテンションだけでは足りないと考えている。「何かまったく、まったく違うものへ飛躍しなければならないようだ」。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "注意力机制\n是智能的本质吗",
+          "body": "Quanta专栏作者追问：驱动大语言模型的数学机制“注意力”为何是AI关键。",
+          "mini_headline": "注意力为何重要",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+              },
+              {
+                "t": "p",
+                "x": "自ChatGPT以来席卷世界的一切，在某种意义上都始于Dzmitry Bahdanau。2014年，他是University of Montreal一个实验室里23岁的实习生，与Yoshua Bengio和Kyunghyun Cho一起研究如何让神经网络把英语翻译成法语。由于每个句子都被塞进固定大小的内存，句子越长，结果越差。"
+              },
+              {
+                "t": "p",
+                "x": "Bahdanau的妙招“注意力”，让网络能在句子任意位置找到对翻译下一个词最有帮助的词。2017年，Google的论文“Attention Is All You Need”提出了Transformer，被引用超过250,000次；随后出现了ChatGPT和Claude等大语言模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+              },
+              {
+                "t": "p",
+                "x": "注意力头将每个词的查询与其他词的键进行比较，于是语境变成了数学。Llion Jones称语言建模是“AI-complete”的。专栏作者认为，人类思维并非纯粹是语言性的；Jones如今也认为注意力并不是你所需要的全部：“你似乎必须跳到某种非常、非常不同的东西上去。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "¿Es la atención la esencia\nde la inteligencia?",
+          "body": "Un columnista de Quanta pregunta por qué la atención, mecanismo de los grandes modelos de lenguaje, es clave en la AI.",
+          "mini_headline": "Por qué importa la atención",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+              },
+              {
+                "t": "p",
+                "x": "Todo lo que ha arrasado en el mundo desde ChatGPT empieza, en cierto sentido, con Dzmitry Bahdanau, un becario de 23 años en un laboratorio de la University of Montreal en 2014, que trabajaba con Yoshua Bengio y Kyunghyun Cho para que las redes neuronales tradujeran del inglés al francés. Los resultados empeoraban cuanto más larga era la oración, porque cada una se comprimía en una cantidad fija de memoria."
+              },
+              {
+                "t": "p",
+                "x": "El truco de Bahdanau, la “atención”, permitía a la red encontrar, en cualquier parte de la oración, las palabras que más informan la siguiente palabra de la traducción. En 2017, el artículo de Google “Attention Is All You Need” presentó el transformer, citado más de 250,000 veces; después llegaron grandes modelos de lenguaje como ChatGPT y Claude."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+              },
+              {
+                "t": "p",
+                "x": "Las cabezas de atención comparan la consulta de cada palabra con las claves de las demás, de modo que el contexto se vuelve matemática. Llion Jones califica el modelado del lenguaje de “AI-complete”. El columnista sostiene que el pensamiento humano no es puramente lingüístico, y Jones cree ahora que la atención no es todo lo que se necesita: “Parece que hay que saltar a algo muy, muy diferente”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "어텐션은 지능의\n본질인가",
+          "body": "Quanta 칼럼은 언어 모델을 움직이는 어텐션이 왜 AI의 핵심인지 묻는다.",
+          "mini_headline": "어텐션이 중요한 이유",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT 이후 세상을 휩쓴 모든 것은 어떤 의미에서 Dzmitry Bahdanau에게서 시작된다. 2014년 University of Montreal 연구실의 23세 인턴이던 그는 Yoshua Bengio, Kyunghyun Cho와 함께 신경망이 영어를 프랑스어로 번역하게 하는 일을 하고 있었다. 문장마다 고정된 크기의 메모리에 욱여넣다 보니 문장이 길수록 결과가 나빠졌다."
+              },
+              {
+                "t": "p",
+                "x": "Bahdanau가 고안한 ‘어텐션’은 번역의 다음 단어를 정하는 데 가장 중요한 단어를 문장 어디에서든 찾게 해 주었다. 2017년 Google의 논문 “Attention Is All You Need”가 트랜스포머를 소개했고, 이 논문은 250,000회 넘게 인용됐다. ChatGPT와 Claude 같은 대규모 언어 모델이 그 뒤를 이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+              },
+              {
+                "t": "p",
+                "x": "어텐션 헤드는 각 단어의 쿼리를 다른 단어들의 키와 비교해 맥락을 수학으로 바꾼다. Llion Jones는 언어 모델링을 “AI-complete”라고 부른다. 칼럼니스트는 인간의 사고가 순전히 언어적이지는 않다고 주장하고, Jones도 이제는 어텐션만으로는 충분하지 않다고 본다. 그는 “아주, 아주 다른 무언가로 도약해야 할 것 같다”고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "アテンションは\n知能の本質か",
+          "body": "Quanta誌のコラムは、大規模言語モデルを動かすアテンションがなぜAIの鍵かを問う。",
+          "mini_headline": "アテンションが重要な理由",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT以降に世界を席巻したものはすべて、ある意味でDzmitry Bahdanauから始まる。2014年、University of Montrealの研究室で23歳のインターンだった彼は、Yoshua Bengio、Kyunghyun Choとともに、ニューラルネットワークに英語をフランス語へ翻訳させる研究に取り組んでいた。各文を固定量のメモリに押し込んでいたため、文が長くなるほど結果は悪化した。"
+              },
+              {
+                "t": "p",
+                "x": "Bahdanauの工夫である「アテンション」は、翻訳の次の単語を決めるうえで最も手がかりになる単語を、文中のどこからでも見つけられるようにした。2017年、Googleの論文「Attention Is All You Need」がトランスフォーマーを提示し、250,000回以上引用された。その後にChatGPTやClaudeのような大規模言語モデルが続いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+              },
+              {
+                "t": "p",
+                "x": "アテンションヘッドは各単語のクエリをほかの単語のキーと比べ、文脈を数学に変える。Llion Jonesは言語モデリングを「AI-complete」と呼ぶ。コラムニストは人間の思考が純粋に言語的なものではないと論じ、Jonesも今ではアテンションだけでは足りないと考えている。「何かまったく、まったく違うものへ飛躍しなければならないようだ」。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "注意力机制\n是智能的本质吗",
+          "body": "Quanta专栏作者追问：驱动大语言模型的数学机制“注意力”为何是AI关键。",
+          "mini_headline": "注意力为何重要",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+              },
+              {
+                "t": "p",
+                "x": "自ChatGPT以来席卷世界的一切，在某种意义上都始于Dzmitry Bahdanau。2014年，他是University of Montreal一个实验室里23岁的实习生，与Yoshua Bengio和Kyunghyun Cho一起研究如何让神经网络把英语翻译成法语。由于每个句子都被塞进固定大小的内存，句子越长，结果越差。"
+              },
+              {
+                "t": "p",
+                "x": "Bahdanau的妙招“注意力”，让网络能在句子任意位置找到对翻译下一个词最有帮助的词。2017年，Google的论文“Attention Is All You Need”提出了Transformer，被引用超过250,000次；随后出现了ChatGPT和Claude等大语言模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+              },
+              {
+                "t": "p",
+                "x": "注意力头将每个词的查询与其他词的键进行比较，于是语境变成了数学。Llion Jones称语言建模是“AI-complete”的。专栏作者认为，人类思维并非纯粹是语言性的；Jones如今也认为注意力并不是你所需要的全部：“你似乎必须跳到某种非常、非常不同的东西上去。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "¿Es la atención la esencia\nde la inteligencia?",
+          "body": "Un columnista de Quanta pregunta por qué la atención, mecanismo de los grandes modelos de lenguaje, es clave en la AI.",
+          "mini_headline": "Por qué importa la atención",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+              },
+              {
+                "t": "p",
+                "x": "Todo lo que ha arrasado en el mundo desde ChatGPT empieza, en cierto sentido, con Dzmitry Bahdanau, un becario de 23 años en un laboratorio de la University of Montreal en 2014, que trabajaba con Yoshua Bengio y Kyunghyun Cho para que las redes neuronales tradujeran del inglés al francés. Los resultados empeoraban cuanto más larga era la oración, porque cada una se comprimía en una cantidad fija de memoria."
+              },
+              {
+                "t": "p",
+                "x": "El truco de Bahdanau, la “atención”, permitía a la red encontrar, en cualquier parte de la oración, las palabras que más informan la siguiente palabra de la traducción. En 2017, el artículo de Google “Attention Is All You Need” presentó el transformer, citado más de 250,000 veces; después llegaron grandes modelos de lenguaje como ChatGPT y Claude."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+              },
+              {
+                "t": "p",
+                "x": "Las cabezas de atención comparan la consulta de cada palabra con las claves de las demás, de modo que el contexto se vuelve matemática. Llion Jones califica el modelado del lenguaje de “AI-complete”. El columnista sostiene que el pensamiento humano no es puramente lingüístico, y Jones cree ahora que la atención no es todo lo que se necesita: “Parece que hay que saltar a algo muy, muy diferente”."
               }
             ]
           }

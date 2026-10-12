@@ -7081,6 +7081,122 @@
           "x": "Los autores sostienen que las tumbas no se construyeron solo para albergar a los muertos, sino para afectar a los vivos, como una película 3D moderna, y ahora aplican técnicas similares de acústica e IA a paisajes rituales al aire libre."
         }
       ]
+    },
+    "science/science-plato-phasehub-protein-phase": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+          "cap": "Hongos. Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Nanyang Technological University, de Singapur, desarrollaron dos herramientas de AI para predecir qué proteínas experimentan separación de fases, el proceso por el que las proteínas forman compartimentos en forma de gotas dentro de las células. El trabajo se publicó en Molecular Plant."
+        },
+        {
+          "t": "p",
+          "x": "PLATO es una base de datos de 5,118 secuencias de proteínas: más de 3,600 que se separan en fases y unas 1,300 que no, además de proteínas truncadas, mutaciones y variantes diseñadas, poco frecuentes en los conjuntos de datos existentes. El equipo la construyó usando grandes modelos de lenguaje para extraer información de artículos de PubMed y revisó después los resultados de forma manual."
+        },
+        {
+          "t": "p",
+          "x": "PhaseHub combina las predicciones de MolPhase en 1,106 especies con datos de abundancia e interacción de proteínas para identificar compartimentos multicomponente; los usuarios pueden buscar proteínas, enviar secuencias y explorar interacciones. En general, los eucariotas tienen una proporción mayor de proteínas con separación de fases prevista que las bacterias."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores afirman que las herramientas podrían ayudar a estudiar el cáncer, el alzhéimer, el envejecimiento y la mejora de cultivos. La primera autora, la Dra. Liang Qiyu, dice que el trabajo “ofrece un marco integral para comprender las proteínas que se separan en fases”."
+        }
+      ]
+    },
+    "science/science-ebird-inaturalist-llm-ecology": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+          "cap": "Un ánsar nival se alimenta junto a un grupo de barnaclas canadienses (Canada geese), una interacción de beneficio mutuo que suele registrarse en los comentarios de eBird. Credit: Jing-Yi Li"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio dirigido por la University of Michigan y publicado en PNAS halló que los grandes modelos de lenguaje pueden revisar observaciones públicas de la naturaleza para extraer información sobre cómo interactúan las especies, a partir de comentarios de eBird (aves) e iNaturalist (plantas y polinizadores)."
+        },
+        {
+          "t": "p",
+          "x": "Los dos estudios de caso abarcaron la mariposa West Coast lady y sus plantas hospedadoras, y las interacciones entre aves de Michigan. En la prueba de concepto, el método reveló plantas no nativas que se extienden por la costa oeste de Estados Unidos (U.S.) y que, de otro modo, podrían haber pasado inadvertidas."
+        },
+        {
+          "t": "p",
+          "x": "En una comparación cronometrada, Claude clasificó casi 500 comentarios en unos seis minutos, frente a unas ocho horas de un investigador de grado. El autor principal, Hengxing Zou, describe el trabajo como un uso de la AI para ampliar el esfuerzo humano, no para sustituir el trabajo creativo de los científicos."
+        }
+      ]
+    },
+    "science/science-koc-photonic-optical-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+          "cap": "Montaje experimental y estrategias de optimización para la computación óptica multicanal. Credit: Communications Engineering (2026)"
+        },
+        {
+          "t": "p",
+          "x": "El profesor adjunto de la Koç University Uğur Teğin y sus colegas publicaron dos estudios sobre el uso de la luz para realizar parte del cómputo de la AI, lo que podría reducir la demanda energética de la AI."
+        },
+        {
+          "t": "p",
+          "x": "En Communications Engineering, el equipo construyó una red neuronal fotónica programable que procesa juntos los canales rojo, verde y azul de una imagen en lugar de convertirlos a escala de grises. En una tarea de clasificación dermatológica, la precisión pasó del 68% con los datos de píxeles en color sin procesar al 98% tras el procesamiento óptico. El sistema aprende de los resultados medidos y se adapta a las imperfecciones reales del montaje óptico."
+        },
+        {
+          "t": "p",
+          "x": "En Communications Physics, un láser de fibra multimodo funcionó como procesador físico y codificó datos de imagen en la luz dentro de la cavidad del láser. Con residuos reciclables, imágenes meteorológicas y satelitales, escáneres de retina y lesiones cutáneas, alcanzó entre el 85% y el 99% de precisión con un clasificador sencillo y muchos menos parámetros entrenables que los modelos convencionales de aprendizaje profundo."
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas aún dependen de componentes electrónicos como cámaras y unidades de control; dispositivos de control de la luz más rápidos y una óptica basada en chips podrían trasladar a la luz una mayor parte de la carga de trabajo."
+        }
+      ]
+    },
+    "science/science-quanta-attention-intelligence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+        },
+        {
+          "t": "p",
+          "x": "Todo lo que ha arrasado en el mundo desde ChatGPT empieza, en cierto sentido, con Dzmitry Bahdanau, un becario de 23 años en un laboratorio de la University of Montreal en 2014, que trabajaba con Yoshua Bengio y Kyunghyun Cho para que las redes neuronales tradujeran del inglés al francés. Los resultados empeoraban cuanto más larga era la oración, porque cada una se comprimía en una cantidad fija de memoria."
+        },
+        {
+          "t": "p",
+          "x": "El truco de Bahdanau, la “atención”, permitía a la red encontrar, en cualquier parte de la oración, las palabras que más informan la siguiente palabra de la traducción. En 2017, el artículo de Google “Attention Is All You Need” presentó el transformer, citado más de 250,000 veces; después llegaron grandes modelos de lenguaje como ChatGPT y Claude."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+        },
+        {
+          "t": "p",
+          "x": "Las cabezas de atención comparan la consulta de cada palabra con las claves de las demás, de modo que el contexto se vuelve matemática. Llion Jones califica el modelado del lenguaje de “AI-complete”. El columnista sostiene que el pensamiento humano no es puramente lingüístico, y Jones cree ahora que la atención no es todo lo que se necesita: “Parece que hay que saltar a algo muy, muy diferente”."
+        }
+      ]
+    },
+    "science/science-lensless-cell-imaging-sfpulse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
+          "cap": "Células de glioblastoma captadas y reconstruidas con el método SF-PULSE. Barra de escala: 0.5 mm. Crédito: Computational Imaging Group and Molecular Signaling Group, Tampere University."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Tampere University han desarrollado SF-PULSE, un método de imagen de fase cuantitativa sin lentes que combina una red neuronal con una reconstrucción de imagen basada en la física (physics-informed). Produce datos cuantitativos precisos sobre células vivas a partir de una sola imagen."
+        },
+        {
+          "t": "p",
+          "x": "El sistema, compacto, puede colocarse dentro de una incubadora estándar de cultivo celular (cell-culture), lo que permite vigilar células vivas de forma continua durante horas o incluso días sin tinción ni otros marcadores. Según el primer autor, Igor Shevkunov, SF-PULSE \"puede reconstruir información de fase cuantitativa a partir de una sola imagen de medición\"."
+        },
+        {
+          "t": "p",
+          "x": "Como sigue células individuales y no promedios de población, el método puede registrar su crecimiento, movimiento, división y cambios de biomasa a lo largo del tiempo. Los investigadores prevén usos en estudios de respuesta a fármacos (drug-response), cribado de toxicidad e investigación sobre muerte celular (cell-death). El trabajo se publica en Applied Physics Letters."
+        }
+      ]
     }
   }
 }

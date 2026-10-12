@@ -6241,6 +6241,121 @@
           "x": "Ay Yapim在声明中表示：“影片的每一帧都由AI生成，从角色的面孔到每一处场景。”不过，“表演出自真人：演员们演绎了这些场景，AI则在他们的动作、节奏和表情之上生成角色。所有对白均由真人配音演员录制。”"
         }
       ]
+    },
+    "movies/movies-banderas-cortes-utopai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2182672949-e1774570677557.jpg?w=1000&h=563&crop=1",
+          "cap": "Antonio Banderas"
+        },
+        {
+          "t": "p",
+          "x": "最新为AI工作室站台的名人是谁？Antonio Banderas。这位Oscar-nominated演员将在Utopai Studios的新片“Cortés”中饰演Hernán Cortés。该片由Paul Mignot（“Vaincre ou mourir”）执导，Oscar提名编剧Nicholas Kazan（“Reversal of Fortune”）担任编剧。影片正在Paris拍摄，讲述1519年渴望荣耀的军人Cortés率领远征队前往Yucatán的故事。"
+        },
+        {
+          "t": "p",
+          "x": "该片由Utopai与Ex Machina Studios联合制作。Ex Machina Studios是一家新公司，致力于“通过合乎伦理、以艺术家为先的方式整合人工智能，推动剧集和长片电影发展”。双方将联合出资；Utopai负责U.S.、Canada、Asia、Middle East和Africa的销售，Ex Machina负责Europe大部分地区以及Latin America、Australia和New Zealand。"
+        },
+        {
+          "t": "p",
+          "x": "“Cortés正是我们创立Utopai Studios的原因，”联合创始人兼CEO Cecilia Shen表示。在业界对这项技术仍存分歧之际，Banderas成为最新一位与AI-focused公司合作的Hollywood资深人士。Utopai的片单既有完全AI-generated的作品，也有AI-enabled的作品，包括AI-assisted动画改编的“The Most Serious Fart”，以及与Huace合作、完全AI-generated的“Journey to the West: The Lost Five Hundred Years”。"
+        }
+      ]
+    },
+    "movies/movies-kling-busan-trained-crew-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Kling-AI-panel-.jpg?w=1024",
+          "cap": "Busan ACFM上的Kling AI论坛"
+        },
+        {
+          "t": "p",
+          "x": "韩国导演Kim Sung-soo（Asura: The City Of Madness、12.12: The Day）在Busan的Asian Contents & Film Market（ACFM）论坛上，谈到用Kling AI工具制作短片Worm Train的经历，该片灵感来自Kafka的Metamorphosis。“起初我以为AI会摧毁这个行业，但现在不这么想了，因为技术无法取代创造力，”Kim说。"
+        },
+        {
+          "t": "p",
+          "x": "韩国MooAm Co的导演兼CEO Harry Hyun表示：“如果片场没有经验丰富的电影人，一切最终可能看起来都一样……只有与专家合作，才能用AI创造出与众不同的东西，而不只是千篇一律的交付物。”"
+        },
+        {
+          "t": "p",
+          "x": "正在用Kling AI工具制作动画长片Born Of The Tide的Li Wei表示，AI的结果可以立即看到，让团队反馈更容易。MBC C&I的Lee Sang-wook展示了将真人实拍与AI-generated角色相结合的Rendering Love预告片，并表示所有员工必须充分理解这项技术，才能获得高质量内容。"
+        },
+        {
+          "t": "p",
+          "x": "关于行业标准，Kim表示在韩国还为时过早，但电影人必须意识到自己是否侵犯了他人的权利。"
+        }
+      ]
+    },
+    "movies/movies-curious-refuge-credit-savings": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "h4MKJAJvins"
+        },
+        {
+          "t": "p",
+          "x": "这是我最喜欢的为AI Film生成内容时节省额度的技巧之一。如今你不必全盘投入，只要搭建几套工作流程和步骤，就能确保不会在糟糕的生成结果上浪费大量金钱。"
+        },
+        {
+          "t": "p",
+          "x": "完整解析见Curious Refuge博客：https://curiousrefuge.com/blog/how-to-save-money-on-ai-generations"
+        }
+      ]
+    },
+    "movies/movies-visko-google-cloud-ai-worlds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081522-visko-google-cloud-live-models-landscape-1280.jpg?itok=w4XccKHY",
+          "cap": "Visko × Google Cloud Live Models Fireside Chat"
+        },
+        {
+          "t": "p",
+          "x": "Visko与Google Cloud将于October 14（Wednesday）晚间在Los Angeles举办“Live Models Fireside Chat”对谈，探讨实时运行的AI-generated世界，以及驱动它们所需的计算基础设施。"
+        },
+        {
+          "t": "p",
+          "x": "Visko是一家AI研究公司，也是Orbis的开发者。Orbis是一款基础模型，能在用户探索时生成并串流互动环境，结合了持久记忆、交互性和基于物理的生成；他们将这类real-time系统称为Live Models。"
+        },
+        {
+          "t": "p",
+          "x": "对于动画、VFX和游戏艺术家而言，当晚的重点是世界构建与互动叙事：既能响应用户输入、又能时时保持连贯的环境，以及这对预演、虚拟制作和游戏开发可能意味着什么。"
+        },
+        {
+          "t": "p",
+          "x": "Visko CEO Will Yin将讲解Live Models与传统AI系统的区别，并介绍Orbis。随后，Google Cloud AI开发者关系负责人Dave Elliott将与Google的初创团队一起介绍Tensor Processing Units（TPUs），以及它们为何适合real-time模型持续且大规模需要的推理。"
+        },
+        {
+          "t": "p",
+          "x": "活动时间为Pacific时间6:30至9 p.m.。需提前报名，并经主办方审核通过。"
+        }
+      ]
+    },
+    "movies/luma-claude-motion-handoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude Motion动画现在可以在Luma中打开，创作者可在Luma将动态构思制作成任意格式的视频。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/2ylxvaa2/production/6dd2cff4b63b2e0b85e0e530f74081f071d71593-1920x1080.png?w=1600&fm=jpg"
+        },
+        {
+          "t": "p",
+          "x": "SAN FRANCISCO, Calif. — Luma今日宣布，Claude Motion动画现可直接在Luma中打开，供创作者扩展、打磨并重新构图为任意素材输出。创作者如今可通过MCP连接，把在Claude中制作的动画讲解带入Luma，只需告诉智能体想要什么，就能以任意格式重新制作。Claude Motion通过编写让文字、图表、形状和图像动起来的代码，让构思动起来；Luma则把这些动态制成最终视频成品。"
+        },
+        {
+          "t": "p",
+          "x": "Claude Motion目前在Claude Team和Enterprise方案中以测试版提供，通过加入动态帮助用户更好地阐释想法。Claude根据提示词生成动画，播放起来就像一段短视频。Anthropic在公告中强调，任何客户都可以在Luma中打开Claude Motion，进一步打造画面风格、镜头以及可在各类屏幕播放的扩展版本。Luma将Ray和Uni视频生成模型引入Claude Motion动画，帮助创作者交付最终视频文件。"
+        },
+        {
+          "t": "p",
+          "x": "两者配合使用的方法：用Claude Motion把提示词变成动画讲解；在Claude中添加Luma连接器；动画便会以视频形式出现在Luma中。在Luma里，你可以在保留动态的同时更换画面风格，将画幅调整为9:16、1:1、4:3或21:9，或让Luma智能体制作更多版本。"
+        }
+      ]
     }
   }
 }

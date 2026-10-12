@@ -7143,6 +7143,151 @@
           "x": "就寝用スクリプトを公開しておけば「家をシャットダウンして」と頼めるし、「電気を消して、でも浴室の電気はつけたままにして」のような例外付きの指示も処理できる。単純な依頼は引き続きHome Assistantのネイティブコマンドが処理する。ローカルLLMsはチャット画面の外でこそ役に立つ。"
         }
       ]
+    },
+    "gadgets/gadgets-translate-transcript-autosave": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
+          "cap": "Google Translateのホーム画面"
+        },
+        {
+          "t": "p",
+          "x": "Google Translateは、モバイルユーザー向けにLive Translateの設定で「Auto-save transcript」トグルをテストしてきた。2026年10月12日更新：GoogleはGoogle Translate v10.39.34.995726622.4で、Live Translateの記録自動保存オプションを配信している。"
+        },
+        {
+          "t": "p",
+          "x": "Android Authorityが9月29日に行った解析によると、スマートグラスを接続して使用している間は、プライバシー保護のため記録の保存が完全に無効になる。スマートグラスでは音声コマンドで翻訳を開始でき、タッチパッドをスワイプするとセッションが終了する。"
+        }
+      ]
+    },
+    "gadgets/gadgets-googlebook-os-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Windows 8から、iPad登場後にMacがフルスクリーンアプリを取り入れた時代まで、タッチ時代の教訓と利点をPCsへ持ち込む試みはすべて失敗してきた。9to5GoogleのレビュアーはGooglebook OSを1週間以上使い、Androidスマートフォン世代向けデスクトップOSの萌芽を見るが、まだ粗削りな第一歩だという。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+        },
+        {
+          "t": "p",
+          "x": "Googlebook OSは見た目こそChromeOSに似ているが、使用感はAndroidに近い。ChromeはAndroid版をベースにしており、拡張機能、縦型タブ、完全なGemini in Chromeサイドパネルを備えるものの、1.0としては機能が乏しく感じられる。"
+        },
+        {
+          "t": "p",
+          "x": "Magic Pointerは実質的にスマートフォンのGeminiオーバーレイで、Circle to Searchも搭載されるため、似た機能が2つ並ぶ。より有用なAI機能はF13キーに割り当てられたRambler音声入力で、Create My Widgetは生成UIという「コンピューティングの未来」をもたらす。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "10年来のアプリ不足はほぼ解消されておらず、Linuxアプリ対応などの欠落はChromeOSからの後退だ。それでも一般ユーザーにとって致命的な欠陥はなく、今後のアップデートで直せない根本的な問題もない。"
+        }
+      ]
+    },
+    "gadgets/gadgets-mechrevo-x10-ai-ssd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
+          "cap": "Mechrevoの新しいミニPCは、SSDを使ってAIモデルを実行できる"
+        },
+        {
+          "t": "p",
+          "x": "中国のPCメーカーMechrevoは、大規模AIモデルをローカルで動かすことを主眼としたミニPC「Master Road X10」を準備している。NvidiaのRTX Sparkプラットフォームを採用し、20コアのGrace CPU、最大6,144基のCUDAコアを持つBlackwell GPU、最大128 GBのLPDDR5Xユニファイドメモリを備える。"
+        },
+        {
+          "t": "p",
+          "x": "独自のAI SSDは、大規模AIモデルの一部をDRAMからNANDフラッシュへ退避させ、処理済みのコンテキストを保持・再利用できる。Mechrevoによれば、これによりX10は800億、1200億、さらには1220億パラメータのモデルでも応答性を保ったまま実行できるという。SSDの容量は明らかにされていない。"
+        },
+        {
+          "t": "p",
+          "x": "同社は9月、AI SSDによって対応可能なモデルのワークロードを最大5.7倍に増やし、プリフィル段階を最大95%高速化できると主張していた。"
+        },
+        {
+          "t": "p",
+          "x": "Mechrevoは詳細なベンチマークや量子化設定、テスト条件を公表しておらず、NANDフラッシュはDRAMよりかなり遅い。価格と発売日は未定だ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-wonder-full": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "MetaはAI競争での遅れを取り戻そうとしている。刷新したSuperintelligence Labs部門の初モデルMuse Sparkと、話題のAIエージェントMuseを投入したのに続き、今度は業界トップと互角に渡り合えるとする新モデル2種を投入する。"
+        },
+        {
+          "t": "p",
+          "x": "新モデルのMuse WonderとMuse Wonder Fullは、本日からMuse Codeの契約者が利用できる。WonderはMeta Model API経由でも利用できるとMetaは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Metaによると、まず契約者を対象に、最終的にはMuse AIエージェントをWonderで動かす計画で、「Museを使うすべての人に届けられる」特化型モデルも開発するという。いずれについても詳細や時期は明らかにしていない。"
+        },
+        {
+          "t": "p",
+          "x": "同社は複数の業界ベンチマークでの社内テスト結果を根拠に、新モデルがGPT-6 Astra、Claude Opus 5.5、Claude Fable 5.1といったOpenAIやAnthropicの主要モデルに匹敵するとしている。性能の全容がまだ見えていないGoogleのGemini 4 Argonと比べてどうかは不明だ。"
+        },
+        {
+          "t": "p",
+          "x": "今回の投入は、AIの主要勢力としての地位を取り戻そうとするMetaの積極攻勢の一環だ。同社は人材とインフラに数十億ドル規模を投じ、画像モデルMuse Imageを含めAIラインアップを着実に広げてきたほか、Museを通じて実用的なAIエージェントを大衆に届けることに力を注いでいる。"
+        }
+      ]
+    },
+    "gadgets/raspberry-pi-29mb-ai-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-raspberry-pi-3.jpg?fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "XDAのAyush PandeはRaspberry Pi 5で数多くの小型LLMsを動かしてきたが、Cactus Compute Needle 3は違った。Pythonを少しいじるだけで、このスリムなモデルはわずか数MBs でSBCを強力な自動化マシンに変える。AI HATも要らない。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-6.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "スマートプラグを制御するPythonスクリプト"
+        },
+        {
+          "t": "p",
+          "x": "Needle 3は汎用チャットを切り捨てたため、消費量は最大29MB にとどまる。ツール呼び出し、非構造化データのJSON変換、テキストからのベクトル生成といった機械レベルのタスクに特化しており、スライス可能なラダー構造によって、ハードウェアに応じて2〜20層のサブネットワークを選べる。"
+        },
+        {
+          "t": "p",
+          "x": "DietPiを入れた8GB のRaspberry Pi 5では、pipでのインストールを数回行い、全20層でneedleをビルドするだけで準備が済んだ。(サポート外のARMv6アーキテクチャを使う初代Pi Zeroではビルドできなかった。)"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-7.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "Cactus Compute Needle 3を実行"
+        },
+        {
+          "t": "p",
+          "x": "カスタムのPythonツールファイルでHome Assistantと連携させると、Needle 3はスマートプラグをオンにするプロンプトを理解し、デバイスはすぐに起動した(デコード280.2 tokens/s, プリフィル996.4 tokens/s)。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/cactus-compute-needle-8.jpg?q=49&fit=crop&w=825&dpr=2",
+          "cap": "リモートのDockerノードを制御するPythonスクリプトの作成"
+        },
+        {
+          "t": "p",
+          "x": "ツールはスマートデバイス、ESP32センサー、文書解析、Docker制御など自在にカスタマイズできる。作成には手間がかかるが、その性能は労力を補って余りある。"
+        }
+      ]
     }
   }
 }

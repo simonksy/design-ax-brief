@@ -1,31 +1,31 @@
 {
- "date": "2026-10-12",
- "section": "science",
- "media": [
-  {
-   "id": "science-lensless-cell-imaging-sfpulse",
-   "type": "image",
-   "src": "pipeline/media/science-lensless-cell-imaging-sfpulse.jpg"
-  },
-  {
-   "id": "science-ntu-lace-llm-heuristics",
-   "type": "image",
-   "src": "pipeline/media/science-ntu-lace-llm-heuristics.jpg"
-  },
-  {
-   "id": "science-image-ai-face-orientation-stereotypes",
-   "type": "image",
-   "src": "pipeline/media/science-image-ai-face-orientation-stereotypes.jpg"
-  },
-  {
-   "id": "science-hybrid-digital-twin-autonomous-biolab",
-   "type": "image",
-   "src": "pipeline/media/science-hybrid-digital-twin-autonomous-biolab.jpg"
-  },
-  {
-   "id": "science-coating-thickness-pitting-ml",
-   "type": "image",
-   "src": "pipeline/media/science-coating-thickness-pitting-ml.jpg"
-  }
- ]
+  "date": "2026-10-13",
+  "section": "science",
+  "media": [
+    {
+      "id": "science-3d-einstein-tile-aperiodic",
+      "type": "image",
+      "src": "pipeline/media/science-3d-einstein-tile-aperiodic.png"
+    },
+    {
+      "id": "science-plato-phasehub-protein-phase",
+      "type": "image",
+      "src": "pipeline/media/science-plato-phasehub-protein-phase.jpg"
+    },
+    {
+      "id": "science-ebird-inaturalist-llm-ecology",
+      "type": "image",
+      "src": "pipeline/media/science-ebird-inaturalist-llm-ecology.jpg"
+    },
+    {
+      "id": "science-koc-photonic-optical-ai",
+      "type": "image",
+      "src": "pipeline/media/science-koc-photonic-optical-ai.jpg"
+    },
+    {
+      "id": "science-quanta-attention-intelligence",
+      "type": "image",
+      "src": "pipeline/media/science-quanta-attention-intelligence.jpg"
+    }
+  ]
 }

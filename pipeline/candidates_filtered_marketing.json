@@ -1,174 +1,229 @@
 {
   "section": "marketing",
-  "date": "2026-10-12",
-  "now_iso": "2026-10-11T22:00:00Z",
+  "date": "2026-10-13",
+  "now_iso": "2026-10-12T22:00:00Z",
   "window_hours": 72,
-  "expansion": [
-    "Weekend window (Oct 8 22:00Z - Oct 11 22:00Z): every on-list feed (marketingdive, digiday, adexchanger, adweek, retaildive, modernretail, sej, seroundtable, verge, techcrunch, openai, blog.google ads+shopping+AI, about.fb.com, salesforce, nieman, axios, technologyreview) was harvested by RSS; few fresh AI-ad items.",
-    "Feeds added beyond working list: ppc.land rss+sitemap, madtimes.co.kr, beet.tv, exchangewire, martechseries, videoweek, tvrev, mobilemarketer, socialmediatoday, paymentsdive, customerexperiencedive, digitalcommerce360, brandbrief, the-pr.co.kr, platum, mobiinside, businessofapps. martech.org, marketing-interactive, emarketer, warc, contagious feeds returned no parseable items.",
-    "Dropped as already in story_ledger: ChatGPT image ads (madtimes idxno=29273, same as openai.com 10-07), DV ChatGPT attribution, IAS ChatGPT safety pilot, Virtual try-on on ChatGPT, Google Ads text customization previews, ChatGPT ads holiday (modernretail), Omnicom x Rembrand.",
-    "Dropped by scope: T-Mobile carrier-data targeting (not AI), agentic payments liability op-ed (paymentsdive), TC Equity podcast, Adweek x Publicis Health sponsored chat, Captify/TeqBlaze/Brand Metrics press releases, AI search third-party sources (SEO).",
-    "ppc.land per-outlet cap 3 hit. Strong overflow not included: 'Meta's shopping agent must fill its top 5 picks with well-known merchants' (2026-10-11T18:39:16Z), 'Meta's Muse draws 4 of 6 shopping picks from 2 websites, Profound finds' (18:29:01Z), 'NIQ's Cadence now runs Google's Meridian' (18:33:07Z).",
-    "4 WebSearch queries run (on-list AI ads, platform newsrooms agent ads, agentic media buying, Korean 네이버/카카오/쿠팡 AI 광고). All results were stale (Jun-Oct 6); one query errored on theverge.com."
-  ],
+  "expansion": 1,
+  "note": "Weekend-thin window; on-list fresh AI-ad items limited (5 from 4 outlets). Off-list exception used for ppc.land (3), engineering.fb.com, seattletimes (NYT), storyboard18, retailtechinnovationhub, marketing-interactive, exchangewire, mediapen. Dropped: Adweek partnership posts (sponsored), Muse Wonder model launches (no ad hook), Kakao/Naver earnings pieces, Slator (403, unverifiable date).",
   "items": [
     {
-      "url": "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/",
-      "title": "Meta's Muse agent gains access to ad accounts and 15 business tools",
-      "source": "PPC Land",
+      "title": "Google Ads Testing Google AI For Goals & Assets",
+      "url": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
-      "published_iso": "2026-10-11T18:25:24Z",
-      "og_image": "https://ppc.land/content/images/2026/10/meta-muse-small-business-ad-account-agent-marionette-counter-flap.jpg",
-      "excerpt": "Small businesses in the US and Canada can now connect Shopify, QuickBooks and their Meta ad accounts to Meta's Muse agent. Nothing gets spent without the owner's sign-off, and the piece looks at what the agent is able to change in a campaign.",
+      "published_iso": "2026-10-12T07:41:00-04:00",
+      "og_image": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg",
+      "excerpt": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns.  Google has confirmed this is a current test.",
+      "off_list": false,
       "source_lang": "en",
-      "keyword": "Advantage+ / AI ad platform",
-      "off_list": true,
+      "keyword": "AI creative automation ads",
       "history_match": {
-        "score": 0.226,
-        "date": "2026-10-11",
-        "url": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
-        "title": "Meta's Muse accounts for 72% of AI agent requests, HUMAN finds",
+        "score": 0.301,
+        "date": "2026-10-10",
+        "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
+        "title": "Google Ads Text Customization Asset Previews",
         "band": "related"
       }
     },
     {
-      "url": "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
-      "title": "Olyzon's AI agents now shift CTV budgets across 4 DSPs in live buys",
-      "source": "PPC Land",
+      "title": "Google Opens AI Mode to Prescription Drug Ads",
+      "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
+      "source": "Adweek",
       "category": "marketing",
-      "published_iso": "2026-10-11T18:22:59Z",
-      "og_image": "https://ppc.land/content/images/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-      "excerpt": "Olyzon's agentic orchestration now moves CTV budgets between The Trade Desk, Amazon DSP, DV360 and Yahoo DSP in live buys. Buyers keep their own seats, and spend caps plus audit logs limit what each agent can do.",
+      "published_iso": "2026-10-12T06:00:00-04:00",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=600&h=315&crop=1",
+      "excerpt": "The test, which began this month, brings one of advertising’s most regulated categories into Google’s AI answers.",
+      "off_list": false,
       "source_lang": "en",
-      "keyword": "agentic media buying",
-      "off_list": true
+      "keyword": "ads in AI assistant"
     },
     {
-      "url": "https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/",
-      "title": "Brands can block YouTube ads beside AI slop under new IAS tool",
-      "source": "PPC Land",
+      "title": "Media Buying Briefing: Synthetic audience adoption by agencies and clients takes off",
+      "url": "https://digiday.com/media-buying/media-buying-briefing-synthetic-audience-adoption-by-agencies-and-clients-takes-off/",
+      "source": "Digiday",
       "category": "marketing",
-      "published_iso": "2026-10-11T18:20:30Z",
-      "og_image": "https://ppc.land/content/images/2026/10/ias-youtube-low-quality-genai-avoidance-ai-slop-magnet-conveyor-film-reels.jpg",
-      "excerpt": "A new IAS tool lets YouTube buyers keep their ads off low-quality generative-AI channels. Exclusion lists refresh daily and are built from YouTube Data API signals that Google does not review.",
+      "published_iso": "2026-10-12T04:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/06/ai-in-house-digiday.jpg.webp",
+      "excerpt": "Media planners, creative strategists and CMOs are basing marketing decisions on insights gleaned from the behavior of synthetic consumers.",
+      "off_list": false,
       "source_lang": "en",
-      "keyword": "brand safety AI ad placement",
-      "off_list": true
+      "keyword": "AI audience targeting",
+      "history_match": {
+        "score": 0.211,
+        "date": "2026-10-11",
+        "url": "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
+        "title": "As agencies push agentic media future, execs work to ward off client rogue fears",
+        "band": "related"
+      }
     },
     {
-      "url": "https://www.adexchanger.com/marketers/nestle-mexico-had-more-scale-than-it-knew-what-to-do-with-until-it-unified-its-data/",
-      "title": "Nestlé Mexico Had More Scale Than It Knew What To Do With – Until It Unified Its Data",
+      "title": "For some publishers, agentic advertising is still a question of ROI",
+      "url": "https://digiday.com/media/for-some-publishers-agentic-advertising-is-still-a-question-of-roi/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-10-12T04:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/ai-agentic-sponsered.001.jpeg",
+      "excerpt": "Despite the hype around agentic media buying, some publishers remain skeptical of its potential to deliver meaningful revenue.",
+      "off_list": false,
+      "source_lang": "en",
+      "keyword": "agentic media buying"
+    },
+    {
+      "title": "Newsletters Get Cozier With Advertising; Convoluted Creative File Names Are Kaput",
+      "url": "https://www.adexchanger.com/daily-news-roundup/newsletters-get-cozier-with-advertising-convoluted-creative-file-names-are-kaput/",
       "source": "AdExchanger",
       "category": "marketing",
-      "published_iso": "2026-10-09T05:00:37+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2310078089-scaled.jpg",
-      "excerpt": "Nestlé Mexico used to handle data and targeting one brand at a time. After adopting the Treasure AI platform, it runs its whole portfolio's consumer data in one system and targets across brands. Caution: this reads like a vendor case study.",
+      "published_iso": "2026-10-12T04:03:20+00:00",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/07/creation-addressability-email-1.jpg",
+      "excerpt": "Substack and behiiv are looking at programmatic; AI makes metadata more important than ever; and can Skydance compete with big tech?",
+      "off_list": false,
       "source_lang": "en",
-      "keyword": "first-party data AI activation / AI audience targeting",
-      "off_list": false
+      "keyword": "generative ad creative"
     },
     {
-      "url": "https://www.salesforce.com/news/stories/personal-ai-agents-evolution/",
-      "title": "Your Customer's Personal Agent Is Knocking. Is Your Business Ready to Answer?",
-      "source": "Salesforce",
+      "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+      "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+      "source": "Engineering at Meta",
       "category": "marketing",
-      "published_iso": "2026-10-09T18:30:00+00:00",
-      "og_image": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/10/789_1026_T05_Your-Customers-Personal-Agent-Is-Knocking-—-Is-Your-Business-Ready-to-Answer__a_v1_100826.jpg",
-      "excerpt": "Personal AI agents like Meta's Muse and OpenAI's Dots now shop, book and handle returns for consumers. Salesforce's EVP argues that businesses have to decide whether to let these agents in or block them, and how to govern agent-to-agent selling. Caution: vendor blog.",
+      "published_iso": "2026-10-12T16:00:50+00:00",
+      "og_image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png",
+      "excerpt": "At Meta, we’ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand acros…",
+      "off_list": true,
       "source_lang": "en",
-      "keyword": "conversational commerce AI / AI sales agent",
-      "off_list": false
+      "keyword": "Advantage+"
     },
     {
-      "url": "https://www.beet.tv/2026/10/ad-industry-must-speak-same-language-before-ai-takes-over-iabs-jamie-finstein.html",
-      "title": "Ad Industry Must Speak Same Language Before AI Takes Over: IAB's Jamie Finstein",
-      "source": "Beet.TV",
+      "title": "As AI agents begin shopping, brands are changing their sales pitch",
+      "url": "https://www.seattletimes.com/business/as-ai-agents-begin-shopping-brands-are-changing-their-sales-pitch/",
+      "source": "The Seattle Times (The New York Times)",
       "category": "marketing",
-      "published_iso": "2026-10-11T21:19:26+00:00",
-      "og_image": "https://www.beet.tv/wp-content/uploads/2026/10/image-16.jpg",
-      "excerpt": "IAB's Jamie Finstein says the industry has to standardize what CTV, streaming and digital video mean before AI agents handle more media transactions. Otherwise today's confusion over what is being bought and sold will simply be automated.",
+      "published_iso": "2026-10-12T06:00:03-07:00",
+      "og_image": "https://images.seattletimes.com/wp-content/uploads/2026/10/10072026_tzr_tzr_101153.jpg?d=1200x630",
+      "excerpt": "\"When an AI agent goes shopping, how does it decide what to buy?\" is the question on every marketing executive’s mind as customers increasingly turn to AI for recommendations.",
+      "off_list": true,
       "source_lang": "en",
-      "keyword": "agentic media buying / programmatic AI",
-      "off_list": true
+      "keyword": "AI checkout conversion"
     },
     {
-      "url": "https://www.mk.co.kr/news/it/12173227",
-      "title": "“AI가 쇼핑 다 해주면 광고는 누가 보나”…네이버·아마존, 문 걸어잠근다",
-      "source": "매일경제",
+      "title": "Mahindra uses AI agents to book 91,000 test drives as group expands AI-led transformation",
+      "url": "https://www.storyboard18.com/brand-marketing/mahindra-uses-ai-agents-to-book-91000-test-drives-as-group-expands-ai-led-transformation-112425.htm",
+      "source": "Storyboard18",
       "category": "marketing",
-      "published_iso": "2026-10-11T21:00:26Z",
-      "og_image": "https://pimg.mk.co.kr/news/cms/202610/12/news-p.v1.20261012.e56bd3cb43ed4010b3c9bcc20c9f5e4f_R.png",
-      "excerpt": "Amazon blocked Meta's Muse agent from shopping on its site, and Naver and Coupang are also cutting off outside AI agents. Agents that search and pay on a user's behalf skip the platform's ad slots, recommendations and lock-in. Google, Walmart and Shopify are going the other way and opening checkout to agents (UCP, a shared standard for agent identity and delegated permissions).",
-      "source_lang": "ko",
-      "keyword": "agentic checkout / 쿠팡 AI / 네이버 AI 쇼핑",
+      "published_iso": "2026-10-12T18:59:14+05:30",
+      "og_image": "https://images.storyboard18.com/storyboard18/2026/10/Copy-of-SB18-Article-Image-24-2026-10-f75286ff9938f223777f172c4edde8ae-1019x573.png",
+      "excerpt": "Mahindra & Mahindra’s Q1 FY27 highlights the growing role of AI across marketing, sales, customer service and product development, with AI agents booking more than 91,000 test drives and the group reporting 34% growth in consolidated profit.",
       "off_list": true,
-      "note": "Shares the Muse-vs-Amazon thread with the 'Meta shopping agent merchants' spare, but leads with Korean platforms (Naver, Coupang) and the ad-exposure stakes",
-      "recovery": true
-    },
-    {
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2003965",
-      "title": "네카오, AI 수익화 경쟁 본격화…이용자 4000만 정조준",
-      "source": "매일일보",
-      "category": "marketing",
-      "published_iso": "2026-10-11T04:00:00Z",
-      "og_image": "https://cdn.m-i.kr/news/photo/202610/2003965_2003827_148.png",
-      "excerpt": "Naver's AI Briefing ads, launched in late July, get a click-through rate 30%+ above standard search ads and more than 3x the purchase conversion. AI drove over 60% of Naver's Q2 ad revenue growth. Kakao plans to route intent from KakaoTalk conversations into ordering and payment through its agents, and to monetize AI from next year, targeting double-digit AI share of Talk Biz revenue by 2028.",
-      "source_lang": "ko",
-      "keyword": "네이버 AI 브리핑 광고 / 카카오 AI 광고",
-      "off_list": true,
-      "recovery": true
-    },
-    {
-      "url": "https://news.tf.co.kr/read/life/2374702.htm",
-      "title": "비용 줄이려다 손님도 줄어드네…소비자들 외면하는 AI 광고",
-      "source": "더팩트",
-      "category": "marketing",
-      "published_iso": "2026-10-09T15:00:03Z",
-      "og_image": "https://img.tf.co.kr/article/home/2026/10/08/20262764179155369300.jpg",
-      "excerpt": "Korean consumers are pushing back against ad photos and videos made with generative AI: AI-generated fashion models, food photos on menus, AI video ads on YouTube and in theaters. They say the ads kill the urge to buy and lower trust. Experts cite research showing that the more AI shoppers perceive in an ad's production, the less authentic it seems.",
-      "source_lang": "ko",
-      "keyword": "generative creative / AI 광고 제작",
-      "off_list": true,
-      "recovery": true
-    },
-    {
-      "url": "https://www.bloter.net/news/articleView.html?idxno=675286",
-      "title": "데이터라이즈, AI에 마케팅 '판단' 맡긴다 [디지털마케팅 대전]",
-      "source": "블로터",
-      "category": "marketing",
-      "published_iso": "2026-10-11T05:00:00Z",
-      "og_image": "https://cdn.bloter.net/news/thumbnail/202610/675286_289140_5513_v150.jpg",
-      "excerpt": "Datarize, a CRM marketing AI platform for direct-to-consumer e-commerce stores (about 1,000 clients), is moving its AI from running campaigns to diagnosing why sales dropped and recommending fixes. Its analysis of 880 clients found falling traffic caused only half of the 10%+ sales declines, and 78% of repeat decliners had a different cause each time. A Slack-style agent is in beta.",
-      "source_lang": "ko",
-      "keyword": "Klaviyo/HubSpot-style CRM AI / AI 마케팅 솔루션",
-      "off_list": true,
-      "note": "Vendor-profile series; has first-party data, but check for advertorial tone",
-      "recovery": true
-    },
-    {
-      "url": "https://wersm.com/openai-turning-creators-into-testers-for-agentic-ai/",
-      "title": "OpenAI Is Turning Creators Into Testers for Agentic AI",
-      "source": "WeRSM",
-      "category": "marketing",
-      "published_iso": "2026-10-11T15:55:14Z",
-      "og_image": "https://wersm.com/wp-content/uploads/2026/10/chloe-shih-office-drama-1920x1131-1.jpg",
-      "excerpt": "OpenAI is partnering with creator Chloe Shih (Office Drama) on a parenting series, with her as an early user of 'dots', its always-on agent. The deal makes the creator part of how the product gets tested and positioned rather than paying her for a standard sponsored post, a different template for brand-creator deals in AI.",
       "source_lang": "en",
-      "keyword": "AI influencers / creator paid partnership",
+      "keyword": "AI sales agent"
+    },
+    {
+      "title": "Olyzon's AI agents now shift CTV budgets across 4 DSPs in live buys",
+      "url": "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-11T18:22:59.000Z",
+      "og_image": "https://ppc.land/content/images/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
+      "excerpt": "Buyers keep seats at Trade Desk, Amazon DSP, DV360 and Yahoo DSP while caps and audit logs bound each agent. What do the partner lists and missing figures show?",
       "off_list": true,
-      "note": "Weak; the ad/sales hook is indirect",
-      "recovery": true
+      "source_lang": "en",
+      "keyword": "agentic media buying"
+    },
+    {
+      "title": "Meta's Muse agent puts well-known merchants first as it gains ad accounts",
+      "url": "https://ppc.land/metas-muse-agent-puts-well-known-merchants-first-as-it-gains-ad-accounts/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-12T05:35:33.000Z",
+      "og_image": "https://ppc.land/content/images/2026/10/meta-muse-shopping-agent-well-known-merchants-doorman-gatekeeper.jpg",
+      "excerpt": "Meta's Muse shopping agent must rank well-known merchants first and now reaches ad accounts, as agents, verifiers and footnotes shape the day's marketing news.",
+      "off_list": true,
+      "source_lang": "en",
+      "keyword": "conversational commerce AI",
+      "history_match": {
+        "score": 0.333,
+        "date": "2026-10-12",
+        "url": "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/",
+        "title": "Meta's Muse agent gains access to ad accounts and 15 business tools",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Bannerflow now scores ads for attention before any budget is spent",
+      "url": "https://ppc.land/bannerflow-now-scores-ads-for-attention-before-any-budget-is-spent/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-12T16:04:00.000Z",
+      "og_image": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+      "excerpt": "Attention heatmaps and clarity scores join image tools and plain-language feed setup in one suite. Still missing: release dates, pricing and proof scores work.",
+      "off_list": true,
+      "source_lang": "en",
+      "keyword": "dynamic creative optimization"
+    },
+    {
+      "title": "First for THG Commerce as company brings Criteo Sponsored Products to AI Shopping Assistant solution — Retail Technology Innovation Hub",
+      "url": "https://retailtechinnovationhub.com/home/2026/10/11/first-for-thg-commerce-as-it-brings-criteo-sponsored-products-to-ai-shopping-assistant-solution",
+      "source": "Retail Technology Innovation Hub",
+      "category": "marketing",
+      "published_iso": "2026-10-12T05:51:13+0100",
+      "og_image": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6acb1b6c8aff5a56b0c63060/1791780673459/AI%2BShopping%2BAssistant.png?format=1500w",
+      "excerpt": "THG Commerce, part of THG Ingenuity, has integrated Criteo Sponsored Products into its AI Shopping Assistant, built using Google Cloud’s Gemini Enterprise. THG Commerce says it is the first commerce technology provider in Europe to bring Criteo Sponsored Products into AI-powered conversational searc",
+      "off_list": true,
+      "source_lang": "en",
+      "keyword": "retail media AI"
+    },
+    {
+      "title": "Ocean Park unveils AI-driven campaign this Halloween",
+      "url": "https://www.marketing-interactive.com/ocean-park-unveils-ai-driven-campaign-this-halloween",
+      "source": "Marketing-Interactive",
+      "category": "marketing",
+      "published_iso": "2026-10-12T16:25:14+08:00",
+      "og_image": "https://marketing-interactive-assets.b-cdn.net/article_images/ocean-park-unveils-ai-driven-campaign-this-halloween/1791793512_ocean%20park%20halloween%20.png",
+      "excerpt": "Ocean Park has unveiled an AI-led campaign to build excitement and anticipation for its annual Halloween Fest, strengthening the park's position as Hong Kong's home of Halloween entertainment.",
+      "off_list": true,
+      "source_lang": "en",
+      "keyword": "generative ad creative"
+    },
+    {
+      "title": "Digest: OpenAI Wants ChatGPT Ads in Agency Media Plans; Xbox Launches Film and TV Division - ExchangeWire.com",
+      "url": "https://www.exchangewire.com/blog/2026/10/12/digest-openai-wants-chatgpt-ads-in-agency-media-plans-xbox-launches-film-and-tv-division/",
+      "source": "ExchangeWire",
+      "category": "marketing",
+      "published_iso": "2026-10-12T10:10:08+00:00",
+      "og_image": "https://cdn.exchangewire.com/wp-content/uploads/2026/03/Robot-handshake.jpg",
+      "excerpt": "In today’s Digest, we discuss OpenAI targeting a permanent place in agency ad budgets, Xbox launching a film and TV division, and advertising spend dropping 3.4% in August.",
+      "off_list": true,
+      "source_lang": "en",
+      "keyword": "ChatGPT ads",
+      "history_match": {
+        "score": 0.335,
+        "date": "2026-10-10",
+        "url": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
+        "title": "OpenAI Wants ChatGPT Ads to Become a Permanent Line Item in Agency Media Plans",
+        "band": "related"
+      }
+    },
+    {
+      "title": "\"AI가 쇼핑 대행하는 시대\"…플랫폼 생존 전략 \"광고 패러다임 바뀐다\"",
+      "url": "https://www.mediapen.com/news/view/1129315",
+      "source": "미디어펜",
+      "category": "marketing",
+      "published_iso": "2026-10-12T15:20:04+09:00",
+      "og_image": "https://image.mediapen.com/news/202610/news_1129315_1791784706_m.jpg",
+      "excerpt": "[미디어펜=배소현 기자] AI가 소비자 대신 상품을 고르고 결제까지 수행하면서 기존 플랫폼의 광고 수익모델에도 변화 조짐이 나타나고 있다. 소비자가 직접 상품을 검색하고 광고를 살",
+      "off_list": true,
+      "source_lang": "ko",
+      "keyword": "AI 커머스 광고"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 6,
+    "dropped": 0,
+    "kept": 15,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 1,
+    "review": 4,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -296,6 +351,31 @@
       "date": "2026-10-11",
       "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk",
       "url": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "비용 줄이려다 손님도 줄어드네…소비자들 외면하는 AI 광고",
+      "url": "https://news.tf.co.kr/read/life/2374702.htm"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Brands can block YouTube ads beside AI slop under new IAS tool",
+      "url": "https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Meta's Muse agent gains access to ad accounts and 15 business tools",
+      "url": "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "네카오, AI 수익화 경쟁 본격화…이용자 4000만 정조준",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2003965"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "“AI가 쇼핑 다 해주면 광고는 누가 보나”…네이버·아마존, 문 걸어잠근다",
+      "url": "https://www.mk.co.kr/news/it/12173227"
     }
   ]
 }

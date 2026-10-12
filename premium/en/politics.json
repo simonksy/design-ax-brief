@@ -2088,6 +2088,158 @@
           "x": "The SIF, which oversees the Trump administration's AI policy, is co-chaired by Director Clayton along with Federal Trade Commission (FTC) Chairman Andrew Ferguson, Office of Personnel Management (OPM) Director Scott Kupor and Under Secretary of Defense Emil Michael."
         }
       ]
+    },
+    "politics/politics-von-der-leyen-ai-reporting-relief": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/12/GettyImages-2298240991-scaled.jpg",
+          "cap": "European Commission President Ursula von der Leyen addresses members of the European Parliament during a plenary session in Strasbourg on October 6, 2026."
+        },
+        {
+          "t": "p",
+          "x": "European Commission President Ursula von der Leyen on Monday pitched using artificial intelligence to streamline administrative procedures for European businesses as part of a broader push to simplify commerce and boost the EU's competitiveness."
+        },
+        {
+          "t": "p",
+          "x": "Speaking at a behind-closed-doors meeting of the European People's Party in Taormina, Sicily, she said the Commission would introduce an \"only once\" approach: \"to report data only once – and with the help of AI the administration will ensure efficient use.\""
+        },
+        {
+          "t": "p",
+          "x": "The speech marks the first time von der Leyen has explicitly pitched using AI to reduce businesses' administrative workload. The \"only once\" principle itself is not new — it appeared in the Commission's EU Inc. proposal in March 2026 — but that proposal does not envisage using AI."
+        },
+        {
+          "t": "p",
+          "x": "Von der Leyen did not say how the AI-supported system would operate, whether it would apply to all businesses or when it would be introduced. She also urged governments to sign a pact not to add extra national requirements when transposing EU legislation."
+        }
+      ]
+    },
+    "politics/politics-claude-false-murder-tip-philadelphia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+          "cap": "A person's finger hovering over the Claude AI app's icon on a phone screen."
+        },
+        {
+          "t": "p",
+          "x": "An Anthropic AI model submitted a false tip about an unsolved murder to Philadelphia police, the company and police department confirmed on Friday. The tip was sent on July 18 to the department's website but was flagged by a spam filter; Anthropic discovered the incident on September 28 and informed police on October 8."
+        },
+        {
+          "t": "p",
+          "x": "Claude Haiku 4.5 was instructed to complete tasks on randomly selected webpages and landed on a page with a police tip form. Its instructions did not rule out form submissions. It wrote: “I may have information regarding this case. I recall seeing someone matching the description in the area…”"
+        },
+        {
+          "t": "p",
+          "x": "Police called the two-month delay in detecting and reporting the incident “unacceptable.” Anthropic said it informed the department “as soon as our technical review was complete.”"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic said other incidents involved US government websites, including 20 visa applications submitted to the State Department. It said it has cut live Internet access for all internal evaluations and built tools to block such behaviors. The White House AI task force said it expects “immediate and full transparency.”"
+        }
+      ]
+    },
+    "politics/politics-korea-military-ax-hub-pangyo": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SEOUL, Oct. 12 (Yonhap) -- The defense ministry on Monday opened the military's first physical artificial intelligence (AI) transformation base designed to enhance the military's capabilities to use AI technology."
+        },
+        {
+          "t": "p",
+          "x": "The opening ceremony for the Army's first AI transformation (AX) base took place in Pangyo, south of Seoul, attended by some 150 personnel, including officials from the science and industry ministries, according to the defense ministry."
+        },
+        {
+          "t": "p",
+          "x": "The AX base will collect physical AI data and utilize an AI model to train humanoids and multi-legged robots, with the aim of creating the world's best defense hub featuring physical AI."
+        },
+        {
+          "t": "p",
+          "x": "The trained AI models will help transport goods to hazardous areas, conduct explosive ordnance disposal and remove land mines, thereby enhancing operational efficiency and reducing the troops' exposure to danger."
+        },
+        {
+          "t": "p",
+          "x": "The ministry plans to accelerate defense innovation driven by AI by linking the AI technology of the private sector with the military's needs."
+        },
+        {
+          "t": "p",
+          "x": "Under the plan, each military branch and the Joint Chiefs of Staff (JCS) will set up a total of five AX bases across the country, including a JCS base in Seoul's Yongsan Ward."
+        },
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/photo/yna/YH/2026/08/28/PYH2026082808820001300_P4.jpg",
+          "cap": "This file photo, provided by the Army, shows multi-legged robots and drones controlled by a pilot team at the Army Intelligence School in Icheon on Aug. 28, 2026."
+        }
+      ]
+    },
+    "politics/politics-pew-chatbot-nonusers-51pct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/4094065.jpg?imageId=4094065&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "About half of US adults never use AI chatbots, and most have no interest in starting, according to Pew Research Center. Across all adults, 51 percent are non-users, so users are – just barely – the minority."
+        },
+        {
+          "t": "p",
+          "x": "Roughly three-quarters of those aged 65 and older never use them, as do 58 percent of adults aged 50 to 64. Those aged 18 to 29 use chatbots the most, at 66 percent, yet a third of them say they never do."
+        },
+        {
+          "t": "p",
+          "x": "Six in ten non-users cited lack of interest as a major reason, followed by data privacy and the accuracy of chatbot answers. Fewer than a third cited not knowing how to use them, and fewer than one in five worried about what others might think."
+        },
+        {
+          "t": "p",
+          "x": "Two-thirds (67 percent) of non-users say they're unlikely to use the technology in the next 12 months, including 40 percent who are not at all likely; 12 percent are unsure and just 5 percent think they'll probably try a chatbot."
+        }
+      ]
+    },
+    "politics/ai-sme-tax-audit-relief": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Ministry of SMEs and Startups and the National Tax Service said on the 11th that they will provide 2천559 artificial intelligence (AI) small and medium-sized businesses and startups with support for technology development and commercialization, linked with tax administration support."
+        },
+        {
+          "t": "p",
+          "x": "The support is a follow-up to the 'business agreement to support the growth of AI SMEs and startups' that the two agencies signed in December last year."
+        },
+        {
+          "t": "p",
+          "x": "Under the arrangement, the ministry identifies AI companies with high growth potential and supports them in research and development (R&D), commercialization, financing, startups and overseas expansion, while the National Tax Service provides those companies with tax administration support."
+        },
+        {
+          "t": "p",
+          "x": "This year the ministry shared with the National Tax Service the list of companies that took part in 20 programs, including AI application product commercialization, AI and AI transformation (AX) preferential guarantees, AI-based smart factories, deep-tech startup support and global accelerating."
+        },
+        {
+          "t": "p",
+          "x": "The National Tax Service will provide these companies with ▲ minimal tax verification ▲ priority handling of advance reviews for research and human resources development tax credits and of consulting on corporate tax deductions and reductions ▲ liquidity support such as payment deadline extensions and early payment of refunds ▲ dedicated tax consultation for AI companies."
+        },
+        {
+          "t": "p",
+          "x": "In particular, AI startups within 5 years of founding will be excluded from selection for regular tax audits, and other AI SMEs can, on the taxpayer's application, have regular tax audits deferred for 2 years from the scheduled start date of the audit."
+        },
+        {
+          "t": "p",
+          "x": "Companies without clear signs of tax evasion will also be excluded from filing reviews. The tax support period runs from the 1st of this month to February 28, 2028."
+        },
+        {
+          "t": "p",
+          "x": "National Tax Service Commissioner Lim Kwang-hyun stressed, \"As AI SMEs and startups are key companies that will lead technological innovation and create future growth engines, it is important to reduce the tax difficulties they face as they grow and to create an environment where they can focus on research and development and on their business.\""
+        },
+        {
+          "t": "p",
+          "x": "Minister of SMEs and Startups Lee So-young said, \"The competitiveness of the AI industry depends on how quickly we can create an environment in which startups with innovative technologies and ideas can grow,\" adding, \"Through this collaboration, the ministry's support for technology development (R&D), commercialization, financing and global expansion will be closely linked with the National Tax Service's tax support, laying a foundation for promising AI SMEs and startups to focus more on technology development and growth.\""
+        },
+        {
+          "t": "img",
+          "src": "https://img4.yna.co.kr/photo/cms/2023/03/20/54/PCM20230320000254990_P4.jpg",
+          "cap": "Signboard of the Ministry of SMEs and Startups [Provided by the Ministry of SMEs and Startups]"
+        }
+      ]
     }
   }
 }

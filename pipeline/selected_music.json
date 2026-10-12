@@ -1,87 +1,150 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "section": "music",
   "picks": [
     {
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "title": "Google's new SynthID website can identify AI-generated media",
-      "source": "TechCrunch",
+      "url": "https://routenote.com/radar/tencent-musics-musicbuddy-combines-ai-music-creation-editing-distribution-and-promotion/",
+      "title": "Tencent Music’s MusicBuddy combines AI music creation, editing, distribution and promotion",
+      "source": "RouteNote",
       "category": "music",
-      "published_iso": "2026-10-07T14:00:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675",
-      "excerpt": "Google launched a public SynthID website that lets anyone check whether images, video or audio (including Lyria music) carry Google's AI watermark.",
+      "published_iso": "2026-10-07T20:07:41Z",
+      "og_image": "https://routenote.com/radar/wp-content/uploads/2026/10/routenote_high_angle_view_a_phone_in_the_center_and_a_silver__f4257022-0f11-41f2-8dbe-44c0288c9ac6_3.png",
+      "excerpt": "Tencent Music is testing MusicBuddy, an AI platform that pairs song generation with a multitrack editor driven by natural-language chat, then pushes tracks to release and promotion.",
       "source_lang": "en",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "New public tool: anyone can now upload audio and check for Google's AI watermark, including Lyria-generated music. Useful for labels, curators and artists trying to verify a track's origin."
+      "rationale": "A new end-to-end tool from a major streaming platform: generation, a chat-driven multitrack editor, distribution and promotion in one workflow, which signals where creator tooling is heading."
     },
     {
-      "url": "https://isplus.com/article/view/isp202610080035",
-      "title": "BIFF opening-ceremony AI entrance song: director Min Kyu-dong explains the intent",
-      "source": "일간스포츠",
+      "url": "https://www.synthtopia.com/content/2026/10/12/using-ai-to-make-patches-for-the-yamaha-cs-80-synthesizer/",
+      "title": "Using AI To Make Patches For The Yamaha CS-80 Synthesizer",
+      "source": "Synthtopia",
       "category": "music",
-      "published_iso": "2026-10-08T04:13:00Z",
-      "og_image": "https://isplus.com/data/isp/image/2026/10/08/isp20261008000114.800x.0.jpg",
-      "excerpt": "제31회 부산국제영화제 개막식에서 게스트 이름을 가사에 넣은 AI 입장곡이 화제·논란이 된 가운데, 개막식을 총지휘한 민규동 감독이 기획 의도를 밝혔다.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-12T21:20:21Z",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/10/ai-sound-design.jpg",
+      "excerpt": "A Jose's Vintage Keys video shows Anthropic's Claude programming patches on a MIDI-modded Yamaha CS-80, turning text descriptions into sound-design starting points on vintage hardware.",
+      "source_lang": "en",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "A concrete Korean case: personalised AI-generated entrance songs were used at a major public ceremony, and the director explains the controversy. Gives the brief a local, applied angle."
+      "rationale": "A hands-on sound-design workflow you can copy: an LLM drives a vintage analog synth over MIDI to turn text descriptions into patches. It differs from the 09-18 DX7 plain-English tool in both hardware and method."
     },
     {
-      "url": "https://arxiv.org/abs/2610.06478",
-      "title": "Smorph: playable diffusion-based sound morphing for musical sound design",
-      "source": "arXiv",
+      "url": "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/",
+      "title": "Instagram adds AI songs to DMs",
+      "source": "Social Media Today",
       "category": "music",
-      "published_iso": "2026-10-05T15:05:29Z",
-      "og_image": "",
-      "excerpt": "Smorph makes diffusion-based sound morphing playable for musical sound design by disentangling temporal structure from timbre transitions.",
+      "published_iso": "2026-10-04T17:23:38Z",
+      "og_image": "https://imgproxy.divecdn.com/4c8s5cKB8C7MHoWLCwg7jU9Sl6kuCNz1L6NJczHUtt8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nMi5wbmc=.webp",
+      "excerpt": "Instagram is testing a Meta AI song-creation option in the DM inbox: users add lyrics and pick a genre to generate a track to send to friends, echoing Snapchat's paid Chat-to-Song.",
       "source_lang": "en",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Producer-facing research: separating temporal structure from timbre makes generative sound morphing playable as an instrument rather than only renderable offline."
+      "rationale": "A new Instagram feature brings AI song generation to a mass-market messaging app. It is Meta's own release, separate from Snapchat's 09-23 Chat to Song."
     },
     {
-      "url": "https://arxiv.org/abs/2609.39552",
-      "title": "Ghost in the Encoder: artist identity is decodable inside lyrics-to-song generation models",
+      "url": "https://arxiv.org/abs/2610.13054",
+      "title": "LiveSynth: A Streaming Neural Synthesizer for Instrument Cloning and Text-to-Instrument",
       "source": "arXiv",
       "category": "music",
-      "published_iso": "2026-09-30T11:51:21Z",
+      "published_iso": "2026-10-09T00:00:00Z",
       "og_image": "",
-      "excerpt": "'Ghost in the Encoder' shows artist identity is decodable from internal representations of lyrics-to-song generation models, probing how they imitate artists or regurgitate songs.",
+      "excerpt": "LiveSynth is a streaming neural synthesizer that clones an instrument's timbre zero-shot from a reference recording or generates one from a text prompt, and plays in real time rather than rendering audio offline.",
+      "source_lang": "en",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Producer-facing research: a neural instrument that clones a timbre zero-shot or builds one from text, and plays in real time instead of rendering offline."
+    },
+    {
+      "url": "https://www.dazeddigital.com/music/article/71134/1/suno-is-the-new-auto-tune-meet-the-artists-using-ai-to-go-viral",
+      "title": "‘Suno is the new auto-tune’: Meet the artists using AI to go viral",
+      "source": "Dazed",
+      "category": "music",
+      "published_iso": "2026-10-08T09:47:00Z",
+      "og_image": "https://images-prod.dazeddigital.com/367/0-211-367-244/azure/dazed-prod/1450/7/1457204.jpeg",
+      "excerpt": "Dazed profiles masked TikTok-viral acts such as Kilo Kent and Zemi who sing their own songs and run the vocals through Suno like a studio effect, arguing the songwriting stays theirs.",
       "source_lang": "en",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "New evidence for the imitation and regurgitation debate: artist identity can be read out of song-generation models' internal representations, which bears directly on the ongoing label-versus-Suno litigation."
+      "rationale": "A creator-workflow angle not covered before: artists write and sing their own songs, then use Suno as a vocal effect, much like auto-tune, to go viral."
+    }
+  ],
+  "alternates": [
+    {
+      "url": "https://arxiv.org/abs/2610.10355",
+      "title": "MIRA: A Musical Intent Refinement Agent for Aligning Text-to-Music Generation with User Intent",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-07T00:00:00Z",
+      "og_image": "",
+      "excerpt": "MIRA is an agent that refines underspecified text-to-music prompts toward the user's implicit intent on instrumentation, structure, rhythm and mood, instead of relying on a single global text-audio relevance score.",
+      "source_lang": "en",
+      "tool": "Music",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "Prompt-refinement agent for text-to-music; useful but a second arXiv card would crowd the five."
+    },
+    {
+      "url": "https://musically.com/2026/10/08/audiotool-reveals-six-winners-from-its-lets-build-hackathon/",
+      "title": "Audiotool reveals six winners from its ‘Let’s Build!’ hackathon",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-08T12:30:00Z",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-08T111802.241.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Audiotool's music-app hackathon winners include Pocket Producer, an AI agent for music producers, and an AI A&R Assistant that analyses tracks and estimates earning potential, alongside DAW-conversion and sheet-music tools.",
+      "source_lang": "en",
+      "tool": "Music",
+      "accent": "#ff5a4d",
+      "motif": "sphere",
+      "rationale": "Prototype AI producer and A&R tools from a hackathon; new but early-stage."
+    },
+    {
+      "url": "https://www.hypebot.com/lalus-corner-who-controls-the-digital-version-of-you/",
+      "title": "Lalu's Corner: Who Controls the Digital Version of You?",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-10-12T17:23:01Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg",
+      "excerpt": "A column on artist likeness in the AI era: the Jason Isbell suit alleging Suno's name block is bypassed by spacing letters, a deadmau5 deepfake endorsement, and the Jorja Smith soundalike, plus how labels split between licensing and takedowns.",
+      "source_lang": "en",
+      "tool": "Music",
+      "accent": "#3b6bff",
+      "motif": "sphere",
+      "rationale": "Opinion column on likeness rights; commentary rather than a new event."
     }
   ],
   "dedup": {
     "checks": {
-      "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/": {
+      "https://routenote.com/radar/tencent-musics-musicbuddy-combines-ai-music-creation-editing-distribution-and-promotion/": {
         "verdict": "new",
-        "nearest": "https://www.synthtopia.com/content/2026/10/07/google-wants-you-to-vibe-code-audio-plugins/",
+        "nearest": "https://musically.com/2026/09/17/submithub-bans-ai-generated-music-from-its-promotion-services/",
         "new_action": ""
       },
-      "https://isplus.com/article/view/isp202610080035": {
+      "https://www.synthtopia.com/content/2026/10/12/using-ai-to-make-patches-for-the-yamaha-cs-80-synthesizer/": {
         "verdict": "new",
-        "nearest": "https://isplus.com/article/view/isp202610020003",
+        "nearest": "https://www.synthtopia.com/content/2026/09/13/free-tool-lets-you-create-yamaha-dx7-fm-patches-using-plain-english/",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2610.06478": {
+      "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/": {
+        "verdict": "new",
+        "nearest": "https://musically.com/2026/09/22/snapchat-has-a-new-genai-powered-chat-to-song-feature/",
+        "new_action": ""
+      },
+      "https://arxiv.org/abs/2610.13054": {
+        "verdict": "new",
+        "nearest": "https://synthanatomy.com/2026/09/sentient-an-auv3-synthesizer-for-ios-and-macos-powered-by-a-neural-network.html",
+        "new_action": ""
+      },
+      "https://www.dazeddigital.com/music/article/71134/1/suno-is-the-new-auto-tune-meet-the-artists-using-ai-to-go-viral": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
-      },
-      "https://arxiv.org/abs/2609.39552": {
-        "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.09637",
-        "new_action": ""
       }
     },
-    "note": "Pool of 12; 7 dropped as already-published stories. DMN Kelly Clarkson separate chart (same story as the 10-02 Billboard Clarkson card; commentary, no new event). CMU Japanese voice ruling and US appeals fair-use ruling (both published: 10-01 MBW and 10-02 Engadget). MBW ARIA/Australian lawmakers (same testimony as the 10-07 Music Ally card). MusicRadar Engram (Kickstarter launch, same product as the 09-28 Verge card). Mixmag Fred again.. (same remarks as the 09-27 DJ Mag card). Suno Speech beta (published 10-03 via The Verge). ElevenLabs Eleven v4 (published 09-30 via TechCrunch; TTS anyway). Five fresh items survived, three of them arXiv. Capped arXiv at 2 per the outlet guard, so MIRA (text-to-music intent refinement) was left out and the set is 4 rather than padded to 5. SynthID's history_match (Google vibe-code audio plugins, 10-10) is a different Google product. Cross-section risk: SynthID is a cross-media detector, so the orchestrator should confirm gadgets or politics did not also pick it today. If it clashes, MIRA (https://arxiv.org/abs/2610.10355) is the only replacement and would need its own dedup entry. Outlets: TechCrunch 1, isplus 1, arXiv 2."
+    "note": "Dropped as repeats: Hypebot 'DistroKid Takedown Wave Hits Indie Artists After UMG Lawsuit' is extra reporting on the same DistroKid takedowns published 10-11 (theverge.com/entertainment/1009309), with no new filing, ruling or policy. MusicRadar's Sony deepfake-takedown story is the same 260,000+ figure published 10-06 (MBW). Dropped as commentary or low-signal: the Kraftwerk Karl Bartos interview (AI is a side topic) and Olivia Rodrigo's AI stance (a celebrity quote with no new event). The Hypebot Lalu's Corner column, MIRA (arXiv) and Audiotool's hackathon went to alternates. The five picks come from five different outlets. No clusters were present in the pool."
   }
 }

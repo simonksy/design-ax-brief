@@ -1,215 +1,170 @@
 {
  "section": "science",
- "date": "2026-10-12",
- "now_iso": "2026-10-11T22:00:00Z",
+ "generated_at": "2026-10-12T22:00:00Z",
+ "now_iso": "2026-10-12T22:00:00Z",
  "window_hours": 336,
- "expansion": "Feeds+archives first: phys.org daily archive 05-10..11-10 (5 pages/day) + techxplore archive and ML RSS, ScienceDaily top + 7 topic RSS, Quanta, SciAm, Live Science, Physics World, APS Physics, TQI, Universe Today, Psychology Today, STAT, MIT TR, GEN (feed + AI topic page), DeepMind, Google Research, Ai2. arXiv API sweeps (physics.ao-ph, cond-mat.mtrl-sci, astro-ph.EP, q-bio.BM, physics.plasm-ph, AI-scientist/self-driving-lab). 3 WebSearch queries (newscientist blocked 400; astronomy and protein-design both stale). Carried 7 unpublished still-fresh items from 2026-10-11 pool. New additions: SF-PULSE lensless AI imaging, interpretable-ML corrosion, Great Lakes ML, NTU LACE (Nature MI), EMNLP face-edit bias, social-jetlag AI evaluator preference, Station open-ended AI discovery, SciAm OpenAI math trove, PT disaster-recovery AI, Honda/Redwire space lab automation, GEN hybrid digital twin autonomous lab, Ai2 COLM recap. Excluded: MIT TR AI-designed viruses + DeepMind SynthID Bio (biosecurity-adjacent), Arctic sea-ice analog predictor (not AI), Nichia solid electrolyte (ML potential only implicit), Innsbruck PRX agent-thermodynamics (borderline), STAT/Live Science clinical items (medicine), AI-industry noise (OpenAI revenue, data centers, Manus funding, Gemini 4 launch), deprioritized angles already covered (IceCube/Halzen, chatbot reasoning, tokenizer). Weekend window: phys.org 10-10/10-11 had no AI-for-science items beyond the non-AI Arctic piece.",
  "items": [
   {
-   "url": "https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html",
-   "title": "Lensless imaging method enables long-term monitoring of living cells without staining",
+   "title": "AI platform and database map protein phase separation across species",
+   "url": "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html",
    "source": "Phys.org",
    "category": "science",
-   "published_iso": "2026-10-08T00:00:00Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-imaging-method-ena.jpg",
-   "excerpt": "Tampere University's SF-PULSE pairs a neural network with physics-informed image reconstruction to pull quantitative data on living cells from a single lensless image. The compact rig fits in an incubator and tracks growth, movement, division and biomass for days without labels.",
-   "source_lang": "en",
-   "note": "date-only on page (phys.org archive 08-10-2026); og:image = lead image"
+   "published_iso": "2026-10-12T09:20:16-04:00",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
+   "excerpt": "NTU Singapore researchers used large language models to mine PubMed for phase-behavior data and built PLATO, a database of ~5,118 tested protein sequences, plus PhaseHub, which uses the MolPhase machine-learning predictor to map protein phase separation across 1,106 species (Molecular Plant)."
   },
   {
-   "url": "https://phys.org/news/2026-10-ai-reveals-coating-thickness-link.html",
+   "title": "How nature lovers can aid ecology with an assist from AI",
+   "url": "https://phys.org/news/2026-10-nature-lovers-aid-ecology-ai.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-10-12T11:40:20-04:00",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
+   "excerpt": "University of Michigan researchers used ChatGPT and Claude to find and classify species-interaction observations buried in eBird and iNaturalist comments, surfacing signs of nonnative plant spread on the U.S. West Coast; a task taking a student eight hours took Claude six minutes (PNAS)."
+  },
+  {
    "title": "AI reveals how coating thickness changes the link between surface roughness and pitting resistance",
+   "url": "https://phys.org/news/2026-10-ai-reveals-coating-thickness-link.html",
    "source": "Phys.org",
    "category": "science",
-   "published_iso": "2026-10-09T00:00:00Z",
+   "published_iso": "2026-10-09T13:40:01-04:00",
    "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reveals-how-coating.jpg",
-   "excerpt": "Shibaura Institute of Technology researchers used interpretable machine learning (random forest with SHAP and ALE) on 90 steam-coated aluminum specimens to map what drives corrosion pitting resistance. The model suggests the roughness-thickness relationship flips near 2,200 nm, a hypothesis still awaiting experimental confirmation (npj Materials Degradation).",
-   "source_lang": "en",
-   "note": "date-only on page (phys.org archive 09-10-2026); materials axis"
+   "excerpt": "Shibaura Institute of Technology researchers applied interpretable machine learning (random forest with SHAP and ALE analyses) to 90 steam-coated aluminum specimens and found the effect of surface roughness on pitting corrosion reverses near a 2,200 nm film thickness (npj Materials Degradation)."
   },
   {
-   "url": "https://phys.org/news/2026-10-ai-great-lakes.html",
-   "title": "How AI could help predict and explain water levels in the Great Lakes",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-10-06T00:00:00Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/waves-crash-against-th.jpg",
-   "excerpt": "Researchers trained eight machine-learning models on four decades of Great Lakes water-level records and used SHAP and VARS interpretability to identify which climate and flow variables drive lake levels and how long their effects lag (Science of the Total Environment).",
-   "source_lang": "en",
-   "note": "date-only on page (phys.org archive 06-10-2026); Earth-system axis"
-  },
-  {
-   "url": "https://techxplore.com/news/2026-10-ai-custom-decision-software-hour.html",
-   "title": "AI builds custom decision-making software in about an hour instead of months",
+   "title": "Just 10 minutes of AI use may erode persistence on hard tasks",
+   "url": "https://techxplore.com/news/2026-10-minutes-ai-erode-persistence-hard.html",
    "source": "Tech Xplore",
    "category": "science",
-   "published_iso": "2026-10-09T12:20:01-04:00",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ntu-singapore-research-1.jpg",
-   "excerpt": "NTU Singapore's LACE framework, reported in Nature Machine Intelligence, uses large language models to split complex optimization problems into modules and evolve teams of specialized heuristics. On four new maritime logistics problems it reached 97-99% of the best tested methods in about an hour for under US$10 per solution.",
-   "source_lang": "en",
-   "note": "pubDate from techxplore ML RSS"
+   "published_iso": "2026-10-12T07:40:02-04:00",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/just-10-minutes-of-ai.jpg",
+   "excerpt": "Three randomized trials with 1,222 participants found that about 10 minutes of AI assistance raised initial accuracy on math and reading problems, but once the tool was removed, users became less accurate and less persistent than people who never had it (Berkeley/CMU/MIT/Oxford/UCLA, COLM)."
   },
   {
-   "url": "https://techxplore.com/news/2026-10-gay-ai-people-stereotypical-straight.html",
-   "title": "'Make this face look gay': AI models alter faces to give people stereotypical 'gay,' 'straight' or 'criminal' features",
+   "title": "A new approach to sustainable AI: Offloading part of the computational burden onto light",
+   "url": "https://techxplore.com/news/2026-10-approach-sustainable-ai-offloading-burden.html",
    "source": "Tech Xplore",
    "category": "science",
-   "published_iso": "2026-10-08T11:20:38-04:00",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-image-of-a-face-to.jpg",
-   "excerpt": "An EMNLP 2026 study by Ashique KhudaBukhsh's group tested GPT Image 1 Mini and Gemini 2.5 Flash Image on 1,002 synthetic faces. The models refused to infer orientation but complied with edits to make faces 'look gay' or 'straight' over 70% (GPT) and 99% (Gemini) of the time, producing stereotyped features a classifier could detect.",
-   "source_lang": "en",
-   "note": "pubDate from techxplore ML RSS; AI-behavior study"
+   "published_iso": "2026-10-10T06:55:27-04:00",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
+   "excerpt": "Koç University researchers built two photonic systems that move part of AI computation onto light: a programmable optical neural network that learns from experimental measurements (raising skin-lesion classification accuracy from 68% to 98%) and a multimode fiber laser that processes images at 85-99% accuracy with fewer trainable parameters (Communications Engineering / Communications Physics)."
   },
   {
-   "url": "https://techxplore.com/news/2026-10-sync-people-ai-dating-job.html",
-   "title": "Out-of-sync sleep schedules may steer people toward AI for dating and job assessments",
-   "source": "Tech Xplore",
-   "category": "science",
-   "published_iso": "2026-10-06T00:00:00Z",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/social-jetlag-may-make.jpg",
-   "excerpt": "Four online experiments in Computers in Human Behavior found people with more social jet lag preferred AI over human evaluators for dating, job-interview and outfit judgments, driven largely by social anxiety about being judged. The preference weakened when participants were told the AI was subjective and biased.",
-   "source_lang": "en",
-   "note": "date-only (techxplore archive 06-10-2026); psychology axis"
-  },
-  {
-   "url": "https://arxiv.org/abs/2610.08927",
-   "title": "Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
-   "source": "arXiv",
-   "category": "science",
-   "published_iso": "2026-10-06T18:00:39Z",
-   "og_image": "",
-   "excerpt": "Du and Chung test whether multi-agent AI can do open-ended research in Station, a simulated scientific ecosystem, adding a Supervisor mechanism and periodic Meta Reflection to keep agents exploring without clear metrics. Tasks are built from three recent ICLR oral papers, with agents given only the core research question.",
-   "source_lang": "en",
-   "note": "arXiv API <published>; AI co-scientist axis; no og:image"
-  },
-  {
-   "url": "https://www.scientificamerican.com/article/mathematicians-marvel-and-grumble-at-openais-trove-of-new-results/",
-   "title": "Mathematicians marvel, and grumble, at OpenAI's trove of new results",
+   "title": "A unique shape, a 3D einstein tile, has been discovered",
+   "url": "https://www.scientificamerican.com/article/a-unique-shape-a-3d-einstein-tile-has-been-discovered/",
    "source": "Scientific American",
    "category": "science",
-   "published_iso": "2026-10-08T15:00:00-04:00",
-   "og_image": "https://static.scientificamerican.com/dam/asset/c14911ed-1a94-444d-8acb-e8ec3ef8bcb0/Brain-and-math.jpeg?m=1791485742.566&w=1200",
-   "excerpt": "OpenAI's so-called 'slop drop' of hundreds of AI-generated math results includes several groundbreaking proofs, mathematicians say. But how the results were produced remains unclear and contentious.",
-   "source_lang": "en",
-   "note": "math+AI proofs is deprioritized today per plan_notes; keep as backup"
+   "published_iso": "2026-10-12T06:00:00-04:00",
+   "og_image": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+   "excerpt": "AI helped uncover a special object that can fill space without repeating patterns"
   },
   {
-   "url": "https://www.psychologytoday.com/us/blog/combating-climate-dread/202610/can-ai-ease-the-mental-load-of-disaster-recovery",
-   "title": "Can AI Ease the Mental Load of Disaster Recovery?",
-   "source": "Psychology Today",
-   "category": "science",
-   "published_iso": "2026-10-10T14:30:41-04:00",
-   "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-10/wildfire_recovery.png.jpg?itok=Rr7Aew8H",
-   "excerpt": "A wildfire survivor and psychologist argues that, with guardrails, AI can triage disaster-recovery information, tailor next steps, offer brief coping support and route survivors to trusted human help. The post weighs the cognitive load of recovery paperwork against AI's limits.",
-   "source_lang": "en",
-   "note": "opinion/blog; psychology axis"
-  },
-  {
-   "url": "https://www.universetoday.com/articles/honda-wants-to-put-a-robotic-lab-assistant-on-future-commercial-space-stations",
-   "title": "Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations",
-   "source": "Universe Today",
-   "category": "science",
-   "published_iso": "2026-10-11T12:33:57+00:00",
-   "og_image": "https://www.universetoday.com/article_images/Embed_20261007_121216.webp",
-   "excerpt": "Honda is teaming up with Redwire to develop an automated laboratory support system for future commercial space stations, aiming to offload routine experiment handling from astronaut crews whose time is the scarcest resource in orbit.",
-   "source_lang": "en",
-   "note": "lab automation axis; article does not stress AI explicitly, verify AI angle downstream"
-  },
-  {
-   "url": "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
-   "title": "Hybrid Digital Twins Developed for Future Autonomous Labs",
-   "source": "GEN",
-   "category": "science",
-   "published_iso": "2026-10-07T16:00:29Z",
-   "og_image": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg",
-   "excerpt": "South Korean researchers are building a hybrid digital twin that combines mechanistic bioprocess modeling with data-driven AI. They aim for a fully autonomous lab that runs biomanufacturing with minimal human intervention, from academic to larger scales.",
-   "source_lang": "en",
-   "note": "article:published_time; AI lab automation axis"
-  },
-  {
-   "url": "https://allenai.org/blog/colm-2026-recap",
-   "title": "Ai2 at COLM 2026: Open research, from models to agents for science",
-   "source": "Ai2",
-   "category": "science",
-   "published_iso": "2026-10-09T00:00:00-08:00",
-   "og_image": "https://www.datocms-assets.com/64837/1791590717-colm-2026-recap-blog-google-docs-image-1.jpg",
-   "excerpt": "Ai2 recaps its COLM 2026 presence: open language models and training infrastructure plus AI-for-science tools built with domain experts, including Olmo Hybrid, the Asta research agents and Bolmo.",
-   "source_lang": "en",
-   "note": "RSS pubDate; weak (event recap), Bolmo already published 10-10"
-  },
-  {
-   "url": "https://arxiv.org/abs/2610.11883",
-   "title": "legoESM: a modular, differentiable, multiscale, AI-ready Earth system model built with AI agents",
-   "source": "arXiv",
-   "category": "science",
-   "published_iso": "2026-10-08T12:53:19Z",
-   "og_image": "",
-   "excerpt": "legoESM is a composable, differentiable Earth system model in JAX, recast from decades of community parameterizations by AI coding agents under a human-specified scientific contract, targeting cloud-feedback uncertainty in climate response.",
-   "source_lang": "en",
-   "note": "preprint; no og:image"
-  },
-  {
-   "url": "https://arxiv.org/abs/2610.00845",
-   "title": "Is Your AI Fast Enough to Run a Fusion Reactor?",
-   "source": "arXiv",
-   "category": "science",
-   "published_iso": "2026-10-01T00:04:53Z",
-   "og_image": "",
-   "excerpt": "Lessons from ML models deployed for control on the DIII-D tokamak plus a benchmark of ten fusion control/diagnostic networks: above five million parameters CPU backends take tens to thousands of ms, setting a limit for real-time plasma control.",
-   "source_lang": "en",
-   "note": "preprint; no og:image; PACMAN/DIII-D covered 2026-09-03, different angle"
-  },
-  {
-   "url": "https://physicsworld.com/a/drones-ai-and-the-future-of-wildlife-conservation/",
-   "title": "Drones, AI and the future of wildlife conservation",
-   "source": "Physics World",
-   "category": "science",
-   "published_iso": "2026-09-30T09:00:41+00:00",
-   "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/porpoise-2520864833-shutterstock-jonas-aleksander-larsen.jpg",
-   "excerpt": "Robotics and machine learning are opening new possibilities for monitoring and protecting wildlife around the world.",
-   "source_lang": "en"
-  },
-  {
-   "url": "https://www.scientificamerican.com/article/how-attachment-theory-can-help-us-understand-ai-relationships/",
    "title": "How attachment theory can help us understand AI relationships",
+   "url": "https://www.scientificamerican.com/article/how-attachment-theory-can-help-us-understand-ai-relationships/",
    "source": "Scientific American",
    "category": "science",
    "published_iso": "2026-10-04T06:00:00-04:00",
    "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg?m=1785858312.019&w=1200",
-   "excerpt": "Psychologists apply attachment theory, the framework for the relationships that hold lives together, to explain how and why people bond with AI companions.",
-   "source_lang": "en"
+   "excerpt": "Attachment is the term psychologists use for the most significant relationships that hold people’s lives together"
   },
   {
-   "url": "https://www.scientificamerican.com/article/what-makes-a-good-ai-safety-test-experts-explain-why-even-the-best-techniques-may-not-be-powerful-enough/",
-   "title": "What makes a good AI safety test? Experts explain why even the best techniques may not be powerful enough",
-   "source": "Scientific American",
+   "title": "Is 'Attention' the Essence of Intelligence?",
+   "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+   "source": "Quanta Magazine",
    "category": "science",
-   "published_iso": "2026-10-06T10:30:00-04:00",
-   "og_image": "https://static.scientificamerican.com/dam/m/43f87d68eb21cf30/original/Robot_stepping_on_banana_peel.jpg?m=1727190943.601&w=1200",
-   "excerpt": "Researchers explain the science of AI evaluations: 'With today's science we usually can't show with high confidence that dangerous behavior isn't there.'",
-   "source_lang": "en"
+   "published_iso": "2026-10-12T14:20:30+00:00",
+   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Social.jpg",
+   "excerpt": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key?"
   },
   {
-   "url": "https://www.psychologytoday.com/us/blog/the-media-psychology-effect/202610/how-ai-is-influencing-language-and-meaning",
-   "title": "How AI Is Influencing Language and Meaning",
-   "source": "Psychology Today",
+   "title": "'Autonomy always begins with something a human hands it': Who's responsible when an AI agent goes rogue?",
+   "url": "https://www.livescience.com/technology/artificial-intelligence/autonomy-always-begins-with-something-a-human-hands-it-whos-responsible-when-an-ai-agent-goes-rogue",
+   "source": "Live Science",
    "category": "science",
-   "published_iso": "2026-10-10T11:23:40-04:00",
-   "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-10/media_directions_icon.jpg?itok=jHnRKisO",
-   "excerpt": "AI-speak is changing how we use words, introducing new terms and altering the meaning of familiar ones.",
-   "source_lang": "en",
-   "note": "blog post"
+   "published_iso": "2026-10-12T17:08:26Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/wXycGmqDoyb2fmFUGCjvwS-2560-80.jpg",
+   "excerpt": "Hacking incidents by AI agents are creating a legal minefield. The developers and deployers of rogue bots could be held liable."
   },
   {
-   "url": "https://www.livescience.com/technology/artificial-intelligence/openai-claims-weve-entered-the-agi-era-has-gpt-6-astra-really-demonstrated-general-intelligence",
    "title": "OpenAI claims we've entered the AGI era — has GPT-6 Astra really demonstrated general intelligence?",
+   "url": "https://www.livescience.com/technology/artificial-intelligence/openai-claims-weve-entered-the-agi-era-has-gpt-6-astra-really-demonstrated-general-intelligence",
    "source": "Live Science",
    "category": "science",
    "published_iso": "2026-10-08T09:00:00Z",
    "og_image": "https://cdn.mos.cms.futurecdn.net/fy9yCG9mVQfxzAgEFCXPh5-2000-80.jpg",
-   "excerpt": "OpenAI says GPT-6 Astra brings humanity to the threshold of AGI, but external evaluators argue inflated lab metrics and opaque testing obscure its true reliability.",
-   "source_lang": "en",
-   "note": "weak science fit (AI evaluation science)"
+   "excerpt": "OpenAI says its newly launched GPT-6 Astra model brings humanity to the threshold of AGI, but external evaluators argue that inflated lab metrics and opaque testing obscure its true reliability."
+  },
+  {
+   "title": "When Imagining the Future of AI, Gen-Zers Are Not Optimistic",
+   "url": "https://www.psychologytoday.com/us/blog/time-travel-across-borders/202610/when-imagining-the-future-of-ai-gen-zers-are-not-optimistic",
+   "source": "Psychology Today",
+   "category": "science",
+   "published_iso": "2026-10-12T17:18:10-04:00",
+   "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-10/jackson-sophat-tq3sgrw9lkm-unsplash.jpg?itok=4aRwTS5z",
+   "excerpt": "A soon-to-be-published study shows Gen-Zers imagine more worrying than exciting events regarding AI, yet attitudes toward technology and one's politics play a role."
+  },
+  {
+   "title": "The \"Good Enough\" AI",
+   "url": "https://www.psychologytoday.com/us/blog/urban-survival/202610/the-good-enough-ai",
+   "source": "Psychology Today",
+   "category": "science",
+   "published_iso": "2026-10-12T16:48:35-04:00",
+   "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-10/luke-porter-ugx2qdjdkkw-unsplash.jpg?itok=iZF1LPd8",
+   "excerpt": "Winnicott’s ‘good enough’ parent theory offers a way to consider whether certain frictions in our AI interactions might help us grow."
+  },
+  {
+   "title": "The Impact of AI on Who We Are and Who We Become",
+   "url": "https://www.psychologytoday.com/us/blog/modern-life-is-rubbish-or-is-it/202610/the-impact-of-ai-on-who-we-are-and-who-we-become",
+   "source": "Psychology Today",
+   "category": "science",
+   "published_iso": "2026-10-12T10:06:10-04:00",
+   "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-10/screenshot_2026-10-09_at_12.41.46.png.jpg?itok=Zccf1T-k",
+   "excerpt": "AI systems map preferences, patterns, and choices and influence them, too, creating an algorithmic self. We need to use AI consciously to manage threats to the human self."
+  },
+  {
+   "title": "We're putting too much faith in AI's ability to say no",
+   "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+   "source": "MIT Technology Review",
+   "category": "science",
+   "published_iso": "2026-10-09T05:00:00-04:00",
+   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
+   "excerpt": "Today’s LLMs are engineered to disobey dangerous requests. But AI refusal is far from foolproof—and could become an instrument of repression."
+  },
+  {
+   "title": "Multiomics in 2026 and Beyond",
+   "url": "https://www.genengnews.com/topics/omics/multiomics-in-2026-and-beyond/",
+   "source": "GEN",
+   "category": "science",
+   "published_iso": "2026-10-09T15:53:43Z",
+   "og_image": "https://www.genengnews.com/wp-content/uploads/2026/10/GEN_OCT_2026_GettyImages-2204954826-Copy.jpg",
+   "excerpt": "Roadblocks, bottlenecks, and future directions"
+  },
+  {
+   "title": "Energy Department Announces New Genesis Mission Awards to Accelerate Scientific Capability",
+   "url": "https://thequantuminsider.com/2026/10/08/energy-department-announces-new-genesis-mission-awards-to-accelerate-scientific-capability/",
+   "source": "The Quantum Insider",
+   "category": "science",
+   "published_iso": "2026-10-08T14:16:47+00:00",
+   "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-07-at-4.09.45-PM.png",
+   "excerpt": "The Department of Energy announced $159 million for 12 new Phase II Genesis Mission projects using AI and advanced computing."
+  },
+  {
+   "title": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how",
+   "url": "https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/",
+   "source": "STAT",
+   "category": "science",
+   "published_iso": "2026-10-09T08:30:00+00:00",
+   "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/BetsyPleasants_Headshot-1024x576.jpg",
+   "excerpt": "With research on abortion access barriers, STAT Wunderkind Betsy Pleasants is defining a framework for using AI tools without losing sight of the people behind the data."
+  },
+  {
+   "title": "Ai2 at COLM 2026: Open research, from models to agents for science",
+   "url": "https://allenai.org/blog/colm-2026-recap",
+   "source": "Ai2",
+   "category": "science",
+   "published_iso": "2026-10-09T00:00:00-08:00",
+   "og_image": "https://www.datocms-assets.com/64837/1791590717-colm-2026-recap-blog-google-docs-image-1.jpg",
+   "excerpt": "Ai2 joined COLM 2026 to share advances in open language models, training infrastructure, and AI for science, including Olmo Hybrid, the Asta scientific-research agent ecosystem, and Bolmo byte-level models."
   }
  ]
 }
