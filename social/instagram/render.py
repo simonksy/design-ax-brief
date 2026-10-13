@@ -77,7 +77,12 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
 /* 흐름 카드의 타임라인. 여러 날짜·여러 섹션에서 벌어진 일을 한 줄에 세워
    "이건 뉴스 한 건이 아니다"를 첫 장에서 말한다. */
 .thread{position:absolute;inset:0;background:#f2ece1}
-.thread .cap{position:absolute;top:58px;left:0;right:0;text-align:center;
+/* 표지 배지. 같은 계정에서 두 형식이 섞여 나가므로, 넘기기 전에 이게
+   '하나를 따라가는 글'인지 '여러 건을 꿴 글'인지 한눈에 보여야 한다. */
+.thread .pill{position:absolute;top:54px;left:50%%;transform:translateX(-50%%);
+  padding:11px 28px 13px;border-radius:999px;background:%(ACCENT)s;color:#fff;
+  font-size:25px;font-weight:800;letter-spacing:.07em;white-space:nowrap}
+.thread .cap{position:absolute;top:128px;left:0;right:0;text-align:center;
   font-size:25px;font-weight:700;letter-spacing:.06em;color:#8e887c}
 .thread .dot{position:absolute;border-radius:50%%;transform:translate(-50%%,-50%%)}
 .thread .dt{position:absolute;transform:translate(-50%%,-50%%);font-size:24px;
@@ -339,6 +344,7 @@ def media_inner(c, has_video):
         seg = [f'<svg width="{W}" height="{mh}" style="position:absolute;inset:0">'
                f'<polyline fill="none" stroke="#c9bfae" stroke-width="3" points="'
                + " ".join(f"{x:.0f},{base:.0f}" for x in xs) + '"/></svg>']
+        seg.append(f'<div class="pill">{esc(c.get("thread_badge") or "이슈 트렌드")}</div>')
         if c.get("thread_cap"):
             seg.append(f'<div class="cap">{esc(c["thread_cap"])}</div>')
         for (p, x) in zip(pts, xs):
