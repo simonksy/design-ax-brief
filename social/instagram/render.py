@@ -73,12 +73,105 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
 h1{font-size:%(HS)dpx;font-weight:800;line-height:1.26;letter-spacing:-.035em;word-break:keep-all}
 p{margin-top:28px;font-size:%(BS)dpx;line-height:1.72;color:#332f29;word-break:keep-all}
 .cover h1{font-size:84px;line-height:1.2}
-.foot{margin-top:auto;padding-top:%(BR)dpx;padding-bottom:44px;display:flex;align-items:center;
-  justify-content:space-between;font-size:24px;color:#8e887c}
+/* 푸터는 flex + space-between이었는데, 그러면 가운데 항목이 가운데가 아니라
+   좌우 글자 폭에 따라 밀린다 — 1번 장("밀어서 보기")과 2번 장("2026.10.12")의
+   마크가 25px쯤 어긋나 넘길 때 로고가 흔들려 보였다. 1fr auto 1fr로 가운데
+   칸을 카드 한가운데에 못 박는다. */
+.foot{margin-top:auto;padding-top:%(BR)dpx;padding-bottom:44px;
+  display:grid;grid-template-columns:1fr auto 1fr;align-items:center;
+  font-size:24px;color:#8e887c}
+.foot>:nth-child(1){justify-self:start}
+.foot>:nth-child(3){justify-self:end}
 .brand{display:flex;align-items:center;gap:11px;font-weight:700;color:#5a544c}
 .brand img{width:30px;height:30px}
 .pg{font-variant-numeric:tabular-nums;letter-spacing:.04em}
 """
+
+
+# --- outro 카드의 지식 그래프 배경 -------------------------------------------
+# 사이트의 Pro 기능인 지식 그래프를 마지막 장 배경에 깐다. 캡처를 쓰지 않는
+# 이유는 그 화면이 날마다 달라지고 글자가 읽히는 크기로 들어오지 않기
+# 때문이다 — 같은 팔레트로 다시 그리는 쪽이 통제된다.
+NET_CANVAS = 1400        # 정사각 캔버스. 돌려도 모서리가 드러나지 않을 만큼
+                         # 크다(1080x760의 대각선 1320 < 1400).
+NET_BG = "#f2ece1"       # outro 썸네일 칸 바탕과 같은 색
+NET_SEED = 11
+NET_SPIN = 0.045         # rad/s. 12초에 31도 — 눈에 띄되 산만하지 않다.
+NET_DUR = 12
+# 사이트 INSIGHTS_COLORS와 같은 섹션 색. 한쪽만 고치면 색이 어긋난다.
+NET_COLORS = ["#0070f3", "#eb367f", "#7928ca", "#2ec5c5", "#f5a623",
+              "#ff5a4d", "#3aa655", "#9aa8c7", "#ff8a3d", "#00897b"]
+
+
+def network_svg():
+    """노드와 엣지를 한 장의 SVG로 굽는다.
+
+    가운데는 비워 둔다 — 로고와 'AX-it NOW', 주소가 그 위에 앉으므로 노드가
+    들어오면 글자가 읽히지 않는다. 비우는 모양이 원이 아니라 세로로 긴
+    타원인 것은 글 덩어리가 세로로 길기 때문이다."""
+    import math
+    import random
+    rnd = random.Random(NET_SEED)
+    c = NET_CANVAS / 2
+    clear_rx, clear_ry = 250, 330          # 로고·글자가 앉는 빈 자리
+    pts = []
+    while len(pts) < 46:
+        a, r = rnd.uniform(0, math.tau), math.sqrt(rnd.uniform(0, 1)) * 600
+        x, y = c + math.cos(a) * r, c + math.sin(a) * r
+        if ((x - c) / clear_rx) ** 2 + ((y - c) / clear_ry) ** 2 < 1:
+            continue
+        if any((x - px) ** 2 + (y - py) ** 2 < 74 ** 2 for px, py, _ in pts):
+            continue
+        pts.append((x, y, rnd.randrange(len(NET_COLORS))))
+
+    edges = set()
+    for i, (x, y, _) in enumerate(pts):
+        near = sorted(range(len(pts)),
+                      key=lambda j: (pts[j][0] - x) ** 2 + (pts[j][1] - y) ** 2)
+        for j in near[1:3]:
+            edges.add((min(i, j), max(i, j)))
+
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{NET_CANVAS}" '
+           f'height="{NET_CANVAS}" viewBox="0 0 {NET_CANVAS} {NET_CANVAS}">',
+           f'<rect width="{NET_CANVAS}" height="{NET_CANVAS}" fill="{NET_BG}"/>',
+           '<g stroke="#bfb5a4" stroke-width="2.4" stroke-opacity=".55">']
+    for i, j in sorted(edges):
+        out.append(f'<line x1="{pts[i][0]:.1f}" y1="{pts[i][1]:.1f}" '
+                   f'x2="{pts[j][0]:.1f}" y2="{pts[j][1]:.1f}"/>')
+    out.append("</g>")
+    for k, (x, y, ci) in enumerate(pts):
+        r = 8 + (k * 7919 % 11)            # 7~18px, 고르게 흩뿌린다
+        out.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" '
+                   f'fill="{NET_COLORS[ci]}" fill-opacity=".92"/>')
+    out.append("</svg>")
+    return "".join(out)
+
+
+def network_clip(out_dir, mh):
+    """네트워크를 천천히 도는 클립으로 만든다. 프레임을 한 장씩 굽지 않고
+    **한 장을 구워 ffmpeg으로 돌린다** — 12초짜리를 크롬으로 찍으면 360장을
+    따로 띄워야 하고, 그래 봐야 결과는 같은 회전이다."""
+    png = os.path.join(out_dir, "_net.png")
+    svg = os.path.join(out_dir, "_net.svg")
+    open(svg, "w", encoding="utf-8").write(network_svg())
+    shoot(f'<!doctype html><html><head><meta charset="utf-8"><style>'
+          f'*{{margin:0;padding:0}}html,body{{width:{NET_CANVAS}px;'
+          f'height:{NET_CANVAS}px;overflow:hidden}}img{{display:block}}</style>'
+          f'</head><body><img src="file://{svg}"></body></html>', png,
+          size=(NET_CANVAS, NET_CANVAS))
+    clip = os.path.join(out_dir, "_net.mp4")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1",
+                    "-t", str(NET_DUR), "-i", png, "-vf",
+                    # 돌린 뒤 가운데에서 썸네일 칸만큼 베어 낸다. 베어 낸
+                    # 바깥은 같은 크림이라 회전해도 테두리가 생기지 않는다.
+                    f"rotate=a={NET_SPIN}*t:fillcolor=0x{NET_BG[1:]},"
+                    f"crop={W}:{mh}",
+                    "-r", "30", "-c:v", "libx264", "-preset", "medium",
+                    "-crf", "20", "-pix_fmt", "yuv420p", "-an", clip],
+                   check=True)
+    for f in (png, svg):
+        os.path.exists(f) and os.remove(f)
+    return clip
 
 
 def asset(rel):
@@ -167,13 +260,14 @@ def card_html(c, meta, total, has_video):
 </div></body></html>"""
 
 
-def shoot(html, out, transparent=False):
+def shoot(html, out, transparent=False, size=None):
+    w, h = size or (W, H)
     p = os.path.join(POST, "_tmp.html")
     open(p, "w", encoding="utf-8").write(html)
     cmd = [CHROME, "--headless", "--disable-gpu", "--hide-scrollbars"]
     if transparent:
         cmd.append("--default-background-color=00000000")
-    cmd += [f"--window-size={W},{H}", f"--screenshot={out}",
+    cmd += [f"--window-size={w},{h}", f"--screenshot={out}",
             "--virtual-time-budget=5000", "--allow-file-access-from-files", "file://" + p]
     subprocess.run(cmd, capture_output=True)
     os.path.exists(p) and os.remove(p)
@@ -210,16 +304,24 @@ def main():
     out_dir = os.path.join(POST, "out")
     os.makedirs(out_dir, exist_ok=True)
     for c in cards:
-        n, has_video = c["n"], bool(c.get("video"))
+        n = c["n"]
         mh = media_height(c)
         if _lines(c.get("body", ""), _sizes(c)[1]) > 3:
             print(f"  ! card{n}: 본문이 세 줄을 넘는다 — 줄여야 한다")
+        # outro는 지식 그래프가 천천히 도는 배경을 스스로 만든다.
+        # `"network": false`로 끄면 예전처럼 정지 카드로 나온다.
+        scratch = None
+        if c.get("kind") == "outro" and c.get("network") is not False:
+            scratch = network_clip(out_dir, mh)
+            c = dict(c, video=scratch)
+        has_video = bool(c.get("video"))
         if has_video:
             ov = os.path.join(out_dir, f"_ov{n}.png")
             shoot(card_html(c, meta, len(cards), True), ov, transparent=True)
             out = os.path.join(out_dir, f"card{n}.mp4")
             compose(c, ov, out, mh)
             os.remove(ov)
+            scratch and os.path.exists(scratch) and os.remove(scratch)
             kind = "MP4"
         else:
             out = os.path.join(out_dir, f"card{n}.png")
