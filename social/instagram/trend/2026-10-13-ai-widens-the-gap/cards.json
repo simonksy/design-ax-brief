@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "issue": "AI는 결과물을 올리고, 실력은 올리지 않는다",
+    "date": "2026.10.13",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "같은 주에 나온 두 연구가 정반대 쪽에서 같은 결론에 닿았다. 하나는 학생 1,222명, 하나는 특허 변호사 133명 — 둘 다 'AI를 치웠을 때' 무슨 일이 생기는지를 쟀다.",
+    "sources": [
+      "https://www.eurekalert.org/news-releases/1147258",
+      "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html",
+      "https://techxplore.com/news/2026-10-ai-custom-decision-software-hour.html"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "사흘 · 다섯 건 · 치웠을 때를 쟀다",
+      "thread": [
+        {
+          "d": "10.10",
+          "t": "10분",
+          "c": "#3aa655",
+          "s": "SCIENCE",
+          "big": true
+        },
+        {
+          "d": "10.11",
+          "t": "변호사 133명",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.11",
+          "t": "수학자들",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.11",
+          "t": "기후 자문",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.12",
+          "t": "몇 달→한 시간",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "결과물은 올랐는데, AI를 치우자 7년 미만에게는 남은 것이 없었다",
+      "eyebrow": "흐름 · AI와 실력",
+      "headline": "AI는 결과물을 올린다. 실력은 아니다",
+      "body": "같은 주에 두 연구가 정반대 쪽에서 같은 자리에 닿았다. 둘 다 잘하게 됐는지가 아니라 치웠을 때 남는지를 물었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "① 학생 1,222명",
+      "headline": "10분의 AI 도움이 끈기를 깎았다",
+      "body": "버클리·CMU·MIT·옥스퍼드·UCLA 연구진이 세 실험에서 1,222명을 쟀다. AI를 쓴 쪽은 처음엔 잘했지만 도구를 치우자 곧 포기했다.",
+      "foot": "2026.10.10",
+      "_src": "https://www.eurekalert.org/news-releases/1147258",
+      "_id": "science-ai-help-persistence",
+      "media": "pipeline/media/science-ai-help-persistence.jpg",
+      "stat_top": "10분",
+      "stat_arrow": "AI를 치우자 정확도도 끈기도",
+      "stat_bottom": "무너졌다",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "② 특허 변호사 133명",
+      "headline": "7년 차 이상만 실력이 남았다",
+      "body": "로펌 11곳에서 석 달간 진행한 무작위 시험이다. AI를 치운 과제에서 7년 차 이상은 0.45 표준편차가 남았고, 7년 미만은 남은 것이 없었다.",
+      "foot": "2026.10.11",
+      "_src": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "_id": "science-patent-attorney-ai-rct",
+      "media": "pipeline/media/science-patent-attorney-ai-rct.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "③ 당사자들의 고민",
+      "headline": "수학자들이 AI의 속도 앞에 멈춰 섰다",
+      "body": "풀어 주는 것과 알게 되는 것이 같지 않다는 문제에 분야 전체가 부딪혔다. 증명을 누가 이해해야 하는가가 남는다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "_id": "science-quanta-math-ai-reckoning",
+      "media": "pipeline/media/science-quanta-math-ai-reckoning.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "④ 새것을 밀어 주지 않는다",
+      "headline": "챗봇은 기존 계획 편을 들었다",
+      "body": "기후 정책을 물으면 새로운 안보다 이미 있는 계획을 지지하는 쪽으로 기울었다. 평균을 말하는 모델은 평균을 지킨다.",
+      "foot": "2026.10.11",
+      "_src": "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html",
+      "_id": "science-chatbots-climate-status-quo",
+      "media": "pipeline/media/science-chatbots-climate-status-quo.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "⑤ 그래도 빨라지는 쪽",
+      "headline": "몇 달 걸리던 최적화를 한 시간에",
+      "body": "LLM이 휴리스틱을 직접 짜면서 작업 시간이 몇 달에서 한 시간으로 줄었다. 결과물은 분명히 올라간다 — 그게 이 흐름의 어려운 지점이다.",
+      "foot": "2026.10.12",
+      "_src": "https://techxplore.com/news/2026-10-ai-custom-decision-software-hour.html",
+      "_id": "science-ntu-lace-llm-heuristics",
+      "media": "pipeline/media/science-ntu-lace-llm-heuristics.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

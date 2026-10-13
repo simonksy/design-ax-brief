@@ -5369,6 +5369,7 @@
   "medicine",
   "politics"
 ];
+  window.AX_ARCHIVE_TOTAL = 2900;
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [
   {

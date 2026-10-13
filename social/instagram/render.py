@@ -30,8 +30,10 @@ W, H = 1080, 1350
 MEDIA_H = 760            # 썸네일 자리의 최대 높이. 글이 길면 이보다 줄어든다.
 PAD_X, PAD_TOP = 68, 52
 TEXT_W = W - PAD_X * 2
-FOOT_H = 24 + 44         # 푸터 글자 + 아래 여백
+FOOT_H = 28 + 44         # 푸터 글자 + 아래 여백
 BREATH = 46              # 본문과 푸터 사이 최소 숨
+COVER_HS = 86            # 첫 장 제목 크기. CSS의 .cover h1과 같아야 한다 —
+                         # 어긋나면 높이 계산이 틀려 푸터가 밀린다.
 CREAM = "#fbf8f3"
 # 로고의 시그널 오렌지. outro 한 장만 섹션 액센트 대신 이 색을 쓴다 — 마지막
 # 장은 그 회차의 섹션이 아니라 브랜드를 말하는 자리고, 섹션색을 쓰면 마크의
@@ -51,6 +53,7 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
   justify-content:center;gap:18px;color:#f4f0e9}
 .stat .big{font-size:96px;font-weight:800;letter-spacing:-.03em;line-height:1}
 .stat .was{opacity:.5;text-decoration:line-through;text-decoration-thickness:5px}
+.stat .top{opacity:.62}
 .stat .mid{font-size:30px;opacity:.72;letter-spacing:.02em}
 .stat .now{color:%(ACCENT)s}
 .quote{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;
@@ -64,31 +67,51 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
    뒤로 지나갈지 미리 알 수 없다 — 노드를 비켜 놓는 대신 글자 쪽에 바탕을
    깔아야 회전 내내 읽힌다. */
 .brandblock{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;
-  justify-content:center;gap:28px;
-  background:radial-gradient(ellipse 330px 300px at 50%% 50%%,
-    rgba(242,236,225,.96) 42%%, rgba(242,236,225,0) 100%%)}
-.brandblock img{width:272px;height:272px}
-.brandblock .wm{font-size:58px;font-weight:800;letter-spacing:-.035em;color:#3a352e}
-.brandblock .url{font-size:35px;font-weight:700;color:%(ACCENT)s}
+  justify-content:center;gap:26px;
+  background:radial-gradient(ellipse 250px 215px at 50%% 50%%,
+    rgba(242,236,225,.95) 46%%, rgba(242,236,225,0) 100%%)}
+/* 마크를 원으로 자른다. 앱 아이콘의 둥근 사각형은 네트워크 한가운데 놓으면
+   혼자 각이 져서 떠 보인다 — 주변이 전부 원형 노드이기 때문이다. */
+.brandblock img{width:238px;height:238px;border-radius:50%%}
+.brandblock .wm{font-size:54px;font-weight:800;letter-spacing:-.035em;color:#3a352e}
+/* 흐름 카드의 타임라인. 여러 날짜·여러 섹션에서 벌어진 일을 한 줄에 세워
+   "이건 뉴스 한 건이 아니다"를 첫 장에서 말한다. */
+.thread{position:absolute;inset:0;background:#f2ece1}
+/* 표지 배지. 같은 계정에서 두 형식이 섞여 나가므로, 넘기기 전에 이게
+   '하나를 따라가는 글'인지 '여러 건을 꿴 글'인지 한눈에 보여야 한다. */
+.thread .pill{position:absolute;top:54px;left:50%%;transform:translateX(-50%%);
+  padding:11px 28px 13px;border-radius:999px;background:%(ACCENT)s;color:#fff;
+  font-size:25px;font-weight:800;letter-spacing:.07em;white-space:nowrap}
+.thread .cap{position:absolute;top:128px;left:0;right:0;text-align:center;
+  font-size:25px;font-weight:700;letter-spacing:.06em;color:#8e887c}
+.thread .dot{position:absolute;border-radius:50%%;transform:translate(-50%%,-50%%)}
+.thread .dt{position:absolute;transform:translate(-50%%,-50%%);font-size:24px;
+  font-weight:800;color:#5a544c;font-variant-numeric:tabular-nums}
+.thread .lb{position:absolute;transform:translateX(-50%%);width:188px;text-align:center;
+  font-size:25px;font-weight:600;line-height:1.3;color:#332f29;word-break:keep-all}
+.thread .sc{position:absolute;transform:translateX(-50%%);width:188px;text-align:center;
+  font-size:20px;font-weight:700;letter-spacing:.08em}
+.thread .nt{position:absolute;left:%(PX)dpx;right:%(PX)dpx;text-align:center;
+  font-size:28px;line-height:1.5;color:#5a544c;word-break:keep-all}
 /* 글 자리. 한글은 아무 데서나 접히면 읽기 나쁘다 — 띄어쓰기에서만 접어 폭을 끝까지 쓴다.
    제목에 수동 줄바꿈을 넣지 않는 이유도 같다: 넣으면 폭을 반만 쓰고 접힌다. */
 .body{height:%(BH)dpx;padding:%(PT)dpx %(PX)dpx 0;display:flex;flex-direction:column;
   background:%(CREAM)s}
 .eyebrow{font-size:25px;font-weight:700;letter-spacing:.06em;color:%(ACCENT)s;margin-bottom:20px}
-h1{font-size:%(HS)dpx;font-weight:800;line-height:1.26;letter-spacing:-.035em;word-break:keep-all}
+h1{font-size:%(HS)dpx;font-weight:900;line-height:1.24;letter-spacing:-.04em;word-break:keep-all}
 p{margin-top:28px;font-size:%(BS)dpx;line-height:1.72;color:#332f29;word-break:keep-all}
-.cover h1{font-size:84px;line-height:1.2}
+.cover h1{font-size:%(CHS)dpx;line-height:1.18}
 /* 푸터는 flex + space-between이었는데, 그러면 가운데 항목이 가운데가 아니라
    좌우 글자 폭에 따라 밀린다 — 1번 장("밀어서 보기")과 2번 장("2026.10.12")의
    마크가 25px쯤 어긋나 넘길 때 로고가 흔들려 보였다. 1fr auto 1fr로 가운데
    칸을 카드 한가운데에 못 박는다. */
 .foot{margin-top:auto;padding-top:%(BR)dpx;padding-bottom:44px;
   display:grid;grid-template-columns:1fr auto 1fr;align-items:center;
-  font-size:24px;color:#8e887c}
+  font-size:28px;color:#8e887c}
 .foot>:nth-child(1){justify-self:start}
 .foot>:nth-child(3){justify-self:end}
 .brand{display:flex;align-items:center;gap:11px;font-weight:700;color:#5a544c}
-.brand img{width:30px;height:30px}
+.brand img{width:34px;height:34px}
 .pg{font-variant-numeric:tabular-nums;letter-spacing:.04em}
 """
 
@@ -112,6 +135,9 @@ NET_SWEEP = 0.85         # 전체 회전량(rad) ≈ 49도. 10초에 걸쳐 돈�
 NET_FPS = 15
 NET_FRAMES = 150
 NET_GRID = (5, 6)        # 시트 한 장에 담는 타일(열, 행). 30장 × 5시트 = 150
+# 로고와 이어 붙일 노드. 피보나치 배치라 번호를 고르게 띄우면 위도도 고르게
+# 퍼진다. 뒤쪽으로 돌아간 살은 짧아져 로고 밑으로 숨는다 — 그게 자연스럽다.
+HUB_NODES = (2, 8, 14, 20, 26, 32, 38, 44, 50)
 # 사이트 INSIGHTS_COLORS와 같은 섹션 색. 한쪽만 고치면 색이 어긋난다.
 NET_COLORS = ["#0070f3", "#eb367f", "#7928ca", "#2ec5c5", "#f5a623",
               "#ff5a4d", "#3aa655", "#9aa8c7", "#ff8a3d", "#00897b"]
@@ -160,6 +186,16 @@ def _net_frame(pts, edges, angle, h):
         proj.append((cx + X * NET_R, cy + Y * NET_R, (Z + 1) / 2, ci, base))
 
     layers = []
+    # 허브 살. 가운데 로고를 '그래프 밖에 얹힌 그림'이 아니라 **네트워크의 한
+    # 노드**로 보이게 한다. 바깥 끝은 노드와 함께 돌고 안쪽 끝은 로고에 고정돼
+    # 있어서, 도는 동안 로고가 망을 쥐고 있는 것처럼 읽힌다. 살의 안쪽은
+    # 불투명한 로고 원이 덮으므로 따로 잘라낼 필요가 없다.
+    for i in HUB_NODES:
+        hx, hy, hd, _, _ = proj[i]
+        layers.append((hd, f'<line x1="{cx:.1f}" y1="{cy:.1f}" x2="{hx:.1f}" '
+                           f'y2="{hy:.1f}" stroke="#a89c88" '
+                           f'stroke-width="{1.6 + 1.6 * hd:.2f}" '
+                           f'stroke-opacity="{0.14 + 0.40 * hd:.3f}"/>'))
     for i, j in edges:
         ax, ay, az, _, _ = proj[i]
         bx, by, bz, _, _ = proj[j]
@@ -245,8 +281,11 @@ def esc(s):
 
 
 def _sizes(c):
+    """제목은 크고 두껍게. 캐러셀은 피드에서 손가락만 한 크기로 지나가므로,
+    제목이 본문만 해지면 넘길 이유가 사라진다 — 한 장에서 읽히는 것은 사실상
+    제목 하나다. 본문은 제목을 거드는 자리라 키우지 않는다."""
     hl, bl = len(c.get("headline", "")), len(c.get("body", ""))
-    return (58 if hl > 24 else (64 if hl > 18 else 70)), (34 if bl > 72 else 36)
+    return (62 if hl > 24 else (70 if hl > 18 else 76)), (34 if bl > 72 else 36)
 
 
 def _lines(text, size):
@@ -260,11 +299,20 @@ def media_height(c):
     처음에는 높이를 고정했다가 본문이 긴 카드에서 푸터가 화면 밖으로 밀렸다 —
     거기 출처가 들어가므로 잘리면 출처 표기가 사라진다."""
     hs, bs = _sizes(c)
+    # 첫 장은 CSS(.cover h1)가 제목 크기를 덮어쓴다. 여기서 작은 값으로 재면
+    # 글 자리를 모자라게 잡아 푸터가 아래로 밀린다 — 첫 장의 푸터만 다른
+    # 자리에 서 있던 원인이 이것이었다.
+    if c.get("kind") in ("cover", "thread"):
+        hs = COVER_HS
     need = (PAD_TOP + 45
-            + _lines(c.get("headline", ""), hs) * hs * 1.26
+            + _lines(c.get("headline", ""), hs) * hs * 1.24
             + 28 + _lines(c.get("body", ""), bs) * bs * 1.72
             + FOOT_H + BREATH)
-    return int(max(540, min(MEDIA_H, H - need)))
+    # 반드시 짝수로 떨어뜨린다. 이 값이 그대로 ffmpeg의 crop 높이가 되는데,
+    # libx264는 홀수 높이를 거부한다("height not divisible by 2"). 글 길이에
+    # 따라 계산되는 값이라 어느 날 우연히 홀수가 되면 그날 렌더가 통째로
+    # 멈춘다 — 실제로 푸터 글씨를 키우자 747이 나와 멈췄다.
+    return int(max(540, min(MEDIA_H, H - need))) // 2 * 2
 
 
 def media_inner(c, has_video):
@@ -273,19 +321,53 @@ def media_inner(c, has_video):
     if has_video and k in ("stat", "quote"):
         out.append('<div class="scrim"></div>')
     if k == "stat":
+        # 취소선은 'A였던 것이 B가 됐다'일 때만 뜻이 맞는다. 'A로 B를 했다'
+        # 류에 그으면 위쪽 값이 부정된 것처럼 읽힌다 — stat_strike로 끈다.
+        was = "big was" if c.get("stat_strike", True) else "big top"
         out.append('<div class="stat">'
-                   f'<div class="big was">{esc(c["stat_top"])}</div>'
+                   f'<div class="{was}">{esc(c["stat_top"])}</div>'
                    f'<div class="mid">{esc(c["stat_arrow"])}</div>'
                    f'<div class="big now">{esc(c["stat_bottom"])}</div></div>')
     elif k == "quote":
         out.append('<div class="quote"><div class="mark">“</div>'
                    f'<div class="q">{esc(c["quote"])}</div>'
                    f'<div class="by">{esc(c["quote_by"])}</div></div>')
+    elif k == "thread":
+        pts = c["thread"]
+        n = len(pts)
+        mh = media_height(c)       # 본문이 길면 칸이 줄어든다 — 상수를 쓰면 어긋난다
+        base = mh * 0.54
+        # 라벨 폭이 188이므로 양 끝을 94 이상 안쪽에 둔다. 끝까지 밀면 마지막
+        # 라벨이 카드 밖으로 잘린다.
+        edge = 100
+        xs = [edge + i * (W - edge * 2) / (n - 1) for i in range(n)]
+        seg = [f'<svg width="{W}" height="{mh}" style="position:absolute;inset:0">'
+               f'<polyline fill="none" stroke="#c9bfae" stroke-width="3" points="'
+               + " ".join(f"{x:.0f},{base:.0f}" for x in xs) + '"/></svg>']
+        seg.append(f'<div class="pill">{esc(c.get("thread_badge") or "이슈 트렌드")}</div>')
+        if c.get("thread_cap"):
+            seg.append(f'<div class="cap">{esc(c["thread_cap"])}</div>')
+        for (p, x) in zip(pts, xs):
+            r = 15 if p.get("big") else 11
+            seg.append(f'<div class="dot" style="left:{x:.0f}px;top:{base:.0f}px;'
+                       f'width:{r*2}px;height:{r*2}px;background:{p["c"]}"></div>')
+            seg.append(f'<div class="dt" style="left:{x:.0f}px;top:{base-54:.0f}px">'
+                       f'{esc(p["d"])}</div>')
+            seg.append(f'<div class="lb" style="left:{x:.0f}px;top:{base+34:.0f}px">'
+                       f'{esc(p["t"])}</div>')
+            # 섹션 꼬리표. 이 회차의 요점이 "여러 섹션에 흩어져 있었다"는
+            # 것이므로, 그림에서 그게 보이지 않으면 타임라인일 뿐이다.
+            if p.get("s"):
+                seg.append(f'<div class="sc" style="left:{x:.0f}px;top:{base+84:.0f}px;'
+                           f'color:{p["c"]}">{esc(p["s"])}</div>')
+        if c.get("thread_note"):
+            seg.append(f'<div class="nt" style="top:{base+168:.0f}px">'
+                       f'{esc(c["thread_note"])}</div>')
+        out.append('<div class="thread">' + "".join(seg) + "</div>")
     elif k == "outro":
         out.append('<div class="brandblock">'
                    f'<img src="{asset("favicon.svg")}">'
-                   '<div class="wm">AX-it NOW</div>'
-                   '<div class="url">axitnow.com</div></div>')
+                   '<div class="wm">AX-it NOW</div></div>')
     elif not has_video and c.get("media"):
         out.insert(0, f'<img src="{asset(c["media"])}">')
     return "".join(out)
@@ -298,13 +380,16 @@ def card_html(c, meta, total, has_video):
     # 영상 카드는 썸네일 자리를 투명하게 비워 둔다 — 그 자리에 영상이 들어간다.
     mbg = "transparent" if has_video else (
         "#17150f" if k == "stat" else (meta["accent"] if k == "quote" else (
-            "#f2ece1" if k == "outro" else "#e9e3d8")))
+            "#f2ece1" if k in ("outro", "thread") else "#e9e3d8")))
     accent = BRAND_ACCENT if k == "outro" else meta["accent"]
     css = CSS % {"W": W, "H": H, "MH": mh, "BH": H - mh, "PT": PAD_TOP, "PX": PAD_X,
                  "BR": BREATH, "ACCENT": accent, "HS": hs, "BS": bs,
-                 "CREAM": CREAM, "PAGE": "transparent" if has_video else CREAM,
+                 "CREAM": CREAM, "CHS": COVER_HS,
+                 "PAGE": "transparent" if has_video else CREAM,
                  "MBG": mbg}
-    cover = " cover" if k == "cover" else ""
+    # thread도 첫 장이므로 커버 크기를 쓴다. 안 그러면 흐름 회차의 첫 장만
+    # 제목이 작아져 같은 계정에서 두 가지 서체 크기가 섞인 것처럼 보인다.
+    cover = " cover" if k in ("cover", "thread") else ""
     counter = f'{c["n"]} / {total}' if c.get("n") else ""
     return f"""<!doctype html><html lang="ko"><head><meta charset="utf-8"><style>{css}</style></head>
 <body><div class="media">{media_inner(c, has_video)}</div>
@@ -345,8 +430,12 @@ def compose(card, overlay, out, mh):
         args += ["-t", str(card["dur"])]          # -t 는 -i 앞이다. 뒤에 두면 안 먹는다.
     # 제작사 클립에는 타임코드나 로고가 아래쪽에 구워져 있는 경우가 있다.
     # trim_bottom(비율)으로 그 띠를 먼저 잘라낸다 — 올리기 전에 지워야 한다.
+    # 방송 클립은 위쪽에 방송사 로고와 'Courtesy of…' 띠가, 제작사 클립은
+    # 아래쪽에 타임코드가 구워져 있다. 어느 쪽이든 올리기 전에 잘라낸다 —
+    # 남의 워터마크를 얹은 채로 내 카드를 내보낼 수는 없다.
+    tt = float(card.get("trim_top") or 0)
     tb = float(card.get("trim_bottom") or 0)
-    pre = f"crop=iw:ih*{1 - tb:.4f}:0:0," if tb else ""
+    pre = (f"crop=iw:ih*{1 - tt - tb:.4f}:0:ih*{tt:.4f},") if (tt or tb) else ""
     args += ["-i", src, "-i", overlay,
              "-filter_complex",
              # 소스가 작을 수 있으므로 상자를 '덮도록' 키운 뒤 가운데를 자른다.
@@ -387,6 +476,14 @@ def main():
             out = os.path.join(out_dir, f"card{n}.png")
             shoot(card_html(c, meta, len(cards), False), out)
             kind = "PNG"
+        # 같은 번호의 다른 확장자가 남아 있으면 지운다. 카드 종류를 바꾸면
+        # (영상 커버 → thread 그림) 예전 파일이 그대로 남아, 올릴 때 어느
+        # 쪽이 최신인지 알 수 없게 된다 — 실제로 card1.mp4와 card1.png가
+        # 한 폴더에 같이 있었다.
+        stale = os.path.join(out_dir, f"card{n}." + ("png" if has_video else "mp4"))
+        if os.path.exists(stale):
+            os.remove(stale)
+            print(f"  · 묵은 card{n}.{'png' if has_video else 'mp4'} 지움")
         print(f"card{n}  {kind}  {os.path.getsize(out)//1024}KB")
 
 

@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "issue": "만드는 값은 무너졌는데, 관객에게 가는 길만 그대로다",
+    "date": "2026.10.13",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "한 작품이 아니라 한 흐름이다. 아카이브에서 AI 장편 네 건을 꿰면 '제작비보다 상금이 아홉 배 큰' 구간이 드러난다. 양쪽이 같은 '문' 비유를 정반대로 쓴 것도 두 기사를 나란히 놓아야 보인다.",
+    "sources": [
+      "Variety — ‘Merry the Christmas Witch’ Director Estimated Movie Would Cost $80 Million (2026.10.12)",
+      "TW3 Entertainment — Merry the Christmas Witch 프로젝트 페이지 및 퍼스트룩 영상",
+      "Euronews — Latvian filmmaker wins €400,000 grand prix at Kazakhstan's AI film festival (2026.10.06)",
+      "Businesswire — Fountain 0, ‘Odysseus: The Fall’ 공개 (2026.09.16)",
+      "The Verge · Futurism · Kotaku — ‘Odysseus: The Fall’ 리뷰 (2026.09)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_cap": "아카이브에서 꿴 네 건 · AI 장편, 2026년 가을",
+      "thread": [
+        {
+          "d": "9.16",
+          "t": "135분 공개",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "9.17",
+          "t": "혹평",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.6",
+          "t": "상금 45만",
+          "c": "#7928ca",
+          "s": "MOVIES",
+          "big": true
+        },
+        {
+          "d": "10.12",
+          "t": "150만에 완성",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.13",
+          "t": "배급사 없음",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "제작비보다 상금이 아홉 배 크다. 그런데 관객에게 가는 길은 아직 비어 있다",
+      "eyebrow": "흐름 · AI 장편",
+      "headline": "만드는 값은 무너졌다. 그다음이 비어 있다",
+      "body": "한 달 사이에 나온 AI 장편 네 건을 나란히 놓아 봤다. 돈도 상도 왔는데, 관객에게 닿는 자리만 그대로였다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "video": "src/01-pumpkin.mp4",
+      "trim_bottom": 0.13,
+      "eyebrow": "문이 열리지 않았다",
+      "headline": "8,000만 달러 견적을 150만에 찍었다",
+      "body": "“문이 잘 열리지 않는다. 그래서 AI가 들어왔다.” 감독 Tom Walsh의 말이다. 10개월, 50명이 붙었다.",
+      "foot": "2026.10.12"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "video": "pipeline/media/astana-ai-film-grand-prix.mp4",
+      "trim_top": 0.19,
+      "stat_top": "제작비 5만 달러",
+      "stat_arrow": "그 아홉 배가 걸린 상금",
+      "stat_bottom": "45만 달러",
+      "eyebrow": "이제 문을 두드릴 필요가 없다",
+      "headline": "8,000편이 몰린 첫 AI 영화제",
+      "body": "125개국에서 출품됐고 라트비아 감독 Nikolay Shestak이 대상을 받았다. 주최 측은 “제작사 문을 두드릴 필요가 없어졌다”고 했다.",
+      "foot": "2026.10.06"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "video": "pipeline/media/movies-ai-odyssey.mp4",
+      "eyebrow": "그런데 평이 따라오지 않는다",
+      "headline": "5만 달러로 만든 135분, 혹평으로 끝났다",
+      "body": "Fountain 0의 「Odysseus: The Fall」은 일관성도 연기도 리듬도 무너진다는 평을 받았다.",
+      "foot": "2026.09.17"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "video": "src/05-brooms.mp4",
+      "trim_bottom": 0.13,
+      "eyebrow": "그래서 지금",
+      "headline": "열린 문 너머에, 아직 관객이 없다",
+      "body": "150만 달러로 완성한 「Merry」는 아직 배급사를 찾지 못했다. AI가 무너뜨린 것은 만드는 값이지, 보게 만드는 값이 아니었다.",
+      "foot": "2026.10.13"
+    },
+    {
+      "n": 6,
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": ""
+    }
+  ]
+}

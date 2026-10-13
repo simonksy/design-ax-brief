@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "issue": "Suno를 오토튠처럼 쓰는 가수들",
+    "date": "2026.10.13",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "‘AI가 만든 음악’ 논쟁과 다른 이야기다. 이들은 먼저 부르고 나서 AI를 건다.",
+    "sources": [
+      "Dazed — Suno is the new Auto-Tune: meet the artists using AI to go viral (2026.10.13)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "pipeline/media/music-suno-new-autotune-viral-artists.jpg",
+      "eyebrow": "AI × 음악 · 2026.10.13",
+      "headline": "먼저 부르고, 그다음 Suno에 넣는다",
+      "body": "얼굴을 가린 래퍼 둘이 AI로 목소리만 바꿔 틱톡을 덮었다. ‘AI가 만든 음악’과는 다른 이야기다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "quote",
+      "quote": "내가 노래를 부르고\nSuno에 넣어 목소리를 바꾼 뒤\n믹스는 내가 한다",
+      "quote_by": "Zemi · Dazed 인터뷰",
+      "eyebrow": "순서가 다르다",
+      "headline": "생성이 아니라 변조다",
+      "body": "Zemi는 2025년에 AI 아바타로 방향을 틀기 전까지 프로듀서로 10억 회에 가까운 스트리밍을 올렸다고 말한다.",
+      "foot": "2026.10.13",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "얼굴 없음",
+      "stat_arrow": "그래도 틱톡에서",
+      "stat_bottom": "‘40’s’",
+      "stat_strike": false,
+      "eyebrow": "결과",
+      "headline": "가면을 쓴 채로 바이럴을 탔다",
+      "body": "Kilo Kent의 ‘40’s’는 틱톡에서 퍼졌고 스트리밍이 수십만에서 수백만까지 올라갔다. 둘 다 카메라 앞에 얼굴을 내지 않는다.",
+      "foot": "2026.10.13",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "재료를 손질하고\n간을 맞춘 다음\n오븐에 넣는 것이다",
+      "quote_by": "Kilo Kent · Dazed 인터뷰",
+      "eyebrow": "그들의 선 긋기",
+      "headline": "“기계가 다 만든 슬롭과는 다르다”",
+      "body": "Kilo는 요리에 빗대 설명한다. 둘 다 Suno를 오토튠이나 리버브 같은 기존 제작 도구와 같은 줄에 놓는다.",
+      "foot": "2026.10.13",
+      "n": 4
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

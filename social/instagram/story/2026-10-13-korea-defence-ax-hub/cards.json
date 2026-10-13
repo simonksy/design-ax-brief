@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "issue": "한국군의 첫 AI 전환 거점이 판교에 열렸다",
+    "date": "2026.10.13",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "한 건을 끝까지 따라간다. 거점 하나가 아니라 다섯 개짜리 그림이다.",
+    "sources": [
+      "연합뉴스 · 뉴스핌 · 아주경제 — 국방부 첫 국방 AX 거점 개소 (2026.10.12)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "pipeline/media/politics-korea-military-ax-hub-pangyo.jpg",
+      "eyebrow": "AI × 정책 · 2026.10.13",
+      "headline": "한국군 첫 AI 전환 거점이 판교에 열렸다",
+      "body": "10월 12일 판교 테크노밸리에서 개소식이 열렸다. 거점 하나가 아니라 다섯 개짜리 그림의 첫 칸이다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "거점 다섯 곳",
+      "stat_arrow": "그중 문을 연 곳은",
+      "stat_bottom": "판교 한 곳",
+      "stat_strike": false,
+      "eyebrow": "그림의 크기",
+      "headline": "합참과 각 군이 하나씩 맡는다",
+      "body": "육군 판교가 먼저 열렸고 주관기관은 아주대다. 합참 용산, 육군 대전, 해군·해병대 부산, 공군 양재가 남았다.",
+      "foot": "2026.10.12",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "세계 최고 수준의\n국방 피지컬 AI 허브",
+      "quote_by": "국방부 · 개소식 발표",
+      "eyebrow": "무엇을 하나",
+      "headline": "로봇에게 군의 데이터를 먹인다",
+      "body": "데이터를 모아 AI 모델을 학습시킨 뒤 휴머노이드와 다족형 로봇에 태워 실증한다. 지뢰 제거와 폭발물 처리가 먼저 거론됐다.",
+      "foot": "2026.10.12",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "대학이 하나씩",
+      "stat_arrow": "거점마다 붙는 주관기관",
+      "stat_bottom": "아주·고려·KAIST·UNIST·서울",
+      "stat_strike": false,
+      "eyebrow": "어떻게 나눴나",
+      "headline": "거점마다 다른 주제를 맡겼다",
+      "body": "용산은 비밀데이터 기반 지휘통제, 대전은 에이전틱 AI, 부산은 지능형 군수지원, 양재는 표적 자동식별을 맡는다.",
+      "foot": "2026.10.12",
+      "n": 4
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

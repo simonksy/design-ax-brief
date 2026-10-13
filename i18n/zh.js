@@ -142,7 +142,7 @@ window.AX_I18N = {
  "pro.cta_active": "Pro 使用中",
  "pro.cta_active_short": "Pro ✓",
  "pro.cta_short": "Pro",
- "pro.row_archive": "迄今全部卡片(2,400+)",
+ "pro.row_archive": "迄今全部卡片({n}+)",
  "pro.row_cards": "每日卡片数",
  "pro.row_cards_note": "每个分类:免费1张 · Pro 5张",
  "pro.row_deep": "阅读全文",

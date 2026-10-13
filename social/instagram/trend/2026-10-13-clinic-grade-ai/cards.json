@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "issue": "의료 AI가 데모에서 임상시험으로 넘어가는 중이다",
+    "date": "2026.10.13",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "사흘 사이 의료 섹션의 다섯 건이 전부 '허가·시험·대조'라는 같은 단계를 가리켰다. 잘한다는 주장에서 재고 비교하는 단계로 넘어간 것이다.",
+    "sources": [
+      "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
+      "https://www.nature.com/articles/s41746-026-03232-x",
+      "https://radiologybusiness.com/topics/artificial-intelligence/radiology-ai-authorizations-rise-42-regulatory-landscape-evolves",
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.35794",
+      "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "사흘 · 다섯 건 · 재는 단계로",
+      "thread": [
+        {
+          "d": "10.11",
+          "t": "FY2027 의제",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.11",
+          "t": "전공의와 대결",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.12",
+          "t": "허가 +42%",
+          "c": "#00897b",
+          "s": "MEDICINE",
+          "big": true
+        },
+        {
+          "d": "10.12",
+          "t": "챗봇 RCT",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.12",
+          "t": "시험 가속",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "잘한다는 주장이 아니라, 허가 건수와 무작위 배정으로 말하기 시작했다",
+      "eyebrow": "흐름 · 임상으로 간 AI",
+      "headline": "의료 AI가 데모를 끝내고 시험대에 올랐다",
+      "body": "사흘 사이의 다섯 건이 같은 단계를 가리킨다. 성능 자랑이 아니라 허가 숫자와 무작위 대조로 이야기가 옮겨 갔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "① 규제가 먼저 줄을 긋는다",
+      "headline": "FDA가 AI와 수술 로봇을 의제에 올렸다",
+      "body": "FY2027 가이던스 목록에 들어갔다는 것은 개별 허가가 아니라 분야 전체의 기준을 쓰겠다는 뜻이다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
+      "_id": "fda-cdrh-fy27-ai-guidance",
+      "media": "pipeline/media/fda-cdrh-fy27-ai-guidance.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "② 사람과 붙여 본다",
+      "headline": "안과 사전 문진에서 LLM과 전공의가 붙었다",
+      "body": "누가 더 잘하느냐를 임상 환경에서 직접 쟀다. 벤치마크 점수가 아니라 진료 흐름 안에서의 비교다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.nature.com/articles/s41746-026-03232-x",
+      "_id": "llm-ophtho-preconsult-rct",
+      "media": "pipeline/media/llm-ophtho-preconsult-rct.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "③ 숫자로 보이는 속도",
+      "headline": "영상의학 AI 허가가 한 해 42% 늘었다",
+      "body": "허가 건수가 가파르게 늘면서 규제 지형 자체가 같이 바뀌고 있다. 늘어난 만큼 사후 감시의 몫도 커진다.",
+      "foot": "2026.10.12",
+      "_src": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-ai-authorizations-rise-42-regulatory-landscape-evolves",
+      "_id": "fda-radiology-ai-authorizations-rise-42",
+      "media": "pipeline/media/fda-radiology-ai-authorizations-rise-42.jpg",
+      "stat_top": "영상의학 AI 허가",
+      "stat_arrow": "한 해 사이",
+      "stat_bottom": "+42%",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "④ 무작위로 배정해서",
+      "headline": "유전성 암 위험 챗봇을 임상시험으로 검증했다",
+      "body": "쓰기 좋다는 평이 아니라 배정하고 비교해서 효과를 쟀다. 의료에서 AI가 통과해야 하는 문턱이 분명해지고 있다.",
+      "foot": "2026.10.12",
+      "_src": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.35794",
+      "_id": "jama-aya-cancer-risk-chatbot-rct",
+      "media": "pipeline/media/jama-aya-cancer-risk-chatbot-rct.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "⑤ 시험 자체를 AI로",
+      "headline": "이번엔 임상시험을 AI로 당긴다",
+      "body": "HHS가 AI로 임상시험을 가속하고 넓히겠다고 밝혔다. 재는 대상이던 AI가 재는 도구 쪽으로도 넘어간다.",
+      "foot": "2026.10.12",
+      "_src": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/",
+      "_id": "hhs-arpa-h-ai-clinical-trials",
+      "media": "pipeline/media/hhs-arpa-h-ai-clinical-trials.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

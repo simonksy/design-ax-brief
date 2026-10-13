@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "issue": "AI는 숨길수록 작품 안에 흔적으로 남는다",
+    "date": "2026.10.13",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "닷새 사이 출판·만화 쪽에서 다섯 건이 터졌는데, 공통점은 전부 '증거가 작품 안에서 나왔다'는 것이다. 바깥에서 적발한 게 아니다.",
+    "sources": [
+      "https://gigazine.net/gsc_news/en/20261007-chatgpt-adding-real-cartoonists-signatures-fake/",
+      "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
+      "https://www.animenewsnetwork.com/interest/2026-10-10/yuriten-exhibit-cancels-10th-anniversary-event-after-artists-criticize-its-ai-use/.242698",
+      "https://news.lavx.hu/article/david-revoy-bans-ai-derivatives-of-pepper-carrot-and-all-his-work",
+      "https://news.aibase.com/news/31561"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "닷새 · 다섯 건 · 증거는 안에서 나왔다",
+      "thread": [
+        {
+          "d": "10.12",
+          "t": "가짜 서명",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.13",
+          "t": "수상 의혹",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.13",
+          "t": "행사 취소",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.13",
+          "t": "파생작 금지",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.13",
+          "t": "전량 회수",
+          "c": "#f5a623",
+          "s": "BOOKS",
+          "big": true
+        }
+      ],
+      "thread_note": "프롬프트가 인쇄되고, 서명이 복제되고, 심사가 멈췄다 — 전부 작품 안에서 나온 증거다",
+      "eyebrow": "흐름 · 출판과 AI",
+      "headline": "증거는 작품 바깥이 아니라 안에서 나왔다",
+      "body": "닷새 사이의 다섯 건을 꿰면 공통점이 하나 보인다. 적발한 쪽은 감시 도구가 아니라 작품을 읽은 사람이었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "① 서명까지 베꼈다",
+      "headline": "가짜 만화에 실존 작가의 서명이 붙었다",
+      "body": "모델이 학습한 그림체를 따라 그리면서 작가 서명까지 같이 재현했다. 흉내가 어디까지 갔는지가 그림 안에 남았다.",
+      "foot": "2026.10.12",
+      "_src": "https://gigazine.net/gsc_news/en/20261007-chatgpt-adding-real-cartoonists-signatures-fake/",
+      "_id": "chatgpt-manga-fake-artist-signatures",
+      "media": "pipeline/media/chatgpt-manga-fake-artist-signatures.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "② 상이 멈춰 섰다",
+      "headline": "케인상, 수상작 AI 의혹에 입장을 냈다",
+      "body": "수상자를 둘러싼 AI 의혹에 주최 측이 대응에 나섰다. 문학상이 심사 이후의 검증을 떠안기 시작했다.",
+      "foot": "2026.10.13",
+      "_src": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
+      "_id": "books-caine-prize-kundizeza-ai",
+      "media": "pipeline/media/books-caine-prize-kundizeza-ai.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "③ 행사가 접혔다",
+      "headline": "10주년 기념 행사가 AI 이미지로 취소됐다",
+      "body": "기념 비주얼에 AI 이미지가 쓰였다는 지적이 나오자 행사 자체가 취소됐다. 해명보다 철회가 빨랐다.",
+      "foot": "2026.10.13",
+      "_src": "https://www.animenewsnetwork.com/interest/2026-10-10/yuriten-exhibit-cancels-10th-anniversary-event-after-artists-criticize-its-ai-use/.242698",
+      "_id": "books-yuriten-10th-anniversary-ai-cancel",
+      "media": "pipeline/media/books-yuriten-10th-anniversary-ai-cancel.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "④ 열어 둔 쪽도 닫는다",
+      "headline": "자유 라이선스 작가가 AI 파생작을 금지했다",
+      "body": "누구나 가져다 쓰라던 Pepper&Carrot이 AI 파생작만은 막았다. 개방의 조건이 다시 쓰이고 있다.",
+      "foot": "2026.10.13",
+      "_src": "https://news.lavx.hu/article/david-revoy-bans-ai-derivatives-of-pepper-carrot-and-all-his-work",
+      "_id": "books-revoy-pepper-carrot-no-ai",
+      "media": "pipeline/media/books-revoy-pepper-carrot-no-ai.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "⑤ 책 안에 프롬프트가 찍혔다",
+      "headline": "소설에 프롬프트가 인쇄돼 전량 회수됐다",
+      "body": "지시문이 본문에 그대로 남은 채로 인쇄됐고 출판사는 책을 모두 거둬들였다. 증거가 상품 안에 박힌 셈이다.",
+      "foot": "2026.10.13",
+      "_src": "https://news.aibase.com/news/31561",
+      "_id": "books-road-to-the-end-ai-prompt",
+      "media": "pipeline/media/books-road-to-the-end-ai-prompt.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

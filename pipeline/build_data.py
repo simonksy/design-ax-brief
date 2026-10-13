@@ -167,12 +167,28 @@ def to_js(data):
 
     design = ax_sections.get("design", {"news": [], "days": []})
 
+    def archive_total():
+        """지금까지 쌓인 카드 수를 백 단위로 내림해 돌려준다.
+
+        구독 안내에 쓰는 숫자다. 손으로 적어 두면 늘어날 때마다 고쳐야 하고,
+        고치지 않아도 아무 오류가 나지 않는다 — '2,400+'가 실제 2,900장이 된
+        뒤에도 그대로 떠 있었다. 내림해 두므로 하루 이틀 밀려도 틀리지 않는다."""
+        try:
+            here = os.path.dirname(os.path.abspath(__file__))
+            with open(os.path.join(here, "archive.json"), encoding="utf-8") as f:
+                a = json.load(f)
+            n = len(a.get("cards", a.get("items", a)) if isinstance(a, dict) else a)
+        except Exception:
+            return 2400
+        return max(100, n // 100 * 100)
+
     def dump(obj):
         return json.dumps(obj, ensure_ascii=False, indent=2)
     return (HEADER +
             "(function () {\n" +
             "  window.AX_SECTIONS = " + dump(ax_sections) + ";\n" +
             "  window.AX_SECTION_ORDER = " + dump(SECTION_ORDER) + ";\n" +
+            "  window.AX_ARCHIVE_TOTAL = " + str(archive_total()) + ";\n" +
             "  // back-compat (large-card app reads these until it becomes section-aware):\n" +
             "  window.AX_NEWS = " + dump(design["news"]) + ";\n" +
             "  window.AX_DAYS = " + dump(design["days"]) + ";\n" +

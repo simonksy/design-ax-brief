@@ -50,6 +50,17 @@ if (!document.getElementById('ax-styles')) {
   @keyframes axsweep{0%,100%{transform:translateX(-35%);opacity:0}50%{opacity:.55}}
   .ax-track{display:flex;height:100%;transition:transform .5s cubic-bezier(.4,0,.2,1);}
   .ax-slide{flex:0 0 100%;min-width:100%;height:100%;}
+  /* 커버플로 — 데스크탑에서만. 폰은 화면이 좁아 옆 카드를 둘 자리가 없고,
+     3D 변형이 터치 스와이프의 응답도 무디게 만든다. 그래서 .ax-track 쪽을 그대로 쓴다.
+     옆 카드가 히어로 폭(440) 밖으로 나가야 하므로 뷰포트를 자르지 않는다. */
+  .ax-flow{position:absolute;inset:0;perspective:1500px;perspective-origin:50% 46%;}
+  .ax-flow-slot{position:absolute;top:0;left:50%;width:100%;height:100%;margin-left:-50%;
+     transform-origin:50% 50%;will-change:transform,opacity;
+     transition:transform .52s cubic-bezier(.22,.72,.2,1),opacity .52s ease;}
+  .ax-flow-slot.is-side{cursor:pointer;}
+  /* 옆 카드는 눌러서 가운데로 부르는 것만 된다. 뒤집기나 링크가 살아 있으면
+     옆을 누르려다 기사가 열린다. */
+  .ax-flow-slot.is-side > *{pointer-events:none;}
   /* native horizontal scroll-snap carousel: horizontal swipe snaps cards, vertical
      swipe falls through to the page natively (no JS touch handler to swallow it). */
   .ax-snap{display:flex;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;
@@ -542,10 +553,24 @@ async function pollEntitlement(tries = 5, gapMs = 2000) {
 /* Pro 혜택 비교표 행. 키워드 알림이 붙으면 여기에 줄을 추가한다.
    pro: 'soon'은 아직 만들지 않은 혜택 — 체크 대신 "준비 중" 배지가 뜬다.
    없는 기능에 체크를 주면 돈을 받고 약속을 어기는 셈이라, 배지로만 예고한다. */
+// 하루에 나가는 카드 수는 섹션 수에 따라 달라진다. 숫자를 손으로 적어 두면
+// 섹션을 더할 때마다 같이 고쳐야 하는데, 고치지 않아도 아무 오류가 나지 않는다 —
+// 실제로 섹션이 열 개가 된 뒤에도 9/45(아홉 개 시절 값)가 돈을 받는 화면에
+// 그대로 떠 있었다. 그래서 데이터에서 센다.
+const CARDS_PER_SECTION_FREE = 1;
+const CARDS_PER_SECTION_PRO = 5;
+function sectionCount() {
+  const o = (typeof window !== 'undefined' && window.AX_SECTION_ORDER) || [];
+  return o.length || Object.keys((typeof window !== 'undefined' && window.AX_SECTIONS) || {}).length;
+}
 const PRO_ROWS = [
-  { key: 'cards',   free: '9',    pro: '45', note: true },
+  { key: 'cards',   free: () => String(sectionCount() * CARDS_PER_SECTION_FREE),
+                    pro:  () => String(sectionCount() * CARDS_PER_SECTION_PRO), note: true },
   { key: 'deep',    free: false,  pro: true },
-  { key: 'archive', free: false,  pro: true },
+  // 아카이브 수치는 백 단위로 내림해 둔다. 날마다 느는 값이라 정확히 적으면
+  // 하루만 지나도 틀리고, 내림해 두면 틀릴 일이 없다.
+  { key: 'archive', free: false,  pro: true,
+    vars: () => ({ n: ((typeof window !== 'undefined' && window.AX_ARCHIVE_TOTAL) || 2400).toLocaleString() }) },
   { key: 'graph',   free: false,  pro: true },
   { key: 'report',  free: false,  pro: 'soon' },
   { key: 'mcp',     free: false,  pro: 'soon' },
@@ -555,6 +580,7 @@ const PRO_ROWS = [
    'soon'이면 준비 중 배지, 그 밖의 문자열이면 그 문자열(Pro 열은 더 크고 굵게 —
    숫자 대비가 가장 직관적이다). */
 function ProCell({ v, t, strong }) {
+  if (typeof v === 'function') v = v();
   if (v === true) {
     return strong
       ? <span className="ax-check" aria-hidden>✓</span>
@@ -763,7 +789,7 @@ function ProCompareTable({ t }) {
             <div className="ax-pro-row" style={{ padding: '12px 18px 12px 16px', fontSize: 14,
               fontWeight: 600, color: t.hl, lineHeight: 1.35, wordBreak: 'keep-all',
               borderTop: '1px solid ' + t.rule }}>
-              {tx('pro.row_' + row.key)}
+              {tx('pro.row_' + row.key, row.vars && row.vars())}
               {row.note && (
                 <div style={{ marginTop: 2, fontSize: 11.5, fontWeight: 500, color: t.mute }}>
                   {tx('pro.row_' + row.key + '_note')}
@@ -1467,8 +1493,34 @@ function NavButton({ dir, disabled, onClick, t, size }) {
    Frame (radius/border/shadow/glass) lives on the window so the
    sliding cards are full-bleed — no rounded-corner gaps on swipe.
    ============================================================ */
+/* 커버플로 기하. 아이팟 터치 가로모드의 앨범아트처럼, 가운데 한 장은 정면이고
+   옆은 안쪽으로 비스듬히 누워 뒤로 물러난다.
+   참고한 코드에는 rotateZ(롤)가 같이 들어 있었는데 뺐다 — 넘길 때마다 카드가
+   시계/반시계로 돌아 종이를 넘기는 것처럼 보이고, 앨범아트 스크롤의 인상과 다르다. */
+const FLOW_STEP = 252;    // 이웃 한 칸이 가운데에서 밀려나는 거리(px)
+const FLOW_DEPTH = 188;   // 뒤로 물러나는 깊이(px)
+const FLOW_TILT = 44;     // 안쪽으로 눕는 각도(deg)
+function flowStyle(offset) {
+  if (!offset) return { transform: 'translateX(0) translateZ(0) rotateY(0deg)', opacity: 1, zIndex: 10 };
+  const dir = offset < 0 ? -1 : 1;        // -1 = 왼쪽, +1 = 오른쪽
+  const far = Math.abs(offset) - 1;        // 두 칸 너머는 더 밀고 더 눕힌다
+  const x = dir * (FLOW_STEP + far * 86);
+  const z = -(FLOW_DEPTH + far * 76);
+  return {
+    // 부호에 주의. 이쪽(-dir)은 옆 카드가 가운데를 '바라보는' 대신 바깥으로
+    // 비스듬히 펼쳐진다 — 복도가 아니라 펼친 카드 묶음에 가깝다. 반대 부호가
+    // 교과서적인 커버플로지만, 둘을 나란히 찍어 보고 이쪽을 골랐다. 카드가
+    // 세로로 길어서, 안쪽으로 모으면 옆 카드가 가운데 카드 뒤로 숨어 몇 장이
+    // 더 있는지 보이지 않는다.
+    transform: `translateX(${x}px) translateZ(${z}px) rotateY(${-dir * FLOW_TILT}deg)`,
+    opacity: far ? 0.42 : 0.72,
+    zIndex: 10 - Math.abs(offset),
+  };
+}
+
 function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
   const [idx, setIdx] = useState(initialIndex);
+  const flow = !mobile;   // 커버플로는 데스크탑 전용 (CSS의 .ax-flow 주석 참고)
   // 잠긴 카드로 넘어오면 구독 창을 한 번 띄운다. 한 번인 게 중요하다 — 닫을 때마다
   // 다시 뜨면 넘길 때마다 가로막는 꼴이라, 설득이 아니라 방해가 된다. 그래서
   // 이 페이지를 연 동안 딱 한 번만 띄우고, 그 뒤로는 카드를 눌러야 열린다.
@@ -1537,29 +1589,68 @@ function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
     el.addEventListener('touchend', onEnd, { passive: true });
     return () => { el.removeEventListener('touchstart', onStart); el.removeEventListener('touchmove', onMove); el.removeEventListener('touchend', onEnd); };
   }, [total]);
+  // 좌우 키. 커버플로에서는 옆 카드를 눌러 부르는 것이 기본 동작이라, 키가 없으면
+  // 가리키는 장치 없이 넘길 길이 사라진다.
+  useEffect(() => {
+    if (!flow) return;
+    const onKey = (e) => {
+      if (e.metaKey || e.ctrlKey || e.altKey) return;
+      const tag = (e.target && e.target.tagName) || '';
+      if (tag === 'INPUT' || tag === 'TEXTAREA' || (e.target && e.target.isContentEditable)) return;
+      if (e.key === 'ArrowLeft') { e.preventDefault(); go(idxRef.current - 1); }
+      else if (e.key === 'ArrowRight') { e.preventDefault(); go(idxRef.current + 1); }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [flow, total]);
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0, position: 'relative' }}>
-      <div className="ax-heroin" ref={viewportRef} style={{ flex: 1, minHeight: 0, overflow: 'clip',
+      {/* 커버플로에서는 테두리·그림자·바탕을 뷰포트가 아니라 카드마다 들려야 한다.
+          뷰포트에 남겨 두면 옆 카드가 테두리 밖에 떠 있는 꼴이 된다. */}
+      <div className="ax-heroin" ref={viewportRef} style={{ flex: 1, minHeight: 0,
+        overflow: flow ? 'visible' : 'clip',
         touchAction: 'pan-y',   // browser owns vertical (page / article); JS owns horizontal
-        borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
-        background: t.cardSolid || t.cardBg }}>
-        <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
-          {items.map((it, i) => (
-            <div className="ax-slide" key={i}>
-              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} entitled={entitled} />
-            </div>
-          ))}
-        </div>
+        borderRadius: t.radius,
+        border: flow ? 'none' : t.cardBorder,
+        boxShadow: flow ? 'none' : t.cardShadow,
+        background: flow ? 'transparent' : (t.cardSolid || t.cardBg) }}>
+        {flow ? (
+          <div className="ax-flow">
+            {items.map((it, i) => {
+              const o = i - idx;
+              return (
+                <div key={i} className={'ax-flow-slot' + (o ? ' is-side' : '')}
+                  onClick={o ? () => go(i) : undefined}
+                  onKeyDown={o ? (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(i); } } : undefined}
+                  role={o ? 'button' : undefined}
+                  tabIndex={o ? 0 : undefined}
+                  aria-label={o ? tx('nav.card', { n: i + 1 }) : undefined}
+                  style={{ ...flowStyle(o), borderRadius: t.radius, border: t.cardBorder,
+                    boxShadow: t.cardShadow, background: t.cardSolid || t.cardBg }}>
+                  <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} entitled={entitled} />
+                </div>
+              );
+            })}
+          </div>
+        ) : (
+          <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
+            {items.map((it, i) => (
+              <div className="ax-slide" key={i}>
+                <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} entitled={entitled} />
+              </div>
+            ))}
+          </div>
+        )}
       </div>
       {/* 좌우 이동은 카드 바깥 여백의 중앙 높이에. 점 옆에 모여 있을 때보다
           넘기려는 손이 가는 자리에 가깝다. 카드에 붙이지 않고 조금 띄운다.
           폰에서는 여백이 없으니 숨기고 스와이프에 맡긴다. */}
       {!mobile && (
         <React.Fragment>
-          <div style={{ position: 'absolute', left: -58, top: '50%', transform: 'translateY(-50%)', zIndex: 4 }}>
+          <div style={{ position: 'absolute', left: -58, top: '50%', transform: 'translateY(-50%)', zIndex: 20 }}>
             <NavButton dir="l" disabled={idx === 0} onClick={() => go(idx - 1)} t={t} size={44} />
           </div>
-          <div style={{ position: 'absolute', right: -58, top: '50%', transform: 'translateY(-50%)', zIndex: 4 }}>
+          <div style={{ position: 'absolute', right: -58, top: '50%', transform: 'translateY(-50%)', zIndex: 20 }}>
             <NavButton dir="r" disabled={idx === total - 1} onClick={() => go(idx + 1)} t={t} size={44} />
           </div>
         </React.Fragment>
