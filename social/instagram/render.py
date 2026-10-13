@@ -54,6 +54,13 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
 .quote .q{font-size:62px;font-weight:700;line-height:1.34;letter-spacing:-.02em;white-space:pre-line}
 .quote .by{margin-top:32px;font-size:26px;opacity:.85;line-height:1.5}
 .quote .mark{font-size:92px;font-weight:800;opacity:.42;line-height:.8;margin-bottom:14px}
+/* 마지막 장 — 사이트로 보내는 자리. 썸네일 칸을 비우지 않고 마크를 세워
+   레이아웃 문법을 지킨다(글이 같은 자리에서 시작한다). */
+.brandblock{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;
+  justify-content:center;gap:28px}
+.brandblock img{width:272px;height:272px}
+.brandblock .wm{font-size:58px;font-weight:800;letter-spacing:-.035em;color:#3a352e}
+.brandblock .url{font-size:35px;font-weight:700;color:%(ACCENT)s}
 /* 글 자리. 한글은 아무 데서나 접히면 읽기 나쁘다 — 띄어쓰기에서만 접어 폭을 끝까지 쓴다.
    제목에 수동 줄바꿈을 넣지 않는 이유도 같다: 넣으면 폭을 반만 쓰고 접힌다. */
 .body{height:%(BH)dpx;padding:%(PT)dpx %(PX)dpx 0;display:flex;flex-direction:column;
@@ -117,6 +124,11 @@ def media_inner(c, has_video):
         out.append('<div class="quote"><div class="mark">“</div>'
                    f'<div class="q">{esc(c["quote"])}</div>'
                    f'<div class="by">{esc(c["quote_by"])}</div></div>')
+    elif k == "outro":
+        out.append('<div class="brandblock">'
+                   f'<img src="{asset("favicon.svg")}">'
+                   '<div class="wm">AX-it NOW</div>'
+                   '<div class="url">axitnow.com</div></div>')
     elif not has_video and c.get("media"):
         out.insert(0, f'<img src="{asset(c["media"])}">')
     return "".join(out)
@@ -128,7 +140,8 @@ def card_html(c, meta, total, has_video):
     k = c.get("kind")
     # 영상 카드는 썸네일 자리를 투명하게 비워 둔다 — 그 자리에 영상이 들어간다.
     mbg = "transparent" if has_video else (
-        "#17150f" if k == "stat" else (meta["accent"] if k == "quote" else "#e9e3d8"))
+        "#17150f" if k == "stat" else (meta["accent"] if k == "quote" else (
+            "#f2ece1" if k == "outro" else "#e9e3d8")))
     css = CSS % {"W": W, "H": H, "MH": mh, "BH": H - mh, "PT": PAD_TOP, "PX": PAD_X,
                  "BR": BREATH, "ACCENT": meta["accent"], "HS": hs, "BS": bs,
                  "CREAM": CREAM, "PAGE": "transparent" if has_video else CREAM,
