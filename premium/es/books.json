@@ -6150,6 +6150,119 @@
           "x": "Se niega a abandonar la AI: \"Usen las herramientas. Mantengan el juicio humano en el proceso. Declaren. Verifiquen. Corrijan los errores públicamente.\""
         }
       ]
+    },
+    "books/books-elpais-spain-ai-bestsellers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+          "cap": "Un librero de Barcelona revisa la sección de clásicos."
+        },
+        {
+          "t": "p",
+          "x": "EL PAÍS analizó con la herramienta de detección Pangram 119 libros populares publicados en 2025 y 2026, procedentes de las listas de más vendidos de Amazon.es y Casa del Libro y de los principales premios literarios. El mismo ejercicio con 56 libros de 2019 y 2020 no encontró indicios de generación por AI: todos obtuvieron un 0%."
+        },
+        {
+          "t": "p",
+          "x": "De los 119 títulos recientes, 35 mostraron algún indicio de texto AI-generated (29%) y 13 superaron el 50%. El uso de AI se concentró en obras autoeditadas: 13 de 44, es decir, el 30%, muchas de ellas novelas románticas. Autores consolidados como Javier Cercas, Isabel Allende y Dolores Redondo obtuvieron un 0%."
+        },
+        {
+          "t": "p",
+          "x": "El caso más destacado es Devuélveme mi país, del político español Alvise Pérez, que llegó al No. 1 de Amazon en febrero de 2026; Pangram atribuye el 97% del libro a la AI. Pérez aseguró que escribió el libro “palabra por palabra”."
+        },
+        {
+          "t": "p",
+          "x": "Nueve libros de edición tradicional mostraron algunos rastros de AI, entre ellos cuatro obras de no ficción con puntuaciones de entre el 12% y el 34%. Pangram no es infalible y no puede revelar qué papel desempeñó una persona en el proceso."
+        }
+      ]
+    },
+    "books/books-frankfurt-appeal-ai-transparency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Más de 150 editoriales y organizaciones del sector instan a la EU y al Gobierno alemán a obligar a los desarrolladores de AI a revelar las obras usadas para entrenar sus modelos. La petición se recoge en el Frankfurt Appeal, publicado por la Asociación Alemana de Editores y Libreros."
+        },
+        {
+          "t": "p",
+          "x": "El llamamiento pide tres medidas: obligaciones de transparencia que incluyan la divulgación de los datos de entrenamiento obra por obra; un mercado de licencias con modelos de ingresos justos; y el cumplimiento de la legislación europea de derechos de autor, con mecanismos sólidos para hacerla valer. “Los derechos cuya infracción no tiene consecuencias no valen nada”."
+        },
+        {
+          "t": "p",
+          "x": "“Si los políticos no actúan ahora, la AI seguirá privándonos de millones de obras protegidas por derechos de autor y, con el tiempo, de nuestra capacidad de pensar”, afirmó Sebastian Guggolz, presidente de la asociación."
+        },
+        {
+          "t": "p",
+          "x": "A 9 de octubre de 2026, más de 150 organizaciones habían firmado, entre ellas Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, la International Publishers Association y la Federation of European Publishers, además de editoriales de Brasil, Egipto, el Reino Unido (UK), Austria, Países Bajos, Argentina, Tailandia y Australia."
+        }
+      ]
+    },
+    "books/books-turkiye-ai-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El uso de libros por parte de empresas de AI para entrenar modelos comerciales sin pagar derechos de autor ha generado preocupación en todo el sector editorial de Türkiye. Halil Celik, presidente de la Asociación de Prensa y Edición de Türkiye, dijo a Anadolu Agency que las editoriales no tienen una forma fiable de saber qué libros se han usado para entrenar modelos de AI."
+        },
+        {
+          "t": "p",
+          "x": "El debate se intensificó tras las acusaciones de que las empresas de AI compran libros impresos al por mayor, los escanean y destruyen los ejemplares físicos. Celik advirtió que desmontar libros raros y descatalogados, algunos de ellos entre los últimos ejemplares que se conservan, pone en riesgo el patrimonio cultural."
+        },
+        {
+          "t": "p",
+          "x": "Pidió reformar la Ley de Obras Intelectuales y Artísticas de Türkiye para incluir normas sobre el entrenamiento de AI, la divulgación de los conjuntos de datos y las sanciones, y propuso un sistema de licencias, posiblemente mediante acuerdos colectivos, por el que las empresas de AI pagarían por el uso comercial."
+        },
+        {
+          "t": "p",
+          "x": "“Si se establece el sistema legal y de licencias adecuado, los contenidos que hoy se usan gratis podrían convertirse mañana en una nueva fuente de ingresos por derechos de autor y licencias”, afirmó Celik."
+        }
+      ]
+    },
+    "books/books-audible-ai-narration-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+        },
+        {
+          "t": "p",
+          "x": "Una encuesta global encargada por Audible, “The Future of Listening”, fue realizada por NielsenIQ entre 18,000 consumidores de 11 mercados, entre ellos U.S., U.K., varios países europeos, Japón y Brasil. Un 34% afirmó haber escuchado más audiolibros en el último año que en el anterior."
+        },
+        {
+          "t": "p",
+          "x": "Un 69% de los oyentes ya había leído el título que escuchó, y el 63% de quienes descubrieron a un autor en audio compraron después otra obra suya. “Los audiolibros no compiten con otros formatos”, dijo Rachel Ghiazza, directora de contenidos de Audible."
+        },
+        {
+          "t": "p",
+          "x": "Cerca de la mitad de los encuestados dijo que probaría la narración con AI, con más interés por la ficción que por la no ficción en la mayoría de los mercados, salvo Alemania y Japón. Ghiazza la definió como “una estrategia de ‘and’”: los intérpretes humanos se mantienen y el ahorro en producción servirá para financiar más títulos. “La calidad y la transparencia son de vital importancia”."
+        },
+        {
+          "t": "p",
+          "x": "Audible no ha detallado la metodología de la encuesta, pero el mensaje de Ghiazza a las editoriales indecisas fue tajante: “El momento es ahora”."
+        }
+      ]
+    },
+    "books/books-caine-prize-kundizeza-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Caine Prize for African Writing publicó un comunicado tras las acusaciones aparecidas en The Atlantic de que su ganador, Simbarashe Kundizeza, pudo haber usado IA."
+        },
+        {
+          "t": "p",
+          "x": "En respuesta, el premio pone en marcha lo que llama un 'proceso centrado en lo humano' (human-centred process) después de que el ganador zimbabuense fuera acusado de usar IA."
+        }
+      ]
     }
   }
 }

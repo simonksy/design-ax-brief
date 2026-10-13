@@ -12958,6 +12958,158 @@
           "x": "도구는 스마트 기기와 ESP32 센서부터 문서 분석, Docker 제어까지 입맛대로 만들 수 있다. 작성에 품이 들긴 해도 성능을 보면 그 수고가 아깝지 않다."
         }
       ]
+    },
+    "gadgets/gadgets-samsung-galaxy-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+          "cap": "세 가지 색상의 Warby Parker 스타일 Samsung 스마트 안경 이미지."
+        },
+        {
+          "t": "p",
+          "x": "Samsung은 첫 스마트 안경을 11월에야 공개하지만 생김새와 무게는 이미 드러났다. 테크 매체 SammyGuru 보도에 따르면 이 안경은 여러 스타일과 색상으로 나오고 무게는 41그램에 불과하다."
+        },
+        {
+          "t": "p",
+          "x": "Samsung은 이 스마트 안경을 다음 달 내놓을 것으로 보이며 이름은 Galaxy Glasses가 유력하다. 11월부터 US(미국) 소비자는 Warby Parker와 Gentle Monster 웹사이트, US 내 Samsung Experience Stores에서 살 수 있다. 가격은 아직 공개되지 않았다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+          "cap": "Samsung 스마트 안경의 Gentle Monster 스타일"
+        },
+        {
+          "t": "p",
+          "x": "표준 렌즈 기준 무게는 41그램으로, 가장 가벼운 Meta Ray-Ban 모델의 43그램보다 가볍다. Snapdragon AR1 Gen 1 칩, 2 GB RAM, 64 GB 저장공간, 12 MP 카메라, 오픈형 스피커 2개, 마이크 4개가 들어간다. Meta Ray-Bans처럼 화면은 없다."
+        },
+        {
+          "t": "p",
+          "x": "Samsung 스마트 안경은 Google Gemini AI를 쓰고 Android XR 운영체제에서 돌아간다. 착용자는 사진·영상 촬영과 통화, 문자 전송, 번역, 턴바이턴 길 안내는 물론 음악과 팟캐스트 청취도 할 수 있다."
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-listening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+          "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성"
+        },
+        {
+          "t": "p",
+          "x": "업데이트: Meta는 Android Authority의 논평 요청에 이렇게 답했다. “이 문제는 해결됐습니다. 사용자는 언제든 설정에서 Meta AI와의 상호작용 음성 기록을 관리하고 검토하고 삭제할 수 있습니다.”"
+        },
+        {
+          "t": "p",
+          "x": "한 Ray-Ban Meta 사용자는 Reddit 스레드 두 곳에서 2세대와 3세대 모델에 걸친 안경 세 개가 “Hey Meta” 호출어 없이 일상 대화를 녹음했다고 주장했다. “Respond without Hey Meta” 설정을 꺼 두었는데도 이 대화는 Meta AI 앱에 저장된 음성 녹음과 텍스트 기록으로 남아 있었다. 그는 최근 펌웨어 업데이트 뒤부터 이런 일이 생겼다고 말한다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+          "cap": "Meta Ray Ban 안경 녹음 활동 페이지"
+        },
+        {
+          "t": "p",
+          "x": "댓글에서도 여럿이 Meta AI를 부르지 않았는데 내부 표시등이 켜지는 등 설명하기 어려운 비슷한 일을 겪었다고 했다. 다만 제보는 아직 많지 않다. Android Authority도 이 현상을 직접 재현하지 못했고 문제가 광범위하다는 증거도 없다."
+        },
+        {
+          "t": "p",
+          "x": "올해 초 Ars Technica는 Ray-Ban Meta 안경 데이터를 검토하던 외주 인력이 매우 민감한 영상을 접했다고 보도했다. The Verge는 최근 AI 하드웨어가 “녹음”의 정의를 흐리고 있다고 지적했다."
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-gpt7-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+          "cap": "바퀴를 단 Unitree G1"
+        },
+        {
+          "t": "p",
+          "x": "중국 로봇 기업 Unitree의 CEO Wang Xingxing은 상하이 업계 행사에서 OpenAI가 최근 공개한 GPT-6 Astra 모델이 매우 강력해 “1~2년 안에” 돌파구가 나올 수 있다는 믿음이 커졌다고 말했다(South China Morning Post 보도)."
+        },
+        {
+          "t": "p",
+          "x": "Wang은 “예컨대 내년에 나올 GPT-7 모델이 체화 지능의 문제를 곧바로 풀어낼 가능성도 있다”고 말했다. 올해 8월만 해도 그는 이런 “ChatGPT 모멘트”가 오기까지 10년이 걸릴 수 있다고 내다봤다."
+        },
+        {
+          "t": "p",
+          "x": "Wang이 내건 기준은 로봇이 음성이나 텍스트 명령만으로 낯선 환경의 80%에서 맡은 작업의 80%를 해내는 것이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+          "cap": "Antigravity A1을 날리는 Unitree G1"
+        },
+        {
+          "t": "p",
+          "x": "Stanford University의 Movement Lab은 Unitree 로봇에 GPT-6 Astra를 결합해 처음 보는 주방을 청소하게 했다. 로봇은 “환경별 학습 데이터나 추가 정책 학습 없이도 방 전체를 정리하고, 모호한 요청을 듣고 기억해 둔 물건을 가져올 수 있었다.” GPT-6 Astra는 ScreenSpot-Pro에서 92.7%를 기록해 GPT-5.6 Sol의 76.9%를 앞섰다."
+        }
+      ]
+    },
+    "gadgets/gadgets-ultrahuman-uae-bioage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+          "cap": "Ultrahuman Ring AIR"
+        },
+        {
+          "t": "p",
+          "x": "스마트 링으로 잘 알려진 Bengaluru 기반 헬스테크 스타트업 Ultrahuman이 Abu Dhabi 공중보건센터(ADPHC)와 2년짜리 양해각서를 맺고 생체 나이 모델을 개발·검증한다. 회사는 이 모델을 결국 아랍에미리트(UAE) 전역의 사람들이 쓸 수 있게 하겠다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "이 모델은 임상 바이오마커와 웨어러블 기기 데이터를 결합해 개인의 노화 속도를 추정하고 수면·활동·심혈관 건강·대사 등 노화를 앞당기거나 늦출 수 있는 요인을 찾아낸다. 특정 웨어러블에 묶이지 않게 설계됐다. 사람들은 앞으로 TAMM과 Sahatna 같은 플랫폼에서 자신의 건강 나이를 확인하게 된다."
+        },
+        {
+          "t": "p",
+          "x": "Ultrahuman과 ADPHC는 앞으로 2년간 연구와 임상 검증을 진행한다. CEO Mohit Kumar는 본격 출시를 단계적으로 진행하겠다면서도 일정은 밝히지 않았다. 이 스타트업이 전 세계에 판 스마트 링은 약 80만 개다."
+        },
+        {
+          "t": "p",
+          "x": "Kumar는 이 모델을 UAE 데이터로 학습시키지 않는다고 강조했다. 그는 “UAE 데이터에는 알고리즘을 배포할 것”이라며 Ultrahuman은 개인 식별 정보에 접근할 수 없다고 덧붙였다."
+        }
+      ]
+    },
+    "gadgets/gadgets-fitbit-edge-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google이 2026년 두 번째 Fitbit 트래커를 내놓는다. 새 Fitbit Edge의 자리는 딱 Pixel Watch 5와 Fitbit Air 사이다. 화면은 작고 건강 센서는 Air보다 많으며, 가격은 Pixel Watch 5의 절반 정도다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+          "cap": "왼쪽부터 Fitbit Air(새 메탈 메시 밴드 장착), Fitbit Edge, Pixel Watch 5."
+        },
+        {
+          "t": "p",
+          "x": "가는 알루미늄 프레임에 알약 모양의 1.34인치 OLED 터치 디스플레이를 얹었고 IP68(5 ATM) 등급을 받았다. Google Health 앱으로 Android 폰이나 iPhones와 함께 쓴다. 한 번 충전하면 약 7일(상시 표시 화면을 켜면 약 2일) 간다."
+        },
+        {
+          "t": "p",
+          "x": "휴대폰 알림은 그대로 띄우지만 마이크와 스피커가 없고 Gemini 상호작용과 NFC도 지원하지 않는다. 대신 Air에는 없던 기기 자체 GPS와 Pixel Watch의 ECG·혈중 산소 센서가 더해졌다."
+        },
+        {
+          "t": "p",
+          "x": "이렇게 모은 데이터는 전부 Google Health 앱의 Gemini 기반 챗봇 Health Coach로 간다. Edge에는 Google Health Premium(월 10달러) 3개월 이용권이 딸려 오는데, 이게 없으면 AI 기능을 못 쓴다. Health Coach는 원하면 끌 수 있다."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Edge는 180달러다. 오늘부터 예약 주문을 받고 10월 27일 출고된다. Google이 처음 내놓는 수리 가능한 피트니스 트래커로, 배터리를 교체할 수는 있지만 사용자가 직접 바꾸지는 못한다."
+        }
+      ]
     }
   }
 }

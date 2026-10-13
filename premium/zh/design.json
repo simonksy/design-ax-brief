@@ -7546,6 +7546,135 @@
           "x": "Odyssey希望用同一个模型驱动机械臂、无人机和游戏角色，并展示了它玩GTA V的画面。公司由Oliver Cameron和Jeff Hawke于2023年创立，2026年6月融资$310 million。"
         }
       ]
+    },
+    "design/design-nvidia-usd-brep-kernel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia推出了USD BRep，这是一个用于NURBS-based边界表示（BRep）实体建模的独立C++和Python库。此举引发开发者竞相打造更多利用AI工具和工作流的开源CAD建模软件。"
+        },
+        {
+          "t": "p",
+          "x": "AI-to-CAD一直受困于用传统CAD数据、其元数据及多步骤特征树训练机器学习算法的难题。由于USD BRep将NURBS和BRep几何直接暴露给Python和C++结构，开发者可以把精确的几何边界输入神经网络，或编写生成模型（如LLMs和Diffusion网络），以创建数学上严谨、可制造的3D模型。"
+        },
+        {
+          "t": "p",
+          "x": "开发了最广泛使用的3D CAD内核Parasolid的Siemens，目前还不太可能感到恐慌。Siemens Digital Industries首席执行官Tony Hemmelgarn今年早些时候对DEVELOP3D表示：“价值不在于再多一个建模器，价值在于我们如何把那个LLM与现有的CAD工具连接起来。”"
+        },
+        {
+          "t": "p",
+          "x": "由Solid Modeling Solutions开发、Nvidia于2022年5月收购的SMLib几何内核，是开源USD BRep项目的组成部分。相比取代现有CAD工具，Nvidia看起来更专注于优化管线、数据转换和下游框架。"
+        }
+      ]
+    },
+    "design/design-rtx-spark-creative-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA与Microsoft宣布，RTX Spark笔记本电脑将于10月16日（周五）上市。RTX Spark配备最高128GB统一内存和1 petaflop的AI算力，为内容创作工作流带来超过130款加速应用。在发布之前，NVIDIA及其合作伙伴正陆续推出新的软件功能与优化。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe正针对RTX Spark优化Photoshop、Premiere和Substance 3D，使AI、编辑、调色和特效速度最高提升2倍。Photoshop获得GPU-accelerated（GPU加速）合成，Premiere则加速播放、渲染、调色以及Enhance Speech和Object Mask等AI功能。Photoshop和Premiere的AI功能优化已推出测试版，Substance 3D更新即将推出。"
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI新增RTX Video Frame Generation和RTX Video HDR两个节点，并支持EXR导出。创作者可将LTX 2.5与它们结合，把1080p、30 fps的SDR片段转换为更流畅的60 fps HDR视频。"
+        },
+        {
+          "t": "p",
+          "x": "Blender已发布支持RTX Spark的5.3版测试版，并将于下月加入DLSS Ray Reconstruction，用于视口中的实时预览。NVIDIA Broadcast 2.3新增Video Super Resolution、Frame Generation、Offline File Processor，以及面向本地AI智能体的MCP服务器。"
+        }
+      ]
+    },
+    "design/design-higgsfield-ten-minute-video": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Higgsfield AI的使命是让任何有想法的人都能进行专业级的视频和图像创作。在GPT-6 Astra之前，这些视频最长只有一分钟左右。CEO兼联合创始人Alex Mashrabov表示，如今用户可以制作超过10分钟的视频。"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield AI的创意智能体负责重复性的制作任务，例如为一个镜头生成多个变体。借助GPT-6 Astra，这些智能体还能调用外部工具，处理3D建模中复杂的手工工作。Alex表示，这有助于解决创意AI最棘手的难题之一：在较长视频中保持一致性。团队如今用AI为其YouTube频道生成超过10分钟的教学视频。"
+        },
+        {
+          "t": "p",
+          "x": "他说：“GPT-Image-2.5是最先进的模型，也是同类中首个能在图像上可靠渲染文字和信息图的模型。”"
+        },
+        {
+          "t": "p",
+          "x": "约200名创意人员和100名工程师共同打造产品。创意人员用Codex把想法变成软件原型，Alex表示，GPT-6 Astra减少了将原型纳入产品所需的工作。接下来，Higgsfield AI希望实现“voice to movie”：让AI理解创作者口述的意图，并实时呈现其构想。"
+        }
+      ]
+    },
+    "design/design-ai-forged-cartoonist-signatures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+          "cap": "ChatGPT一直在它生成的假New Yorker漫画上署真实漫画家的名字。（图片来源：Open AI）"
+        },
+        {
+          "t": "p",
+          "x": "8月下旬Dolly Parton和Tim Curry相继去世后，一幅描绘二人抵达天堂珍珠门的漫画在网上疯传。漫画一角有“BLOPER”的签名，这是New Yorker漫画家Brendan Loper的笔名。"
+        },
+        {
+          "t": "p",
+          "x": "但问题是：这幅画并非出自Brendan之手。一位Dolly Parton的粉丝只是让ChatGPT画一幅“New Yorker风格的漫画”，聊天机器人便照做了。随后，它还顺手伪造了Brendan的签名。"
+        },
+        {
+          "t": "p",
+          "x": "他对Nieman Lab说：“有人写信问我这幅漫画是不是我画的。”“这感觉非常超现实。”Nieman Lab随后查明，有超过15位New Yorker漫画家的签名出现在ChatGPT生成的图像上。"
+        },
+        {
+          "t": "p",
+          "x": "诚然，借鉴与直接抄袭之间的界线并不清晰。但伪造签名已越过卢比孔河：它清楚地宣称，这件作品出自一位具名的人之手，并由其负责。对任何从事创意工作的人来说，名字就是声誉，就是生计。下次在社交媒体上看到四处流传的图片时，点赞或分享前请先想一想。"
+        }
+      ]
+    },
+    "design/design-world-creator-4-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "BiteTheBytes 发布了 World Creator 4，这是其面向游戏开发、动态图形和 VFX 工作的 GPU-based 地形生成软件的下一个主要版本。新版将于下个月推出，引入全新核心架构，使软件能够从生成常规地形扩展到完整的行星环境。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新架构由 BiteTheBytes 的 Cloddy SDK 驱动，该 SDK 经过更新，可提供“完全 GPU-driven 的行星地形管线”。高度和分布数据可以导出为能映射到球体上的格式；示意渲染基于 9GB 的 USGS DEM 火星模型，BiteTheBytes 表示该模型可在 World Creator 中实时浏览。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新的节点视图对图层系统形成补充，同时加入“无需旧式层级步进系统的直接高度场雕刻”、新的程序化侵蚀与水、沙沉积模型，以及超过 110 种程序化噪波类型。新的基于多边形的渲染器带来“与路径追踪并行的常规实时游戏渲染”，两种渲染器均支持 DLSS 4.5。"
+        },
+        {
+          "t": "p",
+          "x": "新版还将提供批处理系统和集成的 MCP 服务器，可通过 Claude、ChatGPT 等外部 AI 工具控制 World Creator。此前 Windows-only 的这款软件也将登陆 macOS 和 Linux。"
+        },
+        {
+          "t": "p",
+          "x": "World Creator 4 预计于 2026 年 11 月发布。BiteTheBytes 尚未宣布任何价格调整。"
+        }
+      ]
     }
   }
 }

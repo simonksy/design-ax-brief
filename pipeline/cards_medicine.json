@@ -1,227 +1,191 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-wechat-gpt4o-respiratory-triage",
+      "id": "medicine-uk-nhs-ai-commission-blueprint",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "WeChat GPT-4o\n일반인 분류 정확도 높여",
-      "body": "2,400명 무작위 연구에서 GPT-4o 챗봇이 일반인 호흡기 진단·분류를 도왔다.",
-      "mini_headline": "WeChat 챗봇이 분류를 돕다",
+      "headline": "UK, 의사 주도 NHS\nAI 위원회 청사진 수용",
+      "body": "정부가 청사진을 전면 수용했고 MHRA AI Airlock은 다음 단계를 연다.",
+      "mini_headline": "UK, NHS AI 청사진 수용",
       "tool": "Medicine",
-      "source": "Nature Health",
-      "url": "https://www.nature.com/articles/s44360-026-00189-9",
+      "source": "GOV.UK (DHSC/MHRA)",
+      "url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "건강 정보를 AI로 찾는 사람은 늘었지만, 일반인이 호흡기 질환을 진단하고 중증도를 가릴 때 AI가 얼마나 도움이 되는지는 아직 분명하지 않다. 연구진은 호흡기 지식 계층을 얹고 과업 범위를 좁힌 WeChat 기반(WeChat-based) GPT-4o 챗봇 LungDiag를 기존 모바일 웹 검색과 맞붙였다. 전향적·다기관·단일맹검 무작위 모의 사례 비교 연구다."
-          },
-          {
-            "t": "p",
-            "x": "2025년 4월부터 6월까지 중국 24개 의료 시스템에서 정식 의학 교육을 받지 않은 성인 2,400명을 LungDiag 지원군과 브라우저 검색군에 1:1로 무작위 배정했다. 대조군 쪽은 AI 검색 기능을 껐다."
-          },
-          {
             "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-            "cap": "Fig. 1: 연구 흐름도."
+            "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
           },
           {
             "t": "p",
-            "x": "설문지 2,176건을 놓고 한 1차 분석에서 LungDiag의 전체 정확도는 대조군보다 높았다(70.0% 대 55.4%). 위험 차이로는 14.6%포인트다. 격차는 진단 문항에서 가장 컸고(81.2% 대 54.5%) 분류 문항에서는 덜 벌어졌다(53.4% 대 47.1%). 대신 LungDiag 쪽이 끝내는 데 시간이 더 걸렸다(중앙값 527초 대 461초)."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-            "cap": "Fig. 2: LungDiag군과 웹 검색 대조군의 문항 단위 단순 통합 정확도."
+            "x": "정부는 오늘(2026년 10월 6일) 9월 10일 공개된 '의료 AI 규제 국가위원회'의 권고 44건을 모두 받아들인다고 확인했다. MHRA도 AI-enabled 의료기기 규제 샌드박스인 AI Airlock의 세 번째 단계 참가 신청을 받기 시작했다."
           },
           {
             "t": "p",
-            "x": "저자들은 이번 결과가 실제 진료 이용 행동이나 진단 지연, 임상 결과에 미치는 영향까지 보여 주지는 못한다고 밝혔다."
+            "x": "위원회는 AI-enabled 의료기기를 한 번의 평가에 기대지 말고 사용 기간 내내 평가하고 모니터링해야 한다고 결론 내렸다. 정부가 삼 년간 추가 재원을 대는 AI Airlock Phase 3는 시판 후 감시와 전 주기 규제에 무게를 둔다."
+          },
+          {
+            "t": "p",
+            "x": "MHRA는 2026년 12월까지 시간이 지나며 바뀌는 AI-enabled 기기의 변경 관리 지침 초안을 내고 내년에는 이들 기기의 적격성 판단과 분류 방식을 놓고 의견을 모은다. 유망한 AI 도구를 면밀한 감독 아래 NHS에서 더 일찍 쓰게 하는 단계별 허가 경로도 약속했다. 전체 이행 로드맵은 2027년 봄까지 나온다."
+          },
+          {
+            "t": "p",
+            "x": "MHRA의 Lawrence Tallon 최고경영자는 NHS 의사들이 이끈 위원회가 \"명확하고 야심 찬 청사진을 내놓았다\"고 말했다. 신청자 웨비나는 10월 22일에 열리고 첫 혁신 기업은 2026년 11월에 선정된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "GPT-4o chatbot in WeChat\nimproves lay triage accuracy",
-          "body": "A randomized study of 2,400 laypeople found a GPT-4o chatbot in WeChat improved respiratory diagnosis and triage.",
-          "mini_headline": "WeChat chatbot aids triage",
+          "headline": "UK backs doctor-led NHS\nAI Commission blueprint",
+          "body": "Ministers back the independent Commission's blueprint in full as the MHRA's AI Airlock opens its next phase.",
+          "mini_headline": "UK backs NHS AI blueprint",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI tools are increasingly used for health information seeking, but their performance in layperson respiratory diagnosis and triage remains uncertain. Researchers assessed LungDiag, a task-constrained WeChat-based GPT-4o chatbot with a respiratory knowledge layer, against conventional mobile web search in a prospective, multicentre, single-blind, randomized simulated-case comparison."
-              },
-              {
-                "t": "p",
-                "x": "Between April and June 2025, 2,400 adults without formal medical training at 24 Chinese healthcare systems were randomly assigned 1:1 to LungDiag assistance or browser-based search, with AI search functions disabled in the control arm."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-                "cap": "Fig. 1: Study flowchart."
+                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
               },
               {
                 "t": "p",
-                "x": "In the primary analysis of 2,176 questionnaires, LungDiag achieved higher overall accuracy than the control (70.0% versus 55.4%), a risk difference of 14.6 percentage points. The largest difference was for diagnosis items (81.2% versus 54.5%), whereas triage gains were smaller (53.4% versus 47.1%). LungDiag required a longer completion time (median 527 s versus 461 s)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-                "cap": "Fig. 2: Crude pooled item-level accuracy for the LungDiag group and the web search control group."
+                "x": "The government has today, 6 October 2026, confirmed it will accept all 44 recommendations made by the National Commission into the Regulation of AI in Healthcare, published 10 September. Alongside the response, the MHRA is opening applications for the third phase of AI Airlock, its regulatory sandbox for AI-enabled medical devices."
               },
               {
                 "t": "p",
-                "x": "The authors note the findings do not establish effects on real-world care-seeking, diagnostic delay or clinical outcomes."
+                "x": "A central conclusion of the Commission was that AI-enabled medical devices should be assessed and monitored throughout their working life, instead of over-relying on one-time assessments. AI Airlock Phase 3, backed by three years of additional government funding, will focus on post-market surveillance and lifecycle regulation."
+              },
+              {
+                "t": "p",
+                "x": "The MHRA will issue draft guidance by December 2026 on managing changes to AI-enabled devices as they adapt over time, and will consult next year on how to qualify and classify them. Other commitments include staged authorisation pathways allowing promising AI tools to be used in the NHS earlier under close supervision. A full implementation roadmap will be published by Spring 2027."
+              },
+              {
+                "t": "p",
+                "x": "Lawrence Tallon, the MHRA's Chief Executive, said the Commission, led by NHS doctors, \"has given us a clear and ambitious blueprint\". A webinar for applicants takes place on 22 October; the first wave of innovators will be selected in November 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "WeChat GPT-4o\n일반인 분류 정확도 높여",
-          "body": "2,400명 무작위 연구에서 GPT-4o 챗봇이 일반인 호흡기 진단·분류를 도왔다.",
-          "mini_headline": "WeChat 챗봇이 분류를 돕다",
+          "headline": "UK, 의사 주도 NHS\nAI 위원회 청사진 수용",
+          "body": "정부가 청사진을 전면 수용했고 MHRA AI Airlock은 다음 단계를 연다.",
+          "mini_headline": "UK, NHS AI 청사진 수용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "건강 정보를 AI로 찾는 사람은 늘었지만, 일반인이 호흡기 질환을 진단하고 중증도를 가릴 때 AI가 얼마나 도움이 되는지는 아직 분명하지 않다. 연구진은 호흡기 지식 계층을 얹고 과업 범위를 좁힌 WeChat 기반(WeChat-based) GPT-4o 챗봇 LungDiag를 기존 모바일 웹 검색과 맞붙였다. 전향적·다기관·단일맹검 무작위 모의 사례 비교 연구다."
-              },
-              {
-                "t": "p",
-                "x": "2025년 4월부터 6월까지 중국 24개 의료 시스템에서 정식 의학 교육을 받지 않은 성인 2,400명을 LungDiag 지원군과 브라우저 검색군에 1:1로 무작위 배정했다. 대조군 쪽은 AI 검색 기능을 껐다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-                "cap": "Fig. 1: 연구 흐름도."
+                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
               },
               {
                 "t": "p",
-                "x": "설문지 2,176건을 놓고 한 1차 분석에서 LungDiag의 전체 정확도는 대조군보다 높았다(70.0% 대 55.4%). 위험 차이로는 14.6%포인트다. 격차는 진단 문항에서 가장 컸고(81.2% 대 54.5%) 분류 문항에서는 덜 벌어졌다(53.4% 대 47.1%). 대신 LungDiag 쪽이 끝내는 데 시간이 더 걸렸다(중앙값 527초 대 461초)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-                "cap": "Fig. 2: LungDiag군과 웹 검색 대조군의 문항 단위 단순 통합 정확도."
+                "x": "정부는 오늘(2026년 10월 6일) 9월 10일 공개된 '의료 AI 규제 국가위원회'의 권고 44건을 모두 받아들인다고 확인했다. MHRA도 AI-enabled 의료기기 규제 샌드박스인 AI Airlock의 세 번째 단계 참가 신청을 받기 시작했다."
               },
               {
                 "t": "p",
-                "x": "저자들은 이번 결과가 실제 진료 이용 행동이나 진단 지연, 임상 결과에 미치는 영향까지 보여 주지는 못한다고 밝혔다."
+                "x": "위원회는 AI-enabled 의료기기를 한 번의 평가에 기대지 말고 사용 기간 내내 평가하고 모니터링해야 한다고 결론 내렸다. 정부가 삼 년간 추가 재원을 대는 AI Airlock Phase 3는 시판 후 감시와 전 주기 규제에 무게를 둔다."
+              },
+              {
+                "t": "p",
+                "x": "MHRA는 2026년 12월까지 시간이 지나며 바뀌는 AI-enabled 기기의 변경 관리 지침 초안을 내고 내년에는 이들 기기의 적격성 판단과 분류 방식을 놓고 의견을 모은다. 유망한 AI 도구를 면밀한 감독 아래 NHS에서 더 일찍 쓰게 하는 단계별 허가 경로도 약속했다. 전체 이행 로드맵은 2027년 봄까지 나온다."
+              },
+              {
+                "t": "p",
+                "x": "MHRA의 Lawrence Tallon 최고경영자는 NHS 의사들이 이끈 위원회가 \"명확하고 야심 찬 청사진을 내놓았다\"고 말했다. 신청자 웨비나는 10월 22일에 열리고 첫 혁신 기업은 2026년 11월에 선정된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WeChatのGPT-4o\n一般人のトリアージ精度向上",
-          "body": "一般人2,400人の無作為化試験でWeChatのGPT-4oが呼吸器診断と振り分けを高めた。",
-          "mini_headline": "WeChatチャットボットがトリアージを支援",
+          "headline": "UK、医師主導のNHS\nAI委員会の青写真を支持",
+          "body": "閣僚は委員会の青写真を全面支持し、MHRAのAI Airlockは次の段階に入る。",
+          "mini_headline": "UK、NHSのAI青写真を支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "健康情報の検索にAIツールを使う人は増えているが、一般人による呼吸器疾患の診断とトリアージにおける性能はなお不確かだ。研究チームは、呼吸器の知識層を備え、タスクを限定したWeChatベース（WeChat-based）のGPT-4oチャットボットLungDiagを、従来のモバイルWeb検索と比較した。前向き・多施設・単盲検の無作為化模擬症例比較である。"
-              },
-              {
-                "t": "p",
-                "x": "2025年4月から6月にかけ、中国の24の医療システムで正式な医学教育を受けていない成人2,400人を、LungDiagの支援群とブラウザ検索群に1:1で無作為に割り付けた。対照群ではAI検索機能を無効にした。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究のフローチャート。"
+                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
               },
               {
                 "t": "p",
-                "x": "質問票2,176件を対象とした主解析で、LungDiagの全体正答率は対照群を上回った（70.0%対55.4%）。リスク差は14.6パーセントポイントである。差が最も大きかったのは診断項目（81.2%対54.5%）で、トリアージの改善幅は小さかった（53.4%対47.1%）。LungDiagは回答完了までの時間が長かった（中央値527秒対461秒）。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-                "cap": "Fig. 2: LungDiag群とWeb検索対照群における項目単位の粗統合正答率。"
+                "x": "政府は本日2026年10月6日、9月10日に公表された「医療AI規制に関する国家委員会」の勧告44項目をすべて受け入れると確認した。あわせてMHRAは、AI-enabled医療機器向けの規制サンドボックスであるAI Airlockの第三段階の応募受付を始めた。"
               },
               {
                 "t": "p",
-                "x": "著者らは、今回の結果が実際の受診行動や診断の遅れ、臨床転帰への効果を示すものではないと指摘している。"
+                "x": "委員会の中心的な結論は、AI-enabled医療機器を一度きりの評価に頼りすぎず、使用期間を通じて評価・監視すべきだというものだった。政府が三年間の追加資金を出すAI Airlock Phase 3は、市販後調査とライフサイクル規制に重点を置く。"
+              },
+              {
+                "t": "p",
+                "x": "MHRAは2026年12月までに、時間とともに変化するAI-enabled機器の変更管理に関するガイダンス案を出し、来年にはその適格性判断と分類について意見を募る。このほか、有望なAIツールを厳格な監督の下でNHSにより早く導入できる段階的な承認経路も約束に含まれる。実施ロードマップの全体は2027年春までに公表される。"
+              },
+              {
+                "t": "p",
+                "x": "MHRAのLawrence Tallon最高経営責任者は、NHSの医師が率いた委員会が「明確で野心的な青写真を示してくれた」と述べた。応募者向けウェビナーは10月22日に開かれ、最初のイノベーター群は2026年11月に選ばれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WeChat内GPT-4o\n提升普通人分诊准确率",
-          "body": "2,400名普通人的随机研究中，WeChat内GPT-4o聊天机器人提升了呼吸道诊断与分诊。",
-          "mini_headline": "WeChat聊天机器人助力分诊",
+          "headline": "UK支持医生主导的NHS\nAI委员会提出的蓝图",
+          "body": "大臣们全面支持独立委员会的蓝图，MHRA的AI Airlock同时进入下一阶段。",
+          "mini_headline": "UK支持NHS AI蓝图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI工具越来越多地用于获取健康信息，但其在普通人呼吸道疾病诊断与分诊中的表现仍不明确。研究人员通过一项前瞻性、多中心、单盲、随机模拟病例对照比较，评估了LungDiag与传统移动网页搜索的差异。LungDiag是一款基于WeChat（WeChat-based）、限定任务范围并配备呼吸道知识层的GPT-4o聊天机器人。"
-              },
-              {
-                "t": "p",
-                "x": "2025年4月至6月，中国24个医疗系统中2,400名未受过正规医学训练的成年人按1:1随机分配至LungDiag辅助组或浏览器搜索组，对照组的AI搜索功能被关闭。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究流程图。"
+                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
               },
               {
                 "t": "p",
-                "x": "在对2,176份问卷的主要分析中，LungDiag的总体准确率高于对照组（70.0%对55.4%），风险差为14.6个百分点。差异在诊断题上最大（81.2%对54.5%），分诊方面的提升较小（53.4%对47.1%）。LungDiag的完成时间更长（中位数527秒对461秒）。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-                "cap": "Fig. 2: LungDiag组与网页搜索对照组的题目层面粗合并准确率。"
+                "x": "政府今天（2026年10月6日）确认，将全部接受9月10日发布的“国家医疗AI监管委员会”提出的44项建议。与此同时，MHRA开始受理AI Airlock第三阶段的申请，这是其面向AI-enabled医疗器械的监管沙盒。"
               },
               {
                 "t": "p",
-                "x": "作者指出，这些结果并不能证明其对现实中的就医行为、诊断延误或临床结局有影响。"
+                "x": "委员会的核心结论是，AI-enabled医疗器械应在整个使用周期内接受评估和监测，而不是过度依赖一次性评估。AI Airlock Phase 3获得政府额外三年的资金支持，将聚焦上市后监测和全生命周期监管。"
+              },
+              {
+                "t": "p",
+                "x": "MHRA将在2026年12月前发布指南草案，说明如何管理随时间不断调整的AI-enabled器械的变更，并将在明年就其资格认定和分类方式征求意见。其他承诺还包括分阶段授权路径，让有前景的AI工具在严密监督下更早进入NHS使用。完整的实施路线图将于2027年春季前公布。"
+              },
+              {
+                "t": "p",
+                "x": "MHRA首席执行官Lawrence Tallon表示，由NHS医生领导的委员会“为我们提供了清晰而雄心勃勃的蓝图”。面向申请者的网络研讨会将于10月22日举行，首批创新者将于2026年11月选出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un chatbot GPT-4o en WeChat\nmejora el triaje de no expertos",
-          "body": "En un ensayo aleatorizado con 2,400 legos, un chatbot GPT-4o en WeChat mejoró el diagnóstico respiratorio y el triaje.",
-          "mini_headline": "Un chatbot de WeChat ayuda al triaje",
+          "headline": "UK respalda el plan de la NHS\nAI Commission de médicos",
+          "body": "Los ministros respaldan del todo el plan de la comisión mientras el AI Airlock de la MHRA abre su siguiente fase.",
+          "mini_headline": "UK respalda el plan de AI del NHS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Las herramientas de AI se usan cada vez más para buscar información de salud, pero su rendimiento en el diagnóstico y el triaje respiratorio realizados por legos sigue siendo incierto. Los investigadores evaluaron LungDiag, un chatbot GPT-4o basado en WeChat (WeChat-based), limitado a la tarea y con una capa de conocimiento respiratorio, frente a la búsqueda web móvil convencional en una comparación prospectiva, multicéntrica, simple ciego y aleatorizada con casos simulados."
-              },
-              {
-                "t": "p",
-                "x": "Entre abril y junio de 2025, 2,400 adultos sin formación médica formal de 24 sistemas de salud chinos fueron asignados al azar 1:1 a la asistencia de LungDiag o a la búsqueda en navegador, con las funciones de búsqueda con AI desactivadas en el grupo de control."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-                "cap": "Fig. 1: Diagrama de flujo del estudio."
+                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
               },
               {
                 "t": "p",
-                "x": "En el análisis principal de 2,176 cuestionarios, LungDiag logró una precisión global mayor que el control (70.0% frente a 55.4%), una diferencia de riesgo de 14.6 puntos porcentuales. La mayor diferencia se dio en los ítems de diagnóstico (81.2% frente a 54.5%), mientras que las mejoras en triaje fueron menores (53.4% frente a 47.1%). LungDiag requirió más tiempo para completar la tarea (mediana de 527 s frente a 461 s)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-                "cap": "Fig. 2: Precisión agrupada bruta por ítem del grupo LungDiag y del grupo de control con búsqueda web."
+                "x": "El Gobierno confirmó hoy, 6 de octubre de 2026, que aceptará las 44 recomendaciones de la Comisión Nacional sobre la Regulación de la AI en la Atención Sanitaria, publicadas el 10 de septiembre. Junto con la respuesta, la MHRA abre las solicitudes para la tercera fase de AI Airlock, su entorno de pruebas regulatorio para dispositivos médicos AI-enabled."
               },
               {
                 "t": "p",
-                "x": "Los autores señalan que los resultados no demuestran efectos en la búsqueda real de atención, el retraso diagnóstico ni los resultados clínicos."
+                "x": "Una conclusión central de la Comisión fue que los dispositivos médicos AI-enabled deben evaluarse y vigilarse durante toda su vida útil, en lugar de depender en exceso de evaluaciones únicas. AI Airlock Phase 3, respaldada por tres años de financiación gubernamental adicional, se centrará en la vigilancia poscomercialización y en la regulación del ciclo de vida."
+              },
+              {
+                "t": "p",
+                "x": "La MHRA publicará antes de diciembre de 2026 un borrador de guía sobre cómo gestionar los cambios en los dispositivos AI-enabled a medida que se adaptan con el tiempo, y el próximo año consultará cómo calificarlos y clasificarlos. Otros compromisos incluyen vías de autorización escalonadas que permitirán usar antes en el NHS herramientas de AI prometedoras, bajo estrecha supervisión. Una hoja de ruta completa de implementación se publicará antes de la primavera de 2027."
+              },
+              {
+                "t": "p",
+                "x": "Lawrence Tallon, director ejecutivo de la MHRA, afirmó que la Comisión, dirigida por médicos del NHS, \"nos ha dado un plan claro y ambicioso\". El 22 de octubre se celebrará un seminario web para solicitantes; la primera tanda de innovadores se seleccionará en noviembre de 2026."
               }
             ]
           }
@@ -229,145 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "WeChat GPT-4o\n일반인 분류 정확도 높여",
-          "body": "일반인 2,400명 무작위 연구에서 GPT-4o 챗봇이 호흡기 진단·분류를 높였다.",
-          "mini_headline": "WeChat 챗봇, 분류를 돕다",
+          "headline": "UK, 의사 주도 NHS\nAI 위원회 청사진 수용",
+          "body": "정부가 청사진을 전면 수용했고 MHRA AI Airlock은 다음 단계를 연다.",
+          "mini_headline": "UK, NHS AI 청사진 수용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "건강 정보를 찾는 데 AI 도구를 쓰는 일이 늘고 있지만, 일반인의 호흡기 진단과 중증도 분류에서 AI 성능은 아직 불확실하다. 연구진은 호흡기 지식 계층을 갖추고 과업을 제한한 WeChat 기반(WeChat-based) GPT-4o 챗봇 LungDiag를 기존 모바일 웹 검색과 비교했다. 전향적·다기관·단일맹검 무작위 모의 사례 비교 연구다."
-              },
-              {
-                "t": "p",
-                "x": "2025년 4월부터 6월까지 중국 24개 의료 시스템에서 정식 의학 교육을 받지 않은 성인 2,400명을 LungDiag 지원군과 브라우저 검색군에 1:1로 무작위 배정했다. 대조군에서는 AI 검색 기능을 껐다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-                "cap": "Fig. 1: 연구 흐름도."
+                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
               },
               {
                 "t": "p",
-                "x": "설문지 2,176건을 대상으로 한 1차 분석에서 LungDiag의 전체 정확도는 대조군보다 높았다(70.0% 대 55.4%). 위험 차이는 14.6%포인트다. 차이는 진단 문항에서 가장 컸고(81.2% 대 54.5%), 분류 문항의 향상 폭은 작았다(53.4% 대 47.1%). LungDiag는 완료 시간이 더 길었다(중앙값 527초 대 461초)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-                "cap": "Fig. 2: LungDiag군과 웹 검색 대조군의 문항 단위 단순 통합 정확도."
+                "x": "정부는 오늘(2026년 10월 6일) 9월 10일 공개된 '의료 AI 규제 국가위원회'의 권고 44건을 모두 수용한다고 확인했다. 이와 함께 MHRA는 AI-enabled 의료기기를 위한 규제 샌드박스 AI Airlock의 세 번째 단계 참가 신청을 받기 시작했다."
               },
               {
                 "t": "p",
-                "x": "저자들은 이번 결과가 실제 진료 이용 행동, 진단 지연, 임상 결과에 미치는 영향까지 입증하지는 않는다고 밝혔다."
+                "x": "위원회의 핵심 결론은 AI-enabled 의료기기를 한 번의 평가에 지나치게 기대지 말고 사용 기간 내내 평가하고 모니터링해야 한다는 것이었다. 정부가 삼 년간 추가 재원을 지원하는 AI Airlock Phase 3는 시판 후 감시와 전 주기 규제에 초점을 맞춘다."
+              },
+              {
+                "t": "p",
+                "x": "MHRA는 2026년 12월까지 시간이 지나며 변하는 AI-enabled 기기의 변경 관리에 관한 지침 초안을 내고, 내년에는 이들 기기의 적격성 판단과 분류 방식에 대해 의견을 수렴한다. 유망한 AI 도구를 면밀한 감독 아래 NHS에서 더 일찍 쓸 수 있게 하는 단계별 허가 경로도 약속에 포함됐다. 전체 이행 로드맵은 2027년 봄까지 나온다."
+              },
+              {
+                "t": "p",
+                "x": "MHRA의 Lawrence Tallon 최고경영자는 NHS 의사들이 이끈 위원회가 \"명확하고 야심 찬 청사진을 내놓았다\"고 말했다. 신청자 대상 웨비나는 10월 22일 열리며, 첫 혁신 기업들은 2026년 11월 선정된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WeChatのGPT-4o\n一般人のトリアージ精度向上",
-          "body": "一般人2,400人の無作為化試験でWeChatのGPT-4oが呼吸器診断と振り分けを高めた。",
-          "mini_headline": "WeChatチャットボットがトリアージを支援",
+          "headline": "UK、医師主導のNHS\nAI委員会の青写真を支持",
+          "body": "閣僚は委員会の青写真を全面支持し、MHRAのAI Airlockは次の段階に入る。",
+          "mini_headline": "UK、NHSのAI青写真を支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "健康情報の検索にAIツールを使う人は増えているが、一般人による呼吸器疾患の診断とトリアージにおける性能はなお不確かだ。研究チームは、呼吸器の知識層を備え、タスクを限定したWeChatベース（WeChat-based）のGPT-4oチャットボットLungDiagを、従来のモバイルWeb検索と比較した。前向き・多施設・単盲検の無作為化模擬症例比較である。"
-              },
-              {
-                "t": "p",
-                "x": "2025年4月から6月にかけ、中国の24の医療システムで正式な医学教育を受けていない成人2,400人を、LungDiagの支援群とブラウザ検索群に1:1で無作為に割り付けた。対照群ではAI検索機能を無効にした。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究のフローチャート。"
+                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
               },
               {
                 "t": "p",
-                "x": "質問票2,176件を対象とした主解析で、LungDiagの全体正答率は対照群を上回った（70.0%対55.4%）。リスク差は14.6パーセントポイントである。差が最も大きかったのは診断項目（81.2%対54.5%）で、トリアージの改善幅は小さかった（53.4%対47.1%）。LungDiagは回答完了までの時間が長かった（中央値527秒対461秒）。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-                "cap": "Fig. 2: LungDiag群とWeb検索対照群における項目単位の粗統合正答率。"
+                "x": "政府は本日2026年10月6日、9月10日に公表された「医療AI規制に関する国家委員会」の勧告44項目をすべて受け入れると確認した。あわせてMHRAは、AI-enabled医療機器向けの規制サンドボックスであるAI Airlockの第三段階の応募受付を始めた。"
               },
               {
                 "t": "p",
-                "x": "著者らは、今回の結果が実際の受診行動や診断の遅れ、臨床転帰への効果を示すものではないと指摘している。"
+                "x": "委員会の中心的な結論は、AI-enabled医療機器を一度きりの評価に頼りすぎず、使用期間を通じて評価・監視すべきだというものだった。政府が三年間の追加資金を出すAI Airlock Phase 3は、市販後調査とライフサイクル規制に重点を置く。"
+              },
+              {
+                "t": "p",
+                "x": "MHRAは2026年12月までに、時間とともに変化するAI-enabled機器の変更管理に関するガイダンス案を出し、来年にはその適格性判断と分類について意見を募る。このほか、有望なAIツールを厳格な監督の下でNHSにより早く導入できる段階的な承認経路も約束に含まれる。実施ロードマップの全体は2027年春までに公表される。"
+              },
+              {
+                "t": "p",
+                "x": "MHRAのLawrence Tallon最高経営責任者は、NHSの医師が率いた委員会が「明確で野心的な青写真を示してくれた」と述べた。応募者向けウェビナーは10月22日に開かれ、最初のイノベーター群は2026年11月に選ばれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WeChat内GPT-4o\n提升普通人分诊准确率",
-          "body": "2,400名普通人的随机研究中，WeChat内GPT-4o聊天机器人提升了呼吸道诊断与分诊。",
-          "mini_headline": "WeChat聊天机器人助力分诊",
+          "headline": "UK支持医生主导的NHS\nAI委员会提出的蓝图",
+          "body": "大臣们全面支持独立委员会的蓝图，MHRA的AI Airlock同时进入下一阶段。",
+          "mini_headline": "UK支持NHS AI蓝图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI工具越来越多地用于获取健康信息，但其在普通人呼吸道疾病诊断与分诊中的表现仍不明确。研究人员通过一项前瞻性、多中心、单盲、随机模拟病例对照比较，评估了LungDiag与传统移动网页搜索的差异。LungDiag是一款基于WeChat（WeChat-based）、限定任务范围并配备呼吸道知识层的GPT-4o聊天机器人。"
-              },
-              {
-                "t": "p",
-                "x": "2025年4月至6月，中国24个医疗系统中2,400名未受过正规医学训练的成年人按1:1随机分配至LungDiag辅助组或浏览器搜索组，对照组的AI搜索功能被关闭。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-                "cap": "Fig. 1: 研究流程图。"
+                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
               },
               {
                 "t": "p",
-                "x": "在对2,176份问卷的主要分析中，LungDiag的总体准确率高于对照组（70.0%对55.4%），风险差为14.6个百分点。差异在诊断题上最大（81.2%对54.5%），分诊方面的提升较小（53.4%对47.1%）。LungDiag的完成时间更长（中位数527秒对461秒）。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-                "cap": "Fig. 2: LungDiag组与网页搜索对照组的题目层面粗合并准确率。"
+                "x": "政府今天（2026年10月6日）确认，将全部接受9月10日发布的“国家医疗AI监管委员会”提出的44项建议。与此同时，MHRA开始受理AI Airlock第三阶段的申请，这是其面向AI-enabled医疗器械的监管沙盒。"
               },
               {
                 "t": "p",
-                "x": "作者指出，这些结果并不能证明其对现实中的就医行为、诊断延误或临床结局有影响。"
+                "x": "委员会的核心结论是，AI-enabled医疗器械应在整个使用周期内接受评估和监测，而不是过度依赖一次性评估。AI Airlock Phase 3获得政府额外三年的资金支持，将聚焦上市后监测和全生命周期监管。"
+              },
+              {
+                "t": "p",
+                "x": "MHRA将在2026年12月前发布指南草案，说明如何管理随时间不断调整的AI-enabled器械的变更，并将在明年就其资格认定和分类方式征求意见。其他承诺还包括分阶段授权路径，让有前景的AI工具在严密监督下更早进入NHS使用。完整的实施路线图将于2027年春季前公布。"
+              },
+              {
+                "t": "p",
+                "x": "MHRA首席执行官Lawrence Tallon表示，由NHS医生领导的委员会“为我们提供了清晰而雄心勃勃的蓝图”。面向申请者的网络研讨会将于10月22日举行，首批创新者将于2026年11月选出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un chatbot GPT-4o en WeChat\nmejora el triaje de no expertos",
-          "body": "En un ensayo aleatorizado con 2,400 legos, un chatbot GPT-4o en WeChat mejoró el diagnóstico respiratorio y el triaje.",
-          "mini_headline": "Un chatbot de WeChat ayuda al triaje",
+          "headline": "UK respalda el plan de la NHS\nAI Commission de médicos",
+          "body": "Los ministros respaldan del todo el plan de la comisión mientras el AI Airlock de la MHRA abre su siguiente fase.",
+          "mini_headline": "UK respalda el plan de AI del NHS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Las herramientas de AI se usan cada vez más para buscar información de salud, pero su rendimiento en el diagnóstico y el triaje respiratorio realizados por legos sigue siendo incierto. Los investigadores evaluaron LungDiag, un chatbot GPT-4o basado en WeChat (WeChat-based), limitado a la tarea y con una capa de conocimiento respiratorio, frente a la búsqueda web móvil convencional en una comparación prospectiva, multicéntrica, simple ciego y aleatorizada con casos simulados."
-              },
-              {
-                "t": "p",
-                "x": "Entre abril y junio de 2025, 2,400 adultos sin formación médica formal de 24 sistemas de salud chinos fueron asignados al azar 1:1 a la asistencia de LungDiag o a la búsqueda en navegador, con las funciones de búsqueda con AI desactivadas en el grupo de control."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-                "cap": "Fig. 1: Diagrama de flujo del estudio."
+                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
               },
               {
                 "t": "p",
-                "x": "En el análisis principal de 2,176 cuestionarios, LungDiag logró una precisión global mayor que el control (70.0% frente a 55.4%), una diferencia de riesgo de 14.6 puntos porcentuales. La mayor diferencia se dio en los ítems de diagnóstico (81.2% frente a 54.5%), mientras que las mejoras en triaje fueron menores (53.4% frente a 47.1%). LungDiag requirió más tiempo para completar la tarea (mediana de 527 s frente a 461 s)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
-                "cap": "Fig. 2: Precisión agrupada bruta por ítem del grupo LungDiag y del grupo de control con búsqueda web."
+                "x": "El Gobierno confirmó hoy, 6 de octubre de 2026, que aceptará las 44 recomendaciones de la Comisión Nacional sobre la Regulación de la AI en la Atención Sanitaria, publicadas el 10 de septiembre. Junto con la respuesta, la MHRA abre las solicitudes para la tercera fase de AI Airlock, su entorno de pruebas regulatorio para dispositivos médicos AI-enabled."
               },
               {
                 "t": "p",
-                "x": "Los autores señalan que los resultados no demuestran efectos en la búsqueda real de atención, el retraso diagnóstico ni los resultados clínicos."
+                "x": "Una conclusión central de la Comisión fue que los dispositivos médicos AI-enabled deben evaluarse y vigilarse durante toda su vida útil, en lugar de depender en exceso de evaluaciones únicas. AI Airlock Phase 3, respaldada por tres años de financiación gubernamental adicional, se centrará en la vigilancia poscomercialización y en la regulación del ciclo de vida."
+              },
+              {
+                "t": "p",
+                "x": "La MHRA publicará antes de diciembre de 2026 un borrador de guía sobre cómo gestionar los cambios en los dispositivos AI-enabled a medida que se adaptan con el tiempo, y el próximo año consultará cómo calificarlos y clasificarlos. Otros compromisos incluyen vías de autorización escalonadas que permitirán usar antes en el NHS herramientas de AI prometedoras, bajo estrecha supervisión. Una hoja de ruta completa de implementación se publicará antes de la primavera de 2027."
+              },
+              {
+                "t": "p",
+                "x": "Lawrence Tallon, director ejecutivo de la MHRA, afirmó que la Comisión, dirigida por médicos del NHS, \"nos ha dado un plan claro y ambicioso\". El 22 de octubre se celebrará un seminario web para solicitantes; la primera tanda de innovadores se seleccionará en noviembre de 2026."
               }
             ]
           }
@@ -375,15 +315,15 @@
       }
     },
     {
-      "id": "medicine-medgemma-open-vlm-nature-medicine",
+      "id": "medicine-prostate-mri-ai-radiologist-parity",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "오픈 모델 MedGemma\n의료 영상·텍스트 다뤄",
-      "body": "Gemma 3 기반 MedGemma는 영상·임상 텍스트에서 동급 모델을 앞섰다.",
-      "mini_headline": "오픈 모델로 나온 MedGemma",
+      "headline": "AI, 전립선암 MRI서\n영상의학 전문의와 대등",
+      "body": "전립선 MRI 22,000건 이상에서 AI는 영상의학 전문의만큼 암을 찾았다.",
+      "mini_headline": "AI, 전립선 MRI 판독 대등",
       "tool": "Medicine",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04626-w",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -391,185 +331,155 @@
         "blocks": [
           {
             "t": "p",
-            "x": "의료 AI는 학습도 배포도 쉽지 않다. 데이터가 제각각이고 과제 범위가 복잡한 데다 개인정보 보호 요구도 무겁기 때문이다. 저자들이 내놓은 MedGemma는 Gemma 3 기반의 의료용 비전-언어 파운데이션 모델 모음이다."
+            "x": "MRI로 전립선암을 찾는 AI의 실력이 영상의학 전문의와 대등할 수 있다는 연구가 13일 Radiology에 실렸다. 네덜란드 Nijmegen의 Radboud University Medical Center 소속 Anindo Saha, PhD가 이끈 연구팀은 외부 진단·검진 데이터셋 전반에서 AI 시스템이 Gleason 등급군 ≥2 전립선암을 영상의학 전문의와 비슷한 수준으로 진단했다고 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-            "cap": "Fig. 1: MedGemma 모델 개요."
+            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+            "cap": "여러 국가 기관의 전립선 MRI 검사에서 AI가 Gleason 등급군 ≥2 암을 검출한 사례. RSNA"
           },
           {
             "t": "p",
-            "x": "MedGemma는 영상과 텍스트, 여러 영상 영역을 가리지 않고 의학을 깊이 이해하고 추론한다. Gemma 기본 모델의 일반 능력은 그대로 지키면서 비슷한 크기의 생성 모델을 앞선다. 분포 밖 과제에서도 기본 모델보다 의료 영상 질의응답은 2.6–10%, 흉부 X-ray 소견 분류는 15.5–18.1%, 에이전트 평가는 10.8% 올랐다."
+            "x": "SCARLET-1 연구는 22개국 46개 도시 남성 21,252명의 전립선 MRI 검사 22,445건을 담았다. AI의 외부 AUCs는 진단 환경에서 0.86, 두 검진 환경에서 각각 0.89와 0.84였다. 영상의학 판독과 일치한 비율은 83.0%에서 87.9%였다."
           },
           {
             "t": "p",
-            "x": "의료 과제라면 기본 Gemma 3보다 MedGemma를 미세조정하는 편이 나을 수 있고, 학습 데이터가 적을수록 더 그렇다. 연구팀은 SigLIP에서 파생해 의료용으로 다듬은 비전 인코더 MedSigLIP도 함께 내놓았다. MedSigLIP가 MedGemma의 시각 이해를 받쳐 주며, 성능은 여러 특화 의료 영상 인코더와 대등하거나 그 이상이다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-            "cap": "Fig. 2: MedGemma 4B의 개방형 멀티모달 질의응답 예시."
+            "x": "성능은 25개 기관과 영상 품질에 따라 달랐다. 연구팀은 \"이번 결과는 특히 세부 전문 인력이 부족한 곳에서 AI가 전립선 MRI 판독을 넓히는 역할을 할 가능성을 뒷받침한다\"고 썼다. 다만 안전하게 임상에 쓰려면 현지 검증과 장기적인 성능 모니터링이 필요하다고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MedGemma: an open model\nfor medical images and text",
-          "body": "Open MedGemma models, built on Gemma 3, beat similarly sized generative models on imaging and clinical text tasks.",
-          "mini_headline": "MedGemma goes open",
+          "headline": "AI matches radiologists on\nprostate cancer MRI",
+          "body": "Across more than 22,000 prostate MRI exams, AI detected cancer about as well as radiologists did.",
+          "mini_headline": "AI matches prostate MRI readers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AI training and deployment in healthcare are challenging due to diverse data, a complex spectrum of tasks and important privacy needs. The authors introduce MedGemma, a collection of medical vision-language foundation models based on Gemma 3."
+                "x": "AI may be on par with radiologists for finding prostate cancer on MRI, according to research published October 13 in Radiology. A team led by Anindo Saha, PhD, from Radboud University Medical Center in Nijmegen, the Netherlands, found an AI system achieved diagnostic performance comparable to radiologists for Gleason grade group ≥2 prostate cancer across external diagnostic and screening datasets."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-                "cap": "Fig. 1: Overview of the MedGemma models."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+                "cap": "Prostate MRI exams illustrating AI detection of Gleason grade group ≥2 cancers across international sites. RSNA"
               },
               {
                 "t": "p",
-                "x": "MedGemma demonstrates advanced medical understanding and reasoning across images, text and multiple imaging domains, exceeding similarly sized generative models while keeping the general capabilities of the Gemma base models. On out-of-distribution tasks it improves on the base models by 2.6–10% in medical image question answering, 15.5–18.1% in chest X-ray finding classification and 10.8% in agentic evaluations."
+                "x": "The SCARLET-1 study included 22,445 prostate MRI exams from 21,252 men across 46 cities in 22 countries. The AI reached external AUCs of 0.86 in the diagnostic setting and 0.89 and 0.84 in two screening settings, with 83.0% to 87.9% agreement with radiology readings."
               },
               {
                 "t": "p",
-                "x": "Fine-tuning MedGemma can be more effective than fine-tuning base Gemma 3 for medical tasks, particularly with limited training data. The team also introduces MedSigLIP, a medically tuned vision encoder derived from SigLIP that powers MedGemma's visual understanding and matches or beats many specialized medical image encoders."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-                "cap": "Fig. 2: Examples of open-ended multimodal question answering with MedGemma 4B."
+                "x": "Performance varied across 25 sites and with image quality. \"These findings support a potential role for AI in extending prostate MRI interpretation, particularly where subspecialty expertise is limited,\" the team wrote, adding that safe clinical use will require local testing and longitudinal performance monitoring."
               }
             ]
           }
         },
         "ko": {
-          "headline": "오픈 모델 MedGemma\n의료 영상·텍스트 다뤄",
-          "body": "Gemma 3 기반 MedGemma는 영상·임상 텍스트에서 동급 모델을 앞섰다.",
-          "mini_headline": "오픈 모델로 나온 MedGemma",
+          "headline": "AI, 전립선암 MRI서\n영상의학 전문의와 대등",
+          "body": "전립선 MRI 22,000건 이상에서 AI는 영상의학 전문의만큼 암을 찾았다.",
+          "mini_headline": "AI, 전립선 MRI 판독 대등",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "의료 AI는 학습도 배포도 쉽지 않다. 데이터가 제각각이고 과제 범위가 복잡한 데다 개인정보 보호 요구도 무겁기 때문이다. 저자들이 내놓은 MedGemma는 Gemma 3 기반의 의료용 비전-언어 파운데이션 모델 모음이다."
+                "x": "MRI로 전립선암을 찾는 AI의 실력이 영상의학 전문의와 대등할 수 있다는 연구가 13일 Radiology에 실렸다. 네덜란드 Nijmegen의 Radboud University Medical Center 소속 Anindo Saha, PhD가 이끈 연구팀은 외부 진단·검진 데이터셋 전반에서 AI 시스템이 Gleason 등급군 ≥2 전립선암을 영상의학 전문의와 비슷한 수준으로 진단했다고 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-                "cap": "Fig. 1: MedGemma 모델 개요."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+                "cap": "여러 국가 기관의 전립선 MRI 검사에서 AI가 Gleason 등급군 ≥2 암을 검출한 사례. RSNA"
               },
               {
                 "t": "p",
-                "x": "MedGemma는 영상과 텍스트, 여러 영상 영역을 가리지 않고 의학을 깊이 이해하고 추론한다. Gemma 기본 모델의 일반 능력은 그대로 지키면서 비슷한 크기의 생성 모델을 앞선다. 분포 밖 과제에서도 기본 모델보다 의료 영상 질의응답은 2.6–10%, 흉부 X-ray 소견 분류는 15.5–18.1%, 에이전트 평가는 10.8% 올랐다."
+                "x": "SCARLET-1 연구는 22개국 46개 도시 남성 21,252명의 전립선 MRI 검사 22,445건을 담았다. AI의 외부 AUCs는 진단 환경에서 0.86, 두 검진 환경에서 각각 0.89와 0.84였다. 영상의학 판독과 일치한 비율은 83.0%에서 87.9%였다."
               },
               {
                 "t": "p",
-                "x": "의료 과제라면 기본 Gemma 3보다 MedGemma를 미세조정하는 편이 나을 수 있고, 학습 데이터가 적을수록 더 그렇다. 연구팀은 SigLIP에서 파생해 의료용으로 다듬은 비전 인코더 MedSigLIP도 함께 내놓았다. MedSigLIP가 MedGemma의 시각 이해를 받쳐 주며, 성능은 여러 특화 의료 영상 인코더와 대등하거나 그 이상이다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-                "cap": "Fig. 2: MedGemma 4B의 개방형 멀티모달 질의응답 예시."
+                "x": "성능은 25개 기관과 영상 품질에 따라 달랐다. 연구팀은 \"이번 결과는 특히 세부 전문 인력이 부족한 곳에서 AI가 전립선 MRI 판독을 넓히는 역할을 할 가능성을 뒷받침한다\"고 썼다. 다만 안전하게 임상에 쓰려면 현지 검증과 장기적인 성능 모니터링이 필요하다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MedGemma：オープンな\n医療画像・テキストモデル",
-          "body": "Gemma 3ベースのMedGemmaが画像と臨床テキストで同規模の生成モデルを上回った。",
-          "mini_headline": "MedGemmaをオープン公開",
+          "headline": "AI、前立腺がんMRIで\n放射線科医と同等の精度",
+          "body": "22,000件超の前立腺MRI検査で、AIは放射線科医とほぼ同等にがんを検出した。",
+          "mini_headline": "AI、前立腺MRI読影で医師並み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "医療におけるAIの学習と導入は、多様なデータ、複雑で幅広いタスク、重要なプライバシー要件のために難しい。著者らは、Gemma 3を基盤とする医療用の視覚言語基盤モデル群MedGemmaを発表した。"
+                "x": "13日付のRadiologyに掲載された研究によると、MRIで前立腺がんを見つける能力において、AIは放射線科医と同等である可能性がある。オランダNijmegenのRadboud University Medical CenterのAnindo Saha, PhDが率いるチームは、外部の診断用・検診用データセット全体で、AIシステムがGleason grade group ≥2の前立腺がんについて放射線科医に匹敵する診断性能を示したと報告した。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-                "cap": "Fig. 1: MedGemmaモデルの概要。"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+                "cap": "各国の施設で、AIがGleason grade group ≥2のがんを検出した前立腺MRI検査の例。RSNA"
               },
               {
                 "t": "p",
-                "x": "MedGemmaは画像、テキスト、複数の画像領域にわたって高度な医学的理解と推論を示し、Gemmaベースモデルの汎用能力を保ちながら、同規模の生成モデルを上回る。分布外タスクでは、ベースモデルに比べて医療画像の質問応答で2.6–10%、胸部X-ray所見分類で15.5–18.1%、エージェント評価で10.8%改善した。"
+                "x": "SCARLET-1研究には、22か国46都市の男性21,252人から得た前立腺MRI検査22,445件が含まれた。AIの外部AUCsは診断設定で0.86、二つの検診設定で0.89と0.84で、放射線科の読影との一致率は83.0%から87.9%だった。"
               },
               {
                 "t": "p",
-                "x": "医療タスクでは、ベースのGemma 3よりもMedGemmaをファインチューニングする方が効果的な場合があり、学習データが限られるときは特にそうだ。チームはまた、SigLIPから派生し医療向けに調整した視覚エンコーダーMedSigLIPも発表した。MedSigLIPはMedGemmaの視覚理解を支え、多くの専門的な医療画像エンコーダーと同等かそれ以上の性能を示す。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-                "cap": "Fig. 2: MedGemma 4Bによる自由回答型マルチモーダル質問応答の例。"
+                "x": "性能は25施設の間や画像の質によってばらついた。チームは「これらの結果は、とくにサブスペシャルティの専門知識が限られる場所で、AIが前立腺MRI読影を広げる役割を担いうることを裏付ける」と記し、安全な臨床利用には現地での検証と長期的な性能モニタリングが必要だと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MedGemma：开放模型\n面向医学影像与文本",
-          "body": "基于Gemma 3的开放MedGemma模型，在影像和临床文本任务上超越同等规模生成模型。",
-          "mini_headline": "MedGemma开放发布",
+          "headline": "AI在前列腺癌MRI上\n比肩放射科医生",
+          "body": "在超过22,000例前列腺MRI检查中，AI检出癌症的能力与放射科医生相当。",
+          "mini_headline": "AI前列腺MRI读片比肩医生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "由于数据多样、任务范围复杂且隐私要求重要，医疗领域的AI训练与部署面临挑战。作者推出了MedGemma，这是一组基于Gemma 3的医学视觉-语言基础模型。"
+                "x": "据13日发表在Radiology上的一项研究，AI在MRI上发现前列腺癌的能力可能与放射科医生相当。由荷兰Nijmegen的Radboud University Medical Center的Anindo Saha, PhD领导的团队发现，在外部诊断和筛查数据集中，AI系统对Gleason grade group ≥2前列腺癌的诊断性能与放射科医生相当。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-                "cap": "Fig. 1: MedGemma模型概览。"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+                "cap": "多国机构的前列腺MRI检查，展示AI检出Gleason grade group ≥2癌症的情况。RSNA"
               },
               {
                 "t": "p",
-                "x": "MedGemma在图像、文本及多个影像领域展现出先进的医学理解与推理能力，在保留Gemma基础模型通用能力的同时，超越了规模相近的生成模型。在分布外任务上，它相较基础模型在医学图像问答中提升2.6–10%，在胸部X-ray发现分类中提升15.5–18.1%，在智能体评估中提升10.8%。"
+                "x": "SCARLET-1研究纳入了来自22个国家46个城市21,252名男性的22,445例前列腺MRI检查。AI在诊断场景中的外部AUCs为0.86，在两个筛查场景中分别为0.89和0.84，与放射科判读的一致率为83.0%至87.9%。"
               },
               {
                 "t": "p",
-                "x": "在医学任务上，微调MedGemma可能比微调基础Gemma 3更有效，在训练数据有限时尤其如此。团队还推出了MedSigLIP，这是一款源自SigLIP、经医学调优的视觉编码器，为MedGemma的视觉理解提供支撑，其表现与许多专用医学图像编码器相当或更优。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-                "cap": "Fig. 2: MedGemma 4B开放式多模态问答示例。"
+                "x": "性能在25个站点之间以及随图像质量不同而有所差异。团队写道：“这些发现支持AI在扩展前列腺MRI判读方面可能发挥作用，尤其是在亚专科专业力量有限的地方。”他们还指出，要安全地用于临床，需要进行本地测试和长期性能监测。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MedGemma: un modelo abierto\npara imágenes y textos médicos",
-          "body": "MedGemma, abierto y basado en Gemma 3, supera a modelos generativos de su tamaño en imagen y texto clínico.",
-          "mini_headline": "MedGemma, en abierto",
+          "headline": "La AI iguala a los radiólogos\nen MRI de cáncer de próstata",
+          "body": "En más de 22,000 estudios de MRI de próstata, la AI detectó el cáncer casi tan bien como los radiólogos.",
+          "mini_headline": "La AI iguala a los lectores de MRI de próstata",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El entrenamiento y el despliegue de la AI en salud son difíciles por la diversidad de datos, el complejo abanico de tareas y las importantes exigencias de privacidad. Los autores presentan MedGemma, una colección de modelos fundacionales médicos de visión y lenguaje basados en Gemma 3."
+                "x": "La AI podría estar a la par de los radiólogos para detectar el cáncer de próstata en MRI, según una investigación publicada el 13 de octubre en Radiology. Un equipo dirigido por Anindo Saha, PhD, del Radboud University Medical Center en Nijmegen, Países Bajos, observó que un sistema de AI logró un rendimiento diagnóstico comparable al de los radiólogos para el cáncer de próstata de Gleason grade group ≥2 en conjuntos de datos externos de diagnóstico y cribado."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-                "cap": "Fig. 1: Descripción general de los modelos MedGemma."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+                "cap": "Estudios de MRI de próstata que ilustran la detección por AI de cánceres de Gleason grade group ≥2 en centros internacionales. RSNA"
               },
               {
                 "t": "p",
-                "x": "MedGemma muestra una comprensión y un razonamiento médicos avanzados en imágenes, texto y múltiples dominios de imagen, y supera a modelos generativos de tamaño similar sin perder las capacidades generales de los modelos base Gemma. En tareas fuera de distribución mejora a los modelos base en un 2.6–10% en preguntas y respuestas sobre imágenes médicas, en un 15.5–18.1% en la clasificación de hallazgos en X-ray de tórax y en un 10.8% en evaluaciones agénticas."
+                "x": "El estudio SCARLET-1 incluyó 22,445 estudios de MRI de próstata de 21,252 hombres en 46 ciudades de 22 países. La AI alcanzó AUCs externas de 0.86 en el entorno diagnóstico y de 0.89 y 0.84 en dos entornos de cribado, con una concordancia del 83.0% al 87.9% con las lecturas radiológicas."
               },
               {
                 "t": "p",
-                "x": "Ajustar MedGemma puede ser más eficaz que ajustar el modelo base Gemma 3 en tareas médicas, sobre todo con pocos datos de entrenamiento. El equipo presenta también MedSigLIP, un codificador visual ajustado para medicina y derivado de SigLIP, que impulsa la comprensión visual de MedGemma e iguala o supera a muchos codificadores especializados de imagen médica."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-                "cap": "Fig. 2: Ejemplos de preguntas y respuestas multimodales abiertas con MedGemma 4B."
+                "x": "El rendimiento varió entre 25 centros y según la calidad de imagen. \"Estos hallazgos respaldan un posible papel de la AI para ampliar la interpretación de MRI de próstata, sobre todo donde la experiencia subespecializada es limitada\", escribió el equipo, que añadió que un uso clínico seguro exigirá pruebas locales y un seguimiento longitudinal del rendimiento."
               }
             ]
           }
@@ -577,129 +487,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "오픈 모델 MedGemma\n의료 영상·텍스트 다뤄",
-          "body": "Gemma 3 기반 MedGemma가 영상·임상 텍스트에서 동급 모델을 앞섰다.",
-          "mini_headline": "MedGemma, 오픈 모델로 공개",
+          "headline": "AI, 전립선암 MRI서\n영상의학 전문의와 대등",
+          "body": "전립선 MRI 22,000건 이상에서 AI는 영상의학 전문의만큼 암을 찾았다.",
+          "mini_headline": "AI, 전립선 MRI 판독 대등",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "의료 분야의 AI 학습과 배포는 다양한 데이터, 복잡한 과제 범위, 중요한 개인정보 보호 요구 때문에 쉽지 않다. 저자들은 Gemma 3 기반 의료용 비전-언어 파운데이션 모델 모음인 MedGemma를 소개했다."
+                "x": "AI가 MRI에서 전립선암을 찾아내는 능력이 영상의학 전문의와 대등할 수 있다는 연구가 13일 Radiology에 실렸다. 네덜란드 Nijmegen의 Radboud University Medical Center 소속 Anindo Saha, PhD가 이끈 연구팀은 외부 진단 및 검진 데이터셋 전반에서 AI 시스템이 Gleason 등급군 ≥2 전립선암에 대해 영상의학 전문의와 비슷한 진단 성능을 보였다고 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-                "cap": "Fig. 1: MedGemma 모델 개요."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+                "cap": "여러 국가 기관의 전립선 MRI 검사에서 AI가 Gleason 등급군 ≥2 암을 검출한 사례. RSNA"
               },
               {
                 "t": "p",
-                "x": "MedGemma는 영상, 텍스트, 여러 영상 영역에 걸쳐 고도의 의학적 이해와 추론 능력을 보인다. Gemma 기본 모델의 일반 능력을 유지하면서도 비슷한 크기의 생성 모델을 앞선다. 분포 밖 과제에서는 기본 모델 대비 의료 영상 질의응답에서 2.6–10%, 흉부 X-ray 소견 분류에서 15.5–18.1%, 에이전트 평가에서 10.8% 향상됐다."
+                "x": "SCARLET-1 연구에는 22개국 46개 도시 남성 21,252명의 전립선 MRI 검사 22,445건이 포함됐다. AI의 외부 AUCs는 진단 환경에서 0.86, 두 검진 환경에서 각각 0.89와 0.84였고, 영상의학 판독과의 일치율은 83.0%에서 87.9%였다."
               },
               {
                 "t": "p",
-                "x": "의료 과제에서는 기본 Gemma 3보다 MedGemma를 미세조정하는 편이 더 효과적일 수 있으며, 학습 데이터가 적을 때 특히 그렇다. 연구팀은 SigLIP에서 파생해 의료용으로 조정한 비전 인코더 MedSigLIP도 소개했다. MedSigLIP는 MedGemma의 시각 이해를 뒷받침하며, 여러 특화 의료 영상 인코더와 대등하거나 이를 앞선다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-                "cap": "Fig. 2: MedGemma 4B의 개방형 멀티모달 질의응답 예시."
+                "x": "성능은 25개 기관과 영상 품질에 따라 달랐다. 연구팀은 \"이번 결과는 특히 세부 전문 인력이 부족한 곳에서 AI가 전립선 MRI 판독을 넓히는 역할을 할 가능성을 뒷받침한다\"고 썼다. 또 안전한 임상 적용에는 현지 검증과 장기적인 성능 모니터링이 필요하다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MedGemma：オープンな\n医療画像・テキストモデル",
-          "body": "Gemma 3ベースのMedGemmaが画像と臨床テキストで同規模の生成モデルを上回った。",
-          "mini_headline": "MedGemmaをオープン公開",
+          "headline": "AI、前立腺がんMRIで\n放射線科医と同等の精度",
+          "body": "22,000件超の前立腺MRI検査で、AIは放射線科医とほぼ同等にがんを検出した。",
+          "mini_headline": "AI、前立腺MRI読影で医師並み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "医療におけるAIの学習と導入は、多様なデータ、複雑で幅広いタスク、重要なプライバシー要件のために難しい。著者らは、Gemma 3を基盤とする医療用の視覚言語基盤モデル群MedGemmaを発表した。"
+                "x": "13日付のRadiologyに掲載された研究によると、MRIで前立腺がんを見つける能力において、AIは放射線科医と同等である可能性がある。オランダNijmegenのRadboud University Medical CenterのAnindo Saha, PhDが率いるチームは、外部の診断用・検診用データセット全体で、AIシステムがGleason grade group ≥2の前立腺がんについて放射線科医に匹敵する診断性能を示したと報告した。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-                "cap": "Fig. 1: MedGemmaモデルの概要。"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+                "cap": "各国の施設で、AIがGleason grade group ≥2のがんを検出した前立腺MRI検査の例。RSNA"
               },
               {
                 "t": "p",
-                "x": "MedGemmaは画像、テキスト、複数の画像領域にわたって高度な医学的理解と推論を示し、Gemmaベースモデルの汎用能力を保ちながら、同規模の生成モデルを上回る。分布外タスクでは、ベースモデルに比べて医療画像の質問応答で2.6–10%、胸部X-ray所見分類で15.5–18.1%、エージェント評価で10.8%改善した。"
+                "x": "SCARLET-1研究には、22か国46都市の男性21,252人から得た前立腺MRI検査22,445件が含まれた。AIの外部AUCsは診断設定で0.86、二つの検診設定で0.89と0.84で、放射線科の読影との一致率は83.0%から87.9%だった。"
               },
               {
                 "t": "p",
-                "x": "医療タスクでは、ベースのGemma 3よりもMedGemmaをファインチューニングする方が効果的な場合があり、学習データが限られるときは特にそうだ。チームはまた、SigLIPから派生し医療向けに調整した視覚エンコーダーMedSigLIPも発表した。MedSigLIPはMedGemmaの視覚理解を支え、多くの専門的な医療画像エンコーダーと同等かそれ以上の性能を示す。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-                "cap": "Fig. 2: MedGemma 4Bによる自由回答型マルチモーダル質問応答の例。"
+                "x": "性能は25施設の間や画像の質によってばらついた。チームは「これらの結果は、とくにサブスペシャルティの専門知識が限られる場所で、AIが前立腺MRI読影を広げる役割を担いうることを裏付ける」と記し、安全な臨床利用には現地での検証と長期的な性能モニタリングが必要だと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MedGemma：开放模型\n面向医学影像与文本",
-          "body": "基于Gemma 3的开放MedGemma模型，在影像和临床文本任务上超越同等规模生成模型。",
-          "mini_headline": "MedGemma开放发布",
+          "headline": "AI在前列腺癌MRI上\n比肩放射科医生",
+          "body": "在超过22,000例前列腺MRI检查中，AI检出癌症的能力与放射科医生相当。",
+          "mini_headline": "AI前列腺MRI读片比肩医生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "由于数据多样、任务范围复杂且隐私要求重要，医疗领域的AI训练与部署面临挑战。作者推出了MedGemma，这是一组基于Gemma 3的医学视觉-语言基础模型。"
+                "x": "据13日发表在Radiology上的一项研究，AI在MRI上发现前列腺癌的能力可能与放射科医生相当。由荷兰Nijmegen的Radboud University Medical Center的Anindo Saha, PhD领导的团队发现，在外部诊断和筛查数据集中，AI系统对Gleason grade group ≥2前列腺癌的诊断性能与放射科医生相当。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-                "cap": "Fig. 1: MedGemma模型概览。"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+                "cap": "多国机构的前列腺MRI检查，展示AI检出Gleason grade group ≥2癌症的情况。RSNA"
               },
               {
                 "t": "p",
-                "x": "MedGemma在图像、文本及多个影像领域展现出先进的医学理解与推理能力，在保留Gemma基础模型通用能力的同时，超越了规模相近的生成模型。在分布外任务上，它相较基础模型在医学图像问答中提升2.6–10%，在胸部X-ray发现分类中提升15.5–18.1%，在智能体评估中提升10.8%。"
+                "x": "SCARLET-1研究纳入了来自22个国家46个城市21,252名男性的22,445例前列腺MRI检查。AI在诊断场景中的外部AUCs为0.86，在两个筛查场景中分别为0.89和0.84，与放射科判读的一致率为83.0%至87.9%。"
               },
               {
                 "t": "p",
-                "x": "在医学任务上，微调MedGemma可能比微调基础Gemma 3更有效，在训练数据有限时尤其如此。团队还推出了MedSigLIP，这是一款源自SigLIP、经医学调优的视觉编码器，为MedGemma的视觉理解提供支撑，其表现与许多专用医学图像编码器相当或更优。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-                "cap": "Fig. 2: MedGemma 4B开放式多模态问答示例。"
+                "x": "性能在25个站点之间以及随图像质量不同而有所差异。团队写道：“这些发现支持AI在扩展前列腺MRI判读方面可能发挥作用，尤其是在亚专科专业力量有限的地方。”他们还指出，要安全地用于临床，需要进行本地测试和长期性能监测。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MedGemma: un modelo abierto\npara imágenes y textos médicos",
-          "body": "MedGemma, abierto y basado en Gemma 3, supera a modelos generativos de su tamaño en imagen y texto clínico.",
-          "mini_headline": "MedGemma, en abierto",
+          "headline": "La AI iguala a los radiólogos\nen MRI de cáncer de próstata",
+          "body": "En más de 22,000 estudios de MRI de próstata, la AI detectó el cáncer casi tan bien como los radiólogos.",
+          "mini_headline": "La AI iguala a los lectores de MRI de próstata",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "El entrenamiento y el despliegue de la AI en salud son difíciles por la diversidad de datos, el complejo abanico de tareas y las importantes exigencias de privacidad. Los autores presentan MedGemma, una colección de modelos fundacionales médicos de visión y lenguaje basados en Gemma 3."
+                "x": "La AI podría estar a la par de los radiólogos para detectar el cáncer de próstata en MRI, según una investigación publicada el 13 de octubre en Radiology. Un equipo dirigido por Anindo Saha, PhD, del Radboud University Medical Center en Nijmegen, Países Bajos, observó que un sistema de AI logró un rendimiento diagnóstico comparable al de los radiólogos para el cáncer de próstata de Gleason grade group ≥2 en conjuntos de datos externos de diagnóstico y cribado."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-                "cap": "Fig. 1: Descripción general de los modelos MedGemma."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+                "cap": "Estudios de MRI de próstata que ilustran la detección por AI de cánceres de Gleason grade group ≥2 en centros internacionales. RSNA"
               },
               {
                 "t": "p",
-                "x": "MedGemma muestra una comprensión y un razonamiento médicos avanzados en imágenes, texto y múltiples dominios de imagen, y supera a modelos generativos de tamaño similar sin perder las capacidades generales de los modelos base Gemma. En tareas fuera de distribución mejora a los modelos base en un 2.6–10% en preguntas y respuestas sobre imágenes médicas, en un 15.5–18.1% en la clasificación de hallazgos en X-ray de tórax y en un 10.8% en evaluaciones agénticas."
+                "x": "El estudio SCARLET-1 incluyó 22,445 estudios de MRI de próstata de 21,252 hombres en 46 ciudades de 22 países. La AI alcanzó AUCs externas de 0.86 en el entorno diagnóstico y de 0.89 y 0.84 en dos entornos de cribado, con una concordancia del 83.0% al 87.9% con las lecturas radiológicas."
               },
               {
                 "t": "p",
-                "x": "Ajustar MedGemma puede ser más eficaz que ajustar el modelo base Gemma 3 en tareas médicas, sobre todo con pocos datos de entrenamiento. El equipo presenta también MedSigLIP, un codificador visual ajustado para medicina y derivado de SigLIP, que impulsa la comprensión visual de MedGemma e iguala o supera a muchos codificadores especializados de imagen médica."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig2_HTML.png",
-                "cap": "Fig. 2: Ejemplos de preguntas y respuestas multimodales abiertas con MedGemma 4B."
+                "x": "El rendimiento varió entre 25 centros y según la calidad de imagen. \"Estos hallazgos respaldan un posible papel de la AI para ampliar la interpretación de MRI de próstata, sobre todo donde la experiencia subespecializada es limitada\", escribió el equipo, que añadió que un uso clínico seguro exigirá pruebas locales y un seguimiento longitudinal del rendimiento."
               }
             ]
           }
@@ -707,15 +597,15 @@
       }
     },
     {
-      "id": "medicine-bmj-healthai-patient-data-sale",
+      "id": "medicine-epilepsy-eeg-llm-chat-comanagement",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "환자 데이터 판매는 배신\nAI 전문가의 경고",
-      "body": "HealthAI CEO Leite가 정부에 환자 데이터를 사고팔지 말라고 경고했다.",
-      "mini_headline": "환자 데이터는 팔 물건이 아니다",
+      "headline": "뇌전증 환자, LLM으로\n자기 EEG와 대화한다",
+      "body": "스마트폰 LLM 채팅 피드백이 소규모 연구서 발작 오경보를 약 80% 줄였다.",
+      "mini_headline": "환자, 자기 EEG와 대화",
       "tool": "Medicine",
-      "source": "The BMJ",
-      "url": "https://www.bmj.com/content/395/bmj-2026-101119",
+      "source": "Nature Medicine",
+      "url": "https://www.nature.com/articles/s41591-026-04680-4",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -723,149 +613,155 @@
         "blocks": [
           {
             "t": "p",
-            "x": "의료 AI 분야의 저명한 전문가가 환자 데이터를 파는 정부는 국민의 “신뢰를 저버리는” 셈이라고 말했다."
+            "x": "전 세계 뇌전증 환자 70 million 명 가운데 삼분의 일은 약으로 발작이 조절되지 않는다. 이식형 기기가 임박한 발작이나 복약 누락, 인지 저하를 감지해도 그 정보를 환자와 실시간으로 나누지는 못한다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+            "cap": "Fig. 1: 플랫폼 개요."
           },
           {
             "t": "p",
-            "x": "HealthAI 최고경영자 Ricardo Baptista Leite는 이달 초 European Health Forum Gastein 연설에서 정부가 환자 데이터를 사고팔아서는 안 되고, 그런 정부는 규탄받아야 한다고 촉구했다. HealthAI는 의료 현장에서 AI가 안전하고 책임 있게, 규제 안에서 쓰이도록 이끄는 비영리 단체다."
+            "x": "연구진이 선보인 입원 환자용 프로토타입은 두피 EEG와 두개내 EEG를 보안이 확보된 대규모 언어 모델 기반 AI에 연결한다. 이 AI는 스마트폰 앱으로 환자와 양방향으로 소통하며 임상 이벤트와 추세를 알리고 증상과 응답을 기록한다. 환자 피드백으로 발작 감지기를 다시 학습시키기도 한다."
           },
           {
             "t": "p",
-            "x": "포르투갈계 캐나다인(Portuguese-Canadian) 의사인 Leite는 AI 기업을 이끄는 “테크 브로(tech bros)”와 시민사회 사이의 지식·권력 불균형도 경고했다. 이 불균형이 건강 불평등을 키울 수 있다는 지적이다."
-          },
-          {
-            "t": "p",
-            "x": "발언이 나온 때는 NHS England가 Palantir와 맺은 보건 데이터 계약을 끝내라는 압박이 거세지던 무렵이다. 이 미국(US) 기업은 2023년 계약을 따낸 뒤 NHS의 연합 데이터 플랫폼을 운영해 왔다."
+            "x": "플랫폼 검증에는 video-EEG 모니터링을 받는 환자 13명이 참여했다. 환자들은 실시간 발작 알림의 67.2%에 응답했다. 유사 전향적 시뮬레이션에서는 전문가 개입 없이 환자 주석만으로 미세 조정해도 오경보가 80.9% 줄었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Selling patient data is\na betrayal, says AI expert",
-          "body": "HealthAI CEO Ricardo Baptista Leite urged governments not to buy or sell patient data, warning of an AI power imbalance.",
-          "mini_headline": "Patient data not for sale",
+          "headline": "Epilepsy patients talk to\ntheir EEG through an LLM",
+          "body": "Patient feedback through a smartphone LLM chat cut seizure-detector false alarms by about 80% in a small study.",
+          "mini_headline": "Patients chat with their EEG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Any government that sells patient data is “betraying the trust” of its people, a leading expert on AI in health has said."
+                "x": "One-third of the world's 70 million people with epilepsy have seizures uncontrolled by medication. Implantable devices can detect impending seizures, missed medication and impaired cognition, but cannot share this information with patients in real time."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+                "cap": "Fig. 1: Platform overview."
               },
               {
                 "t": "p",
-                "x": "Speaking at the European Health Forum Gastein earlier this month, Ricardo Baptista Leite, chief executive officer of HealthAI—a non-profit group focused on promoting the safe, responsible, and regulated use of AI in healthcare—urged governments not to buy or sell patient data and to condemn those that do."
+                "x": "The researchers present an inpatient prototype that links scalp and intracranial EEG to a secure, large language model-based AI that communicates bidirectionally through a smartphone app. It notifies patients of clinical events and trends, records symptoms and responses, and uses their feedback to retrain its seizure detector."
               },
               {
                 "t": "p",
-                "x": "Leite, a Portuguese-Canadian doctor, also warned of a knowledge and power imbalance between the “tech bros” running AI companies and civil society—an imbalance he said could lead to greater health inequalities."
-              },
-              {
-                "t": "p",
-                "x": "His comments come as pressure mounts on NHS England to end its health data contract with Palantir. The US company has been handling the NHS’s federated data platform since it won the contract in 2023."
+                "x": "The platform was validated in 13 patients undergoing video-EEG monitoring. Patients responded to 67.2% of real-time seizure alerts. In a pseudoprospective simulation, fine-tuning with patient annotations alone reduced false alarms by 80.9%, without expert intervention."
               }
             ]
           }
         },
         "ko": {
-          "headline": "환자 데이터 판매는 배신\nAI 전문가의 경고",
-          "body": "HealthAI CEO Leite가 정부에 환자 데이터를 사고팔지 말라고 경고했다.",
-          "mini_headline": "환자 데이터는 팔 물건이 아니다",
+          "headline": "뇌전증 환자, LLM으로\n자기 EEG와 대화한다",
+          "body": "스마트폰 LLM 채팅 피드백이 소규모 연구서 발작 오경보를 약 80% 줄였다.",
+          "mini_headline": "환자, 자기 EEG와 대화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "의료 AI 분야의 저명한 전문가가 환자 데이터를 파는 정부는 국민의 “신뢰를 저버리는” 셈이라고 말했다."
+                "x": "전 세계 뇌전증 환자 70 million 명 가운데 삼분의 일은 약으로 발작이 조절되지 않는다. 이식형 기기가 임박한 발작이나 복약 누락, 인지 저하를 감지해도 그 정보를 환자와 실시간으로 나누지는 못한다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+                "cap": "Fig. 1: 플랫폼 개요."
               },
               {
                 "t": "p",
-                "x": "HealthAI 최고경영자 Ricardo Baptista Leite는 이달 초 European Health Forum Gastein 연설에서 정부가 환자 데이터를 사고팔아서는 안 되고, 그런 정부는 규탄받아야 한다고 촉구했다. HealthAI는 의료 현장에서 AI가 안전하고 책임 있게, 규제 안에서 쓰이도록 이끄는 비영리 단체다."
+                "x": "연구진이 선보인 입원 환자용 프로토타입은 두피 EEG와 두개내 EEG를 보안이 확보된 대규모 언어 모델 기반 AI에 연결한다. 이 AI는 스마트폰 앱으로 환자와 양방향으로 소통하며 임상 이벤트와 추세를 알리고 증상과 응답을 기록한다. 환자 피드백으로 발작 감지기를 다시 학습시키기도 한다."
               },
               {
                 "t": "p",
-                "x": "포르투갈계 캐나다인(Portuguese-Canadian) 의사인 Leite는 AI 기업을 이끄는 “테크 브로(tech bros)”와 시민사회 사이의 지식·권력 불균형도 경고했다. 이 불균형이 건강 불평등을 키울 수 있다는 지적이다."
-              },
-              {
-                "t": "p",
-                "x": "발언이 나온 때는 NHS England가 Palantir와 맺은 보건 데이터 계약을 끝내라는 압박이 거세지던 무렵이다. 이 미국(US) 기업은 2023년 계약을 따낸 뒤 NHS의 연합 데이터 플랫폼을 운영해 왔다."
+                "x": "플랫폼 검증에는 video-EEG 모니터링을 받는 환자 13명이 참여했다. 환자들은 실시간 발작 알림의 67.2%에 응답했다. 유사 전향적 시뮬레이션에서는 전문가 개입 없이 환자 주석만으로 미세 조정해도 오경보가 80.9% 줄었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "患者データの販売は裏切り\nAI専門家が警鐘",
-          "body": "HealthAIのLeite CEOは、各国政府に患者データの売買をしないよう求めた。",
-          "mini_headline": "患者データは売り物ではない",
+          "headline": "てんかん患者がLLMで\n自分のEEGと対話",
+          "body": "スマホのLLMチャットで患者の反応が、小規模研究で発作検知の誤警報を約80%減らした。",
+          "mini_headline": "患者が自分のEEGとチャット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "患者データを売る政府は国民の「信頼を裏切っている」と、医療AIの第一人者が述べた。"
+                "x": "世界のてんかん患者70 million人のうち三分の一は、薬で発作を抑えられない。埋め込み型デバイスは差し迫った発作や服薬の飲み忘れ、認知機能の低下を検知できるが、その情報を患者とリアルタイムで共有することはできない。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+                "cap": "Fig. 1: プラットフォームの概要。"
               },
               {
                 "t": "p",
-                "x": "今月初めにEuropean Health Forum Gasteinで講演したHealthAIの最高経営責任者Ricardo Baptista Leite氏は、政府に対し患者データを売買しないよう、またそうする政府を非難するよう求めた。HealthAIは、医療におけるAIの安全で責任ある、規制されたかたちでの利用の促進に取り組む非営利団体である。"
+                "x": "研究チームは、頭皮上および頭蓋内のEEGを、安全な大規模言語モデルベースのAIにつなぐ入院患者向けプロトタイプを示した。このAIはスマートフォンアプリを通じて双方向にやり取りし、臨床イベントや傾向を患者に知らせ、症状や応答を記録し、患者のフィードバックを使って発作検知器を再学習させる。"
               },
               {
                 "t": "p",
-                "x": "ポルトガル系カナダ人（Portuguese-Canadian）の医師であるLeite氏は、AI企業を率いる「tech bros（テック・ブロ）」と市民社会との間にある知識と権力の不均衡にも警鐘を鳴らした。この不均衡は健康格差の拡大につながりかねないという。"
-              },
-              {
-                "t": "p",
-                "x": "この発言は、NHS EnglandにPalantirとの保健データ契約を打ち切るよう求める圧力が強まるなかで出た。この米国（US）企業は2023年に契約を獲得して以来、NHSの連合型データプラットフォームを担っている。"
+                "x": "プラットフォームはvideo-EEGモニタリングを受ける13人の患者で検証された。患者はリアルタイムの発作アラートの67.2%に応答した。擬似前向きシミュレーションでは、専門家の介入なしに患者の注釈だけでファインチューニングし、誤警報を80.9%減らした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出售患者数据是背叛\n一位AI专家直言",
-          "body": "HealthAI CEO Leite敦促各国政府不要买卖患者数据，并警示AI权力失衡。",
-          "mini_headline": "患者数据不应出售",
+          "headline": "癫痫患者借助LLM\n与自己的EEG对话",
+          "body": "在一项小型研究中，患者通过手机LLM聊天给出的反馈使发作检测误报减少约80%。",
+          "mini_headline": "患者与自己的EEG聊天",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "一位医疗AI领域的权威专家表示，任何出售患者数据的政府，都是在“背叛”本国民众的“信任”。"
+                "x": "全球70 million癫痫患者中，有三分之一的发作无法用药物控制。植入式设备可以检测即将发生的发作、漏服药物和认知受损，却无法与患者实时共享这些信息。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+                "cap": "Fig. 1：平台概览。"
               },
               {
                 "t": "p",
-                "x": "本月早些时候，HealthAI首席执行官Ricardo Baptista Leite在European Health Forum Gastein上发言，敦促各国政府不要买卖患者数据，并谴责这样做的政府。HealthAI是一家致力于推动在医疗领域安全、负责任且受监管地使用AI的非营利组织。"
+                "x": "研究人员展示了一个住院原型系统，将头皮EEG和颅内EEG连接到一个安全的、基于大语言模型的AI，后者通过智能手机应用与患者双向沟通。它会向患者通报临床事件和趋势，记录症状和回应，并利用患者反馈重新训练其发作检测器。"
               },
               {
                 "t": "p",
-                "x": "身为葡萄牙裔加拿大籍（Portuguese-Canadian）医生的Leite还警告，经营AI公司的“tech bros（科技兄弟）”与公民社会之间存在知识和权力失衡，他认为这种失衡可能加剧健康不平等。"
-              },
-              {
-                "t": "p",
-                "x": "他发表上述言论之际，要求NHS England终止与Palantir健康数据合同的压力不断加大。这家美国（US）公司自2023年赢得合同以来，一直负责NHS的联邦式数据平台。"
+                "x": "该平台在13名接受video-EEG监测的患者中得到验证。患者回应了67.2%的实时发作警报。在伪前瞻性模拟中，仅用患者标注进行微调、无需专家干预，就使误报减少了80.9%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Vender datos de pacientes es\nuna traición, dice experto en AI",
-          "body": "El CEO de HealthAI, Ricardo Baptista Leite, pidió a los gobiernos no comprar ni vender datos de pacientes.",
-          "mini_headline": "Datos de pacientes, no en venta",
+          "headline": "Pacientes con epilepsia\nhablan con su EEG vía un LLM",
+          "body": "Las respuestas de pacientes en un chat LLM del móvil redujeron cerca del 80% las falsas alarmas en un estudio pequeño.",
+          "mini_headline": "Pacientes que conversan con su EEG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Cualquier gobierno que venda datos de pacientes está “traicionando la confianza” de su población, afirmó un destacado experto en AI aplicada a la salud."
+                "x": "Un tercio de los 70 millones de personas con epilepsia en el mundo tiene crisis que la medicación no controla. Los dispositivos implantables pueden detectar crisis inminentes, dosis olvidadas y deterioro cognitivo, pero no pueden compartir esa información con los pacientes en tiempo real."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general de la plataforma."
               },
               {
                 "t": "p",
-                "x": "En su intervención en el European Health Forum Gastein a principios de este mes, Ricardo Baptista Leite, director ejecutivo de HealthAI —una organización sin ánimo de lucro dedicada a promover el uso seguro, responsable y regulado de la AI en la atención sanitaria—, instó a los gobiernos a no comprar ni vender datos de pacientes y a condenar a quienes lo hagan."
+                "x": "Los investigadores presentan un prototipo hospitalario que conecta el EEG de cuero cabelludo e intracraneal con una AI segura basada en un modelo de lenguaje de gran tamaño, que se comunica en ambos sentidos mediante una app de smartphone. Notifica a los pacientes eventos clínicos y tendencias, registra síntomas y respuestas, y usa sus comentarios para reentrenar su detector de crisis."
               },
               {
                 "t": "p",
-                "x": "Leite, médico portugués-canadiense (Portuguese-Canadian), advirtió también de un desequilibrio de conocimiento y de poder entre los “tech bros” que dirigen las empresas de AI y la sociedad civil, un desequilibrio que, según dijo, podría agravar las desigualdades en salud."
-              },
-              {
-                "t": "p",
-                "x": "Sus comentarios llegan en un momento de creciente presión sobre NHS England para que ponga fin a su contrato de datos de salud con Palantir. La empresa estadounidense (US) gestiona la plataforma federada de datos del NHS desde que obtuvo el contrato en 2023."
+                "x": "La plataforma se validó en 13 pacientes sometidos a monitorización por video-EEG. Los pacientes respondieron al 67.2% de las alertas de crisis en tiempo real. En una simulación pseudoprospectiva, el ajuste fino solo con anotaciones de los pacientes redujo las falsas alarmas en un 80.9%, sin intervención de expertos."
               }
             ]
           }
@@ -873,105 +769,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "환자 데이터 판매는 배신\nAI 전문가의 경고",
-          "body": "HealthAI CEO Leite는 정부에 환자 데이터를 사고팔지 말라고 했다.",
-          "mini_headline": "환자 데이터는 팔 것이 아니다",
+          "headline": "뇌전증 환자, LLM으로\n자기 EEG와 대화한다",
+          "body": "스마트폰 LLM 채팅 피드백이 소규모 연구서 발작 오경보를 약 80% 줄였다.",
+          "mini_headline": "환자, 자기 EEG와 대화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "환자 데이터를 파는 정부는 국민의 “신뢰를 저버리는” 것이라고 의료 AI 분야의 저명한 전문가가 말했다."
+                "x": "전 세계 뇌전증 환자 70 million 명 가운데 삼분의 일은 약으로 발작이 조절되지 않는다. 이식형 기기는 임박한 발작, 복약 누락, 인지 저하를 감지할 수 있지만 이 정보를 환자와 실시간으로 공유하지는 못한다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+                "cap": "Fig. 1: 플랫폼 개요."
               },
               {
                 "t": "p",
-                "x": "이달 초 European Health Forum Gastein에서 연설한 HealthAI 최고경영자 Ricardo Baptista Leite는 정부가 환자 데이터를 사거나 팔아서는 안 되며, 그렇게 하는 정부를 규탄해야 한다고 촉구했다. HealthAI는 의료 분야에서 AI를 안전하고 책임 있게, 규제 아래 사용하도록 장려하는 데 주력하는 비영리 단체다."
+                "x": "연구진은 두피 EEG와 두개내 EEG를 보안이 확보된 대규모 언어 모델 기반 AI에 연결하는 입원 환자용 프로토타입을 선보였다. 이 AI는 스마트폰 앱으로 양방향 소통하며 환자에게 임상 이벤트와 추세를 알리고, 증상과 응답을 기록하며, 환자 피드백으로 발작 감지기를 다시 학습시킨다."
               },
               {
                 "t": "p",
-                "x": "포르투갈계 캐나다인(Portuguese-Canadian) 의사인 Leite는 AI 기업을 운영하는 “테크 브로(tech bros)”와 시민사회 사이의 지식·권력 불균형에 대해서도 경고했다. 그는 이 불균형이 건강 불평등을 키울 수 있다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "그의 발언은 NHS England가 Palantir와 맺은 보건 데이터 계약을 끝내라는 압박이 커지는 가운데 나왔다. 이 미국(US) 기업은 2023년 계약을 따낸 뒤 NHS의 연합 데이터 플랫폼을 운영해 왔다."
+                "x": "플랫폼은 video-EEG 모니터링을 받는 환자 13명에게서 검증됐다. 환자들은 실시간 발작 알림의 67.2%에 응답했다. 유사 전향적 시뮬레이션에서는 전문가 개입 없이 환자 주석만으로 미세 조정해도 오경보가 80.9% 줄었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "患者データの販売は裏切り\nAI専門家が警鐘",
-          "body": "HealthAIのLeite CEOは、各国政府に患者データの売買をしないよう求めた。",
-          "mini_headline": "患者データは売り物ではない",
+          "headline": "てんかん患者がLLMで\n自分のEEGと対話",
+          "body": "スマホのLLMチャットで患者の反応が、小規模研究で発作検知の誤警報を約80%減らした。",
+          "mini_headline": "患者が自分のEEGとチャット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "患者データを売る政府は国民の「信頼を裏切っている」と、医療AIの第一人者が述べた。"
+                "x": "世界のてんかん患者70 million人のうち三分の一は、薬で発作を抑えられない。埋め込み型デバイスは差し迫った発作や服薬の飲み忘れ、認知機能の低下を検知できるが、その情報を患者とリアルタイムで共有することはできない。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+                "cap": "Fig. 1: プラットフォームの概要。"
               },
               {
                 "t": "p",
-                "x": "今月初めにEuropean Health Forum Gasteinで講演したHealthAIの最高経営責任者Ricardo Baptista Leite氏は、政府に対し患者データを売買しないよう、またそうする政府を非難するよう求めた。HealthAIは、医療におけるAIの安全で責任ある、規制されたかたちでの利用の促進に取り組む非営利団体である。"
+                "x": "研究チームは、頭皮上および頭蓋内のEEGを、安全な大規模言語モデルベースのAIにつなぐ入院患者向けプロトタイプを示した。このAIはスマートフォンアプリを通じて双方向にやり取りし、臨床イベントや傾向を患者に知らせ、症状や応答を記録し、患者のフィードバックを使って発作検知器を再学習させる。"
               },
               {
                 "t": "p",
-                "x": "ポルトガル系カナダ人（Portuguese-Canadian）の医師であるLeite氏は、AI企業を率いる「tech bros（テック・ブロ）」と市民社会との間にある知識と権力の不均衡にも警鐘を鳴らした。この不均衡は健康格差の拡大につながりかねないという。"
-              },
-              {
-                "t": "p",
-                "x": "この発言は、NHS EnglandにPalantirとの保健データ契約を打ち切るよう求める圧力が強まるなかで出た。この米国（US）企業は2023年に契約を獲得して以来、NHSの連合型データプラットフォームを担っている。"
+                "x": "プラットフォームはvideo-EEGモニタリングを受ける13人の患者で検証された。患者はリアルタイムの発作アラートの67.2%に応答した。擬似前向きシミュレーションでは、専門家の介入なしに患者の注釈だけでファインチューニングし、誤警報を80.9%減らした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出售患者数据是背叛\n一位AI专家直言",
-          "body": "HealthAI CEO Leite敦促各国政府不要买卖患者数据，并警示AI权力失衡。",
-          "mini_headline": "患者数据不应出售",
+          "headline": "癫痫患者借助LLM\n与自己的EEG对话",
+          "body": "在一项小型研究中，患者通过手机LLM聊天给出的反馈使发作检测误报减少约80%。",
+          "mini_headline": "患者与自己的EEG聊天",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "一位医疗AI领域的权威专家表示，任何出售患者数据的政府，都是在“背叛”本国民众的“信任”。"
+                "x": "全球70 million癫痫患者中，有三分之一的发作无法用药物控制。植入式设备可以检测即将发生的发作、漏服药物和认知受损，却无法与患者实时共享这些信息。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+                "cap": "Fig. 1：平台概览。"
               },
               {
                 "t": "p",
-                "x": "本月早些时候，HealthAI首席执行官Ricardo Baptista Leite在European Health Forum Gastein上发言，敦促各国政府不要买卖患者数据，并谴责这样做的政府。HealthAI是一家致力于推动在医疗领域安全、负责任且受监管地使用AI的非营利组织。"
+                "x": "研究人员展示了一个住院原型系统，将头皮EEG和颅内EEG连接到一个安全的、基于大语言模型的AI，后者通过智能手机应用与患者双向沟通。它会向患者通报临床事件和趋势，记录症状和回应，并利用患者反馈重新训练其发作检测器。"
               },
               {
                 "t": "p",
-                "x": "身为葡萄牙裔加拿大籍（Portuguese-Canadian）医生的Leite还警告，经营AI公司的“tech bros（科技兄弟）”与公民社会之间存在知识和权力失衡，他认为这种失衡可能加剧健康不平等。"
-              },
-              {
-                "t": "p",
-                "x": "他发表上述言论之际，要求NHS England终止与Palantir健康数据合同的压力不断加大。这家美国（US）公司自2023年赢得合同以来，一直负责NHS的联邦式数据平台。"
+                "x": "该平台在13名接受video-EEG监测的患者中得到验证。患者回应了67.2%的实时发作警报。在伪前瞻性模拟中，仅用患者标注进行微调、无需专家干预，就使误报减少了80.9%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Vender datos de pacientes es\nuna traición, dice experto en AI",
-          "body": "El CEO de HealthAI, Ricardo Baptista Leite, pidió a los gobiernos no comprar ni vender datos de pacientes.",
-          "mini_headline": "Datos de pacientes, no en venta",
+          "headline": "Pacientes con epilepsia\nhablan con su EEG vía un LLM",
+          "body": "Las respuestas de pacientes en un chat LLM del móvil redujeron cerca del 80% las falsas alarmas en un estudio pequeño.",
+          "mini_headline": "Pacientes que conversan con su EEG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Cualquier gobierno que venda datos de pacientes está “traicionando la confianza” de su población, afirmó un destacado experto en AI aplicada a la salud."
+                "x": "Un tercio de los 70 millones de personas con epilepsia en el mundo tiene crisis que la medicación no controla. Los dispositivos implantables pueden detectar crisis inminentes, dosis olvidadas y deterioro cognitivo, pero no pueden compartir esa información con los pacientes en tiempo real."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general de la plataforma."
               },
               {
                 "t": "p",
-                "x": "En su intervención en el European Health Forum Gastein a principios de este mes, Ricardo Baptista Leite, director ejecutivo de HealthAI —una organización sin ánimo de lucro dedicada a promover el uso seguro, responsable y regulado de la AI en la atención sanitaria—, instó a los gobiernos a no comprar ni vender datos de pacientes y a condenar a quienes lo hagan."
+                "x": "Los investigadores presentan un prototipo hospitalario que conecta el EEG de cuero cabelludo e intracraneal con una AI segura basada en un modelo de lenguaje de gran tamaño, que se comunica en ambos sentidos mediante una app de smartphone. Notifica a los pacientes eventos clínicos y tendencias, registra síntomas y respuestas, y usa sus comentarios para reentrenar su detector de crisis."
               },
               {
                 "t": "p",
-                "x": "Leite, médico portugués-canadiense (Portuguese-Canadian), advirtió también de un desequilibrio de conocimiento y de poder entre los “tech bros” que dirigen las empresas de AI y la sociedad civil, un desequilibrio que, según dijo, podría agravar las desigualdades en salud."
-              },
-              {
-                "t": "p",
-                "x": "Sus comentarios llegan en un momento de creciente presión sobre NHS England para que ponga fin a su contrato de datos de salud con Palantir. La empresa estadounidense (US) gestiona la plataforma federada de datos del NHS desde que obtuvo el contrato en 2023."
+                "x": "La plataforma se validó en 13 pacientes sometidos a monitorización por video-EEG. Los pacientes respondieron al 67.2% de las alertas de crisis en tiempo real. En una simulación pseudoprospectiva, el ajuste fino solo con anotaciones de los pacientes redujo las falsas alarmas en un 80.9%, sin intervención de expertos."
               }
             ]
           }
@@ -979,271 +879,281 @@
       }
     },
     {
-      "id": "medicine-claude-genome-ashley-standards",
-      "source_lang": "en",
+      "id": "medicine-mfds-trial-docs-exposed",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Claude가 30분 만에\n약 $5로 게놈을 읽었다",
-      "body": "Stanford의 Ashley는 AI 게놈 해석에 의료급 기준이 필요하다고 본다.",
-      "mini_headline": "$5짜리 AI 게놈 해석",
+      "headline": "식약처 임상자료 2672건\n인증 없이 외부 노출",
+      "body": "의원실이 챗GPT로 임상시험 결과 문서 2672건을 인증 없이 내려받았다.",
+      "mini_headline": "식약처 임상자료 노출",
       "tool": "Medicine",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/",
+      "source": "의학신문(bosa)",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013809",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "식품의약품안전처가 운영하는 의약품안전나라에서 임상시험 결과 문서 2672건을 별도 인증 없이 외부에서 내려받을 수 있었던 것으로 드러났다. 이 가운데 비공개로 설정된 기업정보가 포함된 문서는 839건, 담당자 휴대전화번호가 포함된 문서는 2208건이었다."
+          },
+          {
             "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+            "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+            "cap": "사진 출처=국회방송."
           },
           {
             "t": "p",
-            "x": "Stanford 내과 학과장 Euan Ashley가 자신의 전체 게놈 분석을 Claude에게 맡겼다. 기준으로 삼은 건 2009년 30명 규모의 팀이 1년 가까이 Stephen Quake의 게놈을 해석할 때 쓴 프레임워크다."
+            "x": "13일 식약처 국정감사에서 국민의힘 이소희 의원은 의원실이 별도의 로그인이나 비밀번호 입력 없이 문서를 내려받았으며, 이 과정에서 생성형 AI 서비스인 챗GPT를 활용했다고 밝혔다. 이 의원은 \"해킹을 한 것이 아니라 누구나 사용할 수 있는 챗GPT를 통해 자료를 확보했다\"고 말했다. 자료에는 임상시험 결과와 유효성, 이상반응 등 안전성 평가 정보가 포함돼 있었다."
           },
           {
             "t": "p",
-            "x": "10년 묵은 게놈 파일인데도 Claude는 주요 소견 상당수를 다시 짚어 냈다. 알츠하이머 위험과 연관된 APOE ε4 변이 두 카피, 희귀 유전 질환과 연관된 주요 변이가 없다는 사실, 약물 반응에 영향을 주는 DPYD·CYP2C19 변이가 그렇다. 이 파일로는 믿을 만한 위험 점수를 낼 데이터가 모자란다는 경고도 Claude가 내놓았다. 작업에 든 토큰은 약 400,000개, 비용은 약 $5였다. 30분 가운데 대부분은 데이터베이스 로딩을 기다리며 보냈다."
-          },
-          {
-            "t": "p",
-            "x": "소비자가 Claude나 ChatGPT 같은 시스템에 게놈을 올리는 지금, 의료급 게놈 해석이 무엇을 담아야 하는지 기준이 있어야 한다는 게 Ashley의 주장이다. 그가 꼽은 것은 잘 규명된 참조 게놈, 염기서열 분석이 까다로운 의학적 중요 유전자 목록, 그리고 검사 기관과 AI 개발사가 자기 시스템이 무엇을 안정적으로 잡아내는지 공개하는 일이다. “그러나 오늘날 희소한 것은 신뢰성일지도 모른다.”"
+            "x": "이 의원은 식약처가 최근 10년간 관련 자료 공개 현황 96건 가운데 95건을 비공개 처리했다고 지적했다. 오유경 식약처장은 자료 노출 사실을 12일 인지했으며 13일 새벽 접근 권한을 차단했다고 밝혔다. 오 처장은 \"AI를 활용한 정보 접근 문제를 알려주신 데 감사하게 생각하며, 해당 사안을 무겁게 받아들이고 있다\"고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Claude read a genome in\n30 minutes for about $5",
-          "body": "Stanford's Euan Ashley, who had Claude analyze his genome, says AI genome reads now need medical-grade standards.",
-          "mini_headline": "A $5 AI genome read",
+        "ko": {
+          "headline": "식약처 임상자료 2672건\n인증 없이 외부 노출",
+          "body": "의원실이 챗GPT로 임상시험 결과 문서 2672건을 인증 없이 내려받았다.",
+          "mini_headline": "식약처 임상자료 노출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "식품의약품안전처가 운영하는 의약품안전나라에서 임상시험 결과 문서 2672건을 별도 인증 없이 외부에서 내려받을 수 있었던 것으로 드러났다. 이 가운데 비공개로 설정된 기업정보가 포함된 문서는 839건, 담당자 휴대전화번호가 포함된 문서는 2208건이었다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+                "cap": "사진 출처=국회방송."
               },
               {
                 "t": "p",
-                "x": "Euan Ashley, chair of the Department of Medicine at Stanford, sat down with Claude and asked it to analyze his entire genome, following the framework a 30-person team used in 2009 to interpret Stephen Quake's genome over nearly a year."
+                "x": "13일 식약처 국정감사에서 국민의힘 이소희 의원은 의원실이 별도의 로그인이나 비밀번호 입력 없이 문서를 내려받았으며, 이 과정에서 생성형 AI 서비스인 챗GPT를 활용했다고 밝혔다. 이 의원은 \"해킹을 한 것이 아니라 누구나 사용할 수 있는 챗GPT를 통해 자료를 확보했다\"고 말했다. 자료에는 임상시험 결과와 유효성, 이상반응 등 안전성 평가 정보가 포함돼 있었다."
               },
               {
                 "t": "p",
-                "x": "Despite a decade-old genome file, Claude re-identified many key findings, including two copies of the APOE ε4 variant linked to Alzheimer's risk, no major variant for a rare inherited disorder, and DPYD and CYP2C19 variants affecting drug response. It warned the file lacked enough data for reliable risk scores. The interaction used around 400,000 tokens and cost approximately $5; most of the half-hour was spent waiting for databases to load."
-              },
-              {
-                "t": "p",
-                "x": "Ashley argues that as consumers upload genomes into systems such as Claude or ChatGPT, the field needs standards for what a medical-grade genomic interpretation should include: well-characterized reference genomes, a catalog of hard-to-sequence medically significant genes, and disclosures from labs and AI developers on what their systems detect reliably. “Today, however, what’s scarce may be reliability.”"
+                "x": "이 의원은 식약처가 최근 10년간 관련 자료 공개 현황 96건 가운데 95건을 비공개 처리했다고 지적했다. 오유경 식약처장은 자료 노출 사실을 12일 인지했으며 13일 새벽 접근 권한을 차단했다고 밝혔다. 오 처장은 \"AI를 활용한 정보 접근 문제를 알려주신 데 감사하게 생각하며, 해당 사안을 무겁게 받아들이고 있다\"고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Claude가 30분 만에\n약 $5로 게놈을 읽었다",
-          "body": "Stanford의 Ashley는 AI 게놈 해석에 의료급 기준이 필요하다고 본다.",
-          "mini_headline": "$5짜리 AI 게놈 해석",
+        "en": {
+          "headline": "2672 MFDS trial documents\nexposed with no authentication",
+          "body": "A lawmaker's office used ChatGPT to download 2672 clinical trial result documents without authentication.",
+          "mini_headline": "MFDS trial data exposed",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "It has emerged that 2672 clinical trial result documents on Uiyakpum Anjeon Nara, the drug safety portal run by the Ministry of Food and Drug Safety (MFDS), could be downloaded from outside without separate authentication. Of these, 839 contained company information set to private, and 2208 contained the mobile phone numbers of staff in charge."
+              },
+              {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+                "cap": "Photo: National Assembly Television."
               },
               {
                 "t": "p",
-                "x": "Stanford 내과 학과장 Euan Ashley가 자신의 전체 게놈 분석을 Claude에게 맡겼다. 기준으로 삼은 건 2009년 30명 규모의 팀이 1년 가까이 Stephen Quake의 게놈을 해석할 때 쓴 프레임워크다."
+                "x": "At the National Assembly audit of the MFDS on the 13th, People Power Party lawmaker Lee So-hee said her office downloaded the documents without any login or password, using the generative AI service ChatGPT. \"We did not hack anything; we obtained the data through ChatGPT, which anyone can use,\" Lee said. The data included clinical trial results and safety evaluation information such as efficacy and adverse reactions."
               },
               {
                 "t": "p",
-                "x": "10년 묵은 게놈 파일인데도 Claude는 주요 소견 상당수를 다시 짚어 냈다. 알츠하이머 위험과 연관된 APOE ε4 변이 두 카피, 희귀 유전 질환과 연관된 주요 변이가 없다는 사실, 약물 반응에 영향을 주는 DPYD·CYP2C19 변이가 그렇다. 이 파일로는 믿을 만한 위험 점수를 낼 데이터가 모자란다는 경고도 Claude가 내놓았다. 작업에 든 토큰은 약 400,000개, 비용은 약 $5였다. 30분 가운데 대부분은 데이터베이스 로딩을 기다리며 보냈다."
-              },
-              {
-                "t": "p",
-                "x": "소비자가 Claude나 ChatGPT 같은 시스템에 게놈을 올리는 지금, 의료급 게놈 해석이 무엇을 담아야 하는지 기준이 있어야 한다는 게 Ashley의 주장이다. 그가 꼽은 것은 잘 규명된 참조 게놈, 염기서열 분석이 까다로운 의학적 중요 유전자 목록, 그리고 검사 기관과 AI 개발사가 자기 시스템이 무엇을 안정적으로 잡아내는지 공개하는 일이다. “그러나 오늘날 희소한 것은 신뢰성일지도 모른다.”"
+                "x": "Lee noted that over the past 10 years the MFDS had kept 95 of 96 related disclosure cases private. MFDS Minister Oh Yu-kyoung said the ministry learned of the exposure on the 12th and blocked access early on the 13th. \"We are grateful for being alerted to the problem of information access using AI, and we are taking the matter seriously,\" Oh said."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeがゲノムを\n30分・約$5で解読",
-          "body": "StanfordのAshley氏は、AIによるゲノム解読には医療級の基準が必要だと説く。",
-          "mini_headline": "$5のAIゲノム解読",
+          "headline": "食薬処の臨床資料2672件\n認証なしで外部に露出",
+          "body": "議員事務所がChatGPTで臨床試験結果文書2672件を認証なしでダウンロードした。",
+          "mini_headline": "食薬処の臨床資料が露出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "食品医薬品安全処が運営する「医薬品安全国」で、臨床試験結果文書2672件が別途の認証なしに外部からダウンロードできる状態だったことが分かった。このうち非公開に設定された企業情報を含む文書は839件、担当者の携帯電話番号を含む文書は2208件だった。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+                "cap": "写真＝国会放送。"
               },
               {
                 "t": "p",
-                "x": "Stanford大学内科学部門の主任を務めるEuan Ashley氏は、Claudeに自身の全ゲノムの解析を依頼した。手本としたのは、2009年に30人のチームが1年近くかけてStephen Quake氏のゲノムを解釈した際の枠組みである。"
+                "x": "13日の食薬処に対する国政監査で、国民の力のイ・ソヒ議員は、事務所が別途のログインやパスワード入力なしに文書をダウンロードし、その過程で生成AIサービスのChatGPTを使ったと明らかにした。イ議員は「ハッキングしたのではなく、誰でも使えるChatGPTを通じて資料を入手した」と述べた。資料には臨床試験の結果や有効性、副作用など安全性評価の情報が含まれていた。"
               },
               {
                 "t": "p",
-                "x": "10年前のゲノムファイルにもかかわらず、Claudeは多くの重要な所見を再び特定した。アルツハイマー病リスクに関連するAPOE ε4変異を2コピー持つこと、まれな遺伝性疾患の主要な変異がないこと、薬物応答に影響するDPYDとCYP2C19の変異などである。信頼できるリスクスコアを出すにはファイルのデータが不十分だとも警告した。やり取りに使われたのは約400,000トークンで、費用は約$5だった。30分の大半はデータベースの読み込み待ちに費やされた。"
-              },
-              {
-                "t": "p",
-                "x": "Ashley氏は、消費者がClaudeやChatGPTのようなシステムにゲノムをアップロードするようになるなか、医療グレードのゲノム解釈に何を含めるべきかの基準が必要だと主張する。よく特性評価された参照ゲノム、配列決定が難しい医学的に重要な遺伝子のカタログ、そして検査機関とAI開発者による、自社システムが確実に検出できる範囲の開示である。「しかし今日、希少なのは信頼性なのかもしれない」"
+                "x": "イ議員は、食薬処が過去10年間の関連資料公開96件のうち95件を非公開にしたと指摘した。オ・ユギョン食薬処長は、資料露出の事実を12日に把握し、13日未明にアクセス権限を遮断したと説明した。オ処長は「AIを使った情報アクセスの問題を知らせていただき感謝しており、この事案を重く受け止めている」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude用30分钟\n约$5读完一个基因组",
-          "body": "让Claude分析基因组的Stanford学者Ashley称，AI基因组解读需医疗级标准。",
-          "mini_headline": "$5的AI基因组解读",
+          "headline": "韩食药处2672份临床资料\n无需认证即遭外泄",
+          "body": "议员办公室借助ChatGPT，无需认证便下载了2672份临床试验结果文件。",
+          "mini_headline": "食药处临床资料外泄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "韩国食品药品安全处运营的“医药品安全之国”网站上，2672份临床试验结果文件无需另行认证即可从外部下载。其中，含有被设为不公开的企业信息的文件有839份，含有负责人手机号码的文件有2208份。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+                "cap": "图片来源：国会广播。"
               },
               {
                 "t": "p",
-                "x": "Stanford医学系主任Euan Ashley让Claude分析他的完整基因组，所依循的是2009年一支30人团队花近一年解读Stephen Quake基因组时使用的框架。"
+                "x": "在13日针对食药处的国政监查中，国民力量党议员Lee So-hee表示，其办公室在没有另行登录或输入密码的情况下下载了这些文件，过程中使用了生成式AI服务ChatGPT。她说：“我们不是黑客入侵，而是通过任何人都能使用的ChatGPT获取了资料。”这些资料包含临床试验结果以及有效性、不良反应等安全性评估信息。"
               },
               {
                 "t": "p",
-                "x": "尽管基因组文件已有十年之久，Claude仍重新识别出许多关键发现，包括与阿尔茨海默病风险相关的两个APOE ε4变异拷贝、未发现罕见遗传病的主要变异，以及影响药物反应的DPYD和CYP2C19变异。它还提醒，该文件的数据不足以得出可靠的风险评分。这次交互用了约400,000个token，花费约$5；这半小时的大部分时间都在等待数据库加载。"
-              },
-              {
-                "t": "p",
-                "x": "Ashley认为，随着消费者把基因组上传到Claude或ChatGPT等系统，该领域需要制定标准，明确医疗级基因组解读应包含哪些内容：经过充分表征的参考基因组、难以测序但具有医学意义的基因目录，以及检测机构和AI开发者对其系统能可靠检测哪些内容的披露。“不过如今，稀缺的或许是可靠性。”"
+                "x": "她指出，在最近10年间的96件相关资料公开情况中，食药处有95件作了不公开处理。食药处处长Oh Yu-kyoung表示，已于12日获悉资料外泄，并于13日凌晨切断了访问权限。她说：“感谢您指出利用AI获取信息的问题，我们正严肃对待此事。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude leyó un genoma en\n30 minutos por unos $5",
-          "body": "Euan Ashley, de Stanford, analizó su genoma con Claude y pide estándares de grado médico para leer genomas con AI.",
-          "mini_headline": "Lectura genómica con AI por $5",
+          "headline": "MFDS: 2672 documentos clínicos\nexpuestos sin autenticación",
+          "body": "La oficina de un diputado descargó con ChatGPT 2672 documentos de resultados de ensayos clínicos sin autenticación.",
+          "mini_headline": "Datos clínicos del MFDS expuestos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Se ha revelado que 2672 documentos de resultados de ensayos clínicos del portal Uiyakpum Anjeon Nara, gestionado por el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS), podían descargarse desde el exterior sin autenticación adicional. De ellos, 839 contenían información empresarial configurada como privada y 2208 incluían números de teléfono móvil de los responsables."
+              },
+              {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+                "cap": "Foto: Televisión de la Asamblea Nacional."
               },
               {
                 "t": "p",
-                "x": "Euan Ashley, jefe del Departamento de Medicina de Stanford, se sentó con Claude y le pidió analizar su genoma completo, siguiendo el marco que un equipo de 30 personas utilizó en 2009 para interpretar el genoma de Stephen Quake durante casi un año."
+                "x": "En la auditoría parlamentaria al MFDS del día 13, la diputada Lee So-hee, del Partido del Poder Popular, afirmó que su oficina descargó los documentos sin iniciar sesión ni introducir contraseña, y que para ello usó ChatGPT, un servicio de AI generativa. \"No hackeamos nada; obtuvimos los datos a través de ChatGPT, que cualquiera puede usar\", dijo Lee. Los datos incluían resultados de ensayos clínicos e información de evaluación de seguridad, como eficacia y reacciones adversas."
               },
               {
                 "t": "p",
-                "x": "Pese a tratarse de un archivo genómico de hace una década, Claude volvió a identificar muchos hallazgos clave, entre ellos dos copias de la variante APOE ε4 vinculada al riesgo de Alzheimer, la ausencia de variantes importantes de un trastorno hereditario raro y variantes de DPYD y CYP2C19 que afectan a la respuesta a fármacos. Advirtió de que el archivo carecía de datos suficientes para obtener puntuaciones de riesgo fiables. La interacción consumió unos 400,000 tokens y costó aproximadamente $5; la mayor parte de la media hora se dedicó a esperar a que se cargaran las bases de datos."
-              },
-              {
-                "t": "p",
-                "x": "Ashley sostiene que, a medida que los consumidores suben sus genomas a sistemas como Claude o ChatGPT, el campo necesita estándares sobre lo que debe incluir una interpretación genómica de grado médico: genomas de referencia bien caracterizados, un catálogo de genes médicamente relevantes difíciles de secuenciar y que laboratorios y desarrolladores de AI informen de lo que sus sistemas detectan con fiabilidad. “Hoy, sin embargo, lo escaso puede ser la fiabilidad”."
+                "x": "Lee señaló que, en los últimos 10 años, el MFDS mantuvo en reserva 95 de los 96 casos de divulgación de datos relacionados. La ministra Oh Yu-kyoung dijo que el ministerio supo de la exposición el día 12 y bloqueó los permisos de acceso en la madrugada del 13. \"Agradecemos que nos hayan alertado del problema del acceso a la información mediante AI y nos tomamos el asunto muy en serio\", afirmó Oh."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Claude가 30분 만에\n약 $5로 게놈을 읽었다",
-          "body": "Stanford의 Ashley는 AI 게놈 해석에 의료급 기준이 필요하다고 본다.",
-          "mini_headline": "$5짜리 AI 게놈 해석",
+        "en": {
+          "headline": "2672 MFDS trial documents\nexposed with no authentication",
+          "body": "A lawmaker's office used ChatGPT to download 2672 clinical trial result documents without authentication.",
+          "mini_headline": "MFDS trial data exposed",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "It has emerged that 2672 clinical trial result documents on Uiyakpum Anjeon Nara, the drug safety portal run by the Ministry of Food and Drug Safety (MFDS), could be downloaded from outside without separate authentication. Of these, 839 contained company information set to private, and 2208 contained the mobile phone numbers of staff in charge."
+              },
+              {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+                "cap": "Photo: National Assembly Television."
               },
               {
                 "t": "p",
-                "x": "Stanford 내과 학과장 Euan Ashley는 Claude에게 자신의 전체 게놈 분석을 맡겼다. 2009년 30명 규모의 팀이 1년 가까이 Stephen Quake의 게놈을 해석할 때 쓴 프레임워크를 따랐다."
+                "x": "At the National Assembly audit of the MFDS on the 13th, People Power Party lawmaker Lee So-hee said her office downloaded the documents without any login or password, using the generative AI service ChatGPT. \"We did not hack anything; we obtained the data through ChatGPT, which anyone can use,\" Lee said. The data included clinical trial results and safety evaluation information such as efficacy and adverse reactions."
               },
               {
                 "t": "p",
-                "x": "10년 된 게놈 파일이었는데도 Claude는 주요 소견을 다수 다시 찾아냈다. 알츠하이머 위험과 관련된 APOE ε4 변이 두 카피, 희귀 유전 질환과 관련된 주요 변이가 없다는 점, 약물 반응에 영향을 주는 DPYD·CYP2C19 변이가 그 예다. Claude는 이 파일에 신뢰할 만한 위험 점수를 낼 데이터가 부족하다고 경고하기도 했다. 이 작업에는 약 400,000 토큰이 쓰였고 비용은 약 $5였다. 30분 중 대부분은 데이터베이스 로딩을 기다리는 데 들었다."
-              },
-              {
-                "t": "p",
-                "x": "Ashley는 소비자들이 Claude나 ChatGPT 같은 시스템에 게놈을 올리는 지금, 의료급 게놈 해석에 무엇이 포함돼야 하는지 기준이 필요하다고 주장한다. 잘 규명된 참조 게놈, 염기서열 분석이 어려운 의학적 중요 유전자 목록, 그리고 검사 기관과 AI 개발사가 자사 시스템이 무엇을 안정적으로 탐지하는지 공개하는 일이다. “그러나 오늘날 희소한 것은 신뢰성일지도 모른다.”"
+                "x": "Lee noted that over the past 10 years the MFDS had kept 95 of 96 related disclosure cases private. MFDS Minister Oh Yu-kyoung said the ministry learned of the exposure on the 12th and blocked access early on the 13th. \"We are grateful for being alerted to the problem of information access using AI, and we are taking the matter seriously,\" Oh said."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeがゲノムを\n30分・約$5で解読",
-          "body": "StanfordのAshley氏は、AIによるゲノム解読には医療級の基準が必要だと説く。",
-          "mini_headline": "$5のAIゲノム解読",
+          "headline": "食薬処の臨床資料2672件\n認証なしで外部に露出",
+          "body": "議員事務所がChatGPTで臨床試験結果文書2672件を認証なしでダウンロードした。",
+          "mini_headline": "食薬処の臨床資料が露出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "食品医薬品安全処が運営する「医薬品安全国」で、臨床試験結果文書2672件が別途の認証なしに外部からダウンロードできる状態だったことが分かった。このうち非公開に設定された企業情報を含む文書は839件、担当者の携帯電話番号を含む文書は2208件だった。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+                "cap": "写真＝国会放送。"
               },
               {
                 "t": "p",
-                "x": "Stanford大学内科学部門の主任を務めるEuan Ashley氏は、Claudeに自身の全ゲノムの解析を依頼した。手本としたのは、2009年に30人のチームが1年近くかけてStephen Quake氏のゲノムを解釈した際の枠組みである。"
+                "x": "13日の食薬処に対する国政監査で、国民の力のイ・ソヒ議員は、事務所が別途のログインやパスワード入力なしに文書をダウンロードし、その過程で生成AIサービスのChatGPTを使ったと明らかにした。イ議員は「ハッキングしたのではなく、誰でも使えるChatGPTを通じて資料を入手した」と述べた。資料には臨床試験の結果や有効性、副作用など安全性評価の情報が含まれていた。"
               },
               {
                 "t": "p",
-                "x": "10年前のゲノムファイルにもかかわらず、Claudeは多くの重要な所見を再び特定した。アルツハイマー病リスクに関連するAPOE ε4変異を2コピー持つこと、まれな遺伝性疾患の主要な変異がないこと、薬物応答に影響するDPYDとCYP2C19の変異などである。信頼できるリスクスコアを出すにはファイルのデータが不十分だとも警告した。やり取りに使われたのは約400,000トークンで、費用は約$5だった。30分の大半はデータベースの読み込み待ちに費やされた。"
-              },
-              {
-                "t": "p",
-                "x": "Ashley氏は、消費者がClaudeやChatGPTのようなシステムにゲノムをアップロードするようになるなか、医療グレードのゲノム解釈に何を含めるべきかの基準が必要だと主張する。よく特性評価された参照ゲノム、配列決定が難しい医学的に重要な遺伝子のカタログ、そして検査機関とAI開発者による、自社システムが確実に検出できる範囲の開示である。「しかし今日、希少なのは信頼性なのかもしれない」"
+                "x": "イ議員は、食薬処が過去10年間の関連資料公開96件のうち95件を非公開にしたと指摘した。オ・ユギョン食薬処長は、資料露出の事実を12日に把握し、13日未明にアクセス権限を遮断したと説明した。オ処長は「AIを使った情報アクセスの問題を知らせていただき感謝しており、この事案を重く受け止めている」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude用30分钟\n约$5读完一个基因组",
-          "body": "让Claude分析基因组的Stanford学者Ashley称，AI基因组解读需医疗级标准。",
-          "mini_headline": "$5的AI基因组解读",
+          "headline": "韩食药处2672份临床资料\n无需认证即遭外泄",
+          "body": "议员办公室借助ChatGPT，无需认证便下载了2672份临床试验结果文件。",
+          "mini_headline": "食药处临床资料外泄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "韩国食品药品安全处运营的“医药品安全之国”网站上，2672份临床试验结果文件无需另行认证即可从外部下载。其中，含有被设为不公开的企业信息的文件有839份，含有负责人手机号码的文件有2208份。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+                "cap": "图片来源：国会广播。"
               },
               {
                 "t": "p",
-                "x": "Stanford医学系主任Euan Ashley让Claude分析他的完整基因组，所依循的是2009年一支30人团队花近一年解读Stephen Quake基因组时使用的框架。"
+                "x": "在13日针对食药处的国政监查中，国民力量党议员Lee So-hee表示，其办公室在没有另行登录或输入密码的情况下下载了这些文件，过程中使用了生成式AI服务ChatGPT。她说：“我们不是黑客入侵，而是通过任何人都能使用的ChatGPT获取了资料。”这些资料包含临床试验结果以及有效性、不良反应等安全性评估信息。"
               },
               {
                 "t": "p",
-                "x": "尽管基因组文件已有十年之久，Claude仍重新识别出许多关键发现，包括与阿尔茨海默病风险相关的两个APOE ε4变异拷贝、未发现罕见遗传病的主要变异，以及影响药物反应的DPYD和CYP2C19变异。它还提醒，该文件的数据不足以得出可靠的风险评分。这次交互用了约400,000个token，花费约$5；这半小时的大部分时间都在等待数据库加载。"
-              },
-              {
-                "t": "p",
-                "x": "Ashley认为，随着消费者把基因组上传到Claude或ChatGPT等系统，该领域需要制定标准，明确医疗级基因组解读应包含哪些内容：经过充分表征的参考基因组、难以测序但具有医学意义的基因目录，以及检测机构和AI开发者对其系统能可靠检测哪些内容的披露。“不过如今，稀缺的或许是可靠性。”"
+                "x": "她指出，在最近10年间的96件相关资料公开情况中，食药处有95件作了不公开处理。食药处处长Oh Yu-kyoung表示，已于12日获悉资料外泄，并于13日凌晨切断了访问权限。她说：“感谢您指出利用AI获取信息的问题，我们正严肃对待此事。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude leyó un genoma en\n30 minutos por unos $5",
-          "body": "Euan Ashley, de Stanford, analizó su genoma con Claude y pide estándares de grado médico para leer genomas con AI.",
-          "mini_headline": "Lectura genómica con AI por $5",
+          "headline": "MFDS: 2672 documentos clínicos\nexpuestos sin autenticación",
+          "body": "La oficina de un diputado descargó con ChatGPT 2672 documentos de resultados de ensayos clínicos sin autenticación.",
+          "mini_headline": "Datos clínicos del MFDS expuestos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Se ha revelado que 2672 documentos de resultados de ensayos clínicos del portal Uiyakpum Anjeon Nara, gestionado por el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS), podían descargarse desde el exterior sin autenticación adicional. De ellos, 839 contenían información empresarial configurada como privada y 2208 incluían números de teléfono móvil de los responsables."
+              },
+              {
                 "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+                "cap": "Foto: Televisión de la Asamblea Nacional."
               },
               {
                 "t": "p",
-                "x": "Euan Ashley, jefe del Departamento de Medicina de Stanford, se sentó con Claude y le pidió analizar su genoma completo, siguiendo el marco que un equipo de 30 personas utilizó en 2009 para interpretar el genoma de Stephen Quake durante casi un año."
+                "x": "En la auditoría parlamentaria al MFDS del día 13, la diputada Lee So-hee, del Partido del Poder Popular, afirmó que su oficina descargó los documentos sin iniciar sesión ni introducir contraseña, y que para ello usó ChatGPT, un servicio de AI generativa. \"No hackeamos nada; obtuvimos los datos a través de ChatGPT, que cualquiera puede usar\", dijo Lee. Los datos incluían resultados de ensayos clínicos e información de evaluación de seguridad, como eficacia y reacciones adversas."
               },
               {
                 "t": "p",
-                "x": "Pese a tratarse de un archivo genómico de hace una década, Claude volvió a identificar muchos hallazgos clave, entre ellos dos copias de la variante APOE ε4 vinculada al riesgo de Alzheimer, la ausencia de variantes importantes de un trastorno hereditario raro y variantes de DPYD y CYP2C19 que afectan a la respuesta a fármacos. Advirtió de que el archivo carecía de datos suficientes para obtener puntuaciones de riesgo fiables. La interacción consumió unos 400,000 tokens y costó aproximadamente $5; la mayor parte de la media hora se dedicó a esperar a que se cargaran las bases de datos."
-              },
-              {
-                "t": "p",
-                "x": "Ashley sostiene que, a medida que los consumidores suben sus genomas a sistemas como Claude o ChatGPT, el campo necesita estándares sobre lo que debe incluir una interpretación genómica de grado médico: genomas de referencia bien caracterizados, un catálogo de genes médicamente relevantes difíciles de secuenciar y que laboratorios y desarrolladores de AI informen de lo que sus sistemas detectan con fiabilidad. “Hoy, sin embargo, lo escaso puede ser la fiabilidad”."
+                "x": "Lee señaló que, en los últimos 10 años, el MFDS mantuvo en reserva 95 de los 96 casos de divulgación de datos relacionados. La ministra Oh Yu-kyoung dijo que el ministerio supo de la exposición el día 12 y bloqueó los permisos de acceso en la madrugada del 13. \"Agradecemos que nos hayan alertado del problema del acceso a la información mediante AI y nos tomamos el asunto muy en serio\", afirmó Oh."
               }
             ]
           }
@@ -1251,171 +1161,171 @@
       }
     },
     {
-      "id": "medicine-patient-ai-privacy-survey-dive",
+      "id": "medicine-neonatal-ett-xray-continual-learning",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "개인정보 우려에 의료 AI\n환자 이용 늦어질 수도",
-      "body": "Wolters Kluwer 조사 결과 환자 70% 이상이 건강정보 보호를 걱정했다.",
-      "mini_headline": "개인정보 우려에 막힌 AI",
+      "headline": "성인 X-ray AI를\n신생아 호흡관에 맞췄다",
+      "body": "연속 학습으로 성인 기관내관 X-ray 모델을 데이터 공유 없이 신생아에 맞췄다.",
+      "mini_headline": "성인 X-ray AI, NICU에 맞추다",
       "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/",
+      "source": "Nature Biomedical Engineering",
+      "url": "https://www.nature.com/articles/s41551-026-01812-6",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "영상의학에서 인공지능의 임상 도입은 늘고 있지만 상용 모델 가운데 소아용으로 승인된 것은 다섯 개 중 하나도 안 된다. 기존 시스템은 주로 성인 데이터로 학습해 신생아에게는 일반화가 잘 안 된다. 데이터를 공유하거나 현지 데이터를 대규모로 정제하지 않고 이 모델을 다시 쓸 효율적인 전략도 부족하다."
+          },
+          {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-            "cap": "Getty Images"
+            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+            "cap": "Fig. 1: 연속 학습 패러다임과 벤치마크 비교 요약."
           },
           {
             "t": "p",
-            "x": "AI는 미국인의 삶에 빠르게 파고들었다. Wolters Kluwer 의뢰로 Ipsos가 3월에 U.S. 환자 254명을 조사해 보니 응답자의 40%가 하루 한 번 이상 AI를 쓴다고 답했다. 약 4명 중 1명은 AI로 증상이나 질환을 알아본 뒤 진료를 더 일찍 받았다고 했다."
+            "x": "연구진은 20개 국가·지역 30개 신생아 집중치료실의 신생아 흉부 방사선 사진을 다룬 국제 후향 연구를 내놓았다. 평가 대상은 연속 학습으로, 성인 기관내관 평가용 딥러닝 모델을 개인정보를 지키면서 신생아 진료에 맞추는 방법이다. 각 병원은 데이터를 한곳에 모으는 대신 방사선 사진 50장씩을 내놓아 모델을 차례로 재학습시켰다."
           },
           {
             "t": "p",
-            "x": "그런데 의료 제공자를 찾을 때 AI를 쓰겠다는 응답은 약 30%였고, 식단·운동·수면 계획은 28%, 보험 보장 범위 확인은 19%에 그쳤다. 망설이는 이유는 신뢰다. 70% 이상이 보호 대상 건강정보의 프라이버시를 걱정했고 AI 편향(72%)과 환각(69%)을 우려하는 목소리도 있었다."
-          },
-          {
-            "t": "p",
-            "x": "대다수는 AI가 생성한(AI-generated) 건강 답변을 사람 전문가가 확인해야 한다고 했다. 절반 가까이는 건강 조언용 AI 도구도 신약처럼 연방 차원의 시험과 승인을 거쳐야 한다고 봤다."
+            "x": "연속 학습은 30개 기관 중 29곳에서 해부학적 기준점 위치 오차가 더 낮았고(0.67 cm, 병원별 미세 조정은 1.29 cm, 성인 전용 모델은 4.30 cm) 30곳 중 27곳에서는 깊은 삽관 검출도 나아졌다. 연구진은 개인정보를 보호하는 협력 학습이 소아 AI 도입의 중요한 공백을 메울 수 있다고 본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Privacy worries may slow\npatient use of AI in care",
-          "body": "A Wolters Kluwer survey finds over 70% of patients worry about health data privacy, which could slow their use of AI.",
-          "mini_headline": "Privacy curbs patient AI use",
+          "headline": "Adult X-ray AI adapted\nfor newborn breathing tubes",
+          "body": "Continual learning adapted an adult endotracheal tube X-ray model to neonatal care while keeping patient data private.",
+          "mini_headline": "Adult X-ray AI adapted for NICU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Despite growing clinical adoption of artificial intelligence in radiology, fewer than one in five commercially available models are cleared for paediatric use. Existing systems are trained predominantly on adult data and generalize poorly to neonates, yet efficient strategies for repurposing them without data sharing or large-scale local data curation are lacking."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+                "cap": "Fig. 1: Summary of continual learning paradigm and benchmark comparisons."
               },
               {
                 "t": "p",
-                "x": "AI has quickly become integrated into Americans' lives, with 40% of respondents saying they use AI at least once daily, according to an Ipsos survey of 254 U.S. patients conducted in March for Wolters Kluwer. About 1 in 4 said they pursued healthcare sooner after using AI to research symptoms or conditions."
+                "x": "Here we present an international retrospective study of neonatal chest radiographs from 30 neonatal intensive care units across 20 countries and territories, evaluating continual learning as a privacy-preserving approach to adapt a deep learning model for adult endotracheal tube assessment to neonatal care. Each hospital contributed 50 radiographs for sequential model retraining without centralized data pooling."
               },
               {
                 "t": "p",
-                "x": "But only about 30% would use AI to find a provider, 28% to create a diet, workout or sleep plan and 19% to navigate insurance coverage. Trust issues drive the reluctance: over 70% worry about the privacy of their protected health information, and patients are also concerned about AI bias (72%) and hallucinations (69%)."
-              },
-              {
-                "t": "p",
-                "x": "A vast majority said a human expert should validate AI-generated health responses, and nearly half said AI tools used for health advice should undergo federal testing and approval, similar to new medications."
+                "x": "Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29 cm for hospital-specific fine-tuning and 4.30 cm for adult-only models) at 29 of 30 sites, with improved detection of deep intubations at 27 of 30 sites. These findings demonstrate that privacy-preserving collaborative learning can address critical gaps in paediatric AI deployment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "개인정보 우려에 의료 AI\n환자 이용 늦어질 수도",
-          "body": "Wolters Kluwer 조사 결과 환자 70% 이상이 건강정보 보호를 걱정했다.",
-          "mini_headline": "개인정보 우려에 막힌 AI",
+          "headline": "성인 X-ray AI를\n신생아 호흡관에 맞췄다",
+          "body": "연속 학습으로 성인 기관내관 X-ray 모델을 데이터 공유 없이 신생아에 맞췄다.",
+          "mini_headline": "성인 X-ray AI, NICU에 맞추다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "영상의학에서 인공지능의 임상 도입은 늘고 있지만 상용 모델 가운데 소아용으로 승인된 것은 다섯 개 중 하나도 안 된다. 기존 시스템은 주로 성인 데이터로 학습해 신생아에게는 일반화가 잘 안 된다. 데이터를 공유하거나 현지 데이터를 대규모로 정제하지 않고 이 모델을 다시 쓸 효율적인 전략도 부족하다."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+                "cap": "Fig. 1: 연속 학습 패러다임과 벤치마크 비교 요약."
               },
               {
                 "t": "p",
-                "x": "AI는 미국인의 삶에 빠르게 파고들었다. Wolters Kluwer 의뢰로 Ipsos가 3월에 U.S. 환자 254명을 조사해 보니 응답자의 40%가 하루 한 번 이상 AI를 쓴다고 답했다. 약 4명 중 1명은 AI로 증상이나 질환을 알아본 뒤 진료를 더 일찍 받았다고 했다."
+                "x": "연구진은 20개 국가·지역 30개 신생아 집중치료실의 신생아 흉부 방사선 사진을 다룬 국제 후향 연구를 내놓았다. 평가 대상은 연속 학습으로, 성인 기관내관 평가용 딥러닝 모델을 개인정보를 지키면서 신생아 진료에 맞추는 방법이다. 각 병원은 데이터를 한곳에 모으는 대신 방사선 사진 50장씩을 내놓아 모델을 차례로 재학습시켰다."
               },
               {
                 "t": "p",
-                "x": "그런데 의료 제공자를 찾을 때 AI를 쓰겠다는 응답은 약 30%였고, 식단·운동·수면 계획은 28%, 보험 보장 범위 확인은 19%에 그쳤다. 망설이는 이유는 신뢰다. 70% 이상이 보호 대상 건강정보의 프라이버시를 걱정했고 AI 편향(72%)과 환각(69%)을 우려하는 목소리도 있었다."
-              },
-              {
-                "t": "p",
-                "x": "대다수는 AI가 생성한(AI-generated) 건강 답변을 사람 전문가가 확인해야 한다고 했다. 절반 가까이는 건강 조언용 AI 도구도 신약처럼 연방 차원의 시험과 승인을 거쳐야 한다고 봤다."
+                "x": "연속 학습은 30개 기관 중 29곳에서 해부학적 기준점 위치 오차가 더 낮았고(0.67 cm, 병원별 미세 조정은 1.29 cm, 성인 전용 모델은 4.30 cm) 30곳 중 27곳에서는 깊은 삽관 검출도 나아졌다. 연구진은 개인정보를 보호하는 협력 학습이 소아 AI 도입의 중요한 공백을 메울 수 있다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "プライバシー懸念が\n患者のAI利用を鈍らせるか",
-          "body": "Wolters Kluwerの調査で、患者の70%超が健康データのプライバシーを懸念した。",
-          "mini_headline": "プライバシーが患者のAI利用を抑制",
+          "headline": "成人用X-ray AIを\n新生児の気管チューブに",
+          "body": "継続学習で成人の気管チューブX-rayモデルを、データを守りつつ新生児向けに適応させた。",
+          "mini_headline": "成人用X-ray AIをNICU向けに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "放射線科での人工知能の臨床導入は進んでいるが、市販モデルのうち小児への使用が認められているのは五つに一つにも満たない。既存のシステムは主に成人データで学習されており新生児への汎化性能が低いが、データ共有や大規模な現地データ整備なしにそれらを転用する効率的な方法はまだない。"
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+                "cap": "Fig. 1: 継続学習パラダイムとベンチマーク比較の概要。"
               },
               {
                 "t": "p",
-                "x": "Wolters Kluwerの依頼でIpsosが3月に実施したU.S.の患者254人への調査によると、回答者の40%が少なくとも1日1回AIを使っており、AIは米国人の生活に急速に浸透している。約4人に1人は、AIで症状や病気を調べた後、より早く受診したと答えた。"
+                "x": "研究チームは、20の国と地域にある30の新生児集中治療室の新生児胸部X線写真を用いた国際的な後ろ向き研究を提示し、成人の気管チューブ評価用ディープラーニングモデルを新生児医療に適応させるプライバシー保護型の手法として継続学習を評価した。各病院は、データを一元的に集約せずに逐次的にモデルを再学習させるため、50枚の写真を提供した。"
               },
               {
                 "t": "p",
-                "x": "しかし、医療提供者探しにAIを使うとした人は約30%、食事・運動・睡眠の計画づくりは28%、保険適用の確認は19%にとどまった。ためらいの背景には信頼の問題がある。70%超が保護対象の健康情報のプライバシーを懸念し、AIのバイアス（72%）やハルシネーション（69%）への懸念もあった。"
-              },
-              {
-                "t": "p",
-                "x": "大多数が、AIが生成した（AI-generated）健康関連の回答は人間の専門家が検証すべきだとし、半数近くは健康アドバイスに使うAIツールも新薬と同様に連邦政府の試験と承認を受けるべきだと答えた。"
+                "x": "継続学習は、30施設中29施設で解剖学的ランドマークの位置特定誤差がより小さく（0.67 cm、病院ごとのファインチューニングは1.29 cm、成人データのみのモデルは4.30 cm）、30施設中27施設で深い挿管の検出も改善した。これらの結果は、プライバシーを保護する協調学習が小児AI導入の重大な空白を埋めうることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "隐私担忧或拖慢\n患者在医疗中使用AI",
-          "body": "Wolters Kluwer调查显示，逾70%的患者担忧健康数据隐私，或将拖慢其使用AI。",
-          "mini_headline": "隐私顾虑抑制患者使用AI",
+          "headline": "成人X-ray AI模型\n适配新生儿气管导管",
+          "body": "持续学习让成人气管导管X-ray模型在保护患者数据的同时适配新生儿护理。",
+          "mini_headline": "成人X-ray AI适配NICU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "尽管人工智能在放射学中的临床应用日益增多，但商用模型中获准用于儿科的不到五分之一。现有系统主要基于成人数据训练，对新生儿的泛化能力较差，而在不共享数据、不进行大规模本地数据整理的前提下对其加以改造的高效策略仍然缺乏。"
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+                "cap": "Fig. 1：持续学习范式与基准比较概述。"
               },
               {
                 "t": "p",
-                "x": "根据Ipsos于3月为Wolters Kluwer对254名U.S.患者开展的调查，40%的受访者表示每天至少使用一次AI，AI已迅速融入美国人的生活。约每4人中有1人表示，在用AI查询症状或病情后更早就医。"
+                "x": "研究人员开展了一项国际回顾性研究，纳入来自20个国家和地区30个新生儿重症监护病房的新生儿胸片，评估持续学习作为一种保护隐私的方法，将用于成人气管导管评估的深度学习模型适配到新生儿护理中的效果。每家医院提供50张胸片，用于依次重新训练模型，而无需集中汇集数据。"
               },
               {
                 "t": "p",
-                "x": "但只有约30%的人愿意用AI寻找医疗服务提供者，28%愿意用它制定饮食、锻炼或睡眠计划，19%愿意用它了解保险覆盖范围。这种犹豫源于信任问题：逾70%的人担心受保护健康信息的隐私，患者还担心AI偏见（72%）和幻觉（69%）。"
-              },
-              {
-                "t": "p",
-                "x": "绝大多数人认为，AI生成（AI-generated）的健康回答应由人类专家核实；近一半人认为，用于健康建议的AI工具应像新药一样接受联邦测试与审批。"
+                "x": "持续学习在30个站点中的29个实现了更低的解剖标志定位误差（0.67 cm，而医院专属微调为1.29 cm，仅用成人数据的模型为4.30 cm），并在30个站点中的27个改善了深插管的检出。这些结果表明，保护隐私的协作学习可以弥补儿科AI部署中的关键空白。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Temores de privacidad pueden\nfrenar la AI entre pacientes",
-          "body": "Una encuesta de Wolters Kluwer halla que más del 70% de los pacientes teme por la privacidad de sus datos de salud.",
-          "mini_headline": "La privacidad frena el uso de AI",
+          "headline": "AI de X-ray para adultos\nadaptada a tubos neonatales",
+          "body": "El aprendizaje continuo adaptó a neonatos un modelo de X-ray para tubos endotraqueales de adultos sin compartir datos.",
+          "mini_headline": "AI de X-ray de adultos adaptada a la NICU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pese a la creciente adopción clínica de la inteligencia artificial en radiología, menos de uno de cada cinco modelos comerciales están autorizados para uso pediátrico. Los sistemas existentes se entrenan sobre todo con datos de adultos y generalizan mal a los neonatos, pero faltan estrategias eficientes para reutilizarlos sin compartir datos ni curar datos locales a gran escala."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+                "cap": "Fig. 1: Resumen del paradigma de aprendizaje continuo y de las comparaciones de referencia."
               },
               {
                 "t": "p",
-                "x": "La AI se ha integrado rápidamente en la vida de los estadounidenses: el 40% de los encuestados dice usar AI al menos una vez al día, según una encuesta de Ipsos a 254 pacientes en U.S. realizada en marzo para Wolters Kluwer. Alrededor de 1 de cada 4 afirmó haber buscado atención médica antes tras usar AI para investigar síntomas o enfermedades."
+                "x": "Presentamos un estudio retrospectivo internacional de radiografías de tórax neonatales de 30 unidades de cuidados intensivos neonatales en 20 países y territorios, que evalúa el aprendizaje continuo como un enfoque que preserva la privacidad para adaptar a la atención neonatal un modelo de aprendizaje profundo de evaluación del tubo endotraqueal en adultos. Cada hospital aportó 50 radiografías para el reentrenamiento secuencial del modelo sin agrupar los datos de forma centralizada."
               },
               {
                 "t": "p",
-                "x": "Pero solo alrededor del 30% usaría AI para encontrar un proveedor, el 28% para crear un plan de dieta, ejercicio o sueño y el 19% para orientarse en la cobertura del seguro. Los problemas de confianza explican esta reticencia: más del 70% teme por la privacidad de su información de salud protegida, y a los pacientes también les preocupan el sesgo de la AI (72%) y las alucinaciones (69%)."
-              },
-              {
-                "t": "p",
-                "x": "Una amplia mayoría dijo que un experto humano debería validar las respuestas de salud generadas por AI (AI-generated), y casi la mitad afirmó que las herramientas de AI usadas para dar consejos de salud deberían someterse a pruebas y aprobación federales, como los nuevos medicamentos."
+                "x": "El aprendizaje continuo logró un menor error de localización de referencias anatómicas (0.67 cm frente a 1.29 cm con el ajuste fino específico de cada hospital y 4.30 cm con modelos solo de adultos) en 29 de 30 centros, y mejoró la detección de intubaciones profundas en 27 de 30 centros. Estos resultados demuestran que el aprendizaje colaborativo que preserva la privacidad puede cubrir brechas críticas en el despliegue de la AI pediátrica."
               }
             ]
           }
@@ -1423,109 +1333,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "개인정보 우려에 의료 AI\n환자 이용 늦어질 수도",
-          "body": "Wolters Kluwer 조사에서 환자 70% 이상이 건강정보 보호를 걱정했다.",
-          "mini_headline": "개인정보 우려가 AI 이용 막아",
+          "headline": "성인 X-ray AI를\n신생아 호흡관에 맞췄다",
+          "body": "연속 학습으로 성인 기관내관 X-ray 모델을 데이터 공유 없이 신생아에 맞췄다.",
+          "mini_headline": "성인 X-ray AI, NICU에 맞추다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "영상의학 분야에서 인공지능의 임상 도입이 늘고 있지만, 상용 모델 가운데 소아용으로 승인된 것은 다섯 개 중 하나도 안 된다. 기존 시스템은 주로 성인 데이터로 학습돼 신생아에게는 일반화 성능이 떨어지지만, 데이터를 공유하거나 대규모로 현지 데이터를 정제하지 않고 이를 재활용할 효율적인 전략은 부족하다."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+                "cap": "Fig. 1: 연속 학습 패러다임과 벤치마크 비교 요약."
               },
               {
                 "t": "p",
-                "x": "Wolters Kluwer 의뢰로 Ipsos가 3월에 U.S. 환자 254명을 조사한 결과, 응답자의 40%가 하루 한 번 이상 AI를 쓴다고 답할 만큼 AI는 미국인의 삶에 빠르게 자리 잡았다. 약 4명 중 1명은 AI로 증상이나 질환을 알아본 뒤 더 일찍 진료를 받았다고 답했다."
+                "x": "연구진은 20개 국가·지역 30개 신생아 집중치료실의 신생아 흉부 방사선 사진을 대상으로 한 국제 후향 연구를 제시했다. 성인 기관내관 평가용 딥러닝 모델을 신생아 진료에 맞추는 개인정보 보호형 방법으로 연속 학습을 평가했다. 각 병원은 데이터를 한곳에 모으지 않고 순차적 모델 재학습을 위해 방사선 사진 50장씩을 제공했다."
               },
               {
                 "t": "p",
-                "x": "하지만 의료 제공자를 찾는 데 AI를 쓰겠다는 응답은 약 30%, 식단·운동·수면 계획을 짜는 데는 28%, 보험 보장 범위를 확인하는 데는 19%에 그쳤다. 이런 망설임의 배경에는 신뢰 문제가 있다. 70% 이상이 보호 대상 건강정보의 프라이버시를 걱정했고, AI 편향(72%)과 환각(69%)에 대한 우려도 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "대다수는 AI가 생성한(AI-generated) 건강 답변을 인간 전문가가 검증해야 한다고 답했고, 절반 가까이는 건강 조언용 AI 도구도 신약처럼 연방 차원의 시험과 승인을 거쳐야 한다고 했다."
+                "x": "연속 학습은 30개 기관 중 29곳에서 해부학적 기준점 위치 오차가 더 낮았고(0.67 cm, 병원별 미세 조정은 1.29 cm, 성인 전용 모델은 4.30 cm), 30곳 중 27곳에서 깊은 삽관 검출도 개선됐다. 이 결과는 개인정보를 보호하는 협력 학습이 소아 AI 도입의 중요한 공백을 메울 수 있음을 보여준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "プライバシー懸念が\n患者のAI利用を鈍らせるか",
-          "body": "Wolters Kluwerの調査で、患者の70%超が健康データのプライバシーを懸念した。",
-          "mini_headline": "プライバシーが患者のAI利用を抑制",
+          "headline": "成人用X-ray AIを\n新生児の気管チューブに",
+          "body": "継続学習で成人の気管チューブX-rayモデルを、データを守りつつ新生児向けに適応させた。",
+          "mini_headline": "成人用X-ray AIをNICU向けに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "放射線科での人工知能の臨床導入は進んでいるが、市販モデルのうち小児への使用が認められているのは五つに一つにも満たない。既存のシステムは主に成人データで学習されており新生児への汎化性能が低いが、データ共有や大規模な現地データ整備なしにそれらを転用する効率的な方法はまだない。"
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+                "cap": "Fig. 1: 継続学習パラダイムとベンチマーク比較の概要。"
               },
               {
                 "t": "p",
-                "x": "Wolters Kluwerの依頼でIpsosが3月に実施したU.S.の患者254人への調査によると、回答者の40%が少なくとも1日1回AIを使っており、AIは米国人の生活に急速に浸透している。約4人に1人は、AIで症状や病気を調べた後、より早く受診したと答えた。"
+                "x": "研究チームは、20の国と地域にある30の新生児集中治療室の新生児胸部X線写真を用いた国際的な後ろ向き研究を提示し、成人の気管チューブ評価用ディープラーニングモデルを新生児医療に適応させるプライバシー保護型の手法として継続学習を評価した。各病院は、データを一元的に集約せずに逐次的にモデルを再学習させるため、50枚の写真を提供した。"
               },
               {
                 "t": "p",
-                "x": "しかし、医療提供者探しにAIを使うとした人は約30%、食事・運動・睡眠の計画づくりは28%、保険適用の確認は19%にとどまった。ためらいの背景には信頼の問題がある。70%超が保護対象の健康情報のプライバシーを懸念し、AIのバイアス（72%）やハルシネーション（69%）への懸念もあった。"
-              },
-              {
-                "t": "p",
-                "x": "大多数が、AIが生成した（AI-generated）健康関連の回答は人間の専門家が検証すべきだとし、半数近くは健康アドバイスに使うAIツールも新薬と同様に連邦政府の試験と承認を受けるべきだと答えた。"
+                "x": "継続学習は、30施設中29施設で解剖学的ランドマークの位置特定誤差がより小さく（0.67 cm、病院ごとのファインチューニングは1.29 cm、成人データのみのモデルは4.30 cm）、30施設中27施設で深い挿管の検出も改善した。これらの結果は、プライバシーを保護する協調学習が小児AI導入の重大な空白を埋めうることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "隐私担忧或拖慢\n患者在医疗中使用AI",
-          "body": "Wolters Kluwer调查显示，逾70%的患者担忧健康数据隐私，或将拖慢其使用AI。",
-          "mini_headline": "隐私顾虑抑制患者使用AI",
+          "headline": "成人X-ray AI模型\n适配新生儿气管导管",
+          "body": "持续学习让成人气管导管X-ray模型在保护患者数据的同时适配新生儿护理。",
+          "mini_headline": "成人X-ray AI适配NICU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "尽管人工智能在放射学中的临床应用日益增多，但商用模型中获准用于儿科的不到五分之一。现有系统主要基于成人数据训练，对新生儿的泛化能力较差，而在不共享数据、不进行大规模本地数据整理的前提下对其加以改造的高效策略仍然缺乏。"
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+                "cap": "Fig. 1：持续学习范式与基准比较概述。"
               },
               {
                 "t": "p",
-                "x": "根据Ipsos于3月为Wolters Kluwer对254名U.S.患者开展的调查，40%的受访者表示每天至少使用一次AI，AI已迅速融入美国人的生活。约每4人中有1人表示，在用AI查询症状或病情后更早就医。"
+                "x": "研究人员开展了一项国际回顾性研究，纳入来自20个国家和地区30个新生儿重症监护病房的新生儿胸片，评估持续学习作为一种保护隐私的方法，将用于成人气管导管评估的深度学习模型适配到新生儿护理中的效果。每家医院提供50张胸片，用于依次重新训练模型，而无需集中汇集数据。"
               },
               {
                 "t": "p",
-                "x": "但只有约30%的人愿意用AI寻找医疗服务提供者，28%愿意用它制定饮食、锻炼或睡眠计划，19%愿意用它了解保险覆盖范围。这种犹豫源于信任问题：逾70%的人担心受保护健康信息的隐私，患者还担心AI偏见（72%）和幻觉（69%）。"
-              },
-              {
-                "t": "p",
-                "x": "绝大多数人认为，AI生成（AI-generated）的健康回答应由人类专家核实；近一半人认为，用于健康建议的AI工具应像新药一样接受联邦测试与审批。"
+                "x": "持续学习在30个站点中的29个实现了更低的解剖标志定位误差（0.67 cm，而医院专属微调为1.29 cm，仅用成人数据的模型为4.30 cm），并在30个站点中的27个改善了深插管的检出。这些结果表明，保护隐私的协作学习可以弥补儿科AI部署中的关键空白。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Temores de privacidad pueden\nfrenar la AI entre pacientes",
-          "body": "Una encuesta de Wolters Kluwer halla que más del 70% de los pacientes teme por la privacidad de sus datos de salud.",
-          "mini_headline": "La privacidad frena el uso de AI",
+          "headline": "AI de X-ray para adultos\nadaptada a tubos neonatales",
+          "body": "El aprendizaje continuo adaptó a neonatos un modelo de X-ray para tubos endotraqueales de adultos sin compartir datos.",
+          "mini_headline": "AI de X-ray de adultos adaptada a la NICU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Pese a la creciente adopción clínica de la inteligencia artificial en radiología, menos de uno de cada cinco modelos comerciales están autorizados para uso pediátrico. Los sistemas existentes se entrenan sobre todo con datos de adultos y generalizan mal a los neonatos, pero faltan estrategias eficientes para reutilizarlos sin compartir datos ni curar datos locales a gran escala."
+              },
+              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/kv1Juh1llLFqdgh0pJvt1g-H1Cyrtgi5LWje5qx0Yns/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-                "cap": "Getty Images"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+                "cap": "Fig. 1: Resumen del paradigma de aprendizaje continuo y de las comparaciones de referencia."
               },
               {
                 "t": "p",
-                "x": "La AI se ha integrado rápidamente en la vida de los estadounidenses: el 40% de los encuestados dice usar AI al menos una vez al día, según una encuesta de Ipsos a 254 pacientes en U.S. realizada en marzo para Wolters Kluwer. Alrededor de 1 de cada 4 afirmó haber buscado atención médica antes tras usar AI para investigar síntomas o enfermedades."
+                "x": "Presentamos un estudio retrospectivo internacional de radiografías de tórax neonatales de 30 unidades de cuidados intensivos neonatales en 20 países y territorios, que evalúa el aprendizaje continuo como un enfoque que preserva la privacidad para adaptar a la atención neonatal un modelo de aprendizaje profundo de evaluación del tubo endotraqueal en adultos. Cada hospital aportó 50 radiografías para el reentrenamiento secuencial del modelo sin agrupar los datos de forma centralizada."
               },
               {
                 "t": "p",
-                "x": "Pero solo alrededor del 30% usaría AI para encontrar un proveedor, el 28% para crear un plan de dieta, ejercicio o sueño y el 19% para orientarse en la cobertura del seguro. Los problemas de confianza explican esta reticencia: más del 70% teme por la privacidad de su información de salud protegida, y a los pacientes también les preocupan el sesgo de la AI (72%) y las alucinaciones (69%)."
-              },
-              {
-                "t": "p",
-                "x": "Una amplia mayoría dijo que un experto humano debería validar las respuestas de salud generadas por AI (AI-generated), y casi la mitad afirmó que las herramientas de AI usadas para dar consejos de salud deberían someterse a pruebas y aprobación federales, como los nuevos medicamentos."
+                "x": "El aprendizaje continuo logró un menor error de localización de referencias anatómicas (0.67 cm frente a 1.29 cm con el ajuste fino específico de cada hospital y 4.30 cm con modelos solo de adultos) en 29 de 30 centros, y mejoró la detección de intubaciones profundas en 27 de 30 centros. Estos resultados demuestran que el aprendizaje colaborativo que preserva la privacidad puede cubrir brechas críticas en el despliegue de la AI pediátrica."
               }
             ]
           }

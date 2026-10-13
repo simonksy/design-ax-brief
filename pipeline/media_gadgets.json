@@ -1,32 +1,31 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-fitbit-edge-launch",
-      "type": "video",
-      "src": "pipeline/media/gadgets-fitbit-edge-launch.mp4",
-      "poster": "pipeline/media/gadgets-fitbit-edge-launch.jpg"
+      "id": "gadgets-apple-homeview",
+      "type": "image",
+      "src": "pipeline/media/gadgets-apple-homeview.jpg"
     },
     {
-      "id": "gadgets-translate-transcript-autosave",
+      "id": "gadgets-samsung-galaxy-glasses",
       "type": "image",
-      "src": "pipeline/media/gadgets-translate-transcript-autosave.jpg"
+      "src": "pipeline/media/gadgets-samsung-galaxy-glasses.jpg"
     },
     {
-      "id": "gadgets-googlebook-os-review",
+      "id": "gadgets-rayban-meta-listening",
       "type": "image",
-      "src": "pipeline/media/gadgets-googlebook-os-review.jpg"
+      "src": "pipeline/media/gadgets-rayban-meta-listening.jpg"
     },
     {
-      "id": "gadgets-mechrevo-x10-ai-ssd",
+      "id": "gadgets-unitree-gpt7-robots",
       "type": "image",
-      "src": "pipeline/media/gadgets-mechrevo-x10-ai-ssd.png"
+      "src": "pipeline/media/gadgets-unitree-gpt7-robots.jpg"
     },
     {
-      "id": "gadgets-meta-wonder-full",
+      "id": "gadgets-ultrahuman-uae-bioage",
       "type": "image",
-      "src": "pipeline/media/gadgets-meta-wonder-full.jpg"
+      "src": "pipeline/media/gadgets-ultrahuman-uae-bioage.jpg"
     }
   ]
 }

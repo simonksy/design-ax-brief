@@ -1,32 +1,5 @@
-{
-  "date": "2026-10-13",
-  "section": "music",
-  "media": [
-    {
-      "id": "music-tencent-musicbuddy",
-      "type": "image",
-      "src": "pipeline/media/music-tencent-musicbuddy.jpg"
-    },
-    {
-      "id": "music-claude-yamaha-cs80-patches",
-      "type": "video",
-      "src": "pipeline/media/music-claude-yamaha-cs80-patches.mp4",
-      "poster": "pipeline/media/music-claude-yamaha-cs80-patches.jpg"
-    },
-    {
-      "id": "music-instagram-dm-ai-songs",
-      "type": "image",
-      "src": "pipeline/media/music-instagram-dm-ai-songs.jpg"
-    },
-    {
-      "id": "music-livesynth-streaming-neural-synth",
-      "type": "image",
-      "src": "pipeline/media/music-livesynth-streaming-neural-synth.png"
-    },
-    {
-      "id": "music-suno-new-autotune-viral-artists",
-      "type": "image",
-      "src": "pipeline/media/music-suno-new-autotune-viral-artists.jpg"
-    }
-  ]
-}
+{"date":"2026-10-14","section":"music","media":[
+ {"id":"music-deezer-ai-search-toggle","type":"image","src":"pipeline/media/music-deezer-ai-search-toggle.jpg"},
+ {"id":"music-hypebot-ai-likeness-guide","type":"image","src":"pipeline/media/music-hypebot-ai-likeness-guide.jpg"},
+ {"id":"music-laroche-digital-blackface","type":"video","src":"pipeline/media/music-laroche-digital-blackface.mp4","poster":"pipeline/media/music-laroche-digital-blackface.jpg"}
+]}

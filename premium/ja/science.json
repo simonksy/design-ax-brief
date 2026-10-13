@@ -7632,6 +7632,123 @@
           "x": "集団の平均ではなく個々の細胞を追うため、成長、移動、分裂、バイオマスの変化を経時的に追跡できる。研究チームは薬剤応答(drug-response)研究、毒性スクリーニング、細胞死(cell-death)研究への応用を見込む。成果はApplied Physics Lettersに掲載された。"
         }
       ]
+    },
+    "science/science-gemini-4-argon-robotics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gemini 4 Argonは、物理的理解、コード生成、視覚・意味推論で段階的な飛躍を遂げ、ロボティクススタック全体に新たなワークフローを開き、物理的AGIに向けた進歩を加速させる。3D 環境で物理的・空間的な問題を解く能力を測るEmbodied Reasoning(ERQA)ベンチマークで、Argonは純粋な推論のみで87%を記録し、他のすべてのフロンティアモデルを上回った。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Argonは四つの領域で示されている。ロボット制御(MuJoCoでの練習を伴うモバイルマニピュレーション、zero-shot制御、ビデオ世界モデルの操縦)、Real2Sim(ロボットのカメラ映像、エゴセントリックな人間の映像、手描きスケッチからのシミュレーションツイン)、物理的理解(事後ラベリング、密な価値関数、進捗推定)、そして研究と自己改善だ。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Argonは脚型ロボットBoston Dynamics Spotを操って新たなスキルを習得した。足踏みペダル式ゴミ箱のMuJoCoデジタルツインを作って練習し、実際のペダルを踏んでソーダ缶を捨てた。単一の卓上写真からシミュレーションツインを構築して4,500+のエピソードを生成し、実世界ベンチマークの成功率を56%から75%に引き上げた。"
+        }
+      ]
+    },
+    "science/science-idealens-idea-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+          "cap": "IDEALENSは発想を、従来の検出器は言い回しを追跡する。Credit: arXiv (2026)."
+        },
+        {
+          "t": "p",
+          "x": "University of Maryland、Google DeepMind、Simon Fraser Universityの研究者らは、言葉選びではなく根底にある発想や論証を分析して文章へのAIの関与を検出するIdeaLensを開発した。チームはラベル付きの文書を約1百万件集め、言語モデルで文体を取り除いて核となる論証のアウトラインに要約した。"
+        },
+        {
+          "t": "p",
+          "x": "完全に人間が書いた文書と完全にAI-generatedな文書では、IdeaLensはAI生成文書の91%を特定し、人間の文章への誤検知は0.6%だった。AIのアウトラインを基に人間が書いた文章では68%をAIの発想と判定したが、Pangramは8%しか捉えられなかった。人間のアウトラインを基にAIが書いた文章では、Pangram 4がAIの言い回しの92%を捉えたのに対し、IdeaLensが判定したのは7%にとどまった。"
+        },
+        {
+          "t": "p",
+          "x": "90,000件の予測を通じて、人間の発想には検証可能な出典や限界への言及が含まれる傾向があり、AIの文章はありきたりな細部、検証できない数字、大まかな主張に頼っていた。IdeaLensはいくつかの新しいモデルでは効果が落ちるため、さらなる検証なしに導入できる段階にはない。"
+        }
+      ]
+    },
+    "science/science-arnhem-rangers-megadetector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+          "cap": "Warddekenのレンジャーが使うカメラトラップに写ったクロアシキノボリネズミ。Credit: Cara Penton"
+        },
+        {
+          "t": "p",
+          "x": "Warddeken Land Management、Charles Darwin University、CSIROの研究者らは、Conservation Science and Practiceに掲載された論文で、AIがAustraliaのWest Arnhemにおける先住民主導(Indigenous-led)の野生生物モニタリングをどう支えられるかを調べた。研究の中心は、Warddeken Indigenous Protected Areaでカメラトラップを運用し、bininjとdalukのレンジャーを雇用するMayh(動物)プログラムだ。"
+        },
+        {
+          "t": "p",
+          "x": "レンジャーは1,572時間分のデータを動物検出モデルMegaDetectorに投入した。分析が必要な画像は925,088枚から172,290枚へと81.4%減り、処理期間は六か月から二か月に短縮された。二週間ごとの平均処理時間も52.6時間から41.8時間に減り、土地管理、種の同定、言語の記録、ワークショップに充てる時間が生まれた。"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Cara Pentonはデータの検証に引き続き人が関わると強調し、シニアのdalukレンジャーであるSuzanna Nabulwadは、長老の意見を取り入れながら技術を慎重に導入すべきだと述べた。"
+        }
+      ]
+    },
+    "science/science-ai-idea-theft-fears": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+          "cap": "AI企業がアップロードされた文書を収集したという注目の告発を受け、科学者たちは原稿のプライバシーへの懸念を強めている。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIが社内モデルで数学の七つの百万ドル問題の一つを解いたと主張すると、New York Universityの数学者は、自分がチャットボットと共有した進展を同社が盗んだとほのめかした。数週間後、New York TimesはAnthropicとUniversity of Copenhagenの生物学者をめぐる同様の話を報じた。両社とも、アップロードされたデータで学習していないと表明した。"
+        },
+        {
+          "t": "p",
+          "x": "科学者は今もこれらのモデルを議論の相手や文献レビュー、証明の生成に使っているが、競争相手と見なす人も出てきた。「私は使っていない」とUniversity of SydneyのClément Canonneは言う。"
+        },
+        {
+          "t": "p",
+          "x": "Stanford HAIのフェローであるJennifer Kingは、企業アカウントは安全そうだが「個人アカウントなら何の保証もない」と言い、ユーザーは学習からのオプトアウトを自ら行う必要があることが多いと指摘する。「企業はこうした慣行について透明ではない」と彼女は言う。"
+        },
+        {
+          "t": "p",
+          "x": "科学者は、モデルを使って発見が漏れる危険を冒すか、使わずに先を越される危険を冒すかの選択を迫られていると感じるかもしれない。「使わなければ、取り残されるのではないか」とCanonneは言う。"
+        }
+      ]
+    },
+    "science/science-3d-einstein-tile-aperiodic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+          "cap": "Chair44 モノタイルは繰り返し模様を作らずに3D 空間を埋め尽くせる。Amanda Montañez"
+        },
+        {
+          "t": "p",
+          "x": "研究者たちが3次元の「アインシュタイン（einstein）」タイルを発見した。2023年には、アマチュア数学者David Smithが見つけた帽子形のタイルが、初めて知られた2D 非周期モノタイルであると証明された。繰り返し模様を一度も作らずに平面を無限に敷き詰められる図形である。"
+        },
+        {
+          "t": "p",
+          "x": "今回のChair44 モノタイルは、隙間も重なりもなく3D 空間を無限に埋め尽くし、その敷き詰めは非周期的である。発見を発表したのはAutomorphの代表Ioannis Tsiokosで、彼は同社をAI研究所と説明している。プレプリントの唯一の人間の著者であるTsiokosは「私自身は数学者ではない」と語る。論文の執筆にはAnthropicのClaude Fable 5.1を、3D モノタイルの探索とChair44がeinsteinの条件を満たすかの検証にはOpenAIのChatGPT-6 Astraを使ったという。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+          "cap": "Chair44 モノタイル8個を組み合わせたSuperchair44の分解図と組立図。"
+        },
+        {
+          "t": "p",
+          "x": "Craig Kaplanは、これが「タイリング理論で長く残っていた厄介な未解決問題」に決着をつけると評価する。従来のSchmitt-Conway-Danzer双角柱は弱い非周期性しか持たなかったからだ。一方、生成AIを多用したことで反応は割れている。Chaim Goodman-Straussは論文に「LLM-driven研究論文の特徴」があると指摘し、彼とFelix FlickerはChair44が非周期モノタイルであることを人の手で証明した。Flickerは「私たちの仕事が、金塊を探してAIスロップ（slop）をふるいにかける作業に成り下がる恐れがある」と語る。"
+        }
+      ]
     }
   }
 }

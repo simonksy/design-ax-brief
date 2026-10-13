@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "movies",
   "picks": [
     {
@@ -7,136 +7,110 @@
       "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "‘Merry the Christmas Witch’ Director Estimated Movie Would Cost $80 Million — but Says With AI, He Made It for $1.5 Million (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/merry-the-christmas-witch-ai-film-80-million-1-5-million-1236905721/",
-      "source": "Variety",
-      "published_iso": "2026-10-12T16:37:10+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Merry_Poster_HiRes-1.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Director Tom Walsh said he produced the two-hour film for $1.5 million using AI, perhaps serving as a test case for the types of projects AI can help make.",
-      "rationale": "Concrete budget case study ($80M estimate vs $1.5M actual) for a full-length AI-made feature; freshest and most concrete item in the pool."
-    },
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "title": "Antonio Banderas to Star in AI-Powered Feature ‘Cortes’ From Utopai Studios",
-      "url": "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/",
-      "source": "Variety",
-      "published_iso": "2026-10-12T15:00:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2182672949-e1774570677557.jpg?w=1000&h=563&crop=1",
-      "excerpt": "The Oscar-nominated actor will star as Hernán Cortés in “Cortés,” an AI-powered feature from Utopai Studios and Ex Machina Studios now shooting in Paris.",
-      "rationale": "An Oscar-nominated star signs onto an AI-powered feature now shooting. That is a new production announcement, separate from Utopai's earlier tool launch."
-    },
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "title": "AI Productions Require Traditional Skills To Be Cinematic, Say Filmmakers On Kling AI Panel: “You Need Experts To Prevent Everything Looking The Same”",
-      "url": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
-      "source": "Deadline",
-      "published_iso": "2026-10-11T09:47:54+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Kling-AI-panel-.jpg?w=1024",
-      "excerpt": "Filmmakers including '12.12: The Day' director Kim Sung-soo said on an ACFM & Kling AI panel in Busan that AI production still needs traditionally trained crew to keep results from looking the same.",
-      "rationale": "The single Busan/Kling pick: working Korean filmmakers on why AI production still needs trained crew. It is a different event from the TIFF Kling panel."
-    },
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "title": "You're Spending Too Much on Your AI Videos",
-      "url": "https://www.youtube.com/watch?v=h4MKJAJvins",
-      "source": "Curious Refuge (YouTube)",
-      "published_iso": "2026-10-09T15:24:51-07:00",
-      "og_image": "https://i.ytimg.com/vi/h4MKJAJvins/maxresdefault.jpg",
-      "excerpt": "Curious Refuge shares workflows for saving generation credits on an AI film so you don't waste money on bad generations.",
-      "rationale": "The most practical item: workflow tips for cutting generation-credit spend on AI film projects."
+      "title": "Sync.Labs Intros Zero-Shot Lipsyncing for Film and Television",
+      "url": "https://postperspective.com/sync-labs-intros-zero-shot-lipsyncing-for-film-and-television/",
+      "source": "postPerspective",
+      "published_iso": "2026-10-13T15:13:41+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Sync_UI_Workstation-2.jpg",
+      "excerpt": "Sync.Labs launched Sync.Productions, bringing its studio-grade zero-shot AI lipsync technology to film and television production for dubbing and dialogue fixes.",
+      "rationale": "New product launch (Sync.Productions) that post teams can use right away for dubbing and dialogue fixes. The most actionable item in the pool."
     },
     {
       "tool": "Movies",
       "category": "movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "Real-Time AI Worlds in Focus at Visko and Google Cloud's October 14 LA Fireside Chat",
-      "url": "https://www.awn.com/news/real-time-ai-worlds-focus-visko-and-google-clouds-october-14-la-fireside-chat",
-      "source": "Animation World Network",
-      "published_iso": "2026-10-09T16:48:43-07:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081522-visko-google-cloud-live-models-landscape-1280.jpg?itok=w4XccKHY",
-      "excerpt": "The get-together looks at AI-generated environments that respond to user input while keeping continuity, and what they could mean for previs, virtual production and games.",
-      "rationale": "Interactive AI-generated worlds that keep continuity, applied to previs and virtual production. Adds a tech angle and a fourth outlet."
+      "title": "Reallusion and Escape.AI Partner to Solve AI Video Bottlenecks and Expand Distribution",
+      "url": "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/",
+      "source": "befores & afters",
+      "published_iso": "2026-10-13T15:49:43+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/key-image_RLxEscape-ai.jpg",
+      "excerpt": "A strategic alliance connects Reallusion's 3D character/animation ecosystem with John Gaeta's Escape.AI Neo Cinema platform to tackle control bottlenecks in AI video and widen distribution.",
+      "rationale": "New tool partnership that pairs 3D character control with AI video, addressing the controllability problem directly. Adds a pipeline/tools angle."
+    },
+    {
+      "tool": "Movies",
+      "category": "movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "title": "How AI Is Used by Netflix at Its VFX Eyeline Studios, Revealed by VP Mohsen Mousavi at View Conference",
+      "url": "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/",
+      "source": "Variety",
+      "published_iso": "2026-10-13T13:55:51+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/WhatsApp20Image202026-10-1320at2012.30.34.jpeg?w=1000&h=563&crop=1",
+      "excerpt": "Eyeline VP Mohsen Mousavi reveals how Netflix uses AI for crowds, sets and relighting, while developing new tools for filmmaking.",
+      "rationale": "Concrete studio use cases (crowds, set extension, relighting) from a different exec at a different event (VIEW, Turin) than the 10-11 Rustad/Busan card."
+    },
+    {
+      "tool": "Movies",
+      "category": "movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "title": "MIPCOM: 'Journey to the West - The Lost Five Hundred Years' First Look Revealed by Utopai & Huace",
+      "url": "https://www.animationmagazine.net/2026/10/mipcom-journey-to-the-west-the-lost-five-hundred-years-first-look-revealed-by-utopai-huace/",
+      "source": "Animation Magazine",
+      "published_iso": "2026-10-13T20:00:14+00:00",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Journey-to-the-West-–-The-Lost-Five-Hundred-Years-FL-sc.png",
+      "excerpt": "Utopai Studios and Huace revealed a first look at 'Journey to the West - The Lost Five Hundred Years,' a fully AI-generated prequel series inspired by the classic Chinese novel.",
+      "rationale": "First look at a fully AI-generated series. It is a new project reveal, separate from Utopai's PAI tool launch (10-01) and the Banderas 'Cortes' feature (10-13)."
+    },
+    {
+      "tool": "Movies",
+      "category": "movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "title": "It's 'incomprehensible' that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+      "source": "The Verge",
+      "published_iso": "2026-10-13T16:42:51+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&strip=all&crop=0%2C10.653918363709%2C100%2C78.692163272582&w=1200",
+      "excerpt": "Mia Goth's representatives say they filed multiple complaints with Instagram about a fan account posting AI-generated images of the actor - a fresh flashpoint over performer likeness.",
+      "rationale": "New performer-likeness incident with platform-moderation stakes. Adds a rights angle and a fifth outlet."
     }
   ],
   "alternates": [
     {
       "tool": "Movies",
       "category": "movies",
-      "accent": "#eb367f",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "title": "Tilly Nollywood? African Filmmakers — Ready or Not — Get Set for the AI Revolution",
-      "url": "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/",
+      "title": "'IvyBears' Hits Cannes After YouTube Breakout, Spawns Animated Feature Project (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/",
       "source": "Variety",
-      "published_iso": "2026-10-12T18:36:57+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=563&crop=1",
-      "excerpt": "While generative AI has the potential to transform filmmaking in Africa, practical challenges on the continent abound.",
-      "rationale": "Fresh regional feature. Held back only because Variety already has two picks (outlet cap)."
-    },
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "title": "AI Creative Summit unveils full lineup for 2026 edition",
-      "url": "https://www.screendaily.com/news/ai-creative-summit-unveils-full-lineup-for-2026-edition/5221158.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-10-07T14:10:00+00:00",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/1/7/2/1489172_54122656066_58575ad699_k_630174_crop.jpg",
-      "excerpt": "Presented by Screen International, Broadcast and Broadcast Tech, the AI Creative Summit is expanding this year in response to unprecedented interest in AI from the creative and media industries.",
-      "rationale": "Industry event lineup announcement. Credible, but lower actionability."
-    },
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#171717",
-      "motif": "frame",
-      "title": "Netflix Has Used AI on About 300 Titles, but “Human Touch Is Critical,” Exec Says in Busan",
-      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-ai-300-titles-busan-film-fest-1236727138/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-10-11T05:12:50+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/AI-in-Filmmaking_2.jpg?w=1296&h=730&crop=1",
-      "excerpt": "Netflix’s Asia-Pacific production head Sung Q Lee, ‘The Outlaws’ director Kang Yun-sung and Wētā FX's Kimball Thurston discussed creative possibilities, production savings and the limits of AI at the streamer’s Busan panel.",
-      "rationale": "Usable only if the Deadline Kling pick is swapped out (one Busan card max), and only after confirming this panel is a different event from the Netflix Eyeline/Rustad Busan story published 2026-10-11."
+      "published_iso": "2026-10-13T09:16:52+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=563&crop=1",
+      "excerpt": "From consumer products to character-driven series, IvyBears goes brand-to-content in a 'reverse flywheel' approach powered by AI and artists alike, now spawning an animated feature.",
+      "rationale": "Fresh and new, but it would be a second MIPCOM AI-series card. First alternate if a pick is swapped."
     }
   ],
   "dedup": {
     "checks": {
-      "https://variety.com/2026/film/news/merry-the-christmas-witch-ai-film-80-million-1-5-million-1236905721/": {
+      "https://postperspective.com/sync-labs-intros-zero-shot-lipsyncing-for-film-and-television/": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/film/features/terrarium-ai-hybrid-set-visit-1236893846/",
+        "nearest": "https://nofilmschool.com/dittodub-native-6-ai-dubbing-model",
         "new_action": ""
       },
-      "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/": {
+      "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/": {
         "verdict": "new",
-        "nearest": "https://www.tvtechnology.com/production/live-production/utopai-studios-launches-new-pai-and-utopai-x-to-advance-production-intelligence-for-film-and-tv",
+        "nearest": "https://www.youtube.com/watch?v=swx780Vy_OQ",
         "new_action": ""
       },
-      "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/": {
+      "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/",
+        "nearest": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=h4MKJAJvins": {
+      "https://www.animationmagazine.net/2026/10/mipcom-journey-to-the-west-the-lost-five-hundred-years-first-look-revealed-by-utopai-huace/": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=JWEAmLHp7Sg",
+        "nearest": "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/",
         "new_action": ""
       },
-      "https://www.awn.com/news/real-time-ai-worlds-focus-visko-and-google-clouds-october-14-la-fireside-chat": {
+      "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce": {
         "verdict": "new",
-        "nearest": "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/",
+        "nearest": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
         "new_action": ""
       }
     },
-    "note": "Busan cluster limited to one pick: kept the Deadline Kling/ACFM panel (a different event from the 09-14 TIFF Kling panel). Held THR 'Netflix ~300 titles' Busan panel as an alternate only, because it may be the same Netflix Busan session as the 10-11 Variety Eyeline/Rustad card. Dropped Screen Daily ACFM preview (Busan cluster, market preview). Dropped celebrity opinion pieces: Catherine Zeta-Jones (also related to 09-22 Tom Cruise), Aaron Sorkin. Dropped Retouch4me Lab (same product family as the 09-27 Retouch4me Lab Video card, and it is photo-focused). Dropped Curious Refuge 'AI Agents vs Real AI Artist' (2026-09-30, older; same topic as the 10-05 'How Much of Filmmaking Can AI Agents Actually Do?'). Dropped as weak or non-news: Patrick Mao Huang profile, RevThink accelerator (business coaching), USC Annenberg survey call. Variety Africa feature held back by the 2-per-outlet cap. Cortés is a new production announcement, not a follow-up to Utopai's 10-01 PAI tool launch. Upstream story_dedup already removed Ben Affleck/'Animals' (repeat of 10-02)."
+    "note": "Excluded Higgsfield/OpenAI 'AI video from 1 minute to over 10' because the design section has it today (cross-section clash). Dropped the Variety XPRIZE 'The Gifted' piece as a likely repeat of the 09-30 Deadline card on the same win. Dropped the Deadline BBC Kate Phillips MIPCOM piece: it is a reaction to the Brittin 'Doctor Who' AI episode story published 10-03, with no new policy release. Dropped the Deadline Weta/Thurston panel: it is the same Netflix Busan panel that was held back yesterday, it is commentary, and Busan is already covered heavily (10-11, 10-12, 10-13). Dropped the Deadline ACFM Ellen Kim interview (Busan cluster, market interview). The Eyeline/Mousavi pick is a different speaker at a different event (VIEW Conference) with specific production uses, so it is new rather than a follow-up to the 10-11 Rustad/Busan card. Journey to the West is a new Utopai project reveal, distinct from the 10-01 PAI launch and the 10-13 Cortes casting. Dropped as weak or non-news: Aaron Sorkin opinion (also dropped 10-13), the RevThink accelerator, the USC Annenberg survey call, and the VFX Voice Gen Z feature (evergreen; related to the 10-07 VFX Voice card). IvyBears is kept as an alternate to avoid a second MIPCOM AI-series card. The final 5 come from 5 distinct outlets with no duplicate URLs."
   }
 }

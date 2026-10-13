@@ -6319,6 +6319,82 @@
           "x": "Microsoft和Meta拥有各自的内容水印与验证标准。不过这些工具并非万无一失，常常连自家模型生成的内容都无法识别。"
         }
       ]
+    },
+    "music/music-hypebot-ai-likeness-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+        },
+        {
+          "t": "p",
+          "x": "音乐与品牌合作经纪人Lauren Thackray在其月度专栏Lalu's Corner中，从Addison Rae的Fortnite皮肤谈起。这款皮肤由她亲自发给Epic Games的十张自拍制成，她对此全部同意。随之而来的问题是：谁可以创建某人的数字版本，能用它做什么，本人又能保留多少控制权？"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+        },
+        {
+          "t": "p",
+          "x": "对许多艺人来说，首个问题的答案已在他们缺席的情况下给出：Jason Isbell等音乐人就艺人身份被使用起诉Suno；deadmau5发现了一段AI-generated深度伪造内容，显示他本人在为其他DJ背书；而“I Run”凭借酷似Jorja Smith的歌声走红。"
+        },
+        {
+          "t": "p",
+          "x": "各大唱片公司做法不同。Universal一边起诉Suno，一边与Udio达成和解及授权协议；Sony没有授权协议，主要依靠下架；Warner则推动包含艺人opt-in条款的协议。"
+        },
+        {
+          "t": "p",
+          "x": "Thackray认为，SAG-AFTRA于2024年与Replica Studios达成的协议是最清晰的公开范例，并主张艺人数字版本的控制权应归属于由艺人控股过半的实体，按用途逐项授权。"
+        }
+      ]
+    },
+    "music/music-laroche-digital-blackface": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "V7C7A4GYxaA"
+        },
+        {
+          "t": "p",
+          "x": "制作人Louis La Roche在这段他称为观点评论的视频中，探讨了他所说的AI音乐中日益增长的“数字黑脸”（digital blackface）趋势：用AI把自己呈现为与输入提示者不同的种族。"
+        },
+        {
+          "t": "p",
+          "x": "他认为，Suno等AI音乐平台是在模仿训练数据，而不是创作原创音乐，并提到Suno所面临的诉讼。"
+        },
+        {
+          "t": "p",
+          "x": "随后，他展示了Spotify上他称被刻意包装成黑人（Black）艺人的AI虚拟形象，并点名他所说的幕后男性。这些说法仅代表他本人，本文未作独立核实。"
+        }
+      ]
+    },
+    "music/music-tencent-musicbuddy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://routenote.com/radar/wp-content/uploads/2026/10/routenote_high_angle_view_a_phone_in_the_center_and_a_silver__f4257022-0f11-41f2-8dbe-44c0288c9ac6_3.png"
+        },
+        {
+          "t": "p",
+          "x": "Tencent Music正在测试一款名为MusicBuddy的全新AI-powered音乐平台，旨在帮助艺人在同一处完成音乐的创作、编辑、发行和推广。该平台目前处于内部测试阶段，尚未向公众广泛开放。"
+        },
+        {
+          "t": "p",
+          "x": "该平台将AI歌曲生成与传统多轨音乐编辑器相结合。人声、鼓和器乐分处不同音轨，但用户无需逐一调整参数，而是可以用自然语言让MusicBuddy更换乐器、改动编曲、调节音量、修改混响或重写歌词。"
+        },
+        {
+          "t": "p",
+          "x": "创作者可以先写歌词再据此生成音乐，也可以用一句话描述想法，或通过与AI的持续对话完成一首歌。据报道，它还能在提出创作方向前参考过往歌曲表现、粉丝偏好和当下潮流。"
+        },
+        {
+          "t": "p",
+          "x": "据报道，MusicBuddy包含多平台发行功能，并可协助生成音乐视频和海报等宣传物料。它与Tencent旗下的WorkBuddy、CodeBuddy、DataBuddy和CraftBuddy智能体并列。Tencent Music在2026年早些时候表示，其AI音乐制作技术已被超过150,000名艺人和超过10 million名用户使用。"
+        },
+        {
+          "t": "p",
+          "x": "网站已经上线，但服务仍在测试中，尚未开放不受限制的公开注册。Tencent Music尚未确认海外上线计划或定价。"
+        }
+      ]
     }
   }
 }

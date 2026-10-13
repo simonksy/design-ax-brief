@@ -6391,6 +6391,119 @@
           "x": "彼はAIをやめるつもりはない。「道具は使うこと。人間の判断を工程に残すこと。開示し、検証し、誤りは公に正すこと」"
         }
       ]
+    },
+    "books/books-elpais-spain-ai-bestsellers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+          "cap": "古典の棚を確認するバルセロナの書店員。"
+        },
+        {
+          "t": "p",
+          "x": "EL PAÍSは、Amazon.esとCasa del Libroのベストセラーリストや主要文学賞から、2025年と2026年に刊行された人気書籍119冊を選び、検出ツールPangramで調べた。2019年と2020年の書籍56冊に同じ手法を当てたところ、AI生成の兆候は見られず、すべて0%だった。"
+        },
+        {
+          "t": "p",
+          "x": "最近の119冊のうち35冊（29%）にAI-generatedテキストの痕跡があり、13冊は50%を超えた。AIの使用は自費出版作品に集中しており、44冊中13冊、つまり30%で、その多くは恋愛小説だった。Javier Cercas、Isabel Allende、Dolores Redondoといった定評ある作家は0%だった。"
+        },
+        {
+          "t": "p",
+          "x": "最も目立つ例は、スペインの政治家Alvise PérezのDevuélveme mi paísだ。2026年二月にAmazonでNo. 1となったこの本について、Pangramは97%をAIによるものと判定した。Pérezは「一語一語」自分で書いたと述べている。"
+        },
+        {
+          "t": "p",
+          "x": "従来型の出版社から出た九冊にもAIの痕跡が見られ、そのうちノンフィクション四冊は12%から34%だった。Pangramは万能ではなく、その過程で人がどんな役割を果たしたかまでは明らかにできない。"
+        }
+      ]
+    },
+    "books/books-frankfurt-appeal-ai-transparency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+        },
+        {
+          "t": "p",
+          "x": "150を超える出版社と出版団体が、EUとドイツ政府に対し、AI開発者にモデルの学習に使った作品の開示を義務づけるよう求めている。この要求は、ドイツ出版・書店協会が公表したFrankfurt Appealにまとめられている。"
+        },
+        {
+          "t": "p",
+          "x": "アピールは三つの行動を求めている。作品単位での学習データ開示を含む透明性義務、公正な収益モデルを備えたライセンス市場、そして強力な執行手段を伴う欧州著作権法の順守だ。「侵害しても何の報いもない権利に価値はない」。"
+        },
+        {
+          "t": "p",
+          "x": "協会のSebastian Guggolz会長は「政治が今動かなければ、AIは私たちから何百万もの著作物を、そしてやがては考える力さえも奪い続けるだろう」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "2026年十月9日時点で、Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association、Federation of European Publishersのほか、ブラジル、エジプト、UK、オーストリア、オランダ、アルゼンチン、タイ、オーストラリアの出版社を含む150以上の団体が署名した。"
+        }
+      ]
+    },
+    "books/books-turkiye-ai-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "AI企業が著作権料を払わずに書籍を商用モデルの学習に使っていることに、Türkiyeの出版業界全体で懸念が広がっている。Türkiye報道出版協会のHalil Celik会長はAnadolu Agencyに対し、どの書籍がAIモデルの学習に使われたかを出版社が確かめる確実な手段はないと語った。"
+        },
+        {
+          "t": "p",
+          "x": "AI企業が印刷本を大量に買い集めてスキャンし、現物を廃棄しているとの疑惑が出たことで、議論は激しさを増した。Celikは、現存する最後の数冊に数えられるものも含む希少本や絶版本を解体することは、文化遺産を危険にさらすと警告した。"
+        },
+        {
+          "t": "p",
+          "x": "同氏はAI学習、データセットの開示、罰則に関する規定を盛り込むよう、Türkiyeの知的・芸術的著作物法の改正を求めた。さらに、集団協定を通じた形も含め、AI企業が商用利用の対価を支払うライセンス制度を提案した。"
+        },
+        {
+          "t": "p",
+          "x": "「適切な法制度とライセンス制度が整えば、今日無料で使われているコンテンツが、明日には著作権とライセンス収入の新たな源泉になり得る」とCelikは述べた。"
+        }
+      ]
+    },
+    "books/books-audible-ai-narration-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+        },
+        {
+          "t": "p",
+          "x": "Audibleが委託したグローバル調査「The Future of Listening」はNielsenIQが実施し、U.S.、U.K.、欧州数カ国、日本、ブラジルなど11市場の消費者18,000人を対象とした。34%が、過去一年間に前年よりも多くのオーディオブックを聴いたと答えた。"
+        },
+        {
+          "t": "p",
+          "x": "リスナーの69%は聴いた作品をすでに読んでおり、オーディオで作家を知った人の63%がその作家の別の作品を購入した。AudibleのチーフコンテンツオフィサーRachel Ghiazzaは「オーディオブックはほかのフォーマットと競合しない」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "回答者の約半数がAIナレーションを試すと答え、ドイツと日本を除くほとんどの市場で、ノンフィクションよりフィクションへの関心が高かった。Ghiazzaはこれを「and戦略」と呼ぶ。人間の朗読者は残り、制作コストの削減分はより多くのタイトルの制作に充てるという。「品質と透明性が極めて重要だ」。"
+        },
+        {
+          "t": "p",
+          "x": "Audibleは調査手法の詳細を明らかにしていないが、ためらう出版社へのGhiazzaのメッセージは率直だった。「今がその時だ」。"
+        }
+      ]
+    },
+    "books/books-caine-prize-kundizeza-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Caine Prize for African Writingは、受賞者Simbarashe KundizezaがAIを使った可能性があるとAtlanticで提起された疑惑を受け、声明を出した。"
+        },
+        {
+          "t": "p",
+          "x": "これを受けて同賞は、ジンバブエ出身の受賞者がAI使用を指摘されたことについて、自ら「人間中心のプロセス(human-centred process)」と呼ぶ手続きを始める。"
+        }
+      ]
     }
   }
 }

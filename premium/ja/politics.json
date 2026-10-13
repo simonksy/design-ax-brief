@@ -2240,6 +2240,123 @@
           "cap": "中小ベンチャー企業部の看板[中小ベンチャー企業部提供]"
         }
       ]
+    },
+    "politics/politics-uk-mps-ai-labs-regulate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/w_2560%2Cc_limit/101326-Big%2520Four%2520UK%2520parliment.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIとAnthropicの代表は英国議会の公聴会で、自主的な誓約だけではもはや安全を確保できず、新たな法律を導入すべきだと述べた。Google DeepMindとMetaは新法への支持を見送った。"
+        },
+        {
+          "t": "p",
+          "x": "超党派の下院議員（MPs）で構成するBusiness, Innovation, Science, and Trade Committeeは、フロンティアAI企業四社、内部告発者となった元社員四人、英国の上級公務員から聴取した。AnthropicのLiam Booth-Smithは「ルールは拘束力を持つべきだ」と述べた。OpenAIのTom Duff Gordonは、インシデント報告を手始めに「義務化すべき要素もある」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMindのOwen Larterは「われわれが取り組むのは標準への注力だ」と述べた。MetaのRob Shermanは、規制当局は「白紙に書いているわけではない」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "AI Security Instituteを擁するCabinet OfficeのCat Littleは、その試験制度が任意であることを認め、「現時点では、そうだ」と述べた。委員長のLiam Byrneは、英国のG20議長国の立場を生かして国際条約をまとめることを望んでいる。"
+        }
+      ]
+    },
+    "politics/politics-pro-ai-pac-nevada": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/w_2560%2Cc_limit/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif"
+        },
+        {
+          "t": "p",
+          "x": "WIREDが確認した連邦選挙資金の記録によると、Lantern Production Consultants LLCは昨年以降、Think Bigから約$20 millionを受け取っている。Think Bigは、Leading the Future PACが資金を出すpro-AIのスーパーPACsのネットワークの一部だ。同社はこのネットワークから支払いを受けたNevadaのLLCs四社のうちの一つで、ネットワークは中間選挙に向けて$140 million超を集めている。"
+        },
+        {
+          "t": "p",
+          "x": "Nevada州務長官室はWIREDに対し、これらの企業の記録を見つけられなかったと述べた。選挙監視団体はこれらのLLCsがペーパーカンパニーだと主張している。Campaign Legal Centerは五月、Think BigとAmerican Missionが支払いの実際の受取人を開示していないとしてFECに申し立てを行った。"
+        },
+        {
+          "t": "p",
+          "x": "Leading the Futureの広報担当Jesse Huntは「当社は適用されるすべての法律を順守している」と述べ、申し立てはPublic FirstとAnthropicによる策略だとした。Public Firstは申し立てとは無関係だとし、Campaign Legal Centerはその示唆を「まったくの虚偽」と呼んだ。"
+        },
+        {
+          "t": "p",
+          "x": "このネットワークは両党を支援するスーパーPACsに資金を出している。Think Bigは圧倒的に民主党側に、American Missionは共和党側に資金を提供している。"
+        }
+      ]
+    },
+    "politics/politics-ai-framework-licensing-questions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/white-house616230856b554255bedd47e4fb05110f.jpg?sfvrsn=4d3772df_5"
+        },
+        {
+          "t": "p",
+          "x": "Trump政権は六月、大統領令（Executive Order）14409号を発し、安全なフロンティアモデル展開のための「自主的な枠組み」の策定を命じた。対象モデルの基準、公開の最大30日前までの政府アクセス、早期アクセスのための「信頼できるパートナー」の選定が柱だ。枠組みは八月に完成したが、本文は公開されていない。"
+        },
+        {
+          "t": "p",
+          "x": "Center for American ProgressのTechnology Policy担当副社長であるAdam Connerは、自主基準と執行の脅しを組み合わせたことで、事実上の許認可制度と事前承認への期待が生まれたと論じる。"
+        },
+        {
+          "t": "p",
+          "x": "彼は未解決の問いを挙げる。どのモデルが対象か、開発者はどう参加するのか、コピーを保持できるのか、審査中のモデルはどうなるのか、信頼できるパートナーは誰が指名するのか。政府は九月14日の共同状況報告書で、十月30日までに枠組みの本文を公開することに同意した。"
+        }
+      ]
+    },
+    "politics/politics-home-office-asylum-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5251800.jpg?imageId=5251800&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Open Rights Group（ORG）の新たな報告書によると、Home Officeの専門家が確認したAI-generated（AI生成）の難民面接要約のうち、五件に一件超が正確性テストで不合格だった。"
+        },
+        {
+          "t": "p",
+          "x": "対象のツールはAsylum Case SummarisationとAsylum Policy Searchで、いずれもMicrosoftのAzure AI Foundryを通じてOpenAIのGPT-4oを使っている。ORGが入手した数値では、2026年四月の導入後、要約203件中45件が初回チェックで不合格となった。不合格率は22パーセントで、試験運用時は9パーセントだった。"
+        },
+        {
+          "t": "p",
+          "x": "ORGによると、月平均の初回難民認定判断件数は前年比で約42パーセント減り、面接から判断までの平均期間は29パーセント延びた。ただし、これらの数値はAIが遅延の原因であることを証明するものではない。政府は判断の責任は引き続き人間にあるとしている。ORGは両ツールの停止と独立監査を求めており、Home OfficeはThe Registerの取材に応じなかった。"
+        }
+      ]
+    },
+    "politics/politics-house-ai-agent-liability-draft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/oFhfMab3hdiIWPwashiNkQLi-PwNmkJSa9My51Ogc1s/g:nowe:0:328/c:3200:1807/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg0OTU5NTg5X1FycDQwMzUuanBn.webp",
+          "cap": "白いドーム屋根の建物。"
+        },
+        {
+          "t": "p",
+          "x": "下院エネルギー・商業委員会の委員であるLori Trahan下院議員（D-Mass.）は水曜日、AIシステムが引き起こした損害について私人が訴訟を起こせるようにする法案を提示した。"
+        },
+        {
+          "t": "p",
+          "x": "この討議用草案では、AIシステムが、人間が行えば過失、故意の不法行為、または犯罪に当たる行為によって第三者に損害を与えた場合、AI開発者が責任を負う。ユーザーやシステムを改変した企業がその行為を意図していた場合や過失があった場合には、責任は適用されない。"
+        },
+        {
+          "t": "p",
+          "x": "「誰かが法を破ってあなたを傷つければ、その相手を裁判に訴えることができる」とTrahan氏は述べた。「加害者がAIエージェントだというだけで、それが変わるべきではない」"
+        },
+        {
+          "t": "p",
+          "x": "裁判所は、AIシステムが同じ行動をとった人間と同じ心理状態にあったと推定し、開発者はAIには意図を持つ能力がないと主張できない。原告は原則として三年以内に提訴できる。法案は施行から五年で失効し、州法に優先することなく「連邦の最低基準」を設ける。"
+        },
+        {
+          "t": "p",
+          "x": "先週にはJosh Hawley上院議員（R-Mo.）とChris Murphy上院議員（D-Conn.）が、コンピューター詐欺・濫用防止法（Computer Fraud and Abuse Act）に基づきAIエージェント（AI-agent）の運用者を対象とする超党派法案を発表した。BrookingsのDarrell West氏は、実際の立法は次の議会になる可能性が高いと述べた。"
+        }
+      ]
     }
   }
 }

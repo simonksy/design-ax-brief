@@ -1,22 +1,38 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "gadgets",
   "rotation": {
-    "basis": "ORCHESTRATOR OVERRIDE (unattended, no WebSearch in planning): ALL core + ALL 30 pool keywords are in the working set, merged into multi-keyword queries. Date rotation only sets naming order: day-of-year 286 mod 30 = offset 16, so pool[16..29] are named first, then pool[0..15].",
-    "named_first": ["Alexa+ device", "Gemini smart home", "AI robot vacuum", "home robot", "humanoid robot", "edge AI chip", "Snapdragon AI PC", "AI TV", "XR headset AI", "AI toy", "스마트 글라스", "온디바이스 AI", "AI 웨어러블", "AI 로봇"],
-    "deprioritized_recently_covered": ["JBL PartyBox Ultimate 2 AI karaoke speaker (10-12)", "Siri AI vs Gemini side-by-side comparison (10-12)", "Hermes local agent / local LLM self-hosting (10-12)", "local LLM + Gmail/Home Assistant MCP (XDA, 10-11)", "Meta Ray-Ban Gen 3 review / walking nav", "Galaxy AI One UI 9 / S26", "Copilot Hybrid Intelligence", "Ghost Core / Google AI Edge Foresight", "Xpanceo AI contact lens", "Pixel Watch AI faces", "RTX Spark preorders"],
-    "priority_today": ["Apple Oct 13 event-day announcements (actual launches, not teasers) — new devices + Apple Intelligence features"],
+    "basis": "ORCHESTRATOR OVERRIDE (unattended, no WebSearch in planning): ALL 3 core + ALL 30 pool keywords are in the working set, merged into multi-keyword queries so every keyword is covered. Date rotation only sets naming/query order: day-of-year 287 mod 30 = offset 17, so pool[17..29] lead, then pool[0..16].",
+    "named_first": ["Gemini smart home", "AI robot vacuum", "home robot", "humanoid robot", "edge AI chip", "Snapdragon AI PC", "AI TV", "XR headset AI", "AI toy", "스마트 글라스", "온디바이스 AI", "AI 웨어러블", "AI 로봇"],
+    "deprioritized_recently_covered": [
+      "Google Fitbit Edge launch / Health Coach (Ars Technica, 10-13)",
+      "Google Translate Live Translate auto-save transcripts, off on smart glasses (Android Authority, 10-13)",
+      "JBL PartyBox Ultimate 2 AI karaoke speaker (10-12)",
+      "Siri AI vs Gemini side-by-side comparison (10-12)",
+      "Hermes local agent / local LLM self-hosting (10-12)",
+      "local LLM + Gmail/Home Assistant MCP (XDA, 10-11)",
+      "Meta Ray-Ban Gen 3 review / walking nav",
+      "Galaxy AI One UI 9 / S26",
+      "Copilot Hybrid Intelligence",
+      "Ghost Core / Google AI Edge Foresight",
+      "Xpanceo AI contact lens",
+      "Pixel Watch AI faces",
+      "RTX Spark preorders"
+    ],
+    "priority_today": [
+      "Apple Oct 13 event follow-through: shipped devices, hands-on/first reviews and Apple Intelligence features (only items with NEW facts beyond yesterday's announcement)",
+      "Fresh launches/updates not yet covered: home robots, AI TVs, XR headsets, AI PCs/chips"
+    ],
     "seeds": []
   },
   "working_keywords": {
     "core": ["AI gadget", "AI hardware", "AI 디바이스"],
-    "pool": ["Alexa+ device", "Gemini smart home", "AI robot vacuum", "home robot", "humanoid robot", "edge AI chip", "Snapdragon AI PC", "AI TV", "XR headset AI", "AI toy", "스마트 글라스", "온디바이스 AI", "AI 웨어러블", "AI 로봇", "AI wearable", "smart glasses AI", "Meta Ray-Ban glasses", "Humane AI Pin", "Rabbit R1", "AI companion device", "Copilot+ PC", "NPU laptop", "on-device AI", "Apple Intelligence device", "Galaxy AI phone", "AI smartphone", "AI earbuds", "AI camera", "smart ring AI", "AI speaker"]
+    "pool": ["Gemini smart home", "AI robot vacuum", "home robot", "humanoid robot", "edge AI chip", "Snapdragon AI PC", "AI TV", "XR headset AI", "AI toy", "스마트 글라스", "온디바이스 AI", "AI 웨어러블", "AI 로봇", "AI wearable", "smart glasses AI", "Meta Ray-Ban glasses", "Humane AI Pin", "Rabbit R1", "AI companion device", "Copilot+ PC", "NPU laptop", "on-device AI", "Apple Intelligence device", "Galaxy AI phone", "AI smartphone", "AI earbuds", "AI camera", "smart ring AI", "AI speaker", "Alexa+ device"]
   },
   "expansions": {
     "AI gadget": ["new AI device launch", "AI hardware startup", "AI pendant"],
     "AI hardware": ["consumer AI hardware", "OpenAI io device", "local AI box mini PC"],
     "AI 디바이스": ["AI 기기 출시", "AI 가전", "AI 신제품"],
-    "Alexa+ device": ["Echo Show Alexa+", "Alexa+ rollout countries", "Amazon devices event"],
     "Gemini smart home": ["Gemini for Home", "Google Home Gemini", "Nest camera Gemini"],
     "AI robot vacuum": ["Roborock AI arm", "Dreame AI", "Ecovacs AI", "Samsung Bespoke AI Jet Bot"],
     "home robot": ["household robot preorder", "Samsung Ballie", "LG home robot", "1X Neo"],
@@ -39,47 +55,48 @@
     "Copilot+ PC": ["Windows AI features", "Copilot+ PC new features"],
     "NPU laptop": ["NPU TOPS laptop", "Intel Panther Lake AI", "AMD Ryzen AI laptop"],
     "on-device AI": ["Gemini Nano", "local LLM device", "private on-device model"],
-    "Apple Intelligence device": ["Apple October event", "Apple HomePad homeOS", "M5 Mac Apple Intelligence", "iPad Apple Intelligence"],
+    "Apple Intelligence device": ["Apple October event hands-on", "M5 Mac Apple Intelligence", "iPad Apple Intelligence", "Apple home hub homeOS"],
     "Galaxy AI phone": ["Galaxy Z Fold AI", "Galaxy S26 Gemini"],
     "AI smartphone": ["Pixel 10 Gemini", "iPhone 17 AI", "Nothing Phone AI", "Xiaomi HyperAI"],
     "AI earbuds": ["AirPods live translation", "Galaxy Buds AI", "Pixel Buds Gemini"],
     "AI camera": ["AI camera phone", "AI action camera", "AI security camera Gemini"],
     "smart ring AI": ["Oura ring AI", "Galaxy Ring AI", "Ultrahuman ring"],
-    "AI speaker": ["HomePod Siri AI", "Echo Alexa+ speaker", "Nest speaker Gemini"]
+    "AI speaker": ["HomePod Siri AI", "Echo Alexa+ speaker", "Nest speaker Gemini"],
+    "Alexa+ device": ["Echo Show Alexa+", "Alexa+ rollout countries", "Amazon devices event"]
   },
   "categories": [
     {
       "category": "gadgets",
       "queries": [
-        "Apple October 13 2026 event announced devices Apple Intelligence",
-        "AI gadget AI hardware launch October 2026",
-        "AI 디바이스 AI 가전 신제품 출시",
-        "Alexa+ Echo Show device update rollout",
         "Gemini for Home Google Home Nest smart home update",
-        "AI robot vacuum Roborock Dreame Ecovacs Jet Bot AI",
-        "home robot household Ballie 1X Neo preorder",
-        "humanoid robot consumer Figure Optimus Unitree home",
-        "edge AI chip NPU Qualcomm MediaTek Apple M5 Neural Engine",
-        "Snapdragon X2 Elite AI PC NPU laptop review",
-        "Copilot+ PC Windows AI features Intel Panther Lake AMD Ryzen AI",
+        "AI robot vacuum Roborock Dreame Ecovacs Bespoke AI Jet Bot",
+        "home robot household Ballie LG 1X Neo preorder",
+        "humanoid robot consumer Figure 03 Optimus Unitree home",
+        "edge AI chip NPU Qualcomm MediaTek Dimensity Apple M5 Neural Engine",
+        "Snapdragon X2 Elite AI PC review NPU laptop",
         "AI TV Samsung Vision AI LG webOS Google TV Gemini",
         "XR headset AI Android XR Galaxy XR Vision Pro visionOS",
-        "AI toy companion kids chatbot plush",
+        "AI toy kids companion plush chatbot safety",
         "스마트 글라스 AI 안경 출시",
-        "온디바이스 AI 칩 NPU 탑재",
+        "온디바이스 AI 칩 NPU 탑재 신제품",
         "AI 웨어러블 AI 반지 이어버드",
         "AI 로봇 가정용 휴머노이드 로봇청소기",
+        "AI gadget AI hardware launch October 2026",
+        "AI 디바이스 AI 가전 신제품 출시",
+        "Apple October 2026 new devices hands-on Apple Intelligence features",
         "AI wearable pendant note-taking Plaud Bee Limitless",
         "smart glasses AI Android XR glasses Alibaba Xiaomi",
-        "Meta Ray-Ban Display Oakley Meta glasses new feature",
+        "Meta Ray-Ban Display Oakley Meta glasses new feature update",
         "Humane AI Pin Rabbit R1 AI companion device Friend pendant",
+        "Copilot+ PC Windows AI features Intel Panther Lake AMD Ryzen AI",
         "on-device AI Gemini Nano local model phone feature",
-        "Galaxy AI phone Gemini feature update",
-        "AI smartphone Pixel iPhone Nothing Xiaomi AI feature",
+        "Galaxy AI phone Gemini feature update Z Fold",
+        "AI smartphone Pixel iPhone Nothing Xiaomi HyperAI feature",
         "AI earbuds live translation AirPods Galaxy Buds Pixel Buds",
-        "AI camera smartphone action security camera AI feature",
+        "AI camera phone action camera security camera AI feature",
         "smart ring AI Oura Galaxy Ring Ultrahuman",
-        "AI speaker HomePod Echo Nest Gemini Alexa+ new",
+        "AI speaker HomePod Echo Nest Gemini speaker",
+        "Alexa+ Echo Show device rollout new countries",
         "OpenAI io hardware device Jony Ive news",
         "wildcard: trending AI gadget this week"
       ],
@@ -112,5 +129,6 @@
         "news.samsung.com"
       ]
     }
-  ]
+  ],
+  "plan_notes": "LIBRARIAN: lead with outlet RSS / sitemap_news.xml feeds for recency (WebSearch site: queries return stale evergreen pages) - e.g. theverge.com/rss/index.xml, engadget.com/rss.xml, arstechnica.com/gadgets/feed/, androidauthority.com/feed/, 9to5google.com/feed/, 9to5mac.com/feed/, macrumors.com/macrumors.xml, xda-developers.com/feed/, tomsguide.com/feeds.xml, techradar.com/feeds.xml, uploadvr.com/rss/, roadtovr.com/feed/, notebookcheck.net RSS, cnet/zdnet sitemaps. Filter feed items against the working keywords + expansions above, then use WebSearch ONLY to fill gaps for keywords the feeds did not hit. Recency window: 14 days (published on/after 2026-09-30); verify each item's published time on the page. AI must be what makes the story (drop plain spec/price news without an AI feature). Skip the deprioritized_recently_covered stories unless there is a genuinely new fact (launch, ship date, new feature). Apple Oct 13 event: only take follow-ups with new facts (hands-on, availability, AI features), not a re-run of the announcement. Diversify across device classes (robots, PCs/chips, XR, wearables, phones, home) rather than stacking one vendor."
 }

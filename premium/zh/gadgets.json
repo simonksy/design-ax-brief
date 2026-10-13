@@ -6949,6 +6949,158 @@
           "x": "这些工具可高度定制，可用于智能设备、ESP32传感器、文档分析或Docker控制。编写它们需要花些功夫，但性能足以弥补这份付出。"
         }
       ]
+    },
+    "gadgets/gadgets-samsung-galaxy-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+          "cap": "三种颜色的Warby Parker风格Samsung智能眼镜图片。"
+        },
+        {
+          "t": "p",
+          "x": "Samsung要到11月才会发布首款智能眼镜，但现在我们已经知道它的外观以及有多轻。据科技新闻网站SammyGuru报道，这款眼镜将提供多种款式和颜色，重量仅41克。"
+        },
+        {
+          "t": "p",
+          "x": "预计Samsung将于下个月推出这款可能名为Galaxy Glasses的智能眼镜。11月，US（美国）消费者可在Warby Parker和Gentle Monster官网以及US境内的Samsung Experience Stores购买。价格尚未公布。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+          "cap": "Gentle Monster风格的Samsung智能眼镜"
+        },
+        {
+          "t": "p",
+          "x": "配标准镜片时，这款眼镜重41克，比最轻的Meta Ray-Ban型号的43克更轻。它搭载Snapdragon AR1 Gen 1芯片、2 GB RAM、64 GB存储、12 MP摄像头、两个开放式扬声器和四个麦克风。与Meta Ray-Bans一样，它没有可视显示屏。"
+        },
+        {
+          "t": "p",
+          "x": "Samsung智能眼镜将使用Google Gemini AI，运行Android XR操作系统，佩戴者可以拍照和录像、打电话、发短信、翻译、获取逐向导航，以及收听歌曲和播客。"
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-listening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+          "cap": "佩戴Ray-Ban Meta智能眼镜的女性"
+        },
+        {
+          "t": "p",
+          "x": "更新：Meta回应了Android Authority的置评请求：“该问题已经解决。用户可随时通过设置管理、查看和删除与Meta AI互动的语音记录。”"
+        },
+        {
+          "t": "p",
+          "x": "在两个Reddit帖子中，一名Ray-Ban Meta用户称，涵盖第二代和第三代型号的三副不同眼镜在没有“Hey Meta”唤醒短语的情况下录下了日常对话。尽管“Respond without Hey Meta”已关闭，这些互动仍以保存的音频录音和文字转录形式出现在Meta AI应用中。该用户称，这一情况始于最近一次固件更新之后。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+          "cap": "Meta Ray Ban眼镜录音活动页面"
+        },
+        {
+          "t": "p",
+          "x": "多名评论者表示，他们也注意到类似的不明激活，包括在未调用Meta AI时内部指示灯亮起。不过，相关报告仍然有限，Android Authority尚未独立复现这一现象，也没有证据表明问题普遍存在。"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候，Ars Technica报道称，审查Ray-Ban Meta眼镜数据的外包人员接触到了高度敏感的画面。The Verge最近则认为，AI硬件正在模糊“录音”的定义。"
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-gpt7-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+          "cap": "装上轮子的Unitree G1"
+        },
+        {
+          "t": "p",
+          "x": "中国机器人企业Unitree的CEO王兴兴（Wang Xingxing）在上海的一场行业活动上表示（据South China Morning Post报道），OpenAI最近发布的GPT-6 Astra模型非常强大，让人更加相信突破可能在“一两年内”出现。"
+        },
+        {
+          "t": "p",
+          "x": "“比如说，明年发布的GPT-7模型就有可能直接攻克具身智能的难题，”王兴兴说。今年8月，他曾表示这样的“ChatGPT时刻”可能要十年才会到来。"
+        },
+        {
+          "t": "p",
+          "x": "王兴兴提出的衡量标准是：机器人仅凭语音或文字指令，就应能在80%的陌生环境中完成80%的指定任务。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+          "cap": "Unitree G1操控Antigravity A1飞行"
+        },
+        {
+          "t": "p",
+          "x": "Stanford University的Movement Lab将一台Unitree机器人与GPT-6 Astra结合，让它清洁一个从未见过的厨房；这台机器人能够“在没有特定环境训练数据或额外策略学习的情况下，打扫整个房间，并根据不够明确的请求取回记住的物品。”GPT-6 Astra在ScreenSpot-Pro上得分92.7%，高于GPT-5.6 Sol的76.9%。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ultrahuman-uae-bioage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+          "cap": "Ultrahuman Ring AIR"
+        },
+        {
+          "t": "p",
+          "x": "以智能戒指闻名的Bengaluru健康科技初创公司Ultrahuman已与Abu Dhabi公共卫生中心（ADPHC）签署为期两年的谅解备忘录，开发并验证一款生物年龄模型。该公司表示，这一模型最终将向阿拉伯联合酋长国（UAE）各地民众开放。"
+        },
+        {
+          "t": "p",
+          "x": "该模型将结合临床生物标志物和可穿戴设备数据，估算个人的衰老速度，并找出可能加速或减缓衰老的因素，包括睡眠、活动、心血管健康和新陈代谢。它的设计不依赖特定可穿戴设备，民众今后可通过TAMM和Sahatna等平台查看自己的健康年龄。"
+        },
+        {
+          "t": "p",
+          "x": "Ultrahuman和ADPHC将在未来两年开展研究和临床验证；CEO Mohit Kumar表示，更大范围的推广将分阶段进行，但未给出时间表。这家初创公司已在全球售出约80万枚智能戒指。"
+        },
+        {
+          "t": "p",
+          "x": "Kumar强调，该模型不会使用UAE的数据进行训练。他说：“我们会在UAE数据上部署算法。”他还补充说，Ultrahuman无法获取个人身份信息。"
+        }
+      ]
+    },
+    "gadgets/gadgets-fitbit-edge-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google推出2026年第二款Fitbit手环。新款Fitbit Edge的定位恰好介于Pixel Watch 5和Fitbit Air之间，配备小巧屏幕，健康传感器比Air更多，售价却只有Pixel Watch 5的一半左右。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+          "cap": "从左到右：Fitbit Air（配新款金属网眼表带）、Fitbit Edge和Pixel Watch 5。"
+        },
+        {
+          "t": "p",
+          "x": "它采用胶囊形1.34英寸OLED触控屏，搭配纤薄铝制边框，具备IP68（5 ATM）防护等级，可通过Google Health应用与Android手机或iPhones配合使用，单次充电续航约七天（开启常亮显示约两天）。"
+        },
+        {
+          "t": "p",
+          "x": "它能同步显示手机通知，但没有麦克风和扬声器，不支持Gemini交互，也没有NFC。相比Air，它增加了机载GPS，以及来自Pixel Watch的ECG和血氧传感器。"
+        },
+        {
+          "t": "p",
+          "x": "所有这些数据都会输入Google Health应用中由Gemini驱动的聊天机器人Health Coach。Edge附赠三个月Google Health Premium（每月10美元），没有订阅就无法使用AI功能；用户也可以选择关闭Health Coach。"
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Edge售价180美元，今天开启预购，10月27日发货。这是Google首款可维修的健身手环，电池可更换，但用户无法自行更换。"
+        }
+      ]
     }
   }
 }

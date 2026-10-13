@@ -733,6 +733,120 @@
           "x": "Los autores concluyen que combinar la visita clínica con información electrónica personalizada y precisa mejoró el conocimiento del riesgo sin aumentar el malestar."
         }
       ]
+    },
+    "medicine/medicine-prostate-mri-ai-radiologist-parity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La AI podría estar a la par de los radiólogos para detectar el cáncer de próstata en MRI, según una investigación publicada el 13 de octubre en Radiology. Un equipo dirigido por Anindo Saha, PhD, del Radboud University Medical Center en Nijmegen, Países Bajos, observó que un sistema de AI logró un rendimiento diagnóstico comparable al de los radiólogos para el cáncer de próstata de Gleason grade group ≥2 en conjuntos de datos externos de diagnóstico y cribado."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "cap": "Estudios de MRI de próstata que ilustran la detección por AI de cánceres de Gleason grade group ≥2 en centros internacionales. RSNA"
+        },
+        {
+          "t": "p",
+          "x": "El estudio SCARLET-1 incluyó 22,445 estudios de MRI de próstata de 21,252 hombres en 46 ciudades de 22 países. La AI alcanzó AUCs externas de 0.86 en el entorno diagnóstico y de 0.89 y 0.84 en dos entornos de cribado, con una concordancia del 83.0% al 87.9% con las lecturas radiológicas."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento varió entre 25 centros y según la calidad de imagen. \"Estos hallazgos respaldan un posible papel de la AI para ampliar la interpretación de MRI de próstata, sobre todo donde la experiencia subespecializada es limitada\", escribió el equipo, que añadió que un uso clínico seguro exigirá pruebas locales y un seguimiento longitudinal del rendimiento."
+        }
+      ]
+    },
+    "medicine/medicine-epilepsy-eeg-llm-chat-comanagement": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un tercio de los 70 millones de personas con epilepsia en el mundo tiene crisis que la medicación no controla. Los dispositivos implantables pueden detectar crisis inminentes, dosis olvidadas y deterioro cognitivo, pero no pueden compartir esa información con los pacientes en tiempo real."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+          "cap": "Fig. 1: Visión general de la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores presentan un prototipo hospitalario que conecta el EEG de cuero cabelludo e intracraneal con una AI segura basada en un modelo de lenguaje de gran tamaño, que se comunica en ambos sentidos mediante una app de smartphone. Notifica a los pacientes eventos clínicos y tendencias, registra síntomas y respuestas, y usa sus comentarios para reentrenar su detector de crisis."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma se validó en 13 pacientes sometidos a monitorización por video-EEG. Los pacientes respondieron al 67.2% de las alertas de crisis en tiempo real. En una simulación pseudoprospectiva, el ajuste fino solo con anotaciones de los pacientes redujo las falsas alarmas en un 80.9%, sin intervención de expertos."
+        }
+      ]
+    },
+    "medicine/medicine-mfds-trial-docs-exposed": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Se ha revelado que 2672 documentos de resultados de ensayos clínicos del portal Uiyakpum Anjeon Nara, gestionado por el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS), podían descargarse desde el exterior sin autenticación adicional. De ellos, 839 contenían información empresarial configurada como privada y 2208 incluían números de teléfono móvil de los responsables."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+          "cap": "Foto: Televisión de la Asamblea Nacional."
+        },
+        {
+          "t": "p",
+          "x": "En la auditoría parlamentaria al MFDS del día 13, la diputada Lee So-hee, del Partido del Poder Popular, afirmó que su oficina descargó los documentos sin iniciar sesión ni introducir contraseña, y que para ello usó ChatGPT, un servicio de AI generativa. \"No hackeamos nada; obtuvimos los datos a través de ChatGPT, que cualquiera puede usar\", dijo Lee. Los datos incluían resultados de ensayos clínicos e información de evaluación de seguridad, como eficacia y reacciones adversas."
+        },
+        {
+          "t": "p",
+          "x": "Lee señaló que, en los últimos 10 años, el MFDS mantuvo en reserva 95 de los 96 casos de divulgación de datos relacionados. La ministra Oh Yu-kyoung dijo que el ministerio supo de la exposición el día 12 y bloqueó los permisos de acceso en la madrugada del 13. \"Agradecemos que nos hayan alertado del problema del acceso a la información mediante AI y nos tomamos el asunto muy en serio\", afirmó Oh."
+        }
+      ]
+    },
+    "medicine/medicine-neonatal-ett-xray-continual-learning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pese a la creciente adopción clínica de la inteligencia artificial en radiología, menos de uno de cada cinco modelos comerciales están autorizados para uso pediátrico. Los sistemas existentes se entrenan sobre todo con datos de adultos y generalizan mal a los neonatos, pero faltan estrategias eficientes para reutilizarlos sin compartir datos ni curar datos locales a gran escala."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+          "cap": "Fig. 1: Resumen del paradigma de aprendizaje continuo y de las comparaciones de referencia."
+        },
+        {
+          "t": "p",
+          "x": "Presentamos un estudio retrospectivo internacional de radiografías de tórax neonatales de 30 unidades de cuidados intensivos neonatales en 20 países y territorios, que evalúa el aprendizaje continuo como un enfoque que preserva la privacidad para adaptar a la atención neonatal un modelo de aprendizaje profundo de evaluación del tubo endotraqueal en adultos. Cada hospital aportó 50 radiografías para el reentrenamiento secuencial del modelo sin agrupar los datos de forma centralizada."
+        },
+        {
+          "t": "p",
+          "x": "El aprendizaje continuo logró un menor error de localización de referencias anatómicas (0.67 cm frente a 1.29 cm con el ajuste fino específico de cada hospital y 4.30 cm con modelos solo de adultos) en 29 de 30 centros, y mejoró la detección de intubaciones profundas en 27 de 30 centros. Estos resultados demuestran que el aprendizaje colaborativo que preserva la privacidad puede cubrir brechas críticas en el despliegue de la AI pediátrica."
+        }
+      ]
+    },
+    "medicine/medicine-wechat-gpt4o-respiratory-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las herramientas de AI se usan cada vez más para buscar información de salud, pero su rendimiento en el diagnóstico y el triaje respiratorio realizados por legos sigue siendo incierto. Los investigadores evaluaron LungDiag, un chatbot GPT-4o basado en WeChat (WeChat-based), limitado a la tarea y con una capa de conocimiento respiratorio, frente a la búsqueda web móvil convencional en una comparación prospectiva, multicéntrica, simple ciego y aleatorizada con casos simulados."
+        },
+        {
+          "t": "p",
+          "x": "Entre abril y junio de 2025, 2,400 adultos sin formación médica formal de 24 sistemas de salud chinos fueron asignados al azar 1:1 a la asistencia de LungDiag o a la búsqueda en navegador, con las funciones de búsqueda con AI desactivadas en el grupo de control."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+          "cap": "Fig. 1: Diagrama de flujo del estudio."
+        },
+        {
+          "t": "p",
+          "x": "En el análisis principal de 2,176 cuestionarios, LungDiag logró una precisión global mayor que el control (70.0% frente a 55.4%), una diferencia de riesgo de 14.6 puntos porcentuales. La mayor diferencia se dio en los ítems de diagnóstico (81.2% frente a 54.5%), mientras que las mejoras en triaje fueron menores (53.4% frente a 47.1%). LungDiag requirió más tiempo para completar la tarea (mediana de 527 s frente a 461 s)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+          "cap": "Fig. 2: Precisión agrupada bruta por ítem del grupo LungDiag y del grupo de control con búsqueda web."
+        },
+        {
+          "t": "p",
+          "x": "Los autores señalan que los resultados no demuestran efectos en la búsqueda real de atención, el retraso diagnóstico ni los resultados clínicos."
+        }
+      ]
     }
   }
 }

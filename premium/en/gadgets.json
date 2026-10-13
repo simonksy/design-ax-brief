@@ -7693,6 +7693,158 @@
           "x": "The tools are highly customizable — smart devices, ESP32 sensors, document analysis or Docker control. Writing them takes effort, but the performance more than makes up for it."
         }
       ]
+    },
+    "gadgets/gadgets-samsung-galaxy-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+          "cap": "Image of Samsung's smart glasses in the Warby Parker style with three colors."
+        },
+        {
+          "t": "p",
+          "x": "Samsung won’t unveil its first smart glasses until November, but now we know what they will look like — and how light they will be. They’ll come in a variety of styles and colors and weigh only 41 grams, according to a report from tech news outlet SammyGuru."
+        },
+        {
+          "t": "p",
+          "x": "Samsung is expected to launch the smart glasses, possibly called Galaxy Glasses, next month. In November, US customers can buy them at the Warby Parker and Gentle Monster websites and at Samsung Experience Stores in the US. No prices have been announced."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+          "cap": "Gentle Monster style of Samsung smart glasses"
+        },
+        {
+          "t": "p",
+          "x": "The glasses will weigh 41 grams with standard lenses, lighter than the 43 grams for the lightest Meta Ray-Ban model. They’ll include a Snapdragon AR1 Gen 1 chip, 2 GB of RAM, 64 GB of storage, a 12 MP camera, two open-ear speakers and four microphones. Like Meta Ray-Bans, there is no visual display."
+        },
+        {
+          "t": "p",
+          "x": "Samsung’s smart glasses will use Google Gemini AI and run on the Android XR operating system, letting wearers take pictures and videos, make calls, send texts, translate, get turn-by-turn navigation and listen to songs and podcasts."
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-listening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+          "cap": "Woman wearing the Ray-Ban Meta Smart Glasses"
+        },
+        {
+          "t": "p",
+          "x": "Update: Meta has responded to Android Authority’s request for comment: “This issue has been resolved. People can manage, review and delete voice logs of their interactions with Meta AI via settings at any time.”"
+        },
+        {
+          "t": "p",
+          "x": "In two Reddit threads, a Ray-Ban Meta owner says three separate pairs, spanning second- and third-generation models, captured ordinary conversations without the “Hey Meta” wake phrase. Those interactions appeared in the Meta AI app as saved audio recordings and text transcripts, even though “Respond without Hey Meta” was disabled. The owner says the behavior began after a recent firmware update."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+          "cap": "Meta Ray Ban glasses recording activity page"
+        },
+        {
+          "t": "p",
+          "x": "Several commenters say they have noticed similar unexplained activations, including the internal light turning on without invoking Meta AI. However, reports remain limited, Android Authority hasn’t independently reproduced the behavior, and there’s no evidence to suggest this is widespread."
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, Ars Technica reported that contractors reviewing data from Ray-Ban Meta glasses encountered highly sensitive footage. The Verge recently argued that AI hardware is muddying the definition of “recording.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-gpt7-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+          "cap": "Unitree G1 on wheels"
+        },
+        {
+          "t": "p",
+          "x": "Wang Xingxing, CEO of Chinese robotics firm Unitree, speaking at an industry event in Shanghai (via the South China Morning Post), said OpenAI’s recently released GPT-6 Astra model is so powerful that it has encouraged a belief that a breakthrough could occur “within one or two years.”"
+        },
+        {
+          "t": "p",
+          "x": "“It’s possible that, say, a GPT-7 model released next year could directly crack the problems of embodied intelligence,” Wang said. In August this year, he had said such a “ChatGPT moment” could take a decade to arrive."
+        },
+        {
+          "t": "p",
+          "x": "As a benchmark, Wang said robots should be able to complete 80% of the tasks they were assigned in 80% of unfamiliar environments using voice or text commands alone."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+          "cap": "Unitree G1 flies Antigravity A1"
+        },
+        {
+          "t": "p",
+          "x": "Stanford University’s Movement Lab paired a Unitree robot with GPT-6 Astra and tasked it with cleaning a kitchen it had never seen before; the robot was able to “clean up across the room and retrieve a remembered object from an underspecified request, without environment-specific training data or additional policy learning.” GPT-6 Astra scored 92.7% on ScreenSpot-Pro, up from 76.9% in GPT-5.6 Sol."
+        }
+      ]
+    },
+    "gadgets/gadgets-ultrahuman-uae-bioage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+          "cap": "Ultrahuman Ring AIR"
+        },
+        {
+          "t": "p",
+          "x": "Ultrahuman, a Bengaluru-based health tech startup best known for its smart rings, has signed a two-year memorandum of understanding with the Abu Dhabi Public Health Center (ADPHC) to develop and validate a biological-age model that it says will eventually be made available to people across the United Arab Emirates."
+        },
+        {
+          "t": "p",
+          "x": "The model will combine clinical biomarkers with data from wearable devices to estimate how quickly an individual is aging and identify factors — including sleep, activity, cardiovascular health, and metabolism — that may be accelerating or slowing that process. It is designed to be wearable-agnostic, and people will eventually access their health age through platforms including TAMM and Sahatna."
+        },
+        {
+          "t": "p",
+          "x": "Ultrahuman and ADPHC will spend the next two years on research and clinical validation; CEO Mohit Kumar said the broader rollout will happen in phases but gave no timeline. The startup has sold around 800,000 smart rings globally."
+        },
+        {
+          "t": "p",
+          "x": "Kumar stressed the model will not be trained on data from the UAE. “We will deploy an algorithm on the UAE data,” he said, adding that Ultrahuman will not have access to personally identifiable information."
+        }
+      ]
+    },
+    "gadgets/gadgets-fitbit-edge-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google is releasing its second Fitbit tracker of 2026. The new Fitbit Edge slots right in between the Pixel Watch 5 and the Fitbit Air, featuring a compact screen and more health sensors than the Air, at only about half the price of the Pixel Watch 5."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+          "cap": "Left to right: Fitbit Air (with new metal mesh band), Fitbit Edge, and Pixel Watch 5."
+        },
+        {
+          "t": "p",
+          "x": "It has a pill-shaped 1.34-inch OLED touch display in a slender aluminum frame rated IP68 (5 ATM), works with Android or iPhones via the Google Health app, and runs about seven days on a charge (about two with always-on display)."
+        },
+        {
+          "t": "p",
+          "x": "It mirrors phone notifications, but there's no microphone or speaker, no support for Gemini interactions and no NFC. Over the Air, it adds on-device GPS plus the ECG and blood oxygen sensor from the Pixel Watch."
+        },
+        {
+          "t": "p",
+          "x": "All this data feeds the Gemini-powered Health Coach chatbot in the Google Health app. The Edge comes with three months of Google Health Premium ($10 per month), without which you won't get the AI features; you can disable the Health Coach if you want."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The Edge costs $180, is available for preorder today and ships on October 27. It is Google's first repairable fitness tracker, with a replaceable battery that is not user-replaceable."
+        }
+      ]
     }
   }
 }

@@ -12025,6 +12025,140 @@
           "x": "함께 쓰는 법은 이렇다. Claude Motion으로 프롬프트를 애니메이션 설명 영상으로 만든 뒤 Claude에 Luma 커넥터를 추가하면, 애니메이션이 Luma에 영상으로 뜬다. Luma 안에서는 움직임을 살린 채 룩을 바꿀 수도, 화면비를 9:16, 1:1, 4:3, 21:9로 바꿀 수도 있다. Luma 에이전트에게 추가 버전을 요청해도 된다."
         }
       ]
+    },
+    "movies/movies-reallusion-escape-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/10/key-image_RLxEscape-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reallusion과 Escape.AI Media가 다년간의 전략적 파트너십을 발표했다. 시각적 불일치, 높은 토큰 비용, 모호한 IP 소유권처럼 생성형 AI 영상이 안고 있는 문제를 겨냥한 협력이다. 두 회사는 3D 공간 데이터를 정밀한 제어 레이어로 삼아 전문 AI 스토리텔러용 3D-to-AI 파이프라인을 만든다."
+        },
+        {
+          "t": "p",
+          "x": "Reallusion은 Character Creator 5, ActorCore 모션 라이브러리, iClone 실시간 애니메이션 소프트웨어에 더해 iClone과 CC5의 3D 장면 데이터를 정밀 제어 레이어로 받아들이는 AI Studio 앱을 Escape.AI 크리에이터 생태계에 통합한다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/01_RLxEscape-ai.jpg?resize=1024%2C576&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "“순수한 텍스트-투-비디오 생성은 장편 서사 스토리텔링에서 뚜렷한 한계에 부딪혔다”고 Reallusion Inc. 디렉터 Enoc Burgos는 말했다."
+        },
+        {
+          "t": "p",
+          "x": "아카데미상을 받은 시각효과 선구자 John Gaeta가 설립한 Escape.AI는 엄선한 AI 영화를 Roku, Amazon Fire TV, LG와 Samsung Smart TVs(스마트 TV)에서 배급한다. 이 경로로 닿는 활성 CTV 기기는 4억 대가 넘는다. 크리에이터는 순수익의 50%를 나눠 받고 IP 소유권은 100% 그대로 갖는다."
+        },
+        {
+          "t": "p",
+          "x": "양사는 Escape Labs 포털과 Escape.AI 커뮤니티용 iClone PERSONAL 무료 이용, 크리에이터 지원금도 내놓는다. 2026년 10월 23일에는 공동 라이브 데모 행사를 연다."
+        }
+      ]
+    },
+    "movies/movies-netflix-eyeline-mousavi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/WhatsApp20Image202026-10-1320at2012.30.34.jpeg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Netflix 소유의 Eyeline Studios는 촬영이 끝난 뒤 생성형 AI로 로케이션을 바꾸고 군중을 다시 만들고 조명을 손본다. 배우 연기를 찍은 뒤에도 감독이 카메라 위치를 다시 잡게 해 주는 도구도 개발 중이다."
+        },
+        {
+          "t": "p",
+          "x": "“우리는 프롬프트를 입력해 샷과 영화를 만들지 않는다. 그건 우리 방식이 아니다.” Eyeline의 버추얼 파이어니어링 담당 VP Mohsen Mousavi는 토리노의 View Conference에서 이렇게 말하고 실사 촬영과 기존 VFX, 생성형 워크플로를 결합한 이른바 ‘하이브리드 프로덕션’ 접근법을 소개했다."
+        },
+        {
+          "t": "p",
+          "x": "Eyeline은 『Brazil ’70: The Third Star』에서 촬영 요소와 스프라이트, 기존 CG, 생성형 기법을 엮어 거대한 경기장 군중을 만드는 데 힘을 보탰다. 다큐멘터리 『The American Experiment』에서는 배경 확장과 생성형 먼지 등 디지털 요소를 실제 촬영 영상과 합친 사례를 보여줬다."
+        },
+        {
+          "t": "p",
+          "x": "지금 진행하는 연구로는 제어 가능한 생성형 유체, 인물 연기의 AI-assisted(AI 보조) 리라이팅, 단일 카메라 녹화로 만든 탐색 가능한 4D 장면이 있다. “우리 작업 대부분은 자체 연구와 자체 모델에 기반한다”고 Mousavi는 말했다. Netflix는 7월에 작품 약 300편이 이미 생성형 AI를 일부 썼다고 밝혔다."
+        }
+      ]
+    },
+    "movies/movies-utopai-journey-west": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Journey-to-the-West-–-The-Lost-Five-Hundred-Years-FL-sc.png"
+        },
+        {
+          "t": "p",
+          "x": "Utopai Studios와 Huace Film & TV Co., Ltd.가 칸에서 열린 MIPCOM에서 『Journey to the West – The Lost Five Hundred Years(서유기 – 잃어버린 오백 년)』의 새 티저를 공개했다. 중국 사대기서 중 하나인 『서유기(Journey to the West)』에서 출발한 AI 애니메이션 전편 시리즈다."
+        },
+        {
+          "t": "p",
+          "x": "티저에는 10번의 생에 걸친 신화적 모험이 담겼다. 젊은 승려의 감정적 여정과 하늘에 맞서는 손오공(Sun Wukong)의 저항이 나란히 펼쳐진다."
+        },
+        {
+          "t": "video",
+          "yt": "beGD0gcsEbY"
+        },
+        {
+          "t": "p",
+          "x": "Haidong Ren이 연출한 이 시리즈는 전부 AI로 생성한(AI-generated) 애니메이션이지만, 수석 작가 Li Zelin과 각본가 Wu Linfeng을 비롯한 아티스트와 영화인들이 대본, 스토리보드, 드로잉, 디자인으로 제작을 이끈다."
+        },
+        {
+          "t": "p",
+          "x": "“기술은 작업을 대신하는 게 아니라 증폭하기 위해 있다”고 Utopai Studios 애니메이션 총괄 Carlos Lutterbach는 말했다. 시리즈는 2027년 공개 예정이며, 극장 개봉까지 넓힐 계획이다."
+        }
+      ]
+    },
+    "movies/movies-mia-goth-instagram-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&strip=all&crop=0%2C10.653918363709%2C100%2C78.692163272582&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Mia Goth가 Shia LaBeouf와의 이혼을 신청한 뒤, 인증 계정 miagoth_가 올린 Instagram 게시물이 빠르게 퍼졌다. “MY EX IS MY BIGGEST FAN”이라고 적힌 티셔츠를 입은 그의 모습이었다. OK!와 People 같은 매체는 이를 진짜 사진인 양 보도했다. 그러나 Goth 측 관계자들은 AI로 생성된(AI-generated) 이미지라고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "“Mia Goth의 위조된 AI 이미지를 계속 올리는 인증 팬 계정을 삭제해 달라고 Instagram에 여러 차례 신고했다”고 Goth의 대리인 Christine Tripicchio는 The Verge에 말했다. “Instagram이 공인의 초상 보호와 온전성보다 위조·조작된 이미지의 확산을 분명히 우선시한다는 점은 이해할 수 없다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ai-label.jpg?quality=90&strip=all",
+          "cap": "이미지는 파란색 Meta Verified 인증 표시가 붙은 @miagoth_ 계정에 올라왔다."
+        },
+        {
+          "t": "p",
+          "x": "팬이 운영하는 이 계정의 팔로워는 백만 명이 넘었다. Meta 대변인 Alex Dziedzan은 공인 사칭을 이유로 계정을 삭제했다고 밝혔다. Meta 규정은 사람이 나오는 일부 사실적인 영상에는 AI 라벨을 요구하지만 정지 이미지는 대상이 아니다."
+        }
+      ]
+    },
+    "movies/movies-merry-christmas-witch-ai-budget": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Merry_Poster_HiRes-1.jpg?w=1000&h=563&crop=1",
+          "cap": "“Merry the Christmas Witch”"
+        },
+        {
+          "t": "p",
+          "x": "“Merry the Christmas Witch”는 Christmas Day에 태어난 첫 마녀 Merry가 Santa Claus를 납치한 사악한 마녀 무리를 물리쳐야 하는 이야기다. 원작은 New Orleans에 사는 70세 테크니컬 라이터 Bobbi Hess가 2012년에 쓴 동화책이다. Hess는 Variety에 “AI가 아이디어 전체를 한층 끌어올렸다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "독립 제작사 TW3 Entertainment의 CEO Tom Walsh가 이 각색 영화의 연출과 공동 각본을 맡았다. 예산을 뽑아 보니 총액이 $80 million이었다. “알려지지 않은 작품”에 스튜디오가 선뜻 내줄 리 없는 돈이었다. 그래서 그는 AI로 두 시간짜리 완성본을 $1.5 million에 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "Walsh는 폴리 아티스트, 편집자, 사운드 디자이너, 작곡가 같은 제작 전문 인력을 모았다. 사람 배우들이 대본을 녹음하며 캐릭터의 움직임과 목소리를 잡아 줬지만, 그는 결국 AI-generated 음성을 골랐다. AI 스튜디오 Phatty Acid와 손잡고 ElevenLabs의 음성 생성기, 영상 생성기 Seedance와 Nanobanana를 썼다. 10개월 제작 기간에 약 50명이 참여한 “하이브리드 AI 프로덕션”이다."
+        },
+        {
+          "t": "p",
+          "x": "“AI 프로덕션의 품질은 기존 제작 인력의 품질에 달려 있다”는 게 Walsh의 말이다. 배급사는 아직 없지만 대변인은 “낙관적인” 논의가 오가고 있다고 했다. Walsh는 벌써 또 다른 AI-generated 영화를 만들고 있다."
+        }
+      ]
     }
   }
 }

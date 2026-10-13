@@ -1,31 +1,10 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "marketing",
   "media": [
-    {
-      "id": "marketing-google-ai-mode-rx-ads",
-      "type": "image",
-      "src": "pipeline/media/marketing-google-ai-mode-rx-ads.jpg"
-    },
-    {
-      "id": "marketing-google-ads-ai-goals-assets",
-      "type": "image",
-      "src": "pipeline/media/marketing-google-ads-ai-goals-assets.jpg"
-    },
-    {
-      "id": "marketing-olyzon-ctv-four-dsps",
-      "type": "image",
-      "src": "pipeline/media/marketing-olyzon-ctv-four-dsps.jpg"
-    },
-    {
-      "id": "marketing-thg-criteo-ai-assistant",
-      "type": "image",
-      "src": "pipeline/media/marketing-thg-criteo-ai-assistant.png"
-    },
-    {
-      "id": "marketing-meta-idle-inference-ads",
-      "type": "image",
-      "src": "pipeline/media/marketing-meta-idle-inference-ads.png"
-    }
+    {"id": "marketing-shopify-catalog-ai-agents", "type": "image", "src": "pipeline/media/marketing-shopify-catalog-ai-agents.jpg"},
+    {"id": "marketing-amex-agent-purchase-intent", "type": "image", "src": "pipeline/media/marketing-amex-agent-purchase-intent.jpg"},
+    {"id": "marketing-salesforce-koa-crm-model", "type": "image", "src": "pipeline/media/marketing-salesforce-koa-crm-model.jpg"},
+    {"id": "marketing-bannerflow-attention-scoring", "type": "image", "src": "pipeline/media/marketing-bannerflow-attention-scoring.jpg"}
   ]
 }

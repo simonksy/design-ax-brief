@@ -6384,6 +6384,119 @@
           "x": "He refuses to quit AI: \"Use the tools. Keep human judgment in the loop. Disclose. Verify. Correct mistakes publicly.\""
         }
       ]
+    },
+    "books/books-elpais-spain-ai-bestsellers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+          "cap": "A bookstore clerk in Barcelona checks the classics section."
+        },
+        {
+          "t": "p",
+          "x": "EL PAÍS examined 119 popular books published in 2025 and 2026, from the Amazon.es and Casa del Libro bestseller lists and major literary prizes, using the Pangram detection tool. The same exercise on 56 books from 2019 and 2020 found no signs of AI generation: all scored 0%."
+        },
+        {
+          "t": "p",
+          "x": "Of the 119 recent titles, 35 showed some evidence of AI-generated text (29%) and 13 scored above 50%. AI use was concentrated in self-published works: 13 of 44, or 30%, many of them romance novels. Established authors such as Javier Cercas, Isabel Allende and Dolores Redondo scored 0%."
+        },
+        {
+          "t": "p",
+          "x": "The most prominent case is Devuélveme mi país by Spanish politician Alvise Pérez, which reached No. 1 on Amazon in February 2026; Pangram attributes 97% of it to AI. Pérez said he wrote the book “word for word.”"
+        },
+        {
+          "t": "p",
+          "x": "Nine traditionally published books showed some traces of AI, including four nonfiction works scoring 12% to 34%. Pangram is not infallible, and it cannot reveal what role a person played in the process."
+        }
+      ]
+    },
+    "books/books-frankfurt-appeal-ai-transparency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+        },
+        {
+          "t": "p",
+          "x": "More than 150 publishers and publishing organizations are urging the EU and the German government to require AI developers to disclose the works used to train their models. The demand is outlined in the Frankfurt Appeal, published by the German Publishers and Booksellers Association."
+        },
+        {
+          "t": "p",
+          "x": "The appeal calls for three actions: transparency obligations including disclosure of training data at work level; a licensing market with fair revenue models; and compliance with European copyright law, equipped with robust means of enforcement. “Rights whose infringement carries no consequences are worthless.”"
+        },
+        {
+          "t": "p",
+          "x": "“If politicians do not act now, AI will continue to deprive us of millions of copyrighted works and, eventually, of our ability to think,” said association head Sebastian Guggolz."
+        },
+        {
+          "t": "p",
+          "x": "As of Oct. 9, 2026, more than 150 organizations had signed, including Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, the International Publishers Association and the Federation of European Publishers, plus publishers from Brazil, Egypt, the UK, Austria, the Netherlands, Argentina, Thailand and Australia."
+        }
+      ]
+    },
+    "books/books-turkiye-ai-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "AI companies’ use of books to train commercial models without paying copyright fees has raised concerns across Türkiye’s publishing industry. Halil Celik, president of Türkiye’s Press and Publishing Association, told Anadolu Agency that publishers have no reliable way of finding out which books have been used to train AI models."
+        },
+        {
+          "t": "p",
+          "x": "The debate intensified after allegations that AI companies buy printed books in bulk, scan them and destroy the physical copies. Celik warned that dismantling rare and out-of-print books, some among the last surviving copies, puts cultural heritage at risk."
+        },
+        {
+          "t": "p",
+          "x": "He called for amendments to Türkiye’s Law on Intellectual and Artistic Works, including rules on AI training, dataset disclosure and penalties, and proposed a licensing system, potentially through collective agreements, under which AI companies would pay for commercial use."
+        },
+        {
+          "t": "p",
+          "x": "“If the right legal and licensing system is established, content that is used free of charge today could become a new source of copyright and licensing revenue tomorrow,” Celik said."
+        }
+      ]
+    },
+    "books/books-audible-ai-narration-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+        },
+        {
+          "t": "p",
+          "x": "A global survey commissioned by Audible, “The Future of Listening,” was conducted by NielsenIQ and polled 18,000 consumers in 11 markets, including the U.S., U.K., several European countries, Japan and Brazil. Some 34% said they had listened to more audiobooks over the past year than in the previous one."
+        },
+        {
+          "t": "p",
+          "x": "Some 69% of listeners had already read the title they listened to, and 63% who discovered an author in audio went on to buy another work by them. “Audiobooks are not competitive to other formats,” said Audible’s chief content officer Rachel Ghiazza."
+        },
+        {
+          "t": "p",
+          "x": "About half of respondents said they would try AI narration, with interest higher for fiction than nonfiction in most markets, except Germany and Japan. Ghiazza called it “an and strategy”: human performers remain, and production savings are meant to fund more titles. “Quality and transparency are critically important.”"
+        },
+        {
+          "t": "p",
+          "x": "Audible has not detailed the survey’s methodology, but Ghiazza’s message to hesitant publishers was blunt: “The time is now.”"
+        }
+      ]
+    },
+    "books/books-caine-prize-kundizeza-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Caine Prize for African Writing has released a statement following accusations made in the Atlantic that winner Simbarashe Kundizeza may have used AI."
+        },
+        {
+          "t": "p",
+          "x": "In response, the prize is initiating what it calls a 'human-centred process' after the Zimbabwean winner was accused of AI use."
+        }
+      ]
     }
   }
 }

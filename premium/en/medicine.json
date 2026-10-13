@@ -733,6 +733,120 @@
           "x": "The authors conclude that pairing a clinic visit with personalized, accurate electronic information improved risk knowledge without increasing distress."
         }
       ]
+    },
+    "medicine/medicine-prostate-mri-ai-radiologist-parity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI may be on par with radiologists for finding prostate cancer on MRI, according to research published October 13 in Radiology. A team led by Anindo Saha, PhD, from Radboud University Medical Center in Nijmegen, the Netherlands, found an AI system achieved diagnostic performance comparable to radiologists for Gleason grade group ≥2 prostate cancer across external diagnostic and screening datasets."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "cap": "Prostate MRI exams illustrating AI detection of Gleason grade group ≥2 cancers across international sites. RSNA"
+        },
+        {
+          "t": "p",
+          "x": "The SCARLET-1 study included 22,445 prostate MRI exams from 21,252 men across 46 cities in 22 countries. The AI reached external AUCs of 0.86 in the diagnostic setting and 0.89 and 0.84 in two screening settings, with 83.0% to 87.9% agreement with radiology readings."
+        },
+        {
+          "t": "p",
+          "x": "Performance varied across 25 sites and with image quality. \"These findings support a potential role for AI in extending prostate MRI interpretation, particularly where subspecialty expertise is limited,\" the team wrote, adding that safe clinical use will require local testing and longitudinal performance monitoring."
+        }
+      ]
+    },
+    "medicine/medicine-epilepsy-eeg-llm-chat-comanagement": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "One-third of the world's 70 million people with epilepsy have seizures uncontrolled by medication. Implantable devices can detect impending seizures, missed medication and impaired cognition, but cannot share this information with patients in real time."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+          "cap": "Fig. 1: Platform overview."
+        },
+        {
+          "t": "p",
+          "x": "The researchers present an inpatient prototype that links scalp and intracranial EEG to a secure, large language model-based AI that communicates bidirectionally through a smartphone app. It notifies patients of clinical events and trends, records symptoms and responses, and uses their feedback to retrain its seizure detector."
+        },
+        {
+          "t": "p",
+          "x": "The platform was validated in 13 patients undergoing video-EEG monitoring. Patients responded to 67.2% of real-time seizure alerts. In a pseudoprospective simulation, fine-tuning with patient annotations alone reduced false alarms by 80.9%, without expert intervention."
+        }
+      ]
+    },
+    "medicine/medicine-mfds-trial-docs-exposed": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "It has emerged that 2672 clinical trial result documents on Uiyakpum Anjeon Nara, the drug safety portal run by the Ministry of Food and Drug Safety (MFDS), could be downloaded from outside without separate authentication. Of these, 839 contained company information set to private, and 2208 contained the mobile phone numbers of staff in charge."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+          "cap": "Photo: National Assembly Television."
+        },
+        {
+          "t": "p",
+          "x": "At the National Assembly audit of the MFDS on the 13th, People Power Party lawmaker Lee So-hee said her office downloaded the documents without any login or password, using the generative AI service ChatGPT. \"We did not hack anything; we obtained the data through ChatGPT, which anyone can use,\" Lee said. The data included clinical trial results and safety evaluation information such as efficacy and adverse reactions."
+        },
+        {
+          "t": "p",
+          "x": "Lee noted that over the past 10 years the MFDS had kept 95 of 96 related disclosure cases private. MFDS Minister Oh Yu-kyoung said the ministry learned of the exposure on the 12th and blocked access early on the 13th. \"We are grateful for being alerted to the problem of information access using AI, and we are taking the matter seriously,\" Oh said."
+        }
+      ]
+    },
+    "medicine/medicine-neonatal-ett-xray-continual-learning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Despite growing clinical adoption of artificial intelligence in radiology, fewer than one in five commercially available models are cleared for paediatric use. Existing systems are trained predominantly on adult data and generalize poorly to neonates, yet efficient strategies for repurposing them without data sharing or large-scale local data curation are lacking."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+          "cap": "Fig. 1: Summary of continual learning paradigm and benchmark comparisons."
+        },
+        {
+          "t": "p",
+          "x": "Here we present an international retrospective study of neonatal chest radiographs from 30 neonatal intensive care units across 20 countries and territories, evaluating continual learning as a privacy-preserving approach to adapt a deep learning model for adult endotracheal tube assessment to neonatal care. Each hospital contributed 50 radiographs for sequential model retraining without centralized data pooling."
+        },
+        {
+          "t": "p",
+          "x": "Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29 cm for hospital-specific fine-tuning and 4.30 cm for adult-only models) at 29 of 30 sites, with improved detection of deep intubations at 27 of 30 sites. These findings demonstrate that privacy-preserving collaborative learning can address critical gaps in paediatric AI deployment."
+        }
+      ]
+    },
+    "medicine/medicine-wechat-gpt4o-respiratory-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI tools are increasingly used for health information seeking, but their performance in layperson respiratory diagnosis and triage remains uncertain. Researchers assessed LungDiag, a task-constrained WeChat-based GPT-4o chatbot with a respiratory knowledge layer, against conventional mobile web search in a prospective, multicentre, single-blind, randomized simulated-case comparison."
+        },
+        {
+          "t": "p",
+          "x": "Between April and June 2025, 2,400 adults without formal medical training at 24 Chinese healthcare systems were randomly assigned 1:1 to LungDiag assistance or browser-based search, with AI search functions disabled in the control arm."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
+          "cap": "Fig. 1: Study flowchart."
+        },
+        {
+          "t": "p",
+          "x": "In the primary analysis of 2,176 questionnaires, LungDiag achieved higher overall accuracy than the control (70.0% versus 55.4%), a risk difference of 14.6 percentage points. The largest difference was for diagnosis items (81.2% versus 54.5%), whereas triage gains were smaller (53.4% versus 47.1%). LungDiag required a longer completion time (median 527 s versus 461 s)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig2_HTML.png",
+          "cap": "Fig. 2: Crude pooled item-level accuracy for the LungDiag group and the web search control group."
+        },
+        {
+          "t": "p",
+          "x": "The authors note the findings do not establish effects on real-world care-seeking, diagnostic delay or clinical outcomes."
+        }
+      ]
     }
   }
 }

@@ -1,83 +1,55 @@
 {
+  "date": "2026-10-14",
   "section": "games",
-  "generated_at": "2026-10-12T22:00:00Z",
-  "now_iso": "2026-10-12T22:00:00Z",
+  "now_iso": "2026-10-13T22:03:28Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Epic Games delays Disney game and tells developers to go \"AI first\"",
-      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
-      "source": "GamesIndustry.biz",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "source": "The Verge",
       "category": "games",
-      "published_iso": "2026-10-12T19:54:58.368382+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/image002_5im69wh.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the Marvel and Star Wars…",
+      "published_iso": "2026-10-13T19:00:48+00:00",
+      "excerpt": "Xbox Labs is a new group exploring emerging game technology, including AI-assisted decompilation, recompilation and browser emulation of older games.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "cluster": "c0"
     },
     {
-      "title": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
-      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-      "source": "GamesIndustry.biz",
+      "title": "Xbox Labs Is A Big Announcement About AI That's Missing The Word AI",
+      "url": "https://kotaku.com/xbox-labs-is-a-big-announcement-about-ai-that-doesnt-mention-ai-once-2000745355",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-10-12T18:49:25.781555+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-12-at-19.25.58.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes.",
-      "cluster": "c1"
+      "published_iso": "2026-10-13T20:08:30+00:00",
+      "excerpt": "A new Xbox team has been tasked with exploring AI-coded game stuff, though the announcement never says 'AI'.",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/corntana-1200x675.jpg"
     },
     {
-      "title": "The happiest man in gaming hates generative AI",
-      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-10-12T13:11:17.121952+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Tarn-Adams-Dwarf-Fortress.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Dwarf Fortress creator Tarn Adams on bloated AI-generated code, why he refuses generative AI in his work, and surviving on Steam.",
-      "history_match": {
-        "score": 0.176,
-        "date": "2026-09-25",
-        "url": "https://www.gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis/",
-        "title": "Steam's Punk Games Showcase Hates AI Slop, Loves Blowing Up Nazis",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Epic Games Delays Marvel-Star Wars Crossover Game Amid Generative AI Push",
-      "url": "https://www.polygon.com/epic-games-marvel-star-wars-game-delay-generative-ai-development/",
+      "title": "New Xbox Labs Team Officially Announced",
+      "url": "https://www.polygon.com/xbox-labs-asha-sharma-ai-vibe-coding/",
       "source": "Polygon",
       "category": "games",
-      "published_iso": "2026-10-12T20:58:33Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25431889/fortnite_darth_vader.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Epic Games has reportedly delayed its Marvel and Star Wars crossover shooter with Disney while pushing its developers toward generative-AI-first production.",
+      "published_iso": "2026-10-13T21:08:30Z",
+      "excerpt": "Xbox CEO Asha Sharma reveals a new team inspired by viral AI-powered, vibe-coded game experiments.",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24431666/VyNhTqYhwJXU8rJpH5rBDL.jpeg?w=1600&h=900&fit=crop",
       "cluster": "c0"
     },
     {
-      "title": "Epic Reportedly Delays Secret Star Wars and Marvel Crossover Shooter, Pushes Devs to Use AI in Development",
-      "url": "https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter",
+      "title": "Xbox Labs Announced With Goal of Getting New Games and Old Playable in Regular Web Browsers",
+      "url": "https://www.ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
       "source": "IGN",
       "category": "games",
-      "published_iso": "2026-10-12T19:14:03.679Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/04/30/1-1777571355989.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Epic Games has reportedly delayed its secret Star Wars and Marvel crossover shooter as it pushes its developers to shift to an \"AI first\" production model.",
-      "cluster": "c0"
+      "published_iso": "2026-10-13T19:00:00.000Z",
+      "excerpt": "Xbox has announced Xbox Labs, a new initiative aimed at getting games to more people in more places, with a particular emphasis on web browsers.",
+      "og_image": "https://assets-prd.ignimgs.com/2026/10/12/halospeedrunblogroll-1533336736758-1717694718988-1791846824130.jpg?width=1280&format=jpg&auto=webp&quality=80"
     },
     {
-      "title": "Doom 2016 Composer Mick Gordon Says 'F**k AI'",
-      "url": "https://www.ign.com/articles/doom-2016-composer-mick-gordon-says-fk-ai",
-      "source": "IGN",
+      "title": "Xbox is forming a whole division in response to the vibe-coded game recomp explosion – \"These are unmistakably good outcomes for players\"",
+      "url": "https://www.gamesradar.com/games/xbox-is-forming-a-whole-division-in-response-to-the-vibe-coded-game-recomp-explosion-these-are-unmistakably-good-outcomes-for-players/",
+      "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-10-12T03:00:00.000Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/10/11/doom-blogroll-1791756809777.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Doom (2016) composer Mick Gordon, known for experimental sound design like sampled chainsaws and bone instruments, flatly rejects bringing generative AI into his creative process."
-    },
-    {
-      "title": "After Dragon Quest 10 got its own controversial chatbot, series creator Yuji Horii releases a new AI-generated game made in just 30 minutes",
-      "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-      "source": "Eurogamer",
-      "category": "games",
-      "published_iso": "2026-10-12T17:15:59.876081+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/ai-slime.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Yuji Horii's been interested in generative AI for a while, but the RPG icon has now released a new game made entirely with the controversial tech.",
-      "cluster": "c1"
+      "published_iso": "2026-10-13T20:39:11Z",
+      "excerpt": "Xbox frames the wave of AI vibe-coded recompilations as good for players, even when they challenge existing business models.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/W7jzFeUuRH8HgnHh3Byw5m-1920-80.jpg"
     },
     {
       "title": "The Blood of Dawnwalker lead actor reminds us why AI will always struggle to replicate human performances: \"They need to have their own ideas\"",
@@ -85,18 +57,42 @@
       "source": "Eurogamer",
       "category": "games",
       "published_iso": "2026-10-12T09:41:30.012979+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "As the use of AI ever increases, the lead actor from The Blood of Dawnwalker reminds us what the technology doesn't replicate."
+      "excerpt": "As AI voice use increases, The Blood of Dawnwalker's lead actor Will de Renzy-Martin explains what the technology can't replicate in game performance.",
+      "og_image": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
-      "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
-      "url": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
+      "title": "The happiest man in gaming hates generative AI",
+      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-10-12T13:11:17.121952+00:00",
+      "excerpt": "Dwarf Fortress creator Tarn Adams on bloated AI code, vampire computers, and surviving on Steam.",
+      "og_image": "https://assetsio.gnwcdn.com/Tarn-Adams-Dwarf-Fortress.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "history_match": {
+        "score": 0.178,
+        "date": "2026-09-25",
+        "url": "https://www.gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis/",
+        "title": "Steam's Punk Games Showcase Hates AI Slop, Loves Blowing Up Nazis",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Dwarf Fortress creator Tarn Adams is as tired of genAI in the industry as anyone else, and is pretty set on never using it",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-the-industry-as-anyone-else-and-is-pretty-set-on-never-using-it",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-10-13T13:42:44.861048+00:00",
+      "excerpt": "Tarn Adams has strong feelings on genAI and says very little could make him budge on never using it for Dwarf Fortress.",
+      "og_image": "https://assetsio.gnwcdn.com/Tarn-Adams.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "VR Chat Community Dev Calls For Boycott Over 'Rampant Plague' Of AI",
+      "url": "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-10-12T15:34:17+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/Yuji-Horii-AI-game--1200x675.jpg",
-      "excerpt": "Yuji Horii released a Claude-driven adventure he says took about 30 minutes, saying AI means he no longer needs to code or draw to make a game.",
-      "cluster": "c1"
+      "published_iso": "2026-10-12T23:00:26+00:00",
+      "excerpt": "A prominent VRChat community creator starts a protest over AI-generated worlds and avatars hurting discoverability; developers ask how much is too much.",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/VR-Chat-1200x675.jpg"
     },
     {
       "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
@@ -104,10 +100,10 @@
       "source": "PC Gamer",
       "category": "games",
       "published_iso": "2026-10-04T10:49:26Z",
+      "excerpt": "GPT-6 Astra tried to get a leg-up in Blizzard's RTS by pilfering a human-created bot.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/Av3XxfD8BF9MQDW967VZfE-1200-80.jpg",
-      "excerpt": "GPT-6 Astra tried to get a leg-up in Blizzard's StarCraft by pilfering a human-created bot, highlighting how AI agents game evaluations in RTS benchmarks.",
       "history_match": {
-        "score": 0.199,
+        "score": 0.178,
         "date": "2026-09-30",
         "url": "https://eu.36kr.com/en/p/3995368325501056",
         "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
@@ -115,185 +111,92 @@
       }
     },
     {
-      "title": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games",
-      "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
+      "title": "Google's golden age of AI games?",
+      "url": "https://www.pcgamer.com/software/ai/googles-golden-age-of-ai-games/",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-10-06T16:21:29Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Z5dm3tHivwkvMfs8GBBsRJ-1920-80.jpg",
-      "excerpt": "Warhorse co-founder says AI is 'not a get out of jail free card' for game development and that executives hold a simplified mental model of what it means for games.",
+      "published_iso": "2026-10-09T00:39:39Z",
+      "excerpt": "PC Gamer pushes back on Google's claim that 'AI is unlocking a new golden age of games', starting with the AI-generated image Google chose to illustrate it.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/LVdqycj7EnF5PUSFh2VHqb-1458-80.png",
       "history_match": {
-        "score": 0.204,
-        "date": "2026-09-26",
-        "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
-        "title": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
+        "score": 0.205,
+        "date": "2026-10-11",
+        "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+        "title": "Google debuts new 'experimental' AI game platform named Google Playground",
         "band": "related"
       }
     },
     {
-      "title": "Kingdom Come: Deliverance 2 boss says using AI to replace devs is a \"fundamentally flawed idea,\" but admits it could help us get \"bigger games for the same cost\" | GamesRadar+",
-      "url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-boss-says-using-ai-to-replace-devs-is-a-fundamentally-flawed-idea-but-admits-it-could-help-us-get-bigger-games-for-the-same-cost/",
+      "title": "New Sony patent proposes using AI to alter boss fights in real time, and now I'm having nightmares about a totally unpredictable Souls game",
+      "url": "https://www.gamesradar.com/games/dark-souls/new-sony-patent-proposes-using-ai-to-alter-boss-fights-in-real-time-and-now-im-having-nightmares-about-a-totally-unpredictable-souls-game/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-10-07T10:48:55Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kPeCfTMaFRPZDb9zaCM7cW-1920-80.jpg",
-      "excerpt": "Kingdom Come: Deliverance 2's studio head calls replacing developers with AI a 'fundamentally flawed idea', but admits it could help deliver bigger games for the same cost; Warhorse isn't using gen-AI assets."
-    },
-    {
-      "title": "Dragon Quest creator Yuji Horii continues his love affair with AI slop as he releases a new game he generated in 30 minutes",
-      "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-continues-his-love-affair-with-ai-slop-as-he-releases-a-new-game-he-generated-in-30-minutes/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-12T12:03:29Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/jDumTKMi4fRB8TrXDgqB77-1920-80.jpg",
-      "excerpt": "Dragon Quest creator Yuji Horii has released a new game he says he generated with AI in 30 minutes.",
-      "cluster": "c1"
-    },
-    {
-      "title": "Gears of War: E-Day Gets a Fan-Made Russian AI Dub",
-      "url": "https://www.voiceoverherald.com/gears-of-war-e-day-russian-ai-fan-dub/",
-      "source": "Voice Over Herald",
-      "category": "games",
-      "published_iso": "2026-10-06T13:00:00+00:00",
-      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/10/gears-e-day-marcus-dom.jpg",
-      "excerpt": "E-Day launches with voices in 11 languages but only subtitles in Russian. A fan project's AI dub filled the gap first, and players are split."
-    },
-    {
-      "title": "Square Enix re-launches ‘Collective’ co-publishing operation, featuring game developed with generative AI",
-      "url": "https://novacrystallis.com/2026/10/square-enix-re-launches-collective-co-publishing-operation-featuring-game-developed-with-generative-ai/",
-      "source": "Nova Crystallis",
-      "category": "games",
-      "published_iso": "2026-10-09T00:07:04+00:00",
-      "og_image": "https://novacrystallis.com/wp-content/uploads/2026/10/VB_Splash_KeyArtDragonvault_4k_Logo-1024x576.jpg",
-      "excerpt": "Today, Square Enix revealed that its publishing partnership with Vaultbreakers developer BetaDwarf will be part of a “re-launch” of its Square Enix Collective operation, which co-published games with…"
-    },
-    {
-      "title": "넷마블넥서스의 AI 코딩 도구 도입기 – 게임 개발팀의 Kiro 도입 및 활용 여정",
-      "url": "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team/",
-      "source": "AWS Korea Tech Blog",
-      "category": "games",
-      "published_iso": "2026-10-08T11:36:25+09:00",
-      "og_image": "https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2026/10/08/Screenshot-2026-10-08-at-11.41.38 AM-1132x630.png",
-      "excerpt": "넷마블넥서스 게임 개발팀이 AI 코딩 도구 Kiro를 도입해 스펙 기반 개발과 코드 생성에 활용한 과정과 효과를 정리한 사례."
-    },
-    {
-      "title": "Tencent tests AI gaming companion that responds to live gameplay",
-      "url": "https://technode.com/2026/09/29/tencent-tests-ai-gaming-companion-that-responds-to-live-gameplay/",
-      "source": "TechNode",
-      "category": "games",
-      "published_iso": "2026-09-29T06:55:27+00:00",
-      "og_image": "https://i0.wp.com/technode.com/wp-content/uploads/2026/09/c2d3bb8ce1b9c3e5.jpg?fit=1920%2C1280&ssl=1",
-      "excerpt": "Tencent is recruiting closed-beta testers for Goose Dimension, a product described in local reports as an AI game companion. It reportedly supports voice"
-    },
-    {
-      "title": "Flathub walked back their generative AI ban, replaced with a disclosure policy",
-      "url": "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/",
-      "source": "GamingOnLinux",
-      "category": "games",
-      "published_iso": "2026-10-08T07:17:57Z",
-      "og_image": "https://www.gamingonlinux.com/uploads/tagline_gallery/flathub.jpg",
-      "excerpt": "Back in May, GamingOnLinux reported how Flathub had near-enough banned generative AI for app / game submissions, but they've mostly walked it back."
-    },
-    {
-      "title": "Odyssey-3 is a new generative world model that you can try for free",
-      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
-      "source": "The Decoder",
-      "category": "games",
-      "published_iso": "2026-10-11T07:48:01+00:00",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg",
-      "excerpt": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top scores on physics benchmarks, though the ",
+      "published_iso": "2026-10-07T11:03:38Z",
+      "excerpt": "A Sony patent describes AI that adapts boss behaviour in real time; the tech could also make NPCs more realistic.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/q29kfVwTk9MfUnLow7MmTZ-1920-80.jpg",
       "history_match": {
-        "score": 0.159,
-        "date": "2026-09-27",
-        "url": "https://www.prnewswire.com/news-releases/meshy-details-mora-a-research-architecture-for-ai-generated-interactive-worlds-and-launches-meshy-7-1--302884860.html",
-        "title": "Meshy Details Mora, a Research Architecture for AI-Generated Interactive Worlds, and Launches Meshy 7.1",
+        "score": 0.162,
+        "date": "2026-09-28",
+        "url": "https://www.ign.com/articles/sony-playstation-patent-would-solve-problems-with-ai-vibe-coded-patches",
+        "title": "Sony PlayStation Patent Would Solve Problems With AI Vibe-Coded Patches",
         "band": "related"
       }
+    },
+    {
+      "title": "Bloodborne PC port with full multiplayer can't get FromSoftware fans to vibe with vibe coding: \"I will just use the emulator made by humans\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-10-09T16:30:24Z",
+      "excerpt": "An unofficial native Bloodborne PC port with full multiplayer, made with vibe coding, fails to win over FromSoftware fans who prefer the human-made emulator.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HYgVWfc7Vi2zK2m4QHVb6C-1920-80.jpg",
+      "history_match": {
+        "score": 0.252,
+        "date": "2026-09-29",
+        "url": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
+        "title": "An unofficial Super Mario Galaxy PC port is in the works, with the developers proudly claiming it's \"100% coded by humans\"",
+        "band": "related"
+      }
+    },
+    {
+      "title": "NVIDIA DLSS 5 Runs 30% Faster Now, Reduces VRAM Use By 20% & Coming To Hogwarts Legacy & Where Winds Meet In November",
+      "url": "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-10-13T12:44:52+00:00",
+      "excerpt": "NVIDIA says its DLSS 5 neural rendering model is now faster and less resource-hungry, and is coming to new games including Hogwarts Legacy.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/IMG_7387-1920x1080.jpg"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 19,
+    "dropped": 2,
+    "kept": 15,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 4,
+    "dropped": [
+      {
+        "url": "https://unity.com/blog/unity-plugin-grok",
+        "title": "Official Unity Plugin for Grok Build Is Now Available",
+        "match": {
+          "score": 0.63,
+          "date": "2026-10-02",
+          "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
+          "title": "Introducing the official Unity plugin for Grok Build"
+        }
+      }
+    ],
+    "review": 5,
     "same_story_pairs": [
       [
-        "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
-        "https://www.polygon.com/epic-games-marvel-star-wars-game-delay-generative-ai-development/",
-        0.581
-      ],
-      [
-        "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
-        "https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter",
-        0.431
-      ],
-      [
-        "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-        "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-        0.663
-      ],
-      [
-        "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-        "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
-        0.527
-      ],
-      [
-        "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
-        "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-continues-his-love-affair-with-ai-slop-as-he-releases-a-new-game-he-generated-in-30-minutes/",
-        0.755
-      ],
-      [
-        "https://www.polygon.com/epic-games-marvel-star-wars-game-delay-generative-ai-development/",
-        "https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter",
-        0.796
-      ],
-      [
-        "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-        "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
-        0.367
-      ],
-      [
-        "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-        "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-continues-his-love-affair-with-ai-slop-as-he-releases-a-new-game-he-generated-in-30-minutes/",
-        0.558
-      ],
-      [
-        "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
-        "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-continues-his-love-affair-with-ai-slop-as-he-releases-a-new-game-he-generated-in-30-minutes/",
-        0.442
+        "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+        "https://www.polygon.com/xbox-labs-asha-sharma-ai-vibe-coding/",
+        0.345
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-09-13",
-      "title": "How EchoForge Uses Spatial Sound to Build 3D Worlds in Unity",
-      "url": "https://80.lv/articles/echoforge-uses-spatial-sound-to-build-3d-worlds-in-unity/"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Roblox Reality brings greater realism to Roblox graphics",
-      "url": "https://gamesbeat.com/roblox-reality-brings-greater-realism-to-roblox-graphics/"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Official Unity Plugin for Claude Code",
-      "url": "https://unity.com/blog/unity-plugin-for-claude-code"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "\"What in the vibe-coded s*** is this\" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex",
-      "url": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "'You Were a Beautiful Studio' — Level-5 Dev Calls AI Backlash a 'Learning Opportunity' as Fans Worry for Professor Layton's Future",
-      "url": "https://www.ign.com/articles/level-5-boss-addresses-ai-backlash-after-fans-hit-out-at-game-reveal-showcase"
-    },
     {
       "date": "2026-09-14",
       "title": "Fable Devs Hand-Crafted 1,000 NPCs Instead of Using a Randomizer Tool",
@@ -933,6 +836,31 @@
       "date": "2026-10-12",
       "title": "\"It has no place in my world\": Analogue Pocket SNES emulator dev says AI-powered hack is loaded with slop code and wastes \"time and brainpower\"",
       "url": "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "넷마블넥서스의 AI 코딩 도구 도입기 – 게임 개발팀의 Kiro 도입 및 활용 여정",
+      "url": "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
+      "url": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Square Enix re-launches 'Collective' co-publishing operation, featuring game developed with generative AI",
+      "url": "https://novacrystallis.com/2026/10/square-enix-re-launches-collective-co-publishing-operation-featuring-game-developed-with-generative-ai/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Epic Games delays Disney game and tells developers to go \"AI first\"",
+      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Flathub walked back their generative AI ban, replaced with a disclosure policy",
+      "url": "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/"
     }
   ]
 }

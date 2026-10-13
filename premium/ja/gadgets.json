@@ -7288,6 +7288,158 @@
           "x": "ツールはスマートデバイス、ESP32センサー、文書解析、Docker制御など自在にカスタマイズできる。作成には手間がかかるが、その性能は労力を補って余りある。"
         }
       ]
+    },
+    "gadgets/gadgets-samsung-galaxy-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+          "cap": "3色のWarby ParkerスタイルのSamsungスマートグラスの画像。"
+        },
+        {
+          "t": "p",
+          "x": "Samsungが初のスマートグラスを公開するのは11月だが、その外観と軽さが明らかになった。テックニュースメディアSammyGuruの報道によれば、さまざまなスタイルとカラーで展開され、重さはわずか41グラムだという。"
+        },
+        {
+          "t": "p",
+          "x": "Samsungは、Galaxy Glassesと呼ばれる可能性があるこのスマートグラスを来月発売する見込みだ。11月にはUS(米国)の顧客がWarby ParkerとGentle MonsterのウェブサイトやUS国内のSamsung Experience Storesで購入できる。価格は発表されていない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+          "cap": "Gentle MonsterスタイルのSamsungスマートグラス"
+        },
+        {
+          "t": "p",
+          "x": "標準レンズ装着時の重さは41グラムで、Meta Ray-Banの最軽量モデルの43グラムより軽い。Snapdragon AR1 Gen 1チップ、2 GBのRAM、64 GBのストレージ、12 MPカメラ、オープンイヤースピーカー2基、マイク4基を搭載する。Meta Ray-Bansと同様、視覚的なディスプレイはない。"
+        },
+        {
+          "t": "p",
+          "x": "SamsungのスマートグラスはGoogle Gemini AIを使い、Android XRオペレーティングシステムで動作する。装着者は写真や動画の撮影、通話、テキスト送信、翻訳、ターンバイターンのナビゲーション、音楽やポッドキャストの再生ができる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-listening": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+          "cap": "Ray-Ban Metaスマートグラスをかけた女性"
+        },
+        {
+          "t": "p",
+          "x": "更新：MetaはAndroid Authorityのコメント要請に対し、「この問題は解決済みだ。利用者はいつでも設定からMeta AIとのやり取りの音声ログを管理、確認、削除できる」と回答した。"
+        },
+        {
+          "t": "p",
+          "x": "Redditの2つのスレッドで、あるRay-Ban Metaの所有者が、第2世代と第3世代にまたがる別々の3台が「Hey Meta」のウェイクフレーズなしで普段の会話を記録したと述べている。「Respond without Hey Meta」を無効にしていたにもかかわらず、それらのやり取りは保存された音声録音とテキストの書き起こしとしてMeta AIアプリに表示された。所有者によると、この挙動は最近のファームウェア更新後に始まったという。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+          "cap": "Meta Ray Banグラスの録音アクティビティページ"
+        },
+        {
+          "t": "p",
+          "x": "複数のコメント投稿者も、Meta AIを呼び出していないのに内部のライトが点灯するなど、説明のつかない同様の起動に気づいたと述べている。ただし報告はまだ限られており、Android Authorityは独自にこの挙動を再現できておらず、広く起きていることを示す証拠もない。"
+        },
+        {
+          "t": "p",
+          "x": "今年初めにはArs Technicaが、Ray-Ban Metaグラスのデータを確認していた委託作業者が非常に機微な映像を目にしていたと報じた。The Vergeは最近、AIハードウェアが「録音」の定義を曖昧にしていると論じた。"
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-gpt7-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+          "cap": "車輪を付けたUnitree G1"
+        },
+        {
+          "t": "p",
+          "x": "中国のロボット企業UnitreeのCEO、Wang Xingxing氏は上海で開かれた業界イベントで(South China Morning Post経由)、OpenAIが最近公開したGPT-6 Astraモデルは非常に強力で、「1〜2年以内」にブレークスルーが起こり得るとの確信を後押ししたと語った。"
+        },
+        {
+          "t": "p",
+          "x": "「たとえば来年リリースされるGPT-7モデルが、身体性知能の課題を直接解決する可能性もある」とWang氏は述べた。同氏は今年8月の時点では、こうした「ChatGPTモーメント」の到来には10年かかる可能性があると話していた。"
+        },
+        {
+          "t": "p",
+          "x": "Wang氏は目安として、ロボットは音声またはテキストの指示だけで、未知の環境の80%において割り当てられたタスクの80%をこなせるべきだと述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+          "cap": "Antigravity A1を飛ばすUnitree G1"
+        },
+        {
+          "t": "p",
+          "x": "Stanford UniversityのMovement LabはUnitreeのロボットにGPT-6 Astraを組み合わせ、初めて見るキッチンの掃除を任せた。ロボットは「環境固有の学習データや追加のポリシー学習なしに、部屋全体を片付け、曖昧な指示から記憶していた物を取ってくる」ことができた。GPT-6 AstraはScreenSpot-Proで92.7%を記録し、GPT-5.6 Solの76.9%から向上した。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ultrahuman-uae-bioage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+          "cap": "Ultrahuman Ring AIR"
+        },
+        {
+          "t": "p",
+          "x": "スマートリングで知られるBengaluru拠点のヘルステック新興企業Ultrahumanは、Abu Dhabi公衆衛生センター(ADPHC)と2年間の覚書を締結し、生物学的年齢モデルを開発・検証する。同社によれば、このモデルは最終的にアラブ首長国連邦(UAE)全域の人々が利用できるようになるという。"
+        },
+        {
+          "t": "p",
+          "x": "このモデルは臨床バイオマーカーとウェアラブル端末のデータを組み合わせ、個人の老化の速さを推定するとともに、睡眠、活動、心血管の健康、代謝など、老化を早めたり遅らせたりしうる要因を特定する。特定のウェアラブルに依存しない設計で、人々は将来TAMMやSahatnaなどのプラットフォームを通じて自分の健康年齢を確認できるようになる。"
+        },
+        {
+          "t": "p",
+          "x": "UltrahumanとADPHCは今後2年間を研究と臨床検証に充てる。CEOのMohit Kumar氏は、本格展開は段階的に進むと述べたが、時期は示さなかった。同社はこれまでに世界で約80万個のスマートリングを販売している。"
+        },
+        {
+          "t": "p",
+          "x": "Kumar氏は、モデルの学習にUAEのデータは使わないと強調した。「UAEのデータに対してアルゴリズムを展開する」と述べ、Ultrahumanが個人を特定できる情報にアクセスすることはないと付け加えた。"
+        }
+      ]
+    },
+    "gadgets/gadgets-fitbit-edge-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Googleが2026年2機種目となるFitbitトラッカーを投入する。新しいFitbit EdgeはPixel Watch 5とFitbit Airのちょうど中間に位置し、コンパクトな画面とAirより多い健康センサーを備えながら、価格はPixel Watch 5の約半分だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
+          "cap": "左からFitbit Air(新しいメタルメッシュバンド付き)、Fitbit Edge、Pixel Watch 5。"
+        },
+        {
+          "t": "p",
+          "x": "細身のアルミフレームに錠剤型の1.34インチOLEDタッチディスプレイを収め、防水性能はIP68(5 ATM)だ。Google HealthアプリでAndroidやiPhonesと連携でき、1回の充電で約7日(常時表示オンなら約2日)持つ。"
+        },
+        {
+          "t": "p",
+          "x": "スマートフォンの通知を表示できるが、マイクとスピーカーはなく、Geminiとの対話やNFCにも対応しない。Airと比べると、端末内蔵のGPSとPixel Watch由来のECG・血中酸素センサーが加わった。"
+        },
+        {
+          "t": "p",
+          "x": "こうしたデータはすべて、Google HealthアプリのGemini搭載チャットボットHealth Coachに送られる。EdgeにはGoogle Health Premium(月10ドル)の3カ月分が付属し、これがないとAI機能は使えない。Health Coachは必要に応じて無効にできる。"
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Edgeの価格は180ドルで、本日予約受付を開始し、10月27日に出荷される。Google初の修理可能なフィットネストラッカーで、バッテリーは交換可能だがユーザー自身では交換できない。"
+        }
+      ]
     }
   }
 }

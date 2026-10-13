@@ -7642,6 +7642,135 @@
           "x": "Odyssey quiere que el mismo modelo controle brazos robóticos, drones y personajes de videojuegos, y lo mostró jugando a GTA V. Fundada en 2023 por Oliver Cameron y Jeff Hawke, recaudó 310 millones de dólares en junio de 2026."
         }
       ]
+    },
+    "design/design-nvidia-usd-brep-kernel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia ha lanzado USD BRep, una biblioteca independiente de C++ y Python para el modelado de sólidos por representación de contornos (BRep) NURBS-based, lo que ha impulsado a los desarrolladores a crear software de modelado CAD de código abierto que aprovecha más las herramientas y los flujos de trabajo de AI."
+        },
+        {
+          "t": "p",
+          "x": "El AI-to-CAD se ha visto lastrado por la dificultad de entrenar algoritmos de aprendizaje automático con datos CAD tradicionales, sus metadatos y sus árboles de operaciones de varios pasos. Como USD BRep expone la geometría NURBS y BRep directamente a estructuras de Python y C++, los desarrolladores pueden introducir contornos geométricos exactos en redes neuronales o programar modelos generativos (como LLMs y redes Diffusion) para crear modelos 3D matemáticamente sólidos y fabricables."
+        },
+        {
+          "t": "p",
+          "x": "Es poco probable que Siemens, desarrolladora de Parasolid, el kernel CAD 3D más utilizado, vaya a alarmarse por ahora. \"El valor no está en otro modelador, el valor está en cómo podemos vincular ese LLM con las herramientas CAD que ya existen\", dijo a DEVELOP3D a principios de este año Tony Hemmelgarn, CEO de Siemens Digital Industries."
+        },
+        {
+          "t": "p",
+          "x": "El kernel geométrico SMLib, desarrollado por Solid Modeling Solutions y adquirido por Nvidia en mayo de 2022, forma parte del proyecto de código abierto USD BRep. Nvidia parece más centrada en optimizar el pipeline, la traducción de datos y el framework posterior que en sustituir las herramientas CAD existentes."
+        }
+      ]
+    },
+    "design/design-rtx-spark-creative-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA y Microsoft anunciaron que los portátiles RTX Spark estarán disponibles el viernes 16 de octubre. Con hasta 128GB de memoria unificada y 1 petaflop de cómputo de IA, RTX Spark lleva más de 130 aplicaciones aceleradas a los flujos de trabajo de creación de contenido. Antes del lanzamiento, NVIDIA y sus socios están desplegando nuevas funciones de software y optimizaciones."
+        },
+        {
+          "t": "p",
+          "x": "Adobe está optimizando Photoshop, Premiere y Substance 3D para RTX Spark, con IA, edición, color y efectos hasta 2x más rápidos. Photoshop incorpora composición GPU-accelerated (acelerada por GPU), mientras que Premiere acelera la reproducción, el renderizado, la corrección de color y funciones de IA como Enhance Speech y Object Mask. Las optimizaciones de IA en Photoshop y Premiere ya están disponibles en beta, y las actualizaciones de Substance 3D llegarán pronto."
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI añade dos nodos nuevos, RTX Video Frame Generation y RTX Video HDR, además de exportación a EXR. Los creadores pueden combinarlos con LTX 2.5 para convertir un clip SDR de 1080p y 30 fps en un video HDR más fluido a 60 fps."
+        },
+        {
+          "t": "p",
+          "x": "Blender ha publicado una beta de la versión 5.3 compatible con RTX Spark, y el próximo mes añadirá DLSS Ray Reconstruction para vistas previas en tiempo real en el viewport. NVIDIA Broadcast 2.3 incorpora Video Super Resolution, Frame Generation, un Offline File Processor y un servidor MCP para agentes de IA locales."
+        }
+      ]
+    },
+    "design/design-higgsfield-ten-minute-video": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Higgsfield AI tiene la misión de hacer que la creación profesional de video e imagen sea accesible para cualquiera que tenga una idea. Antes de GPT-6 Astra, esos videos llegaban como máximo a cerca de un minuto. Ahora, según el CEO y cofundador Alex Mashrabov, los usuarios pueden crear videos de más de 10 minutos."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes creativos de Higgsfield AI se encargan de tareas de producción repetitivas, como crear varias variantes de una toma. Con GPT-6 Astra, esos agentes también pueden recurrir a herramientas externas para realizar trabajo manual complejo de modelado 3D, lo que, según Alex, ayuda a resolver uno de los problemas más difíciles de la IA creativa: mantener la coherencia en videos más largos. El equipo ya usa IA para generar videos instructivos de más de 10 minutos para su canal de YouTube."
+        },
+        {
+          "t": "p",
+          "x": "\"GPT-Image-2.5 es lo último en tecnología y el primer modelo de su tipo capaz de representar de forma fiable texto e infografías sobre las imágenes\", afirma."
+        },
+        {
+          "t": "p",
+          "x": "Unos 200 creativos y 100 ingenieros desarrollan juntos el producto. Los creativos usan Codex para convertir ideas en prototipos de software, y Alex afirma que GPT-6 Astra reduce el trabajo necesario para incorporarlos al producto. Lo siguiente para Higgsfield AI es \"voice to movie\": una IA que entienda la intención hablada de un creador y plasme su visión en tiempo real."
+        }
+      ]
+    },
+    "design/design-ai-forged-cartoonist-signatures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+          "cap": "ChatGPT ha estado firmando sus falsas viñetas del New Yorker con nombres de dibujantes reales. (Crédito de imagen: Open AI)"
+        },
+        {
+          "t": "p",
+          "x": "Cuando Dolly Parton y Tim Curry murieron a finales de agosto, se volvió viral una viñeta que los mostraba llegando a las puertas de perla del cielo. En una esquina aparecía la firma \"BLOPER\", el seudónimo del dibujante del New Yorker Brendan Loper."
+        },
+        {
+          "t": "p",
+          "x": "Pero había un problema: Brendan no la había dibujado. Una fan de Dolly Parton simplemente había pedido a ChatGPT \"una viñeta al estilo del New Yorker\", y el chatbot la había creado. Luego, por si fuera poco, falsificó la firma de Brendan."
+        },
+        {
+          "t": "p",
+          "x": "\"Había gente escribiéndome sobre esta viñeta, preguntándome si era mía\", dijo a Nieman Lab. \"Fue muy surrealista\". Nieman Lab identificó después a más de 15 dibujantes del New Yorker cuyas firmas han aparecido en imágenes de ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Sí, la línea entre la inspiración y la copia descarada es difusa. Pero una firma falsa cruza el Rubicón: afirma claramente que una persona con nombre propio hizo esa obra y la respalda. Para quien trabaja en el ámbito creativo, su nombre es su reputación, su negocio. La próxima vez que veas una imagen circulando por las redes sociales, piensa antes de darle me gusta o compartirla."
+        }
+      ]
+    },
+    "design/design-world-creator-4-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "BiteTheBytes ha presentado World Creator 4, la próxima versión principal de su software de generación de terrenos GPU-based para desarrollo de videojuegos, motion graphics y trabajos de VFX. La versión, prevista para el próximo mes, introducirá una nueva arquitectura central que permitirá al software pasar de generar terrenos convencionales a entornos planetarios completos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La nueva arquitectura se apoya en el Cloddy SDK de BiteTheBytes, actualizado para ofrecer un “pipeline de terreno planetario totalmente GPU-driven”. Los datos de altura y distribución pueden exportarse en un formato que se puede mapear sobre una esfera; el render se basa en un modelo USGS DEM de Marte de 9GB, que según BiteTheBytes puede recorrerse en tiempo real dentro de World Creator."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una nueva vista de nodos complementa el sistema de capas, junto con “escultura directa de heightfields sin el antiguo sistema de pasos por niveles”, nuevos modelos de erosión procedural y deposición de agua y arena, y más de 110 tipos de ruido procedural. Un nuevo renderizador basado en polígonos aporta “renderizado convencional de juegos en tiempo real junto con path tracing”, y ambos renderizadores admiten DLSS 4.5."
+        },
+        {
+          "t": "p",
+          "x": "La versión también incluirá un sistema de procesamiento por lotes y un servidor MCP integrado, que permitirá controlar World Creator con herramientas de AI externas como Claude y ChatGPT. El software, hasta ahora Windows-only, llegará a macOS y Linux."
+        },
+        {
+          "t": "p",
+          "x": "World Creator 4 saldrá en noviembre de 2026. BiteTheBytes no ha anunciado cambios de precio."
+        }
+      ]
     }
   }
 }

@@ -6764,6 +6764,140 @@
           "x": "併用の手順はこうだ。Claude Motionでプロンプトをアニメーション解説にし、ClaudeにLumaコネクタを追加すると、アニメーションが動画としてLumaに表示される。Luma内では動きを保ったままルックを変えたり、9:16、1:1、4:3、21:9に再フレーミングしたり、Lumaエージェントに追加バージョンを作らせたりできる。"
         }
       ]
+    },
+    "movies/movies-reallusion-escape-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/10/key-image_RLxEscape-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ReallusionとEscape.AI Mediaは、視覚的な不整合、高いトークンコスト、曖昧なIP所有権といった生成AI動画の課題に取り組む複数年の戦略的パートナーシップを発表した。両社は3D空間データを精密な制御レイヤーとして使い、プロのAIストーリーテラー向けの3D-to-AIパイプラインを構築する。"
+        },
+        {
+          "t": "p",
+          "x": "ReallusionはCharacter Creator 5、ActorCoreモーションライブラリ、iClone リアルタイムアニメーションソフト、そしてiCloneとCC5の3Dシーンデータを精密な制御レイヤーとして取り込むAI StudioアプリをEscape.AIのクリエイターエコシステムに統合する。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/01_RLxEscape-ai.jpg?resize=1024%2C576&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "「純粋なテキストから動画への生成は、長編の物語表現において明確な限界に達している」と、Reallusion Inc.のディレクター、Enoc Burgosは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "アカデミー賞受賞の視覚効果の先駆者John Gaetaが設立したEscape.AIは、厳選したAI映画をRoku、Amazon Fire TV、LGとSamsungのSmart TVs（スマートTV）で配信し、4億台を超えるアクティブなCTV端末に届けている。クリエイターには純収益の50%が分配され、IPの所有権は100%クリエイターに残る。"
+        },
+        {
+          "t": "p",
+          "x": "両社はEscape Labsポータル、Escape.AIコミュニティ向けのiClone PERSONAL無料提供、クリエイター助成金、2026年10月23日の共同ライブデモイベントも展開する。"
+        }
+      ]
+    },
+    "movies/movies-netflix-eyeline-mousavi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/WhatsApp20Image202026-10-1320at2012.30.34.jpeg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Netflix傘下のEyeline Studiosは、生成AIを使って撮影後にロケーションを差し替え、群衆を作り直し、照明を変えている。さらに、俳優の演技を収録した後で監督がカメラ位置を変えられるツールも開発している。"
+        },
+        {
+          "t": "p",
+          "x": "「プロンプトでショットや映画を作っているわけではない。それは我々のやり方ではない」。EyelineのVirtual Pioneering担当VP、Mohsen MousaviはトリノのView Conferenceでこう述べ、実写撮影、従来のVFX、生成ワークフローを組み合わせる「ハイブリッド制作」と呼ぶ手法を説明した。"
+        },
+        {
+          "t": "p",
+          "x": "『Brazil ’70: The Third Star』では、Eyelineは撮影素材、スプライト、従来のCG、生成技術を組み合わせ、巨大なスタジアムの群衆づくりを支えた。ドキュメンタリー『The American Experiment』では、背景の拡張や生成した砂ぼこりなどのデジタル要素を実写映像に溶け込ませた例を示した。"
+        },
+        {
+          "t": "p",
+          "x": "進行中の研究には、制御可能な生成流体、人間の演技のAI-assistedリライティング、単一カメラの映像から構築したナビゲーション可能な4Dシーンなどがある。「我々の仕事の大半は、自社の研究と自社のモデルに基づいている」とMousaviは語った。Netflixは7月、約300作品がすでに何らかの形で生成AIを使っていると明らかにした。"
+        }
+      ]
+    },
+    "movies/movies-utopai-journey-west": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Journey-to-the-West-–-The-Lost-Five-Hundred-Years-FL-sc.png"
+        },
+        {
+          "t": "p",
+          "x": "Utopai StudiosとHuace Film & TV Co., Ltd.は、カンヌで開かれたMIPCOMで『Journey to the West – The Lost Five Hundred Years（西遊記 失われた五百年）』の新たなティザーを公開した。このAIアニメーションの前日譚シリーズは、中国四大奇書の一つ『西遊記（Journey to the West）』に着想を得ている。"
+        },
+        {
+          "t": "p",
+          "x": "ティザーは10の生涯にわたる神話的な冒険を描き、若い僧の感情の旅と、天に逆らう孫悟空（Sun Wukong）の姿を重ね合わせる。"
+        },
+        {
+          "t": "video",
+          "yt": "beGD0gcsEbY"
+        },
+        {
+          "t": "p",
+          "x": "Haidong Renが監督を務める全編AI生成（AI-generated）のアニメシリーズは、ヘッドライターのLi Zelinや脚本家のWu Linfengを含むアーティストと映画製作者のチームが、脚本、絵コンテ、ドローイング、デザインを通じて制作を導いている。"
+        },
+        {
+          "t": "p",
+          "x": "「テクノロジーは作品を増幅するためにあり、置き換えるためのものではない」と、Utopai Studiosのアニメーション責任者Carlos Lutterbachは語った。シリーズは2027年の公開を予定しており、劇場展開も計画している。"
+        }
+      ]
+    },
+    "movies/movies-mia-goth-instagram-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&strip=all&crop=0%2C10.653918363709%2C100%2C78.692163272582&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Mia GothがShia LaBeoufとの離婚を申請した後、認証済みアカウントmiagoth_によるInstagram投稿が急速に拡散した。そこには「MY EX IS MY BIGGEST FAN」と書かれたTシャツを着た彼女の姿があった。OK!やPeopleなどのメディアは、これを本物であるかのように報じた。しかしGoth側の代理人によれば、この画像はAIで生成された（AI-generated）ものだった。"
+        },
+        {
+          "t": "p",
+          "x": "「Mia Gothの偽造AI画像を投稿し続ける認証済みファンアカウントの削除を求め、Instagramに複数回苦情を申し立てた」と、Gothの代理人Christine TripicchioはThe Vergeに語った。「Instagramが公人の肖像の保護と尊厳よりも、偽造・改変された画像の拡散を明らかに優先しているのは理解しがたい」"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ai-label.jpg?quality=90&strip=all",
+          "cap": "画像は、青いMeta Verifiedのチェックマークが付いたアカウント@miagoth_に投稿された。"
+        },
+        {
+          "t": "p",
+          "x": "ファンが運営するこのアカウントのフォロワーは百万人を超えていた。Metaの広報担当Alex Dziedzanは、公人へのなりすましを理由に削除したと述べた。Metaの規則は、人物を写した一部のフォトリアルな動画にはAIラベルを求めているが、静止画には求めていない。"
+        }
+      ]
+    },
+    "movies/movies-merry-christmas-witch-ai-budget": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Merry_Poster_HiRes-1.jpg?w=1000&h=563&crop=1",
+          "cap": "“Merry the Christmas Witch”"
+        },
+        {
+          "t": "p",
+          "x": "“Merry the Christmas Witch”は、Christmas Dayに生まれた最初の魔女Merryが、Santa Clausを誘拐した邪悪な魔女の集団を倒す物語だ。原作は、New Orleansに住む70歳のテクニカルライターBobbi Hessが2012年に書いた児童書である。HessはVarietyに「AIがアイデア全体を高めてくれた」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "独立系制作会社TW3 EntertainmentのCEO、Tom Walshが脚色版の監督と共同脚本を手がけた。予算を試算すると総額は$80 millionとなり、スタジオが「無名の作品」にはためらう金額だった。そこで彼はAIを活用し、二時間の完成版を$1.5 millionで制作した。"
+        },
+        {
+          "t": "p",
+          "x": "Walshはフォーリーアーティスト、編集者、サウンドデザイナー、作曲家などの制作スタッフを集めた。人間の俳優が台本を録音し、キャラクターの動きや声の方向性を示したが、最終的にはAI-generatedの音声を採用した。AIスタジオPhatty Acidと組み、ElevenLabsの音声生成ツールと、動画生成ツールSeedanceとNanobananaを使った。約50人が10カ月の制作期間に携わった「ハイブリッドAIプロダクション」だ。"
+        },
+        {
+          "t": "p",
+          "x": "「AIプロダクションの質は、従来の制作スタッフの質で決まる」とWalshは言う。現時点で配給会社は決まっていないが、広報担当者は「前向きな」協議が進んでいると述べた。Walshはすでに次のAI-generated作品に取り組んでいる。"
+        }
+      ]
     }
   }
 }

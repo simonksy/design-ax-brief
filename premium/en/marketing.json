@@ -907,6 +907,97 @@
           "x": "The only quantified outcome is one tester's: grocer Tom Mulholland says Muse cut at least 15 minutes from payroll. Muse is free for most uses, with subscription plans whose prices Meta has not stated. Meta's Q2 2026 revenue was $60.80 billion, more than 97% of it from ads."
         }
       ]
+    },
+    "marketing/marketing-amex-agent-purchase-intent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+        },
+        {
+          "t": "p",
+          "x": "American Express is introducing a framework designed to capture and authenticate a customer’s purchase intent before an AI agent completes the transaction. Dubbed the “Intent Intelligence Framework,” the company hopes it will become an industry standard for AI-powered transactions."
+        },
+        {
+          "t": "p",
+          "x": "It starts with a Create Intent API that captures the customer’s purchase instructions and constraints, like the merchant’s name and maximum budget. The customer authenticates and signs off, then an Intent ID and a Proof of Intent Token are created. The token is used to obtain a secure payment credential the agent uses at checkout instead of the actual card number."
+        },
+        {
+          "t": "p",
+          "x": "“Our approach differs from the implementations of others in that it pulls intent earlier into the transaction flow,” said Hannah Bozian, Amex’s VP of Agentic Partnerships and Strategy. If a customer asks for white Nike sneakers in size 9 but the agent tries to buy Adidas, Amex could stop the transaction."
+        },
+        {
+          "t": "p",
+          "x": "Amex said it has not yet seen more disputes from agentic commerce. The framework joins its ACE Developer Toolkit, launched in April."
+        }
+      ]
+    },
+    "marketing/marketing-salesforce-koa-crm-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+          "cap": "Salesforce plugs Koa, trained on 27 years of CRM simulations, in beside Claude and ChatGPT"
+        },
+        {
+          "t": "p",
+          "x": "Salesforce published an interview in which Chief Data Officer Michael Andrew argued that customers should be able to switch between frontier, open and custom AI models, including Koa, the company’s first CRM reasoning model, which it says was built with NVIDIA and trained in simulations drawn from 27 years of running CRM workflows."
+        },
+        {
+          "t": "p",
+          "x": "Koa is “orchestrated alongside frontier models rather than in place of them.” The page gives no parameter count, benchmark score, price or availability date."
+        },
+        {
+          "t": "p",
+          "x": "“Different models have different strengths and weaknesses, and they’re changing all the time,” Andrew said. “AI is a fuel… we want to let that fuel come from anywhere, whether it’s Anthropic and Claude, OpenAI and ChatGPT.”"
+        },
+        {
+          "t": "p",
+          "x": "The choice message lands six weeks after the Claudeforce partnership made Claude the default model for Slack and several Agentforce surfaces. For marketers, the model behind a CRM agent shapes response time, reliability and consumption costs."
+        }
+      ]
+    },
+    "marketing/marketing-bannerflow-attention-scoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+          "cap": "Bannerflow heatmaps predict ad attention before spend, with zero validation data behind the scores"
+        },
+        {
+          "t": "p",
+          "x": "Bannerflow put a name on the AI tools in its creative platform. The suite, Creative Intelligence, groups image generation, predictive attention scoring, a performance analysis layer and feed-driven dynamic ads into four stages: Create, Evaluate, Understand and Act and scale."
+        },
+        {
+          "t": "p",
+          "x": "Predictive scoring uses “attention heatmaps, focus analysis and clarity scoring” to indicate how a creative “is likely to capture attention before campaign budget is committed,” and flags distracting elements. Creative Insights relates elements such as calls to action, colour and animation timing to performance. Teams can also generate, expand and upscale images and set up product feeds in plain language."
+        },
+        {
+          "t": "p",
+          "x": "The release gives no availability dates, no pricing and no validation data for its predictive models. “Marketing teams have more performance data than ever, but too little of it inspires the next piece of creative,” said Chief Product Officer Moses Velasco."
+        }
+      ]
+    },
+    "marketing/marketing-google-ai-mode-rx-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+          "cap": "John Keeble via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Google is testing ads for branded prescription drugs in AI Mode and AI Overviews, opening its AI search platform to one of the most tightly regulated categories in advertising, the company confirmed to ADWEEK."
+        },
+        {
+          "t": "p",
+          "x": "The testing for pharmaceutical products, including prescription drugs, began this month and is limited to the U.S, according to a Google spokesperson. Pharmaceutical advertisers can run standard text and Shopping ads, which will appear in sections labeled as “Sponsored.”"
+        },
+        {
+          "t": "p",
+          "x": "“We’re testing standard text and Shopping ads in AI Mode and AI Overviews, which we recently expanded to include certain pharmaceutical products,” a Google spokesperson said in a statement."
+        }
+      ]
     }
   }
 }

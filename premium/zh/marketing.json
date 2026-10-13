@@ -907,6 +907,97 @@
           "x": "唯一量化的成果来自一位测试者：杂货店主Tom Mulholland表示，Muse让他处理工资的时间至少缩短了15分钟。Muse在大多数用途下免费，另有订阅方案，但Meta未公布价格。Meta 2026年Q2营收为608亿美元，其中超过97%来自广告。"
         }
       ]
+    },
+    "marketing/marketing-amex-agent-purchase-intent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+        },
+        {
+          "t": "p",
+          "x": "American Express正推出一套框架，用于在AI代理完成交易前捕捉并认证客户的购买意图。该框架名为“Intent Intelligence Framework”，公司希望它成为AI-powered交易的行业标准。"
+        },
+        {
+          "t": "p",
+          "x": "流程从Create Intent API开始，它记录客户的购买指令与限制条件，例如商户名称和最高预算。客户完成认证并确认后，系统生成Intent ID和Proof of Intent Token。该令牌用于获取安全支付凭证，代理在结账时用它代替真实卡号。"
+        },
+        {
+          "t": "p",
+          "x": "“我们的方法与其他公司的实现不同，它把意图更早地纳入交易流程，”Amex负责Agentic Partnerships and Strategy的VP Hannah Bozian表示。如果客户要的是9码白色Nike运动鞋，而代理试图购买Adidas，Amex可以拦下这笔交易。"
+        },
+        {
+          "t": "p",
+          "x": "Amex表示，尚未看到代理式商务带来更多争议。该框架将并入其四月推出的ACE Developer Toolkit。"
+        }
+      ]
+    },
+    "marketing/marketing-salesforce-koa-crm-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+          "cap": "Salesforce将以27年CRM模拟训练的Koa与Claude和ChatGPT并列接入"
+        },
+        {
+          "t": "p",
+          "x": "Salesforce发布了一篇采访，首席数据官（Chief Data Officer）Michael Andrew在其中主张，客户应能在前沿、开放和定制AI模型之间切换，其中包括该公司首个CRM推理模型Koa。公司称，Koa与NVIDIA合作打造，并在源自27年CRM工作流运营的模拟中训练而成。"
+        },
+        {
+          "t": "p",
+          "x": "Koa“与前沿模型协同编排，而非取而代之”。该页面未给出参数量、基准分数、价格或上市日期。"
+        },
+        {
+          "t": "p",
+          "x": "“不同模型各有优劣，而且一直在变化，”Andrew说，“AI是一种燃料……我们希望这种燃料可以来自任何地方，无论是Anthropic和Claude，还是OpenAI和ChatGPT。”"
+        },
+        {
+          "t": "p",
+          "x": "这一选择信号出现在Claudeforce合作让Claude成为Slack及多个Agentforce界面默认模型的六周之后。对营销人员而言，CRM代理背后的模型决定了响应时间、可靠性和消耗成本。"
+        }
+      ]
+    },
+    "marketing/marketing-bannerflow-attention-scoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+          "cap": "Bannerflow热图可在投放前预测广告吸引力，但评分背后的验证数据为零"
+        },
+        {
+          "t": "p",
+          "x": "Bannerflow为其创意平台中的AI工具起了名字。这套名为Creative Intelligence的工具组合，将图像生成、预测性注意力评分、效果分析层和基于数据馈送的动态广告归入四个阶段：Create、Evaluate、Understand以及Act and scale。"
+        },
+        {
+          "t": "p",
+          "x": "预测评分借助“注意力热图、焦点分析和清晰度评分”，显示一则创意“在投入广告预算之前吸引注意力的可能性”，并标出分散注意力的元素。Creative Insights把行动号召、色彩和动画时机等元素与效果关联起来。团队还能生成、扩展和放大图像，并用日常语言设置商品馈送。"
+        },
+        {
+          "t": "p",
+          "x": "此次发布没有给出上市日期、定价，也没有其预测模型的验证数据。“营销团队拥有的效果数据前所未有地多，但能激发下一件创意的却太少，”首席产品官（Chief Product Officer）Moses Velasco表示。"
+        }
+      ]
+    },
+    "marketing/marketing-google-ai-mode-rx-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+          "cap": "John Keeble via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Google向ADWEEK证实，正在AI Mode和AI Overviews中测试品牌处方药广告，将其AI搜索平台向广告业监管最严格的品类之一开放。"
+        },
+        {
+          "t": "p",
+          "x": "据Google发言人介绍，包括处方药在内的医药产品测试于本月启动，仅限U.S。医药广告主可投放标准文字广告和Shopping广告，这些广告将出现在标有“Sponsored”的区域。"
+        },
+        {
+          "t": "p",
+          "x": "Google发言人在声明中表示：“我们正在AI Mode和AI Overviews中测试标准文字广告和Shopping广告，最近已将范围扩大到部分医药产品。”"
+        }
+      ]
     }
   }
 }

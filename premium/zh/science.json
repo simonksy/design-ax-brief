@@ -6758,6 +6758,123 @@
           "x": "由于该方法追踪的是单个细胞而非群体平均值，它可以记录细胞随时间的生长、移动、分裂和生物量变化。研究人员认为它可用于药物反应（drug-response）研究、毒性筛查和细胞死亡（cell-death）研究。该成果发表于Applied Physics Letters。"
         }
       ]
+    },
+    "science/science-gemini-4-argon-robotics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gemini 4 Argon在物理理解、代码生成和视觉语义推理方面实现了跨越式进步，为整个机器人技术栈开启新的工作流程，并加速迈向物理AGI。在测试模型于3D 环境中解决物理与空间问题能力的Embodied Reasoning(ERQA)基准上，Argon仅凭纯推理就取得87%的成绩，超过其他所有前沿模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Argon的能力展示涵盖四个领域：机器人控制(借助MuJoCo练习的移动操作、zero-shot控制、视频世界模型的操控)、Real2Sim(基于机器人摄像头画面、以自我为中心的人类视频或手绘草图构建仿真孪生)、物理理解(事后标注、稠密价值函数、进度估计)，以及研究与自我改进。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Argon操控足式机器人Boston Dynamics Spot学习新技能：先为脚踏式垃圾桶构建MuJoCo数字孪生进行练习，再踩下真实踏板，把汽水罐扔进去。仅凭单张桌面照片，它就构建出仿真孪生并生成4,500+个片段，把真实世界基准的成功率从56%提升到75%。"
+        }
+      ]
+    },
+    "science/science-idealens-idea-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+          "cap": "IDEALENS追踪观点；传统检测器追踪措辞。Credit: arXiv (2026)."
+        },
+        {
+          "t": "p",
+          "x": "来自University of Maryland、Google DeepMind和Simon Fraser University的研究人员开发了IdeaLens，它通过分析文本背后的观点与论证而非用词，来检测写作中是否有AI参与。团队收集了约1百万份带标签的文档，并用语言模型去除文风，将其提炼为核心论证的大纲。"
+        },
+        {
+          "t": "p",
+          "x": "在完全由人类撰写或完全AI-generated的文档上，IdeaLens识别出91%的AI生成文档，对人类作品的误报率为0.6%。对于基于AI大纲由人类撰写的文本，它将68%标记为AI观点，而Pangram仅识别出8%。对于基于人类大纲由AI撰写的文本，Pangram 4识别出92%的AI措辞，IdeaLens仅标记了7%。"
+        },
+        {
+          "t": "p",
+          "x": "在90,000次预测中，人类的观点往往包含可核实的来源并承认局限；AI写作则依赖泛泛的细节、无法核实的数字和笼统的论断。IdeaLens在部分较新的模型上效果较差，因此未经进一步测试尚不能投入使用。"
+        }
+      ]
+    },
+    "science/science-arnhem-rangers-megadetector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+          "cap": "Warddeken护林员使用的相机陷阱拍到的黑足树鼠。Credit: Cara Penton"
+        },
+        {
+          "t": "p",
+          "x": "来自Warddeken Land Management、Charles Darwin University和CSIRO的研究人员在Conservation Science and Practice发表论文，研究AI如何支持Australia West Arnhem由原住民主导(Indigenous-led)的野生动物监测。研究围绕Mayh(动物)项目展开，该项目在Warddeken Indigenous Protected Area运行相机陷阱，并雇用bininj和daluk护林员。"
+        },
+        {
+          "t": "p",
+          "x": "护林员将1,572小时的数据输入动物检测模型MegaDetector。需要分析的图像从925,088张减少到172,290张，降幅81.4%，处理时间从六个月缩短到两个月。每两周的平均处理时间从52.6小时降至41.8小时，腾出时间用于土地管理、物种识别、语言记录和工作坊。"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Cara Penton强调，数据核验仍有人参与；资深daluk护林员Suzanna Nabulwad则表示，引入技术应当谨慎，并听取长老的意见。"
+        }
+      ]
+    },
+    "science/science-ai-idea-theft-fears": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+          "cap": "AI公司被指收集用户上传文档的事件引发广泛关注，科学家们越来越担心自己手稿的隐私。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI声称其内部模型解决了数学界七个百万美元难题之一后，New York University的数学家暗示该公司窃取了他与聊天机器人分享的进展。数周后，New York Times报道了Anthropic与University of Copenhagen的生物学家之间的类似事件。双方均表示没有用上传的数据训练模型。"
+        },
+        {
+          "t": "p",
+          "x": "科学家们仍把这些模型当作讨论对象，用于文献综述或生成证明，但有些人已把它们视为竞争对手。“我不用它们，”University of Sydney的Clément Canonne说。"
+        },
+        {
+          "t": "p",
+          "x": "Stanford HAI研究员Jennifer King说，企业账户似乎是安全的，“但如果你用的是个人账户，那就什么都说不准了”；用户往往必须主动选择退出训练。“这些公司对这些做法并不透明，”她说。"
+        },
+        {
+          "t": "p",
+          "x": "科学家们可能觉得左右为难：使用模型就要冒发现外泄的风险，不用则要冒被抢先的风险。“如果你不用它们，你会不会变得无足轻重？”Canonne说。"
+        }
+      ]
+    },
+    "science/science-3d-einstein-tile-aperiodic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+          "cap": "Chair44 单片密铺块可以填满3D 空间而不产生重复图案。Amanda Montañez"
+        },
+        {
+          "t": "p",
+          "x": "研究人员刚刚发现了一种三维“爱因斯坦”（einstein）密铺块。2023年，业余数学家David Smith发现的帽子形密铺块被证明是首个已知的2D 非周期单片密铺块：一种可以无限铺满平面、却永远不会形成重复图案的形状。"
+        },
+        {
+          "t": "p",
+          "x": "如今，Chair44 单片密铺块能够无缝隙、无重叠地无限填满3D 空间，而且这种铺法是非周期的。这一发现由Automorph负责人Ioannis Tsiokos宣布，他称Automorph是一家AI研究实验室。作为这篇预印本唯一的人类作者，Tsiokos说：“我自己并不是数学家。”他表示，论文由Anthropic的Claude Fable 5.1撰写，而搜索3D 单片密铺块并验证Chair44是否符合einstein标准，则用了OpenAI的ChatGPT-6 Astra。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+          "cap": "Superchair44的分解图与组装图，由8个Chair44 单片密铺块组成。"
+        },
+        {
+          "t": "p",
+          "x": "Craig Kaplan认为，这解决了“密铺理论中一个长期悬而未决的棘手问题”：此前的Schmitt-Conway-Danzer双棱柱只是弱非周期的。由于大量使用生成式AI，外界反应不一。Chaim Goodman-Strauss说，这篇论文带有“LLM-driven研究论文的特征”，他与Felix Flicker已经写出了Chair44是非周期单片密铺块的人工证明。Flicker说：“风险在于，我们的工作会沦为在AI垃圾内容（slop）里淘金。”"
+        }
+      ]
     }
   }
 }

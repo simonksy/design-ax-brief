@@ -2240,6 +2240,123 @@
           "cap": "Placa del Ministerio de Pymes y Startups [Cortesía del Ministerio de Pymes y Startups]"
         }
       ]
+    },
+    "politics/politics-uk-mps-ai-labs-regulate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/w_2560%2Cc_limit/101326-Big%2520Four%2520UK%2520parliment.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Representantes de OpenAI y Anthropic dijeron en una audiencia parlamentaria británica que los compromisos voluntarios ya no bastan para garantizar la seguridad y que deberían aprobarse nuevas leyes. Google DeepMind y Meta no respaldaron una nueva legislación."
+        },
+        {
+          "t": "p",
+          "x": "El Business, Innovation, Science, and Trade Committee, un panel multipartidista de diputados (MPs), escuchó a cuatro empresas de AI de frontera, cuatro exempleados convertidos en denunciantes y altos funcionarios británicos. “Las normas deberían ser vinculantes”, dijo Liam Booth-Smith, de Anthropic. Tom Duff Gordon, de OpenAI, afirmó que “debería haber algunos elementos obligatorios”, empezando por la notificación de incidentes."
+        },
+        {
+          "t": "p",
+          "x": "Owen Larter, de Google DeepMind, dijo: “Centrarnos en los estándares es lo que haríamos”. Rob Sherman, de Meta, afirmó que los reguladores “no están escribiendo sobre una página en blanco”."
+        },
+        {
+          "t": "p",
+          "x": "Cat Little, de la Cabinet Office, de la que depende el AI Security Institute, confirmó que su régimen de pruebas es voluntario: “Por ahora, sí, lo es”. El presidente del comité, Liam Byrne, quiere que la presidencia británica del G20 sirva para impulsar una convención internacional."
+        }
+      ]
+    },
+    "politics/politics-pro-ai-pac-nevada": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/w_2560%2Cc_limit/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif"
+        },
+        {
+          "t": "p",
+          "x": "Lantern Production Consultants LLC ha recibido unos 20 millones de dólares desde el año pasado de Think Big, parte de una red de super PACs pro-AI financiada por Leading the Future PAC, según registros federales de financiación de campañas revisados por WIRED. Es una de las cuatro LLCs de Nevada pagadas por la red, que ha recaudado más de 140 millones de dólares para las elecciones de mitad de mandato."
+        },
+        {
+          "t": "p",
+          "x": "La secretaría de Estado de Nevada dijo a WIRED que no pudo localizar registros de esas empresas. Los grupos de vigilancia electoral sostienen que las LLCs son empresas pantalla; el Campaign Legal Center presentó en mayo una queja ante la FEC en la que alega que Think Big y American Mission no revelaron a los destinatarios reales de sus pagos."
+        },
+        {
+          "t": "p",
+          "x": "El portavoz de Leading the Future, Jesse Hunt, dijo: “Cumplimos todas las leyes aplicables”, y calificó la queja de maniobra de Public First y Anthropic. Public First dijo no tener nada que ver con la queja, y el Campaign Legal Center calificó esa insinuación de “absolutamente falsa”."
+        },
+        {
+          "t": "p",
+          "x": "La red financia super PACs que apoyan a ambos partidos: Think Big financia de forma abrumadora a demócratas y American Mission, a republicanos."
+        }
+      ]
+    },
+    "politics/politics-ai-framework-licensing-questions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/white-house616230856b554255bedd47e4fb05110f.jpg?sfvrsn=4d3772df_5"
+        },
+        {
+          "t": "p",
+          "x": "En junio, el gobierno de Trump emitió la Executive Order 14409, que ordenaba un “marco voluntario” para el despliegue seguro de modelos de frontera: un umbral para los modelos cubiertos, acceso del gobierno hasta 30 días antes del lanzamiento y la selección de “socios de confianza” para el acceso anticipado. El marco se completó en agosto, pero su texto no se hizo público."
+        },
+        {
+          "t": "p",
+          "x": "Adam Conner, vicepresidente de Technology Policy en el Center for American Progress, sostiene que combinar estándares voluntarios con amenazas de sanción ha creado un sistema de licencias de facto y una expectativa de autorización previa."
+        },
+        {
+          "t": "p",
+          "x": "Enumera preguntas abiertas: qué modelos están cubiertos, cómo se suman los desarrolladores, si pueden conservar una copia, qué ocurre con los modelos durante la revisión y quién designa a los socios de confianza. En un informe conjunto de situación del 14 de septiembre, el gobierno acordó publicar el texto del marco antes del 30 de octubre."
+        }
+      ]
+    },
+    "politics/politics-home-office-asylum-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5251800.jpg?imageId=5251800&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo informe del Open Rights Group (ORG) afirma que más de uno de cada cinco resúmenes de entrevistas de asilo generados por AI (AI-generated) revisados por expertos del Home Office no superaron las pruebas de precisión."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas son Asylum Case Summarisation y Asylum Policy Search, ambas basadas en GPT-4o de OpenAI a través de Azure AI Foundry de Microsoft. Las cifras obtenidas por ORG muestran que 45 de 203 resúmenes no superaron los controles iniciales tras el despliegue de abril de 2026, una tasa de fallos del 22 por ciento frente al 9 por ciento del piloto."
+        },
+        {
+          "t": "p",
+          "x": "ORG señala que la media mensual de decisiones iniciales de asilo cayó alrededor de un 42 por ciento interanual, mientras que el tiempo medio entre la entrevista y la decisión aumentó un 29 por ciento, aunque las cifras no prueban que la AI causara la ralentización. El gobierno afirma que las personas siguen siendo responsables de las decisiones. ORG pide suspender ambas herramientas y someterlas a una auditoría independiente; el Home Office no respondió a The Register."
+        }
+      ]
+    },
+    "politics/politics-house-ai-agent-liability-draft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/oFhfMab3hdiIWPwashiNkQLi-PwNmkJSa9My51Ogc1s/g:nowe:0:328/c:3200:1807/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg0OTU5NTg5X1FycDQwMzUuanBn.webp",
+          "cap": "Vista de un edificio blanco con cúpula."
+        },
+        {
+          "t": "p",
+          "x": "La representante Lori Trahan, D-Mass., integrante del Comité de Energía y Comercio de la Cámara de Representantes, propuso el miércoles una ley que permitiría a particulares demandar por daños causados por sistemas de AI."
+        },
+        {
+          "t": "p",
+          "x": "El borrador de discusión haría responsable a un desarrollador de AI si uno de sus sistemas dañara a un tercero mediante una conducta que, cometida por un humano, constituiría negligencia, un ilícito civil intencional o un delito. La responsabilidad no se aplicaría cuando el usuario o una empresa que modificó el sistema hubiera buscado esa conducta o actuado con negligencia."
+        },
+        {
+          "t": "p",
+          "x": "“Cuando alguien infringe la ley y te hace daño, puedes llevarlo a los tribunales”, dijo Trahan. “Eso no debería cambiar solo porque el infractor sea un agente de AI”."
+        },
+        {
+          "t": "p",
+          "x": "Los tribunales presumirían que un sistema de AI tenía el estado mental que tendría una persona que realizara las mismas acciones, y los desarrolladores no podrían alegar que la AI es incapaz de tener intención. Por lo general, los demandantes tendrían tres años para presentar una demanda; la propuesta expiraría cinco años después de su promulgación y crearía “un piso federal” sin desplazar la legislación estatal."
+        },
+        {
+          "t": "p",
+          "x": "La semana pasada, los senadores Josh Hawley, R-Mo., y Chris Murphy, D-Conn., anunciaron una ley bipartidista dirigida a los operadores de agentes de AI (AI-agent) en virtud de la Computer Fraud and Abuse Act. Darrell West, de Brookings, dijo que es más probable que se actúe en el próximo Congreso."
+        }
+      ]
     }
   }
 }

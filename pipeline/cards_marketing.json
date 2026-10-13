@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-google-ai-mode-rx-ads",
+      "id": "marketing-shopify-catalog-ai-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google AI Mode\n처방약 광고 연다",
-      "body": "Google이 이달 AI Mode에서 규제 문턱이 높은 처방약 광고를 시험한다.",
-      "mini_headline": "Rx 광고, Google AI Mode 진입",
+      "headline": "Shopify, 카탈로그를\nAI 쇼핑 에이전트에 개방",
+      "body": "Shopify에서는 이제 어떤 AI 에이전트로도 십억 개 넘는 상품을 살 수 있다.",
+      "mini_headline": "Shopify, AI 에이전트에 개방",
       "tool": "Marketing",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,155 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-            "cap": "John Keeble via Getty Images"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+            "cap": "Shopify는 앞서 AI-powered 쇼핑과 결제를 놓고 Meta의 Muse와 제휴한다고 발표했다."
           },
           {
             "t": "p",
-            "x": "Google이 AI Mode와 AI Overviews에서 브랜드 처방약 광고를 시험 중이라고 ADWEEK에 확인했다. 광고 업계에서 규제가 가장 까다로운 범주 하나에 AI 검색 플랫폼의 문을 연 셈이다."
+            "x": "곧 더 많은 AI 에이전트가 Shopify 상품을 둘러보고 구매한다. 에이전트 커머스를 향한 회사 구상도 한층 넓어진다."
           },
           {
             "t": "p",
-            "x": "Google 대변인은 처방약을 포함한 의약품 광고 시험이 이달 시작됐고 U.S에 한정된다고 전했다. 제약 광고주는 일반 텍스트 광고와 Shopping 광고를 낼 수 있고, 광고는 “Sponsored” 표시가 붙은 영역에 뜬다."
+            "x": "Shopify는 화요일 쇼핑객이 자기 AI 에이전트를 설정해 대신 상품을 사게 할 수 있다고 발표했다. 덕분에 더 많은 에이전트가 Shopify 스토어프런트 안팎의 상품을 아우르는 Shopify 카탈로그의 십억 개 넘는 상품에 접근한다. Shopify는 지난 구월 Meta와 손잡고 Muse 에이전트가 사람 대신 구매하도록 했는데, 이제는 제휴 연동 없이도 어떤 에이전트든 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Google 대변인은 성명에서 “AI Mode와 AI Overviews에서 일반 텍스트 광고와 Shopping 광고를 시험하고 있으며, 최근 일부 의약품까지 범위를 넓혔다”고 밝혔다."
+            "x": "고객은 Shop 계정에 에이전트를 연결하고 one-click Shop Pay로 대화 안에서 바로 결제한다. 주문은 다시 Shop 앱으로 모인다. Shopify는 이 기능을 예산 한도나 빠른 배송만 같은 규칙을 따르는 “퍼스널 쇼퍼”로 내세운다. 다만 구매자는 구매 건마다 승인해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "전자상거래(E-commerce)는 이제 AI의 격전지 가운데 하나다. Google과 Amazon도 에이전트 쇼핑 도구에 투자한다. Amazon은 에이전트가 고객 대신 쇼핑해도 되는지를 두고 Perplexity와, 최근에는 Meta의 Muse와도 다투고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google opens AI Mode\nto prescription drug ads",
-          "body": "Google began testing prescription drug ads in AI Mode this month, moving a heavily regulated category into AI answers.",
-          "mini_headline": "Rx ads enter Google AI Mode",
+          "headline": "Shopify opens its catalog\nto more AI shopping agents",
+          "body": "Shopify now lets shoppers connect any AI agent to buy from its catalog of over a billion listings.",
+          "mini_headline": "Shopify opens to AI agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-                "cap": "John Keeble via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+                "cap": "Shopify previously announced a partnership with Meta’s Muse for AI-powered shopping and checkout."
               },
               {
                 "t": "p",
-                "x": "Google is testing ads for branded prescription drugs in AI Mode and AI Overviews, opening its AI search platform to one of the most tightly regulated categories in advertising, the company confirmed to ADWEEK."
+                "x": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company’s agentic commerce ambitions."
               },
               {
                 "t": "p",
-                "x": "The testing for pharmaceutical products, including prescription drugs, began this month and is limited to the U.S, according to a Google spokesperson. Pharmaceutical advertisers can run standard text and Shopping ads, which will appear in sections labeled as “Sponsored.”"
+                "x": "Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify’s catalog, which includes items on and off Shopify storefronts. In September, Shopify partnered with Meta to let its Muse agent buy on a human’s behalf; now, shoppers can use any agent without a partnership integration."
               },
               {
                 "t": "p",
-                "x": "“We’re testing standard text and Shopping ads in AI Mode and AI Overviews, which we recently expanded to include certain pharmaceutical products,” a Google spokesperson said in a statement."
+                "x": "Customers connect an agent to their account on Shop and check out within the conversation using one-click Shop Pay. Orders are funneled back to the Shop app. Shopify markets the feature as a “personal shopper” that can follow rules like budget guardrails or fast shipping only. Buyers must approve each purchase."
+              },
+              {
+                "t": "p",
+                "x": "E-commerce has become one of the battlegrounds of AI, with Google and Amazon investing in agent shopping tools, and Amazon fighting Perplexity and, more recently, Meta’s Muse over whether agents should shop on a customer’s behalf."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google AI Mode\n처방약 광고 연다",
-          "body": "Google이 이달 AI Mode에서 규제 문턱이 높은 처방약 광고를 시험한다.",
-          "mini_headline": "Rx 광고, Google AI Mode 진입",
+          "headline": "Shopify, 카탈로그를\nAI 쇼핑 에이전트에 개방",
+          "body": "Shopify에서는 이제 어떤 AI 에이전트로도 십억 개 넘는 상품을 살 수 있다.",
+          "mini_headline": "Shopify, AI 에이전트에 개방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-                "cap": "John Keeble via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+                "cap": "Shopify는 앞서 AI-powered 쇼핑과 결제를 놓고 Meta의 Muse와 제휴한다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "Google이 AI Mode와 AI Overviews에서 브랜드 처방약 광고를 시험 중이라고 ADWEEK에 확인했다. 광고 업계에서 규제가 가장 까다로운 범주 하나에 AI 검색 플랫폼의 문을 연 셈이다."
+                "x": "곧 더 많은 AI 에이전트가 Shopify 상품을 둘러보고 구매한다. 에이전트 커머스를 향한 회사 구상도 한층 넓어진다."
               },
               {
                 "t": "p",
-                "x": "Google 대변인은 처방약을 포함한 의약품 광고 시험이 이달 시작됐고 U.S에 한정된다고 전했다. 제약 광고주는 일반 텍스트 광고와 Shopping 광고를 낼 수 있고, 광고는 “Sponsored” 표시가 붙은 영역에 뜬다."
+                "x": "Shopify는 화요일 쇼핑객이 자기 AI 에이전트를 설정해 대신 상품을 사게 할 수 있다고 발표했다. 덕분에 더 많은 에이전트가 Shopify 스토어프런트 안팎의 상품을 아우르는 Shopify 카탈로그의 십억 개 넘는 상품에 접근한다. Shopify는 지난 구월 Meta와 손잡고 Muse 에이전트가 사람 대신 구매하도록 했는데, 이제는 제휴 연동 없이도 어떤 에이전트든 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Google 대변인은 성명에서 “AI Mode와 AI Overviews에서 일반 텍스트 광고와 Shopping 광고를 시험하고 있으며, 최근 일부 의약품까지 범위를 넓혔다”고 밝혔다."
+                "x": "고객은 Shop 계정에 에이전트를 연결하고 one-click Shop Pay로 대화 안에서 바로 결제한다. 주문은 다시 Shop 앱으로 모인다. Shopify는 이 기능을 예산 한도나 빠른 배송만 같은 규칙을 따르는 “퍼스널 쇼퍼”로 내세운다. 다만 구매자는 구매 건마다 승인해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "전자상거래(E-commerce)는 이제 AI의 격전지 가운데 하나다. Google과 Amazon도 에이전트 쇼핑 도구에 투자한다. Amazon은 에이전트가 고객 대신 쇼핑해도 되는지를 두고 Perplexity와, 최근에는 Meta의 Muse와도 다투고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI Mode\n処方薬広告を解禁",
-          "body": "Googleは今月、AI Modeで規制の厳しい処方薬広告のテストを始めた。",
-          "mini_headline": "Rx広告がGoogle AI Modeへ",
+          "headline": "Shopify、カタログを\nAIエージェントに開放",
+          "body": "Shopifyは任意のAIエージェントで十億件超の商品を買えるようにした。",
+          "mini_headline": "Shopify、AIエージェントに開放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-                "cap": "John Keeble via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+                "cap": "Shopifyは以前、AI-poweredの買い物と決済に向けてMetaのMuseとの提携を発表している。"
               },
               {
                 "t": "p",
-                "x": "GoogleはAI ModeとAI Overviewsでブランド処方薬の広告をテストしている。広告で最も規制が厳しいカテゴリーの一つにAI検索プラットフォームを開く動きで、同社がADWEEKに認めた。"
+                "x": "より多くのAIエージェントが、まもなくShopifyの商品を閲覧・購入できるようになる。同社のエージェント型コマース構想が広がることを意味する。"
               },
               {
                 "t": "p",
-                "x": "Googleの広報担当者によると、処方薬を含む医薬品のテストは今月始まり、U.Sに限定される。製薬広告主は通常のテキスト広告とShopping広告を出稿でき、広告は「Sponsored」と表示された枠に掲載される。"
+                "x": "Shopifyは火曜日、買い物客が自分のAIエージェントを設定して代わりに商品を購入させられるようにすると発表した。これにより、Shopifyのストア内外の商品を含む同社カタログの十億件を超える商品に、より多くのエージェントがアクセスできる。Shopifyは九月にMetaと提携し、Museエージェントが人に代わって購入できるようにしたが、今後は提携による連携がなくてもどのエージェントでも使える。"
               },
               {
                 "t": "p",
-                "x": "Googleの広報担当者は声明で「AI ModeとAI Overviewsで通常のテキスト広告とShopping広告をテストしており、最近これを一部の医薬品にも広げた」と述べた。"
+                "x": "顧客はShopのアカウントにエージェントを接続し、one-clickのShop Payで会話の中で決済を済ませる。注文はShopアプリに集約される。Shopifyはこの機能を、予算の上限や速い配送のみといったルールに従える「パーソナルショッパー」として打ち出している。購入者は購入ごとに承認する必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "E-commerceはAIの主戦場の一つになった。GoogleとAmazonはエージェント型ショッピングツールに投資し、Amazonはエージェントが顧客に代わって買い物をしてよいかをめぐり、Perplexity、さらに最近ではMetaのMuseと争っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n向处方药广告开放",
-          "body": "Google本月起在AI Mode测试处方药广告，把强监管品类引入AI回答。",
-          "mini_headline": "Rx 广告进入 Google AI Mode",
+          "headline": "Shopify开放商品目录\n给更多AI购物代理",
+          "body": "Shopify现允许购物者接入任意AI代理，从其逾十亿件商品目录中购物。",
+          "mini_headline": "Shopify向AI代理开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-                "cap": "John Keeble via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+                "cap": "Shopify此前宣布与Meta的Muse合作，提供AI-powered购物与结账。"
               },
               {
                 "t": "p",
-                "x": "Google向ADWEEK证实，正在AI Mode和AI Overviews中测试品牌处方药广告，将其AI搜索平台向广告业监管最严格的品类之一开放。"
+                "x": "更多AI代理很快就能浏览并购买Shopify上的商品，这标志着该公司代理式商务布局的扩展。"
               },
               {
                 "t": "p",
-                "x": "据Google发言人介绍，包括处方药在内的医药产品测试于本月启动，仅限U.S。医药广告主可投放标准文字广告和Shopping广告，这些广告将出现在标有“Sponsored”的区域。"
+                "x": "Shopify周二宣布，将允许购物者设置自己的AI代理代为购买商品，让更多代理接触到Shopify目录中逾十亿件商品，其中包括Shopify店面内外的商品。九月，Shopify与Meta合作，让其Muse代理代人购物；如今，购物者无需合作集成即可使用任何代理。"
               },
               {
                 "t": "p",
-                "x": "Google发言人在声明中表示：“我们正在AI Mode和AI Overviews中测试标准文字广告和Shopping广告，最近已将范围扩大到部分医药产品。”"
+                "x": "顾客将代理连接到自己的Shop账户，并在对话中通过one-click Shop Pay完成结账。订单会回流到Shop应用。Shopify将这项功能定位为“私人购物顾问”，可遵循预算上限或仅限快速配送等规则。每笔购买都需买家批准。"
+              },
+              {
+                "t": "p",
+                "x": "E-commerce已成为AI的主战场之一：Google和Amazon都在投资代理购物工具，而Amazon正就代理是否应代客户购物，与Perplexity以及最近的Meta旗下Muse展开交锋。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google abre AI Mode a los\nanuncios de fármacos con receta",
-          "body": "Google prueba desde este mes anuncios de fármacos con receta en AI Mode, una categoría muy regulada.",
-          "mini_headline": "Los anuncios Rx llegan a Google AI Mode",
+          "headline": "Shopify abre su catálogo\na más agentes de compra de AI",
+          "body": "Shopify ahora permite conectar cualquier agente de AI para comprar en su catálogo de más de mil millones de productos.",
+          "mini_headline": "Shopify se abre a agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-                "cap": "John Keeble via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+                "cap": "Shopify ya había anunciado una alianza con Muse, de Meta, para compras y pagos AI-powered."
               },
               {
                 "t": "p",
-                "x": "Google está probando anuncios de medicamentos de marca con receta en AI Mode y AI Overviews, con lo que abre su plataforma de búsqueda con AI a una de las categorías más reguladas de la publicidad, según confirmó la compañía a ADWEEK."
+                "x": "Más agentes de AI podrán pronto explorar y comprar productos de Shopify, lo que supone una ampliación de las ambiciones de la empresa en el comercio agéntico."
               },
               {
                 "t": "p",
-                "x": "Las pruebas con productos farmacéuticos, incluidos los medicamentos con receta, comenzaron este mes y se limitan a U.S, según un portavoz de Google. Los anunciantes farmacéuticos pueden publicar anuncios de texto estándar y de Shopping, que aparecerán en secciones etiquetadas como “Sponsored”."
+                "x": "Shopify anunció el martes que permitirá a los compradores configurar sus agentes de AI para que compren productos en su nombre, lo que da a más agentes acceso a más de mil millones de productos de su catálogo, que incluye artículos dentro y fuera de las tiendas de Shopify. En septiembre, Shopify se alió con Meta para que su agente Muse comprara en nombre de una persona; ahora, los compradores pueden usar cualquier agente sin una integración de alianza."
               },
               {
                 "t": "p",
-                "x": "“Estamos probando anuncios de texto estándar y de Shopping en AI Mode y AI Overviews, que recientemente ampliamos para incluir ciertos productos farmacéuticos”, dijo un portavoz de Google en un comunicado."
+                "x": "Los clientes conectan un agente a su cuenta de Shop y pagan dentro de la conversación con el pago one-click de Shop Pay. Los pedidos vuelven a la app Shop. Shopify presenta la función como un “personal shopper” que puede seguir reglas como límites de presupuesto o solo envíos rápidos. Los compradores deben aprobar cada compra."
+              },
+              {
+                "t": "p",
+                "x": "El E-commerce se ha convertido en uno de los campos de batalla de la AI: Google y Amazon invierten en herramientas de compra con agentes, y Amazon se enfrenta a Perplexity y, más recientemente, a Muse, de Meta, sobre si los agentes deberían comprar en nombre de los clientes."
               }
             ]
           }
@@ -175,109 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google AI Mode\n처방약 광고 연다",
-          "body": "Google이 이달 AI Mode에서 규제가 엄격한 처방약 광고 시험에 나섰다.",
-          "mini_headline": "Rx 광고, Google AI Mode 진입",
+          "headline": "Shopify, 카탈로그를\nAI 쇼핑 에이전트에 개방",
+          "body": "Shopify는 어떤 AI 에이전트로도 십억 개 넘는 상품을 살 수 있게 했다.",
+          "mini_headline": "Shopify, AI 에이전트에 개방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-                "cap": "John Keeble via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+                "cap": "Shopify는 앞서 AI-powered 쇼핑과 결제를 위해 Meta의 Muse와 제휴한다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "Google이 AI Mode와 AI Overviews에서 브랜드 처방약 광고를 시험하고 있다고 ADWEEK에 확인했다. 광고 업계에서 규제가 가장 엄격한 범주 가운데 하나에 AI 검색 플랫폼을 여는 셈이다."
+                "x": "더 많은 AI 에이전트가 곧 Shopify 상품을 둘러보고 구매할 수 있게 된다. 에이전트 커머스를 향한 회사의 구상이 한층 넓어지는 셈이다."
               },
               {
                 "t": "p",
-                "x": "Google 대변인에 따르면 처방약을 포함한 의약품 광고 시험은 이달 시작됐고 U.S에 한정된다. 제약 광고주는 일반 텍스트 광고와 Shopping 광고를 집행할 수 있으며, 이 광고는 “Sponsored” 표시가 붙은 영역에 노출된다."
+                "x": "Shopify는 화요일, 쇼핑객이 자신의 AI 에이전트를 설정해 대신 상품을 사게 할 수 있다고 발표했다. 이로써 더 많은 에이전트가 Shopify 스토어프런트 안팎의 상품을 아우르는 Shopify 카탈로그의 십억 개 넘는 상품에 접근한다. Shopify는 지난 구월 Meta와 손잡고 Muse 에이전트가 사람을 대신해 구매하도록 했는데, 이제는 제휴 연동 없이도 어떤 에이전트든 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Google 대변인은 성명에서 “AI Mode와 AI Overviews에서 일반 텍스트 광고와 Shopping 광고를 시험하고 있으며, 최근 일부 의약품까지 범위를 넓혔다”고 밝혔다."
+                "x": "고객은 Shop 계정에 에이전트를 연결하고, one-click Shop Pay로 대화 안에서 바로 결제한다. 주문은 다시 Shop 앱으로 모인다. Shopify는 이 기능을 예산 한도나 빠른 배송만 같은 규칙을 따르는 “퍼스널 쇼퍼”로 내세운다. 구매자는 구매 건마다 승인해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "전자상거래(E-commerce)는 AI의 격전지 가운데 하나가 됐다. Google과 Amazon은 에이전트 쇼핑 도구에 투자하고 있고, Amazon은 에이전트가 고객 대신 쇼핑해도 되는지를 두고 Perplexity, 최근에는 Meta의 Muse와도 다투고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AI Mode\n処方薬広告を解禁",
-          "body": "Googleは今月、AI Modeで規制の厳しい処方薬広告のテストを始めた。",
-          "mini_headline": "Rx広告がGoogle AI Modeへ",
+          "headline": "Shopify、カタログを\nAIエージェントに開放",
+          "body": "Shopifyは任意のAIエージェントで十億件超の商品を買えるようにした。",
+          "mini_headline": "Shopify、AIエージェントに開放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-                "cap": "John Keeble via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+                "cap": "Shopifyは以前、AI-poweredの買い物と決済に向けてMetaのMuseとの提携を発表している。"
               },
               {
                 "t": "p",
-                "x": "GoogleはAI ModeとAI Overviewsでブランド処方薬の広告をテストしている。広告で最も規制が厳しいカテゴリーの一つにAI検索プラットフォームを開く動きで、同社がADWEEKに認めた。"
+                "x": "より多くのAIエージェントが、まもなくShopifyの商品を閲覧・購入できるようになる。同社のエージェント型コマース構想が広がることを意味する。"
               },
               {
                 "t": "p",
-                "x": "Googleの広報担当者によると、処方薬を含む医薬品のテストは今月始まり、U.Sに限定される。製薬広告主は通常のテキスト広告とShopping広告を出稿でき、広告は「Sponsored」と表示された枠に掲載される。"
+                "x": "Shopifyは火曜日、買い物客が自分のAIエージェントを設定して代わりに商品を購入させられるようにすると発表した。これにより、Shopifyのストア内外の商品を含む同社カタログの十億件を超える商品に、より多くのエージェントがアクセスできる。Shopifyは九月にMetaと提携し、Museエージェントが人に代わって購入できるようにしたが、今後は提携による連携がなくてもどのエージェントでも使える。"
               },
               {
                 "t": "p",
-                "x": "Googleの広報担当者は声明で「AI ModeとAI Overviewsで通常のテキスト広告とShopping広告をテストしており、最近これを一部の医薬品にも広げた」と述べた。"
+                "x": "顧客はShopのアカウントにエージェントを接続し、one-clickのShop Payで会話の中で決済を済ませる。注文はShopアプリに集約される。Shopifyはこの機能を、予算の上限や速い配送のみといったルールに従える「パーソナルショッパー」として打ち出している。購入者は購入ごとに承認する必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "E-commerceはAIの主戦場の一つになった。GoogleとAmazonはエージェント型ショッピングツールに投資し、Amazonはエージェントが顧客に代わって買い物をしてよいかをめぐり、Perplexity、さらに最近ではMetaのMuseと争っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI Mode\n向处方药广告开放",
-          "body": "Google本月起在AI Mode测试处方药广告，把强监管品类引入AI回答。",
-          "mini_headline": "Rx 广告进入 Google AI Mode",
+          "headline": "Shopify开放商品目录\n给更多AI购物代理",
+          "body": "Shopify现允许购物者接入任意AI代理，从其逾十亿件商品目录中购物。",
+          "mini_headline": "Shopify向AI代理开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-                "cap": "John Keeble via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+                "cap": "Shopify此前宣布与Meta的Muse合作，提供AI-powered购物与结账。"
               },
               {
                 "t": "p",
-                "x": "Google向ADWEEK证实，正在AI Mode和AI Overviews中测试品牌处方药广告，将其AI搜索平台向广告业监管最严格的品类之一开放。"
+                "x": "更多AI代理很快就能浏览并购买Shopify上的商品，这标志着该公司代理式商务布局的扩展。"
               },
               {
                 "t": "p",
-                "x": "据Google发言人介绍，包括处方药在内的医药产品测试于本月启动，仅限U.S。医药广告主可投放标准文字广告和Shopping广告，这些广告将出现在标有“Sponsored”的区域。"
+                "x": "Shopify周二宣布，将允许购物者设置自己的AI代理代为购买商品，让更多代理接触到Shopify目录中逾十亿件商品，其中包括Shopify店面内外的商品。九月，Shopify与Meta合作，让其Muse代理代人购物；如今，购物者无需合作集成即可使用任何代理。"
               },
               {
                 "t": "p",
-                "x": "Google发言人在声明中表示：“我们正在AI Mode和AI Overviews中测试标准文字广告和Shopping广告，最近已将范围扩大到部分医药产品。”"
+                "x": "顾客将代理连接到自己的Shop账户，并在对话中通过one-click Shop Pay完成结账。订单会回流到Shop应用。Shopify将这项功能定位为“私人购物顾问”，可遵循预算上限或仅限快速配送等规则。每笔购买都需买家批准。"
+              },
+              {
+                "t": "p",
+                "x": "E-commerce已成为AI的主战场之一：Google和Amazon都在投资代理购物工具，而Amazon正就代理是否应代客户购物，与Perplexity以及最近的Meta旗下Muse展开交锋。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google abre AI Mode a los\nanuncios de fármacos con receta",
-          "body": "Google prueba desde este mes anuncios de fármacos con receta en AI Mode, una categoría muy regulada.",
-          "mini_headline": "Los anuncios Rx llegan a Google AI Mode",
+          "headline": "Shopify abre su catálogo\na más agentes de compra de AI",
+          "body": "Shopify ahora permite conectar cualquier agente de AI para comprar en su catálogo de más de mil millones de productos.",
+          "mini_headline": "Shopify se abre a agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
-                "cap": "John Keeble via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+                "cap": "Shopify ya había anunciado una alianza con Muse, de Meta, para compras y pagos AI-powered."
               },
               {
                 "t": "p",
-                "x": "Google está probando anuncios de medicamentos de marca con receta en AI Mode y AI Overviews, con lo que abre su plataforma de búsqueda con AI a una de las categorías más reguladas de la publicidad, según confirmó la compañía a ADWEEK."
+                "x": "Más agentes de AI podrán pronto explorar y comprar productos de Shopify, lo que supone una ampliación de las ambiciones de la empresa en el comercio agéntico."
               },
               {
                 "t": "p",
-                "x": "Las pruebas con productos farmacéuticos, incluidos los medicamentos con receta, comenzaron este mes y se limitan a U.S, según un portavoz de Google. Los anunciantes farmacéuticos pueden publicar anuncios de texto estándar y de Shopping, que aparecerán en secciones etiquetadas como “Sponsored”."
+                "x": "Shopify anunció el martes que permitirá a los compradores configurar sus agentes de AI para que compren productos en su nombre, lo que da a más agentes acceso a más de mil millones de productos de su catálogo, que incluye artículos dentro y fuera de las tiendas de Shopify. En septiembre, Shopify se alió con Meta para que su agente Muse comprara en nombre de una persona; ahora, los compradores pueden usar cualquier agente sin una integración de alianza."
               },
               {
                 "t": "p",
-                "x": "“Estamos probando anuncios de texto estándar y de Shopping en AI Mode y AI Overviews, que recientemente ampliamos para incluir ciertos productos farmacéuticos”, dijo un portavoz de Google en un comunicado."
+                "x": "Los clientes conectan un agente a su cuenta de Shop y pagan dentro de la conversación con el pago one-click de Shop Pay. Los pedidos vuelven a la app Shop. Shopify presenta la función como un “personal shopper” que puede seguir reglas como límites de presupuesto o solo envíos rápidos. Los compradores deben aprobar cada compra."
+              },
+              {
+                "t": "p",
+                "x": "El E-commerce se ha convertido en uno de los campos de batalla de la AI: Google y Amazon invierten en herramientas de compra con agentes, y Amazon se enfrenta a Perplexity y, más recientemente, a Muse, de Meta, sobre si los agentes deberían comprar en nombre de los clientes."
               }
             ]
           }
@@ -285,391 +325,311 @@
       }
     },
     {
-      "id": "marketing-google-ads-ai-goals-assets",
+      "id": "marketing-amex-agent-purchase-intent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google Ads 목표\nAI-suggested로",
-      "body": "Google Ads에서 AI가 캠페인 목표와 애셋을 제안하는 테스트가 돌고 있다.",
-      "mini_headline": "Google Ads, AI가 목표 제안",
+      "headline": "Amex, AI 에이전트\n구매에 확인 장치",
+      "body": "Amex 새 체계는 AI 에이전트 결제 전 카드 회원의 구매 의도를 검증한다.",
+      "mini_headline": "Amex, 에이전트 결제에 안전장치",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
           },
           {
             "t": "p",
-            "x": "Google이 AI로 Google Ads 캠페인의 목표와 애셋을 제안하는 기능을 시험한다. Google도 현재 진행 중인 테스트라고 확인했다."
+            "x": "American Express는 AI 에이전트가 거래를 마치기 전에 고객의 구매 의도를 포착하고 인증하는 프레임워크를 도입한다. 이름은 “Intent Intelligence Framework”로, 회사는 이것이 AI-powered 거래의 업계 표준이 되길 바란다."
           },
           {
             "t": "p",
-            "x": "Dima가 올린 Google Ads 광고주 콘솔 스크린샷에는 \"What's your goal for this campaign?\"라는 문구와 함께 \"Google AI will suggest goals and assets based on your input\"이라는 안내가 보인다. Dima는 이 스크린샷을 X에 게시했다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+            "x": "출발점은 Create Intent API다. 가맹점 이름과 최대 예산 같은 고객의 구매 지시와 제약 조건을 이 API에 담는다. 고객이 인증하고 승인하면 Intent ID와 Proof of Intent Token이 만들어진다. 이 토큰으로 보안 결제 자격 증명을 받으면 에이전트는 실제 카드 번호 대신 그 자격 증명으로 결제한다."
           },
           {
             "t": "p",
-            "x": "큰 입력란에 목표를 적으면 된다. 원치 않으면 \"Create campaign manually.\" 링크를 눌러 직접 만들면 된다."
+            "x": "Amex의 Agentic Partnerships and Strategy 담당 VP인 Hannah Bozian은 “우리 방식은 의도를 거래 흐름의 더 앞 단계로 끌어온다는 점에서 다른 곳의 구현과 다르다”고 말했다. 이를테면 고객이 9 사이즈 흰색 Nike 운동화를 요청했는데 에이전트가 Adidas를 사려 하면 Amex가 거래를 막을 수 있다."
           },
           {
             "t": "p",
-            "x": "Google의 Ads Liaison인 Ginny Marvin은 X에서 테스트가 맞다고 확인하며 \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\"라고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "짐작하겠지만 Google은 곳곳에 AI를 밀어 넣는 중이다."
+            "x": "Amex는 에이전트 커머스 탓에 분쟁이 늘어난 일은 아직 없다고 밝혔다. 프레임워크는 지난 사월 나온 ACE Developer Toolkit에 합류한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Ads tests AI-suggested\ngoals and campaign assets",
-          "body": "Google has confirmed a test in which AI suggests goals and assets for advertisers' Google Ads campaigns.",
-          "mini_headline": "Google Ads AI suggests goals",
+          "headline": "Amex sets a check on\nAI agent purchases",
+          "body": "Amex's new framework captures and verifies a cardholder's purchase intent before an AI agent completes checkout.",
+          "mini_headline": "Amex guards agent checkout",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
               },
               {
                 "t": "p",
-                "x": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test."
+                "x": "American Express is introducing a framework designed to capture and authenticate a customer’s purchase intent before an AI agent completes the transaction. Dubbed the “Intent Intelligence Framework,” the company hopes it will become an industry standard for AI-powered transactions."
               },
               {
                 "t": "p",
-                "x": "Dima posted a screenshot from the Google Ads advertiser console that says \"What's your goal for this campaign?\" \"Google AI will suggest goals and assets based on your input,\" it also says. Dima posted this screenshot on X:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+                "x": "It starts with a Create Intent API that captures the customer’s purchase instructions and constraints, like the merchant’s name and maximum budget. The customer authenticates and signs off, then an Intent ID and a Proof of Intent Token are created. The token is used to obtain a secure payment credential the agent uses at checkout instead of the actual card number."
               },
               {
                 "t": "p",
-                "x": "In the large box, you describe your goal and if you don't want to do that, you can click on the link to \"Create campaign manually.\""
+                "x": "“Our approach differs from the implementations of others in that it pulls intent earlier into the transaction flow,” said Hannah Bozian, Amex’s VP of Agentic Partnerships and Strategy. If a customer asks for white Nike sneakers in size 9 but the agent tries to buy Adidas, Amex could stop the transaction."
               },
               {
                 "t": "p",
-                "x": "Ginny Marvin, Google's Ads Liaison, confirmed this is a test and said on X, \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\""
-              },
-              {
-                "t": "p",
-                "x": "Google is shoving AI everywhere, as you can imagine."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Adsが試す\nAI-suggested目標",
-          "body": "GoogleはGoogle AdsでAI-suggestedの目標・アセットを試験中だ。",
-          "mini_headline": "Google AdsのAIが目標を提案",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
-              },
-              {
-                "t": "p",
-                "x": "GoogleはAIを使い、Google Adsキャンペーンの目標とアセットを提案する機能をテストしている。Googleはこれが現在実施中のテストだと認めた。"
-              },
-              {
-                "t": "p",
-                "x": "DimaはGoogle Adsの広告主コンソールのスクリーンショットを投稿した。画面には\"What's your goal for this campaign?\"(このキャンペーンの目標は?)とあり、\"Google AI will suggest goals and assets based on your input\"(入力内容に基づきGoogle AIが目標とアセットを提案します)とも書かれている。DimaはこのスクリーンショットをXに投稿した:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
-              },
-              {
-                "t": "p",
-                "x": "大きな入力欄に目標を記述する。それを望まない場合は\"Create campaign manually\"(キャンペーンを手動で作成)のリンクをクリックすればよい。"
-              },
-              {
-                "t": "p",
-                "x": "GoogleのAds LiaisonであるGinny MarvinはXでテストであることを認め、\"これは実験だ。この種のワークフローがどこで、どのように役立つか、広告主からのフィードバックを歓迎する\"と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "想像のとおり、GoogleはあらゆるところにAIを押し込んでいる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google Ads测试\nAI-suggested目标",
-          "body": "Google证实正在Google Ads测试AI-suggested目标和素材。",
-          "mini_headline": "Google Ads AI 建议目标",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google正在测试用AI为你的Google Ads广告系列生成建议目标和素材。Google已证实这是一项正在进行的测试。"
-              },
-              {
-                "t": "p",
-                "x": "Dima发布了一张Google Ads广告主控制台的截图，上面写着\"What's your goal for this campaign?\"（这个广告系列的目标是什么？），还写着\"Google AI will suggest goals and assets based on your input\"（Google AI将根据你的输入建议目标和素材）。Dima把这张截图发在了X上："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在大输入框中描述你的目标；如果不想这样做，可以点击\"Create campaign manually\"（手动创建广告系列）链接。"
-              },
-              {
-                "t": "p",
-                "x": "Google广告联络人（Ads Liaison）Ginny Marvin在X上确认这是一项测试，并表示：\"这是一项实验。我们欢迎广告主就这类工作流在何处、以何种方式能派上用场提供反馈。\""
-              },
-              {
-                "t": "p",
-                "x": "可以想见，Google正在把AI塞进各个角落。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Ads prueba objetivos\ny recursos AI-suggested",
-          "body": "Google confirmó que prueba objetivos y recursos AI-suggested para las campañas de Google Ads.",
-          "mini_headline": "Google Ads: la AI sugiere objetivos",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google está probando el uso de AI para proponer objetivos y recursos sugeridos para tus campañas de Google Ads. Google confirmó que se trata de una prueba en curso."
-              },
-              {
-                "t": "p",
-                "x": "Dima publicó una captura de pantalla de la consola de anunciantes de Google Ads que dice \"What's your goal for this campaign?\" (¿Cuál es tu objetivo para esta campaña?). \"Google AI will suggest goals and assets based on your input\" (Google AI sugerirá objetivos y recursos según lo que indiques), dice también. Dima publicó esta captura en X:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En el recuadro grande se describe el objetivo y, si no se quiere hacer eso, se puede hacer clic en el enlace \"Create campaign manually\" (Crear campaña manualmente)."
-              },
-              {
-                "t": "p",
-                "x": "Ginny Marvin, Ads Liaison de Google, confirmó que se trata de una prueba y dijo en X: \"esto es un experimento. Agradecemos los comentarios de los anunciantes sobre cómo y dónde sería útil este tipo de flujo de trabajo\"."
-              },
-              {
-                "t": "p",
-                "x": "Google está metiendo AI en todas partes, como cabe imaginar."
+                "x": "Amex said it has not yet seen more disputes from agentic commerce. The framework joins its ACE Developer Toolkit, launched in April."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Ads 목표\nAI-suggested로",
-          "body": "Google Ads에서 AI가 캠페인 목표와 애셋을 제안하는 테스트가 돌고 있다.",
-          "mini_headline": "Google Ads, AI가 목표 제안",
+          "headline": "Amex, AI 에이전트\n구매에 확인 장치",
+          "body": "Amex 새 체계는 AI 에이전트 결제 전 카드 회원의 구매 의도를 검증한다.",
+          "mini_headline": "Amex, 에이전트 결제에 안전장치",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
               },
               {
                 "t": "p",
-                "x": "Google이 AI로 Google Ads 캠페인의 목표와 애셋을 제안하는 기능을 시험한다. Google도 현재 진행 중인 테스트라고 확인했다."
+                "x": "American Express는 AI 에이전트가 거래를 마치기 전에 고객의 구매 의도를 포착하고 인증하는 프레임워크를 도입한다. 이름은 “Intent Intelligence Framework”로, 회사는 이것이 AI-powered 거래의 업계 표준이 되길 바란다."
               },
               {
                 "t": "p",
-                "x": "Dima가 올린 Google Ads 광고주 콘솔 스크린샷에는 \"What's your goal for this campaign?\"라는 문구와 함께 \"Google AI will suggest goals and assets based on your input\"이라는 안내가 보인다. Dima는 이 스크린샷을 X에 게시했다."
+                "x": "출발점은 Create Intent API다. 가맹점 이름과 최대 예산 같은 고객의 구매 지시와 제약 조건을 이 API에 담는다. 고객이 인증하고 승인하면 Intent ID와 Proof of Intent Token이 만들어진다. 이 토큰으로 보안 결제 자격 증명을 받으면 에이전트는 실제 카드 번호 대신 그 자격 증명으로 결제한다."
               },
+              {
+                "t": "p",
+                "x": "Amex의 Agentic Partnerships and Strategy 담당 VP인 Hannah Bozian은 “우리 방식은 의도를 거래 흐름의 더 앞 단계로 끌어온다는 점에서 다른 곳의 구현과 다르다”고 말했다. 이를테면 고객이 9 사이즈 흰색 Nike 운동화를 요청했는데 에이전트가 Adidas를 사려 하면 Amex가 거래를 막을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Amex는 에이전트 커머스 탓에 분쟁이 늘어난 일은 아직 없다고 밝혔다. 프레임워크는 지난 사월 나온 ACE Developer Toolkit에 합류한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Amex、AIエージェント\nの購入に確認の仕組み",
+          "body": "Amexの新枠組みは、AIエージェントの決済前にカード会員の購入意図を検証する。",
+          "mini_headline": "Amex、エージェント決済を保護",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
               },
               {
                 "t": "p",
-                "x": "큰 입력란에 목표를 적으면 된다. 원치 않으면 \"Create campaign manually.\" 링크를 눌러 직접 만들면 된다."
+                "x": "American Expressは、AIエージェントが取引を完了する前に顧客の購入意図を捕捉・認証するフレームワークを導入する。「Intent Intelligence Framework」と名付けられ、同社はAI-poweredな取引の業界標準になることを期待している。"
               },
               {
                 "t": "p",
-                "x": "Google의 Ads Liaison인 Ginny Marvin은 X에서 테스트가 맞다고 확인하며 \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\"라고 밝혔다."
+                "x": "起点となるのはCreate Intent APIで、加盟店名や予算上限といった顧客の購入指示と制約条件を取り込む。顧客が認証して承認すると、Intent IDとProof of Intent Tokenが生成される。このトークンで安全な決済用クレデンシャルを取得し、エージェントは実際のカード番号の代わりにそれを決済時に使う。"
               },
               {
                 "t": "p",
-                "x": "짐작하겠지만 Google은 곳곳에 AI를 밀어 넣는 중이다."
+                "x": "「当社のアプローチは、意図を取引フローのより早い段階に取り込む点で他社の実装と異なる」と、AmexのAgentic Partnerships and Strategy担当VP、Hannah Bozian氏は述べた。顧客がサイズ9の白いNikeのスニーカーを頼んだのに、エージェントがAdidasを買おうとすれば、Amexは取引を止められる。"
+              },
+              {
+                "t": "p",
+                "x": "Amexによると、エージェント型コマースによる紛争の増加はまだ見られないという。このフレームワークは、四月に公開されたACE Developer Toolkitに加わる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Amex为AI代理购物\n设下核验关卡",
+          "body": "Amex新框架会在AI代理完成结账前，捕捉并验证持卡人的购买意图。",
+          "mini_headline": "Amex为代理结账把关",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+              },
+              {
+                "t": "p",
+                "x": "American Express正推出一套框架，用于在AI代理完成交易前捕捉并认证客户的购买意图。该框架名为“Intent Intelligence Framework”，公司希望它成为AI-powered交易的行业标准。"
+              },
+              {
+                "t": "p",
+                "x": "流程从Create Intent API开始，它记录客户的购买指令与限制条件，例如商户名称和最高预算。客户完成认证并确认后，系统生成Intent ID和Proof of Intent Token。该令牌用于获取安全支付凭证，代理在结账时用它代替真实卡号。"
+              },
+              {
+                "t": "p",
+                "x": "“我们的方法与其他公司的实现不同，它把意图更早地纳入交易流程，”Amex负责Agentic Partnerships and Strategy的VP Hannah Bozian表示。如果客户要的是9码白色Nike运动鞋，而代理试图购买Adidas，Amex可以拦下这笔交易。"
+              },
+              {
+                "t": "p",
+                "x": "Amex表示，尚未看到代理式商务带来更多争议。该框架将并入其四月推出的ACE Developer Toolkit。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Amex pone un control a las\ncompras de agentes de AI",
+          "body": "El nuevo marco de Amex capta y verifica la intención de compra del titular antes de que un agente de AI pague.",
+          "mini_headline": "Amex protege el pago con agentes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+              },
+              {
+                "t": "p",
+                "x": "American Express presenta un marco diseñado para captar y autenticar la intención de compra de un cliente antes de que un agente de AI complete la transacción. Bautizado como “Intent Intelligence Framework”, la compañía espera que se convierta en un estándar del sector para las transacciones AI-powered."
+              },
+              {
+                "t": "p",
+                "x": "Todo empieza con una Create Intent API que recoge las instrucciones y restricciones de compra del cliente, como el nombre del comercio y el presupuesto máximo. El cliente se autentica y da su aprobación, y entonces se crean un Intent ID y un Proof of Intent Token. El token sirve para obtener una credencial de pago segura que el agente usa al pagar en lugar del número real de la tarjeta."
+              },
+              {
+                "t": "p",
+                "x": "“Nuestro enfoque se diferencia de las implementaciones de otros en que adelanta la intención dentro del flujo de la transacción”, dijo Hannah Bozian, VP de Agentic Partnerships and Strategy de Amex. Si un cliente pide zapatillas Nike blancas de la talla 9 pero el agente intenta comprar Adidas, Amex podría detener la transacción."
+              },
+              {
+                "t": "p",
+                "x": "Amex afirmó que aún no ha visto más disputas derivadas del comercio agéntico. El marco se suma a su ACE Developer Toolkit, lanzado en abril."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "Google Adsが試す\nAI-suggested目標",
-          "body": "GoogleはGoogle AdsでAI-suggestedの目標・アセットを試験中だ。",
-          "mini_headline": "Google AdsのAIが目標を提案",
+        "ko": {
+          "headline": "Amex, AI 에이전트\n구매에 확인 장치",
+          "body": "Amex 새 체계는 AI 에이전트 결제 전 카드 회원의 구매 의도를 검증한다.",
+          "mini_headline": "Amex, 에이전트 결제에 안전장치",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
               },
               {
                 "t": "p",
-                "x": "GoogleはAIを使い、Google Adsキャンペーンの目標とアセットを提案する機能をテストしている。Googleはこれが現在実施中のテストだと認めた。"
+                "x": "American Express가 AI 에이전트가 거래를 마치기 전에 고객의 구매 의도를 포착하고 인증하는 프레임워크를 도입한다. 이름은 “Intent Intelligence Framework”이며, 회사는 이것이 AI-powered 거래의 업계 표준이 되기를 기대한다."
               },
               {
                 "t": "p",
-                "x": "DimaはGoogle Adsの広告主コンソールのスクリーンショットを投稿した。画面には\"What's your goal for this campaign?\"(このキャンペーンの目標は?)とあり、\"Google AI will suggest goals and assets based on your input\"(入力内容に基づきGoogle AIが目標とアセットを提案します)とも書かれている。DimaはこのスクリーンショットをXに投稿した:"
+                "x": "출발점은 Create Intent API다. 이 API는 가맹점 이름과 최대 예산 같은 고객의 구매 지시와 제약 조건을 담는다. 고객이 인증하고 승인하면 Intent ID와 Proof of Intent Token이 만들어진다. 이 토큰으로 보안 결제 자격 증명을 받고, 에이전트는 실제 카드 번호 대신 이 자격 증명을 결제에 쓴다."
               },
+              {
+                "t": "p",
+                "x": "Amex의 Agentic Partnerships and Strategy 담당 VP인 Hannah Bozian은 “우리 방식은 의도를 거래 흐름의 더 앞 단계로 끌어온다는 점에서 다른 곳의 구현과 다르다”고 말했다. 고객이 9 사이즈 흰색 Nike 운동화를 요청했는데 에이전트가 Adidas를 사려 하면 Amex가 거래를 막을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Amex는 에이전트 커머스로 인한 분쟁이 아직 늘지는 않았다고 밝혔다. 이 프레임워크는 지난 사월 출시한 ACE Developer Toolkit에 합류한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Amex、AIエージェント\nの購入に確認の仕組み",
+          "body": "Amexの新枠組みは、AIエージェントの決済前にカード会員の購入意図を検証する。",
+          "mini_headline": "Amex、エージェント決済を保護",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
               },
               {
                 "t": "p",
-                "x": "大きな入力欄に目標を記述する。それを望まない場合は\"Create campaign manually\"(キャンペーンを手動で作成)のリンクをクリックすればよい。"
+                "x": "American Expressは、AIエージェントが取引を完了する前に顧客の購入意図を捕捉・認証するフレームワークを導入する。「Intent Intelligence Framework」と名付けられ、同社はAI-poweredな取引の業界標準になることを期待している。"
               },
               {
                 "t": "p",
-                "x": "GoogleのAds LiaisonであるGinny MarvinはXでテストであることを認め、\"これは実験だ。この種のワークフローがどこで、どのように役立つか、広告主からのフィードバックを歓迎する\"と述べた。"
+                "x": "起点となるのはCreate Intent APIで、加盟店名や予算上限といった顧客の購入指示と制約条件を取り込む。顧客が認証して承認すると、Intent IDとProof of Intent Tokenが生成される。このトークンで安全な決済用クレデンシャルを取得し、エージェントは実際のカード番号の代わりにそれを決済時に使う。"
               },
               {
                 "t": "p",
-                "x": "想像のとおり、GoogleはあらゆるところにAIを押し込んでいる。"
+                "x": "「当社のアプローチは、意図を取引フローのより早い段階に取り込む点で他社の実装と異なる」と、AmexのAgentic Partnerships and Strategy担当VP、Hannah Bozian氏は述べた。顧客がサイズ9の白いNikeのスニーカーを頼んだのに、エージェントがAdidasを買おうとすれば、Amexは取引を止められる。"
+              },
+              {
+                "t": "p",
+                "x": "Amexによると、エージェント型コマースによる紛争の増加はまだ見られないという。このフレームワークは、四月に公開されたACE Developer Toolkitに加わる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads测试\nAI-suggested目标",
-          "body": "Google证实正在Google Ads测试AI-suggested目标和素材。",
-          "mini_headline": "Google Ads AI 建议目标",
+          "headline": "Amex为AI代理购物\n设下核验关卡",
+          "body": "Amex新框架会在AI代理完成结账前，捕捉并验证持卡人的购买意图。",
+          "mini_headline": "Amex为代理结账把关",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
               },
               {
                 "t": "p",
-                "x": "Google正在测试用AI为你的Google Ads广告系列生成建议目标和素材。Google已证实这是一项正在进行的测试。"
+                "x": "American Express正推出一套框架，用于在AI代理完成交易前捕捉并认证客户的购买意图。该框架名为“Intent Intelligence Framework”，公司希望它成为AI-powered交易的行业标准。"
               },
               {
                 "t": "p",
-                "x": "Dima发布了一张Google Ads广告主控制台的截图，上面写着\"What's your goal for this campaign?\"（这个广告系列的目标是什么？），还写着\"Google AI will suggest goals and assets based on your input\"（Google AI将根据你的输入建议目标和素材）。Dima把这张截图发在了X上："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+                "x": "流程从Create Intent API开始，它记录客户的购买指令与限制条件，例如商户名称和最高预算。客户完成认证并确认后，系统生成Intent ID和Proof of Intent Token。该令牌用于获取安全支付凭证，代理在结账时用它代替真实卡号。"
               },
               {
                 "t": "p",
-                "x": "在大输入框中描述你的目标；如果不想这样做，可以点击\"Create campaign manually\"（手动创建广告系列）链接。"
+                "x": "“我们的方法与其他公司的实现不同，它把意图更早地纳入交易流程，”Amex负责Agentic Partnerships and Strategy的VP Hannah Bozian表示。如果客户要的是9码白色Nike运动鞋，而代理试图购买Adidas，Amex可以拦下这笔交易。"
               },
               {
                 "t": "p",
-                "x": "Google广告联络人（Ads Liaison）Ginny Marvin在X上确认这是一项测试，并表示：\"这是一项实验。我们欢迎广告主就这类工作流在何处、以何种方式能派上用场提供反馈。\""
-              },
-              {
-                "t": "p",
-                "x": "可以想见，Google正在把AI塞进各个角落。"
+                "x": "Amex表示，尚未看到代理式商务带来更多争议。该框架将并入其四月推出的ACE Developer Toolkit。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads prueba objetivos\ny recursos AI-suggested",
-          "body": "Google confirmó que prueba objetivos y recursos AI-suggested para las campañas de Google Ads.",
-          "mini_headline": "Google Ads: la AI sugiere objetivos",
+          "headline": "Amex pone un control a las\ncompras de agentes de AI",
+          "body": "El nuevo marco de Amex capta y verifica la intención de compra del titular antes de que un agente de AI pague.",
+          "mini_headline": "Amex protege el pago con agentes",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
               },
               {
                 "t": "p",
-                "x": "Google está probando el uso de AI para proponer objetivos y recursos sugeridos para tus campañas de Google Ads. Google confirmó que se trata de una prueba en curso."
+                "x": "American Express presenta un marco diseñado para captar y autenticar la intención de compra de un cliente antes de que un agente de AI complete la transacción. Bautizado como “Intent Intelligence Framework”, la compañía espera que se convierta en un estándar del sector para las transacciones AI-powered."
               },
               {
                 "t": "p",
-                "x": "Dima publicó una captura de pantalla de la consola de anunciantes de Google Ads que dice \"What's your goal for this campaign?\" (¿Cuál es tu objetivo para esta campaña?). \"Google AI will suggest goals and assets based on your input\" (Google AI sugerirá objetivos y recursos según lo que indiques), dice también. Dima publicó esta captura en X:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
+                "x": "Todo empieza con una Create Intent API que recoge las instrucciones y restricciones de compra del cliente, como el nombre del comercio y el presupuesto máximo. El cliente se autentica y da su aprobación, y entonces se crean un Intent ID y un Proof of Intent Token. El token sirve para obtener una credencial de pago segura que el agente usa al pagar en lugar del número real de la tarjeta."
               },
               {
                 "t": "p",
-                "x": "En el recuadro grande se describe el objetivo y, si no se quiere hacer eso, se puede hacer clic en el enlace \"Create campaign manually\" (Crear campaña manualmente)."
+                "x": "“Nuestro enfoque se diferencia de las implementaciones de otros en que adelanta la intención dentro del flujo de la transacción”, dijo Hannah Bozian, VP de Agentic Partnerships and Strategy de Amex. Si un cliente pide zapatillas Nike blancas de la talla 9 pero el agente intenta comprar Adidas, Amex podría detener la transacción."
               },
               {
                 "t": "p",
-                "x": "Ginny Marvin, Ads Liaison de Google, confirmó que se trata de una prueba y dijo en X: \"esto es un experimento. Agradecemos los comentarios de los anunciantes sobre cómo y dónde sería útil este tipo de flujo de trabajo\"."
-              },
-              {
-                "t": "p",
-                "x": "Google está metiendo AI en todas partes, como cabe imaginar."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Google Ads 목표\nAI-suggested로",
-          "body": "Google Ads 캠페인 목표와 애셋을 AI가 제안하는 테스트가 확인됐다.",
-          "mini_headline": "Google Ads, AI가 목표 제안",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-ai-0F8lrcxb.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google이 AI를 활용해 Google Ads 캠페인의 목표와 애셋을 제안하는 기능을 시험하고 있다. Google은 현재 진행 중인 테스트라고 확인했다."
-              },
-              {
-                "t": "p",
-                "x": "Dima는 Google Ads 광고주 콘솔의 스크린샷을 올렸다. 화면에는 \"What's your goal for this campaign?\"라는 문구와 함께 \"Google AI will suggest goals and assets based on your input\"이라는 안내가 적혀 있다. Dima는 이 스크린샷을 X에 게시했다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg"
-              },
-              {
-                "t": "p",
-                "x": "큰 입력란에 목표를 설명하면 되고, 원하지 않으면 \"Create campaign manually.\" 링크를 눌러 직접 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Google의 Ads Liaison인 Ginny Marvin은 X에서 이것이 테스트임을 확인하며 \"this is an experiment. We welcome advertisers’ feedback around how and where this type of workflow would be helpful.\"라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "짐작하듯 Google은 곳곳에 AI를 밀어 넣고 있다."
+                "x": "Amex afirmó que aún no ha visto más disputas derivadas del comercio agéntico. El marco se suma a su ACE Developer Toolkit, lanzado en abril."
               }
             ]
           }
@@ -677,15 +637,15 @@
       }
     },
     {
-      "id": "marketing-olyzon-ctv-four-dsps",
+      "id": "marketing-salesforce-koa-crm-model",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Olyzon AI가 CTV\n예산을 DSPs 네 곳에",
-      "body": "Olyzon 에이전트가 DV360 등 DSP 네 곳을 오가며 CTV 예산을 옮긴다.",
-      "mini_headline": "Olyzon 에이전트, DSPs 네 곳 연결",
+      "headline": "Salesforce Koa\n27년 CRM으로 학습",
+      "body": "Salesforce는 27년 CRM 경험으로 Koa를 훈련했고 모델 선택은 자유다.",
+      "mini_headline": "Salesforce의 CRM 모델 Koa",
       "tool": "Marketing",
       "source": "PPC Land",
-      "url": "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
+      "url": "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -693,179 +653,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-            "cap": "Olyzon 에이전트는 바이어가 정한 상한 안에서 DSPs 네 곳의 CTV 예산을 옮긴다. 발표에 수치는 없다"
+            "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+            "cap": "Salesforce는 27년치 CRM 시뮬레이션으로 학습한 Koa를 Claude, ChatGPT 옆에 나란히 붙인다"
           },
           {
             "t": "p",
-            "x": "파리 기업 Olyzon이 2026년 10월 7일 Advertising Week New York에서 에이전틱 오케스트레이션 플랫폼을 정식 상용 출시했다. 소프트웨어 에이전트가 The Trade Desk, Amazon DSP, DV360, Yahoo DSP를 넘나들며 집행 중인 캠페인 예산의 계획부터 활성화, 재배분까지 맡는다. 바이어는 지금 쓰는 시트와 도구, 직거래를 버리지 않아도 된다."
+            "x": "Salesforce는 최고데이터책임자(Chief Data Officer) Michael Andrew의 인터뷰를 공개했다. Andrew는 고객이 프런티어, 오픈, 맞춤형 AI 모델을 오가며 쓸 수 있어야 한다고 주장했다. 회사의 첫 CRM 추론 모델 Koa도 그 선택지에 들어간다. 회사에 따르면 Koa는 NVIDIA와 함께 만들었고 27년간 CRM 워크플로를 운영하며 쌓은 시뮬레이션으로 학습했다."
           },
           {
             "t": "p",
-            "x": "예산 한도와 승인 규칙은 사람이 정하고 에이전트는 그 안에서 움직인다. Olyzon은 \"예산은 집행 중에 성과가 나는 쪽으로 이동하며, 바이어가 통제하는 상한과 승인 기준 안에서 전체 감사 로그와 함께 움직인다\"고 설명했다. 직접 게재 주문(insertion order)은 이메일 에이전트가 변경안 초안을 쓰고 발송은 바이어가 한다."
+            "x": "Koa는 “프런티어 모델을 대체하지 않고 그와 나란히 오케스트레이션된다.” 다만 페이지 어디에도 파라미터 수, 벤치마크 점수, 가격, 출시일은 없다."
           },
           {
             "t": "p",
-            "x": "공동 창업자 겸 CEO Jules Minvielle은 \"파편화의 고통이 가장 큰 곳이 CTV라서 CTV부터 시작한다\"며 \"오케스트레이션은 에이전트가 하고, 결정은 사람이 내린다\"고 말했다. Method1에 따르면 이 에이전트는 이제 크로스 플랫폼 예산, 입찰, bundle ID 결정 같은 \"Level 1 optimizations\"를 처리한다."
+            "x": "“모델마다 강점과 약점이 다르고, 그것은 늘 바뀐다”고 Andrew는 말했다. “AI는 연료다… 우리는 그 연료가 Anthropic과 Claude든, OpenAI와 ChatGPT든 어디서든 오게 하고 싶다.”"
           },
           {
             "t": "p",
-            "x": "발표문에는 성과 수치도, 프로토콜도, 가격도, 브랜드 고객사도 없다. 파트너 목록마저 부제와 본문, 회사 소개문마다 다르다."
+            "x": "모델 선택을 앞세운 이 메시지는 Claudeforce 제휴로 Claude가 Slack과 여러 Agentforce 화면의 기본 모델이 된 지 여섯 주 만에 나왔다. 마케터에게는 CRM 에이전트 뒤에 어떤 모델이 있느냐가 응답 시간, 신뢰성, 사용 비용을 좌우한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Olyzon's AI agents shift CTV\nbudgets across four DSPs",
-          "body": "Olyzon's agents move live CTV budgets across Trade Desk, Amazon DSP, DV360 and Yahoo DSP under caps and audit logs.",
-          "mini_headline": "Olyzon agents span four DSPs",
+          "headline": "Salesforce trains Koa on\n27 years of CRM workflows",
+          "body": "Salesforce trained Koa in simulations drawn from 27 years of CRM workflows, and customers can still pick other models.",
+          "mini_headline": "Salesforce's Koa CRM model",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-                "cap": "Olyzon agents move CTV budget across four DSPs inside buyer-set caps, yet release shows no figures"
+                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+                "cap": "Salesforce plugs Koa, trained on 27 years of CRM simulations, in beside Claude and ChatGPT"
               },
               {
                 "t": "p",
-                "x": "Paris-based Olyzon on October 7, 2026 put its agentic orchestration platform into full commercial release at Advertising Week New York. Its software agents plan, activate and reallocate live campaign budgets across The Trade Desk, Amazon DSP, DV360 and Yahoo DSP without asking buyers to give up the seats, tools or direct deals they already hold."
+                "x": "Salesforce published an interview in which Chief Data Officer Michael Andrew argued that customers should be able to switch between frontier, open and custom AI models, including Koa, the company’s first CRM reasoning model, which it says was built with NVIDIA and trained in simulations drawn from 27 years of running CRM workflows."
               },
               {
                 "t": "p",
-                "x": "A person sets the budget limits and approval rules; the agent works inside them. According to Olyzon, \"Budget moves in-flight toward what is working, inside caps and approval thresholds the buyer controls, with a full audit log.\" For direct insertion orders, an email agent drafts changes while the buyer keeps the send."
+                "x": "Koa is “orchestrated alongside frontier models rather than in place of them.” The page gives no parameter count, benchmark score, price or availability date."
               },
               {
                 "t": "p",
-                "x": "\"We start with CTV because that is where the fragmentation hurts most,\" said co-founder and CEO Jules Minvielle. \"The agent does the orchestration. The human keeps the decision.\" Method1 says the agent now handles \"Level 1 optimizations\" such as cross-platform budgets, bids and bundle ID decisions."
+                "x": "“Different models have different strengths and weaknesses, and they’re changing all the time,” Andrew said. “AI is a fuel… we want to let that fuel come from anywhere, whether it’s Anthropic and Claude, OpenAI and ChatGPT.”"
               },
               {
                 "t": "p",
-                "x": "The release names no performance figures, protocols, pricing or brand clients, and its partner lists differ between the subheadline, body and boilerplate."
+                "x": "The choice message lands six weeks after the Claudeforce partnership made Claude the default model for Slack and several Agentforce surfaces. For marketers, the model behind a CRM agent shapes response time, reliability and consumption costs."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Olyzon AI가 CTV\n예산을 DSPs 네 곳에",
-          "body": "Olyzon 에이전트가 DV360 등 DSP 네 곳을 오가며 CTV 예산을 옮긴다.",
-          "mini_headline": "Olyzon 에이전트, DSPs 네 곳 연결",
+          "headline": "Salesforce Koa\n27년 CRM으로 학습",
+          "body": "Salesforce는 27년 CRM 경험으로 Koa를 훈련했고 모델 선택은 자유다.",
+          "mini_headline": "Salesforce의 CRM 모델 Koa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-                "cap": "Olyzon 에이전트는 바이어가 정한 상한 안에서 DSPs 네 곳의 CTV 예산을 옮긴다. 발표에 수치는 없다"
+                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+                "cap": "Salesforce는 27년치 CRM 시뮬레이션으로 학습한 Koa를 Claude, ChatGPT 옆에 나란히 붙인다"
               },
               {
                 "t": "p",
-                "x": "파리 기업 Olyzon이 2026년 10월 7일 Advertising Week New York에서 에이전틱 오케스트레이션 플랫폼을 정식 상용 출시했다. 소프트웨어 에이전트가 The Trade Desk, Amazon DSP, DV360, Yahoo DSP를 넘나들며 집행 중인 캠페인 예산의 계획부터 활성화, 재배분까지 맡는다. 바이어는 지금 쓰는 시트와 도구, 직거래를 버리지 않아도 된다."
+                "x": "Salesforce는 최고데이터책임자(Chief Data Officer) Michael Andrew의 인터뷰를 공개했다. Andrew는 고객이 프런티어, 오픈, 맞춤형 AI 모델을 오가며 쓸 수 있어야 한다고 주장했다. 회사의 첫 CRM 추론 모델 Koa도 그 선택지에 들어간다. 회사에 따르면 Koa는 NVIDIA와 함께 만들었고 27년간 CRM 워크플로를 운영하며 쌓은 시뮬레이션으로 학습했다."
               },
               {
                 "t": "p",
-                "x": "예산 한도와 승인 규칙은 사람이 정하고 에이전트는 그 안에서 움직인다. Olyzon은 \"예산은 집행 중에 성과가 나는 쪽으로 이동하며, 바이어가 통제하는 상한과 승인 기준 안에서 전체 감사 로그와 함께 움직인다\"고 설명했다. 직접 게재 주문(insertion order)은 이메일 에이전트가 변경안 초안을 쓰고 발송은 바이어가 한다."
+                "x": "Koa는 “프런티어 모델을 대체하지 않고 그와 나란히 오케스트레이션된다.” 다만 페이지 어디에도 파라미터 수, 벤치마크 점수, 가격, 출시일은 없다."
               },
               {
                 "t": "p",
-                "x": "공동 창업자 겸 CEO Jules Minvielle은 \"파편화의 고통이 가장 큰 곳이 CTV라서 CTV부터 시작한다\"며 \"오케스트레이션은 에이전트가 하고, 결정은 사람이 내린다\"고 말했다. Method1에 따르면 이 에이전트는 이제 크로스 플랫폼 예산, 입찰, bundle ID 결정 같은 \"Level 1 optimizations\"를 처리한다."
+                "x": "“모델마다 강점과 약점이 다르고, 그것은 늘 바뀐다”고 Andrew는 말했다. “AI는 연료다… 우리는 그 연료가 Anthropic과 Claude든, OpenAI와 ChatGPT든 어디서든 오게 하고 싶다.”"
               },
               {
                 "t": "p",
-                "x": "발표문에는 성과 수치도, 프로토콜도, 가격도, 브랜드 고객사도 없다. 파트너 목록마저 부제와 본문, 회사 소개문마다 다르다."
+                "x": "모델 선택을 앞세운 이 메시지는 Claudeforce 제휴로 Claude가 Slack과 여러 Agentforce 화면의 기본 모델이 된 지 여섯 주 만에 나왔다. 마케터에게는 CRM 에이전트 뒤에 어떤 모델이 있느냐가 응답 시간, 신뢰성, 사용 비용을 좌우한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OlyzonのAIが\nCTV予算を四つのDSPsへ",
-          "body": "Olyzonのエージェントは上限内でDV360など四つのDSPのCTV予算を動かす。",
-          "mini_headline": "Olyzonのエージェント、四つのDSPsを横断",
+          "headline": "SalesforceのKoa\n27年分のCRMで学習",
+          "body": "Salesforceは27年分のCRM業務でKoaを訓練し、顧客は他モデルも選べる。",
+          "mini_headline": "SalesforceのCRMモデルKoa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-                "cap": "Olyzonのエージェントはバイヤーが設定した上限内で四つのDSPsにまたがりCTV予算を動かすが、発表に数値はない"
+                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+                "cap": "Salesforceは、27年分のCRMシミュレーションで学習したKoaをClaudeやChatGPTと並べて組み込む"
               },
               {
                 "t": "p",
-                "x": "パリを拠点とするOlyzonは2026年10月7日、Advertising Week New Yorkでエージェント型オーケストレーション・プラットフォームを本格的に商用リリースした。ソフトウェアエージェントがThe Trade Desk、Amazon DSP、DV360、Yahoo DSPにまたがって配信中のキャンペーン予算を計画、実行、再配分する。バイヤーはすでに持つシート、ツール、直接取引を手放す必要がない。"
+                "x": "Salesforceは、Chief Data OfficerのMichael Andrew氏のインタビューを公開した。同氏は、顧客がフロンティア、オープン、カスタムのAIモデルを切り替えられるべきだと主張した。その中には同社初のCRM推論モデルKoaも含まれる。同社によれば、KoaはNVIDIAと共同で構築され、27年にわたるCRMワークフロー運用から得たシミュレーションで訓練された。"
               },
               {
                 "t": "p",
-                "x": "予算の上限と承認ルールは人が決め、エージェントはその範囲内で動く。Olyzonによれば「予算は配信中に成果の出ているところへ移り、バイヤーが管理する上限と承認しきい値の範囲内で、完全な監査ログとともに動く」。直接のインサーションオーダーについては、メールエージェントが変更案を下書きし、送信はバイヤーが担う。"
+                "x": "Koaは「フロンティアモデルの代わりではなく、それと並んでオーケストレーションされる」。ページにはパラメータ数、ベンチマークスコア、価格、提供開始日の記載はない。"
               },
               {
                 "t": "p",
-                "x": "共同創業者兼CEOのJules Minvielleは「断片化の痛みが最も大きいのがCTVなので、CTVから始める」と語り、「オーケストレーションはエージェントが担い、判断は人間が持ち続ける」と述べた。Method1によると、エージェントは現在、プラットフォーム横断の予算、入札、bundle IDの判断といった「Level 1 optimizations」を担っている。"
+                "x": "「モデルにはそれぞれ長所と短所があり、それは常に変化している」とAndrew氏は述べた。「AIは燃料だ…その燃料がAnthropicとClaudeであれ、OpenAIとChatGPTであれ、どこからでも来られるようにしたい」"
               },
               {
                 "t": "p",
-                "x": "リリースには成果の数値、プロトコル、価格、ブランド顧客の名前がなく、パートナーのリストもサブ見出し、本文、会社概要の間で食い違っている。"
+                "x": "この選択重視のメッセージは、Claudeforce提携によってClaudeがSlackと複数のAgentforce画面の既定モデルになってから六週間後に出た。マーケターにとって、CRMエージェントを支えるモデルは応答時間、信頼性、利用コストを左右する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Olyzon AI代理\n跨四个DSPs调度CTV预算",
-          "body": "Olyzon代理在上限和审计日志约束下，于DV360等四个DSP间调动CTV预算。",
-          "mini_headline": "Olyzon代理横跨四个DSPs",
+          "headline": "Salesforce用27年\nCRM流程训练Koa",
+          "body": "Salesforce用27年CRM工作流模拟训练Koa，客户仍可选用其他模型。",
+          "mini_headline": "Salesforce的CRM模型Koa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-                "cap": "Olyzon代理在买方设定的上限内跨四个DSPs调动CTV预算，但新闻稿未给出任何数据"
+                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+                "cap": "Salesforce将以27年CRM模拟训练的Koa与Claude和ChatGPT并列接入"
               },
               {
                 "t": "p",
-                "x": "总部位于巴黎的Olyzon于2026年10月7日在Advertising Week New York上全面商用发布其智能体编排平台。其软件代理可在The Trade Desk、Amazon DSP、DV360和Yahoo DSP之间规划、启动并重新分配正在投放的广告活动预算，买方无需放弃已有的席位、工具或直接交易。"
+                "x": "Salesforce发布了一篇采访，首席数据官（Chief Data Officer）Michael Andrew在其中主张，客户应能在前沿、开放和定制AI模型之间切换，其中包括该公司首个CRM推理模型Koa。公司称，Koa与NVIDIA合作打造，并在源自27年CRM工作流运营的模拟中训练而成。"
               },
               {
                 "t": "p",
-                "x": "预算上限和审批规则由人设定，代理在此范围内运作。Olyzon表示：“预算会在投放过程中流向效果好的地方，始终处于买方控制的上限和审批阈值之内，并留有完整的审计日志。”对于直接insertion order，由邮件代理起草修改，发送权仍在买方手中。"
+                "x": "Koa“与前沿模型协同编排，而非取而代之”。该页面未给出参数量、基准分数、价格或上市日期。"
               },
               {
                 "t": "p",
-                "x": "联合创始人兼CEO Jules Minvielle表示：“我们从CTV做起，因为那里的碎片化最严重。”他还说：“代理负责编排，决定权留在人手中。”Method1称，该代理目前负责跨平台预算、出价和bundle ID决策等“Level 1 optimizations”。"
+                "x": "“不同模型各有优劣，而且一直在变化，”Andrew说，“AI是一种燃料……我们希望这种燃料可以来自任何地方，无论是Anthropic和Claude，还是OpenAI和ChatGPT。”"
               },
               {
                 "t": "p",
-                "x": "新闻稿没有给出任何效果数据、协议、价格或品牌客户，而且副标题、正文和公司简介中的合作伙伴名单彼此不一致。"
+                "x": "这一选择信号出现在Claudeforce合作让Claude成为Slack及多个Agentforce界面默认模型的六周之后。对营销人员而言，CRM代理背后的模型决定了响应时间、可靠性和消耗成本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los agentes AI de Olyzon mueven\npresupuestos CTV en cuatro DSPs",
-          "body": "Los agentes de Olyzon mueven presupuestos CTV en Trade Desk, Amazon DSP, DV360 y Yahoo DSP con topes y auditoría.",
-          "mini_headline": "Los agentes de Olyzon abarcan cuatro DSPs",
+          "headline": "Salesforce entrena a Koa con\n27 años de flujos de CRM",
+          "body": "Salesforce entrenó a Koa con simulaciones de 27 años de flujos de CRM, y los clientes pueden elegir otros modelos.",
+          "mini_headline": "Koa, el modelo CRM de Salesforce",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-                "cap": "Los agentes de Olyzon mueven presupuesto CTV entre cuatro DSPs dentro de los topes fijados por el comprador, aunque el anuncio no muestra cifras"
+                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+                "cap": "Salesforce conecta Koa, entrenado con 27 años de simulaciones de CRM, junto a Claude y ChatGPT"
               },
               {
                 "t": "p",
-                "x": "Olyzon, con sede en París, lanzó plenamente al mercado su plataforma de orquestación agéntica el 7 de octubre de 2026 en Advertising Week New York. Sus agentes de software planifican, activan y reasignan presupuestos de campañas en curso en The Trade Desk, Amazon DSP, DV360 y Yahoo DSP sin pedir a los compradores que renuncien a los asientos, herramientas o acuerdos directos que ya tienen."
+                "x": "Salesforce publicó una entrevista en la que su Chief Data Officer, Michael Andrew, sostuvo que los clientes deberían poder alternar entre modelos de AI de frontera, abiertos y personalizados, entre ellos Koa, el primer modelo de razonamiento para CRM de la compañía, que según la empresa se creó con NVIDIA y se entrenó con simulaciones extraídas de 27 años de operar flujos de trabajo de CRM."
               },
               {
                 "t": "p",
-                "x": "Una persona fija los límites de presupuesto y las reglas de aprobación; el agente trabaja dentro de ellos. Según Olyzon, \"el presupuesto se desplaza durante la campaña hacia lo que funciona, dentro de los topes y umbrales de aprobación que controla el comprador, con un registro de auditoría completo\". En las órdenes de inserción directas, un agente de correo redacta los cambios mientras el comprador conserva el envío."
+                "x": "Koa se “orquesta junto a los modelos de frontera, no en lugar de ellos”. La página no da número de parámetros, puntuación en benchmarks, precio ni fecha de disponibilidad."
               },
               {
                 "t": "p",
-                "x": "\"Empezamos por CTV porque es donde más duele la fragmentación\", dijo el cofundador y CEO Jules Minvielle. \"El agente hace la orquestación. El humano conserva la decisión\". Method1 afirma que el agente ya gestiona \"Level 1 optimizations\", como presupuestos multiplataforma, pujas y decisiones de bundle ID."
+                "x": "“Los distintos modelos tienen distintas fortalezas y debilidades, y cambian todo el tiempo”, dijo Andrew. “La AI es un combustible… queremos que ese combustible pueda venir de cualquier parte, ya sea de Anthropic y Claude o de OpenAI y ChatGPT”."
               },
               {
                 "t": "p",
-                "x": "El anuncio no menciona cifras de rendimiento, protocolos, precios ni clientes de marca, y sus listas de socios difieren entre el subtítulo, el cuerpo y el texto institucional."
+                "x": "El mensaje sobre la libertad de elección llega seis semanas después de que la alianza Claudeforce convirtiera a Claude en el modelo predeterminado de Slack y de varias superficies de Agentforce. Para los profesionales del marketing, el modelo detrás de un agente de CRM determina el tiempo de respuesta, la fiabilidad y los costes de consumo."
               }
             ]
           }
@@ -873,125 +833,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Olyzon AI가 CTV\n예산 DSPs 네 곳 배분",
-          "body": "Olyzon 에이전트가 DV360 등 DSP 네 곳에서 CTV 예산을 옮긴다.",
-          "mini_headline": "Olyzon 에이전트, DSPs 네 곳 연결",
+          "headline": "Salesforce Koa\n27년 CRM으로 학습",
+          "body": "Salesforce는 27년 CRM 경험으로 Koa를 훈련했고 모델 선택은 자유다.",
+          "mini_headline": "Salesforce의 CRM 모델 Koa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-                "cap": "Olyzon 에이전트는 바이어가 정한 상한 안에서 DSPs 네 곳에 걸쳐 CTV 예산을 옮기지만, 발표에는 수치가 없다"
+                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+                "cap": "Salesforce는 27년치 CRM 시뮬레이션으로 학습한 Koa를 Claude, ChatGPT와 나란히 연결한다"
               },
               {
                 "t": "p",
-                "x": "파리에 본사를 둔 Olyzon은 2026년 10월 7일 Advertising Week New York에서 에이전틱 오케스트레이션 플랫폼을 정식 상용 출시했다. 소프트웨어 에이전트가 The Trade Desk, Amazon DSP, DV360, Yahoo DSP에 걸쳐 집행 중인 캠페인 예산을 계획하고 활성화하며 재배분한다. 바이어는 이미 보유한 시트와 도구, 직거래를 포기할 필요가 없다."
+                "x": "Salesforce는 최고데이터책임자(Chief Data Officer) Michael Andrew의 인터뷰를 공개했다. 그는 고객이 프런티어, 오픈, 맞춤형 AI 모델을 오가며 쓸 수 있어야 한다고 주장했다. 여기에는 회사의 첫 CRM 추론 모델 Koa도 포함된다. 회사에 따르면 Koa는 NVIDIA와 함께 만들었고, 27년간 CRM 워크플로를 운영하며 쌓은 시뮬레이션으로 학습했다."
               },
               {
                 "t": "p",
-                "x": "예산 한도와 승인 규칙은 사람이 정하고, 에이전트는 그 안에서 움직인다. Olyzon은 \"예산은 집행 중에 성과가 나는 쪽으로 이동하며, 바이어가 통제하는 상한과 승인 기준 안에서 전체 감사 로그와 함께 움직인다\"고 설명했다. 직접 게재 주문(insertion order)은 이메일 에이전트가 변경안 초안을 쓰고, 발송은 바이어가 맡는다."
+                "x": "Koa는 “프런티어 모델을 대체하지 않고 그와 나란히 오케스트레이션된다.” 페이지에는 파라미터 수, 벤치마크 점수, 가격, 출시일이 나오지 않는다."
               },
               {
                 "t": "p",
-                "x": "공동 창업자 겸 CEO Jules Minvielle은 \"파편화의 고통이 가장 큰 곳이 CTV라서 CTV부터 시작한다\"며 \"오케스트레이션은 에이전트가 하고, 결정은 사람이 내린다\"고 말했다. Method1은 이 에이전트가 이제 크로스 플랫폼 예산, 입찰, bundle ID 결정 같은 \"Level 1 optimizations\"를 처리한다고 밝혔다."
+                "x": "“모델마다 강점과 약점이 다르고, 그것은 늘 바뀐다”고 Andrew는 말했다. “AI는 연료다… 우리는 그 연료가 Anthropic과 Claude든, OpenAI와 ChatGPT든 어디서든 오게 하고 싶다.”"
               },
               {
                 "t": "p",
-                "x": "발표문에는 성과 수치, 프로토콜, 가격, 브랜드 고객사가 전혀 나오지 않으며, 파트너 목록도 부제와 본문, 회사 소개문마다 다르다."
+                "x": "이 선택 메시지는 Claudeforce 제휴로 Claude가 Slack과 여러 Agentforce 화면의 기본 모델이 된 지 여섯 주 만에 나왔다. 마케터에게 CRM 에이전트 뒤의 모델은 응답 시간, 신뢰성, 사용 비용을 좌우한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OlyzonのAIが\nCTV予算を四つのDSPsへ",
-          "body": "Olyzonのエージェントは上限内でDV360など四つのDSPのCTV予算を動かす。",
-          "mini_headline": "Olyzonのエージェント、四つのDSPsを横断",
+          "headline": "SalesforceのKoa\n27年分のCRMで学習",
+          "body": "Salesforceは27年分のCRM業務でKoaを訓練し、顧客は他モデルも選べる。",
+          "mini_headline": "SalesforceのCRMモデルKoa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-                "cap": "Olyzonのエージェントはバイヤーが設定した上限内で四つのDSPsにまたがりCTV予算を動かすが、発表に数値はない"
+                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+                "cap": "Salesforceは、27年分のCRMシミュレーションで学習したKoaをClaudeやChatGPTと並べて組み込む"
               },
               {
                 "t": "p",
-                "x": "パリを拠点とするOlyzonは2026年10月7日、Advertising Week New Yorkでエージェント型オーケストレーション・プラットフォームを本格的に商用リリースした。ソフトウェアエージェントがThe Trade Desk、Amazon DSP、DV360、Yahoo DSPにまたがって配信中のキャンペーン予算を計画、実行、再配分する。バイヤーはすでに持つシート、ツール、直接取引を手放す必要がない。"
+                "x": "Salesforceは、Chief Data OfficerのMichael Andrew氏のインタビューを公開した。同氏は、顧客がフロンティア、オープン、カスタムのAIモデルを切り替えられるべきだと主張した。その中には同社初のCRM推論モデルKoaも含まれる。同社によれば、KoaはNVIDIAと共同で構築され、27年にわたるCRMワークフロー運用から得たシミュレーションで訓練された。"
               },
               {
                 "t": "p",
-                "x": "予算の上限と承認ルールは人が決め、エージェントはその範囲内で動く。Olyzonによれば「予算は配信中に成果の出ているところへ移り、バイヤーが管理する上限と承認しきい値の範囲内で、完全な監査ログとともに動く」。直接のインサーションオーダーについては、メールエージェントが変更案を下書きし、送信はバイヤーが担う。"
+                "x": "Koaは「フロンティアモデルの代わりではなく、それと並んでオーケストレーションされる」。ページにはパラメータ数、ベンチマークスコア、価格、提供開始日の記載はない。"
               },
               {
                 "t": "p",
-                "x": "共同創業者兼CEOのJules Minvielleは「断片化の痛みが最も大きいのがCTVなので、CTVから始める」と語り、「オーケストレーションはエージェントが担い、判断は人間が持ち続ける」と述べた。Method1によると、エージェントは現在、プラットフォーム横断の予算、入札、bundle IDの判断といった「Level 1 optimizations」を担っている。"
+                "x": "「モデルにはそれぞれ長所と短所があり、それは常に変化している」とAndrew氏は述べた。「AIは燃料だ…その燃料がAnthropicとClaudeであれ、OpenAIとChatGPTであれ、どこからでも来られるようにしたい」"
               },
               {
                 "t": "p",
-                "x": "リリースには成果の数値、プロトコル、価格、ブランド顧客の名前がなく、パートナーのリストもサブ見出し、本文、会社概要の間で食い違っている。"
+                "x": "この選択重視のメッセージは、Claudeforce提携によってClaudeがSlackと複数のAgentforce画面の既定モデルになってから六週間後に出た。マーケターにとって、CRMエージェントを支えるモデルは応答時間、信頼性、利用コストを左右する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Olyzon AI代理\n跨四个DSPs调度CTV预算",
-          "body": "Olyzon代理在上限和审计日志约束下，于DV360等四个DSP间调动CTV预算。",
-          "mini_headline": "Olyzon代理横跨四个DSPs",
+          "headline": "Salesforce用27年\nCRM流程训练Koa",
+          "body": "Salesforce用27年CRM工作流模拟训练Koa，客户仍可选用其他模型。",
+          "mini_headline": "Salesforce的CRM模型Koa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-                "cap": "Olyzon代理在买方设定的上限内跨四个DSPs调动CTV预算，但新闻稿未给出任何数据"
+                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+                "cap": "Salesforce将以27年CRM模拟训练的Koa与Claude和ChatGPT并列接入"
               },
               {
                 "t": "p",
-                "x": "总部位于巴黎的Olyzon于2026年10月7日在Advertising Week New York上全面商用发布其智能体编排平台。其软件代理可在The Trade Desk、Amazon DSP、DV360和Yahoo DSP之间规划、启动并重新分配正在投放的广告活动预算，买方无需放弃已有的席位、工具或直接交易。"
+                "x": "Salesforce发布了一篇采访，首席数据官（Chief Data Officer）Michael Andrew在其中主张，客户应能在前沿、开放和定制AI模型之间切换，其中包括该公司首个CRM推理模型Koa。公司称，Koa与NVIDIA合作打造，并在源自27年CRM工作流运营的模拟中训练而成。"
               },
               {
                 "t": "p",
-                "x": "预算上限和审批规则由人设定，代理在此范围内运作。Olyzon表示：“预算会在投放过程中流向效果好的地方，始终处于买方控制的上限和审批阈值之内，并留有完整的审计日志。”对于直接insertion order，由邮件代理起草修改，发送权仍在买方手中。"
+                "x": "Koa“与前沿模型协同编排，而非取而代之”。该页面未给出参数量、基准分数、价格或上市日期。"
               },
               {
                 "t": "p",
-                "x": "联合创始人兼CEO Jules Minvielle表示：“我们从CTV做起，因为那里的碎片化最严重。”他还说：“代理负责编排，决定权留在人手中。”Method1称，该代理目前负责跨平台预算、出价和bundle ID决策等“Level 1 optimizations”。"
+                "x": "“不同模型各有优劣，而且一直在变化，”Andrew说，“AI是一种燃料……我们希望这种燃料可以来自任何地方，无论是Anthropic和Claude，还是OpenAI和ChatGPT。”"
               },
               {
                 "t": "p",
-                "x": "新闻稿没有给出任何效果数据、协议、价格或品牌客户，而且副标题、正文和公司简介中的合作伙伴名单彼此不一致。"
+                "x": "这一选择信号出现在Claudeforce合作让Claude成为Slack及多个Agentforce界面默认模型的六周之后。对营销人员而言，CRM代理背后的模型决定了响应时间、可靠性和消耗成本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los agentes AI de Olyzon mueven\npresupuestos CTV en cuatro DSPs",
-          "body": "Los agentes de Olyzon mueven presupuestos CTV en Trade Desk, Amazon DSP, DV360 y Yahoo DSP con topes y auditoría.",
-          "mini_headline": "Los agentes de Olyzon abarcan cuatro DSPs",
+          "headline": "Salesforce entrena a Koa con\n27 años de flujos de CRM",
+          "body": "Salesforce entrenó a Koa con simulaciones de 27 años de flujos de CRM, y los clientes pueden elegir otros modelos.",
+          "mini_headline": "Koa, el modelo CRM de Salesforce",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-                "cap": "Los agentes de Olyzon mueven presupuesto CTV entre cuatro DSPs dentro de los topes fijados por el comprador, aunque el anuncio no muestra cifras"
+                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+                "cap": "Salesforce conecta Koa, entrenado con 27 años de simulaciones de CRM, junto a Claude y ChatGPT"
               },
               {
                 "t": "p",
-                "x": "Olyzon, con sede en París, lanzó plenamente al mercado su plataforma de orquestación agéntica el 7 de octubre de 2026 en Advertising Week New York. Sus agentes de software planifican, activan y reasignan presupuestos de campañas en curso en The Trade Desk, Amazon DSP, DV360 y Yahoo DSP sin pedir a los compradores que renuncien a los asientos, herramientas o acuerdos directos que ya tienen."
+                "x": "Salesforce publicó una entrevista en la que su Chief Data Officer, Michael Andrew, sostuvo que los clientes deberían poder alternar entre modelos de AI de frontera, abiertos y personalizados, entre ellos Koa, el primer modelo de razonamiento para CRM de la compañía, que según la empresa se creó con NVIDIA y se entrenó con simulaciones extraídas de 27 años de operar flujos de trabajo de CRM."
               },
               {
                 "t": "p",
-                "x": "Una persona fija los límites de presupuesto y las reglas de aprobación; el agente trabaja dentro de ellos. Según Olyzon, \"el presupuesto se desplaza durante la campaña hacia lo que funciona, dentro de los topes y umbrales de aprobación que controla el comprador, con un registro de auditoría completo\". En las órdenes de inserción directas, un agente de correo redacta los cambios mientras el comprador conserva el envío."
+                "x": "Koa se “orquesta junto a los modelos de frontera, no en lugar de ellos”. La página no da número de parámetros, puntuación en benchmarks, precio ni fecha de disponibilidad."
               },
               {
                 "t": "p",
-                "x": "\"Empezamos por CTV porque es donde más duele la fragmentación\", dijo el cofundador y CEO Jules Minvielle. \"El agente hace la orquestación. El humano conserva la decisión\". Method1 afirma que el agente ya gestiona \"Level 1 optimizations\", como presupuestos multiplataforma, pujas y decisiones de bundle ID."
+                "x": "“Los distintos modelos tienen distintas fortalezas y debilidades, y cambian todo el tiempo”, dijo Andrew. “La AI es un combustible… queremos que ese combustible pueda venir de cualquier parte, ya sea de Anthropic y Claude o de OpenAI y ChatGPT”."
               },
               {
                 "t": "p",
-                "x": "El anuncio no menciona cifras de rendimiento, protocolos, precios ni clientes de marca, y sus listas de socios difieren entre el subtítulo, el cuerpo y el texto institucional."
+                "x": "El mensaje sobre la libertad de elección llega seis semanas después de que la alianza Claudeforce convirtiera a Claude en el modelo predeterminado de Slack y de varias superficies de Agentforce. Para los profesionales del marketing, el modelo detrás de un agente de CRM determina el tiempo de respuesta, la fiabilidad y los costes de consumo."
               }
             ]
           }
@@ -999,189 +959,171 @@
       }
     },
     {
-      "id": "marketing-thg-criteo-ai-assistant",
+      "id": "marketing-bannerflow-attention-scoring",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "THG, AI 쇼핑 비서에\nCriteo 광고 도입",
-      "body": "THG가 Gemini-built AI 비서에 유럽 첫 Criteo 광고를 붙였다.",
-      "mini_headline": "THG AI 비서에 Criteo 광고",
+      "headline": "Bannerflow AI로\n광고 주목도 사전 검증",
+      "body": "Bannerflow는 AI 주목도 히트맵과 명확성 점수로 광고를 미리 검증한다.",
+      "mini_headline": "Bannerflow, 광고 사전 검증",
       "tool": "Marketing",
-      "source": "Retail Technology Innovation Hub",
-      "url": "https://retailtechinnovationhub.com/home/2026/10/11/first-for-thg-commerce-as-it-brings-criteo-sponsored-products-to-ai-shopping-assistant-solution",
+      "source": "PPC Land",
+      "url": "https://ppc.land/bannerflow-now-scores-ads-for-attention-before-any-budget-is-spent/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "THG Ingenuity 계열사 THG Commerce가 Google Cloud의 Gemini Enterprise로 만든 AI Shopping Assistant에 Criteo Sponsored Products를 통합했다. THG Commerce는 자사가 Criteo Sponsored Products를 AI 대화형 검색에 들여온 유럽 첫 커머스 기술 기업이라고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "이제 한 대화 안에 스폰서 상품 추천과 일반 상품 추천이 나란히 뜬다. 초기 결과를 보면 비서에 노출된 스폰서 상품은 클릭률이 평균의 다섯 배, 전환율이 평균의 두 배를 넘었다."
-          },
-          {
-            "t": "p",
-            "x": "비서는 대화마다 키워드와 필터를 뽑아 맞춤형 상품 추천으로 바꾼다. 키워드 매칭, 의미 이해, 엄격한 관련성 기준을 포함한 Criteo의 관련성 모델이 대화 맥락에도 그대로 적용된다. 그래서 스폰서 추천은 쇼핑객의 요청에 맞을 때만, 분명한 표시를 달고 나타난다."
-          },
-          {
             "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+            "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+            "cap": "Bannerflow 히트맵은 집행 전에 광고 주목도를 예측하지만 점수를 뒷받침할 검증 데이터는 영이다"
           },
           {
             "t": "p",
-            "x": "THG Ingenuity의 Chief Revenue Officer인 Darren Rajanah는 “고객은 대화로 쇼핑 여정을 시작한다... 이는 리테일러가 가질 수 있는 가장 구매 의도가 높은 트래픽 가운데 하나이며, 지금까지는 대부분 리테일 미디어 밖에 있었다”고 말했다."
+            "x": "Bannerflow가 자사 크리에이티브 플랫폼의 AI 도구에 이름을 붙였다. 이름은 Creative Intelligence다. 이 제품군은 이미지 생성, 예측 주목도 점수, 성과 분석 레이어, 피드 기반 다이내믹 광고를 Create, Evaluate, Understand, Act and scale의 네 단계로 묶는다."
+          },
+          {
+            "t": "p",
+            "x": "예측 점수는 “주목도 히트맵, 초점 분석, 명확성 점수”로 크리에이티브가 “캠페인 예산을 투입하기 전에 주목을 끌 가능성”을 보여주고 시선을 흩뜨리는 요소도 짚는다. Creative Insights는 행동 유도 문구, 색상, 애니메이션 타이밍 같은 요소를 성과와 잇는다. 팀은 이미지를 생성·확장·업스케일하고 상품 피드도 일상 언어로 설정할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "발표 자료에는 출시 일정도, 가격도, 예측 모델의 검증 데이터도 없다. 최고제품책임자(Chief Product Officer) Moses Velasco는 “마케팅 팀은 그 어느 때보다 많은 성과 데이터를 갖고 있지만, 다음 크리에이티브에 영감을 주는 데이터는 너무 적다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "THG brings Criteo ads into\nits AI shopping assistant",
-          "body": "THG Commerce has added Criteo Sponsored Products to its Gemini-built AI Shopping Assistant, claiming a European first.",
-          "mini_headline": "Criteo ads in THG's AI assistant",
+          "headline": "Bannerflow pre-tests ads\nfor attention with AI",
+          "body": "Bannerflow's Creative Intelligence uses AI attention heatmaps and clarity scores to pre-test creative before launch.",
+          "mini_headline": "Bannerflow pre-tests ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "THG Commerce, part of THG Ingenuity, has integrated Criteo Sponsored Products into its AI Shopping Assistant, built using Google Cloud’s Gemini Enterprise. THG Commerce says it is the first commerce technology provider in Europe to bring Criteo Sponsored Products into AI powered conversational search."
-              },
-              {
-                "t": "p",
-                "x": "The integration places sponsored and organic product recommendations side by side within the same conversation. Early results show sponsored products surfaced through the assistant reached a click-through rate more than five times the average, and a conversion rate more than double the average."
-              },
-              {
-                "t": "p",
-                "x": "The assistant draws keywords and filters from each conversation and turns them into tailored product recommendations. Criteo’s relevance models, including keyword matching, semantic understanding and strict relevance thresholds, apply in the conversational context, so sponsored recommendations appear clearly labelled and only when they match what the shopper asked for."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+                "cap": "Bannerflow heatmaps predict ad attention before spend, with zero validation data behind the scores"
               },
               {
                 "t": "p",
-                "x": "“Customers start their shopping journey with a conversation... That is some of the highest-intent traffic a retailer can have, and until now it has largely sat outside retail media,” said Darren Rajanah, Chief Revenue Officer, THG Ingenuity."
+                "x": "Bannerflow put a name on the AI tools in its creative platform. The suite, Creative Intelligence, groups image generation, predictive attention scoring, a performance analysis layer and feed-driven dynamic ads into four stages: Create, Evaluate, Understand and Act and scale."
+              },
+              {
+                "t": "p",
+                "x": "Predictive scoring uses “attention heatmaps, focus analysis and clarity scoring” to indicate how a creative “is likely to capture attention before campaign budget is committed,” and flags distracting elements. Creative Insights relates elements such as calls to action, colour and animation timing to performance. Teams can also generate, expand and upscale images and set up product feeds in plain language."
+              },
+              {
+                "t": "p",
+                "x": "The release gives no availability dates, no pricing and no validation data for its predictive models. “Marketing teams have more performance data than ever, but too little of it inspires the next piece of creative,” said Chief Product Officer Moses Velasco."
               }
             ]
           }
         },
         "ko": {
-          "headline": "THG, AI 쇼핑 비서에\nCriteo 광고 도입",
-          "body": "THG가 Gemini-built AI 비서에 유럽 첫 Criteo 광고를 붙였다.",
-          "mini_headline": "THG AI 비서에 Criteo 광고",
+          "headline": "Bannerflow AI로\n광고 주목도 사전 검증",
+          "body": "Bannerflow는 AI 주목도 히트맵과 명확성 점수로 광고를 미리 검증한다.",
+          "mini_headline": "Bannerflow, 광고 사전 검증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "THG Ingenuity 계열사 THG Commerce가 Google Cloud의 Gemini Enterprise로 만든 AI Shopping Assistant에 Criteo Sponsored Products를 통합했다. THG Commerce는 자사가 Criteo Sponsored Products를 AI 대화형 검색에 들여온 유럽 첫 커머스 기술 기업이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "이제 한 대화 안에 스폰서 상품 추천과 일반 상품 추천이 나란히 뜬다. 초기 결과를 보면 비서에 노출된 스폰서 상품은 클릭률이 평균의 다섯 배, 전환율이 평균의 두 배를 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "비서는 대화마다 키워드와 필터를 뽑아 맞춤형 상품 추천으로 바꾼다. 키워드 매칭, 의미 이해, 엄격한 관련성 기준을 포함한 Criteo의 관련성 모델이 대화 맥락에도 그대로 적용된다. 그래서 스폰서 추천은 쇼핑객의 요청에 맞을 때만, 분명한 표시를 달고 나타난다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+                "cap": "Bannerflow 히트맵은 집행 전에 광고 주목도를 예측하지만 점수를 뒷받침할 검증 데이터는 영이다"
               },
               {
                 "t": "p",
-                "x": "THG Ingenuity의 Chief Revenue Officer인 Darren Rajanah는 “고객은 대화로 쇼핑 여정을 시작한다... 이는 리테일러가 가질 수 있는 가장 구매 의도가 높은 트래픽 가운데 하나이며, 지금까지는 대부분 리테일 미디어 밖에 있었다”고 말했다."
+                "x": "Bannerflow가 자사 크리에이티브 플랫폼의 AI 도구에 이름을 붙였다. 이름은 Creative Intelligence다. 이 제품군은 이미지 생성, 예측 주목도 점수, 성과 분석 레이어, 피드 기반 다이내믹 광고를 Create, Evaluate, Understand, Act and scale의 네 단계로 묶는다."
+              },
+              {
+                "t": "p",
+                "x": "예측 점수는 “주목도 히트맵, 초점 분석, 명확성 점수”로 크리에이티브가 “캠페인 예산을 투입하기 전에 주목을 끌 가능성”을 보여주고 시선을 흩뜨리는 요소도 짚는다. Creative Insights는 행동 유도 문구, 색상, 애니메이션 타이밍 같은 요소를 성과와 잇는다. 팀은 이미지를 생성·확장·업스케일하고 상품 피드도 일상 언어로 설정할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "발표 자료에는 출시 일정도, 가격도, 예측 모델의 검증 데이터도 없다. 최고제품책임자(Chief Product Officer) Moses Velasco는 “마케팅 팀은 그 어느 때보다 많은 성과 데이터를 갖고 있지만, 다음 크리에이티브에 영감을 주는 데이터는 너무 적다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "THG、AI買い物支援に\nCriteo広告を統合",
-          "body": "THGはGemini-builtのAI買い物支援にCriteo広告を欧州で初めて導入した。",
-          "mini_headline": "THGのAIアシスタントにCriteo広告",
+          "headline": "Bannerflow、AIで\n広告の注目度を事前検証",
+          "body": "BannerflowはAIの注目ヒートマップと明瞭度スコアで広告を事前検証する。",
+          "mini_headline": "Bannerflow、広告を事前検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "THG Ingenuity傘下のTHG Commerceは、Google CloudのGemini Enterpriseで構築したAI Shopping AssistantにCriteo Sponsored Productsを統合した。THG Commerceは、Criteo Sponsored ProductsをAIによる対話型検索に導入した欧州初のコマーステクノロジー企業だとしている。"
-              },
-              {
-                "t": "p",
-                "x": "この統合により、同じ会話の中でスポンサー商品とオーガニックの商品レコメンドが並んで表示される。初期結果では、アシスタント経由で表示されたスポンサー商品のクリック率は平均の五倍を超え、コンバージョン率は平均の二倍を超えた。"
-              },
-              {
-                "t": "p",
-                "x": "アシスタントは会話ごとにキーワードとフィルターを抽出し、個々に合わせた商品レコメンドに変える。キーワードマッチング、意味理解、厳格な関連性しきい値を含むCriteoの関連性モデルが対話の文脈でも機能するため、スポンサー商品のレコメンドは明確にラベル付けされ、買い物客の求めに合う場合にのみ表示される。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+                "cap": "Bannerflowのヒートマップは出稿前に広告の注目度を予測するが、スコアを裏付ける検証データはゼロだ"
               },
               {
                 "t": "p",
-                "x": "THG IngenuityのChief Revenue Officer、Darren Rajanahは「顧客は会話から買い物の旅を始める...。それは小売業者が得られる中でも最も購買意欲の高いトラフィックの一つであり、これまでは大半がリテールメディアの外にあった」と語った。"
+                "x": "Bannerflowが、自社クリエイティブプラットフォームのAIツールに名前を付けた。Creative Intelligenceというこのスイートは、画像生成、予測的な注目度スコアリング、パフォーマンス分析レイヤー、フィード連動のダイナミック広告を、Create、Evaluate、Understand、Act and scaleの四つの段階にまとめる。"
+              },
+              {
+                "t": "p",
+                "x": "予測スコアリングは「注目度ヒートマップ、フォーカス分析、明瞭度スコアリング」を用いて、クリエイティブが「キャンペーン予算を投じる前に注目を集める可能性」を示し、気を散らす要素を指摘する。Creative Insightsは、行動喚起、色、アニメーションのタイミングといった要素をパフォーマンスと結び付ける。チームは画像の生成・拡張・アップスケールや、平易な言葉での商品フィード設定も行える。"
+              },
+              {
+                "t": "p",
+                "x": "発表には提供開始日も価格も、予測モデルの検証データも示されていない。Chief Product OfficerのMoses Velasco氏は「マーケティングチームはかつてないほど多くのパフォーマンスデータを持っているが、次のクリエイティブを生む刺激になるものはあまりに少ない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "THG将Criteo广告\n引入AI购物助手",
-          "body": "THG在Gemini-built AI购物助手中加入Criteo广告，称属欧洲首例。",
-          "mini_headline": "Criteo广告进入THG AI助手",
+          "headline": "Bannerflow用AI\n预测试广告吸引力",
+          "body": "Bannerflow借助AI注意力热图与清晰度评分，在上线前预先测试广告创意。",
+          "mini_headline": "Bannerflow预测试广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "THG Ingenuity旗下的THG Commerce已将Criteo Sponsored Products整合进其基于Google Cloud Gemini Enterprise打造的AI Shopping Assistant。THG Commerce称，它是欧洲首家将Criteo Sponsored Products引入AI驱动对话式搜索的商务技术提供商。"
-              },
-              {
-                "t": "p",
-                "x": "此次整合让赞助商品推荐与自然商品推荐在同一段对话中并列呈现。早期结果显示，通过助手展示的赞助商品点击率超过平均水平的五倍，转化率超过平均水平的两倍。"
-              },
-              {
-                "t": "p",
-                "x": "助手会从每段对话中提取关键词和筛选条件，并将其转化为个性化的商品推荐。Criteo的相关性模型（包括关键词匹配、语义理解和严格的相关性阈值）同样适用于对话场景，因此赞助推荐会被清晰标注，且只在符合购物者需求时出现。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+                "cap": "Bannerflow热图可在投放前预测广告吸引力，但评分背后的验证数据为零"
               },
               {
                 "t": "p",
-                "x": "THG Ingenuity首席营收官（Chief Revenue Officer）Darren Rajanah表示：“顾客通过一段对话开启购物旅程……这是零售商能获得的购买意图最强的流量之一，而此前它大多游离于零售媒体之外。”"
+                "x": "Bannerflow为其创意平台中的AI工具起了名字。这套名为Creative Intelligence的工具组合，将图像生成、预测性注意力评分、效果分析层和基于数据馈送的动态广告归入四个阶段：Create、Evaluate、Understand以及Act and scale。"
+              },
+              {
+                "t": "p",
+                "x": "预测评分借助“注意力热图、焦点分析和清晰度评分”，显示一则创意“在投入广告预算之前吸引注意力的可能性”，并标出分散注意力的元素。Creative Insights把行动号召、色彩和动画时机等元素与效果关联起来。团队还能生成、扩展和放大图像，并用日常语言设置商品馈送。"
+              },
+              {
+                "t": "p",
+                "x": "此次发布没有给出上市日期、定价，也没有其预测模型的验证数据。“营销团队拥有的效果数据前所未有地多，但能激发下一件创意的却太少，”首席产品官（Chief Product Officer）Moses Velasco表示。"
               }
             ]
           }
         },
         "es": {
-          "headline": "THG integra anuncios de Criteo\nen su asistente de compras AI",
-          "body": "THG Commerce suma Criteo Sponsored Products a su AI Shopping Assistant Gemini-built y se dice pionera en Europa.",
-          "mini_headline": "Anuncios de Criteo en el asistente AI de THG",
+          "headline": "Bannerflow prueba la atención\nde sus anuncios con AI",
+          "body": "Creative Intelligence, de Bannerflow, prueba anuncios antes del lanzamiento con mapas de atención y claridad de AI.",
+          "mini_headline": "Bannerflow prueba anuncios con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "THG Commerce, parte de THG Ingenuity, ha integrado Criteo Sponsored Products en su AI Shopping Assistant, creado con Gemini Enterprise de Google Cloud. THG Commerce afirma ser el primer proveedor de tecnología de comercio en Europa que lleva Criteo Sponsored Products a la búsqueda conversacional impulsada por AI."
-              },
-              {
-                "t": "p",
-                "x": "La integración sitúa las recomendaciones de productos patrocinados y orgánicos una junto a otra dentro de la misma conversación. Los primeros resultados muestran que los productos patrocinados mostrados a través del asistente alcanzaron una tasa de clics más de cinco veces superior a la media y una tasa de conversión de más del doble de la media."
-              },
-              {
-                "t": "p",
-                "x": "El asistente extrae palabras clave y filtros de cada conversación y los convierte en recomendaciones de productos personalizadas. Los modelos de relevancia de Criteo, que incluyen coincidencia de palabras clave, comprensión semántica y umbrales estrictos de relevancia, se aplican en el contexto conversacional, de modo que las recomendaciones patrocinadas aparecen claramente etiquetadas y solo cuando coinciden con lo que pidió el comprador."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+                "cap": "Los mapas de calor de Bannerflow predicen la atención de un anuncio antes de invertir, con cero datos de validación que respalden las puntuaciones"
               },
               {
                 "t": "p",
-                "x": "“Los clientes empiezan su recorrido de compra con una conversación... Ese es uno de los tráficos con mayor intención de compra que puede tener un minorista y, hasta ahora, ha quedado en gran parte fuera del retail media”, dijo Darren Rajanah, Chief Revenue Officer de THG Ingenuity."
+                "x": "Bannerflow puso nombre a las herramientas de AI de su plataforma creativa. La suite, Creative Intelligence, agrupa la generación de imágenes, la puntuación predictiva de atención, una capa de análisis de rendimiento y los anuncios dinámicos basados en feeds en cuatro etapas: Create, Evaluate, Understand y Act and scale."
+              },
+              {
+                "t": "p",
+                "x": "La puntuación predictiva usa “mapas de calor de atención, análisis de foco y puntuación de claridad” para indicar qué tan probable es que una creatividad “capte la atención antes de comprometer el presupuesto de la campaña”, y señala los elementos que distraen. Creative Insights relaciona elementos como las llamadas a la acción, el color y el ritmo de la animación con el rendimiento. Los equipos también pueden generar, ampliar y escalar imágenes y configurar feeds de productos en lenguaje sencillo."
+              },
+              {
+                "t": "p",
+                "x": "El anuncio no ofrece fechas de disponibilidad, precios ni datos de validación de sus modelos predictivos. “Los equipos de marketing tienen más datos de rendimiento que nunca, pero muy pocos inspiran la siguiente pieza creativa”, dijo el Chief Product Officer, Moses Velasco."
               }
             ]
           }
@@ -1189,473 +1131,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "THG, AI 쇼핑 비서에\nCriteo 광고 도입",
-          "body": "THG가 Gemini-built AI 비서에 Criteo 광고를 유럽 첫 도입했다.",
-          "mini_headline": "THG AI 비서에 Criteo 광고",
+          "headline": "Bannerflow AI로\n광고 주목도 사전 검증",
+          "body": "Bannerflow는 AI 주목도 히트맵과 명확성 점수로 광고를 사전 검증한다.",
+          "mini_headline": "Bannerflow, 광고 사전 검증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "THG Ingenuity 계열사 THG Commerce가 Google Cloud의 Gemini Enterprise로 만든 AI Shopping Assistant에 Criteo Sponsored Products를 통합했다. THG Commerce는 Criteo Sponsored Products를 AI 기반 대화형 검색에 들여온 유럽 최초의 커머스 기술 기업이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "이번 통합으로 같은 대화 안에 스폰서 상품 추천과 일반 상품 추천이 나란히 놓인다. 초기 결과에 따르면 비서를 통해 노출된 스폰서 상품의 클릭률은 평균의 다섯 배를 넘었고, 전환율은 평균의 두 배를 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "비서는 대화마다 키워드와 필터를 뽑아 맞춤형 상품 추천으로 바꾼다. 키워드 매칭, 의미 이해, 엄격한 관련성 기준을 포함한 Criteo의 관련성 모델이 대화 맥락에도 적용되므로, 스폰서 추천은 분명한 표시와 함께 쇼핑객의 요청에 맞을 때만 나타난다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+                "cap": "Bannerflow 히트맵은 집행 전에 광고 주목도를 예측하지만, 점수를 뒷받침하는 검증 데이터는 영이다"
               },
               {
                 "t": "p",
-                "x": "THG Ingenuity의 Chief Revenue Officer인 Darren Rajanah는 “고객은 대화로 쇼핑 여정을 시작한다... 이는 리테일러가 가질 수 있는 가장 구매 의도가 높은 트래픽 가운데 하나이며, 지금까지는 대부분 리테일 미디어 밖에 있었다”고 말했다."
+                "x": "Bannerflow가 자사 크리에이티브 플랫폼의 AI 도구에 이름을 붙였다. Creative Intelligence라는 이 제품군은 이미지 생성, 예측 주목도 점수, 성과 분석 레이어, 피드 기반 다이내믹 광고를 Create, Evaluate, Understand, Act and scale의 네 단계로 묶는다."
+              },
+              {
+                "t": "p",
+                "x": "예측 점수는 “주목도 히트맵, 초점 분석, 명확성 점수”를 활용해 크리에이티브가 “캠페인 예산을 투입하기 전에 주목을 끌 가능성”을 보여주고, 시선을 분산시키는 요소를 짚어낸다. Creative Insights는 행동 유도 문구, 색상, 애니메이션 타이밍 같은 요소를 성과와 연결한다. 팀은 이미지를 생성·확장·업스케일하고, 일상 언어로 상품 피드를 설정할 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "발표 자료에는 출시 일정도, 가격도, 예측 모델의 검증 데이터도 없다. 최고제품책임자(Chief Product Officer) Moses Velasco는 “마케팅 팀은 그 어느 때보다 많은 성과 데이터를 갖고 있지만, 다음 크리에이티브에 영감을 주는 데이터는 너무 적다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "THG、AI買い物支援に\nCriteo広告を統合",
-          "body": "THGはGemini-builtのAI買い物支援にCriteo広告を欧州で初めて導入した。",
-          "mini_headline": "THGのAIアシスタントにCriteo広告",
+          "headline": "Bannerflow、AIで\n広告の注目度を事前検証",
+          "body": "BannerflowはAIの注目ヒートマップと明瞭度スコアで広告を事前検証する。",
+          "mini_headline": "Bannerflow、広告を事前検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "THG Ingenuity傘下のTHG Commerceは、Google CloudのGemini Enterpriseで構築したAI Shopping AssistantにCriteo Sponsored Productsを統合した。THG Commerceは、Criteo Sponsored ProductsをAIによる対話型検索に導入した欧州初のコマーステクノロジー企業だとしている。"
-              },
-              {
-                "t": "p",
-                "x": "この統合により、同じ会話の中でスポンサー商品とオーガニックの商品レコメンドが並んで表示される。初期結果では、アシスタント経由で表示されたスポンサー商品のクリック率は平均の五倍を超え、コンバージョン率は平均の二倍を超えた。"
-              },
-              {
-                "t": "p",
-                "x": "アシスタントは会話ごとにキーワードとフィルターを抽出し、個々に合わせた商品レコメンドに変える。キーワードマッチング、意味理解、厳格な関連性しきい値を含むCriteoの関連性モデルが対話の文脈でも機能するため、スポンサー商品のレコメンドは明確にラベル付けされ、買い物客の求めに合う場合にのみ表示される。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+                "cap": "Bannerflowのヒートマップは出稿前に広告の注目度を予測するが、スコアを裏付ける検証データはゼロだ"
               },
               {
                 "t": "p",
-                "x": "THG IngenuityのChief Revenue Officer、Darren Rajanahは「顧客は会話から買い物の旅を始める...。それは小売業者が得られる中でも最も購買意欲の高いトラフィックの一つであり、これまでは大半がリテールメディアの外にあった」と語った。"
+                "x": "Bannerflowが、自社クリエイティブプラットフォームのAIツールに名前を付けた。Creative Intelligenceというこのスイートは、画像生成、予測的な注目度スコアリング、パフォーマンス分析レイヤー、フィード連動のダイナミック広告を、Create、Evaluate、Understand、Act and scaleの四つの段階にまとめる。"
+              },
+              {
+                "t": "p",
+                "x": "予測スコアリングは「注目度ヒートマップ、フォーカス分析、明瞭度スコアリング」を用いて、クリエイティブが「キャンペーン予算を投じる前に注目を集める可能性」を示し、気を散らす要素を指摘する。Creative Insightsは、行動喚起、色、アニメーションのタイミングといった要素をパフォーマンスと結び付ける。チームは画像の生成・拡張・アップスケールや、平易な言葉での商品フィード設定も行える。"
+              },
+              {
+                "t": "p",
+                "x": "発表には提供開始日も価格も、予測モデルの検証データも示されていない。Chief Product OfficerのMoses Velasco氏は「マーケティングチームはかつてないほど多くのパフォーマンスデータを持っているが、次のクリエイティブを生む刺激になるものはあまりに少ない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "THG将Criteo广告\n引入AI购物助手",
-          "body": "THG在Gemini-built AI购物助手中加入Criteo广告，称属欧洲首例。",
-          "mini_headline": "Criteo广告进入THG AI助手",
+          "headline": "Bannerflow用AI\n预测试广告吸引力",
+          "body": "Bannerflow借助AI注意力热图与清晰度评分，在上线前预先测试广告创意。",
+          "mini_headline": "Bannerflow预测试广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "THG Ingenuity旗下的THG Commerce已将Criteo Sponsored Products整合进其基于Google Cloud Gemini Enterprise打造的AI Shopping Assistant。THG Commerce称，它是欧洲首家将Criteo Sponsored Products引入AI驱动对话式搜索的商务技术提供商。"
-              },
-              {
-                "t": "p",
-                "x": "此次整合让赞助商品推荐与自然商品推荐在同一段对话中并列呈现。早期结果显示，通过助手展示的赞助商品点击率超过平均水平的五倍，转化率超过平均水平的两倍。"
-              },
-              {
-                "t": "p",
-                "x": "助手会从每段对话中提取关键词和筛选条件，并将其转化为个性化的商品推荐。Criteo的相关性模型（包括关键词匹配、语义理解和严格的相关性阈值）同样适用于对话场景，因此赞助推荐会被清晰标注，且只在符合购物者需求时出现。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
+                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+                "cap": "Bannerflow热图可在投放前预测广告吸引力，但评分背后的验证数据为零"
               },
               {
                 "t": "p",
-                "x": "THG Ingenuity首席营收官（Chief Revenue Officer）Darren Rajanah表示：“顾客通过一段对话开启购物旅程……这是零售商能获得的购买意图最强的流量之一，而此前它大多游离于零售媒体之外。”"
+                "x": "Bannerflow为其创意平台中的AI工具起了名字。这套名为Creative Intelligence的工具组合，将图像生成、预测性注意力评分、效果分析层和基于数据馈送的动态广告归入四个阶段：Create、Evaluate、Understand以及Act and scale。"
+              },
+              {
+                "t": "p",
+                "x": "预测评分借助“注意力热图、焦点分析和清晰度评分”，显示一则创意“在投入广告预算之前吸引注意力的可能性”，并标出分散注意力的元素。Creative Insights把行动号召、色彩和动画时机等元素与效果关联起来。团队还能生成、扩展和放大图像，并用日常语言设置商品馈送。"
+              },
+              {
+                "t": "p",
+                "x": "此次发布没有给出上市日期、定价，也没有其预测模型的验证数据。“营销团队拥有的效果数据前所未有地多，但能激发下一件创意的却太少，”首席产品官（Chief Product Officer）Moses Velasco表示。"
               }
             ]
           }
         },
         "es": {
-          "headline": "THG integra anuncios de Criteo\nen su asistente de compras AI",
-          "body": "THG Commerce suma Criteo Sponsored Products a su AI Shopping Assistant Gemini-built y se dice pionera en Europa.",
-          "mini_headline": "Anuncios de Criteo en el asistente AI de THG",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "THG Commerce, parte de THG Ingenuity, ha integrado Criteo Sponsored Products en su AI Shopping Assistant, creado con Gemini Enterprise de Google Cloud. THG Commerce afirma ser el primer proveedor de tecnología de comercio en Europa que lleva Criteo Sponsored Products a la búsqueda conversacional impulsada por AI."
-              },
-              {
-                "t": "p",
-                "x": "La integración sitúa las recomendaciones de productos patrocinados y orgánicos una junto a otra dentro de la misma conversación. Los primeros resultados muestran que los productos patrocinados mostrados a través del asistente alcanzaron una tasa de clics más de cinco veces superior a la media y una tasa de conversión de más del doble de la media."
-              },
-              {
-                "t": "p",
-                "x": "El asistente extrae palabras clave y filtros de cada conversación y los convierte en recomendaciones de productos personalizadas. Los modelos de relevancia de Criteo, que incluyen coincidencia de palabras clave, comprensión semántica y umbrales estrictos de relevancia, se aplican en el contexto conversacional, de modo que las recomendaciones patrocinadas aparecen claramente etiquetadas y solo cuando coinciden con lo que pidió el comprador."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/4877af14-45ac-4a97-a140-c38a78ad0fd2/AI+Shopping+Assistant.png"
-              },
-              {
-                "t": "p",
-                "x": "“Los clientes empiezan su recorrido de compra con una conversación... Ese es uno de los tráficos con mayor intención de compra que puede tener un minorista y, hasta ahora, ha quedado en gran parte fuera del retail media”, dijo Darren Rajanah, Chief Revenue Officer de THG Ingenuity."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "marketing-meta-idle-inference-ads",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Meta, 유휴 AI 용량\n광고 추천에 활용",
-      "body": "Meta가 두 가지 탄력성 레버로 놀던 추론 용량을 광고 추천에 돌린다.",
-      "mini_headline": "Meta 광고, 유휴 AI 용량 활용",
-      "tool": "Marketing",
-      "source": "Engineering at Meta",
-      "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
-          },
-          {
-            "t": "p",
-            "x": "추론 플릿에는 용량의 역설이 있다. 전체로는 빠듯한데 곳곳에 적지 않은 유휴 용량이 남는다. Meta는 이 자투리를 모아 공유 기회형 용량 풀로 묶고 추가 용량 주문 없이 더 나은 광고 추천으로 바꾸는 시스템을 만들었다."
-          },
-          {
-            "t": "p",
-            "x": "이 용량은 거의 예고 없이 회수되기도 해서 Meta는 두 가지 탄력성 레버를 쓴다. Rank More Ads(RMA)는 랭킹 단계에서 평가하는 후보 수를 조정한다. Serve Better Models(SBM)는 더 강력한 모델로 보내는 요청 비율을 조정한다."
-          },
-          {
-            "t": "img",
-            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
-          },
-          {
-            "t": "p",
-            "x": "RMA에는 CPU와 가속기 용량이 모두 필요하지만 SBM은 가속기만 남은 잉여 용량으로도 돌아간다. 기본 서빙은 물리적·논리적 격리로 보호하고 PID 컨트롤러가 꼬리 지연 시간을 보며 후보 규모를 조정한다. 용량이 회수되면 서버와 클라이언트의 가치 인식형 부하 차단이 밀리초 단위로 반응한다."
-          },
-          {
-            "t": "p",
-            "x": "다음 단계로 Meta는 두 레버를 확장하고 사전 계산 탄력성을 개발한다. 리전 간 추론을 넓히고 AI 추론 용량을 자동 배분하는 최적화 기반 시스템도 구축할 계획이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Meta turns idle AI capacity\ninto better ad recommendations",
-          "body": "Meta's system expands ads recommendation work onto idle inference capacity across its fleet via two elasticity levers.",
-          "mini_headline": "Meta ads use idle AI capacity",
+          "headline": "Bannerflow prueba la atención\nde sus anuncios con AI",
+          "body": "Creative Intelligence, de Bannerflow, prueba anuncios antes del lanzamiento con mapas de atención y claridad de AI.",
+          "mini_headline": "Bannerflow prueba anuncios con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
+                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+                "cap": "Los mapas de calor de Bannerflow predicen la atención de un anuncio antes de invertir, con cero datos de validación que respalden las puntuaciones"
               },
               {
                 "t": "p",
-                "x": "Inference fleets face a capacity paradox: they can be globally constrained while meaningful pockets of capacity remain locally idle. Meta built a system that aggregates these pockets into a shared opportunistic capacity pool and turns them into better ads recommendations, without requiring additional capacity orders."
+                "x": "Bannerflow puso nombre a las herramientas de AI de su plataforma creativa. La suite, Creative Intelligence, agrupa la generación de imágenes, la puntuación predictiva de atención, una capa de análisis de rendimiento y los anuncios dinámicos basados en feeds en cuatro etapas: Create, Evaluate, Understand y Act and scale."
               },
               {
                 "t": "p",
-                "x": "The capacity may be reclaimed with little notice, so Meta uses two elasticity levers. Rank More Ads (RMA) adjusts the number of candidates evaluated by the ranking stages. Serve Better Models (SBM) adjusts the share of requests routed to a more powerful model."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
+                "x": "La puntuación predictiva usa “mapas de calor de atención, análisis de foco y puntuación de claridad” para indicar qué tan probable es que una creatividad “capte la atención antes de comprometer el presupuesto de la campaña”, y señala los elementos que distraen. Creative Insights relaciona elementos como las llamadas a la acción, el color y el ritmo de la animación con el rendimiento. Los equipos también pueden generar, ampliar y escalar imágenes y configurar feeds de productos en lenguaje sencillo."
               },
               {
                 "t": "p",
-                "x": "RMA requires both CPU and accelerator capacity, while SBM can use accelerator-only surplus. Physical and logical isolation protects baseline serving; a PID controller tunes candidate volume from tail latency, and value-aware load shedding at servers and clients reacts within milliseconds when capacity is reclaimed."
-              },
-              {
-                "t": "p",
-                "x": "Next, Meta is extending both levers, developing precomputation elasticity, expanding cross-region inference, and building an optimization-based system to allocate AI inference capacity automatically."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Meta, 유휴 AI 용량\n광고 추천에 활용",
-          "body": "Meta가 두 가지 탄력성 레버로 놀던 추론 용량을 광고 추천에 돌린다.",
-          "mini_headline": "Meta 광고, 유휴 AI 용량 활용",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
-              },
-              {
-                "t": "p",
-                "x": "추론 플릿에는 용량의 역설이 있다. 전체로는 빠듯한데 곳곳에 적지 않은 유휴 용량이 남는다. Meta는 이 자투리를 모아 공유 기회형 용량 풀로 묶고 추가 용량 주문 없이 더 나은 광고 추천으로 바꾸는 시스템을 만들었다."
-              },
-              {
-                "t": "p",
-                "x": "이 용량은 거의 예고 없이 회수되기도 해서 Meta는 두 가지 탄력성 레버를 쓴다. Rank More Ads(RMA)는 랭킹 단계에서 평가하는 후보 수를 조정한다. Serve Better Models(SBM)는 더 강력한 모델로 보내는 요청 비율을 조정한다."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
-              },
-              {
-                "t": "p",
-                "x": "RMA에는 CPU와 가속기 용량이 모두 필요하지만 SBM은 가속기만 남은 잉여 용량으로도 돌아간다. 기본 서빙은 물리적·논리적 격리로 보호하고 PID 컨트롤러가 꼬리 지연 시간을 보며 후보 규모를 조정한다. 용량이 회수되면 서버와 클라이언트의 가치 인식형 부하 차단이 밀리초 단위로 반응한다."
-              },
-              {
-                "t": "p",
-                "x": "다음 단계로 Meta는 두 레버를 확장하고 사전 계산 탄력성을 개발한다. 리전 간 추론을 넓히고 AI 추론 용량을 자동 배분하는 최적화 기반 시스템도 구축할 계획이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta、遊休AI容量を\n広告推薦に活用",
-          "body": "Metaは二つの弾力性レバーで、遊休の推論容量に広告推薦処理を広げる。",
-          "mini_headline": "Metaの広告が遊休AI容量を活用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
-              },
-              {
-                "t": "p",
-                "x": "推論フリートは容量のパラドックスに直面している。全体では逼迫していても、局所的には意味のある規模の容量が遊休状態で残る。Metaはこうした断片を共有の機会的容量プールに集約し、追加の容量発注なしに、より良い広告推薦へと変えるシステムを構築した。"
-              },
-              {
-                "t": "p",
-                "x": "この容量はほとんど予告なく回収される可能性があるため、Metaは二つの弾力性レバーを使う。Rank More Ads(RMA)はランキング段階で評価する候補の数を調整する。Serve Better Models(SBM)はより強力なモデルに回すリクエストの割合を調整する。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
-              },
-              {
-                "t": "p",
-                "x": "RMAにはCPUとアクセラレーターの両方の容量が必要だが、SBMはアクセラレーターのみの余剰も使える。物理的・論理的な分離でベースラインのサービングを守り、PIDコントローラーがテールレイテンシーから候補量を調整する。容量が回収されると、サーバーとクライアントでの価値を考慮した負荷制限がミリ秒単位で反応する。"
-              },
-              {
-                "t": "p",
-                "x": "Metaは今後、両レバーの拡張、事前計算の弾力性の開発、リージョン間推論の拡大、そしてAI推論容量を自動で割り当てる最適化ベースのシステムの構築を進める。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta把闲置AI算力\n用于优化广告推荐",
-          "body": "Meta借助两种弹性杠杆，把广告推荐任务扩展到整个集群的闲置推理容量上。",
-          "mini_headline": "Meta广告利用闲置AI算力",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
-              },
-              {
-                "t": "p",
-                "x": "推理集群面临一个容量悖论：整体容量可能吃紧，局部却仍有可观的闲置容量。Meta构建了一套系统，把这些零散容量汇聚成共享的机会性容量池，并在无需追加容量订单的情况下，将其转化为更好的广告推荐。"
-              },
-              {
-                "t": "p",
-                "x": "这些容量可能在几乎没有预警的情况下被收回，因此Meta采用了两种弹性杠杆。Rank More Ads（RMA）调整排序阶段评估的候选数量；Serve Better Models（SBM）调整路由到更强模型的请求比例。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
-              },
-              {
-                "t": "p",
-                "x": "RMA同时需要CPU和加速器容量，而SBM可以使用仅有加速器的富余容量。物理和逻辑隔离保护基线服务；PID控制器根据尾延迟调节候选量；容量被收回时，服务器端和客户端的价值感知负载削减会在毫秒级内作出反应。"
-              },
-              {
-                "t": "p",
-                "x": "接下来，Meta将扩展这两种杠杆，开发预计算弹性，扩大跨区域推理，并构建一套基于优化的系统来自动分配AI推理容量。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Meta usa capacidad AI ociosa\npara recomendar mejores anuncios",
-          "body": "Meta extiende la recomendación de anuncios a capacidad de inferencia ociosa con dos palancas de elasticidad.",
-          "mini_headline": "Los anuncios de Meta usan capacidad AI ociosa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
-              },
-              {
-                "t": "p",
-                "x": "Las flotas de inferencia afrontan una paradoja de capacidad: pueden estar limitadas a escala global mientras quedan bolsas significativas de capacidad ociosa a escala local. Meta creó un sistema que agrupa esas bolsas en un pool compartido de capacidad oportunista y las convierte en mejores recomendaciones de anuncios, sin necesidad de pedidos de capacidad adicional."
-              },
-              {
-                "t": "p",
-                "x": "Esa capacidad puede recuperarse casi sin aviso, por lo que Meta usa dos palancas de elasticidad. Rank More Ads (RMA) ajusta el número de candidatos que evalúan las etapas de ranking. Serve Better Models (SBM) ajusta la proporción de solicitudes enviadas a un modelo más potente."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
-              },
-              {
-                "t": "p",
-                "x": "RMA requiere capacidad tanto de CPU como de aceleradores, mientras que SBM puede usar excedentes solo de aceleradores. El aislamiento físico y lógico protege el servicio base; un controlador PID ajusta el volumen de candidatos a partir de la latencia de cola, y el descarte de carga consciente del valor en servidores y clientes reacciona en milisegundos cuando se recupera la capacidad."
-              },
-              {
-                "t": "p",
-                "x": "A continuación, Meta ampliará ambas palancas, desarrollará elasticidad de precomputación, extenderá la inferencia entre regiones y construirá un sistema basado en optimización para asignar automáticamente la capacidad de inferencia de AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Meta, 유휴 AI 용량\n광고 추천에 활용",
-          "body": "Meta가 두 가지 탄력성 레버로 유휴 추론 용량에 광고 추천 작업을 넓힌다.",
-          "mini_headline": "Meta 광고, 유휴 AI 용량 활용",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
-              },
-              {
-                "t": "p",
-                "x": "추론 플릿은 용량의 역설을 안고 있다. 전체로는 용량이 빠듯한데도 곳곳에 의미 있는 규모의 유휴 용량이 남는다. Meta는 이런 자투리 용량을 모아 공유 기회형 용량 풀로 묶고, 추가 용량 주문 없이 더 나은 광고 추천으로 바꾸는 시스템을 만들었다."
-              },
-              {
-                "t": "p",
-                "x": "이 용량은 거의 예고 없이 회수될 수 있어 Meta는 두 가지 탄력성 레버를 쓴다. Rank More Ads(RMA)는 랭킹 단계에서 평가하는 후보 수를 조정한다. Serve Better Models(SBM)는 더 강력한 모델로 보내는 요청 비율을 조정한다."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
-              },
-              {
-                "t": "p",
-                "x": "RMA에는 CPU와 가속기 용량이 모두 필요하지만, SBM은 가속기만 남는 잉여 용량도 쓸 수 있다. 물리적·논리적 격리로 기본 서빙을 보호하고, PID 컨트롤러가 꼬리 지연 시간을 보고 후보 규모를 조정한다. 용량이 회수되면 서버와 클라이언트의 가치 인식형 부하 차단이 밀리초 단위로 반응한다."
-              },
-              {
-                "t": "p",
-                "x": "Meta는 앞으로 두 레버를 확장하고, 사전 계산 탄력성을 개발하며, 리전 간 추론을 넓히고, AI 추론 용량을 자동 배분하는 최적화 기반 시스템을 구축할 계획이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta、遊休AI容量を\n広告推薦に活用",
-          "body": "Metaは二つの弾力性レバーで、遊休の推論容量に広告推薦処理を広げる。",
-          "mini_headline": "Metaの広告が遊休AI容量を活用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
-              },
-              {
-                "t": "p",
-                "x": "推論フリートは容量のパラドックスに直面している。全体では逼迫していても、局所的には意味のある規模の容量が遊休状態で残る。Metaはこうした断片を共有の機会的容量プールに集約し、追加の容量発注なしに、より良い広告推薦へと変えるシステムを構築した。"
-              },
-              {
-                "t": "p",
-                "x": "この容量はほとんど予告なく回収される可能性があるため、Metaは二つの弾力性レバーを使う。Rank More Ads(RMA)はランキング段階で評価する候補の数を調整する。Serve Better Models(SBM)はより強力なモデルに回すリクエストの割合を調整する。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
-              },
-              {
-                "t": "p",
-                "x": "RMAにはCPUとアクセラレーターの両方の容量が必要だが、SBMはアクセラレーターのみの余剰も使える。物理的・論理的な分離でベースラインのサービングを守り、PIDコントローラーがテールレイテンシーから候補量を調整する。容量が回収されると、サーバーとクライアントでの価値を考慮した負荷制限がミリ秒単位で反応する。"
-              },
-              {
-                "t": "p",
-                "x": "Metaは今後、両レバーの拡張、事前計算の弾力性の開発、リージョン間推論の拡大、そしてAI推論容量を自動で割り当てる最適化ベースのシステムの構築を進める。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta把闲置AI算力\n用于优化广告推荐",
-          "body": "Meta借助两种弹性杠杆，把广告推荐任务扩展到整个集群的闲置推理容量上。",
-          "mini_headline": "Meta广告利用闲置AI算力",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
-              },
-              {
-                "t": "p",
-                "x": "推理集群面临一个容量悖论：整体容量可能吃紧，局部却仍有可观的闲置容量。Meta构建了一套系统，把这些零散容量汇聚成共享的机会性容量池，并在无需追加容量订单的情况下，将其转化为更好的广告推荐。"
-              },
-              {
-                "t": "p",
-                "x": "这些容量可能在几乎没有预警的情况下被收回，因此Meta采用了两种弹性杠杆。Rank More Ads（RMA）调整排序阶段评估的候选数量；Serve Better Models（SBM）调整路由到更强模型的请求比例。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
-              },
-              {
-                "t": "p",
-                "x": "RMA同时需要CPU和加速器容量，而SBM可以使用仅有加速器的富余容量。物理和逻辑隔离保护基线服务；PID控制器根据尾延迟调节候选量；容量被收回时，服务器端和客户端的价值感知负载削减会在毫秒级内作出反应。"
-              },
-              {
-                "t": "p",
-                "x": "接下来，Meta将扩展这两种杠杆，开发预计算弹性，扩大跨区域推理，并构建一套基于优化的系统来自动分配AI推理容量。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Meta usa capacidad AI ociosa\npara recomendar mejores anuncios",
-          "body": "Meta extiende la recomendación de anuncios a capacidad de inferencia ociosa con dos palancas de elasticidad.",
-          "mini_headline": "Los anuncios de Meta usan capacidad AI ociosa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png"
-              },
-              {
-                "t": "p",
-                "x": "Las flotas de inferencia afrontan una paradoja de capacidad: pueden estar limitadas a escala global mientras quedan bolsas significativas de capacidad ociosa a escala local. Meta creó un sistema que agrupa esas bolsas en un pool compartido de capacidad oportunista y las convierte en mejores recomendaciones de anuncios, sin necesidad de pedidos de capacidad adicional."
-              },
-              {
-                "t": "p",
-                "x": "Esa capacidad puede recuperarse casi sin aviso, por lo que Meta usa dos palancas de elasticidad. Rank More Ads (RMA) ajusta el número de candidatos que evalúan las etapas de ranking. Serve Better Models (SBM) ajusta la proporción de solicitudes enviadas a un modelo más potente."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-image-1.png"
-              },
-              {
-                "t": "p",
-                "x": "RMA requiere capacidad tanto de CPU como de aceleradores, mientras que SBM puede usar excedentes solo de aceleradores. El aislamiento físico y lógico protege el servicio base; un controlador PID ajusta el volumen de candidatos a partir de la latencia de cola, y el descarte de carga consciente del valor en servidores y clientes reacciona en milisegundos cuando se recupera la capacidad."
-              },
-              {
-                "t": "p",
-                "x": "A continuación, Meta ampliará ambas palancas, desarrollará elasticidad de precomputación, extenderá la inferencia entre regiones y construirá un sistema basado en optimización para asignar automáticamente la capacidad de inferencia de AI."
+                "x": "El anuncio no ofrece fechas de disponibilidad, precios ni datos de validación de sus modelos predictivos. “Los equipos de marketing tienen más datos de rendimiento que nunca, pero muy pocos inspiran la siguiente pieza creativa”, dijo el Chief Product Officer, Moses Velasco."
               }
             ]
           }

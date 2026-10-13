@@ -2240,6 +2240,123 @@
           "cap": "중소벤처기업부 현판 [중소벤처기업부 제공]"
         }
       ]
+    },
+    "politics/politics-uk-mps-ai-labs-regulate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/w_2560%2Cc_limit/101326-Big%2520Four%2520UK%2520parliment.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI와 Anthropic 대표들은 영국 의회 청문회에서 자발적 서약만으로는 더 이상 안전을 보장할 수 없으며 새 법을 도입해야 한다고 말했다. Google DeepMind와 Meta는 새 입법을 지지하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "초당적 하원의원(MPs) 위원회인 Business, Innovation, Science, and Trade Committee는 프런티어 AI 기업 네 곳, 내부고발자가 된 전직 직원 네 명, 영국 고위 공무원들의 의견을 들었다. Anthropic의 Liam Booth-Smith는 “규칙은 구속력이 있어야 한다”고 말했다. OpenAI의 Tom Duff Gordon은 사고 보고를 시작으로 “일부 요소는 의무화해야 한다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind의 Owen Larter는 “우리가 할 일은 표준에 집중하는 것”이라고 말했다. Meta의 Rob Sherman은 규제 당국이 “백지에서 출발하는 것이 아니다”라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "AI Security Institute를 둔 Cabinet Office의 Cat Little은 그 테스트 체계가 자발적이라고 확인했다. “현재로서는 그렇다.” 위원장 Liam Byrne은 영국의 G20 의장국 지위를 활용해 국제 협약을 중재하길 원한다."
+        }
+      ]
+    },
+    "politics/politics-pro-ai-pac-nevada": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/w_2560%2Cc_limit/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif"
+        },
+        {
+          "t": "p",
+          "x": "WIRED가 검토한 연방 선거자금 기록에 따르면 Lantern Production Consultants LLC는 작년부터 Think Big에서 약 $20 million을 받았다. Think Big은 Leading the Future PAC이 자금을 대는 pro-AI 슈퍼 PACs 네트워크에 속한다. 이 네트워크는 중간선거를 앞두고 $140 million 이상을 모았고 여기서 돈을 받은 Nevada LLCs는 이 회사를 포함해 네 곳이다."
+        },
+        {
+          "t": "p",
+          "x": "Nevada 주 국무장관실은 WIRED에 해당 업체들의 기록을 찾을 수 없다고 밝혔다. 선거 감시단체들은 이 LLCs가 유령회사라고 주장한다. Campaign Legal Center는 오월 Think Big과 American Mission이 지급금의 실제 수령인을 공개하지 않았다며 FEC에 진정을 냈다."
+        },
+        {
+          "t": "p",
+          "x": "Leading the Future 대변인 Jesse Hunt는 “우리는 적용되는 모든 법을 준수한다”며 이 진정을 Public First와 Anthropic의 술책이라고 했다. Public First는 진정과 무관하다고 밝혔고, Campaign Legal Center는 그 주장이 “완전히 거짓”이라고 했다."
+        },
+        {
+          "t": "p",
+          "x": "이 네트워크가 돈을 대는 슈퍼 PACs는 양당에 걸쳐 있다. Think Big은 압도적으로 민주당 쪽을, American Mission은 공화당 쪽을 지원한다."
+        }
+      ]
+    },
+    "politics/politics-ai-framework-licensing-questions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/white-house616230856b554255bedd47e4fb05110f.jpg?sfvrsn=4d3772df_5"
+        },
+        {
+          "t": "p",
+          "x": "Trump 행정부는 유월 행정명령(Executive Order) 14409호를 내려 안전한 프런티어 모델 배포를 위한 “자발적 프레임워크”를 마련하도록 했다. 적용 대상 모델의 기준, 출시 최대 30일 전 정부 접근, 조기 접근을 위한 “신뢰할 수 있는 파트너” 선정이 골자다. 프레임워크는 팔월 완성됐으나 원문은 공개되지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Center for American Progress의 기술정책(Technology Policy) 담당 부사장 Adam Conner는 자발적 기준에 집행 위협이 붙으면서 사실상 인허가 제도와 사전 승인 관행이 생겼다고 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "그가 꼽는 미해결 질문은 어떤 모델이 대상인지, 개발사는 어떻게 참여하는지, 사본을 보유할 수 있는지, 검토 기간에 모델은 어떻게 되는지, 신뢰할 수 있는 파트너는 누가 지정하는지다. 정부는 구월 14일 공동 현황 보고서에서 시월 30일까지 프레임워크 원문을 공개하기로 합의했다."
+        }
+      ]
+    },
+    "politics/politics-home-office-asylum-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5251800.jpg?imageId=5251800&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Open Rights Group(ORG)의 새 보고서에 따르면 Home Office 전문가들이 검토한 AI-generated(AI 생성) 난민 면담 요약 가운데 다섯 건 중 한 건 이상이 정확성 검사를 통과하지 못했다."
+        },
+        {
+          "t": "p",
+          "x": "문제의 도구는 Asylum Case Summarisation과 Asylum Policy Search다. 둘 다 Microsoft의 Azure AI Foundry에서 OpenAI의 GPT-4o를 돌린다. ORG가 입수한 수치에 따르면 2026년 사월 도입 이후 요약 203건 중 45건이 초기 검사에서 탈락했다. 실패율은 22퍼센트로 시범 운영 때의 9퍼센트에서 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "ORG에 따르면 월평균 초기 난민 결정 건수는 전년 대비 약 42퍼센트 줄었고 면담에서 결정까지 걸리는 평균 기간은 29퍼센트 늘었다. 다만 이 수치만으로 AI 탓에 처리가 늦어졌다고 단정할 수는 없다. 정부는 결정 책임이 여전히 사람에게 있다고 밝혔다. ORG는 두 도구의 사용 중단과 독립 감사를 촉구한다. Home Office는 The Register의 문의에 답하지 않았다."
+        }
+      ]
+    },
+    "politics/politics-house-ai-agent-liability-draft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/oFhfMab3hdiIWPwashiNkQLi-PwNmkJSa9My51Ogc1s/g:nowe:0:328/c:3200:1807/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg0OTU5NTg5X1FycDQwMzUuanBn.webp",
+          "cap": "흰 돔 지붕을 얹은 건물."
+        },
+        {
+          "t": "p",
+          "x": "하원 에너지·상업위원회 소속 Lori Trahan(D-Mass.) 하원의원이 수요일 AI 시스템이 끼친 피해를 두고 민간 당사자가 소송을 걸 수 있게 하는 법안을 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "토론용 초안을 보면, AI 시스템이 사람이 했다면 과실이나 고의적 불법행위, 범죄가 될 행위로 제삼자에게 피해를 입힌 경우 AI 개발사가 책임을 진다. 다만 사용자나 시스템을 수정한 기업이 그 행위를 의도했거나 과실이 있었다면 책임은 적용되지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "“누군가 법을 어기고 당신을 다치게 하면 법정에 세울 수 있습니다.” Trahan은 이렇게 말했다. “가해자가 AI 에이전트라는 이유만으로 그 원칙이 달라져서는 안 됩니다.”"
+        },
+        {
+          "t": "p",
+          "x": "법원은 AI 시스템이 같은 행동을 한 사람과 같은 심리 상태였다고 추정한다. 개발사는 AI에 고의가 있을 수 없다는 주장을 펼 수 없다. 원고는 대체로 삼 년 안에 소송을 내면 된다. 법안은 주법을 선점하지 않는 “연방 차원의 최저 기준”을 세우고, 시행 오 년 뒤 효력을 잃는다."
+        },
+        {
+          "t": "p",
+          "x": "지난주에는 Josh Hawley(R-Mo.) 상원의원과 Chris Murphy(D-Conn.) 상원의원이 컴퓨터 사기 및 남용 방지법(Computer Fraud and Abuse Act)을 근거로 AI 에이전트(AI-agent) 운영자를 겨냥한 초당적 법안을 발표했다. Brookings의 Darrell West는 실제 입법이 다음 의회에서 이뤄질 가능성이 더 크다고 말했다."
+        }
+      ]
     }
   }
 }

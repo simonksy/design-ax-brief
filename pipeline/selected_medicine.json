@@ -1,136 +1,136 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "medicine",
   "picks": [
     {
-      "url": "https://www.nature.com/articles/s44360-026-00189-9",
-      "title": "Accuracy of a respiratory assessment chatbot in a nationwide messaging system for layperson diagnosis and triage: a randomized preregistered study",
-      "source": "Nature Health",
+      "url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
+      "title": "Government backs recommendations of NHS doctors-led AI Commission",
+      "source": "GOV.UK (DHSC/MHRA)",
       "category": "medicine",
-      "published_iso": "2026-10-05T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44360-026-00189-9/MediaObjects/44360_2026_189_Fig1_HTML.png",
-      "excerpt": "In a preregistered randomized study of 2,400 laypeople, a GPT-4o-based chatbot inside WeChat improved accuracy in diagnosing and triaging respiratory conditions across 88 clinical vignettes.",
+      "published_iso": "2026-10-06T07:00:00+01:00",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "excerpt": "Ministers back independent Commission's blueprint in full, while the MHRA's AI Airlock opens its next phase,",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "Preregistered randomized study of 2,400 laypeople showing that a GPT-4o chatbot inside WeChat improves patients' own respiratory diagnosis and triage. This is patient-facing evidence at national-platform scale."
+      "rationale": "Primary government release: the UK backs the NHS doctors-led AI Commission's blueprint in full, and the MHRA AI Airlock regulatory sandbox opens its next phase. This is a regulatory event that reaches clinicians and device makers."
     },
     {
-      "url": "https://www.nature.com/articles/s41591-026-04626-w",
-      "title": "An open vision-language model for diverse medical applications",
-      "source": "Nature Medicine",
+      "url": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
+      "title": "AI on par with radiologists for finding prostate cancer on MRI",
+      "source": "AuntMinnie",
       "category": "medicine",
-      "published_iso": "2026-10-06T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04626-w/MediaObjects/41591_2026_4626_Fig1_HTML.png",
-      "excerpt": "MedGemma, open medical vision-language models built on Gemma 3, are evaluated across imaging domains and clinical text tasks, outperforming similarly sized generative models.",
+      "published_iso": "2026-10-13T18:35:33Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+      "excerpt": "A large-scale study of over 22,000 prostate MRI exams found that artificial intelligence achieved diagnostic performance comparable to radiologists for detecting prostate cancer, suggesting AI could help address radiologist shortages.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Peer-reviewed Nature Medicine evaluation of MedGemma, an open medical VLM, on clinical imaging and text tasks. Health systems can build on it without a closed vendor."
+      "rationale": "A study of more than 22,000 prostate MRI exams finds AI detection on par with radiologists. It is fresh, large-scale diagnostic evidence that bears directly on radiologist shortages."
     },
     {
-      "url": "https://www.bmj.com/content/395/bmj-2026-101119",
-      "title": "Governments selling patient data are “betraying” their people, says AI expert",
-      "source": "The BMJ",
+      "url": "https://www.nature.com/articles/s41591-026-04680-4",
+      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+      "source": "Nature Medicine",
       "category": "medicine",
-      "published_iso": "2026-10-12T06:31:27-07:00",
-      "og_image": "",
-      "excerpt": "HealthAI CEO Ricardo Baptista Leite urged governments not to buy or sell patient data for AI, warning of a power imbalance with AI companies, as pressure mounts on NHS England over its Palantir data contract.",
+      "published_iso": "2026-10-13T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
+      "excerpt": "A small epilepsy monitoring study shows that a moderated, large language model-based chat interface lets patients converse with their electroencephalography monitoring in real time, using a smartphone, and patient feedback cut seizure-detector false alarms by about 80% without clinician input.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Freshest item in the pool: BMJ news on patient-data governance for health AI, set against the NHS England Palantir contract. Aimed at regulators and health systems."
+      "rationale": "Nature Medicine study in which patients talk to their own EEG monitoring through an LLM chat. Their feedback cut seizure-detector false alarms by about 80%, a new patient-in-the-loop care model."
     },
     {
-      "url": "https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/",
-      "title": "Claude analyzed my genome in 30 minutes. Now we need standards for the results",
-      "source": "STAT",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013809",
+      "title": "식약처, 임상시험 자료 2672건 외부 접근 노출...AI로 인증 없이 다운",
+      "source": "의학신문(bosa)",
       "category": "medicine",
-      "published_iso": "2026-10-01T08:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_2094749636_Editorial_Use_Only-1024x576.jpeg",
-      "excerpt": "Stanford cardiologist-geneticist Euan Ashley describes an LLM interpreting his whole genome in 30 minutes for about $5 and argues clinical genomics needs validation standards before patients rely on such AI reads.",
-      "source_lang": "en",
+      "published_iso": "2026-10-13T14:09:31+09:00",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
+      "excerpt": "[의학신문·일간보사=이재원 기자] 식품의약품안전처가 운영하는 의약품안전나라에서 임상시험 결과 문서 2672건을 별도 인증 없이 외부에서 내려받을 수 있었던 것으로",
+      "source_lang": "ko",
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "A leading clinical geneticist reports a $5, 30-minute LLM whole-genome read and calls for validation standards before patients rely on such results."
+      "rationale": "Korea's drug regulator (MFDS) left 2,672 clinical-trial result documents downloadable without authentication, and they could be pulled with AI. It is a regulator-level data-security failure with direct trial and patient-data stakes."
     },
     {
-      "url": "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/",
-      "title": "Data privacy concerns could hold patients back from using AI",
-      "source": "Healthcare Dive",
+      "url": "https://www.nature.com/articles/s41551-026-01812-6",
+      "title": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
+      "source": "Nature Biomedical Engineering",
       "category": "medicine",
-      "published_iso": "2026-10-01T11:27:21-04:00",
-      "og_image": "https://imgproxy.divecdn.com/nBU9G7oup06P8inpUT6UQha0z4F6HE9OKTdNN9Qm-Wo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-      "excerpt": "A patient survey finds growing concern about how health data is handled by AI tools, which could limit uptake of AI in care even as use in daily life rises.",
+      "published_iso": "2026-10-13T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
+      "excerpt": "Continual learning, a privacy-preserving approach, was shown to be effective in addressing a critical gap in paediatric AI by adapting a deep learning model for adult endotracheal tube assessment to neonatal care.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "New patient-survey data showing that privacy worries may cap AI uptake in care. Useful demand-side evidence for providers rolling out AI tools."
+      "rationale": "International multicentre study that adapts an adult endotracheal-tube X-ray model to newborns with privacy-preserving continual learning. It addresses the pediatric AI gap in NICU care."
     }
   ],
   "alternates": [
     {
-      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
-      "title": "Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/johns-hopkins-medicine-taps-openevidence-design-ai-tools-medical-training",
+      "title": "Johns Hopkins Medicine taps OpenEvidence to bring AI into medical education, clinical care",
       "source": "Fierce Healthcare",
       "category": "medicine",
-      "published_iso": "2026-10-09T15:00:00-04:00",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S",
-      "excerpt": "Health AI briefs for Oct. 5-9, including Elsevier's clinical AI tool for nurses and agentic AI deployments in specialty practices.",
+      "published_iso": "2026-10-13T08:00:00-04:00",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercebiotech/1614609749/johnshopkinssm.jpg/johnshopkinssm.jpg?VersionId=qIMJkmz.nHEJUsLocgEA3NvgJWNqF766",
+      "excerpt": "Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "Roundup with a few concrete clinical deployments (Elsevier nurse tool). A mixed digest, so it is held as an alternate."
+      "rationale": "An academic medical center partnering with an AI vendor. It is a relevant adoption story but a partnership announcement with no concrete care change yet, so it is the first alternate."
     },
     {
-      "url": "https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/",
-      "title": "AI Can Flag Cognitive Decline Earlier — Health Systems Still Own What Happens Next",
-      "source": "MedCity News",
+      "url": "https://www.nature.com/articles/s41746-026-03351-5",
+      "title": "From authoring to editing: a competency framework for trainee use of ambient AI clinical documentation",
+      "source": "npj Digital Medicine",
       "category": "medicine",
-      "published_iso": "2026-10-08T13:53:00+00:00",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2025/08/dementia-alzheimers.jpg",
-      "excerpt": "AI that flags early cognitive decline in the EHR creates a clinical duty to act; health systems must define follow-up pathways, referrals and accountability once the alert fires.",
+      "published_iso": "2026-10-12T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Ambient AI has spread through clinical settings faster than curricula can adapt, shifting trainee documentation from authoring to editing notes.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "Opinion on the clinical follow-up duty created by EHR cognitive-decline alerts. Relevant, but it is commentary."
+      "rationale": "A perspective-style framework for trainees using ambient AI scribes. It has no og_image and would be a third nature.com card."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.nature.com/articles/s44360-026-00189-9": {
-        "verdict": "new",
-        "nearest": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.35794",
-        "new_action": ""
-      },
-      "https://www.nature.com/articles/s41591-026-04626-w": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03325-7",
-        "new_action": ""
-      },
-      "https://www.bmj.com/content/395/bmj-2026-101119": {
+      "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission": {
         "verdict": "new",
         "nearest": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
         "new_action": ""
       },
-      "https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/": {
+      "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri": {
         "verdict": "new",
-        "nearest": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/10.1001/jamahealthforum.2026.4704",
+        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/ai-solution-can-help-nearly-1-5-patients-avoid-prostate-biopsies-radnet-says",
         "new_action": ""
       },
-      "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/": {
+      "https://www.nature.com/articles/s41591-026-04680-4": {
         "verdict": "new",
-        "nearest": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043448",
+        "nearest": "https://www.nature.com/articles/s41746-026-03346-2",
+        "new_action": ""
+      },
+      "https://www.bosa.co.kr/news/articleView.html?idxno=3013809": {
+        "verdict": "new",
+        "nearest": "https://www.bmj.com/content/395/bmj-2026-101119",
+        "new_action": ""
+      },
+      "https://www.nature.com/articles/s41551-026-01812-6": {
+        "verdict": "new",
+        "nearest": "https://radiologybusiness.com/topics/medical-imaging/diagnostic-imaging/fda-clears-ai-tool-pediatric-bone-age-assessments",
         "new_action": ""
       }
     },
-    "note": "Dropped 3 of 10 candidates as already-published stories. (1) STAT Clairity DTC breast-risk piece is a likely-repeat of the 10-08 AuntMinnie 'Clairity expands access via Everlywell' story: same Everlywell launch, and no new release. (2) STAT 'Utah sandbox on collision course with FDA' is analysis of the Utah AI pilots published 10-07 (Healthcare Dive) and reports no new decision. (3) MedCity Teladoc contactless vitals/ambient scribe is the same launch as the 10-08 Healthcare Dive 'Teladoc unveils remote monitoring, ambient AI features'. No clusters were in the pool. The 5 picks were checked by content against the 30-day history_digest and none repeats a published story. MedGemma (Nature Medicine) is distinct from the published GPT-5 multimodal-diagnosis npj paper, and the WeChat respiratory triage RCT is distinct from the JAMA AYA cancer-chatbot RCT. Alternates are the Fierce weekly rundown (mixed digest) and the MedCity cognitive-decline opinion. Only 2 alternates survive, so the pool is exhausted. Diversity: nature.com 2, bmj 1, statnews 1, healthcaredive 1, for 4 distinct outlets. No pick touches biosecurity or gain-of-function."
+    "note": "Pool: 15 candidates, no clusters, and 3 history_match tags (all 'related'). Dropped as duplicates: STAT 'Utah health AI pilots on collision course with FDA' is analysis of the Utah pilots already published 10-07 (Healthcare Dive) and reports no new decision. Dropped as out of scope or noise: Endpoints Heidi $340M raise (funding only; seeking FDA approval is an intention, not a regulatory event); Fierce weekly rundown (mixed digest); MedCity cognitive-decline piece, MedPage 'darker side' and STAT doctor op-ed (commentary); Radiology Business 'physicians fire back at HHS secretary' (reactions to remarks, 10-01); bosa Barreleye ultrasound (vendor profile). Content checks on tagged picks: the AuntMinnie 22k-exam prostate MRI reader study is a different study from the 10-10 RadNet biopsy-avoidance product claim. The Nature Medicine EEG patient-chat comanagement study is distinct from the 10-09 npj LLM-EHR epilepsy-detection paper. Diversity: nature.com 2, gov.uk 1, auntminnie 1, bosa 1, for 4 distinct outlets. No pick touches biosecurity or gain-of-function."
   }
 }

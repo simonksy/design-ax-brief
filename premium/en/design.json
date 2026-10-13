@@ -7805,6 +7805,135 @@
           "x": "Odyssey wants the same model to drive robot arms, drones and game characters, and showed it playing GTA V. Founded in 2023 by Oliver Cameron and Jeff Hawke, it raised $310 million in June 2026."
         }
       ]
+    },
+    "design/design-nvidia-usd-brep-kernel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia has launched USD BRep, a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modelling, sparking a rush from developers to create open source CAD modelling software that makes greater use of AI tools and workflows."
+        },
+        {
+          "t": "p",
+          "x": "AI-to-CAD has suffered due to the issues training machine learning algorithms on traditional CAD data, its metadata and multi-step feature trees. As USD BRep exposes NURBS and BRep geometry directly to Python and C++ structures, developers can feed exact geometric boundaries into neural networks or program generative models (like LLMs and Diffusion nets) to create mathematically sound, manufacturable 3D models."
+        },
+        {
+          "t": "p",
+          "x": "It is unlikely that Siemens, developer of the most widely utilised 3D CAD kernel Parasolid, will be panicking just yet. \"The value is not in another modeller, the value is in how we can link that LLM to the CAD tools that are there,\" Siemens Digital Industries CEO Tony Hemmelgarn told DEVELOP3D earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "The SMLib geometry kernel, developed by Solid Modeling Solutions and acquired by Nvidia in May 2022, forms part of the open source USD BRep project. Nvidia looks more focussed on optimising the pipeline, data translation and downstream framework than on replacing existing CAD tools."
+        }
+      ]
+    },
+    "design/design-rtx-spark-creative-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA and Microsoft announced that RTX Spark laptops will be available on Friday, Oct. 16. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark brings over 130 accelerated apps to content creation workflows. Ahead of the launch, NVIDIA and its partners are rolling out new software features and optimizations."
+        },
+        {
+          "t": "p",
+          "x": "Adobe is optimizing Photoshop, Premiere and Substance 3D for RTX Spark, delivering up to 2x faster AI, editing, color and effects. Photoshop gets GPU-accelerated compositing, while Premiere accelerates playback, rendering, color grading and AI features such as Enhance Speech and Object Mask. AI feature optimizations in Photoshop and Premiere are ready in beta, with Substance 3D updates coming soon."
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI adds two new nodes, RTX Video Frame Generation and RTX Video HDR, plus EXR export. Creators can combine LTX 2.5 with them to turn a 1080p, 30 fps SDR clip into a smoother 60 fps HDR video."
+        },
+        {
+          "t": "p",
+          "x": "Blender has released a beta of version 5.3 with RTX Spark compatibility, and next month will add DLSS Ray Reconstruction for real-time previews in the viewport. NVIDIA Broadcast 2.3 adds Video Super Resolution, Frame Generation, an Offline File Processor and an MCP server for local AI agents."
+        }
+      ]
+    },
+    "design/design-higgsfield-ten-minute-video": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Higgsfield AI is on a mission to make professional video and image creation accessible to anyone with an idea. Before GPT-6 Astra, those videos topped out at around one minute. Now, says CEO and co-founder Alex Mashrabov, users can create videos over 10 minutes long."
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield AI's creative agents take on repetitive production tasks, such as creating multiple variations of a shot. With GPT-6 Astra, those agents can also call external tools to handle complex, manual work in 3D modeling, which Alex says helps address one of creative AI's hardest problems: maintaining consistency across longer videos. The team now uses AI to generate instructional videos over 10 minutes long for its YouTube channel."
+        },
+        {
+          "t": "p",
+          "x": "\"GPT-Image-2.5 is state of the art and the first model of its kind that can reliably render the text and infographics on top of the imagery,\" he says."
+        },
+        {
+          "t": "p",
+          "x": "Around 200 creatives and 100 engineers build the product together. Creatives use Codex to turn ideas into software prototypes, and Alex says GPT-6 Astra reduces the work needed to bring them into the product. Next, Higgsfield AI wants \"voice to movie\": AI understanding a creator's spoken intention and rendering their vision in real time."
+        }
+      ]
+    },
+    "design/design-ai-forged-cartoonist-signatures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+          "cap": "ChatGPT has been signing its fake New Yorker cartoons with real cartoonists' names. (Image credit: Open AI)"
+        },
+        {
+          "t": "p",
+          "x": "When Dolly Parton and Tim Curry both died in late August, a cartoon showing them arriving at the pearly gates of heaven went viral. In the corner was the signature \"BLOPER\", the pen name of New Yorker cartoonist Brendan Loper."
+        },
+        {
+          "t": "p",
+          "x": "One problem, though: Brendan didn't draw it. A fan of Dolly Parton had simply asked ChatGPT for \"a New Yorker-style cartoon\", and the chatbot had made one. Then it faked Brendan's signature for good measure."
+        },
+        {
+          "t": "p",
+          "x": "\"I had people writing to me about this cartoon, asking if it was mine,\" he told Nieman Lab. \"It was very surreal.\" Nieman Lab went on to identify more than 15 New Yorker cartoonists whose signatures have been appearing on ChatGPT images."
+        },
+        {
+          "t": "p",
+          "x": "Yes, the line between inspiration and outright copying is a murky one. But a fake signature is crossing the Rubicon: it makes a clear statement that a named human has made this work and stands behind it. For anyone who works as a creative, your name is your reputation, your business. Next time you see an image doing the rounds on social media, think before you like or share."
+        }
+      ]
+    },
+    "design/design-world-creator-4-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "BiteTheBytes has unveiled World Creator 4, the next major version of its GPU-based terrain-generation software for game development, motion graphics and VFX work. The release, due next month, will introduce a new core architecture, enabling the software to scale from generating conventional terrain to complete planetary environments."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The new architecture is powered by BiteTheBytes’ Cloddy SDK, updated to provide a “fully GPU-driven planetary terrain pipeline”. Height and distribution data can be exported in a format that can be mapped onto a sphere; the render is based on a 9GB USGS DEM model of Mars, which BiteTheBytes says is navigable in real time inside World Creator."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new node view supplements the layer system, alongside “direct heightfield sculpting without the old level step system”, new models for procedural erosion, water and sand deposition, and over 110 procedural noise types. A new polygon-based renderer brings “conventional real-time game rendering alongside path tracing”, and both renderers support DLSS 4.5."
+        },
+        {
+          "t": "p",
+          "x": "The release will also feature a batch processing system and an integrated MCP server, making it possible to control World Creator with external AI tools like Claude and ChatGPT. The formerly Windows-only software is coming to macOS and Linux."
+        },
+        {
+          "t": "p",
+          "x": "World Creator 4 is due for release in November 2026. BiteTheBytes hasn’t announced any price changes."
+        }
+      ]
     }
   }
 }

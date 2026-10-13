@@ -5917,6 +5917,119 @@
           "x": "他不打算放弃AI：\"使用工具。让人的判断留在流程之中。公开说明。核实。公开纠正错误。\""
         }
       ]
+    },
+    "books/books-elpais-spain-ai-bestsellers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+          "cap": "巴塞罗那一家书店的店员在查看经典作品区。"
+        },
+        {
+          "t": "p",
+          "x": "EL PAÍS从Amazon.es和Casa del Libro畅销榜以及主要文学奖中选取了2025年和2026年出版的119本热门图书，用检测工具Pangram进行分析。对2019年和2020年的56本书做同样检测，未发现任何AI生成迹象，全部得分为0%。"
+        },
+        {
+          "t": "p",
+          "x": "在119本近期图书中，35本显示出一定的AI-generated文本迹象（29%），13本得分超过50%。AI使用集中在自出版作品中：44本中有13本，即30%，其中许多是爱情小说。Javier Cercas、Isabel Allende和Dolores Redondo等知名作家的得分均为0%。"
+        },
+        {
+          "t": "p",
+          "x": "最突出的案例是西班牙政治人物Alvise Pérez的Devuélveme mi país，该书于2026年二月登上Amazon榜单No. 1；Pangram判定其中97%出自AI。Pérez称这本书是他“逐字逐句”写成的。"
+        },
+        {
+          "t": "p",
+          "x": "九本传统出版的图书也显示出一定的AI痕迹，其中四本非虚构作品得分在12%到34%之间。Pangram并非万无一失，也无法揭示人在创作过程中扮演了什么角色。"
+        }
+      ]
+    },
+    "books/books-frankfurt-appeal-ai-transparency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+        },
+        {
+          "t": "p",
+          "x": "150多家出版商和出版组织正敦促EU和德国政府，要求AI开发者公开用于训练其模型的作品。这一诉求载于德国出版商与书商协会发布的Frankfurt Appeal中。"
+        },
+        {
+          "t": "p",
+          "x": "呼吁书提出三项行动：包括在作品层面公开训练数据在内的透明度义务；具备公平收益模式的授权市场；以及遵守欧洲著作权法，并配备有力的执行手段。“侵权而无须承担后果的权利毫无价值。”"
+        },
+        {
+          "t": "p",
+          "x": "协会负责人Sebastian Guggolz表示：“如果政界现在不采取行动，AI将继续夺走我们数以百万计的受版权保护作品，最终还会夺走我们的思考能力。”"
+        },
+        {
+          "t": "p",
+          "x": "截至2026年十月9日，已有150多家机构签署，包括Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association和Federation of European Publishers，以及来自巴西、埃及、UK、奥地利、荷兰、阿根廷、泰国和澳大利亚的出版商。"
+        }
+      ]
+    },
+    "books/books-turkiye-ai-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "AI公司未支付版权费便用图书训练商业模型，在Türkiye出版业引发普遍担忧。Türkiye新闻出版协会主席Halil Celik对Anadolu Agency表示，出版商没有可靠的办法查明哪些书被用来训练AI模型。"
+        },
+        {
+          "t": "p",
+          "x": "有指控称AI公司大批购买印刷图书，扫描后销毁实体书，争论随之升温。Celik警告称，拆解珍本和绝版书（其中一些是仅存的最后几册）会让文化遗产面临风险。"
+        },
+        {
+          "t": "p",
+          "x": "他呼吁修订Türkiye的《知识与艺术作品法》，纳入有关AI训练、数据集披露和处罚的规定，并提议建立一套许可制度（可能通过集体协议实现），让AI公司为商业使用付费。"
+        },
+        {
+          "t": "p",
+          "x": "Celik表示：“如果建立起合适的法律和授权体系，今天被免费使用的内容，明天就可能成为版权和授权收入的新来源。”"
+        }
+      ]
+    },
+    "books/books-audible-ai-narration-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+        },
+        {
+          "t": "p",
+          "x": "Audible委托开展的全球调查《The Future of Listening》由NielsenIQ执行，覆盖U.S.、U.K.、多个欧洲国家、日本和巴西等11个市场的18,000名消费者。约34%的受访者表示，过去一年听的有声书比前一年更多。"
+        },
+        {
+          "t": "p",
+          "x": "69%的听众已读过他们所听的书，通过音频发现某位作者的人中有63%会继续购买该作者的其他作品。Audible首席内容官Rachel Ghiazza表示：“有声书与其他形式并非竞争关系。”"
+        },
+        {
+          "t": "p",
+          "x": "约半数受访者表示愿意尝试AI朗读，除德国和日本外，大多数市场对小说的兴趣高于非虚构作品。Ghiazza称之为“and策略”：真人演播者仍将保留，节省下来的制作成本将用于出版更多作品。“质量和透明度至关重要。”"
+        },
+        {
+          "t": "p",
+          "x": "Audible没有详细说明调查方法，但Ghiazza对犹豫不决的出版商传达的信息十分直接：“时机就是现在。”"
+        }
+      ]
+    },
+    "books/books-caine-prize-kundizeza-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Caine Prize for African Writing发表声明，回应Atlantic有关得主Simbarashe Kundizeza可能使用AI的指控。"
+        },
+        {
+          "t": "p",
+          "x": "作为回应，该奖项正启动其所称的“以人为本的流程”（human-centred process），起因是这位津巴布韦得主被指使用AI。"
+        }
+      ]
     }
   }
 }

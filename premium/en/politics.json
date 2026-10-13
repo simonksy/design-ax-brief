@@ -2240,6 +2240,123 @@
           "cap": "Signboard of the Ministry of SMEs and Startups [Provided by the Ministry of SMEs and Startups]"
         }
       ]
+    },
+    "politics/politics-uk-mps-ai-labs-regulate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/w_2560%2Cc_limit/101326-Big%2520Four%2520UK%2520parliment.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Representatives for OpenAI and Anthropic told a British parliamentary hearing that voluntary pledges were no longer enough to ensure safety and that new laws should be introduced. Google DeepMind and Meta declined to back new legislation."
+        },
+        {
+          "t": "p",
+          "x": "The Business, Innovation, Science, and Trade Committee, a cross-party panel of MPs, heard from four frontier AI firms, four former staff turned whistleblowers and senior British civil servants. “The rules should be binding,” Anthropic's Liam Booth-Smith said. OpenAI's Tom Duff Gordon said “there should be some elements that should be mandatory,” starting with incident reporting."
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind's Owen Larter said: “Focus on the standards is what we would be doing.” Meta's Rob Sherman said regulators were “not writing on a blank page.”"
+        },
+        {
+          "t": "p",
+          "x": "Cat Little of the Cabinet Office, which houses the AI Security Institute, confirmed its testing regime is voluntary: “At the moment, yes, it is.” Committee chair Liam Byrne wants Britain's G20 presidency used to broker an international convention."
+        }
+      ]
+    },
+    "politics/politics-pro-ai-pac-nevada": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/w_2560%2Cc_limit/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif"
+        },
+        {
+          "t": "p",
+          "x": "Lantern Production Consultants LLC has been paid around $20 million since last year by Think Big, part of a network of pro-AI super PACs funded by the Leading the Future PAC, according to federal campaign finance records reviewed by WIRED. It is one of four Nevada LLCs paid by the network, which has raised over $140 million for the midterms."
+        },
+        {
+          "t": "p",
+          "x": "Nevada's secretary of state told WIRED it could not locate records for the businesses. Election watchdogs argue the LLCs are shell companies; the Campaign Legal Center filed an FEC complaint in May alleging Think Big and American Mission failed to disclose the actual recipients of their payments."
+        },
+        {
+          "t": "p",
+          "x": "Leading the Future spokesperson Jesse Hunt said, “We comply with all applicable laws,” calling the complaint a ploy by Public First and Anthropic. Public First said it had nothing to do with the complaint, and the Campaign Legal Center called that suggestion “absolutely false.”"
+        },
+        {
+          "t": "p",
+          "x": "The network funds super PACs backing both parties: Think Big overwhelmingly funds Democrats, and American Mission funds Republicans."
+        }
+      ]
+    },
+    "politics/politics-ai-framework-licensing-questions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/white-house616230856b554255bedd47e4fb05110f.jpg?sfvrsn=4d3772df_5"
+        },
+        {
+          "t": "p",
+          "x": "In June, the Trump administration issued Executive Order 14409, which ordered a “voluntary framework” for secure frontier model deployment: a threshold for covered models, government access up to 30 days before release, and selection of “trusted partners” for early access. The framework was completed in August, but its text was withheld from the public."
+        },
+        {
+          "t": "p",
+          "x": "Adam Conner, vice president of Technology Policy at the Center for American Progress, argues that pairing voluntary standards with threats of enforcement has created a de facto licensing system and an expectation of preclearance."
+        },
+        {
+          "t": "p",
+          "x": "He lists open questions: which models are covered, how developers join, whether they can keep a copy, what happens to models during review, and who names the trusted partners. The government agreed in a Sept. 14 joint status report to release the framework text by Oct. 30."
+        }
+      ]
+    },
+    "politics/politics-home-office-asylum-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5251800.jpg?imageId=5251800&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "A new report by the Open Rights Group (ORG) says more than one in five AI-generated asylum interview summaries checked by Home Office experts failed accuracy tests."
+        },
+        {
+          "t": "p",
+          "x": "The tools are Asylum Case Summarisation and Asylum Policy Search, both using OpenAI's GPT-4o through Microsoft's Azure AI Foundry. Figures obtained by ORG show 45 of 203 summaries failed initial checks after the April 2026 rollout, a 22 percent failure rate versus 9 percent in the pilot."
+        },
+        {
+          "t": "p",
+          "x": "ORG says average monthly initial asylum decisions fell about 42 percent year on year while the mean time from interview to decision rose 29 percent, though the figures don't prove AI caused the slowdown. The government says humans remain responsible for decisions. ORG is calling for both tools to be suspended and independently audited; the Home Office did not respond to The Register."
+        }
+      ]
+    },
+    "politics/politics-house-ai-agent-liability-draft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/oFhfMab3hdiIWPwashiNkQLi-PwNmkJSa9My51Ogc1s/g:nowe:0:328/c:3200:1807/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg0OTU5NTg5X1FycDQwMzUuanBn.webp",
+          "cap": "A view of a white domed building."
+        },
+        {
+          "t": "p",
+          "x": "Rep. Lori Trahan, D-Mass., a member of the House Energy and Commerce Committee, on Wednesday proposed legislation that would allow private parties to sue for harms caused by AI systems."
+        },
+        {
+          "t": "p",
+          "x": "The discussion draft would hold an AI developer liable if one of its systems injured a third party through conduct that would constitute negligence, an intentional tort, or a crime if committed by a human. Liability would not apply where the user or a company that modified the system intended the conduct or was negligent."
+        },
+        {
+          "t": "p",
+          "x": "“When someone breaks the law and hurts you, you can take them to court,” Trahan said. “That shouldn't change just because the wrongdoer is an AI agent.”"
+        },
+        {
+          "t": "p",
+          "x": "Courts would presume an AI system had the state of mind a person taking the same actions would have, and developers could not argue that AI is incapable of intent. Plaintiffs would generally have three years to bring a claim; the proposal would sunset five years after enactment and create “a federal floor” without preempting state law."
+        },
+        {
+          "t": "p",
+          "x": "Last week, Sens. Josh Hawley, R-Mo., and Chris Murphy, D-Conn., announced bipartisan legislation targeting AI-agent operators under the Computer Fraud and Abuse Act. Brookings' Darrell West said action is more likely in the next Congress."
+        }
+      ]
     }
   }
 }

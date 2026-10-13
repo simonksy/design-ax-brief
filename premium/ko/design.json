@@ -13767,6 +13767,135 @@
           "x": "Odyssey는 같은 모델로 로봇 팔과 드론, 게임 캐릭터까지 움직일 계획이고, 모델이 GTA V를 플레이하는 영상도 공개했다. 2023년 Oliver Cameron과 Jeff Hawke가 세운 회사로, 2026년 6월 $310 million을 유치했다."
         }
       ]
+    },
+    "design/design-nvidia-usd-brep-kernel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia가 NURBS-based 경계 표현(BRep) 솔리드 모델링용 독립형 C++·Python 라이브러리 USD BRep을 출시했다. 덕분에 AI 도구와 워크플로를 더 적극적으로 쓰는 오픈소스 CAD 모델링 소프트웨어를 만들려는 개발자들의 움직임에 속도가 붙었다."
+        },
+        {
+          "t": "p",
+          "x": "AI-to-CAD는 그동안 기존 CAD 데이터와 메타데이터, 여러 단계로 이뤄진 피처 트리로 머신러닝 알고리즘을 학습시키기 어려워 고전했다. USD BRep은 NURBS와 BRep 형상을 Python과 C++ 구조에 직접 노출한다. 개발자는 정확한 기하 경계를 신경망에 넣거나 생성 모델(LLMs, Diffusion 네트워크 등)을 프로그래밍해 수학적으로 정확하고 제조 가능한 3D 모델을 만들 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "가장 널리 쓰이는 3D CAD 커널 Parasolid를 개발한 Siemens가 당장 긴장할 것 같지는 않다. Siemens Digital Industries CEO Tony Hemmelgarn은 올해 초 DEVELOP3D에 \"가치는 또 하나의 모델러에 있지 않다. 가치는 그 LLM을 이미 있는 CAD 도구와 어떻게 연결하느냐에 있다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Solid Modeling Solutions가 개발하고 Nvidia가 2022년 5월 인수한 SMLib 기하 커널도 오픈소스 USD BRep 프로젝트에 들어 있다. Nvidia는 기존 CAD 도구를 대체하기보다 파이프라인, 데이터 변환, 다운스트림 프레임워크 최적화에 더 힘을 쏟는 모습이다."
+        }
+      ]
+    },
+    "design/design-rtx-spark-creative-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA와 Microsoft는 RTX Spark 노트북을 10월 16일 금요일에 출시한다고 발표했다. RTX Spark는 최대 128GB 통합 메모리와 1페타플롭의 AI 연산 성능을 갖췄고, 콘텐츠 제작 워크플로에 130개가 넘는 가속 앱을 제공한다. NVIDIA와 파트너사들은 출시를 앞두고 새 소프트웨어 기능과 최적화를 잇따라 내놓는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "Adobe는 Photoshop, Premiere, Substance 3D를 RTX Spark에 맞게 최적화해 AI, 편집, 색상, 효과 작업 속도를 최대 2배 높인다. Photoshop에는 GPU 가속(GPU-accelerated) 합성이 들어간다. Premiere에서는 재생, 렌더링, 컬러 그레이딩과 Enhance Speech, Object Mask 같은 AI 기능이 빨라진다. Photoshop과 Premiere의 AI 기능 최적화는 베타로 먼저 나오고, Substance 3D 업데이트는 곧 나온다."
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI에는 RTX Video Frame Generation과 RTX Video HDR이라는 새 노드 두 개와 EXR 내보내기가 추가된다. 크리에이터는 여기에 LTX 2.5를 더해 1080p, 30 fps SDR 클립을 더 매끄러운 60 fps HDR 영상으로 바꿀 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Blender는 RTX Spark를 지원하는 5.3 버전 베타를 공개했고, 다음 달에는 뷰포트 실시간 미리보기용 DLSS Ray Reconstruction을 넣는다. NVIDIA Broadcast 2.3에는 Video Super Resolution, Frame Generation, Offline File Processor와 로컬 AI 에이전트용 MCP 서버가 들어간다."
+        }
+      ]
+    },
+    "design/design-higgsfield-ten-minute-video": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Higgsfield AI의 목표는 아이디어만 있으면 누구나 전문가 수준의 영상과 이미지를 만들게 하는 것이다. GPT-6 Astra 이전에는 영상 길이가 1분 안팎에 그쳤다. 이제는 사용자들이 10분이 넘는 영상도 만들 수 있다는 게 CEO이자 공동 창업자인 Alex Mashrabov의 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield AI의 크리에이티브 에이전트는 한 장면의 여러 변형을 만드는 일처럼 반복적인 제작 작업을 맡는다. GPT-6 Astra를 쓰면 이 에이전트들이 외부 도구를 불러 3D 모델링의 복잡한 수작업까지 처리한다. Alex는 이 방식이 크리에이티브 AI에서 가장 어려운 문제 중 하나인 긴 영상의 일관성 유지에 도움이 된다고 말한다. 팀은 요즘 AI로 10분이 넘는 튜토리얼 영상을 만들어 YouTube 채널에 올린다."
+        },
+        {
+          "t": "p",
+          "x": "그는 \"GPT-Image-2.5는 최첨단 모델이며, 이미지 위에 텍스트와 인포그래픽을 안정적으로 렌더링할 수 있는 이 분야 최초의 모델\"이라고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "제품은 약 200명의 크리에이티브와 100명의 엔지니어가 함께 만든다. 크리에이티브는 Codex로 아이디어를 소프트웨어 프로토타입으로 바꾼다. Alex는 GPT-6 Astra 덕분에 이 프로토타입을 제품에 반영하는 작업이 줄었다고 말한다. Higgsfield AI가 다음으로 노리는 것은 \"voice to movie\"다. AI가 크리에이터의 말에 담긴 의도를 이해하고 그 비전을 실시간으로 렌더링하는 방식이다."
+        }
+      ]
+    },
+    "design/design-ai-forged-cartoonist-signatures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+          "cap": "ChatGPT는 자신이 만든 가짜 New Yorker 만화에 실제 만화가들의 이름으로 서명해 왔다. (이미지 출처: Open AI)"
+        },
+        {
+          "t": "p",
+          "x": "8월 말 Dolly Parton과 Tim Curry가 잇따라 세상을 떠나자, 두 사람이 천국의 진주문에 도착하는 모습을 그린 만화 한 컷이 널리 퍼졌다. 귀퉁이에는 New Yorker 만화가 Brendan Loper의 필명인 \"BLOPER\"라는 서명이 있었다."
+        },
+        {
+          "t": "p",
+          "x": "그런데 문제가 하나 있었다. Brendan이 그린 그림이 아니었다. Dolly Parton의 한 팬이 ChatGPT에 \"New Yorker 스타일 만화\"를 부탁했고, 챗봇은 만화를 그려 주면서 덤으로 Brendan의 서명까지 위조했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 Nieman Lab에 \"이 만화를 두고 내 작품이냐고 묻는 연락이 왔다\"며 \"정말 초현실적이었다\"고 말했다. 이후 Nieman Lab이 확인한 결과, ChatGPT 이미지에 서명이 나온 New Yorker 만화가는 15명이 넘었다."
+        },
+        {
+          "t": "p",
+          "x": "영감과 노골적인 베끼기의 경계는 원래 모호하다. 하지만 가짜 서명은 루비콘강을 건너는 일이다. 서명은 거기 적힌 사람이 이 작품을 만들었고 책임진다는 분명한 표시다. 창작으로 먹고사는 사람에게 이름은 곧 평판이자 생계다. 소셜 미디어에서 도는 이미지를 다음에 보게 되면, 좋아요를 누르거나 공유하기 전에 한 번 생각해 보자."
+        }
+      ]
+    },
+    "design/design-world-creator-4-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "BiteTheBytes가 GPU-based 지형 생성 소프트웨어 World Creator 4를 공개했다. 게임 개발, 모션 그래픽, VFX 작업에 쓰는 이 툴의 차기 메이저 버전이다. 다음 달 나오는 이번 버전은 코어 아키텍처를 새로 짜서 일반 지형부터 행성 전체 환경까지 다룰 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "새 아키텍처의 바탕은 BiteTheBytes의 Cloddy SDK다. “완전히 GPU-driven 방식의 행성 지형 파이프라인”을 제공하도록 손본 버전이다. 높이·분포 데이터는 구체에 매핑할 수 있는 형식으로 내보낸다. 렌더 이미지는 9GB 용량의 USGS DEM 화성 모델로 만들었고, BiteTheBytes는 이 모델을 World Creator 안에서 실시간으로 탐색할 수 있다고 밝혔다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "레이어 시스템을 보완할 노드 뷰가 새로 들어간다. “예전 레벨 단계 시스템 없이 하이트필드를 직접 스컬프팅”하는 기능, 절차적 침식과 물·모래 퇴적을 다루는 새 모델, 110가지가 넘는 절차적 노이즈 유형도 더해진다. 새 폴리곤 기반 렌더러는 “패스 트레이싱과 함께 일반적인 실시간 게임 렌더링”을 제공하고, 두 렌더러 모두 DLSS 4.5를 지원한다."
+        },
+        {
+          "t": "p",
+          "x": "배치 처리 시스템과 통합 MCP 서버도 실려서 Claude, ChatGPT 같은 외부 AI 도구로 World Creator를 제어할 수 있다. 그동안 Windows-only였던 소프트웨어가 이제 macOS와 Linux에서도 돌아간다."
+        },
+        {
+          "t": "p",
+          "x": "World Creator 4는 2026년 11월에 나올 예정이다. BiteTheBytes가 발표한 가격 변경은 없다."
+        }
+      ]
     }
   }
 }

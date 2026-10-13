@@ -9825,6 +9825,119 @@
           "x": "그래도 그는 AI를 끊을 생각이 없다. \"도구를 쓰십시오. 사람의 판단을 고리 안에 두십시오. 공개하고, 검증하고, 실수는 공개적으로 바로잡으십시오.\""
         }
       ]
+    },
+    "books/books-elpais-spain-ai-bestsellers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+          "cap": "바르셀로나의 한 서점에서 직원이 고전 코너를 살핀다."
+        },
+        {
+          "t": "p",
+          "x": "EL PAÍS는 Amazon.es와 Casa del Libro 베스트셀러 목록, 주요 문학상에서 2025년과 2026년에 나온 인기 도서 119권을 골라 탐지 도구 Pangram으로 분석했다. 같은 방식으로 2019년과 2020년에 나온 책 56권을 살펴보니 AI 생성 흔적은 하나도 없었다. 모두 0%였다."
+        },
+        {
+          "t": "p",
+          "x": "최근 도서 119권 중 35권(29%)에서 AI-generated 텍스트 흔적이 일부 보였고 13권은 50%를 넘었다. AI를 쓴 책은 자가출판 쪽에 몰렸다. 자가출판 도서 44권 중 13권으로 30%였고, 상당수가 로맨스 소설이었다. Javier Cercas, Isabel Allende, Dolores Redondo 같은 기성 작가의 책은 0%였다."
+        },
+        {
+          "t": "p",
+          "x": "가장 눈에 띄는 사례는 스페인 정치인 Alvise Pérez의 Devuélveme mi país다. 2026년 이월 Amazon에서 No. 1에 오른 이 책을 두고 Pangram은 내용의 97%를 AI가 썼다고 판정했다. Pérez는 “한 단어 한 단어” 직접 썼다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "전통 방식으로 나온 책 가운데서도 아홉 권에서 AI 흔적이 일부 발견됐다. 그중 논픽션 네 권은 12%에서 34% 사이였다. Pangram이 완벽하지는 않다. 작업 과정에서 사람이 어떤 역할을 했는지도 가려내지 못한다."
+        }
+      ]
+    },
+    "books/books-frankfurt-appeal-ai-transparency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+        },
+        {
+          "t": "p",
+          "x": "150곳이 넘는 출판사와 출판 단체가 EU와 독일 정부에 AI 개발사가 모델 학습에 쓴 작품을 공개하도록 의무화하라고 촉구한다. 요구 내용은 독일출판서점협회가 발표한 Frankfurt Appeal에 담겼다."
+        },
+        {
+          "t": "p",
+          "x": "호소문은 세 가지를 요구한다. 작품 단위로 학습 데이터를 공개하는 투명성 의무, 공정한 수익 모델을 갖춘 라이선스 시장, 강력한 집행 수단이 뒷받침하는 유럽 저작권법 준수다. “침해해도 아무 결과가 따르지 않는 권리는 무가치하다.”"
+        },
+        {
+          "t": "p",
+          "x": "협회장 Sebastian Guggolz는 “정치권이 지금 행동하지 않으면 AI는 계속해서 수백만 편의 저작물을 빼앗고, 결국에는 우리의 사고 능력까지 빼앗을 것”이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "2026년 시월 9일 현재 Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, International Publishers Association, Federation of European Publishers를 비롯해 브라질, 이집트, UK, 오스트리아, 네덜란드, 아르헨티나, 태국, 호주의 출판사까지 150곳 넘는 단체가 서명했다."
+        }
+      ]
+    },
+    "books/books-turkiye-ai-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "AI 기업들이 저작권료를 내지 않고 책을 상업용 모델 학습에 쓰면서 Türkiye 출판업계 전반에 우려가 번지고 있다. Türkiye 언론출판협회 Halil Celik 회장이 Anadolu Agency에 밝힌 바로는, 어떤 책이 AI 모델 학습에 쓰였는지 출판사가 확인할 믿을 만한 방법이 없다."
+        },
+        {
+          "t": "p",
+          "x": "AI 기업들이 인쇄본을 대량으로 사들여 스캔한 뒤 실물을 폐기한다는 의혹이 나오면서 논란이 커졌다. Celik은 희귀본과 절판본, 그중에서도 마지막 남은 사본까지 해체하면 문화유산이 위태로워진다고 경고했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 Türkiye의 지식·예술저작물법을 고쳐 AI 학습, 데이터셋 공개, 처벌 규정을 넣어야 한다고 촉구했다. 단체 협약으로도 이용할 수 있는 라이선스 제도를 도입해 AI 기업이 상업적 이용의 대가를 치르게 하자는 제안도 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "Celik은 “올바른 법·라이선스 체계가 갖춰지면 오늘 무료로 쓰이는 콘텐츠가 내일은 저작권과 라이선스 수익의 새로운 원천이 될 수 있다”고 말했다."
+        }
+      ]
+    },
+    "books/books-audible-ai-narration-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+        },
+        {
+          "t": "p",
+          "x": "Audible이 의뢰하고 NielsenIQ가 진행한 글로벌 조사 “The Future of Listening”은 U.S., U.K., 유럽 여러 나라, 일본, 브라질 등 11개 시장의 소비자 18,000명을 대상으로 했다. 응답자의 34%는 지난 한 해 오디오북을 그 전해보다 더 많이 들었다고 답했다."
+        },
+        {
+          "t": "p",
+          "x": "청취자의 69%는 이미 읽은 작품을 들었다. 오디오로 작가를 처음 접한 사람 가운데 63%는 그 작가의 다른 작품을 샀다. Audible의 최고콘텐츠책임자 Rachel Ghiazza는 “오디오북은 다른 형식과 경쟁하지 않는다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "응답자의 절반가량은 AI 낭독을 들어볼 의향이 있다고 답했다. 독일과 일본을 뺀 대부분 시장에서는 논픽션보다 픽션 쪽 관심이 더 높았다. Ghiazza는 이를 “‘and’ 전략”이라고 불렀다. 사람 낭독자는 그대로 남고 제작비를 아낀 만큼 더 많은 작품을 낸다는 것이다. “품질과 투명성이 매우 중요하다.”"
+        },
+        {
+          "t": "p",
+          "x": "Audible은 조사 방법을 자세히 밝히지 않았다. 망설이는 출판사들에게 Ghiazza가 던진 메시지는 단호했다. “때는 바로 지금이다.”"
+        }
+      ]
+    },
+    "books/books-caine-prize-kundizeza-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Atlantic이 수상자 Simbarashe Kundizeza가 AI를 썼을 수 있다고 의혹을 제기하자, Caine Prize for African Writing이 성명을 냈다."
+        },
+        {
+          "t": "p",
+          "x": "상 측은 짐바브웨 출신 수상자의 AI 사용 의혹을 놓고, 스스로 '인간 중심 절차(human-centred process)'라 부르는 과정에 들어간다."
+        }
+      ]
     }
   }
 }

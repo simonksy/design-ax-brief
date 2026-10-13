@@ -7932,6 +7932,135 @@
           "x": "Odysseyは同じモデルでロボットアームやドローン、ゲームキャラクターを動かすことを目指しており、GTA Vをプレイする様子も披露した。2023年にOliver CameronとJeff Hawkeが創業し、2026年6月に$310 millionを調達した。"
         }
       ]
+    },
+    "design/design-nvidia-usd-brep-kernel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidiaは、NURBS-basedの境界表現（BRep）ソリッドモデリング向けの独立したC++およびPythonライブラリ、USD BRepを公開した。これを受け、AIツールとワークフローをより積極的に活用するオープンソースのCADモデリングソフトウェアを開発しようとする動きが開発者の間で広がっている。"
+        },
+        {
+          "t": "p",
+          "x": "AI-to-CADは、従来のCADデータやそのメタデータ、多段階のフィーチャーツリーで機械学習アルゴリズムを訓練することの難しさに悩まされてきた。USD BRepはNURBSとBRepの形状をPythonとC++の構造に直接公開するため、開発者は正確な幾何境界をニューラルネットワークに入力したり、生成モデル（LLMsやDiffusionネットなど）をプログラムしたりして、数学的に正しく製造可能な3Dモデルを作ることができる。"
+        },
+        {
+          "t": "p",
+          "x": "最も広く使われている3D CADカーネルParasolidを開発したSiemensが、今すぐ慌てる可能性は低い。Siemens Digital IndustriesのCEO、Tony Hemmelgarnは今年初めDEVELOP3Dに対し「価値はもう一つのモデラーにあるのではない。価値は、そのLLMを既存のCADツールとどう結びつけられるかにある」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Solid Modeling Solutionsが開発し、Nvidiaが2022年5月に買収したSMLibジオメトリカーネルは、オープンソースのUSD BRepプロジェクトの一部を成す。Nvidiaは既存のCADツールを置き換えることよりも、パイプライン、データ変換、下流のフレームワークの最適化に重点を置いているようだ。"
+        }
+      ]
+    },
+    "design/design-rtx-spark-creative-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIAとMicrosoftは、RTX Sparkノートパソコンを10月16日（金）に発売すると発表した。最大128GBのユニファイドメモリと1ペタフロップのAI演算性能を備えるRTX Sparkは、130を超えるアクセラレーション対応アプリをコンテンツ制作のワークフローにもたらす。発売に先立ち、NVIDIAとパートナー各社は新しいソフトウェア機能と最適化を順次提供している。"
+        },
+        {
+          "t": "p",
+          "x": "AdobeはPhotoshop、Premiere、Substance 3DをRTX Spark向けに最適化し、AI、編集、カラー、エフェクトを最大2倍高速化する。PhotoshopにはGPU-acceleratedのコンポジット（GPUアクセラレーションによる合成）が加わり、Premiereは再生、レンダリング、カラーグレーディングに加え、Enhance SpeechやObject MaskといったAI機能を高速化する。PhotoshopとPremiereのAI機能最適化はベータ版で利用でき、Substance 3Dのアップデートも近く提供される。"
+        },
+        {
+          "t": "p",
+          "x": "ComfyUIは、RTX Video Frame GenerationとRTX Video HDRという二つの新ノードに加え、EXR書き出しに対応する。クリエイターはこれらとLTX 2.5を組み合わせ、1080p・30 fpsのSDRクリップを、より滑らかな60 fpsのHDR映像に変換できる。"
+        },
+        {
+          "t": "p",
+          "x": "BlenderはRTX Sparkに対応したバージョン5.3のベータ版を公開し、来月にはビューポートでのリアルタイムプレビュー向けにDLSS Ray Reconstructionを追加する。NVIDIA Broadcast 2.3には、Video Super Resolution、Frame Generation、Offline File Processor、ローカルAIエージェント向けのMCPサーバーが加わる。"
+        }
+      ]
+    },
+    "design/design-higgsfield-ten-minute-video": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Higgsfield AIは、アイデアさえあれば誰でもプロ品質の動画や画像を作れるようにすることを使命としている。GPT-6 Astra以前、その動画の長さは約1分が上限だった。CEO兼共同創業者のAlex Mashrabovによれば、現在ユーザーは10分を超える動画を作成できるという。"
+        },
+        {
+          "t": "p",
+          "x": "Higgsfield AIのクリエイティブエージェントは、ショットのバリエーションを複数作るといった反復的な制作作業を担う。GPT-6 Astraにより、こうしたエージェントは外部ツールを呼び出して3Dモデリングの複雑な手作業もこなせるようになった。Alexは、これがクリエイティブAIの最も難しい課題の一つである長い動画での一貫性の維持に役立つと話す。チームは現在、AIを使って10分を超える解説動画を生成し、自社のYouTubeチャンネルで公開している。"
+        },
+        {
+          "t": "p",
+          "x": "「GPT-Image-2.5は最先端であり、画像の上にテキストやインフォグラフィックを確実に描画できる初めての種類のモデルだ」と彼は言う。"
+        },
+        {
+          "t": "p",
+          "x": "約200人のクリエイターと100人のエンジニアが共に製品を作っている。クリエイターはCodexでアイデアをソフトウェアのプロトタイプにし、AlexによればGPT-6 Astraによってそれを製品に取り込む手間が減ったという。Higgsfield AIが次に目指すのは「voice to movie」、つまりAIがクリエイターの話す意図を理解し、そのビジョンをリアルタイムで描き出すことだ。"
+        }
+      ]
+    },
+    "design/design-ai-forged-cartoonist-signatures": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+          "cap": "ChatGPTは、生成した偽のNew Yorker風漫画に実在する漫画家の名前で署名していた。（画像クレジット：Open AI）"
+        },
+        {
+          "t": "p",
+          "x": "8月下旬にDolly PartonとTim Curryが相次いで亡くなると、二人が天国の真珠の門に到着する様子を描いた漫画が拡散した。その隅には、New Yorkerの漫画家Brendan Loperのペンネームである「BLOPER」という署名があった。"
+        },
+        {
+          "t": "p",
+          "x": "ただ、問題が一つあった。Brendanはそれを描いていなかったのだ。Dolly Partonのファンが単にChatGPTに「New Yorker風の漫画」を頼み、チャットボットがそれを作った。そのうえ、念押しのようにBrendanの署名まで偽造していた。"
+        },
+        {
+          "t": "p",
+          "x": "「この漫画について、私の作品かと尋ねる連絡が来た」と彼はNieman Labに語った。「とても非現実的だった」。Nieman Labはその後、ChatGPTの画像に署名が現れているNew Yorkerの漫画家を15人以上特定した。"
+        },
+        {
+          "t": "p",
+          "x": "確かに、インスピレーションと露骨な模倣の境界は曖昧だ。しかし偽の署名はルビコン川を渡る行為である。名前の明かされた人間がこの作品を作り、責任を持つという明確な表明になるからだ。クリエイターとして働く人にとって、名前は評判であり、仕事そのものだ。次にソーシャルメディアで出回っている画像を見かけたら、「いいね」や共有の前に一度考えてほしい。"
+        }
+      ]
+    },
+    "design/design-world-creator-4-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "BiteTheBytesは、ゲーム開発やモーショングラフィックス、VFX向けのGPU-based地形生成ソフトの次期メジャーバージョン、World Creator 4を発表した。来月リリース予定の新版は新しいコアアーキテクチャを導入し、従来の地形生成から惑星全体の環境まで扱えるようになる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新アーキテクチャを支えるのは、「完全にGPU-drivenな惑星地形パイプライン」を提供するよう更新されたBiteTheBytesのCloddy SDKだ。高さと分布のデータは球体にマッピングできる形式で書き出せる。レンダー画像は9GB のUSGS DEMによる火星モデルを基にしたもので、BiteTheBytesによればWorld Creator内でリアルタイムに操作できるという。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "レイヤーシステムを補う新しいノードビューに加え、「旧来のレベルステップ方式を使わない直接的なハイトフィールドスカルプト」、プロシージャルな侵食や水・砂の堆積の新モデル、110種類を超えるプロシージャルノイズが加わる。新しいポリゴンベースのレンダラーは「パストレーシングと並ぶ従来型のリアルタイムゲームレンダリング」をもたらし、両レンダラーともDLSS 4.5に対応する。"
+        },
+        {
+          "t": "p",
+          "x": "バッチ処理システムと統合MCPサーバーも備え、ClaudeやChatGPTといった外部のAIツールからWorld Creatorを操作できる。これまでWindows-onlyだったソフトはmacOSとLinuxにも対応する。"
+        },
+        {
+          "t": "p",
+          "x": "World Creator 4は2026年11月にリリース予定だ。BiteTheBytesは価格改定を発表していない。"
+        }
+      ]
     }
   }
 }

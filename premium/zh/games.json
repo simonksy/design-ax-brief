@@ -6805,6 +6805,137 @@
           "x": "alpha测试以来，创作者满意度提升10%，“不是我想要的”投诉从18%降至3%，约14%的提示会话和19%的试玩最终得以发布。"
         }
       ]
+    },
+    "games/games-dlss5-faster-less-vram": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NVIDIA宣布，DLSS 5现在速度更快、资源占用更少，并将登陆包括Hogwarts Legacy在内的新游戏。本月发布的新DLSS 5模型，速度是3月GTC 2026期间首次亮相的模型的两倍。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/dlss-3d-guided-neural-rendering-10x-faster-since-announce-scaled.jpg",
+          "cap": "DLSS 5模型速度提升一倍"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA对训练数据进行了微调，参数减少24%，模型规模降至仅1亿1800万个参数。在4K 分辨率下，新模型的VRAM占用降低20%。虽然性能提升因游戏而异，但NBA 2K27现在比9月发售时快30%以上，4K 分辨率下帧率从65 FPS跃升至90 FPS。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/IMG_7389-scaled.jpg",
+          "cap": "Hogwarts Legacy将于11月5日支持DLSS 5"
+        },
+        {
+          "t": "p",
+          "x": "Hogwarts Legacy将于11月5日获得DLSS 5，Avalanche Software借助DLSS 5的SDK控制功能，保持游戏的艺术意图与风格。11月下旬，Where Winds Meet也将推出官方DLSS 5更新。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/hogwarts-legacy-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on-scaled.jpg",
+          "cap": "Hogwarts Legacy，开启DLSS 5"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA还计划将这项技术带到RTX 40 GPUs上。"
+        }
+      ]
+    },
+    "games/games-vrchat-ai-boycott": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/VR-Chat.jpg"
+        },
+        {
+          "t": "p",
+          "x": "VR Chat社区因平台上的生成式AI而陷入轩然大波。参与粉丝运营的维基、并协助测试与翻译的Patroll是最知名的社区开发者之一，现已退出活动，以抗议AI-generated世界与图像的“猖獗瘟疫”，其中包括在搜索中误导性呈现世界的AI生成缩略图。"
+        },
+        {
+          "t": "p",
+          "x": "Patroll请其他开发者展示声明作品未使用AI的横幅，如今许多最受欢迎的世界都挂出了这一横幅。诉求还包括更好地过滤AI内容，以及减少VR Chat自身对AI的使用。"
+        },
+        {
+          "t": "p",
+          "x": "公司随即禁止了误导性缩略图，并承认自己正处在一个“令人不安的十字路口”。“一方面，AI能帮助加快开发、减轻技术负担；另一方面，它也可能源源不断地产出侵蚀人与人联系的低质量、低投入内容。”"
+        },
+        {
+          "t": "p",
+          "x": "公司接受将AI用于翻译、代码辅助和引擎内工具，但正就是否标注或禁止AI资产及完全生成的世界征询用户意见，并承诺改进搜索。征询将在接下来一周持续进行，之后团队将推行其AI政策。"
+        }
+      ]
+    },
+    "games/games-bloodborne-vibe-coded-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HYgVWfc7Vi2zK2m4QHVb6C.jpg",
+          "cap": "图片来源：FromSoftware"
+        },
+        {
+          "t": "p",
+          "x": "Bloodborne并未正式登陆PC，但The Hunter's Dream背后的粉丝自己动手完成了移植。据其官网介绍，它支持多人联机和键鼠操作，可在Windows和Linux（包括Steam Deck）上运行。"
+        },
+        {
+          "t": "p",
+          "x": "这个移植版有可能——简直是100%——是用生成式AI做的。在作者的GitHub页面上，Claude被列为参与了项目几乎每个环节的“人员”之一。"
+        },
+        {
+          "t": "p",
+          "x": "反响并不正面。一条评论写道：“顺便说一句，这其实不算原生移植。”“AI只是从模拟器里胡乱搬了些东西。”另一人宣称：“NOT PLAYING THIS AI SLOP I WILL JUST USE THE EMULATOR MADE BY HUMANS!”（我才不玩这种AI垃圾，我就用人类做的模拟器！）还有人指出，你仍然需要Bloodborne的原版拷贝以及来自PS4的e-boot。"
+        }
+      ]
+    },
+    "games/games-tarn-adams-hates-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Tarn-Adams-Dwarf-Fortress.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
+          "cap": "Tarn Adams | 图片来源：Bay 12 Games/Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "Dwarf Fortress作者Tarn Adams自2002年起与兄弟Zach一同开发这款游戏，如今热情比以往更高——唯独对AI例外。他谈到业界担心被“某种眼下连你的工作都做不了的机器人”取代的焦虑。生成式AI玷污了这个名字：“我没法再叫它dwarf AI了。”"
+        },
+        {
+          "t": "p",
+          "x": "他从未想过在Dwarf Fortress中使用生成式AI。“你一打开氛围编程的游戏，[电脑]风扇就开始转，你就知道了。它不够好。但即便够好，我也仍有理由不用。”只有平台层面的转变，比如Microsoft强制要求使用生成式AI才能让游戏在Windows上获得认可，才会让他认真考虑。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/dward3.jpg?width=690&height=388&fit=crop&quality=85&format=jpg&auto=webp",
+          "cap": "Dwarf Fortress"
+        },
+        {
+          "t": "p",
+          "x": "模组作者打造了一台由吸血鬼驱动的计算机。这款游戏在Steam上的首月售出近50万份，到2025年4月突破100万份，但Adams表示，在约15人参与开发的情况下，这“还不足以让人觉得宽裕”。一周的促销相当于“两个半月的生意”。"
+        }
+      ]
+    },
+    "games/games-epic-ai-first-disney-delay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/image002_5im69wh.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "图片来源：Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games推迟了即将推出的Disney合作项目——一款汇集Marvel与Star Wars系列角色的射击游戏，并要求开发者转向“AI优先”（AI first）的制作模式。据Bloomberg报道，该游戏原定于3月推出，但新的发售日期尚未确定。"
+        },
+        {
+          "t": "p",
+          "x": "知情人士透露，开发者被要求使用包括Anthropic的Claude在内的AI工具制作游戏，由员工监督产出。在Bloomberg看到的一条内部消息中，该游戏的一位总监对员工表示：“不再有手写代码。”这位总监还称，游戏的全部美术将“通过完整的AI工作流生成”。"
+        },
+        {
+          "t": "p",
+          "x": "Epic传播总监Jake Jones表示，公司正在“拥抱AI-accelerated（AI加速）开发，由Epic开发者主导，他们是我们一切工作的远见者和创意推动者”。开发者上周在一次视频通话中得知了这一变化，据Bloomberg的消息人士称，部分人感到“震惊”。"
+        },
+        {
+          "t": "p",
+          "x": "同一消息人士称，开发进度已经落后，部分原因是Epic错误估计了该游戏所需的人手和时间。Bloomberg表示，此前没有其他大型游戏公司尝试过主要依靠AI制作游戏。Disney于2024年向Epic投资15亿美元，这款射击游戏原本将是双方合作的首款游戏。"
+        }
+      ]
     }
   }
 }

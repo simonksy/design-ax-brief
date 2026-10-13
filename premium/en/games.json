@@ -7331,6 +7331,137 @@
           "x": "Since the alpha, creator satisfaction rose 10%, \"not what I want\" complaints fell from 18% to 3%, and about 14% of prompted sessions and 19% of playtests are published."
         }
       ]
+    },
+    "games/games-dlss5-faster-less-vram": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NVIDIA has announced that DLSS 5 is now faster, less resource-hungry, and coming to new games including Hogwarts Legacy. The new DLSS 5 model releasing this month is twice as fast as the model first unveiled in March during GTC 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/dlss-3d-guided-neural-rendering-10x-faster-since-announce-scaled.jpg",
+          "cap": "DLSS 5 Model Now Twice as Fast"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA is fine-tuning the training data with 24% fewer parameters, bringing the model size down to just 118 million parameters. In 4K, VRAM usage with the newer model is cut down by 20%. While performance gains are game-dependent, NBA 2K27 now runs over 30% faster than at its September launch, with frame rates jumping from 65 FPS to 90 FPS in 4K."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/IMG_7389-scaled.jpg",
+          "cap": "DLSS 5 for Hogwarts Legacy, available November 5th"
+        },
+        {
+          "t": "p",
+          "x": "Hogwarts Legacy will receive DLSS 5 on November 5th, with Avalanche Software using DLSS 5’s SDK controls to maintain the artistic intent and style of the game. In late November, Where Winds Meet will also get an official DLSS 5 update."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/hogwarts-legacy-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on-scaled.jpg",
+          "cap": "Hogwarts Legacy, DLSS 5 on"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA is also planning to bring the tech to RTX 40 GPUs."
+        }
+      ]
+    },
+    "games/games-vrchat-ai-boycott": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/VR-Chat.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The VR Chat community has entered an uproar over generative AI on the platform. Patroll, one of its most prominent community developers, who works on the fan-run wiki and helps with testing and translation, has stepped back in protest at the “rampant plague” of AI-generated worlds and images, including AI-generated thumbnails that deceptively represent worlds in search."
+        },
+        {
+          "t": "p",
+          "x": "Patroll asked other developers to display banners stating no AI is used in their work, and many of the most popular worlds now show the banner. The demands also include better filtering of AI content and less AI use inside VR Chat itself."
+        },
+        {
+          "t": "p",
+          "x": "The company immediately banned deceptive thumbnails and admits it finds itself at an “uncomfortable crossroads.” “On one hand, AI can help accelerate development and ease technical burden, while on the other, it can generate endless streams of low-quality, low-effort content that erodes human connection.”"
+        },
+        {
+          "t": "p",
+          "x": "It accepts AI for translation, code help and in-engine tools, but is consulting users on whether to label or prohibit AI assets and fully generated worlds, and promises better search. Consultations continue for the next week before the team enacts its AI policies."
+        }
+      ]
+    },
+    "games/games-bloodborne-vibe-coded-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HYgVWfc7Vi2zK2m4QHVb6C.jpg",
+          "cap": "Image credit: FromSoftware"
+        },
+        {
+          "t": "p",
+          "x": "Bloodborne isn't officially available on PC, but fans behind The Hunter's Dream have ported it themselves. According to its official website, it supports multiplayer, keyboard and mouse controls and works on Windows and Linux, Steam Deck included."
+        },
+        {
+          "t": "p",
+          "x": "There's a chance – like, 100% – that the port was made using generative AI. On the creator's GitHub page, Claude is credited as one of the “people” who worked on pretty much every aspect of the project."
+        },
+        {
+          "t": "p",
+          "x": "Reactions aren't positive. “It's not really a native port btw,” reads one comment. “AI just slopped stuff from the emulator.” Another declares, “NOT PLAYING THIS AI SLOP I WILL JUST USE THE EMULATOR MADE BY HUMANS!” One person points out that you still need the original copy of Bloodborne and an e-boot from your PS4."
+        }
+      ]
+    },
+    "games/games-tarn-adams-hates-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Tarn-Adams-Dwarf-Fortress.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
+          "cap": "Tarn Adams | Image credit: Bay 12 Games/Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "Dwarf Fortress creator Tarn Adams, working on the game with his brother Zach since 2002, is more enthusiastic than ever – except about AI. He reflects on industry anxiety over being replaced with “some kind of robot that can't even do your job at this point.” Generative AI has tarnished the name: “I can't call it dwarf AI.”"
+        },
+        {
+          "t": "p",
+          "x": "He has never been tempted to use generative AI in Dwarf Fortress. “You can tell when you grab a vibe-coded game and your [computer] fan starts spinning. It's not good enough. But even if it were, I'd still have reasons not to do it.” Only a platform shift, such as Microsoft forcing gen AI to get games recognised on Windows, would make him seriously think about it."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/dward3.jpg?width=690&height=388&fit=crop&quality=85&format=jpg&auto=webp",
+          "cap": "Dwarf Fortress"
+        },
+        {
+          "t": "p",
+          "x": "Modders have built a computer powered by vampires. The game sold nearly 500,000 copies in its first Steam month and passed 1 million by April 2025, but Adams says it's “not enough to feel that flush” with around 15 people working on it. A week-long sale is “two and a half months of business.”"
+        }
+      ]
+    },
+    "games/games-epic-ai-first-disney-delay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/image002_5im69wh.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Image credit: Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the Marvel and Star Wars franchises - and told developers to move to an \"AI first\" production model. According to Bloomberg, the game had been slated for March, but no new release date has been confirmed."
+        },
+        {
+          "t": "p",
+          "x": "People familiar with the project told the site that developers were asked to build the game with AI tools, including Anthropic's Claude, with staff overseeing the output. In an internal message seen by Bloomberg, one of the game's directors told staff: \"No more hand-written code.\" The director also said all of the game's art would be \"generated with full AI workflows.\""
+        },
+        {
+          "t": "p",
+          "x": "Epic communications director Jake Jones said the company is \"embracing AI-accelerated development, led by Epic developers who are the visionaries and creative drivers for everything we do.\" Developers were told about the change on a video call last week, and some were \"stunned\" according to Bloomberg's sources."
+        },
+        {
+          "t": "p",
+          "x": "The same sources said development had fallen behind schedule, partly because Epic misjudged the staffing and time the game would need. Bloomberg said no other major games company has previously tried to make a game mostly with AI. Disney invested $1.5 billion in Epic in 2024, and this shooter was due to be the first game of their partnership."
+        }
+      ]
     }
   }
 }
