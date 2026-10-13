@@ -60,8 +60,13 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
 .quote .mark{font-size:92px;font-weight:800;opacity:.42;line-height:.8;margin-bottom:14px}
 /* 마지막 장 — 사이트로 보내는 자리. 썸네일 칸을 비우지 않고 마크를 세워
    레이아웃 문법을 지킨다(글이 같은 자리에서 시작한다). */
+/* 가운데에 크림 후광을 깐다. 뒤에서 구가 돌기 때문에 어떤 노드가 글자
+   뒤로 지나갈지 미리 알 수 없다 — 노드를 비켜 놓는 대신 글자 쪽에 바탕을
+   깔아야 회전 내내 읽힌다. */
 .brandblock{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;
-  justify-content:center;gap:28px}
+  justify-content:center;gap:28px;
+  background:radial-gradient(ellipse 330px 300px at 50%% 50%%,
+    rgba(242,236,225,.96) 42%%, rgba(242,236,225,0) 100%%)}
 .brandblock img{width:272px;height:272px}
 .brandblock .wm{font-size:58px;font-weight:800;letter-spacing:-.035em;color:#3a352e}
 .brandblock .url{font-size:35px;font-weight:700;color:%(ACCENT)s}
@@ -89,88 +94,143 @@ p{margin-top:28px;font-size:%(BS)dpx;line-height:1.72;color:#332f29;word-break:k
 
 
 # --- outro 카드의 지식 그래프 배경 -------------------------------------------
-# 사이트의 Pro 기능인 지식 그래프를 마지막 장 배경에 깐다. 캡처를 쓰지 않는
-# 이유는 그 화면이 날마다 달라지고 글자가 읽히는 크기로 들어오지 않기
-# 때문이다 — 같은 팔레트로 다시 그리는 쪽이 통제된다.
-NET_CANVAS = 1400        # 정사각 캔버스. 돌려도 모서리가 드러나지 않을 만큼
-                         # 크다(1080x760의 대각선 1320 < 1400).
+# 사이트의 Pro 기능인 지식 그래프를 마지막 장 배경에 깐다. 사이트는
+# 3d-force-graph의 구(球) 레이아웃을 지구본처럼 돌리므로 여기서도 **구로**
+# 그린다 — 평면 그림을 ffmpeg으로 돌리면 앞뒤가 겹치지 않아 입체로 보이지
+# 않는다. 노드를 구 껍질에 뿌리고 프레임마다 직접 투영한다.
+#
+# 화면 캡처를 쓰지 않는 이유: 그 화면은 날마다 달라지고, 글자가 읽히는
+# 크기로 들어오지 않는다. 같은 팔레트로 다시 그리는 쪽이 통제된다.
 NET_BG = "#f2ece1"       # outro 썸네일 칸 바탕과 같은 색
 NET_SEED = 11
-NET_SPIN = 0.045         # rad/s. 12초에 31도 — 눈에 띄되 산만하지 않다.
-NET_DUR = 12
+NET_NODES = 54
+NET_R = 420              # 투영 반지름(px). 칸 높이(760)보다 커서 구가 위아래로
+                         # 잘린다 — 다 보이게 줄이면 양옆이 휑해져 사이트
+                         # 그래프와 인상이 달라진다.
+NET_TILT = 0.28          # 고정 기울기(rad). 0이면 노드가 한 띠에 몰려 납작하다.
+NET_SWEEP = 0.85         # 전체 회전량(rad) ≈ 49도. 10초에 걸쳐 돈다.
+NET_FPS = 15
+NET_FRAMES = 150
+NET_GRID = (5, 6)        # 시트 한 장에 담는 타일(열, 행). 30장 × 5시트 = 150
 # 사이트 INSIGHTS_COLORS와 같은 섹션 색. 한쪽만 고치면 색이 어긋난다.
 NET_COLORS = ["#0070f3", "#eb367f", "#7928ca", "#2ec5c5", "#f5a623",
               "#ff5a4d", "#3aa655", "#9aa8c7", "#ff8a3d", "#00897b"]
 
 
-def network_svg():
-    """노드와 엣지를 한 장의 SVG로 굽는다.
+def _net_graph():
+    """노드를 구 껍질에 고르게 뿌리고 가까운 것끼리 잇는다.
 
-    가운데는 비워 둔다 — 로고와 'AX-it NOW', 주소가 그 위에 앉으므로 노드가
-    들어오면 글자가 읽히지 않는다. 비우는 모양이 원이 아니라 세로로 긴
-    타원인 것은 글 덩어리가 세로로 길기 때문이다."""
+    속을 채우지 않고 껍질에만 두는 이유: 채우면 가운데가 빽빽해져 로고와
+    주소가 노드에 묻힌다. 껍질이면 투영했을 때 테두리가 짙고 가운데가
+    비어 — 사이트의 지구본과 같은 인상이 된다."""
     import math
     import random
     rnd = random.Random(NET_SEED)
-    c = NET_CANVAS / 2
-    clear_rx, clear_ry = 250, 330          # 로고·글자가 앉는 빈 자리
     pts = []
-    while len(pts) < 46:
-        a, r = rnd.uniform(0, math.tau), math.sqrt(rnd.uniform(0, 1)) * 600
-        x, y = c + math.cos(a) * r, c + math.sin(a) * r
-        if ((x - c) / clear_rx) ** 2 + ((y - c) / clear_ry) ** 2 < 1:
-            continue
-        if any((x - px) ** 2 + (y - py) ** 2 < 74 ** 2 for px, py, _ in pts):
-            continue
-        pts.append((x, y, rnd.randrange(len(NET_COLORS))))
-
+    ga = math.pi * (3 - math.sqrt(5))          # 황금각: 구 위에 고르게 깔린다
+    for i in range(NET_NODES):
+        y = 1 - 2 * (i + 0.5) / NET_NODES
+        r = math.sqrt(max(0.0, 1 - y * y))
+        a = ga * i
+        s = rnd.uniform(0.9, 1.0)              # 껍질에 약간의 두께
+        pts.append((math.cos(a) * r * s, y * s, math.sin(a) * r * s,
+                    rnd.randrange(len(NET_COLORS)), 10 + rnd.randrange(7)))
     edges = set()
-    for i, (x, y, _) in enumerate(pts):
-        near = sorted(range(len(pts)),
-                      key=lambda j: (pts[j][0] - x) ** 2 + (pts[j][1] - y) ** 2)
+    for i, p in enumerate(pts):
+        near = sorted(range(NET_NODES),
+                      key=lambda j: sum((pts[j][k] - p[k]) ** 2 for k in range(3)))
         for j in near[1:3]:
             edges.add((min(i, j), max(i, j)))
+    return pts, sorted(edges)
 
-    out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{NET_CANVAS}" '
-           f'height="{NET_CANVAS}" viewBox="0 0 {NET_CANVAS} {NET_CANVAS}">',
-           f'<rect width="{NET_CANVAS}" height="{NET_CANVAS}" fill="{NET_BG}"/>',
-           '<g stroke="#bfb5a4" stroke-width="2.4" stroke-opacity=".55">']
-    for i, j in sorted(edges):
-        out.append(f'<line x1="{pts[i][0]:.1f}" y1="{pts[i][1]:.1f}" '
-                   f'x2="{pts[j][0]:.1f}" y2="{pts[j][1]:.1f}"/>')
-    out.append("</g>")
-    for k, (x, y, ci) in enumerate(pts):
-        r = 8 + (k * 7919 % 11)            # 7~18px, 고르게 흩뿌린다
-        out.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r}" '
-                   f'fill="{NET_COLORS[ci]}" fill-opacity=".92"/>')
-    out.append("</svg>")
-    return "".join(out)
+
+def _net_frame(pts, edges, angle, h):
+    """한 프레임을 SVG로 그린다. 직교 투영 + 깊이에 따른 크기·투명도.
+
+    엣지와 노드를 따로 그리지 않고 깊이로 한 번에 정렬한다 — 따로 그리면
+    뒤쪽 노드가 앞쪽 엣지를 덮어 겹침이 거꾸로 보인다."""
+    import math
+    ca, sa = math.cos(angle), math.sin(angle)
+    ct, st = math.cos(NET_TILT), math.sin(NET_TILT)
+    cx, cy = W / 2, h / 2
+    proj = []
+    for x, y, z, ci, base in pts:
+        X, Z = x * ca + z * sa, -x * sa + z * ca      # Y축 회전
+        Y, Z = y * ct - Z * st, y * st + Z * ct       # X축 고정 기울기
+        proj.append((cx + X * NET_R, cy + Y * NET_R, (Z + 1) / 2, ci, base))
+
+    layers = []
+    for i, j in edges:
+        ax, ay, az, _, _ = proj[i]
+        bx, by, bz, _, _ = proj[j]
+        d = (az + bz) / 2
+        layers.append((d, f'<line x1="{ax:.1f}" y1="{ay:.1f}" x2="{bx:.1f}" '
+                          f'y2="{by:.1f}" stroke="#a89c88" '
+                          f'stroke-width="{1.3 + 1.5 * d:.2f}" '
+                          f'stroke-opacity="{0.10 + 0.34 * d:.3f}"/>'))
+    for px, py, d, ci, base in proj:
+        r = base * (0.58 + 0.60 * d)
+        layers.append((d, f'<circle cx="{px:.1f}" cy="{py:.1f}" r="{r:.1f}" '
+                          f'fill="{NET_COLORS[ci]}" '
+                          f'fill-opacity="{0.30 + 0.68 * d:.3f}"/>'))
+    layers.sort(key=lambda t: t[0])
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{h}" '
+            f'viewBox="0 0 {W} {h}"><rect width="{W}" height="{h}" '
+            f'fill="{NET_BG}"/>' + "".join(s for _, s in layers) + "</svg>")
 
 
 def network_clip(out_dir, mh):
-    """네트워크를 천천히 도는 클립으로 만든다. 프레임을 한 장씩 굽지 않고
-    **한 장을 구워 ffmpeg으로 돌린다** — 12초짜리를 크롬으로 찍으면 360장을
-    따로 띄워야 하고, 그래 봐야 결과는 같은 회전이다."""
-    png = os.path.join(out_dir, "_net.png")
-    svg = os.path.join(out_dir, "_net.svg")
-    open(svg, "w", encoding="utf-8").write(network_svg())
-    shoot(f'<!doctype html><html><head><meta charset="utf-8"><style>'
-          f'*{{margin:0;padding:0}}html,body{{width:{NET_CANVAS}px;'
-          f'height:{NET_CANVAS}px;overflow:hidden}}img{{display:block}}</style>'
-          f'</head><body><img src="file://{svg}"></body></html>', png,
-          size=(NET_CANVAS, NET_CANVAS))
+    """구가 도는 10초 클립을 만든다.
+
+    프레임을 한 장씩 크롬으로 찍지 않는다 — 150번 띄우면 몇 분이 걸린다.
+    **한 시트에 30프레임을 타일로 깔아 한 번에 찍고** ffmpeg untile로
+    쪼갠다. 크롬 호출이 150번에서 5번으로 줄어든다."""
+    cols, rows = NET_GRID
+    per = cols * rows
+    pts, edges = _net_graph()
+    frames_dir = os.path.join(out_dir, "_frames")
+    os.makedirs(frames_dir, exist_ok=True)
+    sheets = -(-NET_FRAMES // per)
+    for s in range(sheets):
+        tiles = []
+        for k in range(per):
+            f = s * per + k
+            if f >= NET_FRAMES:
+                # 남는 칸은 마지막 프레임으로 채운다. 빈 칸을 두면 untile이
+                # 그 칸도 프레임으로 뱉어 끝에 흰 장면이 붙는다.
+                f = NET_FRAMES - 1
+            a = NET_SWEEP * f / (NET_FRAMES - 1)
+            tiles.append(f'<i>{_net_frame(pts, edges, a, mh)}</i>')
+        shoot(f'<!doctype html><html><head><meta charset="utf-8"><style>'
+              f'*{{margin:0;padding:0}}'
+              f'body{{display:grid;grid-template-columns:repeat({cols},{W}px);'
+              f'width:{cols * W}px}}'
+              f'i{{display:block;width:{W}px;height:{mh}px}}</style></head>'
+              f'<body>{"".join(tiles)}</body></html>',
+              os.path.join(out_dir, f"_sheet{s}.png"),
+              size=(cols * W, rows * mh))
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error",
+                        "-i", os.path.join(out_dir, f"_sheet{s}.png"),
+                        "-vf", f"untile={cols}x{rows}",
+                        os.path.join(frames_dir, f"f{s:02d}_%03d.png")], check=True)
+        os.remove(os.path.join(out_dir, f"_sheet{s}.png"))
+
+    keep = sorted(os.listdir(frames_dir))[:NET_FRAMES]
+    for n, name in enumerate(keep):
+        os.rename(os.path.join(frames_dir, name),
+                  os.path.join(frames_dir, f"z{n:04d}.png"))
+    for name in os.listdir(frames_dir):
+        if not name.startswith("z"):
+            os.remove(os.path.join(frames_dir, name))
     clip = os.path.join(out_dir, "_net.mp4")
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1",
-                    "-t", str(NET_DUR), "-i", png, "-vf",
-                    # 돌린 뒤 가운데에서 썸네일 칸만큼 베어 낸다. 베어 낸
-                    # 바깥은 같은 크림이라 회전해도 테두리가 생기지 않는다.
-                    f"rotate=a={NET_SPIN}*t:fillcolor=0x{NET_BG[1:]},"
-                    f"crop={W}:{mh}",
-                    "-r", "30", "-c:v", "libx264", "-preset", "medium",
-                    "-crf", "20", "-pix_fmt", "yuv420p", "-an", clip],
-                   check=True)
-    for f in (png, svg):
-        os.path.exists(f) and os.remove(f)
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error",
+                    "-framerate", str(NET_FPS),
+                    "-i", os.path.join(frames_dir, "z%04d.png"),
+                    "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+                    "-pix_fmt", "yuv420p", "-an", clip], check=True)
+    for name in os.listdir(frames_dir):
+        os.remove(os.path.join(frames_dir, name))
+    os.rmdir(frames_dir)
     return clip
 
 
