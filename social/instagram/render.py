@@ -466,6 +466,14 @@ def main():
             out = os.path.join(out_dir, f"card{n}.png")
             shoot(card_html(c, meta, len(cards), False), out)
             kind = "PNG"
+        # 같은 번호의 다른 확장자가 남아 있으면 지운다. 카드 종류를 바꾸면
+        # (영상 커버 → thread 그림) 예전 파일이 그대로 남아, 올릴 때 어느
+        # 쪽이 최신인지 알 수 없게 된다 — 실제로 card1.mp4와 card1.png가
+        # 한 폴더에 같이 있었다.
+        stale = os.path.join(out_dir, f"card{n}." + ("png" if has_video else "mp4"))
+        if os.path.exists(stale):
+            os.remove(stale)
+            print(f"  · 묵은 card{n}.{'png' if has_video else 'mp4'} 지움")
         print(f"card{n}  {kind}  {os.path.getsize(out)//1024}KB")
 
 
