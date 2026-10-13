@@ -4,13 +4,12 @@
     "date": "2026.10.13",
     "section": "MOVIES",
     "accent": "#7928ca",
-    "note": "한 작품이 아니라 한 흐름이다. 아카이브에서 AI 장편 네 건을 꿰면 '제작비보다 상금이 아홉 배 큰' 구간이 드러난다. 양쪽이 같은 '문' 비유를 정반대로 쓴 것도 두 기사를 나란히 놓아야 보인다.",
+    "note": "한 작품이 아니라 한 흐름이다. 스토리 회차가 「Merry」 한 편을 끝까지 따라가므로, 이쪽은 그 작품의 푸티지를 쓰지 않는다 — 같은 그림이 두 회차에 걸리면 같은 글로 읽힌다.",
     "sources": [
-      "Variety — ‘Merry the Christmas Witch’ Director Estimated Movie Would Cost $80 Million (2026.10.12)",
-      "TW3 Entertainment — Merry the Christmas Witch 프로젝트 페이지 및 퍼스트룩 영상",
       "Euronews — Latvian filmmaker wins €400,000 grand prix at Kazakhstan's AI film festival (2026.10.06)",
       "Businesswire — Fountain 0, ‘Odysseus: The Fall’ 공개 (2026.09.16)",
-      "The Verge · Futurism · Kotaku — ‘Odysseus: The Fall’ 리뷰 (2026.09)"
+      "The Verge · Futurism · Kotaku — ‘Odysseus: The Fall’ 리뷰 (2026.09)",
+      "Variety — ‘Merry the Christmas Witch’ Director Estimated Movie Would Cost $80 Million (2026.10.12)"
     ]
   },
   "cards": [
@@ -59,22 +58,21 @@
     },
     {
       "n": 2,
-      "kind": "photo",
-      "video": "src/01-pumpkin.mp4",
-      "trim_bottom": 0.13,
-      "eyebrow": "문이 열리지 않았다",
-      "headline": "8,000만 달러 견적을 150만에 찍었다",
-      "body": "“문이 잘 열리지 않는다. 그래서 AI가 들어왔다.” 감독 Tom Walsh의 말이다. 10개월, 50명이 붙었다.",
-      "foot": "2026.10.12"
-    },
-    {
-      "n": 3,
       "kind": "stat",
-      "video": "pipeline/media/astana-ai-film-grand-prix.mp4",
-      "trim_top": 0.19,
       "stat_top": "제작비 5만 달러",
       "stat_arrow": "그 아홉 배가 걸린 상금",
       "stat_bottom": "45만 달러",
+      "stat_strike": false,
+      "eyebrow": "값이 뒤집혔다",
+      "headline": "만드는 값보다 상금이 크다",
+      "body": "AI 장편 한 편이 5만 달러 안팎으로 나오는 사이, 첫 AI 영화제 대상에는 45만 달러가 걸렸다.",
+      "foot": "2026.10.06"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "video": "pipeline/media/astana-ai-film-grand-prix.mp4",
+      "trim_top": 0.19,
       "eyebrow": "이제 문을 두드릴 필요가 없다",
       "headline": "8,000편이 몰린 첫 AI 영화제",
       "body": "125개국에서 출품됐고 라트비아 감독 Nikolay Shestak이 대상을 받았다. 주최 측은 “제작사 문을 두드릴 필요가 없어졌다”고 했다.",
@@ -91,13 +89,13 @@
     },
     {
       "n": 5,
-      "kind": "photo",
-      "video": "src/05-brooms.mp4",
-      "trim_bottom": 0.13,
-      "eyebrow": "그래서 지금",
-      "headline": "열린 문 너머에, 아직 관객이 없다",
-      "body": "150만 달러로 완성한 「Merry」는 아직 배급사를 찾지 못했다. AI가 무너뜨린 것은 만드는 값이지, 보게 만드는 값이 아니었다.",
-      "foot": "2026.10.13"
+      "kind": "quote",
+      "quote": "문이 잘 열리지 않는다.\n독립 영화인에겐\n그게 좀 힘들다",
+      "quote_by": "Tom Walsh · 「Merry the Christmas Witch」 감독",
+      "eyebrow": "같은 비유, 반대 방향",
+      "headline": "열린 문 너머에 관객이 없다",
+      "body": "영화제는 문을 두드릴 필요가 없다고 했고, 감독은 문이 안 열린다고 했다. 150만 달러로 끝낸 그 영화는 아직 배급사가 없다.",
+      "foot": "2026.10.12"
     },
     {
       "n": 6,
