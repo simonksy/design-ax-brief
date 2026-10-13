@@ -27,3 +27,7 @@ pipeline/*.json
 
 # Internal design docs / specs / plans — not part of the public site.
 docs/superpowers
+
+# 인스타그램 카드뉴스 작업 폴더 — 생성기와 업로드용 산출물이다.
+# 사이트가 서빙할 이유가 없고, 올리기 전 원고가 공개되면 곤란하다.
+social
