@@ -33,6 +33,10 @@ TEXT_W = W - PAD_X * 2
 FOOT_H = 24 + 44         # 푸터 글자 + 아래 여백
 BREATH = 46              # 본문과 푸터 사이 최소 숨
 CREAM = "#fbf8f3"
+# 로고의 시그널 오렌지. outro 한 장만 섹션 액센트 대신 이 색을 쓴다 — 마지막
+# 장은 그 회차의 섹션이 아니라 브랜드를 말하는 자리고, 섹션색을 쓰면 마크의
+# 오렌지 점과 맞부딪힌다(영화편 파랑 옆에 두고 보면 바로 보인다).
+BRAND_ACCENT = "#FF4D1A"
 
 CSS = """
 *{margin:0;padding:0;box-sizing:border-box}
@@ -142,8 +146,9 @@ def card_html(c, meta, total, has_video):
     mbg = "transparent" if has_video else (
         "#17150f" if k == "stat" else (meta["accent"] if k == "quote" else (
             "#f2ece1" if k == "outro" else "#e9e3d8")))
+    accent = BRAND_ACCENT if k == "outro" else meta["accent"]
     css = CSS % {"W": W, "H": H, "MH": mh, "BH": H - mh, "PT": PAD_TOP, "PX": PAD_X,
-                 "BR": BREATH, "ACCENT": meta["accent"], "HS": hs, "BS": bs,
+                 "BR": BREATH, "ACCENT": accent, "HS": hs, "BS": bs,
                  "CREAM": CREAM, "PAGE": "transparent" if has_video else CREAM,
                  "MBG": mbg}
     cover = " cover" if k == "cover" else ""

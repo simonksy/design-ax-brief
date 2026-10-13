@@ -38,6 +38,11 @@ AX-it NOW ✳️ 매일 AI 뉴스
 👇 전문은 아래 링크에서
 ```
 
+## 프로필 사진
+
+`social/instagram/axitnow-logo/axitnow-instagram-1080.png`를 그대로 올린다.
+정사각으로 올리면 인스타그램이 원형으로 잘라 준다.
+
 ## 링크
 
 1순위 `https://axitnow.com`. 인스타그램은 링크를 여러 개 걸 수 있으니
