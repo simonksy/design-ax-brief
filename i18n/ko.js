@@ -142,7 +142,7 @@ window.AX_I18N = {
  "pro.cta_active": "Pro 이용 중",
  "pro.cta_active_short": "Pro ✓",
  "pro.cta_short": "Pro",
- "pro.row_archive": "지금까지의 모든 카드뉴스 (2,400+)",
+ "pro.row_archive": "지금까지의 모든 카드뉴스 ({n}+)",
  "pro.row_cards": "하루에 받는 카드",
  "pro.row_cards_note": "카테고리마다 무료 1장 · Pro 5장",
  "pro.row_deep": "카드 전문 읽기",

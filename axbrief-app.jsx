@@ -553,10 +553,24 @@ async function pollEntitlement(tries = 5, gapMs = 2000) {
 /* Pro 혜택 비교표 행. 키워드 알림이 붙으면 여기에 줄을 추가한다.
    pro: 'soon'은 아직 만들지 않은 혜택 — 체크 대신 "준비 중" 배지가 뜬다.
    없는 기능에 체크를 주면 돈을 받고 약속을 어기는 셈이라, 배지로만 예고한다. */
+// 하루에 나가는 카드 수는 섹션 수에 따라 달라진다. 숫자를 손으로 적어 두면
+// 섹션을 더할 때마다 같이 고쳐야 하는데, 고치지 않아도 아무 오류가 나지 않는다 —
+// 실제로 섹션이 열 개가 된 뒤에도 9/45(아홉 개 시절 값)가 돈을 받는 화면에
+// 그대로 떠 있었다. 그래서 데이터에서 센다.
+const CARDS_PER_SECTION_FREE = 1;
+const CARDS_PER_SECTION_PRO = 5;
+function sectionCount() {
+  const o = (typeof window !== 'undefined' && window.AX_SECTION_ORDER) || [];
+  return o.length || Object.keys((typeof window !== 'undefined' && window.AX_SECTIONS) || {}).length;
+}
 const PRO_ROWS = [
-  { key: 'cards',   free: '9',    pro: '45', note: true },
+  { key: 'cards',   free: () => String(sectionCount() * CARDS_PER_SECTION_FREE),
+                    pro:  () => String(sectionCount() * CARDS_PER_SECTION_PRO), note: true },
   { key: 'deep',    free: false,  pro: true },
-  { key: 'archive', free: false,  pro: true },
+  // 아카이브 수치는 백 단위로 내림해 둔다. 날마다 느는 값이라 정확히 적으면
+  // 하루만 지나도 틀리고, 내림해 두면 틀릴 일이 없다.
+  { key: 'archive', free: false,  pro: true,
+    vars: () => ({ n: ((typeof window !== 'undefined' && window.AX_ARCHIVE_TOTAL) || 2400).toLocaleString() }) },
   { key: 'graph',   free: false,  pro: true },
   { key: 'report',  free: false,  pro: 'soon' },
   { key: 'mcp',     free: false,  pro: 'soon' },
@@ -566,6 +580,7 @@ const PRO_ROWS = [
    'soon'이면 준비 중 배지, 그 밖의 문자열이면 그 문자열(Pro 열은 더 크고 굵게 —
    숫자 대비가 가장 직관적이다). */
 function ProCell({ v, t, strong }) {
+  if (typeof v === 'function') v = v();
   if (v === true) {
     return strong
       ? <span className="ax-check" aria-hidden>✓</span>
@@ -774,7 +789,7 @@ function ProCompareTable({ t }) {
             <div className="ax-pro-row" style={{ padding: '12px 18px 12px 16px', fontSize: 14,
               fontWeight: 600, color: t.hl, lineHeight: 1.35, wordBreak: 'keep-all',
               borderTop: '1px solid ' + t.rule }}>
-              {tx('pro.row_' + row.key)}
+              {tx('pro.row_' + row.key, row.vars && row.vars())}
               {row.note && (
                 <div style={{ marginTop: 2, fontSize: 11.5, fontWeight: 500, color: t.mute }}>
                   {tx('pro.row_' + row.key + '_note')}
