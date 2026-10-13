@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "issue": "10초면 복제되는 목소리 — 그 목소리는 누구 것인가",
+    "date": "2026.10.14",
+    "section": "VOICE",
+    "accent": "#eb367f",
+    "note": "한 사건이 아니라 한 전선이다. 아카이브 2,909장에서 music·games·movies·politics 다섯 섹션에 흩어져 있던 여섯 건을 시간순으로 꿰었다. 단일 뉴스로는 '법원 둘이 서로 다른 답을 냈다'를 볼 수 없다.",
+    "sources": [
+      "Digital Music News — UK campaign against voice cloning (2026.08.28)",
+      "GamesRadar / Sankaku — HoYoverse wins $112,000, Shanghai Pudong court (ruling 2026.06.30)",
+      "Voiceover Herald — Google Gemini TTS, 30s + verbal consent (2026.09.26)",
+      "TechCrunch — ElevenLabs v4, clone with 10 seconds (2026.09.28)",
+      "Nikkei Asia / MBW / Engadget — Tokyo District Court, Tsuda Kenjiro (ruling 2026.09.30)",
+      "Complete Music Update — Denmark digital replica law, minister Zenia Stampe (2026.10.08)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_cap": "아카이브 2,909장에서 꿴 여섯 건 · 세 개 섹션",
+      "thread": [
+        {
+          "d": "6.30",
+          "t": "상하이 판결",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "8.28",
+          "t": "영국 서한",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "9.28",
+          "t": "10초 복제",
+          "c": "#eb367f",
+          "s": "MUSIC",
+          "big": true
+        },
+        {
+          "d": "9.30",
+          "t": "도쿄 판결",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.7",
+          "t": "노조 표결",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.8",
+          "t": "덴마크 법안",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "eyebrow": "흐름 · 목소리 권리",
+      "headline": "10초면 복제된다. 그 목소리는 누구 것인가",
+      "body": "올해 법원 둘이 같은 질문에 다른 답을 냈고, 한 나라는 아예 법을 새로 쓰고 있다. 넉 달을 시간순으로 따라갔다.",
+      "foot": "밀어서 보기 →",
+      "thread_note": "같은 질문에 상하이는 “회사 것”, 도쿄는 “사람 것”이라 답했다"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "stat_top": "30초",
+      "stat_arrow": "닷새 만에",
+      "stat_bottom": "10초",
+      "eyebrow": "문턱이 무너졌다",
+      "headline": "복제에 필요한 음성, 닷새 만에 3분의 1로",
+      "body": "9월 23일 구글은 30초, 9월 28일 일레븐랩스 v4는 10초면 된다고 했다. 구글은 본인이 직접 녹음한 동의 음성을 함께 요구한다.",
+      "foot": "2026.09.28"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "media": "pipeline/media/games-hoyoverse-voice-w9t.jpg",
+      "eyebrow": "답 ① 회사 것이다",
+      "headline": "원신 캐릭터 목소리 63개, 75만 위안",
+      "body": "상하이 푸둥법원은 AI 업체에 약 11만 2천 달러를 물렸다. 업체는 “목소리 권리는 성우에게 있다”고 맞섰지만 법원은 받아들이지 않았다.",
+      "foot": "2026.06.30"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "quote": "목소리는 초상과 마찬가지로\n그 사람 인격의\n상징이다",
+      "quote_by": "다카하시 아야 재판장 · 도쿄지방법원",
+      "eyebrow": "답 ② 사람 것이다",
+      "headline": "일본 첫 판례, 그런데 그는 졌다",
+      "body": "성우 츠다 켄지로의 삭제 청구는 영상이 이미 사라져 기각됐다. 남은 것은 판단뿐인데, 그 판단이 선례가 됐다.",
+      "foot": "2026.09.30"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "media": "pipeline/media/music-denmark-replica-law.png",
+      "eyebrow": "그래서 법을 새로 쓴다",
+      "headline": "덴마크, 공연자만이 아니라 누구나",
+      "body": "10월 8일 문화부 장관이 개정안을 의회에 냈다. 8월 영국 공연자 80여 명이 요구한 것도 자기들이 아니라 “모든 사람”의 보호였다.",
+      "foot": "2026.10.08"
+    },
+    {
+      "n": 6,
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": ""
+    }
+  ]
+}

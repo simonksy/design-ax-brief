@@ -64,12 +64,27 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
    뒤로 지나갈지 미리 알 수 없다 — 노드를 비켜 놓는 대신 글자 쪽에 바탕을
    깔아야 회전 내내 읽힌다. */
 .brandblock{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;
-  justify-content:center;gap:28px;
-  background:radial-gradient(ellipse 330px 300px at 50%% 50%%,
-    rgba(242,236,225,.96) 42%%, rgba(242,236,225,0) 100%%)}
-.brandblock img{width:272px;height:272px}
-.brandblock .wm{font-size:58px;font-weight:800;letter-spacing:-.035em;color:#3a352e}
-.brandblock .url{font-size:35px;font-weight:700;color:%(ACCENT)s}
+  justify-content:center;gap:26px;
+  background:radial-gradient(ellipse 250px 215px at 50%% 50%%,
+    rgba(242,236,225,.95) 46%%, rgba(242,236,225,0) 100%%)}
+/* 마크를 원으로 자른다. 앱 아이콘의 둥근 사각형은 네트워크 한가운데 놓으면
+   혼자 각이 져서 떠 보인다 — 주변이 전부 원형 노드이기 때문이다. */
+.brandblock img{width:238px;height:238px;border-radius:50%%}
+.brandblock .wm{font-size:54px;font-weight:800;letter-spacing:-.035em;color:#3a352e}
+/* 흐름 카드의 타임라인. 여러 날짜·여러 섹션에서 벌어진 일을 한 줄에 세워
+   "이건 뉴스 한 건이 아니다"를 첫 장에서 말한다. */
+.thread{position:absolute;inset:0;background:#f2ece1}
+.thread .cap{position:absolute;top:58px;left:0;right:0;text-align:center;
+  font-size:25px;font-weight:700;letter-spacing:.06em;color:#8e887c}
+.thread .dot{position:absolute;border-radius:50%%;transform:translate(-50%%,-50%%)}
+.thread .dt{position:absolute;transform:translate(-50%%,-50%%);font-size:24px;
+  font-weight:800;color:#5a544c;font-variant-numeric:tabular-nums}
+.thread .lb{position:absolute;transform:translateX(-50%%);width:188px;text-align:center;
+  font-size:25px;font-weight:600;line-height:1.3;color:#332f29;word-break:keep-all}
+.thread .sc{position:absolute;transform:translateX(-50%%);width:188px;text-align:center;
+  font-size:20px;font-weight:700;letter-spacing:.08em}
+.thread .nt{position:absolute;left:%(PX)dpx;right:%(PX)dpx;text-align:center;
+  font-size:28px;line-height:1.5;color:#5a544c;word-break:keep-all}
 /* 글 자리. 한글은 아무 데서나 접히면 읽기 나쁘다 — 띄어쓰기에서만 접어 폭을 끝까지 쓴다.
    제목에 수동 줄바꿈을 넣지 않는 이유도 같다: 넣으면 폭을 반만 쓰고 접힌다. */
 .body{height:%(BH)dpx;padding:%(PT)dpx %(PX)dpx 0;display:flex;flex-direction:column;
@@ -112,6 +127,9 @@ NET_SWEEP = 0.85         # 전체 회전량(rad) ≈ 49도. 10초에 걸쳐 돈�
 NET_FPS = 15
 NET_FRAMES = 150
 NET_GRID = (5, 6)        # 시트 한 장에 담는 타일(열, 행). 30장 × 5시트 = 150
+# 로고와 이어 붙일 노드. 피보나치 배치라 번호를 고르게 띄우면 위도도 고르게
+# 퍼진다. 뒤쪽으로 돌아간 살은 짧아져 로고 밑으로 숨는다 — 그게 자연스럽다.
+HUB_NODES = (2, 8, 14, 20, 26, 32, 38, 44, 50)
 # 사이트 INSIGHTS_COLORS와 같은 섹션 색. 한쪽만 고치면 색이 어긋난다.
 NET_COLORS = ["#0070f3", "#eb367f", "#7928ca", "#2ec5c5", "#f5a623",
               "#ff5a4d", "#3aa655", "#9aa8c7", "#ff8a3d", "#00897b"]
@@ -160,6 +178,16 @@ def _net_frame(pts, edges, angle, h):
         proj.append((cx + X * NET_R, cy + Y * NET_R, (Z + 1) / 2, ci, base))
 
     layers = []
+    # 허브 살. 가운데 로고를 '그래프 밖에 얹힌 그림'이 아니라 **네트워크의 한
+    # 노드**로 보이게 한다. 바깥 끝은 노드와 함께 돌고 안쪽 끝은 로고에 고정돼
+    # 있어서, 도는 동안 로고가 망을 쥐고 있는 것처럼 읽힌다. 살의 안쪽은
+    # 불투명한 로고 원이 덮으므로 따로 잘라낼 필요가 없다.
+    for i in HUB_NODES:
+        hx, hy, hd, _, _ = proj[i]
+        layers.append((hd, f'<line x1="{cx:.1f}" y1="{cy:.1f}" x2="{hx:.1f}" '
+                           f'y2="{hy:.1f}" stroke="#a89c88" '
+                           f'stroke-width="{1.6 + 1.6 * hd:.2f}" '
+                           f'stroke-opacity="{0.14 + 0.40 * hd:.3f}"/>'))
     for i, j in edges:
         ax, ay, az, _, _ = proj[i]
         bx, by, bz, _, _ = proj[j]
@@ -281,11 +309,41 @@ def media_inner(c, has_video):
         out.append('<div class="quote"><div class="mark">“</div>'
                    f'<div class="q">{esc(c["quote"])}</div>'
                    f'<div class="by">{esc(c["quote_by"])}</div></div>')
+    elif k == "thread":
+        pts = c["thread"]
+        n = len(pts)
+        mh = media_height(c)       # 본문이 길면 칸이 줄어든다 — 상수를 쓰면 어긋난다
+        base = mh * 0.54
+        # 라벨 폭이 188이므로 양 끝을 94 이상 안쪽에 둔다. 끝까지 밀면 마지막
+        # 라벨이 카드 밖으로 잘린다.
+        edge = 100
+        xs = [edge + i * (W - edge * 2) / (n - 1) for i in range(n)]
+        seg = [f'<svg width="{W}" height="{mh}" style="position:absolute;inset:0">'
+               f'<polyline fill="none" stroke="#c9bfae" stroke-width="3" points="'
+               + " ".join(f"{x:.0f},{base:.0f}" for x in xs) + '"/></svg>']
+        if c.get("thread_cap"):
+            seg.append(f'<div class="cap">{esc(c["thread_cap"])}</div>')
+        for (p, x) in zip(pts, xs):
+            r = 15 if p.get("big") else 11
+            seg.append(f'<div class="dot" style="left:{x:.0f}px;top:{base:.0f}px;'
+                       f'width:{r*2}px;height:{r*2}px;background:{p["c"]}"></div>')
+            seg.append(f'<div class="dt" style="left:{x:.0f}px;top:{base-54:.0f}px">'
+                       f'{esc(p["d"])}</div>')
+            seg.append(f'<div class="lb" style="left:{x:.0f}px;top:{base+34:.0f}px">'
+                       f'{esc(p["t"])}</div>')
+            # 섹션 꼬리표. 이 회차의 요점이 "여러 섹션에 흩어져 있었다"는
+            # 것이므로, 그림에서 그게 보이지 않으면 타임라인일 뿐이다.
+            if p.get("s"):
+                seg.append(f'<div class="sc" style="left:{x:.0f}px;top:{base+84:.0f}px;'
+                           f'color:{p["c"]}">{esc(p["s"])}</div>')
+        if c.get("thread_note"):
+            seg.append(f'<div class="nt" style="top:{base+168:.0f}px">'
+                       f'{esc(c["thread_note"])}</div>')
+        out.append('<div class="thread">' + "".join(seg) + "</div>")
     elif k == "outro":
         out.append('<div class="brandblock">'
                    f'<img src="{asset("favicon.svg")}">'
-                   '<div class="wm">AX-it NOW</div>'
-                   '<div class="url">axitnow.com</div></div>')
+                   '<div class="wm">AX-it NOW</div></div>')
     elif not has_video and c.get("media"):
         out.insert(0, f'<img src="{asset(c["media"])}">')
     return "".join(out)
@@ -298,7 +356,7 @@ def card_html(c, meta, total, has_video):
     # 영상 카드는 썸네일 자리를 투명하게 비워 둔다 — 그 자리에 영상이 들어간다.
     mbg = "transparent" if has_video else (
         "#17150f" if k == "stat" else (meta["accent"] if k == "quote" else (
-            "#f2ece1" if k == "outro" else "#e9e3d8")))
+            "#f2ece1" if k in ("outro", "thread") else "#e9e3d8")))
     accent = BRAND_ACCENT if k == "outro" else meta["accent"]
     css = CSS % {"W": W, "H": H, "MH": mh, "BH": H - mh, "PT": PAD_TOP, "PX": PAD_X,
                  "BR": BREATH, "ACCENT": accent, "HS": hs, "BS": bs,
