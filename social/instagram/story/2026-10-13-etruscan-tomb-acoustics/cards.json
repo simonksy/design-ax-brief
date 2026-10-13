@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "issue": "2,500년 전 무덤은 산 사람을 흔들려고 지어졌다",
+    "date": "2026.10.13",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "한 연구를 끝까지 따라간다. 무엇을 쟀고 무엇을 알아냈는지.",
+    "sources": [
+      "Scientific American — How AI helped bring an ancient tomb dating to before the Roman Empire back to life (2026.10.11)",
+      "Journal of Archaeological Method and Theory (2026)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "pipeline/media/science-etruscan-tomb-acoustics.mp4",
+      "eyebrow": "AI × 과학 · 2026.10.13",
+      "headline": "2,500년 전 무덤의 소리를 되살렸다",
+      "body": "AI와 음향 기술로 에트루리아 무덤 안을 복원했더니, 그 방은 죽은 자가 아니라 산 자를 위해 설계돼 있었다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "기원전 5세기",
+      "stat_arrow": "이탈리아 타르퀴니아, 무덤",
+      "stat_bottom": "두 곳",
+      "stat_strike": false,
+      "eyebrow": "어디를 조사했나",
+      "headline": "‘푸른 악마의 무덤’과 ‘수탉의 무덤’",
+      "body": "로마 이전 에트루리아의 두 무덤이다. 옥스퍼드의 Jacqueline Ortoleva와 듀크의 Maurizio Forte가 이끌었다.",
+      "foot": "2026.10.11",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "media": "pipeline/media/science-etruscan-tomb-acoustics.jpg",
+      "eyebrow": "무엇을 쟀나",
+      "headline": "잔향과 메아리, 그림과 불빛을 함께 봤다",
+      "body": "음향 특성과 벽화, 조명 조건, 공간 구조를 한꺼번에 분석했다. 옥스퍼드와 듀크의 기존 연구 두 갈래를 이어 붙였다.",
+      "foot": "2026.10.11",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "죽은 자를 두려고만이 아니라\n산 자를 흔들려고\n지어졌다",
+      "quote_by": "연구진 · Scientific American",
+      "eyebrow": "결론",
+      "headline": "현대의 3D 영화관에 가까운 장치였다",
+      "body": "긴 잔향이 만든 음향 효과, 흔들리는 횃불이 벽화 위를 지나가는 빛, 향 연기가 함께 조문객을 흔들었다.",
+      "foot": "2026.10.11",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "video": "pipeline/media/science-etruscan-tomb-acoustics.mp4",
+      "start": 4,
+      "eyebrow": "그래서 지금",
+      "headline": "고고학이 ‘느낌’을 측정 대상으로 삼는다",
+      "body": "남은 것은 돌과 그림뿐이지만, 그 안에서 벌어졌던 감각을 되돌려 재는 일이 가능해졌다.",
+      "foot": "2026.10.11",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

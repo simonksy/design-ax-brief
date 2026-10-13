@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "issue": "문장 하나로 걸어 다닐 세계가 생긴다",
+    "date": "2026.10.13",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "한 제품을 끝까지 따라간다. 무엇이 되고 무엇이 아직 안 되는지까지.",
+    "sources": [
+      "the decoder — Odyssey-3 is a new generative world model that you can try for free (2026.10.12)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "video": "pipeline/media/odyssey-3-world-model.mp4",
+      "eyebrow": "AI × 디자인 · 2026.10.13",
+      "headline": "문장을 넣으면 걸어 다닐 세계가 나온다",
+      "body": "Odyssey-3가 무료 데모로 열렸다. 무엇이 되고 무엇이 아직 안 되는지 따라가 봤다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "140억 파라미터",
+      "stat_arrow": "무료 데모로 돌아가는 해상도",
+      "stat_bottom": "832×480",
+      "stat_strike": false,
+      "eyebrow": "크기와 화질",
+      "headline": "기본 모델은 작고, Pro는 720p다",
+      "body": "기본형은 832×480, Pro는 1280×720으로 만든다. 무료 데모는 더 가벼운 Flash 버전이 돌린다.",
+      "foot": "2026.10.12",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "media": "pipeline/media/odyssey-3-world-model.jpg",
+      "eyebrow": "무엇을 할 수 있나",
+      "headline": "1인칭이든 3인칭이든, 들어가서 움직인다",
+      "body": "텍스트로 환경을 만든 뒤 시점을 고르고 걸어 다니며 사건을 일으킨다. 모델은 그걸 실시간으로 받아 그린다.",
+      "foot": "2026.10.12",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "학습 중 시각 관찰에서\n물리 관계와\n인과를 배운다",
+      "quote_by": "Odyssey · Odyssey-3 소개",
+      "eyebrow": "영상이 아니라 모델이다",
+      "headline": "로봇 팔과 드론도 같은 방식으로 민다",
+      "body": "회사는 이 모델이 전용 컨트롤러를 통해 로봇 팔·드론·게임 캐릭터까지 제어할 수 있다고 밝혔다.",
+      "foot": "2026.10.12",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "video": "pipeline/media/odyssey-3-world-model.mp4",
+      "start": 4,
+      "eyebrow": "그래서 지금",
+      "headline": "공개된 건 아직 ‘세계 만들기’까지다",
+      "body": "연구 미리보기는 환경 생성만 연다. 로봇과 자율 시스템 쪽은 더 해야 한다고 회사도 못 박았다.",
+      "foot": "2026.10.12",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

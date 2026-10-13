@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "issue": "가장 깐깐한 광고가 AI 답변 안으로 들어왔다",
+    "date": "2026.10.13",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "한 건을 끝까지 따라간다. 왜 하필 처방약이 문제인지까지.",
+    "sources": [
+      "Adweek — Google opens AI Mode to prescription drug ads (2026.10.13)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "pipeline/media/marketing-google-ai-mode-rx-ads.jpg",
+      "eyebrow": "AI × 마케팅 · 2026.10.13",
+      "headline": "처방약 광고가 AI 답변 안으로 들어왔다",
+      "body": "구글이 AI Mode와 AI Overviews에서 브랜드 처방약 광고를 시험한다. 왜 이게 다른 광고와 다른지 따라가 봤다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "텍스트·쇼핑 광고",
+      "stat_arrow": "들어가는 자리",
+      "stat_bottom": "AI 답변 안",
+      "stat_strike": false,
+      "eyebrow": "무엇을 여는가",
+      "headline": "검색 결과 옆이 아니라 답변 안이다",
+      "body": "일반 텍스트 광고와 쇼핑 광고를 AI Mode와 AI Overviews 안에 넣는다. 미국에서 이번 달 시작한 시험이다.",
+      "foot": "2026.10.13",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "AI Mode와 AI Overviews에서\n텍스트·쇼핑 광고를\n시험하고 있다",
+      "quote_by": "구글 대변인 · Adweek",
+      "eyebrow": "회사의 설명",
+      "headline": "“최근 일부 제약 품목까지 넓혔다”",
+      "body": "구글은 이미 열어 둔 광고 지면을 제약 쪽으로 넓힌 것이라고 설명했다. 표기는 ‘Sponsored’ 하나다.",
+      "foot": "2026.10.13",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "광고 중 가장",
+      "stat_arrow": "규제가 빡빡한 분야가",
+      "stat_bottom": "AI 답변으로",
+      "stat_strike": false,
+      "eyebrow": "그래서 왜 다른가",
+      "headline": "요약하는 쪽이 부작용까지 요약한다",
+      "body": "제약 광고는 효능과 위험을 함께 말하도록 묶여 있다. 답변을 줄여 보여 주는 화면에서 그 균형이 어떻게 유지될지는 아직 설명되지 않았다.",
+      "foot": "2026.10.13",
+      "n": 4
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

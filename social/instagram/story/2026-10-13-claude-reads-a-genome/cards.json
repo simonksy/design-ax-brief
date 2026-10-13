@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "issue": "30분, 5달러로 게놈을 읽었다 — 그래서 기준이 필요하다",
+    "date": "2026.10.13",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "한 사람의 실험 하나를 끝까지 따라간다. 성공담이 아니라 경고다.",
+    "sources": [
+      "STAT — Claude AI genome analysis standards ethics (2026.10.01)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "pipeline/media/medicine-claude-genome-ashley-standards.jpg",
+      "eyebrow": "AI × 의료 · 2026.10.13",
+      "headline": "30분, 5달러로 자기 게놈을 읽혔다",
+      "body": "스탠퍼드의 Euan Ashley가 자기 전장 유전체를 Claude에 올렸다. 잘 됐다는 얘기가 아니라, 그래서 위험하다는 얘기다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "30분",
+      "stat_arrow": "들어간 비용은",
+      "stat_bottom": "약 5달러",
+      "stat_strike": false,
+      "eyebrow": "얼마나 걸렸나",
+      "headline": "그 반시간의 대부분은 기다린 시간이었다",
+      "body": "Ashley는 “반시간의 대부분은 과학 데이터베이스가 열리기를 기다린 시간”이라고 적었다. 계산 자체는 금방이다.",
+      "foot": "2026.10.01",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "반시간의 대부분은\n데이터베이스가 열리기를\n기다린 시간이었다",
+      "quote_by": "Euan Ashley · 스탠퍼드",
+      "eyebrow": "무엇을 찾았나",
+      "headline": "2009년 분석과 주요 결과가 맞아떨어졌다",
+      "body": "알츠하이머 위험과 연관된 APOE ε4 두 벌, 약물 반응에 관여하는 DPYD·CYP2C19 변이를 집어냈다.",
+      "foot": "2026.10.01",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "잘 읽었다",
+      "stat_arrow": "그런데 무엇이 없나",
+      "stat_bottom": "기준",
+      "stat_strike": false,
+      "eyebrow": "그래서 경고다",
+      "headline": "언제 ‘모르겠다’고 해야 하는지가 없다",
+      "body": "Ashley는 기준 게놈, 어려운 유전자 목록, 최소 검출 한계, 그리고 AI가 결론을 거절해야 할 때의 지침이 아직 없다고 지적한다.",
+      "foot": "2026.10.01",
+      "n": 4
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}
