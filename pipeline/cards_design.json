@@ -1,17 +1,751 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "design",
   "cards": [
     {
-      "id": "design-world-creator-4-mcp",
+      "id": "design-play-store-vibe-coded-apps",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "지형 툴 신버전이 행성과\nMCP 서버까지 품는다",
-      "body": "World Creator 4에 행성 생성과 AI용 MCP 서버가 들어간다.",
-      "mini_headline": "World Creator 4, MCP 탑재",
+      "headline": "바이브 코딩한 앱도\nPlay Store로 간다",
+      "body": "이제 Google 계정만 있으면 바이브 코딩 앱을 Play Store에 올린다.",
+      "mini_headline": "바이브 코딩 앱, Play Store 입성",
+      "tool": "Figma",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+            "cap": "Play Store의 개인 라이브러리 섹션."
+          },
+          {
+            "t": "p",
+            "x": "Google은 Play Store 업데이트를 발표하면서, Android 앱을 바이브 코딩으로 만든 사람은 누구나 Google 계정만으로 Play Store에 배포할 수 있게 한다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "이 기능은 미국(US)과 일부 시장의 18세 이상 사용자부터 차례로 제공된다. 유료 개발자 계정이 없어도 Google AI Studio에서 바이브 코딩한 Android 앱을 올릴 수 있다. AI Studio에서는 Gemini에 프롬프트를 글로 입력하기만 하면 앱이 만들어지고, 프롬프트를 더 쓰거나 생성된 코드를 직접 고쳐 결과를 다듬으면 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+            "cap": "AI Studio에서 바이브 코딩한 Android 앱을 Play Store에 게시하는 모습."
+          },
+          {
+            "t": "p",
+            "x": "처음에는 새로 생기는 \"개인 라이브러리\" 섹션에서 본인 기기로만 앱을 쓸 수 있다. Google은 앞으로 바이브 코딩 앱을 친구와 가족에게 안전하게 공유하는 기능도 내놓을 계획이다. 전 세계 사용자에게 선보이려면 전문 개발자 계정으로 \"졸업\"한 뒤 Play Store의 일반 안전 심사에 앱을 내면 된다."
+          },
+          {
+            "t": "p",
+            "x": "Google은 Gemini가 대화 중에 Play Store 앱으로 바로 가는 링크를 보여 주게 했다. 새 Game Finder는 새 취향 프로필인 Gamer DNA를 보고 게임을 추천한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+            "cap": "Play Store의 새 Game Finder 기능에 있는 Gamer DNA와 Game Playlists."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Vibe-coded Android apps\nreach the Play Store",
+          "body": "Google will let anyone publish Android apps vibe-coded in AI Studio to the Play Store with just a Google account.",
+          "mini_headline": "Vibe-coded apps hit Play Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+                "cap": "The personal library section of the Play Store."
+              },
+              {
+                "t": "p",
+                "x": "As part of a collection of updates to the Play Store, Google has announced that it will allow anyone who vibe codes an Android app to distribute it through the Play Store with just a Google account."
+              },
+              {
+                "t": "p",
+                "x": "Rolling out to users in the US and other select markets who are 18 years and up, Google will let you upload a vibe-coded Android app from Google AI Studio without a paid developer account. AI Studio can generate apps with just a written prompt to Gemini, and you can adjust the results with more prompts or by editing the generated code yourself."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+                "cap": "AI Studio publishing a vibecoded Android app to the Play Store."
+              },
+              {
+                "t": "p",
+                "x": "Your app will only be available on your own devices to start, in a new \"personal library\" section, but Google eventually plans to let you securely share your vibe-coded apps with friends and family. To reach a global audience, you can \"graduate\" to a professional developer account and submit your apps to the Play Store's normal safety reviews."
+              },
+              {
+                "t": "p",
+                "x": "Google is also letting Gemini surface direct links to Play Store apps in chats, and a new Game Finder recommends games based on your Gamer DNA, a new taste profile."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+                "cap": "The Gamer DNA and Game Playlists in the Play Store's new Game Finder feature."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "바이브 코딩한 앱도\nPlay Store로 간다",
+          "body": "이제 Google 계정만 있으면 바이브 코딩 앱을 Play Store에 올린다.",
+          "mini_headline": "바이브 코딩 앱, Play Store 입성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+                "cap": "Play Store의 개인 라이브러리 섹션."
+              },
+              {
+                "t": "p",
+                "x": "Google은 Play Store 업데이트를 발표하면서, Android 앱을 바이브 코딩으로 만든 사람은 누구나 Google 계정만으로 Play Store에 배포할 수 있게 한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 미국(US)과 일부 시장의 18세 이상 사용자부터 차례로 제공된다. 유료 개발자 계정이 없어도 Google AI Studio에서 바이브 코딩한 Android 앱을 올릴 수 있다. AI Studio에서는 Gemini에 프롬프트를 글로 입력하기만 하면 앱이 만들어지고, 프롬프트를 더 쓰거나 생성된 코드를 직접 고쳐 결과를 다듬으면 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+                "cap": "AI Studio에서 바이브 코딩한 Android 앱을 Play Store에 게시하는 모습."
+              },
+              {
+                "t": "p",
+                "x": "처음에는 새로 생기는 \"개인 라이브러리\" 섹션에서 본인 기기로만 앱을 쓸 수 있다. Google은 앞으로 바이브 코딩 앱을 친구와 가족에게 안전하게 공유하는 기능도 내놓을 계획이다. 전 세계 사용자에게 선보이려면 전문 개발자 계정으로 \"졸업\"한 뒤 Play Store의 일반 안전 심사에 앱을 내면 된다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 Gemini가 대화 중에 Play Store 앱으로 바로 가는 링크를 보여 주게 했다. 새 Game Finder는 새 취향 프로필인 Gamer DNA를 보고 게임을 추천한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+                "cap": "Play Store의 새 Game Finder 기능에 있는 Gamer DNA와 Game Playlists."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "バイブコーディング製アプリが\nPlay Storeに登場",
+          "body": "Googleアカウントだけで、バイブコーディングのアプリをPlay Storeに出せる。",
+          "mini_headline": "バイブコーディングのアプリがPlay Storeへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+                "cap": "Play Storeの個人ライブラリセクション。"
+              },
+              {
+                "t": "p",
+                "x": "GoogleはPlay Storeの一連のアップデートの一環として、Androidアプリをバイブコーディングで作った人なら誰でも、Googleアカウントだけで Play Storeを通じて配布できるようにすると発表した。"
+              },
+              {
+                "t": "p",
+                "x": "米国（US）などの一部市場で18歳以上のユーザーに順次提供され、有料のデベロッパーアカウントなしでGoogle AI StudioからバイブコーディングしたAndroidアプリをアップロードできる。AI StudioはGeminiへの文章のプロンプトだけでアプリを生成でき、追加のプロンプトや生成されたコードの直接編集で結果を調整できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+                "cap": "AI StudioがバイブコーディングしたAndroidアプリをPlay Storeに公開する様子。"
+              },
+              {
+                "t": "p",
+                "x": "当初、アプリは新設の「個人ライブラリ」セクションで自分のデバイスでのみ使えるが、Googleはいずれバイブコーディングしたアプリを友人や家族と安全に共有できるようにする計画だ。世界中のユーザーに届けるには、プロのデベロッパーアカウントへ「卒業」し、Play Storeの通常の安全審査にアプリを提出すればよい。"
+              },
+              {
+                "t": "p",
+                "x": "GoogleはさらにGeminiがチャット内でPlay Storeアプリへの直接リンクを示せるようにし、新しいGame Finderは新たな好みのプロフィール「Gamer DNA」に基づいてゲームを推薦する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+                "cap": "Play Storeの新機能Game FinderにおけるGamer DNAとGame Playlists。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "氛围编程的Android应用\n登上Play Store",
+          "body": "仅凭Google账号，任何人都能把氛围编程的应用发布到Play Store。",
+          "mini_headline": "氛围编程应用登上Play Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+                "cap": "Play Store的个人库板块。"
+              },
+              {
+                "t": "p",
+                "x": "作为Play Store一系列更新的一部分，Google宣布将允许任何用氛围编程打造Android应用的人，仅凭一个Google账号即可通过Play Store分发应用。"
+              },
+              {
+                "t": "p",
+                "x": "该功能将向美国（US）及其他部分市场的18岁及以上用户逐步推出，用户无需付费开发者账号，即可从Google AI Studio上传氛围编程的Android应用。AI Studio只需向Gemini输入一段文字提示即可生成应用，用户还可以通过更多提示或亲自修改生成的代码来调整结果。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+                "cap": "AI Studio将一款氛围编程的Android应用发布到Play Store。"
+              },
+              {
+                "t": "p",
+                "x": "起初，应用只会出现在新的“个人库”板块中，仅供你自己的设备使用，但Google计划最终让你能与亲友安全地分享氛围编程的应用。若想面向全球用户，你可以“升级”为专业开发者账号，并将应用提交至Play Store的常规安全审核。"
+              },
+              {
+                "t": "p",
+                "x": "Google还让Gemini能在对话中直接给出Play Store应用的链接，新的Game Finder则会根据全新的口味档案Gamer DNA推荐游戏。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+                "cap": "Play Store新Game Finder功能中的Gamer DNA与Game Playlists。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las apps de vibe coding\nllegan a Play Store",
+          "body": "Google permitirá publicar en Play Store apps Android hechas con vibe coding con solo una cuenta de Google.",
+          "mini_headline": "Apps de vibe coding llegan a Play Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+                "cap": "La sección de biblioteca personal de Play Store."
+              },
+              {
+                "t": "p",
+                "x": "Como parte de un conjunto de actualizaciones de Play Store, Google anunció que permitirá a cualquier persona que cree una app Android mediante vibe coding distribuirla a través de Play Store con solo una cuenta de Google."
+              },
+              {
+                "t": "p",
+                "x": "La función llegará a usuarios de 18 años o más en Estados Unidos (US) y otros mercados seleccionados, y permitirá subir una app Android hecha con vibe coding desde Google AI Studio sin una cuenta de desarrollador de pago. AI Studio puede generar apps con solo un prompt escrito a Gemini, y los resultados pueden ajustarse con más prompts o editando uno mismo el código generado."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+                "cap": "AI Studio publicando en Play Store una app Android creada con vibe coding."
+              },
+              {
+                "t": "p",
+                "x": "Al principio, la app solo estará disponible en los propios dispositivos del usuario, en una nueva sección de \"biblioteca personal\", pero Google planea permitir más adelante compartir de forma segura las apps creadas con vibe coding con amigos y familiares. Para llegar a una audiencia global, se puede \"graduar\" a una cuenta de desarrollador profesional y enviar las apps a las revisiones de seguridad habituales de Play Store."
+              },
+              {
+                "t": "p",
+                "x": "Google también permite que Gemini muestre enlaces directos a apps de Play Store en los chats, y un nuevo Game Finder recomienda juegos según el Gamer DNA del usuario, un nuevo perfil de gustos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+                "cap": "Gamer DNA y Game Playlists en la nueva función Game Finder de Play Store."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "바이브 코딩한 앱도\nPlay Store로 간다",
+          "body": "Google 계정만으로 바이브 코딩 앱을 Play Store에 올릴 수 있다.",
+          "mini_headline": "바이브 코딩 앱, Play Store 입성",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+                "cap": "Play Store의 개인 라이브러리 섹션."
+              },
+              {
+                "t": "p",
+                "x": "Google은 Play Store 업데이트의 일환으로, Android 앱을 바이브 코딩으로 만든 사람이라면 누구나 Google 계정만으로 Play Store에 배포할 수 있게 하겠다고 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 미국(US)과 일부 시장의 18세 이상 사용자에게 순차 제공되며, 유료 개발자 계정 없이도 Google AI Studio에서 바이브 코딩한 Android 앱을 올릴 수 있다. AI Studio는 Gemini에 글로 프롬프트를 입력하는 것만으로 앱을 만들어 주며, 프롬프트를 더 쓰거나 생성된 코드를 직접 고쳐 결과를 다듬을 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+                "cap": "AI Studio에서 바이브 코딩한 Android 앱을 Play Store에 게시하는 모습."
+              },
+              {
+                "t": "p",
+                "x": "처음에는 새로 생기는 \"개인 라이브러리\" 섹션에서 본인 기기에서만 앱을 쓸 수 있지만, Google은 앞으로 바이브 코딩 앱을 친구와 가족에게 안전하게 공유할 수 있게 할 계획이다. 전 세계 사용자에게 선보이려면 전문 개발자 계정으로 \"졸업\"해 Play Store의 일반 안전 심사에 앱을 제출하면 된다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 또 Gemini가 대화 중에 Play Store 앱으로 바로 가는 링크를 보여 주도록 했고, 새 Game Finder는 새로운 취향 프로필인 Gamer DNA를 바탕으로 게임을 추천한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+                "cap": "Play Store의 새 Game Finder 기능에 있는 Gamer DNA와 Game Playlists."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "バイブコーディング製アプリが\nPlay Storeに登場",
+          "body": "Googleアカウントだけで、バイブコーディングのアプリをPlay Storeに出せる。",
+          "mini_headline": "バイブコーディングのアプリがPlay Storeへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+                "cap": "Play Storeの個人ライブラリセクション。"
+              },
+              {
+                "t": "p",
+                "x": "GoogleはPlay Storeの一連のアップデートの一環として、Androidアプリをバイブコーディングで作った人なら誰でも、Googleアカウントだけで Play Storeを通じて配布できるようにすると発表した。"
+              },
+              {
+                "t": "p",
+                "x": "米国（US）などの一部市場で18歳以上のユーザーに順次提供され、有料のデベロッパーアカウントなしでGoogle AI StudioからバイブコーディングしたAndroidアプリをアップロードできる。AI StudioはGeminiへの文章のプロンプトだけでアプリを生成でき、追加のプロンプトや生成されたコードの直接編集で結果を調整できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+                "cap": "AI StudioがバイブコーディングしたAndroidアプリをPlay Storeに公開する様子。"
+              },
+              {
+                "t": "p",
+                "x": "当初、アプリは新設の「個人ライブラリ」セクションで自分のデバイスでのみ使えるが、Googleはいずれバイブコーディングしたアプリを友人や家族と安全に共有できるようにする計画だ。世界中のユーザーに届けるには、プロのデベロッパーアカウントへ「卒業」し、Play Storeの通常の安全審査にアプリを提出すればよい。"
+              },
+              {
+                "t": "p",
+                "x": "GoogleはさらにGeminiがチャット内でPlay Storeアプリへの直接リンクを示せるようにし、新しいGame Finderは新たな好みのプロフィール「Gamer DNA」に基づいてゲームを推薦する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+                "cap": "Play Storeの新機能Game FinderにおけるGamer DNAとGame Playlists。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "氛围编程的Android应用\n登上Play Store",
+          "body": "仅凭Google账号，任何人都能把氛围编程的应用发布到Play Store。",
+          "mini_headline": "氛围编程应用登上Play Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+                "cap": "Play Store的个人库板块。"
+              },
+              {
+                "t": "p",
+                "x": "作为Play Store一系列更新的一部分，Google宣布将允许任何用氛围编程打造Android应用的人，仅凭一个Google账号即可通过Play Store分发应用。"
+              },
+              {
+                "t": "p",
+                "x": "该功能将向美国（US）及其他部分市场的18岁及以上用户逐步推出，用户无需付费开发者账号，即可从Google AI Studio上传氛围编程的Android应用。AI Studio只需向Gemini输入一段文字提示即可生成应用，用户还可以通过更多提示或亲自修改生成的代码来调整结果。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+                "cap": "AI Studio将一款氛围编程的Android应用发布到Play Store。"
+              },
+              {
+                "t": "p",
+                "x": "起初，应用只会出现在新的“个人库”板块中，仅供你自己的设备使用，但Google计划最终让你能与亲友安全地分享氛围编程的应用。若想面向全球用户，你可以“升级”为专业开发者账号，并将应用提交至Play Store的常规安全审核。"
+              },
+              {
+                "t": "p",
+                "x": "Google还让Gemini能在对话中直接给出Play Store应用的链接，新的Game Finder则会根据全新的口味档案Gamer DNA推荐游戏。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+                "cap": "Play Store新Game Finder功能中的Gamer DNA与Game Playlists。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las apps de vibe coding\nllegan a Play Store",
+          "body": "Google permitirá publicar en Play Store apps Android hechas con vibe coding con solo una cuenta de Google.",
+          "mini_headline": "Apps de vibe coding llegan a Play Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+                "cap": "La sección de biblioteca personal de Play Store."
+              },
+              {
+                "t": "p",
+                "x": "Como parte de un conjunto de actualizaciones de Play Store, Google anunció que permitirá a cualquier persona que cree una app Android mediante vibe coding distribuirla a través de Play Store con solo una cuenta de Google."
+              },
+              {
+                "t": "p",
+                "x": "La función llegará a usuarios de 18 años o más en Estados Unidos (US) y otros mercados seleccionados, y permitirá subir una app Android hecha con vibe coding desde Google AI Studio sin una cuenta de desarrollador de pago. AI Studio puede generar apps con solo un prompt escrito a Gemini, y los resultados pueden ajustarse con más prompts o editando uno mismo el código generado."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+                "cap": "AI Studio publicando en Play Store una app Android creada con vibe coding."
+              },
+              {
+                "t": "p",
+                "x": "Al principio, la app solo estará disponible en los propios dispositivos del usuario, en una nueva sección de \"biblioteca personal\", pero Google planea permitir más adelante compartir de forma segura las apps creadas con vibe coding con amigos y familiares. Para llegar a una audiencia global, se puede \"graduar\" a una cuenta de desarrollador profesional y enviar las apps a las revisiones de seguridad habituales de Play Store."
+              },
+              {
+                "t": "p",
+                "x": "Google también permite que Gemini muestre enlaces directos a apps de Play Store en los chats, y un nuevo Game Finder recomienda juegos según el Gamer DNA del usuario, un nuevo perfil de gustos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+                "cap": "Gamer DNA y Game Playlists en la nueva función Game Finder de Play Store."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-nvidia-usd-brep-kernel",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Nvidia 오픈소스 커널\nAI에 CAD 솔리드 개방",
+      "body": "Nvidia USD BRep이 NURBS 형상을 AI의 3D 설계에 열었다.",
+      "mini_headline": "Nvidia 커널, CAD를 AI에 개방",
+      "tool": "Text-to-CAD",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/cad/nvidia-launches-usd-brep-geometry-kernel-for-solid-modelling/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Nvidia가 NURBS-based 경계 표현(BRep) 솔리드 모델링용 독립형 C++·Python 라이브러리 USD BRep을 출시했다. 덕분에 AI 도구와 워크플로를 더 적극적으로 쓰는 오픈소스 CAD 모델링 소프트웨어를 만들려는 개발자들의 움직임에 속도가 붙었다."
+          },
+          {
+            "t": "p",
+            "x": "AI-to-CAD는 그동안 기존 CAD 데이터와 메타데이터, 여러 단계로 이뤄진 피처 트리로 머신러닝 알고리즘을 학습시키기 어려워 고전했다. USD BRep은 NURBS와 BRep 형상을 Python과 C++ 구조에 직접 노출한다. 개발자는 정확한 기하 경계를 신경망에 넣거나 생성 모델(LLMs, Diffusion 네트워크 등)을 프로그래밍해 수학적으로 정확하고 제조 가능한 3D 모델을 만들 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "가장 널리 쓰이는 3D CAD 커널 Parasolid를 개발한 Siemens가 당장 긴장할 것 같지는 않다. Siemens Digital Industries CEO Tony Hemmelgarn은 올해 초 DEVELOP3D에 \"가치는 또 하나의 모델러에 있지 않다. 가치는 그 LLM을 이미 있는 CAD 도구와 어떻게 연결하느냐에 있다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Solid Modeling Solutions가 개발하고 Nvidia가 2022년 5월 인수한 SMLib 기하 커널도 오픈소스 USD BRep 프로젝트에 들어 있다. Nvidia는 기존 CAD 도구를 대체하기보다 파이프라인, 데이터 변환, 다운스트림 프레임워크 최적화에 더 힘을 쏟는 모습이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Nvidia's open source kernel\nopens CAD solids to AI",
+          "body": "Nvidia's USD BRep kernel exposes exact NURBS solid geometry to Python and C++, so AI can make manufacturable 3D models.",
+          "mini_headline": "Nvidia kernel opens CAD to AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia has launched USD BRep, a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modelling, sparking a rush from developers to create open source CAD modelling software that makes greater use of AI tools and workflows."
+              },
+              {
+                "t": "p",
+                "x": "AI-to-CAD has suffered due to the issues training machine learning algorithms on traditional CAD data, its metadata and multi-step feature trees. As USD BRep exposes NURBS and BRep geometry directly to Python and C++ structures, developers can feed exact geometric boundaries into neural networks or program generative models (like LLMs and Diffusion nets) to create mathematically sound, manufacturable 3D models."
+              },
+              {
+                "t": "p",
+                "x": "It is unlikely that Siemens, developer of the most widely utilised 3D CAD kernel Parasolid, will be panicking just yet. \"The value is not in another modeller, the value is in how we can link that LLM to the CAD tools that are there,\" Siemens Digital Industries CEO Tony Hemmelgarn told DEVELOP3D earlier this year."
+              },
+              {
+                "t": "p",
+                "x": "The SMLib geometry kernel, developed by Solid Modeling Solutions and acquired by Nvidia in May 2022, forms part of the open source USD BRep project. Nvidia looks more focussed on optimising the pipeline, data translation and downstream framework than on replacing existing CAD tools."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Nvidia 오픈소스 커널\nAI에 CAD 솔리드 개방",
+          "body": "Nvidia USD BRep이 NURBS 형상을 AI의 3D 설계에 열었다.",
+          "mini_headline": "Nvidia 커널, CAD를 AI에 개방",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia가 NURBS-based 경계 표현(BRep) 솔리드 모델링용 독립형 C++·Python 라이브러리 USD BRep을 출시했다. 덕분에 AI 도구와 워크플로를 더 적극적으로 쓰는 오픈소스 CAD 모델링 소프트웨어를 만들려는 개발자들의 움직임에 속도가 붙었다."
+              },
+              {
+                "t": "p",
+                "x": "AI-to-CAD는 그동안 기존 CAD 데이터와 메타데이터, 여러 단계로 이뤄진 피처 트리로 머신러닝 알고리즘을 학습시키기 어려워 고전했다. USD BRep은 NURBS와 BRep 형상을 Python과 C++ 구조에 직접 노출한다. 개발자는 정확한 기하 경계를 신경망에 넣거나 생성 모델(LLMs, Diffusion 네트워크 등)을 프로그래밍해 수학적으로 정확하고 제조 가능한 3D 모델을 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "가장 널리 쓰이는 3D CAD 커널 Parasolid를 개발한 Siemens가 당장 긴장할 것 같지는 않다. Siemens Digital Industries CEO Tony Hemmelgarn은 올해 초 DEVELOP3D에 \"가치는 또 하나의 모델러에 있지 않다. 가치는 그 LLM을 이미 있는 CAD 도구와 어떻게 연결하느냐에 있다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Solid Modeling Solutions가 개발하고 Nvidia가 2022년 5월 인수한 SMLib 기하 커널도 오픈소스 USD BRep 프로젝트에 들어 있다. Nvidia는 기존 CAD 도구를 대체하기보다 파이프라인, 데이터 변환, 다운스트림 프레임워크 최적화에 더 힘을 쏟는 모습이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Nvidiaのオープンソース\nカーネルがCADをAIへ開放",
+          "body": "NvidiaのUSD BRepがNURBS形状をAIの3D設計に開いた。",
+          "mini_headline": "Nvidiaカーネル、CADをAIに開放",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaは、NURBS-basedの境界表現（BRep）ソリッドモデリング向けの独立したC++およびPythonライブラリ、USD BRepを公開した。これを受け、AIツールとワークフローをより積極的に活用するオープンソースのCADモデリングソフトウェアを開発しようとする動きが開発者の間で広がっている。"
+              },
+              {
+                "t": "p",
+                "x": "AI-to-CADは、従来のCADデータやそのメタデータ、多段階のフィーチャーツリーで機械学習アルゴリズムを訓練することの難しさに悩まされてきた。USD BRepはNURBSとBRepの形状をPythonとC++の構造に直接公開するため、開発者は正確な幾何境界をニューラルネットワークに入力したり、生成モデル（LLMsやDiffusionネットなど）をプログラムしたりして、数学的に正しく製造可能な3Dモデルを作ることができる。"
+              },
+              {
+                "t": "p",
+                "x": "最も広く使われている3D CADカーネルParasolidを開発したSiemensが、今すぐ慌てる可能性は低い。Siemens Digital IndustriesのCEO、Tony Hemmelgarnは今年初めDEVELOP3Dに対し「価値はもう一つのモデラーにあるのではない。価値は、そのLLMを既存のCADツールとどう結びつけられるかにある」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "Solid Modeling Solutionsが開発し、Nvidiaが2022年5月に買収したSMLibジオメトリカーネルは、オープンソースのUSD BRepプロジェクトの一部を成す。Nvidiaは既存のCADツールを置き換えることよりも、パイプライン、データ変換、下流のフレームワークの最適化に重点を置いているようだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Nvidia开源内核\n向AI开放CAD实体",
+          "body": "Nvidia的USD BRep将NURBS实体几何开放给AI，助其生成可制造的3D模型。",
+          "mini_headline": "Nvidia内核向AI开放CAD",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia推出了USD BRep，这是一个用于NURBS-based边界表示（BRep）实体建模的独立C++和Python库。此举引发开发者竞相打造更多利用AI工具和工作流的开源CAD建模软件。"
+              },
+              {
+                "t": "p",
+                "x": "AI-to-CAD一直受困于用传统CAD数据、其元数据及多步骤特征树训练机器学习算法的难题。由于USD BRep将NURBS和BRep几何直接暴露给Python和C++结构，开发者可以把精确的几何边界输入神经网络，或编写生成模型（如LLMs和Diffusion网络），以创建数学上严谨、可制造的3D模型。"
+              },
+              {
+                "t": "p",
+                "x": "开发了最广泛使用的3D CAD内核Parasolid的Siemens，目前还不太可能感到恐慌。Siemens Digital Industries首席执行官Tony Hemmelgarn今年早些时候对DEVELOP3D表示：“价值不在于再多一个建模器，价值在于我们如何把那个LLM与现有的CAD工具连接起来。”"
+              },
+              {
+                "t": "p",
+                "x": "由Solid Modeling Solutions开发、Nvidia于2022年5月收购的SMLib几何内核，是开源USD BRep项目的组成部分。相比取代现有CAD工具，Nvidia看起来更专注于优化管线、数据转换和下游框架。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El kernel abierto de Nvidia\nabre los sólidos CAD a la AI",
+          "body": "El kernel USD BRep de Nvidia expone geometría NURBS exacta a Python y C++ para que la AI cree modelos 3D fabricables.",
+          "mini_headline": "El kernel de Nvidia abre CAD a la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia ha lanzado USD BRep, una biblioteca independiente de C++ y Python para el modelado de sólidos por representación de contornos (BRep) NURBS-based, lo que ha impulsado a los desarrolladores a crear software de modelado CAD de código abierto que aprovecha más las herramientas y los flujos de trabajo de AI."
+              },
+              {
+                "t": "p",
+                "x": "El AI-to-CAD se ha visto lastrado por la dificultad de entrenar algoritmos de aprendizaje automático con datos CAD tradicionales, sus metadatos y sus árboles de operaciones de varios pasos. Como USD BRep expone la geometría NURBS y BRep directamente a estructuras de Python y C++, los desarrolladores pueden introducir contornos geométricos exactos en redes neuronales o programar modelos generativos (como LLMs y redes Diffusion) para crear modelos 3D matemáticamente sólidos y fabricables."
+              },
+              {
+                "t": "p",
+                "x": "Es poco probable que Siemens, desarrolladora de Parasolid, el kernel CAD 3D más utilizado, vaya a alarmarse por ahora. \"El valor no está en otro modelador, el valor está en cómo podemos vincular ese LLM con las herramientas CAD que ya existen\", dijo a DEVELOP3D a principios de este año Tony Hemmelgarn, CEO de Siemens Digital Industries."
+              },
+              {
+                "t": "p",
+                "x": "El kernel geométrico SMLib, desarrollado por Solid Modeling Solutions y adquirido por Nvidia en mayo de 2022, forma parte del proyecto de código abierto USD BRep. Nvidia parece más centrada en optimizar el pipeline, la traducción de datos y el framework posterior que en sustituir las herramientas CAD existentes."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Nvidia 오픈소스 커널\nAI에 CAD 솔리드 개방",
+          "body": "Nvidia USD BRep이 NURBS 형상을 AI의 3D 설계에 열었다.",
+          "mini_headline": "Nvidia 커널, CAD를 AI에 개방",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia가 NURBS-based 경계 표현(BRep) 솔리드 모델링을 위한 독립형 C++·Python 라이브러리 USD BRep을 출시했다. 이를 계기로 AI 도구와 워크플로를 더 적극적으로 활용하는 오픈소스 CAD 모델링 소프트웨어를 만들려는 개발자들의 움직임이 빨라지고 있다."
+              },
+              {
+                "t": "p",
+                "x": "AI-to-CAD는 기존 CAD 데이터와 그 메타데이터, 여러 단계로 이뤄진 피처 트리로 머신러닝 알고리즘을 학습시키기 어렵다는 문제로 고전해 왔다. USD BRep은 NURBS와 BRep 형상을 Python과 C++ 구조에 직접 노출하므로, 개발자는 정확한 기하 경계를 신경망에 입력하거나 생성 모델(LLMs, Diffusion 네트워크 등)을 프로그래밍해 수학적으로 정확하고 제조 가능한 3D 모델을 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "가장 널리 쓰이는 3D CAD 커널 Parasolid를 개발한 Siemens가 당장 긴장할 가능성은 낮다. Siemens Digital Industries CEO Tony Hemmelgarn은 올해 초 DEVELOP3D에 \"가치는 또 하나의 모델러에 있지 않다. 가치는 그 LLM을 이미 있는 CAD 도구와 어떻게 연결하느냐에 있다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Solid Modeling Solutions가 개발하고 Nvidia가 2022년 5월 인수한 SMLib 기하 커널은 오픈소스 USD BRep 프로젝트의 일부를 이룬다. Nvidia는 기존 CAD 도구를 대체하기보다 파이프라인, 데이터 변환, 다운스트림 프레임워크 최적화에 더 집중하는 모습이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Nvidiaのオープンソース\nカーネルがCADをAIへ開放",
+          "body": "NvidiaのUSD BRepがNURBS形状をAIの3D設計に開いた。",
+          "mini_headline": "Nvidiaカーネル、CADをAIに開放",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaは、NURBS-basedの境界表現（BRep）ソリッドモデリング向けの独立したC++およびPythonライブラリ、USD BRepを公開した。これを受け、AIツールとワークフローをより積極的に活用するオープンソースのCADモデリングソフトウェアを開発しようとする動きが開発者の間で広がっている。"
+              },
+              {
+                "t": "p",
+                "x": "AI-to-CADは、従来のCADデータやそのメタデータ、多段階のフィーチャーツリーで機械学習アルゴリズムを訓練することの難しさに悩まされてきた。USD BRepはNURBSとBRepの形状をPythonとC++の構造に直接公開するため、開発者は正確な幾何境界をニューラルネットワークに入力したり、生成モデル（LLMsやDiffusionネットなど）をプログラムしたりして、数学的に正しく製造可能な3Dモデルを作ることができる。"
+              },
+              {
+                "t": "p",
+                "x": "最も広く使われている3D CADカーネルParasolidを開発したSiemensが、今すぐ慌てる可能性は低い。Siemens Digital IndustriesのCEO、Tony Hemmelgarnは今年初めDEVELOP3Dに対し「価値はもう一つのモデラーにあるのではない。価値は、そのLLMを既存のCADツールとどう結びつけられるかにある」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "Solid Modeling Solutionsが開発し、Nvidiaが2022年5月に買収したSMLibジオメトリカーネルは、オープンソースのUSD BRepプロジェクトの一部を成す。Nvidiaは既存のCADツールを置き換えることよりも、パイプライン、データ変換、下流のフレームワークの最適化に重点を置いているようだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Nvidia开源内核\n向AI开放CAD实体",
+          "body": "Nvidia的USD BRep将NURBS实体几何开放给AI，助其生成可制造的3D模型。",
+          "mini_headline": "Nvidia内核向AI开放CAD",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia推出了USD BRep，这是一个用于NURBS-based边界表示（BRep）实体建模的独立C++和Python库。此举引发开发者竞相打造更多利用AI工具和工作流的开源CAD建模软件。"
+              },
+              {
+                "t": "p",
+                "x": "AI-to-CAD一直受困于用传统CAD数据、其元数据及多步骤特征树训练机器学习算法的难题。由于USD BRep将NURBS和BRep几何直接暴露给Python和C++结构，开发者可以把精确的几何边界输入神经网络，或编写生成模型（如LLMs和Diffusion网络），以创建数学上严谨、可制造的3D模型。"
+              },
+              {
+                "t": "p",
+                "x": "开发了最广泛使用的3D CAD内核Parasolid的Siemens，目前还不太可能感到恐慌。Siemens Digital Industries首席执行官Tony Hemmelgarn今年早些时候对DEVELOP3D表示：“价值不在于再多一个建模器，价值在于我们如何把那个LLM与现有的CAD工具连接起来。”"
+              },
+              {
+                "t": "p",
+                "x": "由Solid Modeling Solutions开发、Nvidia于2022年5月收购的SMLib几何内核，是开源USD BRep项目的组成部分。相比取代现有CAD工具，Nvidia看起来更专注于优化管线、数据转换和下游框架。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El kernel abierto de Nvidia\nabre los sólidos CAD a la AI",
+          "body": "El kernel USD BRep de Nvidia expone geometría NURBS exacta a Python y C++ para que la AI cree modelos 3D fabricables.",
+          "mini_headline": "El kernel de Nvidia abre CAD a la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia ha lanzado USD BRep, una biblioteca independiente de C++ y Python para el modelado de sólidos por representación de contornos (BRep) NURBS-based, lo que ha impulsado a los desarrolladores a crear software de modelado CAD de código abierto que aprovecha más las herramientas y los flujos de trabajo de AI."
+              },
+              {
+                "t": "p",
+                "x": "El AI-to-CAD se ha visto lastrado por la dificultad de entrenar algoritmos de aprendizaje automático con datos CAD tradicionales, sus metadatos y sus árboles de operaciones de varios pasos. Como USD BRep expone la geometría NURBS y BRep directamente a estructuras de Python y C++, los desarrolladores pueden introducir contornos geométricos exactos en redes neuronales o programar modelos generativos (como LLMs y redes Diffusion) para crear modelos 3D matemáticamente sólidos y fabricables."
+              },
+              {
+                "t": "p",
+                "x": "Es poco probable que Siemens, desarrolladora de Parasolid, el kernel CAD 3D más utilizado, vaya a alarmarse por ahora. \"El valor no está en otro modelador, el valor está en cómo podemos vincular ese LLM con las herramientas CAD que ya existen\", dijo a DEVELOP3D a principios de este año Tony Hemmelgarn, CEO de Siemens Digital Industries."
+              },
+              {
+                "t": "p",
+                "x": "El kernel geométrico SMLib, desarrollado por Solid Modeling Solutions y adquirido por Nvidia en mayo de 2022, forma parte del proyecto de código abierto USD BRep. Nvidia parece más centrada en optimizar el pipeline, la traducción de datos y el framework posterior que en sustituir las herramientas CAD existentes."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-rtx-spark-creative-apps",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "ComfyUI 등 창작앱\nRTX Spark에 맞춘다",
+      "body": "10월 16일 RTX Spark 출시 전 Adobe 앱이 최대 2배 빨라진다.",
+      "mini_headline": "RTX Spark 맞춤 창작 앱",
       "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/10/bitethebytes-unveils-world-creator-4/",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -19,245 +753,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
           },
           {
             "t": "p",
-            "x": "BiteTheBytes가 GPU-based 지형 생성 소프트웨어 World Creator 4를 공개했다. 게임 개발, 모션 그래픽, VFX 작업에 쓰는 이 툴의 차기 메이저 버전이다. 다음 달 나오는 이번 버전은 코어 아키텍처를 새로 짜서 일반 지형부터 행성 전체 환경까지 다룰 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+            "x": "NVIDIA와 Microsoft는 RTX Spark 노트북을 10월 16일 금요일에 출시한다고 발표했다. RTX Spark는 최대 128GB 통합 메모리와 1페타플롭의 AI 연산 성능을 갖췄고, 콘텐츠 제작 워크플로에 130개가 넘는 가속 앱을 제공한다. NVIDIA와 파트너사들은 출시를 앞두고 새 소프트웨어 기능과 최적화를 잇따라 내놓는 중이다."
           },
           {
             "t": "p",
-            "x": "새 아키텍처의 바탕은 BiteTheBytes의 Cloddy SDK다. “완전히 GPU-driven 방식의 행성 지형 파이프라인”을 제공하도록 손본 버전이다. 높이·분포 데이터는 구체에 매핑할 수 있는 형식으로 내보낸다. 렌더 이미지는 9GB 용량의 USGS DEM 화성 모델로 만들었고, BiteTheBytes는 이 모델을 World Creator 안에서 실시간으로 탐색할 수 있다고 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+            "x": "Adobe는 Photoshop, Premiere, Substance 3D를 RTX Spark에 맞게 최적화해 AI, 편집, 색상, 효과 작업 속도를 최대 2배 높인다. Photoshop에는 GPU 가속(GPU-accelerated) 합성이 들어간다. Premiere에서는 재생, 렌더링, 컬러 그레이딩과 Enhance Speech, Object Mask 같은 AI 기능이 빨라진다. Photoshop과 Premiere의 AI 기능 최적화는 베타로 먼저 나오고, Substance 3D 업데이트는 곧 나온다."
           },
           {
             "t": "p",
-            "x": "레이어 시스템을 보완할 노드 뷰가 새로 들어간다. “예전 레벨 단계 시스템 없이 하이트필드를 직접 스컬프팅”하는 기능, 절차적 침식과 물·모래 퇴적을 다루는 새 모델, 110가지가 넘는 절차적 노이즈 유형도 더해진다. 새 폴리곤 기반 렌더러는 “패스 트레이싱과 함께 일반적인 실시간 게임 렌더링”을 제공하고, 두 렌더러 모두 DLSS 4.5를 지원한다."
+            "x": "ComfyUI에는 RTX Video Frame Generation과 RTX Video HDR이라는 새 노드 두 개와 EXR 내보내기가 추가된다. 크리에이터는 여기에 LTX 2.5를 더해 1080p, 30 fps SDR 클립을 더 매끄러운 60 fps HDR 영상으로 바꿀 수 있다."
           },
           {
             "t": "p",
-            "x": "배치 처리 시스템과 통합 MCP 서버도 실려서 Claude, ChatGPT 같은 외부 AI 도구로 World Creator를 제어할 수 있다. 그동안 Windows-only였던 소프트웨어가 이제 macOS와 Linux에서도 돌아간다."
-          },
-          {
-            "t": "p",
-            "x": "World Creator 4는 2026년 11월에 나올 예정이다. BiteTheBytes가 발표한 가격 변경은 없다."
+            "x": "Blender는 RTX Spark를 지원하는 5.3 버전 베타를 공개했고, 다음 달에는 뷰포트 실시간 미리보기용 DLSS Ray Reconstruction을 넣는다. NVIDIA Broadcast 2.3에는 Video Super Resolution, Frame Generation, Offline File Processor와 로컬 AI 에이전트용 MCP 서버가 들어간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "World Creator 4 adds planets\nand a built-in MCP server",
-          "body": "World Creator 4 adds planet creation, node-based authoring, a real-time renderer and an MCP server for AI tools.",
-          "mini_headline": "World Creator 4 adds MCP",
+          "headline": "Photoshop, Blender and ComfyUI\ntune up for RTX Spark",
+          "body": "Ahead of the Oct. 16 RTX Spark launch, Nvidia and Adobe rearchitect Photoshop and Premiere for up to 2x performance.",
+          "mini_headline": "Creative apps ready for RTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
               },
               {
                 "t": "p",
-                "x": "BiteTheBytes has unveiled World Creator 4, the next major version of its GPU-based terrain-generation software for game development, motion graphics and VFX work. The release, due next month, will introduce a new core architecture, enabling the software to scale from generating conventional terrain to complete planetary environments."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+                "x": "NVIDIA and Microsoft announced that RTX Spark laptops will be available on Friday, Oct. 16. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark brings over 130 accelerated apps to content creation workflows. Ahead of the launch, NVIDIA and its partners are rolling out new software features and optimizations."
               },
               {
                 "t": "p",
-                "x": "The new architecture is powered by BiteTheBytes’ Cloddy SDK, updated to provide a “fully GPU-driven planetary terrain pipeline”. Height and distribution data can be exported in a format that can be mapped onto a sphere; the render is based on a 9GB USGS DEM model of Mars, which BiteTheBytes says is navigable in real time inside World Creator."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+                "x": "Adobe is optimizing Photoshop, Premiere and Substance 3D for RTX Spark, delivering up to 2x faster AI, editing, color and effects. Photoshop gets GPU-accelerated compositing, while Premiere accelerates playback, rendering, color grading and AI features such as Enhance Speech and Object Mask. AI feature optimizations in Photoshop and Premiere are ready in beta, with Substance 3D updates coming soon."
               },
               {
                 "t": "p",
-                "x": "A new node view supplements the layer system, alongside “direct heightfield sculpting without the old level step system”, new models for procedural erosion, water and sand deposition, and over 110 procedural noise types. A new polygon-based renderer brings “conventional real-time game rendering alongside path tracing”, and both renderers support DLSS 4.5."
+                "x": "ComfyUI adds two new nodes, RTX Video Frame Generation and RTX Video HDR, plus EXR export. Creators can combine LTX 2.5 with them to turn a 1080p, 30 fps SDR clip into a smoother 60 fps HDR video."
               },
               {
                 "t": "p",
-                "x": "The release will also feature a batch processing system and an integrated MCP server, making it possible to control World Creator with external AI tools like Claude and ChatGPT. The formerly Windows-only software is coming to macOS and Linux."
-              },
-              {
-                "t": "p",
-                "x": "World Creator 4 is due for release in November 2026. BiteTheBytes hasn’t announced any price changes."
+                "x": "Blender has released a beta of version 5.3 with RTX Spark compatibility, and next month will add DLSS Ray Reconstruction for real-time previews in the viewport. NVIDIA Broadcast 2.3 adds Video Super Resolution, Frame Generation, an Offline File Processor and an MCP server for local AI agents."
               }
             ]
           }
         },
         "ko": {
-          "headline": "지형 툴 신버전이 행성과\nMCP 서버까지 품는다",
-          "body": "World Creator 4에 행성 생성과 AI용 MCP 서버가 들어간다.",
-          "mini_headline": "World Creator 4, MCP 탑재",
+          "headline": "ComfyUI 등 창작앱\nRTX Spark에 맞춘다",
+          "body": "10월 16일 RTX Spark 출시 전 Adobe 앱이 최대 2배 빨라진다.",
+          "mini_headline": "RTX Spark 맞춤 창작 앱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
               },
               {
                 "t": "p",
-                "x": "BiteTheBytes가 GPU-based 지형 생성 소프트웨어 World Creator 4를 공개했다. 게임 개발, 모션 그래픽, VFX 작업에 쓰는 이 툴의 차기 메이저 버전이다. 다음 달 나오는 이번 버전은 코어 아키텍처를 새로 짜서 일반 지형부터 행성 전체 환경까지 다룰 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+                "x": "NVIDIA와 Microsoft는 RTX Spark 노트북을 10월 16일 금요일에 출시한다고 발표했다. RTX Spark는 최대 128GB 통합 메모리와 1페타플롭의 AI 연산 성능을 갖췄고, 콘텐츠 제작 워크플로에 130개가 넘는 가속 앱을 제공한다. NVIDIA와 파트너사들은 출시를 앞두고 새 소프트웨어 기능과 최적화를 잇따라 내놓는 중이다."
               },
               {
                 "t": "p",
-                "x": "새 아키텍처의 바탕은 BiteTheBytes의 Cloddy SDK다. “완전히 GPU-driven 방식의 행성 지형 파이프라인”을 제공하도록 손본 버전이다. 높이·분포 데이터는 구체에 매핑할 수 있는 형식으로 내보낸다. 렌더 이미지는 9GB 용량의 USGS DEM 화성 모델로 만들었고, BiteTheBytes는 이 모델을 World Creator 안에서 실시간으로 탐색할 수 있다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+                "x": "Adobe는 Photoshop, Premiere, Substance 3D를 RTX Spark에 맞게 최적화해 AI, 편집, 색상, 효과 작업 속도를 최대 2배 높인다. Photoshop에는 GPU 가속(GPU-accelerated) 합성이 들어간다. Premiere에서는 재생, 렌더링, 컬러 그레이딩과 Enhance Speech, Object Mask 같은 AI 기능이 빨라진다. Photoshop과 Premiere의 AI 기능 최적화는 베타로 먼저 나오고, Substance 3D 업데이트는 곧 나온다."
               },
               {
                 "t": "p",
-                "x": "레이어 시스템을 보완할 노드 뷰가 새로 들어간다. “예전 레벨 단계 시스템 없이 하이트필드를 직접 스컬프팅”하는 기능, 절차적 침식과 물·모래 퇴적을 다루는 새 모델, 110가지가 넘는 절차적 노이즈 유형도 더해진다. 새 폴리곤 기반 렌더러는 “패스 트레이싱과 함께 일반적인 실시간 게임 렌더링”을 제공하고, 두 렌더러 모두 DLSS 4.5를 지원한다."
+                "x": "ComfyUI에는 RTX Video Frame Generation과 RTX Video HDR이라는 새 노드 두 개와 EXR 내보내기가 추가된다. 크리에이터는 여기에 LTX 2.5를 더해 1080p, 30 fps SDR 클립을 더 매끄러운 60 fps HDR 영상으로 바꿀 수 있다."
               },
               {
                 "t": "p",
-                "x": "배치 처리 시스템과 통합 MCP 서버도 실려서 Claude, ChatGPT 같은 외부 AI 도구로 World Creator를 제어할 수 있다. 그동안 Windows-only였던 소프트웨어가 이제 macOS와 Linux에서도 돌아간다."
-              },
-              {
-                "t": "p",
-                "x": "World Creator 4는 2026년 11월에 나올 예정이다. BiteTheBytes가 발표한 가격 변경은 없다."
+                "x": "Blender는 RTX Spark를 지원하는 5.3 버전 베타를 공개했고, 다음 달에는 뷰포트 실시간 미리보기용 DLSS Ray Reconstruction을 넣는다. NVIDIA Broadcast 2.3에는 Video Super Resolution, Frame Generation, Offline File Processor와 로컬 AI 에이전트용 MCP 서버가 들어간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "地形生成の新版が惑星対応\nMCPサーバーも内蔵",
-          "body": "World Creator 4は惑星生成とAIツール向けMCPサーバーを追加する。",
-          "mini_headline": "World Creator 4がMCP対応",
+          "headline": "ComfyUIなど制作アプリ\nRTX Sparkに最適化",
+          "body": "10月16日のRTX Spark発売を前に、Adobe製アプリが最大2倍高速化する。",
+          "mini_headline": "RTX Spark対応の制作アプリ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
               },
               {
                 "t": "p",
-                "x": "BiteTheBytesは、ゲーム開発やモーショングラフィックス、VFX向けのGPU-based地形生成ソフトの次期メジャーバージョン、World Creator 4を発表した。来月リリース予定の新版は新しいコアアーキテクチャを導入し、従来の地形生成から惑星全体の環境まで扱えるようになる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+                "x": "NVIDIAとMicrosoftは、RTX Sparkノートパソコンを10月16日（金）に発売すると発表した。最大128GBのユニファイドメモリと1ペタフロップのAI演算性能を備えるRTX Sparkは、130を超えるアクセラレーション対応アプリをコンテンツ制作のワークフローにもたらす。発売に先立ち、NVIDIAとパートナー各社は新しいソフトウェア機能と最適化を順次提供している。"
               },
               {
                 "t": "p",
-                "x": "新アーキテクチャを支えるのは、「完全にGPU-drivenな惑星地形パイプライン」を提供するよう更新されたBiteTheBytesのCloddy SDKだ。高さと分布のデータは球体にマッピングできる形式で書き出せる。レンダー画像は9GB のUSGS DEMによる火星モデルを基にしたもので、BiteTheBytesによればWorld Creator内でリアルタイムに操作できるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+                "x": "AdobeはPhotoshop、Premiere、Substance 3DをRTX Spark向けに最適化し、AI、編集、カラー、エフェクトを最大2倍高速化する。PhotoshopにはGPU-acceleratedのコンポジット（GPUアクセラレーションによる合成）が加わり、Premiereは再生、レンダリング、カラーグレーディングに加え、Enhance SpeechやObject MaskといったAI機能を高速化する。PhotoshopとPremiereのAI機能最適化はベータ版で利用でき、Substance 3Dのアップデートも近く提供される。"
               },
               {
                 "t": "p",
-                "x": "レイヤーシステムを補う新しいノードビューに加え、「旧来のレベルステップ方式を使わない直接的なハイトフィールドスカルプト」、プロシージャルな侵食や水・砂の堆積の新モデル、110種類を超えるプロシージャルノイズが加わる。新しいポリゴンベースのレンダラーは「パストレーシングと並ぶ従来型のリアルタイムゲームレンダリング」をもたらし、両レンダラーともDLSS 4.5に対応する。"
+                "x": "ComfyUIは、RTX Video Frame GenerationとRTX Video HDRという二つの新ノードに加え、EXR書き出しに対応する。クリエイターはこれらとLTX 2.5を組み合わせ、1080p・30 fpsのSDRクリップを、より滑らかな60 fpsのHDR映像に変換できる。"
               },
               {
                 "t": "p",
-                "x": "バッチ処理システムと統合MCPサーバーも備え、ClaudeやChatGPTといった外部のAIツールからWorld Creatorを操作できる。これまでWindows-onlyだったソフトはmacOSとLinuxにも対応する。"
-              },
-              {
-                "t": "p",
-                "x": "World Creator 4は2026年11月にリリース予定だ。BiteTheBytesは価格改定を発表していない。"
+                "x": "BlenderはRTX Sparkに対応したバージョン5.3のベータ版を公開し、来月にはビューポートでのリアルタイムプレビュー向けにDLSS Ray Reconstructionを追加する。NVIDIA Broadcast 2.3には、Video Super Resolution、Frame Generation、Offline File Processor、ローカルAIエージェント向けのMCPサーバーが加わる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "地形软件新版支持行星\n并内置MCP服务器",
-          "body": "World Creator 4 新增行星生成、实时渲染器和面向AI工具的MCP服务器。",
-          "mini_headline": "World Creator 4 加入MCP",
+          "headline": "ComfyUI等创作应用\n为RTX Spark优化",
+          "body": "RTX Spark上市前，Nvidia与Adobe将Photoshop提速至多2倍。",
+          "mini_headline": "创作应用为RTX Spark就绪",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
               },
               {
                 "t": "p",
-                "x": "BiteTheBytes 发布了 World Creator 4，这是其面向游戏开发、动态图形和 VFX 工作的 GPU-based 地形生成软件的下一个主要版本。新版将于下个月推出，引入全新核心架构，使软件能够从生成常规地形扩展到完整的行星环境。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+                "x": "NVIDIA与Microsoft宣布，RTX Spark笔记本电脑将于10月16日（周五）上市。RTX Spark配备最高128GB统一内存和1 petaflop的AI算力，为内容创作工作流带来超过130款加速应用。在发布之前，NVIDIA及其合作伙伴正陆续推出新的软件功能与优化。"
               },
               {
                 "t": "p",
-                "x": "新架构由 BiteTheBytes 的 Cloddy SDK 驱动，该 SDK 经过更新，可提供“完全 GPU-driven 的行星地形管线”。高度和分布数据可以导出为能映射到球体上的格式；示意渲染基于 9GB 的 USGS DEM 火星模型，BiteTheBytes 表示该模型可在 World Creator 中实时浏览。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+                "x": "Adobe正针对RTX Spark优化Photoshop、Premiere和Substance 3D，使AI、编辑、调色和特效速度最高提升2倍。Photoshop获得GPU-accelerated（GPU加速）合成，Premiere则加速播放、渲染、调色以及Enhance Speech和Object Mask等AI功能。Photoshop和Premiere的AI功能优化已推出测试版，Substance 3D更新即将推出。"
               },
               {
                 "t": "p",
-                "x": "新的节点视图对图层系统形成补充，同时加入“无需旧式层级步进系统的直接高度场雕刻”、新的程序化侵蚀与水、沙沉积模型，以及超过 110 种程序化噪波类型。新的基于多边形的渲染器带来“与路径追踪并行的常规实时游戏渲染”，两种渲染器均支持 DLSS 4.5。"
+                "x": "ComfyUI新增RTX Video Frame Generation和RTX Video HDR两个节点，并支持EXR导出。创作者可将LTX 2.5与它们结合，把1080p、30 fps的SDR片段转换为更流畅的60 fps HDR视频。"
               },
               {
                 "t": "p",
-                "x": "新版还将提供批处理系统和集成的 MCP 服务器，可通过 Claude、ChatGPT 等外部 AI 工具控制 World Creator。此前 Windows-only 的这款软件也将登陆 macOS 和 Linux。"
-              },
-              {
-                "t": "p",
-                "x": "World Creator 4 预计于 2026 年 11 月发布。BiteTheBytes 尚未宣布任何价格调整。"
+                "x": "Blender已发布支持RTX Spark的5.3版测试版，并将于下月加入DLSS Ray Reconstruction，用于视口中的实时预览。NVIDIA Broadcast 2.3新增Video Super Resolution、Frame Generation、Offline File Processor，以及面向本地AI智能体的MCP服务器。"
               }
             ]
           }
         },
         "es": {
-          "headline": "World Creator 4 suma planetas\ny un servidor MCP integrado",
-          "body": "World Creator 4 añade creación de planetas, un renderizador en tiempo real y un servidor MCP para herramientas de AI.",
-          "mini_headline": "World Creator 4 incorpora MCP",
+          "headline": "Photoshop, Blender y ComfyUI\nse ajustan para RTX Spark",
+          "body": "Antes de la llegada de RTX Spark el 16 de octubre, Adobe y Nvidia hacen Photoshop y Premiere hasta 2x más rápidos.",
+          "mini_headline": "Apps creativas listas para RTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
               },
               {
                 "t": "p",
-                "x": "BiteTheBytes ha presentado World Creator 4, la próxima versión principal de su software de generación de terrenos GPU-based para desarrollo de videojuegos, motion graphics y trabajos de VFX. La versión, prevista para el próximo mes, introducirá una nueva arquitectura central que permitirá al software pasar de generar terrenos convencionales a entornos planetarios completos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+                "x": "NVIDIA y Microsoft anunciaron que los portátiles RTX Spark estarán disponibles el viernes 16 de octubre. Con hasta 128GB de memoria unificada y 1 petaflop de cómputo de IA, RTX Spark lleva más de 130 aplicaciones aceleradas a los flujos de trabajo de creación de contenido. Antes del lanzamiento, NVIDIA y sus socios están desplegando nuevas funciones de software y optimizaciones."
               },
               {
                 "t": "p",
-                "x": "La nueva arquitectura se apoya en el Cloddy SDK de BiteTheBytes, actualizado para ofrecer un “pipeline de terreno planetario totalmente GPU-driven”. Los datos de altura y distribución pueden exportarse en un formato que se puede mapear sobre una esfera; el render se basa en un modelo USGS DEM de Marte de 9GB, que según BiteTheBytes puede recorrerse en tiempo real dentro de World Creator."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+                "x": "Adobe está optimizando Photoshop, Premiere y Substance 3D para RTX Spark, con IA, edición, color y efectos hasta 2x más rápidos. Photoshop incorpora composición GPU-accelerated (acelerada por GPU), mientras que Premiere acelera la reproducción, el renderizado, la corrección de color y funciones de IA como Enhance Speech y Object Mask. Las optimizaciones de IA en Photoshop y Premiere ya están disponibles en beta, y las actualizaciones de Substance 3D llegarán pronto."
               },
               {
                 "t": "p",
-                "x": "Una nueva vista de nodos complementa el sistema de capas, junto con “escultura directa de heightfields sin el antiguo sistema de pasos por niveles”, nuevos modelos de erosión procedural y deposición de agua y arena, y más de 110 tipos de ruido procedural. Un nuevo renderizador basado en polígonos aporta “renderizado convencional de juegos en tiempo real junto con path tracing”, y ambos renderizadores admiten DLSS 4.5."
+                "x": "ComfyUI añade dos nodos nuevos, RTX Video Frame Generation y RTX Video HDR, además de exportación a EXR. Los creadores pueden combinarlos con LTX 2.5 para convertir un clip SDR de 1080p y 30 fps en un video HDR más fluido a 60 fps."
               },
               {
                 "t": "p",
-                "x": "La versión también incluirá un sistema de procesamiento por lotes y un servidor MCP integrado, que permitirá controlar World Creator con herramientas de AI externas como Claude y ChatGPT. El software, hasta ahora Windows-only, llegará a macOS y Linux."
-              },
-              {
-                "t": "p",
-                "x": "World Creator 4 saldrá en noviembre de 2026. BiteTheBytes no ha anunciado cambios de precio."
+                "x": "Blender ha publicado una beta de la versión 5.3 compatible con RTX Spark, y el próximo mes añadirá DLSS Ray Reconstruction para vistas previas en tiempo real en el viewport. NVIDIA Broadcast 2.3 incorpora Video Super Resolution, Frame Generation, un Offline File Processor y un servidor MCP para agentes de IA locales."
               }
             ]
           }
@@ -265,169 +927,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "지형 툴 신버전, 행성과\nMCP 서버까지 품다",
-          "body": "World Creator 4가 행성 생성과 AI용 MCP 서버를 더한다.",
-          "mini_headline": "World Creator 4, MCP 탑재",
+          "headline": "ComfyUI 등 창작앱\nRTX Spark에 맞춘다",
+          "body": "10월 16일 RTX Spark 출시 전 Adobe 앱이 최대 2배 빨라진다.",
+          "mini_headline": "RTX Spark 맞춤 창작 앱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
               },
               {
                 "t": "p",
-                "x": "BiteTheBytes가 게임 개발, 모션 그래픽, VFX 작업용 GPU-based 지형 생성 소프트웨어의 차기 메이저 버전인 World Creator 4를 공개했다. 다음 달 나오는 이번 버전은 새 코어 아키텍처를 도입해 일반 지형 생성에서 행성 전체 환경까지 규모를 키울 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+                "x": "NVIDIA와 Microsoft는 RTX Spark 노트북을 10월 16일 금요일에 출시한다고 발표했다. 최대 128GB 통합 메모리와 1페타플롭의 AI 연산 성능을 갖춘 RTX Spark는 130개가 넘는 가속 앱을 콘텐츠 제작 워크플로에 제공한다. 출시에 앞서 NVIDIA와 파트너사들은 새 소프트웨어 기능과 최적화를 내놓고 있다."
               },
               {
                 "t": "p",
-                "x": "새 아키텍처는 “완전히 GPU-driven 방식의 행성 지형 파이프라인”을 제공하도록 업데이트한 BiteTheBytes의 Cloddy SDK를 기반으로 한다. 높이·분포 데이터는 구체에 매핑할 수 있는 형식으로 내보낼 수 있다. 렌더 이미지는 9GB 용량의 USGS DEM 화성 모델을 바탕으로 하며, BiteTheBytes는 이 모델을 World Creator 안에서 실시간으로 탐색할 수 있다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+                "x": "Adobe는 Photoshop, Premiere, Substance 3D를 RTX Spark에 맞게 최적화해 AI, 편집, 색상, 효과 작업 속도를 최대 2배 높인다. Photoshop에는 GPU 가속(GPU-accelerated) 합성이 들어가고, Premiere는 재생, 렌더링, 컬러 그레이딩과 Enhance Speech, Object Mask 같은 AI 기능을 가속한다. Photoshop과 Premiere의 AI 기능 최적화는 베타로 제공되며, Substance 3D 업데이트는 곧 나온다."
               },
               {
                 "t": "p",
-                "x": "레이어 시스템을 보완하는 새 노드 뷰가 들어가고, “예전 레벨 단계 시스템 없이 하이트필드를 직접 스컬프팅”하는 기능, 절차적 침식과 물·모래 퇴적을 위한 새 모델, 110가지가 넘는 절차적 노이즈 유형이 더해진다. 새 폴리곤 기반 렌더러는 “패스 트레이싱과 함께 일반적인 실시간 게임 렌더링”을 제공하며, 두 렌더러 모두 DLSS 4.5를 지원한다."
+                "x": "ComfyUI는 RTX Video Frame Generation과 RTX Video HDR이라는 새 노드 두 개와 EXR 내보내기를 추가한다. 크리에이터는 여기에 LTX 2.5를 결합해 1080p, 30 fps SDR 클립을 더 매끄러운 60 fps HDR 영상으로 바꿀 수 있다."
               },
               {
                 "t": "p",
-                "x": "배치 처리 시스템과 통합 MCP 서버도 탑재해 Claude, ChatGPT 같은 외부 AI 도구로 World Creator를 제어할 수 있다. 그동안 Windows-only였던 이 소프트웨어는 macOS와 Linux도 지원하게 된다."
-              },
-              {
-                "t": "p",
-                "x": "World Creator 4는 2026년 11월 출시 예정이다. BiteTheBytes는 가격 변경을 발표하지 않았다."
+                "x": "Blender는 RTX Spark를 지원하는 5.3 버전 베타를 공개했으며, 다음 달에는 뷰포트 실시간 미리보기를 위한 DLSS Ray Reconstruction을 추가한다. NVIDIA Broadcast 2.3에는 Video Super Resolution, Frame Generation, Offline File Processor, 그리고 로컬 AI 에이전트용 MCP 서버가 추가된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "地形生成の新版が惑星対応\nMCPサーバーも内蔵",
-          "body": "World Creator 4は惑星生成とAIツール向けMCPサーバーを追加する。",
-          "mini_headline": "World Creator 4がMCP対応",
+          "headline": "ComfyUIなど制作アプリ\nRTX Sparkに最適化",
+          "body": "10月16日のRTX Spark発売を前に、Adobe製アプリが最大2倍高速化する。",
+          "mini_headline": "RTX Spark対応の制作アプリ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
               },
               {
                 "t": "p",
-                "x": "BiteTheBytesは、ゲーム開発やモーショングラフィックス、VFX向けのGPU-based地形生成ソフトの次期メジャーバージョン、World Creator 4を発表した。来月リリース予定の新版は新しいコアアーキテクチャを導入し、従来の地形生成から惑星全体の環境まで扱えるようになる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+                "x": "NVIDIAとMicrosoftは、RTX Sparkノートパソコンを10月16日（金）に発売すると発表した。最大128GBのユニファイドメモリと1ペタフロップのAI演算性能を備えるRTX Sparkは、130を超えるアクセラレーション対応アプリをコンテンツ制作のワークフローにもたらす。発売に先立ち、NVIDIAとパートナー各社は新しいソフトウェア機能と最適化を順次提供している。"
               },
               {
                 "t": "p",
-                "x": "新アーキテクチャを支えるのは、「完全にGPU-drivenな惑星地形パイプライン」を提供するよう更新されたBiteTheBytesのCloddy SDKだ。高さと分布のデータは球体にマッピングできる形式で書き出せる。レンダー画像は9GB のUSGS DEMによる火星モデルを基にしたもので、BiteTheBytesによればWorld Creator内でリアルタイムに操作できるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+                "x": "AdobeはPhotoshop、Premiere、Substance 3DをRTX Spark向けに最適化し、AI、編集、カラー、エフェクトを最大2倍高速化する。PhotoshopにはGPU-acceleratedのコンポジット（GPUアクセラレーションによる合成）が加わり、Premiereは再生、レンダリング、カラーグレーディングに加え、Enhance SpeechやObject MaskといったAI機能を高速化する。PhotoshopとPremiereのAI機能最適化はベータ版で利用でき、Substance 3Dのアップデートも近く提供される。"
               },
               {
                 "t": "p",
-                "x": "レイヤーシステムを補う新しいノードビューに加え、「旧来のレベルステップ方式を使わない直接的なハイトフィールドスカルプト」、プロシージャルな侵食や水・砂の堆積の新モデル、110種類を超えるプロシージャルノイズが加わる。新しいポリゴンベースのレンダラーは「パストレーシングと並ぶ従来型のリアルタイムゲームレンダリング」をもたらし、両レンダラーともDLSS 4.5に対応する。"
+                "x": "ComfyUIは、RTX Video Frame GenerationとRTX Video HDRという二つの新ノードに加え、EXR書き出しに対応する。クリエイターはこれらとLTX 2.5を組み合わせ、1080p・30 fpsのSDRクリップを、より滑らかな60 fpsのHDR映像に変換できる。"
               },
               {
                 "t": "p",
-                "x": "バッチ処理システムと統合MCPサーバーも備え、ClaudeやChatGPTといった外部のAIツールからWorld Creatorを操作できる。これまでWindows-onlyだったソフトはmacOSとLinuxにも対応する。"
-              },
-              {
-                "t": "p",
-                "x": "World Creator 4は2026年11月にリリース予定だ。BiteTheBytesは価格改定を発表していない。"
+                "x": "BlenderはRTX Sparkに対応したバージョン5.3のベータ版を公開し、来月にはビューポートでのリアルタイムプレビュー向けにDLSS Ray Reconstructionを追加する。NVIDIA Broadcast 2.3には、Video Super Resolution、Frame Generation、Offline File Processor、ローカルAIエージェント向けのMCPサーバーが加わる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "地形软件新版支持行星\n并内置MCP服务器",
-          "body": "World Creator 4 新增行星生成、实时渲染器和面向AI工具的MCP服务器。",
-          "mini_headline": "World Creator 4 加入MCP",
+          "headline": "ComfyUI等创作应用\n为RTX Spark优化",
+          "body": "RTX Spark上市前，Nvidia与Adobe将Photoshop提速至多2倍。",
+          "mini_headline": "创作应用为RTX Spark就绪",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
               },
               {
                 "t": "p",
-                "x": "BiteTheBytes 发布了 World Creator 4，这是其面向游戏开发、动态图形和 VFX 工作的 GPU-based 地形生成软件的下一个主要版本。新版将于下个月推出，引入全新核心架构，使软件能够从生成常规地形扩展到完整的行星环境。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+                "x": "NVIDIA与Microsoft宣布，RTX Spark笔记本电脑将于10月16日（周五）上市。RTX Spark配备最高128GB统一内存和1 petaflop的AI算力，为内容创作工作流带来超过130款加速应用。在发布之前，NVIDIA及其合作伙伴正陆续推出新的软件功能与优化。"
               },
               {
                 "t": "p",
-                "x": "新架构由 BiteTheBytes 的 Cloddy SDK 驱动，该 SDK 经过更新，可提供“完全 GPU-driven 的行星地形管线”。高度和分布数据可以导出为能映射到球体上的格式；示意渲染基于 9GB 的 USGS DEM 火星模型，BiteTheBytes 表示该模型可在 World Creator 中实时浏览。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+                "x": "Adobe正针对RTX Spark优化Photoshop、Premiere和Substance 3D，使AI、编辑、调色和特效速度最高提升2倍。Photoshop获得GPU-accelerated（GPU加速）合成，Premiere则加速播放、渲染、调色以及Enhance Speech和Object Mask等AI功能。Photoshop和Premiere的AI功能优化已推出测试版，Substance 3D更新即将推出。"
               },
               {
                 "t": "p",
-                "x": "新的节点视图对图层系统形成补充，同时加入“无需旧式层级步进系统的直接高度场雕刻”、新的程序化侵蚀与水、沙沉积模型，以及超过 110 种程序化噪波类型。新的基于多边形的渲染器带来“与路径追踪并行的常规实时游戏渲染”，两种渲染器均支持 DLSS 4.5。"
+                "x": "ComfyUI新增RTX Video Frame Generation和RTX Video HDR两个节点，并支持EXR导出。创作者可将LTX 2.5与它们结合，把1080p、30 fps的SDR片段转换为更流畅的60 fps HDR视频。"
               },
               {
                 "t": "p",
-                "x": "新版还将提供批处理系统和集成的 MCP 服务器，可通过 Claude、ChatGPT 等外部 AI 工具控制 World Creator。此前 Windows-only 的这款软件也将登陆 macOS 和 Linux。"
-              },
-              {
-                "t": "p",
-                "x": "World Creator 4 预计于 2026 年 11 月发布。BiteTheBytes 尚未宣布任何价格调整。"
+                "x": "Blender已发布支持RTX Spark的5.3版测试版，并将于下月加入DLSS Ray Reconstruction，用于视口中的实时预览。NVIDIA Broadcast 2.3新增Video Super Resolution、Frame Generation、Offline File Processor，以及面向本地AI智能体的MCP服务器。"
               }
             ]
           }
         },
         "es": {
-          "headline": "World Creator 4 suma planetas\ny un servidor MCP integrado",
-          "body": "World Creator 4 añade creación de planetas, un renderizador en tiempo real y un servidor MCP para herramientas de AI.",
-          "mini_headline": "World Creator 4 incorpora MCP",
+          "headline": "Photoshop, Blender y ComfyUI\nse ajustan para RTX Spark",
+          "body": "Antes de la llegada de RTX Spark el 16 de octubre, Adobe y Nvidia hacen Photoshop y Premiere hasta 2x más rápidos.",
+          "mini_headline": "Apps creativas listas para RTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
               },
               {
                 "t": "p",
-                "x": "BiteTheBytes ha presentado World Creator 4, la próxima versión principal de su software de generación de terrenos GPU-based para desarrollo de videojuegos, motion graphics y trabajos de VFX. La versión, prevista para el próximo mes, introducirá una nueva arquitectura central que permitirá al software pasar de generar terrenos convencionales a entornos planetarios completos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_planets-960x480.jpg"
+                "x": "NVIDIA y Microsoft anunciaron que los portátiles RTX Spark estarán disponibles el viernes 16 de octubre. Con hasta 128GB de memoria unificada y 1 petaflop de cómputo de IA, RTX Spark lleva más de 130 aplicaciones aceleradas a los flujos de trabajo de creación de contenido. Antes del lanzamiento, NVIDIA y sus socios están desplegando nuevas funciones de software y optimizaciones."
               },
               {
                 "t": "p",
-                "x": "La nueva arquitectura se apoya en el Cloddy SDK de BiteTheBytes, actualizado para ofrecer un “pipeline de terreno planetario totalmente GPU-driven”. Los datos de altura y distribución pueden exportarse en un formato que se puede mapear sobre una esfera; el render se basa en un modelo USGS DEM de Marte de 9GB, que según BiteTheBytes puede recorrerse en tiempo real dentro de World Creator."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_newfeatures-960x480.jpg"
+                "x": "Adobe está optimizando Photoshop, Premiere y Substance 3D para RTX Spark, con IA, edición, color y efectos hasta 2x más rápidos. Photoshop incorpora composición GPU-accelerated (acelerada por GPU), mientras que Premiere acelera la reproducción, el renderizado, la corrección de color y funciones de IA como Enhance Speech y Object Mask. Las optimizaciones de IA en Photoshop y Premiere ya están disponibles en beta, y las actualizaciones de Substance 3D llegarán pronto."
               },
               {
                 "t": "p",
-                "x": "Una nueva vista de nodos complementa el sistema de capas, junto con “escultura directa de heightfields sin el antiguo sistema de pasos por niveles”, nuevos modelos de erosión procedural y deposición de agua y arena, y más de 110 tipos de ruido procedural. Un nuevo renderizador basado en polígonos aporta “renderizado convencional de juegos en tiempo real junto con path tracing”, y ambos renderizadores admiten DLSS 4.5."
+                "x": "ComfyUI añade dos nodos nuevos, RTX Video Frame Generation y RTX Video HDR, además de exportación a EXR. Los creadores pueden combinarlos con LTX 2.5 para convertir un clip SDR de 1080p y 30 fps en un video HDR más fluido a 60 fps."
               },
               {
                 "t": "p",
-                "x": "La versión también incluirá un sistema de procesamiento por lotes y un servidor MCP integrado, que permitirá controlar World Creator con herramientas de AI externas como Claude y ChatGPT. El software, hasta ahora Windows-only, llegará a macOS y Linux."
-              },
-              {
-                "t": "p",
-                "x": "World Creator 4 saldrá en noviembre de 2026. BiteTheBytes no ha anunciado cambios de precio."
+                "x": "Blender ha publicado una beta de la versión 5.3 compatible con RTX Spark, y el próximo mes añadirá DLSS Ray Reconstruction para vistas previas en tiempo real en el viewport. NVIDIA Broadcast 2.3 incorpora Video Super Resolution, Frame Generation, un Offline File Processor y un servidor MCP para agentes de IA locales."
               }
             ]
           }
@@ -435,285 +1049,165 @@
       }
     },
     {
-      "id": "design-figma-wp-blueprint-claude-code",
+      "id": "design-higgsfield-ten-minute-video",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma URL이 곧\nWordPress 테마로",
-      "body": "Figma URL을 Claude Code 스킬이 WordPress 테마로 바꾼다.",
-      "mini_headline": "Claude로 Figma를 WordPress로",
-      "tool": "Figma",
-      "source": "DEV Community",
-      "url": "https://dev.to/saidmounaim/from-a-figma-url-to-a-custom-wordpress-theme-with-claude-code-4p9a",
-      "accent": "#0070f3",
-      "motif": "frame",
+      "headline": "Higgsfield,\nAI 영상 10분 넘겼다",
+      "body": "Higgsfield는 GPT-6 Astra로 AI 영상이 10분을 넘었다고 했다.",
+      "mini_headline": "Higgsfield, 10분 넘는 영상",
+      "tool": "KeyShot",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+            "t": "p",
+            "x": "Higgsfield AI의 목표는 아이디어만 있으면 누구나 전문가 수준의 영상과 이미지를 만들게 하는 것이다. GPT-6 Astra 이전에는 영상 길이가 1분 안팎에 그쳤다. 이제는 사용자들이 10분이 넘는 영상도 만들 수 있다는 게 CEO이자 공동 창업자인 Alex Mashrabov의 설명이다."
           },
           {
             "t": "p",
-            "x": "figma-wp-blueprint를 만들었다. Figma 디자인을 커스텀 WordPress 테마로 바꿔 주는 Claude Code 스킬 모음이다."
+            "x": "Higgsfield AI의 크리에이티브 에이전트는 한 장면의 여러 변형을 만드는 일처럼 반복적인 제작 작업을 맡는다. GPT-6 Astra를 쓰면 이 에이전트들이 외부 도구를 불러 3D 모델링의 복잡한 수작업까지 처리한다. Alex는 이 방식이 크리에이티브 AI에서 가장 어려운 문제 중 하나인 긴 영상의 일관성 유지에 도움이 된다고 말한다. 팀은 요즘 AI로 10분이 넘는 튜토리얼 영상을 만들어 YouTube 채널에 올린다."
           },
           {
             "t": "p",
-            "x": "Figma URL을 붙여 넣으면 다음 작업이 돌아간다."
+            "x": "그는 \"GPT-Image-2.5는 최첨단 모델이며, 이미지 위에 텍스트와 인포그래픽을 안정적으로 렌더링할 수 있는 이 분야 최초의 모델\"이라고 말한다."
           },
           {
             "t": "p",
-            "x": "• 색상, 폰트, 간격, 브레이크포인트를 뽑아낸다"
-          },
-          {
-            "t": "p",
-            "x": "• 각 섹션을 ACF Flexible Content 레이아웃(필드, PHP 템플릿, 범위 지정 CSS)으로 만든다"
-          },
-          {
-            "t": "p",
-            "x": "• /pixel-check로 브레이크포인트마다 결과물을 Figma와 맞대어 잰다"
-          },
-          {
-            "t": "p",
-            "x": "• 기능은 한 번에 하나씩 각자의 Git 브랜치에서 작업하고, 커밋 전에 승인을 요청한다"
-          },
-          {
-            "t": "p",
-            "x": "결과물은 순수 CSS와 vanilla JS로 만든 클래식 PHP 테마다. 페이지 빌더도, jQuery도, 빌드 단계도 없다."
-          },
-          {
-            "t": "p",
-            "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 피드백 기다린다!"
+            "x": "제품은 약 200명의 크리에이티브와 100명의 엔지니어가 함께 만든다. 크리에이티브는 Codex로 아이디어를 소프트웨어 프로토타입으로 바꾼다. Alex는 GPT-6 Astra 덕분에 이 프로토타입을 제품에 반영하는 작업이 줄었다고 말한다. Higgsfield AI가 다음으로 노리는 것은 \"voice to movie\"다. AI가 크리에이터의 말에 담긴 의도를 이해하고 그 비전을 실시간으로 렌더링하는 방식이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A Figma URL becomes a custom\nWordPress theme via Claude Code",
-          "body": "A developer built figma-wp-blueprint, a set of Claude Code skills that turn a Figma design URL into a WordPress theme.",
-          "mini_headline": "Figma to WordPress via Claude",
+          "headline": "Higgsfield takes AI video\npast 10 minutes",
+          "body": "Higgsfield says GPT-6 Astra took its AI videos from about one minute to over 10, helping keep long videos consistent.",
+          "mini_headline": "Higgsfield passes 10-minute video",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+                "t": "p",
+                "x": "Higgsfield AI is on a mission to make professional video and image creation accessible to anyone with an idea. Before GPT-6 Astra, those videos topped out at around one minute. Now, says CEO and co-founder Alex Mashrabov, users can create videos over 10 minutes long."
               },
               {
                 "t": "p",
-                "x": "I built figma-wp-blueprint, a set of Claude Code skills for turning a Figma design into a custom WordPress theme."
+                "x": "Higgsfield AI's creative agents take on repetitive production tasks, such as creating multiple variations of a shot. With GPT-6 Astra, those agents can also call external tools to handle complex, manual work in 3D modeling, which Alex says helps address one of creative AI's hardest problems: maintaining consistency across longer videos. The team now uses AI to generate instructional videos over 10 minutes long for its YouTube channel."
               },
               {
                 "t": "p",
-                "x": "Paste a Figma URL and it:"
+                "x": "\"GPT-Image-2.5 is state of the art and the first model of its kind that can reliably render the text and infographics on top of the imagery,\" he says."
               },
               {
                 "t": "p",
-                "x": "• extracts colors, fonts, spacing, and breakpoints"
-              },
-              {
-                "t": "p",
-                "x": "• builds each section as an ACF Flexible Content layout (fields, PHP template, scoped CSS)"
-              },
-              {
-                "t": "p",
-                "x": "• measures the result against Figma at every breakpoint with /pixel-check"
-              },
-              {
-                "t": "p",
-                "x": "• works one feature at a time, on its own Git branch, and asks for your approval before committing"
-              },
-              {
-                "t": "p",
-                "x": "The result is a classic PHP theme with pure CSS and vanilla JS: no page builder, no jQuery, no build step."
-              },
-              {
-                "t": "p",
-                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — Feedback welcome!"
+                "x": "Around 200 creatives and 100 engineers build the product together. Creatives use Codex to turn ideas into software prototypes, and Alex says GPT-6 Astra reduces the work needed to bring them into the product. Next, Higgsfield AI wants \"voice to movie\": AI understanding a creator's spoken intention and rendering their vision in real time."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Figma URL이 곧\nWordPress 테마로",
-          "body": "Figma URL을 Claude Code 스킬이 WordPress 테마로 바꾼다.",
-          "mini_headline": "Claude로 Figma를 WordPress로",
+          "headline": "Higgsfield,\nAI 영상 10분 넘겼다",
+          "body": "Higgsfield는 GPT-6 Astra로 AI 영상이 10분을 넘었다고 했다.",
+          "mini_headline": "Higgsfield, 10분 넘는 영상",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+                "t": "p",
+                "x": "Higgsfield AI의 목표는 아이디어만 있으면 누구나 전문가 수준의 영상과 이미지를 만들게 하는 것이다. GPT-6 Astra 이전에는 영상 길이가 1분 안팎에 그쳤다. 이제는 사용자들이 10분이 넘는 영상도 만들 수 있다는 게 CEO이자 공동 창업자인 Alex Mashrabov의 설명이다."
               },
               {
                 "t": "p",
-                "x": "figma-wp-blueprint를 만들었다. Figma 디자인을 커스텀 WordPress 테마로 바꿔 주는 Claude Code 스킬 모음이다."
+                "x": "Higgsfield AI의 크리에이티브 에이전트는 한 장면의 여러 변형을 만드는 일처럼 반복적인 제작 작업을 맡는다. GPT-6 Astra를 쓰면 이 에이전트들이 외부 도구를 불러 3D 모델링의 복잡한 수작업까지 처리한다. Alex는 이 방식이 크리에이티브 AI에서 가장 어려운 문제 중 하나인 긴 영상의 일관성 유지에 도움이 된다고 말한다. 팀은 요즘 AI로 10분이 넘는 튜토리얼 영상을 만들어 YouTube 채널에 올린다."
               },
               {
                 "t": "p",
-                "x": "Figma URL을 붙여 넣으면 다음 작업이 돌아간다."
+                "x": "그는 \"GPT-Image-2.5는 최첨단 모델이며, 이미지 위에 텍스트와 인포그래픽을 안정적으로 렌더링할 수 있는 이 분야 최초의 모델\"이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "• 색상, 폰트, 간격, 브레이크포인트를 뽑아낸다"
-              },
-              {
-                "t": "p",
-                "x": "• 각 섹션을 ACF Flexible Content 레이아웃(필드, PHP 템플릿, 범위 지정 CSS)으로 만든다"
-              },
-              {
-                "t": "p",
-                "x": "• /pixel-check로 브레이크포인트마다 결과물을 Figma와 맞대어 잰다"
-              },
-              {
-                "t": "p",
-                "x": "• 기능은 한 번에 하나씩 각자의 Git 브랜치에서 작업하고, 커밋 전에 승인을 요청한다"
-              },
-              {
-                "t": "p",
-                "x": "결과물은 순수 CSS와 vanilla JS로 만든 클래식 PHP 테마다. 페이지 빌더도, jQuery도, 빌드 단계도 없다."
-              },
-              {
-                "t": "p",
-                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 피드백 기다린다!"
+                "x": "제품은 약 200명의 크리에이티브와 100명의 엔지니어가 함께 만든다. 크리에이티브는 Codex로 아이디어를 소프트웨어 프로토타입으로 바꾼다. Alex는 GPT-6 Astra 덕분에 이 프로토타입을 제품에 반영하는 작업이 줄었다고 말한다. Higgsfield AI가 다음으로 노리는 것은 \"voice to movie\"다. AI가 크리에이터의 말에 담긴 의도를 이해하고 그 비전을 실시간으로 렌더링하는 방식이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figma URLから\nWordPressテーマへ",
-          "body": "Claude Codeのスキルで、Figma URLをWordPressテーマに変える。",
-          "mini_headline": "ClaudeでFigmaからWordPressへ",
+          "headline": "Higgsfieldの\nAI動画、10分を突破",
+          "body": "HiggsfieldはGPT-6 AstraでAI動画が約1分から10分超に伸びたという。",
+          "mini_headline": "Higgsfield、10分超の動画を実現",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+                "t": "p",
+                "x": "Higgsfield AIは、アイデアさえあれば誰でもプロ品質の動画や画像を作れるようにすることを使命としている。GPT-6 Astra以前、その動画の長さは約1分が上限だった。CEO兼共同創業者のAlex Mashrabovによれば、現在ユーザーは10分を超える動画を作成できるという。"
               },
               {
                 "t": "p",
-                "x": "Figmaのデザインを独自のWordPressテーマに変換するClaude Codeスキル集、figma-wp-blueprintを作った。"
+                "x": "Higgsfield AIのクリエイティブエージェントは、ショットのバリエーションを複数作るといった反復的な制作作業を担う。GPT-6 Astraにより、こうしたエージェントは外部ツールを呼び出して3Dモデリングの複雑な手作業もこなせるようになった。Alexは、これがクリエイティブAIの最も難しい課題の一つである長い動画での一貫性の維持に役立つと話す。チームは現在、AIを使って10分を超える解説動画を生成し、自社のYouTubeチャンネルで公開している。"
               },
               {
                 "t": "p",
-                "x": "Figma URLを貼り付けると、次の処理を行う。"
+                "x": "「GPT-Image-2.5は最先端であり、画像の上にテキストやインフォグラフィックを確実に描画できる初めての種類のモデルだ」と彼は言う。"
               },
               {
                 "t": "p",
-                "x": "• 色、フォント、余白、ブレークポイントを抽出する"
-              },
-              {
-                "t": "p",
-                "x": "• 各セクションをACF Flexible Contentのレイアウト(フィールド、PHPテンプレート、スコープ付きCSS)として構築する"
-              },
-              {
-                "t": "p",
-                "x": "• /pixel-checkで、すべてのブレークポイントにおいて結果をFigmaと照合・計測する"
-              },
-              {
-                "t": "p",
-                "x": "• 機能を一つずつ、それぞれ専用のGitブランチで作業し、コミット前に承認を求める"
-              },
-              {
-                "t": "p",
-                "x": "成果物は純粋なCSSとvanilla JSによるクラシックなPHPテーマだ。ページビルダーもjQueryもビルド工程も使わない。"
-              },
-              {
-                "t": "p",
-                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — フィードバック歓迎だ。"
+                "x": "約200人のクリエイターと100人のエンジニアが共に製品を作っている。クリエイターはCodexでアイデアをソフトウェアのプロトタイプにし、AlexによればGPT-6 Astraによってそれを製品に取り込む手間が減ったという。Higgsfield AIが次に目指すのは「voice to movie」、つまりAIがクリエイターの話す意図を理解し、そのビジョンをリアルタイムで描き出すことだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma URL变身\nWordPress定制主题",
-          "body": "开发者打造Claude Code技能，可将Figma URL转为WordPress主题。",
-          "mini_headline": "用Claude把Figma转为WordPress",
+          "headline": "Higgsfield\nAI视频突破10分钟",
+          "body": "Higgsfield称，GPT-6 Astra让其AI视频从约一分钟延长到10分钟以上。",
+          "mini_headline": "Higgsfield视频突破10分钟",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+                "t": "p",
+                "x": "Higgsfield AI的使命是让任何有想法的人都能进行专业级的视频和图像创作。在GPT-6 Astra之前，这些视频最长只有一分钟左右。CEO兼联合创始人Alex Mashrabov表示，如今用户可以制作超过10分钟的视频。"
               },
               {
                 "t": "p",
-                "x": "我做了 figma-wp-blueprint，这是一套 Claude Code 技能，用于把 Figma 设计转换成定制的 WordPress 主题。"
+                "x": "Higgsfield AI的创意智能体负责重复性的制作任务，例如为一个镜头生成多个变体。借助GPT-6 Astra，这些智能体还能调用外部工具，处理3D建模中复杂的手工工作。Alex表示，这有助于解决创意AI最棘手的难题之一：在较长视频中保持一致性。团队如今用AI为其YouTube频道生成超过10分钟的教学视频。"
               },
               {
                 "t": "p",
-                "x": "粘贴一个 Figma URL，它会："
+                "x": "他说：“GPT-Image-2.5是最先进的模型，也是同类中首个能在图像上可靠渲染文字和信息图的模型。”"
               },
               {
                 "t": "p",
-                "x": "• 提取颜色、字体、间距和断点"
-              },
-              {
-                "t": "p",
-                "x": "• 将每个区块构建为 ACF Flexible Content 布局（字段、PHP 模板、作用域 CSS）"
-              },
-              {
-                "t": "p",
-                "x": "• 用 /pixel-check 在每个断点上将结果与 Figma 对比测量"
-              },
-              {
-                "t": "p",
-                "x": "• 每次只处理一个功能，各自使用独立的 Git 分支，并在提交前征求你的批准"
-              },
-              {
-                "t": "p",
-                "x": "最终得到的是一个使用纯 CSS 和 vanilla JS 的经典 PHP 主题：没有页面构建器，没有 jQuery，也没有构建步骤。"
-              },
-              {
-                "t": "p",
-                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 欢迎反馈！"
+                "x": "约200名创意人员和100名工程师共同打造产品。创意人员用Codex把想法变成软件原型，Alex表示，GPT-6 Astra减少了将原型纳入产品所需的工作。接下来，Higgsfield AI希望实现“voice to movie”：让AI理解创作者口述的意图，并实时呈现其构想。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude Code convierte una URL\nde Figma en un tema de WordPress",
-          "body": "figma-wp-blueprint reúne skills de Claude Code que convierten una URL de Figma en un tema de WordPress.",
-          "mini_headline": "De Figma a WordPress con Claude",
+          "headline": "Los videos de Higgsfield\nya superan los 10 minutos",
+          "body": "Higgsfield dice que GPT-6 Astra llevó sus videos de cerca de un minuto a más de 10 y ayuda a mantener su coherencia.",
+          "mini_headline": "Higgsfield supera los 10 minutos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+                "t": "p",
+                "x": "Higgsfield AI tiene la misión de hacer que la creación profesional de video e imagen sea accesible para cualquiera que tenga una idea. Antes de GPT-6 Astra, esos videos llegaban como máximo a cerca de un minuto. Ahora, según el CEO y cofundador Alex Mashrabov, los usuarios pueden crear videos de más de 10 minutos."
               },
               {
                 "t": "p",
-                "x": "Creé figma-wp-blueprint, un conjunto de skills de Claude Code para convertir un diseño de Figma en un tema personalizado de WordPress."
+                "x": "Los agentes creativos de Higgsfield AI se encargan de tareas de producción repetitivas, como crear varias variantes de una toma. Con GPT-6 Astra, esos agentes también pueden recurrir a herramientas externas para realizar trabajo manual complejo de modelado 3D, lo que, según Alex, ayuda a resolver uno de los problemas más difíciles de la IA creativa: mantener la coherencia en videos más largos. El equipo ya usa IA para generar videos instructivos de más de 10 minutos para su canal de YouTube."
               },
               {
                 "t": "p",
-                "x": "Pega una URL de Figma y la herramienta:"
+                "x": "\"GPT-Image-2.5 es lo último en tecnología y el primer modelo de su tipo capaz de representar de forma fiable texto e infografías sobre las imágenes\", afirma."
               },
               {
                 "t": "p",
-                "x": "• extrae colores, fuentes, espaciados y breakpoints"
-              },
-              {
-                "t": "p",
-                "x": "• construye cada sección como un layout de ACF Flexible Content (campos, plantilla PHP, CSS con ámbito)"
-              },
-              {
-                "t": "p",
-                "x": "• mide el resultado frente a Figma en cada breakpoint con /pixel-check"
-              },
-              {
-                "t": "p",
-                "x": "• trabaja una funcionalidad a la vez, en su propia rama de Git, y pide tu aprobación antes de hacer commit"
-              },
-              {
-                "t": "p",
-                "x": "El resultado es un tema PHP clásico con CSS puro y vanilla JS: sin page builder, sin jQuery, sin paso de compilación."
-              },
-              {
-                "t": "p",
-                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — ¡Se agradecen comentarios!"
+                "x": "Unos 200 creativos y 100 ingenieros desarrollan juntos el producto. Los creativos usan Codex para convertir ideas en prototipos de software, y Alex afirma que GPT-6 Astra reduce el trabajo necesario para incorporarlos al producto. Lo siguiente para Higgsfield AI es \"voice to movie\": una IA que entienda la intención hablada de un creador y plasme su visión en tiempo real."
               }
             ]
           }
@@ -721,185 +1215,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Figma URL이 곧\nWordPress 테마로",
-          "body": "Claude Code 스킬로 Figma URL을 WordPress 테마로 바꾼다.",
-          "mini_headline": "Claude로 Figma를 WordPress로",
+          "headline": "Higgsfield,\nAI 영상 10분 넘겼다",
+          "body": "Higgsfield는 GPT-6 Astra로 AI 영상이 10분을 넘었다고 했다.",
+          "mini_headline": "Higgsfield, 10분 넘는 영상",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+                "t": "p",
+                "x": "Higgsfield AI는 아이디어만 있으면 누구나 전문가 수준의 영상과 이미지를 만들 수 있게 하는 것을 목표로 한다. GPT-6 Astra 이전에는 영상 길이가 1분 안팎에 그쳤다. CEO이자 공동 창업자인 Alex Mashrabov는 이제 사용자들이 10분이 넘는 영상을 만들 수 있다고 말한다."
               },
               {
                 "t": "p",
-                "x": "Figma 디자인을 커스텀 WordPress 테마로 바꿔 주는 Claude Code 스킬 모음 figma-wp-blueprint를 만들었다."
+                "x": "Higgsfield AI의 크리에이티브 에이전트는 한 장면의 여러 변형을 만드는 일처럼 반복적인 제작 작업을 맡는다. GPT-6 Astra를 쓰면 이 에이전트들이 외부 도구를 호출해 3D 모델링의 복잡한 수작업도 처리할 수 있으며, Alex는 이것이 크리에이티브 AI의 가장 어려운 문제 중 하나인 긴 영상의 일관성 유지에 도움이 된다고 말한다. 팀은 이제 AI로 10분이 넘는 튜토리얼 영상을 만들어 YouTube 채널에 올리고 있다."
               },
               {
                 "t": "p",
-                "x": "Figma URL을 붙여 넣으면 이런 일을 한다."
+                "x": "그는 \"GPT-Image-2.5는 최첨단 모델이며, 이미지 위에 텍스트와 인포그래픽을 안정적으로 렌더링할 수 있는 이 분야 최초의 모델\"이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "• 색상, 폰트, 간격, 브레이크포인트를 추출한다"
-              },
-              {
-                "t": "p",
-                "x": "• 각 섹션을 ACF Flexible Content 레이아웃(필드, PHP 템플릿, 범위 지정 CSS)으로 만든다"
-              },
-              {
-                "t": "p",
-                "x": "• /pixel-check로 모든 브레이크포인트에서 결과물을 Figma와 비교해 측정한다"
-              },
-              {
-                "t": "p",
-                "x": "• 기능을 한 번에 하나씩, 각자의 Git 브랜치에서 작업하고, 커밋 전에 승인을 요청한다"
-              },
-              {
-                "t": "p",
-                "x": "결과물은 순수 CSS와 vanilla JS로 만든 클래식 PHP 테마다. 페이지 빌더도, jQuery도, 빌드 단계도 없다."
-              },
-              {
-                "t": "p",
-                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 피드백을 기다린다!"
+                "x": "약 200명의 크리에이티브와 100명의 엔지니어가 함께 제품을 만든다. 크리에이티브는 Codex로 아이디어를 소프트웨어 프로토타입으로 바꾸고, Alex는 GPT-6 Astra 덕분에 이를 제품에 반영하는 데 드는 작업이 줄었다고 말한다. Higgsfield AI가 다음으로 노리는 것은 \"voice to movie\", 즉 AI가 크리에이터의 말에 담긴 의도를 이해하고 그 비전을 실시간으로 렌더링하는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figma URLから\nWordPressテーマへ",
-          "body": "Claude Codeのスキルで、Figma URLをWordPressテーマに変える。",
-          "mini_headline": "ClaudeでFigmaからWordPressへ",
+          "headline": "Higgsfieldの\nAI動画、10分を突破",
+          "body": "HiggsfieldはGPT-6 AstraでAI動画が約1分から10分超に伸びたという。",
+          "mini_headline": "Higgsfield、10分超の動画を実現",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+                "t": "p",
+                "x": "Higgsfield AIは、アイデアさえあれば誰でもプロ品質の動画や画像を作れるようにすることを使命としている。GPT-6 Astra以前、その動画の長さは約1分が上限だった。CEO兼共同創業者のAlex Mashrabovによれば、現在ユーザーは10分を超える動画を作成できるという。"
               },
               {
                 "t": "p",
-                "x": "Figmaのデザインを独自のWordPressテーマに変換するClaude Codeスキル集、figma-wp-blueprintを作った。"
+                "x": "Higgsfield AIのクリエイティブエージェントは、ショットのバリエーションを複数作るといった反復的な制作作業を担う。GPT-6 Astraにより、こうしたエージェントは外部ツールを呼び出して3Dモデリングの複雑な手作業もこなせるようになった。Alexは、これがクリエイティブAIの最も難しい課題の一つである長い動画での一貫性の維持に役立つと話す。チームは現在、AIを使って10分を超える解説動画を生成し、自社のYouTubeチャンネルで公開している。"
               },
               {
                 "t": "p",
-                "x": "Figma URLを貼り付けると、次の処理を行う。"
+                "x": "「GPT-Image-2.5は最先端であり、画像の上にテキストやインフォグラフィックを確実に描画できる初めての種類のモデルだ」と彼は言う。"
               },
               {
                 "t": "p",
-                "x": "• 色、フォント、余白、ブレークポイントを抽出する"
-              },
-              {
-                "t": "p",
-                "x": "• 各セクションをACF Flexible Contentのレイアウト(フィールド、PHPテンプレート、スコープ付きCSS)として構築する"
-              },
-              {
-                "t": "p",
-                "x": "• /pixel-checkで、すべてのブレークポイントにおいて結果をFigmaと照合・計測する"
-              },
-              {
-                "t": "p",
-                "x": "• 機能を一つずつ、それぞれ専用のGitブランチで作業し、コミット前に承認を求める"
-              },
-              {
-                "t": "p",
-                "x": "成果物は純粋なCSSとvanilla JSによるクラシックなPHPテーマだ。ページビルダーもjQueryもビルド工程も使わない。"
-              },
-              {
-                "t": "p",
-                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — フィードバック歓迎だ。"
+                "x": "約200人のクリエイターと100人のエンジニアが共に製品を作っている。クリエイターはCodexでアイデアをソフトウェアのプロトタイプにし、AlexによればGPT-6 Astraによってそれを製品に取り込む手間が減ったという。Higgsfield AIが次に目指すのは「voice to movie」、つまりAIがクリエイターの話す意図を理解し、そのビジョンをリアルタイムで描き出すことだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma URL变身\nWordPress定制主题",
-          "body": "开发者打造Claude Code技能，可将Figma URL转为WordPress主题。",
-          "mini_headline": "用Claude把Figma转为WordPress",
+          "headline": "Higgsfield\nAI视频突破10分钟",
+          "body": "Higgsfield称，GPT-6 Astra让其AI视频从约一分钟延长到10分钟以上。",
+          "mini_headline": "Higgsfield视频突破10分钟",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+                "t": "p",
+                "x": "Higgsfield AI的使命是让任何有想法的人都能进行专业级的视频和图像创作。在GPT-6 Astra之前，这些视频最长只有一分钟左右。CEO兼联合创始人Alex Mashrabov表示，如今用户可以制作超过10分钟的视频。"
               },
               {
                 "t": "p",
-                "x": "我做了 figma-wp-blueprint，这是一套 Claude Code 技能，用于把 Figma 设计转换成定制的 WordPress 主题。"
+                "x": "Higgsfield AI的创意智能体负责重复性的制作任务，例如为一个镜头生成多个变体。借助GPT-6 Astra，这些智能体还能调用外部工具，处理3D建模中复杂的手工工作。Alex表示，这有助于解决创意AI最棘手的难题之一：在较长视频中保持一致性。团队如今用AI为其YouTube频道生成超过10分钟的教学视频。"
               },
               {
                 "t": "p",
-                "x": "粘贴一个 Figma URL，它会："
+                "x": "他说：“GPT-Image-2.5是最先进的模型，也是同类中首个能在图像上可靠渲染文字和信息图的模型。”"
               },
               {
                 "t": "p",
-                "x": "• 提取颜色、字体、间距和断点"
-              },
-              {
-                "t": "p",
-                "x": "• 将每个区块构建为 ACF Flexible Content 布局（字段、PHP 模板、作用域 CSS）"
-              },
-              {
-                "t": "p",
-                "x": "• 用 /pixel-check 在每个断点上将结果与 Figma 对比测量"
-              },
-              {
-                "t": "p",
-                "x": "• 每次只处理一个功能，各自使用独立的 Git 分支，并在提交前征求你的批准"
-              },
-              {
-                "t": "p",
-                "x": "最终得到的是一个使用纯 CSS 和 vanilla JS 的经典 PHP 主题：没有页面构建器，没有 jQuery，也没有构建步骤。"
-              },
-              {
-                "t": "p",
-                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — 欢迎反馈！"
+                "x": "约200名创意人员和100名工程师共同打造产品。创意人员用Codex把想法变成软件原型，Alex表示，GPT-6 Astra减少了将原型纳入产品所需的工作。接下来，Higgsfield AI希望实现“voice to movie”：让AI理解创作者口述的意图，并实时呈现其构想。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude Code convierte una URL\nde Figma en un tema de WordPress",
-          "body": "figma-wp-blueprint reúne skills de Claude Code que convierten una URL de Figma en un tema de WordPress.",
-          "mini_headline": "De Figma a WordPress con Claude",
+          "headline": "Los videos de Higgsfield\nya superan los 10 minutos",
+          "body": "Higgsfield dice que GPT-6 Astra llevó sus videos de cerca de un minuto a más de 10 y ayuda a mantener su coherencia.",
+          "mini_headline": "Higgsfield supera los 10 minutos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png"
+                "t": "p",
+                "x": "Higgsfield AI tiene la misión de hacer que la creación profesional de video e imagen sea accesible para cualquiera que tenga una idea. Antes de GPT-6 Astra, esos videos llegaban como máximo a cerca de un minuto. Ahora, según el CEO y cofundador Alex Mashrabov, los usuarios pueden crear videos de más de 10 minutos."
               },
               {
                 "t": "p",
-                "x": "Creé figma-wp-blueprint, un conjunto de skills de Claude Code para convertir un diseño de Figma en un tema personalizado de WordPress."
+                "x": "Los agentes creativos de Higgsfield AI se encargan de tareas de producción repetitivas, como crear varias variantes de una toma. Con GPT-6 Astra, esos agentes también pueden recurrir a herramientas externas para realizar trabajo manual complejo de modelado 3D, lo que, según Alex, ayuda a resolver uno de los problemas más difíciles de la IA creativa: mantener la coherencia en videos más largos. El equipo ya usa IA para generar videos instructivos de más de 10 minutos para su canal de YouTube."
               },
               {
                 "t": "p",
-                "x": "Pega una URL de Figma y la herramienta:"
+                "x": "\"GPT-Image-2.5 es lo último en tecnología y el primer modelo de su tipo capaz de representar de forma fiable texto e infografías sobre las imágenes\", afirma."
               },
               {
                 "t": "p",
-                "x": "• extrae colores, fuentes, espaciados y breakpoints"
-              },
-              {
-                "t": "p",
-                "x": "• construye cada sección como un layout de ACF Flexible Content (campos, plantilla PHP, CSS con ámbito)"
-              },
-              {
-                "t": "p",
-                "x": "• mide el resultado frente a Figma en cada breakpoint con /pixel-check"
-              },
-              {
-                "t": "p",
-                "x": "• trabaja una funcionalidad a la vez, en su propia rama de Git, y pide tu aprobación antes de hacer commit"
-              },
-              {
-                "t": "p",
-                "x": "El resultado es un tema PHP clásico con CSS puro y vanilla JS: sin page builder, sin jQuery, sin paso de compilación."
-              },
-              {
-                "t": "p",
-                "x": "https://figma-wp-blueprint.vercel.app/ · https://github.com/saidMounaim/figma-wp-blueprint — ¡Se agradecen comentarios!"
+                "x": "Unos 200 creativos y 100 ingenieros desarrollan juntos el producto. Los creativos usan Codex para convertir ideas en prototipos de software, y Alex afirma que GPT-6 Astra reduce el trabajo necesario para incorporarlos al producto. Lo siguiente para Higgsfield AI es \"voice to movie\": una IA que entienda la intención hablada de un creador y plasme su visión en tiempo real."
               }
             ]
           }
@@ -907,15 +1321,15 @@
       }
     },
     {
-      "id": "design-ai-clients-pixel-pushers",
+      "id": "design-ai-forged-cartoonist-signatures",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-pilled 고객이\n디자이너를 픽셀 일꾼으로",
-      "body": "고객이 내민 AI 목업과 'ChatGPT에 물어봐' 앞에서 디자이너는 수정만 한다.",
-      "mini_headline": "픽셀 일꾼이 된 디자이너",
+      "headline": "ChatGPT, 만화가\n서명까지 위조한다",
+      "body": "ChatGPT가 New Yorker풍 가짜 만화에 실존 만화가 이름으로 서명했다.",
+      "mini_headline": "ChatGPT, 만화가 이름 도용",
       "tool": "AI Workflow",
-      "source": "Fast Company",
-      "url": "https://www.fastcompany.com/91621558/ai-pilled-bosses-and-clients-turning-designers-into-pixel-pushers",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -923,173 +1337,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+            "cap": "ChatGPT는 자신이 만든 가짜 New Yorker 만화에 실제 만화가들의 이름으로 서명해 왔다. (이미지 출처: Open AI)"
           },
           {
             "t": "p",
-            "x": "Emily Foran은 크리에이티브 디렉터이자 그래픽 디자이너이고, AIGA Maine 회장이다. 지난 일 년 동안 독창적인 아이디어를 처음부터 내 달라는 클라이언트 요청은 한 번도 없었다. “신규든 기존이든 클라이언트들이 Claude나 ChatGPT로 목업을 만든 쓰레기를 보내고는, 그걸 다듬거나 아예 그대로 작업해 달라고 한다”고 했다. 스스로는 크리에이티브라기보다 ‘픽셀 일꾼’이 된 기분이라고 한다."
+            "x": "8월 말 Dolly Parton과 Tim Curry가 잇따라 세상을 떠나자, 두 사람이 천국의 진주문에 도착하는 모습을 그린 만화 한 컷이 널리 퍼졌다. 귀퉁이에는 New Yorker 만화가 Brendan Loper의 필명인 \"BLOPER\"라는 서명이 있었다."
           },
           {
             "t": "p",
-            "x": "그 역시 Fast Company가 인터뷰한 열두 명이 넘는 그래픽 디자이너 가운데 하나다. 지난 18개월 사이 생성형 AI가 상사, 클라이언트, 일과의 관계를 통째로 바꿔 놓았다는 게 이들의 이야기다. 클라이언트는 단가를 깎아 달라고 했고, 어떤 디자이너는 AI가 대신할 거라는 말과 함께 해고됐다. 사실상 “ChatGPT에 물어보라”는 수준의 지침을 받는 이들도 있다."
+            "x": "그런데 문제가 하나 있었다. Brendan이 그린 그림이 아니었다. Dolly Parton의 한 팬이 ChatGPT에 \"New Yorker 스타일 만화\"를 부탁했고, 챗봇은 만화를 그려 주면서 덤으로 Brendan의 서명까지 위조했다."
           },
           {
             "t": "p",
-            "x": "디자이너들은 AI-rendered 이미지 때문에 후반 작업이 더 늘었다고 한다. Boston의 한 디자이너는 “예전엔 한 시간이면 하던 일이 세 시간씩 걸리기도 한다”고 했다. Premier Designs의 Michele Kasl은 클라이언트들이 이제 더 짧은 일정을 바란다며 “솔직히 그 때문에 일감을 잃었다”고 털어놓는다. Rock Pixel Scissors의 Robert Lodi는 AI-built 목업용 재디자인 단계를 따로 두었다. “접근성 테스트를 통과할 만한 건 아직 하나도 못 봤다.”"
+            "x": "그는 Nieman Lab에 \"이 만화를 두고 내 작품이냐고 묻는 연락이 왔다\"며 \"정말 초현실적이었다\"고 말했다. 이후 Nieman Lab이 확인한 결과, ChatGPT 이미지에 서명이 나온 New Yorker 만화가는 15명이 넘었다."
           },
           {
             "t": "p",
-            "x": "마케팅 디자이너 Erik은 “그냥 ChatGPT에 물어보라”는 말을 들었다. AI 사용 문제로 부딪치다 결국 일자리를 잃었다. Alan Peters의 팀은 온라인 AI 서비스에 자리를 내주고 해고됐다. Foran은 젊은 디자이너들이 “기회가 없었기 때문에” 업계를 떠난다고 말한다."
+            "x": "영감과 노골적인 베끼기의 경계는 원래 모호하다. 하지만 가짜 서명은 루비콘강을 건너는 일이다. 서명은 거기 적힌 사람이 이 작품을 만들었고 책임진다는 분명한 표시다. 창작으로 먹고사는 사람에게 이름은 곧 평판이자 생계다. 소셜 미디어에서 도는 이미지를 다음에 보게 되면, 좋아요를 누르거나 공유하기 전에 한 번 생각해 보자."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI-pilled clients are turning\ndesigners into pixel pushers",
-          "body": "Designers say clients' AI mockups and 'just ask ChatGPT' direction leave them fixing output, not originating ideas.",
-          "mini_headline": "Designers as pixel pushers",
+          "headline": "ChatGPT is forging\ncartoonists' signatures",
+          "body": "ChatGPT has been signing its fake New Yorker-style cartoons with the names of real cartoonists.",
+          "mini_headline": "ChatGPT forges cartoonist names",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+                "cap": "ChatGPT has been signing its fake New Yorker cartoons with real cartoonists' names. (Image credit: Open AI)"
               },
               {
                 "t": "p",
-                "x": "Emily Foran, a creative director and graphic designer and president of AIGA Maine, has not been asked by clients to come up with an original idea from scratch in a year. “I’m having clients, new and existing, send me crap they had Claude or ChatGPT mock up for them, and then ask me to either clean it up or straight up work with it,” she says. She feels more like a “pixel pusher” than a creative."
+                "x": "When Dolly Parton and Tim Curry both died in late August, a cartoon showing them arriving at the pearly gates of heaven went viral. In the corner was the signature \"BLOPER\", the pen name of New Yorker cartoonist Brendan Loper."
               },
               {
                 "t": "p",
-                "x": "She is one of more than a dozen graphic designers Fast Company interviewed who say generative AI has completely changed their relationship with their bosses, clients, and work over the past 18 months. Clients have asked for lower rates, some designers have been laid off and told AI would replace them, and others get guidance that amounts to “Ask ChatGPT.”"
+                "x": "One problem, though: Brendan didn't draw it. A fan of Dolly Parton had simply asked ChatGPT for \"a New Yorker-style cartoon\", and the chatbot had made one. Then it faked Brendan's signature for good measure."
               },
               {
                 "t": "p",
-                "x": "Designers say AI-rendered images mean more work on the back end. “What used to take me an hour to do might be taking me three hours,” says one Boston designer. Michele Kasl of Premier Designs says clients now expect shorter timelines: “Frankly, we’ve lost business because of it.” Robert Lodi of Rock Pixel Scissors has added a redesign phase for AI-built mockups: “I have yet to see one that’s going to pass an accessibility test.”"
+                "x": "\"I had people writing to me about this cartoon, asking if it was mine,\" he told Nieman Lab. \"It was very surreal.\" Nieman Lab went on to identify more than 15 New Yorker cartoonists whose signatures have been appearing on ChatGPT images."
               },
               {
                 "t": "p",
-                "x": "Marketing designer Erik was told to “just ask ChatGPT” and eventually lost his job after clashing over AI use; Alan Peters’ team was laid off in favor of an online AI service. Foran says younger designers are leaving the industry because “there haven’t been opportunities.”"
+                "x": "Yes, the line between inspiration and outright copying is a murky one. But a fake signature is crossing the Rubicon: it makes a clear statement that a named human has made this work and stands behind it. For anyone who works as a creative, your name is your reputation, your business. Next time you see an image doing the rounds on social media, think before you like or share."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-pilled 고객이\n디자이너를 픽셀 일꾼으로",
-          "body": "고객이 내민 AI 목업과 'ChatGPT에 물어봐' 앞에서 디자이너는 수정만 한다.",
-          "mini_headline": "픽셀 일꾼이 된 디자이너",
+          "headline": "ChatGPT, 만화가\n서명까지 위조한다",
+          "body": "ChatGPT가 New Yorker풍 가짜 만화에 실존 만화가 이름으로 서명했다.",
+          "mini_headline": "ChatGPT, 만화가 이름 도용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+                "cap": "ChatGPT는 자신이 만든 가짜 New Yorker 만화에 실제 만화가들의 이름으로 서명해 왔다. (이미지 출처: Open AI)"
               },
               {
                 "t": "p",
-                "x": "Emily Foran은 크리에이티브 디렉터이자 그래픽 디자이너이고, AIGA Maine 회장이다. 지난 일 년 동안 독창적인 아이디어를 처음부터 내 달라는 클라이언트 요청은 한 번도 없었다. “신규든 기존이든 클라이언트들이 Claude나 ChatGPT로 목업을 만든 쓰레기를 보내고는, 그걸 다듬거나 아예 그대로 작업해 달라고 한다”고 했다. 스스로는 크리에이티브라기보다 ‘픽셀 일꾼’이 된 기분이라고 한다."
+                "x": "8월 말 Dolly Parton과 Tim Curry가 잇따라 세상을 떠나자, 두 사람이 천국의 진주문에 도착하는 모습을 그린 만화 한 컷이 널리 퍼졌다. 귀퉁이에는 New Yorker 만화가 Brendan Loper의 필명인 \"BLOPER\"라는 서명이 있었다."
               },
               {
                 "t": "p",
-                "x": "그 역시 Fast Company가 인터뷰한 열두 명이 넘는 그래픽 디자이너 가운데 하나다. 지난 18개월 사이 생성형 AI가 상사, 클라이언트, 일과의 관계를 통째로 바꿔 놓았다는 게 이들의 이야기다. 클라이언트는 단가를 깎아 달라고 했고, 어떤 디자이너는 AI가 대신할 거라는 말과 함께 해고됐다. 사실상 “ChatGPT에 물어보라”는 수준의 지침을 받는 이들도 있다."
+                "x": "그런데 문제가 하나 있었다. Brendan이 그린 그림이 아니었다. Dolly Parton의 한 팬이 ChatGPT에 \"New Yorker 스타일 만화\"를 부탁했고, 챗봇은 만화를 그려 주면서 덤으로 Brendan의 서명까지 위조했다."
               },
               {
                 "t": "p",
-                "x": "디자이너들은 AI-rendered 이미지 때문에 후반 작업이 더 늘었다고 한다. Boston의 한 디자이너는 “예전엔 한 시간이면 하던 일이 세 시간씩 걸리기도 한다”고 했다. Premier Designs의 Michele Kasl은 클라이언트들이 이제 더 짧은 일정을 바란다며 “솔직히 그 때문에 일감을 잃었다”고 털어놓는다. Rock Pixel Scissors의 Robert Lodi는 AI-built 목업용 재디자인 단계를 따로 두었다. “접근성 테스트를 통과할 만한 건 아직 하나도 못 봤다.”"
+                "x": "그는 Nieman Lab에 \"이 만화를 두고 내 작품이냐고 묻는 연락이 왔다\"며 \"정말 초현실적이었다\"고 말했다. 이후 Nieman Lab이 확인한 결과, ChatGPT 이미지에 서명이 나온 New Yorker 만화가는 15명이 넘었다."
               },
               {
                 "t": "p",
-                "x": "마케팅 디자이너 Erik은 “그냥 ChatGPT에 물어보라”는 말을 들었다. AI 사용 문제로 부딪치다 결국 일자리를 잃었다. Alan Peters의 팀은 온라인 AI 서비스에 자리를 내주고 해고됐다. Foran은 젊은 디자이너들이 “기회가 없었기 때문에” 업계를 떠난다고 말한다."
+                "x": "영감과 노골적인 베끼기의 경계는 원래 모호하다. 하지만 가짜 서명은 루비콘강을 건너는 일이다. 서명은 거기 적힌 사람이 이 작품을 만들었고 책임진다는 분명한 표시다. 창작으로 먹고사는 사람에게 이름은 곧 평판이자 생계다. 소셜 미디어에서 도는 이미지를 다음에 보게 되면, 좋아요를 누르거나 공유하기 전에 한 번 생각해 보자."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-pilledな顧客が\nデザイナーを画素の作業員に",
-          "body": "顧客のAI製モックや「ChatGPTに聞け」という指示で、デザイナーは修正役になっている。",
-          "mini_headline": "作業員化するデザイナー",
+          "headline": "ChatGPTが漫画家の\n署名を偽造している",
+          "body": "ChatGPTは、New Yorker風の偽漫画に実在の漫画家の名前で署名してきた。",
+          "mini_headline": "ChatGPTが漫画家の名を偽造",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+                "cap": "ChatGPTは、生成した偽のNew Yorker風漫画に実在する漫画家の名前で署名していた。（画像クレジット：Open AI）"
               },
               {
                 "t": "p",
-                "x": "クリエイティブディレクター兼グラフィックデザイナーで、AIGA Maineの会長を務めるEmily Foranは、この一年、クライアントから独自のアイデアを一から出してほしいと頼まれたことがない。「新規も既存も、クライアントがClaudeやChatGPTにモックアップさせたひどいものを送ってきて、それを整えるか、そのまま使って作業するよう求めてくる」と彼女は言う。クリエイティブというより「ピクセル作業員」になった気分だという。"
+                "x": "8月下旬にDolly PartonとTim Curryが相次いで亡くなると、二人が天国の真珠の門に到着する様子を描いた漫画が拡散した。その隅には、New Yorkerの漫画家Brendan Loperのペンネームである「BLOPER」という署名があった。"
               },
               {
                 "t": "p",
-                "x": "彼女はFast Companyが取材した十数人のグラフィックデザイナーの一人で、彼らはこの18カ月で生成AIが上司やクライアント、仕事との関係を一変させたと語る。クライアントは料金の引き下げを求め、AIに置き換えられると告げられて解雇されたデザイナーもいれば、「ChatGPTに聞いて」と言うに等しい指示を受ける者もいる。"
+                "x": "ただ、問題が一つあった。Brendanはそれを描いていなかったのだ。Dolly Partonのファンが単にChatGPTに「New Yorker風の漫画」を頼み、チャットボットがそれを作った。そのうえ、念押しのようにBrendanの署名まで偽造していた。"
               },
               {
                 "t": "p",
-                "x": "デザイナーたちは、AI-renderedの画像のせいで後工程の作業が増えたと言う。「以前なら一時間で済んだ作業に三時間かかることもある」とBostonのデザイナーは話す。Premier DesignsのMichele Kaslによれば、クライアントは今やより短い納期を期待しており、「正直に言って、そのせいで仕事を失った」という。Rock Pixel ScissorsのRobert Lodiは、AI-builtのモックアップ向けにリデザイン工程を加えた。「アクセシビリティテストに合格しそうなものは、まだ一つも見たことがない」"
+                "x": "「この漫画について、私の作品かと尋ねる連絡が来た」と彼はNieman Labに語った。「とても非現実的だった」。Nieman Labはその後、ChatGPTの画像に署名が現れているNew Yorkerの漫画家を15人以上特定した。"
               },
               {
                 "t": "p",
-                "x": "マーケティングデザイナーのErikは「とにかくChatGPTに聞け」と言われ、AIの使用をめぐって対立した末に職を失った。Alan Petersのチームはオンラインの AIサービスに取って代わられ、解雇された。Foranによると、若いデザイナーは「機会がなかった」ために業界を去りつつある。"
+                "x": "確かに、インスピレーションと露骨な模倣の境界は曖昧だ。しかし偽の署名はルビコン川を渡る行為である。名前の明かされた人間がこの作品を作り、責任を持つという明確な表明になるからだ。クリエイターとして働く人にとって、名前は評判であり、仕事そのものだ。次にソーシャルメディアで出回っている画像を見かけたら、「いいね」や共有の前に一度考えてほしい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-pilled的客户\n把设计师变成像素工",
-          "body": "设计师称，客户的AI草图和“去问ChatGPT”式指示让他们只能修改输出，而非原创。",
-          "mini_headline": "设计师沦为像素工",
+          "headline": "ChatGPT在伪造\n漫画家的签名",
+          "body": "ChatGPT一直在其仿《New Yorker》风格的假漫画上署真实漫画家的名字。",
+          "mini_headline": "ChatGPT伪造漫画家署名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+                "cap": "ChatGPT一直在它生成的假New Yorker漫画上署真实漫画家的名字。（图片来源：Open AI）"
               },
               {
                 "t": "p",
-                "x": "Emily Foran 是创意总监、平面设计师，也是 AIGA Maine 的主席。一年来，没有客户请她从头提出原创想法。“新老客户都会把让 Claude 或 ChatGPT 做出来的垃圾模型发给我，然后让我要么把它收拾干净，要么直接拿来用，”她说。她觉得自己更像是“像素工”，而不是创意人。"
+                "x": "8月下旬Dolly Parton和Tim Curry相继去世后，一幅描绘二人抵达天堂珍珠门的漫画在网上疯传。漫画一角有“BLOPER”的签名，这是New Yorker漫画家Brendan Loper的笔名。"
               },
               {
                 "t": "p",
-                "x": "Fast Company 采访了十几位平面设计师，她是其中之一。他们表示，过去 18 个月里，生成式 AI 彻底改变了他们与上司、客户和工作的关系。客户要求降低报价，一些设计师被裁员并被告知 AI 会取代他们，还有人得到的指导无异于“去问 ChatGPT”。"
+                "x": "但问题是：这幅画并非出自Brendan之手。一位Dolly Parton的粉丝只是让ChatGPT画一幅“New Yorker风格的漫画”，聊天机器人便照做了。随后，它还顺手伪造了Brendan的签名。"
               },
               {
                 "t": "p",
-                "x": "设计师们说，AI-rendered 图像意味着后期工作更多。“过去一小时能做完的事，现在可能要花三小时，”一位 Boston 设计师说。Premier Designs 的 Michele Kasl 表示，客户如今期待更短的工期：“坦白说，我们因此丢了生意。”Rock Pixel Scissors 的 Robert Lodi 为 AI-built 模型增加了重新设计环节：“我还没见过哪一个能通过无障碍测试。”"
+                "x": "他对Nieman Lab说：“有人写信问我这幅漫画是不是我画的。”“这感觉非常超现实。”Nieman Lab随后查明，有超过15位New Yorker漫画家的签名出现在ChatGPT生成的图像上。"
               },
               {
                 "t": "p",
-                "x": "市场营销设计师 Erik 被告知“直接问 ChatGPT 就行”，在 AI 使用问题上发生冲突后最终丢了工作；Alan Peters 的团队被裁，取而代之的是一项在线 AI 服务。Foran 说，年轻设计师正在离开这个行业，因为“一直没有机会”。"
+                "x": "诚然，借鉴与直接抄袭之间的界线并不清晰。但伪造签名已越过卢比孔河：它清楚地宣称，这件作品出自一位具名的人之手，并由其负责。对任何从事创意工作的人来说，名字就是声誉，就是生计。下次在社交媒体上看到四处流传的图片时，点赞或分享前请先想一想。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clientes AI-pilled convierten\na diseñadores en meros operarios",
-          "body": "Según los diseñadores, las maquetas con AI y el 'pregunta a ChatGPT' de los clientes los relegan a corregir.",
-          "mini_headline": "Diseñadores como meros operarios",
+          "headline": "ChatGPT está falsificando\nfirmas de dibujantes",
+          "body": "ChatGPT ha estado firmando sus falsas viñetas al estilo del New Yorker con los nombres de dibujantes reales.",
+          "mini_headline": "ChatGPT falsifica firmas de dibujantes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+                "cap": "ChatGPT ha estado firmando sus falsas viñetas del New Yorker con nombres de dibujantes reales. (Crédito de imagen: Open AI)"
               },
               {
                 "t": "p",
-                "x": "Emily Foran, directora creativa, diseñadora gráfica y presidenta de AIGA Maine, lleva un año sin que sus clientes le pidan una idea original desde el principio. “Tengo clientes, nuevos y de siempre, que me mandan basura que le pidieron maquetar a Claude o ChatGPT y luego me piden que la limpie o que trabaje directamente con ella”, dice. Se siente más una “empujadora de píxeles” que una creativa."
+                "x": "Cuando Dolly Parton y Tim Curry murieron a finales de agosto, se volvió viral una viñeta que los mostraba llegando a las puertas de perla del cielo. En una esquina aparecía la firma \"BLOPER\", el seudónimo del dibujante del New Yorker Brendan Loper."
               },
               {
                 "t": "p",
-                "x": "Es una de los más de una docena de diseñadores gráficos entrevistados por Fast Company que afirman que la AI generativa ha cambiado por completo su relación con jefes, clientes y trabajo en los últimos 18 meses. Los clientes han pedido tarifas más bajas, algunos diseñadores han sido despedidos con el argumento de que la AI los reemplazaría y otros reciben indicaciones que se reducen a “Pregúntale a ChatGPT”."
+                "x": "Pero había un problema: Brendan no la había dibujado. Una fan de Dolly Parton simplemente había pedido a ChatGPT \"una viñeta al estilo del New Yorker\", y el chatbot la había creado. Luego, por si fuera poco, falsificó la firma de Brendan."
               },
               {
                 "t": "p",
-                "x": "Los diseñadores dicen que las imágenes AI-rendered implican más trabajo al final del proceso. “Lo que antes me llevaba una hora puede llevarme ahora tres horas”, dice un diseñador de Boston. Michele Kasl, de Premier Designs, cuenta que los clientes ahora esperan plazos más cortos: “Francamente, hemos perdido negocio por eso”. Robert Lodi, de Rock Pixel Scissors, ha añadido una fase de rediseño para las maquetas AI-built: “Todavía no he visto ninguna que vaya a pasar una prueba de accesibilidad”."
+                "x": "\"Había gente escribiéndome sobre esta viñeta, preguntándome si era mía\", dijo a Nieman Lab. \"Fue muy surrealista\". Nieman Lab identificó después a más de 15 dibujantes del New Yorker cuyas firmas han aparecido en imágenes de ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Al diseñador de marketing Erik le dijeron que “simplemente le preguntara a ChatGPT” y acabó perdiendo su empleo tras chocar por el uso de la AI; el equipo de Alan Peters fue despedido en favor de un servicio de AI en línea. Foran dice que los diseñadores jóvenes están dejando el sector porque “no ha habido oportunidades”."
+                "x": "Sí, la línea entre la inspiración y la copia descarada es difusa. Pero una firma falsa cruza el Rubicón: afirma claramente que una persona con nombre propio hizo esa obra y la respalda. Para quien trabaja en el ámbito creativo, su nombre es su reputación, su negocio. La próxima vez que veas una imagen circulando por las redes sociales, piensa antes de darle me gusta o compartirla."
               }
             ]
           }
@@ -1097,905 +1517,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-pilled 고객들,\n디자이너를 픽셀 일꾼으로",
-          "body": "고객의 AI 목업과 'ChatGPT에 물어봐' 지시에 디자이너는 수정만 한다.",
-          "mini_headline": "픽셀 일꾼이 된 디자이너",
+          "headline": "ChatGPT, 만화가\n서명까지 위조한다",
+          "body": "ChatGPT가 New Yorker풍 가짜 만화에 실존 만화가 이름으로 서명했다.",
+          "mini_headline": "ChatGPT, 만화가 이름 도용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+                "cap": "ChatGPT는 자신이 만든 가짜 New Yorker 만화에 실제 만화가들의 이름으로 서명해 왔다. (이미지 출처: Open AI)"
               },
               {
                 "t": "p",
-                "x": "크리에이티브 디렉터이자 그래픽 디자이너이며 AIGA Maine 회장인 Emily Foran은 지난 일 년 동안 클라이언트에게서 독창적인 아이디어를 처음부터 내 달라는 요청을 받은 적이 없다. “신규든 기존이든 클라이언트들이 Claude나 ChatGPT로 목업을 만든 쓰레기를 보내고는, 그걸 다듬거나 아예 그대로 작업해 달라고 한다”고 그는 말한다. 그는 크리에이티브라기보다 ‘픽셀 일꾼’이 된 기분이라고 한다."
+                "x": "8월 말 Dolly Parton과 Tim Curry가 잇따라 세상을 떠나자, 두 사람이 천국의 진주문에 도착하는 모습을 그린 만화 한 컷이 널리 퍼졌다. 귀퉁이에는 New Yorker 만화가 Brendan Loper의 필명인 \"BLOPER\"라는 서명이 있었다."
               },
               {
                 "t": "p",
-                "x": "그는 Fast Company가 인터뷰한 열두 명이 넘는 그래픽 디자이너 중 한 명이다. 이들은 지난 18개월 동안 생성형 AI가 상사, 클라이언트, 일과의 관계를 완전히 바꿔 놓았다고 말한다. 클라이언트는 단가 인하를 요구했고, 일부 디자이너는 AI가 자신을 대체할 것이라는 말과 함께 해고됐으며, 또 다른 이들은 사실상 “ChatGPT에 물어보라”는 수준의 지침을 받는다."
+                "x": "그런데 문제가 하나 있었다. 그 그림은 Brendan이 그린 것이 아니었다. Dolly Parton의 한 팬이 ChatGPT에 \"New Yorker 스타일 만화\"를 요청했을 뿐이고, 챗봇이 만화를 만들어 냈다. 그러고는 덤으로 Brendan의 서명까지 위조했다."
               },
               {
                 "t": "p",
-                "x": "디자이너들은 AI-rendered 이미지 탓에 후반 작업이 더 늘었다고 말한다. Boston의 한 디자이너는 “예전엔 한 시간이면 하던 일이 세 시간씩 걸리기도 한다”고 말한다. Premier Designs의 Michele Kasl은 클라이언트들이 이제 더 짧은 일정을 기대한다며 “솔직히 그 때문에 일감을 잃었다”고 말한다. Rock Pixel Scissors의 Robert Lodi는 AI-built 목업을 위한 재디자인 단계를 추가했다. “접근성 테스트를 통과할 만한 건 아직 하나도 못 봤다.”"
+                "x": "그는 Nieman Lab에 \"이 만화를 두고 내 작품이냐고 묻는 연락이 왔다\"며 \"정말 초현실적이었다\"고 말했다. Nieman Lab은 이후 ChatGPT 이미지에 서명이 등장한 New Yorker 만화가를 15명 넘게 확인했다."
               },
               {
                 "t": "p",
-                "x": "마케팅 디자이너 Erik은 “그냥 ChatGPT에 물어보라”는 말을 들었고, AI 사용을 두고 갈등을 빚다 결국 일자리를 잃었다. Alan Peters의 팀은 온라인 AI 서비스로 대체되며 해고됐다. Foran은 “기회가 없었기 때문에” 젊은 디자이너들이 업계를 떠나고 있다고 말한다."
+                "x": "물론 영감과 노골적인 베끼기 사이의 경계는 모호하다. 하지만 가짜 서명은 루비콘강을 건너는 일이다. 이름이 밝혀진 사람이 이 작품을 만들었고 책임진다는 분명한 표시이기 때문이다. 창작으로 일하는 사람에게 이름은 곧 평판이자 생계다. 다음에 소셜 미디어에서 돌고 있는 이미지를 보면, 좋아요를 누르거나 공유하기 전에 한 번 생각해 보자."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-pilledな顧客が\nデザイナーを画素の作業員に",
-          "body": "顧客のAI製モックや「ChatGPTに聞け」という指示で、デザイナーは修正役になっている。",
-          "mini_headline": "作業員化するデザイナー",
+          "headline": "ChatGPTが漫画家の\n署名を偽造している",
+          "body": "ChatGPTは、New Yorker風の偽漫画に実在の漫画家の名前で署名してきた。",
+          "mini_headline": "ChatGPTが漫画家の名を偽造",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+                "cap": "ChatGPTは、生成した偽のNew Yorker風漫画に実在する漫画家の名前で署名していた。（画像クレジット：Open AI）"
               },
               {
                 "t": "p",
-                "x": "クリエイティブディレクター兼グラフィックデザイナーで、AIGA Maineの会長を務めるEmily Foranは、この一年、クライアントから独自のアイデアを一から出してほしいと頼まれたことがない。「新規も既存も、クライアントがClaudeやChatGPTにモックアップさせたひどいものを送ってきて、それを整えるか、そのまま使って作業するよう求めてくる」と彼女は言う。クリエイティブというより「ピクセル作業員」になった気分だという。"
+                "x": "8月下旬にDolly PartonとTim Curryが相次いで亡くなると、二人が天国の真珠の門に到着する様子を描いた漫画が拡散した。その隅には、New Yorkerの漫画家Brendan Loperのペンネームである「BLOPER」という署名があった。"
               },
               {
                 "t": "p",
-                "x": "彼女はFast Companyが取材した十数人のグラフィックデザイナーの一人で、彼らはこの18カ月で生成AIが上司やクライアント、仕事との関係を一変させたと語る。クライアントは料金の引き下げを求め、AIに置き換えられると告げられて解雇されたデザイナーもいれば、「ChatGPTに聞いて」と言うに等しい指示を受ける者もいる。"
+                "x": "ただ、問題が一つあった。Brendanはそれを描いていなかったのだ。Dolly Partonのファンが単にChatGPTに「New Yorker風の漫画」を頼み、チャットボットがそれを作った。そのうえ、念押しのようにBrendanの署名まで偽造していた。"
               },
               {
                 "t": "p",
-                "x": "デザイナーたちは、AI-renderedの画像のせいで後工程の作業が増えたと言う。「以前なら一時間で済んだ作業に三時間かかることもある」とBostonのデザイナーは話す。Premier DesignsのMichele Kaslによれば、クライアントは今やより短い納期を期待しており、「正直に言って、そのせいで仕事を失った」という。Rock Pixel ScissorsのRobert Lodiは、AI-builtのモックアップ向けにリデザイン工程を加えた。「アクセシビリティテストに合格しそうなものは、まだ一つも見たことがない」"
+                "x": "「この漫画について、私の作品かと尋ねる連絡が来た」と彼はNieman Labに語った。「とても非現実的だった」。Nieman Labはその後、ChatGPTの画像に署名が現れているNew Yorkerの漫画家を15人以上特定した。"
               },
               {
                 "t": "p",
-                "x": "マーケティングデザイナーのErikは「とにかくChatGPTに聞け」と言われ、AIの使用をめぐって対立した末に職を失った。Alan Petersのチームはオンラインの AIサービスに取って代わられ、解雇された。Foranによると、若いデザイナーは「機会がなかった」ために業界を去りつつある。"
+                "x": "確かに、インスピレーションと露骨な模倣の境界は曖昧だ。しかし偽の署名はルビコン川を渡る行為である。名前の明かされた人間がこの作品を作り、責任を持つという明確な表明になるからだ。クリエイターとして働く人にとって、名前は評判であり、仕事そのものだ。次にソーシャルメディアで出回っている画像を見かけたら、「いいね」や共有の前に一度考えてほしい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-pilled的客户\n把设计师变成像素工",
-          "body": "设计师称，客户的AI草图和“去问ChatGPT”式指示让他们只能修改输出，而非原创。",
-          "mini_headline": "设计师沦为像素工",
+          "headline": "ChatGPT在伪造\n漫画家的签名",
+          "body": "ChatGPT一直在其仿《New Yorker》风格的假漫画上署真实漫画家的名字。",
+          "mini_headline": "ChatGPT伪造漫画家署名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+                "cap": "ChatGPT一直在它生成的假New Yorker漫画上署真实漫画家的名字。（图片来源：Open AI）"
               },
               {
                 "t": "p",
-                "x": "Emily Foran 是创意总监、平面设计师，也是 AIGA Maine 的主席。一年来，没有客户请她从头提出原创想法。“新老客户都会把让 Claude 或 ChatGPT 做出来的垃圾模型发给我，然后让我要么把它收拾干净，要么直接拿来用，”她说。她觉得自己更像是“像素工”，而不是创意人。"
+                "x": "8月下旬Dolly Parton和Tim Curry相继去世后，一幅描绘二人抵达天堂珍珠门的漫画在网上疯传。漫画一角有“BLOPER”的签名，这是New Yorker漫画家Brendan Loper的笔名。"
               },
               {
                 "t": "p",
-                "x": "Fast Company 采访了十几位平面设计师，她是其中之一。他们表示，过去 18 个月里，生成式 AI 彻底改变了他们与上司、客户和工作的关系。客户要求降低报价，一些设计师被裁员并被告知 AI 会取代他们，还有人得到的指导无异于“去问 ChatGPT”。"
+                "x": "但问题是：这幅画并非出自Brendan之手。一位Dolly Parton的粉丝只是让ChatGPT画一幅“New Yorker风格的漫画”，聊天机器人便照做了。随后，它还顺手伪造了Brendan的签名。"
               },
               {
                 "t": "p",
-                "x": "设计师们说，AI-rendered 图像意味着后期工作更多。“过去一小时能做完的事，现在可能要花三小时，”一位 Boston 设计师说。Premier Designs 的 Michele Kasl 表示，客户如今期待更短的工期：“坦白说，我们因此丢了生意。”Rock Pixel Scissors 的 Robert Lodi 为 AI-built 模型增加了重新设计环节：“我还没见过哪一个能通过无障碍测试。”"
+                "x": "他对Nieman Lab说：“有人写信问我这幅漫画是不是我画的。”“这感觉非常超现实。”Nieman Lab随后查明，有超过15位New Yorker漫画家的签名出现在ChatGPT生成的图像上。"
               },
               {
                 "t": "p",
-                "x": "市场营销设计师 Erik 被告知“直接问 ChatGPT 就行”，在 AI 使用问题上发生冲突后最终丢了工作；Alan Peters 的团队被裁，取而代之的是一项在线 AI 服务。Foran 说，年轻设计师正在离开这个行业，因为“一直没有机会”。"
+                "x": "诚然，借鉴与直接抄袭之间的界线并不清晰。但伪造签名已越过卢比孔河：它清楚地宣称，这件作品出自一位具名的人之手，并由其负责。对任何从事创意工作的人来说，名字就是声誉，就是生计。下次在社交媒体上看到四处流传的图片时，点赞或分享前请先想一想。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clientes AI-pilled convierten\na diseñadores en meros operarios",
-          "body": "Según los diseñadores, las maquetas con AI y el 'pregunta a ChatGPT' de los clientes los relegan a corregir.",
-          "mini_headline": "Diseñadores como meros operarios",
+          "headline": "ChatGPT está falsificando\nfirmas de dibujantes",
+          "body": "ChatGPT ha estado firmando sus falsas viñetas al estilo del New Yorker con los nombres de dibujantes reales.",
+          "mini_headline": "ChatGPT falsifica firmas de dibujantes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
+                "cap": "ChatGPT ha estado firmando sus falsas viñetas del New Yorker con nombres de dibujantes reales. (Crédito de imagen: Open AI)"
               },
               {
                 "t": "p",
-                "x": "Emily Foran, directora creativa, diseñadora gráfica y presidenta de AIGA Maine, lleva un año sin que sus clientes le pidan una idea original desde el principio. “Tengo clientes, nuevos y de siempre, que me mandan basura que le pidieron maquetar a Claude o ChatGPT y luego me piden que la limpie o que trabaje directamente con ella”, dice. Se siente más una “empujadora de píxeles” que una creativa."
+                "x": "Cuando Dolly Parton y Tim Curry murieron a finales de agosto, se volvió viral una viñeta que los mostraba llegando a las puertas de perla del cielo. En una esquina aparecía la firma \"BLOPER\", el seudónimo del dibujante del New Yorker Brendan Loper."
               },
               {
                 "t": "p",
-                "x": "Es una de los más de una docena de diseñadores gráficos entrevistados por Fast Company que afirman que la AI generativa ha cambiado por completo su relación con jefes, clientes y trabajo en los últimos 18 meses. Los clientes han pedido tarifas más bajas, algunos diseñadores han sido despedidos con el argumento de que la AI los reemplazaría y otros reciben indicaciones que se reducen a “Pregúntale a ChatGPT”."
+                "x": "Pero había un problema: Brendan no la había dibujado. Una fan de Dolly Parton simplemente había pedido a ChatGPT \"una viñeta al estilo del New Yorker\", y el chatbot la había creado. Luego, por si fuera poco, falsificó la firma de Brendan."
               },
               {
                 "t": "p",
-                "x": "Los diseñadores dicen que las imágenes AI-rendered implican más trabajo al final del proceso. “Lo que antes me llevaba una hora puede llevarme ahora tres horas”, dice un diseñador de Boston. Michele Kasl, de Premier Designs, cuenta que los clientes ahora esperan plazos más cortos: “Francamente, hemos perdido negocio por eso”. Robert Lodi, de Rock Pixel Scissors, ha añadido una fase de rediseño para las maquetas AI-built: “Todavía no he visto ninguna que vaya a pasar una prueba de accesibilidad”."
+                "x": "\"Había gente escribiéndome sobre esta viñeta, preguntándome si era mía\", dijo a Nieman Lab. \"Fue muy surrealista\". Nieman Lab identificó después a más de 15 dibujantes del New Yorker cuyas firmas han aparecido en imágenes de ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Al diseñador de marketing Erik le dijeron que “simplemente le preguntara a ChatGPT” y acabó perdiendo su empleo tras chocar por el uso de la AI; el equipo de Alan Peters fue despedido en favor de un servicio de AI en línea. Foran dice que los diseñadores jóvenes están dejando el sector porque “no ha habido oportunidades”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-accessibility-agent-ux",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "접근성 마크업이\nAI 에이전트의 UX다",
-      "body": "AI 에이전트는 화면 아닌 의미 구조를 읽기에 접근성 마크업이 곧 에이전트 UX다.",
-      "mini_headline": "접근성이 곧 에이전트 UX",
-      "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-            "cap": "독자는 둘, 페이지는 하나. 에이전트는 디자인한 화면을 보지 않고 그 아래 구조를 읽는다."
-          },
-          {
-            "t": "p",
-            "x": "웹사이트에 새 방문자가 생겼다. 이들은 페이지를 단순화한 모델, 곧 접근성 트리를 읽는다. 브라우저가 이십 년 동안 스크린 리더용으로 다듬어 온 바로 그 구조다. 2026년 6월 초 Cloudflare는 웹의 자동화 트래픽이 처음으로 사람 트래픽을 넘어섰다고 발표했다. 페이지 요청 기준 약 57퍼센트 대 43퍼센트다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-            "cap": "어디서 시작할지는 업체마다 갈린다."
-          },
-          {
-            "t": "p",
-            "x": "에이전트는 스크린숏, 원본 HTML, 접근성 트리 가운데 무엇이든 읽는다. Claude in Chrome의 read_page 도구는 접근성 트리부터 가져온다. Microsoft의 Playwright MCP는 구조화된 접근성 스냅숏으로 움직인다. OpenAI는 사이트 운영자들에게 Atlas가 ARIA 태그로 페이지 구조를 해석한다고 안내한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-            "cap": "CHI 2026에서 발표된 A11y-CUA 연구"
-          },
-          {
-            "t": "p",
-            "x": "A11y-CUA 연구에서 Claude Sonnet 4.5는 일상 과제 60개 가운데 일반 접근 환경에서 약 78퍼센트, 키보드만 쓸 때 42퍼센트, 화면을 확대한 상태에서 28퍼센트를 완수했다. 키보드 사용자가 막히는 과제에서는 대개 에이전트도 막힌다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-            "cap": "The WebAIM Million"
-          },
-          {
-            "t": "p",
-            "x": "WebAIM이 상위 백만 개 홈페이지를 살펴보니 95.9퍼센트에서 감지 가능한 WCAG 오류가 나왔다. 이전 94.8퍼센트보다 늘었고, WebAIM은 AI-assisted 코딩을 유력한 원인으로 본다. 해법은 네이티브 HTML, 논리적인 제목과 랜드마크, 이름 붙은 컨트롤, 대체 텍스트, 레이블 달린 입력 필드, 상태 안내다. 에이전트가 직접 행동해야 하는 흐름부터 손보면 된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Accessible markup is now\nthe UX that AI agents read",
-          "body": "AI agents skip the surface you designed and read the semantic structure beneath, so accessible markup is now agent UX.",
-          "mini_headline": "Accessibility is agent UX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-                "cap": "Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath."
-              },
-              {
-                "t": "p",
-                "x": "Your website has a new kind of visitor. It reads a stripped-down model of the page called the accessibility tree — the same structure browsers have built for screen readers for two decades. In early June 2026, Cloudflare reported that automated traffic had passed human traffic on the web for the first time, roughly 57 percent of page requests against 43 percent."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-                "cap": "The vendors split on where they start."
-              },
-              {
-                "t": "p",
-                "x": "Agents can read a screenshot, raw HTML, or the accessibility tree. Claude in Chrome’s read_page tool takes the accessibility tree first; Microsoft’s Playwright MCP works from structured accessibility snapshots; OpenAI tells site owners that Atlas uses ARIA tags to interpret page structure."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-                "cap": "A11y-CUA study presented at CHI 2026"
-              },
-              {
-                "t": "p",
-                "x": "In the A11y-CUA study, Claude Sonnet 4.5 finished about 78 percent of 60 everyday tasks with normal access, 42 percent keyboard-only and 28 percent under a magnified viewport. If a keyboard user cannot finish the task, the agent usually cannot either."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-                "cap": "The WebAIM Million"
-              },
-              {
-                "t": "p",
-                "x": "WebAIM found detectable WCAG failures on 95.9 percent of the top million home pages, up from 94.8 percent, and names AI-assisted coding as a likely culprit. The fix is native HTML, logical headings and landmarks, named controls, alt text, labeled fields and announced state — starting with the flows where an agent has to act."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "접근성 마크업이\nAI 에이전트의 UX다",
-          "body": "AI 에이전트는 화면 아닌 의미 구조를 읽기에 접근성 마크업이 곧 에이전트 UX다.",
-          "mini_headline": "접근성이 곧 에이전트 UX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-                "cap": "독자는 둘, 페이지는 하나. 에이전트는 디자인한 화면을 보지 않고 그 아래 구조를 읽는다."
-              },
-              {
-                "t": "p",
-                "x": "웹사이트에 새 방문자가 생겼다. 이들은 페이지를 단순화한 모델, 곧 접근성 트리를 읽는다. 브라우저가 이십 년 동안 스크린 리더용으로 다듬어 온 바로 그 구조다. 2026년 6월 초 Cloudflare는 웹의 자동화 트래픽이 처음으로 사람 트래픽을 넘어섰다고 발표했다. 페이지 요청 기준 약 57퍼센트 대 43퍼센트다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-                "cap": "어디서 시작할지는 업체마다 갈린다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트는 스크린숏, 원본 HTML, 접근성 트리 가운데 무엇이든 읽는다. Claude in Chrome의 read_page 도구는 접근성 트리부터 가져온다. Microsoft의 Playwright MCP는 구조화된 접근성 스냅숏으로 움직인다. OpenAI는 사이트 운영자들에게 Atlas가 ARIA 태그로 페이지 구조를 해석한다고 안내한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-                "cap": "CHI 2026에서 발표된 A11y-CUA 연구"
-              },
-              {
-                "t": "p",
-                "x": "A11y-CUA 연구에서 Claude Sonnet 4.5는 일상 과제 60개 가운데 일반 접근 환경에서 약 78퍼센트, 키보드만 쓸 때 42퍼센트, 화면을 확대한 상태에서 28퍼센트를 완수했다. 키보드 사용자가 막히는 과제에서는 대개 에이전트도 막힌다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-                "cap": "The WebAIM Million"
-              },
-              {
-                "t": "p",
-                "x": "WebAIM이 상위 백만 개 홈페이지를 살펴보니 95.9퍼센트에서 감지 가능한 WCAG 오류가 나왔다. 이전 94.8퍼센트보다 늘었고, WebAIM은 AI-assisted 코딩을 유력한 원인으로 본다. 해법은 네이티브 HTML, 논리적인 제목과 랜드마크, 이름 붙은 컨트롤, 대체 텍스트, 레이블 달린 입력 필드, 상태 안내다. 에이전트가 직접 행동해야 하는 흐름부터 손보면 된다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El marcado accesible es ahora\nla UX que leen agentes de AI",
-          "body": "Los agentes de AI leen la estructura semántica y no la superficie, así que el marcado accesible es su UX.",
-          "mini_headline": "La accesibilidad es UX para agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-                "cap": "Dos lectores, una página. El agente nunca ve la superficie que diseñaste; lee la estructura que hay debajo."
-              },
-              {
-                "t": "p",
-                "x": "Tu sitio web tiene un nuevo tipo de visitante. Lee un modelo simplificado de la página llamado árbol de accesibilidad, la misma estructura que los navegadores llevan dos décadas construyendo para los lectores de pantalla. A principios de junio de 2026, Cloudflare informó de que el tráfico automatizado había superado por primera vez al humano en la web, con aproximadamente un 57 por ciento de las solicitudes de página frente a un 43 por ciento."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-                "cap": "Los proveedores difieren en por dónde empiezan."
-              },
-              {
-                "t": "p",
-                "x": "Los agentes pueden leer una captura de pantalla, el HTML sin procesar o el árbol de accesibilidad. La herramienta read_page de Claude in Chrome toma primero el árbol de accesibilidad; Playwright MCP, de Microsoft, trabaja a partir de instantáneas estructuradas de accesibilidad; OpenAI indica a los responsables de sitios que Atlas usa etiquetas ARIA para interpretar la estructura de la página."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-                "cap": "Estudio A11y-CUA presentado en CHI 2026"
-              },
-              {
-                "t": "p",
-                "x": "En el estudio A11y-CUA, Claude Sonnet 4.5 completó alrededor del 78 por ciento de 60 tareas cotidianas con acceso normal, el 42 por ciento solo con teclado y el 28 por ciento con una ventana ampliada. Si un usuario de teclado no puede terminar la tarea, normalmente el agente tampoco."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-                "cap": "The WebAIM Million"
-              },
-              {
-                "t": "p",
-                "x": "WebAIM detectó fallos de WCAG en el 95.9 por ciento del millón de páginas de inicio principales, frente al 94.8 por ciento anterior, y señala la programación AI-assisted como probable causa. La solución pasa por HTML nativo, encabezados y landmarks lógicos, controles con nombre, texto alternativo, campos etiquetados y estados anunciados, empezando por los flujos en los que un agente tiene que actuar."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "アクセシブルなマークアップは\nAIエージェントが読むUX",
-          "body": "AIエージェントは画面より構造を読み、アクセシブルなマークアップがエージェントUXになる。",
-          "mini_headline": "アクセシビリティはエージェントUXだ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-                "cap": "ひとつのページに、ふたりの読み手。エージェントは設計された見た目を見ることはなく、その下の構造を読む。"
-              },
-              {
-                "t": "p",
-                "x": "ウェブサイトに新しい種類の訪問者が来ている。それはアクセシビリティツリーと呼ばれる、ページを簡素化したモデルを読む。ブラウザが二十年にわたりスクリーンリーダーのために構築してきたのと同じ構造だ。2026年6月上旬、Cloudflareはウェブ上の自動トラフィックが初めて人間のトラフィックを上回ったと報告した。ページリクエストの約57パーセント対43パーセントである。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-                "cap": "どこから読み始めるかは、ベンダーによって分かれる。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントはスクリーンショット、生のHTML、あるいはアクセシビリティツリーを読むことができる。Claude in Chromeのread_pageツールはまずアクセシビリティツリーを取得する。MicrosoftのPlaywright MCPは構造化されたアクセシビリティのスナップショットをもとに動作する。OpenAIはサイト運営者に対し、AtlasがARIAタグを使ってページ構造を解釈していると説明している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-                "cap": "CHI 2026で発表されたA11y-CUA研究"
-              },
-              {
-                "t": "p",
-                "x": "A11y-CUA研究では、Claude Sonnet 4.5は60の日常的なタスクのうち、通常のアクセスで約78パーセント、キーボードのみで42パーセント、拡大表示のビューポートで28パーセントを完了した。キーボード利用者がタスクを終えられなければ、エージェントもたいてい終えられない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-                "cap": "The WebAIM Million"
-              },
-              {
-                "t": "p",
-                "x": "WebAIMは上位百万件のホームページの95.9パーセントで検出可能なWCAG違反を確認した。前回の94.8パーセントから増えており、AI-assistedなコーディングが原因の一つとみられるという。対策はネイティブなHTML、論理的な見出しとランドマーク、名前の付いたコントロール、代替テキスト、ラベル付きの入力欄、状態の読み上げだ。まずはエージェントが操作しなければならないフローから始めるべきである。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "无障碍标记如今\n就是AI智能体读取的UX",
-          "body": "AI智能体跳过你设计的界面，直接读取底层语义结构，因此无障碍标记已成为智能体UX。",
-          "mini_headline": "无障碍即智能体UX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-                "cap": "同一个页面，两类读者。智能体从不看你设计的界面，它读取的是底层结构。"
-              },
-              {
-                "t": "p",
-                "x": "你的网站迎来了一种新的访客。它读取的是页面的精简模型，即无障碍树——二十年来浏览器一直为屏幕阅读器构建的同一种结构。2026年6月上旬，Cloudflare报告称，网络上的自动化流量首次超过人类流量，在页面请求中约占57%，人类约占43%。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-                "cap": "各厂商的切入点各不相同。"
-              },
-              {
-                "t": "p",
-                "x": "智能体可以读取截图、原始HTML或无障碍树。Claude in Chrome的read_page工具优先读取无障碍树；Microsoft的Playwright MCP基于结构化的无障碍快照运行；OpenAI则告诉网站所有者，Atlas借助ARIA标签来理解页面结构。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-                "cap": "在CHI 2026上发表的A11y-CUA研究"
-              },
-              {
-                "t": "p",
-                "x": "在A11y-CUA研究中，Claude Sonnet 4.5在60项日常任务中，正常访问时完成约78%，仅用键盘时完成42%，放大视口下完成百分之二十八。如果键盘用户无法完成某项任务，智能体通常也做不到。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-                "cap": "The WebAIM Million"
-              },
-              {
-                "t": "p",
-                "x": "WebAIM发现，排名前一百万的网站首页中有95.9%存在可检测的WCAG问题，高于此前的94.8%，并指出AI-assisted编码可能是原因之一。解决办法是原生HTML、合乎逻辑的标题与地标、有名称的控件、替代文本、带标签的字段以及可播报的状态——先从智能体必须执行操作的流程做起。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "접근성 마크업이\nAI 에이전트의 UX다",
-          "body": "AI 에이전트는 화면 대신 의미 구조를 읽어, 접근성 마크업이 에이전트 UX다.",
-          "mini_headline": "접근성이 곧 에이전트 UX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-                "cap": "독자는 둘, 페이지는 하나. 에이전트는 디자인한 화면을 보지 않고 그 아래 구조를 읽는다."
-              },
-              {
-                "t": "p",
-                "x": "웹사이트에 새로운 방문자가 생겼다. 이 방문자는 접근성 트리라는, 페이지를 단순화한 모델을 읽는다. 브라우저가 이십 년 동안 스크린 리더를 위해 만들어 온 바로 그 구조다. 2026년 6월 초 Cloudflare는 웹에서 자동화 트래픽이 처음으로 사람의 트래픽을 넘어섰다고 발표했다. 페이지 요청 기준으로 약 57퍼센트 대 43퍼센트다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-                "cap": "어디서 시작하느냐를 두고 업체들의 선택이 갈린다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트는 스크린숏, 원본 HTML, 접근성 트리 가운데 무엇이든 읽을 수 있다. Claude in Chrome의 read_page 도구는 접근성 트리를 먼저 가져오고, Microsoft의 Playwright MCP는 구조화된 접근성 스냅숏을 바탕으로 작동한다. OpenAI는 사이트 운영자들에게 Atlas가 페이지 구조를 해석할 때 ARIA 태그를 쓴다고 안내한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-                "cap": "CHI 2026에서 발표된 A11y-CUA 연구"
-              },
-              {
-                "t": "p",
-                "x": "A11y-CUA 연구에서 Claude Sonnet 4.5는 일상 과제 60개 가운데 일반 접근 환경에서 약 78퍼센트, 키보드만 쓸 때 42퍼센트, 화면을 확대한 상태에서 28퍼센트를 완수했다. 키보드 사용자가 끝내지 못하는 과제는 대개 에이전트도 끝내지 못한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-                "cap": "The WebAIM Million"
-              },
-              {
-                "t": "p",
-                "x": "WebAIM은 상위 백만 개 홈페이지의 95.9퍼센트에서 감지 가능한 WCAG 오류를 발견했다. 이전 94.8퍼센트보다 늘어난 수치로, WebAIM은 AI-assisted 코딩을 유력한 원인으로 꼽는다. 해법은 네이티브 HTML, 논리적인 제목과 랜드마크, 이름이 붙은 컨트롤, 대체 텍스트, 레이블이 달린 입력 필드, 상태 안내다. 에이전트가 직접 행동해야 하는 흐름부터 시작하면 된다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El marcado accesible es ahora\nla UX que leen agentes de AI",
-          "body": "Los agentes de AI leen la estructura semántica y no la superficie, así que el marcado accesible es su UX.",
-          "mini_headline": "La accesibilidad es UX para agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-                "cap": "Dos lectores, una página. El agente nunca ve la superficie que diseñaste; lee la estructura que hay debajo."
-              },
-              {
-                "t": "p",
-                "x": "Tu sitio web tiene un nuevo tipo de visitante. Lee un modelo simplificado de la página llamado árbol de accesibilidad, la misma estructura que los navegadores llevan dos décadas construyendo para los lectores de pantalla. A principios de junio de 2026, Cloudflare informó de que el tráfico automatizado había superado por primera vez al humano en la web, con aproximadamente un 57 por ciento de las solicitudes de página frente a un 43 por ciento."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-                "cap": "Los proveedores difieren en por dónde empiezan."
-              },
-              {
-                "t": "p",
-                "x": "Los agentes pueden leer una captura de pantalla, el HTML sin procesar o el árbol de accesibilidad. La herramienta read_page de Claude in Chrome toma primero el árbol de accesibilidad; Playwright MCP, de Microsoft, trabaja a partir de instantáneas estructuradas de accesibilidad; OpenAI indica a los responsables de sitios que Atlas usa etiquetas ARIA para interpretar la estructura de la página."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-                "cap": "Estudio A11y-CUA presentado en CHI 2026"
-              },
-              {
-                "t": "p",
-                "x": "En el estudio A11y-CUA, Claude Sonnet 4.5 completó alrededor del 78 por ciento de 60 tareas cotidianas con acceso normal, el 42 por ciento solo con teclado y el 28 por ciento con una ventana ampliada. Si un usuario de teclado no puede terminar la tarea, normalmente el agente tampoco."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-                "cap": "The WebAIM Million"
-              },
-              {
-                "t": "p",
-                "x": "WebAIM detectó fallos de WCAG en el 95.9 por ciento del millón de páginas de inicio principales, frente al 94.8 por ciento anterior, y señala la programación AI-assisted como probable causa. La solución pasa por HTML nativo, encabezados y landmarks lógicos, controles con nombre, texto alternativo, campos etiquetados y estados anunciados, empezando por los flujos en los que un agente tiene que actuar."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "アクセシブルなマークアップは\nAIエージェントが読むUX",
-          "body": "AIエージェントは画面より構造を読み、アクセシブルなマークアップがエージェントUXになる。",
-          "mini_headline": "アクセシビリティはエージェントUXだ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-                "cap": "ひとつのページに、ふたりの読み手。エージェントは設計された見た目を見ることはなく、その下の構造を読む。"
-              },
-              {
-                "t": "p",
-                "x": "ウェブサイトに新しい種類の訪問者が来ている。それはアクセシビリティツリーと呼ばれる、ページを簡素化したモデルを読む。ブラウザが二十年にわたりスクリーンリーダーのために構築してきたのと同じ構造だ。2026年6月上旬、Cloudflareはウェブ上の自動トラフィックが初めて人間のトラフィックを上回ったと報告した。ページリクエストの約57パーセント対43パーセントである。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-                "cap": "どこから読み始めるかは、ベンダーによって分かれる。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントはスクリーンショット、生のHTML、あるいはアクセシビリティツリーを読むことができる。Claude in Chromeのread_pageツールはまずアクセシビリティツリーを取得する。MicrosoftのPlaywright MCPは構造化されたアクセシビリティのスナップショットをもとに動作する。OpenAIはサイト運営者に対し、AtlasがARIAタグを使ってページ構造を解釈していると説明している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-                "cap": "CHI 2026で発表されたA11y-CUA研究"
-              },
-              {
-                "t": "p",
-                "x": "A11y-CUA研究では、Claude Sonnet 4.5は60の日常的なタスクのうち、通常のアクセスで約78パーセント、キーボードのみで42パーセント、拡大表示のビューポートで28パーセントを完了した。キーボード利用者がタスクを終えられなければ、エージェントもたいてい終えられない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-                "cap": "The WebAIM Million"
-              },
-              {
-                "t": "p",
-                "x": "WebAIMは上位百万件のホームページの95.9パーセントで検出可能なWCAG違反を確認した。前回の94.8パーセントから増えており、AI-assistedなコーディングが原因の一つとみられるという。対策はネイティブなHTML、論理的な見出しとランドマーク、名前の付いたコントロール、代替テキスト、ラベル付きの入力欄、状態の読み上げだ。まずはエージェントが操作しなければならないフローから始めるべきである。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "无障碍标记如今\n就是AI智能体读取的UX",
-          "body": "AI智能体跳过你设计的界面，直接读取底层语义结构，因此无障碍标记已成为智能体UX。",
-          "mini_headline": "无障碍即智能体UX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-                "cap": "同一个页面，两类读者。智能体从不看你设计的界面，它读取的是底层结构。"
-              },
-              {
-                "t": "p",
-                "x": "你的网站迎来了一种新的访客。它读取的是页面的精简模型，即无障碍树——二十年来浏览器一直为屏幕阅读器构建的同一种结构。2026年6月上旬，Cloudflare报告称，网络上的自动化流量首次超过人类流量，在页面请求中约占57%，人类约占43%。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*h7NA_CAUODmM8WiHcGlTIA.png",
-                "cap": "各厂商的切入点各不相同。"
-              },
-              {
-                "t": "p",
-                "x": "智能体可以读取截图、原始HTML或无障碍树。Claude in Chrome的read_page工具优先读取无障碍树；Microsoft的Playwright MCP基于结构化的无障碍快照运行；OpenAI则告诉网站所有者，Atlas借助ARIA标签来理解页面结构。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*qJQF3q5lAae57NOn4lmsLw.png",
-                "cap": "在CHI 2026上发表的A11y-CUA研究"
-              },
-              {
-                "t": "p",
-                "x": "在A11y-CUA研究中，Claude Sonnet 4.5在60项日常任务中，正常访问时完成约78%，仅用键盘时完成42%，放大视口下完成百分之二十八。如果键盘用户无法完成某项任务，智能体通常也做不到。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*3X0YU3ceEZw7k0EwDDxRgQ.png",
-                "cap": "The WebAIM Million"
-              },
-              {
-                "t": "p",
-                "x": "WebAIM发现，排名前一百万的网站首页中有95.9%存在可检测的WCAG问题，高于此前的94.8%，并指出AI-assisted编码可能是原因之一。解决办法是原生HTML、合乎逻辑的标题与地标、有名称的控件、替代文本、带标签的字段以及可播报的状态——先从智能体必须执行操作的流程做起。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-iris-3b-pixel-space",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Iris 3B, 이미지를\n잠재 공간 없이 만든다",
-      "body": "Iris 3B는 VAE를 거치지 않고 픽셀 공간에서 그리며 깊이 추정까지 한다.",
-      "mini_headline": "잠재 공간 건너뛴 Iris 3B",
-      "tool": "Design Tokens",
-      "source": "MindStudio",
-      "url": "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-          },
-          {
-            "t": "p",
-            "x": "Iris 3B 모델은 Spirit Labs가 만든 3B 파라미터 규모의 이미지 생성 모델이다. Flux, Qwen Image를 비롯해 요즘 이미지 생성기는 거의 다 변분 오토인코더(VAE)와 잠재 공간 단계에 기대는데, 이 모델은 그 단계를 건너뛰고 픽셀 공간에 바로 이미지를 그린다."
-          },
-          {
-            "t": "p",
-            "x": "텍스트 프롬프트는 고정된 Qwen3-VL 4B 인코더와 작은 텍스트 어댑터로 인코딩하고, 노이즈가 섞인 이미지는 곧바로 16x16 픽셀 패치로 자른다. 몸통은 “듀얼 스트림” 블록 여덟 개와 뒤이은 “싱글 스트림” 블록 열여섯 개다. 그보다 작은 블록 네 개가 각 패치를 원래 픽셀 값으로 되돌린다."
-          },
-          {
-            "t": "p",
-            "x": "직물 무늬, 피부 질감, 수염 한 올 한 올 같은 세밀한 디테일에서 이 방식이 힘을 쓰는 듯하다. 대신 느리다. 이미지 한 장에 일 분에서 삼 분이 걸린다고 한다. VRAM은 28기가바이트 미만을 써서 Flux, Qwen Image와 비슷한 수준이다."
-          },
-          {
-            "t": "p",
-            "x": "같은 모델을 달리 미세 조정하면 깊이 추정과 이미지 업스케일링도 해낸다. 인물의 문화적·민족적 특수성은 잘 살리지 못한다. 호주 원주민 원로를 그려 달라고 하자 호주 원주민으로 보이지 않는 얼굴이 나왔고, 크나페를 주문하자 바클라바에 더 가까운 그림이 나왔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Iris 3B generates images\nwithout a latent space",
-          "body": "Iris 3B generates images in pixel space with no VAE, and fine-tuned versions also handle depth estimation and upscaling.",
-          "mini_headline": "Iris 3B skips latent space",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-              },
-              {
-                "t": "p",
-                "x": "Iris 3B is a 3 billion parameter image generation model from Spirit Labs that paints images directly in pixel space, skipping the variational autoencoder (VAE) and latent space step that nearly every modern image generator, including Flux and Qwen Image, relies on."
-              },
-              {
-                "t": "p",
-                "x": "It encodes a text prompt with a frozen Qwen3-VL 4B encoder plus a small text adapter, then cuts the noisy image directly into 16x16 pixel patches. The trunk has eight “dual stream” blocks followed by sixteen “single stream” blocks, and four smaller blocks convert each patch back into raw pixel values."
-              },
-              {
-                "t": "p",
-                "x": "The approach appears to pay off in fine detail such as woven patterns, skin texture and individual beard hairs. The tradeoff is speed: generation reportedly takes one to three minutes per image. VRAM consumption lands under 28 gigabytes, comparable to Flux and Qwen Image."
-              },
-              {
-                "t": "p",
-                "x": "The same model, with different fine-tuning, handles depth estimation and image upscaling. It falls short on cultural and ethnic specificity in people: an Indigenous Australian elder prompt produced a face that didn’t read as Indigenous Australian, and a knafeh prompt produced something closer to baklava."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Iris 3B, 이미지를\n잠재 공간 없이 만든다",
-          "body": "Iris 3B는 VAE를 거치지 않고 픽셀 공간에서 그리며 깊이 추정까지 한다.",
-          "mini_headline": "잠재 공간 건너뛴 Iris 3B",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-              },
-              {
-                "t": "p",
-                "x": "Iris 3B 모델은 Spirit Labs가 만든 3B 파라미터 규모의 이미지 생성 모델이다. Flux, Qwen Image를 비롯해 요즘 이미지 생성기는 거의 다 변분 오토인코더(VAE)와 잠재 공간 단계에 기대는데, 이 모델은 그 단계를 건너뛰고 픽셀 공간에 바로 이미지를 그린다."
-              },
-              {
-                "t": "p",
-                "x": "텍스트 프롬프트는 고정된 Qwen3-VL 4B 인코더와 작은 텍스트 어댑터로 인코딩하고, 노이즈가 섞인 이미지는 곧바로 16x16 픽셀 패치로 자른다. 몸통은 “듀얼 스트림” 블록 여덟 개와 뒤이은 “싱글 스트림” 블록 열여섯 개다. 그보다 작은 블록 네 개가 각 패치를 원래 픽셀 값으로 되돌린다."
-              },
-              {
-                "t": "p",
-                "x": "직물 무늬, 피부 질감, 수염 한 올 한 올 같은 세밀한 디테일에서 이 방식이 힘을 쓰는 듯하다. 대신 느리다. 이미지 한 장에 일 분에서 삼 분이 걸린다고 한다. VRAM은 28기가바이트 미만을 써서 Flux, Qwen Image와 비슷한 수준이다."
-              },
-              {
-                "t": "p",
-                "x": "같은 모델을 달리 미세 조정하면 깊이 추정과 이미지 업스케일링도 해낸다. 인물의 문화적·민족적 특수성은 잘 살리지 못한다. 호주 원주민 원로를 그려 달라고 하자 호주 원주민으로 보이지 않는 얼굴이 나왔고, 크나페를 주문하자 바클라바에 더 가까운 그림이 나왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Iris 3B、\n潜在空間なしで画像生成",
-          "body": "Iris 3B はVAEなしでピクセル空間に画像を描き、微調整で深度推定や超解像もこなす。",
-          "mini_headline": "潜在空間を省くIris 3B",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-              },
-              {
-                "t": "p",
-                "x": "Iris 3B はSpirit Labsによる3B パラメータの画像生成モデルで、FluxやQwen Imageを含むほぼすべての最新の画像生成モデルが頼る変分オートエンコーダー(VAE)と潜在空間のステップを省き、ピクセル空間に直接画像を描く。"
-              },
-              {
-                "t": "p",
-                "x": "テキストプロンプトは凍結したQwen3-VL 4B エンコーダーと小さなテキストアダプターでエンコードし、ノイズの乗った画像をそのまま16x16 ピクセルのパッチに切り分ける。幹となる部分は八つの「デュアルストリーム」ブロックと、それに続く十六の「シングルストリーム」ブロックで構成され、四つの小さなブロックが各パッチを生のピクセル値に戻す。"
-              },
-              {
-                "t": "p",
-                "x": "この手法は、織物の模様や肌の質感、ひげの一本一本といった細部で効果を上げているようだ。代償は速度で、画像一枚の生成に一分から三分かかるという。VRAM使用量は28ギガバイト未満で、FluxやQwen Imageと同程度だ。"
-              },
-              {
-                "t": "p",
-                "x": "同じモデルでも微調整を変えれば、深度推定や画像のアップスケーリングもこなす。一方、人物の文化的・民族的な特徴の表現は弱い。オーストラリア先住民の長老を求めたプロンプトでは先住民らしく見えない顔が生成され、クナーファを求めたプロンプトではバクラヴァに近いものが出てきた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Iris 3B 生成图像\n无需潜在空间",
-          "body": "Iris 3B 无需VAE即可在像素空间生成图像，微调版本还能做深度估计和超分放大。",
-          "mini_headline": "Iris 3B 绕开潜在空间",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-              },
-              {
-                "t": "p",
-                "x": "Iris 3B 是 Spirit Labs 推出的 3B 参数图像生成模型，它直接在像素空间中绘制图像，跳过了包括 Flux 和 Qwen Image 在内的几乎所有现代图像生成器都依赖的变分自编码器（VAE）和潜在空间步骤。"
-              },
-              {
-                "t": "p",
-                "x": "它用冻结的 Qwen3-VL 4B 编码器加一个小型文本适配器对文本提示进行编码，然后把带噪图像直接切成 16x16 像素的图块。主干由八个“双流”块和随后的十六个“单流”块组成，再由四个较小的块把每个图块还原为原始像素值。"
-              },
-              {
-                "t": "p",
-                "x": "这种做法似乎在编织纹理、皮肤质感和根根分明的胡须等细节上见效。代价是速度：据称每张图像需要一到三分钟。VRAM 占用不到 28 GB，与 Flux 和 Qwen Image 相当。"
-              },
-              {
-                "t": "p",
-                "x": "同一模型经过不同的微调，还能完成深度估计和图像放大。但它在人物的文化与族裔特征上表现不足：要求生成澳大利亚原住民长者的提示，得到的面孔看起来并不像澳大利亚原住民；要求生成库纳法的提示，结果更接近果仁蜜饼。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Iris 3B genera imágenes\nsin un espacio latente",
-          "body": "Iris 3B genera imágenes en píxeles sin VAE, y sus versiones ajustadas estiman profundidad y escalan imágenes.",
-          "mini_headline": "Iris 3B prescinde del espacio latente",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-              },
-              {
-                "t": "p",
-                "x": "Iris 3B es un modelo de generación de imágenes de 3 mil millones de parámetros de Spirit Labs que pinta las imágenes directamente en el espacio de píxeles, sin el paso del autoencoder variacional (VAE) y del espacio latente del que dependen casi todos los generadores de imágenes modernos, incluidos Flux y Qwen Image."
-              },
-              {
-                "t": "p",
-                "x": "Codifica el prompt de texto con un codificador Qwen3-VL 4B congelado y un pequeño adaptador de texto, y luego corta la imagen con ruido directamente en parches de 16x16 píxeles. El tronco tiene ocho bloques de “doble flujo” seguidos de dieciséis bloques de “flujo único”, y cuatro bloques más pequeños convierten cada parche de nuevo en valores de píxel en bruto."
-              },
-              {
-                "t": "p",
-                "x": "El enfoque parece dar resultado en detalles finos como tramas tejidas, textura de la piel y pelos sueltos de la barba. La contrapartida es la velocidad: según se informa, generar cada imagen lleva entre uno y tres minutos. El consumo de VRAM se queda por debajo de 28 gigabytes, comparable al de Flux y Qwen Image."
-              },
-              {
-                "t": "p",
-                "x": "El mismo modelo, con otro ajuste fino, se encarga de la estimación de profundidad y del escalado de imágenes. Se queda corto en la especificidad cultural y étnica de las personas: un prompt de un anciano aborigen australiano produjo un rostro que no parecía aborigen australiano, y un prompt de knafeh produjo algo más parecido a baklava."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Iris 3B, 이미지를\n잠재 공간 없이 만든다",
-          "body": "Iris 3B 모델은 VAE 없이 픽셀 공간에서 그리며 깊이 추정도 한다.",
-          "mini_headline": "잠재 공간 건너뛴 Iris 3B",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-              },
-              {
-                "t": "p",
-                "x": "Iris 3B 모델은 Spirit Labs가 만든 3B 파라미터 규모의 이미지 생성 모델이다. Flux, Qwen Image를 비롯해 요즘 거의 모든 이미지 생성기가 의존하는 변분 오토인코더(VAE)와 잠재 공간 단계를 건너뛰고 픽셀 공간에 직접 이미지를 그린다."
-              },
-              {
-                "t": "p",
-                "x": "텍스트 프롬프트는 고정된 Qwen3-VL 4B 인코더와 작은 텍스트 어댑터로 인코딩하고, 노이즈가 섞인 이미지는 곧바로 16x16 픽셀 패치로 자른다. 몸통은 “듀얼 스트림” 블록 여덟 개와 그 뒤의 “싱글 스트림” 블록 열여섯 개로 이뤄지며, 더 작은 블록 네 개가 각 패치를 원래 픽셀 값으로 되돌린다."
-              },
-              {
-                "t": "p",
-                "x": "이 방식은 직물 무늬, 피부 질감, 수염 한 올 한 올 같은 세밀한 디테일에서 효과를 내는 것으로 보인다. 대가는 속도다. 이미지 한 장을 만드는 데 일 분에서 삼 분이 걸린다고 한다. VRAM 사용량은 28기가바이트 미만으로 Flux, Qwen Image와 비슷하다."
-              },
-              {
-                "t": "p",
-                "x": "같은 모델을 다르게 미세 조정하면 깊이 추정과 이미지 업스케일링도 할 수 있다. 다만 인물의 문화적·민족적 특수성은 잘 살리지 못한다. 호주 원주민 원로를 그리라는 프롬프트에서는 호주 원주민으로 보이지 않는 얼굴이 나왔고, 크나페를 그리라는 프롬프트에서는 바클라바에 더 가까운 결과가 나왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Iris 3B、\n潜在空間なしで画像生成",
-          "body": "Iris 3B はVAEなしでピクセル空間に画像を描き、微調整で深度推定や超解像もこなす。",
-          "mini_headline": "潜在空間を省くIris 3B",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-              },
-              {
-                "t": "p",
-                "x": "Iris 3B はSpirit Labsによる3B パラメータの画像生成モデルで、FluxやQwen Imageを含むほぼすべての最新の画像生成モデルが頼る変分オートエンコーダー(VAE)と潜在空間のステップを省き、ピクセル空間に直接画像を描く。"
-              },
-              {
-                "t": "p",
-                "x": "テキストプロンプトは凍結したQwen3-VL 4B エンコーダーと小さなテキストアダプターでエンコードし、ノイズの乗った画像をそのまま16x16 ピクセルのパッチに切り分ける。幹となる部分は八つの「デュアルストリーム」ブロックと、それに続く十六の「シングルストリーム」ブロックで構成され、四つの小さなブロックが各パッチを生のピクセル値に戻す。"
-              },
-              {
-                "t": "p",
-                "x": "この手法は、織物の模様や肌の質感、ひげの一本一本といった細部で効果を上げているようだ。代償は速度で、画像一枚の生成に一分から三分かかるという。VRAM使用量は28ギガバイト未満で、FluxやQwen Imageと同程度だ。"
-              },
-              {
-                "t": "p",
-                "x": "同じモデルでも微調整を変えれば、深度推定や画像のアップスケーリングもこなす。一方、人物の文化的・民族的な特徴の表現は弱い。オーストラリア先住民の長老を求めたプロンプトでは先住民らしく見えない顔が生成され、クナーファを求めたプロンプトではバクラヴァに近いものが出てきた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Iris 3B 生成图像\n无需潜在空间",
-          "body": "Iris 3B 无需VAE即可在像素空间生成图像，微调版本还能做深度估计和超分放大。",
-          "mini_headline": "Iris 3B 绕开潜在空间",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-              },
-              {
-                "t": "p",
-                "x": "Iris 3B 是 Spirit Labs 推出的 3B 参数图像生成模型，它直接在像素空间中绘制图像，跳过了包括 Flux 和 Qwen Image 在内的几乎所有现代图像生成器都依赖的变分自编码器（VAE）和潜在空间步骤。"
-              },
-              {
-                "t": "p",
-                "x": "它用冻结的 Qwen3-VL 4B 编码器加一个小型文本适配器对文本提示进行编码，然后把带噪图像直接切成 16x16 像素的图块。主干由八个“双流”块和随后的十六个“单流”块组成，再由四个较小的块把每个图块还原为原始像素值。"
-              },
-              {
-                "t": "p",
-                "x": "这种做法似乎在编织纹理、皮肤质感和根根分明的胡须等细节上见效。代价是速度：据称每张图像需要一到三分钟。VRAM 占用不到 28 GB，与 Flux 和 Qwen Image 相当。"
-              },
-              {
-                "t": "p",
-                "x": "同一模型经过不同的微调，还能完成深度估计和图像放大。但它在人物的文化与族裔特征上表现不足：要求生成澳大利亚原住民长者的提示，得到的面孔看起来并不像澳大利亚原住民；要求生成库纳法的提示，结果更接近果仁蜜饼。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Iris 3B genera imágenes\nsin un espacio latente",
-          "body": "Iris 3B genera imágenes en píxeles sin VAE, y sus versiones ajustadas estiman profundidad y escalan imágenes.",
-          "mini_headline": "Iris 3B prescinde del espacio latente",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop"
-              },
-              {
-                "t": "p",
-                "x": "Iris 3B es un modelo de generación de imágenes de 3 mil millones de parámetros de Spirit Labs que pinta las imágenes directamente en el espacio de píxeles, sin el paso del autoencoder variacional (VAE) y del espacio latente del que dependen casi todos los generadores de imágenes modernos, incluidos Flux y Qwen Image."
-              },
-              {
-                "t": "p",
-                "x": "Codifica el prompt de texto con un codificador Qwen3-VL 4B congelado y un pequeño adaptador de texto, y luego corta la imagen con ruido directamente en parches de 16x16 píxeles. El tronco tiene ocho bloques de “doble flujo” seguidos de dieciséis bloques de “flujo único”, y cuatro bloques más pequeños convierten cada parche de nuevo en valores de píxel en bruto."
-              },
-              {
-                "t": "p",
-                "x": "El enfoque parece dar resultado en detalles finos como tramas tejidas, textura de la piel y pelos sueltos de la barba. La contrapartida es la velocidad: según se informa, generar cada imagen lleva entre uno y tres minutos. El consumo de VRAM se queda por debajo de 28 gigabytes, comparable al de Flux y Qwen Image."
-              },
-              {
-                "t": "p",
-                "x": "El mismo modelo, con otro ajuste fino, se encarga de la estimación de profundidad y del escalado de imágenes. Se queda corto en la especificidad cultural y étnica de las personas: un prompt de un anciano aborigen australiano produjo un rostro que no parecía aborigen australiano, y un prompt de knafeh produjo algo más parecido a baklava."
+                "x": "Sí, la línea entre la inspiración y la copia descarada es difusa. Pero una firma falsa cruza el Rubicón: afirma claramente que una persona con nombre propio hizo esa obra y la respalda. Para quien trabaja en el ámbito creativo, su nombre es su reputación, su negocio. La próxima vez que veas una imagen circulando por las redes sociales, piensa antes de darle me gusta o compartirla."
               }
             ]
           }

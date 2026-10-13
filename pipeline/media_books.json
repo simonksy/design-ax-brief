@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-13",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-caine-prize-kundizeza-ai",
-      "type": "image",
-      "src": "pipeline/media/books-caine-prize-kundizeza-ai.jpg"
-    },
-    {
-      "id": "books-revoy-pepper-carrot-no-ai",
-      "type": "image",
-      "src": "pipeline/media/books-revoy-pepper-carrot-no-ai.jpg"
-    },
-    {
-      "id": "books-road-to-the-end-ai-prompt",
-      "type": "image",
-      "src": "pipeline/media/books-road-to-the-end-ai-prompt.png"
-    },
-    {
-      "id": "books-hivemind-webnovel-ai-translation",
-      "type": "image",
-      "src": "pipeline/media/books-hivemind-webnovel-ai-translation.jpg"
-    },
-    {
-      "id": "books-yuriten-10th-anniversary-ai-cancel",
-      "type": "image",
-      "src": "pipeline/media/books-yuriten-10th-anniversary-ai-cancel.jpg"
-    }
-  ]
-}
+{"date":"2026-10-14","section":"books","media":[
+{"id":"books-nippan-anthropic-sales","type":"svg"},
+{"id":"books-elpais-spain-ai-bestsellers","type":"image","src":"pipeline/media/books-elpais-spain-ai-bestsellers.jpg"},
+{"id":"books-frankfurt-appeal-ai-transparency","type":"image","src":"pipeline/media/books-frankfurt-appeal-ai-transparency.jpg"},
+{"id":"books-turkiye-ai-book-scanning","type":"image","src":"pipeline/media/books-turkiye-ai-book-scanning.jpg"},
+{"id":"books-audible-ai-narration-survey","type":"image","src":"pipeline/media/books-audible-ai-narration-survey.png"}
+]}

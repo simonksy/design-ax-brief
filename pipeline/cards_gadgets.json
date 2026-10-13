@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-fitbit-edge-launch",
+      "id": "gadgets-apple-homeview",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Fitbit Edge,\nAir와 Pixel 사이",
-      "body": "Google의 Fitbit Edge는 Air보다 낫지만 스마트워치엔 못 미친다.",
-      "mini_headline": "Fitbit Edge, Air와 Watch 사이",
+      "headline": "Apple 첫 스마트 화면\n299달러 HomeView",
+      "body": "7인치 HomeView가 299달러에 예약을 받고 카메라로 최대 6명을 알아본다.",
+      "mini_headline": "Apple HomeView, 299달러",
       "tool": "Gadgets",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,251 +19,251 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
           },
           {
             "t": "p",
-            "x": "Google이 2026년 두 번째 Fitbit 트래커를 내놓는다. 새 Fitbit Edge의 자리는 딱 Pixel Watch 5와 Fitbit Air 사이다. 화면은 작고 건강 센서는 Air보다 많으며, 가격은 Pixel Watch 5의 절반 정도다."
+            "x": "Apple이 오늘 스마트홈 허브 HomeView의 예약 판매를 시작했다. 7인치 스마트 디스플레이 겸 스피커인 HomeView는 가족 구성원 최대 6명이 Apple 기기와 앱, 현재 베타 단계인 생성형 AI 챗봇 Siri를 한곳에서 이용하고 제어하는 중심 창구를 노린다."
+          },
+          {
+            "t": "p",
+            "x": "HomeView에 말을 걸면 스마트홈 기기를 제어할 수 있다. Siri에게 스마트 블라인드를 닫거나 스마트 잠금장치를 켜 달라고 하는 식이다. HomeView는 영상 피드도 최대 9개까지 동시에 실시간으로 띄운다."
           },
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-            "cap": "왼쪽부터 Fitbit Air(새 메탈 메시 밴드 장착), Fitbit Edge, Pixel Watch 5."
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+            "cap": "스마트홈 허브로 쓰이는 Apple HomeView."
           },
           {
             "t": "p",
-            "x": "가는 알루미늄 프레임에 알약 모양의 1.34인치 OLED 터치 디스플레이를 얹었고 IP68(5 ATM) 등급을 받았다. Google Health 앱으로 Android 폰이나 iPhones와 함께 쓴다. 한 번 충전하면 약 7일(상시 표시 화면을 켜면 약 2일) 간다."
+            "x": "Amazon Echo Show 같은 기기와 경쟁하는 HomeView는 내장 카메라로 누가 쓰는지 알아보고 그 사람의 프로필을 띄운다. Apple Intelligence를 지원하는 iPhone이나 iPad에 프로필을 연결하면 Messages, Calendar, Reminders, FaceTime을 쓸 수 있다. Siri 요청은 기기 안에서 처리하거나 Private Cloud Compute를 거쳐 처리한다고 Apple은 밝혔다."
           },
           {
             "t": "p",
-            "x": "휴대폰 알림은 그대로 띄우지만 마이크와 스피커가 없고 Gemini 상호작용과 NFC도 지원하지 않는다. 대신 Air에는 없던 기기 자체 GPS와 Pixel Watch의 ECG·혈중 산소 센서가 더해졌다."
+            "x": "Liquid Retina(LCD) 화면은 밝기가 0.3~500니트이고 스피커 받침 위 스테인리스 스틸 힌지에 달려 기울어진다. Schneider Home이 만든 벽걸이 거치대는 60달러부터다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
           },
           {
             "t": "p",
-            "x": "이렇게 모은 데이터는 전부 Google Health 앱의 Gemini 기반 챗봇 Health Coach로 간다. Edge에는 Google Health Premium(월 10달러) 3개월 이용권이 딸려 오는데, 이게 없으면 AI 기능을 못 쓴다. Health Coach는 원하면 끌 수 있다."
-          },
-          {
-            "t": "video",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-          },
-          {
-            "t": "p",
-            "x": "Edge는 180달러다. 오늘부터 예약 주문을 받고 10월 27일 출고된다. Google이 처음 내놓는 수리 가능한 피트니스 트래커로, 배터리를 교체할 수는 있지만 사용자가 직접 바꾸지는 못한다."
+            "x": "Apple은 오늘부터 HomeView 예약 주문을 받는다. 정식 출시는 11월 13일, 가격은 299달러다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Fitbit Edge sits between\nAir and Pixel Watch 5",
-          "body": "Google's Fitbit Edge offers more than the Fitbit Air but stops short of being a real smartwatch.",
-          "mini_headline": "Fitbit Edge, between Air and Watch",
+          "headline": "Apple’s first smart display\nis the $299 HomeView",
+          "body": "Apple's 7-inch HomeView smart display opens for $299 preorders and can recognize up to six users with its camera.",
+          "mini_headline": "Apple HomeView, $299",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
               },
               {
                 "t": "p",
-                "x": "Google is releasing its second Fitbit tracker of 2026. The new Fitbit Edge slots right in between the Pixel Watch 5 and the Fitbit Air, featuring a compact screen and more health sensors than the Air, at only about half the price of the Pixel Watch 5."
+                "x": "Apple opened preorders for the HomeView smart home hub today. The HomeView is a 7-inch smart display and speaker that aims to be a central access point for up to six members of a family to access and control Apple’s ecosystem of devices, apps, and the Siri generative AI chatbot that’s currently in beta."
+              },
+              {
+                "t": "p",
+                "x": "Users can speak to HomeView to control smart home devices, such as telling Siri to close the smart blinds or activate smart locks. HomeView can also show a livestream for up to nine video feeds simultaneously."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-                "cap": "Left to right: Fitbit Air (with new metal mesh band), Fitbit Edge, and Pixel Watch 5."
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+                "cap": "The Apple HomeView serving as a smart home hub."
               },
               {
                 "t": "p",
-                "x": "It has a pill-shaped 1.34-inch OLED touch display in a slender aluminum frame rated IP68 (5 ATM), works with Android or iPhones via the Google Health app, and runs about seven days on a charge (about two with always-on display)."
+                "x": "Competing with devices like the Amazon Echo Show, HomeView uses its integrated camera to identify who’s using it and show them their profile. Users can connect their profile to their Apple Intelligence-supporting iPhone or iPad to access Messages, Calendar, Reminders, and FaceTime. Apple said Siri requests can run locally or via Private Cloud Compute."
               },
               {
                 "t": "p",
-                "x": "It mirrors phone notifications, but there's no microphone or speaker, no support for Gemini interactions and no NFC. Over the Air, it adds on-device GPS plus the ECG and blood oxygen sensor from the Pixel Watch."
+                "x": "The Liquid Retina (LCD) screen has a brightness range of 0.3 to 500 nits and tilts on a stainless steel hinge above the speaker base. Wall mounts made by Schneider Home start at $60."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
               },
               {
                 "t": "p",
-                "x": "All this data feeds the Gemini-powered Health Coach chatbot in the Google Health app. The Edge comes with three months of Google Health Premium ($10 per month), without which you won't get the AI features; you can disable the Health Coach if you want."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-              },
-              {
-                "t": "p",
-                "x": "The Edge costs $180, is available for preorder today and ships on October 27. It is Google's first repairable fitness tracker, with a replaceable battery that is not user-replaceable."
+                "x": "Apple started taking preorders for HomeView today. It launches on November 13 for $299."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Fitbit Edge,\nAir와 Pixel 사이",
-          "body": "Google의 Fitbit Edge는 Air보다 낫지만 스마트워치엔 못 미친다.",
-          "mini_headline": "Fitbit Edge, Air와 Watch 사이",
+          "headline": "Apple 첫 스마트 화면\n299달러 HomeView",
+          "body": "7인치 HomeView가 299달러에 예약을 받고 카메라로 최대 6명을 알아본다.",
+          "mini_headline": "Apple HomeView, 299달러",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
               },
               {
                 "t": "p",
-                "x": "Google이 2026년 두 번째 Fitbit 트래커를 내놓는다. 새 Fitbit Edge의 자리는 딱 Pixel Watch 5와 Fitbit Air 사이다. 화면은 작고 건강 센서는 Air보다 많으며, 가격은 Pixel Watch 5의 절반 정도다."
+                "x": "Apple이 오늘 스마트홈 허브 HomeView의 예약 판매를 시작했다. 7인치 스마트 디스플레이 겸 스피커인 HomeView는 가족 구성원 최대 6명이 Apple 기기와 앱, 현재 베타 단계인 생성형 AI 챗봇 Siri를 한곳에서 이용하고 제어하는 중심 창구를 노린다."
+              },
+              {
+                "t": "p",
+                "x": "HomeView에 말을 걸면 스마트홈 기기를 제어할 수 있다. Siri에게 스마트 블라인드를 닫거나 스마트 잠금장치를 켜 달라고 하는 식이다. HomeView는 영상 피드도 최대 9개까지 동시에 실시간으로 띄운다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-                "cap": "왼쪽부터 Fitbit Air(새 메탈 메시 밴드 장착), Fitbit Edge, Pixel Watch 5."
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+                "cap": "스마트홈 허브로 쓰이는 Apple HomeView."
               },
               {
                 "t": "p",
-                "x": "가는 알루미늄 프레임에 알약 모양의 1.34인치 OLED 터치 디스플레이를 얹었고 IP68(5 ATM) 등급을 받았다. Google Health 앱으로 Android 폰이나 iPhones와 함께 쓴다. 한 번 충전하면 약 7일(상시 표시 화면을 켜면 약 2일) 간다."
+                "x": "Amazon Echo Show 같은 기기와 경쟁하는 HomeView는 내장 카메라로 누가 쓰는지 알아보고 그 사람의 프로필을 띄운다. Apple Intelligence를 지원하는 iPhone이나 iPad에 프로필을 연결하면 Messages, Calendar, Reminders, FaceTime을 쓸 수 있다. Siri 요청은 기기 안에서 처리하거나 Private Cloud Compute를 거쳐 처리한다고 Apple은 밝혔다."
               },
               {
                 "t": "p",
-                "x": "휴대폰 알림은 그대로 띄우지만 마이크와 스피커가 없고 Gemini 상호작용과 NFC도 지원하지 않는다. 대신 Air에는 없던 기기 자체 GPS와 Pixel Watch의 ECG·혈중 산소 센서가 더해졌다."
+                "x": "Liquid Retina(LCD) 화면은 밝기가 0.3~500니트이고 스피커 받침 위 스테인리스 스틸 힌지에 달려 기울어진다. Schneider Home이 만든 벽걸이 거치대는 60달러부터다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
               },
               {
                 "t": "p",
-                "x": "이렇게 모은 데이터는 전부 Google Health 앱의 Gemini 기반 챗봇 Health Coach로 간다. Edge에는 Google Health Premium(월 10달러) 3개월 이용권이 딸려 오는데, 이게 없으면 AI 기능을 못 쓴다. Health Coach는 원하면 끌 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Edge는 180달러다. 오늘부터 예약 주문을 받고 10월 27일 출고된다. Google이 처음 내놓는 수리 가능한 피트니스 트래커로, 배터리를 교체할 수는 있지만 사용자가 직접 바꾸지는 못한다."
+                "x": "Apple은 오늘부터 HomeView 예약 주문을 받는다. 정식 출시는 11월 13일, 가격은 299달러다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Fitbit Edgeは\nAirとPixelの間に",
-          "body": "GoogleのFitbit EdgeはAirを上回るが、スマートウォッチには届かない。",
-          "mini_headline": "Fitbit Edge、AirとWatchの間",
+          "headline": "Apple初のスマート画面\n299ドルのHomeView",
+          "body": "7インチのHomeViewが299ドルで予約開始、カメラで最大6人を識別する。",
+          "mini_headline": "Apple HomeView、299ドル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleが2026年2機種目となるFitbitトラッカーを投入する。新しいFitbit EdgeはPixel Watch 5とFitbit Airのちょうど中間に位置し、コンパクトな画面とAirより多い健康センサーを備えながら、価格はPixel Watch 5の約半分だ。"
+                "x": "Appleは本日、スマートホームハブ「HomeView」の予約受付を開始した。HomeViewは7インチのスマートディスプレイ兼スピーカーで、家族最大6人がAppleのデバイスやアプリ、そして現在ベータ版の生成AIチャットボットSiriにアクセスし操作するための中心的な窓口を目指す。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーはHomeViewに話しかけてスマートホーム機器を操作できる。たとえばSiriにスマートブラインドを閉めさせたり、スマートロックを作動させたりできる。HomeViewは最大9本の映像フィードを同時にライブ表示することもできる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-                "cap": "左からFitbit Air(新しいメタルメッシュバンド付き)、Fitbit Edge、Pixel Watch 5。"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+                "cap": "スマートホームハブとして使われるApple HomeView。"
               },
               {
                 "t": "p",
-                "x": "細身のアルミフレームに錠剤型の1.34インチOLEDタッチディスプレイを収め、防水性能はIP68(5 ATM)だ。Google HealthアプリでAndroidやiPhonesと連携でき、1回の充電で約7日(常時表示オンなら約2日)持つ。"
+                "x": "Amazon Echo Showなどの機器と競合するHomeViewは、内蔵カメラで利用者を識別し、その人のプロフィールを表示する。ユーザーはプロフィールをApple Intelligence対応のiPhoneやiPadと連携させ、Messages、Calendar、Reminders、FaceTimeを利用できる。AppleによればSiriへのリクエストは端末上でも、Private Cloud Compute経由でも処理できる。"
               },
               {
                 "t": "p",
-                "x": "スマートフォンの通知を表示できるが、マイクとスピーカーはなく、Geminiとの対話やNFCにも対応しない。Airと比べると、端末内蔵のGPSとPixel Watch由来のECG・血中酸素センサーが加わった。"
+                "x": "Liquid Retina(LCD)画面の輝度は0.3〜500ニトで、スピーカー台座の上にあるステンレススチール製ヒンジで傾けられる。Schneider Home製の壁掛けマウントは60ドルからだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
               },
               {
                 "t": "p",
-                "x": "こうしたデータはすべて、Google HealthアプリのGemini搭載チャットボットHealth Coachに送られる。EdgeにはGoogle Health Premium(月10ドル)の3カ月分が付属し、これがないとAI機能は使えない。Health Coachは必要に応じて無効にできる。"
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Edgeの価格は180ドルで、本日予約受付を開始し、10月27日に出荷される。Google初の修理可能なフィットネストラッカーで、バッテリーは交換可能だがユーザー自身では交換できない。"
+                "x": "Appleは本日HomeViewの予約受付を始めた。発売は11月13日で、価格は299ドルだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Fitbit Edge\n介于Air与Pixel之间",
-          "body": "Google的Fitbit Edge比Air功能更多，但还算不上真正的智能手表。",
-          "mini_headline": "Fitbit Edge，介于Air与Watch之间",
+          "headline": "Apple首款智能显示屏\nHomeView售299美元",
+          "body": "7英寸的HomeView开放299美元预订，可用摄像头识别最多6名用户。",
+          "mini_headline": "Apple HomeView，299美元",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
               },
               {
                 "t": "p",
-                "x": "Google推出2026年第二款Fitbit手环。新款Fitbit Edge的定位恰好介于Pixel Watch 5和Fitbit Air之间，配备小巧屏幕，健康传感器比Air更多，售价却只有Pixel Watch 5的一半左右。"
+                "x": "Apple今天开放了智能家居中枢HomeView的预订。HomeView是一款7英寸智能显示屏兼音箱，旨在成为家庭中最多6名成员访问和控制Apple设备、应用以及目前仍处于测试阶段的生成式AI聊天机器人Siri的核心入口。"
+              },
+              {
+                "t": "p",
+                "x": "用户可以对HomeView说话来控制智能家居设备，例如让Siri关上智能百叶窗或启动智能门锁。HomeView还能同时直播最多9路视频画面。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-                "cap": "从左到右：Fitbit Air（配新款金属网眼表带）、Fitbit Edge和Pixel Watch 5。"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+                "cap": "用作智能家居中枢的Apple HomeView。"
               },
               {
                 "t": "p",
-                "x": "它采用胶囊形1.34英寸OLED触控屏，搭配纤薄铝制边框，具备IP68（5 ATM）防护等级，可通过Google Health应用与Android手机或iPhones配合使用，单次充电续航约七天（开启常亮显示约两天）。"
+                "x": "HomeView与Amazon Echo Show等设备竞争，它通过内置摄像头识别使用者并显示其个人资料。用户可将个人资料关联到支持Apple Intelligence的iPhone或iPad，以使用Messages、Calendar、Reminders和FaceTime。Apple表示，Siri请求可以在本地运行，也可以通过Private Cloud Compute运行。"
               },
               {
                 "t": "p",
-                "x": "它能同步显示手机通知，但没有麦克风和扬声器，不支持Gemini交互，也没有NFC。相比Air，它增加了机载GPS，以及来自Pixel Watch的ECG和血氧传感器。"
+                "x": "Liquid Retina（LCD）屏幕亮度范围为0.3至500尼特，可在扬声器底座上方的不锈钢铰链上倾斜。Schneider Home生产的壁挂支架售价60美元起。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
               },
               {
                 "t": "p",
-                "x": "所有这些数据都会输入Google Health应用中由Gemini驱动的聊天机器人Health Coach。Edge附赠三个月Google Health Premium（每月10美元），没有订阅就无法使用AI功能；用户也可以选择关闭Health Coach。"
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Edge售价180美元，今天开启预购，10月27日发货。这是Google首款可维修的健身手环，电池可更换，但用户无法自行更换。"
+                "x": "Apple今天开始接受HomeView预订。该产品将于11月13日上市，售价299美元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fitbit Edge, entre el Air\ny el Pixel Watch 5",
-          "body": "El Fitbit Edge de Google ofrece más que el Fitbit Air, pero no llega a ser un verdadero smartwatch.",
-          "mini_headline": "Fitbit Edge, entre el Air y el Watch",
+          "headline": "La primera pantalla de Apple\nes el HomeView de 299 dólares",
+          "body": "El HomeView de Apple, de 7 pulgadas, abre su preventa a 299 dólares y reconoce con su cámara hasta seis usuarios.",
+          "mini_headline": "Apple HomeView, 299 dólares",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
               },
               {
                 "t": "p",
-                "x": "Google lanza su segundo monitor Fitbit de 2026. El nuevo Fitbit Edge se sitúa justo entre el Pixel Watch 5 y el Fitbit Air: tiene una pantalla compacta y más sensores de salud que el Air, por aproximadamente la mitad del precio del Pixel Watch 5."
+                "x": "Apple abrió hoy la preventa del HomeView, su centro para el hogar inteligente. El HomeView es una pantalla inteligente con altavoz de 7 pulgadas que busca ser el punto de acceso central para que hasta seis miembros de una familia usen y controlen el ecosistema de dispositivos y apps de Apple, además de Siri, el chatbot de IA generativa que está actualmente en beta."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden hablarle al HomeView para controlar dispositivos del hogar inteligente, por ejemplo, pedirle a Siri que cierre las persianas inteligentes o que active las cerraduras inteligentes. El HomeView también puede mostrar en directo hasta nueve señales de video a la vez."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-                "cap": "De izquierda a derecha: Fitbit Air (con la nueva correa de malla metálica), Fitbit Edge y Pixel Watch 5."
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+                "cap": "El Apple HomeView como centro del hogar inteligente."
               },
               {
                 "t": "p",
-                "x": "Tiene una pantalla táctil OLED de 1.34 pulgadas en forma de píldora, dentro de un delgado marco de aluminio con certificación IP68 (5 ATM); funciona con Android o iPhones a través de la app Google Health y su batería dura unos siete días por carga (unos dos con la pantalla siempre activa)."
+                "x": "En competencia con dispositivos como el Amazon Echo Show, el HomeView usa su cámara integrada para identificar quién lo está usando y mostrarle su perfil. Los usuarios pueden vincular su perfil a un iPhone o iPad compatible con Apple Intelligence para acceder a Messages, Calendar, Reminders y FaceTime. Apple indicó que las solicitudes a Siri pueden ejecutarse en el propio dispositivo o mediante Private Cloud Compute."
               },
               {
                 "t": "p",
-                "x": "Replica las notificaciones del teléfono, pero no tiene micrófono ni altavoz, no admite interacciones con Gemini y carece de NFC. Respecto al Air, añade GPS integrado y los sensores de ECG y oxígeno en sangre del Pixel Watch."
+                "x": "La pantalla Liquid Retina (LCD) tiene un rango de brillo de 0,3 a 500 nits y se inclina sobre una bisagra de acero inoxidable situada encima de la base del altavoz. Los soportes de pared fabricados por Schneider Home cuestan desde 60 dólares."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
               },
               {
                 "t": "p",
-                "x": "Todos estos datos alimentan a Health Coach, el chatbot impulsado por Gemini de la app Google Health. El Edge incluye tres meses de Google Health Premium (10 dólares al mes), sin el cual no se obtienen las funciones de IA; Health Coach puede desactivarse si se desea."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-              },
-              {
-                "t": "p",
-                "x": "El Edge cuesta 180 dólares, se puede reservar desde hoy y se envía el 27 de octubre. Es el primer monitor de actividad reparable de Google, con una batería reemplazable que no puede cambiar el propio usuario."
+                "x": "Apple empezó hoy a aceptar reservas del HomeView. Saldrá a la venta el 13 de noviembre por 299 dólares."
               }
             ]
           }
@@ -271,173 +271,173 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Fitbit Edge,\nAir와 Pixel 사이",
-          "body": "Google의 Fitbit Edge는 Air보다 낫지만 스마트워치엔 못 미친다.",
-          "mini_headline": "Fitbit Edge, Air와 Watch 사이",
+          "headline": "Apple 첫 스마트 화면\n299달러 HomeView",
+          "body": "7인치 HomeView가 299달러에 예약을 받고 카메라로 최대 6명을 알아본다.",
+          "mini_headline": "Apple HomeView, 299달러",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
               },
               {
                 "t": "p",
-                "x": "Google이 2026년 두 번째 Fitbit 트래커를 내놓는다. 새 Fitbit Edge는 Pixel Watch 5와 Fitbit Air 사이에 정확히 자리한다. 작은 화면을 갖추고 Air보다 건강 센서가 많으며, 가격은 Pixel Watch 5의 절반 정도다."
+                "x": "Apple이 오늘 스마트홈 허브 HomeView의 예약 판매를 시작했다. HomeView는 7인치 스마트 디스플레이 겸 스피커로, 가족 구성원 최대 6명이 Apple의 기기와 앱, 그리고 현재 베타 단계인 생성형 AI 챗봇 Siri를 한곳에서 이용하고 제어하는 중심 창구가 되는 것을 목표로 한다."
+              },
+              {
+                "t": "p",
+                "x": "사용자는 HomeView에 말을 걸어 스마트홈 기기를 제어할 수 있다. 예를 들어 Siri에게 스마트 블라인드를 닫거나 스마트 잠금장치를 켜 달라고 하면 된다. HomeView는 최대 9개의 영상 피드를 동시에 실시간으로 보여 줄 수도 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-                "cap": "왼쪽부터 Fitbit Air(새 메탈 메시 밴드 장착), Fitbit Edge, Pixel Watch 5."
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+                "cap": "스마트홈 허브로 쓰이는 Apple HomeView."
               },
               {
                 "t": "p",
-                "x": "가는 알루미늄 프레임에 알약 모양의 1.34인치 OLED 터치 디스플레이를 얹었고, IP68(5 ATM) 등급을 받았다. Google Health 앱으로 Android 폰이나 iPhones와 함께 쓸 수 있으며, 한 번 충전하면 약 7일(상시 표시 화면을 켜면 약 2일) 간다."
+                "x": "Amazon Echo Show 같은 기기와 경쟁하는 HomeView는 내장 카메라로 누가 쓰는지 알아보고 그 사람의 프로필을 띄운다. 사용자는 Apple Intelligence를 지원하는 iPhone이나 iPad에 프로필을 연결해 Messages, Calendar, Reminders, FaceTime을 쓸 수 있다. Apple은 Siri 요청을 기기 안에서 처리하거나 Private Cloud Compute를 거쳐 처리할 수 있다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "휴대폰 알림을 그대로 보여주지만 마이크와 스피커가 없고, Gemini 상호작용과 NFC도 지원하지 않는다. Air와 비교하면 기기 자체 GPS와 Pixel Watch의 ECG·혈중 산소 센서가 더해졌다."
+                "x": "Liquid Retina(LCD) 화면의 밝기 범위는 0.3~500니트이며, 스피커 받침 위 스테인리스 스틸 힌지에 달려 기울어진다. Schneider Home이 만든 벽걸이 거치대는 60달러부터다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
               },
               {
                 "t": "p",
-                "x": "이렇게 모은 데이터는 모두 Google Health 앱의 Gemini 기반 챗봇 Health Coach로 들어간다. Edge에는 Google Health Premium(월 10달러) 3개월 이용권이 포함되며, 이것이 없으면 AI 기능을 쓸 수 없다. 원하면 Health Coach를 끌 수도 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Edge의 가격은 180달러로, 오늘부터 예약 주문을 받고 10월 27일 출고된다. Google 최초의 수리 가능한 피트니스 트래커로, 배터리는 교체할 수 있지만 사용자가 직접 바꿀 수는 없다."
+                "x": "Apple은 오늘부터 HomeView 예약 주문을 받기 시작했다. 정식 출시는 11월 13일이며 가격은 299달러다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Fitbit Edgeは\nAirとPixelの間に",
-          "body": "GoogleのFitbit EdgeはAirを上回るが、スマートウォッチには届かない。",
-          "mini_headline": "Fitbit Edge、AirとWatchの間",
+          "headline": "Apple初のスマート画面\n299ドルのHomeView",
+          "body": "7インチのHomeViewが299ドルで予約開始、カメラで最大6人を識別する。",
+          "mini_headline": "Apple HomeView、299ドル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleが2026年2機種目となるFitbitトラッカーを投入する。新しいFitbit EdgeはPixel Watch 5とFitbit Airのちょうど中間に位置し、コンパクトな画面とAirより多い健康センサーを備えながら、価格はPixel Watch 5の約半分だ。"
+                "x": "Appleは本日、スマートホームハブ「HomeView」の予約受付を開始した。HomeViewは7インチのスマートディスプレイ兼スピーカーで、家族最大6人がAppleのデバイスやアプリ、そして現在ベータ版の生成AIチャットボットSiriにアクセスし操作するための中心的な窓口を目指す。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーはHomeViewに話しかけてスマートホーム機器を操作できる。たとえばSiriにスマートブラインドを閉めさせたり、スマートロックを作動させたりできる。HomeViewは最大9本の映像フィードを同時にライブ表示することもできる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-                "cap": "左からFitbit Air(新しいメタルメッシュバンド付き)、Fitbit Edge、Pixel Watch 5。"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+                "cap": "スマートホームハブとして使われるApple HomeView。"
               },
               {
                 "t": "p",
-                "x": "細身のアルミフレームに錠剤型の1.34インチOLEDタッチディスプレイを収め、防水性能はIP68(5 ATM)だ。Google HealthアプリでAndroidやiPhonesと連携でき、1回の充電で約7日(常時表示オンなら約2日)持つ。"
+                "x": "Amazon Echo Showなどの機器と競合するHomeViewは、内蔵カメラで利用者を識別し、その人のプロフィールを表示する。ユーザーはプロフィールをApple Intelligence対応のiPhoneやiPadと連携させ、Messages、Calendar、Reminders、FaceTimeを利用できる。AppleによればSiriへのリクエストは端末上でも、Private Cloud Compute経由でも処理できる。"
               },
               {
                 "t": "p",
-                "x": "スマートフォンの通知を表示できるが、マイクとスピーカーはなく、Geminiとの対話やNFCにも対応しない。Airと比べると、端末内蔵のGPSとPixel Watch由来のECG・血中酸素センサーが加わった。"
+                "x": "Liquid Retina(LCD)画面の輝度は0.3〜500ニトで、スピーカー台座の上にあるステンレススチール製ヒンジで傾けられる。Schneider Home製の壁掛けマウントは60ドルからだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
               },
               {
                 "t": "p",
-                "x": "こうしたデータはすべて、Google HealthアプリのGemini搭載チャットボットHealth Coachに送られる。EdgeにはGoogle Health Premium(月10ドル)の3カ月分が付属し、これがないとAI機能は使えない。Health Coachは必要に応じて無効にできる。"
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Edgeの価格は180ドルで、本日予約受付を開始し、10月27日に出荷される。Google初の修理可能なフィットネストラッカーで、バッテリーは交換可能だがユーザー自身では交換できない。"
+                "x": "Appleは本日HomeViewの予約受付を始めた。発売は11月13日で、価格は299ドルだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Fitbit Edge\n介于Air与Pixel之间",
-          "body": "Google的Fitbit Edge比Air功能更多，但还算不上真正的智能手表。",
-          "mini_headline": "Fitbit Edge，介于Air与Watch之间",
+          "headline": "Apple首款智能显示屏\nHomeView售299美元",
+          "body": "7英寸的HomeView开放299美元预订，可用摄像头识别最多6名用户。",
+          "mini_headline": "Apple HomeView，299美元",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
               },
               {
                 "t": "p",
-                "x": "Google推出2026年第二款Fitbit手环。新款Fitbit Edge的定位恰好介于Pixel Watch 5和Fitbit Air之间，配备小巧屏幕，健康传感器比Air更多，售价却只有Pixel Watch 5的一半左右。"
+                "x": "Apple今天开放了智能家居中枢HomeView的预订。HomeView是一款7英寸智能显示屏兼音箱，旨在成为家庭中最多6名成员访问和控制Apple设备、应用以及目前仍处于测试阶段的生成式AI聊天机器人Siri的核心入口。"
+              },
+              {
+                "t": "p",
+                "x": "用户可以对HomeView说话来控制智能家居设备，例如让Siri关上智能百叶窗或启动智能门锁。HomeView还能同时直播最多9路视频画面。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-                "cap": "从左到右：Fitbit Air（配新款金属网眼表带）、Fitbit Edge和Pixel Watch 5。"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+                "cap": "用作智能家居中枢的Apple HomeView。"
               },
               {
                 "t": "p",
-                "x": "它采用胶囊形1.34英寸OLED触控屏，搭配纤薄铝制边框，具备IP68（5 ATM）防护等级，可通过Google Health应用与Android手机或iPhones配合使用，单次充电续航约七天（开启常亮显示约两天）。"
+                "x": "HomeView与Amazon Echo Show等设备竞争，它通过内置摄像头识别使用者并显示其个人资料。用户可将个人资料关联到支持Apple Intelligence的iPhone或iPad，以使用Messages、Calendar、Reminders和FaceTime。Apple表示，Siri请求可以在本地运行，也可以通过Private Cloud Compute运行。"
               },
               {
                 "t": "p",
-                "x": "它能同步显示手机通知，但没有麦克风和扬声器，不支持Gemini交互，也没有NFC。相比Air，它增加了机载GPS，以及来自Pixel Watch的ECG和血氧传感器。"
+                "x": "Liquid Retina（LCD）屏幕亮度范围为0.3至500尼特，可在扬声器底座上方的不锈钢铰链上倾斜。Schneider Home生产的壁挂支架售价60美元起。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
               },
               {
                 "t": "p",
-                "x": "所有这些数据都会输入Google Health应用中由Gemini驱动的聊天机器人Health Coach。Edge附赠三个月Google Health Premium（每月10美元），没有订阅就无法使用AI功能；用户也可以选择关闭Health Coach。"
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Edge售价180美元，今天开启预购，10月27日发货。这是Google首款可维修的健身手环，电池可更换，但用户无法自行更换。"
+                "x": "Apple今天开始接受HomeView预订。该产品将于11月13日上市，售价299美元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fitbit Edge, entre el Air\ny el Pixel Watch 5",
-          "body": "El Fitbit Edge de Google ofrece más que el Fitbit Air, pero no llega a ser un verdadero smartwatch.",
-          "mini_headline": "Fitbit Edge, entre el Air y el Watch",
+          "headline": "La primera pantalla de Apple\nes el HomeView de 299 dólares",
+          "body": "El HomeView de Apple, de 7 pulgadas, abre su preventa a 299 dólares y reconoce con su cámara hasta seis usuarios.",
+          "mini_headline": "Apple HomeView, 299 dólares",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive.jpg"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
               },
               {
                 "t": "p",
-                "x": "Google lanza su segundo monitor Fitbit de 2026. El nuevo Fitbit Edge se sitúa justo entre el Pixel Watch 5 y el Fitbit Air: tiene una pantalla compacta y más sensores de salud que el Air, por aproximadamente la mitad del precio del Pixel Watch 5."
+                "x": "Apple abrió hoy la preventa del HomeView, su centro para el hogar inteligente. El HomeView es una pantalla inteligente con altavoz de 7 pulgadas que busca ser el punto de acceso central para que hasta seis miembros de una familia usen y controlen el ecosistema de dispositivos y apps de Apple, además de Siri, el chatbot de IA generativa que está actualmente en beta."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden hablarle al HomeView para controlar dispositivos del hogar inteligente, por ejemplo, pedirle a Siri que cierre las persianas inteligentes o que active las cerraduras inteligentes. El HomeView también puede mostrar en directo hasta nueve señales de video a la vez."
               },
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png",
-                "cap": "De izquierda a derecha: Fitbit Air (con la nueva correa de malla metálica), Fitbit Edge y Pixel Watch 5."
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+                "cap": "El Apple HomeView como centro del hogar inteligente."
               },
               {
                 "t": "p",
-                "x": "Tiene una pantalla táctil OLED de 1.34 pulgadas en forma de píldora, dentro de un delgado marco de aluminio con certificación IP68 (5 ATM); funciona con Android o iPhones a través de la app Google Health y su batería dura unos siete días por carga (unos dos con la pantalla siempre activa)."
+                "x": "En competencia con dispositivos como el Amazon Echo Show, el HomeView usa su cámara integrada para identificar quién lo está usando y mostrarle su perfil. Los usuarios pueden vincular su perfil a un iPhone o iPad compatible con Apple Intelligence para acceder a Messages, Calendar, Reminders y FaceTime. Apple indicó que las solicitudes a Siri pueden ejecutarse en el propio dispositivo o mediante Private Cloud Compute."
               },
               {
                 "t": "p",
-                "x": "Replica las notificaciones del teléfono, pero no tiene micrófono ni altavoz, no admite interacciones con Gemini y carece de NFC. Respecto al Air, añade GPS integrado y los sensores de ECG y oxígeno en sangre del Pixel Watch."
+                "x": "La pantalla Liquid Retina (LCD) tiene un rango de brillo de 0,3 a 500 nits y se inclina sobre una bisagra de acero inoxidable situada encima de la base del altavoz. Los soportes de pared fabricados por Schneider Home cuestan desde 60 dólares."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
               },
               {
                 "t": "p",
-                "x": "Todos estos datos alimentan a Health Coach, el chatbot impulsado por Gemini de la app Google Health. El Edge incluye tres meses de Google Health Premium (10 dólares al mes), sin el cual no se obtienen las funciones de IA; Health Coach puede desactivarse si se desea."
-              },
-              {
-                "t": "video",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GoogleFitbitEdgeVideo-opt.mp4"
-              },
-              {
-                "t": "p",
-                "x": "El Edge cuesta 180 dólares, se puede reservar desde hoy y se envía el 27 de octubre. Es el primer monitor de actividad reparable de Google, con una batería reemplazable que no puede cambiar el propio usuario."
+                "x": "Apple empezó hoy a aceptar reservas del HomeView. Saldrá a la venta el 13 de noviembre por 299 dólares."
               }
             ]
           }
@@ -445,15 +445,15 @@
       }
     },
     {
-      "id": "gadgets-translate-transcript-autosave",
+      "id": "gadgets-samsung-galaxy-glasses",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "번역 대화 자동 저장,\n스마트 글래스는 예외",
-      "body": "Live Translate 기록이 자동 저장되지만 스마트 글래스를 연결하면 꺼진다.",
-      "mini_headline": "Translate 기록 자동 저장, 글래스는 제외",
+      "headline": "유출로 본 Samsung\n초경량 스마트 안경",
+      "body": "SammyGuru에 따르면 Samsung 안경은 41그램이고 11월에 나온다.",
+      "mini_headline": "Samsung 초경량 안경 유출",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -461,131 +461,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-            "cap": "Google Translate 홈 화면"
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+            "cap": "세 가지 색상의 Warby Parker 스타일 Samsung 스마트 안경 이미지."
           },
           {
             "t": "p",
-            "x": "Google Translate가 모바일 사용자를 대상으로 Live Translate 설정의 “Auto-save transcript” 토글을 시험해 왔다. 2026년 10월 12일 업데이트: Google이 Google Translate v10.39.34.995726622.4와 함께 Live Translate 기록 자동 저장 옵션을 배포하는 중이다."
+            "x": "Samsung은 첫 스마트 안경을 11월에야 공개하지만 생김새와 무게는 이미 드러났다. 테크 매체 SammyGuru 보도에 따르면 이 안경은 여러 스타일과 색상으로 나오고 무게는 41그램에 불과하다."
           },
           {
             "t": "p",
-            "x": "Android Authority가 9월 29일 공개한 코드 분석을 보면, 스마트 글래스를 연결해 쓰는 동안에는 개인정보 보호를 위해 기록 저장이 아예 꺼진다. 스마트 글래스에서는 음성 명령으로 번역을 시작하고 터치패드를 스와이프해 세션을 끝낸다."
+            "x": "Samsung은 이 스마트 안경을 다음 달 내놓을 것으로 보이며 이름은 Galaxy Glasses가 유력하다. 11월부터 US(미국) 소비자는 Warby Parker와 Gentle Monster 웹사이트, US 내 Samsung Experience Stores에서 살 수 있다. 가격은 아직 공개되지 않았다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+            "cap": "Samsung 스마트 안경의 Gentle Monster 스타일"
+          },
+          {
+            "t": "p",
+            "x": "표준 렌즈 기준 무게는 41그램으로, 가장 가벼운 Meta Ray-Ban 모델의 43그램보다 가볍다. Snapdragon AR1 Gen 1 칩, 2 GB RAM, 64 GB 저장공간, 12 MP 카메라, 오픈형 스피커 2개, 마이크 4개가 들어간다. Meta Ray-Bans처럼 화면은 없다."
+          },
+          {
+            "t": "p",
+            "x": "Samsung 스마트 안경은 Google Gemini AI를 쓰고 Android XR 운영체제에서 돌아간다. 착용자는 사진·영상 촬영과 통화, 문자 전송, 번역, 턴바이턴 길 안내는 물론 음악과 팟캐스트 청취도 할 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Translate auto-saves chats,\nexcept on smart glasses",
-          "body": "Google Translate is rolling out auto-saved Live Translate transcripts, switched off when smart glasses connect.",
-          "mini_headline": "Translate saves transcripts, not on glasses",
+          "headline": "Leak shows Samsung’s\nsuperlight smart glasses",
+          "body": "A SammyGuru report says Samsung’s smart glasses, possibly called Galaxy Glasses, weigh 41 grams and launch in November.",
+          "mini_headline": "Samsung’s superlight glasses, leaked",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-                "cap": "Google Translate home screen"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+                "cap": "Image of Samsung's smart glasses in the Warby Parker style with three colors."
               },
               {
                 "t": "p",
-                "x": "Google Translate has been testing an “Auto-save transcript” toggle in Live Translate settings for mobile users. Update, October 12, 2026: Google is rolling out the auto-save transcript option for Live Translate with Google Translate v10.39.34.995726622.4."
+                "x": "Samsung won’t unveil its first smart glasses until November, but now we know what they will look like — and how light they will be. They’ll come in a variety of styles and colors and weigh only 41 grams, according to a report from tech news outlet SammyGuru."
               },
               {
                 "t": "p",
-                "x": "Android Authority's September 29 teardown found that transcript saving will be completely disabled when smart glasses are connected and in use, to protect privacy. Users will be able to use voice commands to start translation on smart glasses, while a swipe on the touchpad will end the session."
+                "x": "Samsung is expected to launch the smart glasses, possibly called Galaxy Glasses, next month. In November, US customers can buy them at the Warby Parker and Gentle Monster websites and at Samsung Experience Stores in the US. No prices have been announced."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+                "cap": "Gentle Monster style of Samsung smart glasses"
+              },
+              {
+                "t": "p",
+                "x": "The glasses will weigh 41 grams with standard lenses, lighter than the 43 grams for the lightest Meta Ray-Ban model. They’ll include a Snapdragon AR1 Gen 1 chip, 2 GB of RAM, 64 GB of storage, a 12 MP camera, two open-ear speakers and four microphones. Like Meta Ray-Bans, there is no visual display."
+              },
+              {
+                "t": "p",
+                "x": "Samsung’s smart glasses will use Google Gemini AI and run on the Android XR operating system, letting wearers take pictures and videos, make calls, send texts, translate, get turn-by-turn navigation and listen to songs and podcasts."
               }
             ]
           }
         },
         "ko": {
-          "headline": "번역 대화 자동 저장,\n스마트 글래스는 예외",
-          "body": "Live Translate 기록이 자동 저장되지만 스마트 글래스를 연결하면 꺼진다.",
-          "mini_headline": "Translate 기록 자동 저장, 글래스는 제외",
+          "headline": "유출로 본 Samsung\n초경량 스마트 안경",
+          "body": "SammyGuru에 따르면 Samsung 안경은 41그램이고 11월에 나온다.",
+          "mini_headline": "Samsung 초경량 안경 유출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-                "cap": "Google Translate 홈 화면"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+                "cap": "세 가지 색상의 Warby Parker 스타일 Samsung 스마트 안경 이미지."
               },
               {
                 "t": "p",
-                "x": "Google Translate가 모바일 사용자를 대상으로 Live Translate 설정의 “Auto-save transcript” 토글을 시험해 왔다. 2026년 10월 12일 업데이트: Google이 Google Translate v10.39.34.995726622.4와 함께 Live Translate 기록 자동 저장 옵션을 배포하는 중이다."
+                "x": "Samsung은 첫 스마트 안경을 11월에야 공개하지만 생김새와 무게는 이미 드러났다. 테크 매체 SammyGuru 보도에 따르면 이 안경은 여러 스타일과 색상으로 나오고 무게는 41그램에 불과하다."
               },
               {
                 "t": "p",
-                "x": "Android Authority가 9월 29일 공개한 코드 분석을 보면, 스마트 글래스를 연결해 쓰는 동안에는 개인정보 보호를 위해 기록 저장이 아예 꺼진다. 스마트 글래스에서는 음성 명령으로 번역을 시작하고 터치패드를 스와이프해 세션을 끝낸다."
+                "x": "Samsung은 이 스마트 안경을 다음 달 내놓을 것으로 보이며 이름은 Galaxy Glasses가 유력하다. 11월부터 US(미국) 소비자는 Warby Parker와 Gentle Monster 웹사이트, US 내 Samsung Experience Stores에서 살 수 있다. 가격은 아직 공개되지 않았다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+                "cap": "Samsung 스마트 안경의 Gentle Monster 스타일"
+              },
+              {
+                "t": "p",
+                "x": "표준 렌즈 기준 무게는 41그램으로, 가장 가벼운 Meta Ray-Ban 모델의 43그램보다 가볍다. Snapdragon AR1 Gen 1 칩, 2 GB RAM, 64 GB 저장공간, 12 MP 카메라, 오픈형 스피커 2개, 마이크 4개가 들어간다. Meta Ray-Bans처럼 화면은 없다."
+              },
+              {
+                "t": "p",
+                "x": "Samsung 스마트 안경은 Google Gemini AI를 쓰고 Android XR 운영체제에서 돌아간다. 착용자는 사진·영상 촬영과 통화, 문자 전송, 번역, 턴바이턴 길 안내는 물론 음악과 팟캐스트 청취도 할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "翻訳の会話を自動保存、\nスマートグラスは除外",
-          "body": "Live Translateの記録が自動保存されるが、スマートグラス接続時は無効になる。",
-          "mini_headline": "Translateが記録を自動保存、グラスは対象外",
+          "headline": "Samsungの超軽量\nスマートグラスが流出",
+          "body": "SammyGuruによると、Samsungのスマートグラスは41グラムで11月発売だ。",
+          "mini_headline": "Samsungの超軽量グラスが流出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-                "cap": "Google Translateのホーム画面"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+                "cap": "3色のWarby ParkerスタイルのSamsungスマートグラスの画像。"
               },
               {
                 "t": "p",
-                "x": "Google Translateは、モバイルユーザー向けにLive Translateの設定で「Auto-save transcript」トグルをテストしてきた。2026年10月12日更新：GoogleはGoogle Translate v10.39.34.995726622.4で、Live Translateの記録自動保存オプションを配信している。"
+                "x": "Samsungが初のスマートグラスを公開するのは11月だが、その外観と軽さが明らかになった。テックニュースメディアSammyGuruの報道によれば、さまざまなスタイルとカラーで展開され、重さはわずか41グラムだという。"
               },
               {
                 "t": "p",
-                "x": "Android Authorityが9月29日に行った解析によると、スマートグラスを接続して使用している間は、プライバシー保護のため記録の保存が完全に無効になる。スマートグラスでは音声コマンドで翻訳を開始でき、タッチパッドをスワイプするとセッションが終了する。"
+                "x": "Samsungは、Galaxy Glassesと呼ばれる可能性があるこのスマートグラスを来月発売する見込みだ。11月にはUS(米国)の顧客がWarby ParkerとGentle MonsterのウェブサイトやUS国内のSamsung Experience Storesで購入できる。価格は発表されていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+                "cap": "Gentle MonsterスタイルのSamsungスマートグラス"
+              },
+              {
+                "t": "p",
+                "x": "標準レンズ装着時の重さは41グラムで、Meta Ray-Banの最軽量モデルの43グラムより軽い。Snapdragon AR1 Gen 1チップ、2 GBのRAM、64 GBのストレージ、12 MPカメラ、オープンイヤースピーカー2基、マイク4基を搭載する。Meta Ray-Bansと同様、視覚的なディスプレイはない。"
+              },
+              {
+                "t": "p",
+                "x": "SamsungのスマートグラスはGoogle Gemini AIを使い、Android XRオペレーティングシステムで動作する。装着者は写真や動画の撮影、通話、テキスト送信、翻訳、ターンバイターンのナビゲーション、音楽やポッドキャストの再生ができる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "翻译自动保存对话，\n智能眼镜除外",
-          "body": "Translate推出Live Translate记录自动保存，连接智能眼镜时关闭。",
-          "mini_headline": "Translate自动保存记录，眼镜除外",
+          "headline": "Samsung超轻智能眼镜\n外观遭曝光",
+          "body": "据SammyGuru报道，Samsung智能眼镜重41克，将于11月推出。",
+          "mini_headline": "Samsung超轻眼镜曝光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-                "cap": "Google Translate主屏幕"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+                "cap": "三种颜色的Warby Parker风格Samsung智能眼镜图片。"
               },
               {
                 "t": "p",
-                "x": "Google Translate一直在为移动端用户测试Live Translate设置中的“Auto-save transcript”开关。2026年10月12日更新：Google正随Google Translate v10.39.34.995726622.4推出Live Translate的记录自动保存选项。"
+                "x": "Samsung要到11月才会发布首款智能眼镜，但现在我们已经知道它的外观以及有多轻。据科技新闻网站SammyGuru报道，这款眼镜将提供多种款式和颜色，重量仅41克。"
               },
               {
                 "t": "p",
-                "x": "根据Android Authority 9月29日的拆解分析，为保护隐私，连接并使用智能眼镜时，记录保存功能将完全停用。用户可以在智能眼镜上用语音命令开始翻译，在触控板上滑动即可结束会话。"
+                "x": "预计Samsung将于下个月推出这款可能名为Galaxy Glasses的智能眼镜。11月，US（美国）消费者可在Warby Parker和Gentle Monster官网以及US境内的Samsung Experience Stores购买。价格尚未公布。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+                "cap": "Gentle Monster风格的Samsung智能眼镜"
+              },
+              {
+                "t": "p",
+                "x": "配标准镜片时，这款眼镜重41克，比最轻的Meta Ray-Ban型号的43克更轻。它搭载Snapdragon AR1 Gen 1芯片、2 GB RAM、64 GB存储、12 MP摄像头、两个开放式扬声器和四个麦克风。与Meta Ray-Bans一样，它没有可视显示屏。"
+              },
+              {
+                "t": "p",
+                "x": "Samsung智能眼镜将使用Google Gemini AI，运行Android XR操作系统，佩戴者可以拍照和录像、打电话、发短信、翻译、获取逐向导航，以及收听歌曲和播客。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Translate guarda los chats,\nsalvo en gafas inteligentes",
-          "body": "Google Translate guarda ya las transcripciones de Live Translate, pero no con gafas inteligentes conectadas.",
-          "mini_headline": "Translate guarda transcripciones, no en gafas",
+          "headline": "Filtran las gafas inteligentes\nsuperligeras de Samsung",
+          "body": "Según SammyGuru, las gafas de Samsung, quizá llamadas Galaxy Glasses, pesan 41 gramos y llegan en noviembre.",
+          "mini_headline": "Filtradas las gafas superligeras de Samsung",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-                "cap": "Pantalla de inicio de Google Translate"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+                "cap": "Imagen de las gafas inteligentes de Samsung con estilo Warby Parker en tres colores."
               },
               {
                 "t": "p",
-                "x": "Google Translate ha estado probando un interruptor “Auto-save transcript” en los ajustes de Live Translate para usuarios móviles. Actualización, 12 de octubre de 2026: Google está desplegando la opción de guardado automático de transcripciones de Live Translate con Google Translate v10.39.34.995726622.4."
+                "x": "Samsung no presentará sus primeras gafas inteligentes hasta noviembre, pero ya sabemos cómo serán y cuánto pesarán. Según un informe del medio de noticias tecnológicas SammyGuru, llegarán en varios estilos y colores y pesarán solo 41 gramos."
               },
               {
                 "t": "p",
-                "x": "El análisis del código que Android Authority publicó el 29 de septiembre reveló que el guardado de transcripciones se desactivará por completo mientras haya gafas inteligentes conectadas y en uso, para proteger la privacidad. Los usuarios podrán iniciar la traducción en las gafas con comandos de voz y terminar la sesión deslizando el dedo por el panel táctil."
+                "x": "Se espera que Samsung lance el mes que viene estas gafas inteligentes, que podrían llamarse Galaxy Glasses. En noviembre, los clientes en Estados Unidos (US) podrán comprarlas en los sitios web de Warby Parker y Gentle Monster y en las Samsung Experience Stores de US. No se han anunciado precios."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+                "cap": "Gafas inteligentes de Samsung con estilo Gentle Monster"
+              },
+              {
+                "t": "p",
+                "x": "Con lentes estándar, las gafas pesarán 41 gramos, menos que los 43 gramos del modelo más ligero de Meta Ray-Ban. Incluirán un chip Snapdragon AR1 Gen 1, 2 GB de RAM, 64 GB de almacenamiento, una cámara de 12 MP, dos altavoces abiertos y cuatro micrófonos. Al igual que las Meta Ray-Bans, no tienen pantalla."
+              },
+              {
+                "t": "p",
+                "x": "Las gafas inteligentes de Samsung usarán Google Gemini AI y funcionarán con el sistema operativo Android XR, lo que permitirá a quienes las lleven tomar fotos y videos, hacer llamadas, enviar mensajes, traducir, recibir navegación paso a paso y escuchar canciones y podcasts."
               }
             ]
           }
@@ -593,93 +671,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "번역 대화 자동 저장,\n스마트 글래스는 예외",
-          "body": "Live Translate 기록이 자동 저장되며 스마트 글래스 연결 땐 꺼진다.",
-          "mini_headline": "Translate 기록 자동 저장, 글래스는 제외",
+          "headline": "유출로 본 Samsung\n초경량 스마트 안경",
+          "body": "SammyGuru에 따르면 Samsung 안경은 41그램이고 11월에 나온다.",
+          "mini_headline": "Samsung 초경량 안경 유출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-                "cap": "Google Translate 홈 화면"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+                "cap": "세 가지 색상의 Warby Parker 스타일 Samsung 스마트 안경 이미지."
               },
               {
                 "t": "p",
-                "x": "Google Translate는 모바일 사용자를 대상으로 Live Translate 설정에서 “Auto-save transcript” 토글을 시험해 왔다. 2026년 10월 12일 업데이트: Google이 Google Translate v10.39.34.995726622.4와 함께 Live Translate의 기록 자동 저장 옵션을 배포하고 있다."
+                "x": "Samsung은 첫 스마트 안경을 11월에야 공개하지만, 이제 그 생김새와 무게를 알 수 있게 됐다. 테크 매체 SammyGuru의 보도에 따르면 이 안경은 다양한 스타일과 색상으로 나오며 무게는 41그램에 불과하다."
               },
               {
                 "t": "p",
-                "x": "Android Authority가 9월 29일 공개한 코드 분석에 따르면, 스마트 글래스를 연결해 사용하는 동안에는 개인정보 보호를 위해 기록 저장이 완전히 꺼진다. 스마트 글래스에서는 음성 명령으로 번역을 시작하고, 터치패드를 스와이프해 세션을 끝낼 수 있다."
+                "x": "Samsung은 Galaxy Glasses라는 이름이 유력한 이 스마트 안경을 다음 달 출시할 것으로 보인다. 11월부터 US(미국) 소비자는 Warby Parker와 Gentle Monster 웹사이트, 그리고 US 내 Samsung Experience Stores에서 구매할 수 있다. 가격은 아직 공개되지 않았다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+                "cap": "Samsung 스마트 안경의 Gentle Monster 스타일"
+              },
+              {
+                "t": "p",
+                "x": "표준 렌즈 기준 무게는 41그램으로, 가장 가벼운 Meta Ray-Ban 모델의 43그램보다 가볍다. Snapdragon AR1 Gen 1 칩, 2 GB RAM, 64 GB 저장공간, 12 MP 카메라, 오픈형 스피커 2개, 마이크 4개를 갖춘다. Meta Ray-Bans처럼 화면은 없다."
+              },
+              {
+                "t": "p",
+                "x": "Samsung 스마트 안경은 Google Gemini AI를 쓰고 Android XR 운영체제로 작동한다. 착용자는 사진과 영상 촬영, 통화, 문자 전송, 번역, 턴바이턴 길 안내, 음악과 팟캐스트 청취를 할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "翻訳の会話を自動保存、\nスマートグラスは除外",
-          "body": "Live Translateの記録が自動保存されるが、スマートグラス接続時は無効になる。",
-          "mini_headline": "Translateが記録を自動保存、グラスは対象外",
+          "headline": "Samsungの超軽量\nスマートグラスが流出",
+          "body": "SammyGuruによると、Samsungのスマートグラスは41グラムで11月発売だ。",
+          "mini_headline": "Samsungの超軽量グラスが流出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-                "cap": "Google Translateのホーム画面"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+                "cap": "3色のWarby ParkerスタイルのSamsungスマートグラスの画像。"
               },
               {
                 "t": "p",
-                "x": "Google Translateは、モバイルユーザー向けにLive Translateの設定で「Auto-save transcript」トグルをテストしてきた。2026年10月12日更新：GoogleはGoogle Translate v10.39.34.995726622.4で、Live Translateの記録自動保存オプションを配信している。"
+                "x": "Samsungが初のスマートグラスを公開するのは11月だが、その外観と軽さが明らかになった。テックニュースメディアSammyGuruの報道によれば、さまざまなスタイルとカラーで展開され、重さはわずか41グラムだという。"
               },
               {
                 "t": "p",
-                "x": "Android Authorityが9月29日に行った解析によると、スマートグラスを接続して使用している間は、プライバシー保護のため記録の保存が完全に無効になる。スマートグラスでは音声コマンドで翻訳を開始でき、タッチパッドをスワイプするとセッションが終了する。"
+                "x": "Samsungは、Galaxy Glassesと呼ばれる可能性があるこのスマートグラスを来月発売する見込みだ。11月にはUS(米国)の顧客がWarby ParkerとGentle MonsterのウェブサイトやUS国内のSamsung Experience Storesで購入できる。価格は発表されていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+                "cap": "Gentle MonsterスタイルのSamsungスマートグラス"
+              },
+              {
+                "t": "p",
+                "x": "標準レンズ装着時の重さは41グラムで、Meta Ray-Banの最軽量モデルの43グラムより軽い。Snapdragon AR1 Gen 1チップ、2 GBのRAM、64 GBのストレージ、12 MPカメラ、オープンイヤースピーカー2基、マイク4基を搭載する。Meta Ray-Bansと同様、視覚的なディスプレイはない。"
+              },
+              {
+                "t": "p",
+                "x": "SamsungのスマートグラスはGoogle Gemini AIを使い、Android XRオペレーティングシステムで動作する。装着者は写真や動画の撮影、通話、テキスト送信、翻訳、ターンバイターンのナビゲーション、音楽やポッドキャストの再生ができる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "翻译自动保存对话，\n智能眼镜除外",
-          "body": "Translate推出Live Translate记录自动保存，连接智能眼镜时关闭。",
-          "mini_headline": "Translate自动保存记录，眼镜除外",
+          "headline": "Samsung超轻智能眼镜\n外观遭曝光",
+          "body": "据SammyGuru报道，Samsung智能眼镜重41克，将于11月推出。",
+          "mini_headline": "Samsung超轻眼镜曝光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-                "cap": "Google Translate主屏幕"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+                "cap": "三种颜色的Warby Parker风格Samsung智能眼镜图片。"
               },
               {
                 "t": "p",
-                "x": "Google Translate一直在为移动端用户测试Live Translate设置中的“Auto-save transcript”开关。2026年10月12日更新：Google正随Google Translate v10.39.34.995726622.4推出Live Translate的记录自动保存选项。"
+                "x": "Samsung要到11月才会发布首款智能眼镜，但现在我们已经知道它的外观以及有多轻。据科技新闻网站SammyGuru报道，这款眼镜将提供多种款式和颜色，重量仅41克。"
               },
               {
                 "t": "p",
-                "x": "根据Android Authority 9月29日的拆解分析，为保护隐私，连接并使用智能眼镜时，记录保存功能将完全停用。用户可以在智能眼镜上用语音命令开始翻译，在触控板上滑动即可结束会话。"
+                "x": "预计Samsung将于下个月推出这款可能名为Galaxy Glasses的智能眼镜。11月，US（美国）消费者可在Warby Parker和Gentle Monster官网以及US境内的Samsung Experience Stores购买。价格尚未公布。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+                "cap": "Gentle Monster风格的Samsung智能眼镜"
+              },
+              {
+                "t": "p",
+                "x": "配标准镜片时，这款眼镜重41克，比最轻的Meta Ray-Ban型号的43克更轻。它搭载Snapdragon AR1 Gen 1芯片、2 GB RAM、64 GB存储、12 MP摄像头、两个开放式扬声器和四个麦克风。与Meta Ray-Bans一样，它没有可视显示屏。"
+              },
+              {
+                "t": "p",
+                "x": "Samsung智能眼镜将使用Google Gemini AI，运行Android XR操作系统，佩戴者可以拍照和录像、打电话、发短信、翻译、获取逐向导航，以及收听歌曲和播客。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Translate guarda los chats,\nsalvo en gafas inteligentes",
-          "body": "Google Translate guarda ya las transcripciones de Live Translate, pero no con gafas inteligentes conectadas.",
-          "mini_headline": "Translate guarda transcripciones, no en gafas",
+          "headline": "Filtran las gafas inteligentes\nsuperligeras de Samsung",
+          "body": "Según SammyGuru, las gafas de Samsung, quizá llamadas Galaxy Glasses, pesan 41 gramos y llegan en noviembre.",
+          "mini_headline": "Filtradas las gafas superligeras de Samsung",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/Google-Translate-home-screen.jpg",
-                "cap": "Pantalla de inicio de Google Translate"
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
+                "cap": "Imagen de las gafas inteligentes de Samsung con estilo Warby Parker en tres colores."
               },
               {
                 "t": "p",
-                "x": "Google Translate ha estado probando un interruptor “Auto-save transcript” en los ajustes de Live Translate para usuarios móviles. Actualización, 12 de octubre de 2026: Google está desplegando la opción de guardado automático de transcripciones de Live Translate con Google Translate v10.39.34.995726622.4."
+                "x": "Samsung no presentará sus primeras gafas inteligentes hasta noviembre, pero ya sabemos cómo serán y cuánto pesarán. Según un informe del medio de noticias tecnológicas SammyGuru, llegarán en varios estilos y colores y pesarán solo 41 gramos."
               },
               {
                 "t": "p",
-                "x": "El análisis del código que Android Authority publicó el 29 de septiembre reveló que el guardado de transcripciones se desactivará por completo mientras haya gafas inteligentes conectadas y en uso, para proteger la privacidad. Los usuarios podrán iniciar la traducción en las gafas con comandos de voz y terminar la sesión deslizando el dedo por el panel táctil."
+                "x": "Se espera que Samsung lance el mes que viene estas gafas inteligentes, que podrían llamarse Galaxy Glasses. En noviembre, los clientes en Estados Unidos (US) podrán comprarlas en los sitios web de Warby Parker y Gentle Monster y en las Samsung Experience Stores de US. No se han anunciado precios."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
+                "cap": "Gafas inteligentes de Samsung con estilo Gentle Monster"
+              },
+              {
+                "t": "p",
+                "x": "Con lentes estándar, las gafas pesarán 41 gramos, menos que los 43 gramos del modelo más ligero de Meta Ray-Ban. Incluirán un chip Snapdragon AR1 Gen 1, 2 GB de RAM, 64 GB de almacenamiento, una cámara de 12 MP, dos altavoces abiertos y cuatro micrófonos. Al igual que las Meta Ray-Bans, no tienen pantalla."
+              },
+              {
+                "t": "p",
+                "x": "Las gafas inteligentes de Samsung usarán Google Gemini AI y funcionarán con el sistema operativo Android XR, lo que permitirá a quienes las lleven tomar fotos y videos, hacer llamadas, enviar mensajes, traducir, recibir navegación paso a paso y escuchar canciones y podcasts."
               }
             ]
           }
@@ -687,15 +817,15 @@
       }
     },
     {
-      "id": "gadgets-googlebook-os-review",
+      "id": "gadgets-rayban-meta-listening",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Googlebook OS,\n스마트폰 이후의 PC",
-      "body": "9to5Google은 Googlebook OS를 스마트폰 이후의 PC로 평했다.",
-      "mini_headline": "Googlebook OS 리뷰",
+      "headline": "Ray-Ban Meta가\n호출어 없이 녹음했나",
+      "body": "Ray-Ban Meta 무단 녹음 주장에 Meta는 문제를 해결했다고 밝혔다.",
+      "mini_headline": "Ray-Ban Meta 무단 녹음 주장",
       "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/12/googlebook-os-review/",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -703,221 +833,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+            "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성"
           },
           {
             "t": "p",
-            "x": "Windows 8부터 iPad 이후 Mac이 전체 화면 앱을 들인 시기까지, 터치 시대의 교훈과 장점을 PCs(개인용 컴퓨터)로 옮기려던 시도는 하나같이 실패했다. 9to5Google 리뷰어는 Googlebook OS를 일주일 넘게 써 보고, Android 스마트폰 세대를 위한 데스크톱 OS의 시작이지만 첫 버전은 아직 거칠다고 평한다."
+            "x": "업데이트: Meta는 Android Authority의 논평 요청에 이렇게 답했다. “이 문제는 해결됐습니다. 사용자는 언제든 설정에서 Meta AI와의 상호작용 음성 기록을 관리하고 검토하고 삭제할 수 있습니다.”"
+          },
+          {
+            "t": "p",
+            "x": "한 Ray-Ban Meta 사용자는 Reddit 스레드 두 곳에서 2세대와 3세대 모델에 걸친 안경 세 개가 “Hey Meta” 호출어 없이 일상 대화를 녹음했다고 주장했다. “Respond without Hey Meta” 설정을 꺼 두었는데도 이 대화는 Meta AI 앱에 저장된 음성 녹음과 텍스트 기록으로 남아 있었다. 그는 최근 펌웨어 업데이트 뒤부터 이런 일이 생겼다고 말한다."
           },
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+            "cap": "Meta Ray Ban 안경 녹음 활동 페이지"
           },
           {
             "t": "p",
-            "x": "Googlebook OS는 겉보기엔 ChromeOS 같은데 막상 써 보면 Android에 가깝다. Chrome은 Android 버전 기반으로 확장 프로그램, 세로 탭, Gemini in Chrome 사이드 패널까지 전부 지원하지만 1.0치고는 기능이 빈약하게 느껴진다."
+            "x": "댓글에서도 여럿이 Meta AI를 부르지 않았는데 내부 표시등이 켜지는 등 설명하기 어려운 비슷한 일을 겪었다고 했다. 다만 제보는 아직 많지 않다. Android Authority도 이 현상을 직접 재현하지 못했고 문제가 광범위하다는 증거도 없다."
           },
           {
             "t": "p",
-            "x": "Magic Pointer는 사실상 휴대폰의 Gemini 오버레이다. 여기에 Circle to Search까지 들어가 비슷한 기능이 두 개가 됐다. 더 쓸모 있는 AI 기능은 F13 키에 할당된 Rambler 음성 받아쓰기이고, Create My Widget은 생성형 UI, 즉 “컴퓨팅의 미래”를 가져온다."
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-          },
-          {
-            "t": "p",
-            "x": "10년 묵은 앱 부족 문제는 대부분 그대로이고, Linux 앱 지원 같은 기능이 빠진 건 ChromeOS보다 뒷걸음질한 부분이다. 그래도 일반 사용자에게 치명적인 결함은 없고, 앞으로 업데이트로 못 고칠 근본 문제도 없다."
+            "x": "올해 초 Ars Technica는 Ray-Ban Meta 안경 데이터를 검토하던 외주 인력이 매우 민감한 영상을 접했다고 보도했다. The Verge는 최근 AI 하드웨어가 “녹음”의 정의를 흐리고 있다고 지적했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Googlebook OS reviewed as a\npost-smartphone PC",
-          "body": "9to5Google's review casts Googlebook OS as a post-smartphone PC, after touch-era attempts from Windows 8 onward failed.",
-          "mini_headline": "Googlebook OS, reviewed",
+          "headline": "Owners say Ray-Ban Meta\nlistened without a wake word",
+          "body": "One owner says three pairs of Ray-Ban Meta glasses recorded talk without “Hey Meta,” and Meta says it’s resolved.",
+          "mini_headline": "Ray-Ban Meta listening claims",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+                "cap": "Woman wearing the Ray-Ban Meta Smart Glasses"
               },
               {
                 "t": "p",
-                "x": "All attempts to bring the lessons and benefits of the touch era to PCs have failed, from Windows 8 to the era after the iPad when the Mac gained fullscreen apps. After using Googlebook OS for over a week, 9to5Google's reviewer sees the beginnings of a desktop OS for the Android smartphone generation, but a rough first take."
+                "x": "Update: Meta has responded to Android Authority’s request for comment: “This issue has been resolved. People can manage, review and delete voice logs of their interactions with Meta AI via settings at any time.”"
+              },
+              {
+                "t": "p",
+                "x": "In two Reddit threads, a Ray-Ban Meta owner says three separate pairs, spanning second- and third-generation models, captured ordinary conversations without the “Hey Meta” wake phrase. Those interactions appeared in the Meta AI app as saved audio recordings and text transcripts, even though “Respond without Hey Meta” was disabled. The owner says the behavior began after a recent firmware update."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+                "cap": "Meta Ray Ban glasses recording activity page"
               },
               {
                 "t": "p",
-                "x": "Googlebook OS looks like ChromeOS on the surface but feels like Android. Chrome is built on the Android version, with extensions, vertical tabs and the full Gemini in Chrome side panel, but it feels barebones for 1.0."
+                "x": "Several commenters say they have noticed similar unexplained activations, including the internal light turning on without invoking Meta AI. However, reports remain limited, Android Authority hasn’t independently reproduced the behavior, and there’s no evidence to suggest this is widespread."
               },
               {
                 "t": "p",
-                "x": "Magic Pointer is basically the Gemini overlay on phones, and Circle to Search ships too, making two similar features. The more useful AI feature is Rambler voice dictation on the F13 key, while Create My Widget brings generative UI: “the future of computing.”"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-              },
-              {
-                "t": "p",
-                "x": "The decade-old app gap remains largely unfixed and missing features like Linux app support are steps back from ChromeOS. Still, there are no fatal flaws for the general user and no foundational issues that can't be remedied in future updates."
+                "x": "Earlier this year, Ars Technica reported that contractors reviewing data from Ray-Ban Meta glasses encountered highly sensitive footage. The Verge recently argued that AI hardware is muddying the definition of “recording.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Googlebook OS,\n스마트폰 이후의 PC",
-          "body": "9to5Google은 Googlebook OS를 스마트폰 이후의 PC로 평했다.",
-          "mini_headline": "Googlebook OS 리뷰",
+          "headline": "Ray-Ban Meta가\n호출어 없이 녹음했나",
+          "body": "Ray-Ban Meta 무단 녹음 주장에 Meta는 문제를 해결했다고 밝혔다.",
+          "mini_headline": "Ray-Ban Meta 무단 녹음 주장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+                "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성"
               },
               {
                 "t": "p",
-                "x": "Windows 8부터 iPad 이후 Mac이 전체 화면 앱을 들인 시기까지, 터치 시대의 교훈과 장점을 PCs(개인용 컴퓨터)로 옮기려던 시도는 하나같이 실패했다. 9to5Google 리뷰어는 Googlebook OS를 일주일 넘게 써 보고, Android 스마트폰 세대를 위한 데스크톱 OS의 시작이지만 첫 버전은 아직 거칠다고 평한다."
+                "x": "업데이트: Meta는 Android Authority의 논평 요청에 이렇게 답했다. “이 문제는 해결됐습니다. 사용자는 언제든 설정에서 Meta AI와의 상호작용 음성 기록을 관리하고 검토하고 삭제할 수 있습니다.”"
+              },
+              {
+                "t": "p",
+                "x": "한 Ray-Ban Meta 사용자는 Reddit 스레드 두 곳에서 2세대와 3세대 모델에 걸친 안경 세 개가 “Hey Meta” 호출어 없이 일상 대화를 녹음했다고 주장했다. “Respond without Hey Meta” 설정을 꺼 두었는데도 이 대화는 Meta AI 앱에 저장된 음성 녹음과 텍스트 기록으로 남아 있었다. 그는 최근 펌웨어 업데이트 뒤부터 이런 일이 생겼다고 말한다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+                "cap": "Meta Ray Ban 안경 녹음 활동 페이지"
               },
               {
                 "t": "p",
-                "x": "Googlebook OS는 겉보기엔 ChromeOS 같은데 막상 써 보면 Android에 가깝다. Chrome은 Android 버전 기반으로 확장 프로그램, 세로 탭, Gemini in Chrome 사이드 패널까지 전부 지원하지만 1.0치고는 기능이 빈약하게 느껴진다."
+                "x": "댓글에서도 여럿이 Meta AI를 부르지 않았는데 내부 표시등이 켜지는 등 설명하기 어려운 비슷한 일을 겪었다고 했다. 다만 제보는 아직 많지 않다. Android Authority도 이 현상을 직접 재현하지 못했고 문제가 광범위하다는 증거도 없다."
               },
               {
                 "t": "p",
-                "x": "Magic Pointer는 사실상 휴대폰의 Gemini 오버레이다. 여기에 Circle to Search까지 들어가 비슷한 기능이 두 개가 됐다. 더 쓸모 있는 AI 기능은 F13 키에 할당된 Rambler 음성 받아쓰기이고, Create My Widget은 생성형 UI, 즉 “컴퓨팅의 미래”를 가져온다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-              },
-              {
-                "t": "p",
-                "x": "10년 묵은 앱 부족 문제는 대부분 그대로이고, Linux 앱 지원 같은 기능이 빠진 건 ChromeOS보다 뒷걸음질한 부분이다. 그래도 일반 사용자에게 치명적인 결함은 없고, 앞으로 업데이트로 못 고칠 근본 문제도 없다."
+                "x": "올해 초 Ars Technica는 Ray-Ban Meta 안경 데이터를 검토하던 외주 인력이 매우 민감한 영상을 접했다고 보도했다. The Verge는 최근 AI 하드웨어가 “녹음”의 정의를 흐리고 있다고 지적했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Googlebook OS、\nポストスマホのPCを評価",
-          "body": "9to5GoogleはGooglebook OSをスマホ以後のPCと評した。",
-          "mini_headline": "Googlebook OSレビュー",
+          "headline": "Ray-Ban Metaが\nウェイクワードなしで録音？",
+          "body": "ある所有者が3台のRay-Ban Metaの無断録音を訴え、Metaは解決済みとした。",
+          "mini_headline": "Ray-Ban Metaの無断録音報告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+                "cap": "Ray-Ban Metaスマートグラスをかけた女性"
               },
               {
                 "t": "p",
-                "x": "Windows 8から、iPad登場後にMacがフルスクリーンアプリを取り入れた時代まで、タッチ時代の教訓と利点をPCsへ持ち込む試みはすべて失敗してきた。9to5GoogleのレビュアーはGooglebook OSを1週間以上使い、Androidスマートフォン世代向けデスクトップOSの萌芽を見るが、まだ粗削りな第一歩だという。"
+                "x": "更新：MetaはAndroid Authorityのコメント要請に対し、「この問題は解決済みだ。利用者はいつでも設定からMeta AIとのやり取りの音声ログを管理、確認、削除できる」と回答した。"
+              },
+              {
+                "t": "p",
+                "x": "Redditの2つのスレッドで、あるRay-Ban Metaの所有者が、第2世代と第3世代にまたがる別々の3台が「Hey Meta」のウェイクフレーズなしで普段の会話を記録したと述べている。「Respond without Hey Meta」を無効にしていたにもかかわらず、それらのやり取りは保存された音声録音とテキストの書き起こしとしてMeta AIアプリに表示された。所有者によると、この挙動は最近のファームウェア更新後に始まったという。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+                "cap": "Meta Ray Banグラスの録音アクティビティページ"
               },
               {
                 "t": "p",
-                "x": "Googlebook OSは見た目こそChromeOSに似ているが、使用感はAndroidに近い。ChromeはAndroid版をベースにしており、拡張機能、縦型タブ、完全なGemini in Chromeサイドパネルを備えるものの、1.0としては機能が乏しく感じられる。"
+                "x": "複数のコメント投稿者も、Meta AIを呼び出していないのに内部のライトが点灯するなど、説明のつかない同様の起動に気づいたと述べている。ただし報告はまだ限られており、Android Authorityは独自にこの挙動を再現できておらず、広く起きていることを示す証拠もない。"
               },
               {
                 "t": "p",
-                "x": "Magic Pointerは実質的にスマートフォンのGeminiオーバーレイで、Circle to Searchも搭載されるため、似た機能が2つ並ぶ。より有用なAI機能はF13キーに割り当てられたRambler音声入力で、Create My Widgetは生成UIという「コンピューティングの未来」をもたらす。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-              },
-              {
-                "t": "p",
-                "x": "10年来のアプリ不足はほぼ解消されておらず、Linuxアプリ対応などの欠落はChromeOSからの後退だ。それでも一般ユーザーにとって致命的な欠陥はなく、今後のアップデートで直せない根本的な問題もない。"
+                "x": "今年初めにはArs Technicaが、Ray-Ban Metaグラスのデータを確認していた委託作業者が非常に機微な映像を目にしていたと報じた。The Vergeは最近、AIハードウェアが「録音」の定義を曖昧にしていると論じた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Googlebook OS\n评测：后智能手机时代PC",
-          "body": "9to5Google评测认为，Googlebook OS是后智能手机时代的PC。",
-          "mini_headline": "Googlebook OS评测",
+          "headline": "Ray-Ban Meta被指\n无唤醒词也在收音",
+          "body": "一名用户称三副Ray-Ban Meta眼镜擅自录下对话，Meta称已解决。",
+          "mini_headline": "Ray-Ban Meta偷录争议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+                "cap": "佩戴Ray-Ban Meta智能眼镜的女性"
               },
               {
                 "t": "p",
-                "x": "从Windows 8到iPad问世后Mac加入全屏应用的时代，把触屏时代的经验与优势带到PCs上的尝试全都失败了。9to5Google的评测者使用Googlebook OS一周多后认为，它是面向Android智能手机一代的桌面OS的雏形，但第一版还很粗糙。"
+                "x": "更新：Meta回应了Android Authority的置评请求：“该问题已经解决。用户可随时通过设置管理、查看和删除与Meta AI互动的语音记录。”"
+              },
+              {
+                "t": "p",
+                "x": "在两个Reddit帖子中，一名Ray-Ban Meta用户称，涵盖第二代和第三代型号的三副不同眼镜在没有“Hey Meta”唤醒短语的情况下录下了日常对话。尽管“Respond without Hey Meta”已关闭，这些互动仍以保存的音频录音和文字转录形式出现在Meta AI应用中。该用户称，这一情况始于最近一次固件更新之后。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+                "cap": "Meta Ray Ban眼镜录音活动页面"
               },
               {
                 "t": "p",
-                "x": "Googlebook OS表面上像ChromeOS，用起来却像Android。Chrome基于Android版本打造，支持扩展、垂直标签页以及完整的Gemini in Chrome侧边栏，但作为1.0版本仍显得过于简陋。"
+                "x": "多名评论者表示，他们也注意到类似的不明激活，包括在未调用Meta AI时内部指示灯亮起。不过，相关报告仍然有限，Android Authority尚未独立复现这一现象，也没有证据表明问题普遍存在。"
               },
               {
                 "t": "p",
-                "x": "Magic Pointer基本上就是手机上的Gemini浮层，而Circle to Search也一并提供，于是出现了两个相似功能。更实用的AI功能是F13键上的Rambler语音输入，而Create My Widget带来了生成式UI，即“计算的未来”。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-              },
-              {
-                "t": "p",
-                "x": "存在了十年的应用缺口大体仍未解决，缺少Linux应用支持等功能也比ChromeOS有所倒退。不过，对普通用户来说没有致命缺陷，也没有无法通过未来更新弥补的根本性问题。"
+                "x": "今年早些时候，Ars Technica报道称，审查Ray-Ban Meta眼镜数据的外包人员接触到了高度敏感的画面。The Verge最近则认为，AI硬件正在模糊“录音”的定义。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Googlebook OS, analizado como\nun PC posterior al smartphone",
-          "body": "9to5Google ve en Googlebook OS un PC posterior al smartphone, tras fracasar los intentos táctiles desde Windows 8.",
-          "mini_headline": "Googlebook OS, a prueba",
+          "headline": "Usuarios dicen que Ray-Ban Meta\nescuchaba sin la palabra clave",
+          "body": "Un usuario dice que tres pares de Ray-Ban Meta grabaron charlas sin “Hey Meta”, y Meta afirma que está resuelto.",
+          "mini_headline": "Denuncias de escucha en Ray-Ban Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+                "cap": "Mujer con las gafas inteligentes Ray-Ban Meta"
               },
               {
                 "t": "p",
-                "x": "Todos los intentos de llevar a los PCs las lecciones y ventajas de la era táctil han fracasado, desde Windows 8 hasta la etapa posterior al iPad en la que el Mac incorporó apps a pantalla completa. Tras usar Googlebook OS durante más de una semana, el autor de la reseña de 9to5Google ve el inicio de un sistema operativo de escritorio para la generación del smartphone Android, aunque en una primera versión tosca."
+                "x": "Actualización: Meta respondió a la solicitud de comentarios de Android Authority: “Este problema se ha resuelto. Las personas pueden gestionar, revisar y eliminar en cualquier momento, desde los ajustes, los registros de voz de sus interacciones con Meta AI”."
+              },
+              {
+                "t": "p",
+                "x": "En dos hilos de Reddit, un propietario de Ray-Ban Meta afirma que tres pares distintos, de modelos de segunda y tercera generación, captaron conversaciones normales sin la frase de activación “Hey Meta”. Esas interacciones aparecieron en la app Meta AI como grabaciones de audio guardadas y transcripciones de texto, aunque la opción “Respond without Hey Meta” estaba desactivada. El propietario dice que el comportamiento empezó tras una actualización reciente del firmware."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+                "cap": "Página de actividad de grabaciones de las gafas Meta Ray Ban"
               },
               {
                 "t": "p",
-                "x": "Googlebook OS parece ChromeOS en la superficie, pero se siente como Android. Chrome está basado en la versión de Android, con extensiones, pestañas verticales y el panel lateral completo de Gemini in Chrome, pero resulta escaso para una versión 1.0."
+                "x": "Varios comentaristas dicen haber notado activaciones inexplicables similares, como la luz interna encendiéndose sin invocar a Meta AI. Sin embargo, los reportes siguen siendo limitados, Android Authority no ha reproducido el comportamiento de forma independiente y no hay pruebas de que esté generalizado."
               },
               {
                 "t": "p",
-                "x": "Magic Pointer es básicamente la capa de Gemini de los teléfonos, y también se incluye Circle to Search, con lo que hay dos funciones similares. La función de IA más útil es el dictado por voz Rambler en la tecla F13, mientras que Create My Widget aporta una interfaz generativa: “el futuro de la informática”."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-              },
-              {
-                "t": "p",
-                "x": "La carencia de apps, que arrastra una década, sigue en gran parte sin resolverse, y la falta de funciones como la compatibilidad con apps de Linux supone un paso atrás respecto a ChromeOS. Aun así, no hay fallos graves para el usuario general ni problemas de fondo que no puedan corregirse en futuras actualizaciones."
+                "x": "A principios de este año, Ars Technica informó que contratistas que revisaban datos de las gafas Ray-Ban Meta se encontraron con imágenes muy sensibles. The Verge argumentó hace poco que el hardware de IA está desdibujando la definición de “grabar”."
               }
             ]
           }
@@ -925,153 +1043,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Googlebook OS,\n스마트폰 이후의 PC",
-          "body": "9to5Google은 Googlebook OS를 스마트폰 이후의 PC로 평했다.",
-          "mini_headline": "Googlebook OS 리뷰",
+          "headline": "Ray-Ban Meta가\n호출어 없이 녹음했나",
+          "body": "Ray-Ban Meta 무단 녹음 주장에 Meta는 문제를 해결했다고 밝혔다.",
+          "mini_headline": "Ray-Ban Meta 무단 녹음 주장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+                "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성"
               },
               {
                 "t": "p",
-                "x": "Windows 8부터 iPad 이후 Mac이 전체 화면 앱을 들인 시기까지, 터치 시대의 교훈과 장점을 PCs(개인용 컴퓨터)에 옮기려던 시도는 모두 실패했다. 9to5Google 리뷰어는 Googlebook OS를 일주일 넘게 써 본 뒤, 이것이 Android 스마트폰 세대를 위한 데스크톱 OS의 시작이지만 아직 거친 첫 버전이라고 본다."
+                "x": "업데이트: Meta는 Android Authority의 논평 요청에 이렇게 답했다. “이 문제는 해결됐습니다. 사용자는 언제든 설정에서 Meta AI와의 상호작용 음성 기록을 관리하고 검토하고 삭제할 수 있습니다.”"
+              },
+              {
+                "t": "p",
+                "x": "Reddit의 두 스레드에서 한 Ray-Ban Meta 사용자는 2세대와 3세대 모델에 걸친 안경 세 개가 “Hey Meta” 호출어 없이 일상 대화를 녹음했다고 주장했다. “Respond without Hey Meta” 설정을 꺼 두었는데도 이 대화들은 Meta AI 앱에 저장된 음성 녹음과 텍스트 기록으로 남아 있었다. 사용자는 최근 펌웨어 업데이트 이후 이런 현상이 시작됐다고 말한다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+                "cap": "Meta Ray Ban 안경 녹음 활동 페이지"
               },
               {
                 "t": "p",
-                "x": "Googlebook OS는 겉보기엔 ChromeOS 같지만 쓰는 느낌은 Android에 가깝다. Chrome은 Android 버전을 기반으로 하며 확장 프로그램, 세로 탭, Gemini in Chrome 사이드 패널 전체를 지원하지만, 1.0치고는 기능이 빈약하게 느껴진다."
+                "x": "여러 댓글 작성자도 Meta AI를 부르지 않았는데 내부 표시등이 켜지는 등 설명되지 않는 비슷한 작동을 겪었다고 말한다. 다만 제보는 아직 많지 않고, Android Authority도 이 현상을 독자적으로 재현하지 못했으며, 문제가 광범위하다는 증거도 없다."
               },
               {
                 "t": "p",
-                "x": "Magic Pointer는 사실상 휴대폰의 Gemini 오버레이이며, Circle to Search도 함께 들어가 비슷한 기능이 두 개가 됐다. 더 쓸모 있는 AI 기능은 F13 키에 할당된 Rambler 음성 받아쓰기이고, Create My Widget은 생성형 UI, 즉 “컴퓨팅의 미래”를 가져온다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-              },
-              {
-                "t": "p",
-                "x": "10년 묵은 앱 부족 문제는 대부분 그대로이고, Linux 앱 지원 같은 기능이 빠진 점은 ChromeOS보다 후퇴한 부분이다. 그래도 일반 사용자에게 치명적인 결함은 없으며, 향후 업데이트로 고칠 수 없는 근본적 문제도 없다."
+                "x": "올해 초 Ars Technica는 Ray-Ban Meta 안경 데이터를 검토하던 외주 인력이 매우 민감한 영상을 접했다고 보도했다. The Verge는 최근 AI 하드웨어가 “녹음”의 정의를 흐리고 있다고 지적했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Googlebook OS、\nポストスマホのPCを評価",
-          "body": "9to5GoogleはGooglebook OSをスマホ以後のPCと評した。",
-          "mini_headline": "Googlebook OSレビュー",
+          "headline": "Ray-Ban Metaが\nウェイクワードなしで録音？",
+          "body": "ある所有者が3台のRay-Ban Metaの無断録音を訴え、Metaは解決済みとした。",
+          "mini_headline": "Ray-Ban Metaの無断録音報告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+                "cap": "Ray-Ban Metaスマートグラスをかけた女性"
               },
               {
                 "t": "p",
-                "x": "Windows 8から、iPad登場後にMacがフルスクリーンアプリを取り入れた時代まで、タッチ時代の教訓と利点をPCsへ持ち込む試みはすべて失敗してきた。9to5GoogleのレビュアーはGooglebook OSを1週間以上使い、Androidスマートフォン世代向けデスクトップOSの萌芽を見るが、まだ粗削りな第一歩だという。"
+                "x": "更新：MetaはAndroid Authorityのコメント要請に対し、「この問題は解決済みだ。利用者はいつでも設定からMeta AIとのやり取りの音声ログを管理、確認、削除できる」と回答した。"
+              },
+              {
+                "t": "p",
+                "x": "Redditの2つのスレッドで、あるRay-Ban Metaの所有者が、第2世代と第3世代にまたがる別々の3台が「Hey Meta」のウェイクフレーズなしで普段の会話を記録したと述べている。「Respond without Hey Meta」を無効にしていたにもかかわらず、それらのやり取りは保存された音声録音とテキストの書き起こしとしてMeta AIアプリに表示された。所有者によると、この挙動は最近のファームウェア更新後に始まったという。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+                "cap": "Meta Ray Banグラスの録音アクティビティページ"
               },
               {
                 "t": "p",
-                "x": "Googlebook OSは見た目こそChromeOSに似ているが、使用感はAndroidに近い。ChromeはAndroid版をベースにしており、拡張機能、縦型タブ、完全なGemini in Chromeサイドパネルを備えるものの、1.0としては機能が乏しく感じられる。"
+                "x": "複数のコメント投稿者も、Meta AIを呼び出していないのに内部のライトが点灯するなど、説明のつかない同様の起動に気づいたと述べている。ただし報告はまだ限られており、Android Authorityは独自にこの挙動を再現できておらず、広く起きていることを示す証拠もない。"
               },
               {
                 "t": "p",
-                "x": "Magic Pointerは実質的にスマートフォンのGeminiオーバーレイで、Circle to Searchも搭載されるため、似た機能が2つ並ぶ。より有用なAI機能はF13キーに割り当てられたRambler音声入力で、Create My Widgetは生成UIという「コンピューティングの未来」をもたらす。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-              },
-              {
-                "t": "p",
-                "x": "10年来のアプリ不足はほぼ解消されておらず、Linuxアプリ対応などの欠落はChromeOSからの後退だ。それでも一般ユーザーにとって致命的な欠陥はなく、今後のアップデートで直せない根本的な問題もない。"
+                "x": "今年初めにはArs Technicaが、Ray-Ban Metaグラスのデータを確認していた委託作業者が非常に機微な映像を目にしていたと報じた。The Vergeは最近、AIハードウェアが「録音」の定義を曖昧にしていると論じた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Googlebook OS\n评测：后智能手机时代PC",
-          "body": "9to5Google评测认为，Googlebook OS是后智能手机时代的PC。",
-          "mini_headline": "Googlebook OS评测",
+          "headline": "Ray-Ban Meta被指\n无唤醒词也在收音",
+          "body": "一名用户称三副Ray-Ban Meta眼镜擅自录下对话，Meta称已解决。",
+          "mini_headline": "Ray-Ban Meta偷录争议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+                "cap": "佩戴Ray-Ban Meta智能眼镜的女性"
               },
               {
                 "t": "p",
-                "x": "从Windows 8到iPad问世后Mac加入全屏应用的时代，把触屏时代的经验与优势带到PCs上的尝试全都失败了。9to5Google的评测者使用Googlebook OS一周多后认为，它是面向Android智能手机一代的桌面OS的雏形，但第一版还很粗糙。"
+                "x": "更新：Meta回应了Android Authority的置评请求：“该问题已经解决。用户可随时通过设置管理、查看和删除与Meta AI互动的语音记录。”"
+              },
+              {
+                "t": "p",
+                "x": "在两个Reddit帖子中，一名Ray-Ban Meta用户称，涵盖第二代和第三代型号的三副不同眼镜在没有“Hey Meta”唤醒短语的情况下录下了日常对话。尽管“Respond without Hey Meta”已关闭，这些互动仍以保存的音频录音和文字转录形式出现在Meta AI应用中。该用户称，这一情况始于最近一次固件更新之后。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+                "cap": "Meta Ray Ban眼镜录音活动页面"
               },
               {
                 "t": "p",
-                "x": "Googlebook OS表面上像ChromeOS，用起来却像Android。Chrome基于Android版本打造，支持扩展、垂直标签页以及完整的Gemini in Chrome侧边栏，但作为1.0版本仍显得过于简陋。"
+                "x": "多名评论者表示，他们也注意到类似的不明激活，包括在未调用Meta AI时内部指示灯亮起。不过，相关报告仍然有限，Android Authority尚未独立复现这一现象，也没有证据表明问题普遍存在。"
               },
               {
                 "t": "p",
-                "x": "Magic Pointer基本上就是手机上的Gemini浮层，而Circle to Search也一并提供，于是出现了两个相似功能。更实用的AI功能是F13键上的Rambler语音输入，而Create My Widget带来了生成式UI，即“计算的未来”。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-              },
-              {
-                "t": "p",
-                "x": "存在了十年的应用缺口大体仍未解决，缺少Linux应用支持等功能也比ChromeOS有所倒退。不过，对普通用户来说没有致命缺陷，也没有无法通过未来更新弥补的根本性问题。"
+                "x": "今年早些时候，Ars Technica报道称，审查Ray-Ban Meta眼镜数据的外包人员接触到了高度敏感的画面。The Verge最近则认为，AI硬件正在模糊“录音”的定义。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Googlebook OS, analizado como\nun PC posterior al smartphone",
-          "body": "9to5Google ve en Googlebook OS un PC posterior al smartphone, tras fracasar los intentos táctiles desde Windows 8.",
-          "mini_headline": "Googlebook OS, a prueba",
+          "headline": "Usuarios dicen que Ray-Ban Meta\nescuchaba sin la palabra clave",
+          "body": "Un usuario dice que tres pares de Ray-Ban Meta grabaron charlas sin “Hey Meta”, y Meta afirma que está resuelto.",
+          "mini_headline": "Denuncias de escucha en Ray-Ban Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-3.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
+                "cap": "Mujer con las gafas inteligentes Ray-Ban Meta"
               },
               {
                 "t": "p",
-                "x": "Todos los intentos de llevar a los PCs las lecciones y ventajas de la era táctil han fracasado, desde Windows 8 hasta la etapa posterior al iPad en la que el Mac incorporó apps a pantalla completa. Tras usar Googlebook OS durante más de una semana, el autor de la reseña de 9to5Google ve el inicio de un sistema operativo de escritorio para la generación del smartphone Android, aunque en una primera versión tosca."
+                "x": "Actualización: Meta respondió a la solicitud de comentarios de Android Authority: “Este problema se ha resuelto. Las personas pueden gestionar, revisar y eliminar en cualquier momento, desde los ajustes, los registros de voz de sus interacciones con Meta AI”."
+              },
+              {
+                "t": "p",
+                "x": "En dos hilos de Reddit, un propietario de Ray-Ban Meta afirma que tres pares distintos, de modelos de segunda y tercera generación, captaron conversaciones normales sin la frase de activación “Hey Meta”. Esas interacciones aparecieron en la app Meta AI como grabaciones de audio guardadas y transcripciones de texto, aunque la opción “Respond without Hey Meta” estaba desactivada. El propietario dice que el comportamiento empezó tras una actualización reciente del firmware."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-1.jpg?strip=info&w=900"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
+                "cap": "Página de actividad de grabaciones de las gafas Meta Ray Ban"
               },
               {
                 "t": "p",
-                "x": "Googlebook OS parece ChromeOS en la superficie, pero se siente como Android. Chrome está basado en la versión de Android, con extensiones, pestañas verticales y el panel lateral completo de Gemini in Chrome, pero resulta escaso para una versión 1.0."
+                "x": "Varios comentaristas dicen haber notado activaciones inexplicables similares, como la luz interna encendiéndose sin invocar a Meta AI. Sin embargo, los reportes siguen siendo limitados, Android Authority no ha reproducido el comportamiento de forma independiente y no hay pruebas de que esté generalizado."
               },
               {
                 "t": "p",
-                "x": "Magic Pointer es básicamente la capa de Gemini de los teléfonos, y también se incluye Circle to Search, con lo que hay dos funciones similares. La función de IA más útil es el dictado por voz Rambler en la tecla F13, mientras que Create My Widget aporta una interfaz generativa: “el futuro de la informática”."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Googlebook-OS-review-12.jpg?quality=82&strip=all"
-              },
-              {
-                "t": "p",
-                "x": "La carencia de apps, que arrastra una década, sigue en gran parte sin resolverse, y la falta de funciones como la compatibilidad con apps de Linux supone un paso atrás respecto a ChromeOS. Aun así, no hay fallos graves para el usuario general ni problemas de fondo que no puedan corregirse en futuras actualizaciones."
+                "x": "A principios de este año, Ars Technica informó que contratistas que revisaban datos de las gafas Ray-Ban Meta se encontraron con imágenes muy sensibles. The Verge argumentó hace poco que el hardware de IA está desdibujando la definición de “grabar”."
               }
             ]
           }
@@ -1079,15 +1189,15 @@
       }
     },
     {
-      "id": "gadgets-mechrevo-x10-ai-ssd",
+      "id": "gadgets-unitree-gpt7-robots",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "RTX Spark 미니PC\nAI SSD에 기댄다",
-      "body": "Mechrevo X10은 AI SSD로 최대 1220억 파라미터 모델을 담는다.",
-      "mini_headline": "Mechrevo의 AI SSD 미니 PC",
+      "headline": "Unitree 1~2년 내\n로봇 ChatGPT 순간",
+      "body": "Unitree CEO는 내년 GPT-7이 로봇의 난제를 풀 수도 있다고 봤다.",
+      "mini_headline": "Unitree가 본 로봇 AI 시간표",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1095,179 +1205,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-            "cap": "Mechrevo의 새 미니 PC는 SSD를 써서 AI 모델을 돌린다"
+            "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+            "cap": "바퀴를 단 Unitree G1"
           },
           {
             "t": "p",
-            "x": "중국 PC 제조사 Mechrevo가 대형 AI 모델을 로컬에서 돌리는 데 주로 초점을 맞춘 미니 PC Master Road X10을 준비 중이다. Nvidia의 RTX Spark 플랫폼을 바탕으로 20코어 Grace CPU, 최대 6,144개 CUDA 코어를 갖춘 Blackwell GPU, 최대 128 GB LPDDR5X 통합 메모리를 얹었다."
+            "x": "중국 로봇 기업 Unitree의 CEO Wang Xingxing은 상하이 업계 행사에서 OpenAI가 최근 공개한 GPT-6 Astra 모델이 매우 강력해 “1~2년 안에” 돌파구가 나올 수 있다는 믿음이 커졌다고 말했다(South China Morning Post 보도)."
           },
           {
             "t": "p",
-            "x": "자체 개발한 AI SSD는 대형 AI 모델 일부를 DRAM에서 NAND 플래시로 넘기고, 앞서 처리한 컨텍스트를 보존했다가 다시 쓴다. Mechrevo는 덕분에 X10이 800억, 1200억, 심지어 1220억 매개변수 모델도 빠른 응답 성능을 유지하며 돌린다고 주장한다. SSD 용량은 공개하지 않았다."
+            "x": "Wang은 “예컨대 내년에 나올 GPT-7 모델이 체화 지능의 문제를 곧바로 풀어낼 가능성도 있다”고 말했다. 올해 8월만 해도 그는 이런 “ChatGPT 모멘트”가 오기까지 10년이 걸릴 수 있다고 내다봤다."
           },
           {
             "t": "p",
-            "x": "회사는 9월에 AI SSD가 지원 가능한 모델 작업량을 최대 5.7배 늘리고 프리필 단계를 최대 95% 가속한다고 주장했다."
+            "x": "Wang이 내건 기준은 로봇이 음성이나 텍스트 명령만으로 낯선 환경의 80%에서 맡은 작업의 80%를 해내는 것이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+            "cap": "Antigravity A1을 날리는 Unitree G1"
           },
           {
             "t": "p",
-            "x": "다만 Mechrevo는 상세 벤치마크와 양자화 설정, 테스트 조건을 내놓지 않았다. NAND 플래시는 DRAM보다 상당히 느리다. 가격과 출시일도 아직 알려지지 않았다."
+            "x": "Stanford University의 Movement Lab은 Unitree 로봇에 GPT-6 Astra를 결합해 처음 보는 주방을 청소하게 했다. 로봇은 “환경별 학습 데이터나 추가 정책 학습 없이도 방 전체를 정리하고, 모호한 요청을 듣고 기억해 둔 물건을 가져올 수 있었다.” GPT-6 Astra는 ScreenSpot-Pro에서 92.7%를 기록해 GPT-5.6 Sol의 76.9%를 앞섰다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mechrevo's RTX Spark mini PC\nleans on an AI SSD",
-          "body": "Mechrevo says its RTX Spark-based Master Road X10 uses an AI SSD to hold models of up to 122 billion parameters.",
-          "mini_headline": "Mechrevo's AI SSD mini PC",
+          "headline": "Unitree CEO sees a robot\n‘ChatGPT moment’ in 1–2 years",
+          "body": "Unitree’s CEO says a robot breakthrough could come within one or two years, and a GPT-7 model next year might crack it.",
+          "mini_headline": "Unitree’s robot AI timeline",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-                "cap": "Mechrevo's new mini-PC can use its SSD to run AI models"
+                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+                "cap": "Unitree G1 on wheels"
               },
               {
                 "t": "p",
-                "x": "Chinese PC manufacturer Mechrevo is preparing the Master Road X10, a mini PC primarily designed for running large AI models locally. It uses Nvidia's RTX Spark platform: a 20-core Grace CPU, a Blackwell GPU with up to 6,144 CUDA cores and up to 128 GB of LPDDR5X unified memory."
+                "x": "Wang Xingxing, CEO of Chinese robotics firm Unitree, speaking at an industry event in Shanghai (via the South China Morning Post), said OpenAI’s recently released GPT-6 Astra model is so powerful that it has encouraged a belief that a breakthrough could occur “within one or two years.”"
               },
               {
                 "t": "p",
-                "x": "Its proprietary AI SSD can offload portions of large AI models from DRAM to NAND flash and preserve and reuse previously processed context. Mechrevo claims this lets the X10 run models with 80 billion, 120 billion and even 122 billion parameters while maintaining responsive performance. The SSD capacity hasn't been specified."
+                "x": "“It’s possible that, say, a GPT-7 model released next year could directly crack the problems of embodied intelligence,” Wang said. In August this year, he had said such a “ChatGPT moment” could take a decade to arrive."
               },
               {
                 "t": "p",
-                "x": "In September, the company claimed its AI SSD could increase supported model workloads by up to 5.7 times and accelerate the prefill stage by as much as 95%."
+                "x": "As a benchmark, Wang said robots should be able to complete 80% of the tasks they were assigned in 80% of unfamiliar environments using voice or text commands alone."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+                "cap": "Unitree G1 flies Antigravity A1"
               },
               {
                 "t": "p",
-                "x": "Mechrevo has not published detailed benchmarks, quantisation settings or test conditions, and NAND flash is considerably slower than DRAM. Pricing and release date remain unknown."
+                "x": "Stanford University’s Movement Lab paired a Unitree robot with GPT-6 Astra and tasked it with cleaning a kitchen it had never seen before; the robot was able to “clean up across the room and retrieve a remembered object from an underspecified request, without environment-specific training data or additional policy learning.” GPT-6 Astra scored 92.7% on ScreenSpot-Pro, up from 76.9% in GPT-5.6 Sol."
               }
             ]
           }
         },
         "ko": {
-          "headline": "RTX Spark 미니PC\nAI SSD에 기댄다",
-          "body": "Mechrevo X10은 AI SSD로 최대 1220억 파라미터 모델을 담는다.",
-          "mini_headline": "Mechrevo의 AI SSD 미니 PC",
+          "headline": "Unitree 1~2년 내\n로봇 ChatGPT 순간",
+          "body": "Unitree CEO는 내년 GPT-7이 로봇의 난제를 풀 수도 있다고 봤다.",
+          "mini_headline": "Unitree가 본 로봇 AI 시간표",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-                "cap": "Mechrevo의 새 미니 PC는 SSD를 써서 AI 모델을 돌린다"
+                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+                "cap": "바퀴를 단 Unitree G1"
               },
               {
                 "t": "p",
-                "x": "중국 PC 제조사 Mechrevo가 대형 AI 모델을 로컬에서 돌리는 데 주로 초점을 맞춘 미니 PC Master Road X10을 준비 중이다. Nvidia의 RTX Spark 플랫폼을 바탕으로 20코어 Grace CPU, 최대 6,144개 CUDA 코어를 갖춘 Blackwell GPU, 최대 128 GB LPDDR5X 통합 메모리를 얹었다."
+                "x": "중국 로봇 기업 Unitree의 CEO Wang Xingxing은 상하이 업계 행사에서 OpenAI가 최근 공개한 GPT-6 Astra 모델이 매우 강력해 “1~2년 안에” 돌파구가 나올 수 있다는 믿음이 커졌다고 말했다(South China Morning Post 보도)."
               },
               {
                 "t": "p",
-                "x": "자체 개발한 AI SSD는 대형 AI 모델 일부를 DRAM에서 NAND 플래시로 넘기고, 앞서 처리한 컨텍스트를 보존했다가 다시 쓴다. Mechrevo는 덕분에 X10이 800억, 1200억, 심지어 1220억 매개변수 모델도 빠른 응답 성능을 유지하며 돌린다고 주장한다. SSD 용량은 공개하지 않았다."
+                "x": "Wang은 “예컨대 내년에 나올 GPT-7 모델이 체화 지능의 문제를 곧바로 풀어낼 가능성도 있다”고 말했다. 올해 8월만 해도 그는 이런 “ChatGPT 모멘트”가 오기까지 10년이 걸릴 수 있다고 내다봤다."
               },
               {
                 "t": "p",
-                "x": "회사는 9월에 AI SSD가 지원 가능한 모델 작업량을 최대 5.7배 늘리고 프리필 단계를 최대 95% 가속한다고 주장했다."
+                "x": "Wang이 내건 기준은 로봇이 음성이나 텍스트 명령만으로 낯선 환경의 80%에서 맡은 작업의 80%를 해내는 것이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+                "cap": "Antigravity A1을 날리는 Unitree G1"
               },
               {
                 "t": "p",
-                "x": "다만 Mechrevo는 상세 벤치마크와 양자화 설정, 테스트 조건을 내놓지 않았다. NAND 플래시는 DRAM보다 상당히 느리다. 가격과 출시일도 아직 알려지지 않았다."
+                "x": "Stanford University의 Movement Lab은 Unitree 로봇에 GPT-6 Astra를 결합해 처음 보는 주방을 청소하게 했다. 로봇은 “환경별 학습 데이터나 추가 정책 학습 없이도 방 전체를 정리하고, 모호한 요청을 듣고 기억해 둔 물건을 가져올 수 있었다.” GPT-6 Astra는 ScreenSpot-Pro에서 92.7%를 기록해 GPT-5.6 Sol의 76.9%를 앞섰다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RTX SparkのミニPC\nAI SSDを活用",
-          "body": "MechrevoのX10はAI SSDで最大1220億パラメータのモデルを扱う。",
-          "mini_headline": "MechrevoのAI SSDミニPC",
+          "headline": "Unitree、1〜2年で\nロボットのChatGPT瞬間",
+          "body": "Unitree CEOは、来年のGPT-7がロボットの難題を解く可能性があると語った。",
+          "mini_headline": "Unitreeが描くロボットAIの時間軸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-                "cap": "Mechrevoの新しいミニPCは、SSDを使ってAIモデルを実行できる"
+                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+                "cap": "車輪を付けたUnitree G1"
               },
               {
                 "t": "p",
-                "x": "中国のPCメーカーMechrevoは、大規模AIモデルをローカルで動かすことを主眼としたミニPC「Master Road X10」を準備している。NvidiaのRTX Sparkプラットフォームを採用し、20コアのGrace CPU、最大6,144基のCUDAコアを持つBlackwell GPU、最大128 GBのLPDDR5Xユニファイドメモリを備える。"
+                "x": "中国のロボット企業UnitreeのCEO、Wang Xingxing氏は上海で開かれた業界イベントで(South China Morning Post経由)、OpenAIが最近公開したGPT-6 Astraモデルは非常に強力で、「1〜2年以内」にブレークスルーが起こり得るとの確信を後押ししたと語った。"
               },
               {
                 "t": "p",
-                "x": "独自のAI SSDは、大規模AIモデルの一部をDRAMからNANDフラッシュへ退避させ、処理済みのコンテキストを保持・再利用できる。Mechrevoによれば、これによりX10は800億、1200億、さらには1220億パラメータのモデルでも応答性を保ったまま実行できるという。SSDの容量は明らかにされていない。"
+                "x": "「たとえば来年リリースされるGPT-7モデルが、身体性知能の課題を直接解決する可能性もある」とWang氏は述べた。同氏は今年8月の時点では、こうした「ChatGPTモーメント」の到来には10年かかる可能性があると話していた。"
               },
               {
                 "t": "p",
-                "x": "同社は9月、AI SSDによって対応可能なモデルのワークロードを最大5.7倍に増やし、プリフィル段階を最大95%高速化できると主張していた。"
+                "x": "Wang氏は目安として、ロボットは音声またはテキストの指示だけで、未知の環境の80%において割り当てられたタスクの80%をこなせるべきだと述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+                "cap": "Antigravity A1を飛ばすUnitree G1"
               },
               {
                 "t": "p",
-                "x": "Mechrevoは詳細なベンチマークや量子化設定、テスト条件を公表しておらず、NANDフラッシュはDRAMよりかなり遅い。価格と発売日は未定だ。"
+                "x": "Stanford UniversityのMovement LabはUnitreeのロボットにGPT-6 Astraを組み合わせ、初めて見るキッチンの掃除を任せた。ロボットは「環境固有の学習データや追加のポリシー学習なしに、部屋全体を片付け、曖昧な指示から記憶していた物を取ってくる」ことができた。GPT-6 AstraはScreenSpot-Proで92.7%を記録し、GPT-5.6 Solの76.9%から向上した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RTX Spark迷你主机\n倚重AI SSD",
-          "body": "Mechrevo称，X10借助AI SSD可容纳最高1220亿参数模型。",
-          "mini_headline": "Mechrevo的AI SSD迷你主机",
+          "headline": "Unitree CEO称\n1–2年迎ChatGPT时刻",
+          "body": "Unitree CEO称机器人突破或在一两年内到来，明年的GPT-7模型可能实现。",
+          "mini_headline": "Unitree的机器人AI时间表",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-                "cap": "Mechrevo的新款迷你主机可利用SSD运行AI模型"
+                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+                "cap": "装上轮子的Unitree G1"
               },
               {
                 "t": "p",
-                "x": "中国PC厂商Mechrevo正在准备Master Road X10，这是一款主要为本地运行大型AI模型而设计的迷你主机。它采用Nvidia的RTX Spark平台：20核Grace CPU、最多6,144个CUDA核心的Blackwell GPU，以及最高128 GB的LPDDR5X统一内存。"
+                "x": "中国机器人企业Unitree的CEO王兴兴（Wang Xingxing）在上海的一场行业活动上表示（据South China Morning Post报道），OpenAI最近发布的GPT-6 Astra模型非常强大，让人更加相信突破可能在“一两年内”出现。"
               },
               {
                 "t": "p",
-                "x": "其自研的AI SSD可将大型AI模型的部分内容从DRAM卸载到NAND闪存，并保存和复用此前处理过的上下文。Mechrevo称，这让X10能够运行800亿、1200亿乃至1220亿参数的模型，同时保持流畅的响应性能。SSD容量尚未公布。"
+                "x": "“比如说，明年发布的GPT-7模型就有可能直接攻克具身智能的难题，”王兴兴说。今年8月，他曾表示这样的“ChatGPT时刻”可能要十年才会到来。"
               },
               {
                 "t": "p",
-                "x": "该公司在9月曾声称，其AI SSD可将可支持的模型工作负载最多提升至5.7倍，并将预填充阶段最多加速95%。"
+                "x": "王兴兴提出的衡量标准是：机器人仅凭语音或文字指令，就应能在80%的陌生环境中完成80%的指定任务。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+                "cap": "Unitree G1操控Antigravity A1飞行"
               },
               {
                 "t": "p",
-                "x": "Mechrevo尚未公布详细的基准测试、量化设置或测试条件，而且NAND闪存比DRAM慢得多。价格和发布日期仍不得而知。"
+                "x": "Stanford University的Movement Lab将一台Unitree机器人与GPT-6 Astra结合，让它清洁一个从未见过的厨房；这台机器人能够“在没有特定环境训练数据或额外策略学习的情况下，打扫整个房间，并根据不够明确的请求取回记住的物品。”GPT-6 Astra在ScreenSpot-Pro上得分92.7%，高于GPT-5.6 Sol的76.9%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mini PC RTX Spark de Mechrevo\nse apoya en un AI SSD",
-          "body": "Según Mechrevo, su Master Road X10 con RTX Spark usa un AI SSD para modelos de hasta 122.000 millones de parámetros.",
-          "mini_headline": "El mini PC con AI SSD de Mechrevo",
+          "headline": "Unitree prevé para los robots\nun ‘momento ChatGPT’ en 1–2 años",
+          "body": "El CEO de Unitree cree que un avance robótico podría llegar en uno o dos años y que GPT-7 lo lograría el año próximo.",
+          "mini_headline": "El calendario de IA robótica de Unitree",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-                "cap": "El nuevo mini PC de Mechrevo puede usar su SSD para ejecutar modelos de IA"
+                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+                "cap": "Unitree G1 sobre ruedas"
               },
               {
                 "t": "p",
-                "x": "El fabricante chino de PC Mechrevo prepara el Master Road X10, un mini PC diseñado principalmente para ejecutar grandes modelos de IA en local. Utiliza la plataforma RTX Spark de Nvidia: una CPU Grace de 20 núcleos, una GPU Blackwell con hasta 6.144 núcleos CUDA y hasta 128 GB de memoria unificada LPDDR5X."
+                "x": "Wang Xingxing, CEO de la empresa china de robótica Unitree, dijo en un evento del sector en Shanghái (según el South China Morning Post) que el modelo GPT-6 Astra, lanzado recientemente por OpenAI, es tan potente que ha alimentado la convicción de que un gran avance podría producirse “en uno o dos años”."
               },
               {
                 "t": "p",
-                "x": "Su AI SSD propio puede descargar partes de grandes modelos de IA de la DRAM a la memoria flash NAND, y conservar y reutilizar el contexto ya procesado. Mechrevo asegura que así el X10 puede ejecutar modelos de 80.000 millones, 120.000 millones e incluso 122.000 millones de parámetros manteniendo un rendimiento ágil. No se ha especificado la capacidad del SSD."
+                "x": "“Es posible que, por ejemplo, un modelo GPT-7 lanzado el año próximo resuelva directamente los problemas de la inteligencia encarnada”, dijo Wang. En agosto de este año había afirmado que ese “momento ChatGPT” podría tardar una década en llegar."
               },
               {
                 "t": "p",
-                "x": "En septiembre, la compañía afirmó que su AI SSD podía multiplicar hasta por 5,7 las cargas de trabajo de modelos admitidas y acelerar la fase de prefill hasta un 95%."
+                "x": "Como referencia, Wang dijo que los robots deberían poder completar el 80% de las tareas asignadas en el 80% de los entornos desconocidos usando solo órdenes de voz o de texto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+                "cap": "Unitree G1 pilota un Antigravity A1"
               },
               {
                 "t": "p",
-                "x": "Mechrevo no ha publicado pruebas de rendimiento detalladas, ajustes de cuantización ni condiciones de prueba, y la memoria flash NAND es bastante más lenta que la DRAM. Se desconocen el precio y la fecha de lanzamiento."
+                "x": "El Movement Lab de la Stanford University combinó un robot de Unitree con GPT-6 Astra y le encargó limpiar una cocina que nunca había visto; el robot logró “ordenar toda la habitación y recuperar un objeto recordado a partir de una petición poco precisa, sin datos de entrenamiento específicos del entorno ni aprendizaje adicional de políticas”. GPT-6 Astra obtuvo un 92,7% en ScreenSpot-Pro, frente al 76,9% de GPT-5.6 Sol."
               }
             ]
           }
@@ -1275,125 +1415,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "RTX Spark 미니PC\nAI SSD에 기댄다",
-          "body": "Mechrevo X10은 AI SSD로 최대 1220억 파라미터 모델을 담는다.",
-          "mini_headline": "Mechrevo의 AI SSD 미니 PC",
+          "headline": "Unitree 1~2년 내\n로봇 ChatGPT 순간",
+          "body": "Unitree CEO는 내년 GPT-7이 로봇의 난제를 풀 수도 있다고 봤다.",
+          "mini_headline": "Unitree가 본 로봇 AI 시간표",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-                "cap": "Mechrevo의 새 미니 PC는 SSD를 활용해 AI 모델을 실행할 수 있다"
+                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+                "cap": "바퀴를 단 Unitree G1"
               },
               {
                 "t": "p",
-                "x": "중국 PC 제조사 Mechrevo가 대형 AI 모델을 로컬에서 돌리는 데 주로 초점을 맞춘 미니 PC Master Road X10을 준비하고 있다. Nvidia의 RTX Spark 플랫폼을 쓰며, 20코어 Grace CPU, 최대 6,144개 CUDA 코어를 갖춘 Blackwell GPU, 최대 128 GB LPDDR5X 통합 메모리로 구성된다."
+                "x": "중국 로봇 기업 Unitree의 CEO Wang Xingxing은 상하이에서 열린 업계 행사에서(South China Morning Post 보도) OpenAI가 최근 공개한 GPT-6 Astra 모델이 매우 강력해 “1~2년 안에” 돌파구가 나올 수 있다는 믿음이 커졌다고 말했다."
               },
               {
                 "t": "p",
-                "x": "자체 개발한 AI SSD는 대형 AI 모델의 일부를 DRAM에서 NAND 플래시로 넘기고, 이전에 처리한 컨텍스트를 보존해 다시 쓸 수 있다. Mechrevo는 이 덕분에 X10이 800억, 1200억, 심지어 1220억 매개변수 모델도 빠른 응답 성능을 유지하며 실행한다고 주장한다. SSD 용량은 공개되지 않았다."
+                "x": "Wang은 “예컨대 내년에 나올 GPT-7 모델이 체화 지능의 문제를 곧바로 풀어낼 가능성도 있다”고 말했다. 그는 올해 8월만 해도 이런 “ChatGPT 모멘트”가 오기까지 10년이 걸릴 수 있다고 했었다."
               },
               {
                 "t": "p",
-                "x": "회사는 9월에 AI SSD가 지원 가능한 모델 작업량을 최대 5.7배 늘리고 프리필 단계를 최대 95% 가속할 수 있다고 주장했다."
+                "x": "Wang은 기준점으로, 로봇이 음성이나 텍스트 명령만으로 낯선 환경의 80%에서 맡은 작업의 80%를 해낼 수 있어야 한다고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+                "cap": "Antigravity A1을 날리는 Unitree G1"
               },
               {
                 "t": "p",
-                "x": "Mechrevo는 상세 벤치마크, 양자화 설정, 테스트 조건을 공개하지 않았으며, NAND 플래시는 DRAM보다 상당히 느리다. 가격과 출시일은 아직 알려지지 않았다."
+                "x": "Stanford University의 Movement Lab은 Unitree 로봇에 GPT-6 Astra를 결합해 처음 보는 주방을 청소하게 했다. 로봇은 “환경별 학습 데이터나 추가 정책 학습 없이도 방 전체를 정리하고, 모호한 요청을 듣고 기억해 둔 물건을 가져올 수 있었다.” GPT-6 Astra는 ScreenSpot-Pro에서 92.7%를 기록해 GPT-5.6 Sol의 76.9%보다 높았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RTX SparkのミニPC\nAI SSDを活用",
-          "body": "MechrevoのX10はAI SSDで最大1220億パラメータのモデルを扱う。",
-          "mini_headline": "MechrevoのAI SSDミニPC",
+          "headline": "Unitree、1〜2年で\nロボットのChatGPT瞬間",
+          "body": "Unitree CEOは、来年のGPT-7がロボットの難題を解く可能性があると語った。",
+          "mini_headline": "Unitreeが描くロボットAIの時間軸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-                "cap": "Mechrevoの新しいミニPCは、SSDを使ってAIモデルを実行できる"
+                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+                "cap": "車輪を付けたUnitree G1"
               },
               {
                 "t": "p",
-                "x": "中国のPCメーカーMechrevoは、大規模AIモデルをローカルで動かすことを主眼としたミニPC「Master Road X10」を準備している。NvidiaのRTX Sparkプラットフォームを採用し、20コアのGrace CPU、最大6,144基のCUDAコアを持つBlackwell GPU、最大128 GBのLPDDR5Xユニファイドメモリを備える。"
+                "x": "中国のロボット企業UnitreeのCEO、Wang Xingxing氏は上海で開かれた業界イベントで(South China Morning Post経由)、OpenAIが最近公開したGPT-6 Astraモデルは非常に強力で、「1〜2年以内」にブレークスルーが起こり得るとの確信を後押ししたと語った。"
               },
               {
                 "t": "p",
-                "x": "独自のAI SSDは、大規模AIモデルの一部をDRAMからNANDフラッシュへ退避させ、処理済みのコンテキストを保持・再利用できる。Mechrevoによれば、これによりX10は800億、1200億、さらには1220億パラメータのモデルでも応答性を保ったまま実行できるという。SSDの容量は明らかにされていない。"
+                "x": "「たとえば来年リリースされるGPT-7モデルが、身体性知能の課題を直接解決する可能性もある」とWang氏は述べた。同氏は今年8月の時点では、こうした「ChatGPTモーメント」の到来には10年かかる可能性があると話していた。"
               },
               {
                 "t": "p",
-                "x": "同社は9月、AI SSDによって対応可能なモデルのワークロードを最大5.7倍に増やし、プリフィル段階を最大95%高速化できると主張していた。"
+                "x": "Wang氏は目安として、ロボットは音声またはテキストの指示だけで、未知の環境の80%において割り当てられたタスクの80%をこなせるべきだと述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+                "cap": "Antigravity A1を飛ばすUnitree G1"
               },
               {
                 "t": "p",
-                "x": "Mechrevoは詳細なベンチマークや量子化設定、テスト条件を公表しておらず、NANDフラッシュはDRAMよりかなり遅い。価格と発売日は未定だ。"
+                "x": "Stanford UniversityのMovement LabはUnitreeのロボットにGPT-6 Astraを組み合わせ、初めて見るキッチンの掃除を任せた。ロボットは「環境固有の学習データや追加のポリシー学習なしに、部屋全体を片付け、曖昧な指示から記憶していた物を取ってくる」ことができた。GPT-6 AstraはScreenSpot-Proで92.7%を記録し、GPT-5.6 Solの76.9%から向上した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RTX Spark迷你主机\n倚重AI SSD",
-          "body": "Mechrevo称，X10借助AI SSD可容纳最高1220亿参数模型。",
-          "mini_headline": "Mechrevo的AI SSD迷你主机",
+          "headline": "Unitree CEO称\n1–2年迎ChatGPT时刻",
+          "body": "Unitree CEO称机器人突破或在一两年内到来，明年的GPT-7模型可能实现。",
+          "mini_headline": "Unitree的机器人AI时间表",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-                "cap": "Mechrevo的新款迷你主机可利用SSD运行AI模型"
+                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+                "cap": "装上轮子的Unitree G1"
               },
               {
                 "t": "p",
-                "x": "中国PC厂商Mechrevo正在准备Master Road X10，这是一款主要为本地运行大型AI模型而设计的迷你主机。它采用Nvidia的RTX Spark平台：20核Grace CPU、最多6,144个CUDA核心的Blackwell GPU，以及最高128 GB的LPDDR5X统一内存。"
+                "x": "中国机器人企业Unitree的CEO王兴兴（Wang Xingxing）在上海的一场行业活动上表示（据South China Morning Post报道），OpenAI最近发布的GPT-6 Astra模型非常强大，让人更加相信突破可能在“一两年内”出现。"
               },
               {
                 "t": "p",
-                "x": "其自研的AI SSD可将大型AI模型的部分内容从DRAM卸载到NAND闪存，并保存和复用此前处理过的上下文。Mechrevo称，这让X10能够运行800亿、1200亿乃至1220亿参数的模型，同时保持流畅的响应性能。SSD容量尚未公布。"
+                "x": "“比如说，明年发布的GPT-7模型就有可能直接攻克具身智能的难题，”王兴兴说。今年8月，他曾表示这样的“ChatGPT时刻”可能要十年才会到来。"
               },
               {
                 "t": "p",
-                "x": "该公司在9月曾声称，其AI SSD可将可支持的模型工作负载最多提升至5.7倍，并将预填充阶段最多加速95%。"
+                "x": "王兴兴提出的衡量标准是：机器人仅凭语音或文字指令，就应能在80%的陌生环境中完成80%的指定任务。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+                "cap": "Unitree G1操控Antigravity A1飞行"
               },
               {
                 "t": "p",
-                "x": "Mechrevo尚未公布详细的基准测试、量化设置或测试条件，而且NAND闪存比DRAM慢得多。价格和发布日期仍不得而知。"
+                "x": "Stanford University的Movement Lab将一台Unitree机器人与GPT-6 Astra结合，让它清洁一个从未见过的厨房；这台机器人能够“在没有特定环境训练数据或额外策略学习的情况下，打扫整个房间，并根据不够明确的请求取回记住的物品。”GPT-6 Astra在ScreenSpot-Pro上得分92.7%，高于GPT-5.6 Sol的76.9%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mini PC RTX Spark de Mechrevo\nse apoya en un AI SSD",
-          "body": "Según Mechrevo, su Master Road X10 con RTX Spark usa un AI SSD para modelos de hasta 122.000 millones de parámetros.",
-          "mini_headline": "El mini PC con AI SSD de Mechrevo",
+          "headline": "Unitree prevé para los robots\nun ‘momento ChatGPT’ en 1–2 años",
+          "body": "El CEO de Unitree cree que un avance robótico podría llegar en uno o dos años y que GPT-7 lo lograría el año próximo.",
+          "mini_headline": "El calendario de IA robótica de Unitree",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/mechrevo_master_road_x10_rtx_spark_4x3.png",
-                "cap": "El nuevo mini PC de Mechrevo puede usar su SSD para ejecutar modelos de IA"
+                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
+                "cap": "Unitree G1 sobre ruedas"
               },
               {
                 "t": "p",
-                "x": "El fabricante chino de PC Mechrevo prepara el Master Road X10, un mini PC diseñado principalmente para ejecutar grandes modelos de IA en local. Utiliza la plataforma RTX Spark de Nvidia: una CPU Grace de 20 núcleos, una GPU Blackwell con hasta 6.144 núcleos CUDA y hasta 128 GB de memoria unificada LPDDR5X."
+                "x": "Wang Xingxing, CEO de la empresa china de robótica Unitree, dijo en un evento del sector en Shanghái (según el South China Morning Post) que el modelo GPT-6 Astra, lanzado recientemente por OpenAI, es tan potente que ha alimentado la convicción de que un gran avance podría producirse “en uno o dos años”."
               },
               {
                 "t": "p",
-                "x": "Su AI SSD propio puede descargar partes de grandes modelos de IA de la DRAM a la memoria flash NAND, y conservar y reutilizar el contexto ya procesado. Mechrevo asegura que así el X10 puede ejecutar modelos de 80.000 millones, 120.000 millones e incluso 122.000 millones de parámetros manteniendo un rendimiento ágil. No se ha especificado la capacidad del SSD."
+                "x": "“Es posible que, por ejemplo, un modelo GPT-7 lanzado el año próximo resuelva directamente los problemas de la inteligencia encarnada”, dijo Wang. En agosto de este año había afirmado que ese “momento ChatGPT” podría tardar una década en llegar."
               },
               {
                 "t": "p",
-                "x": "En septiembre, la compañía afirmó que su AI SSD podía multiplicar hasta por 5,7 las cargas de trabajo de modelos admitidas y acelerar la fase de prefill hasta un 95%."
+                "x": "Como referencia, Wang dijo que los robots deberían poder completar el 80% de las tareas asignadas en el 80% de los entornos desconocidos usando solo órdenes de voz o de texto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
+                "cap": "Unitree G1 pilota un Antigravity A1"
               },
               {
                 "t": "p",
-                "x": "Mechrevo no ha publicado pruebas de rendimiento detalladas, ajustes de cuantización ni condiciones de prueba, y la memoria flash NAND es bastante más lenta que la DRAM. Se desconocen el precio y la fecha de lanzamiento."
+                "x": "El Movement Lab de la Stanford University combinó un robot de Unitree con GPT-6 Astra y le encargó limpiar una cocina que nunca había visto; el robot logró “ordenar toda la habitación y recuperar un objeto recordado a partir de una petición poco precisa, sin datos de entrenamiento específicos del entorno ni aprendizaje adicional de políticas”. GPT-6 Astra obtuvo un 92,7% en ScreenSpot-Pro, frente al 76,9% de GPT-5.6 Sol."
               }
             ]
           }
@@ -1401,213 +1561,195 @@
       }
     },
     {
-      "id": "gadgets-meta-wonder-full",
+      "id": "gadgets-ultrahuman-uae-bioage",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Muse Wonder 모델\nMuse 에이전트 구동",
-      "body": "Meta는 새 Muse Wonder 모델이 업계 최고에 맞선다고 밝혔다.",
-      "mini_headline": "Meta의 Muse Wonder 모델",
+      "headline": "Ultrahuman\nUAE에 생체나이 모델",
+      "body": "Ultrahuman과 Abu Dhabi가 2년간 생체 나이 모델을 연구·검증한다.",
+      "mini_headline": "Ultrahuman의 UAE 생체 나이 모델",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+            "cap": "Ultrahuman Ring AIR"
           },
           {
             "t": "p",
-            "x": "Meta가 AI 경쟁에서 뒤처진 시간을 만회하는 중이다. 새로 개편한 Superintelligence Labs 부서의 첫 모델 Muse Spark, 화제를 모은 AI 에이전트 Muse에 이어 이번엔 업계 최고 모델과 정면으로 겨룰 만하다고 주장하는 새 모델 두 종을 내놓는다."
+            "x": "스마트 링으로 잘 알려진 Bengaluru 기반 헬스테크 스타트업 Ultrahuman이 Abu Dhabi 공중보건센터(ADPHC)와 2년짜리 양해각서를 맺고 생체 나이 모델을 개발·검증한다. 회사는 이 모델을 결국 아랍에미리트(UAE) 전역의 사람들이 쓸 수 있게 하겠다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "새 모델 Muse Wonder와 Muse Wonder Full은 오늘부터 Muse Code 구독자가 쓸 수 있다. Meta에 따르면 Wonder는 Meta Model API로도 이용 가능하다."
+            "x": "이 모델은 임상 바이오마커와 웨어러블 기기 데이터를 결합해 개인의 노화 속도를 추정하고 수면·활동·심혈관 건강·대사 등 노화를 앞당기거나 늦출 수 있는 요인을 찾아낸다. 특정 웨어러블에 묶이지 않게 설계됐다. 사람들은 앞으로 TAMM과 Sahatna 같은 플랫폼에서 자신의 건강 나이를 확인하게 된다."
           },
           {
             "t": "p",
-            "x": "Meta는 구독자부터 시작해 결국 Muse AI 에이전트를 Wonder로 돌릴 계획이다. “Muse를 쓰는 모든 사람에게 제공할 수 있는” 특화 모델도 만들겠다고 했지만, 두 계획 모두 구체적인 내용이나 일정은 내놓지 않았다."
+            "x": "Ultrahuman과 ADPHC는 앞으로 2년간 연구와 임상 검증을 진행한다. CEO Mohit Kumar는 본격 출시를 단계적으로 진행하겠다면서도 일정은 밝히지 않았다. 이 스타트업이 전 세계에 판 스마트 링은 약 80만 개다."
           },
           {
             "t": "p",
-            "x": "회사는 여러 업계 벤치마크로 돌린 내부 테스트 결과를 들어, 새 모델이 GPT-6 Astra, Claude Opus 5.5, Claude Fable 5.1 등 OpenAI와 Anthropic의 주요 모델에 견줄 만하다고 말한다. 성능이 아직 다 드러나지 않은 Google의 Gemini 4 Argon과 비교하면 어느 수준인지는 분명하지 않다."
-          },
-          {
-            "t": "p",
-            "x": "이번 출시도 AI 분야의 주요 세력으로 다시 서려는 Meta의 공격적인 행보 가운데 하나다. Meta는 인재와 인프라에 수십억 달러를 쏟아부었고, 이미지 모델 Muse Image를 비롯해 AI 라인업을 꾸준히 넓혀 왔다. Muse로는 쓸모 있는 AI 에이전트를 대중에게 보급하는 데 힘을 쏟는다."
+            "x": "Kumar는 이 모델을 UAE 데이터로 학습시키지 않는다고 강조했다. 그는 “UAE 데이터에는 알고리즘을 배포할 것”이라며 Ultrahuman은 개인 식별 정보에 접근할 수 없다고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta's Muse Wonder models\nwill power its Muse agent",
-          "body": "Meta says its new Muse Wonder and Wonder Full models rival the industry's best and will eventually power its Muse agent.",
-          "mini_headline": "Meta's Muse Wonder models",
+          "headline": "Ultrahuman to roll out a\nbiological age model in UAE",
+          "body": "Ultrahuman and Abu Dhabi will spend two years researching and clinically validating a biological age model.",
+          "mini_headline": "Ultrahuman’s UAE age model",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+                "cap": "Ultrahuman Ring AIR"
               },
               {
                 "t": "p",
-                "x": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it’s now launching two new models it claims can go toe-to-toe with the industry’s best."
+                "x": "Ultrahuman, a Bengaluru-based health tech startup best known for its smart rings, has signed a two-year memorandum of understanding with the Abu Dhabi Public Health Center (ADPHC) to develop and validate a biological-age model that it says will eventually be made available to people across the United Arab Emirates."
               },
               {
                 "t": "p",
-                "x": "The new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said."
+                "x": "The model will combine clinical biomarkers with data from wearable devices to estimate how quickly an individual is aging and identify factors — including sleep, activity, cardiovascular health, and metabolism — that may be accelerating or slowing that process. It is designed to be wearable-agnostic, and people will eventually access their health age through platforms including TAMM and Sahatna."
               },
               {
                 "t": "p",
-                "x": "Meta says it eventually plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it “can bring to everyone using Muse.” It hasn’t shared specifics or provided a timeline for either."
+                "x": "Ultrahuman and ADPHC will spend the next two years on research and clinical validation; CEO Mohit Kumar said the broader rollout will happen in phases but gave no timeline. The startup has sold around 800,000 smart rings globally."
               },
               {
                 "t": "p",
-                "x": "The company says its new models can rival leading models from OpenAI and Anthropic, including GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5.1, pointing to results from internal testing on several industry benchmarks. It’s unclear how they stack up against Google’s Gemini 4 Argon, whose capabilities are still coming into focus."
-              },
-              {
-                "t": "p",
-                "x": "The launches are part of Meta’s aggressive push to reestablish itself as a major force in AI. The company has poured billions into talent and infrastructure and has been steadily expanding its AI lineup, including with image model Muse Image and a heavy focus on bringing useful AI agents to the masses through Muse."
+                "x": "Kumar stressed the model will not be trained on data from the UAE. “We will deploy an algorithm on the UAE data,” he said, adding that Ultrahuman will not have access to personally identifiable information."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Muse Wonder 모델\nMuse 에이전트 구동",
-          "body": "Meta는 새 Muse Wonder 모델이 업계 최고에 맞선다고 밝혔다.",
-          "mini_headline": "Meta의 Muse Wonder 모델",
+          "headline": "Ultrahuman\nUAE에 생체나이 모델",
+          "body": "Ultrahuman과 Abu Dhabi가 2년간 생체 나이 모델을 연구·검증한다.",
+          "mini_headline": "Ultrahuman의 UAE 생체 나이 모델",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+                "cap": "Ultrahuman Ring AIR"
               },
               {
                 "t": "p",
-                "x": "Meta가 AI 경쟁에서 뒤처진 시간을 만회하는 중이다. 새로 개편한 Superintelligence Labs 부서의 첫 모델 Muse Spark, 화제를 모은 AI 에이전트 Muse에 이어 이번엔 업계 최고 모델과 정면으로 겨룰 만하다고 주장하는 새 모델 두 종을 내놓는다."
+                "x": "스마트 링으로 잘 알려진 Bengaluru 기반 헬스테크 스타트업 Ultrahuman이 Abu Dhabi 공중보건센터(ADPHC)와 2년짜리 양해각서를 맺고 생체 나이 모델을 개발·검증한다. 회사는 이 모델을 결국 아랍에미리트(UAE) 전역의 사람들이 쓸 수 있게 하겠다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "새 모델 Muse Wonder와 Muse Wonder Full은 오늘부터 Muse Code 구독자가 쓸 수 있다. Meta에 따르면 Wonder는 Meta Model API로도 이용 가능하다."
+                "x": "이 모델은 임상 바이오마커와 웨어러블 기기 데이터를 결합해 개인의 노화 속도를 추정하고 수면·활동·심혈관 건강·대사 등 노화를 앞당기거나 늦출 수 있는 요인을 찾아낸다. 특정 웨어러블에 묶이지 않게 설계됐다. 사람들은 앞으로 TAMM과 Sahatna 같은 플랫폼에서 자신의 건강 나이를 확인하게 된다."
               },
               {
                 "t": "p",
-                "x": "Meta는 구독자부터 시작해 결국 Muse AI 에이전트를 Wonder로 돌릴 계획이다. “Muse를 쓰는 모든 사람에게 제공할 수 있는” 특화 모델도 만들겠다고 했지만, 두 계획 모두 구체적인 내용이나 일정은 내놓지 않았다."
+                "x": "Ultrahuman과 ADPHC는 앞으로 2년간 연구와 임상 검증을 진행한다. CEO Mohit Kumar는 본격 출시를 단계적으로 진행하겠다면서도 일정은 밝히지 않았다. 이 스타트업이 전 세계에 판 스마트 링은 약 80만 개다."
               },
               {
                 "t": "p",
-                "x": "회사는 여러 업계 벤치마크로 돌린 내부 테스트 결과를 들어, 새 모델이 GPT-6 Astra, Claude Opus 5.5, Claude Fable 5.1 등 OpenAI와 Anthropic의 주요 모델에 견줄 만하다고 말한다. 성능이 아직 다 드러나지 않은 Google의 Gemini 4 Argon과 비교하면 어느 수준인지는 분명하지 않다."
-              },
-              {
-                "t": "p",
-                "x": "이번 출시도 AI 분야의 주요 세력으로 다시 서려는 Meta의 공격적인 행보 가운데 하나다. Meta는 인재와 인프라에 수십억 달러를 쏟아부었고, 이미지 모델 Muse Image를 비롯해 AI 라인업을 꾸준히 넓혀 왔다. Muse로는 쓸모 있는 AI 에이전트를 대중에게 보급하는 데 힘을 쏟는다."
+                "x": "Kumar는 이 모델을 UAE 데이터로 학습시키지 않는다고 강조했다. 그는 “UAE 데이터에는 알고리즘을 배포할 것”이라며 Ultrahuman은 개인 식별 정보에 접근할 수 없다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Muse Wonderが\nMuseエージェントを駆動",
-          "body": "Metaは新モデルMuse Wonderが業界最高に匹敵すると主張する。",
-          "mini_headline": "MetaのMuse Wonderモデル",
+          "headline": "Ultrahuman\nUAEで生体年齢モデル展開",
+          "body": "UltrahumanとAbu Dhabiは2年かけて生体年齢モデルを研究し臨床検証する。",
+          "mini_headline": "UltrahumanのUAE年齢モデル",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+                "cap": "Ultrahuman Ring AIR"
               },
               {
                 "t": "p",
-                "x": "MetaはAI競争での遅れを取り戻そうとしている。刷新したSuperintelligence Labs部門の初モデルMuse Sparkと、話題のAIエージェントMuseを投入したのに続き、今度は業界トップと互角に渡り合えるとする新モデル2種を投入する。"
+                "x": "スマートリングで知られるBengaluru拠点のヘルステック新興企業Ultrahumanは、Abu Dhabi公衆衛生センター(ADPHC)と2年間の覚書を締結し、生物学的年齢モデルを開発・検証する。同社によれば、このモデルは最終的にアラブ首長国連邦(UAE)全域の人々が利用できるようになるという。"
               },
               {
                 "t": "p",
-                "x": "新モデルのMuse WonderとMuse Wonder Fullは、本日からMuse Codeの契約者が利用できる。WonderはMeta Model API経由でも利用できるとMetaは述べた。"
+                "x": "このモデルは臨床バイオマーカーとウェアラブル端末のデータを組み合わせ、個人の老化の速さを推定するとともに、睡眠、活動、心血管の健康、代謝など、老化を早めたり遅らせたりしうる要因を特定する。特定のウェアラブルに依存しない設計で、人々は将来TAMMやSahatnaなどのプラットフォームを通じて自分の健康年齢を確認できるようになる。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、まず契約者を対象に、最終的にはMuse AIエージェントをWonderで動かす計画で、「Museを使うすべての人に届けられる」特化型モデルも開発するという。いずれについても詳細や時期は明らかにしていない。"
+                "x": "UltrahumanとADPHCは今後2年間を研究と臨床検証に充てる。CEOのMohit Kumar氏は、本格展開は段階的に進むと述べたが、時期は示さなかった。同社はこれまでに世界で約80万個のスマートリングを販売している。"
               },
               {
                 "t": "p",
-                "x": "同社は複数の業界ベンチマークでの社内テスト結果を根拠に、新モデルがGPT-6 Astra、Claude Opus 5.5、Claude Fable 5.1といったOpenAIやAnthropicの主要モデルに匹敵するとしている。性能の全容がまだ見えていないGoogleのGemini 4 Argonと比べてどうかは不明だ。"
-              },
-              {
-                "t": "p",
-                "x": "今回の投入は、AIの主要勢力としての地位を取り戻そうとするMetaの積極攻勢の一環だ。同社は人材とインフラに数十億ドル規模を投じ、画像モデルMuse Imageを含めAIラインアップを着実に広げてきたほか、Museを通じて実用的なAIエージェントを大衆に届けることに力を注いでいる。"
+                "x": "Kumar氏は、モデルの学習にUAEのデータは使わないと強調した。「UAEのデータに対してアルゴリズムを展開する」と述べ、Ultrahumanが個人を特定できる情報にアクセスすることはないと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muse Wonder模型\n将驱动Muse智能体",
-          "body": "Meta称新款Muse Wonder模型可比肩业界顶尖水平，并将最终驱动Muse。",
-          "mini_headline": "Meta的Muse Wonder模型",
+          "headline": "Ultrahuman在UAE\n推出生物年龄模型",
+          "body": "Ultrahuman与Abu Dhabi将用两年时间研究并临床验证生物年龄模型。",
+          "mini_headline": "Ultrahuman的UAE年龄模型",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+                "cap": "Ultrahuman Ring AIR"
               },
               {
                 "t": "p",
-                "x": "Meta正在弥补其在AI竞赛中失去的时间。在推出改组后的Superintelligence Labs部门首款模型Muse Spark和备受关注的AI智能体Muse之后，Meta又推出两款新模型，并称其可与业界最强模型正面抗衡。"
+                "x": "以智能戒指闻名的Bengaluru健康科技初创公司Ultrahuman已与Abu Dhabi公共卫生中心（ADPHC）签署为期两年的谅解备忘录，开发并验证一款生物年龄模型。该公司表示，这一模型最终将向阿拉伯联合酋长国（UAE）各地民众开放。"
               },
               {
                 "t": "p",
-                "x": "新模型Muse Wonder和Muse Wonder Full即日起向Muse Code订阅用户开放。Meta表示，Wonder也可以通过Meta Model API使用。"
+                "x": "该模型将结合临床生物标志物和可穿戴设备数据，估算个人的衰老速度，并找出可能加速或减缓衰老的因素，包括睡眠、活动、心血管健康和新陈代谢。它的设计不依赖特定可穿戴设备，民众今后可通过TAMM和Sahatna等平台查看自己的健康年龄。"
               },
               {
                 "t": "p",
-                "x": "Meta表示，计划最终用Wonder驱动其Muse AI智能体，先从订阅用户开始，并将开发“可以提供给所有Muse用户”的专用模型。对于这两项计划，Meta都未透露具体细节或时间表。"
+                "x": "Ultrahuman和ADPHC将在未来两年开展研究和临床验证；CEO Mohit Kumar表示，更大范围的推广将分阶段进行，但未给出时间表。这家初创公司已在全球售出约80万枚智能戒指。"
               },
               {
                 "t": "p",
-                "x": "该公司援引多项行业基准的内部测试结果称，新模型可与OpenAI和Anthropic的领先模型相媲美，包括GPT-6 Astra、Claude Opus 5.5和Claude Fable 5.1。它们与能力尚未完全明朗的Google Gemini 4 Argon相比表现如何，目前尚不清楚。"
-              },
-              {
-                "t": "p",
-                "x": "此次发布是Meta力图重新确立AI领域主要力量地位的激进举措的一部分。该公司已向人才和基础设施投入数十亿美元，并持续扩充AI产品线，包括图像模型Muse Image，同时重点通过Muse把实用的AI智能体带给大众。"
+                "x": "Kumar强调，该模型不会使用UAE的数据进行训练。他说：“我们会在UAE数据上部署算法。”他还补充说，Ultrahuman无法获取个人身份信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los modelos Muse Wonder de Meta\nimpulsarán su agente Muse",
-          "body": "Meta afirma que sus modelos Muse Wonder y Wonder Full rivalizan con los mejores y acabarán impulsando su agente Muse.",
-          "mini_headline": "Los modelos Muse Wonder de Meta",
+          "headline": "Ultrahuman lanzará en UAE\nun modelo de edad biológica",
+          "body": "Ultrahuman y Abu Dhabi dedicarán dos años a investigar y validar clínicamente un modelo de edad biológica.",
+          "mini_headline": "El modelo de edad de Ultrahuman en UAE",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+                "cap": "Ultrahuman Ring AIR"
               },
               {
                 "t": "p",
-                "x": "Meta está recuperando el tiempo perdido en la carrera de la IA. Tras lanzar Muse Spark, el primer modelo de su renovada división Superintelligence Labs, y el comentado agente de IA Muse, ahora presenta dos nuevos modelos que, según afirma, pueden competir de tú a tú con los mejores del sector."
+                "x": "Ultrahuman, una startup de tecnología sanitaria con sede en Bengaluru conocida sobre todo por sus anillos inteligentes, ha firmado un memorando de entendimiento de dos años con el Centro de Salud Pública de Abu Dhabi (ADPHC) para desarrollar y validar un modelo de edad biológica que, según la empresa, acabará estando disponible para la población de todos los Emiratos Árabes Unidos (UAE)."
               },
               {
                 "t": "p",
-                "x": "Los nuevos modelos, Muse Wonder y Muse Wonder Full, están disponibles desde hoy para los suscriptores de Muse Code. Wonder también se puede usar a través de Meta Model API, según Meta."
+                "x": "El modelo combinará biomarcadores clínicos con datos de dispositivos ponibles para estimar a qué ritmo envejece una persona e identificar factores —entre ellos el sueño, la actividad, la salud cardiovascular y el metabolismo— que pueden acelerar o ralentizar ese proceso. Está diseñado para funcionar con cualquier wearable, y con el tiempo las personas podrán consultar su edad de salud a través de plataformas como TAMM y Sahatna."
               },
               {
                 "t": "p",
-                "x": "Meta afirma que con el tiempo planea impulsar su agente de IA Muse con Wonder, empezando por los suscriptores, y que desarrollará modelos especializados que “pueda llevar a todos los que usan Muse”. No ha dado detalles ni plazos para ninguna de las dos cosas."
+                "x": "Ultrahuman y ADPHC dedicarán los próximos dos años a la investigación y la validación clínica; el CEO, Mohit Kumar, dijo que el despliegue más amplio se hará por fases, pero no dio plazos. La startup ha vendido unos 800.000 anillos inteligentes en todo el mundo."
               },
               {
                 "t": "p",
-                "x": "La compañía asegura que sus nuevos modelos pueden rivalizar con los modelos líderes de OpenAI y Anthropic, como GPT-6 Astra, Claude Opus 5.5 y Claude Fable 5.1, y se apoya en los resultados de pruebas internas en varios benchmarks del sector. No está claro cómo se comparan con Gemini 4 Argon de Google, cuyas capacidades aún se están perfilando."
-              },
-              {
-                "t": "p",
-                "x": "Los lanzamientos forman parte de la ofensiva de Meta para volver a consolidarse como una fuerza importante en la IA. La compañía ha invertido miles de millones en talento e infraestructura y ha ampliado de forma constante su catálogo de IA, incluido el modelo de imagen Muse Image, con un fuerte énfasis en llevar agentes de IA útiles al gran público a través de Muse."
+                "x": "Kumar subrayó que el modelo no se entrenará con datos de UAE. “Desplegaremos un algoritmo sobre los datos de UAE”, dijo, y añadió que Ultrahuman no tendrá acceso a información de identificación personal."
               }
             ]
           }
@@ -1615,137 +1757,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Muse Wonder 모델\nMuse 에이전트 구동",
-          "body": "Meta는 새 Muse Wonder 모델이 업계 최고에 맞선다고 밝혔다.",
-          "mini_headline": "Meta의 Muse Wonder 모델",
+          "headline": "Ultrahuman\nUAE에 생체나이 모델",
+          "body": "Ultrahuman과 Abu Dhabi가 2년간 생체 나이 모델을 연구·검증한다.",
+          "mini_headline": "Ultrahuman의 UAE 생체 나이 모델",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+                "cap": "Ultrahuman Ring AIR"
               },
               {
                 "t": "p",
-                "x": "Meta가 AI 경쟁에서 뒤처진 시간을 만회하고 있다. 새로 개편한 Superintelligence Labs 부서의 첫 모델 Muse Spark와 화제를 모은 AI 에이전트 Muse를 내놓은 데 이어, 이번에는 업계 최고 모델과 정면으로 겨룰 수 있다고 주장하는 새 모델 두 종을 출시한다."
+                "x": "스마트 링으로 잘 알려진 Bengaluru 기반 헬스테크 스타트업 Ultrahuman이 Abu Dhabi 공중보건센터(ADPHC)와 2년 기간의 양해각서를 맺고 생체 나이 모델을 개발·검증한다. 회사는 이 모델을 결국 아랍에미리트(UAE) 전역의 사람들이 이용할 수 있게 하겠다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "새 모델 Muse Wonder와 Muse Wonder Full은 오늘부터 Muse Code 구독자가 쓸 수 있다. Meta는 Wonder를 Meta Model API로도 이용할 수 있다고 밝혔다."
+                "x": "이 모델은 임상 바이오마커와 웨어러블 기기 데이터를 결합해 개인의 노화 속도를 추정하고, 수면·활동·심혈관 건강·대사 등 노화를 앞당기거나 늦출 수 있는 요인을 찾아낸다. 특정 웨어러블에 묶이지 않도록 설계됐으며, 사람들은 앞으로 TAMM과 Sahatna 같은 플랫폼에서 자신의 건강 나이를 확인할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Meta는 구독자부터 시작해 결국 Muse AI 에이전트를 Wonder로 구동할 계획이며, “Muse를 쓰는 모든 사람에게 제공할 수 있는” 특화 모델도 개발하겠다고 밝혔다. 두 계획 모두 구체적인 내용이나 일정은 공개하지 않았다."
+                "x": "Ultrahuman과 ADPHC는 앞으로 2년간 연구와 임상 검증을 진행한다. CEO Mohit Kumar는 본격적인 출시가 단계적으로 이뤄질 것이라면서도 일정은 밝히지 않았다. 이 스타트업은 전 세계에서 스마트 링을 약 80만 개 판매했다."
               },
               {
                 "t": "p",
-                "x": "회사는 여러 업계 벤치마크에 대한 내부 테스트 결과를 근거로, 새 모델이 GPT-6 Astra, Claude Opus 5.5, Claude Fable 5.1 등 OpenAI와 Anthropic의 주요 모델에 견줄 만하다고 말한다. 아직 성능이 다 드러나지 않은 Google의 Gemini 4 Argon과 비교해 어떤 수준인지는 분명하지 않다."
-              },
-              {
-                "t": "p",
-                "x": "이번 출시는 AI 분야의 주요 세력으로 다시 자리 잡으려는 Meta의 공격적인 행보의 일환이다. Meta는 인재와 인프라에 수십억 달러를 쏟아부었고, 이미지 모델 Muse Image를 비롯해 AI 라인업을 꾸준히 넓혀 왔으며, Muse를 통해 쓸모 있는 AI 에이전트를 대중에게 보급하는 데 힘을 쏟고 있다."
+                "x": "Kumar는 이 모델을 UAE 데이터로 학습시키지 않는다고 강조했다. 그는 “UAE 데이터에는 알고리즘을 배포할 것”이라며, Ultrahuman은 개인 식별 정보에 접근할 수 없다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Muse Wonderが\nMuseエージェントを駆動",
-          "body": "Metaは新モデルMuse Wonderが業界最高に匹敵すると主張する。",
-          "mini_headline": "MetaのMuse Wonderモデル",
+          "headline": "Ultrahuman\nUAEで生体年齢モデル展開",
+          "body": "UltrahumanとAbu Dhabiは2年かけて生体年齢モデルを研究し臨床検証する。",
+          "mini_headline": "UltrahumanのUAE年齢モデル",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+                "cap": "Ultrahuman Ring AIR"
               },
               {
                 "t": "p",
-                "x": "MetaはAI競争での遅れを取り戻そうとしている。刷新したSuperintelligence Labs部門の初モデルMuse Sparkと、話題のAIエージェントMuseを投入したのに続き、今度は業界トップと互角に渡り合えるとする新モデル2種を投入する。"
+                "x": "スマートリングで知られるBengaluru拠点のヘルステック新興企業Ultrahumanは、Abu Dhabi公衆衛生センター(ADPHC)と2年間の覚書を締結し、生物学的年齢モデルを開発・検証する。同社によれば、このモデルは最終的にアラブ首長国連邦(UAE)全域の人々が利用できるようになるという。"
               },
               {
                 "t": "p",
-                "x": "新モデルのMuse WonderとMuse Wonder Fullは、本日からMuse Codeの契約者が利用できる。WonderはMeta Model API経由でも利用できるとMetaは述べた。"
+                "x": "このモデルは臨床バイオマーカーとウェアラブル端末のデータを組み合わせ、個人の老化の速さを推定するとともに、睡眠、活動、心血管の健康、代謝など、老化を早めたり遅らせたりしうる要因を特定する。特定のウェアラブルに依存しない設計で、人々は将来TAMMやSahatnaなどのプラットフォームを通じて自分の健康年齢を確認できるようになる。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、まず契約者を対象に、最終的にはMuse AIエージェントをWonderで動かす計画で、「Museを使うすべての人に届けられる」特化型モデルも開発するという。いずれについても詳細や時期は明らかにしていない。"
+                "x": "UltrahumanとADPHCは今後2年間を研究と臨床検証に充てる。CEOのMohit Kumar氏は、本格展開は段階的に進むと述べたが、時期は示さなかった。同社はこれまでに世界で約80万個のスマートリングを販売している。"
               },
               {
                 "t": "p",
-                "x": "同社は複数の業界ベンチマークでの社内テスト結果を根拠に、新モデルがGPT-6 Astra、Claude Opus 5.5、Claude Fable 5.1といったOpenAIやAnthropicの主要モデルに匹敵するとしている。性能の全容がまだ見えていないGoogleのGemini 4 Argonと比べてどうかは不明だ。"
-              },
-              {
-                "t": "p",
-                "x": "今回の投入は、AIの主要勢力としての地位を取り戻そうとするMetaの積極攻勢の一環だ。同社は人材とインフラに数十億ドル規模を投じ、画像モデルMuse Imageを含めAIラインアップを着実に広げてきたほか、Museを通じて実用的なAIエージェントを大衆に届けることに力を注いでいる。"
+                "x": "Kumar氏は、モデルの学習にUAEのデータは使わないと強調した。「UAEのデータに対してアルゴリズムを展開する」と述べ、Ultrahumanが個人を特定できる情報にアクセスすることはないと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muse Wonder模型\n将驱动Muse智能体",
-          "body": "Meta称新款Muse Wonder模型可比肩业界顶尖水平，并将最终驱动Muse。",
-          "mini_headline": "Meta的Muse Wonder模型",
+          "headline": "Ultrahuman在UAE\n推出生物年龄模型",
+          "body": "Ultrahuman与Abu Dhabi将用两年时间研究并临床验证生物年龄模型。",
+          "mini_headline": "Ultrahuman的UAE年龄模型",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+                "cap": "Ultrahuman Ring AIR"
               },
               {
                 "t": "p",
-                "x": "Meta正在弥补其在AI竞赛中失去的时间。在推出改组后的Superintelligence Labs部门首款模型Muse Spark和备受关注的AI智能体Muse之后，Meta又推出两款新模型，并称其可与业界最强模型正面抗衡。"
+                "x": "以智能戒指闻名的Bengaluru健康科技初创公司Ultrahuman已与Abu Dhabi公共卫生中心（ADPHC）签署为期两年的谅解备忘录，开发并验证一款生物年龄模型。该公司表示，这一模型最终将向阿拉伯联合酋长国（UAE）各地民众开放。"
               },
               {
                 "t": "p",
-                "x": "新模型Muse Wonder和Muse Wonder Full即日起向Muse Code订阅用户开放。Meta表示，Wonder也可以通过Meta Model API使用。"
+                "x": "该模型将结合临床生物标志物和可穿戴设备数据，估算个人的衰老速度，并找出可能加速或减缓衰老的因素，包括睡眠、活动、心血管健康和新陈代谢。它的设计不依赖特定可穿戴设备，民众今后可通过TAMM和Sahatna等平台查看自己的健康年龄。"
               },
               {
                 "t": "p",
-                "x": "Meta表示，计划最终用Wonder驱动其Muse AI智能体，先从订阅用户开始，并将开发“可以提供给所有Muse用户”的专用模型。对于这两项计划，Meta都未透露具体细节或时间表。"
+                "x": "Ultrahuman和ADPHC将在未来两年开展研究和临床验证；CEO Mohit Kumar表示，更大范围的推广将分阶段进行，但未给出时间表。这家初创公司已在全球售出约80万枚智能戒指。"
               },
               {
                 "t": "p",
-                "x": "该公司援引多项行业基准的内部测试结果称，新模型可与OpenAI和Anthropic的领先模型相媲美，包括GPT-6 Astra、Claude Opus 5.5和Claude Fable 5.1。它们与能力尚未完全明朗的Google Gemini 4 Argon相比表现如何，目前尚不清楚。"
-              },
-              {
-                "t": "p",
-                "x": "此次发布是Meta力图重新确立AI领域主要力量地位的激进举措的一部分。该公司已向人才和基础设施投入数十亿美元，并持续扩充AI产品线，包括图像模型Muse Image，同时重点通过Muse把实用的AI智能体带给大众。"
+                "x": "Kumar强调，该模型不会使用UAE的数据进行训练。他说：“我们会在UAE数据上部署算法。”他还补充说，Ultrahuman无法获取个人身份信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los modelos Muse Wonder de Meta\nimpulsarán su agente Muse",
-          "body": "Meta afirma que sus modelos Muse Wonder y Wonder Full rivalizan con los mejores y acabarán impulsando su agente Muse.",
-          "mini_headline": "Los modelos Muse Wonder de Meta",
+          "headline": "Ultrahuman lanzará en UAE\nun modelo de edad biológica",
+          "body": "Ultrahuman y Abu Dhabi dedicarán dos años a investigar y validar clínicamente un modelo de edad biológica.",
+          "mini_headline": "El modelo de edad de Ultrahuman en UAE",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
+                "cap": "Ultrahuman Ring AIR"
               },
               {
                 "t": "p",
-                "x": "Meta está recuperando el tiempo perdido en la carrera de la IA. Tras lanzar Muse Spark, el primer modelo de su renovada división Superintelligence Labs, y el comentado agente de IA Muse, ahora presenta dos nuevos modelos que, según afirma, pueden competir de tú a tú con los mejores del sector."
+                "x": "Ultrahuman, una startup de tecnología sanitaria con sede en Bengaluru conocida sobre todo por sus anillos inteligentes, ha firmado un memorando de entendimiento de dos años con el Centro de Salud Pública de Abu Dhabi (ADPHC) para desarrollar y validar un modelo de edad biológica que, según la empresa, acabará estando disponible para la población de todos los Emiratos Árabes Unidos (UAE)."
               },
               {
                 "t": "p",
-                "x": "Los nuevos modelos, Muse Wonder y Muse Wonder Full, están disponibles desde hoy para los suscriptores de Muse Code. Wonder también se puede usar a través de Meta Model API, según Meta."
+                "x": "El modelo combinará biomarcadores clínicos con datos de dispositivos ponibles para estimar a qué ritmo envejece una persona e identificar factores —entre ellos el sueño, la actividad, la salud cardiovascular y el metabolismo— que pueden acelerar o ralentizar ese proceso. Está diseñado para funcionar con cualquier wearable, y con el tiempo las personas podrán consultar su edad de salud a través de plataformas como TAMM y Sahatna."
               },
               {
                 "t": "p",
-                "x": "Meta afirma que con el tiempo planea impulsar su agente de IA Muse con Wonder, empezando por los suscriptores, y que desarrollará modelos especializados que “pueda llevar a todos los que usan Muse”. No ha dado detalles ni plazos para ninguna de las dos cosas."
+                "x": "Ultrahuman y ADPHC dedicarán los próximos dos años a la investigación y la validación clínica; el CEO, Mohit Kumar, dijo que el despliegue más amplio se hará por fases, pero no dio plazos. La startup ha vendido unos 800.000 anillos inteligentes en todo el mundo."
               },
               {
                 "t": "p",
-                "x": "La compañía asegura que sus nuevos modelos pueden rivalizar con los modelos líderes de OpenAI y Anthropic, como GPT-6 Astra, Claude Opus 5.5 y Claude Fable 5.1, y se apoya en los resultados de pruebas internas en varios benchmarks del sector. No está claro cómo se comparan con Gemini 4 Argon de Google, cuyas capacidades aún se están perfilando."
-              },
-              {
-                "t": "p",
-                "x": "Los lanzamientos forman parte de la ofensiva de Meta para volver a consolidarse como una fuerza importante en la IA. La compañía ha invertido miles de millones en talento e infraestructura y ha ampliado de forma constante su catálogo de IA, incluido el modelo de imagen Muse Image, con un fuerte énfasis en llevar agentes de IA útiles al gran público a través de Muse."
+                "x": "Kumar subrayó que el modelo no se entrenará con datos de UAE. “Desplegaremos un algoritmo sobre los datos de UAE”, dijo, y añadió que Ultrahuman no tendrá acceso a información de identificación personal."
               }
             ]
           }

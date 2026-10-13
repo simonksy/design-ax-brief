@@ -7166,6 +7166,140 @@
           "x": "How to use them together: use Claude Motion to turn a prompt into an animated explainer; add the Luma connector in Claude; your animation appears in Luma as a video. Inside Luma you can restyle the look while the motion holds, reframe it to 9:16, 1:1, 4:3 or 21:9, or ask the Luma agent to make additional versions."
         }
       ]
+    },
+    "movies/movies-reallusion-escape-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/10/key-image_RLxEscape-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reallusion and Escape.AI Media announced a multi-year strategic partnership addressing generative AI video challenges, including visual inconsistencies, high token costs, and ambiguous IP ownership. Together, the companies establish a 3D-to-AI pipeline for professional AI storytellers, using 3D spatial data as a precise control layer."
+        },
+        {
+          "t": "p",
+          "x": "Reallusion integrates Character Creator 5, the ActorCore motion library, iClone real-time animation software and its AI Studio app, which ingests 3D scene data from iClone and CC5 as a precision control layer, into the Escape.AI creator ecosystem."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/01_RLxEscape-ai.jpg?resize=1024%2C576&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "“Pure text-to-video generation has hit a hard ceiling when it comes to long-form narrative storytelling,” said Enoc Burgos, Director of Reallusion Inc."
+        },
+        {
+          "t": "p",
+          "x": "Escape.AI, founded by Academy Award-winning visual effects pioneer John Gaeta, distributes curated AI films on Roku, Amazon Fire TV, LG and Samsung Smart TVs, reaching more than 400 million active CTV devices, with a 50% net revenue split for creators who retain 100% ownership of their IP."
+        },
+        {
+          "t": "p",
+          "x": "The companies are also launching an Escape Labs portal, free iClone PERSONAL access for the Escape.AI community, creator grants and a joint live demo event on October 23, 2026."
+        }
+      ]
+    },
+    "movies/movies-netflix-eyeline-mousavi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/WhatsApp20Image202026-10-1320at2012.30.34.jpeg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Netflix-owned Eyeline Studios is using generative AI to replace locations, rebuild crowds and change lighting after filming, while developing tools that could even let directors reposition the camera once an actor’s performance has been captured."
+        },
+        {
+          "t": "p",
+          "x": "“We’re not prompting our way into shots and movies. That’s not who we are,” Mohsen Mousavi, Eyeline’s VP of Virtual Pioneering, said at Turin’s View Conference, describing an approach the studio calls “hybrid production,” combining live-action photography, conventional VFX and generative workflows."
+        },
+        {
+          "t": "p",
+          "x": "On “Brazil ’70: The Third Star,” Eyeline helped build vast stadium crowds by combining filmed elements, sprites, conventional CG and generative techniques. For the documentary “The American Experiment,” it showed background extensions, generative dust and other digital elements integrated with practical footage."
+        },
+        {
+          "t": "p",
+          "x": "Research in progress includes controllable generative fluids, AI-assisted relighting of human performances and a navigable 4D scene built from a single-camera recording. “Most of the work we do is based on our own research and our own models,” Mousavi said. Netflix said in July that roughly 300 titles had already employed some generative AI."
+        }
+      ]
+    },
+    "movies/movies-utopai-journey-west": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Journey-to-the-West-–-The-Lost-Five-Hundred-Years-FL-sc.png"
+        },
+        {
+          "t": "p",
+          "x": "Utopai Studios and Huace Film & TV Co., Ltd. unveiled a new teaser for Journey to the West – The Lost Five Hundred Years at MIPCOM in Cannes. The AI animated prequel series is inspired by Journey to the West, one of China’s Four Great Classical Novels."
+        },
+        {
+          "t": "p",
+          "x": "The teaser introduces a mythic adventure spanning 10 lifetimes, pairing a young monk’s emotional journey with Sun Wukong’s (the Monkey King) defiance of Heaven."
+        },
+        {
+          "t": "video",
+          "yt": "beGD0gcsEbY"
+        },
+        {
+          "t": "p",
+          "x": "Directed by Haidong Ren, the fully AI-generated animated series is shaped by a team of artists and filmmakers whose scripts, storyboards, drawings and designs guide the production, including head writer Li Zelin and screenwriter Wu Linfeng."
+        },
+        {
+          "t": "p",
+          "x": "“The technology is there to amplify the work, not substitute for it,” said Carlos Lutterbach, Head of Animation at Utopai Studios. The series is planned for release in 2027, with plans for theatrical expansion."
+        }
+      ]
+    },
+    "movies/movies-mia-goth-instagram-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&strip=all&crop=0%2C10.653918363709%2C100%2C78.692163272582&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "After Mia Goth filed for divorce from Shia LaBeouf, an Instagram post from the verified account miagoth_ showing her in a T-shirt reading “MY EX IS MY BIGGEST FAN” quickly spread. Outlets like OK! and People wrote about it as if it were authentic. But the image, Goth’s representatives say, was AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "“We have filed multiple complaints with Instagram to remove the verified fan account which continues to post counterfeit, AI images of Mia Goth,” Christine Tripicchio, a representative for Goth, told The Verge. “It is incomprehensible that Instagram evidently prioritizes the dissemination of forged and manipulated images over the protection and integrity of a public figure’s likeness.”"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ai-label.jpg?quality=90&strip=all",
+          "cap": "The image was posted to the account @miagoth_, which had a blue Meta Verified checkmark."
+        },
+        {
+          "t": "p",
+          "x": "The fan-run account had over a million followers. Meta spokesperson Alex Dziedzan said it was removed for impersonating a public figure. Meta’s rules require AI labels on some photorealistic videos of people, but not on still images."
+        }
+      ]
+    },
+    "movies/movies-merry-christmas-witch-ai-budget": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Merry_Poster_HiRes-1.jpg?w=1000&h=563&crop=1",
+          "cap": "“Merry the Christmas Witch”"
+        },
+        {
+          "t": "p",
+          "x": "“Merry the Christmas Witch” follows Merry, the first witch born on Christmas Day, who must defeat a coven of evil witches that has kidnapped Santa Claus. It is based on a 2012 children’s book by Bobbi Hess, a 70-year-old New Orleans-based technical writer. “AI enhanced the whole idea,” Hess tells Variety."
+        },
+        {
+          "t": "p",
+          "x": "Tom Walsh, CEO of independent production company TW3 Entertainment, directed and co-wrote the adaptation. When he figured out the budget, the total came to $80 million, a cost studios would balk at for “an unknown property.” Instead, using AI, he produced the final two-hour film for $1.5 million."
+        },
+        {
+          "t": "p",
+          "x": "Walsh recruited foley artists, editors, sound designers, a composer and other production professionals. Human actors recorded the script and guided how characters should move and sound, but he ultimately opted for AI-generated voices. With the AI studio Phatty Acid, he used ElevenLabs’ voice generator and video generators Seedance and Nanobanana. Roughly 50 people worked on the film over a 10-month production cycle, a “hybrid AI production.”"
+        },
+        {
+          "t": "p",
+          "x": "“The quality of your AI production depends on the quality of your traditional production staff,” Walsh says. The film currently has no distributor, though a spokesperson said “optimistic” conversations were underway. Walsh is already working on another AI-generated picture."
+        }
+      ]
     }
   }
 }

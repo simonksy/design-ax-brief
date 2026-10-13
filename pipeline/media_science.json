@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-13",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-3d-einstein-tile-aperiodic",
-      "type": "image",
-      "src": "pipeline/media/science-3d-einstein-tile-aperiodic.png"
-    },
-    {
-      "id": "science-plato-phasehub-protein-phase",
-      "type": "image",
-      "src": "pipeline/media/science-plato-phasehub-protein-phase.jpg"
-    },
-    {
-      "id": "science-ebird-inaturalist-llm-ecology",
-      "type": "image",
-      "src": "pipeline/media/science-ebird-inaturalist-llm-ecology.jpg"
-    },
-    {
-      "id": "science-koc-photonic-optical-ai",
-      "type": "image",
-      "src": "pipeline/media/science-koc-photonic-optical-ai.jpg"
-    },
-    {
-      "id": "science-quanta-attention-intelligence",
-      "type": "image",
-      "src": "pipeline/media/science-quanta-attention-intelligence.jpg"
-    }
-  ]
-}
+{"date":"2026-10-14","section":"science","media":[
+{"id":"science-mit-self-wiring-learner","type":"image","src":"pipeline/media/science-mit-self-wiring-learner.jpg"},
+{"id":"science-gemini-4-argon-robotics","type":"video","src":"pipeline/media/science-gemini-4-argon-robotics.mp4","poster":"pipeline/media/science-gemini-4-argon-robotics.jpg"},
+{"id":"science-idealens-idea-detector","type":"image","src":"pipeline/media/science-idealens-idea-detector.jpg"},
+{"id":"science-arnhem-rangers-megadetector","type":"image","src":"pipeline/media/science-arnhem-rangers-megadetector.jpg"},
+{"id":"science-ai-idea-theft-fears","type":"image","src":"pipeline/media/science-ai-idea-theft-fears.jpg"}
+]}

@@ -907,6 +907,97 @@
           "x": "数値で示された成果はテスター1人のものだけだ。食料品店を営むTom Mulhollandは、Museで給与計算の作業が少なくとも15分短縮されたと話す。Museは大半の用途で無料で、サブスクリプションプランもあるが、Metaは価格を明らかにしていない。Metaの2026年Q2の売上高は608億ドルで、その97%超が広告によるものだった。"
         }
       ]
+    },
+    "marketing/marketing-amex-agent-purchase-intent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+        },
+        {
+          "t": "p",
+          "x": "American Expressは、AIエージェントが取引を完了する前に顧客の購入意図を捕捉・認証するフレームワークを導入する。「Intent Intelligence Framework」と名付けられ、同社はAI-poweredな取引の業界標準になることを期待している。"
+        },
+        {
+          "t": "p",
+          "x": "起点となるのはCreate Intent APIで、加盟店名や予算上限といった顧客の購入指示と制約条件を取り込む。顧客が認証して承認すると、Intent IDとProof of Intent Tokenが生成される。このトークンで安全な決済用クレデンシャルを取得し、エージェントは実際のカード番号の代わりにそれを決済時に使う。"
+        },
+        {
+          "t": "p",
+          "x": "「当社のアプローチは、意図を取引フローのより早い段階に取り込む点で他社の実装と異なる」と、AmexのAgentic Partnerships and Strategy担当VP、Hannah Bozian氏は述べた。顧客がサイズ9の白いNikeのスニーカーを頼んだのに、エージェントがAdidasを買おうとすれば、Amexは取引を止められる。"
+        },
+        {
+          "t": "p",
+          "x": "Amexによると、エージェント型コマースによる紛争の増加はまだ見られないという。このフレームワークは、四月に公開されたACE Developer Toolkitに加わる。"
+        }
+      ]
+    },
+    "marketing/marketing-salesforce-koa-crm-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+          "cap": "Salesforceは、27年分のCRMシミュレーションで学習したKoaをClaudeやChatGPTと並べて組み込む"
+        },
+        {
+          "t": "p",
+          "x": "Salesforceは、Chief Data OfficerのMichael Andrew氏のインタビューを公開した。同氏は、顧客がフロンティア、オープン、カスタムのAIモデルを切り替えられるべきだと主張した。その中には同社初のCRM推論モデルKoaも含まれる。同社によれば、KoaはNVIDIAと共同で構築され、27年にわたるCRMワークフロー運用から得たシミュレーションで訓練された。"
+        },
+        {
+          "t": "p",
+          "x": "Koaは「フロンティアモデルの代わりではなく、それと並んでオーケストレーションされる」。ページにはパラメータ数、ベンチマークスコア、価格、提供開始日の記載はない。"
+        },
+        {
+          "t": "p",
+          "x": "「モデルにはそれぞれ長所と短所があり、それは常に変化している」とAndrew氏は述べた。「AIは燃料だ…その燃料がAnthropicとClaudeであれ、OpenAIとChatGPTであれ、どこからでも来られるようにしたい」"
+        },
+        {
+          "t": "p",
+          "x": "この選択重視のメッセージは、Claudeforce提携によってClaudeがSlackと複数のAgentforce画面の既定モデルになってから六週間後に出た。マーケターにとって、CRMエージェントを支えるモデルは応答時間、信頼性、利用コストを左右する。"
+        }
+      ]
+    },
+    "marketing/marketing-bannerflow-attention-scoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+          "cap": "Bannerflowのヒートマップは出稿前に広告の注目度を予測するが、スコアを裏付ける検証データはゼロだ"
+        },
+        {
+          "t": "p",
+          "x": "Bannerflowが、自社クリエイティブプラットフォームのAIツールに名前を付けた。Creative Intelligenceというこのスイートは、画像生成、予測的な注目度スコアリング、パフォーマンス分析レイヤー、フィード連動のダイナミック広告を、Create、Evaluate、Understand、Act and scaleの四つの段階にまとめる。"
+        },
+        {
+          "t": "p",
+          "x": "予測スコアリングは「注目度ヒートマップ、フォーカス分析、明瞭度スコアリング」を用いて、クリエイティブが「キャンペーン予算を投じる前に注目を集める可能性」を示し、気を散らす要素を指摘する。Creative Insightsは、行動喚起、色、アニメーションのタイミングといった要素をパフォーマンスと結び付ける。チームは画像の生成・拡張・アップスケールや、平易な言葉での商品フィード設定も行える。"
+        },
+        {
+          "t": "p",
+          "x": "発表には提供開始日も価格も、予測モデルの検証データも示されていない。Chief Product OfficerのMoses Velasco氏は「マーケティングチームはかつてないほど多くのパフォーマンスデータを持っているが、次のクリエイティブを生む刺激になるものはあまりに少ない」と述べた。"
+        }
+      ]
+    },
+    "marketing/marketing-google-ai-mode-rx-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+          "cap": "John Keeble via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはAI ModeとAI Overviewsでブランド処方薬の広告をテストしている。広告で最も規制が厳しいカテゴリーの一つにAI検索プラットフォームを開く動きで、同社がADWEEKに認めた。"
+        },
+        {
+          "t": "p",
+          "x": "Googleの広報担当者によると、処方薬を含む医薬品のテストは今月始まり、U.Sに限定される。製薬広告主は通常のテキスト広告とShopping広告を出稿でき、広告は「Sponsored」と表示された枠に掲載される。"
+        },
+        {
+          "t": "p",
+          "x": "Googleの広報担当者は声明で「AI ModeとAI Overviewsで通常のテキスト広告とShopping広告をテストしており、最近これを一部の医薬品にも広げた」と述べた。"
+        }
+      ]
     }
   }
 }

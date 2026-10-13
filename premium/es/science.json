@@ -7197,6 +7197,123 @@
           "x": "Como sigue células individuales y no promedios de población, el método puede registrar su crecimiento, movimiento, división y cambios de biomasa a lo largo del tiempo. Los investigadores prevén usos en estudios de respuesta a fármacos (drug-response), cribado de toxicidad e investigación sobre muerte celular (cell-death). El trabajo se publica en Applied Physics Letters."
         }
       ]
+    },
+    "science/science-gemini-4-argon-robotics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gemini 4 Argon supone un salto cualitativo en comprensión física, generación de código y razonamiento visual-semántico, lo que abre nuevos flujos de trabajo en toda la pila robótica y acelera el avance hacia la AGI física. En el benchmark Embodied Reasoning (ERQA), que mide la capacidad de un modelo para resolver problemas físicos y espaciales en entornos 3D, Argon obtiene un 87% solo con razonamiento puro y supera a todos los demás modelos de frontera."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Argon se muestra en cuatro áreas: control de robots (manipulación móvil con práctica en MuJoCo, control zero-shot, dirección de modelos de mundo de vídeo), Real2Sim (gemelos de simulación a partir de imágenes de cámaras de robots, vídeo humano egocéntrico o bocetos a mano), comprensión física (etiquetado retrospectivo, funciones de valor densas, estimación del progreso) e investigación y automejora."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Argon controla un cuadrúpedo Boston Dynamics Spot para aprender una habilidad nueva: construye un gemelo digital en MuJoCo de un cubo de basura con pedal para practicar antes de pisar el pedal real y echar latas de refresco. A partir de una única foto de una mesa, creó un gemelo de simulación y generó 4,500+ episodios, lo que elevó el éxito en una prueba del mundo real del 56% al 75%."
+        }
+      ]
+    },
+    "science/science-idealens-idea-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+          "cap": "IDEALENS rastrea las ideas; los detectores tradicionales rastrean la redacción. Credit: arXiv (2026)."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Maryland, Google DeepMind y la Simon Fraser University crearon IdeaLens, que intenta detectar la intervención de la AI en la escritura analizando las ideas y argumentos de fondo en lugar de la elección de palabras. El equipo reunió alrededor de 1 millón de documentos etiquetados y usó modelos de lenguaje para reducirlos a esquemas de sus argumentos centrales, eliminando el estilo."
+        },
+        {
+          "t": "p",
+          "x": "En documentos totalmente humanos o totalmente AI-generated, IdeaLens identificó el 91% de los generados por AI, con falsas alarmas en el 0.6% de los trabajos humanos. En textos humanos basados en esquemas de AI, marcó el 68% como ideas de AI, mientras que Pangram solo detectó el 8%. En textos de AI basados en esquemas humanos, Pangram 4 detectó el 92% de la redacción de AI; IdeaLens solo marcó el 7%."
+        },
+        {
+          "t": "p",
+          "x": "En 90,000 predicciones, las ideas humanas tendían a incluir fuentes verificables y a reconocer limitaciones; la escritura de AI se apoyaba en detalles genéricos, cifras no verificables y afirmaciones generales. IdeaLens fue menos eficaz con algunos modelos más recientes, por lo que no está listo para su despliegue sin más pruebas."
+        }
+      ]
+    },
+    "science/science-arnhem-rangers-megadetector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+          "cap": "Una rata arborícola de patas negras captada por una cámara trampa de los guardas de Warddeken. Credit: Cara Penton"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Warddeken Land Management, la Charles Darwin University y CSIRO estudiaron cómo la AI puede apoyar el seguimiento de fauna liderado por indígenas (Indigenous-led) en West Arnhem, Australia, en un artículo en Conservation Science and Practice. El trabajo se centra en el programa Mayh (animal), que gestiona cámaras trampa en el Warddeken Indigenous Protected Area y emplea a guardas bininj y daluk."
+        },
+        {
+          "t": "p",
+          "x": "Los guardas cargaron 1,572 horas de datos en el modelo de detección de animales MegaDetector. Las imágenes que requerían análisis pasaron de 925,088 a 172,290, una reducción del 81.4%, y el tiempo de procesamiento bajó de seis meses a dos. El tiempo medio de procesamiento cayó de 52.6 a 41.8 horas cada dos semanas, lo que liberó tiempo para la gestión del territorio, la identificación de especies, la documentación lingüística y talleres."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Cara Penton subrayó que las personas siguen participando en la verificación de los datos, y la guarda daluk sénior Suzanna Nabulwad afirmó que la tecnología debe introducirse con cuidado, escuchando a los ancianos."
+        }
+      ]
+    },
+    "science/science-ai-idea-theft-fears": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+          "cap": "Los científicos están cada vez más preocupados por la privacidad de sus manuscritos tras las sonadas acusaciones de que empresas de AI recopilaron documentos subidos."
+        },
+        {
+          "t": "p",
+          "x": "Cuando OpenAI afirmó que un modelo interno había resuelto uno de los siete problemas del millón de dólares de las matemáticas, un matemático de la New York University insinuó que la empresa había robado avances que él había compartido con un chatbot. Semanas después, el New York Times informó de un caso similar entre Anthropic y un biólogo de la University of Copenhagen. Ambas empresas afirmaron que no entrenaron con los datos subidos."
+        },
+        {
+          "t": "p",
+          "x": "Los científicos siguen usando estos modelos como interlocutores, para revisar bibliografía o generar demostraciones, pero algunos ya los ven como competidores. “No los estoy usando”, dice Clément Canonne, de la University of Sydney."
+        },
+        {
+          "t": "p",
+          "x": "Jennifer King, investigadora de Stanford HAI, dice que las cuentas empresariales parecen seguras, “pero si usas una cuenta personal, no hay ninguna garantía”; a menudo los usuarios deben excluirse expresamente del entrenamiento. “Las empresas no son transparentes sobre estas prácticas”, señala."
+        },
+        {
+          "t": "p",
+          "x": "Los científicos pueden sentir que deben elegir entre usar los modelos y arriesgarse a filtrar un descubrimiento, o no usarlos y arriesgarse a que otros se les adelanten. “Si no los usas, ¿vas a volverte irrelevante?”, dice Canonne."
+        }
+      ]
+    },
+    "science/science-3d-einstein-tile-aperiodic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+          "cap": "La monotesela Chair44 puede llenar el espacio 3D sin crear patrones repetidos. Amanda Montañez"
+        },
+        {
+          "t": "p",
+          "x": "Un grupo de investigadores acaba de descubrir una tesela “einstein” tridimensional. En 2023 se demostró que la tesela con forma de sombrero hallada por el matemático aficionado David Smith era la primera monotesela aperiódica 2D conocida: una forma que puede teselar una superficie de manera infinita sin crear nunca un patrón repetido."
+        },
+        {
+          "t": "p",
+          "x": "Ahora, la monotesela Chair44 puede teselar de manera infinita el espacio 3D sin huecos ni solapamientos, y esa teselación es aperiódica. El hallazgo lo anunció Ioannis Tsiokos, director de Automorph, que él describe como un laboratorio de investigación en AI. “Yo no soy matemático”, dice Tsiokos, único autor humano del preprint. Afirma que usó Claude Fable 5.1, de Anthropic, para escribir el artículo, y ChatGPT-6 Astra, de OpenAI, para buscar una monotesela 3D y verificar que Chair44 cumplía los criterios de una einstein."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+          "cap": "Versión despiezada y ensamblada de Superchair44, compuesta por ocho iteraciones de la monotesela Chair44."
+        },
+        {
+          "t": "p",
+          "x": "Craig Kaplan afirma que resuelve “un persistente problema abierto de la teoría de teselaciones”: el antiguo biprisma de Schmitt-Conway-Danzer solo era débilmente aperiódico. La recepción ha sido dispar por el uso intensivo de AI generativa. Chaim Goodman-Strauss dijo que el artículo tiene “rasgos de un artículo de investigación LLM-driven”, y él y Felix Flicker han escrito demostraciones humanas de que Chair44 es una monotesela aperiódica. “El riesgo es que nuestro trabajo quede reducido a cribar basura de AI en busca de pepitas de oro”, dice Flicker."
+        }
+      ]
     }
   }
 }

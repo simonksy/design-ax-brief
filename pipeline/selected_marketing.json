@@ -1,150 +1,103 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "marketing",
   "picks": [
     {
-      "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
-      "title": "Google Opens AI Mode to Prescription Drug Ads",
-      "source": "Adweek",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "source": "The Verge",
       "category": "marketing",
-      "published_iso": "2026-10-12T06:00:00-04:00",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=600&h=315&crop=1",
-      "excerpt": "The test, which began this month, brings one of advertising’s most regulated categories into Google’s AI answers.",
+      "published_iso": "2026-10-13T19:42:42+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+      "excerpt": "Shopify says more than a billion product listings from its merchants will be available to third-party AI shopping agents, widening agentic commerce distribution beyond its existing partners.",
       "source_lang": "en",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "New ad inventory: Google opens AI Mode answers to Rx pharma advertisers, a regulated category entering an AI-assistant ad surface for the first time."
+      "rationale": "Over a billion Shopify listings opened to third-party AI shopping agents, which turns agent chat into a sales channel that merchants have to plan for."
     },
     {
-      "url": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
-      "title": "Google Ads Testing Google AI For Goals & Assets",
-      "source": "Search Engine Roundtable",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "source": "TechCrunch",
       "category": "marketing",
-      "published_iso": "2026-10-12T07:41:00-04:00",
-      "og_image": "https://images.seroundtable.com/google-ai-ads-goals-and-assets-8fNUBPSv.jpg",
-      "excerpt": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns.  Google has confirmed this is a current test.",
+      "published_iso": "2026-10-13T13:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
+      "excerpt": "American Express published an 'intent intelligence' framework so merchants can verify that an AI shopping agent's purchase matches what the cardholder actually authorized, aiming to cut disputes as agentic checkout grows.",
       "source_lang": "en",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Google-confirmed test where AI proposes campaign goals and creative assets at setup, which changes how advertisers build Google Ads campaigns."
+      "rationale": "Amex has published a framework that lets merchants check an agent's purchase against what the cardholder authorized. It is a concrete trust layer for agentic checkout at the point of sale."
     },
     {
-      "url": "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
-      "title": "Olyzon's AI agents now shift CTV budgets across 4 DSPs in live buys",
+      "url": "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/",
+      "title": "Salesforce trains its Koa model on 27 years of CRM workflow simulations",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-10-11T18:22:59.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/olyzon-agentic-orchestration-ctv-four-dsps-aqueduct-sluice-gates-valve.jpg",
-      "excerpt": "Buyers keep seats at Trade Desk, Amazon DSP, DV360 and Yahoo DSP while caps and audit logs bound each agent. What do the partner lists and missing figures show?",
+      "published_iso": "2026-10-13T20:34:11+00:00",
+      "og_image": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+      "excerpt": "Salesforce's chief data officer says its Koa model was trained on simulations of 27 years of CRM sales and service workflows, while customers can still swap in Claude, ChatGPT, open or custom models for Agentforce agents.",
       "source_lang": "en",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Agentic media buying in live CTV campaigns across four major DSPs, with spend caps and audit logs; a concrete deployment rather than a forecast."
-    },
-    {
-      "url": "https://retailtechinnovationhub.com/home/2026/10/11/first-for-thg-commerce-as-it-brings-criteo-sponsored-products-to-ai-shopping-assistant-solution",
-      "title": "First for THG Commerce as company brings Criteo Sponsored Products to AI Shopping Assistant solution",
-      "source": "Retail Technology Innovation Hub",
-      "category": "marketing",
-      "published_iso": "2026-10-12T05:51:13+0100",
-      "og_image": "http://static1.squarespace.com/static/590eeff5b8a79b2147a783be/590ef147e6f2e1fda30e84c5/6acb1b6c8aff5a56b0c63060/1791780673459/AI%2BShopping%2BAssistant.png?format=1500w",
-      "excerpt": "THG Commerce, part of THG Ingenuity, has integrated Criteo Sponsored Products into its AI Shopping Assistant, built using Google Cloud’s Gemini Enterprise. THG Commerce says it is the first commerce technology provider in Europe to bring Criteo Sponsored Products into AI-powered conversational search.",
-      "source_lang": "en",
-      "tool": "Marketing",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "Retail-media sponsored products now served inside a Gemini-built conversational shopping assistant, a new placement for paid listings in AI chat."
-    },
-    {
-      "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
-      "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
-      "source": "Engineering at Meta",
-      "category": "marketing",
-      "published_iso": "2026-10-12T16:00:50+00:00",
-      "og_image": "https://engineering.fb.com/wp-content/uploads/2026/10/Meta-AI-Inference-Capacity-Ads-hero.png",
-      "excerpt": "At Meta, we’ve built a system that enhances ads recommendations by leveraging idle inference capacity in our fleet. Two elasticity levers in the system allow ads recommendation work to expand acros…",
-      "source_lang": "en",
-      "tool": "Marketing",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "Primary source from Meta on how idle AI inference capacity is put to work on ad-ranking models, the delivery engine behind Meta's ad auctions."
-    }
-  ],
-  "alternates": [
-    {
-      "url": "https://digiday.com/media-buying/media-buying-briefing-synthetic-audience-adoption-by-agencies-and-clients-takes-off/",
-      "title": "Media Buying Briefing: Synthetic audience adoption by agencies and clients takes off",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-10-12T04:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/06/ai-in-house-digiday.jpg.webp",
-      "excerpt": "Media planners, creative strategists and CMOs are basing marketing decisions on insights gleaned from the behavior of synthetic consumers.",
-      "source_lang": "en",
-      "tool": "Marketing",
-      "accent": "#ff8a3d",
-      "motif": "frame",
-      "rationale": "Synthetic AI audiences now used for media planning; distinct from the 10-11 agentic-rogue-fears piece (history_match related, nearest https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/)."
+      "rationale": "Salesforce's own Koa model for sales and service agents comes with model choice inside Agentforce. It is a concrete change to the CRM and sales-automation stack."
     },
     {
       "url": "https://ppc.land/bannerflow-now-scores-ads-for-attention-before-any-budget-is-spent/",
       "title": "Bannerflow now scores ads for attention before any budget is spent",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-10-12T16:04:00.000Z",
+      "published_iso": "2026-10-12T16:04:00+00:00",
       "og_image": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-      "excerpt": "Attention heatmaps and clarity scores join image tools and plain-language feed setup in one suite. Still missing: release dates, pricing and proof scores work.",
+      "excerpt": "Bannerflow's new Creative Intelligence suite adds AI attention heatmaps and clarity scores to pre-test ad creative before launch, alongside AI image tools and plain-language feed setup; pricing and validation data are not yet disclosed.",
       "source_lang": "en",
       "tool": "Marketing",
-      "accent": "#ff8a3d",
+      "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "AI pre-flight attention scoring for ad creative; vendor launch without dates or pricing, so ranked below the picks."
-    },
+      "rationale": "AI attention heatmaps and clarity scores pre-test ad creative before media spend. This directly changes how creative teams ship ads."
+    }
+  ],
+  "alternates": [
     {
-      "url": "https://www.seattletimes.com/business/as-ai-agents-begin-shopping-brands-are-changing-their-sales-pitch/",
-      "title": "As AI agents begin shopping, brands are changing their sales pitch",
-      "source": "The Seattle Times (The New York Times)",
+      "url": "https://ppc.land/metas-shopping-agent-must-fill-its-top-5-picks-with-well-known-merchants/",
+      "title": "Meta's shopping agent must fill its top 5 picks with well-known merchants",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-10-12T06:00:03-07:00",
-      "og_image": "https://images.seattletimes.com/wp-content/uploads/2026/10/10072026_tzr_tzr_101153.jpg?d=1200x630",
-      "excerpt": "\"When an AI agent goes shopping, how does it decide what to buy?\" is the question on every marketing executive’s mind as customers increasingly turn to AI for recommendations.",
+      "published_iso": "2026-10-11T18:39:16+00:00",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/meta-muse-instruction-file-three-stores-spotlight-street.jpg",
+      "excerpt": "An instruction file for Meta's Muse shopping agent requires its top five product picks to come from well-known merchants, and only Meta catalog items get in-chat checkout, leaving challenger brands outside the comparison.",
       "source_lang": "en",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Feature on brands adapting to agent shoppers; a trend piece overlapping recent agent-commerce coverage, kept as backup only."
+      "rationale": "Backup only. This is the 10-13 curator's dropped Muse 'well-known merchants' item (running Muse story, published 10-11/10-12), and it would also be a third PPC Land card."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/": {
-        "verdict": "new",
-        "nearest": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
-        "new_action": ""
-      },
-      "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html": {
-        "verdict": "new",
-        "nearest": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
-        "new_action": ""
-      },
-      "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/": {
-        "verdict": "new",
-        "nearest": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
-        "new_action": ""
-      },
-      "https://retailtechinnovationhub.com/home/2026/10/11/first-for-thg-commerce-as-it-brings-criteo-sponsored-products-to-ai-shopping-assistant-solution": {
+      "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents": {
         "verdict": "new",
         "nearest": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
         "new_action": ""
       },
-      "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/": {
+      "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/": {
         "verdict": "new",
-        "nearest": "https://www.marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517/",
+        "nearest": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+        "new_action": ""
+      },
+      "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/": {
+        "verdict": "new",
+        "nearest": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
+        "new_action": ""
+      },
+      "https://ppc.land/bannerflow-now-scores-ads-for-attention-before-any-budget-is-spent/": {
+        "verdict": "new",
+        "nearest": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats: ExchangeWire digest (OpenAI ChatGPT ads in agency media plans = Adweek 10-10 story); PPC Land 'Meta's Muse agent puts well-known merchants first...' (daily roundup re-covering the 10-12 Muse ad-accounts story, no new release); Mediapen 'AI가 쇼핑 대행하는 시대' (same platform-ad-model-vs-shopping-agents theme as mk.co.kr 10-12). Dropped on scope: Mahindra (quarterly earnings piece), AdExchanger daily roundup (mixed topics, AI only partly in it), Digiday publishers agentic ROI (opinion/analysis on the running agentic-buying theme), Ocean Park Halloween (thin AI-campaign promo). Picks span 5 distinct outlets. Olyzon's nearest is the 10-08 AdExchanger CTV-agents roundup, but the Olyzon piece reports its own live multi-DSP deployment."
+    "note": "Picked 4 of 12. The pool had no fifth fresh, in-scope item, so the slot was not padded. Dropped as a repeat: PPC Land 'Meta's shopping agent must fill its top 5 picks with well-known merchants'. It continues the running Muse story (10-11 HUMAN 72%, 10-12 ad-accounts access), the 10-13 curator already dropped the same item as a repeat, and it would be a third PPC Land card. Dropped as trend, opinion or analysis with no concrete product, ruling or number: Digiday synthetic-audience briefing (history_match related to the 10-11 Digiday agentic-media piece; it was a 10-13 alternate), Digiday publishers agentic ROI (opinion; dropped 10-13 too), Retail Dive Gen Z holiday AI trends, Modern Retail brands investing in stores. Dropped because AI is not what makes the story (the headline stands without AI): Adweek OpenAI field marketing (event/field-marketing strategy), Tesco Media upfront (new ad platform with AI only 'in development'), Lowe's media network (retail media expansion; AI optimization is incidental). The picks cover 3 outlets, with PPC Land at the cap of 2."
   }
 }

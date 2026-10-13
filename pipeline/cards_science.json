@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "science",
   "cards": [
     {
-      "id": "science-3d-einstein-tile-aperiodic",
+      "id": "science-mit-self-wiring-learner",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI와 함께 찾은\n3D 아인슈타인 타일",
-      "body": "반복 패턴 없이 공간을 채우는 3D 아인슈타인 타일을 찾는 데 AI가 힘을 보탰다.",
-      "mini_headline": "AI가 찾은 3D 아인슈타인 타일",
+      "headline": "무작위 신경망이\n스스로 배선해 배운다",
+      "body": "MIT 연구진이 단순한 배선 규칙으로 무작위 연결망을 학습 체계로 바꿔 보였다.",
+      "mini_headline": "스스로 배선하는 신경망",
       "tool": "Science",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/a-unique-shape-a-3d-einstein-tile-has-been-discovered/",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,185 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-            "cap": "Chair44 모노타일은 반복 패턴 없이 3D 공간을 채운다. Amanda Montañez"
+            "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
           },
           {
             "t": "p",
-            "x": "연구진이 3차원 ‘아인슈타인(einstein)’ 타일을 찾아냈다. 2023년에는 아마추어 수학자 David Smith가 찾은 모자 모양 타일이 최초의 2D 비주기 모노타일로 증명된 바 있다. 평면을 무한히 채우면서도 같은 패턴을 한 번도 되풀이하지 않는 도형이다."
+            "x": "MIT의 McGovern Institute와 K. Lisa Yang ICoN Center 연구진은 Oct. 9 PNAS에 실린 논문에서 인공 신경망 학습이 생물학적으로 타당한지 가늠할 핵심 잣대는 개발자 손길 없이 스스로 조직하는 능력이라고 주장했다. 연결이 언제, 어떻게 바뀌어야 하는지 단순한 지침만 주면 무작위로 연결된 유닛 무리가 스스로 모양을 바꿔 정보를 효과적으로 처리하는 네트워크가 된다."
           },
           {
             "t": "p",
-            "x": "이번 Chair44 모노타일은 틈도 겹침도 없이 3D 공간을 무한히 채우고, 배열은 비주기적이다. 발견을 발표한 이는 Automorph 대표 Ioannis Tsiokos다. 그는 Automorph를 AI 연구소라고 소개한다. 프리프린트의 유일한 인간 저자인 Tsiokos는 “저는 수학자가 아닙니다”라고 말한다. 논문은 Anthropic의 Claude Fable 5.1로 썼고, 3D 모노타일 탐색과 Chair44가 einstein 조건을 충족하는지 검증하는 일은 OpenAI의 ChatGPT-6 Astra에 맡겼다고 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-            "cap": "Chair44 모노타일 8개를 이어 만든 Superchair44의 분해도와 조립도."
+            "x": "Liu Ziyin, Yulu Gan과 함께 공동 주저자로 참여한 Qianli Liao는 “뇌에는 외부 설계자나 건축가가 없다”고 말한다. 네트워크는 “함께 발화하는 뉴런은 함께 연결된다”처럼 뇌 회로를 다시 배선한다고 여겨지는 규칙을 따르면서 패턴을 인식하고 이미지를 분류하는 법을 익혔다."
           },
           {
             "t": "p",
-            "x": "Craig Kaplan은 이 결과가 “타일링 이론에서 오래 남아 있던 골치 아픈 미해결 문제”를 매듭짓는다고 본다. 기존 Schmitt-Conway-Danzer 쌍각기둥은 비주기성이 약했기 때문이다. 생성형 AI에 크게 기댄 탓에 반응은 엇갈린다. Chaim Goodman-Strauss는 이 논문에서 “LLM-driven 연구 논문의 특징”이 보인다고 했다. 그는 Felix Flicker와 함께 Chair44가 비주기 모노타일임을 사람 손으로 직접 증명한 글을 썼다. Flicker는 “우리 일이 금덩이를 찾으려고 AI 슬롭(slop)을 뒤지는 일로 전락할 위험이 있다”고 말한다."
+            "x": "스스로 조립된 모티프는 경사 하강법과 닮은 전략으로 재편됐다. 성능은 역전파(back-propagation)로 훈련한 네트워크와 견줘도 비슷했다. 신경과학자들은 뇌가 역전파를 쓸 가능성이 낮다고 본다."
+          },
+          {
+            "t": "p",
+            "x": "Tomaso Poggio는 “우리가 제안한 시냅스 모티프를 역전파가 인공 신경망에서 하는 일을 하는 데 실제로 뇌가 쓰고 있다면, 기계와 뇌 사이에 강력한 연결 고리를… 갖게 될 것”이라고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A 3D einstein tile\nfound with help from AI",
-          "body": "AI helped uncover a 3D einstein tile, a shape that fills space without ever forming a repeating pattern.",
-          "mini_headline": "AI finds a 3D einstein tile",
+          "headline": "Random neural networks wire\nthemselves to learn",
+          "body": "MIT researchers showed simple wiring rules can turn a randomly connected network into a learning system.",
+          "mini_headline": "Networks that wire themselves",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-                "cap": "The Chair44 monotile can fill 3D space without creating repeating patterns. Amanda Montañez"
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
               },
               {
                 "t": "p",
-                "x": "Researchers have just discovered a three-dimensional “einstein” tile. In 2023 the hat-shaped tile found by amateur mathematician David Smith was proved the first known 2D aperiodic monotile: a shape that can infinitely tile a surface without ever creating a repeating pattern."
+                "x": "In a paper published Oct. 9 in PNAS, scientists at MIT's McGovern Institute and K. Lisa Yang ICoN Center argue that a crucial metric for the biological plausibility of an artificial neural network's learning is its ability to organize itself, without the guiding hand of a developer. With simple instructions about how and when connections should change, a group of randomly connected units can reshape itself into an effective information-processing network."
               },
               {
                 "t": "p",
-                "x": "Now the Chair44 monotile can infinitely tile 3D space without gaps or overlaps, and that tiling is aperiodic. The finding was announced by Ioannis Tsiokos, director of Automorph, which he describes as an AI research lab. “I’m not a mathematician myself,” says Tsiokos, the sole human author of the preprint. He says he used Anthropic’s Claude Fable 5.1 to write the paper and OpenAI’s ChatGPT-6 Astra to search for a 3D monotile and verify that Chair44 met the criteria for an einstein."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-                "cap": "An exploded and assembled version of Superchair44, composed of eight iterations of the Chair44 monotile."
+                "x": "“The brain doesn't have an external designer or architect,” says Qianli Liao, co-first author with Liu Ziyin and Yulu Gan. The network follows rules thought to rewire brain circuits, such as “neurons that fire together wire together,” and learned to recognize patterns and classify images."
               },
               {
                 "t": "p",
-                "x": "Craig Kaplan says it settles “a nagging open problem in tiling theory”: the older Schmitt-Conway-Danzer biprism was only weakly aperiodic. Reception has been mixed because of the heavy use of generative AI. Chaim Goodman-Strauss said the paper has “hallmarks of an LLM-driven research paper,” and he and Felix Flicker have written human proofs that Chair44 is an aperiodic monotile. “The risk is that our jobs get reduced to sifting through AI slop in search of nuggets of gold,” Flicker says."
+                "x": "Self-assembling motifs reorganized using a strategy similar to gradient descent. Compared with networks trained by back-propagation, which neuroscientists say the brain is unlikely to use, it performed at a similar level."
+              },
+              {
+                "t": "p",
+                "x": "“If the synaptic motifs we propose are, in fact, used by the brain to do what backpropagation does for artificial neural networks, then we will have a strong connection… between machines and brains,” says Tomaso Poggio."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI와 함께 찾은\n3D 아인슈타인 타일",
-          "body": "반복 패턴 없이 공간을 채우는 3D 아인슈타인 타일을 찾는 데 AI가 힘을 보탰다.",
-          "mini_headline": "AI가 찾은 3D 아인슈타인 타일",
+          "headline": "무작위 신경망이\n스스로 배선해 배운다",
+          "body": "MIT 연구진이 단순한 배선 규칙으로 무작위 연결망을 학습 체계로 바꿔 보였다.",
+          "mini_headline": "스스로 배선하는 신경망",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-                "cap": "Chair44 모노타일은 반복 패턴 없이 3D 공간을 채운다. Amanda Montañez"
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
               },
               {
                 "t": "p",
-                "x": "연구진이 3차원 ‘아인슈타인(einstein)’ 타일을 찾아냈다. 2023년에는 아마추어 수학자 David Smith가 찾은 모자 모양 타일이 최초의 2D 비주기 모노타일로 증명된 바 있다. 평면을 무한히 채우면서도 같은 패턴을 한 번도 되풀이하지 않는 도형이다."
+                "x": "MIT의 McGovern Institute와 K. Lisa Yang ICoN Center 연구진은 Oct. 9 PNAS에 실린 논문에서 인공 신경망 학습이 생물학적으로 타당한지 가늠할 핵심 잣대는 개발자 손길 없이 스스로 조직하는 능력이라고 주장했다. 연결이 언제, 어떻게 바뀌어야 하는지 단순한 지침만 주면 무작위로 연결된 유닛 무리가 스스로 모양을 바꿔 정보를 효과적으로 처리하는 네트워크가 된다."
               },
               {
                 "t": "p",
-                "x": "이번 Chair44 모노타일은 틈도 겹침도 없이 3D 공간을 무한히 채우고, 배열은 비주기적이다. 발견을 발표한 이는 Automorph 대표 Ioannis Tsiokos다. 그는 Automorph를 AI 연구소라고 소개한다. 프리프린트의 유일한 인간 저자인 Tsiokos는 “저는 수학자가 아닙니다”라고 말한다. 논문은 Anthropic의 Claude Fable 5.1로 썼고, 3D 모노타일 탐색과 Chair44가 einstein 조건을 충족하는지 검증하는 일은 OpenAI의 ChatGPT-6 Astra에 맡겼다고 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-                "cap": "Chair44 모노타일 8개를 이어 만든 Superchair44의 분해도와 조립도."
+                "x": "Liu Ziyin, Yulu Gan과 함께 공동 주저자로 참여한 Qianli Liao는 “뇌에는 외부 설계자나 건축가가 없다”고 말한다. 네트워크는 “함께 발화하는 뉴런은 함께 연결된다”처럼 뇌 회로를 다시 배선한다고 여겨지는 규칙을 따르면서 패턴을 인식하고 이미지를 분류하는 법을 익혔다."
               },
               {
                 "t": "p",
-                "x": "Craig Kaplan은 이 결과가 “타일링 이론에서 오래 남아 있던 골치 아픈 미해결 문제”를 매듭짓는다고 본다. 기존 Schmitt-Conway-Danzer 쌍각기둥은 비주기성이 약했기 때문이다. 생성형 AI에 크게 기댄 탓에 반응은 엇갈린다. Chaim Goodman-Strauss는 이 논문에서 “LLM-driven 연구 논문의 특징”이 보인다고 했다. 그는 Felix Flicker와 함께 Chair44가 비주기 모노타일임을 사람 손으로 직접 증명한 글을 썼다. Flicker는 “우리 일이 금덩이를 찾으려고 AI 슬롭(slop)을 뒤지는 일로 전락할 위험이 있다”고 말한다."
+                "x": "스스로 조립된 모티프는 경사 하강법과 닮은 전략으로 재편됐다. 성능은 역전파(back-propagation)로 훈련한 네트워크와 견줘도 비슷했다. 신경과학자들은 뇌가 역전파를 쓸 가능성이 낮다고 본다."
+              },
+              {
+                "t": "p",
+                "x": "Tomaso Poggio는 “우리가 제안한 시냅스 모티프를 역전파가 인공 신경망에서 하는 일을 하는 데 실제로 뇌가 쓰고 있다면, 기계와 뇌 사이에 강력한 연결 고리를… 갖게 될 것”이라고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの助けで見つかった\n3D アインシュタインタイル",
-          "body": "AIの助けで、繰り返し模様を作らずに空間を埋める3D アインシュタインタイルが見つかった。",
-          "mini_headline": "AIが3D アインシュタインタイルを発見",
+          "headline": "ランダムな神経網が\n自ら配線して学ぶ",
+          "body": "MITの研究者は、単純な配線規則で無作為な結合網を学習システムに変えられると示した。",
+          "mini_headline": "自ら配線するネットワーク",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-                "cap": "Chair44 モノタイルは繰り返し模様を作らずに3D 空間を埋め尽くせる。Amanda Montañez"
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
               },
               {
                 "t": "p",
-                "x": "研究者たちが3次元の「アインシュタイン（einstein）」タイルを発見した。2023年には、アマチュア数学者David Smithが見つけた帽子形のタイルが、初めて知られた2D 非周期モノタイルであると証明された。繰り返し模様を一度も作らずに平面を無限に敷き詰められる図形である。"
+                "x": "Oct. 9にPNASで発表された論文で、MITのMcGovern InstituteとK. Lisa Yang ICoN Centerの科学者らは、人工ニューラルネットワークの学習が生物学的に妥当かどうかを測る重要な指標は、開発者の導きなしに自らを組織化する能力だと主張する。結合をいつ、どのように変えるべきかという単純な指示を与えると、無作為に結合したユニットの集まりが自らを作り替え、効果的な情報処理ネットワークになる。"
               },
               {
                 "t": "p",
-                "x": "今回のChair44 モノタイルは、隙間も重なりもなく3D 空間を無限に埋め尽くし、その敷き詰めは非周期的である。発見を発表したのはAutomorphの代表Ioannis Tsiokosで、彼は同社をAI研究所と説明している。プレプリントの唯一の人間の著者であるTsiokosは「私自身は数学者ではない」と語る。論文の執筆にはAnthropicのClaude Fable 5.1を、3D モノタイルの探索とChair44がeinsteinの条件を満たすかの検証にはOpenAIのChatGPT-6 Astraを使ったという。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-                "cap": "Chair44 モノタイル8個を組み合わせたSuperchair44の分解図と組立図。"
+                "x": "「脳には外部の設計者も建築家もいない」と、Liu Ziyin、Yulu Ganとともに共同筆頭著者を務めたQianli Liaoは言う。このネットワークは「同時に発火するニューロンは結びつく」といった、脳回路を配線し直すとされる規則に従い、パターンを認識し画像を分類することを学んだ。"
               },
               {
                 "t": "p",
-                "x": "Craig Kaplanは、これが「タイリング理論で長く残っていた厄介な未解決問題」に決着をつけると評価する。従来のSchmitt-Conway-Danzer双角柱は弱い非周期性しか持たなかったからだ。一方、生成AIを多用したことで反応は割れている。Chaim Goodman-Straussは論文に「LLM-driven研究論文の特徴」があると指摘し、彼とFelix FlickerはChair44が非周期モノタイルであることを人の手で証明した。Flickerは「私たちの仕事が、金塊を探してAIスロップ（slop）をふるいにかける作業に成り下がる恐れがある」と語る。"
+                "x": "自己組織化するモチーフは、勾配降下法に似た戦略で再編された。神経科学者が脳では使われにくいとする誤差逆伝播法(back-propagation)で訓練したネットワークと比べても、同程度の性能を示した。"
+              },
+              {
+                "t": "p",
+                "x": "「我々が提案するシナプスモチーフを、誤差逆伝播法が人工ニューラルネットワークで果たす役割のために実際に脳が使っているなら、機械と脳の間に強いつながりが…生まれることになる」とTomaso Poggioは語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "借助AI发现\n3D 爱因斯坦密铺块",
-          "body": "AI助力发现了一种3D 爱因斯坦密铺块，它能填满空间且永不形成重复图案。",
-          "mini_headline": "AI发现3D 爱因斯坦密铺块",
+          "headline": "随机神经网络\n自我布线实现学习",
+          "body": "MIT研究人员发现，简单的连接规则能把随机连接的网络变成学习系统。",
+          "mini_headline": "自我布线的网络",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-                "cap": "Chair44 单片密铺块可以填满3D 空间而不产生重复图案。Amanda Montañez"
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
               },
               {
                 "t": "p",
-                "x": "研究人员刚刚发现了一种三维“爱因斯坦”（einstein）密铺块。2023年，业余数学家David Smith发现的帽子形密铺块被证明是首个已知的2D 非周期单片密铺块：一种可以无限铺满平面、却永远不会形成重复图案的形状。"
+                "x": "在Oct. 9发表于PNAS的论文中，MIT McGovern Institute与K. Lisa Yang ICoN Center的科学家提出，衡量人工神经网络学习是否具有生物学合理性的关键指标，是它能否在没有开发者引导的情况下自我组织。只要给出关于连接应如何、何时改变的简单指令，一组随机连接的单元就能自我重塑，成为高效的信息处理网络。"
               },
               {
                 "t": "p",
-                "x": "如今，Chair44 单片密铺块能够无缝隙、无重叠地无限填满3D 空间，而且这种铺法是非周期的。这一发现由Automorph负责人Ioannis Tsiokos宣布，他称Automorph是一家AI研究实验室。作为这篇预印本唯一的人类作者，Tsiokos说：“我自己并不是数学家。”他表示，论文由Anthropic的Claude Fable 5.1撰写，而搜索3D 单片密铺块并验证Chair44是否符合einstein标准，则用了OpenAI的ChatGPT-6 Astra。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-                "cap": "Superchair44的分解图与组装图，由8个Chair44 单片密铺块组成。"
+                "x": "“大脑没有外部的设计师或建筑师，”与Liu Ziyin、Yulu Gan同为共同首要作者的Qianli Liao说。该网络遵循被认为能重塑脑回路的规则，例如“同时放电的神经元会连在一起”，并学会了识别模式和分类图像。"
               },
               {
                 "t": "p",
-                "x": "Craig Kaplan认为，这解决了“密铺理论中一个长期悬而未决的棘手问题”：此前的Schmitt-Conway-Danzer双棱柱只是弱非周期的。由于大量使用生成式AI，外界反应不一。Chaim Goodman-Strauss说，这篇论文带有“LLM-driven研究论文的特征”，他与Felix Flicker已经写出了Chair44是非周期单片密铺块的人工证明。Flicker说：“风险在于，我们的工作会沦为在AI垃圾内容（slop）里淘金。”"
+                "x": "自组装的模体以类似梯度下降的策略完成重组。与采用反向传播(back-propagation)训练的网络相比——神经科学家认为大脑不太可能使用这种方法——它的表现处于相近水平。"
+              },
+              {
+                "t": "p",
+                "x": "“如果我们提出的突触模体确实被大脑用来完成反向传播在人工神经网络中所做的事，那么我们将在机器与大脑之间……建立起牢固的联系，”Tomaso Poggio说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una tesela einstein en 3D\nhallada con ayuda de la AI",
-          "body": "La AI ayudó a descubrir una tesela einstein en 3D, una forma que llena el espacio sin repetir nunca un patrón.",
-          "mini_headline": "La AI halla una tesela einstein en 3D",
+          "headline": "Redes neuronales aleatorias\nque se conectan para aprender",
+          "body": "Un equipo del MIT mostró que reglas de conexión simples pueden convertir una red aleatoria en un sistema que aprende.",
+          "mini_headline": "Redes que se conectan solas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-                "cap": "La monotesela Chair44 puede llenar el espacio 3D sin crear patrones repetidos. Amanda Montañez"
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
               },
               {
                 "t": "p",
-                "x": "Un grupo de investigadores acaba de descubrir una tesela “einstein” tridimensional. En 2023 se demostró que la tesela con forma de sombrero hallada por el matemático aficionado David Smith era la primera monotesela aperiódica 2D conocida: una forma que puede teselar una superficie de manera infinita sin crear nunca un patrón repetido."
+                "x": "En un artículo publicado el 9 de octubre en PNAS, científicos del McGovern Institute del MIT y del K. Lisa Yang ICoN Center sostienen que una medida clave de la plausibilidad biológica del aprendizaje de una red neuronal artificial es su capacidad para organizarse por sí misma, sin la mano guía de un desarrollador. Con instrucciones simples sobre cómo y cuándo deben cambiar las conexiones, un grupo de unidades conectadas al azar puede remodelarse hasta formar una red eficaz de procesamiento de información."
               },
               {
                 "t": "p",
-                "x": "Ahora, la monotesela Chair44 puede teselar de manera infinita el espacio 3D sin huecos ni solapamientos, y esa teselación es aperiódica. El hallazgo lo anunció Ioannis Tsiokos, director de Automorph, que él describe como un laboratorio de investigación en AI. “Yo no soy matemático”, dice Tsiokos, único autor humano del preprint. Afirma que usó Claude Fable 5.1, de Anthropic, para escribir el artículo, y ChatGPT-6 Astra, de OpenAI, para buscar una monotesela 3D y verificar que Chair44 cumplía los criterios de una einstein."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-                "cap": "Versión despiezada y ensamblada de Superchair44, compuesta por ocho iteraciones de la monotesela Chair44."
+                "x": "“El cerebro no tiene un diseñador ni un arquitecto externo”, dice Qianli Liao, coautor principal junto con Liu Ziyin y Yulu Gan. La red sigue reglas que se cree que reconfiguran los circuitos cerebrales, como “las neuronas que se activan juntas se conectan juntas”, y aprendió a reconocer patrones y clasificar imágenes."
               },
               {
                 "t": "p",
-                "x": "Craig Kaplan afirma que resuelve “un persistente problema abierto de la teoría de teselaciones”: el antiguo biprisma de Schmitt-Conway-Danzer solo era débilmente aperiódico. La recepción ha sido dispar por el uso intensivo de AI generativa. Chaim Goodman-Strauss dijo que el artículo tiene “rasgos de un artículo de investigación LLM-driven”, y él y Felix Flicker han escrito demostraciones humanas de que Chair44 es una monotesela aperiódica. “El riesgo es que nuestro trabajo quede reducido a cribar basura de AI en busca de pepitas de oro”, dice Flicker."
+                "x": "Los motivos autoensamblados se reorganizaron con una estrategia similar al descenso de gradiente. Frente a redes entrenadas con retropropagación (back-propagation), que según los neurocientíficos es poco probable que use el cerebro, obtuvo un rendimiento similar."
+              },
+              {
+                "t": "p",
+                "x": "“Si los motivos sinápticos que proponemos los usa de hecho el cerebro para hacer lo que la retropropagación hace en las redes neuronales artificiales, entonces tendremos una conexión sólida… entre máquinas y cerebros”, afirma Tomaso Poggio."
               }
             ]
           }
@@ -205,129 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI의 도움으로 찾은\n3D 아인슈타인 타일",
-          "body": "AI가 반복 패턴 없이 공간을 채우는 3D 아인슈타인 타일 발견을 도왔다.",
-          "mini_headline": "AI가 찾은 3D 아인슈타인 타일",
+          "headline": "무작위 신경망이\n스스로 배선해 배운다",
+          "body": "MIT 연구진이 단순한 배선 규칙으로 무작위 연결망을 학습 체계로 바꿔 보였다.",
+          "mini_headline": "스스로 배선하는 신경망",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-                "cap": "Chair44 모노타일은 반복 패턴을 만들지 않고 3D 공간을 채울 수 있다. Amanda Montañez"
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
               },
               {
                 "t": "p",
-                "x": "연구진이 3차원 ‘아인슈타인(einstein)’ 타일을 발견했다. 2023년에는 아마추어 수학자 David Smith가 찾은 모자 모양 타일이 처음으로 알려진 2D 비주기 모노타일로 증명됐다. 반복 패턴을 한 번도 만들지 않으면서 평면을 무한히 채울 수 있는 도형이다."
+                "x": "MIT의 McGovern Institute와 K. Lisa Yang ICoN Center 연구진은 Oct. 9 PNAS에 실린 논문에서, 인공 신경망 학습의 생물학적 타당성을 가늠할 핵심 척도는 개발자의 손길 없이 스스로를 조직하는 능력이라고 주장했다. 연결이 언제, 어떻게 바뀌어야 하는지 단순한 지침만 주면, 무작위로 연결된 유닛 무리가 스스로 모습을 바꿔 효과적인 정보 처리 네트워크가 된다."
               },
               {
                 "t": "p",
-                "x": "이번에 나온 Chair44 모노타일은 틈이나 겹침 없이 3D 공간을 무한히 채우며, 그 배열은 비주기적이다. 발견을 발표한 사람은 Automorph의 대표 Ioannis Tsiokos로, 그는 Automorph를 AI 연구소라고 소개한다. 프리프린트의 유일한 인간 저자인 Tsiokos는 “저는 수학자가 아닙니다”라고 말한다. 그는 논문 작성에 Anthropic의 Claude Fable 5.1을 썼고, 3D 모노타일 탐색과 Chair44가 einstein 조건을 충족하는지 검증하는 데는 OpenAI의 ChatGPT-6 Astra를 썼다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-                "cap": "Chair44 모노타일 8개를 이어 만든 Superchair44의 분해도와 조립도."
+                "x": "“뇌에는 외부 설계자나 건축가가 없다”고 Liu Ziyin, Yulu Gan과 함께 공동 주저자로 참여한 Qianli Liao는 말한다. 이 네트워크는 “함께 발화하는 뉴런은 함께 연결된다”처럼 뇌 회로를 재배선한다고 여겨지는 규칙을 따르며, 패턴을 인식하고 이미지를 분류하는 법을 익혔다."
               },
               {
                 "t": "p",
-                "x": "Craig Kaplan은 이 결과가 “타일링 이론에서 오래 남아 있던 골치 아픈 미해결 문제”를 매듭짓는다고 평가한다. 기존 Schmitt-Conway-Danzer 쌍각기둥은 약한 비주기성만 지녔기 때문이다. 다만 생성형 AI를 많이 쓴 탓에 반응은 엇갈린다. Chaim Goodman-Strauss는 이 논문에 “LLM-driven 연구 논문의 특징”이 있다고 했고, 그와 Felix Flicker는 Chair44가 비주기 모노타일임을 사람이 직접 증명한 글을 썼다. Flicker는 “우리 일이 금덩이를 찾으려고 AI 슬롭(slop)을 뒤지는 일로 전락할 위험이 있다”고 말한다."
+                "x": "스스로 조립되는 모티프는 경사 하강법과 비슷한 전략으로 재편됐다. 신경과학자들이 뇌가 쓸 가능성이 낮다고 보는 역전파(back-propagation)로 훈련한 네트워크와 비교해도 비슷한 수준의 성능을 냈다."
+              },
+              {
+                "t": "p",
+                "x": "“우리가 제안한 시냅스 모티프를 역전파가 인공 신경망에서 하는 일을 하는 데 실제로 뇌가 쓰고 있다면, 기계와 뇌 사이에 강력한 연결 고리를… 갖게 될 것”이라고 Tomaso Poggio는 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの助けで見つかった\n3D アインシュタインタイル",
-          "body": "AIの助けで、繰り返し模様を作らずに空間を埋める3D アインシュタインタイルが見つかった。",
-          "mini_headline": "AIが3D アインシュタインタイルを発見",
+          "headline": "ランダムな神経網が\n自ら配線して学ぶ",
+          "body": "MITの研究者は、単純な配線規則で無作為な結合網を学習システムに変えられると示した。",
+          "mini_headline": "自ら配線するネットワーク",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-                "cap": "Chair44 モノタイルは繰り返し模様を作らずに3D 空間を埋め尽くせる。Amanda Montañez"
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
               },
               {
                 "t": "p",
-                "x": "研究者たちが3次元の「アインシュタイン（einstein）」タイルを発見した。2023年には、アマチュア数学者David Smithが見つけた帽子形のタイルが、初めて知られた2D 非周期モノタイルであると証明された。繰り返し模様を一度も作らずに平面を無限に敷き詰められる図形である。"
+                "x": "Oct. 9にPNASで発表された論文で、MITのMcGovern InstituteとK. Lisa Yang ICoN Centerの科学者らは、人工ニューラルネットワークの学習が生物学的に妥当かどうかを測る重要な指標は、開発者の導きなしに自らを組織化する能力だと主張する。結合をいつ、どのように変えるべきかという単純な指示を与えると、無作為に結合したユニットの集まりが自らを作り替え、効果的な情報処理ネットワークになる。"
               },
               {
                 "t": "p",
-                "x": "今回のChair44 モノタイルは、隙間も重なりもなく3D 空間を無限に埋め尽くし、その敷き詰めは非周期的である。発見を発表したのはAutomorphの代表Ioannis Tsiokosで、彼は同社をAI研究所と説明している。プレプリントの唯一の人間の著者であるTsiokosは「私自身は数学者ではない」と語る。論文の執筆にはAnthropicのClaude Fable 5.1を、3D モノタイルの探索とChair44がeinsteinの条件を満たすかの検証にはOpenAIのChatGPT-6 Astraを使ったという。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-                "cap": "Chair44 モノタイル8個を組み合わせたSuperchair44の分解図と組立図。"
+                "x": "「脳には外部の設計者も建築家もいない」と、Liu Ziyin、Yulu Ganとともに共同筆頭著者を務めたQianli Liaoは言う。このネットワークは「同時に発火するニューロンは結びつく」といった、脳回路を配線し直すとされる規則に従い、パターンを認識し画像を分類することを学んだ。"
               },
               {
                 "t": "p",
-                "x": "Craig Kaplanは、これが「タイリング理論で長く残っていた厄介な未解決問題」に決着をつけると評価する。従来のSchmitt-Conway-Danzer双角柱は弱い非周期性しか持たなかったからだ。一方、生成AIを多用したことで反応は割れている。Chaim Goodman-Straussは論文に「LLM-driven研究論文の特徴」があると指摘し、彼とFelix FlickerはChair44が非周期モノタイルであることを人の手で証明した。Flickerは「私たちの仕事が、金塊を探してAIスロップ（slop）をふるいにかける作業に成り下がる恐れがある」と語る。"
+                "x": "自己組織化するモチーフは、勾配降下法に似た戦略で再編された。神経科学者が脳では使われにくいとする誤差逆伝播法(back-propagation)で訓練したネットワークと比べても、同程度の性能を示した。"
+              },
+              {
+                "t": "p",
+                "x": "「我々が提案するシナプスモチーフを、誤差逆伝播法が人工ニューラルネットワークで果たす役割のために実際に脳が使っているなら、機械と脳の間に強いつながりが…生まれることになる」とTomaso Poggioは語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "借助AI发现\n3D 爱因斯坦密铺块",
-          "body": "AI助力发现了一种3D 爱因斯坦密铺块，它能填满空间且永不形成重复图案。",
-          "mini_headline": "AI发现3D 爱因斯坦密铺块",
+          "headline": "随机神经网络\n自我布线实现学习",
+          "body": "MIT研究人员发现，简单的连接规则能把随机连接的网络变成学习系统。",
+          "mini_headline": "自我布线的网络",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-                "cap": "Chair44 单片密铺块可以填满3D 空间而不产生重复图案。Amanda Montañez"
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
               },
               {
                 "t": "p",
-                "x": "研究人员刚刚发现了一种三维“爱因斯坦”（einstein）密铺块。2023年，业余数学家David Smith发现的帽子形密铺块被证明是首个已知的2D 非周期单片密铺块：一种可以无限铺满平面、却永远不会形成重复图案的形状。"
+                "x": "在Oct. 9发表于PNAS的论文中，MIT McGovern Institute与K. Lisa Yang ICoN Center的科学家提出，衡量人工神经网络学习是否具有生物学合理性的关键指标，是它能否在没有开发者引导的情况下自我组织。只要给出关于连接应如何、何时改变的简单指令，一组随机连接的单元就能自我重塑，成为高效的信息处理网络。"
               },
               {
                 "t": "p",
-                "x": "如今，Chair44 单片密铺块能够无缝隙、无重叠地无限填满3D 空间，而且这种铺法是非周期的。这一发现由Automorph负责人Ioannis Tsiokos宣布，他称Automorph是一家AI研究实验室。作为这篇预印本唯一的人类作者，Tsiokos说：“我自己并不是数学家。”他表示，论文由Anthropic的Claude Fable 5.1撰写，而搜索3D 单片密铺块并验证Chair44是否符合einstein标准，则用了OpenAI的ChatGPT-6 Astra。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-                "cap": "Superchair44的分解图与组装图，由8个Chair44 单片密铺块组成。"
+                "x": "“大脑没有外部的设计师或建筑师，”与Liu Ziyin、Yulu Gan同为共同首要作者的Qianli Liao说。该网络遵循被认为能重塑脑回路的规则，例如“同时放电的神经元会连在一起”，并学会了识别模式和分类图像。"
               },
               {
                 "t": "p",
-                "x": "Craig Kaplan认为，这解决了“密铺理论中一个长期悬而未决的棘手问题”：此前的Schmitt-Conway-Danzer双棱柱只是弱非周期的。由于大量使用生成式AI，外界反应不一。Chaim Goodman-Strauss说，这篇论文带有“LLM-driven研究论文的特征”，他与Felix Flicker已经写出了Chair44是非周期单片密铺块的人工证明。Flicker说：“风险在于，我们的工作会沦为在AI垃圾内容（slop）里淘金。”"
+                "x": "自组装的模体以类似梯度下降的策略完成重组。与采用反向传播(back-propagation)训练的网络相比——神经科学家认为大脑不太可能使用这种方法——它的表现处于相近水平。"
+              },
+              {
+                "t": "p",
+                "x": "“如果我们提出的突触模体确实被大脑用来完成反向传播在人工神经网络中所做的事，那么我们将在机器与大脑之间……建立起牢固的联系，”Tomaso Poggio说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una tesela einstein en 3D\nhallada con ayuda de la AI",
-          "body": "La AI ayudó a descubrir una tesela einstein en 3D, una forma que llena el espacio sin repetir nunca un patrón.",
-          "mini_headline": "La AI halla una tesela einstein en 3D",
+          "headline": "Redes neuronales aleatorias\nque se conectan para aprender",
+          "body": "Un equipo del MIT mostró que reglas de conexión simples pueden convertir una red aleatoria en un sistema que aprende.",
+          "mini_headline": "Redes que se conectan solas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-                "cap": "La monotesela Chair44 puede llenar el espacio 3D sin crear patrones repetidos. Amanda Montañez"
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
               },
               {
                 "t": "p",
-                "x": "Un grupo de investigadores acaba de descubrir una tesela “einstein” tridimensional. En 2023 se demostró que la tesela con forma de sombrero hallada por el matemático aficionado David Smith era la primera monotesela aperiódica 2D conocida: una forma que puede teselar una superficie de manera infinita sin crear nunca un patrón repetido."
+                "x": "En un artículo publicado el 9 de octubre en PNAS, científicos del McGovern Institute del MIT y del K. Lisa Yang ICoN Center sostienen que una medida clave de la plausibilidad biológica del aprendizaje de una red neuronal artificial es su capacidad para organizarse por sí misma, sin la mano guía de un desarrollador. Con instrucciones simples sobre cómo y cuándo deben cambiar las conexiones, un grupo de unidades conectadas al azar puede remodelarse hasta formar una red eficaz de procesamiento de información."
               },
               {
                 "t": "p",
-                "x": "Ahora, la monotesela Chair44 puede teselar de manera infinita el espacio 3D sin huecos ni solapamientos, y esa teselación es aperiódica. El hallazgo lo anunció Ioannis Tsiokos, director de Automorph, que él describe como un laboratorio de investigación en AI. “Yo no soy matemático”, dice Tsiokos, único autor humano del preprint. Afirma que usó Claude Fable 5.1, de Anthropic, para escribir el artículo, y ChatGPT-6 Astra, de OpenAI, para buscar una monotesela 3D y verificar que Chair44 cumplía los criterios de una einstein."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
-                "cap": "Versión despiezada y ensamblada de Superchair44, compuesta por ocho iteraciones de la monotesela Chair44."
+                "x": "“El cerebro no tiene un diseñador ni un arquitecto externo”, dice Qianli Liao, coautor principal junto con Liu Ziyin y Yulu Gan. La red sigue reglas que se cree que reconfiguran los circuitos cerebrales, como “las neuronas que se activan juntas se conectan juntas”, y aprendió a reconocer patrones y clasificar imágenes."
               },
               {
                 "t": "p",
-                "x": "Craig Kaplan afirma que resuelve “un persistente problema abierto de la teoría de teselaciones”: el antiguo biprisma de Schmitt-Conway-Danzer solo era débilmente aperiódico. La recepción ha sido dispar por el uso intensivo de AI generativa. Chaim Goodman-Strauss dijo que el artículo tiene “rasgos de un artículo de investigación LLM-driven”, y él y Felix Flicker han escrito demostraciones humanas de que Chair44 es una monotesela aperiódica. “El riesgo es que nuestro trabajo quede reducido a cribar basura de AI en busca de pepitas de oro”, dice Flicker."
+                "x": "Los motivos autoensamblados se reorganizaron con una estrategia similar al descenso de gradiente. Frente a redes entrenadas con retropropagación (back-propagation), que según los neurocientíficos es poco probable que use el cerebro, obtuvo un rendimiento similar."
+              },
+              {
+                "t": "p",
+                "x": "“Si los motivos sinápticos que proponemos los usa de hecho el cerebro para hacer lo que la retropropagación hace en las redes neuronales artificiales, entonces tendremos una conexión sólida… entre máquinas y cerebros”, afirma Tomaso Poggio."
               }
             ]
           }
@@ -335,195 +315,189 @@
       }
     },
     {
-      "id": "science-plato-phasehub-protein-phase",
+      "id": "science-gemini-4-argon-robotics",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LLMs로 들여다본\n여러 종의 단백질 상분리",
-      "body": "NTU Singapore는 LLMs로 PubMed를 훑어 PLATO를 구축했다.",
-      "mini_headline": "LLMs로 그린 단백질 상분리 지도",
+      "headline": "Gemini 4 Argon\n로봇에 추론을 더하다",
+      "body": "Google의 Gemini 4 Argon은 ERQA 선두에 섰고 로봇까지 다룬다.",
+      "mini_headline": "로봇용 Gemini 4 Argon",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Gemini 4 Argon은 물리적 이해, 코드 생성, 시각·의미 추론에서 한 단계 올라섰다. 덕분에 로보틱스 스택 전반에 새 워크플로가 열리고 물리적 AGI로 가는 걸음도 빨라진다. Embodied Reasoning(ERQA)은 3D 환경에서 물리적·공간적 문제를 푸는 능력을 시험하는 벤치마크다. 여기서 Argon은 순수 추론만으로 87%를 기록해 다른 프런티어 모델을 모두 앞섰다."
+          },
+          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-            "cap": "균류. Credit: CC0 Public Domain"
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
           },
           {
             "t": "p",
-            "x": "싱가포르 Nanyang Technological University 연구진이 어떤 단백질이 상분리하는지 예측하는 AI 도구 두 가지를 내놓았다. 상분리란 단백질이 세포 안에서 물방울 같은 구획을 만드는 현상이다. 결과는 Molecular Plant에 실렸다."
+            "x": "Argon의 시연은 네 가지 영역에 걸쳤다. 로봇 제어(MuJoCo로 연습한 모바일 조작, zero-shot 제어, 비디오 월드 모델 조종), Real2Sim(로봇 카메라 피드, 자기중심 시점의 인간 영상, 손으로 그린 스케치로 만든 시뮬레이션 트윈), 물리적 이해(사후 라벨링, 밀집 가치 함수, 진행도 추정), 그리고 연구와 자기 개선이다."
+          },
+          {
+            "t": "video",
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
           },
           {
             "t": "p",
-            "x": "PLATO에는 단백질 서열 5,118개가 들어 있다. 상분리하는 서열 3,600개 이상, 상분리하지 않는 서열 약 1,300개에 더해 기존 데이터셋에 드물던 절단 단백질, 돌연변이, 인공 변이체까지 담았다. 연구팀은 대규모 언어 모델로 PubMed 논문을 분석하고 그 결과를 직접 검수해 데이터베이스를 쌓았다."
-          },
-          {
-            "t": "p",
-            "x": "PhaseHub는 1,106개 종에 걸친 MolPhase 예측에 단백질 존재량·상호작용 데이터를 엮어 다성분 구획을 찾는다. 사용자는 단백질을 검색하거나 서열을 넣어 보고 상호작용도 살필 수 있다. 상분리 단백질로 예측된 비율은 대체로 진핵생물이 세균보다 높다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 암, 알츠하이머병, 노화, 작물 개량 연구에 이 도구가 쓰일 수 있다고 본다. 제1저자 Liang Qiyu 박사는 이 연구가 “상분리 단백질을 이해하기 위한 포괄적 프레임워크를 제공한다”고 했다."
+            "x": "Argon은 사족 보행 로봇 Boston Dynamics Spot을 제어해 새 기술을 익혔다. 발판식 쓰레기통을 MuJoCo 디지털 트윈으로 만들어 연습한 다음 실제로 페달을 밟아 탄산음료 캔을 넣었다. 단일 탁상 사진으로 시뮬레이션 트윈을 만들고 4,500+개 에피소드를 생성하자 실제 벤치마크 성공률이 56%에서 75%로 올랐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LLMs map protein phase\nseparation across species",
-          "body": "NTU Singapore used LLMs to mine PubMed for PLATO, a database of 5,118 protein sequences and their phase behavior.",
-          "mini_headline": "Protein phase maps via LLMs",
+          "headline": "Gemini 4 Argon brings\nreasoning to robots",
+          "body": "Google says Gemini 4 Argon tops the ERQA embodied reasoning benchmark and can control robots zero-shot.",
+          "mini_headline": "Gemini 4 Argon for robots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini 4 Argon marks a step change in physical understanding, code generation, and visual-semantic reasoning—unlocking new workflows across the robotics stack and accelerating progress toward physical AGI. On the Embodied Reasoning (ERQA) benchmark, which tests a model's ability to solve physical, spatial problems in 3D environments, Argon scores 87% using pure reasoning, outperforming every other frontier model."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-                "cap": "Fungi. Credit: CC0 Public Domain"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
               },
               {
                 "t": "p",
-                "x": "Researchers at Nanyang Technological University, Singapore, developed two AI tools for predicting which proteins undergo phase separation, the process by which proteins form droplet-like compartments in cells. The work was published in Molecular Plant."
+                "x": "Argon is shown across four areas: robot control (mobile manipulation with MuJoCo practice, zero-shot control, steering of video world models), Real2Sim (simulation twins from robot camera feeds, egocentric human video, or hand-drawn sketches), physical understanding (hindsight labeling, dense value functions, progress estimation), and research and self-improvement."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
               },
               {
                 "t": "p",
-                "x": "PLATO is a database of 5,118 protein sequences, including more than 3,600 that phase-separate and about 1,300 that don't, plus truncated proteins, mutations and engineered variants rare in existing datasets. The team built it by using large language models to mine PubMed papers, then manually checking the results."
-              },
-              {
-                "t": "p",
-                "x": "PhaseHub combines MolPhase predictions across 1,106 species with protein abundance and interaction data to identify multicomponent compartments; users can search proteins, submit sequences and explore interactions. Eukaryotes generally have a higher proportion of predicted phase-separating proteins than bacteria."
-              },
-              {
-                "t": "p",
-                "x": "The researchers say the tools could help study cancer, Alzheimer's, aging and crop improvement. First author Dr. Liang Qiyu says the work \"provides a comprehensive framework for understanding phase-separating proteins.\""
+                "x": "Argon controls a Boston Dynamics Spot quadruped to learn a new skill, building a MuJoCo digital twin of a foot-pedal trash bin to practice before stepping on the real pedal and dropping soda cans in. From a single tabletop photo, it built a simulation twin and generated 4,500+ episodes, lifting a real-world benchmark from 56% to 75% success."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LLMs로 들여다본\n여러 종의 단백질 상분리",
-          "body": "NTU Singapore는 LLMs로 PubMed를 훑어 PLATO를 구축했다.",
-          "mini_headline": "LLMs로 그린 단백질 상분리 지도",
+          "headline": "Gemini 4 Argon\n로봇에 추론을 더하다",
+          "body": "Google의 Gemini 4 Argon은 ERQA 선두에 섰고 로봇까지 다룬다.",
+          "mini_headline": "로봇용 Gemini 4 Argon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini 4 Argon은 물리적 이해, 코드 생성, 시각·의미 추론에서 한 단계 올라섰다. 덕분에 로보틱스 스택 전반에 새 워크플로가 열리고 물리적 AGI로 가는 걸음도 빨라진다. Embodied Reasoning(ERQA)은 3D 환경에서 물리적·공간적 문제를 푸는 능력을 시험하는 벤치마크다. 여기서 Argon은 순수 추론만으로 87%를 기록해 다른 프런티어 모델을 모두 앞섰다."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-                "cap": "균류. Credit: CC0 Public Domain"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
               },
               {
                 "t": "p",
-                "x": "싱가포르 Nanyang Technological University 연구진이 어떤 단백질이 상분리하는지 예측하는 AI 도구 두 가지를 내놓았다. 상분리란 단백질이 세포 안에서 물방울 같은 구획을 만드는 현상이다. 결과는 Molecular Plant에 실렸다."
+                "x": "Argon의 시연은 네 가지 영역에 걸쳤다. 로봇 제어(MuJoCo로 연습한 모바일 조작, zero-shot 제어, 비디오 월드 모델 조종), Real2Sim(로봇 카메라 피드, 자기중심 시점의 인간 영상, 손으로 그린 스케치로 만든 시뮬레이션 트윈), 물리적 이해(사후 라벨링, 밀집 가치 함수, 진행도 추정), 그리고 연구와 자기 개선이다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
               },
               {
                 "t": "p",
-                "x": "PLATO에는 단백질 서열 5,118개가 들어 있다. 상분리하는 서열 3,600개 이상, 상분리하지 않는 서열 약 1,300개에 더해 기존 데이터셋에 드물던 절단 단백질, 돌연변이, 인공 변이체까지 담았다. 연구팀은 대규모 언어 모델로 PubMed 논문을 분석하고 그 결과를 직접 검수해 데이터베이스를 쌓았다."
-              },
-              {
-                "t": "p",
-                "x": "PhaseHub는 1,106개 종에 걸친 MolPhase 예측에 단백질 존재량·상호작용 데이터를 엮어 다성분 구획을 찾는다. 사용자는 단백질을 검색하거나 서열을 넣어 보고 상호작용도 살필 수 있다. 상분리 단백질로 예측된 비율은 대체로 진핵생물이 세균보다 높다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 암, 알츠하이머병, 노화, 작물 개량 연구에 이 도구가 쓰일 수 있다고 본다. 제1저자 Liang Qiyu 박사는 이 연구가 “상분리 단백질을 이해하기 위한 포괄적 프레임워크를 제공한다”고 했다."
+                "x": "Argon은 사족 보행 로봇 Boston Dynamics Spot을 제어해 새 기술을 익혔다. 발판식 쓰레기통을 MuJoCo 디지털 트윈으로 만들어 연습한 다음 실제로 페달을 밟아 탄산음료 캔을 넣었다. 단일 탁상 사진으로 시뮬레이션 트윈을 만들고 4,500+개 에피소드를 생성하자 실제 벤치마크 성공률이 56%에서 75%로 올랐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMsで見る種を越えた\nタンパク質相分離",
-          "body": "NTU SingaporeはLLMsでPubMedから5,118配列のPLATOを作った。",
-          "mini_headline": "LLMsでタンパク質相分離を地図化",
+          "headline": "Gemini 4 Argon\nロボットに推論力",
+          "body": "GoogleのGemini 4 ArgonはERQA首位でロボットをゼロショット制御する。",
+          "mini_headline": "ロボット向けGemini 4 Argon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini 4 Argonは、物理的理解、コード生成、視覚・意味推論で段階的な飛躍を遂げ、ロボティクススタック全体に新たなワークフローを開き、物理的AGIに向けた進歩を加速させる。3D 環境で物理的・空間的な問題を解く能力を測るEmbodied Reasoning(ERQA)ベンチマークで、Argonは純粋な推論のみで87%を記録し、他のすべてのフロンティアモデルを上回った。"
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-                "cap": "菌類。Credit: CC0 Public Domain"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
               },
               {
                 "t": "p",
-                "x": "シンガポールのNanyang Technological Universityの研究者が、どのタンパク質が相分離を起こすかを予測するAIツールを2つ開発した。相分離とは、タンパク質が細胞内で液滴状の区画を形成する過程である。成果はMolecular Plantに掲載された。"
+                "x": "Argonは四つの領域で示されている。ロボット制御(MuJoCoでの練習を伴うモバイルマニピュレーション、zero-shot制御、ビデオ世界モデルの操縦)、Real2Sim(ロボットのカメラ映像、エゴセントリックな人間の映像、手描きスケッチからのシミュレーションツイン)、物理的理解(事後ラベリング、密な価値関数、進捗推定)、そして研究と自己改善だ。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
               },
               {
                 "t": "p",
-                "x": "PLATOは5,118のタンパク質配列を収めたデータベースだ。相分離する3,600超の配列と、相分離しない約1,300の配列に加え、既存のデータセットでは少ない切断型タンパク質、変異、人工改変体も含む。チームは大規模言語モデルでPubMedの論文を解析し、結果を人の手で確認して構築した。"
-              },
-              {
-                "t": "p",
-                "x": "PhaseHubは1,106種にわたるMolPhaseの予測を、タンパク質の存在量や相互作用のデータと組み合わせ、多成分の区画を特定する。利用者はタンパク質の検索、配列の投稿、相互作用の探索ができる。真核生物は一般に、細菌よりも相分離すると予測されるタンパク質の割合が高い。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らは、このツールががん、アルツハイマー病、老化、作物改良の研究に役立ちうるとしている。筆頭著者のLiang Qiyu博士は、この研究が「相分離タンパク質を理解するための包括的な枠組みを提供する」と述べた。"
+                "x": "Argonは脚型ロボットBoston Dynamics Spotを操って新たなスキルを習得した。足踏みペダル式ゴミ箱のMuJoCoデジタルツインを作って練習し、実際のペダルを踏んでソーダ缶を捨てた。単一の卓上写真からシミュレーションツインを構築して4,500+のエピソードを生成し、実世界ベンチマークの成功率を56%から75%に引き上げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLMs绘制跨物种的\n蛋白质相分离图谱",
-          "body": "NTU Singapore用LLMs挖掘PubMed建成含5,118条序列的PLATO库。",
-          "mini_headline": "借助LLMs绘制蛋白质相图",
+          "headline": "Gemini 4 Argon\n为机器人带来推理",
+          "body": "Google称Gemini 4 Argon登顶ERQA具身推理基准，并能零样本控制机器人。",
+          "mini_headline": "面向机器人的Gemini 4 Argon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini 4 Argon在物理理解、代码生成和视觉语义推理方面实现了跨越式进步，为整个机器人技术栈开启新的工作流程，并加速迈向物理AGI。在测试模型于3D 环境中解决物理与空间问题能力的Embodied Reasoning(ERQA)基准上，Argon仅凭纯推理就取得87%的成绩，超过其他所有前沿模型。"
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-                "cap": "真菌。Credit: CC0 Public Domain"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
               },
               {
                 "t": "p",
-                "x": "新加坡Nanyang Technological University的研究人员开发了两款AI工具，用于预测哪些蛋白质会发生相分离，即蛋白质在细胞内形成液滴状区室的过程。研究发表在Molecular Plant上。"
+                "x": "Argon的能力展示涵盖四个领域：机器人控制(借助MuJoCo练习的移动操作、zero-shot控制、视频世界模型的操控)、Real2Sim(基于机器人摄像头画面、以自我为中心的人类视频或手绘草图构建仿真孪生)、物理理解(事后标注、稠密价值函数、进度估计)，以及研究与自我改进。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
               },
               {
                 "t": "p",
-                "x": "PLATO是一个包含5,118条蛋白质序列的数据库，其中3,600多条会发生相分离，约1,300条不会，另外还收录了现有数据集中少见的截短蛋白、突变和工程化变体。团队先用大语言模型挖掘PubMed论文，再人工核对结果，从而建成这一数据库。"
-              },
-              {
-                "t": "p",
-                "x": "PhaseHub将覆盖1,106个物种的MolPhase预测与蛋白质丰度和相互作用数据结合，用于识别多组分区室；用户可以搜索蛋白质、提交序列并探索相互作用。总体而言，真核生物中被预测会发生相分离的蛋白质比例高于细菌。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员表示，这些工具有望助力癌症、阿尔茨海默病、衰老和作物改良等研究。第一作者Liang Qiyu博士说，这项工作“为理解相分离蛋白质提供了一个全面的框架”。"
+                "x": "Argon操控足式机器人Boston Dynamics Spot学习新技能：先为脚踏式垃圾桶构建MuJoCo数字孪生进行练习，再踩下真实踏板，把汽水罐扔进去。仅凭单张桌面照片，它就构建出仿真孪生并生成4,500+个片段，把真实世界基准的成功率从56%提升到75%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los LLMs mapean la separación\nde fases proteica entre especies",
-          "body": "NTU Singapore usó LLMs con PubMed para crear PLATO, base de 5,118 secuencias de proteínas y su comportamiento de fase.",
-          "mini_headline": "Mapas de fase proteica con LLMs",
+          "headline": "Gemini 4 Argon lleva\nel razonamiento a los robots",
+          "body": "Según Google, Gemini 4 Argon lidera la prueba ERQA de razonamiento corporizado y controla robots en modo zero-shot.",
+          "mini_headline": "Gemini 4 Argon para robots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini 4 Argon supone un salto cualitativo en comprensión física, generación de código y razonamiento visual-semántico, lo que abre nuevos flujos de trabajo en toda la pila robótica y acelera el avance hacia la AGI física. En el benchmark Embodied Reasoning (ERQA), que mide la capacidad de un modelo para resolver problemas físicos y espaciales en entornos 3D, Argon obtiene un 87% solo con razonamiento puro y supera a todos los demás modelos de frontera."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-                "cap": "Hongos. Credit: CC0 Public Domain"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Nanyang Technological University, de Singapur, desarrollaron dos herramientas de AI para predecir qué proteínas experimentan separación de fases, el proceso por el que las proteínas forman compartimentos en forma de gotas dentro de las células. El trabajo se publicó en Molecular Plant."
+                "x": "Argon se muestra en cuatro áreas: control de robots (manipulación móvil con práctica en MuJoCo, control zero-shot, dirección de modelos de mundo de vídeo), Real2Sim (gemelos de simulación a partir de imágenes de cámaras de robots, vídeo humano egocéntrico o bocetos a mano), comprensión física (etiquetado retrospectivo, funciones de valor densas, estimación del progreso) e investigación y automejora."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
               },
               {
                 "t": "p",
-                "x": "PLATO es una base de datos de 5,118 secuencias de proteínas: más de 3,600 que se separan en fases y unas 1,300 que no, además de proteínas truncadas, mutaciones y variantes diseñadas, poco frecuentes en los conjuntos de datos existentes. El equipo la construyó usando grandes modelos de lenguaje para extraer información de artículos de PubMed y revisó después los resultados de forma manual."
-              },
-              {
-                "t": "p",
-                "x": "PhaseHub combina las predicciones de MolPhase en 1,106 especies con datos de abundancia e interacción de proteínas para identificar compartimentos multicomponente; los usuarios pueden buscar proteínas, enviar secuencias y explorar interacciones. En general, los eucariotas tienen una proporción mayor de proteínas con separación de fases prevista que las bacterias."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores afirman que las herramientas podrían ayudar a estudiar el cáncer, el alzhéimer, el envejecimiento y la mejora de cultivos. La primera autora, la Dra. Liang Qiyu, dice que el trabajo “ofrece un marco integral para comprender las proteínas que se separan en fases”."
+                "x": "Argon controla un cuadrúpedo Boston Dynamics Spot para aprender una habilidad nueva: construye un gemelo digital en MuJoCo de un cubo de basura con pedal para practicar antes de pisar el pedal real y echar latas de refresco. A partir de una única foto de una mesa, creó un gemelo de simulación y generó 4,500+ episodios, lo que elevó el éxito en una prueba del mundo real del 56% al 75%."
               }
             ]
           }
@@ -531,125 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LLMs로 본 여러 종의\n단백질 상분리",
-          "body": "NTU Singapore가 LLMs로 PubMed를 분석해 PLATO를 만들었다.",
-          "mini_headline": "LLMs로 그린 단백질 상분리 지도",
+          "headline": "Gemini 4 Argon\n로봇에 추론을 더하다",
+          "body": "Google의 Gemini 4 Argon은 ERQA 선두이며 로봇도 다룬다.",
+          "mini_headline": "로봇용 Gemini 4 Argon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini 4 Argon은 물리적 이해, 코드 생성, 시각·의미 추론에서 한 단계 도약을 이뤄 로보틱스 스택 전반에 새로운 워크플로를 열고 물리적 AGI를 향한 진전을 앞당긴다. 3D 환경에서 물리적·공간적 문제를 푸는 능력을 시험하는 Embodied Reasoning(ERQA) 벤치마크에서 Argon은 순수 추론만으로 87%를 기록해 다른 모든 프런티어 모델을 앞섰다."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-                "cap": "균류. Credit: CC0 Public Domain"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
               },
               {
                 "t": "p",
-                "x": "싱가포르 Nanyang Technological University 연구진이 어떤 단백질이 상분리를 겪는지 예측하는 AI 도구 두 가지를 개발했다. 상분리는 단백질이 세포 안에서 물방울 같은 구획을 이루는 과정이다. 연구 결과는 Molecular Plant에 실렸다."
+                "x": "Argon은 네 가지 영역에서 시연됐다. 로봇 제어(MuJoCo 연습을 통한 모바일 조작, zero-shot 제어, 비디오 월드 모델 조종), Real2Sim(로봇 카메라 피드, 자기중심 시점의 인간 영상, 손으로 그린 스케치로 만든 시뮬레이션 트윈), 물리적 이해(사후 라벨링, 밀집 가치 함수, 진행도 추정), 그리고 연구와 자기 개선이다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
               },
               {
                 "t": "p",
-                "x": "PLATO는 단백질 서열 5,118개를 담은 데이터베이스다. 상분리하는 서열 3,600개 이상과 상분리하지 않는 약 1,300개에, 기존 데이터셋에서 드문 절단 단백질, 돌연변이, 인공 변이체까지 포함했다. 연구팀은 대규모 언어 모델로 PubMed 논문을 분석한 뒤 결과를 직접 검수해 이 데이터베이스를 구축했다."
-              },
-              {
-                "t": "p",
-                "x": "PhaseHub는 1,106개 종에 걸친 MolPhase 예측을 단백질 존재량·상호작용 데이터와 결합해 다성분 구획을 찾아낸다. 사용자는 단백질을 검색하고, 서열을 제출하고, 상호작용을 살펴볼 수 있다. 진핵생물은 대체로 세균보다 상분리 단백질로 예측된 비율이 높다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 이 도구가 암, 알츠하이머병, 노화, 작물 개량 연구에 도움이 될 수 있다고 말한다. 제1저자 Liang Qiyu 박사는 이 연구가 “상분리 단백질을 이해하기 위한 포괄적 프레임워크를 제공한다”고 말했다."
+                "x": "Argon은 사족 보행 로봇 Boston Dynamics Spot을 제어해 새 기술을 익혔다. 발판식 쓰레기통의 MuJoCo 디지털 트윈을 만들어 연습한 뒤 실제 페달을 밟고 탄산음료 캔을 넣었다. 단일 탁상 사진으로 시뮬레이션 트윈을 만들고 4,500+개 에피소드를 생성해 실제 벤치마크 성공률을 56%에서 75%로 끌어올렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMsで見る種を越えた\nタンパク質相分離",
-          "body": "NTU SingaporeはLLMsでPubMedから5,118配列のPLATOを作った。",
-          "mini_headline": "LLMsでタンパク質相分離を地図化",
+          "headline": "Gemini 4 Argon\nロボットに推論力",
+          "body": "GoogleのGemini 4 ArgonはERQA首位でロボットをゼロショット制御する。",
+          "mini_headline": "ロボット向けGemini 4 Argon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini 4 Argonは、物理的理解、コード生成、視覚・意味推論で段階的な飛躍を遂げ、ロボティクススタック全体に新たなワークフローを開き、物理的AGIに向けた進歩を加速させる。3D 環境で物理的・空間的な問題を解く能力を測るEmbodied Reasoning(ERQA)ベンチマークで、Argonは純粋な推論のみで87%を記録し、他のすべてのフロンティアモデルを上回った。"
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-                "cap": "菌類。Credit: CC0 Public Domain"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
               },
               {
                 "t": "p",
-                "x": "シンガポールのNanyang Technological Universityの研究者が、どのタンパク質が相分離を起こすかを予測するAIツールを2つ開発した。相分離とは、タンパク質が細胞内で液滴状の区画を形成する過程である。成果はMolecular Plantに掲載された。"
+                "x": "Argonは四つの領域で示されている。ロボット制御(MuJoCoでの練習を伴うモバイルマニピュレーション、zero-shot制御、ビデオ世界モデルの操縦)、Real2Sim(ロボットのカメラ映像、エゴセントリックな人間の映像、手描きスケッチからのシミュレーションツイン)、物理的理解(事後ラベリング、密な価値関数、進捗推定)、そして研究と自己改善だ。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
               },
               {
                 "t": "p",
-                "x": "PLATOは5,118のタンパク質配列を収めたデータベースだ。相分離する3,600超の配列と、相分離しない約1,300の配列に加え、既存のデータセットでは少ない切断型タンパク質、変異、人工改変体も含む。チームは大規模言語モデルでPubMedの論文を解析し、結果を人の手で確認して構築した。"
-              },
-              {
-                "t": "p",
-                "x": "PhaseHubは1,106種にわたるMolPhaseの予測を、タンパク質の存在量や相互作用のデータと組み合わせ、多成分の区画を特定する。利用者はタンパク質の検索、配列の投稿、相互作用の探索ができる。真核生物は一般に、細菌よりも相分離すると予測されるタンパク質の割合が高い。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らは、このツールががん、アルツハイマー病、老化、作物改良の研究に役立ちうるとしている。筆頭著者のLiang Qiyu博士は、この研究が「相分離タンパク質を理解するための包括的な枠組みを提供する」と述べた。"
+                "x": "Argonは脚型ロボットBoston Dynamics Spotを操って新たなスキルを習得した。足踏みペダル式ゴミ箱のMuJoCoデジタルツインを作って練習し、実際のペダルを踏んでソーダ缶を捨てた。単一の卓上写真からシミュレーションツインを構築して4,500+のエピソードを生成し、実世界ベンチマークの成功率を56%から75%に引き上げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLMs绘制跨物种的\n蛋白质相分离图谱",
-          "body": "NTU Singapore用LLMs挖掘PubMed建成含5,118条序列的PLATO库。",
-          "mini_headline": "借助LLMs绘制蛋白质相图",
+          "headline": "Gemini 4 Argon\n为机器人带来推理",
+          "body": "Google称Gemini 4 Argon登顶ERQA具身推理基准，并能零样本控制机器人。",
+          "mini_headline": "面向机器人的Gemini 4 Argon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini 4 Argon在物理理解、代码生成和视觉语义推理方面实现了跨越式进步，为整个机器人技术栈开启新的工作流程，并加速迈向物理AGI。在测试模型于3D 环境中解决物理与空间问题能力的Embodied Reasoning(ERQA)基准上，Argon仅凭纯推理就取得87%的成绩，超过其他所有前沿模型。"
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-                "cap": "真菌。Credit: CC0 Public Domain"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
               },
               {
                 "t": "p",
-                "x": "新加坡Nanyang Technological University的研究人员开发了两款AI工具，用于预测哪些蛋白质会发生相分离，即蛋白质在细胞内形成液滴状区室的过程。研究发表在Molecular Plant上。"
+                "x": "Argon的能力展示涵盖四个领域：机器人控制(借助MuJoCo练习的移动操作、zero-shot控制、视频世界模型的操控)、Real2Sim(基于机器人摄像头画面、以自我为中心的人类视频或手绘草图构建仿真孪生)、物理理解(事后标注、稠密价值函数、进度估计)，以及研究与自我改进。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
               },
               {
                 "t": "p",
-                "x": "PLATO是一个包含5,118条蛋白质序列的数据库，其中3,600多条会发生相分离，约1,300条不会，另外还收录了现有数据集中少见的截短蛋白、突变和工程化变体。团队先用大语言模型挖掘PubMed论文，再人工核对结果，从而建成这一数据库。"
-              },
-              {
-                "t": "p",
-                "x": "PhaseHub将覆盖1,106个物种的MolPhase预测与蛋白质丰度和相互作用数据结合，用于识别多组分区室；用户可以搜索蛋白质、提交序列并探索相互作用。总体而言，真核生物中被预测会发生相分离的蛋白质比例高于细菌。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员表示，这些工具有望助力癌症、阿尔茨海默病、衰老和作物改良等研究。第一作者Liang Qiyu博士说，这项工作“为理解相分离蛋白质提供了一个全面的框架”。"
+                "x": "Argon操控足式机器人Boston Dynamics Spot学习新技能：先为脚踏式垃圾桶构建MuJoCo数字孪生进行练习，再踩下真实踏板，把汽水罐扔进去。仅凭单张桌面照片，它就构建出仿真孪生并生成4,500+个片段，把真实世界基准的成功率从56%提升到75%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los LLMs mapean la separación\nde fases proteica entre especies",
-          "body": "NTU Singapore usó LLMs con PubMed para crear PLATO, base de 5,118 secuencias de proteínas y su comportamiento de fase.",
-          "mini_headline": "Mapas de fase proteica con LLMs",
+          "headline": "Gemini 4 Argon lleva\nel razonamiento a los robots",
+          "body": "Según Google, Gemini 4 Argon lidera la prueba ERQA de razonamiento corporizado y controla robots en modo zero-shot.",
+          "mini_headline": "Gemini 4 Argon para robots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini 4 Argon supone un salto cualitativo en comprensión física, generación de código y razonamiento visual-semántico, lo que abre nuevos flujos de trabajo en toda la pila robótica y acelera el avance hacia la AGI física. En el benchmark Embodied Reasoning (ERQA), que mide la capacidad de un modelo para resolver problemas físicos y espaciales en entornos 3D, Argon obtiene un 87% solo con razonamiento puro y supera a todos los demás modelos de frontera."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-                "cap": "Hongos. Credit: CC0 Public Domain"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Nanyang Technological University, de Singapur, desarrollaron dos herramientas de AI para predecir qué proteínas experimentan separación de fases, el proceso por el que las proteínas forman compartimentos en forma de gotas dentro de las células. El trabajo se publicó en Molecular Plant."
+                "x": "Argon se muestra en cuatro áreas: control de robots (manipulación móvil con práctica en MuJoCo, control zero-shot, dirección de modelos de mundo de vídeo), Real2Sim (gemelos de simulación a partir de imágenes de cámaras de robots, vídeo humano egocéntrico o bocetos a mano), comprensión física (etiquetado retrospectivo, funciones de valor densas, estimación del progreso) e investigación y automejora."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
               },
               {
                 "t": "p",
-                "x": "PLATO es una base de datos de 5,118 secuencias de proteínas: más de 3,600 que se separan en fases y unas 1,300 que no, además de proteínas truncadas, mutaciones y variantes diseñadas, poco frecuentes en los conjuntos de datos existentes. El equipo la construyó usando grandes modelos de lenguaje para extraer información de artículos de PubMed y revisó después los resultados de forma manual."
-              },
-              {
-                "t": "p",
-                "x": "PhaseHub combina las predicciones de MolPhase en 1,106 especies con datos de abundancia e interacción de proteínas para identificar compartimentos multicomponente; los usuarios pueden buscar proteínas, enviar secuencias y explorar interacciones. En general, los eucariotas tienen una proporción mayor de proteínas con separación de fases prevista que las bacterias."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores afirman que las herramientas podrían ayudar a estudiar el cáncer, el alzhéimer, el envejecimiento y la mejora de cultivos. La primera autora, la Dra. Liang Qiyu, dice que el trabajo “ofrece un marco integral para comprender las proteínas que se separan en fases”."
+                "x": "Argon controla un cuadrúpedo Boston Dynamics Spot para aprender una habilidad nueva: construye un gemelo digital en MuJoCo de un cubo de basura con pedal para practicar antes de pisar el pedal real y echar latas de refresco. A partir de una única foto de una mesa, creó un gemelo de simulación y generó 4,500+ episodios, lo que elevó el éxito en una prueba del mundo real del 56% al 75%."
               }
             ]
           }
@@ -657,297 +627,15 @@
       }
     },
     {
-      "id": "science-ebird-inaturalist-llm-ecology",
+      "id": "science-idealens-idea-detector",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "시민과학 기록에서\n생태 단서 캐는 LLMs",
-      "body": "Claude는 eBird·iNaturalist 약 500건을 육 분 만에 분류했다.",
-      "mini_headline": "시민과학 기록 읽는 LLMs",
-      "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-nature-lovers-aid-ecology-ai.html",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-            "cap": "흰기러기 한 마리가 캐나다기러기(Canada goose) 무리에 섞여 먹이를 먹는다. eBird 댓글에 자주 오르는 상호 이익 관계다. Credit: Jing-Yi Li"
-          },
-          {
-            "t": "p",
-            "x": "University of Michigan이 이끈 연구가 PNAS에 실렸다. 연구진은 eBird(조류)와 iNaturalist(식물과 꽃가루 매개자) 댓글로 대규모 언어 모델이 공개된 자연 관찰 기록에서 종 사이 상호작용 정보를 골라낼 수 있음을 보였다."
-          },
-          {
-            "t": "p",
-            "x": "두 사례 연구는 West Coast lady 나비와 그 기주식물, 그리고 Michigan 조류의 상호작용을 다뤘다. 개념 증명 단계에서는 미국(U.S.) 서부 해안을 따라 퍼지는, 자칫 놓칠 뻔한 외래 식물이 드러났다."
-          },
-          {
-            "t": "p",
-            "x": "시간을 재 본 비교에서 Claude는 댓글 500건 가까이를 약 육 분 만에 분류했다. 같은 일에 학부생 연구원은 약 여덟 시간을 썼다. 제1저자 Hengxing Zou는 이 연구가 과학자의 창의적 작업을 대신하려는 게 아니라 AI로 사람의 노력을 넓히려는 시도라고 설명한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "LLMs mine citizen-science\nnotes for ecology clues",
-          "body": "Claude classified nearly 500 eBird and iNaturalist comments in about six minutes, a job that took a student eight hours.",
-          "mini_headline": "LLMs read citizen-science notes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-                "cap": "A single snow goose feeds with a group of Canada geese, a mutually beneficial interaction often recorded in eBird comments. Credit: Jing-Yi Li"
-              },
-              {
-                "t": "p",
-                "x": "A University of Michigan-led study published in PNAS found that large language models can sort through public nature observations to pull out information about how species interact, using comments from eBird (birds) and iNaturalist (plants and pollinators)."
-              },
-              {
-                "t": "p",
-                "x": "The two case studies covered West Coast lady butterflies and their host plants, and interactions among Michigan birds. In the proof of concept, the approach revealed nonnative plants spreading along the U.S. West Coast that might otherwise have been missed."
-              },
-              {
-                "t": "p",
-                "x": "In one timed comparison, Claude classified nearly 500 comments in about six minutes, versus roughly eight hours for an undergraduate researcher. Lead author Hengxing Zou describes the work as using AI to extend human effort rather than replace scientists' creative work."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "시민과학 기록에서\n생태 단서 캐는 LLMs",
-          "body": "Claude는 eBird·iNaturalist 약 500건을 육 분 만에 분류했다.",
-          "mini_headline": "시민과학 기록 읽는 LLMs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-                "cap": "흰기러기 한 마리가 캐나다기러기(Canada goose) 무리에 섞여 먹이를 먹는다. eBird 댓글에 자주 오르는 상호 이익 관계다. Credit: Jing-Yi Li"
-              },
-              {
-                "t": "p",
-                "x": "University of Michigan이 이끈 연구가 PNAS에 실렸다. 연구진은 eBird(조류)와 iNaturalist(식물과 꽃가루 매개자) 댓글로 대규모 언어 모델이 공개된 자연 관찰 기록에서 종 사이 상호작용 정보를 골라낼 수 있음을 보였다."
-              },
-              {
-                "t": "p",
-                "x": "두 사례 연구는 West Coast lady 나비와 그 기주식물, 그리고 Michigan 조류의 상호작용을 다뤘다. 개념 증명 단계에서는 미국(U.S.) 서부 해안을 따라 퍼지는, 자칫 놓칠 뻔한 외래 식물이 드러났다."
-              },
-              {
-                "t": "p",
-                "x": "시간을 재 본 비교에서 Claude는 댓글 500건 가까이를 약 육 분 만에 분류했다. 같은 일에 학부생 연구원은 약 여덟 시간을 썼다. 제1저자 Hengxing Zou는 이 연구가 과학자의 창의적 작업을 대신하려는 게 아니라 AI로 사람의 노력을 넓히려는 시도라고 설명한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMsが市民科学の\n記録から生態の手がかり",
-          "body": "ClaudeはeBirdとiNaturalistのコメント約500件を約六分で分類した。",
-          "mini_headline": "LLMsが市民科学の記録を読む",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-                "cap": "カナダガン（Canada goose）の群れと一緒に餌をとる1羽のハクガン。eBirdのコメントによく記録される、互いに利益のある関係だ。Credit: Jing-Yi Li"
-              },
-              {
-                "t": "p",
-                "x": "University of Michiganが主導し、PNASに掲載された研究は、eBird（鳥類）とiNaturalist（植物と送粉者）のコメントを使い、大規模言語モデルが公開された自然観察記録を選り分けて、種同士の相互作用に関する情報を引き出せることを示した。"
-              },
-              {
-                "t": "p",
-                "x": "2つの事例研究は、West Coast ladyというチョウとその食草、そしてMichiganの鳥類間の相互作用を扱った。概念実証では、見逃されていたかもしれない、米国（U.S.）西海岸沿いに広がる外来植物を明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "時間を計ったある比較では、Claudeが500件近いコメントを約六分で分類したのに対し、学部生の研究者は約八時間かかった。筆頭著者のHengxing Zouは、この研究を科学者の創造的な仕事を置き換えるものではなく、AIで人間の労力を広げるものだと説明する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "LLMs从公民科学记录中\n挖掘生态线索",
-          "body": "Claude约六分钟分类了近500条eBird和iNaturalist评论，学生需八小时。",
-          "mini_headline": "LLMs解读公民科学记录",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-                "cap": "一只雪雁与一群加拿大雁（Canada goose）一同觅食，这种互利互动常见于eBird评论记录中。Credit: Jing-Yi Li"
-              },
-              {
-                "t": "p",
-                "x": "一项由University of Michigan牵头、发表在PNAS上的研究发现，大语言模型可以筛查公开的自然观察记录，从中提取物种如何互动的信息。研究使用的是eBird（鸟类）和iNaturalist（植物与传粉者）上的评论。"
-              },
-              {
-                "t": "p",
-                "x": "两项案例研究分别关注West Coast lady蝴蝶及其寄主植物，以及Michigan鸟类之间的互动。在概念验证中，这一方法揭示了沿美国（U.S.）西海岸扩散、原本可能被忽视的外来植物。"
-              },
-              {
-                "t": "p",
-                "x": "在一次计时对比中，Claude用约六分钟分类了近500条评论，而一名本科生研究员大约需要八小时。第一作者Hengxing Zou表示，这项工作是用AI扩展人的工作量，而不是取代科学家的创造性工作。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "LLMs buscan pistas ecológicas\nen notas de ciencia ciudadana",
-          "body": "Claude clasificó casi 500 comentarios de eBird e iNaturalist en unos seis minutos; a un estudiante le llevó ocho horas.",
-          "mini_headline": "Los LLMs leen notas de ciencia ciudadana",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-                "cap": "Un ánsar nival se alimenta junto a un grupo de barnaclas canadienses (Canada geese), una interacción de beneficio mutuo que suele registrarse en los comentarios de eBird. Credit: Jing-Yi Li"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio dirigido por la University of Michigan y publicado en PNAS halló que los grandes modelos de lenguaje pueden revisar observaciones públicas de la naturaleza para extraer información sobre cómo interactúan las especies, a partir de comentarios de eBird (aves) e iNaturalist (plantas y polinizadores)."
-              },
-              {
-                "t": "p",
-                "x": "Los dos estudios de caso abarcaron la mariposa West Coast lady y sus plantas hospedadoras, y las interacciones entre aves de Michigan. En la prueba de concepto, el método reveló plantas no nativas que se extienden por la costa oeste de Estados Unidos (U.S.) y que, de otro modo, podrían haber pasado inadvertidas."
-              },
-              {
-                "t": "p",
-                "x": "En una comparación cronometrada, Claude clasificó casi 500 comentarios en unos seis minutos, frente a unas ocho horas de un investigador de grado. El autor principal, Hengxing Zou, describe el trabajo como un uso de la AI para ampliar el esfuerzo humano, no para sustituir el trabajo creativo de los científicos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "LLMs가 시민과학\n기록에서 생태 단서 캐다",
-          "body": "Claude가 eBird·iNaturalist 약 500건을 육 분 만에 분류했다.",
-          "mini_headline": "시민과학 기록 읽는 LLMs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-                "cap": "흰기러기 한 마리가 캐나다기러기(Canada goose) 무리와 함께 먹이를 먹고 있다. eBird 댓글에 자주 기록되는 상호 이익 관계다. Credit: Jing-Yi Li"
-              },
-              {
-                "t": "p",
-                "x": "University of Michigan이 이끈 연구가 PNAS에 실렸다. 연구진은 eBird(조류)와 iNaturalist(식물과 꽃가루 매개자) 댓글을 활용해, 대규모 언어 모델이 공개된 자연 관찰 기록을 걸러 종 사이의 상호작용 정보를 뽑아낼 수 있음을 확인했다."
-              },
-              {
-                "t": "p",
-                "x": "두 사례 연구는 West Coast lady 나비와 그 기주식물, 그리고 Michigan 조류 사이의 상호작용을 다뤘다. 개념 증명 단계에서 이 방법은 자칫 놓칠 수 있었던, 미국(U.S.) 서부 해안을 따라 퍼지는 외래 식물을 드러냈다."
-              },
-              {
-                "t": "p",
-                "x": "시간을 잰 한 비교에서 Claude는 댓글 500건 가까이를 약 육 분 만에 분류했고, 학부생 연구원은 약 여덟 시간이 걸렸다. 제1저자 Hengxing Zou는 이 연구를 과학자의 창의적 작업을 대신하는 것이 아니라, AI로 사람의 노력을 넓히는 일이라고 설명한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMsが市民科学の\n記録から生態の手がかり",
-          "body": "ClaudeはeBirdとiNaturalistのコメント約500件を約六分で分類した。",
-          "mini_headline": "LLMsが市民科学の記録を読む",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-                "cap": "カナダガン（Canada goose）の群れと一緒に餌をとる1羽のハクガン。eBirdのコメントによく記録される、互いに利益のある関係だ。Credit: Jing-Yi Li"
-              },
-              {
-                "t": "p",
-                "x": "University of Michiganが主導し、PNASに掲載された研究は、eBird（鳥類）とiNaturalist（植物と送粉者）のコメントを使い、大規模言語モデルが公開された自然観察記録を選り分けて、種同士の相互作用に関する情報を引き出せることを示した。"
-              },
-              {
-                "t": "p",
-                "x": "2つの事例研究は、West Coast ladyというチョウとその食草、そしてMichiganの鳥類間の相互作用を扱った。概念実証では、見逃されていたかもしれない、米国（U.S.）西海岸沿いに広がる外来植物を明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "時間を計ったある比較では、Claudeが500件近いコメントを約六分で分類したのに対し、学部生の研究者は約八時間かかった。筆頭著者のHengxing Zouは、この研究を科学者の創造的な仕事を置き換えるものではなく、AIで人間の労力を広げるものだと説明する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "LLMs从公民科学记录中\n挖掘生态线索",
-          "body": "Claude约六分钟分类了近500条eBird和iNaturalist评论，学生需八小时。",
-          "mini_headline": "LLMs解读公民科学记录",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-                "cap": "一只雪雁与一群加拿大雁（Canada goose）一同觅食，这种互利互动常见于eBird评论记录中。Credit: Jing-Yi Li"
-              },
-              {
-                "t": "p",
-                "x": "一项由University of Michigan牵头、发表在PNAS上的研究发现，大语言模型可以筛查公开的自然观察记录，从中提取物种如何互动的信息。研究使用的是eBird（鸟类）和iNaturalist（植物与传粉者）上的评论。"
-              },
-              {
-                "t": "p",
-                "x": "两项案例研究分别关注West Coast lady蝴蝶及其寄主植物，以及Michigan鸟类之间的互动。在概念验证中，这一方法揭示了沿美国（U.S.）西海岸扩散、原本可能被忽视的外来植物。"
-              },
-              {
-                "t": "p",
-                "x": "在一次计时对比中，Claude用约六分钟分类了近500条评论，而一名本科生研究员大约需要八小时。第一作者Hengxing Zou表示，这项工作是用AI扩展人的工作量，而不是取代科学家的创造性工作。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "LLMs buscan pistas ecológicas\nen notas de ciencia ciudadana",
-          "body": "Claude clasificó casi 500 comentarios de eBird e iNaturalist en unos seis minutos; a un estudiante le llevó ocho horas.",
-          "mini_headline": "Los LLMs leen notas de ciencia ciudadana",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-                "cap": "Un ánsar nival se alimenta junto a un grupo de barnaclas canadienses (Canada geese), una interacción de beneficio mutuo que suele registrarse en los comentarios de eBird. Credit: Jing-Yi Li"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio dirigido por la University of Michigan y publicado en PNAS halló que los grandes modelos de lenguaje pueden revisar observaciones públicas de la naturaleza para extraer información sobre cómo interactúan las especies, a partir de comentarios de eBird (aves) e iNaturalist (plantas y polinizadores)."
-              },
-              {
-                "t": "p",
-                "x": "Los dos estudios de caso abarcaron la mariposa West Coast lady y sus plantas hospedadoras, y las interacciones entre aves de Michigan. En la prueba de concepto, el método reveló plantas no nativas que se extienden por la costa oeste de Estados Unidos (U.S.) y que, de otro modo, podrían haber pasado inadvertidas."
-              },
-              {
-                "t": "p",
-                "x": "En una comparación cronometrada, Claude clasificó casi 500 comentarios en unos seis minutos, frente a unas ocho horas de un investigador de grado. El autor principal, Hengxing Zou, describe el trabajo como un uso de la AI para ampliar el esfuerzo humano, no para sustituir el trabajo creativo de los científicos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "science-koc-photonic-optical-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Koç University\nAI 연산을 빛에 맡기다",
-      "body": "Koç University 광 신경망은 분류 정확도를 68%에서 98%로 높였다.",
-      "mini_headline": "빛으로 하는 AI 연산",
+      "headline": "IdeaLens는 생각으로\nAI 글을 가려낸다",
+      "body": "IdeaLens는 AI가 전부 쓴 문서의 91%를 오경보 0.6%로 잡아낸다.",
+      "mini_headline": "생각을 읽는 IdeaLens",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-approach-sustainable-ai-offloading-burden.html",
+      "url": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -955,179 +643,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-            "cap": "멀티채널 광 컴퓨팅의 실험 장치와 최적화 전략. Credit: Communications Engineering (2026)"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+            "cap": "IDEALENS는 생각을, 기존 탐지기는 표현을 좇는다. Credit: arXiv (2026)."
           },
           {
             "t": "p",
-            "x": "Koç University Uğur Teğin 조교수 연구팀이 AI 연산 일부를 빛으로 처리하는 연구 두 편을 내놨다. AI의 에너지 수요를 덜어 줄 방법이다."
+            "x": "University of Maryland, Google DeepMind, Simon Fraser University 연구진이 만든 IdeaLens는 단어 선택 대신 밑바탕에 깔린 생각과 논증을 분석해 글에 AI가 개입했는지 가려낸다. 연구팀은 라벨이 붙은 문서 약 1백만 건을 모아 언어 모델로 문체를 걷어 내고 핵심 논증만 남긴 개요로 압축했다."
           },
           {
             "t": "p",
-            "x": "Communications Engineering 논문에서 연구팀은 이미지의 빨강·초록·파랑 채널을 흑백으로 바꾸지 않은 채 한꺼번에 처리하는 프로그래머블 광자 신경망을 선보였다. 피부과 분류 과제의 정확도는 원본 컬러 픽셀 데이터로는 68%였지만 광학 처리를 거치자 98%로 뛰었다. 시스템은 측정 결과로 학습하며 광학 장치의 실제 결함에 맞춰 스스로 조정된다."
+            "x": "사람이 다 쓴 문서와 전부 AI-generated(AI가 생성한) 문서를 놓고 보면 IdeaLens는 AI 생성 문서의 91%를 찾아냈고 사람 글에 낸 오경보는 0.6%였다. AI가 짠 개요로 사람이 쓴 글에서는 68%를 AI의 생각으로 표시했는데 Pangram은 8%만 잡았다. 거꾸로 사람이 짠 개요로 AI가 쓴 글에서는 Pangram 4가 AI 문구의 92%를 잡았고 IdeaLens는 7%만 표시했다."
           },
           {
             "t": "p",
-            "x": "Communications Physics 논문에서는 멀티모드 광섬유 레이저가 물리 프로세서 노릇을 하며 레이저 공진기 안에서 이미지 데이터를 빛으로 인코딩했다. 재활용 폐기물, 날씨·위성 이미지, 망막 스캔, 피부 병변 데이터에서 단순한 분류기만으로 정확도가 85%에서 99%에 이르렀다. 학습 파라미터 수는 기존 딥러닝 모델보다 훨씬 적었다."
-          },
-          {
-            "t": "p",
-            "x": "아직은 카메라와 제어 장치 같은 전자 부품이 필요하다. 광 제어 장치가 더 빨라지고 칩 기반 광학이 나오면 빛으로 옮길 수 있는 연산도 늘어난다."
+            "x": "예측 90,000건을 통틀어 보면 사람의 생각에는 검증 가능한 출처와 한계를 인정하는 대목이 담기는 편이었고 AI 글은 일반적인 세부 사항, 검증할 수 없는 숫자, 포괄적인 주장에 기댔다. IdeaLens는 일부 최신 모델 앞에서 효과가 떨어져 추가 검증 없이 배포할 단계는 아니다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Koç University offloads AI\ncomputation onto light",
-          "body": "Koç University's programmable optical neural network raised skin-lesion classification accuracy from 68% to 98%.",
-          "mini_headline": "AI computing on light",
+          "headline": "IdeaLens spots AI writing\nby its ideas, not words",
+          "body": "IdeaLens judges if a text's ideas came from AI, catching 91% of documents fully written by AI with 0.6% false alarms.",
+          "mini_headline": "IdeaLens reads ideas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-                "cap": "Experimental setup and optimization strategies for multichannel optical computing. Credit: Communications Engineering (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+                "cap": "IDEALENS tracks ideas; traditional detectors track wording. Credit: arXiv (2026)."
               },
               {
                 "t": "p",
-                "x": "Koç University assistant professor Uğur Teğin and colleagues published two studies on using light to perform parts of AI computation, which could reduce the energy demands of AI."
+                "x": "Researchers from the University of Maryland, Google DeepMind and Simon Fraser University built IdeaLens, which tries to detect AI involvement in writing by analyzing the underlying ideas and arguments rather than word choice. The team collected about 1 million labeled documents and used language models to reduce them to outlines of core arguments, stripping away style."
               },
               {
                 "t": "p",
-                "x": "In Communications Engineering, the team built a programmable photonic neural network that processes an image's red, green and blue channels together instead of converting them to grayscale. In a dermatological classification task, accuracy rose from 68% on raw color pixel data to 98% after optical processing. The system learns from measured results, adapting to real-world imperfections in the optical setup."
+                "x": "On fully human or fully AI-generated documents, IdeaLens identified 91% of AI-generated ones, with false alarms on 0.6% of human work. On human writing based on AI outlines, it flagged 68% as AI ideas, while Pangram caught only 8%. On AI writing based on human outlines, Pangram 4 caught 92% of the AI wording; IdeaLens flagged only 7%."
               },
               {
                 "t": "p",
-                "x": "In Communications Physics, a multimode fiber laser served as a physical processor, encoding image data into light inside the laser cavity. Across recyclable waste, weather and satellite imagery, retinal scans and skin lesions, it reached 85% to 99% accuracy with a simple classifier and far fewer trainable parameters than conventional deep-learning models."
-              },
-              {
-                "t": "p",
-                "x": "The systems still rely on electronic parts such as cameras and control units; faster light-control devices and chip-based optics could shift more of the workload to light."
+                "x": "Across 90,000 predictions, human ideas tended to include verifiable sources and acknowledged limitations; AI writing leaned on generic details, unverifiable numbers and sweeping claims. IdeaLens was less effective on some newer models, so it is not ready for deployment without further testing."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Koç University\nAI 연산을 빛에 맡기다",
-          "body": "Koç University 광 신경망은 분류 정확도를 68%에서 98%로 높였다.",
-          "mini_headline": "빛으로 하는 AI 연산",
+          "headline": "IdeaLens는 생각으로\nAI 글을 가려낸다",
+          "body": "IdeaLens는 AI가 전부 쓴 문서의 91%를 오경보 0.6%로 잡아낸다.",
+          "mini_headline": "생각을 읽는 IdeaLens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-                "cap": "멀티채널 광 컴퓨팅의 실험 장치와 최적화 전략. Credit: Communications Engineering (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+                "cap": "IDEALENS는 생각을, 기존 탐지기는 표현을 좇는다. Credit: arXiv (2026)."
               },
               {
                 "t": "p",
-                "x": "Koç University Uğur Teğin 조교수 연구팀이 AI 연산 일부를 빛으로 처리하는 연구 두 편을 내놨다. AI의 에너지 수요를 덜어 줄 방법이다."
+                "x": "University of Maryland, Google DeepMind, Simon Fraser University 연구진이 만든 IdeaLens는 단어 선택 대신 밑바탕에 깔린 생각과 논증을 분석해 글에 AI가 개입했는지 가려낸다. 연구팀은 라벨이 붙은 문서 약 1백만 건을 모아 언어 모델로 문체를 걷어 내고 핵심 논증만 남긴 개요로 압축했다."
               },
               {
                 "t": "p",
-                "x": "Communications Engineering 논문에서 연구팀은 이미지의 빨강·초록·파랑 채널을 흑백으로 바꾸지 않은 채 한꺼번에 처리하는 프로그래머블 광자 신경망을 선보였다. 피부과 분류 과제의 정확도는 원본 컬러 픽셀 데이터로는 68%였지만 광학 처리를 거치자 98%로 뛰었다. 시스템은 측정 결과로 학습하며 광학 장치의 실제 결함에 맞춰 스스로 조정된다."
+                "x": "사람이 다 쓴 문서와 전부 AI-generated(AI가 생성한) 문서를 놓고 보면 IdeaLens는 AI 생성 문서의 91%를 찾아냈고 사람 글에 낸 오경보는 0.6%였다. AI가 짠 개요로 사람이 쓴 글에서는 68%를 AI의 생각으로 표시했는데 Pangram은 8%만 잡았다. 거꾸로 사람이 짠 개요로 AI가 쓴 글에서는 Pangram 4가 AI 문구의 92%를 잡았고 IdeaLens는 7%만 표시했다."
               },
               {
                 "t": "p",
-                "x": "Communications Physics 논문에서는 멀티모드 광섬유 레이저가 물리 프로세서 노릇을 하며 레이저 공진기 안에서 이미지 데이터를 빛으로 인코딩했다. 재활용 폐기물, 날씨·위성 이미지, 망막 스캔, 피부 병변 데이터에서 단순한 분류기만으로 정확도가 85%에서 99%에 이르렀다. 학습 파라미터 수는 기존 딥러닝 모델보다 훨씬 적었다."
-              },
-              {
-                "t": "p",
-                "x": "아직은 카메라와 제어 장치 같은 전자 부품이 필요하다. 광 제어 장치가 더 빨라지고 칩 기반 광학이 나오면 빛으로 옮길 수 있는 연산도 늘어난다."
+                "x": "예측 90,000건을 통틀어 보면 사람의 생각에는 검증 가능한 출처와 한계를 인정하는 대목이 담기는 편이었고 AI 글은 일반적인 세부 사항, 검증할 수 없는 숫자, 포괄적인 주장에 기댔다. IdeaLens는 일부 최신 모델 앞에서 효과가 떨어져 추가 검증 없이 배포할 단계는 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Koç University\nAI計算を光へ移す",
-          "body": "Koç Universityの光ニューラルネットが分類精度を68%から98%に高めた。",
-          "mini_headline": "光で行うAI計算",
+          "headline": "IdeaLensは言葉でなく\n発想でAI文を見抜く",
+          "body": "IdeaLensは発想の出所を判定し、AIのみの文書の91%を誤検知0.6%で捉える。",
+          "mini_headline": "発想を読むIdeaLens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-                "cap": "マルチチャネル光コンピューティングの実験装置と最適化戦略。Credit: Communications Engineering (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+                "cap": "IDEALENSは発想を、従来の検出器は言い回しを追跡する。Credit: arXiv (2026)."
               },
               {
                 "t": "p",
-                "x": "Koç UniversityのUğur Teğin助教らは、AI計算の一部を光で行う研究を2本発表した。AIのエネルギー需要を減らしうる手法である。"
+                "x": "University of Maryland、Google DeepMind、Simon Fraser Universityの研究者らは、言葉選びではなく根底にある発想や論証を分析して文章へのAIの関与を検出するIdeaLensを開発した。チームはラベル付きの文書を約1百万件集め、言語モデルで文体を取り除いて核となる論証のアウトラインに要約した。"
               },
               {
                 "t": "p",
-                "x": "Communications Engineeringに掲載された研究で、チームは画像の赤・緑・青のチャネルをグレースケールに変換せず、まとめて処理するプログラム可能なフォトニック・ニューラルネットワークを構築した。皮膚科の分類タスクでは、精度が生のカラー画素データでの68%から、光学処理後には98%に上がった。システムは測定結果から学習し、光学装置の現実の不完全さに適応する。"
+                "x": "完全に人間が書いた文書と完全にAI-generatedな文書では、IdeaLensはAI生成文書の91%を特定し、人間の文章への誤検知は0.6%だった。AIのアウトラインを基に人間が書いた文章では68%をAIの発想と判定したが、Pangramは8%しか捉えられなかった。人間のアウトラインを基にAIが書いた文章では、Pangram 4がAIの言い回しの92%を捉えたのに対し、IdeaLensが判定したのは7%にとどまった。"
               },
               {
                 "t": "p",
-                "x": "Communications Physicsに掲載された研究では、マルチモードファイバーレーザーが物理的なプロセッサとして働き、レーザー共振器内で画像データを光に符号化した。リサイクル可能な廃棄物、気象・衛星画像、網膜スキャン、皮膚病変で、単純な分類器により85%から99%の精度に達し、学習可能なパラメータは従来の深層学習モデルよりはるかに少なかった。"
-              },
-              {
-                "t": "p",
-                "x": "これらのシステムは今もカメラや制御ユニットなどの電子部品に頼っている。より高速な光制御デバイスやチップ型光学素子が実現すれば、より多くの処理を光に移せる可能性がある。"
+                "x": "90,000件の予測を通じて、人間の発想には検証可能な出典や限界への言及が含まれる傾向があり、AIの文章はありきたりな細部、検証できない数字、大まかな主張に頼っていた。IdeaLensはいくつかの新しいモデルでは効果が落ちるため、さらなる検証なしに導入できる段階にはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Koç University\n把AI计算交给光",
-          "body": "Koç University的可编程光神经网络把皮肤病变分类准确率从68%提升至98%。",
-          "mini_headline": "用光完成AI计算",
+          "headline": "IdeaLens凭观点\n而非措辞识别AI文",
+          "body": "IdeaLens判断文本观点是否来自AI，能识别91%的纯AI文档，误报率0.6%。",
+          "mini_headline": "解读观点的IdeaLens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-                "cap": "多通道光计算的实验装置与优化策略。Credit: Communications Engineering (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+                "cap": "IDEALENS追踪观点；传统检测器追踪措辞。Credit: arXiv (2026)."
               },
               {
                 "t": "p",
-                "x": "Koç University助理教授Uğur Teğin及其同事发表了两项研究，探讨用光来完成部分AI计算，这有望降低AI的能耗需求。"
+                "x": "来自University of Maryland、Google DeepMind和Simon Fraser University的研究人员开发了IdeaLens，它通过分析文本背后的观点与论证而非用词，来检测写作中是否有AI参与。团队收集了约1百万份带标签的文档，并用语言模型去除文风，将其提炼为核心论证的大纲。"
               },
               {
                 "t": "p",
-                "x": "在发表于Communications Engineering的研究中，团队构建了一个可编程光子神经网络，能把图像的红、绿、蓝通道一并处理，而不是先转成灰度图。在一项皮肤病分类任务中，准确率从原始彩色像素数据的68%提升到光学处理后的98%。该系统从实测结果中学习，能适应光学装置在现实中的缺陷。"
+                "x": "在完全由人类撰写或完全AI-generated的文档上，IdeaLens识别出91%的AI生成文档，对人类作品的误报率为0.6%。对于基于AI大纲由人类撰写的文本，它将68%标记为AI观点，而Pangram仅识别出8%。对于基于人类大纲由AI撰写的文本，Pangram 4识别出92%的AI措辞，IdeaLens仅标记了7%。"
               },
               {
                 "t": "p",
-                "x": "在发表于Communications Physics的研究中，一台多模光纤激光器充当物理处理器，在激光腔内把图像数据编码进光中。在可回收垃圾、天气与卫星图像、视网膜扫描和皮肤病变等任务上，它搭配简单分类器达到85%至99%的准确率，可训练参数也远少于传统深度学习模型。"
-              },
-              {
-                "t": "p",
-                "x": "这些系统仍依赖摄像头和控制单元等电子部件；更快的光控器件和芯片级光学元件有望把更多计算负载转移到光上。"
+                "x": "在90,000次预测中，人类的观点往往包含可核实的来源并承认局限；AI写作则依赖泛泛的细节、无法核实的数字和笼统的论断。IdeaLens在部分较新的模型上效果较差，因此未经进一步测试尚不能投入使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Koç University traslada\nel cómputo de AI a la luz",
-          "body": "La red neuronal óptica de la Koç University elevó del 68% al 98% la precisión al clasificar lesiones cutáneas.",
-          "mini_headline": "Cómputo de AI con luz",
+          "headline": "IdeaLens detecta textos de AI\npor sus ideas, no por palabras",
+          "body": "IdeaLens juzga si las ideas vienen de AI y detecta el 91% de textos hechos por AI, con 0.6% de falsas alarmas.",
+          "mini_headline": "IdeaLens lee ideas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-                "cap": "Montaje experimental y estrategias de optimización para la computación óptica multicanal. Credit: Communications Engineering (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+                "cap": "IDEALENS rastrea las ideas; los detectores tradicionales rastrean la redacción. Credit: arXiv (2026)."
               },
               {
                 "t": "p",
-                "x": "El profesor adjunto de la Koç University Uğur Teğin y sus colegas publicaron dos estudios sobre el uso de la luz para realizar parte del cómputo de la AI, lo que podría reducir la demanda energética de la AI."
+                "x": "Investigadores de la University of Maryland, Google DeepMind y la Simon Fraser University crearon IdeaLens, que intenta detectar la intervención de la AI en la escritura analizando las ideas y argumentos de fondo en lugar de la elección de palabras. El equipo reunió alrededor de 1 millón de documentos etiquetados y usó modelos de lenguaje para reducirlos a esquemas de sus argumentos centrales, eliminando el estilo."
               },
               {
                 "t": "p",
-                "x": "En Communications Engineering, el equipo construyó una red neuronal fotónica programable que procesa juntos los canales rojo, verde y azul de una imagen en lugar de convertirlos a escala de grises. En una tarea de clasificación dermatológica, la precisión pasó del 68% con los datos de píxeles en color sin procesar al 98% tras el procesamiento óptico. El sistema aprende de los resultados medidos y se adapta a las imperfecciones reales del montaje óptico."
+                "x": "En documentos totalmente humanos o totalmente AI-generated, IdeaLens identificó el 91% de los generados por AI, con falsas alarmas en el 0.6% de los trabajos humanos. En textos humanos basados en esquemas de AI, marcó el 68% como ideas de AI, mientras que Pangram solo detectó el 8%. En textos de AI basados en esquemas humanos, Pangram 4 detectó el 92% de la redacción de AI; IdeaLens solo marcó el 7%."
               },
               {
                 "t": "p",
-                "x": "En Communications Physics, un láser de fibra multimodo funcionó como procesador físico y codificó datos de imagen en la luz dentro de la cavidad del láser. Con residuos reciclables, imágenes meteorológicas y satelitales, escáneres de retina y lesiones cutáneas, alcanzó entre el 85% y el 99% de precisión con un clasificador sencillo y muchos menos parámetros entrenables que los modelos convencionales de aprendizaje profundo."
-              },
-              {
-                "t": "p",
-                "x": "Los sistemas aún dependen de componentes electrónicos como cámaras y unidades de control; dispositivos de control de la luz más rápidos y una óptica basada en chips podrían trasladar a la luz una mayor parte de la carga de trabajo."
+                "x": "En 90,000 predicciones, las ideas humanas tendían a incluir fuentes verificables y a reconocer limitaciones; la escritura de AI se apoyaba en detalles genéricos, cifras no verificables y afirmaciones generales. IdeaLens fue menos eficaz con algunos modelos más recientes, por lo que no está listo para su despliegue sin más pruebas."
               }
             ]
           }
@@ -1135,125 +799,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Koç University\nAI 연산을 빛에 맡기다",
-          "body": "Koç University 광 신경망이 분류 정확도를 68%에서 98%로 높였다.",
-          "mini_headline": "빛으로 하는 AI 연산",
+          "headline": "IdeaLens는 생각으로\nAI 글을 가려낸다",
+          "body": "IdeaLens는 AI가 전부 쓴 문서의 91%를 오경보 0.6%로 잡아낸다.",
+          "mini_headline": "생각을 읽는 IdeaLens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-                "cap": "멀티채널 광 컴퓨팅의 실험 장치와 최적화 전략. Credit: Communications Engineering (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+                "cap": "IDEALENS는 생각을, 기존 탐지기는 표현을 추적한다. Credit: arXiv (2026)."
               },
               {
                 "t": "p",
-                "x": "Koç University의 Uğur Teğin 조교수 연구팀이 빛으로 AI 연산의 일부를 수행하는 연구 두 편을 발표했다. AI의 에너지 수요를 줄일 수 있는 접근이다."
+                "x": "University of Maryland, Google DeepMind, Simon Fraser University 연구진은 단어 선택이 아니라 밑바탕의 생각과 논증을 분석해 글쓰기에 AI가 개입했는지 가려내는 IdeaLens를 만들었다. 연구팀은 라벨이 달린 문서 약 1백만 건을 모은 뒤 언어 모델로 문체를 걷어 내고 핵심 논증의 개요로 압축했다."
               },
               {
                 "t": "p",
-                "x": "Communications Engineering에 실린 연구에서 연구팀은 이미지의 빨강·초록·파랑 채널을 흑백으로 바꾸지 않고 함께 처리하는 프로그래머블 광자 신경망을 만들었다. 피부과 분류 과제에서 정확도는 원본 컬러 픽셀 데이터 기준 68%에서 광학 처리 후 98%로 올랐다. 이 시스템은 측정 결과로 학습하며 광학 장치의 실제 결함에 맞춰 적응한다."
+                "x": "완전히 사람이 쓴 문서와 완전히 AI-generated(AI가 생성한) 문서에서 IdeaLens는 AI 생성 문서의 91%를 찾아냈고, 사람의 글에 대한 오경보는 0.6%였다. AI 개요를 바탕으로 사람이 쓴 글에서는 68%를 AI의 생각으로 표시했는데, Pangram은 8%만 잡았다. 사람의 개요를 바탕으로 AI가 쓴 글에서는 Pangram 4가 AI 문구의 92%를 잡은 반면 IdeaLens는 7%만 표시했다."
               },
               {
                 "t": "p",
-                "x": "Communications Physics에 실린 연구에서는 멀티모드 광섬유 레이저가 물리적 프로세서 역할을 맡아 레이저 공진기 안에서 이미지 데이터를 빛으로 인코딩했다. 재활용 폐기물, 날씨·위성 이미지, 망막 스캔, 피부 병변 데이터에서 단순한 분류기로 85%에서 99%에 이르는 정확도를 냈고, 학습 파라미터 수는 기존 딥러닝 모델보다 훨씬 적었다."
-              },
-              {
-                "t": "p",
-                "x": "다만 이 시스템은 여전히 카메라와 제어 장치 같은 전자 부품에 의존한다. 더 빠른 광 제어 장치와 칩 기반 광학이 나오면 더 많은 연산을 빛으로 옮길 수 있다."
+                "x": "90,000건의 예측 전반에서 사람의 생각은 검증 가능한 출처와 한계 인정을 담는 경향이 있었고, AI 글은 일반적인 세부 사항, 검증할 수 없는 숫자, 포괄적인 주장에 기댔다. IdeaLens는 일부 최신 모델에서 효과가 떨어져, 추가 검증 없이 배포할 단계는 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Koç University\nAI計算を光へ移す",
-          "body": "Koç Universityの光ニューラルネットが分類精度を68%から98%に高めた。",
-          "mini_headline": "光で行うAI計算",
+          "headline": "IdeaLensは言葉でなく\n発想でAI文を見抜く",
+          "body": "IdeaLensは発想の出所を判定し、AIのみの文書の91%を誤検知0.6%で捉える。",
+          "mini_headline": "発想を読むIdeaLens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-                "cap": "マルチチャネル光コンピューティングの実験装置と最適化戦略。Credit: Communications Engineering (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+                "cap": "IDEALENSは発想を、従来の検出器は言い回しを追跡する。Credit: arXiv (2026)."
               },
               {
                 "t": "p",
-                "x": "Koç UniversityのUğur Teğin助教らは、AI計算の一部を光で行う研究を2本発表した。AIのエネルギー需要を減らしうる手法である。"
+                "x": "University of Maryland、Google DeepMind、Simon Fraser Universityの研究者らは、言葉選びではなく根底にある発想や論証を分析して文章へのAIの関与を検出するIdeaLensを開発した。チームはラベル付きの文書を約1百万件集め、言語モデルで文体を取り除いて核となる論証のアウトラインに要約した。"
               },
               {
                 "t": "p",
-                "x": "Communications Engineeringに掲載された研究で、チームは画像の赤・緑・青のチャネルをグレースケールに変換せず、まとめて処理するプログラム可能なフォトニック・ニューラルネットワークを構築した。皮膚科の分類タスクでは、精度が生のカラー画素データでの68%から、光学処理後には98%に上がった。システムは測定結果から学習し、光学装置の現実の不完全さに適応する。"
+                "x": "完全に人間が書いた文書と完全にAI-generatedな文書では、IdeaLensはAI生成文書の91%を特定し、人間の文章への誤検知は0.6%だった。AIのアウトラインを基に人間が書いた文章では68%をAIの発想と判定したが、Pangramは8%しか捉えられなかった。人間のアウトラインを基にAIが書いた文章では、Pangram 4がAIの言い回しの92%を捉えたのに対し、IdeaLensが判定したのは7%にとどまった。"
               },
               {
                 "t": "p",
-                "x": "Communications Physicsに掲載された研究では、マルチモードファイバーレーザーが物理的なプロセッサとして働き、レーザー共振器内で画像データを光に符号化した。リサイクル可能な廃棄物、気象・衛星画像、網膜スキャン、皮膚病変で、単純な分類器により85%から99%の精度に達し、学習可能なパラメータは従来の深層学習モデルよりはるかに少なかった。"
-              },
-              {
-                "t": "p",
-                "x": "これらのシステムは今もカメラや制御ユニットなどの電子部品に頼っている。より高速な光制御デバイスやチップ型光学素子が実現すれば、より多くの処理を光に移せる可能性がある。"
+                "x": "90,000件の予測を通じて、人間の発想には検証可能な出典や限界への言及が含まれる傾向があり、AIの文章はありきたりな細部、検証できない数字、大まかな主張に頼っていた。IdeaLensはいくつかの新しいモデルでは効果が落ちるため、さらなる検証なしに導入できる段階にはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Koç University\n把AI计算交给光",
-          "body": "Koç University的可编程光神经网络把皮肤病变分类准确率从68%提升至98%。",
-          "mini_headline": "用光完成AI计算",
+          "headline": "IdeaLens凭观点\n而非措辞识别AI文",
+          "body": "IdeaLens判断文本观点是否来自AI，能识别91%的纯AI文档，误报率0.6%。",
+          "mini_headline": "解读观点的IdeaLens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-                "cap": "多通道光计算的实验装置与优化策略。Credit: Communications Engineering (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+                "cap": "IDEALENS追踪观点；传统检测器追踪措辞。Credit: arXiv (2026)."
               },
               {
                 "t": "p",
-                "x": "Koç University助理教授Uğur Teğin及其同事发表了两项研究，探讨用光来完成部分AI计算，这有望降低AI的能耗需求。"
+                "x": "来自University of Maryland、Google DeepMind和Simon Fraser University的研究人员开发了IdeaLens，它通过分析文本背后的观点与论证而非用词，来检测写作中是否有AI参与。团队收集了约1百万份带标签的文档，并用语言模型去除文风，将其提炼为核心论证的大纲。"
               },
               {
                 "t": "p",
-                "x": "在发表于Communications Engineering的研究中，团队构建了一个可编程光子神经网络，能把图像的红、绿、蓝通道一并处理，而不是先转成灰度图。在一项皮肤病分类任务中，准确率从原始彩色像素数据的68%提升到光学处理后的98%。该系统从实测结果中学习，能适应光学装置在现实中的缺陷。"
+                "x": "在完全由人类撰写或完全AI-generated的文档上，IdeaLens识别出91%的AI生成文档，对人类作品的误报率为0.6%。对于基于AI大纲由人类撰写的文本，它将68%标记为AI观点，而Pangram仅识别出8%。对于基于人类大纲由AI撰写的文本，Pangram 4识别出92%的AI措辞，IdeaLens仅标记了7%。"
               },
               {
                 "t": "p",
-                "x": "在发表于Communications Physics的研究中，一台多模光纤激光器充当物理处理器，在激光腔内把图像数据编码进光中。在可回收垃圾、天气与卫星图像、视网膜扫描和皮肤病变等任务上，它搭配简单分类器达到85%至99%的准确率，可训练参数也远少于传统深度学习模型。"
-              },
-              {
-                "t": "p",
-                "x": "这些系统仍依赖摄像头和控制单元等电子部件；更快的光控器件和芯片级光学元件有望把更多计算负载转移到光上。"
+                "x": "在90,000次预测中，人类的观点往往包含可核实的来源并承认局限；AI写作则依赖泛泛的细节、无法核实的数字和笼统的论断。IdeaLens在部分较新的模型上效果较差，因此未经进一步测试尚不能投入使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Koç University traslada\nel cómputo de AI a la luz",
-          "body": "La red neuronal óptica de la Koç University elevó del 68% al 98% la precisión al clasificar lesiones cutáneas.",
-          "mini_headline": "Cómputo de AI con luz",
+          "headline": "IdeaLens detecta textos de AI\npor sus ideas, no por palabras",
+          "body": "IdeaLens juzga si las ideas vienen de AI y detecta el 91% de textos hechos por AI, con 0.6% de falsas alarmas.",
+          "mini_headline": "IdeaLens lee ideas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-                "cap": "Montaje experimental y estrategias de optimización para la computación óptica multicanal. Credit: Communications Engineering (2026)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+                "cap": "IDEALENS rastrea las ideas; los detectores tradicionales rastrean la redacción. Credit: arXiv (2026)."
               },
               {
                 "t": "p",
-                "x": "El profesor adjunto de la Koç University Uğur Teğin y sus colegas publicaron dos estudios sobre el uso de la luz para realizar parte del cómputo de la AI, lo que podría reducir la demanda energética de la AI."
+                "x": "Investigadores de la University of Maryland, Google DeepMind y la Simon Fraser University crearon IdeaLens, que intenta detectar la intervención de la AI en la escritura analizando las ideas y argumentos de fondo en lugar de la elección de palabras. El equipo reunió alrededor de 1 millón de documentos etiquetados y usó modelos de lenguaje para reducirlos a esquemas de sus argumentos centrales, eliminando el estilo."
               },
               {
                 "t": "p",
-                "x": "En Communications Engineering, el equipo construyó una red neuronal fotónica programable que procesa juntos los canales rojo, verde y azul de una imagen en lugar de convertirlos a escala de grises. En una tarea de clasificación dermatológica, la precisión pasó del 68% con los datos de píxeles en color sin procesar al 98% tras el procesamiento óptico. El sistema aprende de los resultados medidos y se adapta a las imperfecciones reales del montaje óptico."
+                "x": "En documentos totalmente humanos o totalmente AI-generated, IdeaLens identificó el 91% de los generados por AI, con falsas alarmas en el 0.6% de los trabajos humanos. En textos humanos basados en esquemas de AI, marcó el 68% como ideas de AI, mientras que Pangram solo detectó el 8%. En textos de AI basados en esquemas humanos, Pangram 4 detectó el 92% de la redacción de AI; IdeaLens solo marcó el 7%."
               },
               {
                 "t": "p",
-                "x": "En Communications Physics, un láser de fibra multimodo funcionó como procesador físico y codificó datos de imagen en la luz dentro de la cavidad del láser. Con residuos reciclables, imágenes meteorológicas y satelitales, escáneres de retina y lesiones cutáneas, alcanzó entre el 85% y el 99% de precisión con un clasificador sencillo y muchos menos parámetros entrenables que los modelos convencionales de aprendizaje profundo."
-              },
-              {
-                "t": "p",
-                "x": "Los sistemas aún dependen de componentes electrónicos como cámaras y unidades de control; dispositivos de control de la luz más rápidos y una óptica basada en chips podrían trasladar a la luz una mayor parte de la carga de trabajo."
+                "x": "En 90,000 predicciones, las ideas humanas tendían a incluir fuentes verificables y a reconocer limitaciones; la escritura de AI se apoyaba en detalles genéricos, cifras no verificables y afirmaciones generales. IdeaLens fue menos eficaz con algunos modelos más recientes, por lo que no está listo para su despliegue sin más pruebas."
               }
             ]
           }
@@ -1261,189 +909,171 @@
       }
     },
     {
-      "id": "science-quanta-attention-intelligence",
+      "id": "science-arnhem-rangers-megadetector",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "어텐션은 지능의\n본질인가",
-      "body": "언어 모델을 움직이는 어텐션이 왜 AI의 핵심인지 Quanta 칼럼이 묻는다.",
-      "mini_headline": "어텐션이 중요한 이유",
+      "headline": "레인저들, 카메라 트랩\n영상에 AI를 쓰다",
+      "body": "원주민 레인저가 MegaDetector로 검토할 이미지를 약 81% 줄였다.",
+      "mini_headline": "레인저와 카메라 트랩 AI",
       "tool": "Science",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-      "accent": "#3b6bff",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-rangers-reimagine-ai-wildlife.html",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+            "cap": "Warddeken 레인저들이 쓰는 카메라 트랩에 찍힌 검은발나무쥐. Credit: Cara Penton"
           },
           {
             "t": "p",
-            "x": "ChatGPT 이후 세상을 휩쓴 모든 것은 따지고 보면 Dzmitry Bahdanau에게서 출발한다. 2014년 그는 University of Montreal 연구실의 23세 인턴으로, Yoshua Bengio, Kyunghyun Cho와 함께 신경망에 영어를 프랑스어로 번역시키는 일을 했다. 문장을 통째로 고정된 크기의 메모리에 욱여넣다 보니 문장이 길어질수록 결과가 나빠졌다."
+            "x": "Warddeken Land Management, Charles Darwin University, CSIRO 연구진은 Conservation Science and Practice에 실린 논문에서 AI가 Australia West Arnhem의 원주민 주도(Indigenous-led) 야생동물 모니터링을 어떻게 도울지 살폈다. 연구의 중심에는 Warddeken Indigenous Protected Area에서 카메라 트랩을 운영하고 bininj와 daluk 레인저를 고용하는 Mayh(동물) 프로그램이 있다."
           },
           {
             "t": "p",
-            "x": "Bahdanau가 고안한 ‘어텐션’ 덕분에 모델은 번역의 다음 단어를 고를 때 가장 중요한 단어를 문장 어디서든 찾아낼 수 있었다. 2017년 Google 논문 “Attention Is All You Need”가 트랜스포머를 세상에 내놓았고, 인용 횟수는 250,000회를 넘었다. 그 뒤를 ChatGPT와 Claude 같은 대규모 언어 모델이 이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+            "x": "레인저들은 1,572시간 분량의 데이터를 동물 탐지 모델 MegaDetector에 넣었다. 분석할 이미지가 925,088장에서 172,290장으로 81.4% 줄었고 처리 기간은 여섯 달에서 두 달로 짧아졌다. 두 주마다 드는 평균 처리 시간도 52.6시간에서 41.8시간으로 줄면서 토지 관리, 종 식별, 언어 기록, 워크숍에 쓸 시간이 생겼다."
           },
           {
             "t": "p",
-            "x": "어텐션 헤드는 단어마다 쿼리를 다른 단어의 키와 견줘 맥락을 수학으로 옮긴다. Llion Jones는 언어 모델링을 “AI-complete”라고 부른다. 칼럼니스트는 인간의 사고가 언어만으로 이뤄지지는 않는다고 주장한다. Jones 역시 이제는 어텐션만으로 부족하다고 본다. 그는 “아주, 아주 다른 무언가로 도약해야 할 것 같다”고 말한다."
+            "x": "Dr. Cara Penton은 데이터 검증에는 계속 사람이 참여한다고 강조했다. 선임 daluk 레인저 Suzanna Nabulwad는 원로들 의견을 들으며 기술을 신중하게 들여와야 한다고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Is attention the essence\nof intelligence",
-          "body": "A Quanta columnist asks why attention, the math mechanism powering large language models, is key to AI.",
-          "mini_headline": "Why attention matters",
+          "headline": "Rangers put AI to work\non camera trap footage",
+          "body": "Indigenous rangers ran MegaDetector on camera trap footage, cutting images needing human review by about 81%.",
+          "mini_headline": "Rangers and camera-trap AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+                "cap": "A black-footed tree-rat, captured on a camera trap used by Warddeken rangers. Credit: Cara Penton"
               },
               {
                 "t": "p",
-                "x": "Everything that's swept the world since ChatGPT starts, in some sense, with Dzmitry Bahdanau, a 23-year-old intern in a University of Montreal lab in 2014, working with Yoshua Bengio and Kyunghyun Cho on getting neural networks to translate English to French. Results got worse the longer the sentence, because each sentence was crammed into a fixed amount of memory."
+                "x": "Researchers from Warddeken Land Management, Charles Darwin University and CSIRO studied how AI could support Indigenous-led wildlife monitoring in West Arnhem, Australia, in a paper in Conservation Science and Practice. The work centers on the Mayh (animal) program, which runs camera traps in the Warddeken Indigenous Protected Area and employs bininj and daluk rangers."
               },
               {
                 "t": "p",
-                "x": "Bahdanau's trick, “attention,” let the network find the words anywhere in a sentence that most inform the next word of the translation. In 2017 Google's “Attention Is All You Need” introduced the transformer, cited more than 250,000 times; large language models such as ChatGPT and Claude followed."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+                "x": "Rangers fed 1,572 hours of data to the MegaDetector animal-detection model. Images needing analysis fell from 925,088 to 172,290, an 81.4% reduction, and processing time dropped from six months to two. Average processing time fell from 52.6 to 41.8 hours every two weeks, freeing time for land management, species identification, language documentation and workshops."
               },
               {
                 "t": "p",
-                "x": "Attention heads compare each word's query with other words' keys, so context becomes math. Llion Jones calls language modeling “AI-complete.” The columnist argues human thought is not purely linguistic, and Jones now thinks attention is not all you need: “You seem to have to jump to something very, very different.”"
+                "x": "Dr. Cara Penton stressed that people remain involved in verifying data, and senior daluk ranger Suzanna Nabulwad said technology should be introduced carefully, with input from elders."
               }
             ]
           }
         },
         "ko": {
-          "headline": "어텐션은 지능의\n본질인가",
-          "body": "언어 모델을 움직이는 어텐션이 왜 AI의 핵심인지 Quanta 칼럼이 묻는다.",
-          "mini_headline": "어텐션이 중요한 이유",
+          "headline": "레인저들, 카메라 트랩\n영상에 AI를 쓰다",
+          "body": "원주민 레인저가 MegaDetector로 검토할 이미지를 약 81% 줄였다.",
+          "mini_headline": "레인저와 카메라 트랩 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+                "cap": "Warddeken 레인저들이 쓰는 카메라 트랩에 찍힌 검은발나무쥐. Credit: Cara Penton"
               },
               {
                 "t": "p",
-                "x": "ChatGPT 이후 세상을 휩쓴 모든 것은 따지고 보면 Dzmitry Bahdanau에게서 출발한다. 2014년 그는 University of Montreal 연구실의 23세 인턴으로, Yoshua Bengio, Kyunghyun Cho와 함께 신경망에 영어를 프랑스어로 번역시키는 일을 했다. 문장을 통째로 고정된 크기의 메모리에 욱여넣다 보니 문장이 길어질수록 결과가 나빠졌다."
+                "x": "Warddeken Land Management, Charles Darwin University, CSIRO 연구진은 Conservation Science and Practice에 실린 논문에서 AI가 Australia West Arnhem의 원주민 주도(Indigenous-led) 야생동물 모니터링을 어떻게 도울지 살폈다. 연구의 중심에는 Warddeken Indigenous Protected Area에서 카메라 트랩을 운영하고 bininj와 daluk 레인저를 고용하는 Mayh(동물) 프로그램이 있다."
               },
               {
                 "t": "p",
-                "x": "Bahdanau가 고안한 ‘어텐션’ 덕분에 모델은 번역의 다음 단어를 고를 때 가장 중요한 단어를 문장 어디서든 찾아낼 수 있었다. 2017년 Google 논문 “Attention Is All You Need”가 트랜스포머를 세상에 내놓았고, 인용 횟수는 250,000회를 넘었다. 그 뒤를 ChatGPT와 Claude 같은 대규모 언어 모델이 이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+                "x": "레인저들은 1,572시간 분량의 데이터를 동물 탐지 모델 MegaDetector에 넣었다. 분석할 이미지가 925,088장에서 172,290장으로 81.4% 줄었고 처리 기간은 여섯 달에서 두 달로 짧아졌다. 두 주마다 드는 평균 처리 시간도 52.6시간에서 41.8시간으로 줄면서 토지 관리, 종 식별, 언어 기록, 워크숍에 쓸 시간이 생겼다."
               },
               {
                 "t": "p",
-                "x": "어텐션 헤드는 단어마다 쿼리를 다른 단어의 키와 견줘 맥락을 수학으로 옮긴다. Llion Jones는 언어 모델링을 “AI-complete”라고 부른다. 칼럼니스트는 인간의 사고가 언어만으로 이뤄지지는 않는다고 주장한다. Jones 역시 이제는 어텐션만으로 부족하다고 본다. 그는 “아주, 아주 다른 무언가로 도약해야 할 것 같다”고 말한다."
+                "x": "Dr. Cara Penton은 데이터 검증에는 계속 사람이 참여한다고 강조했다. 선임 daluk 레인저 Suzanna Nabulwad는 원로들 의견을 들으며 기술을 신중하게 들여와야 한다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "アテンションは\n知能の本質か",
-          "body": "Quanta誌のコラムは、大規模言語モデルを動かすアテンションがなぜAIの鍵かを問う。",
-          "mini_headline": "アテンションが重要な理由",
+          "headline": "レンジャー、カメラ罠の\n映像解析にAIを活用",
+          "body": "先住民レンジャーがMegaDetectorを使い、人が確認すべき画像を約81%減らした。",
+          "mini_headline": "レンジャーとカメラトラップAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+                "cap": "Warddekenのレンジャーが使うカメラトラップに写ったクロアシキノボリネズミ。Credit: Cara Penton"
               },
               {
                 "t": "p",
-                "x": "ChatGPT以降に世界を席巻したものはすべて、ある意味でDzmitry Bahdanauから始まる。2014年、University of Montrealの研究室で23歳のインターンだった彼は、Yoshua Bengio、Kyunghyun Choとともに、ニューラルネットワークに英語をフランス語へ翻訳させる研究に取り組んでいた。各文を固定量のメモリに押し込んでいたため、文が長くなるほど結果は悪化した。"
+                "x": "Warddeken Land Management、Charles Darwin University、CSIROの研究者らは、Conservation Science and Practiceに掲載された論文で、AIがAustraliaのWest Arnhemにおける先住民主導(Indigenous-led)の野生生物モニタリングをどう支えられるかを調べた。研究の中心は、Warddeken Indigenous Protected Areaでカメラトラップを運用し、bininjとdalukのレンジャーを雇用するMayh(動物)プログラムだ。"
               },
               {
                 "t": "p",
-                "x": "Bahdanauの工夫である「アテンション」は、翻訳の次の単語を決めるうえで最も手がかりになる単語を、文中のどこからでも見つけられるようにした。2017年、Googleの論文「Attention Is All You Need」がトランスフォーマーを提示し、250,000回以上引用された。その後にChatGPTやClaudeのような大規模言語モデルが続いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+                "x": "レンジャーは1,572時間分のデータを動物検出モデルMegaDetectorに投入した。分析が必要な画像は925,088枚から172,290枚へと81.4%減り、処理期間は六か月から二か月に短縮された。二週間ごとの平均処理時間も52.6時間から41.8時間に減り、土地管理、種の同定、言語の記録、ワークショップに充てる時間が生まれた。"
               },
               {
                 "t": "p",
-                "x": "アテンションヘッドは各単語のクエリをほかの単語のキーと比べ、文脈を数学に変える。Llion Jonesは言語モデリングを「AI-complete」と呼ぶ。コラムニストは人間の思考が純粋に言語的なものではないと論じ、Jonesも今ではアテンションだけでは足りないと考えている。「何かまったく、まったく違うものへ飛躍しなければならないようだ」。"
+                "x": "Dr. Cara Pentonはデータの検証に引き続き人が関わると強調し、シニアのdalukレンジャーであるSuzanna Nabulwadは、長老の意見を取り入れながら技術を慎重に導入すべきだと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "注意力机制\n是智能的本质吗",
-          "body": "Quanta专栏作者追问：驱动大语言模型的数学机制“注意力”为何是AI关键。",
-          "mini_headline": "注意力为何重要",
+          "headline": "护林员用AI\n分析相机陷阱影像",
+          "body": "原住民护林员用MegaDetector处理相机陷阱影像，需人工审核的图像减少约81%。",
+          "mini_headline": "护林员与相机陷阱AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+                "cap": "Warddeken护林员使用的相机陷阱拍到的黑足树鼠。Credit: Cara Penton"
               },
               {
                 "t": "p",
-                "x": "自ChatGPT以来席卷世界的一切，在某种意义上都始于Dzmitry Bahdanau。2014年，他是University of Montreal一个实验室里23岁的实习生，与Yoshua Bengio和Kyunghyun Cho一起研究如何让神经网络把英语翻译成法语。由于每个句子都被塞进固定大小的内存，句子越长，结果越差。"
+                "x": "来自Warddeken Land Management、Charles Darwin University和CSIRO的研究人员在Conservation Science and Practice发表论文，研究AI如何支持Australia West Arnhem由原住民主导(Indigenous-led)的野生动物监测。研究围绕Mayh(动物)项目展开，该项目在Warddeken Indigenous Protected Area运行相机陷阱，并雇用bininj和daluk护林员。"
               },
               {
                 "t": "p",
-                "x": "Bahdanau的妙招“注意力”，让网络能在句子任意位置找到对翻译下一个词最有帮助的词。2017年，Google的论文“Attention Is All You Need”提出了Transformer，被引用超过250,000次；随后出现了ChatGPT和Claude等大语言模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+                "x": "护林员将1,572小时的数据输入动物检测模型MegaDetector。需要分析的图像从925,088张减少到172,290张，降幅81.4%，处理时间从六个月缩短到两个月。每两周的平均处理时间从52.6小时降至41.8小时，腾出时间用于土地管理、物种识别、语言记录和工作坊。"
               },
               {
                 "t": "p",
-                "x": "注意力头将每个词的查询与其他词的键进行比较，于是语境变成了数学。Llion Jones称语言建模是“AI-complete”的。专栏作者认为，人类思维并非纯粹是语言性的；Jones如今也认为注意力并不是你所需要的全部：“你似乎必须跳到某种非常、非常不同的东西上去。”"
+                "x": "Dr. Cara Penton强调，数据核验仍有人参与；资深daluk护林员Suzanna Nabulwad则表示，引入技术应当谨慎，并听取长老的意见。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Es la atención la esencia\nde la inteligencia?",
-          "body": "Un columnista de Quanta pregunta por qué la atención, mecanismo de los grandes modelos de lenguaje, es clave en la AI.",
-          "mini_headline": "Por qué importa la atención",
+          "headline": "Guardas indígenas aplican AI\na imágenes de cámaras trampa",
+          "body": "Guardas indígenas usaron MegaDetector en imágenes de cámaras trampa y redujeron cerca de un 81% las fotos a revisar.",
+          "mini_headline": "Guardas y AI de cámaras trampa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+                "cap": "Una rata arborícola de patas negras captada por una cámara trampa de los guardas de Warddeken. Credit: Cara Penton"
               },
               {
                 "t": "p",
-                "x": "Todo lo que ha arrasado en el mundo desde ChatGPT empieza, en cierto sentido, con Dzmitry Bahdanau, un becario de 23 años en un laboratorio de la University of Montreal en 2014, que trabajaba con Yoshua Bengio y Kyunghyun Cho para que las redes neuronales tradujeran del inglés al francés. Los resultados empeoraban cuanto más larga era la oración, porque cada una se comprimía en una cantidad fija de memoria."
+                "x": "Investigadores de Warddeken Land Management, la Charles Darwin University y CSIRO estudiaron cómo la AI puede apoyar el seguimiento de fauna liderado por indígenas (Indigenous-led) en West Arnhem, Australia, en un artículo en Conservation Science and Practice. El trabajo se centra en el programa Mayh (animal), que gestiona cámaras trampa en el Warddeken Indigenous Protected Area y emplea a guardas bininj y daluk."
               },
               {
                 "t": "p",
-                "x": "El truco de Bahdanau, la “atención”, permitía a la red encontrar, en cualquier parte de la oración, las palabras que más informan la siguiente palabra de la traducción. En 2017, el artículo de Google “Attention Is All You Need” presentó el transformer, citado más de 250,000 veces; después llegaron grandes modelos de lenguaje como ChatGPT y Claude."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+                "x": "Los guardas cargaron 1,572 horas de datos en el modelo de detección de animales MegaDetector. Las imágenes que requerían análisis pasaron de 925,088 a 172,290, una reducción del 81.4%, y el tiempo de procesamiento bajó de seis meses a dos. El tiempo medio de procesamiento cayó de 52.6 a 41.8 horas cada dos semanas, lo que liberó tiempo para la gestión del territorio, la identificación de especies, la documentación lingüística y talleres."
               },
               {
                 "t": "p",
-                "x": "Las cabezas de atención comparan la consulta de cada palabra con las claves de las demás, de modo que el contexto se vuelve matemática. Llion Jones califica el modelado del lenguaje de “AI-complete”. El columnista sostiene que el pensamiento humano no es puramente lingüístico, y Jones cree ahora que la atención no es todo lo que se necesita: “Parece que hay que saltar a algo muy, muy diferente”."
+                "x": "Dr. Cara Penton subrayó que las personas siguen participando en la verificación de los datos, y la guarda daluk sénior Suzanna Nabulwad afirmó que la tecnología debe introducirse con cuidado, escuchando a los ancianos."
               }
             ]
           }
@@ -1451,121 +1081,431 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "어텐션은 지능의\n본질인가",
-          "body": "Quanta 칼럼은 언어 모델을 움직이는 어텐션이 왜 AI의 핵심인지 묻는다.",
-          "mini_headline": "어텐션이 중요한 이유",
+          "headline": "레인저들, 카메라 트랩\n영상에 AI를 쓰다",
+          "body": "원주민 레인저가 MegaDetector로 검토할 이미지를 약 81% 줄였다.",
+          "mini_headline": "레인저와 카메라 트랩 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+                "cap": "Warddeken 레인저들이 쓰는 카메라 트랩에 찍힌 검은발나무쥐. Credit: Cara Penton"
               },
               {
                 "t": "p",
-                "x": "ChatGPT 이후 세상을 휩쓴 모든 것은 어떤 의미에서 Dzmitry Bahdanau에게서 시작된다. 2014년 University of Montreal 연구실의 23세 인턴이던 그는 Yoshua Bengio, Kyunghyun Cho와 함께 신경망이 영어를 프랑스어로 번역하게 하는 일을 하고 있었다. 문장마다 고정된 크기의 메모리에 욱여넣다 보니 문장이 길수록 결과가 나빠졌다."
+                "x": "Warddeken Land Management, Charles Darwin University, CSIRO 연구진은 Conservation Science and Practice에 실린 논문에서 AI가 Australia West Arnhem의 원주민 주도(Indigenous-led) 야생동물 모니터링을 어떻게 지원할 수 있는지 살폈다. 연구는 Warddeken Indigenous Protected Area에서 카메라 트랩을 운영하고 bininj와 daluk 레인저를 고용하는 Mayh(동물) 프로그램을 중심으로 한다."
               },
               {
                 "t": "p",
-                "x": "Bahdanau가 고안한 ‘어텐션’은 번역의 다음 단어를 정하는 데 가장 중요한 단어를 문장 어디에서든 찾게 해 주었다. 2017년 Google의 논문 “Attention Is All You Need”가 트랜스포머를 소개했고, 이 논문은 250,000회 넘게 인용됐다. ChatGPT와 Claude 같은 대규모 언어 모델이 그 뒤를 이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+                "x": "레인저들은 1,572시간 분량의 데이터를 동물 탐지 모델 MegaDetector에 입력했다. 분석이 필요한 이미지는 925,088장에서 172,290장으로 81.4% 줄었고, 처리 기간은 여섯 달에서 두 달로 단축됐다. 두 주마다 드는 평균 처리 시간도 52.6시간에서 41.8시간으로 줄어, 토지 관리, 종 식별, 언어 기록, 워크숍에 쓸 시간이 생겼다."
               },
               {
                 "t": "p",
-                "x": "어텐션 헤드는 각 단어의 쿼리를 다른 단어들의 키와 비교해 맥락을 수학으로 바꾼다. Llion Jones는 언어 모델링을 “AI-complete”라고 부른다. 칼럼니스트는 인간의 사고가 순전히 언어적이지는 않다고 주장하고, Jones도 이제는 어텐션만으로는 충분하지 않다고 본다. 그는 “아주, 아주 다른 무언가로 도약해야 할 것 같다”고 말한다."
+                "x": "Dr. Cara Penton은 데이터 검증에 사람이 계속 참여한다고 강조했고, 선임 daluk 레인저 Suzanna Nabulwad는 원로들의 의견을 들으며 기술을 신중하게 도입해야 한다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "アテンションは\n知能の本質か",
-          "body": "Quanta誌のコラムは、大規模言語モデルを動かすアテンションがなぜAIの鍵かを問う。",
-          "mini_headline": "アテンションが重要な理由",
+          "headline": "レンジャー、カメラ罠の\n映像解析にAIを活用",
+          "body": "先住民レンジャーがMegaDetectorを使い、人が確認すべき画像を約81%減らした。",
+          "mini_headline": "レンジャーとカメラトラップAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+                "cap": "Warddekenのレンジャーが使うカメラトラップに写ったクロアシキノボリネズミ。Credit: Cara Penton"
               },
               {
                 "t": "p",
-                "x": "ChatGPT以降に世界を席巻したものはすべて、ある意味でDzmitry Bahdanauから始まる。2014年、University of Montrealの研究室で23歳のインターンだった彼は、Yoshua Bengio、Kyunghyun Choとともに、ニューラルネットワークに英語をフランス語へ翻訳させる研究に取り組んでいた。各文を固定量のメモリに押し込んでいたため、文が長くなるほど結果は悪化した。"
+                "x": "Warddeken Land Management、Charles Darwin University、CSIROの研究者らは、Conservation Science and Practiceに掲載された論文で、AIがAustraliaのWest Arnhemにおける先住民主導(Indigenous-led)の野生生物モニタリングをどう支えられるかを調べた。研究の中心は、Warddeken Indigenous Protected Areaでカメラトラップを運用し、bininjとdalukのレンジャーを雇用するMayh(動物)プログラムだ。"
               },
               {
                 "t": "p",
-                "x": "Bahdanauの工夫である「アテンション」は、翻訳の次の単語を決めるうえで最も手がかりになる単語を、文中のどこからでも見つけられるようにした。2017年、Googleの論文「Attention Is All You Need」がトランスフォーマーを提示し、250,000回以上引用された。その後にChatGPTやClaudeのような大規模言語モデルが続いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+                "x": "レンジャーは1,572時間分のデータを動物検出モデルMegaDetectorに投入した。分析が必要な画像は925,088枚から172,290枚へと81.4%減り、処理期間は六か月から二か月に短縮された。二週間ごとの平均処理時間も52.6時間から41.8時間に減り、土地管理、種の同定、言語の記録、ワークショップに充てる時間が生まれた。"
               },
               {
                 "t": "p",
-                "x": "アテンションヘッドは各単語のクエリをほかの単語のキーと比べ、文脈を数学に変える。Llion Jonesは言語モデリングを「AI-complete」と呼ぶ。コラムニストは人間の思考が純粋に言語的なものではないと論じ、Jonesも今ではアテンションだけでは足りないと考えている。「何かまったく、まったく違うものへ飛躍しなければならないようだ」。"
+                "x": "Dr. Cara Pentonはデータの検証に引き続き人が関わると強調し、シニアのdalukレンジャーであるSuzanna Nabulwadは、長老の意見を取り入れながら技術を慎重に導入すべきだと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "注意力机制\n是智能的本质吗",
-          "body": "Quanta专栏作者追问：驱动大语言模型的数学机制“注意力”为何是AI关键。",
-          "mini_headline": "注意力为何重要",
+          "headline": "护林员用AI\n分析相机陷阱影像",
+          "body": "原住民护林员用MegaDetector处理相机陷阱影像，需人工审核的图像减少约81%。",
+          "mini_headline": "护林员与相机陷阱AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+                "cap": "Warddeken护林员使用的相机陷阱拍到的黑足树鼠。Credit: Cara Penton"
               },
               {
                 "t": "p",
-                "x": "自ChatGPT以来席卷世界的一切，在某种意义上都始于Dzmitry Bahdanau。2014年，他是University of Montreal一个实验室里23岁的实习生，与Yoshua Bengio和Kyunghyun Cho一起研究如何让神经网络把英语翻译成法语。由于每个句子都被塞进固定大小的内存，句子越长，结果越差。"
+                "x": "来自Warddeken Land Management、Charles Darwin University和CSIRO的研究人员在Conservation Science and Practice发表论文，研究AI如何支持Australia West Arnhem由原住民主导(Indigenous-led)的野生动物监测。研究围绕Mayh(动物)项目展开，该项目在Warddeken Indigenous Protected Area运行相机陷阱，并雇用bininj和daluk护林员。"
               },
               {
                 "t": "p",
-                "x": "Bahdanau的妙招“注意力”，让网络能在句子任意位置找到对翻译下一个词最有帮助的词。2017年，Google的论文“Attention Is All You Need”提出了Transformer，被引用超过250,000次；随后出现了ChatGPT和Claude等大语言模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+                "x": "护林员将1,572小时的数据输入动物检测模型MegaDetector。需要分析的图像从925,088张减少到172,290张，降幅81.4%，处理时间从六个月缩短到两个月。每两周的平均处理时间从52.6小时降至41.8小时，腾出时间用于土地管理、物种识别、语言记录和工作坊。"
               },
               {
                 "t": "p",
-                "x": "注意力头将每个词的查询与其他词的键进行比较，于是语境变成了数学。Llion Jones称语言建模是“AI-complete”的。专栏作者认为，人类思维并非纯粹是语言性的；Jones如今也认为注意力并不是你所需要的全部：“你似乎必须跳到某种非常、非常不同的东西上去。”"
+                "x": "Dr. Cara Penton强调，数据核验仍有人参与；资深daluk护林员Suzanna Nabulwad则表示，引入技术应当谨慎，并听取长老的意见。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Es la atención la esencia\nde la inteligencia?",
-          "body": "Un columnista de Quanta pregunta por qué la atención, mecanismo de los grandes modelos de lenguaje, es clave en la AI.",
-          "mini_headline": "Por qué importa la atención",
+          "headline": "Guardas indígenas aplican AI\na imágenes de cámaras trampa",
+          "body": "Guardas indígenas usaron MegaDetector en imágenes de cámaras trampa y redujeron cerca de un 81% las fotos a revisar.",
+          "mini_headline": "Guardas y AI de cámaras trampa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Lede-scaled.webp"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+                "cap": "Una rata arborícola de patas negras captada por una cámara trampa de los guardas de Warddeken. Credit: Cara Penton"
               },
               {
                 "t": "p",
-                "x": "Todo lo que ha arrasado en el mundo desde ChatGPT empieza, en cierto sentido, con Dzmitry Bahdanau, un becario de 23 años en un laboratorio de la University of Montreal en 2014, que trabajaba con Yoshua Bengio y Kyunghyun Cho para que las redes neuronales tradujeran del inglés al francés. Los resultados empeoraban cuanto más larga era la oración, porque cada una se comprimía en una cantidad fija de memoria."
+                "x": "Investigadores de Warddeken Land Management, la Charles Darwin University y CSIRO estudiaron cómo la AI puede apoyar el seguimiento de fauna liderado por indígenas (Indigenous-led) en West Arnhem, Australia, en un artículo en Conservation Science and Practice. El trabajo se centra en el programa Mayh (animal), que gestiona cámaras trampa en el Warddeken Indigenous Protected Area y emplea a guardas bininj y daluk."
               },
               {
                 "t": "p",
-                "x": "El truco de Bahdanau, la “atención”, permitía a la red encontrar, en cualquier parte de la oración, las palabras que más informan la siguiente palabra de la traducción. En 2017, el artículo de Google “Attention Is All You Need” presentó el transformer, citado más de 250,000 veces; después llegaron grandes modelos de lenguaje como ChatGPT y Claude."
+                "x": "Los guardas cargaron 1,572 horas de datos en el modelo de detección de animales MegaDetector. Las imágenes que requerían análisis pasaron de 925,088 a 172,290, una reducción del 81.4%, y el tiempo de procesamiento bajó de seis meses a dos. El tiempo medio de procesamiento cayó de 52.6 a 41.8 horas cada dos semanas, lo que liberó tiempo para la gestión del territorio, la identificación de especies, la documentación lingüística y talleres."
               },
+              {
+                "t": "p",
+                "x": "Dr. Cara Penton subrayó que las personas siguen participando en la verificación de los datos, y la guarda daluk sénior Suzanna Nabulwad afirmó que la tecnología debe introducirse con cuidado, escuchando a los ancianos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "science-ai-idea-theft-fears",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "과학자들, AI가 자기\n아이디어 가져갈까 걱정",
+      "body": "AI를 조언자로 쓰는 연구자 사이에서 기업이 아이디어를 가로챌 우려가 커진다.",
+      "mini_headline": "AI에 건넨 아이디어는 누구 것인가",
+      "tool": "Science",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+            "cap": "AI 기업들이 업로드된 문서를 수집했다는 굵직한 의혹이 잇따르자 과학자들은 자기 원고의 프라이버시를 점점 더 걱정한다."
+          },
+          {
+            "t": "p",
+            "x": "OpenAI가 내부 모델이 수학의 백만 달러 난제 일곱 개 중 하나를 풀었다고 주장하자 New York University의 수학자는 자신이 챗봇과 나눈 연구 진전을 회사가 훔쳤다고 넌지시 말했다. 몇 주 뒤 New York Times는 Anthropic과 University of Copenhagen 생물학자 사이에 벌어진 비슷한 사례를 보도했다. 양사는 모두 업로드된 데이터로 학습하지 않았다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "과학자들은 여전히 모델을 토론 상대로 삼고 문헌 검토와 증명 생성에도 쓴다. 그런데 일부는 이제 모델을 경쟁자로 본다. University of Sydney의 Clément Canonne은 “나는 쓰지 않는다”고 말한다."
+          },
+          {
+            "t": "p",
+            "x": "Stanford HAI 펠로 Jennifer King은 기업 계정은 안전해 보이지만 “개인 계정이라면 아무것도 장담할 수 없다”며 사용자가 학습 제외를 직접 신청해야 하는 경우가 많다고 말한다. “기업들은 이런 관행에 대해 투명하지 않다”는 게 그의 지적이다."
+          },
+          {
+            "t": "p",
+            "x": "과학자들은 모델을 써서 발견이 새어 나갈 위험과 쓰지 않다가 선수를 빼앗길 위험 사이에서 하나를 떠안아야 한다고 느낄 법하다. Canonne은 “쓰지 않으면 뒤처진 존재가 되는 것 아닐까?”라고 말한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Scientists worry AI is\ntaking their ideas",
+          "body": "As researchers use AI as a sounding board, concerns grow that companies may present users' ideas as their models' own.",
+          "mini_headline": "Who owns ideas shared with AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Spot-2.webp"
+                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+                "cap": "Scientists are becoming increasingly concerned about the privacy of their manuscripts in the wake of high-profile accusations that AI companies harvested uploaded documents."
               },
               {
                 "t": "p",
-                "x": "Las cabezas de atención comparan la consulta de cada palabra con las claves de las demás, de modo que el contexto se vuelve matemática. Llion Jones califica el modelado del lenguaje de “AI-complete”. El columnista sostiene que el pensamiento humano no es puramente lingüístico, y Jones cree ahora que la atención no es todo lo que se necesita: “Parece que hay que saltar a algo muy, muy diferente”."
+                "x": "When OpenAI claimed an internal model had solved one of math's seven million-dollar problems, a New York University mathematician insinuated the company had stolen progress he had shared with a chatbot. Weeks later, the New York Times reported a similar story between Anthropic and a University of Copenhagen biologist. Both companies stated they did not train on the uploaded data."
+              },
+              {
+                "t": "p",
+                "x": "Scientists still use these models as a sounding board, for literature review or to generate proofs, but some now see them as competitors. “I'm not using them,” says Clément Canonne of the University of Sydney."
+              },
+              {
+                "t": "p",
+                "x": "Stanford HAI fellow Jennifer King says enterprise accounts seem safe, “but if you are on a personal account, all bets are off”; users often must opt out of training. “The companies are not transparent about these practices,” she says."
+              },
+              {
+                "t": "p",
+                "x": "Scientists may feel they must either use the models and risk leaking a discovery or not and risk being scooped. “If you're not using them, are you going to be irrelevant?” Canonne says."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "과학자들, AI가 자기\n아이디어 가져갈까 걱정",
+          "body": "AI를 조언자로 쓰는 연구자 사이에서 기업이 아이디어를 가로챌 우려가 커진다.",
+          "mini_headline": "AI에 건넨 아이디어는 누구 것인가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+                "cap": "AI 기업들이 업로드된 문서를 수집했다는 굵직한 의혹이 잇따르자 과학자들은 자기 원고의 프라이버시를 점점 더 걱정한다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI가 내부 모델이 수학의 백만 달러 난제 일곱 개 중 하나를 풀었다고 주장하자 New York University의 수학자는 자신이 챗봇과 나눈 연구 진전을 회사가 훔쳤다고 넌지시 말했다. 몇 주 뒤 New York Times는 Anthropic과 University of Copenhagen 생물학자 사이에 벌어진 비슷한 사례를 보도했다. 양사는 모두 업로드된 데이터로 학습하지 않았다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "과학자들은 여전히 모델을 토론 상대로 삼고 문헌 검토와 증명 생성에도 쓴다. 그런데 일부는 이제 모델을 경쟁자로 본다. University of Sydney의 Clément Canonne은 “나는 쓰지 않는다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "Stanford HAI 펠로 Jennifer King은 기업 계정은 안전해 보이지만 “개인 계정이라면 아무것도 장담할 수 없다”며 사용자가 학습 제외를 직접 신청해야 하는 경우가 많다고 말한다. “기업들은 이런 관행에 대해 투명하지 않다”는 게 그의 지적이다."
+              },
+              {
+                "t": "p",
+                "x": "과학자들은 모델을 써서 발견이 새어 나갈 위험과 쓰지 않다가 선수를 빼앗길 위험 사이에서 하나를 떠안아야 한다고 느낄 법하다. Canonne은 “쓰지 않으면 뒤처진 존재가 되는 것 아닐까?”라고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "科学者ら、AIに\n発想を奪われる懸念",
+          "body": "AIを相談相手にする研究者の間で、企業が発想を自社モデルの成果とする懸念が強まる。",
+          "mini_headline": "AIに渡した発想は誰のものか",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+                "cap": "AI企業がアップロードされた文書を収集したという注目の告発を受け、科学者たちは原稿のプライバシーへの懸念を強めている。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIが社内モデルで数学の七つの百万ドル問題の一つを解いたと主張すると、New York Universityの数学者は、自分がチャットボットと共有した進展を同社が盗んだとほのめかした。数週間後、New York TimesはAnthropicとUniversity of Copenhagenの生物学者をめぐる同様の話を報じた。両社とも、アップロードされたデータで学習していないと表明した。"
+              },
+              {
+                "t": "p",
+                "x": "科学者は今もこれらのモデルを議論の相手や文献レビュー、証明の生成に使っているが、競争相手と見なす人も出てきた。「私は使っていない」とUniversity of SydneyのClément Canonneは言う。"
+              },
+              {
+                "t": "p",
+                "x": "Stanford HAIのフェローであるJennifer Kingは、企業アカウントは安全そうだが「個人アカウントなら何の保証もない」と言い、ユーザーは学習からのオプトアウトを自ら行う必要があることが多いと指摘する。「企業はこうした慣行について透明ではない」と彼女は言う。"
+              },
+              {
+                "t": "p",
+                "x": "科学者は、モデルを使って発見が漏れる危険を冒すか、使わずに先を越される危険を冒すかの選択を迫られていると感じるかもしれない。「使わなければ、取り残されるのではないか」とCanonneは言う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "科学家担心AI\n窃取自己的想法",
+          "body": "研究人员把AI当作讨论对象，人们越发担心公司会把用户想法当成模型成果。",
+          "mini_headline": "与AI分享的想法归谁",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+                "cap": "AI公司被指收集用户上传文档的事件引发广泛关注，科学家们越来越担心自己手稿的隐私。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI声称其内部模型解决了数学界七个百万美元难题之一后，New York University的数学家暗示该公司窃取了他与聊天机器人分享的进展。数周后，New York Times报道了Anthropic与University of Copenhagen的生物学家之间的类似事件。双方均表示没有用上传的数据训练模型。"
+              },
+              {
+                "t": "p",
+                "x": "科学家们仍把这些模型当作讨论对象，用于文献综述或生成证明，但有些人已把它们视为竞争对手。“我不用它们，”University of Sydney的Clément Canonne说。"
+              },
+              {
+                "t": "p",
+                "x": "Stanford HAI研究员Jennifer King说，企业账户似乎是安全的，“但如果你用的是个人账户，那就什么都说不准了”；用户往往必须主动选择退出训练。“这些公司对这些做法并不透明，”她说。"
+              },
+              {
+                "t": "p",
+                "x": "科学家们可能觉得左右为难：使用模型就要冒发现外泄的风险，不用则要冒被抢先的风险。“如果你不用它们，你会不会变得无足轻重？”Canonne说。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Científicos temen que la AI\nse quede con sus ideas",
+          "body": "Mientras investigadores usan la AI como interlocutor, crece el temor a que las empresas se apropien de sus ideas.",
+          "mini_headline": "¿De quién son las ideas compartidas con AI?",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+                "cap": "Los científicos están cada vez más preocupados por la privacidad de sus manuscritos tras las sonadas acusaciones de que empresas de AI recopilaron documentos subidos."
+              },
+              {
+                "t": "p",
+                "x": "Cuando OpenAI afirmó que un modelo interno había resuelto uno de los siete problemas del millón de dólares de las matemáticas, un matemático de la New York University insinuó que la empresa había robado avances que él había compartido con un chatbot. Semanas después, el New York Times informó de un caso similar entre Anthropic y un biólogo de la University of Copenhagen. Ambas empresas afirmaron que no entrenaron con los datos subidos."
+              },
+              {
+                "t": "p",
+                "x": "Los científicos siguen usando estos modelos como interlocutores, para revisar bibliografía o generar demostraciones, pero algunos ya los ven como competidores. “No los estoy usando”, dice Clément Canonne, de la University of Sydney."
+              },
+              {
+                "t": "p",
+                "x": "Jennifer King, investigadora de Stanford HAI, dice que las cuentas empresariales parecen seguras, “pero si usas una cuenta personal, no hay ninguna garantía”; a menudo los usuarios deben excluirse expresamente del entrenamiento. “Las empresas no son transparentes sobre estas prácticas”, señala."
+              },
+              {
+                "t": "p",
+                "x": "Los científicos pueden sentir que deben elegir entre usar los modelos y arriesgarse a filtrar un descubrimiento, o no usarlos y arriesgarse a que otros se les adelanten. “Si no los usas, ¿vas a volverte irrelevante?”, dice Canonne."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "과학자들, AI가 자기\n아이디어 가져갈까 걱정",
+          "body": "AI를 조언자로 쓰는 연구자 사이에서 기업이 아이디어를 가로챌 우려가 커진다.",
+          "mini_headline": "AI에 건넨 아이디어는 누구 것인가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+                "cap": "AI 기업들이 업로드된 문서를 수집했다는 굵직한 의혹이 잇따르면서 과학자들은 자기 원고의 프라이버시를 점점 더 우려하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI가 내부 모델이 수학의 백만 달러 난제 일곱 개 중 하나를 풀었다고 주장하자, New York University의 수학자는 자신이 챗봇과 공유한 진전을 회사가 훔쳤다고 넌지시 말했다. 몇 주 뒤 New York Times는 Anthropic과 University of Copenhagen 생물학자 사이의 비슷한 사례를 보도했다. 양사 모두 업로드된 데이터로 학습하지 않았다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "과학자들은 여전히 이 모델을 토론 상대로 삼거나 문헌 검토, 증명 생성에 쓰지만, 일부는 이제 모델을 경쟁자로 본다. University of Sydney의 Clément Canonne은 “나는 쓰지 않는다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "Stanford HAI 펠로 Jennifer King은 기업 계정은 안전해 보이지만 “개인 계정이라면 아무것도 장담할 수 없다”며, 사용자가 학습 제외를 직접 신청해야 하는 경우가 많다고 말한다. 그는 “기업들은 이런 관행에 대해 투명하지 않다”고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "과학자들은 모델을 써서 발견이 새어 나갈 위험을 감수하거나, 쓰지 않고 선수를 빼앗길 위험을 감수해야 한다고 느낄 수 있다. Canonne은 “쓰지 않으면 뒤처진 존재가 되는 것 아닐까?”라고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "科学者ら、AIに\n発想を奪われる懸念",
+          "body": "AIを相談相手にする研究者の間で、企業が発想を自社モデルの成果とする懸念が強まる。",
+          "mini_headline": "AIに渡した発想は誰のものか",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+                "cap": "AI企業がアップロードされた文書を収集したという注目の告発を受け、科学者たちは原稿のプライバシーへの懸念を強めている。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIが社内モデルで数学の七つの百万ドル問題の一つを解いたと主張すると、New York Universityの数学者は、自分がチャットボットと共有した進展を同社が盗んだとほのめかした。数週間後、New York TimesはAnthropicとUniversity of Copenhagenの生物学者をめぐる同様の話を報じた。両社とも、アップロードされたデータで学習していないと表明した。"
+              },
+              {
+                "t": "p",
+                "x": "科学者は今もこれらのモデルを議論の相手や文献レビュー、証明の生成に使っているが、競争相手と見なす人も出てきた。「私は使っていない」とUniversity of SydneyのClément Canonneは言う。"
+              },
+              {
+                "t": "p",
+                "x": "Stanford HAIのフェローであるJennifer Kingは、企業アカウントは安全そうだが「個人アカウントなら何の保証もない」と言い、ユーザーは学習からのオプトアウトを自ら行う必要があることが多いと指摘する。「企業はこうした慣行について透明ではない」と彼女は言う。"
+              },
+              {
+                "t": "p",
+                "x": "科学者は、モデルを使って発見が漏れる危険を冒すか、使わずに先を越される危険を冒すかの選択を迫られていると感じるかもしれない。「使わなければ、取り残されるのではないか」とCanonneは言う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "科学家担心AI\n窃取自己的想法",
+          "body": "研究人员把AI当作讨论对象，人们越发担心公司会把用户想法当成模型成果。",
+          "mini_headline": "与AI分享的想法归谁",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+                "cap": "AI公司被指收集用户上传文档的事件引发广泛关注，科学家们越来越担心自己手稿的隐私。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI声称其内部模型解决了数学界七个百万美元难题之一后，New York University的数学家暗示该公司窃取了他与聊天机器人分享的进展。数周后，New York Times报道了Anthropic与University of Copenhagen的生物学家之间的类似事件。双方均表示没有用上传的数据训练模型。"
+              },
+              {
+                "t": "p",
+                "x": "科学家们仍把这些模型当作讨论对象，用于文献综述或生成证明，但有些人已把它们视为竞争对手。“我不用它们，”University of Sydney的Clément Canonne说。"
+              },
+              {
+                "t": "p",
+                "x": "Stanford HAI研究员Jennifer King说，企业账户似乎是安全的，“但如果你用的是个人账户，那就什么都说不准了”；用户往往必须主动选择退出训练。“这些公司对这些做法并不透明，”她说。"
+              },
+              {
+                "t": "p",
+                "x": "科学家们可能觉得左右为难：使用模型就要冒发现外泄的风险，不用则要冒被抢先的风险。“如果你不用它们，你会不会变得无足轻重？”Canonne说。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Científicos temen que la AI\nse quede con sus ideas",
+          "body": "Mientras investigadores usan la AI como interlocutor, crece el temor a que las empresas se apropien de sus ideas.",
+          "mini_headline": "¿De quién son las ideas compartidas con AI?",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+                "cap": "Los científicos están cada vez más preocupados por la privacidad de sus manuscritos tras las sonadas acusaciones de que empresas de AI recopilaron documentos subidos."
+              },
+              {
+                "t": "p",
+                "x": "Cuando OpenAI afirmó que un modelo interno había resuelto uno de los siete problemas del millón de dólares de las matemáticas, un matemático de la New York University insinuó que la empresa había robado avances que él había compartido con un chatbot. Semanas después, el New York Times informó de un caso similar entre Anthropic y un biólogo de la University of Copenhagen. Ambas empresas afirmaron que no entrenaron con los datos subidos."
+              },
+              {
+                "t": "p",
+                "x": "Los científicos siguen usando estos modelos como interlocutores, para revisar bibliografía o generar demostraciones, pero algunos ya los ven como competidores. “No los estoy usando”, dice Clément Canonne, de la University of Sydney."
+              },
+              {
+                "t": "p",
+                "x": "Jennifer King, investigadora de Stanford HAI, dice que las cuentas empresariales parecen seguras, “pero si usas una cuenta personal, no hay ninguna garantía”; a menudo los usuarios deben excluirse expresamente del entrenamiento. “Las empresas no son transparentes sobre estas prácticas”, señala."
+              },
+              {
+                "t": "p",
+                "x": "Los científicos pueden sentir que deben elegir entre usar los modelos y arriesgarse a filtrar un descubrimiento, o no usarlos y arriesgarse a que otros se les adelanten. “Si no los usas, ¿vas a volverte irrelevante?”, dice Canonne."
               }
             ]
           }

@@ -1,197 +1,101 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "music",
+  "now_iso": "2026-10-13T22:03:28Z",
   "window_hours": 336,
-  "generated_at": "2026-10-12T22:00:00Z",
   "items": [
     {
-      "title": "Using AI To Make Patches For The Yamaha CS-80 Synthesizer",
-      "url": "https://www.synthtopia.com/content/2026/10/12/using-ai-to-make-patches-for-the-yamaha-cs-80-synthesizer/",
-      "source": "Synthtopia",
+      "title": "Deezer lets users hide AI music; Playhead generates signal chains for producers",
+      "url": "https://musically.com/2026/10/13/deezer-lets-users-hide-ai-music-playhead-generates-signal-chains-for-producers/",
+      "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-10-12T21:20:21Z",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/10/ai-sound-design.jpg",
-      "excerpt": "A Jose's Vintage Keys video shows Anthropic's Claude programming patches on a MIDI-modded Yamaha CS-80, turning text descriptions into sound-design starting points on vintage hardware.",
+      "published_iso": "2026-10-13T12:30:00+00:00",
+      "excerpt": "Deezer will add a human-only on/off switch before the end of 2026 so users can fully exclude AI-generated tracks from search; it has already excluded 42M+ AI tracks from recommendations. Separately, Playhead turns a text description of a vibe into an editable DSP effects chain without training on artists' audio.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-13T131614.548.png?fit=2000%2C1500&ssl=1",
       "history_match": {
-        "score": 0.266,
-        "date": "2026-09-18",
-        "url": "https://www.synthtopia.com/content/2026/09/13/free-tool-lets-you-create-yamaha-dx7-fm-patches-using-plain-english/",
-        "title": "Free Tool Lets You Create Yamaha DX7 FM Patches Using Plain English",
+        "score": 0.346,
+        "date": "2026-09-19",
+        "url": "https://bedroomproducersblog.com/2026/09/18/playhead-custom-effects/",
+        "title": "Playhead builds custom effects chains from your sound descriptions",
         "band": "related"
-      }
+      },
+      "cluster": "c0"
     },
     {
-      "title": "‘Suno is the new auto-tune’: Meet the artists using AI to go viral",
-      "url": "https://www.dazeddigital.com/music/article/71134/1/suno-is-the-new-auto-tune-meet-the-artists-using-ai-to-go-viral",
-      "source": "Dazed",
+      "title": "Deezer to let users block AI-generated music from search results",
+      "url": "https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/",
+      "source": "Music Business Worldwide",
       "category": "music",
-      "published_iso": "2026-10-08T09:47:00Z",
-      "og_image": "https://images-prod.dazeddigital.com/367/0-211-367-244/azure/dazed-prod/1450/7/1457204.jpeg",
-      "excerpt": "Dazed profiles masked TikTok-viral acts such as Kilo Kent and Zemi who sing their own songs and run the vocals through Suno like a studio effect, arguing the songwriting stays theirs. (Off-list: no allowed-domain outlet covered this creator-workflow angle.)"
-    },
-    {
-      "title": "Tencent Music’s MusicBuddy combines AI music creation, editing, distribution and promotion",
-      "url": "https://routenote.com/radar/tencent-musics-musicbuddy-combines-ai-music-creation-editing-distribution-and-promotion/",
-      "source": "RouteNote",
-      "category": "music",
-      "published_iso": "2026-10-07T20:07:41Z",
-      "og_image": "https://routenote.com/radar/wp-content/uploads/2026/10/routenote_high_angle_view_a_phone_in_the_center_and_a_silver__f4257022-0f11-41f2-8dbe-44c0288c9ac6_3.png",
-      "excerpt": "Tencent Music is testing MusicBuddy, an AI platform that pairs song generation with a multitrack editor driven by natural-language chat, then pushes tracks to release and promotion. (Off-list: tool release not covered by allowed domains.)",
-      "history_match": {
-        "score": 0.156,
-        "date": "2026-09-18",
-        "url": "https://musically.com/2026/09/17/submithub-bans-ai-generated-music-from-its-promotion-services/",
-        "title": "SubmitHub bans AI-generated music from its promotion services",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Instagram adds AI songs to DMs",
-      "url": "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/",
-      "source": "Social Media Today",
-      "category": "music",
-      "published_iso": "2026-10-04T17:23:38Z",
-      "og_image": "https://imgproxy.divecdn.com/4c8s5cKB8C7MHoWLCwg7jU9Sl6kuCNz1L6NJczHUtt8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nMi5wbmc=.webp",
-      "excerpt": "Instagram is testing a Meta AI song-creation option in the DM inbox: users add lyrics and pick a genre to generate a track to send to friends, echoing Snapchat's paid Chat-to-Song. (Off-list: feature release not covered by allowed domains.)",
-      "history_match": {
-        "score": 0.215,
-        "date": "2026-09-23",
-        "url": "https://musically.com/2026/09/22/snapchat-has-a-new-genai-powered-chat-to-song-feature/",
-        "title": "Snapchat has a new GenAI-powered ‘Chat to Song’ feature",
-        "band": "related"
-      }
+      "published_iso": "2026-10-13T12:14:11+00:00",
+      "excerpt": "Deezer is introducing an on/off toggle that lets users exclude fully AI-generated music from search results; with it on, AI-generated tracks, albums and related artists won't appear. Deezer already keeps detected fully-AI tracks out of algorithmic recommendations and editorial playlists.",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
+      "note": "Same story as the Music Ally item; pick one. Fetched via r.jina.ai (MBW is 403 to curl/WebFetch).",
+      "cluster": "c0"
     },
     {
       "title": "Lalu's Corner: Who Controls the Digital Version of You?",
       "url": "https://www.hypebot.com/lalus-corner-who-controls-the-digital-version-of-you/",
       "source": "Hypebot",
       "category": "music",
-      "published_iso": "2026-10-12T17:23:01Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg",
-      "excerpt": "A column on artist likeness in the AI era: the Jason Isbell suit alleging Suno's name block is bypassed by spacing letters, a deadmau5 deepfake endorsement, and the Jorja Smith soundalike, plus how labels split between licensing and takedowns."
+      "published_iso": "2026-10-12T17:23:01.000Z",
+      "excerpt": "A column for independent artists on AI voice and likeness control, from Jason Isbell's suit against Suno and the deadmau5 deepfake to the 'I Run' Jorja Smith soundalike, and how UMG, Sony and Warner are taking different routes on licensing, takedowns and opt-in.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
     },
     {
-      "title": "Audiotool reveals six winners from its ‘Let’s Build!’ hackathon",
-      "url": "https://musically.com/2026/10/08/audiotool-reveals-six-winners-from-its-lets-build-hackathon/",
+      "title": "DistroKid is removing songs in response to UMG lawsuit – and some artists aren't happy",
+      "url": "https://musically.com/2026/10/12/distrokid-is-removing-songs-in-response-to-umg-lawsuit-and-some-artists-arent-happy/",
       "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-10-08T12:30:00Z",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-08T111802.241.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Audiotool's music-app hackathon winners include Pocket Producer, an AI agent for music producers, and an AI A&R Assistant that analyses tracks and estimates earning potential, alongside DAW-conversion and sheet-music tools."
-    },
-    {
-      "title": "Olivia Rodrigo Clarifies AI Stance Following ‘Invasive’ Tech Investor Dating Rumors: ‘Absolutely No’",
-      "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-ai-stance-tech-investor-dating-rumors-1236356013/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-10-07T16:30:57Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/04/P104S4UN-e1781880973570.jpg?w=1024",
-      "excerpt": "Olivia Rodrigo says she has 'absolutely no' plans to use AI in her music, addressing rumours that tied her to an AI tech investor."
-    },
-    {
-      "title": "DistroKid Takedown Wave Hits Indie Artists After UMG Lawsuit",
-      "url": "https://www.hypebot.com/distrokid-takedown-wave-hits-indie-artists-after-umg-lawsuit/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-10-12T14:41:36Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Distrokid-2026-logo.png",
-      "excerpt": "With UMG's lawsuit over AI 'slop' uploads pending, DistroKid is aggressively purging tracks, and artists say their legitimate releases are caught in the crossfire. (Follow-up to the Verge DistroKid story published 10-11.)",
+      "published_iso": "2026-10-12T12:45:00+00:00",
+      "excerpt": "Following UMG's September lawsuit accusing DistroKid of enabling an AI-slop pipeline, the distributor has begun removing songs, and some artists are unhappy about the takedowns.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-12T133000.848.png?fit=2000%2C1500&ssl=1",
+      "note": "recently_covered: DistroKid takedowns (The Verge). New angle = artist backlash / non-AI uploads removed; curator decide.",
       "history_match": {
-        "score": 0.318,
+        "score": 0.479,
         "date": "2026-10-11",
         "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
         "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-        "band": "related"
+        "band": "likely-repeat"
       }
     },
     {
-      "title": "“In the beginning we often called our studio an electronic garden – but that garden developed into a factory farming industry”: Kraftwerk’s Karl Bartos tells us how technology curbed the band’s creativity",
-      "url": "https://www.musicradar.com/artists/in-the-beginning-we-often-called-our-studio-an-electronic-garden-but-that-garden-developed-into-a-factory-farming-industry-kraftwerks-karl-bartos-tells-us-how-technology-curbed-the-bands-creativity",
-      "source": "MusicRadar",
+      "title": "Audiotool reveals six winners from its 'Let's Build!' hackathon",
+      "url": "https://musically.com/2026/10/08/audiotool-reveals-six-winners-from-its-lets-build-hackathon/",
+      "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-10-12T07:54:04Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/yFtVdw5M9mNwxGAgZj6dFF-1280-80.jpg",
-      "excerpt": "Ex-Kraftwerk member Karl Bartos calls AI in music 'overestimated... just an archive of human logic' and a Silicon Valley sales pitch, in an interview on studio technology and his Caligari score. (AI is one segment of a broader interview.)"
+      "published_iso": "2026-10-08T12:30:00+00:00",
+      "excerpt": "Audiotool's hackathon winners include Pocket Producer, an AI agent for music producers (ideation category), and A&R Assistant, an AI tool that analyses tracks to estimate earning potential, alongside non-AI tools like Score IO and a BBC Maida Vale reverb.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-08T111802.241.png?fit=2000%2C1500&ssl=1",
+      "note": "AI is partial (2 of 6 winners)."
     },
     {
-      "title": "“We will keep enforcing our artists’ rights... but it’s becoming an uphill struggle”: Sony Music reveals the number of deepfake AI tracks it’s asked to be removed has doubled in six months",
-      "url": "https://www.musicradar.com/music-industry/we-will-keep-enforcing-our-artists-rights-but-its-becoming-an-uphill-struggle-sony-music-reveals-the-number-of-deepfake-ai-tracks-its-asked-to-be-removed-has-doubled-in-six-months",
-      "source": "MusicRadar",
+      "title": "Digital Blackface: The Problematic State Of AI Music",
+      "url": "https://www.youtube.com/watch?v=V7C7A4GYxaA",
+      "source": "Louis La Roche (YouTube)",
       "category": "music",
-      "published_iso": "2026-10-06T15:24:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/trSeu94TtXvWhmkDqbH74V-1825-80.jpg",
-      "excerpt": "Sony Music says its AI deepfake takedown requests have doubled in six months to over 260,000, and its president estimates up to 10% of streams could be fraudulent. (Same story as MBW piece published 10-06; check for dup.)",
-      "history_match": {
-        "score": 0.268,
-        "date": "2026-10-06",
-        "url": "https://www.musicbusinessworldwide.com/sony-music-has-now-asked-platforms-to-remove-more-than-260000-ai-deepfakes-imitating-artists-like-harry-styles-adele-and-michael-jackson/",
-        "title": "Sony Music seeks removal of 260,000+ AI deepfakes",
-        "band": "related"
-      }
-    },
-    {
-      "title": "LiveSynth: A Streaming Neural Synthesizer for Instrument Cloning and Text-to-Instrument",
-      "url": "https://arxiv.org/abs/2610.13054",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-09T00:00:00Z",
-      "og_image": "",
-      "excerpt": "LiveSynth is a streaming neural synthesizer that clones an instrument's timbre zero-shot from a reference recording or generates one from a text prompt, and plays in real time rather than rendering audio offline.",
-      "history_match": {
-        "score": 0.182,
-        "date": "2026-09-14",
-        "url": "https://synthanatomy.com/2026/09/sentient-an-auv3-synthesizer-for-ios-and-macos-powered-by-a-neural-network.html",
-        "title": "Sentient, an AUv3 Synthesizer for iOS and macOS powered by a neural network",
-        "band": "related"
-      }
-    },
-    {
-      "title": "MIRA: A Musical Intent Refinement Agent for Aligning Text-to-Music Generation with User Intent",
-      "url": "https://arxiv.org/abs/2610.10355",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-07T00:00:00Z",
-      "og_image": "",
-      "excerpt": "MIRA is an agent that refines underspecified text-to-music prompts toward the user's implicit intent on instrumentation, structure, rhythm and mood, instead of relying on a single global text-audio relevance score."
+      "published_iso": "2026-10-06T03:30:29-07:00",
+      "excerpt": "Producer Louis La Roche examines what he calls digital blackface in AI music, naming the people behind one of the biggest AI-artist operations on streaming services.",
+      "og_image": "https://i.ytimg.com/vi/V7C7A4GYxaA/maxresdefault.jpg"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 12,
+    "dropped": 1,
+    "kept": 6,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 6,
-    "same_story_pairs": []
+    "review": 2,
+    "same_story_pairs": [
+      [
+        "https://musically.com/2026/10/13/deezer-lets-users-hide-ai-music-playhead-generates-signal-chains-for-producers/",
+        "https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/",
+        0.382
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-09-13",
-      "title": "Initial Audio releases Difro Melody AI, a FREE AI MIDI generator",
-      "url": "https://bedroomproducersblog.com/2026/09/09/initial-audio-difro-melody/"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "AI Music Disputes Need More Than a Label: 5 Records All Artists Should Keep",
-      "url": "https://www.hypebot.com/ai-music-disputes-need-more-than-a-label-5-records-all-artists-should-keep/"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Suno admits it obtained YouTube audio to train its AI – but challenges UMG and Sony's standing on the 'stream ripping' claim",
-      "url": "https://www.musicbusinessworldwide.com/suno-admits-it-obtained-youtube-audio-to-train-its-ai-but-challenges-umg-and-sonys-standing-to-bring-stream-ripping-claim/"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Tone3000 has launched a free open-source plugin that puts hundreds of thousands of NAM A2 device captures at your fingertips",
-      "url": "https://www.musicradar.com/guitars/tone3000-has-launched-a-free-open-source-plugin-that-puts-hundreds-of-thousands-of-nam-a2-device-captures-at-your-fingertips"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Positive Grid announce the Spark Pedal",
-      "url": "https://www.soundonsound.com/news/positive-grid-announce-spark-pedal"
-    },
     {
       "date": "2026-09-14",
       "title": "Eminently controllable, accessible by design, Sting is now a plug-in",
@@ -826,6 +730,31 @@
       "date": "2026-10-12",
       "title": "Google's new SynthID website can identify AI-generated media",
       "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "LiveSynth: A Streaming Neural Synthesizer for Instrument Cloning and Text-to-Instrument",
+      "url": "https://arxiv.org/abs/2610.13054"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Tencent Music’s MusicBuddy combines AI music creation, editing, distribution and promotion",
+      "url": "https://routenote.com/radar/tencent-musics-musicbuddy-combines-ai-music-creation-editing-distribution-and-promotion/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "‘Suno is the new auto-tune’: Meet the artists using AI to go viral",
+      "url": "https://www.dazeddigital.com/music/article/71134/1/suno-is-the-new-auto-tune-meet-the-artists-using-ai-to-go-viral"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Instagram adds AI songs to DMs",
+      "url": "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/"
+    },
+    {
+      "date": "2026-10-13",
+      "title": "Using AI To Make Patches For The Yamaha CS-80 Synthesizer",
+      "url": "https://www.synthtopia.com/content/2026/10/12/using-ai-to-make-patches-for-the-yamaha-cs-80-synthesizer/"
     }
   ]
 }

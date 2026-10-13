@@ -1,32 +1,33 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "movies",
   "media": [
     {
-      "id": "movies-merry-christmas-witch-ai-budget",
+      "id": "movies-sync-productions-lipsync",
       "type": "image",
-      "src": "pipeline/media/movies-merry-christmas-witch-ai-budget.jpg"
+      "src": "pipeline/media/movies-sync-productions-lipsync.jpg"
     },
     {
-      "id": "movies-banderas-cortes-utopai",
-      "type": "image",
-      "src": "pipeline/media/movies-banderas-cortes-utopai.jpg"
-    },
-    {
-      "id": "movies-kling-busan-trained-crew-panel",
-      "type": "image",
-      "src": "pipeline/media/movies-kling-busan-trained-crew-panel.jpg"
-    },
-    {
-      "id": "movies-curious-refuge-credit-savings",
+      "id": "movies-reallusion-escape-ai",
       "type": "video",
-      "src": "pipeline/media/movies-curious-refuge-credit-savings.mp4",
-      "poster": "pipeline/media/movies-curious-refuge-credit-savings.jpg"
+      "src": "pipeline/media/movies-reallusion-escape-ai.mp4",
+      "poster": "pipeline/media/movies-reallusion-escape-ai.jpg"
     },
     {
-      "id": "movies-visko-google-cloud-ai-worlds",
+      "id": "movies-netflix-eyeline-mousavi",
       "type": "image",
-      "src": "pipeline/media/movies-visko-google-cloud-ai-worlds.jpg"
+      "src": "pipeline/media/movies-netflix-eyeline-mousavi.jpg"
+    },
+    {
+      "id": "movies-utopai-journey-west",
+      "type": "video",
+      "src": "pipeline/media/movies-utopai-journey-west.mp4",
+      "poster": "pipeline/media/movies-utopai-journey-west.jpg"
+    },
+    {
+      "id": "movies-mia-goth-instagram-ai",
+      "type": "image",
+      "src": "pipeline/media/movies-mia-goth-instagram-ai.jpg"
     }
   ]
 }

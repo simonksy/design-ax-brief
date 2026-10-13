@@ -11449,6 +11449,82 @@
           "x": "Microsoft와 Meta는 워터마킹과 검증에 자체 표준을 쓴다. 이런 도구가 완벽한 것은 아니어서, 자사 모델이 만든 콘텐츠조차 못 알아보는 경우가 많다."
         }
       ]
+    },
+    "music/music-hypebot-ai-likeness-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+        },
+        {
+          "t": "p",
+          "x": "음악·브랜드 파트너십 에이전트 Lauren Thackray는 월간 칼럼 Lalu's Corner를 Addison Rae의 Fortnite 스킨 이야기로 시작한다. 이 스킨은 Addison Rae가 Epic Games에 직접 보낸 셀카 열 장으로 만들어졌고 본인도 모든 것에 동의했다. 질문은 여기서 나온다. 누가 한 사람의 디지털 버전을 만들 수 있는지, 그것으로 무엇을 할 수 있는지, 당사자는 통제권을 얼마나 지키는지다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+        },
+        {
+          "t": "p",
+          "x": "많은 아티스트에게 첫 번째 질문의 답은 이미 본인 없이 정해지는 중이다. Jason Isbell 등 뮤지션들은 아티스트 정체성 사용을 문제 삼아 Suno를 고소했다. deadmau5는 자신이 다른 DJ를 지지하는 AI-generated 딥페이크를 발견했고 “I Run”은 Jorja Smith와 똑같이 들리는 보컬로 화제가 됐다."
+        },
+        {
+          "t": "p",
+          "x": "메이저 레이블의 대응은 제각각이다. Universal은 Suno를 고소하는 한편 Udio와는 합의하고 라이선스 계약을 맺었다. Sony는 라이선스 계약 없이 삭제 요청에 기댄다. Warner는 아티스트 opt-in 조항을 담은 계약을 추진해 왔다."
+        },
+        {
+          "t": "p",
+          "x": "Thackray는 SAG-AFTRA가 2024년 Replica Studios와 맺은 계약을 가장 분명한 공개 모델로 꼽는다. 아티스트의 디지털 버전은 아티스트가 과반을 지배하는 주체가 통제하고 라이선스는 용도별로 내줘야 한다는 게 그의 주장이다."
+        }
+      ]
+    },
+    "music/music-laroche-digital-blackface": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "V7C7A4GYxaA"
+        },
+        {
+          "t": "p",
+          "x": "프로듀서 Louis La Roche는 스스로 의견 영상이라고 밝힌 이 영상에서 AI 음악에 번지고 있다는 '디지털 블랙페이스'(digital blackface) 흐름을 살핀다. 프롬프트를 입력한 사람과 다른 인종으로 보이게끔 AI를 쓰는 현상이다."
+        },
+        {
+          "t": "p",
+          "x": "그는 Suno를 비롯한 AI 음악 플랫폼이 독창적인 음악을 만들지 않고 학습 데이터를 흉내 낼 뿐이라고 주장한다. Suno가 겪은 소송들도 짚는다."
+        },
+        {
+          "t": "p",
+          "x": "이어 Spotify에서 흑인(Black) 아티스트로 보이도록 만들어졌다고 그가 말하는 AI 페르소나들을 소개하고 그 배후로 그가 지목하는 남성들의 이름을 댄다. 어디까지나 그 자신의 주장이며 여기서 독립적으로 검증되지 않았다."
+        }
+      ]
+    },
+    "music/music-tencent-musicbuddy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://routenote.com/radar/wp-content/uploads/2026/10/routenote_high_angle_view_a_phone_in_the_center_and_a_silver__f4257022-0f11-41f2-8dbe-44c0288c9ac6_3.png"
+        },
+        {
+          "t": "p",
+          "x": "Tencent Music이 새 AI-powered 음악 플랫폼 MusicBuddy를 시험하고 있다. 아티스트가 음악을 만들고 편집하고 발매하고 홍보하는 일을 한곳에서 끝내도록 돕는다. 지금은 내부 테스트 단계라 일반에는 아직 널리 공개되지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "AI 작곡과 전통적인 멀티트랙 음악 편집기를 한데 묶었다. 보컬, 드럼, 악기 파트는 트랙마다 따로 놓인다. 다만 사용자가 파라미터를 하나하나 만질 필요는 없다. 자연어로 MusicBuddy에 악기 교체, 편곡 변경, 볼륨 조절, 리버브 수정, 가사 재작성을 맡기면 된다."
+        },
+        {
+          "t": "p",
+          "x": "창작자는 가사를 먼저 쓰고 거기에 맞춰 음악을 생성할 수도, 아이디어를 한 문장으로 설명할 수도, AI와 대화를 주고받으며 곡을 완성할 수도 있다. 보도에 따르면 이전 곡의 성과와 팬 선호, 최신 트렌드까지 따져 보고 창작 방향을 제안하기도 한다."
+        },
+        {
+          "t": "p",
+          "x": "MusicBuddy에는 여러 플랫폼에 걸친 배포 기능도 들어 있다고 알려졌고, 뮤직비디오와 포스터 같은 홍보물 제작도 거든다. Tencent의 WorkBuddy, CodeBuddy, DataBuddy, CraftBuddy 에이전트와 같은 계열이다. Tencent Music은 2026년 초, 150,000명 이상의 아티스트와 10 million명 이상의 사용자가 자사 AI 음악 제작 기술을 썼다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "웹사이트는 열렸지만 서비스는 아직 테스트 중이라 누구나 제한 없이 가입할 수는 없다. Tencent Music은 해외 출시 여부나 가격은 확인해 주지 않았다."
+        }
+      ]
     }
   }
 }

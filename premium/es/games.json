@@ -6932,6 +6932,137 @@
           "x": "Desde la alfa, la satisfacción de los creadores subió un 10%, las quejas de \"no es lo que quiero\" bajaron del 18% al 3%, y se publica alrededor del 14% de las sesiones con instrucciones y el 19% de las pruebas de juego."
         }
       ]
+    },
+    "games/games-dlss5-faster-less-vram": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NVIDIA ha anunciado que DLSS 5 es ahora más rápido, consume menos recursos y llegará a nuevos juegos, entre ellos Hogwarts Legacy. El nuevo modelo de DLSS 5 que se lanza este mes es el doble de rápido que el modelo presentado por primera vez en marzo durante el GTC 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/dlss-3d-guided-neural-rendering-10x-faster-since-announce-scaled.jpg",
+          "cap": "El modelo DLSS 5 ahora es el doble de rápido"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA está afinando los datos de entrenamiento con un 24% menos de parámetros, lo que reduce el tamaño del modelo a solo 118 millones de parámetros. En 4K, el uso de VRAM con el nuevo modelo baja un 20%. Aunque las mejoras de rendimiento dependen de cada juego, NBA 2K27 funciona ahora más de un 30% más rápido que en su lanzamiento de septiembre, con una tasa de fotogramas que pasa de 65 FPS a 90 FPS en 4K."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/IMG_7389-scaled.jpg",
+          "cap": "DLSS 5 para Hogwarts Legacy, disponible el 5 de noviembre"
+        },
+        {
+          "t": "p",
+          "x": "Hogwarts Legacy recibirá DLSS 5 el 5 de noviembre, y Avalanche Software usará los controles del SDK de DLSS 5 para mantener la intención artística y el estilo del juego. A finales de noviembre, Where Winds Meet también recibirá una actualización oficial de DLSS 5."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/hogwarts-legacy-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on-scaled.jpg",
+          "cap": "Hogwarts Legacy, DLSS 5 activado"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA también planea llevar esta tecnología a las GPUs RTX 40."
+        }
+      ]
+    },
+    "games/games-vrchat-ai-boycott": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/VR-Chat.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La comunidad de VR Chat está en plena polémica por la IA generativa en la plataforma. Patroll, uno de sus desarrolladores comunitarios más destacados, que trabaja en la wiki gestionada por fans y ayuda con pruebas y traducciones, se ha apartado en protesta por la “plaga desenfrenada” de mundos e imágenes generados por IA (AI-generated), incluidas miniaturas generadas por IA que representan los mundos de forma engañosa en las búsquedas."
+        },
+        {
+          "t": "p",
+          "x": "Patroll pidió a otros desarrolladores que mostraran carteles indicando que no usan IA en su trabajo, y muchos de los mundos más populares ya muestran el cartel. Las demandas también incluyen un mejor filtrado del contenido de IA y un menor uso de IA dentro del propio VR Chat."
+        },
+        {
+          "t": "p",
+          "x": "La empresa prohibió de inmediato las miniaturas engañosas y admite que se encuentra en una “incómoda encrucijada”. “Por un lado, la IA puede ayudar a acelerar el desarrollo y aliviar la carga técnica; por otro, puede generar flujos interminables de contenido de baja calidad y poco esfuerzo que erosiona la conexión humana”."
+        },
+        {
+          "t": "p",
+          "x": "Acepta la IA para traducción, ayuda con el código y herramientas dentro del motor, pero está consultando a los usuarios si etiquetar o prohibir los recursos de IA y los mundos generados por completo, y promete mejorar la búsqueda. Las consultas continuarán durante la próxima semana antes de que el equipo aplique sus políticas de IA."
+        }
+      ]
+    },
+    "games/games-bloodborne-vibe-coded-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HYgVWfc7Vi2zK2m4QHVb6C.jpg",
+          "cap": "Imagen: FromSoftware"
+        },
+        {
+          "t": "p",
+          "x": "Bloodborne no está disponible oficialmente en PC, pero los fans detrás de The Hunter's Dream lo han portado por su cuenta. Según su web oficial, admite multijugador y control con teclado y ratón, y funciona en Windows y Linux, incluido Steam Deck."
+        },
+        {
+          "t": "p",
+          "x": "Existe la posibilidad —del 100%, vaya— de que el port se haya hecho con IA generativa. En la página de GitHub del creador, Claude figura como una de las “personas” que trabajaron en prácticamente todos los aspectos del proyecto."
+        },
+        {
+          "t": "p",
+          "x": "Las reacciones no son positivas. “No es realmente un port nativo, por cierto”, dice un comentario. “La IA solo copió cosas del emulador”. Otro declara: “NOT PLAYING THIS AI SLOP I WILL JUST USE THE EMULATOR MADE BY HUMANS!” (¡no voy a jugar a esta bazofia de IA, usaré el emulador hecho por humanos!). Alguien señala que sigue siendo necesaria la copia original de Bloodborne y un e-boot de tu PS4."
+        }
+      ]
+    },
+    "games/games-tarn-adams-hates-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Tarn-Adams-Dwarf-Fortress.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
+          "cap": "Tarn Adams | Imagen: Bay 12 Games/Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "Tarn Adams, creador de Dwarf Fortress, que trabaja en el juego con su hermano Zach desde 2002, está más entusiasmado que nunca, salvo con la IA. Reflexiona sobre la ansiedad del sector ante la posibilidad de ser sustituido por “algún tipo de robot que, a estas alturas, ni siquiera puede hacer tu trabajo”. La IA generativa ha manchado el nombre: “No puedo llamarlo dwarf AI”."
+        },
+        {
+          "t": "p",
+          "x": "Nunca ha sentido la tentación de usar IA generativa en Dwarf Fortress. “Se nota cuando abres un juego hecho con vibe coding y el ventilador [del ordenador] empieza a girar. No es lo bastante bueno. Pero aunque lo fuera, seguiría teniendo razones para no hacerlo”. Solo un cambio de plataforma, como que Microsoft obligara a usar IA generativa para que los juegos fueran reconocidos en Windows, le haría planteárselo en serio."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/dward3.jpg?width=690&height=388&fit=crop&quality=85&format=jpg&auto=webp",
+          "cap": "Dwarf Fortress"
+        },
+        {
+          "t": "p",
+          "x": "Los modders han construido un ordenador impulsado por vampiros. El juego vendió casi 500.000 copias en su primer mes en Steam y superó el millón en abril de 2025, pero Adams dice que “no es suficiente para sentirse holgado” con unas 15 personas trabajando en él. Una rebaja de una semana equivale a “dos meses y medio de negocio”."
+        }
+      ]
+    },
+    "games/games-epic-ai-first-disney-delay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/image002_5im69wh.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Imagen: Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games ha retrasado su próxima colaboración con Disney, un shooter con personajes de las franquicias Marvel y Star Wars, y ha pedido a sus desarrolladores que adopten un modelo de producción \"AI first\" (la IA primero). Según Bloomberg, el juego estaba previsto para marzo, pero aún no se ha confirmado una nueva fecha de lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "Personas familiarizadas con el proyecto dijeron al medio que se pidió a los desarrolladores crear el juego con herramientas de IA, entre ellas Claude de Anthropic, con el personal supervisando el resultado. En un mensaje interno al que tuvo acceso Bloomberg, uno de los directores del juego dijo al equipo: \"Se acabó el código escrito a mano\". El director también afirmó que todo el arte del juego se \"generaría con flujos de trabajo completamente basados en IA\"."
+        },
+        {
+          "t": "p",
+          "x": "El director de comunicación de Epic, Jake Jones, dijo que la compañía está \"adoptando el desarrollo AI-accelerated (acelerado por IA), liderado por los desarrolladores de Epic, que son los visionarios y el motor creativo de todo lo que hacemos\". Los desarrolladores conocieron el cambio en una videollamada la semana pasada y algunos quedaron \"atónitos\", según las fuentes de Bloomberg."
+        },
+        {
+          "t": "p",
+          "x": "Las mismas fuentes indicaron que el desarrollo iba con retraso, en parte porque Epic calculó mal el personal y el tiempo que necesitaría el juego. Bloomberg señaló que ninguna otra gran compañía de videojuegos había intentado antes hacer un juego principalmente con IA. Disney invirtió 1500 millones de dólares en Epic en 2024, y este shooter iba a ser el primer juego de su alianza."
+        }
+      ]
     }
   }
 }

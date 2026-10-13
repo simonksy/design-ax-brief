@@ -1,206 +1,152 @@
 {
- "section": "design",
- "date": "2026-10-13",
- "now_iso": "2026-10-12T22:00:00Z",
- "window_hours": 72,
- "expansion": [
-  "RSS/Atom harvest of all category allowed_domains (figma.com, vercel, builder.io, logrocket, uxdesign.cc, dev.to tags, creativebloq, cgchannel, keyshot, 80.lv, fxguide, nvidia blogs, engadget, engineering.com, autodesk, all3dp, develop3d, getleo, smashing, css-tricks, mindstudio, parallelhq, roadtovr, uploadvr, apple newsroom, fastcompany co-design, cio, eleken, orq, theverge, venturebeat)",
-  "YouTube channel feeds (Figma, Fireship, Two Minute Papers, Matt Wolfe, AI Advantage, DesignCourse, Theo, AI Jason, Adobe, Vercel)",
-  "Google News RSS when:3d for cad/vr/tokens/figma/workflow keywords (Figma AI, Figma Make, Firefly, Midjourney, Canva AI, Framer AI, Krea, Runway, Veo, text-to-CAD, design tokens AI, Vision Pro AI)",
-  "Off-list design-relevant expansion: dezeen, designboom, creativereview, designweek, abduzeedo, sidebar.io, the-decoder, marktechpost, testingcatalog, petapixel, cined, nofilmschool, awn, 9to5google/mac, 3dprintingindustry, 3dnatives, vendor blogs",
-  "2 WebSearch queries (Canva ProSuite -> mid-September, stale; SolveCraft -> not found)",
-  "Dropped: vercel Muse Wonder gateway + engadget/decoder Meta Wonder (dup of Verge), builder.io Agent-Native (future-dated feed), figma team-rituals + creativebloq boring-AI (already published), InspoAI Shades and 80.lv pool clip (no AI in body), Duo animated series (AI tangential), constitution.design (Oct 6), Canva ProSuite (Sept), Autodesk Fusion MCP (access denied, no date), chip/infra/funding items. vr category: no fresh AI-relevant items on roadtovr/uploadvr/apple.",
-  "Note: uxdesign.cc, petapixel, fastcompany pages are Cloudflare/bot-blocked; published time taken from the outlet's own RSS pubDate and AI substance verified from feed full text/excerpt."
- ],
- "items": [
-  {
-   "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
-   "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
-   "source": "UX Collective",
-   "category": "figma",
-   "published_iso": "2026-10-12T20:17:45Z",
-   "og_image": "https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png",
-   "excerpt": "For fifteen years the design process kept growing while the time left for making the product kept shrinking; AI is now compressing the middle of the process into an hourglass shape."
-  },
-  {
-   "title": "Secret agent bot: accessibility matters for the agents even if you can't see them",
-   "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
-   "source": "UX Collective",
-   "category": "figma",
-   "published_iso": "2026-10-12T20:19:31Z",
-   "og_image": "https://cdn-images-1.medium.com/max/1024/1*kBVrEZpJg77XPdxNBIOr1A.png",
-   "excerpt": "Two readers, one page: AI agents never see the surface you designed, they read the semantic structure underneath, so accessible markup is now agent UX."
-  },
-  {
-   "title": "From a Figma URL to a custom WordPress theme with Claude Code",
-   "url": "https://dev.to/saidmounaim/from-a-figma-url-to-a-custom-wordpress-theme-with-claude-code-4p9a",
-   "source": "DEV Community",
-   "category": "figma",
-   "published_iso": "2026-10-12T14:55:55Z",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5meirb2dwf410u0dj56j.png",
-   "excerpt": "The author built figma-wp-blueprint, a set of Claude Code skills that turn a Figma design URL into a custom WordPress theme."
-  },
-  {
-   "title": "Beyond WCAG: Can AI Agents Make the Web Truly Adaptive?",
-   "url": "https://dev.to/khushboo_parmar/beyond-wcag-can-ai-agents-make-the-web-truly-adaptive-3kp2",
-   "source": "DEV Community",
-   "category": "figma",
-   "published_iso": "2026-10-12T19:31:49Z",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyuurl264c4s983duafwx.png",
-   "excerpt": "Explores AI agents that adapt websites to individual accessibility needs instead of expecting every user to fit one WCAG-compliant layout."
-  },
-  {
-   "title": "Designing a Test Contract for AI Font Interfaces",
-   "url": "https://dev.to/d11/designing-a-test-contract-for-ai-font-interfaces-o8a",
-   "source": "DEV Community",
-   "category": "tokens",
-   "published_iso": "2026-10-12T09:13:25Z",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F73atrg5qkq64nbfo9ku9.png",
-   "excerpt": "An AI font generator looks like a single input and button, but its small surface still needs a test contract covering prompts, glyph output and failure states."
-  },
-  {
-   "title": "Google is preparing Nano Banana 3 Pro upgrade",
-   "url": "https://www.testingcatalog.com/google-is-preparing-nano-banana-3-pro-upgrade/",
-   "source": "TestingCatalog",
-   "category": "figma",
-   "published_iso": "2026-10-12T21:42:33Z",
-   "og_image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/nanobananaprohero.width-1300.png",
-   "excerpt": "GemPix 3 Pro has appeared in Google's image citation functionality, hinting at a Nano Banana 3 Pro image model; no public release is confirmed."
-  },
-  {
-   "title": "Now AI isn't just faking art, it's faking artists' signatures as well",
-   "url": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well",
-   "source": "Creative Bloq",
-   "category": "figma",
-   "published_iso": "2026-10-12T09:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-   "excerpt": "ChatGPT has been signing its fake New Yorker-style cartoons with real cartoonists' names, raising new attribution problems for illustrators."
-  },
-  {
-   "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
-   "url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
-   "source": "Engadget",
-   "category": "render",
-   "published_iso": "2026-10-12T20:48:19Z",
-   "og_image": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg",
-   "excerpt": "Epic's Disney game is reportedly delayed after developers were ordered to use AI for both code and art asset creation."
-  },
-  {
-   "title": "BiteTheBytes unveils World Creator 4",
-   "url": "https://www.cgchannel.com/2026/10/bitethebytes-unveils-world-creator-4/",
-   "source": "CG Channel",
-   "category": "render",
-   "published_iso": "2026-10-12T06:30:00Z",
-   "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_WorldCreator4_f-960x480.jpg",
-   "excerpt": "The terrain generator's big update adds planet creation, a node-based authoring environment, a real-time render engine and an integrated MCP server so AI tools like Claude and ChatGPT can drive it."
-  },
-  {
-   "title": "ArtCraft Releases Free Open-Source Adobe Alternatives - FilmCraft for Premiere Pro, EffectCraft for After Effects",
-   "url": "https://www.cined.com/artcraft-releases-free-open-source-adobe-alternatives-filmcraft-for-premiere-pro-effectcraft-for-after-effects/",
-   "source": "CineD",
-   "category": "render",
-   "published_iso": "2026-10-12T09:36:45Z",
-   "og_image": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-   "excerpt": "ArtCraft released free, open-source Adobe alternatives rebuilt with AI-assisted reverse engineering, including FilmCraft for Premiere Pro and EffectCraft for After Effects."
-  },
-  {
-   "title": "Apple, Content Authenticity, and the War to Prove What's Real",
-   "url": "https://petapixel.com/2026/10/12/apple-content-authenticity-and-the-war-to-prove-whats-real/",
-   "source": "PetaPixel",
-   "category": "render",
-   "published_iso": "2026-10-12T14:01:37Z",
-   "og_image": "https://petapixel.com/assets/uploads/2026/10/the-war-to-prove-whats-real-2-1600x840.jpg",
-   "excerpt": "With AI generators producing photorealistic images of things that never happened, the piece examines Apple's role in content credentials and proving an image is real."
-  },
-  {
-   "title": "INSLOGIC and Neural4D launch \"From Prompt to Print\" campaign linking AI 3D generation with filament printing",
-   "url": "https://3dprintingindustry.com/news/inslogic-and-neural4d-launch-from-prompt-to-print-campaign-linking-ai-3d-generation-with-filament-printing-255583/",
-   "source": "3D Printing Industry",
-   "category": "cad",
-   "published_iso": "2026-10-12T12:30:00Z",
-   "og_image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/banner-1.png",
-   "excerpt": "Neural4D's text/image-to-3D generator is paired with INSLOGIC filament in a campaign taking users from an AI prompt to a printable physical model."
-  },
-  {
-   "title": "Design System in Code: What It Is and How to Build One",
-   "url": "https://www.eleken.co/blog-posts/design-system-in-code",
-   "source": "Eleken",
-   "category": "tokens",
-   "published_iso": "2026-10-12T14:30:51Z",
-   "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6acce9de62f3db13728deabb_cover.webp",
-   "excerpt": "How a code-first design system compares to Figma-only systems and UI kits, and how to build one that works for designers, developers and AI tools."
-  },
-  {
-   "title": "GPT-6's Intelligent UI in ChatGPT: What It Does and How to Use It",
-   "url": "https://www.mindstudio.ai/blog/gpt-6-intelligent-ui-chatgpt/",
-   "source": "MindStudio",
-   "category": "tokens",
-   "published_iso": "2026-10-10T00:00:00Z",
-   "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/51467608-045a-4cdf-9203-20130b680fe4.png?fm=auto&w=1200&h=630&fit=crop",
-   "excerpt": "GPT-6's intelligent UI turns ChatGPT text answers into interactive visuals, charts and tappable guides - a generative-UI shift in the chat surface."
-  },
-  {
-   "title": "Iris 3B: The Image Generator That Skips Latent Space Entirely",
-   "url": "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/",
-   "source": "MindStudio",
-   "category": "tokens",
-   "published_iso": "2026-10-10T00:00:00Z",
-   "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/6c1f5d1f-2866-4f5f-a7c8-0e7c2410fd66.png?fm=auto&w=1200&h=630&fit=crop",
-   "excerpt": "Iris 3B generates images directly in pixel space with no VAE, and the same weights handle depth estimation and upscaling."
-  },
-  {
-   "title": "AI Cloned Photoshop. What's Left of the Software Moat?",
-   "url": "https://www.mindstudio.ai/blog/ai-recreated-photoshop-software-moat/",
-   "source": "MindStudio",
-   "category": "tokens",
-   "published_iso": "2026-10-11T00:00:00Z",
-   "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/9035f055-2a57-4556-b442-33fd65c24bf9.png?fm=auto&w=1200&h=630&fit=crop",
-   "excerpt": "Open-source AI clones of Photoshop show creative software can now be rebuilt by watching it run; what that means for design-tool moats."
-  },
-  {
-   "title": "AI-pilled bosses and clients are turning designers into 'pixel pushers'",
-   "url": "https://www.fastcompany.com/91621558/ai-pilled-bosses-and-clients-turning-designers-into-pixel-pushers",
-   "source": "Fast Company",
-   "category": "workflow",
-   "published_iso": "2026-10-12T09:00:00Z",
-   "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621558-armchair-design-ceo.jpg",
-   "excerpt": "Designers say clients and managers now arrive with AI-generated mockups and 'just ask ChatGPT' direction, reducing them to fixing AI output instead of originating ideas."
-  },
-  {
-   "title": "Meta has some Wonder Full new AI models",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-   "source": "The Verge",
-   "category": "workflow",
-   "published_iso": "2026-10-12T17:00:00Z",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-   "excerpt": "Meta says its new Muse Wonder models compete with the industry's best and will soon power its multimodal Muse agent."
-  },
-  {
-   "title": "Real-Time AI Worlds in Focus at Visko and Google Cloud's October 14 LA Fireside Chat",
-   "url": "https://www.awn.com/news/real-time-ai-worlds-focus-visko-and-google-clouds-october-14-la-fireside-chat",
-   "source": "Animation World Network",
-   "category": "workflow",
-   "published_iso": "2026-10-09T23:48:43Z",
-   "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081522-visko-google-cloud-live-models-landscape-1280.jpg?itok=w4XccKHY",
-   "excerpt": "A Visko and Google Cloud session looks at AI-generated environments that respond to user input while keeping continuity, and what they mean for previs and virtual production."
-  },
-  {
-   "title": "FAST Video Voice Dubbing in Multiple Languages with ElevenCreative",
-   "url": "https://www.youtube.com/watch?v=plM_uqendqM",
-   "source": "DesignCourse",
-   "category": "social",
-   "published_iso": "2026-10-12T19:25:44Z",
-   "og_image": "https://i.ytimg.com/vi/plM_uqendqM/maxresdefault.jpg",
-   "excerpt": "DesignCourse dubs a design demo into Spanish, Tagalog and Vietnamese in his own voice with ElevenLabs, then fixes mistranslated terms line by line."
-  },
-  {
-   "title": "Every app on Earth is now open source... whether it likes it or not",
-   "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
-   "source": "Fireship",
-   "category": "social",
-   "published_iso": "2026-10-12T19:15:23Z",
-   "og_image": "https://i.ytimg.com/vi/wajoP_5Cpw8/maxresdefault.jpg",
-   "excerpt": "Fireship tests the AI-rebuilt, open-source Rust clones of seven Adobe apps and what AI-driven reimplementation means for creative software."
-  }
- ]
+  "date": "2026-10-14",
+  "section": "design",
+  "now_iso": "2026-10-13T22:03:28Z",
+  "window_hours": 72,
+  "items": [
+    {
+      "title": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
+      "url": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-10-13T08:00:00Z",
+      "excerpt": "A hands-on test of ArtCraft, the viral AI-coded open-source suite that clones Photoshop, Premiere and other Creative Cloud apps. The verdict: it isn't ready to replace Adobe's tools yet.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg"
+    },
+    {
+      "title": "Impeccable vs Taste Skill: which Claude design skill to use, tested",
+      "url": "https://dev.to/skillgild/impeccable-vs-taste-skill-which-claude-design-skill-to-use-tested-3d6i",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-10-13T17:53:52Z",
+      "excerpt": "Two Claude front-end design skills, Impeccable and Taste Skill, run on the same real brief and compared on the pages they built, cost, speed, invented facts and rule-following, with a recommendation on which to pick.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmedia.skillgild.dev%2Fmedia%2Fsite%2Fdevto%2Ffrontend-skills%2Fcover-impeccable-vs-taste-skill-1760x660.png"
+    },
+    {
+      "title": "Is your website AI slop? How to tell, and how to fix it",
+      "url": "https://dev.to/laurilllll/is-your-website-ai-slop-how-to-tell-and-how-to-fix-it-1fn5",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-10-13T18:57:55Z",
+      "excerpt": "A guide to spotting the tell-tale signs of generic AI-generated website design and copy, and practical fixes to restore a distinct visual and verbal identity.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkcuzbb03xxdg37u9z6p9.png"
+    },
+    {
+      "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
+      "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
+      "source": "Engadget",
+      "category": "figma",
+      "published_iso": "2026-10-13T17:00:00+00:00",
+      "excerpt": "Google is revamping the Play Store for the AI era, letting people publish Android apps they vibe-coded in AI Studio using only a Google account, alongside changes to publishing and recommendations.",
+      "og_image": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/l-intro-1791578617.jpg"
+    },
+    {
+      "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
+      "url": "https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "render",
+      "published_iso": "2026-10-13T00:00:00+00:00",
+      "excerpt": "Microsoft's MAI-Image-2.6 and the faster Flash variant can now generate and edit images through Vercel AI Gateway, with one API key, unified billing and request traces.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI",
+      "category": "render",
+      "published_iso": "2026-10-13T12:00:00Z",
+      "excerpt": "Higgsfield says GPT-6 Astra lets its creative agents keep consistency across videos longer than 10 minutes and call 3D-modeling tools, while GPT-Image-2.5 reliably renders text and infographics; its ~200 creatives prototype product ideas with Codex.",
+      "og_image": ""
+    },
+    {
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "source": "The Verge",
+      "category": "render",
+      "published_iso": "2026-10-13T13:55:45+00:00",
+      "excerpt": "After backlash over how its neural rendering altered game art, Nvidia's DLSS 5 arrives in Hogwarts Legacy with a toned-down look, as Nvidia stresses developers keep 'detailed artistic control' and ships a 2x faster model.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hogwarts-legacy-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+    },
+    {
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "source": "NVIDIA Blog",
+      "category": "render",
+      "published_iso": "2026-10-13T12:00:49+00:00",
+      "excerpt": "Ahead of the Oct. 16 RTX Spark laptop launch, Nvidia and Adobe rearchitect Photoshop and Premiere for up to 2x performance, RTX Video upscaling lands in ComfyUI, and Blender 5.3 gets DLSS Ray Reconstruction for real-time viewport previews.",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+    },
+    {
+      "title": "Nvidia launches USD BRep geometry kernel for solid modelling",
+      "url": "https://develop3d.com/cad/nvidia-launches-usd-brep-geometry-kernel-for-solid-modelling/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-10-13T12:10:48+00:00",
+      "excerpt": "Nvidia has launched a USD BRep geometry kernel for NURBS-based boundary-representation solid modelling, aiming to bring CAD geometry into OpenUSD and make greater use of AI in engineering design.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+    },
+    {
+      "title": "This game was made with AI in 30 minutes, and it's a bit of a wake-up call",
+      "url": "https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-10-13T13:03:10Z",
+      "excerpt": "Dragon Quest creator Yuji Horii built a playable game with AI in about 30 minutes, an experiment that makes game development look ridiculously easy and raises questions for game artists and designers.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/2RKozbdd7DCiBEENuUtAAC-1600-80.jpg"
+    },
+    {
+      "title": "Epic shifts to 'AI-accelerated development' for upcoming Disney game",
+      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-10-13T15:12:59+00:00",
+      "excerpt": "Epic Games is going all-in on AI, moving its upcoming Disney game to 'AI-accelerated development' that leans on AI for code and art production.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932925/acastro_STK108__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "Now AI isn't just faking art, it's faking artists' signatures as well",
+      "url": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-10-12T09:00:00Z",
+      "excerpt": "ChatGPT has been signing its fake New Yorker-style cartoons with real cartoonists' names, adding forged signatures to the attribution and copyright worries around AI image generation.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png"
+    },
+    {
+      "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
+      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-10-12T20:17:45Z",
+      "excerpt": "Anamol Rajbhandari argues AI is automating the middle of the design process, leaving work concentrated at the strategic top and the craft-and-judgment bottom, and reshaping what designer roles look like.",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+    },
+    {
+      "title": "The synth everyone owned and few could program: a lesson for AI design",
+      "url": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-10-13T09:03:24Z",
+      "excerpt": "Using the Yamaha DX7 and its presets as a parallel, Mathieu Poli argues AI made quality available to everyone and made it average; what sets design work apart now is a visible decision.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*VBnrM4huWLMjvsHgMb6uyQ.jpeg"
+    },
+    {
+      "title": "How to Hide a Cut in an AI Videos",
+      "url": "https://www.youtube.com/watch?v=x6r00_9kbtQ",
+      "source": "Higgsfield AI (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-13T06:00:25-07:00",
+      "excerpt": "Three editing techniques for making AI-generated scenes flow together: match the action, use a foreground wipe, and let sound lead the next shot.",
+      "og_image": "https://i.ytimg.com/vi/x6r00_9kbtQ/maxresdefault.jpg"
+    },
+    {
+      "title": "How I Make Motion Graphics Inside Claude Motion (Opus 5.5)",
+      "url": "https://www.youtube.com/watch?v=5HYYXYYCrL4",
+      "source": "Higgsfield AI (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-13T10:19:23-07:00",
+      "excerpt": "A walkthrough pushing Claude Motion plus Higgsfield through three challenges: an editable launch video, a 3D product ad, and a complete animated short, with prompts and skills shared.",
+      "og_image": "https://i.ytimg.com/vi/5HYYXYYCrL4/maxresdefault.jpg"
+    }
+  ]
 }

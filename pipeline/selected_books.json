@@ -1,150 +1,122 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "books",
   "picks": [
     {
-      "url": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
-      "title": "Caine Prize initiates ‘human-centred process’ after Zimbabwean winner accused of AI use",
-      "source": "The Bookseller",
+      "url": "https://japannews.yomiuri.co.jp/society/general-news/20261007-352595/",
+      "title": "Book Distributor Giant Nippan Sells Books to U.S. AI Developer Anthropic, Japan Book Publishers Association Requests Stoppage",
+      "source": "The Japan News (Yomiuri)",
       "category": "books",
-      "published_iso": "2026-10-12T11:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg",
-      "excerpt": "The Caine Prize for African Writing has released a statement following accusations made in the Atlantic that winner Simbarashe Kundizeza may have used AI.",
+      "published_iso": "2026-10-07T14:43:48+09:00",
+      "og_image": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+      "excerpt": "A Nippan subsidiary sold Japanese books to Anthropic between Dec 2024 and Dec 2025 without notifying publishers, likely for its book-scanning AI training project; the Japan Book Publishers Association has demanded the sales stop.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A major literary prize formally changes its judging process after an AI-use accusation against its winner. This is a concrete institutional response, separate from the earlier Orélien/Goncourt case."
+      "rationale": "Japan's biggest book distributor quietly sold books to Anthropic for scanning, and the publishers' association formally demanded it stop. This is a new, named supply-chain fight over training data."
     },
     {
-      "url": "https://news.lavx.hu/article/david-revoy-bans-ai-derivatives-of-pepper-carrot-and-all-his-work",
-      "title": "David Revoy bans AI derivatives of Pepper&Carrot and all his work",
-      "source": "LAVX News",
+      "url": "https://english.elpais.com/technology/2026-10-13/how-much-ai-is-in-spains-bestselling-books.html",
+      "title": "How much AI is in Spain's bestselling books?",
+      "source": "EL PAÍS English",
       "category": "books",
-      "published_iso": "2026-10-08T20:11:01.909Z",
-      "og_image": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg",
-      "excerpt": "The open-source comic artist added an 'AI derivation prohibited' clause to the Creative Commons licenses covering his art, lore, stories and comics, citing a flood of daily permission requests from st",
+      "published_iso": "2026-10-13T11:46:31+02:00",
+      "og_image": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+      "excerpt": "EL PAÍS ran 175 popular titles through the Pangram detector: no trace of AI in 2019, but now one in three self-published bestsellers is written mostly with AI, including a top-charting book by politician Alvise Pérez.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "A well-known open-licence comics creator adds an explicit no-AI-derivatives clause to CC-licensed work. Other creators can copy this licensing move directly."
+      "rationale": "An original data investigation: EL PAÍS ran 175 bestsellers through a detector and found that one in three self-published hits is mostly AI-written. It is hard numbers on how far AI has reached the charts."
     },
     {
-      "url": "https://news.aibase.com/news/31561",
-      "title": "AI Prompt Found in a Printed Book: 'The Road to the End' Mistook Proofreading Instructions for the Main Text, All Copies",
-      "source": "AIBase",
+      "url": "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/",
+      "title": "Publishers urged to join appeal for greater AI transparency",
+      "source": "Chytomo",
       "category": "books",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "og_image": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png",
-      "excerpt": "Recently, a reader posted about an absurd scene in the physical book 'The Road to the End': a sentence that reads, 'Please help me fine-tune some sentences so t",
+      "published_iso": "2026-10-12T17:55:20+00:00",
+      "og_image": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg",
+      "excerpt": "More than 150 publishers and organizations back the Frankfurt Appeal from the German Publishers and Booksellers Association, demanding that the EU and Germany require AI developers to disclose the works used to train their models.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "An AI editing prompt was printed in every copy of a published book. It is a vivid production-QA failure that tells editors exactly what to check before print."
+      "rationale": "More than 150 publishers have signed the Börsenverein's Frankfurt Appeal for mandatory disclosure of AI training works. It is a concrete industry demand that other publishers can still sign."
     },
     {
-      "url": "https://www.donga.com/news/It/article/all/20261008/134807824/1",
-      "title": "[스타트업-ing] 하이브마인드, K-웹소설 해외 문턱 낮춘다① AI가 허무는 번역비 장벽",
-      "source": "동아일보",
+      "url": "https://www.turkiyetoday.com/business/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182",
+      "title": "AI companies' book hunt sparks copyright concerns in Türkiye's publishing industry",
+      "source": "Türkiye Today",
       "category": "books",
-      "published_iso": "2026-10-08T10:47:01+09:00",
-      "og_image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-      "excerpt": "한국 콘텐츠 산업이 외형적으로 급성장하며 해외 진출을 늘리고 있지만, 웹소설은 영상 콘텐츠에 비해 여전히 높은 진입 장벽에 가로막혀 있다. 과도한 번역비는 물론, 출판과 유통(퍼블리싱) 과정에 대한 지원 체계가 미비해 시간과 비용 부담이 크기 때문이다.먼저 해외 진출…",
-      "source_lang": "ko",
+      "published_iso": "2026-10-13T09:08:24+03:00",
+      "og_image": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg",
+      "excerpt": "Turkish publishers warn that AI companies buying and scanning printed books without permission threatens copyright, while some see a potential new licensing revenue stream.",
+      "source_lang": "en",
       "tool": "Books",
-      "accent": "#2ec5c5",
+      "accent": "#ff5a4d",
       "motif": "swatch",
-      "rationale": "A named Korean startup uses AI translation to cut the cost of taking K-webnovels overseas. It is a concrete business model for AI-driven export of serialized fiction."
+      "rationale": "AI firms' bulk buying and scanning of print books has now reached Türkiye. Turkish publishers are split between treating it as a copyright threat and seeing a possible new licensing income, which shows the training-data hunt spreading to another market."
     },
     {
-      "url": "https://www.animenewsnetwork.com/interest/2026-10-10/yuriten-exhibit-cancels-10th-anniversary-event-after-artists-criticize-its-ai-use/.242698",
-      "title": "Yuriten Exhibit Cancels 10th Anniversary Event After Artists Criticize Its AI Use",
-      "source": "Anime News Network",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/",
+      "title": "Frankfurter Buchmesse 2026: Audible-Commissioned Survey Finds Audio Sends Readers Back to Print; Half Would Try AI Narration",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-10-12T17:00:00-04:00",
-      "og_image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHL/herald/202094/hulzsykboaapk7p2.jpeg",
-      "excerpt": "Organizers: Contractor used AI-generated imagery for planned Tokyo event",
+      "published_iso": "2026-10-09T09:01:08+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png",
+      "excerpt": "An Audible-commissioned NielsenIQ survey across 11 markets finds audiobooks pull listeners toward print and e-books, and that about half of listeners would be open to AI-narrated titles.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A manga/yuri art exhibition cancelled its anniversary event after artists objected to AI imagery from a contractor. It shows what AI use by vendors can cost when artists push back."
+      "rationale": "A new NielsenIQ survey across 11 markets finds about half of listeners are open to AI narration. It gives data to the AI-audiobook debate where earlier coverage had mostly opinion."
     }
   ],
   "alternates": [
     {
-      "url": "https://www.khan.co.kr/article/202610070600081",
-      "title": "유명 연예인이나 성우 목소리로 들었는데···듣는 소설, 오디오북도 이제 ‘AI 성우’ 시대?",
-      "source": "경향신문",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/101518-s-s-re-ups-with-h-m-wolfe-in-seven-figure-deal.html",
+      "title": "S&S Re-Ups with H.M. Wolfe in Seven-Figure Deal",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-10-07T06:00:00+09:00",
-      "og_image": "https://img.khan.co.kr/news/2026/10/07/news-p.v1.20261006.37412bd29d3543378eeca8080f0f85aa_P1.jpg",
-      "excerpt": "집필, 번역, 표지 제작 등 출판의 다양한 분야에 인공지능(AI) 기술이 사용되고 있는 가운데 오디오북 시장에도 AI의 사용이 확대되고 있다. 교보문고 온라인 사이트에서 ‘오디오북’을 검색하고 인기순으로 정렬하면 첫 페이지에서 AI가 사용된 오디오북을 쉽게 찾을 수 있다. 종이책에 저자와 번역자 정보를 표시하는 것처럼 오디오북도 낭독자 정보를 공개한다...",
-      "source_lang": "ko",
+      "published_iso": "2026-10-13T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132156-1.PNG",
+      "excerpt": "Simon & Schuster signs a seven-figure romantasy duology deal with H.M. Wolfe, months after The Atlantic cited a Pangram detector reading of 60% AI to claim her hit Daggermouth was AI-assisted.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#3b6bff",
       "motif": "swatch",
-      "rationale": "Korean audiobook market check: AI narrators already fill Kyobo's top audiobook listings, which raises the question of narrator disclosure."
-    },
-    {
-      "url": "https://www.hani.co.kr/arti/culture/book/1281601.html",
-      "title": "‘나도 작가’ AI 출판 붐, 도서관이 앞장설 일인가 [.txt]",
-      "source": "한겨레",
-      "category": "books",
-      "published_iso": "2026-10-09T05:00:00+09:00",
-      "og_image": "https://flexible.img.hani.co.kr/flexible/normal/999/667/imgdb/original/2026/1008/20261008503716.webp",
-      "excerpt": "경기도의 한 공공도서관에서는 연중 ‘에이아이(AI)로 작가 되기’ 프로그램을 운영했다. 생성형 인공지능(AI)을 이용해 그림책을 만드는 과정이다. ‘챗지피티’를 활용한 주제 선정과 스토리텔링, ‘미드저니’를 활용한 캐릭터와 삽화 생성, 표지 디자인 및 편집, 여기에 국",
-      "source_lang": "ko",
-      "tool": "Books",
-      "accent": "#ff5a4d",
-      "motif": "swatch",
-      "rationale": "Public libraries running 'become an author with AI' picture-book programs; critical column, lower novelty."
-    },
-    {
-      "url": "https://www.avclub.com/ai-new-yorker-cartoons-stand-up-comics",
-      "title": "AI has come for comics on stage and in The New Yorker",
-      "source": "The A.V. Club",
-      "category": "books",
-      "published_iso": "2026-10-05T23:24:42+00:00",
-      "og_image": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/26132457/MixCollage-26-Mar-2025-01-23-PM-5063.jpg",
-      "excerpt": "AI has come for comics on stage and in The New Yorker",
-      "source_lang": "en",
-      "tool": "Books",
-      "accent": "#ff2d55",
-      "motif": "swatch",
-      "rationale": "AI-generated cartoons appearing in The New Yorker; older (10-05) and the og_image is a stale 2025 collage."
+      "rationale": "A book-deal story where AI is only background context. The detection theme is already covered by El País."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use": {
+      "https://japannews.yomiuri.co.jp/society/general-news/20261007-352595/": {
         "verdict": "new",
-        "nearest": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
         "new_action": ""
       },
-      "https://news.lavx.hu/article/david-revoy-bans-ai-derivatives-of-pepper-carrot-and-all-his-work": {
+      "https://english.elpais.com/technology/2026-10-13/how-much-ai-is-in-spains-bestselling-books.html": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises",
         "new_action": ""
       },
-      "https://news.aibase.com/news/31561": {
+      "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/": {
         "verdict": "new",
-        "nearest": "https://fortune.com/2026/10/06/steven-rosenbaum-future-of-truth-ai-hallucinated-quotes/",
+        "nearest": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-eu-ai-act-gives-publishers-leverage-but-no-teeth/",
         "new_action": ""
       },
-      "https://www.donga.com/news/It/article/all/20261008/134807824/1": {
+      "https://www.turkiyetoday.com/business/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.joongang.co.kr/article/25468823",
         "new_action": ""
       },
-      "https://www.animenewsnetwork.com/interest/2026-10-10/yuriten-exhibit-cancels-10th-anniversary-event-after-artists-criticize-its-ai-use/.242698": {
+      "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101500-frankfurt-book-fair-2026-audible-wants-to-turn-every-book-into-an-audiobook.html",
         "new_action": ""
       }
     },
-    "note": "Dropped as same story as published: Good e-Reader Audible AI features (TechCrunch 10-01/02, per orchestrator); Toniebox CEO at FBF (PP Tonies 10-10); PW Jill Lepore keynote (PP Lepore 10-07); The Cool Down Kevin Roose AI fake (Futurism 10-12); Korea Daily used-book bulk purchases (JoongAng 10-12, and aimatters 09-26); Voice Over Herald Spotify 180 markets (PW 10-11); 매일일보 Mentat profile (kyosu 09-30); Gizmodo publishers using AI covers and AI포스트 publishers hypocrisy (both re-report the Atlantic/Wired story, Wired 10-10); ALLi summary (lead item is the OpenAI study motion from janefriedman 10-03). Dropped as commentary or not substantively about AI: NST human-authored labels column (UK IPO mark 10-09 and Boersenblatt label 10-10 already published); PW Three Views of Innovation; PP new Frankfurt chief; WIRED Kindle Aluminum review; DW explainer video; 주간경향 Jang Kang-myung book notice. No cluster conflicts. Outlets: 5 distinct, one per outlet."
+    "note": "SWAP PASS: removed Tech Xplore IdeaLens detector (https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html) because the science section also picked it today (cross-section clash; it is about academic writing, so science keeps it). Replaced with Türkiye Today on AI firms buying and scanning books in Türkiye. AI is central, and no Turkish-market story appears in the 30-day history_digest. Nearest are JoongAng 10-12 (Korean association probe of used-book buying), aimatters 09-26 (Japanese used-book exports) and EWC 10-05 (book shredding). Each of those covers a different country or actor, so this is a distinct story, not a repeat. It shares a theme with the Nippan pick but covers a separate market and event. PW S&S/H.M. Wolfe was rejected because AI is only background to a book deal. It stays an alternate. CBC Orélien denial is still dropped as a reaction in the same running story as Bookseller 09-24 / Guardian 09-26. Original-pass drops still stand: Nippan carries history_match (related, Authors Guild/Anthropic 10-01) but is a different event. The Vulture Anthropic settlement split is the same story as PW Authors Guild 10-01. Good e-Reader Expert Intelligence is a rollout recap of Bookseller 09-15. Dropped for low novelty: Chytomo FBF opening, Bookseller FBF conversations roundup, Bookseller editor op-ed, Good e-Reader CastReader how-to. No cluster conflicts. Outlets: 5 distinct, one per outlet."
   }
 }

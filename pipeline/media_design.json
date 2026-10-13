@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-13",
-  "section": "design",
-  "media": [
-    {
-      "id": "design-world-creator-4-mcp",
-      "type": "image",
-      "src": "pipeline/media/design-world-creator-4-mcp.jpg"
-    },
-    {
-      "id": "design-figma-wp-blueprint-claude-code",
-      "type": "image",
-      "src": "pipeline/media/design-figma-wp-blueprint-claude-code.png"
-    },
-    {
-      "id": "design-ai-clients-pixel-pushers",
-      "type": "image",
-      "src": "pipeline/media/design-ai-clients-pixel-pushers.jpg"
-    },
-    {
-      "id": "design-accessibility-agent-ux",
-      "type": "image",
-      "src": "pipeline/media/design-accessibility-agent-ux.png"
-    },
-    {
-      "id": "design-iris-3b-pixel-space",
-      "type": "image",
-      "src": "pipeline/media/design-iris-3b-pixel-space.jpg"
-    }
-  ]
-}
+{"date":"2026-10-14","section":"design","media":[
+ {"id":"design-play-store-vibe-coded-apps","type":"image","src":"pipeline/media/design-play-store-vibe-coded-apps.jpg"},
+ {"id":"design-nvidia-usd-brep-kernel","type":"image","src":"pipeline/media/design-nvidia-usd-brep-kernel.jpg"},
+ {"id":"design-rtx-spark-creative-apps","type":"video","src":"pipeline/media/design-rtx-spark-creative-apps.mp4","poster":"pipeline/media/design-rtx-spark-creative-apps.jpg"},
+ {"id":"design-higgsfield-ten-minute-video","type":"image","src":"pipeline/media/design-higgsfield-ten-minute-video.png"},
+ {"id":"design-ai-forged-cartoonist-signatures","type":"image","src":"pipeline/media/design-ai-forged-cartoonist-signatures.png"}
+]}

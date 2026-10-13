@@ -1,150 +1,106 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "science",
   "picks": [
     {
-      "url": "https://www.scientificamerican.com/article/a-unique-shape-a-3d-einstein-tile-has-been-discovered/",
-      "title": "A unique shape, a 3D einstein tile, has been discovered",
-      "source": "Scientific American",
+      "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+      "title": "How artificial neural networks build their own learning machinery",
+      "source": "MIT News",
       "category": "science",
-      "published_iso": "2026-10-12T06:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
-      "excerpt": "AI helped uncover a special object that can fill space without repeating patterns",
+      "published_iso": "2026-10-13T17:00:00-04:00",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg",
+      "excerpt": "MIT neuroscientists showed that a randomly connected artificial neural network, given simple rules about how and when connections should change, can reshape itself into an efficient self-supervised learning system.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "AI-assisted discovery of a 3D aperiodic monotile is a fresh, concrete mathematical result; recent math-AI cards covered proofs, curves and sphere packing, never tilings."
+      "rationale": "Fresh MIT McGovern result on how simple plasticity rules let a random network self-organize into a self-supervised learner; basic neuroscience x AI, not covered before."
     },
     {
-      "url": "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html",
-      "title": "AI platform and database map protein phase separation across species",
-      "source": "Phys.org",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "title": "Gemini 4 Argon for Robotics",
+      "source": "Google DeepMind",
       "category": "science",
-      "published_iso": "2026-10-12T09:20:16-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2018/fungi.jpg",
-      "excerpt": "NTU Singapore researchers used large language models to mine PubMed for phase-behavior data and built PLATO, a database of ~5,118 tested protein sequences, plus PhaseHub, which uses the MolPhase machine-learning predictor to map protein phase separation across 1,106 species (Molecular Plant).",
+      "published_iso": "2026-10-13T16:01:58+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
+      "excerpt": "Google says Gemini 4 Argon leads the ERQA embodied-reasoning benchmark, with physical reasoning, zero-shot robot control, Real2Sim and agentic workflows for robotics.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New open resource (PLATO + PhaseHub) built with LLM literature mining and an ML predictor across 1,106 species; basic biology, no disease target, so it belongs in science."
+      "rationale": "New primary-source model release for embodied reasoning and zero-shot robot control (Real2Sim); highest-novelty item in the pool, from the lab itself."
     },
     {
-      "url": "https://phys.org/news/2026-10-nature-lovers-aid-ecology-ai.html",
-      "title": "How nature lovers can aid ecology with an assist from AI",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-10-12T11:40:20-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-nature-lovers-can.jpg",
-      "excerpt": "University of Michigan researchers used ChatGPT and Claude to find and classify species-interaction observations buried in eBird and iNaturalist comments, surfacing signs of nonnative plant spread on the U.S. West Coast; a task taking a student eight hours took Claude six minutes (PNAS).",
-      "source_lang": "en",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "PNAS study using LLMs to mine citizen-science notes, with a hard speedup figure (8 hours to 6 minutes); actionable method for any researcher sitting on free-text field data."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-10-approach-sustainable-ai-offloading-burden.html",
-      "title": "A new approach to sustainable AI: Offloading part of the computational burden onto light",
+      "url": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
+      "title": "New detector spots AI-generated work by examining ideas, not words",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-10T06:55:27-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-approach-to-sust-5.jpg",
-      "excerpt": "Koç University researchers built two photonic systems that move part of AI computation onto light: a programmable optical neural network that learns from experimental measurements (raising skin-lesion classification accuracy from 68% to 98%) and a multimode fiber laser that processes images at 85-99% accuracy with fewer trainable parameters (Communications Engineering / Communications Physics).",
+      "published_iso": "2026-10-13T12:23:30-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+      "excerpt": "University of Maryland, Google DeepMind and SFU researchers built IdeaLens, which judges whether a text's ideas came from AI, catching 91% of fully AI-written documents with a 0.6% false-alarm rate.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Two peer-reviewed photonic computing systems (Koç University) with measured accuracy gains; a distinct group and design from the earlier LightTok chip and light-powered deepfake detector."
+      "rationale": "IdeaLens detects AI authorship at the idea level with hard numbers (91% recall, 0.6% false alarms); a new method, distinct from the earlier optical deepfake detector."
     },
     {
-      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-      "title": "Is 'Attention' the Essence of Intelligence?",
-      "source": "Quanta Magazine",
+      "url": "https://phys.org/news/2026-10-rangers-reimagine-ai-wildlife.html",
+      "title": "Rangers reimagine AI in wildlife monitoring",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-12T14:20:30+00:00",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Social.jpg",
-      "excerpt": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key?",
+      "published_iso": "2026-10-13T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+      "excerpt": "Indigenous rangers in West Arnhem, Australia, with CDU and CSIRO researchers, ran the MegaDetector AI model on about 1,572 hours of camera-trap footage and cut the images needing human review by roughly 81%.",
       "source_lang": "en",
       "tool": "Science",
-      "accent": "#3b6bff",
+      "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Quanta explainer linking transformer attention to attention in cognitive science; a credible outlet, a fifth distinct source, and no overlap with the 30-day history (the 10-11 Quanta card was about AI and math)."
-    }
-  ],
-  "alternates": [
-    {
-      "url": "https://www.psychologytoday.com/us/blog/time-travel-across-borders/202610/when-imagining-the-future-of-ai-gen-zers-are-not-optimistic",
-      "title": "When Imagining the Future of AI, Gen-Zers Are Not Optimistic",
-      "source": "Psychology Today",
-      "category": "science",
-      "published_iso": "2026-10-12T17:18:10-04:00",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-10/jackson-sophat-tq3sgrw9lkm-unsplash.jpg?itok=4aRwTS5z",
-      "excerpt": "A soon-to-be-published study shows Gen-Zers imagine more worrying than exciting events regarding AI, yet attitudes toward technology and one's politics play a role.",
-      "source_lang": "en",
-      "tool": "Science",
-      "accent": "#ff5a4d",
-      "motif": "sphere",
-      "rationale": "A psychology study preview on how Gen Z imagines the future of AI; new data, but it comes from a blog write-up of an unpublished paper."
+      "rationale": "Field ecology deployment of MegaDetector by Indigenous rangers with a concrete 81% review-load cut; a different project and method from yesterday's LLM citizen-science card."
     },
     {
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "title": "We're putting too much faith in AI's ability to say no",
-      "source": "MIT Technology Review",
-      "category": "science",
-      "published_iso": "2026-10-09T05:00:00-04:00",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
-      "excerpt": "Today's LLMs are engineered to disobey dangerous requests. But AI refusal is far from foolproof—and could become an instrument of repression.",
-      "source_lang": "en",
-      "tool": "Science",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "rationale": "An op-ed on the limits of LLM refusal; credible outlet, but it is commentary."
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/how-attachment-theory-can-help-us-understand-ai-relationships/",
-      "title": "How attachment theory can help us understand AI relationships",
+      "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+      "title": "Scientists worry AI is stealing their ideas",
       "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-04T06:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg?m=1785858312.019&w=1200",
-      "excerpt": "Attachment is the term psychologists use for the most significant relationships that hold people's lives together",
+      "published_iso": "2026-10-13T08:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+      "excerpt": "Researchers are using AI as a sounding board throughout their work, but concerns are growing that companies may present users' ideas as those of their models.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "A psychology framing of human-AI relationships; older (10-04) and essay-style."
+      "rationale": "Timely look at idea attribution when researchers brainstorm with AI; pairs with the IdeaLens card and is a different angle from the 9/29 'when can AI claim a discovery' piece."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.scientificamerican.com/article/a-unique-shape-a-3d-einstein-tile-has-been-discovered/": {
+      "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013": {
         "verdict": "new",
-        "nearest": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
+        "nearest": "https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html": {
+      "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-ai-hidden-human-proteins-reveals.html",
+        "nearest": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-nature-lovers-aid-ecology-ai.html": {
+      "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
+        "nearest": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-approach-sustainable-ai-offloading-burden.html": {
+      "https://phys.org/news/2026-10-rangers-reimagine-ai-wildlife.html": {
         "verdict": "new",
-        "nearest": "https://www.livescience.com/technology/electronics/new-lighttok-chip-converts-light-directly-into-tokens-for-ai-slashing-energy-use-in-drones-and-other-autonomous-machines",
+        "nearest": "https://phys.org/news/2026-10-nature-lovers-aid-ecology-ai.html",
         "new_action": ""
       },
-      "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/": {
+      "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
+        "nearest": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats: the Tech Xplore '10 minutes of AI erodes persistence' story (likely-repeat of the EurekAlert card published 2026-10-10, same COLM study) and the Ai2 COLM 2026 recap (a roundup of Olmo Hybrid/Asta/Bolmo, which were already published as AstaBrief on 10-08 and Bolmo on 10-10; no new release). Swapped on coordinator request: the DOE Genesis Mission $159M awards are treated as funding noise under the run rules and were replaced by the Quanta attention column. The Live Science rogue-agent liability feature was skipped because it overlaps the AI-agent liability bill claimed by politics today; nothing here covers the Ars 'Claude false murder tip' story. Dropped on scoring: opinion and commentary pieces (Psychology Today 'Good Enough AI' and 'algorithmic self', Live Science on GPT-6 Astra AGI claims), the evergreen GEN multiomics overview, and the STAT researcher profile, which fits medicine more than science. Diversity: Phys.org has 2 cards and the 5 picks come from 4 outlets. No item is biosecurity-adjacent."
+    "note": "Pool 16 (heat-shield X-ray story already auto-dropped as repeat of 10-06 Universe Today card). Dropped: LMU byte-level LLM retrofit (likely-repeat of 10-10 allenai.org/blog/bolmo-nature, same retrofit-to-bytes story). Skipped as medicine-side/clinical: SPACER tumor-immune model (cancer immunotherapy), LEMon-AID psychosis risk, AI rabies testing (diagnostic, also kept away from pathogen topics), ISARS malaria mosquito device (student prototype, no efficacy data), Live Science biological-age reader poll (reader reactions, health). Lower-ranked but clean: MSR StudentSim (education tooling), CISPA watermark durability (10-09, older), Honda orbital lab robot, SciAm attachment-theory essay (10-04, evergreen). The MIT pick's history_match (9/22 physical-AI hardware) is a different topic (neuromorphic hardware vs. plasticity rules in a simulated network). Ecology pick is distinct from 10-13 nature-lovers card (camera-trap MegaDetector vs. LLM mining of eBird/iNaturalist notes). Five distinct outlets, no shared URLs."
   }
 }

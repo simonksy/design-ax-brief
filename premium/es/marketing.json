@@ -907,6 +907,97 @@
           "x": "El único resultado cuantificado es el de un probador: el tendero Tom Mulholland dice que Muse le ahorró al menos 15 minutos en la gestión de nóminas. Muse es gratuito para la mayoría de usos, con planes de suscripción cuyos precios Meta no ha indicado. Los ingresos de Meta en el Q2 de 2026 fueron de 60.800 millones de dólares, más del 97 % procedentes de la publicidad."
         }
       ]
+    },
+    "marketing/marketing-amex-agent-purchase-intent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+        },
+        {
+          "t": "p",
+          "x": "American Express presenta un marco diseñado para captar y autenticar la intención de compra de un cliente antes de que un agente de AI complete la transacción. Bautizado como “Intent Intelligence Framework”, la compañía espera que se convierta en un estándar del sector para las transacciones AI-powered."
+        },
+        {
+          "t": "p",
+          "x": "Todo empieza con una Create Intent API que recoge las instrucciones y restricciones de compra del cliente, como el nombre del comercio y el presupuesto máximo. El cliente se autentica y da su aprobación, y entonces se crean un Intent ID y un Proof of Intent Token. El token sirve para obtener una credencial de pago segura que el agente usa al pagar en lugar del número real de la tarjeta."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestro enfoque se diferencia de las implementaciones de otros en que adelanta la intención dentro del flujo de la transacción”, dijo Hannah Bozian, VP de Agentic Partnerships and Strategy de Amex. Si un cliente pide zapatillas Nike blancas de la talla 9 pero el agente intenta comprar Adidas, Amex podría detener la transacción."
+        },
+        {
+          "t": "p",
+          "x": "Amex afirmó que aún no ha visto más disputas derivadas del comercio agéntico. El marco se suma a su ACE Developer Toolkit, lanzado en abril."
+        }
+      ]
+    },
+    "marketing/marketing-salesforce-koa-crm-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+          "cap": "Salesforce conecta Koa, entrenado con 27 años de simulaciones de CRM, junto a Claude y ChatGPT"
+        },
+        {
+          "t": "p",
+          "x": "Salesforce publicó una entrevista en la que su Chief Data Officer, Michael Andrew, sostuvo que los clientes deberían poder alternar entre modelos de AI de frontera, abiertos y personalizados, entre ellos Koa, el primer modelo de razonamiento para CRM de la compañía, que según la empresa se creó con NVIDIA y se entrenó con simulaciones extraídas de 27 años de operar flujos de trabajo de CRM."
+        },
+        {
+          "t": "p",
+          "x": "Koa se “orquesta junto a los modelos de frontera, no en lugar de ellos”. La página no da número de parámetros, puntuación en benchmarks, precio ni fecha de disponibilidad."
+        },
+        {
+          "t": "p",
+          "x": "“Los distintos modelos tienen distintas fortalezas y debilidades, y cambian todo el tiempo”, dijo Andrew. “La AI es un combustible… queremos que ese combustible pueda venir de cualquier parte, ya sea de Anthropic y Claude o de OpenAI y ChatGPT”."
+        },
+        {
+          "t": "p",
+          "x": "El mensaje sobre la libertad de elección llega seis semanas después de que la alianza Claudeforce convirtiera a Claude en el modelo predeterminado de Slack y de varias superficies de Agentforce. Para los profesionales del marketing, el modelo detrás de un agente de CRM determina el tiempo de respuesta, la fiabilidad y los costes de consumo."
+        }
+      ]
+    },
+    "marketing/marketing-bannerflow-attention-scoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+          "cap": "Los mapas de calor de Bannerflow predicen la atención de un anuncio antes de invertir, con cero datos de validación que respalden las puntuaciones"
+        },
+        {
+          "t": "p",
+          "x": "Bannerflow puso nombre a las herramientas de AI de su plataforma creativa. La suite, Creative Intelligence, agrupa la generación de imágenes, la puntuación predictiva de atención, una capa de análisis de rendimiento y los anuncios dinámicos basados en feeds en cuatro etapas: Create, Evaluate, Understand y Act and scale."
+        },
+        {
+          "t": "p",
+          "x": "La puntuación predictiva usa “mapas de calor de atención, análisis de foco y puntuación de claridad” para indicar qué tan probable es que una creatividad “capte la atención antes de comprometer el presupuesto de la campaña”, y señala los elementos que distraen. Creative Insights relaciona elementos como las llamadas a la acción, el color y el ritmo de la animación con el rendimiento. Los equipos también pueden generar, ampliar y escalar imágenes y configurar feeds de productos en lenguaje sencillo."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio no ofrece fechas de disponibilidad, precios ni datos de validación de sus modelos predictivos. “Los equipos de marketing tienen más datos de rendimiento que nunca, pero muy pocos inspiran la siguiente pieza creativa”, dijo el Chief Product Officer, Moses Velasco."
+        }
+      ]
+    },
+    "marketing/marketing-google-ai-mode-rx-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+          "cap": "John Keeble via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Google está probando anuncios de medicamentos de marca con receta en AI Mode y AI Overviews, con lo que abre su plataforma de búsqueda con AI a una de las categorías más reguladas de la publicidad, según confirmó la compañía a ADWEEK."
+        },
+        {
+          "t": "p",
+          "x": "Las pruebas con productos farmacéuticos, incluidos los medicamentos con receta, comenzaron este mes y se limitan a U.S, según un portavoz de Google. Los anunciantes farmacéuticos pueden publicar anuncios de texto estándar y de Shopping, que aparecerán en secciones etiquetadas como “Sponsored”."
+        },
+        {
+          "t": "p",
+          "x": "“Estamos probando anuncios de texto estándar y de Shopping en AI Mode y AI Overviews, que recientemente ampliamos para incluir ciertos productos farmacéuticos”, dijo un portavoz de Google en un comunicado."
+        }
+      ]
     }
   }
 }

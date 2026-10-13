@@ -7170,6 +7170,82 @@
           "x": "Microsoft and Meta have their own standards for watermarking and verifying content. However, these tools are not infallible, often failing to identify content created by their makers’ models."
         }
       ]
+    },
+    "music/music-hypebot-ai-likeness-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In her monthly Lalu's Corner column, music and brand partnership agent Lauren Thackray starts with Addison Rae's Fortnite skin, built from ten selfies she sent Epic Games herself. She said yes to all of it. The questions that follow: who gets to create a digital version of someone, what can they do with it, and how much control does the person keep?"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+        },
+        {
+          "t": "p",
+          "x": "For many artists, the first question is already being answered without them: Jason Isbell and other musicians sued Suno over the use of artists’ identities; deadmau5 found an AI-generated deepfake of himself endorsing another DJ; and “I Run” went viral with vocals that sounded just like Jorja Smith."
+        },
+        {
+          "t": "p",
+          "x": "The major labels differ. Universal sued Suno while reaching a settlement and licensing deal with Udio; Sony has no licensing deal and leans on takedowns; Warner has pursued agreements with artist opt-in provisions."
+        },
+        {
+          "t": "p",
+          "x": "Thackray points to SAG-AFTRA's 2024 deal with Replica Studios as the clearest public model and argues that control of an artist's digital version should sit with an entity the artist majority-controls, licensed out use by use."
+        }
+      ]
+    },
+    "music/music-laroche-digital-blackface": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "V7C7A4GYxaA"
+        },
+        {
+          "t": "p",
+          "x": "In this video, which he describes as an opinion piece, producer Louis La Roche looks at what he calls the growing trend of 'digital blackface' in AI music: AI being used to present as a race other than that of the person who prompted it."
+        },
+        {
+          "t": "p",
+          "x": "He argues that Suno and other AI music platforms mimic their training data rather than create original music, and points to the lawsuits Suno has faced."
+        },
+        {
+          "t": "p",
+          "x": "He then presents AI personas on Spotify that he says are made to pass as Black artists, and names the men he says are behind them. These claims are his own and have not been independently verified here."
+        }
+      ]
+    },
+    "music/music-tencent-musicbuddy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://routenote.com/radar/wp-content/uploads/2026/10/routenote_high_angle_view_a_phone_in_the_center_and_a_silver__f4257022-0f11-41f2-8dbe-44c0288c9ac6_3.png"
+        },
+        {
+          "t": "p",
+          "x": "Tencent Music is testing a new AI-powered music platform called MusicBuddy, designed to help artists create, edit, release and promote music from one place. It is currently being internally tested and has not yet been widely released to the public."
+        },
+        {
+          "t": "p",
+          "x": "The platform combines AI song generation with a traditional multitrack music editor. Vocals, drums and instrumental parts sit on separate tracks, but instead of adjusting every parameter, users can ask MusicBuddy in natural language to change an instrument, alter an arrangement, adjust volume, modify reverb or rewrite lyrics."
+        },
+        {
+          "t": "p",
+          "x": "Creators can write lyrics and generate music around them, describe an idea in a sentence, or build a song through an ongoing AI conversation. Reports suggest it can also weigh previous song performance, fan preferences and current trends before suggesting creative directions."
+        },
+        {
+          "t": "p",
+          "x": "MusicBuddy reportedly includes distribution across multiple platforms and can help generate promotional materials, including music videos and posters. It sits alongside Tencent's WorkBuddy, CodeBuddy, DataBuddy and CraftBuddy agents; Tencent Music said earlier in 2026 that its AI music production technology had been used by more than 150,000 artists and more than 10 million users."
+        },
+        {
+          "t": "p",
+          "x": "The website is live, but the service remains in testing and isn't open for unrestricted public registration. Tencent Music has not confirmed international availability or pricing."
+        }
+      ]
     }
   }
 }

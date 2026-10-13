@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "section": "books",
   "cards": [
     {
-      "id": "books-caine-prize-kundizeza-ai",
+      "id": "books-nippan-anthropic-sales",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Caine Prize,\n수상자 AI 의혹에 대응",
-      "body": "Caine Prize가 Simbarashe Kundizeza의 AI 의혹에 답했다.",
-      "mini_headline": "Caine Prize, AI 의혹 대응",
+      "headline": "출판계 Nippan에 요구\nAnthropic 판매중단",
+      "body": "Nippan 자회사가 2024년12월~2025년12월 Anthropic에 판매했다.",
+      "mini_headline": "Nippan의 Anthropic 도서 판매",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
+      "source": "The Japan News (Yomiuri)",
+      "url": "https://japannews.yomiuri.co.jp/society/general-news/20261007-352595/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,215 +19,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+            "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+            "cap": "U.S. 법원 문서에 실린 창고 내부 모습. 수집한 책을 대량으로 보관한 곳으로 보인다"
           },
           {
             "t": "p",
-            "x": "Atlantic이 수상자 Simbarashe Kundizeza가 AI를 썼을 수 있다고 의혹을 제기하자, Caine Prize for African Writing이 성명을 냈다."
+            "x": "대형 도서 유통사 Nippan Group Holdings, Inc.의 자회사가 출판사에 알리지 않고 U.S. 인공지능 개발사 Anthropic PBC에 일본 책을 팔았다. 출판업계 관계자들에 따르면 일본서적출판협회(Japan Book Publishers Association)가 이 문제를 묻자 Nippan은 판매 사실을 인정하는 답변을 보냈다."
           },
           {
             "t": "p",
-            "x": "상 측은 짐바브웨 출신 수상자의 AI 사용 의혹을 놓고, 스스로 '인간 중심 절차(human-centred process)'라 부르는 과정에 들어간다."
+            "x": "Anthropic은 AI 학습용으로 책을 대량 스캔하는 프로젝트를 진행해 온 것으로 보인다. 여기에 일본 책도 들어갔을 수 있다. 법원 문서를 보면 Anthropic은 유럽, 미국(United States), 아시아 유통사들에서 책을 대량으로 사들였는데 그중에 “Nippan Japan”이라는 회사도 있었다."
+          },
+          {
+            "t": "img",
+            "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+          },
+          {
+            "t": "p",
+            "x": "협회는 Nippan에 AI 학습용 도서 공급과 판매를 멈추라고 요구했다. Nippan은 2024년 12월부터 2025년 12월까지 판매한 사실은 인정했지만 책을 AI 학습용으로 사 가는 줄은 몰랐다고 주장한 것으로 전해졌다."
+          },
+          {
+            "t": "p",
+            "x": "일본 저작권법(Copyright Law)의 Article 30-4는 저작권자의 이익을 부당하게 해치지 않는 한 허락 없이 저작물을 AI 학습에 쓸 수 있게 한다. 한 출판사 고위 임원은 “일본의 출판 문화를 지켜야 할 위치에 있는 Nippan이 바로 그 문화를 훼손하는 행위를 하는 것은 용납할 수 없다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Caine Prize responds to\nAI claim against its winner",
-          "body": "The Caine Prize initiates a human-centred process after claims its winner Simbarashe Kundizeza may have used AI.",
-          "mini_headline": "Caine Prize answers AI claim",
+          "headline": "Publishers tell Nippan to stop\nselling books to Anthropic",
+          "body": "A Nippan subsidiary sold Japanese books to Anthropic from Dec 2024 to Dec 2025 without telling publishers.",
+          "mini_headline": "Nippan's Anthropic book sales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+                "cap": "From U.S. court documents: a view inside a warehouse where a large volume of collected books are believed to be stored"
               },
               {
                 "t": "p",
-                "x": "The Caine Prize for African Writing has released a statement following accusations made in the Atlantic that winner Simbarashe Kundizeza may have used AI."
+                "x": "A subsidiary of major book distributor Nippan Group Holdings, Inc. has sold Japanese books to U.S. artificial intelligence developer Anthropic PBC without notifying the publishers. The Japan Book Publishers Association inquired about the matter and received a response from Nippan confirming the sales, according to publishing industry sources."
               },
               {
                 "t": "p",
-                "x": "In response, the prize is initiating what it calls a 'human-centred process' after the Zimbabwean winner was accused of AI use."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Caine Prize,\n수상자 AI 의혹에 대응",
-          "body": "Caine Prize가 Simbarashe Kundizeza의 AI 의혹에 답했다.",
-          "mini_headline": "Caine Prize, AI 의혹 대응",
-          "full": {
-            "mode": "summary",
-            "blocks": [
+                "x": "Anthropic is believed to have been conducting a project to scan large quantities of books for AI training, and Japanese books may have been included. According to court documents, Anthropic had been purchasing large quantities of books from distributors in Europe, the United States and Asia, among them a company named “Nippan Japan.”"
+              },
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
               },
               {
                 "t": "p",
-                "x": "Atlantic이 수상자 Simbarashe Kundizeza가 AI를 썼을 수 있다고 의혹을 제기하자, Caine Prize for African Writing이 성명을 냈다."
+                "x": "The association demanded that Nippan cease the supply and sale of books intended for AI training. Nippan reportedly acknowledged sales between December 2024 and December 2025, but claimed it was not aware the books were being purchased for AI training."
               },
               {
                 "t": "p",
-                "x": "상 측은 짐바브웨 출신 수상자의 AI 사용 의혹을 놓고, 스스로 '인간 중심 절차(human-centred process)'라 부르는 과정에 들어간다."
+                "x": "Article 30-4 of Japan’s Copyright Law permits the use of works for AI training without permission, unless it unreasonably prejudices the copyright owner’s interests. A senior publishing executive said: “It is unacceptable for Nippan, which is in a position to protect Japan’s publishing culture, to engage in actions that undermine that very culture.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Caine Prize、\n受賞者のAI疑惑に対応",
-          "body": "Caine PrizeがSimbarashe KundizezaのAI疑惑に対応した。",
-          "mini_headline": "Caine Prize、AI疑惑に対応",
+          "headline": "出版社がNippanに要求\nAnthropic販売の停止",
+          "body": "Nippan子会社が出版社に無断で2024〜2025年にAnthropicへ和書を売った。",
+          "mini_headline": "NippanのAnthropic向け書籍販売",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+                "cap": "U.S.の裁判資料より：大量に集められた書籍が保管されているとみられる倉庫の内部"
               },
               {
                 "t": "p",
-                "x": "Caine Prize for African Writingは、受賞者Simbarashe KundizezaがAIを使った可能性があるとAtlanticで提起された疑惑を受け、声明を出した。"
+                "x": "大手出版取次Nippan Group Holdings, Inc.の子会社が、出版社に知らせないまま、U.S.の人工知能開発企業Anthropic PBCに日本の書籍を販売していた。出版業界関係者によると、日本書籍出版協会がこの件を問い合わせ、Nippanから販売を認める回答を受けた。"
               },
               {
                 "t": "p",
-                "x": "これを受けて同賞は、ジンバブエ出身の受賞者がAI使用を指摘されたことについて、自ら「人間中心のプロセス(human-centred process)」と呼ぶ手続きを始める。"
+                "x": "AnthropicはAI学習のために大量の書籍をスキャンするプロジェクトを進めていたとみられ、日本の書籍が含まれていた可能性がある。裁判資料によると、Anthropicは欧州、米国、アジアの取次業者から大量の書籍を購入しており、その中に「Nippan Japan」という会社があった。"
+              },
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+              },
+              {
+                "t": "p",
+                "x": "協会はNippanに対し、AI学習向け書籍の供給と販売をやめるよう求めた。Nippanは2024年十二月から2025年十二月までの販売を認めたが、書籍がAI学習のために購入されていたとは知らなかったと主張したという。"
+              },
+              {
+                "t": "p",
+                "x": "日本の著作権法30-4条は、著作権者の利益を不当に害しない限り、AI学習のための著作物の利用を許諾なしに認めている。ある出版大手の幹部は「日本の出版文化を守る立場にあるNippanが、その文化を損なう行為に及ぶことは容認できない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Caine Prize回应\n得主AI使用质疑",
-          "body": "Caine Prize回应得主Simbarashe Kundizeza的AI质疑。",
-          "mini_headline": "Caine Prize回应AI质疑",
+          "headline": "出版商要求Nippan\n停止向Anthropic售书",
+          "body": "Nippan子公司在2024至2025年间未告知出版社，向Anthropic出售日本图书。",
+          "mini_headline": "Nippan向Anthropic售书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+                "cap": "U.S.法院文件中的照片：疑似存放大量收集书籍的仓库内部"
               },
               {
                 "t": "p",
-                "x": "Caine Prize for African Writing发表声明，回应Atlantic有关得主Simbarashe Kundizeza可能使用AI的指控。"
+                "x": "大型图书经销商Nippan Group Holdings, Inc.旗下一家子公司在未通知出版社的情况下，向U.S.人工智能开发商Anthropic PBC出售了日本图书。据出版业人士透露，日本书籍出版协会就此事进行询问，并收到Nippan确认相关销售的答复。"
               },
               {
                 "t": "p",
-                "x": "作为回应，该奖项正启动其所称的“以人为本的流程”（human-centred process），起因是这位津巴布韦得主被指使用AI。"
+                "x": "据信Anthropic一直在推进一项大规模扫描图书用于AI训练的项目，其中可能包括日本图书。法院文件显示，Anthropic曾从欧洲、美国和亚洲的经销商处大量购书，其中就有一家名为“Nippan Japan”的公司。"
+              },
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+              },
+              {
+                "t": "p",
+                "x": "协会要求Nippan停止供应和销售用于AI训练的图书。据报道，Nippan承认了2024年十二月至2025年十二月期间的销售，但声称并不知道这些书是为AI训练而购买的。"
+              },
+              {
+                "t": "p",
+                "x": "日本《著作权法》30-4条规定，只要不会不当损害著作权人的利益，即可未经许可将作品用于AI训练。一位出版业高管表示：“本应守护日本出版文化的Nippan，却做出破坏这一文化的行为，这是不可接受的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Caine Prize responde a la\nacusación de IA a su ganador",
-          "body": "El Caine Prize abre un proceso centrado en lo humano tras sospechas de que su ganador Simbarashe Kundizeza usó IA.",
-          "mini_headline": "El Caine Prize responde a la acusación de IA",
+          "headline": "Las editoriales piden a Nippan\nno vender libros a Anthropic",
+          "body": "Una filial de Nippan vendió libros japoneses a Anthropic entre dic. 2024 y dic. 2025 sin avisar a las editoriales.",
+          "mini_headline": "Las ventas de libros de Nippan a Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+                "cap": "De documentos judiciales de U.S.: interior de un almacén donde se cree que se guarda un gran volumen de libros recopilados"
               },
               {
                 "t": "p",
-                "x": "El Caine Prize for African Writing publicó un comunicado tras las acusaciones aparecidas en The Atlantic de que su ganador, Simbarashe Kundizeza, pudo haber usado IA."
+                "x": "Una filial del gran distribuidor de libros Nippan Group Holdings, Inc. vendió libros japoneses a Anthropic PBC, desarrolladora de inteligencia artificial de U.S., sin notificarlo a las editoriales. La Asociación de Editores de Libros de Japón pidió explicaciones y recibió una respuesta de Nippan que confirmaba las ventas, según fuentes del sector editorial."
               },
               {
                 "t": "p",
-                "x": "En respuesta, el premio pone en marcha lo que llama un 'proceso centrado en lo humano' (human-centred process) después de que el ganador zimbabuense fuera acusado de usar IA."
+                "x": "Se cree que Anthropic llevaba a cabo un proyecto para escanear grandes cantidades de libros para el entrenamiento de AI, y es posible que incluyera libros japoneses. Según documentos judiciales, Anthropic compraba grandes cantidades de libros a distribuidores de Europa, Estados Unidos y Asia, entre ellos una empresa llamada “Nippan Japan”."
+              },
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La asociación exigió a Nippan que dejara de suministrar y vender libros destinados al entrenamiento de AI. Según la información, Nippan reconoció ventas entre diciembre de 2024 y diciembre de 2025, pero afirmó que no sabía que los libros se compraban para entrenar AI."
+              },
+              {
+                "t": "p",
+                "x": "El artículo 30-4 de la Ley de Derechos de Autor de Japón permite usar obras para entrenar AI sin permiso, salvo que se perjudiquen de forma injustificada los intereses del titular de los derechos. Un alto ejecutivo del sector editorial afirmó: “Es inaceptable que Nippan, que está en posición de proteger la cultura editorial de Japón, actúe de un modo que socava esa misma cultura”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "출판계 Nippan에 요구\nAnthropic 판매중단",
+          "body": "Nippan 자회사가 2024년12월~2025년12월 Anthropic에 판매했다.",
+          "mini_headline": "Nippan의 Anthropic 도서 판매",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+                "cap": "U.S. 법원 문서에 실린 창고 내부 모습. 수집한 책을 대량으로 보관한 곳으로 보인다"
+              },
+              {
+                "t": "p",
+                "x": "대형 도서 유통사 Nippan Group Holdings, Inc.의 자회사가 출판사에 알리지 않고 U.S. 인공지능 개발사 Anthropic PBC에 일본 책을 팔았다. 출판업계 관계자들에 따르면 일본서적출판협회(Japan Book Publishers Association)가 이 문제를 묻자 Nippan은 판매 사실을 인정하는 답변을 보냈다."
+              },
+              {
+                "t": "p",
+                "x": "Anthropic은 AI 학습용으로 책을 대량 스캔하는 프로젝트를 진행해 온 것으로 보인다. 여기에 일본 책도 들어갔을 수 있다. 법원 문서를 보면 Anthropic은 유럽, 미국(United States), 아시아 유통사들에서 책을 대량으로 사들였는데 그중에 “Nippan Japan”이라는 회사도 있었다."
+              },
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+              },
+              {
+                "t": "p",
+                "x": "협회는 Nippan에 AI 학습용 도서 공급과 판매를 멈추라고 요구했다. Nippan은 2024년 12월부터 2025년 12월까지 판매한 사실은 인정했지만 책을 AI 학습용으로 사 가는 줄은 몰랐다고 주장한 것으로 전해졌다."
+              },
+              {
+                "t": "p",
+                "x": "일본 저작권법(Copyright Law)의 Article 30-4는 저작권자의 이익을 부당하게 해치지 않는 한 허락 없이 저작물을 AI 학습에 쓸 수 있게 한다. 한 출판사 고위 임원은 “일본의 출판 문화를 지켜야 할 위치에 있는 Nippan이 바로 그 문화를 훼손하는 행위를 하는 것은 용납할 수 없다”고 말했다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Caine Prize,\n수상자 AI 의혹에 대응",
-          "body": "Caine Prize가 Simbarashe Kundizeza의 AI 의혹에 답했다.",
-          "mini_headline": "Caine Prize, AI 의혹 대응",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Caine Prize for African Writing이 수상자 Simbarashe Kundizeza가 AI를 썼을 수 있다는 Atlantic의 의혹 제기에 대해 성명을 냈다."
-              },
-              {
-                "t": "p",
-                "x": "이에 따라 상 측은 짐바브웨 출신 수상자가 AI 사용 의혹을 받은 데 대해 스스로 '인간 중심 절차(human-centred process)'라 부르는 과정을 시작한다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "Caine Prize、\n受賞者のAI疑惑に対応",
-          "body": "Caine PrizeがSimbarashe KundizezaのAI疑惑に対応した。",
-          "mini_headline": "Caine Prize、AI疑惑に対応",
+          "headline": "出版社がNippanに要求\nAnthropic販売の停止",
+          "body": "Nippan子会社が出版社に無断で2024〜2025年にAnthropicへ和書を売った。",
+          "mini_headline": "NippanのAnthropic向け書籍販売",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+                "cap": "U.S.の裁判資料より：大量に集められた書籍が保管されているとみられる倉庫の内部"
               },
               {
                 "t": "p",
-                "x": "Caine Prize for African Writingは、受賞者Simbarashe KundizezaがAIを使った可能性があるとAtlanticで提起された疑惑を受け、声明を出した。"
+                "x": "大手出版取次Nippan Group Holdings, Inc.の子会社が、出版社に知らせないまま、U.S.の人工知能開発企業Anthropic PBCに日本の書籍を販売していた。出版業界関係者によると、日本書籍出版協会がこの件を問い合わせ、Nippanから販売を認める回答を受けた。"
               },
               {
                 "t": "p",
-                "x": "これを受けて同賞は、ジンバブエ出身の受賞者がAI使用を指摘されたことについて、自ら「人間中心のプロセス(human-centred process)」と呼ぶ手続きを始める。"
+                "x": "AnthropicはAI学習のために大量の書籍をスキャンするプロジェクトを進めていたとみられ、日本の書籍が含まれていた可能性がある。裁判資料によると、Anthropicは欧州、米国、アジアの取次業者から大量の書籍を購入しており、その中に「Nippan Japan」という会社があった。"
+              },
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+              },
+              {
+                "t": "p",
+                "x": "協会はNippanに対し、AI学習向け書籍の供給と販売をやめるよう求めた。Nippanは2024年十二月から2025年十二月までの販売を認めたが、書籍がAI学習のために購入されていたとは知らなかったと主張したという。"
+              },
+              {
+                "t": "p",
+                "x": "日本の著作権法30-4条は、著作権者の利益を不当に害しない限り、AI学習のための著作物の利用を許諾なしに認めている。ある出版大手の幹部は「日本の出版文化を守る立場にあるNippanが、その文化を損なう行為に及ぶことは容認できない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Caine Prize回应\n得主AI使用质疑",
-          "body": "Caine Prize回应得主Simbarashe Kundizeza的AI质疑。",
-          "mini_headline": "Caine Prize回应AI质疑",
+          "headline": "出版商要求Nippan\n停止向Anthropic售书",
+          "body": "Nippan子公司在2024至2025年间未告知出版社，向Anthropic出售日本图书。",
+          "mini_headline": "Nippan向Anthropic售书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+                "cap": "U.S.法院文件中的照片：疑似存放大量收集书籍的仓库内部"
               },
               {
                 "t": "p",
-                "x": "Caine Prize for African Writing发表声明，回应Atlantic有关得主Simbarashe Kundizeza可能使用AI的指控。"
+                "x": "大型图书经销商Nippan Group Holdings, Inc.旗下一家子公司在未通知出版社的情况下，向U.S.人工智能开发商Anthropic PBC出售了日本图书。据出版业人士透露，日本书籍出版协会就此事进行询问，并收到Nippan确认相关销售的答复。"
               },
               {
                 "t": "p",
-                "x": "作为回应，该奖项正启动其所称的“以人为本的流程”（human-centred process），起因是这位津巴布韦得主被指使用AI。"
+                "x": "据信Anthropic一直在推进一项大规模扫描图书用于AI训练的项目，其中可能包括日本图书。法院文件显示，Anthropic曾从欧洲、美国和亚洲的经销商处大量购书，其中就有一家名为“Nippan Japan”的公司。"
+              },
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+              },
+              {
+                "t": "p",
+                "x": "协会要求Nippan停止供应和销售用于AI训练的图书。据报道，Nippan承认了2024年十二月至2025年十二月期间的销售，但声称并不知道这些书是为AI训练而购买的。"
+              },
+              {
+                "t": "p",
+                "x": "日本《著作权法》30-4条规定，只要不会不当损害著作权人的利益，即可未经许可将作品用于AI训练。一位出版业高管表示：“本应守护日本出版文化的Nippan，却做出破坏这一文化的行为，这是不可接受的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Caine Prize responde a la\nacusación de IA a su ganador",
-          "body": "El Caine Prize abre un proceso centrado en lo humano tras sospechas de que su ganador Simbarashe Kundizeza usó IA.",
-          "mini_headline": "El Caine Prize responde a la acusación de IA",
+          "headline": "Las editoriales piden a Nippan\nno vender libros a Anthropic",
+          "body": "Una filial de Nippan vendió libros japoneses a Anthropic entre dic. 2024 y dic. 2025 sin avisar a las editoriales.",
+          "mini_headline": "Las ventas de libros de Nippan a Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/571/0072.jpg"
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+                "cap": "De documentos judiciales de U.S.: interior de un almacén donde se cree que se guarda un gran volumen de libros recopilados"
               },
               {
                 "t": "p",
-                "x": "El Caine Prize for African Writing publicó un comunicado tras las acusaciones aparecidas en The Atlantic de que su ganador, Simbarashe Kundizeza, pudo haber usado IA."
+                "x": "Una filial del gran distribuidor de libros Nippan Group Holdings, Inc. vendió libros japoneses a Anthropic PBC, desarrolladora de inteligencia artificial de U.S., sin notificarlo a las editoriales. La Asociación de Editores de Libros de Japón pidió explicaciones y recibió una respuesta de Nippan que confirmaba las ventas, según fuentes del sector editorial."
               },
               {
                 "t": "p",
-                "x": "En respuesta, el premio pone en marcha lo que llama un 'proceso centrado en lo humano' (human-centred process) después de que el ganador zimbabuense fuera acusado de usar IA."
+                "x": "Se cree que Anthropic llevaba a cabo un proyecto para escanear grandes cantidades de libros para el entrenamiento de AI, y es posible que incluyera libros japoneses. Según documentos judiciales, Anthropic compraba grandes cantidades de libros a distribuidores de Europa, Estados Unidos y Asia, entre ellos una empresa llamada “Nippan Japan”."
+              },
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La asociación exigió a Nippan que dejara de suministrar y vender libros destinados al entrenamiento de AI. Según la información, Nippan reconoció ventas entre diciembre de 2024 y diciembre de 2025, pero afirmó que no sabía que los libros se compraban para entrenar AI."
+              },
+              {
+                "t": "p",
+                "x": "El artículo 30-4 de la Ley de Derechos de Autor de Japón permite usar obras para entrenar AI sin permiso, salvo que se perjudiquen de forma injustificada los intereses del titular de los derechos. Un alto ejecutivo del sector editorial afirmó: “Es inaceptable que Nippan, que está en posición de proteger la cultura editorial de Japón, actúe de un modo que socava esa misma cultura”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "출판계 Nippan에 요구\nAnthropic 판매중단",
+          "body": "Nippan 자회사가 2024년12월~2025년12월 Anthropic에 판매했다.",
+          "mini_headline": "Nippan의 Anthropic 도서 판매",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+                "cap": "U.S. 법원 문서 중에서: 수집된 대량의 책이 보관된 것으로 보이는 창고 내부 모습"
+              },
+              {
+                "t": "p",
+                "x": "대형 도서 유통사 Nippan Group Holdings, Inc.의 자회사가 출판사에 알리지 않고 U.S. 인공지능 개발사 Anthropic PBC에 일본 책을 판매했다. 출판업계 관계자들에 따르면 일본서적출판협회(Japan Book Publishers Association)가 이 문제를 문의했고, Nippan으로부터 판매 사실을 인정하는 답변을 받았다."
+              },
+              {
+                "t": "p",
+                "x": "Anthropic은 AI 학습을 위해 대량의 책을 스캔하는 프로젝트를 진행해 온 것으로 보이며, 여기에 일본 책이 포함됐을 가능성이 있다. 법원 문서에 따르면 Anthropic은 유럽, 미국(United States), 아시아의 유통사들로부터 대량의 책을 사들였고, 그중에는 “Nippan Japan”이라는 회사도 있었다."
+              },
+              {
+                "t": "img",
+                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+              },
+              {
+                "t": "p",
+                "x": "협회는 Nippan에 AI 학습용 도서의 공급과 판매를 중단하라고 요구했다. Nippan은 2024년 12월부터 2025년 12월까지의 판매를 인정했지만, 책이 AI 학습용으로 구매되는지는 몰랐다고 주장한 것으로 전해졌다."
+              },
+              {
+                "t": "p",
+                "x": "일본 저작권법(Copyright Law)의 Article 30-4는 저작권자의 이익을 부당하게 해치지 않는 한 허락 없이 저작물을 AI 학습에 쓰는 것을 허용한다. 한 출판사 고위 임원은 “일본의 출판 문화를 지켜야 할 위치에 있는 Nippan이 바로 그 문화를 훼손하는 행위를 하는 것은 용납할 수 없다”고 말했다."
               }
             ]
           }
@@ -235,15 +365,15 @@
       }
     },
     {
-      "id": "books-revoy-pepper-carrot-no-ai",
+      "id": "books-elpais-spain-ai-bestsellers",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pepper&Carrot\n작가, AI 파생작 금지",
-      "body": "David Revoy가 Creative Commons에 AI 파생 금지를 덧붙였다.",
-      "mini_headline": "Revoy, AI 파생작 금지",
+      "headline": "스페인 자가출판 히트작\n30%, 대부분 AI 작성",
+      "body": "2019~20년 56권엔 AI가 없었고 자가출판 44권 중 13권은 50% 넘었다.",
+      "mini_headline": "스페인 베스트셀러 속 AI",
       "tool": "Books",
-      "source": "LAVX News",
-      "url": "https://news.lavx.hu/article/david-revoy-bans-ai-derivatives-of-pepper-carrot-and-all-his-work",
+      "source": "EL PAÍS English",
+      "url": "https://english.elpais.com/technology/2026-10-13/how-much-ai-is-in-spains-bestselling-books.html",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -251,149 +381,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+            "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+            "cap": "바르셀로나의 한 서점에서 직원이 고전 코너를 살핀다."
           },
           {
             "t": "p",
-            "x": "오픈소스 웹코믹 Pepper&Carrot을 그리는 David Revoy가 10월 8일 라이선스 업데이트를 공개하고 자기 작품의 AI 생성(AI-generated) 파생작을 막았다. 금지 대상은 AI가 아이디어 전개나 창작 과정, 시각적 표현을 만들었거나 상당 부분 대신한 이야기, 설정(lore), 팬픽션, 대본, 만화, 이미지 렌더링이다. 새 조항은 그가 10년 넘게 써 온 CC BY(Pepper&Carrot)와 CC BY-SA(MiniFantasyTheater) 라이선스와 함께 적용된다."
+            "x": "EL PAÍS는 Amazon.es와 Casa del Libro 베스트셀러 목록, 주요 문학상에서 2025년과 2026년에 나온 인기 도서 119권을 골라 탐지 도구 Pangram으로 분석했다. 같은 방식으로 2019년과 2020년에 나온 책 56권을 살펴보니 AI 생성 흔적은 하나도 없었다. 모두 0%였다."
           },
           {
             "t": "p",
-            "x": "계기는 받은 편지함이었다. 스튜디오와 출판사, 게임 개발사, 독학한 AI 만화가들이 그의 그림으로 AI 파생작을 만들게 해 달라고 요청해 왔고, 이번 주에는 하루 세 건이 넘었다. Revoy는 Creative Commons가 AI 전용(AI-specific) 옵션을 내놓기를 기다렸지만 그럴 기미가 없어 조항을 직접 썼다고 말했다. 저작인격권 보호를 받는 유럽 예술가인 만큼, 이 블로그 글이 그 권리를 주장하는 역할을 한다는 설명이다."
+            "x": "최근 도서 119권 중 35권(29%)에서 AI-generated 텍스트 흔적이 일부 보였고 13권은 50%를 넘었다. AI를 쓴 책은 자가출판 쪽에 몰렸다. 자가출판 도서 44권 중 13권으로 30%였고, 상당수가 로맨스 소설이었다. Javier Cercas, Isabel Allende, Dolores Redondo 같은 기성 작가의 책은 0%였다."
           },
           {
             "t": "p",
-            "x": "Linux처럼 AI 기여를 받아들인 소프트웨어나, 사람이 쓴 글을 다듬는 AI 문법·교정·번역 보조 도구는 괜찮다고 했다. 다만 그의 만화를 AI 보조(AI-assisted) 번역이나 자동 번역으로 옮기는 일은 여전히 안 된다. Pepper&Carrot에는 69개 언어로 작업하는 사람 번역가가 수백 명 있다."
+            "x": "가장 눈에 띄는 사례는 스페인 정치인 Alvise Pérez의 Devuélveme mi país다. 2026년 이월 Amazon에서 No. 1에 오른 이 책을 두고 Pangram은 내용의 97%를 AI가 썼다고 판정했다. Pérez는 “한 단어 한 단어” 직접 썼다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "전통 방식으로 나온 책 가운데서도 아홉 권에서 AI 흔적이 일부 발견됐다. 그중 논픽션 네 권은 12%에서 34% 사이였다. Pangram이 완벽하지는 않다. 작업 과정에서 사람이 어떤 역할을 했는지도 가려내지 못한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pepper&Carrot creator bans\nAI derivatives of his work",
-          "body": "David Revoy added an 'AI derivation prohibited' clause to the Creative Commons licenses on his art, lore and comics.",
-          "mini_headline": "Revoy bars AI derivatives",
+          "headline": "30% of Spain's self-published\nhits are mostly written by AI",
+          "body": "EL PAÍS found no AI in 56 books from 2019–20, but 13 of 44 recent self-published bestsellers scored above 50%.",
+          "mini_headline": "AI in Spain's bestsellers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+                "cap": "A bookstore clerk in Barcelona checks the classics section."
               },
               {
                 "t": "p",
-                "x": "David Revoy, the artist behind the open-source webcomic Pepper&Carrot, prohibited AI-generated derivatives of his work in a license update published Oct. 8. The statement bans stories, lore, fan-fiction, scripts, comics and image renderings where AI generated or substantially replaced the development of ideas, the creative process or the visual rendering. It sits next to the CC BY (Pepper&Carrot) and CC BY-SA (MiniFantasyTheater) licenses he has used for more than a decade."
+                "x": "EL PAÍS examined 119 popular books published in 2025 and 2026, from the Amazon.es and Casa del Libro bestseller lists and major literary prizes, using the Pangram detection tool. The same exercise on 56 books from 2019 and 2020 found no signs of AI generation: all scored 0%."
               },
               {
                 "t": "p",
-                "x": "The trigger was his inbox: studios, publishers, game developers and self-taught AI comic artists ask permission to build AI derivatives of his art, more than three requests a day this week. Revoy said he waited for Creative Commons to add an AI-specific option, saw no sign of it, and wrote the clause himself. As a European artist under moral rights protection, he says the blog post serves as the required assertion of those rights."
+                "x": "Of the 119 recent titles, 35 showed some evidence of AI-generated text (29%) and 13 scored above 50%. AI use was concentrated in self-published works: 13 of 44, or 30%, many of them romance novels. Established authors such as Javier Cercas, Isabel Allende and Dolores Redondo scored 0%."
               },
               {
                 "t": "p",
-                "x": "He will tolerate software that accepted AI contributions, such as Linux, and AI grammar, proofreading and translation aids that correct human-authored text. AI-assisted and automatic translation of his comics stays off limits; Pepper&Carrot has hundreds of human translators working in 69 languages."
+                "x": "The most prominent case is Devuélveme mi país by Spanish politician Alvise Pérez, which reached No. 1 on Amazon in February 2026; Pangram attributes 97% of it to AI. Pérez said he wrote the book “word for word.”"
+              },
+              {
+                "t": "p",
+                "x": "Nine traditionally published books showed some traces of AI, including four nonfiction works scoring 12% to 34%. Pangram is not infallible, and it cannot reveal what role a person played in the process."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pepper&Carrot\n작가, AI 파생작 금지",
-          "body": "David Revoy가 Creative Commons에 AI 파생 금지를 덧붙였다.",
-          "mini_headline": "Revoy, AI 파생작 금지",
+          "headline": "스페인 자가출판 히트작\n30%, 대부분 AI 작성",
+          "body": "2019~20년 56권엔 AI가 없었고 자가출판 44권 중 13권은 50% 넘었다.",
+          "mini_headline": "스페인 베스트셀러 속 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+                "cap": "바르셀로나의 한 서점에서 직원이 고전 코너를 살핀다."
               },
               {
                 "t": "p",
-                "x": "오픈소스 웹코믹 Pepper&Carrot을 그리는 David Revoy가 10월 8일 라이선스 업데이트를 공개하고 자기 작품의 AI 생성(AI-generated) 파생작을 막았다. 금지 대상은 AI가 아이디어 전개나 창작 과정, 시각적 표현을 만들었거나 상당 부분 대신한 이야기, 설정(lore), 팬픽션, 대본, 만화, 이미지 렌더링이다. 새 조항은 그가 10년 넘게 써 온 CC BY(Pepper&Carrot)와 CC BY-SA(MiniFantasyTheater) 라이선스와 함께 적용된다."
+                "x": "EL PAÍS는 Amazon.es와 Casa del Libro 베스트셀러 목록, 주요 문학상에서 2025년과 2026년에 나온 인기 도서 119권을 골라 탐지 도구 Pangram으로 분석했다. 같은 방식으로 2019년과 2020년에 나온 책 56권을 살펴보니 AI 생성 흔적은 하나도 없었다. 모두 0%였다."
               },
               {
                 "t": "p",
-                "x": "계기는 받은 편지함이었다. 스튜디오와 출판사, 게임 개발사, 독학한 AI 만화가들이 그의 그림으로 AI 파생작을 만들게 해 달라고 요청해 왔고, 이번 주에는 하루 세 건이 넘었다. Revoy는 Creative Commons가 AI 전용(AI-specific) 옵션을 내놓기를 기다렸지만 그럴 기미가 없어 조항을 직접 썼다고 말했다. 저작인격권 보호를 받는 유럽 예술가인 만큼, 이 블로그 글이 그 권리를 주장하는 역할을 한다는 설명이다."
+                "x": "최근 도서 119권 중 35권(29%)에서 AI-generated 텍스트 흔적이 일부 보였고 13권은 50%를 넘었다. AI를 쓴 책은 자가출판 쪽에 몰렸다. 자가출판 도서 44권 중 13권으로 30%였고, 상당수가 로맨스 소설이었다. Javier Cercas, Isabel Allende, Dolores Redondo 같은 기성 작가의 책은 0%였다."
               },
               {
                 "t": "p",
-                "x": "Linux처럼 AI 기여를 받아들인 소프트웨어나, 사람이 쓴 글을 다듬는 AI 문법·교정·번역 보조 도구는 괜찮다고 했다. 다만 그의 만화를 AI 보조(AI-assisted) 번역이나 자동 번역으로 옮기는 일은 여전히 안 된다. Pepper&Carrot에는 69개 언어로 작업하는 사람 번역가가 수백 명 있다."
+                "x": "가장 눈에 띄는 사례는 스페인 정치인 Alvise Pérez의 Devuélveme mi país다. 2026년 이월 Amazon에서 No. 1에 오른 이 책을 두고 Pangram은 내용의 97%를 AI가 썼다고 판정했다. Pérez는 “한 단어 한 단어” 직접 썼다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "전통 방식으로 나온 책 가운데서도 아홉 권에서 AI 흔적이 일부 발견됐다. 그중 논픽션 네 권은 12%에서 34% 사이였다. Pangram이 완벽하지는 않다. 작업 과정에서 사람이 어떤 역할을 했는지도 가려내지 못한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pepper&Carrot\n作者がAI派生作を禁止",
-          "body": "David RevoyがCreative Commonsの条件にAI派生禁止を加えた。",
-          "mini_headline": "RevoyがAI派生を禁止",
+          "headline": "スペインの自費出版ヒット\n30%は大半をAIが執筆",
+          "body": "EL PAÍS調査で2019〜20年56冊はAIゼロ、自費出版44冊中13冊は50%超だ。",
+          "mini_headline": "スペインのベストセラーとAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+                "cap": "古典の棚を確認するバルセロナの書店員。"
               },
               {
                 "t": "p",
-                "x": "オープンソースのウェブコミックPepper&Carrotの作者David Revoyは、10月8日に公開したライセンス更新で、自作をもとにしたAI生成(AI-generated)の派生作品を禁止した。声明は、アイデアの展開や創作過程、視覚表現をAIが生成した、あるいは大幅に代替した物語、設定(lore)、ファンフィクション、脚本、コミック、画像レンダリングを禁じている。これは彼が10年以上使ってきたCC BY(Pepper&Carrot)とCC BY-SA(MiniFantasyTheater)のライセンスと並んで適用される。"
+                "x": "EL PAÍSは、Amazon.esとCasa del Libroのベストセラーリストや主要文学賞から、2025年と2026年に刊行された人気書籍119冊を選び、検出ツールPangramで調べた。2019年と2020年の書籍56冊に同じ手法を当てたところ、AI生成の兆候は見られず、すべて0%だった。"
               },
               {
                 "t": "p",
-                "x": "きっかけは受信箱だった。スタジオや出版社、ゲーム開発者、独学のAI漫画家から、彼の絵を使ったAI派生作品の許可を求める依頼が届き、今週は一日に三件を超えた。RevoyはCreative CommonsがAI専用(AI-specific)の選択肢を加えるのを待っていたが、その兆しがなく、自ら条項を書いたという。著作者人格権の保護を受けるヨーロッパの作家として、このブログ記事がその権利に必要な主張にあたると彼は述べている。"
+                "x": "最近の119冊のうち35冊（29%）にAI-generatedテキストの痕跡があり、13冊は50%を超えた。AIの使用は自費出版作品に集中しており、44冊中13冊、つまり30%で、その多くは恋愛小説だった。Javier Cercas、Isabel Allende、Dolores Redondoといった定評ある作家は0%だった。"
               },
               {
                 "t": "p",
-                "x": "Linuxのように AIの貢献を受け入れたソフトウェアや、人間が書いた文章を直すAIの文法・校正・翻訳補助ツールは容認する。一方、彼の漫画のAI支援(AI-assisted)翻訳や自動翻訳は引き続き認めない。Pepper&Carrotには69言語で活動する数百人の人間の翻訳者がいる。"
+                "x": "最も目立つ例は、スペインの政治家Alvise PérezのDevuélveme mi paísだ。2026年二月にAmazonでNo. 1となったこの本について、Pangramは97%をAIによるものと判定した。Pérezは「一語一語」自分で書いたと述べている。"
+              },
+              {
+                "t": "p",
+                "x": "従来型の出版社から出た九冊にもAIの痕跡が見られ、そのうちノンフィクション四冊は12%から34%だった。Pangramは万能ではなく、その過程で人がどんな役割を果たしたかまでは明らかにできない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pepper&Carrot\n作者禁止AI衍生作品",
-          "body": "David Revoy在其Creative Commons许可中加入“禁止AI衍生”条款。",
-          "mini_headline": "Revoy禁止AI衍生",
+          "headline": "西班牙自出版畅销书\n30%主要由AI写成",
+          "body": "EL PAÍS发现2019–20年56本书无AI，自出版44本畅销书中13本超50%。",
+          "mini_headline": "西班牙畅销书中的AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+                "cap": "巴塞罗那一家书店的店员在查看经典作品区。"
               },
               {
                 "t": "p",
-                "x": "开源网络漫画Pepper&Carrot的作者David Revoy在10月8日发布的许可更新中，禁止以其作品制作AI生成（AI-generated）的衍生作品。声明禁止由AI生成、或在很大程度上取代了构思发展、创作过程或视觉呈现的故事、设定（lore）、同人小说、剧本、漫画和图像渲染。这一声明与他沿用十多年的CC BY（Pepper&Carrot）和CC BY-SA（MiniFantasyTheater）许可并行。"
+                "x": "EL PAÍS从Amazon.es和Casa del Libro畅销榜以及主要文学奖中选取了2025年和2026年出版的119本热门图书，用检测工具Pangram进行分析。对2019年和2020年的56本书做同样检测，未发现任何AI生成迹象，全部得分为0%。"
               },
               {
                 "t": "p",
-                "x": "起因是他的收件箱：工作室、出版商、游戏开发商和自学的AI漫画作者纷纷请求许可，想用他的画作制作AI衍生作品，本周每天超过三次。Revoy说，他一直在等Creative Commons加入针对AI的（AI-specific）选项，却迟迟不见动静，于是自己写了这一条款。他表示，作为受精神权利保护的欧洲艺术家，这篇博客文章就是对这些权利的必要主张。"
+                "x": "在119本近期图书中，35本显示出一定的AI-generated文本迹象（29%），13本得分超过50%。AI使用集中在自出版作品中：44本中有13本，即30%，其中许多是爱情小说。Javier Cercas、Isabel Allende和Dolores Redondo等知名作家的得分均为0%。"
               },
               {
                 "t": "p",
-                "x": "他可以接受像Linux这样接纳了AI贡献的软件，也接受用于修改人类所写文本的AI语法、校对和翻译辅助工具。但用AI辅助（AI-assisted）翻译或自动翻译他的漫画仍不被允许；Pepper&Carrot有数百名人类译者，以69种语言开展翻译。"
+                "x": "最突出的案例是西班牙政治人物Alvise Pérez的Devuélveme mi país，该书于2026年二月登上Amazon榜单No. 1；Pangram判定其中97%出自AI。Pérez称这本书是他“逐字逐句”写成的。"
+              },
+              {
+                "t": "p",
+                "x": "九本传统出版的图书也显示出一定的AI痕迹，其中四本非虚构作品得分在12%到34%之间。Pangram并非万无一失，也无法揭示人在创作过程中扮演了什么角色。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El creador de Pepper&Carrot\nprohíbe derivar su obra con IA",
-          "body": "David Revoy añadió la cláusula 'derivación por IA prohibida' a las licencias Creative Commons de su arte y cómics.",
-          "mini_headline": "Revoy veta los derivados con IA",
+          "headline": "Éxitos autoeditados en España:\n30%, mayormente escritos por AI",
+          "body": "EL PAÍS no halló AI en 56 libros de 2019–20, pero 13 de 44 superventas autoeditados recientes superaron el 50%.",
+          "mini_headline": "La AI en los superventas de España",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+                "cap": "Un librero de Barcelona revisa la sección de clásicos."
               },
               {
                 "t": "p",
-                "x": "David Revoy, el artista detrás del webcómic de código abierto Pepper&Carrot, prohibió las obras derivadas generadas por IA (AI-generated) a partir de su trabajo en una actualización de licencia publicada el 8 de octubre. La declaración prohíbe historias, lore, fan-fiction, guiones, cómics y representaciones de imagen en los que la IA generó o sustituyó de forma sustancial el desarrollo de ideas, el proceso creativo o la representación visual. Se suma a las licencias CC BY (Pepper&Carrot) y CC BY-SA (MiniFantasyTheater) que usa desde hace más de una década."
+                "x": "EL PAÍS analizó con la herramienta de detección Pangram 119 libros populares publicados en 2025 y 2026, procedentes de las listas de más vendidos de Amazon.es y Casa del Libro y de los principales premios literarios. El mismo ejercicio con 56 libros de 2019 y 2020 no encontró indicios de generación por AI: todos obtuvieron un 0%."
               },
               {
                 "t": "p",
-                "x": "El detonante fue su bandeja de entrada: estudios, editoriales, desarrolladores de videojuegos y artistas de cómic con IA autodidactas le piden permiso para crear derivados de su arte con IA, más de tres solicitudes al día esta semana. Revoy dijo que esperó a que Creative Commons añadiera una opción específica para IA (AI-specific), no vio señales de ello y redactó la cláusula él mismo. Como artista europeo amparado por los derechos morales, afirma que la entrada del blog sirve como la afirmación requerida de esos derechos."
+                "x": "De los 119 títulos recientes, 35 mostraron algún indicio de texto AI-generated (29%) y 13 superaron el 50%. El uso de AI se concentró en obras autoeditadas: 13 de 44, es decir, el 30%, muchas de ellas novelas románticas. Autores consolidados como Javier Cercas, Isabel Allende y Dolores Redondo obtuvieron un 0%."
               },
               {
                 "t": "p",
-                "x": "Tolerará el software que aceptó contribuciones de IA, como Linux, y las herramientas de IA de gramática, corrección y traducción que corrigen textos escritos por personas. La traducción asistida por IA (AI-assisted) y la traducción automática de sus cómics siguen vetadas; Pepper&Carrot cuenta con cientos de traductores humanos que trabajan en 69 idiomas."
+                "x": "El caso más destacado es Devuélveme mi país, del político español Alvise Pérez, que llegó al No. 1 de Amazon en febrero de 2026; Pangram atribuye el 97% del libro a la AI. Pérez aseguró que escribió el libro “palabra por palabra”."
+              },
+              {
+                "t": "p",
+                "x": "Nueve libros de edición tradicional mostraron algunos rastros de AI, entre ellos cuatro obras de no ficción con puntuaciones de entre el 12% y el 34%. Pangram no es infalible y no puede revelar qué papel desempeñó una persona en el proceso."
               }
             ]
           }
@@ -401,105 +561,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pepper&Carrot\n작가, AI 파생작 금지",
-          "body": "David Revoy가 Creative Commons에 AI 파생 금지를 더했다.",
-          "mini_headline": "Revoy, AI 파생작 금지",
+          "headline": "스페인 자가출판 히트작\n30%, 대부분 AI 작성",
+          "body": "2019~20년 56권엔 AI가 없었고 자가출판 44권 중 13권은 50% 넘었다.",
+          "mini_headline": "스페인 베스트셀러 속 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+                "cap": "바르셀로나의 한 서점 직원이 고전 코너를 살펴보고 있다."
               },
               {
                 "t": "p",
-                "x": "오픈소스 웹코믹 Pepper&Carrot을 그리는 David Revoy가 10월 8일 공개한 라이선스 업데이트에서 자기 작품의 AI 생성(AI-generated) 파생작을 금지했다. 이 성명은 AI가 아이디어 전개, 창작 과정, 시각적 표현을 생성했거나 상당 부분 대신한 이야기, 설정(lore), 팬픽션, 대본, 만화, 이미지 렌더링을 금지한다. 이는 그가 10년 넘게 써 온 CC BY(Pepper&Carrot)와 CC BY-SA(MiniFantasyTheater) 라이선스와 나란히 적용된다."
+                "x": "EL PAÍS는 Amazon.es와 Casa del Libro 베스트셀러 목록, 주요 문학상에서 2025년과 2026년에 출간된 인기 도서 119권을 골라 탐지 도구 Pangram으로 분석했다. 2019년과 2020년에 나온 책 56권에 같은 방식을 적용하자 AI 생성 흔적은 전혀 나오지 않았고, 모두 0%였다."
               },
               {
                 "t": "p",
-                "x": "계기는 받은 편지함이었다. 스튜디오, 출판사, 게임 개발사, 독학한 AI 만화가들이 그의 그림으로 AI 파생작을 만들게 해 달라고 요청하는데, 이번 주에는 하루 세 건이 넘었다. Revoy는 Creative Commons가 AI 전용(AI-specific) 옵션을 추가하기를 기다렸지만 그럴 기미가 보이지 않아 직접 조항을 썼다고 말했다. 저작인격권 보호를 받는 유럽 예술가로서, 그는 이 블로그 글이 그 권리에 필요한 주장 역할을 한다고 밝혔다."
+                "x": "최근 도서 119권 중 35권(29%)에서 AI-generated 텍스트의 흔적이 일부 나타났고, 13권은 50%를 넘었다. AI 사용은 자가출판 도서에 몰려 있었다. 44권 중 13권, 즉 30%였고 상당수가 로맨스 소설이었다. Javier Cercas, Isabel Allende, Dolores Redondo 같은 기성 작가들은 0%였다."
               },
               {
                 "t": "p",
-                "x": "Linux처럼 AI 기여를 받아들인 소프트웨어, 그리고 사람이 쓴 글을 고치는 AI 문법·교정·번역 보조 도구는 용인한다. 다만 그의 만화를 AI 보조(AI-assisted) 번역이나 자동 번역으로 옮기는 일은 여전히 허용하지 않는다. Pepper&Carrot에는 69개 언어로 작업하는 수백 명의 인간 번역가가 있다."
+                "x": "가장 눈에 띄는 사례는 스페인 정치인 Alvise Pérez의 Devuélveme mi país다. 이 책은 2026년 이월 Amazon에서 No. 1에 올랐는데, Pangram은 내용의 97%를 AI가 쓴 것으로 판정했다. Pérez는 책을 “한 단어 한 단어” 직접 썼다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "전통 방식으로 출간된 책 중에서도 아홉 권에서 AI 흔적이 일부 발견됐고, 그중 논픽션 네 권은 12%에서 34% 사이였다. Pangram이 완벽한 것은 아니며, 그 과정에서 사람이 어떤 역할을 했는지도 밝혀내지 못한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pepper&Carrot\n作者がAI派生作を禁止",
-          "body": "David RevoyがCreative Commonsの条件にAI派生禁止を加えた。",
-          "mini_headline": "RevoyがAI派生を禁止",
+          "headline": "スペインの自費出版ヒット\n30%は大半をAIが執筆",
+          "body": "EL PAÍS調査で2019〜20年56冊はAIゼロ、自費出版44冊中13冊は50%超だ。",
+          "mini_headline": "スペインのベストセラーとAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+                "cap": "古典の棚を確認するバルセロナの書店員。"
               },
               {
                 "t": "p",
-                "x": "オープンソースのウェブコミックPepper&Carrotの作者David Revoyは、10月8日に公開したライセンス更新で、自作をもとにしたAI生成(AI-generated)の派生作品を禁止した。声明は、アイデアの展開や創作過程、視覚表現をAIが生成した、あるいは大幅に代替した物語、設定(lore)、ファンフィクション、脚本、コミック、画像レンダリングを禁じている。これは彼が10年以上使ってきたCC BY(Pepper&Carrot)とCC BY-SA(MiniFantasyTheater)のライセンスと並んで適用される。"
+                "x": "EL PAÍSは、Amazon.esとCasa del Libroのベストセラーリストや主要文学賞から、2025年と2026年に刊行された人気書籍119冊を選び、検出ツールPangramで調べた。2019年と2020年の書籍56冊に同じ手法を当てたところ、AI生成の兆候は見られず、すべて0%だった。"
               },
               {
                 "t": "p",
-                "x": "きっかけは受信箱だった。スタジオや出版社、ゲーム開発者、独学のAI漫画家から、彼の絵を使ったAI派生作品の許可を求める依頼が届き、今週は一日に三件を超えた。RevoyはCreative CommonsがAI専用(AI-specific)の選択肢を加えるのを待っていたが、その兆しがなく、自ら条項を書いたという。著作者人格権の保護を受けるヨーロッパの作家として、このブログ記事がその権利に必要な主張にあたると彼は述べている。"
+                "x": "最近の119冊のうち35冊（29%）にAI-generatedテキストの痕跡があり、13冊は50%を超えた。AIの使用は自費出版作品に集中しており、44冊中13冊、つまり30%で、その多くは恋愛小説だった。Javier Cercas、Isabel Allende、Dolores Redondoといった定評ある作家は0%だった。"
               },
               {
                 "t": "p",
-                "x": "Linuxのように AIの貢献を受け入れたソフトウェアや、人間が書いた文章を直すAIの文法・校正・翻訳補助ツールは容認する。一方、彼の漫画のAI支援(AI-assisted)翻訳や自動翻訳は引き続き認めない。Pepper&Carrotには69言語で活動する数百人の人間の翻訳者がいる。"
+                "x": "最も目立つ例は、スペインの政治家Alvise PérezのDevuélveme mi paísだ。2026年二月にAmazonでNo. 1となったこの本について、Pangramは97%をAIによるものと判定した。Pérezは「一語一語」自分で書いたと述べている。"
+              },
+              {
+                "t": "p",
+                "x": "従来型の出版社から出た九冊にもAIの痕跡が見られ、そのうちノンフィクション四冊は12%から34%だった。Pangramは万能ではなく、その過程で人がどんな役割を果たしたかまでは明らかにできない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pepper&Carrot\n作者禁止AI衍生作品",
-          "body": "David Revoy在其Creative Commons许可中加入“禁止AI衍生”条款。",
-          "mini_headline": "Revoy禁止AI衍生",
+          "headline": "西班牙自出版畅销书\n30%主要由AI写成",
+          "body": "EL PAÍS发现2019–20年56本书无AI，自出版44本畅销书中13本超50%。",
+          "mini_headline": "西班牙畅销书中的AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+                "cap": "巴塞罗那一家书店的店员在查看经典作品区。"
               },
               {
                 "t": "p",
-                "x": "开源网络漫画Pepper&Carrot的作者David Revoy在10月8日发布的许可更新中，禁止以其作品制作AI生成（AI-generated）的衍生作品。声明禁止由AI生成、或在很大程度上取代了构思发展、创作过程或视觉呈现的故事、设定（lore）、同人小说、剧本、漫画和图像渲染。这一声明与他沿用十多年的CC BY（Pepper&Carrot）和CC BY-SA（MiniFantasyTheater）许可并行。"
+                "x": "EL PAÍS从Amazon.es和Casa del Libro畅销榜以及主要文学奖中选取了2025年和2026年出版的119本热门图书，用检测工具Pangram进行分析。对2019年和2020年的56本书做同样检测，未发现任何AI生成迹象，全部得分为0%。"
               },
               {
                 "t": "p",
-                "x": "起因是他的收件箱：工作室、出版商、游戏开发商和自学的AI漫画作者纷纷请求许可，想用他的画作制作AI衍生作品，本周每天超过三次。Revoy说，他一直在等Creative Commons加入针对AI的（AI-specific）选项，却迟迟不见动静，于是自己写了这一条款。他表示，作为受精神权利保护的欧洲艺术家，这篇博客文章就是对这些权利的必要主张。"
+                "x": "在119本近期图书中，35本显示出一定的AI-generated文本迹象（29%），13本得分超过50%。AI使用集中在自出版作品中：44本中有13本，即30%，其中许多是爱情小说。Javier Cercas、Isabel Allende和Dolores Redondo等知名作家的得分均为0%。"
               },
               {
                 "t": "p",
-                "x": "他可以接受像Linux这样接纳了AI贡献的软件，也接受用于修改人类所写文本的AI语法、校对和翻译辅助工具。但用AI辅助（AI-assisted）翻译或自动翻译他的漫画仍不被允许；Pepper&Carrot有数百名人类译者，以69种语言开展翻译。"
+                "x": "最突出的案例是西班牙政治人物Alvise Pérez的Devuélveme mi país，该书于2026年二月登上Amazon榜单No. 1；Pangram判定其中97%出自AI。Pérez称这本书是他“逐字逐句”写成的。"
+              },
+              {
+                "t": "p",
+                "x": "九本传统出版的图书也显示出一定的AI痕迹，其中四本非虚构作品得分在12%到34%之间。Pangram并非万无一失，也无法揭示人在创作过程中扮演了什么角色。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El creador de Pepper&Carrot\nprohíbe derivar su obra con IA",
-          "body": "David Revoy añadió la cláusula 'derivación por IA prohibida' a las licencias Creative Commons de su arte y cómics.",
-          "mini_headline": "Revoy veta los derivados con IA",
+          "headline": "Éxitos autoeditados en España:\n30%, mayormente escritos por AI",
+          "body": "EL PAÍS no halló AI en 56 libros de 2019–20, pero 13 de 44 superventas autoeditados recientes superaron el 50%.",
+          "mini_headline": "La AI en los superventas de España",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.lavx.hu/api/media/file/david-revoy-bans-ai-derivatives-of-peppercarrot-and-all-his-work-1_1791490170837-1200x630.jpg"
+                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
+                "cap": "Un librero de Barcelona revisa la sección de clásicos."
               },
               {
                 "t": "p",
-                "x": "David Revoy, el artista detrás del webcómic de código abierto Pepper&Carrot, prohibió las obras derivadas generadas por IA (AI-generated) a partir de su trabajo en una actualización de licencia publicada el 8 de octubre. La declaración prohíbe historias, lore, fan-fiction, guiones, cómics y representaciones de imagen en los que la IA generó o sustituyó de forma sustancial el desarrollo de ideas, el proceso creativo o la representación visual. Se suma a las licencias CC BY (Pepper&Carrot) y CC BY-SA (MiniFantasyTheater) que usa desde hace más de una década."
+                "x": "EL PAÍS analizó con la herramienta de detección Pangram 119 libros populares publicados en 2025 y 2026, procedentes de las listas de más vendidos de Amazon.es y Casa del Libro y de los principales premios literarios. El mismo ejercicio con 56 libros de 2019 y 2020 no encontró indicios de generación por AI: todos obtuvieron un 0%."
               },
               {
                 "t": "p",
-                "x": "El detonante fue su bandeja de entrada: estudios, editoriales, desarrolladores de videojuegos y artistas de cómic con IA autodidactas le piden permiso para crear derivados de su arte con IA, más de tres solicitudes al día esta semana. Revoy dijo que esperó a que Creative Commons añadiera una opción específica para IA (AI-specific), no vio señales de ello y redactó la cláusula él mismo. Como artista europeo amparado por los derechos morales, afirma que la entrada del blog sirve como la afirmación requerida de esos derechos."
+                "x": "De los 119 títulos recientes, 35 mostraron algún indicio de texto AI-generated (29%) y 13 superaron el 50%. El uso de AI se concentró en obras autoeditadas: 13 de 44, es decir, el 30%, muchas de ellas novelas románticas. Autores consolidados como Javier Cercas, Isabel Allende y Dolores Redondo obtuvieron un 0%."
               },
               {
                 "t": "p",
-                "x": "Tolerará el software que aceptó contribuciones de IA, como Linux, y las herramientas de IA de gramática, corrección y traducción que corrigen textos escritos por personas. La traducción asistida por IA (AI-assisted) y la traducción automática de sus cómics siguen vetadas; Pepper&Carrot cuenta con cientos de traductores humanos que trabajan en 69 idiomas."
+                "x": "El caso más destacado es Devuélveme mi país, del político español Alvise Pérez, que llegó al No. 1 de Amazon en febrero de 2026; Pangram atribuye el 97% del libro a la AI. Pérez aseguró que escribió el libro “palabra por palabra”."
+              },
+              {
+                "t": "p",
+                "x": "Nueve libros de edición tradicional mostraron algunos rastros de AI, entre ellos cuatro obras de no ficción con puntuaciones de entre el 12% y el 34%. Pangram no es infalible y no puede revelar qué papel desempeñó una persona en el proceso."
               }
             ]
           }
@@ -507,15 +687,15 @@
       }
     },
     {
-      "id": "books-road-to-the-end-ai-prompt",
+      "id": "books-frankfurt-appeal-ai-transparency",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "소설에 찍힌 AI 프롬프트\n출판사가 전량 회수",
-      "body": "교정 프롬프트가 찍힌 소설 'The Road to the End'를 전량 회수한다.",
-      "mini_headline": "인쇄본에 남은 AI 프롬프트",
+      "headline": "출판 단체 150곳 이상\nAI 투명성 호소에 동참",
+      "body": "Frankfurt Appeal은 EU와 독일에 AI 학습 작품 공개를 요구한다.",
+      "mini_headline": "Frankfurt AI 투명성 호소",
       "tool": "Books",
-      "source": "AIBase",
-      "url": "https://news.aibase.com/news/31561",
+      "source": "Chytomo",
+      "url": "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -523,149 +703,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+            "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
           },
           {
             "t": "p",
-            "x": "독자들이 실물 책 “The Road to the End”의 황당한 대목을 공유했다. 본문에 “전체 문체를 서스펜스와 초자연적 분위기에 더 맞게 일부 문장을 조정해 드릴까요?”라는 문장이 불쑥 끼어 있었다. 누가 봐도 AI 어시스턴트의 말투다. 온라인판 80장의 같은 자리에는 이 문장이 없다."
+            "x": "150곳이 넘는 출판사와 출판 단체가 EU와 독일 정부에 AI 개발사가 모델 학습에 쓴 작품을 공개하도록 의무화하라고 촉구한다. 요구 내용은 독일출판서점협회가 발표한 Frankfurt Appeal에 담겼다."
           },
           {
             "t": "p",
-            "x": "책을 낸 Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.는 사과하면서 원고에는 없던 내용이라고 밝혔다. 분량을 줄이다가 팀이 교정 소프트웨어의 프롬프트 문구를 실수로 본문에 넣었다는 설명이다. Jiangsu Phoenix Literature and Art Press는 편집과 교정을 넘기는 과정에서 책임 소재가 흐려졌고, 작가 잘못은 아니라고 했다. 이미 나간 책은 출판사가 전량 거둬 폐기하고 다시 편집한다."
+            "x": "호소문은 세 가지를 요구한다. 작품 단위로 학습 데이터를 공개하는 투명성 의무, 공정한 수익 모델을 갖춘 라이선스 시장, 강력한 집행 수단이 뒷받침하는 유럽 저작권법 준수다. “침해해도 아무 결과가 따르지 않는 권리는 무가치하다.”"
           },
           {
             "t": "p",
-            "x": "AIBase는 이 일을 AI가 출판에 들어올 때 새겨야 할 경고로 본다. 지능형 교정이 작업 과정에 자리 잡을수록 마지막 수작업 확인이 더 중요해진다는 지적이다."
+            "x": "협회장 Sebastian Guggolz는 “정치권이 지금 행동하지 않으면 AI는 계속해서 수백만 편의 저작물을 빼앗고, 결국에는 우리의 사고 능력까지 빼앗을 것”이라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "2026년 시월 9일 현재 Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, International Publishers Association, Federation of European Publishers를 비롯해 브라질, 이집트, UK, 오스트리아, 네덜란드, 아르헨티나, 태국, 호주의 출판사까지 150곳 넘는 단체가 서명했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Publisher recalls book with\nAI prompt printed in its text",
-          "body": "A proofreading software prompt was printed in the novel 'The Road to the End', so the publisher will recall all copies.",
-          "mini_headline": "AI prompt left in print",
+          "headline": "Over 150 publishing groups\nback an AI transparency appeal",
+          "body": "The Frankfurt Appeal asks the EU and Germany to make AI developers disclose the works used to train their models.",
+          "mini_headline": "Frankfurt AI transparency appeal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
               },
               {
                 "t": "p",
-                "x": "Readers shared an absurd scene from the physical book \"The Road to the End\": a sentence suddenly appeared in the text asking, \"Do you need me to adjust some sentences to make the overall style more consistent with the suspense and supernatural atmosphere?\" — clearly the tone of an AI assistant. In the online version, the corresponding position in chapter 80 has no such line."
+                "x": "More than 150 publishers and publishing organizations are urging the EU and the German government to require AI developers to disclose the works used to train their models. The demand is outlined in the Frankfurt Appeal, published by the German Publishers and Booksellers Association."
               },
               {
                 "t": "p",
-                "x": "Tianjin Zhiyu Shiguang Cultural Media Co., Ltd., the company behind the book, apologized, saying the content was not in the manuscript: during the text reduction process, the team mistakenly included the prompt words from the proofreading software as part of the main text. Jiangsu Phoenix Literature and Art Press said responsibility became diluted across editing and proofreading handovers and the issue was not with the author. For already released books, the publisher will recall and destroy all copies, and re-edit them."
+                "x": "The appeal calls for three actions: transparency obligations including disclosure of training data at work level; a licensing market with fair revenue models; and compliance with European copyright law, equipped with robust means of enforcement. “Rights whose infringement carries no consequences are worthless.”"
               },
               {
                 "t": "p",
-                "x": "AIBase calls it a warning for AI participation in publishing: as intelligent proofreading enters the workflow, the final line of manual checks matters more."
+                "x": "“If politicians do not act now, AI will continue to deprive us of millions of copyrighted works and, eventually, of our ability to think,” said association head Sebastian Guggolz."
+              },
+              {
+                "t": "p",
+                "x": "As of Oct. 9, 2026, more than 150 organizations had signed, including Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, the International Publishers Association and the Federation of European Publishers, plus publishers from Brazil, Egypt, the UK, Austria, the Netherlands, Argentina, Thailand and Australia."
               }
             ]
           }
         },
         "ko": {
-          "headline": "소설에 찍힌 AI 프롬프트\n출판사가 전량 회수",
-          "body": "교정 프롬프트가 찍힌 소설 'The Road to the End'를 전량 회수한다.",
-          "mini_headline": "인쇄본에 남은 AI 프롬프트",
+          "headline": "출판 단체 150곳 이상\nAI 투명성 호소에 동참",
+          "body": "Frankfurt Appeal은 EU와 독일에 AI 학습 작품 공개를 요구한다.",
+          "mini_headline": "Frankfurt AI 투명성 호소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
               },
               {
                 "t": "p",
-                "x": "독자들이 실물 책 “The Road to the End”의 황당한 대목을 공유했다. 본문에 “전체 문체를 서스펜스와 초자연적 분위기에 더 맞게 일부 문장을 조정해 드릴까요?”라는 문장이 불쑥 끼어 있었다. 누가 봐도 AI 어시스턴트의 말투다. 온라인판 80장의 같은 자리에는 이 문장이 없다."
+                "x": "150곳이 넘는 출판사와 출판 단체가 EU와 독일 정부에 AI 개발사가 모델 학습에 쓴 작품을 공개하도록 의무화하라고 촉구한다. 요구 내용은 독일출판서점협회가 발표한 Frankfurt Appeal에 담겼다."
               },
               {
                 "t": "p",
-                "x": "책을 낸 Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.는 사과하면서 원고에는 없던 내용이라고 밝혔다. 분량을 줄이다가 팀이 교정 소프트웨어의 프롬프트 문구를 실수로 본문에 넣었다는 설명이다. Jiangsu Phoenix Literature and Art Press는 편집과 교정을 넘기는 과정에서 책임 소재가 흐려졌고, 작가 잘못은 아니라고 했다. 이미 나간 책은 출판사가 전량 거둬 폐기하고 다시 편집한다."
+                "x": "호소문은 세 가지를 요구한다. 작품 단위로 학습 데이터를 공개하는 투명성 의무, 공정한 수익 모델을 갖춘 라이선스 시장, 강력한 집행 수단이 뒷받침하는 유럽 저작권법 준수다. “침해해도 아무 결과가 따르지 않는 권리는 무가치하다.”"
               },
               {
                 "t": "p",
-                "x": "AIBase는 이 일을 AI가 출판에 들어올 때 새겨야 할 경고로 본다. 지능형 교정이 작업 과정에 자리 잡을수록 마지막 수작업 확인이 더 중요해진다는 지적이다."
+                "x": "협회장 Sebastian Guggolz는 “정치권이 지금 행동하지 않으면 AI는 계속해서 수백만 편의 저작물을 빼앗고, 결국에는 우리의 사고 능력까지 빼앗을 것”이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "2026년 시월 9일 현재 Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, International Publishers Association, Federation of European Publishers를 비롯해 브라질, 이집트, UK, 오스트리아, 네덜란드, 아르헨티나, 태국, 호주의 출판사까지 150곳 넘는 단체가 서명했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "本文にAIプロンプト\n出版社が書籍を回収",
-          "body": "小説『The Road to the End』に校正プロンプトが載り、全冊を回収する。",
-          "mini_headline": "印刷に残ったAIプロンプト",
+          "headline": "出版団体150以上が\nAI透明性の訴えに賛同",
+          "body": "Frankfurt AppealはEUとドイツにAI開発者へ学習作品の開示義務化を求める。",
+          "mini_headline": "Frankfurt AppealとAI透明性",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
               },
               {
                 "t": "p",
-                "x": "読者が紙の書籍『The Road to the End』の奇妙な一場面を共有した。本文に突然「全体の文体をサスペンスと超常的な雰囲気により合わせるため、いくつかの文を調整しましょうか？」という一文が現れたのだ。明らかにAIアシスタントの口調である。オンライン版では、第80章の該当する位置にそのような一文はない。"
+                "x": "150を超える出版社と出版団体が、EUとドイツ政府に対し、AI開発者にモデルの学習に使った作品の開示を義務づけるよう求めている。この要求は、ドイツ出版・書店協会が公表したFrankfurt Appealにまとめられている。"
               },
               {
                 "t": "p",
-                "x": "この本を手がけたTianjin Zhiyu Shiguang Cultural Media Co., Ltd.は謝罪し、この内容は原稿にはなかったと説明した。本文を削る作業の過程で、チームが校正ソフトのプロンプト文言を誤って本文の一部として含めてしまったという。Jiangsu Phoenix Literature and Art Pressは、編集と校正の引き継ぎの中で責任が薄まり、作者の問題ではないと述べた。すでに出回った本について、出版社は全冊を回収・廃棄し、再編集する。"
+                "x": "アピールは三つの行動を求めている。作品単位での学習データ開示を含む透明性義務、公正な収益モデルを備えたライセンス市場、そして強力な執行手段を伴う欧州著作権法の順守だ。「侵害しても何の報いもない権利に価値はない」。"
               },
               {
                 "t": "p",
-                "x": "AIBaseはこれを出版へのAI関与に対する警告と位置づける。インテリジェント校正が作業工程に入るほど、人の手による最終確認の重要性は増すという。"
+                "x": "協会のSebastian Guggolz会長は「政治が今動かなければ、AIは私たちから何百万もの著作物を、そしてやがては考える力さえも奪い続けるだろう」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "2026年十月9日時点で、Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association、Federation of European Publishersのほか、ブラジル、エジプト、UK、オーストリア、オランダ、アルゼンチン、タイ、オーストラリアの出版社を含む150以上の団体が署名した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "正文印出AI提示词\n出版社召回图书",
-          "body": "小说《The Road to the End》正文印入校对软件提示词，出版社将全部召回。",
-          "mini_headline": "AI提示词被印进书里",
+          "headline": "逾150家出版机构\n联署AI透明度呼吁",
+          "body": "Frankfurt Appeal呼吁EU和德国要求AI开发者公开用于训练模型的作品。",
+          "mini_headline": "Frankfurt AI透明度呼吁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
               },
               {
                 "t": "p",
-                "x": "读者分享了实体书《The Road to the End》中的离谱一幕：正文里突然冒出一句“需要我调整一些句子，让整体风格更贴合悬疑和超自然氛围吗？”——明显是AI助手的口吻。而在线上版本中，第80章的对应位置并没有这句话。"
+                "x": "150多家出版商和出版组织正敦促EU和德国政府，要求AI开发者公开用于训练其模型的作品。这一诉求载于德国出版商与书商协会发布的Frankfurt Appeal中。"
               },
               {
                 "t": "p",
-                "x": "出品该书的Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.致歉称，原稿中并无此内容：在文本删减过程中，团队误将校对软件的提示词当作正文的一部分收录。Jiangsu Phoenix Literature and Art Press表示，责任在编辑与校对的交接中被稀释，问题不在作者。对于已发行的图书，出版社将全部召回销毁并重新编辑。"
+                "x": "呼吁书提出三项行动：包括在作品层面公开训练数据在内的透明度义务；具备公平收益模式的授权市场；以及遵守欧洲著作权法，并配备有力的执行手段。“侵权而无须承担后果的权利毫无价值。”"
               },
               {
                 "t": "p",
-                "x": "AIBase称，这是对AI参与出版的一次警示：随着智能校对进入工作流程，最后一道人工把关更加重要。"
+                "x": "协会负责人Sebastian Guggolz表示：“如果政界现在不采取行动，AI将继续夺走我们数以百万计的受版权保护作品，最终还会夺走我们的思考能力。”"
+              },
+              {
+                "t": "p",
+                "x": "截至2026年十月9日，已有150多家机构签署，包括Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association和Federation of European Publishers，以及来自巴西、埃及、UK、奥地利、荷兰、阿根廷、泰国和澳大利亚的出版商。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una editorial retira un libro\ncon un prompt de IA impreso",
-          "body": "Un prompt de corrección quedó impreso en la novela 'The Road to the End' y la editorial retirará toda la tirada.",
-          "mini_headline": "Un prompt de IA quedó impreso",
+          "headline": "Más de 150 grupos editoriales\npiden transparencia en la AI",
+          "body": "El Frankfurt Appeal pide a la EU y a Alemania que los desarrolladores de AI revelen las obras con las que entrenan.",
+          "mini_headline": "El Frankfurt Appeal por la transparencia en AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
               },
               {
                 "t": "p",
-                "x": "Los lectores compartieron una escena absurda del libro impreso “The Road to the End”: en el texto apareció de pronto una frase que preguntaba “¿Necesitas que ajuste algunas frases para que el estilo general encaje mejor con la atmósfera de suspense y lo sobrenatural?”, con el tono inconfundible de un asistente de IA. En la versión en línea, la posición correspondiente del capítulo 80 no contiene esa línea."
+                "x": "Más de 150 editoriales y organizaciones del sector instan a la EU y al Gobierno alemán a obligar a los desarrolladores de AI a revelar las obras usadas para entrenar sus modelos. La petición se recoge en el Frankfurt Appeal, publicado por la Asociación Alemana de Editores y Libreros."
               },
               {
                 "t": "p",
-                "x": "Tianjin Zhiyu Shiguang Cultural Media Co., Ltd., la empresa detrás del libro, pidió disculpas y dijo que el contenido no estaba en el manuscrito: durante el proceso de reducción del texto, el equipo incluyó por error las indicaciones del software de corrección como parte del texto principal. Jiangsu Phoenix Literature and Art Press señaló que la responsabilidad se diluyó en los traspasos entre edición y corrección y que el problema no era del autor. En cuanto a los libros ya publicados, la editorial retirará y destruirá todos los ejemplares y los volverá a editar."
+                "x": "El llamamiento pide tres medidas: obligaciones de transparencia que incluyan la divulgación de los datos de entrenamiento obra por obra; un mercado de licencias con modelos de ingresos justos; y el cumplimiento de la legislación europea de derechos de autor, con mecanismos sólidos para hacerla valer. “Los derechos cuya infracción no tiene consecuencias no valen nada”."
               },
               {
                 "t": "p",
-                "x": "AIBase lo considera una advertencia para la participación de la IA en la edición: a medida que la corrección inteligente entra en el flujo de trabajo, la última línea de revisión manual cobra más importancia."
+                "x": "“Si los políticos no actúan ahora, la AI seguirá privándonos de millones de obras protegidas por derechos de autor y, con el tiempo, de nuestra capacidad de pensar”, afirmó Sebastian Guggolz, presidente de la asociación."
+              },
+              {
+                "t": "p",
+                "x": "A 9 de octubre de 2026, más de 150 organizaciones habían firmado, entre ellas Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, la International Publishers Association y la Federation of European Publishers, además de editoriales de Brasil, Egipto, el Reino Unido (UK), Austria, Países Bajos, Argentina, Tailandia y Australia."
               }
             ]
           }
@@ -673,105 +877,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 프롬프트 인쇄된\n소설, 출판사가 회수",
-          "body": "소설 'The Road to the End'에 교정 프롬프트가 찍혀 전량 회수한다.",
-          "mini_headline": "인쇄본에 남은 AI 프롬프트",
+          "headline": "출판 단체 150곳 이상\nAI 투명성 호소에 동참",
+          "body": "Frankfurt Appeal은 EU와 독일에 AI 학습 작품 공개를 요구한다.",
+          "mini_headline": "Frankfurt AI 투명성 호소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
               },
               {
                 "t": "p",
-                "x": "독자들이 실물 책 “The Road to the End”의 황당한 장면을 공유했다. 본문에 갑자기 “전체 문체를 서스펜스와 초자연적 분위기에 더 맞게 일부 문장을 조정해 드릴까요?”라는 문장이 등장한 것으로, 누가 봐도 AI 어시스턴트의 말투다. 온라인판에서는 80장의 해당 위치에 이런 문장이 없다."
+                "x": "150곳이 넘는 출판사와 출판 단체가 EU와 독일 정부에 AI 개발사가 모델 학습에 쓴 작품을 공개하도록 의무화하라고 촉구하고 있다. 이 요구는 독일출판서점협회가 발표한 Frankfurt Appeal에 담겼다."
               },
               {
                 "t": "p",
-                "x": "책을 낸 Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.는 사과하며 이 내용이 원고에는 없었다고 밝혔다. 분량을 줄이는 과정에서 팀이 교정 소프트웨어의 프롬프트 문구를 실수로 본문에 포함했다는 설명이다. Jiangsu Phoenix Literature and Art Press는 편집과 교정 인계 과정에서 책임이 흐려졌으며 작가의 문제는 아니라고 밝혔다. 이미 출간된 책은 출판사가 전량 회수해 폐기하고 다시 편집한다."
+                "x": "호소문은 세 가지 조치를 요구한다. 작품 단위의 학습 데이터 공개를 포함한 투명성 의무, 공정한 수익 모델을 갖춘 라이선스 시장, 그리고 강력한 집행 수단을 갖춘 유럽 저작권법 준수다. “침해해도 아무 결과가 따르지 않는 권리는 무가치하다.”"
               },
               {
                 "t": "p",
-                "x": "AIBase는 이를 출판에 AI가 참여하는 데 대한 경고로 본다. 지능형 교정이 작업 흐름에 들어올수록 마지막 수작업 확인이 더 중요해진다는 것이다."
+                "x": "협회장 Sebastian Guggolz는 “정치권이 지금 행동하지 않으면 AI는 계속해서 수백만 편의 저작물을 빼앗고, 결국에는 우리의 사고 능력까지 빼앗을 것”이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "2026년 시월 9일 기준으로 Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, International Publishers Association, Federation of European Publishers를 비롯해 브라질, 이집트, UK, 오스트리아, 네덜란드, 아르헨티나, 태국, 호주의 출판사까지 150곳이 넘는 단체가 서명했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "本文にAIプロンプト\n出版社が書籍を回収",
-          "body": "小説『The Road to the End』に校正プロンプトが載り、全冊を回収する。",
-          "mini_headline": "印刷に残ったAIプロンプト",
+          "headline": "出版団体150以上が\nAI透明性の訴えに賛同",
+          "body": "Frankfurt AppealはEUとドイツにAI開発者へ学習作品の開示義務化を求める。",
+          "mini_headline": "Frankfurt AppealとAI透明性",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
               },
               {
                 "t": "p",
-                "x": "読者が紙の書籍『The Road to the End』の奇妙な一場面を共有した。本文に突然「全体の文体をサスペンスと超常的な雰囲気により合わせるため、いくつかの文を調整しましょうか？」という一文が現れたのだ。明らかにAIアシスタントの口調である。オンライン版では、第80章の該当する位置にそのような一文はない。"
+                "x": "150を超える出版社と出版団体が、EUとドイツ政府に対し、AI開発者にモデルの学習に使った作品の開示を義務づけるよう求めている。この要求は、ドイツ出版・書店協会が公表したFrankfurt Appealにまとめられている。"
               },
               {
                 "t": "p",
-                "x": "この本を手がけたTianjin Zhiyu Shiguang Cultural Media Co., Ltd.は謝罪し、この内容は原稿にはなかったと説明した。本文を削る作業の過程で、チームが校正ソフトのプロンプト文言を誤って本文の一部として含めてしまったという。Jiangsu Phoenix Literature and Art Pressは、編集と校正の引き継ぎの中で責任が薄まり、作者の問題ではないと述べた。すでに出回った本について、出版社は全冊を回収・廃棄し、再編集する。"
+                "x": "アピールは三つの行動を求めている。作品単位での学習データ開示を含む透明性義務、公正な収益モデルを備えたライセンス市場、そして強力な執行手段を伴う欧州著作権法の順守だ。「侵害しても何の報いもない権利に価値はない」。"
               },
               {
                 "t": "p",
-                "x": "AIBaseはこれを出版へのAI関与に対する警告と位置づける。インテリジェント校正が作業工程に入るほど、人の手による最終確認の重要性は増すという。"
+                "x": "協会のSebastian Guggolz会長は「政治が今動かなければ、AIは私たちから何百万もの著作物を、そしてやがては考える力さえも奪い続けるだろう」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "2026年十月9日時点で、Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association、Federation of European Publishersのほか、ブラジル、エジプト、UK、オーストリア、オランダ、アルゼンチン、タイ、オーストラリアの出版社を含む150以上の団体が署名した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "正文印出AI提示词\n出版社召回图书",
-          "body": "小说《The Road to the End》正文印入校对软件提示词，出版社将全部召回。",
-          "mini_headline": "AI提示词被印进书里",
+          "headline": "逾150家出版机构\n联署AI透明度呼吁",
+          "body": "Frankfurt Appeal呼吁EU和德国要求AI开发者公开用于训练模型的作品。",
+          "mini_headline": "Frankfurt AI透明度呼吁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
               },
               {
                 "t": "p",
-                "x": "读者分享了实体书《The Road to the End》中的离谱一幕：正文里突然冒出一句“需要我调整一些句子，让整体风格更贴合悬疑和超自然氛围吗？”——明显是AI助手的口吻。而在线上版本中，第80章的对应位置并没有这句话。"
+                "x": "150多家出版商和出版组织正敦促EU和德国政府，要求AI开发者公开用于训练其模型的作品。这一诉求载于德国出版商与书商协会发布的Frankfurt Appeal中。"
               },
               {
                 "t": "p",
-                "x": "出品该书的Tianjin Zhiyu Shiguang Cultural Media Co., Ltd.致歉称，原稿中并无此内容：在文本删减过程中，团队误将校对软件的提示词当作正文的一部分收录。Jiangsu Phoenix Literature and Art Press表示，责任在编辑与校对的交接中被稀释，问题不在作者。对于已发行的图书，出版社将全部召回销毁并重新编辑。"
+                "x": "呼吁书提出三项行动：包括在作品层面公开训练数据在内的透明度义务；具备公平收益模式的授权市场；以及遵守欧洲著作权法，并配备有力的执行手段。“侵权而无须承担后果的权利毫无价值。”"
               },
               {
                 "t": "p",
-                "x": "AIBase称，这是对AI参与出版的一次警示：随着智能校对进入工作流程，最后一道人工把关更加重要。"
+                "x": "协会负责人Sebastian Guggolz表示：“如果政界现在不采取行动，AI将继续夺走我们数以百万计的受版权保护作品，最终还会夺走我们的思考能力。”"
+              },
+              {
+                "t": "p",
+                "x": "截至2026年十月9日，已有150多家机构签署，包括Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association和Federation of European Publishers，以及来自巴西、埃及、UK、奥地利、荷兰、阿根廷、泰国和澳大利亚的出版商。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una editorial retira un libro\ncon un prompt de IA impreso",
-          "body": "Un prompt de corrección quedó impreso en la novela 'The Road to the End' y la editorial retirará toda la tirada.",
-          "mini_headline": "Un prompt de IA quedó impreso",
+          "headline": "Más de 150 grupos editoriales\npiden transparencia en la AI",
+          "body": "El Frankfurt Appeal pide a la EU y a Alemania que los desarrolladores de AI revelen las obras con las que entrenan.",
+          "mini_headline": "El Frankfurt Appeal por la transparencia en AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://upload.chinaz.com/2026/1012/6392740112528551553809643.png"
+                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
               },
               {
                 "t": "p",
-                "x": "Los lectores compartieron una escena absurda del libro impreso “The Road to the End”: en el texto apareció de pronto una frase que preguntaba “¿Necesitas que ajuste algunas frases para que el estilo general encaje mejor con la atmósfera de suspense y lo sobrenatural?”, con el tono inconfundible de un asistente de IA. En la versión en línea, la posición correspondiente del capítulo 80 no contiene esa línea."
+                "x": "Más de 150 editoriales y organizaciones del sector instan a la EU y al Gobierno alemán a obligar a los desarrolladores de AI a revelar las obras usadas para entrenar sus modelos. La petición se recoge en el Frankfurt Appeal, publicado por la Asociación Alemana de Editores y Libreros."
               },
               {
                 "t": "p",
-                "x": "Tianjin Zhiyu Shiguang Cultural Media Co., Ltd., la empresa detrás del libro, pidió disculpas y dijo que el contenido no estaba en el manuscrito: durante el proceso de reducción del texto, el equipo incluyó por error las indicaciones del software de corrección como parte del texto principal. Jiangsu Phoenix Literature and Art Press señaló que la responsabilidad se diluyó en los traspasos entre edición y corrección y que el problema no era del autor. En cuanto a los libros ya publicados, la editorial retirará y destruirá todos los ejemplares y los volverá a editar."
+                "x": "El llamamiento pide tres medidas: obligaciones de transparencia que incluyan la divulgación de los datos de entrenamiento obra por obra; un mercado de licencias con modelos de ingresos justos; y el cumplimiento de la legislación europea de derechos de autor, con mecanismos sólidos para hacerla valer. “Los derechos cuya infracción no tiene consecuencias no valen nada”."
               },
               {
                 "t": "p",
-                "x": "AIBase lo considera una advertencia para la participación de la IA en la edición: a medida que la corrección inteligente entra en el flujo de trabajo, la última línea de revisión manual cobra más importancia."
+                "x": "“Si los políticos no actúan ahora, la AI seguirá privándonos de millones de obras protegidas por derechos de autor y, con el tiempo, de nuestra capacidad de pensar”, afirmó Sebastian Guggolz, presidente de la asociación."
+              },
+              {
+                "t": "p",
+                "x": "A 9 de octubre de 2026, más de 150 organizaciones habían firmado, entre ellas Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, la International Publishers Association y la Federation of European Publishers, además de editoriales de Brasil, Egipto, el Reino Unido (UK), Austria, Países Bajos, Argentina, Tailandia y Australia."
               }
             ]
           }
@@ -779,371 +999,311 @@
       }
     },
     {
-      "id": "books-hivemind-webnovel-ai-translation",
-      "source_lang": "ko",
+      "id": "books-turkiye-ai-book-scanning",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "하이브마인드, AI로\n웹소설 번역비 낮춘다",
-      "body": "하이브마인드는 AI 번역으로 K-웹소설의 해외 진출 비용을 낮추려 한다.",
-      "mini_headline": "AI로 웹소설 번역비 절감",
+      "headline": "AI 기업의 책 사냥에\nTürkiye 저작권 우려",
+      "body": "튀르키예 출판계는 AI 기업의 무단 스캔을 경계하면서도 라이선스 수익을 기대한다.",
+      "mini_headline": "Türkiye 덮친 AI 책 사냥",
       "tool": "Books",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/It/article/all/20261008/134807824/1",
-      "accent": "#2ec5c5",
+      "source": "Türkiye Today",
+      "url": "https://www.turkiyetoday.com/business/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182",
+      "accent": "#ff5a4d",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-            "cap": "하이브마인드 공식 홈페이지 / 출처=하이브마인드"
+            "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
           },
           {
             "t": "p",
-            "x": "웹소설은 영상 콘텐츠에 비해 해외 진출 장벽이 높다. 수백 화에 달하는 장편을 외국어로 옮기려면 낮은 단가를 적용해도 1000만 원 이상이 들지만, 비용 회수는 장담하기 어렵다. 글로벌 콘텐츠 퍼블리싱 플랫폼 ‘오로라(Aurorah)’를 개발 중인 스타트업 하이브마인드는 생성형 AI와 인간 번역가의 협업으로 이 문턱을 낮추려 한다."
+            "x": "AI 기업들이 저작권료를 내지 않고 책을 상업용 모델 학습에 쓰면서 Türkiye 출판업계 전반에 우려가 번지고 있다. Türkiye 언론출판협회 Halil Celik 회장이 Anadolu Agency에 밝힌 바로는, 어떤 책이 AI 모델 학습에 쓰였는지 출판사가 확인할 믿을 만한 방법이 없다."
           },
           {
             "t": "p",
-            "x": "이융희 작가는 “200화 기준 글자당 10원만 계산해도 최소 1000만 원 이상이 든다”고 말했다. 임허규 한국창작스토리작가협회 협회장은 “AI 번역은 IP 확장을 위한 환영할 만한 돌파구”라면서도, AI 초안을 인간 전문가가 감수하는 MTPE(기계번역 후편집) 과정의 시스템화가 필수적이라고 덧붙였다."
+            "x": "AI 기업들이 인쇄본을 대량으로 사들여 스캔한 뒤 실물을 폐기한다는 의혹이 나오면서 논란이 커졌다. Celik은 희귀본과 절판본, 그중에서도 마지막 남은 사본까지 해체하면 문화유산이 위태로워진다고 경고했다."
           },
           {
             "t": "p",
-            "x": "오로라의 현지화 공정은 AI 초벌 번역, 전문가 감수, AI 감수, 사람의 최종 감수 순으로 이어진다. 하이브마인드는 올해 문화체육관광부의 번역 기술 R&D 과제에 참여하고 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-            "cap": "김동욱 하이브마인드 대표 / 출처=IT동아"
+            "x": "그는 Türkiye의 지식·예술저작물법을 고쳐 AI 학습, 데이터셋 공개, 처벌 규정을 넣어야 한다고 촉구했다. 단체 협약으로도 이용할 수 있는 라이선스 제도를 도입해 AI 기업이 상업적 이용의 대가를 치르게 하자는 제안도 내놓았다."
           },
           {
             "t": "p",
-            "x": "김동욱 대표는 “그동안 비용 장벽에 막혀 시도하지 못했던 작품을 여러 언어권과 시장에서 지속적으로 상품화하고 타당성을 검증할 수 있도록 만드는 것이 더욱 큰 변화”라고 강조했다."
+            "x": "Celik은 “올바른 법·라이선스 체계가 갖춰지면 오늘 무료로 쓰이는 콘텐츠가 내일은 저작권과 라이선스 수익의 새로운 원천이 될 수 있다”고 말했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "하이브마인드, AI로\n웹소설 번역비 낮춘다",
-          "body": "하이브마인드는 AI 번역으로 K-웹소설의 해외 진출 비용을 낮추려 한다.",
-          "mini_headline": "AI로 웹소설 번역비 절감",
+        "en": {
+          "headline": "AI firms' book hunt stirs\ncopyright fears in Türkiye",
+          "body": "Turkish publishers say AI firms scanning books without permission threaten copyright, yet some see licensing revenue.",
+          "mini_headline": "AI book hunt hits Türkiye",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-                "cap": "하이브마인드 공식 홈페이지 / 출처=하이브마인드"
+                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
               },
               {
                 "t": "p",
-                "x": "웹소설은 영상 콘텐츠에 비해 해외 진출 장벽이 높다. 수백 화에 달하는 장편을 외국어로 옮기려면 낮은 단가를 적용해도 1000만 원 이상이 들지만, 비용 회수는 장담하기 어렵다. 글로벌 콘텐츠 퍼블리싱 플랫폼 ‘오로라(Aurorah)’를 개발 중인 스타트업 하이브마인드는 생성형 AI와 인간 번역가의 협업으로 이 문턱을 낮추려 한다."
+                "x": "AI companies’ use of books to train commercial models without paying copyright fees has raised concerns across Türkiye’s publishing industry. Halil Celik, president of Türkiye’s Press and Publishing Association, told Anadolu Agency that publishers have no reliable way of finding out which books have been used to train AI models."
               },
               {
                 "t": "p",
-                "x": "이융희 작가는 “200화 기준 글자당 10원만 계산해도 최소 1000만 원 이상이 든다”고 말했다. 임허규 한국창작스토리작가협회 협회장은 “AI 번역은 IP 확장을 위한 환영할 만한 돌파구”라면서도, AI 초안을 인간 전문가가 감수하는 MTPE(기계번역 후편집) 과정의 시스템화가 필수적이라고 덧붙였다."
+                "x": "The debate intensified after allegations that AI companies buy printed books in bulk, scan them and destroy the physical copies. Celik warned that dismantling rare and out-of-print books, some among the last surviving copies, puts cultural heritage at risk."
               },
               {
                 "t": "p",
-                "x": "오로라의 현지화 공정은 AI 초벌 번역, 전문가 감수, AI 감수, 사람의 최종 감수 순으로 이어진다. 하이브마인드는 올해 문화체육관광부의 번역 기술 R&D 과제에 참여하고 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-                "cap": "김동욱 하이브마인드 대표 / 출처=IT동아"
+                "x": "He called for amendments to Türkiye’s Law on Intellectual and Artistic Works, including rules on AI training, dataset disclosure and penalties, and proposed a licensing system, potentially through collective agreements, under which AI companies would pay for commercial use."
               },
               {
                 "t": "p",
-                "x": "김동욱 대표는 “그동안 비용 장벽에 막혀 시도하지 못했던 작품을 여러 언어권과 시장에서 지속적으로 상품화하고 타당성을 검증할 수 있도록 만드는 것이 더욱 큰 변화”라고 강조했다."
+                "x": "“If the right legal and licensing system is established, content that is used free of charge today could become a new source of copyright and licensing revenue tomorrow,” Celik said."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Hivemind uses AI to cut\nweb novel translation costs",
-          "body": "Hivemind aims to lower the cost of taking K-web novels overseas through AI translation.",
-          "mini_headline": "AI cuts web novel translation costs",
+        "ko": {
+          "headline": "AI 기업의 책 사냥에\nTürkiye 저작권 우려",
+          "body": "튀르키예 출판계는 AI 기업의 무단 스캔을 경계하면서도 라이선스 수익을 기대한다.",
+          "mini_headline": "Türkiye 덮친 AI 책 사냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-                "cap": "Hivemind official website / Source: Hivemind"
+                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
               },
               {
                 "t": "p",
-                "x": "Web novels face higher barriers to overseas expansion than video content. Translating a long series running to hundreds of episodes into a foreign language costs more than 1000만 won (10 million won) even at low rates, and there is no guarantee of recouping the cost. Hivemind, a startup developing the global content publishing platform 'Aurorah', wants to lower this barrier through collaboration between generative AI and human translators."
+                "x": "AI 기업들이 저작권료를 내지 않고 책을 상업용 모델 학습에 쓰면서 Türkiye 출판업계 전반에 우려가 번지고 있다. Türkiye 언론출판협회 Halil Celik 회장이 Anadolu Agency에 밝힌 바로는, 어떤 책이 AI 모델 학습에 쓰였는지 출판사가 확인할 믿을 만한 방법이 없다."
               },
               {
                 "t": "p",
-                "x": "Writer Lee Yung-hee said, \"Even at just 10 won (10원) per character, 200 episodes cost at least 10 million won.\" Lim Heo-kyu, president of the Korea Creative Story Writers Association, said \"AI translation is a welcome breakthrough for IP expansion,\" but added that systematizing MTPE (machine translation post-editing), in which human experts review AI drafts, is essential."
+                "x": "AI 기업들이 인쇄본을 대량으로 사들여 스캔한 뒤 실물을 폐기한다는 의혹이 나오면서 논란이 커졌다. Celik은 희귀본과 절판본, 그중에서도 마지막 남은 사본까지 해체하면 문화유산이 위태로워진다고 경고했다."
               },
               {
                 "t": "p",
-                "x": "Aurorah's localization process runs in this order: AI first-draft translation, expert review, AI review, and a final human review. Hivemind is taking part this year in a translation technology R&D project of the Ministry of Culture, Sports and Tourism."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-                "cap": "Kim Dong-wook, CEO of Hivemind / Source: IT Donga"
+                "x": "그는 Türkiye의 지식·예술저작물법을 고쳐 AI 학습, 데이터셋 공개, 처벌 규정을 넣어야 한다고 촉구했다. 단체 협약으로도 이용할 수 있는 라이선스 제도를 도입해 AI 기업이 상업적 이용의 대가를 치르게 하자는 제안도 내놓았다."
               },
               {
                 "t": "p",
-                "x": "CEO Kim Dong-wook stressed, \"The bigger change is making it possible to continuously commercialize works that could not be attempted because of cost barriers, and to test their viability across multiple languages and markets.\""
+                "x": "Celik은 “올바른 법·라이선스 체계가 갖춰지면 오늘 무료로 쓰이는 콘텐츠가 내일은 저작권과 라이선스 수익의 새로운 원천이 될 수 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ハイブマインド、AIで\nウェブ小説の翻訳費削減",
-          "body": "ハイブマインドはAI翻訳でK-ウェブ小説の海外進出コストを下げようとしている。",
-          "mini_headline": "AIでウェブ小説の翻訳費を削減",
+          "headline": "AI企業の書籍漁りに\nTürkiyeで著作権懸念",
+          "body": "トルコ出版界はAI企業の無断スキャンを著作権の脅威とみる一方、ライセンス収入も見込む。",
+          "mini_headline": "AIの書籍漁り、Türkiyeに波及",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-                "cap": "ハイブマインド公式ホームページ / 出典=ハイブマインド"
+                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
               },
               {
                 "t": "p",
-                "x": "ウェブ小説は映像コンテンツに比べて海外進出の壁が高い。数百話に及ぶ長編を外国語に訳すには、低い単価を適用しても1000万ウォン以上かかるが、費用を回収できる保証はない。グローバルコンテンツパブリッシングプラットフォーム「オーロラ(Aurorah)」を開発中のスタートアップ、ハイブマインドは、生成AIと人間の翻訳者の協業によってこのハードルを下げようとしている。"
+                "x": "AI企業が著作権料を払わずに書籍を商用モデルの学習に使っていることに、Türkiyeの出版業界全体で懸念が広がっている。Türkiye報道出版協会のHalil Celik会長はAnadolu Agencyに対し、どの書籍がAIモデルの学習に使われたかを出版社が確かめる確実な手段はないと語った。"
               },
               {
                 "t": "p",
-                "x": "作家のイ・ユンヒ氏は「200話基準で1文字10ウォン(10원)で計算しても、最低1000万ウォン以上かかる」と語った。韓国創作ストーリー作家協会のイム・ホギュ協会長は「AI翻訳はIP拡張のための歓迎すべき突破口だ」としつつも、AIの下訳を人間の専門家が監修するMTPE(機械翻訳ポストエディット)工程のシステム化が不可欠だと付け加えた。"
+                "x": "AI企業が印刷本を大量に買い集めてスキャンし、現物を廃棄しているとの疑惑が出たことで、議論は激しさを増した。Celikは、現存する最後の数冊に数えられるものも含む希少本や絶版本を解体することは、文化遺産を危険にさらすと警告した。"
               },
               {
                 "t": "p",
-                "x": "オーロラのローカライズ工程は、AIによる下訳、専門家の監修、AIによる監修、人による最終監修の順で進む。ハイブマインドは今年、文化体育観光部の翻訳技術R&D課題に参加している。"
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-                "cap": "キム・ドンウク ハイブマインド代表 / 出典=IT東亜"
+                "x": "同氏はAI学習、データセットの開示、罰則に関する規定を盛り込むよう、Türkiyeの知的・芸術的著作物法の改正を求めた。さらに、集団協定を通じた形も含め、AI企業が商用利用の対価を支払うライセンス制度を提案した。"
               },
               {
                 "t": "p",
-                "x": "キム・ドンウク代表は「これまで費用の壁に阻まれて挑戦できなかった作品を、複数の言語圏と市場で継続的に商品化し、妥当性を検証できるようにすることこそ、より大きな変化だ」と強調した。"
+                "x": "「適切な法制度とライセンス制度が整えば、今日無料で使われているコンテンツが、明日には著作権とライセンス収入の新たな源泉になり得る」とCelikは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hivemind借AI\n降低网文翻译成本",
-          "body": "Hivemind希望借助AI翻译降低K-网络小说出海的成本。",
-          "mini_headline": "用AI降低网文翻译成本",
+          "headline": "AI公司大肆搜书\n引发Türkiye版权担忧",
+          "body": "土耳其出版界认为AI公司未经许可扫描图书威胁版权，但也有人看到授权收入。",
+          "mini_headline": "AI搜书风波波及Türkiye",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-                "cap": "Hivemind官方网站 / 来源=Hivemind"
+                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
               },
               {
                 "t": "p",
-                "x": "与影像内容相比，网络小说出海的门槛更高。将长达数百话的长篇译成外语，即便采用较低单价也要花费1000万韩元以上，而能否收回成本却难以保证。正在开发全球内容发行平台“Aurorah”的初创公司Hivemind，希望通过生成式AI与人类译者的协作来降低这一门槛。"
+                "x": "AI公司未支付版权费便用图书训练商业模型，在Türkiye出版业引发普遍担忧。Türkiye新闻出版协会主席Halil Celik对Anadolu Agency表示，出版商没有可靠的办法查明哪些书被用来训练AI模型。"
               },
               {
                 "t": "p",
-                "x": "作家李融熙表示：“以200话计算，每字只按10韩元(10원)算，也至少需要1000万韩元以上。”韩国创作故事作家协会会长林许圭表示“AI翻译是扩展IP的可喜突破”，但同时补充说，由人类专家审校AI初稿的MTPE（机器翻译后编辑）流程必须实现系统化。"
+                "x": "有指控称AI公司大批购买印刷图书，扫描后销毁实体书，争论随之升温。Celik警告称，拆解珍本和绝版书（其中一些是仅存的最后几册）会让文化遗产面临风险。"
               },
               {
                 "t": "p",
-                "x": "Aurorah的本地化流程依次为AI初译、专家审校、AI审校和人工终审。Hivemind今年正在参与韩国文化体育观光部的翻译技术R&D课题。"
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-                "cap": "Hivemind代表金东旭 / 来源=IT东亚"
+                "x": "他呼吁修订Türkiye的《知识与艺术作品法》，纳入有关AI训练、数据集披露和处罚的规定，并提议建立一套许可制度（可能通过集体协议实现），让AI公司为商业使用付费。"
               },
               {
                 "t": "p",
-                "x": "金东旭代表强调：“让那些过去因成本壁垒而无法尝试的作品，能够在多个语种和市场中持续商品化并验证其可行性，这才是更大的变化。”"
+                "x": "Celik表示：“如果建立起合适的法律和授权体系，今天被免费使用的内容，明天就可能成为版权和授权收入的新来源。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hivemind recurre a la AI\npara abaratar la traducción",
-          "body": "Hivemind busca abaratar con traducción por AI la salida al exterior de las K-novelas web.",
-          "mini_headline": "AI para abaratar la traducción de novelas web",
+          "headline": "La caza de libros de la AI\nalarma por derechos en Türkiye",
+          "body": "Editoriales turcas ven en el escaneo de libros sin permiso por la AI una amenaza, pero también ingresos por licencias.",
+          "mini_headline": "La caza de libros de la AI llega a Türkiye",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-                "cap": "Sitio web oficial de Hivemind / Fuente: Hivemind"
+                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
               },
               {
                 "t": "p",
-                "x": "Las novelas web enfrentan barreras más altas que los contenidos audiovisuales para salir al exterior. Traducir a un idioma extranjero una obra larga de cientos de episodios cuesta más de 10 millones de wones (1000만 원) incluso con tarifas bajas, y no hay garantía de recuperar la inversión. Hivemind, una startup que desarrolla la plataforma global de publicación de contenidos 'Aurorah', busca reducir esta barrera mediante la colaboración entre la AI generativa y traductores humanos."
+                "x": "El uso de libros por parte de empresas de AI para entrenar modelos comerciales sin pagar derechos de autor ha generado preocupación en todo el sector editorial de Türkiye. Halil Celik, presidente de la Asociación de Prensa y Edición de Türkiye, dijo a Anadolu Agency que las editoriales no tienen una forma fiable de saber qué libros se han usado para entrenar modelos de AI."
               },
               {
                 "t": "p",
-                "x": "El escritor Lee Yung-hee afirmó: \"Con 200 episodios, aunque se calculen solo 10 wones (10원) por carácter, el costo es de al menos 10 millones de wones\". Lim Heo-kyu, presidente de la Asociación Coreana de Escritores de Historias Creativas, señaló que \"la traducción por AI es un avance bienvenido para la expansión de la IP\", pero añadió que es imprescindible sistematizar el proceso de MTPE (posedición de traducción automática), en el que expertos humanos revisan los borradores de la AI."
+                "x": "El debate se intensificó tras las acusaciones de que las empresas de AI compran libros impresos al por mayor, los escanean y destruyen los ejemplares físicos. Celik advirtió que desmontar libros raros y descatalogados, algunos de ellos entre los últimos ejemplares que se conservan, pone en riesgo el patrimonio cultural."
               },
               {
                 "t": "p",
-                "x": "El proceso de localización de Aurorah sigue este orden: traducción preliminar por AI, revisión de expertos, revisión por AI y revisión final humana. Hivemind participa este año en un proyecto de R&D en tecnología de traducción del Ministerio de Cultura, Deportes y Turismo."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-                "cap": "Kim Dong-wook, director ejecutivo de Hivemind / Fuente: IT Donga"
+                "x": "Pidió reformar la Ley de Obras Intelectuales y Artísticas de Türkiye para incluir normas sobre el entrenamiento de AI, la divulgación de los conjuntos de datos y las sanciones, y propuso un sistema de licencias, posiblemente mediante acuerdos colectivos, por el que las empresas de AI pagarían por el uso comercial."
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo Kim Dong-wook subrayó: \"El cambio más importante es permitir comercializar de forma continua, y verificar su viabilidad en varios idiomas y mercados, obras que antes no se podían intentar por la barrera de los costos\"."
+                "x": "“Si se establece el sistema legal y de licencias adecuado, los contenidos que hoy se usan gratis podrían convertirse mañana en una nueva fuente de ingresos por derechos de autor y licencias”, afirmó Celik."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Hivemind uses AI to cut\nweb novel translation costs",
-          "body": "Hivemind aims to lower the cost of taking K-web novels overseas through AI translation.",
-          "mini_headline": "AI cuts web novel translation costs",
+        "ko": {
+          "headline": "AI 기업의 책 사냥에\nTürkiye 저작권 우려",
+          "body": "튀르키예 출판계는 AI 기업의 무단 스캔을 경계하면서도 라이선스 수익을 기대한다.",
+          "mini_headline": "Türkiye 덮친 AI 책 사냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-                "cap": "Hivemind official website / Source: Hivemind"
+                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
               },
               {
                 "t": "p",
-                "x": "Web novels face higher barriers to overseas expansion than video content. Translating a long series running to hundreds of episodes into a foreign language costs more than 1000만 won (10 million won) even at low rates, and there is no guarantee of recouping the cost. Hivemind, a startup developing the global content publishing platform 'Aurorah', wants to lower this barrier through collaboration between generative AI and human translators."
+                "x": "AI 기업들이 저작권료를 내지 않고 책을 상업용 모델 학습에 쓰면서 Türkiye 출판업계 전반에 우려가 커지고 있다. Türkiye 언론출판협회의 Halil Celik 회장은 Anadolu Agency에 출판사들이 어떤 책이 AI 모델 학습에 쓰였는지 확인할 믿을 만한 방법이 없다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Writer Lee Yung-hee said, \"Even at just 10 won (10원) per character, 200 episodes cost at least 10 million won.\" Lim Heo-kyu, president of the Korea Creative Story Writers Association, said \"AI translation is a welcome breakthrough for IP expansion,\" but added that systematizing MTPE (machine translation post-editing), in which human experts review AI drafts, is essential."
+                "x": "AI 기업들이 인쇄본을 대량으로 사들여 스캔한 뒤 실물을 폐기한다는 의혹이 나오면서 논란이 커졌다. Celik은 마지막 남은 사본까지 포함된 희귀본과 절판본을 해체하는 일이 문화유산을 위태롭게 한다고 경고했다."
               },
               {
                 "t": "p",
-                "x": "Aurorah's localization process runs in this order: AI first-draft translation, expert review, AI review, and a final human review. Hivemind is taking part this year in a translation technology R&D project of the Ministry of Culture, Sports and Tourism."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-                "cap": "Kim Dong-wook, CEO of Hivemind / Source: IT Donga"
+                "x": "그는 AI 학습, 데이터셋 공개, 처벌 규정을 담도록 Türkiye의 지식·예술저작물법을 개정해야 한다고 촉구했다. 또 단체 협약을 통한 방식도 가능한 라이선스 제도를 도입해 AI 기업이 상업적 이용에 대가를 치르게 하자고 제안했다."
               },
               {
                 "t": "p",
-                "x": "CEO Kim Dong-wook stressed, \"The bigger change is making it possible to continuously commercialize works that could not be attempted because of cost barriers, and to test their viability across multiple languages and markets.\""
+                "x": "Celik은 “올바른 법·라이선스 체계가 갖춰지면 오늘 무료로 쓰이는 콘텐츠가 내일은 저작권과 라이선스 수익의 새로운 원천이 될 수 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ハイブマインド、AIで\nウェブ小説の翻訳費削減",
-          "body": "ハイブマインドはAI翻訳でK-ウェブ小説の海外進出コストを下げようとしている。",
-          "mini_headline": "AIでウェブ小説の翻訳費を削減",
+          "headline": "AI企業の書籍漁りに\nTürkiyeで著作権懸念",
+          "body": "トルコ出版界はAI企業の無断スキャンを著作権の脅威とみる一方、ライセンス収入も見込む。",
+          "mini_headline": "AIの書籍漁り、Türkiyeに波及",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-                "cap": "ハイブマインド公式ホームページ / 出典=ハイブマインド"
+                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
               },
               {
                 "t": "p",
-                "x": "ウェブ小説は映像コンテンツに比べて海外進出の壁が高い。数百話に及ぶ長編を外国語に訳すには、低い単価を適用しても1000万ウォン以上かかるが、費用を回収できる保証はない。グローバルコンテンツパブリッシングプラットフォーム「オーロラ(Aurorah)」を開発中のスタートアップ、ハイブマインドは、生成AIと人間の翻訳者の協業によってこのハードルを下げようとしている。"
+                "x": "AI企業が著作権料を払わずに書籍を商用モデルの学習に使っていることに、Türkiyeの出版業界全体で懸念が広がっている。Türkiye報道出版協会のHalil Celik会長はAnadolu Agencyに対し、どの書籍がAIモデルの学習に使われたかを出版社が確かめる確実な手段はないと語った。"
               },
               {
                 "t": "p",
-                "x": "作家のイ・ユンヒ氏は「200話基準で1文字10ウォン(10원)で計算しても、最低1000万ウォン以上かかる」と語った。韓国創作ストーリー作家協会のイム・ホギュ協会長は「AI翻訳はIP拡張のための歓迎すべき突破口だ」としつつも、AIの下訳を人間の専門家が監修するMTPE(機械翻訳ポストエディット)工程のシステム化が不可欠だと付け加えた。"
+                "x": "AI企業が印刷本を大量に買い集めてスキャンし、現物を廃棄しているとの疑惑が出たことで、議論は激しさを増した。Celikは、現存する最後の数冊に数えられるものも含む希少本や絶版本を解体することは、文化遺産を危険にさらすと警告した。"
               },
               {
                 "t": "p",
-                "x": "オーロラのローカライズ工程は、AIによる下訳、専門家の監修、AIによる監修、人による最終監修の順で進む。ハイブマインドは今年、文化体育観光部の翻訳技術R&D課題に参加している。"
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-                "cap": "キム・ドンウク ハイブマインド代表 / 出典=IT東亜"
+                "x": "同氏はAI学習、データセットの開示、罰則に関する規定を盛り込むよう、Türkiyeの知的・芸術的著作物法の改正を求めた。さらに、集団協定を通じた形も含め、AI企業が商用利用の対価を支払うライセンス制度を提案した。"
               },
               {
                 "t": "p",
-                "x": "キム・ドンウク代表は「これまで費用の壁に阻まれて挑戦できなかった作品を、複数の言語圏と市場で継続的に商品化し、妥当性を検証できるようにすることこそ、より大きな変化だ」と強調した。"
+                "x": "「適切な法制度とライセンス制度が整えば、今日無料で使われているコンテンツが、明日には著作権とライセンス収入の新たな源泉になり得る」とCelikは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hivemind借AI\n降低网文翻译成本",
-          "body": "Hivemind希望借助AI翻译降低K-网络小说出海的成本。",
-          "mini_headline": "用AI降低网文翻译成本",
+          "headline": "AI公司大肆搜书\n引发Türkiye版权担忧",
+          "body": "土耳其出版界认为AI公司未经许可扫描图书威胁版权，但也有人看到授权收入。",
+          "mini_headline": "AI搜书风波波及Türkiye",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-                "cap": "Hivemind官方网站 / 来源=Hivemind"
+                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
               },
               {
                 "t": "p",
-                "x": "与影像内容相比，网络小说出海的门槛更高。将长达数百话的长篇译成外语，即便采用较低单价也要花费1000万韩元以上，而能否收回成本却难以保证。正在开发全球内容发行平台“Aurorah”的初创公司Hivemind，希望通过生成式AI与人类译者的协作来降低这一门槛。"
+                "x": "AI公司未支付版权费便用图书训练商业模型，在Türkiye出版业引发普遍担忧。Türkiye新闻出版协会主席Halil Celik对Anadolu Agency表示，出版商没有可靠的办法查明哪些书被用来训练AI模型。"
               },
               {
                 "t": "p",
-                "x": "作家李融熙表示：“以200话计算，每字只按10韩元(10원)算，也至少需要1000万韩元以上。”韩国创作故事作家协会会长林许圭表示“AI翻译是扩展IP的可喜突破”，但同时补充说，由人类专家审校AI初稿的MTPE（机器翻译后编辑）流程必须实现系统化。"
+                "x": "有指控称AI公司大批购买印刷图书，扫描后销毁实体书，争论随之升温。Celik警告称，拆解珍本和绝版书（其中一些是仅存的最后几册）会让文化遗产面临风险。"
               },
               {
                 "t": "p",
-                "x": "Aurorah的本地化流程依次为AI初译、专家审校、AI审校和人工终审。Hivemind今年正在参与韩国文化体育观光部的翻译技术R&D课题。"
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-                "cap": "Hivemind代表金东旭 / 来源=IT东亚"
+                "x": "他呼吁修订Türkiye的《知识与艺术作品法》，纳入有关AI训练、数据集披露和处罚的规定，并提议建立一套许可制度（可能通过集体协议实现），让AI公司为商业使用付费。"
               },
               {
                 "t": "p",
-                "x": "金东旭代表强调：“让那些过去因成本壁垒而无法尝试的作品，能够在多个语种和市场中持续商品化并验证其可行性，这才是更大的变化。”"
+                "x": "Celik表示：“如果建立起合适的法律和授权体系，今天被免费使用的内容，明天就可能成为版权和授权收入的新来源。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hivemind recurre a la AI\npara abaratar la traducción",
-          "body": "Hivemind busca abaratar con traducción por AI la salida al exterior de las K-novelas web.",
-          "mini_headline": "AI para abaratar la traducción de novelas web",
+          "headline": "La caza de libros de la AI\nalarma por derechos en Türkiye",
+          "body": "Editoriales turcas ven en el escaneo de libros sin permiso por la AI una amenaza, pero también ingresos por licencias.",
+          "mini_headline": "La caza de libros de la AI llega a Türkiye",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807803.1.jpg",
-                "cap": "Sitio web oficial de Hivemind / Fuente: Hivemind"
+                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
               },
               {
                 "t": "p",
-                "x": "Las novelas web enfrentan barreras más altas que los contenidos audiovisuales para salir al exterior. Traducir a un idioma extranjero una obra larga de cientos de episodios cuesta más de 10 millones de wones (1000만 원) incluso con tarifas bajas, y no hay garantía de recuperar la inversión. Hivemind, una startup que desarrolla la plataforma global de publicación de contenidos 'Aurorah', busca reducir esta barrera mediante la colaboración entre la AI generativa y traductores humanos."
+                "x": "El uso de libros por parte de empresas de AI para entrenar modelos comerciales sin pagar derechos de autor ha generado preocupación en todo el sector editorial de Türkiye. Halil Celik, presidente de la Asociación de Prensa y Edición de Türkiye, dijo a Anadolu Agency que las editoriales no tienen una forma fiable de saber qué libros se han usado para entrenar modelos de AI."
               },
               {
                 "t": "p",
-                "x": "El escritor Lee Yung-hee afirmó: \"Con 200 episodios, aunque se calculen solo 10 wones (10원) por carácter, el costo es de al menos 10 millones de wones\". Lim Heo-kyu, presidente de la Asociación Coreana de Escritores de Historias Creativas, señaló que \"la traducción por AI es un avance bienvenido para la expansión de la IP\", pero añadió que es imprescindible sistematizar el proceso de MTPE (posedición de traducción automática), en el que expertos humanos revisan los borradores de la AI."
+                "x": "El debate se intensificó tras las acusaciones de que las empresas de AI compran libros impresos al por mayor, los escanean y destruyen los ejemplares físicos. Celik advirtió que desmontar libros raros y descatalogados, algunos de ellos entre los últimos ejemplares que se conservan, pone en riesgo el patrimonio cultural."
               },
               {
                 "t": "p",
-                "x": "El proceso de localización de Aurorah sigue este orden: traducción preliminar por AI, revisión de expertos, revisión por AI y revisión final humana. Hivemind participa este año en un proyecto de R&D en tecnología de traducción del Ministerio de Cultura, Deportes y Turismo."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134807809.1.jpg",
-                "cap": "Kim Dong-wook, director ejecutivo de Hivemind / Fuente: IT Donga"
+                "x": "Pidió reformar la Ley de Obras Intelectuales y Artísticas de Türkiye para incluir normas sobre el entrenamiento de AI, la divulgación de los conjuntos de datos y las sanciones, y propuso un sistema de licencias, posiblemente mediante acuerdos colectivos, por el que las empresas de AI pagarían por el uso comercial."
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo Kim Dong-wook subrayó: \"El cambio más importante es permitir comercializar de forma continua, y verificar su viabilidad en varios idiomas y mercados, obras que antes no se podían intentar por la barrera de los costos\"."
+                "x": "“Si se establece el sistema legal y de licencias adecuado, los contenidos que hoy se usan gratis podrían convertirse mañana en una nueva fuente de ingresos por derechos de autor y licencias”, afirmó Celik."
               }
             ]
           }
@@ -1151,15 +1311,15 @@
       }
     },
     {
-      "id": "books-yuriten-10th-anniversary-ai-cancel",
+      "id": "books-audible-ai-narration-survey",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Yuriten, 기념 행사\nAI 이미지 논란에 취소",
-      "body": "Yuriten이 AI-generated 이미지 비판에 10주년 첫 행사를 접었다.",
-      "mini_headline": "Yuriten, AI 논란 행사 취소",
+      "headline": "청취자 절반가량\nAI 낭독에 열려 있다",
+      "body": "Audible·NielsenIQ 11개 시장 조사서 오디오북이 책 구매로 이어졌다.",
+      "mini_headline": "AI 목소리에 열린 청취자들",
       "tool": "Books",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/interest/2026-10-10/yuriten-exhibit-cancels-10th-anniversary-event-after-artists-criticize-its-ai-use/.242698",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1167,155 +1327,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-            "cap": "Yuriten의 삭제된 X/Twitter 게시물 이미지"
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
           },
           {
             "t": "p",
-            "x": "Yuriten(Yuri Fair) 전시회 주최 측이 10월 17일과 18일 도쿄에서 열 예정이던 무료 행사 “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”를 취소했다. Yuriten이 계획한 10주년 행사 가운데 첫 번째였다. 행사 홍보물에 AI 생성(AI-generated) 이미지가 쓰였다며 유리 만화 작가들이 비판하자 내린 결정이다."
+            "x": "Audible이 의뢰하고 NielsenIQ가 진행한 글로벌 조사 “The Future of Listening”은 U.S., U.K., 유럽 여러 나라, 일본, 브라질 등 11개 시장의 소비자 18,000명을 대상으로 했다. 응답자의 34%는 지난 한 해 오디오북을 그 전해보다 더 많이 들었다고 답했다."
           },
           {
             "t": "p",
-            "x": "주최 측은 앞서 공지 비주얼과 행사 장식, 다른 홍보물 일부에 생성형 AI를 썼다고 인정했다. Bloom Into You의 작가 Nio Nakatani는 당혹스럽고 실망스럽다고 했다. Yukiko와 Yayoi Osawa도 비판에 가세했다."
+            "x": "청취자의 69%는 이미 읽은 작품을 들었다. 오디오로 작가를 처음 접한 사람 가운데 63%는 그 작가의 다른 작품을 샀다. Audible의 최고콘텐츠책임자 Rachel Ghiazza는 “오디오북은 다른 형식과 경쟁하지 않는다”고 말했다."
           },
           {
             "t": "p",
-            "x": "Yuriten을 운영하는 Lilium은 사과하면서 행사 운영과 홍보를 다른 회사에 맡겼고 자사 검수도 부족했다고 밝혔다. 외부 위탁사 관리를 강화하고, 앞으로 Yuriten 전시회에서는 생성형 AI를 쓰지 않겠다고 약속했다."
+            "x": "응답자의 절반가량은 AI 낭독을 들어볼 의향이 있다고 답했다. 독일과 일본을 뺀 대부분 시장에서는 논픽션보다 픽션 쪽 관심이 더 높았다. Ghiazza는 이를 “‘and’ 전략”이라고 불렀다. 사람 낭독자는 그대로 남고 제작비를 아낀 만큼 더 많은 작품을 낸다는 것이다. “품질과 투명성이 매우 중요하다.”"
+          },
+          {
+            "t": "p",
+            "x": "Audible은 조사 방법을 자세히 밝히지 않았다. 망설이는 출판사들에게 Ghiazza가 던진 메시지는 단호했다. “때는 바로 지금이다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Yuriten cancels anniversary\nevent over AI imagery",
-          "body": "Yuriten cancelled the first of its 10th anniversary events in Tokyo after artists criticized its AI-generated imagery.",
-          "mini_headline": "Yuriten drops AI-tainted event",
+          "headline": "About half of listeners\nare open to AI narration",
+          "body": "An Audible-commissioned NielsenIQ survey in 11 markets finds audiobooks lead listeners back to print and e-books.",
+          "mini_headline": "Listeners open to AI voices",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-                "cap": "Image via Yuriten's deleted X/Twitter post"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
               },
               {
                 "t": "p",
-                "x": "The organizers of the Yuriten (Yuri Fair) exhibition canceled the first of Yuriten's planned 10th anniversary events, the free \"Yuriten 10th Anniversary Restart Campaign in Ikebukuro\" set for October 17 and 18 in Tokyo, after yuri manga creators criticized the event's use of AI-generated imagery in promotional material."
+                "x": "A global survey commissioned by Audible, “The Future of Listening,” was conducted by NielsenIQ and polled 18,000 consumers in 11 markets, including the U.S., U.K., several European countries, Japan and Brazil. Some 34% said they had listened to more audiobooks over the past year than in the previous one."
               },
               {
                 "t": "p",
-                "x": "Organizers had acknowledged using generative AI in the announcement visual, the event decorations and some other promotions. Bloom Into You creator Nio Nakatani called it confounding and disappointing; Yukiko and Yayoi Osawa also criticized it."
+                "x": "Some 69% of listeners had already read the title they listened to, and 63% who discovered an author in audio went on to buy another work by them. “Audiobooks are not competitive to other formats,” said Audible’s chief content officer Rachel Ghiazza."
               },
               {
                 "t": "p",
-                "x": "Lilium, the company behind Yuriten, apologized, saying it contracted another company to manage and promote the event and citing shortcomings in its own vetting. It promised to strengthen oversight of outside contractors and said it will not use generative AI in future Yuriten exhibitions."
+                "x": "About half of respondents said they would try AI narration, with interest higher for fiction than nonfiction in most markets, except Germany and Japan. Ghiazza called it “an and strategy”: human performers remain, and production savings are meant to fund more titles. “Quality and transparency are critically important.”"
+              },
+              {
+                "t": "p",
+                "x": "Audible has not detailed the survey’s methodology, but Ghiazza’s message to hesitant publishers was blunt: “The time is now.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Yuriten, 기념 행사\nAI 이미지 논란에 취소",
-          "body": "Yuriten이 AI-generated 이미지 비판에 10주년 첫 행사를 접었다.",
-          "mini_headline": "Yuriten, AI 논란 행사 취소",
+          "headline": "청취자 절반가량\nAI 낭독에 열려 있다",
+          "body": "Audible·NielsenIQ 11개 시장 조사서 오디오북이 책 구매로 이어졌다.",
+          "mini_headline": "AI 목소리에 열린 청취자들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-                "cap": "Yuriten의 삭제된 X/Twitter 게시물 이미지"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
               },
               {
                 "t": "p",
-                "x": "Yuriten(Yuri Fair) 전시회 주최 측이 10월 17일과 18일 도쿄에서 열 예정이던 무료 행사 “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”를 취소했다. Yuriten이 계획한 10주년 행사 가운데 첫 번째였다. 행사 홍보물에 AI 생성(AI-generated) 이미지가 쓰였다며 유리 만화 작가들이 비판하자 내린 결정이다."
+                "x": "Audible이 의뢰하고 NielsenIQ가 진행한 글로벌 조사 “The Future of Listening”은 U.S., U.K., 유럽 여러 나라, 일본, 브라질 등 11개 시장의 소비자 18,000명을 대상으로 했다. 응답자의 34%는 지난 한 해 오디오북을 그 전해보다 더 많이 들었다고 답했다."
               },
               {
                 "t": "p",
-                "x": "주최 측은 앞서 공지 비주얼과 행사 장식, 다른 홍보물 일부에 생성형 AI를 썼다고 인정했다. Bloom Into You의 작가 Nio Nakatani는 당혹스럽고 실망스럽다고 했다. Yukiko와 Yayoi Osawa도 비판에 가세했다."
+                "x": "청취자의 69%는 이미 읽은 작품을 들었다. 오디오로 작가를 처음 접한 사람 가운데 63%는 그 작가의 다른 작품을 샀다. Audible의 최고콘텐츠책임자 Rachel Ghiazza는 “오디오북은 다른 형식과 경쟁하지 않는다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Yuriten을 운영하는 Lilium은 사과하면서 행사 운영과 홍보를 다른 회사에 맡겼고 자사 검수도 부족했다고 밝혔다. 외부 위탁사 관리를 강화하고, 앞으로 Yuriten 전시회에서는 생성형 AI를 쓰지 않겠다고 약속했다."
+                "x": "응답자의 절반가량은 AI 낭독을 들어볼 의향이 있다고 답했다. 독일과 일본을 뺀 대부분 시장에서는 논픽션보다 픽션 쪽 관심이 더 높았다. Ghiazza는 이를 “‘and’ 전략”이라고 불렀다. 사람 낭독자는 그대로 남고 제작비를 아낀 만큼 더 많은 작품을 낸다는 것이다. “품질과 투명성이 매우 중요하다.”"
+              },
+              {
+                "t": "p",
+                "x": "Audible은 조사 방법을 자세히 밝히지 않았다. 망설이는 출판사들에게 Ghiazza가 던진 메시지는 단호했다. “때는 바로 지금이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Yuriten、記念イベント\nAI画像への批判で中止",
-          "body": "YuritenがAI-generated画像への批判を受け、10周年初回イベントを中止した。",
-          "mini_headline": "Yuriten、AI問題でイベント中止",
+          "headline": "リスナーの約半数\nAIナレーションに前向き",
+          "body": "Audible依頼のNielsenIQ調査で11市場のリスナーは紙と電子書籍に回帰する。",
+          "mini_headline": "AI音声に前向きなリスナー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-                "cap": "Yuritenの削除されたX/Twitter投稿より"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
               },
               {
                 "t": "p",
-                "x": "Yuriten(Yuri Fair)展の主催者は、Yuritenが予定していた10周年記念イベントの第一弾で、10月17日と18日に東京で開催予定だった無料の「Yuriten 10th Anniversary Restart Campaign in Ikebukuro」を中止した。百合漫画の作家たちが、宣伝素材でのAI生成(AI-generated)画像の使用を批判したためだ。"
+                "x": "Audibleが委託したグローバル調査「The Future of Listening」はNielsenIQが実施し、U.S.、U.K.、欧州数カ国、日本、ブラジルなど11市場の消費者18,000人を対象とした。34%が、過去一年間に前年よりも多くのオーディオブックを聴いたと答えた。"
               },
               {
                 "t": "p",
-                "x": "主催者は、告知ビジュアルやイベントの装飾、その他一部の宣伝に生成AIを使ったことを認めていた。Bloom Into Youの作者Nio Nakataniは困惑し失望したと述べ、YukikoとYayoi Osawaも批判した。"
+                "x": "リスナーの69%は聴いた作品をすでに読んでおり、オーディオで作家を知った人の63%がその作家の別の作品を購入した。AudibleのチーフコンテンツオフィサーRachel Ghiazzaは「オーディオブックはほかのフォーマットと競合しない」と語った。"
               },
               {
                 "t": "p",
-                "x": "Yuritenを運営するLiliumは謝罪し、イベントの運営と宣伝を別の会社に委託していたと説明したうえで、自社の確認体制の不備を認めた。外部委託先への監督を強化すると約束し、今後のYuriten展では生成AIを使わないとした。"
+                "x": "回答者の約半数がAIナレーションを試すと答え、ドイツと日本を除くほとんどの市場で、ノンフィクションよりフィクションへの関心が高かった。Ghiazzaはこれを「and戦略」と呼ぶ。人間の朗読者は残り、制作コストの削減分はより多くのタイトルの制作に充てるという。「品質と透明性が極めて重要だ」。"
+              },
+              {
+                "t": "p",
+                "x": "Audibleは調査手法の詳細を明らかにしていないが、ためらう出版社へのGhiazzaのメッセージは率直だった。「今がその時だ」。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Yuriten周年活动\n因AI图像取消",
-          "body": "Yuriten因AI-generated图像遭批评，取消东京10周年首场活动。",
-          "mini_headline": "Yuriten因AI取消活动",
+          "headline": "约半数听众\n愿意接受AI朗读",
+          "body": "Audible委托NielsenIQ在11个市场调查发现，有声书会把听众带回纸书和电子书。",
+          "mini_headline": "听众对AI声音持开放态度",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-                "cap": "图片来自Yuriten已删除的X/Twitter帖子"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
               },
               {
                 "t": "p",
-                "x": "Yuriten（Yuri Fair）展会主办方取消了Yuriten计划中的首场10周年纪念活动，即原定10月17日和18日在东京举办的免费活动“Yuriten 10th Anniversary Restart Campaign in Ikebukuro”。此前，百合漫画创作者批评该活动在宣传物料中使用AI生成（AI-generated）图像。"
+                "x": "Audible委托开展的全球调查《The Future of Listening》由NielsenIQ执行，覆盖U.S.、U.K.、多个欧洲国家、日本和巴西等11个市场的18,000名消费者。约34%的受访者表示，过去一年听的有声书比前一年更多。"
               },
               {
                 "t": "p",
-                "x": "主办方此前承认在公告主视觉、活动装饰及其他部分宣传中使用了生成式AI。Bloom Into You作者Nio Nakatani称此事令人困惑和失望，Yukiko和Yayoi Osawa也提出了批评。"
+                "x": "69%的听众已读过他们所听的书，通过音频发现某位作者的人中有63%会继续购买该作者的其他作品。Audible首席内容官Rachel Ghiazza表示：“有声书与其他形式并非竞争关系。”"
               },
               {
                 "t": "p",
-                "x": "Yuriten背后的公司Lilium致歉称，活动的运营和宣传委托给了另一家公司，并承认自身审核存在不足。该公司承诺加强对外部承包商的监督，并表示今后的Yuriten展会将不再使用生成式AI。"
+                "x": "约半数受访者表示愿意尝试AI朗读，除德国和日本外，大多数市场对小说的兴趣高于非虚构作品。Ghiazza称之为“and策略”：真人演播者仍将保留，节省下来的制作成本将用于出版更多作品。“质量和透明度至关重要。”"
+              },
+              {
+                "t": "p",
+                "x": "Audible没有详细说明调查方法，但Ghiazza对犹豫不决的出版商传达的信息十分直接：“时机就是现在。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Yuriten cancela un evento de\naniversario por imágenes de IA",
-          "body": "Yuriten canceló el primer evento de su 10.º aniversario en Tokio tras críticas a sus imágenes generadas por IA.",
-          "mini_headline": "Yuriten cancela un evento por la IA",
+          "headline": "Cerca de la mitad del público\nacepta la narración con AI",
+          "body": "Una encuesta de NielsenIQ encargada por Audible en 11 mercados halla que el audio lleva a leer en papel y en digital.",
+          "mini_headline": "Oyentes abiertos a las voces de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-                "cap": "Imagen de la publicación eliminada de Yuriten en X/Twitter"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
               },
               {
                 "t": "p",
-                "x": "Los organizadores de la exposición Yuriten (Yuri Fair) cancelaron el primero de los eventos previstos por el 10.º aniversario de Yuriten, la gratuita “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”, programada para el 17 y el 18 de octubre en Tokio, después de que autores de manga yuri criticaran el uso de imágenes generadas por IA (AI-generated) en el material promocional del evento."
+                "x": "Una encuesta global encargada por Audible, “The Future of Listening”, fue realizada por NielsenIQ entre 18,000 consumidores de 11 mercados, entre ellos U.S., U.K., varios países europeos, Japón y Brasil. Un 34% afirmó haber escuchado más audiolibros en el último año que en el anterior."
               },
               {
                 "t": "p",
-                "x": "Los organizadores habían reconocido el uso de IA generativa en el visual del anuncio, la decoración del evento y algunas otras promociones. Nio Nakatani, creadora de Bloom Into You, lo calificó de desconcertante y decepcionante; Yukiko y Yayoi Osawa también lo criticaron."
+                "x": "Un 69% de los oyentes ya había leído el título que escuchó, y el 63% de quienes descubrieron a un autor en audio compraron después otra obra suya. “Los audiolibros no compiten con otros formatos”, dijo Rachel Ghiazza, directora de contenidos de Audible."
               },
               {
                 "t": "p",
-                "x": "Lilium, la empresa detrás de Yuriten, pidió disculpas, explicó que había contratado a otra empresa para gestionar y promocionar el evento y reconoció fallos en su propia verificación. Prometió reforzar la supervisión de los contratistas externos y afirmó que no usará IA generativa en futuras exposiciones de Yuriten."
+                "x": "Cerca de la mitad de los encuestados dijo que probaría la narración con AI, con más interés por la ficción que por la no ficción en la mayoría de los mercados, salvo Alemania y Japón. Ghiazza la definió como “una estrategia de ‘and’”: los intérpretes humanos se mantienen y el ahorro en producción servirá para financiar más títulos. “La calidad y la transparencia son de vital importancia”."
+              },
+              {
+                "t": "p",
+                "x": "Audible no ha detallado la metodología de la encuesta, pero el mensaje de Ghiazza a las editoriales indecisas fue tajante: “El momento es ahora”."
               }
             ]
           }
@@ -1323,109 +1501,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Yuriten, 기념 행사\nAI 이미지 논란에 취소",
-          "body": "Yuriten이 AI-generated 이미지 비판에 10주년 첫 행사를 접었다.",
-          "mini_headline": "Yuriten, AI 논란 행사 취소",
+          "headline": "청취자 절반가량\nAI 낭독에 열려 있다",
+          "body": "Audible·NielsenIQ 11개 시장 조사서 오디오북이 책 구매로 이어졌다.",
+          "mini_headline": "AI 목소리에 열린 청취자들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-                "cap": "Yuriten의 삭제된 X/Twitter 게시물 이미지"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
               },
               {
                 "t": "p",
-                "x": "Yuriten(Yuri Fair) 전시회 주최 측이 10월 17일과 18일 도쿄에서 열 예정이던 무료 행사 “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”를 취소했다. Yuriten이 계획한 10주년 행사 가운데 첫 번째였다. 유리 만화 작가들이 행사 홍보물에 AI 생성(AI-generated) 이미지를 쓴 것을 비판한 뒤 내린 결정이다."
+                "x": "Audible이 의뢰한 글로벌 조사 “The Future of Listening”은 NielsenIQ가 수행했으며, U.S., U.K., 유럽 여러 나라, 일본, 브라질 등 11개 시장의 소비자 18,000명을 대상으로 했다. 응답자의 34%는 지난 한 해 동안 그 이전 해보다 오디오북을 더 많이 들었다고 답했다."
               },
               {
                 "t": "p",
-                "x": "주최 측은 공지 비주얼과 행사 장식, 일부 다른 홍보물에 생성형 AI를 썼다고 인정한 바 있다. Bloom Into You의 작가 Nio Nakatani는 당혹스럽고 실망스럽다고 했고, Yukiko와 Yayoi Osawa도 비판했다."
+                "x": "청취자의 69%는 들은 작품을 이미 읽은 적이 있었고, 오디오로 작가를 처음 알게 된 이들의 63%는 그 작가의 다른 작품을 구매했다. Audible의 최고콘텐츠책임자 Rachel Ghiazza는 “오디오북은 다른 형식과 경쟁하지 않는다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Yuriten을 운영하는 Lilium은 사과하며, 행사 운영과 홍보를 다른 회사에 맡겼고 자사 검수에도 부족함이 있었다고 밝혔다. 외부 위탁사 관리를 강화하겠다고 약속했으며, 앞으로 Yuriten 전시회에서 생성형 AI를 쓰지 않겠다고 했다."
+                "x": "응답자의 절반가량은 AI 낭독을 들어볼 의향이 있다고 답했고, 독일과 일본을 제외한 대부분 시장에서 논픽션보다 픽션에 대한 관심이 더 높았다. Ghiazza는 이를 “‘and’ 전략”이라고 불렀다. 사람 낭독자는 그대로 남고, 제작비 절감분은 더 많은 작품을 내는 데 쓴다는 것이다. “품질과 투명성이 매우 중요하다.”"
+              },
+              {
+                "t": "p",
+                "x": "Audible은 조사 방법을 자세히 밝히지 않았지만, 망설이는 출판사들을 향한 Ghiazza의 메시지는 단호했다. “때는 바로 지금이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Yuriten、記念イベント\nAI画像への批判で中止",
-          "body": "YuritenがAI-generated画像への批判を受け、10周年初回イベントを中止した。",
-          "mini_headline": "Yuriten、AI問題でイベント中止",
+          "headline": "リスナーの約半数\nAIナレーションに前向き",
+          "body": "Audible依頼のNielsenIQ調査で11市場のリスナーは紙と電子書籍に回帰する。",
+          "mini_headline": "AI音声に前向きなリスナー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-                "cap": "Yuritenの削除されたX/Twitter投稿より"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
               },
               {
                 "t": "p",
-                "x": "Yuriten(Yuri Fair)展の主催者は、Yuritenが予定していた10周年記念イベントの第一弾で、10月17日と18日に東京で開催予定だった無料の「Yuriten 10th Anniversary Restart Campaign in Ikebukuro」を中止した。百合漫画の作家たちが、宣伝素材でのAI生成(AI-generated)画像の使用を批判したためだ。"
+                "x": "Audibleが委託したグローバル調査「The Future of Listening」はNielsenIQが実施し、U.S.、U.K.、欧州数カ国、日本、ブラジルなど11市場の消費者18,000人を対象とした。34%が、過去一年間に前年よりも多くのオーディオブックを聴いたと答えた。"
               },
               {
                 "t": "p",
-                "x": "主催者は、告知ビジュアルやイベントの装飾、その他一部の宣伝に生成AIを使ったことを認めていた。Bloom Into Youの作者Nio Nakataniは困惑し失望したと述べ、YukikoとYayoi Osawaも批判した。"
+                "x": "リスナーの69%は聴いた作品をすでに読んでおり、オーディオで作家を知った人の63%がその作家の別の作品を購入した。AudibleのチーフコンテンツオフィサーRachel Ghiazzaは「オーディオブックはほかのフォーマットと競合しない」と語った。"
               },
               {
                 "t": "p",
-                "x": "Yuritenを運営するLiliumは謝罪し、イベントの運営と宣伝を別の会社に委託していたと説明したうえで、自社の確認体制の不備を認めた。外部委託先への監督を強化すると約束し、今後のYuriten展では生成AIを使わないとした。"
+                "x": "回答者の約半数がAIナレーションを試すと答え、ドイツと日本を除くほとんどの市場で、ノンフィクションよりフィクションへの関心が高かった。Ghiazzaはこれを「and戦略」と呼ぶ。人間の朗読者は残り、制作コストの削減分はより多くのタイトルの制作に充てるという。「品質と透明性が極めて重要だ」。"
+              },
+              {
+                "t": "p",
+                "x": "Audibleは調査手法の詳細を明らかにしていないが、ためらう出版社へのGhiazzaのメッセージは率直だった。「今がその時だ」。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Yuriten周年活动\n因AI图像取消",
-          "body": "Yuriten因AI-generated图像遭批评，取消东京10周年首场活动。",
-          "mini_headline": "Yuriten因AI取消活动",
+          "headline": "约半数听众\n愿意接受AI朗读",
+          "body": "Audible委托NielsenIQ在11个市场调查发现，有声书会把听众带回纸书和电子书。",
+          "mini_headline": "听众对AI声音持开放态度",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-                "cap": "图片来自Yuriten已删除的X/Twitter帖子"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
               },
               {
                 "t": "p",
-                "x": "Yuriten（Yuri Fair）展会主办方取消了Yuriten计划中的首场10周年纪念活动，即原定10月17日和18日在东京举办的免费活动“Yuriten 10th Anniversary Restart Campaign in Ikebukuro”。此前，百合漫画创作者批评该活动在宣传物料中使用AI生成（AI-generated）图像。"
+                "x": "Audible委托开展的全球调查《The Future of Listening》由NielsenIQ执行，覆盖U.S.、U.K.、多个欧洲国家、日本和巴西等11个市场的18,000名消费者。约34%的受访者表示，过去一年听的有声书比前一年更多。"
               },
               {
                 "t": "p",
-                "x": "主办方此前承认在公告主视觉、活动装饰及其他部分宣传中使用了生成式AI。Bloom Into You作者Nio Nakatani称此事令人困惑和失望，Yukiko和Yayoi Osawa也提出了批评。"
+                "x": "69%的听众已读过他们所听的书，通过音频发现某位作者的人中有63%会继续购买该作者的其他作品。Audible首席内容官Rachel Ghiazza表示：“有声书与其他形式并非竞争关系。”"
               },
               {
                 "t": "p",
-                "x": "Yuriten背后的公司Lilium致歉称，活动的运营和宣传委托给了另一家公司，并承认自身审核存在不足。该公司承诺加强对外部承包商的监督，并表示今后的Yuriten展会将不再使用生成式AI。"
+                "x": "约半数受访者表示愿意尝试AI朗读，除德国和日本外，大多数市场对小说的兴趣高于非虚构作品。Ghiazza称之为“and策略”：真人演播者仍将保留，节省下来的制作成本将用于出版更多作品。“质量和透明度至关重要。”"
+              },
+              {
+                "t": "p",
+                "x": "Audible没有详细说明调查方法，但Ghiazza对犹豫不决的出版商传达的信息十分直接：“时机就是现在。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Yuriten cancela un evento de\naniversario por imágenes de IA",
-          "body": "Yuriten canceló el primer evento de su 10.º aniversario en Tokio tras críticas a sus imágenes generadas por IA.",
-          "mini_headline": "Yuriten cancela un evento por la IA",
+          "headline": "Cerca de la mitad del público\nacepta la narración con AI",
+          "body": "Una encuesta de NielsenIQ encargada por Audible en 11 mercados halla que el audio lleva a leer en papel y en digital.",
+          "mini_headline": "Oyentes abiertos a las voces de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/images/cms/news.10/242698/hulzsykboaapk7p.jpeg",
-                "cap": "Imagen de la publicación eliminada de Yuriten en X/Twitter"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
               },
               {
                 "t": "p",
-                "x": "Los organizadores de la exposición Yuriten (Yuri Fair) cancelaron el primero de los eventos previstos por el 10.º aniversario de Yuriten, la gratuita “Yuriten 10th Anniversary Restart Campaign in Ikebukuro”, programada para el 17 y el 18 de octubre en Tokio, después de que autores de manga yuri criticaran el uso de imágenes generadas por IA (AI-generated) en el material promocional del evento."
+                "x": "Una encuesta global encargada por Audible, “The Future of Listening”, fue realizada por NielsenIQ entre 18,000 consumidores de 11 mercados, entre ellos U.S., U.K., varios países europeos, Japón y Brasil. Un 34% afirmó haber escuchado más audiolibros en el último año que en el anterior."
               },
               {
                 "t": "p",
-                "x": "Los organizadores habían reconocido el uso de IA generativa en el visual del anuncio, la decoración del evento y algunas otras promociones. Nio Nakatani, creadora de Bloom Into You, lo calificó de desconcertante y decepcionante; Yukiko y Yayoi Osawa también lo criticaron."
+                "x": "Un 69% de los oyentes ya había leído el título que escuchó, y el 63% de quienes descubrieron a un autor en audio compraron después otra obra suya. “Los audiolibros no compiten con otros formatos”, dijo Rachel Ghiazza, directora de contenidos de Audible."
               },
               {
                 "t": "p",
-                "x": "Lilium, la empresa detrás de Yuriten, pidió disculpas, explicó que había contratado a otra empresa para gestionar y promocionar el evento y reconoció fallos en su propia verificación. Prometió reforzar la supervisión de los contratistas externos y afirmó que no usará IA generativa en futuras exposiciones de Yuriten."
+                "x": "Cerca de la mitad de los encuestados dijo que probaría la narración con AI, con más interés por la ficción que por la no ficción en la mayoría de los mercados, salvo Alemania y Japón. Ghiazza la definió como “una estrategia de ‘and’”: los intérpretes humanos se mantienen y el ahorro en producción servirá para financiar más títulos. “La calidad y la transparencia son de vital importancia”."
+              },
+              {
+                "t": "p",
+                "x": "Audible no ha detallado la metodología de la encuesta, pero el mensaje de Ghiazza a las editoriales indecisas fue tajante: “El momento es ahora”."
               }
             ]
           }

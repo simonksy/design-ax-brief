@@ -7447,6 +7447,123 @@
           "x": "Because it follows individual cells rather than population averages, the method can track their growth, movement, division and biomass changes over time. The researchers see uses in drug-response studies, toxicity screening and cell-death research. The work is published in Applied Physics Letters."
         }
       ]
+    },
+    "science/science-gemini-4-argon-robotics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gemini 4 Argon marks a step change in physical understanding, code generation, and visual-semantic reasoning—unlocking new workflows across the robotics stack and accelerating progress toward physical AGI. On the Embodied Reasoning (ERQA) benchmark, which tests a model's ability to solve physical, spatial problems in 3D environments, Argon scores 87% using pure reasoning, outperforming every other frontier model."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Argon is shown across four areas: robot control (mobile manipulation with MuJoCo practice, zero-shot control, steering of video world models), Real2Sim (simulation twins from robot camera feeds, egocentric human video, or hand-drawn sketches), physical understanding (hindsight labeling, dense value functions, progress estimation), and research and self-improvement."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Argon controls a Boston Dynamics Spot quadruped to learn a new skill, building a MuJoCo digital twin of a foot-pedal trash bin to practice before stepping on the real pedal and dropping soda cans in. From a single tabletop photo, it built a simulation twin and generated 4,500+ episodes, lifting a real-world benchmark from 56% to 75% success."
+        }
+      ]
+    },
+    "science/science-idealens-idea-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
+          "cap": "IDEALENS tracks ideas; traditional detectors track wording. Credit: arXiv (2026)."
+        },
+        {
+          "t": "p",
+          "x": "Researchers from the University of Maryland, Google DeepMind and Simon Fraser University built IdeaLens, which tries to detect AI involvement in writing by analyzing the underlying ideas and arguments rather than word choice. The team collected about 1 million labeled documents and used language models to reduce them to outlines of core arguments, stripping away style."
+        },
+        {
+          "t": "p",
+          "x": "On fully human or fully AI-generated documents, IdeaLens identified 91% of AI-generated ones, with false alarms on 0.6% of human work. On human writing based on AI outlines, it flagged 68% as AI ideas, while Pangram caught only 8%. On AI writing based on human outlines, Pangram 4 caught 92% of the AI wording; IdeaLens flagged only 7%."
+        },
+        {
+          "t": "p",
+          "x": "Across 90,000 predictions, human ideas tended to include verifiable sources and acknowledged limitations; AI writing leaned on generic details, unverifiable numbers and sweeping claims. IdeaLens was less effective on some newer models, so it is not ready for deployment without further testing."
+        }
+      ]
+    },
+    "science/science-arnhem-rangers-megadetector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
+          "cap": "A black-footed tree-rat, captured on a camera trap used by Warddeken rangers. Credit: Cara Penton"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from Warddeken Land Management, Charles Darwin University and CSIRO studied how AI could support Indigenous-led wildlife monitoring in West Arnhem, Australia, in a paper in Conservation Science and Practice. The work centers on the Mayh (animal) program, which runs camera traps in the Warddeken Indigenous Protected Area and employs bininj and daluk rangers."
+        },
+        {
+          "t": "p",
+          "x": "Rangers fed 1,572 hours of data to the MegaDetector animal-detection model. Images needing analysis fell from 925,088 to 172,290, an 81.4% reduction, and processing time dropped from six months to two. Average processing time fell from 52.6 to 41.8 hours every two weeks, freeing time for land management, species identification, language documentation and workshops."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Cara Penton stressed that people remain involved in verifying data, and senior daluk ranger Suzanna Nabulwad said technology should be introduced carefully, with input from elders."
+        }
+      ]
+    },
+    "science/science-ai-idea-theft-fears": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
+          "cap": "Scientists are becoming increasingly concerned about the privacy of their manuscripts in the wake of high-profile accusations that AI companies harvested uploaded documents."
+        },
+        {
+          "t": "p",
+          "x": "When OpenAI claimed an internal model had solved one of math's seven million-dollar problems, a New York University mathematician insinuated the company had stolen progress he had shared with a chatbot. Weeks later, the New York Times reported a similar story between Anthropic and a University of Copenhagen biologist. Both companies stated they did not train on the uploaded data."
+        },
+        {
+          "t": "p",
+          "x": "Scientists still use these models as a sounding board, for literature review or to generate proofs, but some now see them as competitors. “I'm not using them,” says Clément Canonne of the University of Sydney."
+        },
+        {
+          "t": "p",
+          "x": "Stanford HAI fellow Jennifer King says enterprise accounts seem safe, “but if you are on a personal account, all bets are off”; users often must opt out of training. “The companies are not transparent about these practices,” she says."
+        },
+        {
+          "t": "p",
+          "x": "Scientists may feel they must either use the models and risk leaking a discovery or not and risk being scooped. “If you're not using them, are you going to be irrelevant?” Canonne says."
+        }
+      ]
+    },
+    "science/science-3d-einstein-tile-aperiodic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/e2264ede-ffd2-40f0-96e0-11fd037635f3/chair44_graphic_leadImage.png?m=1791581085.38&w=1200",
+          "cap": "The Chair44 monotile can fill 3D space without creating repeating patterns. Amanda Montañez"
+        },
+        {
+          "t": "p",
+          "x": "Researchers have just discovered a three-dimensional “einstein” tile. In 2023 the hat-shaped tile found by amateur mathematician David Smith was proved the first known 2D aperiodic monotile: a shape that can infinitely tile a surface without ever creating a repeating pattern."
+        },
+        {
+          "t": "p",
+          "x": "Now the Chair44 monotile can infinitely tile 3D space without gaps or overlaps, and that tiling is aperiodic. The finding was announced by Ioannis Tsiokos, director of Automorph, which he describes as an AI research lab. “I’m not a mathematician myself,” says Tsiokos, the sole human author of the preprint. He says he used Anthropic’s Claude Fable 5.1 to write the paper and OpenAI’s ChatGPT-6 Astra to search for a 3D monotile and verify that Chair44 met the criteria for an einstein."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/3132dc2a-ac84-4fc5-b7e9-e02cf5f6dba2/chair44_graphic_d1_TEXT.png?m=1791582308.396&w=900",
+          "cap": "An exploded and assembled version of Superchair44, composed of eight iterations of the Chair44 monotile."
+        },
+        {
+          "t": "p",
+          "x": "Craig Kaplan says it settles “a nagging open problem in tiling theory”: the older Schmitt-Conway-Danzer biprism was only weakly aperiodic. Reception has been mixed because of the heavy use of generative AI. Chaim Goodman-Strauss said the paper has “hallmarks of an LLM-driven research paper,” and he and Felix Flicker have written human proofs that Chair44 is an aperiodic monotile. “The risk is that our jobs get reduced to sifting through AI slop in search of nuggets of gold,” Flicker says."
+        }
+      ]
     }
   }
 }

@@ -907,6 +907,97 @@
           "x": "수치로 나온 성과는 테스터 한 명의 사례뿐이다. 식료품점 주인 Tom Mulholland는 Muse 덕분에 급여 처리 시간이 최소 15분 줄었다고 했다. Muse는 대부분 용도에서 무료이고 구독 요금제도 있지만, Meta는 가격을 밝히지 않았다. Meta의 2026년 Q2 매출은 608억 달러였고, 97% 이상이 광고에서 나왔다."
         }
       ]
+    },
+    "marketing/marketing-amex-agent-purchase-intent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+        },
+        {
+          "t": "p",
+          "x": "American Express는 AI 에이전트가 거래를 마치기 전에 고객의 구매 의도를 포착하고 인증하는 프레임워크를 도입한다. 이름은 “Intent Intelligence Framework”로, 회사는 이것이 AI-powered 거래의 업계 표준이 되길 바란다."
+        },
+        {
+          "t": "p",
+          "x": "출발점은 Create Intent API다. 가맹점 이름과 최대 예산 같은 고객의 구매 지시와 제약 조건을 이 API에 담는다. 고객이 인증하고 승인하면 Intent ID와 Proof of Intent Token이 만들어진다. 이 토큰으로 보안 결제 자격 증명을 받으면 에이전트는 실제 카드 번호 대신 그 자격 증명으로 결제한다."
+        },
+        {
+          "t": "p",
+          "x": "Amex의 Agentic Partnerships and Strategy 담당 VP인 Hannah Bozian은 “우리 방식은 의도를 거래 흐름의 더 앞 단계로 끌어온다는 점에서 다른 곳의 구현과 다르다”고 말했다. 이를테면 고객이 9 사이즈 흰색 Nike 운동화를 요청했는데 에이전트가 Adidas를 사려 하면 Amex가 거래를 막을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Amex는 에이전트 커머스 탓에 분쟁이 늘어난 일은 아직 없다고 밝혔다. 프레임워크는 지난 사월 나온 ACE Developer Toolkit에 합류한다."
+        }
+      ]
+    },
+    "marketing/marketing-salesforce-koa-crm-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
+          "cap": "Salesforce는 27년치 CRM 시뮬레이션으로 학습한 Koa를 Claude, ChatGPT 옆에 나란히 붙인다"
+        },
+        {
+          "t": "p",
+          "x": "Salesforce는 최고데이터책임자(Chief Data Officer) Michael Andrew의 인터뷰를 공개했다. Andrew는 고객이 프런티어, 오픈, 맞춤형 AI 모델을 오가며 쓸 수 있어야 한다고 주장했다. 회사의 첫 CRM 추론 모델 Koa도 그 선택지에 들어간다. 회사에 따르면 Koa는 NVIDIA와 함께 만들었고 27년간 CRM 워크플로를 운영하며 쌓은 시뮬레이션으로 학습했다."
+        },
+        {
+          "t": "p",
+          "x": "Koa는 “프런티어 모델을 대체하지 않고 그와 나란히 오케스트레이션된다.” 다만 페이지 어디에도 파라미터 수, 벤치마크 점수, 가격, 출시일은 없다."
+        },
+        {
+          "t": "p",
+          "x": "“모델마다 강점과 약점이 다르고, 그것은 늘 바뀐다”고 Andrew는 말했다. “AI는 연료다… 우리는 그 연료가 Anthropic과 Claude든, OpenAI와 ChatGPT든 어디서든 오게 하고 싶다.”"
+        },
+        {
+          "t": "p",
+          "x": "모델 선택을 앞세운 이 메시지는 Claudeforce 제휴로 Claude가 Slack과 여러 Agentforce 화면의 기본 모델이 된 지 여섯 주 만에 나왔다. 마케터에게는 CRM 에이전트 뒤에 어떤 모델이 있느냐가 응답 시간, 신뢰성, 사용 비용을 좌우한다."
+        }
+      ]
+    },
+    "marketing/marketing-bannerflow-attention-scoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
+          "cap": "Bannerflow 히트맵은 집행 전에 광고 주목도를 예측하지만 점수를 뒷받침할 검증 데이터는 영이다"
+        },
+        {
+          "t": "p",
+          "x": "Bannerflow가 자사 크리에이티브 플랫폼의 AI 도구에 이름을 붙였다. 이름은 Creative Intelligence다. 이 제품군은 이미지 생성, 예측 주목도 점수, 성과 분석 레이어, 피드 기반 다이내믹 광고를 Create, Evaluate, Understand, Act and scale의 네 단계로 묶는다."
+        },
+        {
+          "t": "p",
+          "x": "예측 점수는 “주목도 히트맵, 초점 분석, 명확성 점수”로 크리에이티브가 “캠페인 예산을 투입하기 전에 주목을 끌 가능성”을 보여주고 시선을 흩뜨리는 요소도 짚는다. Creative Insights는 행동 유도 문구, 색상, 애니메이션 타이밍 같은 요소를 성과와 잇는다. 팀은 이미지를 생성·확장·업스케일하고 상품 피드도 일상 언어로 설정할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "발표 자료에는 출시 일정도, 가격도, 예측 모델의 검증 데이터도 없다. 최고제품책임자(Chief Product Officer) Moses Velasco는 “마케팅 팀은 그 어느 때보다 많은 성과 데이터를 갖고 있지만, 다음 크리에이티브에 영감을 주는 데이터는 너무 적다”고 말했다."
+        }
+      ]
+    },
+    "marketing/marketing-google-ai-mode-rx-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/05/google-ai-mode-gml-2026.png?w=1240",
+          "cap": "John Keeble via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Google이 AI Mode와 AI Overviews에서 브랜드 처방약 광고를 시험 중이라고 ADWEEK에 확인했다. 광고 업계에서 규제가 가장 까다로운 범주 하나에 AI 검색 플랫폼의 문을 연 셈이다."
+        },
+        {
+          "t": "p",
+          "x": "Google 대변인은 처방약을 포함한 의약품 광고 시험이 이달 시작됐고 U.S에 한정된다고 전했다. 제약 광고주는 일반 텍스트 광고와 Shopping 광고를 낼 수 있고, 광고는 “Sponsored” 표시가 붙은 영역에 뜬다."
+        },
+        {
+          "t": "p",
+          "x": "Google 대변인은 성명에서 “AI Mode와 AI Overviews에서 일반 텍스트 광고와 Shopping 광고를 시험하고 있으며, 최근 일부 의약품까지 범위를 넓혔다”고 밝혔다."
+        }
+      ]
     }
   }
 }

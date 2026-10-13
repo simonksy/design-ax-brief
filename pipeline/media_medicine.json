@@ -1,30 +1,7 @@
-{
-  "date": "2026-10-13",
-  "section": "medicine",
-  "media": [
-    {
-      "id": "medicine-wechat-gpt4o-respiratory-triage",
-      "type": "image",
-      "src": "pipeline/media/medicine-wechat-gpt4o-respiratory-triage.png"
-    },
-    {
-      "id": "medicine-medgemma-open-vlm-nature-medicine",
-      "type": "image",
-      "src": "pipeline/media/medicine-medgemma-open-vlm-nature-medicine.png"
-    },
-    {
-      "id": "medicine-bmj-healthai-patient-data-sale",
-      "type": "svg"
-    },
-    {
-      "id": "medicine-claude-genome-ashley-standards",
-      "type": "image",
-      "src": "pipeline/media/medicine-claude-genome-ashley-standards.jpg"
-    },
-    {
-      "id": "medicine-patient-ai-privacy-survey-dive",
-      "type": "image",
-      "src": "pipeline/media/medicine-patient-ai-privacy-survey-dive.jpg"
-    }
-  ]
-}
+{"date":"2026-10-14","section":"medicine","media":[
+{"id":"medicine-uk-nhs-ai-commission-blueprint","type":"image","src":"pipeline/media/medicine-uk-nhs-ai-commission-blueprint.png"},
+{"id":"medicine-prostate-mri-ai-radiologist-parity","type":"image","src":"pipeline/media/medicine-prostate-mri-ai-radiologist-parity.jpg"},
+{"id":"medicine-epilepsy-eeg-llm-chat-comanagement","type":"image","src":"pipeline/media/medicine-epilepsy-eeg-llm-chat-comanagement.png"},
+{"id":"medicine-mfds-trial-docs-exposed","type":"image","src":"pipeline/media/medicine-mfds-trial-docs-exposed.jpg"},
+{"id":"medicine-neonatal-ett-xray-continual-learning","type":"image","src":"pipeline/media/medicine-neonatal-ett-xray-continual-learning.png"}
+]}

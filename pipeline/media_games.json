@@ -1,32 +1,7 @@
-{
-  "date": "2026-10-13",
-  "section": "games",
-  "media": [
-    {
-      "id": "games-epic-ai-first-disney-delay",
-      "type": "image",
-      "src": "pipeline/media/games-epic-ai-first-disney-delay.png"
-    },
-    {
-      "id": "games-horii-claude-30min-game",
-      "type": "image",
-      "src": "pipeline/media/games-horii-claude-30min-game.jpg"
-    },
-    {
-      "id": "games-square-enix-collective-vaultbreakers",
-      "type": "video",
-      "src": "pipeline/media/games-square-enix-collective-vaultbreakers.mp4",
-      "poster": "pipeline/media/games-square-enix-collective-vaultbreakers.jpg"
-    },
-    {
-      "id": "games-flathub-ai-disclosure-policy",
-      "type": "image",
-      "src": "pipeline/media/games-flathub-ai-disclosure-policy.jpg"
-    },
-    {
-      "id": "games-netmarble-nexus-kiro-adoption",
-      "type": "image",
-      "src": "pipeline/media/games-netmarble-nexus-kiro-adoption.png"
-    }
-  ]
-}
+{"date":"2026-10-14","section":"games","media":[
+{"id":"games-xbox-labs-ai-ports","type":"video","src":"pipeline/media/games-xbox-labs-ai-ports.mp4","poster":"pipeline/media/games-xbox-labs-ai-ports.jpg"},
+{"id":"games-dlss5-faster-less-vram","type":"video","src":"pipeline/media/games-dlss5-faster-less-vram.mp4","poster":"pipeline/media/games-dlss5-faster-less-vram.jpg"},
+{"id":"games-vrchat-ai-boycott","type":"image","src":"pipeline/media/games-vrchat-ai-boycott.jpg"},
+{"id":"games-bloodborne-vibe-coded-port","type":"image","src":"pipeline/media/games-bloodborne-vibe-coded-port.jpg"},
+{"id":"games-tarn-adams-hates-genai","type":"video","src":"pipeline/media/games-tarn-adams-hates-genai.mp4","poster":"pipeline/media/games-tarn-adams-hates-genai.jpg"}
+]}
