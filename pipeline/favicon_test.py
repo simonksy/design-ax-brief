@@ -56,10 +56,22 @@ def test_share_pages_carry_it():
 
 
 def test_the_svg_bakes_the_shape_instead_of_filtering_it():
-    """SVG 파비콘의 필터 지원은 브라우저마다 갈린다. 안 먹으면 마크가 흩어진다."""
+    """SVG 파비콘의 필터 지원은 브라우저마다 갈린다. 안 먹으면 마크가 흩어진다.
+
+    도형 자체는 무엇이든 된다 — 예전 별표 마크는 <path>로, 지금의 'ax.'
+    모노그램은 <circle>·<line>으로 굽는다. 걸러야 하는 것은 필터다."""
     svg = _read("favicon.svg")
-    assert "<filter" not in svg, "파비콘이 필터에 기대고 있다 — 패스로 구워야 한다"
-    assert "<path" in svg
+    assert "<filter" not in svg, "파비콘이 필터에 기대고 있다 — 도형으로 구워야 한다"
+    drawn = [t for t in ("<path", "<circle", "<line", "<polygon", "<polyline") if t in svg]
+    assert drawn, "파비콘에 마크 도형이 없다 — 배경 사각형만 남았는지 보라"
+
+
+def test_the_ico_sits_at_the_conventional_path():
+    """링크 태그가 없어도 검색엔진과 일부 리더는 /favicon.ico를 경로로 직접 집어 간다.
+    셸에 링크를 더하지 않는 이유는 공유 페이지 1,500여 장을 다시 구워야 하기 때문이다 —
+    파일만 자리에 두면 그 이득을 공짜로 가져간다. 쓰이지 않는 파일로 보여 지우지 말 것."""
+    p = os.path.join(ROOT, "favicon.ico")
+    assert os.path.exists(p) and os.path.getsize(p) > 200, "favicon.ico가 없다"
 
 
 if __name__ == "__main__":
