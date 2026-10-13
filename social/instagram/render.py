@@ -27,7 +27,13 @@ POST = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else HERE
 CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 
 W, H = 1080, 1350
-MEDIA_H = 760            # 썸네일 자리의 최대 높이. 글이 길면 이보다 줄어든다.
+# 썸네일 높이는 **모든 카드가 똑같다.** 한때 글 길이에 따라 760/660/580으로
+# 줄였는데, 넘길 때마다 그림 높이가 미세하게 오르내려 카드가 흔들려 보였다.
+# 고정하는 대신 글을 규격 안에 맞춘다 — 넘치면 render가 멈춘다(check_fit).
+# 700은 가장 빡빡한 카드(첫 장: 86px 제목 2줄 + 본문 3줄)가 들어가는 값이다.
+MEDIA_H = 700
+HEAD_MAX_LINES = 2       # 제목은 두 줄까지
+BODY_MAX_LINES = 3       # 본문은 세 줄까지
 PAD_X, PAD_TOP = 68, 52
 TEXT_W = W - PAD_X * 2
 FOOT_H = 28 + 44         # 푸터 글자 + 아래 여백
@@ -294,25 +300,39 @@ def _lines(text, size):
 
 
 def media_height(c):
-    """글이 들어갈 자리를 먼저 재고, 남는 만큼만 썸네일에 준다.
+    """모든 카드가 같은 썸네일 높이를 쓴다. 인자는 쓰지 않지만, 호출부가
+    카드마다 묻는 모양을 지켜 두면 나중에 다시 가변으로 돌릴 때 한 군데만
+    고치면 된다."""
+    return MEDIA_H
 
-    처음에는 높이를 고정했다가 본문이 긴 카드에서 푸터가 화면 밖으로 밀렸다 —
-    거기 출처가 들어가므로 잘리면 출처 표기가 사라진다."""
+
+def fit_report(c):
+    """이 카드의 글이 고정 높이 안에 들어가는지. (제목줄, 본문줄, 남는 px)"""
     hs, bs = _sizes(c)
     # 첫 장은 CSS(.cover h1)가 제목 크기를 덮어쓴다. 여기서 작은 값으로 재면
     # 글 자리를 모자라게 잡아 푸터가 아래로 밀린다 — 첫 장의 푸터만 다른
     # 자리에 서 있던 원인이 이것이었다.
     if c.get("kind") in ("cover", "thread"):
         hs = COVER_HS
-    need = (PAD_TOP + 45
-            + _lines(c.get("headline", ""), hs) * hs * 1.24
-            + 28 + _lines(c.get("body", ""), bs) * bs * 1.72
-            + FOOT_H + BREATH)
-    # 반드시 짝수로 떨어뜨린다. 이 값이 그대로 ffmpeg의 crop 높이가 되는데,
-    # libx264는 홀수 높이를 거부한다("height not divisible by 2"). 글 길이에
-    # 따라 계산되는 값이라 어느 날 우연히 홀수가 되면 그날 렌더가 통째로
-    # 멈춘다 — 실제로 푸터 글씨를 키우자 747이 나와 멈췄다.
-    return int(max(540, min(MEDIA_H, H - need))) // 2 * 2
+    hl = _lines(c.get("headline", ""), hs)
+    bl = _lines(c.get("body", ""), bs)
+    need = (PAD_TOP + 45 + hl * hs * 1.24
+            + 28 + bl * bs * 1.72 + FOOT_H + BREATH)
+    return hl, bl, int(H - MEDIA_H - need)
+
+
+def check_fit(cards):
+    """글이 규격을 넘는 카드를 모아 돌려준다.
+
+    예전에는 넘치면 썸네일을 줄여서 받아 줬다. 그러면 아무도 모르는 사이에
+    카드마다 그림 높이가 달라지고, 넘길 때 흔들려 보인다. 이제는 받아 주지
+    않고 멈춘다 — 고칠 것은 레이아웃이 아니라 글이다."""
+    bad = []
+    for c in cards:
+        hl, bl, slack = fit_report(c)
+        if hl > HEAD_MAX_LINES or bl > BODY_MAX_LINES or slack < 0:
+            bad.append((c.get("n"), hl, bl, slack, c.get("headline", "")))
+    return bad
 
 
 def media_inner(c, has_video):
@@ -390,7 +410,10 @@ def card_html(c, meta, total, has_video):
     # thread도 첫 장이므로 커버 크기를 쓴다. 안 그러면 흐름 회차의 첫 장만
     # 제목이 작아져 같은 계정에서 두 가지 서체 크기가 섞인 것처럼 보인다.
     cover = " cover" if k in ("cover", "thread") else ""
-    counter = f'{c["n"]} / {total}' if c.get("n") else ""
+    # outro에는 번호를 적지 않는다. 마지막 장이라 번호가 가장 쓸모없는 자리인데,
+    # 적어 두면 세트 길이(5·6·7장)마다 파일이 달라져 공통으로 쓸 수가 없다.
+    # 문구도 그림도 같은 장이라 한 벌만 두고 돌려 쓰는 편이 낫다.
+    counter = "" if k == "outro" else (f'{c["n"]} / {total}' if c.get("n") else "")
     return f"""<!doctype html><html lang="ko"><head><meta charset="utf-8"><style>{css}</style></head>
 <body><div class="media">{media_inner(c, has_video)}</div>
 <div class="body{cover}">
@@ -452,11 +475,16 @@ def main():
     meta, cards = spec["meta"], spec["cards"]
     out_dir = os.path.join(POST, "out")
     os.makedirs(out_dir, exist_ok=True)
+    bad = check_fit(cards)
+    if bad:
+        print("규격을 넘는 카드가 있다. 썸네일 높이는 모든 카드가 같아야 하므로")
+        print(f"레이아웃이 아니라 글을 줄인다 (제목 {HEAD_MAX_LINES}줄 · 본문 {BODY_MAX_LINES}줄):")
+        for n, hl, bl, slack, head in bad:
+            print(f"  card{n}: 제목 {hl}줄 · 본문 {bl}줄 · 여유 {slack}px   {head[:40]}")
+        return 1
     for c in cards:
         n = c["n"]
         mh = media_height(c)
-        if _lines(c.get("body", ""), _sizes(c)[1]) > 3:
-            print(f"  ! card{n}: 본문이 세 줄을 넘는다 — 줄여야 한다")
         # outro는 지식 그래프가 천천히 도는 배경을 스스로 만든다.
         # `"network": false`로 끄면 예전처럼 정지 카드로 나온다.
         scratch = None
