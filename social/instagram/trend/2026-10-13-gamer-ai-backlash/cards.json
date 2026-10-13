@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "issue": "게이머의 반감이 취향에서 규칙으로 굳어 간다",
+    "date": "2026.10.13",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "불평은 늘 있었다. 이번 주가 다른 것은 그 불평이 플랫폼 정책과 스튜디오의 마케팅 문구로 옮겨 앉았다는 점이다.",
+    "sources": [
+      "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/",
+      "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/",
+      "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/",
+      "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/",
+      "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "사흘 · 다섯 건 · 반감이 제도로",
+      "thread": [
+        {
+          "d": "10.11",
+          "t": "40만 동접",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.11",
+          "t": "안 씁니다",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.12",
+          "t": "모드 반발",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.13",
+          "t": "표기 의무",
+          "c": "#2ec5c5",
+          "s": "GAMES",
+          "big": true
+        },
+        {
+          "d": "10.13",
+          "t": "AI 우선",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "플랫폼은 표기를 의무로 바꾸고, 스튜디오는 '안 씁니다'를 마케팅으로 쓴다",
+      "eyebrow": "흐름 · 게이머와 AI",
+      "headline": "“AI 안 씁니다”가 이제 마케팅 문구다",
+      "body": "사흘 사이의 다섯 건을 꿰면, 게이머의 반감이 리뷰 창을 넘어 플랫폼 규칙과 홍보 문구로 자리를 옮긴 게 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "① 욕하면서 한다",
+      "headline": "AI 슬롭 비판 속에 동시접속 40만",
+      "body": "Aion 2는 AI 슬롭과 과금 구조를 두고 평이 갈리는 와중에 스팀 동시접속 40만에 육박했다. 반감과 흥행은 따로 간다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/",
+      "_id": "aion2-steam-ai-reviews",
+      "video": "pipeline/media/aion2-steam-ai-reviews.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "② 안 쓴다고 먼저 말한다",
+      "headline": "Black Myth 속편팀이 AI를 거부했다",
+      "body": "놀란이 디지털 보정을 마다하듯, 개발팀은 생성 AI를 쓰지 않겠다고 못 박았다. 쓰지 않는다는 선언이 곧 브랜드가 된다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/",
+      "_id": "black-myth-zhongkui-no-ai",
+      "video": "pipeline/media/black-myth-zhongkui-no-ai.mp4"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "③ 코드에도 같은 잣대",
+      "headline": "LLM이 쓴 5만 줄에 커뮤니티가 반발했다",
+      "body": "AI가 작성한 대규모 코드가 공개되자 환영 대신 반발이 돌아왔다. 결과물보다 과정을 먼저 묻는 분위기다.",
+      "foot": "2026.10.12",
+      "_src": "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/",
+      "_id": "analogue-pocket-snes-ai-hack",
+      "media": "pipeline/media/analogue-pocket-snes-ai-hack.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "④ 금지에서 표기로",
+      "headline": "Flathub, AI 금지 대신 공개 의무로 바꿨다",
+      "body": "막는 대신 밝히게 하는 쪽으로 방향을 틀었다. 플랫폼이 AI 사용을 메타데이터로 다루기 시작한 것이다.",
+      "foot": "2026.10.13",
+      "_src": "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/",
+      "_id": "games-flathub-ai-disclosure-policy",
+      "media": "pipeline/media/games-flathub-ai-disclosure-policy.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "⑤ 안에서는 반대 방향",
+      "headline": "밖에선 표기, 안에선 “AI 우선”",
+      "body": "Epic은 디즈니 게임을 미루면서 개발자들에게는 AI 우선을 주문했다. 이용자 쪽 규칙과 제작 쪽 압력이 반대로 움직인다.",
+      "foot": "2026.10.13",
+      "_src": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+      "_id": "games-epic-ai-first-disney-delay",
+      "media": "pipeline/media/games-epic-ai-first-disney-delay.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

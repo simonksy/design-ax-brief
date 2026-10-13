@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "issue": "AI 광고의 효과는 재는 사람에 따라 달라진다",
+    "date": "2026.10.13",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "같은 회사가 같은 제품을 두고 14% → 7% → 15%를 오갔다. 한 발표만 보면 알 수 없고, 발표들을 나란히 놓아야 보인다.",
+    "sources": [
+      "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
+      "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
+      "https://news.tf.co.kr/read/life/2374702.htm",
+      "https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/",
+      "https://www.m-i.kr/news/articleView.html?idxno=2003965"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "한 주 · 다섯 건 · 엇갈리는 숫자",
+      "thread": [
+        {
+          "d": "10.11",
+          "t": "14%→7%",
+          "c": "#ff8a3d",
+          "s": "MARKETING",
+          "big": true
+        },
+        {
+          "d": "10.11",
+          "t": "대행사 진화",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.12",
+          "t": "소비자 반감",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.12",
+          "t": "슬롭 회피",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.12",
+          "t": "CTR +30%",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "같은 제품을 두고 14% → 7% → 15%. 숫자를 내는 쪽이 효과를 정의한다",
+      "eyebrow": "흐름 · AI 광고의 증거",
+      "headline": "AI 광고가 효과 있다는 숫자, 누가 셌나",
+      "body": "한 주 사이의 다섯 건을 나란히 놓으면 효과를 주장하는 쪽과 의심하는 쪽의 숫자가 정반대로 움직인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "① 숫자가 반으로 줄었다",
+      "headline": "구글이 자기 AI 입찰 효과를 다시 셌다",
+      "body": "2025년 5월엔 전환 14% 증가라더니 2026년 4월엔 7%가 됐다. 연말 가이드는 다시 15%를 썼다.",
+      "foot": "2026.10.11",
+      "_src": "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
+      "_id": "ai-max-bidding-math",
+      "media": "pipeline/media/ai-max-bidding-math.jpg",
+      "stat_top": "14%",
+      "stat_arrow": "같은 회사, 같은 제품, 11개월 뒤",
+      "stat_bottom": "7%"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "② 대행사가 먼저 달랜다",
+      "headline": "에이전트가 사 준다는데, 왜 불안한가",
+      "body": "대행사들이 에이전트 구매를 넓히면서 동시에 광고주의 폭주 우려를 달래고 있다. 자동화가 늘수록 설명해야 할 일도 같이 는다.",
+      "foot": "2026.10.11",
+      "_src": "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
+      "_id": "agency-agentic-buying",
+      "media": "pipeline/media/agency-agentic-buying.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "③ 본 사람은 안다",
+      "headline": "AI로 만든 광고에 소비자가 등을 돌린다",
+      "body": "싸게 많이 만드는 쪽의 이점이 받는 쪽에서는 그대로 거부감이 된다. 효율 지표에는 잡히지 않는 비용이다.",
+      "foot": "2026.10.12",
+      "_src": "https://news.tf.co.kr/read/life/2374702.htm",
+      "_id": "ai-ad-consumer-backlash",
+      "media": "pipeline/media/ai-ad-consumer-backlash.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "④ 그래서 피해 간다",
+      "headline": "광고를 AI 슬롭 채널 옆에 두지 않는다",
+      "body": "IAS가 유튜브에서 AI로 양산된 채널을 피하는 장치를 붙였다. 브랜드 안전이 이제 AI 생성물을 가려내는 일이 됐다.",
+      "foot": "2026.10.12",
+      "_src": "https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/",
+      "_id": "ias-youtube-ai-slop-filter",
+      "media": "pipeline/media/ias-youtube-ai-slop-filter.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "⑤ 그런데 오르는 숫자도 있다",
+      "headline": "네이버 AI 브리핑 광고는 클릭률이 올랐다",
+      "body": "같은 주에 클릭률이 30% 넘게 높아졌다는 집계가 나왔다. 어떤 AI 광고가 통하는지는 아직 한 문장으로 말할 수 없다.",
+      "foot": "2026.10.12",
+      "_src": "https://www.m-i.kr/news/articleView.html?idxno=2003965",
+      "_id": "naver-ai-briefing-ad-results",
+      "media": "pipeline/media/naver-ai-briefing-ad-results.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

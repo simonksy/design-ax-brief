@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "issue": "AI가 사고를 내면 누가 책임지는가 — 답을 쓰기 시작했다",
+    "date": "2026.10.13",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "사흘 사이 정치 섹션의 다섯 건이 모두 책임 주체를 가리켰다. 사고 하나, 벌금 하나, 법안 둘, 소송 하나 — 같은 질문의 서로 다른 답안이다.",
+    "sources": [
+      "https://www.yna.co.kr/view/AKR20261010020100009",
+      "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+      "https://techpolicy.press/nippon-life-v-openai-and-the-future-of-ai-legal-work",
+      "https://www.ciodive.com/news/house-proposal-clarify-liability-rules-ai-agents/832794/",
+      "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "사흘 · 다섯 건 · 같은 질문",
+      "thread": [
+        {
+          "d": "10.11",
+          "t": "신고 의무",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.11",
+          "t": "€8.25억",
+          "c": "#9aa8c7",
+          "s": "POLITICS",
+          "big": true
+        },
+        {
+          "d": "10.12",
+          "t": "OpenAI 피소",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.13",
+          "t": "개발사 책임",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.13",
+          "t": "허위 제보",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "사고는 이미 났고, 벌금은 이미 나왔다. 남은 것은 누구에게 묻느냐다",
+      "eyebrow": "흐름 · AI의 책임",
+      "headline": "AI가 사고를 내면 누가 책임지는가",
+      "body": "사흘 사이 다섯 건이 같은 질문에 서로 다른 답을 내놨다. 사고 하나, 벌금 하나, 법안 둘, 소송 하나다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "① 알리게 한다",
+      "headline": "백악관이 AI 사고 신고와 시정을 의무로 걸었다",
+      "body": "무엇을 사고로 볼지부터 정해야 하는 일이다. 보고 의무는 책임 소재를 가리는 첫 장치다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.yna.co.kr/view/AKR20261010020100009",
+      "_id": "sif-incident-duty",
+      "media": "pipeline/media/sif-incident-duty.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "② 금액이 나왔다",
+      "headline": "자동 결정에 역대급 벌금이 매겨졌다",
+      "body": "네덜란드 개인정보 감독기구가 Uber에 8억 2,499만 유로를 부과했다. 사람이 끼지 않은 결정과 불충분한 설명이 이유였다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+      "_id": "uber-gdpr-art22-fine",
+      "media": "pipeline/media/uber-gdpr-art22-fine.jpg",
+      "stat_top": "자동 결정",
+      "stat_arrow": "네덜란드 당국이 매긴 값",
+      "stat_bottom": "€8억 2,499만",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "③ 법정에서 묻는다",
+      "headline": "챗봇이 법률 조언을 한 것인가",
+      "body": "Nippon Life가 OpenAI를 상대로 낸 소송은 챗봇의 법률 문서 작성이 어디까지 허용되는지를 묻는다.",
+      "foot": "2026.10.12",
+      "_src": "https://techpolicy.press/nippon-life-v-openai-and-the-future-of-ai-legal-work",
+      "_id": "nippon-life-openai-upl",
+      "media": "pipeline/media/nippon-life-openai-upl.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "④ 개발사로 겨눈다",
+      "headline": "에이전트가 저지른 일, 만든 쪽에 묻는다",
+      "body": "Trahan 의원 안은 책임을 쓰는 사람이 아니라 만드는 회사 쪽에 둔다. 누구에게 묻느냐가 이 싸움의 전부다.",
+      "foot": "2026.10.13",
+      "_src": "https://www.ciodive.com/news/house-proposal-clarify-liability-rules-ai-agents/832794/",
+      "_id": "politics-house-ai-agent-liability-draft",
+      "media": "pipeline/media/politics-house-ai-agent-liability-draft.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "⑤ 이미 벌어진 일",
+      "headline": "AI가 경찰에 없는 살인을 제보했다",
+      "body": "필라델피아 경찰에 허위 살인 제보가 들어갔다. 책임을 정하는 논의가 늦어질수록 비용은 이런 자리에서 발생한다.",
+      "foot": "2026.10.13",
+      "_src": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "_id": "politics-claude-false-murder-tip-philadelphia",
+      "media": "pipeline/media/politics-claude-false-murder-tip-philadelphia.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

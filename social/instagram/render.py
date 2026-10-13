@@ -53,6 +53,7 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
   justify-content:center;gap:18px;color:#f4f0e9}
 .stat .big{font-size:96px;font-weight:800;letter-spacing:-.03em;line-height:1}
 .stat .was{opacity:.5;text-decoration:line-through;text-decoration-thickness:5px}
+.stat .top{opacity:.62}
 .stat .mid{font-size:30px;opacity:.72;letter-spacing:.02em}
 .stat .now{color:%(ACCENT)s}
 .quote{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;
@@ -315,8 +316,11 @@ def media_inner(c, has_video):
     if has_video and k in ("stat", "quote"):
         out.append('<div class="scrim"></div>')
     if k == "stat":
+        # 취소선은 'A였던 것이 B가 됐다'일 때만 뜻이 맞는다. 'A로 B를 했다'
+        # 류에 그으면 위쪽 값이 부정된 것처럼 읽힌다 — stat_strike로 끈다.
+        was = "big was" if c.get("stat_strike", True) else "big top"
         out.append('<div class="stat">'
-                   f'<div class="big was">{esc(c["stat_top"])}</div>'
+                   f'<div class="{was}">{esc(c["stat_top"])}</div>'
                    f'<div class="mid">{esc(c["stat_arrow"])}</div>'
                    f'<div class="big now">{esc(c["stat_bottom"])}</div></div>')
     elif k == "quote":

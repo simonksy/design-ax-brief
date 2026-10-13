@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "issue": "AI가 클라우드에서 책상 위로 내려오는 중이다",
+    "date": "2026.10.13",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "사흘 사이 가젯 섹션의 다섯 건이 전부 '내 기기에서 돌린다'는 한 방향을 가리켰다. 29MB짜리가 가속기 없이 도는 쪽과, 그걸 돌리려고 PC를 새로 사는 쪽이 같은 주에 나왔다.",
+    "sources": [
+      "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
+      "https://www.xda-developers.com/connected-local-llm-gmail-calendar-home-assistant-finally-became-useful/",
+      "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
+      "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "사흘 · 다섯 건 · 한 방향",
+      "thread": [
+        {
+          "d": "10.11",
+          "t": "미니 PC",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.11",
+          "t": "지메일 연결",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.12",
+          "t": "29MB",
+          "c": "#ff5a4d",
+          "s": "GADGETS",
+          "big": true
+        },
+        {
+          "d": "10.12",
+          "t": "직접 해 보니",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.13",
+          "t": "AI SSD",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "29MB는 가속기 없이 돌고, 그 옆에서는 AI 때문에 PC를 새로 산다",
+      "eyebrow": "흐름 · 로컬 AI",
+      "headline": "AI가 클라우드에서 책상 위로 내려온다",
+      "body": "사흘 사이 다섯 건이 같은 쪽을 가리켰다. 한쪽은 더 작아지고 한쪽은 더 무거워지는데, 둘 다 내 기기에서 돌리자는 말이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "① 돌릴 기계를 산다",
+      "headline": "로컬 AI 하나 때문에 미니 PC를 새로 산다",
+      "body": "MSI가 로컬 추론을 노린 미니 PC를 내놨다. 모델을 내 기기에 두려는 수요가 하드웨어 라인업을 만들기 시작했다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
+      "_id": "msi-pro-max-edge-ai",
+      "media": "pipeline/media/msi-pro-max-edge-ai.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "② 내 데이터에 붙인다",
+      "headline": "로컬 LLM을 지메일과 집에 연결했다",
+      "body": "밖으로 나가지 않는 모델이라야 받은편지함과 스마트홈을 맡길 수 있다. 로컬의 쓸모는 성능보다 신뢰에서 나온다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.xda-developers.com/connected-local-llm-gmail-calendar-home-assistant-finally-became-useful/",
+      "_id": "xda-local-llm-gmail",
+      "media": "pipeline/media/xda-local-llm-gmail.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "③ 이렇게까지 작아진다",
+      "headline": "29MB 모델이 라즈베리파이에서 돈다",
+      "body": "Cactus Compute의 Needle 3는 AI HAT 없이 라즈베리파이 5에서 돈다. 잡담을 버리고 도구 호출과 JSON 변환만 남긴 결과다.",
+      "foot": "2026.10.12",
+      "_src": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
+      "_id": "raspberry-pi-29mb-ai-model",
+      "media": "pipeline/media/raspberry-pi-29mb-ai-model.jpg",
+      "stat_top": "29MB",
+      "stat_arrow": "가속기 없이, 초당",
+      "stat_bottom": "280토큰",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "④ 직접 해 보면",
+      "headline": "로컬 AI 배우기는 설레고도 답답하다",
+      "body": "고르고 받고 맞추는 일이 아직 사람 몫이다. 작아졌다는 것과 쉬워졌다는 것은 다른 말이다.",
+      "foot": "2026.10.12",
+      "_src": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "_id": "verge-local-ai-hermes-qwen-diary",
+      "media": "pipeline/media/verge-local-ai-hermes-qwen-diary.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "⑤ 병목은 저장장치로",
+      "headline": "이번엔 AI SSD에 기댄다",
+      "body": "RTX 기반 미니 PC가 AI 전용 SSD를 끌어들였다. 모델이 기기로 내려올수록 병목도 같이 따라 내려온다.",
+      "foot": "2026.10.13",
+      "_src": "https://www.notebookcheck.net/RTX-Spark-mini-PC-promises-to-overcome-memory-limitations-using-Mechrevo-s-unusual-AI-SSD.1422107.0.html",
+      "_id": "gadgets-mechrevo-x10-ai-ssd",
+      "media": "pipeline/media/gadgets-mechrevo-x10-ai-ssd.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
