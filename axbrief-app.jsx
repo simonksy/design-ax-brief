@@ -1492,10 +1492,13 @@ function flowStyle(offset) {
   const x = dir * (FLOW_STEP + far * 86);
   const z = -(FLOW_DEPTH + far * 76);
   return {
-    // CSS rotateY 양수는 오른쪽 모서리를 뒤로 보낸다. 그래서 오른쪽 카드가
-    // 가운데를 바라보려면(왼쪽 모서리가 앞) 양수, 왼쪽 카드는 음수다.
-    transform: `translateX(${x}px) translateZ(${z}px) rotateY(${dir * FLOW_TILT}deg)`,
-    opacity: far ? 0.5 : 0.82,
+    // 부호에 주의. 이쪽(-dir)은 옆 카드가 가운데를 '바라보는' 대신 바깥으로
+    // 비스듬히 펼쳐진다 — 복도가 아니라 펼친 카드 묶음에 가깝다. 반대 부호가
+    // 교과서적인 커버플로지만, 둘을 나란히 찍어 보고 이쪽을 골랐다. 카드가
+    // 세로로 길어서, 안쪽으로 모으면 옆 카드가 가운데 카드 뒤로 숨어 몇 장이
+    // 더 있는지 보이지 않는다.
+    transform: `translateX(${x}px) translateZ(${z}px) rotateY(${-dir * FLOW_TILT}deg)`,
+    opacity: far ? 0.42 : 0.72,
     zIndex: 10 - Math.abs(offset),
   };
 }
