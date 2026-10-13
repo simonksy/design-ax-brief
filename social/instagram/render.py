@@ -30,8 +30,10 @@ W, H = 1080, 1350
 MEDIA_H = 760            # 썸네일 자리의 최대 높이. 글이 길면 이보다 줄어든다.
 PAD_X, PAD_TOP = 68, 52
 TEXT_W = W - PAD_X * 2
-FOOT_H = 24 + 44         # 푸터 글자 + 아래 여백
+FOOT_H = 28 + 44         # 푸터 글자 + 아래 여백
 BREATH = 46              # 본문과 푸터 사이 최소 숨
+COVER_HS = 86            # 첫 장 제목 크기. CSS의 .cover h1과 같아야 한다 —
+                         # 어긋나면 높이 계산이 틀려 푸터가 밀린다.
 CREAM = "#fbf8f3"
 # 로고의 시그널 오렌지. outro 한 장만 섹션 액센트 대신 이 색을 쓴다 — 마지막
 # 장은 그 회차의 섹션이 아니라 브랜드를 말하는 자리고, 섹션색을 쓰면 마크의
@@ -90,20 +92,20 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
 .body{height:%(BH)dpx;padding:%(PT)dpx %(PX)dpx 0;display:flex;flex-direction:column;
   background:%(CREAM)s}
 .eyebrow{font-size:25px;font-weight:700;letter-spacing:.06em;color:%(ACCENT)s;margin-bottom:20px}
-h1{font-size:%(HS)dpx;font-weight:800;line-height:1.26;letter-spacing:-.035em;word-break:keep-all}
+h1{font-size:%(HS)dpx;font-weight:900;line-height:1.24;letter-spacing:-.04em;word-break:keep-all}
 p{margin-top:28px;font-size:%(BS)dpx;line-height:1.72;color:#332f29;word-break:keep-all}
-.cover h1{font-size:84px;line-height:1.2}
+.cover h1{font-size:%(CHS)dpx;line-height:1.18}
 /* 푸터는 flex + space-between이었는데, 그러면 가운데 항목이 가운데가 아니라
    좌우 글자 폭에 따라 밀린다 — 1번 장("밀어서 보기")과 2번 장("2026.10.12")의
    마크가 25px쯤 어긋나 넘길 때 로고가 흔들려 보였다. 1fr auto 1fr로 가운데
    칸을 카드 한가운데에 못 박는다. */
 .foot{margin-top:auto;padding-top:%(BR)dpx;padding-bottom:44px;
   display:grid;grid-template-columns:1fr auto 1fr;align-items:center;
-  font-size:24px;color:#8e887c}
+  font-size:28px;color:#8e887c}
 .foot>:nth-child(1){justify-self:start}
 .foot>:nth-child(3){justify-self:end}
 .brand{display:flex;align-items:center;gap:11px;font-weight:700;color:#5a544c}
-.brand img{width:30px;height:30px}
+.brand img{width:34px;height:34px}
 .pg{font-variant-numeric:tabular-nums;letter-spacing:.04em}
 """
 
@@ -273,8 +275,11 @@ def esc(s):
 
 
 def _sizes(c):
+    """제목은 크고 두껍게. 캐러셀은 피드에서 손가락만 한 크기로 지나가므로,
+    제목이 본문만 해지면 넘길 이유가 사라진다 — 한 장에서 읽히는 것은 사실상
+    제목 하나다. 본문은 제목을 거드는 자리라 키우지 않는다."""
     hl, bl = len(c.get("headline", "")), len(c.get("body", ""))
-    return (58 if hl > 24 else (64 if hl > 18 else 70)), (34 if bl > 72 else 36)
+    return (62 if hl > 24 else (70 if hl > 18 else 76)), (34 if bl > 72 else 36)
 
 
 def _lines(text, size):
@@ -288,11 +293,20 @@ def media_height(c):
     처음에는 높이를 고정했다가 본문이 긴 카드에서 푸터가 화면 밖으로 밀렸다 —
     거기 출처가 들어가므로 잘리면 출처 표기가 사라진다."""
     hs, bs = _sizes(c)
+    # 첫 장은 CSS(.cover h1)가 제목 크기를 덮어쓴다. 여기서 작은 값으로 재면
+    # 글 자리를 모자라게 잡아 푸터가 아래로 밀린다 — 첫 장의 푸터만 다른
+    # 자리에 서 있던 원인이 이것이었다.
+    if c.get("kind") in ("cover", "thread"):
+        hs = COVER_HS
     need = (PAD_TOP + 45
-            + _lines(c.get("headline", ""), hs) * hs * 1.26
+            + _lines(c.get("headline", ""), hs) * hs * 1.24
             + 28 + _lines(c.get("body", ""), bs) * bs * 1.72
             + FOOT_H + BREATH)
-    return int(max(540, min(MEDIA_H, H - need)))
+    # 반드시 짝수로 떨어뜨린다. 이 값이 그대로 ffmpeg의 crop 높이가 되는데,
+    # libx264는 홀수 높이를 거부한다("height not divisible by 2"). 글 길이에
+    # 따라 계산되는 값이라 어느 날 우연히 홀수가 되면 그날 렌더가 통째로
+    # 멈춘다 — 실제로 푸터 글씨를 키우자 747이 나와 멈췄다.
+    return int(max(540, min(MEDIA_H, H - need))) // 2 * 2
 
 
 def media_inner(c, has_video):
@@ -360,9 +374,12 @@ def card_html(c, meta, total, has_video):
     accent = BRAND_ACCENT if k == "outro" else meta["accent"]
     css = CSS % {"W": W, "H": H, "MH": mh, "BH": H - mh, "PT": PAD_TOP, "PX": PAD_X,
                  "BR": BREATH, "ACCENT": accent, "HS": hs, "BS": bs,
-                 "CREAM": CREAM, "PAGE": "transparent" if has_video else CREAM,
+                 "CREAM": CREAM, "CHS": COVER_HS,
+                 "PAGE": "transparent" if has_video else CREAM,
                  "MBG": mbg}
-    cover = " cover" if k == "cover" else ""
+    # thread도 첫 장이므로 커버 크기를 쓴다. 안 그러면 흐름 회차의 첫 장만
+    # 제목이 작아져 같은 계정에서 두 가지 서체 크기가 섞인 것처럼 보인다.
+    cover = " cover" if k in ("cover", "thread") else ""
     counter = f'{c["n"]} / {total}' if c.get("n") else ""
     return f"""<!doctype html><html lang="ko"><head><meta charset="utf-8"><style>{css}</style></head>
 <body><div class="media">{media_inner(c, has_video)}</div>
@@ -403,8 +420,12 @@ def compose(card, overlay, out, mh):
         args += ["-t", str(card["dur"])]          # -t 는 -i 앞이다. 뒤에 두면 안 먹는다.
     # 제작사 클립에는 타임코드나 로고가 아래쪽에 구워져 있는 경우가 있다.
     # trim_bottom(비율)으로 그 띠를 먼저 잘라낸다 — 올리기 전에 지워야 한다.
+    # 방송 클립은 위쪽에 방송사 로고와 'Courtesy of…' 띠가, 제작사 클립은
+    # 아래쪽에 타임코드가 구워져 있다. 어느 쪽이든 올리기 전에 잘라낸다 —
+    # 남의 워터마크를 얹은 채로 내 카드를 내보낼 수는 없다.
+    tt = float(card.get("trim_top") or 0)
     tb = float(card.get("trim_bottom") or 0)
-    pre = f"crop=iw:ih*{1 - tb:.4f}:0:0," if tb else ""
+    pre = (f"crop=iw:ih*{1 - tt - tb:.4f}:0:ih*{tt:.4f},") if (tt or tb) else ""
     args += ["-i", src, "-i", overlay,
              "-filter_complex",
              # 소스가 작을 수 있으므로 상자를 '덮도록' 키운 뒤 가운데를 자른다.

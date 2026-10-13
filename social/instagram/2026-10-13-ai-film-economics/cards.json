@@ -1,59 +1,93 @@
 {
   "meta": {
-    "issue": "8,000만 달러 영화를 150만 달러에 — AI 장편 한 편을 따라가다",
+    "issue": "만드는 값은 무너졌는데, 관객에게 가는 길만 그대로다",
     "date": "2026.10.13",
     "section": "MOVIES",
-    "accent": "#0070f3",
-    "note": "한 이슈를 다섯 장에 펼친다. 각 장은 서로 다른 뉴스가 아니라 같은 이야기의 다음 단계다 — 훅 → 왜 → 어떻게 → 핵심 → 그래서.",
+    "accent": "#7928ca",
+    "note": "한 작품이 아니라 한 흐름이다. 아카이브에서 AI 장편 네 건을 꿰면 '제작비보다 상금이 아홉 배 큰' 구간이 드러난다. 양쪽이 같은 '문' 비유를 정반대로 쓴 것도 두 기사를 나란히 놓아야 보인다.",
     "sources": [
       "Variety — ‘Merry the Christmas Witch’ Director Estimated Movie Would Cost $80 Million (2026.10.12)",
-      "TW3 Entertainment — Merry the Christmas Witch 프로젝트 페이지 및 퍼스트룩 영상"
+      "TW3 Entertainment — Merry the Christmas Witch 프로젝트 페이지 및 퍼스트룩 영상",
+      "Euronews — Latvian filmmaker wins €400,000 grand prix at Kazakhstan's AI film festival (2026.10.06)",
+      "Businesswire — Fountain 0, ‘Odysseus: The Fall’ 공개 (2026.09.16)",
+      "The Verge · Futurism · Kotaku — ‘Odysseus: The Fall’ 리뷰 (2026.09)"
     ]
   },
   "cards": [
     {
       "n": 1,
-      "kind": "cover",
-      "video": "src/01-pumpkin.mp4",
-      "trim_bottom": 0.13,
-      "eyebrow": "AI × 영화 · 2026.10.13",
-      "headline": "8,000만 달러 영화를 150만 달러에 찍었다",
-      "body": "AI 장편 한 편이 어떻게 만들어졌는지, 원문과 제작사 자료로 처음부터 따라가 봤다.",
+      "kind": "thread",
+      "thread_cap": "아카이브에서 꿴 네 건 · AI 장편, 2026년 가을",
+      "thread": [
+        {
+          "d": "9.16",
+          "t": "135분 공개",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "9.17",
+          "t": "혹평",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.6",
+          "t": "상금 45만",
+          "c": "#7928ca",
+          "s": "MOVIES",
+          "big": true
+        },
+        {
+          "d": "10.12",
+          "t": "150만에 완성",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.13",
+          "t": "배급사 없음",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "제작비보다 상금이 아홉 배 크다. 그런데 관객에게 가는 길은 아직 비어 있다",
+      "eyebrow": "흐름 · AI 장편",
+      "headline": "만드는 값은 무너졌다. 그다음이 비어 있다",
+      "body": "한 달 사이에 나온 AI 장편 네 건을 나란히 놓아 봤다. 돈도 상도 왔는데, 관객에게 닿는 자리만 그대로였다.",
       "foot": "밀어서 보기 →"
     },
     {
       "n": 2,
-      "kind": "stat",
-      "video": "src/02-hall.mp4",
+      "kind": "photo",
+      "video": "src/01-pumpkin.mp4",
       "trim_bottom": 0.13,
-      "stat_top": "$80,000,000",
-      "stat_arrow": "AI로 다시 계산하니",
-      "stat_bottom": "$1,500,000",
-      "eyebrow": "왜 AI로 갔나",
-      "headline": "스튜디오가 낼 리 없는 돈이었다",
-      "body": "“문이 잘 열리지 않는다. 독립 영화인에겐 그게 좀 힘들다. 그래서 AI가 들어왔다.” 감독 Tom Walsh의 말이다.",
+      "eyebrow": "문이 열리지 않았다",
+      "headline": "8,000만 달러 견적을 150만에 찍었다",
+      "body": "“문이 잘 열리지 않는다. 그래서 AI가 들어왔다.” 감독 Tom Walsh의 말이다. 10개월, 50명이 붙었다.",
       "foot": "2026.10.12"
     },
     {
       "n": 3,
-      "kind": "photo",
-      "video": "src/03-malacha.mp4",
-      "trim_bottom": 0.13,
-      "eyebrow": "어떻게 만들었나",
-      "headline": "10개월, 50명이 붙었다",
-      "body": "폴리 아티스트와 편집자, 사운드 디자이너, 작곡가를 모았다. 배우들이 대본을 녹음해 캐릭터의 움직임과 목소리를 잡았다.",
-      "foot": "2026.10.12"
+      "kind": "stat",
+      "video": "pipeline/media/astana-ai-film-grand-prix.mp4",
+      "trim_top": 0.19,
+      "stat_top": "제작비 5만 달러",
+      "stat_arrow": "그 아홉 배가 걸린 상금",
+      "stat_bottom": "45만 달러",
+      "eyebrow": "이제 문을 두드릴 필요가 없다",
+      "headline": "8,000편이 몰린 첫 AI 영화제",
+      "body": "125개국에서 출품됐고 라트비아 감독 Nikolay Shestak이 대상을 받았다. 주최 측은 “제작사 문을 두드릴 필요가 없어졌다”고 했다.",
+      "foot": "2026.10.06"
     },
     {
       "n": 4,
-      "kind": "quote",
-      "video": "src/04-board.mp4",
-      "quote": "AI 프로덕션의 품질은\n전통적 제작 인력의\n품질에 달려 있다",
-      "quote_by": "Tom Walsh · 「Merry the Christmas Witch」 감독",
-      "eyebrow": "기술보다 사람",
-      "headline": "제작을 모르면 결과는 쓰레기가 된다",
-      "body": "타이밍도, 숏이 어떻게 보여야 하는지도 모르는 사람들과 하면 그렇게 된다는 게 그의 말이다.",
-      "foot": "2026.10.12"
+      "kind": "photo",
+      "video": "pipeline/media/movies-ai-odyssey.mp4",
+      "eyebrow": "그런데 평이 따라오지 않는다",
+      "headline": "5만 달러로 만든 135분, 혹평으로 끝났다",
+      "body": "Fountain 0의 「Odysseus: The Fall」은 일관성도 연기도 리듬도 무너진다는 평을 받았다.",
+      "foot": "2026.09.17"
     },
     {
       "n": 5,
@@ -61,9 +95,9 @@
       "video": "src/05-brooms.mp4",
       "trim_bottom": 0.13,
       "eyebrow": "그래서 지금",
-      "headline": "아직 배급사가 없다",
-      "body": "대변인은 몇몇 회사와 “낙관적인” 논의가 오간다고 했다. 관객이 AI 영화를 볼지는 물음표인데, 그는 이미 다음 편을 만들고 있다.",
-      "foot": "2026.10.12"
+      "headline": "열린 문 너머에, 아직 관객이 없다",
+      "body": "150만 달러로 완성한 「Merry」는 아직 배급사를 찾지 못했다. AI가 무너뜨린 것은 만드는 값이지, 보게 만드는 값이 아니었다.",
+      "foot": "2026.10.13"
     },
     {
       "n": 6,
