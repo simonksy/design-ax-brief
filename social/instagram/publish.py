@@ -74,8 +74,12 @@ MARK_TODO, MARK_DONE = "!", "*"
 # 루트의 ig/ 로 복사해 잠시 공개한다. wrangler의 assets.directory 가 "." 이라
 # 거기 두면 워커 코드 없이 그대로 서빙된다.
 #
-# ig/ 는 임시다 — 올리고 나면 지운다. .gitignore 에 있어 커밋되지 않고,
-# 직접 배포(wrangler)는 작업트리를 올리므로 복사만 해 두고 배포하면 열린다.
+# **ig/ 는 커밋한다.** 한때 .gitignore 에 넣고 직접 배포(wrangler)로만 올렸는데,
+# 그 직후 CI 빌드가 커밋된 상태로 다시 빌드하면서 조용히 지워 버렸다 —
+# deploy.sh 주석이 경고하는 바로 그 함정이다. 커밋해도 저장소는 커지지 않는다:
+# 같은 바이트가 social/ 아래 이미 있고 git은 내용 해시로 블롭을 공유한다.
+# 올린 뒤에도 남겨 둔다. 이미 공개된 게시물의 그림이라 숨길 이유가 없고,
+# 지웠다 올렸다 하면 커밋만 두 배로 는다.
 STAGE = os.path.join(ROOT, "ig")
 
 
@@ -96,8 +100,10 @@ def do_stage(posts):
             shutil.copy2(os.path.join(d, "out", f), os.path.join(dst, f))
             n += 1
         print(f"  {kind}/{slug}  →  ig/{kind}/{slug}")
-    print(f"\n파일 {n}개를 ig/ 에 복사했다. 이제 배포해야 주소가 열린다:")
+    print(f"\n파일 {n}개를 ig/ 에 복사했다. **커밋하고 배포해야** 주소가 열린다:")
+    print("  git add ig && git commit -m 'chore(ig): 올릴 회차 공개' && git push origin main")
     print("  bash pipeline/deploy.sh")
+    print("커밋을 빠뜨리면 직접 배포로 잠깐 열렸다가 CI 빌드가 지운다.")
 
 
 def do_unstage():
@@ -110,15 +116,22 @@ def do_unstage():
 
 
 def marked_posts():
-    """`!` 가 붙은 회차 폴더를 story·trend 양쪽에서 찾는다."""
+    """`!` 가 붙은 회차 폴더를 찾는다.
+
+    회차는 날짜 폴더 아래에 산다(story/2026-10-14/!2026-10-14-…). 날짜별로
+    묶어 두면 "오늘 뭐가 나왔나"를 폴더 하나로 볼 수 있다."""
     out = []
     for kind in ("story", "trend"):
-        d = os.path.join(HERE, kind)
-        if not os.path.isdir(d):
+        base = os.path.join(HERE, kind)
+        if not os.path.isdir(base):
             continue
-        for name in sorted(os.listdir(d)):
-            if name.startswith(MARK_TODO):
-                out.append((kind, name, os.path.join(d, name)))
+        for date in sorted(os.listdir(base)):
+            d = os.path.join(base, date)
+            if not os.path.isdir(d):
+                continue
+            for name in sorted(os.listdir(d)):
+                if name.startswith(MARK_TODO):
+                    out.append((kind, name, os.path.join(d, name)))
     return out
 
 
@@ -155,10 +168,20 @@ def media_url(base, kind, slug, filename):
     return "/".join([base.rstrip("/"), kind, slug, filename])
 
 
-def url_ok(url, timeout=12):
+# Cloudflare 앞단은 기본 User-Agent(Python-urllib/…)를 막아 403을 돌려준다.
+# 그걸 '주소가 안 열린다'로 읽으면 멀쩡한 파일을 두고 원인을 찾게 된다 —
+# 실제로 한 번 그랬다. 평범한 브라우저 UA를 보낸다.
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/140.0 Safari/537.36")
+
+
+def url_ok(url, timeout=15):
     """Meta가 내려받을 수 있는 주소인지 먼저 확인한다. 못 받으면 컨테이너 생성이
-    'media download failed'로 끝나는데, 그 메시지로는 원인을 알 수 없다."""
-    req = urllib.request.Request(url, method="HEAD")
+    'media download failed'로 끝나는데, 그 메시지로는 원인을 알 수 없다.
+
+    HEAD 대신 첫 1바이트만 GET한다 — Meta도 GET으로 받아 가므로 더 가깝고,
+    HEAD만 막아 두는 앞단에 걸리지 않는다."""
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Range": "bytes=0-0"})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return r.status, r.headers.get("Content-Type", "")
@@ -324,8 +347,7 @@ def main():
     for post, items, caption in ready:
         print(f"{post[0]}/{post[1][1:]}")
         publish(post, items, caption, env)
-    print("\n올리기 끝. 공개해 둔 파일을 내린다:")
-    do_unstage()
+    print("\n올리기 끝.")
     return 0
 
 

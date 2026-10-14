@@ -30,7 +30,7 @@ def _sha(p):
 def _usage():
     """{내용해시: {회차: [카드번호…]}}"""
     out = collections.defaultdict(lambda: collections.defaultdict(list))
-    for cp in sorted(glob.glob(os.path.join(POSTS, "*", "*", "cards.json"))):
+    for cp in sorted(glob.glob(os.path.join(POSTS, "*", "*", "*", "cards.json"))):
         post = os.path.relpath(os.path.dirname(cp), POSTS)
         for c in json.load(open(cp, encoding="utf-8"))["cards"]:
             for key in ("video", "media"):
