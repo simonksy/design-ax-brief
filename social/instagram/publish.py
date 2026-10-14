@@ -155,10 +155,20 @@ def media_url(base, kind, slug, filename):
     return "/".join([base.rstrip("/"), kind, slug, filename])
 
 
-def url_ok(url, timeout=12):
+# Cloudflare 앞단은 기본 User-Agent(Python-urllib/…)를 막아 403을 돌려준다.
+# 그걸 '주소가 안 열린다'로 읽으면 멀쩡한 파일을 두고 원인을 찾게 된다 —
+# 실제로 한 번 그랬다. 평범한 브라우저 UA를 보낸다.
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/140.0 Safari/537.36")
+
+
+def url_ok(url, timeout=15):
     """Meta가 내려받을 수 있는 주소인지 먼저 확인한다. 못 받으면 컨테이너 생성이
-    'media download failed'로 끝나는데, 그 메시지로는 원인을 알 수 없다."""
-    req = urllib.request.Request(url, method="HEAD")
+    'media download failed'로 끝나는데, 그 메시지로는 원인을 알 수 없다.
+
+    HEAD 대신 첫 1바이트만 GET한다 — Meta도 GET으로 받아 가므로 더 가깝고,
+    HEAD만 막아 두는 앞단에 걸리지 않는다."""
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Range": "bytes=0-0"})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return r.status, r.headers.get("Content-Type", "")
