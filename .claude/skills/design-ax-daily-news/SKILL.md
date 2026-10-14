@@ -165,13 +165,23 @@ After ALL sections are rolled:
       내놓고, **그것을 읽고 한 전선으로 읽히는 것만 골라 묶는 일은 에이전트가
       직접 한다.** 첫 장의 요점 한 줄(`thread_note`)과 제목·본문은 반드시 쓴다 —
       그게 없으면 사람이 보고 고를 수가 없다.
-    - 이미 쓰인 썸네일은 피한다(`pipeline/social_media_test.py` 가 막는다).
+    - 이미 쓰인 썸네일은 피한다(`pipeline/social_media_test.py` 가 막는다). **한
+      회차 안에서도** 같은 장면을 반복하면 안 된다 — 스틸은 표지에만, 같은
+      영상은 `start` 를 달리해 끊어 쓴다(`pipeline/social_story_variety_test.py`).
+      남는 장은 `stat`(숫자)·`quote`(인용)로 세운다.
     - 묶은 뒤 `python3 social/instagram/render.py <폴더>` 로 굽는다. 20벌에 8분쯤.
 
     **고르라고 만드는 것이지 그대로 올리라고 만드는 게 아니다.** 올릴 두 벌을
     정해 폴더 앞에 `!` 를 붙이면 그 두 벌만 원문을 받아 숫자를 대조하고 글을
     다시 쓴 뒤 올린다(`publish.py`). `social/` 과 `ig/` 는 배포 더티 체크에서
     빠져 있어 이 표시가 아침 발행을 막지 않는다.
+
+    올릴 때 지킬 것 두 가지다. **회차 사이에 12분 이상 둔다** — 연달아 올리면
+    `Application request limit reached`(4/2207051)에 걸린다. 그리고 **발행이
+    403/400 으로 끝나도 올라간 것으로 보고 피드를 먼저 확인한다** — Meta 가
+    뒤늦게 처리하는 일이 있어(10-14 에 네 번 모두 그랬다) 바로 다시 보내면
+    같은 글이 두 번 올라간다. `publish.py` 가 이 확인을 스스로 하지만, 손으로
+    다시 돌릴 때도 같다.
 
 10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
 11. **commit + deploy.** Commit the run to `main` and `git push origin main`, THEN run
