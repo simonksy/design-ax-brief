@@ -113,31 +113,50 @@ def write_post(kind, date, slug, spec):
     return d
 
 
+def clip_seconds(rel):
+    """영상 길이. 못 읽으면 0 — 그럼 앞 대목만 쓴다."""
+    r = subprocess.run(["ffprobe", "-v", "error", "-show_entries",
+                        "format=duration", "-of", "csv=p=0",
+                        os.path.join(ROOT, rel)], capture_output=True, text=True)
+    try:
+        return float(r.stdout.strip())
+    except ValueError:
+        return 0.0
+
+
 def story_spec(sec, date, card, key, rel):
     ps = paras(card)
     steps = ["무슨 일인가", "어떻게 되는가", "짚을 대목", "그래서 지금"]
     head = fit(ko_text(card, "headline"), HEAD_MAX)
+    # 한 그림을 다섯 장에 그대로 깔면 넘기는 사람에게는 같은 장을 다섯 번
+    # 보여 주는 셈이다(social_story_variety_test 가 막는다). 영상은 서로 다른
+    # 대목을 끊어 쓰고, 스틸은 표지에만 쓴다 — 남는 장은 비워 두고, 올리기로
+    # 정한 회차에서 사람이 stat·quote 로 채운다.
+    starts = [None] * 5
+    if key == "video":
+        n = max(1, int(clip_seconds(rel) // 4))      # 4초씩 끊어 쓸 수 있는 칸
+        starts = [i * 4 if i < n else None for i in range(5)]
     cards = [{"kind": "cover",
               "eyebrow": f"AI × {KO[sec]} · {date.replace('-', '.')}",
               "headline": head,
               "body": fit(ps[0] if ps else ko_text(card, "body"), BODY_MAX),
               "foot": "밀어서 보기 →"}]
-    if key:
-        cards[0][key] = rel
+    if key == "video" and starts[0] is not None:
+        cards[0].update({"video": rel, "dur": 4})
+    elif key == "media":
+        cards[0]["media"] = rel
     for i, step in enumerate(steps):
         c = {"kind": "photo", "eyebrow": step, "headline": head,
              "body": fit(ps[i + 1] if i + 1 < len(ps) else ko_text(card, "body"), BODY_MAX),
              "foot": date.replace("-", ".")}
-        if i == 3 and key == "video":
-            c.update({"video": rel, "start": 4})
-        elif key:
-            c[key] = rel
+        if key == "video" and starts[i + 1] is not None:
+            c.update({"video": rel, "start": starts[i + 1], "dur": 4})
         cards.append(c)
     cards.append(dict(OUTRO))
     return {"meta": {"issue": fit(ko_text(card, "headline"), 60),
                      "date": date.replace("-", "."), "section": sec.upper(),
                      "accent": ACCENT[sec],
-                     "note": "자동 초안. 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓴다.",
+                     "note": "자동 초안. 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰고, 빈 장은 stat·quote 로 채운다.",
                      "sources": [card.get("url", "")]},
             "cards": cards}
 
