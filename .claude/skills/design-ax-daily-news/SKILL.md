@@ -156,6 +156,15 @@ After ALL sections are rolled:
    and regenerates `archive-data.{en,ko,ja,zh,es}.js` + `archive-graph.js` (shared-keyword
    knowledge network) for the /archive page (list + #graph network view).
    `node --check archive-data.{en,ko,ja,zh,es}.js archive-graph.js` too.
+9b. **instagram 초안** — `python3 pipeline/social_daily.py`. 오늘자 브리프에서
+    story 한 건(영상이 있고 원문이 가장 두툼한 카드)으로 회차 뼈대를 뽑고,
+    trend 후보 묶음을 `social/instagram/DRAFTS-<date>.md`에 적는다.
+    **굽지 않는다** — 뼈대까지가 기계가 할 수 있는 일이고 그 위의 글은 사람이
+    쓴다. 초안을 그대로 구우면 '완성된 것처럼 생긴 약한 카드'가 나오고, 올리기
+    전에 그걸 알아채기가 더 어렵다. 그날 story·trend 회차가 이미 있으면
+    아무것도 만들지 않는다. 다듬은 뒤 `python3 social/instagram/render.py <폴더>`.
+    `social/`은 `.assetsignore`에 있어 배포에는 들어가지 않는다.
+
 10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
 11. **commit + deploy.** Commit the run to `main` and `git push origin main`, THEN run
     **`bash pipeline/deploy.sh`**. ⚠️ Pushing `main` alone does NOT deploy: Cloudflare
