@@ -4,12 +4,15 @@
     python3 social/instagram/publish.py --dry-run   # 올리지 않고 전부 검사만
     python3 social/instagram/publish.py             # 실제로 올린다
 
-**무엇을 올릴지는 폴더 이름이 정한다.** 사람이 전체를 훑어보고 올릴 만한
-회차의 폴더 앞에 `*`를 붙이는 방식을 이미 쓰고 있으므로, 그 표시를 그대로
-입력으로 삼는다. 올리고 나면 `*`를 `✓`로 바꿔 두 번 올라가지 않게 한다.
+**무엇을 올릴지는 폴더 이름이 정한다.** 사람이 전체를 훑어보고 고른 회차에
+표시를 붙이면 그걸 그대로 입력으로 삼는다.
 
-    social/instagram/trend/*2026-10-14-sorting-the-flood   ← 올릴 것
-    social/instagram/trend/✓2026-10-14-sorting-the-flood   ← 올린 것
+    social/instagram/trend/!2026-10-14-sorting-the-flood   ← 올릴 것
+    social/instagram/trend/*2026-10-14-sorting-the-flood   ← 올린 것
+    social/instagram/trend/2026-10-14-sorting-the-flood    ← 검토 전
+
+올리고 나면 `!`를 `*`로 바꿔 두 번 올라가지 않게 한다. 둘 다 키보드에서
+바로 치는 글자다 — 체크 기호 같은 건 매번 복사해 와야 해서 결국 안 쓴다.
 
 비밀값은 저장소 루트의 `.env.local`에서 읽는다(.gitignore에 있다):
 
@@ -64,15 +67,18 @@ def load_env():
     return env
 
 
+MARK_TODO, MARK_DONE = "!", "*"
+
+
 def marked_posts():
-    """`*` 가 붙은 회차 폴더를 story·trend 양쪽에서 찾는다."""
+    """`!` 가 붙은 회차 폴더를 story·trend 양쪽에서 찾는다."""
     out = []
     for kind in ("story", "trend"):
         d = os.path.join(HERE, kind)
         if not os.path.isdir(d):
             continue
         for name in sorted(os.listdir(d)):
-            if name.startswith("*"):
+            if name.startswith(MARK_TODO):
                 out.append((kind, name, os.path.join(d, name)))
     return out
 
@@ -223,7 +229,7 @@ def publish(post, items, caption, env):
     res = api(f"{uid}/media_publish", {"creation_id": parent, "access_token": tok}, "POST")
     print(f"  올림 → {res.get('id')}")
 
-    done = os.path.join(os.path.dirname(d), "✓" + name[1:])
+    done = os.path.join(os.path.dirname(d), MARK_DONE + name[1:])
     os.rename(d, done)
     print(f"  표시 변경: {os.path.basename(done)}")
     return res.get("id")
@@ -232,14 +238,24 @@ def publish(post, items, caption, env):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true", help="올리지 않고 검사만")
+    ap.add_argument("--whoami", action="store_true",
+                    help="토큰으로 계정을 물어본다 (IG_USER_ID 를 찾을 때)")
     a = ap.parse_args()
     env = load_env()
+    if a.whoami:
+        if not env["IG_ACCESS_TOKEN"]:
+            print(".env.local 의 IG_ACCESS_TOKEN 이 비었다", file=sys.stderr); return 1
+        me = api("me", {"fields": "user_id,username", "access_token": env["IG_ACCESS_TOKEN"]})
+        print(f"username  {me.get('username')}")
+        print(f"user_id   {me.get('user_id') or me.get('id')}")
+        print("\n이 user_id 를 .env.local 의 IG_USER_ID 에 적어라.")
+        return 0
     posts = marked_posts()
     if not posts:
-        print("`*` 표시된 회차가 없다. 올릴 폴더 이름 앞에 * 를 붙여라.")
+        print(f"`{MARK_TODO}` 표시된 회차가 없다. 올릴 폴더 이름 앞에 {MARK_TODO} 를 붙여라.")
         return 0
 
-    print(f"표시된 회차 {len(posts)}개\n")
+    print(f"`{MARK_TODO}` 표시된 회차 {len(posts)}개\n")
     ready = []
     for post in posts:
         spec, items, caption, bad = check(post, env)
