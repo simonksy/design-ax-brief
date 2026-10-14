@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "issue": "OpenAI 회의실 TV 뒤에서 녹음기가 나왔다",
+    "date": "2026.10.14",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "한 사건을 끝까지 따라간다. 공소장에 적힌 것만 쓴다.",
+    "sources": [
+      "U.S. Department of Justice — Saudi national arrested for installing surreptitious audio recording device at OpenAI (2026.10.14)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "pipeline/media/politics-openai-hidden-recorder.jpg",
+      "eyebrow": "AI × 정책 · 2026.10.14",
+      "headline": "OpenAI 회의실에서 녹음기가 나왔다",
+      "body": "임원 회의실 TV 뒷면 USB 포트에 꽂힌 장치였다. 화장지 속에 숨겨져 있었다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "9월 28일 설치",
+      "stat_arrow": "이틀 뒤 직원들이 발견",
+      "stat_bottom": "9월 30일",
+      "stat_strike": false,
+      "eyebrow": "무슨 일이 있었나",
+      "headline": "녹음 내용은 암호화돼 있었다",
+      "body": "체포된 Abdulrahman Alfozan(35)은 2025년 7월부터 OpenAI에서 엔지니어로 일했다고 공소장은 적었다.",
+      "foot": "2026.10.14",
+      "n": 2
+    },
+    {
+      "kind": "quote",
+      "quote": "연속 녹음기 제작과\nSD 카드 암호화를\n묻는 프롬프트가 있었다",
+      "quote_by": "공소장 · 미 법무부",
+      "eyebrow": "공소장이 적은 것",
+      "headline": "챗봇에 물어본 기록이 증거가 됐다",
+      "body": "배우자와 연결된 챗봇 계정의 기록이다. 10월 5일 두고 간 가방에서 비슷한 두 번째 장치도 나왔다.",
+      "foot": "2026.10.14",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "최대 징역 5년",
+      "stat_arrow": "그리고 벌금",
+      "stat_bottom": "$250,000",
+      "stat_strike": false,
+      "eyebrow": "그래서 지금",
+      "headline": "수사는 FBI가 맡았다",
+      "body": "10월 9일 체포돼 연방법원에 처음 출석했다. 유죄가 확정되면 받을 수 있는 형량이다.",
+      "foot": "2026.10.14",
+      "n": 4
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}
