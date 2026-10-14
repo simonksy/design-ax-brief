@@ -54,7 +54,12 @@ if (!document.getElementById('ax-styles')) {
      3D 변형이 터치 스와이프의 응답도 무디게 만든다. 그래서 .ax-track 쪽을 그대로 쓴다.
      옆 카드가 히어로 폭(440) 밖으로 나가야 하므로 뷰포트를 자르지 않는다. */
   .ax-flow{position:absolute;inset:0;perspective:1500px;perspective-origin:50% 46%;}
+  /* 모서리를 깎는 것은 이 칸이다. 예전에는 .ax-heroin이 overflow:clip이라
+     그쪽에서 잘렸는데, 커버플로는 옆 카드가 밖으로 나가야 해서 뷰포트를
+     열어 두었다 — 그 바람에 카드 위쪽 둥근 모서리가 사라지고 그림이
+     각진 채로 꽉 찼다. 반지름을 준 곳에서 같이 잘라야 한다. */
   .ax-flow-slot{position:absolute;top:0;left:50%;width:100%;height:100%;margin-left:-50%;
+     overflow:hidden;
      transform-origin:50% 50%;will-change:transform,opacity;
      transition:transform .52s cubic-bezier(.22,.72,.2,1),filter .52s ease;}
   .ax-flow-slot.is-side{cursor:pointer;}
