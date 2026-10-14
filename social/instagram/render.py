@@ -38,8 +38,11 @@ PAD_X, PAD_TOP = 68, 52
 TEXT_W = W - PAD_X * 2
 FOOT_H = 28 + 44         # 푸터 글자 + 아래 여백
 BREATH = 46              # 본문과 푸터 사이 최소 숨
-COVER_HS = 86            # 첫 장 제목 크기. CSS의 .cover h1과 같아야 한다 —
-                         # 어긋나면 높이 계산이 틀려 푸터가 밀린다.
+# 제목은 **모든 카드가 한 크기다.** 길이에 따라 62/70/76으로 바꾸고 첫 장만
+# 86을 썼는데, 넘길 때마다 글자 크기가 달라져 카드가 제각각으로 보였다.
+# 80은 136개 제목을 재서 뽑은 값이다 — 한 줄 12자, 두 줄 24자까지 들어간다.
+# 키우려면 24자를 넘는 제목부터 줄여야 한다(check_fit가 세운다).
+HEAD_SIZE = 80
 CREAM = "#fbf8f3"
 # 로고의 시그널 오렌지. outro 한 장만 섹션 액센트 대신 이 색을 쓴다 — 마지막
 # 장은 그 회차의 섹션이 아니라 브랜드를 말하는 자리고, 섹션색을 쓰면 마크의
@@ -106,7 +109,6 @@ body{font-family:-apple-system,'Apple SD Gothic Neo','Helvetica Neue',sans-serif
 .eyebrow{font-size:25px;font-weight:700;letter-spacing:.06em;color:%(ACCENT)s;margin-bottom:20px}
 h1{font-size:%(HS)dpx;font-weight:900;line-height:1.24;letter-spacing:-.04em;word-break:keep-all}
 p{margin-top:28px;font-size:%(BS)dpx;line-height:1.72;color:#332f29;word-break:keep-all}
-.cover h1{font-size:%(CHS)dpx;line-height:1.18}
 /* 푸터는 flex + space-between이었는데, 그러면 가운데 항목이 가운데가 아니라
    좌우 글자 폭에 따라 밀린다 — 1번 장("밀어서 보기")과 2번 장("2026.10.12")의
    마크가 25px쯤 어긋나 넘길 때 로고가 흔들려 보였다. 1fr auto 1fr로 가운데
@@ -287,11 +289,12 @@ def esc(s):
 
 
 def _sizes(c):
-    """제목은 크고 두껍게. 캐러셀은 피드에서 손가락만 한 크기로 지나가므로,
-    제목이 본문만 해지면 넘길 이유가 사라진다 — 한 장에서 읽히는 것은 사실상
-    제목 하나다. 본문은 제목을 거드는 자리라 키우지 않는다."""
-    hl, bl = len(c.get("headline", "")), len(c.get("body", ""))
-    return (62 if hl > 24 else (70 if hl > 18 else 76)), (34 if bl > 72 else 36)
+    """제목은 크고 두껍게, 그리고 모든 카드가 같은 크기로.
+
+    캐러셀은 피드에서 손가락만 한 크기로 지나가므로, 제목이 본문만 해지면
+    넘길 이유가 사라진다 — 한 장에서 읽히는 것은 사실상 제목 하나다.
+    본문은 제목을 거드는 자리라 키우지 않는다."""
+    return HEAD_SIZE, (34 if len(c.get("body", "")) > 72 else 36)
 
 
 def _lines(text, size):
@@ -309,11 +312,6 @@ def media_height(c):
 def fit_report(c):
     """이 카드의 글이 고정 높이 안에 들어가는지. (제목줄, 본문줄, 남는 px)"""
     hs, bs = _sizes(c)
-    # 첫 장은 CSS(.cover h1)가 제목 크기를 덮어쓴다. 여기서 작은 값으로 재면
-    # 글 자리를 모자라게 잡아 푸터가 아래로 밀린다 — 첫 장의 푸터만 다른
-    # 자리에 서 있던 원인이 이것이었다.
-    if c.get("kind") in ("cover", "thread"):
-        hs = COVER_HS
     hl = _lines(c.get("headline", ""), hs)
     bl = _lines(c.get("body", ""), bs)
     need = (PAD_TOP + 45 + hl * hs * 1.24
@@ -404,19 +402,16 @@ def card_html(c, meta, total, has_video):
     accent = BRAND_ACCENT if k == "outro" else meta["accent"]
     css = CSS % {"W": W, "H": H, "MH": mh, "BH": H - mh, "PT": PAD_TOP, "PX": PAD_X,
                  "BR": BREATH, "ACCENT": accent, "HS": hs, "BS": bs,
-                 "CREAM": CREAM, "CHS": COVER_HS,
+                 "CREAM": CREAM,
                  "PAGE": "transparent" if has_video else CREAM,
                  "MBG": mbg}
-    # thread도 첫 장이므로 커버 크기를 쓴다. 안 그러면 흐름 회차의 첫 장만
-    # 제목이 작아져 같은 계정에서 두 가지 서체 크기가 섞인 것처럼 보인다.
-    cover = " cover" if k in ("cover", "thread") else ""
     # outro에는 번호를 적지 않는다. 마지막 장이라 번호가 가장 쓸모없는 자리인데,
     # 적어 두면 세트 길이(5·6·7장)마다 파일이 달라져 공통으로 쓸 수가 없다.
     # 문구도 그림도 같은 장이라 한 벌만 두고 돌려 쓰는 편이 낫다.
     counter = "" if k == "outro" else (f'{c["n"]} / {total}' if c.get("n") else "")
     return f"""<!doctype html><html lang="ko"><head><meta charset="utf-8"><style>{css}</style></head>
 <body><div class="media">{media_inner(c, has_video)}</div>
-<div class="body{cover}">
+<div class="body">
   <div class="eyebrow">{esc(c.get('eyebrow',''))}</div>
   <h1>{esc(c.get('headline',''))}</h1>
   <p>{esc(c.get('body',''))}</p>

@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "issue": "AI 생산물이 넘치자, 가려내는 일이 산업의 일이 됐다",
+    "date": "2026.10.14",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "하루 사이 네 섹션에서 같은 일이 벌어졌다. 한 건씩 보면 각각 다른 플랫폼의 조치인데, 겹쳐 놓으면 '발견'이라는 한 문제를 가리킨다.",
+    "sources": [
+      "Music Business Worldwide — Deezer to let users block AI-generated music from search results (2026.10.14)",
+      "EL PAÍS — How much AI is in Spain's bestselling books (2026.10.13)",
+      "Creative Bloq — AI isn't just faking art, it's faking artists' signatures (2026.10.14)",
+      "Kotaku — VRChat community protests an influx of AI slop (2026.10.14)",
+      "Chytomo — Publishers urged to join appeal for greater AI transparency (2026.10.14)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "하루 · 다섯 건 · 네 개 섹션",
+      "thread": [
+        {
+          "d": "10.13",
+          "t": "스페인 29%",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.14",
+          "t": "하루 9만 곡",
+          "c": "#eb367f",
+          "s": "MUSIC",
+          "big": true
+        },
+        {
+          "d": "10.14",
+          "t": "서명 위조",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.14",
+          "t": "VRChat 보이콧",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.14",
+          "t": "출판 150곳",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "듣는 비중은 3%인데 들어오는 양은 절반이다 — 소비가 아니라 발견이 망가진다",
+      "eyebrow": "흐름 · 넘치는 AI 생산물",
+      "headline": "가려내는 일이 산업의 일이 됐다",
+      "body": "하루 사이 네 섹션에서 같은 일이 벌어졌다. 각각 다른 플랫폼의 조치인데, 겹쳐 놓으면 한 문제를 가리킨다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "하루 1만 곡",
+      "stat_arrow": "스무 달 만에",
+      "stat_bottom": "하루 9만 곡",
+      "eyebrow": "① 양이 아홉 배가 됐다",
+      "headline": "Deezer가 검색에서 AI 음악을 숨긴다",
+      "body": "2025년 1월 탐지 도구를 냈을 때 하루 1만 곡이던 완전 AI 트랙이 지금은 9만 곡이다. 피크일엔 신규 음악의 절반을 넘는다.",
+      "foot": "2026.10.14",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "media": "pipeline/media/music-deezer-ai-search-toggle.jpg",
+      "eyebrow": "② 그런데 듣지는 않는다",
+      "headline": "들어오는 건 절반, 듣는 건 3%",
+      "body": "스트리밍 비중은 1~3%에 그치고, 2025년 AI 트랙 스트리밍의 최대 85%가 부정 스트리밍이었다. 쌓이는 쪽이 문제다.",
+      "foot": "2026.10.14",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "media": "pipeline/media/books-elpais-spain-ai-bestsellers.jpg",
+      "eyebrow": "③ 책에서도 같은 일이",
+      "headline": "인기 도서 119권 중 35권에 AI 흔적",
+      "body": "EL PAÍS가 Pangram으로 분석했다. 13권은 절반을 넘었고 2019~20년 책 56권에서는 흔적이 없었다.",
+      "foot": "2026.10.13",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "media": "pipeline/media/games-vrchat-ai-boycott.jpg",
+      "eyebrow": "④ 그래서 무엇이 망가지나",
+      "headline": "월드를 찾을 수가 없어졌다",
+      "body": "VRChat 커뮤니티 개발자 Patroll이 AI 월드의 “만연한 역병”에 항의하며 물러났다. 사람이 만든 월드가 검색에 묻힌다는 것이다.",
+      "foot": "2026.10.14",
+      "n": 5
+    },
+    {
+      "kind": "quote",
+      "quote": "침해해도\n아무 결과가 따르지 않는 권리는\n무가치하다",
+      "quote_by": "Frankfurt Appeal · 독일출판서점협회",
+      "eyebrow": "⑤ 요구로 모인다",
+      "headline": "출판 단체 150곳이 투명성을 요구했다",
+      "body": "EU와 독일 정부에 학습에 쓴 작품을 작품 단위로 공개하도록 의무화하라고 촉구했다. 걸러내기만으로는 안 된다는 쪽이다.",
+      "foot": "2026.10.14",
+      "n": 6
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
