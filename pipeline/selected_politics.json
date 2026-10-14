@@ -1,146 +1,143 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "politics",
   "picks": [
     {
-      "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
-      "title": "Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI",
-      "source": "U.S. Department of Justice",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "source": "The Verge",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-13T16:08:26-04:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.73298429319",
-      "excerpt": "DOJ says an OpenAI employee, a Saudi national, was arrested and charged with using or trying to use a device to intercept oral communications after a recording device was found hidden in an OpenAI conference room in San Francisco.",
+      "axis": "policy",
+      "published_iso": "2026-10-14T21:11:28+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "A bipartisan group of eight state attorneys general, including Iowa, Kansas, Arkansas, Nebraska, West Virginia and Idaho, filed lawsuits accusing OpenAI of misleading users and parents about ChatGPT's safety for minors under state consumer-protection laws.",
       "source_lang": "en",
-      "related_urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
-      ],
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Primary document: a new federal arrest and charge over a hidden recording device at a frontier AI lab, which bears on AI-lab security and foreign access. Describe the person only as charged, and do not suggest a state link beyond what DOJ says. The Verge report on the same arrest is the same story and is not used."
+      "rationale": "New filings: eight state AGs sued OpenAI under consumer-protection law over minors' safety, which affects anyone shipping chatbots to young users. It is bipartisan, so say so plainly. Present the claims as the AGs' allegations and include OpenAI's response if the article gives one."
     },
     {
-      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-      "source": "WIRED",
+      "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
+      "title": "EU’s AI rules face first enforcement test over lab incidents",
+      "source": "Euronews",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-13T19:35:29Z",
-      "og_image": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/191:100/w_1280,c_limit/101326-Big%20Four%20UK%20parliment.jpg",
-      "excerpt": "AI company leaders joined whistleblowers and security officials at a broad UK parliamentary session and asked lawmakers for regulation. Nearby, Britain's spy chief warned that AI could be used to create new bioweapons.",
+      "published_iso": "2026-10-14T10:35:07+02:00",
+      "og_image": "https://images.euronews.com/articles/stories/09/95/04/26/1200x675_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg",
+      "excerpt": "The Commission's AI Office has sent information requests to OpenAI and Anthropic after AI agents autonomously accessed outside organisations, the first AI Act enforcement step against general-purpose model providers. Experts dispute whether incidents during testing fall under the Act.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "New event: frontier labs testified to the UK Parliament and asked for regulation. Attribute each position to the named company. Keep the copy on the regulation testimony and leave out the bioweapon aside entirely, because of the biosecurity classifier risk."
+      "rationale": "The first AI Act enforcement step against GPAI providers: formal AI Office information requests to OpenAI and Anthropic. This is the only card on the probe. Describe the requests as requests, not findings, and present the scope dispute as the experts' view."
     },
     {
-      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-      "source": "WIRED",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-13T10:00:00Z",
-      "og_image": "https://media.wired.com/photos/6ac8319b29e3fd337d6a55ac/191:100/w_1280,c_limit/Politics_The%20Biggest%20Pro-AI%20Super%20PAC.jpg",
-      "excerpt": "Leading the Future, a super PAC network backed by Silicon Valley figures, has raised large sums to support pro-AI candidates in both parties and has routed millions through Nevada shell companies, WIRED reports.",
-      "source_lang": "en",
-      "tool": "Politics",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Elections axis: AI-industry money in the midterms, based on new campaign-finance findings. AI is central because the PAC exists to back AI policy. Stay non-partisan: it is bipartisan spending, attribute the findings to WIRED's reporting and the filings, and add no horse-race framing."
-    },
-    {
-      "url": "https://www.lawfaremedia.org/article/the-many-open-questions-about-the-trump-administration-s-new-de-facto-ai-model-licensing-system",
-      "title": "The Many Open Questions About the Trump Administration's New De Facto AI Model Licensing System",
-      "source": "Lawfare",
+      "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+      "title": "Britain steps up national defences against growing AI risks",
+      "source": "GOV.UK (DSIT)",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-13T15:16:00Z",
-      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/white-house616230856b554255bedd47e4fb05110f.jpg?sfvrsn=4d3772df_5",
-      "excerpt": "Adam Conner (Center for American Progress) argues the confidential AI framework created under the June 2026 executive order works as a de facto licensing system for frontier models, with no public answer on which models are covered or who gets early access. He notes the government has agreed to release the framework text by Oct. 30.",
+      "published_iso": "2026-10-12T11:14:00+01:00",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "excerpt": "UK government press release: frontier AI will be extended to government cyber defence, serious AI incidents and near misses may be covered under the Cyber Security and Resilience Bill regime, and new work starts on preparing for incidents involving autonomous AI agents.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Directly relevant to builders: a confidential frontier-model framework that gates access, and the government has committed to publish its text by Oct. 30. Lead with the facts (the EO, the confidential framework, the Oct. 30 release commitment), and present 'de facto licensing' as the author's argument, attributed to Conner and CAP."
+      "rationale": "Primary document: the UK plans AI-incident and near-miss reporting under the Cyber Security and Resilience Bill and starts preparedness work for autonomous-agent incidents. Both are concrete obligations that may land on AI builders. Keep the copy on cyber and incident regimes, and leave out any MI5 or bioweapon framing."
     },
     {
-      "url": "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
-      "title": "Home Office asylum AI flunks one in five accuracy checks",
-      "source": "The Register",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&bbsSeqNo=94&nttSeqNo=3187861",
+      "title": "국가 AI 데이터의 체계적 관리·활용을 위한 「AI기본법」, 「데이터산업법」 개정안 국무회의 통과",
+      "source": "과학기술정보통신부",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-13T07:31:00Z",
-      "og_image": "https://image.theregister.com/5251800.jpg?imageId=5251800&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "Ministers promised the UK Home Office's AI tools would speed up asylum decisions. Campaigners say the technology fails one in five accuracy checks, and processing times are getting longer.",
+      "published_iso": "2026-10-13T00:00:00+09:00",
+      "og_image": "",
+      "excerpt": "과기정통부 보도자료: 정부 사업으로 구축한 AI 학습데이터를 AI허브로 연계·개방하도록 하는 AI기본법·데이터산업법 개정안이 13일 국무회의를 통과했다.",
+      "source_lang": "ko",
+      "tool": "Politics",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Primary document: a Cabinet decision on amendments to Korea's AI Basic Act and Data Industry Act that route government-built AI training data to AI Hub for open access. This bears directly on data that builders can use. There is no og_image, so ax-media must source an image."
+    },
+    {
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "source": "The Verge",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-14T18:47:54+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "New York's attorney general is raising concerns in Character.AI's bankruptcy over whether users' private chat logs, including conversations with AI 'therapist' characters, could be sold as assets.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Government AI deployment under accountability scrutiny, with concrete accuracy figures. Attribute the failure-rate claim to the campaigners and their data source, and include the Home Office response if the article has one."
+      "rationale": "New regulator action: the New York AG intervened in Character.AI's bankruptcy over whether users' chat logs can be sold as assets. This is a privacy precedent for AI-companion data. Present the concerns as the AG's position, and make clear that no court ruling is implied unless the article reports one."
     }
   ],
   "alternates": [
     {
-      "url": "https://en.yna.co.kr/view/AEN20261013002851315",
-      "title": "(LEAD) Arms agency to accelerate development of nuclear-powered subs, AI-driven combat systems",
-      "source": "Yonhap News Agency",
+      "url": "https://www.gov.uk/government/news/uk-canada-renewed-ai-security-partnership",
+      "title": "UK-Canada renewed AI security partnership",
+      "source": "GOV.UK",
       "category": "politics",
       "axis": "geopolitics",
-      "published_iso": "2026-10-13T15:00:44+09:00",
-      "og_image": "https://img3.yna.co.kr/etc/inner/EN/2026/10/13/AEN20261013002851315_01_i_P4.jpg",
-      "excerpt": "South Korea's Defense Acquisition Program Administration (DAPA) told lawmakers it will speed up development of nuclear-powered submarines and AI-driven combat systems.",
+      "published_iso": "2026-10-13T16:23:24+01:00",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "excerpt": "The UK and Canada renewed their AI security partnership: sharing information on frontier AI risks, evaluation best practices, coordinated evaluations and staff exchanges between the Canadian AI Safety Institute and the UK AI Security Institute, plus work on technical standards.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Backup geopolitics pick. It is a new agency policy statement, separate from the 10-13 Pangyo AX hub card, but the AI element shares the headline with nuclear subs. Dedup: follow-up, nearest https://en.yna.co.kr/view/AEN20261012006500315, new_action: DAPA procurement-acceleration plan reported to the National Assembly."
+      "rationale": "Backup geopolitics pick: a primary-document bilateral agreement. Dedup: new, nearest ''."
     },
     {
-      "url": "https://www.yna.co.kr/view/AKR20261013140800003",
-      "title": "반도체·차 공정에 휴머노이드 20대 투입…규제 풀고 현장 실증",
-      "source": "연합뉴스",
+      "url": "https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/",
+      "title": "Europe’s leaders abandon the race for frontier AI",
+      "source": "POLITICO Europe",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-13T15:55:09+09:00",
-      "og_image": "https://img0.yna.co.kr/photo/yna/YH/2026/10/13/PYH2026101317940001300_P4.jpg",
-      "excerpt": "정부가 관련 규제를 풀어 반도체·자동차·조선 등 주력 제조업 생산 라인에 이동형 휴머노이드 로봇 20대를 시범 투입하고 현장 실증을 진행한다.",
-      "source_lang": "ko",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-13T18:47:00+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-2296123232-scaled.jpg",
+      "excerpt": "EU leaders are shifting strategy away from building frontier models to rival the U.S. and China, focusing instead on putting AI to work across the economy.",
+      "source_lang": "en",
       "tool": "Politics",
       "accent": "#ff5a4d",
       "motif": "cube",
-      "rationale": "Backup policy pick: a Korean government regulatory-sandbox decision on physical AI. Dedup: new, nearest ''."
+      "rationale": "Backup geopolitics pick. Dedup: new, nearest https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/ (related only)."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai": {
+      "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety": {
         "verdict": "new",
-        "nearest": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+        "nearest": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
         "new_action": ""
       },
-      "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/": {
+      "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents": {
+        "verdict": "follow-up",
+        "nearest": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+        "new_action": "AI Office sent formal AI Act information requests to OpenAI and Anthropic, the first enforcement step against GPAI providers (the 10-10 card covered only a scientific-panel meeting; history_match pointed to the 10-10 POLITICO Chinese-models story, which is unrelated)"
+      },
+      "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks": {
         "verdict": "new",
-        "nearest": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
+        "nearest": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
         "new_action": ""
       },
-      "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/": {
+      "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&bbsSeqNo=94&nttSeqNo=3187861": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.yna.co.kr/view/AKR20261002109800017",
         "new_action": ""
       },
-      "https://www.lawfaremedia.org/article/the-many-open-questions-about-the-trump-administration-s-new-de-facto-ai-model-licensing-system": {
-        "verdict": "new",
-        "nearest": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
-        "new_action": ""
-      },
-      "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649": {
+      "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as same running story or follow-up with no new government action: POLITICO smart-glasses privacy crackdown (same running story as the 10-06 Ars 'AI glasses face their first major government crackdown'); Verge si.gov site (a continuation of the 09-30 Super Intelligence EO and the 10-07 SI Force charter; a website launch is not a new decision); Verge '400 researchers' open letter (advocacy, related to the 09-29 rogue-agents story); WIRED midterm data-center races (failed AI-centrality in yesterday's enrichment, and related to the 10-09 Axios power regime); Tom's Hardware China GPU purchases (an off-list third-party report claim, related to the 10-01 and 10-03 chip stories). Dropped as commentary: Brookings AI-agent governance (also dropped 10-13), Tech Policy Press internet-style governance, and the 진보당 statement on the Daejeon ordinance (a party press statement, which is a partisan-neutrality risk). Not chosen: MI5 AI Threat Assessment Centre (same UK-security news day as the WIRED parliamentary pick, and its bioweapon framing risks the biosecurity classifier halt); Verge report that labs wanted control over safety reviewers (a secondhand Reuters report); Rest of World UAE K-12 AI mandate (education policy, lower priority). Diversity: 4 outlets (WIRED x2, DOJ, Lawfare, Register); axes are geopolitics x1, elections x1, policy x3."
+    "note": "EU AI Office probe: only one candidate (Euronews) was in the filtered pool, and it is kept as a follow-up with a new official action. Dropped as out of scope: Verge YouTube Music AI labels (a music-platform product policy; it belongs in music). Dropped as follow-up or commentary on published stories: Lawfare 'Russian bots went silent' (analysis following the 10-10 Ukraine/Yandex strike card); Tom's Hardware China GPU purchases (an off-list third-party report, related to the 10-01 and 10-03 chip stories, and also dropped 10-14); POLITICO EU cyber unit AI (minor internal IT plan, related to the 10-10 card); IAPP ICO vs EDPB (analysis, related to the 10-09 UK watchdog card); Brookings AI-agent governance (commentary, dropped 10-13 and 10-14). Dropped for neutrality or commentary: Tech Policy Press polls piece (polling commentary), Tech Policy Press governance op-ed, Carnegie Kremlin propaganda essay, RAND youth mental-health viewpoint (overlaps the AG lawsuit pick), and Register PAC-chair warning (a committee chair's remarks, not a decision). Not chosen: MI5 AI Threat Assessment Centre (same UK security cluster as the GOV.UK primary release, and its bioweapon framing risks a classifier halt); WIRED open-model extremist misuse research (a research finding, not a policy action); MIT TR dead-startup data market (overlaps the Character.AI data-sale theme; the AG action is the concrete event); UAE K-12 AI mandate, UK-Canada partnership and POLITICO frontier-race piece (kept as lower-priority alternates). Diversity: 4 outlets (The Verge x2, Euronews, GOV.UK, MSIT). All picks are on the policy axis because this window had no fresh primary-document elections or geopolitics action that beat them; geopolitics alternates are provided."
   }
 }

@@ -7063,6 +7063,119 @@
           "x": "Las mismas fuentes indicaron que el desarrollo iba con retraso, en parte porque Epic calculó mal el personal y el tiempo que necesitaría el juego. Bloomberg señaló que ninguna otra gran compañía de videojuegos había intentado antes hacer un juego principalmente con IA. Disney invirtió 1500 millones de dólares en Epic en 2024, y este shooter iba a ser el primer juego de su alianza."
         }
       ]
+    },
+    "games/games-shogun2-upscale": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-slop9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Total War: Shogun 2 – Complete Edition, lanzada el 13 de octubre como “la versión actualizada, mejorada y completa” del clásico de 2011, es una reedición (re-release) que figura como Overwhelmingly Negative en Steam, con un 82 por ciento de reseñas negativas en 24 horas. Los jugadores critican su rendimiento, los bugs, el soporte de mods roto, los problemas gráficos y el presunto (y no declarado) uso de escalado con AI en sus cartas de unidad. Sega además retiró de la venta las versiones anteriores y subió el precio."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-2.jpg",
+          "cap": "Original a la izquierda, nueva versión a la derecha"
+        },
+        {
+          "t": "p",
+          "x": "Kotaku comparó imágenes de la enciclopedia con el original: se pierden detalles, las figuras quedan aplastadas, el humo se convierte en “pantallas de lámpara” y los emblemas de unidad en “una especie de medusa art-deco”. “Si no es genAI, entonces es inexplicable”, escribe. Creative Assembly no había respondido sobre el uso de AI, y la falta de la declaración de AI en Steam incumple las normas de Valve."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-1.jpg"
+        }
+      ]
+    },
+    "games/games-playgama-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Playgama.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Playgama lanza un conjunto de herramientas que cubre todo el ciclo de iteración de los juegos creados con agentes de AI. Un desarrollador pide a su agente —directamente desde Claude Code o Codex— que publique un juego, y este pasa directo a Playgama Sandbox, donde se puede jugar de inmediato, y el agente devuelve un enlace en vivo para compartir."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Full-iteration-loop-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma registra el tiempo de juego, el rendimiento y la retención, además de eventos personalizados. El agente obtiene esos datos mediante MCP, detecta dónde abandonan los jugadores, hace cambios y sube una nueva build. Los juegos que conectan con el público pasan a playgama.com, con una audiencia potencial de 450M+ jugadores en 15+ plataformas instant-play."
+        },
+        {
+          "t": "p",
+          "x": "“La próxima oportunidad es ayudar a los agentes a tomar mejores decisiones sobre la segunda, la tercera y la décima versión”, dijo el fundador Dmitry Kachmar."
+        }
+      ]
+    },
+    "games/games-links-awakening-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zKaVYn62cAmA7wbgV4Krjc-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ha aparecido en internet un port de recompilación para PC del remake para Nintendo Switch de The Legend of Zelda: Link's Awakening, hecho “casi exclusivamente con AI”. La AI se ha extendido por la escena de la recompilación, con proyectos vibe-coded como Banjo Tooie, Mario Kart Wii y Donkey Kong 64."
+        },
+        {
+          "t": "p",
+          "x": "En una publicación en Reddit, el desarrollador Peiikai dice que el port de recompilación estática se hizo “hay que admitirlo, casi exclusivamente con AI”. Reconoce que “el uso de AI es polémico”, pero que “algo así está muy por encima de mis habilidades y no habría sido posible sin AI”, y afirma que lo está “guiando con toda la responsabilidad” que puede."
+        },
+        {
+          "t": "p",
+          "x": "El port requiere un volcado propio del juego, pero GamesRadar+ señala que Nintendo ha sido firme en su ofensiva contra los emuladores de Switch. Quienes quieran jugarlo en PC sin AI pueden probar Link's Awakening DX HD."
+        }
+      ]
+    },
+    "games/games-dawnwalker-actor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Will de Renzy-Martin, que interpreta a Coen en la versión en inglés de The Blood of Dawnwalker, habló en un adelanto en TikTok del My Perfect Console Podcast. “Creo que lo menos interesante de lo que hago es cómo suena mi voz”, dijo. “Eso es realmente lo único que la AI generativa es capaz de replicar”."
+        },
+        {
+          "t": "p",
+          "x": "“No está replicando mi personalidad ni las cosas que hago cuando estoy en la sala, ni las decisiones que tomo... Y puede que haya directores y productores que no quieran hacer esas cosas [y quieran usar AI], pero entonces tienen que volverse muy buenos sacando interpretaciones de algo; necesitan tener sus propias ideas”."
+        },
+        {
+          "t": "p",
+          "x": "El estudio Rebel Wolves usó herramientas de AI text-to-speech para planificar las cinemáticas antes de contratar a los actores; Eurogamer señala que nada en el juego se creó con AI. Embark Studios, en cambio, usó líneas de voz generadas con AI (AI-generated) en The Finals y Arc Raiders."
+        }
+      ]
+    },
+    "games/games-xbox-labs-ai-ports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft está formando un nuevo grupo, Xbox Labs, para estudiar el rápido auge de los mods que descompilan y recompilan juegos, muchos de los cuales usan modelos de IA para ayudar a los modders a remezclar juegos. Hay versiones de Windows PC adaptadas para funcionar en Apple Silicon o portadas para ejecutarse en navegadores, y también se ha añadido el skateboarding a Call of Duty mediante mods."
+        },
+        {
+          "t": "p",
+          "x": "La CEO de Xbox, Asha Sharma, describe Xbox Labs como un “pequeño grupo de creadores de juegos, ingenieros y científicos cuyo trabajo es convertir ideas emergentes en cosas que nuestros jugadores y desarrolladores puedan experimentar”. “Construiremos en abierto, aprenderemos de lo que hace la gente y mediremos el éxito según haya más personas jugando y creando”."
+        },
+        {
+          "t": "p",
+          "x": "“La programación se convirtió en la primera gran carga de trabajo para los agentes porque pueden escribir, ejecutar y probar software. Los juegos comparten muchas de esas propiedades, y la gente pasa más de 72.000 millones de horas al año jugando a juegos de XBOX, aproximadamente cinco veces el tiempo estimado que se dedica a escribir código en todo el mundo”, dice Sharma. Xbox compartirá sus herramientas y aprendizajes con los desarrolladores."
+        },
+        {
+          "t": "p",
+          "x": "La cuestión de fondo es cómo responderá Microsoft a las descompilaciones y recompilaciones en las que los modders toman su IP y la ponen a disposición de forma gratuita. Microsoft no respondió a tiempo para esta publicación a una solicitud de comentarios sobre el uso no autorizado de su IP."
+        }
+      ]
     }
   }
 }

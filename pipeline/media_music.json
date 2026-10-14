@@ -1,5 +1,24 @@
-{"date":"2026-10-14","section":"music","media":[
- {"id":"music-deezer-ai-search-toggle","type":"image","src":"pipeline/media/music-deezer-ai-search-toggle.jpg"},
- {"id":"music-hypebot-ai-likeness-guide","type":"image","src":"pipeline/media/music-hypebot-ai-likeness-guide.jpg"},
- {"id":"music-laroche-digital-blackface","type":"video","src":"pipeline/media/music-laroche-digital-blackface.mp4","poster":"pipeline/media/music-laroche-digital-blackface.jpg"}
-]}
+{
+  "date": "2026-10-15",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-youtube-ai-labels",
+      "type": "image",
+      "src": "pipeline/media/music-youtube-ai-labels.jpg"
+    },
+    {
+      "id": "music-waveprompt",
+      "type": "image",
+      "src": "pipeline/media/music-waveprompt.jpg"
+    },
+    {
+      "id": "music-swift-voice-trademark",
+      "type": "svg"
+    },
+    {
+      "id": "music-raye-ai-bots",
+      "type": "svg"
+    }
+  ]
+}

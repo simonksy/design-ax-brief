@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-shopify-catalog-ai-agents",
+      "id": "marketing-meta-gem",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Shopify, 카탈로그를\nAI 쇼핑 에이전트에 개방",
-      "body": "Shopify에서는 이제 어떤 AI 에이전트로도 십억 개 넘는 상품을 살 수 있다.",
-      "mini_headline": "Shopify, AI 에이전트에 개방",
+      "headline": "Meta, GEM 통합\n전환율 18.9% 상승",
+      "body": "Meta는 광고 예측을 GEM 하나로 묶어 전환율이 18.9% 올랐다고 밝혔다.",
+      "mini_headline": "Meta GEM, 전환율 18.9% 상승",
       "tool": "Marketing",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "source": "PPC Land",
+      "url": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,179 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "cap": "Shopify는 앞서 AI-powered 쇼핑과 결제를 놓고 Meta의 Muse와 제휴한다고 발표했다."
+            "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
           },
           {
             "t": "p",
-            "x": "곧 더 많은 AI 에이전트가 Shopify 상품을 둘러보고 구매한다. 에이전트 커머스를 향한 회사 구상도 한층 넓어진다."
+            "x": "Meta가 2026년 세대 Generative Ads Model, 곧 GEM의 기술 설명을 내놨다. 광고 지면과 목표를 가리지 않고 전환율은 18.9%, 클릭률은 12% 좋아졌다고 한다. Facebook, Instagram, Reels에 따로 있던 예측 시스템은 중앙 파운데이션 모델 하나로 바뀌었다. 이 모델의 출력은 실시간으로 광고를 내보내는 소형 모델 수백 개로 넘어간다."
           },
           {
             "t": "p",
-            "x": "Shopify는 화요일 쇼핑객이 자기 AI 에이전트를 설정해 대신 상품을 사게 할 수 있다고 발표했다. 덕분에 더 많은 에이전트가 Shopify 스토어프런트 안팎의 상품을 아우르는 Shopify 카탈로그의 십억 개 넘는 상품에 접근한다. Shopify는 지난 구월 Meta와 손잡고 Muse 에이전트가 사람 대신 구매하도록 했는데, 이제는 제휴 연동 없이도 어떤 에이전트든 쓸 수 있다."
+            "x": "게시글은 이 수치를 무엇을 기준으로 어느 기간에 쟀는지, A/B 테스트 결과인지 오프라인 평가 결과인지 밝히지 않는다. 회사가 직접 내놓은 수치이고 독립 감사는 거치지 않았다."
           },
           {
             "t": "p",
-            "x": "고객은 Shop 계정에 에이전트를 연결하고 one-click Shop Pay로 대화 안에서 바로 결제한다. 주문은 다시 Shop 앱으로 모인다. Shopify는 이 기능을 예산 한도나 빠른 배송만 같은 규칙을 따르는 “퍼스널 쇼퍼”로 내세운다. 다만 구매자는 구매 건마다 승인해야 한다."
+            "x": "Meta에 따르면 Interformer 자리는 새 아키텍처 Kunlun이 맡으며 \"같은 연산 확장으로 2x 성능 향상을 낸다.\" LoopFM과 Solaris가 GEM의 지식을 하위 모델로 넘기고, GEM은 \"최신 세대 GPUs 수천 개\"에서 20-25% MFU로 학습한다."
           },
           {
             "t": "p",
-            "x": "전자상거래(E-commerce)는 이제 AI의 격전지 가운데 하나다. Google과 Amazon도 에이전트 쇼핑 도구에 투자한다. Amazon은 에이전트가 고객 대신 쇼핑해도 되는지를 두고 Perplexity와, 최근에는 Meta의 Muse와도 다투고 있다."
+            "x": "Ads Manager에서 광고주가 이 장치를 직접 만질 수는 없다. 효과는 Advantage+와 자동 게재로 드러난다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Shopify opens its catalog\nto more AI shopping agents",
-          "body": "Shopify now lets shoppers connect any AI agent to buy from its catalog of over a billion listings.",
-          "mini_headline": "Shopify opens to AI agents",
+          "headline": "Meta says unified GEM ads model\nlifted conversions 18.9%",
+          "body": "Meta says merging ad prediction for every surface into one GEM model lifted conversions 18.9% and click-through 12%.",
+          "mini_headline": "Meta GEM lifts conversions 18.9%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "cap": "Shopify previously announced a partnership with Meta’s Muse for AI-powered shopping and checkout."
+                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
               },
               {
                 "t": "p",
-                "x": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company’s agentic commerce ambitions."
+                "x": "Meta published a technical account of the 2026 generation of its Generative Ads Model, GEM, claiming an 18.9% conversion improvement and a 12% click-through rate improvement across its ad surfaces and objectives. The company replaced separate prediction systems for Facebook, Instagram and Reels with one central foundation model, whose output is moved into the hundreds of smaller models that serve ads in real time."
               },
               {
                 "t": "p",
-                "x": "Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify’s catalog, which includes items on and off Shopify storefronts. In September, Shopify partnered with Meta to let its Muse agent buy on a human’s behalf; now, shoppers can use any agent without a partnership integration."
+                "x": "The post does not say what the figures are measured against, over what period, or whether they come from A/B tests or offline evaluation. They are vendor-supplied and not independently audited."
               },
               {
                 "t": "p",
-                "x": "Customers connect an agent to their account on Shop and check out within the conversation using one-click Shop Pay. Orders are funneled back to the Shop app. Shopify markets the feature as a “personal shopper” that can follow rules like budget guardrails or fast shipping only. Buyers must approve each purchase."
+                "x": "A new architecture, Kunlun, replaces Interformer and \"delivers 2x performance gains with the same computation scaling,\" according to Meta. LoopFM and Solaris pass GEM's knowledge to downstream models, and GEM trains \"on several thousand of the latest-generation GPUs\" at 20-25% MFU."
               },
               {
                 "t": "p",
-                "x": "E-commerce has become one of the battlegrounds of AI, with Google and Amazon investing in agent shopping tools, and Amazon fighting Perplexity and, more recently, Meta’s Muse over whether agents should shop on a customer’s behalf."
+                "x": "For advertisers, none of these mechanisms has a setting in Ads Manager; their effects arrive through Advantage+ and automated delivery."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Shopify, 카탈로그를\nAI 쇼핑 에이전트에 개방",
-          "body": "Shopify에서는 이제 어떤 AI 에이전트로도 십억 개 넘는 상품을 살 수 있다.",
-          "mini_headline": "Shopify, AI 에이전트에 개방",
+          "headline": "Meta, GEM 통합\n전환율 18.9% 상승",
+          "body": "Meta는 광고 예측을 GEM 하나로 묶어 전환율이 18.9% 올랐다고 밝혔다.",
+          "mini_headline": "Meta GEM, 전환율 18.9% 상승",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "cap": "Shopify는 앞서 AI-powered 쇼핑과 결제를 놓고 Meta의 Muse와 제휴한다고 발표했다."
+                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
               },
               {
                 "t": "p",
-                "x": "곧 더 많은 AI 에이전트가 Shopify 상품을 둘러보고 구매한다. 에이전트 커머스를 향한 회사 구상도 한층 넓어진다."
+                "x": "Meta가 2026년 세대 Generative Ads Model, 곧 GEM의 기술 설명을 내놨다. 광고 지면과 목표를 가리지 않고 전환율은 18.9%, 클릭률은 12% 좋아졌다고 한다. Facebook, Instagram, Reels에 따로 있던 예측 시스템은 중앙 파운데이션 모델 하나로 바뀌었다. 이 모델의 출력은 실시간으로 광고를 내보내는 소형 모델 수백 개로 넘어간다."
               },
               {
                 "t": "p",
-                "x": "Shopify는 화요일 쇼핑객이 자기 AI 에이전트를 설정해 대신 상품을 사게 할 수 있다고 발표했다. 덕분에 더 많은 에이전트가 Shopify 스토어프런트 안팎의 상품을 아우르는 Shopify 카탈로그의 십억 개 넘는 상품에 접근한다. Shopify는 지난 구월 Meta와 손잡고 Muse 에이전트가 사람 대신 구매하도록 했는데, 이제는 제휴 연동 없이도 어떤 에이전트든 쓸 수 있다."
+                "x": "게시글은 이 수치를 무엇을 기준으로 어느 기간에 쟀는지, A/B 테스트 결과인지 오프라인 평가 결과인지 밝히지 않는다. 회사가 직접 내놓은 수치이고 독립 감사는 거치지 않았다."
               },
               {
                 "t": "p",
-                "x": "고객은 Shop 계정에 에이전트를 연결하고 one-click Shop Pay로 대화 안에서 바로 결제한다. 주문은 다시 Shop 앱으로 모인다. Shopify는 이 기능을 예산 한도나 빠른 배송만 같은 규칙을 따르는 “퍼스널 쇼퍼”로 내세운다. 다만 구매자는 구매 건마다 승인해야 한다."
+                "x": "Meta에 따르면 Interformer 자리는 새 아키텍처 Kunlun이 맡으며 \"같은 연산 확장으로 2x 성능 향상을 낸다.\" LoopFM과 Solaris가 GEM의 지식을 하위 모델로 넘기고, GEM은 \"최신 세대 GPUs 수천 개\"에서 20-25% MFU로 학습한다."
               },
               {
                 "t": "p",
-                "x": "전자상거래(E-commerce)는 이제 AI의 격전지 가운데 하나다. Google과 Amazon도 에이전트 쇼핑 도구에 투자한다. Amazon은 에이전트가 고객 대신 쇼핑해도 되는지를 두고 Perplexity와, 최근에는 Meta의 Muse와도 다투고 있다."
+                "x": "Ads Manager에서 광고주가 이 장치를 직접 만질 수는 없다. 효과는 Advantage+와 자동 게재로 드러난다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shopify、カタログを\nAIエージェントに開放",
-          "body": "Shopifyは任意のAIエージェントで十億件超の商品を買えるようにした。",
-          "mini_headline": "Shopify、AIエージェントに開放",
+          "headline": "Meta、GEM統合で\nコンバージョン18.9%増",
+          "body": "Metaは広告予測をGEMに一本化し、コンバージョンが18.9%増えたと発表した。",
+          "mini_headline": "Meta GEMでコンバージョン18.9%増",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "cap": "Shopifyは以前、AI-poweredの買い物と決済に向けてMetaのMuseとの提携を発表している。"
+                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
               },
               {
                 "t": "p",
-                "x": "より多くのAIエージェントが、まもなくShopifyの商品を閲覧・購入できるようになる。同社のエージェント型コマース構想が広がることを意味する。"
+                "x": "Metaは生成広告モデル「Generative Ads Model」（GEM）の2026年世代について技術的な説明を公開し、広告面と目的全体でコンバージョンが18.9%、クリック率が12%改善したと主張した。同社はFacebook、Instagram、Reelsごとの予測システムを一つの中核基盤モデルに置き換え、その出力をリアルタイムで広告を配信する数百の小型モデルへ移している。"
               },
               {
                 "t": "p",
-                "x": "Shopifyは火曜日、買い物客が自分のAIエージェントを設定して代わりに商品を購入させられるようにすると発表した。これにより、Shopifyのストア内外の商品を含む同社カタログの十億件を超える商品に、より多くのエージェントがアクセスできる。Shopifyは九月にMetaと提携し、Museエージェントが人に代わって購入できるようにしたが、今後は提携による連携がなくてもどのエージェントでも使える。"
+                "x": "投稿は、数値が何と比べたものか、どの期間のものか、A/Bテストかオフライン評価かを明らかにしていない。数値は企業自身が示したもので、独立した監査は受けていない。"
               },
               {
                 "t": "p",
-                "x": "顧客はShopのアカウントにエージェントを接続し、one-clickのShop Payで会話の中で決済を済ませる。注文はShopアプリに集約される。Shopifyはこの機能を、予算の上限や速い配送のみといったルールに従える「パーソナルショッパー」として打ち出している。購入者は購入ごとに承認する必要がある。"
+                "x": "Metaによると、新アーキテクチャKunlunがInterformerに代わり、「同じ計算スケーリングで2x の性能向上をもたらす」。LoopFMとSolarisがGEMの知識を下流モデルに渡し、GEMは「最新世代のGPUs 数千基」の上で20-25% MFUで学習する。"
               },
               {
                 "t": "p",
-                "x": "E-commerceはAIの主戦場の一つになった。GoogleとAmazonはエージェント型ショッピングツールに投資し、Amazonはエージェントが顧客に代わって買い物をしてよいかをめぐり、Perplexity、さらに最近ではMetaのMuseと争っている。"
+                "x": "広告主がAds Managerでこれらの仕組みを設定する項目はなく、効果はAdvantage+と自動配信を通じて表れる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Shopify开放商品目录\n给更多AI购物代理",
-          "body": "Shopify现允许购物者接入任意AI代理，从其逾十亿件商品目录中购物。",
-          "mini_headline": "Shopify向AI代理开放",
+          "headline": "Meta统一GEM广告模型\n转化率提升18.9%",
+          "body": "Meta称将各广告位的预测并入单一GEM模型后，转化率提升18.9%，点击率提升12%。",
+          "mini_headline": "Meta GEM转化率提升18.9%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "cap": "Shopify此前宣布与Meta的Muse合作，提供AI-powered购物与结账。"
+                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
               },
               {
                 "t": "p",
-                "x": "更多AI代理很快就能浏览并购买Shopify上的商品，这标志着该公司代理式商务布局的扩展。"
+                "x": "Meta发布了其2026代生成式广告模型（Generative Ads Model，GEM）的技术说明，称在各广告位和投放目标上转化率提升18.9%，点击率提升12%。该公司以一个中央基础模型取代了Facebook、Instagram和Reels各自的预测系统，其输出再被迁移到数百个实时投放广告的小模型中。"
               },
               {
                 "t": "p",
-                "x": "Shopify周二宣布，将允许购物者设置自己的AI代理代为购买商品，让更多代理接触到Shopify目录中逾十亿件商品，其中包括Shopify店面内外的商品。九月，Shopify与Meta合作，让其Muse代理代人购物；如今，购物者无需合作集成即可使用任何代理。"
+                "x": "文章没有说明这些数字以什么为基准、覆盖哪个时段，也没有说明来自A/B测试还是离线评估。数据由厂商自行提供，未经独立审计。"
               },
               {
                 "t": "p",
-                "x": "顾客将代理连接到自己的Shop账户，并在对话中通过one-click Shop Pay完成结账。订单会回流到Shop应用。Shopify将这项功能定位为“私人购物顾问”，可遵循预算上限或仅限快速配送等规则。每笔购买都需买家批准。"
+                "x": "据Meta称，新架构Kunlun取代了Interformer，“在相同的计算扩展下带来2x 的性能提升”。LoopFM和Solaris把GEM的知识传递给下游模型，GEM则“在数千块最新一代GPUs 上”以20-25%的MFU进行训练。"
               },
               {
                 "t": "p",
-                "x": "E-commerce已成为AI的主战场之一：Google和Amazon都在投资代理购物工具，而Amazon正就代理是否应代客户购物，与Perplexity以及最近的Meta旗下Muse展开交锋。"
+                "x": "对广告主而言，这些机制在Ads Manager中都没有可调设置，其效果通过Advantage+和自动投放体现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Shopify abre su catálogo\na más agentes de compra de AI",
-          "body": "Shopify ahora permite conectar cualquier agente de AI para comprar en su catálogo de más de mil millones de productos.",
-          "mini_headline": "Shopify se abre a agentes de AI",
+          "headline": "Meta dice que su modelo GEM\nsubió las conversiones 18.9%",
+          "body": "Meta dice que unificar la predicción de anuncios en un solo modelo GEM subió las conversiones 18.9% y los clics 12%.",
+          "mini_headline": "Meta GEM sube las conversiones 18.9%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "cap": "Shopify ya había anunciado una alianza con Muse, de Meta, para compras y pagos AI-powered."
+                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
               },
               {
                 "t": "p",
-                "x": "Más agentes de AI podrán pronto explorar y comprar productos de Shopify, lo que supone una ampliación de las ambiciones de la empresa en el comercio agéntico."
+                "x": "Meta publicó una explicación técnica de la generación 2026 de su Generative Ads Model, GEM, en la que afirma una mejora del 18.9% en conversiones y del 12% en la tasa de clics en sus superficies y objetivos publicitarios. La empresa sustituyó los sistemas de predicción separados de Facebook, Instagram y Reels por un único modelo fundacional central, cuya salida se traslada a los cientos de modelos más pequeños que sirven anuncios en tiempo real."
               },
               {
                 "t": "p",
-                "x": "Shopify anunció el martes que permitirá a los compradores configurar sus agentes de AI para que compren productos en su nombre, lo que da a más agentes acceso a más de mil millones de productos de su catálogo, que incluye artículos dentro y fuera de las tiendas de Shopify. En septiembre, Shopify se alió con Meta para que su agente Muse comprara en nombre de una persona; ahora, los compradores pueden usar cualquier agente sin una integración de alianza."
+                "x": "La publicación no indica frente a qué se miden las cifras, en qué periodo, ni si proceden de pruebas A/B o de una evaluación offline. Son datos aportados por el propio proveedor y no han sido auditados de forma independiente."
               },
               {
                 "t": "p",
-                "x": "Los clientes conectan un agente a su cuenta de Shop y pagan dentro de la conversación con el pago one-click de Shop Pay. Los pedidos vuelven a la app Shop. Shopify presenta la función como un “personal shopper” que puede seguir reglas como límites de presupuesto o solo envíos rápidos. Los compradores deben aprobar cada compra."
+                "x": "Una nueva arquitectura, Kunlun, sustituye a Interformer y \"ofrece 2x de rendimiento con el mismo escalado de cómputo\", según Meta. LoopFM y Solaris trasladan el conocimiento de GEM a modelos posteriores, y GEM se entrena \"en varios miles de GPUs de última generación\" con un 20-25% de MFU."
               },
               {
                 "t": "p",
-                "x": "El E-commerce se ha convertido en uno de los campos de batalla de la AI: Google y Amazon invierten en herramientas de compra con agentes, y Amazon se enfrenta a Perplexity y, más recientemente, a Muse, de Meta, sobre si los agentes deberían comprar en nombre de los clientes."
+                "x": "Para los anunciantes, ninguno de estos mecanismos tiene un ajuste en Ads Manager; sus efectos llegan a través de Advantage+ y la entrega automatizada."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Shopify, 카탈로그를\nAI 쇼핑 에이전트에 개방",
-          "body": "Shopify는 어떤 AI 에이전트로도 십억 개 넘는 상품을 살 수 있게 했다.",
-          "mini_headline": "Shopify, AI 에이전트에 개방",
+          "headline": "Meta, GEM 통합\n전환율 18.9% 상승",
+          "body": "Meta는 광고 예측을 GEM으로 통합해 전환율이 18.9% 올랐다고 밝혔다.",
+          "mini_headline": "Meta GEM, 전환율 18.9% 상승",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "cap": "Shopify는 앞서 AI-powered 쇼핑과 결제를 위해 Meta의 Muse와 제휴한다고 발표했다."
+                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
               },
               {
                 "t": "p",
-                "x": "더 많은 AI 에이전트가 곧 Shopify 상품을 둘러보고 구매할 수 있게 된다. 에이전트 커머스를 향한 회사의 구상이 한층 넓어지는 셈이다."
+                "x": "Meta가 2026년 세대 Generative Ads Model, 즉 GEM에 관한 기술 설명을 공개했다. 광고 지면과 목표 전반에서 전환율이 18.9%, 클릭률이 12% 개선됐다는 주장이다. 회사는 Facebook, Instagram, Reels에 따로 있던 예측 시스템을 하나의 중앙 파운데이션 모델로 바꿨고, 그 출력은 실시간으로 광고를 내보내는 수백 개의 소형 모델로 옮겨진다."
               },
               {
                 "t": "p",
-                "x": "Shopify는 화요일, 쇼핑객이 자신의 AI 에이전트를 설정해 대신 상품을 사게 할 수 있다고 발표했다. 이로써 더 많은 에이전트가 Shopify 스토어프런트 안팎의 상품을 아우르는 Shopify 카탈로그의 십억 개 넘는 상품에 접근한다. Shopify는 지난 구월 Meta와 손잡고 Muse 에이전트가 사람을 대신해 구매하도록 했는데, 이제는 제휴 연동 없이도 어떤 에이전트든 쓸 수 있다."
+                "x": "게시글은 이 수치가 무엇을 기준으로, 어느 기간에 측정됐는지, A/B 테스트에서 나왔는지 오프라인 평가에서 나왔는지 밝히지 않는다. 수치는 회사가 직접 제시한 것이며 독립적인 감사를 거치지 않았다."
               },
               {
                 "t": "p",
-                "x": "고객은 Shop 계정에 에이전트를 연결하고, one-click Shop Pay로 대화 안에서 바로 결제한다. 주문은 다시 Shop 앱으로 모인다. Shopify는 이 기능을 예산 한도나 빠른 배송만 같은 규칙을 따르는 “퍼스널 쇼퍼”로 내세운다. 구매자는 구매 건마다 승인해야 한다."
+                "x": "Meta에 따르면 새 아키텍처 Kunlun이 Interformer를 대체하며 \"같은 연산 확장으로 2x 성능 향상을 낸다.\" LoopFM과 Solaris는 GEM의 지식을 하위 모델로 전달하고, GEM은 \"최신 세대 GPUs 수천 개\"에서 20-25% MFU로 학습한다."
               },
               {
                 "t": "p",
-                "x": "전자상거래(E-commerce)는 AI의 격전지 가운데 하나가 됐다. Google과 Amazon은 에이전트 쇼핑 도구에 투자하고 있고, Amazon은 에이전트가 고객 대신 쇼핑해도 되는지를 두고 Perplexity, 최근에는 Meta의 Muse와도 다투고 있다."
+                "x": "광고주가 Ads Manager에서 이 장치들을 직접 설정할 수는 없다. 효과는 Advantage+와 자동 게재를 통해 나타난다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shopify、カタログを\nAIエージェントに開放",
-          "body": "Shopifyは任意のAIエージェントで十億件超の商品を買えるようにした。",
-          "mini_headline": "Shopify、AIエージェントに開放",
+          "headline": "Meta、GEM統合で\nコンバージョン18.9%増",
+          "body": "Metaは広告予測をGEMに一本化し、コンバージョンが18.9%増えたと発表した。",
+          "mini_headline": "Meta GEMでコンバージョン18.9%増",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "cap": "Shopifyは以前、AI-poweredの買い物と決済に向けてMetaのMuseとの提携を発表している。"
+                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
               },
               {
                 "t": "p",
-                "x": "より多くのAIエージェントが、まもなくShopifyの商品を閲覧・購入できるようになる。同社のエージェント型コマース構想が広がることを意味する。"
+                "x": "Metaは生成広告モデル「Generative Ads Model」（GEM）の2026年世代について技術的な説明を公開し、広告面と目的全体でコンバージョンが18.9%、クリック率が12%改善したと主張した。同社はFacebook、Instagram、Reelsごとの予測システムを一つの中核基盤モデルに置き換え、その出力をリアルタイムで広告を配信する数百の小型モデルへ移している。"
               },
               {
                 "t": "p",
-                "x": "Shopifyは火曜日、買い物客が自分のAIエージェントを設定して代わりに商品を購入させられるようにすると発表した。これにより、Shopifyのストア内外の商品を含む同社カタログの十億件を超える商品に、より多くのエージェントがアクセスできる。Shopifyは九月にMetaと提携し、Museエージェントが人に代わって購入できるようにしたが、今後は提携による連携がなくてもどのエージェントでも使える。"
+                "x": "投稿は、数値が何と比べたものか、どの期間のものか、A/Bテストかオフライン評価かを明らかにしていない。数値は企業自身が示したもので、独立した監査は受けていない。"
               },
               {
                 "t": "p",
-                "x": "顧客はShopのアカウントにエージェントを接続し、one-clickのShop Payで会話の中で決済を済ませる。注文はShopアプリに集約される。Shopifyはこの機能を、予算の上限や速い配送のみといったルールに従える「パーソナルショッパー」として打ち出している。購入者は購入ごとに承認する必要がある。"
+                "x": "Metaによると、新アーキテクチャKunlunがInterformerに代わり、「同じ計算スケーリングで2x の性能向上をもたらす」。LoopFMとSolarisがGEMの知識を下流モデルに渡し、GEMは「最新世代のGPUs 数千基」の上で20-25% MFUで学習する。"
               },
               {
                 "t": "p",
-                "x": "E-commerceはAIの主戦場の一つになった。GoogleとAmazonはエージェント型ショッピングツールに投資し、Amazonはエージェントが顧客に代わって買い物をしてよいかをめぐり、Perplexity、さらに最近ではMetaのMuseと争っている。"
+                "x": "広告主がAds Managerでこれらの仕組みを設定する項目はなく、効果はAdvantage+と自動配信を通じて表れる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Shopify开放商品目录\n给更多AI购物代理",
-          "body": "Shopify现允许购物者接入任意AI代理，从其逾十亿件商品目录中购物。",
-          "mini_headline": "Shopify向AI代理开放",
+          "headline": "Meta统一GEM广告模型\n转化率提升18.9%",
+          "body": "Meta称将各广告位的预测并入单一GEM模型后，转化率提升18.9%，点击率提升12%。",
+          "mini_headline": "Meta GEM转化率提升18.9%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "cap": "Shopify此前宣布与Meta的Muse合作，提供AI-powered购物与结账。"
+                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
               },
               {
                 "t": "p",
-                "x": "更多AI代理很快就能浏览并购买Shopify上的商品，这标志着该公司代理式商务布局的扩展。"
+                "x": "Meta发布了其2026代生成式广告模型（Generative Ads Model，GEM）的技术说明，称在各广告位和投放目标上转化率提升18.9%，点击率提升12%。该公司以一个中央基础模型取代了Facebook、Instagram和Reels各自的预测系统，其输出再被迁移到数百个实时投放广告的小模型中。"
               },
               {
                 "t": "p",
-                "x": "Shopify周二宣布，将允许购物者设置自己的AI代理代为购买商品，让更多代理接触到Shopify目录中逾十亿件商品，其中包括Shopify店面内外的商品。九月，Shopify与Meta合作，让其Muse代理代人购物；如今，购物者无需合作集成即可使用任何代理。"
+                "x": "文章没有说明这些数字以什么为基准、覆盖哪个时段，也没有说明来自A/B测试还是离线评估。数据由厂商自行提供，未经独立审计。"
               },
               {
                 "t": "p",
-                "x": "顾客将代理连接到自己的Shop账户，并在对话中通过one-click Shop Pay完成结账。订单会回流到Shop应用。Shopify将这项功能定位为“私人购物顾问”，可遵循预算上限或仅限快速配送等规则。每笔购买都需买家批准。"
+                "x": "据Meta称，新架构Kunlun取代了Interformer，“在相同的计算扩展下带来2x 的性能提升”。LoopFM和Solaris把GEM的知识传递给下游模型，GEM则“在数千块最新一代GPUs 上”以20-25%的MFU进行训练。"
               },
               {
                 "t": "p",
-                "x": "E-commerce已成为AI的主战场之一：Google和Amazon都在投资代理购物工具，而Amazon正就代理是否应代客户购物，与Perplexity以及最近的Meta旗下Muse展开交锋。"
+                "x": "对广告主而言，这些机制在Ads Manager中都没有可调设置，其效果通过Advantage+和自动投放体现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Shopify abre su catálogo\na más agentes de compra de AI",
-          "body": "Shopify ahora permite conectar cualquier agente de AI para comprar en su catálogo de más de mil millones de productos.",
-          "mini_headline": "Shopify se abre a agentes de AI",
+          "headline": "Meta dice que su modelo GEM\nsubió las conversiones 18.9%",
+          "body": "Meta dice que unificar la predicción de anuncios en un solo modelo GEM subió las conversiones 18.9% y los clics 12%.",
+          "mini_headline": "Meta GEM sube las conversiones 18.9%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-                "cap": "Shopify ya había anunciado una alianza con Muse, de Meta, para compras y pagos AI-powered."
+                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
               },
               {
                 "t": "p",
-                "x": "Más agentes de AI podrán pronto explorar y comprar productos de Shopify, lo que supone una ampliación de las ambiciones de la empresa en el comercio agéntico."
+                "x": "Meta publicó una explicación técnica de la generación 2026 de su Generative Ads Model, GEM, en la que afirma una mejora del 18.9% en conversiones y del 12% en la tasa de clics en sus superficies y objetivos publicitarios. La empresa sustituyó los sistemas de predicción separados de Facebook, Instagram y Reels por un único modelo fundacional central, cuya salida se traslada a los cientos de modelos más pequeños que sirven anuncios en tiempo real."
               },
               {
                 "t": "p",
-                "x": "Shopify anunció el martes que permitirá a los compradores configurar sus agentes de AI para que compren productos en su nombre, lo que da a más agentes acceso a más de mil millones de productos de su catálogo, que incluye artículos dentro y fuera de las tiendas de Shopify. En septiembre, Shopify se alió con Meta para que su agente Muse comprara en nombre de una persona; ahora, los compradores pueden usar cualquier agente sin una integración de alianza."
+                "x": "La publicación no indica frente a qué se miden las cifras, en qué periodo, ni si proceden de pruebas A/B o de una evaluación offline. Son datos aportados por el propio proveedor y no han sido auditados de forma independiente."
               },
               {
                 "t": "p",
-                "x": "Los clientes conectan un agente a su cuenta de Shop y pagan dentro de la conversación con el pago one-click de Shop Pay. Los pedidos vuelven a la app Shop. Shopify presenta la función como un “personal shopper” que puede seguir reglas como límites de presupuesto o solo envíos rápidos. Los compradores deben aprobar cada compra."
+                "x": "Una nueva arquitectura, Kunlun, sustituye a Interformer y \"ofrece 2x de rendimiento con el mismo escalado de cómputo\", según Meta. LoopFM y Solaris trasladan el conocimiento de GEM a modelos posteriores, y GEM se entrena \"en varios miles de GPUs de última generación\" con un 20-25% de MFU."
               },
               {
                 "t": "p",
-                "x": "El E-commerce se ha convertido en uno de los campos de batalla de la AI: Google y Amazon invierten en herramientas de compra con agentes, y Amazon se enfrenta a Perplexity y, más recientemente, a Muse, de Meta, sobre si los agentes deberían comprar en nombre de los clientes."
+                "x": "Para los anunciantes, ninguno de estos mecanismos tiene un ajuste en Ads Manager; sus efectos llegan a través de Advantage+ y la entrega automatizada."
               }
             ]
           }
@@ -325,15 +315,15 @@
       }
     },
     {
-      "id": "marketing-amex-agent-purchase-intent",
+      "id": "marketing-lg-magnite",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Amex, AI 에이전트\n구매에 확인 장치",
-      "body": "Amex 새 체계는 AI 에이전트 결제 전 카드 회원의 구매 의도를 검증한다.",
-      "mini_headline": "Amex, 에이전트 결제에 안전장치",
+      "headline": "LG 홈 화면 광고\n에이전틱 AI 구매 개방",
+      "body": "이제 대행사가 LG 스마트 TV 홈 화면 광고를 에이전틱 AI로 사들인다.",
+      "mini_headline": "LG TV 광고, 에이전틱 구매 연다",
       "tool": "Marketing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -341,173 +331,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+            "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
           },
           {
             "t": "p",
-            "x": "American Express는 AI 에이전트가 거래를 마치기 전에 고객의 구매 의도를 포착하고 인증하는 프레임워크를 도입한다. 이름은 “Intent Intelligence Framework”로, 회사는 이것이 AI-powered 거래의 업계 표준이 되길 바란다."
+            "x": "Magnite와 LG Ad Solutions가 LG 스마트 TV 홈 화면 인벤토리를 에이전틱 AI 미디어 구매로 대행사에 연다고 발표했다. 첫 캠페인은 독립 대행사 H/L과 Northern California Toyota Dealers Association이 함께하고, 49ers 쿼터백 Brock Purdy가 분할 화면 히어로 지면에 나온다."
           },
           {
             "t": "p",
-            "x": "출발점은 Create Intent API다. 가맹점 이름과 최대 예산 같은 고객의 구매 지시와 제약 조건을 이 API에 담는다. 고객이 인증하고 승인하면 Intent ID와 Proof of Intent Token이 만들어진다. 이 토큰으로 보안 결제 자격 증명을 받으면 에이전트는 실제 카드 번호 대신 그 자격 증명으로 결제한다."
+            "x": "H/L의 구매 에이전트는 ClearLine 안에서 Model Context Protocol(MCP)로 Magnite의 판매 에이전트와 손을 맞췄다. 에이전트들이 새 차를 알아보는 NFL 시청자를 겨냥해 캠페인 브리프를 짜고 활성화했다. 에이전트가 세운 계획은 집행 전에 LG와 H/L의 승인을 거쳤다."
           },
           {
             "t": "p",
-            "x": "Amex의 Agentic Partnerships and Strategy 담당 VP인 Hannah Bozian은 “우리 방식은 의도를 거래 흐름의 더 앞 단계로 끌어온다는 점에서 다른 곳의 구현과 다르다”고 말했다. 이를테면 고객이 9 사이즈 흰색 Nike 운동화를 요청했는데 에이전트가 Adidas를 사려 하면 Amex가 거래를 막을 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Amex는 에이전트 커머스 탓에 분쟁이 늘어난 일은 아직 없다고 밝혔다. 프레임워크는 지난 사월 나온 ACE Developer Toolkit에 합류한다."
+            "x": "H/L의 VP Jeremy Cobb는 홈 화면 광고가 \"기본 조건\"이 됐다고 했다. 에이전틱 구매가 \"우리가 하는 일을 근본적으로 바꿀 것은 아니다\"라면서도, 캠페인 기획은 더 낫고 빠르고 강해질 것으로 내다봤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amex sets a check on\nAI agent purchases",
-          "body": "Amex's new framework captures and verifies a cardholder's purchase intent before an AI agent completes checkout.",
-          "mini_headline": "Amex guards agent checkout",
+          "headline": "LG home screen ads open\nto agentic AI buying",
+          "body": "Magnite and LG Ad Solutions opened LG smart TV home screen inventory to agencies buying media with agentic AI.",
+          "mini_headline": "LG TV ads go agentic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
               },
               {
                 "t": "p",
-                "x": "American Express is introducing a framework designed to capture and authenticate a customer’s purchase intent before an AI agent completes the transaction. Dubbed the “Intent Intelligence Framework,” the company hopes it will become an industry standard for AI-powered transactions."
+                "x": "Magnite and LG Ad Solutions announced LG smart TV home screen inventory will be available to agencies through agentic AI media buying. Northern California Toyota Dealers Association is part of the first campaign, with indie agency H/L, featuring 49ers quarterback Brock Purdy in a split-screen hero placement."
               },
               {
                 "t": "p",
-                "x": "It starts with a Create Intent API that captures the customer’s purchase instructions and constraints, like the merchant’s name and maximum budget. The customer authenticates and signs off, then an Intent ID and a Proof of Intent Token are created. The token is used to obtain a secure payment credential the agent uses at checkout instead of the actual card number."
+                "x": "H/L's buyer agent collaborated with Magnite's seller agent within ClearLine via Model Context Protocol (MCP). The agents set up and activated the campaign brief for NFL viewers in market for a new car, and the agent-led plan was approved by LG and H/L before it went live."
               },
               {
                 "t": "p",
-                "x": "“Our approach differs from the implementations of others in that it pulls intent earlier into the transaction flow,” said Hannah Bozian, Amex’s VP of Agentic Partnerships and Strategy. If a customer asks for white Nike sneakers in size 9 but the agent tries to buy Adidas, Amex could stop the transaction."
-              },
-              {
-                "t": "p",
-                "x": "Amex said it has not yet seen more disputes from agentic commerce. The framework joins its ACE Developer Toolkit, launched in April."
+                "x": "Home screen ads have become \"table stakes,\" said Jeremy Cobb, VP at H/L. Agentic buying \"is not something that's going to fundamentally change what we're doing,\" he said, but he expects it to make campaign planning better, faster and stronger."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amex, AI 에이전트\n구매에 확인 장치",
-          "body": "Amex 새 체계는 AI 에이전트 결제 전 카드 회원의 구매 의도를 검증한다.",
-          "mini_headline": "Amex, 에이전트 결제에 안전장치",
+          "headline": "LG 홈 화면 광고\n에이전틱 AI 구매 개방",
+          "body": "이제 대행사가 LG 스마트 TV 홈 화면 광고를 에이전틱 AI로 사들인다.",
+          "mini_headline": "LG TV 광고, 에이전틱 구매 연다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
               },
               {
                 "t": "p",
-                "x": "American Express는 AI 에이전트가 거래를 마치기 전에 고객의 구매 의도를 포착하고 인증하는 프레임워크를 도입한다. 이름은 “Intent Intelligence Framework”로, 회사는 이것이 AI-powered 거래의 업계 표준이 되길 바란다."
+                "x": "Magnite와 LG Ad Solutions가 LG 스마트 TV 홈 화면 인벤토리를 에이전틱 AI 미디어 구매로 대행사에 연다고 발표했다. 첫 캠페인은 독립 대행사 H/L과 Northern California Toyota Dealers Association이 함께하고, 49ers 쿼터백 Brock Purdy가 분할 화면 히어로 지면에 나온다."
               },
               {
                 "t": "p",
-                "x": "출발점은 Create Intent API다. 가맹점 이름과 최대 예산 같은 고객의 구매 지시와 제약 조건을 이 API에 담는다. 고객이 인증하고 승인하면 Intent ID와 Proof of Intent Token이 만들어진다. 이 토큰으로 보안 결제 자격 증명을 받으면 에이전트는 실제 카드 번호 대신 그 자격 증명으로 결제한다."
+                "x": "H/L의 구매 에이전트는 ClearLine 안에서 Model Context Protocol(MCP)로 Magnite의 판매 에이전트와 손을 맞췄다. 에이전트들이 새 차를 알아보는 NFL 시청자를 겨냥해 캠페인 브리프를 짜고 활성화했다. 에이전트가 세운 계획은 집행 전에 LG와 H/L의 승인을 거쳤다."
               },
               {
                 "t": "p",
-                "x": "Amex의 Agentic Partnerships and Strategy 담당 VP인 Hannah Bozian은 “우리 방식은 의도를 거래 흐름의 더 앞 단계로 끌어온다는 점에서 다른 곳의 구현과 다르다”고 말했다. 이를테면 고객이 9 사이즈 흰색 Nike 운동화를 요청했는데 에이전트가 Adidas를 사려 하면 Amex가 거래를 막을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Amex는 에이전트 커머스 탓에 분쟁이 늘어난 일은 아직 없다고 밝혔다. 프레임워크는 지난 사월 나온 ACE Developer Toolkit에 합류한다."
+                "x": "H/L의 VP Jeremy Cobb는 홈 화면 광고가 \"기본 조건\"이 됐다고 했다. 에이전틱 구매가 \"우리가 하는 일을 근본적으로 바꿀 것은 아니다\"라면서도, 캠페인 기획은 더 낫고 빠르고 강해질 것으로 내다봤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amex、AIエージェント\nの購入に確認の仕組み",
-          "body": "Amexの新枠組みは、AIエージェントの決済前にカード会員の購入意図を検証する。",
-          "mini_headline": "Amex、エージェント決済を保護",
+          "headline": "LGのホーム画面広告\nエージェント型AIに開放",
+          "body": "代理店がLGスマートTVのホーム画面広告をエージェント型AIで買えるようになった。",
+          "mini_headline": "LG TV広告がエージェント型購買に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
               },
               {
                 "t": "p",
-                "x": "American Expressは、AIエージェントが取引を完了する前に顧客の購入意図を捕捉・認証するフレームワークを導入する。「Intent Intelligence Framework」と名付けられ、同社はAI-poweredな取引の業界標準になることを期待している。"
+                "x": "MagniteとLG Ad Solutionsは、LGスマートTVのホーム画面インベントリを、エージェント型AIによるメディア購買を通じて代理店に提供すると発表した。最初のキャンペーンには独立系代理店H/LとともにNorthern California Toyota Dealers Associationが参加し、49ers のクォーターバックBrock Purdyが分割画面のヒーロー枠に登場する。"
               },
               {
                 "t": "p",
-                "x": "起点となるのはCreate Intent APIで、加盟店名や予算上限といった顧客の購入指示と制約条件を取り込む。顧客が認証して承認すると、Intent IDとProof of Intent Tokenが生成される。このトークンで安全な決済用クレデンシャルを取得し、エージェントは実際のカード番号の代わりにそれを決済時に使う。"
+                "x": "H/Lの購買エージェントは、ClearLine内でModel Context Protocol（MCP）を介してMagniteの販売エージェントと連携した。エージェントは新車購入を検討するNFL視聴者向けのキャンペーンブリーフを設定・稼働させ、エージェント主導の計画は配信前にLGとH/Lが承認した。"
               },
               {
                 "t": "p",
-                "x": "「当社のアプローチは、意図を取引フローのより早い段階に取り込む点で他社の実装と異なる」と、AmexのAgentic Partnerships and Strategy担当VP、Hannah Bozian氏は述べた。顧客がサイズ9の白いNikeのスニーカーを頼んだのに、エージェントがAdidasを買おうとすれば、Amexは取引を止められる。"
-              },
-              {
-                "t": "p",
-                "x": "Amexによると、エージェント型コマースによる紛争の増加はまだ見られないという。このフレームワークは、四月に公開されたACE Developer Toolkitに加わる。"
+                "x": "H/LのVPであるJeremy Cobbは、ホーム画面広告は「必須条件」になったと語った。エージェント型購買は「私たちのやっていることを根本的に変えるものではない」としつつ、キャンペーン計画をより良く、速く、強くすると期待している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amex为AI代理购物\n设下核验关卡",
-          "body": "Amex新框架会在AI代理完成结账前，捕捉并验证持卡人的购买意图。",
-          "mini_headline": "Amex为代理结账把关",
+          "headline": "LG主屏广告\n开放给智能体AI购买",
+          "body": "Magnite与LG Ad Solutions让代理商可用智能体AI购买LG电视主屏广告。",
+          "mini_headline": "LG电视广告走向智能体购买",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
               },
               {
                 "t": "p",
-                "x": "American Express正推出一套框架，用于在AI代理完成交易前捕捉并认证客户的购买意图。该框架名为“Intent Intelligence Framework”，公司希望它成为AI-powered交易的行业标准。"
+                "x": "Magnite与LG Ad Solutions宣布，代理商可通过智能体AI媒体购买获取LG智能电视主屏广告资源。首个活动由Northern California Toyota Dealers Association与独立代理商H/L合作推出，49ers 四分卫Brock Purdy出现在分屏主视觉广告位中。"
               },
               {
                 "t": "p",
-                "x": "流程从Create Intent API开始，它记录客户的购买指令与限制条件，例如商户名称和最高预算。客户完成认证并确认后，系统生成Intent ID和Proof of Intent Token。该令牌用于获取安全支付凭证，代理在结账时用它代替真实卡号。"
+                "x": "H/L的买方智能体通过Model Context Protocol（MCP）在ClearLine内与Magnite的卖方智能体协作。智能体为有意购买新车的NFL观众设置并启动了活动简报，这一由智能体主导的方案在上线前获得了LG和H/L的批准。"
               },
               {
                 "t": "p",
-                "x": "“我们的方法与其他公司的实现不同，它把意图更早地纳入交易流程，”Amex负责Agentic Partnerships and Strategy的VP Hannah Bozian表示。如果客户要的是9码白色Nike运动鞋，而代理试图购买Adidas，Amex可以拦下这笔交易。"
-              },
-              {
-                "t": "p",
-                "x": "Amex表示，尚未看到代理式商务带来更多争议。该框架将并入其四月推出的ACE Developer Toolkit。"
+                "x": "H/L副总裁（VP）Jeremy Cobb表示，主屏广告已成为“基本门槛”。他说，智能体购买“不会从根本上改变我们正在做的事”，但他预计这会让活动规划更好、更快、更强。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amex pone un control a las\ncompras de agentes de AI",
-          "body": "El nuevo marco de Amex capta y verifica la intención de compra del titular antes de que un agente de AI pague.",
-          "mini_headline": "Amex protege el pago con agentes",
+          "headline": "Anuncios de inicio de LG,\nabiertos a la compra con AI",
+          "body": "Magnite y LG Ad Solutions abren la pantalla de inicio de las smart TV de LG a agencias que compran con AI agéntica.",
+          "mini_headline": "Anuncios de LG TV, a la compra agéntica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
               },
               {
                 "t": "p",
-                "x": "American Express presenta un marco diseñado para captar y autenticar la intención de compra de un cliente antes de que un agente de AI complete la transacción. Bautizado como “Intent Intelligence Framework”, la compañía espera que se convierta en un estándar del sector para las transacciones AI-powered."
+                "x": "Magnite y LG Ad Solutions anunciaron que el inventario de la pantalla de inicio de las smart TV de LG estará disponible para las agencias mediante la compra de medios con AI agéntica. Northern California Toyota Dealers Association participa en la primera campaña, junto con la agencia independiente H/L, protagonizada por el quarterback de los 49ers Brock Purdy en una ubicación destacada a pantalla dividida."
               },
               {
                 "t": "p",
-                "x": "Todo empieza con una Create Intent API que recoge las instrucciones y restricciones de compra del cliente, como el nombre del comercio y el presupuesto máximo. El cliente se autentica y da su aprobación, y entonces se crean un Intent ID y un Proof of Intent Token. El token sirve para obtener una credencial de pago segura que el agente usa al pagar en lugar del número real de la tarjeta."
+                "x": "El agente comprador de H/L colaboró con el agente vendedor de Magnite dentro de ClearLine mediante Model Context Protocol (MCP). Los agentes configuraron y activaron el brief de la campaña dirigida a espectadores de la NFL que buscan un vehículo nuevo, y LG y H/L aprobaron el plan dirigido por los agentes antes de su lanzamiento."
               },
               {
                 "t": "p",
-                "x": "“Nuestro enfoque se diferencia de las implementaciones de otros en que adelanta la intención dentro del flujo de la transacción”, dijo Hannah Bozian, VP de Agentic Partnerships and Strategy de Amex. Si un cliente pide zapatillas Nike blancas de la talla 9 pero el agente intenta comprar Adidas, Amex podría detener la transacción."
-              },
-              {
-                "t": "p",
-                "x": "Amex afirmó que aún no ha visto más disputas derivadas del comercio agéntico. El marco se suma a su ACE Developer Toolkit, lanzado en abril."
+                "x": "Los anuncios en la pantalla de inicio se han vuelto \"lo mínimo indispensable\", dijo Jeremy Cobb, VP de H/L. La compra agéntica \"no es algo que vaya a cambiar de fondo lo que hacemos\", afirmó, aunque espera que haga la planificación de campañas mejor, más rápida y más sólida."
               }
             ]
           }
@@ -515,121 +481,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amex, AI 에이전트\n구매에 확인 장치",
-          "body": "Amex 새 체계는 AI 에이전트 결제 전 카드 회원의 구매 의도를 검증한다.",
-          "mini_headline": "Amex, 에이전트 결제에 안전장치",
+          "headline": "LG 홈 화면 광고\n에이전틱 AI 구매 개방",
+          "body": "대행사가 LG 스마트 TV 홈 화면 광고를 에이전틱 AI로 살 수 있게 됐다.",
+          "mini_headline": "LG TV 광고, 에이전틱 구매로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
               },
               {
                 "t": "p",
-                "x": "American Express가 AI 에이전트가 거래를 마치기 전에 고객의 구매 의도를 포착하고 인증하는 프레임워크를 도입한다. 이름은 “Intent Intelligence Framework”이며, 회사는 이것이 AI-powered 거래의 업계 표준이 되기를 기대한다."
+                "x": "Magnite와 LG Ad Solutions는 LG 스마트 TV 홈 화면 인벤토리를 에이전틱 AI 미디어 구매를 통해 대행사에 제공한다고 발표했다. 첫 캠페인에는 독립 대행사 H/L과 함께 Northern California Toyota Dealers Association이 참여하며, 49ers 쿼터백 Brock Purdy가 분할 화면 히어로 지면에 등장한다."
               },
               {
                 "t": "p",
-                "x": "출발점은 Create Intent API다. 이 API는 가맹점 이름과 최대 예산 같은 고객의 구매 지시와 제약 조건을 담는다. 고객이 인증하고 승인하면 Intent ID와 Proof of Intent Token이 만들어진다. 이 토큰으로 보안 결제 자격 증명을 받고, 에이전트는 실제 카드 번호 대신 이 자격 증명을 결제에 쓴다."
+                "x": "H/L의 구매 에이전트는 ClearLine 안에서 Model Context Protocol(MCP)로 Magnite의 판매 에이전트와 협업했다. 에이전트들은 새 차를 알아보는 NFL 시청자를 겨냥한 캠페인 브리프를 설정하고 활성화했으며, 에이전트가 주도한 계획은 집행 전에 LG와 H/L의 승인을 받았다."
               },
               {
                 "t": "p",
-                "x": "Amex의 Agentic Partnerships and Strategy 담당 VP인 Hannah Bozian은 “우리 방식은 의도를 거래 흐름의 더 앞 단계로 끌어온다는 점에서 다른 곳의 구현과 다르다”고 말했다. 고객이 9 사이즈 흰색 Nike 운동화를 요청했는데 에이전트가 Adidas를 사려 하면 Amex가 거래를 막을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Amex는 에이전트 커머스로 인한 분쟁이 아직 늘지는 않았다고 밝혔다. 이 프레임워크는 지난 사월 출시한 ACE Developer Toolkit에 합류한다."
+                "x": "H/L의 VP Jeremy Cobb는 홈 화면 광고가 \"기본 조건\"이 됐다고 말했다. 그는 에이전틱 구매가 \"우리가 하는 일을 근본적으로 바꿀 것은 아니다\"라면서도, 캠페인 기획을 더 낫고 빠르고 강하게 만들 것으로 기대했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amex、AIエージェント\nの購入に確認の仕組み",
-          "body": "Amexの新枠組みは、AIエージェントの決済前にカード会員の購入意図を検証する。",
-          "mini_headline": "Amex、エージェント決済を保護",
+          "headline": "LGのホーム画面広告\nエージェント型AIに開放",
+          "body": "代理店がLGスマートTVのホーム画面広告をエージェント型AIで買えるようになった。",
+          "mini_headline": "LG TV広告がエージェント型購買に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
               },
               {
                 "t": "p",
-                "x": "American Expressは、AIエージェントが取引を完了する前に顧客の購入意図を捕捉・認証するフレームワークを導入する。「Intent Intelligence Framework」と名付けられ、同社はAI-poweredな取引の業界標準になることを期待している。"
+                "x": "MagniteとLG Ad Solutionsは、LGスマートTVのホーム画面インベントリを、エージェント型AIによるメディア購買を通じて代理店に提供すると発表した。最初のキャンペーンには独立系代理店H/LとともにNorthern California Toyota Dealers Associationが参加し、49ers のクォーターバックBrock Purdyが分割画面のヒーロー枠に登場する。"
               },
               {
                 "t": "p",
-                "x": "起点となるのはCreate Intent APIで、加盟店名や予算上限といった顧客の購入指示と制約条件を取り込む。顧客が認証して承認すると、Intent IDとProof of Intent Tokenが生成される。このトークンで安全な決済用クレデンシャルを取得し、エージェントは実際のカード番号の代わりにそれを決済時に使う。"
+                "x": "H/Lの購買エージェントは、ClearLine内でModel Context Protocol（MCP）を介してMagniteの販売エージェントと連携した。エージェントは新車購入を検討するNFL視聴者向けのキャンペーンブリーフを設定・稼働させ、エージェント主導の計画は配信前にLGとH/Lが承認した。"
               },
               {
                 "t": "p",
-                "x": "「当社のアプローチは、意図を取引フローのより早い段階に取り込む点で他社の実装と異なる」と、AmexのAgentic Partnerships and Strategy担当VP、Hannah Bozian氏は述べた。顧客がサイズ9の白いNikeのスニーカーを頼んだのに、エージェントがAdidasを買おうとすれば、Amexは取引を止められる。"
-              },
-              {
-                "t": "p",
-                "x": "Amexによると、エージェント型コマースによる紛争の増加はまだ見られないという。このフレームワークは、四月に公開されたACE Developer Toolkitに加わる。"
+                "x": "H/LのVPであるJeremy Cobbは、ホーム画面広告は「必須条件」になったと語った。エージェント型購買は「私たちのやっていることを根本的に変えるものではない」としつつ、キャンペーン計画をより良く、速く、強くすると期待している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amex为AI代理购物\n设下核验关卡",
-          "body": "Amex新框架会在AI代理完成结账前，捕捉并验证持卡人的购买意图。",
-          "mini_headline": "Amex为代理结账把关",
+          "headline": "LG主屏广告\n开放给智能体AI购买",
+          "body": "Magnite与LG Ad Solutions让代理商可用智能体AI购买LG电视主屏广告。",
+          "mini_headline": "LG电视广告走向智能体购买",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
               },
               {
                 "t": "p",
-                "x": "American Express正推出一套框架，用于在AI代理完成交易前捕捉并认证客户的购买意图。该框架名为“Intent Intelligence Framework”，公司希望它成为AI-powered交易的行业标准。"
+                "x": "Magnite与LG Ad Solutions宣布，代理商可通过智能体AI媒体购买获取LG智能电视主屏广告资源。首个活动由Northern California Toyota Dealers Association与独立代理商H/L合作推出，49ers 四分卫Brock Purdy出现在分屏主视觉广告位中。"
               },
               {
                 "t": "p",
-                "x": "流程从Create Intent API开始，它记录客户的购买指令与限制条件，例如商户名称和最高预算。客户完成认证并确认后，系统生成Intent ID和Proof of Intent Token。该令牌用于获取安全支付凭证，代理在结账时用它代替真实卡号。"
+                "x": "H/L的买方智能体通过Model Context Protocol（MCP）在ClearLine内与Magnite的卖方智能体协作。智能体为有意购买新车的NFL观众设置并启动了活动简报，这一由智能体主导的方案在上线前获得了LG和H/L的批准。"
               },
               {
                 "t": "p",
-                "x": "“我们的方法与其他公司的实现不同，它把意图更早地纳入交易流程，”Amex负责Agentic Partnerships and Strategy的VP Hannah Bozian表示。如果客户要的是9码白色Nike运动鞋，而代理试图购买Adidas，Amex可以拦下这笔交易。"
-              },
-              {
-                "t": "p",
-                "x": "Amex表示，尚未看到代理式商务带来更多争议。该框架将并入其四月推出的ACE Developer Toolkit。"
+                "x": "H/L副总裁（VP）Jeremy Cobb表示，主屏广告已成为“基本门槛”。他说，智能体购买“不会从根本上改变我们正在做的事”，但他预计这会让活动规划更好、更快、更强。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Amex pone un control a las\ncompras de agentes de AI",
-          "body": "El nuevo marco de Amex capta y verifica la intención de compra del titular antes de que un agente de AI pague.",
-          "mini_headline": "Amex protege el pago con agentes",
+          "headline": "Anuncios de inicio de LG,\nabiertos a la compra con AI",
+          "body": "Magnite y LG Ad Solutions abren la pantalla de inicio de las smart TV de LG a agencias que compran con AI agéntica.",
+          "mini_headline": "Anuncios de LG TV, a la compra agéntica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
               },
               {
                 "t": "p",
-                "x": "American Express presenta un marco diseñado para captar y autenticar la intención de compra de un cliente antes de que un agente de AI complete la transacción. Bautizado como “Intent Intelligence Framework”, la compañía espera que se convierta en un estándar del sector para las transacciones AI-powered."
+                "x": "Magnite y LG Ad Solutions anunciaron que el inventario de la pantalla de inicio de las smart TV de LG estará disponible para las agencias mediante la compra de medios con AI agéntica. Northern California Toyota Dealers Association participa en la primera campaña, junto con la agencia independiente H/L, protagonizada por el quarterback de los 49ers Brock Purdy en una ubicación destacada a pantalla dividida."
               },
               {
                 "t": "p",
-                "x": "Todo empieza con una Create Intent API que recoge las instrucciones y restricciones de compra del cliente, como el nombre del comercio y el presupuesto máximo. El cliente se autentica y da su aprobación, y entonces se crean un Intent ID y un Proof of Intent Token. El token sirve para obtener una credencial de pago segura que el agente usa al pagar en lugar del número real de la tarjeta."
+                "x": "El agente comprador de H/L colaboró con el agente vendedor de Magnite dentro de ClearLine mediante Model Context Protocol (MCP). Los agentes configuraron y activaron el brief de la campaña dirigida a espectadores de la NFL que buscan un vehículo nuevo, y LG y H/L aprobaron el plan dirigido por los agentes antes de su lanzamiento."
               },
               {
                 "t": "p",
-                "x": "“Nuestro enfoque se diferencia de las implementaciones de otros en que adelanta la intención dentro del flujo de la transacción”, dijo Hannah Bozian, VP de Agentic Partnerships and Strategy de Amex. Si un cliente pide zapatillas Nike blancas de la talla 9 pero el agente intenta comprar Adidas, Amex podría detener la transacción."
-              },
-              {
-                "t": "p",
-                "x": "Amex afirmó que aún no ha visto más disputas derivadas del comercio agéntico. El marco se suma a su ACE Developer Toolkit, lanzado en abril."
+                "x": "Los anuncios en la pantalla de inicio se han vuelto \"lo mínimo indispensable\", dijo Jeremy Cobb, VP de H/L. La compra agéntica \"no es algo que vaya a cambiar de fondo lo que hacemos\", afirmó, aunque espera que haga la planificación de campañas mejor, más rápida y más sólida."
               }
             ]
           }
@@ -637,15 +587,15 @@
       }
     },
     {
-      "id": "marketing-salesforce-koa-crm-model",
+      "id": "marketing-shopify-agent-ready",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Salesforce Koa\n27년 CRM으로 학습",
-      "body": "Salesforce는 27년 CRM 경험으로 Koa를 훈련했고 모델 선택은 자유다.",
-      "mini_headline": "Salesforce의 CRM 모델 Koa",
+      "headline": "Agent-ready라던\nShopify 기본기 부족",
+      "body": "Shopify 매장 122곳에서 에이전트는 결제만 만들고 기본 질문엔 막혔다.",
+      "mini_headline": "Shopify 에이전트, 기본기 부족",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -653,179 +603,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-            "cap": "Salesforce는 27년치 CRM 시뮬레이션으로 학습한 Koa를 Claude, ChatGPT 옆에 나란히 붙인다"
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
           },
           {
             "t": "p",
-            "x": "Salesforce는 최고데이터책임자(Chief Data Officer) Michael Andrew의 인터뷰를 공개했다. Andrew는 고객이 프런티어, 오픈, 맞춤형 AI 모델을 오가며 쓸 수 있어야 한다고 주장했다. 회사의 첫 CRM 추론 모델 Koa도 그 선택지에 들어간다. 회사에 따르면 Koa는 NVIDIA와 함께 만들었고 27년간 CRM 워크플로를 운영하며 쌓은 시뮬레이션으로 학습했다."
+            "x": "Bill Hunt는 에이전트가 정말 구매 결정을 끝낼 수 있는지 보려고 주요 Shopify 매장 122곳을 점검했다. Shopify는 모든 매장에 에이전트 도구를 켜 두었다. 122곳 중 89곳이 표준 MCP 도구 목록 요청에 응답했고, 실제 재고가 있는 상품을 넣으면 결제 생성은 모든 매장에서 성공했다."
           },
           {
             "t": "p",
-            "x": "Koa는 “프런티어 모델을 대체하지 않고 그와 나란히 오케스트레이션된다.” 다만 페이지 어디에도 파라미터 수, 벤치마크 점수, 가격, 출시일은 없다."
+            "x": "하지만 결제 74건은 하나같이 requires_escalation을 돌려줬다. 가격이 매겨진 장바구니까지는 에이전트가 만들고, 돈을 확정하는 일은 사람 몫이다."
           },
           {
             "t": "p",
-            "x": "“모델마다 강점과 약점이 다르고, 그것은 늘 바뀐다”고 Andrew는 말했다. “AI는 연료다… 우리는 그 연료가 Anthropic과 Claude든, OpenAI와 ChatGPT든 어디서든 오게 하고 싶다.”"
+            "x": "정책 도구는 반품 기간 질문엔 답했지만 배송과 취소를 묻는 구매자식 질문에선 막혔다. 74곳 중 도착 예정일을 돌려준 매장도, 픽업을 명시한 매장도 없었다. 122곳 가운데 주문 취소·변경·반품 도구를 연 곳은 하나도 없었고, 아홉 가지 점검을 모두 통과한 매장도 없었다."
           },
           {
             "t": "p",
-            "x": "모델 선택을 앞세운 이 메시지는 Claudeforce 제휴로 Claude가 Slack과 여러 Agentforce 화면의 기본 모델이 된 지 여섯 주 만에 나왔다. 마케터에게는 CRM 에이전트 뒤에 어떤 모델이 있느냐가 응답 시간, 신뢰성, 사용 비용을 좌우한다."
+            "x": "Hunt는 구매자가 묻는 질문을 자사 정책 도구에 직접 던져 보라고 조언한다. \"agent-ready\"라고 가정하지 말고 검증하라는 얘기다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Salesforce trains Koa on\n27 years of CRM workflows",
-          "body": "Salesforce trained Koa in simulations drawn from 27 years of CRM workflows, and customers can still pick other models.",
-          "mini_headline": "Salesforce's Koa CRM model",
+          "headline": "Agent-ready Shopify stores\nstill miss the basics",
+          "body": "In tests of 122 Shopify stores, agents could build a checkout but not answer basic delivery or cancellation questions.",
+          "mini_headline": "Shopify agents miss the basics",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-                "cap": "Salesforce plugs Koa, trained on 27 years of CRM simulations, in beside Claude and ChatGPT"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
               },
               {
                 "t": "p",
-                "x": "Salesforce published an interview in which Chief Data Officer Michael Andrew argued that customers should be able to switch between frontier, open and custom AI models, including Koa, the company’s first CRM reasoning model, which it says was built with NVIDIA and trained in simulations drawn from 27 years of running CRM workflows."
+                "x": "Bill Hunt audited 122 leading Shopify storefronts to test whether an agent can actually resolve a purchase decision. Shopify switched on agent tools for every store: 89 of 122 answered a standard MCP tool listing, and checkout creation succeeded on every store given a real, in-stock item."
               },
               {
                 "t": "p",
-                "x": "Koa is “orchestrated alongside frontier models rather than in place of them.” The page gives no parameter count, benchmark score, price or availability date."
+                "x": "But every one of the 74 checkouts returned requires_escalation: the agent builds a priced cart, and a person commits the money."
               },
               {
                 "t": "p",
-                "x": "“Different models have different strengths and weaknesses, and they’re changing all the time,” Andrew said. “AI is a fuel… we want to let that fuel come from anywhere, whether it’s Anthropic and Claude, OpenAI and ChatGPT.”"
+                "x": "Policy tools answered return-window questions but failed buyer-style questions on shipping and cancellation. None of 74 stores returned an arrival estimate, no store declared pickup, and not one of 122 exposes a tool to cancel, change or return an order. Across nine checks, zero stores passed."
               },
               {
                 "t": "p",
-                "x": "The choice message lands six weeks after the Claudeforce partnership made Claude the default model for Slack and several Agentforce surfaces. For marketers, the model behind a CRM agent shapes response time, reliability and consumption costs."
+                "x": "Hunt's advice: ask your own policy tool the questions buyers ask, and verify rather than assume you are \"agent-ready.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Salesforce Koa\n27년 CRM으로 학습",
-          "body": "Salesforce는 27년 CRM 경험으로 Koa를 훈련했고 모델 선택은 자유다.",
-          "mini_headline": "Salesforce의 CRM 모델 Koa",
+          "headline": "Agent-ready라던\nShopify 기본기 부족",
+          "body": "Shopify 매장 122곳에서 에이전트는 결제만 만들고 기본 질문엔 막혔다.",
+          "mini_headline": "Shopify 에이전트, 기본기 부족",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-                "cap": "Salesforce는 27년치 CRM 시뮬레이션으로 학습한 Koa를 Claude, ChatGPT 옆에 나란히 붙인다"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
               },
               {
                 "t": "p",
-                "x": "Salesforce는 최고데이터책임자(Chief Data Officer) Michael Andrew의 인터뷰를 공개했다. Andrew는 고객이 프런티어, 오픈, 맞춤형 AI 모델을 오가며 쓸 수 있어야 한다고 주장했다. 회사의 첫 CRM 추론 모델 Koa도 그 선택지에 들어간다. 회사에 따르면 Koa는 NVIDIA와 함께 만들었고 27년간 CRM 워크플로를 운영하며 쌓은 시뮬레이션으로 학습했다."
+                "x": "Bill Hunt는 에이전트가 정말 구매 결정을 끝낼 수 있는지 보려고 주요 Shopify 매장 122곳을 점검했다. Shopify는 모든 매장에 에이전트 도구를 켜 두었다. 122곳 중 89곳이 표준 MCP 도구 목록 요청에 응답했고, 실제 재고가 있는 상품을 넣으면 결제 생성은 모든 매장에서 성공했다."
               },
               {
                 "t": "p",
-                "x": "Koa는 “프런티어 모델을 대체하지 않고 그와 나란히 오케스트레이션된다.” 다만 페이지 어디에도 파라미터 수, 벤치마크 점수, 가격, 출시일은 없다."
+                "x": "하지만 결제 74건은 하나같이 requires_escalation을 돌려줬다. 가격이 매겨진 장바구니까지는 에이전트가 만들고, 돈을 확정하는 일은 사람 몫이다."
               },
               {
                 "t": "p",
-                "x": "“모델마다 강점과 약점이 다르고, 그것은 늘 바뀐다”고 Andrew는 말했다. “AI는 연료다… 우리는 그 연료가 Anthropic과 Claude든, OpenAI와 ChatGPT든 어디서든 오게 하고 싶다.”"
+                "x": "정책 도구는 반품 기간 질문엔 답했지만 배송과 취소를 묻는 구매자식 질문에선 막혔다. 74곳 중 도착 예정일을 돌려준 매장도, 픽업을 명시한 매장도 없었다. 122곳 가운데 주문 취소·변경·반품 도구를 연 곳은 하나도 없었고, 아홉 가지 점검을 모두 통과한 매장도 없었다."
               },
               {
                 "t": "p",
-                "x": "모델 선택을 앞세운 이 메시지는 Claudeforce 제휴로 Claude가 Slack과 여러 Agentforce 화면의 기본 모델이 된 지 여섯 주 만에 나왔다. 마케터에게는 CRM 에이전트 뒤에 어떤 모델이 있느냐가 응답 시간, 신뢰성, 사용 비용을 좌우한다."
+                "x": "Hunt는 구매자가 묻는 질문을 자사 정책 도구에 직접 던져 보라고 조언한다. \"agent-ready\"라고 가정하지 말고 검증하라는 얘기다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SalesforceのKoa\n27年分のCRMで学習",
-          "body": "Salesforceは27年分のCRM業務でKoaを訓練し、顧客は他モデルも選べる。",
-          "mini_headline": "SalesforceのCRMモデルKoa",
+          "headline": "Agent-readyの\nShopify、基本に穴",
+          "body": "Shopifyの122店で、エージェントは決済は作れたが配送や取消に答えられなかった。",
+          "mini_headline": "Shopifyのエージェント、基本でつまずく",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-                "cap": "Salesforceは、27年分のCRMシミュレーションで学習したKoaをClaudeやChatGPTと並べて組み込む"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
               },
               {
                 "t": "p",
-                "x": "Salesforceは、Chief Data OfficerのMichael Andrew氏のインタビューを公開した。同氏は、顧客がフロンティア、オープン、カスタムのAIモデルを切り替えられるべきだと主張した。その中には同社初のCRM推論モデルKoaも含まれる。同社によれば、KoaはNVIDIAと共同で構築され、27年にわたるCRMワークフロー運用から得たシミュレーションで訓練された。"
+                "x": "Bill Huntは、エージェントが実際に購入判断を完結できるかを確かめるため、主要なShopifyストア122店を監査した。Shopifyは全ストアでエージェント用ツールを有効にしており、122店中89店が標準的なMCPツール一覧に応答し、実在する在庫ありの商品を渡すと全ストアでチェックアウト作成に成功した。"
               },
               {
                 "t": "p",
-                "x": "Koaは「フロンティアモデルの代わりではなく、それと並んでオーケストレーションされる」。ページにはパラメータ数、ベンチマークスコア、価格、提供開始日の記載はない。"
+                "x": "だが、返ってきた74件のチェックアウトはすべてrequires_escalationだった。エージェントが価格付きのカートを組み、支払いを確定するのは人間である。"
               },
               {
                 "t": "p",
-                "x": "「モデルにはそれぞれ長所と短所があり、それは常に変化している」とAndrew氏は述べた。「AIは燃料だ…その燃料がAnthropicとClaudeであれ、OpenAIとChatGPTであれ、どこからでも来られるようにしたい」"
+                "x": "ポリシーツールは返品期間の質問には答えたが、配送や取消に関する購入者目線の質問には失敗した。74店のうち到着見込みを返した店はなく、店頭受け取りを示した店もなく、122店のどこも注文の取消・変更・返品ツールを公開していない。九つのチェックを通過した店はゼロだった。"
               },
               {
                 "t": "p",
-                "x": "この選択重視のメッセージは、Claudeforce提携によってClaudeがSlackと複数のAgentforce画面の既定モデルになってから六週間後に出た。マーケターにとって、CRMエージェントを支えるモデルは応答時間、信頼性、利用コストを左右する。"
+                "x": "Huntの助言は、買い手が尋ねる質問を自社のポリシーツールに投げかけ、「agent-ready」だと思い込まずに検証せよ、というものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Salesforce用27年\nCRM流程训练Koa",
-          "body": "Salesforce用27年CRM工作流模拟训练Koa，客户仍可选用其他模型。",
-          "mini_headline": "Salesforce的CRM模型Koa",
+          "headline": "号称Agent-ready的\nShopify店缺基本功",
+          "body": "对122家Shopify店铺的测试显示，智能体能生成结账却答不了基本的配送或取消问题。",
+          "mini_headline": "Shopify智能体缺基本功",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-                "cap": "Salesforce将以27年CRM模拟训练的Koa与Claude和ChatGPT并列接入"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
               },
               {
                 "t": "p",
-                "x": "Salesforce发布了一篇采访，首席数据官（Chief Data Officer）Michael Andrew在其中主张，客户应能在前沿、开放和定制AI模型之间切换，其中包括该公司首个CRM推理模型Koa。公司称，Koa与NVIDIA合作打造，并在源自27年CRM工作流运营的模拟中训练而成。"
+                "x": "Bill Hunt审查了122家头部Shopify店铺，测试智能体能否真正完成购买决策。Shopify已为所有店铺开启智能体工具：122家中有89家响应了标准MCP工具列表请求，只要给出真实且有库存的商品，所有店铺都能成功创建结账。"
               },
               {
                 "t": "p",
-                "x": "Koa“与前沿模型协同编排，而非取而代之”。该页面未给出参数量、基准分数、价格或上市日期。"
+                "x": "但返回的74个结账全部是requires_escalation：智能体搭好带价格的购物车，付款则由人来确认。"
               },
               {
                 "t": "p",
-                "x": "“不同模型各有优劣，而且一直在变化，”Andrew说，“AI是一种燃料……我们希望这种燃料可以来自任何地方，无论是Anthropic和Claude，还是OpenAI和ChatGPT。”"
+                "x": "政策工具能回答退货期限问题，却答不好买家式的配送和取消问题。74家店中没有一家返回预计到达时间，没有一家声明支持自提，122家中也没有一家开放取消、修改或退回订单的工具。在九项检查中，通过的店铺为零。"
               },
               {
                 "t": "p",
-                "x": "这一选择信号出现在Claudeforce合作让Claude成为Slack及多个Agentforce界面默认模型的六周之后。对营销人员而言，CRM代理背后的模型决定了响应时间、可靠性和消耗成本。"
+                "x": "Hunt的建议是：拿买家会问的问题去问自己的政策工具，要去验证，而不是想当然地认为自己已经“agent-ready”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Salesforce entrena a Koa con\n27 años de flujos de CRM",
-          "body": "Salesforce entrenó a Koa con simulaciones de 27 años de flujos de CRM, y los clientes pueden elegir otros modelos.",
-          "mini_headline": "Koa, el modelo CRM de Salesforce",
+          "headline": "Las tiendas Shopify Agent-ready\naún fallan en lo básico",
+          "body": "En 122 tiendas Shopify, los agentes crearon el pago pero no respondieron dudas básicas de entrega o cancelación.",
+          "mini_headline": "Los agentes de Shopify fallan en lo básico",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-                "cap": "Salesforce conecta Koa, entrenado con 27 años de simulaciones de CRM, junto a Claude y ChatGPT"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
               },
               {
                 "t": "p",
-                "x": "Salesforce publicó una entrevista en la que su Chief Data Officer, Michael Andrew, sostuvo que los clientes deberían poder alternar entre modelos de AI de frontera, abiertos y personalizados, entre ellos Koa, el primer modelo de razonamiento para CRM de la compañía, que según la empresa se creó con NVIDIA y se entrenó con simulaciones extraídas de 27 años de operar flujos de trabajo de CRM."
+                "x": "Bill Hunt auditó 122 tiendas líderes de Shopify para comprobar si un agente puede realmente cerrar una decisión de compra. Shopify activó las herramientas para agentes en todas las tiendas: 89 de 122 respondieron a un listado estándar de herramientas MCP, y la creación del checkout funcionó en todas las tiendas cuando se les dio un artículo real y en stock."
               },
               {
                 "t": "p",
-                "x": "Koa se “orquesta junto a los modelos de frontera, no en lugar de ellos”. La página no da número de parámetros, puntuación en benchmarks, precio ni fecha de disponibilidad."
+                "x": "Pero los 74 checkouts devueltos indicaron requires_escalation: el agente arma un carrito con precio y una persona compromete el dinero."
               },
               {
                 "t": "p",
-                "x": "“Los distintos modelos tienen distintas fortalezas y debilidades, y cambian todo el tiempo”, dijo Andrew. “La AI es un combustible… queremos que ese combustible pueda venir de cualquier parte, ya sea de Anthropic y Claude o de OpenAI y ChatGPT”."
+                "x": "Las herramientas de políticas respondieron preguntas sobre el plazo de devolución, pero fallaron ante preguntas de comprador sobre envío y cancelación. Ninguna de las 74 tiendas devolvió una fecha estimada de llegada, ninguna declaró la opción de recogida y ni una de las 122 expone una herramienta para cancelar, cambiar o devolver un pedido. En nueve comprobaciones, cero tiendas aprobaron."
               },
               {
                 "t": "p",
-                "x": "El mensaje sobre la libertad de elección llega seis semanas después de que la alianza Claudeforce convirtiera a Claude en el modelo predeterminado de Slack y de varias superficies de Agentforce. Para los profesionales del marketing, el modelo detrás de un agente de CRM determina el tiempo de respuesta, la fiabilidad y los costes de consumo."
+                "x": "El consejo de Hunt: haga a su propia herramienta de políticas las preguntas que hacen los compradores, y verifique en lugar de suponer que es \"agent-ready\"."
               }
             ]
           }
@@ -833,125 +777,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Salesforce Koa\n27년 CRM으로 학습",
-          "body": "Salesforce는 27년 CRM 경험으로 Koa를 훈련했고 모델 선택은 자유다.",
-          "mini_headline": "Salesforce의 CRM 모델 Koa",
+          "headline": "Agent-ready라는\nShopify 기본 미흡",
+          "body": "Shopify 매장 122곳에서 에이전트는 결제만 만들고 기본 질문엔 막혔다.",
+          "mini_headline": "Shopify 에이전트, 기본기 부족",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-                "cap": "Salesforce는 27년치 CRM 시뮬레이션으로 학습한 Koa를 Claude, ChatGPT와 나란히 연결한다"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
               },
               {
                 "t": "p",
-                "x": "Salesforce는 최고데이터책임자(Chief Data Officer) Michael Andrew의 인터뷰를 공개했다. 그는 고객이 프런티어, 오픈, 맞춤형 AI 모델을 오가며 쓸 수 있어야 한다고 주장했다. 여기에는 회사의 첫 CRM 추론 모델 Koa도 포함된다. 회사에 따르면 Koa는 NVIDIA와 함께 만들었고, 27년간 CRM 워크플로를 운영하며 쌓은 시뮬레이션으로 학습했다."
+                "x": "Bill Hunt는 에이전트가 실제로 구매 결정을 마무리할 수 있는지 보려고 주요 Shopify 매장 122곳을 점검했다. Shopify는 모든 매장에 에이전트 도구를 켰다. 122곳 중 89곳이 표준 MCP 도구 목록 요청에 응답했고, 실제 재고가 있는 상품을 넣으면 모든 매장에서 결제 생성에 성공했다."
               },
               {
                 "t": "p",
-                "x": "Koa는 “프런티어 모델을 대체하지 않고 그와 나란히 오케스트레이션된다.” 페이지에는 파라미터 수, 벤치마크 점수, 가격, 출시일이 나오지 않는다."
+                "x": "그러나 74건의 결제는 하나같이 requires_escalation을 반환했다. 에이전트가 가격이 매겨진 장바구니를 만들면, 돈을 확정하는 일은 사람이 한다."
               },
               {
                 "t": "p",
-                "x": "“모델마다 강점과 약점이 다르고, 그것은 늘 바뀐다”고 Andrew는 말했다. “AI는 연료다… 우리는 그 연료가 Anthropic과 Claude든, OpenAI와 ChatGPT든 어디서든 오게 하고 싶다.”"
+                "x": "정책 도구는 반품 기간 질문에는 답했지만 배송과 취소에 관한 구매자식 질문에는 실패했다. 74곳 중 도착 예정일을 돌려준 매장은 없었고, 픽업을 명시한 매장도 없었으며, 122곳 가운데 주문 취소·변경·반품 도구를 연 곳은 한 곳도 없었다. 아홉 가지 점검을 모두 통과한 매장은 단 한 곳도 없었다."
               },
               {
                 "t": "p",
-                "x": "이 선택 메시지는 Claudeforce 제휴로 Claude가 Slack과 여러 Agentforce 화면의 기본 모델이 된 지 여섯 주 만에 나왔다. 마케터에게 CRM 에이전트 뒤의 모델은 응답 시간, 신뢰성, 사용 비용을 좌우한다."
+                "x": "Hunt의 조언은 이렇다. 구매자가 묻는 질문을 자사 정책 도구에 직접 던져 보고, \"agent-ready\"라고 가정하지 말고 검증하라는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SalesforceのKoa\n27年分のCRMで学習",
-          "body": "Salesforceは27年分のCRM業務でKoaを訓練し、顧客は他モデルも選べる。",
-          "mini_headline": "SalesforceのCRMモデルKoa",
+          "headline": "Agent-readyの\nShopify、基本に穴",
+          "body": "Shopifyの122店で、エージェントは決済は作れたが配送や取消に答えられなかった。",
+          "mini_headline": "Shopifyのエージェント、基本でつまずく",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-                "cap": "Salesforceは、27年分のCRMシミュレーションで学習したKoaをClaudeやChatGPTと並べて組み込む"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
               },
               {
                 "t": "p",
-                "x": "Salesforceは、Chief Data OfficerのMichael Andrew氏のインタビューを公開した。同氏は、顧客がフロンティア、オープン、カスタムのAIモデルを切り替えられるべきだと主張した。その中には同社初のCRM推論モデルKoaも含まれる。同社によれば、KoaはNVIDIAと共同で構築され、27年にわたるCRMワークフロー運用から得たシミュレーションで訓練された。"
+                "x": "Bill Huntは、エージェントが実際に購入判断を完結できるかを確かめるため、主要なShopifyストア122店を監査した。Shopifyは全ストアでエージェント用ツールを有効にしており、122店中89店が標準的なMCPツール一覧に応答し、実在する在庫ありの商品を渡すと全ストアでチェックアウト作成に成功した。"
               },
               {
                 "t": "p",
-                "x": "Koaは「フロンティアモデルの代わりではなく、それと並んでオーケストレーションされる」。ページにはパラメータ数、ベンチマークスコア、価格、提供開始日の記載はない。"
+                "x": "だが、返ってきた74件のチェックアウトはすべてrequires_escalationだった。エージェントが価格付きのカートを組み、支払いを確定するのは人間である。"
               },
               {
                 "t": "p",
-                "x": "「モデルにはそれぞれ長所と短所があり、それは常に変化している」とAndrew氏は述べた。「AIは燃料だ…その燃料がAnthropicとClaudeであれ、OpenAIとChatGPTであれ、どこからでも来られるようにしたい」"
+                "x": "ポリシーツールは返品期間の質問には答えたが、配送や取消に関する購入者目線の質問には失敗した。74店のうち到着見込みを返した店はなく、店頭受け取りを示した店もなく、122店のどこも注文の取消・変更・返品ツールを公開していない。九つのチェックを通過した店はゼロだった。"
               },
               {
                 "t": "p",
-                "x": "この選択重視のメッセージは、Claudeforce提携によってClaudeがSlackと複数のAgentforce画面の既定モデルになってから六週間後に出た。マーケターにとって、CRMエージェントを支えるモデルは応答時間、信頼性、利用コストを左右する。"
+                "x": "Huntの助言は、買い手が尋ねる質問を自社のポリシーツールに投げかけ、「agent-ready」だと思い込まずに検証せよ、というものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Salesforce用27年\nCRM流程训练Koa",
-          "body": "Salesforce用27年CRM工作流模拟训练Koa，客户仍可选用其他模型。",
-          "mini_headline": "Salesforce的CRM模型Koa",
+          "headline": "号称Agent-ready的\nShopify店缺基本功",
+          "body": "对122家Shopify店铺的测试显示，智能体能生成结账却答不了基本的配送或取消问题。",
+          "mini_headline": "Shopify智能体缺基本功",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-                "cap": "Salesforce将以27年CRM模拟训练的Koa与Claude和ChatGPT并列接入"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
               },
               {
                 "t": "p",
-                "x": "Salesforce发布了一篇采访，首席数据官（Chief Data Officer）Michael Andrew在其中主张，客户应能在前沿、开放和定制AI模型之间切换，其中包括该公司首个CRM推理模型Koa。公司称，Koa与NVIDIA合作打造，并在源自27年CRM工作流运营的模拟中训练而成。"
+                "x": "Bill Hunt审查了122家头部Shopify店铺，测试智能体能否真正完成购买决策。Shopify已为所有店铺开启智能体工具：122家中有89家响应了标准MCP工具列表请求，只要给出真实且有库存的商品，所有店铺都能成功创建结账。"
               },
               {
                 "t": "p",
-                "x": "Koa“与前沿模型协同编排，而非取而代之”。该页面未给出参数量、基准分数、价格或上市日期。"
+                "x": "但返回的74个结账全部是requires_escalation：智能体搭好带价格的购物车，付款则由人来确认。"
               },
               {
                 "t": "p",
-                "x": "“不同模型各有优劣，而且一直在变化，”Andrew说，“AI是一种燃料……我们希望这种燃料可以来自任何地方，无论是Anthropic和Claude，还是OpenAI和ChatGPT。”"
+                "x": "政策工具能回答退货期限问题，却答不好买家式的配送和取消问题。74家店中没有一家返回预计到达时间，没有一家声明支持自提，122家中也没有一家开放取消、修改或退回订单的工具。在九项检查中，通过的店铺为零。"
               },
               {
                 "t": "p",
-                "x": "这一选择信号出现在Claudeforce合作让Claude成为Slack及多个Agentforce界面默认模型的六周之后。对营销人员而言，CRM代理背后的模型决定了响应时间、可靠性和消耗成本。"
+                "x": "Hunt的建议是：拿买家会问的问题去问自己的政策工具，要去验证，而不是想当然地认为自己已经“agent-ready”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Salesforce entrena a Koa con\n27 años de flujos de CRM",
-          "body": "Salesforce entrenó a Koa con simulaciones de 27 años de flujos de CRM, y los clientes pueden elegir otros modelos.",
-          "mini_headline": "Koa, el modelo CRM de Salesforce",
+          "headline": "Las tiendas Shopify Agent-ready\naún fallan en lo básico",
+          "body": "En 122 tiendas Shopify, los agentes crearon el pago pero no respondieron dudas básicas de entrega o cancelación.",
+          "mini_headline": "Los agentes de Shopify fallan en lo básico",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-                "cap": "Salesforce conecta Koa, entrenado con 27 años de simulaciones de CRM, junto a Claude y ChatGPT"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
               },
               {
                 "t": "p",
-                "x": "Salesforce publicó una entrevista en la que su Chief Data Officer, Michael Andrew, sostuvo que los clientes deberían poder alternar entre modelos de AI de frontera, abiertos y personalizados, entre ellos Koa, el primer modelo de razonamiento para CRM de la compañía, que según la empresa se creó con NVIDIA y se entrenó con simulaciones extraídas de 27 años de operar flujos de trabajo de CRM."
+                "x": "Bill Hunt auditó 122 tiendas líderes de Shopify para comprobar si un agente puede realmente cerrar una decisión de compra. Shopify activó las herramientas para agentes en todas las tiendas: 89 de 122 respondieron a un listado estándar de herramientas MCP, y la creación del checkout funcionó en todas las tiendas cuando se les dio un artículo real y en stock."
               },
               {
                 "t": "p",
-                "x": "Koa se “orquesta junto a los modelos de frontera, no en lugar de ellos”. La página no da número de parámetros, puntuación en benchmarks, precio ni fecha de disponibilidad."
+                "x": "Pero los 74 checkouts devueltos indicaron requires_escalation: el agente arma un carrito con precio y una persona compromete el dinero."
               },
               {
                 "t": "p",
-                "x": "“Los distintos modelos tienen distintas fortalezas y debilidades, y cambian todo el tiempo”, dijo Andrew. “La AI es un combustible… queremos que ese combustible pueda venir de cualquier parte, ya sea de Anthropic y Claude o de OpenAI y ChatGPT”."
+                "x": "Las herramientas de políticas respondieron preguntas sobre el plazo de devolución, pero fallaron ante preguntas de comprador sobre envío y cancelación. Ninguna de las 74 tiendas devolvió una fecha estimada de llegada, ninguna declaró la opción de recogida y ni una de las 122 expone una herramienta para cancelar, cambiar o devolver un pedido. En nueve comprobaciones, cero tiendas aprobaron."
               },
               {
                 "t": "p",
-                "x": "El mensaje sobre la libertad de elección llega seis semanas después de que la alianza Claudeforce convirtiera a Claude en el modelo predeterminado de Slack y de varias superficies de Agentforce. Para los profesionales del marketing, el modelo detrás de un agente de CRM determina el tiempo de respuesta, la fiabilidad y los costes de consumo."
+                "x": "El consejo de Hunt: haga a su propia herramienta de políticas las preguntas que hacen los compradores, y verifique en lugar de suponer que es \"agent-ready\"."
               }
             ]
           }
@@ -959,15 +899,15 @@
       }
     },
     {
-      "id": "marketing-bannerflow-attention-scoring",
+      "id": "marketing-floqer",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Bannerflow AI로\n광고 주목도 사전 검증",
-      "body": "Bannerflow는 AI 주목도 히트맵과 명확성 점수로 광고를 미리 검증한다.",
-      "mini_headline": "Bannerflow, 광고 사전 검증",
+      "headline": "Floqer, 영업 조사\nAI 에이전트에 맡긴다",
+      "body": "Floqer의 AI 에이전트가 B2B 매출 조직의 잠재 고객 조사를 대신한다.",
+      "mini_headline": "Floqer 에이전트, 영업 조사 대행",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/bannerflow-now-scores-ads-for-attention-before-any-budget-is-spent/",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -975,155 +915,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-            "cap": "Bannerflow 히트맵은 집행 전에 광고 주목도를 예측하지만 점수를 뒷받침할 검증 데이터는 영이다"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+            "cap": "Floqer 창업자들"
           },
           {
             "t": "p",
-            "x": "Bannerflow가 자사 크리에이티브 플랫폼의 AI 도구에 이름을 붙였다. 이름은 Creative Intelligence다. 이 제품군은 이미지 생성, 예측 주목도 점수, 성과 분석 레이어, 피드 기반 다이내믹 광고를 Create, Evaluate, Understand, Act and scale의 네 단계로 묶는다."
+            "x": "Floqer는 자율형 고객 지식 플랫폼이다. B2B 영업·마케팅 조직에 고객 정보를 계속 모으고 정리하고 갱신하는 AI-powered 데이터베이스를 제공한다. TechCrunch Disrupt 2026의 Startup Battlefield 무대에 선 이 회사는 보안 검토를 마친 뒤 2027년 초를 목표로 기술을 오픈소스로 공개할 계획이다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
           },
           {
             "t": "p",
-            "x": "예측 점수는 “주목도 히트맵, 초점 분석, 명확성 점수”로 크리에이티브가 “캠페인 예산을 투입하기 전에 주목을 끌 가능성”을 보여주고 시선을 흩뜨리는 요소도 짚는다. Creative Insights는 행동 유도 문구, 색상, 애니메이션 타이밍 같은 요소를 성과와 잇는다. 팀은 이미지를 생성·확장·업스케일하고 상품 피드도 일상 언어로 설정할 수 있다."
+            "x": "사용자가 찾는 대상을 설명하면 AI 에이전트가 여러 출처를 뒤져 기업과 담당자 목록을 만든다. 100개가 넘는 외부 데이터 소스로 계정 정보를 보강하고, 이직이나 신규 투자 소식도 웹에서 지켜본다. 회사는 고객들이 잠재 고객 발굴 시간을 최대 70%까지 줄였다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "발표 자료에는 출시 일정도, 가격도, 예측 모델의 검증 데이터도 없다. 최고제품책임자(Chief Product Officer) Moses Velasco는 “마케팅 팀은 그 어느 때보다 많은 성과 데이터를 갖고 있지만, 다음 크리에이티브에 영감을 주는 데이터는 너무 적다”고 말했다."
+            "x": "Floqer는 2024년 Shivam Mahajan과 Zaaheda Islam이 세웠다. ARR은 $1.2 million을 넘었고, 직원은 여덟 명, 고객은 Perplexity, Wise, AngelList를 포함해 1,000곳이 넘는다고 회사는 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Bannerflow pre-tests ads\nfor attention with AI",
-          "body": "Bannerflow's Creative Intelligence uses AI attention heatmaps and clarity scores to pre-test creative before launch.",
-          "mini_headline": "Bannerflow pre-tests ads",
+          "headline": "Floqer sends AI agents\nto research sales prospects",
+          "body": "Floqer's AI agents research prospects for B2B revenue teams, a chore familiar to anyone in sales or revenue operations.",
+          "mini_headline": "Floqer agents do sales research",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-                "cap": "Bannerflow heatmaps predict ad attention before spend, with zero validation data behind the scores"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+                "cap": "Floqer founders"
               },
               {
                 "t": "p",
-                "x": "Bannerflow put a name on the AI tools in its creative platform. The suite, Creative Intelligence, groups image generation, predictive attention scoring, a performance analysis layer and feed-driven dynamic ads into four stages: Create, Evaluate, Understand and Act and scale."
+                "x": "Floqer is an autonomous customer knowledge platform that gives B2B sales and marketing teams an AI-powered database that continuously collects, organizes and updates customer information. Pitching at TechCrunch Disrupt 2026's Startup Battlefield, it plans to open-source the technology, targeting early 2027 pending security reviews."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Predictive scoring uses “attention heatmaps, focus analysis and clarity scoring” to indicate how a creative “is likely to capture attention before campaign budget is committed,” and flags distracting elements. Creative Insights relates elements such as calls to action, colour and animation timing to performance. Teams can also generate, expand and upscale images and set up product feeds in plain language."
+                "x": "Users describe what they are looking for, and its AI agents search across sources to build lists of companies and contacts, enrich accounts from more than 100 third-party data sources, and monitor the web for job changes or new funding. Customers have reported cutting prospecting time by as much as 70%, the company says."
               },
               {
                 "t": "p",
-                "x": "The release gives no availability dates, no pricing and no validation data for its predictive models. “Marketing teams have more performance data than ever, but too little of it inspires the next piece of creative,” said Chief Product Officer Moses Velasco."
+                "x": "Founded in 2024 by Shivam Mahajan and Zaaheda Islam, Floqer says it has passed $1.2 million in ARR, has eight employees and more than 1,000 customers, including Perplexity, Wise and AngelList."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Bannerflow AI로\n광고 주목도 사전 검증",
-          "body": "Bannerflow는 AI 주목도 히트맵과 명확성 점수로 광고를 미리 검증한다.",
-          "mini_headline": "Bannerflow, 광고 사전 검증",
+          "headline": "Floqer, 영업 조사\nAI 에이전트에 맡긴다",
+          "body": "Floqer의 AI 에이전트가 B2B 매출 조직의 잠재 고객 조사를 대신한다.",
+          "mini_headline": "Floqer 에이전트, 영업 조사 대행",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-                "cap": "Bannerflow 히트맵은 집행 전에 광고 주목도를 예측하지만 점수를 뒷받침할 검증 데이터는 영이다"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+                "cap": "Floqer 창업자들"
               },
               {
                 "t": "p",
-                "x": "Bannerflow가 자사 크리에이티브 플랫폼의 AI 도구에 이름을 붙였다. 이름은 Creative Intelligence다. 이 제품군은 이미지 생성, 예측 주목도 점수, 성과 분석 레이어, 피드 기반 다이내믹 광고를 Create, Evaluate, Understand, Act and scale의 네 단계로 묶는다."
+                "x": "Floqer는 자율형 고객 지식 플랫폼이다. B2B 영업·마케팅 조직에 고객 정보를 계속 모으고 정리하고 갱신하는 AI-powered 데이터베이스를 제공한다. TechCrunch Disrupt 2026의 Startup Battlefield 무대에 선 이 회사는 보안 검토를 마친 뒤 2027년 초를 목표로 기술을 오픈소스로 공개할 계획이다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
               },
               {
                 "t": "p",
-                "x": "예측 점수는 “주목도 히트맵, 초점 분석, 명확성 점수”로 크리에이티브가 “캠페인 예산을 투입하기 전에 주목을 끌 가능성”을 보여주고 시선을 흩뜨리는 요소도 짚는다. Creative Insights는 행동 유도 문구, 색상, 애니메이션 타이밍 같은 요소를 성과와 잇는다. 팀은 이미지를 생성·확장·업스케일하고 상품 피드도 일상 언어로 설정할 수 있다."
+                "x": "사용자가 찾는 대상을 설명하면 AI 에이전트가 여러 출처를 뒤져 기업과 담당자 목록을 만든다. 100개가 넘는 외부 데이터 소스로 계정 정보를 보강하고, 이직이나 신규 투자 소식도 웹에서 지켜본다. 회사는 고객들이 잠재 고객 발굴 시간을 최대 70%까지 줄였다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "발표 자료에는 출시 일정도, 가격도, 예측 모델의 검증 데이터도 없다. 최고제품책임자(Chief Product Officer) Moses Velasco는 “마케팅 팀은 그 어느 때보다 많은 성과 데이터를 갖고 있지만, 다음 크리에이티브에 영감을 주는 데이터는 너무 적다”고 말했다."
+                "x": "Floqer는 2024년 Shivam Mahajan과 Zaaheda Islam이 세웠다. ARR은 $1.2 million을 넘었고, 직원은 여덟 명, 고객은 Perplexity, Wise, AngelList를 포함해 1,000곳이 넘는다고 회사는 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bannerflow、AIで\n広告の注目度を事前検証",
-          "body": "BannerflowはAIの注目ヒートマップと明瞭度スコアで広告を事前検証する。",
-          "mini_headline": "Bannerflow、広告を事前検証",
+          "headline": "Floqer、営業調査を\nAIエージェントに",
+          "body": "FloqerのAIエージェントは、B2Bの営業チームに代わって見込み客を調べる。",
+          "mini_headline": "Floqerのエージェントが営業調査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-                "cap": "Bannerflowのヒートマップは出稿前に広告の注目度を予測するが、スコアを裏付ける検証データはゼロだ"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+                "cap": "Floqerの創業者たち"
               },
               {
                 "t": "p",
-                "x": "Bannerflowが、自社クリエイティブプラットフォームのAIツールに名前を付けた。Creative Intelligenceというこのスイートは、画像生成、予測的な注目度スコアリング、パフォーマンス分析レイヤー、フィード連動のダイナミック広告を、Create、Evaluate、Understand、Act and scaleの四つの段階にまとめる。"
+                "x": "Floqerは自律型の顧客ナレッジプラットフォームで、B2Bの営業・マーケティングチームに、顧客情報を継続的に収集・整理・更新するAI-poweredのデータベースを提供する。TechCrunch Disrupt 2026のStartup Battlefieldでピッチを行った同社は、セキュリティ審査を経たうえで2027年初めを目標に技術をオープンソース化する計画だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
               },
               {
                 "t": "p",
-                "x": "予測スコアリングは「注目度ヒートマップ、フォーカス分析、明瞭度スコアリング」を用いて、クリエイティブが「キャンペーン予算を投じる前に注目を集める可能性」を示し、気を散らす要素を指摘する。Creative Insightsは、行動喚起、色、アニメーションのタイミングといった要素をパフォーマンスと結び付ける。チームは画像の生成・拡張・アップスケールや、平易な言葉での商品フィード設定も行える。"
+                "x": "ユーザーが探しているものを説明すると、AIエージェントが複数の情報源を横断して企業と担当者のリストを作り、100を超える外部データソースでアカウント情報を補強し、転職や新たな資金調達をウェブ上で監視する。同社によると、顧客からは見込み客開拓の時間を最大70%削減したとの報告があるという。"
               },
               {
                 "t": "p",
-                "x": "発表には提供開始日も価格も、予測モデルの検証データも示されていない。Chief Product OfficerのMoses Velasco氏は「マーケティングチームはかつてないほど多くのパフォーマンスデータを持っているが、次のクリエイティブを生む刺激になるものはあまりに少ない」と述べた。"
+                "x": "2024年にShivam MahajanとZaaheda Islamが創業したFloqerは、ARRが$1.2 millionを超え、従業員は八人、顧客はPerplexity、Wise、AngelListを含む1,000社超だとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bannerflow用AI\n预测试广告吸引力",
-          "body": "Bannerflow借助AI注意力热图与清晰度评分，在上线前预先测试广告创意。",
-          "mini_headline": "Bannerflow预测试广告",
+          "headline": "Floqer派AI智能体\n调研销售潜在客户",
+          "body": "Floqer的AI智能体为B2B营收团队调研潜在客户，这是销售和营收运营人员熟悉的苦差。",
+          "mini_headline": "Floqer智能体代做销售调研",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-                "cap": "Bannerflow热图可在投放前预测广告吸引力，但评分背后的验证数据为零"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+                "cap": "Floqer创始人"
               },
               {
                 "t": "p",
-                "x": "Bannerflow为其创意平台中的AI工具起了名字。这套名为Creative Intelligence的工具组合，将图像生成、预测性注意力评分、效果分析层和基于数据馈送的动态广告归入四个阶段：Create、Evaluate、Understand以及Act and scale。"
+                "x": "Floqer是一个自主客户知识平台，为B2B销售和营销团队提供AI-powered数据库，持续收集、整理并更新客户信息。该公司在TechCrunch Disrupt 2026的Startup Battlefield上路演，计划在安全审查通过后，以2027年初为目标将技术开源。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
               },
               {
                 "t": "p",
-                "x": "预测评分借助“注意力热图、焦点分析和清晰度评分”，显示一则创意“在投入广告预算之前吸引注意力的可能性”，并标出分散注意力的元素。Creative Insights把行动号召、色彩和动画时机等元素与效果关联起来。团队还能生成、扩展和放大图像，并用日常语言设置商品馈送。"
+                "x": "用户描述想找的对象后，其AI智能体会跨来源搜索，建立公司和联系人名单，借助100多个第三方数据源充实账户信息，并在网上监测职位变动或新融资。该公司称，有客户反馈潜在客户开发时间最多缩短了70%。"
               },
               {
                 "t": "p",
-                "x": "此次发布没有给出上市日期、定价，也没有其预测模型的验证数据。“营销团队拥有的效果数据前所未有地多，但能激发下一件创意的却太少，”首席产品官（Chief Product Officer）Moses Velasco表示。"
+                "x": "Floqer由Shivam Mahajan和Zaaheda Islam于2024年创立，公司称其ARR已超过$1.2 million，员工八名，客户超过1,000家，包括Perplexity、Wise和AngelList。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bannerflow prueba la atención\nde sus anuncios con AI",
-          "body": "Creative Intelligence, de Bannerflow, prueba anuncios antes del lanzamiento con mapas de atención y claridad de AI.",
-          "mini_headline": "Bannerflow prueba anuncios con AI",
+          "headline": "Floqer envía agentes de AI\na estudiar a posibles clientes",
+          "body": "Los agentes de AI de Floqer investigan posibles clientes para equipos de ingresos B2B, una tarea conocida en ventas.",
+          "mini_headline": "Los agentes de Floqer investigan ventas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-                "cap": "Los mapas de calor de Bannerflow predicen la atención de un anuncio antes de invertir, con cero datos de validación que respalden las puntuaciones"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+                "cap": "Fundadores de Floqer"
               },
               {
                 "t": "p",
-                "x": "Bannerflow puso nombre a las herramientas de AI de su plataforma creativa. La suite, Creative Intelligence, agrupa la generación de imágenes, la puntuación predictiva de atención, una capa de análisis de rendimiento y los anuncios dinámicos basados en feeds en cuatro etapas: Create, Evaluate, Understand y Act and scale."
+                "x": "Floqer es una plataforma autónoma de conocimiento de clientes que ofrece a los equipos B2B de ventas y marketing una base de datos AI-powered que recopila, organiza y actualiza de forma continua la información de clientes. Tras presentarse en el Startup Battlefield de TechCrunch Disrupt 2026, planea liberar la tecnología como código abierto, con el objetivo de hacerlo a principios de 2027, a la espera de revisiones de seguridad."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
               },
               {
                 "t": "p",
-                "x": "La puntuación predictiva usa “mapas de calor de atención, análisis de foco y puntuación de claridad” para indicar qué tan probable es que una creatividad “capte la atención antes de comprometer el presupuesto de la campaña”, y señala los elementos que distraen. Creative Insights relaciona elementos como las llamadas a la acción, el color y el ritmo de la animación con el rendimiento. Los equipos también pueden generar, ampliar y escalar imágenes y configurar feeds de productos en lenguaje sencillo."
+                "x": "Los usuarios describen lo que buscan y sus agentes de AI rastrean distintas fuentes para crear listas de empresas y contactos, enriquecer cuentas con más de 100 fuentes de datos de terceros y vigilar la web en busca de cambios de empleo o nuevas rondas de financiación. Según la empresa, algunos clientes han reportado reducir hasta un 70% el tiempo de prospección."
               },
               {
                 "t": "p",
-                "x": "El anuncio no ofrece fechas de disponibilidad, precios ni datos de validación de sus modelos predictivos. “Los equipos de marketing tienen más datos de rendimiento que nunca, pero muy pocos inspiran la siguiente pieza creativa”, dijo el Chief Product Officer, Moses Velasco."
+                "x": "Fundada en 2024 por Shivam Mahajan y Zaaheda Islam, Floqer asegura haber superado $1.2 million en ARR, y cuenta con ocho empleados y más de 1,000 clientes, entre ellos Perplexity, Wise y AngelList."
               }
             ]
           }
@@ -1131,109 +1095,437 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Bannerflow AI로\n광고 주목도 사전 검증",
-          "body": "Bannerflow는 AI 주목도 히트맵과 명확성 점수로 광고를 사전 검증한다.",
-          "mini_headline": "Bannerflow, 광고 사전 검증",
+          "headline": "Floqer, 영업 조사\nAI 에이전트에 맡긴다",
+          "body": "Floqer의 AI 에이전트가 B2B 매출 조직의 잠재 고객 조사를 대신한다.",
+          "mini_headline": "Floqer 에이전트, 영업 조사 대행",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-                "cap": "Bannerflow 히트맵은 집행 전에 광고 주목도를 예측하지만, 점수를 뒷받침하는 검증 데이터는 영이다"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+                "cap": "Floqer 창업자들"
               },
               {
                 "t": "p",
-                "x": "Bannerflow가 자사 크리에이티브 플랫폼의 AI 도구에 이름을 붙였다. Creative Intelligence라는 이 제품군은 이미지 생성, 예측 주목도 점수, 성과 분석 레이어, 피드 기반 다이내믹 광고를 Create, Evaluate, Understand, Act and scale의 네 단계로 묶는다."
+                "x": "Floqer는 B2B 영업·마케팅 조직에 고객 정보를 계속 수집하고 정리하고 갱신하는 AI-powered 데이터베이스를 제공하는 자율형 고객 지식 플랫폼이다. TechCrunch Disrupt 2026의 Startup Battlefield에서 발표한 이 회사는 보안 검토를 거쳐 2027년 초를 목표로 기술을 오픈소스로 공개할 계획이다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
               },
               {
                 "t": "p",
-                "x": "예측 점수는 “주목도 히트맵, 초점 분석, 명확성 점수”를 활용해 크리에이티브가 “캠페인 예산을 투입하기 전에 주목을 끌 가능성”을 보여주고, 시선을 분산시키는 요소를 짚어낸다. Creative Insights는 행동 유도 문구, 색상, 애니메이션 타이밍 같은 요소를 성과와 연결한다. 팀은 이미지를 생성·확장·업스케일하고, 일상 언어로 상품 피드를 설정할 수도 있다."
+                "x": "사용자가 찾는 대상을 설명하면 AI 에이전트가 여러 출처를 검색해 기업과 담당자 목록을 만들고, 100개가 넘는 외부 데이터 소스로 계정 정보를 보강하며, 이직이나 신규 투자 소식을 웹에서 지켜본다. 회사에 따르면 고객들은 잠재 고객 발굴 시간을 최대 70%까지 줄였다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "발표 자료에는 출시 일정도, 가격도, 예측 모델의 검증 데이터도 없다. 최고제품책임자(Chief Product Officer) Moses Velasco는 “마케팅 팀은 그 어느 때보다 많은 성과 데이터를 갖고 있지만, 다음 크리에이티브에 영감을 주는 데이터는 너무 적다”고 말했다."
+                "x": "2024년 Shivam Mahajan과 Zaaheda Islam이 세운 Floqer는 ARR이 $1.2 million을 넘었고, 직원은 여덟 명, 고객은 Perplexity, Wise, AngelList를 포함해 1,000곳이 넘는다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bannerflow、AIで\n広告の注目度を事前検証",
-          "body": "BannerflowはAIの注目ヒートマップと明瞭度スコアで広告を事前検証する。",
-          "mini_headline": "Bannerflow、広告を事前検証",
+          "headline": "Floqer、営業調査を\nAIエージェントに",
+          "body": "FloqerのAIエージェントは、B2Bの営業チームに代わって見込み客を調べる。",
+          "mini_headline": "Floqerのエージェントが営業調査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-                "cap": "Bannerflowのヒートマップは出稿前に広告の注目度を予測するが、スコアを裏付ける検証データはゼロだ"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+                "cap": "Floqerの創業者たち"
               },
               {
                 "t": "p",
-                "x": "Bannerflowが、自社クリエイティブプラットフォームのAIツールに名前を付けた。Creative Intelligenceというこのスイートは、画像生成、予測的な注目度スコアリング、パフォーマンス分析レイヤー、フィード連動のダイナミック広告を、Create、Evaluate、Understand、Act and scaleの四つの段階にまとめる。"
+                "x": "Floqerは自律型の顧客ナレッジプラットフォームで、B2Bの営業・マーケティングチームに、顧客情報を継続的に収集・整理・更新するAI-poweredのデータベースを提供する。TechCrunch Disrupt 2026のStartup Battlefieldでピッチを行った同社は、セキュリティ審査を経たうえで2027年初めを目標に技術をオープンソース化する計画だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
               },
               {
                 "t": "p",
-                "x": "予測スコアリングは「注目度ヒートマップ、フォーカス分析、明瞭度スコアリング」を用いて、クリエイティブが「キャンペーン予算を投じる前に注目を集める可能性」を示し、気を散らす要素を指摘する。Creative Insightsは、行動喚起、色、アニメーションのタイミングといった要素をパフォーマンスと結び付ける。チームは画像の生成・拡張・アップスケールや、平易な言葉での商品フィード設定も行える。"
+                "x": "ユーザーが探しているものを説明すると、AIエージェントが複数の情報源を横断して企業と担当者のリストを作り、100を超える外部データソースでアカウント情報を補強し、転職や新たな資金調達をウェブ上で監視する。同社によると、顧客からは見込み客開拓の時間を最大70%削減したとの報告があるという。"
               },
               {
                 "t": "p",
-                "x": "発表には提供開始日も価格も、予測モデルの検証データも示されていない。Chief Product OfficerのMoses Velasco氏は「マーケティングチームはかつてないほど多くのパフォーマンスデータを持っているが、次のクリエイティブを生む刺激になるものはあまりに少ない」と述べた。"
+                "x": "2024年にShivam MahajanとZaaheda Islamが創業したFloqerは、ARRが$1.2 millionを超え、従業員は八人、顧客はPerplexity、Wise、AngelListを含む1,000社超だとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bannerflow用AI\n预测试广告吸引力",
-          "body": "Bannerflow借助AI注意力热图与清晰度评分，在上线前预先测试广告创意。",
-          "mini_headline": "Bannerflow预测试广告",
+          "headline": "Floqer派AI智能体\n调研销售潜在客户",
+          "body": "Floqer的AI智能体为B2B营收团队调研潜在客户，这是销售和营收运营人员熟悉的苦差。",
+          "mini_headline": "Floqer智能体代做销售调研",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-                "cap": "Bannerflow热图可在投放前预测广告吸引力，但评分背后的验证数据为零"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+                "cap": "Floqer创始人"
               },
               {
                 "t": "p",
-                "x": "Bannerflow为其创意平台中的AI工具起了名字。这套名为Creative Intelligence的工具组合，将图像生成、预测性注意力评分、效果分析层和基于数据馈送的动态广告归入四个阶段：Create、Evaluate、Understand以及Act and scale。"
+                "x": "Floqer是一个自主客户知识平台，为B2B销售和营销团队提供AI-powered数据库，持续收集、整理并更新客户信息。该公司在TechCrunch Disrupt 2026的Startup Battlefield上路演，计划在安全审查通过后，以2027年初为目标将技术开源。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
               },
               {
                 "t": "p",
-                "x": "预测评分借助“注意力热图、焦点分析和清晰度评分”，显示一则创意“在投入广告预算之前吸引注意力的可能性”，并标出分散注意力的元素。Creative Insights把行动号召、色彩和动画时机等元素与效果关联起来。团队还能生成、扩展和放大图像，并用日常语言设置商品馈送。"
+                "x": "用户描述想找的对象后，其AI智能体会跨来源搜索，建立公司和联系人名单，借助100多个第三方数据源充实账户信息，并在网上监测职位变动或新融资。该公司称，有客户反馈潜在客户开发时间最多缩短了70%。"
               },
               {
                 "t": "p",
-                "x": "此次发布没有给出上市日期、定价，也没有其预测模型的验证数据。“营销团队拥有的效果数据前所未有地多，但能激发下一件创意的却太少，”首席产品官（Chief Product Officer）Moses Velasco表示。"
+                "x": "Floqer由Shivam Mahajan和Zaaheda Islam于2024年创立，公司称其ARR已超过$1.2 million，员工八名，客户超过1,000家，包括Perplexity、Wise和AngelList。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bannerflow prueba la atención\nde sus anuncios con AI",
-          "body": "Creative Intelligence, de Bannerflow, prueba anuncios antes del lanzamiento con mapas de atención y claridad de AI.",
-          "mini_headline": "Bannerflow prueba anuncios con AI",
+          "headline": "Floqer envía agentes de AI\na estudiar a posibles clientes",
+          "body": "Los agentes de AI de Floqer investigan posibles clientes para equipos de ingresos B2B, una tarea conocida en ventas.",
+          "mini_headline": "Los agentes de Floqer investigan ventas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-                "cap": "Los mapas de calor de Bannerflow predicen la atención de un anuncio antes de invertir, con cero datos de validación que respalden las puntuaciones"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+                "cap": "Fundadores de Floqer"
               },
               {
                 "t": "p",
-                "x": "Bannerflow puso nombre a las herramientas de AI de su plataforma creativa. La suite, Creative Intelligence, agrupa la generación de imágenes, la puntuación predictiva de atención, una capa de análisis de rendimiento y los anuncios dinámicos basados en feeds en cuatro etapas: Create, Evaluate, Understand y Act and scale."
+                "x": "Floqer es una plataforma autónoma de conocimiento de clientes que ofrece a los equipos B2B de ventas y marketing una base de datos AI-powered que recopila, organiza y actualiza de forma continua la información de clientes. Tras presentarse en el Startup Battlefield de TechCrunch Disrupt 2026, planea liberar la tecnología como código abierto, con el objetivo de hacerlo a principios de 2027, a la espera de revisiones de seguridad."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
               },
               {
                 "t": "p",
-                "x": "La puntuación predictiva usa “mapas de calor de atención, análisis de foco y puntuación de claridad” para indicar qué tan probable es que una creatividad “capte la atención antes de comprometer el presupuesto de la campaña”, y señala los elementos que distraen. Creative Insights relaciona elementos como las llamadas a la acción, el color y el ritmo de la animación con el rendimiento. Los equipos también pueden generar, ampliar y escalar imágenes y configurar feeds de productos en lenguaje sencillo."
+                "x": "Los usuarios describen lo que buscan y sus agentes de AI rastrean distintas fuentes para crear listas de empresas y contactos, enriquecer cuentas con más de 100 fuentes de datos de terceros y vigilar la web en busca de cambios de empleo o nuevas rondas de financiación. Según la empresa, algunos clientes han reportado reducir hasta un 70% el tiempo de prospección."
               },
               {
                 "t": "p",
-                "x": "El anuncio no ofrece fechas de disponibilidad, precios ni datos de validación de sus modelos predictivos. “Los equipos de marketing tienen más datos de rendimiento que nunca, pero muy pocos inspiran la siguiente pieza creativa”, dijo el Chief Product Officer, Moses Velasco."
+                "x": "Fundada en 2024 por Shivam Mahajan y Zaaheda Islam, Floqer asegura haber superado $1.2 million en ARR, y cuenta con ocho empleados y más de 1,000 clientes, entre ellos Perplexity, Wise y AngelList."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "marketing-newegg-ucp",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Newegg, UCP 도입\nGemini에서 바로 결제",
+      "body": "Newegg 상품을 AI Mode와 Gemini에서 바로 살 수 있게 됐다.",
+      "mini_headline": "Newegg, Gemini에서 결제",
+      "tool": "Marketing",
+      "source": "Digital Commerce 360",
+      "url": "https://www.digitalcommerce360.com/2026/10/12/newegg-adds-google-ucp-checkout-integration/",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "Newegg가 온라인 결제에 Google의 Universal Commerce Protocol(UCP)을 도입했다. 1월 Google이 UCP를 내놓은 뒤 이를 지원해 온 Wayfair, Walmart, Macy's 등의 뒤를 따랐다. 이제 Newegg-sold 상품, 곧 Newegg가 판매하는 상품을 Google의 AI Mode, Google Search, Gemini 안에서 살 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Newegg의 최고정보책임자 Montaque Hou는 \"AI는 세계가 기술을 사는 방식을 바꾸고 있으며, Newegg는 그 변화의 선두에 서려 한다\"고 말했다. Newegg는 Google에 상품 카탈로그 데이터를 넘기되 판매 당사자 지위는 그대로 지킨다."
+          },
+          {
+            "t": "p",
+            "x": "앞서 Newegg는 자체 대화형 AI 어시스턴트 Celeste를 선보였고 Perplexity 검색 내 상품 노출도 지원했다. 쇼핑객은 검색 결과나 프롬프트를 떠나지 않고 Google Pay로 결제할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Google의 Ashish Gupta는 \"Newegg가 Google에서 UCP-powered 결제를 도입한 것은 에이전틱 커머스를 확장하는 과정의 새 이정표\"라고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Newegg adds Google UCP\ncheckout to AI Mode and Gemini",
+          "body": "Newegg's Google UCP integration lets shoppers find and buy its products directly in Search, AI Mode and Gemini.",
+          "mini_headline": "Newegg checks out in Gemini",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Newegg has integrated Google's Universal Commerce Protocol (UCP) for online checkout, following Wayfair, Walmart, Macy's and others that have supported UCP since Google launched it in January. Newegg-sold products will be purchasable within Google's AI Mode, Google Search and Gemini."
+              },
+              {
+                "t": "p",
+                "x": "\"AI is changing how the world buys technology, and Newegg intends to be at the forefront of that change,\" said Montaque Hou, chief information officer at Newegg. Newegg remains the merchant of record while providing Google with product catalog data."
+              },
+              {
+                "t": "p",
+                "x": "The move follows Celeste, Newegg's own conversational AI assistant, and support for listings in Perplexity's search. Shoppers can use Google Pay without leaving their search results or prompts."
+              },
+              {
+                "t": "p",
+                "x": "\"Newegg enabling UCP-powered checkout on Google marks a new milestone as we scale agentic commerce,\" said Ashish Gupta of Google."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Newegg, UCP 도입\nGemini에서 바로 결제",
+          "body": "Newegg 상품을 AI Mode와 Gemini에서 바로 살 수 있게 됐다.",
+          "mini_headline": "Newegg, Gemini에서 결제",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Newegg가 온라인 결제에 Google의 Universal Commerce Protocol(UCP)을 도입했다. 1월 Google이 UCP를 내놓은 뒤 이를 지원해 온 Wayfair, Walmart, Macy's 등의 뒤를 따랐다. 이제 Newegg-sold 상품, 곧 Newegg가 판매하는 상품을 Google의 AI Mode, Google Search, Gemini 안에서 살 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Newegg의 최고정보책임자 Montaque Hou는 \"AI는 세계가 기술을 사는 방식을 바꾸고 있으며, Newegg는 그 변화의 선두에 서려 한다\"고 말했다. Newegg는 Google에 상품 카탈로그 데이터를 넘기되 판매 당사자 지위는 그대로 지킨다."
+              },
+              {
+                "t": "p",
+                "x": "앞서 Newegg는 자체 대화형 AI 어시스턴트 Celeste를 선보였고 Perplexity 검색 내 상품 노출도 지원했다. 쇼핑객은 검색 결과나 프롬프트를 떠나지 않고 Google Pay로 결제할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google의 Ashish Gupta는 \"Newegg가 Google에서 UCP-powered 결제를 도입한 것은 에이전틱 커머스를 확장하는 과정의 새 이정표\"라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Newegg、UCP導入\nGeminiで直接決済",
+          "body": "Neweggの商品をSearch、AI Mode、Geminiで直接買えるようになった。",
+          "mini_headline": "NeweggがGeminiで決済に対応",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "NeweggはオンラインチェックアウトにGoogleのUniversal Commerce Protocol（UCP）を統合した。GoogleがUCPを一月に投入して以来対応してきたWayfair、Walmart、Macy'sなどに続く動きだ。Newegg-soldの商品、つまりNeweggが販売する商品は、GoogleのAI Mode、Google Search、Gemini内で購入できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "Neweggの最高情報責任者Montaque Houは「AIは世界がテクノロジーを買う方法を変えつつあり、Neweggはその変化の最前線に立つつもりだ」と述べた。NeweggはGoogleに商品カタログデータを提供しつつ、販売主体の立場を維持する。"
+              },
+              {
+                "t": "p",
+                "x": "今回の動きは、Newegg独自の対話型AIアシスタントCelesteや、Perplexityの検索への商品掲載対応に続くものだ。買い物客は検索結果やプロンプトから離れずにGoogle Payを使える。"
+              },
+              {
+                "t": "p",
+                "x": "GoogleのAshish Guptaは「NeweggがGoogle上でUCP-poweredのチェックアウトを有効にしたことは、エージェント型コマースを拡大するうえで新たな節目となる」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Newegg接入UCP\nGemini内直接结账",
+          "body": "接入Google UCP后，Newegg商品可在AI Mode和Gemini中直接购买。",
+          "mini_headline": "Newegg在Gemini中结账",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Newegg已在线上结账中接入Google的Universal Commerce Protocol（UCP），跟随自Google一月推出UCP以来便提供支持的Wayfair、Walmart、Macy's等商家。Newegg-sold商品，即Newegg销售的商品，将可在Google的AI Mode、Google Search和Gemini中购买。"
+              },
+              {
+                "t": "p",
+                "x": "Newegg首席信息官Montaque Hou表示：“AI正在改变全世界购买科技产品的方式，Newegg希望站在这场变革的最前沿。”Newegg在向Google提供商品目录数据的同时，仍是记录在案的销售方。"
+              },
+              {
+                "t": "p",
+                "x": "此前，Newegg已推出自有对话式AI助手Celeste，并支持在Perplexity搜索中展示商品。购物者无需离开搜索结果或提示即可使用Google Pay。"
+              },
+              {
+                "t": "p",
+                "x": "Google的Ashish Gupta表示：“Newegg在Google上启用UCP-powered结账，标志着我们扩展智能体商务的一个新里程碑。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Newegg integra Google UCP\npara pagar en AI Mode y Gemini",
+          "body": "La integración de Newegg con Google UCP permite encontrar y comprar sus productos en Search, AI Mode y Gemini.",
+          "mini_headline": "Newegg habilita el pago en Gemini",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Newegg ha integrado el Universal Commerce Protocol (UCP) de Google para el checkout en línea, después de Wayfair, Walmart, Macy's y otros que admiten UCP desde que Google lo lanzó en enero. Los productos Newegg-sold, es decir, vendidos por Newegg, podrán comprarse dentro de AI Mode, Google Search y Gemini de Google."
+              },
+              {
+                "t": "p",
+                "x": "\"La AI está cambiando la forma en que el mundo compra tecnología, y Newegg quiere estar a la vanguardia de ese cambio\", dijo Montaque Hou, director de información de Newegg. Newegg sigue siendo el comerciante registrado y proporciona a Google los datos de su catálogo de productos."
+              },
+              {
+                "t": "p",
+                "x": "La medida llega después de Celeste, el asistente conversacional de AI propio de Newegg, y del soporte para listados en la búsqueda de Perplexity. Los compradores pueden usar Google Pay sin salir de sus resultados de búsqueda ni de sus prompts."
+              },
+              {
+                "t": "p",
+                "x": "\"Que Newegg habilite el checkout UCP-powered en Google marca un nuevo hito mientras escalamos el comercio agéntico\", dijo Ashish Gupta, de Google."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Newegg, UCP 도입\nGemini서 바로 결제",
+          "body": "Newegg 상품을 AI Mode와 Gemini에서 바로 살 수 있게 됐다.",
+          "mini_headline": "Newegg, Gemini에서 결제",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Newegg가 온라인 결제에 Google의 Universal Commerce Protocol(UCP)을 도입했다. Google이 1월 UCP를 출시한 이후 이를 지원해 온 Wayfair, Walmart, Macy's 등의 뒤를 잇는다. Newegg-sold 상품, 즉 Newegg가 판매하는 상품은 Google의 AI Mode, Google Search, Gemini 안에서 구매할 수 있게 된다."
+              },
+              {
+                "t": "p",
+                "x": "Newegg의 최고정보책임자 Montaque Hou는 \"AI는 세계가 기술을 사는 방식을 바꾸고 있으며, Newegg는 그 변화의 선두에 서려 한다\"고 말했다. Newegg는 Google에 상품 카탈로그 데이터를 제공하면서도 판매 당사자 지위를 유지한다."
+              },
+              {
+                "t": "p",
+                "x": "이번 조치는 Newegg의 자체 대화형 AI 어시스턴트 Celeste와 Perplexity 검색 내 상품 노출 지원에 이은 것이다. 쇼핑객은 검색 결과나 프롬프트를 벗어나지 않고 Google Pay로 결제할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google의 Ashish Gupta는 \"Newegg가 Google에서 UCP-powered 결제를 도입한 것은 에이전틱 커머스를 확장하는 과정의 새 이정표\"라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Newegg、UCP導入\nGeminiで直接決済",
+          "body": "Neweggの商品をSearch、AI Mode、Geminiで直接買えるようになった。",
+          "mini_headline": "NeweggがGeminiで決済に対応",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "NeweggはオンラインチェックアウトにGoogleのUniversal Commerce Protocol（UCP）を統合した。GoogleがUCPを一月に投入して以来対応してきたWayfair、Walmart、Macy'sなどに続く動きだ。Newegg-soldの商品、つまりNeweggが販売する商品は、GoogleのAI Mode、Google Search、Gemini内で購入できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "Neweggの最高情報責任者Montaque Houは「AIは世界がテクノロジーを買う方法を変えつつあり、Neweggはその変化の最前線に立つつもりだ」と述べた。NeweggはGoogleに商品カタログデータを提供しつつ、販売主体の立場を維持する。"
+              },
+              {
+                "t": "p",
+                "x": "今回の動きは、Newegg独自の対話型AIアシスタントCelesteや、Perplexityの検索への商品掲載対応に続くものだ。買い物客は検索結果やプロンプトから離れずにGoogle Payを使える。"
+              },
+              {
+                "t": "p",
+                "x": "GoogleのAshish Guptaは「NeweggがGoogle上でUCP-poweredのチェックアウトを有効にしたことは、エージェント型コマースを拡大するうえで新たな節目となる」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Newegg接入UCP\nGemini内直接结账",
+          "body": "接入Google UCP后，Newegg商品可在AI Mode和Gemini中直接购买。",
+          "mini_headline": "Newegg在Gemini中结账",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Newegg已在线上结账中接入Google的Universal Commerce Protocol（UCP），跟随自Google一月推出UCP以来便提供支持的Wayfair、Walmart、Macy's等商家。Newegg-sold商品，即Newegg销售的商品，将可在Google的AI Mode、Google Search和Gemini中购买。"
+              },
+              {
+                "t": "p",
+                "x": "Newegg首席信息官Montaque Hou表示：“AI正在改变全世界购买科技产品的方式，Newegg希望站在这场变革的最前沿。”Newegg在向Google提供商品目录数据的同时，仍是记录在案的销售方。"
+              },
+              {
+                "t": "p",
+                "x": "此前，Newegg已推出自有对话式AI助手Celeste，并支持在Perplexity搜索中展示商品。购物者无需离开搜索结果或提示即可使用Google Pay。"
+              },
+              {
+                "t": "p",
+                "x": "Google的Ashish Gupta表示：“Newegg在Google上启用UCP-powered结账，标志着我们扩展智能体商务的一个新里程碑。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Newegg integra Google UCP\npara pagar en AI Mode y Gemini",
+          "body": "La integración de Newegg con Google UCP permite encontrar y comprar sus productos en Search, AI Mode y Gemini.",
+          "mini_headline": "Newegg habilita el pago en Gemini",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Newegg ha integrado el Universal Commerce Protocol (UCP) de Google para el checkout en línea, después de Wayfair, Walmart, Macy's y otros que admiten UCP desde que Google lo lanzó en enero. Los productos Newegg-sold, es decir, vendidos por Newegg, podrán comprarse dentro de AI Mode, Google Search y Gemini de Google."
+              },
+              {
+                "t": "p",
+                "x": "\"La AI está cambiando la forma en que el mundo compra tecnología, y Newegg quiere estar a la vanguardia de ese cambio\", dijo Montaque Hou, director de información de Newegg. Newegg sigue siendo el comerciante registrado y proporciona a Google los datos de su catálogo de productos."
+              },
+              {
+                "t": "p",
+                "x": "La medida llega después de Celeste, el asistente conversacional de AI propio de Newegg, y del soporte para listados en la búsqueda de Perplexity. Los compradores pueden usar Google Pay sin salir de sus resultados de búsqueda ni de sus prompts."
+              },
+              {
+                "t": "p",
+                "x": "\"Que Newegg habilite el checkout UCP-powered en Google marca un nuevo hito mientras escalamos el comercio agéntico\", dijo Ashish Gupta, de Google."
               }
             ]
           }

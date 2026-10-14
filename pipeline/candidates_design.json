@@ -1,116 +1,25 @@
 {
-  "date": "2026-10-14",
   "section": "design",
-  "now_iso": "2026-10-13T22:03:28Z",
+  "now_iso": "2026-10-14T22:00:44Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
-      "url": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
-      "source": "Creative Bloq",
+      "title": "Introducing Agent-Native Beta: The Framework for Agentic Apps",
+      "url": "https://www.builder.io/blog/introducing-agent-native",
+      "source": "Builder.io",
       "category": "figma",
-      "published_iso": "2026-10-13T08:00:00Z",
-      "excerpt": "A hands-on test of ArtCraft, the viral AI-coded open-source suite that clones Photoshop, Premiere and other Creative Cloud apps. The verdict: it isn't ready to replace Adobe's tools yet.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg"
+      "published_iso": "2026-10-14T15:00:00Z",
+      "excerpt": "Builder.io released Agent-Native, an open-source TypeScript framework for building AI agents with rich UIs: define an action once and use it in the UI, the agent, the API, the CLI and MCP.",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F70b5ac4622c74e00a042858640097b47?width=1200"
     },
     {
-      "title": "Impeccable vs Taste Skill: which Claude design skill to use, tested",
-      "url": "https://dev.to/skillgild/impeccable-vs-taste-skill-which-claude-design-skill-to-use-tested-3d6i",
-      "source": "DEV Community",
+      "title": "Gemini 4 Argon is rolling out in Figma Make",
+      "url": "https://www.figma.com/release-notes/?title=gemini-4-argon-is-rolling-out-in-figma-make",
+      "source": "Figma",
       "category": "figma",
-      "published_iso": "2026-10-13T17:53:52Z",
-      "excerpt": "Two Claude front-end design skills, Impeccable and Taste Skill, run on the same real brief and compared on the pages they built, cost, speed, invented facts and rule-following, with a recommendation on which to pick.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmedia.skillgild.dev%2Fmedia%2Fsite%2Fdevto%2Ffrontend-skills%2Fcover-impeccable-vs-taste-skill-1760x660.png"
-    },
-    {
-      "title": "Is your website AI slop? How to tell, and how to fix it",
-      "url": "https://dev.to/laurilllll/is-your-website-ai-slop-how-to-tell-and-how-to-fix-it-1fn5",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-10-13T18:57:55Z",
-      "excerpt": "A guide to spotting the tell-tale signs of generic AI-generated website design and copy, and practical fixes to restore a distinct visual and verbal identity.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkcuzbb03xxdg37u9z6p9.png"
-    },
-    {
-      "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
-      "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
-      "source": "Engadget",
-      "category": "figma",
-      "published_iso": "2026-10-13T17:00:00+00:00",
-      "excerpt": "Google is revamping the Play Store for the AI era, letting people publish Android apps they vibe-coded in AI Studio using only a Google account, alongside changes to publishing and recommendations.",
-      "og_image": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/l-intro-1791578617.jpg"
-    },
-    {
-      "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
-      "url": "https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway",
-      "source": "Vercel",
-      "category": "render",
-      "published_iso": "2026-10-13T00:00:00+00:00",
-      "excerpt": "Microsoft's MAI-Image-2.6 and the faster Flash variant can now generate and edit images through Vercel AI Gateway, with one API key, unified billing and request traces.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI",
-      "category": "render",
-      "published_iso": "2026-10-13T12:00:00Z",
-      "excerpt": "Higgsfield says GPT-6 Astra lets its creative agents keep consistency across videos longer than 10 minutes and call 3D-modeling tools, while GPT-Image-2.5 reliably renders text and infographics; its ~200 creatives prototype product ideas with Codex.",
-      "og_image": ""
-    },
-    {
-      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-      "source": "The Verge",
-      "category": "render",
-      "published_iso": "2026-10-13T13:55:45+00:00",
-      "excerpt": "After backlash over how its neural rendering altered game art, Nvidia's DLSS 5 arrives in Hogwarts Legacy with a toned-down look, as Nvidia stresses developers keep 'detailed artistic control' and ships a 2x faster model.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hogwarts-legacy-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-    },
-    {
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-      "source": "NVIDIA Blog",
-      "category": "render",
-      "published_iso": "2026-10-13T12:00:49+00:00",
-      "excerpt": "Ahead of the Oct. 16 RTX Spark laptop launch, Nvidia and Adobe rearchitect Photoshop and Premiere for up to 2x performance, RTX Video upscaling lands in ComfyUI, and Blender 5.3 gets DLSS Ray Reconstruction for real-time viewport previews.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
-    },
-    {
-      "title": "Nvidia launches USD BRep geometry kernel for solid modelling",
-      "url": "https://develop3d.com/cad/nvidia-launches-usd-brep-geometry-kernel-for-solid-modelling/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "published_iso": "2026-10-13T12:10:48+00:00",
-      "excerpt": "Nvidia has launched a USD BRep geometry kernel for NURBS-based boundary-representation solid modelling, aiming to bring CAD geometry into OpenUSD and make greater use of AI in engineering design.",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
-    },
-    {
-      "title": "This game was made with AI in 30 minutes, and it's a bit of a wake-up call",
-      "url": "https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "published_iso": "2026-10-13T13:03:10Z",
-      "excerpt": "Dragon Quest creator Yuji Horii built a playable game with AI in about 30 minutes, an experiment that makes game development look ridiculously easy and raises questions for game artists and designers.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/2RKozbdd7DCiBEENuUtAAC-1600-80.jpg"
-    },
-    {
-      "title": "Epic shifts to 'AI-accelerated development' for upcoming Disney game",
-      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-10-13T15:12:59+00:00",
-      "excerpt": "Epic Games is going all-in on AI, moving its upcoming Disney game to 'AI-accelerated development' that leans on AI for code and art production.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932925/acastro_STK108__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "Now AI isn't just faking art, it's faking artists' signatures as well",
-      "url": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "published_iso": "2026-10-12T09:00:00Z",
-      "excerpt": "ChatGPT has been signing its fake New Yorker-style cartoons with real cartoonists' names, adding forged signatures to the attribution and copyright worries around AI image generation.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png"
+      "published_iso": "2026-10-13T00:00:00Z",
+      "excerpt": "Figma's release notes say Google's Gemini 4 Argon model is rolling out as a model option in Figma Make, its prompt-to-app tool.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
     },
     {
       "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
@@ -118,7 +27,7 @@
       "source": "UX Collective",
       "category": "workflow",
       "published_iso": "2026-10-12T20:17:45Z",
-      "excerpt": "Anamol Rajbhandari argues AI is automating the middle of the design process, leaving work concentrated at the strategic top and the craft-and-judgment bottom, and reshaping what designer roles look like.",
+      "excerpt": "For fifteen years the design process kept growing while the time left for making the product kept shrinking; the essay argues AI is now compressing the middle of that process into an hourglass shape.",
       "og_image": "https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
     },
     {
@@ -127,26 +36,188 @@
       "source": "UX Collective",
       "category": "workflow",
       "published_iso": "2026-10-13T09:03:24Z",
-      "excerpt": "Using the Yamaha DX7 and its presets as a parallel, Mathieu Poli argues AI made quality available to everyone and made it average; what sets design work apart now is a visible decision.",
+      "excerpt": "Using the Yamaha DX7 and its factory presets as a parable, the piece argues AI made design quality available to everyone and average, so what sets work apart now is a visible decision.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*VBnrM4huWLMjvsHgMb6uyQ.jpeg"
     },
     {
-      "title": "How to Hide a Cut in an AI Videos",
-      "url": "https://www.youtube.com/watch?v=x6r00_9kbtQ",
-      "source": "Higgsfield AI (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-13T06:00:25-07:00",
-      "excerpt": "Three editing techniques for making AI-generated scenes flow together: match the action, use a foreground wipe, and let sound lead the next shot.",
-      "og_image": "https://i.ytimg.com/vi/x6r00_9kbtQ/maxresdefault.jpg"
+      "title": "Secret agent bot: accessibility matters for the agents even if you can't see them",
+      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
+      "source": "UX Collective",
+      "category": "tokens",
+      "published_iso": "2026-10-12T20:19:31Z",
+      "excerpt": "The semantic structure screen readers rely on now also decides whether ChatGPT, Claude, Gemini, Grok and Perplexity agents can read a page at all; the agent never sees the designed surface, only the structure underneath. (Note: overlaps the recently published 'accessibility tree as agent UX' story.)",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*kBVrEZpJg77XPdxNBIOr1A.png"
     },
     {
-      "title": "How I Make Motion Graphics Inside Claude Motion (Opus 5.5)",
-      "url": "https://www.youtube.com/watch?v=5HYYXYYCrL4",
-      "source": "Higgsfield AI (YouTube)",
+      "title": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
+      "url": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-10-13T08:00:00Z",
+      "excerpt": "Creative Bloq tested ArtCraft and other free, AI-coded clones of Photoshop and Premiere and found they are not ready to replace Adobe's apps yet.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg"
+    },
+    {
+      "title": "This game was made with AI in 30 minutes, and it's a bit of a wake-up call",
+      "url": "https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-10-13T13:03:10Z",
+      "excerpt": "Dragon Quest creator Yuji Horii built a playable game with AI in 30 minutes, an experiment that makes game development look ridiculously easy and raises questions for game artists and designers.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/2RKozbdd7DCiBEENuUtAAC-1600-80.jpg"
+    },
+    {
+      "title": "Epic's delayed Marvel and Star Wars game is going all-in on AI",
+      "url": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-10-13T11:10:27Z",
+      "excerpt": "Epic says its delayed Disney game will lean heavily on AI-generated content, and fans and creatives are not buying its promise of 'MORE and BETTER stuff'.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5gZXcRceMpeH4mSD2Rzvmk-1600-80.jpg"
+    },
+    {
+      "title": "Epic thinks you'll love its new vibe coded game launcher",
+      "url": "https://www.engadget.com/2286721/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/",
+      "source": "Engadget",
+      "category": "workflow",
+      "published_iso": "2026-10-14T16:46:59Z",
+      "excerpt": "Epic is touting a new game launcher built with vibe coding, and Engadget argues that laying off workers for AI is nothing to celebrate.",
+      "og_image": "https://www.engadget.com/img/gallery/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/l-intro-1791998893.jpg"
+    },
+    {
+      "title": "Chatbots Are Lazy Design: Building an 'Invisible UI' with In-Browser SLMs & WebGPU",
+      "url": "https://dev.to/quentin_merle/chatbots-are-lazy-design-building-an-invisible-ui-with-in-browser-slms-webgpu-2e3m",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-10-14T13:18:34Z",
+      "excerpt": "An 18-minute deep dive arguing chat boxes are lazy AI UX, and showing how to build an 'invisible UI' driven by small language models running in the browser on WebGPU.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkaar9iv60ovtsnfo3u6a.jpg"
+    },
+    {
+      "title": "Keep the Composition Stable Across Sketch, Pencil and Generated Film",
+      "url": "https://dev.to/fablessbridge/keep-the-composition-stable-across-sketch-pencil-and-generated-film-2p9",
+      "source": "DEV Community",
+      "category": "render",
+      "published_iso": "2026-10-14T15:16:50Z",
+      "excerpt": "A workflow note on keeping composition consistent as a piece moves from sketch to pencil to an AI-generated, film-like image, because the drawing and the generated frame must describe the same structure.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvc7mzfjglmgmfw7w4vb.png"
+    },
+    {
+      "title": "Spectral Labs builds 'Turing Test for AI CAD'",
+      "url": "https://develop3d.com/cad/spectral-labs-turing-test-ai-cad/",
+      "source": "DEVELOP3D",
+      "category": "cad",
+      "published_iso": "2026-10-14T21:16:15Z",
+      "excerpt": "Spectral Labs claims to have built the first AI system to pass an industry-standard CAD certification for mechanical engineers, a SolidWorks exam.",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+    },
+    {
+      "title": "Sparseal releases CozyBlanket Pro",
+      "url": "https://www.cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-10-13T07:00:55Z",
+      "excerpt": "Sparseal's much-anticipated AI-assisted retopology, UV unwrapping and baking app CozyBlanket Pro is now available for iPad, with a desktop edition in development.",
+      "og_image": ""
+    },
+    {
+      "title": "Workday launches Sana-based UI, autopilot agents, as it deepens its focus on AI",
+      "url": "https://www.cio.com/article/4234407/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai.html",
+      "source": "CIO",
+      "category": "workflow",
+      "published_iso": "2026-10-13T14:23:22Z",
+      "excerpt": "Workday is replacing its interface with a Sana-based agent UI. Autonomous agents keep running while users are offline and tell them what they missed when they sign in, and customers can even go headless.",
+      "og_image": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
+    },
+    {
+      "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
+      "url": "https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-10-13T00:00:00Z",
+      "excerpt": "Microsoft's MAI-Image-2.6 and MAI-Image-2.6-Flash image generation and editing models are now callable through Vercel AI Gateway with one API key, unified billing and request traces.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png"
+    },
+    {
+      "title": "Muse Wonder now available on AI Gateway",
+      "url": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-10-12T00:00:00Z",
+      "excerpt": "Meta's Muse Wonder model can now be called through Vercel AI Gateway with one API key, no provider account, spend tracking and request traces.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png"
+    },
+    {
+      "title": "Design System in Code: What It Is and How to Build One",
+      "url": "https://www.eleken.co/blog-posts/design-system-in-code",
+      "source": "Eleken",
+      "category": "tokens",
+      "published_iso": "2026-10-12T00:00:00Z",
+      "excerpt": "Eleken explains how a design system that lives in code compares with Figma-only systems and UI kits, and how to build one that works for designers, developers and AI tools.",
+      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6acce9de62f3db13728deabb_cover.webp"
+    },
+    {
+      "title": "AI-Native UX Design: How to Design for Systems, Not Screens",
+      "url": "https://www.eleken.co/blog-posts/ai-native-ux-design",
+      "source": "Eleken",
+      "category": "workflow",
+      "published_iso": "2026-10-13T00:00:00Z",
+      "excerpt": "Practical patterns for designing AI-native products around systems rather than screens, so they feel clear, trustworthy and easy to use.",
+      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a21418bb189f3dbb136da2d_cover%20(5).webp"
+    },
+    {
+      "title": "This cool interactive visual argues that generative art began in a cave",
+      "url": "https://www.fastcompany.com/91619904/this-cool-interactive-visual-says-generative-art-began-in-a-cave",
+      "source": "Fast Company",
+      "category": "workflow",
+      "published_iso": "2026-10-13T14:30:00Z",
+      "excerpt": "Le Random's Living Timeline maps 1,147 moments in generative art, from 71,000 BCE ochre etchings to today's AI-styled images, to explain where algorithmic and AI art come from.",
+      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/10/i-1-91619904-history-of-generative-art.png"
+    },
+    {
+      "title": "Config India 2026: Figma product launch keynote (Dylan Field, CEO & Co-founder, Figma)",
+      "url": "https://www.youtube.com/watch?v=CXAvPycESVY",
+      "source": "Figma (YouTube)",
       "category": "social",
-      "published_iso": "2026-10-13T10:19:23-07:00",
-      "excerpt": "A walkthrough pushing Claude Motion plus Higgsfield through three challenges: an editable launch video, a 3D product ad, and a complete animated short, with prompts and skills shared.",
-      "og_image": "https://i.ytimg.com/vi/5HYYXYYCrL4/maxresdefault.jpg"
+      "published_iso": "2026-10-14T10:50:33Z",
+      "excerpt": "Figma's product launch keynote, streamed live from Config India, where Dylan Field presents what's next for how teams design, build and collaborate.",
+      "og_image": "https://i.ytimg.com/vi/CXAvPycESVY/maxresdefault.jpg"
+    },
+    {
+      "title": "New Claude Motion is Insane",
+      "url": "https://www.youtube.com/watch?v=qZqZ02AsYiA",
+      "source": "The AI Advantage (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-14T13:35:19Z",
+      "excerpt": "A hands-on look at Anthropic's Claude Motion beta, which writes code to animate text, charts, shapes and images into editable motion graphics and explainers with MP4 export.",
+      "og_image": "https://i.ytimg.com/vi/qZqZ02AsYiA/maxresdefault.jpg"
+    },
+    {
+      "title": "Build teaser assets for a campaign fast using Adobe Stock's AI Studio",
+      "url": "https://www.youtube.com/watch?v=_X1YtJw-bSA",
+      "source": "Adobe Creative Cloud (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-13T18:01:03Z",
+      "excerpt": "Adobe walks through using Adobe Stock's AI Studio to quickly build a carousel of teaser assets that matches a campaign's warm, minimal look.",
+      "og_image": "https://i.ytimg.com/vi/_X1YtJw-bSA/maxresdefault.jpg"
+    },
+    {
+      "title": "FAST Video Voice Dubbing in Multiple Languages with ElevenCreative",
+      "url": "https://www.youtube.com/watch?v=plM_uqendqM",
+      "source": "DesignCourse (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-12T19:25:44Z",
+      "excerpt": "DesignCourse demonstrates dubbing videos into multiple languages with ElevenLabs' ElevenCreative, framing AI as a tool that speeds up content creation rather than doing it all for you. (Sponsored by ElevenLabs.)",
+      "og_image": "https://i.ytimg.com/vi/plM_uqendqM/maxresdefault.jpg"
+    },
+    {
+      "title": "Figma for Edu: Working with typography systems",
+      "url": "https://www.youtube.com/watch?v=rbxNV3_mb-A",
+      "source": "Figma (YouTube)",
+      "category": "tokens",
+      "published_iso": "2026-10-13T17:26:05Z",
+      "excerpt": "A Figma workshop on building consistent, scalable design systems with typography, variables and modes, which work as design tokens.",
+      "og_image": "https://i.ytimg.com/vi/rbxNV3_mb-A/maxresdefault.jpg"
     }
   ]
 }

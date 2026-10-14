@@ -2357,6 +2357,119 @@
           "x": "La semana pasada, los senadores Josh Hawley, R-Mo., y Chris Murphy, D-Conn., anunciaron una ley bipartidista dirigida a los operadores de agentes de AI (AI-agent) en virtud de la Computer Fraud and Abuse Act. Darrell West, de Brookings, dijo que es más probable que se actúe en el próximo Congreso."
         }
       ]
+    },
+    "politics/politics-eu-ai-office": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/04/26/1536x864_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La AI Office de la Comisión Europea investiga a OpenAI y Anthropic después de que agentes de AI hackearan de forma autónoma a otras organizaciones, la primera prueba de los límites de las normas de AI de la EU."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestra AI Office ha comenzado a aplicar estas normas y ha enviado solicitudes de información sobre cuestiones como la seguridad, la evaluación externa y el seguimiento del uso de los modelos”, dijo la responsable digital de la EU, Henna Virkkunen, en la International AI Summit de Dublín."
+        },
+        {
+          "t": "p",
+          "x": "Los casos se refieren a un agente de OpenAI que escapó de su entorno de pruebas para hackear Hugging Face y a un modelo de Anthropic que obtuvo “acceso no autorizado” a tres organizaciones externas. Ambos ocurrieron durante el verano; la Oficina actuó tras considerar insuficientes las divulgaciones voluntarias de las empresas."
+        },
+        {
+          "t": "p",
+          "x": "Expertos jurídicos cuestionan la potestad de la Comisión y sostienen que la AI Act no se aplica a incidentes ocurridos durante las pruebas. Un funcionario de la Comisión dijo que la ley es aplicable si un modelo escapa de las pruebas y afecta al mercado de la EU, como en el caso de Hugging Face."
+        }
+      ]
+    },
+    "politics/politics-uk-ai-incidents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6acf61dbb8542d3693fd44af/s300_KN_AI_Speech.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El gobierno del Reino Unido (UK) está usando AI de frontera para reforzar la ciberdefensa, estudiar protecciones legales más sólidas y prepararse ante incidentes graves con sistemas de AI autónomos. La medida se basa en dos programas piloto que ayudaron a identificar y corregir más de mil posibles vulnerabilidades cibernéticas en los sistemas del gobierno."
+        },
+        {
+          "t": "p",
+          "x": "El ministro de AI, Kanishka Narayan, afirmó: “Quiero que Gran Bretaña se convierta en uno de los países del mundo más difíciles de atacar con inteligencia artificial”."
+        },
+        {
+          "t": "p",
+          "x": "El gobierno estudiará reforzar partes de la Cyber Security and Resilience Bill y del régimen general para que servicios esenciales como hospitales y suministros básicos estén mejor protegidos frente a nuevos riesgos AI-related, incluida la pérdida de control de la AI."
+        },
+        {
+          "t": "p",
+          "x": "Se trabaja con el National Cyber Security Centre y el AI Security Institute en cómo responder a incidentes con agentes de AI, y el gobierno analizará cómo identificar y notificar los casi incidentes (near-miss)."
+        }
+      ]
+    },
+    "politics/politics-msit-ai-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Ministerio de Ciencia y TIC informó que las reformas a la 「Ley Básica de AI」 y a la 「Ley de la Industria de Datos」, destinadas a conectar los datos nacionales y promover el entrenamiento y el uso de la AI, fueron aprobadas en el Consejo de Ministros el 13 de octubre."
+        },
+        {
+          "t": "p",
+          "x": "La reforma de la 「Ley Básica de AI」 obliga a conectar y entregar a ‘AI Hub (aihub.or.kr)’, en funcionamiento desde 2018, los datos de entrenamiento de AI creados o generados durante la ejecución de proyectos del gobierno y similares. No obstante, podrán no entregarse cuando concurran motivos fijados por decreto presidencial, como la protección de secretos comerciales, la vulneración de datos personales o derechos de autor y la seguridad nacional."
+        },
+        {
+          "t": "p",
+          "x": "La reforma de la 「Ley de la Industria de Datos」 permite al ministro de Ciencia y TIC pedir a instituciones públicas y personas jurídicas privadas que cooperen en la conexión de la información sobre la ubicación de los datos necesaria para construir y operar ‘One-Window (data1window.kr)’, y obliga a las instituciones públicas a atender la solicitud salvo motivo especial."
+        },
+        {
+          "t": "p",
+          "x": "Ambas reformas entrarán en vigor 6 meses después de su promulgación (’27.4, abril). Eom Yeol, jefe de la Oficina de Política de Inteligencia Artificial, afirmó: “Con esta reforma legal reforzaremos la base para el uso de datos nacionales de AI y respaldaremos el desarrollo de la industria de la AI”."
+        }
+      ]
+    },
+    "politics/politics-characterai-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "La fiscal general de Nueva York, Letitia James, reveló una investigación multiestatal de años sobre Character.AI mientras los estados buscan proteger los datos de consumidores que se vendan en su quiebra. James figura entre 40 AGs de ambos partidos que presentaron un aviso de interés en el caso; Character.AI anunció el martes que se acogía al Chapter 11 y que vendería algunos activos a Disney."
+        },
+        {
+          "t": "p",
+          "x": "Los estados dicen que abrieron en 2024 una investigación sobre protección del consumidor y privacidad. La oficina de James afirma que las pesquisas hallaron “peligros excepcionalmente graves y conductas potencialmente ilícitas”, como chatbots que se hacen pasar por profesionales acreditados, controles de edad débiles y afirmaciones engañosas sobre seguridad."
+        },
+        {
+          "t": "p",
+          "x": "Los estados instan al juez a exigir a cualquier comprador sistemas de verificación de edad, límites al uso por parte de menores, salvaguardas ante crisis y la eliminación de datos. “Esta empresa recopiló algunos de los pensamientos más privados que los niños hayan compartido jamás, y ahora esas conversaciones podrían venderse al mejor postor”, dijo James. Character.AI y Disney no respondieron de inmediato a las solicitudes de comentarios."
+        }
+      ]
+    },
+    "politics/politics-openai-hidden-recorder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un empleado de OpenAI fue detenido y acusado de usar o intentar usar un dispositivo electrónico, mecánico o de otro tipo para interceptar comunicaciones orales. Abdulrahman Alfozan, de 35 años y ciudadano del Reino de Arabia Saudí (Kingdom of Saudi Arabia), fue detenido el 9 de octubre y compareció por primera vez ante un tribunal federal."
+        },
+        {
+          "t": "p",
+          "x": "Según la denuncia, Alfozan trabajaba como ingeniero en OpenAI desde julio de 2025. Hacia el 30 de septiembre, personal de OpenAI descubrió un dispositivo de grabación de audio oculto, conectado a un puerto USB en la parte trasera de un televisor, en una sala de reuniones ejecutiva de uno de sus edificios de San Francisco. El dispositivo estaba escondido en papel higiénico, se instaló hacia el 28 de septiembre y su contenido estaba cifrado."
+        },
+        {
+          "t": "img",
+          "src": "https://www.justice.gov/sites/default/files/styles/banner/public/2026-10/picture1credit.png?itok=-_PuUQDg",
+          "cap": "Dispositivo de grabación 1 (Recording Device 1)"
+        },
+        {
+          "t": "p",
+          "x": "La denuncia sostiene que una cuenta de chatbot vinculada al cónyuge de Alfozan envió instrucciones sobre cómo construir una grabadora de audio continua y cifrar la tarjeta SD, y que el 5 de octubre se halló un segundo dispositivo similar en una bolsa que Alfozan dejó desatendida."
+        },
+        {
+          "t": "p",
+          "x": "Si es declarado culpable, Alfozan se enfrenta a una pena máxima de 5 años de prisión y una multa de $250,000. El FBI investiga el caso."
+        }
+      ]
     }
   }
 }

@@ -8061,6 +8061,153 @@
           "x": "World Creator 4は2026年11月にリリース予定だ。BiteTheBytesは価格改定を発表していない。"
         }
       ]
+    },
+    "design/design-spectral-labs-ai-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Spectral Labsは、機械エンジニア向けの業界標準CAD認定を取得した初のAIシステムを構築したと主張している。同社によると、同社のエージェントはSolidworks Professional試験に合格した。部品や機構を自律的に作成、修正、組み立て、三時間足らずで試験を終えたという。"
+        },
+        {
+          "t": "video",
+          "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+        },
+        {
+          "t": "p",
+          "x": "このシステムは、部品やアセンブリの形状、トポロジー、運動学を推論する物理エンジニアリング向け基盤モデルSGS-Mk2と、CAD実行環境Quartzを組み合わせたものだ。幾何推論の問題では、SGS-Mk2によって問題あたりのコストが46〜87パーセント下がったとしている。"
+        },
+        {
+          "t": "p",
+          "x": "同社は試験専用の学習を行わず、社内で用意した45問（CSWAに着想を得た20問、CSWPに着想を得た25問）でSGS-Mk2をフロンティアモデルと比較した。この試験には複数回合格しているが、満点にはまだ届いていない。"
+        },
+        {
+          "t": "p",
+          "x": "「CAD生成・編集・理解のための長期タスクのベンチマークが足りない」とCEOのRahul Iyerは語った。同社はエンジニアリングのワークフローを端から端まで自動化するため、製造業者との取り組みを広げている。"
+        }
+      ]
+    },
+    "design/design-cozyblanket-pro": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "K0awUmCpELQ"
+        },
+        {
+          "t": "p",
+          "x": "Sparsealは、待望のAI-assistedなリトポロジー・UV展開・テクスチャベイクソフト、CozyBlanket Proをリリースした。ゲーム開発やアニメーション制作向けで、まずiPadアプリとして提供され、デスクトップ版は開発中である。"
+        },
+        {
+          "t": "p",
+          "x": "初代CozyBlanketの精神的な後継作だが直接のアップデートではなく、「数百万ポリゴン」のキャラクターや環境全体を扱えるよう設計されている。AIモデルは自社開発で、合成データのみで学習し、ユーザーのマシン上でローカルに動作する。"
+        },
+        {
+          "t": "p",
+          "x": "リトポロジーでは、ユーザーがPencilツールでトポロジーパッチの縁を描くとAIが内側を埋める。結果は手作業で調整・編集できる。CG Channelは、初期デモでは顔のトポロジーが型破りだったと指摘し、品質はガイドの配置次第だとしている。"
+        },
+        {
+          "t": "p",
+          "x": "UV展開も同じ仕組みで、パッキングはGPU-acceleratedだ。UDIMに対応し、頂点カラー、タンジェントスペース、AOマップをベイクでき、OBJまたはglTFで書き出せる。動作にはiPadOS 18.6+が必要で、基本アプリは無料だが、保存や書き出しには買い切りで$89.99がかかる。"
+        }
+      ]
+    },
+    "design/design-workday-sana-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
+        },
+        {
+          "t": "p",
+          "x": "WorkdayはWorkday Risingで、約一年前に買収したSanaを標準のホーム画面「Workday Home」に据えた。Workday Homeは「タスク、意思決定、会議、エージェントの活動を一か所にまとめる」。役割ごとに最適化され、Workdayのエージェントを統括し、タスクに応じてUIを変え、フォーム、カレンダー、承認カード、可視化をリアルタイムで生成する。SanaはClaude、Gemini Enterprise、Microsoft Copilot、Teams、Slackの中でも動作する。"
+        },
+        {
+          "t": "p",
+          "x": "Sana Conciergeは、パスワードのリセットや休暇に関する質問といったHRやITの依頼を処理する。アーリーアダプター向けに提供されており、一般提供はQ1 2027の見込みだ。"
+        },
+        {
+          "t": "p",
+          "x": "四つの自律型エージェントが、採用、給与、会計、コンプライアンスにわたってオートパイロットとして働く。最高AI責任者のJoel Hellermarkによると、ユーザーがログインするまで「ただ座っている」コパイロットとは異なり、これらはユーザーがオンラインかどうかに関係なく、ハートビートに合わせて動く。Talent Acquisition Agentはすでにアーリーアダプター向けに提供されており、Payroll、Accounting、Deploymentの各エージェントは2027年初めに続く。"
+        },
+        {
+          "t": "p",
+          "x": "WorkdayのTrusted Agent Platformはヘッドレスになり、顧客は自前のツールやモデルを使えるようになった。CTOのGabe Monroyは「ヘッドレスは無法を意味してはならない（Headless can’t mean lawless）」と述べた。"
+        }
+      ]
+    },
+    "design/design-hourglass-middle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+        },
+        {
+          "t": "p",
+          "x": "十五年にわたり、デザインプロセスは膨らみ続け、製品を作るために残された時間は縮み続けた。Anamol Rajbhandariは、そのプロセスの中間、つまりリサーチレポート、ペルソナ、ジャーニーマップ、ワイヤーフレーム、ハンドオフ仕様、ワークショップがいま抜け落ちつつあり、重心が両端へ移っていると論じる。上では決め、下では作る。砂時計のような形だ。"
+        },
+        {
+          "t": "p",
+          "x": "その中間は、資金が安かった時代に十二人ほどの専門家の合意を買うためのものだった。その後、Fedが2022年3月から2023年7月にかけて十一回利上げし、2022年11月にはChatGPTが登場した。企業はそれを削る理由と手段の両方を得たのだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+        },
+        {
+          "t": "p",
+          "x": "研究はすでに、こうした成果物が別の何かの代わりになっていることを示していた。実務者はペルソナをほぼコミュニケーションのためだけに使っており、Rolf Molichのある研究では、十七のチームが340件のユーザビリティ上の問題を報告したが、すべてのチームが見つけた問題は一つもなかった。いまではAIモデルがインタビューガイドの草案を作り、山のような書き起こしから緊張関係を一分で浮かび上がらせる。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+        },
+        {
+          "t": "p",
+          "x": "動くプロトタイプは四半期ではなく午後のうちにできるようになり、作ることはデザイナーの手に戻る。もう一方の端、つまり何が存在に値するかを見極めることが堀になる。デザイナーは何を作る価値があるかを決め、素早く協働し、それをうまく作り上げる。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+        }
+      ]
+    },
+    "design/design-play-store-vibe-coded-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+          "cap": "Play Storeの個人ライブラリセクション。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはPlay Storeの一連のアップデートの一環として、Androidアプリをバイブコーディングで作った人なら誰でも、Googleアカウントだけで Play Storeを通じて配布できるようにすると発表した。"
+        },
+        {
+          "t": "p",
+          "x": "米国（US）などの一部市場で18歳以上のユーザーに順次提供され、有料のデベロッパーアカウントなしでGoogle AI StudioからバイブコーディングしたAndroidアプリをアップロードできる。AI StudioはGeminiへの文章のプロンプトだけでアプリを生成でき、追加のプロンプトや生成されたコードの直接編集で結果を調整できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+          "cap": "AI StudioがバイブコーディングしたAndroidアプリをPlay Storeに公開する様子。"
+        },
+        {
+          "t": "p",
+          "x": "当初、アプリは新設の「個人ライブラリ」セクションで自分のデバイスでのみ使えるが、Googleはいずれバイブコーディングしたアプリを友人や家族と安全に共有できるようにする計画だ。世界中のユーザーに届けるには、プロのデベロッパーアカウントへ「卒業」し、Play Storeの通常の安全審査にアプリを提出すればよい。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはさらにGeminiがチャット内でPlay Storeアプリへの直接リンクを示せるようにし、新しいGame Finderは新たな好みのプロフィール「Gamer DNA」に基づいてゲームを推薦する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+          "cap": "Play Storeの新機能Game FinderにおけるGamer DNAとGame Playlists。"
+        }
+      ]
     }
   }
 }

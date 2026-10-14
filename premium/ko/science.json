@@ -11757,6 +11757,126 @@
           "x": "Craig Kaplan은 이 결과가 “타일링 이론에서 오래 남아 있던 골치 아픈 미해결 문제”를 매듭짓는다고 본다. 기존 Schmitt-Conway-Danzer 쌍각기둥은 비주기성이 약했기 때문이다. 생성형 AI에 크게 기댄 탓에 반응은 엇갈린다. Chaim Goodman-Strauss는 이 논문에서 “LLM-driven 연구 논문의 특징”이 보인다고 했다. 그는 Felix Flicker와 함께 Chair44가 비주기 모노타일임을 사람 손으로 직접 증명한 글을 썼다. Flicker는 “우리 일이 금덩이를 찾으려고 AI 슬롭(slop)을 뒤지는 일로 전락할 위험이 있다”고 말한다."
         }
       ]
+    },
+    "science/science-hiro-acev2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2가 High Resolution Output Ai2 Climate Emulator를 HiRO-ACEv2로 새로 고쳤다. HiROv2는 아주 드문 강우·바람·기압 현상까지 정확하게 재현한다. 시스템 전체로 보면 고해상도 전 지구 대기 모델 X-SHiELD의 약 1/300 비용으로 전 지구 3 km 기후 데이터를 만든다."
+        },
+        {
+          "t": "p",
+          "x": "구성은 둘이다. 100 km 해상도로 도는 AI 모델 ACE, 그리고 그 출력을 3 km로 선명하게 다듬는 HiRO다. 해상도를 낮춘 X-SHiELD 데이터를 넣으면 HiROv2는 백만 번에 한 번 있을 사건까지 고해상도 통계를 3% 안쪽으로 맞추고, 눈과 강우대까지 사실적인 허리케인을 만든다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+          "cap": "HiRO-ACEv2로 10년을 시뮬레이션해 얻은 북대서양 강한 허리케인 사례."
+        },
+        {
+          "t": "p",
+          "x": "전 지구 고해상도 데이터를 만드는 비용은 X-SHiELD를 돌릴 때보다 약 300배 적다. 한 지역만 본다면 절감 폭은 백 배 이상 더 벌어질 수 있다. 다만 더 따뜻한 미래처럼 지금과 다른 기후는 아직 다루지 못한다. Ai2는 4°C 더 따뜻해진 세계를 담은 새 X-SHiELD 데이터로 학습시킬 계획이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+          "cap": "ACE 데이터 시각화 도구에서 본 Baja California 상공의 10 m 풍속 시뮬레이션. 큰 지도는 100 km 해상도의 ACE2, 삽입 지도는 3 km 해상도의 HiRO-ACEv2다."
+        },
+        {
+          "t": "p",
+          "x": "웹 데모에서는 HiROv1과 HiROv2의 출력을 X-SHiELD와 나란히 비교해 볼 수 있다. 모델은 튜토리얼 노트북과 함께 내려받으면 된다."
+        }
+      ]
+    },
+    "science/science-tess-superearth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+          "cap": "모항성을 도는 용암 행성 앞의 TESS를 그린 상상도다."
+        },
+        {
+          "t": "p",
+          "x": "Pavel Rabtsevich는 스페인에 사는 프로덕트 매니저이자 우주과학 애호가다. 그는 직접 만든 AI 알고리즘으로 NASA TESS 데이터 속 표적 항성 126,000개 이상을 훑었고, 알고리즘은 오리온자리(Orion)에서 약 116광년 떨어진 TIC 4206066을 짚어냈다. 이 별은 사흘마다 약 두 시간씩 어두워졌다. 그는 이후 기록 보관소를 뒤져 감광 현상 22건을 더 찾았다."
+        },
+        {
+          "t": "p",
+          "x": "행성으로 확인되면 지구 반지름의 약 1.4배인 super-Earth가 된다. 표면 온도는 1,000°F(540°C)로 추정된다. 다만 2018년 감광 일부가 TESS 추력기 분사 시점과 겹쳤다. 그래서 그는 다른 가능성을 아직 배제하지 못한 “반복되는 통과 유사 신호”라고 부른다."
+        },
+        {
+          "t": "p",
+          "x": "AI가 없었다면 이번 탐색은 불가능했다는 게 그의 말이다. 여러 에이전트가 “코드를 짜고, 돌리고, 서로의 작업을 점검했지만” “연구 자체는 내 것”이라고 한다. Yale의 Greg Laughlin은 이 후보가 “탄탄하다”고 본다. MIT의 Pablo Mercader Perez에 따르면 TESS 필터는 2020년에 이 신호를 잡고도 걸러 냈고, 올해 1월에야 검출할 수 있게 됐다. TESS는 11월에 이 별을 다시 관측한다."
+        }
+      ]
+    },
+    "science/science-firstproof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "인공지능 모델의 수학 실력이 늘고 있다. 다만 기업이 만든 AI 얘기다. First Proof 프로젝트가 공개한 세 번째 결과를 보면, 프런티어 연구소의 구독형 독점 모델이 수학에서 오픈 웨이트 모델을 크게 앞선다. Stanford의 Mohammed Abouzaid는 “연구 수학에서 오픈 웨이트 모델과 프런티어 모델의 격차는 매우 크다”고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 연구 문제 10개를 골라 문제마다 채점자 세 명을 붙이고, 모의 동료 심사처럼 답을 평가하게 했다. 누구나 쓸 수 있는 모델만 참가할 수 있어서 OpenAI의 새 내부 모델은 빠졌다. 시험대에는 GPT 6 Astra, Claude Opus 5.5, 여러 모델을 묶은 “ProofCouncil”, 선두 오픈 웨이트 모델 Kimi K3 기반 하네스가 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "ProofCouncil은 10문제 중 아홉 문제를 “경미한 수정”만 거치면 받아들일 만한 수준으로 풀었다. 2월에는 몇 문제, 6월에는 여섯이나 일곱 문제였다. Kimi K3는 한 문제도 풀지 못했다. Harvard의 Lauren Williams는 “완전히 나가떨어졌다”며 오픈 모델에 투자해야 한다고 촉구한다. 데이터 유출이 걱정인 수학자들은 OpenAI나 Anthropic 모델의 대안을 원하지만, 아직은 그 대안이 통하지 않는 모양이다."
+        }
+      ]
+    },
+    "science/science-subseasonal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "두 주 넘게 내다보는 예보는 믿기 어렵다. 2021년 텍사스 겨울 폭풍 때 드러났듯 그 부담은 에너지·농업·비상 계획이 진다. MIT 연구진이 참여한 팀은 예보 모델이 과거에 낸 오차를 학습해 두~여섯 주 앞 확률 예보를 보정하는 머신러닝 후처리 계층을 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "유럽중기예보센터(European Centre for Medium-Range Weather Forecasts, ECMWF) 모델에 얹자 이 기간 예측력이 약 두 배로 뛰었고, ECMWF 예보 대회에서도 우승했다. Nature에 실린 이 방법은 MIT의 Judah Cohen이 “예측 가능성의 사막”이라 부르는 구간에서 처음으로 기후 평균값을 넘어섰다. 극한 기상 예측도 나아졌다."
+        },
+        {
+          "t": "p",
+          "x": "주저자는 Harvard의 Hannah Guan과 University of Toronto의 Soukayna Mouatadid이고, ECMWF, DTN, Microsoft, 브라질 IMPA 연구자들이 함께했다. 다른 모델에도 붙일 수 있고, 오픈소스인 데다 비용도 낮다. 케냐 기상청도 활용에 관심을 보였다."
+        }
+      ]
+    },
+    "science/science-mit-self-wiring-learner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MIT의 McGovern Institute와 K. Lisa Yang ICoN Center 연구진은 Oct. 9 PNAS에 실린 논문에서 인공 신경망 학습이 생물학적으로 타당한지 가늠할 핵심 잣대는 개발자 손길 없이 스스로 조직하는 능력이라고 주장했다. 연결이 언제, 어떻게 바뀌어야 하는지 단순한 지침만 주면 무작위로 연결된 유닛 무리가 스스로 모양을 바꿔 정보를 효과적으로 처리하는 네트워크가 된다."
+        },
+        {
+          "t": "p",
+          "x": "Liu Ziyin, Yulu Gan과 함께 공동 주저자로 참여한 Qianli Liao는 “뇌에는 외부 설계자나 건축가가 없다”고 말한다. 네트워크는 “함께 발화하는 뉴런은 함께 연결된다”처럼 뇌 회로를 다시 배선한다고 여겨지는 규칙을 따르면서 패턴을 인식하고 이미지를 분류하는 법을 익혔다."
+        },
+        {
+          "t": "p",
+          "x": "스스로 조립된 모티프는 경사 하강법과 닮은 전략으로 재편됐다. 성능은 역전파(back-propagation)로 훈련한 네트워크와 견줘도 비슷했다. 신경과학자들은 뇌가 역전파를 쓸 가능성이 낮다고 본다."
+        },
+        {
+          "t": "p",
+          "x": "Tomaso Poggio는 “우리가 제안한 시냅스 모티프를 역전파가 인공 신경망에서 하는 일을 하는 데 실제로 뇌가 쓰고 있다면, 기계와 뇌 사이에 강력한 연결 고리를… 갖게 될 것”이라고 말한다."
+        }
+      ]
     }
   }
 }

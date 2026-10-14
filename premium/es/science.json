@@ -7314,6 +7314,126 @@
           "x": "Craig Kaplan afirma que resuelve “un persistente problema abierto de la teoría de teselaciones”: el antiguo biprisma de Schmitt-Conway-Danzer solo era débilmente aperiódico. La recepción ha sido dispar por el uso intensivo de AI generativa. Chaim Goodman-Strauss dijo que el artículo tiene “rasgos de un artículo de investigación LLM-driven”, y él y Felix Flicker han escrito demostraciones humanas de que Chair44 es una monotesela aperiódica. “El riesgo es que nuestro trabajo quede reducido a cribar basura de AI en busca de pepitas de oro”, dice Flicker."
         }
       ]
+    },
+    "science/science-hiro-acev2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 presentó HiRO-ACEv2, la actualización más reciente de su High Resolution Output Ai2 Climate Emulator. HiROv2 reproduce con gran precisión incluso fenómenos de lluvia, viento y presión extremadamente raros, mientras que el sistema completo genera datos climáticos globales a 3 km por cerca de 1/300 del costo de X-SHiELD, un modelo atmosférico global de alta resolución."
+        },
+        {
+          "t": "p",
+          "x": "El sistema combina ACE, un modelo de inteligencia artificial (AI) que funciona a 100 km, con HiRO, que afina esos resultados hasta 3 km. A partir de datos degradados de X-SHiELD, HiROv2 reproduce sus estadísticas de alta resolución con un margen de 3%, incluso en eventos de uno en un millón, y genera huracanes con ojos y bandas de lluvia realistas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+          "cap": "Ejemplo de un huracán intenso en el Atlántico Norte, generado durante la simulación de 10 años de HiRO-ACEv2."
+        },
+        {
+          "t": "p",
+          "x": "Producir datos globales de alta resolución cuesta unas 300 veces menos que ejecutar X-SHiELD, y para una sola región el ahorro puede ser más de cien veces mayor. Aún no puede abordar otros climas, como un futuro más cálido; Ai2 prevé entrenarlo con nuevos datos de X-SHiELD, incluido un mundo 4°C más cálido."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+          "cap": "Velocidad del viento simulada a 10 m sobre Baja California en el visualizador de datos de ACE: ACE2 a 100 km de resolución en el mapa principal y HiRO-ACEv2 a 3 km en el recuadro."
+        },
+        {
+          "t": "p",
+          "x": "Una demo web muestra los resultados de HiROv1 y HiROv2 junto a los de X-SHiELD, y los modelos pueden descargarse con cuadernos tutoriales."
+        }
+      ]
+    },
+    "science/science-tess-superearth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+          "cap": "Recreación artística de TESS frente a un planeta de lava que orbita su estrella."
+        },
+        {
+          "t": "p",
+          "x": "Pavel Rabtsevich, gerente de producto radicado en España y aficionado a la ciencia espacial, usó un algoritmo de AI hecho a medida para revisar más de 126,000 estrellas objetivo en los datos de NASA TESS. El algoritmo señaló TIC 4206066, a unos 116 años luz en Orión (Orion), que se atenuaba durante unas dos horas cada tres días; después halló 22 atenuaciones más en los archivos."
+        },
+        {
+          "t": "p",
+          "x": "De confirmarse, el mundo sería una super-Earth de alrededor de 1.4 veces el radio de la Tierra, con una temperatura superficial estimada de 1,000°F (540°C). Algunas caídas de 2018 coincidieron con encendidos de los propulsores de TESS, por lo que él lo llama una “señal repetida similar a un tránsito”, sin descartar aún otras explicaciones."
+        },
+        {
+          "t": "p",
+          "x": "Según él, la búsqueda no habría sido posible sin AI: varios agentes “escribieron el código, lo ejecutaron y revisaron el trabajo de los demás”, pero “la investigación en sí fue mía”. Greg Laughlin, de Yale, califica al candidato de “sólido”. Pablo Mercader Perez, del MIT, señala que un filtro de TESS captó la señal en 2020 pero la descartó; solo pudo detectarse en enero de este año. TESS volverá a observar la estrella en noviembre."
+        }
+      ]
+    },
+    "science/science-firstproof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de inteligencia artificial son cada vez mejores en matemáticas, pero solo las AI corporativas. El proyecto First Proof publicó su tercera tanda de resultados, que sugiere que los modelos propietarios por suscripción de los laboratorios de frontera superan con creces la capacidad matemática de los modelos de pesos abiertos. “La brecha entre los modelos de pesos abiertos y los modelos de frontera es muy grande en las matemáticas de investigación”, dice Mohammed Abouzaid, de Stanford."
+        },
+        {
+          "t": "p",
+          "x": "El equipo eligió 10 problemas de investigación y tres evaluadores por problema juzgaron las respuestas en una revisión por pares simulada. Los participantes debían estar disponibles públicamente, así que el nuevo modelo interno de OpenAI quedó excluido. Entre los modelos evaluados estuvieron GPT 6 Astra, Claude Opus 5.5, un agregado llamado “ProofCouncil” y un arnés sobre Kimi K3, el principal modelo de pesos abiertos."
+        },
+        {
+          "t": "p",
+          "x": "ProofCouncil resolvió de forma aceptable nueve de 10 problemas con “revisiones menores”, frente a unos pocos en febrero y seis o siete en junio. Kimi K3 resolvió exactamente cero. “Realmente se dio de bruces”, dice Lauren Williams, de Harvard, que pide invertir en modelos abiertos. Los matemáticos preocupados por la filtración de datos quieren alternativas a los modelos de OpenAI o Anthropic; por ahora, al parecer, no funcionan."
+        }
+      ]
+    },
+    "science/science-subseasonal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los pronósticos a más de dos semanas son poco fiables, lo que complica la planificación energética, agrícola y de emergencias, como mostraron las tormentas invernales de 2021 en Texas. Un equipo que incluye a investigadores del MIT creó una capa de posprocesamiento de inteligencia artificial (AI) basada en aprendizaje automático, que aprende de los errores pasados de un modelo de pronóstico y corrige sus pronósticos probabilísticos de dos a seis semanas vista."
+        },
+        {
+          "t": "p",
+          "x": "Aplicada al modelo del Centro Europeo de Previsiones Meteorológicas a Medio Plazo (European Centre for Medium-Range Weather Forecasts, ECMWF), casi duplicó la capacidad predictiva en ese intervalo y obtuvo el primer puesto en una competencia de pronósticos del ECMWF. Según lo publicado en Nature, fue el primer enfoque en superar los promedios climatológicos en este rango, que Judah Cohen, del MIT, llama un “desierto de predictibilidad”, y también mejoró la predicción de fenómenos extremos."
+        },
+        {
+          "t": "p",
+          "x": "Los autores principales son Hannah Guan, de Harvard, y Soukayna Mouatadid, de la University of Toronto, con colaboradores de ECMWF, DTN, Microsoft y el IMPA de Brasil. El método funciona con otros modelos, es de código abierto y de bajo costo, y la oficina meteorológica de Kenia ha mostrado interés en usarlo."
+        }
+      ]
+    },
+    "science/science-mit-self-wiring-learner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En un artículo publicado el 9 de octubre en PNAS, científicos del McGovern Institute del MIT y del K. Lisa Yang ICoN Center sostienen que una medida clave de la plausibilidad biológica del aprendizaje de una red neuronal artificial es su capacidad para organizarse por sí misma, sin la mano guía de un desarrollador. Con instrucciones simples sobre cómo y cuándo deben cambiar las conexiones, un grupo de unidades conectadas al azar puede remodelarse hasta formar una red eficaz de procesamiento de información."
+        },
+        {
+          "t": "p",
+          "x": "“El cerebro no tiene un diseñador ni un arquitecto externo”, dice Qianli Liao, coautor principal junto con Liu Ziyin y Yulu Gan. La red sigue reglas que se cree que reconfiguran los circuitos cerebrales, como “las neuronas que se activan juntas se conectan juntas”, y aprendió a reconocer patrones y clasificar imágenes."
+        },
+        {
+          "t": "p",
+          "x": "Los motivos autoensamblados se reorganizaron con una estrategia similar al descenso de gradiente. Frente a redes entrenadas con retropropagación (back-propagation), que según los neurocientíficos es poco probable que use el cerebro, obtuvo un rendimiento similar."
+        },
+        {
+          "t": "p",
+          "x": "“Si los motivos sinápticos que proponemos los usa de hecho el cerebro para hacer lo que la retropropagación hace en las redes neuronales artificiales, entonces tendremos una conexión sólida… entre máquinas y cerebros”, afirma Tomaso Poggio."
+        }
+      ]
     }
   }
 }

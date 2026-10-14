@@ -7090,6 +7090,119 @@
           "x": "同じ情報筋によれば、Epicが必要な人員と時間を見誤ったこともあり、開発は予定より遅れていた。Bloombergは、これまでゲームの大部分をAIで作ろうとした大手ゲーム会社はないと伝えている。Disneyは2024年にEpicへ15億ドルを出資しており、このシューターは両社の提携による最初のゲームになる予定だった。"
         }
       ]
+    },
+    "games/games-shogun2-upscale": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-slop9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2011年の名作の「アップデート・強化された完全版」として10月13日に発売された再リリース（re-release）版Total War: Shogun 2 – Complete Editionは、Steamで24時間のうち82パーセントが否定的レビューとなり、Overwhelmingly Negative（圧倒的に不評）となっている。プレイヤーはパフォーマンス、バグ、壊れたMOD対応、グラフィックの問題、そしてユニットカードに（明示しないまま）AIアップスケーリングを使ったとされる点を批判している。Segaは旧バージョンの販売も終了し、価格を引き上げた。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-2.jpg",
+          "cap": "左がオリジナル、右が新バージョン"
+        },
+        {
+          "t": "p",
+          "x": "Kotakuは百科事典の画像をオリジナルと比較した。細部は失われ、人物はつぶれ、煙は「ランプシェード」に、ユニットの紋章は「一種のart-deco風クラゲ」に変わっていた。「genAIでないなら説明がつかない」と同サイトは書く。Creative AssemblyはAI使用について回答しておらず、SteamでAI使用の申告がないことはValveの規則に違反する。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-1.jpg"
+        }
+      ]
+    },
+    "games/games-playgama-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Playgama.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Playgamaは、AIエージェントで作ったゲームの反復開発サイクル全体をカバーするツール群を投入する。開発者がClaude CodeやCodexの中から直接エージェントにゲームの公開を頼むと、ゲームはそのままPlaygama Sandboxに載ってすぐにプレイでき、エージェントは共有可能なライブリンクを返す。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Full-iteration-loop-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "プラットフォームはプレイ時間、パフォーマンス、リテンションに加え、カスタムイベントも追跡する。エージェントはMCP経由でそのデータを取得し、プレイヤーが離脱する箇所を見つけ、修正して新しいビルドをアップロードする。反響のあったゲームはplaygama.comに移り、15+ のinstant-play（即時プレイ）プラットフォームにまたがる450M+ 人の潜在的なプレイヤーに届く。"
+        },
+        {
+          "t": "p",
+          "x": "「次の好機は、エージェントが二番目、三番目、十番目のバージョンについてより良い判断を下せるよう支援することだ」と創業者のDmitry Kachmarは述べた。"
+        }
+      ]
+    },
+    "games/games-links-awakening-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zKaVYn62cAmA7wbgV4Krjc-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nintendo Switch版The Legend of Zelda: Link's Awakeningリメイクの、ファンメイド（fan-made）のリコンパイルPC移植版が「ほぼAIだけを使って」作られ、ネット上に登場した。リコンパイル界隈ではAIが広がっており、Banjo Tooie、Mario Kart Wii、Donkey Kong 64などのvibe-coded（バイブコーディングによる）プロジェクトが生まれている。"
+        },
+        {
+          "t": "p",
+          "x": "開発者のPeiikaiはReddit投稿で、この静的リコンパイル移植版は「正直に言えばほぼAIだけを使って」作ったと述べた。「AIの使用には賛否がある」と認めつつも、「こうしたものは自分のスキルをはるかに超えており、AIなしでは不可能だった」とし、できる限り「責任を持って導いている」という。"
+        },
+        {
+          "t": "p",
+          "x": "移植版のプレイには自分で吸い出したゲームデータが必要だが、GamesRadar+はNintendoがSwitchエミュレーターを一貫して標的にしてきたと指摘する。AIを使わずにPCでこのゲームを遊びたいなら、Link's Awakening DX HDという選択肢もある。"
+        }
+      ]
+    },
+    "games/games-dawnwalker-actor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "The Blood of Dawnwalkerの英語版でCoenを演じるWill de Renzy-Martinは、My Perfect Console PodcastのTikTokティーザーで「自分の仕事で最も面白くない部分は、声の響きだと思う」と語った。「生成AIが再現できるのは、本当にそれだけだ」"
+        },
+        {
+          "t": "p",
+          "x": "「それは私の個性や、現場で私がすること、私が下す選択を再現するものではない……そうしたことをしたくない［そしてAIを使いたい］監督やプロデューサーもいるかもしれないが、それなら彼らは何かから演技を引き出すことに本当に長けなければならない。自分自身のアイデアを持つ必要がある」"
+        },
+        {
+          "t": "p",
+          "x": "開発元のRebel Wolvesは俳優を起用する前、シネマティックの構想にtext-to-speech（音声合成）のAIツールを使ったが、Eurogamerによればゲーム内にAIで作られたものは一切ない。対照的にEmbark Studiosは、The FinalsとArc RaidersでAI-generated（AI生成）のボイスを使った。"
+        }
+      ]
+    },
+    "games/games-xbox-labs-ai-ports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Microsoftは新組織Xbox Labsを立ち上げ、ゲームを逆コンパイル・再コンパイルするMODの急速な広がりを探る。その多くはAIモデルを使い、モッダーによるゲームのリミックスを支えている。Windows PC版をApple Silicon上で動くよう変換したり、ブラウザ内で動くよう移植したりした例があり、Call of Dutyにスケートボードを持ち込むMODも登場した。"
+        },
+        {
+          "t": "p",
+          "x": "Xbox CEOのAsha Sharmaは、Xbox Labsを「新たなアイデアを、プレイヤーと開発者が体験できるものに変えることを仕事とする、ゲーム制作者、エンジニア、科学者の小さなグループ」と説明する。「オープンに作り、人々の行動から学び、より多くの人が遊び、創作しているかどうかで成功を測る」"
+        },
+        {
+          "t": "p",
+          "x": "「エージェントはソフトウェアを書き、実行し、テストできるため、コーディングはエージェントにとって最初の主要なワークロードになった。ゲームも同じ性質の多くを備えている。人々がXBOXのゲームに費やす時間は年間720億時間を超え、世界でコードを書くのに使われると推定される時間のおよそ五倍だ」とSharmaは言う。Xboxはツールや知見を開発者と共有する。"
+        },
+        {
+          "t": "p",
+          "x": "より大きな問題は、モッダーがMicrosoftのIPを持ち出して無料で公開する逆コンパイル・再コンパイルに、Microsoftがどう対応するかだ。Microsoftは掲載時点までに、無断のIP使用についてのコメント要請に応じなかった。"
+        }
+      ]
     }
   }
 }

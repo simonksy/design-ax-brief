@@ -6633,6 +6633,95 @@
           "x": "El sitio web ya está activo, pero el servicio sigue en pruebas y no admite el registro público sin restricciones. Tencent Music no ha confirmado su disponibilidad internacional ni su precio."
         }
       ]
+    },
+    "music/music-waveprompt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador discoDSP presenta WavePrompt, una app gratuita de generación musical con inteligencia artificial (AI) para macOS y Windows que convierte indicaciones de texto en loops, frases vocales y canciones completas."
+        },
+        {
+          "t": "video",
+          "yt": "JK03COqgigE"
+        },
+        {
+          "t": "p",
+          "x": "Junto a indicaciones como “funky rhythm guitar groove”, se pueden ajustar Genre (34), Mood (14) e Instruments (11 conjuntos), además del tempo, la tonalidad, el compás, la duración y Style Strength. Toda la música generada procede de YuE2, de Multimodal Art Projection; cada resultado incluye un archivo MIDI con su partitura, y un piano roll permite dibujar melodías y acordes."
+        },
+        {
+          "t": "p",
+          "x": "Los loops van de uno a 16 compases; las canciones completas duran de quince segundos a cuatro minutos, con letras propias y voces en varios idiomas y once tipos de voz. La generación se ejecuta localmente en la GPU y funciona sin conexión tras la descarga inicial del modelo: 16 GB de RAM como mínimo (32 GB recomendados), Apple Silicon con macOS Tahoe 26 o posterior, o Windows 10/11, además de unos 10 GB de espacio en disco."
+        },
+        {
+          "t": "p",
+          "x": "El autor de la reseña cuenta que la app se cerró al abrirla en macOS Tahoe 26.2 y sostiene que la generación text-to-music elimina el proceso de hacer música, aunque señala usos como maquetar voces, generar pistas de acompañamiento para improvisar y crear samples para trocear."
+        }
+      ]
+    },
+    "music/music-swift-voice-trademark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La empresa de Taylor Swift, TAS Rights Management, ha presentado solicitudes para registrar su voz como marca en el Reino Unido (UK), la European Union (EU) y Australia. Las nuevas solicitudes siguen a las tres presentadas en abril ante la US Patent and Trademark Office, que cubren grabaciones de Swift diciendo “Hey, it’s Taylor” y “Hey, it’s Taylor Swift”, junto con una fotografía en la que sostiene una guitarra rosa sobre el escenario."
+        },
+        {
+          "t": "p",
+          "x": "La solicitud australiana, una marca sonora para “Hey, it’s Taylor Swift”, fue aceptada por IP Australia el 12 de octubre, seis días después de presentarse, y figura en periodo de oposición. En el Reino Unido (UK) y la EU, la empresa presentó solicitudes de marca sonora el 6 de octubre, seguidas el 7 de octubre de solicitudes de imagen de lo que parece ser la misma fotografía del escenario."
+        },
+        {
+          "t": "p",
+          "x": "El abogado de IP Josh Gerben escribió en abril que registrar la voz hablada de una celebridad “no se ha puesto a prueba antes en los tribunales”, pero que, si se presentara una demanda porque una inteligencia artificial (AI) usara la voz de Swift, ella podría alegar que cualquier uso que suene como la marca registrada vulnera sus derechos. Los Backstreet Boys presentaron una solicitud similar en junio, y Sony Music había pedido a las plataformas que retiraran más de 260,000 pistas generadas por IA (AI-generated) que suplantaban a sus artistas para finales de septiembre."
+        }
+      ]
+    },
+    "music/music-raye-ai-bots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Raye afirma que los revendedores usaron bots de inteligencia artificial (AI) para crear “cientos de miles de registros falsos” en la preventa de su próximo concierto único en el Royal Albert Hall de Londres. En una publicación del 13 de octubre, dijo que la preventa —gestionada mediante una página de inscripción alojada por la plataforma de marketing para fans co:brand— recibió 1.8 millones de inscripciones para 5,000 asientos."
+        },
+        {
+          "t": "p",
+          "x": "“Vivimos ahora en un mundo nuevo, nunca había visto bots a esta escala”, escribió Raye. En lugar de arriesgarse a una preventa que los revendedores pudieran aprovechar, su equipo decidió revisar manualmente la lista de inscritos para seleccionar a las “personas que creemos que son verdaderos fans”, y las entradas restantes saldrán a la venta general."
+        },
+        {
+          "t": "p",
+          "x": "Una vez abierta la preventa, el sitio web del Royal Albert Hall recibió 5 millones de solicitudes de acceso y los fans no pudieron completar sus compras durante 45 minutos, lo que motivó una “investigación urgente”, según IQ. Un portavoz del recinto dijo a la BBC que la “ley tiene que ponerse al día”, mientras el gobierno del Reino Unido (UK) prepara una ley para prohibir la reventa de entradas por encima de su valor nominal."
+        }
+      ]
+    },
+    "music/music-deezer-ai-search-toggle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
+          "cap": "Alexis Lanternier, CEO de Deezer"
+        },
+        {
+          "t": "p",
+          "x": "Deezer anuncia un interruptor on/off que permitirá a los usuarios excluir de sus resultados de búsqueda la música totalmente AI-generated. Con el interruptor activado, no aparecerán las pistas, álbumes y artistas relacionados AI-generated; al desactivarlo se recupera el acceso."
+        },
+        {
+          "t": "p",
+          "x": "Deezer ya retira de las recomendaciones algorítmicas las pistas que detecta como totalmente AI-generated y las mantiene fuera de las listas editoriales. Afirma que recibe cada día casi 90,000 pistas totalmente AI-generated, frente a 10,000 diarias cuando lanzó su herramienta de detección en enero de 2025."
+        },
+        {
+          "t": "p",
+          "x": "En los días de mayor volumen, las pistas totalmente AI-generated suponen más del 50% de toda la música nueva que llega a Deezer, aunque solo generan entre el 1% y el 3% de las reproducciones. La compañía afirma que hasta el 85% de las reproducciones generadas por pistas totalmente AI-generated en 2025 fueron fraudulentas."
+        },
+        {
+          "t": "p",
+          "x": "“Hemos visto una clara demanda de los usuarios de poder filtrar la música AI-generated”, dijo el CEO Alexis Lanternier. Deezer citó una encuesta de Ipsos de noviembre de 2025 en la que el 45% de los usuarios de streaming musical dijo que “le gustaría filtrar la música 100% AI-generated”."
+        },
+        {
+          "t": "p",
+          "x": "Deezer afirma que detectó más de 42 millones de pistas AI-generated entre enero de 2025 y agosto de 2026, y que ha etiquetado más de 14 millones de álbumes desde que empezó a señalar la música AI-generated en junio de 2025."
+        }
+      ]
     }
   }
 }

@@ -6875,6 +6875,126 @@
           "x": "Craig Kaplan认为，这解决了“密铺理论中一个长期悬而未决的棘手问题”：此前的Schmitt-Conway-Danzer双棱柱只是弱非周期的。由于大量使用生成式AI，外界反应不一。Chaim Goodman-Strauss说，这篇论文带有“LLM-driven研究论文的特征”，他与Felix Flicker已经写出了Chair44是非周期单片密铺块的人工证明。Flicker说：“风险在于，我们的工作会沦为在AI垃圾内容（slop）里淘金。”"
         }
       ]
+    },
+    "science/science-hiro-acev2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2发布了其High Resolution Output Ai2 Climate Emulator的最新版本HiRO-ACEv2。HiROv2能高精度再现极为罕见的降雨、风和气压事件，整个系统生成全球3 km气候数据的成本约为高分辨率全球大气模型X-SHiELD的1/300。"
+        },
+        {
+          "t": "p",
+          "x": "该系统将以100 km分辨率运行的AI模型ACE与把输出细化到3 km的HiRO相结合。输入粗化后的X-SHiELD数据时，HiROv2即使对百万分之一概率的事件，也能把高分辨率统计误差控制在3%以内，并能生成具有逼真风眼和雨带的飓风。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+          "cap": "10年HiRO-ACEv2模拟中生成的北大西洋强飓风示例。"
+        },
+        {
+          "t": "p",
+          "x": "生成全球高分辨率数据的成本约比运行X-SHiELD低300倍，针对单一区域时，节省幅度还可再大一百倍以上。它目前还无法处理更温暖的未来等其他气候；Ai2计划用新的X-SHiELD数据进行训练，其中包括升温4°C的世界。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+          "cap": "ACE数据可视化工具中Baja California上空10 m风速模拟：主图为100 km分辨率的ACE2，插图为3 km分辨率的HiRO-ACEv2。"
+        },
+        {
+          "t": "p",
+          "x": "网页演示将HiROv1和HiROv2的输出与X-SHiELD并列展示，模型可连同教程笔记本一起下载。"
+        }
+      ]
+    },
+    "science/science-tess-superearth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+          "cap": "TESS与一颗环绕其宿主恒星运行的熔岩行星的艺术想象图。"
+        },
+        {
+          "t": "p",
+          "x": "常驻西班牙的产品经理、太空科学爱好者Pavel Rabtsevich用自制的AI算法，在NASA TESS数据中搜索了超过126,000颗目标恒星。算法标记出位于猎户座(Orion)、距离约116光年的TIC 4206066，它每三天变暗约两小时；随后他又在档案中找到另外22次变暗事件。"
+        },
+        {
+          "t": "p",
+          "x": "若获证实，这颗行星将是一颗半径约为地球1.4倍的super-Earth，表面温度估计为1,000°F(540°C)。2018年的部分亮度下降与TESS推进器点火时间重合，因此他称之为“重复出现的类凌星信号”，其他解释尚未排除。"
+        },
+        {
+          "t": "p",
+          "x": "他说，没有AI就无法完成这项搜索：多个智能体“编写代码、运行代码并互相检查工作”，但“研究本身是我的”。Yale的Greg Laughlin称这一候选体“可靠”。MIT的Pablo Mercader Perez指出，TESS的一个筛选器曾在2020年捕捉到该信号却将其剔除，直到今年1月它才变得可被探测。TESS将于11月再次观测这颗恒星。"
+        }
+      ]
+    },
+    "science/science-firstproof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "人工智能模型的数学能力越来越强——但仅限于企业的AI。First Proof项目发布了第三批结果，显示前沿实验室基于订阅的专有模型在数学能力上远超开放权重模型。Stanford的Mohammed Abouzaid表示：“在研究型数学中，开放权重模型与前沿模型之间的差距非常大。”"
+        },
+        {
+          "t": "p",
+          "x": "团队选取了10道研究问题，每道题由三名评分者以模拟同行评审的方式评判答案。参赛模型必须公开可用，因此OpenAI新的内部模型被排除在外。受测模型包括GPT 6 Astra、Claude Opus 5.5、聚合模型“ProofCouncil”，以及基于领先开放权重模型Kimi K3的一套测试框架。"
+        },
+        {
+          "t": "p",
+          "x": "ProofCouncil在“小幅修改”的前提下可接受地解出了10道题中的九道，2月时只解出几道，6月为六到七道。Kimi K3一道也没解出。Harvard的Lauren Williams说“它彻底栽了跟头”，并呼吁投资开放模型。担心数据泄露的数学家希望找到OpenAI或Anthropic模型的替代品；但目前看来，这些替代品并不管用。"
+        }
+      ]
+    },
+    "science/science-subseasonal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "超过两周的天气预报并不可靠，这给能源、农业和应急规划带来压力，2021年得克萨斯冬季风暴就是例证。包括MIT研究人员在内的团队构建了一个机器学习后处理层，它从预报模型过去的误差中学习，修正未来两至六周的概率预报。"
+        },
+        {
+          "t": "p",
+          "x": "将其应用于欧洲中期天气预报中心（European Centre for Medium-Range Weather Forecasts，ECMWF）的模型后，该时段的预测能力提高了约一倍，并在ECMWF的一项预报竞赛中夺得第一。这项发表于Nature的研究，是首个在这一被MIT的Judah Cohen称为“可预测性荒漠”的时段超越气候平均值的方法，它还改进了极端天气预测。"
+        },
+        {
+          "t": "p",
+          "x": "论文第一作者是Harvard的Hannah Guan和University of Toronto的Soukayna Mouatadid，合作者来自ECMWF、DTN、Microsoft和巴西的IMPA。该方法适用于其他模型，开源且成本低，肯尼亚气象部门已表示有意采用。"
+        }
+      ]
+    },
+    "science/science-mit-self-wiring-learner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在Oct. 9发表于PNAS的论文中，MIT McGovern Institute与K. Lisa Yang ICoN Center的科学家提出，衡量人工神经网络学习是否具有生物学合理性的关键指标，是它能否在没有开发者引导的情况下自我组织。只要给出关于连接应如何、何时改变的简单指令，一组随机连接的单元就能自我重塑，成为高效的信息处理网络。"
+        },
+        {
+          "t": "p",
+          "x": "“大脑没有外部的设计师或建筑师，”与Liu Ziyin、Yulu Gan同为共同首要作者的Qianli Liao说。该网络遵循被认为能重塑脑回路的规则，例如“同时放电的神经元会连在一起”，并学会了识别模式和分类图像。"
+        },
+        {
+          "t": "p",
+          "x": "自组装的模体以类似梯度下降的策略完成重组。与采用反向传播(back-propagation)训练的网络相比——神经科学家认为大脑不太可能使用这种方法——它的表现处于相近水平。"
+        },
+        {
+          "t": "p",
+          "x": "“如果我们提出的突触模体确实被大脑用来完成反向传播在人工神经网络中所做的事，那么我们将在机器与大脑之间……建立起牢固的联系，”Tomaso Poggio说。"
+        }
+      ]
     }
   }
 }

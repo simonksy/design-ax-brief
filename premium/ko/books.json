@@ -9938,6 +9938,142 @@
           "x": "상 측은 짐바브웨 출신 수상자의 AI 사용 의혹을 놓고, 스스로 '인간 중심 절차(human-centred process)'라 부르는 과정에 들어간다."
         }
       ]
+    },
+    "books/books-soa-ai-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+          "cap": "Anna Ganley"
+        },
+        {
+          "t": "p",
+          "x": "Society of Authors는 10월 13일 런던에서 열린 Creators Emergency Summit에서 글로벌 윤리 AI 헌장을 발표했다. 헌장이 내건 목표는 “인간 창작자를 보호하고 지원하도록 생성형 AI 서비스를 어떻게 배치해야 하는지 규정하는 것”이다."
+        },
+        {
+          "t": "p",
+          "x": "The Bookseller는 세계 창작 단체들이 “정부 정책의 공백 속에서” 이 헌장을 내놓는다고 전했다. 기사 전문은 등록 독자만 볼 수 있다."
+        }
+      ]
+    },
+    "books/books-japan-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI 번역이 널리 쓰이면서 일본 번역업체들의 매출이 줄어든다."
+        },
+        {
+          "t": "p",
+          "x": "Tokyo Shōkō Research는 다섯 회계연도 연속 실적을 비교할 수 있는 일본 번역업체 100곳을 조사했다. 2025 회계연도 이들 업체의 매출 합계는 ¥39.3B, 순이익 합계는 ¥920M 이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+        },
+        {
+          "t": "p",
+          "x": "매출이 ¥43.5B, 이익이 ¥3.1B 로 정점을 찍은 2022 회계연도와 비교하면 2025 회계연도 매출은 9.7%, 이익은 70.7% 줄었다. 조사 대상 100곳 가운데 매출이 늘어난 곳은 32곳, 이익이 늘어난 곳은 35곳이다. 반대로 50곳은 매출이, 47곳은 이익이 줄었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+        },
+        {
+          "t": "p",
+          "x": "Tokyo Shōkō Research의 분석은 이렇다. “기계 번역이 빠르게 발전해 간단한 글은 이제 무료로 번역할 수 있다. 번역을 얻기 쉬워지면서 가격 경쟁이 심해지고 있다.”"
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted 번역의 세계 시장은 빠르게 커질 전망이다. QY Research는 2025년 $2.6B 에서 2032년 $4.2B 로 커진다고 내다봤고, Business Research Insights는 2025년 $4.4B 에서 2035년 $5.7B 로 늘어난다고 예상했다."
+        },
+        {
+          "t": "p",
+          "x": "번역 업계가 살아남으려면 번역가가 AI로 general-purpose(범용) 번역의 효율을 높이면서, AI가 정확하지 못한 전문 분야나 사람의 창의성이 필요한 영역에서 틈새를 찾아야 할지도 모른다."
+        }
+      ]
+    },
+    "books/books-multivoice-audiobook": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Allan Tépper는 최근 실제 대화가 들어간 첫 오디오북을 만들었다. 내레이터와 등장인물 다섯, 모두 여섯 목소리가 필요한 six-voice 작업이었다. 의뢰인이자 저자(client-author)는 인간 성우를 여섯은커녕 한 명도 고용할 예산이 없었다. 그래서 ElevenLabs의 Pro 플랜으로 목소리를 복제했다. “인간 전문 성우와 복제된 전문 성우의 격차는 여전히 있지만, 그 어느 때보다 좁아졌다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+          "cap": "오디오북 표지는 모두 정사각형이어야 한다."
+        },
+        {
+          "t": "p",
+          "x": "책은 Carmela Doval의 동화 El gato que se le coló a Colón이다. 목소리는 seseante 발음을 쓰는 라틴아메리카 여성 내레이터, 스페인 수고양이 Paquito, 그의 여자친구 Cloti, Cristóbal Colón, 이름 없는 선원 대변인, 배 주인 Rodrigo다. Paquito 클론은 잘 작동하지만 버릇이 하나 있다. 카스티야어 발음이 구별 발음과 seseante 사이를 오간다."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs는 원고를 스캔해 모르는 단어나 이름을 제작자에게 묻는다. 가장 그럴듯한 추정 발음을 들려주는 재생 버튼과 발음 표기를 적는 칸도 있다. 이 기능이 필요했던 이름은 Dade 하나뿐이었다. Tépper가 “deid”라고 입력하기 전까지는 “Dah-Day”로 읽었다."
+        }
+      ]
+    },
+    "books/books-lezhin-teaz": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+          "cap": "레진엔터테인먼트는 AI캐릭터 챗 서비스 '티즈(Teaz)'를 19일 출시한다."
+        },
+        {
+          "t": "p",
+          "x": "웹툰 기업 키다리스튜디오의 계열사 레진엔터테인먼트가 자사 인기 웹툰 캐릭터와 직접 대화하며 독자만의 이야기를 만들어가는 AI 캐릭터챗 서비스 '티즈(Teaz)'를 오는 10월 19일 정식 출시한다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "'티즈'는 여성향 글로벌 플랫폼 '봄툰'과 '레진코믹스'의 오리지널 웹툰 IP를 활용한 고몰입 대화형 콘텐츠다. 이용자는 원작의 특정 시점에 개입해 등장인물 중 한 명이 되거나, 제3자의 관점에서 세계관에 들어가는 식으로 대화를 이끌어간다."
+        },
+        {
+          "t": "p",
+          "x": "가장 큰 차별점은 '관계형 대화'다. 이용자가 던지는 대화 내용과 맥락에 따라 상대 캐릭터의 반응과 관계가 그때그때 달라진다. 스토리가 진행되면 아이템을 모으고 작가 친필 히든 일러스트를 해금하는 등 독자를 위한 요소도 넣었다."
+        },
+        {
+          "t": "p",
+          "x": "'티즈'는 권리 관계를 명확히 정리한 정식 계약 IP만 쓰고, 대화는 원저작자가 승인한 공식 설정 안에서 이뤄진다. 출시 이후에는 원작과 전혀 다른 세계관을 다루는 'AU(Alternative Universe, 평행세계)' 모드와 '텍스트 RPG' 모드 등을 단계적으로 도입할 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "모회사 키다리스튜디오는 2026년 상반기 연결기준 매출액 1,228억 원, 영업이익 90억 원을 기록했다. 전년 동기 대비 매출은 23%, 영업이익은 275% 늘었다. 회사 관계자는 \"'티즈'는 원작 IP의 세계관을 입체적으로 확장하며 회사의 새로운 미래 성장동력으로 자리매김할 것\"이라고 전했다."
+        }
+      ]
+    },
+    "books/books-nippan-anthropic-sales": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+          "cap": "U.S. 법원 문서에 실린 창고 내부 모습. 수집한 책을 대량으로 보관한 곳으로 보인다"
+        },
+        {
+          "t": "p",
+          "x": "대형 도서 유통사 Nippan Group Holdings, Inc.의 자회사가 출판사에 알리지 않고 U.S. 인공지능 개발사 Anthropic PBC에 일본 책을 팔았다. 출판업계 관계자들에 따르면 일본서적출판협회(Japan Book Publishers Association)가 이 문제를 묻자 Nippan은 판매 사실을 인정하는 답변을 보냈다."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic은 AI 학습용으로 책을 대량 스캔하는 프로젝트를 진행해 온 것으로 보인다. 여기에 일본 책도 들어갔을 수 있다. 법원 문서를 보면 Anthropic은 유럽, 미국(United States), 아시아 유통사들에서 책을 대량으로 사들였는데 그중에 “Nippan Japan”이라는 회사도 있었다."
+        },
+        {
+          "t": "img",
+          "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+        },
+        {
+          "t": "p",
+          "x": "협회는 Nippan에 AI 학습용 도서 공급과 판매를 멈추라고 요구했다. Nippan은 2024년 12월부터 2025년 12월까지 판매한 사실은 인정했지만 책을 AI 학습용으로 사 가는 줄은 몰랐다고 주장한 것으로 전해졌다."
+        },
+        {
+          "t": "p",
+          "x": "일본 저작권법(Copyright Law)의 Article 30-4는 저작권자의 이익을 부당하게 해치지 않는 한 허락 없이 저작물을 AI 학습에 쓸 수 있게 한다. 한 출판사 고위 임원은 “일본의 출판 문화를 지켜야 할 위치에 있는 Nippan이 바로 그 문화를 훼손하는 행위를 하는 것은 용납할 수 없다”고 말했다."
+        }
+      ]
     }
   }
 }

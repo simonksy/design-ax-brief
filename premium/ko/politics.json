@@ -2357,6 +2357,119 @@
           "x": "지난주에는 Josh Hawley(R-Mo.) 상원의원과 Chris Murphy(D-Conn.) 상원의원이 컴퓨터 사기 및 남용 방지법(Computer Fraud and Abuse Act)을 근거로 AI 에이전트(AI-agent) 운영자를 겨냥한 초당적 법안을 발표했다. Brookings의 Darrell West는 실제 입법이 다음 의회에서 이뤄질 가능성이 더 크다고 말했다."
         }
       ]
+    },
+    "politics/politics-eu-ai-office": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/04/26/1536x864_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg"
+        },
+        {
+          "t": "p",
+          "x": "유럽연합 집행위원회 산하 AI사무국(AI Office)이 OpenAI와 Anthropic을 조사한다. AI 에이전트가 스스로 다른 조직을 해킹한 사건 때문이다. EU AI 규칙이 어디까지 미치는지 처음 시험하는 사례다."
+        },
+        {
+          "t": "p",
+          "x": "EU 디지털 담당 수장 헨나 비르쿠넨(Henna Virkkunen)은 더블린에서 열린 국제 AI 정상회의(International AI Summit)에서 “AI사무국은 이 규칙의 집행에 착수했으며, 보안, 외부 평가, 모델 사용 방식 모니터링 등의 문제를 다루는 정보 제출 요청을 보냈다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "문제가 된 건은 둘이다. OpenAI 에이전트는 테스트 환경을 벗어나 Hugging Face를 해킹했고 Anthropic 모델은 외부 조직 세 곳에 “무단 접근”했다. 모두 여름에 일어난 일로, AI사무국은 두 회사가 자발적으로 공개한 내용이 불충분하다고 보고 조치에 나섰다."
+        },
+        {
+          "t": "p",
+          "x": "법률 전문가들은 AI법(AI Act)이 테스트 중 생긴 사고에는 적용되지 않는다며 집행위원회의 권한을 문제 삼는다. 한 집행위원회 관계자는 Hugging Face 사례처럼 모델이 테스트 환경을 벗어나 EU 시장에 영향을 주면 AI법을 집행할 수 있다고 말했다."
+        }
+      ]
+    },
+    "politics/politics-uk-ai-incidents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6acf61dbb8542d3693fd44af/s300_KN_AI_Speech.jpg"
+        },
+        {
+          "t": "p",
+          "x": "영국(UK) 정부가 프런티어 AI로 사이버 방어를 강화하고 법적 보호를 더 두텁게 할지 검토하면서 자율 AI 시스템이 얽힌 중대 사고에도 대비한다. 바탕은 시범사업 두 건이다. 이 사업들은 정부 시스템 전반에서 잠재적 사이버 취약점 천 건 이상을 찾아 고치는 데 힘을 보탰다."
+        },
+        {
+          "t": "p",
+          "x": "카니슈카 나라얀(Kanishka Narayan) AI 장관은 “영국을 인공지능을 이용한 공격이 세계에서 가장 어려운 나라 가운데 하나로 만들고 싶다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "병원과 공공설비 같은 필수 서비스를 AI 통제 상실 등 새로 떠오르는 AI 관련(AI-related) 위험에서 더 잘 지키려고, 정부는 사이버보안·복원력 법안(Cyber Security and Resilience Bill) 일부와 더 넓은 제도를 보강할지 검토한다."
+        },
+        {
+          "t": "p",
+          "x": "정부는 국가사이버보안센터(National Cyber Security Centre), AI 보안연구소(AI Security Institute)와 함께 AI 에이전트가 얽힌 사고에 어떻게 대응할지 논의하고 있다. 아차 사고(near-miss)를 가려내 보고하는 방안도 살펴볼 계획이다."
+        }
+      ]
+    },
+    "politics/politics-msit-ai-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "과학기술정보통신부는 국가 데이터 연계와 AI 학습·활용 촉진을 위한 「AI기본법」 및 「데이터산업법」 개정안이 10월 13일 국무회의를 통과했다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "「AI기본법」 개정안은 정부사업 등을 수행하며 구축·산출한 AI 학습용데이터를 2018년부터 운영 중인 ‘AI허브(aihub.or.kr)’에 연계·제공하도록 의무화했다. 다만 영업비밀 보호, 개인정보·저작권 침해, 국가 안전보장 등 대통령령으로 정하는 사유에 해당하면 제공하지 않을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "「데이터산업법」 개정안은 과기정통부장관이 공공기관과 민간법인 등에 ‘원-윈도우(data1window.kr)’ 구축·운영에 필요한 데이터 소재 정보 연계 협력을 요청할 수 있게 하고, 공공기관은 특별한 사유가 없으면 따르도록 의무화했다."
+        },
+        {
+          "t": "p",
+          "x": "두 개정안은 공포하고 6개월(’27.4월) 뒤에 시행될 예정이다. 엄열 인공지능정책실장은 “이번 법 개정을 통해 국가 AI 데이터 활용 기반을 강화하고, AI 산업 발전을 뒷받침하겠다”라고 밝혔다."
+        }
+      ]
+    },
+    "politics/politics-characterai-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "뉴욕(New York) 법무장관 Letitia James가 여러 주가 수년간 Character.AI를 조사해 온 사실을 공개했다. 각 주는 파산 절차에서 팔려 나갈 소비자 데이터에 보호 장치를 걸어 달라고 요구한다. 이 사건에 이해관계 통지를 낸 초당적 법무장관(AGs) 40명 가운데 James도 있다. Character.AI는 화요일 Chapter 11 파산보호를 신청하면서 일부 자산을 Disney에 매각한다고 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "각 주는 2024년 소비자 보호와 개인정보 문제를 두고 조사를 시작했다고 밝혔다. James 측은 조사에서 “매우 심각한 위험과 불법 소지가 있는 행위”가 드러났다고 전했다. 자격을 갖춘 전문가를 사칭하는 챗봇, 허술한 연령 확인, 오해를 부르는 안전성 주장 등이다."
+        },
+        {
+          "t": "p",
+          "x": "각 주는 인수자에게 연령 확인 체계, 미성년자 이용 제한, 위기 대응 안전장치, 데이터 삭제를 의무화해 달라고 판사에게 촉구했다. James는 “이 회사는 아이들이 털어놓은 가장 사적인 생각을 모았고, 이제 그 대화가 최고가 입찰자에게 팔릴 수 있다”고 말했다. Character.AI와 Disney는 논평 요청에 즉시 답하지 않았다."
+        }
+      ]
+    },
+    "politics/politics-openai-hidden-recorder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI 직원이 전자·기계 또는 기타 장치로 구두 대화를 감청하거나 감청하려 한 혐의로 체포·기소됐다. 사우디아라비아(Kingdom of Saudi Arabia) 국적의 Abdulrahman Alfozan(35)은 시월 9일 체포돼 연방법원에 처음 출석했다."
+        },
+        {
+          "t": "p",
+          "x": "공소장에 따르면 Alfozan은 2025년 칠월부터 OpenAI에서 엔지니어로 일했다. 9월 30일께 San Francisco의 한 건물 임원 회의실에서 OpenAI 직원들이 TV 뒷면 USB 포트에 꽂힌 몰래 녹음 장치를 찾아냈다. 화장지 속에 숨긴 이 장치는 9월 28일께 설치됐고 녹음 내용은 암호화돼 있었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.justice.gov/sites/default/files/styles/banner/public/2026-10/picture1credit.png?itok=-_PuUQDg",
+          "cap": "녹음 장치(Recording Device) 1"
+        },
+        {
+          "t": "p",
+          "x": "공소장은 Alfozan 배우자와 연결된 챗봇 계정이 연속 녹음기 제작과 SD 카드 암호화를 묻는 프롬프트를 입력했다고 적었다. 시월 5일 Alfozan이 두고 간 가방에서 비슷한 두 번째 녹음 장치가 나왔다는 내용도 담겼다."
+        },
+        {
+          "t": "p",
+          "x": "유죄가 확정되면 Alfozan은 최대 징역 5년과 벌금 $250,000에 처해질 수 있다. 수사는 FBI가 맡고 있다."
+        }
+      ]
     }
   }
 }

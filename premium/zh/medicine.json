@@ -847,6 +847,129 @@
           "x": "作者指出，这些结果并不能证明其对现实中的就医行为、诊断延误或临床结局有影响。"
         }
       ]
+    },
+    "medicine/medicine-brown-fat-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "借助人工智能(Artificial intelligence)对棕色脂肪组织(BAT)活性进行量化与分析,发现BAT与更健康的代谢特征以及更低的精神疾病发生率相关。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队将Memorial Sloan Kettering Cancer Center出于临床目的拍摄的18F-FDG-PET–CT扫描队列扩大到101,243名患者,其中8,897名为BAT阳性,并分析了所有诊断编码之间的关联。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "一种机器学习方法(TriDFusion)半自动测量了8,709名患者的总体及各部位BAT代谢活性。BAT活性越高,2型糖尿病、心房颤动、冠状动脉疾病和充血性心力衰竭呈阶梯式减少,即使在控制年龄、BMI、性别和室外温度后依然如此。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "BAT的存在还与较低的焦虑和抑郁患病率相关。药物分析显示,血管紧张素受体阻滞剂的使用与BAT存在相关;概念验证实验证实,氯沙坦(losartan)通过PPARγ-dependent(PPARγ依赖性)机制激活棕色脂肪细胞——表明该方法可以找出可重新用于激活BAT的药物。"
+        }
+      ]
+    },
+    "medicine/medicine-bradford-skin-cancer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+          "cap": "人工智能可在几分钟内分析可疑皮肤病变的图像"
+        },
+        {
+          "t": "p",
+          "x": "一家利用人工智能(AI)更早发现皮肤癌的NHS诊所的工作人员表示,这项技术可能“改变游戏规则”。Bradford的St Luke's Hospital皮肤科团队于四月引入该系统;现在每次门诊可接诊32名患者,此前为24名。"
+        },
+        {
+          "t": "p",
+          "x": "该系统名为DERM(Deep Ensemble for the Recognition of Malignancy),由Skin Analytics开发,该公司称其排除黑色素瘤的准确率为99.9%。医疗助理为病变拍摄三张照片,系统在几分钟内完成分析;良性病例给予建议后离院,可疑病例转诊给专科医生。"
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+          "cap": "医院信托表示,人工智能帮助员工在诊所多接诊了三分之一的患者"
+        },
+        {
+          "t": "p",
+          "x": "每张图像都由临床医生复核。据该信托称,不必要的活检减少了约10%。整形外科顾问医生Zakir Shariff表示,这对等候时间产生了“重大影响”。"
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+          "cap": "整形外科医生Zakir Shariff表示,AI对等候时间产生了重大影响"
+        },
+        {
+          "t": "p",
+          "x": "NICE已建议在收集证据期间,未来三年在NHS中使用该技术。目前它已在40个NHS信托中部署,Bradford是Yorkshire第一个采用的。"
+        }
+      ]
+    },
+    "medicine/medicine-ehr-ai-transparency": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究人员评估了电子健康记录(EHR)开发商对联邦关于AI-enabled预测性决策支持干预的透明度要求的遵守情况。开发商须公开报告风险分析、风险缓解、治理以及其他八项属性。"
+        },
+        {
+          "t": "p",
+          "x": "在35家开发商中,报告不一致且往往不完整,结构和细节差异很大,但所有开发商都被认证为符合要求。结果表明需要标准化报告和更严格的认证审查。"
+        }
+      ]
+    },
+    "medicine/medicine-state-ai-lobbying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "代表医生和医院的有影响力的游说团体、一家健康保险公司、科技企业以及州政府代表于十月初在Washington, D.C.闭门开会,为如何监管医疗实践中的人工智能制定指南。"
+        },
+        {
+          "t": "p",
+          "x": "American Medical Association(美国医学会)、American Hospital Association(美国医院协会)、AI公司Anthropic以及保险公司Elevance Health的高管,均是Federation of State Medical Boards(FSMB,州医学委员会联合会)召集的22人(22-member)AI工作组成员。其建议在正式采纳前将公开征求意见。"
+        },
+        {
+          "t": "p",
+          "x": "FSMB总裁兼CEO Humayun Chaudhry对STAT表示,目标是起草指南以协助地方医学委员会,并“特别关注…在医生直接监督有限或完全没有的情况下执行临床功能的AI工具”。草案可能在“数周到数月”内公开,并可能最终成为州立法的基础。"
+        },
+        {
+          "t": "p",
+          "x": "AMA、医学委员会和一家保守派智库都在争夺自主临床AI监管方式的主导权。报道其余部分仅供STAT+订阅者阅读。"
+        }
+      ]
+    },
+    "medicine/medicine-uk-nhs-ai-commission-blueprint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+        },
+        {
+          "t": "p",
+          "x": "政府今天（2026年10月6日）确认，将全部接受9月10日发布的“国家医疗AI监管委员会”提出的44项建议。与此同时，MHRA开始受理AI Airlock第三阶段的申请，这是其面向AI-enabled医疗器械的监管沙盒。"
+        },
+        {
+          "t": "p",
+          "x": "委员会的核心结论是，AI-enabled医疗器械应在整个使用周期内接受评估和监测，而不是过度依赖一次性评估。AI Airlock Phase 3获得政府额外三年的资金支持，将聚焦上市后监测和全生命周期监管。"
+        },
+        {
+          "t": "p",
+          "x": "MHRA将在2026年12月前发布指南草案，说明如何管理随时间不断调整的AI-enabled器械的变更，并将在明年就其资格认定和分类方式征求意见。其他承诺还包括分阶段授权路径，让有前景的AI工具在严密监督下更早进入NHS使用。完整的实施路线图将于2027年春季前公布。"
+        },
+        {
+          "t": "p",
+          "x": "MHRA首席执行官Lawrence Tallon表示，由NHS医生领导的委员会“为我们提供了清晰而雄心勃勃的蓝图”。面向申请者的网络研讨会将于10月22日举行，首批创新者将于2026年11月选出。"
+        }
+      ]
     }
   }
 }

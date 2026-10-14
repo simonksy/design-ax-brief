@@ -7440,6 +7440,143 @@
           "x": "Edgeの価格は180ドルで、本日予約受付を開始し、10月27日に出荷される。Google初の修理可能なフィットネストラッカーで、バッテリーは交換可能だがユーザー自身では交換できない。"
         }
       ]
+    },
+    "gadgets/gadgets-android-scam-alerts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+          "cap": "Google"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはAndroid向けの新たな詐欺対策を発表した。その一つがMessagesのオプトイン設定で、有効にするとScam Detectionが働き、Googleの最先端のGeminiモデルが送信者の意図を見極め、悪意ある相手からのメッセージの可能性があれば警告する。メッセージはPrivate AI Computeで分析される。ここではメッセージが暗号化され、Googleを含め誰もアクセスできない安全な領域で処理される。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini NanoはMessages内のリンクも、タップする前に端末上でチェックする。この機能はPixel 10+、Galaxy S26シリーズ、Galaxy Z FlipとFold 8などの一部端末で、今後数週間のうちに順次提供される。チャット通知のScam DetectionもPixel以外に広がり、Honor、Motorola、OPPO、OnePlus、realme、vivo、Xiaomiが年内に対応する見込みだ。"
+        },
+        {
+          "t": "p",
+          "x": "Android 15以降を搭載するすべての端末には今月下旬、画面共有時のプライバシー保護が自動で適用され、ChromeやAndroid WebViewが表示されているときにパスワードや銀行情報、カードのセキュリティコードを隠す。十二月上旬にはPixelなど一部端末に転送電話の保護機能が加わる。ブラジルではAndroidが提携銀行を名乗る電話を検証しており、六月以降すでに三百万件を超える偽の電話をブロックした。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-intelligence-china": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bloombergによると、Appleは二年にわたる規制上の遅れを経て、iOS 27.3で中国にApple Intelligenceを導入する計画だ。写真編集などの基本的なApple Intelligence機能は含まれるが、Siri AIは利用できない。Image Playgroundと新しいバージョンのGenmojiも外れ、テキスト生成ツールも限定的になる。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "South China Morning Postは本日、中国の工業情報化部が最近、AlibabaのQwenとTongyi WanxiangのモデルをiPhone Duo、iPhone 18 Pro、およびそれ以前のiPhonesに追加するためのネットワーク接続許可をAppleに与えたと報じた。これによりApple Intelligenceの投入に道が開かれた。"
+        },
+        {
+          "t": "p",
+          "x": "AppleはiOS 18.1で最初のApple Intelligence機能を導入したが、中国では提供開始以来利用できないままだった。Appleは七月に中国でのApple Intelligence投入に向けた最初の承認を得たが、一般消費者向けの提供には追加の承認が必要だった。"
+        },
+        {
+          "t": "p",
+          "x": "中国は外国のAI技術を制限しているため、Appleは同国でApple Intelligenceを投入するにあたりAlibabaやBaiduと提携する必要があった。Appleはまた、AIモデルの継続的なアップデートを中国政府が承認することも認めなければならない。"
+        },
+        {
+          "t": "p",
+          "x": "Huaweiなど中国の競合スマートフォンメーカーは以前から人工知能機能を提供しており、Appleは同等のツールを欠いて不利な立場にあった。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-minions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+          "cap": "Apple"
+        },
+        {
+          "t": "p",
+          "x": "Appleは社内で、遊休状態のMacsで構成する「仮想GPUクラウド」、「Minions」というシステムを使っている。同社の研究者が最近arXivで公開した論文で明らかにした。停滞したAIジョブ、なかには社内GPUの待ち行列で10-plus-hourの待ちを強いられていたものを、ネットワーク上のMacに分散し、待ち時間を数分程度にまで縮める。扱うのはAI推論のみで、オープンソースのHugging Faceモデルによる埋め込みと、Ollamaを介したLLMのテキスト生成だ。"
+        },
+        {
+          "t": "p",
+          "x": "Minion Serverがタスクをサブタスクに分割してPostgreSQLに保存し、各MacのMinion Executorは中央スケジューラーを介さずREST APIsで次のサブタスクを取得、Amazon S3から入力を読み込んで自身のGPUで実行する。Minion Watchdogは五分ごとのハートビートを監視し、Macがスリープしたりオフラインになったり、所有者が使い始めたりすると作業を再びキューに戻す。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+          "cap": "AppleのMinionsシステムの図(Apple、AI-generated)"
+        },
+        {
+          "t": "p",
+          "x": "論文によると、Minionsは新たなGPUの申請を必要とせず、インフラコストをなくす。ただし電気代やハードウェアの消耗は含まない。参加は非公式で、チームメンバーがSlackで他の人にexecutorの実行を頼むこともある。チームは自分たちのグループ外の端末でデータが処理されることを懸念しており、Appleはチーム単位・組織単位に範囲を限定した展開でこれを緩和している。著者らはMinionsをモデルの学習にも広げる計画で、いずれ「世界中のコミュニティ」の遊休Macsが共有のGPUプールを形成しうると述べる。現時点ではApple社内でしか機能しない。"
+        }
+      ]
+    },
+    "gadgets/gadgets-hmd-flip-companion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+          "cap": "HMD 2660 Flip Senior Editionが発表された"
+        },
+        {
+          "t": "p",
+          "x": "HMDは高齢者向けのフィーチャーフォン「HMD 2660 Flip Senior Edition」を発表した。目玉は、HMDが2026年三月に提携したinTouchによるAI-poweredのコンパニオン「Mary」だ。端末に組み込まれているため、追加のアプリは必要ない。"
+        },
+        {
+          "t": "p",
+          "x": "Maryは歴史や自然から個人的な体験まで幅広い話題で会話し、物語を語り、記憶ゲームで遊び、以前の会話の内容を覚えている。ゆっくり話し、長い間も待ち、平易な言葉を使う。利用者はメニューから開いて通話ボタンを押すだけだ。"
+        },
+        {
+          "t": "p",
+          "x": "ただし落とし穴がある。Maryとの無料会話は五時間分しか付いていない。その後も使い続けるには毎月€19.90を支払う必要があり、通信事業者の料金がかかる場合もある。サブスクリプションは自動更新されず、契約しなくても電話は使える。"
+        },
+        {
+          "t": "p",
+          "x": "ハードウェアは通常の2660 Flipと同じで、2.8-inchのQVGAメインディスプレイ、1.77-inchの外部画面、Unisoc T107、取り外し可能な1,450 mAhバッテリー、IP54、S30+ を備える。HMDのUKオンラインストアで、カラーはCosy Black、価格は£79.99で販売されている。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-homeview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Appleは本日、スマートホームハブ「HomeView」の予約受付を開始した。HomeViewは7インチのスマートディスプレイ兼スピーカーで、家族最大6人がAppleのデバイスやアプリ、そして現在ベータ版の生成AIチャットボットSiriにアクセスし操作するための中心的な窓口を目指す。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーはHomeViewに話しかけてスマートホーム機器を操作できる。たとえばSiriにスマートブラインドを閉めさせたり、スマートロックを作動させたりできる。HomeViewは最大9本の映像フィードを同時にライブ表示することもできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+          "cap": "スマートホームハブとして使われるApple HomeView。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Echo Showなどの機器と競合するHomeViewは、内蔵カメラで利用者を識別し、その人のプロフィールを表示する。ユーザーはプロフィールをApple Intelligence対応のiPhoneやiPadと連携させ、Messages、Calendar、Reminders、FaceTimeを利用できる。AppleによればSiriへのリクエストは端末上でも、Private Cloud Compute経由でも処理できる。"
+        },
+        {
+          "t": "p",
+          "x": "Liquid Retina(LCD)画面の輝度は0.3〜500ニトで、スピーカー台座の上にあるステンレススチール製ヒンジで傾けられる。Schneider Home製の壁掛けマウントは60ドルからだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Appleは本日HomeViewの予約受付を始めた。発売は11月13日で、価格は299ドルだ。"
+        }
+      ]
     }
   }
 }

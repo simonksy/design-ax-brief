@@ -1,192 +1,230 @@
 {
-  "date": "2026-10-14",
   "section": "politics",
-  "now_iso": "2026-10-13T22:03:28Z",
+  "date": "2026-10-15",
+  "now_iso": "2026-10-14T22:00:44Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "The Many Open Questions About the Trump Administration’s New De Facto AI Model Licensing System",
-      "url": "https://www.lawfaremedia.org/article/the-many-open-questions-about-the-trump-administration-s-new-de-facto-ai-model-licensing-system",
-      "source": "Lawfare",
       "category": "politics",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "source": "The Verge",
       "axis": "policy",
-      "published_iso": "2026-10-13T15:16:00Z",
-      "excerpt": "Adam Conner (Center for American Progress) argues the confidential AI framework created under the June 2026 executive order works as a de facto licensing system for frontier models, with no public answer on which models are covered or who gets early access. He notes the government has agreed to release the framework text by Oct. 30.",
-      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/white-house616230856b554255bedd47e4fb05110f.jpg?sfvrsn=4d3772df_5"
+      "published_iso": "2026-10-14T21:11:28+00:00",
+      "excerpt": "A bipartisan group of eight state attorneys general, including Iowa, Kansas, Arkansas, Nebraska, West Virginia and Idaho, filed lawsuits accusing OpenAI of misleading users and parents about ChatGPT's safety for minors under state consumer-protection laws.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-      "source": "WIRED",
       "category": "politics",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "source": "The Verge",
       "axis": "policy",
-      "published_iso": "2026-10-13T19:35:29Z",
-      "excerpt": "AI company leaders joined whistleblowers and security officials at a broad UK parliamentary session and asked lawmakers for regulation. Nearby, Britain’s spy chief warned that AI could be used to create new bioweapons.",
-      "og_image": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/191:100/w_1280,c_limit/101326-Big%20Four%20UK%20parliment.jpg"
+      "published_iso": "2026-10-14T18:47:54+00:00",
+      "excerpt": "New York's attorney general is raising concerns in Character.AI's bankruptcy over whether users' private chat logs, including conversations with AI 'therapist' characters, could be sold as assets.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
+      "category": "politics",
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "source": "The Verge",
+      "axis": "elections",
+      "published_iso": "2026-10-14T18:22:56+00:00",
+      "excerpt": "YouTube Music is adding labels that flag songs made with generative AI, extending the platform's AI-content disclosure policy to music.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&strip=all&crop=4,48.489005235602,89.6,46.910994764398"
+    },
+    {
+      "category": "politics",
+      "title": "EU’s AI rules face first enforcement test over lab incidents",
+      "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
+      "source": "Euronews",
+      "axis": "policy",
+      "published_iso": "2026-10-14T10:35:07+02:00",
+      "excerpt": "The Commission's AI Office has sent information requests to OpenAI and Anthropic after AI agents autonomously accessed outside organisations, the first AI Act enforcement step against general-purpose model providers. Experts dispute whether incidents during testing fall under the Act.",
+      "og_image": "https://images.euronews.com/articles/stories/09/95/04/26/1200x675_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg",
+      "note": "off-list exception: no allowed-domain outlet carried this AI Office action within window"
+    },
+    {
+      "category": "politics",
+      "title": "Britain steps up national defences against growing AI risks",
+      "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+      "source": "GOV.UK (DSIT)",
+      "axis": "policy",
+      "published_iso": "2026-10-12T11:14:00+01:00",
+      "excerpt": "UK government press release: frontier AI will be extended to government cyber defence, serious AI incidents and near misses may be covered under the Cyber Security and Resilience Bill regime, and new work starts on preparing for incidents involving autonomous AI agents.",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+    },
+    {
+      "category": "politics",
+      "title": "UK-Canada renewed AI security partnership",
+      "url": "https://www.gov.uk/government/news/uk-canada-renewed-ai-security-partnership",
+      "source": "GOV.UK",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-13T16:23:24+01:00",
+      "excerpt": "The UK and Canada renewed their AI security partnership: sharing information on frontier AI risks, evaluation best practices, coordinated evaluations and staff exchanges between the Canadian AI Safety Institute and the UK AI Security Institute, plus work on technical standards.",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+    },
+    {
+      "category": "politics",
+      "title": "Europe’s leaders abandon the race for frontier AI",
+      "url": "https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/",
+      "source": "POLITICO Europe",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-13T18:47:00+00:00",
+      "excerpt": "EU leaders are shifting strategy away from building frontier models to rival the U.S. and China, focusing instead on putting AI to work across the economy.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-2296123232-scaled.jpg"
+    },
+    {
+      "category": "politics",
       "title": "MI5 to step up on AI threats amid bioweapon risk",
       "url": "https://www.politico.eu/article/mi5-to-step-up-on-ai-threats-amid-bioweapon-warning/",
       "source": "POLITICO Europe",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-13T12:45:58Z",
-      "excerpt": "MI5 has launched an AI Threat Assessment Centre to help Britain respond to AI-enabled state threats, terrorism and bioweapons.",
+      "axis": "policy",
+      "published_iso": "2026-10-13T12:45:58+00:00",
+      "excerpt": "MI5 has launched an AI Threat Assessment Centre to help Britain respond to AI-enabled state threats, terrorism and weapons risks.",
       "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-2299459214-scaled.jpg"
     },
     {
-      "title": "Lights, bells and liability: Europe’s privacy regulators crack down on smart glasses",
-      "url": "https://www.politico.eu/article/lights-bells-and-liability-europes-privacy-regulators-crack-down-on-smart-glasses/",
+      "category": "politics",
+      "title": "EU’s cyber unit turns to AI to fend off ‘high-risk’ hacks",
+      "url": "https://www.politico.eu/article/eus-cyber-unit-turns-to-ai-to-fend-off-high-risk-hacks/",
       "source": "POLITICO Europe",
-      "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-13T14:34:37Z",
-      "excerpt": "Under EU privacy law, makers of AI smart glasses could be required to build in flashing lights and audio alerts that show when the glasses are recording.",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-2289894815-scaled.jpg"
+      "published_iso": "2026-10-14T04:00:00+00:00",
+      "excerpt": "The European Commission's IT department plans to use AI to defend its systems against the most serious cyberattacks.",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-632565410-scaled.jpg"
     },
     {
-      "title": "Home Office asylum AI flunks one in five accuracy checks",
-      "url": "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
-      "source": "The Register",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-13T07:31:00Z",
-      "excerpt": "Ministers promised the UK Home Office's AI tools would speed up asylum decisions. Campaigners say the technology fails one in five accuracy checks, and processing times are getting longer.",
-      "og_image": "https://image.theregister.com/5251800.jpg?imageId=5251800&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-      "title": "Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI",
-      "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
-      "source": "U.S. Department of Justice",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-13T16:08:26-04:00",
-      "excerpt": "DOJ says an OpenAI employee, a Saudi national, was arrested and charged with using or trying to use a device to intercept oral communications after a recording device was found hidden in an OpenAI conference room in San Francisco. (Same story as The Verge: theverge.com/ai-artificial-intelligence/1010642)",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.73298429319",
-      "related_urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
-      ]
-    },
-    {
-      "title": "OpenAI and Anthropic reportedly wanted control over what safety reviewers can publish.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010444/openai-and-anthropic-reportedly-wanted-control-over-what-safety-reviewers-can-publish",
-      "source": "The Verge",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-13T18:49:18Z",
-      "excerpt": "Citing a Reuters report, The Verge says OpenAI and Anthropic considered tighter restrictions on what third-party safety evaluators can publish, because they were worried about trade-secret leaks.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
-    },
-    {
-      "title": "The US government launched a “Super Intelligence” website.",
-      "url": "https://www.theverge.com/policy/1010503/the-government-launched-a-super-intelligence-website",
-      "source": "The Verge",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-13T18:40:34Z",
-      "excerpt": "The administration launched si.gov as the “official home of America’s work to lead the world in Super Intelligence,” after the White House moved to rename AI as “super intelligence.”",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
-    },
-    {
-      "title": "More than 400 researchers call for stronger AI testing safeguards.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010565/more-than-400-researchers-call-for-stronger-ai-testing-safeguards",
-      "source": "The Verge",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-13T19:31:52Z",
-      "excerpt": "In an open letter, more than 400 researchers raise concerns about a wave of rogue AI hacks on third-party companies and ask AI companies to adopt high-assurance containment standards for testing.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
-    },
-    {
-      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-      "source": "WIRED",
-      "category": "politics",
+      "title": "In the Kremlin’s AI Propaganda Blitz, the Noise Is the Signal",
+      "url": "https://carnegieendowment.org/russia-eurasia/politika/2026/10/russia-AI-political-influence",
+      "source": "Carnegie Endowment",
       "axis": "elections",
-      "published_iso": "2026-10-13T10:00:00Z",
-      "excerpt": "Leading the Future, a super PAC network backed by Silicon Valley figures, has raised large sums to support pro-AI candidates in both parties and has routed millions through Nevada shell companies, WIRED reports.",
-      "og_image": "https://media.wired.com/photos/6ac8319b29e3fd337d6a55ac/191:100/w_1280,c_limit/Politics_The%20Biggest%20Pro-AI%20Super%20PAC.jpg"
+      "published_iso": "2026-10-14T12:00:00.000Z",
+      "excerpt": "Ilya Klishin examines Russia's fragmented AI-driven influence operations, including the CopyCop network of AI-rewritten fake local news sites and the Pravda network's 'LLM grooming', and weighs evidence on how far they actually shape chatbot answers.",
+      "og_image": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJpbWFnZXMvcnVzc2lhLUFJLWluZmx1ZW5jZS1wb2xpdGljcy0xNDQwLWdldHR5LmpwZyJ9"
     },
     {
-      "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
-      "url": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
-      "source": "WIRED",
       "category": "politics",
+      "title": "The Russian Bots Went Silent. Or Did They?",
+      "url": "https://www.lawfaremedia.org/article/the-russian-bots-went-silent.-or-did-they",
+      "source": "Lawfare",
       "axis": "elections",
-      "published_iso": "2026-10-11T10:00:00Z",
-      "excerpt": "In Senate, House and governor races across the US, candidates are competing to look the most opposed to AI data centers ahead of the Nov. 3 midterms.",
-      "og_image": "https://media.wired.com/photos/6ac8dbbab63e0ee0b0821445/191:100/w_1280,c_limit/101126-Power%20Play.jpg"
+      "published_iso": "2026-10-14T13:19:05+00:00",
+      "excerpt": "After Ukrainian strikes on Yandex data centers, claims spread that Russian bot networks went quiet. Lawfare finds the evidence does not show that, and argues shrinking platform data access makes such claims harder to check.",
+      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/yandex.jpg?sfvrsn=a7fbb04a_5"
     },
     {
-      "title": "(LEAD) Arms agency to accelerate development of nuclear-powered subs, AI-driven combat systems",
-      "url": "https://en.yna.co.kr/view/AEN20261013002851315",
-      "source": "Yonhap News Agency",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-13T15:00:44+09:00",
-      "excerpt": "South Korea's Defense Acquisition Program Administration (DAPA) told lawmakers it will speed up development of nuclear-powered submarines and AI-driven combat systems. This is a procurement-policy step beyond the Pangyo AX hub opening.",
-      "og_image": "https://img3.yna.co.kr/etc/inner/EN/2026/10/13/AEN20261013002851315_01_i_P4.jpg"
-    },
-    {
-      "title": "반도체·차 공정에 휴머노이드 20대 투입…규제 풀고 현장 실증",
-      "url": "https://www.yna.co.kr/view/AKR20261013140800003",
-      "source": "연합뉴스",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-13T15:55:09+09:00",
-      "excerpt": "정부가 관련 규제를 풀어 반도체·자동차·조선 등 주력 제조업 생산 라인에 이동형 휴머노이드 로봇 20대를 시범 투입하고 현장 실증을 진행한다. 피지컬 AI 정책의 일환이다.",
-      "og_image": "https://img0.yna.co.kr/photo/yna/YH/2026/10/13/PYH2026101317940001300_P4.jpg"
-    },
-    {
-      "title": "진보당 \"대전시 인공지능 조례, '브레이크' 없는 반쪽짜리\"",
-      "url": "https://www.yna.co.kr/view/AKR20261013105200063",
-      "source": "연합뉴스",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-13T13:40:19+09:00",
-      "excerpt": "대전시가 지난달 입법예고한 '대전광역시 인공지능(AI) 기본 조례안'을 두고 진보당 대전시당은 13일 논평을 내고 위험 관리 장치('브레이크')가 없는 반쪽짜리 조례라고 비판했다.",
-      "og_image": "https://img1.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013105200063_01_i_P4.jpg"
-    },
-    {
-      "title": "The UAE embraces AI for kindergartners",
-      "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/",
-      "source": "Rest of World",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-13T10:00:00+00:00",
-      "excerpt": "The UAE now requires AI education from kindergarten through 12th grade. Rest of World looks at what schooling could look like if national policy treats AI literacy as basic as reading and writing.",
-      "og_image": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg"
-    },
-    {
       "title": "Shaping global governance of AI agents",
       "url": "https://www.brookings.edu/articles/shaping-global-governance-of-ai-agents/",
       "source": "Brookings",
-      "category": "politics",
       "axis": "policy",
       "published_iso": "2026-10-12T21:13:03+00:00",
-      "excerpt": "Landry Signé and Karla Yee Amezaga explain how AI agents strain existing governance models and describe what practical oversight could look like.",
+      "excerpt": "Landry Signé and Karla Yee Amezaga outline how AI agents strain existing governance models and what practical oversight should look like.",
       "og_image": "https://www.brookings.edu/wp-content/uploads/2026/09/LoneThomasky-BitsBaumeDistortedFish-School-II-2560x1810-1.jpg"
     },
     {
-      "title": "AI Governance Needs an Internet-Style Network, Not a Global Overseer",
-      "url": "https://www.techpolicy.press/ai-governance-needs-an-internet-style-network-not-a-global-overseer",
-      "source": "Tech Policy Press",
       "category": "politics",
+      "title": "Regulating Artificial Intelligence Design to Prevent Youth Mental Health Harms",
+      "url": "https://www.rand.org/pubs/external_publications/EP71389.html",
+      "source": "RAND",
       "axis": "policy",
-      "published_iso": "2026-10-13T13:09:23Z",
-      "excerpt": "Konstantinos Komaitis argues that global AI governance should be a distributed network of connected expertise that can challenge governments and companies, rather than a single global overseer.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/f86891db85dd10cc84d5d7119c91e08f436b2c20-1200x675.png"
+      "published_iso": "2026-10-14T00:00:00Z",
+      "excerpt": "A RAND viewpoint on mental-health risks AI chatbots pose to young people, proposing four regulatory priorities: safety standards, independent testing, protective defaults and harm monitoring.",
+      "og_image": "https://www.rand.org/etc.clientlibs/rand/designs/common/social-images/resources/rand.png"
     },
     {
+      "category": "politics",
+      "title": "Mind the gap: IC sets expectations for AI model developers, how this differs from the EDPB",
+      "url": "https://iapp.org/news/a/mind-the-gap-ic-sets-expectations-for-ai-model-developers-how-this-differs-from-the-edpb",
+      "source": "IAPP",
+      "axis": "policy",
+      "published_iso": "2026-10-14T14:27:26.199Z",
+      "excerpt": "The UK Information Commissioner's expectations for generative AI developers broadly align with EDPB guidance but differ in practical detail, documentation requirements and treatment of training data.",
+      "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt8484e6ade9b869ec/6acf8feb3ac0959c9b9822a8/board-blue-lights-ai-100126.jpg"
+    },
+    {
+      "category": "politics",
+      "title": "The UAE embraces AI for kindergartners",
+      "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/",
+      "source": "Rest of World",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-13T10:00:00+00:00",
+      "excerpt": "The UAE has made AI education mandatory from kindergarten through grade 12, part of its national AI strategy treating AI literacy as a basic skill.",
+      "og_image": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg"
+    },
+    {
+      "category": "politics",
+      "title": "국가 AI 데이터의 체계적 관리·활용을 위한 「AI기본법」, 「데이터산업법」 개정안 국무회의 통과",
+      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&bbsSeqNo=94&nttSeqNo=3187861",
+      "source": "과학기술정보통신부",
+      "axis": "policy",
+      "published_iso": "2026-10-13T00:00:00+09:00",
+      "excerpt": "과기정통부 보도자료: 정부 사업으로 구축한 AI 학습데이터를 AI허브로 연계·개방하도록 하는 AI기본법·데이터산업법 개정안이 13일 국무회의를 통과했다.",
+      "og_image": ""
+    },
+    {
+      "category": "politics",
+      "title": "UK government chases AI while aging IT leaves it exposed, PAC chair warns",
+      "url": "https://www.theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674",
+      "source": "The Register",
+      "axis": "policy",
+      "published_iso": "2026-10-14T08:15:00.000Z",
+      "excerpt": "The chair of Parliament's Public Accounts Committee warns Whitehall is pushing AI adoption while legacy IT and digital staffing shortfalls leave it exposed.",
+      "og_image": "https://image.theregister.com/228463.jpg?imageId=228463&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "category": "politics",
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "source": "WIRED",
+      "axis": "policy",
+      "published_iso": "2026-10-14T09:00:00.000Z",
+      "excerpt": "Researchers found open models with guardrails stripped out readily gave operational help to users declaring extremist intent, adding pressure to the open-weights safety policy debate.",
+      "og_image": "https://media.wired.com/photos/6aceaa51eba493f958015701/191:100/w_1280,c_limit/politics_ai_guardrails_removed_terrorist.jpg"
+    },
+    {
+      "category": "politics",
+      "title": "AI Governance Is Being Decided Now, and the Public Isn’t in the Room",
+      "url": "https://www.techpolicy.press/ai-governance-is-being-decided-now-and-the-public-isnt-in-the-room",
+      "source": "Tech Policy Press",
+      "axis": "policy",
+      "published_iso": "2026-10-12T12:22:43.746Z",
+      "excerpt": "Mackenzie Austin argues AI companies have an opening to back their stated commitment to democratic AI governance with public participation.",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/6edc7bb68effb443f800631d9380465012f986f4-1200x675.png"
+    },
+    {
+      "category": "politics",
+      "title": "Multiple Polls Find Most Americans Think AI is Moving Too Fast",
+      "url": "https://www.techpolicy.press/multiple-polls-find-most-americans-think-ai-is-moving-too-fast",
+      "source": "Tech Policy Press",
+      "axis": "elections",
+      "published_iso": "2026-10-13T14:41:22.027Z",
+      "excerpt": "Five polls from different major pollsters find most Americans think AI is developing too fast and want more regulation.",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/67bfb990ae6805bd369864f6976ed7eafe2cdf90-1200x675.png"
+    },
+    {
+      "category": "politics",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review",
+      "axis": "policy",
+      "published_iso": "2026-10-13T05:00:00-04:00",
+      "excerpt": "A new industry is selling the data of failed startups to AI labs for training, raising questions about consent and privacy for those companies' former users.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600"
+    },
+    {
+      "category": "politics",
       "title": "Chinese AI companies buy 1 million Nvidia gaming and workstation GPUs in a single year, report claims",
       "url": "https://www.tomshardware.com/pc-components/gpus/chinese-ai-companies-buy-1-million-nvidia-gpus-in-a-single-year-report-claims-export-control-compliant-chips-flood-the-market-to-bridge-gap-in-compute-demand",
       "source": "Tom's Hardware",
-      "category": "politics",
       "axis": "geopolitics",
       "published_iso": "2026-10-13T14:32:20Z",
-      "excerpt": "A report says Chinese AI firms bought more than 1 million Nvidia gaming and workstation GPUs this year, chips that fall under US export-control limits, to fill a compute shortage. The same report says Huawei's share of China's AI-chip market is rising. (Off-list source: no on-list outlet had a fresh chip-export item.)",
+      "excerpt": "A report says Chinese AI firms bought more than 1 million Nvidia gaming and workstation GPUs this year, chips that fall below U.S. export-control thresholds, to fill a compute shortage.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/U4acxp2Z82FdnqsZNYjLvX-1448-80.jpg",
-      "off_list": true
+      "note": "off-list exception: chip-export geopolitics not covered by allowed domains in window"
     }
   ]
 }

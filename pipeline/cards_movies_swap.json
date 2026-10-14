@@ -1,17 +1,60 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-15",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-dfx-techshow-ai-contest",
-      "source_lang": "ko",
+      "id": "movies-peacock-bravoverse",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DFX 테크쇼와\n대전 AI 영상 공모전",
-      "body": "VFX 현업 발표와 대전 AI 영상 공모전이 영상기술의 최전선을 보여줬다.",
-      "mini_headline": "DFX 테크쇼·AI 공모전",
+      "headline": "Peacock launches Bravo feed\nhosted by AI Andy Cohen",
+      "body": "Peacock is launching a personalized TikTok-style feed of Bravo clips, hosted by a chatty AI avatar of Andy Cohen.",
+      "mini_headline": "AI Andy Cohen hosts Peacock feed",
       "tool": "Movies",
-      "source": "씨네21",
-      "url": "https://cine21.com/news/view/?mag_id=110864",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
+            "cap": "Courtesy of NBCUniversal"
+          },
+          {
+            "t": "p",
+            "x": "On Tuesday, Peacock is bowing “Your Bravoverse,” a personalized stream of clips from Bravo shows, inspired by apps like TikTok, brought to you by a chatty AI avatar of Andy Cohen. NBCU announced the feature in the spring and began testing it over the summer."
+          },
+          {
+            "t": "p",
+            "x": "Available now in the Peacock mobile app for all subscribers, it serves up a “personalized feed of Bravo moments tailored to each fan.” An AI-generated avatar of Cohen, host of “Watch What Happens Live,” guides users with insider commentary."
+          },
+          {
+            "t": "p",
+            "x": "The swipeable playlist is automatically built from more than 5,000 hours of Bravo footage — with more than 600 billion unique viewing variants, per NBCU. The feeds are assembled using a combination of AI technology and human editors. Users can tap from a clip directly into the full episode or season."
+          },
+          {
+            "t": "p",
+            "x": "There is an advertising play too: Cohen’s avatar can audibly reference a sponsor’s brand. Wendy’s joins as the first sponsor at launch."
+          },
+          {
+            "t": "p",
+            "x": "Why Bravo? According to the company, Bravo superfans watch up to 75 episodes per month, and Bravo viewers on Peacock watch 92% more non-Bravo content than the platform user average."
+          }
+        ]
+      }
+    },
+    {
+      "id": "movies-acfm-busan",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Busan's film market turns\nto AI and microdramas",
+      "body": "Busan's Asian Contents & Film Market, held October 10-13 at Bexco, added a focus on AI and microdramas.",
+      "mini_headline": "Busan market adds AI focus",
+      "tool": "Movies",
+      "source": "Screen Daily",
+      "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -19,28 +62,36 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
-            "cap": "DFX 테크쇼 발표를 진행중인 홍정호 VFX 슈퍼바이저."
+            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
+            "cap": "Busan Exhibition & Convention Center hosts the Asian Contents & Film Market"
           },
           {
             "t": "p",
-            "x": "DFX 테크쇼는 대전특수영상영화제(DFX)의 대표 프로그램으로, 특수영상 업계 현업 전문가들이 산업·기술 동향과 제작 비화를 발표하는 자리다. 9월 18일 ‘현실에 없는 것을, 진짜처럼-UNREAL’ 세션에는 장성호 모팩 스튜디오 감독, 이재원 드림웍스 모델링 슈퍼바이저, 홍정호 덱스터스튜디오 VFX 슈퍼바이저가 연사로 나섰다."
+            "x": "The Asian Contents & Film Market (ACFM) returns for its 21st edition, running October 10-13 at Busan’s Bexco and positioning itself as a meeting point for sales, streaming, IP, artificial intelligence, microdramas and international co-production."
           },
           {
             "t": "p",
-            "x": "장성호 감독은 업계에 ‘칩 밸리’라는 말이 나타나고 있다며 “영상 콘텐츠 제작에 AI를 적극적으로 쓰고 AI가 많은 것을 스스로 해결하는 시대가 바로 코앞”이지만 결국 창작자의 의도가 얼마나 잘 구현됐는지가 관건이라고 말했다. 홍정호 슈퍼바이저는 <군체> 작업을 복기하며 최근엔 AI로 최종 결과물에 가까운 품질의 프리비즈를 만드는 추세라고 설명했다. 9월 19일 ‘REAL’ 세션에서는 미술·무술·특수분장 감독들이 물리적 작업과 최근 프로덕션의 결합을 강연했다."
+            "x": "“The industry is at a crossroads and the ACFM aims to offer a map for the Asian film industry,” says ACFM director Ellen YD Kim. This year’s agenda comprises 64 programmes across seven strands."
+          },
+          {
+            "t": "p",
+            "x": "InnoAsia, launched last year, places generative AI and emerging technologies front and centre, bringing together 44 organisations and companies. Kling AI will co-host a session on how generative technology could reshape filmmaking, alongside a creator bootcamp and a works-in-progress showcase for AI films."
           },
           {
             "t": "img",
-            "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
+            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
+            "cap": "ACFM director Ellen YD Kim"
           },
           {
             "t": "p",
-            "x": "9월 18일에는 대전시 주최 AI 영상 공모전 ‘상상을 실현하는 아이 AI vol.2’ 시상식도 열렸다. 공모작은 504편으로 지난해보다 139% 늘었고, 19편의 수상작에 총상금 4800만원이 돌아갔다. 심사위원장 손승현 웨스트월드 대표는 올해는 AI라는 도구로 얼마나 완성도 있고 깊이 있는 이야기를 만들었는지에 초점을 뒀다고 밝혔다."
+            "x": "“We want to show the big picture of how AI is influencing the film industry,” says Kim. “It continues to change the paradigm of our business, so we want to go deeper.”"
+          },
+          {
+            "t": "p",
+            "x": "Microdrama gets similar attention, reflecting the growth of short-form narrative entertainment in parts of Asia, particularly China."
           }
         ]
-      },
-      "lead_image": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg"
+      }
     }
   ]
 }

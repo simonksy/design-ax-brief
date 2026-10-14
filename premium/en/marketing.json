@@ -998,6 +998,124 @@
           "x": "“We’re testing standard text and Shopping ads in AI Mode and AI Overviews, which we recently expanded to include certain pharmaceutical products,” a Google spokesperson said in a statement."
         }
       ]
+    },
+    "marketing/marketing-lg-magnite": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+        },
+        {
+          "t": "p",
+          "x": "Magnite and LG Ad Solutions announced LG smart TV home screen inventory will be available to agencies through agentic AI media buying. Northern California Toyota Dealers Association is part of the first campaign, with indie agency H/L, featuring 49ers quarterback Brock Purdy in a split-screen hero placement."
+        },
+        {
+          "t": "p",
+          "x": "H/L's buyer agent collaborated with Magnite's seller agent within ClearLine via Model Context Protocol (MCP). The agents set up and activated the campaign brief for NFL viewers in market for a new car, and the agent-led plan was approved by LG and H/L before it went live."
+        },
+        {
+          "t": "p",
+          "x": "Home screen ads have become \"table stakes,\" said Jeremy Cobb, VP at H/L. Agentic buying \"is not something that's going to fundamentally change what we're doing,\" he said, but he expects it to make campaign planning better, faster and stronger."
+        }
+      ]
+    },
+    "marketing/marketing-shopify-agent-ready": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+        },
+        {
+          "t": "p",
+          "x": "Bill Hunt audited 122 leading Shopify storefronts to test whether an agent can actually resolve a purchase decision. Shopify switched on agent tools for every store: 89 of 122 answered a standard MCP tool listing, and checkout creation succeeded on every store given a real, in-stock item."
+        },
+        {
+          "t": "p",
+          "x": "But every one of the 74 checkouts returned requires_escalation: the agent builds a priced cart, and a person commits the money."
+        },
+        {
+          "t": "p",
+          "x": "Policy tools answered return-window questions but failed buyer-style questions on shipping and cancellation. None of 74 stores returned an arrival estimate, no store declared pickup, and not one of 122 exposes a tool to cancel, change or return an order. Across nine checks, zero stores passed."
+        },
+        {
+          "t": "p",
+          "x": "Hunt's advice: ask your own policy tool the questions buyers ask, and verify rather than assume you are \"agent-ready.\""
+        }
+      ]
+    },
+    "marketing/marketing-floqer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+          "cap": "Floqer founders"
+        },
+        {
+          "t": "p",
+          "x": "Floqer is an autonomous customer knowledge platform that gives B2B sales and marketing teams an AI-powered database that continuously collects, organizes and updates customer information. Pitching at TechCrunch Disrupt 2026's Startup Battlefield, it plans to open-source the technology, targeting early 2027 pending security reviews."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "Users describe what they are looking for, and its AI agents search across sources to build lists of companies and contacts, enrich accounts from more than 100 third-party data sources, and monitor the web for job changes or new funding. Customers have reported cutting prospecting time by as much as 70%, the company says."
+        },
+        {
+          "t": "p",
+          "x": "Founded in 2024 by Shivam Mahajan and Zaaheda Islam, Floqer says it has passed $1.2 million in ARR, has eight employees and more than 1,000 customers, including Perplexity, Wise and AngelList."
+        }
+      ]
+    },
+    "marketing/marketing-newegg-ucp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Newegg has integrated Google's Universal Commerce Protocol (UCP) for online checkout, following Wayfair, Walmart, Macy's and others that have supported UCP since Google launched it in January. Newegg-sold products will be purchasable within Google's AI Mode, Google Search and Gemini."
+        },
+        {
+          "t": "p",
+          "x": "\"AI is changing how the world buys technology, and Newegg intends to be at the forefront of that change,\" said Montaque Hou, chief information officer at Newegg. Newegg remains the merchant of record while providing Google with product catalog data."
+        },
+        {
+          "t": "p",
+          "x": "The move follows Celeste, Newegg's own conversational AI assistant, and support for listings in Perplexity's search. Shoppers can use Google Pay without leaving their search results or prompts."
+        },
+        {
+          "t": "p",
+          "x": "\"Newegg enabling UCP-powered checkout on Google marks a new milestone as we scale agentic commerce,\" said Ashish Gupta of Google."
+        }
+      ]
+    },
+    "marketing/marketing-shopify-catalog-ai-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+          "cap": "Shopify previously announced a partnership with Meta’s Muse for AI-powered shopping and checkout."
+        },
+        {
+          "t": "p",
+          "x": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company’s agentic commerce ambitions."
+        },
+        {
+          "t": "p",
+          "x": "Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify’s catalog, which includes items on and off Shopify storefronts. In September, Shopify partnered with Meta to let its Muse agent buy on a human’s behalf; now, shoppers can use any agent without a partnership integration."
+        },
+        {
+          "t": "p",
+          "x": "Customers connect an agent to their account on Shop and check out within the conversation using one-click Shop Pay. Orders are funneled back to the Shop app. Shopify markets the feature as a “personal shopper” that can follow rules like budget guardrails or fast shipping only. Buyers must approve each purchase."
+        },
+        {
+          "t": "p",
+          "x": "E-commerce has become one of the battlegrounds of AI, with Google and Amazon investing in agent shopping tools, and Amazon fighting Perplexity and, more recently, Meta’s Muse over whether agents should shop on a customer’s behalf."
+        }
+      ]
     }
   }
 }

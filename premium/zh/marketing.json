@@ -998,6 +998,124 @@
           "x": "Google发言人在声明中表示：“我们正在AI Mode和AI Overviews中测试标准文字广告和Shopping广告，最近已将范围扩大到部分医药产品。”"
         }
       ]
+    },
+    "marketing/marketing-lg-magnite": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+        },
+        {
+          "t": "p",
+          "x": "Magnite与LG Ad Solutions宣布，代理商可通过智能体AI媒体购买获取LG智能电视主屏广告资源。首个活动由Northern California Toyota Dealers Association与独立代理商H/L合作推出，49ers 四分卫Brock Purdy出现在分屏主视觉广告位中。"
+        },
+        {
+          "t": "p",
+          "x": "H/L的买方智能体通过Model Context Protocol（MCP）在ClearLine内与Magnite的卖方智能体协作。智能体为有意购买新车的NFL观众设置并启动了活动简报，这一由智能体主导的方案在上线前获得了LG和H/L的批准。"
+        },
+        {
+          "t": "p",
+          "x": "H/L副总裁（VP）Jeremy Cobb表示，主屏广告已成为“基本门槛”。他说，智能体购买“不会从根本上改变我们正在做的事”，但他预计这会让活动规划更好、更快、更强。"
+        }
+      ]
+    },
+    "marketing/marketing-shopify-agent-ready": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+        },
+        {
+          "t": "p",
+          "x": "Bill Hunt审查了122家头部Shopify店铺，测试智能体能否真正完成购买决策。Shopify已为所有店铺开启智能体工具：122家中有89家响应了标准MCP工具列表请求，只要给出真实且有库存的商品，所有店铺都能成功创建结账。"
+        },
+        {
+          "t": "p",
+          "x": "但返回的74个结账全部是requires_escalation：智能体搭好带价格的购物车，付款则由人来确认。"
+        },
+        {
+          "t": "p",
+          "x": "政策工具能回答退货期限问题，却答不好买家式的配送和取消问题。74家店中没有一家返回预计到达时间，没有一家声明支持自提，122家中也没有一家开放取消、修改或退回订单的工具。在九项检查中，通过的店铺为零。"
+        },
+        {
+          "t": "p",
+          "x": "Hunt的建议是：拿买家会问的问题去问自己的政策工具，要去验证，而不是想当然地认为自己已经“agent-ready”。"
+        }
+      ]
+    },
+    "marketing/marketing-floqer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+          "cap": "Floqer创始人"
+        },
+        {
+          "t": "p",
+          "x": "Floqer是一个自主客户知识平台，为B2B销售和营销团队提供AI-powered数据库，持续收集、整理并更新客户信息。该公司在TechCrunch Disrupt 2026的Startup Battlefield上路演，计划在安全审查通过后，以2027年初为目标将技术开源。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "用户描述想找的对象后，其AI智能体会跨来源搜索，建立公司和联系人名单，借助100多个第三方数据源充实账户信息，并在网上监测职位变动或新融资。该公司称，有客户反馈潜在客户开发时间最多缩短了70%。"
+        },
+        {
+          "t": "p",
+          "x": "Floqer由Shivam Mahajan和Zaaheda Islam于2024年创立，公司称其ARR已超过$1.2 million，员工八名，客户超过1,000家，包括Perplexity、Wise和AngelList。"
+        }
+      ]
+    },
+    "marketing/marketing-newegg-ucp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Newegg已在线上结账中接入Google的Universal Commerce Protocol（UCP），跟随自Google一月推出UCP以来便提供支持的Wayfair、Walmart、Macy's等商家。Newegg-sold商品，即Newegg销售的商品，将可在Google的AI Mode、Google Search和Gemini中购买。"
+        },
+        {
+          "t": "p",
+          "x": "Newegg首席信息官Montaque Hou表示：“AI正在改变全世界购买科技产品的方式，Newegg希望站在这场变革的最前沿。”Newegg在向Google提供商品目录数据的同时，仍是记录在案的销售方。"
+        },
+        {
+          "t": "p",
+          "x": "此前，Newegg已推出自有对话式AI助手Celeste，并支持在Perplexity搜索中展示商品。购物者无需离开搜索结果或提示即可使用Google Pay。"
+        },
+        {
+          "t": "p",
+          "x": "Google的Ashish Gupta表示：“Newegg在Google上启用UCP-powered结账，标志着我们扩展智能体商务的一个新里程碑。”"
+        }
+      ]
+    },
+    "marketing/marketing-shopify-catalog-ai-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+          "cap": "Shopify此前宣布与Meta的Muse合作，提供AI-powered购物与结账。"
+        },
+        {
+          "t": "p",
+          "x": "更多AI代理很快就能浏览并购买Shopify上的商品，这标志着该公司代理式商务布局的扩展。"
+        },
+        {
+          "t": "p",
+          "x": "Shopify周二宣布，将允许购物者设置自己的AI代理代为购买商品，让更多代理接触到Shopify目录中逾十亿件商品，其中包括Shopify店面内外的商品。九月，Shopify与Meta合作，让其Muse代理代人购物；如今，购物者无需合作集成即可使用任何代理。"
+        },
+        {
+          "t": "p",
+          "x": "顾客将代理连接到自己的Shop账户，并在对话中通过one-click Shop Pay完成结账。订单会回流到Shop应用。Shopify将这项功能定位为“私人购物顾问”，可遵循预算上限或仅限快速配送等规则。每笔购买都需买家批准。"
+        },
+        {
+          "t": "p",
+          "x": "E-commerce已成为AI的主战场之一：Google和Amazon都在投资代理购物工具，而Amazon正就代理是否应代客户购物，与Perplexity以及最近的Meta旗下Muse展开交锋。"
+        }
+      ]
     }
   }
 }

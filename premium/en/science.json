@@ -7564,6 +7564,126 @@
           "x": "Craig Kaplan says it settles “a nagging open problem in tiling theory”: the older Schmitt-Conway-Danzer biprism was only weakly aperiodic. Reception has been mixed because of the heavy use of generative AI. Chaim Goodman-Strauss said the paper has “hallmarks of an LLM-driven research paper,” and he and Felix Flicker have written human proofs that Chair44 is an aperiodic monotile. “The risk is that our jobs get reduced to sifting through AI slop in search of nuggets of gold,” Flicker says."
         }
       ]
+    },
+    "science/science-hiro-acev2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 introduced HiRO-ACEv2, the newest update to its High Resolution Output Ai2 Climate Emulator. HiROv2 reproduces even extremely rare rain, wind and pressure events with high accuracy, while the full system generates global 3 km climate data at about 1/300th the cost of X-SHiELD, a high-resolution global atmospheric model."
+        },
+        {
+          "t": "p",
+          "x": "The system pairs ACE, an AI model running at 100 km, with HiRO, which sharpens those outputs to 3 km. Given coarsened X-SHiELD data, HiROv2 matches its high-resolution statistics to within 3%, even for once-in-a-million events, and generates hurricanes with realistic eyes and rain bands."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+          "cap": "An example of a strong hurricane in the North Atlantic, generated during the 10-year HiRO-ACEv2 simulation."
+        },
+        {
+          "t": "p",
+          "x": "Producing global high-resolution data costs roughly 300 times less than running X-SHiELD, and for a single region the savings can be more than a hundred times greater. It cannot yet handle other climates, such as a warmer future; Ai2 plans to train on new X-SHiELD data, including a 4°C-warmer world."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+          "cap": "Simulated 10 m wind speed over Baja California in the ACE data visualizer: ACE2 at 100 km resolution on the main map and HiRO-ACEv2 at 3 km in the inset."
+        },
+        {
+          "t": "p",
+          "x": "A web demo shows HiROv1 and HiROv2 output beside X-SHiELD, and the models are available to download with tutorial notebooks."
+        }
+      ]
+    },
+    "science/science-tess-superearth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+          "cap": "An artist concept of TESS in front of a lava planet orbiting its host star."
+        },
+        {
+          "t": "p",
+          "x": "Pavel Rabtsevich, a Spain-based product manager and space science hobbyist, used a custom AI algorithm to search more than 126,000 target stars in NASA TESS data. It flagged TIC 4206066, about 116 light-years away in Orion, which dimmed for about two hours every three days; he then found 22 more dimming events in the archives."
+        },
+        {
+          "t": "p",
+          "x": "If confirmed, the world would be a super-Earth about 1.4 times Earth's radius, with an estimated surface temperature of 1,000°F (540°C). Some 2018 dips aligned with TESS thruster firings, so he calls it a “repeating transitlike signal” with alternatives not yet ruled out."
+        },
+        {
+          "t": "p",
+          "x": "The search couldn't have been done without AI, he says: multiple agents “wrote the code, ran it and checked each other's work,” but “the research itself was mine.” Yale's Greg Laughlin calls the candidate “solid.” MIT's Pablo Mercader Perez notes a TESS filter caught the signal in 2020 but rejected it; it became detectable only this January. TESS will reexamine the star in November."
+        }
+      ]
+    },
+    "science/science-firstproof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Artificial intelligence models are getting good at math—but only the corporate AIs. The First Proof project released its third batch of results, suggesting proprietary subscription-based models from frontier labs far exceed the math skills of open-weight models. “The gap between the open-weight models and frontier models is very large in research mathematics,” says Stanford's Mohammed Abouzaid."
+        },
+        {
+          "t": "p",
+          "x": "The team selected 10 research problems and had three graders per problem judge answers in a mock peer review. Entrants had to be openly available, so OpenAI's new internal model was excluded. Tested models included GPT 6 Astra, Claude Opus 5.5, an aggregate “ProofCouncil,” and a harness on Kimi K3, the leading open-weight model."
+        },
+        {
+          "t": "p",
+          "x": "ProofCouncil solved nine of 10 problems acceptably with “minor revisions,” up from a few in February and six or seven in June. Kimi K3 solved exactly zero. “It really fell flat on its face,” says Harvard's Lauren Williams, urging investment in open models. Mathematicians worried about data leakage want alternatives to OpenAI's or Anthropic's models; for now, it seems, they don't work."
+        }
+      ]
+    },
+    "science/science-subseasonal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Forecasts beyond two weeks are unreliable, which squeezes energy, farming and emergency planning, as the 2021 Texas winter storms showed. A team including MIT researchers built a machine-learning postprocessing layer that learns from a forecast model's past errors and corrects its probabilistic forecasts two to six weeks ahead."
+        },
+        {
+          "t": "p",
+          "x": "Applied to the European Centre for Medium-Range Weather Forecasts (ECMWF) model, it roughly doubled predictive skill in that window and took first place in an ECMWF forecasting competition. Reported in Nature, it was the first approach to beat climatological averages in this range, which MIT's Judah Cohen calls a “predictability desert,” and it also improved extreme-weather prediction."
+        },
+        {
+          "t": "p",
+          "x": "Lead authors are Hannah Guan of Harvard and Soukayna Mouatadid of the University of Toronto, with collaborators at ECMWF, DTN, Microsoft and Brazil's IMPA. The method works with other models, is open source and low cost, and Kenya's meteorological office has expressed interest in using it."
+        }
+      ]
+    },
+    "science/science-mit-self-wiring-learner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a paper published Oct. 9 in PNAS, scientists at MIT's McGovern Institute and K. Lisa Yang ICoN Center argue that a crucial metric for the biological plausibility of an artificial neural network's learning is its ability to organize itself, without the guiding hand of a developer. With simple instructions about how and when connections should change, a group of randomly connected units can reshape itself into an effective information-processing network."
+        },
+        {
+          "t": "p",
+          "x": "“The brain doesn't have an external designer or architect,” says Qianli Liao, co-first author with Liu Ziyin and Yulu Gan. The network follows rules thought to rewire brain circuits, such as “neurons that fire together wire together,” and learned to recognize patterns and classify images."
+        },
+        {
+          "t": "p",
+          "x": "Self-assembling motifs reorganized using a strategy similar to gradient descent. Compared with networks trained by back-propagation, which neuroscientists say the brain is unlikely to use, it performed at a similar level."
+        },
+        {
+          "t": "p",
+          "x": "“If the synaptic motifs we propose are, in fact, used by the brain to do what backpropagation does for artificial neural networks, then we will have a strong connection… between machines and brains,” says Tomaso Poggio."
+        }
+      ]
     }
   }
 }

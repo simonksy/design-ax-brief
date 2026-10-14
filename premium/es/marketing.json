@@ -998,6 +998,124 @@
           "x": "“Estamos probando anuncios de texto estándar y de Shopping en AI Mode y AI Overviews, que recientemente ampliamos para incluir ciertos productos farmacéuticos”, dijo un portavoz de Google en un comunicado."
         }
       ]
+    },
+    "marketing/marketing-lg-magnite": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+        },
+        {
+          "t": "p",
+          "x": "Magnite y LG Ad Solutions anunciaron que el inventario de la pantalla de inicio de las smart TV de LG estará disponible para las agencias mediante la compra de medios con AI agéntica. Northern California Toyota Dealers Association participa en la primera campaña, junto con la agencia independiente H/L, protagonizada por el quarterback de los 49ers Brock Purdy en una ubicación destacada a pantalla dividida."
+        },
+        {
+          "t": "p",
+          "x": "El agente comprador de H/L colaboró con el agente vendedor de Magnite dentro de ClearLine mediante Model Context Protocol (MCP). Los agentes configuraron y activaron el brief de la campaña dirigida a espectadores de la NFL que buscan un vehículo nuevo, y LG y H/L aprobaron el plan dirigido por los agentes antes de su lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "Los anuncios en la pantalla de inicio se han vuelto \"lo mínimo indispensable\", dijo Jeremy Cobb, VP de H/L. La compra agéntica \"no es algo que vaya a cambiar de fondo lo que hacemos\", afirmó, aunque espera que haga la planificación de campañas mejor, más rápida y más sólida."
+        }
+      ]
+    },
+    "marketing/marketing-shopify-agent-ready": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+        },
+        {
+          "t": "p",
+          "x": "Bill Hunt auditó 122 tiendas líderes de Shopify para comprobar si un agente puede realmente cerrar una decisión de compra. Shopify activó las herramientas para agentes en todas las tiendas: 89 de 122 respondieron a un listado estándar de herramientas MCP, y la creación del checkout funcionó en todas las tiendas cuando se les dio un artículo real y en stock."
+        },
+        {
+          "t": "p",
+          "x": "Pero los 74 checkouts devueltos indicaron requires_escalation: el agente arma un carrito con precio y una persona compromete el dinero."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de políticas respondieron preguntas sobre el plazo de devolución, pero fallaron ante preguntas de comprador sobre envío y cancelación. Ninguna de las 74 tiendas devolvió una fecha estimada de llegada, ninguna declaró la opción de recogida y ni una de las 122 expone una herramienta para cancelar, cambiar o devolver un pedido. En nueve comprobaciones, cero tiendas aprobaron."
+        },
+        {
+          "t": "p",
+          "x": "El consejo de Hunt: haga a su propia herramienta de políticas las preguntas que hacen los compradores, y verifique en lugar de suponer que es \"agent-ready\"."
+        }
+      ]
+    },
+    "marketing/marketing-floqer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+          "cap": "Fundadores de Floqer"
+        },
+        {
+          "t": "p",
+          "x": "Floqer es una plataforma autónoma de conocimiento de clientes que ofrece a los equipos B2B de ventas y marketing una base de datos AI-powered que recopila, organiza y actualiza de forma continua la información de clientes. Tras presentarse en el Startup Battlefield de TechCrunch Disrupt 2026, planea liberar la tecnología como código abierto, con el objetivo de hacerlo a principios de 2027, a la espera de revisiones de seguridad."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios describen lo que buscan y sus agentes de AI rastrean distintas fuentes para crear listas de empresas y contactos, enriquecer cuentas con más de 100 fuentes de datos de terceros y vigilar la web en busca de cambios de empleo o nuevas rondas de financiación. Según la empresa, algunos clientes han reportado reducir hasta un 70% el tiempo de prospección."
+        },
+        {
+          "t": "p",
+          "x": "Fundada en 2024 por Shivam Mahajan y Zaaheda Islam, Floqer asegura haber superado $1.2 million en ARR, y cuenta con ocho empleados y más de 1,000 clientes, entre ellos Perplexity, Wise y AngelList."
+        }
+      ]
+    },
+    "marketing/marketing-newegg-ucp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Newegg ha integrado el Universal Commerce Protocol (UCP) de Google para el checkout en línea, después de Wayfair, Walmart, Macy's y otros que admiten UCP desde que Google lo lanzó en enero. Los productos Newegg-sold, es decir, vendidos por Newegg, podrán comprarse dentro de AI Mode, Google Search y Gemini de Google."
+        },
+        {
+          "t": "p",
+          "x": "\"La AI está cambiando la forma en que el mundo compra tecnología, y Newegg quiere estar a la vanguardia de ese cambio\", dijo Montaque Hou, director de información de Newegg. Newegg sigue siendo el comerciante registrado y proporciona a Google los datos de su catálogo de productos."
+        },
+        {
+          "t": "p",
+          "x": "La medida llega después de Celeste, el asistente conversacional de AI propio de Newegg, y del soporte para listados en la búsqueda de Perplexity. Los compradores pueden usar Google Pay sin salir de sus resultados de búsqueda ni de sus prompts."
+        },
+        {
+          "t": "p",
+          "x": "\"Que Newegg habilite el checkout UCP-powered en Google marca un nuevo hito mientras escalamos el comercio agéntico\", dijo Ashish Gupta, de Google."
+        }
+      ]
+    },
+    "marketing/marketing-shopify-catalog-ai-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+          "cap": "Shopify ya había anunciado una alianza con Muse, de Meta, para compras y pagos AI-powered."
+        },
+        {
+          "t": "p",
+          "x": "Más agentes de AI podrán pronto explorar y comprar productos de Shopify, lo que supone una ampliación de las ambiciones de la empresa en el comercio agéntico."
+        },
+        {
+          "t": "p",
+          "x": "Shopify anunció el martes que permitirá a los compradores configurar sus agentes de AI para que compren productos en su nombre, lo que da a más agentes acceso a más de mil millones de productos de su catálogo, que incluye artículos dentro y fuera de las tiendas de Shopify. En septiembre, Shopify se alió con Meta para que su agente Muse comprara en nombre de una persona; ahora, los compradores pueden usar cualquier agente sin una integración de alianza."
+        },
+        {
+          "t": "p",
+          "x": "Los clientes conectan un agente a su cuenta de Shop y pagan dentro de la conversación con el pago one-click de Shop Pay. Los pedidos vuelven a la app Shop. Shopify presenta la función como un “personal shopper” que puede seguir reglas como límites de presupuesto o solo envíos rápidos. Los compradores deben aprobar cada compra."
+        },
+        {
+          "t": "p",
+          "x": "El E-commerce se ha convertido en uno de los campos de batalla de la AI: Google y Amazon invierten en herramientas de compra con agentes, y Amazon se enfrenta a Perplexity y, más recientemente, a Muse, de Meta, sobre si los agentes deberían comprar en nombre de los clientes."
+        }
+      ]
     }
   }
 }

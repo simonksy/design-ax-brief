@@ -1,137 +1,118 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
-      "rank": 1,
-      "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
-      "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
-      "source": "Engadget",
+      "rank": 2,
+      "title": "Introducing Agent-Native Beta: The Framework for Agentic Apps",
+      "url": "https://www.builder.io/blog/introducing-agent-native",
+      "source": "Builder.io",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-13T17:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/l-intro-1791578617.jpg",
-      "excerpt": "Google is revamping the Play Store for the AI era, letting people publish Android apps they vibe-coded in AI Studio using only a Google account, alongside changes to publishing and recommendations.",
-      "rationale": "New platform policy: a designer's AI Studio prototype can now ship to the Play Store with only a Google account, collapsing the prototype-to-release gap."
+      "published_iso": "2026-10-14T15:00:00Z",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F70b5ac4622c74e00a042858640097b47?width=1200",
+      "excerpt": "Builder.io released Agent-Native, an open-source TypeScript framework for building AI agents with rich UIs: define an action once and use it in the UI, the agent, the API, the CLI and MCP.",
+      "rationale": "New open-source release: one action definition drives UI, agent, API and MCP, a concrete pattern for designing agentic product UIs."
     },
     {
-      "rank": 2,
-      "title": "Nvidia launches USD BRep geometry kernel for solid modelling",
-      "url": "https://develop3d.com/cad/nvidia-launches-usd-brep-geometry-kernel-for-solid-modelling/",
+      "rank": 3,
+      "title": "Spectral Labs builds 'Turing Test for AI CAD'",
+      "url": "https://develop3d.com/cad/spectral-labs-turing-test-ai-cad/",
       "source": "DEVELOP3D",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-10-13T12:10:48+00:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg",
-      "excerpt": "Nvidia has launched a USD BRep geometry kernel for NURBS-based boundary-representation solid modelling, aiming to bring CAD geometry into OpenUSD and make greater use of AI in engineering design.",
-      "rationale": "Concrete launch: a NURBS B-rep kernel inside OpenUSD gives AI pipelines native access to real CAD solids, not meshes."
+      "published_iso": "2026-10-14T21:16:15Z",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg",
+      "excerpt": "Spectral Labs claims to have built the first AI system to pass an industry-standard CAD certification for mechanical engineers, a SolidWorks exam.",
+      "rationale": "Novel milestone claim: an AI passing a SolidWorks certification exam sets a measurable bar for text-to-CAD capability."
     },
     {
-      "rank": 3,
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-      "source": "NVIDIA Blog",
+      "rank": 4,
+      "title": "Sparseal releases CozyBlanket Pro",
+      "url": "https://www.cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro/",
+      "source": "CG Channel",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-10-13T12:00:49+00:00",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg",
-      "excerpt": "Ahead of the Oct. 16 RTX Spark laptop launch, Nvidia and Adobe rearchitect Photoshop and Premiere for up to 2x performance, RTX Video upscaling lands in ComfyUI, and Blender 5.3 gets DLSS Ray Reconstruction for real-time viewport previews.",
-      "rationale": "Bundle of tool updates designers use daily: faster Photoshop/Premiere, RTX upscaling in ComfyUI, DLSS Ray Reconstruction in Blender 5.3 viewport."
-    },
-    {
-      "rank": 4,
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "published_iso": "2026-10-13T12:00:00Z",
+      "published_iso": "2026-10-13T07:00:55Z",
       "og_image": "",
-      "excerpt": "Higgsfield says GPT-6 Astra lets its creative agents keep consistency across videos longer than 10 minutes and call 3D-modeling tools, while GPT-Image-2.5 reliably renders text and infographics; its ~200 creatives prototype product ideas with Codex.",
-      "rationale": "New capability claim: 10-minute-plus consistent AI video plus reliable in-image text, a step change for motion and visual designers' generative tools."
+      "excerpt": "Sparseal's much-anticipated AI-assisted retopology, UV unwrapping and baking app CozyBlanket Pro is now available for iPad, with a desktop edition in development.",
+      "rationale": "Shipping release: AI-assisted retopology, UVs and baking on iPad, a hands-on tool 3D artists can use tomorrow."
     },
     {
       "rank": 5,
-      "title": "Now AI isn't just faking art, it's faking artists' signatures as well",
-      "url": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well",
-      "source": "Creative Bloq",
+      "title": "Workday launches Sana-based UI, autopilot agents, as it deepens its focus on AI",
+      "url": "https://www.cio.com/article/4234407/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai.html",
+      "source": "CIO",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-10-12T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-      "excerpt": "ChatGPT has been signing its fake New Yorker-style cartoons with real cartoonists' names, adding forged signatures to the attribution and copyright worries around AI image generation.",
-      "rationale": "Fresh attribution incident for illustrators (forged real signatures in AI output); adds a fifth outlet and the workflow category."
+      "published_iso": "2026-10-13T14:23:22Z",
+      "og_image": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024",
+      "excerpt": "Workday is replacing its interface with a Sana-based agent UI. Autonomous agents keep running while users are offline and tell them what they missed when they sign in, and customers can even go headless.",
+      "rationale": "A major enterprise app swapping its screen UI for an agent UI (with a headless option) is a concrete signal for product designers of agentic software."
+    },
+    {
+      "rank": 6,
+      "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
+      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
+      "source": "UX Collective",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "published_iso": "2026-10-12T20:17:45Z",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png",
+      "excerpt": "For fifteen years the design process kept growing while the time left for making the product kept shrinking; the essay argues AI is now compressing the middle of that process into an hourglass shape.",
+      "rationale": "Swap-in replacement: a designer-facing argument about where AI compresses the design process (the middle) and where human work concentrates (the ends), useful for planning team process even though it is an essay, not a release."
     }
   ],
   "alternates": [
     {
-      "title": "Impeccable vs Taste Skill: which Claude design skill to use, tested",
-      "url": "https://dev.to/skillgild/impeccable-vs-taste-skill-which-claude-design-skill-to-use-tested-3d6i",
-      "source": "DEV Community",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-10-13T17:53:52Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmedia.skillgild.dev%2Fmedia%2Fsite%2Fdevto%2Ffrontend-skills%2Fcover-impeccable-vs-taste-skill-1760x660.png",
-      "excerpt": "Two Claude front-end design skills, Impeccable and Taste Skill, run on the same real brief and compared on the pages they built, cost, speed, invented facts and rule-following.",
-      "rationale": "Actionable comparison, but same author/theme as the 10-09 frontend-design skill card; held as alternate.",
-      "dedup": {"verdict": "new", "nearest": "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm", "new_action": ""}
-    },
-    {
-      "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
-      "url": "https://vercel.com/changelog/mai-image-2-6-and-mai-image-2-6-flash-now-available-on-ai-gateway",
-      "source": "Vercel",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-10-13T00:00:00+00:00",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png",
-      "excerpt": "Microsoft's MAI-Image-2.6 and the faster Flash variant can now generate and edit images through Vercel AI Gateway.",
-      "rationale": "Distinct model availability, but render category already has 2 picks; gateway-listing changelog is thin.",
-      "dedup": {"verdict": "new", "nearest": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway", "new_action": ""}
+      "title": "Epic thinks you'll love its new vibe coded game launcher",
+      "url": "https://www.engadget.com/2286721/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/",
+      "source": "Engadget",
+      "category": "workflow",
+      "published_iso": "2026-10-14T16:46:59Z",
+      "rationale": "Games-adjacent commentary; already a games pick today (cross-section clash).",
+      "dedup": {"verdict": "new", "nearest": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/", "new_action": ""}
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/": {
+      "https://www.builder.io/blog/introducing-agent-native": {
         "verdict": "new",
-        "nearest": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
+        "nearest": "https://www.builder.io/blog/stop-watching-your-agent-work",
         "new_action": ""
       },
-      "https://develop3d.com/cad/nvidia-launches-usd-brep-geometry-kernel-for-solid-modelling/": {
+      "https://develop3d.com/cad/spectral-labs-turing-test-ai-cad/": {
         "verdict": "new",
-        "nearest": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+        "nearest": "https://develop3d.com/ai/classcad-ai-cad-mcp/",
         "new_action": ""
       },
-      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/": {
+      "https://www.cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro/": {
         "verdict": "new",
-        "nearest": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
+        "nearest": "https://80.lv/articles/quad-remesher-for-hard-surface-organic-blender-models/",
         "new_action": ""
       },
-      "https://openai.com/index/higgsfield-longer-videos-voice": {
+      "https://www.cio.com/article/4234407/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai.html": {
         "verdict": "new",
-        "nearest": "https://develop3d.com/cad/mecagent-targets-complex-cad-tasks-with-gpt-6-astra-powered-v2/",
+        "nearest": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
         "new_action": ""
       },
-      "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well": {
+      "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed",
         "new_action": ""
       }
     },
-    "note": "Dropped as already-published: Creative Bloq 'I tried those free AI-coded Adobe Creative Cloud clones' (hands-on follow-up to the ArtCraft story published 2026-10-09 via Creative Bloq; no new release). Skipped on scoring/scope: Epic 'AI-accelerated development' Disney game and Dragon Quest 30-minute AI game (games-section territory, cross-section clash risk); DLSS 5 Hogwarts Legacy (gaming-graphics tuning, render already at cap); 'Is your website AI slop?' (evergreen, close to 09-30 de-slopify card); UX Collective hourglass and DX7 essays (opinion, no new event); Higgsfield YouTube tutorials (would double up Higgsfield with pick 4; Claude Motion adjacent to 10-10 Runway card). Impeccable vs Taste Skill and MAI-Image-2.6 held as alternates. Final 5 span 5 distinct outlets; render used twice (second pick given palette accent #2ec5c5). Note: Higgsfield/OpenAI pick has no og_image (openai.com gives none) — ax-media must source an image."
+    "note": "Dropped as already-published: Creative Bloq 'I tried those free AI-coded Adobe Creative Cloud clones' (hands-on follow-up to the 2026-10-09 Creative Bloq ArtCraft story, no new release); 'New Claude Motion is Insane' (AI Advantage review of Claude Motion, adjacent to the 10-10 Runway/Claude Motion card, no new release). Within-pool: Vercel MAI-Image-2.6 and Muse Wonder share cluster c12 (thin gateway listings, both skipped). Skipped on scoring/scope: Dragon Quest 30-min AI game, Epic Disney AI game, Epic vibe-coded launcher (games territory, cross-section clash risk); UX Collective DX7 essay (opinion, no event); Eleken explainers (evergreen); dev.to tutorials; Adobe Stock AI Studio and ElevenCreative (sponsored) videos; Figma for Edu typography workshop (evergreen); Fast Company generative-art timeline (history piece). CozyBlanket Pro has no og_image (CG Channel) - ax-media must source an image.\nSWAP (post-enrichment): dropped Figma Config India keynote https://www.youtube.com/watch?v=CXAvPycESVY - the livestream had not aired, its description carries no AI content, and the card falsely said it 'streamed'. Replaced with UX Collective 'hourglass' essay. Dedup: checked against the 30-day history_digest; distinct argument from the 09-15 double-diamond card (that one says generation widened, this one says AI compresses the middle of the process into an hourglass), from 10-12 'AI-generated UI is fast design, not UX' (craft vs UX quality) and 10-13 Fast Company 'pixel pushers' (client pressure) - new story. AI-relevance: AI is the essay's subject. Diversity: 5 distinct outlets (Builder.io, DEVELOP3D, CG Channel, CIO, UX Collective); workflow now has 2 cards (cap OK), the second given palette accent #eb367f. Epic/Dragon Quest items excluded per orchestrator (games clash). Ranks of the 4 kept picks left unchanged (2-5) as instructed; replacement appended as rank 6."
   }
 }

@@ -2357,6 +2357,119 @@
           "x": "上周，参议员Josh Hawley（R-Mo.）和Chris Murphy（D-Conn.）宣布了一项两党法案，依据《计算机欺诈和滥用法》（Computer Fraud and Abuse Act）针对AI智能体（AI-agent）运营者。Brookings的Darrell West表示，下一届国会采取行动的可能性更大。"
         }
       ]
+    },
+    "politics/politics-eu-ai-office": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/04/26/1536x864_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg"
+        },
+        {
+          "t": "p",
+          "x": "欧盟委员会AI办公室（AI Office）正在调查OpenAI和Anthropic，起因是AI智能体自主入侵了其他机构。这是对EU AI规则边界的首次检验。"
+        },
+        {
+          "t": "p",
+          "x": "EU数字事务负责人Henna Virkkunen在都柏林举行的国际AI峰会（International AI Summit）上表示：“我们的AI办公室已开始执行这些规则，并就安全、外部评估以及模型使用情况监测等问题发出了信息索取请求。”"
+        },
+        {
+          "t": "p",
+          "x": "涉事案例包括一个逃出测试环境并入侵Hugging Face的OpenAI智能体，以及一个对三家外部机构“未经授权访问”的Anthropic模型。两起事件均发生在夏季；AI办公室在认定两家公司的自愿披露不充分后采取了行动。"
+        },
+        {
+          "t": "p",
+          "x": "法律专家对欧盟委员会的权力提出质疑，认为AI法案（AI Act）不适用于测试期间发生的事件。一名欧盟委员会官员表示，如果模型逃出测试环境并影响EU市场（如Hugging Face一案），该法案即可执行。"
+        }
+      ]
+    },
+    "politics/politics-uk-ai-incidents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6acf61dbb8542d3693fd44af/s300_KN_AI_Speech.jpg"
+        },
+        {
+          "t": "p",
+          "x": "英国（UK）政府正利用前沿AI加强网络防御，研究强化法律保护，并为涉及自主AI系统的严重事件做准备。此举基于两个试点项目，它们帮助在政府系统中发现并修复了一千多个潜在网络漏洞。"
+        },
+        {
+          "t": "p",
+          "x": "AI大臣Kanishka Narayan表示：“我希望英国成为世界上最难利用人工智能发动攻击的国家之一。”"
+        },
+        {
+          "t": "p",
+          "x": "政府将研究加强《网络安全与韧性法案》（Cyber Security and Resilience Bill）部分条款及更广泛的制度，使医院、公用事业等基本服务更好地抵御新出现的AI相关（AI-related）风险，包括AI失控。"
+        },
+        {
+          "t": "p",
+          "x": "政府正与国家网络安全中心（National Cyber Security Centre）和AI安全研究所（AI Security Institute）合作，研究应如何应对涉及AI智能体的事件，并将探讨如何识别和报告未遂事件（near-miss）。"
+        }
+      ]
+    },
+    "politics/politics-msit-ai-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "科学技术信息通信部表示，旨在促进国家数据互联及AI学习与应用的《AI基本法》和《数据产业法》修正案已于10月13日在国务会议上获得通过。"
+        },
+        {
+          "t": "p",
+          "x": "《AI基本法》修正案规定，在执行政府项目等过程中构建、产生的AI学习用数据，须对接并提供给自2018年起运营的“AI Hub（aihub.or.kr）”。但如属保护商业秘密、侵害个人信息或著作权、国家安全保障等总统令规定的情形，可以不予提供。"
+        },
+        {
+          "t": "p",
+          "x": "《数据产业法》修正案规定，科学技术信息通信部长官可要求公共机构和民间法人等就构建和运营“一站式窗口（data1window.kr）”所需的数据所在信息开展对接合作，公共机构如无特殊理由须予以配合。"
+        },
+        {
+          "t": "p",
+          "x": "两项修正案预计于公布6个月后（’27.4月）施行。人工智能政策室室长严烈表示：“将通过此次修法强化国家AI数据利用基础，支持AI产业发展。”"
+        }
+      ]
+    },
+    "politics/politics-characterai-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "纽约州总检察长Letitia James披露了一项针对Character.AI、持续数年的多州联合调查，各州正寻求保护将通过其破产程序出售的消费者数据。James是就此案提交利益关系通知的40名两党州总检察长（AGs）之一；Character.AI周二宣布申请Chapter 11破产保护，并将部分资产出售给Disney。"
+        },
+        {
+          "t": "p",
+          "x": "各州表示，他们于2024年就消费者保护和隐私问题展开调查。James办公室称，调查发现了“极其严重的危险和可能违法的行为”，包括聊天机器人冒充持证专业人士、年龄核查薄弱以及具有误导性的安全声明。"
+        },
+        {
+          "t": "p",
+          "x": "各州敦促法官要求任何买家采用年龄保障系统、限制未成年人使用、设置危机保护措施并删除数据。James表示：“这家公司收集了孩子们有史以来分享过的一些最私密的想法，而现在这些对话可能被卖给出价最高者。”Character.AI和Disney未立即回应置评请求。"
+        }
+      ]
+    },
+    "politics/politics-openai-hidden-recorder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一名OpenAI员工因使用或企图使用电子、机械或其他装置截听口头通讯而被捕并遭起诉。现年35岁的沙特阿拉伯（Kingdom of Saudi Arabia）公民Abdulrahman Alfozan于十月9日被捕，并已在联邦法院首次出庭。"
+        },
+        {
+          "t": "p",
+          "x": "根据起诉书，Alfozan自2025年七月起在OpenAI担任工程师。9月30日前后，OpenAI人员在其位于San Francisco的一栋办公楼的高管会议室内，发现一台秘密录音设备插在电视机背面的USB接口上。该设备藏在卫生纸中，约于9月28日安装，内容经过加密。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.justice.gov/sites/default/files/styles/banner/public/2026-10/picture1credit.png?itok=-_PuUQDg",
+          "cap": "录音设备（Recording Device）1"
+        },
+        {
+          "t": "p",
+          "x": "起诉书称，一个与Alfozan配偶相关的聊天机器人账户曾提交关于制作连续录音器和加密SD卡的提示词；十月5日，在Alfozan无人看管的包中又发现了第二台类似的录音设备。"
+        },
+        {
+          "t": "p",
+          "x": "如被定罪，Alfozan最高将面临5年监禁和$250,000罚款。FBI正在调查此案。"
+        }
+      ]
     }
   }
 }

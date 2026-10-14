@@ -6497,6 +6497,142 @@
           "x": "In response, the prize is initiating what it calls a 'human-centred process' after the Zimbabwean winner was accused of AI use."
         }
       ]
+    },
+    "books/books-soa-ai-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+          "cap": "Anna Ganley"
+        },
+        {
+          "t": "p",
+          "x": "The Society of Authors launched a global, ethical AI charter at the Creators Emergency Summit in London on 13th October, aimed at “defining how generative AI services should be deployed to help protect and support human creators”."
+        },
+        {
+          "t": "p",
+          "x": "The Bookseller reports that global creative bodies are launching the charter “in the vacuum of government policy”. The full article is available to registered readers only."
+        }
+      ]
+    },
+    "books/books-japan-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The uptake of translation powered by generative AI has led to falling sales at translation companies in Japan."
+        },
+        {
+          "t": "p",
+          "x": "Tokyo Shōkō Research examined the performance of 100 Japanese translation companies whose results could be compared over five consecutive fiscal years. In fiscal 2025, the companies’ combined sales amounted to ¥39.3 billion, while their net profits totaled ¥920 million."
+        },
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+        },
+        {
+          "t": "p",
+          "x": "Compared with fiscal 2022, when sales peaked at ¥43.5 billion and profits at ¥3.1 billion, sales in fiscal 2025 were down by 9.7% and profits by 70.7%. Of the 100 companies surveyed, 32 reported higher sales and 35 higher profits, while 50 had lower sales and 47 lower profits."
+        },
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+        },
+        {
+          "t": "p",
+          "x": "Tokyo Shōkō Research offers the following analysis: “Machine translation has advanced so rapidly that simple texts can now be translated for free. Price competition is intensifying as it becomes easier to obtain translations.”"
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, the global market for AI-assisted translation is expected to expand rapidly. QY Research forecasts growth from $2.6 billion in 2025 to $4.2 billion by 2032; Business Research Insights expects $4.4 billion in 2025 to rise to $5.7 billion by 2035."
+        },
+        {
+          "t": "p",
+          "x": "The key to the survival of the translation industry may lie in whether translators can use AI to improve efficiency in general-purpose translation, while finding a niche in specialized fields where AI is less accurate or in areas that require human creativity."
+        }
+      ]
+    },
+    "books/books-multivoice-audiobook": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Allan Tépper recently produced his first audiobook with actual dialog: it required six different voices to cover the narrator plus five other characters. The client-author did not have budget to hire even one human voiceover talent, let alone six, so the voices were cloned with ElevenLabs’ Pro plan. “The gap between human professional voiceover talent and cloned professional voiceover talent still exists, but it is narrower than ever before.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+          "cap": "All audiobook covers must be square."
+        },
+        {
+          "t": "p",
+          "x": "The book is El gato que se le coló a Colón, a children’s book by Carmela Doval. The voices: a Latin American, seseante female narrator; Paquito, a Spaniard male cat; his girlfriend Cloti; Cristóbal Colón; an unnamed crew spokesperson; and Rodrigo, a boat owner. The clone used for Paquito works well but has a quirk: his Castilian pronunciation alternates between distinguishing and seseante."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs also scans a manuscript and asks the producer about unknown words or names, offering a play button for its best guess and a field to type a phonetic spelling. Only one name needed it: Dade, which it first read as “Dah-Day” until Tépper typed “deid”."
+        }
+      ]
+    },
+    "books/books-lezhin-teaz": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+          "cap": "Lezhin Entertainment will launch its AI character chat service ‘Teaz’ on the 19th."
+        },
+        {
+          "t": "p",
+          "x": "Lezhin Entertainment, an affiliate of webtoon company Kidari Studio, said it will officially launch ‘Teaz’ on October 19, an AI character chat service in which readers talk directly with characters from its popular webtoons and build their own stories."
+        },
+        {
+          "t": "p",
+          "x": "‘Teaz’ is highly immersive interactive content built on original webtoon IP from Bomtoon, a global platform aimed at female readers, and Lezhin Comics. Users can steer the conversation by stepping into a specific point in the original story to become one of the characters, or by entering the story world from a 3rd-party perspective."
+        },
+        {
+          "t": "p",
+          "x": "Its biggest differentiator is ‘relationship-based conversation’. The other character's reactions and the shape of the relationship change in varied ways depending on the content and context of what the user says. It also offers features for readers, such as collecting items as the story progresses and unlocking hidden illustrations hand-drawn by the authors."
+        },
+        {
+          "t": "p",
+          "x": "‘Teaz’ uses only officially contracted IP with clearly settled rights, and conversations take place within official settings approved by the original creators. After launch, the company plans to gradually introduce an ‘AU (Alternative Universe)’ mode dealing with worlds entirely different from the original, along with a ‘text RPG’ mode."
+        },
+        {
+          "t": "p",
+          "x": "Parent company Kidari Studio posted consolidated revenue of KRW 122.8 billion (1,228억 원) and operating profit of KRW 9 billion (90억 원) in the first half of 2026. Revenue rose 23% and operating profit 275% year on year. A company official said, “‘Teaz’ will expand the worlds of the original IP in new dimensions and establish itself as the company's new future growth engine.”"
+        }
+      ]
+    },
+    "books/books-nippan-anthropic-sales": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+          "cap": "From U.S. court documents: a view inside a warehouse where a large volume of collected books are believed to be stored"
+        },
+        {
+          "t": "p",
+          "x": "A subsidiary of major book distributor Nippan Group Holdings, Inc. has sold Japanese books to U.S. artificial intelligence developer Anthropic PBC without notifying the publishers. The Japan Book Publishers Association inquired about the matter and received a response from Nippan confirming the sales, according to publishing industry sources."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic is believed to have been conducting a project to scan large quantities of books for AI training, and Japanese books may have been included. According to court documents, Anthropic had been purchasing large quantities of books from distributors in Europe, the United States and Asia, among them a company named “Nippan Japan.”"
+        },
+        {
+          "t": "img",
+          "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The association demanded that Nippan cease the supply and sale of books intended for AI training. Nippan reportedly acknowledged sales between December 2024 and December 2025, but claimed it was not aware the books were being purchased for AI training."
+        },
+        {
+          "t": "p",
+          "x": "Article 30-4 of Japan’s Copyright Law permits the use of works for AI training without permission, unless it unreasonably prejudices the copyright owner’s interests. A senior publishing executive said: “It is unacceptable for Nippan, which is in a position to protect Japan’s publishing culture, to engage in actions that undermine that very culture.”"
+        }
+      ]
     }
   }
 }

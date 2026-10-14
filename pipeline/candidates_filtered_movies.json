@@ -1,69 +1,164 @@
 {
-  "date": "2026-10-14",
   "section": "movies",
-  "now_iso": "2026-10-13T22:03:28Z",
+  "now_iso": "2026-10-14T22:00:44Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "How AI Is Used by Netflix at Its VFX Eyeline Studios, Revealed by VP Mohsen Mousavi at View Conference",
-      "url": "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/",
+      "title": "AI Can Cut Film Budgets by Up to 40%, Says ‘The Outlaws’ Director Kang Yoon-sung, as Netflix Reveals Use on 300 Titles: ‘A Human Touch Is Absolutely Essential’",
+      "url": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
       "source": "Variety",
       "category": "movies",
-      "published_iso": "2026-10-13T13:55:51+00:00",
-      "excerpt": "Eyeline VP Mohsen Mousavi reveals how Netflix uses AI for crowds, sets and relighting, while developing new tools for filmmaking.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/WhatsApp20Image202026-10-1320at2012.30.34.jpeg?w=1000&h=563&crop=1",
-      "history_match": {
-        "score": 0.189,
-        "date": "2026-10-11",
-        "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
-        "title": "Generative AI Still Needs Artists' Judgment, Says Netflix's Eyeline GenFX Chief James Rustad at Busan",
-        "band": "related"
-      }
+      "published_iso": "2026-10-10T10:09:19+00:00",
+      "excerpt": "At Busan, Netflix’s Lee Sung-gyun, director Kang Yoon-sung and Weta FX’s Kimball Thurston debated how far AI should reach into film production.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=563&crop=1"
     },
     {
-      "title": "An AI-Generated Trailer Won the Inaugural $2.5 Million Future Vision XPRIZE — and Its Director Hopes It'll Change Minds About AI",
+      "title": "An AI-Generated Trailer Won the Inaugural $2.5 Million Future Vision XPRIZE — and Its Director Hopes It’ll Change Minds About AI",
       "url": "https://variety.com/2026/biz/news/an-ai-generated-trailer-the-gifted-future-vision-xprize-1236907106/",
       "source": "Variety",
       "category": "movies",
       "published_iso": "2026-10-09T22:29:25+00:00",
-      "excerpt": "\"Jeff Synthesized\" took home the $2.5 million Future Vision XPRIZE with the AI-generated proof-of-concept trailer for \"The Gifted.\"",
+      "excerpt": "“Jeff Synthesized\" took home the $2.5 million “Future Vision XPRIZE” last month with the AI-generated proof-of-concept trailer for “The Gifted.”",
       "og_image": "https://variety.com/wp-content/uploads/2026/10/BZ8_0888.jpg?w=1000&h=563&crop=1",
       "history_match": {
-        "score": 0.403,
+        "score": 0.399,
         "date": "2026-09-30",
         "url": "https://deadline.com/2026/09/the-gifted-ai-future-vision-xprize-range-media-google-1237116088/",
         "title": "'The Gifted' Wins Inaugural Future Vision XPRIZE",
-        "band": "likely-repeat"
+        "band": "related"
       }
     },
     {
-      "title": "'IvyBears' Hits Cannes After YouTube Breakout, Spawns Animated Feature Project (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/",
-      "source": "Variety",
-      "category": "movies",
-      "published_iso": "2026-10-13T09:16:52+00:00",
-      "excerpt": "From consumer products to character-driven series, IvyBears goes brand-to-content in a 'reverse flywheel' approach powered by AI and artists alike, now spawning an animated feature.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=563&crop=1"
-    },
-    {
-      "title": "AI Tools Bring Efficiencies But Have Limitations, Says Weta CTO Kimball Thurston: \"Tech Companies Should Collaborate More With Creatives\"",
-      "url": "https://deadline.com/2026/10/netflix-ai-weta-fx-kimball-thurston-run-to-the-west-1237153889/",
+      "title": "How Asian Directors Wrap Kling AI Into Their Workflows",
+      "url": "https://deadline.com/2026/10/worm-train-asian-directors-wrap-kling-ai-busan-1237155797/",
       "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-10-10T10:04:57+00:00",
-      "excerpt": "Weta FX CTO Kimball Thurston, Korean filmmaker Kang Yun-sung and Netflix's Sung Q Lee discussed the advantages and limitations of using AI tools in production workflows.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/10/AI-PANEL.jpg?w=1024"
+      "published_iso": "2026-10-14T10:28:20+00:00",
+      "excerpt": "Partner Content: 'Worm Train' from writer-director Sung-Soo Kim launched at the Asian Contents & Film Market during the 31st Busan Int'l Film Festival",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/LinkedIn-1-Kling-AI-Photo-1500.jpg?w=1024",
+      "history_match": {
+        "score": 0.219,
+        "date": "2026-10-13",
+        "url": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
+        "title": "AI Productions Require Traditional Skills To Be Cinematic, Say Filmmakers On Kling AI Panel: “You Need Experts To Prevent Everything Looking The Same”",
+        "band": "related"
+      },
+      "cluster": "c2"
     },
     {
-      "title": "We Will Never \"Lie To The Audience\" Over Artificial Intelligence, Says BBC Content Chief Kate Phillips",
+      "title": "Midjourney: Report Finds AI Model Worst For Flouting Hollywood IP",
+      "url": "https://deadline.com/2026/10/midjourney-worst-offender-flouting-hollywood-copyright-1237154802/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-10-14T16:48:59+00:00",
+      "excerpt": "Disney accused Midjourney of being a \"bottomless pit of plagiarism\" in a lawsuit last year. More than 18 months on, there remains cause for concern.",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024"
+    },
+    {
+      "title": "Ben Affleck Explains His Approach to Using AI Ethically on New Movie ‘Animals’: “It’s Not About Making Fake People or Replacing Anybody, Ever”",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-approach-ai-ethically-animals-replacing-1236720613/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-10-02T03:35:09+00:00",
+      "excerpt": "\"I wouldn't use something that trains on or has learned from any work that is copywritten, or that is an intelligence created by a peer of mine or somebody that I look up to,\" the actor-director emphasized.",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2298154441.jpg?crop=0px%2C245px%2C5827px%2C3260px&resize=1440%2C810",
+      "history_match": {
+        "score": 0.279,
+        "date": "2026-10-02",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-ai-netflix-movie-animals-1236717919/",
+        "title": "Ben Affleck Used AI “For Lots of Things” in His New Netflix Movie ‘Animals’",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Give your stories more ways to take shape with Canvas in Flow Studio",
+      "url": "https://beforesandafters.com/2026/10/14/give-your-stories-more-ways-to-take-shape-with-canvas-in-flow-studio/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-10-14T10:08:52+00:00",
+      "excerpt": "Access leading models to create and refine every character, world, and moment in your story.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/1920x1080_me_flow-studio_phase-2_meta_3d-editor-and-canvas_try-free_V2.jpg",
+      "history_match": {
+        "score": 0.158,
+        "date": "2026-10-05",
+        "url": "https://motionographer.com/2026/09/29/the-studio-that-refused-to-be-one-thing/",
+        "title": "STUDIO STORIES: Tonic DNA, The Studio That Refused to Be One Thing",
+        "band": "related"
+      }
+    },
+    {
+      "title": "RevThink’s Revolve Accelerator Explores What Clients Value in the Age of AI",
+      "url": "https://motionographer.com/news/revthink-revolve-accelerator-ai-creative-business/",
+      "source": "Motionographer",
+      "category": "movies",
+      "published_iso": "2026-10-07T14:03:58+00:00",
+      "excerpt": "RevThink’s six-week program for studio owners begins October 13, with a free preview on October 7 exploring how AI changes creative expertise and client value.",
+      "og_image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&quality=80&ssl=1"
+    },
+    {
+      "title": "THE NEXT GENERATION SPEAKS: WHAT YOUNG VFX ARTISTS ARE DOING DIFFERENTLY",
+      "url": "https://vfxvoice.com/the-next-generation-speaks-what-young-vfx-artists-are-doing-differently/",
+      "source": "VFX Voice",
+      "category": "movies",
+      "published_iso": "2026-10-06T16:00:32+00:00",
+      "excerpt": "How Gen Z artists are making their mark on the industry.",
+      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11.jpg"
+    },
+    {
+      "title": "Step into the director's seat with 3D Editor in Flow Studio﻿",
+      "url": "https://beforesandafters.com/2026/10/07/step-into-the-directors-seat-with-3d-editor-in-flow-studio/",
+      "source": "befores & afters",
+      "category": "movies",
+      "published_iso": "2026-10-07T09:11:03+00:00",
+      "excerpt": "Stage every scene with characters, CG worlds, and cameras you control.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/1920x1080_me_flow-studio_phase-2_meta_3d-editor-and-canvas_try-free_V2.jpg"
+    },
+    {
+      "title": "This Voice-Controlled Camera App Can Record Portrait and Landscape Video For You at the Same Time",
+      "url": "https://nofilmschool.com/shootsolo-video-camera-app",
+      "source": "No Film School",
+      "category": "movies",
+      "published_iso": "2026-10-14T18:00:04+00:00",
+      "excerpt": "Shootsolo, a voice-controlled camera app and AI filming assistant for solo filmmakers and content creators, has just expanded its already long list of features.",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=68429685&width=1200&height=600&coordinates=0%2C151%2C0%2C151"
+    },
+    {
+      "title": "Open to AI: Hollywood Is Embracing Artificial Intelligence Tools Despite Doomsday Fears",
+      "url": "https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-10-13T15:00:00+00:00",
+      "excerpt": "Despite artificial intelligence sparking doomsday fears around the world, Hollywood is slowly embracing the technology. Here's why.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/AI-Placeholder-Directors-Hollywood-Production.jpg?crop=0px%2C484px%2C1500px%2C843px&resize=1000%2C563"
+    },
+    {
+      "title": "Peacock App Launches ‘Your Bravoverse,’ Featuring a Personalized TikTok-Style Video Feed Hosted by AI-Generated Andy Cohen",
+      "url": "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-10-13T16:00:00+00:00",
+      "excerpt": "Peacock is bowing a personalized stream of clips from Bravo shows, inspired by apps like TikTok, brought to you by a chatty AI avatar of Andy Cohen.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=563&crop=1"
+    },
+    {
+      "title": "Tilly Nollywood? African Filmmakers — Ready or Not — Get Set for the AI Revolution",
+      "url": "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-10-12T18:36:57+00:00",
+      "excerpt": "While generative AI has the potential to transform filmmaking in Africa, practical challenges on the continent abound.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "title": "BBC's Kate Phillips On AI, YouTube & 'Blue Planet III'",
       "url": "https://deadline.com/2026/10/bbc-kate-phillips-on-ai-youtube-blue-planet-iii-1237155480/",
       "source": "Deadline",
       "category": "movies",
       "published_iso": "2026-10-13T10:56:08+00:00",
-      "excerpt": "At MIPCOM, BBC content chief Kate Phillips set out the broadcaster's line on AI-made content, after DG Matt Brittin said an AI-generated 'Doctor Who' episode he was sent was \"pretty good.\"",
+      "excerpt": "Her comments at MIPCOM came after DG Matt Brittin said he had been sent an AI-generated ep of 'Doctor Who' and it was \"pretty good.\"",
       "og_image": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
       "history_match": {
-        "score": 0.394,
+        "score": 0.329,
         "date": "2026-10-03",
         "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
         "title": "BBC Boss Matt Brittin Says He Was Sent A 'Doctor Who' Episode Entirely Generated By AI",
@@ -71,147 +166,59 @@
       }
     },
     {
-      "title": "ACFM Chief Ellen YD Kim Talks AI Development; Korean Recovery; Market Spotlights On Thailand & Japan",
-      "url": "https://deadline.com/2026/10/busan-acfm-ellen-yd-kim-ai-korea-thailand-japan-1237150757/",
+      "title": "BBC Staff Concerned About Matt Brittin Praise For AI 'Doctor Who'",
+      "url": "https://deadline.com/2026/10/bbc-staff-concerns-matt-brittin-ai-doctor-who-1237149848/",
       "source": "Deadline",
       "category": "movies",
-      "published_iso": "2026-10-09T23:00:00+00:00",
-      "excerpt": "The head of Busan's Asian Contents & Film Market discusses how AI development is being folded into the market alongside Korean cinema's 2026 recovery.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/10/ACFM-Ellen-Kim.jpg?w=1024"
-    },
-    {
-      "title": "Sync.Labs Intros Zero-Shot Lipsyncing for Film and Television",
-      "url": "https://postperspective.com/sync-labs-intros-zero-shot-lipsyncing-for-film-and-television/",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-10-13T15:13:41+00:00",
-      "excerpt": "Sync.Labs launched Sync.Productions, bringing its studio-grade zero-shot AI lipsync technology to film and television production for dubbing and dialogue fixes.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Sync_UI_Workstation-2.jpg"
-    },
-    {
-      "title": "Reallusion and Escape.AI Partner to Solve AI Video Bottlenecks and Expand Distribution",
-      "url": "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/",
-      "source": "befores & afters",
-      "category": "movies",
-      "published_iso": "2026-10-13T15:49:43+00:00",
-      "excerpt": "A strategic alliance connects Reallusion's 3D character/animation ecosystem with John Gaeta's Escape.AI Neo Cinema platform to tackle control bottlenecks in AI video and widen distribution.",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/key-image_RLxEscape-ai.jpg"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI",
-      "category": "movies",
-      "published_iso": "2026-10-13T12:00:00+00:00",
-      "excerpt": "Higgsfield brings creators longer videos - from one minute to over ten - with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "og_image": "",
+      "published_iso": "2026-10-08T12:46:07+00:00",
+      "excerpt": "BBC employees would like Matt Brittin to travel back in time and scrub from the record his comments about an AI-generated episode of 'Doctor Who.'",
+      "og_image": "https://deadline.com/wp-content/uploads/2025/06/525172-e1750264502579.jpg?w=1024",
       "history_match": {
-        "score": 0.176,
-        "date": "2026-10-05",
-        "url": "https://www.youtube.com/watch?v=JWEAmLHp7Sg",
-        "title": "How Much of Filmmaking Can AI Agents Actually Do?",
-        "band": "related"
+        "score": 0.478,
+        "date": "2026-10-03",
+        "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
+        "title": "BBC Boss Matt Brittin Says He Was Sent A 'Doctor Who' Episode Entirely Generated By AI",
+        "band": "likely-repeat"
       }
     },
     {
-      "title": "MIPCOM: 'Journey to the West - The Lost Five Hundred Years' First Look Revealed by Utopai & Huace",
-      "url": "https://www.animationmagazine.net/2026/10/mipcom-journey-to-the-west-the-lost-five-hundred-years-first-look-revealed-by-utopai-huace/",
-      "source": "Animation Magazine",
+      "title": "My Screen Life: Taiwanese producer Patrick Mao Huang on spotting new talent and embracing AI",
+      "url": "https://www.screendaily.com/features/my-screen-life-taiwanese-producer-patrick-mao-huang-on-spotting-new-talent-and-embracing-ai/5221306.article",
+      "source": "Screen Daily",
       "category": "movies",
-      "published_iso": "2026-10-13T20:00:14+00:00",
-      "excerpt": "Utopai Studios and Huace revealed a first look at 'Journey to the West - The Lost Five Hundred Years,' a fully AI-generated prequel series inspired by the classic Chinese novel.",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Journey-to-the-West-–-The-Lost-Five-Hundred-Years-FL-sc.png"
+      "published_iso": "2026-10-12T00:00:00Z",
+      "excerpt": "The Taiwanese film producer talk spotting up-and-coming filmmakers, learning those unwritten industry rules and the transformational impact of AI on storytelling.",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/5/8/7/1489587_patrickmaohuanginhisoffice1_536722_crop.jpg"
     },
     {
-      "title": "RevThink's Revolve Accelerator Explores What Clients Value in the Age of AI",
-      "url": "https://motionographer.com/news/revthink-revolve-accelerator-ai-creative-business/",
-      "source": "Motionographer",
+      "title": "Busan’s Asian Contents & Film Market evolves with added focus on AI and microdramas",
+      "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
+      "source": "Screen Daily",
       "category": "movies",
-      "published_iso": "2026-10-07T14:03:58+00:00",
-      "excerpt": "RevThink's six-week program for motion design studio owners, starting October 13, explores how AI changes creative expertise and what clients value.",
-      "og_image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&quality=80&ssl=1"
-    },
-    {
-      "title": "Aaron Sorkin Explains What AI Gets Wrong About Storytelling",
-      "url": "https://nofilmschool.com/aaron-sorkin-explains-ai-gets-wrong-storytelling",
-      "source": "No Film School",
-      "category": "movies",
-      "published_iso": "2026-10-06T22:30:48+00:00",
-      "excerpt": "In a wide-ranging interview, Aaron Sorkin explains where AI falls short as a storytelling and screenwriting tool.",
-      "og_image": "https://nofilmschool.com/media-library/image.webp?id=68278315&width=1200&height=600&coordinates=0%2C62%2C0%2C63"
-    },
-    {
-      "title": "The Next Generation Speaks: What Young VFX Artists Are Doing Differently",
-      "url": "https://vfxvoice.com/the-next-generation-speaks-what-young-vfx-artists-are-doing-differently/",
-      "source": "VFX Voice",
-      "category": "movies",
-      "published_iso": "2026-10-06T16:00:32+00:00",
-      "excerpt": "Gen Z VFX artists split on AI - some denounce generative AI, others tout traditional AI's efficiency - as they reshape studio workflows and careers.",
-      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11.jpg",
-      "history_match": {
-        "score": 0.151,
-        "date": "2026-10-07",
-        "url": "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/",
-        "title": "The Tools Shaping the Future of VFX",
-        "band": "related"
-      }
-    },
-    {
-      "title": "It's 'incomprehensible' that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-      "source": "The Verge",
-      "category": "movies",
-      "published_iso": "2026-10-13T16:42:51+00:00",
-      "excerpt": "Mia Goth's representatives say they filed multiple complaints with Instagram about a fan account posting AI-generated images of the actor - a fresh flashpoint over performer likeness.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&strip=all&crop=0%2C10.653918363709%2C100%2C78.692163272582&w=1200"
-    },
-    {
-      "title": "Call for Participation: USC Annenberg AI in Film and TV Survey",
-      "url": "https://www.awn.com/news/call-participation-usc-annenberg-ai-film-and-tv-survey",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-10-06T09:24:04-07:00",
-      "excerpt": "Dr. Stacy L. Smith's Inclusion Initiative asks above- and below-the-line film and TV professionals to share how they view and use AI in an anonymous survey.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/ai-clapperboard-1280.jpg?itok=QQzQTtG3"
+      "published_iso": "2026-10-10T00:00:00Z",
+      "excerpt": "ACFM runs October 10-13 at Busan's Bexco exhibition centre.",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
+      "cluster": "c2"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 15,
+    "dropped": 7,
+    "kept": 10,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
-    "same_story_pairs": []
+    "review": 6,
+    "same_story_pairs": [
+      [
+        "https://deadline.com/2026/10/worm-train-asian-directors-wrap-kling-ai-busan-1237155797/",
+        "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
+        0.301
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-09-14",
-      "title": "Kling AI’s TIFF Market Panel Illuminates Tech Challenges and Human-Led Solutions in AI Filmmaking: ‘The Script Is Still the Blueprint’",
-      "url": "https://variety.com/2026/film/asia/kling-ai-tiff-market-ai-film-panel-1236858840/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Animation Vets Joel Kuwahara & Mark Evestaff Launch 'The Salty Tales of Tony & Keith' AI-Assisted Series - Animation Magazine",
-      "url": "https://www.animationmagazine.net/2026/09/animation-vets-joel-kuwahara-mark-evestaff-launch-the-salty-tales-of-tony-keith-ai-assisted-animated-series/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Vicon Acquires Captive Devices Facial Capture Firm",
-      "url": "https://www.awn.com/news/vicon-acquires-captive-devices-facial-capture-firm"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Venice Jury President Maggie Gyllenhaal on Her Short 'Flesh Impact,' Casting Ellen Burstyn, and AI",
-      "url": "https://www.indiewire.com/features/interviews/venice-maggie-gyllenhaal-interview-flesh-impact-burstyn-ai-1235216512/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Mind The Gap selling AI Val Kilmer in 'As Deep As The Grave' at TIFF",
-      "url": "https://www.screendaily.com/news/mind-the-gap-selling-ai-val-kilmer-in-as-deep-as-the-grave-at-tiff/5220305.article"
-    },
     {
       "date": "2026-09-15",
       "title": "VFX supervisor Eran Dinur discusses the big AI and ML changes that have impacted visual effects - befores & afters",
@@ -846,6 +853,31 @@
       "date": "2026-10-13",
       "title": "You're Spending Too Much on Your AI Videos",
       "url": "https://www.youtube.com/watch?v=h4MKJAJvins"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Reallusion and Escape.AI Partner to Solve AI Video Bottlenecks and Expand Distribution",
+      "url": "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Sync.Labs Intros Zero-Shot Lipsyncing for Film and Television",
+      "url": "https://postperspective.com/sync-labs-intros-zero-shot-lipsyncing-for-film-and-television/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "How AI Is Used by Netflix at Its VFX Eyeline Studios, Revealed by VP Mohsen Mousavi at View Conference",
+      "url": "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "MIPCOM: 'Journey to the West - The Lost Five Hundred Years' First Look Revealed by Utopai & Huace",
+      "url": "https://www.animationmagazine.net/2026/10/mipcom-journey-to-the-west-the-lost-five-hundred-years-first-look-revealed-by-utopai-huace/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "It's 'incomprehensible' that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce"
     }
   ]
 }

@@ -6936,6 +6936,119 @@
           "x": "同一消息人士称，开发进度已经落后，部分原因是Epic错误估计了该游戏所需的人手和时间。Bloomberg表示，此前没有其他大型游戏公司尝试过主要依靠AI制作游戏。Disney于2024年向Epic投资15亿美元，这款射击游戏原本将是双方合作的首款游戏。"
         }
       ]
+    },
+    "games/games-shogun2-upscale": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-slop9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Total War: Shogun 2 – Complete Edition 于10月13日发售，被定位为这部2011年经典之作“更新、增强的完整版本”，目前在Steam上的评价为“Overwhelmingly Negative”，24小时内差评占82%。玩家批评其性能、漏洞、mod支持失效、画面问题，以及单位卡疑似（且未披露地）使用了AI upscaling。Sega还下架了此前的版本，并提高了售价。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-2.jpg",
+          "cap": "左为原版，右为新版"
+        },
+        {
+          "t": "p",
+          "x": "Kotaku将百科图鉴图片与原版对比：细节丢失、人物糊成一团，烟雾变成了“灯罩”，单位徽章则成了“某种art-deco风格的水母”。文章写道：“如果这不是genAI，那就无法解释了。”Creative Assembly尚未就AI使用作出回应，而该作在Steam上缺少AI声明，违反了Valve的规定。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-1.jpg"
+        }
+      ]
+    },
+    "games/games-playgama-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Playgama.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Playgama推出一套工具，覆盖用AI智能体打造的游戏的完整迭代周期。开发者直接在Claude Code或Codex中让智能体发布游戏，游戏便会直接进入Playgama Sandbox，玩家可立即游玩，智能体则返回一个可分享的实时链接。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Full-iteration-loop-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "该平台会追踪游戏时长、性能和留存，以及自定义事件。智能体通过MCP获取这些数据，找出玩家流失的环节，进行修改并上传新构建。反响好的游戏会转到playgama.com，面向15+ 个instant-play（即点即玩）平台上的450M+ 名潜在玩家。"
+        },
+        {
+          "t": "p",
+          "x": "创始人Dmitry Kachmar表示：“下一个机会在于帮助智能体就第二、第三乃至第十个版本做出更好的决策。”"
+        }
+      ]
+    },
+    "games/games-links-awakening-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zKaVYn62cAmA7wbgV4Krjc-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nintendo Switch版The Legend of Zelda: Link's Awakening重制版的一款粉丝自制（fan-made）重编译PC移植已在网上出现，其制作“几乎完全使用了AI”。AI已在重编译圈子中蔓延，出现了Banjo Tooie、Mario Kart Wii和Donkey Kong 64等vibe-coded（氛围编程）项目。"
+        },
+        {
+          "t": "p",
+          "x": "开发者Peiikai在Reddit帖子中表示，这个静态重编译移植“坦白说几乎完全是用AI做的”。他承认“使用AI有争议”，但“这样的东西远超我的能力范围，没有AI根本不可能实现”，并表示自己正在尽可能“负责任地引导它”。"
+        },
+        {
+          "t": "p",
+          "x": "该移植需要玩家自备游戏镜像，但GamesRadar+指出，Nintendo一直坚定地针对Switch模拟器。想在PC上玩到不含AI的版本，可以试试Link's Awakening DX HD。"
+        }
+      ]
+    },
+    "games/games-dawnwalker-actor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "在The Blood of Dawnwalker英文版中饰演Coen的Will de Renzy-Martin，在My Perfect Console Podcast的TikTok预告片中说：“我认为我的工作中最无趣的部分，就是我的声音听起来怎样。”他说：“生成式AI真正能复制的也就只有这个。”"
+        },
+        {
+          "t": "p",
+          "x": "“它复制不了我的个性、我在现场所做的事情和我做出的选择……也许有些导演和制片人不想做那些事[而想用AI]，但那样他们就得非常擅长从某种东西里引出表演——他们得有自己的想法。”"
+        },
+        {
+          "t": "p",
+          "x": "开发商Rebel Wolves在聘请演员之前，曾用text-to-speech（文本转语音）AI工具来规划过场动画；Eurogamer指出，游戏中没有任何内容是用AI制作的。相比之下，Embark Studios在The Finals和Arc Raiders中使用了AI-generated（AI生成）的语音台词。"
+        }
+      ]
+    },
+    "games/games-xbox-labs-ai-ports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft正在组建新的Xbox Labs团队，研究迅速兴起的反编译与重编译游戏模组，其中许多借助AI模型帮助模组作者改编游戏。已有Windows PC版本被转换到Apple Silicon上运行，或被移植到浏览器中运行，还有人通过模组把滑板玩法加进了Call of Duty。"
+        },
+        {
+          "t": "p",
+          "x": "Xbox CEO Asha Sharma称，Xbox Labs是“一个由游戏制作者、工程师和科学家组成的小团队，职责是把新兴想法变成玩家和开发者能够体验的东西”。“我们会公开构建，从人们的行为中学习，并以是否有更多人在玩、在创作来衡量成功。”"
+        },
+        {
+          "t": "p",
+          "x": "“编程之所以成为智能体的第一个主要工作负载，是因为它们能编写、运行和测试软件。游戏也具备许多相同的特性，人们每年玩XBOX游戏的时间超过720亿小时，约为全球估计编程时间的五倍，”Sharma说。Xbox将与开发者分享相关工具和经验。"
+        },
+        {
+          "t": "p",
+          "x": "更大的问题是，对于模组作者拿走其IP并免费公开的反编译和重编译，Microsoft将如何应对。截至发稿，Microsoft未回应有关未经授权使用IP的置评请求。"
+        }
+      ]
     }
   }
 }

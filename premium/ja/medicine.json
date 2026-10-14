@@ -847,6 +847,129 @@
           "x": "著者らは、今回の結果が実際の受診行動や診断の遅れ、臨床転帰への効果を示すものではないと指摘している。"
         }
       ]
+    },
+    "medicine/medicine-brown-fat-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "人工知能(Artificial intelligence)を用いた褐色脂肪組織(BAT)活性の定量と解析により、BATがより健康な代謝プロファイルおよび精神疾患の低い発生率と関連することが明らかになった。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは、Memorial Sloan Kettering Cancer Centerで臨床目的に撮影された18F-FDG-PET–CTスキャンのコホートを101,243人(うち8,897人がBAT陽性)に拡大し、すべての診断コードにわたって関連を解析した。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "機械学習の手法(TriDFusion)により、8,709人の全体および部位別のBAT代謝活性を半自動で測定した。BAT活性が高いほど、2型糖尿病、心房細動、冠動脈疾患、うっ血性心不全が段階的に減少し、年齢、BMI、性別、外気温を調整した後もこの関連は残った。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "BATがあることは、不安やうつ病の有病率の低さとも関連していた。薬剤解析ではアンジオテンシン受容体拮抗薬の使用がBATの存在と結びつき、概念実証実験ではロサルタン(losartan)がPPARγ-dependent(PPARγ依存的)な機序で褐色脂肪細胞を活性化することが確認された。この手法が、BATを活性化するために転用できる薬剤を特定できることを示している。"
+        }
+      ]
+    },
+    "medicine/medicine-bradford-skin-cancer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+          "cap": "人工知能が疑わしい皮膚病変の画像を数分で解析する"
+        },
+        {
+          "t": "p",
+          "x": "人工知能(AI)で皮膚がんをより早く発見しているNHSのクリニックのスタッフは、この技術が「ゲームチェンジャー」になり得ると語った。BradfordのSt Luke's Hospitalの皮膚科チームは四月にこのシステムを導入し、各セッションで診られる患者は以前の24人から32人に増えた。"
+        },
+        {
+          "t": "p",
+          "x": "このシステムDERM(Deep Ensemble for the Recognition of Malignancy)はSkin Analytics製で、同社はメラノーマを除外する精度が99.9%だとしている。医療助手が病変の写真を三枚撮影すると、システムが数分で解析し、良性の場合は助言とともに帰宅させ、疑わしい場合は専門医に紹介する。"
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+          "cap": "病院トラストによると、人工知能のおかげでスタッフはクリニックで三分の一多くの患者を診られるようになった"
+        },
+        {
+          "t": "p",
+          "x": "すべての画像は臨床医が二重にチェックする。トラストによると、不要な生検は約10%減った。形成外科顧問医のZakir Shariffは、待ち時間に「大きな影響」があったと述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+          "cap": "形成外科医のZakir Shariffは、AIが待ち時間に大きな影響を与えたと語った"
+        },
+        {
+          "t": "p",
+          "x": "NICEは、エビデンスを収集する今後三年間、NHSでこの技術を使用することを推奨した。現在40のNHSトラストで導入されており、BradfordはYorkshireで最初に採用した。"
+        }
+      ]
+    },
+    "medicine/medicine-ehr-ai-transparency": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究者らは、AI-enabledの予測型意思決定支援介入に関する連邦の透明性要件を、電子健康記録(EHR)開発企業が遵守しているかを評価した。開発企業は、リスク分析、リスク軽減、ガバナンスに加え、その他八つの属性について公開報告することが求められている。"
+        },
+        {
+          "t": "p",
+          "x": "35社の報告は一貫性がなく、不完全なことが多く、構成や詳細さにも大きなばらつきがあったが、全社が要件を満たすと認証されていた。結果は、報告の標準化とより厳格な認証審査の必要性を示唆している。"
+        }
+      ]
+    },
+    "medicine/medicine-state-ai-lobbying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "医師や病院の有力ロビー団体、ある医療保険会社、テクノロジー企業、州政府の代表者が十月上旬にWashington, D.C.で非公開の会合を開き、医療現場における人工知能の規制方法に関する指針づくりを進めた。"
+        },
+        {
+          "t": "p",
+          "x": "American Medical Association(米国医師会)、American Hospital Association(米国病院協会)、AI企業のAnthropic、保険会社Elevance Healthの幹部が、Federation of State Medical Boards(FSMB、州医事委員会連合)が招集した22人規模(22-member)のAIワーキンググループに参加している。その提言は正式採択の前に意見募集にかけられる。"
+        },
+        {
+          "t": "p",
+          "x": "目標は地域の医事委員会を支援する指針の草案づくりで、「医師による直接の監督が限られる、あるいはまったくない状態で臨床機能を果たすAIツールに…特に注意を払う」と、FSMB会長兼CEOのHumayun ChaudhryはSTATに語った。草案は「数週間から数か月」で公開される可能性があり、最終的に州法の基礎となり得る。"
+        },
+        {
+          "t": "p",
+          "x": "AMA、医事委員会、ある保守系シンクタンクが、自律型臨床AIの規制のあり方の主導権をめぐって競り合っている。記事の続きはSTAT+購読者向けである。"
+        }
+      ]
+    },
+    "medicine/medicine-uk-nhs-ai-commission-blueprint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+        },
+        {
+          "t": "p",
+          "x": "政府は本日2026年10月6日、9月10日に公表された「医療AI規制に関する国家委員会」の勧告44項目をすべて受け入れると確認した。あわせてMHRAは、AI-enabled医療機器向けの規制サンドボックスであるAI Airlockの第三段階の応募受付を始めた。"
+        },
+        {
+          "t": "p",
+          "x": "委員会の中心的な結論は、AI-enabled医療機器を一度きりの評価に頼りすぎず、使用期間を通じて評価・監視すべきだというものだった。政府が三年間の追加資金を出すAI Airlock Phase 3は、市販後調査とライフサイクル規制に重点を置く。"
+        },
+        {
+          "t": "p",
+          "x": "MHRAは2026年12月までに、時間とともに変化するAI-enabled機器の変更管理に関するガイダンス案を出し、来年にはその適格性判断と分類について意見を募る。このほか、有望なAIツールを厳格な監督の下でNHSにより早く導入できる段階的な承認経路も約束に含まれる。実施ロードマップの全体は2027年春までに公表される。"
+        },
+        {
+          "t": "p",
+          "x": "MHRAのLawrence Tallon最高経営責任者は、NHSの医師が率いた委員会が「明確で野心的な青写真を示してくれた」と述べた。応募者向けウェビナーは10月22日に開かれ、最初のイノベーター群は2026年11月に選ばれる。"
+        }
+      ]
     }
   }
 }

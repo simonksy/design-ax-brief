@@ -1,74 +1,46 @@
 {
-  "date": "2026-10-14",
   "section": "books",
-  "now_iso": "2026-10-13T22:03:28Z",
+  "now_iso": "2026-10-14T22:00:44Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Quebec author accused of using AI admits past plagiarism but maintains novel is his own work",
-      "url": "https://www.cbc.ca/news/canada/montreal/thelyson-orelien-denies-ai-debut-novel-9.7378740",
-      "source": "CBC News",
+      "title": "Is It or Isn’t It? How Generative AI is Poisoning the Literary Well For Everyone",
+      "url": "https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/",
+      "source": "Literary Hub",
       "category": "books",
-      "published_iso": "2026-10-13T17:03:56Z",
-      "excerpt": "Thélyson Orélien, whose novel was dropped from the Goncourt selection after a Pangram AI-detector flagged it, publicly denies using AI to write it while admitting to plagiarism in earlier columns — a new turn in the AI-detection-vs-author dispute.",
-      "og_image": "https://i.cbc.ca/ais/1724be73-15e5-4772-b582-be5ba4d1b1ed,1791909477883/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C7488%2C4212%29%3BResize%3D620",
+      "published_iso": "2026-10-14T09:10:55+00:00",
+      "excerpt": "Vauhini Vara, who has for years been investigating the impact of AI on writing, published a piece in The Atlantic over the weekend that suggested it was probable that “The Blue Fighter,”…",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-detection.jpg"
+    },
+    {
+      "title": "Guest Post – Artificial Intelligence in Scholarly Publishing: Are We Moving Faster Than the Evidence? - The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-10-14T09:30:19+00:00",
+      "excerpt": "Today's guest blogger reflects on why the next phase of AI adoption needs more evaluation, collaboration, and human judgment.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg",
       "history_match": {
-        "score": 0.311,
-        "date": "2026-09-24",
-        "url": "https://www.thebookseller.com/news/canadian-author-thelyson-orelien-accused-of-using-ai-to-write-award-winning-novel",
-        "title": "Canadian author Thélyson Orélien accused of using AI to write award-winning novel",
+        "score": 0.174,
+        "date": "2026-09-25",
+        "url": "https://scholarlykitchen.sspnet.org/2026/09/15/guest-post-peer-review-triage-deciding-whats-worth-saving/",
+        "title": "Guest Post — Peer Review Triage: Deciding What’s Worth Saving",
         "band": "related"
       }
     },
     {
-      "title": "How much AI is in Spain's bestselling books?",
-      "url": "https://english.elpais.com/technology/2026-10-13/how-much-ai-is-in-spains-bestselling-books.html",
-      "source": "EL PAÍS English",
+      "title": "Global creative bodies launch ethical AI charter ‘in the vacuum of government policy’",
+      "url": "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-10-13T11:46:31+02:00",
-      "excerpt": "EL PAÍS ran 175 popular titles through the Pangram detector: no trace of AI in 2019, but now one in three self-published bestsellers is written mostly with AI, including a top-charting book by politician Alvise Pérez.",
-      "og_image": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200"
-    },
-    {
-      "title": "AI companies' book hunt sparks copyright concerns in Türkiye's publishing industry",
-      "url": "https://www.turkiyetoday.com/business/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182",
-      "source": "Türkiye Today",
-      "category": "books",
-      "published_iso": "2026-10-13T09:08:24+03:00",
-      "excerpt": "Turkish publishers warn that AI companies buying and scanning printed books without permission threatens copyright, while some see a potential new licensing revenue stream.",
-      "og_image": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
-    },
-    {
-      "title": "Publishers urged to join appeal for greater AI transparency",
-      "url": "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/",
-      "source": "Chytomo",
-      "category": "books",
-      "published_iso": "2026-10-12T17:55:20+00:00",
-      "excerpt": "More than 150 publishers and organizations back the Frankfurt Appeal from the German Publishers and Booksellers Association, demanding that the EU and Germany require AI developers to disclose the works used to train their models.",
-      "og_image": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
-    },
-    {
-      "title": "Opening of the 2026 Frankfurt Book Fair: Czech culture minister booed, solidarity with Ukraine, and AI copyright concerns",
-      "url": "https://chytomo.com/en/opening-of-the-2026-frankfurt-book-fair-czech-culture-minister-booed-solidarity-with-ukraine-and-ai-copyright-concerns/",
-      "source": "Chytomo",
-      "category": "books",
-      "published_iso": "2026-10-07T08:02:12+00:00",
-      "excerpt": "The grand opening ceremony of the 2026 Frankfurt Book Fair was held on Oct. 6 at the Congress Center Messe Frankfurt, with Czechia as this year’s guest of honor.",
-      "og_image": "https://chytomo.com/wp-content/uploads/2026/10/photo_2026-10-06_18-09-19.jpg"
-    },
-    {
-      "title": "Book Distributor Giant Nippan Sells Books to U.S. AI Developer Anthropic, Japan Book Publishers Association Requests Stoppage",
-      "url": "https://japannews.yomiuri.co.jp/society/general-news/20261007-352595/",
-      "source": "The Japan News (Yomiuri)",
-      "category": "books",
-      "published_iso": "2026-10-07T14:43:48+09:00",
-      "excerpt": "A Nippan subsidiary sold Japanese books to Anthropic between Dec 2024 and Dec 2025 without notifying publishers, likely for its book-scanning AI training project; the Japan Book Publishers Association has demanded the sales stop.",
-      "og_image": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+      "published_iso": "2026-10-13T15:00:00Z",
+      "excerpt": "The Society of Authors launched a global, ethical AI charter at the Creators Emergency Summit in London on 13th October, aimed at “defining how generative AI services should be deployed to help protect and support human creators”.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
       "history_match": {
-        "score": 0.151,
-        "date": "2026-10-01",
-        "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
-        "title": "Authors Guild Calls on Publishers to Share Anthropic Wealth",
+        "score": 0.227,
+        "date": "2026-09-22",
+        "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340859/industry-bodies-criticise-governments-opt-out-ai-proposals/",
+        "title": "Industry bodies criticise government's \"opt-out\" AI proposals",
         "band": "related"
       }
     },
@@ -78,37 +50,162 @@
       "source": "The Bookseller",
       "category": "books",
       "published_iso": "2026-10-08T07:45:00Z",
-      "excerpt": "Copy editor Adnan Algın argues that using AI too early in the editorial process can suppress an editor's vital but indefinable first-read instincts on a manuscript.",
+      "excerpt": "Used too early, AI can suppress the editor's vital but indefinable early instincts, writes copy editor Adnan Algın.",
       "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Book_editor_c_Shutterstock_Main.jpg"
     },
     {
-      "title": "Frankfurt Book Fair 2026: English language exports, AI and travel chaos lead conversations",
-      "url": "https://www.thebookseller.com/news/english-language-exports-ai-and-travel-chaos-lead-fbf-2026-conversations",
-      "source": "The Bookseller",
+      "title": "Australian Publishers Association raises concerns over AI committee recommendations",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/10/14/342401/australian-publishers-association-raises-concerns-over-ai-committee-recommendations/",
+      "source": "Books+Publishing",
       "category": "books",
-      "published_iso": "2026-10-09T15:00:00Z",
-      "excerpt": "English-language exports, the industry-wide impact of AI, missed meetings caused by “travel chaos” and hall configuration were all hotly debated at this year’s Frankfurt Book Fair.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/680/Sven-Regener-Literaturbuhne-FBM26-3.jpg"
+      "published_iso": "2026-10-14T02:46:00Z",
+      "excerpt": "The Australian Publishers Association has raised concerns over recommendations made by an AI committee. (Paywalled; body not available, headline and date from the outlet feed and page.)",
+      "og_image": "https://www.booksandpublishing.com.au/wp-content/uploads/2026/10/APA-logo-stacked-400x368.jpg",
+      "history_match": {
+        "score": 0.175,
+        "date": "2026-09-22",
+        "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340859/industry-bodies-criticise-governments-opt-out-ai-proposals/",
+        "title": "Industry bodies criticise government's \"opt-out\" AI proposals",
+        "band": "related"
+      }
     },
     {
-      "title": "Frankfurter Buchmesse 2026: Audible-Commissioned Survey Finds Audio Sends Readers Back to Print; Half Would Try AI Narration",
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/",
-      "source": "Publishing Perspectives",
+      "title": "Spotify Audiobooks Go to 180 Markets, With AI Narration",
+      "url": "https://www.voiceoverherald.com/spotify-audiobooks-180-markets-ai-narration/",
+      "source": "Voice Over Herald",
       "category": "books",
-      "published_iso": "2026-10-09T09:01:08+00:00",
-      "excerpt": "An Audible-commissioned NielsenIQ survey across 11 markets finds audiobooks pull listeners toward print and e-books, and that about half of listeners would be open to AI-narrated titles.",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+      "published_iso": "2026-10-08T13:05:00+00:00",
+      "excerpt": "Spotify audiobooks reach Mexico, Colombia, Spain and Italy, with 180 markets by December. Its pitch for small languages is AI narration.",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/10/hero-12.jpg",
+      "history_match": {
+        "score": 0.407,
+        "date": "2026-10-11",
+        "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
+        "title": "Frankfurt Book Fair 2026: Spotify Expands Audiobooks to 180 Markets",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "Audiobooks with multiple voices for dialog, using human actors or cloned with ElevenLabs by Allan Tépper",
+      "url": "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/",
+      "source": "ProVideo Coalition",
+      "category": "books",
+      "published_iso": "2026-10-14T06:19:30-07:00",
+      "excerpt": "Allan Tépper walks through producing a multi-voice audiobook with distinct voices per character, comparing human voice actors with ElevenLabs voice clones for dialogue.",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato-hero.jpg"
+    },
+    {
+      "title": "AI’s Improved Accuracy Squeezes Translation Industry in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02913/",
+      "source": "nippon.com",
+      "category": "books",
+      "published_iso": "2026-10-14T06:00:07+0900",
+      "excerpt": "The uptake of translation powered by generative AI has led to falling sales at translation companies in Japan.",
+      "og_image": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+    },
+    {
+      "title": "[단독] AI, 새책도 노리나…교보문고에 들어온 ‘10만권’ 주문",
+      "url": "https://www.joongang.co.kr/article/25469854",
+      "source": "중앙일보",
+      "category": "books",
+      "published_iso": "2026-10-15T05:00:00+09:00",
+      "excerpt": "국내 최대 서점인 교보문고에 인공지능(AI) 학습용으로 의심되는 대량 도서 주문이 들어온 것으로 14일 확인됐다. 앞서 AI 기업이 배후에서 주도하는 것으로 의심되는 헌책 대량 매입 시도가 확인된 데 이어 새책 주문 사례도 발견된 것이다. 이날 교보문고에 따르면, 교보…",
+      "og_image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+      "history_match": {
+        "score": 0.174,
+        "date": "2026-10-12",
+        "url": "https://www.joongang.co.kr/article/25468823",
+        "title": "[단독] “단호히 거부” 출판협회, 헌책 매집 조사…헌책방은 “팔겠다”",
+        "band": "related"
+      }
+    },
+    {
+      "title": "멘탯, AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리' 출시",
+      "url": "https://www.vtimes.kr/news/articleView.html?idxno=56168",
+      "source": "벤처타임즈",
+      "category": "books",
+      "published_iso": "2026-10-13T09:00:00+09:00",
+      "excerpt": "책과 AI를 잇는 도서 라이선싱 플랫폼 멘탯(Mentat, 대표 전병욱)이 AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리(Mentat Discovery Console)’를 출시했다고 13일(화) 밝혔다.멘탯은 출판사와 AI 기업을 연결해 도서 콘텐츠의 AI 학습·인용을 지원하는 도서 라이선싱 플랫폼이다. 2025년 설립 이후 국내 출판사 90여 곳과 라이선스 계약을 체결했으며, 계약 대상 도서는 약 3만 4,000종에 달한다.멘탯 디스커버리는 AI 기업이 도서 데이터를 찾고, 평가하고, 필요한 구성으로 묶어 계약까지",
+      "og_image": "http://www.vtimes.kr/news/thumbnail/202610/56168_32905_5726_v150.jpg",
+      "history_match": {
+        "score": 0.211,
+        "date": "2026-09-30",
+        "url": "https://www.kyosu.net/news/articleView.html?idxno=210681",
+        "title": "\"AI가 내 책을 얼마나 인용했는지 눈으로 확인한다\" - 멘탯 전병욱 대표",
+        "band": "related"
+      }
+    },
+    {
+      "title": "\"웹툰 주인공과 대화한다\"… 레진, AI 캐릭터챗 '티즈' 19일 출시",
+      "url": "https://www.hankyung.com/article/202610139344i",
+      "source": "한국경제",
+      "category": "books",
+      "published_iso": "2026-10-13T18:41:41+09:00",
+      "excerpt": "레진엔터테인먼트가 공식 웹툰 IP 기반 AI 캐릭터챗 서비스 '티즈(Teaz)'를 19일 출시한다. 독자가 웹툰 주인공과 직접 대화할 수 있다.",
+      "og_image": "https://img.hankyung.com/photo/202610/01.46038379.1.png"
+    },
+    {
+      "title": "웹툰·웹소설을 AI 애니로…카카오픽코마 '탈웹툰' 승부수",
+      "url": "https://www.news1.kr/it-science/internet-platform/6320039",
+      "source": "뉴스1",
+      "category": "books",
+      "published_iso": "2026-10-14T17:01:52+09:00",
+      "excerpt": "[카카오 대전환]⑥끝-올해 AI 애니메이션 80편 공급 추진 'BL' 장르 특화 서비스·굿즈 사업도 확대 카카오픽코마가 인공지능(AI)으로 제작한 애니메이션을 새로운 성장동력으로 육성한다. 기존 웹툰·전자만화 열람 중심의 사업구조에서 벗어나 영상과 굿즈 등으로 콘텐츠 …",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/10/14/8158907/high.jpg"
+    },
+    {
+      "title": "Someone used AI to create a book about me and sold it online",
+      "url": "https://www.abc.net.au/news/2026-10-10/cam-wilson-ai-book-copyright-laws/107220714",
+      "source": "ABC News (Australia)",
+      "category": "books",
+      "published_iso": "2026-10-09T19:19:32+00:00",
+      "excerpt": "Cam Wilson, who is the ABC's AI reporter, recently discovered an AI-generated book about him and a book he wrote.",
+      "og_image": "https://live-production.wcms.abc-cdn.net.au/07f8f49997ec429f14d6724b08860311?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=21&width=862&height=485&imformat=generic"
+    },
+    {
+      "title": "유명 연예인이나 성우 목소리로 들었는데···듣는 소설, 오디오북도 이제 ‘AI 성우’ 시대?",
+      "url": "https://www.khan.co.kr/article/202610070600081",
+      "source": "경향신문",
+      "category": "books",
+      "published_iso": "2026-10-07T06:00:00+09:00",
+      "excerpt": "집필, 번역, 표지 제작 등 출판의 다양한 분야에 인공지능(AI) 기술이 사용되고 있는 가운데 오디오북 시장에도 AI의 사용이 확대되고 있다. 교보문고 온라인 사이트에서 ‘오디오북’을 검색하고 인기순으로 정렬하면 첫 페이지에서 AI가 사용된 오디오북을 쉽게 찾을 수 있다. 종이책에 저자와 번역자 정보를 표시하는 것처럼 오디오북도 낭독자 정보를 공개한다...",
+      "og_image": "https://img.khan.co.kr/news/2026/10/07/news-p.v1.20261006.37412bd29d3543378eeca8080f0f85aa_P1.jpg"
+    },
+    {
+      "title": "As AI enters literature, human authors seek stamp of authenticity",
+      "url": "https://www.dailysabah.com/arts/as-ai-enters-literature-human-authors-seek-stamp-of-authenticity/news",
+      "source": "Daily Sabah",
+      "category": "books",
+      "published_iso": "2026-10-11T10:49:00+03:00",
+      "excerpt": "Initiatives to label books as written by humans, and not artificial intelligence, are gaining ground following a string of scandals where authors were...",
+      "og_image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/11/thumbs/1200x675/464990.jpg",
+      "history_match": {
+        "score": 0.16,
+        "date": "2026-10-08",
+        "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+        "title": "Your Next Great Read Might Be Certified ‘Organic’",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI is creating a 'human premium' for art created by people",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "source": "BBC",
+      "category": "books",
+      "published_iso": "2026-10-10T23:18:16.718Z",
+      "excerpt": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
+      "og_image": "https://ichef.bbci.co.uk/news/1024/branded_news/6fb8/live/8086eea0-c3cb-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "title": "Publishers Hit the AI Jackpot",
       "url": "https://www.vulture.com/article/publishers-hit-the-ai-jackpot.html",
       "source": "Vulture",
       "category": "books",
-      "published_iso": "2026-10-01T05:00:13-04:00",
-      "excerpt": "Publishers stand to gain the most from Anthropic's $1.5 billion copyright settlement over pirated books — and many writers aren't happy about how the money is being split.",
+      "published_iso": "2026-10-01T05:00:13.175-04:00",
+      "excerpt": "The industry stands to gain the most from Anthropic’s $1.5 billion copyright settlement. Many writers aren’t happy about it.",
       "og_image": "https://pyxis.nymag.com/v1/imgs/8cd/d6f/6d22ede002de957054e800645eb62bb14c-anthropic-lede.1x.rsocial.w1200.jpg",
       "history_match": {
-        "score": 0.154,
+        "score": 0.156,
         "date": "2026-10-01",
         "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
         "title": "Authors Guild Calls on Publishers to Share Anthropic Wealth",
@@ -116,86 +213,45 @@
       }
     },
     {
-      "title": "Google launched Expert Intelligence on Google Play Books",
-      "url": "https://goodereader.com/blog/e-book-news/google-launched-expert-intelligence-on-google-play-books",
+      "title": "Audible Will Launch New Features to Bring Listeners Into the Story",
+      "url": "https://goodereader.com/blog/amazon-news/audible-will-launch-new-features-to-bring-listeners-into-the-story",
       "source": "Good e-Reader",
       "category": "books",
-      "published_iso": "2026-10-10T05:38:09+00:00",
-      "excerpt": "Google's Expert Intelligence is now live in Play Books with 100,000+ licensed titles; a Gemini/NotebookLM integration lets readers generate quizzes, infographics and Audio Overviews from books combined with their own notes.",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp",
+      "published_iso": "2026-10-12T00:21:34+00:00",
+      "excerpt": "Audible is taking a leap into immersive experiences, allowing listeners to dive deeper into character journeys, gain unique insights into stories, and even step into the narrative themselves.",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/11201922/Audible_AI-Editions_Newsroom_1060x728_1__1_.png",
       "history_match": {
-        "score": 0.365,
-        "date": "2026-09-15",
-        "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles",
-        "title": "Google launches Expert Intelligence with more than 100k publisher titles",
+        "score": 0.287,
+        "date": "2026-10-02",
+        "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+        "title": "Audible's new features let you explore book worlds — and use AI to talk to characters",
         "band": "related"
       }
-    },
-    {
-      "title": "How to Listen to Kindle Books With CastReader",
-      "url": "https://goodereader.com/blog/e-book-news/how-to-listen-to-kindle-books-with-castreader",
-      "source": "Good e-Reader",
-      "category": "books",
-      "published_iso": "2026-10-07T16:49:55+00:00",
-      "excerpt": "A hands-on guide to CastReader, which reads Kindle books aloud with cloud AI voices and offers an 'AI Explain' feature for unfamiliar passages, via the phone app or Kindle Cloud Reader.",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/07124918/Kindle_Listening_Routes.png"
-    },
-    {
-      "title": "S&S Re-Ups with H.M. Wolfe in Seven-Figure Deal",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/101518-s-s-re-ups-with-h-m-wolfe-in-seven-figure-deal.html",
-      "source": "Publishers Weekly",
-      "category": "books",
-      "published_iso": "2026-10-13T00:00:00-04:00",
-      "excerpt": "Simon & Schuster signs a seven-figure romantasy duology deal with H.M. Wolfe, months after The Atlantic cited a Pangram detector reading of 60% AI to claim her hit Daggermouth was AI-assisted.",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132156-1.PNG"
-    },
-    {
-      "title": "New detector spots AI-generated work by examining ideas, not words",
-      "url": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
-      "source": "Tech Xplore",
-      "category": "books",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "excerpt": "IdeaLens, from UMD, Google DeepMind and Simon Fraser researchers, flags AI writing by analyzing underlying ideas rather than style, catching 91% of fully AI-written documents with 0.6% false alarms — but it is uneven on mixed human-AI texts.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 4,
+    "dropped": [
+      {
+        "url": "https://brittlepaper.com/2026/10/simbarashe-steyn-kundizeza-winner-of-the-2026-caine-prize-releases-statement-on-the-atlantics-ai-allegations-about-the-blue-fighter/",
+        "title": "Simbarashe Steyn Kundizeza, Winner of the 2026 Caine Prize, Releases Statement on The Atlantic’s AI Allegations About “The Blue Fighter”",
+        "match": {
+          "score": 0.516,
+          "date": "2026-10-13",
+          "url": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
+          "title": "Caine Prize initiates ‘human-centred process’ after Zimbabwean winner accused of AI use"
+        }
+      }
+    ],
+    "review": 9,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-14",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "An AI Company That Picks Up the Phone: PW Talks with Hannah Johnson",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101219-an-ai-company-that-picks-up-the-phone-pw-talks-with-hannah-johnson.html"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Springer Nature launches framework on use of artificial intelligence",
-      "url": "https://www.researchinformation.info/news/springer-nature-launches-framework-on-use-of-artificial-intelligence/"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "AI is a real threat to illustrators, and the government must act",
-      "url": "https://www.thebookseller.com/comment/ai-illustrators-threat-government-act-axel-scheffler"
-    },
     {
       "date": "2026-09-15",
       "title": "학습 데이터 소송에서 미국 정부가 AI 편에 서다 미국 정부가 출판사·저자 소송에서 AI 개발을 묶어선 안 된다는 의견서를 냈다.",
@@ -830,6 +886,31 @@
       "date": "2026-10-13",
       "title": "Caine Prize initiates ‘human-centred process’ after Zimbabwean winner accused of AI use",
       "url": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Publishers urged to join appeal for greater AI transparency",
+      "url": "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "How much AI is in Spain's bestselling books?",
+      "url": "https://english.elpais.com/technology/2026-10-13/how-much-ai-is-in-spains-bestselling-books.html"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Book Distributor Giant Nippan Sells Books to U.S. AI Developer Anthropic, Japan Book Publishers Association Requests Stoppage",
+      "url": "https://japannews.yomiuri.co.jp/society/general-news/20261007-352595/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Frankfurter Buchmesse 2026: Audible-Commissioned Survey Finds Audio Sends Readers Back to Print; Half Would Try AI Narration",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "AI companies' book hunt sparks copyright concerns in Türkiye's publishing industry",
+      "url": "https://www.turkiyetoday.com/business/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182"
     }
   ]
 }

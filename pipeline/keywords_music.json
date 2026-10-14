@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "music",
   "rotation": "none (unattended override: full music pool core + keywords, grouped several per query; no WebSearch used in planning)",
   "seeds": [],
@@ -8,9 +8,10 @@
     "Suno as 'the new auto-tune' / masked TikTok artists Kilo Kent, Zemi (Dazed) - skip",
     "DistroKid takedowns after UMG 'AI-slop pipeline' lawsuit (The Verge) - skip unless new filing/ruling",
     "Google SynthID public detector incl. Lyria audio (TechCrunch, 2026-10-07) - skip unless new development",
-    "RIAA CEO on AI deepfakes / NO FAKES (Billboard) - skip unless new filing/vote"
+    "RIAA CEO on AI deepfakes / NO FAKES (Billboard) - skip unless new filing/vote",
+    "Music cards published 2026-10-14 (news_data.json sections.music.today) - dedup against the ledger before picking"
   ],
-  "plan_notes": "Window: 14 days (2026-09-30 .. 2026-10-14); verify each item's published time on the page. Lead with outlet RSS / sitemap_news.xml feeds for recency (musicradar, musictech, cdm.link, music-ally, musicbusinessworldwide, hypebot, completemusicupdate, synthtopia, gearnews, bedroomproducersblog, billboard, theverge, techcrunch, engadget) and filter entries against the working keywords below; WebSearch tends to return evergreen pages, so use it only to fill gaps for keywords the feeds did not cover. AI must be what makes the story (drop if deleting 'AI' from the headline leaves a normal music story). Prefer releases, features, workflow shifts for producers/artists, licensing deals and rulings. Avoid re-picking recently_covered stories unless there is a new decision, filing or release. Write candidates under the 'items' key.",
+  "plan_notes": "Window: 14 days (2026-10-01 .. 2026-10-15); verify each item's published time on the page. Lead with outlet RSS / sitemap_news.xml feeds for recency (musicradar, musictech, cdm.link, music-ally, musicbusinessworldwide, hypebot, completemusicupdate, synthtopia, gearnews, bedroomproducersblog, billboard, theverge, techcrunch, engadget) and filter entries against the working keywords below; WebSearch tends to return evergreen pages, so use it only to fill gaps for keywords the feeds did not cover. AI must be what makes the story (drop if deleting 'AI' from the headline leaves a normal music story). Prefer releases, features, workflow shifts for producers/artists, licensing deals and rulings. Avoid re-picking recently_covered stories or anything already in the ledger unless there is a new decision, filing or release. Write candidates under the 'items' key.",
   "working_keywords": [
     "AI music",
     "AI 음악",
@@ -41,12 +42,12 @@
     "AI music video"
   ],
   "expansions": {
-    "AI music": ["AI-generated song", "AI artist", "AI music streaming", "AI tracks on streaming platforms"],
-    "AI 음악": ["AI 작곡", "생성형 AI 음원", "AI 가수", "AI 음악 저작권"],
+    "AI music": ["AI-generated song", "AI artist chart", "AI music streaming", "AI tracks on streaming platforms"],
+    "AI 음악": ["AI 작곡", "생성형 AI 음원", "AI 가수", "AI 음악 저작권", "한음저협 AI"],
     "generative music": ["generative audio model", "adaptive soundtrack", "AI ambient music"],
     "AI music generation": ["music generation model", "song generator", "AI music app", "social AI song feature"],
     "Suno": ["Suno v5", "Suno Studio", "Suno Warner Music deal", "Suno lawsuit"],
-    "Udio": ["Udio UMG partnership", "Udio platform launch", "Udio download"],
+    "Udio": ["Udio UMG partnership", "Udio platform launch", "Udio walled garden"],
     "Stable Audio": ["Stability AI Stable Audio", "Stable Audio Open", "Stability AI music partnership"],
     "ElevenLabs Music": ["Eleven Music", "ElevenLabs music model", "ElevenLabs licensed music"],
     "Google Lyria": ["Lyria RealTime", "Lyria 2", "ProducerAI", "YouTube Dream Track", "SynthID audio"],

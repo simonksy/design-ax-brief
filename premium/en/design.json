@@ -7934,6 +7934,153 @@
           "x": "World Creator 4 is due for release in November 2026. BiteTheBytes hasn’t announced any price changes."
         }
       ]
+    },
+    "design/design-spectral-labs-ai-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Spectral Labs claims to have built the first AI system to achieve an industry standard CAD certification for mechanical engineers. The company reports that its agent has passed the Solidworks Professional exam – autonomously building, modifying and assembling parts and mechanisms, completing the exam in less than three hours."
+        },
+        {
+          "t": "video",
+          "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The system combines SGS-Mk2, its foundation model for physical engineering that reasons about the geometry, topology and kinematics of parts and assemblies, with Quartz, its CAD execution environment. On geometric-reasoning problems, it claims SGS-Mk2 reduced per-problem costs by 46 to 87 per cent."
+        },
+        {
+          "t": "p",
+          "x": "It compared SGS-Mk2 with frontier models on 45 internally prepared problems (20 inspired by the CSWA, 25 by the CSWP), with no exam-specific training. The exam has been passed multiple times, but not yet with a perfect score."
+        },
+        {
+          "t": "p",
+          "x": "“There aren’t enough long-horizon benchmarks for CAD generation/editing/understanding,” said CEO Rahul Iyer. The company is expanding work with manufacturers to automate engineering workflows end to end."
+        }
+      ]
+    },
+    "design/design-cozyblanket-pro": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "K0awUmCpELQ"
+        },
+        {
+          "t": "p",
+          "x": "Sparseal has released CozyBlanket Pro, its much-anticipated AI-assisted retopology, UV unwrapping and texture baking software for game development and animation work. It is initially available as an iPad app, with a desktop version in development."
+        },
+        {
+          "t": "p",
+          "x": "It is a spiritual successor to the original CozyBlanket but not a direct update, built for entire characters and environments with “millions of polygons”. Its AI models were developed in-house, trained exclusively on synthetic data, and run locally on the user’s machine."
+        },
+        {
+          "t": "p",
+          "x": "For retopology, users draw the edges of topology patches with the Pencil tool and the AI fills them in; results can be refined or edited manually. CG Channel notes early demos showed unconventional facial topology, so quality depends on guide placement."
+        },
+        {
+          "t": "p",
+          "x": "UV unwrapping works the same way, with GPU-accelerated packing. It bakes vertex color, tangent space and AO maps with UDIM support, and exports OBJ or glTF. It needs iPadOS 18.6+; the base app is free, but saving or exporting costs a one-off $89.99."
+        }
+      ]
+    },
+    "design/design-workday-sana-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
+        },
+        {
+          "t": "p",
+          "x": "At Workday Rising, Workday turned Sana, acquired about a year ago, into its default home screen, Workday Home, which “brings tasks, decisions, meetings, and agent activity into one place.” Tailored to each role, it orchestrates Workday’s agents and adapts its UI to each task, generating forms, calendars, approval cards and visualizations in real time. Sana also works within Claude, Gemini Enterprise, Microsoft Copilot, Teams and Slack."
+        },
+        {
+          "t": "p",
+          "x": "Sana Concierge resolves HR and IT requests such as password resets and time-off questions; it is available to early adopters, with general availability expected in Q1 2027."
+        },
+        {
+          "t": "p",
+          "x": "Four autonomous agents act as autopilots across hiring, payroll, accounting and compliance. Unlike a copilot that “sits there” until the user logs in, said chief AI officer Joel Hellermark, they run on a heartbeat whether or not the user is online. The Talent Acquisition Agent is available to early adopters now; Payroll, Accounting and Deployment agents follow in early 2027."
+        },
+        {
+          "t": "p",
+          "x": "Workday’s Trusted Agent Platform is now headless, letting customers use their own tools and models. “Headless can’t mean lawless,” said CTO Gabe Monroy."
+        }
+      ]
+    },
+    "design/design-hourglass-middle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+        },
+        {
+          "t": "p",
+          "x": "For fifteen years, the design process kept growing while the time left for making the product kept shrinking. Anamol Rajbhandari argues the middle of that process — research reports, personas, journey maps, wireframes, handoff specs, workshops — is draining now, with the weight moving out to the two ends: deciding at the top, making at the bottom, like an hourglass."
+        },
+        {
+          "t": "p",
+          "x": "That middle was buying agreement among a dozen specialists while money was cheap. Then the Fed raised rates eleven times between March 2022 and July 2023, and ChatGPT arrived in November 2022, giving companies both a reason and the means to cut it."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+        },
+        {
+          "t": "p",
+          "x": "Research had already shown the artifacts standing in for something else: practitioners used personas almost only for communication, and in one Rolf Molich study seventeen teams reported 340 usability problems, none found by every team. An AI model now drafts the discussion guide and surfaces the tensions in a stack of transcripts in a minute."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+        },
+        {
+          "t": "p",
+          "x": "A working prototype now takes an afternoon instead of a quarter, so making comes back to the designer. The far end — judging what deserves to exist — becomes the moat: a designer decides what is worth making, collaborates at speed, and then makes it well."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+        }
+      ]
+    },
+    "design/design-play-store-vibe-coded-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+          "cap": "The personal library section of the Play Store."
+        },
+        {
+          "t": "p",
+          "x": "As part of a collection of updates to the Play Store, Google has announced that it will allow anyone who vibe codes an Android app to distribute it through the Play Store with just a Google account."
+        },
+        {
+          "t": "p",
+          "x": "Rolling out to users in the US and other select markets who are 18 years and up, Google will let you upload a vibe-coded Android app from Google AI Studio without a paid developer account. AI Studio can generate apps with just a written prompt to Gemini, and you can adjust the results with more prompts or by editing the generated code yourself."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+          "cap": "AI Studio publishing a vibecoded Android app to the Play Store."
+        },
+        {
+          "t": "p",
+          "x": "Your app will only be available on your own devices to start, in a new \"personal library\" section, but Google eventually plans to let you securely share your vibe-coded apps with friends and family. To reach a global audience, you can \"graduate\" to a professional developer account and submit your apps to the Play Store's normal safety reviews."
+        },
+        {
+          "t": "p",
+          "x": "Google is also letting Gemini surface direct links to Play Store apps in chats, and a new Game Finder recommends games based on your Gamer DNA, a new taste profile."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+          "cap": "The Gamer DNA and Game Playlists in the Play Store's new Game Finder feature."
+        }
+      ]
     }
   }
 }
