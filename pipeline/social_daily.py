@@ -169,9 +169,7 @@ def main():
     # 그날 회차가 이미 있으면 손대지 않는다. 사람이 손으로 만든 날에 초안이
     # 끼어들면, 올릴 때 어느 쪽이 진짜인지 알 수 없게 된다.
     existing = [k for k in ("story", "trend")
-                if any(n.startswith(date) for n in
-                       (os.listdir(os.path.join(SOCIAL, k))
-                        if os.path.isdir(os.path.join(SOCIAL, k)) else []))]
+                if os.path.isdir(os.path.join(SOCIAL, k, date))]
     if len(existing) == 2:
         print(f"{date} 자 story·trend 회차가 이미 있다 — 초안을 만들지 않는다")
         return 0
@@ -179,7 +177,7 @@ def main():
     pick = pick_story(cards)
     (_, sec, card, kind, rel) = pick
     slug = f"{date}-{slugify(card['id'])}"
-    d = os.path.join(SOCIAL, "story", slug)
+    d = os.path.join(SOCIAL, "story", date, slug)
     made = []
     if "story" in existing or os.path.exists(os.path.join(d, "cards.json")):
         print(f"story 초안이 이미 있다 — 건드리지 않는다: {slug}")
@@ -190,7 +188,7 @@ def main():
         made.append(os.path.relpath(d, ROOT))
 
     tslug = f"{date}-trend"
-    td = os.path.join(SOCIAL, "trend", tslug)
+    td = os.path.join(SOCIAL, "trend", date, tslug)
     if "trend" in existing or os.path.exists(os.path.join(td, "cards.json")):
         print(f"trend 회차가 이미 있다 — 건드리지 않는다: {tslug}")
     else:

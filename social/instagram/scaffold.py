@@ -107,7 +107,7 @@ def main():
                      "section": section.upper(), "accent": accent,
                      "note": "TODO", "sources": [c.get("url", "") for c in picks]},
             "cards": cards}
-    d = os.path.join(HERE, mode, slug)
+    d = os.path.join(HERE, mode, slug[:10], slug)   # 날짜 폴더 아래
     os.makedirs(d, exist_ok=True)
     p = os.path.join(d, "cards.json")
     open(p, "w", encoding="utf-8").write(json.dumps(spec, ensure_ascii=False, indent=2) + "\n")
