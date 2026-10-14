@@ -301,6 +301,27 @@ def wait_finished(cid, tok, label, limit=600):
     raise SystemExit(f"  준비가 끝나지 않았다: {label}")
 
 
+def already_posted(caption, env, cache={}):
+    """이 캡션으로 이미 올라간 게시물이 있나.
+
+    발행 요청이 400으로 끝나도 Meta 가 뒤늦게 처리해 실제로는 올라가는 일이
+    있다(오늘만 두 번). 그러면 스크립트는 실패로 알고 표시를 그대로 두므로,
+    다시 돌리는 순간 같은 글이 두 번 올라간다. 올리기 직전에 최근 게시물의
+    첫 줄과 맞춰 본다."""
+    if "data" not in cache:
+        try:
+            cache["data"] = api(f"{env['IG_USER_ID']}/media",
+                                {"fields": "caption,permalink", "limit": "25",
+                                 "access_token": env["IG_ACCESS_TOKEN"]}).get("data", [])
+        except SystemExit:
+            cache["data"] = []          # 못 물어보면 막지 않는다 — 판단은 사람 몫
+    head = caption.strip().split("\n")[0].strip()
+    for m in cache["data"]:
+        if head and head == (m.get("caption") or "").strip().split("\n")[0].strip():
+            return m.get("permalink", "(링크 없음)")
+    return None
+
+
 def publish(post, items, caption, env):
     """컨테이너를 하나씩 만들고, 묶고, 올린다.
 
@@ -387,6 +408,13 @@ def main():
 
     for post, items, caption in ready:
         print(f"{post[0]}/{post[1][1:]}")
+        dup = already_posted(caption, env)
+        if dup:
+            print(f"  이미 올라가 있다 → {dup}")
+            d = post[2]
+            os.rename(d, os.path.join(os.path.dirname(d), MARK_DONE + post[1][1:]))
+            print("  표시만 바꾼다")
+            continue
         publish(post, items, caption, env)
     print("\n올리기 끝.")
     return 0
