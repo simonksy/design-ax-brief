@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "TODO: 꿰어야 보이는 문장",
+    "date": "2026.10.14",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "자동 초안(뼈대). 어느 것이 한 전선으로 읽히는지는 사람이 고른다.",
+    "sources": [
+      "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/",
+      "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
+      "https://www.nature.com/articles/s41591-026-04680-4",
+      "https://www.bosa.co.kr/news/articleView.html?idxno=3013809",
+      "https://www.nature.com/articles/s41551-026-01812-6"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 의료",
+      "thread": [
+        {
+          "d": "10.13",
+          "t": "개인정보…",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.14",
+          "t": "AI, 전립…",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.14",
+          "t": "뇌전증 환자…",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.14",
+          "t": "식약처 임상…",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.14",
+          "t": "성인 X-r…",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "TODO: 이 흐름의 요점 한 줄",
+      "eyebrow": "흐름 · 의료",
+      "headline": "성인 X-ray AI를 신생아 호흡관에…",
+      "body": "TODO: 왜 한 건으로는 안 보이는지",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "개인정보 우려에 막힌 AI",
+      "body": "Wolters Kluwer 조사 결과 환자 70% 이상이 건강정보 보호를 걱정했다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/medicine-patient-ai-privacy-survey-dive.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "AI, 전립선암 MRI서 영상의학…",
+      "body": "전립선 MRI 22,000건 이상에서 AI는 영상의학 전문의만큼 암을 찾았다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/medicine-prostate-mri-ai-radiologist-parity.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "뇌전증 환자, LLM으로 자기 EEG와…",
+      "body": "스마트폰 LLM 채팅 피드백이 소규모 연구서 발작 오경보를 약 80% 줄였다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/medicine-epilepsy-eeg-llm-chat-comanagement.png",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "식약처 임상자료 2672건 인증 없이…",
+      "body": "의원실이 챗GPT로 임상시험 결과 문서 2672건을 인증 없이 내려받았다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/medicine-mfds-trial-docs-exposed.jpg",
+      "n": 5
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "성인 X-ray AI를 신생아 호흡관에…",
+      "body": "연속 학습으로 성인 기관내관 X-ray 모델을 데이터 공유 없이 신생아에 맞췄다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/medicine-neonatal-ett-xray-continual-learning.png",
+      "n": 6
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

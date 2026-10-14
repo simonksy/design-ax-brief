@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "TODO: 꿰어야 보이는 문장",
+    "date": "2026.10.14",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "자동 초안(뼈대). 어느 것이 한 전선으로 읽히는지는 사람이 고른다.",
+    "sources": [
+      "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/",
+      "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
+      "https://develop3d.com/cad/nvidia-launches-usd-brep-geometry-kernel-for-solid-modelling/",
+      "https://openai.com/index/higgsfield-longer-videos-voice",
+      "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 디자인",
+      "thread": [
+        {
+          "d": "10.13",
+          "t": "잠재 공간…",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.14",
+          "t": "바이브 코딩…",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.14",
+          "t": "Nvidia…",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.14",
+          "t": "Higgsf…",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.14",
+          "t": "ChatGP…",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "TODO: 이 흐름의 요점 한 줄",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "ChatGPT, 만화가 서명까지 위조한다",
+      "body": "TODO: 왜 한 건으로는 안 보이는지",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "잠재 공간 건너뛴 Iris 3B",
+      "body": "Iris 3B는 VAE를 거치지 않고 픽셀 공간에서 그리며 깊이 추정까지 한다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/design-iris-3b-pixel-space.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "바이브 코딩한 앱도 Play Store로…",
+      "body": "이제 Google 계정만 있으면 바이브 코딩 앱을 Play Store에 올린다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/design-play-store-vibe-coded-apps.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Nvidia 오픈소스 커널 AI에 CAD…",
+      "body": "Nvidia USD BRep이 NURBS 형상을 AI의 3D 설계에 열었다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/design-nvidia-usd-brep-kernel.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Higgsfield, AI 영상 10분…",
+      "body": "Higgsfield는 GPT-6 Astra로 AI 영상이 10분을 넘었다고 했다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/design-higgsfield-ten-minute-video.png",
+      "n": 5
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "ChatGPT, 만화가 서명까지 위조한다",
+      "body": "ChatGPT가 New Yorker풍 가짜 만화에 실존 만화가 이름으로 서명했다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/design-ai-forged-cartoonist-signatures.png",
+      "n": 6
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

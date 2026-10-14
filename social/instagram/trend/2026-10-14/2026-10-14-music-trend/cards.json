@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "TODO: 꿰어야 보이는 문장",
+    "date": "2026.10.14",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "자동 초안(뼈대). 어느 것이 한 전선으로 읽히는지는 사람이 고른다.",
+    "sources": [
+      "https://routenote.com/radar/tencent-musics-musicbuddy-combines-ai-music-creation-editing-distribution-and-promotion/",
+      "https://www.synthtopia.com/content/2026/10/12/using-ai-to-make-patches-for-the-yamaha-cs-80-synthesizer/",
+      "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/",
+      "https://arxiv.org/abs/2610.13054",
+      "https://www.hypebot.com/lalus-corner-who-controls-the-digital-version-of-you/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 음악",
+      "thread": [
+        {
+          "d": "10.13",
+          "t": "Tencen…",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.13",
+          "t": "Claude…",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.13",
+          "t": "Instag…",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.13",
+          "t": "복제한 음색…",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.14",
+          "t": "아티스트…",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "TODO: 이 흐름의 요점 한 줄",
+      "eyebrow": "흐름 · 음악",
+      "headline": "아티스트 디지털 목소리 누가 통제하나",
+      "body": "TODO: 왜 한 건으로는 안 보이는지",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "Tencent MusicBuddy…",
+      "body": "Tencent Music이 AI 작곡과 배포를 잇는 MusicBuddy를 시험한다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/music-tencent-musicbuddy.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "Claude가 짜는 CS-80 패치",
+      "body": "Claude가 MIDI-modded CS-80에서 텍스트 설명을 패치로 바꾼다.",
+      "foot": "2026.10.13",
+      "video": "pipeline/media/music-claude-yamaha-cs80-patches.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "Instagram DMs에 들어온 AI 노래",
+      "body": "Instagram DMs에 가사와 장르로 AI 곡을 만드는 기능이 생겼다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/music-instagram-dm-ai-songs.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "복제한 음색을 실시간 연주하는…",
+      "body": "스트리밍 신경망 신시사이저 LiveSynth는 음색을 복제·생성해 실시간 연주한다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/music-livesynth-streaming-neural-synth.png",
+      "n": 5
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "아티스트 디지털 목소리 누가 통제하나",
+      "body": "Hypebot 칼럼이 AI 목소리·초상 사례와 세 메이저 레이블의 차이를 짚는다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/music-hypebot-ai-likeness-guide.jpg",
+      "n": 6
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

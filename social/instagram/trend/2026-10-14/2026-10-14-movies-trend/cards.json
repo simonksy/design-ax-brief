@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "TODO: 꿰어야 보이는 문장",
+    "date": "2026.10.14",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "자동 초안(뼈대). 어느 것이 한 전선으로 읽히는지는 사람이 고른다.",
+    "sources": [
+      "https://www.youtube.com/watch?v=h4MKJAJvins",
+      "https://www.awn.com/news/real-time-ai-worlds-focus-visko-and-google-clouds-october-14-la-fireside-chat",
+      "https://postperspective.com/sync-labs-intros-zero-shot-lipsyncing-for-film-and-television/",
+      "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/",
+      "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 영화",
+      "thread": [
+        {
+          "d": "10.13",
+          "t": "AI 영상…",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.13",
+          "t": "Real-T…",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.14",
+          "t": "Sync.L…",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.14",
+          "t": "Eyelin…",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.14",
+          "t": "Mia Go…",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "TODO: 이 흐름의 요점 한 줄",
+      "eyebrow": "흐름 · 영화",
+      "headline": "Mia Goth AI 사진…",
+      "body": "TODO: 왜 한 건으로는 안 보이는지",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "AI 영상 비용 절약",
+      "body": "Curious Refuge가 AI 영화 생성 크레딧을 아끼는 워크플로를 소개한다.",
+      "foot": "2026.10.13",
+      "video": "pipeline/media/movies-curious-refuge-credit-savings.mp4",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "Real-Time AI 세계",
+      "body": "Visko·Google Cloud가 Oct. 14 대담에서 AI 세계를 다룬다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/movies-visko-google-cloud-ai-worlds.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Sync.Labs AI 영화·TV 립싱크…",
+      "body": "Sync.Productions는 AI 립싱크로 현지화와 대사 수정을 돕는다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/movies-sync-productions-lipsync.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Eyeline이 VFX에 AI 쓰는 방식",
+      "body": "Mousavi VP는 Netflix가 군중·배경·조명에 AI를 쓴다고 밝혔다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/movies-netflix-eyeline-mousavi.jpg",
+      "n": 5
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Mia Goth AI 사진…",
+      "body": "Mia Goth 측은 AI 이미지를 올린 팬 계정을 Instagram에 신고했다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/movies-mia-goth-instagram-ai.jpg",
+      "n": 6
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

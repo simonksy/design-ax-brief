@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "TODO: 꿰어야 보이는 문장",
+    "date": "2026.10.14",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "자동 초안(뼈대). 어느 것이 한 전선으로 읽히는지는 사람이 고른다.",
+    "sources": [
+      "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+      "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
+      "https://phys.org/news/2026-10-rangers-reimagine-ai-wildlife.html",
+      "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 과학",
+      "thread": [
+        {
+          "d": "10.13",
+          "t": "어텐션이…",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.14",
+          "t": "무작위 신경…",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.14",
+          "t": "IdeaLe…",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.14",
+          "t": "레인저들…",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.14",
+          "t": "과학자들…",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "TODO: 이 흐름의 요점 한 줄",
+      "eyebrow": "흐름 · 과학",
+      "headline": "과학자들, AI가 자기 아이디어 가져갈까…",
+      "body": "TODO: 왜 한 건으로는 안 보이는지",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "어텐션이 중요한 이유",
+      "body": "언어 모델을 움직이는 어텐션이 왜 AI의 핵심인지 Quanta 칼럼이 묻는다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/science-quanta-attention-intelligence.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "무작위 신경망이 스스로 배선해 배운다",
+      "body": "MIT 연구진이 단순한 배선 규칙으로 무작위 연결망을 학습 체계로 바꿔 보였다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/science-mit-self-wiring-learner.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "IdeaLens는 생각으로 AI 글을…",
+      "body": "IdeaLens는 AI가 전부 쓴 문서의 91%를 오경보 0.6%로 잡아낸다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/science-idealens-idea-detector.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "레인저들, 카메라 트랩 영상에 AI를 쓰다",
+      "body": "원주민 레인저가 MegaDetector로 검토할 이미지를 약 81% 줄였다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/science-arnhem-rangers-megadetector.jpg",
+      "n": 5
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "과학자들, AI가 자기 아이디어 가져갈까…",
+      "body": "AI를 조언자로 쓰는 연구자 사이에서 기업이 아이디어를 가로챌 우려가 커진다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/science-ai-idea-theft-fears.jpg",
+      "n": 6
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "TODO: 꿰어야 보이는 문장",
+    "date": "2026.10.14",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "자동 초안(뼈대). 어느 것이 한 전선으로 읽히는지는 사람이 고른다.",
+    "sources": [
+      "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
+      "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/",
+      "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
+      "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 가젯",
+      "thread": [
+        {
+          "d": "10.13",
+          "t": "Meta의…",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.14",
+          "t": "유출로 본…",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.14",
+          "t": "Ray-Ba…",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.14",
+          "t": "Unitre…",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.14",
+          "t": "Ultrah…",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "TODO: 이 흐름의 요점 한 줄",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "Ultrahuman UAE에 생체나이 모델",
+      "body": "TODO: 왜 한 건으로는 안 보이는지",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "Meta의 Muse Wonder 모델",
+      "body": "Meta는 새 Muse Wonder 모델이 업계 최고에 맞선다고 밝혔다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/gadgets-meta-wonder-full.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "유출로 본 Samsung 초경량 스마트 안경",
+      "body": "SammyGuru에 따르면 Samsung 안경은 41그램이고 11월에 나온다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/gadgets-samsung-galaxy-glasses.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Ray-Ban Meta가 호출어 없이…",
+      "body": "Ray-Ban Meta 무단 녹음 주장에 Meta는 문제를 해결했다고 밝혔다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/gadgets-rayban-meta-listening.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Unitree 1~2년 내 로봇…",
+      "body": "Unitree CEO는 내년 GPT-7이 로봇의 난제를 풀 수도 있다고 봤다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/gadgets-unitree-gpt7-robots.jpg",
+      "n": 5
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Ultrahuman UAE에 생체나이 모델",
+      "body": "Ultrahuman과 Abu Dhabi가 2년간 생체 나이 모델을 연구·검증한다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/gadgets-ultrahuman-uae-bioage.jpg",
+      "n": 6
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
