@@ -40,7 +40,7 @@ fi
 # 프로덕션에 영향이 없고, 거기서는 **폴더 이름 앞의 * 가 "올릴 것" 표시**로 쓰인다
 # (추적되는 폴더를 바꿔 다는 것이라 git은 삭제+미추적으로 본다). 그 표시 때문에
 # 매일 아침 발행이 막히면 안 된다.
-DIRTY="$(git status --porcelain -- . ':!*.log' ':!social' | grep -v '^?? \.superpowers/' || true)"
+DIRTY="$(git status --porcelain -- . ':!*.log' ':!social' ':!ig' | grep -v '^?? \.superpowers/' || true)"
 if [ -n "$DIRTY" ]; then
   echo "ERROR: 작업트리가 깨끗하지 않다. 직접 배포는 작업트리를 올리므로, 지금 배포하면" >&2
   echo "       커밋되지 않은 내용이 프로덕션에 올라갔다가 다음 CI 빌드에서 사라진다." >&2

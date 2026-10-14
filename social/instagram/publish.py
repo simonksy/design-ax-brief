@@ -69,6 +69,45 @@ def load_env():
 
 MARK_TODO, MARK_DONE = "!", "*"
 
+# Meta는 파일을 받지 않고 공개 URL만 받아 자기가 내려받는다. social/ 은 일부러
+# 배포에서 빼 뒀으므로(올리기 전 원고가 공개되면 곤란하다), 올릴 회차만 저장소
+# 루트의 ig/ 로 복사해 잠시 공개한다. wrangler의 assets.directory 가 "." 이라
+# 거기 두면 워커 코드 없이 그대로 서빙된다.
+#
+# ig/ 는 임시다 — 올리고 나면 지운다. .gitignore 에 있어 커밋되지 않고,
+# 직접 배포(wrangler)는 작업트리를 올리므로 복사만 해 두고 배포하면 열린다.
+STAGE = os.path.join(ROOT, "ig")
+
+
+def stage_dir(kind, slug):
+    return os.path.join(STAGE, kind, slug)
+
+
+def do_stage(posts):
+    import shutil
+    n = 0
+    for kind, name, d in posts:
+        slug = name[1:]
+        dst = stage_dir(kind, slug)
+        if os.path.isdir(dst):
+            shutil.rmtree(dst)
+        os.makedirs(dst, exist_ok=True)
+        for f in sorted(os.listdir(os.path.join(d, "out"))):
+            shutil.copy2(os.path.join(d, "out", f), os.path.join(dst, f))
+            n += 1
+        print(f"  {kind}/{slug}  →  ig/{kind}/{slug}")
+    print(f"\n파일 {n}개를 ig/ 에 복사했다. 이제 배포해야 주소가 열린다:")
+    print("  bash pipeline/deploy.sh")
+
+
+def do_unstage():
+    import shutil
+    if os.path.isdir(STAGE):
+        shutil.rmtree(STAGE)
+        print("ig/ 를 비웠다. 배포하면 공개도 내려간다:  bash pipeline/deploy.sh")
+    else:
+        print("ig/ 가 이미 없다")
+
 
 def marked_posts():
     """`!` 가 붙은 회차 폴더를 story·trend 양쪽에서 찾는다."""
@@ -240,6 +279,9 @@ def main():
     ap.add_argument("--dry-run", action="store_true", help="올리지 않고 검사만")
     ap.add_argument("--whoami", action="store_true",
                     help="토큰으로 계정을 물어본다 (IG_USER_ID 를 찾을 때)")
+    ap.add_argument("--stage", action="store_true",
+                    help="올릴 회차를 ig/ 로 복사한다 (배포하면 주소가 열린다)")
+    ap.add_argument("--unstage", action="store_true", help="ig/ 를 비운다")
     a = ap.parse_args()
     env = load_env()
     if a.whoami:
@@ -250,12 +292,16 @@ def main():
         print(f"user_id   {me.get('user_id') or me.get('id')}")
         print("\n이 user_id 를 .env.local 의 IG_USER_ID 에 적어라.")
         return 0
+    if a.unstage:
+        do_unstage(); return 0
     posts = marked_posts()
     if not posts:
         print(f"`{MARK_TODO}` 표시된 회차가 없다. 올릴 폴더 이름 앞에 {MARK_TODO} 를 붙여라.")
         return 0
 
     print(f"`{MARK_TODO}` 표시된 회차 {len(posts)}개\n")
+    if a.stage:
+        do_stage(posts); return 0
     ready = []
     for post in posts:
         spec, items, caption, bad = check(post, env)
@@ -278,6 +324,8 @@ def main():
     for post, items, caption in ready:
         print(f"{post[0]}/{post[1][1:]}")
         publish(post, items, caption, env)
+    print("\n올리기 끝. 공개해 둔 파일을 내린다:")
+    do_unstage()
     return 0
 
 

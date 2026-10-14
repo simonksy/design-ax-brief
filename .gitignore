@@ -5,6 +5,10 @@
 .env.*
 !.env.example
 
+# 인스타그램에 올리는 동안만 카드를 공개하는 임시 폴더.
+# publish.py --stage 가 채우고 올린 뒤 지운다. 커밋할 것이 아니다.
+/ig/
+
 pipeline/keywords.json
 pipeline/candidates.json
 pipeline/selected.json
