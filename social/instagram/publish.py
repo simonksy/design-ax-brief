@@ -119,8 +119,13 @@ def marked_posts():
     """`!` 가 붙은 회차 폴더를 찾는다.
 
     회차는 날짜 폴더 아래에 산다(story/2026-10-14/!2026-10-14-…). 날짜별로
-    묶어 두면 "오늘 뭐가 나왔나"를 폴더 하나로 볼 수 있다."""
-    out = []
+    묶어 두면 "오늘 뭐가 나왔나"를 폴더 하나로 볼 수 있다.
+
+    **story 와 trend 를 번갈아 돌려준다.** 피드는 올린 순서대로 쌓이므로,
+    한 번에 여러 벌을 올릴 때 형식별로 몰아 올리면 같은 생김새가 연달아 붙어
+    피드가 단조로워진다. 같은 섹션의 story 와 trend 가 둘 다 있으면 붙여서
+    내보낸다 — '한 건'과 '그 뒤의 흐름'이 나란히 읽힌다."""
+    found = {"story": [], "trend": []}
     for kind in ("story", "trend"):
         base = os.path.join(HERE, kind)
         if not os.path.isdir(base):
@@ -131,7 +136,24 @@ def marked_posts():
                 continue
             for name in sorted(os.listdir(d)):
                 if name.startswith(MARK_TODO):
-                    out.append((kind, name, os.path.join(d, name)))
+                    p = os.path.join(d, name)
+                    try:
+                        sec = json.load(open(os.path.join(p, "cards.json"),
+                                             encoding="utf-8"))["meta"]["section"]
+                    except Exception:
+                        sec = ""
+                    found[kind].append((sec, kind, name, p))
+    out, seen = [], set()
+    for sec, kind, name, p in found["story"]:
+        out.append((kind, name, p))
+        seen.add(("story", sec))
+        mate = next((t for t in found["trend"] if t[0] == sec and t not in seen), None)
+        if mate:
+            out.append((mate[1], mate[2], mate[3]))
+            seen.add(mate)
+    for t in found["trend"]:
+        if t not in seen and (t[1], t[2], t[3]) not in out:
+            out.append((t[1], t[2], t[3]))
     return out
 
 
@@ -255,6 +277,30 @@ def check(post, env, verbose=True):
     return spec, items, caption, bad
 
 
+def wait_finished(cid, tok, label, limit=600):
+    """컨테이너가 FINISHED 가 될 때까지 기다린다.
+
+    영상은 Meta가 내려받아 변환해야 하고, 캐러셀은 자식들을 묶어야 한다.
+    둘 다 비동기라 바로 다음 단계로 가면 'Media ID is not available' 로 끝난다.
+
+    간격을 벌려 가며 묻는다(10→20→40→60초). 5초마다 물었더니 'Application
+    request limit reached'(4/2207051)로 계정이 잠시 막혔다 — 기다리는 일에
+    요청을 쓰면 정작 올릴 요청이 모자란다."""
+    waited, gap = 0, 10
+    while waited < limit:
+        st = api(cid, {"fields": "status_code,status", "access_token": tok})
+        code = st.get("status_code")
+        if code == "FINISHED":
+            return
+        if code == "ERROR":
+            raise SystemExit(f"  준비 실패: {label} — {st.get('status')}")
+        print(f"    {label} 기다리는 중… ({code}, {waited}초)")
+        time.sleep(gap)
+        waited += gap
+        gap = min(gap * 2, 60)           # 10 → 20 → 40 → 60초
+    raise SystemExit(f"  준비가 끝나지 않았다: {label}")
+
+
 def publish(post, items, caption, env):
     """컨테이너를 하나씩 만들고, 묶고, 올린다.
 
@@ -274,20 +320,15 @@ def publish(post, items, caption, env):
         children.append(cid)
         print(f"  [{i}/{len(items)}] {it['name']} → {cid}")
         if it["video"]:
-            for _ in range(60):          # 최대 5분
-                st = api(cid, {"fields": "status_code", "access_token": tok})
-                code = st.get("status_code")
-                if code == "FINISHED":
-                    break
-                if code == "ERROR":
-                    raise SystemExit(f"  변환 실패: {it['name']}")
-                time.sleep(5)
-            else:
-                raise SystemExit(f"  변환이 5분 안에 끝나지 않았다: {it['name']}")
+            wait_finished(cid, tok, it["name"])
 
     parent = api(f"{uid}/media", {
         "media_type": "CAROUSEL", "children": ",".join(children),
         "caption": caption, "access_token": tok}, "POST")["id"]
+    # 부모도 기다려야 한다. 자식 영상만 FINISHED 를 보고 바로 발행하면
+    # 'Media ID is not available (9007/2207027) — 아직 준비가 완료되지 않아'
+    # 로 끝난다. 묶는 일 자체가 비동기다.
+    wait_finished(parent, tok, "캐러셀")
     res = api(f"{uid}/media_publish", {"creation_id": parent, "access_token": tok}, "POST")
     print(f"  올림 → {res.get('id')}")
 

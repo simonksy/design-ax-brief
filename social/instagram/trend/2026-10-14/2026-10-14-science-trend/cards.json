@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "AI는 새 데이터가 아니라 묵은 기록을 연다",
+    "date": "2026.10.14",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://phys.org/news/2026-10-tracking-cellular-gene-functions-ai.html",
+      "https://phys.org/news/2026-10-pollen-reveals-hidden-history-grasses.html",
+      "https://phys.org/news/2026-10-lensless-imaging-method-enables-term.html",
+      "https://phys.org/news/2026-10-nature-lovers-aid-ecology-ai.html",
+      "https://phys.org/news/2026-10-rangers-reimagine-ai-wildlife.html"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 과학 · 10.09~10.14",
+      "thread": [
+        {
+          "d": "10.9",
+          "t": "세포 속 유전자",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.10",
+          "t": "2.5만 년 꽃가루",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.12",
+          "t": "렌즈 없이",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.13",
+          "t": "시민과학 기록",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.14",
+          "t": "카메라 트랩",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 새 데이터를 만든 게 아니라, 수십 년 쌓여 있던 기록을 처음 읽어 냈다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "쌓아 둔 기록을 이제야 읽는다",
+      "body": "엿새 사이 다섯 건이 전부 '이미 있던 것'을 다룬다. 새로 관측한 게 아니라 창고를 연 것이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.09",
+      "headline": "AI로 세포 속 유전자 기능을 지도화",
+      "body": "AI 분석과 유전자 스크리닝으로 약 7000만 세포에서 단일 유전자 효과를 본다.",
+      "foot": "2026.10.09",
+      "media": "pipeline/media/science-gene-function-microscopy.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "AI가 읽은 25,000년 꽃가루",
+      "body": "Illinois 연구팀이 CNNs로 케냐 호수의 25,000년 풀 꽃가루를 갈랐다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/science-fossil-grass-pollen-cnn.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.12",
+      "headline": "렌즈도 염색도 없는 세포 관찰",
+      "body": "Tampere University의 SF-PULSE는 렌즈 없이 세포를 추적한다.",
+      "foot": "2026.10.12",
+      "media": "pipeline/media/science-lensless-cell-imaging-sfpulse.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "시민과학 기록 읽는 LLMs",
+      "body": "Claude는 eBird·iNaturalist 약 500건을 육 분 만에 분류했다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/science-ebird-inaturalist-llm-ecology.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "레인저들, 카메라 트랩 영상에 AI를 쓰다",
+      "body": "원주민 레인저가 MegaDetector로 검토할 이미지를 약 81% 줄였다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/science-arnhem-rangers-megadetector.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

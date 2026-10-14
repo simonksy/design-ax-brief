@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "AI 안경이 쏟아지는데 '언제 듣는가'만 비어 있다",
+    "date": "2026.10.14",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
+      "https://www.tomsguide.com/ai/amazons-delivery-drivers-are-getting-ai-glasses-and-thats-the-least-unsettling-ai-in-the-job",
+      "https://www.androidauthority.com/google-translate-live-translate-smart-glasses-apk-teardown-3716624/",
+      "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
+      "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 가젯 · 10.10~10.14",
+      "thread": [
+        {
+          "d": "10.10",
+          "t": "Gen 3 상승",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.11",
+          "t": "배송기사 안경",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.13",
+          "t": "글래스는 제외",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.14",
+          "t": "초경량 유출",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.14",
+          "t": "호출어 없이?",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "기기는 다섯 건이 나왔고, 녹음이 언제 시작되는지를 설명한 곳은 없다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "안경은 쏟아지는데, 언제 듣는지는 모른다",
+      "body": "닷새 사이 다섯 건이 같은 물건을 가리킨다. 성능 이야기는 늘었고, 마이크 이야기는 그대로다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "Muse가 끌어올린 Ray-Ban…",
+      "body": "Ray-Ban Meta Gen 3는 기능은 그대로지만 Muse로 비서가 나아졌다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/gadgets-rayban-meta-gen3-muse.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.11",
+      "headline": "Amazon의 AI 안경과 로봇",
+      "body": "Amazon은 배송기사에게 AI 안경을 주지만, 핵심은 1백만 대의 로봇이다.",
+      "foot": "2026.10.11",
+      "media": "pipeline/media/amazon-driver-ai-glasses.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "Translate 기록 자동 저장…",
+      "body": "Live Translate 기록이 자동 저장되지만 스마트 글래스를 연결하면 꺼진다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/gadgets-translate-transcript-autosave.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "유출로 본 Samsung 초경량 스마트 안경",
+      "body": "SammyGuru에 따르면 Samsung 안경은 41그램이고 11월에 나온다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/gadgets-samsung-galaxy-glasses.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Ray-Ban Meta가 호출어 없이…",
+      "body": "Ray-Ban Meta 무단 녹음 주장에 Meta는 문제를 해결했다고 밝혔다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/gadgets-rayban-meta-listening.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "의회에선 규제를 자청하고, 선거자금은 반대로 간다",
+    "date": "2026.10.14",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
+      "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+      "https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/",
+      "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 정책 · 10.09~10.14",
+      "thread": [
+        {
+          "d": "10.9",
+          "t": "ICO 약속",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.11",
+          "t": "반발 대비",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.12",
+          "t": "미중 협력론",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.14",
+          "t": "규제 자청",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.14",
+          "t": "PAC 거액",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "같은 날 의회에서는 규제를 자청하고, 선거자금은 규제를 막는 쪽으로 갔다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "규제해 달라면서, 막는 쪽에 돈을 댄다",
+      "body": "엿새 사이 다섯 건을 겹치면 한쪽 말만 듣고는 안 보이는 그림이 나온다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.09",
+      "headline": "영국 ICO, AI 데이터 약속 확보",
+      "body": "ICO에 따르면 AI 개발사 열 곳이 개인정보 학습 방식을 바꿨거나 바꾸기로 했다.",
+      "foot": "2026.10.09",
+      "media": "pipeline/media/politics-uk-ico-ai-training-data-pledges.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.11",
+      "headline": "AI 업계, 반발 대비",
+      "body": "Anthropic·OpenAI 경영진이 AI 참사 뒤 닥칠 역풍에 은밀히 대비한다.",
+      "foot": "2026.10.11",
+      "media": "pipeline/media/ai-labs-backlash-plans.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.12",
+      "headline": "US-China AI 안전 협력론",
+      "body": "Marina Yue Zhang은 신뢰 없이도 AI 안전 협력이 가능하다고 본다.",
+      "foot": "2026.10.12",
+      "media": "pipeline/media/us-china-ai-safety-cooperation.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "UK 의회서 OpenAI와…",
+      "body": "OpenAI·Anthropic은 AI 규제법을 요청했고 Meta는 지지하지 않았다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/politics-uk-mps-ai-labs-regulate.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "Pro-AI PAC 거액, Nevada…",
+      "body": "Leading the Future 지원 Nevada 업체는 유령회사로 의심받는다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/politics-pro-ai-pac-nevada.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

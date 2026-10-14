@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "'만들 수 있나'를 지나 '누가 사는가'로",
+    "date": "2026.10.14",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://variety.com/2026/tv/global/ai-space-nation-kira-mipcom-1236905523/",
+      "https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/",
+      "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
+      "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/",
+      "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 영화 · 10.10~10.13",
+      "thread": [
+        {
+          "d": "10.10",
+          "t": "MIPCOM 파일럿",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.10",
+          "t": "Viki 공개",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.11",
+          "t": "Prime 구매",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.12",
+          "t": "판매사 확보",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.13",
+          "t": "반데라스 합류",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "어제까지 '배급이 없다'였는데, 나흘 사이 플랫폼 셋이 AI 작품을 샀다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI 영화가 살 사람을 찾았다",
+      "body": "만들 수 있나는 지난 질문이다. 이번 주에 바뀐 것은 누가 사느냐 쪽이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "AI 시리즈 파일럿, Mipcom 공개",
+      "body": "생성형 AI로 만든 SF 시리즈 두 편이 Mipcom에서 첫선을 보인다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/space-nation-kira-mipcom-pilots.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "AI K드라마, Viki로",
+      "body": "최준배 감독의 AI-assisted 애니가 10월 21일 Viki에 공개된다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/painted-soul-rakuten-viki-launch.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.11",
+      "headline": "Prime Video, AI-made…",
+      "body": "Prime Video가 'The Pit' 스핀오프 AI 영화 세계 판권을 샀다.",
+      "foot": "2026.10.11",
+      "media": "pipeline/media/cukur-vartolu-prime-ai.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.12",
+      "headline": "Overstake, AI로 다시 짓는다",
+      "body": "Cappu Films가 AI로 다시 짓는 Overstake의 세계 판매를 맡는다.",
+      "foot": "2026.10.12",
+      "media": "pipeline/media/overstake-genai-rebuild-cappu-busan.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "Banderas, AI 장편 합류",
+      "body": "Banderas가 AI-powered 장편에서 Hernán Cortés를 맡는다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/movies-banderas-cortes-utopai.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
