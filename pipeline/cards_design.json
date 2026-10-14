@@ -1,257 +1,191 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "design",
   "cards": [
     {
-      "id": "design-play-store-vibe-coded-apps",
+      "id": "design-builder-agent-native",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "바이브 코딩한 앱도\nPlay Store로 간다",
-      "body": "이제 Google 계정만 있으면 바이브 코딩 앱을 Play Store에 올린다.",
-      "mini_headline": "바이브 코딩 앱, Play Store 입성",
+      "headline": "에이전트 앱 프레임워크\nBuilder.io가 공개",
+      "body": "Builder.io 프레임워크에선 액션 하나가 UI와 에이전트를 함께 움직인다.",
+      "mini_headline": "Builder.io, Agent-Native 베타 출시",
       "tool": "Figma",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
+      "source": "Builder.io",
+      "url": "https://www.builder.io/blog/introducing-agent-native",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-            "cap": "Play Store의 개인 라이브러리 섹션."
+            "t": "video",
+            "yt": "6t_AMjY5gJc"
           },
           {
             "t": "p",
-            "x": "Google은 Play Store 업데이트를 발표하면서, Android 앱을 바이브 코딩으로 만든 사람은 누구나 Google 계정만으로 Play Store에 배포할 수 있게 한다고 밝혔다."
+            "x": "Builder.io가 Agent-Native를 베타로 내놓는다. 직관적인 UIs를 갖춘 AI 에이전트를 만드는 오픈소스 TypeScript 프레임워크다. 로컬에서 바로 시작해도 되고 Builder.io에서 온라인으로 만들어도 된다. 기능을 한 번 정의해 두면 Agent-Native가 UI, 에이전트, HTTP API, CLI, MCP, A2A에 한꺼번에 노출한다."
           },
           {
             "t": "p",
-            "x": "이 기능은 미국(US)과 일부 시장의 18세 이상 사용자부터 차례로 제공된다. 유료 개발자 계정이 없어도 Google AI Studio에서 바이브 코딩한 Android 앱을 올릴 수 있다. AI Studio에서는 Gemini에 프롬프트를 글로 입력하기만 하면 앱이 만들어지고, 프롬프트를 더 쓰거나 생성된 코드를 직접 고쳐 결과를 다듬으면 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-            "cap": "AI Studio에서 바이브 코딩한 Android 앱을 Play Store에 게시하는 모습."
+            "x": "에이전틱 앱은 앱에 채팅 사이드바를 덧붙인 것이 아니라 자체 앱을 갖춘 AI 에이전트다. 에이전트와 UI는 대등한 파트너라서 UI로 할 수 있는 일이면 에이전트도 할 수 있다. 둘은 액션(같은 검증, 권한, 구현), 데이터(작업이 계속 동기화된다), 애플리케이션 상태(에이전트가 화면에 무엇이 있는지 안다)를 함께 쓴다."
           },
           {
             "t": "p",
-            "x": "처음에는 새로 생기는 \"개인 라이브러리\" 섹션에서 본인 기기로만 앱을 쓸 수 있다. Google은 앞으로 바이브 코딩 앱을 친구와 가족에게 안전하게 공유하는 기능도 내놓을 계획이다. 전 세계 사용자에게 선보이려면 전문 개발자 계정으로 \"졸업\"한 뒤 Play Store의 일반 안전 심사에 앱을 내면 된다."
+            "x": "화면을 클릭해 가며 움직이는 컴퓨터 사용 에이전트와 달리, Agent-Native 에이전트는 UI와 같은 액션을 호출하니 토큰은 덜 쓰고 일은 더 빨리 끝낸다. 에이전트에게는 Slack, Teams, Discord, 이메일, Telegram, WhatsApp으로 메시지를 보내면 되고, Notion, Linear, GitHub는 MCP로 붙인다. 모든 앱이 Claude, ChatGPT, Cursor, Codex에서 쓸 MCP 서버 역할도 한다."
           },
           {
             "t": "p",
-            "x": "Google은 Gemini가 대화 중에 Play Store 앱으로 바로 가는 링크를 보여 주게 했다. 새 Game Finder는 새 취향 프로필인 Gamer DNA를 보고 게임을 추천한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-            "cap": "Play Store의 새 Game Finder 기능에 있는 Gamer DNA와 Game Playlists."
+            "x": "공유 지침, 스킬, 메모리 같은 팀 기능에 인증, 권한, 실시간 동기화까지 기본으로 들어 있다. 모델은 Anthropic, OpenAI, Gemini, OpenRouter 키를 직접 가져와 쓰거나 Ollama로 로컬에서 돌리면 된다. Clips, Slides, Design도 이 프레임워크로 만든 오픈소스 에이전틱 앱이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Vibe-coded Android apps\nreach the Play Store",
-          "body": "Google will let anyone publish Android apps vibe-coded in AI Studio to the Play Store with just a Google account.",
-          "mini_headline": "Vibe-coded apps hit Play Store",
+          "headline": "Builder.io open-sources\nan agent-native app framework",
+          "body": "Builder.io's open-source TypeScript framework lets one action definition drive the UI, agent, API, CLI, MCP and A2A.",
+          "mini_headline": "Builder.io ships\nAgent-Native beta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-                "cap": "The personal library section of the Play Store."
+                "t": "video",
+                "yt": "6t_AMjY5gJc"
               },
               {
                 "t": "p",
-                "x": "As part of a collection of updates to the Play Store, Google has announced that it will allow anyone who vibe codes an Android app to distribute it through the Play Store with just a Google account."
+                "x": "Builder.io is launching Agent-Native in beta: an open-source TypeScript framework for building AI agents with intuitive UIs. You can start locally with the open-source framework, or build online with Builder.io. Define a capability once and Agent-Native exposes it to the UI, agent, HTTP API, CLI, MCP and A2A."
               },
               {
                 "t": "p",
-                "x": "Rolling out to users in the US and other select markets who are 18 years and up, Google will let you upload a vibe-coded Android app from Google AI Studio without a paid developer account. AI Studio can generate apps with just a written prompt to Gemini, and you can adjust the results with more prompts or by editing the generated code yourself."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-                "cap": "AI Studio publishing a vibecoded Android app to the Play Store."
+                "x": "An agentic app is an AI agent that comes with its own app — not a chat sidebar added to an app: the agent and the UI are equal partners, so anything you can do in the UI, the agent can do too. They share actions (same validation, permissions and implementation), data (work stays in sync) and application state (the agent knows what's on your screen)."
               },
               {
                 "t": "p",
-                "x": "Your app will only be available on your own devices to start, in a new \"personal library\" section, but Google eventually plans to let you securely share your vibe-coded apps with friends and family. To reach a global audience, you can \"graduate\" to a professional developer account and submit your apps to the Play Store's normal safety reviews."
+                "x": "Unlike computer-use agents that click through a screen, Agent-Native agents call the same actions the UI uses, finishing faster with fewer tokens. You can message an agent from Slack, Teams, Discord, email, Telegram or WhatsApp, connect Notion, Linear and GitHub over MCP, and every app is also an MCP server for Claude, ChatGPT, Cursor or Codex."
               },
               {
                 "t": "p",
-                "x": "Google is also letting Gemini surface direct links to Play Store apps in chats, and a new Game Finder recommends games based on your Gamer DNA, a new taste profile."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-                "cap": "The Gamer DNA and Game Playlists in the Play Store's new Game Finder feature."
+                "x": "Built-in team features include shared instructions, skills and memory, plus authentication, permissions and live sync. Bring your own key for Anthropic, OpenAI, Gemini or OpenRouter, or run a local model with Ollama. Clips, Slides and Design are open-source agentic apps built with it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "바이브 코딩한 앱도\nPlay Store로 간다",
-          "body": "이제 Google 계정만 있으면 바이브 코딩 앱을 Play Store에 올린다.",
-          "mini_headline": "바이브 코딩 앱, Play Store 입성",
+          "headline": "에이전트 앱 프레임워크\nBuilder.io가 공개",
+          "body": "Builder.io 프레임워크에선 액션 하나가 UI와 에이전트를 함께 움직인다.",
+          "mini_headline": "Builder.io, Agent-Native 베타 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-                "cap": "Play Store의 개인 라이브러리 섹션."
+                "t": "video",
+                "yt": "6t_AMjY5gJc"
               },
               {
                 "t": "p",
-                "x": "Google은 Play Store 업데이트를 발표하면서, Android 앱을 바이브 코딩으로 만든 사람은 누구나 Google 계정만으로 Play Store에 배포할 수 있게 한다고 밝혔다."
+                "x": "Builder.io가 Agent-Native를 베타로 내놓는다. 직관적인 UIs를 갖춘 AI 에이전트를 만드는 오픈소스 TypeScript 프레임워크다. 로컬에서 바로 시작해도 되고 Builder.io에서 온라인으로 만들어도 된다. 기능을 한 번 정의해 두면 Agent-Native가 UI, 에이전트, HTTP API, CLI, MCP, A2A에 한꺼번에 노출한다."
               },
               {
                 "t": "p",
-                "x": "이 기능은 미국(US)과 일부 시장의 18세 이상 사용자부터 차례로 제공된다. 유료 개발자 계정이 없어도 Google AI Studio에서 바이브 코딩한 Android 앱을 올릴 수 있다. AI Studio에서는 Gemini에 프롬프트를 글로 입력하기만 하면 앱이 만들어지고, 프롬프트를 더 쓰거나 생성된 코드를 직접 고쳐 결과를 다듬으면 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-                "cap": "AI Studio에서 바이브 코딩한 Android 앱을 Play Store에 게시하는 모습."
+                "x": "에이전틱 앱은 앱에 채팅 사이드바를 덧붙인 것이 아니라 자체 앱을 갖춘 AI 에이전트다. 에이전트와 UI는 대등한 파트너라서 UI로 할 수 있는 일이면 에이전트도 할 수 있다. 둘은 액션(같은 검증, 권한, 구현), 데이터(작업이 계속 동기화된다), 애플리케이션 상태(에이전트가 화면에 무엇이 있는지 안다)를 함께 쓴다."
               },
               {
                 "t": "p",
-                "x": "처음에는 새로 생기는 \"개인 라이브러리\" 섹션에서 본인 기기로만 앱을 쓸 수 있다. Google은 앞으로 바이브 코딩 앱을 친구와 가족에게 안전하게 공유하는 기능도 내놓을 계획이다. 전 세계 사용자에게 선보이려면 전문 개발자 계정으로 \"졸업\"한 뒤 Play Store의 일반 안전 심사에 앱을 내면 된다."
+                "x": "화면을 클릭해 가며 움직이는 컴퓨터 사용 에이전트와 달리, Agent-Native 에이전트는 UI와 같은 액션을 호출하니 토큰은 덜 쓰고 일은 더 빨리 끝낸다. 에이전트에게는 Slack, Teams, Discord, 이메일, Telegram, WhatsApp으로 메시지를 보내면 되고, Notion, Linear, GitHub는 MCP로 붙인다. 모든 앱이 Claude, ChatGPT, Cursor, Codex에서 쓸 MCP 서버 역할도 한다."
               },
               {
                 "t": "p",
-                "x": "Google은 Gemini가 대화 중에 Play Store 앱으로 바로 가는 링크를 보여 주게 했다. 새 Game Finder는 새 취향 프로필인 Gamer DNA를 보고 게임을 추천한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-                "cap": "Play Store의 새 Game Finder 기능에 있는 Gamer DNA와 Game Playlists."
+                "x": "공유 지침, 스킬, 메모리 같은 팀 기능에 인증, 권한, 실시간 동기화까지 기본으로 들어 있다. 모델은 Anthropic, OpenAI, Gemini, OpenRouter 키를 직접 가져와 쓰거나 Ollama로 로컬에서 돌리면 된다. Clips, Slides, Design도 이 프레임워크로 만든 오픈소스 에이전틱 앱이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "バイブコーディング製アプリが\nPlay Storeに登場",
-          "body": "Googleアカウントだけで、バイブコーディングのアプリをPlay Storeに出せる。",
-          "mini_headline": "バイブコーディングのアプリがPlay Storeへ",
+          "headline": "Builder.ioが公開\nエージェント型アプリ基盤",
+          "body": "Builder.ioの基盤は、一つのアクション定義でUIもエージェントも動かす。",
+          "mini_headline": "Builder.io、Agent-Nativeのベータ版を公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-                "cap": "Play Storeの個人ライブラリセクション。"
+                "t": "video",
+                "yt": "6t_AMjY5gJc"
               },
               {
                 "t": "p",
-                "x": "GoogleはPlay Storeの一連のアップデートの一環として、Androidアプリをバイブコーディングで作った人なら誰でも、Googleアカウントだけで Play Storeを通じて配布できるようにすると発表した。"
+                "x": "Builder.ioはAgent-Nativeをベータ版として公開する。直感的なUIsを備えたAIエージェントを構築するための、オープンソースのTypeScriptフレームワークだ。オープンソースのフレームワークでローカルから始めることも、Builder.ioでオンラインで構築することもできる。機能を一度定義すれば、Agent-NativeがそれをUI、エージェント、HTTP API、CLI、MCP、A2Aに公開する。"
               },
               {
                 "t": "p",
-                "x": "米国（US）などの一部市場で18歳以上のユーザーに順次提供され、有料のデベロッパーアカウントなしでGoogle AI StudioからバイブコーディングしたAndroidアプリをアップロードできる。AI StudioはGeminiへの文章のプロンプトだけでアプリを生成でき、追加のプロンプトや生成されたコードの直接編集で結果を調整できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-                "cap": "AI StudioがバイブコーディングしたAndroidアプリをPlay Storeに公開する様子。"
+                "x": "エージェント型アプリとは、独自のアプリを備えたAIエージェントであり、アプリにチャットのサイドバーを付け足したものではない。エージェントとUIは対等なパートナーで、UIでできることはエージェントにもできる。両者はアクション（同じ検証、権限、実装）、データ（作業は同期され続ける）、アプリケーションの状態（エージェントは画面に何が表示されているかを把握する）を共有する。"
               },
               {
                 "t": "p",
-                "x": "当初、アプリは新設の「個人ライブラリ」セクションで自分のデバイスでのみ使えるが、Googleはいずれバイブコーディングしたアプリを友人や家族と安全に共有できるようにする計画だ。世界中のユーザーに届けるには、プロのデベロッパーアカウントへ「卒業」し、Play Storeの通常の安全審査にアプリを提出すればよい。"
+                "x": "画面をクリックして操作するコンピューター操作型エージェントと違い、Agent-NativeのエージェントはUIと同じアクションを呼び出すため、より少ないトークンでより速く処理を終える。Slack、Teams、Discord、メール、Telegram、WhatsAppからエージェントにメッセージを送れるほか、MCP経由でNotion、Linear、GitHubを接続できる。すべてのアプリはClaude、ChatGPT、Cursor、Codex向けのMCPサーバーにもなる。"
               },
               {
                 "t": "p",
-                "x": "GoogleはさらにGeminiがチャット内でPlay Storeアプリへの直接リンクを示せるようにし、新しいGame Finderは新たな好みのプロフィール「Gamer DNA」に基づいてゲームを推薦する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-                "cap": "Play Storeの新機能Game FinderにおけるGamer DNAとGame Playlists。"
+                "x": "共有の指示、スキル、メモリーといったチーム機能に加え、認証、権限、リアルタイム同期も組み込まれている。Anthropic、OpenAI、Gemini、OpenRouterのキーを自分で持ち込むことも、Ollamaでローカルモデルを動かすこともできる。Clips、Slides、Designは、これで作られたオープンソースのエージェント型アプリだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "氛围编程的Android应用\n登上Play Store",
-          "body": "仅凭Google账号，任何人都能把氛围编程的应用发布到Play Store。",
-          "mini_headline": "氛围编程应用登上Play Store",
+          "headline": "Builder.io开源\n智能体原生应用框架",
+          "body": "Builder.io的开源框架用一个动作定义驱动UI、智能体与API。",
+          "mini_headline": "Builder.io推出Agent-Native测试版",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-                "cap": "Play Store的个人库板块。"
+                "t": "video",
+                "yt": "6t_AMjY5gJc"
               },
               {
                 "t": "p",
-                "x": "作为Play Store一系列更新的一部分，Google宣布将允许任何用氛围编程打造Android应用的人，仅凭一个Google账号即可通过Play Store分发应用。"
+                "x": "Builder.io推出Agent-Native测试版：这是一个开源TypeScript框架，用于构建带有直观UIs的AI智能体。你可以用开源框架在本地起步，也可以在Builder.io上在线构建。一项能力只需定义一次，Agent-Native就会把它开放给UI、智能体、HTTP API、CLI、MCP和A2A。"
               },
               {
                 "t": "p",
-                "x": "该功能将向美国（US）及其他部分市场的18岁及以上用户逐步推出，用户无需付费开发者账号，即可从Google AI Studio上传氛围编程的Android应用。AI Studio只需向Gemini输入一段文字提示即可生成应用，用户还可以通过更多提示或亲自修改生成的代码来调整结果。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-                "cap": "AI Studio将一款氛围编程的Android应用发布到Play Store。"
+                "x": "智能体应用是自带应用的AI智能体，而不是在应用里加一个聊天侧边栏：智能体与UI是平等的伙伴，凡是能在UI里做的事，智能体也能做。二者共享动作（相同的验证、权限和实现）、数据（工作保持同步）和应用状态（智能体知道你屏幕上有什么）。"
               },
               {
                 "t": "p",
-                "x": "起初，应用只会出现在新的“个人库”板块中，仅供你自己的设备使用，但Google计划最终让你能与亲友安全地分享氛围编程的应用。若想面向全球用户，你可以“升级”为专业开发者账号，并将应用提交至Play Store的常规安全审核。"
+                "x": "与在屏幕上逐一点击的计算机操作型智能体不同，Agent-Native智能体调用UI所用的同一套动作，用更少的令牌更快完成任务。你可以从Slack、Teams、Discord、电子邮件、Telegram或WhatsApp给智能体发消息，通过MCP连接Notion、Linear和GitHub；每个应用同时也是供Claude、ChatGPT、Cursor或Codex使用的MCP服务器。"
               },
               {
                 "t": "p",
-                "x": "Google还让Gemini能在对话中直接给出Play Store应用的链接，新的Game Finder则会根据全新的口味档案Gamer DNA推荐游戏。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-                "cap": "Play Store新Game Finder功能中的Gamer DNA与Game Playlists。"
+                "x": "内置团队功能包括共享指令、技能和记忆，以及身份验证、权限和实时同步。可以自带Anthropic、OpenAI、Gemini或OpenRouter的密钥，也可以用Ollama运行本地模型。Clips、Slides和Design都是用它构建的开源智能体应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las apps de vibe coding\nllegan a Play Store",
-          "body": "Google permitirá publicar en Play Store apps Android hechas con vibe coding con solo una cuenta de Google.",
-          "mini_headline": "Apps de vibe coding llegan a Play Store",
+          "headline": "Builder.io libera un framework\nde apps nativas para agentes",
+          "body": "El framework de Builder.io hace que una sola definición de acción sirva a la UI, el agente, la API y MCP.",
+          "mini_headline": "Builder.io lanza la beta de Agent-Native",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-                "cap": "La sección de biblioteca personal de Play Store."
+                "t": "video",
+                "yt": "6t_AMjY5gJc"
               },
               {
                 "t": "p",
-                "x": "Como parte de un conjunto de actualizaciones de Play Store, Google anunció que permitirá a cualquier persona que cree una app Android mediante vibe coding distribuirla a través de Play Store con solo una cuenta de Google."
+                "x": "Builder.io lanza en beta Agent-Native, un framework de código abierto en TypeScript para crear agentes de AI con UIs intuitivas. Se puede empezar en local con el framework de código abierto o construir en línea con Builder.io. Basta definir una capacidad una vez para que Agent-Native la exponga a la UI, el agente, la HTTP API, la CLI, MCP y A2A."
               },
               {
                 "t": "p",
-                "x": "La función llegará a usuarios de 18 años o más en Estados Unidos (US) y otros mercados seleccionados, y permitirá subir una app Android hecha con vibe coding desde Google AI Studio sin una cuenta de desarrollador de pago. AI Studio puede generar apps con solo un prompt escrito a Gemini, y los resultados pueden ajustarse con más prompts o editando uno mismo el código generado."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-                "cap": "AI Studio publicando en Play Store una app Android creada con vibe coding."
+                "x": "Una app agéntica es un agente de AI que trae su propia app, no una barra lateral de chat añadida a una app: el agente y la UI son socios en pie de igualdad, de modo que todo lo que se puede hacer en la UI también lo puede hacer el agente. Comparten acciones (la misma validación, los mismos permisos y la misma implementación), datos (el trabajo se mantiene sincronizado) y estado de la aplicación (el agente sabe qué hay en la pantalla)."
               },
               {
                 "t": "p",
-                "x": "Al principio, la app solo estará disponible en los propios dispositivos del usuario, en una nueva sección de \"biblioteca personal\", pero Google planea permitir más adelante compartir de forma segura las apps creadas con vibe coding con amigos y familiares. Para llegar a una audiencia global, se puede \"graduar\" a una cuenta de desarrollador profesional y enviar las apps a las revisiones de seguridad habituales de Play Store."
+                "x": "A diferencia de los agentes que operan haciendo clic en la pantalla, los agentes de Agent-Native llaman a las mismas acciones que usa la UI y terminan más rápido con menos tokens. Se puede escribir a un agente desde Slack, Teams, Discord, correo electrónico, Telegram o WhatsApp, conectar Notion, Linear y GitHub mediante MCP, y cada app es también un servidor MCP para Claude, ChatGPT, Cursor o Codex."
               },
               {
                 "t": "p",
-                "x": "Google también permite que Gemini muestre enlaces directos a apps de Play Store en los chats, y un nuevo Game Finder recomienda juegos según el Gamer DNA del usuario, un nuevo perfil de gustos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-                "cap": "Gamer DNA y Game Playlists en la nueva función Game Finder de Play Store."
+                "x": "Incluye funciones de equipo como instrucciones, habilidades y memoria compartidas, además de autenticación, permisos y sincronización en vivo. Se puede usar una clave propia de Anthropic, OpenAI, Gemini u OpenRouter, o ejecutar un modelo local con Ollama. Clips, Slides y Design son apps agénticas de código abierto creadas con él."
               }
             ]
           }
@@ -259,165 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "바이브 코딩한 앱도\nPlay Store로 간다",
-          "body": "Google 계정만으로 바이브 코딩 앱을 Play Store에 올릴 수 있다.",
-          "mini_headline": "바이브 코딩 앱, Play Store 입성",
+          "headline": "에이전트 앱 프레임워크,\nBuilder.io가 공개",
+          "body": "Builder.io 프레임워크는 액션 하나로 UI와 에이전트를 함께 움직인다.",
+          "mini_headline": "Builder.io, Agent-Native 베타 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-                "cap": "Play Store의 개인 라이브러리 섹션."
+                "t": "video",
+                "yt": "6t_AMjY5gJc"
               },
               {
                 "t": "p",
-                "x": "Google은 Play Store 업데이트의 일환으로, Android 앱을 바이브 코딩으로 만든 사람이라면 누구나 Google 계정만으로 Play Store에 배포할 수 있게 하겠다고 발표했다."
+                "x": "Builder.io가 Agent-Native를 베타로 내놓는다. 직관적인 UIs를 갖춘 AI 에이전트를 만드는 오픈소스 TypeScript 프레임워크다. 오픈소스 프레임워크로 로컬에서 시작하거나 Builder.io에서 온라인으로 만들 수 있다. 기능을 한 번 정의하면 Agent-Native가 이를 UI, 에이전트, HTTP API, CLI, MCP, A2A에 모두 노출한다."
               },
               {
                 "t": "p",
-                "x": "이 기능은 미국(US)과 일부 시장의 18세 이상 사용자에게 순차 제공되며, 유료 개발자 계정 없이도 Google AI Studio에서 바이브 코딩한 Android 앱을 올릴 수 있다. AI Studio는 Gemini에 글로 프롬프트를 입력하는 것만으로 앱을 만들어 주며, 프롬프트를 더 쓰거나 생성된 코드를 직접 고쳐 결과를 다듬을 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-                "cap": "AI Studio에서 바이브 코딩한 Android 앱을 Play Store에 게시하는 모습."
+                "x": "에이전틱 앱은 자체 앱을 갖춘 AI 에이전트이며, 앱에 채팅 사이드바를 덧붙인 것이 아니다. 에이전트와 UI는 대등한 파트너여서 UI에서 할 수 있는 일은 에이전트도 할 수 있다. 둘은 액션(같은 검증, 권한, 구현), 데이터(작업이 계속 동기화된다), 애플리케이션 상태(에이전트가 화면에 무엇이 있는지 안다)를 공유한다."
               },
               {
                 "t": "p",
-                "x": "처음에는 새로 생기는 \"개인 라이브러리\" 섹션에서 본인 기기에서만 앱을 쓸 수 있지만, Google은 앞으로 바이브 코딩 앱을 친구와 가족에게 안전하게 공유할 수 있게 할 계획이다. 전 세계 사용자에게 선보이려면 전문 개발자 계정으로 \"졸업\"해 Play Store의 일반 안전 심사에 앱을 제출하면 된다."
+                "x": "화면을 클릭해 가며 움직이는 컴퓨터 사용 에이전트와 달리, Agent-Native 에이전트는 UI가 쓰는 것과 같은 액션을 호출해 더 적은 토큰으로 더 빨리 끝낸다. Slack, Teams, Discord, 이메일, Telegram, WhatsApp에서 에이전트에게 메시지를 보낼 수 있고, MCP로 Notion, Linear, GitHub를 연결할 수 있다. 모든 앱은 Claude, ChatGPT, Cursor, Codex를 위한 MCP 서버이기도 하다."
               },
               {
                 "t": "p",
-                "x": "Google은 또 Gemini가 대화 중에 Play Store 앱으로 바로 가는 링크를 보여 주도록 했고, 새 Game Finder는 새로운 취향 프로필인 Gamer DNA를 바탕으로 게임을 추천한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-                "cap": "Play Store의 새 Game Finder 기능에 있는 Gamer DNA와 Game Playlists."
+                "x": "공유 지침, 스킬, 메모리 같은 팀 기능과 인증, 권한, 실시간 동기화가 기본으로 들어 있다. Anthropic, OpenAI, Gemini, OpenRouter의 키를 직접 가져오거나 Ollama로 로컬 모델을 돌릴 수 있다. Clips, Slides, Design은 이 프레임워크로 만든 오픈소스 에이전틱 앱이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "バイブコーディング製アプリが\nPlay Storeに登場",
-          "body": "Googleアカウントだけで、バイブコーディングのアプリをPlay Storeに出せる。",
-          "mini_headline": "バイブコーディングのアプリがPlay Storeへ",
+          "headline": "Builder.ioが公開\nエージェント型アプリ基盤",
+          "body": "Builder.ioの基盤は、一つのアクション定義でUIもエージェントも動かす。",
+          "mini_headline": "Builder.io、Agent-Nativeのベータ版を公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-                "cap": "Play Storeの個人ライブラリセクション。"
+                "t": "video",
+                "yt": "6t_AMjY5gJc"
               },
               {
                 "t": "p",
-                "x": "GoogleはPlay Storeの一連のアップデートの一環として、Androidアプリをバイブコーディングで作った人なら誰でも、Googleアカウントだけで Play Storeを通じて配布できるようにすると発表した。"
+                "x": "Builder.ioはAgent-Nativeをベータ版として公開する。直感的なUIsを備えたAIエージェントを構築するための、オープンソースのTypeScriptフレームワークだ。オープンソースのフレームワークでローカルから始めることも、Builder.ioでオンラインで構築することもできる。機能を一度定義すれば、Agent-NativeがそれをUI、エージェント、HTTP API、CLI、MCP、A2Aに公開する。"
               },
               {
                 "t": "p",
-                "x": "米国（US）などの一部市場で18歳以上のユーザーに順次提供され、有料のデベロッパーアカウントなしでGoogle AI StudioからバイブコーディングしたAndroidアプリをアップロードできる。AI StudioはGeminiへの文章のプロンプトだけでアプリを生成でき、追加のプロンプトや生成されたコードの直接編集で結果を調整できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-                "cap": "AI StudioがバイブコーディングしたAndroidアプリをPlay Storeに公開する様子。"
+                "x": "エージェント型アプリとは、独自のアプリを備えたAIエージェントであり、アプリにチャットのサイドバーを付け足したものではない。エージェントとUIは対等なパートナーで、UIでできることはエージェントにもできる。両者はアクション（同じ検証、権限、実装）、データ（作業は同期され続ける）、アプリケーションの状態（エージェントは画面に何が表示されているかを把握する）を共有する。"
               },
               {
                 "t": "p",
-                "x": "当初、アプリは新設の「個人ライブラリ」セクションで自分のデバイスでのみ使えるが、Googleはいずれバイブコーディングしたアプリを友人や家族と安全に共有できるようにする計画だ。世界中のユーザーに届けるには、プロのデベロッパーアカウントへ「卒業」し、Play Storeの通常の安全審査にアプリを提出すればよい。"
+                "x": "画面をクリックして操作するコンピューター操作型エージェントと違い、Agent-NativeのエージェントはUIと同じアクションを呼び出すため、より少ないトークンでより速く処理を終える。Slack、Teams、Discord、メール、Telegram、WhatsAppからエージェントにメッセージを送れるほか、MCP経由でNotion、Linear、GitHubを接続できる。すべてのアプリはClaude、ChatGPT、Cursor、Codex向けのMCPサーバーにもなる。"
               },
               {
                 "t": "p",
-                "x": "GoogleはさらにGeminiがチャット内でPlay Storeアプリへの直接リンクを示せるようにし、新しいGame Finderは新たな好みのプロフィール「Gamer DNA」に基づいてゲームを推薦する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-                "cap": "Play Storeの新機能Game FinderにおけるGamer DNAとGame Playlists。"
+                "x": "共有の指示、スキル、メモリーといったチーム機能に加え、認証、権限、リアルタイム同期も組み込まれている。Anthropic、OpenAI、Gemini、OpenRouterのキーを自分で持ち込むことも、Ollamaでローカルモデルを動かすこともできる。Clips、Slides、Designは、これで作られたオープンソースのエージェント型アプリだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "氛围编程的Android应用\n登上Play Store",
-          "body": "仅凭Google账号，任何人都能把氛围编程的应用发布到Play Store。",
-          "mini_headline": "氛围编程应用登上Play Store",
+          "headline": "Builder.io开源\n智能体原生应用框架",
+          "body": "Builder.io的开源框架用一个动作定义驱动UI、智能体与API。",
+          "mini_headline": "Builder.io推出Agent-Native测试版",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-                "cap": "Play Store的个人库板块。"
+                "t": "video",
+                "yt": "6t_AMjY5gJc"
               },
               {
                 "t": "p",
-                "x": "作为Play Store一系列更新的一部分，Google宣布将允许任何用氛围编程打造Android应用的人，仅凭一个Google账号即可通过Play Store分发应用。"
+                "x": "Builder.io推出Agent-Native测试版：这是一个开源TypeScript框架，用于构建带有直观UIs的AI智能体。你可以用开源框架在本地起步，也可以在Builder.io上在线构建。一项能力只需定义一次，Agent-Native就会把它开放给UI、智能体、HTTP API、CLI、MCP和A2A。"
               },
               {
                 "t": "p",
-                "x": "该功能将向美国（US）及其他部分市场的18岁及以上用户逐步推出，用户无需付费开发者账号，即可从Google AI Studio上传氛围编程的Android应用。AI Studio只需向Gemini输入一段文字提示即可生成应用，用户还可以通过更多提示或亲自修改生成的代码来调整结果。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-                "cap": "AI Studio将一款氛围编程的Android应用发布到Play Store。"
+                "x": "智能体应用是自带应用的AI智能体，而不是在应用里加一个聊天侧边栏：智能体与UI是平等的伙伴，凡是能在UI里做的事，智能体也能做。二者共享动作（相同的验证、权限和实现）、数据（工作保持同步）和应用状态（智能体知道你屏幕上有什么）。"
               },
               {
                 "t": "p",
-                "x": "起初，应用只会出现在新的“个人库”板块中，仅供你自己的设备使用，但Google计划最终让你能与亲友安全地分享氛围编程的应用。若想面向全球用户，你可以“升级”为专业开发者账号，并将应用提交至Play Store的常规安全审核。"
+                "x": "与在屏幕上逐一点击的计算机操作型智能体不同，Agent-Native智能体调用UI所用的同一套动作，用更少的令牌更快完成任务。你可以从Slack、Teams、Discord、电子邮件、Telegram或WhatsApp给智能体发消息，通过MCP连接Notion、Linear和GitHub；每个应用同时也是供Claude、ChatGPT、Cursor或Codex使用的MCP服务器。"
               },
               {
                 "t": "p",
-                "x": "Google还让Gemini能在对话中直接给出Play Store应用的链接，新的Game Finder则会根据全新的口味档案Gamer DNA推荐游戏。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-                "cap": "Play Store新Game Finder功能中的Gamer DNA与Game Playlists。"
+                "x": "内置团队功能包括共享指令、技能和记忆，以及身份验证、权限和实时同步。可以自带Anthropic、OpenAI、Gemini或OpenRouter的密钥，也可以用Ollama运行本地模型。Clips、Slides和Design都是用它构建的开源智能体应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las apps de vibe coding\nllegan a Play Store",
-          "body": "Google permitirá publicar en Play Store apps Android hechas con vibe coding con solo una cuenta de Google.",
-          "mini_headline": "Apps de vibe coding llegan a Play Store",
+          "headline": "Builder.io libera un framework\nde apps nativas para agentes",
+          "body": "El framework de Builder.io hace que una sola definición de acción sirva a la UI, el agente, la API y MCP.",
+          "mini_headline": "Builder.io lanza la beta de Agent-Native",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
-                "cap": "La sección de biblioteca personal de Play Store."
+                "t": "video",
+                "yt": "6t_AMjY5gJc"
               },
               {
                 "t": "p",
-                "x": "Como parte de un conjunto de actualizaciones de Play Store, Google anunció que permitirá a cualquier persona que cree una app Android mediante vibe coding distribuirla a través de Play Store con solo una cuenta de Google."
+                "x": "Builder.io lanza en beta Agent-Native, un framework de código abierto en TypeScript para crear agentes de AI con UIs intuitivas. Se puede empezar en local con el framework de código abierto o construir en línea con Builder.io. Basta definir una capacidad una vez para que Agent-Native la exponga a la UI, el agente, la HTTP API, la CLI, MCP y A2A."
               },
               {
                 "t": "p",
-                "x": "La función llegará a usuarios de 18 años o más en Estados Unidos (US) y otros mercados seleccionados, y permitirá subir una app Android hecha con vibe coding desde Google AI Studio sin una cuenta de desarrollador de pago. AI Studio puede generar apps con solo un prompt escrito a Gemini, y los resultados pueden ajustarse con más prompts o editando uno mismo el código generado."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
-                "cap": "AI Studio publicando en Play Store una app Android creada con vibe coding."
+                "x": "Una app agéntica es un agente de AI que trae su propia app, no una barra lateral de chat añadida a una app: el agente y la UI son socios en pie de igualdad, de modo que todo lo que se puede hacer en la UI también lo puede hacer el agente. Comparten acciones (la misma validación, los mismos permisos y la misma implementación), datos (el trabajo se mantiene sincronizado) y estado de la aplicación (el agente sabe qué hay en la pantalla)."
               },
               {
                 "t": "p",
-                "x": "Al principio, la app solo estará disponible en los propios dispositivos del usuario, en una nueva sección de \"biblioteca personal\", pero Google planea permitir más adelante compartir de forma segura las apps creadas con vibe coding con amigos y familiares. Para llegar a una audiencia global, se puede \"graduar\" a una cuenta de desarrollador profesional y enviar las apps a las revisiones de seguridad habituales de Play Store."
+                "x": "A diferencia de los agentes que operan haciendo clic en la pantalla, los agentes de Agent-Native llaman a las mismas acciones que usa la UI y terminan más rápido con menos tokens. Se puede escribir a un agente desde Slack, Teams, Discord, correo electrónico, Telegram o WhatsApp, conectar Notion, Linear y GitHub mediante MCP, y cada app es también un servidor MCP para Claude, ChatGPT, Cursor o Codex."
               },
               {
                 "t": "p",
-                "x": "Google también permite que Gemini muestre enlaces directos a apps de Play Store en los chats, y un nuevo Game Finder recomienda juegos según el Gamer DNA del usuario, un nuevo perfil de gustos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
-                "cap": "Gamer DNA y Game Playlists en la nueva función Game Finder de Play Store."
+                "x": "Incluye funciones de equipo como instrucciones, habilidades y memoria compartidas, además de autenticación, permisos y sincronización en vivo. Se puede usar una clave propia de Anthropic, OpenAI, Gemini u OpenRouter, o ejecutar un modelo local con Ollama. Clips, Slides y Design son apps agénticas de código abierto creadas con él."
               }
             ]
           }
@@ -425,15 +315,15 @@
       }
     },
     {
-      "id": "design-nvidia-usd-brep-kernel",
+      "id": "design-spectral-labs-ai-cad",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nvidia 오픈소스 커널\nAI에 CAD 솔리드 개방",
-      "body": "Nvidia USD BRep이 NURBS 형상을 AI의 3D 설계에 열었다.",
-      "mini_headline": "Nvidia 커널, CAD를 AI에 개방",
+      "headline": "AI, SolidWorks\n자격시험 통과 주장",
+      "body": "Spectral Labs는 자사 AI가 처음으로 CAD 인증을 땄다고 주장한다.",
+      "mini_headline": "AI, SolidWorks 시험 통과",
       "tool": "Text-to-CAD",
       "source": "DEVELOP3D",
-      "url": "https://develop3d.com/cad/nvidia-launches-usd-brep-geometry-kernel-for-solid-modelling/",
+      "url": "https://develop3d.com/cad/spectral-labs-turing-test-ai-cad/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -441,173 +331,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+            "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
           },
           {
             "t": "p",
-            "x": "Nvidia가 NURBS-based 경계 표현(BRep) 솔리드 모델링용 독립형 C++·Python 라이브러리 USD BRep을 출시했다. 덕분에 AI 도구와 워크플로를 더 적극적으로 쓰는 오픈소스 CAD 모델링 소프트웨어를 만들려는 개발자들의 움직임에 속도가 붙었다."
+            "x": "Spectral Labs는 기계 엔지니어용 업계 표준 CAD 자격 인증을 처음 따낸 AI 시스템을 만들었다고 주장한다. 회사 설명으로는 자사 에이전트가 Solidworks Professional 시험에 합격했다. 부품과 메커니즘을 스스로 만들고 고치고 조립하면서 세 시간도 안 걸려 시험을 끝냈다."
+          },
+          {
+            "t": "video",
+            "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
           },
           {
             "t": "p",
-            "x": "AI-to-CAD는 그동안 기존 CAD 데이터와 메타데이터, 여러 단계로 이뤄진 피처 트리로 머신러닝 알고리즘을 학습시키기 어려워 고전했다. USD BRep은 NURBS와 BRep 형상을 Python과 C++ 구조에 직접 노출한다. 개발자는 정확한 기하 경계를 신경망에 넣거나 생성 모델(LLMs, Diffusion 네트워크 등)을 프로그래밍해 수학적으로 정확하고 제조 가능한 3D 모델을 만들 수 있다."
+            "x": "시스템은 물리 엔지니어링용 파운데이션 모델 SGS-Mk2와 CAD 실행 환경 Quartz로 이뤄진다. SGS-Mk2는 부품과 어셈블리의 형상, 위상, 운동학을 추론하며, 회사는 기하 추론 문제에서 이 모델이 문제당 비용을 46~87퍼센트 줄였다고 주장한다."
           },
           {
             "t": "p",
-            "x": "가장 널리 쓰이는 3D CAD 커널 Parasolid를 개발한 Siemens가 당장 긴장할 것 같지는 않다. Siemens Digital Industries CEO Tony Hemmelgarn은 올해 초 DEVELOP3D에 \"가치는 또 하나의 모델러에 있지 않다. 가치는 그 LLM을 이미 있는 CAD 도구와 어떻게 연결하느냐에 있다\"고 말했다."
+            "x": "회사는 시험용 학습 없이 SGS-Mk2를 프런티어 모델과 비교했다. 문제는 내부에서 마련한 45개로, CSWA에서 착안한 20개와 CSWP에서 착안한 25개다. 시험은 여러 번 통과했지만 아직 만점은 받지 못했다."
           },
           {
             "t": "p",
-            "x": "Solid Modeling Solutions가 개발하고 Nvidia가 2022년 5월 인수한 SMLib 기하 커널도 오픈소스 USD BRep 프로젝트에 들어 있다. Nvidia는 기존 CAD 도구를 대체하기보다 파이프라인, 데이터 변환, 다운스트림 프레임워크 최적화에 더 힘을 쏟는 모습이다."
+            "x": "“CAD 생성·편집·이해를 위한 장기 과제 벤치마크가 충분하지 않다”고 Rahul Iyer CEO는 말했다. 회사는 엔지니어링 워크플로를 처음부터 끝까지 자동화하려고 제조사들과 협업을 넓히는 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nvidia's open source kernel\nopens CAD solids to AI",
-          "body": "Nvidia's USD BRep kernel exposes exact NURBS solid geometry to Python and C++, so AI can make manufacturable 3D models.",
-          "mini_headline": "Nvidia kernel opens CAD to AI",
+          "headline": "Spectral Labs says its AI\npassed a SolidWorks exam",
+          "body": "Spectral Labs claims the first AI system to pass an industry-standard CAD certification for mechanical engineers.",
+          "mini_headline": "AI passes\na SolidWorks exam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia has launched USD BRep, a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modelling, sparking a rush from developers to create open source CAD modelling software that makes greater use of AI tools and workflows."
+                "x": "Spectral Labs claims to have built the first AI system to achieve an industry standard CAD certification for mechanical engineers. The company reports that its agent has passed the Solidworks Professional exam – autonomously building, modifying and assembling parts and mechanisms, completing the exam in less than three hours."
+              },
+              {
+                "t": "video",
+                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
               },
               {
                 "t": "p",
-                "x": "AI-to-CAD has suffered due to the issues training machine learning algorithms on traditional CAD data, its metadata and multi-step feature trees. As USD BRep exposes NURBS and BRep geometry directly to Python and C++ structures, developers can feed exact geometric boundaries into neural networks or program generative models (like LLMs and Diffusion nets) to create mathematically sound, manufacturable 3D models."
+                "x": "The system combines SGS-Mk2, its foundation model for physical engineering that reasons about the geometry, topology and kinematics of parts and assemblies, with Quartz, its CAD execution environment. On geometric-reasoning problems, it claims SGS-Mk2 reduced per-problem costs by 46 to 87 per cent."
               },
               {
                 "t": "p",
-                "x": "It is unlikely that Siemens, developer of the most widely utilised 3D CAD kernel Parasolid, will be panicking just yet. \"The value is not in another modeller, the value is in how we can link that LLM to the CAD tools that are there,\" Siemens Digital Industries CEO Tony Hemmelgarn told DEVELOP3D earlier this year."
+                "x": "It compared SGS-Mk2 with frontier models on 45 internally prepared problems (20 inspired by the CSWA, 25 by the CSWP), with no exam-specific training. The exam has been passed multiple times, but not yet with a perfect score."
               },
               {
                 "t": "p",
-                "x": "The SMLib geometry kernel, developed by Solid Modeling Solutions and acquired by Nvidia in May 2022, forms part of the open source USD BRep project. Nvidia looks more focussed on optimising the pipeline, data translation and downstream framework than on replacing existing CAD tools."
+                "x": "“There aren’t enough long-horizon benchmarks for CAD generation/editing/understanding,” said CEO Rahul Iyer. The company is expanding work with manufacturers to automate engineering workflows end to end."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nvidia 오픈소스 커널\nAI에 CAD 솔리드 개방",
-          "body": "Nvidia USD BRep이 NURBS 형상을 AI의 3D 설계에 열었다.",
-          "mini_headline": "Nvidia 커널, CAD를 AI에 개방",
+          "headline": "AI, SolidWorks\n자격시험 통과 주장",
+          "body": "Spectral Labs는 자사 AI가 처음으로 CAD 인증을 땄다고 주장한다.",
+          "mini_headline": "AI, SolidWorks 시험 통과",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia가 NURBS-based 경계 표현(BRep) 솔리드 모델링용 독립형 C++·Python 라이브러리 USD BRep을 출시했다. 덕분에 AI 도구와 워크플로를 더 적극적으로 쓰는 오픈소스 CAD 모델링 소프트웨어를 만들려는 개발자들의 움직임에 속도가 붙었다."
+                "x": "Spectral Labs는 기계 엔지니어용 업계 표준 CAD 자격 인증을 처음 따낸 AI 시스템을 만들었다고 주장한다. 회사 설명으로는 자사 에이전트가 Solidworks Professional 시험에 합격했다. 부품과 메커니즘을 스스로 만들고 고치고 조립하면서 세 시간도 안 걸려 시험을 끝냈다."
+              },
+              {
+                "t": "video",
+                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
               },
               {
                 "t": "p",
-                "x": "AI-to-CAD는 그동안 기존 CAD 데이터와 메타데이터, 여러 단계로 이뤄진 피처 트리로 머신러닝 알고리즘을 학습시키기 어려워 고전했다. USD BRep은 NURBS와 BRep 형상을 Python과 C++ 구조에 직접 노출한다. 개발자는 정확한 기하 경계를 신경망에 넣거나 생성 모델(LLMs, Diffusion 네트워크 등)을 프로그래밍해 수학적으로 정확하고 제조 가능한 3D 모델을 만들 수 있다."
+                "x": "시스템은 물리 엔지니어링용 파운데이션 모델 SGS-Mk2와 CAD 실행 환경 Quartz로 이뤄진다. SGS-Mk2는 부품과 어셈블리의 형상, 위상, 운동학을 추론하며, 회사는 기하 추론 문제에서 이 모델이 문제당 비용을 46~87퍼센트 줄였다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "가장 널리 쓰이는 3D CAD 커널 Parasolid를 개발한 Siemens가 당장 긴장할 것 같지는 않다. Siemens Digital Industries CEO Tony Hemmelgarn은 올해 초 DEVELOP3D에 \"가치는 또 하나의 모델러에 있지 않다. 가치는 그 LLM을 이미 있는 CAD 도구와 어떻게 연결하느냐에 있다\"고 말했다."
+                "x": "회사는 시험용 학습 없이 SGS-Mk2를 프런티어 모델과 비교했다. 문제는 내부에서 마련한 45개로, CSWA에서 착안한 20개와 CSWP에서 착안한 25개다. 시험은 여러 번 통과했지만 아직 만점은 받지 못했다."
               },
               {
                 "t": "p",
-                "x": "Solid Modeling Solutions가 개발하고 Nvidia가 2022년 5월 인수한 SMLib 기하 커널도 오픈소스 USD BRep 프로젝트에 들어 있다. Nvidia는 기존 CAD 도구를 대체하기보다 파이프라인, 데이터 변환, 다운스트림 프레임워크 최적화에 더 힘을 쏟는 모습이다."
+                "x": "“CAD 생성·편집·이해를 위한 장기 과제 벤치마크가 충분하지 않다”고 Rahul Iyer CEO는 말했다. 회사는 엔지니어링 워크플로를 처음부터 끝까지 자동화하려고 제조사들과 협업을 넓히는 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nvidiaのオープンソース\nカーネルがCADをAIへ開放",
-          "body": "NvidiaのUSD BRepがNURBS形状をAIの3D設計に開いた。",
-          "mini_headline": "Nvidiaカーネル、CADをAIに開放",
+          "headline": "AI、SolidWorks\n試験に合格と発表",
+          "body": "Spectral Labsは、自社AIが業界標準のCAD認定に初めて合格したと主張する。",
+          "mini_headline": "AI、SolidWorks試験に合格",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidiaは、NURBS-basedの境界表現（BRep）ソリッドモデリング向けの独立したC++およびPythonライブラリ、USD BRepを公開した。これを受け、AIツールとワークフローをより積極的に活用するオープンソースのCADモデリングソフトウェアを開発しようとする動きが開発者の間で広がっている。"
+                "x": "Spectral Labsは、機械エンジニア向けの業界標準CAD認定を取得した初のAIシステムを構築したと主張している。同社によると、同社のエージェントはSolidworks Professional試験に合格した。部品や機構を自律的に作成、修正、組み立て、三時間足らずで試験を終えたという。"
+              },
+              {
+                "t": "video",
+                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
               },
               {
                 "t": "p",
-                "x": "AI-to-CADは、従来のCADデータやそのメタデータ、多段階のフィーチャーツリーで機械学習アルゴリズムを訓練することの難しさに悩まされてきた。USD BRepはNURBSとBRepの形状をPythonとC++の構造に直接公開するため、開発者は正確な幾何境界をニューラルネットワークに入力したり、生成モデル（LLMsやDiffusionネットなど）をプログラムしたりして、数学的に正しく製造可能な3Dモデルを作ることができる。"
+                "x": "このシステムは、部品やアセンブリの形状、トポロジー、運動学を推論する物理エンジニアリング向け基盤モデルSGS-Mk2と、CAD実行環境Quartzを組み合わせたものだ。幾何推論の問題では、SGS-Mk2によって問題あたりのコストが46〜87パーセント下がったとしている。"
               },
               {
                 "t": "p",
-                "x": "最も広く使われている3D CADカーネルParasolidを開発したSiemensが、今すぐ慌てる可能性は低い。Siemens Digital IndustriesのCEO、Tony Hemmelgarnは今年初めDEVELOP3Dに対し「価値はもう一つのモデラーにあるのではない。価値は、そのLLMを既存のCADツールとどう結びつけられるかにある」と語った。"
+                "x": "同社は試験専用の学習を行わず、社内で用意した45問（CSWAに着想を得た20問、CSWPに着想を得た25問）でSGS-Mk2をフロンティアモデルと比較した。この試験には複数回合格しているが、満点にはまだ届いていない。"
               },
               {
                 "t": "p",
-                "x": "Solid Modeling Solutionsが開発し、Nvidiaが2022年5月に買収したSMLibジオメトリカーネルは、オープンソースのUSD BRepプロジェクトの一部を成す。Nvidiaは既存のCADツールを置き換えることよりも、パイプライン、データ変換、下流のフレームワークの最適化に重点を置いているようだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Nvidia开源内核\n向AI开放CAD实体",
-          "body": "Nvidia的USD BRep将NURBS实体几何开放给AI，助其生成可制造的3D模型。",
-          "mini_headline": "Nvidia内核向AI开放CAD",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nvidia推出了USD BRep，这是一个用于NURBS-based边界表示（BRep）实体建模的独立C++和Python库。此举引发开发者竞相打造更多利用AI工具和工作流的开源CAD建模软件。"
-              },
-              {
-                "t": "p",
-                "x": "AI-to-CAD一直受困于用传统CAD数据、其元数据及多步骤特征树训练机器学习算法的难题。由于USD BRep将NURBS和BRep几何直接暴露给Python和C++结构，开发者可以把精确的几何边界输入神经网络，或编写生成模型（如LLMs和Diffusion网络），以创建数学上严谨、可制造的3D模型。"
-              },
-              {
-                "t": "p",
-                "x": "开发了最广泛使用的3D CAD内核Parasolid的Siemens，目前还不太可能感到恐慌。Siemens Digital Industries首席执行官Tony Hemmelgarn今年早些时候对DEVELOP3D表示：“价值不在于再多一个建模器，价值在于我们如何把那个LLM与现有的CAD工具连接起来。”"
-              },
-              {
-                "t": "p",
-                "x": "由Solid Modeling Solutions开发、Nvidia于2022年5月收购的SMLib几何内核，是开源USD BRep项目的组成部分。相比取代现有CAD工具，Nvidia看起来更专注于优化管线、数据转换和下游框架。"
+                "x": "「CAD生成・編集・理解のための長期タスクのベンチマークが足りない」とCEOのRahul Iyerは語った。同社はエンジニアリングのワークフローを端から端まで自動化するため、製造業者との取り組みを広げている。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El kernel abierto de Nvidia\nabre los sólidos CAD a la AI",
-          "body": "El kernel USD BRep de Nvidia expone geometría NURBS exacta a Python y C++ para que la AI cree modelos 3D fabricables.",
-          "mini_headline": "El kernel de Nvidia abre CAD a la AI",
+          "headline": "Spectral Labs dice que su AI\naprobó un examen de SolidWorks",
+          "body": "Spectral Labs dice tener la primera AI que aprueba una certificación CAD estándar para ingenieros mecánicos.",
+          "mini_headline": "Una AI aprueba un examen de SolidWorks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia ha lanzado USD BRep, una biblioteca independiente de C++ y Python para el modelado de sólidos por representación de contornos (BRep) NURBS-based, lo que ha impulsado a los desarrolladores a crear software de modelado CAD de código abierto que aprovecha más las herramientas y los flujos de trabajo de AI."
+                "x": "Spectral Labs afirma haber creado el primer sistema de AI que obtiene una certificación CAD estándar del sector para ingenieros mecánicos. La empresa informa de que su agente aprobó el examen Solidworks Professional: construyó, modificó y ensambló piezas y mecanismos de forma autónoma y completó el examen en menos de tres horas."
+              },
+              {
+                "t": "video",
+                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
               },
               {
                 "t": "p",
-                "x": "El AI-to-CAD se ha visto lastrado por la dificultad de entrenar algoritmos de aprendizaje automático con datos CAD tradicionales, sus metadatos y sus árboles de operaciones de varios pasos. Como USD BRep expone la geometría NURBS y BRep directamente a estructuras de Python y C++, los desarrolladores pueden introducir contornos geométricos exactos en redes neuronales o programar modelos generativos (como LLMs y redes Diffusion) para crear modelos 3D matemáticamente sólidos y fabricables."
+                "x": "El sistema combina SGS-Mk2, su modelo fundacional para ingeniería física que razona sobre la geometría, la topología y la cinemática de piezas y ensamblajes, con Quartz, su entorno de ejecución CAD. En problemas de razonamiento geométrico, afirma que SGS-Mk2 redujo el coste por problema entre un 46 y un 87 por ciento."
               },
               {
                 "t": "p",
-                "x": "Es poco probable que Siemens, desarrolladora de Parasolid, el kernel CAD 3D más utilizado, vaya a alarmarse por ahora. \"El valor no está en otro modelador, el valor está en cómo podemos vincular ese LLM con las herramientas CAD que ya existen\", dijo a DEVELOP3D a principios de este año Tony Hemmelgarn, CEO de Siemens Digital Industries."
+                "x": "Comparó SGS-Mk2 con modelos de frontera en 45 problemas preparados internamente (20 inspirados en el CSWA y 25 en el CSWP), sin entrenamiento específico para el examen. El examen se ha aprobado varias veces, pero todavía no con la puntuación máxima."
               },
               {
                 "t": "p",
-                "x": "El kernel geométrico SMLib, desarrollado por Solid Modeling Solutions y adquirido por Nvidia en mayo de 2022, forma parte del proyecto de código abierto USD BRep. Nvidia parece más centrada en optimizar el pipeline, la traducción de datos y el framework posterior que en sustituir las herramientas CAD existentes."
+                "x": "«No hay suficientes benchmarks de largo horizonte para la generación/edición/comprensión de CAD», dijo el CEO Rahul Iyer. La empresa amplía su trabajo con fabricantes para automatizar de principio a fin los flujos de trabajo de ingeniería."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Spectral Labs\nAI通过SolidWorks",
+          "body": "Spectral Labs称其AI系统率先通过面向机械工程师的行业标准CAD认证。",
+          "mini_headline": "AI通过SolidWorks考试",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Spectral Labs称已打造出首个获得机械工程师行业标准CAD认证的AI系统。公司表示，其智能体已通过Solidworks Professional考试——自主完成零件与机构的建模、修改和装配，用时不到三小时。"
+              },
+              {
+                "t": "video",
+                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+              },
+              {
+                "t": "p",
+                "x": "该系统将SGS-Mk2与Quartz相结合：前者是其面向物理工程的基础模型，能够推理零件及装配体的几何、拓扑与运动学关系；后者是其CAD执行环境。公司称，在几何推理问题上，SGS-Mk2将单题成本降低了46%至87%。"
+              },
+              {
+                "t": "p",
+                "x": "公司在45道内部准备的题目（20道参考CSWA，25道参考CSWP）上将SGS-Mk2与前沿模型进行对比，未做任何针对考试的专门训练。该考试已多次被通过，但尚未有人取得满分。"
+              },
+              {
+                "t": "p",
+                "x": "“CAD生成/编辑/理解方面的长周期基准测试还不够多，”CEO Rahul Iyer表示。公司正扩大与制造商的合作，力求端到端地自动化工程工作流程。"
               }
             ]
           }
@@ -615,121 +529,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nvidia 오픈소스 커널\nAI에 CAD 솔리드 개방",
-          "body": "Nvidia USD BRep이 NURBS 형상을 AI의 3D 설계에 열었다.",
-          "mini_headline": "Nvidia 커널, CAD를 AI에 개방",
+          "headline": "AI, SolidWorks\n자격시험 통과 주장",
+          "body": "Spectral Labs는 자사 AI가 CAD 인증을 처음 통과했다고 주장한다.",
+          "mini_headline": "AI, SolidWorks 시험 통과",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia가 NURBS-based 경계 표현(BRep) 솔리드 모델링을 위한 독립형 C++·Python 라이브러리 USD BRep을 출시했다. 이를 계기로 AI 도구와 워크플로를 더 적극적으로 활용하는 오픈소스 CAD 모델링 소프트웨어를 만들려는 개발자들의 움직임이 빨라지고 있다."
+                "x": "Spectral Labs는 기계 엔지니어를 위한 업계 표준 CAD 자격 인증을 따낸 첫 AI 시스템을 만들었다고 주장한다. 회사에 따르면 자사 에이전트가 Solidworks Professional 시험에 합격했다. 부품과 메커니즘을 스스로 만들고 수정하고 조립하며 세 시간이 안 돼 시험을 마쳤다."
+              },
+              {
+                "t": "video",
+                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
               },
               {
                 "t": "p",
-                "x": "AI-to-CAD는 기존 CAD 데이터와 그 메타데이터, 여러 단계로 이뤄진 피처 트리로 머신러닝 알고리즘을 학습시키기 어렵다는 문제로 고전해 왔다. USD BRep은 NURBS와 BRep 형상을 Python과 C++ 구조에 직접 노출하므로, 개발자는 정확한 기하 경계를 신경망에 입력하거나 생성 모델(LLMs, Diffusion 네트워크 등)을 프로그래밍해 수학적으로 정확하고 제조 가능한 3D 모델을 만들 수 있다."
+                "x": "이 시스템은 부품과 어셈블리의 형상, 위상, 운동학을 추론하는 물리 엔지니어링용 파운데이션 모델 SGS-Mk2와 CAD 실행 환경 Quartz를 결합했다. 회사는 기하 추론 문제에서 SGS-Mk2가 문제당 비용을 46~87퍼센트 줄였다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "가장 널리 쓰이는 3D CAD 커널 Parasolid를 개발한 Siemens가 당장 긴장할 가능성은 낮다. Siemens Digital Industries CEO Tony Hemmelgarn은 올해 초 DEVELOP3D에 \"가치는 또 하나의 모델러에 있지 않다. 가치는 그 LLM을 이미 있는 CAD 도구와 어떻게 연결하느냐에 있다\"고 말했다."
+                "x": "회사는 시험용 학습 없이, 내부에서 마련한 문제 45개(CSWA에서 착안한 20개, CSWP에서 착안한 25개)로 SGS-Mk2를 프런티어 모델과 비교했다. 이 시험은 여러 차례 통과했지만 아직 만점은 받지 못했다."
               },
               {
                 "t": "p",
-                "x": "Solid Modeling Solutions가 개발하고 Nvidia가 2022년 5월 인수한 SMLib 기하 커널은 오픈소스 USD BRep 프로젝트의 일부를 이룬다. Nvidia는 기존 CAD 도구를 대체하기보다 파이프라인, 데이터 변환, 다운스트림 프레임워크 최적화에 더 집중하는 모습이다."
+                "x": "“CAD 생성·편집·이해를 위한 장기 과제 벤치마크가 충분하지 않다”고 Rahul Iyer CEO는 말했다. 회사는 엔지니어링 워크플로를 처음부터 끝까지 자동화하기 위해 제조사들과 협업을 넓히고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nvidiaのオープンソース\nカーネルがCADをAIへ開放",
-          "body": "NvidiaのUSD BRepがNURBS形状をAIの3D設計に開いた。",
-          "mini_headline": "Nvidiaカーネル、CADをAIに開放",
+          "headline": "AI、SolidWorks\n試験に合格と発表",
+          "body": "Spectral Labsは、自社AIが業界標準のCAD認定に初めて合格したと主張する。",
+          "mini_headline": "AI、SolidWorks試験に合格",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidiaは、NURBS-basedの境界表現（BRep）ソリッドモデリング向けの独立したC++およびPythonライブラリ、USD BRepを公開した。これを受け、AIツールとワークフローをより積極的に活用するオープンソースのCADモデリングソフトウェアを開発しようとする動きが開発者の間で広がっている。"
+                "x": "Spectral Labsは、機械エンジニア向けの業界標準CAD認定を取得した初のAIシステムを構築したと主張している。同社によると、同社のエージェントはSolidworks Professional試験に合格した。部品や機構を自律的に作成、修正、組み立て、三時間足らずで試験を終えたという。"
+              },
+              {
+                "t": "video",
+                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
               },
               {
                 "t": "p",
-                "x": "AI-to-CADは、従来のCADデータやそのメタデータ、多段階のフィーチャーツリーで機械学習アルゴリズムを訓練することの難しさに悩まされてきた。USD BRepはNURBSとBRepの形状をPythonとC++の構造に直接公開するため、開発者は正確な幾何境界をニューラルネットワークに入力したり、生成モデル（LLMsやDiffusionネットなど）をプログラムしたりして、数学的に正しく製造可能な3Dモデルを作ることができる。"
+                "x": "このシステムは、部品やアセンブリの形状、トポロジー、運動学を推論する物理エンジニアリング向け基盤モデルSGS-Mk2と、CAD実行環境Quartzを組み合わせたものだ。幾何推論の問題では、SGS-Mk2によって問題あたりのコストが46〜87パーセント下がったとしている。"
               },
               {
                 "t": "p",
-                "x": "最も広く使われている3D CADカーネルParasolidを開発したSiemensが、今すぐ慌てる可能性は低い。Siemens Digital IndustriesのCEO、Tony Hemmelgarnは今年初めDEVELOP3Dに対し「価値はもう一つのモデラーにあるのではない。価値は、そのLLMを既存のCADツールとどう結びつけられるかにある」と語った。"
+                "x": "同社は試験専用の学習を行わず、社内で用意した45問（CSWAに着想を得た20問、CSWPに着想を得た25問）でSGS-Mk2をフロンティアモデルと比較した。この試験には複数回合格しているが、満点にはまだ届いていない。"
               },
               {
                 "t": "p",
-                "x": "Solid Modeling Solutionsが開発し、Nvidiaが2022年5月に買収したSMLibジオメトリカーネルは、オープンソースのUSD BRepプロジェクトの一部を成す。Nvidiaは既存のCADツールを置き換えることよりも、パイプライン、データ変換、下流のフレームワークの最適化に重点を置いているようだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Nvidia开源内核\n向AI开放CAD实体",
-          "body": "Nvidia的USD BRep将NURBS实体几何开放给AI，助其生成可制造的3D模型。",
-          "mini_headline": "Nvidia内核向AI开放CAD",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Nvidia推出了USD BRep，这是一个用于NURBS-based边界表示（BRep）实体建模的独立C++和Python库。此举引发开发者竞相打造更多利用AI工具和工作流的开源CAD建模软件。"
-              },
-              {
-                "t": "p",
-                "x": "AI-to-CAD一直受困于用传统CAD数据、其元数据及多步骤特征树训练机器学习算法的难题。由于USD BRep将NURBS和BRep几何直接暴露给Python和C++结构，开发者可以把精确的几何边界输入神经网络，或编写生成模型（如LLMs和Diffusion网络），以创建数学上严谨、可制造的3D模型。"
-              },
-              {
-                "t": "p",
-                "x": "开发了最广泛使用的3D CAD内核Parasolid的Siemens，目前还不太可能感到恐慌。Siemens Digital Industries首席执行官Tony Hemmelgarn今年早些时候对DEVELOP3D表示：“价值不在于再多一个建模器，价值在于我们如何把那个LLM与现有的CAD工具连接起来。”"
-              },
-              {
-                "t": "p",
-                "x": "由Solid Modeling Solutions开发、Nvidia于2022年5月收购的SMLib几何内核，是开源USD BRep项目的组成部分。相比取代现有CAD工具，Nvidia看起来更专注于优化管线、数据转换和下游框架。"
+                "x": "「CAD生成・編集・理解のための長期タスクのベンチマークが足りない」とCEOのRahul Iyerは語った。同社はエンジニアリングのワークフローを端から端まで自動化するため、製造業者との取り組みを広げている。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El kernel abierto de Nvidia\nabre los sólidos CAD a la AI",
-          "body": "El kernel USD BRep de Nvidia expone geometría NURBS exacta a Python y C++ para que la AI cree modelos 3D fabricables.",
-          "mini_headline": "El kernel de Nvidia abre CAD a la AI",
+          "headline": "Spectral Labs dice que su AI\naprobó un examen de SolidWorks",
+          "body": "Spectral Labs dice tener la primera AI que aprueba una certificación CAD estándar para ingenieros mecánicos.",
+          "mini_headline": "Una AI aprueba un examen de SolidWorks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/NVIDIA-USD-BREP-kernel-CAD.jpg"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia ha lanzado USD BRep, una biblioteca independiente de C++ y Python para el modelado de sólidos por representación de contornos (BRep) NURBS-based, lo que ha impulsado a los desarrolladores a crear software de modelado CAD de código abierto que aprovecha más las herramientas y los flujos de trabajo de AI."
+                "x": "Spectral Labs afirma haber creado el primer sistema de AI que obtiene una certificación CAD estándar del sector para ingenieros mecánicos. La empresa informa de que su agente aprobó el examen Solidworks Professional: construyó, modificó y ensambló piezas y mecanismos de forma autónoma y completó el examen en menos de tres horas."
+              },
+              {
+                "t": "video",
+                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
               },
               {
                 "t": "p",
-                "x": "El AI-to-CAD se ha visto lastrado por la dificultad de entrenar algoritmos de aprendizaje automático con datos CAD tradicionales, sus metadatos y sus árboles de operaciones de varios pasos. Como USD BRep expone la geometría NURBS y BRep directamente a estructuras de Python y C++, los desarrolladores pueden introducir contornos geométricos exactos en redes neuronales o programar modelos generativos (como LLMs y redes Diffusion) para crear modelos 3D matemáticamente sólidos y fabricables."
+                "x": "El sistema combina SGS-Mk2, su modelo fundacional para ingeniería física que razona sobre la geometría, la topología y la cinemática de piezas y ensamblajes, con Quartz, su entorno de ejecución CAD. En problemas de razonamiento geométrico, afirma que SGS-Mk2 redujo el coste por problema entre un 46 y un 87 por ciento."
               },
               {
                 "t": "p",
-                "x": "Es poco probable que Siemens, desarrolladora de Parasolid, el kernel CAD 3D más utilizado, vaya a alarmarse por ahora. \"El valor no está en otro modelador, el valor está en cómo podemos vincular ese LLM con las herramientas CAD que ya existen\", dijo a DEVELOP3D a principios de este año Tony Hemmelgarn, CEO de Siemens Digital Industries."
+                "x": "Comparó SGS-Mk2 con modelos de frontera en 45 problemas preparados internamente (20 inspirados en el CSWA y 25 en el CSWP), sin entrenamiento específico para el examen. El examen se ha aprobado varias veces, pero todavía no con la puntuación máxima."
               },
               {
                 "t": "p",
-                "x": "El kernel geométrico SMLib, desarrollado por Solid Modeling Solutions y adquirido por Nvidia en mayo de 2022, forma parte del proyecto de código abierto USD BRep. Nvidia parece más centrada en optimizar el pipeline, la traducción de datos y el framework posterior que en sustituir las herramientas CAD existentes."
+                "x": "«No hay suficientes benchmarks de largo horizonte para la generación/edición/comprensión de CAD», dijo el CEO Rahul Iyer. La empresa amplía su trabajo con fabricantes para automatizar de principio a fin los flujos de trabajo de ingeniería."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Spectral Labs\nAI通过SolidWorks",
+          "body": "Spectral Labs称其AI系统率先通过面向机械工程师的行业标准CAD认证。",
+          "mini_headline": "AI通过SolidWorks考试",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Spectral Labs称已打造出首个获得机械工程师行业标准CAD认证的AI系统。公司表示，其智能体已通过Solidworks Professional考试——自主完成零件与机构的建模、修改和装配，用时不到三小时。"
+              },
+              {
+                "t": "video",
+                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+              },
+              {
+                "t": "p",
+                "x": "该系统将SGS-Mk2与Quartz相结合：前者是其面向物理工程的基础模型，能够推理零件及装配体的几何、拓扑与运动学关系；后者是其CAD执行环境。公司称，在几何推理问题上，SGS-Mk2将单题成本降低了46%至87%。"
+              },
+              {
+                "t": "p",
+                "x": "公司在45道内部准备的题目（20道参考CSWA，25道参考CSWP）上将SGS-Mk2与前沿模型进行对比，未做任何针对考试的专门训练。该考试已多次被通过，但尚未有人取得满分。"
+              },
+              {
+                "t": "p",
+                "x": "“CAD生成/编辑/理解方面的长周期基准测试还不够多，”CEO Rahul Iyer表示。公司正扩大与制造商的合作，力求端到端地自动化工程工作流程。"
               }
             ]
           }
@@ -737,311 +667,311 @@
       }
     },
     {
-      "id": "design-rtx-spark-creative-apps",
+      "id": "design-cozyblanket-pro",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ComfyUI 등 창작앱\nRTX Spark에 맞춘다",
-      "body": "10월 16일 RTX Spark 출시 전 Adobe 앱이 최대 2배 빨라진다.",
-      "mini_headline": "RTX Spark 맞춤 창작 앱",
+      "headline": "CozyBlanket\niPad에 AI 리토폴로지",
+      "body": "Sparseal의 AI-assisted 리토폴로지 앱이 iPad 버전부터 나왔다.",
+      "mini_headline": "CozyBlanket Pro, iPad 출시",
       "tool": "KeyShot",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+            "t": "video",
+            "yt": "K0awUmCpELQ"
           },
           {
             "t": "p",
-            "x": "NVIDIA와 Microsoft는 RTX Spark 노트북을 10월 16일 금요일에 출시한다고 발표했다. RTX Spark는 최대 128GB 통합 메모리와 1페타플롭의 AI 연산 성능을 갖췄고, 콘텐츠 제작 워크플로에 130개가 넘는 가속 앱을 제공한다. NVIDIA와 파트너사들은 출시를 앞두고 새 소프트웨어 기능과 최적화를 잇따라 내놓는 중이다."
+            "x": "Sparseal이 CozyBlanket Pro를 내놓았다. 기대를 모아 온 AI-assisted 리토폴로지·UV 언래핑·텍스처 베이킹 소프트웨어로, 게임 개발과 애니메이션 작업용이다. iPad 앱이 먼저 나왔고 데스크톱 버전은 개발 중이다."
           },
           {
             "t": "p",
-            "x": "Adobe는 Photoshop, Premiere, Substance 3D를 RTX Spark에 맞게 최적화해 AI, 편집, 색상, 효과 작업 속도를 최대 2배 높인다. Photoshop에는 GPU 가속(GPU-accelerated) 합성이 들어간다. Premiere에서는 재생, 렌더링, 컬러 그레이딩과 Enhance Speech, Object Mask 같은 AI 기능이 빨라진다. Photoshop과 Premiere의 AI 기능 최적화는 베타로 먼저 나오고, Substance 3D 업데이트는 곧 나온다."
+            "x": "원조 CozyBlanket의 정신적 후속작일 뿐 직접 업데이트한 제품은 아니며, “수백만 개의 폴리곤”을 지닌 캐릭터와 환경 전체를 다루도록 만들었다. AI 모델은 자체 개발해 합성 데이터로만 학습시켰고, 사용자 기기에서 로컬로 돈다."
           },
           {
             "t": "p",
-            "x": "ComfyUI에는 RTX Video Frame Generation과 RTX Video HDR이라는 새 노드 두 개와 EXR 내보내기가 추가된다. 크리에이터는 여기에 LTX 2.5를 더해 1080p, 30 fps SDR 클립을 더 매끄러운 60 fps HDR 영상으로 바꿀 수 있다."
+            "x": "리토폴로지는 사용자가 Pencil 도구로 토폴로지 패치의 가장자리를 그리면 AI가 안쪽을 채우는 식이고, 결과는 손으로 다듬거나 고칠 수 있다. CG Channel은 초기 데모의 얼굴 토폴로지가 관례에서 벗어나 있었다며 품질은 가이드를 어떻게 배치하느냐에 달렸다고 짚었다."
           },
           {
             "t": "p",
-            "x": "Blender는 RTX Spark를 지원하는 5.3 버전 베타를 공개했고, 다음 달에는 뷰포트 실시간 미리보기용 DLSS Ray Reconstruction을 넣는다. NVIDIA Broadcast 2.3에는 Video Super Resolution, Frame Generation, Offline File Processor와 로컬 AI 에이전트용 MCP 서버가 들어간다."
+            "x": "UV 언래핑도 같은 방식이고 패킹은 GPU-accelerated로 처리한다. UDIM을 지원하고 버텍스 컬러, 탄젠트 스페이스, AO 맵을 베이킹해 OBJ나 glTF로 내보낸다. iPadOS 18.6+가 필요하며, 기본 앱은 무료지만 저장하거나 내보내려면 일회성 $89.99를 내야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Photoshop, Blender and ComfyUI\ntune up for RTX Spark",
-          "body": "Ahead of the Oct. 16 RTX Spark launch, Nvidia and Adobe rearchitect Photoshop and Premiere for up to 2x performance.",
-          "mini_headline": "Creative apps ready for RTX Spark",
+          "headline": "CozyBlanket Pro brings AI\nretopology to the iPad",
+          "body": "Sparseal's AI-assisted retopology, UV unwrapping and baking app is out on iPad, with a desktop edition in development.",
+          "mini_headline": "CozyBlanket Pro\nlands on iPad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+                "t": "video",
+                "yt": "K0awUmCpELQ"
               },
               {
                 "t": "p",
-                "x": "NVIDIA and Microsoft announced that RTX Spark laptops will be available on Friday, Oct. 16. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark brings over 130 accelerated apps to content creation workflows. Ahead of the launch, NVIDIA and its partners are rolling out new software features and optimizations."
+                "x": "Sparseal has released CozyBlanket Pro, its much-anticipated AI-assisted retopology, UV unwrapping and texture baking software for game development and animation work. It is initially available as an iPad app, with a desktop version in development."
               },
               {
                 "t": "p",
-                "x": "Adobe is optimizing Photoshop, Premiere and Substance 3D for RTX Spark, delivering up to 2x faster AI, editing, color and effects. Photoshop gets GPU-accelerated compositing, while Premiere accelerates playback, rendering, color grading and AI features such as Enhance Speech and Object Mask. AI feature optimizations in Photoshop and Premiere are ready in beta, with Substance 3D updates coming soon."
+                "x": "It is a spiritual successor to the original CozyBlanket but not a direct update, built for entire characters and environments with “millions of polygons”. Its AI models were developed in-house, trained exclusively on synthetic data, and run locally on the user’s machine."
               },
               {
                 "t": "p",
-                "x": "ComfyUI adds two new nodes, RTX Video Frame Generation and RTX Video HDR, plus EXR export. Creators can combine LTX 2.5 with them to turn a 1080p, 30 fps SDR clip into a smoother 60 fps HDR video."
+                "x": "For retopology, users draw the edges of topology patches with the Pencil tool and the AI fills them in; results can be refined or edited manually. CG Channel notes early demos showed unconventional facial topology, so quality depends on guide placement."
               },
               {
                 "t": "p",
-                "x": "Blender has released a beta of version 5.3 with RTX Spark compatibility, and next month will add DLSS Ray Reconstruction for real-time previews in the viewport. NVIDIA Broadcast 2.3 adds Video Super Resolution, Frame Generation, an Offline File Processor and an MCP server for local AI agents."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "ComfyUI 등 창작앱\nRTX Spark에 맞춘다",
-          "body": "10월 16일 RTX Spark 출시 전 Adobe 앱이 최대 2배 빨라진다.",
-          "mini_headline": "RTX Spark 맞춤 창작 앱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA와 Microsoft는 RTX Spark 노트북을 10월 16일 금요일에 출시한다고 발표했다. RTX Spark는 최대 128GB 통합 메모리와 1페타플롭의 AI 연산 성능을 갖췄고, 콘텐츠 제작 워크플로에 130개가 넘는 가속 앱을 제공한다. NVIDIA와 파트너사들은 출시를 앞두고 새 소프트웨어 기능과 최적화를 잇따라 내놓는 중이다."
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 Photoshop, Premiere, Substance 3D를 RTX Spark에 맞게 최적화해 AI, 편집, 색상, 효과 작업 속도를 최대 2배 높인다. Photoshop에는 GPU 가속(GPU-accelerated) 합성이 들어간다. Premiere에서는 재생, 렌더링, 컬러 그레이딩과 Enhance Speech, Object Mask 같은 AI 기능이 빨라진다. Photoshop과 Premiere의 AI 기능 최적화는 베타로 먼저 나오고, Substance 3D 업데이트는 곧 나온다."
-              },
-              {
-                "t": "p",
-                "x": "ComfyUI에는 RTX Video Frame Generation과 RTX Video HDR이라는 새 노드 두 개와 EXR 내보내기가 추가된다. 크리에이터는 여기에 LTX 2.5를 더해 1080p, 30 fps SDR 클립을 더 매끄러운 60 fps HDR 영상으로 바꿀 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Blender는 RTX Spark를 지원하는 5.3 버전 베타를 공개했고, 다음 달에는 뷰포트 실시간 미리보기용 DLSS Ray Reconstruction을 넣는다. NVIDIA Broadcast 2.3에는 Video Super Resolution, Frame Generation, Offline File Processor와 로컬 AI 에이전트용 MCP 서버가 들어간다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ComfyUIなど制作アプリ\nRTX Sparkに最適化",
-          "body": "10月16日のRTX Spark発売を前に、Adobe製アプリが最大2倍高速化する。",
-          "mini_headline": "RTX Spark対応の制作アプリ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIAとMicrosoftは、RTX Sparkノートパソコンを10月16日（金）に発売すると発表した。最大128GBのユニファイドメモリと1ペタフロップのAI演算性能を備えるRTX Sparkは、130を超えるアクセラレーション対応アプリをコンテンツ制作のワークフローにもたらす。発売に先立ち、NVIDIAとパートナー各社は新しいソフトウェア機能と最適化を順次提供している。"
-              },
-              {
-                "t": "p",
-                "x": "AdobeはPhotoshop、Premiere、Substance 3DをRTX Spark向けに最適化し、AI、編集、カラー、エフェクトを最大2倍高速化する。PhotoshopにはGPU-acceleratedのコンポジット（GPUアクセラレーションによる合成）が加わり、Premiereは再生、レンダリング、カラーグレーディングに加え、Enhance SpeechやObject MaskといったAI機能を高速化する。PhotoshopとPremiereのAI機能最適化はベータ版で利用でき、Substance 3Dのアップデートも近く提供される。"
-              },
-              {
-                "t": "p",
-                "x": "ComfyUIは、RTX Video Frame GenerationとRTX Video HDRという二つの新ノードに加え、EXR書き出しに対応する。クリエイターはこれらとLTX 2.5を組み合わせ、1080p・30 fpsのSDRクリップを、より滑らかな60 fpsのHDR映像に変換できる。"
-              },
-              {
-                "t": "p",
-                "x": "BlenderはRTX Sparkに対応したバージョン5.3のベータ版を公開し、来月にはビューポートでのリアルタイムプレビュー向けにDLSS Ray Reconstructionを追加する。NVIDIA Broadcast 2.3には、Video Super Resolution、Frame Generation、Offline File Processor、ローカルAIエージェント向けのMCPサーバーが加わる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ComfyUI等创作应用\n为RTX Spark优化",
-          "body": "RTX Spark上市前，Nvidia与Adobe将Photoshop提速至多2倍。",
-          "mini_headline": "创作应用为RTX Spark就绪",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA与Microsoft宣布，RTX Spark笔记本电脑将于10月16日（周五）上市。RTX Spark配备最高128GB统一内存和1 petaflop的AI算力，为内容创作工作流带来超过130款加速应用。在发布之前，NVIDIA及其合作伙伴正陆续推出新的软件功能与优化。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe正针对RTX Spark优化Photoshop、Premiere和Substance 3D，使AI、编辑、调色和特效速度最高提升2倍。Photoshop获得GPU-accelerated（GPU加速）合成，Premiere则加速播放、渲染、调色以及Enhance Speech和Object Mask等AI功能。Photoshop和Premiere的AI功能优化已推出测试版，Substance 3D更新即将推出。"
-              },
-              {
-                "t": "p",
-                "x": "ComfyUI新增RTX Video Frame Generation和RTX Video HDR两个节点，并支持EXR导出。创作者可将LTX 2.5与它们结合，把1080p、30 fps的SDR片段转换为更流畅的60 fps HDR视频。"
-              },
-              {
-                "t": "p",
-                "x": "Blender已发布支持RTX Spark的5.3版测试版，并将于下月加入DLSS Ray Reconstruction，用于视口中的实时预览。NVIDIA Broadcast 2.3新增Video Super Resolution、Frame Generation、Offline File Processor，以及面向本地AI智能体的MCP服务器。"
+                "x": "UV unwrapping works the same way, with GPU-accelerated packing. It bakes vertex color, tangent space and AO maps with UDIM support, and exports OBJ or glTF. It needs iPadOS 18.6+; the base app is free, but saving or exporting costs a one-off $89.99."
               }
             ]
           }
         },
         "es": {
-          "headline": "Photoshop, Blender y ComfyUI\nse ajustan para RTX Spark",
-          "body": "Antes de la llegada de RTX Spark el 16 de octubre, Adobe y Nvidia hacen Photoshop y Premiere hasta 2x más rápidos.",
-          "mini_headline": "Apps creativas listas para RTX Spark",
+          "headline": "CozyBlanket Pro lleva al iPad\nla retopología con AI",
+          "body": "La app de Sparseal para retopología, desplegado UV y horneado con AI ya está disponible en iPad.",
+          "mini_headline": "CozyBlanket Pro llega al iPad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+                "t": "video",
+                "yt": "K0awUmCpELQ"
               },
               {
                 "t": "p",
-                "x": "NVIDIA y Microsoft anunciaron que los portátiles RTX Spark estarán disponibles el viernes 16 de octubre. Con hasta 128GB de memoria unificada y 1 petaflop de cómputo de IA, RTX Spark lleva más de 130 aplicaciones aceleradas a los flujos de trabajo de creación de contenido. Antes del lanzamiento, NVIDIA y sus socios están desplegando nuevas funciones de software y optimizaciones."
+                "x": "Sparseal ha lanzado CozyBlanket Pro, su esperado software AI-assisted de retopología, desplegado UV y horneado de texturas para desarrollo de videojuegos y animación. Por ahora está disponible como app para iPad, y hay una versión de escritorio en desarrollo."
               },
               {
                 "t": "p",
-                "x": "Adobe está optimizando Photoshop, Premiere y Substance 3D para RTX Spark, con IA, edición, color y efectos hasta 2x más rápidos. Photoshop incorpora composición GPU-accelerated (acelerada por GPU), mientras que Premiere acelera la reproducción, el renderizado, la corrección de color y funciones de IA como Enhance Speech y Object Mask. Las optimizaciones de IA en Photoshop y Premiere ya están disponibles en beta, y las actualizaciones de Substance 3D llegarán pronto."
+                "x": "Es un sucesor espiritual del CozyBlanket original, pero no una actualización directa, y está pensado para personajes y entornos completos con «millones de polígonos». Sus modelos de AI se desarrollaron internamente, se entrenaron exclusivamente con datos sintéticos y se ejecutan en local en la máquina del usuario."
               },
               {
                 "t": "p",
-                "x": "ComfyUI añade dos nodos nuevos, RTX Video Frame Generation y RTX Video HDR, además de exportación a EXR. Los creadores pueden combinarlos con LTX 2.5 para convertir un clip SDR de 1080p y 30 fps en un video HDR más fluido a 60 fps."
+                "x": "Para la retopología, el usuario dibuja los bordes de los parches de topología con la herramienta Pencil y la AI los rellena; los resultados se pueden ajustar o editar a mano. CG Channel señala que las primeras demostraciones mostraban una topología facial poco convencional, así que la calidad depende de dónde se coloquen las guías."
               },
               {
                 "t": "p",
-                "x": "Blender ha publicado una beta de la versión 5.3 compatible con RTX Spark, y el próximo mes añadirá DLSS Ray Reconstruction para vistas previas en tiempo real en el viewport. NVIDIA Broadcast 2.3 incorpora Video Super Resolution, Frame Generation, un Offline File Processor y un servidor MCP para agentes de IA locales."
+                "x": "El desplegado UV funciona igual, con empaquetado GPU-accelerated. Hornea mapas de color de vértice, espacio tangente y AO con soporte para UDIM, y exporta en OBJ o glTF. Requiere iPadOS 18.6+; la app básica es gratuita, pero guardar o exportar cuesta un pago único de $89.99."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "CozyBlanket\niPad에 AI 리토폴로지",
+          "body": "Sparseal의 AI-assisted 리토폴로지 앱이 iPad 버전부터 나왔다.",
+          "mini_headline": "CozyBlanket Pro, iPad 출시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K0awUmCpELQ"
+              },
+              {
+                "t": "p",
+                "x": "Sparseal이 CozyBlanket Pro를 내놓았다. 기대를 모아 온 AI-assisted 리토폴로지·UV 언래핑·텍스처 베이킹 소프트웨어로, 게임 개발과 애니메이션 작업용이다. iPad 앱이 먼저 나왔고 데스크톱 버전은 개발 중이다."
+              },
+              {
+                "t": "p",
+                "x": "원조 CozyBlanket의 정신적 후속작일 뿐 직접 업데이트한 제품은 아니며, “수백만 개의 폴리곤”을 지닌 캐릭터와 환경 전체를 다루도록 만들었다. AI 모델은 자체 개발해 합성 데이터로만 학습시켰고, 사용자 기기에서 로컬로 돈다."
+              },
+              {
+                "t": "p",
+                "x": "리토폴로지는 사용자가 Pencil 도구로 토폴로지 패치의 가장자리를 그리면 AI가 안쪽을 채우는 식이고, 결과는 손으로 다듬거나 고칠 수 있다. CG Channel은 초기 데모의 얼굴 토폴로지가 관례에서 벗어나 있었다며 품질은 가이드를 어떻게 배치하느냐에 달렸다고 짚었다."
+              },
+              {
+                "t": "p",
+                "x": "UV 언래핑도 같은 방식이고 패킹은 GPU-accelerated로 처리한다. UDIM을 지원하고 버텍스 컬러, 탄젠트 스페이스, AO 맵을 베이킹해 OBJ나 glTF로 내보낸다. iPadOS 18.6+가 필요하며, 기본 앱은 무료지만 저장하거나 내보내려면 일회성 $89.99를 내야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "CozyBlanket\nAIリトポロジーをiPadに",
+          "body": "SparsealのAI-assistedなリトポロジーアプリがiPadで登場した。",
+          "mini_headline": "CozyBlanket ProがiPadに登場",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K0awUmCpELQ"
+              },
+              {
+                "t": "p",
+                "x": "Sparsealは、待望のAI-assistedなリトポロジー・UV展開・テクスチャベイクソフト、CozyBlanket Proをリリースした。ゲーム開発やアニメーション制作向けで、まずiPadアプリとして提供され、デスクトップ版は開発中である。"
+              },
+              {
+                "t": "p",
+                "x": "初代CozyBlanketの精神的な後継作だが直接のアップデートではなく、「数百万ポリゴン」のキャラクターや環境全体を扱えるよう設計されている。AIモデルは自社開発で、合成データのみで学習し、ユーザーのマシン上でローカルに動作する。"
+              },
+              {
+                "t": "p",
+                "x": "リトポロジーでは、ユーザーがPencilツールでトポロジーパッチの縁を描くとAIが内側を埋める。結果は手作業で調整・編集できる。CG Channelは、初期デモでは顔のトポロジーが型破りだったと指摘し、品質はガイドの配置次第だとしている。"
+              },
+              {
+                "t": "p",
+                "x": "UV展開も同じ仕組みで、パッキングはGPU-acceleratedだ。UDIMに対応し、頂点カラー、タンジェントスペース、AOマップをベイクでき、OBJまたはglTFで書き出せる。動作にはiPadOS 18.6+が必要で、基本アプリは無料だが、保存や書き出しには買い切りで$89.99がかかる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "CozyBlanket\nAI重拓扑登陆iPad",
+          "body": "Sparseal的AI-assisted重拓扑应用已登陆iPad，桌面版正在开发中。",
+          "mini_headline": "CozyBlanket Pro登陆iPad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K0awUmCpELQ"
+              },
+              {
+                "t": "p",
+                "x": "Sparseal发布了备受期待的CozyBlanket Pro，这是一款面向游戏开发和动画制作的AI-assisted重拓扑、UV展开与纹理烘焙软件。它首先以iPad应用形式推出，桌面版正在开发中。"
+              },
+              {
+                "t": "p",
+                "x": "它是初代CozyBlanket的精神续作，但并非直接升级，专为拥有“数百万多边形”的完整角色和场景打造。其AI模型由公司自主研发，仅使用合成数据训练，并在用户设备上本地运行。"
+              },
+              {
+                "t": "p",
+                "x": "做重拓扑时，用户用Pencil工具画出拓扑面片的边缘，由AI填充内部；结果可以手动微调或编辑。CG Channel指出，早期演示中的面部拓扑并不常规，因此质量取决于引导线的摆放。"
+              },
+              {
+                "t": "p",
+                "x": "UV展开同样如此，打包为GPU-accelerated。它支持UDIM，可烘焙顶点色、切线空间和AO贴图，并导出为OBJ或glTF。运行需要iPadOS 18.6+；基础应用免费，但保存或导出需一次性支付$89.99。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "ComfyUI 등 창작앱\nRTX Spark에 맞춘다",
-          "body": "10월 16일 RTX Spark 출시 전 Adobe 앱이 최대 2배 빨라진다.",
-          "mini_headline": "RTX Spark 맞춤 창작 앱",
+        "es": {
+          "headline": "CozyBlanket Pro lleva al iPad\nla retopología con AI",
+          "body": "La app de Sparseal para retopología, desplegado UV y horneado con AI ya está disponible en iPad.",
+          "mini_headline": "CozyBlanket Pro llega al iPad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+                "t": "video",
+                "yt": "K0awUmCpELQ"
               },
               {
                 "t": "p",
-                "x": "NVIDIA와 Microsoft는 RTX Spark 노트북을 10월 16일 금요일에 출시한다고 발표했다. 최대 128GB 통합 메모리와 1페타플롭의 AI 연산 성능을 갖춘 RTX Spark는 130개가 넘는 가속 앱을 콘텐츠 제작 워크플로에 제공한다. 출시에 앞서 NVIDIA와 파트너사들은 새 소프트웨어 기능과 최적화를 내놓고 있다."
+                "x": "Sparseal ha lanzado CozyBlanket Pro, su esperado software AI-assisted de retopología, desplegado UV y horneado de texturas para desarrollo de videojuegos y animación. Por ahora está disponible como app para iPad, y hay una versión de escritorio en desarrollo."
               },
               {
                 "t": "p",
-                "x": "Adobe는 Photoshop, Premiere, Substance 3D를 RTX Spark에 맞게 최적화해 AI, 편집, 색상, 효과 작업 속도를 최대 2배 높인다. Photoshop에는 GPU 가속(GPU-accelerated) 합성이 들어가고, Premiere는 재생, 렌더링, 컬러 그레이딩과 Enhance Speech, Object Mask 같은 AI 기능을 가속한다. Photoshop과 Premiere의 AI 기능 최적화는 베타로 제공되며, Substance 3D 업데이트는 곧 나온다."
+                "x": "Es un sucesor espiritual del CozyBlanket original, pero no una actualización directa, y está pensado para personajes y entornos completos con «millones de polígonos». Sus modelos de AI se desarrollaron internamente, se entrenaron exclusivamente con datos sintéticos y se ejecutan en local en la máquina del usuario."
               },
               {
                 "t": "p",
-                "x": "ComfyUI는 RTX Video Frame Generation과 RTX Video HDR이라는 새 노드 두 개와 EXR 내보내기를 추가한다. 크리에이터는 여기에 LTX 2.5를 결합해 1080p, 30 fps SDR 클립을 더 매끄러운 60 fps HDR 영상으로 바꿀 수 있다."
+                "x": "Para la retopología, el usuario dibuja los bordes de los parches de topología con la herramienta Pencil y la AI los rellena; los resultados se pueden ajustar o editar a mano. CG Channel señala que las primeras demostraciones mostraban una topología facial poco convencional, así que la calidad depende de dónde se coloquen las guías."
               },
               {
                 "t": "p",
-                "x": "Blender는 RTX Spark를 지원하는 5.3 버전 베타를 공개했으며, 다음 달에는 뷰포트 실시간 미리보기를 위한 DLSS Ray Reconstruction을 추가한다. NVIDIA Broadcast 2.3에는 Video Super Resolution, Frame Generation, Offline File Processor, 그리고 로컬 AI 에이전트용 MCP 서버가 추가된다."
+                "x": "El desplegado UV funciona igual, con empaquetado GPU-accelerated. Hornea mapas de color de vértice, espacio tangente y AO con soporte para UDIM, y exporta en OBJ o glTF. Requiere iPadOS 18.6+; la app básica es gratuita, pero guardar o exportar cuesta un pago único de $89.99."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "CozyBlanket\niPad에 AI 리토폴로지",
+          "body": "Sparseal의 AI-assisted 리토폴로지 앱이 iPad로 먼저 나왔다.",
+          "mini_headline": "CozyBlanket Pro, iPad 출시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "K0awUmCpELQ"
+              },
+              {
+                "t": "p",
+                "x": "Sparseal이 기대를 모아 온 AI-assisted 리토폴로지·UV 언래핑·텍스처 베이킹 소프트웨어 CozyBlanket Pro를 내놓았다. 게임 개발과 애니메이션 작업용이며, 우선 iPad 앱으로 나왔고 데스크톱 버전은 개발 중이다."
+              },
+              {
+                "t": "p",
+                "x": "원조 CozyBlanket의 정신적 후속작이지만 직접적인 업데이트는 아니며, “수백만 개의 폴리곤”을 지닌 캐릭터와 환경 전체를 다루도록 만들어졌다. AI 모델은 자체 개발했고 합성 데이터로만 학습했으며, 사용자 기기에서 로컬로 돌아간다."
+              },
+              {
+                "t": "p",
+                "x": "리토폴로지는 사용자가 Pencil 도구로 토폴로지 패치의 가장자리를 그리면 AI가 안을 채우는 방식이고, 결과는 손으로 다듬거나 고칠 수 있다. CG Channel은 초기 데모에서 얼굴 토폴로지가 관례에서 벗어났다며, 품질이 가이드 배치에 달려 있다고 짚었다."
+              },
+              {
+                "t": "p",
+                "x": "UV 언래핑도 같은 방식이며 패킹은 GPU-accelerated로 처리한다. UDIM을 지원하며 버텍스 컬러, 탄젠트 스페이스, AO 맵을 베이킹하고 OBJ나 glTF로 내보낸다. iPadOS 18.6+가 필요하고, 기본 앱은 무료지만 저장이나 내보내기에는 일회성 $89.99를 내야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ComfyUIなど制作アプリ\nRTX Sparkに最適化",
-          "body": "10月16日のRTX Spark発売を前に、Adobe製アプリが最大2倍高速化する。",
-          "mini_headline": "RTX Spark対応の制作アプリ",
+          "headline": "CozyBlanket\nAIリトポロジーをiPadに",
+          "body": "SparsealのAI-assistedなリトポロジーアプリがiPadで登場した。",
+          "mini_headline": "CozyBlanket ProがiPadに登場",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+                "t": "video",
+                "yt": "K0awUmCpELQ"
               },
               {
                 "t": "p",
-                "x": "NVIDIAとMicrosoftは、RTX Sparkノートパソコンを10月16日（金）に発売すると発表した。最大128GBのユニファイドメモリと1ペタフロップのAI演算性能を備えるRTX Sparkは、130を超えるアクセラレーション対応アプリをコンテンツ制作のワークフローにもたらす。発売に先立ち、NVIDIAとパートナー各社は新しいソフトウェア機能と最適化を順次提供している。"
+                "x": "Sparsealは、待望のAI-assistedなリトポロジー・UV展開・テクスチャベイクソフト、CozyBlanket Proをリリースした。ゲーム開発やアニメーション制作向けで、まずiPadアプリとして提供され、デスクトップ版は開発中である。"
               },
               {
                 "t": "p",
-                "x": "AdobeはPhotoshop、Premiere、Substance 3DをRTX Spark向けに最適化し、AI、編集、カラー、エフェクトを最大2倍高速化する。PhotoshopにはGPU-acceleratedのコンポジット（GPUアクセラレーションによる合成）が加わり、Premiereは再生、レンダリング、カラーグレーディングに加え、Enhance SpeechやObject MaskといったAI機能を高速化する。PhotoshopとPremiereのAI機能最適化はベータ版で利用でき、Substance 3Dのアップデートも近く提供される。"
+                "x": "初代CozyBlanketの精神的な後継作だが直接のアップデートではなく、「数百万ポリゴン」のキャラクターや環境全体を扱えるよう設計されている。AIモデルは自社開発で、合成データのみで学習し、ユーザーのマシン上でローカルに動作する。"
               },
               {
                 "t": "p",
-                "x": "ComfyUIは、RTX Video Frame GenerationとRTX Video HDRという二つの新ノードに加え、EXR書き出しに対応する。クリエイターはこれらとLTX 2.5を組み合わせ、1080p・30 fpsのSDRクリップを、より滑らかな60 fpsのHDR映像に変換できる。"
+                "x": "リトポロジーでは、ユーザーがPencilツールでトポロジーパッチの縁を描くとAIが内側を埋める。結果は手作業で調整・編集できる。CG Channelは、初期デモでは顔のトポロジーが型破りだったと指摘し、品質はガイドの配置次第だとしている。"
               },
               {
                 "t": "p",
-                "x": "BlenderはRTX Sparkに対応したバージョン5.3のベータ版を公開し、来月にはビューポートでのリアルタイムプレビュー向けにDLSS Ray Reconstructionを追加する。NVIDIA Broadcast 2.3には、Video Super Resolution、Frame Generation、Offline File Processor、ローカルAIエージェント向けのMCPサーバーが加わる。"
+                "x": "UV展開も同じ仕組みで、パッキングはGPU-acceleratedだ。UDIMに対応し、頂点カラー、タンジェントスペース、AOマップをベイクでき、OBJまたはglTFで書き出せる。動作にはiPadOS 18.6+が必要で、基本アプリは無料だが、保存や書き出しには買い切りで$89.99がかかる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ComfyUI等创作应用\n为RTX Spark优化",
-          "body": "RTX Spark上市前，Nvidia与Adobe将Photoshop提速至多2倍。",
-          "mini_headline": "创作应用为RTX Spark就绪",
+          "headline": "CozyBlanket\nAI重拓扑登陆iPad",
+          "body": "Sparseal的AI-assisted重拓扑应用已登陆iPad，桌面版正在开发中。",
+          "mini_headline": "CozyBlanket Pro登陆iPad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
+                "t": "video",
+                "yt": "K0awUmCpELQ"
               },
               {
                 "t": "p",
-                "x": "NVIDIA与Microsoft宣布，RTX Spark笔记本电脑将于10月16日（周五）上市。RTX Spark配备最高128GB统一内存和1 petaflop的AI算力，为内容创作工作流带来超过130款加速应用。在发布之前，NVIDIA及其合作伙伴正陆续推出新的软件功能与优化。"
+                "x": "Sparseal发布了备受期待的CozyBlanket Pro，这是一款面向游戏开发和动画制作的AI-assisted重拓扑、UV展开与纹理烘焙软件。它首先以iPad应用形式推出，桌面版正在开发中。"
               },
               {
                 "t": "p",
-                "x": "Adobe正针对RTX Spark优化Photoshop、Premiere和Substance 3D，使AI、编辑、调色和特效速度最高提升2倍。Photoshop获得GPU-accelerated（GPU加速）合成，Premiere则加速播放、渲染、调色以及Enhance Speech和Object Mask等AI功能。Photoshop和Premiere的AI功能优化已推出测试版，Substance 3D更新即将推出。"
+                "x": "它是初代CozyBlanket的精神续作，但并非直接升级，专为拥有“数百万多边形”的完整角色和场景打造。其AI模型由公司自主研发，仅使用合成数据训练，并在用户设备上本地运行。"
               },
               {
                 "t": "p",
-                "x": "ComfyUI新增RTX Video Frame Generation和RTX Video HDR两个节点，并支持EXR导出。创作者可将LTX 2.5与它们结合，把1080p、30 fps的SDR片段转换为更流畅的60 fps HDR视频。"
+                "x": "做重拓扑时，用户用Pencil工具画出拓扑面片的边缘，由AI填充内部；结果可以手动微调或编辑。CG Channel指出，早期演示中的面部拓扑并不常规，因此质量取决于引导线的摆放。"
               },
               {
                 "t": "p",
-                "x": "Blender已发布支持RTX Spark的5.3版测试版，并将于下月加入DLSS Ray Reconstruction，用于视口中的实时预览。NVIDIA Broadcast 2.3新增Video Super Resolution、Frame Generation、Offline File Processor，以及面向本地AI智能体的MCP服务器。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Photoshop, Blender y ComfyUI\nse ajustan para RTX Spark",
-          "body": "Antes de la llegada de RTX Spark el 16 de octubre, Adobe y Nvidia hacen Photoshop y Premiere hasta 2x más rápidos.",
-          "mini_headline": "Apps creativas listas para RTX Spark",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA y Microsoft anunciaron que los portátiles RTX Spark estarán disponibles el viernes 16 de octubre. Con hasta 128GB de memoria unificada y 1 petaflop de cómputo de IA, RTX Spark lleva más de 130 aplicaciones aceleradas a los flujos de trabajo de creación de contenido. Antes del lanzamiento, NVIDIA y sus socios están desplegando nuevas funciones de software y optimizaciones."
-              },
-              {
-                "t": "p",
-                "x": "Adobe está optimizando Photoshop, Premiere y Substance 3D para RTX Spark, con IA, edición, color y efectos hasta 2x más rápidos. Photoshop incorpora composición GPU-accelerated (acelerada por GPU), mientras que Premiere acelera la reproducción, el renderizado, la corrección de color y funciones de IA como Enhance Speech y Object Mask. Las optimizaciones de IA en Photoshop y Premiere ya están disponibles en beta, y las actualizaciones de Substance 3D llegarán pronto."
-              },
-              {
-                "t": "p",
-                "x": "ComfyUI añade dos nodos nuevos, RTX Video Frame Generation y RTX Video HDR, además de exportación a EXR. Los creadores pueden combinarlos con LTX 2.5 para convertir un clip SDR de 1080p y 30 fps en un video HDR más fluido a 60 fps."
-              },
-              {
-                "t": "p",
-                "x": "Blender ha publicado una beta de la versión 5.3 compatible con RTX Spark, y el próximo mes añadirá DLSS Ray Reconstruction para vistas previas en tiempo real en el viewport. NVIDIA Broadcast 2.3 incorpora Video Super Resolution, Frame Generation, un Offline File Processor y un servidor MCP para agentes de IA locales."
+                "x": "UV展开同样如此，打包为GPU-accelerated。它支持UDIM，可烘焙顶点色、切线空间和AO贴图，并导出为OBJ或glTF。运行需要iPadOS 18.6+；基础应用免费，但保存或导出需一次性支付$89.99。"
               }
             ]
           }
@@ -1049,287 +979,15 @@
       }
     },
     {
-      "id": "design-higgsfield-ten-minute-video",
+      "id": "design-workday-sana-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Higgsfield,\nAI 영상 10분 넘겼다",
-      "body": "Higgsfield는 GPT-6 Astra로 AI 영상이 10분을 넘었다고 했다.",
-      "mini_headline": "Higgsfield, 10분 넘는 영상",
-      "tool": "KeyShot",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Higgsfield AI의 목표는 아이디어만 있으면 누구나 전문가 수준의 영상과 이미지를 만들게 하는 것이다. GPT-6 Astra 이전에는 영상 길이가 1분 안팎에 그쳤다. 이제는 사용자들이 10분이 넘는 영상도 만들 수 있다는 게 CEO이자 공동 창업자인 Alex Mashrabov의 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "Higgsfield AI의 크리에이티브 에이전트는 한 장면의 여러 변형을 만드는 일처럼 반복적인 제작 작업을 맡는다. GPT-6 Astra를 쓰면 이 에이전트들이 외부 도구를 불러 3D 모델링의 복잡한 수작업까지 처리한다. Alex는 이 방식이 크리에이티브 AI에서 가장 어려운 문제 중 하나인 긴 영상의 일관성 유지에 도움이 된다고 말한다. 팀은 요즘 AI로 10분이 넘는 튜토리얼 영상을 만들어 YouTube 채널에 올린다."
-          },
-          {
-            "t": "p",
-            "x": "그는 \"GPT-Image-2.5는 최첨단 모델이며, 이미지 위에 텍스트와 인포그래픽을 안정적으로 렌더링할 수 있는 이 분야 최초의 모델\"이라고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "제품은 약 200명의 크리에이티브와 100명의 엔지니어가 함께 만든다. 크리에이티브는 Codex로 아이디어를 소프트웨어 프로토타입으로 바꾼다. Alex는 GPT-6 Astra 덕분에 이 프로토타입을 제품에 반영하는 작업이 줄었다고 말한다. Higgsfield AI가 다음으로 노리는 것은 \"voice to movie\"다. AI가 크리에이터의 말에 담긴 의도를 이해하고 그 비전을 실시간으로 렌더링하는 방식이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Higgsfield takes AI video\npast 10 minutes",
-          "body": "Higgsfield says GPT-6 Astra took its AI videos from about one minute to over 10, helping keep long videos consistent.",
-          "mini_headline": "Higgsfield passes 10-minute video",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Higgsfield AI is on a mission to make professional video and image creation accessible to anyone with an idea. Before GPT-6 Astra, those videos topped out at around one minute. Now, says CEO and co-founder Alex Mashrabov, users can create videos over 10 minutes long."
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI's creative agents take on repetitive production tasks, such as creating multiple variations of a shot. With GPT-6 Astra, those agents can also call external tools to handle complex, manual work in 3D modeling, which Alex says helps address one of creative AI's hardest problems: maintaining consistency across longer videos. The team now uses AI to generate instructional videos over 10 minutes long for its YouTube channel."
-              },
-              {
-                "t": "p",
-                "x": "\"GPT-Image-2.5 is state of the art and the first model of its kind that can reliably render the text and infographics on top of the imagery,\" he says."
-              },
-              {
-                "t": "p",
-                "x": "Around 200 creatives and 100 engineers build the product together. Creatives use Codex to turn ideas into software prototypes, and Alex says GPT-6 Astra reduces the work needed to bring them into the product. Next, Higgsfield AI wants \"voice to movie\": AI understanding a creator's spoken intention and rendering their vision in real time."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Higgsfield,\nAI 영상 10분 넘겼다",
-          "body": "Higgsfield는 GPT-6 Astra로 AI 영상이 10분을 넘었다고 했다.",
-          "mini_headline": "Higgsfield, 10분 넘는 영상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Higgsfield AI의 목표는 아이디어만 있으면 누구나 전문가 수준의 영상과 이미지를 만들게 하는 것이다. GPT-6 Astra 이전에는 영상 길이가 1분 안팎에 그쳤다. 이제는 사용자들이 10분이 넘는 영상도 만들 수 있다는 게 CEO이자 공동 창업자인 Alex Mashrabov의 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI의 크리에이티브 에이전트는 한 장면의 여러 변형을 만드는 일처럼 반복적인 제작 작업을 맡는다. GPT-6 Astra를 쓰면 이 에이전트들이 외부 도구를 불러 3D 모델링의 복잡한 수작업까지 처리한다. Alex는 이 방식이 크리에이티브 AI에서 가장 어려운 문제 중 하나인 긴 영상의 일관성 유지에 도움이 된다고 말한다. 팀은 요즘 AI로 10분이 넘는 튜토리얼 영상을 만들어 YouTube 채널에 올린다."
-              },
-              {
-                "t": "p",
-                "x": "그는 \"GPT-Image-2.5는 최첨단 모델이며, 이미지 위에 텍스트와 인포그래픽을 안정적으로 렌더링할 수 있는 이 분야 최초의 모델\"이라고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "제품은 약 200명의 크리에이티브와 100명의 엔지니어가 함께 만든다. 크리에이티브는 Codex로 아이디어를 소프트웨어 프로토타입으로 바꾼다. Alex는 GPT-6 Astra 덕분에 이 프로토타입을 제품에 반영하는 작업이 줄었다고 말한다. Higgsfield AI가 다음으로 노리는 것은 \"voice to movie\"다. AI가 크리에이터의 말에 담긴 의도를 이해하고 그 비전을 실시간으로 렌더링하는 방식이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Higgsfieldの\nAI動画、10分を突破",
-          "body": "HiggsfieldはGPT-6 AstraでAI動画が約1分から10分超に伸びたという。",
-          "mini_headline": "Higgsfield、10分超の動画を実現",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Higgsfield AIは、アイデアさえあれば誰でもプロ品質の動画や画像を作れるようにすることを使命としている。GPT-6 Astra以前、その動画の長さは約1分が上限だった。CEO兼共同創業者のAlex Mashrabovによれば、現在ユーザーは10分を超える動画を作成できるという。"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AIのクリエイティブエージェントは、ショットのバリエーションを複数作るといった反復的な制作作業を担う。GPT-6 Astraにより、こうしたエージェントは外部ツールを呼び出して3Dモデリングの複雑な手作業もこなせるようになった。Alexは、これがクリエイティブAIの最も難しい課題の一つである長い動画での一貫性の維持に役立つと話す。チームは現在、AIを使って10分を超える解説動画を生成し、自社のYouTubeチャンネルで公開している。"
-              },
-              {
-                "t": "p",
-                "x": "「GPT-Image-2.5は最先端であり、画像の上にテキストやインフォグラフィックを確実に描画できる初めての種類のモデルだ」と彼は言う。"
-              },
-              {
-                "t": "p",
-                "x": "約200人のクリエイターと100人のエンジニアが共に製品を作っている。クリエイターはCodexでアイデアをソフトウェアのプロトタイプにし、AlexによればGPT-6 Astraによってそれを製品に取り込む手間が減ったという。Higgsfield AIが次に目指すのは「voice to movie」、つまりAIがクリエイターの話す意図を理解し、そのビジョンをリアルタイムで描き出すことだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Higgsfield\nAI视频突破10分钟",
-          "body": "Higgsfield称，GPT-6 Astra让其AI视频从约一分钟延长到10分钟以上。",
-          "mini_headline": "Higgsfield视频突破10分钟",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Higgsfield AI的使命是让任何有想法的人都能进行专业级的视频和图像创作。在GPT-6 Astra之前，这些视频最长只有一分钟左右。CEO兼联合创始人Alex Mashrabov表示，如今用户可以制作超过10分钟的视频。"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI的创意智能体负责重复性的制作任务，例如为一个镜头生成多个变体。借助GPT-6 Astra，这些智能体还能调用外部工具，处理3D建模中复杂的手工工作。Alex表示，这有助于解决创意AI最棘手的难题之一：在较长视频中保持一致性。团队如今用AI为其YouTube频道生成超过10分钟的教学视频。"
-              },
-              {
-                "t": "p",
-                "x": "他说：“GPT-Image-2.5是最先进的模型，也是同类中首个能在图像上可靠渲染文字和信息图的模型。”"
-              },
-              {
-                "t": "p",
-                "x": "约200名创意人员和100名工程师共同打造产品。创意人员用Codex把想法变成软件原型，Alex表示，GPT-6 Astra减少了将原型纳入产品所需的工作。接下来，Higgsfield AI希望实现“voice to movie”：让AI理解创作者口述的意图，并实时呈现其构想。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los videos de Higgsfield\nya superan los 10 minutos",
-          "body": "Higgsfield dice que GPT-6 Astra llevó sus videos de cerca de un minuto a más de 10 y ayuda a mantener su coherencia.",
-          "mini_headline": "Higgsfield supera los 10 minutos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Higgsfield AI tiene la misión de hacer que la creación profesional de video e imagen sea accesible para cualquiera que tenga una idea. Antes de GPT-6 Astra, esos videos llegaban como máximo a cerca de un minuto. Ahora, según el CEO y cofundador Alex Mashrabov, los usuarios pueden crear videos de más de 10 minutos."
-              },
-              {
-                "t": "p",
-                "x": "Los agentes creativos de Higgsfield AI se encargan de tareas de producción repetitivas, como crear varias variantes de una toma. Con GPT-6 Astra, esos agentes también pueden recurrir a herramientas externas para realizar trabajo manual complejo de modelado 3D, lo que, según Alex, ayuda a resolver uno de los problemas más difíciles de la IA creativa: mantener la coherencia en videos más largos. El equipo ya usa IA para generar videos instructivos de más de 10 minutos para su canal de YouTube."
-              },
-              {
-                "t": "p",
-                "x": "\"GPT-Image-2.5 es lo último en tecnología y el primer modelo de su tipo capaz de representar de forma fiable texto e infografías sobre las imágenes\", afirma."
-              },
-              {
-                "t": "p",
-                "x": "Unos 200 creativos y 100 ingenieros desarrollan juntos el producto. Los creativos usan Codex para convertir ideas en prototipos de software, y Alex afirma que GPT-6 Astra reduce el trabajo necesario para incorporarlos al producto. Lo siguiente para Higgsfield AI es \"voice to movie\": una IA que entienda la intención hablada de un creador y plasme su visión en tiempo real."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Higgsfield,\nAI 영상 10분 넘겼다",
-          "body": "Higgsfield는 GPT-6 Astra로 AI 영상이 10분을 넘었다고 했다.",
-          "mini_headline": "Higgsfield, 10분 넘는 영상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Higgsfield AI는 아이디어만 있으면 누구나 전문가 수준의 영상과 이미지를 만들 수 있게 하는 것을 목표로 한다. GPT-6 Astra 이전에는 영상 길이가 1분 안팎에 그쳤다. CEO이자 공동 창업자인 Alex Mashrabov는 이제 사용자들이 10분이 넘는 영상을 만들 수 있다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI의 크리에이티브 에이전트는 한 장면의 여러 변형을 만드는 일처럼 반복적인 제작 작업을 맡는다. GPT-6 Astra를 쓰면 이 에이전트들이 외부 도구를 호출해 3D 모델링의 복잡한 수작업도 처리할 수 있으며, Alex는 이것이 크리에이티브 AI의 가장 어려운 문제 중 하나인 긴 영상의 일관성 유지에 도움이 된다고 말한다. 팀은 이제 AI로 10분이 넘는 튜토리얼 영상을 만들어 YouTube 채널에 올리고 있다."
-              },
-              {
-                "t": "p",
-                "x": "그는 \"GPT-Image-2.5는 최첨단 모델이며, 이미지 위에 텍스트와 인포그래픽을 안정적으로 렌더링할 수 있는 이 분야 최초의 모델\"이라고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "약 200명의 크리에이티브와 100명의 엔지니어가 함께 제품을 만든다. 크리에이티브는 Codex로 아이디어를 소프트웨어 프로토타입으로 바꾸고, Alex는 GPT-6 Astra 덕분에 이를 제품에 반영하는 데 드는 작업이 줄었다고 말한다. Higgsfield AI가 다음으로 노리는 것은 \"voice to movie\", 즉 AI가 크리에이터의 말에 담긴 의도를 이해하고 그 비전을 실시간으로 렌더링하는 것이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Higgsfieldの\nAI動画、10分を突破",
-          "body": "HiggsfieldはGPT-6 AstraでAI動画が約1分から10分超に伸びたという。",
-          "mini_headline": "Higgsfield、10分超の動画を実現",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Higgsfield AIは、アイデアさえあれば誰でもプロ品質の動画や画像を作れるようにすることを使命としている。GPT-6 Astra以前、その動画の長さは約1分が上限だった。CEO兼共同創業者のAlex Mashrabovによれば、現在ユーザーは10分を超える動画を作成できるという。"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AIのクリエイティブエージェントは、ショットのバリエーションを複数作るといった反復的な制作作業を担う。GPT-6 Astraにより、こうしたエージェントは外部ツールを呼び出して3Dモデリングの複雑な手作業もこなせるようになった。Alexは、これがクリエイティブAIの最も難しい課題の一つである長い動画での一貫性の維持に役立つと話す。チームは現在、AIを使って10分を超える解説動画を生成し、自社のYouTubeチャンネルで公開している。"
-              },
-              {
-                "t": "p",
-                "x": "「GPT-Image-2.5は最先端であり、画像の上にテキストやインフォグラフィックを確実に描画できる初めての種類のモデルだ」と彼は言う。"
-              },
-              {
-                "t": "p",
-                "x": "約200人のクリエイターと100人のエンジニアが共に製品を作っている。クリエイターはCodexでアイデアをソフトウェアのプロトタイプにし、AlexによればGPT-6 Astraによってそれを製品に取り込む手間が減ったという。Higgsfield AIが次に目指すのは「voice to movie」、つまりAIがクリエイターの話す意図を理解し、そのビジョンをリアルタイムで描き出すことだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Higgsfield\nAI视频突破10分钟",
-          "body": "Higgsfield称，GPT-6 Astra让其AI视频从约一分钟延长到10分钟以上。",
-          "mini_headline": "Higgsfield视频突破10分钟",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Higgsfield AI的使命是让任何有想法的人都能进行专业级的视频和图像创作。在GPT-6 Astra之前，这些视频最长只有一分钟左右。CEO兼联合创始人Alex Mashrabov表示，如今用户可以制作超过10分钟的视频。"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI的创意智能体负责重复性的制作任务，例如为一个镜头生成多个变体。借助GPT-6 Astra，这些智能体还能调用外部工具，处理3D建模中复杂的手工工作。Alex表示，这有助于解决创意AI最棘手的难题之一：在较长视频中保持一致性。团队如今用AI为其YouTube频道生成超过10分钟的教学视频。"
-              },
-              {
-                "t": "p",
-                "x": "他说：“GPT-Image-2.5是最先进的模型，也是同类中首个能在图像上可靠渲染文字和信息图的模型。”"
-              },
-              {
-                "t": "p",
-                "x": "约200名创意人员和100名工程师共同打造产品。创意人员用Codex把想法变成软件原型，Alex表示，GPT-6 Astra减少了将原型纳入产品所需的工作。接下来，Higgsfield AI希望实现“voice to movie”：让AI理解创作者口述的意图，并实时呈现其构想。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los videos de Higgsfield\nya superan los 10 minutos",
-          "body": "Higgsfield dice que GPT-6 Astra llevó sus videos de cerca de un minuto a más de 10 y ayuda a mantener su coherencia.",
-          "mini_headline": "Higgsfield supera los 10 minutos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Higgsfield AI tiene la misión de hacer que la creación profesional de video e imagen sea accesible para cualquiera que tenga una idea. Antes de GPT-6 Astra, esos videos llegaban como máximo a cerca de un minuto. Ahora, según el CEO y cofundador Alex Mashrabov, los usuarios pueden crear videos de más de 10 minutos."
-              },
-              {
-                "t": "p",
-                "x": "Los agentes creativos de Higgsfield AI se encargan de tareas de producción repetitivas, como crear varias variantes de una toma. Con GPT-6 Astra, esos agentes también pueden recurrir a herramientas externas para realizar trabajo manual complejo de modelado 3D, lo que, según Alex, ayuda a resolver uno de los problemas más difíciles de la IA creativa: mantener la coherencia en videos más largos. El equipo ya usa IA para generar videos instructivos de más de 10 minutos para su canal de YouTube."
-              },
-              {
-                "t": "p",
-                "x": "\"GPT-Image-2.5 es lo último en tecnología y el primer modelo de su tipo capaz de representar de forma fiable texto e infografías sobre las imágenes\", afirma."
-              },
-              {
-                "t": "p",
-                "x": "Unos 200 creativos y 100 ingenieros desarrollan juntos el producto. Los creativos usan Codex para convertir ideas en prototipos de software, y Alex afirma que GPT-6 Astra reduce el trabajo necesario para incorporarlos al producto. Lo siguiente para Higgsfield AI es \"voice to movie\": una IA que entienda la intención hablada de un creador y plasme su visión en tiempo real."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-ai-forged-cartoonist-signatures",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "ChatGPT, 만화가\n서명까지 위조한다",
-      "body": "ChatGPT가 New Yorker풍 가짜 만화에 실존 만화가 이름으로 서명했다.",
-      "mini_headline": "ChatGPT, 만화가 이름 도용",
+      "headline": "Workday, Sana를\n기본 홈 화면으로",
+      "body": "Workday가 Sana를 기본 홈 화면으로 삼고 오토파일럿 에이전트도 붙였다.",
+      "mini_headline": "Workday, 에이전트 중심으로",
       "tool": "AI Workflow",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well",
+      "source": "CIO",
+      "url": "https://www.cio.com/article/4234407/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai.html",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -1337,179 +995,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-            "cap": "ChatGPT는 자신이 만든 가짜 New Yorker 만화에 실제 만화가들의 이름으로 서명해 왔다. (이미지 출처: Open AI)"
+            "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
           },
           {
             "t": "p",
-            "x": "8월 말 Dolly Parton과 Tim Curry가 잇따라 세상을 떠나자, 두 사람이 천국의 진주문에 도착하는 모습을 그린 만화 한 컷이 널리 퍼졌다. 귀퉁이에는 New Yorker 만화가 Brendan Loper의 필명인 \"BLOPER\"라는 서명이 있었다."
+            "x": "Workday는 Workday Rising에서 약 한 해 전 인수한 Sana를 기본 홈 화면 Workday Home으로 탈바꿈시켰다. Workday Home은 “업무, 의사결정, 회의, 에이전트 활동을 한곳에 모은다.” 역할별로 맞춰지고, Workday의 에이전트를 조율하며 작업에 따라 UI를 바꿔 양식, 캘린더, 승인 카드, 시각화를 실시간으로 만들어 낸다. Sana는 Claude, Gemini Enterprise, Microsoft Copilot, Teams, Slack 안에서도 돌아간다."
           },
           {
             "t": "p",
-            "x": "그런데 문제가 하나 있었다. Brendan이 그린 그림이 아니었다. Dolly Parton의 한 팬이 ChatGPT에 \"New Yorker 스타일 만화\"를 부탁했고, 챗봇은 만화를 그려 주면서 덤으로 Brendan의 서명까지 위조했다."
+            "x": "Sana Concierge는 비밀번호 재설정, 휴가 문의 같은 HR·IT 요청을 맡는다. 지금은 얼리 어답터에게 제공되고, 정식 출시는 Q1 2027로 예상된다."
           },
           {
             "t": "p",
-            "x": "그는 Nieman Lab에 \"이 만화를 두고 내 작품이냐고 묻는 연락이 왔다\"며 \"정말 초현실적이었다\"고 말했다. 이후 Nieman Lab이 확인한 결과, ChatGPT 이미지에 서명이 나온 New Yorker 만화가는 15명이 넘었다."
+            "x": "자율 에이전트 네 개가 채용, 급여, 회계, 컴플라이언스 전반에서 오토파일럿으로 일한다. 최고 AI 책임자 Joel Hellermark는 코파일럿이 사용자가 로그인할 때까지 “가만히 있는” 반면, 이 에이전트들은 사용자가 온라인이든 아니든 하트비트에 맞춰 움직인다고 말했다. Talent Acquisition Agent는 현재 얼리 어답터에게 제공되고, Payroll, Accounting, Deployment 에이전트는 2027년 초에 뒤따른다."
           },
           {
             "t": "p",
-            "x": "영감과 노골적인 베끼기의 경계는 원래 모호하다. 하지만 가짜 서명은 루비콘강을 건너는 일이다. 서명은 거기 적힌 사람이 이 작품을 만들었고 책임진다는 분명한 표시다. 창작으로 먹고사는 사람에게 이름은 곧 평판이자 생계다. 소셜 미디어에서 도는 이미지를 다음에 보게 되면, 좋아요를 누르거나 공유하기 전에 한 번 생각해 보자."
+            "x": "Workday의 Trusted Agent Platform은 이제 헤드리스여서 고객이 자체 도구와 모델을 붙여 쓸 수 있다. Gabe Monroy CTO는 “헤드리스가 무법을 뜻할 수는 없다(Headless can’t mean lawless)”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT is forging\ncartoonists' signatures",
-          "body": "ChatGPT has been signing its fake New Yorker-style cartoons with the names of real cartoonists.",
-          "mini_headline": "ChatGPT forges cartoonist names",
+          "headline": "Workday makes Sana its\ndefault home screen",
+          "body": "Workday turned Sana into its default home screen and added autopilot agents that run whether or not the user is online.",
+          "mini_headline": "Workday goes\nagent-first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-                "cap": "ChatGPT has been signing its fake New Yorker cartoons with real cartoonists' names. (Image credit: Open AI)"
+                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
               },
               {
                 "t": "p",
-                "x": "When Dolly Parton and Tim Curry both died in late August, a cartoon showing them arriving at the pearly gates of heaven went viral. In the corner was the signature \"BLOPER\", the pen name of New Yorker cartoonist Brendan Loper."
+                "x": "At Workday Rising, Workday turned Sana, acquired about a year ago, into its default home screen, Workday Home, which “brings tasks, decisions, meetings, and agent activity into one place.” Tailored to each role, it orchestrates Workday’s agents and adapts its UI to each task, generating forms, calendars, approval cards and visualizations in real time. Sana also works within Claude, Gemini Enterprise, Microsoft Copilot, Teams and Slack."
               },
               {
                 "t": "p",
-                "x": "One problem, though: Brendan didn't draw it. A fan of Dolly Parton had simply asked ChatGPT for \"a New Yorker-style cartoon\", and the chatbot had made one. Then it faked Brendan's signature for good measure."
+                "x": "Sana Concierge resolves HR and IT requests such as password resets and time-off questions; it is available to early adopters, with general availability expected in Q1 2027."
               },
               {
                 "t": "p",
-                "x": "\"I had people writing to me about this cartoon, asking if it was mine,\" he told Nieman Lab. \"It was very surreal.\" Nieman Lab went on to identify more than 15 New Yorker cartoonists whose signatures have been appearing on ChatGPT images."
+                "x": "Four autonomous agents act as autopilots across hiring, payroll, accounting and compliance. Unlike a copilot that “sits there” until the user logs in, said chief AI officer Joel Hellermark, they run on a heartbeat whether or not the user is online. The Talent Acquisition Agent is available to early adopters now; Payroll, Accounting and Deployment agents follow in early 2027."
               },
               {
                 "t": "p",
-                "x": "Yes, the line between inspiration and outright copying is a murky one. But a fake signature is crossing the Rubicon: it makes a clear statement that a named human has made this work and stands behind it. For anyone who works as a creative, your name is your reputation, your business. Next time you see an image doing the rounds on social media, think before you like or share."
+                "x": "Workday’s Trusted Agent Platform is now headless, letting customers use their own tools and models. “Headless can’t mean lawless,” said CTO Gabe Monroy."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT, 만화가\n서명까지 위조한다",
-          "body": "ChatGPT가 New Yorker풍 가짜 만화에 실존 만화가 이름으로 서명했다.",
-          "mini_headline": "ChatGPT, 만화가 이름 도용",
+          "headline": "Workday, Sana를\n기본 홈 화면으로",
+          "body": "Workday가 Sana를 기본 홈 화면으로 삼고 오토파일럿 에이전트도 붙였다.",
+          "mini_headline": "Workday, 에이전트 중심으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-                "cap": "ChatGPT는 자신이 만든 가짜 New Yorker 만화에 실제 만화가들의 이름으로 서명해 왔다. (이미지 출처: Open AI)"
+                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
               },
               {
                 "t": "p",
-                "x": "8월 말 Dolly Parton과 Tim Curry가 잇따라 세상을 떠나자, 두 사람이 천국의 진주문에 도착하는 모습을 그린 만화 한 컷이 널리 퍼졌다. 귀퉁이에는 New Yorker 만화가 Brendan Loper의 필명인 \"BLOPER\"라는 서명이 있었다."
+                "x": "Workday는 Workday Rising에서 약 한 해 전 인수한 Sana를 기본 홈 화면 Workday Home으로 탈바꿈시켰다. Workday Home은 “업무, 의사결정, 회의, 에이전트 활동을 한곳에 모은다.” 역할별로 맞춰지고, Workday의 에이전트를 조율하며 작업에 따라 UI를 바꿔 양식, 캘린더, 승인 카드, 시각화를 실시간으로 만들어 낸다. Sana는 Claude, Gemini Enterprise, Microsoft Copilot, Teams, Slack 안에서도 돌아간다."
               },
               {
                 "t": "p",
-                "x": "그런데 문제가 하나 있었다. Brendan이 그린 그림이 아니었다. Dolly Parton의 한 팬이 ChatGPT에 \"New Yorker 스타일 만화\"를 부탁했고, 챗봇은 만화를 그려 주면서 덤으로 Brendan의 서명까지 위조했다."
+                "x": "Sana Concierge는 비밀번호 재설정, 휴가 문의 같은 HR·IT 요청을 맡는다. 지금은 얼리 어답터에게 제공되고, 정식 출시는 Q1 2027로 예상된다."
               },
               {
                 "t": "p",
-                "x": "그는 Nieman Lab에 \"이 만화를 두고 내 작품이냐고 묻는 연락이 왔다\"며 \"정말 초현실적이었다\"고 말했다. 이후 Nieman Lab이 확인한 결과, ChatGPT 이미지에 서명이 나온 New Yorker 만화가는 15명이 넘었다."
+                "x": "자율 에이전트 네 개가 채용, 급여, 회계, 컴플라이언스 전반에서 오토파일럿으로 일한다. 최고 AI 책임자 Joel Hellermark는 코파일럿이 사용자가 로그인할 때까지 “가만히 있는” 반면, 이 에이전트들은 사용자가 온라인이든 아니든 하트비트에 맞춰 움직인다고 말했다. Talent Acquisition Agent는 현재 얼리 어답터에게 제공되고, Payroll, Accounting, Deployment 에이전트는 2027년 초에 뒤따른다."
               },
               {
                 "t": "p",
-                "x": "영감과 노골적인 베끼기의 경계는 원래 모호하다. 하지만 가짜 서명은 루비콘강을 건너는 일이다. 서명은 거기 적힌 사람이 이 작품을 만들었고 책임진다는 분명한 표시다. 창작으로 먹고사는 사람에게 이름은 곧 평판이자 생계다. 소셜 미디어에서 도는 이미지를 다음에 보게 되면, 좋아요를 누르거나 공유하기 전에 한 번 생각해 보자."
+                "x": "Workday의 Trusted Agent Platform은 이제 헤드리스여서 고객이 자체 도구와 모델을 붙여 쓸 수 있다. Gabe Monroy CTO는 “헤드리스가 무법을 뜻할 수는 없다(Headless can’t mean lawless)”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTが漫画家の\n署名を偽造している",
-          "body": "ChatGPTは、New Yorker風の偽漫画に実在の漫画家の名前で署名してきた。",
-          "mini_headline": "ChatGPTが漫画家の名を偽造",
+          "headline": "Workday、Sanaを\n標準ホーム画面に",
+          "body": "WorkdayはSanaを標準のホーム画面にし、オートパイロット型エージェントを加えた。",
+          "mini_headline": "Workday、エージェント中心へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-                "cap": "ChatGPTは、生成した偽のNew Yorker風漫画に実在する漫画家の名前で署名していた。（画像クレジット：Open AI）"
+                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
               },
               {
                 "t": "p",
-                "x": "8月下旬にDolly PartonとTim Curryが相次いで亡くなると、二人が天国の真珠の門に到着する様子を描いた漫画が拡散した。その隅には、New Yorkerの漫画家Brendan Loperのペンネームである「BLOPER」という署名があった。"
+                "x": "WorkdayはWorkday Risingで、約一年前に買収したSanaを標準のホーム画面「Workday Home」に据えた。Workday Homeは「タスク、意思決定、会議、エージェントの活動を一か所にまとめる」。役割ごとに最適化され、Workdayのエージェントを統括し、タスクに応じてUIを変え、フォーム、カレンダー、承認カード、可視化をリアルタイムで生成する。SanaはClaude、Gemini Enterprise、Microsoft Copilot、Teams、Slackの中でも動作する。"
               },
               {
                 "t": "p",
-                "x": "ただ、問題が一つあった。Brendanはそれを描いていなかったのだ。Dolly Partonのファンが単にChatGPTに「New Yorker風の漫画」を頼み、チャットボットがそれを作った。そのうえ、念押しのようにBrendanの署名まで偽造していた。"
+                "x": "Sana Conciergeは、パスワードのリセットや休暇に関する質問といったHRやITの依頼を処理する。アーリーアダプター向けに提供されており、一般提供はQ1 2027の見込みだ。"
               },
               {
                 "t": "p",
-                "x": "「この漫画について、私の作品かと尋ねる連絡が来た」と彼はNieman Labに語った。「とても非現実的だった」。Nieman Labはその後、ChatGPTの画像に署名が現れているNew Yorkerの漫画家を15人以上特定した。"
+                "x": "四つの自律型エージェントが、採用、給与、会計、コンプライアンスにわたってオートパイロットとして働く。最高AI責任者のJoel Hellermarkによると、ユーザーがログインするまで「ただ座っている」コパイロットとは異なり、これらはユーザーがオンラインかどうかに関係なく、ハートビートに合わせて動く。Talent Acquisition Agentはすでにアーリーアダプター向けに提供されており、Payroll、Accounting、Deploymentの各エージェントは2027年初めに続く。"
               },
               {
                 "t": "p",
-                "x": "確かに、インスピレーションと露骨な模倣の境界は曖昧だ。しかし偽の署名はルビコン川を渡る行為である。名前の明かされた人間がこの作品を作り、責任を持つという明確な表明になるからだ。クリエイターとして働く人にとって、名前は評判であり、仕事そのものだ。次にソーシャルメディアで出回っている画像を見かけたら、「いいね」や共有の前に一度考えてほしい。"
+                "x": "WorkdayのTrusted Agent Platformはヘッドレスになり、顧客は自前のツールやモデルを使えるようになった。CTOのGabe Monroyは「ヘッドレスは無法を意味してはならない（Headless can’t mean lawless）」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT在伪造\n漫画家的签名",
-          "body": "ChatGPT一直在其仿《New Yorker》风格的假漫画上署真实漫画家的名字。",
-          "mini_headline": "ChatGPT伪造漫画家署名",
+          "headline": "Workday把Sana\n设为默认主屏幕",
+          "body": "Workday将Sana设为默认主屏幕，并加入无论用户是否在线都会运行的自动驾驶智能体。",
+          "mini_headline": "Workday转向智能体优先",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-                "cap": "ChatGPT一直在它生成的假New Yorker漫画上署真实漫画家的名字。（图片来源：Open AI）"
+                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
               },
               {
                 "t": "p",
-                "x": "8月下旬Dolly Parton和Tim Curry相继去世后，一幅描绘二人抵达天堂珍珠门的漫画在网上疯传。漫画一角有“BLOPER”的签名，这是New Yorker漫画家Brendan Loper的笔名。"
+                "x": "在Workday Rising大会上，Workday将约一年前收购的Sana设为默认主屏幕Workday Home，它“把任务、决策、会议和智能体活动汇集到一处”。它按不同角色定制，统筹调度Workday的智能体，并根据每项任务调整UI，实时生成表单、日历、审批卡片和可视化图表。Sana还可在Claude、Gemini Enterprise、Microsoft Copilot、Teams和Slack中使用。"
               },
               {
                 "t": "p",
-                "x": "但问题是：这幅画并非出自Brendan之手。一位Dolly Parton的粉丝只是让ChatGPT画一幅“New Yorker风格的漫画”，聊天机器人便照做了。随后，它还顺手伪造了Brendan的签名。"
+                "x": "Sana Concierge可处理密码重置、休假咨询等HR和IT请求；目前面向早期采用者开放，预计Q1 2027全面上市。"
               },
               {
                 "t": "p",
-                "x": "他对Nieman Lab说：“有人写信问我这幅漫画是不是我画的。”“这感觉非常超现实。”Nieman Lab随后查明，有超过15位New Yorker漫画家的签名出现在ChatGPT生成的图像上。"
+                "x": "四个自主智能体在招聘、薪资、会计和合规领域充当自动驾驶。首席AI官Joel Hellermark表示，与在用户登录前一直“待在那里”的副驾驶不同，它们按心跳节奏运行，无论用户是否在线。Talent Acquisition Agent现已向早期采用者开放；Payroll、Accounting和Deployment智能体将于2027年初推出。"
               },
               {
                 "t": "p",
-                "x": "诚然，借鉴与直接抄袭之间的界线并不清晰。但伪造签名已越过卢比孔河：它清楚地宣称，这件作品出自一位具名的人之手，并由其负责。对任何从事创意工作的人来说，名字就是声誉，就是生计。下次在社交媒体上看到四处流传的图片时，点赞或分享前请先想一想。"
+                "x": "Workday的Trusted Agent Platform现已实现无头化，客户可以使用自己的工具和模型。CTO Gabe Monroy说：“无头不等于无法无天（Headless can’t mean lawless）。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT está falsificando\nfirmas de dibujantes",
-          "body": "ChatGPT ha estado firmando sus falsas viñetas al estilo del New Yorker con los nombres de dibujantes reales.",
-          "mini_headline": "ChatGPT falsifica firmas de dibujantes",
+          "headline": "Workday convierte a Sana en\nsu pantalla de inicio estándar",
+          "body": "Workday hizo de Sana su pantalla de inicio y sumó agentes autónomos que funcionan esté o no conectado el usuario.",
+          "mini_headline": "Workday apuesta por los agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-                "cap": "ChatGPT ha estado firmando sus falsas viñetas del New Yorker con nombres de dibujantes reales. (Crédito de imagen: Open AI)"
+                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
               },
               {
                 "t": "p",
-                "x": "Cuando Dolly Parton y Tim Curry murieron a finales de agosto, se volvió viral una viñeta que los mostraba llegando a las puertas de perla del cielo. En una esquina aparecía la firma \"BLOPER\", el seudónimo del dibujante del New Yorker Brendan Loper."
+                "x": "En Workday Rising, Workday convirtió a Sana, adquirida hace aproximadamente un año, en su pantalla de inicio por defecto, Workday Home, que «reúne en un solo lugar tareas, decisiones, reuniones y actividad de agentes». Adaptada a cada rol, orquesta los agentes de Workday y ajusta su UI a cada tarea, generando formularios, calendarios, tarjetas de aprobación y visualizaciones en tiempo real. Sana también funciona dentro de Claude, Gemini Enterprise, Microsoft Copilot, Teams y Slack."
               },
               {
                 "t": "p",
-                "x": "Pero había un problema: Brendan no la había dibujado. Una fan de Dolly Parton simplemente había pedido a ChatGPT \"una viñeta al estilo del New Yorker\", y el chatbot la había creado. Luego, por si fuera poco, falsificó la firma de Brendan."
+                "x": "Sana Concierge resuelve solicitudes de HR e IT, como restablecer contraseñas o consultas sobre días libres; está disponible para los primeros usuarios y se espera su disponibilidad general en Q1 2027."
               },
               {
                 "t": "p",
-                "x": "\"Había gente escribiéndome sobre esta viñeta, preguntándome si era mía\", dijo a Nieman Lab. \"Fue muy surrealista\". Nieman Lab identificó después a más de 15 dibujantes del New Yorker cuyas firmas han aparecido en imágenes de ChatGPT."
+                "x": "Cuatro agentes autónomos actúan como pilotos automáticos en contratación, nóminas, contabilidad y cumplimiento normativo. A diferencia de un copiloto que «se queda ahí» hasta que el usuario inicia sesión, dijo el director de AI Joel Hellermark, funcionan con un latido periódico, esté o no conectado el usuario. El Talent Acquisition Agent ya está disponible para los primeros usuarios; los agentes Payroll, Accounting y Deployment llegarán a principios de 2027."
               },
               {
                 "t": "p",
-                "x": "Sí, la línea entre la inspiración y la copia descarada es difusa. Pero una firma falsa cruza el Rubicón: afirma claramente que una persona con nombre propio hizo esa obra y la respalda. Para quien trabaja en el ámbito creativo, su nombre es su reputación, su negocio. La próxima vez que veas una imagen circulando por las redes sociales, piensa antes de darle me gusta o compartirla."
+                "x": "La Trusted Agent Platform de Workday ahora es headless, lo que permite a los clientes usar sus propias herramientas y modelos. «Headless no puede significar sin ley», dijo el CTO Gabe Monroy."
               }
             ]
           }
@@ -1517,125 +1169,553 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT, 만화가\n서명까지 위조한다",
-          "body": "ChatGPT가 New Yorker풍 가짜 만화에 실존 만화가 이름으로 서명했다.",
-          "mini_headline": "ChatGPT, 만화가 이름 도용",
+          "headline": "Workday, Sana를\n기본 홈 화면으로",
+          "body": "Workday는 Sana를 기본 홈 화면으로 삼고 오토파일럿 에이전트를 더했다.",
+          "mini_headline": "Workday, 에이전트 중심으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-                "cap": "ChatGPT는 자신이 만든 가짜 New Yorker 만화에 실제 만화가들의 이름으로 서명해 왔다. (이미지 출처: Open AI)"
+                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
               },
               {
                 "t": "p",
-                "x": "8월 말 Dolly Parton과 Tim Curry가 잇따라 세상을 떠나자, 두 사람이 천국의 진주문에 도착하는 모습을 그린 만화 한 컷이 널리 퍼졌다. 귀퉁이에는 New Yorker 만화가 Brendan Loper의 필명인 \"BLOPER\"라는 서명이 있었다."
+                "x": "Workday는 Workday Rising에서 약 한 해 전 인수한 Sana를 기본 홈 화면인 Workday Home으로 바꿨다. Workday Home은 “업무, 의사결정, 회의, 에이전트 활동을 한곳에 모은다.” 역할마다 맞춰지며, Workday의 에이전트를 조율하고 작업에 따라 UI를 바꿔 양식, 캘린더, 승인 카드, 시각화를 실시간으로 생성한다. Sana는 Claude, Gemini Enterprise, Microsoft Copilot, Teams, Slack 안에서도 작동한다."
               },
               {
                 "t": "p",
-                "x": "그런데 문제가 하나 있었다. 그 그림은 Brendan이 그린 것이 아니었다. Dolly Parton의 한 팬이 ChatGPT에 \"New Yorker 스타일 만화\"를 요청했을 뿐이고, 챗봇이 만화를 만들어 냈다. 그러고는 덤으로 Brendan의 서명까지 위조했다."
+                "x": "Sana Concierge는 비밀번호 재설정이나 휴가 문의 같은 HR·IT 요청을 처리한다. 얼리 어답터에게 제공 중이며, 정식 출시는 Q1 2027로 예상된다."
               },
               {
                 "t": "p",
-                "x": "그는 Nieman Lab에 \"이 만화를 두고 내 작품이냐고 묻는 연락이 왔다\"며 \"정말 초현실적이었다\"고 말했다. Nieman Lab은 이후 ChatGPT 이미지에 서명이 등장한 New Yorker 만화가를 15명 넘게 확인했다."
+                "x": "네 개의 자율 에이전트가 채용, 급여, 회계, 컴플라이언스 전반에서 오토파일럿 역할을 한다. 최고 AI 책임자 Joel Hellermark는 사용자가 로그인할 때까지 “가만히 있는” 코파일럿과 달리, 이 에이전트들은 사용자의 온라인 여부와 상관없이 하트비트에 맞춰 작동한다고 말했다. Talent Acquisition Agent는 지금 얼리 어답터에게 제공되고, Payroll, Accounting, Deployment 에이전트는 2027년 초에 뒤따른다."
               },
               {
                 "t": "p",
-                "x": "물론 영감과 노골적인 베끼기 사이의 경계는 모호하다. 하지만 가짜 서명은 루비콘강을 건너는 일이다. 이름이 밝혀진 사람이 이 작품을 만들었고 책임진다는 분명한 표시이기 때문이다. 창작으로 일하는 사람에게 이름은 곧 평판이자 생계다. 다음에 소셜 미디어에서 돌고 있는 이미지를 보면, 좋아요를 누르거나 공유하기 전에 한 번 생각해 보자."
+                "x": "Workday의 Trusted Agent Platform은 이제 헤드리스로 바뀌어, 고객이 자체 도구와 모델을 쓸 수 있다. Gabe Monroy CTO는 “헤드리스가 무법을 뜻할 수는 없다(Headless can’t mean lawless)”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTが漫画家の\n署名を偽造している",
-          "body": "ChatGPTは、New Yorker風の偽漫画に実在の漫画家の名前で署名してきた。",
-          "mini_headline": "ChatGPTが漫画家の名を偽造",
+          "headline": "Workday、Sanaを\n標準ホーム画面に",
+          "body": "WorkdayはSanaを標準のホーム画面にし、オートパイロット型エージェントを加えた。",
+          "mini_headline": "Workday、エージェント中心へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-                "cap": "ChatGPTは、生成した偽のNew Yorker風漫画に実在する漫画家の名前で署名していた。（画像クレジット：Open AI）"
+                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
               },
               {
                 "t": "p",
-                "x": "8月下旬にDolly PartonとTim Curryが相次いで亡くなると、二人が天国の真珠の門に到着する様子を描いた漫画が拡散した。その隅には、New Yorkerの漫画家Brendan Loperのペンネームである「BLOPER」という署名があった。"
+                "x": "WorkdayはWorkday Risingで、約一年前に買収したSanaを標準のホーム画面「Workday Home」に据えた。Workday Homeは「タスク、意思決定、会議、エージェントの活動を一か所にまとめる」。役割ごとに最適化され、Workdayのエージェントを統括し、タスクに応じてUIを変え、フォーム、カレンダー、承認カード、可視化をリアルタイムで生成する。SanaはClaude、Gemini Enterprise、Microsoft Copilot、Teams、Slackの中でも動作する。"
               },
               {
                 "t": "p",
-                "x": "ただ、問題が一つあった。Brendanはそれを描いていなかったのだ。Dolly Partonのファンが単にChatGPTに「New Yorker風の漫画」を頼み、チャットボットがそれを作った。そのうえ、念押しのようにBrendanの署名まで偽造していた。"
+                "x": "Sana Conciergeは、パスワードのリセットや休暇に関する質問といったHRやITの依頼を処理する。アーリーアダプター向けに提供されており、一般提供はQ1 2027の見込みだ。"
               },
               {
                 "t": "p",
-                "x": "「この漫画について、私の作品かと尋ねる連絡が来た」と彼はNieman Labに語った。「とても非現実的だった」。Nieman Labはその後、ChatGPTの画像に署名が現れているNew Yorkerの漫画家を15人以上特定した。"
+                "x": "四つの自律型エージェントが、採用、給与、会計、コンプライアンスにわたってオートパイロットとして働く。最高AI責任者のJoel Hellermarkによると、ユーザーがログインするまで「ただ座っている」コパイロットとは異なり、これらはユーザーがオンラインかどうかに関係なく、ハートビートに合わせて動く。Talent Acquisition Agentはすでにアーリーアダプター向けに提供されており、Payroll、Accounting、Deploymentの各エージェントは2027年初めに続く。"
               },
               {
                 "t": "p",
-                "x": "確かに、インスピレーションと露骨な模倣の境界は曖昧だ。しかし偽の署名はルビコン川を渡る行為である。名前の明かされた人間がこの作品を作り、責任を持つという明確な表明になるからだ。クリエイターとして働く人にとって、名前は評判であり、仕事そのものだ。次にソーシャルメディアで出回っている画像を見かけたら、「いいね」や共有の前に一度考えてほしい。"
+                "x": "WorkdayのTrusted Agent Platformはヘッドレスになり、顧客は自前のツールやモデルを使えるようになった。CTOのGabe Monroyは「ヘッドレスは無法を意味してはならない（Headless can’t mean lawless）」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT在伪造\n漫画家的签名",
-          "body": "ChatGPT一直在其仿《New Yorker》风格的假漫画上署真实漫画家的名字。",
-          "mini_headline": "ChatGPT伪造漫画家署名",
+          "headline": "Workday把Sana\n设为默认主屏幕",
+          "body": "Workday将Sana设为默认主屏幕，并加入无论用户是否在线都会运行的自动驾驶智能体。",
+          "mini_headline": "Workday转向智能体优先",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-                "cap": "ChatGPT一直在它生成的假New Yorker漫画上署真实漫画家的名字。（图片来源：Open AI）"
+                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
               },
               {
                 "t": "p",
-                "x": "8月下旬Dolly Parton和Tim Curry相继去世后，一幅描绘二人抵达天堂珍珠门的漫画在网上疯传。漫画一角有“BLOPER”的签名，这是New Yorker漫画家Brendan Loper的笔名。"
+                "x": "在Workday Rising大会上，Workday将约一年前收购的Sana设为默认主屏幕Workday Home，它“把任务、决策、会议和智能体活动汇集到一处”。它按不同角色定制，统筹调度Workday的智能体，并根据每项任务调整UI，实时生成表单、日历、审批卡片和可视化图表。Sana还可在Claude、Gemini Enterprise、Microsoft Copilot、Teams和Slack中使用。"
               },
               {
                 "t": "p",
-                "x": "但问题是：这幅画并非出自Brendan之手。一位Dolly Parton的粉丝只是让ChatGPT画一幅“New Yorker风格的漫画”，聊天机器人便照做了。随后，它还顺手伪造了Brendan的签名。"
+                "x": "Sana Concierge可处理密码重置、休假咨询等HR和IT请求；目前面向早期采用者开放，预计Q1 2027全面上市。"
               },
               {
                 "t": "p",
-                "x": "他对Nieman Lab说：“有人写信问我这幅漫画是不是我画的。”“这感觉非常超现实。”Nieman Lab随后查明，有超过15位New Yorker漫画家的签名出现在ChatGPT生成的图像上。"
+                "x": "四个自主智能体在招聘、薪资、会计和合规领域充当自动驾驶。首席AI官Joel Hellermark表示，与在用户登录前一直“待在那里”的副驾驶不同，它们按心跳节奏运行，无论用户是否在线。Talent Acquisition Agent现已向早期采用者开放；Payroll、Accounting和Deployment智能体将于2027年初推出。"
               },
               {
                 "t": "p",
-                "x": "诚然，借鉴与直接抄袭之间的界线并不清晰。但伪造签名已越过卢比孔河：它清楚地宣称，这件作品出自一位具名的人之手，并由其负责。对任何从事创意工作的人来说，名字就是声誉，就是生计。下次在社交媒体上看到四处流传的图片时，点赞或分享前请先想一想。"
+                "x": "Workday的Trusted Agent Platform现已实现无头化，客户可以使用自己的工具和模型。CTO Gabe Monroy说：“无头不等于无法无天（Headless can’t mean lawless）。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT está falsificando\nfirmas de dibujantes",
-          "body": "ChatGPT ha estado firmando sus falsas viñetas al estilo del New Yorker con los nombres de dibujantes reales.",
-          "mini_headline": "ChatGPT falsifica firmas de dibujantes",
+          "headline": "Workday convierte a Sana en\nsu pantalla de inicio estándar",
+          "body": "Workday hizo de Sana su pantalla de inicio y sumó agentes autónomos que funcionan esté o no conectado el usuario.",
+          "mini_headline": "Workday apuesta por los agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sEXUggEyrv562jcWDU5esn-1450-80.png",
-                "cap": "ChatGPT ha estado firmando sus falsas viñetas del New Yorker con nombres de dibujantes reales. (Crédito de imagen: Open AI)"
+                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
               },
               {
                 "t": "p",
-                "x": "Cuando Dolly Parton y Tim Curry murieron a finales de agosto, se volvió viral una viñeta que los mostraba llegando a las puertas de perla del cielo. En una esquina aparecía la firma \"BLOPER\", el seudónimo del dibujante del New Yorker Brendan Loper."
+                "x": "En Workday Rising, Workday convirtió a Sana, adquirida hace aproximadamente un año, en su pantalla de inicio por defecto, Workday Home, que «reúne en un solo lugar tareas, decisiones, reuniones y actividad de agentes». Adaptada a cada rol, orquesta los agentes de Workday y ajusta su UI a cada tarea, generando formularios, calendarios, tarjetas de aprobación y visualizaciones en tiempo real. Sana también funciona dentro de Claude, Gemini Enterprise, Microsoft Copilot, Teams y Slack."
               },
               {
                 "t": "p",
-                "x": "Pero había un problema: Brendan no la había dibujado. Una fan de Dolly Parton simplemente había pedido a ChatGPT \"una viñeta al estilo del New Yorker\", y el chatbot la había creado. Luego, por si fuera poco, falsificó la firma de Brendan."
+                "x": "Sana Concierge resuelve solicitudes de HR e IT, como restablecer contraseñas o consultas sobre días libres; está disponible para los primeros usuarios y se espera su disponibilidad general en Q1 2027."
               },
               {
                 "t": "p",
-                "x": "\"Había gente escribiéndome sobre esta viñeta, preguntándome si era mía\", dijo a Nieman Lab. \"Fue muy surrealista\". Nieman Lab identificó después a más de 15 dibujantes del New Yorker cuyas firmas han aparecido en imágenes de ChatGPT."
+                "x": "Cuatro agentes autónomos actúan como pilotos automáticos en contratación, nóminas, contabilidad y cumplimiento normativo. A diferencia de un copiloto que «se queda ahí» hasta que el usuario inicia sesión, dijo el director de AI Joel Hellermark, funcionan con un latido periódico, esté o no conectado el usuario. El Talent Acquisition Agent ya está disponible para los primeros usuarios; los agentes Payroll, Accounting y Deployment llegarán a principios de 2027."
               },
               {
                 "t": "p",
-                "x": "Sí, la línea entre la inspiración y la copia descarada es difusa. Pero una firma falsa cruza el Rubicón: afirma claramente que una persona con nombre propio hizo esa obra y la respalda. Para quien trabaja en el ámbito creativo, su nombre es su reputación, su negocio. La próxima vez que veas una imagen circulando por las redes sociales, piensa antes de darle me gusta o compartirla."
+                "x": "La Trusted Agent Platform de Workday ahora es headless, lo que permite a los clientes usar sus propias herramientas y modelos. «Headless no puede significar sin ley», dijo el CTO Gabe Monroy."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-hourglass-middle",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 디자인의\n허리를 비운다",
+      "body": "한 에세이는 비대해진 디자인 프로세스의 허리를 AI가 조인다고 본다.",
+      "mini_headline": "AI, 디자인의 중간을 비우다",
+      "tool": "AI Workflow",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+          },
+          {
+            "t": "p",
+            "x": "열다섯 해 동안 디자인 프로세스는 계속 불어났는데, 정작 제품을 만들 시간은 줄기만 했다. Anamol Rajbhandari는 그 중간, 곧 리서치 보고서, 페르소나, 여정 지도, 와이어프레임, 핸드오프 스펙, 워크숍이 빠져나가고 무게가 양 끝으로 옮겨 간다고 주장한다. 위에서 결정하고 아래에서 만드는 모래시계 모양이다."
+          },
+          {
+            "t": "p",
+            "x": "그 중간은 돈이 쌀 때 열두어 명의 전문가 사이에서 합의를 사는 장치였다. 그러다 Fed가 2022년 3월부터 2023년 7월까지 금리를 열한 차례 올렸고, 2022년 11월에는 ChatGPT가 나왔다. 기업은 중간을 덜어낼 이유와 수단을 한꺼번에 얻었다."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+          },
+          {
+            "t": "p",
+            "x": "이런 산출물이 실은 다른 무언가를 대신하고 있었다는 건 연구로도 드러났다. 실무자들에게 페르소나는 거의 소통용일 뿐이었고, Rolf Molich의 한 연구에서는 열일곱 팀이 사용성 문제 340개를 보고했지만 모든 팀이 공통으로 찾은 문제는 하나도 없었다. 지금은 AI 모델이 인터뷰 가이드 초안을 쓰고, 녹취록 더미에서 긴장 지점을 일 분 만에 짚어 낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+          },
+          {
+            "t": "p",
+            "x": "이제 작동하는 프로토타입은 한 분기가 아니라 오후 한나절이면 나오고, 만드는 일은 다시 디자이너 몫이 된다. 해자는 반대편 끝, 곧 무엇이 존재할 가치가 있는지 가려내는 일에 생긴다. 디자이너는 무엇을 만들 가치가 있는지 정하고, 빠르게 협업한 뒤 그걸 잘 만든다."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI is hollowing out\nthe middle of design",
+          "body": "After years of a growing design process, an essay argues AI is now squeezing its middle into an hourglass shape.",
+          "mini_headline": "AI hollows out\ndesign's middle",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+              },
+              {
+                "t": "p",
+                "x": "For fifteen years, the design process kept growing while the time left for making the product kept shrinking. Anamol Rajbhandari argues the middle of that process — research reports, personas, journey maps, wireframes, handoff specs, workshops — is draining now, with the weight moving out to the two ends: deciding at the top, making at the bottom, like an hourglass."
+              },
+              {
+                "t": "p",
+                "x": "That middle was buying agreement among a dozen specialists while money was cheap. Then the Fed raised rates eleven times between March 2022 and July 2023, and ChatGPT arrived in November 2022, giving companies both a reason and the means to cut it."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+              },
+              {
+                "t": "p",
+                "x": "Research had already shown the artifacts standing in for something else: practitioners used personas almost only for communication, and in one Rolf Molich study seventeen teams reported 340 usability problems, none found by every team. An AI model now drafts the discussion guide and surfaces the tensions in a stack of transcripts in a minute."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+              },
+              {
+                "t": "p",
+                "x": "A working prototype now takes an afternoon instead of a quarter, so making comes back to the designer. The far end — judging what deserves to exist — becomes the moat: a designer decides what is worth making, collaborates at speed, and then makes it well."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 디자인의\n허리를 비운다",
+          "body": "한 에세이는 비대해진 디자인 프로세스의 허리를 AI가 조인다고 본다.",
+          "mini_headline": "AI, 디자인의 중간을 비우다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+              },
+              {
+                "t": "p",
+                "x": "열다섯 해 동안 디자인 프로세스는 계속 불어났는데, 정작 제품을 만들 시간은 줄기만 했다. Anamol Rajbhandari는 그 중간, 곧 리서치 보고서, 페르소나, 여정 지도, 와이어프레임, 핸드오프 스펙, 워크숍이 빠져나가고 무게가 양 끝으로 옮겨 간다고 주장한다. 위에서 결정하고 아래에서 만드는 모래시계 모양이다."
+              },
+              {
+                "t": "p",
+                "x": "그 중간은 돈이 쌀 때 열두어 명의 전문가 사이에서 합의를 사는 장치였다. 그러다 Fed가 2022년 3월부터 2023년 7월까지 금리를 열한 차례 올렸고, 2022년 11월에는 ChatGPT가 나왔다. 기업은 중간을 덜어낼 이유와 수단을 한꺼번에 얻었다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+              },
+              {
+                "t": "p",
+                "x": "이런 산출물이 실은 다른 무언가를 대신하고 있었다는 건 연구로도 드러났다. 실무자들에게 페르소나는 거의 소통용일 뿐이었고, Rolf Molich의 한 연구에서는 열일곱 팀이 사용성 문제 340개를 보고했지만 모든 팀이 공통으로 찾은 문제는 하나도 없었다. 지금은 AI 모델이 인터뷰 가이드 초안을 쓰고, 녹취록 더미에서 긴장 지점을 일 분 만에 짚어 낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+              },
+              {
+                "t": "p",
+                "x": "이제 작동하는 프로토타입은 한 분기가 아니라 오후 한나절이면 나오고, 만드는 일은 다시 디자이너 몫이 된다. 해자는 반대편 끝, 곧 무엇이 존재할 가치가 있는지 가려내는 일에 생긴다. 디자이너는 무엇을 만들 가치가 있는지 정하고, 빠르게 협업한 뒤 그걸 잘 만든다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIがデザインの\n中間を空洞化する",
+          "body": "膨らみ続けたデザインの工程を、AIが砂時計のように中間からくびれさせるという論考だ。",
+          "mini_headline": "AI、デザインの中間を空洞化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+              },
+              {
+                "t": "p",
+                "x": "十五年にわたり、デザインプロセスは膨らみ続け、製品を作るために残された時間は縮み続けた。Anamol Rajbhandariは、そのプロセスの中間、つまりリサーチレポート、ペルソナ、ジャーニーマップ、ワイヤーフレーム、ハンドオフ仕様、ワークショップがいま抜け落ちつつあり、重心が両端へ移っていると論じる。上では決め、下では作る。砂時計のような形だ。"
+              },
+              {
+                "t": "p",
+                "x": "その中間は、資金が安かった時代に十二人ほどの専門家の合意を買うためのものだった。その後、Fedが2022年3月から2023年7月にかけて十一回利上げし、2022年11月にはChatGPTが登場した。企業はそれを削る理由と手段の両方を得たのだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+              },
+              {
+                "t": "p",
+                "x": "研究はすでに、こうした成果物が別の何かの代わりになっていることを示していた。実務者はペルソナをほぼコミュニケーションのためだけに使っており、Rolf Molichのある研究では、十七のチームが340件のユーザビリティ上の問題を報告したが、すべてのチームが見つけた問題は一つもなかった。いまではAIモデルがインタビューガイドの草案を作り、山のような書き起こしから緊張関係を一分で浮かび上がらせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+              },
+              {
+                "t": "p",
+                "x": "動くプロトタイプは四半期ではなく午後のうちにできるようになり、作ることはデザイナーの手に戻る。もう一方の端、つまり何が存在に値するかを見極めることが堀になる。デザイナーは何を作る価値があるかを決め、素早く協働し、それをうまく作り上げる。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI正在掏空\n设计流程的中段",
+          "body": "一篇文章认为，多年来不断膨胀的设计流程，正被AI从中间挤压成沙漏形状。",
+          "mini_headline": "AI掏空设计的中段",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+              },
+              {
+                "t": "p",
+                "x": "十五年来，设计流程不断膨胀，留给打造产品的时间却越来越少。Anamol Rajbhandari认为，这一流程的中段——研究报告、用户画像、旅程图、线框图、交付规格、工作坊——如今正在流失，重心移向两端：顶端做决定，底端做产品，就像一个沙漏。"
+              },
+              {
+                "t": "p",
+                "x": "在资金便宜的年代，这个中段的作用是在约十二位专家之间换取共识。随后，Fed在2022年3月至2023年7月间十一次加息，ChatGPT又在2022年11月问世，让企业既有理由也有手段砍掉它。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+              },
+              {
+                "t": "p",
+                "x": "研究早已表明，这些产出物其实在替代别的东西：从业者几乎只把用户画像用于沟通；在Rolf Molich的一项研究中，十七个团队报告了340个可用性问题，却没有一个问题被所有团队都发现。如今，AI模型一分钟内就能起草访谈提纲，并从成堆的访谈记录中找出其中的矛盾。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+              },
+              {
+                "t": "p",
+                "x": "可运行的原型如今只需一个下午，而不是一个季度，于是“做”重新回到设计师手中。另一端——判断什么值得存在——成了护城河：设计师决定什么值得做，高速协作，然后把它做好。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI está vaciando\nel centro del diseño",
+          "body": "Un ensayo sostiene que la AI estrecha ahora el centro del proceso de diseño, como en un reloj de arena.",
+          "mini_headline": "La AI vacía el centro del diseño",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+              },
+              {
+                "t": "p",
+                "x": "Durante quince años, el proceso de diseño no dejó de crecer mientras se reducía el tiempo que quedaba para hacer el producto. Anamol Rajbhandari sostiene que el centro de ese proceso —informes de investigación, personas, mapas de recorrido, wireframes, especificaciones de traspaso, talleres— se está vaciando, y que el peso se desplaza a los dos extremos: decidir arriba, hacer abajo, como en un reloj de arena."
+              },
+              {
+                "t": "p",
+                "x": "Ese centro servía para comprar el acuerdo entre una docena de especialistas mientras el dinero era barato. Luego la Fed subió los tipos de interés once veces entre marzo de 2022 y julio de 2023, y ChatGPT llegó en noviembre de 2022, lo que dio a las empresas tanto un motivo como los medios para recortarlo."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+              },
+              {
+                "t": "p",
+                "x": "La investigación ya había mostrado que esos artefactos sustituían a otra cosa: los profesionales usaban las personas casi solo para comunicar, y en un estudio de Rolf Molich diecisiete equipos reportaron 340 problemas de usabilidad, ninguno detectado por todos los equipos. Ahora un modelo de AI redacta la guía de entrevista y saca a la luz las tensiones de un montón de transcripciones en un minuto."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+              },
+              {
+                "t": "p",
+                "x": "Un prototipo funcional lleva ahora una tarde en lugar de un trimestre, así que hacer vuelve a manos del diseñador. El otro extremo —juzgar qué merece existir— se convierte en el foso defensivo: el diseñador decide qué vale la pena hacer, colabora con rapidez y luego lo hace bien."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI가 디자인의\n허리를 비운다",
+          "body": "한 에세이는 커져 온 디자인 프로세스의 허리를 AI가 조인다고 본다.",
+          "mini_headline": "AI, 디자인의 중간을 비우다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+              },
+              {
+                "t": "p",
+                "x": "열다섯 해 동안 디자인 프로세스는 계속 불어났고, 정작 제품을 만들 시간은 계속 줄었다. Anamol Rajbhandari는 그 프로세스의 중간, 곧 리서치 보고서, 페르소나, 여정 지도, 와이어프레임, 핸드오프 스펙, 워크숍이 이제 빠져나가고 있으며 무게가 양 끝으로 옮겨 간다고 주장한다. 위에서는 결정하고 아래에서는 만드는, 모래시계 같은 모양이다."
+              },
+              {
+                "t": "p",
+                "x": "그 중간은 돈이 쌀 때 열두어 명의 전문가 사이에서 합의를 사는 장치였다. 그러다 Fed가 2022년 3월부터 2023년 7월까지 금리를 열한 차례 올렸고, 2022년 11월 ChatGPT가 나오면서 기업은 그 중간을 덜어낼 이유와 수단을 함께 얻었다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+              },
+              {
+                "t": "p",
+                "x": "연구는 이미 이런 산출물이 다른 무언가를 대신하고 있음을 보여 줬다. 실무자들은 페르소나를 거의 소통용으로만 썼고, Rolf Molich의 한 연구에서는 열일곱 팀이 사용성 문제 340개를 보고했지만 모든 팀이 찾아낸 문제는 하나도 없었다. 이제는 AI 모델이 인터뷰 가이드 초안을 쓰고, 녹취록 더미에서 긴장 지점을 일 분 만에 짚어 낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+              },
+              {
+                "t": "p",
+                "x": "이제 작동하는 프로토타입은 한 분기가 아니라 오후 한나절이면 나오고, 만드는 일은 디자이너에게 돌아온다. 반대편 끝, 곧 무엇이 존재할 가치가 있는지 판단하는 일이 해자가 된다. 디자이너는 무엇을 만들 가치가 있는지 정하고, 빠르게 협업한 뒤 그것을 잘 만든다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIがデザインの\n中間を空洞化する",
+          "body": "膨らみ続けたデザインの工程を、AIが砂時計のように中間からくびれさせるという論考だ。",
+          "mini_headline": "AI、デザインの中間を空洞化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+              },
+              {
+                "t": "p",
+                "x": "十五年にわたり、デザインプロセスは膨らみ続け、製品を作るために残された時間は縮み続けた。Anamol Rajbhandariは、そのプロセスの中間、つまりリサーチレポート、ペルソナ、ジャーニーマップ、ワイヤーフレーム、ハンドオフ仕様、ワークショップがいま抜け落ちつつあり、重心が両端へ移っていると論じる。上では決め、下では作る。砂時計のような形だ。"
+              },
+              {
+                "t": "p",
+                "x": "その中間は、資金が安かった時代に十二人ほどの専門家の合意を買うためのものだった。その後、Fedが2022年3月から2023年7月にかけて十一回利上げし、2022年11月にはChatGPTが登場した。企業はそれを削る理由と手段の両方を得たのだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+              },
+              {
+                "t": "p",
+                "x": "研究はすでに、こうした成果物が別の何かの代わりになっていることを示していた。実務者はペルソナをほぼコミュニケーションのためだけに使っており、Rolf Molichのある研究では、十七のチームが340件のユーザビリティ上の問題を報告したが、すべてのチームが見つけた問題は一つもなかった。いまではAIモデルがインタビューガイドの草案を作り、山のような書き起こしから緊張関係を一分で浮かび上がらせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+              },
+              {
+                "t": "p",
+                "x": "動くプロトタイプは四半期ではなく午後のうちにできるようになり、作ることはデザイナーの手に戻る。もう一方の端、つまり何が存在に値するかを見極めることが堀になる。デザイナーは何を作る価値があるかを決め、素早く協働し、それをうまく作り上げる。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI正在掏空\n设计流程的中段",
+          "body": "一篇文章认为，多年来不断膨胀的设计流程，正被AI从中间挤压成沙漏形状。",
+          "mini_headline": "AI掏空设计的中段",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+              },
+              {
+                "t": "p",
+                "x": "十五年来，设计流程不断膨胀，留给打造产品的时间却越来越少。Anamol Rajbhandari认为，这一流程的中段——研究报告、用户画像、旅程图、线框图、交付规格、工作坊——如今正在流失，重心移向两端：顶端做决定，底端做产品，就像一个沙漏。"
+              },
+              {
+                "t": "p",
+                "x": "在资金便宜的年代，这个中段的作用是在约十二位专家之间换取共识。随后，Fed在2022年3月至2023年7月间十一次加息，ChatGPT又在2022年11月问世，让企业既有理由也有手段砍掉它。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+              },
+              {
+                "t": "p",
+                "x": "研究早已表明，这些产出物其实在替代别的东西：从业者几乎只把用户画像用于沟通；在Rolf Molich的一项研究中，十七个团队报告了340个可用性问题，却没有一个问题被所有团队都发现。如今，AI模型一分钟内就能起草访谈提纲，并从成堆的访谈记录中找出其中的矛盾。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+              },
+              {
+                "t": "p",
+                "x": "可运行的原型如今只需一个下午，而不是一个季度，于是“做”重新回到设计师手中。另一端——判断什么值得存在——成了护城河：设计师决定什么值得做，高速协作，然后把它做好。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI está vaciando\nel centro del diseño",
+          "body": "Un ensayo sostiene que la AI estrecha ahora el centro del proceso de diseño, como en un reloj de arena.",
+          "mini_headline": "La AI vacía el centro del diseño",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+              },
+              {
+                "t": "p",
+                "x": "Durante quince años, el proceso de diseño no dejó de crecer mientras se reducía el tiempo que quedaba para hacer el producto. Anamol Rajbhandari sostiene que el centro de ese proceso —informes de investigación, personas, mapas de recorrido, wireframes, especificaciones de traspaso, talleres— se está vaciando, y que el peso se desplaza a los dos extremos: decidir arriba, hacer abajo, como en un reloj de arena."
+              },
+              {
+                "t": "p",
+                "x": "Ese centro servía para comprar el acuerdo entre una docena de especialistas mientras el dinero era barato. Luego la Fed subió los tipos de interés once veces entre marzo de 2022 y julio de 2023, y ChatGPT llegó en noviembre de 2022, lo que dio a las empresas tanto un motivo como los medios para recortarlo."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+              },
+              {
+                "t": "p",
+                "x": "La investigación ya había mostrado que esos artefactos sustituían a otra cosa: los profesionales usaban las personas casi solo para comunicar, y en un estudio de Rolf Molich diecisiete equipos reportaron 340 problemas de usabilidad, ninguno detectado por todos los equipos. Ahora un modelo de AI redacta la guía de entrevista y saca a la luz las tensiones de un montón de transcripciones en un minuto."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+              },
+              {
+                "t": "p",
+                "x": "Un prototipo funcional lleva ahora una tarde en lugar de un trimestre, así que hacer vuelve a manos del diseñador. El otro extremo —juzgar qué merece existir— se convierte en el foso defensivo: el diseñador decide qué vale la pena hacer, colabora con rapidez y luego lo hace bien."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
               }
             ]
           }

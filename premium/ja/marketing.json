@@ -998,6 +998,124 @@
           "x": "Googleの広報担当者は声明で「AI ModeとAI Overviewsで通常のテキスト広告とShopping広告をテストしており、最近これを一部の医薬品にも広げた」と述べた。"
         }
       ]
+    },
+    "marketing/marketing-lg-magnite": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+        },
+        {
+          "t": "p",
+          "x": "MagniteとLG Ad Solutionsは、LGスマートTVのホーム画面インベントリを、エージェント型AIによるメディア購買を通じて代理店に提供すると発表した。最初のキャンペーンには独立系代理店H/LとともにNorthern California Toyota Dealers Associationが参加し、49ers のクォーターバックBrock Purdyが分割画面のヒーロー枠に登場する。"
+        },
+        {
+          "t": "p",
+          "x": "H/Lの購買エージェントは、ClearLine内でModel Context Protocol（MCP）を介してMagniteの販売エージェントと連携した。エージェントは新車購入を検討するNFL視聴者向けのキャンペーンブリーフを設定・稼働させ、エージェント主導の計画は配信前にLGとH/Lが承認した。"
+        },
+        {
+          "t": "p",
+          "x": "H/LのVPであるJeremy Cobbは、ホーム画面広告は「必須条件」になったと語った。エージェント型購買は「私たちのやっていることを根本的に変えるものではない」としつつ、キャンペーン計画をより良く、速く、強くすると期待している。"
+        }
+      ]
+    },
+    "marketing/marketing-shopify-agent-ready": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+        },
+        {
+          "t": "p",
+          "x": "Bill Huntは、エージェントが実際に購入判断を完結できるかを確かめるため、主要なShopifyストア122店を監査した。Shopifyは全ストアでエージェント用ツールを有効にしており、122店中89店が標準的なMCPツール一覧に応答し、実在する在庫ありの商品を渡すと全ストアでチェックアウト作成に成功した。"
+        },
+        {
+          "t": "p",
+          "x": "だが、返ってきた74件のチェックアウトはすべてrequires_escalationだった。エージェントが価格付きのカートを組み、支払いを確定するのは人間である。"
+        },
+        {
+          "t": "p",
+          "x": "ポリシーツールは返品期間の質問には答えたが、配送や取消に関する購入者目線の質問には失敗した。74店のうち到着見込みを返した店はなく、店頭受け取りを示した店もなく、122店のどこも注文の取消・変更・返品ツールを公開していない。九つのチェックを通過した店はゼロだった。"
+        },
+        {
+          "t": "p",
+          "x": "Huntの助言は、買い手が尋ねる質問を自社のポリシーツールに投げかけ、「agent-ready」だと思い込まずに検証せよ、というものだ。"
+        }
+      ]
+    },
+    "marketing/marketing-floqer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+          "cap": "Floqerの創業者たち"
+        },
+        {
+          "t": "p",
+          "x": "Floqerは自律型の顧客ナレッジプラットフォームで、B2Bの営業・マーケティングチームに、顧客情報を継続的に収集・整理・更新するAI-poweredのデータベースを提供する。TechCrunch Disrupt 2026のStartup Battlefieldでピッチを行った同社は、セキュリティ審査を経たうえで2027年初めを目標に技術をオープンソース化する計画だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーが探しているものを説明すると、AIエージェントが複数の情報源を横断して企業と担当者のリストを作り、100を超える外部データソースでアカウント情報を補強し、転職や新たな資金調達をウェブ上で監視する。同社によると、顧客からは見込み客開拓の時間を最大70%削減したとの報告があるという。"
+        },
+        {
+          "t": "p",
+          "x": "2024年にShivam MahajanとZaaheda Islamが創業したFloqerは、ARRが$1.2 millionを超え、従業員は八人、顧客はPerplexity、Wise、AngelListを含む1,000社超だとしている。"
+        }
+      ]
+    },
+    "marketing/marketing-newegg-ucp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "NeweggはオンラインチェックアウトにGoogleのUniversal Commerce Protocol（UCP）を統合した。GoogleがUCPを一月に投入して以来対応してきたWayfair、Walmart、Macy'sなどに続く動きだ。Newegg-soldの商品、つまりNeweggが販売する商品は、GoogleのAI Mode、Google Search、Gemini内で購入できるようになる。"
+        },
+        {
+          "t": "p",
+          "x": "Neweggの最高情報責任者Montaque Houは「AIは世界がテクノロジーを買う方法を変えつつあり、Neweggはその変化の最前線に立つつもりだ」と述べた。NeweggはGoogleに商品カタログデータを提供しつつ、販売主体の立場を維持する。"
+        },
+        {
+          "t": "p",
+          "x": "今回の動きは、Newegg独自の対話型AIアシスタントCelesteや、Perplexityの検索への商品掲載対応に続くものだ。買い物客は検索結果やプロンプトから離れずにGoogle Payを使える。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleのAshish Guptaは「NeweggがGoogle上でUCP-poweredのチェックアウトを有効にしたことは、エージェント型コマースを拡大するうえで新たな節目となる」と述べた。"
+        }
+      ]
+    },
+    "marketing/marketing-shopify-catalog-ai-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+          "cap": "Shopifyは以前、AI-poweredの買い物と決済に向けてMetaのMuseとの提携を発表している。"
+        },
+        {
+          "t": "p",
+          "x": "より多くのAIエージェントが、まもなくShopifyの商品を閲覧・購入できるようになる。同社のエージェント型コマース構想が広がることを意味する。"
+        },
+        {
+          "t": "p",
+          "x": "Shopifyは火曜日、買い物客が自分のAIエージェントを設定して代わりに商品を購入させられるようにすると発表した。これにより、Shopifyのストア内外の商品を含む同社カタログの十億件を超える商品に、より多くのエージェントがアクセスできる。Shopifyは九月にMetaと提携し、Museエージェントが人に代わって購入できるようにしたが、今後は提携による連携がなくてもどのエージェントでも使える。"
+        },
+        {
+          "t": "p",
+          "x": "顧客はShopのアカウントにエージェントを接続し、one-clickのShop Payで会話の中で決済を済ませる。注文はShopアプリに集約される。Shopifyはこの機能を、予算の上限や速い配送のみといったルールに従える「パーソナルショッパー」として打ち出している。購入者は購入ごとに承認する必要がある。"
+        },
+        {
+          "t": "p",
+          "x": "E-commerceはAIの主戦場の一つになった。GoogleとAmazonはエージェント型ショッピングツールに投資し、Amazonはエージェントが顧客に代わって買い物をしてよいかをめぐり、Perplexity、さらに最近ではMetaのMuseと争っている。"
+        }
+      ]
     }
   }
 }

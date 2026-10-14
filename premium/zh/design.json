@@ -7675,6 +7675,153 @@
           "x": "World Creator 4 预计于 2026 年 11 月发布。BiteTheBytes 尚未宣布任何价格调整。"
         }
       ]
+    },
+    "design/design-spectral-labs-ai-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Spectral Labs称已打造出首个获得机械工程师行业标准CAD认证的AI系统。公司表示，其智能体已通过Solidworks Professional考试——自主完成零件与机构的建模、修改和装配，用时不到三小时。"
+        },
+        {
+          "t": "video",
+          "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+        },
+        {
+          "t": "p",
+          "x": "该系统将SGS-Mk2与Quartz相结合：前者是其面向物理工程的基础模型，能够推理零件及装配体的几何、拓扑与运动学关系；后者是其CAD执行环境。公司称，在几何推理问题上，SGS-Mk2将单题成本降低了46%至87%。"
+        },
+        {
+          "t": "p",
+          "x": "公司在45道内部准备的题目（20道参考CSWA，25道参考CSWP）上将SGS-Mk2与前沿模型进行对比，未做任何针对考试的专门训练。该考试已多次被通过，但尚未有人取得满分。"
+        },
+        {
+          "t": "p",
+          "x": "“CAD生成/编辑/理解方面的长周期基准测试还不够多，”CEO Rahul Iyer表示。公司正扩大与制造商的合作，力求端到端地自动化工程工作流程。"
+        }
+      ]
+    },
+    "design/design-cozyblanket-pro": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "K0awUmCpELQ"
+        },
+        {
+          "t": "p",
+          "x": "Sparseal发布了备受期待的CozyBlanket Pro，这是一款面向游戏开发和动画制作的AI-assisted重拓扑、UV展开与纹理烘焙软件。它首先以iPad应用形式推出，桌面版正在开发中。"
+        },
+        {
+          "t": "p",
+          "x": "它是初代CozyBlanket的精神续作，但并非直接升级，专为拥有“数百万多边形”的完整角色和场景打造。其AI模型由公司自主研发，仅使用合成数据训练，并在用户设备上本地运行。"
+        },
+        {
+          "t": "p",
+          "x": "做重拓扑时，用户用Pencil工具画出拓扑面片的边缘，由AI填充内部；结果可以手动微调或编辑。CG Channel指出，早期演示中的面部拓扑并不常规，因此质量取决于引导线的摆放。"
+        },
+        {
+          "t": "p",
+          "x": "UV展开同样如此，打包为GPU-accelerated。它支持UDIM，可烘焙顶点色、切线空间和AO贴图，并导出为OBJ或glTF。运行需要iPadOS 18.6+；基础应用免费，但保存或导出需一次性支付$89.99。"
+        }
+      ]
+    },
+    "design/design-workday-sana-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
+        },
+        {
+          "t": "p",
+          "x": "在Workday Rising大会上，Workday将约一年前收购的Sana设为默认主屏幕Workday Home，它“把任务、决策、会议和智能体活动汇集到一处”。它按不同角色定制，统筹调度Workday的智能体，并根据每项任务调整UI，实时生成表单、日历、审批卡片和可视化图表。Sana还可在Claude、Gemini Enterprise、Microsoft Copilot、Teams和Slack中使用。"
+        },
+        {
+          "t": "p",
+          "x": "Sana Concierge可处理密码重置、休假咨询等HR和IT请求；目前面向早期采用者开放，预计Q1 2027全面上市。"
+        },
+        {
+          "t": "p",
+          "x": "四个自主智能体在招聘、薪资、会计和合规领域充当自动驾驶。首席AI官Joel Hellermark表示，与在用户登录前一直“待在那里”的副驾驶不同，它们按心跳节奏运行，无论用户是否在线。Talent Acquisition Agent现已向早期采用者开放；Payroll、Accounting和Deployment智能体将于2027年初推出。"
+        },
+        {
+          "t": "p",
+          "x": "Workday的Trusted Agent Platform现已实现无头化，客户可以使用自己的工具和模型。CTO Gabe Monroy说：“无头不等于无法无天（Headless can’t mean lawless）。”"
+        }
+      ]
+    },
+    "design/design-hourglass-middle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+        },
+        {
+          "t": "p",
+          "x": "十五年来，设计流程不断膨胀，留给打造产品的时间却越来越少。Anamol Rajbhandari认为，这一流程的中段——研究报告、用户画像、旅程图、线框图、交付规格、工作坊——如今正在流失，重心移向两端：顶端做决定，底端做产品，就像一个沙漏。"
+        },
+        {
+          "t": "p",
+          "x": "在资金便宜的年代，这个中段的作用是在约十二位专家之间换取共识。随后，Fed在2022年3月至2023年7月间十一次加息，ChatGPT又在2022年11月问世，让企业既有理由也有手段砍掉它。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+        },
+        {
+          "t": "p",
+          "x": "研究早已表明，这些产出物其实在替代别的东西：从业者几乎只把用户画像用于沟通；在Rolf Molich的一项研究中，十七个团队报告了340个可用性问题，却没有一个问题被所有团队都发现。如今，AI模型一分钟内就能起草访谈提纲，并从成堆的访谈记录中找出其中的矛盾。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+        },
+        {
+          "t": "p",
+          "x": "可运行的原型如今只需一个下午，而不是一个季度，于是“做”重新回到设计师手中。另一端——判断什么值得存在——成了护城河：设计师决定什么值得做，高速协作，然后把它做好。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+        }
+      ]
+    },
+    "design/design-play-store-vibe-coded-apps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-will-let-you-distribute-vibe-coded-android-apps-with-just-a-google-account/intro-1791578617.jpg",
+          "cap": "Play Store的个人库板块。"
+        },
+        {
+          "t": "p",
+          "x": "作为Play Store一系列更新的一部分，Google宣布将允许任何用氛围编程打造Android应用的人，仅凭一个Google账号即可通过Play Store分发应用。"
+        },
+        {
+          "t": "p",
+          "x": "该功能将向美国（US）及其他部分市场的18岁及以上用户逐步推出，用户无需付费开发者账号，即可从Google AI Studio上传氛围编程的Android应用。AI Studio只需向Gemini输入一段文字提示即可生成应用，用户还可以通过更多提示或亲自修改生成的代码来调整结果。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-Ucj637-1791575893.jpg",
+          "cap": "AI Studio将一款氛围编程的Android应用发布到Play Store。"
+        },
+        {
+          "t": "p",
+          "x": "起初，应用只会出现在新的“个人库”板块中，仅供你自己的设备使用，但Google计划最终让你能与亲友安全地分享氛围编程的应用。若想面向全球用户，你可以“升级”为专业开发者账号，并将应用提交至Play Store的常规安全审核。"
+        },
+        {
+          "t": "p",
+          "x": "Google还让Gemini能在对话中直接给出Play Store应用的链接，新的Game Finder则会根据全新的口味档案Gamer DNA推荐游戏。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/uploads/embed/it-0MYmwM-1791575992.jpg",
+          "cap": "Play Store新Game Finder功能中的Gamer DNA与Game Playlists。"
+        }
+      ]
     }
   }
 }

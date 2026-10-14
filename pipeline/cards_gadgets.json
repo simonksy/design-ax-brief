@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-apple-homeview",
+      "id": "gadgets-ai-studio-android",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Apple 첫 스마트 화면\n299달러 HomeView",
-      "body": "7인치 HomeView가 299달러에 예약을 받고 카메라로 최대 6명을 알아본다.",
-      "mini_headline": "Apple HomeView, 299달러",
+      "headline": "AI Studio로 누구나\n무료 Android 앱",
+      "body": "AI Studio면 개발 경험이 없어도 누구나 Android 앱을 무료로 만든다.",
+      "mini_headline": "Prompt-built Android 앱, 무료",
       "tool": "Gadgets",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+      "source": "ZDNET",
+      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,251 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+            "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+            "cap": "Google/ZDNET"
           },
           {
             "t": "p",
-            "x": "Apple이 오늘 스마트홈 허브 HomeView의 예약 판매를 시작했다. 7인치 스마트 디스플레이 겸 스피커인 HomeView는 가족 구성원 최대 6명이 Apple 기기와 앱, 현재 베타 단계인 생성형 AI 챗봇 Siri를 한곳에서 이용하고 제어하는 중심 창구를 노린다."
+            "x": "Google은 화요일, 일반 Google 계정만 있으면 코딩 경험이 없어도 누구나 Google AI Studio에서 개인용 Android 앱을 만들 수 있다고 발표했다. 앱은 Google Play의 비공개 영역을 거쳐 자기 기기에서 돌아가고, 공개 Play Store에는 올라가지 않는다."
           },
           {
             "t": "p",
-            "x": "HomeView에 말을 걸면 스마트홈 기기를 제어할 수 있다. Siri에게 스마트 블라인드를 닫거나 스마트 잠금장치를 켜 달라고 하는 식이다. HomeView는 영상 피드도 최대 9개까지 동시에 실시간으로 띄운다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-            "cap": "스마트홈 허브로 쓰이는 Apple HomeView."
+            "x": "앞으로 몇 달 안에 가까운 가족과 친구에게도 앱을 공유할 수 있다. 반응이 좋은 앱이 나오면 Google은 Play Store로 전 세계에 내놓을 수 있게 “전문 개발자 계정으로 올라가는 경로”를 열어 준다."
           },
           {
             "t": "p",
-            "x": "Amazon Echo Show 같은 기기와 경쟁하는 HomeView는 내장 카메라로 누가 쓰는지 알아보고 그 사람의 프로필을 띄운다. Apple Intelligence를 지원하는 iPhone이나 iPad에 프로필을 연결하면 Messages, Calendar, Reminders, FaceTime을 쓸 수 있다. Siri 요청은 기기 안에서 처리하거나 Private Cloud Compute를 거쳐 처리한다고 Apple은 밝혔다."
+            "x": "AI Studio의 기존 앱 제작 도구는 전문 개발자 계정용이라 PC에 연결해 USB 디버깅을 해야 한다. 새 도구도 같은 제작 도구를 쓰지만, 클릭 한 번이면 개인 기기에 앱이 깔린다. 원하는 것을 프롬프트로 설명하면 나머지는 AI가 맡고, 놓쳤을 법한 기능까지 제안한다. 그다음 가볍게 손보거나, 버리고 처음부터 다시 시작해도 된다. 실험하고 앱을 만드는 데 돈은 들지 않는다."
           },
           {
             "t": "p",
-            "x": "Liquid Retina(LCD) 화면은 밝기가 0.3~500니트이고 스피커 받침 위 스테인리스 스틸 힌지에 달려 기울어진다. Schneider Home이 만든 벽걸이 거치대는 60달러부터다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Apple은 오늘부터 HomeView 예약 주문을 받는다. 정식 출시는 11월 13일, 가격은 299달러다."
+            "x": "필자는 이 도구가 습관 추적기, 변환기, 타이머처럼 광고나 구독이 잔뜩 붙은 단일 목적 앱을 대체하리라 본다. 무엇보다 앱이 상업성을 갖추거나 남에게 쓸모 있을 필요가 없다. 나한테만 잘 돌아가면 그만이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple’s first smart display\nis the $299 HomeView",
-          "body": "Apple's 7-inch HomeView smart display opens for $299 preorders and can recognize up to six users with its camera.",
-          "mini_headline": "Apple HomeView, $299",
+          "headline": "Google AI Studio now builds\npersonal Android apps for free",
+          "body": "Google's AI Studio lets anyone vibe code a personal Android app for free, with no developer experience required.",
+          "mini_headline": "Prompt-built Android apps, free",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+                "cap": "Google/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Apple opened preorders for the HomeView smart home hub today. The HomeView is a 7-inch smart display and speaker that aims to be a central access point for up to six members of a family to access and control Apple’s ecosystem of devices, apps, and the Siri generative AI chatbot that’s currently in beta."
+                "x": "Google announced on Tuesday that anyone with a standard Google account can build personal Android apps in Google AI Studio, with no coding experience. The apps run on your own device, launched from a private part of Google Play, and won't be included in the public Play Store."
               },
               {
                 "t": "p",
-                "x": "Users can speak to HomeView to control smart home devices, such as telling Siri to close the smart blinds or activate smart locks. HomeView can also show a livestream for up to nine video feeds simultaneously."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-                "cap": "The Apple HomeView serving as a smart home hub."
+                "x": "In the coming months you'll be able to share apps with close family and friends, and if one takes off, Google will provide a \"pipeline to graduate into a professional developer account\" to share it globally via the Play Store."
               },
               {
                 "t": "p",
-                "x": "Competing with devices like the Amazon Echo Show, HomeView uses its integrated camera to identify who’s using it and show them their profile. Users can connect their profile to their Apple Intelligence-supporting iPhone or iPad to access Messages, Calendar, Reminders, and FaceTime. Apple said Siri requests can run locally or via Private Cloud Compute."
+                "x": "AI Studio's existing app creator is meant for professional developer accounts and requires USB debugging connected to a PC. The new tool works with that same creator but installs your app on a personal device with a single click. You describe what you want in a prompt and AI does the rest, suggesting features you might have missed; you can make light edits afterwards or scrap it and start again. There's no charge to experiment and build an app."
               },
               {
                 "t": "p",
-                "x": "The Liquid Retina (LCD) screen has a brightness range of 0.3 to 500 nits and tilts on a stainless steel hinge above the speaker base. Wall mounts made by Schneider Home start at $60."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple started taking preorders for HomeView today. It launches on November 13 for $299."
+                "x": "The author sees it replacing single-purpose apps loaded with ads or subscriptions, like a habit tracker, converter or timer. The big selling point: an app doesn't have to be commercially viable or needed by anyone else. It just has to work for you."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple 첫 스마트 화면\n299달러 HomeView",
-          "body": "7인치 HomeView가 299달러에 예약을 받고 카메라로 최대 6명을 알아본다.",
-          "mini_headline": "Apple HomeView, 299달러",
+          "headline": "AI Studio로 누구나\n무료 Android 앱",
+          "body": "AI Studio면 개발 경험이 없어도 누구나 Android 앱을 무료로 만든다.",
+          "mini_headline": "Prompt-built Android 앱, 무료",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+                "cap": "Google/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Apple이 오늘 스마트홈 허브 HomeView의 예약 판매를 시작했다. 7인치 스마트 디스플레이 겸 스피커인 HomeView는 가족 구성원 최대 6명이 Apple 기기와 앱, 현재 베타 단계인 생성형 AI 챗봇 Siri를 한곳에서 이용하고 제어하는 중심 창구를 노린다."
+                "x": "Google은 화요일, 일반 Google 계정만 있으면 코딩 경험이 없어도 누구나 Google AI Studio에서 개인용 Android 앱을 만들 수 있다고 발표했다. 앱은 Google Play의 비공개 영역을 거쳐 자기 기기에서 돌아가고, 공개 Play Store에는 올라가지 않는다."
               },
               {
                 "t": "p",
-                "x": "HomeView에 말을 걸면 스마트홈 기기를 제어할 수 있다. Siri에게 스마트 블라인드를 닫거나 스마트 잠금장치를 켜 달라고 하는 식이다. HomeView는 영상 피드도 최대 9개까지 동시에 실시간으로 띄운다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-                "cap": "스마트홈 허브로 쓰이는 Apple HomeView."
+                "x": "앞으로 몇 달 안에 가까운 가족과 친구에게도 앱을 공유할 수 있다. 반응이 좋은 앱이 나오면 Google은 Play Store로 전 세계에 내놓을 수 있게 “전문 개발자 계정으로 올라가는 경로”를 열어 준다."
               },
               {
                 "t": "p",
-                "x": "Amazon Echo Show 같은 기기와 경쟁하는 HomeView는 내장 카메라로 누가 쓰는지 알아보고 그 사람의 프로필을 띄운다. Apple Intelligence를 지원하는 iPhone이나 iPad에 프로필을 연결하면 Messages, Calendar, Reminders, FaceTime을 쓸 수 있다. Siri 요청은 기기 안에서 처리하거나 Private Cloud Compute를 거쳐 처리한다고 Apple은 밝혔다."
+                "x": "AI Studio의 기존 앱 제작 도구는 전문 개발자 계정용이라 PC에 연결해 USB 디버깅을 해야 한다. 새 도구도 같은 제작 도구를 쓰지만, 클릭 한 번이면 개인 기기에 앱이 깔린다. 원하는 것을 프롬프트로 설명하면 나머지는 AI가 맡고, 놓쳤을 법한 기능까지 제안한다. 그다음 가볍게 손보거나, 버리고 처음부터 다시 시작해도 된다. 실험하고 앱을 만드는 데 돈은 들지 않는다."
               },
               {
                 "t": "p",
-                "x": "Liquid Retina(LCD) 화면은 밝기가 0.3~500니트이고 스피커 받침 위 스테인리스 스틸 힌지에 달려 기울어진다. Schneider Home이 만든 벽걸이 거치대는 60달러부터다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple은 오늘부터 HomeView 예약 주문을 받는다. 정식 출시는 11월 13일, 가격은 299달러다."
+                "x": "필자는 이 도구가 습관 추적기, 변환기, 타이머처럼 광고나 구독이 잔뜩 붙은 단일 목적 앱을 대체하리라 본다. 무엇보다 앱이 상업성을 갖추거나 남에게 쓸모 있을 필요가 없다. 나한테만 잘 돌아가면 그만이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple初のスマート画面\n299ドルのHomeView",
-          "body": "7インチのHomeViewが299ドルで予約開始、カメラで最大6人を識別する。",
-          "mini_headline": "Apple HomeView、299ドル",
+          "headline": "AI Studioで誰でも\n無料でAndroidアプリ",
+          "body": "AI Studioなら開発経験がなくても誰でも個人用Androidアプリを無料で作れる。",
+          "mini_headline": "Prompt-builtのAndroidアプリが無料に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+                "cap": "Google/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Appleは本日、スマートホームハブ「HomeView」の予約受付を開始した。HomeViewは7インチのスマートディスプレイ兼スピーカーで、家族最大6人がAppleのデバイスやアプリ、そして現在ベータ版の生成AIチャットボットSiriにアクセスし操作するための中心的な窓口を目指す。"
+                "x": "Googleは火曜日、標準的なGoogleアカウントがあれば誰でもコーディング経験なしにGoogle AI Studioで個人用Androidアプリを作れると発表した。アプリはGoogle Playの非公開領域から起動して自分の端末で動作し、公開のPlay Storeには掲載されない。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはHomeViewに話しかけてスマートホーム機器を操作できる。たとえばSiriにスマートブラインドを閉めさせたり、スマートロックを作動させたりできる。HomeViewは最大9本の映像フィードを同時にライブ表示することもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-                "cap": "スマートホームハブとして使われるApple HomeView。"
+                "x": "今後数カ月のうちに、近しい家族や友人とアプリを共有できるようになる。アプリが評判になれば、Googleは「プロの開発者アカウントへ移行するためのパイプライン」を用意し、Play Storeを通じて世界中に公開できるようにする。"
               },
               {
                 "t": "p",
-                "x": "Amazon Echo Showなどの機器と競合するHomeViewは、内蔵カメラで利用者を識別し、その人のプロフィールを表示する。ユーザーはプロフィールをApple Intelligence対応のiPhoneやiPadと連携させ、Messages、Calendar、Reminders、FaceTimeを利用できる。AppleによればSiriへのリクエストは端末上でも、Private Cloud Compute経由でも処理できる。"
+                "x": "AI Studioの既存のアプリ作成ツールはプロの開発者アカウント向けで、PCに接続したUSBデバッグが必要だ。新ツールは同じ作成ツールを使いつつ、ワンクリックで個人の端末にアプリをインストールする。作りたいものをプロンプトで説明すればAIが残りを担い、見落としていそうな機能も提案する。後から軽く手直しすることも、破棄して最初からやり直すこともできる。試したりアプリを作ったりするのに料金はかからない。"
               },
               {
                 "t": "p",
-                "x": "Liquid Retina(LCD)画面の輝度は0.3〜500ニトで、スピーカー台座の上にあるステンレススチール製ヒンジで傾けられる。Schneider Home製の壁掛けマウントは60ドルからだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Appleは本日HomeViewの予約受付を始めた。発売は11月13日で、価格は299ドルだ。"
+                "x": "筆者は、習慣トラッカーや変換ツール、タイマーのように広告やサブスクリプションだらけの単機能アプリを置き換える存在になるとみる。最大の売りは、アプリが商業的に成り立つ必要も、他人に必要とされる必要もないことだ。自分にとって役立てばそれでいい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple首款智能显示屏\nHomeView售299美元",
-          "body": "7英寸的HomeView开放299美元预订，可用摄像头识别最多6名用户。",
-          "mini_headline": "Apple HomeView，299美元",
+          "headline": "AI Studio让人人\n免费做Android应用",
+          "body": "AI Studio让任何人无需开发经验，即可免费打造个人Android应用。",
+          "mini_headline": "Prompt-built的Android应用，免费",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+                "cap": "Google/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Apple今天开放了智能家居中枢HomeView的预订。HomeView是一款7英寸智能显示屏兼音箱，旨在成为家庭中最多6名成员访问和控制Apple设备、应用以及目前仍处于测试阶段的生成式AI聊天机器人Siri的核心入口。"
+                "x": "Google周二宣布，任何拥有标准Google账号的人都能在Google AI Studio中打造个人Android应用，无需编程经验。这些应用在你自己的设备上运行，从Google Play的私有区域启动，不会出现在公开的Play Store中。"
               },
               {
                 "t": "p",
-                "x": "用户可以对HomeView说话来控制智能家居设备，例如让Siri关上智能百叶窗或启动智能门锁。HomeView还能同时直播最多9路视频画面。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-                "cap": "用作智能家居中枢的Apple HomeView。"
+                "x": "未来几个月内，你将能与亲密的家人和朋友分享应用；如果某个应用走红，Google将提供一条“升级为专业开发者账号的通道”，以便通过Play Store向全球分享。"
               },
               {
                 "t": "p",
-                "x": "HomeView与Amazon Echo Show等设备竞争，它通过内置摄像头识别使用者并显示其个人资料。用户可将个人资料关联到支持Apple Intelligence的iPhone或iPad，以使用Messages、Calendar、Reminders和FaceTime。Apple表示，Siri请求可以在本地运行，也可以通过Private Cloud Compute运行。"
+                "x": "AI Studio现有的应用创建工具面向专业开发者账号，需要连接PC进行USB调试。新工具沿用同一创建工具，但只需点击一次即可把应用安装到个人设备上。你用提示词描述需求，其余交给AI完成，它还会建议你可能遗漏的功能；之后可以稍作修改，也可以推倒重来。试验和构建应用都不收费。"
               },
               {
                 "t": "p",
-                "x": "Liquid Retina（LCD）屏幕亮度范围为0.3至500尼特，可在扬声器底座上方的不锈钢铰链上倾斜。Schneider Home生产的壁挂支架售价60美元起。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple今天开始接受HomeView预订。该产品将于11月13日上市，售价299美元。"
+                "x": "作者认为，它将取代那些塞满广告或订阅的单一用途应用，比如习惯追踪器、换算器或计时器。最大的卖点在于：应用不必具备商业价值，也不必被其他人需要，只要对你自己有用就行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La primera pantalla de Apple\nes el HomeView de 299 dólares",
-          "body": "El HomeView de Apple, de 7 pulgadas, abre su preventa a 299 dólares y reconoce con su cámara hasta seis usuarios.",
-          "mini_headline": "Apple HomeView, 299 dólares",
+          "headline": "Google AI Studio ya crea apps\nAndroid personales gratis",
+          "body": "AI Studio de Google permite a cualquiera crear con vibe coding una app personal de Android gratis, sin experiencia.",
+          "mini_headline": "Apps Android Prompt-built, gratis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+                "cap": "Google/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Apple abrió hoy la preventa del HomeView, su centro para el hogar inteligente. El HomeView es una pantalla inteligente con altavoz de 7 pulgadas que busca ser el punto de acceso central para que hasta seis miembros de una familia usen y controlen el ecosistema de dispositivos y apps de Apple, además de Siri, el chatbot de IA generativa que está actualmente en beta."
+                "x": "Google anunció el martes que cualquier persona con una cuenta estándar de Google puede crear apps personales de Android en Google AI Studio sin experiencia en programación. Las apps se ejecutan en el propio dispositivo, se abren desde una parte privada de Google Play y no se incluirán en la Play Store pública."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden hablarle al HomeView para controlar dispositivos del hogar inteligente, por ejemplo, pedirle a Siri que cierre las persianas inteligentes o que active las cerraduras inteligentes. El HomeView también puede mostrar en directo hasta nueve señales de video a la vez."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-                "cap": "El Apple HomeView como centro del hogar inteligente."
+                "x": "En los próximos meses se podrán compartir apps con familiares y amigos cercanos, y si alguna tiene éxito, Google ofrecerá una \"vía para pasar a una cuenta de desarrollador profesional\" para compartirla en todo el mundo a través de la Play Store."
               },
               {
                 "t": "p",
-                "x": "En competencia con dispositivos como el Amazon Echo Show, el HomeView usa su cámara integrada para identificar quién lo está usando y mostrarle su perfil. Los usuarios pueden vincular su perfil a un iPhone o iPad compatible con Apple Intelligence para acceder a Messages, Calendar, Reminders y FaceTime. Apple indicó que las solicitudes a Siri pueden ejecutarse en el propio dispositivo o mediante Private Cloud Compute."
+                "x": "El creador de apps que ya tenía AI Studio está pensado para cuentas de desarrollador profesional y requiere depuración por USB conectada a un PC. La nueva herramienta funciona con ese mismo creador, pero instala la app en un dispositivo personal con un solo clic. Se describe lo que se quiere en un prompt y la AI hace el resto, sugiriendo funciones que quizá se hayan pasado por alto; después se pueden hacer pequeños ajustes o descartarla y empezar de nuevo. Experimentar y crear una app no tiene coste."
               },
               {
                 "t": "p",
-                "x": "La pantalla Liquid Retina (LCD) tiene un rango de brillo de 0,3 a 500 nits y se inclina sobre una bisagra de acero inoxidable situada encima de la base del altavoz. Los soportes de pared fabricados por Schneider Home cuestan desde 60 dólares."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple empezó hoy a aceptar reservas del HomeView. Saldrá a la venta el 13 de noviembre por 299 dólares."
+                "x": "El autor cree que sustituirá a apps de un solo propósito cargadas de anuncios o suscripciones, como un registro de hábitos, un conversor o un temporizador. El gran atractivo: una app no tiene que ser comercialmente viable ni útil para nadie más. Solo tiene que funcionar para uno mismo."
               }
             ]
           }
@@ -271,173 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple 첫 스마트 화면\n299달러 HomeView",
-          "body": "7인치 HomeView가 299달러에 예약을 받고 카메라로 최대 6명을 알아본다.",
-          "mini_headline": "Apple HomeView, 299달러",
+          "headline": "AI Studio로 누구나\n무료 Android 앱",
+          "body": "AI Studio로 개발 경험 없이도 누구나 Android 앱을 무료로 만든다.",
+          "mini_headline": "Prompt-built Android 앱, 무료",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+                "cap": "Google/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Apple이 오늘 스마트홈 허브 HomeView의 예약 판매를 시작했다. HomeView는 7인치 스마트 디스플레이 겸 스피커로, 가족 구성원 최대 6명이 Apple의 기기와 앱, 그리고 현재 베타 단계인 생성형 AI 챗봇 Siri를 한곳에서 이용하고 제어하는 중심 창구가 되는 것을 목표로 한다."
+                "x": "Google은 화요일, 일반 Google 계정만 있으면 누구나 코딩 경험 없이 Google AI Studio에서 개인용 Android 앱을 만들 수 있다고 발표했다. 앱은 Google Play의 비공개 영역에서 실행돼 자신의 기기에서 돌아가며, 공개 Play Store에는 올라가지 않는다."
               },
               {
                 "t": "p",
-                "x": "사용자는 HomeView에 말을 걸어 스마트홈 기기를 제어할 수 있다. 예를 들어 Siri에게 스마트 블라인드를 닫거나 스마트 잠금장치를 켜 달라고 하면 된다. HomeView는 최대 9개의 영상 피드를 동시에 실시간으로 보여 줄 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-                "cap": "스마트홈 허브로 쓰이는 Apple HomeView."
+                "x": "앞으로 몇 달 안에 가까운 가족과 친구에게 앱을 공유할 수 있게 된다. 어떤 앱이 인기를 끌면 Google은 Play Store를 통해 전 세계에 공유할 수 있도록 “전문 개발자 계정으로 올라가는 경로”를 제공한다."
               },
               {
                 "t": "p",
-                "x": "Amazon Echo Show 같은 기기와 경쟁하는 HomeView는 내장 카메라로 누가 쓰는지 알아보고 그 사람의 프로필을 띄운다. 사용자는 Apple Intelligence를 지원하는 iPhone이나 iPad에 프로필을 연결해 Messages, Calendar, Reminders, FaceTime을 쓸 수 있다. Apple은 Siri 요청을 기기 안에서 처리하거나 Private Cloud Compute를 거쳐 처리할 수 있다고 밝혔다."
+                "x": "AI Studio의 기존 앱 제작 도구는 전문 개발자 계정용으로, PC에 연결한 USB 디버깅이 필요하다. 새 도구는 같은 제작 도구를 쓰지만 클릭 한 번으로 개인 기기에 앱을 설치한다. 원하는 것을 프롬프트로 설명하면 나머지는 AI가 맡고, 놓쳤을 만한 기능까지 제안한다. 이후 가볍게 손보거나 버리고 처음부터 다시 시작할 수도 있다. 실험하고 앱을 만드는 데 비용은 들지 않는다."
               },
               {
                 "t": "p",
-                "x": "Liquid Retina(LCD) 화면의 밝기 범위는 0.3~500니트이며, 스피커 받침 위 스테인리스 스틸 힌지에 달려 기울어진다. Schneider Home이 만든 벽걸이 거치대는 60달러부터다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple은 오늘부터 HomeView 예약 주문을 받기 시작했다. 정식 출시는 11월 13일이며 가격은 299달러다."
+                "x": "필자는 이 도구가 습관 추적기, 변환기, 타이머처럼 광고나 구독이 잔뜩 붙은 단일 목적 앱을 대체할 것으로 본다. 핵심 장점은 앱이 상업성을 갖추거나 다른 사람에게 필요할 이유가 없다는 점이다. 나에게만 잘 작동하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple初のスマート画面\n299ドルのHomeView",
-          "body": "7インチのHomeViewが299ドルで予約開始、カメラで最大6人を識別する。",
-          "mini_headline": "Apple HomeView、299ドル",
+          "headline": "AI Studioで誰でも\n無料でAndroidアプリ",
+          "body": "AI Studioなら開発経験がなくても誰でも個人用Androidアプリを無料で作れる。",
+          "mini_headline": "Prompt-builtのAndroidアプリが無料に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+                "cap": "Google/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Appleは本日、スマートホームハブ「HomeView」の予約受付を開始した。HomeViewは7インチのスマートディスプレイ兼スピーカーで、家族最大6人がAppleのデバイスやアプリ、そして現在ベータ版の生成AIチャットボットSiriにアクセスし操作するための中心的な窓口を目指す。"
+                "x": "Googleは火曜日、標準的なGoogleアカウントがあれば誰でもコーディング経験なしにGoogle AI Studioで個人用Androidアプリを作れると発表した。アプリはGoogle Playの非公開領域から起動して自分の端末で動作し、公開のPlay Storeには掲載されない。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはHomeViewに話しかけてスマートホーム機器を操作できる。たとえばSiriにスマートブラインドを閉めさせたり、スマートロックを作動させたりできる。HomeViewは最大9本の映像フィードを同時にライブ表示することもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-                "cap": "スマートホームハブとして使われるApple HomeView。"
+                "x": "今後数カ月のうちに、近しい家族や友人とアプリを共有できるようになる。アプリが評判になれば、Googleは「プロの開発者アカウントへ移行するためのパイプライン」を用意し、Play Storeを通じて世界中に公開できるようにする。"
               },
               {
                 "t": "p",
-                "x": "Amazon Echo Showなどの機器と競合するHomeViewは、内蔵カメラで利用者を識別し、その人のプロフィールを表示する。ユーザーはプロフィールをApple Intelligence対応のiPhoneやiPadと連携させ、Messages、Calendar、Reminders、FaceTimeを利用できる。AppleによればSiriへのリクエストは端末上でも、Private Cloud Compute経由でも処理できる。"
+                "x": "AI Studioの既存のアプリ作成ツールはプロの開発者アカウント向けで、PCに接続したUSBデバッグが必要だ。新ツールは同じ作成ツールを使いつつ、ワンクリックで個人の端末にアプリをインストールする。作りたいものをプロンプトで説明すればAIが残りを担い、見落としていそうな機能も提案する。後から軽く手直しすることも、破棄して最初からやり直すこともできる。試したりアプリを作ったりするのに料金はかからない。"
               },
               {
                 "t": "p",
-                "x": "Liquid Retina(LCD)画面の輝度は0.3〜500ニトで、スピーカー台座の上にあるステンレススチール製ヒンジで傾けられる。Schneider Home製の壁掛けマウントは60ドルからだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Appleは本日HomeViewの予約受付を始めた。発売は11月13日で、価格は299ドルだ。"
+                "x": "筆者は、習慣トラッカーや変換ツール、タイマーのように広告やサブスクリプションだらけの単機能アプリを置き換える存在になるとみる。最大の売りは、アプリが商業的に成り立つ必要も、他人に必要とされる必要もないことだ。自分にとって役立てばそれでいい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple首款智能显示屏\nHomeView售299美元",
-          "body": "7英寸的HomeView开放299美元预订，可用摄像头识别最多6名用户。",
-          "mini_headline": "Apple HomeView，299美元",
+          "headline": "AI Studio让人人\n免费做Android应用",
+          "body": "AI Studio让任何人无需开发经验，即可免费打造个人Android应用。",
+          "mini_headline": "Prompt-built的Android应用，免费",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+                "cap": "Google/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Apple今天开放了智能家居中枢HomeView的预订。HomeView是一款7英寸智能显示屏兼音箱，旨在成为家庭中最多6名成员访问和控制Apple设备、应用以及目前仍处于测试阶段的生成式AI聊天机器人Siri的核心入口。"
+                "x": "Google周二宣布，任何拥有标准Google账号的人都能在Google AI Studio中打造个人Android应用，无需编程经验。这些应用在你自己的设备上运行，从Google Play的私有区域启动，不会出现在公开的Play Store中。"
               },
               {
                 "t": "p",
-                "x": "用户可以对HomeView说话来控制智能家居设备，例如让Siri关上智能百叶窗或启动智能门锁。HomeView还能同时直播最多9路视频画面。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-                "cap": "用作智能家居中枢的Apple HomeView。"
+                "x": "未来几个月内，你将能与亲密的家人和朋友分享应用；如果某个应用走红，Google将提供一条“升级为专业开发者账号的通道”，以便通过Play Store向全球分享。"
               },
               {
                 "t": "p",
-                "x": "HomeView与Amazon Echo Show等设备竞争，它通过内置摄像头识别使用者并显示其个人资料。用户可将个人资料关联到支持Apple Intelligence的iPhone或iPad，以使用Messages、Calendar、Reminders和FaceTime。Apple表示，Siri请求可以在本地运行，也可以通过Private Cloud Compute运行。"
+                "x": "AI Studio现有的应用创建工具面向专业开发者账号，需要连接PC进行USB调试。新工具沿用同一创建工具，但只需点击一次即可把应用安装到个人设备上。你用提示词描述需求，其余交给AI完成，它还会建议你可能遗漏的功能；之后可以稍作修改，也可以推倒重来。试验和构建应用都不收费。"
               },
               {
                 "t": "p",
-                "x": "Liquid Retina（LCD）屏幕亮度范围为0.3至500尼特，可在扬声器底座上方的不锈钢铰链上倾斜。Schneider Home生产的壁挂支架售价60美元起。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple今天开始接受HomeView预订。该产品将于11月13日上市，售价299美元。"
+                "x": "作者认为，它将取代那些塞满广告或订阅的单一用途应用，比如习惯追踪器、换算器或计时器。最大的卖点在于：应用不必具备商业价值，也不必被其他人需要，只要对你自己有用就行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La primera pantalla de Apple\nes el HomeView de 299 dólares",
-          "body": "El HomeView de Apple, de 7 pulgadas, abre su preventa a 299 dólares y reconoce con su cámara hasta seis usuarios.",
-          "mini_headline": "Apple HomeView, 299 dólares",
+          "headline": "Google AI Studio ya crea apps\nAndroid personales gratis",
+          "body": "AI Studio de Google permite a cualquiera crear con vibe coding una app personal de Android gratis, sin experiencia.",
+          "mini_headline": "Apps Android Prompt-built, gratis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+                "cap": "Google/ZDNET"
               },
               {
                 "t": "p",
-                "x": "Apple abrió hoy la preventa del HomeView, su centro para el hogar inteligente. El HomeView es una pantalla inteligente con altavoz de 7 pulgadas que busca ser el punto de acceso central para que hasta seis miembros de una familia usen y controlen el ecosistema de dispositivos y apps de Apple, además de Siri, el chatbot de IA generativa que está actualmente en beta."
+                "x": "Google anunció el martes que cualquier persona con una cuenta estándar de Google puede crear apps personales de Android en Google AI Studio sin experiencia en programación. Las apps se ejecutan en el propio dispositivo, se abren desde una parte privada de Google Play y no se incluirán en la Play Store pública."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden hablarle al HomeView para controlar dispositivos del hogar inteligente, por ejemplo, pedirle a Siri que cierre las persianas inteligentes o que active las cerraduras inteligentes. El HomeView también puede mostrar en directo hasta nueve señales de video a la vez."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
-                "cap": "El Apple HomeView como centro del hogar inteligente."
+                "x": "En los próximos meses se podrán compartir apps con familiares y amigos cercanos, y si alguna tiene éxito, Google ofrecerá una \"vía para pasar a una cuenta de desarrollador profesional\" para compartirla en todo el mundo a través de la Play Store."
               },
               {
                 "t": "p",
-                "x": "En competencia con dispositivos como el Amazon Echo Show, el HomeView usa su cámara integrada para identificar quién lo está usando y mostrarle su perfil. Los usuarios pueden vincular su perfil a un iPhone o iPad compatible con Apple Intelligence para acceder a Messages, Calendar, Reminders y FaceTime. Apple indicó que las solicitudes a Siri pueden ejecutarse en el propio dispositivo o mediante Private Cloud Compute."
+                "x": "El creador de apps que ya tenía AI Studio está pensado para cuentas de desarrollador profesional y requiere depuración por USB conectada a un PC. La nueva herramienta funciona con ese mismo creador, pero instala la app en un dispositivo personal con un solo clic. Se describe lo que se quiere en un prompt y la AI hace el resto, sugiriendo funciones que quizá se hayan pasado por alto; después se pueden hacer pequeños ajustes o descartarla y empezar de nuevo. Experimentar y crear una app no tiene coste."
               },
               {
                 "t": "p",
-                "x": "La pantalla Liquid Retina (LCD) tiene un rango de brillo de 0,3 a 500 nits y se inclina sobre una bisagra de acero inoxidable situada encima de la base del altavoz. Los soportes de pared fabricados por Schneider Home cuestan desde 60 dólares."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple empezó hoy a aceptar reservas del HomeView. Saldrá a la venta el 13 de noviembre por 299 dólares."
+                "x": "El autor cree que sustituirá a apps de un solo propósito cargadas de anuncios o suscripciones, como un registro de hábitos, un conversor o un temporizador. El gran atractivo: una app no tiene que ser comercialmente viable ni útil para nadie más. Solo tiene que funcionar para uno mismo."
               }
             ]
           }
@@ -445,15 +325,15 @@
       }
     },
     {
-      "id": "gadgets-samsung-galaxy-glasses",
+      "id": "gadgets-android-scam-alerts",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "유출로 본 Samsung\n초경량 스마트 안경",
-      "body": "SammyGuru에 따르면 Samsung 안경은 41그램이고 11월에 나온다.",
-      "mini_headline": "Samsung 초경량 안경 유출",
+      "headline": "Gemini로 사기 문자\nAndroid가 경고한다",
+      "body": "Android는 Gemini로 사기 문자를 잡고 화면 공유 중 금융정보를 가린다.",
+      "mini_headline": "Gemini가 Android 사기 탐지",
       "tool": "Gadgets",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -461,209 +341,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-            "cap": "세 가지 색상의 Warby Parker 스타일 Samsung 스마트 안경 이미지."
+            "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+            "cap": "Google"
           },
           {
             "t": "p",
-            "x": "Samsung은 첫 스마트 안경을 11월에야 공개하지만 생김새와 무게는 이미 드러났다. 테크 매체 SammyGuru 보도에 따르면 이 안경은 여러 스타일과 색상으로 나오고 무게는 41그램에 불과하다."
+            "x": "Google이 Android용 새 사기 방지 기능을 발표했다. Messages에 사용자가 직접 켜는 설정이 생기는데, 켜 두면 Scam Detection이 Google의 가장 진보한 Gemini 모델로 발신자의 의도를 읽고 악의적인 상대가 보냈을 수 있는 메시지에 경고를 띄운다. 분석은 Private AI Compute에서 이뤄진다. 메시지를 암호화한 뒤 Google을 포함해 누구도 들여다볼 수 없는 안전한 공간에서 처리하는 방식이다."
           },
           {
             "t": "p",
-            "x": "Samsung은 이 스마트 안경을 다음 달 내놓을 것으로 보이며 이름은 Galaxy Glasses가 유력하다. 11월부터 US(미국) 소비자는 Warby Parker와 Gentle Monster 웹사이트, US 내 Samsung Experience Stores에서 살 수 있다. 가격은 아직 공개되지 않았다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-            "cap": "Samsung 스마트 안경의 Gentle Monster 스타일"
+            "x": "Gemini Nano는 Messages 속 링크도 사용자가 누르기 전에 기기 안에서 먼저 확인한다. 이 기능은 앞으로 몇 주에 걸쳐 Pixel 10+, Galaxy S26 시리즈, Galaxy Z Flip과 Fold 8 등 일부 기기에 들어간다. 채팅 알림의 Scam Detection도 Pixel 밖으로 넓어진다. Honor, Motorola, OPPO, OnePlus, realme, vivo, Xiaomi가 올해 안에 지원할 예정이다."
           },
           {
             "t": "p",
-            "x": "표준 렌즈 기준 무게는 41그램으로, 가장 가벼운 Meta Ray-Ban 모델의 43그램보다 가볍다. Snapdragon AR1 Gen 1 칩, 2 GB RAM, 64 GB 저장공간, 12 MP 카메라, 오픈형 스피커 2개, 마이크 4개가 들어간다. Meta Ray-Bans처럼 화면은 없다."
-          },
-          {
-            "t": "p",
-            "x": "Samsung 스마트 안경은 Google Gemini AI를 쓰고 Android XR 운영체제에서 돌아간다. 착용자는 사진·영상 촬영과 통화, 문자 전송, 번역, 턴바이턴 길 안내는 물론 음악과 팟캐스트 청취도 할 수 있다."
+            "x": "Android 15 이상 기기는 모두 이달 말 자동 화면 공유 개인정보 보호 기능을 받는다. Chrome이나 Android WebView가 화면에 떠 있으면 비밀번호, 금융 정보, 카드 보안 번호를 가린다. 십이월 초에는 Pixel과 일부 기기에 착신 전환 보호 기능이 추가된다. 브라질에서는 제휴 은행이라며 걸려 오는 전화를 Android가 검증하는데, 유월 이후 벌써 삼백만 건 넘는 가짜 전화를 막았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Leak shows Samsung’s\nsuperlight smart glasses",
-          "body": "A SammyGuru report says Samsung’s smart glasses, possibly called Galaxy Glasses, weigh 41 grams and launch in November.",
-          "mini_headline": "Samsung’s superlight glasses, leaked",
+          "headline": "Android will use Gemini to\nwarn you about scam messages",
+          "body": "Android will use Gemini to flag scam messages and hide your banking details while you share your screen.",
+          "mini_headline": "Gemini flags Android scams",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-                "cap": "Image of Samsung's smart glasses in the Warby Parker style with three colors."
+                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+                "cap": "Google"
               },
               {
                 "t": "p",
-                "x": "Samsung won’t unveil its first smart glasses until November, but now we know what they will look like — and how light they will be. They’ll come in a variety of styles and colors and weigh only 41 grams, according to a report from tech news outlet SammyGuru."
+                "x": "Google has announced new scam protections for Android, including an opt-in setting in Messages that turns on Scam Detection, which taps Google's most advanced Gemini models to evaluate the sender's intent and warn you if messages could be coming from a bad actor. Messages are analyzed in Private AI Compute, which encrypts them and processes them in a secure space inaccessible to anybody else, even Google."
               },
               {
                 "t": "p",
-                "x": "Samsung is expected to launch the smart glasses, possibly called Galaxy Glasses, next month. In November, US customers can buy them at the Warby Parker and Gentle Monster websites and at Samsung Experience Stores in the US. No prices have been announced."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-                "cap": "Gentle Monster style of Samsung smart glasses"
+                "x": "Gemini Nano will also check links in Messages on-device before you tap them. This will be available on Pixel 10+, the Galaxy S26 series, Galaxy Z Flip and Fold 8, among other select devices, rolling out in the coming weeks. Scam Detection in chat notifications is also expanding beyond Pixel, with Honor, Motorola, OPPO, OnePlus, realme, vivo and Xiaomi expected to enable it later this year."
               },
               {
                 "t": "p",
-                "x": "The glasses will weigh 41 grams with standard lenses, lighter than the 43 grams for the lightest Meta Ray-Ban model. They’ll include a Snapdragon AR1 Gen 1 chip, 2 GB of RAM, 64 GB of storage, a 12 MP camera, two open-ear speakers and four microphones. Like Meta Ray-Bans, there is no visual display."
-              },
-              {
-                "t": "p",
-                "x": "Samsung’s smart glasses will use Google Gemini AI and run on the Android XR operating system, letting wearers take pictures and videos, make calls, send texts, translate, get turn-by-turn navigation and listen to songs and podcasts."
+                "x": "All devices on Android 15 and newer will get automatic screen-sharing privacy later this month, hiding passwords, banking information and card security numbers when Chrome or Android WebView is on screen. In early December, call forwarding protection arrives on Pixel and other select devices. In Brazil, Android verifies calls claiming to be from partner banks and has already blocked over three million fake calls since June."
               }
             ]
           }
         },
         "ko": {
-          "headline": "유출로 본 Samsung\n초경량 스마트 안경",
-          "body": "SammyGuru에 따르면 Samsung 안경은 41그램이고 11월에 나온다.",
-          "mini_headline": "Samsung 초경량 안경 유출",
+          "headline": "Gemini로 사기 문자\nAndroid가 경고한다",
+          "body": "Android는 Gemini로 사기 문자를 잡고 화면 공유 중 금융정보를 가린다.",
+          "mini_headline": "Gemini가 Android 사기 탐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-                "cap": "세 가지 색상의 Warby Parker 스타일 Samsung 스마트 안경 이미지."
+                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+                "cap": "Google"
               },
               {
                 "t": "p",
-                "x": "Samsung은 첫 스마트 안경을 11월에야 공개하지만 생김새와 무게는 이미 드러났다. 테크 매체 SammyGuru 보도에 따르면 이 안경은 여러 스타일과 색상으로 나오고 무게는 41그램에 불과하다."
+                "x": "Google이 Android용 새 사기 방지 기능을 발표했다. Messages에 사용자가 직접 켜는 설정이 생기는데, 켜 두면 Scam Detection이 Google의 가장 진보한 Gemini 모델로 발신자의 의도를 읽고 악의적인 상대가 보냈을 수 있는 메시지에 경고를 띄운다. 분석은 Private AI Compute에서 이뤄진다. 메시지를 암호화한 뒤 Google을 포함해 누구도 들여다볼 수 없는 안전한 공간에서 처리하는 방식이다."
               },
               {
                 "t": "p",
-                "x": "Samsung은 이 스마트 안경을 다음 달 내놓을 것으로 보이며 이름은 Galaxy Glasses가 유력하다. 11월부터 US(미국) 소비자는 Warby Parker와 Gentle Monster 웹사이트, US 내 Samsung Experience Stores에서 살 수 있다. 가격은 아직 공개되지 않았다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-                "cap": "Samsung 스마트 안경의 Gentle Monster 스타일"
+                "x": "Gemini Nano는 Messages 속 링크도 사용자가 누르기 전에 기기 안에서 먼저 확인한다. 이 기능은 앞으로 몇 주에 걸쳐 Pixel 10+, Galaxy S26 시리즈, Galaxy Z Flip과 Fold 8 등 일부 기기에 들어간다. 채팅 알림의 Scam Detection도 Pixel 밖으로 넓어진다. Honor, Motorola, OPPO, OnePlus, realme, vivo, Xiaomi가 올해 안에 지원할 예정이다."
               },
               {
                 "t": "p",
-                "x": "표준 렌즈 기준 무게는 41그램으로, 가장 가벼운 Meta Ray-Ban 모델의 43그램보다 가볍다. Snapdragon AR1 Gen 1 칩, 2 GB RAM, 64 GB 저장공간, 12 MP 카메라, 오픈형 스피커 2개, 마이크 4개가 들어간다. Meta Ray-Bans처럼 화면은 없다."
-              },
-              {
-                "t": "p",
-                "x": "Samsung 스마트 안경은 Google Gemini AI를 쓰고 Android XR 운영체제에서 돌아간다. 착용자는 사진·영상 촬영과 통화, 문자 전송, 번역, 턴바이턴 길 안내는 물론 음악과 팟캐스트 청취도 할 수 있다."
+                "x": "Android 15 이상 기기는 모두 이달 말 자동 화면 공유 개인정보 보호 기능을 받는다. Chrome이나 Android WebView가 화면에 떠 있으면 비밀번호, 금융 정보, 카드 보안 번호를 가린다. 십이월 초에는 Pixel과 일부 기기에 착신 전환 보호 기능이 추가된다. 브라질에서는 제휴 은행이라며 걸려 오는 전화를 Android가 검증하는데, 유월 이후 벌써 삼백만 건 넘는 가짜 전화를 막았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Samsungの超軽量\nスマートグラスが流出",
-          "body": "SammyGuruによると、Samsungのスマートグラスは41グラムで11月発売だ。",
-          "mini_headline": "Samsungの超軽量グラスが流出",
+          "headline": "Android、詐欺を\nGeminiで警告へ",
+          "body": "AndroidはGeminiで詐欺メッセージを見抜き、画面共有中は銀行情報を隠す。",
+          "mini_headline": "GeminiがAndroidの詐欺を検知",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-                "cap": "3色のWarby ParkerスタイルのSamsungスマートグラスの画像。"
+                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+                "cap": "Google"
               },
               {
                 "t": "p",
-                "x": "Samsungが初のスマートグラスを公開するのは11月だが、その外観と軽さが明らかになった。テックニュースメディアSammyGuruの報道によれば、さまざまなスタイルとカラーで展開され、重さはわずか41グラムだという。"
+                "x": "GoogleはAndroid向けの新たな詐欺対策を発表した。その一つがMessagesのオプトイン設定で、有効にするとScam Detectionが働き、Googleの最先端のGeminiモデルが送信者の意図を見極め、悪意ある相手からのメッセージの可能性があれば警告する。メッセージはPrivate AI Computeで分析される。ここではメッセージが暗号化され、Googleを含め誰もアクセスできない安全な領域で処理される。"
               },
               {
                 "t": "p",
-                "x": "Samsungは、Galaxy Glassesと呼ばれる可能性があるこのスマートグラスを来月発売する見込みだ。11月にはUS(米国)の顧客がWarby ParkerとGentle MonsterのウェブサイトやUS国内のSamsung Experience Storesで購入できる。価格は発表されていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-                "cap": "Gentle MonsterスタイルのSamsungスマートグラス"
+                "x": "Gemini NanoはMessages内のリンクも、タップする前に端末上でチェックする。この機能はPixel 10+、Galaxy S26シリーズ、Galaxy Z FlipとFold 8などの一部端末で、今後数週間のうちに順次提供される。チャット通知のScam DetectionもPixel以外に広がり、Honor、Motorola、OPPO、OnePlus、realme、vivo、Xiaomiが年内に対応する見込みだ。"
               },
               {
                 "t": "p",
-                "x": "標準レンズ装着時の重さは41グラムで、Meta Ray-Banの最軽量モデルの43グラムより軽い。Snapdragon AR1 Gen 1チップ、2 GBのRAM、64 GBのストレージ、12 MPカメラ、オープンイヤースピーカー2基、マイク4基を搭載する。Meta Ray-Bansと同様、視覚的なディスプレイはない。"
-              },
-              {
-                "t": "p",
-                "x": "SamsungのスマートグラスはGoogle Gemini AIを使い、Android XRオペレーティングシステムで動作する。装着者は写真や動画の撮影、通話、テキスト送信、翻訳、ターンバイターンのナビゲーション、音楽やポッドキャストの再生ができる。"
+                "x": "Android 15以降を搭載するすべての端末には今月下旬、画面共有時のプライバシー保護が自動で適用され、ChromeやAndroid WebViewが表示されているときにパスワードや銀行情報、カードのセキュリティコードを隠す。十二月上旬にはPixelなど一部端末に転送電話の保護機能が加わる。ブラジルではAndroidが提携銀行を名乗る電話を検証しており、六月以降すでに三百万件を超える偽の電話をブロックした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Samsung超轻智能眼镜\n外观遭曝光",
-          "body": "据SammyGuru报道，Samsung智能眼镜重41克，将于11月推出。",
-          "mini_headline": "Samsung超轻眼镜曝光",
+          "headline": "Android借Gemini\n提醒诈骗信息",
+          "body": "Android将用Gemini识别诈骗信息，并在你共享屏幕时隐藏银行信息。",
+          "mini_headline": "Gemini为Android标记诈骗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-                "cap": "三种颜色的Warby Parker风格Samsung智能眼镜图片。"
+                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+                "cap": "Google"
               },
               {
                 "t": "p",
-                "x": "Samsung要到11月才会发布首款智能眼镜，但现在我们已经知道它的外观以及有多轻。据科技新闻网站SammyGuru报道，这款眼镜将提供多种款式和颜色，重量仅41克。"
+                "x": "Google宣布为Android推出新的防诈骗保护，其中包括Messages中的一项可选开启设置，开启后即启用Scam Detection：它借助Google最先进的Gemini模型评估发件人意图，若信息可能来自不法分子便发出警告。信息在Private AI Compute中分析，该环境会对信息加密，并在包括Google在内任何人都无法访问的安全空间中处理。"
               },
               {
                 "t": "p",
-                "x": "预计Samsung将于下个月推出这款可能名为Galaxy Glasses的智能眼镜。11月，US（美国）消费者可在Warby Parker和Gentle Monster官网以及US境内的Samsung Experience Stores购买。价格尚未公布。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-                "cap": "Gentle Monster风格的Samsung智能眼镜"
+                "x": "Gemini Nano还会在你点击之前，在设备端检查Messages中的链接。该功能将在未来几周内陆续登陆Pixel 10+、Galaxy S26系列、Galaxy Z Flip和Fold 8等部分设备。聊天通知中的Scam Detection也将扩展到Pixel之外，Honor、Motorola、OPPO、OnePlus、realme、vivo和Xiaomi预计今年晚些时候启用。"
               },
               {
                 "t": "p",
-                "x": "配标准镜片时，这款眼镜重41克，比最轻的Meta Ray-Ban型号的43克更轻。它搭载Snapdragon AR1 Gen 1芯片、2 GB RAM、64 GB存储、12 MP摄像头、两个开放式扬声器和四个麦克风。与Meta Ray-Bans一样，它没有可视显示屏。"
-              },
-              {
-                "t": "p",
-                "x": "Samsung智能眼镜将使用Google Gemini AI，运行Android XR操作系统，佩戴者可以拍照和录像、打电话、发短信、翻译、获取逐向导航，以及收听歌曲和播客。"
+                "x": "所有运行Android 15及更高版本的设备将在本月晚些时候获得自动屏幕共享隐私保护，当屏幕上显示Chrome或Android WebView时，会隐藏密码、银行信息和银行卡安全码。十二月初，来电转接保护将登陆Pixel及部分其他设备。在巴西，Android会核验自称来自合作银行的来电，自六月以来已拦截超过三百万通虚假电话。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Filtran las gafas inteligentes\nsuperligeras de Samsung",
-          "body": "Según SammyGuru, las gafas de Samsung, quizá llamadas Galaxy Glasses, pesan 41 gramos y llegan en noviembre.",
-          "mini_headline": "Filtradas las gafas superligeras de Samsung",
+          "headline": "Android usará Gemini para\navisar de mensajes de estafa",
+          "body": "Android usará Gemini para detectar mensajes de estafa y ocultar tus datos bancarios mientras compartes pantalla.",
+          "mini_headline": "Gemini detecta estafas en Android",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-                "cap": "Imagen de las gafas inteligentes de Samsung con estilo Warby Parker en tres colores."
+                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+                "cap": "Google"
               },
               {
                 "t": "p",
-                "x": "Samsung no presentará sus primeras gafas inteligentes hasta noviembre, pero ya sabemos cómo serán y cuánto pesarán. Según un informe del medio de noticias tecnológicas SammyGuru, llegarán en varios estilos y colores y pesarán solo 41 gramos."
+                "x": "Google ha anunciado nuevas protecciones contra estafas para Android, entre ellas un ajuste opcional en Messages que activa Scam Detection, que recurre a los modelos Gemini más avanzados de Google para evaluar la intención del remitente y avisar si los mensajes podrían venir de alguien malintencionado. Los mensajes se analizan en Private AI Compute, que los cifra y los procesa en un espacio seguro al que nadie más puede acceder, ni siquiera Google."
               },
               {
                 "t": "p",
-                "x": "Se espera que Samsung lance el mes que viene estas gafas inteligentes, que podrían llamarse Galaxy Glasses. En noviembre, los clientes en Estados Unidos (US) podrán comprarlas en los sitios web de Warby Parker y Gentle Monster y en las Samsung Experience Stores de US. No se han anunciado precios."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-                "cap": "Gafas inteligentes de Samsung con estilo Gentle Monster"
+                "x": "Gemini Nano también revisará en el dispositivo los enlaces de Messages antes de que se toquen. Estará disponible en Pixel 10+, la serie Galaxy S26, Galaxy Z Flip y Fold 8, entre otros dispositivos seleccionados, y llegará en las próximas semanas. Scam Detection en las notificaciones de chat también se amplía más allá de Pixel: se espera que Honor, Motorola, OPPO, OnePlus, realme, vivo y Xiaomi la activen a finales de este año."
               },
               {
                 "t": "p",
-                "x": "Con lentes estándar, las gafas pesarán 41 gramos, menos que los 43 gramos del modelo más ligero de Meta Ray-Ban. Incluirán un chip Snapdragon AR1 Gen 1, 2 GB de RAM, 64 GB de almacenamiento, una cámara de 12 MP, dos altavoces abiertos y cuatro micrófonos. Al igual que las Meta Ray-Bans, no tienen pantalla."
-              },
-              {
-                "t": "p",
-                "x": "Las gafas inteligentes de Samsung usarán Google Gemini AI y funcionarán con el sistema operativo Android XR, lo que permitirá a quienes las lleven tomar fotos y videos, hacer llamadas, enviar mensajes, traducir, recibir navegación paso a paso y escuchar canciones y podcasts."
+                "x": "Todos los dispositivos con Android 15 o posterior recibirán a finales de este mes privacidad automática al compartir pantalla, que oculta contraseñas, datos bancarios y códigos de seguridad de tarjetas cuando Chrome o Android WebView están en pantalla. A principios de diciembre llegará la protección contra el desvío de llamadas a Pixel y otros dispositivos seleccionados. En Brasil, Android verifica las llamadas que dicen proceder de bancos asociados y ya ha bloqueado más de tres millones de llamadas falsas desde junio."
               }
             ]
           }
@@ -671,145 +497,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "유출로 본 Samsung\n초경량 스마트 안경",
-          "body": "SammyGuru에 따르면 Samsung 안경은 41그램이고 11월에 나온다.",
-          "mini_headline": "Samsung 초경량 안경 유출",
+          "headline": "Gemini로 사기 문자\nAndroid가 경고한다",
+          "body": "Android는 Gemini로 사기 문자를 잡고 화면 공유 중 금융정보를 가린다.",
+          "mini_headline": "Gemini가 Android 사기 탐지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-                "cap": "세 가지 색상의 Warby Parker 스타일 Samsung 스마트 안경 이미지."
+                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+                "cap": "Google"
               },
               {
                 "t": "p",
-                "x": "Samsung은 첫 스마트 안경을 11월에야 공개하지만, 이제 그 생김새와 무게를 알 수 있게 됐다. 테크 매체 SammyGuru의 보도에 따르면 이 안경은 다양한 스타일과 색상으로 나오며 무게는 41그램에 불과하다."
+                "x": "Google이 Android용 새 사기 방지 기능을 발표했다. Messages에는 사용자가 직접 켜는 설정이 추가되는데, 이를 켜면 Scam Detection이 작동해 Google의 가장 진보한 Gemini 모델로 발신자의 의도를 판단하고, 메시지가 악의적인 상대에게서 왔을 수 있으면 경고한다. 메시지는 Private AI Compute에서 분석되며, 이곳은 메시지를 암호화한 뒤 Google을 포함한 누구도 접근할 수 없는 안전한 공간에서 처리한다."
               },
               {
                 "t": "p",
-                "x": "Samsung은 Galaxy Glasses라는 이름이 유력한 이 스마트 안경을 다음 달 출시할 것으로 보인다. 11월부터 US(미국) 소비자는 Warby Parker와 Gentle Monster 웹사이트, 그리고 US 내 Samsung Experience Stores에서 구매할 수 있다. 가격은 아직 공개되지 않았다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-                "cap": "Samsung 스마트 안경의 Gentle Monster 스타일"
+                "x": "Gemini Nano는 Messages 속 링크도 사용자가 누르기 전에 기기 안에서 확인한다. 이 기능은 Pixel 10+, Galaxy S26 시리즈, Galaxy Z Flip과 Fold 8 등 일부 기기에 앞으로 몇 주에 걸쳐 제공된다. 채팅 알림의 Scam Detection도 Pixel 밖으로 넓어져, Honor, Motorola, OPPO, OnePlus, realme, vivo, Xiaomi가 올해 안에 이를 지원할 예정이다."
               },
               {
                 "t": "p",
-                "x": "표준 렌즈 기준 무게는 41그램으로, 가장 가벼운 Meta Ray-Ban 모델의 43그램보다 가볍다. Snapdragon AR1 Gen 1 칩, 2 GB RAM, 64 GB 저장공간, 12 MP 카메라, 오픈형 스피커 2개, 마이크 4개를 갖춘다. Meta Ray-Bans처럼 화면은 없다."
-              },
-              {
-                "t": "p",
-                "x": "Samsung 스마트 안경은 Google Gemini AI를 쓰고 Android XR 운영체제로 작동한다. 착용자는 사진과 영상 촬영, 통화, 문자 전송, 번역, 턴바이턴 길 안내, 음악과 팟캐스트 청취를 할 수 있다."
+                "x": "Android 15 이상을 쓰는 모든 기기는 이달 말 자동 화면 공유 개인정보 보호 기능을 받는다. Chrome이나 Android WebView가 화면에 떠 있을 때 비밀번호, 금융 정보, 카드 보안 번호를 가려 준다. 십이월 초에는 Pixel과 일부 기기에 착신 전환 보호 기능이 들어온다. 브라질에서는 Android가 제휴 은행에서 걸려 왔다고 주장하는 전화를 검증하며, 유월 이후 이미 삼백만 건이 넘는 가짜 전화를 차단했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Samsungの超軽量\nスマートグラスが流出",
-          "body": "SammyGuruによると、Samsungのスマートグラスは41グラムで11月発売だ。",
-          "mini_headline": "Samsungの超軽量グラスが流出",
+          "headline": "Android、詐欺を\nGeminiで警告へ",
+          "body": "AndroidはGeminiで詐欺メッセージを見抜き、画面共有中は銀行情報を隠す。",
+          "mini_headline": "GeminiがAndroidの詐欺を検知",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-                "cap": "3色のWarby ParkerスタイルのSamsungスマートグラスの画像。"
+                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+                "cap": "Google"
               },
               {
                 "t": "p",
-                "x": "Samsungが初のスマートグラスを公開するのは11月だが、その外観と軽さが明らかになった。テックニュースメディアSammyGuruの報道によれば、さまざまなスタイルとカラーで展開され、重さはわずか41グラムだという。"
+                "x": "GoogleはAndroid向けの新たな詐欺対策を発表した。その一つがMessagesのオプトイン設定で、有効にするとScam Detectionが働き、Googleの最先端のGeminiモデルが送信者の意図を見極め、悪意ある相手からのメッセージの可能性があれば警告する。メッセージはPrivate AI Computeで分析される。ここではメッセージが暗号化され、Googleを含め誰もアクセスできない安全な領域で処理される。"
               },
               {
                 "t": "p",
-                "x": "Samsungは、Galaxy Glassesと呼ばれる可能性があるこのスマートグラスを来月発売する見込みだ。11月にはUS(米国)の顧客がWarby ParkerとGentle MonsterのウェブサイトやUS国内のSamsung Experience Storesで購入できる。価格は発表されていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-                "cap": "Gentle MonsterスタイルのSamsungスマートグラス"
+                "x": "Gemini NanoはMessages内のリンクも、タップする前に端末上でチェックする。この機能はPixel 10+、Galaxy S26シリーズ、Galaxy Z FlipとFold 8などの一部端末で、今後数週間のうちに順次提供される。チャット通知のScam DetectionもPixel以外に広がり、Honor、Motorola、OPPO、OnePlus、realme、vivo、Xiaomiが年内に対応する見込みだ。"
               },
               {
                 "t": "p",
-                "x": "標準レンズ装着時の重さは41グラムで、Meta Ray-Banの最軽量モデルの43グラムより軽い。Snapdragon AR1 Gen 1チップ、2 GBのRAM、64 GBのストレージ、12 MPカメラ、オープンイヤースピーカー2基、マイク4基を搭載する。Meta Ray-Bansと同様、視覚的なディスプレイはない。"
-              },
-              {
-                "t": "p",
-                "x": "SamsungのスマートグラスはGoogle Gemini AIを使い、Android XRオペレーティングシステムで動作する。装着者は写真や動画の撮影、通話、テキスト送信、翻訳、ターンバイターンのナビゲーション、音楽やポッドキャストの再生ができる。"
+                "x": "Android 15以降を搭載するすべての端末には今月下旬、画面共有時のプライバシー保護が自動で適用され、ChromeやAndroid WebViewが表示されているときにパスワードや銀行情報、カードのセキュリティコードを隠す。十二月上旬にはPixelなど一部端末に転送電話の保護機能が加わる。ブラジルではAndroidが提携銀行を名乗る電話を検証しており、六月以降すでに三百万件を超える偽の電話をブロックした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Samsung超轻智能眼镜\n外观遭曝光",
-          "body": "据SammyGuru报道，Samsung智能眼镜重41克，将于11月推出。",
-          "mini_headline": "Samsung超轻眼镜曝光",
+          "headline": "Android借Gemini\n提醒诈骗信息",
+          "body": "Android将用Gemini识别诈骗信息，并在你共享屏幕时隐藏银行信息。",
+          "mini_headline": "Gemini为Android标记诈骗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-                "cap": "三种颜色的Warby Parker风格Samsung智能眼镜图片。"
+                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+                "cap": "Google"
               },
               {
                 "t": "p",
-                "x": "Samsung要到11月才会发布首款智能眼镜，但现在我们已经知道它的外观以及有多轻。据科技新闻网站SammyGuru报道，这款眼镜将提供多种款式和颜色，重量仅41克。"
+                "x": "Google宣布为Android推出新的防诈骗保护，其中包括Messages中的一项可选开启设置，开启后即启用Scam Detection：它借助Google最先进的Gemini模型评估发件人意图，若信息可能来自不法分子便发出警告。信息在Private AI Compute中分析，该环境会对信息加密，并在包括Google在内任何人都无法访问的安全空间中处理。"
               },
               {
                 "t": "p",
-                "x": "预计Samsung将于下个月推出这款可能名为Galaxy Glasses的智能眼镜。11月，US（美国）消费者可在Warby Parker和Gentle Monster官网以及US境内的Samsung Experience Stores购买。价格尚未公布。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-                "cap": "Gentle Monster风格的Samsung智能眼镜"
+                "x": "Gemini Nano还会在你点击之前，在设备端检查Messages中的链接。该功能将在未来几周内陆续登陆Pixel 10+、Galaxy S26系列、Galaxy Z Flip和Fold 8等部分设备。聊天通知中的Scam Detection也将扩展到Pixel之外，Honor、Motorola、OPPO、OnePlus、realme、vivo和Xiaomi预计今年晚些时候启用。"
               },
               {
                 "t": "p",
-                "x": "配标准镜片时，这款眼镜重41克，比最轻的Meta Ray-Ban型号的43克更轻。它搭载Snapdragon AR1 Gen 1芯片、2 GB RAM、64 GB存储、12 MP摄像头、两个开放式扬声器和四个麦克风。与Meta Ray-Bans一样，它没有可视显示屏。"
-              },
-              {
-                "t": "p",
-                "x": "Samsung智能眼镜将使用Google Gemini AI，运行Android XR操作系统，佩戴者可以拍照和录像、打电话、发短信、翻译、获取逐向导航，以及收听歌曲和播客。"
+                "x": "所有运行Android 15及更高版本的设备将在本月晚些时候获得自动屏幕共享隐私保护，当屏幕上显示Chrome或Android WebView时，会隐藏密码、银行信息和银行卡安全码。十二月初，来电转接保护将登陆Pixel及部分其他设备。在巴西，Android会核验自称来自合作银行的来电，自六月以来已拦截超过三百万通虚假电话。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Filtran las gafas inteligentes\nsuperligeras de Samsung",
-          "body": "Según SammyGuru, las gafas de Samsung, quizá llamadas Galaxy Glasses, pesan 41 gramos y llegan en noviembre.",
-          "mini_headline": "Filtradas las gafas superligeras de Samsung",
+          "headline": "Android usará Gemini para\navisar de mensajes de estafa",
+          "body": "Android usará Gemini para detectar mensajes de estafa y ocultar tus datos bancarios mientras compartes pantalla.",
+          "mini_headline": "Gemini detecta estafas en Android",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-                "cap": "Imagen de las gafas inteligentes de Samsung con estilo Warby Parker en tres colores."
+                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+                "cap": "Google"
               },
               {
                 "t": "p",
-                "x": "Samsung no presentará sus primeras gafas inteligentes hasta noviembre, pero ya sabemos cómo serán y cuánto pesarán. Según un informe del medio de noticias tecnológicas SammyGuru, llegarán en varios estilos y colores y pesarán solo 41 gramos."
+                "x": "Google ha anunciado nuevas protecciones contra estafas para Android, entre ellas un ajuste opcional en Messages que activa Scam Detection, que recurre a los modelos Gemini más avanzados de Google para evaluar la intención del remitente y avisar si los mensajes podrían venir de alguien malintencionado. Los mensajes se analizan en Private AI Compute, que los cifra y los procesa en un espacio seguro al que nadie más puede acceder, ni siquiera Google."
               },
               {
                 "t": "p",
-                "x": "Se espera que Samsung lance el mes que viene estas gafas inteligentes, que podrían llamarse Galaxy Glasses. En noviembre, los clientes en Estados Unidos (US) podrán comprarlas en los sitios web de Warby Parker y Gentle Monster y en las Samsung Experience Stores de US. No se han anunciado precios."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/gentle-monster-styles.jpg",
-                "cap": "Gafas inteligentes de Samsung con estilo Gentle Monster"
+                "x": "Gemini Nano también revisará en el dispositivo los enlaces de Messages antes de que se toquen. Estará disponible en Pixel 10+, la serie Galaxy S26, Galaxy Z Flip y Fold 8, entre otros dispositivos seleccionados, y llegará en las próximas semanas. Scam Detection en las notificaciones de chat también se amplía más allá de Pixel: se espera que Honor, Motorola, OPPO, OnePlus, realme, vivo y Xiaomi la activen a finales de este año."
               },
               {
                 "t": "p",
-                "x": "Con lentes estándar, las gafas pesarán 41 gramos, menos que los 43 gramos del modelo más ligero de Meta Ray-Ban. Incluirán un chip Snapdragon AR1 Gen 1, 2 GB de RAM, 64 GB de almacenamiento, una cámara de 12 MP, dos altavoces abiertos y cuatro micrófonos. Al igual que las Meta Ray-Bans, no tienen pantalla."
-              },
-              {
-                "t": "p",
-                "x": "Las gafas inteligentes de Samsung usarán Google Gemini AI y funcionarán con el sistema operativo Android XR, lo que permitirá a quienes las lleven tomar fotos y videos, hacer llamadas, enviar mensajes, traducir, recibir navegación paso a paso y escuchar canciones y podcasts."
+                "x": "Todos los dispositivos con Android 15 o posterior recibirán a finales de este mes privacidad automática al compartir pantalla, que oculta contraseñas, datos bancarios y códigos de seguridad de tarjetas cuando Chrome o Android WebView están en pantalla. A principios de diciembre llegará la protección contra el desvío de llamadas a Pixel y otros dispositivos seleccionados. En Brasil, Android verifica las llamadas que dicen proceder de bancos asociados y ya ha bloqueado más de tres millones de llamadas falsas desde junio."
               }
             ]
           }
@@ -817,225 +607,213 @@
       }
     },
     {
-      "id": "gadgets-rayban-meta-listening",
+      "id": "gadgets-apple-intelligence-china",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ray-Ban Meta가\n호출어 없이 녹음했나",
-      "body": "Ray-Ban Meta 무단 녹음 주장에 Meta는 문제를 해결했다고 밝혔다.",
-      "mini_headline": "Ray-Ban Meta 무단 녹음 주장",
+      "headline": "Apple AI 중국 상륙\n십이월 iOS 27.3부터",
+      "body": "Apple이 두 해 지연 끝에 iOS 27.3으로 중국에 AI를 내놓는다.",
+      "mini_headline": "Apple Intelligence, 중국으로",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-            "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성"
-          },
-          {
             "t": "p",
-            "x": "업데이트: Meta는 Android Authority의 논평 요청에 이렇게 답했다. “이 문제는 해결됐습니다. 사용자는 언제든 설정에서 Meta AI와의 상호작용 음성 기록을 관리하고 검토하고 삭제할 수 있습니다.”"
-          },
-          {
-            "t": "p",
-            "x": "한 Ray-Ban Meta 사용자는 Reddit 스레드 두 곳에서 2세대와 3세대 모델에 걸친 안경 세 개가 “Hey Meta” 호출어 없이 일상 대화를 녹음했다고 주장했다. “Respond without Hey Meta” 설정을 꺼 두었는데도 이 대화는 Meta AI 앱에 저장된 음성 녹음과 텍스트 기록으로 남아 있었다. 그는 최근 펌웨어 업데이트 뒤부터 이런 일이 생겼다고 말한다."
+            "x": "Bloomberg에 따르면 Apple은 두 해 동안 이어진 규제 지연을 끝내고 iOS 27.3에서 중국에 Apple Intelligence를 선보일 계획이다. 사진 편집 같은 기본 Apple Intelligence 기능은 들어가지만 Siri AI는 빠진다. Image Playground와 새 버전의 Genmoji도 제외되고, 텍스트 생성 도구는 제한된다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-            "cap": "Meta Ray Ban 안경 녹음 활동 페이지"
+            "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
           },
           {
             "t": "p",
-            "x": "댓글에서도 여럿이 Meta AI를 부르지 않았는데 내부 표시등이 켜지는 등 설명하기 어려운 비슷한 일을 겪었다고 했다. 다만 제보는 아직 많지 않다. Android Authority도 이 현상을 직접 재현하지 못했고 문제가 광범위하다는 증거도 없다."
+            "x": "South China Morning Post는 오늘, 중국 공업정보화부가 최근 Apple에 네트워크 접속 허가를 내주면서 Alibaba의 Qwen과 Tongyi Wanxiang 모델을 iPhone Duo, iPhone 18 Pro와 그 이전 iPhones에 넣을 수 있게 됐다고 보도했다. Apple Intelligence가 나올 길이 열린 셈이다."
           },
           {
             "t": "p",
-            "x": "올해 초 Ars Technica는 Ray-Ban Meta 안경 데이터를 검토하던 외주 인력이 매우 민감한 영상을 접했다고 보도했다. The Verge는 최근 AI 하드웨어가 “녹음”의 정의를 흐리고 있다고 지적했다."
+            "x": "Apple은 iOS 18.1에서 첫 Apple Intelligence 기능을 선보였지만, 중국에서는 지금껏 쓸 수 없었다. 칠월에 중국 출시를 위한 첫 승인은 받았어도, 소비자에게 내놓으려면 승인이 한 번 더 필요했다."
+          },
+          {
+            "t": "p",
+            "x": "중국은 외국 AI 기술을 제한한다. 그래서 Apple은 중국에서 Apple Intelligence를 내놓으려면 Alibaba, Baidu와 손잡아야 했다. AI 모델을 계속 업데이트할 때도 중국 정부 승인을 거치도록 허용해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "Huawei 등 중국 경쟁 스마트폰 업체들은 오래전부터 인공지능 기능을 내놨고, 비슷한 도구가 없던 Apple은 불리한 처지였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Owners say Ray-Ban Meta\nlistened without a wake word",
-          "body": "One owner says three pairs of Ray-Ban Meta glasses recorded talk without “Hey Meta,” and Meta says it’s resolved.",
-          "mini_headline": "Ray-Ban Meta listening claims",
+          "headline": "Apple Intelligence comes to\nChina with iOS 27.3 in December",
+          "body": "After two years of regulatory delays, Apple plans to launch Apple Intelligence in China with iOS 27.3, minus Siri AI.",
+          "mini_headline": "Apple Intelligence heads to China",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-                "cap": "Woman wearing the Ray-Ban Meta Smart Glasses"
-              },
-              {
                 "t": "p",
-                "x": "Update: Meta has responded to Android Authority’s request for comment: “This issue has been resolved. People can manage, review and delete voice logs of their interactions with Meta AI via settings at any time.”"
-              },
-              {
-                "t": "p",
-                "x": "In two Reddit threads, a Ray-Ban Meta owner says three separate pairs, spanning second- and third-generation models, captured ordinary conversations without the “Hey Meta” wake phrase. Those interactions appeared in the Meta AI app as saved audio recordings and text transcripts, even though “Respond without Hey Meta” was disabled. The owner says the behavior began after a recent firmware update."
+                "x": "Apple plans to bring Apple Intelligence to China in iOS 27.3 after two years of regulatory delays, reports Bloomberg. The launch will include basic Apple Intelligence features for things like photo editing, but Siri AI won't be available. Image Playground and the newer version of Genmoji will be missing, plus text generation tools will be limited."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-                "cap": "Meta Ray Ban glasses recording activity page"
+                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
               },
               {
                 "t": "p",
-                "x": "Several commenters say they have noticed similar unexplained activations, including the internal light turning on without invoking Meta AI. However, reports remain limited, Android Authority hasn’t independently reproduced the behavior, and there’s no evidence to suggest this is widespread."
+                "x": "The South China Morning Post today reported that China's Ministry of Industry and Information Technology recently gave Apple network access permits to add Alibaba's Qwen and Tongyi Wanxiang models to the iPhone Duo, iPhone 18 Pro, and earlier iPhones, paving the way for an Apple Intelligence debut."
               },
               {
                 "t": "p",
-                "x": "Earlier this year, Ars Technica reported that contractors reviewing data from Ray-Ban Meta glasses encountered highly sensitive footage. The Verge recently argued that AI hardware is muddying the definition of “recording.”"
+                "x": "Apple introduced the first Apple Intelligence features in iOS 18.1, but they have been missing from China since launch. Apple received initial clearance to launch Apple Intelligence in China in July, but needed additional clearance for a consumer launch."
+              },
+              {
+                "t": "p",
+                "x": "China restricts foreign AI technology, which meant Apple had to partner with Alibaba and Baidu to launch Apple Intelligence in the country. Apple also has to allow the Chinese government to approve ongoing updates to the AI models."
+              },
+              {
+                "t": "p",
+                "x": "Competing smartphone makers in China like Huawei have long offered artificial intelligence features, and Apple has been at a disadvantage without comparable tools."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ray-Ban Meta가\n호출어 없이 녹음했나",
-          "body": "Ray-Ban Meta 무단 녹음 주장에 Meta는 문제를 해결했다고 밝혔다.",
-          "mini_headline": "Ray-Ban Meta 무단 녹음 주장",
+          "headline": "Apple AI 중국 상륙\n십이월 iOS 27.3부터",
+          "body": "Apple이 두 해 지연 끝에 iOS 27.3으로 중국에 AI를 내놓는다.",
+          "mini_headline": "Apple Intelligence, 중국으로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-                "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성"
-              },
-              {
                 "t": "p",
-                "x": "업데이트: Meta는 Android Authority의 논평 요청에 이렇게 답했다. “이 문제는 해결됐습니다. 사용자는 언제든 설정에서 Meta AI와의 상호작용 음성 기록을 관리하고 검토하고 삭제할 수 있습니다.”"
-              },
-              {
-                "t": "p",
-                "x": "한 Ray-Ban Meta 사용자는 Reddit 스레드 두 곳에서 2세대와 3세대 모델에 걸친 안경 세 개가 “Hey Meta” 호출어 없이 일상 대화를 녹음했다고 주장했다. “Respond without Hey Meta” 설정을 꺼 두었는데도 이 대화는 Meta AI 앱에 저장된 음성 녹음과 텍스트 기록으로 남아 있었다. 그는 최근 펌웨어 업데이트 뒤부터 이런 일이 생겼다고 말한다."
+                "x": "Bloomberg에 따르면 Apple은 두 해 동안 이어진 규제 지연을 끝내고 iOS 27.3에서 중국에 Apple Intelligence를 선보일 계획이다. 사진 편집 같은 기본 Apple Intelligence 기능은 들어가지만 Siri AI는 빠진다. Image Playground와 새 버전의 Genmoji도 제외되고, 텍스트 생성 도구는 제한된다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-                "cap": "Meta Ray Ban 안경 녹음 활동 페이지"
+                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
               },
               {
                 "t": "p",
-                "x": "댓글에서도 여럿이 Meta AI를 부르지 않았는데 내부 표시등이 켜지는 등 설명하기 어려운 비슷한 일을 겪었다고 했다. 다만 제보는 아직 많지 않다. Android Authority도 이 현상을 직접 재현하지 못했고 문제가 광범위하다는 증거도 없다."
+                "x": "South China Morning Post는 오늘, 중국 공업정보화부가 최근 Apple에 네트워크 접속 허가를 내주면서 Alibaba의 Qwen과 Tongyi Wanxiang 모델을 iPhone Duo, iPhone 18 Pro와 그 이전 iPhones에 넣을 수 있게 됐다고 보도했다. Apple Intelligence가 나올 길이 열린 셈이다."
               },
               {
                 "t": "p",
-                "x": "올해 초 Ars Technica는 Ray-Ban Meta 안경 데이터를 검토하던 외주 인력이 매우 민감한 영상을 접했다고 보도했다. The Verge는 최근 AI 하드웨어가 “녹음”의 정의를 흐리고 있다고 지적했다."
+                "x": "Apple은 iOS 18.1에서 첫 Apple Intelligence 기능을 선보였지만, 중국에서는 지금껏 쓸 수 없었다. 칠월에 중국 출시를 위한 첫 승인은 받았어도, 소비자에게 내놓으려면 승인이 한 번 더 필요했다."
+              },
+              {
+                "t": "p",
+                "x": "중국은 외국 AI 기술을 제한한다. 그래서 Apple은 중국에서 Apple Intelligence를 내놓으려면 Alibaba, Baidu와 손잡아야 했다. AI 모델을 계속 업데이트할 때도 중국 정부 승인을 거치도록 허용해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "Huawei 등 중국 경쟁 스마트폰 업체들은 오래전부터 인공지능 기능을 내놨고, 비슷한 도구가 없던 Apple은 불리한 처지였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ray-Ban Metaが\nウェイクワードなしで録音？",
-          "body": "ある所有者が3台のRay-Ban Metaの無断録音を訴え、Metaは解決済みとした。",
-          "mini_headline": "Ray-Ban Metaの無断録音報告",
+          "headline": "Apple AIが中国へ\n十二月のiOS 27.3で",
+          "body": "Appleは規制で二年遅れた中国でのAI提供を、iOS 27.3で始める。",
+          "mini_headline": "Apple Intelligenceが中国へ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-                "cap": "Ray-Ban Metaスマートグラスをかけた女性"
-              },
-              {
                 "t": "p",
-                "x": "更新：MetaはAndroid Authorityのコメント要請に対し、「この問題は解決済みだ。利用者はいつでも設定からMeta AIとのやり取りの音声ログを管理、確認、削除できる」と回答した。"
-              },
-              {
-                "t": "p",
-                "x": "Redditの2つのスレッドで、あるRay-Ban Metaの所有者が、第2世代と第3世代にまたがる別々の3台が「Hey Meta」のウェイクフレーズなしで普段の会話を記録したと述べている。「Respond without Hey Meta」を無効にしていたにもかかわらず、それらのやり取りは保存された音声録音とテキストの書き起こしとしてMeta AIアプリに表示された。所有者によると、この挙動は最近のファームウェア更新後に始まったという。"
+                "x": "Bloombergによると、Appleは二年にわたる規制上の遅れを経て、iOS 27.3で中国にApple Intelligenceを導入する計画だ。写真編集などの基本的なApple Intelligence機能は含まれるが、Siri AIは利用できない。Image Playgroundと新しいバージョンのGenmojiも外れ、テキスト生成ツールも限定的になる。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-                "cap": "Meta Ray Banグラスの録音アクティビティページ"
+                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
               },
               {
                 "t": "p",
-                "x": "複数のコメント投稿者も、Meta AIを呼び出していないのに内部のライトが点灯するなど、説明のつかない同様の起動に気づいたと述べている。ただし報告はまだ限られており、Android Authorityは独自にこの挙動を再現できておらず、広く起きていることを示す証拠もない。"
+                "x": "South China Morning Postは本日、中国の工業情報化部が最近、AlibabaのQwenとTongyi WanxiangのモデルをiPhone Duo、iPhone 18 Pro、およびそれ以前のiPhonesに追加するためのネットワーク接続許可をAppleに与えたと報じた。これによりApple Intelligenceの投入に道が開かれた。"
               },
               {
                 "t": "p",
-                "x": "今年初めにはArs Technicaが、Ray-Ban Metaグラスのデータを確認していた委託作業者が非常に機微な映像を目にしていたと報じた。The Vergeは最近、AIハードウェアが「録音」の定義を曖昧にしていると論じた。"
+                "x": "AppleはiOS 18.1で最初のApple Intelligence機能を導入したが、中国では提供開始以来利用できないままだった。Appleは七月に中国でのApple Intelligence投入に向けた最初の承認を得たが、一般消費者向けの提供には追加の承認が必要だった。"
+              },
+              {
+                "t": "p",
+                "x": "中国は外国のAI技術を制限しているため、Appleは同国でApple Intelligenceを投入するにあたりAlibabaやBaiduと提携する必要があった。Appleはまた、AIモデルの継続的なアップデートを中国政府が承認することも認めなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "Huaweiなど中国の競合スマートフォンメーカーは以前から人工知能機能を提供しており、Appleは同等のツールを欠いて不利な立場にあった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ray-Ban Meta被指\n无唤醒词也在收音",
-          "body": "一名用户称三副Ray-Ban Meta眼镜擅自录下对话，Meta称已解决。",
-          "mini_headline": "Ray-Ban Meta偷录争议",
+          "headline": "Apple AI进入中国\n十二月随iOS 27.3上线",
+          "body": "历经两年监管延误，Apple将随iOS 27.3在中国推出AI功能，但不含Siri AI。",
+          "mini_headline": "Apple Intelligence进军中国",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-                "cap": "佩戴Ray-Ban Meta智能眼镜的女性"
-              },
-              {
                 "t": "p",
-                "x": "更新：Meta回应了Android Authority的置评请求：“该问题已经解决。用户可随时通过设置管理、查看和删除与Meta AI互动的语音记录。”"
-              },
-              {
-                "t": "p",
-                "x": "在两个Reddit帖子中，一名Ray-Ban Meta用户称，涵盖第二代和第三代型号的三副不同眼镜在没有“Hey Meta”唤醒短语的情况下录下了日常对话。尽管“Respond without Hey Meta”已关闭，这些互动仍以保存的音频录音和文字转录形式出现在Meta AI应用中。该用户称，这一情况始于最近一次固件更新之后。"
+                "x": "据Bloomberg报道，在经历两年的监管延误后，Apple计划通过iOS 27.3将Apple Intelligence引入中国。此次推出将包括照片编辑等基础Apple Intelligence功能，但Siri AI不会上线。Image Playground和新版Genmoji也将缺席，文本生成工具也会受到限制。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-                "cap": "Meta Ray Ban眼镜录音活动页面"
+                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
               },
               {
                 "t": "p",
-                "x": "多名评论者表示，他们也注意到类似的不明激活，包括在未调用Meta AI时内部指示灯亮起。不过，相关报告仍然有限，Android Authority尚未独立复现这一现象，也没有证据表明问题普遍存在。"
+                "x": "South China Morning Post今天报道，中国工业和信息化部近期向Apple发放了网络接入许可，允许其将Alibaba的Qwen和Tongyi Wanxiang模型加入iPhone Duo、iPhone 18 Pro及更早的iPhones，为Apple Intelligence的首发铺平了道路。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，Ars Technica报道称，审查Ray-Ban Meta眼镜数据的外包人员接触到了高度敏感的画面。The Verge最近则认为，AI硬件正在模糊“录音”的定义。"
+                "x": "Apple在iOS 18.1中推出了首批Apple Intelligence功能，但自发布以来中国市场一直缺席。Apple已于七月获得在中国推出Apple Intelligence的初步许可，但面向消费者推出还需要额外许可。"
+              },
+              {
+                "t": "p",
+                "x": "中国限制外国AI技术，这意味着Apple必须与Alibaba和Baidu合作，才能在中国推出Apple Intelligence。Apple还必须允许中国政府审批AI模型的持续更新。"
+              },
+              {
+                "t": "p",
+                "x": "Huawei等中国竞争对手手机厂商早已提供人工智能功能，而Apple因缺乏同类工具一直处于劣势。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Usuarios dicen que Ray-Ban Meta\nescuchaba sin la palabra clave",
-          "body": "Un usuario dice que tres pares de Ray-Ban Meta grabaron charlas sin “Hey Meta”, y Meta afirma que está resuelto.",
-          "mini_headline": "Denuncias de escucha en Ray-Ban Meta",
+          "headline": "Apple Intelligence llega a China\ncon iOS 27.3 en diciembre",
+          "body": "Tras dos años de retrasos regulatorios, Apple prevé lanzar Apple Intelligence en China con iOS 27.3, sin Siri AI.",
+          "mini_headline": "Apple Intelligence llega a China",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-                "cap": "Mujer con las gafas inteligentes Ray-Ban Meta"
-              },
-              {
                 "t": "p",
-                "x": "Actualización: Meta respondió a la solicitud de comentarios de Android Authority: “Este problema se ha resuelto. Las personas pueden gestionar, revisar y eliminar en cualquier momento, desde los ajustes, los registros de voz de sus interacciones con Meta AI”."
-              },
-              {
-                "t": "p",
-                "x": "En dos hilos de Reddit, un propietario de Ray-Ban Meta afirma que tres pares distintos, de modelos de segunda y tercera generación, captaron conversaciones normales sin la frase de activación “Hey Meta”. Esas interacciones aparecieron en la app Meta AI como grabaciones de audio guardadas y transcripciones de texto, aunque la opción “Respond without Hey Meta” estaba desactivada. El propietario dice que el comportamiento empezó tras una actualización reciente del firmware."
+                "x": "Apple planea llevar Apple Intelligence a China en iOS 27.3 tras dos años de retrasos regulatorios, según Bloomberg. El lanzamiento incluirá funciones básicas de Apple Intelligence, como la edición de fotos, pero Siri AI no estará disponible. Faltarán Image Playground y la versión más reciente de Genmoji, y las herramientas de generación de texto serán limitadas."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-                "cap": "Página de actividad de grabaciones de las gafas Meta Ray Ban"
+                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
               },
               {
                 "t": "p",
-                "x": "Varios comentaristas dicen haber notado activaciones inexplicables similares, como la luz interna encendiéndose sin invocar a Meta AI. Sin embargo, los reportes siguen siendo limitados, Android Authority no ha reproducido el comportamiento de forma independiente y no hay pruebas de que esté generalizado."
+                "x": "El South China Morning Post informó hoy de que el Ministerio de Industria y Tecnologías de la Información de China concedió recientemente a Apple permisos de acceso a la red para añadir los modelos Qwen y Tongyi Wanxiang de Alibaba al iPhone Duo, al iPhone 18 Pro y a iPhones anteriores, lo que abre la puerta al debut de Apple Intelligence."
               },
               {
                 "t": "p",
-                "x": "A principios de este año, Ars Technica informó que contratistas que revisaban datos de las gafas Ray-Ban Meta se encontraron con imágenes muy sensibles. The Verge argumentó hace poco que el hardware de IA está desdibujando la definición de “grabar”."
+                "x": "Apple presentó las primeras funciones de Apple Intelligence en iOS 18.1, pero no han estado disponibles en China desde su lanzamiento. Apple recibió en julio una autorización inicial para lanzar Apple Intelligence en China, pero necesitaba una autorización adicional para el lanzamiento al público."
+              },
+              {
+                "t": "p",
+                "x": "China restringe la tecnología de AI extranjera, por lo que Apple tuvo que asociarse con Alibaba y Baidu para lanzar Apple Intelligence en el país. Apple también debe permitir que el Gobierno chino apruebe las actualizaciones continuas de los modelos de AI."
+              },
+              {
+                "t": "p",
+                "x": "Fabricantes rivales de smartphones en China, como Huawei, ofrecen desde hace tiempo funciones de inteligencia artificial, y Apple ha estado en desventaja sin herramientas comparables."
               }
             ]
           }
@@ -1043,145 +821,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ray-Ban Meta가\n호출어 없이 녹음했나",
-          "body": "Ray-Ban Meta 무단 녹음 주장에 Meta는 문제를 해결했다고 밝혔다.",
-          "mini_headline": "Ray-Ban Meta 무단 녹음 주장",
+          "headline": "Apple AI 중국 상륙\n십이월 iOS 27.3부터",
+          "body": "Apple이 두 해 지연 끝에 iOS 27.3으로 중국에 AI를 내놓는다.",
+          "mini_headline": "Apple Intelligence, 중국으로",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-                "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성"
-              },
-              {
                 "t": "p",
-                "x": "업데이트: Meta는 Android Authority의 논평 요청에 이렇게 답했다. “이 문제는 해결됐습니다. 사용자는 언제든 설정에서 Meta AI와의 상호작용 음성 기록을 관리하고 검토하고 삭제할 수 있습니다.”"
-              },
-              {
-                "t": "p",
-                "x": "Reddit의 두 스레드에서 한 Ray-Ban Meta 사용자는 2세대와 3세대 모델에 걸친 안경 세 개가 “Hey Meta” 호출어 없이 일상 대화를 녹음했다고 주장했다. “Respond without Hey Meta” 설정을 꺼 두었는데도 이 대화들은 Meta AI 앱에 저장된 음성 녹음과 텍스트 기록으로 남아 있었다. 사용자는 최근 펌웨어 업데이트 이후 이런 현상이 시작됐다고 말한다."
+                "x": "Bloomberg에 따르면 Apple은 두 해에 걸친 규제 지연 끝에 iOS 27.3에서 중국에 Apple Intelligence를 선보일 계획이다. 사진 편집 같은 기본 Apple Intelligence 기능은 포함되지만 Siri AI는 제공되지 않는다. Image Playground와 새 버전의 Genmoji도 빠지고, 텍스트 생성 도구도 제한된다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-                "cap": "Meta Ray Ban 안경 녹음 활동 페이지"
+                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
               },
               {
                 "t": "p",
-                "x": "여러 댓글 작성자도 Meta AI를 부르지 않았는데 내부 표시등이 켜지는 등 설명되지 않는 비슷한 작동을 겪었다고 말한다. 다만 제보는 아직 많지 않고, Android Authority도 이 현상을 독자적으로 재현하지 못했으며, 문제가 광범위하다는 증거도 없다."
+                "x": "South China Morning Post는 오늘 중국 공업정보화부가 최근 Apple에 네트워크 접속 허가를 내줘 Alibaba의 Qwen과 Tongyi Wanxiang 모델을 iPhone Duo, iPhone 18 Pro와 그 이전 iPhones에 넣을 수 있게 됐다고 보도했다. Apple Intelligence 출시의 길이 열린 셈이다."
               },
               {
                 "t": "p",
-                "x": "올해 초 Ars Technica는 Ray-Ban Meta 안경 데이터를 검토하던 외주 인력이 매우 민감한 영상을 접했다고 보도했다. The Verge는 최근 AI 하드웨어가 “녹음”의 정의를 흐리고 있다고 지적했다."
+                "x": "Apple은 iOS 18.1에서 첫 Apple Intelligence 기능을 선보였지만, 출시 이후 중국에서는 제공되지 않았다. Apple은 칠월 중국 출시를 위한 첫 승인을 받았으나, 소비자 대상 출시에는 추가 승인이 필요했다."
+              },
+              {
+                "t": "p",
+                "x": "중국은 외국 AI 기술을 제한하고 있어, Apple은 중국에서 Apple Intelligence를 출시하려면 Alibaba, Baidu와 손잡아야 했다. Apple은 또 AI 모델의 지속적인 업데이트를 중국 정부가 승인하도록 허용해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "Huawei 등 중국의 경쟁 스마트폰 업체들은 오래전부터 인공지능 기능을 제공해 왔고, Apple은 비슷한 도구가 없어 불리한 처지에 놓여 있었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ray-Ban Metaが\nウェイクワードなしで録音？",
-          "body": "ある所有者が3台のRay-Ban Metaの無断録音を訴え、Metaは解決済みとした。",
-          "mini_headline": "Ray-Ban Metaの無断録音報告",
+          "headline": "Apple AIが中国へ\n十二月のiOS 27.3で",
+          "body": "Appleは規制で二年遅れた中国でのAI提供を、iOS 27.3で始める。",
+          "mini_headline": "Apple Intelligenceが中国へ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-                "cap": "Ray-Ban Metaスマートグラスをかけた女性"
-              },
-              {
                 "t": "p",
-                "x": "更新：MetaはAndroid Authorityのコメント要請に対し、「この問題は解決済みだ。利用者はいつでも設定からMeta AIとのやり取りの音声ログを管理、確認、削除できる」と回答した。"
-              },
-              {
-                "t": "p",
-                "x": "Redditの2つのスレッドで、あるRay-Ban Metaの所有者が、第2世代と第3世代にまたがる別々の3台が「Hey Meta」のウェイクフレーズなしで普段の会話を記録したと述べている。「Respond without Hey Meta」を無効にしていたにもかかわらず、それらのやり取りは保存された音声録音とテキストの書き起こしとしてMeta AIアプリに表示された。所有者によると、この挙動は最近のファームウェア更新後に始まったという。"
+                "x": "Bloombergによると、Appleは二年にわたる規制上の遅れを経て、iOS 27.3で中国にApple Intelligenceを導入する計画だ。写真編集などの基本的なApple Intelligence機能は含まれるが、Siri AIは利用できない。Image Playgroundと新しいバージョンのGenmojiも外れ、テキスト生成ツールも限定的になる。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-                "cap": "Meta Ray Banグラスの録音アクティビティページ"
+                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
               },
               {
                 "t": "p",
-                "x": "複数のコメント投稿者も、Meta AIを呼び出していないのに内部のライトが点灯するなど、説明のつかない同様の起動に気づいたと述べている。ただし報告はまだ限られており、Android Authorityは独自にこの挙動を再現できておらず、広く起きていることを示す証拠もない。"
+                "x": "South China Morning Postは本日、中国の工業情報化部が最近、AlibabaのQwenとTongyi WanxiangのモデルをiPhone Duo、iPhone 18 Pro、およびそれ以前のiPhonesに追加するためのネットワーク接続許可をAppleに与えたと報じた。これによりApple Intelligenceの投入に道が開かれた。"
               },
               {
                 "t": "p",
-                "x": "今年初めにはArs Technicaが、Ray-Ban Metaグラスのデータを確認していた委託作業者が非常に機微な映像を目にしていたと報じた。The Vergeは最近、AIハードウェアが「録音」の定義を曖昧にしていると論じた。"
+                "x": "AppleはiOS 18.1で最初のApple Intelligence機能を導入したが、中国では提供開始以来利用できないままだった。Appleは七月に中国でのApple Intelligence投入に向けた最初の承認を得たが、一般消費者向けの提供には追加の承認が必要だった。"
+              },
+              {
+                "t": "p",
+                "x": "中国は外国のAI技術を制限しているため、Appleは同国でApple Intelligenceを投入するにあたりAlibabaやBaiduと提携する必要があった。Appleはまた、AIモデルの継続的なアップデートを中国政府が承認することも認めなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "Huaweiなど中国の競合スマートフォンメーカーは以前から人工知能機能を提供しており、Appleは同等のツールを欠いて不利な立場にあった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ray-Ban Meta被指\n无唤醒词也在收音",
-          "body": "一名用户称三副Ray-Ban Meta眼镜擅自录下对话，Meta称已解决。",
-          "mini_headline": "Ray-Ban Meta偷录争议",
+          "headline": "Apple AI进入中国\n十二月随iOS 27.3上线",
+          "body": "历经两年监管延误，Apple将随iOS 27.3在中国推出AI功能，但不含Siri AI。",
+          "mini_headline": "Apple Intelligence进军中国",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-                "cap": "佩戴Ray-Ban Meta智能眼镜的女性"
-              },
-              {
                 "t": "p",
-                "x": "更新：Meta回应了Android Authority的置评请求：“该问题已经解决。用户可随时通过设置管理、查看和删除与Meta AI互动的语音记录。”"
-              },
-              {
-                "t": "p",
-                "x": "在两个Reddit帖子中，一名Ray-Ban Meta用户称，涵盖第二代和第三代型号的三副不同眼镜在没有“Hey Meta”唤醒短语的情况下录下了日常对话。尽管“Respond without Hey Meta”已关闭，这些互动仍以保存的音频录音和文字转录形式出现在Meta AI应用中。该用户称，这一情况始于最近一次固件更新之后。"
+                "x": "据Bloomberg报道，在经历两年的监管延误后，Apple计划通过iOS 27.3将Apple Intelligence引入中国。此次推出将包括照片编辑等基础Apple Intelligence功能，但Siri AI不会上线。Image Playground和新版Genmoji也将缺席，文本生成工具也会受到限制。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-                "cap": "Meta Ray Ban眼镜录音活动页面"
+                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
               },
               {
                 "t": "p",
-                "x": "多名评论者表示，他们也注意到类似的不明激活，包括在未调用Meta AI时内部指示灯亮起。不过，相关报告仍然有限，Android Authority尚未独立复现这一现象，也没有证据表明问题普遍存在。"
+                "x": "South China Morning Post今天报道，中国工业和信息化部近期向Apple发放了网络接入许可，允许其将Alibaba的Qwen和Tongyi Wanxiang模型加入iPhone Duo、iPhone 18 Pro及更早的iPhones，为Apple Intelligence的首发铺平了道路。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，Ars Technica报道称，审查Ray-Ban Meta眼镜数据的外包人员接触到了高度敏感的画面。The Verge最近则认为，AI硬件正在模糊“录音”的定义。"
+                "x": "Apple在iOS 18.1中推出了首批Apple Intelligence功能，但自发布以来中国市场一直缺席。Apple已于七月获得在中国推出Apple Intelligence的初步许可，但面向消费者推出还需要额外许可。"
+              },
+              {
+                "t": "p",
+                "x": "中国限制外国AI技术，这意味着Apple必须与Alibaba和Baidu合作，才能在中国推出Apple Intelligence。Apple还必须允许中国政府审批AI模型的持续更新。"
+              },
+              {
+                "t": "p",
+                "x": "Huawei等中国竞争对手手机厂商早已提供人工智能功能，而Apple因缺乏同类工具一直处于劣势。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Usuarios dicen que Ray-Ban Meta\nescuchaba sin la palabra clave",
-          "body": "Un usuario dice que tres pares de Ray-Ban Meta grabaron charlas sin “Hey Meta”, y Meta afirma que está resuelto.",
-          "mini_headline": "Denuncias de escucha en Ray-Ban Meta",
+          "headline": "Apple Intelligence llega a China\ncon iOS 27.3 en diciembre",
+          "body": "Tras dos años de retrasos regulatorios, Apple prevé lanzar Apple Intelligence en China con iOS 27.3, sin Siri AI.",
+          "mini_headline": "Apple Intelligence llega a China",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-                "cap": "Mujer con las gafas inteligentes Ray-Ban Meta"
-              },
-              {
                 "t": "p",
-                "x": "Actualización: Meta respondió a la solicitud de comentarios de Android Authority: “Este problema se ha resuelto. Las personas pueden gestionar, revisar y eliminar en cualquier momento, desde los ajustes, los registros de voz de sus interacciones con Meta AI”."
-              },
-              {
-                "t": "p",
-                "x": "En dos hilos de Reddit, un propietario de Ray-Ban Meta afirma que tres pares distintos, de modelos de segunda y tercera generación, captaron conversaciones normales sin la frase de activación “Hey Meta”. Esas interacciones aparecieron en la app Meta AI como grabaciones de audio guardadas y transcripciones de texto, aunque la opción “Respond without Hey Meta” estaba desactivada. El propietario dice que el comportamiento empezó tras una actualización reciente del firmware."
+                "x": "Apple planea llevar Apple Intelligence a China en iOS 27.3 tras dos años de retrasos regulatorios, según Bloomberg. El lanzamiento incluirá funciones básicas de Apple Intelligence, como la edición de fotos, pero Siri AI no estará disponible. Faltarán Image Playground y la versión más reciente de Genmoji, y las herramientas de generación de texto serán limitadas."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Meta-Ray-Ban-glasses-recording-activity-page.jpg",
-                "cap": "Página de actividad de grabaciones de las gafas Meta Ray Ban"
+                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
               },
               {
                 "t": "p",
-                "x": "Varios comentaristas dicen haber notado activaciones inexplicables similares, como la luz interna encendiéndose sin invocar a Meta AI. Sin embargo, los reportes siguen siendo limitados, Android Authority no ha reproducido el comportamiento de forma independiente y no hay pruebas de que esté generalizado."
+                "x": "El South China Morning Post informó hoy de que el Ministerio de Industria y Tecnologías de la Información de China concedió recientemente a Apple permisos de acceso a la red para añadir los modelos Qwen y Tongyi Wanxiang de Alibaba al iPhone Duo, al iPhone 18 Pro y a iPhones anteriores, lo que abre la puerta al debut de Apple Intelligence."
               },
               {
                 "t": "p",
-                "x": "A principios de este año, Ars Technica informó que contratistas que revisaban datos de las gafas Ray-Ban Meta se encontraron con imágenes muy sensibles. The Verge argumentó hace poco que el hardware de IA está desdibujando la definición de “grabar”."
+                "x": "Apple presentó las primeras funciones de Apple Intelligence en iOS 18.1, pero no han estado disponibles en China desde su lanzamiento. Apple recibió en julio una autorización inicial para lanzar Apple Intelligence en China, pero necesitaba una autorización adicional para el lanzamiento al público."
+              },
+              {
+                "t": "p",
+                "x": "China restringe la tecnología de AI extranjera, por lo que Apple tuvo que asociarse con Alibaba y Baidu para lanzar Apple Intelligence en el país. Apple también debe permitir que el Gobierno chino apruebe las actualizaciones continuas de los modelos de AI."
+              },
+              {
+                "t": "p",
+                "x": "Fabricantes rivales de smartphones en China, como Huawei, ofrecen desde hace tiempo funciones de inteligencia artificial, y Apple ha estado en desventaja sin herramientas comparables."
               }
             ]
           }
@@ -1189,15 +959,15 @@
       }
     },
     {
-      "id": "gadgets-unitree-gpt7-robots",
+      "id": "gadgets-apple-minions",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unitree 1~2년 내\n로봇 ChatGPT 순간",
-      "body": "Unitree CEO는 내년 GPT-7이 로봇의 난제를 풀 수도 있다고 봤다.",
-      "mini_headline": "Unitree가 본 로봇 AI 시간표",
+      "headline": "Apple, 쉬는 Mac을\n가상 GPU 클라우드로",
+      "body": "Apple의 Minions는 쉬는 Macs로 GPU 대기를 몇 분으로 줄인다.",
+      "mini_headline": "쉬는 Mac이 GPU 클라우드로",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1205,209 +975,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-            "cap": "바퀴를 단 Unitree G1"
+            "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+            "cap": "Apple"
           },
           {
             "t": "p",
-            "x": "중국 로봇 기업 Unitree의 CEO Wang Xingxing은 상하이 업계 행사에서 OpenAI가 최근 공개한 GPT-6 Astra 모델이 매우 강력해 “1~2년 안에” 돌파구가 나올 수 있다는 믿음이 커졌다고 말했다(South China Morning Post 보도)."
+            "x": "Apple은 사내에서 놀고 있는 Macs를 묶은 “가상 GPU 클라우드”, 곧 “Minions”라는 시스템을 쓰고 있다. 자사 연구진이 최근 arXiv에 올린 논문 내용이다. Minions는 멈춰 있던 AI 작업을 네트워크의 Mac들에 나눠 보내 대기 시간을 몇 분 수준으로 줄인다. 그중에는 한때 회사 GPU 대기열에서 10-plus-hour 대기를 겪던 작업도 있다. 대상은 AI 추론뿐이다. 오픈소스 Hugging Face 모델로 만드는 임베딩, 그리고 Ollama를 거친 LLM 텍스트 생성이다."
           },
           {
             "t": "p",
-            "x": "Wang은 “예컨대 내년에 나올 GPT-7 모델이 체화 지능의 문제를 곧바로 풀어낼 가능성도 있다”고 말했다. 올해 8월만 해도 그는 이런 “ChatGPT 모멘트”가 오기까지 10년이 걸릴 수 있다고 내다봤다."
-          },
-          {
-            "t": "p",
-            "x": "Wang이 내건 기준은 로봇이 음성이나 텍스트 명령만으로 낯선 환경의 80%에서 맡은 작업의 80%를 해내는 것이다."
+            "x": "Minion Server가 작업을 하위 작업으로 쪼개 PostgreSQL에 저장하면, 각 Mac의 Minion Executor가 중앙 스케줄러 없이 REST APIs로 다음 작업을 가져온다. 입력은 Amazon S3에서 읽고, 실행은 자기 GPU에서 한다. Minion Watchdog은 오 분 간격의 하트비트를 지켜보다가 Mac이 잠들거나 오프라인이 되거나 주인이 다시 가져가면 작업을 대기열에 되돌린다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-            "cap": "Antigravity A1을 날리는 Unitree G1"
+            "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+            "cap": "Apple의 Minions 시스템 구성도 (Apple, AI-generated)"
           },
           {
             "t": "p",
-            "x": "Stanford University의 Movement Lab은 Unitree 로봇에 GPT-6 Astra를 결합해 처음 보는 주방을 청소하게 했다. 로봇은 “환경별 학습 데이터나 추가 정책 학습 없이도 방 전체를 정리하고, 모호한 요청을 듣고 기억해 둔 물건을 가져올 수 있었다.” GPT-6 Astra는 ScreenSpot-Pro에서 92.7%를 기록해 GPT-5.6 Sol의 76.9%를 앞섰다."
+            "x": "논문은 Minions가 새 GPU 요청 없이 인프라 비용을 없앤다고 설명한다. 다만 전기료나 하드웨어 마모는 계산에서 뺐다. 참여 방식은 비공식적이어서, 팀원들이 Slack 메시지로 동료에게 executor를 띄워 달라고 부탁하기도 한다. 자기 그룹 밖 기기에서 데이터가 돌아가는 걸 꺼리는 팀도 있어, Apple은 배포 범위를 팀 단위와 조직 단위로 한정해 이를 줄인다. 저자들은 Minions를 모델 학습까지 넓힐 계획이고, 언젠가 “전 세계 커뮤니티”의 놀고 있는 Macs가 공유 GPU 풀을 이룰 수 있다고 말한다. 지금은 Apple 안에서만 돌아간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Unitree CEO sees a robot\n‘ChatGPT moment’ in 1–2 years",
-          "body": "Unitree’s CEO says a robot breakthrough could come within one or two years, and a GPT-7 model next year might crack it.",
-          "mini_headline": "Unitree’s robot AI timeline",
+          "headline": "Apple research turns idle Macs\ninto a virtual GPU cloud",
+          "body": "Apple's internal Minions system pools idle Macs for AI inference, cutting GPU queues of 10-plus hours to minutes.",
+          "mini_headline": "Idle Macs become a GPU cloud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-                "cap": "Unitree G1 on wheels"
+                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+                "cap": "Apple"
               },
               {
                 "t": "p",
-                "x": "Wang Xingxing, CEO of Chinese robotics firm Unitree, speaking at an industry event in Shanghai (via the South China Morning Post), said OpenAI’s recently released GPT-6 Astra model is so powerful that it has encouraged a belief that a breakthrough could occur “within one or two years.”"
+                "x": "Apple internally uses a system called \"Minions,\" a \"virtual GPU cloud\" made up of idle Macs, as described in a recent arXiv paper by its researchers. It takes stalled AI jobs, some that once faced 10-plus-hour company GPU queues, and distributes them to Macs on the network, cutting wait times to as little as minutes. It handles AI inference only: embeddings with open-source Hugging Face models and LLM text generation through Ollama."
               },
               {
                 "t": "p",
-                "x": "“It’s possible that, say, a GPT-7 model released next year could directly crack the problems of embodied intelligence,” Wang said. In August this year, he had said such a “ChatGPT moment” could take a decade to arrive."
-              },
-              {
-                "t": "p",
-                "x": "As a benchmark, Wang said robots should be able to complete 80% of the tasks they were assigned in 80% of unfamiliar environments using voice or text commands alone."
+                "x": "A Minion Server splits tasks into subtasks stored in PostgreSQL; a Minion Executor on each Mac pulls the next one over REST APIs, with no central scheduler, reading inputs from Amazon S3 and running them on its own GPU. A Minion Watchdog tracks five-minute heartbeats and requeues work when a Mac sleeps, goes offline or its owner takes it back."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-                "cap": "Unitree G1 flies Antigravity A1"
+                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+                "cap": "Diagram of Apple's Minions system (Apple, AI-generated)"
               },
               {
                 "t": "p",
-                "x": "Stanford University’s Movement Lab paired a Unitree robot with GPT-6 Astra and tasked it with cleaning a kitchen it had never seen before; the robot was able to “clean up across the room and retrieve a remembered object from an underspecified request, without environment-specific training data or additional policy learning.” GPT-6 Astra scored 92.7% on ScreenSpot-Pro, up from 76.9% in GPT-5.6 Sol."
+                "x": "The paper says Minions needs no new GPU requests and zeroes infrastructure cost, not counting electricity or hardware wear. Participation is informal: team members may send Slack messages asking others to run the executor. Teams worry about data running on devices outside their group, which Apple mitigates with team- and organization-scoped deployments. The authors plan to extend Minions to model training and say idle Macs \"across the global community\" could one day form a shared GPU pool. For now it works only inside Apple."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Unitree 1~2년 내\n로봇 ChatGPT 순간",
-          "body": "Unitree CEO는 내년 GPT-7이 로봇의 난제를 풀 수도 있다고 봤다.",
-          "mini_headline": "Unitree가 본 로봇 AI 시간표",
+          "headline": "Apple, 쉬는 Mac을\n가상 GPU 클라우드로",
+          "body": "Apple의 Minions는 쉬는 Macs로 GPU 대기를 몇 분으로 줄인다.",
+          "mini_headline": "쉬는 Mac이 GPU 클라우드로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-                "cap": "바퀴를 단 Unitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+                "cap": "Apple"
               },
               {
                 "t": "p",
-                "x": "중국 로봇 기업 Unitree의 CEO Wang Xingxing은 상하이 업계 행사에서 OpenAI가 최근 공개한 GPT-6 Astra 모델이 매우 강력해 “1~2년 안에” 돌파구가 나올 수 있다는 믿음이 커졌다고 말했다(South China Morning Post 보도)."
+                "x": "Apple은 사내에서 놀고 있는 Macs를 묶은 “가상 GPU 클라우드”, 곧 “Minions”라는 시스템을 쓰고 있다. 자사 연구진이 최근 arXiv에 올린 논문 내용이다. Minions는 멈춰 있던 AI 작업을 네트워크의 Mac들에 나눠 보내 대기 시간을 몇 분 수준으로 줄인다. 그중에는 한때 회사 GPU 대기열에서 10-plus-hour 대기를 겪던 작업도 있다. 대상은 AI 추론뿐이다. 오픈소스 Hugging Face 모델로 만드는 임베딩, 그리고 Ollama를 거친 LLM 텍스트 생성이다."
               },
               {
                 "t": "p",
-                "x": "Wang은 “예컨대 내년에 나올 GPT-7 모델이 체화 지능의 문제를 곧바로 풀어낼 가능성도 있다”고 말했다. 올해 8월만 해도 그는 이런 “ChatGPT 모멘트”가 오기까지 10년이 걸릴 수 있다고 내다봤다."
-              },
-              {
-                "t": "p",
-                "x": "Wang이 내건 기준은 로봇이 음성이나 텍스트 명령만으로 낯선 환경의 80%에서 맡은 작업의 80%를 해내는 것이다."
+                "x": "Minion Server가 작업을 하위 작업으로 쪼개 PostgreSQL에 저장하면, 각 Mac의 Minion Executor가 중앙 스케줄러 없이 REST APIs로 다음 작업을 가져온다. 입력은 Amazon S3에서 읽고, 실행은 자기 GPU에서 한다. Minion Watchdog은 오 분 간격의 하트비트를 지켜보다가 Mac이 잠들거나 오프라인이 되거나 주인이 다시 가져가면 작업을 대기열에 되돌린다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-                "cap": "Antigravity A1을 날리는 Unitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+                "cap": "Apple의 Minions 시스템 구성도 (Apple, AI-generated)"
               },
               {
                 "t": "p",
-                "x": "Stanford University의 Movement Lab은 Unitree 로봇에 GPT-6 Astra를 결합해 처음 보는 주방을 청소하게 했다. 로봇은 “환경별 학습 데이터나 추가 정책 학습 없이도 방 전체를 정리하고, 모호한 요청을 듣고 기억해 둔 물건을 가져올 수 있었다.” GPT-6 Astra는 ScreenSpot-Pro에서 92.7%를 기록해 GPT-5.6 Sol의 76.9%를 앞섰다."
+                "x": "논문은 Minions가 새 GPU 요청 없이 인프라 비용을 없앤다고 설명한다. 다만 전기료나 하드웨어 마모는 계산에서 뺐다. 참여 방식은 비공식적이어서, 팀원들이 Slack 메시지로 동료에게 executor를 띄워 달라고 부탁하기도 한다. 자기 그룹 밖 기기에서 데이터가 돌아가는 걸 꺼리는 팀도 있어, Apple은 배포 범위를 팀 단위와 조직 단위로 한정해 이를 줄인다. 저자들은 Minions를 모델 학습까지 넓힐 계획이고, 언젠가 “전 세계 커뮤니티”의 놀고 있는 Macs가 공유 GPU 풀을 이룰 수 있다고 말한다. 지금은 Apple 안에서만 돌아간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unitree、1〜2年で\nロボットのChatGPT瞬間",
-          "body": "Unitree CEOは、来年のGPT-7がロボットの難題を解く可能性があると語った。",
-          "mini_headline": "Unitreeが描くロボットAIの時間軸",
+          "headline": "Apple、遊休Macを\n仮想GPUクラウドに",
+          "body": "AppleのMinionsは遊休Macsを束ね、GPUの待ち時間を数分に縮める。",
+          "mini_headline": "遊休MacがGPUクラウドに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-                "cap": "車輪を付けたUnitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+                "cap": "Apple"
               },
               {
                 "t": "p",
-                "x": "中国のロボット企業UnitreeのCEO、Wang Xingxing氏は上海で開かれた業界イベントで(South China Morning Post経由)、OpenAIが最近公開したGPT-6 Astraモデルは非常に強力で、「1〜2年以内」にブレークスルーが起こり得るとの確信を後押ししたと語った。"
+                "x": "Appleは社内で、遊休状態のMacsで構成する「仮想GPUクラウド」、「Minions」というシステムを使っている。同社の研究者が最近arXivで公開した論文で明らかにした。停滞したAIジョブ、なかには社内GPUの待ち行列で10-plus-hourの待ちを強いられていたものを、ネットワーク上のMacに分散し、待ち時間を数分程度にまで縮める。扱うのはAI推論のみで、オープンソースのHugging Faceモデルによる埋め込みと、Ollamaを介したLLMのテキスト生成だ。"
               },
               {
                 "t": "p",
-                "x": "「たとえば来年リリースされるGPT-7モデルが、身体性知能の課題を直接解決する可能性もある」とWang氏は述べた。同氏は今年8月の時点では、こうした「ChatGPTモーメント」の到来には10年かかる可能性があると話していた。"
-              },
-              {
-                "t": "p",
-                "x": "Wang氏は目安として、ロボットは音声またはテキストの指示だけで、未知の環境の80%において割り当てられたタスクの80%をこなせるべきだと述べた。"
+                "x": "Minion Serverがタスクをサブタスクに分割してPostgreSQLに保存し、各MacのMinion Executorは中央スケジューラーを介さずREST APIsで次のサブタスクを取得、Amazon S3から入力を読み込んで自身のGPUで実行する。Minion Watchdogは五分ごとのハートビートを監視し、Macがスリープしたりオフラインになったり、所有者が使い始めたりすると作業を再びキューに戻す。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-                "cap": "Antigravity A1を飛ばすUnitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+                "cap": "AppleのMinionsシステムの図(Apple、AI-generated)"
               },
               {
                 "t": "p",
-                "x": "Stanford UniversityのMovement LabはUnitreeのロボットにGPT-6 Astraを組み合わせ、初めて見るキッチンの掃除を任せた。ロボットは「環境固有の学習データや追加のポリシー学習なしに、部屋全体を片付け、曖昧な指示から記憶していた物を取ってくる」ことができた。GPT-6 AstraはScreenSpot-Proで92.7%を記録し、GPT-5.6 Solの76.9%から向上した。"
+                "x": "論文によると、Minionsは新たなGPUの申請を必要とせず、インフラコストをなくす。ただし電気代やハードウェアの消耗は含まない。参加は非公式で、チームメンバーがSlackで他の人にexecutorの実行を頼むこともある。チームは自分たちのグループ外の端末でデータが処理されることを懸念しており、Appleはチーム単位・組織単位に範囲を限定した展開でこれを緩和している。著者らはMinionsをモデルの学習にも広げる計画で、いずれ「世界中のコミュニティ」の遊休Macsが共有のGPUプールを形成しうると述べる。現時点ではApple社内でしか機能しない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unitree CEO称\n1–2年迎ChatGPT时刻",
-          "body": "Unitree CEO称机器人突破或在一两年内到来，明年的GPT-7模型可能实现。",
-          "mini_headline": "Unitree的机器人AI时间表",
+          "headline": "Apple让闲置Mac\n变身虚拟GPU云",
+          "body": "Apple的Minions汇聚闲置Macs做AI推理，把GPU排队从10多小时缩至几分钟。",
+          "mini_headline": "闲置Mac变身GPU云",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-                "cap": "装上轮子的Unitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+                "cap": "Apple"
               },
               {
                 "t": "p",
-                "x": "中国机器人企业Unitree的CEO王兴兴（Wang Xingxing）在上海的一场行业活动上表示（据South China Morning Post报道），OpenAI最近发布的GPT-6 Astra模型非常强大，让人更加相信突破可能在“一两年内”出现。"
+                "x": "据Apple研究人员近期在arXiv上发表的一篇论文介绍，Apple内部使用一套名为“Minions”的系统，这是一个由闲置Macs组成的“虚拟GPU云”。它接手停滞的AI任务——其中一些曾在公司GPU队列中面临10-plus-hour的等待——并将其分发到网络中的Mac上，把等待时间缩短到几分钟。它只处理AI推理：用开源Hugging Face模型生成嵌入，以及通过Ollama进行LLM文本生成。"
               },
               {
                 "t": "p",
-                "x": "“比如说，明年发布的GPT-7模型就有可能直接攻克具身智能的难题，”王兴兴说。今年8月，他曾表示这样的“ChatGPT时刻”可能要十年才会到来。"
-              },
-              {
-                "t": "p",
-                "x": "王兴兴提出的衡量标准是：机器人仅凭语音或文字指令，就应能在80%的陌生环境中完成80%的指定任务。"
+                "x": "Minion Server将任务拆分为子任务并存入PostgreSQL；每台Mac上的Minion Executor在没有中央调度器的情况下通过REST APIs拉取下一个子任务，从Amazon S3读取输入，并在自己的GPU上运行。Minion Watchdog跟踪五分钟一次的心跳，当某台Mac休眠、离线或被主人收回时，会把任务重新排队。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-                "cap": "Unitree G1操控Antigravity A1飞行"
+                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+                "cap": "Apple的Minions系统示意图（Apple，AI-generated）"
               },
               {
                 "t": "p",
-                "x": "Stanford University的Movement Lab将一台Unitree机器人与GPT-6 Astra结合，让它清洁一个从未见过的厨房；这台机器人能够“在没有特定环境训练数据或额外策略学习的情况下，打扫整个房间，并根据不够明确的请求取回记住的物品。”GPT-6 Astra在ScreenSpot-Pro上得分92.7%，高于GPT-5.6 Sol的76.9%。"
+                "x": "论文称，Minions无需申请新的GPU，基础设施成本降为零（不计电费和硬件损耗）。参与方式是非正式的：团队成员可能会发Slack消息，请别人运行executor。各团队担心数据在本组以外的设备上运行，Apple通过限定在团队和组织范围内的部署来缓解这一问题。作者计划将Minions扩展到模型训练，并表示有朝一日，“全球社区”的闲置Macs或许能组成共享的GPU池。目前它只在Apple内部运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unitree prevé para los robots\nun ‘momento ChatGPT’ en 1–2 años",
-          "body": "El CEO de Unitree cree que un avance robótico podría llegar en uno o dos años y que GPT-7 lo lograría el año próximo.",
-          "mini_headline": "El calendario de IA robótica de Unitree",
+          "headline": "Apple convierte Macs inactivos\nen una nube virtual de GPU",
+          "body": "El sistema Minions de Apple agrupa Macs inactivos y reduce esperas de GPU de más de 10 horas a minutos.",
+          "mini_headline": "Macs inactivos, nube de GPU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-                "cap": "Unitree G1 sobre ruedas"
+                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+                "cap": "Apple"
               },
               {
                 "t": "p",
-                "x": "Wang Xingxing, CEO de la empresa china de robótica Unitree, dijo en un evento del sector en Shanghái (según el South China Morning Post) que el modelo GPT-6 Astra, lanzado recientemente por OpenAI, es tan potente que ha alimentado la convicción de que un gran avance podría producirse “en uno o dos años”."
+                "x": "Apple utiliza internamente un sistema llamado \"Minions\", una \"nube virtual de GPU\" formada por Macs inactivos, según describe un artículo reciente de sus investigadores publicado en arXiv. Toma trabajos de AI atascados, algunos de los cuales llegaron a enfrentarse a colas de GPU de la empresa de más de 10 horas (10-plus-hour), y los reparte entre los Mac de la red, lo que reduce la espera a apenas minutos. Solo se ocupa de inferencia de AI: embeddings con modelos de código abierto de Hugging Face y generación de texto con LLM mediante Ollama."
               },
               {
                 "t": "p",
-                "x": "“Es posible que, por ejemplo, un modelo GPT-7 lanzado el año próximo resuelva directamente los problemas de la inteligencia encarnada”, dijo Wang. En agosto de este año había afirmado que ese “momento ChatGPT” podría tardar una década en llegar."
-              },
-              {
-                "t": "p",
-                "x": "Como referencia, Wang dijo que los robots deberían poder completar el 80% de las tareas asignadas en el 80% de los entornos desconocidos usando solo órdenes de voz o de texto."
+                "x": "Un Minion Server divide las tareas en subtareas almacenadas en PostgreSQL; un Minion Executor en cada Mac toma la siguiente a través de REST APIs, sin planificador central, lee las entradas desde Amazon S3 y las ejecuta en su propia GPU. Un Minion Watchdog sigue latidos cada cinco minutos y vuelve a poner en cola el trabajo cuando un Mac entra en reposo, se desconecta o su dueño lo recupera."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-                "cap": "Unitree G1 pilota un Antigravity A1"
+                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+                "cap": "Diagrama del sistema Minions de Apple (Apple, AI-generated)"
               },
               {
                 "t": "p",
-                "x": "El Movement Lab de la Stanford University combinó un robot de Unitree con GPT-6 Astra y le encargó limpiar una cocina que nunca había visto; el robot logró “ordenar toda la habitación y recuperar un objeto recordado a partir de una petición poco precisa, sin datos de entrenamiento específicos del entorno ni aprendizaje adicional de políticas”. GPT-6 Astra obtuvo un 92,7% en ScreenSpot-Pro, frente al 76,9% de GPT-5.6 Sol."
+                "x": "Según el artículo, Minions no requiere nuevas solicitudes de GPU y reduce a cero el coste de infraestructura, sin contar la electricidad ni el desgaste del hardware. La participación es informal: los miembros de un equipo pueden enviar mensajes de Slack pidiendo a otros que ejecuten el executor. A los equipos les preocupa que sus datos se procesen en dispositivos ajenos a su grupo, algo que Apple mitiga con despliegues limitados al equipo y a la organización. Los autores planean ampliar Minions al entrenamiento de modelos y dicen que los Macs inactivos \"de toda la comunidad global\" podrían formar algún día una reserva compartida de GPU. Por ahora solo funciona dentro de Apple."
               }
             ]
           }
@@ -1415,145 +1161,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Unitree 1~2년 내\n로봇 ChatGPT 순간",
-          "body": "Unitree CEO는 내년 GPT-7이 로봇의 난제를 풀 수도 있다고 봤다.",
-          "mini_headline": "Unitree가 본 로봇 AI 시간표",
+          "headline": "Apple, 쉬는 Mac을\n가상 GPU 클라우드로",
+          "body": "Apple의 Minions는 쉬는 Macs로 GPU 대기를 몇 분으로 줄인다.",
+          "mini_headline": "쉬는 Mac이 GPU 클라우드로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-                "cap": "바퀴를 단 Unitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+                "cap": "Apple"
               },
               {
                 "t": "p",
-                "x": "중국 로봇 기업 Unitree의 CEO Wang Xingxing은 상하이에서 열린 업계 행사에서(South China Morning Post 보도) OpenAI가 최근 공개한 GPT-6 Astra 모델이 매우 강력해 “1~2년 안에” 돌파구가 나올 수 있다는 믿음이 커졌다고 말했다."
+                "x": "Apple은 내부적으로 놀고 있는 Macs로 구성한 “가상 GPU 클라우드”, 곧 “Minions”라는 시스템을 쓰고 있다. 자사 연구진이 최근 arXiv에 올린 논문에 담긴 내용이다. Minions는 멈춰 있던 AI 작업, 그중 일부는 한때 회사 GPU 대기열에서 10-plus-hour 대기를 겪던 작업을 네트워크상의 Mac들에 나눠 보내 대기 시간을 몇 분 수준까지 줄인다. 처리 대상은 AI 추론뿐으로, 오픈소스 Hugging Face 모델을 이용한 임베딩과 Ollama를 통한 LLM 텍스트 생성이다."
               },
               {
                 "t": "p",
-                "x": "Wang은 “예컨대 내년에 나올 GPT-7 모델이 체화 지능의 문제를 곧바로 풀어낼 가능성도 있다”고 말했다. 그는 올해 8월만 해도 이런 “ChatGPT 모멘트”가 오기까지 10년이 걸릴 수 있다고 했었다."
-              },
-              {
-                "t": "p",
-                "x": "Wang은 기준점으로, 로봇이 음성이나 텍스트 명령만으로 낯선 환경의 80%에서 맡은 작업의 80%를 해낼 수 있어야 한다고 말했다."
+                "x": "Minion Server가 작업을 하위 작업으로 쪼개 PostgreSQL에 저장하면, 각 Mac의 Minion Executor가 중앙 스케줄러 없이 REST APIs로 다음 작업을 가져와 Amazon S3에서 입력을 읽고 자기 GPU에서 실행한다. Minion Watchdog은 오 분 간격의 하트비트를 추적하다가 Mac이 잠들거나 오프라인이 되거나 주인이 다시 가져가면 작업을 대기열에 다시 넣는다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-                "cap": "Antigravity A1을 날리는 Unitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+                "cap": "Apple의 Minions 시스템 구성도 (Apple, AI-generated)"
               },
               {
                 "t": "p",
-                "x": "Stanford University의 Movement Lab은 Unitree 로봇에 GPT-6 Astra를 결합해 처음 보는 주방을 청소하게 했다. 로봇은 “환경별 학습 데이터나 추가 정책 학습 없이도 방 전체를 정리하고, 모호한 요청을 듣고 기억해 둔 물건을 가져올 수 있었다.” GPT-6 Astra는 ScreenSpot-Pro에서 92.7%를 기록해 GPT-5.6 Sol의 76.9%보다 높았다."
+                "x": "논문에 따르면 Minions는 새 GPU 요청이 필요 없고 인프라 비용을 없앤다. 단, 전기료나 하드웨어 마모는 계산에 넣지 않았다. 참여는 비공식적이다. 팀원들이 Slack 메시지로 다른 사람에게 executor 실행을 부탁하기도 한다. 팀들은 자기 그룹 밖의 기기에서 데이터가 돌아가는 것을 우려하는데, Apple은 팀 단위와 조직 단위로 범위를 한정한 배포로 이를 완화한다. 저자들은 Minions를 모델 학습으로 확장할 계획이며, 언젠가 “전 세계 커뮤니티”의 놀고 있는 Macs가 공유 GPU 풀을 이룰 수 있다고 말한다. 지금은 Apple 내부에서만 작동한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unitree、1〜2年で\nロボットのChatGPT瞬間",
-          "body": "Unitree CEOは、来年のGPT-7がロボットの難題を解く可能性があると語った。",
-          "mini_headline": "Unitreeが描くロボットAIの時間軸",
+          "headline": "Apple、遊休Macを\n仮想GPUクラウドに",
+          "body": "AppleのMinionsは遊休Macsを束ね、GPUの待ち時間を数分に縮める。",
+          "mini_headline": "遊休MacがGPUクラウドに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-                "cap": "車輪を付けたUnitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+                "cap": "Apple"
               },
               {
                 "t": "p",
-                "x": "中国のロボット企業UnitreeのCEO、Wang Xingxing氏は上海で開かれた業界イベントで(South China Morning Post経由)、OpenAIが最近公開したGPT-6 Astraモデルは非常に強力で、「1〜2年以内」にブレークスルーが起こり得るとの確信を後押ししたと語った。"
+                "x": "Appleは社内で、遊休状態のMacsで構成する「仮想GPUクラウド」、「Minions」というシステムを使っている。同社の研究者が最近arXivで公開した論文で明らかにした。停滞したAIジョブ、なかには社内GPUの待ち行列で10-plus-hourの待ちを強いられていたものを、ネットワーク上のMacに分散し、待ち時間を数分程度にまで縮める。扱うのはAI推論のみで、オープンソースのHugging Faceモデルによる埋め込みと、Ollamaを介したLLMのテキスト生成だ。"
               },
               {
                 "t": "p",
-                "x": "「たとえば来年リリースされるGPT-7モデルが、身体性知能の課題を直接解決する可能性もある」とWang氏は述べた。同氏は今年8月の時点では、こうした「ChatGPTモーメント」の到来には10年かかる可能性があると話していた。"
-              },
-              {
-                "t": "p",
-                "x": "Wang氏は目安として、ロボットは音声またはテキストの指示だけで、未知の環境の80%において割り当てられたタスクの80%をこなせるべきだと述べた。"
+                "x": "Minion Serverがタスクをサブタスクに分割してPostgreSQLに保存し、各MacのMinion Executorは中央スケジューラーを介さずREST APIsで次のサブタスクを取得、Amazon S3から入力を読み込んで自身のGPUで実行する。Minion Watchdogは五分ごとのハートビートを監視し、Macがスリープしたりオフラインになったり、所有者が使い始めたりすると作業を再びキューに戻す。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-                "cap": "Antigravity A1を飛ばすUnitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+                "cap": "AppleのMinionsシステムの図(Apple、AI-generated)"
               },
               {
                 "t": "p",
-                "x": "Stanford UniversityのMovement LabはUnitreeのロボットにGPT-6 Astraを組み合わせ、初めて見るキッチンの掃除を任せた。ロボットは「環境固有の学習データや追加のポリシー学習なしに、部屋全体を片付け、曖昧な指示から記憶していた物を取ってくる」ことができた。GPT-6 AstraはScreenSpot-Proで92.7%を記録し、GPT-5.6 Solの76.9%から向上した。"
+                "x": "論文によると、Minionsは新たなGPUの申請を必要とせず、インフラコストをなくす。ただし電気代やハードウェアの消耗は含まない。参加は非公式で、チームメンバーがSlackで他の人にexecutorの実行を頼むこともある。チームは自分たちのグループ外の端末でデータが処理されることを懸念しており、Appleはチーム単位・組織単位に範囲を限定した展開でこれを緩和している。著者らはMinionsをモデルの学習にも広げる計画で、いずれ「世界中のコミュニティ」の遊休Macsが共有のGPUプールを形成しうると述べる。現時点ではApple社内でしか機能しない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unitree CEO称\n1–2年迎ChatGPT时刻",
-          "body": "Unitree CEO称机器人突破或在一两年内到来，明年的GPT-7模型可能实现。",
-          "mini_headline": "Unitree的机器人AI时间表",
+          "headline": "Apple让闲置Mac\n变身虚拟GPU云",
+          "body": "Apple的Minions汇聚闲置Macs做AI推理，把GPU排队从10多小时缩至几分钟。",
+          "mini_headline": "闲置Mac变身GPU云",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-                "cap": "装上轮子的Unitree G1"
+                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+                "cap": "Apple"
               },
               {
                 "t": "p",
-                "x": "中国机器人企业Unitree的CEO王兴兴（Wang Xingxing）在上海的一场行业活动上表示（据South China Morning Post报道），OpenAI最近发布的GPT-6 Astra模型非常强大，让人更加相信突破可能在“一两年内”出现。"
+                "x": "据Apple研究人员近期在arXiv上发表的一篇论文介绍，Apple内部使用一套名为“Minions”的系统，这是一个由闲置Macs组成的“虚拟GPU云”。它接手停滞的AI任务——其中一些曾在公司GPU队列中面临10-plus-hour的等待——并将其分发到网络中的Mac上，把等待时间缩短到几分钟。它只处理AI推理：用开源Hugging Face模型生成嵌入，以及通过Ollama进行LLM文本生成。"
               },
               {
                 "t": "p",
-                "x": "“比如说，明年发布的GPT-7模型就有可能直接攻克具身智能的难题，”王兴兴说。今年8月，他曾表示这样的“ChatGPT时刻”可能要十年才会到来。"
-              },
-              {
-                "t": "p",
-                "x": "王兴兴提出的衡量标准是：机器人仅凭语音或文字指令，就应能在80%的陌生环境中完成80%的指定任务。"
+                "x": "Minion Server将任务拆分为子任务并存入PostgreSQL；每台Mac上的Minion Executor在没有中央调度器的情况下通过REST APIs拉取下一个子任务，从Amazon S3读取输入，并在自己的GPU上运行。Minion Watchdog跟踪五分钟一次的心跳，当某台Mac休眠、离线或被主人收回时，会把任务重新排队。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-                "cap": "Unitree G1操控Antigravity A1飞行"
+                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+                "cap": "Apple的Minions系统示意图（Apple，AI-generated）"
               },
               {
                 "t": "p",
-                "x": "Stanford University的Movement Lab将一台Unitree机器人与GPT-6 Astra结合，让它清洁一个从未见过的厨房；这台机器人能够“在没有特定环境训练数据或额外策略学习的情况下，打扫整个房间，并根据不够明确的请求取回记住的物品。”GPT-6 Astra在ScreenSpot-Pro上得分92.7%，高于GPT-5.6 Sol的76.9%。"
+                "x": "论文称，Minions无需申请新的GPU，基础设施成本降为零（不计电费和硬件损耗）。参与方式是非正式的：团队成员可能会发Slack消息，请别人运行executor。各团队担心数据在本组以外的设备上运行，Apple通过限定在团队和组织范围内的部署来缓解这一问题。作者计划将Minions扩展到模型训练，并表示有朝一日，“全球社区”的闲置Macs或许能组成共享的GPU池。目前它只在Apple内部运行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unitree prevé para los robots\nun ‘momento ChatGPT’ en 1–2 años",
-          "body": "El CEO de Unitree cree que un avance robótico podría llegar en uno o dos años y que GPT-7 lo lograría el año próximo.",
-          "mini_headline": "El calendario de IA robótica de Unitree",
+          "headline": "Apple convierte Macs inactivos\nen una nube virtual de GPU",
+          "body": "El sistema Minions de Apple agrupa Macs inactivos y reduce esperas de GPU de más de 10 horas a minutos.",
+          "mini_headline": "Macs inactivos, nube de GPU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7.jpg",
-                "cap": "Unitree G1 sobre ruedas"
+                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+                "cap": "Apple"
               },
               {
                 "t": "p",
-                "x": "Wang Xingxing, CEO de la empresa china de robótica Unitree, dijo en un evento del sector en Shanghái (según el South China Morning Post) que el modelo GPT-6 Astra, lanzado recientemente por OpenAI, es tan potente que ha alimentado la convicción de que un gran avance podría producirse “en uno o dos años”."
+                "x": "Apple utiliza internamente un sistema llamado \"Minions\", una \"nube virtual de GPU\" formada por Macs inactivos, según describe un artículo reciente de sus investigadores publicado en arXiv. Toma trabajos de AI atascados, algunos de los cuales llegaron a enfrentarse a colas de GPU de la empresa de más de 10 horas (10-plus-hour), y los reparte entre los Mac de la red, lo que reduce la espera a apenas minutos. Solo se ocupa de inferencia de AI: embeddings con modelos de código abierto de Hugging Face y generación de texto con LLM mediante Ollama."
               },
               {
                 "t": "p",
-                "x": "“Es posible que, por ejemplo, un modelo GPT-7 lanzado el año próximo resuelva directamente los problemas de la inteligencia encarnada”, dijo Wang. En agosto de este año había afirmado que ese “momento ChatGPT” podría tardar una década en llegar."
-              },
-              {
-                "t": "p",
-                "x": "Como referencia, Wang dijo que los robots deberían poder completar el 80% de las tareas asignadas en el 80% de los entornos desconocidos usando solo órdenes de voz o de texto."
+                "x": "Un Minion Server divide las tareas en subtareas almacenadas en PostgreSQL; un Minion Executor en cada Mac toma la siguiente a través de REST APIs, sin planificador central, lee las entradas desde Amazon S3 y las ejecuta en su propia GPU. Un Minion Watchdog sigue latidos cada cinco minutos y vuelve a poner en cola el trabajo cuando un Mac entra en reposo, se desconecta o su dueño lo recupera."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qbSuHweiYXqhSu9UbJPoUg.jpg",
-                "cap": "Unitree G1 pilota un Antigravity A1"
+                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+                "cap": "Diagrama del sistema Minions de Apple (Apple, AI-generated)"
               },
               {
                 "t": "p",
-                "x": "El Movement Lab de la Stanford University combinó un robot de Unitree con GPT-6 Astra y le encargó limpiar una cocina que nunca había visto; el robot logró “ordenar toda la habitación y recuperar un objeto recordado a partir de una petición poco precisa, sin datos de entrenamiento específicos del entorno ni aprendizaje adicional de políticas”. GPT-6 Astra obtuvo un 92,7% en ScreenSpot-Pro, frente al 76,9% de GPT-5.6 Sol."
+                "x": "Según el artículo, Minions no requiere nuevas solicitudes de GPU y reduce a cero el coste de infraestructura, sin contar la electricidad ni el desgaste del hardware. La participación es informal: los miembros de un equipo pueden enviar mensajes de Slack pidiendo a otros que ejecuten el executor. A los equipos les preocupa que sus datos se procesen en dispositivos ajenos a su grupo, algo que Apple mitiga con despliegues limitados al equipo y a la organización. Los autores planean ampliar Minions al entrenamiento de modelos y dicen que los Macs inactivos \"de toda la comunidad global\" podrían formar algún día una reserva compartida de GPU. Por ahora solo funciona dentro de Apple."
               }
             ]
           }
@@ -1561,195 +1291,195 @@
       }
     },
     {
-      "id": "gadgets-ultrahuman-uae-bioage",
+      "id": "gadgets-hmd-flip-companion",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ultrahuman\nUAE에 생체나이 모델",
-      "body": "Ultrahuman과 Abu Dhabi가 2년간 생체 나이 모델을 연구·검증한다.",
-      "mini_headline": "Ultrahuman의 UAE 생체 나이 모델",
+      "headline": "HMD 기본 폴더폰에\n유료 AI 말벗 탑재",
+      "body": "HMD 2660 Flip의 AI 말벗은 다섯 시간 체험 뒤 월 구독으로 바뀐다.",
+      "mini_headline": "HMD 폴더폰에 AI 친구",
       "tool": "Gadgets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-      "accent": "#eb367f",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html",
+      "accent": "#f5a623",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-            "cap": "Ultrahuman Ring AIR"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+            "cap": "HMD 2660 Flip Senior Edition이 발표됐다"
           },
           {
             "t": "p",
-            "x": "스마트 링으로 잘 알려진 Bengaluru 기반 헬스테크 스타트업 Ultrahuman이 Abu Dhabi 공중보건센터(ADPHC)와 2년짜리 양해각서를 맺고 생체 나이 모델을 개발·검증한다. 회사는 이 모델을 결국 아랍에미리트(UAE) 전역의 사람들이 쓸 수 있게 하겠다고 밝혔다."
+            "x": "HMD가 노년층용 피처폰 HMD 2660 Flip Senior Edition을 내놨다. 가장 눈에 띄는 기능은 inTouch의 AI-powered 말벗 Mary다. HMD는 2026년 삼월 inTouch와 손잡았다. Mary는 폰에 내장돼 있어 따로 앱을 깔 필요가 없다."
           },
           {
             "t": "p",
-            "x": "이 모델은 임상 바이오마커와 웨어러블 기기 데이터를 결합해 개인의 노화 속도를 추정하고 수면·활동·심혈관 건강·대사 등 노화를 앞당기거나 늦출 수 있는 요인을 찾아낸다. 특정 웨어러블에 묶이지 않게 설계됐다. 사람들은 앞으로 TAMM과 Sahatna 같은 플랫폼에서 자신의 건강 나이를 확인하게 된다."
+            "x": "Mary는 역사와 자연부터 개인적인 경험까지 여러 주제로 대화하고, 이야기를 들려주고, 기억력 게임을 하며, 이전 대화도 기억한다. 말은 천천히 하고 쉬운 단어를 쓰며, 긴 침묵도 기다려 준다. 메뉴에서 Mary를 열고 통화 버튼만 누르면 된다."
           },
           {
             "t": "p",
-            "x": "Ultrahuman과 ADPHC는 앞으로 2년간 연구와 임상 검증을 진행한다. CEO Mohit Kumar는 본격 출시를 단계적으로 진행하겠다면서도 일정은 밝히지 않았다. 이 스타트업이 전 세계에 판 스마트 링은 약 80만 개다."
+            "x": "함정이 있다. 이 폰으로 Mary와 무료로 대화할 수 있는 시간은 다섯 시간뿐이다. 그 뒤에도 쓰려면 매달 €19.90를 내야 하고, 통신사 요금이 붙을 수도 있다. 구독은 자동 갱신되지 않고, 구독하지 않아도 폰은 그대로 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Kumar는 이 모델을 UAE 데이터로 학습시키지 않는다고 강조했다. 그는 “UAE 데이터에는 알고리즘을 배포할 것”이라며 Ultrahuman은 개인 식별 정보에 접근할 수 없다고 덧붙였다."
+            "x": "하드웨어는 일반 2660 Flip과 똑같다. 2.8-inch QVGA 메인 디스플레이, 1.77-inch 외부 화면, Unisoc T107, 교체형 1,450 mAh 배터리, IP54, S30+ 플랫폼을 갖췄다. HMD의 UK 온라인 스토어에서 Cosy Black 색상을 £79.99에 판다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ultrahuman to roll out a\nbiological age model in UAE",
-          "body": "Ultrahuman and Abu Dhabi will spend two years researching and clinically validating a biological age model.",
-          "mini_headline": "Ultrahuman’s UAE age model",
+          "headline": "HMD puts a paid AI companion\non a basic flip phone",
+          "body": "HMD's 2660 Flip adds an AI companion for elderly users that becomes a monthly subscription after a five-hour trial.",
+          "mini_headline": "HMD's flip phone gets an AI friend",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-                "cap": "Ultrahuman Ring AIR"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+                "cap": "The HMD 2660 Flip Senior Edition has been announced"
               },
               {
                 "t": "p",
-                "x": "Ultrahuman, a Bengaluru-based health tech startup best known for its smart rings, has signed a two-year memorandum of understanding with the Abu Dhabi Public Health Center (ADPHC) to develop and validate a biological-age model that it says will eventually be made available to people across the United Arab Emirates."
+                "x": "HMD has introduced the HMD 2660 Flip Senior Edition, a feature phone for elderly users whose standout feature is Mary, an AI-powered companion from inTouch, which HMD partnered with in March 2026. It is built into the phone, so no extra app is needed."
               },
               {
                 "t": "p",
-                "x": "The model will combine clinical biomarkers with data from wearable devices to estimate how quickly an individual is aging and identify factors — including sleep, activity, cardiovascular health, and metabolism — that may be accelerating or slowing that process. It is designed to be wearable-agnostic, and people will eventually access their health age through platforms including TAMM and Sahatna."
+                "x": "Mary can discuss topics from history and nature to personal experiences, tell stories, play memory games and remember details from previous conversations. It speaks slowly, accommodates longer pauses and uses simple language; users open it from the menu and press the call button."
               },
               {
                 "t": "p",
-                "x": "Ultrahuman and ADPHC will spend the next two years on research and clinical validation; CEO Mohit Kumar said the broader rollout will happen in phases but gave no timeline. The startup has sold around 800,000 smart rings globally."
+                "x": "The catch: the phone includes just five hours of complimentary conversations with Mary. After that, users must pay €19.90 every month to keep using it, and operator charges may apply. The subscription doesn't renew automatically, and the phone works even without it."
               },
               {
                 "t": "p",
-                "x": "Kumar stressed the model will not be trained on data from the UAE. “We will deploy an algorithm on the UAE data,” he said, adding that Ultrahuman will not have access to personally identifiable information."
+                "x": "Hardware matches the regular 2660 Flip: a 2.8-inch QVGA main display, a 1.77-inch external screen, Unisoc T107, a removable 1,450 mAh battery, IP54 and S30+. It is available through HMD's UK storefront for £79.99 in Cosy Black."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ultrahuman\nUAE에 생체나이 모델",
-          "body": "Ultrahuman과 Abu Dhabi가 2년간 생체 나이 모델을 연구·검증한다.",
-          "mini_headline": "Ultrahuman의 UAE 생체 나이 모델",
+          "headline": "HMD 기본 폴더폰에\n유료 AI 말벗 탑재",
+          "body": "HMD 2660 Flip의 AI 말벗은 다섯 시간 체험 뒤 월 구독으로 바뀐다.",
+          "mini_headline": "HMD 폴더폰에 AI 친구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-                "cap": "Ultrahuman Ring AIR"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+                "cap": "HMD 2660 Flip Senior Edition이 발표됐다"
               },
               {
                 "t": "p",
-                "x": "스마트 링으로 잘 알려진 Bengaluru 기반 헬스테크 스타트업 Ultrahuman이 Abu Dhabi 공중보건센터(ADPHC)와 2년짜리 양해각서를 맺고 생체 나이 모델을 개발·검증한다. 회사는 이 모델을 결국 아랍에미리트(UAE) 전역의 사람들이 쓸 수 있게 하겠다고 밝혔다."
+                "x": "HMD가 노년층용 피처폰 HMD 2660 Flip Senior Edition을 내놨다. 가장 눈에 띄는 기능은 inTouch의 AI-powered 말벗 Mary다. HMD는 2026년 삼월 inTouch와 손잡았다. Mary는 폰에 내장돼 있어 따로 앱을 깔 필요가 없다."
               },
               {
                 "t": "p",
-                "x": "이 모델은 임상 바이오마커와 웨어러블 기기 데이터를 결합해 개인의 노화 속도를 추정하고 수면·활동·심혈관 건강·대사 등 노화를 앞당기거나 늦출 수 있는 요인을 찾아낸다. 특정 웨어러블에 묶이지 않게 설계됐다. 사람들은 앞으로 TAMM과 Sahatna 같은 플랫폼에서 자신의 건강 나이를 확인하게 된다."
+                "x": "Mary는 역사와 자연부터 개인적인 경험까지 여러 주제로 대화하고, 이야기를 들려주고, 기억력 게임을 하며, 이전 대화도 기억한다. 말은 천천히 하고 쉬운 단어를 쓰며, 긴 침묵도 기다려 준다. 메뉴에서 Mary를 열고 통화 버튼만 누르면 된다."
               },
               {
                 "t": "p",
-                "x": "Ultrahuman과 ADPHC는 앞으로 2년간 연구와 임상 검증을 진행한다. CEO Mohit Kumar는 본격 출시를 단계적으로 진행하겠다면서도 일정은 밝히지 않았다. 이 스타트업이 전 세계에 판 스마트 링은 약 80만 개다."
+                "x": "함정이 있다. 이 폰으로 Mary와 무료로 대화할 수 있는 시간은 다섯 시간뿐이다. 그 뒤에도 쓰려면 매달 €19.90를 내야 하고, 통신사 요금이 붙을 수도 있다. 구독은 자동 갱신되지 않고, 구독하지 않아도 폰은 그대로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Kumar는 이 모델을 UAE 데이터로 학습시키지 않는다고 강조했다. 그는 “UAE 데이터에는 알고리즘을 배포할 것”이라며 Ultrahuman은 개인 식별 정보에 접근할 수 없다고 덧붙였다."
+                "x": "하드웨어는 일반 2660 Flip과 똑같다. 2.8-inch QVGA 메인 디스플레이, 1.77-inch 외부 화면, Unisoc T107, 교체형 1,450 mAh 배터리, IP54, S30+ 플랫폼을 갖췄다. HMD의 UK 온라인 스토어에서 Cosy Black 색상을 £79.99에 판다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ultrahuman\nUAEで生体年齢モデル展開",
-          "body": "UltrahumanとAbu Dhabiは2年かけて生体年齢モデルを研究し臨床検証する。",
-          "mini_headline": "UltrahumanのUAE年齢モデル",
+          "headline": "HMDのガラケーに\n有料のAIコンパニオン",
+          "body": "HMDの2660 Flipは高齢者向けAIコンパニオンを搭載、五時間の試用後は月額制だ。",
+          "mini_headline": "HMDのガラケーにAIの友達",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-                "cap": "Ultrahuman Ring AIR"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+                "cap": "HMD 2660 Flip Senior Editionが発表された"
               },
               {
                 "t": "p",
-                "x": "スマートリングで知られるBengaluru拠点のヘルステック新興企業Ultrahumanは、Abu Dhabi公衆衛生センター(ADPHC)と2年間の覚書を締結し、生物学的年齢モデルを開発・検証する。同社によれば、このモデルは最終的にアラブ首長国連邦(UAE)全域の人々が利用できるようになるという。"
+                "x": "HMDは高齢者向けのフィーチャーフォン「HMD 2660 Flip Senior Edition」を発表した。目玉は、HMDが2026年三月に提携したinTouchによるAI-poweredのコンパニオン「Mary」だ。端末に組み込まれているため、追加のアプリは必要ない。"
               },
               {
                 "t": "p",
-                "x": "このモデルは臨床バイオマーカーとウェアラブル端末のデータを組み合わせ、個人の老化の速さを推定するとともに、睡眠、活動、心血管の健康、代謝など、老化を早めたり遅らせたりしうる要因を特定する。特定のウェアラブルに依存しない設計で、人々は将来TAMMやSahatnaなどのプラットフォームを通じて自分の健康年齢を確認できるようになる。"
+                "x": "Maryは歴史や自然から個人的な体験まで幅広い話題で会話し、物語を語り、記憶ゲームで遊び、以前の会話の内容を覚えている。ゆっくり話し、長い間も待ち、平易な言葉を使う。利用者はメニューから開いて通話ボタンを押すだけだ。"
               },
               {
                 "t": "p",
-                "x": "UltrahumanとADPHCは今後2年間を研究と臨床検証に充てる。CEOのMohit Kumar氏は、本格展開は段階的に進むと述べたが、時期は示さなかった。同社はこれまでに世界で約80万個のスマートリングを販売している。"
+                "x": "ただし落とし穴がある。Maryとの無料会話は五時間分しか付いていない。その後も使い続けるには毎月€19.90を支払う必要があり、通信事業者の料金がかかる場合もある。サブスクリプションは自動更新されず、契約しなくても電話は使える。"
               },
               {
                 "t": "p",
-                "x": "Kumar氏は、モデルの学習にUAEのデータは使わないと強調した。「UAEのデータに対してアルゴリズムを展開する」と述べ、Ultrahumanが個人を特定できる情報にアクセスすることはないと付け加えた。"
+                "x": "ハードウェアは通常の2660 Flipと同じで、2.8-inchのQVGAメインディスプレイ、1.77-inchの外部画面、Unisoc T107、取り外し可能な1,450 mAhバッテリー、IP54、S30+ を備える。HMDのUKオンラインストアで、カラーはCosy Black、価格は£79.99で販売されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ultrahuman在UAE\n推出生物年龄模型",
-          "body": "Ultrahuman与Abu Dhabi将用两年时间研究并临床验证生物年龄模型。",
-          "mini_headline": "Ultrahuman的UAE年龄模型",
+          "headline": "HMD基础翻盖机\n搭载付费AI陪伴",
+          "body": "HMD 2660 Flip为老年用户加入AI陪伴功能，五小时试用后转为按月订阅。",
+          "mini_headline": "HMD翻盖机迎来AI伙伴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-                "cap": "Ultrahuman Ring AIR"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+                "cap": "HMD 2660 Flip Senior Edition正式发布"
               },
               {
                 "t": "p",
-                "x": "以智能戒指闻名的Bengaluru健康科技初创公司Ultrahuman已与Abu Dhabi公共卫生中心（ADPHC）签署为期两年的谅解备忘录，开发并验证一款生物年龄模型。该公司表示，这一模型最终将向阿拉伯联合酋长国（UAE）各地民众开放。"
+                "x": "HMD推出了面向老年用户的功能机HMD 2660 Flip Senior Edition，其最大亮点是来自inTouch的AI-powered陪伴助手Mary，HMD于2026年三月与inTouch达成合作。Mary内置于手机中，无需额外安装应用。"
               },
               {
                 "t": "p",
-                "x": "该模型将结合临床生物标志物和可穿戴设备数据，估算个人的衰老速度，并找出可能加速或减缓衰老的因素，包括睡眠、活动、心血管健康和新陈代谢。它的设计不依赖特定可穿戴设备，民众今后可通过TAMM和Sahatna等平台查看自己的健康年龄。"
+                "x": "Mary可以聊从历史、自然到个人经历的各种话题，会讲故事、玩记忆游戏，还能记住之前对话中的细节。它语速缓慢，能容忍较长的停顿，并使用简单的语言；用户从菜单中打开它并按下通话键即可。"
               },
               {
                 "t": "p",
-                "x": "Ultrahuman和ADPHC将在未来两年开展研究和临床验证；CEO Mohit Kumar表示，更大范围的推广将分阶段进行，但未给出时间表。这家初创公司已在全球售出约80万枚智能戒指。"
+                "x": "问题在于：手机只附带五小时与Mary的免费对话。此后，用户每月须支付€19.90才能继续使用，还可能产生运营商费用。订阅不会自动续费，即使不订阅，手机也能正常使用。"
               },
               {
                 "t": "p",
-                "x": "Kumar强调，该模型不会使用UAE的数据进行训练。他说：“我们会在UAE数据上部署算法。”他还补充说，Ultrahuman无法获取个人身份信息。"
+                "x": "硬件与普通版2660 Flip相同：2.8-inch QVGA主屏、1.77-inch外屏、Unisoc T107、可拆卸的1,450 mAh电池、IP54以及S30+ 系统。该机通过HMD的UK官方商店发售，售价£79.99，配色为Cosy Black。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ultrahuman lanzará en UAE\nun modelo de edad biológica",
-          "body": "Ultrahuman y Abu Dhabi dedicarán dos años a investigar y validar clínicamente un modelo de edad biológica.",
-          "mini_headline": "El modelo de edad de Ultrahuman en UAE",
+          "headline": "HMD suma un compañero de AI\nde pago a un plegable básico",
+          "body": "El 2660 Flip de HMD suma un compañero de AI para mayores que pasa a cuota mensual tras una prueba de cinco horas.",
+          "mini_headline": "Un amigo AI en el plegable de HMD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-                "cap": "Ultrahuman Ring AIR"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+                "cap": "Se ha anunciado el HMD 2660 Flip Senior Edition"
               },
               {
                 "t": "p",
-                "x": "Ultrahuman, una startup de tecnología sanitaria con sede en Bengaluru conocida sobre todo por sus anillos inteligentes, ha firmado un memorando de entendimiento de dos años con el Centro de Salud Pública de Abu Dhabi (ADPHC) para desarrollar y validar un modelo de edad biológica que, según la empresa, acabará estando disponible para la población de todos los Emiratos Árabes Unidos (UAE)."
+                "x": "HMD ha presentado el HMD 2660 Flip Senior Edition, un teléfono básico para personas mayores cuya función más destacada es Mary, un compañero AI-powered de inTouch, empresa con la que HMD se asoció en marzo de 2026. Viene integrado en el teléfono, así que no hace falta ninguna app adicional."
               },
               {
                 "t": "p",
-                "x": "El modelo combinará biomarcadores clínicos con datos de dispositivos ponibles para estimar a qué ritmo envejece una persona e identificar factores —entre ellos el sueño, la actividad, la salud cardiovascular y el metabolismo— que pueden acelerar o ralentizar ese proceso. Está diseñado para funcionar con cualquier wearable, y con el tiempo las personas podrán consultar su edad de salud a través de plataformas como TAMM y Sahatna."
+                "x": "Mary puede conversar sobre temas que van de la historia y la naturaleza a las experiencias personales, contar historias, jugar a juegos de memoria y recordar detalles de conversaciones anteriores. Habla despacio, tolera pausas largas y usa un lenguaje sencillo; los usuarios lo abren desde el menú y pulsan el botón de llamada."
               },
               {
                 "t": "p",
-                "x": "Ultrahuman y ADPHC dedicarán los próximos dos años a la investigación y la validación clínica; el CEO, Mohit Kumar, dijo que el despliegue más amplio se hará por fases, pero no dio plazos. La startup ha vendido unos 800.000 anillos inteligentes en todo el mundo."
+                "x": "La pega: el teléfono incluye solo cinco horas de conversación gratuita con Mary. Después, hay que pagar €19.90 al mes para seguir usándolo, y pueden aplicarse cargos del operador. La suscripción no se renueva automáticamente y el teléfono funciona incluso sin ella."
               },
               {
                 "t": "p",
-                "x": "Kumar subrayó que el modelo no se entrenará con datos de UAE. “Desplegaremos un algoritmo sobre los datos de UAE”, dijo, y añadió que Ultrahuman no tendrá acceso a información de identificación personal."
+                "x": "El hardware es el mismo que el del 2660 Flip normal: pantalla principal QVGA de 2.8-inch, pantalla externa de 1.77-inch, Unisoc T107, batería extraíble de 1,450 mAh, IP54 y S30+. Está disponible en la tienda de HMD en UK por £79.99 en color Cosy Black."
               }
             ]
           }
@@ -1757,125 +1487,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ultrahuman\nUAE에 생체나이 모델",
-          "body": "Ultrahuman과 Abu Dhabi가 2년간 생체 나이 모델을 연구·검증한다.",
-          "mini_headline": "Ultrahuman의 UAE 생체 나이 모델",
+          "headline": "HMD 기본 폴더폰에\n유료 AI 말벗 탑재",
+          "body": "HMD 2660 Flip의 AI 말벗은 다섯 시간 체험 뒤 월 구독으로 바뀐다.",
+          "mini_headline": "HMD 폴더폰에 AI 친구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-                "cap": "Ultrahuman Ring AIR"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+                "cap": "HMD 2660 Flip Senior Edition이 발표됐다"
               },
               {
                 "t": "p",
-                "x": "스마트 링으로 잘 알려진 Bengaluru 기반 헬스테크 스타트업 Ultrahuman이 Abu Dhabi 공중보건센터(ADPHC)와 2년 기간의 양해각서를 맺고 생체 나이 모델을 개발·검증한다. 회사는 이 모델을 결국 아랍에미리트(UAE) 전역의 사람들이 이용할 수 있게 하겠다고 밝혔다."
+                "x": "HMD가 노년층을 위한 피처폰 HMD 2660 Flip Senior Edition을 내놨다. 가장 눈에 띄는 기능은 inTouch의 AI-powered 말벗 Mary로, HMD는 2026년 삼월 inTouch와 제휴했다. Mary는 폰에 내장돼 있어 별도 앱이 필요 없다."
               },
               {
                 "t": "p",
-                "x": "이 모델은 임상 바이오마커와 웨어러블 기기 데이터를 결합해 개인의 노화 속도를 추정하고, 수면·활동·심혈관 건강·대사 등 노화를 앞당기거나 늦출 수 있는 요인을 찾아낸다. 특정 웨어러블에 묶이지 않도록 설계됐으며, 사람들은 앞으로 TAMM과 Sahatna 같은 플랫폼에서 자신의 건강 나이를 확인할 수 있다."
+                "x": "Mary는 역사와 자연부터 개인적인 경험까지 여러 주제로 대화하고, 이야기를 들려주고, 기억력 게임을 하며, 이전 대화 내용을 기억한다. 천천히 말하고 긴 침묵도 기다려 주며 쉬운 말을 쓴다. 사용자는 메뉴에서 Mary를 열고 통화 버튼을 누르면 된다."
               },
               {
                 "t": "p",
-                "x": "Ultrahuman과 ADPHC는 앞으로 2년간 연구와 임상 검증을 진행한다. CEO Mohit Kumar는 본격적인 출시가 단계적으로 이뤄질 것이라면서도 일정은 밝히지 않았다. 이 스타트업은 전 세계에서 스마트 링을 약 80만 개 판매했다."
+                "x": "함정이 있다. 이 폰에는 Mary와의 무료 대화가 다섯 시간만 포함돼 있다. 그 뒤로도 쓰려면 매달 €19.90를 내야 하고, 통신사 요금이 붙을 수 있다. 구독은 자동 갱신되지 않으며, 구독하지 않아도 폰은 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Kumar는 이 모델을 UAE 데이터로 학습시키지 않는다고 강조했다. 그는 “UAE 데이터에는 알고리즘을 배포할 것”이라며, Ultrahuman은 개인 식별 정보에 접근할 수 없다고 덧붙였다."
+                "x": "하드웨어는 일반 2660 Flip과 같다. 2.8-inch QVGA 메인 디스플레이, 1.77-inch 외부 화면, Unisoc T107, 교체형 1,450 mAh 배터리, IP54, S30+ 플랫폼을 갖췄다. HMD의 UK 온라인 스토어에서 Cosy Black 색상으로 £79.99에 판매한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ultrahuman\nUAEで生体年齢モデル展開",
-          "body": "UltrahumanとAbu Dhabiは2年かけて生体年齢モデルを研究し臨床検証する。",
-          "mini_headline": "UltrahumanのUAE年齢モデル",
+          "headline": "HMDのガラケーに\n有料のAIコンパニオン",
+          "body": "HMDの2660 Flipは高齢者向けAIコンパニオンを搭載、五時間の試用後は月額制だ。",
+          "mini_headline": "HMDのガラケーにAIの友達",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-                "cap": "Ultrahuman Ring AIR"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+                "cap": "HMD 2660 Flip Senior Editionが発表された"
               },
               {
                 "t": "p",
-                "x": "スマートリングで知られるBengaluru拠点のヘルステック新興企業Ultrahumanは、Abu Dhabi公衆衛生センター(ADPHC)と2年間の覚書を締結し、生物学的年齢モデルを開発・検証する。同社によれば、このモデルは最終的にアラブ首長国連邦(UAE)全域の人々が利用できるようになるという。"
+                "x": "HMDは高齢者向けのフィーチャーフォン「HMD 2660 Flip Senior Edition」を発表した。目玉は、HMDが2026年三月に提携したinTouchによるAI-poweredのコンパニオン「Mary」だ。端末に組み込まれているため、追加のアプリは必要ない。"
               },
               {
                 "t": "p",
-                "x": "このモデルは臨床バイオマーカーとウェアラブル端末のデータを組み合わせ、個人の老化の速さを推定するとともに、睡眠、活動、心血管の健康、代謝など、老化を早めたり遅らせたりしうる要因を特定する。特定のウェアラブルに依存しない設計で、人々は将来TAMMやSahatnaなどのプラットフォームを通じて自分の健康年齢を確認できるようになる。"
+                "x": "Maryは歴史や自然から個人的な体験まで幅広い話題で会話し、物語を語り、記憶ゲームで遊び、以前の会話の内容を覚えている。ゆっくり話し、長い間も待ち、平易な言葉を使う。利用者はメニューから開いて通話ボタンを押すだけだ。"
               },
               {
                 "t": "p",
-                "x": "UltrahumanとADPHCは今後2年間を研究と臨床検証に充てる。CEOのMohit Kumar氏は、本格展開は段階的に進むと述べたが、時期は示さなかった。同社はこれまでに世界で約80万個のスマートリングを販売している。"
+                "x": "ただし落とし穴がある。Maryとの無料会話は五時間分しか付いていない。その後も使い続けるには毎月€19.90を支払う必要があり、通信事業者の料金がかかる場合もある。サブスクリプションは自動更新されず、契約しなくても電話は使える。"
               },
               {
                 "t": "p",
-                "x": "Kumar氏は、モデルの学習にUAEのデータは使わないと強調した。「UAEのデータに対してアルゴリズムを展開する」と述べ、Ultrahumanが個人を特定できる情報にアクセスすることはないと付け加えた。"
+                "x": "ハードウェアは通常の2660 Flipと同じで、2.8-inchのQVGAメインディスプレイ、1.77-inchの外部画面、Unisoc T107、取り外し可能な1,450 mAhバッテリー、IP54、S30+ を備える。HMDのUKオンラインストアで、カラーはCosy Black、価格は£79.99で販売されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ultrahuman在UAE\n推出生物年龄模型",
-          "body": "Ultrahuman与Abu Dhabi将用两年时间研究并临床验证生物年龄模型。",
-          "mini_headline": "Ultrahuman的UAE年龄模型",
+          "headline": "HMD基础翻盖机\n搭载付费AI陪伴",
+          "body": "HMD 2660 Flip为老年用户加入AI陪伴功能，五小时试用后转为按月订阅。",
+          "mini_headline": "HMD翻盖机迎来AI伙伴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-                "cap": "Ultrahuman Ring AIR"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+                "cap": "HMD 2660 Flip Senior Edition正式发布"
               },
               {
                 "t": "p",
-                "x": "以智能戒指闻名的Bengaluru健康科技初创公司Ultrahuman已与Abu Dhabi公共卫生中心（ADPHC）签署为期两年的谅解备忘录，开发并验证一款生物年龄模型。该公司表示，这一模型最终将向阿拉伯联合酋长国（UAE）各地民众开放。"
+                "x": "HMD推出了面向老年用户的功能机HMD 2660 Flip Senior Edition，其最大亮点是来自inTouch的AI-powered陪伴助手Mary，HMD于2026年三月与inTouch达成合作。Mary内置于手机中，无需额外安装应用。"
               },
               {
                 "t": "p",
-                "x": "该模型将结合临床生物标志物和可穿戴设备数据，估算个人的衰老速度，并找出可能加速或减缓衰老的因素，包括睡眠、活动、心血管健康和新陈代谢。它的设计不依赖特定可穿戴设备，民众今后可通过TAMM和Sahatna等平台查看自己的健康年龄。"
+                "x": "Mary可以聊从历史、自然到个人经历的各种话题，会讲故事、玩记忆游戏，还能记住之前对话中的细节。它语速缓慢，能容忍较长的停顿，并使用简单的语言；用户从菜单中打开它并按下通话键即可。"
               },
               {
                 "t": "p",
-                "x": "Ultrahuman和ADPHC将在未来两年开展研究和临床验证；CEO Mohit Kumar表示，更大范围的推广将分阶段进行，但未给出时间表。这家初创公司已在全球售出约80万枚智能戒指。"
+                "x": "问题在于：手机只附带五小时与Mary的免费对话。此后，用户每月须支付€19.90才能继续使用，还可能产生运营商费用。订阅不会自动续费，即使不订阅，手机也能正常使用。"
               },
               {
                 "t": "p",
-                "x": "Kumar强调，该模型不会使用UAE的数据进行训练。他说：“我们会在UAE数据上部署算法。”他还补充说，Ultrahuman无法获取个人身份信息。"
+                "x": "硬件与普通版2660 Flip相同：2.8-inch QVGA主屏、1.77-inch外屏、Unisoc T107、可拆卸的1,450 mAh电池、IP54以及S30+ 系统。该机通过HMD的UK官方商店发售，售价£79.99，配色为Cosy Black。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ultrahuman lanzará en UAE\nun modelo de edad biológica",
-          "body": "Ultrahuman y Abu Dhabi dedicarán dos años a investigar y validar clínicamente un modelo de edad biológica.",
-          "mini_headline": "El modelo de edad de Ultrahuman en UAE",
+          "headline": "HMD suma un compañero de AI\nde pago a un plegable básico",
+          "body": "El 2660 Flip de HMD suma un compañero de AI para mayores que pasa a cuota mensual tras una prueba de cinco horas.",
+          "mini_headline": "Un amigo AI en el plegable de HMD",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?w=1024",
-                "cap": "Ultrahuman Ring AIR"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+                "cap": "Se ha anunciado el HMD 2660 Flip Senior Edition"
               },
               {
                 "t": "p",
-                "x": "Ultrahuman, una startup de tecnología sanitaria con sede en Bengaluru conocida sobre todo por sus anillos inteligentes, ha firmado un memorando de entendimiento de dos años con el Centro de Salud Pública de Abu Dhabi (ADPHC) para desarrollar y validar un modelo de edad biológica que, según la empresa, acabará estando disponible para la población de todos los Emiratos Árabes Unidos (UAE)."
+                "x": "HMD ha presentado el HMD 2660 Flip Senior Edition, un teléfono básico para personas mayores cuya función más destacada es Mary, un compañero AI-powered de inTouch, empresa con la que HMD se asoció en marzo de 2026. Viene integrado en el teléfono, así que no hace falta ninguna app adicional."
               },
               {
                 "t": "p",
-                "x": "El modelo combinará biomarcadores clínicos con datos de dispositivos ponibles para estimar a qué ritmo envejece una persona e identificar factores —entre ellos el sueño, la actividad, la salud cardiovascular y el metabolismo— que pueden acelerar o ralentizar ese proceso. Está diseñado para funcionar con cualquier wearable, y con el tiempo las personas podrán consultar su edad de salud a través de plataformas como TAMM y Sahatna."
+                "x": "Mary puede conversar sobre temas que van de la historia y la naturaleza a las experiencias personales, contar historias, jugar a juegos de memoria y recordar detalles de conversaciones anteriores. Habla despacio, tolera pausas largas y usa un lenguaje sencillo; los usuarios lo abren desde el menú y pulsan el botón de llamada."
               },
               {
                 "t": "p",
-                "x": "Ultrahuman y ADPHC dedicarán los próximos dos años a la investigación y la validación clínica; el CEO, Mohit Kumar, dijo que el despliegue más amplio se hará por fases, pero no dio plazos. La startup ha vendido unos 800.000 anillos inteligentes en todo el mundo."
+                "x": "La pega: el teléfono incluye solo cinco horas de conversación gratuita con Mary. Después, hay que pagar €19.90 al mes para seguir usándolo, y pueden aplicarse cargos del operador. La suscripción no se renueva automáticamente y el teléfono funciona incluso sin ella."
               },
               {
                 "t": "p",
-                "x": "Kumar subrayó que el modelo no se entrenará con datos de UAE. “Desplegaremos un algoritmo sobre los datos de UAE”, dijo, y añadió que Ultrahuman no tendrá acceso a información de identificación personal."
+                "x": "El hardware es el mismo que el del 2660 Flip normal: pantalla principal QVGA de 2.8-inch, pantalla externa de 1.77-inch, Unisoc T107, batería extraíble de 1,450 mAh, IP54 y S30+. Está disponible en la tienda de HMD en UK por £79.99 en color Cosy Black."
               }
             ]
           }

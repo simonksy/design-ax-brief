@@ -6030,6 +6030,142 @@
           "x": "作为回应，该奖项正启动其所称的“以人为本的流程”（human-centred process），起因是这位津巴布韦得主被指使用AI。"
         }
       ]
+    },
+    "books/books-soa-ai-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+          "cap": "Anna Ganley"
+        },
+        {
+          "t": "p",
+          "x": "Society of Authors于10月13日在伦敦举行的Creators Emergency Summit上发布了一份全球性的AI伦理宪章，旨在“界定生成式AI服务应如何部署，以帮助保护和支持人类创作者”。"
+        },
+        {
+          "t": "p",
+          "x": "据The Bookseller报道，全球创意机构正“在政府政策真空中”推出这份宪章。全文仅供注册读者阅读。"
+        }
+      ]
+    },
+    "books/books-japan-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI驱动的翻译日益普及，导致日本翻译公司的销售额下滑。"
+        },
+        {
+          "t": "p",
+          "x": "Tokyo Shōkō Research调查了100家可连续五个财年比较业绩的日本翻译公司。2025财年，这些公司的销售额合计为¥39.3B ，净利润合计为¥920M 。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+        },
+        {
+          "t": "p",
+          "x": "2022财年销售额和利润分别达到¥43.5B 和¥3.1B 的峰值，与之相比，2025财年销售额下降9.7%，利润下降70.7%。在受调查的100家公司中，32家销售额增长、35家利润增长，50家销售额下降、47家利润下降。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+        },
+        {
+          "t": "p",
+          "x": "Tokyo Shōkō Research分析称：“机器翻译进步神速，简单文本如今已可免费翻译。随着获取翻译越来越容易，价格竞争正在加剧。”"
+        },
+        {
+          "t": "p",
+          "x": "与此同时，全球AI-assisted翻译市场预计将迅速扩张。QY Research预测其将从2025年的$2.6B 增长到2032年的$4.2B ；Business Research Insights则预计将从2025年的$4.4B 增至2035年的$5.7B 。"
+        },
+        {
+          "t": "p",
+          "x": "翻译行业的生存关键，或许在于译者能否借助AI提高general-purpose（通用）翻译的效率，同时在AI准确度较低的专业领域或需要人类创造力的领域找到立足之地。"
+        }
+      ]
+    },
+    "books/books-multivoice-audiobook": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Allan Tépper最近制作了他的第一部包含真实对白的有声书：需要六种不同的声音，分别演绎旁白和另外五个角色，是一部six-voice作品。委托方兼作者（client-author）连雇用一名真人配音演员的预算都没有，更不用说六名，因此用ElevenLabs的Pro方案克隆了这些声音。“人类专业配音演员与克隆专业配音之间的差距依然存在，但已比以往任何时候都小。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+          "cap": "所有有声书封面都必须是正方形。"
+        },
+        {
+          "t": "p",
+          "x": "这本书是Carmela Doval的童书《El gato que se le coló a Colón》。声音包括：一位使用seseante发音的拉丁美洲女性旁白；西班牙公猫Paquito；它的女友Cloti；Cristóbal Colón；一位未具名的船员发言人；以及船主Rodrigo。Paquito所用的克隆声音效果不错，但有个怪癖：它的卡斯蒂利亚发音会在区分发音与seseante之间来回切换。"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs还会扫描书稿，就不认识的词语或名字询问制作者，提供播放其最佳猜测读音的按钮，以及输入注音拼写的栏位。只有一个名字需要这样处理：Dade。在Tépper输入“deid”之前，它一直读作“Dah-Day”。"
+        }
+      ]
+    },
+    "books/books-lezhin-teaz": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+          "cap": "Lezhin Entertainment将于19日推出AI角色聊天服务“Teaz”。"
+        },
+        {
+          "t": "p",
+          "x": "网漫企业Kidari Studio旗下的Lezhin Entertainment宣布，将于10月19日正式推出AI角色聊天服务“Teaz”，读者可与旗下人气网漫角色直接对话，打造属于自己的故事。"
+        },
+        {
+          "t": "p",
+          "x": "“Teaz”是一款高沉浸度的对话式内容，基于女性向全球平台“Bomtoon”和“Lezhin Comics”的原创网漫IP。用户可以介入原作的特定时间点，成为其中一个角色，也可以从第3方视角进入世界观，引导对话展开。"
+        },
+        {
+          "t": "p",
+          "x": "其最大的差异化特点是“关系型对话”。角色的反应和关系走向会根据用户对话的内容和语境而发生多样变化。服务还为读者设置了随剧情推进收集道具、解锁作者亲笔隐藏插画等元素。"
+        },
+        {
+          "t": "p",
+          "x": "“Teaz”只使用权利关系明确的正式签约IP，对话在原作者批准的官方设定范围内进行。上线后，公司计划逐步引入讲述与原作完全不同世界观的“AU（Alternative Universe，平行世界）”模式和“文字RPG”模式等。"
+        },
+        {
+          "t": "p",
+          "x": "母公司Kidari Studio 2026年上半年合并营收1,228亿韩元，营业利润90亿韩元，营收同比增长23%，营业利润同比增长275%。公司相关人士表示：“‘Teaz’将立体地拓展原作IP的世界观，成为公司新的未来增长引擎。”"
+        }
+      ]
+    },
+    "books/books-nippan-anthropic-sales": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+          "cap": "U.S.法院文件中的照片：疑似存放大量收集书籍的仓库内部"
+        },
+        {
+          "t": "p",
+          "x": "大型图书经销商Nippan Group Holdings, Inc.旗下一家子公司在未通知出版社的情况下，向U.S.人工智能开发商Anthropic PBC出售了日本图书。据出版业人士透露，日本书籍出版协会就此事进行询问，并收到Nippan确认相关销售的答复。"
+        },
+        {
+          "t": "p",
+          "x": "据信Anthropic一直在推进一项大规模扫描图书用于AI训练的项目，其中可能包括日本图书。法院文件显示，Anthropic曾从欧洲、美国和亚洲的经销商处大量购书，其中就有一家名为“Nippan Japan”的公司。"
+        },
+        {
+          "t": "img",
+          "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+        },
+        {
+          "t": "p",
+          "x": "协会要求Nippan停止供应和销售用于AI训练的图书。据报道，Nippan承认了2024年十二月至2025年十二月期间的销售，但声称并不知道这些书是为AI训练而购买的。"
+        },
+        {
+          "t": "p",
+          "x": "日本《著作权法》30-4条规定，只要不会不当损害著作权人的利益，即可未经许可将作品用于AI训练。一位出版业高管表示：“本应守护日本出版文化的Nippan，却做出破坏这一文化的行为，这是不可接受的。”"
+        }
+      ]
     }
   }
 }

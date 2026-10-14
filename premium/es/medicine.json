@@ -847,6 +847,129 @@
           "x": "Los autores señalan que los resultados no demuestran efectos en la búsqueda real de atención, el retraso diagnóstico ni los resultados clínicos."
         }
       ]
+    },
+    "medicine/medicine-brown-fat-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La cuantificación y el análisis de la actividad del tejido adiposo pardo (BAT) mediante inteligencia artificial (Artificial intelligence) revelan vínculos entre el BAT y un perfil metabólico más saludable, junto con menores tasas de enfermedad psiquiátrica."
+        },
+        {
+          "t": "p",
+          "x": "El equipo amplió su cohorte de escáneres 18F-FDG-PET–CT realizados con fines clínicos en el Memorial Sloan Kettering Cancer Center a 101,243 pacientes, 8,897 de ellos BAT positivos, y analizó asociaciones en todos los códigos diagnósticos."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "Un método de aprendizaje automático (TriDFusion) midió de forma semiautomática la actividad metabólica total y por depósito del BAT en 8,709 pacientes. Una mayor actividad del BAT se asoció con una reducción escalonada de diabetes tipo 2, fibrilación auricular, enfermedad coronaria e insuficiencia cardíaca congestiva, incluso tras ajustar por edad, BMI, sexo y temperatura exterior."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "La presencia de BAT también se asoció con una menor prevalencia de ansiedad y depresión. Los análisis de medicamentos vincularon el uso de antagonistas del receptor de angiotensina con la presencia de BAT, y experimentos de prueba de concepto confirmaron que el losartan activa los adipocitos pardos mediante un mecanismo PPARγ-dependent (dependiente de PPARγ), lo que muestra que el enfoque puede identificar fármacos reutilizables para activar el BAT."
+        }
+      ]
+    },
+    "medicine/medicine-bradford-skin-cancer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+          "cap": "La inteligencia artificial analiza en minutos imágenes de lesiones cutáneas sospechosas"
+        },
+        {
+          "t": "p",
+          "x": "El personal de una clínica del NHS que usa inteligencia artificial (AI) para detectar antes el cáncer de piel afirma que la tecnología podría «cambiar las reglas del juego». El equipo de dermatología del St Luke's Hospital de Bradford adoptó el sistema en abril; ahora puede atender a 32 pacientes por sesión, frente a 24 antes."
+        },
+        {
+          "t": "p",
+          "x": "El sistema, DERM (Deep Ensemble for the Recognition of Malignancy), lo fabrica Skin Analytics, que asegura que tiene una precisión del 99.9% para descartar el melanoma. Un asistente sanitario toma tres fotografías de la lesión y el sistema las analiza en minutos; los casos benignos reciben el alta con recomendaciones y los sospechosos se derivan a un especialista."
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+          "cap": "El fideicomiso hospitalario afirmó que la inteligencia artificial ha ayudado al personal a atender un tercio más de pacientes en las consultas"
+        },
+        {
+          "t": "p",
+          "x": "Un clínico revisa de nuevo cada imagen. Las biopsias innecesarias han bajado alrededor de un 10%, según el fideicomiso. El cirujano plástico consultor Zakir Shariff afirmó que ha tenido un «gran impacto» en los tiempos de espera."
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+          "cap": "El cirujano plástico Zakir Shariff afirmó que la AI ha tenido un gran impacto en los tiempos de espera"
+        },
+        {
+          "t": "p",
+          "x": "NICE ha recomendado la tecnología para su uso en el NHS durante los próximos tres años mientras se recopilan pruebas. Está implantada en 40 fideicomisos del NHS, y Bradford fue el primero de Yorkshire en adoptarla."
+        }
+      ]
+    },
+    "medicine/medicine-ehr-ai-transparency": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los investigadores evaluaron el cumplimiento, por parte de los desarrolladores de historias clínicas electrónicas (EHR), de los requisitos federales de transparencia para intervenciones AI-enabled de apoyo a la decisión predictiva. Los desarrolladores deben informar públicamente sobre análisis de riesgos, mitigación, gobernanza y otros ocho atributos."
+        },
+        {
+          "t": "p",
+          "x": "En los 35 desarrolladores, los informes fueron inconsistentes y a menudo incompletos, con una variación sustancial en estructura y detalle; aun así, todos fueron certificados como conformes con los requisitos. Los resultados sugieren la necesidad de informes estandarizados y de una revisión de certificación más rigurosa."
+        }
+      ]
+    },
+    "medicine/medicine-state-ai-lobbying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Influyentes grupos de presión de médicos y hospitales, una aseguradora de salud, empresas tecnológicas y representantes de gobiernos estatales se reunieron a puerta cerrada en Washington, D.C., a principios de octubre para elaborar pautas sobre cómo regular la inteligencia artificial en la práctica médica."
+        },
+        {
+          "t": "p",
+          "x": "Directivos de la American Medical Association, la American Hospital Association, la empresa de AI Anthropic y la aseguradora Elevance Health forman parte de un grupo de trabajo de AI de 22 miembros (22-member) convocado por la Federation of State Medical Boards (FSMB). Sus recomendaciones se someterían a comentarios antes de su adopción formal."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es redactar pautas que ayuden a las juntas médicas locales, con «especial atención … a las herramientas de AI que realizan funciones clínicas con supervisión médica directa limitada o nula», dijo a STAT Humayun Chaudhry, presidente y CEO de la FSMB. Un borrador podría hacerse público en «semanas o meses» y, en última instancia, servir de base para la legislación estatal."
+        },
+        {
+          "t": "p",
+          "x": "La AMA, las juntas médicas y un think tank conservador compiten por controlar cómo se regula la AI clínica autónoma. El resto del artículo es para suscriptores de STAT+."
+        }
+      ]
+    },
+    "medicine/medicine-uk-nhs-ai-commission-blueprint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno confirmó hoy, 6 de octubre de 2026, que aceptará las 44 recomendaciones de la Comisión Nacional sobre la Regulación de la AI en la Atención Sanitaria, publicadas el 10 de septiembre. Junto con la respuesta, la MHRA abre las solicitudes para la tercera fase de AI Airlock, su entorno de pruebas regulatorio para dispositivos médicos AI-enabled."
+        },
+        {
+          "t": "p",
+          "x": "Una conclusión central de la Comisión fue que los dispositivos médicos AI-enabled deben evaluarse y vigilarse durante toda su vida útil, en lugar de depender en exceso de evaluaciones únicas. AI Airlock Phase 3, respaldada por tres años de financiación gubernamental adicional, se centrará en la vigilancia poscomercialización y en la regulación del ciclo de vida."
+        },
+        {
+          "t": "p",
+          "x": "La MHRA publicará antes de diciembre de 2026 un borrador de guía sobre cómo gestionar los cambios en los dispositivos AI-enabled a medida que se adaptan con el tiempo, y el próximo año consultará cómo calificarlos y clasificarlos. Otros compromisos incluyen vías de autorización escalonadas que permitirán usar antes en el NHS herramientas de AI prometedoras, bajo estrecha supervisión. Una hoja de ruta completa de implementación se publicará antes de la primavera de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Lawrence Tallon, director ejecutivo de la MHRA, afirmó que la Comisión, dirigida por médicos del NHS, \"nos ha dado un plan claro y ambicioso\". El 22 de octubre se celebrará un seminario web para solicitantes; la primera tanda de innovadores se seleccionará en noviembre de 2026."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "science",
   "cards": [
     {
-      "id": "science-mit-self-wiring-learner",
+      "id": "science-deepreview",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "무작위 신경망이\n스스로 배선해 배운다",
-      "body": "MIT 연구진이 단순한 배선 규칙으로 무작위 연결망을 학습 체계로 바꿔 보였다.",
-      "mini_headline": "스스로 배선하는 신경망",
+      "headline": "Google 논문 검증용\nDeep Review 공개",
+      "body": "학회 원고 16,000+ 편으로 시험한 Google의 AI 검토 도구가 나왔다.",
+      "mini_headline": "Google, Deep Review 공개",
       "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
+      "source": "Google Research",
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,173 +19,263 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
           },
           {
             "t": "p",
-            "x": "MIT의 McGovern Institute와 K. Lisa Yang ICoN Center 연구진은 Oct. 9 PNAS에 실린 논문에서 인공 신경망 학습이 생물학적으로 타당한지 가늠할 핵심 잣대는 개발자 손길 없이 스스로 조직하는 능력이라고 주장했다. 연결이 언제, 어떻게 바뀌어야 하는지 단순한 지침만 주면 무작위로 연결된 유닛 무리가 스스로 모양을 바꿔 정보를 효과적으로 처리하는 네트워크가 된다."
+            "x": "생성형 AI는 이제 논문을 쓰고 코드를 돌리고 제안서 초안을 잡는 일까지 돕지만, 사람이 검증할 수 있는 양은 거의 그대로라 검증 병목이 생겼다. Google은 컴퓨터과학 논문부터 법률·금융 문서까지 복잡한 문서에 엄밀한 피드백과 기술적 검증을 해 주는 에이전트형 AI 시스템 Deep Review를 일반에 공개한다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "Liu Ziyin, Yulu Gan과 함께 공동 주저자로 참여한 Qianli Liao는 “뇌에는 외부 설계자나 건축가가 없다”고 말한다. 네트워크는 “함께 발화하는 뉴런은 함께 연결된다”처럼 뇌 회로를 다시 배선한다고 여겨지는 규칙을 따르면서 패턴을 인식하고 이미지를 분류하는 법을 익혔다."
+            "x": "Deep Review의 뿌리는 Paper Assistant Tool(PAT)이다. PAT는 STOC 2026, ICML 2026, NeurIPS 2026, ICLR 2027에서 참여에 동의한 원고 16,000편 이상의 저자들에게 제출 전 비공개 피드백을 줬다. 누구나 매주 문서 두 건까지 무료로 검토받고, Gemini API 키가 있으면 한도가 늘어나며 Deep Review API도 쓸 수 있다. 올린 문서는 Google 모델 학습에 쓰지 않는다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+            "cap": "2023년부터 2026년까지 NeurIPS, ICML, ICLR에 제출된 논문 수 추이."
           },
           {
             "t": "p",
-            "x": "스스로 조립된 모티프는 경사 하강법과 닮은 전략으로 재편됐다. 성능은 역전파(back-propagation)로 훈련한 네트워크와 견줘도 비슷했다. 신경과학자들은 뇌가 역전파를 쓸 가능성이 낮다고 본다."
+            "x": "세 AI 학회에 올해 제출된 논문은 74,000편이 넘는다. 2023년에는 약 23,000편이었다. Deep Review는 논리가 일관된지, 수학 진술이 맞는지 점검하고 고칠 점을 제안하며, 사실 근거를 확인해 기존 연구와 견준다. 그보다 높은 차원의 판단은 사람 몫으로 남긴다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+            "cap": "머신러닝·이론 컴퓨터과학 학회에서 운영한 PAT 시범 프로그램 통계와 저자 피드백."
           },
           {
             "t": "p",
-            "x": "Tomaso Poggio는 “우리가 제안한 시냅스 모티프를 역전파가 인공 신경망에서 하는 일을 하는 데 실제로 뇌가 쓰고 있다면, 기계와 뇌 사이에 강력한 연결 고리를… 갖게 될 것”이라고 말한다."
+            "x": "Deep Review는 네 단계 에이전트형 파이프라인으로 돌아간다. 문서를 나누고 연산 예산을 상황에 맞춰 배정한 뒤, 각 구간을 병렬로 깊이 검증하고 환각을 막는 근거 확인을 거쳐 전체를 종합한다. Gemini 4 Argon을 지원하면서 품질이 더 올라갔고, 여러 파일 지원도 곧 붙는다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+            "cap": "네 단계 파이프라인으로 짠 시스템 구조."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Random neural networks wire\nthemselves to learn",
-          "body": "MIT researchers showed simple wiring rules can turn a randomly connected network into a learning system.",
-          "mini_headline": "Networks that wire themselves",
+          "headline": "Google opens Deep Review\nfor checking technical papers",
+          "body": "Google's AI reviewer, piloted on 16,000+ conference manuscripts, is now public for checking technical documents.",
+          "mini_headline": "Google opens Deep Review",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "In a paper published Oct. 9 in PNAS, scientists at MIT's McGovern Institute and K. Lisa Yang ICoN Center argue that a crucial metric for the biological plausibility of an artificial neural network's learning is its ability to organize itself, without the guiding hand of a developer. With simple instructions about how and when connections should change, a group of randomly connected units can reshape itself into an effective information-processing network."
+                "x": "Generative AI now helps write papers, run code and draft proposals, but human capacity for verification has stayed largely fixed, creating a validation bottleneck. Google has announced the public release of Deep Review, an agentic AI system that gives rigorous feedback and technical verification on complex documents, from computer science papers to legal and finance documents."
               },
               {
                 "t": "p",
-                "x": "“The brain doesn't have an external designer or architect,” says Qianli Liao, co-first author with Liu Ziyin and Yulu Gan. The network follows rules thought to rewire brain circuits, such as “neurons that fire together wire together,” and learned to recognize patterns and classify images."
+                "x": "Deep Review evolved from the Paper Assistant Tool (PAT), which gave private, pre-submission feedback to authors of more than 16,000 opted-in manuscripts at STOC 2026, ICML 2026, NeurIPS 2026 and ICLR 2027. Every user gets two free document reviews per week; a Gemini API key unlocks higher limits and the Deep Review API. Uploaded documents are never used to train Google models."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+                "cap": "Increase in submissions to NeurIPS, ICML, and ICLR between 2023 and 2026."
               },
               {
                 "t": "p",
-                "x": "Self-assembling motifs reorganized using a strategy similar to gradient descent. Compared with networks trained by back-propagation, which neuroscientists say the brain is unlikely to use, it performed at a similar level."
+                "x": "This year those three AI conferences drew over 74,000 submissions, up from about 23,000 in 2023. Deep Review checks logical consistency and mathematical statements, suggests improvements, grounds facts and compares with existing work, leaving higher-level judgements to humans."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+                "cap": "Statistics and author feedback from the pilot programs of PAT at machine learning and theoretical computer science conferences."
               },
               {
                 "t": "p",
-                "x": "“If the synaptic motifs we propose are, in fact, used by the brain to do what backpropagation does for artificial neural networks, then we will have a strong connection… between machines and brains,” says Tomaso Poggio."
+                "x": "It works through a four-stage agentic pipeline: document segmentation, adaptive compute budgeting, deep parallel verification of each segment, and global synthesis with grounding checks against hallucinations. Gemini 4 Argon support further improves quality, and multi-file support is coming soon."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+                "cap": "System architecture showing the four-stage pipeline."
               }
             ]
           }
         },
         "ko": {
-          "headline": "무작위 신경망이\n스스로 배선해 배운다",
-          "body": "MIT 연구진이 단순한 배선 규칙으로 무작위 연결망을 학습 체계로 바꿔 보였다.",
-          "mini_headline": "스스로 배선하는 신경망",
+          "headline": "Google 논문 검증용\nDeep Review 공개",
+          "body": "학회 원고 16,000+ 편으로 시험한 Google의 AI 검토 도구가 나왔다.",
+          "mini_headline": "Google, Deep Review 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "MIT의 McGovern Institute와 K. Lisa Yang ICoN Center 연구진은 Oct. 9 PNAS에 실린 논문에서 인공 신경망 학습이 생물학적으로 타당한지 가늠할 핵심 잣대는 개발자 손길 없이 스스로 조직하는 능력이라고 주장했다. 연결이 언제, 어떻게 바뀌어야 하는지 단순한 지침만 주면 무작위로 연결된 유닛 무리가 스스로 모양을 바꿔 정보를 효과적으로 처리하는 네트워크가 된다."
+                "x": "생성형 AI는 이제 논문을 쓰고 코드를 돌리고 제안서 초안을 잡는 일까지 돕지만, 사람이 검증할 수 있는 양은 거의 그대로라 검증 병목이 생겼다. Google은 컴퓨터과학 논문부터 법률·금융 문서까지 복잡한 문서에 엄밀한 피드백과 기술적 검증을 해 주는 에이전트형 AI 시스템 Deep Review를 일반에 공개한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Liu Ziyin, Yulu Gan과 함께 공동 주저자로 참여한 Qianli Liao는 “뇌에는 외부 설계자나 건축가가 없다”고 말한다. 네트워크는 “함께 발화하는 뉴런은 함께 연결된다”처럼 뇌 회로를 다시 배선한다고 여겨지는 규칙을 따르면서 패턴을 인식하고 이미지를 분류하는 법을 익혔다."
+                "x": "Deep Review의 뿌리는 Paper Assistant Tool(PAT)이다. PAT는 STOC 2026, ICML 2026, NeurIPS 2026, ICLR 2027에서 참여에 동의한 원고 16,000편 이상의 저자들에게 제출 전 비공개 피드백을 줬다. 누구나 매주 문서 두 건까지 무료로 검토받고, Gemini API 키가 있으면 한도가 늘어나며 Deep Review API도 쓸 수 있다. 올린 문서는 Google 모델 학습에 쓰지 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+                "cap": "2023년부터 2026년까지 NeurIPS, ICML, ICLR에 제출된 논문 수 추이."
               },
               {
                 "t": "p",
-                "x": "스스로 조립된 모티프는 경사 하강법과 닮은 전략으로 재편됐다. 성능은 역전파(back-propagation)로 훈련한 네트워크와 견줘도 비슷했다. 신경과학자들은 뇌가 역전파를 쓸 가능성이 낮다고 본다."
+                "x": "세 AI 학회에 올해 제출된 논문은 74,000편이 넘는다. 2023년에는 약 23,000편이었다. Deep Review는 논리가 일관된지, 수학 진술이 맞는지 점검하고 고칠 점을 제안하며, 사실 근거를 확인해 기존 연구와 견준다. 그보다 높은 차원의 판단은 사람 몫으로 남긴다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+                "cap": "머신러닝·이론 컴퓨터과학 학회에서 운영한 PAT 시범 프로그램 통계와 저자 피드백."
               },
               {
                 "t": "p",
-                "x": "Tomaso Poggio는 “우리가 제안한 시냅스 모티프를 역전파가 인공 신경망에서 하는 일을 하는 데 실제로 뇌가 쓰고 있다면, 기계와 뇌 사이에 강력한 연결 고리를… 갖게 될 것”이라고 말한다."
+                "x": "Deep Review는 네 단계 에이전트형 파이프라인으로 돌아간다. 문서를 나누고 연산 예산을 상황에 맞춰 배정한 뒤, 각 구간을 병렬로 깊이 검증하고 환각을 막는 근거 확인을 거쳐 전체를 종합한다. Gemini 4 Argon을 지원하면서 품질이 더 올라갔고, 여러 파일 지원도 곧 붙는다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+                "cap": "네 단계 파이프라인으로 짠 시스템 구조."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ランダムな神経網が\n自ら配線して学ぶ",
-          "body": "MITの研究者は、単純な配線規則で無作為な結合網を学習システムに変えられると示した。",
-          "mini_headline": "自ら配線するネットワーク",
+          "headline": "Google、論文検証の\nDeep Reviewを公開",
+          "body": "学会論文16,000+ 本で試したGoogleのAI査読ツールが一般公開された。",
+          "mini_headline": "GoogleがDeep Reviewを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "Oct. 9にPNASで発表された論文で、MITのMcGovern InstituteとK. Lisa Yang ICoN Centerの科学者らは、人工ニューラルネットワークの学習が生物学的に妥当かどうかを測る重要な指標は、開発者の導きなしに自らを組織化する能力だと主張する。結合をいつ、どのように変えるべきかという単純な指示を与えると、無作為に結合したユニットの集まりが自らを作り替え、効果的な情報処理ネットワークになる。"
+                "x": "生成AIは論文執筆やコード実行、提案書の作成を手助けするようになったが、人間の検証能力はほぼ変わらず、検証のボトルネックが生じている。Googleは、コンピューター科学の論文から法律・金融文書まで、複雑な文書に厳密なフィードバックと技術的検証を提供するエージェント型AIシステム「Deep Review」の一般公開を発表した。"
               },
               {
                 "t": "p",
-                "x": "「脳には外部の設計者も建築家もいない」と、Liu Ziyin、Yulu Ganとともに共同筆頭著者を務めたQianli Liaoは言う。このネットワークは「同時に発火するニューロンは結びつく」といった、脳回路を配線し直すとされる規則に従い、パターンを認識し画像を分類することを学んだ。"
+                "x": "Deep ReviewはPaper Assistant Tool(PAT)を発展させたものだ。PATはSTOC 2026、ICML 2026、NeurIPS 2026、ICLR 2027で参加に同意した16,000本以上の原稿の著者に、投稿前の非公開フィードバックを提供した。全ユーザーは週に二件の文書レビューを無料で利用でき、Gemini APIキーがあれば上限が引き上げられ、Deep Review APIも使える。アップロードされた文書がGoogleのモデル学習に使われることはない。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+                "cap": "2023年から2026年にかけてのNeurIPS、ICML、ICLRへの投稿数の増加。"
               },
               {
                 "t": "p",
-                "x": "自己組織化するモチーフは、勾配降下法に似た戦略で再編された。神経科学者が脳では使われにくいとする誤差逆伝播法(back-propagation)で訓練したネットワークと比べても、同程度の性能を示した。"
+                "x": "今年、この三つのAI学会への投稿は、2023年の約23,000本から74,000本超に増えた。Deep Reviewは論理的一貫性や数学的記述を確認し、改善案を示し、事実の裏付けを取り、既存研究と比較する。より高次の判断は人間に委ねる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+                "cap": "機械学習と理論計算機科学の学会で実施したPATの試験プログラムの統計と著者の評価。"
               },
               {
                 "t": "p",
-                "x": "「我々が提案するシナプスモチーフを、誤差逆伝播法が人工ニューラルネットワークで果たす役割のために実際に脳が使っているなら、機械と脳の間に強いつながりが…生まれることになる」とTomaso Poggioは語る。"
+                "x": "処理は四段階のエージェント型パイプラインで進む。文書の分割、計算予算の適応的配分、各部分の並列的な深い検証、そしてハルシネーションを防ぐ裏付け確認を伴う全体の統合だ。Gemini 4 Argonへの対応で品質はさらに向上し、複数ファイルへの対応も近く始まる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+                "cap": "四段階のパイプラインを示すシステム構成図。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "随机神经网络\n自我布线实现学习",
-          "body": "MIT研究人员发现，简单的连接规则能把随机连接的网络变成学习系统。",
-          "mini_headline": "自我布线的网络",
+          "headline": "Google开放论文审查\n工具Deep Review",
+          "body": "Google的AI审稿工具曾在16,000+ 篇会议论文上试用，现已公开用于审查技术文档。",
+          "mini_headline": "Google开放Deep Review",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "在Oct. 9发表于PNAS的论文中，MIT McGovern Institute与K. Lisa Yang ICoN Center的科学家提出，衡量人工神经网络学习是否具有生物学合理性的关键指标，是它能否在没有开发者引导的情况下自我组织。只要给出关于连接应如何、何时改变的简单指令，一组随机连接的单元就能自我重塑，成为高效的信息处理网络。"
+                "x": "生成式AI如今能帮助撰写论文、运行代码和起草提案，但人类的验证能力基本没有变化，由此形成验证瓶颈。Google宣布公开发布Deep Review，这是一款智能体AI系统，可为从计算机科学论文到法律和金融文件等复杂文档提供严格的反馈和技术验证。"
               },
               {
                 "t": "p",
-                "x": "“大脑没有外部的设计师或建筑师，”与Liu Ziyin、Yulu Gan同为共同首要作者的Qianli Liao说。该网络遵循被认为能重塑脑回路的规则，例如“同时放电的神经元会连在一起”，并学会了识别模式和分类图像。"
+                "x": "Deep Review由Paper Assistant Tool（PAT）发展而来。PAT曾为STOC 2026、ICML 2026、NeurIPS 2026和ICLR 2027上选择参与的16,000多篇稿件的作者提供投稿前的私密反馈。每位用户每周可免费审查两份文档；使用Gemini API密钥可获得更高额度并使用Deep Review API。上传的文档绝不会用于训练Google模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+                "cap": "2023年至2026年间NeurIPS、ICML和ICLR投稿量的增长。"
               },
               {
                 "t": "p",
-                "x": "自组装的模体以类似梯度下降的策略完成重组。与采用反向传播(back-propagation)训练的网络相比——神经科学家认为大脑不太可能使用这种方法——它的表现处于相近水平。"
+                "x": "今年这三大AI会议共收到逾74,000篇投稿，2023年约为23,000篇。Deep Review会检查逻辑一致性和数学表述、提出改进建议、核实事实并与已有研究比较，更高层面的判断则留给人类。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+                "cap": "PAT在机器学习和理论计算机科学会议试点项目中的统计数据与作者反馈。"
               },
               {
                 "t": "p",
-                "x": "“如果我们提出的突触模体确实被大脑用来完成反向传播在人工神经网络中所做的事，那么我们将在机器与大脑之间……建立起牢固的联系，”Tomaso Poggio说。"
+                "x": "它通过四阶段智能体流水线运作：文档分段、自适应计算预算分配、对各段进行深度并行验证，以及结合防幻觉事实核查的全局综合。支持Gemini 4 Argon后质量进一步提升，多文件支持也即将推出。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+                "cap": "展示四阶段流水线的系统架构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Redes neuronales aleatorias\nque se conectan para aprender",
-          "body": "Un equipo del MIT mostró que reglas de conexión simples pueden convertir una red aleatoria en un sistema que aprende.",
-          "mini_headline": "Redes que se conectan solas",
+          "headline": "Google abre Deep Review para\nrevisar artículos técnicos",
+          "body": "El revisor con IA de Google, probado en 16,000+ manuscritos de congresos, se abre al público para documentos técnicos.",
+          "mini_headline": "Google abre Deep Review",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "En un artículo publicado el 9 de octubre en PNAS, científicos del McGovern Institute del MIT y del K. Lisa Yang ICoN Center sostienen que una medida clave de la plausibilidad biológica del aprendizaje de una red neuronal artificial es su capacidad para organizarse por sí misma, sin la mano guía de un desarrollador. Con instrucciones simples sobre cómo y cuándo deben cambiar las conexiones, un grupo de unidades conectadas al azar puede remodelarse hasta formar una red eficaz de procesamiento de información."
+                "x": "La IA generativa ya ayuda a redactar artículos, ejecutar código y preparar propuestas, pero la capacidad humana de verificación apenas ha cambiado, lo que crea un cuello de botella en la validación. Google anunció la apertura al público de Deep Review, un sistema agéntico de inteligencia artificial (AI) que ofrece retroalimentación rigurosa y verificación técnica sobre documentos complejos, desde artículos de informática hasta documentos legales y financieros."
               },
               {
                 "t": "p",
-                "x": "“El cerebro no tiene un diseñador ni un arquitecto externo”, dice Qianli Liao, coautor principal junto con Liu Ziyin y Yulu Gan. La red sigue reglas que se cree que reconfiguran los circuitos cerebrales, como “las neuronas que se activan juntas se conectan juntas”, y aprendió a reconocer patrones y clasificar imágenes."
+                "x": "Deep Review evolucionó a partir de Paper Assistant Tool (PAT), que dio retroalimentación privada previa al envío a los autores de más de 16,000 manuscritos inscritos voluntariamente en STOC 2026, ICML 2026, NeurIPS 2026 e ICLR 2027. Cada usuario tiene dos revisiones gratuitas de documentos por semana; una clave de Gemini API permite límites más altos y el acceso a Deep Review API. Los documentos subidos nunca se usan para entrenar modelos de Google."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+                "cap": "Aumento de los envíos a NeurIPS, ICML e ICLR entre 2023 y 2026."
               },
               {
                 "t": "p",
-                "x": "Los motivos autoensamblados se reorganizaron con una estrategia similar al descenso de gradiente. Frente a redes entrenadas con retropropagación (back-propagation), que según los neurocientíficos es poco probable que use el cerebro, obtuvo un rendimiento similar."
+                "x": "Este año esos tres congresos de IA recibieron más de 74,000 envíos, frente a unos 23,000 en 2023. Deep Review comprueba la coherencia lógica y los enunciados matemáticos, sugiere mejoras, contrasta los hechos y compara con trabajos previos, y deja los juicios de más alto nivel a las personas."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+                "cap": "Estadísticas y comentarios de autores de los programas piloto de PAT en congresos de aprendizaje automático y de informática teórica."
               },
               {
                 "t": "p",
-                "x": "“Si los motivos sinápticos que proponemos los usa de hecho el cerebro para hacer lo que la retropropagación hace en las redes neuronales artificiales, entonces tendremos una conexión sólida… entre máquinas y cerebros”, afirma Tomaso Poggio."
+                "x": "Funciona mediante un flujo agéntico de cuatro etapas: segmentación del documento, asignación adaptativa del presupuesto de cómputo, verificación profunda y en paralelo de cada segmento, y síntesis global con comprobaciones de fundamentación contra las alucinaciones. La compatibilidad con Gemini 4 Argon mejora aún más la calidad, y pronto llegará la compatibilidad con varios archivos."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+                "cap": "Arquitectura del sistema con el flujo de cuatro etapas."
               }
             ]
           }
@@ -193,121 +283,181 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "무작위 신경망이\n스스로 배선해 배운다",
-          "body": "MIT 연구진이 단순한 배선 규칙으로 무작위 연결망을 학습 체계로 바꿔 보였다.",
-          "mini_headline": "스스로 배선하는 신경망",
+          "headline": "Google 논문 검증용\nDeep Review 공개",
+          "body": "학회 원고 16,000+ 편으로 시험한 Google의 AI 검토 도구가 공개됐다.",
+          "mini_headline": "Google, Deep Review 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "MIT의 McGovern Institute와 K. Lisa Yang ICoN Center 연구진은 Oct. 9 PNAS에 실린 논문에서, 인공 신경망 학습의 생물학적 타당성을 가늠할 핵심 척도는 개발자의 손길 없이 스스로를 조직하는 능력이라고 주장했다. 연결이 언제, 어떻게 바뀌어야 하는지 단순한 지침만 주면, 무작위로 연결된 유닛 무리가 스스로 모습을 바꿔 효과적인 정보 처리 네트워크가 된다."
+                "x": "생성형 AI는 이제 논문 작성, 코드 실행, 제안서 초안 작성을 돕지만 사람이 검증할 수 있는 역량은 거의 그대로여서 검증 병목이 생겼다. Google은 컴퓨터과학 논문부터 법률·금융 문서까지 복잡한 문서에 엄밀한 피드백과 기술적 검증을 제공하는 에이전트형 AI 시스템 Deep Review를 일반에 공개한다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "“뇌에는 외부 설계자나 건축가가 없다”고 Liu Ziyin, Yulu Gan과 함께 공동 주저자로 참여한 Qianli Liao는 말한다. 이 네트워크는 “함께 발화하는 뉴런은 함께 연결된다”처럼 뇌 회로를 재배선한다고 여겨지는 규칙을 따르며, 패턴을 인식하고 이미지를 분류하는 법을 익혔다."
+                "x": "Deep Review는 Paper Assistant Tool(PAT)에서 발전했다. PAT는 STOC 2026, ICML 2026, NeurIPS 2026, ICLR 2027에서 참여에 동의한 16,000편 이상의 원고 저자에게 제출 전 비공개 피드백을 제공했다. 모든 사용자는 매주 문서 두 건을 무료로 검토받을 수 있고, Gemini API 키가 있으면 더 높은 한도와 Deep Review API를 쓸 수 있다. 업로드한 문서는 Google 모델 학습에 쓰이지 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+                "cap": "2023년부터 2026년까지 NeurIPS, ICML, ICLR 제출 논문 수의 증가 추이."
               },
               {
                 "t": "p",
-                "x": "스스로 조립되는 모티프는 경사 하강법과 비슷한 전략으로 재편됐다. 신경과학자들이 뇌가 쓸 가능성이 낮다고 보는 역전파(back-propagation)로 훈련한 네트워크와 비교해도 비슷한 수준의 성능을 냈다."
+                "x": "올해 이 세 AI 학회에는 2023년 약 23,000편에서 늘어난 74,000편 이상의 논문이 제출됐다. Deep Review는 논리적 일관성과 수학적 진술을 점검하고, 개선점을 제안하며, 사실 근거를 확인하고 기존 연구와 비교한다. 더 높은 차원의 판단은 사람에게 맡긴다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+                "cap": "머신러닝·이론 컴퓨터과학 학회에서 진행한 PAT 시범 프로그램의 통계와 저자 피드백."
               },
               {
                 "t": "p",
-                "x": "“우리가 제안한 시냅스 모티프를 역전파가 인공 신경망에서 하는 일을 하는 데 실제로 뇌가 쓰고 있다면, 기계와 뇌 사이에 강력한 연결 고리를… 갖게 될 것”이라고 Tomaso Poggio는 말한다."
+                "x": "Deep Review는 네 단계 에이전트형 파이프라인으로 작동한다. 문서를 분할하고, 연산 예산을 적응적으로 배정하고, 각 구간을 병렬로 깊이 검증한 뒤, 환각을 막는 근거 확인을 거쳐 전체를 종합한다. Gemini 4 Argon 지원으로 품질이 더 높아졌고, 여러 파일 지원도 곧 추가된다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+                "cap": "네 단계 파이프라인을 보여 주는 시스템 구조."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ランダムな神経網が\n自ら配線して学ぶ",
-          "body": "MITの研究者は、単純な配線規則で無作為な結合網を学習システムに変えられると示した。",
-          "mini_headline": "自ら配線するネットワーク",
+          "headline": "Google、論文検証の\nDeep Reviewを公開",
+          "body": "学会論文16,000+ 本で試したGoogleのAI査読ツールが一般公開された。",
+          "mini_headline": "GoogleがDeep Reviewを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "Oct. 9にPNASで発表された論文で、MITのMcGovern InstituteとK. Lisa Yang ICoN Centerの科学者らは、人工ニューラルネットワークの学習が生物学的に妥当かどうかを測る重要な指標は、開発者の導きなしに自らを組織化する能力だと主張する。結合をいつ、どのように変えるべきかという単純な指示を与えると、無作為に結合したユニットの集まりが自らを作り替え、効果的な情報処理ネットワークになる。"
+                "x": "生成AIは論文執筆やコード実行、提案書の作成を手助けするようになったが、人間の検証能力はほぼ変わらず、検証のボトルネックが生じている。Googleは、コンピューター科学の論文から法律・金融文書まで、複雑な文書に厳密なフィードバックと技術的検証を提供するエージェント型AIシステム「Deep Review」の一般公開を発表した。"
               },
               {
                 "t": "p",
-                "x": "「脳には外部の設計者も建築家もいない」と、Liu Ziyin、Yulu Ganとともに共同筆頭著者を務めたQianli Liaoは言う。このネットワークは「同時に発火するニューロンは結びつく」といった、脳回路を配線し直すとされる規則に従い、パターンを認識し画像を分類することを学んだ。"
+                "x": "Deep ReviewはPaper Assistant Tool(PAT)を発展させたものだ。PATはSTOC 2026、ICML 2026、NeurIPS 2026、ICLR 2027で参加に同意した16,000本以上の原稿の著者に、投稿前の非公開フィードバックを提供した。全ユーザーは週に二件の文書レビューを無料で利用でき、Gemini APIキーがあれば上限が引き上げられ、Deep Review APIも使える。アップロードされた文書がGoogleのモデル学習に使われることはない。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+                "cap": "2023年から2026年にかけてのNeurIPS、ICML、ICLRへの投稿数の増加。"
               },
               {
                 "t": "p",
-                "x": "自己組織化するモチーフは、勾配降下法に似た戦略で再編された。神経科学者が脳では使われにくいとする誤差逆伝播法(back-propagation)で訓練したネットワークと比べても、同程度の性能を示した。"
+                "x": "今年、この三つのAI学会への投稿は、2023年の約23,000本から74,000本超に増えた。Deep Reviewは論理的一貫性や数学的記述を確認し、改善案を示し、事実の裏付けを取り、既存研究と比較する。より高次の判断は人間に委ねる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+                "cap": "機械学習と理論計算機科学の学会で実施したPATの試験プログラムの統計と著者の評価。"
               },
               {
                 "t": "p",
-                "x": "「我々が提案するシナプスモチーフを、誤差逆伝播法が人工ニューラルネットワークで果たす役割のために実際に脳が使っているなら、機械と脳の間に強いつながりが…生まれることになる」とTomaso Poggioは語る。"
+                "x": "処理は四段階のエージェント型パイプラインで進む。文書の分割、計算予算の適応的配分、各部分の並列的な深い検証、そしてハルシネーションを防ぐ裏付け確認を伴う全体の統合だ。Gemini 4 Argonへの対応で品質はさらに向上し、複数ファイルへの対応も近く始まる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+                "cap": "四段階のパイプラインを示すシステム構成図。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "随机神经网络\n自我布线实现学习",
-          "body": "MIT研究人员发现，简单的连接规则能把随机连接的网络变成学习系统。",
-          "mini_headline": "自我布线的网络",
+          "headline": "Google开放论文审查\n工具Deep Review",
+          "body": "Google的AI审稿工具曾在16,000+ 篇会议论文上试用，现已公开用于审查技术文档。",
+          "mini_headline": "Google开放Deep Review",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "在Oct. 9发表于PNAS的论文中，MIT McGovern Institute与K. Lisa Yang ICoN Center的科学家提出，衡量人工神经网络学习是否具有生物学合理性的关键指标，是它能否在没有开发者引导的情况下自我组织。只要给出关于连接应如何、何时改变的简单指令，一组随机连接的单元就能自我重塑，成为高效的信息处理网络。"
+                "x": "生成式AI如今能帮助撰写论文、运行代码和起草提案，但人类的验证能力基本没有变化，由此形成验证瓶颈。Google宣布公开发布Deep Review，这是一款智能体AI系统，可为从计算机科学论文到法律和金融文件等复杂文档提供严格的反馈和技术验证。"
               },
               {
                 "t": "p",
-                "x": "“大脑没有外部的设计师或建筑师，”与Liu Ziyin、Yulu Gan同为共同首要作者的Qianli Liao说。该网络遵循被认为能重塑脑回路的规则，例如“同时放电的神经元会连在一起”，并学会了识别模式和分类图像。"
+                "x": "Deep Review由Paper Assistant Tool（PAT）发展而来。PAT曾为STOC 2026、ICML 2026、NeurIPS 2026和ICLR 2027上选择参与的16,000多篇稿件的作者提供投稿前的私密反馈。每位用户每周可免费审查两份文档；使用Gemini API密钥可获得更高额度并使用Deep Review API。上传的文档绝不会用于训练Google模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+                "cap": "2023年至2026年间NeurIPS、ICML和ICLR投稿量的增长。"
               },
               {
                 "t": "p",
-                "x": "自组装的模体以类似梯度下降的策略完成重组。与采用反向传播(back-propagation)训练的网络相比——神经科学家认为大脑不太可能使用这种方法——它的表现处于相近水平。"
+                "x": "今年这三大AI会议共收到逾74,000篇投稿，2023年约为23,000篇。Deep Review会检查逻辑一致性和数学表述、提出改进建议、核实事实并与已有研究比较，更高层面的判断则留给人类。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+                "cap": "PAT在机器学习和理论计算机科学会议试点项目中的统计数据与作者反馈。"
               },
               {
                 "t": "p",
-                "x": "“如果我们提出的突触模体确实被大脑用来完成反向传播在人工神经网络中所做的事，那么我们将在机器与大脑之间……建立起牢固的联系，”Tomaso Poggio说。"
+                "x": "它通过四阶段智能体流水线运作：文档分段、自适应计算预算分配、对各段进行深度并行验证，以及结合防幻觉事实核查的全局综合。支持Gemini 4 Argon后质量进一步提升，多文件支持也即将推出。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+                "cap": "展示四阶段流水线的系统架构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Redes neuronales aleatorias\nque se conectan para aprender",
-          "body": "Un equipo del MIT mostró que reglas de conexión simples pueden convertir una red aleatoria en un sistema que aprende.",
-          "mini_headline": "Redes que se conectan solas",
+          "headline": "Google abre Deep Review para\nrevisar artículos técnicos",
+          "body": "El revisor con IA de Google, probado en 16,000+ manuscritos de congresos, se abre al público para documentos técnicos.",
+          "mini_headline": "Google abre Deep Review",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "En un artículo publicado el 9 de octubre en PNAS, científicos del McGovern Institute del MIT y del K. Lisa Yang ICoN Center sostienen que una medida clave de la plausibilidad biológica del aprendizaje de una red neuronal artificial es su capacidad para organizarse por sí misma, sin la mano guía de un desarrollador. Con instrucciones simples sobre cómo y cuándo deben cambiar las conexiones, un grupo de unidades conectadas al azar puede remodelarse hasta formar una red eficaz de procesamiento de información."
+                "x": "La IA generativa ya ayuda a redactar artículos, ejecutar código y preparar propuestas, pero la capacidad humana de verificación apenas ha cambiado, lo que crea un cuello de botella en la validación. Google anunció la apertura al público de Deep Review, un sistema agéntico de inteligencia artificial (AI) que ofrece retroalimentación rigurosa y verificación técnica sobre documentos complejos, desde artículos de informática hasta documentos legales y financieros."
               },
               {
                 "t": "p",
-                "x": "“El cerebro no tiene un diseñador ni un arquitecto externo”, dice Qianli Liao, coautor principal junto con Liu Ziyin y Yulu Gan. La red sigue reglas que se cree que reconfiguran los circuitos cerebrales, como “las neuronas que se activan juntas se conectan juntas”, y aprendió a reconocer patrones y clasificar imágenes."
+                "x": "Deep Review evolucionó a partir de Paper Assistant Tool (PAT), que dio retroalimentación privada previa al envío a los autores de más de 16,000 manuscritos inscritos voluntariamente en STOC 2026, ICML 2026, NeurIPS 2026 e ICLR 2027. Cada usuario tiene dos revisiones gratuitas de documentos por semana; una clave de Gemini API permite límites más altos y el acceso a Deep Review API. Los documentos subidos nunca se usan para entrenar modelos de Google."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+                "cap": "Aumento de los envíos a NeurIPS, ICML e ICLR entre 2023 y 2026."
               },
               {
                 "t": "p",
-                "x": "Los motivos autoensamblados se reorganizaron con una estrategia similar al descenso de gradiente. Frente a redes entrenadas con retropropagación (back-propagation), que según los neurocientíficos es poco probable que use el cerebro, obtuvo un rendimiento similar."
+                "x": "Este año esos tres congresos de IA recibieron más de 74,000 envíos, frente a unos 23,000 en 2023. Deep Review comprueba la coherencia lógica y los enunciados matemáticos, sugiere mejoras, contrasta los hechos y compara con trabajos previos, y deja los juicios de más alto nivel a las personas."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+                "cap": "Estadísticas y comentarios de autores de los programas piloto de PAT en congresos de aprendizaje automático y de informática teórica."
               },
               {
                 "t": "p",
-                "x": "“Si los motivos sinápticos que proponemos los usa de hecho el cerebro para hacer lo que la retropropagación hace en las redes neuronales artificiales, entonces tendremos una conexión sólida… entre máquinas y cerebros”, afirma Tomaso Poggio."
+                "x": "Funciona mediante un flujo agéntico de cuatro etapas: segmentación del documento, asignación adaptativa del presupuesto de cómputo, verificación profunda y en paralelo de cada segmento, y síntesis global con comprobaciones de fundamentación contra las alucinaciones. La compatibilidad con Gemini 4 Argon mejora aún más la calidad, y pronto llegará la compatibilidad con varios archivos."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+                "cap": "Arquitectura del sistema con el flujo de cuatro etapas."
               }
             ]
           }
@@ -315,189 +465,249 @@
       }
     },
     {
-      "id": "science-gemini-4-argon-robotics",
+      "id": "science-hiro-acev2",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini 4 Argon\n로봇에 추론을 더하다",
-      "body": "Google의 Gemini 4 Argon은 ERQA 선두에 섰고 로봇까지 다룬다.",
-      "mini_headline": "로봇용 Gemini 4 Argon",
+      "headline": "Ai2, 극한 기상을\n1/300 비용에 재현",
+      "body": "HiRO-ACEv2는 극한 기상을 약 1/300 비용으로 3 km까지 잡아낸다.",
+      "mini_headline": "Ai2의 3 km 기상 에뮬레이터",
       "tool": "Science",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Ai2",
+      "url": "https://allenai.org/blog/hiro-acev2",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+          },
+          {
             "t": "p",
-            "x": "Gemini 4 Argon은 물리적 이해, 코드 생성, 시각·의미 추론에서 한 단계 올라섰다. 덕분에 로보틱스 스택 전반에 새 워크플로가 열리고 물리적 AGI로 가는 걸음도 빨라진다. Embodied Reasoning(ERQA)은 3D 환경에서 물리적·공간적 문제를 푸는 능력을 시험하는 벤치마크다. 여기서 Argon은 순수 추론만으로 87%를 기록해 다른 프런티어 모델을 모두 앞섰다."
+            "x": "Ai2가 High Resolution Output Ai2 Climate Emulator를 HiRO-ACEv2로 새로 고쳤다. HiROv2는 아주 드문 강우·바람·기압 현상까지 정확하게 재현한다. 시스템 전체로 보면 고해상도 전 지구 대기 모델 X-SHiELD의 약 1/300 비용으로 전 지구 3 km 기후 데이터를 만든다."
+          },
+          {
+            "t": "p",
+            "x": "구성은 둘이다. 100 km 해상도로 도는 AI 모델 ACE, 그리고 그 출력을 3 km로 선명하게 다듬는 HiRO다. 해상도를 낮춘 X-SHiELD 데이터를 넣으면 HiROv2는 백만 번에 한 번 있을 사건까지 고해상도 통계를 3% 안쪽으로 맞추고, 눈과 강우대까지 사실적인 허리케인을 만든다."
           },
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+            "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+            "cap": "HiRO-ACEv2로 10년을 시뮬레이션해 얻은 북대서양 강한 허리케인 사례."
           },
           {
             "t": "p",
-            "x": "Argon의 시연은 네 가지 영역에 걸쳤다. 로봇 제어(MuJoCo로 연습한 모바일 조작, zero-shot 제어, 비디오 월드 모델 조종), Real2Sim(로봇 카메라 피드, 자기중심 시점의 인간 영상, 손으로 그린 스케치로 만든 시뮬레이션 트윈), 물리적 이해(사후 라벨링, 밀집 가치 함수, 진행도 추정), 그리고 연구와 자기 개선이다."
+            "x": "전 지구 고해상도 데이터를 만드는 비용은 X-SHiELD를 돌릴 때보다 약 300배 적다. 한 지역만 본다면 절감 폭은 백 배 이상 더 벌어질 수 있다. 다만 더 따뜻한 미래처럼 지금과 다른 기후는 아직 다루지 못한다. Ai2는 4°C 더 따뜻해진 세계를 담은 새 X-SHiELD 데이터로 학습시킬 계획이다."
           },
           {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+            "t": "img",
+            "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+            "cap": "ACE 데이터 시각화 도구에서 본 Baja California 상공의 10 m 풍속 시뮬레이션. 큰 지도는 100 km 해상도의 ACE2, 삽입 지도는 3 km 해상도의 HiRO-ACEv2다."
           },
           {
             "t": "p",
-            "x": "Argon은 사족 보행 로봇 Boston Dynamics Spot을 제어해 새 기술을 익혔다. 발판식 쓰레기통을 MuJoCo 디지털 트윈으로 만들어 연습한 다음 실제로 페달을 밟아 탄산음료 캔을 넣었다. 단일 탁상 사진으로 시뮬레이션 트윈을 만들고 4,500+개 에피소드를 생성하자 실제 벤치마크 성공률이 56%에서 75%로 올랐다."
+            "x": "웹 데모에서는 HiROv1과 HiROv2의 출력을 X-SHiELD와 나란히 비교해 볼 수 있다. 모델은 튜토리얼 노트북과 함께 내려받으면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini 4 Argon brings\nreasoning to robots",
-          "body": "Google says Gemini 4 Argon tops the ERQA embodied reasoning benchmark and can control robots zero-shot.",
-          "mini_headline": "Gemini 4 Argon for robots",
+          "headline": "Ai2 emulates extreme weather\nat 3 km for 1/300th the cost",
+          "body": "Ai2's HiRO-ACEv2 captures extreme rain, wind and pressure at 3 km resolution for about 1/300th of X-SHiELD's cost.",
+          "mini_headline": "Ai2's 3 km weather emulator",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+              },
+              {
                 "t": "p",
-                "x": "Gemini 4 Argon marks a step change in physical understanding, code generation, and visual-semantic reasoning—unlocking new workflows across the robotics stack and accelerating progress toward physical AGI. On the Embodied Reasoning (ERQA) benchmark, which tests a model's ability to solve physical, spatial problems in 3D environments, Argon scores 87% using pure reasoning, outperforming every other frontier model."
+                "x": "Ai2 introduced HiRO-ACEv2, the newest update to its High Resolution Output Ai2 Climate Emulator. HiROv2 reproduces even extremely rare rain, wind and pressure events with high accuracy, while the full system generates global 3 km climate data at about 1/300th the cost of X-SHiELD, a high-resolution global atmospheric model."
+              },
+              {
+                "t": "p",
+                "x": "The system pairs ACE, an AI model running at 100 km, with HiRO, which sharpens those outputs to 3 km. Given coarsened X-SHiELD data, HiROv2 matches its high-resolution statistics to within 3%, even for once-in-a-million events, and generates hurricanes with realistic eyes and rain bands."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+                "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+                "cap": "An example of a strong hurricane in the North Atlantic, generated during the 10-year HiRO-ACEv2 simulation."
               },
               {
                 "t": "p",
-                "x": "Argon is shown across four areas: robot control (mobile manipulation with MuJoCo practice, zero-shot control, steering of video world models), Real2Sim (simulation twins from robot camera feeds, egocentric human video, or hand-drawn sketches), physical understanding (hindsight labeling, dense value functions, progress estimation), and research and self-improvement."
+                "x": "Producing global high-resolution data costs roughly 300 times less than running X-SHiELD, and for a single region the savings can be more than a hundred times greater. It cannot yet handle other climates, such as a warmer future; Ai2 plans to train on new X-SHiELD data, including a 4°C-warmer world."
               },
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+                "cap": "Simulated 10 m wind speed over Baja California in the ACE data visualizer: ACE2 at 100 km resolution on the main map and HiRO-ACEv2 at 3 km in the inset."
               },
               {
                 "t": "p",
-                "x": "Argon controls a Boston Dynamics Spot quadruped to learn a new skill, building a MuJoCo digital twin of a foot-pedal trash bin to practice before stepping on the real pedal and dropping soda cans in. From a single tabletop photo, it built a simulation twin and generated 4,500+ episodes, lifting a real-world benchmark from 56% to 75% success."
+                "x": "A web demo shows HiROv1 and HiROv2 output beside X-SHiELD, and the models are available to download with tutorial notebooks."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini 4 Argon\n로봇에 추론을 더하다",
-          "body": "Google의 Gemini 4 Argon은 ERQA 선두에 섰고 로봇까지 다룬다.",
-          "mini_headline": "로봇용 Gemini 4 Argon",
+          "headline": "Ai2, 극한 기상을\n1/300 비용에 재현",
+          "body": "HiRO-ACEv2는 극한 기상을 약 1/300 비용으로 3 km까지 잡아낸다.",
+          "mini_headline": "Ai2의 3 km 기상 에뮬레이터",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+              },
+              {
                 "t": "p",
-                "x": "Gemini 4 Argon은 물리적 이해, 코드 생성, 시각·의미 추론에서 한 단계 올라섰다. 덕분에 로보틱스 스택 전반에 새 워크플로가 열리고 물리적 AGI로 가는 걸음도 빨라진다. Embodied Reasoning(ERQA)은 3D 환경에서 물리적·공간적 문제를 푸는 능력을 시험하는 벤치마크다. 여기서 Argon은 순수 추론만으로 87%를 기록해 다른 프런티어 모델을 모두 앞섰다."
+                "x": "Ai2가 High Resolution Output Ai2 Climate Emulator를 HiRO-ACEv2로 새로 고쳤다. HiROv2는 아주 드문 강우·바람·기압 현상까지 정확하게 재현한다. 시스템 전체로 보면 고해상도 전 지구 대기 모델 X-SHiELD의 약 1/300 비용으로 전 지구 3 km 기후 데이터를 만든다."
+              },
+              {
+                "t": "p",
+                "x": "구성은 둘이다. 100 km 해상도로 도는 AI 모델 ACE, 그리고 그 출력을 3 km로 선명하게 다듬는 HiRO다. 해상도를 낮춘 X-SHiELD 데이터를 넣으면 HiROv2는 백만 번에 한 번 있을 사건까지 고해상도 통계를 3% 안쪽으로 맞추고, 눈과 강우대까지 사실적인 허리케인을 만든다."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+                "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+                "cap": "HiRO-ACEv2로 10년을 시뮬레이션해 얻은 북대서양 강한 허리케인 사례."
               },
               {
                 "t": "p",
-                "x": "Argon의 시연은 네 가지 영역에 걸쳤다. 로봇 제어(MuJoCo로 연습한 모바일 조작, zero-shot 제어, 비디오 월드 모델 조종), Real2Sim(로봇 카메라 피드, 자기중심 시점의 인간 영상, 손으로 그린 스케치로 만든 시뮬레이션 트윈), 물리적 이해(사후 라벨링, 밀집 가치 함수, 진행도 추정), 그리고 연구와 자기 개선이다."
+                "x": "전 지구 고해상도 데이터를 만드는 비용은 X-SHiELD를 돌릴 때보다 약 300배 적다. 한 지역만 본다면 절감 폭은 백 배 이상 더 벌어질 수 있다. 다만 더 따뜻한 미래처럼 지금과 다른 기후는 아직 다루지 못한다. Ai2는 4°C 더 따뜻해진 세계를 담은 새 X-SHiELD 데이터로 학습시킬 계획이다."
               },
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+                "cap": "ACE 데이터 시각화 도구에서 본 Baja California 상공의 10 m 풍속 시뮬레이션. 큰 지도는 100 km 해상도의 ACE2, 삽입 지도는 3 km 해상도의 HiRO-ACEv2다."
               },
               {
                 "t": "p",
-                "x": "Argon은 사족 보행 로봇 Boston Dynamics Spot을 제어해 새 기술을 익혔다. 발판식 쓰레기통을 MuJoCo 디지털 트윈으로 만들어 연습한 다음 실제로 페달을 밟아 탄산음료 캔을 넣었다. 단일 탁상 사진으로 시뮬레이션 트윈을 만들고 4,500+개 에피소드를 생성하자 실제 벤치마크 성공률이 56%에서 75%로 올랐다."
+                "x": "웹 데모에서는 HiROv1과 HiROv2의 출력을 X-SHiELD와 나란히 비교해 볼 수 있다. 모델은 튜토리얼 노트북과 함께 내려받으면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini 4 Argon\nロボットに推論力",
-          "body": "GoogleのGemini 4 ArgonはERQA首位でロボットをゼロショット制御する。",
-          "mini_headline": "ロボット向けGemini 4 Argon",
+          "headline": "Ai2、極端気象を\n1/300のコストで再現",
+          "body": "HiRO-ACEv2は極端な雨や風、気圧を3 km解像度で約1/300のコストで捉える。",
+          "mini_headline": "Ai2の3 km気象エミュレーター",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+              },
+              {
                 "t": "p",
-                "x": "Gemini 4 Argonは、物理的理解、コード生成、視覚・意味推論で段階的な飛躍を遂げ、ロボティクススタック全体に新たなワークフローを開き、物理的AGIに向けた進歩を加速させる。3D 環境で物理的・空間的な問題を解く能力を測るEmbodied Reasoning(ERQA)ベンチマークで、Argonは純粋な推論のみで87%を記録し、他のすべてのフロンティアモデルを上回った。"
+                "x": "Ai2は、High Resolution Output Ai2 Climate Emulatorの最新版HiRO-ACEv2を発表した。HiROv2は極めてまれな雨や風、気圧の現象まで高い精度で再現し、システム全体では高解像度の全球大気モデルX-SHiELDの約1/300のコストで、全球3 kmの気候データを生成する。"
+              },
+              {
+                "t": "p",
+                "x": "このシステムは、100 kmで動くAIモデルACEと、その出力を3 kmまで精細化するHiROを組み合わせる。解像度を落としたX-SHiELDデータを与えると、HiROv2は百万回に一度の事象でも高解像度の統計を3%以内で再現し、リアルな目と降雨帯を持つハリケーンを生成する。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+                "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+                "cap": "10年間のHiRO-ACEv2シミュレーションで生成された、北大西洋の強いハリケーンの例。"
               },
               {
                 "t": "p",
-                "x": "Argonは四つの領域で示されている。ロボット制御(MuJoCoでの練習を伴うモバイルマニピュレーション、zero-shot制御、ビデオ世界モデルの操縦)、Real2Sim(ロボットのカメラ映像、エゴセントリックな人間の映像、手描きスケッチからのシミュレーションツイン)、物理的理解(事後ラベリング、密な価値関数、進捗推定)、そして研究と自己改善だ。"
+                "x": "全球の高解像度データを作るコストはX-SHiELDを動かす場合の約300分の1で、単一地域なら削減幅はさらに百倍以上大きくなりうる。より温暖な将来など、ほかの気候にはまだ対応できない。Ai2は、4°C温暖化した世界を含む新たなX-SHiELDデータで学習させる計画だ。"
               },
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+                "cap": "ACEデータビジュアライザーで表示したBaja California上空の10 m風速のシミュレーション。主地図は100 km解像度のACE2、挿入図は3 km解像度のHiRO-ACEv2。"
               },
               {
                 "t": "p",
-                "x": "Argonは脚型ロボットBoston Dynamics Spotを操って新たなスキルを習得した。足踏みペダル式ゴミ箱のMuJoCoデジタルツインを作って練習し、実際のペダルを踏んでソーダ缶を捨てた。単一の卓上写真からシミュレーションツインを構築して4,500+のエピソードを生成し、実世界ベンチマークの成功率を56%から75%に引き上げた。"
+                "x": "ウェブデモではHiROv1とHiROv2の出力をX-SHiELDと並べて見ることができ、モデルはチュートリアルノートブックとともにダウンロードできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini 4 Argon\n为机器人带来推理",
-          "body": "Google称Gemini 4 Argon登顶ERQA具身推理基准，并能零样本控制机器人。",
-          "mini_headline": "面向机器人的Gemini 4 Argon",
+          "headline": "Ai2以1/300成本\n模拟3 km极端天气",
+          "body": "HiRO-ACEv2以3 km分辨率捕捉极端天气，成本约为X-SHiELD的1/300。",
+          "mini_headline": "Ai2的3 km天气模拟器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+              },
+              {
                 "t": "p",
-                "x": "Gemini 4 Argon在物理理解、代码生成和视觉语义推理方面实现了跨越式进步，为整个机器人技术栈开启新的工作流程，并加速迈向物理AGI。在测试模型于3D 环境中解决物理与空间问题能力的Embodied Reasoning(ERQA)基准上，Argon仅凭纯推理就取得87%的成绩，超过其他所有前沿模型。"
+                "x": "Ai2发布了其High Resolution Output Ai2 Climate Emulator的最新版本HiRO-ACEv2。HiROv2能高精度再现极为罕见的降雨、风和气压事件，整个系统生成全球3 km气候数据的成本约为高分辨率全球大气模型X-SHiELD的1/300。"
+              },
+              {
+                "t": "p",
+                "x": "该系统将以100 km分辨率运行的AI模型ACE与把输出细化到3 km的HiRO相结合。输入粗化后的X-SHiELD数据时，HiROv2即使对百万分之一概率的事件，也能把高分辨率统计误差控制在3%以内，并能生成具有逼真风眼和雨带的飓风。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+                "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+                "cap": "10年HiRO-ACEv2模拟中生成的北大西洋强飓风示例。"
               },
               {
                 "t": "p",
-                "x": "Argon的能力展示涵盖四个领域：机器人控制(借助MuJoCo练习的移动操作、zero-shot控制、视频世界模型的操控)、Real2Sim(基于机器人摄像头画面、以自我为中心的人类视频或手绘草图构建仿真孪生)、物理理解(事后标注、稠密价值函数、进度估计)，以及研究与自我改进。"
+                "x": "生成全球高分辨率数据的成本约比运行X-SHiELD低300倍，针对单一区域时，节省幅度还可再大一百倍以上。它目前还无法处理更温暖的未来等其他气候；Ai2计划用新的X-SHiELD数据进行训练，其中包括升温4°C的世界。"
               },
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+                "cap": "ACE数据可视化工具中Baja California上空10 m风速模拟：主图为100 km分辨率的ACE2，插图为3 km分辨率的HiRO-ACEv2。"
               },
               {
                 "t": "p",
-                "x": "Argon操控足式机器人Boston Dynamics Spot学习新技能：先为脚踏式垃圾桶构建MuJoCo数字孪生进行练习，再踩下真实踏板，把汽水罐扔进去。仅凭单张桌面照片，它就构建出仿真孪生并生成4,500+个片段，把真实世界基准的成功率从56%提升到75%。"
+                "x": "网页演示将HiROv1和HiROv2的输出与X-SHiELD并列展示，模型可连同教程笔记本一起下载。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini 4 Argon lleva\nel razonamiento a los robots",
-          "body": "Según Google, Gemini 4 Argon lidera la prueba ERQA de razonamiento corporizado y controla robots en modo zero-shot.",
-          "mini_headline": "Gemini 4 Argon para robots",
+          "headline": "Ai2 emula el clima extremo\na 3 km por 1/300 del costo",
+          "body": "HiRO-ACEv2, de Ai2, capta lluvia, viento y presión extremos a 3 km por cerca de 1/300 del costo de X-SHiELD.",
+          "mini_headline": "El emulador meteorológico de 3 km de Ai2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+              },
+              {
                 "t": "p",
-                "x": "Gemini 4 Argon supone un salto cualitativo en comprensión física, generación de código y razonamiento visual-semántico, lo que abre nuevos flujos de trabajo en toda la pila robótica y acelera el avance hacia la AGI física. En el benchmark Embodied Reasoning (ERQA), que mide la capacidad de un modelo para resolver problemas físicos y espaciales en entornos 3D, Argon obtiene un 87% solo con razonamiento puro y supera a todos los demás modelos de frontera."
+                "x": "Ai2 presentó HiRO-ACEv2, la actualización más reciente de su High Resolution Output Ai2 Climate Emulator. HiROv2 reproduce con gran precisión incluso fenómenos de lluvia, viento y presión extremadamente raros, mientras que el sistema completo genera datos climáticos globales a 3 km por cerca de 1/300 del costo de X-SHiELD, un modelo atmosférico global de alta resolución."
+              },
+              {
+                "t": "p",
+                "x": "El sistema combina ACE, un modelo de inteligencia artificial (AI) que funciona a 100 km, con HiRO, que afina esos resultados hasta 3 km. A partir de datos degradados de X-SHiELD, HiROv2 reproduce sus estadísticas de alta resolución con un margen de 3%, incluso en eventos de uno en un millón, y genera huracanes con ojos y bandas de lluvia realistas."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+                "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+                "cap": "Ejemplo de un huracán intenso en el Atlántico Norte, generado durante la simulación de 10 años de HiRO-ACEv2."
               },
               {
                 "t": "p",
-                "x": "Argon se muestra en cuatro áreas: control de robots (manipulación móvil con práctica en MuJoCo, control zero-shot, dirección de modelos de mundo de vídeo), Real2Sim (gemelos de simulación a partir de imágenes de cámaras de robots, vídeo humano egocéntrico o bocetos a mano), comprensión física (etiquetado retrospectivo, funciones de valor densas, estimación del progreso) e investigación y automejora."
+                "x": "Producir datos globales de alta resolución cuesta unas 300 veces menos que ejecutar X-SHiELD, y para una sola región el ahorro puede ser más de cien veces mayor. Aún no puede abordar otros climas, como un futuro más cálido; Ai2 prevé entrenarlo con nuevos datos de X-SHiELD, incluido un mundo 4°C más cálido."
               },
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+                "cap": "Velocidad del viento simulada a 10 m sobre Baja California en el visualizador de datos de ACE: ACE2 a 100 km de resolución en el mapa principal y HiRO-ACEv2 a 3 km en el recuadro."
               },
               {
                 "t": "p",
-                "x": "Argon controla un cuadrúpedo Boston Dynamics Spot para aprender una habilidad nueva: construye un gemelo digital en MuJoCo de un cubo de basura con pedal para practicar antes de pisar el pedal real y echar latas de refresco. A partir de una única foto de una mesa, creó un gemelo de simulación y generó 4,500+ episodios, lo que elevó el éxito en una prueba del mundo real del 56% al 75%."
+                "x": "Una demo web muestra los resultados de HiROv1 y HiROv2 junto a los de X-SHiELD, y los modelos pueden descargarse con cuadernos tutoriales."
               }
             ]
           }
@@ -505,121 +715,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini 4 Argon\n로봇에 추론을 더하다",
-          "body": "Google의 Gemini 4 Argon은 ERQA 선두이며 로봇도 다룬다.",
-          "mini_headline": "로봇용 Gemini 4 Argon",
+          "headline": "Ai2, 극한 기상을\n1/300 비용에 재현",
+          "body": "HiRO-ACEv2는 극한 기상을 3 km로 약 1/300 비용에 포착한다.",
+          "mini_headline": "Ai2의 3 km 기상 에뮬레이터",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+              },
+              {
                 "t": "p",
-                "x": "Gemini 4 Argon은 물리적 이해, 코드 생성, 시각·의미 추론에서 한 단계 도약을 이뤄 로보틱스 스택 전반에 새로운 워크플로를 열고 물리적 AGI를 향한 진전을 앞당긴다. 3D 환경에서 물리적·공간적 문제를 푸는 능력을 시험하는 Embodied Reasoning(ERQA) 벤치마크에서 Argon은 순수 추론만으로 87%를 기록해 다른 모든 프런티어 모델을 앞섰다."
+                "x": "Ai2가 High Resolution Output Ai2 Climate Emulator의 최신 업데이트인 HiRO-ACEv2를 내놓았다. HiROv2는 극히 드문 강우·바람·기압 현상까지 높은 정확도로 재현하고, 전체 시스템은 고해상도 전 지구 대기 모델인 X-SHiELD 비용의 약 1/300로 전 지구 3 km 기후 데이터를 생성한다."
+              },
+              {
+                "t": "p",
+                "x": "이 시스템은 100 km 해상도로 돌아가는 AI 모델 ACE와, 그 출력을 3 km로 선명하게 다듬는 HiRO를 결합한다. 해상도를 낮춘 X-SHiELD 데이터를 넣으면 HiROv2는 백만 번에 한 번 일어날 사건까지 고해상도 통계를 3% 이내로 맞추고, 사실적인 눈과 강우대를 갖춘 허리케인을 만들어 낸다."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+                "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+                "cap": "10년간의 HiRO-ACEv2 시뮬레이션에서 생성된 북대서양의 강한 허리케인 사례."
               },
               {
                 "t": "p",
-                "x": "Argon은 네 가지 영역에서 시연됐다. 로봇 제어(MuJoCo 연습을 통한 모바일 조작, zero-shot 제어, 비디오 월드 모델 조종), Real2Sim(로봇 카메라 피드, 자기중심 시점의 인간 영상, 손으로 그린 스케치로 만든 시뮬레이션 트윈), 물리적 이해(사후 라벨링, 밀집 가치 함수, 진행도 추정), 그리고 연구와 자기 개선이다."
+                "x": "전 지구 고해상도 데이터를 만드는 비용은 X-SHiELD를 돌리는 것보다 약 300배 낮고, 단일 지역이라면 절감 폭이 백 배 이상 더 커질 수 있다. 아직 더 따뜻한 미래 같은 다른 기후는 다루지 못한다. Ai2는 4°C 더 따뜻해진 세계를 포함한 새 X-SHiELD 데이터로 학습할 계획이다."
               },
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+                "cap": "ACE 데이터 시각화 도구에서 본 Baja California 상공의 10 m 풍속 시뮬레이션. 큰 지도는 100 km 해상도의 ACE2, 삽입 지도는 3 km 해상도의 HiRO-ACEv2다."
               },
               {
                 "t": "p",
-                "x": "Argon은 사족 보행 로봇 Boston Dynamics Spot을 제어해 새 기술을 익혔다. 발판식 쓰레기통의 MuJoCo 디지털 트윈을 만들어 연습한 뒤 실제 페달을 밟고 탄산음료 캔을 넣었다. 단일 탁상 사진으로 시뮬레이션 트윈을 만들고 4,500+개 에피소드를 생성해 실제 벤치마크 성공률을 56%에서 75%로 끌어올렸다."
+                "x": "웹 데모에서 HiROv1과 HiROv2의 출력을 X-SHiELD와 나란히 볼 수 있으며, 모델은 튜토리얼 노트북과 함께 내려받을 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini 4 Argon\nロボットに推論力",
-          "body": "GoogleのGemini 4 ArgonはERQA首位でロボットをゼロショット制御する。",
-          "mini_headline": "ロボット向けGemini 4 Argon",
+          "headline": "Ai2、極端気象を\n1/300のコストで再現",
+          "body": "HiRO-ACEv2は極端な雨や風、気圧を3 km解像度で約1/300のコストで捉える。",
+          "mini_headline": "Ai2の3 km気象エミュレーター",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+              },
+              {
                 "t": "p",
-                "x": "Gemini 4 Argonは、物理的理解、コード生成、視覚・意味推論で段階的な飛躍を遂げ、ロボティクススタック全体に新たなワークフローを開き、物理的AGIに向けた進歩を加速させる。3D 環境で物理的・空間的な問題を解く能力を測るEmbodied Reasoning(ERQA)ベンチマークで、Argonは純粋な推論のみで87%を記録し、他のすべてのフロンティアモデルを上回った。"
+                "x": "Ai2は、High Resolution Output Ai2 Climate Emulatorの最新版HiRO-ACEv2を発表した。HiROv2は極めてまれな雨や風、気圧の現象まで高い精度で再現し、システム全体では高解像度の全球大気モデルX-SHiELDの約1/300のコストで、全球3 kmの気候データを生成する。"
+              },
+              {
+                "t": "p",
+                "x": "このシステムは、100 kmで動くAIモデルACEと、その出力を3 kmまで精細化するHiROを組み合わせる。解像度を落としたX-SHiELDデータを与えると、HiROv2は百万回に一度の事象でも高解像度の統計を3%以内で再現し、リアルな目と降雨帯を持つハリケーンを生成する。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+                "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+                "cap": "10年間のHiRO-ACEv2シミュレーションで生成された、北大西洋の強いハリケーンの例。"
               },
               {
                 "t": "p",
-                "x": "Argonは四つの領域で示されている。ロボット制御(MuJoCoでの練習を伴うモバイルマニピュレーション、zero-shot制御、ビデオ世界モデルの操縦)、Real2Sim(ロボットのカメラ映像、エゴセントリックな人間の映像、手描きスケッチからのシミュレーションツイン)、物理的理解(事後ラベリング、密な価値関数、進捗推定)、そして研究と自己改善だ。"
+                "x": "全球の高解像度データを作るコストはX-SHiELDを動かす場合の約300分の1で、単一地域なら削減幅はさらに百倍以上大きくなりうる。より温暖な将来など、ほかの気候にはまだ対応できない。Ai2は、4°C温暖化した世界を含む新たなX-SHiELDデータで学習させる計画だ。"
               },
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+                "cap": "ACEデータビジュアライザーで表示したBaja California上空の10 m風速のシミュレーション。主地図は100 km解像度のACE2、挿入図は3 km解像度のHiRO-ACEv2。"
               },
               {
                 "t": "p",
-                "x": "Argonは脚型ロボットBoston Dynamics Spotを操って新たなスキルを習得した。足踏みペダル式ゴミ箱のMuJoCoデジタルツインを作って練習し、実際のペダルを踏んでソーダ缶を捨てた。単一の卓上写真からシミュレーションツインを構築して4,500+のエピソードを生成し、実世界ベンチマークの成功率を56%から75%に引き上げた。"
+                "x": "ウェブデモではHiROv1とHiROv2の出力をX-SHiELDと並べて見ることができ、モデルはチュートリアルノートブックとともにダウンロードできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini 4 Argon\n为机器人带来推理",
-          "body": "Google称Gemini 4 Argon登顶ERQA具身推理基准，并能零样本控制机器人。",
-          "mini_headline": "面向机器人的Gemini 4 Argon",
+          "headline": "Ai2以1/300成本\n模拟3 km极端天气",
+          "body": "HiRO-ACEv2以3 km分辨率捕捉极端天气，成本约为X-SHiELD的1/300。",
+          "mini_headline": "Ai2的3 km天气模拟器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+              },
+              {
                 "t": "p",
-                "x": "Gemini 4 Argon在物理理解、代码生成和视觉语义推理方面实现了跨越式进步，为整个机器人技术栈开启新的工作流程，并加速迈向物理AGI。在测试模型于3D 环境中解决物理与空间问题能力的Embodied Reasoning(ERQA)基准上，Argon仅凭纯推理就取得87%的成绩，超过其他所有前沿模型。"
+                "x": "Ai2发布了其High Resolution Output Ai2 Climate Emulator的最新版本HiRO-ACEv2。HiROv2能高精度再现极为罕见的降雨、风和气压事件，整个系统生成全球3 km气候数据的成本约为高分辨率全球大气模型X-SHiELD的1/300。"
+              },
+              {
+                "t": "p",
+                "x": "该系统将以100 km分辨率运行的AI模型ACE与把输出细化到3 km的HiRO相结合。输入粗化后的X-SHiELD数据时，HiROv2即使对百万分之一概率的事件，也能把高分辨率统计误差控制在3%以内，并能生成具有逼真风眼和雨带的飓风。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+                "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+                "cap": "10年HiRO-ACEv2模拟中生成的北大西洋强飓风示例。"
               },
               {
                 "t": "p",
-                "x": "Argon的能力展示涵盖四个领域：机器人控制(借助MuJoCo练习的移动操作、zero-shot控制、视频世界模型的操控)、Real2Sim(基于机器人摄像头画面、以自我为中心的人类视频或手绘草图构建仿真孪生)、物理理解(事后标注、稠密价值函数、进度估计)，以及研究与自我改进。"
+                "x": "生成全球高分辨率数据的成本约比运行X-SHiELD低300倍，针对单一区域时，节省幅度还可再大一百倍以上。它目前还无法处理更温暖的未来等其他气候；Ai2计划用新的X-SHiELD数据进行训练，其中包括升温4°C的世界。"
               },
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+                "cap": "ACE数据可视化工具中Baja California上空10 m风速模拟：主图为100 km分辨率的ACE2，插图为3 km分辨率的HiRO-ACEv2。"
               },
               {
                 "t": "p",
-                "x": "Argon操控足式机器人Boston Dynamics Spot学习新技能：先为脚踏式垃圾桶构建MuJoCo数字孪生进行练习，再踩下真实踏板，把汽水罐扔进去。仅凭单张桌面照片，它就构建出仿真孪生并生成4,500+个片段，把真实世界基准的成功率从56%提升到75%。"
+                "x": "网页演示将HiROv1和HiROv2的输出与X-SHiELD并列展示，模型可连同教程笔记本一起下载。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini 4 Argon lleva\nel razonamiento a los robots",
-          "body": "Según Google, Gemini 4 Argon lidera la prueba ERQA de razonamiento corporizado y controla robots en modo zero-shot.",
-          "mini_headline": "Gemini 4 Argon para robots",
+          "headline": "Ai2 emula el clima extremo\na 3 km por 1/300 del costo",
+          "body": "HiRO-ACEv2, de Ai2, capta lluvia, viento y presión extremos a 3 km por cerca de 1/300 del costo de X-SHiELD.",
+          "mini_headline": "El emulador meteorológico de 3 km de Ai2",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+              },
+              {
                 "t": "p",
-                "x": "Gemini 4 Argon supone un salto cualitativo en comprensión física, generación de código y razonamiento visual-semántico, lo que abre nuevos flujos de trabajo en toda la pila robótica y acelera el avance hacia la AGI física. En el benchmark Embodied Reasoning (ERQA), que mide la capacidad de un modelo para resolver problemas físicos y espaciales en entornos 3D, Argon obtiene un 87% solo con razonamiento puro y supera a todos los demás modelos de frontera."
+                "x": "Ai2 presentó HiRO-ACEv2, la actualización más reciente de su High Resolution Output Ai2 Climate Emulator. HiROv2 reproduce con gran precisión incluso fenómenos de lluvia, viento y presión extremadamente raros, mientras que el sistema completo genera datos climáticos globales a 3 km por cerca de 1/300 del costo de X-SHiELD, un modelo atmosférico global de alta resolución."
+              },
+              {
+                "t": "p",
+                "x": "El sistema combina ACE, un modelo de inteligencia artificial (AI) que funciona a 100 km, con HiRO, que afina esos resultados hasta 3 km. A partir de datos degradados de X-SHiELD, HiROv2 reproduce sus estadísticas de alta resolución con un margen de 3%, incluso en eventos de uno en un millón, y genera huracanes con ojos y bandas de lluvia realistas."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg"
+                "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+                "cap": "Ejemplo de un huracán intenso en el Atlántico Norte, generado durante la simulación de 10 años de HiRO-ACEv2."
               },
               {
                 "t": "p",
-                "x": "Argon se muestra en cuatro áreas: control de robots (manipulación móvil con práctica en MuJoCo, control zero-shot, dirección de modelos de mundo de vídeo), Real2Sim (gemelos de simulación a partir de imágenes de cámaras de robots, vídeo humano egocéntrico o bocetos a mano), comprensión física (etiquetado retrospectivo, funciones de valor densas, estimación del progreso) e investigación y automejora."
+                "x": "Producir datos globales de alta resolución cuesta unas 300 veces menos que ejecutar X-SHiELD, y para una sola región el ahorro puede ser más de cien veces mayor. Aún no puede abordar otros climas, como un futuro más cálido; Ai2 prevé entrenarlo con nuevos datos de X-SHiELD, incluido un mundo 4°C más cálido."
               },
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/original_videos/Spot-can-long-voiceover-preview.mp4"
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+                "cap": "Velocidad del viento simulada a 10 m sobre Baja California en el visualizador de datos de ACE: ACE2 a 100 km de resolución en el mapa principal y HiRO-ACEv2 a 3 km en el recuadro."
               },
               {
                 "t": "p",
-                "x": "Argon controla un cuadrúpedo Boston Dynamics Spot para aprender una habilidad nueva: construye un gemelo digital en MuJoCo de un cubo de basura con pedal para practicar antes de pisar el pedal real y echar latas de refresco. A partir de una única foto de una mesa, creó un gemelo de simulación y generó 4,500+ episodios, lo que elevó el éxito en una prueba del mundo real del 56% al 75%."
+                "x": "Una demo web muestra los resultados de HiROv1 y HiROv2 junto a los de X-SHiELD, y los modelos pueden descargarse con cuadernos tutoriales."
               }
             ]
           }
@@ -627,297 +877,15 @@
       }
     },
     {
-      "id": "science-idealens-idea-detector",
+      "id": "science-tess-superearth",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "IdeaLens는 생각으로\nAI 글을 가려낸다",
-      "body": "IdeaLens는 AI가 전부 쓴 문서의 91%를 오경보 0.6%로 잡아낸다.",
-      "mini_headline": "생각을 읽는 IdeaLens",
+      "headline": "AI로 찾은 숨은\nsuper-Earth 후보",
+      "body": "Pavel Rabtsevich가 AI로 TESS에서 super-Earth를 찾았다.",
+      "mini_headline": "AI가 도운 아마추어의 행성 발견",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-            "cap": "IDEALENS는 생각을, 기존 탐지기는 표현을 좇는다. Credit: arXiv (2026)."
-          },
-          {
-            "t": "p",
-            "x": "University of Maryland, Google DeepMind, Simon Fraser University 연구진이 만든 IdeaLens는 단어 선택 대신 밑바탕에 깔린 생각과 논증을 분석해 글에 AI가 개입했는지 가려낸다. 연구팀은 라벨이 붙은 문서 약 1백만 건을 모아 언어 모델로 문체를 걷어 내고 핵심 논증만 남긴 개요로 압축했다."
-          },
-          {
-            "t": "p",
-            "x": "사람이 다 쓴 문서와 전부 AI-generated(AI가 생성한) 문서를 놓고 보면 IdeaLens는 AI 생성 문서의 91%를 찾아냈고 사람 글에 낸 오경보는 0.6%였다. AI가 짠 개요로 사람이 쓴 글에서는 68%를 AI의 생각으로 표시했는데 Pangram은 8%만 잡았다. 거꾸로 사람이 짠 개요로 AI가 쓴 글에서는 Pangram 4가 AI 문구의 92%를 잡았고 IdeaLens는 7%만 표시했다."
-          },
-          {
-            "t": "p",
-            "x": "예측 90,000건을 통틀어 보면 사람의 생각에는 검증 가능한 출처와 한계를 인정하는 대목이 담기는 편이었고 AI 글은 일반적인 세부 사항, 검증할 수 없는 숫자, 포괄적인 주장에 기댔다. IdeaLens는 일부 최신 모델 앞에서 효과가 떨어져 추가 검증 없이 배포할 단계는 아니다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "IdeaLens spots AI writing\nby its ideas, not words",
-          "body": "IdeaLens judges if a text's ideas came from AI, catching 91% of documents fully written by AI with 0.6% false alarms.",
-          "mini_headline": "IdeaLens reads ideas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-                "cap": "IDEALENS tracks ideas; traditional detectors track wording. Credit: arXiv (2026)."
-              },
-              {
-                "t": "p",
-                "x": "Researchers from the University of Maryland, Google DeepMind and Simon Fraser University built IdeaLens, which tries to detect AI involvement in writing by analyzing the underlying ideas and arguments rather than word choice. The team collected about 1 million labeled documents and used language models to reduce them to outlines of core arguments, stripping away style."
-              },
-              {
-                "t": "p",
-                "x": "On fully human or fully AI-generated documents, IdeaLens identified 91% of AI-generated ones, with false alarms on 0.6% of human work. On human writing based on AI outlines, it flagged 68% as AI ideas, while Pangram caught only 8%. On AI writing based on human outlines, Pangram 4 caught 92% of the AI wording; IdeaLens flagged only 7%."
-              },
-              {
-                "t": "p",
-                "x": "Across 90,000 predictions, human ideas tended to include verifiable sources and acknowledged limitations; AI writing leaned on generic details, unverifiable numbers and sweeping claims. IdeaLens was less effective on some newer models, so it is not ready for deployment without further testing."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "IdeaLens는 생각으로\nAI 글을 가려낸다",
-          "body": "IdeaLens는 AI가 전부 쓴 문서의 91%를 오경보 0.6%로 잡아낸다.",
-          "mini_headline": "생각을 읽는 IdeaLens",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-                "cap": "IDEALENS는 생각을, 기존 탐지기는 표현을 좇는다. Credit: arXiv (2026)."
-              },
-              {
-                "t": "p",
-                "x": "University of Maryland, Google DeepMind, Simon Fraser University 연구진이 만든 IdeaLens는 단어 선택 대신 밑바탕에 깔린 생각과 논증을 분석해 글에 AI가 개입했는지 가려낸다. 연구팀은 라벨이 붙은 문서 약 1백만 건을 모아 언어 모델로 문체를 걷어 내고 핵심 논증만 남긴 개요로 압축했다."
-              },
-              {
-                "t": "p",
-                "x": "사람이 다 쓴 문서와 전부 AI-generated(AI가 생성한) 문서를 놓고 보면 IdeaLens는 AI 생성 문서의 91%를 찾아냈고 사람 글에 낸 오경보는 0.6%였다. AI가 짠 개요로 사람이 쓴 글에서는 68%를 AI의 생각으로 표시했는데 Pangram은 8%만 잡았다. 거꾸로 사람이 짠 개요로 AI가 쓴 글에서는 Pangram 4가 AI 문구의 92%를 잡았고 IdeaLens는 7%만 표시했다."
-              },
-              {
-                "t": "p",
-                "x": "예측 90,000건을 통틀어 보면 사람의 생각에는 검증 가능한 출처와 한계를 인정하는 대목이 담기는 편이었고 AI 글은 일반적인 세부 사항, 검증할 수 없는 숫자, 포괄적인 주장에 기댔다. IdeaLens는 일부 최신 모델 앞에서 효과가 떨어져 추가 검증 없이 배포할 단계는 아니다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "IdeaLensは言葉でなく\n発想でAI文を見抜く",
-          "body": "IdeaLensは発想の出所を判定し、AIのみの文書の91%を誤検知0.6%で捉える。",
-          "mini_headline": "発想を読むIdeaLens",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-                "cap": "IDEALENSは発想を、従来の検出器は言い回しを追跡する。Credit: arXiv (2026)."
-              },
-              {
-                "t": "p",
-                "x": "University of Maryland、Google DeepMind、Simon Fraser Universityの研究者らは、言葉選びではなく根底にある発想や論証を分析して文章へのAIの関与を検出するIdeaLensを開発した。チームはラベル付きの文書を約1百万件集め、言語モデルで文体を取り除いて核となる論証のアウトラインに要約した。"
-              },
-              {
-                "t": "p",
-                "x": "完全に人間が書いた文書と完全にAI-generatedな文書では、IdeaLensはAI生成文書の91%を特定し、人間の文章への誤検知は0.6%だった。AIのアウトラインを基に人間が書いた文章では68%をAIの発想と判定したが、Pangramは8%しか捉えられなかった。人間のアウトラインを基にAIが書いた文章では、Pangram 4がAIの言い回しの92%を捉えたのに対し、IdeaLensが判定したのは7%にとどまった。"
-              },
-              {
-                "t": "p",
-                "x": "90,000件の予測を通じて、人間の発想には検証可能な出典や限界への言及が含まれる傾向があり、AIの文章はありきたりな細部、検証できない数字、大まかな主張に頼っていた。IdeaLensはいくつかの新しいモデルでは効果が落ちるため、さらなる検証なしに導入できる段階にはない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "IdeaLens凭观点\n而非措辞识别AI文",
-          "body": "IdeaLens判断文本观点是否来自AI，能识别91%的纯AI文档，误报率0.6%。",
-          "mini_headline": "解读观点的IdeaLens",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-                "cap": "IDEALENS追踪观点；传统检测器追踪措辞。Credit: arXiv (2026)."
-              },
-              {
-                "t": "p",
-                "x": "来自University of Maryland、Google DeepMind和Simon Fraser University的研究人员开发了IdeaLens，它通过分析文本背后的观点与论证而非用词，来检测写作中是否有AI参与。团队收集了约1百万份带标签的文档，并用语言模型去除文风，将其提炼为核心论证的大纲。"
-              },
-              {
-                "t": "p",
-                "x": "在完全由人类撰写或完全AI-generated的文档上，IdeaLens识别出91%的AI生成文档，对人类作品的误报率为0.6%。对于基于AI大纲由人类撰写的文本，它将68%标记为AI观点，而Pangram仅识别出8%。对于基于人类大纲由AI撰写的文本，Pangram 4识别出92%的AI措辞，IdeaLens仅标记了7%。"
-              },
-              {
-                "t": "p",
-                "x": "在90,000次预测中，人类的观点往往包含可核实的来源并承认局限；AI写作则依赖泛泛的细节、无法核实的数字和笼统的论断。IdeaLens在部分较新的模型上效果较差，因此未经进一步测试尚不能投入使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IdeaLens detecta textos de AI\npor sus ideas, no por palabras",
-          "body": "IdeaLens juzga si las ideas vienen de AI y detecta el 91% de textos hechos por AI, con 0.6% de falsas alarmas.",
-          "mini_headline": "IdeaLens lee ideas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-                "cap": "IDEALENS rastrea las ideas; los detectores tradicionales rastrean la redacción. Credit: arXiv (2026)."
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de la University of Maryland, Google DeepMind y la Simon Fraser University crearon IdeaLens, que intenta detectar la intervención de la AI en la escritura analizando las ideas y argumentos de fondo en lugar de la elección de palabras. El equipo reunió alrededor de 1 millón de documentos etiquetados y usó modelos de lenguaje para reducirlos a esquemas de sus argumentos centrales, eliminando el estilo."
-              },
-              {
-                "t": "p",
-                "x": "En documentos totalmente humanos o totalmente AI-generated, IdeaLens identificó el 91% de los generados por AI, con falsas alarmas en el 0.6% de los trabajos humanos. En textos humanos basados en esquemas de AI, marcó el 68% como ideas de AI, mientras que Pangram solo detectó el 8%. En textos de AI basados en esquemas humanos, Pangram 4 detectó el 92% de la redacción de AI; IdeaLens solo marcó el 7%."
-              },
-              {
-                "t": "p",
-                "x": "En 90,000 predicciones, las ideas humanas tendían a incluir fuentes verificables y a reconocer limitaciones; la escritura de AI se apoyaba en detalles genéricos, cifras no verificables y afirmaciones generales. IdeaLens fue menos eficaz con algunos modelos más recientes, por lo que no está listo para su despliegue sin más pruebas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "IdeaLens는 생각으로\nAI 글을 가려낸다",
-          "body": "IdeaLens는 AI가 전부 쓴 문서의 91%를 오경보 0.6%로 잡아낸다.",
-          "mini_headline": "생각을 읽는 IdeaLens",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-                "cap": "IDEALENS는 생각을, 기존 탐지기는 표현을 추적한다. Credit: arXiv (2026)."
-              },
-              {
-                "t": "p",
-                "x": "University of Maryland, Google DeepMind, Simon Fraser University 연구진은 단어 선택이 아니라 밑바탕의 생각과 논증을 분석해 글쓰기에 AI가 개입했는지 가려내는 IdeaLens를 만들었다. 연구팀은 라벨이 달린 문서 약 1백만 건을 모은 뒤 언어 모델로 문체를 걷어 내고 핵심 논증의 개요로 압축했다."
-              },
-              {
-                "t": "p",
-                "x": "완전히 사람이 쓴 문서와 완전히 AI-generated(AI가 생성한) 문서에서 IdeaLens는 AI 생성 문서의 91%를 찾아냈고, 사람의 글에 대한 오경보는 0.6%였다. AI 개요를 바탕으로 사람이 쓴 글에서는 68%를 AI의 생각으로 표시했는데, Pangram은 8%만 잡았다. 사람의 개요를 바탕으로 AI가 쓴 글에서는 Pangram 4가 AI 문구의 92%를 잡은 반면 IdeaLens는 7%만 표시했다."
-              },
-              {
-                "t": "p",
-                "x": "90,000건의 예측 전반에서 사람의 생각은 검증 가능한 출처와 한계 인정을 담는 경향이 있었고, AI 글은 일반적인 세부 사항, 검증할 수 없는 숫자, 포괄적인 주장에 기댔다. IdeaLens는 일부 최신 모델에서 효과가 떨어져, 추가 검증 없이 배포할 단계는 아니다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "IdeaLensは言葉でなく\n発想でAI文を見抜く",
-          "body": "IdeaLensは発想の出所を判定し、AIのみの文書の91%を誤検知0.6%で捉える。",
-          "mini_headline": "発想を読むIdeaLens",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-                "cap": "IDEALENSは発想を、従来の検出器は言い回しを追跡する。Credit: arXiv (2026)."
-              },
-              {
-                "t": "p",
-                "x": "University of Maryland、Google DeepMind、Simon Fraser Universityの研究者らは、言葉選びではなく根底にある発想や論証を分析して文章へのAIの関与を検出するIdeaLensを開発した。チームはラベル付きの文書を約1百万件集め、言語モデルで文体を取り除いて核となる論証のアウトラインに要約した。"
-              },
-              {
-                "t": "p",
-                "x": "完全に人間が書いた文書と完全にAI-generatedな文書では、IdeaLensはAI生成文書の91%を特定し、人間の文章への誤検知は0.6%だった。AIのアウトラインを基に人間が書いた文章では68%をAIの発想と判定したが、Pangramは8%しか捉えられなかった。人間のアウトラインを基にAIが書いた文章では、Pangram 4がAIの言い回しの92%を捉えたのに対し、IdeaLensが判定したのは7%にとどまった。"
-              },
-              {
-                "t": "p",
-                "x": "90,000件の予測を通じて、人間の発想には検証可能な出典や限界への言及が含まれる傾向があり、AIの文章はありきたりな細部、検証できない数字、大まかな主張に頼っていた。IdeaLensはいくつかの新しいモデルでは効果が落ちるため、さらなる検証なしに導入できる段階にはない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "IdeaLens凭观点\n而非措辞识别AI文",
-          "body": "IdeaLens判断文本观点是否来自AI，能识别91%的纯AI文档，误报率0.6%。",
-          "mini_headline": "解读观点的IdeaLens",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-                "cap": "IDEALENS追踪观点；传统检测器追踪措辞。Credit: arXiv (2026)."
-              },
-              {
-                "t": "p",
-                "x": "来自University of Maryland、Google DeepMind和Simon Fraser University的研究人员开发了IdeaLens，它通过分析文本背后的观点与论证而非用词，来检测写作中是否有AI参与。团队收集了约1百万份带标签的文档，并用语言模型去除文风，将其提炼为核心论证的大纲。"
-              },
-              {
-                "t": "p",
-                "x": "在完全由人类撰写或完全AI-generated的文档上，IdeaLens识别出91%的AI生成文档，对人类作品的误报率为0.6%。对于基于AI大纲由人类撰写的文本，它将68%标记为AI观点，而Pangram仅识别出8%。对于基于人类大纲由AI撰写的文本，Pangram 4识别出92%的AI措辞，IdeaLens仅标记了7%。"
-              },
-              {
-                "t": "p",
-                "x": "在90,000次预测中，人类的观点往往包含可核实的来源并承认局限；AI写作则依赖泛泛的细节、无法核实的数字和笼统的论断。IdeaLens在部分较新的模型上效果较差，因此未经进一步测试尚不能投入使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "IdeaLens detecta textos de AI\npor sus ideas, no por palabras",
-          "body": "IdeaLens juzga si las ideas vienen de AI y detecta el 91% de textos hechos por AI, con 0.6% de falsas alarmas.",
-          "mini_headline": "IdeaLens lee ideas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg",
-                "cap": "IDEALENS rastrea las ideas; los detectores tradicionales rastrean la redacción. Credit: arXiv (2026)."
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de la University of Maryland, Google DeepMind y la Simon Fraser University crearon IdeaLens, que intenta detectar la intervención de la AI en la escritura analizando las ideas y argumentos de fondo en lugar de la elección de palabras. El equipo reunió alrededor de 1 millón de documentos etiquetados y usó modelos de lenguaje para reducirlos a esquemas de sus argumentos centrales, eliminando el estilo."
-              },
-              {
-                "t": "p",
-                "x": "En documentos totalmente humanos o totalmente AI-generated, IdeaLens identificó el 91% de los generados por AI, con falsas alarmas en el 0.6% de los trabajos humanos. En textos humanos basados en esquemas de AI, marcó el 68% como ideas de AI, mientras que Pangram solo detectó el 8%. En textos de AI basados en esquemas humanos, Pangram 4 detectó el 92% de la redacción de AI; IdeaLens solo marcó el 7%."
-              },
-              {
-                "t": "p",
-                "x": "En 90,000 predicciones, las ideas humanas tendían a incluir fuentes verificables y a reconocer limitaciones; la escritura de AI se apoyaba en detalles genéricos, cifras no verificables y afirmaciones generales. IdeaLens fue menos eficaz con algunos modelos más recientes, por lo que no está listo para su despliegue sin más pruebas."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "science-arnhem-rangers-megadetector",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "레인저들, 카메라 트랩\n영상에 AI를 쓰다",
-      "body": "원주민 레인저가 MegaDetector로 검토할 이미지를 약 81% 줄였다.",
-      "mini_headline": "레인저와 카메라 트랩 AI",
-      "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-rangers-reimagine-ai-wildlife.html",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -925,155 +893,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-            "cap": "Warddeken 레인저들이 쓰는 카메라 트랩에 찍힌 검은발나무쥐. Credit: Cara Penton"
+            "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+            "cap": "모항성을 도는 용암 행성 앞의 TESS를 그린 상상도다."
           },
           {
             "t": "p",
-            "x": "Warddeken Land Management, Charles Darwin University, CSIRO 연구진은 Conservation Science and Practice에 실린 논문에서 AI가 Australia West Arnhem의 원주민 주도(Indigenous-led) 야생동물 모니터링을 어떻게 도울지 살폈다. 연구의 중심에는 Warddeken Indigenous Protected Area에서 카메라 트랩을 운영하고 bininj와 daluk 레인저를 고용하는 Mayh(동물) 프로그램이 있다."
+            "x": "Pavel Rabtsevich는 스페인에 사는 프로덕트 매니저이자 우주과학 애호가다. 그는 직접 만든 AI 알고리즘으로 NASA TESS 데이터 속 표적 항성 126,000개 이상을 훑었고, 알고리즘은 오리온자리(Orion)에서 약 116광년 떨어진 TIC 4206066을 짚어냈다. 이 별은 사흘마다 약 두 시간씩 어두워졌다. 그는 이후 기록 보관소를 뒤져 감광 현상 22건을 더 찾았다."
           },
           {
             "t": "p",
-            "x": "레인저들은 1,572시간 분량의 데이터를 동물 탐지 모델 MegaDetector에 넣었다. 분석할 이미지가 925,088장에서 172,290장으로 81.4% 줄었고 처리 기간은 여섯 달에서 두 달로 짧아졌다. 두 주마다 드는 평균 처리 시간도 52.6시간에서 41.8시간으로 줄면서 토지 관리, 종 식별, 언어 기록, 워크숍에 쓸 시간이 생겼다."
+            "x": "행성으로 확인되면 지구 반지름의 약 1.4배인 super-Earth가 된다. 표면 온도는 1,000°F(540°C)로 추정된다. 다만 2018년 감광 일부가 TESS 추력기 분사 시점과 겹쳤다. 그래서 그는 다른 가능성을 아직 배제하지 못한 “반복되는 통과 유사 신호”라고 부른다."
           },
           {
             "t": "p",
-            "x": "Dr. Cara Penton은 데이터 검증에는 계속 사람이 참여한다고 강조했다. 선임 daluk 레인저 Suzanna Nabulwad는 원로들 의견을 들으며 기술을 신중하게 들여와야 한다고 말했다."
+            "x": "AI가 없었다면 이번 탐색은 불가능했다는 게 그의 말이다. 여러 에이전트가 “코드를 짜고, 돌리고, 서로의 작업을 점검했지만” “연구 자체는 내 것”이라고 한다. Yale의 Greg Laughlin은 이 후보가 “탄탄하다”고 본다. MIT의 Pablo Mercader Perez에 따르면 TESS 필터는 2020년에 이 신호를 잡고도 걸러 냈고, 올해 1월에야 검출할 수 있게 됐다. TESS는 11월에 이 별을 다시 관측한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Rangers put AI to work\non camera trap footage",
-          "body": "Indigenous rangers ran MegaDetector on camera trap footage, cutting images needing human review by about 81%.",
-          "mini_headline": "Rangers and camera-trap AI",
+          "headline": "An amateur uses AI to find\na possible hidden super-Earth",
+          "body": "Amateur astronomer Pavel Rabtsevich used AI tools to spot a possible super-Earth hidden for years in NASA TESS data.",
+          "mini_headline": "AI helps amateur find a planet",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-                "cap": "A black-footed tree-rat, captured on a camera trap used by Warddeken rangers. Credit: Cara Penton"
+                "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+                "cap": "An artist concept of TESS in front of a lava planet orbiting its host star."
               },
               {
                 "t": "p",
-                "x": "Researchers from Warddeken Land Management, Charles Darwin University and CSIRO studied how AI could support Indigenous-led wildlife monitoring in West Arnhem, Australia, in a paper in Conservation Science and Practice. The work centers on the Mayh (animal) program, which runs camera traps in the Warddeken Indigenous Protected Area and employs bininj and daluk rangers."
+                "x": "Pavel Rabtsevich, a Spain-based product manager and space science hobbyist, used a custom AI algorithm to search more than 126,000 target stars in NASA TESS data. It flagged TIC 4206066, about 116 light-years away in Orion, which dimmed for about two hours every three days; he then found 22 more dimming events in the archives."
               },
               {
                 "t": "p",
-                "x": "Rangers fed 1,572 hours of data to the MegaDetector animal-detection model. Images needing analysis fell from 925,088 to 172,290, an 81.4% reduction, and processing time dropped from six months to two. Average processing time fell from 52.6 to 41.8 hours every two weeks, freeing time for land management, species identification, language documentation and workshops."
+                "x": "If confirmed, the world would be a super-Earth about 1.4 times Earth's radius, with an estimated surface temperature of 1,000°F (540°C). Some 2018 dips aligned with TESS thruster firings, so he calls it a “repeating transitlike signal” with alternatives not yet ruled out."
               },
               {
                 "t": "p",
-                "x": "Dr. Cara Penton stressed that people remain involved in verifying data, and senior daluk ranger Suzanna Nabulwad said technology should be introduced carefully, with input from elders."
+                "x": "The search couldn't have been done without AI, he says: multiple agents “wrote the code, ran it and checked each other's work,” but “the research itself was mine.” Yale's Greg Laughlin calls the candidate “solid.” MIT's Pablo Mercader Perez notes a TESS filter caught the signal in 2020 but rejected it; it became detectable only this January. TESS will reexamine the star in November."
               }
             ]
           }
         },
         "ko": {
-          "headline": "레인저들, 카메라 트랩\n영상에 AI를 쓰다",
-          "body": "원주민 레인저가 MegaDetector로 검토할 이미지를 약 81% 줄였다.",
-          "mini_headline": "레인저와 카메라 트랩 AI",
+          "headline": "AI로 찾은 숨은\nsuper-Earth 후보",
+          "body": "Pavel Rabtsevich가 AI로 TESS에서 super-Earth를 찾았다.",
+          "mini_headline": "AI가 도운 아마추어의 행성 발견",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-                "cap": "Warddeken 레인저들이 쓰는 카메라 트랩에 찍힌 검은발나무쥐. Credit: Cara Penton"
+                "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+                "cap": "모항성을 도는 용암 행성 앞의 TESS를 그린 상상도다."
               },
               {
                 "t": "p",
-                "x": "Warddeken Land Management, Charles Darwin University, CSIRO 연구진은 Conservation Science and Practice에 실린 논문에서 AI가 Australia West Arnhem의 원주민 주도(Indigenous-led) 야생동물 모니터링을 어떻게 도울지 살폈다. 연구의 중심에는 Warddeken Indigenous Protected Area에서 카메라 트랩을 운영하고 bininj와 daluk 레인저를 고용하는 Mayh(동물) 프로그램이 있다."
+                "x": "Pavel Rabtsevich는 스페인에 사는 프로덕트 매니저이자 우주과학 애호가다. 그는 직접 만든 AI 알고리즘으로 NASA TESS 데이터 속 표적 항성 126,000개 이상을 훑었고, 알고리즘은 오리온자리(Orion)에서 약 116광년 떨어진 TIC 4206066을 짚어냈다. 이 별은 사흘마다 약 두 시간씩 어두워졌다. 그는 이후 기록 보관소를 뒤져 감광 현상 22건을 더 찾았다."
               },
               {
                 "t": "p",
-                "x": "레인저들은 1,572시간 분량의 데이터를 동물 탐지 모델 MegaDetector에 넣었다. 분석할 이미지가 925,088장에서 172,290장으로 81.4% 줄었고 처리 기간은 여섯 달에서 두 달로 짧아졌다. 두 주마다 드는 평균 처리 시간도 52.6시간에서 41.8시간으로 줄면서 토지 관리, 종 식별, 언어 기록, 워크숍에 쓸 시간이 생겼다."
+                "x": "행성으로 확인되면 지구 반지름의 약 1.4배인 super-Earth가 된다. 표면 온도는 1,000°F(540°C)로 추정된다. 다만 2018년 감광 일부가 TESS 추력기 분사 시점과 겹쳤다. 그래서 그는 다른 가능성을 아직 배제하지 못한 “반복되는 통과 유사 신호”라고 부른다."
               },
               {
                 "t": "p",
-                "x": "Dr. Cara Penton은 데이터 검증에는 계속 사람이 참여한다고 강조했다. 선임 daluk 레인저 Suzanna Nabulwad는 원로들 의견을 들으며 기술을 신중하게 들여와야 한다고 말했다."
+                "x": "AI가 없었다면 이번 탐색은 불가능했다는 게 그의 말이다. 여러 에이전트가 “코드를 짜고, 돌리고, 서로의 작업을 점검했지만” “연구 자체는 내 것”이라고 한다. Yale의 Greg Laughlin은 이 후보가 “탄탄하다”고 본다. MIT의 Pablo Mercader Perez에 따르면 TESS 필터는 2020년에 이 신호를 잡고도 걸러 냈고, 올해 1월에야 검출할 수 있게 됐다. TESS는 11월에 이 별을 다시 관측한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "レンジャー、カメラ罠の\n映像解析にAIを活用",
-          "body": "先住民レンジャーがMegaDetectorを使い、人が確認すべき画像を約81%減らした。",
-          "mini_headline": "レンジャーとカメラトラップAI",
+          "headline": "AIで見つけた隠れた\nsuper-Earth候補",
+          "body": "Pavel RabtsevichがAIでNASA TESSのsuper-Earthを捉えた。",
+          "mini_headline": "AIがアマチュアの惑星発見を後押し",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-                "cap": "Warddekenのレンジャーが使うカメラトラップに写ったクロアシキノボリネズミ。Credit: Cara Penton"
+                "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+                "cap": "主星を回る溶岩惑星を背にしたTESSの想像図。"
               },
               {
                 "t": "p",
-                "x": "Warddeken Land Management、Charles Darwin University、CSIROの研究者らは、Conservation Science and Practiceに掲載された論文で、AIがAustraliaのWest Arnhemにおける先住民主導(Indigenous-led)の野生生物モニタリングをどう支えられるかを調べた。研究の中心は、Warddeken Indigenous Protected Areaでカメラトラップを運用し、bininjとdalukのレンジャーを雇用するMayh(動物)プログラムだ。"
+                "x": "スペイン在住のプロダクトマネージャーで宇宙科学愛好家のPavel Rabtsevichは、独自のAIアルゴリズムでNASA TESSのデータにある126,000を超える対象星を調べた。アルゴリズムが示したのは、オリオン座(Orion)の約116光年先にあるTIC 4206066で、三日ごとに約二時間暗くなっていた。彼はその後、アーカイブからさらに22回の減光を見つけた。"
               },
               {
                 "t": "p",
-                "x": "レンジャーは1,572時間分のデータを動物検出モデルMegaDetectorに投入した。分析が必要な画像は925,088枚から172,290枚へと81.4%減り、処理期間は六か月から二か月に短縮された。二週間ごとの平均処理時間も52.6時間から41.8時間に減り、土地管理、種の同定、言語の記録、ワークショップに充てる時間が生まれた。"
+                "x": "確認されれば、この天体は地球の約1.4倍の半径を持つsuper-Earthで、表面温度は1,000°F(540°C)と推定される。2018年の減光の一部はTESSのスラスター噴射と重なっており、彼はこれを、別の可能性がまだ排除されていない「繰り返すトランジット様の信号」と呼ぶ。"
               },
               {
                 "t": "p",
-                "x": "Dr. Cara Pentonはデータの検証に引き続き人が関わると強調し、シニアのdalukレンジャーであるSuzanna Nabulwadは、長老の意見を取り入れながら技術を慎重に導入すべきだと述べた。"
+                "x": "AIなしではこの探索はできなかったと彼は言う。複数のエージェントが「コードを書き、実行し、互いの作業を確認した」が、「研究そのものは私のものだ」という。YaleのGreg Laughlinはこの候補を「堅実だ」と評する。MITのPablo Mercader Perezによれば、TESSのフィルターは2020年にこの信号を捉えたものの除外しており、検出可能になったのは今年1月のことだ。TESSは11月にこの星を再観測する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "护林员用AI\n分析相机陷阱影像",
-          "body": "原住民护林员用MegaDetector处理相机陷阱影像，需人工审核的图像减少约81%。",
-          "mini_headline": "护林员与相机陷阱AI",
+          "headline": "业余者借AI发现疑似\n隐藏super-Earth",
+          "body": "Pavel Rabtsevich借AI在NASA TESS中发现疑似super-Earth。",
+          "mini_headline": "AI助业余爱好者发现行星",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-                "cap": "Warddeken护林员使用的相机陷阱拍到的黑足树鼠。Credit: Cara Penton"
+                "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+                "cap": "TESS与一颗环绕其宿主恒星运行的熔岩行星的艺术想象图。"
               },
               {
                 "t": "p",
-                "x": "来自Warddeken Land Management、Charles Darwin University和CSIRO的研究人员在Conservation Science and Practice发表论文，研究AI如何支持Australia West Arnhem由原住民主导(Indigenous-led)的野生动物监测。研究围绕Mayh(动物)项目展开，该项目在Warddeken Indigenous Protected Area运行相机陷阱，并雇用bininj和daluk护林员。"
+                "x": "常驻西班牙的产品经理、太空科学爱好者Pavel Rabtsevich用自制的AI算法，在NASA TESS数据中搜索了超过126,000颗目标恒星。算法标记出位于猎户座(Orion)、距离约116光年的TIC 4206066，它每三天变暗约两小时；随后他又在档案中找到另外22次变暗事件。"
               },
               {
                 "t": "p",
-                "x": "护林员将1,572小时的数据输入动物检测模型MegaDetector。需要分析的图像从925,088张减少到172,290张，降幅81.4%，处理时间从六个月缩短到两个月。每两周的平均处理时间从52.6小时降至41.8小时，腾出时间用于土地管理、物种识别、语言记录和工作坊。"
+                "x": "若获证实，这颗行星将是一颗半径约为地球1.4倍的super-Earth，表面温度估计为1,000°F(540°C)。2018年的部分亮度下降与TESS推进器点火时间重合，因此他称之为“重复出现的类凌星信号”，其他解释尚未排除。"
               },
               {
                 "t": "p",
-                "x": "Dr. Cara Penton强调，数据核验仍有人参与；资深daluk护林员Suzanna Nabulwad则表示，引入技术应当谨慎，并听取长老的意见。"
+                "x": "他说，没有AI就无法完成这项搜索：多个智能体“编写代码、运行代码并互相检查工作”，但“研究本身是我的”。Yale的Greg Laughlin称这一候选体“可靠”。MIT的Pablo Mercader Perez指出，TESS的一个筛选器曾在2020年捕捉到该信号却将其剔除，直到今年1月它才变得可被探测。TESS将于11月再次观测这颗恒星。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guardas indígenas aplican AI\na imágenes de cámaras trampa",
-          "body": "Guardas indígenas usaron MegaDetector en imágenes de cámaras trampa y redujeron cerca de un 81% las fotos a revisar.",
-          "mini_headline": "Guardas y AI de cámaras trampa",
+          "headline": "Un aficionado halla con AI\nuna posible super-Earth oculta",
+          "body": "El aficionado Pavel Rabtsevich usó AI para detectar una posible super-Earth oculta por años en datos de NASA TESS.",
+          "mini_headline": "La AI ayuda a un aficionado a hallar un planeta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-                "cap": "Una rata arborícola de patas negras captada por una cámara trampa de los guardas de Warddeken. Credit: Cara Penton"
+                "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+                "cap": "Recreación artística de TESS frente a un planeta de lava que orbita su estrella."
               },
               {
                 "t": "p",
-                "x": "Investigadores de Warddeken Land Management, la Charles Darwin University y CSIRO estudiaron cómo la AI puede apoyar el seguimiento de fauna liderado por indígenas (Indigenous-led) en West Arnhem, Australia, en un artículo en Conservation Science and Practice. El trabajo se centra en el programa Mayh (animal), que gestiona cámaras trampa en el Warddeken Indigenous Protected Area y emplea a guardas bininj y daluk."
+                "x": "Pavel Rabtsevich, gerente de producto radicado en España y aficionado a la ciencia espacial, usó un algoritmo de AI hecho a medida para revisar más de 126,000 estrellas objetivo en los datos de NASA TESS. El algoritmo señaló TIC 4206066, a unos 116 años luz en Orión (Orion), que se atenuaba durante unas dos horas cada tres días; después halló 22 atenuaciones más en los archivos."
               },
               {
                 "t": "p",
-                "x": "Los guardas cargaron 1,572 horas de datos en el modelo de detección de animales MegaDetector. Las imágenes que requerían análisis pasaron de 925,088 a 172,290, una reducción del 81.4%, y el tiempo de procesamiento bajó de seis meses a dos. El tiempo medio de procesamiento cayó de 52.6 a 41.8 horas cada dos semanas, lo que liberó tiempo para la gestión del territorio, la identificación de especies, la documentación lingüística y talleres."
+                "x": "De confirmarse, el mundo sería una super-Earth de alrededor de 1.4 veces el radio de la Tierra, con una temperatura superficial estimada de 1,000°F (540°C). Algunas caídas de 2018 coincidieron con encendidos de los propulsores de TESS, por lo que él lo llama una “señal repetida similar a un tránsito”, sin descartar aún otras explicaciones."
               },
               {
                 "t": "p",
-                "x": "Dr. Cara Penton subrayó que las personas siguen participando en la verificación de los datos, y la guarda daluk sénior Suzanna Nabulwad afirmó que la tecnología debe introducirse con cuidado, escuchando a los ancianos."
+                "x": "Según él, la búsqueda no habría sido posible sin AI: varios agentes “escribieron el código, lo ejecutaron y revisaron el trabajo de los demás”, pero “la investigación en sí fue mía”. Greg Laughlin, de Yale, califica al candidato de “sólido”. Pablo Mercader Perez, del MIT, señala que un filtro de TESS captó la señal en 2020 pero la descartó; solo pudo detectarse en enero de este año. TESS volverá a observar la estrella en noviembre."
               }
             ]
           }
@@ -1081,109 +1049,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "레인저들, 카메라 트랩\n영상에 AI를 쓰다",
-          "body": "원주민 레인저가 MegaDetector로 검토할 이미지를 약 81% 줄였다.",
-          "mini_headline": "레인저와 카메라 트랩 AI",
+          "headline": "AI로 찾은 숨은\nsuper-Earth 후보",
+          "body": "Pavel Rabtsevich AI로 NASA TESS super-Earth 찾다.",
+          "mini_headline": "AI가 도운 아마추어의 행성 발견",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-                "cap": "Warddeken 레인저들이 쓰는 카메라 트랩에 찍힌 검은발나무쥐. Credit: Cara Penton"
+                "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+                "cap": "모항성을 도는 용암 행성 앞의 TESS를 그린 상상도다."
               },
               {
                 "t": "p",
-                "x": "Warddeken Land Management, Charles Darwin University, CSIRO 연구진은 Conservation Science and Practice에 실린 논문에서 AI가 Australia West Arnhem의 원주민 주도(Indigenous-led) 야생동물 모니터링을 어떻게 지원할 수 있는지 살폈다. 연구는 Warddeken Indigenous Protected Area에서 카메라 트랩을 운영하고 bininj와 daluk 레인저를 고용하는 Mayh(동물) 프로그램을 중심으로 한다."
+                "x": "스페인에 사는 프로덕트 매니저이자 우주과학 애호가 Pavel Rabtsevich는 직접 맞춤 제작한 AI 알고리즘으로 NASA TESS 데이터 속 126,000개 이상의 표적 항성을 탐색했다. 알고리즘은 오리온자리(Orion)에서 약 116광년 떨어진 TIC 4206066을 짚어냈다. 이 별은 사흘마다 약 두 시간씩 어두워졌고, 그는 이후 기록 보관소에서 22건의 감광 현상을 더 찾아냈다."
               },
               {
                 "t": "p",
-                "x": "레인저들은 1,572시간 분량의 데이터를 동물 탐지 모델 MegaDetector에 입력했다. 분석이 필요한 이미지는 925,088장에서 172,290장으로 81.4% 줄었고, 처리 기간은 여섯 달에서 두 달로 단축됐다. 두 주마다 드는 평균 처리 시간도 52.6시간에서 41.8시간으로 줄어, 토지 관리, 종 식별, 언어 기록, 워크숍에 쓸 시간이 생겼다."
+                "x": "확인된다면 이 행성은 지구 반지름의 약 1.4배인 super-Earth이며, 표면 온도는 1,000°F(540°C)로 추정된다. 2018년의 일부 감광은 TESS의 추력기 분사 시점과 겹쳤기에, 그는 이를 다른 가능성이 아직 배제되지 않은 “반복되는 통과 유사 신호”라고 부른다."
               },
               {
                 "t": "p",
-                "x": "Dr. Cara Penton은 데이터 검증에 사람이 계속 참여한다고 강조했고, 선임 daluk 레인저 Suzanna Nabulwad는 원로들의 의견을 들으며 기술을 신중하게 도입해야 한다고 말했다."
+                "x": "그는 AI 없이는 이 탐색이 불가능했다고 말한다. 여러 에이전트가 “코드를 짜고, 돌리고, 서로의 작업을 점검했지만” “연구 자체는 내 것”이라는 설명이다. Yale의 Greg Laughlin은 이 후보를 “탄탄하다”고 평한다. MIT의 Pablo Mercader Perez는 TESS 필터가 2020년에 이 신호를 잡았지만 걸러냈고, 올해 1월에야 검출이 가능해졌다고 짚는다. TESS는 11월에 이 별을 다시 관측한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "レンジャー、カメラ罠の\n映像解析にAIを活用",
-          "body": "先住民レンジャーがMegaDetectorを使い、人が確認すべき画像を約81%減らした。",
-          "mini_headline": "レンジャーとカメラトラップAI",
+          "headline": "AIで見つけた隠れた\nsuper-Earth候補",
+          "body": "Pavel RabtsevichがAIでNASA TESSのsuper-Earthを捉えた。",
+          "mini_headline": "AIがアマチュアの惑星発見を後押し",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-                "cap": "Warddekenのレンジャーが使うカメラトラップに写ったクロアシキノボリネズミ。Credit: Cara Penton"
+                "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+                "cap": "主星を回る溶岩惑星を背にしたTESSの想像図。"
               },
               {
                 "t": "p",
-                "x": "Warddeken Land Management、Charles Darwin University、CSIROの研究者らは、Conservation Science and Practiceに掲載された論文で、AIがAustraliaのWest Arnhemにおける先住民主導(Indigenous-led)の野生生物モニタリングをどう支えられるかを調べた。研究の中心は、Warddeken Indigenous Protected Areaでカメラトラップを運用し、bininjとdalukのレンジャーを雇用するMayh(動物)プログラムだ。"
+                "x": "スペイン在住のプロダクトマネージャーで宇宙科学愛好家のPavel Rabtsevichは、独自のAIアルゴリズムでNASA TESSのデータにある126,000を超える対象星を調べた。アルゴリズムが示したのは、オリオン座(Orion)の約116光年先にあるTIC 4206066で、三日ごとに約二時間暗くなっていた。彼はその後、アーカイブからさらに22回の減光を見つけた。"
               },
               {
                 "t": "p",
-                "x": "レンジャーは1,572時間分のデータを動物検出モデルMegaDetectorに投入した。分析が必要な画像は925,088枚から172,290枚へと81.4%減り、処理期間は六か月から二か月に短縮された。二週間ごとの平均処理時間も52.6時間から41.8時間に減り、土地管理、種の同定、言語の記録、ワークショップに充てる時間が生まれた。"
+                "x": "確認されれば、この天体は地球の約1.4倍の半径を持つsuper-Earthで、表面温度は1,000°F(540°C)と推定される。2018年の減光の一部はTESSのスラスター噴射と重なっており、彼はこれを、別の可能性がまだ排除されていない「繰り返すトランジット様の信号」と呼ぶ。"
               },
               {
                 "t": "p",
-                "x": "Dr. Cara Pentonはデータの検証に引き続き人が関わると強調し、シニアのdalukレンジャーであるSuzanna Nabulwadは、長老の意見を取り入れながら技術を慎重に導入すべきだと述べた。"
+                "x": "AIなしではこの探索はできなかったと彼は言う。複数のエージェントが「コードを書き、実行し、互いの作業を確認した」が、「研究そのものは私のものだ」という。YaleのGreg Laughlinはこの候補を「堅実だ」と評する。MITのPablo Mercader Perezによれば、TESSのフィルターは2020年にこの信号を捉えたものの除外しており、検出可能になったのは今年1月のことだ。TESSは11月にこの星を再観測する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "护林员用AI\n分析相机陷阱影像",
-          "body": "原住民护林员用MegaDetector处理相机陷阱影像，需人工审核的图像减少约81%。",
-          "mini_headline": "护林员与相机陷阱AI",
+          "headline": "业余者借AI发现疑似\n隐藏super-Earth",
+          "body": "Pavel Rabtsevich借AI在NASA TESS中发现疑似super-Earth。",
+          "mini_headline": "AI助业余爱好者发现行星",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-                "cap": "Warddeken护林员使用的相机陷阱拍到的黑足树鼠。Credit: Cara Penton"
+                "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+                "cap": "TESS与一颗环绕其宿主恒星运行的熔岩行星的艺术想象图。"
               },
               {
                 "t": "p",
-                "x": "来自Warddeken Land Management、Charles Darwin University和CSIRO的研究人员在Conservation Science and Practice发表论文，研究AI如何支持Australia West Arnhem由原住民主导(Indigenous-led)的野生动物监测。研究围绕Mayh(动物)项目展开，该项目在Warddeken Indigenous Protected Area运行相机陷阱，并雇用bininj和daluk护林员。"
+                "x": "常驻西班牙的产品经理、太空科学爱好者Pavel Rabtsevich用自制的AI算法，在NASA TESS数据中搜索了超过126,000颗目标恒星。算法标记出位于猎户座(Orion)、距离约116光年的TIC 4206066，它每三天变暗约两小时；随后他又在档案中找到另外22次变暗事件。"
               },
               {
                 "t": "p",
-                "x": "护林员将1,572小时的数据输入动物检测模型MegaDetector。需要分析的图像从925,088张减少到172,290张，降幅81.4%，处理时间从六个月缩短到两个月。每两周的平均处理时间从52.6小时降至41.8小时，腾出时间用于土地管理、物种识别、语言记录和工作坊。"
+                "x": "若获证实，这颗行星将是一颗半径约为地球1.4倍的super-Earth，表面温度估计为1,000°F(540°C)。2018年的部分亮度下降与TESS推进器点火时间重合，因此他称之为“重复出现的类凌星信号”，其他解释尚未排除。"
               },
               {
                 "t": "p",
-                "x": "Dr. Cara Penton强调，数据核验仍有人参与；资深daluk护林员Suzanna Nabulwad则表示，引入技术应当谨慎，并听取长老的意见。"
+                "x": "他说，没有AI就无法完成这项搜索：多个智能体“编写代码、运行代码并互相检查工作”，但“研究本身是我的”。Yale的Greg Laughlin称这一候选体“可靠”。MIT的Pablo Mercader Perez指出，TESS的一个筛选器曾在2020年捕捉到该信号却将其剔除，直到今年1月它才变得可被探测。TESS将于11月再次观测这颗恒星。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guardas indígenas aplican AI\na imágenes de cámaras trampa",
-          "body": "Guardas indígenas usaron MegaDetector en imágenes de cámaras trampa y redujeron cerca de un 81% las fotos a revisar.",
-          "mini_headline": "Guardas y AI de cámaras trampa",
+          "headline": "Un aficionado halla con AI\nuna posible super-Earth oculta",
+          "body": "El aficionado Pavel Rabtsevich usó AI para detectar una posible super-Earth oculta por años en datos de NASA TESS.",
+          "mini_headline": "La AI ayuda a un aficionado a hallar un planeta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg",
-                "cap": "Una rata arborícola de patas negras captada por una cámara trampa de los guardas de Warddeken. Credit: Cara Penton"
+                "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+                "cap": "Recreación artística de TESS frente a un planeta de lava que orbita su estrella."
               },
               {
                 "t": "p",
-                "x": "Investigadores de Warddeken Land Management, la Charles Darwin University y CSIRO estudiaron cómo la AI puede apoyar el seguimiento de fauna liderado por indígenas (Indigenous-led) en West Arnhem, Australia, en un artículo en Conservation Science and Practice. El trabajo se centra en el programa Mayh (animal), que gestiona cámaras trampa en el Warddeken Indigenous Protected Area y emplea a guardas bininj y daluk."
+                "x": "Pavel Rabtsevich, gerente de producto radicado en España y aficionado a la ciencia espacial, usó un algoritmo de AI hecho a medida para revisar más de 126,000 estrellas objetivo en los datos de NASA TESS. El algoritmo señaló TIC 4206066, a unos 116 años luz en Orión (Orion), que se atenuaba durante unas dos horas cada tres días; después halló 22 atenuaciones más en los archivos."
               },
               {
                 "t": "p",
-                "x": "Los guardas cargaron 1,572 horas de datos en el modelo de detección de animales MegaDetector. Las imágenes que requerían análisis pasaron de 925,088 a 172,290, una reducción del 81.4%, y el tiempo de procesamiento bajó de seis meses a dos. El tiempo medio de procesamiento cayó de 52.6 a 41.8 horas cada dos semanas, lo que liberó tiempo para la gestión del territorio, la identificación de especies, la documentación lingüística y talleres."
+                "x": "De confirmarse, el mundo sería una super-Earth de alrededor de 1.4 veces el radio de la Tierra, con una temperatura superficial estimada de 1,000°F (540°C). Algunas caídas de 2018 coincidieron con encendidos de los propulsores de TESS, por lo que él lo llama una “señal repetida similar a un tránsito”, sin descartar aún otras explicaciones."
               },
               {
                 "t": "p",
-                "x": "Dr. Cara Penton subrayó que las personas siguen participando en la verificación de los datos, y la guarda daluk sénior Suzanna Nabulwad afirmó que la tecnología debe introducirse con cuidado, escuchando a los ancianos."
+                "x": "Según él, la búsqueda no habría sido posible sin AI: varios agentes “escribieron el código, lo ejecutaron y revisaron el trabajo de los demás”, pero “la investigación en sí fue mía”. Greg Laughlin, de Yale, califica al candidato de “sólido”. Pablo Mercader Perez, del MIT, señala que un filtro de TESS captó la señal en 2020 pero la descartó; solo pudo detectarse en enero de este año. TESS volverá a observar la estrella en noviembre."
               }
             ]
           }
@@ -1191,195 +1159,165 @@
       }
     },
     {
-      "id": "science-ai-idea-theft-fears",
+      "id": "science-firstproof",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "과학자들, AI가 자기\n아이디어 가져갈까 걱정",
-      "body": "AI를 조언자로 쓰는 연구자 사이에서 기업이 아이디어를 가로챌 우려가 커진다.",
-      "mini_headline": "AI에 건넨 아이디어는 누구 것인가",
+      "headline": "First Proof 시험\nAI 수학은 유료 경기",
+      "body": "벤치마크에서 일부 프런티어 AIs는 수학자의 도구가 됐고 오픈소스는 뒤처졌다.",
+      "mini_headline": "AI 수학은 유료 경기",
       "tool": "Science",
       "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
-      "accent": "#eb367f",
+      "url": "https://www.scientificamerican.com/article/new-first-proof-exam-reveals-how-ai-powered-math-is-a-pay-for-play-sport/",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-            "cap": "AI 기업들이 업로드된 문서를 수집했다는 굵직한 의혹이 잇따르자 과학자들은 자기 원고의 프라이버시를 점점 더 걱정한다."
+            "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
           },
           {
             "t": "p",
-            "x": "OpenAI가 내부 모델이 수학의 백만 달러 난제 일곱 개 중 하나를 풀었다고 주장하자 New York University의 수학자는 자신이 챗봇과 나눈 연구 진전을 회사가 훔쳤다고 넌지시 말했다. 몇 주 뒤 New York Times는 Anthropic과 University of Copenhagen 생물학자 사이에 벌어진 비슷한 사례를 보도했다. 양사는 모두 업로드된 데이터로 학습하지 않았다고 밝혔다."
+            "x": "인공지능 모델의 수학 실력이 늘고 있다. 다만 기업이 만든 AI 얘기다. First Proof 프로젝트가 공개한 세 번째 결과를 보면, 프런티어 연구소의 구독형 독점 모델이 수학에서 오픈 웨이트 모델을 크게 앞선다. Stanford의 Mohammed Abouzaid는 “연구 수학에서 오픈 웨이트 모델과 프런티어 모델의 격차는 매우 크다”고 말한다."
           },
           {
             "t": "p",
-            "x": "과학자들은 여전히 모델을 토론 상대로 삼고 문헌 검토와 증명 생성에도 쓴다. 그런데 일부는 이제 모델을 경쟁자로 본다. University of Sydney의 Clément Canonne은 “나는 쓰지 않는다”고 말한다."
+            "x": "연구팀은 연구 문제 10개를 골라 문제마다 채점자 세 명을 붙이고, 모의 동료 심사처럼 답을 평가하게 했다. 누구나 쓸 수 있는 모델만 참가할 수 있어서 OpenAI의 새 내부 모델은 빠졌다. 시험대에는 GPT 6 Astra, Claude Opus 5.5, 여러 모델을 묶은 “ProofCouncil”, 선두 오픈 웨이트 모델 Kimi K3 기반 하네스가 올랐다."
           },
           {
             "t": "p",
-            "x": "Stanford HAI 펠로 Jennifer King은 기업 계정은 안전해 보이지만 “개인 계정이라면 아무것도 장담할 수 없다”며 사용자가 학습 제외를 직접 신청해야 하는 경우가 많다고 말한다. “기업들은 이런 관행에 대해 투명하지 않다”는 게 그의 지적이다."
-          },
-          {
-            "t": "p",
-            "x": "과학자들은 모델을 써서 발견이 새어 나갈 위험과 쓰지 않다가 선수를 빼앗길 위험 사이에서 하나를 떠안아야 한다고 느낄 법하다. Canonne은 “쓰지 않으면 뒤처진 존재가 되는 것 아닐까?”라고 말한다."
+            "x": "ProofCouncil은 10문제 중 아홉 문제를 “경미한 수정”만 거치면 받아들일 만한 수준으로 풀었다. 2월에는 몇 문제, 6월에는 여섯이나 일곱 문제였다. Kimi K3는 한 문제도 풀지 못했다. Harvard의 Lauren Williams는 “완전히 나가떨어졌다”며 오픈 모델에 투자해야 한다고 촉구한다. 데이터 유출이 걱정인 수학자들은 OpenAI나 Anthropic 모델의 대안을 원하지만, 아직은 그 대안이 통하지 않는 모양이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Scientists worry AI is\ntaking their ideas",
-          "body": "As researchers use AI as a sounding board, concerns grow that companies may present users' ideas as their models' own.",
-          "mini_headline": "Who owns ideas shared with AI",
+          "headline": "First Proof exam shows AI math\nis a pay-to-play sport",
+          "body": "A new math benchmark finds some frontier AIs becoming exceptional tools for mathematicians as open-source models lag.",
+          "mini_headline": "AI math is pay-to-play",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-                "cap": "Scientists are becoming increasingly concerned about the privacy of their manuscripts in the wake of high-profile accusations that AI companies harvested uploaded documents."
+                "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
               },
               {
                 "t": "p",
-                "x": "When OpenAI claimed an internal model had solved one of math's seven million-dollar problems, a New York University mathematician insinuated the company had stolen progress he had shared with a chatbot. Weeks later, the New York Times reported a similar story between Anthropic and a University of Copenhagen biologist. Both companies stated they did not train on the uploaded data."
+                "x": "Artificial intelligence models are getting good at math—but only the corporate AIs. The First Proof project released its third batch of results, suggesting proprietary subscription-based models from frontier labs far exceed the math skills of open-weight models. “The gap between the open-weight models and frontier models is very large in research mathematics,” says Stanford's Mohammed Abouzaid."
               },
               {
                 "t": "p",
-                "x": "Scientists still use these models as a sounding board, for literature review or to generate proofs, but some now see them as competitors. “I'm not using them,” says Clément Canonne of the University of Sydney."
+                "x": "The team selected 10 research problems and had three graders per problem judge answers in a mock peer review. Entrants had to be openly available, so OpenAI's new internal model was excluded. Tested models included GPT 6 Astra, Claude Opus 5.5, an aggregate “ProofCouncil,” and a harness on Kimi K3, the leading open-weight model."
               },
               {
                 "t": "p",
-                "x": "Stanford HAI fellow Jennifer King says enterprise accounts seem safe, “but if you are on a personal account, all bets are off”; users often must opt out of training. “The companies are not transparent about these practices,” she says."
-              },
-              {
-                "t": "p",
-                "x": "Scientists may feel they must either use the models and risk leaking a discovery or not and risk being scooped. “If you're not using them, are you going to be irrelevant?” Canonne says."
+                "x": "ProofCouncil solved nine of 10 problems acceptably with “minor revisions,” up from a few in February and six or seven in June. Kimi K3 solved exactly zero. “It really fell flat on its face,” says Harvard's Lauren Williams, urging investment in open models. Mathematicians worried about data leakage want alternatives to OpenAI's or Anthropic's models; for now, it seems, they don't work."
               }
             ]
           }
         },
         "ko": {
-          "headline": "과학자들, AI가 자기\n아이디어 가져갈까 걱정",
-          "body": "AI를 조언자로 쓰는 연구자 사이에서 기업이 아이디어를 가로챌 우려가 커진다.",
-          "mini_headline": "AI에 건넨 아이디어는 누구 것인가",
+          "headline": "First Proof 시험\nAI 수학은 유료 경기",
+          "body": "벤치마크에서 일부 프런티어 AIs는 수학자의 도구가 됐고 오픈소스는 뒤처졌다.",
+          "mini_headline": "AI 수학은 유료 경기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-                "cap": "AI 기업들이 업로드된 문서를 수집했다는 굵직한 의혹이 잇따르자 과학자들은 자기 원고의 프라이버시를 점점 더 걱정한다."
+                "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 내부 모델이 수학의 백만 달러 난제 일곱 개 중 하나를 풀었다고 주장하자 New York University의 수학자는 자신이 챗봇과 나눈 연구 진전을 회사가 훔쳤다고 넌지시 말했다. 몇 주 뒤 New York Times는 Anthropic과 University of Copenhagen 생물학자 사이에 벌어진 비슷한 사례를 보도했다. 양사는 모두 업로드된 데이터로 학습하지 않았다고 밝혔다."
+                "x": "인공지능 모델의 수학 실력이 늘고 있다. 다만 기업이 만든 AI 얘기다. First Proof 프로젝트가 공개한 세 번째 결과를 보면, 프런티어 연구소의 구독형 독점 모델이 수학에서 오픈 웨이트 모델을 크게 앞선다. Stanford의 Mohammed Abouzaid는 “연구 수학에서 오픈 웨이트 모델과 프런티어 모델의 격차는 매우 크다”고 말한다."
               },
               {
                 "t": "p",
-                "x": "과학자들은 여전히 모델을 토론 상대로 삼고 문헌 검토와 증명 생성에도 쓴다. 그런데 일부는 이제 모델을 경쟁자로 본다. University of Sydney의 Clément Canonne은 “나는 쓰지 않는다”고 말한다."
+                "x": "연구팀은 연구 문제 10개를 골라 문제마다 채점자 세 명을 붙이고, 모의 동료 심사처럼 답을 평가하게 했다. 누구나 쓸 수 있는 모델만 참가할 수 있어서 OpenAI의 새 내부 모델은 빠졌다. 시험대에는 GPT 6 Astra, Claude Opus 5.5, 여러 모델을 묶은 “ProofCouncil”, 선두 오픈 웨이트 모델 Kimi K3 기반 하네스가 올랐다."
               },
               {
                 "t": "p",
-                "x": "Stanford HAI 펠로 Jennifer King은 기업 계정은 안전해 보이지만 “개인 계정이라면 아무것도 장담할 수 없다”며 사용자가 학습 제외를 직접 신청해야 하는 경우가 많다고 말한다. “기업들은 이런 관행에 대해 투명하지 않다”는 게 그의 지적이다."
-              },
-              {
-                "t": "p",
-                "x": "과학자들은 모델을 써서 발견이 새어 나갈 위험과 쓰지 않다가 선수를 빼앗길 위험 사이에서 하나를 떠안아야 한다고 느낄 법하다. Canonne은 “쓰지 않으면 뒤처진 존재가 되는 것 아닐까?”라고 말한다."
+                "x": "ProofCouncil은 10문제 중 아홉 문제를 “경미한 수정”만 거치면 받아들일 만한 수준으로 풀었다. 2월에는 몇 문제, 6월에는 여섯이나 일곱 문제였다. Kimi K3는 한 문제도 풀지 못했다. Harvard의 Lauren Williams는 “완전히 나가떨어졌다”며 오픈 모델에 투자해야 한다고 촉구한다. 데이터 유출이 걱정인 수학자들은 OpenAI나 Anthropic 모델의 대안을 원하지만, 아직은 그 대안이 통하지 않는 모양이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "科学者ら、AIに\n発想を奪われる懸念",
-          "body": "AIを相談相手にする研究者の間で、企業が発想を自社モデルの成果とする懸念が強まる。",
-          "mini_headline": "AIに渡した発想は誰のものか",
+          "headline": "First Proofが示す\nAI数学は課金勝負",
+          "body": "新ベンチマークで一部のフロンティアAIsが数学者の道具として躍進し、オープンソースは遅れた。",
+          "mini_headline": "AI数学は課金勝負",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-                "cap": "AI企業がアップロードされた文書を収集したという注目の告発を受け、科学者たちは原稿のプライバシーへの懸念を強めている。"
+                "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAIが社内モデルで数学の七つの百万ドル問題の一つを解いたと主張すると、New York Universityの数学者は、自分がチャットボットと共有した進展を同社が盗んだとほのめかした。数週間後、New York TimesはAnthropicとUniversity of Copenhagenの生物学者をめぐる同様の話を報じた。両社とも、アップロードされたデータで学習していないと表明した。"
+                "x": "人工知能モデルは数学に強くなりつつある。ただし企業のAIに限った話だ。First Proofプロジェクトが第三弾の結果を公表し、フロンティア研究所のサブスクリプション型の独自モデルが、数学力でオープンウェイトモデルを大きく上回ることが示唆された。StanfordのMohammed Abouzaidは「研究数学では、オープンウェイトモデルとフロンティアモデルの差は非常に大きい」と語る。"
               },
               {
                 "t": "p",
-                "x": "科学者は今もこれらのモデルを議論の相手や文献レビュー、証明の生成に使っているが、競争相手と見なす人も出てきた。「私は使っていない」とUniversity of SydneyのClément Canonneは言う。"
+                "x": "チームは研究問題10問を選び、各問題を三人の採点者が模擬査読の形で評価した。参加モデルは公開利用可能であることが条件で、OpenAIの新しい内部モデルは対象外となった。テストされたのはGPT 6 Astra、Claude Opus 5.5、複数モデルを束ねた「ProofCouncil」、そして首位のオープンウェイトモデルKimi K3上のハーネスなどだ。"
               },
               {
                 "t": "p",
-                "x": "Stanford HAIのフェローであるJennifer Kingは、企業アカウントは安全そうだが「個人アカウントなら何の保証もない」と言い、ユーザーは学習からのオプトアウトを自ら行う必要があることが多いと指摘する。「企業はこうした慣行について透明ではない」と彼女は言う。"
-              },
-              {
-                "t": "p",
-                "x": "科学者は、モデルを使って発見が漏れる危険を冒すか、使わずに先を越される危険を冒すかの選択を迫られていると感じるかもしれない。「使わなければ、取り残されるのではないか」とCanonneは言う。"
+                "x": "ProofCouncilは10問中九問を「軽微な修正」付きで許容水準に解いた。2月の数問、6月の六、七問から増えた。Kimi K3が解けたのはちょうどゼロ問だった。HarvardのLauren Williamsは「まったく歯が立たなかった」と述べ、オープンモデルへの投資を訴える。データ漏洩を懸念する数学者はOpenAIやAnthropicのモデルに代わる選択肢を求めているが、今のところそれらは機能しないようだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "科学家担心AI\n窃取自己的想法",
-          "body": "研究人员把AI当作讨论对象，人们越发担心公司会把用户想法当成模型成果。",
-          "mini_headline": "与AI分享的想法归谁",
+          "headline": "First Proof显示\nAI数学是付费游戏",
+          "body": "一项新数学基准发现，部分前沿AIs正成为数学家的出色工具，开源模型则落后。",
+          "mini_headline": "AI数学是付费游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-                "cap": "AI公司被指收集用户上传文档的事件引发广泛关注，科学家们越来越担心自己手稿的隐私。"
+                "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAI声称其内部模型解决了数学界七个百万美元难题之一后，New York University的数学家暗示该公司窃取了他与聊天机器人分享的进展。数周后，New York Times报道了Anthropic与University of Copenhagen的生物学家之间的类似事件。双方均表示没有用上传的数据训练模型。"
+                "x": "人工智能模型的数学能力越来越强——但仅限于企业的AI。First Proof项目发布了第三批结果，显示前沿实验室基于订阅的专有模型在数学能力上远超开放权重模型。Stanford的Mohammed Abouzaid表示：“在研究型数学中，开放权重模型与前沿模型之间的差距非常大。”"
               },
               {
                 "t": "p",
-                "x": "科学家们仍把这些模型当作讨论对象，用于文献综述或生成证明，但有些人已把它们视为竞争对手。“我不用它们，”University of Sydney的Clément Canonne说。"
+                "x": "团队选取了10道研究问题，每道题由三名评分者以模拟同行评审的方式评判答案。参赛模型必须公开可用，因此OpenAI新的内部模型被排除在外。受测模型包括GPT 6 Astra、Claude Opus 5.5、聚合模型“ProofCouncil”，以及基于领先开放权重模型Kimi K3的一套测试框架。"
               },
               {
                 "t": "p",
-                "x": "Stanford HAI研究员Jennifer King说，企业账户似乎是安全的，“但如果你用的是个人账户，那就什么都说不准了”；用户往往必须主动选择退出训练。“这些公司对这些做法并不透明，”她说。"
-              },
-              {
-                "t": "p",
-                "x": "科学家们可能觉得左右为难：使用模型就要冒发现外泄的风险，不用则要冒被抢先的风险。“如果你不用它们，你会不会变得无足轻重？”Canonne说。"
+                "x": "ProofCouncil在“小幅修改”的前提下可接受地解出了10道题中的九道，2月时只解出几道，6月为六到七道。Kimi K3一道也没解出。Harvard的Lauren Williams说“它彻底栽了跟头”，并呼吁投资开放模型。担心数据泄露的数学家希望找到OpenAI或Anthropic模型的替代品；但目前看来，这些替代品并不管用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Científicos temen que la AI\nse quede con sus ideas",
-          "body": "Mientras investigadores usan la AI como interlocutor, crece el temor a que las empresas se apropien de sus ideas.",
-          "mini_headline": "¿De quién son las ideas compartidas con AI?",
+          "headline": "First Proof: la IA matemática\nes un juego de pago",
+          "body": "En una nueva prueba, algunas AIs de frontera son herramientas notables para matemáticos y el código abierto se rezaga.",
+          "mini_headline": "La IA matemática es de pago",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-                "cap": "Los científicos están cada vez más preocupados por la privacidad de sus manuscritos tras las sonadas acusaciones de que empresas de AI recopilaron documentos subidos."
+                "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
               },
               {
                 "t": "p",
-                "x": "Cuando OpenAI afirmó que un modelo interno había resuelto uno de los siete problemas del millón de dólares de las matemáticas, un matemático de la New York University insinuó que la empresa había robado avances que él había compartido con un chatbot. Semanas después, el New York Times informó de un caso similar entre Anthropic y un biólogo de la University of Copenhagen. Ambas empresas afirmaron que no entrenaron con los datos subidos."
+                "x": "Los modelos de inteligencia artificial son cada vez mejores en matemáticas, pero solo las AI corporativas. El proyecto First Proof publicó su tercera tanda de resultados, que sugiere que los modelos propietarios por suscripción de los laboratorios de frontera superan con creces la capacidad matemática de los modelos de pesos abiertos. “La brecha entre los modelos de pesos abiertos y los modelos de frontera es muy grande en las matemáticas de investigación”, dice Mohammed Abouzaid, de Stanford."
               },
               {
                 "t": "p",
-                "x": "Los científicos siguen usando estos modelos como interlocutores, para revisar bibliografía o generar demostraciones, pero algunos ya los ven como competidores. “No los estoy usando”, dice Clément Canonne, de la University of Sydney."
+                "x": "El equipo eligió 10 problemas de investigación y tres evaluadores por problema juzgaron las respuestas en una revisión por pares simulada. Los participantes debían estar disponibles públicamente, así que el nuevo modelo interno de OpenAI quedó excluido. Entre los modelos evaluados estuvieron GPT 6 Astra, Claude Opus 5.5, un agregado llamado “ProofCouncil” y un arnés sobre Kimi K3, el principal modelo de pesos abiertos."
               },
               {
                 "t": "p",
-                "x": "Jennifer King, investigadora de Stanford HAI, dice que las cuentas empresariales parecen seguras, “pero si usas una cuenta personal, no hay ninguna garantía”; a menudo los usuarios deben excluirse expresamente del entrenamiento. “Las empresas no son transparentes sobre estas prácticas”, señala."
-              },
-              {
-                "t": "p",
-                "x": "Los científicos pueden sentir que deben elegir entre usar los modelos y arriesgarse a filtrar un descubrimiento, o no usarlos y arriesgarse a que otros se les adelanten. “Si no los usas, ¿vas a volverte irrelevante?”, dice Canonne."
+                "x": "ProofCouncil resolvió de forma aceptable nueve de 10 problemas con “revisiones menores”, frente a unos pocos en febrero y seis o siete en junio. Kimi K3 resolvió exactamente cero. “Realmente se dio de bruces”, dice Lauren Williams, de Harvard, que pide invertir en modelos abiertos. Los matemáticos preocupados por la filtración de datos quieren alternativas a los modelos de OpenAI o Anthropic; por ahora, al parecer, no funcionan."
               }
             ]
           }
@@ -1387,125 +1325,387 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "과학자들, AI가 자기\n아이디어 가져갈까 걱정",
-          "body": "AI를 조언자로 쓰는 연구자 사이에서 기업이 아이디어를 가로챌 우려가 커진다.",
-          "mini_headline": "AI에 건넨 아이디어는 누구 것인가",
+          "headline": "First Proof 시험\nAI 수학은 유료 경기",
+          "body": "벤치마크에서 일부 프런티어 AIs는 수학자의 도구로 떠올랐고 오픈소스는 뒤처졌다.",
+          "mini_headline": "AI 수학은 유료 경기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-                "cap": "AI 기업들이 업로드된 문서를 수집했다는 굵직한 의혹이 잇따르면서 과학자들은 자기 원고의 프라이버시를 점점 더 우려하고 있다."
+                "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 내부 모델이 수학의 백만 달러 난제 일곱 개 중 하나를 풀었다고 주장하자, New York University의 수학자는 자신이 챗봇과 공유한 진전을 회사가 훔쳤다고 넌지시 말했다. 몇 주 뒤 New York Times는 Anthropic과 University of Copenhagen 생물학자 사이의 비슷한 사례를 보도했다. 양사 모두 업로드된 데이터로 학습하지 않았다고 밝혔다."
+                "x": "인공지능 모델이 수학을 잘하게 되고 있다. 다만 기업의 AI만 그렇다. First Proof 프로젝트가 세 번째 결과를 공개했는데, 프런티어 연구소의 구독형 독점 모델이 수학 실력에서 오픈 웨이트 모델을 크게 앞선다는 내용이다. Stanford의 Mohammed Abouzaid는 “연구 수학에서 오픈 웨이트 모델과 프런티어 모델의 격차는 매우 크다”고 말한다."
               },
               {
                 "t": "p",
-                "x": "과학자들은 여전히 이 모델을 토론 상대로 삼거나 문헌 검토, 증명 생성에 쓰지만, 일부는 이제 모델을 경쟁자로 본다. University of Sydney의 Clément Canonne은 “나는 쓰지 않는다”고 말한다."
+                "x": "연구팀은 연구 문제 10개를 고르고, 문제마다 채점자 세 명이 모의 동료 심사 방식으로 답을 평가하게 했다. 참가 모델은 공개적으로 이용할 수 있어야 했기에 OpenAI의 새 내부 모델은 제외됐다. 시험 대상에는 GPT 6 Astra, Claude Opus 5.5, 여러 모델을 묶은 “ProofCouncil”, 그리고 선두 오픈 웨이트 모델인 Kimi K3 기반 하네스가 포함됐다."
               },
               {
                 "t": "p",
-                "x": "Stanford HAI 펠로 Jennifer King은 기업 계정은 안전해 보이지만 “개인 계정이라면 아무것도 장담할 수 없다”며, 사용자가 학습 제외를 직접 신청해야 하는 경우가 많다고 말한다. 그는 “기업들은 이런 관행에 대해 투명하지 않다”고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "과학자들은 모델을 써서 발견이 새어 나갈 위험을 감수하거나, 쓰지 않고 선수를 빼앗길 위험을 감수해야 한다고 느낄 수 있다. Canonne은 “쓰지 않으면 뒤처진 존재가 되는 것 아닐까?”라고 말한다."
+                "x": "ProofCouncil은 10문제 중 아홉 문제를 “경미한 수정”만 거치면 수용 가능한 수준으로 풀었다. 2월의 몇 문제, 6월의 여섯이나 일곱 문제에서 늘어난 결과다. Kimi K3는 단 한 문제도 풀지 못했다. Harvard의 Lauren Williams는 “완전히 나가떨어졌다”며 오픈 모델에 대한 투자를 촉구한다. 데이터 유출을 우려하는 수학자들은 OpenAI나 Anthropic 모델의 대안을 원하지만, 지금으로서는 그 대안이 통하지 않는 듯하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "科学者ら、AIに\n発想を奪われる懸念",
-          "body": "AIを相談相手にする研究者の間で、企業が発想を自社モデルの成果とする懸念が強まる。",
-          "mini_headline": "AIに渡した発想は誰のものか",
+          "headline": "First Proofが示す\nAI数学は課金勝負",
+          "body": "新ベンチマークで一部のフロンティアAIsが数学者の道具として躍進し、オープンソースは遅れた。",
+          "mini_headline": "AI数学は課金勝負",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-                "cap": "AI企業がアップロードされた文書を収集したという注目の告発を受け、科学者たちは原稿のプライバシーへの懸念を強めている。"
+                "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAIが社内モデルで数学の七つの百万ドル問題の一つを解いたと主張すると、New York Universityの数学者は、自分がチャットボットと共有した進展を同社が盗んだとほのめかした。数週間後、New York TimesはAnthropicとUniversity of Copenhagenの生物学者をめぐる同様の話を報じた。両社とも、アップロードされたデータで学習していないと表明した。"
+                "x": "人工知能モデルは数学に強くなりつつある。ただし企業のAIに限った話だ。First Proofプロジェクトが第三弾の結果を公表し、フロンティア研究所のサブスクリプション型の独自モデルが、数学力でオープンウェイトモデルを大きく上回ることが示唆された。StanfordのMohammed Abouzaidは「研究数学では、オープンウェイトモデルとフロンティアモデルの差は非常に大きい」と語る。"
               },
               {
                 "t": "p",
-                "x": "科学者は今もこれらのモデルを議論の相手や文献レビュー、証明の生成に使っているが、競争相手と見なす人も出てきた。「私は使っていない」とUniversity of SydneyのClément Canonneは言う。"
+                "x": "チームは研究問題10問を選び、各問題を三人の採点者が模擬査読の形で評価した。参加モデルは公開利用可能であることが条件で、OpenAIの新しい内部モデルは対象外となった。テストされたのはGPT 6 Astra、Claude Opus 5.5、複数モデルを束ねた「ProofCouncil」、そして首位のオープンウェイトモデルKimi K3上のハーネスなどだ。"
               },
               {
                 "t": "p",
-                "x": "Stanford HAIのフェローであるJennifer Kingは、企業アカウントは安全そうだが「個人アカウントなら何の保証もない」と言い、ユーザーは学習からのオプトアウトを自ら行う必要があることが多いと指摘する。「企業はこうした慣行について透明ではない」と彼女は言う。"
-              },
-              {
-                "t": "p",
-                "x": "科学者は、モデルを使って発見が漏れる危険を冒すか、使わずに先を越される危険を冒すかの選択を迫られていると感じるかもしれない。「使わなければ、取り残されるのではないか」とCanonneは言う。"
+                "x": "ProofCouncilは10問中九問を「軽微な修正」付きで許容水準に解いた。2月の数問、6月の六、七問から増えた。Kimi K3が解けたのはちょうどゼロ問だった。HarvardのLauren Williamsは「まったく歯が立たなかった」と述べ、オープンモデルへの投資を訴える。データ漏洩を懸念する数学者はOpenAIやAnthropicのモデルに代わる選択肢を求めているが、今のところそれらは機能しないようだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "科学家担心AI\n窃取自己的想法",
-          "body": "研究人员把AI当作讨论对象，人们越发担心公司会把用户想法当成模型成果。",
-          "mini_headline": "与AI分享的想法归谁",
+          "headline": "First Proof显示\nAI数学是付费游戏",
+          "body": "一项新数学基准发现，部分前沿AIs正成为数学家的出色工具，开源模型则落后。",
+          "mini_headline": "AI数学是付费游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-                "cap": "AI公司被指收集用户上传文档的事件引发广泛关注，科学家们越来越担心自己手稿的隐私。"
+                "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
               },
               {
                 "t": "p",
-                "x": "OpenAI声称其内部模型解决了数学界七个百万美元难题之一后，New York University的数学家暗示该公司窃取了他与聊天机器人分享的进展。数周后，New York Times报道了Anthropic与University of Copenhagen的生物学家之间的类似事件。双方均表示没有用上传的数据训练模型。"
+                "x": "人工智能模型的数学能力越来越强——但仅限于企业的AI。First Proof项目发布了第三批结果，显示前沿实验室基于订阅的专有模型在数学能力上远超开放权重模型。Stanford的Mohammed Abouzaid表示：“在研究型数学中，开放权重模型与前沿模型之间的差距非常大。”"
               },
               {
                 "t": "p",
-                "x": "科学家们仍把这些模型当作讨论对象，用于文献综述或生成证明，但有些人已把它们视为竞争对手。“我不用它们，”University of Sydney的Clément Canonne说。"
+                "x": "团队选取了10道研究问题，每道题由三名评分者以模拟同行评审的方式评判答案。参赛模型必须公开可用，因此OpenAI新的内部模型被排除在外。受测模型包括GPT 6 Astra、Claude Opus 5.5、聚合模型“ProofCouncil”，以及基于领先开放权重模型Kimi K3的一套测试框架。"
               },
               {
                 "t": "p",
-                "x": "Stanford HAI研究员Jennifer King说，企业账户似乎是安全的，“但如果你用的是个人账户，那就什么都说不准了”；用户往往必须主动选择退出训练。“这些公司对这些做法并不透明，”她说。"
-              },
-              {
-                "t": "p",
-                "x": "科学家们可能觉得左右为难：使用模型就要冒发现外泄的风险，不用则要冒被抢先的风险。“如果你不用它们，你会不会变得无足轻重？”Canonne说。"
+                "x": "ProofCouncil在“小幅修改”的前提下可接受地解出了10道题中的九道，2月时只解出几道，6月为六到七道。Kimi K3一道也没解出。Harvard的Lauren Williams说“它彻底栽了跟头”，并呼吁投资开放模型。担心数据泄露的数学家希望找到OpenAI或Anthropic模型的替代品；但目前看来，这些替代品并不管用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Científicos temen que la AI\nse quede con sus ideas",
-          "body": "Mientras investigadores usan la AI como interlocutor, crece el temor a que las empresas se apropien de sus ideas.",
-          "mini_headline": "¿De quién son las ideas compartidas con AI?",
+          "headline": "First Proof: la IA matemática\nes un juego de pago",
+          "body": "En una nueva prueba, algunas AIs de frontera son herramientas notables para matemáticos y el código abierto se rezaga.",
+          "mini_headline": "La IA matemática es de pago",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200",
-                "cap": "Los científicos están cada vez más preocupados por la privacidad de sus manuscritos tras las sonadas acusaciones de que empresas de AI recopilaron documentos subidos."
+                "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
               },
               {
                 "t": "p",
-                "x": "Cuando OpenAI afirmó que un modelo interno había resuelto uno de los siete problemas del millón de dólares de las matemáticas, un matemático de la New York University insinuó que la empresa había robado avances que él había compartido con un chatbot. Semanas después, el New York Times informó de un caso similar entre Anthropic y un biólogo de la University of Copenhagen. Ambas empresas afirmaron que no entrenaron con los datos subidos."
+                "x": "Los modelos de inteligencia artificial son cada vez mejores en matemáticas, pero solo las AI corporativas. El proyecto First Proof publicó su tercera tanda de resultados, que sugiere que los modelos propietarios por suscripción de los laboratorios de frontera superan con creces la capacidad matemática de los modelos de pesos abiertos. “La brecha entre los modelos de pesos abiertos y los modelos de frontera es muy grande en las matemáticas de investigación”, dice Mohammed Abouzaid, de Stanford."
               },
               {
                 "t": "p",
-                "x": "Los científicos siguen usando estos modelos como interlocutores, para revisar bibliografía o generar demostraciones, pero algunos ya los ven como competidores. “No los estoy usando”, dice Clément Canonne, de la University of Sydney."
+                "x": "El equipo eligió 10 problemas de investigación y tres evaluadores por problema juzgaron las respuestas en una revisión por pares simulada. Los participantes debían estar disponibles públicamente, así que el nuevo modelo interno de OpenAI quedó excluido. Entre los modelos evaluados estuvieron GPT 6 Astra, Claude Opus 5.5, un agregado llamado “ProofCouncil” y un arnés sobre Kimi K3, el principal modelo de pesos abiertos."
               },
               {
                 "t": "p",
-                "x": "Jennifer King, investigadora de Stanford HAI, dice que las cuentas empresariales parecen seguras, “pero si usas una cuenta personal, no hay ninguna garantía”; a menudo los usuarios deben excluirse expresamente del entrenamiento. “Las empresas no son transparentes sobre estas prácticas”, señala."
+                "x": "ProofCouncil resolvió de forma aceptable nueve de 10 problemas con “revisiones menores”, frente a unos pocos en febrero y seis o siete en junio. Kimi K3 resolvió exactamente cero. “Realmente se dio de bruces”, dice Lauren Williams, de Harvard, que pide invertir en modelos abiertos. Los matemáticos preocupados por la filtración de datos quieren alternativas a los modelos de OpenAI o Anthropic; por ahora, al parecer, no funcionan."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "science-subseasonal",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 보정으로 장기 예보\n예측력 약 두 배로",
+      "body": "ECMWF 예보 오차를 잡는 머신러닝이 두~여섯 주 예측력을 약 두 배로 높였다.",
+      "mini_headline": "AI로 장기 예보 두 배",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-ai-weather-power-weeks.html",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+            "cap": "Credit: Unsplash/CC0 Public Domain"
+          },
+          {
+            "t": "p",
+            "x": "두 주 넘게 내다보는 예보는 믿기 어렵다. 2021년 텍사스 겨울 폭풍 때 드러났듯 그 부담은 에너지·농업·비상 계획이 진다. MIT 연구진이 참여한 팀은 예보 모델이 과거에 낸 오차를 학습해 두~여섯 주 앞 확률 예보를 보정하는 머신러닝 후처리 계층을 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "유럽중기예보센터(European Centre for Medium-Range Weather Forecasts, ECMWF) 모델에 얹자 이 기간 예측력이 약 두 배로 뛰었고, ECMWF 예보 대회에서도 우승했다. Nature에 실린 이 방법은 MIT의 Judah Cohen이 “예측 가능성의 사막”이라 부르는 구간에서 처음으로 기후 평균값을 넘어섰다. 극한 기상 예측도 나아졌다."
+          },
+          {
+            "t": "p",
+            "x": "주저자는 Harvard의 Hannah Guan과 University of Toronto의 Soukayna Mouatadid이고, ECMWF, DTN, Microsoft, 브라질 IMPA 연구자들이 함께했다. 다른 모델에도 붙일 수 있고, 오픈소스인 데다 비용도 낮다. 케냐 기상청도 활용에 관심을 보였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI correction doubles forecast\nskill two to six weeks out",
+          "body": "A machine-learning layer that corrects ECMWF forecast errors roughly doubled predictive skill two to six weeks ahead.",
+          "mini_headline": "AI doubles long-range forecasts",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Los científicos pueden sentir que deben elegir entre usar los modelos y arriesgarse a filtrar un descubrimiento, o no usarlos y arriesgarse a que otros se les adelanten. “Si no los usas, ¿vas a volverte irrelevante?”, dice Canonne."
+                "x": "Forecasts beyond two weeks are unreliable, which squeezes energy, farming and emergency planning, as the 2021 Texas winter storms showed. A team including MIT researchers built a machine-learning postprocessing layer that learns from a forecast model's past errors and corrects its probabilistic forecasts two to six weeks ahead."
+              },
+              {
+                "t": "p",
+                "x": "Applied to the European Centre for Medium-Range Weather Forecasts (ECMWF) model, it roughly doubled predictive skill in that window and took first place in an ECMWF forecasting competition. Reported in Nature, it was the first approach to beat climatological averages in this range, which MIT's Judah Cohen calls a “predictability desert,” and it also improved extreme-weather prediction."
+              },
+              {
+                "t": "p",
+                "x": "Lead authors are Hannah Guan of Harvard and Soukayna Mouatadid of the University of Toronto, with collaborators at ECMWF, DTN, Microsoft and Brazil's IMPA. The method works with other models, is open source and low cost, and Kenya's meteorological office has expressed interest in using it."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 보정으로 장기 예보\n예측력 약 두 배로",
+          "body": "ECMWF 예보 오차를 잡는 머신러닝이 두~여섯 주 예측력을 약 두 배로 높였다.",
+          "mini_headline": "AI로 장기 예보 두 배",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "두 주 넘게 내다보는 예보는 믿기 어렵다. 2021년 텍사스 겨울 폭풍 때 드러났듯 그 부담은 에너지·농업·비상 계획이 진다. MIT 연구진이 참여한 팀은 예보 모델이 과거에 낸 오차를 학습해 두~여섯 주 앞 확률 예보를 보정하는 머신러닝 후처리 계층을 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "유럽중기예보센터(European Centre for Medium-Range Weather Forecasts, ECMWF) 모델에 얹자 이 기간 예측력이 약 두 배로 뛰었고, ECMWF 예보 대회에서도 우승했다. Nature에 실린 이 방법은 MIT의 Judah Cohen이 “예측 가능성의 사막”이라 부르는 구간에서 처음으로 기후 평균값을 넘어섰다. 극한 기상 예측도 나아졌다."
+              },
+              {
+                "t": "p",
+                "x": "주저자는 Harvard의 Hannah Guan과 University of Toronto의 Soukayna Mouatadid이고, ECMWF, DTN, Microsoft, 브라질 IMPA 연구자들이 함께했다. 다른 모델에도 붙일 수 있고, 오픈소스인 데다 비용도 낮다. 케냐 기상청도 활용에 관심을 보였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI補正で予報精度倍増\n二～六週先の予測",
+          "body": "ECMWFの予報誤差を補正する機械学習層が、二～六週先の予測力をほぼ倍増させた。",
+          "mini_headline": "AIで長期予報が約二倍に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "二週間を超える予報は信頼性が低く、2021年のテキサスの冬の嵐が示したように、エネルギーや農業、緊急対応の計画を圧迫する。MITの研究者を含むチームは、予報モデルの過去の誤差から学び、二～六週先の確率予報を補正する機械学習の後処理層を開発した。"
+              },
+              {
+                "t": "p",
+                "x": "European Centre for Medium-Range Weather Forecasts(ECMWF、欧州中期予報センター)のモデルに適用したところ、この期間の予測力はほぼ倍増し、ECMWFの予報コンペで首位を獲得した。Natureに掲載されたこの手法は、MITのJudah Cohenが「予測可能性の砂漠」と呼ぶこの範囲で初めて気候学的平均を上回ったアプローチで、極端気象の予測も改善した。"
+              },
+              {
+                "t": "p",
+                "x": "筆頭著者はHarvardのHannah GuanとUniversity of TorontoのSoukayna Mouatadidで、ECMWF、DTN、Microsoft、ブラジルのIMPAの研究者も協力した。この手法はほかのモデルにも使え、オープンソースで低コストだ。ケニアの気象機関も活用に関心を示している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI校正使两至六周\n预报能力翻倍",
+          "body": "一种修正ECMWF预报误差的机器学习层，使两至六周的预测能力提高约一倍。",
+          "mini_headline": "AI让长期预报能力翻倍",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "超过两周的天气预报并不可靠，这给能源、农业和应急规划带来压力，2021年得克萨斯冬季风暴就是例证。包括MIT研究人员在内的团队构建了一个机器学习后处理层，它从预报模型过去的误差中学习，修正未来两至六周的概率预报。"
+              },
+              {
+                "t": "p",
+                "x": "将其应用于欧洲中期天气预报中心（European Centre for Medium-Range Weather Forecasts，ECMWF）的模型后，该时段的预测能力提高了约一倍，并在ECMWF的一项预报竞赛中夺得第一。这项发表于Nature的研究，是首个在这一被MIT的Judah Cohen称为“可预测性荒漠”的时段超越气候平均值的方法，它还改进了极端天气预测。"
+              },
+              {
+                "t": "p",
+                "x": "论文第一作者是Harvard的Hannah Guan和University of Toronto的Soukayna Mouatadid，合作者来自ECMWF、DTN、Microsoft和巴西的IMPA。该方法适用于其他模型，开源且成本低，肯尼亚气象部门已表示有意采用。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una corrección con IA duplica\nel acierto de dos a seis semanas",
+          "body": "Una capa de aprendizaje automático que corrige los pronósticos de ECMWF casi duplicó su acierto de dos a seis semanas.",
+          "mini_headline": "La IA duplica el pronóstico a largo plazo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Los pronósticos a más de dos semanas son poco fiables, lo que complica la planificación energética, agrícola y de emergencias, como mostraron las tormentas invernales de 2021 en Texas. Un equipo que incluye a investigadores del MIT creó una capa de posprocesamiento de inteligencia artificial (AI) basada en aprendizaje automático, que aprende de los errores pasados de un modelo de pronóstico y corrige sus pronósticos probabilísticos de dos a seis semanas vista."
+              },
+              {
+                "t": "p",
+                "x": "Aplicada al modelo del Centro Europeo de Previsiones Meteorológicas a Medio Plazo (European Centre for Medium-Range Weather Forecasts, ECMWF), casi duplicó la capacidad predictiva en ese intervalo y obtuvo el primer puesto en una competencia de pronósticos del ECMWF. Según lo publicado en Nature, fue el primer enfoque en superar los promedios climatológicos en este rango, que Judah Cohen, del MIT, llama un “desierto de predictibilidad”, y también mejoró la predicción de fenómenos extremos."
+              },
+              {
+                "t": "p",
+                "x": "Los autores principales son Hannah Guan, de Harvard, y Soukayna Mouatadid, de la University of Toronto, con colaboradores de ECMWF, DTN, Microsoft y el IMPA de Brasil. El método funciona con otros modelos, es de código abierto y de bajo costo, y la oficina meteorológica de Kenia ha mostrado interés en usarlo."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 보정으로 장기 예보\n예측력 약 두 배로",
+          "body": "ECMWF 예보 오차를 잡는 머신러닝이 두~여섯 주 예측력을 약 두 배로 높였다.",
+          "mini_headline": "AI로 장기 예보 두 배",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "두 주를 넘는 예보는 믿기 어렵고, 2021년 텍사스 겨울 폭풍에서 드러났듯 에너지·농업·비상 계획에 부담을 준다. MIT 연구진이 참여한 팀은 예보 모델의 과거 오차를 학습해 두~여섯 주 앞 확률 예보를 보정하는 머신러닝 후처리 계층을 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "유럽중기예보센터(European Centre for Medium-Range Weather Forecasts, ECMWF) 모델에 적용하자 이 기간의 예측력이 약 두 배로 높아졌고, ECMWF 예보 대회에서 우승했다. Nature에 보고된 이 방법은 MIT의 Judah Cohen이 “예측 가능성의 사막”이라 부르는 이 구간에서 기후 평균값을 처음으로 넘어선 접근법이며, 극한 기상 예측도 개선했다."
+              },
+              {
+                "t": "p",
+                "x": "주저자는 Harvard의 Hannah Guan과 University of Toronto의 Soukayna Mouatadid이며, ECMWF, DTN, Microsoft, 브라질 IMPA의 연구자들이 함께했다. 이 방법은 다른 모델에도 적용할 수 있고 오픈소스이며 비용이 낮다. 케냐 기상청도 활용에 관심을 보였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI補正で予報精度倍増\n二～六週先の予測",
+          "body": "ECMWFの予報誤差を補正する機械学習層が、二～六週先の予測力をほぼ倍増させた。",
+          "mini_headline": "AIで長期予報が約二倍に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "二週間を超える予報は信頼性が低く、2021年のテキサスの冬の嵐が示したように、エネルギーや農業、緊急対応の計画を圧迫する。MITの研究者を含むチームは、予報モデルの過去の誤差から学び、二～六週先の確率予報を補正する機械学習の後処理層を開発した。"
+              },
+              {
+                "t": "p",
+                "x": "European Centre for Medium-Range Weather Forecasts(ECMWF、欧州中期予報センター)のモデルに適用したところ、この期間の予測力はほぼ倍増し、ECMWFの予報コンペで首位を獲得した。Natureに掲載されたこの手法は、MITのJudah Cohenが「予測可能性の砂漠」と呼ぶこの範囲で初めて気候学的平均を上回ったアプローチで、極端気象の予測も改善した。"
+              },
+              {
+                "t": "p",
+                "x": "筆頭著者はHarvardのHannah GuanとUniversity of TorontoのSoukayna Mouatadidで、ECMWF、DTN、Microsoft、ブラジルのIMPAの研究者も協力した。この手法はほかのモデルにも使え、オープンソースで低コストだ。ケニアの気象機関も活用に関心を示している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI校正使两至六周\n预报能力翻倍",
+          "body": "一种修正ECMWF预报误差的机器学习层，使两至六周的预测能力提高约一倍。",
+          "mini_headline": "AI让长期预报能力翻倍",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "超过两周的天气预报并不可靠，这给能源、农业和应急规划带来压力，2021年得克萨斯冬季风暴就是例证。包括MIT研究人员在内的团队构建了一个机器学习后处理层，它从预报模型过去的误差中学习，修正未来两至六周的概率预报。"
+              },
+              {
+                "t": "p",
+                "x": "将其应用于欧洲中期天气预报中心（European Centre for Medium-Range Weather Forecasts，ECMWF）的模型后，该时段的预测能力提高了约一倍，并在ECMWF的一项预报竞赛中夺得第一。这项发表于Nature的研究，是首个在这一被MIT的Judah Cohen称为“可预测性荒漠”的时段超越气候平均值的方法，它还改进了极端天气预测。"
+              },
+              {
+                "t": "p",
+                "x": "论文第一作者是Harvard的Hannah Guan和University of Toronto的Soukayna Mouatadid，合作者来自ECMWF、DTN、Microsoft和巴西的IMPA。该方法适用于其他模型，开源且成本低，肯尼亚气象部门已表示有意采用。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una corrección con IA duplica\nel acierto de dos a seis semanas",
+          "body": "Una capa de aprendizaje automático que corrige los pronósticos de ECMWF casi duplicó su acierto de dos a seis semanas.",
+          "mini_headline": "La IA duplica el pronóstico a largo plazo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
+              },
+              {
+                "t": "p",
+                "x": "Los pronósticos a más de dos semanas son poco fiables, lo que complica la planificación energética, agrícola y de emergencias, como mostraron las tormentas invernales de 2021 en Texas. Un equipo que incluye a investigadores del MIT creó una capa de posprocesamiento de inteligencia artificial (AI) basada en aprendizaje automático, que aprende de los errores pasados de un modelo de pronóstico y corrige sus pronósticos probabilísticos de dos a seis semanas vista."
+              },
+              {
+                "t": "p",
+                "x": "Aplicada al modelo del Centro Europeo de Previsiones Meteorológicas a Medio Plazo (European Centre for Medium-Range Weather Forecasts, ECMWF), casi duplicó la capacidad predictiva en ese intervalo y obtuvo el primer puesto en una competencia de pronósticos del ECMWF. Según lo publicado en Nature, fue el primer enfoque en superar los promedios climatológicos en este rango, que Judah Cohen, del MIT, llama un “desierto de predictibilidad”, y también mejoró la predicción de fenómenos extremos."
+              },
+              {
+                "t": "p",
+                "x": "Los autores principales son Hannah Guan, de Harvard, y Soukayna Mouatadid, de la University of Toronto, con colaboradores de ECMWF, DTN, Microsoft y el IMPA de Brasil. El método funciona con otros modelos, es de código abierto y de bajo costo, y la oficina meteorológica de Kenia ha mostrado interés en usarlo."
               }
             ]
           }

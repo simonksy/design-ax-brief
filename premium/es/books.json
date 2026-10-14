@@ -6263,6 +6263,142 @@
           "x": "En respuesta, el premio pone en marcha lo que llama un 'proceso centrado en lo humano' (human-centred process) después de que el ganador zimbabuense fuera acusado de usar IA."
         }
       ]
+    },
+    "books/books-soa-ai-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+          "cap": "Anna Ganley"
+        },
+        {
+          "t": "p",
+          "x": "La Society of Authors lanzó una carta ética y global sobre AI en la Creators Emergency Summit, celebrada en Londres el 13 de octubre, con el objetivo de “definir cómo deben implantarse los servicios de AI generativa para ayudar a proteger y apoyar a los creadores humanos”."
+        },
+        {
+          "t": "p",
+          "x": "The Bookseller informa de que organismos creativos de todo el mundo lanzan la carta “en el vacío de la política gubernamental”. El artículo completo solo está disponible para lectores registrados."
+        }
+      ]
+    },
+    "books/books-japan-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La adopción de la traducción impulsada por AI generativa ha provocado una caída de las ventas en las empresas de traducción de Japón."
+        },
+        {
+          "t": "p",
+          "x": "Tokyo Shōkō Research examinó el desempeño de 100 empresas japonesas de traducción cuyos resultados podían compararse durante cinco ejercicios fiscales consecutivos. En el ejercicio fiscal 2025, las ventas combinadas de estas empresas sumaron ¥39.3B, mientras que sus beneficios netos totalizaron ¥920M."
+        },
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+        },
+        {
+          "t": "p",
+          "x": "Frente al ejercicio fiscal 2022, cuando las ventas alcanzaron su máximo de ¥43.5B y los beneficios el de ¥3.1B, en el ejercicio 2025 las ventas bajaron un 9.7% y los beneficios un 70.7%. De las 100 empresas encuestadas, 32 registraron más ventas y 35 más beneficios, mientras que 50 tuvieron menos ventas y 47 menos beneficios."
+        },
+        {
+          "t": "img",
+          "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+        },
+        {
+          "t": "p",
+          "x": "Tokyo Shōkō Research ofrece este análisis: “La traducción automática ha avanzado tan rápido que los textos sencillos ya pueden traducirse gratis. La competencia en precios se intensifica a medida que resulta más fácil obtener traducciones”."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, se espera que el mercado mundial de la traducción AI-assisted (asistida por AI) crezca con rapidez. QY Research prevé un aumento de $2.6B en 2025 a $4.2B en 2032; Business Research Insights espera que pase de $4.4B en 2025 a $5.7B en 2035."
+        },
+        {
+          "t": "p",
+          "x": "La clave para la supervivencia del sector podría estar en que los traductores usen la AI para ganar eficiencia en la traducción general-purpose (de uso general), mientras encuentran un nicho en campos especializados donde la AI es menos precisa o en áreas que requieren creatividad humana."
+        }
+      ]
+    },
+    "books/books-multivoice-audiobook": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Allan Tépper produjo hace poco su primer audiolibro con diálogos reales: necesitaba seis voces distintas (six-voice) para la narradora y otros cinco personajes. La autora y clienta (client-author) no tenía presupuesto para contratar ni a un solo locutor humano, y mucho menos a seis, así que las voces se clonaron con el plan Pro de ElevenLabs. “La brecha entre los locutores profesionales humanos y los locutores profesionales clonados todavía existe, pero es más estrecha que nunca”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+          "cap": "Todas las portadas de audiolibros deben ser cuadradas."
+        },
+        {
+          "t": "p",
+          "x": "El libro es El gato que se le coló a Colón, un libro infantil de Carmela Doval. Las voces: una narradora latinoamericana seseante; Paquito, un gato macho español; su novia Cloti; Cristóbal Colón; un portavoz anónimo de la tripulación; y Rodrigo, dueño de un barco. El clon usado para Paquito funciona bien, pero tiene una peculiaridad: su pronunciación castellana alterna entre la distinción y el habla seseante."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs también analiza el manuscrito y pregunta al productor por palabras o nombres desconocidos, con un botón para reproducir su mejor conjetura y un campo para escribir una grafía fonética. Solo un nombre lo necesitó: Dade, que primero leyó como “Dah-Day” hasta que Tépper escribió “deid”."
+        }
+      ]
+    },
+    "books/books-lezhin-teaz": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+          "cap": "Lezhin Entertainment lanzará el día 19 su servicio de chat de personajes con AI ‘Teaz’."
+        },
+        {
+          "t": "p",
+          "x": "Lezhin Entertainment, filial de la empresa de webtoons Kidari Studio, anunció que lanzará oficialmente el 19 de octubre ‘Teaz’, un servicio de chat de personajes con AI en el que los lectores conversan directamente con personajes de sus webtoons populares y crean sus propias historias."
+        },
+        {
+          "t": "p",
+          "x": "‘Teaz’ es un contenido conversacional muy inmersivo basado en la IP de webtoons originales de Bomtoon, plataforma global orientada al público femenino, y de Lezhin Comics. Los usuarios pueden guiar la conversación interviniendo en un momento concreto de la obra original para convertirse en uno de los personajes, o entrando en su universo desde la perspectiva de una 3.ª persona."
+        },
+        {
+          "t": "p",
+          "x": "Su principal diferencia es la ‘conversación relacional’. Las reacciones del personaje y la forma de la relación cambian de diversas maneras según el contenido y el contexto de lo que dice el usuario. También incluye elementos para los lectores, como recoger objetos a medida que avanza la historia y desbloquear ilustraciones ocultas dibujadas a mano por los autores."
+        },
+        {
+          "t": "p",
+          "x": "‘Teaz’ solo utiliza IP con contratos oficiales y derechos claramente definidos, y las conversaciones se desarrollan dentro de la ambientación oficial aprobada por los autores originales. Tras el lanzamiento, la empresa prevé introducir de forma gradual un modo ‘AU (Alternative Universe, universo paralelo)’, que aborda mundos totalmente distintos del original, y un modo ‘RPG de texto’."
+        },
+        {
+          "t": "p",
+          "x": "La empresa matriz, Kidari Studio, registró en el primer semestre de 2026 unos ingresos consolidados de 122.8 mil millones de wones (1,228억 원) y un beneficio operativo de 9 mil millones de wones (90억 원). Los ingresos crecieron un 23% y el beneficio operativo un 275% interanual. Un responsable de la empresa afirmó: “‘Teaz’ ampliará de forma tridimensional el universo de la IP original y se consolidará como el nuevo motor de crecimiento futuro de la empresa”."
+        }
+      ]
+    },
+    "books/books-nippan-anthropic-sales": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
+          "cap": "De documentos judiciales de U.S.: interior de un almacén donde se cree que se guarda un gran volumen de libros recopilados"
+        },
+        {
+          "t": "p",
+          "x": "Una filial del gran distribuidor de libros Nippan Group Holdings, Inc. vendió libros japoneses a Anthropic PBC, desarrolladora de inteligencia artificial de U.S., sin notificarlo a las editoriales. La Asociación de Editores de Libros de Japón pidió explicaciones y recibió una respuesta de Nippan que confirmaba las ventas, según fuentes del sector editorial."
+        },
+        {
+          "t": "p",
+          "x": "Se cree que Anthropic llevaba a cabo un proyecto para escanear grandes cantidades de libros para el entrenamiento de AI, y es posible que incluyera libros japoneses. Según documentos judiciales, Anthropic compraba grandes cantidades de libros a distribuidores de Europa, Estados Unidos y Asia, entre ellos una empresa llamada “Nippan Japan”."
+        },
+        {
+          "t": "img",
+          "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La asociación exigió a Nippan que dejara de suministrar y vender libros destinados al entrenamiento de AI. Según la información, Nippan reconoció ventas entre diciembre de 2024 y diciembre de 2025, pero afirmó que no sabía que los libros se compraban para entrenar AI."
+        },
+        {
+          "t": "p",
+          "x": "El artículo 30-4 de la Ley de Derechos de Autor de Japón permite usar obras para entrenar AI sin permiso, salvo que se perjudiquen de forma injustificada los intereses del titular de los derechos. Un alto ejecutivo del sector editorial afirmó: “Es inaceptable que Nippan, que está en posición de proteger la cultura editorial de Japón, actúe de un modo que socava esa misma cultura”."
+        }
+      ]
     }
   }
 }

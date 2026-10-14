@@ -1,161 +1,196 @@
 {
-  "date": "2026-10-14",
   "section": "games",
-  "now_iso": "2026-10-13T22:03:28Z",
+  "now_iso": "2026-10-14T22:00:44Z",
   "window_hours": 336,
   "items": [
+    {
+      "title": "Epic’s new games launcher is ‘vibe coded’",
+      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+      "source": "The Verge",
+      "category": "games",
+      "published_iso": "2026-10-14T13:55:02+00:00",
+      "excerpt": "“We used AI as a tool for this.”",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+    },
     {
       "title": "Xbox is officially embracing the chaos of AI-powered game ports",
       "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
       "source": "The Verge",
       "category": "games",
       "published_iso": "2026-10-13T19:00:48+00:00",
-      "excerpt": "Xbox Labs is a new group exploring emerging game technology, including AI-assisted decompilation, recompilation and browser emulation of older games.",
+      "excerpt": "Xbox Labs is a new group exploring emerging game technology",
       "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
     },
     {
-      "title": "Xbox Labs Is A Big Announcement About AI That's Missing The Word AI",
-      "url": "https://kotaku.com/xbox-labs-is-a-big-announcement-about-ai-that-doesnt-mention-ai-once-2000745355",
-      "source": "Kotaku",
+      "title": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI",
+      "url": "https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
+      "source": "Eurogamer.net",
       "category": "games",
-      "published_iso": "2026-10-13T20:08:30+00:00",
-      "excerpt": "A new Xbox team has been tasked with exploring AI-coded game stuff, though the announcement never says 'AI'.",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/corntana-1200x675.jpg"
-    },
-    {
-      "title": "New Xbox Labs Team Officially Announced",
-      "url": "https://www.polygon.com/xbox-labs-asha-sharma-ai-vibe-coding/",
-      "source": "Polygon",
-      "category": "games",
-      "published_iso": "2026-10-13T21:08:30Z",
-      "excerpt": "Xbox CEO Asha Sharma reveals a new team inspired by viral AI-powered, vibe-coded game experiments.",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24431666/VyNhTqYhwJXU8rJpH5rBDL.jpeg?w=1600&h=900&fit=crop"
-    },
-    {
-      "title": "Xbox Labs Announced With Goal of Getting New Games and Old Playable in Regular Web Browsers",
-      "url": "https://www.ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
-      "source": "IGN",
-      "category": "games",
-      "published_iso": "2026-10-13T19:00:00.000Z",
-      "excerpt": "Xbox has announced Xbox Labs, a new initiative aimed at getting games to more people in more places, with a particular emphasis on web browsers.",
-      "og_image": "https://assets-prd.ignimgs.com/2026/10/12/halospeedrunblogroll-1533336736758-1717694718988-1791846824130.jpg?width=1280&format=jpg&auto=webp&quality=80"
-    },
-    {
-      "title": "Xbox is forming a whole division in response to the vibe-coded game recomp explosion – \"These are unmistakably good outcomes for players\"",
-      "url": "https://www.gamesradar.com/games/xbox-is-forming-a-whole-division-in-response-to-the-vibe-coded-game-recomp-explosion-these-are-unmistakably-good-outcomes-for-players/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-13T20:39:11Z",
-      "excerpt": "Xbox frames the wave of AI vibe-coded recompilations as good for players, even when they challenge existing business models.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/W7jzFeUuRH8HgnHh3Byw5m-1920-80.jpg"
+      "published_iso": "2026-10-14T08:35:47.641966+00:00",
+      "excerpt": "Xbox Labs is Xbox's attempt to explore the recent rush of genAI-driven game ports and recompiles.",
+      "og_image": "https://assetsio.gnwcdn.com/xbox-labs-logo-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
       "title": "The Blood of Dawnwalker lead actor reminds us why AI will always struggle to replicate human performances: \"They need to have their own ideas\"",
       "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-      "source": "Eurogamer",
+      "source": "Eurogamer.net",
       "category": "games",
       "published_iso": "2026-10-12T09:41:30.012979+00:00",
-      "excerpt": "As AI voice use increases, The Blood of Dawnwalker's lead actor Will de Renzy-Martin explains what the technology can't replicate in game performance.",
+      "excerpt": "As the use of AI ever increases, the lead actor from The Blood of Dawnwalker reminds us what the technology doesn't replicate.",
       "og_image": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
-      "title": "The happiest man in gaming hates generative AI",
-      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-      "source": "GamesIndustry.biz",
+      "title": "Epic throws shade at Steam and admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy,\" but also warns there'll be bugs",
+      "url": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
+      "source": "Eurogamer.net",
       "category": "games",
-      "published_iso": "2026-10-12T13:11:17.121952+00:00",
-      "excerpt": "Dwarf Fortress creator Tarn Adams on bloated AI code, vampire computers, and surviving on Steam.",
-      "og_image": "https://assetsio.gnwcdn.com/Tarn-Adams-Dwarf-Fortress.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "published_iso": "2026-10-14T18:17:03.617278+00:00",
+      "excerpt": "Days after pushing an AI-first game development pipeline, Epic has vibe coded the Epic Games Launcher in an effort to outrun Steam.",
+      "og_image": "https://assetsio.gnwcdn.com/fortnite-runners-keyart-webheader.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
     },
     {
-      "title": "Dwarf Fortress creator Tarn Adams is as tired of genAI in the industry as anyone else, and is pretty set on never using it",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-the-industry-as-anyone-else-and-is-pretty-set-on-never-using-it",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-10-13T13:42:44.861048+00:00",
-      "excerpt": "Tarn Adams has strong feelings on genAI and says very little could make him budge on never using it for Dwarf Fortress.",
-      "og_image": "https://assetsio.gnwcdn.com/Tarn-Adams.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-    },
-    {
-      "title": "VR Chat Community Dev Calls For Boycott Over 'Rampant Plague' Of AI",
-      "url": "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109",
+      "title": "Players Are Furious About Total War: Shogun 2's AI-Upscaled 'Enhanced' Edition",
+      "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-10-12T23:00:26+00:00",
-      "excerpt": "A prominent VRChat community creator starts a protest over AI-generated worlds and avatars hurting discoverability; developers ask how much is too much.",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/VR-Chat-1200x675.jpg"
+      "published_iso": "2026-10-14T14:00:30+00:00",
+      "excerpt": "Steam users say it runs worse, looks worse, adds more bugs, and clearly used genAI to enlarge the artwork",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/shogun-slop9.jpg"
     },
     {
-      "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
-      "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
-      "source": "PC Gamer",
+      "title": "Epic Dunks On Steam With Vibe-Coded Storefront And Gets Roasted: 'This Launcher Is So F*cking Vibeslopped Its Funny'",
+      "url": "https://kotaku.com/epic-dunks-on-steam-with-vibe-coded-storefront-and-gets-roasted-this-launcher-is-so-fucking-vibeslopped-its-funny-2000746031",
+      "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-10-04T10:49:26Z",
-      "excerpt": "GPT-6 Astra tried to get a leg-up in Blizzard's RTS by pilfering a human-created bot.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Av3XxfD8BF9MQDW967VZfE-1200-80.jpg"
+      "published_iso": "2026-10-14T21:30:56+00:00",
+      "excerpt": "The Fortnite maker is promoting faster response times",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/peely.jpg"
     },
     {
-      "title": "Google's golden age of AI games?",
-      "url": "https://www.pcgamer.com/software/ai/googles-golden-age-of-ai-games/",
-      "source": "PC Gamer",
+      "title": "Total War: Shogun 2's 'Enhanced' Version Removes Original, Is Buggy, Kneecaps Mod Support And Has Dogshit AI Art",
+      "url": "https://aftermath.site/total-war-shogun-2-ai-art-mods-buggy/",
+      "source": "Aftermath",
       "category": "games",
-      "published_iso": "2026-10-09T00:39:39Z",
-      "excerpt": "PC Gamer pushes back on Google's claim that 'AI is unlocking a new golden age of games', starting with the AI-generated image Google chose to illustrate it.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/LVdqycj7EnF5PUSFh2VHqb-1458-80.png"
+      "published_iso": "2026-10-14T21:12:08.000Z",
+      "excerpt": "A huge bummer",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/Untitled-1.jpg"
     },
     {
-      "title": "New Sony patent proposes using AI to alter boss fights in real time, and now I'm having nightmares about a totally unpredictable Souls game",
-      "url": "https://www.gamesradar.com/games/dark-souls/new-sony-patent-proposes-using-ai-to-alter-boss-fights-in-real-time-and-now-im-having-nightmares-about-a-totally-unpredictable-souls-game/",
+      "title": "Total War Fans Blast New Remaster Over Bugs, AI Accusations",
+      "url": "https://www.polygon.com/total-war-shogun-2-complete-edition/",
+      "source": "Polygon.com",
+      "category": "games",
+      "published_iso": "2026-10-14T20:29:56Z",
+      "excerpt": "Steam users are shredding Total War: Shogun 2 Complete Edition",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/total-war-shogun-2.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+      "title": "Jagex pull Runescape trailer and apologise for genAI use after complaints about six-fingered knights, pinning the blame on a \"trusted external partner\"",
+      "url": "https://www.rockpapershotgun.com/jagex-pull-runescape-trailer-and-apologise-for-genai-use-after-complaints-about-six-fingered-knights-pinning-the-blame-on-a-trusted-external-partner",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-10-06T16:30:00+00:00",
+      "excerpt": "Certain imagery in a recent RuneScape trailer led to accusations of genAI use, which Jagex admitted was the case but quickly clarified it was from a third party",
+      "og_image": "https://assetsio.gnwcdn.com/RuneScape_ScXlYx6.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
+      "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-10-06T10:51:11.300428+00:00",
+      "excerpt": "Retro egg-rolling platformer Dizzy is on its way back from the 80s, but with the caveat of its creators being very happy to use genAI for the entire production.",
+      "og_image": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude",
+      "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-10-06T09:14:14.138328+00:00",
+      "excerpt": "Two new mods adding connection-stabilising rollback netcode to Ultra Street Fighter IV appear, but both are made with generative AI.",
+      "og_image": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing",
+      "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-10-05T08:29:51.411227+00:00",
+      "excerpt": "Some improvements will be open-sourced to support AI training, with the long-term goal of evolving its RE Engine into an \"AI-generation game engine\"",
+      "og_image": "https://assetsio.gnwcdn.com/resident-evil-requiem-trailer-reveals-bustling-city-location_89ud.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments",
+      "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-10-06T13:50:19.330891+00:00",
+      "excerpt": "Senior executive officer and deputy chief business officer Tsuyoshi Saito said Sega is \"very cautious\" about how it implements generative AI during development",
+      "og_image": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Wizards of the Coast union expands, demands company stop pushing generative AI",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-10-07T15:58:18.295638+00:00",
+      "excerpt": "The Dungeons & Dragons and Magic: The Gathering teams at Wizards of the Coast are unionizing, and are calling on Hasbro…",
+      "og_image": "https://assetsio.gnwcdn.com/Wizards_CWA.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "title": "Google Playground is an 'experimental' AI game platform",
+      "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-10-06T20:14:47.000Z",
+      "excerpt": "Google has announced Google Playground, a new platform for making and playing games derived from gen-AI prompts.",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+    },
+    {
+      "title": "Playgama launches a suite of tools that lets AI agents analyze, refine, and update games on their own",
+      "url": "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-10-14T07:00:00+00:00",
+      "excerpt": "Playgama launches a suite of tools that lets AI agents analyze, refine, and update games on their own and publish on Playgama Sandbox.",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Playgama.jpg"
+    },
+    {
+      "title": "The Legend of Zelda: Link's Awakening's Nintendo Switch remake now has a PC port if you can stomach an \"almost exclusive use of AI\"",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-10-07T11:03:38Z",
-      "excerpt": "A Sony patent describes AI that adapts boss behaviour in real time; the tech could also make NPCs more realistic.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/q29kfVwTk9MfUnLow7MmTZ-1920-80.jpg"
+      "published_iso": "2026-10-14T11:02:20Z",
+      "excerpt": "Something like this is way beyond my skill set",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zKaVYn62cAmA7wbgV4Krjc-1920-80.jpg"
     },
     {
-      "title": "Bloodborne PC port with full multiplayer can't get FromSoftware fans to vibe with vibe coding: \"I will just use the emulator made by humans\"",
-      "url": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
-      "source": "GamesRadar+",
+      "title": "Xbox Is Getting Into AI Gaming, Even If It Won't Say So",
+      "url": "https://www.gamespot.com/articles/xbox-is-getting-into-ai-gaming-even-if-it-wont-say-so/",
+      "source": "GameSpot",
       "category": "games",
-      "published_iso": "2026-10-09T16:30:24Z",
-      "excerpt": "An unofficial native Bloodborne PC port with full multiplayer, made with vibe coding, fails to win over FromSoftware fans who prefer the human-made emulator.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HYgVWfc7Vi2zK2m4QHVb6C-1920-80.jpg"
+      "published_iso": "2026-10-14T10:50:37+00:00",
+      "excerpt": "Sadly, Xbox Labs isn't dedicated to spreading awareness about the best breed of dogs.",
+      "og_image": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-Labs.jpg"
     },
     {
-      "title": "NVIDIA DLSS 5 Runs 30% Faster Now, Reduces VRAM Use By 20% & Coming To Hogwarts Legacy & Where Winds Meet In November",
-      "url": "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/",
-      "source": "Wccftech",
+      "title": "복원·패치·이식까지, AI 이용한 '게임 역분석' 주목",
+      "url": "https://www.gamemeca.com/view.php?gid=1781785",
+      "source": "GameMeca",
       "category": "games",
-      "published_iso": "2026-10-13T12:44:52+00:00",
-      "excerpt": "NVIDIA says its DLSS 5 neural rendering model is now faster and less resource-hungry, and is coming to new games including Hogwarts Legacy.",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/IMG_7387-1920x1080.jpg"
+      "published_iso": "2026-10-14T18:43:59+09:00",
+      "excerpt": "AI 코딩 에이전트의 발전으로 게임의 소스코드를 유추하고 재설계하는 역분석 기술이 빠르게 확산되고 있다. 국내외에서는 고전 게임의 네이티브 포팅과 피처폰 명작 복원 및 유저 번역 등에 AI 역분석이 적극 활용되는 추세다. 다만 기술적 혁신과 함께 저작권 보호 및 불법 복제 방지를...",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/785/gm813897_ai.webp"
     },
     {
-      "title": "부산서 열리는 유니티 AI 게임잼, 참가자 모집한다",
-      "url": "https://www.gamemeca.com/view.php?gid=1781633",
-      "source": "게임메카",
+      "title": "아샤 대표, AI 에이전트 코딩 활용 위한 ‘XBOX 랩스’(LABS) 설립",
+      "url": "https://bbs.ruliweb.com/news/read/230576",
+      "source": "루리웹",
       "category": "games",
-      "published_iso": "2026-10-12T12:10:53+09:00",
-      "excerpt": "유니티와 한국게임산업협회가 지스타 2026 개막 전 11월 18~19일 부산 벡스코에서 24시간 무박 '유니티 AI 게임잼'을 열고 10월 12~20일 참가자를 모집한다.",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/633/gm435665_thumb__AI_.webp"
-    },
-    {
-      "title": "[AGF 26] 서브컬처 행사 영상을 AI로? 팬덤 불만 폭발",
-      "url": "https://www.gamemeca.com/view.php?gid=1781551",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-10-08T15:08:26+09:00",
-      "excerpt": "AGF가 올해 행사 티저 영상을 인공지능으로 제작해 팬들의 큰 불만을 샀다. 서브컬처 팬덤의 AI 반감 성향을 고려하지 않은 홍보라는 지적이 잇따랐다.",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/551/gm443621_261008-risell-tt7.webp"
-    },
-    {
-      "title": "Official Unity Plugin for Grok Build Is Now Available",
-      "url": "https://unity.com/blog/unity-plugin-grok",
-      "source": "Unity",
-      "category": "games",
-      "published_iso": "2026-10-01T00:00:00+00:00",
-      "excerpt": "The official Unity Plugin now works in Grok Build, bringing 30+ Unity-written engineering skills (UI Toolkit, URP, multiplayer, IAP) to the coding agent with one terminal command. Unity 6+.",
-      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+      "published_iso": "2026-10-14T17:00:00+09:00",
+      "excerpt": "xbox의 수장 아샤는 에이전트 기반 코딩 기술을 활용해 게임 제작과 창작의 경계를 확장하고자 소규모 조직인 xbox 랩스 labs 설립을 발표했다 게임의 리빌드 및 리믹스 사례를 바탕으로 소프트웨어와 하드웨어의 결속에 의문을 제기한 아샤는 개발 도구 공유와 공동 창작을 통해 더 많은 사용자가 게임을 즐기고 창작할 수 있는 미래를 탐구할 계획이다",
+      "og_image": "https://img.ruliweb.com/data/news/tn/26/10/14/1a1395bf930_udyjlg.webp"
     }
   ]
 }

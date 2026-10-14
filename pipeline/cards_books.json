@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "books",
   "cards": [
     {
-      "id": "books-nippan-anthropic-sales",
-      "source_lang": "en",
+      "id": "books-kyobo-ai-order",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "출판계 Nippan에 요구\nAnthropic 판매중단",
-      "body": "Nippan 자회사가 2024년12월~2025년12월 Anthropic에 판매했다.",
-      "mini_headline": "Nippan의 Anthropic 도서 판매",
+      "headline": "AI, 새책도 노리나\n교보문고에 10만권 주문",
+      "body": "국내 최대 서점 교보문고에 AI 학습용으로 의심되는 대량 도서 주문이 들어왔다.",
+      "mini_headline": "AI 학습 의심 새책 10만권 주문",
       "tool": "Books",
-      "source": "The Japan News (Yomiuri)",
-      "url": "https://japannews.yomiuri.co.jp/society/general-news/20261007-352595/",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25469854",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,345 +19,395 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-            "cap": "U.S. 법원 문서에 실린 창고 내부 모습. 수집한 책을 대량으로 보관한 곳으로 보인다"
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+            "cap": "지난 7월 서울 종로구 광화문 교보문고를 찾은 시민들이 책을 읽고 있다. 뉴스1"
           },
           {
             "t": "p",
-            "x": "대형 도서 유통사 Nippan Group Holdings, Inc.의 자회사가 출판사에 알리지 않고 U.S. 인공지능 개발사 Anthropic PBC에 일본 책을 팔았다. 출판업계 관계자들에 따르면 일본서적출판협회(Japan Book Publishers Association)가 이 문제를 묻자 Nippan은 판매 사실을 인정하는 답변을 보냈다."
+            "x": "국내 최대 서점인 교보문고에 인공지능(AI) 학습용으로 의심되는 대량 도서 주문이 들어온 사실이 14일 확인됐다. AI 기업이 배후에서 주도한다는 의심을 받은 헌책 대량 매입 시도가 앞서 드러났는데, 이번엔 새책 주문까지 나왔다."
           },
           {
             "t": "p",
-            "x": "Anthropic은 AI 학습용으로 책을 대량 스캔하는 프로젝트를 진행해 온 것으로 보인다. 여기에 일본 책도 들어갔을 수 있다. 법원 문서를 보면 Anthropic은 유럽, 미국(United States), 아시아 유통사들에서 책을 대량으로 사들였는데 그중에 “Nippan Japan”이라는 회사도 있었다."
+            "x": "교보문고는 올해 초부터 미국·영국 등 해외 업체들에게서 한국어 도서를 대량으로 사고 싶다는 문의를 받았다. 문의 업체는 약 10개로 미국 업체가 가장 많았다. 이들은 도서명이나 분야와 상관없이 약 10만 종의 도서를 ‘1종당 1권씩’ 사겠다고 했다. 교보문고는 “가능한 한 많은 종류의 도서를 확보하려는 형태라는 점에서 일반적인 거래와 차이가 있었다”고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "지난 8월 예스24 중고서점과 서울책보고에 헌책을 대량으로 사겠다고 문의한 미국 애리조나주 B사도 “도서별로 한 권씩 매입하니, 전체 권수보다 서로 다른 도서의 종수가 더 중요하다”고 밝혔다. B사는 교보문고에도 구입 문의를 했다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "최종 납품처를 묻자 업체들은 “비밀유지 사항으로 공개할 수 없다”고 답했고, 일부는 “AI 학습 목적은 아니다”라면서도 “최종 납품처는 데이터 관련 기업”이라고 했다. 교보문고는 “AI 학습에 활용될 가능성을 배제하기 어렵다고 판단했다”며 거래 논의를 중단했다. 출판사와 유통업계가 정보를 공유하고 대응 원칙을 마련해야 한다는 입장도 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+            "cap": "14일 일본 도쿄에서 열린 앤트로픽 도쿄 사무소 개소 1주년 기념 언론 브리핑. 로이터=연합뉴스"
           },
           {
             "t": "p",
-            "x": "협회는 Nippan에 AI 학습용 도서 공급과 판매를 멈추라고 요구했다. Nippan은 2024년 12월부터 2025년 12월까지 판매한 사실은 인정했지만 책을 AI 학습용으로 사 가는 줄은 몰랐다고 주장한 것으로 전해졌다."
-          },
-          {
-            "t": "p",
-            "x": "일본 저작권법(Copyright Law)의 Article 30-4는 저작권자의 이익을 부당하게 해치지 않는 한 허락 없이 저작물을 AI 학습에 쓸 수 있게 한다. 한 출판사 고위 임원은 “일본의 출판 문화를 지켜야 할 위치에 있는 Nippan이 바로 그 문화를 훼손하는 행위를 하는 것은 용납할 수 없다”고 말했다."
+            "x": "해외에서는 일본출판판매(닛판)가 미국 AI 기업 앤트로픽에 2024년 12월부터 1년 동안 일본어 새책을 판매했다. 대한출판문화협회는 이사회를 열어 서점·중고서점·유통업체 실태조사를 하기로 했다. 작가 동의 없는 AI 학습을 비판하는 ‘프랑크푸르트 호소문’에 동참하는 공동 성명서도 발표할 예정이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Publishers tell Nippan to stop\nselling books to Anthropic",
-          "body": "A Nippan subsidiary sold Japanese books to Anthropic from Dec 2024 to Dec 2025 without telling publishers.",
-          "mini_headline": "Nippan's Anthropic book sales",
+        "ko": {
+          "headline": "AI, 새책도 노리나\n교보문고에 10만권 주문",
+          "body": "국내 최대 서점 교보문고에 AI 학습용으로 의심되는 대량 도서 주문이 들어왔다.",
+          "mini_headline": "AI 학습 의심 새책 10만권 주문",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-                "cap": "From U.S. court documents: a view inside a warehouse where a large volume of collected books are believed to be stored"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+                "cap": "지난 7월 서울 종로구 광화문 교보문고를 찾은 시민들이 책을 읽고 있다. 뉴스1"
               },
               {
                 "t": "p",
-                "x": "A subsidiary of major book distributor Nippan Group Holdings, Inc. has sold Japanese books to U.S. artificial intelligence developer Anthropic PBC without notifying the publishers. The Japan Book Publishers Association inquired about the matter and received a response from Nippan confirming the sales, according to publishing industry sources."
+                "x": "국내 최대 서점인 교보문고에 인공지능(AI) 학습용으로 의심되는 대량 도서 주문이 들어온 사실이 14일 확인됐다. AI 기업이 배후에서 주도한다는 의심을 받은 헌책 대량 매입 시도가 앞서 드러났는데, 이번엔 새책 주문까지 나왔다."
               },
               {
                 "t": "p",
-                "x": "Anthropic is believed to have been conducting a project to scan large quantities of books for AI training, and Japanese books may have been included. According to court documents, Anthropic had been purchasing large quantities of books from distributors in Europe, the United States and Asia, among them a company named “Nippan Japan.”"
+                "x": "교보문고는 올해 초부터 미국·영국 등 해외 업체들에게서 한국어 도서를 대량으로 사고 싶다는 문의를 받았다. 문의 업체는 약 10개로 미국 업체가 가장 많았다. 이들은 도서명이나 분야와 상관없이 약 10만 종의 도서를 ‘1종당 1권씩’ 사겠다고 했다. 교보문고는 “가능한 한 많은 종류의 도서를 확보하려는 형태라는 점에서 일반적인 거래와 차이가 있었다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "지난 8월 예스24 중고서점과 서울책보고에 헌책을 대량으로 사겠다고 문의한 미국 애리조나주 B사도 “도서별로 한 권씩 매입하니, 전체 권수보다 서로 다른 도서의 종수가 더 중요하다”고 밝혔다. B사는 교보문고에도 구입 문의를 했다고 한다."
+              },
+              {
+                "t": "p",
+                "x": "최종 납품처를 묻자 업체들은 “비밀유지 사항으로 공개할 수 없다”고 답했고, 일부는 “AI 학습 목적은 아니다”라면서도 “최종 납품처는 데이터 관련 기업”이라고 했다. 교보문고는 “AI 학습에 활용될 가능성을 배제하기 어렵다고 판단했다”며 거래 논의를 중단했다. 출판사와 유통업계가 정보를 공유하고 대응 원칙을 마련해야 한다는 입장도 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+                "cap": "14일 일본 도쿄에서 열린 앤트로픽 도쿄 사무소 개소 1주년 기념 언론 브리핑. 로이터=연합뉴스"
               },
               {
                 "t": "p",
-                "x": "The association demanded that Nippan cease the supply and sale of books intended for AI training. Nippan reportedly acknowledged sales between December 2024 and December 2025, but claimed it was not aware the books were being purchased for AI training."
+                "x": "해외에서는 일본출판판매(닛판)가 미국 AI 기업 앤트로픽에 2024년 12월부터 1년 동안 일본어 새책을 판매했다. 대한출판문화협회는 이사회를 열어 서점·중고서점·유통업체 실태조사를 하기로 했다. 작가 동의 없는 AI 학습을 비판하는 ‘프랑크푸르트 호소문’에 동참하는 공동 성명서도 발표할 예정이다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Kyobo gets suspected AI order\nfor 100,000 books (10만권)",
+          "body": "Kyobo Book Centre, Korea's largest bookstore, received a bulk book order suspected to be for AI training.",
+          "mini_headline": "Suspected AI order: 100,000 new books (10만권)",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+                "cap": "Citizens read books at Kyobo Book Centre in Gwanghwamun, Jongno-gu, Seoul, last July. News1"
               },
               {
                 "t": "p",
-                "x": "Article 30-4 of Japan’s Copyright Law permits the use of works for AI training without permission, unless it unreasonably prejudices the copyright owner’s interests. A senior publishing executive said: “It is unacceptable for Nippan, which is in a position to protect Japan’s publishing culture, to engage in actions that undermine that very culture.”"
+                "x": "It was confirmed on the 14th that Kyobo Book Centre, Korea's largest bookstore, received a bulk book order suspected to be for artificial intelligence (AI) training. Earlier attempts to buy used books in bulk, suspected of being led by AI companies behind the scenes, had already come to light; now a case involving new books has been found as well."
+              },
+              {
+                "t": "p",
+                "x": "Since the start of this year, Kyobo Book Centre has received inquiries from companies based overseas, including in the United States and the United Kingdom, wanting to buy Korean-language books in bulk. About 10 companies made inquiries, most of them American. They said they would buy about 100,000 titles (10만 종), ‘1 copy per title’, regardless of title or subject. Kyobo Book Centre said, “It differed from an ordinary transaction in that it appeared aimed at securing as many different titles as possible.”"
+              },
+              {
+                "t": "p",
+                "x": "Company B, based in Arizona in the United States, which last August asked Yes24's used bookstore and Seoul Chaekbogo about buying used books in bulk, also said, “Since we buy one copy of each book, the number of different titles matters more than the total number of copies.” Company B reportedly also asked Kyobo Book Centre about a purchase."
+              },
+              {
+                "t": "p",
+                "x": "Asked about the final recipient, the companies replied, “It is confidential and cannot be disclosed,” and some said, “It is not for AI training,” while also saying, “The final recipient is a data-related company.” Kyobo Book Centre halted the deal talks, saying, “We judged it hard to rule out the possibility that the books would be used for AI training,” and said publishers and distributors need to share information and set response principles."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+                "cap": "A press briefing marking the 1st anniversary of Anthropic's Tokyo office, held in Tokyo, Japan, on the 14th. Reuters=Yonhap"
+              },
+              {
+                "t": "p",
+                "x": "Overseas, Nippon Shuppan Hanbai (Nippan) sold new Japanese-language books to the American AI company Anthropic over a 1-year period starting in December 2024. The Korean Publishers Association held a board meeting and decided to survey bookstores, used bookstores and distributors, and to issue a joint statement joining the ‘Frankfurt Appeal’, which criticizes AI training without authors' consent."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版社がNippanに要求\nAnthropic販売の停止",
-          "body": "Nippan子会社が出版社に無断で2024〜2025年にAnthropicへ和書を売った。",
-          "mini_headline": "NippanのAnthropic向け書籍販売",
+          "headline": "AI、新刊も狙うのか\n教保文庫に10万冊の注文",
+          "body": "韓国最大の書店、教保文庫にAI学習用とみられる大量の書籍注文が入った。",
+          "mini_headline": "AI学習疑いで新刊10万冊を注文",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-                "cap": "U.S.の裁判資料より：大量に集められた書籍が保管されているとみられる倉庫の内部"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+                "cap": "7月、ソウル鍾路区光化門の教保文庫で本を読む市民たち。News1"
               },
               {
                 "t": "p",
-                "x": "大手出版取次Nippan Group Holdings, Inc.の子会社が、出版社に知らせないまま、U.S.の人工知能開発企業Anthropic PBCに日本の書籍を販売していた。出版業界関係者によると、日本書籍出版協会がこの件を問い合わせ、Nippanから販売を認める回答を受けた。"
+                "x": "韓国最大の書店である教保文庫に、人工知能(AI)の学習用とみられる大量の書籍注文が入っていたことが14日、分かった。AI企業が裏で主導しているとみられる古書の大量買い取りの動きが先に確認されたのに続き、新刊の注文事例も見つかった形だ。"
               },
               {
                 "t": "p",
-                "x": "AnthropicはAI学習のために大量の書籍をスキャンするプロジェクトを進めていたとみられ、日本の書籍が含まれていた可能性がある。裁判資料によると、Anthropicは欧州、米国、アジアの取次業者から大量の書籍を購入しており、その中に「Nippan Japan」という会社があった。"
+                "x": "教保文庫は今年初めから、米国・英国など海外の業者から韓国語の書籍を大量に購入したいという問い合わせを受けていた。問い合わせてきた業者は約10社で、米国の業者が最も多かった。彼らは書名や分野を問わず、約10万種の書籍を「1種につき1冊ずつ」購入したいとした。教保文庫は「できるだけ多くの種類の書籍を確保しようとする形である点で、通常の取引とは異なっていた」と説明した。"
+              },
+              {
+                "t": "p",
+                "x": "8月にYes24の古書店とソウル冊宝庫に古書の大量買い取りを打診した米アリゾナ州のB社も、「書籍ごとに1冊ずつ買い取るので、総冊数より異なる書籍の種類数の方が重要だ」としていた。B社は教保文庫にも購入を打診したという。"
+              },
+              {
+                "t": "p",
+                "x": "業者らは最終的な納品先を尋ねられると「秘密保持事項のため明かせない」と答え、一部は「AI学習目的ではない」としながらも「最終納品先はデータ関連企業だ」と述べた。教保文庫は「AI学習に使われる可能性を排除しにくいと判断した」として取引の協議を打ち切り、出版社と流通業界の間で情報共有と対応原則づくりが必要だとした。"
               },
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+                "cap": "14日、東京で開かれたAnthropic東京オフィス開設1周年の記者説明会。ロイター=聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "協会はNippanに対し、AI学習向け書籍の供給と販売をやめるよう求めた。Nippanは2024年十二月から2025年十二月までの販売を認めたが、書籍がAI学習のために購入されていたとは知らなかったと主張したという。"
-              },
-              {
-                "t": "p",
-                "x": "日本の著作権法30-4条は、著作権者の利益を不当に害しない限り、AI学習のための著作物の利用を許諾なしに認めている。ある出版大手の幹部は「日本の出版文化を守る立場にあるNippanが、その文化を損なう行為に及ぶことは容認できない」と語った。"
+                "x": "海外では、日本出版販売(日販)が米AI企業Anthropicに2024年12月から1年間、日本語の新刊を販売した。大韓出版文化協会は理事会を開いて書店・古書店・流通業者の実態調査を行うことを決め、著者の同意なきAI学習を批判する「フランクフルト・アピール」に賛同する共同声明も発表することにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版商要求Nippan\n停止向Anthropic售书",
-          "body": "Nippan子公司在2024至2025年间未告知出版社，向Anthropic出售日本图书。",
-          "mini_headline": "Nippan向Anthropic售书",
+          "headline": "AI也盯上新书了？\n教保文库收到10万册订单",
+          "body": "韩国最大书店教保文库收到一批疑似用于AI训练的大宗图书订单。",
+          "mini_headline": "疑为AI训练订购10万册新书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-                "cap": "U.S.法院文件中的照片：疑似存放大量收集书籍的仓库内部"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+                "cap": "7月，市民在首尔钟路区光化门教保文库读书。News1"
               },
               {
                 "t": "p",
-                "x": "大型图书经销商Nippan Group Holdings, Inc.旗下一家子公司在未通知出版社的情况下，向U.S.人工智能开发商Anthropic PBC出售了日本图书。据出版业人士透露，日本书籍出版协会就此事进行询问，并收到Nippan确认相关销售的答复。"
+                "x": "14日获悉，韩国最大书店教保文库收到了一批疑似用于人工智能(AI)训练的大宗图书订单。继此前发现疑似由AI企业在幕后主导的二手书大量收购尝试之后，又出现了新书订购的案例。"
               },
               {
                 "t": "p",
-                "x": "据信Anthropic一直在推进一项大规模扫描图书用于AI训练的项目，其中可能包括日本图书。法院文件显示，Anthropic曾从欧洲、美国和亚洲的经销商处大量购书，其中就有一家名为“Nippan Japan”的公司。"
+                "x": "教保文库从今年年初开始，陆续收到来自美国、英国等海外企业的咨询，希望大量购买韩文图书。咨询企业约有10家，其中美国企业最多。这些企业表示，不论书名和领域，希望按“每种1本”的方式购买约10万种图书。教保文库表示：“这种做法力求尽可能多地获取不同种类的图书，与一般交易有所不同。”"
+              },
+              {
+                "t": "p",
+                "x": "8月曾向Yes24二手书店和首尔册宝库咨询大量收购二手书的美国亚利桑那州B公司也表示：“我们每种书只买一本，因此不同图书的种数比总册数更重要。”据悉，B公司也曾向教保文库咨询购买事宜。"
+              },
+              {
+                "t": "p",
+                "x": "被问及最终交付对象时，这些企业回答“属于保密事项，无法公开”；部分企业虽称“并非用于AI训练”，但也表示“最终交付对象是数据相关企业”。教保文库表示“判断难以排除被用于AI训练的可能性”，中止了交易洽谈，并称出版社与流通业界之间需要共享信息、制定应对原则。"
               },
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+                "cap": "14日在日本东京举行的Anthropic东京办事处成立1周年媒体吹风会。路透社=韩联社"
               },
               {
                 "t": "p",
-                "x": "协会要求Nippan停止供应和销售用于AI训练的图书。据报道，Nippan承认了2024年十二月至2025年十二月期间的销售，但声称并不知道这些书是为AI训练而购买的。"
-              },
-              {
-                "t": "p",
-                "x": "日本《著作权法》30-4条规定，只要不会不当损害著作权人的利益，即可未经许可将作品用于AI训练。一位出版业高管表示：“本应守护日本出版文化的Nippan，却做出破坏这一文化的行为，这是不可接受的。”"
+                "x": "在海外，日本出版贩卖(日贩)自2024年12月起的1年间向美国AI企业Anthropic出售了日文新书。大韩出版文化协会召开理事会，决定对书店、二手书店和流通企业开展实态调查，并将发表联合声明，加入批评未经作者同意进行AI训练的“法兰克福呼吁书”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las editoriales piden a Nippan\nno vender libros a Anthropic",
-          "body": "Una filial de Nippan vendió libros japoneses a Anthropic entre dic. 2024 y dic. 2025 sin avisar a las editoriales.",
-          "mini_headline": "Las ventas de libros de Nippan a Anthropic",
+          "headline": "Pedido sospechoso de AI a Kyobo\npor 100,000 libros (10만권)",
+          "body": "Kyobo Book Centre, la mayor librería de Corea, recibió un pedido de libros que se sospecha destinado a entrenar AI.",
+          "mini_headline": "Pedido de 100,000 libros nuevos (10만권) bajo sospecha de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-                "cap": "De documentos judiciales de U.S.: interior de un almacén donde se cree que se guarda un gran volumen de libros recopilados"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+                "cap": "Ciudadanos leen libros en Kyobo Book Centre de Gwanghwamun, en Jongno-gu (Seúl), el pasado julio. News1"
               },
               {
                 "t": "p",
-                "x": "Una filial del gran distribuidor de libros Nippan Group Holdings, Inc. vendió libros japoneses a Anthropic PBC, desarrolladora de inteligencia artificial de U.S., sin notificarlo a las editoriales. La Asociación de Editores de Libros de Japón pidió explicaciones y recibió una respuesta de Nippan que confirmaba las ventas, según fuentes del sector editorial."
+                "x": "El día 14 se confirmó que Kyobo Book Centre, la mayor librería de Corea del Sur, recibió un pedido masivo de libros que se sospecha destinado al entrenamiento de inteligencia artificial (AI). Antes ya se habían detectado intentos de compra masiva de libros usados que se sospecha impulsaban empresas de AI desde la sombra; ahora ha aparecido también un caso con libros nuevos."
               },
               {
                 "t": "p",
-                "x": "Se cree que Anthropic llevaba a cabo un proyecto para escanear grandes cantidades de libros para el entrenamiento de AI, y es posible que incluyera libros japoneses. Según documentos judiciales, Anthropic compraba grandes cantidades de libros a distribuidores de Europa, Estados Unidos y Asia, entre ellos una empresa llamada “Nippan Japan”."
+                "x": "Desde principios de este año, Kyobo Book Centre recibió consultas de empresas con sede en el extranjero, como Estados Unidos y el Reino Unido, interesadas en comprar libros en coreano en grandes cantidades. Fueron unas 10 empresas, en su mayoría estadounidenses. Dijeron que comprarían unos 100,000 títulos (10만 종), ‘1 ejemplar por título’, sin importar el título ni la materia. Kyobo Book Centre afirmó: “Se diferenciaba de una transacción normal en que buscaba conseguir tantos títulos distintos como fuera posible”."
+              },
+              {
+                "t": "p",
+                "x": "La empresa B, con sede en Arizona (Estados Unidos), que el pasado agosto consultó a la librería de segunda mano de Yes24 y a Seoul Chaekbogo sobre la compra masiva de libros usados, también señaló: “Como compramos un ejemplar de cada libro, importa más el número de títulos distintos que el total de ejemplares”. Según se informó, B también consultó a Kyobo Book Centre sobre una compra."
+              },
+              {
+                "t": "p",
+                "x": "Al preguntarles por el destinatario final, las empresas respondieron que “es confidencial y no se puede revelar”, y algunas, aunque afirmaron que “no es para entrenar AI”, dijeron que “el destinatario final es una empresa relacionada con datos”. Kyobo Book Centre suspendió las conversaciones al “considerar difícil descartar que se usaran para entrenar AI” y señaló que editoriales y distribuidores necesitan compartir información y fijar principios de respuesta."
               },
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+                "cap": "Rueda de prensa por el 1.er aniversario de la oficina de Anthropic en Tokio, celebrada el día 14 en Tokio (Japón). Reuters=Yonhap"
               },
               {
                 "t": "p",
-                "x": "La asociación exigió a Nippan que dejara de suministrar y vender libros destinados al entrenamiento de AI. Según la información, Nippan reconoció ventas entre diciembre de 2024 y diciembre de 2025, pero afirmó que no sabía que los libros se compraban para entrenar AI."
-              },
-              {
-                "t": "p",
-                "x": "El artículo 30-4 de la Ley de Derechos de Autor de Japón permite usar obras para entrenar AI sin permiso, salvo que se perjudiquen de forma injustificada los intereses del titular de los derechos. Un alto ejecutivo del sector editorial afirmó: “Es inaceptable que Nippan, que está en posición de proteger la cultura editorial de Japón, actúe de un modo que socava esa misma cultura”."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "출판계 Nippan에 요구\nAnthropic 판매중단",
-          "body": "Nippan 자회사가 2024년12월~2025년12월 Anthropic에 판매했다.",
-          "mini_headline": "Nippan의 Anthropic 도서 판매",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-                "cap": "U.S. 법원 문서에 실린 창고 내부 모습. 수집한 책을 대량으로 보관한 곳으로 보인다"
-              },
-              {
-                "t": "p",
-                "x": "대형 도서 유통사 Nippan Group Holdings, Inc.의 자회사가 출판사에 알리지 않고 U.S. 인공지능 개발사 Anthropic PBC에 일본 책을 팔았다. 출판업계 관계자들에 따르면 일본서적출판협회(Japan Book Publishers Association)가 이 문제를 묻자 Nippan은 판매 사실을 인정하는 답변을 보냈다."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 AI 학습용으로 책을 대량 스캔하는 프로젝트를 진행해 온 것으로 보인다. 여기에 일본 책도 들어갔을 수 있다. 법원 문서를 보면 Anthropic은 유럽, 미국(United States), 아시아 유통사들에서 책을 대량으로 사들였는데 그중에 “Nippan Japan”이라는 회사도 있었다."
-              },
-              {
-                "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
-              },
-              {
-                "t": "p",
-                "x": "협회는 Nippan에 AI 학습용 도서 공급과 판매를 멈추라고 요구했다. Nippan은 2024년 12월부터 2025년 12월까지 판매한 사실은 인정했지만 책을 AI 학습용으로 사 가는 줄은 몰랐다고 주장한 것으로 전해졌다."
-              },
-              {
-                "t": "p",
-                "x": "일본 저작권법(Copyright Law)의 Article 30-4는 저작권자의 이익을 부당하게 해치지 않는 한 허락 없이 저작물을 AI 학습에 쓸 수 있게 한다. 한 출판사 고위 임원은 “일본의 출판 문화를 지켜야 할 위치에 있는 Nippan이 바로 그 문화를 훼손하는 행위를 하는 것은 용납할 수 없다”고 말했다."
+                "x": "En el extranjero, Nippon Shuppan Hanbai (Nippan) vendió libros nuevos en japonés a la empresa estadounidense de AI Anthropic durante 1 año a partir de diciembre de 2024. La Asociación de Editores de Corea celebró una reunión de su junta y decidió investigar la situación de librerías, librerías de segunda mano y distribuidores, así como emitir una declaración conjunta para sumarse al ‘Llamamiento de Fráncfort’, que critica el entrenamiento de AI sin el consentimiento de los autores."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "出版社がNippanに要求\nAnthropic販売の停止",
-          "body": "Nippan子会社が出版社に無断で2024〜2025年にAnthropicへ和書を売った。",
-          "mini_headline": "NippanのAnthropic向け書籍販売",
+        "en": {
+          "headline": "Kyobo gets suspected AI order\nfor 100,000 books (10만권)",
+          "body": "Kyobo Book Centre, Korea's largest bookstore, received a bulk book order suspected to be for AI training.",
+          "mini_headline": "Suspected AI order: 100,000 new books (10만권)",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-                "cap": "U.S.の裁判資料より：大量に集められた書籍が保管されているとみられる倉庫の内部"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+                "cap": "Citizens read books at Kyobo Book Centre in Gwanghwamun, Jongno-gu, Seoul, last July. News1"
               },
               {
                 "t": "p",
-                "x": "大手出版取次Nippan Group Holdings, Inc.の子会社が、出版社に知らせないまま、U.S.の人工知能開発企業Anthropic PBCに日本の書籍を販売していた。出版業界関係者によると、日本書籍出版協会がこの件を問い合わせ、Nippanから販売を認める回答を受けた。"
+                "x": "It was confirmed on the 14th that Kyobo Book Centre, Korea's largest bookstore, received a bulk book order suspected to be for artificial intelligence (AI) training. Earlier attempts to buy used books in bulk, suspected of being led by AI companies behind the scenes, had already come to light; now a case involving new books has been found as well."
               },
               {
                 "t": "p",
-                "x": "AnthropicはAI学習のために大量の書籍をスキャンするプロジェクトを進めていたとみられ、日本の書籍が含まれていた可能性がある。裁判資料によると、Anthropicは欧州、米国、アジアの取次業者から大量の書籍を購入しており、その中に「Nippan Japan」という会社があった。"
+                "x": "Since the start of this year, Kyobo Book Centre has received inquiries from companies based overseas, including in the United States and the United Kingdom, wanting to buy Korean-language books in bulk. About 10 companies made inquiries, most of them American. They said they would buy about 100,000 titles (10만 종), ‘1 copy per title’, regardless of title or subject. Kyobo Book Centre said, “It differed from an ordinary transaction in that it appeared aimed at securing as many different titles as possible.”"
+              },
+              {
+                "t": "p",
+                "x": "Company B, based in Arizona in the United States, which last August asked Yes24's used bookstore and Seoul Chaekbogo about buying used books in bulk, also said, “Since we buy one copy of each book, the number of different titles matters more than the total number of copies.” Company B reportedly also asked Kyobo Book Centre about a purchase."
+              },
+              {
+                "t": "p",
+                "x": "Asked about the final recipient, the companies replied, “It is confidential and cannot be disclosed,” and some said, “It is not for AI training,” while also saying, “The final recipient is a data-related company.” Kyobo Book Centre halted the deal talks, saying, “We judged it hard to rule out the possibility that the books would be used for AI training,” and said publishers and distributors need to share information and set response principles."
               },
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+                "cap": "A press briefing marking the 1st anniversary of Anthropic's Tokyo office, held in Tokyo, Japan, on the 14th. Reuters=Yonhap"
               },
               {
                 "t": "p",
-                "x": "協会はNippanに対し、AI学習向け書籍の供給と販売をやめるよう求めた。Nippanは2024年十二月から2025年十二月までの販売を認めたが、書籍がAI学習のために購入されていたとは知らなかったと主張したという。"
+                "x": "Overseas, Nippon Shuppan Hanbai (Nippan) sold new Japanese-language books to the American AI company Anthropic over a 1-year period starting in December 2024. The Korean Publishers Association held a board meeting and decided to survey bookstores, used bookstores and distributors, and to issue a joint statement joining the ‘Frankfurt Appeal’, which criticizes AI training without authors' consent."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI、新刊も狙うのか\n教保文庫に10万冊の注文",
+          "body": "韓国最大の書店、教保文庫にAI学習用とみられる大量の書籍注文が入った。",
+          "mini_headline": "AI学習疑いで新刊10万冊を注文",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+                "cap": "7月、ソウル鍾路区光化門の教保文庫で本を読む市民たち。News1"
               },
               {
                 "t": "p",
-                "x": "日本の著作権法30-4条は、著作権者の利益を不当に害しない限り、AI学習のための著作物の利用を許諾なしに認めている。ある出版大手の幹部は「日本の出版文化を守る立場にあるNippanが、その文化を損なう行為に及ぶことは容認できない」と語った。"
+                "x": "韓国最大の書店である教保文庫に、人工知能(AI)の学習用とみられる大量の書籍注文が入っていたことが14日、分かった。AI企業が裏で主導しているとみられる古書の大量買い取りの動きが先に確認されたのに続き、新刊の注文事例も見つかった形だ。"
+              },
+              {
+                "t": "p",
+                "x": "教保文庫は今年初めから、米国・英国など海外の業者から韓国語の書籍を大量に購入したいという問い合わせを受けていた。問い合わせてきた業者は約10社で、米国の業者が最も多かった。彼らは書名や分野を問わず、約10万種の書籍を「1種につき1冊ずつ」購入したいとした。教保文庫は「できるだけ多くの種類の書籍を確保しようとする形である点で、通常の取引とは異なっていた」と説明した。"
+              },
+              {
+                "t": "p",
+                "x": "8月にYes24の古書店とソウル冊宝庫に古書の大量買い取りを打診した米アリゾナ州のB社も、「書籍ごとに1冊ずつ買い取るので、総冊数より異なる書籍の種類数の方が重要だ」としていた。B社は教保文庫にも購入を打診したという。"
+              },
+              {
+                "t": "p",
+                "x": "業者らは最終的な納品先を尋ねられると「秘密保持事項のため明かせない」と答え、一部は「AI学習目的ではない」としながらも「最終納品先はデータ関連企業だ」と述べた。教保文庫は「AI学習に使われる可能性を排除しにくいと判断した」として取引の協議を打ち切り、出版社と流通業界の間で情報共有と対応原則づくりが必要だとした。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+                "cap": "14日、東京で開かれたAnthropic東京オフィス開設1周年の記者説明会。ロイター=聯合ニュース"
+              },
+              {
+                "t": "p",
+                "x": "海外では、日本出版販売(日販)が米AI企業Anthropicに2024年12月から1年間、日本語の新刊を販売した。大韓出版文化協会は理事会を開いて書店・古書店・流通業者の実態調査を行うことを決め、著者の同意なきAI学習を批判する「フランクフルト・アピール」に賛同する共同声明も発表することにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版商要求Nippan\n停止向Anthropic售书",
-          "body": "Nippan子公司在2024至2025年间未告知出版社，向Anthropic出售日本图书。",
-          "mini_headline": "Nippan向Anthropic售书",
+          "headline": "AI也盯上新书了？\n教保文库收到10万册订单",
+          "body": "韩国最大书店教保文库收到一批疑似用于AI训练的大宗图书订单。",
+          "mini_headline": "疑为AI训练订购10万册新书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-                "cap": "U.S.法院文件中的照片：疑似存放大量收集书籍的仓库内部"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+                "cap": "7月，市民在首尔钟路区光化门教保文库读书。News1"
               },
               {
                 "t": "p",
-                "x": "大型图书经销商Nippan Group Holdings, Inc.旗下一家子公司在未通知出版社的情况下，向U.S.人工智能开发商Anthropic PBC出售了日本图书。据出版业人士透露，日本书籍出版协会就此事进行询问，并收到Nippan确认相关销售的答复。"
+                "x": "14日获悉，韩国最大书店教保文库收到了一批疑似用于人工智能(AI)训练的大宗图书订单。继此前发现疑似由AI企业在幕后主导的二手书大量收购尝试之后，又出现了新书订购的案例。"
               },
               {
                 "t": "p",
-                "x": "据信Anthropic一直在推进一项大规模扫描图书用于AI训练的项目，其中可能包括日本图书。法院文件显示，Anthropic曾从欧洲、美国和亚洲的经销商处大量购书，其中就有一家名为“Nippan Japan”的公司。"
+                "x": "教保文库从今年年初开始，陆续收到来自美国、英国等海外企业的咨询，希望大量购买韩文图书。咨询企业约有10家，其中美国企业最多。这些企业表示，不论书名和领域，希望按“每种1本”的方式购买约10万种图书。教保文库表示：“这种做法力求尽可能多地获取不同种类的图书，与一般交易有所不同。”"
+              },
+              {
+                "t": "p",
+                "x": "8月曾向Yes24二手书店和首尔册宝库咨询大量收购二手书的美国亚利桑那州B公司也表示：“我们每种书只买一本，因此不同图书的种数比总册数更重要。”据悉，B公司也曾向教保文库咨询购买事宜。"
+              },
+              {
+                "t": "p",
+                "x": "被问及最终交付对象时，这些企业回答“属于保密事项，无法公开”；部分企业虽称“并非用于AI训练”，但也表示“最终交付对象是数据相关企业”。教保文库表示“判断难以排除被用于AI训练的可能性”，中止了交易洽谈，并称出版社与流通业界之间需要共享信息、制定应对原则。"
               },
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+                "cap": "14日在日本东京举行的Anthropic东京办事处成立1周年媒体吹风会。路透社=韩联社"
               },
               {
                 "t": "p",
-                "x": "协会要求Nippan停止供应和销售用于AI训练的图书。据报道，Nippan承认了2024年十二月至2025年十二月期间的销售，但声称并不知道这些书是为AI训练而购买的。"
-              },
-              {
-                "t": "p",
-                "x": "日本《著作权法》30-4条规定，只要不会不当损害著作权人的利益，即可未经许可将作品用于AI训练。一位出版业高管表示：“本应守护日本出版文化的Nippan，却做出破坏这一文化的行为，这是不可接受的。”"
+                "x": "在海外，日本出版贩卖(日贩)自2024年12月起的1年间向美国AI企业Anthropic出售了日文新书。大韩出版文化协会召开理事会，决定对书店、二手书店和流通企业开展实态调查，并将发表联合声明，加入批评未经作者同意进行AI训练的“法兰克福呼吁书”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las editoriales piden a Nippan\nno vender libros a Anthropic",
-          "body": "Una filial de Nippan vendió libros japoneses a Anthropic entre dic. 2024 y dic. 2025 sin avisar a las editoriales.",
-          "mini_headline": "Las ventas de libros de Nippan a Anthropic",
+          "headline": "Pedido sospechoso de AI a Kyobo\npor 100,000 libros (10만권)",
+          "body": "Kyobo Book Centre, la mayor librería de Corea, recibió un pedido de libros que se sospecha destinado a entrenar AI.",
+          "mini_headline": "Pedido de 100,000 libros nuevos (10만권) bajo sospecha de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-                "cap": "De documentos judiciales de U.S.: interior de un almacén donde se cree que se guarda un gran volumen de libros recopilados"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+                "cap": "Ciudadanos leen libros en Kyobo Book Centre de Gwanghwamun, en Jongno-gu (Seúl), el pasado julio. News1"
               },
               {
                 "t": "p",
-                "x": "Una filial del gran distribuidor de libros Nippan Group Holdings, Inc. vendió libros japoneses a Anthropic PBC, desarrolladora de inteligencia artificial de U.S., sin notificarlo a las editoriales. La Asociación de Editores de Libros de Japón pidió explicaciones y recibió una respuesta de Nippan que confirmaba las ventas, según fuentes del sector editorial."
+                "x": "El día 14 se confirmó que Kyobo Book Centre, la mayor librería de Corea del Sur, recibió un pedido masivo de libros que se sospecha destinado al entrenamiento de inteligencia artificial (AI). Antes ya se habían detectado intentos de compra masiva de libros usados que se sospecha impulsaban empresas de AI desde la sombra; ahora ha aparecido también un caso con libros nuevos."
               },
               {
                 "t": "p",
-                "x": "Se cree que Anthropic llevaba a cabo un proyecto para escanear grandes cantidades de libros para el entrenamiento de AI, y es posible que incluyera libros japoneses. Según documentos judiciales, Anthropic compraba grandes cantidades de libros a distribuidores de Europa, Estados Unidos y Asia, entre ellos una empresa llamada “Nippan Japan”."
+                "x": "Desde principios de este año, Kyobo Book Centre recibió consultas de empresas con sede en el extranjero, como Estados Unidos y el Reino Unido, interesadas en comprar libros en coreano en grandes cantidades. Fueron unas 10 empresas, en su mayoría estadounidenses. Dijeron que comprarían unos 100,000 títulos (10만 종), ‘1 ejemplar por título’, sin importar el título ni la materia. Kyobo Book Centre afirmó: “Se diferenciaba de una transacción normal en que buscaba conseguir tantos títulos distintos como fuera posible”."
+              },
+              {
+                "t": "p",
+                "x": "La empresa B, con sede en Arizona (Estados Unidos), que el pasado agosto consultó a la librería de segunda mano de Yes24 y a Seoul Chaekbogo sobre la compra masiva de libros usados, también señaló: “Como compramos un ejemplar de cada libro, importa más el número de títulos distintos que el total de ejemplares”. Según se informó, B también consultó a Kyobo Book Centre sobre una compra."
+              },
+              {
+                "t": "p",
+                "x": "Al preguntarles por el destinatario final, las empresas respondieron que “es confidencial y no se puede revelar”, y algunas, aunque afirmaron que “no es para entrenar AI”, dijeron que “el destinatario final es una empresa relacionada con datos”. Kyobo Book Centre suspendió las conversaciones al “considerar difícil descartar que se usaran para entrenar AI” y señaló que editoriales y distribuidores necesitan compartir información y fijar principios de respuesta."
               },
               {
                 "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+                "cap": "Rueda de prensa por el 1.er aniversario de la oficina de Anthropic en Tokio, celebrada el día 14 en Tokio (Japón). Reuters=Yonhap"
               },
               {
                 "t": "p",
-                "x": "La asociación exigió a Nippan que dejara de suministrar y vender libros destinados al entrenamiento de AI. Según la información, Nippan reconoció ventas entre diciembre de 2024 y diciembre de 2025, pero afirmó que no sabía que los libros se compraban para entrenar AI."
-              },
-              {
-                "t": "p",
-                "x": "El artículo 30-4 de la Ley de Derechos de Autor de Japón permite usar obras para entrenar AI sin permiso, salvo que se perjudiquen de forma injustificada los intereses del titular de los derechos. Un alto ejecutivo del sector editorial afirmó: “Es inaceptable que Nippan, que está en posición de proteger la cultura editorial de Japón, actúe de un modo que socava esa misma cultura”."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "출판계 Nippan에 요구\nAnthropic 판매중단",
-          "body": "Nippan 자회사가 2024년12월~2025년12월 Anthropic에 판매했다.",
-          "mini_headline": "Nippan의 Anthropic 도서 판매",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-                "cap": "U.S. 법원 문서 중에서: 수집된 대량의 책이 보관된 것으로 보이는 창고 내부 모습"
-              },
-              {
-                "t": "p",
-                "x": "대형 도서 유통사 Nippan Group Holdings, Inc.의 자회사가 출판사에 알리지 않고 U.S. 인공지능 개발사 Anthropic PBC에 일본 책을 판매했다. 출판업계 관계자들에 따르면 일본서적출판협회(Japan Book Publishers Association)가 이 문제를 문의했고, Nippan으로부터 판매 사실을 인정하는 답변을 받았다."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 AI 학습을 위해 대량의 책을 스캔하는 프로젝트를 진행해 온 것으로 보이며, 여기에 일본 책이 포함됐을 가능성이 있다. 법원 문서에 따르면 Anthropic은 유럽, 미국(United States), 아시아의 유통사들로부터 대량의 책을 사들였고, 그중에는 “Nippan Japan”이라는 회사도 있었다."
-              },
-              {
-                "t": "img",
-                "src": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan_chart-web.jpg"
-              },
-              {
-                "t": "p",
-                "x": "협회는 Nippan에 AI 학습용 도서의 공급과 판매를 중단하라고 요구했다. Nippan은 2024년 12월부터 2025년 12월까지의 판매를 인정했지만, 책이 AI 학습용으로 구매되는지는 몰랐다고 주장한 것으로 전해졌다."
-              },
-              {
-                "t": "p",
-                "x": "일본 저작권법(Copyright Law)의 Article 30-4는 저작권자의 이익을 부당하게 해치지 않는 한 허락 없이 저작물을 AI 학습에 쓰는 것을 허용한다. 한 출판사 고위 임원은 “일본의 출판 문화를 지켜야 할 위치에 있는 Nippan이 바로 그 문화를 훼손하는 행위를 하는 것은 용납할 수 없다”고 말했다."
+                "x": "En el extranjero, Nippon Shuppan Hanbai (Nippan) vendió libros nuevos en japonés a la empresa estadounidense de AI Anthropic durante 1 año a partir de diciembre de 2024. La Asociación de Editores de Corea celebró una reunión de su junta y decidió investigar la situación de librerías, librerías de segunda mano y distribuidores, así como emitir una declaración conjunta para sumarse al ‘Llamamiento de Fráncfort’, que critica el entrenamiento de AI sin el consentimiento de los autores."
               }
             ]
           }
@@ -365,15 +415,15 @@
       }
     },
     {
-      "id": "books-elpais-spain-ai-bestsellers",
+      "id": "books-soa-ai-charter",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "스페인 자가출판 히트작\n30%, 대부분 AI 작성",
-      "body": "2019~20년 56권엔 AI가 없었고 자가출판 44권 중 13권은 50% 넘었다.",
-      "mini_headline": "스페인 베스트셀러 속 AI",
+      "headline": "작가들, 창작자 위한\n윤리 AI 헌장 발표",
+      "body": "Society of Authors가 창작자를 지키는 윤리 AI 헌장을 내놨다.",
+      "mini_headline": "작가들이 낸 윤리 AI 헌장",
       "tool": "Books",
-      "source": "EL PAÍS English",
-      "url": "https://english.elpais.com/technology/2026-10-13/how-much-ai-is-in-spains-bestselling-books.html",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -381,179 +431,131 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-            "cap": "바르셀로나의 한 서점에서 직원이 고전 코너를 살핀다."
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+            "cap": "Anna Ganley"
           },
           {
             "t": "p",
-            "x": "EL PAÍS는 Amazon.es와 Casa del Libro 베스트셀러 목록, 주요 문학상에서 2025년과 2026년에 나온 인기 도서 119권을 골라 탐지 도구 Pangram으로 분석했다. 같은 방식으로 2019년과 2020년에 나온 책 56권을 살펴보니 AI 생성 흔적은 하나도 없었다. 모두 0%였다."
+            "x": "Society of Authors는 10월 13일 런던에서 열린 Creators Emergency Summit에서 글로벌 윤리 AI 헌장을 발표했다. 헌장이 내건 목표는 “인간 창작자를 보호하고 지원하도록 생성형 AI 서비스를 어떻게 배치해야 하는지 규정하는 것”이다."
           },
           {
             "t": "p",
-            "x": "최근 도서 119권 중 35권(29%)에서 AI-generated 텍스트 흔적이 일부 보였고 13권은 50%를 넘었다. AI를 쓴 책은 자가출판 쪽에 몰렸다. 자가출판 도서 44권 중 13권으로 30%였고, 상당수가 로맨스 소설이었다. Javier Cercas, Isabel Allende, Dolores Redondo 같은 기성 작가의 책은 0%였다."
-          },
-          {
-            "t": "p",
-            "x": "가장 눈에 띄는 사례는 스페인 정치인 Alvise Pérez의 Devuélveme mi país다. 2026년 이월 Amazon에서 No. 1에 오른 이 책을 두고 Pangram은 내용의 97%를 AI가 썼다고 판정했다. Pérez는 “한 단어 한 단어” 직접 썼다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "전통 방식으로 나온 책 가운데서도 아홉 권에서 AI 흔적이 일부 발견됐다. 그중 논픽션 네 권은 12%에서 34% 사이였다. Pangram이 완벽하지는 않다. 작업 과정에서 사람이 어떤 역할을 했는지도 가려내지 못한다."
+            "x": "The Bookseller는 세계 창작 단체들이 “정부 정책의 공백 속에서” 이 헌장을 내놓는다고 전했다. 기사 전문은 등록 독자만 볼 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "30% of Spain's self-published\nhits are mostly written by AI",
-          "body": "EL PAÍS found no AI in 56 books from 2019–20, but 13 of 44 recent self-published bestsellers scored above 50%.",
-          "mini_headline": "AI in Spain's bestsellers",
+          "headline": "Authors launch an ethical\nAI charter for creators",
+          "body": "The Society of Authors launched a global, ethical AI charter on how generative AI should protect and support creators.",
+          "mini_headline": "Authors' ethical AI charter",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-                "cap": "A bookstore clerk in Barcelona checks the classics section."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "EL PAÍS examined 119 popular books published in 2025 and 2026, from the Amazon.es and Casa del Libro bestseller lists and major literary prizes, using the Pangram detection tool. The same exercise on 56 books from 2019 and 2020 found no signs of AI generation: all scored 0%."
+                "x": "The Society of Authors launched a global, ethical AI charter at the Creators Emergency Summit in London on 13th October, aimed at “defining how generative AI services should be deployed to help protect and support human creators”."
               },
               {
                 "t": "p",
-                "x": "Of the 119 recent titles, 35 showed some evidence of AI-generated text (29%) and 13 scored above 50%. AI use was concentrated in self-published works: 13 of 44, or 30%, many of them romance novels. Established authors such as Javier Cercas, Isabel Allende and Dolores Redondo scored 0%."
-              },
-              {
-                "t": "p",
-                "x": "The most prominent case is Devuélveme mi país by Spanish politician Alvise Pérez, which reached No. 1 on Amazon in February 2026; Pangram attributes 97% of it to AI. Pérez said he wrote the book “word for word.”"
-              },
-              {
-                "t": "p",
-                "x": "Nine traditionally published books showed some traces of AI, including four nonfiction works scoring 12% to 34%. Pangram is not infallible, and it cannot reveal what role a person played in the process."
+                "x": "The Bookseller reports that global creative bodies are launching the charter “in the vacuum of government policy”. The full article is available to registered readers only."
               }
             ]
           }
         },
         "ko": {
-          "headline": "스페인 자가출판 히트작\n30%, 대부분 AI 작성",
-          "body": "2019~20년 56권엔 AI가 없었고 자가출판 44권 중 13권은 50% 넘었다.",
-          "mini_headline": "스페인 베스트셀러 속 AI",
+          "headline": "작가들, 창작자 위한\n윤리 AI 헌장 발표",
+          "body": "Society of Authors가 창작자를 지키는 윤리 AI 헌장을 내놨다.",
+          "mini_headline": "작가들이 낸 윤리 AI 헌장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-                "cap": "바르셀로나의 한 서점에서 직원이 고전 코너를 살핀다."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "EL PAÍS는 Amazon.es와 Casa del Libro 베스트셀러 목록, 주요 문학상에서 2025년과 2026년에 나온 인기 도서 119권을 골라 탐지 도구 Pangram으로 분석했다. 같은 방식으로 2019년과 2020년에 나온 책 56권을 살펴보니 AI 생성 흔적은 하나도 없었다. 모두 0%였다."
+                "x": "Society of Authors는 10월 13일 런던에서 열린 Creators Emergency Summit에서 글로벌 윤리 AI 헌장을 발표했다. 헌장이 내건 목표는 “인간 창작자를 보호하고 지원하도록 생성형 AI 서비스를 어떻게 배치해야 하는지 규정하는 것”이다."
               },
               {
                 "t": "p",
-                "x": "최근 도서 119권 중 35권(29%)에서 AI-generated 텍스트 흔적이 일부 보였고 13권은 50%를 넘었다. AI를 쓴 책은 자가출판 쪽에 몰렸다. 자가출판 도서 44권 중 13권으로 30%였고, 상당수가 로맨스 소설이었다. Javier Cercas, Isabel Allende, Dolores Redondo 같은 기성 작가의 책은 0%였다."
-              },
-              {
-                "t": "p",
-                "x": "가장 눈에 띄는 사례는 스페인 정치인 Alvise Pérez의 Devuélveme mi país다. 2026년 이월 Amazon에서 No. 1에 오른 이 책을 두고 Pangram은 내용의 97%를 AI가 썼다고 판정했다. Pérez는 “한 단어 한 단어” 직접 썼다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "전통 방식으로 나온 책 가운데서도 아홉 권에서 AI 흔적이 일부 발견됐다. 그중 논픽션 네 권은 12%에서 34% 사이였다. Pangram이 완벽하지는 않다. 작업 과정에서 사람이 어떤 역할을 했는지도 가려내지 못한다."
+                "x": "The Bookseller는 세계 창작 단체들이 “정부 정책의 공백 속에서” 이 헌장을 내놓는다고 전했다. 기사 전문은 등록 독자만 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スペインの自費出版ヒット\n30%は大半をAIが執筆",
-          "body": "EL PAÍS調査で2019〜20年56冊はAIゼロ、自費出版44冊中13冊は50%超だ。",
-          "mini_headline": "スペインのベストセラーとAI",
+          "headline": "作家団体が創作者向け\n倫理的AI憲章を発表",
+          "body": "Society of Authorsが、創作者を守る世界的な倫理的AI憲章を発表した。",
+          "mini_headline": "作家たちの倫理的AI憲章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-                "cap": "古典の棚を確認するバルセロナの書店員。"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "EL PAÍSは、Amazon.esとCasa del Libroのベストセラーリストや主要文学賞から、2025年と2026年に刊行された人気書籍119冊を選び、検出ツールPangramで調べた。2019年と2020年の書籍56冊に同じ手法を当てたところ、AI生成の兆候は見られず、すべて0%だった。"
+                "x": "Society of Authorsは10月13日、ロンドンで開かれたCreators Emergency Summitで、世界的かつ倫理的なAI憲章を発表した。「人間の創作者を守り支えるために、生成AIサービスをどのように展開すべきかを定める」ことを目的としている。"
               },
               {
                 "t": "p",
-                "x": "最近の119冊のうち35冊（29%）にAI-generatedテキストの痕跡があり、13冊は50%を超えた。AIの使用は自費出版作品に集中しており、44冊中13冊、つまり30%で、その多くは恋愛小説だった。Javier Cercas、Isabel Allende、Dolores Redondoといった定評ある作家は0%だった。"
-              },
-              {
-                "t": "p",
-                "x": "最も目立つ例は、スペインの政治家Alvise PérezのDevuélveme mi paísだ。2026年二月にAmazonでNo. 1となったこの本について、Pangramは97%をAIによるものと判定した。Pérezは「一語一語」自分で書いたと述べている。"
-              },
-              {
-                "t": "p",
-                "x": "従来型の出版社から出た九冊にもAIの痕跡が見られ、そのうちノンフィクション四冊は12%から34%だった。Pangramは万能ではなく、その過程で人がどんな役割を果たしたかまでは明らかにできない。"
+                "x": "The Booksellerによると、各国の創作団体が「政府の政策が空白のなかで」この憲章を立ち上げている。記事全文は登録読者のみ閲覧できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "西班牙自出版畅销书\n30%主要由AI写成",
-          "body": "EL PAÍS发现2019–20年56本书无AI，自出版44本畅销书中13本超50%。",
-          "mini_headline": "西班牙畅销书中的AI",
+          "headline": "作家协会发布\n面向创作者的AI伦理宪章",
+          "body": "Society of Authors发布全球性AI伦理宪章，规范生成式AI如何保护创作者。",
+          "mini_headline": "作家的AI伦理宪章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-                "cap": "巴塞罗那一家书店的店员在查看经典作品区。"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "EL PAÍS从Amazon.es和Casa del Libro畅销榜以及主要文学奖中选取了2025年和2026年出版的119本热门图书，用检测工具Pangram进行分析。对2019年和2020年的56本书做同样检测，未发现任何AI生成迹象，全部得分为0%。"
+                "x": "Society of Authors于10月13日在伦敦举行的Creators Emergency Summit上发布了一份全球性的AI伦理宪章，旨在“界定生成式AI服务应如何部署，以帮助保护和支持人类创作者”。"
               },
               {
                 "t": "p",
-                "x": "在119本近期图书中，35本显示出一定的AI-generated文本迹象（29%），13本得分超过50%。AI使用集中在自出版作品中：44本中有13本，即30%，其中许多是爱情小说。Javier Cercas、Isabel Allende和Dolores Redondo等知名作家的得分均为0%。"
-              },
-              {
-                "t": "p",
-                "x": "最突出的案例是西班牙政治人物Alvise Pérez的Devuélveme mi país，该书于2026年二月登上Amazon榜单No. 1；Pangram判定其中97%出自AI。Pérez称这本书是他“逐字逐句”写成的。"
-              },
-              {
-                "t": "p",
-                "x": "九本传统出版的图书也显示出一定的AI痕迹，其中四本非虚构作品得分在12%到34%之间。Pangram并非万无一失，也无法揭示人在创作过程中扮演了什么角色。"
+                "x": "据The Bookseller报道，全球创意机构正“在政府政策真空中”推出这份宪章。全文仅供注册读者阅读。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Éxitos autoeditados en España:\n30%, mayormente escritos por AI",
-          "body": "EL PAÍS no halló AI en 56 libros de 2019–20, pero 13 de 44 superventas autoeditados recientes superaron el 50%.",
-          "mini_headline": "La AI en los superventas de España",
+          "headline": "Autores lanzan una carta ética\nde AI para los creadores",
+          "body": "La Society of Authors lanzó una carta ética global sobre cómo la AI generativa debe proteger y apoyar a los creadores.",
+          "mini_headline": "Carta ética de AI de los autores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-                "cap": "Un librero de Barcelona revisa la sección de clásicos."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "EL PAÍS analizó con la herramienta de detección Pangram 119 libros populares publicados en 2025 y 2026, procedentes de las listas de más vendidos de Amazon.es y Casa del Libro y de los principales premios literarios. El mismo ejercicio con 56 libros de 2019 y 2020 no encontró indicios de generación por AI: todos obtuvieron un 0%."
+                "x": "La Society of Authors lanzó una carta ética y global sobre AI en la Creators Emergency Summit, celebrada en Londres el 13 de octubre, con el objetivo de “definir cómo deben implantarse los servicios de AI generativa para ayudar a proteger y apoyar a los creadores humanos”."
               },
               {
                 "t": "p",
-                "x": "De los 119 títulos recientes, 35 mostraron algún indicio de texto AI-generated (29%) y 13 superaron el 50%. El uso de AI se concentró en obras autoeditadas: 13 de 44, es decir, el 30%, muchas de ellas novelas románticas. Autores consolidados como Javier Cercas, Isabel Allende y Dolores Redondo obtuvieron un 0%."
-              },
-              {
-                "t": "p",
-                "x": "El caso más destacado es Devuélveme mi país, del político español Alvise Pérez, que llegó al No. 1 de Amazon en febrero de 2026; Pangram atribuye el 97% del libro a la AI. Pérez aseguró que escribió el libro “palabra por palabra”."
-              },
-              {
-                "t": "p",
-                "x": "Nueve libros de edición tradicional mostraron algunos rastros de AI, entre ellos cuatro obras de no ficción con puntuaciones de entre el 12% y el 34%. Pangram no es infalible y no puede revelar qué papel desempeñó una persona en el proceso."
+                "x": "The Bookseller informa de que organismos creativos de todo el mundo lanzan la carta “en el vacío de la política gubernamental”. El artículo completo solo está disponible para lectores registrados."
               }
             ]
           }
@@ -561,125 +563,93 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "스페인 자가출판 히트작\n30%, 대부분 AI 작성",
-          "body": "2019~20년 56권엔 AI가 없었고 자가출판 44권 중 13권은 50% 넘었다.",
-          "mini_headline": "스페인 베스트셀러 속 AI",
+          "headline": "작가들, 창작자 위한\n윤리적 AI 헌장 발표",
+          "body": "Society of Authors가 창작자 보호를 위한 윤리 AI 헌장을 냈다.",
+          "mini_headline": "작가들의 윤리적 AI 헌장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-                "cap": "바르셀로나의 한 서점 직원이 고전 코너를 살펴보고 있다."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "EL PAÍS는 Amazon.es와 Casa del Libro 베스트셀러 목록, 주요 문학상에서 2025년과 2026년에 출간된 인기 도서 119권을 골라 탐지 도구 Pangram으로 분석했다. 2019년과 2020년에 나온 책 56권에 같은 방식을 적용하자 AI 생성 흔적은 전혀 나오지 않았고, 모두 0%였다."
+                "x": "Society of Authors는 10월 13일 런던에서 열린 Creators Emergency Summit에서 글로벌 윤리 AI 헌장을 발표했다. 헌장은 “인간 창작자를 보호하고 지원하도록 생성형 AI 서비스를 어떻게 배치해야 하는지 규정하는 것”을 목표로 한다."
               },
               {
                 "t": "p",
-                "x": "최근 도서 119권 중 35권(29%)에서 AI-generated 텍스트의 흔적이 일부 나타났고, 13권은 50%를 넘었다. AI 사용은 자가출판 도서에 몰려 있었다. 44권 중 13권, 즉 30%였고 상당수가 로맨스 소설이었다. Javier Cercas, Isabel Allende, Dolores Redondo 같은 기성 작가들은 0%였다."
-              },
-              {
-                "t": "p",
-                "x": "가장 눈에 띄는 사례는 스페인 정치인 Alvise Pérez의 Devuélveme mi país다. 이 책은 2026년 이월 Amazon에서 No. 1에 올랐는데, Pangram은 내용의 97%를 AI가 쓴 것으로 판정했다. Pérez는 책을 “한 단어 한 단어” 직접 썼다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "전통 방식으로 출간된 책 중에서도 아홉 권에서 AI 흔적이 일부 발견됐고, 그중 논픽션 네 권은 12%에서 34% 사이였다. Pangram이 완벽한 것은 아니며, 그 과정에서 사람이 어떤 역할을 했는지도 밝혀내지 못한다."
+                "x": "The Bookseller에 따르면 세계 창작 단체들이 “정부 정책의 공백 속에서” 이 헌장을 내놓고 있다. 기사 전문은 등록 독자만 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スペインの自費出版ヒット\n30%は大半をAIが執筆",
-          "body": "EL PAÍS調査で2019〜20年56冊はAIゼロ、自費出版44冊中13冊は50%超だ。",
-          "mini_headline": "スペインのベストセラーとAI",
+          "headline": "作家団体が創作者向け\n倫理的AI憲章を発表",
+          "body": "Society of Authorsが、創作者を守る世界的な倫理的AI憲章を発表した。",
+          "mini_headline": "作家たちの倫理的AI憲章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-                "cap": "古典の棚を確認するバルセロナの書店員。"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "EL PAÍSは、Amazon.esとCasa del Libroのベストセラーリストや主要文学賞から、2025年と2026年に刊行された人気書籍119冊を選び、検出ツールPangramで調べた。2019年と2020年の書籍56冊に同じ手法を当てたところ、AI生成の兆候は見られず、すべて0%だった。"
+                "x": "Society of Authorsは10月13日、ロンドンで開かれたCreators Emergency Summitで、世界的かつ倫理的なAI憲章を発表した。「人間の創作者を守り支えるために、生成AIサービスをどのように展開すべきかを定める」ことを目的としている。"
               },
               {
                 "t": "p",
-                "x": "最近の119冊のうち35冊（29%）にAI-generatedテキストの痕跡があり、13冊は50%を超えた。AIの使用は自費出版作品に集中しており、44冊中13冊、つまり30%で、その多くは恋愛小説だった。Javier Cercas、Isabel Allende、Dolores Redondoといった定評ある作家は0%だった。"
-              },
-              {
-                "t": "p",
-                "x": "最も目立つ例は、スペインの政治家Alvise PérezのDevuélveme mi paísだ。2026年二月にAmazonでNo. 1となったこの本について、Pangramは97%をAIによるものと判定した。Pérezは「一語一語」自分で書いたと述べている。"
-              },
-              {
-                "t": "p",
-                "x": "従来型の出版社から出た九冊にもAIの痕跡が見られ、そのうちノンフィクション四冊は12%から34%だった。Pangramは万能ではなく、その過程で人がどんな役割を果たしたかまでは明らかにできない。"
+                "x": "The Booksellerによると、各国の創作団体が「政府の政策が空白のなかで」この憲章を立ち上げている。記事全文は登録読者のみ閲覧できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "西班牙自出版畅销书\n30%主要由AI写成",
-          "body": "EL PAÍS发现2019–20年56本书无AI，自出版44本畅销书中13本超50%。",
-          "mini_headline": "西班牙畅销书中的AI",
+          "headline": "作家协会发布\n面向创作者的AI伦理宪章",
+          "body": "Society of Authors发布全球性AI伦理宪章，规范生成式AI如何保护创作者。",
+          "mini_headline": "作家的AI伦理宪章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-                "cap": "巴塞罗那一家书店的店员在查看经典作品区。"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "EL PAÍS从Amazon.es和Casa del Libro畅销榜以及主要文学奖中选取了2025年和2026年出版的119本热门图书，用检测工具Pangram进行分析。对2019年和2020年的56本书做同样检测，未发现任何AI生成迹象，全部得分为0%。"
+                "x": "Society of Authors于10月13日在伦敦举行的Creators Emergency Summit上发布了一份全球性的AI伦理宪章，旨在“界定生成式AI服务应如何部署，以帮助保护和支持人类创作者”。"
               },
               {
                 "t": "p",
-                "x": "在119本近期图书中，35本显示出一定的AI-generated文本迹象（29%），13本得分超过50%。AI使用集中在自出版作品中：44本中有13本，即30%，其中许多是爱情小说。Javier Cercas、Isabel Allende和Dolores Redondo等知名作家的得分均为0%。"
-              },
-              {
-                "t": "p",
-                "x": "最突出的案例是西班牙政治人物Alvise Pérez的Devuélveme mi país，该书于2026年二月登上Amazon榜单No. 1；Pangram判定其中97%出自AI。Pérez称这本书是他“逐字逐句”写成的。"
-              },
-              {
-                "t": "p",
-                "x": "九本传统出版的图书也显示出一定的AI痕迹，其中四本非虚构作品得分在12%到34%之间。Pangram并非万无一失，也无法揭示人在创作过程中扮演了什么角色。"
+                "x": "据The Bookseller报道，全球创意机构正“在政府政策真空中”推出这份宪章。全文仅供注册读者阅读。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Éxitos autoeditados en España:\n30%, mayormente escritos por AI",
-          "body": "EL PAÍS no halló AI en 56 libros de 2019–20, pero 13 de 44 superventas autoeditados recientes superaron el 50%.",
-          "mini_headline": "La AI en los superventas de España",
+          "headline": "Autores lanzan una carta ética\nde AI para los creadores",
+          "body": "La Society of Authors lanzó una carta ética global sobre cómo la AI generativa debe proteger y apoyar a los creadores.",
+          "mini_headline": "Carta ética de AI de los autores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-                "cap": "Un librero de Barcelona revisa la sección de clásicos."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "EL PAÍS analizó con la herramienta de detección Pangram 119 libros populares publicados en 2025 y 2026, procedentes de las listas de más vendidos de Amazon.es y Casa del Libro y de los principales premios literarios. El mismo ejercicio con 56 libros de 2019 y 2020 no encontró indicios de generación por AI: todos obtuvieron un 0%."
+                "x": "La Society of Authors lanzó una carta ética y global sobre AI en la Creators Emergency Summit, celebrada en Londres el 13 de octubre, con el objetivo de “definir cómo deben implantarse los servicios de AI generativa para ayudar a proteger y apoyar a los creadores humanos”."
               },
               {
                 "t": "p",
-                "x": "De los 119 títulos recientes, 35 mostraron algún indicio de texto AI-generated (29%) y 13 superaron el 50%. El uso de AI se concentró en obras autoeditadas: 13 de 44, es decir, el 30%, muchas de ellas novelas románticas. Autores consolidados como Javier Cercas, Isabel Allende y Dolores Redondo obtuvieron un 0%."
-              },
-              {
-                "t": "p",
-                "x": "El caso más destacado es Devuélveme mi país, del político español Alvise Pérez, que llegó al No. 1 de Amazon en febrero de 2026; Pangram atribuye el 97% del libro a la AI. Pérez aseguró que escribió el libro “palabra por palabra”."
-              },
-              {
-                "t": "p",
-                "x": "Nueve libros de edición tradicional mostraron algunos rastros de AI, entre ellos cuatro obras de no ficción con puntuaciones de entre el 12% y el 34%. Pangram no es infalible y no puede revelar qué papel desempeñó una persona en el proceso."
+                "x": "The Bookseller informa de que organismos creativos de todo el mundo lanzan la carta “en el vacío de la política gubernamental”. El artículo completo solo está disponible para lectores registrados."
               }
             ]
           }
@@ -687,15 +657,15 @@
       }
     },
     {
-      "id": "books-frankfurt-appeal-ai-transparency",
+      "id": "books-japan-translation",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "출판 단체 150곳 이상\nAI 투명성 호소에 동참",
-      "body": "Frankfurt Appeal은 EU와 독일에 AI 학습 작품 공개를 요구한다.",
-      "mini_headline": "Frankfurt AI 투명성 호소",
+      "headline": "AI 번역에 밀리는\n일본 번역업체들",
+      "body": "생성형 AI 번역이 퍼지면서 일본 번역업체들의 매출이 줄고 있다.",
+      "mini_headline": "AI가 줄인 일본 번역 매출",
       "tool": "Books",
-      "source": "Chytomo",
-      "url": "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/",
+      "source": "nippon.com",
+      "url": "https://www.nippon.com/en/japan-data/h02913/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -703,173 +673,269 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+            "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
           },
           {
             "t": "p",
-            "x": "150곳이 넘는 출판사와 출판 단체가 EU와 독일 정부에 AI 개발사가 모델 학습에 쓴 작품을 공개하도록 의무화하라고 촉구한다. 요구 내용은 독일출판서점협회가 발표한 Frankfurt Appeal에 담겼다."
+            "x": "생성형 AI 번역이 널리 쓰이면서 일본 번역업체들의 매출이 줄어든다."
           },
           {
             "t": "p",
-            "x": "호소문은 세 가지를 요구한다. 작품 단위로 학습 데이터를 공개하는 투명성 의무, 공정한 수익 모델을 갖춘 라이선스 시장, 강력한 집행 수단이 뒷받침하는 유럽 저작권법 준수다. “침해해도 아무 결과가 따르지 않는 권리는 무가치하다.”"
+            "x": "Tokyo Shōkō Research는 다섯 회계연도 연속 실적을 비교할 수 있는 일본 번역업체 100곳을 조사했다. 2025 회계연도 이들 업체의 매출 합계는 ¥39.3B, 순이익 합계는 ¥920M 이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
           },
           {
             "t": "p",
-            "x": "협회장 Sebastian Guggolz는 “정치권이 지금 행동하지 않으면 AI는 계속해서 수백만 편의 저작물을 빼앗고, 결국에는 우리의 사고 능력까지 빼앗을 것”이라고 말했다."
+            "x": "매출이 ¥43.5B, 이익이 ¥3.1B 로 정점을 찍은 2022 회계연도와 비교하면 2025 회계연도 매출은 9.7%, 이익은 70.7% 줄었다. 조사 대상 100곳 가운데 매출이 늘어난 곳은 32곳, 이익이 늘어난 곳은 35곳이다. 반대로 50곳은 매출이, 47곳은 이익이 줄었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
           },
           {
             "t": "p",
-            "x": "2026년 시월 9일 현재 Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, International Publishers Association, Federation of European Publishers를 비롯해 브라질, 이집트, UK, 오스트리아, 네덜란드, 아르헨티나, 태국, 호주의 출판사까지 150곳 넘는 단체가 서명했다."
+            "x": "Tokyo Shōkō Research의 분석은 이렇다. “기계 번역이 빠르게 발전해 간단한 글은 이제 무료로 번역할 수 있다. 번역을 얻기 쉬워지면서 가격 경쟁이 심해지고 있다.”"
+          },
+          {
+            "t": "p",
+            "x": "AI-assisted 번역의 세계 시장은 빠르게 커질 전망이다. QY Research는 2025년 $2.6B 에서 2032년 $4.2B 로 커진다고 내다봤고, Business Research Insights는 2025년 $4.4B 에서 2035년 $5.7B 로 늘어난다고 예상했다."
+          },
+          {
+            "t": "p",
+            "x": "번역 업계가 살아남으려면 번역가가 AI로 general-purpose(범용) 번역의 효율을 높이면서, AI가 정확하지 못한 전문 분야나 사람의 창의성이 필요한 영역에서 틈새를 찾아야 할지도 모른다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Over 150 publishing groups\nback an AI transparency appeal",
-          "body": "The Frankfurt Appeal asks the EU and Germany to make AI developers disclose the works used to train their models.",
-          "mini_headline": "Frankfurt AI transparency appeal",
+          "headline": "AI translation squeezes\nJapan's translation firms",
+          "body": "The uptake of generative AI translation has led to falling sales at Japan's translation companies.",
+          "mini_headline": "AI cuts Japan's translation sales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
               },
               {
                 "t": "p",
-                "x": "More than 150 publishers and publishing organizations are urging the EU and the German government to require AI developers to disclose the works used to train their models. The demand is outlined in the Frankfurt Appeal, published by the German Publishers and Booksellers Association."
+                "x": "The uptake of translation powered by generative AI has led to falling sales at translation companies in Japan."
               },
               {
                 "t": "p",
-                "x": "The appeal calls for three actions: transparency obligations including disclosure of training data at work level; a licensing market with fair revenue models; and compliance with European copyright law, equipped with robust means of enforcement. “Rights whose infringement carries no consequences are worthless.”"
+                "x": "Tokyo Shōkō Research examined the performance of 100 Japanese translation companies whose results could be compared over five consecutive fiscal years. In fiscal 2025, the companies’ combined sales amounted to ¥39.3 billion, while their net profits totaled ¥920 million."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
               },
               {
                 "t": "p",
-                "x": "“If politicians do not act now, AI will continue to deprive us of millions of copyrighted works and, eventually, of our ability to think,” said association head Sebastian Guggolz."
+                "x": "Compared with fiscal 2022, when sales peaked at ¥43.5 billion and profits at ¥3.1 billion, sales in fiscal 2025 were down by 9.7% and profits by 70.7%. Of the 100 companies surveyed, 32 reported higher sales and 35 higher profits, while 50 had lower sales and 47 lower profits."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
               },
               {
                 "t": "p",
-                "x": "As of Oct. 9, 2026, more than 150 organizations had signed, including Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, the International Publishers Association and the Federation of European Publishers, plus publishers from Brazil, Egypt, the UK, Austria, the Netherlands, Argentina, Thailand and Australia."
+                "x": "Tokyo Shōkō Research offers the following analysis: “Machine translation has advanced so rapidly that simple texts can now be translated for free. Price competition is intensifying as it becomes easier to obtain translations.”"
+              },
+              {
+                "t": "p",
+                "x": "Meanwhile, the global market for AI-assisted translation is expected to expand rapidly. QY Research forecasts growth from $2.6 billion in 2025 to $4.2 billion by 2032; Business Research Insights expects $4.4 billion in 2025 to rise to $5.7 billion by 2035."
+              },
+              {
+                "t": "p",
+                "x": "The key to the survival of the translation industry may lie in whether translators can use AI to improve efficiency in general-purpose translation, while finding a niche in specialized fields where AI is less accurate or in areas that require human creativity."
               }
             ]
           }
         },
         "ko": {
-          "headline": "출판 단체 150곳 이상\nAI 투명성 호소에 동참",
-          "body": "Frankfurt Appeal은 EU와 독일에 AI 학습 작품 공개를 요구한다.",
-          "mini_headline": "Frankfurt AI 투명성 호소",
+          "headline": "AI 번역에 밀리는\n일본 번역업체들",
+          "body": "생성형 AI 번역이 퍼지면서 일본 번역업체들의 매출이 줄고 있다.",
+          "mini_headline": "AI가 줄인 일본 번역 매출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
               },
               {
                 "t": "p",
-                "x": "150곳이 넘는 출판사와 출판 단체가 EU와 독일 정부에 AI 개발사가 모델 학습에 쓴 작품을 공개하도록 의무화하라고 촉구한다. 요구 내용은 독일출판서점협회가 발표한 Frankfurt Appeal에 담겼다."
+                "x": "생성형 AI 번역이 널리 쓰이면서 일본 번역업체들의 매출이 줄어든다."
               },
               {
                 "t": "p",
-                "x": "호소문은 세 가지를 요구한다. 작품 단위로 학습 데이터를 공개하는 투명성 의무, 공정한 수익 모델을 갖춘 라이선스 시장, 강력한 집행 수단이 뒷받침하는 유럽 저작권법 준수다. “침해해도 아무 결과가 따르지 않는 권리는 무가치하다.”"
+                "x": "Tokyo Shōkō Research는 다섯 회계연도 연속 실적을 비교할 수 있는 일본 번역업체 100곳을 조사했다. 2025 회계연도 이들 업체의 매출 합계는 ¥39.3B, 순이익 합계는 ¥920M 이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
               },
               {
                 "t": "p",
-                "x": "협회장 Sebastian Guggolz는 “정치권이 지금 행동하지 않으면 AI는 계속해서 수백만 편의 저작물을 빼앗고, 결국에는 우리의 사고 능력까지 빼앗을 것”이라고 말했다."
+                "x": "매출이 ¥43.5B, 이익이 ¥3.1B 로 정점을 찍은 2022 회계연도와 비교하면 2025 회계연도 매출은 9.7%, 이익은 70.7% 줄었다. 조사 대상 100곳 가운데 매출이 늘어난 곳은 32곳, 이익이 늘어난 곳은 35곳이다. 반대로 50곳은 매출이, 47곳은 이익이 줄었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
               },
               {
                 "t": "p",
-                "x": "2026년 시월 9일 현재 Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, International Publishers Association, Federation of European Publishers를 비롯해 브라질, 이집트, UK, 오스트리아, 네덜란드, 아르헨티나, 태국, 호주의 출판사까지 150곳 넘는 단체가 서명했다."
+                "x": "Tokyo Shōkō Research의 분석은 이렇다. “기계 번역이 빠르게 발전해 간단한 글은 이제 무료로 번역할 수 있다. 번역을 얻기 쉬워지면서 가격 경쟁이 심해지고 있다.”"
+              },
+              {
+                "t": "p",
+                "x": "AI-assisted 번역의 세계 시장은 빠르게 커질 전망이다. QY Research는 2025년 $2.6B 에서 2032년 $4.2B 로 커진다고 내다봤고, Business Research Insights는 2025년 $4.4B 에서 2035년 $5.7B 로 늘어난다고 예상했다."
+              },
+              {
+                "t": "p",
+                "x": "번역 업계가 살아남으려면 번역가가 AI로 general-purpose(범용) 번역의 효율을 높이면서, AI가 정확하지 못한 전문 분야나 사람의 창의성이 필요한 영역에서 틈새를 찾아야 할지도 모른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版団体150以上が\nAI透明性の訴えに賛同",
-          "body": "Frankfurt AppealはEUとドイツにAI開発者へ学習作品の開示義務化を求める。",
-          "mini_headline": "Frankfurt AppealとAI透明性",
+          "headline": "AI翻訳に押され\n日本の翻訳会社が苦境",
+          "body": "生成AI翻訳の普及で、日本の翻訳会社の売上が落ち込んでいる。",
+          "mini_headline": "AIで日本の翻訳売上が減少",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
               },
               {
                 "t": "p",
-                "x": "150を超える出版社と出版団体が、EUとドイツ政府に対し、AI開発者にモデルの学習に使った作品の開示を義務づけるよう求めている。この要求は、ドイツ出版・書店協会が公表したFrankfurt Appealにまとめられている。"
+                "x": "生成AIによる翻訳の普及で、日本の翻訳会社の売上が落ち込んでいる。"
               },
               {
                 "t": "p",
-                "x": "アピールは三つの行動を求めている。作品単位での学習データ開示を含む透明性義務、公正な収益モデルを備えたライセンス市場、そして強力な執行手段を伴う欧州著作権法の順守だ。「侵害しても何の報いもない権利に価値はない」。"
+                "x": "Tokyo Shōkō Researchは、五期連続で業績を比較できる日本の翻訳会社100社を調べた。2025年度の売上高合計は¥39.3B 、純利益合計は¥920M だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
               },
               {
                 "t": "p",
-                "x": "協会のSebastian Guggolz会長は「政治が今動かなければ、AIは私たちから何百万もの著作物を、そしてやがては考える力さえも奪い続けるだろう」と述べた。"
+                "x": "売上高が¥43.5B 、利益が¥3.1B でピークだった2022年度と比べると、2025年度の売上高は9.7%、利益は70.7%減った。調査対象の100社のうち、増収は32社、増益は35社、減収は50社、減益は47社だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
               },
               {
                 "t": "p",
-                "x": "2026年十月9日時点で、Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association、Federation of European Publishersのほか、ブラジル、エジプト、UK、オーストリア、オランダ、アルゼンチン、タイ、オーストラリアの出版社を含む150以上の団体が署名した。"
+                "x": "Tokyo Shōkō Researchは次のように分析する。「機械翻訳が急速に進歩し、簡単な文章なら今や無料で翻訳できる。翻訳が手軽に得られるようになり、価格競争が激しくなっている」"
+              },
+              {
+                "t": "p",
+                "x": "一方、AI-assisted翻訳の世界市場は急拡大が見込まれる。QY Researchは2025年の$2.6B から2032年には$4.2B へ、Business Research Insightsは2025年の$4.4B から2035年には$5.7B へ伸びると予測する。"
+              },
+              {
+                "t": "p",
+                "x": "翻訳業界が生き残る鍵は、翻訳者がAIを使ってgeneral-purpose(汎用)翻訳の効率を高めつつ、AIの精度が低い専門分野や人間の創造性が求められる領域にニッチを見いだせるかどうかにあるのかもしれない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "逾150家出版机构\n联署AI透明度呼吁",
-          "body": "Frankfurt Appeal呼吁EU和德国要求AI开发者公开用于训练模型的作品。",
-          "mini_headline": "Frankfurt AI透明度呼吁",
+          "headline": "AI翻译冲击\n日本翻译公司承压",
+          "body": "随着生成式AI翻译日益普及，日本翻译公司的销售额正在下滑。",
+          "mini_headline": "AI拖累日本翻译业销售",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
               },
               {
                 "t": "p",
-                "x": "150多家出版商和出版组织正敦促EU和德国政府，要求AI开发者公开用于训练其模型的作品。这一诉求载于德国出版商与书商协会发布的Frankfurt Appeal中。"
+                "x": "生成式AI驱动的翻译日益普及，导致日本翻译公司的销售额下滑。"
               },
               {
                 "t": "p",
-                "x": "呼吁书提出三项行动：包括在作品层面公开训练数据在内的透明度义务；具备公平收益模式的授权市场；以及遵守欧洲著作权法，并配备有力的执行手段。“侵权而无须承担后果的权利毫无价值。”"
+                "x": "Tokyo Shōkō Research调查了100家可连续五个财年比较业绩的日本翻译公司。2025财年，这些公司的销售额合计为¥39.3B ，净利润合计为¥920M 。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
               },
               {
                 "t": "p",
-                "x": "协会负责人Sebastian Guggolz表示：“如果政界现在不采取行动，AI将继续夺走我们数以百万计的受版权保护作品，最终还会夺走我们的思考能力。”"
+                "x": "2022财年销售额和利润分别达到¥43.5B 和¥3.1B 的峰值，与之相比，2025财年销售额下降9.7%，利润下降70.7%。在受调查的100家公司中，32家销售额增长、35家利润增长，50家销售额下降、47家利润下降。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
               },
               {
                 "t": "p",
-                "x": "截至2026年十月9日，已有150多家机构签署，包括Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association和Federation of European Publishers，以及来自巴西、埃及、UK、奥地利、荷兰、阿根廷、泰国和澳大利亚的出版商。"
+                "x": "Tokyo Shōkō Research分析称：“机器翻译进步神速，简单文本如今已可免费翻译。随着获取翻译越来越容易，价格竞争正在加剧。”"
+              },
+              {
+                "t": "p",
+                "x": "与此同时，全球AI-assisted翻译市场预计将迅速扩张。QY Research预测其将从2025年的$2.6B 增长到2032年的$4.2B ；Business Research Insights则预计将从2025年的$4.4B 增至2035年的$5.7B 。"
+              },
+              {
+                "t": "p",
+                "x": "翻译行业的生存关键，或许在于译者能否借助AI提高general-purpose（通用）翻译的效率，同时在AI准确度较低的专业领域或需要人类创造力的领域找到立足之地。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Más de 150 grupos editoriales\npiden transparencia en la AI",
-          "body": "El Frankfurt Appeal pide a la EU y a Alemania que los desarrolladores de AI revelen las obras con las que entrenan.",
-          "mini_headline": "El Frankfurt Appeal por la transparencia en AI",
+          "headline": "La traducción con AI aprieta\na las agencias de Japón",
+          "body": "El uso de la traducción con AI generativa ha provocado una caída de ventas en las empresas de traducción de Japón.",
+          "mini_headline": "La AI reduce las ventas de traducción en Japón",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
               },
               {
                 "t": "p",
-                "x": "Más de 150 editoriales y organizaciones del sector instan a la EU y al Gobierno alemán a obligar a los desarrolladores de AI a revelar las obras usadas para entrenar sus modelos. La petición se recoge en el Frankfurt Appeal, publicado por la Asociación Alemana de Editores y Libreros."
+                "x": "La adopción de la traducción impulsada por AI generativa ha provocado una caída de las ventas en las empresas de traducción de Japón."
               },
               {
                 "t": "p",
-                "x": "El llamamiento pide tres medidas: obligaciones de transparencia que incluyan la divulgación de los datos de entrenamiento obra por obra; un mercado de licencias con modelos de ingresos justos; y el cumplimiento de la legislación europea de derechos de autor, con mecanismos sólidos para hacerla valer. “Los derechos cuya infracción no tiene consecuencias no valen nada”."
+                "x": "Tokyo Shōkō Research examinó el desempeño de 100 empresas japonesas de traducción cuyos resultados podían compararse durante cinco ejercicios fiscales consecutivos. En el ejercicio fiscal 2025, las ventas combinadas de estas empresas sumaron ¥39.3B, mientras que sus beneficios netos totalizaron ¥920M."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
               },
               {
                 "t": "p",
-                "x": "“Si los políticos no actúan ahora, la AI seguirá privándonos de millones de obras protegidas por derechos de autor y, con el tiempo, de nuestra capacidad de pensar”, afirmó Sebastian Guggolz, presidente de la asociación."
+                "x": "Frente al ejercicio fiscal 2022, cuando las ventas alcanzaron su máximo de ¥43.5B y los beneficios el de ¥3.1B, en el ejercicio 2025 las ventas bajaron un 9.7% y los beneficios un 70.7%. De las 100 empresas encuestadas, 32 registraron más ventas y 35 más beneficios, mientras que 50 tuvieron menos ventas y 47 menos beneficios."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
               },
               {
                 "t": "p",
-                "x": "A 9 de octubre de 2026, más de 150 organizaciones habían firmado, entre ellas Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, la International Publishers Association y la Federation of European Publishers, además de editoriales de Brasil, Egipto, el Reino Unido (UK), Austria, Países Bajos, Argentina, Tailandia y Australia."
+                "x": "Tokyo Shōkō Research ofrece este análisis: “La traducción automática ha avanzado tan rápido que los textos sencillos ya pueden traducirse gratis. La competencia en precios se intensifica a medida que resulta más fácil obtener traducciones”."
+              },
+              {
+                "t": "p",
+                "x": "Mientras tanto, se espera que el mercado mundial de la traducción AI-assisted (asistida por AI) crezca con rapidez. QY Research prevé un aumento de $2.6B en 2025 a $4.2B en 2032; Business Research Insights espera que pase de $4.4B en 2025 a $5.7B en 2035."
+              },
+              {
+                "t": "p",
+                "x": "La clave para la supervivencia del sector podría estar en que los traductores usen la AI para ganar eficiencia en la traducción general-purpose (de uso general), mientras encuentran un nicho en campos especializados donde la AI es menos precisa o en áreas que requieren creatividad humana."
               }
             ]
           }
@@ -877,121 +943,185 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "출판 단체 150곳 이상\nAI 투명성 호소에 동참",
-          "body": "Frankfurt Appeal은 EU와 독일에 AI 학습 작품 공개를 요구한다.",
-          "mini_headline": "Frankfurt AI 투명성 호소",
+          "headline": "AI 번역에 밀리는\n일본 번역업체들",
+          "body": "생성형 AI 번역이 확산하면서 일본 번역업체들의 매출이 줄고 있다.",
+          "mini_headline": "AI가 줄인 일본 번역 매출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
               },
               {
                 "t": "p",
-                "x": "150곳이 넘는 출판사와 출판 단체가 EU와 독일 정부에 AI 개발사가 모델 학습에 쓴 작품을 공개하도록 의무화하라고 촉구하고 있다. 이 요구는 독일출판서점협회가 발표한 Frankfurt Appeal에 담겼다."
+                "x": "생성형 AI 기반 번역이 확산하면서 일본 번역업체들의 매출이 줄고 있다."
               },
               {
                 "t": "p",
-                "x": "호소문은 세 가지 조치를 요구한다. 작품 단위의 학습 데이터 공개를 포함한 투명성 의무, 공정한 수익 모델을 갖춘 라이선스 시장, 그리고 강력한 집행 수단을 갖춘 유럽 저작권법 준수다. “침해해도 아무 결과가 따르지 않는 권리는 무가치하다.”"
+                "x": "Tokyo Shōkō Research는 다섯 회계연도 연속으로 실적을 비교할 수 있는 일본 번역업체 100곳의 성과를 조사했다. 2025 회계연도 이들 업체의 매출 합계는 ¥39.3B, 순이익 합계는 ¥920M 이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
               },
               {
                 "t": "p",
-                "x": "협회장 Sebastian Guggolz는 “정치권이 지금 행동하지 않으면 AI는 계속해서 수백만 편의 저작물을 빼앗고, 결국에는 우리의 사고 능력까지 빼앗을 것”이라고 말했다."
+                "x": "매출이 ¥43.5B, 이익이 ¥3.1B 로 정점을 찍은 2022 회계연도와 비교하면 2025 회계연도 매출은 9.7%, 이익은 70.7% 줄었다. 조사 대상 100곳 가운데 32곳은 매출이, 35곳은 이익이 늘었고, 50곳은 매출이, 47곳은 이익이 줄었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
               },
               {
                 "t": "p",
-                "x": "2026년 시월 9일 기준으로 Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, International Publishers Association, Federation of European Publishers를 비롯해 브라질, 이집트, UK, 오스트리아, 네덜란드, 아르헨티나, 태국, 호주의 출판사까지 150곳이 넘는 단체가 서명했다."
+                "x": "Tokyo Shōkō Research는 이렇게 분석한다. “기계 번역이 빠르게 발전해 간단한 글은 이제 무료로 번역할 수 있다. 번역을 얻기 쉬워지면서 가격 경쟁이 심해지고 있다.”"
+              },
+              {
+                "t": "p",
+                "x": "한편 AI-assisted 번역의 세계 시장은 빠르게 커질 전망이다. QY Research는 2025년 $2.6B 에서 2032년 $4.2B 로 성장할 것으로 내다봤고, Business Research Insights는 2025년 $4.4B 에서 2035년 $5.7B 로 늘 것으로 예상했다."
+              },
+              {
+                "t": "p",
+                "x": "번역 업계의 생존 열쇠는 번역가가 AI로 general-purpose(범용) 번역의 효율을 높이는 한편, AI의 정확도가 떨어지는 전문 분야나 인간의 창의성이 필요한 영역에서 틈새를 찾을 수 있느냐에 달려 있을지 모른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版団体150以上が\nAI透明性の訴えに賛同",
-          "body": "Frankfurt AppealはEUとドイツにAI開発者へ学習作品の開示義務化を求める。",
-          "mini_headline": "Frankfurt AppealとAI透明性",
+          "headline": "AI翻訳に押され\n日本の翻訳会社が苦境",
+          "body": "生成AI翻訳の普及で、日本の翻訳会社の売上が落ち込んでいる。",
+          "mini_headline": "AIで日本の翻訳売上が減少",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
               },
               {
                 "t": "p",
-                "x": "150を超える出版社と出版団体が、EUとドイツ政府に対し、AI開発者にモデルの学習に使った作品の開示を義務づけるよう求めている。この要求は、ドイツ出版・書店協会が公表したFrankfurt Appealにまとめられている。"
+                "x": "生成AIによる翻訳の普及で、日本の翻訳会社の売上が落ち込んでいる。"
               },
               {
                 "t": "p",
-                "x": "アピールは三つの行動を求めている。作品単位での学習データ開示を含む透明性義務、公正な収益モデルを備えたライセンス市場、そして強力な執行手段を伴う欧州著作権法の順守だ。「侵害しても何の報いもない権利に価値はない」。"
+                "x": "Tokyo Shōkō Researchは、五期連続で業績を比較できる日本の翻訳会社100社を調べた。2025年度の売上高合計は¥39.3B 、純利益合計は¥920M だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
               },
               {
                 "t": "p",
-                "x": "協会のSebastian Guggolz会長は「政治が今動かなければ、AIは私たちから何百万もの著作物を、そしてやがては考える力さえも奪い続けるだろう」と述べた。"
+                "x": "売上高が¥43.5B 、利益が¥3.1B でピークだった2022年度と比べると、2025年度の売上高は9.7%、利益は70.7%減った。調査対象の100社のうち、増収は32社、増益は35社、減収は50社、減益は47社だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
               },
               {
                 "t": "p",
-                "x": "2026年十月9日時点で、Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association、Federation of European Publishersのほか、ブラジル、エジプト、UK、オーストリア、オランダ、アルゼンチン、タイ、オーストラリアの出版社を含む150以上の団体が署名した。"
+                "x": "Tokyo Shōkō Researchは次のように分析する。「機械翻訳が急速に進歩し、簡単な文章なら今や無料で翻訳できる。翻訳が手軽に得られるようになり、価格競争が激しくなっている」"
+              },
+              {
+                "t": "p",
+                "x": "一方、AI-assisted翻訳の世界市場は急拡大が見込まれる。QY Researchは2025年の$2.6B から2032年には$4.2B へ、Business Research Insightsは2025年の$4.4B から2035年には$5.7B へ伸びると予測する。"
+              },
+              {
+                "t": "p",
+                "x": "翻訳業界が生き残る鍵は、翻訳者がAIを使ってgeneral-purpose(汎用)翻訳の効率を高めつつ、AIの精度が低い専門分野や人間の創造性が求められる領域にニッチを見いだせるかどうかにあるのかもしれない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "逾150家出版机构\n联署AI透明度呼吁",
-          "body": "Frankfurt Appeal呼吁EU和德国要求AI开发者公开用于训练模型的作品。",
-          "mini_headline": "Frankfurt AI透明度呼吁",
+          "headline": "AI翻译冲击\n日本翻译公司承压",
+          "body": "随着生成式AI翻译日益普及，日本翻译公司的销售额正在下滑。",
+          "mini_headline": "AI拖累日本翻译业销售",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
               },
               {
                 "t": "p",
-                "x": "150多家出版商和出版组织正敦促EU和德国政府，要求AI开发者公开用于训练其模型的作品。这一诉求载于德国出版商与书商协会发布的Frankfurt Appeal中。"
+                "x": "生成式AI驱动的翻译日益普及，导致日本翻译公司的销售额下滑。"
               },
               {
                 "t": "p",
-                "x": "呼吁书提出三项行动：包括在作品层面公开训练数据在内的透明度义务；具备公平收益模式的授权市场；以及遵守欧洲著作权法，并配备有力的执行手段。“侵权而无须承担后果的权利毫无价值。”"
+                "x": "Tokyo Shōkō Research调查了100家可连续五个财年比较业绩的日本翻译公司。2025财年，这些公司的销售额合计为¥39.3B ，净利润合计为¥920M 。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
               },
               {
                 "t": "p",
-                "x": "协会负责人Sebastian Guggolz表示：“如果政界现在不采取行动，AI将继续夺走我们数以百万计的受版权保护作品，最终还会夺走我们的思考能力。”"
+                "x": "2022财年销售额和利润分别达到¥43.5B 和¥3.1B 的峰值，与之相比，2025财年销售额下降9.7%，利润下降70.7%。在受调查的100家公司中，32家销售额增长、35家利润增长，50家销售额下降、47家利润下降。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
               },
               {
                 "t": "p",
-                "x": "截至2026年十月9日，已有150多家机构签署，包括Suhrkamp、Hanser、Rowohlt、Carlsen、Penguin Random House Verlagsgruppe、Diogenes、International Publishers Association和Federation of European Publishers，以及来自巴西、埃及、UK、奥地利、荷兰、阿根廷、泰国和澳大利亚的出版商。"
+                "x": "Tokyo Shōkō Research分析称：“机器翻译进步神速，简单文本如今已可免费翻译。随着获取翻译越来越容易，价格竞争正在加剧。”"
+              },
+              {
+                "t": "p",
+                "x": "与此同时，全球AI-assisted翻译市场预计将迅速扩张。QY Research预测其将从2025年的$2.6B 增长到2032年的$4.2B ；Business Research Insights则预计将从2025年的$4.4B 增至2035年的$5.7B 。"
+              },
+              {
+                "t": "p",
+                "x": "翻译行业的生存关键，或许在于译者能否借助AI提高general-purpose（通用）翻译的效率，同时在AI准确度较低的专业领域或需要人类创造力的领域找到立足之地。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Más de 150 grupos editoriales\npiden transparencia en la AI",
-          "body": "El Frankfurt Appeal pide a la EU y a Alemania que los desarrolladores de AI revelen las obras con las que entrenan.",
-          "mini_headline": "El Frankfurt Appeal por la transparencia en AI",
+          "headline": "La traducción con AI aprieta\na las agencias de Japón",
+          "body": "El uso de la traducción con AI generativa ha provocado una caída de ventas en las empresas de traducción de Japón.",
+          "mini_headline": "La AI reduce las ventas de traducción en Japón",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg"
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
               },
               {
                 "t": "p",
-                "x": "Más de 150 editoriales y organizaciones del sector instan a la EU y al Gobierno alemán a obligar a los desarrolladores de AI a revelar las obras usadas para entrenar sus modelos. La petición se recoge en el Frankfurt Appeal, publicado por la Asociación Alemana de Editores y Libreros."
+                "x": "La adopción de la traducción impulsada por AI generativa ha provocado una caída de las ventas en las empresas de traducción de Japón."
               },
               {
                 "t": "p",
-                "x": "El llamamiento pide tres medidas: obligaciones de transparencia que incluyan la divulgación de los datos de entrenamiento obra por obra; un mercado de licencias con modelos de ingresos justos; y el cumplimiento de la legislación europea de derechos de autor, con mecanismos sólidos para hacerla valer. “Los derechos cuya infracción no tiene consecuencias no valen nada”."
+                "x": "Tokyo Shōkō Research examinó el desempeño de 100 empresas japonesas de traducción cuyos resultados podían compararse durante cinco ejercicios fiscales consecutivos. En el ejercicio fiscal 2025, las ventas combinadas de estas empresas sumaron ¥39.3B, mientras que sus beneficios netos totalizaron ¥920M."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
               },
               {
                 "t": "p",
-                "x": "“Si los políticos no actúan ahora, la AI seguirá privándonos de millones de obras protegidas por derechos de autor y, con el tiempo, de nuestra capacidad de pensar”, afirmó Sebastian Guggolz, presidente de la asociación."
+                "x": "Frente al ejercicio fiscal 2022, cuando las ventas alcanzaron su máximo de ¥43.5B y los beneficios el de ¥3.1B, en el ejercicio 2025 las ventas bajaron un 9.7% y los beneficios un 70.7%. De las 100 empresas encuestadas, 32 registraron más ventas y 35 más beneficios, mientras que 50 tuvieron menos ventas y 47 menos beneficios."
+              },
+              {
+                "t": "img",
+                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
               },
               {
                 "t": "p",
-                "x": "A 9 de octubre de 2026, más de 150 organizaciones habían firmado, entre ellas Suhrkamp, Hanser, Rowohlt, Carlsen, Penguin Random House Verlagsgruppe, Diogenes, la International Publishers Association y la Federation of European Publishers, además de editoriales de Brasil, Egipto, el Reino Unido (UK), Austria, Países Bajos, Argentina, Tailandia y Australia."
+                "x": "Tokyo Shōkō Research ofrece este análisis: “La traducción automática ha avanzado tan rápido que los textos sencillos ya pueden traducirse gratis. La competencia en precios se intensifica a medida que resulta más fácil obtener traducciones”."
+              },
+              {
+                "t": "p",
+                "x": "Mientras tanto, se espera que el mercado mundial de la traducción AI-assisted (asistida por AI) crezca con rapidez. QY Research prevé un aumento de $2.6B en 2025 a $4.2B en 2032; Business Research Insights espera que pase de $4.4B en 2025 a $5.7B en 2035."
+              },
+              {
+                "t": "p",
+                "x": "La clave para la supervivencia del sector podría estar en que los traductores usen la AI para ganar eficiencia en la traducción general-purpose (de uso general), mientras encuentran un nicho en campos especializados donde la AI es menos precisa o en áreas que requieren creatividad humana."
               }
             ]
           }
@@ -999,189 +1129,171 @@
       }
     },
     {
-      "id": "books-turkiye-ai-book-scanning",
+      "id": "books-multivoice-audiobook",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 기업의 책 사냥에\nTürkiye 저작권 우려",
-      "body": "튀르키예 출판계는 AI 기업의 무단 스캔을 경계하면서도 라이선스 수익을 기대한다.",
-      "mini_headline": "Türkiye 덮친 AI 책 사냥",
+      "headline": "ElevenLabs로 만든\n여섯 목소리 오디오북",
+      "body": "Allan Tépper가 ElevenLabs 복제 목소리 여섯으로 오디오북을 냈다.",
+      "mini_headline": "복제 목소리 여섯, 오디오북 한 권",
       "tool": "Books",
-      "source": "Türkiye Today",
-      "url": "https://www.turkiyetoday.com/business/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182",
-      "accent": "#ff5a4d",
+      "source": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/",
+      "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Allan Tépper는 최근 실제 대화가 들어간 첫 오디오북을 만들었다. 내레이터와 등장인물 다섯, 모두 여섯 목소리가 필요한 six-voice 작업이었다. 의뢰인이자 저자(client-author)는 인간 성우를 여섯은커녕 한 명도 고용할 예산이 없었다. 그래서 ElevenLabs의 Pro 플랜으로 목소리를 복제했다. “인간 전문 성우와 복제된 전문 성우의 격차는 여전히 있지만, 그 어느 때보다 좁아졌다.”"
+          },
+          {
             "t": "img",
-            "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+            "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+            "cap": "오디오북 표지는 모두 정사각형이어야 한다."
           },
           {
             "t": "p",
-            "x": "AI 기업들이 저작권료를 내지 않고 책을 상업용 모델 학습에 쓰면서 Türkiye 출판업계 전반에 우려가 번지고 있다. Türkiye 언론출판협회 Halil Celik 회장이 Anadolu Agency에 밝힌 바로는, 어떤 책이 AI 모델 학습에 쓰였는지 출판사가 확인할 믿을 만한 방법이 없다."
+            "x": "책은 Carmela Doval의 동화 El gato que se le coló a Colón이다. 목소리는 seseante 발음을 쓰는 라틴아메리카 여성 내레이터, 스페인 수고양이 Paquito, 그의 여자친구 Cloti, Cristóbal Colón, 이름 없는 선원 대변인, 배 주인 Rodrigo다. Paquito 클론은 잘 작동하지만 버릇이 하나 있다. 카스티야어 발음이 구별 발음과 seseante 사이를 오간다."
           },
           {
             "t": "p",
-            "x": "AI 기업들이 인쇄본을 대량으로 사들여 스캔한 뒤 실물을 폐기한다는 의혹이 나오면서 논란이 커졌다. Celik은 희귀본과 절판본, 그중에서도 마지막 남은 사본까지 해체하면 문화유산이 위태로워진다고 경고했다."
-          },
-          {
-            "t": "p",
-            "x": "그는 Türkiye의 지식·예술저작물법을 고쳐 AI 학습, 데이터셋 공개, 처벌 규정을 넣어야 한다고 촉구했다. 단체 협약으로도 이용할 수 있는 라이선스 제도를 도입해 AI 기업이 상업적 이용의 대가를 치르게 하자는 제안도 내놓았다."
-          },
-          {
-            "t": "p",
-            "x": "Celik은 “올바른 법·라이선스 체계가 갖춰지면 오늘 무료로 쓰이는 콘텐츠가 내일은 저작권과 라이선스 수익의 새로운 원천이 될 수 있다”고 말했다."
+            "x": "ElevenLabs는 원고를 스캔해 모르는 단어나 이름을 제작자에게 묻는다. 가장 그럴듯한 추정 발음을 들려주는 재생 버튼과 발음 표기를 적는 칸도 있다. 이 기능이 필요했던 이름은 Dade 하나뿐이었다. Tépper가 “deid”라고 입력하기 전까지는 “Dah-Day”로 읽었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI firms' book hunt stirs\ncopyright fears in Türkiye",
-          "body": "Turkish publishers say AI firms scanning books without permission threaten copyright, yet some see licensing revenue.",
-          "mini_headline": "AI book hunt hits Türkiye",
+          "headline": "A six-voice audiobook made\nwith ElevenLabs voice clones",
+          "body": "Allan Tépper made a six-voice children's audiobook with ElevenLabs clones, as the author had no budget for human actors.",
+          "mini_headline": "Six cloned voices, one audiobook",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Allan Tépper recently produced his first audiobook with actual dialog: it required six different voices to cover the narrator plus five other characters. The client-author did not have budget to hire even one human voiceover talent, let alone six, so the voices were cloned with ElevenLabs’ Pro plan. “The gap between human professional voiceover talent and cloned professional voiceover talent still exists, but it is narrower than ever before.”"
+              },
+              {
                 "t": "img",
-                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+                "cap": "All audiobook covers must be square."
               },
               {
                 "t": "p",
-                "x": "AI companies’ use of books to train commercial models without paying copyright fees has raised concerns across Türkiye’s publishing industry. Halil Celik, president of Türkiye’s Press and Publishing Association, told Anadolu Agency that publishers have no reliable way of finding out which books have been used to train AI models."
+                "x": "The book is El gato que se le coló a Colón, a children’s book by Carmela Doval. The voices: a Latin American, seseante female narrator; Paquito, a Spaniard male cat; his girlfriend Cloti; Cristóbal Colón; an unnamed crew spokesperson; and Rodrigo, a boat owner. The clone used for Paquito works well but has a quirk: his Castilian pronunciation alternates between distinguishing and seseante."
               },
               {
                 "t": "p",
-                "x": "The debate intensified after allegations that AI companies buy printed books in bulk, scan them and destroy the physical copies. Celik warned that dismantling rare and out-of-print books, some among the last surviving copies, puts cultural heritage at risk."
-              },
-              {
-                "t": "p",
-                "x": "He called for amendments to Türkiye’s Law on Intellectual and Artistic Works, including rules on AI training, dataset disclosure and penalties, and proposed a licensing system, potentially through collective agreements, under which AI companies would pay for commercial use."
-              },
-              {
-                "t": "p",
-                "x": "“If the right legal and licensing system is established, content that is used free of charge today could become a new source of copyright and licensing revenue tomorrow,” Celik said."
+                "x": "ElevenLabs also scans a manuscript and asks the producer about unknown words or names, offering a play button for its best guess and a field to type a phonetic spelling. Only one name needed it: Dade, which it first read as “Dah-Day” until Tépper typed “deid”."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 기업의 책 사냥에\nTürkiye 저작권 우려",
-          "body": "튀르키예 출판계는 AI 기업의 무단 스캔을 경계하면서도 라이선스 수익을 기대한다.",
-          "mini_headline": "Türkiye 덮친 AI 책 사냥",
+          "headline": "ElevenLabs로 만든\n여섯 목소리 오디오북",
+          "body": "Allan Tépper가 ElevenLabs 복제 목소리 여섯으로 오디오북을 냈다.",
+          "mini_headline": "복제 목소리 여섯, 오디오북 한 권",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Allan Tépper는 최근 실제 대화가 들어간 첫 오디오북을 만들었다. 내레이터와 등장인물 다섯, 모두 여섯 목소리가 필요한 six-voice 작업이었다. 의뢰인이자 저자(client-author)는 인간 성우를 여섯은커녕 한 명도 고용할 예산이 없었다. 그래서 ElevenLabs의 Pro 플랜으로 목소리를 복제했다. “인간 전문 성우와 복제된 전문 성우의 격차는 여전히 있지만, 그 어느 때보다 좁아졌다.”"
+              },
+              {
                 "t": "img",
-                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+                "cap": "오디오북 표지는 모두 정사각형이어야 한다."
               },
               {
                 "t": "p",
-                "x": "AI 기업들이 저작권료를 내지 않고 책을 상업용 모델 학습에 쓰면서 Türkiye 출판업계 전반에 우려가 번지고 있다. Türkiye 언론출판협회 Halil Celik 회장이 Anadolu Agency에 밝힌 바로는, 어떤 책이 AI 모델 학습에 쓰였는지 출판사가 확인할 믿을 만한 방법이 없다."
+                "x": "책은 Carmela Doval의 동화 El gato que se le coló a Colón이다. 목소리는 seseante 발음을 쓰는 라틴아메리카 여성 내레이터, 스페인 수고양이 Paquito, 그의 여자친구 Cloti, Cristóbal Colón, 이름 없는 선원 대변인, 배 주인 Rodrigo다. Paquito 클론은 잘 작동하지만 버릇이 하나 있다. 카스티야어 발음이 구별 발음과 seseante 사이를 오간다."
               },
               {
                 "t": "p",
-                "x": "AI 기업들이 인쇄본을 대량으로 사들여 스캔한 뒤 실물을 폐기한다는 의혹이 나오면서 논란이 커졌다. Celik은 희귀본과 절판본, 그중에서도 마지막 남은 사본까지 해체하면 문화유산이 위태로워진다고 경고했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 Türkiye의 지식·예술저작물법을 고쳐 AI 학습, 데이터셋 공개, 처벌 규정을 넣어야 한다고 촉구했다. 단체 협약으로도 이용할 수 있는 라이선스 제도를 도입해 AI 기업이 상업적 이용의 대가를 치르게 하자는 제안도 내놓았다."
-              },
-              {
-                "t": "p",
-                "x": "Celik은 “올바른 법·라이선스 체계가 갖춰지면 오늘 무료로 쓰이는 콘텐츠가 내일은 저작권과 라이선스 수익의 새로운 원천이 될 수 있다”고 말했다."
+                "x": "ElevenLabs는 원고를 스캔해 모르는 단어나 이름을 제작자에게 묻는다. 가장 그럴듯한 추정 발음을 들려주는 재생 버튼과 발음 표기를 적는 칸도 있다. 이 기능이 필요했던 이름은 Dade 하나뿐이었다. Tépper가 “deid”라고 입력하기 전까지는 “Dah-Day”로 읽었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI企業の書籍漁りに\nTürkiyeで著作権懸念",
-          "body": "トルコ出版界はAI企業の無断スキャンを著作権の脅威とみる一方、ライセンス収入も見込む。",
-          "mini_headline": "AIの書籍漁り、Türkiyeに波及",
+          "headline": "ElevenLabsで作る\n六つの声のオーディオブック",
+          "body": "Allan TépperがElevenLabsの複製音声で六声オーディオブックを制作した。",
+          "mini_headline": "複製音声六つでオーディオブック",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Allan Tépperは最近、実際の台詞を含む初のオーディオブックを制作した。ナレーターと他の五人の登場人物を演じ分けるため、六つの異なる声が必要なsix-voiceの作品だった。依頼主である著者(client-author)には、人間の声優を六人どころか一人雇う予算もなかったため、ElevenLabsのProプランで声をクローンした。「人間のプロ声優とクローンしたプロ声優の差は今もあるが、かつてないほど縮まっている」"
+              },
+              {
                 "t": "img",
-                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+                "cap": "オーディオブックの表紙はすべて正方形でなければならない。"
               },
               {
                 "t": "p",
-                "x": "AI企業が著作権料を払わずに書籍を商用モデルの学習に使っていることに、Türkiyeの出版業界全体で懸念が広がっている。Türkiye報道出版協会のHalil Celik会長はAnadolu Agencyに対し、どの書籍がAIモデルの学習に使われたかを出版社が確かめる確実な手段はないと語った。"
+                "x": "作品はCarmela Dovalの児童書『El gato que se le coló a Colón』。声は、seseanteで話すラテンアメリカの女性ナレーター、スペインの雄猫Paquito、その恋人Cloti、Cristóbal Colón、名前のない船員の代表、船主のRodrigoだ。Paquitoに使ったクローンはよく機能するが、癖がある。カスティーリャ語の発音が、区別する発音とseseanteの間で揺れるのだ。"
               },
               {
                 "t": "p",
-                "x": "AI企業が印刷本を大量に買い集めてスキャンし、現物を廃棄しているとの疑惑が出たことで、議論は激しさを増した。Celikは、現存する最後の数冊に数えられるものも含む希少本や絶版本を解体することは、文化遺産を危険にさらすと警告した。"
-              },
-              {
-                "t": "p",
-                "x": "同氏はAI学習、データセットの開示、罰則に関する規定を盛り込むよう、Türkiyeの知的・芸術的著作物法の改正を求めた。さらに、集団協定を通じた形も含め、AI企業が商用利用の対価を支払うライセンス制度を提案した。"
-              },
-              {
-                "t": "p",
-                "x": "「適切な法制度とライセンス制度が整えば、今日無料で使われているコンテンツが、明日には著作権とライセンス収入の新たな源泉になり得る」とCelikは述べた。"
+                "x": "ElevenLabsは原稿をスキャンし、不明な単語や名前について制作者に確認する。最善の推測を再生するボタンと、発音表記を入力する欄が用意されている。これが必要だった名前はDadeの一つだけで、Tépperが「deid」と入力するまでは「Dah-Day」と読んでいた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI公司大肆搜书\n引发Türkiye版权担忧",
-          "body": "土耳其出版界认为AI公司未经许可扫描图书威胁版权，但也有人看到授权收入。",
-          "mini_headline": "AI搜书风波波及Türkiye",
+          "headline": "ElevenLabs克隆\n六种声音的有声书",
+          "body": "Allan Tépper用ElevenLabs克隆声音制作了一部六种声音的儿童有声书。",
+          "mini_headline": "六个克隆声音，一部有声书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Allan Tépper最近制作了他的第一部包含真实对白的有声书：需要六种不同的声音，分别演绎旁白和另外五个角色，是一部six-voice作品。委托方兼作者（client-author）连雇用一名真人配音演员的预算都没有，更不用说六名，因此用ElevenLabs的Pro方案克隆了这些声音。“人类专业配音演员与克隆专业配音之间的差距依然存在，但已比以往任何时候都小。”"
+              },
+              {
                 "t": "img",
-                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+                "cap": "所有有声书封面都必须是正方形。"
               },
               {
                 "t": "p",
-                "x": "AI公司未支付版权费便用图书训练商业模型，在Türkiye出版业引发普遍担忧。Türkiye新闻出版协会主席Halil Celik对Anadolu Agency表示，出版商没有可靠的办法查明哪些书被用来训练AI模型。"
+                "x": "这本书是Carmela Doval的童书《El gato que se le coló a Colón》。声音包括：一位使用seseante发音的拉丁美洲女性旁白；西班牙公猫Paquito；它的女友Cloti；Cristóbal Colón；一位未具名的船员发言人；以及船主Rodrigo。Paquito所用的克隆声音效果不错，但有个怪癖：它的卡斯蒂利亚发音会在区分发音与seseante之间来回切换。"
               },
               {
                 "t": "p",
-                "x": "有指控称AI公司大批购买印刷图书，扫描后销毁实体书，争论随之升温。Celik警告称，拆解珍本和绝版书（其中一些是仅存的最后几册）会让文化遗产面临风险。"
-              },
-              {
-                "t": "p",
-                "x": "他呼吁修订Türkiye的《知识与艺术作品法》，纳入有关AI训练、数据集披露和处罚的规定，并提议建立一套许可制度（可能通过集体协议实现），让AI公司为商业使用付费。"
-              },
-              {
-                "t": "p",
-                "x": "Celik表示：“如果建立起合适的法律和授权体系，今天被免费使用的内容，明天就可能成为版权和授权收入的新来源。”"
+                "x": "ElevenLabs还会扫描书稿，就不认识的词语或名字询问制作者，提供播放其最佳猜测读音的按钮，以及输入注音拼写的栏位。只有一个名字需要这样处理：Dade。在Tépper输入“deid”之前，它一直读作“Dah-Day”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La caza de libros de la AI\nalarma por derechos en Türkiye",
-          "body": "Editoriales turcas ven en el escaneo de libros sin permiso por la AI una amenaza, pero también ingresos por licencias.",
-          "mini_headline": "La caza de libros de la AI llega a Türkiye",
+          "headline": "Un audiolibro con seis voces\nclonadas con ElevenLabs",
+          "body": "Allan Tépper hizo un audiolibro infantil a seis voces con clones de ElevenLabs: la autora no podía pagar actores.",
+          "mini_headline": "Seis voces clonadas, un audiolibro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Allan Tépper produjo hace poco su primer audiolibro con diálogos reales: necesitaba seis voces distintas (six-voice) para la narradora y otros cinco personajes. La autora y clienta (client-author) no tenía presupuesto para contratar ni a un solo locutor humano, y mucho menos a seis, así que las voces se clonaron con el plan Pro de ElevenLabs. “La brecha entre los locutores profesionales humanos y los locutores profesionales clonados todavía existe, pero es más estrecha que nunca”."
+              },
+              {
                 "t": "img",
-                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+                "cap": "Todas las portadas de audiolibros deben ser cuadradas."
               },
               {
                 "t": "p",
-                "x": "El uso de libros por parte de empresas de AI para entrenar modelos comerciales sin pagar derechos de autor ha generado preocupación en todo el sector editorial de Türkiye. Halil Celik, presidente de la Asociación de Prensa y Edición de Türkiye, dijo a Anadolu Agency que las editoriales no tienen una forma fiable de saber qué libros se han usado para entrenar modelos de AI."
+                "x": "El libro es El gato que se le coló a Colón, un libro infantil de Carmela Doval. Las voces: una narradora latinoamericana seseante; Paquito, un gato macho español; su novia Cloti; Cristóbal Colón; un portavoz anónimo de la tripulación; y Rodrigo, dueño de un barco. El clon usado para Paquito funciona bien, pero tiene una peculiaridad: su pronunciación castellana alterna entre la distinción y el habla seseante."
               },
               {
                 "t": "p",
-                "x": "El debate se intensificó tras las acusaciones de que las empresas de AI compran libros impresos al por mayor, los escanean y destruyen los ejemplares físicos. Celik advirtió que desmontar libros raros y descatalogados, algunos de ellos entre los últimos ejemplares que se conservan, pone en riesgo el patrimonio cultural."
-              },
-              {
-                "t": "p",
-                "x": "Pidió reformar la Ley de Obras Intelectuales y Artísticas de Türkiye para incluir normas sobre el entrenamiento de AI, la divulgación de los conjuntos de datos y las sanciones, y propuso un sistema de licencias, posiblemente mediante acuerdos colectivos, por el que las empresas de AI pagarían por el uso comercial."
-              },
-              {
-                "t": "p",
-                "x": "“Si se establece el sistema legal y de licencias adecuado, los contenidos que hoy se usan gratis podrían convertirse mañana en una nueva fuente de ingresos por derechos de autor y licencias”, afirmó Celik."
+                "x": "ElevenLabs también analiza el manuscrito y pregunta al productor por palabras o nombres desconocidos, con un botón para reproducir su mejor conjetura y un campo para escribir una grafía fonética. Solo un nombre lo necesitó: Dade, que primero leyó como “Dah-Day” hasta que Tépper escribió “deid”."
               }
             ]
           }
@@ -1189,121 +1301,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 기업의 책 사냥에\nTürkiye 저작권 우려",
-          "body": "튀르키예 출판계는 AI 기업의 무단 스캔을 경계하면서도 라이선스 수익을 기대한다.",
-          "mini_headline": "Türkiye 덮친 AI 책 사냥",
+          "headline": "ElevenLabs로 만든\n여섯 목소리 오디오북",
+          "body": "Allan Tépper가 ElevenLabs로 여섯 목소리 오디오북을 만들었다.",
+          "mini_headline": "복제 목소리 여섯, 오디오북 한 권",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Allan Tépper는 최근 실제 대화가 들어간 첫 오디오북을 제작했다. 내레이터와 다른 등장인물 다섯을 맡을 서로 다른 목소리 여섯이 필요한 six-voice 작업이었다. 의뢰인이자 저자(client-author)는 인간 성우를 여섯은커녕 한 명도 고용할 예산이 없었고, 그래서 ElevenLabs의 Pro 플랜으로 목소리를 복제했다. “인간 전문 성우와 복제된 전문 성우의 격차는 여전히 있지만, 그 어느 때보다 좁아졌다.”"
+              },
+              {
                 "t": "img",
-                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+                "cap": "오디오북 표지는 모두 정사각형이어야 한다."
               },
               {
                 "t": "p",
-                "x": "AI 기업들이 저작권료를 내지 않고 책을 상업용 모델 학습에 쓰면서 Türkiye 출판업계 전반에 우려가 커지고 있다. Türkiye 언론출판협회의 Halil Celik 회장은 Anadolu Agency에 출판사들이 어떤 책이 AI 모델 학습에 쓰였는지 확인할 믿을 만한 방법이 없다고 말했다."
+                "x": "책은 Carmela Doval의 동화 El gato que se le coló a Colón이다. 목소리는 seseante 발음을 쓰는 라틴아메리카 여성 내레이터, 스페인 수고양이 Paquito, 그의 여자친구 Cloti, Cristóbal Colón, 이름 없는 선원 대변인, 배 주인 Rodrigo다. Paquito에 쓴 클론은 잘 작동하지만 특이한 점이 있다. 카스티야어 발음이 구별 발음과 seseante 사이를 오간다."
               },
               {
                 "t": "p",
-                "x": "AI 기업들이 인쇄본을 대량으로 사들여 스캔한 뒤 실물을 폐기한다는 의혹이 나오면서 논란이 커졌다. Celik은 마지막 남은 사본까지 포함된 희귀본과 절판본을 해체하는 일이 문화유산을 위태롭게 한다고 경고했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 AI 학습, 데이터셋 공개, 처벌 규정을 담도록 Türkiye의 지식·예술저작물법을 개정해야 한다고 촉구했다. 또 단체 협약을 통한 방식도 가능한 라이선스 제도를 도입해 AI 기업이 상업적 이용에 대가를 치르게 하자고 제안했다."
-              },
-              {
-                "t": "p",
-                "x": "Celik은 “올바른 법·라이선스 체계가 갖춰지면 오늘 무료로 쓰이는 콘텐츠가 내일은 저작권과 라이선스 수익의 새로운 원천이 될 수 있다”고 말했다."
+                "x": "ElevenLabs는 원고를 스캔해 모르는 단어나 이름을 제작자에게 묻고, 가장 그럴듯한 추정 발음을 들려주는 재생 버튼과 발음 표기를 입력하는 칸을 제공한다. 이 기능이 필요했던 이름은 Dade 하나뿐이었다. Tépper가 “deid”라고 입력하기 전까지는 “Dah-Day”로 읽었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI企業の書籍漁りに\nTürkiyeで著作権懸念",
-          "body": "トルコ出版界はAI企業の無断スキャンを著作権の脅威とみる一方、ライセンス収入も見込む。",
-          "mini_headline": "AIの書籍漁り、Türkiyeに波及",
+          "headline": "ElevenLabsで作る\n六つの声のオーディオブック",
+          "body": "Allan TépperがElevenLabsの複製音声で六声オーディオブックを制作した。",
+          "mini_headline": "複製音声六つでオーディオブック",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Allan Tépperは最近、実際の台詞を含む初のオーディオブックを制作した。ナレーターと他の五人の登場人物を演じ分けるため、六つの異なる声が必要なsix-voiceの作品だった。依頼主である著者(client-author)には、人間の声優を六人どころか一人雇う予算もなかったため、ElevenLabsのProプランで声をクローンした。「人間のプロ声優とクローンしたプロ声優の差は今もあるが、かつてないほど縮まっている」"
+              },
+              {
                 "t": "img",
-                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+                "cap": "オーディオブックの表紙はすべて正方形でなければならない。"
               },
               {
                 "t": "p",
-                "x": "AI企業が著作権料を払わずに書籍を商用モデルの学習に使っていることに、Türkiyeの出版業界全体で懸念が広がっている。Türkiye報道出版協会のHalil Celik会長はAnadolu Agencyに対し、どの書籍がAIモデルの学習に使われたかを出版社が確かめる確実な手段はないと語った。"
+                "x": "作品はCarmela Dovalの児童書『El gato que se le coló a Colón』。声は、seseanteで話すラテンアメリカの女性ナレーター、スペインの雄猫Paquito、その恋人Cloti、Cristóbal Colón、名前のない船員の代表、船主のRodrigoだ。Paquitoに使ったクローンはよく機能するが、癖がある。カスティーリャ語の発音が、区別する発音とseseanteの間で揺れるのだ。"
               },
               {
                 "t": "p",
-                "x": "AI企業が印刷本を大量に買い集めてスキャンし、現物を廃棄しているとの疑惑が出たことで、議論は激しさを増した。Celikは、現存する最後の数冊に数えられるものも含む希少本や絶版本を解体することは、文化遺産を危険にさらすと警告した。"
-              },
-              {
-                "t": "p",
-                "x": "同氏はAI学習、データセットの開示、罰則に関する規定を盛り込むよう、Türkiyeの知的・芸術的著作物法の改正を求めた。さらに、集団協定を通じた形も含め、AI企業が商用利用の対価を支払うライセンス制度を提案した。"
-              },
-              {
-                "t": "p",
-                "x": "「適切な法制度とライセンス制度が整えば、今日無料で使われているコンテンツが、明日には著作権とライセンス収入の新たな源泉になり得る」とCelikは述べた。"
+                "x": "ElevenLabsは原稿をスキャンし、不明な単語や名前について制作者に確認する。最善の推測を再生するボタンと、発音表記を入力する欄が用意されている。これが必要だった名前はDadeの一つだけで、Tépperが「deid」と入力するまでは「Dah-Day」と読んでいた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI公司大肆搜书\n引发Türkiye版权担忧",
-          "body": "土耳其出版界认为AI公司未经许可扫描图书威胁版权，但也有人看到授权收入。",
-          "mini_headline": "AI搜书风波波及Türkiye",
+          "headline": "ElevenLabs克隆\n六种声音的有声书",
+          "body": "Allan Tépper用ElevenLabs克隆声音制作了一部六种声音的儿童有声书。",
+          "mini_headline": "六个克隆声音，一部有声书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Allan Tépper最近制作了他的第一部包含真实对白的有声书：需要六种不同的声音，分别演绎旁白和另外五个角色，是一部six-voice作品。委托方兼作者（client-author）连雇用一名真人配音演员的预算都没有，更不用说六名，因此用ElevenLabs的Pro方案克隆了这些声音。“人类专业配音演员与克隆专业配音之间的差距依然存在，但已比以往任何时候都小。”"
+              },
+              {
                 "t": "img",
-                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+                "cap": "所有有声书封面都必须是正方形。"
               },
               {
                 "t": "p",
-                "x": "AI公司未支付版权费便用图书训练商业模型，在Türkiye出版业引发普遍担忧。Türkiye新闻出版协会主席Halil Celik对Anadolu Agency表示，出版商没有可靠的办法查明哪些书被用来训练AI模型。"
+                "x": "这本书是Carmela Doval的童书《El gato que se le coló a Colón》。声音包括：一位使用seseante发音的拉丁美洲女性旁白；西班牙公猫Paquito；它的女友Cloti；Cristóbal Colón；一位未具名的船员发言人；以及船主Rodrigo。Paquito所用的克隆声音效果不错，但有个怪癖：它的卡斯蒂利亚发音会在区分发音与seseante之间来回切换。"
               },
               {
                 "t": "p",
-                "x": "有指控称AI公司大批购买印刷图书，扫描后销毁实体书，争论随之升温。Celik警告称，拆解珍本和绝版书（其中一些是仅存的最后几册）会让文化遗产面临风险。"
-              },
-              {
-                "t": "p",
-                "x": "他呼吁修订Türkiye的《知识与艺术作品法》，纳入有关AI训练、数据集披露和处罚的规定，并提议建立一套许可制度（可能通过集体协议实现），让AI公司为商业使用付费。"
-              },
-              {
-                "t": "p",
-                "x": "Celik表示：“如果建立起合适的法律和授权体系，今天被免费使用的内容，明天就可能成为版权和授权收入的新来源。”"
+                "x": "ElevenLabs还会扫描书稿，就不认识的词语或名字询问制作者，提供播放其最佳猜测读音的按钮，以及输入注音拼写的栏位。只有一个名字需要这样处理：Dade。在Tépper输入“deid”之前，它一直读作“Dah-Day”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La caza de libros de la AI\nalarma por derechos en Türkiye",
-          "body": "Editoriales turcas ven en el escaneo de libros sin permiso por la AI una amenaza, pero también ingresos por licencias.",
-          "mini_headline": "La caza de libros de la AI llega a Türkiye",
+          "headline": "Un audiolibro con seis voces\nclonadas con ElevenLabs",
+          "body": "Allan Tépper hizo un audiolibro infantil a seis voces con clones de ElevenLabs: la autora no podía pagar actores.",
+          "mini_headline": "Seis voces clonadas, un audiolibro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Allan Tépper produjo hace poco su primer audiolibro con diálogos reales: necesitaba seis voces distintas (six-voice) para la narradora y otros cinco personajes. La autora y clienta (client-author) no tenía presupuesto para contratar ni a un solo locutor humano, y mucho menos a seis, así que las voces se clonaron con el plan Pro de ElevenLabs. “La brecha entre los locutores profesionales humanos y los locutores profesionales clonados todavía existe, pero es más estrecha que nunca”."
+              },
+              {
                 "t": "img",
-                "src": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
+                "cap": "Todas las portadas de audiolibros deben ser cuadradas."
               },
               {
                 "t": "p",
-                "x": "El uso de libros por parte de empresas de AI para entrenar modelos comerciales sin pagar derechos de autor ha generado preocupación en todo el sector editorial de Türkiye. Halil Celik, presidente de la Asociación de Prensa y Edición de Türkiye, dijo a Anadolu Agency que las editoriales no tienen una forma fiable de saber qué libros se han usado para entrenar modelos de AI."
+                "x": "El libro es El gato que se le coló a Colón, un libro infantil de Carmela Doval. Las voces: una narradora latinoamericana seseante; Paquito, un gato macho español; su novia Cloti; Cristóbal Colón; un portavoz anónimo de la tripulación; y Rodrigo, dueño de un barco. El clon usado para Paquito funciona bien, pero tiene una peculiaridad: su pronunciación castellana alterna entre la distinción y el habla seseante."
               },
               {
                 "t": "p",
-                "x": "El debate se intensificó tras las acusaciones de que las empresas de AI compran libros impresos al por mayor, los escanean y destruyen los ejemplares físicos. Celik advirtió que desmontar libros raros y descatalogados, algunos de ellos entre los últimos ejemplares que se conservan, pone en riesgo el patrimonio cultural."
-              },
-              {
-                "t": "p",
-                "x": "Pidió reformar la Ley de Obras Intelectuales y Artísticas de Türkiye para incluir normas sobre el entrenamiento de AI, la divulgación de los conjuntos de datos y las sanciones, y propuso un sistema de licencias, posiblemente mediante acuerdos colectivos, por el que las empresas de AI pagarían por el uso comercial."
-              },
-              {
-                "t": "p",
-                "x": "“Si se establece el sistema legal y de licencias adecuado, los contenidos que hoy se usan gratis podrían convertirse mañana en una nueva fuente de ingresos por derechos de autor y licencias”, afirmó Celik."
+                "x": "ElevenLabs también analiza el manuscrito y pregunta al productor por palabras o nombres desconocidos, con un botón para reproducir su mejor conjetura y un campo para escribir una grafía fonética. Solo un nombre lo necesitó: Dade, que primero leyó como “Dah-Day” hasta que Tépper escribió “deid”."
               }
             ]
           }
@@ -1311,15 +1411,15 @@
       }
     },
     {
-      "id": "books-audible-ai-narration-survey",
-      "source_lang": "en",
+      "id": "books-lezhin-teaz",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "청취자 절반가량\nAI 낭독에 열려 있다",
-      "body": "Audible·NielsenIQ 11개 시장 조사서 오디오북이 책 구매로 이어졌다.",
-      "mini_headline": "AI 목소리에 열린 청취자들",
+      "headline": "웹툰 주인공과 대화\n레진, AI 챗 티즈 출시",
+      "body": "레진엔터테인먼트가 공식 웹툰 IP로 만든 AI 캐릭터챗 '티즈'를 19일 출시한다.",
+      "mini_headline": "레진 AI 캐릭터챗",
       "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202610139344i",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1327,295 +1427,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+            "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+            "cap": "레진엔터테인먼트는 AI캐릭터 챗 서비스 '티즈(Teaz)'를 19일 출시한다."
           },
           {
             "t": "p",
-            "x": "Audible이 의뢰하고 NielsenIQ가 진행한 글로벌 조사 “The Future of Listening”은 U.S., U.K., 유럽 여러 나라, 일본, 브라질 등 11개 시장의 소비자 18,000명을 대상으로 했다. 응답자의 34%는 지난 한 해 오디오북을 그 전해보다 더 많이 들었다고 답했다."
+            "x": "웹툰 기업 키다리스튜디오의 계열사 레진엔터테인먼트가 자사 인기 웹툰 캐릭터와 직접 대화하며 독자만의 이야기를 만들어가는 AI 캐릭터챗 서비스 '티즈(Teaz)'를 오는 10월 19일 정식 출시한다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "청취자의 69%는 이미 읽은 작품을 들었다. 오디오로 작가를 처음 접한 사람 가운데 63%는 그 작가의 다른 작품을 샀다. Audible의 최고콘텐츠책임자 Rachel Ghiazza는 “오디오북은 다른 형식과 경쟁하지 않는다”고 말했다."
+            "x": "'티즈'는 여성향 글로벌 플랫폼 '봄툰'과 '레진코믹스'의 오리지널 웹툰 IP를 활용한 고몰입 대화형 콘텐츠다. 이용자는 원작의 특정 시점에 개입해 등장인물 중 한 명이 되거나, 제3자의 관점에서 세계관에 들어가는 식으로 대화를 이끌어간다."
           },
           {
             "t": "p",
-            "x": "응답자의 절반가량은 AI 낭독을 들어볼 의향이 있다고 답했다. 독일과 일본을 뺀 대부분 시장에서는 논픽션보다 픽션 쪽 관심이 더 높았다. Ghiazza는 이를 “‘and’ 전략”이라고 불렀다. 사람 낭독자는 그대로 남고 제작비를 아낀 만큼 더 많은 작품을 낸다는 것이다. “품질과 투명성이 매우 중요하다.”"
+            "x": "가장 큰 차별점은 '관계형 대화'다. 이용자가 던지는 대화 내용과 맥락에 따라 상대 캐릭터의 반응과 관계가 그때그때 달라진다. 스토리가 진행되면 아이템을 모으고 작가 친필 히든 일러스트를 해금하는 등 독자를 위한 요소도 넣었다."
           },
           {
             "t": "p",
-            "x": "Audible은 조사 방법을 자세히 밝히지 않았다. 망설이는 출판사들에게 Ghiazza가 던진 메시지는 단호했다. “때는 바로 지금이다.”"
+            "x": "'티즈'는 권리 관계를 명확히 정리한 정식 계약 IP만 쓰고, 대화는 원저작자가 승인한 공식 설정 안에서 이뤄진다. 출시 이후에는 원작과 전혀 다른 세계관을 다루는 'AU(Alternative Universe, 평행세계)' 모드와 '텍스트 RPG' 모드 등을 단계적으로 도입할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "모회사 키다리스튜디오는 2026년 상반기 연결기준 매출액 1,228억 원, 영업이익 90억 원을 기록했다. 전년 동기 대비 매출은 23%, 영업이익은 275% 늘었다. 회사 관계자는 \"'티즈'는 원작 IP의 세계관을 입체적으로 확장하며 회사의 새로운 미래 성장동력으로 자리매김할 것\"이라고 전했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "About half of listeners\nare open to AI narration",
-          "body": "An Audible-commissioned NielsenIQ survey in 11 markets finds audiobooks lead listeners back to print and e-books.",
-          "mini_headline": "Listeners open to AI voices",
+        "ko": {
+          "headline": "웹툰 주인공과 대화\n레진, AI 챗 티즈 출시",
+          "body": "레진엔터테인먼트가 공식 웹툰 IP로 만든 AI 캐릭터챗 '티즈'를 19일 출시한다.",
+          "mini_headline": "레진 AI 캐릭터챗",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+                "cap": "레진엔터테인먼트는 AI캐릭터 챗 서비스 '티즈(Teaz)'를 19일 출시한다."
               },
               {
                 "t": "p",
-                "x": "A global survey commissioned by Audible, “The Future of Listening,” was conducted by NielsenIQ and polled 18,000 consumers in 11 markets, including the U.S., U.K., several European countries, Japan and Brazil. Some 34% said they had listened to more audiobooks over the past year than in the previous one."
+                "x": "웹툰 기업 키다리스튜디오의 계열사 레진엔터테인먼트가 자사 인기 웹툰 캐릭터와 직접 대화하며 독자만의 이야기를 만들어가는 AI 캐릭터챗 서비스 '티즈(Teaz)'를 오는 10월 19일 정식 출시한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Some 69% of listeners had already read the title they listened to, and 63% who discovered an author in audio went on to buy another work by them. “Audiobooks are not competitive to other formats,” said Audible’s chief content officer Rachel Ghiazza."
+                "x": "'티즈'는 여성향 글로벌 플랫폼 '봄툰'과 '레진코믹스'의 오리지널 웹툰 IP를 활용한 고몰입 대화형 콘텐츠다. 이용자는 원작의 특정 시점에 개입해 등장인물 중 한 명이 되거나, 제3자의 관점에서 세계관에 들어가는 식으로 대화를 이끌어간다."
               },
               {
                 "t": "p",
-                "x": "About half of respondents said they would try AI narration, with interest higher for fiction than nonfiction in most markets, except Germany and Japan. Ghiazza called it “an and strategy”: human performers remain, and production savings are meant to fund more titles. “Quality and transparency are critically important.”"
+                "x": "가장 큰 차별점은 '관계형 대화'다. 이용자가 던지는 대화 내용과 맥락에 따라 상대 캐릭터의 반응과 관계가 그때그때 달라진다. 스토리가 진행되면 아이템을 모으고 작가 친필 히든 일러스트를 해금하는 등 독자를 위한 요소도 넣었다."
               },
               {
                 "t": "p",
-                "x": "Audible has not detailed the survey’s methodology, but Ghiazza’s message to hesitant publishers was blunt: “The time is now.”"
+                "x": "'티즈'는 권리 관계를 명확히 정리한 정식 계약 IP만 쓰고, 대화는 원저작자가 승인한 공식 설정 안에서 이뤄진다. 출시 이후에는 원작과 전혀 다른 세계관을 다루는 'AU(Alternative Universe, 평행세계)' 모드와 '텍스트 RPG' 모드 등을 단계적으로 도입할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "모회사 키다리스튜디오는 2026년 상반기 연결기준 매출액 1,228억 원, 영업이익 90억 원을 기록했다. 전년 동기 대비 매출은 23%, 영업이익은 275% 늘었다. 회사 관계자는 \"'티즈'는 원작 IP의 세계관을 입체적으로 확장하며 회사의 새로운 미래 성장동력으로 자리매김할 것\"이라고 전했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "청취자 절반가량\nAI 낭독에 열려 있다",
-          "body": "Audible·NielsenIQ 11개 시장 조사서 오디오북이 책 구매로 이어졌다.",
-          "mini_headline": "AI 목소리에 열린 청취자들",
+        "en": {
+          "headline": "Chat with webtoon heroes:\nLezhin launches AI chat Teaz",
+          "body": "Lezhin Entertainment will launch Teaz, an AI character chat built on official webtoon IP, on the 19th.",
+          "mini_headline": "Lezhin's AI character chat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+                "cap": "Lezhin Entertainment will launch its AI character chat service ‘Teaz’ on the 19th."
               },
               {
                 "t": "p",
-                "x": "Audible이 의뢰하고 NielsenIQ가 진행한 글로벌 조사 “The Future of Listening”은 U.S., U.K., 유럽 여러 나라, 일본, 브라질 등 11개 시장의 소비자 18,000명을 대상으로 했다. 응답자의 34%는 지난 한 해 오디오북을 그 전해보다 더 많이 들었다고 답했다."
+                "x": "Lezhin Entertainment, an affiliate of webtoon company Kidari Studio, said it will officially launch ‘Teaz’ on October 19, an AI character chat service in which readers talk directly with characters from its popular webtoons and build their own stories."
               },
               {
                 "t": "p",
-                "x": "청취자의 69%는 이미 읽은 작품을 들었다. 오디오로 작가를 처음 접한 사람 가운데 63%는 그 작가의 다른 작품을 샀다. Audible의 최고콘텐츠책임자 Rachel Ghiazza는 “오디오북은 다른 형식과 경쟁하지 않는다”고 말했다."
+                "x": "‘Teaz’ is highly immersive interactive content built on original webtoon IP from Bomtoon, a global platform aimed at female readers, and Lezhin Comics. Users can steer the conversation by stepping into a specific point in the original story to become one of the characters, or by entering the story world from a 3rd-party perspective."
               },
               {
                 "t": "p",
-                "x": "응답자의 절반가량은 AI 낭독을 들어볼 의향이 있다고 답했다. 독일과 일본을 뺀 대부분 시장에서는 논픽션보다 픽션 쪽 관심이 더 높았다. Ghiazza는 이를 “‘and’ 전략”이라고 불렀다. 사람 낭독자는 그대로 남고 제작비를 아낀 만큼 더 많은 작품을 낸다는 것이다. “품질과 투명성이 매우 중요하다.”"
+                "x": "Its biggest differentiator is ‘relationship-based conversation’. The other character's reactions and the shape of the relationship change in varied ways depending on the content and context of what the user says. It also offers features for readers, such as collecting items as the story progresses and unlocking hidden illustrations hand-drawn by the authors."
               },
               {
                 "t": "p",
-                "x": "Audible은 조사 방법을 자세히 밝히지 않았다. 망설이는 출판사들에게 Ghiazza가 던진 메시지는 단호했다. “때는 바로 지금이다.”"
+                "x": "‘Teaz’ uses only officially contracted IP with clearly settled rights, and conversations take place within official settings approved by the original creators. After launch, the company plans to gradually introduce an ‘AU (Alternative Universe)’ mode dealing with worlds entirely different from the original, along with a ‘text RPG’ mode."
+              },
+              {
+                "t": "p",
+                "x": "Parent company Kidari Studio posted consolidated revenue of KRW 122.8 billion (1,228억 원) and operating profit of KRW 9 billion (90억 원) in the first half of 2026. Revenue rose 23% and operating profit 275% year on year. A company official said, “‘Teaz’ will expand the worlds of the original IP in new dimensions and establish itself as the company's new future growth engine.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "リスナーの約半数\nAIナレーションに前向き",
-          "body": "Audible依頼のNielsenIQ調査で11市場のリスナーは紙と電子書籍に回帰する。",
-          "mini_headline": "AI音声に前向きなリスナー",
+          "headline": "ウェブトゥーンの主人公と会話\nLezhin、Teazを発売",
+          "body": "Lezhinが公式ウェブトゥーンIPのAIキャラチャット「Teaz」を19日に発売する。",
+          "mini_headline": "LezhinのAIキャラチャット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+                "cap": "レジンエンターテインメントは、AIキャラクターチャットサービス「Teaz」を19日に発売する。"
               },
               {
                 "t": "p",
-                "x": "Audibleが委託したグローバル調査「The Future of Listening」はNielsenIQが実施し、U.S.、U.K.、欧州数カ国、日本、ブラジルなど11市場の消費者18,000人を対象とした。34%が、過去一年間に前年よりも多くのオーディオブックを聴いたと答えた。"
+                "x": "ウェブトゥーン企業キダリスタジオ(Kidari Studio)の系列会社レジンエンターテインメント(Lezhin Entertainment)は、自社の人気ウェブトゥーンのキャラクターと直接会話しながら読者だけの物語を作っていくAIキャラクターチャットサービス「Teaz」を10月19日に正式発売すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "リスナーの69%は聴いた作品をすでに読んでおり、オーディオで作家を知った人の63%がその作家の別の作品を購入した。AudibleのチーフコンテンツオフィサーRachel Ghiazzaは「オーディオブックはほかのフォーマットと競合しない」と語った。"
+                "x": "「Teaz」は、女性向けグローバルプラットフォーム「Bomtoon」と「Lezhin Comics」のオリジナルウェブトゥーンIPを活用した没入度の高い対話型コンテンツだ。利用者は原作の特定の時点に介入して登場人物の一人になったり、第3者の視点で世界観に入ったりする形で会話を進められる。"
               },
               {
                 "t": "p",
-                "x": "回答者の約半数がAIナレーションを試すと答え、ドイツと日本を除くほとんどの市場で、ノンフィクションよりフィクションへの関心が高かった。Ghiazzaはこれを「and戦略」と呼ぶ。人間の朗読者は残り、制作コストの削減分はより多くのタイトルの制作に充てるという。「品質と透明性が極めて重要だ」。"
+                "x": "最大の差別化ポイントは「関係型の会話」だ。利用者が投げかける会話の内容や文脈によって、相手キャラクターの反応や関係のあり方が多彩に変化する。物語の進行に応じたアイテム収集や、作家直筆の隠しイラストの解放など、読者向けの要素も用意した。"
               },
               {
                 "t": "p",
-                "x": "Audibleは調査手法の詳細を明らかにしていないが、ためらう出版社へのGhiazzaのメッセージは率直だった。「今がその時だ」。"
+                "x": "「Teaz」は権利関係が明確に整理された正式契約のIPのみを活用し、原作者が承認した公式設定の範囲内で会話が行われる。発売後は、原作とまったく異なる世界観を扱う「AU(Alternative Universe、パラレルワールド)」モードや「テキストRPG」モードなどを段階的に導入する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "親会社のキダリスタジオは2026年上半期、連結ベースで売上高1,228億ウォン、営業利益90億ウォンを記録した。前年同期比で売上高は23%、営業利益は275%増えた。同社関係者は「『Teaz』は原作IPの世界観を立体的に拡張し、会社の新たな将来の成長エンジンとして定着するだろう」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "约半数听众\n愿意接受AI朗读",
-          "body": "Audible委托NielsenIQ在11个市场调查发现，有声书会把听众带回纸书和电子书。",
-          "mini_headline": "听众对AI声音持开放态度",
+          "headline": "与网漫主角对话\nLezhin推出Teaz",
+          "body": "Lezhin将于19日推出基于官方网漫IP的AI角色聊天服务Teaz。",
+          "mini_headline": "Lezhin的AI角色聊天",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+                "cap": "Lezhin Entertainment将于19日推出AI角色聊天服务“Teaz”。"
               },
               {
                 "t": "p",
-                "x": "Audible委托开展的全球调查《The Future of Listening》由NielsenIQ执行，覆盖U.S.、U.K.、多个欧洲国家、日本和巴西等11个市场的18,000名消费者。约34%的受访者表示，过去一年听的有声书比前一年更多。"
+                "x": "网漫企业Kidari Studio旗下的Lezhin Entertainment宣布，将于10月19日正式推出AI角色聊天服务“Teaz”，读者可与旗下人气网漫角色直接对话，打造属于自己的故事。"
               },
               {
                 "t": "p",
-                "x": "69%的听众已读过他们所听的书，通过音频发现某位作者的人中有63%会继续购买该作者的其他作品。Audible首席内容官Rachel Ghiazza表示：“有声书与其他形式并非竞争关系。”"
+                "x": "“Teaz”是一款高沉浸度的对话式内容，基于女性向全球平台“Bomtoon”和“Lezhin Comics”的原创网漫IP。用户可以介入原作的特定时间点，成为其中一个角色，也可以从第3方视角进入世界观，引导对话展开。"
               },
               {
                 "t": "p",
-                "x": "约半数受访者表示愿意尝试AI朗读，除德国和日本外，大多数市场对小说的兴趣高于非虚构作品。Ghiazza称之为“and策略”：真人演播者仍将保留，节省下来的制作成本将用于出版更多作品。“质量和透明度至关重要。”"
+                "x": "其最大的差异化特点是“关系型对话”。角色的反应和关系走向会根据用户对话的内容和语境而发生多样变化。服务还为读者设置了随剧情推进收集道具、解锁作者亲笔隐藏插画等元素。"
               },
               {
                 "t": "p",
-                "x": "Audible没有详细说明调查方法，但Ghiazza对犹豫不决的出版商传达的信息十分直接：“时机就是现在。”"
+                "x": "“Teaz”只使用权利关系明确的正式签约IP，对话在原作者批准的官方设定范围内进行。上线后，公司计划逐步引入讲述与原作完全不同世界观的“AU（Alternative Universe，平行世界）”模式和“文字RPG”模式等。"
+              },
+              {
+                "t": "p",
+                "x": "母公司Kidari Studio 2026年上半年合并营收1,228亿韩元，营业利润90亿韩元，营收同比增长23%，营业利润同比增长275%。公司相关人士表示：“‘Teaz’将立体地拓展原作IP的世界观，成为公司新的未来增长引擎。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cerca de la mitad del público\nacepta la narración con AI",
-          "body": "Una encuesta de NielsenIQ encargada por Audible en 11 mercados halla que el audio lleva a leer en papel y en digital.",
-          "mini_headline": "Oyentes abiertos a las voces de AI",
+          "headline": "Charla con héroes de webtoon\nLezhin lanza Teaz, chat de AI",
+          "body": "Lezhin Entertainment lanzará el día 19 Teaz, un chat de personajes con AI basado en IP oficial de webtoons.",
+          "mini_headline": "El chat de personajes con AI de Lezhin",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+                "cap": "Lezhin Entertainment lanzará el día 19 su servicio de chat de personajes con AI ‘Teaz’."
               },
               {
                 "t": "p",
-                "x": "Una encuesta global encargada por Audible, “The Future of Listening”, fue realizada por NielsenIQ entre 18,000 consumidores de 11 mercados, entre ellos U.S., U.K., varios países europeos, Japón y Brasil. Un 34% afirmó haber escuchado más audiolibros en el último año que en el anterior."
+                "x": "Lezhin Entertainment, filial de la empresa de webtoons Kidari Studio, anunció que lanzará oficialmente el 19 de octubre ‘Teaz’, un servicio de chat de personajes con AI en el que los lectores conversan directamente con personajes de sus webtoons populares y crean sus propias historias."
               },
               {
                 "t": "p",
-                "x": "Un 69% de los oyentes ya había leído el título que escuchó, y el 63% de quienes descubrieron a un autor en audio compraron después otra obra suya. “Los audiolibros no compiten con otros formatos”, dijo Rachel Ghiazza, directora de contenidos de Audible."
+                "x": "‘Teaz’ es un contenido conversacional muy inmersivo basado en la IP de webtoons originales de Bomtoon, plataforma global orientada al público femenino, y de Lezhin Comics. Los usuarios pueden guiar la conversación interviniendo en un momento concreto de la obra original para convertirse en uno de los personajes, o entrando en su universo desde la perspectiva de una 3.ª persona."
               },
               {
                 "t": "p",
-                "x": "Cerca de la mitad de los encuestados dijo que probaría la narración con AI, con más interés por la ficción que por la no ficción en la mayoría de los mercados, salvo Alemania y Japón. Ghiazza la definió como “una estrategia de ‘and’”: los intérpretes humanos se mantienen y el ahorro en producción servirá para financiar más títulos. “La calidad y la transparencia son de vital importancia”."
+                "x": "Su principal diferencia es la ‘conversación relacional’. Las reacciones del personaje y la forma de la relación cambian de diversas maneras según el contenido y el contexto de lo que dice el usuario. También incluye elementos para los lectores, como recoger objetos a medida que avanza la historia y desbloquear ilustraciones ocultas dibujadas a mano por los autores."
               },
               {
                 "t": "p",
-                "x": "Audible no ha detallado la metodología de la encuesta, pero el mensaje de Ghiazza a las editoriales indecisas fue tajante: “El momento es ahora”."
+                "x": "‘Teaz’ solo utiliza IP con contratos oficiales y derechos claramente definidos, y las conversaciones se desarrollan dentro de la ambientación oficial aprobada por los autores originales. Tras el lanzamiento, la empresa prevé introducir de forma gradual un modo ‘AU (Alternative Universe, universo paralelo)’, que aborda mundos totalmente distintos del original, y un modo ‘RPG de texto’."
+              },
+              {
+                "t": "p",
+                "x": "La empresa matriz, Kidari Studio, registró en el primer semestre de 2026 unos ingresos consolidados de 122.8 mil millones de wones (1,228억 원) y un beneficio operativo de 9 mil millones de wones (90억 원). Los ingresos crecieron un 23% y el beneficio operativo un 275% interanual. Un responsable de la empresa afirmó: “‘Teaz’ ampliará de forma tridimensional el universo de la IP original y se consolidará como el nuevo motor de crecimiento futuro de la empresa”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "청취자 절반가량\nAI 낭독에 열려 있다",
-          "body": "Audible·NielsenIQ 11개 시장 조사서 오디오북이 책 구매로 이어졌다.",
-          "mini_headline": "AI 목소리에 열린 청취자들",
+        "en": {
+          "headline": "Chat with webtoon heroes:\nLezhin launches AI chat Teaz",
+          "body": "Lezhin Entertainment will launch Teaz, an AI character chat built on official webtoon IP, on the 19th.",
+          "mini_headline": "Lezhin's AI character chat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+                "cap": "Lezhin Entertainment will launch its AI character chat service ‘Teaz’ on the 19th."
               },
               {
                 "t": "p",
-                "x": "Audible이 의뢰한 글로벌 조사 “The Future of Listening”은 NielsenIQ가 수행했으며, U.S., U.K., 유럽 여러 나라, 일본, 브라질 등 11개 시장의 소비자 18,000명을 대상으로 했다. 응답자의 34%는 지난 한 해 동안 그 이전 해보다 오디오북을 더 많이 들었다고 답했다."
+                "x": "Lezhin Entertainment, an affiliate of webtoon company Kidari Studio, said it will officially launch ‘Teaz’ on October 19, an AI character chat service in which readers talk directly with characters from its popular webtoons and build their own stories."
               },
               {
                 "t": "p",
-                "x": "청취자의 69%는 들은 작품을 이미 읽은 적이 있었고, 오디오로 작가를 처음 알게 된 이들의 63%는 그 작가의 다른 작품을 구매했다. Audible의 최고콘텐츠책임자 Rachel Ghiazza는 “오디오북은 다른 형식과 경쟁하지 않는다”고 말했다."
+                "x": "‘Teaz’ is highly immersive interactive content built on original webtoon IP from Bomtoon, a global platform aimed at female readers, and Lezhin Comics. Users can steer the conversation by stepping into a specific point in the original story to become one of the characters, or by entering the story world from a 3rd-party perspective."
               },
               {
                 "t": "p",
-                "x": "응답자의 절반가량은 AI 낭독을 들어볼 의향이 있다고 답했고, 독일과 일본을 제외한 대부분 시장에서 논픽션보다 픽션에 대한 관심이 더 높았다. Ghiazza는 이를 “‘and’ 전략”이라고 불렀다. 사람 낭독자는 그대로 남고, 제작비 절감분은 더 많은 작품을 내는 데 쓴다는 것이다. “품질과 투명성이 매우 중요하다.”"
+                "x": "Its biggest differentiator is ‘relationship-based conversation’. The other character's reactions and the shape of the relationship change in varied ways depending on the content and context of what the user says. It also offers features for readers, such as collecting items as the story progresses and unlocking hidden illustrations hand-drawn by the authors."
               },
               {
                 "t": "p",
-                "x": "Audible은 조사 방법을 자세히 밝히지 않았지만, 망설이는 출판사들을 향한 Ghiazza의 메시지는 단호했다. “때는 바로 지금이다.”"
+                "x": "‘Teaz’ uses only officially contracted IP with clearly settled rights, and conversations take place within official settings approved by the original creators. After launch, the company plans to gradually introduce an ‘AU (Alternative Universe)’ mode dealing with worlds entirely different from the original, along with a ‘text RPG’ mode."
+              },
+              {
+                "t": "p",
+                "x": "Parent company Kidari Studio posted consolidated revenue of KRW 122.8 billion (1,228억 원) and operating profit of KRW 9 billion (90억 원) in the first half of 2026. Revenue rose 23% and operating profit 275% year on year. A company official said, “‘Teaz’ will expand the worlds of the original IP in new dimensions and establish itself as the company's new future growth engine.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "リスナーの約半数\nAIナレーションに前向き",
-          "body": "Audible依頼のNielsenIQ調査で11市場のリスナーは紙と電子書籍に回帰する。",
-          "mini_headline": "AI音声に前向きなリスナー",
+          "headline": "ウェブトゥーンの主人公と会話\nLezhin、Teazを発売",
+          "body": "Lezhinが公式ウェブトゥーンIPのAIキャラチャット「Teaz」を19日に発売する。",
+          "mini_headline": "LezhinのAIキャラチャット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+                "cap": "レジンエンターテインメントは、AIキャラクターチャットサービス「Teaz」を19日に発売する。"
               },
               {
                 "t": "p",
-                "x": "Audibleが委託したグローバル調査「The Future of Listening」はNielsenIQが実施し、U.S.、U.K.、欧州数カ国、日本、ブラジルなど11市場の消費者18,000人を対象とした。34%が、過去一年間に前年よりも多くのオーディオブックを聴いたと答えた。"
+                "x": "ウェブトゥーン企業キダリスタジオ(Kidari Studio)の系列会社レジンエンターテインメント(Lezhin Entertainment)は、自社の人気ウェブトゥーンのキャラクターと直接会話しながら読者だけの物語を作っていくAIキャラクターチャットサービス「Teaz」を10月19日に正式発売すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "リスナーの69%は聴いた作品をすでに読んでおり、オーディオで作家を知った人の63%がその作家の別の作品を購入した。AudibleのチーフコンテンツオフィサーRachel Ghiazzaは「オーディオブックはほかのフォーマットと競合しない」と語った。"
+                "x": "「Teaz」は、女性向けグローバルプラットフォーム「Bomtoon」と「Lezhin Comics」のオリジナルウェブトゥーンIPを活用した没入度の高い対話型コンテンツだ。利用者は原作の特定の時点に介入して登場人物の一人になったり、第3者の視点で世界観に入ったりする形で会話を進められる。"
               },
               {
                 "t": "p",
-                "x": "回答者の約半数がAIナレーションを試すと答え、ドイツと日本を除くほとんどの市場で、ノンフィクションよりフィクションへの関心が高かった。Ghiazzaはこれを「and戦略」と呼ぶ。人間の朗読者は残り、制作コストの削減分はより多くのタイトルの制作に充てるという。「品質と透明性が極めて重要だ」。"
+                "x": "最大の差別化ポイントは「関係型の会話」だ。利用者が投げかける会話の内容や文脈によって、相手キャラクターの反応や関係のあり方が多彩に変化する。物語の進行に応じたアイテム収集や、作家直筆の隠しイラストの解放など、読者向けの要素も用意した。"
               },
               {
                 "t": "p",
-                "x": "Audibleは調査手法の詳細を明らかにしていないが、ためらう出版社へのGhiazzaのメッセージは率直だった。「今がその時だ」。"
+                "x": "「Teaz」は権利関係が明確に整理された正式契約のIPのみを活用し、原作者が承認した公式設定の範囲内で会話が行われる。発売後は、原作とまったく異なる世界観を扱う「AU(Alternative Universe、パラレルワールド)」モードや「テキストRPG」モードなどを段階的に導入する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "親会社のキダリスタジオは2026年上半期、連結ベースで売上高1,228億ウォン、営業利益90億ウォンを記録した。前年同期比で売上高は23%、営業利益は275%増えた。同社関係者は「『Teaz』は原作IPの世界観を立体的に拡張し、会社の新たな将来の成長エンジンとして定着するだろう」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "约半数听众\n愿意接受AI朗读",
-          "body": "Audible委托NielsenIQ在11个市场调查发现，有声书会把听众带回纸书和电子书。",
-          "mini_headline": "听众对AI声音持开放态度",
+          "headline": "与网漫主角对话\nLezhin推出Teaz",
+          "body": "Lezhin将于19日推出基于官方网漫IP的AI角色聊天服务Teaz。",
+          "mini_headline": "Lezhin的AI角色聊天",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+                "cap": "Lezhin Entertainment将于19日推出AI角色聊天服务“Teaz”。"
               },
               {
                 "t": "p",
-                "x": "Audible委托开展的全球调查《The Future of Listening》由NielsenIQ执行，覆盖U.S.、U.K.、多个欧洲国家、日本和巴西等11个市场的18,000名消费者。约34%的受访者表示，过去一年听的有声书比前一年更多。"
+                "x": "网漫企业Kidari Studio旗下的Lezhin Entertainment宣布，将于10月19日正式推出AI角色聊天服务“Teaz”，读者可与旗下人气网漫角色直接对话，打造属于自己的故事。"
               },
               {
                 "t": "p",
-                "x": "69%的听众已读过他们所听的书，通过音频发现某位作者的人中有63%会继续购买该作者的其他作品。Audible首席内容官Rachel Ghiazza表示：“有声书与其他形式并非竞争关系。”"
+                "x": "“Teaz”是一款高沉浸度的对话式内容，基于女性向全球平台“Bomtoon”和“Lezhin Comics”的原创网漫IP。用户可以介入原作的特定时间点，成为其中一个角色，也可以从第3方视角进入世界观，引导对话展开。"
               },
               {
                 "t": "p",
-                "x": "约半数受访者表示愿意尝试AI朗读，除德国和日本外，大多数市场对小说的兴趣高于非虚构作品。Ghiazza称之为“and策略”：真人演播者仍将保留，节省下来的制作成本将用于出版更多作品。“质量和透明度至关重要。”"
+                "x": "其最大的差异化特点是“关系型对话”。角色的反应和关系走向会根据用户对话的内容和语境而发生多样变化。服务还为读者设置了随剧情推进收集道具、解锁作者亲笔隐藏插画等元素。"
               },
               {
                 "t": "p",
-                "x": "Audible没有详细说明调查方法，但Ghiazza对犹豫不决的出版商传达的信息十分直接：“时机就是现在。”"
+                "x": "“Teaz”只使用权利关系明确的正式签约IP，对话在原作者批准的官方设定范围内进行。上线后，公司计划逐步引入讲述与原作完全不同世界观的“AU（Alternative Universe，平行世界）”模式和“文字RPG”模式等。"
+              },
+              {
+                "t": "p",
+                "x": "母公司Kidari Studio 2026年上半年合并营收1,228亿韩元，营业利润90亿韩元，营收同比增长23%，营业利润同比增长275%。公司相关人士表示：“‘Teaz’将立体地拓展原作IP的世界观，成为公司新的未来增长引擎。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cerca de la mitad del público\nacepta la narración con AI",
-          "body": "Una encuesta de NielsenIQ encargada por Audible en 11 mercados halla que el audio lleva a leer en papel y en digital.",
-          "mini_headline": "Oyentes abiertos a las voces de AI",
+          "headline": "Charla con héroes de webtoon\nLezhin lanza Teaz, chat de AI",
+          "body": "Lezhin Entertainment lanzará el día 19 Teaz, un chat de personajes con AI basado en IP oficial de webtoons.",
+          "mini_headline": "El chat de personajes con AI de Lezhin",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png"
+                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+                "cap": "Lezhin Entertainment lanzará el día 19 su servicio de chat de personajes con AI ‘Teaz’."
               },
               {
                 "t": "p",
-                "x": "Una encuesta global encargada por Audible, “The Future of Listening”, fue realizada por NielsenIQ entre 18,000 consumidores de 11 mercados, entre ellos U.S., U.K., varios países europeos, Japón y Brasil. Un 34% afirmó haber escuchado más audiolibros en el último año que en el anterior."
+                "x": "Lezhin Entertainment, filial de la empresa de webtoons Kidari Studio, anunció que lanzará oficialmente el 19 de octubre ‘Teaz’, un servicio de chat de personajes con AI en el que los lectores conversan directamente con personajes de sus webtoons populares y crean sus propias historias."
               },
               {
                 "t": "p",
-                "x": "Un 69% de los oyentes ya había leído el título que escuchó, y el 63% de quienes descubrieron a un autor en audio compraron después otra obra suya. “Los audiolibros no compiten con otros formatos”, dijo Rachel Ghiazza, directora de contenidos de Audible."
+                "x": "‘Teaz’ es un contenido conversacional muy inmersivo basado en la IP de webtoons originales de Bomtoon, plataforma global orientada al público femenino, y de Lezhin Comics. Los usuarios pueden guiar la conversación interviniendo en un momento concreto de la obra original para convertirse en uno de los personajes, o entrando en su universo desde la perspectiva de una 3.ª persona."
               },
               {
                 "t": "p",
-                "x": "Cerca de la mitad de los encuestados dijo que probaría la narración con AI, con más interés por la ficción que por la no ficción en la mayoría de los mercados, salvo Alemania y Japón. Ghiazza la definió como “una estrategia de ‘and’”: los intérpretes humanos se mantienen y el ahorro en producción servirá para financiar más títulos. “La calidad y la transparencia son de vital importancia”."
+                "x": "Su principal diferencia es la ‘conversación relacional’. Las reacciones del personaje y la forma de la relación cambian de diversas maneras según el contenido y el contexto de lo que dice el usuario. También incluye elementos para los lectores, como recoger objetos a medida que avanza la historia y desbloquear ilustraciones ocultas dibujadas a mano por los autores."
               },
               {
                 "t": "p",
-                "x": "Audible no ha detallado la metodología de la encuesta, pero el mensaje de Ghiazza a las editoriales indecisas fue tajante: “El momento es ahora”."
+                "x": "‘Teaz’ solo utiliza IP con contratos oficiales y derechos claramente definidos, y las conversaciones se desarrollan dentro de la ambientación oficial aprobada por los autores originales. Tras el lanzamiento, la empresa prevé introducir de forma gradual un modo ‘AU (Alternative Universe, universo paralelo)’, que aborda mundos totalmente distintos del original, y un modo ‘RPG de texto’."
+              },
+              {
+                "t": "p",
+                "x": "La empresa matriz, Kidari Studio, registró en el primer semestre de 2026 unos ingresos consolidados de 122.8 mil millones de wones (1,228억 원) y un beneficio operativo de 9 mil millones de wones (90억 원). Los ingresos crecieron un 23% y el beneficio operativo un 275% interanual. Un responsable de la empresa afirmó: “‘Teaz’ ampliará de forma tridimensional el universo de la IP original y se consolidará como el nuevo motor de crecimiento futuro de la empresa”."
               }
             ]
           }

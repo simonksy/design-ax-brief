@@ -48,6 +48,11 @@ API = "https://graph.instagram.com/v23.0"
 CAROUSEL_MIN, CAROUSEL_MAX = 2, 20
 CAPTION_MAX = 2200
 VIDEO_MIN_S, VIDEO_MAX_S = 3, 60      # 캐러셀 안의 영상
+# 상태 조회 간격. 영상 변환은 30초 넘게 걸리는 쪽이 보통이므로 30초에서
+# 시작해 벌려 간다 — 10초로 시작하면 앞머리 조회가 전부 헛걸음이고, 그
+# 헛걸음이 모여 한도(4/2207051)에 걸린다.
+POLL_START, POLL_MAX = 30, 90
+BACKOFF = (90, 180, 300)              # 한도에 걸렸을 때 물러서는 시간
 CARD_W, CARD_H = 1080, 1350
 
 
@@ -213,17 +218,51 @@ def url_ok(url, timeout=15):
         return 0, str(e)[:60]
 
 
-def api(path, params, method="GET"):
+def is_rate_limited(body):
+    """'Application request limit reached'(code 4 · 2207051) 인가.
+
+    이건 회차가 잘못됐다는 뜻이 아니라 잠깐 물러서라는 뜻이다. 끝내 버리면
+    이미 만들어 둔 컨테이너를 버리고 처음부터 다시 하게 된다."""
+    try:
+        e = json.loads(body).get("error") or {}
+    except (ValueError, AttributeError):
+        return False
+    return e.get("code") == 4 or e.get("error_subcode") == 2207051
+
+
+def poll_plan(limit=600, start=POLL_START, cap=POLL_MAX):
+    """상태를 **언제** 물을지. 초 단위 누적 시각이다.
+
+    묻기 전에 먼저 기다린다 — 방금 만든 컨테이너가 FINISHED 일 수는 없으므로
+    0초 조회는 언제나 버리는 요청이다. 간격은 벌려 가며 10분을 덮는다."""
+    plan, t, gap = [], 0, start
+    while t < limit:
+        t += gap
+        plan.append(t)
+        gap = min(int(gap * 1.6), cap)
+    return plan
+
+
+def api(path, params, method="GET", retries=3, soft=False):
     data = urllib.parse.urlencode(params).encode()
     url = f"{API}/{path}"
-    req = (urllib.request.Request(url, data=data, method="POST") if method == "POST"
-           else urllib.request.Request(f"{url}?{data}"))
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            return json.loads(r.read().decode())
-    except urllib.error.HTTPError as e:
-        body = e.read().decode(errors="replace")
-        raise SystemExit(f"API {e.code}: {body[:400]}")
+    for attempt in range(retries + 1):
+        req = (urllib.request.Request(url, data=data, method="POST") if method == "POST"
+               else urllib.request.Request(f"{url}?{data}"))
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return json.loads(r.read().decode())
+        except urllib.error.HTTPError as e:
+            body = e.read().decode(errors="replace")
+            if is_rate_limited(body) and attempt < retries:
+                back = BACKOFF[attempt]
+                print(f"    한도에 걸렸다 — {back}초 뒤 다시 묻는다 "
+                      f"({attempt + 1}/{retries})")
+                time.sleep(back)
+                continue
+            if soft and is_rate_limited(body):
+                return {"_limited": True}
+            raise SystemExit(f"API {e.code}: {body[:400]}")
 
 
 def check(post, env, verbose=True):
@@ -283,11 +322,14 @@ def wait_finished(cid, tok, label, limit=600):
     영상은 Meta가 내려받아 변환해야 하고, 캐러셀은 자식들을 묶어야 한다.
     둘 다 비동기라 바로 다음 단계로 가면 'Media ID is not available' 로 끝난다.
 
-    간격을 벌려 가며 묻는다(10→20→40→60초). 5초마다 물었더니 'Application
-    request limit reached'(4/2207051)로 계정이 잠시 막혔다 — 기다리는 일에
-    요청을 쓰면 정작 올릴 요청이 모자란다."""
-    waited, gap = 0, 10
-    while waited < limit:
+    **묻기 전에 먼저 기다린다**(poll_plan). 만들자마자 물으면 반드시
+    IN_PROGRESS 라 버리는 요청이고, 그 버리는 요청이 모여 'Application
+    request limit reached'(4/2207051)에 걸린다 — 기다리는 일에 요청을 쓰면
+    정작 올릴 요청이 모자란다."""
+    waited = 0
+    for at in poll_plan(limit):
+        time.sleep(at - waited)
+        waited = at
         st = api(cid, {"fields": "status_code,status", "access_token": tok})
         code = st.get("status_code")
         if code == "FINISHED":
@@ -295,19 +337,20 @@ def wait_finished(cid, tok, label, limit=600):
         if code == "ERROR":
             raise SystemExit(f"  준비 실패: {label} — {st.get('status')}")
         print(f"    {label} 기다리는 중… ({code}, {waited}초)")
-        time.sleep(gap)
-        waited += gap
-        gap = min(gap * 2, 60)           # 10 → 20 → 40 → 60초
     raise SystemExit(f"  준비가 끝나지 않았다: {label}")
 
 
-def already_posted(caption, env, cache={}):
+def already_posted(caption, env, fresh=False, cache={}):
     """이 캡션으로 이미 올라간 게시물이 있나.
 
     발행 요청이 400으로 끝나도 Meta 가 뒤늦게 처리해 실제로는 올라가는 일이
     있다(오늘만 두 번). 그러면 스크립트는 실패로 알고 표시를 그대로 두므로,
     다시 돌리는 순간 같은 글이 두 번 올라간다. 올리기 직전에 최근 게시물의
-    첫 줄과 맞춰 본다."""
+    첫 줄과 맞춰 본다. `fresh=True` 는 캐시를 버리고 다시 묻는다 — 발행이
+    한도에 걸린 **직후**에는 방금 올라갔는지를 봐야 하므로 묵은 목록으로는
+    안 된다."""
+    if fresh:
+        cache.pop("data", None)
     if "data" not in cache:
         try:
             cache["data"] = api(f"{env['IG_USER_ID']}/media",
@@ -350,7 +393,21 @@ def publish(post, items, caption, env):
     # 'Media ID is not available (9007/2207027) — 아직 준비가 완료되지 않아'
     # 로 끝난다. 묶는 일 자체가 비동기다.
     wait_finished(parent, tok, "캐러셀")
-    res = api(f"{uid}/media_publish", {"creation_id": parent, "access_token": tok}, "POST")
+    # 발행만은 한도에 걸려도 **곧바로 다시 보내지 않는다.** 403/400 으로
+    # 끝나도 Meta 가 뒤늦게 올려 버리는 일이 있어(10-14 에 네 번 모두 그랬다)
+    # 다시 보내면 같은 글이 두 번 올라간다. 물러서서 피드를 먼저 본다.
+    go = {"creation_id": parent, "access_token": tok}
+    res = api(f"{uid}/media_publish", go, "POST", retries=0, soft=True)
+    if res.get("_limited"):
+        print(f"    발행이 한도에 걸렸다 — {BACKOFF[0]}초 뒤 피드를 확인한다")
+        time.sleep(BACKOFF[0])
+        link = already_posted(caption, env, fresh=True)
+        if link:
+            print(f"  이미 올라가 있다 — 다시 보내지 않는다 → {link}")
+            res = {"id": link}
+        else:
+            print("  올라가지 않았다 — 한 번 더 보낸다")
+            res = api(f"{uid}/media_publish", go, "POST")
     print(f"  올림 → {res.get('id')}")
 
     done = os.path.join(os.path.dirname(d), MARK_DONE + name[1:])

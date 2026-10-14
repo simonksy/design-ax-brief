@@ -7101,6 +7101,143 @@
           "x": "Edge售价180美元，今天开启预购，10月27日发货。这是Google首款可维修的健身手环，电池可更换，但用户无法自行更换。"
         }
       ]
+    },
+    "gadgets/gadgets-android-scam-alerts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+          "cap": "Google"
+        },
+        {
+          "t": "p",
+          "x": "Google宣布为Android推出新的防诈骗保护，其中包括Messages中的一项可选开启设置，开启后即启用Scam Detection：它借助Google最先进的Gemini模型评估发件人意图，若信息可能来自不法分子便发出警告。信息在Private AI Compute中分析，该环境会对信息加密，并在包括Google在内任何人都无法访问的安全空间中处理。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini Nano还会在你点击之前，在设备端检查Messages中的链接。该功能将在未来几周内陆续登陆Pixel 10+、Galaxy S26系列、Galaxy Z Flip和Fold 8等部分设备。聊天通知中的Scam Detection也将扩展到Pixel之外，Honor、Motorola、OPPO、OnePlus、realme、vivo和Xiaomi预计今年晚些时候启用。"
+        },
+        {
+          "t": "p",
+          "x": "所有运行Android 15及更高版本的设备将在本月晚些时候获得自动屏幕共享隐私保护，当屏幕上显示Chrome或Android WebView时，会隐藏密码、银行信息和银行卡安全码。十二月初，来电转接保护将登陆Pixel及部分其他设备。在巴西，Android会核验自称来自合作银行的来电，自六月以来已拦截超过三百万通虚假电话。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-intelligence-china": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "据Bloomberg报道，在经历两年的监管延误后，Apple计划通过iOS 27.3将Apple Intelligence引入中国。此次推出将包括照片编辑等基础Apple Intelligence功能，但Siri AI不会上线。Image Playground和新版Genmoji也将缺席，文本生成工具也会受到限制。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "South China Morning Post今天报道，中国工业和信息化部近期向Apple发放了网络接入许可，允许其将Alibaba的Qwen和Tongyi Wanxiang模型加入iPhone Duo、iPhone 18 Pro及更早的iPhones，为Apple Intelligence的首发铺平了道路。"
+        },
+        {
+          "t": "p",
+          "x": "Apple在iOS 18.1中推出了首批Apple Intelligence功能，但自发布以来中国市场一直缺席。Apple已于七月获得在中国推出Apple Intelligence的初步许可，但面向消费者推出还需要额外许可。"
+        },
+        {
+          "t": "p",
+          "x": "中国限制外国AI技术，这意味着Apple必须与Alibaba和Baidu合作，才能在中国推出Apple Intelligence。Apple还必须允许中国政府审批AI模型的持续更新。"
+        },
+        {
+          "t": "p",
+          "x": "Huawei等中国竞争对手手机厂商早已提供人工智能功能，而Apple因缺乏同类工具一直处于劣势。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-minions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+          "cap": "Apple"
+        },
+        {
+          "t": "p",
+          "x": "据Apple研究人员近期在arXiv上发表的一篇论文介绍，Apple内部使用一套名为“Minions”的系统，这是一个由闲置Macs组成的“虚拟GPU云”。它接手停滞的AI任务——其中一些曾在公司GPU队列中面临10-plus-hour的等待——并将其分发到网络中的Mac上，把等待时间缩短到几分钟。它只处理AI推理：用开源Hugging Face模型生成嵌入，以及通过Ollama进行LLM文本生成。"
+        },
+        {
+          "t": "p",
+          "x": "Minion Server将任务拆分为子任务并存入PostgreSQL；每台Mac上的Minion Executor在没有中央调度器的情况下通过REST APIs拉取下一个子任务，从Amazon S3读取输入，并在自己的GPU上运行。Minion Watchdog跟踪五分钟一次的心跳，当某台Mac休眠、离线或被主人收回时，会把任务重新排队。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+          "cap": "Apple的Minions系统示意图（Apple，AI-generated）"
+        },
+        {
+          "t": "p",
+          "x": "论文称，Minions无需申请新的GPU，基础设施成本降为零（不计电费和硬件损耗）。参与方式是非正式的：团队成员可能会发Slack消息，请别人运行executor。各团队担心数据在本组以外的设备上运行，Apple通过限定在团队和组织范围内的部署来缓解这一问题。作者计划将Minions扩展到模型训练，并表示有朝一日，“全球社区”的闲置Macs或许能组成共享的GPU池。目前它只在Apple内部运行。"
+        }
+      ]
+    },
+    "gadgets/gadgets-hmd-flip-companion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+          "cap": "HMD 2660 Flip Senior Edition正式发布"
+        },
+        {
+          "t": "p",
+          "x": "HMD推出了面向老年用户的功能机HMD 2660 Flip Senior Edition，其最大亮点是来自inTouch的AI-powered陪伴助手Mary，HMD于2026年三月与inTouch达成合作。Mary内置于手机中，无需额外安装应用。"
+        },
+        {
+          "t": "p",
+          "x": "Mary可以聊从历史、自然到个人经历的各种话题，会讲故事、玩记忆游戏，还能记住之前对话中的细节。它语速缓慢，能容忍较长的停顿，并使用简单的语言；用户从菜单中打开它并按下通话键即可。"
+        },
+        {
+          "t": "p",
+          "x": "问题在于：手机只附带五小时与Mary的免费对话。此后，用户每月须支付€19.90才能继续使用，还可能产生运营商费用。订阅不会自动续费，即使不订阅，手机也能正常使用。"
+        },
+        {
+          "t": "p",
+          "x": "硬件与普通版2660 Flip相同：2.8-inch QVGA主屏、1.77-inch外屏、Unisoc T107、可拆卸的1,450 mAh电池、IP54以及S30+ 系统。该机通过HMD的UK官方商店发售，售价£79.99，配色为Cosy Black。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-homeview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple今天开放了智能家居中枢HomeView的预订。HomeView是一款7英寸智能显示屏兼音箱，旨在成为家庭中最多6名成员访问和控制Apple设备、应用以及目前仍处于测试阶段的生成式AI聊天机器人Siri的核心入口。"
+        },
+        {
+          "t": "p",
+          "x": "用户可以对HomeView说话来控制智能家居设备，例如让Siri关上智能百叶窗或启动智能门锁。HomeView还能同时直播最多9路视频画面。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+          "cap": "用作智能家居中枢的Apple HomeView。"
+        },
+        {
+          "t": "p",
+          "x": "HomeView与Amazon Echo Show等设备竞争，它通过内置摄像头识别使用者并显示其个人资料。用户可将个人资料关联到支持Apple Intelligence的iPhone或iPad，以使用Messages、Calendar、Reminders和FaceTime。Apple表示，Siri请求可以在本地运行，也可以通过Private Cloud Compute运行。"
+        },
+        {
+          "t": "p",
+          "x": "Liquid Retina（LCD）屏幕亮度范围为0.3至500尼特，可在扬声器底座上方的不锈钢铰链上倾斜。Schneider Home生产的壁挂支架售价60美元起。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple今天开始接受HomeView预订。该产品将于11月13日上市，售价299美元。"
+        }
+      ]
     }
   }
 }

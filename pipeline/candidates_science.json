@@ -1,152 +1,169 @@
 {
-  "date": "2026-10-14",
   "section": "science",
-  "now_iso": "2026-10-13T22:03:28Z",
+  "now_iso": "2026-10-14T22:00:44Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "How artificial neural networks build their own learning machinery",
-      "url": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
-      "source": "MIT News",
-      "category": "science",
-      "published_iso": "2026-10-13T17:00:00-04:00",
-      "excerpt": "MIT neuroscientists showed that a randomly connected artificial neural network, given simple rules about how and when connections should change, can reshape itself into an efficient self-supervised learning system.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
-    },
-    {
-      "title": "Scientists worry AI is stealing their ideas",
-      "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+      "title": "Amateur astronomer harnesses AI to find a possible hidden exoplanet",
+      "url": "https://www.scientificamerican.com/article/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet/",
       "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-13T08:00:00-04:00",
-      "excerpt": "Researchers are using AI as a sounding board throughout their work, but concerns are growing that companies may present users' ideas as those of their models.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/2d2cb012-db85-4856-a514-84292386e378/surveillance-from-AI.jpg?m=1791817128.409&w=1200"
+      "published_iso": "2026-10-14T07:00:00-04:00",
+      "excerpt": "Evidence for a possible super-Earth had been lurking for years in NASA TESS data; amateur Pavel Rabtsevich found it with help from AI tools.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200"
     },
     {
-      "title": "How attachment theory can help us understand AI relationships",
-      "url": "https://www.scientificamerican.com/article/how-attachment-theory-can-help-us-understand-ai-relationships/",
+      "title": "New 'First Proof' exam reveals how AI-powered math is a pay-to-play sport",
+      "url": "https://www.scientificamerican.com/article/new-first-proof-exam-reveals-how-ai-powered-math-is-a-pay-for-play-sport/",
       "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-04T06:00:00-04:00",
-      "excerpt": "Psychologists' attachment framework, which describes the most significant relationships in people's lives, offers a lens for understanding the bonds people form with AI companions.",
-      "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg?m=1785858312.019&w=1200"
+      "published_iso": "2026-10-14T15:00:00-04:00",
+      "excerpt": "A new research-level math benchmark confirms some frontier AIs are becoming exceptional tools for mathematicians, while open-source models still struggle.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
     },
     {
-      "title": "Simulating student learning for better AI tutoring",
-      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
-      "source": "Microsoft Research",
+      "title": "OpenAI's blockbuster Navier-Stokes proof isn't what we thought it was",
+      "url": "https://www.scientificamerican.com/article/openais-blockbuster-navier-stokes-proof-isnt-what-we-thought-it-was/",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-12T16:00:00+00:00",
-      "excerpt": "StudentSim is a Microsoft Research system that models how individual learners engage with AI tutors, letting developers evaluate and improve tutoring tools in subjects like chess and writing before testing them with real students.",
-      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-TWLIFB-1200x627-1.jpg"
+      "published_iso": "2026-10-13T12:42:00-04:00",
+      "excerpt": "Rumors that OpenAI's Navier-Stokes result appropriated two mathematicians' work may have been overblown, but the episode shows how AI is reshaping credit in mathematics.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/11c2eb7a-99d8-42cb-a3d5-5d44897705ef/openai-fluid.jpeg?m=1791912843.397&w=1200"
     },
     {
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "source": "Google DeepMind",
-      "category": "science",
-      "published_iso": "2026-10-13T16:01:58+00:00",
-      "excerpt": "Google says Gemini 4 Argon leads the ERQA embodied-reasoning benchmark, with physical reasoning, zero-shot robot control, Real2Sim and agentic workflows for robotics.",
-      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png"
-    },
-    {
-      "title": "'I won't trust AI': Readers share mixed reaction to AI tools that calculate people's biological ages",
-      "url": "https://www.livescience.com/health/aging/i-wont-trust-ai-readers-share-mixed-reaction-to-ai-tools-that-calculate-peoples-biological-ages",
+      "title": "Physicists develop early warning system that predicts when an AI is about to go rogue",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
       "source": "Live Science",
       "category": "science",
-      "published_iso": "2026-10-13T20:40:36Z",
-      "excerpt": "Scientists have developed AI tools that estimate a person's 'biological age'. Live Science asked readers whether they would be comfortable using them, and the responses were mixed.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/MYcWzJneZZTnZwKpt3p7ae.gif"
+      "published_iso": "2026-10-14T16:34:35Z",
+      "excerpt": "A physics-derived formula tracks an AI model's internal 'compass needle' to flag undesirable outputs before they are produced.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/FbvAfyewLbrd6gain3RCk-2000-80.jpg"
     },
     {
-      "title": "Honda Wants to Put a Robotic Lab Assistant on Future Commercial Space Stations",
-      "url": "https://www.universetoday.com/articles/honda-wants-to-put-a-robotic-lab-assistant-on-future-commercial-space-stations",
-      "source": "Universe Today",
+      "title": "OpenAI claims we've entered the AGI era — has GPT-6 Astra really demonstrated general intelligence?",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/openai-claims-weve-entered-the-agi-era-has-gpt-6-astra-really-demonstrated-general-intelligence",
+      "source": "Live Science",
       "category": "science",
-      "published_iso": "2026-10-11T12:33:57+00:00",
-      "excerpt": "Honda is developing a robotic lab assistant intended to run experiments aboard future commercial space stations, extending its robotics work into automated science in orbit.",
-      "og_image": "https://www.universetoday.com/article_images/Embed_20261007_121216.webp"
+      "published_iso": "2026-10-08T09:00:00Z",
+      "excerpt": "OpenAI says GPT-6 Astra brings humanity to the threshold of AGI, but external evaluators argue inflated lab metrics and opaque testing obscure its true reliability.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/fy9yCG9mVQfxzAgEFCXPh5-2000-80.jpg"
     },
     {
-      "title": "AI system could transform rabies testing around the world",
-      "url": "https://phys.org/news/2026-10-ai-rabies-world.html",
+      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-10-14T16:14:00Z",
+      "excerpt": "A new technical report shows a Geospatial Reasoning agent combining domain foundation models, spatial tools and upfront planning to do planetary-scale analysis and prediction that standalone LLMs cannot.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+    },
+    {
+      "title": "Analyzing technical documents with Deep Review",
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-10-14T16:14:00Z",
+      "excerpt": "After running on 16,000+ submissions at STOC, ICML, NeurIPS and ICLR, Google's AI peer-review system Deep Review launches publicly for rigorous verification of mathematical and scientific documents.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+    },
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://allenai.org/blog/hiro-acev2",
+      "source": "Ai2",
+      "category": "science",
+      "published_iso": "2026-10-14T08:00:00Z",
+      "excerpt": "Ai2's ML climate emulator HiRO-ACEv2 captures extreme rain, wind and pressure events at 3 km resolution for about 1/300th the cost of the X-SHiELD physics model.",
+      "og_image": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+    },
+    {
+      "title": "How Molmo 2's open release helped an MIT researcher rethink fish tracking",
+      "url": "https://allenai.org/blog/molmo2fish",
+      "source": "Ai2",
+      "category": "science",
+      "published_iso": "2026-10-13T08:00:00Z",
+      "excerpt": "MIT researcher Kai Van Brunt built Molmo2Fish on the open Molmo 2 model to track salmon in sonar footage and correct tracking errors using plain language.",
+      "og_image": "https://www.datocms-assets.com/64837/1791919335-adobestock-554340853-1550x810-2026-10-13t18-36-01.png"
+    },
+    {
+      "title": "Now in Nature: Retrofitting language models to operate over bytes",
+      "url": "https://allenai.org/blog/bolmo-nature",
+      "source": "Ai2",
+      "category": "science",
+      "published_iso": "2026-10-07T08:00:00Z",
+      "excerpt": "The technique behind Ai2's byte-level Bolmo language models is now published in Nature, with new checkpoints showing it generalizes beyond Olmo to other model families.",
+      "og_image": "https://www.datocms-assets.com/64837/1791355720-nature-cover-for-release-thumbnail.jpg"
+    },
+    {
+      "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-10-13T20:01:11-04:00",
+      "excerpt": "Scientists used AI to uncover nearly 10,000 reactions in CO2-to-fuel conversion on copper catalysts, revealing pathways traditional models missed and sharply improving predictions.",
+      "og_image": "https://www.sciencedaily.com/images/1920/surface-of-copper-catalyst.webp"
+    },
+    {
+      "title": "AI can act exactly like a human, but we still don't think it's conscious",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+      "source": "ScienceDaily",
+      "category": "science",
+      "published_iso": "2026-10-13T21:41:55-04:00",
+      "excerpt": "A study finds people rate even the most responsive AI as less conscious than the least responsive human, drawing a sharp line between human and machine minds even when behavior is identical.",
+      "og_image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp"
+    },
+    {
+      "title": "AI-enhanced weather model doubles predictive power two to six weeks out",
+      "url": "https://phys.org/news/2026-10-ai-weather-power-weeks.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "excerpt": "University of Surrey and UK Animal and Plant Health Agency researchers built a deep learning workflow that detects rabies infection in cell cultures and measures antibody levels, classifying samples with a reported 99.6% accuracy from more than 2,300 fluorescence images.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-system-could-transf.jpg"
+      "published_iso": "2026-10-14T11:00:47-04:00",
+      "excerpt": "MIT-led researchers built a machine-learning layer that learns and corrects ECMWF forecast errors, roughly doubling subseasonal (2-6 week) skill and improving extreme-weather prediction.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg"
     },
     {
-      "title": "Rangers reimagine AI in wildlife monitoring",
-      "url": "https://phys.org/news/2026-10-rangers-reimagine-ai-wildlife.html",
+      "title": "AI-assisted math advance highlights gap between finding answers and judging their significance",
+      "url": "https://phys.org/news/2026-10-ai-math-advance-highlights-gap.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "excerpt": "Indigenous rangers in West Arnhem, Australia, with CDU and CSIRO researchers, ran the MegaDetector AI model on about 1,572 hours of camera-trap footage and cut the images needing human review by roughly 81%.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/rangers-reimagine-ai-i.jpg"
+      "published_iso": "2026-10-14T16:50:01-04:00",
+      "excerpt": "Princeton researchers paired a reasoning model with a coding agent to tighten bounds on the Grothendieck constant, but the system stalled until humans reframed the question.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-is-great-at-math-bu.jpg"
     },
     {
-      "title": "X-rays and AI reveal how spacecraft heat shields burn in real time",
-      "url": "https://phys.org/news/2026-10-rays-ai-reveal-spacecraft-shields.html",
+      "title": "Tracking down cellular gene functions with AI and microscopy",
+      "url": "https://phys.org/news/2026-10-tracking-cellular-gene-functions-ai.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-05T00:00:00Z",
-      "excerpt": "Berkeley Lab and NASA researchers used X-ray micro-CT to watch heat shield materials break down at up to 900C, with a generative adversarial network turning fast low-resolution scans into high-resolution 3D records.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/x-rays-and-ai-reveal-h.jpg"
+      "published_iso": "2026-10-08T17:45:03-04:00",
+      "excerpt": "LMU Munich's AI screened microscopy images of ~70 million cells for visual changes caused by gene edits, recovering known autophagy regulators and flagging new candidate genes.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg"
     },
     {
-      "title": "AI tool reveals what attracts immune cells to tumors and what keeps them away",
-      "url": "https://medicalxpress.com/news/2026-10-ai-tool-reveals-immune-cells.html",
-      "source": "Medical Xpress",
+      "title": "As AI Closed In on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
+      "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "source": "Quanta Magazine",
       "category": "science",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "excerpt": "MD Anderson researchers developed SPACER, an interpretable AI model using spatial transcriptomics across 37 cancer datasets, finding antigen-presentation genes draw T cells in while high mucin levels act as barriers linked to poorer immunotherapy response.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-tool-reveals-what-a.jpg"
+      "published_iso": "2026-10-07T15:08:46+00:00",
+      "excerpt": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result.",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Social.jpg"
     },
     {
-      "title": "Emotion-focused AI spots early signs of psychosis in youths from short speech samples",
-      "url": "https://medicalxpress.com/news/2026-10-emotion-focused-ai-early-psychosis.html",
-      "source": "Medical Xpress",
+      "title": "Chemical foundation models reveal molecular principles underlying glycobiology",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.13.758502v1",
+      "source": "bioRxiv",
       "category": "science",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "excerpt": "NTU Singapore researchers built LEMon-AID, which uses large language models to extract emotional profiles from brief speech transcripts of 429 young people, raising psychosis-risk prediction accuracy from 55% to 67%.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2019/psychosis.jpg"
+      "published_iso": "2026-10-14T00:00:00Z",
+      "excerpt": "IBM Research and Trinity College Dublin show that atom-level representations learned by general chemistry foundation models transfer to glycobiology benchmarks spanning taxonomy, immunogenicity and protein-glycan interactions.",
+      "og_image": ""
     },
     {
-      "title": "AI-powered device can fight against malaria by detecting and repelling mosquitoes",
-      "url": "https://medicalxpress.com/news/2026-10-ai-powered-device-malaria-repelling.html",
-      "source": "Medical Xpress",
+      "title": "Could AI Face Recognition Falsely ID You?",
+      "url": "https://www.psychologytoday.com/us/blog/mental-mishaps/202610/could-ai-face-recognition-falsely-id-you",
+      "source": "Psychology Today",
       "category": "science",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "excerpt": "A University of Southampton student developed ISARS, a compact chemical-free device that identifies malaria-linked mosquito species from wingbeat sounds and emits adaptive sound to disrupt them; no efficacy data is reported yet.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/mosquitoes-1.jpg"
-    },
-    {
-      "title": "New detector spots AI-generated work by examining ideas, not words",
-      "url": "https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-13T12:23:30-04:00",
-      "excerpt": "University of Maryland, Google DeepMind and SFU researchers built IdeaLens, which judges whether a text's ideas came from AI, catching 91% of fully AI-written documents with a 0.6% false-alarm rate.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-detector-spots-ai.jpg"
-    },
-    {
-      "title": "AI image watermarks can survive new model training, but durability varies by design",
-      "url": "https://techxplore.com/news/2026-10-ai-image-watermarks-survive-durability.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-09T14:20:02-04:00",
-      "excerpt": "CISPA researchers found AI image watermarks can persist when a new generative model is trained on watermarked output, depending on watermark design and model architecture; BitMark stayed detectable with only 1% watermarked training data.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/cispa-researchers-have.jpg"
-    },
-    {
-      "title": "Spelling backward gets easier for AI models upgraded to see every letter",
-      "url": "https://techxplore.com/news/2026-10-easier-ai-letter.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-09T10:20:12-04:00",
-      "excerpt": "LMU Munich researchers converted existing large language models to process text byte by byte using under 1% of typical training, preserving performance while improving character-level tasks like spelling backward.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2021/letters.jpg"
+      "published_iso": "2026-10-14T17:18:04-04:00",
+      "excerpt": "A psychologist examines how human and AI face-recognition errors compound when police compare everyday photos against criminal databases.",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-10/ai_facial_recognition_risks.jpg?itok=ob1AbVFk"
     }
   ]
 }

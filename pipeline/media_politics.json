@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-14",
-  "section": "politics",
-  "media": [
-    {
-      "id": "politics-openai-hidden-recorder",
-      "type": "image",
-      "src": "pipeline/media/politics-openai-hidden-recorder.jpg"
-    },
-    {
-      "id": "politics-uk-mps-ai-labs-regulate",
-      "type": "image",
-      "src": "pipeline/media/politics-uk-mps-ai-labs-regulate.jpg"
-    },
-    {
-      "id": "politics-pro-ai-pac-nevada",
-      "type": "image",
-      "src": "pipeline/media/politics-pro-ai-pac-nevada.jpg"
-    },
-    {
-      "id": "politics-ai-framework-licensing-questions",
-      "type": "image",
-      "src": "pipeline/media/politics-ai-framework-licensing-questions.jpg"
-    },
-    {
-      "id": "politics-home-office-asylum-ai",
-      "type": "image",
-      "src": "pipeline/media/politics-home-office-asylum-ai.jpg"
-    }
-  ]
-}
+{"date":"2026-10-15","section":"politics","media":[
+{"id":"politics-openai-states","type":"image","src":"pipeline/media/politics-openai-states.jpg"},
+{"id":"politics-eu-ai-office","type":"image","src":"pipeline/media/politics-eu-ai-office.jpg"},
+{"id":"politics-uk-ai-incidents","type":"image","src":"pipeline/media/politics-uk-ai-incidents.jpg"},
+{"id":"politics-msit-ai-data","type":"svg"},
+{"id":"politics-characterai-data","type":"image","src":"pipeline/media/politics-characterai-data.jpg"}
+]}

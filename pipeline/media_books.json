@@ -1,7 +1,31 @@
-{"date":"2026-10-14","section":"books","media":[
-{"id":"books-nippan-anthropic-sales","type":"svg"},
-{"id":"books-elpais-spain-ai-bestsellers","type":"image","src":"pipeline/media/books-elpais-spain-ai-bestsellers.jpg"},
-{"id":"books-frankfurt-appeal-ai-transparency","type":"image","src":"pipeline/media/books-frankfurt-appeal-ai-transparency.jpg"},
-{"id":"books-turkiye-ai-book-scanning","type":"image","src":"pipeline/media/books-turkiye-ai-book-scanning.jpg"},
-{"id":"books-audible-ai-narration-survey","type":"image","src":"pipeline/media/books-audible-ai-narration-survey.png"}
-]}
+{
+  "date": "2026-10-15",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-kyobo-ai-order",
+      "type": "image",
+      "src": "pipeline/media/books-kyobo-ai-order.jpg"
+    },
+    {
+      "id": "books-soa-ai-charter",
+      "type": "image",
+      "src": "pipeline/media/books-soa-ai-charter.jpg"
+    },
+    {
+      "id": "books-japan-translation",
+      "type": "image",
+      "src": "pipeline/media/books-japan-translation.jpg"
+    },
+    {
+      "id": "books-multivoice-audiobook",
+      "type": "image",
+      "src": "pipeline/media/books-multivoice-audiobook.jpg"
+    },
+    {
+      "id": "books-lezhin-teaz",
+      "type": "image",
+      "src": "pipeline/media/books-lezhin-teaz.jpg"
+    }
+  ]
+}

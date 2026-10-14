@@ -1,7 +1,31 @@
-{"date":"2026-10-14","section":"science","media":[
-{"id":"science-mit-self-wiring-learner","type":"image","src":"pipeline/media/science-mit-self-wiring-learner.jpg"},
-{"id":"science-gemini-4-argon-robotics","type":"video","src":"pipeline/media/science-gemini-4-argon-robotics.mp4","poster":"pipeline/media/science-gemini-4-argon-robotics.jpg"},
-{"id":"science-idealens-idea-detector","type":"image","src":"pipeline/media/science-idealens-idea-detector.jpg"},
-{"id":"science-arnhem-rangers-megadetector","type":"image","src":"pipeline/media/science-arnhem-rangers-megadetector.jpg"},
-{"id":"science-ai-idea-theft-fears","type":"image","src":"pipeline/media/science-ai-idea-theft-fears.jpg"}
-]}
+{
+  "date": "2026-10-15",
+  "section": "science",
+  "media": [
+    {
+      "id": "science-deepreview",
+      "type": "image",
+      "src": "pipeline/media/science-deepreview.png"
+    },
+    {
+      "id": "science-hiro-acev2",
+      "type": "image",
+      "src": "pipeline/media/science-hiro-acev2.png"
+    },
+    {
+      "id": "science-tess-superearth",
+      "type": "image",
+      "src": "pipeline/media/science-tess-superearth.jpg"
+    },
+    {
+      "id": "science-firstproof",
+      "type": "image",
+      "src": "pipeline/media/science-firstproof.jpg"
+    },
+    {
+      "id": "science-subseasonal",
+      "type": "image",
+      "src": "pipeline/media/science-subseasonal.jpg"
+    }
+  ]
+}

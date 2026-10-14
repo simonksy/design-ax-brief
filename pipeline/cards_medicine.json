@@ -1,191 +1,215 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-uk-nhs-ai-commission-blueprint",
+      "id": "medicine-mhra-2030",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UK, 의사 주도 NHS\nAI 위원회 청사진 수용",
-      "body": "정부가 청사진을 전면 수용했고 MHRA AI Airlock은 다음 단계를 연다.",
-      "mini_headline": "UK, NHS AI 청사진 수용",
+      "headline": "MHRA, AI·맞춤의약\n2030 계획 발표",
+      "body": "MHRA 2030 전략은 과학기술 혁신을 UK 환자의 건강 성과 개선으로 잇는다.",
+      "mini_headline": "MHRA의 2030 AI 계획",
       "tool": "Medicine",
-      "source": "GOV.UK (DHSC/MHRA)",
-      "url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
+      "source": "GOV.UK (MHRA)",
+      "url": "https://www.gov.uk/government/news/mhra-2030-strategy-to-modernise-patient-centred-regulation-for-the-era-of-ai-and-personalised-medicines",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "의약품·의료제품규제청(Medicines and Healthcare products Regulatory Agency, MHRA)이 2030 전략(2030 Strategy)을 내놓았다. 최첨단 과학기술 혁신을 UK 네 개 지역 모든 환자의 더 나은 건강 성과로 옮기겠다는 계획이다."
+          },
+          {
             "t": "img",
-            "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+            "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
           },
           {
             "t": "p",
-            "x": "정부는 오늘(2026년 10월 6일) 9월 10일 공개된 '의료 AI 규제 국가위원회'의 권고 44건을 모두 받아들인다고 확인했다. MHRA도 AI-enabled 의료기기 규제 샌드박스인 AI Airlock의 세 번째 단계 참가 신청을 받기 시작했다."
+            "x": "MHRA는 2030년까지 더 환자 중심의 기관이 되고, 환자가 안전하고 효과적인 치료를 더 빨리 받도록 돕고, 데이터 연결성과 국제적 영향력도 키우려 한다. James Frith 보건혁신 담당 장관은 이 전략 덕분에 MHRA가 AI, 데이터, 의학 분야의 최신 혁신을 따라잡을 수 있다고 말했다."
           },
           {
             "t": "p",
-            "x": "위원회는 AI-enabled 의료기기를 한 번의 평가에 기대지 말고 사용 기간 내내 평가하고 모니터링해야 한다고 결론 내렸다. 정부가 삼 년간 추가 재원을 대는 AI Airlock Phase 3는 시판 후 감시와 전 주기 규제에 무게를 둔다."
+            "x": "Lawrence Tallon 최고경영자는 AI가 규제 대상 제품도, 조직이 일하는 방식도 바꾸고 있어 기존 규제 모델이 도전을 받는다고 말했다."
           },
           {
             "t": "p",
-            "x": "MHRA는 2026년 12월까지 시간이 지나며 바뀌는 AI-enabled 기기의 변경 관리 지침 초안을 내고 내년에는 이들 기기의 적격성 판단과 분류 방식을 놓고 의견을 모은다. 유망한 AI 도구를 면밀한 감독 아래 NHS에서 더 일찍 쓰게 하는 단계별 허가 경로도 약속했다. 전체 이행 로드맵은 2027년 봄까지 나온다."
+            "x": "AI 분야에서 MHRA는 AI-enabled 임상시험 프로토콜 검사기(Clinical Trial Protocol Checker)를 개발하고, 2027년에 AI 의약품 개발 실행계획(AI Medicines Development Action Plan)을 발표하고, MHRA AI·디지털헬스 센터(MHRA Centre for AI and Digital Health)를 세우고, 의료기기로 쓰이는 AI에 맞는 현대적이고 유연한 규제 체계를 마련하겠다고 약속했다. AI로 실사용 데이터를 분석해 잠재적 안전 문제를 더 일찍 찾아낼 계획도 세웠다."
           },
           {
             "t": "p",
-            "x": "MHRA의 Lawrence Tallon 최고경영자는 NHS 의사들이 이끈 위원회가 \"명확하고 야심 찬 청사진을 내놓았다\"고 말했다. 신청자 웨비나는 10월 22일에 열리고 첫 혁신 기업은 2026년 11월에 선정된다."
+            "x": "과학 자문 서비스 기간은 90일에서 45일로, 요건을 갖춘 Phase 1 임상시험의 초기 평가 목표 기간은 절반인 14일로 줄인다. 여성 건강 계획(Women's Health Plan)도 마련하겠다고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UK backs doctor-led NHS\nAI Commission blueprint",
-          "body": "Ministers back the independent Commission's blueprint in full as the MHRA's AI Airlock opens its next phase.",
-          "mini_headline": "UK backs NHS AI blueprint",
+          "headline": "MHRA sets 2030 plan for AI\nand personalised medicines",
+          "body": "The MHRA's 2030 Strategy aims to turn scientific and technological innovation into better outcomes for UK patients.",
+          "mini_headline": "MHRA's 2030 AI plan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Medicines and Healthcare products Regulatory Agency (MHRA) has set out plans to translate cutting-edge scientific and technological innovation into better health outcomes for patients across all four nations of the UK, in its 2030 Strategy."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
               },
               {
                 "t": "p",
-                "x": "The government has today, 6 October 2026, confirmed it will accept all 44 recommendations made by the National Commission into the Regulation of AI in Healthcare, published 10 September. Alongside the response, the MHRA is opening applications for the third phase of AI Airlock, its regulatory sandbox for AI-enabled medical devices."
+                "x": "By 2030 the MHRA aims to be more patient-centred, support faster access to safe, effective treatments, and have more data-connectivity and global influence. Health innovation minister James Frith said the strategy will help the MHRA keep pace with the latest innovations in AI, data and medicine."
               },
               {
                 "t": "p",
-                "x": "A central conclusion of the Commission was that AI-enabled medical devices should be assessed and monitored throughout their working life, instead of over-relying on one-time assessments. AI Airlock Phase 3, backed by three years of additional government funding, will focus on post-market surveillance and lifecycle regulation."
+                "x": "Chief executive Lawrence Tallon said AI is transforming both regulated products and how organisations are run, and that such developments challenge traditional regulatory models."
               },
               {
                 "t": "p",
-                "x": "The MHRA will issue draft guidance by December 2026 on managing changes to AI-enabled devices as they adapt over time, and will consult next year on how to qualify and classify them. Other commitments include staged authorisation pathways allowing promising AI tools to be used in the NHS earlier under close supervision. A full implementation roadmap will be published by Spring 2027."
+                "x": "On AI, the MHRA commits to develop an AI-enabled Clinical Trial Protocol Checker, publish an AI Medicines Development Action Plan in 2027, establish an MHRA Centre for AI and Digital Health, and create a modern, adaptive regulatory framework for AI as a medical device. It will also use AI to analyse real-world data and identify potential safety issues earlier."
               },
               {
                 "t": "p",
-                "x": "Lawrence Tallon, the MHRA's Chief Executive, said the Commission, led by NHS doctors, \"has given us a clear and ambitious blueprint\". A webinar for applicants takes place on 22 October; the first wave of innovators will be selected in November 2026."
+                "x": "Other pledges include cutting the scientific advice service from 90 to 45 days, halving the initial assessment target for qualifying Phase 1 trials to 14 days, and a Women's Health Plan."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UK, 의사 주도 NHS\nAI 위원회 청사진 수용",
-          "body": "정부가 청사진을 전면 수용했고 MHRA AI Airlock은 다음 단계를 연다.",
-          "mini_headline": "UK, NHS AI 청사진 수용",
+          "headline": "MHRA, AI·맞춤의약\n2030 계획 발표",
+          "body": "MHRA 2030 전략은 과학기술 혁신을 UK 환자의 건강 성과 개선으로 잇는다.",
+          "mini_headline": "MHRA의 2030 AI 계획",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "의약품·의료제품규제청(Medicines and Healthcare products Regulatory Agency, MHRA)이 2030 전략(2030 Strategy)을 내놓았다. 최첨단 과학기술 혁신을 UK 네 개 지역 모든 환자의 더 나은 건강 성과로 옮기겠다는 계획이다."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
               },
               {
                 "t": "p",
-                "x": "정부는 오늘(2026년 10월 6일) 9월 10일 공개된 '의료 AI 규제 국가위원회'의 권고 44건을 모두 받아들인다고 확인했다. MHRA도 AI-enabled 의료기기 규제 샌드박스인 AI Airlock의 세 번째 단계 참가 신청을 받기 시작했다."
+                "x": "MHRA는 2030년까지 더 환자 중심의 기관이 되고, 환자가 안전하고 효과적인 치료를 더 빨리 받도록 돕고, 데이터 연결성과 국제적 영향력도 키우려 한다. James Frith 보건혁신 담당 장관은 이 전략 덕분에 MHRA가 AI, 데이터, 의학 분야의 최신 혁신을 따라잡을 수 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "위원회는 AI-enabled 의료기기를 한 번의 평가에 기대지 말고 사용 기간 내내 평가하고 모니터링해야 한다고 결론 내렸다. 정부가 삼 년간 추가 재원을 대는 AI Airlock Phase 3는 시판 후 감시와 전 주기 규제에 무게를 둔다."
+                "x": "Lawrence Tallon 최고경영자는 AI가 규제 대상 제품도, 조직이 일하는 방식도 바꾸고 있어 기존 규제 모델이 도전을 받는다고 말했다."
               },
               {
                 "t": "p",
-                "x": "MHRA는 2026년 12월까지 시간이 지나며 바뀌는 AI-enabled 기기의 변경 관리 지침 초안을 내고 내년에는 이들 기기의 적격성 판단과 분류 방식을 놓고 의견을 모은다. 유망한 AI 도구를 면밀한 감독 아래 NHS에서 더 일찍 쓰게 하는 단계별 허가 경로도 약속했다. 전체 이행 로드맵은 2027년 봄까지 나온다."
+                "x": "AI 분야에서 MHRA는 AI-enabled 임상시험 프로토콜 검사기(Clinical Trial Protocol Checker)를 개발하고, 2027년에 AI 의약품 개발 실행계획(AI Medicines Development Action Plan)을 발표하고, MHRA AI·디지털헬스 센터(MHRA Centre for AI and Digital Health)를 세우고, 의료기기로 쓰이는 AI에 맞는 현대적이고 유연한 규제 체계를 마련하겠다고 약속했다. AI로 실사용 데이터를 분석해 잠재적 안전 문제를 더 일찍 찾아낼 계획도 세웠다."
               },
               {
                 "t": "p",
-                "x": "MHRA의 Lawrence Tallon 최고경영자는 NHS 의사들이 이끈 위원회가 \"명확하고 야심 찬 청사진을 내놓았다\"고 말했다. 신청자 웨비나는 10월 22일에 열리고 첫 혁신 기업은 2026년 11월에 선정된다."
+                "x": "과학 자문 서비스 기간은 90일에서 45일로, 요건을 갖춘 Phase 1 임상시험의 초기 평가 목표 기간은 절반인 14일로 줄인다. 여성 건강 계획(Women's Health Plan)도 마련하겠다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK、医師主導のNHS\nAI委員会の青写真を支持",
-          "body": "閣僚は委員会の青写真を全面支持し、MHRAのAI Airlockは次の段階に入る。",
-          "mini_headline": "UK、NHSのAI青写真を支持",
+          "headline": "MHRA、AIと個別化医療の\n2030年計画を策定",
+          "body": "MHRAの2030戦略は、科学技術の革新をUKの患者のより良い成果につなげることを目指す。",
+          "mini_headline": "MHRAの2030年AI計画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "医薬品・医療製品規制庁(Medicines and Healthcare products Regulatory Agency、MHRA)は2030戦略(2030 Strategy)で、最先端の科学技術革新を、UKを構成する四つの地域すべての患者のより良い健康成果につなげる計画を示した。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
               },
               {
                 "t": "p",
-                "x": "政府は本日2026年10月6日、9月10日に公表された「医療AI規制に関する国家委員会」の勧告44項目をすべて受け入れると確認した。あわせてMHRAは、AI-enabled医療機器向けの規制サンドボックスであるAI Airlockの第三段階の応募受付を始めた。"
+                "x": "MHRAは2030年までに、より患者中心となり、安全で効果的な治療への迅速なアクセスを支え、データ連携と国際的な影響力を高めることを目指す。James Frith保健イノベーション担当相は、この戦略によりMHRAがAI、データ、医学の最新の革新に歩調を合わせられると述べた。"
               },
               {
                 "t": "p",
-                "x": "委員会の中心的な結論は、AI-enabled医療機器を一度きりの評価に頼りすぎず、使用期間を通じて評価・監視すべきだというものだった。政府が三年間の追加資金を出すAI Airlock Phase 3は、市販後調査とライフサイクル規制に重点を置く。"
+                "x": "Lawrence Tallon最高経営責任者は、AIが規制対象の製品と組織運営の両方を変えつつあり、こうした動きは従来の規制モデルに課題を突きつけていると述べた。"
               },
               {
                 "t": "p",
-                "x": "MHRAは2026年12月までに、時間とともに変化するAI-enabled機器の変更管理に関するガイダンス案を出し、来年にはその適格性判断と分類について意見を募る。このほか、有望なAIツールを厳格な監督の下でNHSにより早く導入できる段階的な承認経路も約束に含まれる。実施ロードマップの全体は2027年春までに公表される。"
+                "x": "AIについてMHRAは、AI-enabledの臨床試験プロトコルチェッカー(Clinical Trial Protocol Checker)の開発、2027年のAI医薬品開発行動計画(AI Medicines Development Action Plan)の公表、MHRA AI・デジタルヘルスセンター(MHRA Centre for AI and Digital Health)の設立、医療機器としてのAIのための現代的で適応的な規制枠組みの構築を約束した。また、AIでリアルワールドデータを分析し、潜在的な安全性の問題をより早く把握する。"
               },
               {
                 "t": "p",
-                "x": "MHRAのLawrence Tallon最高経営責任者は、NHSの医師が率いた委員会が「明確で野心的な青写真を示してくれた」と述べた。応募者向けウェビナーは10月22日に開かれ、最初のイノベーター群は2026年11月に選ばれる。"
+                "x": "このほか、科学的助言サービスの期間を90日から45日に短縮し、対象となるPhase 1試験の初期評価目標を半分の14日とし、女性の健康計画(Women's Health Plan)を策定することも盛り込んだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK支持医生主导的NHS\nAI委员会提出的蓝图",
-          "body": "大臣们全面支持独立委员会的蓝图，MHRA的AI Airlock同时进入下一阶段。",
-          "mini_headline": "UK支持NHS AI蓝图",
+          "headline": "MHRA公布2030规划\n聚焦AI与个性化药物",
+          "body": "MHRA的2030战略旨在把科学与技术创新转化为UK患者更好的治疗结果。",
+          "mini_headline": "MHRA的2030 AI规划",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "药品和保健品监管局(Medicines and Healthcare products Regulatory Agency,MHRA)在其2030战略(2030 Strategy)中提出计划,将前沿科学与技术创新转化为UK四个地区所有患者更好的健康结果。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
               },
               {
                 "t": "p",
-                "x": "政府今天（2026年10月6日）确认，将全部接受9月10日发布的“国家医疗AI监管委员会”提出的44项建议。与此同时，MHRA开始受理AI Airlock第三阶段的申请，这是其面向AI-enabled医疗器械的监管沙盒。"
+                "x": "到2030年,MHRA的目标是更加以患者为中心,支持更快获得安全、有效的治疗,并提升数据互联水平和全球影响力。卫生创新大臣James Frith表示,该战略将帮助MHRA跟上AI、数据和医学领域的最新创新。"
               },
               {
                 "t": "p",
-                "x": "委员会的核心结论是，AI-enabled医疗器械应在整个使用周期内接受评估和监测，而不是过度依赖一次性评估。AI Airlock Phase 3获得政府额外三年的资金支持，将聚焦上市后监测和全生命周期监管。"
+                "x": "首席执行官Lawrence Tallon表示,AI正在改变受监管的产品以及组织的运作方式,这些发展对传统监管模式构成挑战。"
               },
               {
                 "t": "p",
-                "x": "MHRA将在2026年12月前发布指南草案，说明如何管理随时间不断调整的AI-enabled器械的变更，并将在明年就其资格认定和分类方式征求意见。其他承诺还包括分阶段授权路径，让有前景的AI工具在严密监督下更早进入NHS使用。完整的实施路线图将于2027年春季前公布。"
+                "x": "在AI方面,MHRA承诺开发AI-enabled临床试验方案检查工具(Clinical Trial Protocol Checker),于2027年发布AI药物研发行动计划(AI Medicines Development Action Plan),设立MHRA AI与数字健康中心(MHRA Centre for AI and Digital Health),并为作为医疗器械的AI建立现代、适应性的监管框架。它还将利用AI分析真实世界数据,更早识别潜在安全问题。"
               },
               {
                 "t": "p",
-                "x": "MHRA首席执行官Lawrence Tallon表示，由NHS医生领导的委员会“为我们提供了清晰而雄心勃勃的蓝图”。面向申请者的网络研讨会将于10月22日举行，首批创新者将于2026年11月选出。"
+                "x": "其他承诺包括将科学咨询服务时间从90天缩短至45天,将符合条件的Phase 1试验初始评估目标时间减半至14天,以及制定女性健康计划(Women's Health Plan)。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UK respalda el plan de la NHS\nAI Commission de médicos",
-          "body": "Los ministros respaldan del todo el plan de la comisión mientras el AI Airlock de la MHRA abre su siguiente fase.",
-          "mini_headline": "UK respalda el plan de AI del NHS",
+          "headline": "La MHRA fija su plan 2030 para\nla AI y medicinas personalizadas",
+          "body": "La Estrategia 2030 de la MHRA busca que la innovación científica y tecnológica beneficie a pacientes del UK.",
+          "mini_headline": "El plan de AI 2030 de la MHRA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La Medicines and Healthcare products Regulatory Agency (MHRA) ha presentado en su Estrategia 2030 (2030 Strategy) planes para convertir la innovación científica y tecnológica de vanguardia en mejores resultados de salud para los pacientes de las cuatro naciones del UK."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
               },
               {
                 "t": "p",
-                "x": "El Gobierno confirmó hoy, 6 de octubre de 2026, que aceptará las 44 recomendaciones de la Comisión Nacional sobre la Regulación de la AI en la Atención Sanitaria, publicadas el 10 de septiembre. Junto con la respuesta, la MHRA abre las solicitudes para la tercera fase de AI Airlock, su entorno de pruebas regulatorio para dispositivos médicos AI-enabled."
+                "x": "Para 2030, la MHRA aspira a estar más centrada en el paciente, facilitar un acceso más rápido a tratamientos seguros y eficaces, y tener más conectividad de datos e influencia global. El ministro de innovación sanitaria, James Frith, afirmó que la estrategia ayudará a la MHRA a seguir el ritmo de las últimas innovaciones en AI, datos y medicina."
               },
               {
                 "t": "p",
-                "x": "Una conclusión central de la Comisión fue que los dispositivos médicos AI-enabled deben evaluarse y vigilarse durante toda su vida útil, en lugar de depender en exceso de evaluaciones únicas. AI Airlock Phase 3, respaldada por tres años de financiación gubernamental adicional, se centrará en la vigilancia poscomercialización y en la regulación del ciclo de vida."
+                "x": "El director ejecutivo, Lawrence Tallon, afirmó que la AI está transformando tanto los productos regulados como la forma en que se gestionan las organizaciones, y que estos avances ponen a prueba los modelos regulatorios tradicionales."
               },
               {
                 "t": "p",
-                "x": "La MHRA publicará antes de diciembre de 2026 un borrador de guía sobre cómo gestionar los cambios en los dispositivos AI-enabled a medida que se adaptan con el tiempo, y el próximo año consultará cómo calificarlos y clasificarlos. Otros compromisos incluyen vías de autorización escalonadas que permitirán usar antes en el NHS herramientas de AI prometedoras, bajo estrecha supervisión. Una hoja de ruta completa de implementación se publicará antes de la primavera de 2027."
+                "x": "En materia de AI, la MHRA se compromete a desarrollar un AI-enabled Clinical Trial Protocol Checker (verificador de protocolos de ensayos clínicos), publicar un AI Medicines Development Action Plan en 2027, crear un MHRA Centre for AI and Digital Health y establecer un marco regulatorio moderno y adaptable para la AI como producto sanitario. También usará la AI para analizar datos del mundo real e identificar antes posibles problemas de seguridad."
               },
               {
                 "t": "p",
-                "x": "Lawrence Tallon, director ejecutivo de la MHRA, afirmó que la Comisión, dirigida por médicos del NHS, \"nos ha dado un plan claro y ambicioso\". El 22 de octubre se celebrará un seminario web para solicitantes; la primera tanda de innovadores se seleccionará en noviembre de 2026."
+                "x": "Otros compromisos incluyen reducir el servicio de asesoramiento científico de 90 a 45 días, recortar a la mitad, hasta 14 días, el objetivo de evaluación inicial de los ensayos de Phase 1 que cumplan los requisitos, y un Women's Health Plan."
               }
             ]
           }
@@ -193,121 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UK, 의사 주도 NHS\nAI 위원회 청사진 수용",
-          "body": "정부가 청사진을 전면 수용했고 MHRA AI Airlock은 다음 단계를 연다.",
-          "mini_headline": "UK, NHS AI 청사진 수용",
+          "headline": "MHRA, AI·맞춤의약\n2030 계획 발표",
+          "body": "MHRA 2030 전략은 과학기술 혁신을 UK 환자의 성과 개선으로 잇고자 한다.",
+          "mini_headline": "MHRA의 2030 AI 계획",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "의약품·의료제품규제청(Medicines and Healthcare products Regulatory Agency, MHRA)이 2030 전략(2030 Strategy)을 통해 최첨단 과학기술 혁신을 UK 네 개 지역 전체 환자의 더 나은 건강 성과로 옮기는 계획을 내놓았다."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
               },
               {
                 "t": "p",
-                "x": "정부는 오늘(2026년 10월 6일) 9월 10일 공개된 '의료 AI 규제 국가위원회'의 권고 44건을 모두 수용한다고 확인했다. 이와 함께 MHRA는 AI-enabled 의료기기를 위한 규제 샌드박스 AI Airlock의 세 번째 단계 참가 신청을 받기 시작했다."
+                "x": "MHRA는 2030년까지 더 환자 중심적인 기관이 되고, 안전하고 효과적인 치료에 더 빨리 접근하도록 지원하며, 데이터 연결성과 국제적 영향력을 높이는 것을 목표로 한다. James Frith 보건혁신 담당 장관은 이 전략이 MHRA가 AI, 데이터, 의학 분야의 최신 혁신에 발맞추는 데 도움이 될 것이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "위원회의 핵심 결론은 AI-enabled 의료기기를 한 번의 평가에 지나치게 기대지 말고 사용 기간 내내 평가하고 모니터링해야 한다는 것이었다. 정부가 삼 년간 추가 재원을 지원하는 AI Airlock Phase 3는 시판 후 감시와 전 주기 규제에 초점을 맞춘다."
+                "x": "Lawrence Tallon 최고경영자는 AI가 규제 대상 제품과 조직 운영 방식을 모두 바꾸고 있으며, 이런 변화가 기존 규제 모델에 도전이 된다고 말했다."
               },
               {
                 "t": "p",
-                "x": "MHRA는 2026년 12월까지 시간이 지나며 변하는 AI-enabled 기기의 변경 관리에 관한 지침 초안을 내고, 내년에는 이들 기기의 적격성 판단과 분류 방식에 대해 의견을 수렴한다. 유망한 AI 도구를 면밀한 감독 아래 NHS에서 더 일찍 쓸 수 있게 하는 단계별 허가 경로도 약속에 포함됐다. 전체 이행 로드맵은 2027년 봄까지 나온다."
+                "x": "AI와 관련해 MHRA는 AI-enabled 임상시험 프로토콜 검사기(Clinical Trial Protocol Checker)를 개발하고, 2027년에 AI 의약품 개발 실행계획(AI Medicines Development Action Plan)을 발표하며, MHRA AI·디지털헬스 센터(MHRA Centre for AI and Digital Health)를 세우고, 의료기기로서의 AI를 위한 현대적이고 적응적인 규제 체계를 마련하겠다고 약속했다. 또한 AI로 실사용 데이터를 분석해 잠재적 안전 문제를 더 일찍 찾아낼 계획이다."
               },
               {
                 "t": "p",
-                "x": "MHRA의 Lawrence Tallon 최고경영자는 NHS 의사들이 이끈 위원회가 \"명확하고 야심 찬 청사진을 내놓았다\"고 말했다. 신청자 대상 웨비나는 10월 22일 열리며, 첫 혁신 기업들은 2026년 11월 선정된다."
+                "x": "이 밖에 과학 자문 서비스 기간을 90일에서 45일로 줄이고, 요건을 갖춘 Phase 1 임상시험의 초기 평가 목표 기간을 절반인 14일로 줄이며, 여성 건강 계획(Women's Health Plan)을 마련하겠다는 약속도 담겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK、医師主導のNHS\nAI委員会の青写真を支持",
-          "body": "閣僚は委員会の青写真を全面支持し、MHRAのAI Airlockは次の段階に入る。",
-          "mini_headline": "UK、NHSのAI青写真を支持",
+          "headline": "MHRA、AIと個別化医療の\n2030年計画を策定",
+          "body": "MHRAの2030戦略は、科学技術の革新をUKの患者のより良い成果につなげることを目指す。",
+          "mini_headline": "MHRAの2030年AI計画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "医薬品・医療製品規制庁(Medicines and Healthcare products Regulatory Agency、MHRA)は2030戦略(2030 Strategy)で、最先端の科学技術革新を、UKを構成する四つの地域すべての患者のより良い健康成果につなげる計画を示した。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
               },
               {
                 "t": "p",
-                "x": "政府は本日2026年10月6日、9月10日に公表された「医療AI規制に関する国家委員会」の勧告44項目をすべて受け入れると確認した。あわせてMHRAは、AI-enabled医療機器向けの規制サンドボックスであるAI Airlockの第三段階の応募受付を始めた。"
+                "x": "MHRAは2030年までに、より患者中心となり、安全で効果的な治療への迅速なアクセスを支え、データ連携と国際的な影響力を高めることを目指す。James Frith保健イノベーション担当相は、この戦略によりMHRAがAI、データ、医学の最新の革新に歩調を合わせられると述べた。"
               },
               {
                 "t": "p",
-                "x": "委員会の中心的な結論は、AI-enabled医療機器を一度きりの評価に頼りすぎず、使用期間を通じて評価・監視すべきだというものだった。政府が三年間の追加資金を出すAI Airlock Phase 3は、市販後調査とライフサイクル規制に重点を置く。"
+                "x": "Lawrence Tallon最高経営責任者は、AIが規制対象の製品と組織運営の両方を変えつつあり、こうした動きは従来の規制モデルに課題を突きつけていると述べた。"
               },
               {
                 "t": "p",
-                "x": "MHRAは2026年12月までに、時間とともに変化するAI-enabled機器の変更管理に関するガイダンス案を出し、来年にはその適格性判断と分類について意見を募る。このほか、有望なAIツールを厳格な監督の下でNHSにより早く導入できる段階的な承認経路も約束に含まれる。実施ロードマップの全体は2027年春までに公表される。"
+                "x": "AIについてMHRAは、AI-enabledの臨床試験プロトコルチェッカー(Clinical Trial Protocol Checker)の開発、2027年のAI医薬品開発行動計画(AI Medicines Development Action Plan)の公表、MHRA AI・デジタルヘルスセンター(MHRA Centre for AI and Digital Health)の設立、医療機器としてのAIのための現代的で適応的な規制枠組みの構築を約束した。また、AIでリアルワールドデータを分析し、潜在的な安全性の問題をより早く把握する。"
               },
               {
                 "t": "p",
-                "x": "MHRAのLawrence Tallon最高経営責任者は、NHSの医師が率いた委員会が「明確で野心的な青写真を示してくれた」と述べた。応募者向けウェビナーは10月22日に開かれ、最初のイノベーター群は2026年11月に選ばれる。"
+                "x": "このほか、科学的助言サービスの期間を90日から45日に短縮し、対象となるPhase 1試験の初期評価目標を半分の14日とし、女性の健康計画(Women's Health Plan)を策定することも盛り込んだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK支持医生主导的NHS\nAI委员会提出的蓝图",
-          "body": "大臣们全面支持独立委员会的蓝图，MHRA的AI Airlock同时进入下一阶段。",
-          "mini_headline": "UK支持NHS AI蓝图",
+          "headline": "MHRA公布2030规划\n聚焦AI与个性化药物",
+          "body": "MHRA的2030战略旨在把科学与技术创新转化为UK患者更好的治疗结果。",
+          "mini_headline": "MHRA的2030 AI规划",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "药品和保健品监管局(Medicines and Healthcare products Regulatory Agency,MHRA)在其2030战略(2030 Strategy)中提出计划,将前沿科学与技术创新转化为UK四个地区所有患者更好的健康结果。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
               },
               {
                 "t": "p",
-                "x": "政府今天（2026年10月6日）确认，将全部接受9月10日发布的“国家医疗AI监管委员会”提出的44项建议。与此同时，MHRA开始受理AI Airlock第三阶段的申请，这是其面向AI-enabled医疗器械的监管沙盒。"
+                "x": "到2030年,MHRA的目标是更加以患者为中心,支持更快获得安全、有效的治疗,并提升数据互联水平和全球影响力。卫生创新大臣James Frith表示,该战略将帮助MHRA跟上AI、数据和医学领域的最新创新。"
               },
               {
                 "t": "p",
-                "x": "委员会的核心结论是，AI-enabled医疗器械应在整个使用周期内接受评估和监测，而不是过度依赖一次性评估。AI Airlock Phase 3获得政府额外三年的资金支持，将聚焦上市后监测和全生命周期监管。"
+                "x": "首席执行官Lawrence Tallon表示,AI正在改变受监管的产品以及组织的运作方式,这些发展对传统监管模式构成挑战。"
               },
               {
                 "t": "p",
-                "x": "MHRA将在2026年12月前发布指南草案，说明如何管理随时间不断调整的AI-enabled器械的变更，并将在明年就其资格认定和分类方式征求意见。其他承诺还包括分阶段授权路径，让有前景的AI工具在严密监督下更早进入NHS使用。完整的实施路线图将于2027年春季前公布。"
+                "x": "在AI方面,MHRA承诺开发AI-enabled临床试验方案检查工具(Clinical Trial Protocol Checker),于2027年发布AI药物研发行动计划(AI Medicines Development Action Plan),设立MHRA AI与数字健康中心(MHRA Centre for AI and Digital Health),并为作为医疗器械的AI建立现代、适应性的监管框架。它还将利用AI分析真实世界数据,更早识别潜在安全问题。"
               },
               {
                 "t": "p",
-                "x": "MHRA首席执行官Lawrence Tallon表示，由NHS医生领导的委员会“为我们提供了清晰而雄心勃勃的蓝图”。面向申请者的网络研讨会将于10月22日举行，首批创新者将于2026年11月选出。"
+                "x": "其他承诺包括将科学咨询服务时间从90天缩短至45天,将符合条件的Phase 1试验初始评估目标时间减半至14天,以及制定女性健康计划(Women's Health Plan)。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UK respalda el plan de la NHS\nAI Commission de médicos",
-          "body": "Los ministros respaldan del todo el plan de la comisión mientras el AI Airlock de la MHRA abre su siguiente fase.",
-          "mini_headline": "UK respalda el plan de AI del NHS",
+          "headline": "La MHRA fija su plan 2030 para\nla AI y medicinas personalizadas",
+          "body": "La Estrategia 2030 de la MHRA busca que la innovación científica y tecnológica beneficie a pacientes del UK.",
+          "mini_headline": "El plan de AI 2030 de la MHRA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La Medicines and Healthcare products Regulatory Agency (MHRA) ha presentado en su Estrategia 2030 (2030 Strategy) planes para convertir la innovación científica y tecnológica de vanguardia en mejores resultados de salud para los pacientes de las cuatro naciones del UK."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ac3d8987f7c67dc11d8e4eb/s960_AI-gov-response-gov.uk-image.png"
+                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
               },
               {
                 "t": "p",
-                "x": "El Gobierno confirmó hoy, 6 de octubre de 2026, que aceptará las 44 recomendaciones de la Comisión Nacional sobre la Regulación de la AI en la Atención Sanitaria, publicadas el 10 de septiembre. Junto con la respuesta, la MHRA abre las solicitudes para la tercera fase de AI Airlock, su entorno de pruebas regulatorio para dispositivos médicos AI-enabled."
+                "x": "Para 2030, la MHRA aspira a estar más centrada en el paciente, facilitar un acceso más rápido a tratamientos seguros y eficaces, y tener más conectividad de datos e influencia global. El ministro de innovación sanitaria, James Frith, afirmó que la estrategia ayudará a la MHRA a seguir el ritmo de las últimas innovaciones en AI, datos y medicina."
               },
               {
                 "t": "p",
-                "x": "Una conclusión central de la Comisión fue que los dispositivos médicos AI-enabled deben evaluarse y vigilarse durante toda su vida útil, en lugar de depender en exceso de evaluaciones únicas. AI Airlock Phase 3, respaldada por tres años de financiación gubernamental adicional, se centrará en la vigilancia poscomercialización y en la regulación del ciclo de vida."
+                "x": "El director ejecutivo, Lawrence Tallon, afirmó que la AI está transformando tanto los productos regulados como la forma en que se gestionan las organizaciones, y que estos avances ponen a prueba los modelos regulatorios tradicionales."
               },
               {
                 "t": "p",
-                "x": "La MHRA publicará antes de diciembre de 2026 un borrador de guía sobre cómo gestionar los cambios en los dispositivos AI-enabled a medida que se adaptan con el tiempo, y el próximo año consultará cómo calificarlos y clasificarlos. Otros compromisos incluyen vías de autorización escalonadas que permitirán usar antes en el NHS herramientas de AI prometedoras, bajo estrecha supervisión. Una hoja de ruta completa de implementación se publicará antes de la primavera de 2027."
+                "x": "En materia de AI, la MHRA se compromete a desarrollar un AI-enabled Clinical Trial Protocol Checker (verificador de protocolos de ensayos clínicos), publicar un AI Medicines Development Action Plan en 2027, crear un MHRA Centre for AI and Digital Health y establecer un marco regulatorio moderno y adaptable para la AI como producto sanitario. También usará la AI para analizar datos del mundo real e identificar antes posibles problemas de seguridad."
               },
               {
                 "t": "p",
-                "x": "Lawrence Tallon, director ejecutivo de la MHRA, afirmó que la Comisión, dirigida por médicos del NHS, \"nos ha dado un plan claro y ambicioso\". El 22 de octubre se celebrará un seminario web para solicitantes; la primera tanda de innovadores se seleccionará en noviembre de 2026."
+                "x": "Otros compromisos incluyen reducir el servicio de asesoramiento científico de 90 a 45 días, recortar a la mitad, hasta 14 días, el objetivo de evaluación inicial de los ensayos de Phase 1 que cumplan los requisitos, y un Women's Health Plan."
               }
             ]
           }
@@ -315,15 +355,15 @@
       }
     },
     {
-      "id": "medicine-prostate-mri-ai-radiologist-parity",
+      "id": "medicine-brown-fat-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 전립선암 MRI서\n영상의학 전문의와 대등",
-      "body": "전립선 MRI 22,000건 이상에서 AI는 영상의학 전문의만큼 암을 찾았다.",
-      "mini_headline": "AI, 전립선 MRI 판독 대등",
+      "headline": "AI가 임상 스캔에서\n갈색지방을 잰다",
+      "body": "AI로 잰 갈색지방은 건강한 대사·적은 정신질환과 맞닿고 재창출 약물도 짚는다.",
+      "mini_headline": "AI가 읽는 갈색지방",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-11162-7",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -331,155 +371,197 @@
         "blocks": [
           {
             "t": "p",
-            "x": "MRI로 전립선암을 찾는 AI의 실력이 영상의학 전문의와 대등할 수 있다는 연구가 13일 Radiology에 실렸다. 네덜란드 Nijmegen의 Radboud University Medical Center 소속 Anindo Saha, PhD가 이끈 연구팀은 외부 진단·검진 데이터셋 전반에서 AI 시스템이 Gleason 등급군 ≥2 전립선암을 영상의학 전문의와 비슷한 수준으로 진단했다고 밝혔다."
+            "x": "인공지능(Artificial intelligence)으로 갈색지방조직(BAT) 활성을 정량화해 분석해 보니, BAT는 더 건강한 대사 특성, 낮은 정신질환 발생률과 연관돼 있었다."
+          },
+          {
+            "t": "p",
+            "x": "연구팀은 Memorial Sloan Kettering Cancer Center에서 임상 목적으로 찍은 18F-FDG-PET–CT 스캔 코호트를 101,243명으로 늘리고(이 중 8,897명이 BAT 양성), 모든 진단 코드를 대상으로 연관성을 살폈다."
           },
           {
             "t": "img",
-            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-            "cap": "여러 국가 기관의 전립선 MRI 검사에서 AI가 Gleason 등급군 ≥2 암을 검출한 사례. RSNA"
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
           },
           {
             "t": "p",
-            "x": "SCARLET-1 연구는 22개국 46개 도시 남성 21,252명의 전립선 MRI 검사 22,445건을 담았다. AI의 외부 AUCs는 진단 환경에서 0.86, 두 검진 환경에서 각각 0.89와 0.84였다. 영상의학 판독과 일치한 비율은 83.0%에서 87.9%였다."
+            "x": "8,709명의 전체·부위별 BAT 대사 활성은 머신러닝 기법(TriDFusion)으로 반자동 측정했다. BAT 활성이 높을수록 2형 당뇨병, 심방세동, 관상동맥질환, 울혈성 심부전이 단계적으로 줄었다. 나이, BMI, 성별, 외기 온도를 통제해도 마찬가지였다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
           },
           {
             "t": "p",
-            "x": "성능은 25개 기관과 영상 품질에 따라 달랐다. 연구팀은 \"이번 결과는 특히 세부 전문 인력이 부족한 곳에서 AI가 전립선 MRI 판독을 넓히는 역할을 할 가능성을 뒷받침한다\"고 썼다. 다만 안전하게 임상에 쓰려면 현지 검증과 장기적인 성능 모니터링이 필요하다고 덧붙였다."
+            "x": "BAT가 있는 사람은 불안과 우울증 유병률도 낮았다. 약물 분석에서는 안지오텐신 수용체 차단제 사용이 BAT 존재와 연관됐고, 개념 증명 실험에서는 로사르탄(losartan)이 PPARγ-dependent(PPARγ 의존적) 기전으로 갈색지방세포를 활성화했다. 이 접근법으로 BAT 활성화에 재창출할 약물을 찾을 수 있다는 근거다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI matches radiologists on\nprostate cancer MRI",
-          "body": "Across more than 22,000 prostate MRI exams, AI detected cancer about as well as radiologists did.",
-          "mini_headline": "AI matches prostate MRI readers",
+          "headline": "AI measures brown fat\nacross clinical scans",
+          "body": "AI scoring of brown fat links it to healthier metabolism and less psychiatric disease, and points to drugs to repurpose.",
+          "mini_headline": "AI reads brown fat",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AI may be on par with radiologists for finding prostate cancer on MRI, according to research published October 13 in Radiology. A team led by Anindo Saha, PhD, from Radboud University Medical Center in Nijmegen, the Netherlands, found an AI system achieved diagnostic performance comparable to radiologists for Gleason grade group ≥2 prostate cancer across external diagnostic and screening datasets."
+                "x": "Artificial intelligence-enabled quantification and analyses of brown adipose tissue (BAT) activity uncover links between BAT and a healthier metabolic profile along with lower rates of psychiatric disease."
+              },
+              {
+                "t": "p",
+                "x": "The team expanded its cohort of 18F-FDG-PET–CT scans taken for clinical purposes at Memorial Sloan Kettering Cancer Center to 101,243 patients, 8,897 of them BAT positive, and analysed associations across all diagnostic codes."
               },
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-                "cap": "Prostate MRI exams illustrating AI detection of Gleason grade group ≥2 cancers across international sites. RSNA"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "The SCARLET-1 study included 22,445 prostate MRI exams from 21,252 men across 46 cities in 22 countries. The AI reached external AUCs of 0.86 in the diagnostic setting and 0.89 and 0.84 in two screening settings, with 83.0% to 87.9% agreement with radiology readings."
+                "x": "A machine learning approach (TriDFusion) semi-automatically measured total and depot-specific BAT metabolic activity in 8,709 patients. Higher BAT activity was associated with a stepwise reduction in type 2 diabetes, atrial fibrillation, coronary artery disease and congestive heart failure, even after controlling for age, BMI, sex and outside temperature."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Performance varied across 25 sites and with image quality. \"These findings support a potential role for AI in extending prostate MRI interpretation, particularly where subspecialty expertise is limited,\" the team wrote, adding that safe clinical use will require local testing and longitudinal performance monitoring."
+                "x": "BAT presence was also associated with a lower prevalence of anxiety and depression. Medication analyses linked angiotensin receptor blocker use to BAT presence, and proof-of-concept experiments confirmed that losartan activates brown adipocytes through a PPARγ-dependent mechanism — showing the approach can identify drugs that could be repurposed to activate BAT."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 전립선암 MRI서\n영상의학 전문의와 대등",
-          "body": "전립선 MRI 22,000건 이상에서 AI는 영상의학 전문의만큼 암을 찾았다.",
-          "mini_headline": "AI, 전립선 MRI 판독 대등",
+          "headline": "AI가 임상 스캔에서\n갈색지방을 잰다",
+          "body": "AI로 잰 갈색지방은 건강한 대사·적은 정신질환과 맞닿고 재창출 약물도 짚는다.",
+          "mini_headline": "AI가 읽는 갈색지방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MRI로 전립선암을 찾는 AI의 실력이 영상의학 전문의와 대등할 수 있다는 연구가 13일 Radiology에 실렸다. 네덜란드 Nijmegen의 Radboud University Medical Center 소속 Anindo Saha, PhD가 이끈 연구팀은 외부 진단·검진 데이터셋 전반에서 AI 시스템이 Gleason 등급군 ≥2 전립선암을 영상의학 전문의와 비슷한 수준으로 진단했다고 밝혔다."
+                "x": "인공지능(Artificial intelligence)으로 갈색지방조직(BAT) 활성을 정량화해 분석해 보니, BAT는 더 건강한 대사 특성, 낮은 정신질환 발생률과 연관돼 있었다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 Memorial Sloan Kettering Cancer Center에서 임상 목적으로 찍은 18F-FDG-PET–CT 스캔 코호트를 101,243명으로 늘리고(이 중 8,897명이 BAT 양성), 모든 진단 코드를 대상으로 연관성을 살폈다."
               },
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-                "cap": "여러 국가 기관의 전립선 MRI 검사에서 AI가 Gleason 등급군 ≥2 암을 검출한 사례. RSNA"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "SCARLET-1 연구는 22개국 46개 도시 남성 21,252명의 전립선 MRI 검사 22,445건을 담았다. AI의 외부 AUCs는 진단 환경에서 0.86, 두 검진 환경에서 각각 0.89와 0.84였다. 영상의학 판독과 일치한 비율은 83.0%에서 87.9%였다."
+                "x": "8,709명의 전체·부위별 BAT 대사 활성은 머신러닝 기법(TriDFusion)으로 반자동 측정했다. BAT 활성이 높을수록 2형 당뇨병, 심방세동, 관상동맥질환, 울혈성 심부전이 단계적으로 줄었다. 나이, BMI, 성별, 외기 온도를 통제해도 마찬가지였다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
               },
               {
                 "t": "p",
-                "x": "성능은 25개 기관과 영상 품질에 따라 달랐다. 연구팀은 \"이번 결과는 특히 세부 전문 인력이 부족한 곳에서 AI가 전립선 MRI 판독을 넓히는 역할을 할 가능성을 뒷받침한다\"고 썼다. 다만 안전하게 임상에 쓰려면 현지 검증과 장기적인 성능 모니터링이 필요하다고 덧붙였다."
+                "x": "BAT가 있는 사람은 불안과 우울증 유병률도 낮았다. 약물 분석에서는 안지오텐신 수용체 차단제 사용이 BAT 존재와 연관됐고, 개념 증명 실험에서는 로사르탄(losartan)이 PPARγ-dependent(PPARγ 의존적) 기전으로 갈색지방세포를 활성화했다. 이 접근법으로 BAT 활성화에 재창출할 약물을 찾을 수 있다는 근거다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、前立腺がんMRIで\n放射線科医と同等の精度",
-          "body": "22,000件超の前立腺MRI検査で、AIは放射線科医とほぼ同等にがんを検出した。",
-          "mini_headline": "AI、前立腺MRI読影で医師並み",
+          "headline": "AIが臨床スキャンで\n褐色脂肪を測定",
+          "body": "AIによる褐色脂肪の評価は、健康な代謝や精神疾患の少なさとの関連と転用候補薬を示す。",
+          "mini_headline": "AIが褐色脂肪を読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "13日付のRadiologyに掲載された研究によると、MRIで前立腺がんを見つける能力において、AIは放射線科医と同等である可能性がある。オランダNijmegenのRadboud University Medical CenterのAnindo Saha, PhDが率いるチームは、外部の診断用・検診用データセット全体で、AIシステムがGleason grade group ≥2の前立腺がんについて放射線科医に匹敵する診断性能を示したと報告した。"
+                "x": "人工知能(Artificial intelligence)を用いた褐色脂肪組織(BAT)活性の定量と解析により、BATがより健康な代謝プロファイルおよび精神疾患の低い発生率と関連することが明らかになった。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、Memorial Sloan Kettering Cancer Centerで臨床目的に撮影された18F-FDG-PET–CTスキャンのコホートを101,243人(うち8,897人がBAT陽性)に拡大し、すべての診断コードにわたって関連を解析した。"
               },
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-                "cap": "各国の施設で、AIがGleason grade group ≥2のがんを検出した前立腺MRI検査の例。RSNA"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "SCARLET-1研究には、22か国46都市の男性21,252人から得た前立腺MRI検査22,445件が含まれた。AIの外部AUCsは診断設定で0.86、二つの検診設定で0.89と0.84で、放射線科の読影との一致率は83.0%から87.9%だった。"
+                "x": "機械学習の手法(TriDFusion)により、8,709人の全体および部位別のBAT代謝活性を半自動で測定した。BAT活性が高いほど、2型糖尿病、心房細動、冠動脈疾患、うっ血性心不全が段階的に減少し、年齢、BMI、性別、外気温を調整した後もこの関連は残った。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
               },
               {
                 "t": "p",
-                "x": "性能は25施設の間や画像の質によってばらついた。チームは「これらの結果は、とくにサブスペシャルティの専門知識が限られる場所で、AIが前立腺MRI読影を広げる役割を担いうることを裏付ける」と記し、安全な臨床利用には現地での検証と長期的な性能モニタリングが必要だと付け加えた。"
+                "x": "BATがあることは、不安やうつ病の有病率の低さとも関連していた。薬剤解析ではアンジオテンシン受容体拮抗薬の使用がBATの存在と結びつき、概念実証実験ではロサルタン(losartan)がPPARγ-dependent(PPARγ依存的)な機序で褐色脂肪細胞を活性化することが確認された。この手法が、BATを活性化するために転用できる薬剤を特定できることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在前列腺癌MRI上\n比肩放射科医生",
-          "body": "在超过22,000例前列腺MRI检查中，AI检出癌症的能力与放射科医生相当。",
-          "mini_headline": "AI前列腺MRI读片比肩医生",
+          "headline": "AI在临床扫描中\n量化棕色脂肪",
+          "body": "AI评估棕色脂肪,发现其与更健康的代谢和更少精神疾病相关,并指向可重新利用的药物。",
+          "mini_headline": "AI解读棕色脂肪",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "据13日发表在Radiology上的一项研究，AI在MRI上发现前列腺癌的能力可能与放射科医生相当。由荷兰Nijmegen的Radboud University Medical Center的Anindo Saha, PhD领导的团队发现，在外部诊断和筛查数据集中，AI系统对Gleason grade group ≥2前列腺癌的诊断性能与放射科医生相当。"
+                "x": "借助人工智能(Artificial intelligence)对棕色脂肪组织(BAT)活性进行量化与分析,发现BAT与更健康的代谢特征以及更低的精神疾病发生率相关。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队将Memorial Sloan Kettering Cancer Center出于临床目的拍摄的18F-FDG-PET–CT扫描队列扩大到101,243名患者,其中8,897名为BAT阳性,并分析了所有诊断编码之间的关联。"
               },
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-                "cap": "多国机构的前列腺MRI检查，展示AI检出Gleason grade group ≥2癌症的情况。RSNA"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "SCARLET-1研究纳入了来自22个国家46个城市21,252名男性的22,445例前列腺MRI检查。AI在诊断场景中的外部AUCs为0.86，在两个筛查场景中分别为0.89和0.84，与放射科判读的一致率为83.0%至87.9%。"
+                "x": "一种机器学习方法(TriDFusion)半自动测量了8,709名患者的总体及各部位BAT代谢活性。BAT活性越高,2型糖尿病、心房颤动、冠状动脉疾病和充血性心力衰竭呈阶梯式减少,即使在控制年龄、BMI、性别和室外温度后依然如此。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
               },
               {
                 "t": "p",
-                "x": "性能在25个站点之间以及随图像质量不同而有所差异。团队写道：“这些发现支持AI在扩展前列腺MRI判读方面可能发挥作用，尤其是在亚专科专业力量有限的地方。”他们还指出，要安全地用于临床，需要进行本地测试和长期性能监测。"
+                "x": "BAT的存在还与较低的焦虑和抑郁患病率相关。药物分析显示,血管紧张素受体阻滞剂的使用与BAT存在相关;概念验证实验证实,氯沙坦(losartan)通过PPARγ-dependent(PPARγ依赖性)机制激活棕色脂肪细胞——表明该方法可以找出可重新用于激活BAT的药物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI iguala a los radiólogos\nen MRI de cáncer de próstata",
-          "body": "En más de 22,000 estudios de MRI de próstata, la AI detectó el cáncer casi tan bien como los radiólogos.",
-          "mini_headline": "La AI iguala a los lectores de MRI de próstata",
+          "headline": "La AI mide la grasa parda\nen escáneres clínicos",
+          "body": "La AI vincula la grasa parda con mejor metabolismo y menos enfermedad psiquiátrica, y señala fármacos a reutilizar.",
+          "mini_headline": "La AI lee la grasa parda",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La AI podría estar a la par de los radiólogos para detectar el cáncer de próstata en MRI, según una investigación publicada el 13 de octubre en Radiology. Un equipo dirigido por Anindo Saha, PhD, del Radboud University Medical Center en Nijmegen, Países Bajos, observó que un sistema de AI logró un rendimiento diagnóstico comparable al de los radiólogos para el cáncer de próstata de Gleason grade group ≥2 en conjuntos de datos externos de diagnóstico y cribado."
+                "x": "La cuantificación y el análisis de la actividad del tejido adiposo pardo (BAT) mediante inteligencia artificial (Artificial intelligence) revelan vínculos entre el BAT y un perfil metabólico más saludable, junto con menores tasas de enfermedad psiquiátrica."
+              },
+              {
+                "t": "p",
+                "x": "El equipo amplió su cohorte de escáneres 18F-FDG-PET–CT realizados con fines clínicos en el Memorial Sloan Kettering Cancer Center a 101,243 pacientes, 8,897 de ellos BAT positivos, y analizó asociaciones en todos los códigos diagnósticos."
               },
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-                "cap": "Estudios de MRI de próstata que ilustran la detección por AI de cánceres de Gleason grade group ≥2 en centros internacionales. RSNA"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "El estudio SCARLET-1 incluyó 22,445 estudios de MRI de próstata de 21,252 hombres en 46 ciudades de 22 países. La AI alcanzó AUCs externas de 0.86 en el entorno diagnóstico y de 0.89 y 0.84 en dos entornos de cribado, con una concordancia del 83.0% al 87.9% con las lecturas radiológicas."
+                "x": "Un método de aprendizaje automático (TriDFusion) midió de forma semiautomática la actividad metabólica total y por depósito del BAT en 8,709 pacientes. Una mayor actividad del BAT se asoció con una reducción escalonada de diabetes tipo 2, fibrilación auricular, enfermedad coronaria e insuficiencia cardíaca congestiva, incluso tras ajustar por edad, BMI, sexo y temperatura exterior."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
               },
               {
                 "t": "p",
-                "x": "El rendimiento varió entre 25 centros y según la calidad de imagen. \"Estos hallazgos respaldan un posible papel de la AI para ampliar la interpretación de MRI de próstata, sobre todo donde la experiencia subespecializada es limitada\", escribió el equipo, que añadió que un uso clínico seguro exigirá pruebas locales y un seguimiento longitudinal del rendimiento."
+                "x": "La presencia de BAT también se asoció con una menor prevalencia de ansiedad y depresión. Los análisis de medicamentos vincularon el uso de antagonistas del receptor de angiotensina con la presencia de BAT, y experimentos de prueba de concepto confirmaron que el losartan activa los adipocitos pardos mediante un mecanismo PPARγ-dependent (dependiente de PPARγ), lo que muestra que el enfoque puede identificar fármacos reutilizables para activar el BAT."
               }
             ]
           }
@@ -487,109 +569,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 전립선암 MRI서\n영상의학 전문의와 대등",
-          "body": "전립선 MRI 22,000건 이상에서 AI는 영상의학 전문의만큼 암을 찾았다.",
-          "mini_headline": "AI, 전립선 MRI 판독 대등",
+          "headline": "AI가 임상 스캔에서\n갈색지방을 잰다",
+          "body": "AI로 잰 갈색지방은 건강한 대사·적은 정신질환과 이어지고 재창출 약물도 짚는다.",
+          "mini_headline": "AI가 읽는 갈색지방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AI가 MRI에서 전립선암을 찾아내는 능력이 영상의학 전문의와 대등할 수 있다는 연구가 13일 Radiology에 실렸다. 네덜란드 Nijmegen의 Radboud University Medical Center 소속 Anindo Saha, PhD가 이끈 연구팀은 외부 진단 및 검진 데이터셋 전반에서 AI 시스템이 Gleason 등급군 ≥2 전립선암에 대해 영상의학 전문의와 비슷한 진단 성능을 보였다고 밝혔다."
+                "x": "인공지능(Artificial intelligence) 기반으로 갈색지방조직(BAT) 활성을 정량화하고 분석한 결과, BAT가 더 건강한 대사 특성 및 낮은 정신질환 발생률과 연관된다는 사실이 드러났다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 Memorial Sloan Kettering Cancer Center에서 임상 목적으로 촬영한 18F-FDG-PET–CT 스캔 코호트를 101,243명으로 확대했고(이 중 8,897명이 BAT 양성), 모든 진단 코드에 걸쳐 연관성을 분석했다."
               },
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-                "cap": "여러 국가 기관의 전립선 MRI 검사에서 AI가 Gleason 등급군 ≥2 암을 검출한 사례. RSNA"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "SCARLET-1 연구에는 22개국 46개 도시 남성 21,252명의 전립선 MRI 검사 22,445건이 포함됐다. AI의 외부 AUCs는 진단 환경에서 0.86, 두 검진 환경에서 각각 0.89와 0.84였고, 영상의학 판독과의 일치율은 83.0%에서 87.9%였다."
+                "x": "머신러닝 기법(TriDFusion)으로 8,709명의 전체 및 부위별 BAT 대사 활성을 반자동으로 측정했다. BAT 활성이 높을수록 2형 당뇨병, 심방세동, 관상동맥질환, 울혈성 심부전이 단계적으로 줄었으며, 이는 나이, BMI, 성별, 외기 온도를 통제한 뒤에도 마찬가지였다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
               },
               {
                 "t": "p",
-                "x": "성능은 25개 기관과 영상 품질에 따라 달랐다. 연구팀은 \"이번 결과는 특히 세부 전문 인력이 부족한 곳에서 AI가 전립선 MRI 판독을 넓히는 역할을 할 가능성을 뒷받침한다\"고 썼다. 또 안전한 임상 적용에는 현지 검증과 장기적인 성능 모니터링이 필요하다고 덧붙였다."
+                "x": "BAT가 있으면 불안과 우울증 유병률도 낮았다. 약물 분석에서는 안지오텐신 수용체 차단제 사용이 BAT 존재와 연관됐고, 개념 증명 실험에서 로사르탄(losartan)이 PPARγ-dependent(PPARγ 의존적) 기전으로 갈색지방세포를 활성화한다는 점이 확인됐다. 이는 이 접근법으로 BAT 활성화에 재창출할 수 있는 약물을 찾을 수 있음을 보여준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、前立腺がんMRIで\n放射線科医と同等の精度",
-          "body": "22,000件超の前立腺MRI検査で、AIは放射線科医とほぼ同等にがんを検出した。",
-          "mini_headline": "AI、前立腺MRI読影で医師並み",
+          "headline": "AIが臨床スキャンで\n褐色脂肪を測定",
+          "body": "AIによる褐色脂肪の評価は、健康な代謝や精神疾患の少なさとの関連と転用候補薬を示す。",
+          "mini_headline": "AIが褐色脂肪を読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "13日付のRadiologyに掲載された研究によると、MRIで前立腺がんを見つける能力において、AIは放射線科医と同等である可能性がある。オランダNijmegenのRadboud University Medical CenterのAnindo Saha, PhDが率いるチームは、外部の診断用・検診用データセット全体で、AIシステムがGleason grade group ≥2の前立腺がんについて放射線科医に匹敵する診断性能を示したと報告した。"
+                "x": "人工知能(Artificial intelligence)を用いた褐色脂肪組織(BAT)活性の定量と解析により、BATがより健康な代謝プロファイルおよび精神疾患の低い発生率と関連することが明らかになった。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、Memorial Sloan Kettering Cancer Centerで臨床目的に撮影された18F-FDG-PET–CTスキャンのコホートを101,243人(うち8,897人がBAT陽性)に拡大し、すべての診断コードにわたって関連を解析した。"
               },
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-                "cap": "各国の施設で、AIがGleason grade group ≥2のがんを検出した前立腺MRI検査の例。RSNA"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "SCARLET-1研究には、22か国46都市の男性21,252人から得た前立腺MRI検査22,445件が含まれた。AIの外部AUCsは診断設定で0.86、二つの検診設定で0.89と0.84で、放射線科の読影との一致率は83.0%から87.9%だった。"
+                "x": "機械学習の手法(TriDFusion)により、8,709人の全体および部位別のBAT代謝活性を半自動で測定した。BAT活性が高いほど、2型糖尿病、心房細動、冠動脈疾患、うっ血性心不全が段階的に減少し、年齢、BMI、性別、外気温を調整した後もこの関連は残った。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
               },
               {
                 "t": "p",
-                "x": "性能は25施設の間や画像の質によってばらついた。チームは「これらの結果は、とくにサブスペシャルティの専門知識が限られる場所で、AIが前立腺MRI読影を広げる役割を担いうることを裏付ける」と記し、安全な臨床利用には現地での検証と長期的な性能モニタリングが必要だと付け加えた。"
+                "x": "BATがあることは、不安やうつ病の有病率の低さとも関連していた。薬剤解析ではアンジオテンシン受容体拮抗薬の使用がBATの存在と結びつき、概念実証実験ではロサルタン(losartan)がPPARγ-dependent(PPARγ依存的)な機序で褐色脂肪細胞を活性化することが確認された。この手法が、BATを活性化するために転用できる薬剤を特定できることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在前列腺癌MRI上\n比肩放射科医生",
-          "body": "在超过22,000例前列腺MRI检查中，AI检出癌症的能力与放射科医生相当。",
-          "mini_headline": "AI前列腺MRI读片比肩医生",
+          "headline": "AI在临床扫描中\n量化棕色脂肪",
+          "body": "AI评估棕色脂肪,发现其与更健康的代谢和更少精神疾病相关,并指向可重新利用的药物。",
+          "mini_headline": "AI解读棕色脂肪",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "据13日发表在Radiology上的一项研究，AI在MRI上发现前列腺癌的能力可能与放射科医生相当。由荷兰Nijmegen的Radboud University Medical Center的Anindo Saha, PhD领导的团队发现，在外部诊断和筛查数据集中，AI系统对Gleason grade group ≥2前列腺癌的诊断性能与放射科医生相当。"
+                "x": "借助人工智能(Artificial intelligence)对棕色脂肪组织(BAT)活性进行量化与分析,发现BAT与更健康的代谢特征以及更低的精神疾病发生率相关。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队将Memorial Sloan Kettering Cancer Center出于临床目的拍摄的18F-FDG-PET–CT扫描队列扩大到101,243名患者,其中8,897名为BAT阳性,并分析了所有诊断编码之间的关联。"
               },
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-                "cap": "多国机构的前列腺MRI检查，展示AI检出Gleason grade group ≥2癌症的情况。RSNA"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "SCARLET-1研究纳入了来自22个国家46个城市21,252名男性的22,445例前列腺MRI检查。AI在诊断场景中的外部AUCs为0.86，在两个筛查场景中分别为0.89和0.84，与放射科判读的一致率为83.0%至87.9%。"
+                "x": "一种机器学习方法(TriDFusion)半自动测量了8,709名患者的总体及各部位BAT代谢活性。BAT活性越高,2型糖尿病、心房颤动、冠状动脉疾病和充血性心力衰竭呈阶梯式减少,即使在控制年龄、BMI、性别和室外温度后依然如此。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
               },
               {
                 "t": "p",
-                "x": "性能在25个站点之间以及随图像质量不同而有所差异。团队写道：“这些发现支持AI在扩展前列腺MRI判读方面可能发挥作用，尤其是在亚专科专业力量有限的地方。”他们还指出，要安全地用于临床，需要进行本地测试和长期性能监测。"
+                "x": "BAT的存在还与较低的焦虑和抑郁患病率相关。药物分析显示,血管紧张素受体阻滞剂的使用与BAT存在相关;概念验证实验证实,氯沙坦(losartan)通过PPARγ-dependent(PPARγ依赖性)机制激活棕色脂肪细胞——表明该方法可以找出可重新用于激活BAT的药物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI iguala a los radiólogos\nen MRI de cáncer de próstata",
-          "body": "En más de 22,000 estudios de MRI de próstata, la AI detectó el cáncer casi tan bien como los radiólogos.",
-          "mini_headline": "La AI iguala a los lectores de MRI de próstata",
+          "headline": "La AI mide la grasa parda\nen escáneres clínicos",
+          "body": "La AI vincula la grasa parda con mejor metabolismo y menos enfermedad psiquiátrica, y señala fármacos a reutilizar.",
+          "mini_headline": "La AI lee la grasa parda",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La AI podría estar a la par de los radiólogos para detectar el cáncer de próstata en MRI, según una investigación publicada el 13 de octubre en Radiology. Un equipo dirigido por Anindo Saha, PhD, del Radboud University Medical Center en Nijmegen, Países Bajos, observó que un sistema de AI logró un rendimiento diagnóstico comparable al de los radiólogos para el cáncer de próstata de Gleason grade group ≥2 en conjuntos de datos externos de diagnóstico y cribado."
+                "x": "La cuantificación y el análisis de la actividad del tejido adiposo pardo (BAT) mediante inteligencia artificial (Artificial intelligence) revelan vínculos entre el BAT y un perfil metabólico más saludable, junto con menores tasas de enfermedad psiquiátrica."
+              },
+              {
+                "t": "p",
+                "x": "El equipo amplió su cohorte de escáneres 18F-FDG-PET–CT realizados con fines clínicos en el Memorial Sloan Kettering Cancer Center a 101,243 pacientes, 8,897 de ellos BAT positivos, y analizó asociaciones en todos los códigos diagnósticos."
               },
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-                "cap": "Estudios de MRI de próstata que ilustran la detección por AI de cánceres de Gleason grade group ≥2 en centros internacionales. RSNA"
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "El estudio SCARLET-1 incluyó 22,445 estudios de MRI de próstata de 21,252 hombres en 46 ciudades de 22 países. La AI alcanzó AUCs externas de 0.86 en el entorno diagnóstico y de 0.89 y 0.84 en dos entornos de cribado, con una concordancia del 83.0% al 87.9% con las lecturas radiológicas."
+                "x": "Un método de aprendizaje automático (TriDFusion) midió de forma semiautomática la actividad metabólica total y por depósito del BAT en 8,709 pacientes. Una mayor actividad del BAT se asoció con una reducción escalonada de diabetes tipo 2, fibrilación auricular, enfermedad coronaria e insuficiencia cardíaca congestiva, incluso tras ajustar por edad, BMI, sexo y temperatura exterior."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
               },
               {
                 "t": "p",
-                "x": "El rendimiento varió entre 25 centros y según la calidad de imagen. \"Estos hallazgos respaldan un posible papel de la AI para ampliar la interpretación de MRI de próstata, sobre todo donde la experiencia subespecializada es limitada\", escribió el equipo, que añadió que un uso clínico seguro exigirá pruebas locales y un seguimiento longitudinal del rendimiento."
+                "x": "La presencia de BAT también se asoció con una menor prevalencia de ansiedad y depresión. Los análisis de medicamentos vincularon el uso de antagonistas del receptor de angiotensina con la presencia de BAT, y experimentos de prueba de concepto confirmaron que el losartan activa los adipocitos pardos mediante un mecanismo PPARγ-dependent (dependiente de PPARγ), lo que muestra que el enfoque puede identificar fármacos reutilizables para activar el BAT."
               }
             ]
           }
@@ -597,171 +707,255 @@
       }
     },
     {
-      "id": "medicine-epilepsy-eeg-llm-chat-comanagement",
+      "id": "medicine-bradford-skin-cancer",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "뇌전증 환자, LLM으로\n자기 EEG와 대화한다",
-      "body": "스마트폰 LLM 채팅 피드백이 소규모 연구서 발작 오경보를 약 80% 줄였다.",
-      "mini_headline": "환자, 자기 EEG와 대화",
+      "headline": "Bradford, AI로\n피부암 대기 단축",
+      "body": "Bradford 피부암 클리닉이 AI 스캔으로 환자를 더 받고 결과도 빨리 알린다.",
+      "mini_headline": "Bradford 피부 검진 빨라져",
       "tool": "Medicine",
-      "source": "Nature Medicine",
-      "url": "https://www.nature.com/articles/s41591-026-04680-4",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+            "cap": "인공지능이 의심스러운 피부 병변 이미지를 몇 분 만에 분석한다"
+          },
+          {
             "t": "p",
-            "x": "전 세계 뇌전증 환자 70 million 명 가운데 삼분의 일은 약으로 발작이 조절되지 않는다. 이식형 기기가 임박한 발작이나 복약 누락, 인지 저하를 감지해도 그 정보를 환자와 실시간으로 나누지는 못한다."
+            "x": "인공지능(AI)으로 피부암을 더 일찍 잡아내는 NHS 클리닉 직원들은 이 기술이 “게임 체인저”가 될 수 있다고 말했다. Bradford의 St Luke's Hospital 피부과 팀은 사월에 이 시스템을 들였고, 지금은 세션마다 환자 32명을 본다. 전에는 24명이었다."
+          },
+          {
+            "t": "p",
+            "x": "이 시스템 DERM(Deep Ensemble for the Recognition of Malignancy)은 Skin Analytics가 만들었고, 회사는 흑색종을 배제하는 정확도가 99.9%라고 주장한다. 의료 보조 인력이 병변 사진 세 장을 찍으면 시스템이 몇 분 안에 분석한다. 양성이면 조언과 함께 집으로 돌려보내고, 의심스러우면 전문의에게 넘긴다."
           },
           {
             "t": "img",
-            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-            "cap": "Fig. 1: 플랫폼 개요."
+            "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+            "cap": "병원 트러스트는 인공지능 덕분에 클리닉 직원들이 환자를 삼분의 일 더 볼 수 있었다고 밝혔다"
           },
           {
             "t": "p",
-            "x": "연구진이 선보인 입원 환자용 프로토타입은 두피 EEG와 두개내 EEG를 보안이 확보된 대규모 언어 모델 기반 AI에 연결한다. 이 AI는 스마트폰 앱으로 환자와 양방향으로 소통하며 임상 이벤트와 추세를 알리고 증상과 응답을 기록한다. 환자 피드백으로 발작 감지기를 다시 학습시키기도 한다."
+            "x": "모든 이미지는 임상의가 다시 본다. 트러스트는 불필요한 생검이 약 10% 줄었다고 밝혔다. 성형외과 전문의 Zakir Shariff는 이 기술이 대기 시간에 “큰 영향”을 미쳤다고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+            "cap": "성형외과 의사 Zakir Shariff는 AI가 대기 시간에 큰 영향을 줬다고 말했다"
           },
           {
             "t": "p",
-            "x": "플랫폼 검증에는 video-EEG 모니터링을 받는 환자 13명이 참여했다. 환자들은 실시간 발작 알림의 67.2%에 응답했다. 유사 전향적 시뮬레이션에서는 전문가 개입 없이 환자 주석만으로 미세 조정해도 오경보가 80.9% 줄었다."
+            "x": "NICE는 근거를 모으는 향후 삼 년 동안 NHS에서 이 기술을 쓰라고 권고했다. 지금은 40개 NHS 트러스트가 도입했고, Yorkshire에서는 Bradford가 처음이었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Epilepsy patients talk to\ntheir EEG through an LLM",
-          "body": "Patient feedback through a smartphone LLM chat cut seizure-detector false alarms by about 80% in a small study.",
-          "mini_headline": "Patients chat with their EEG",
+          "headline": "Bradford cuts skin cancer\nwaits with AI scanning",
+          "body": "A Bradford skin cancer clinic can now see more patients and deliver results faster thanks to AI scanning technology.",
+          "mini_headline": "Faster skin checks in Bradford",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+                "cap": "The artificial intelligence analyses images of suspicious skin lesions in minutes"
+              },
+              {
                 "t": "p",
-                "x": "One-third of the world's 70 million people with epilepsy have seizures uncontrolled by medication. Implantable devices can detect impending seizures, missed medication and impaired cognition, but cannot share this information with patients in real time."
+                "x": "Staff at an NHS clinic using artificial intelligence (AI) to detect skin cancer sooner have said the technology could be a \"game changer\". The dermatology team at St Luke's Hospital in Bradford adopted the system in April; 32 patients can now be seen in each session, compared to 24 before."
+              },
+              {
+                "t": "p",
+                "x": "The system, DERM (Deep Ensemble for the Recognition of Malignancy), is made by Skin Analytics, which claims it is 99.9% accurate at ruling out melanoma. A healthcare assistant takes three photographs of the lesion and the system analyses them in minutes; benign cases are discharged with advice and suspicious ones referred to a specialist."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-                "cap": "Fig. 1: Platform overview."
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+                "cap": "The hospital trust said artificial intelligence has helped staff see one-third more patients in clinics"
               },
               {
                 "t": "p",
-                "x": "The researchers present an inpatient prototype that links scalp and intracranial EEG to a secure, large language model-based AI that communicates bidirectionally through a smartphone app. It notifies patients of clinical events and trends, records symptoms and responses, and uses their feedback to retrain its seizure detector."
+                "x": "Every image is double-checked by a clinician. Unnecessary biopsies have dropped by about 10%, according to the trust. Consultant plastic surgeon Zakir Shariff said it has had a \"big impact\" on waiting times."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+                "cap": "Plastic surgeon Zakir Shariff said the AI has had a big impact on waiting times"
               },
               {
                 "t": "p",
-                "x": "The platform was validated in 13 patients undergoing video-EEG monitoring. Patients responded to 67.2% of real-time seizure alerts. In a pseudoprospective simulation, fine-tuning with patient annotations alone reduced false alarms by 80.9%, without expert intervention."
+                "x": "NICE has recommended the technology for NHS use for the next three years while evidence is collected. It is deployed in 40 NHS trusts, and Bradford was the first in Yorkshire to adopt it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "뇌전증 환자, LLM으로\n자기 EEG와 대화한다",
-          "body": "스마트폰 LLM 채팅 피드백이 소규모 연구서 발작 오경보를 약 80% 줄였다.",
-          "mini_headline": "환자, 자기 EEG와 대화",
+          "headline": "Bradford, AI로\n피부암 대기 단축",
+          "body": "Bradford 피부암 클리닉이 AI 스캔으로 환자를 더 받고 결과도 빨리 알린다.",
+          "mini_headline": "Bradford 피부 검진 빨라져",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+                "cap": "인공지능이 의심스러운 피부 병변 이미지를 몇 분 만에 분석한다"
+              },
+              {
                 "t": "p",
-                "x": "전 세계 뇌전증 환자 70 million 명 가운데 삼분의 일은 약으로 발작이 조절되지 않는다. 이식형 기기가 임박한 발작이나 복약 누락, 인지 저하를 감지해도 그 정보를 환자와 실시간으로 나누지는 못한다."
+                "x": "인공지능(AI)으로 피부암을 더 일찍 잡아내는 NHS 클리닉 직원들은 이 기술이 “게임 체인저”가 될 수 있다고 말했다. Bradford의 St Luke's Hospital 피부과 팀은 사월에 이 시스템을 들였고, 지금은 세션마다 환자 32명을 본다. 전에는 24명이었다."
+              },
+              {
+                "t": "p",
+                "x": "이 시스템 DERM(Deep Ensemble for the Recognition of Malignancy)은 Skin Analytics가 만들었고, 회사는 흑색종을 배제하는 정확도가 99.9%라고 주장한다. 의료 보조 인력이 병변 사진 세 장을 찍으면 시스템이 몇 분 안에 분석한다. 양성이면 조언과 함께 집으로 돌려보내고, 의심스러우면 전문의에게 넘긴다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-                "cap": "Fig. 1: 플랫폼 개요."
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+                "cap": "병원 트러스트는 인공지능 덕분에 클리닉 직원들이 환자를 삼분의 일 더 볼 수 있었다고 밝혔다"
               },
               {
                 "t": "p",
-                "x": "연구진이 선보인 입원 환자용 프로토타입은 두피 EEG와 두개내 EEG를 보안이 확보된 대규모 언어 모델 기반 AI에 연결한다. 이 AI는 스마트폰 앱으로 환자와 양방향으로 소통하며 임상 이벤트와 추세를 알리고 증상과 응답을 기록한다. 환자 피드백으로 발작 감지기를 다시 학습시키기도 한다."
+                "x": "모든 이미지는 임상의가 다시 본다. 트러스트는 불필요한 생검이 약 10% 줄었다고 밝혔다. 성형외과 전문의 Zakir Shariff는 이 기술이 대기 시간에 “큰 영향”을 미쳤다고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+                "cap": "성형외과 의사 Zakir Shariff는 AI가 대기 시간에 큰 영향을 줬다고 말했다"
               },
               {
                 "t": "p",
-                "x": "플랫폼 검증에는 video-EEG 모니터링을 받는 환자 13명이 참여했다. 환자들은 실시간 발작 알림의 67.2%에 응답했다. 유사 전향적 시뮬레이션에서는 전문가 개입 없이 환자 주석만으로 미세 조정해도 오경보가 80.9% 줄었다."
+                "x": "NICE는 근거를 모으는 향후 삼 년 동안 NHS에서 이 기술을 쓰라고 권고했다. 지금은 40개 NHS 트러스트가 도입했고, Yorkshire에서는 Bradford가 처음이었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "てんかん患者がLLMで\n自分のEEGと対話",
-          "body": "スマホのLLMチャットで患者の反応が、小規模研究で発作検知の誤警報を約80%減らした。",
-          "mini_headline": "患者が自分のEEGとチャット",
+          "headline": "Bradford、AIで\n皮膚がん待ち時間短縮",
+          "body": "Bradfordの皮膚がん外来は、AIスキャンで患者を多く診て結果も早く出す。",
+          "mini_headline": "Bradfordで皮膚検査が迅速に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+                "cap": "人工知能が疑わしい皮膚病変の画像を数分で解析する"
+              },
+              {
                 "t": "p",
-                "x": "世界のてんかん患者70 million人のうち三分の一は、薬で発作を抑えられない。埋め込み型デバイスは差し迫った発作や服薬の飲み忘れ、認知機能の低下を検知できるが、その情報を患者とリアルタイムで共有することはできない。"
+                "x": "人工知能(AI)で皮膚がんをより早く発見しているNHSのクリニックのスタッフは、この技術が「ゲームチェンジャー」になり得ると語った。BradfordのSt Luke's Hospitalの皮膚科チームは四月にこのシステムを導入し、各セッションで診られる患者は以前の24人から32人に増えた。"
+              },
+              {
+                "t": "p",
+                "x": "このシステムDERM(Deep Ensemble for the Recognition of Malignancy)はSkin Analytics製で、同社はメラノーマを除外する精度が99.9%だとしている。医療助手が病変の写真を三枚撮影すると、システムが数分で解析し、良性の場合は助言とともに帰宅させ、疑わしい場合は専門医に紹介する。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-                "cap": "Fig. 1: プラットフォームの概要。"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+                "cap": "病院トラストによると、人工知能のおかげでスタッフはクリニックで三分の一多くの患者を診られるようになった"
               },
               {
                 "t": "p",
-                "x": "研究チームは、頭皮上および頭蓋内のEEGを、安全な大規模言語モデルベースのAIにつなぐ入院患者向けプロトタイプを示した。このAIはスマートフォンアプリを通じて双方向にやり取りし、臨床イベントや傾向を患者に知らせ、症状や応答を記録し、患者のフィードバックを使って発作検知器を再学習させる。"
+                "x": "すべての画像は臨床医が二重にチェックする。トラストによると、不要な生検は約10%減った。形成外科顧問医のZakir Shariffは、待ち時間に「大きな影響」があったと述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+                "cap": "形成外科医のZakir Shariffは、AIが待ち時間に大きな影響を与えたと語った"
               },
               {
                 "t": "p",
-                "x": "プラットフォームはvideo-EEGモニタリングを受ける13人の患者で検証された。患者はリアルタイムの発作アラートの67.2%に応答した。擬似前向きシミュレーションでは、専門家の介入なしに患者の注釈だけでファインチューニングし、誤警報を80.9%減らした。"
+                "x": "NICEは、エビデンスを収集する今後三年間、NHSでこの技術を使用することを推奨した。現在40のNHSトラストで導入されており、BradfordはYorkshireで最初に採用した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "癫痫患者借助LLM\n与自己的EEG对话",
-          "body": "在一项小型研究中，患者通过手机LLM聊天给出的反馈使发作检测误报减少约80%。",
-          "mini_headline": "患者与自己的EEG聊天",
+          "headline": "Bradford借助AI\n缩短皮肤癌等候时间",
+          "body": "Bradford一家皮肤癌诊所借助AI扫描技术,能接诊更多患者,出结果也更快。",
+          "mini_headline": "Bradford皮肤检查提速",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+                "cap": "人工智能可在几分钟内分析可疑皮肤病变的图像"
+              },
+              {
                 "t": "p",
-                "x": "全球70 million癫痫患者中，有三分之一的发作无法用药物控制。植入式设备可以检测即将发生的发作、漏服药物和认知受损，却无法与患者实时共享这些信息。"
+                "x": "一家利用人工智能(AI)更早发现皮肤癌的NHS诊所的工作人员表示,这项技术可能“改变游戏规则”。Bradford的St Luke's Hospital皮肤科团队于四月引入该系统;现在每次门诊可接诊32名患者,此前为24名。"
+              },
+              {
+                "t": "p",
+                "x": "该系统名为DERM(Deep Ensemble for the Recognition of Malignancy),由Skin Analytics开发,该公司称其排除黑色素瘤的准确率为99.9%。医疗助理为病变拍摄三张照片,系统在几分钟内完成分析;良性病例给予建议后离院,可疑病例转诊给专科医生。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-                "cap": "Fig. 1：平台概览。"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+                "cap": "医院信托表示,人工智能帮助员工在诊所多接诊了三分之一的患者"
               },
               {
                 "t": "p",
-                "x": "研究人员展示了一个住院原型系统，将头皮EEG和颅内EEG连接到一个安全的、基于大语言模型的AI，后者通过智能手机应用与患者双向沟通。它会向患者通报临床事件和趋势，记录症状和回应，并利用患者反馈重新训练其发作检测器。"
+                "x": "每张图像都由临床医生复核。据该信托称,不必要的活检减少了约10%。整形外科顾问医生Zakir Shariff表示,这对等候时间产生了“重大影响”。"
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+                "cap": "整形外科医生Zakir Shariff表示,AI对等候时间产生了重大影响"
               },
               {
                 "t": "p",
-                "x": "该平台在13名接受video-EEG监测的患者中得到验证。患者回应了67.2%的实时发作警报。在伪前瞻性模拟中，仅用患者标注进行微调、无需专家干预，就使误报减少了80.9%。"
+                "x": "NICE已建议在收集证据期间,未来三年在NHS中使用该技术。目前它已在40个NHS信托中部署,Bradford是Yorkshire第一个采用的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pacientes con epilepsia\nhablan con su EEG vía un LLM",
-          "body": "Las respuestas de pacientes en un chat LLM del móvil redujeron cerca del 80% las falsas alarmas en un estudio pequeño.",
-          "mini_headline": "Pacientes que conversan con su EEG",
+          "headline": "Bradford reduce esperas de\ncáncer de piel con AI",
+          "body": "Una clínica de cáncer de piel de Bradford atiende a más pacientes y da resultados antes gracias al escaneo con AI.",
+          "mini_headline": "Revisiones de piel más rápidas en Bradford",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+                "cap": "La inteligencia artificial analiza en minutos imágenes de lesiones cutáneas sospechosas"
+              },
+              {
                 "t": "p",
-                "x": "Un tercio de los 70 millones de personas con epilepsia en el mundo tiene crisis que la medicación no controla. Los dispositivos implantables pueden detectar crisis inminentes, dosis olvidadas y deterioro cognitivo, pero no pueden compartir esa información con los pacientes en tiempo real."
+                "x": "El personal de una clínica del NHS que usa inteligencia artificial (AI) para detectar antes el cáncer de piel afirma que la tecnología podría «cambiar las reglas del juego». El equipo de dermatología del St Luke's Hospital de Bradford adoptó el sistema en abril; ahora puede atender a 32 pacientes por sesión, frente a 24 antes."
+              },
+              {
+                "t": "p",
+                "x": "El sistema, DERM (Deep Ensemble for the Recognition of Malignancy), lo fabrica Skin Analytics, que asegura que tiene una precisión del 99.9% para descartar el melanoma. Un asistente sanitario toma tres fotografías de la lesión y el sistema las analiza en minutos; los casos benignos reciben el alta con recomendaciones y los sospechosos se derivan a un especialista."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-                "cap": "Fig. 1: Visión general de la plataforma."
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+                "cap": "El fideicomiso hospitalario afirmó que la inteligencia artificial ha ayudado al personal a atender un tercio más de pacientes en las consultas"
               },
               {
                 "t": "p",
-                "x": "Los investigadores presentan un prototipo hospitalario que conecta el EEG de cuero cabelludo e intracraneal con una AI segura basada en un modelo de lenguaje de gran tamaño, que se comunica en ambos sentidos mediante una app de smartphone. Notifica a los pacientes eventos clínicos y tendencias, registra síntomas y respuestas, y usa sus comentarios para reentrenar su detector de crisis."
+                "x": "Un clínico revisa de nuevo cada imagen. Las biopsias innecesarias han bajado alrededor de un 10%, según el fideicomiso. El cirujano plástico consultor Zakir Shariff afirmó que ha tenido un «gran impacto» en los tiempos de espera."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+                "cap": "El cirujano plástico Zakir Shariff afirmó que la AI ha tenido un gran impacto en los tiempos de espera"
               },
               {
                 "t": "p",
-                "x": "La plataforma se validó en 13 pacientes sometidos a monitorización por video-EEG. Los pacientes respondieron al 67.2% de las alertas de crisis en tiempo real. En una simulación pseudoprospectiva, el ajuste fino solo con anotaciones de los pacientes redujo las falsas alarmas en un 80.9%, sin intervención de expertos."
+                "x": "NICE ha recomendado la tecnología para su uso en el NHS durante los próximos tres años mientras se recopilan pruebas. Está implantada en 40 fideicomisos del NHS, y Bradford fue el primero de Yorkshire en adoptarla."
               }
             ]
           }
@@ -769,109 +963,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "뇌전증 환자, LLM으로\n자기 EEG와 대화한다",
-          "body": "스마트폰 LLM 채팅 피드백이 소규모 연구서 발작 오경보를 약 80% 줄였다.",
-          "mini_headline": "환자, 자기 EEG와 대화",
+          "headline": "Bradford, AI로\n피부암 대기 단축",
+          "body": "Bradford 피부암 클리닉이 AI 스캔으로 환자를 더 받고 결과도 빨리 낸다.",
+          "mini_headline": "Bradford 피부 검진 빨라져",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+                "cap": "인공지능이 의심스러운 피부 병변 이미지를 몇 분 만에 분석한다"
+              },
+              {
                 "t": "p",
-                "x": "전 세계 뇌전증 환자 70 million 명 가운데 삼분의 일은 약으로 발작이 조절되지 않는다. 이식형 기기는 임박한 발작, 복약 누락, 인지 저하를 감지할 수 있지만 이 정보를 환자와 실시간으로 공유하지는 못한다."
+                "x": "인공지능(AI)으로 피부암을 더 일찍 찾아내는 NHS 클리닉 직원들은 이 기술이 “게임 체인저”가 될 수 있다고 말했다. Bradford의 St Luke's Hospital 피부과 팀은 사월에 이 시스템을 도입했고, 이제 세션마다 환자 32명을 진료한다. 이전에는 24명이었다."
+              },
+              {
+                "t": "p",
+                "x": "이 시스템 DERM(Deep Ensemble for the Recognition of Malignancy)은 Skin Analytics가 만들었으며, 회사는 흑색종을 배제하는 정확도가 99.9%라고 주장한다. 의료 보조 인력이 병변 사진 세 장을 찍으면 시스템이 몇 분 만에 분석하고, 양성이면 조언과 함께 귀가시키며 의심스러운 경우는 전문의에게 의뢰한다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-                "cap": "Fig. 1: 플랫폼 개요."
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+                "cap": "병원 트러스트는 인공지능 덕분에 직원들이 클리닉에서 삼분의 일 더 많은 환자를 볼 수 있었다고 밝혔다"
               },
               {
                 "t": "p",
-                "x": "연구진은 두피 EEG와 두개내 EEG를 보안이 확보된 대규모 언어 모델 기반 AI에 연결하는 입원 환자용 프로토타입을 선보였다. 이 AI는 스마트폰 앱으로 양방향 소통하며 환자에게 임상 이벤트와 추세를 알리고, 증상과 응답을 기록하며, 환자 피드백으로 발작 감지기를 다시 학습시킨다."
+                "x": "모든 이미지는 임상의가 다시 확인한다. 트러스트에 따르면 불필요한 생검이 약 10% 줄었다. 성형외과 전문의 Zakir Shariff는 이 기술이 대기 시간에 “큰 영향”을 미쳤다고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+                "cap": "성형외과 의사 Zakir Shariff는 AI가 대기 시간에 큰 영향을 미쳤다고 말했다"
               },
               {
                 "t": "p",
-                "x": "플랫폼은 video-EEG 모니터링을 받는 환자 13명에게서 검증됐다. 환자들은 실시간 발작 알림의 67.2%에 응답했다. 유사 전향적 시뮬레이션에서는 전문가 개입 없이 환자 주석만으로 미세 조정해도 오경보가 80.9% 줄었다."
+                "x": "NICE는 근거를 수집하는 향후 삼 년간 NHS에서 이 기술을 쓰도록 권고했다. 현재 40개 NHS 트러스트에 도입됐으며, Bradford는 Yorkshire에서 처음으로 이 기술을 도입했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "てんかん患者がLLMで\n自分のEEGと対話",
-          "body": "スマホのLLMチャットで患者の反応が、小規模研究で発作検知の誤警報を約80%減らした。",
-          "mini_headline": "患者が自分のEEGとチャット",
+          "headline": "Bradford、AIで\n皮膚がん待ち時間短縮",
+          "body": "Bradfordの皮膚がん外来は、AIスキャンで患者を多く診て結果も早く出す。",
+          "mini_headline": "Bradfordで皮膚検査が迅速に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+                "cap": "人工知能が疑わしい皮膚病変の画像を数分で解析する"
+              },
+              {
                 "t": "p",
-                "x": "世界のてんかん患者70 million人のうち三分の一は、薬で発作を抑えられない。埋め込み型デバイスは差し迫った発作や服薬の飲み忘れ、認知機能の低下を検知できるが、その情報を患者とリアルタイムで共有することはできない。"
+                "x": "人工知能(AI)で皮膚がんをより早く発見しているNHSのクリニックのスタッフは、この技術が「ゲームチェンジャー」になり得ると語った。BradfordのSt Luke's Hospitalの皮膚科チームは四月にこのシステムを導入し、各セッションで診られる患者は以前の24人から32人に増えた。"
+              },
+              {
+                "t": "p",
+                "x": "このシステムDERM(Deep Ensemble for the Recognition of Malignancy)はSkin Analytics製で、同社はメラノーマを除外する精度が99.9%だとしている。医療助手が病変の写真を三枚撮影すると、システムが数分で解析し、良性の場合は助言とともに帰宅させ、疑わしい場合は専門医に紹介する。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-                "cap": "Fig. 1: プラットフォームの概要。"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+                "cap": "病院トラストによると、人工知能のおかげでスタッフはクリニックで三分の一多くの患者を診られるようになった"
               },
               {
                 "t": "p",
-                "x": "研究チームは、頭皮上および頭蓋内のEEGを、安全な大規模言語モデルベースのAIにつなぐ入院患者向けプロトタイプを示した。このAIはスマートフォンアプリを通じて双方向にやり取りし、臨床イベントや傾向を患者に知らせ、症状や応答を記録し、患者のフィードバックを使って発作検知器を再学習させる。"
+                "x": "すべての画像は臨床医が二重にチェックする。トラストによると、不要な生検は約10%減った。形成外科顧問医のZakir Shariffは、待ち時間に「大きな影響」があったと述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+                "cap": "形成外科医のZakir Shariffは、AIが待ち時間に大きな影響を与えたと語った"
               },
               {
                 "t": "p",
-                "x": "プラットフォームはvideo-EEGモニタリングを受ける13人の患者で検証された。患者はリアルタイムの発作アラートの67.2%に応答した。擬似前向きシミュレーションでは、専門家の介入なしに患者の注釈だけでファインチューニングし、誤警報を80.9%減らした。"
+                "x": "NICEは、エビデンスを収集する今後三年間、NHSでこの技術を使用することを推奨した。現在40のNHSトラストで導入されており、BradfordはYorkshireで最初に採用した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "癫痫患者借助LLM\n与自己的EEG对话",
-          "body": "在一项小型研究中，患者通过手机LLM聊天给出的反馈使发作检测误报减少约80%。",
-          "mini_headline": "患者与自己的EEG聊天",
+          "headline": "Bradford借助AI\n缩短皮肤癌等候时间",
+          "body": "Bradford一家皮肤癌诊所借助AI扫描技术,能接诊更多患者,出结果也更快。",
+          "mini_headline": "Bradford皮肤检查提速",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+                "cap": "人工智能可在几分钟内分析可疑皮肤病变的图像"
+              },
+              {
                 "t": "p",
-                "x": "全球70 million癫痫患者中，有三分之一的发作无法用药物控制。植入式设备可以检测即将发生的发作、漏服药物和认知受损，却无法与患者实时共享这些信息。"
+                "x": "一家利用人工智能(AI)更早发现皮肤癌的NHS诊所的工作人员表示,这项技术可能“改变游戏规则”。Bradford的St Luke's Hospital皮肤科团队于四月引入该系统;现在每次门诊可接诊32名患者,此前为24名。"
+              },
+              {
+                "t": "p",
+                "x": "该系统名为DERM(Deep Ensemble for the Recognition of Malignancy),由Skin Analytics开发,该公司称其排除黑色素瘤的准确率为99.9%。医疗助理为病变拍摄三张照片,系统在几分钟内完成分析;良性病例给予建议后离院,可疑病例转诊给专科医生。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-                "cap": "Fig. 1：平台概览。"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+                "cap": "医院信托表示,人工智能帮助员工在诊所多接诊了三分之一的患者"
               },
               {
                 "t": "p",
-                "x": "研究人员展示了一个住院原型系统，将头皮EEG和颅内EEG连接到一个安全的、基于大语言模型的AI，后者通过智能手机应用与患者双向沟通。它会向患者通报临床事件和趋势，记录症状和回应，并利用患者反馈重新训练其发作检测器。"
+                "x": "每张图像都由临床医生复核。据该信托称,不必要的活检减少了约10%。整形外科顾问医生Zakir Shariff表示,这对等候时间产生了“重大影响”。"
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+                "cap": "整形外科医生Zakir Shariff表示,AI对等候时间产生了重大影响"
               },
               {
                 "t": "p",
-                "x": "该平台在13名接受video-EEG监测的患者中得到验证。患者回应了67.2%的实时发作警报。在伪前瞻性模拟中，仅用患者标注进行微调、无需专家干预，就使误报减少了80.9%。"
+                "x": "NICE已建议在收集证据期间,未来三年在NHS中使用该技术。目前它已在40个NHS信托中部署,Bradford是Yorkshire第一个采用的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pacientes con epilepsia\nhablan con su EEG vía un LLM",
-          "body": "Las respuestas de pacientes en un chat LLM del móvil redujeron cerca del 80% las falsas alarmas en un estudio pequeño.",
-          "mini_headline": "Pacientes que conversan con su EEG",
+          "headline": "Bradford reduce esperas de\ncáncer de piel con AI",
+          "body": "Una clínica de cáncer de piel de Bradford atiende a más pacientes y da resultados antes gracias al escaneo con AI.",
+          "mini_headline": "Revisiones de piel más rápidas en Bradford",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+                "cap": "La inteligencia artificial analiza en minutos imágenes de lesiones cutáneas sospechosas"
+              },
+              {
                 "t": "p",
-                "x": "Un tercio de los 70 millones de personas con epilepsia en el mundo tiene crisis que la medicación no controla. Los dispositivos implantables pueden detectar crisis inminentes, dosis olvidadas y deterioro cognitivo, pero no pueden compartir esa información con los pacientes en tiempo real."
+                "x": "El personal de una clínica del NHS que usa inteligencia artificial (AI) para detectar antes el cáncer de piel afirma que la tecnología podría «cambiar las reglas del juego». El equipo de dermatología del St Luke's Hospital de Bradford adoptó el sistema en abril; ahora puede atender a 32 pacientes por sesión, frente a 24 antes."
+              },
+              {
+                "t": "p",
+                "x": "El sistema, DERM (Deep Ensemble for the Recognition of Malignancy), lo fabrica Skin Analytics, que asegura que tiene una precisión del 99.9% para descartar el melanoma. Un asistente sanitario toma tres fotografías de la lesión y el sistema las analiza en minutos; los casos benignos reciben el alta con recomendaciones y los sospechosos se derivan a un especialista."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-                "cap": "Fig. 1: Visión general de la plataforma."
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
+                "cap": "El fideicomiso hospitalario afirmó que la inteligencia artificial ha ayudado al personal a atender un tercio más de pacientes en las consultas"
               },
               {
                 "t": "p",
-                "x": "Los investigadores presentan un prototipo hospitalario que conecta el EEG de cuero cabelludo e intracraneal con una AI segura basada en un modelo de lenguaje de gran tamaño, que se comunica en ambos sentidos mediante una app de smartphone. Notifica a los pacientes eventos clínicos y tendencias, registra síntomas y respuestas, y usa sus comentarios para reentrenar su detector de crisis."
+                "x": "Un clínico revisa de nuevo cada imagen. Las biopsias innecesarias han bajado alrededor de un 10%, según el fideicomiso. El cirujano plástico consultor Zakir Shariff afirmó que ha tenido un «gran impacto» en los tiempos de espera."
+              },
+              {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
+                "cap": "El cirujano plástico Zakir Shariff afirmó que la AI ha tenido un gran impacto en los tiempos de espera"
               },
               {
                 "t": "p",
-                "x": "La plataforma se validó en 13 pacientes sometidos a monitorización por video-EEG. Los pacientes respondieron al 67.2% de las alertas de crisis en tiempo real. En una simulación pseudoprospectiva, el ajuste fino solo con anotaciones de los pacientes redujo las falsas alarmas en un 80.9%, sin intervención de expertos."
+                "x": "NICE ha recomendado la tecnología para su uso en el NHS durante los próximos tres años mientras se recopilan pruebas. Está implantada en 40 fideicomisos del NHS, y Bradford fue el primero de Yorkshire en adoptarla."
               }
             ]
           }
@@ -879,15 +1129,15 @@
       }
     },
     {
-      "id": "medicine-mfds-trial-docs-exposed",
-      "source_lang": "ko",
+      "id": "medicine-ehr-ai-transparency",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "식약처 임상자료 2672건\n인증 없이 외부 노출",
-      "body": "의원실이 챗GPT로 임상시험 결과 문서 2672건을 인증 없이 내려받았다.",
-      "mini_headline": "식약처 임상자료 노출",
+      "headline": "EHR 개발사의\nAI 위험 투명성 점검",
+      "body": "EHR 개발사 35곳의 AI 위험 보고는 들쭉날쭉했지만 모두 적합 인증을 받았다.",
+      "mini_headline": "EHR AI 투명성 감사",
       "tool": "Medicine",
-      "source": "의학신문(bosa)",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013809",
+      "source": "npj Digital Medicine (Nature)",
+      "url": "https://www.nature.com/articles/s41746-026-03152-w",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -895,265 +1145,175 @@
         "blocks": [
           {
             "t": "p",
-            "x": "식품의약품안전처가 운영하는 의약품안전나라에서 임상시험 결과 문서 2672건을 별도 인증 없이 외부에서 내려받을 수 있었던 것으로 드러났다. 이 가운데 비공개로 설정된 기업정보가 포함된 문서는 839건, 담당자 휴대전화번호가 포함된 문서는 2208건이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-            "cap": "사진 출처=국회방송."
+            "x": "연구진은 전자건강기록(EHR) 개발사들이 AI-enabled 예측형 의사결정 지원 개입에 관한 연방 투명성 요건을 얼마나 지키는지 평가했다. 개발사는 위험 분석, 위험 완화, 거버넌스와 그 밖의 여덟 가지 속성을 공개 보고해야 한다."
           },
           {
             "t": "p",
-            "x": "13일 식약처 국정감사에서 국민의힘 이소희 의원은 의원실이 별도의 로그인이나 비밀번호 입력 없이 문서를 내려받았으며, 이 과정에서 생성형 AI 서비스인 챗GPT를 활용했다고 밝혔다. 이 의원은 \"해킹을 한 것이 아니라 누구나 사용할 수 있는 챗GPT를 통해 자료를 확보했다\"고 말했다. 자료에는 임상시험 결과와 유효성, 이상반응 등 안전성 평가 정보가 포함돼 있었다."
-          },
-          {
-            "t": "p",
-            "x": "이 의원은 식약처가 최근 10년간 관련 자료 공개 현황 96건 가운데 95건을 비공개 처리했다고 지적했다. 오유경 식약처장은 자료 노출 사실을 12일 인지했으며 13일 새벽 접근 권한을 차단했다고 밝혔다. 오 처장은 \"AI를 활용한 정보 접근 문제를 알려주신 데 감사하게 생각하며, 해당 사안을 무겁게 받아들이고 있다\"고 말했다."
+            "x": "35개 개발사의 보고는 일관성이 없고 불완전한 경우가 많았으며 구조와 세부 수준도 제각각이었다. 그런데도 모든 개발사가 요건 충족 인증을 받았다. 보고를 표준화하고 인증 심사를 더 엄격히 해야 한다는 결과다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "식약처 임상자료 2672건\n인증 없이 외부 노출",
-          "body": "의원실이 챗GPT로 임상시험 결과 문서 2672건을 인증 없이 내려받았다.",
-          "mini_headline": "식약처 임상자료 노출",
+        "en": {
+          "headline": "Auditing EHR developers on\nAI risk transparency",
+          "body": "Across 35 EHR developers, AI risk reporting was inconsistent and often incomplete, yet all were certified as compliant.",
+          "mini_headline": "EHR AI transparency audit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "식품의약품안전처가 운영하는 의약품안전나라에서 임상시험 결과 문서 2672건을 별도 인증 없이 외부에서 내려받을 수 있었던 것으로 드러났다. 이 가운데 비공개로 설정된 기업정보가 포함된 문서는 839건, 담당자 휴대전화번호가 포함된 문서는 2208건이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-                "cap": "사진 출처=국회방송."
+                "x": "Researchers evaluated electronic health record developer compliance with federal transparency requirements for AI-enabled predictive decision support interventions. Developers are required to publicly report on risk analysis, mitigation, governance, and on eight other attributes."
               },
               {
                 "t": "p",
-                "x": "13일 식약처 국정감사에서 국민의힘 이소희 의원은 의원실이 별도의 로그인이나 비밀번호 입력 없이 문서를 내려받았으며, 이 과정에서 생성형 AI 서비스인 챗GPT를 활용했다고 밝혔다. 이 의원은 \"해킹을 한 것이 아니라 누구나 사용할 수 있는 챗GPT를 통해 자료를 확보했다\"고 말했다. 자료에는 임상시험 결과와 유효성, 이상반응 등 안전성 평가 정보가 포함돼 있었다."
-              },
-              {
-                "t": "p",
-                "x": "이 의원은 식약처가 최근 10년간 관련 자료 공개 현황 96건 가운데 95건을 비공개 처리했다고 지적했다. 오유경 식약처장은 자료 노출 사실을 12일 인지했으며 13일 새벽 접근 권한을 차단했다고 밝혔다. 오 처장은 \"AI를 활용한 정보 접근 문제를 알려주신 데 감사하게 생각하며, 해당 사안을 무겁게 받아들이고 있다\"고 말했다."
+                "x": "Across 35 developers, reporting was inconsistent and often incomplete, with substantial variation in structure and detail, yet all developers were certified as meeting the requirements. Results suggest a need for standardized reporting and more rigorous certification review."
               }
             ]
           }
         },
-        "en": {
-          "headline": "2672 MFDS trial documents\nexposed with no authentication",
-          "body": "A lawmaker's office used ChatGPT to download 2672 clinical trial result documents without authentication.",
-          "mini_headline": "MFDS trial data exposed",
+        "ko": {
+          "headline": "EHR 개발사의\nAI 위험 투명성 점검",
+          "body": "EHR 개발사 35곳의 AI 위험 보고는 들쭉날쭉했지만 모두 적합 인증을 받았다.",
+          "mini_headline": "EHR AI 투명성 감사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "It has emerged that 2672 clinical trial result documents on Uiyakpum Anjeon Nara, the drug safety portal run by the Ministry of Food and Drug Safety (MFDS), could be downloaded from outside without separate authentication. Of these, 839 contained company information set to private, and 2208 contained the mobile phone numbers of staff in charge."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-                "cap": "Photo: National Assembly Television."
+                "x": "연구진은 전자건강기록(EHR) 개발사들이 AI-enabled 예측형 의사결정 지원 개입에 관한 연방 투명성 요건을 얼마나 지키는지 평가했다. 개발사는 위험 분석, 위험 완화, 거버넌스와 그 밖의 여덟 가지 속성을 공개 보고해야 한다."
               },
               {
                 "t": "p",
-                "x": "At the National Assembly audit of the MFDS on the 13th, People Power Party lawmaker Lee So-hee said her office downloaded the documents without any login or password, using the generative AI service ChatGPT. \"We did not hack anything; we obtained the data through ChatGPT, which anyone can use,\" Lee said. The data included clinical trial results and safety evaluation information such as efficacy and adverse reactions."
-              },
-              {
-                "t": "p",
-                "x": "Lee noted that over the past 10 years the MFDS had kept 95 of 96 related disclosure cases private. MFDS Minister Oh Yu-kyoung said the ministry learned of the exposure on the 12th and blocked access early on the 13th. \"We are grateful for being alerted to the problem of information access using AI, and we are taking the matter seriously,\" Oh said."
+                "x": "35개 개발사의 보고는 일관성이 없고 불완전한 경우가 많았으며 구조와 세부 수준도 제각각이었다. 그런데도 모든 개발사가 요건 충족 인증을 받았다. 보고를 표준화하고 인증 심사를 더 엄격히 해야 한다는 결과다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "食薬処の臨床資料2672件\n認証なしで外部に露出",
-          "body": "議員事務所がChatGPTで臨床試験結果文書2672件を認証なしでダウンロードした。",
-          "mini_headline": "食薬処の臨床資料が露出",
+          "headline": "EHR開発企業の\nAIリスク透明性を監査",
+          "body": "EHR開発元35社のAIリスク報告は不統一で不完全なことが多いが、全社が適合と認証された。",
+          "mini_headline": "EHRのAI透明性監査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "食品医薬品安全処が運営する「医薬品安全国」で、臨床試験結果文書2672件が別途の認証なしに外部からダウンロードできる状態だったことが分かった。このうち非公開に設定された企業情報を含む文書は839件、担当者の携帯電話番号を含む文書は2208件だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-                "cap": "写真＝国会放送。"
+                "x": "研究者らは、AI-enabledの予測型意思決定支援介入に関する連邦の透明性要件を、電子健康記録(EHR)開発企業が遵守しているかを評価した。開発企業は、リスク分析、リスク軽減、ガバナンスに加え、その他八つの属性について公開報告することが求められている。"
               },
               {
                 "t": "p",
-                "x": "13日の食薬処に対する国政監査で、国民の力のイ・ソヒ議員は、事務所が別途のログインやパスワード入力なしに文書をダウンロードし、その過程で生成AIサービスのChatGPTを使ったと明らかにした。イ議員は「ハッキングしたのではなく、誰でも使えるChatGPTを通じて資料を入手した」と述べた。資料には臨床試験の結果や有効性、副作用など安全性評価の情報が含まれていた。"
-              },
-              {
-                "t": "p",
-                "x": "イ議員は、食薬処が過去10年間の関連資料公開96件のうち95件を非公開にしたと指摘した。オ・ユギョン食薬処長は、資料露出の事実を12日に把握し、13日未明にアクセス権限を遮断したと説明した。オ処長は「AIを使った情報アクセスの問題を知らせていただき感謝しており、この事案を重く受け止めている」と述べた。"
+                "x": "35社の報告は一貫性がなく、不完全なことが多く、構成や詳細さにも大きなばらつきがあったが、全社が要件を満たすと認証されていた。結果は、報告の標準化とより厳格な認証審査の必要性を示唆している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩食药处2672份临床资料\n无需认证即遭外泄",
-          "body": "议员办公室借助ChatGPT，无需认证便下载了2672份临床试验结果文件。",
-          "mini_headline": "食药处临床资料外泄",
+          "headline": "审视EHR开发商的\nAI风险透明度",
+          "body": "35家EHR开发商的AI风险报告参差不齐且常不完整,但全部获认证合规。",
+          "mini_headline": "EHR AI透明度审查",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "韩国食品药品安全处运营的“医药品安全之国”网站上，2672份临床试验结果文件无需另行认证即可从外部下载。其中，含有被设为不公开的企业信息的文件有839份，含有负责人手机号码的文件有2208份。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-                "cap": "图片来源：国会广播。"
+                "x": "研究人员评估了电子健康记录(EHR)开发商对联邦关于AI-enabled预测性决策支持干预的透明度要求的遵守情况。开发商须公开报告风险分析、风险缓解、治理以及其他八项属性。"
               },
               {
                 "t": "p",
-                "x": "在13日针对食药处的国政监查中，国民力量党议员Lee So-hee表示，其办公室在没有另行登录或输入密码的情况下下载了这些文件，过程中使用了生成式AI服务ChatGPT。她说：“我们不是黑客入侵，而是通过任何人都能使用的ChatGPT获取了资料。”这些资料包含临床试验结果以及有效性、不良反应等安全性评估信息。"
-              },
-              {
-                "t": "p",
-                "x": "她指出，在最近10年间的96件相关资料公开情况中，食药处有95件作了不公开处理。食药处处长Oh Yu-kyoung表示，已于12日获悉资料外泄，并于13日凌晨切断了访问权限。她说：“感谢您指出利用AI获取信息的问题，我们正严肃对待此事。”"
+                "x": "在35家开发商中,报告不一致且往往不完整,结构和细节差异很大,但所有开发商都被认证为符合要求。结果表明需要标准化报告和更严格的认证审查。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MFDS: 2672 documentos clínicos\nexpuestos sin autenticación",
-          "body": "La oficina de un diputado descargó con ChatGPT 2672 documentos de resultados de ensayos clínicos sin autenticación.",
-          "mini_headline": "Datos clínicos del MFDS expuestos",
+          "headline": "Auditoría a desarrolladores de\nEHR sobre transparencia en AI",
+          "body": "En 35 desarrolladores de EHR, los informes de riesgo de AI fueron dispares e incompletos, pero todos se certificaron.",
+          "mini_headline": "Auditoría de transparencia en AI de EHR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Se ha revelado que 2672 documentos de resultados de ensayos clínicos del portal Uiyakpum Anjeon Nara, gestionado por el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS), podían descargarse desde el exterior sin autenticación adicional. De ellos, 839 contenían información empresarial configurada como privada y 2208 incluían números de teléfono móvil de los responsables."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-                "cap": "Foto: Televisión de la Asamblea Nacional."
+                "x": "Los investigadores evaluaron el cumplimiento, por parte de los desarrolladores de historias clínicas electrónicas (EHR), de los requisitos federales de transparencia para intervenciones AI-enabled de apoyo a la decisión predictiva. Los desarrolladores deben informar públicamente sobre análisis de riesgos, mitigación, gobernanza y otros ocho atributos."
               },
               {
                 "t": "p",
-                "x": "En la auditoría parlamentaria al MFDS del día 13, la diputada Lee So-hee, del Partido del Poder Popular, afirmó que su oficina descargó los documentos sin iniciar sesión ni introducir contraseña, y que para ello usó ChatGPT, un servicio de AI generativa. \"No hackeamos nada; obtuvimos los datos a través de ChatGPT, que cualquiera puede usar\", dijo Lee. Los datos incluían resultados de ensayos clínicos e información de evaluación de seguridad, como eficacia y reacciones adversas."
-              },
-              {
-                "t": "p",
-                "x": "Lee señaló que, en los últimos 10 años, el MFDS mantuvo en reserva 95 de los 96 casos de divulgación de datos relacionados. La ministra Oh Yu-kyoung dijo que el ministerio supo de la exposición el día 12 y bloqueó los permisos de acceso en la madrugada del 13. \"Agradecemos que nos hayan alertado del problema del acceso a la información mediante AI y nos tomamos el asunto muy en serio\", afirmó Oh."
+                "x": "En los 35 desarrolladores, los informes fueron inconsistentes y a menudo incompletos, con una variación sustancial en estructura y detalle; aun así, todos fueron certificados como conformes con los requisitos. Los resultados sugieren la necesidad de informes estandarizados y de una revisión de certificación más rigurosa."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "2672 MFDS trial documents\nexposed with no authentication",
-          "body": "A lawmaker's office used ChatGPT to download 2672 clinical trial result documents without authentication.",
-          "mini_headline": "MFDS trial data exposed",
+        "ko": {
+          "headline": "EHR 개발사의\nAI 위험 투명성 점검",
+          "body": "EHR 개발사 35곳의 AI 위험 보고는 들쭉날쭉했지만 모두 적합 인증을 받았다.",
+          "mini_headline": "EHR AI 투명성 감사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "It has emerged that 2672 clinical trial result documents on Uiyakpum Anjeon Nara, the drug safety portal run by the Ministry of Food and Drug Safety (MFDS), could be downloaded from outside without separate authentication. Of these, 839 contained company information set to private, and 2208 contained the mobile phone numbers of staff in charge."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-                "cap": "Photo: National Assembly Television."
+                "x": "연구진은 AI-enabled 예측형 의사결정 지원 개입에 대한 연방 투명성 요건을 전자건강기록(EHR) 개발사들이 얼마나 준수하는지 평가했다. 개발사는 위험 분석, 위험 완화, 거버넌스와 그 밖의 여덟 가지 속성을 공개적으로 보고해야 한다."
               },
               {
                 "t": "p",
-                "x": "At the National Assembly audit of the MFDS on the 13th, People Power Party lawmaker Lee So-hee said her office downloaded the documents without any login or password, using the generative AI service ChatGPT. \"We did not hack anything; we obtained the data through ChatGPT, which anyone can use,\" Lee said. The data included clinical trial results and safety evaluation information such as efficacy and adverse reactions."
-              },
-              {
-                "t": "p",
-                "x": "Lee noted that over the past 10 years the MFDS had kept 95 of 96 related disclosure cases private. MFDS Minister Oh Yu-kyoung said the ministry learned of the exposure on the 12th and blocked access early on the 13th. \"We are grateful for being alerted to the problem of information access using AI, and we are taking the matter seriously,\" Oh said."
+                "x": "35개 개발사의 보고는 일관성이 없고 불완전한 경우가 많았으며 구조와 세부 수준에서도 차이가 컸지만, 모든 개발사가 요건을 충족한 것으로 인증받았다. 결과는 보고 표준화와 더 엄격한 인증 심사가 필요함을 시사한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "食薬処の臨床資料2672件\n認証なしで外部に露出",
-          "body": "議員事務所がChatGPTで臨床試験結果文書2672件を認証なしでダウンロードした。",
-          "mini_headline": "食薬処の臨床資料が露出",
+          "headline": "EHR開発企業の\nAIリスク透明性を監査",
+          "body": "EHR開発元35社のAIリスク報告は不統一で不完全なことが多いが、全社が適合と認証された。",
+          "mini_headline": "EHRのAI透明性監査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "食品医薬品安全処が運営する「医薬品安全国」で、臨床試験結果文書2672件が別途の認証なしに外部からダウンロードできる状態だったことが分かった。このうち非公開に設定された企業情報を含む文書は839件、担当者の携帯電話番号を含む文書は2208件だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-                "cap": "写真＝国会放送。"
+                "x": "研究者らは、AI-enabledの予測型意思決定支援介入に関する連邦の透明性要件を、電子健康記録(EHR)開発企業が遵守しているかを評価した。開発企業は、リスク分析、リスク軽減、ガバナンスに加え、その他八つの属性について公開報告することが求められている。"
               },
               {
                 "t": "p",
-                "x": "13日の食薬処に対する国政監査で、国民の力のイ・ソヒ議員は、事務所が別途のログインやパスワード入力なしに文書をダウンロードし、その過程で生成AIサービスのChatGPTを使ったと明らかにした。イ議員は「ハッキングしたのではなく、誰でも使えるChatGPTを通じて資料を入手した」と述べた。資料には臨床試験の結果や有効性、副作用など安全性評価の情報が含まれていた。"
-              },
-              {
-                "t": "p",
-                "x": "イ議員は、食薬処が過去10年間の関連資料公開96件のうち95件を非公開にしたと指摘した。オ・ユギョン食薬処長は、資料露出の事実を12日に把握し、13日未明にアクセス権限を遮断したと説明した。オ処長は「AIを使った情報アクセスの問題を知らせていただき感謝しており、この事案を重く受け止めている」と述べた。"
+                "x": "35社の報告は一貫性がなく、不完全なことが多く、構成や詳細さにも大きなばらつきがあったが、全社が要件を満たすと認証されていた。結果は、報告の標準化とより厳格な認証審査の必要性を示唆している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩食药处2672份临床资料\n无需认证即遭外泄",
-          "body": "议员办公室借助ChatGPT，无需认证便下载了2672份临床试验结果文件。",
-          "mini_headline": "食药处临床资料外泄",
+          "headline": "审视EHR开发商的\nAI风险透明度",
+          "body": "35家EHR开发商的AI风险报告参差不齐且常不完整,但全部获认证合规。",
+          "mini_headline": "EHR AI透明度审查",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "韩国食品药品安全处运营的“医药品安全之国”网站上，2672份临床试验结果文件无需另行认证即可从外部下载。其中，含有被设为不公开的企业信息的文件有839份，含有负责人手机号码的文件有2208份。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-                "cap": "图片来源：国会广播。"
+                "x": "研究人员评估了电子健康记录(EHR)开发商对联邦关于AI-enabled预测性决策支持干预的透明度要求的遵守情况。开发商须公开报告风险分析、风险缓解、治理以及其他八项属性。"
               },
               {
                 "t": "p",
-                "x": "在13日针对食药处的国政监查中，国民力量党议员Lee So-hee表示，其办公室在没有另行登录或输入密码的情况下下载了这些文件，过程中使用了生成式AI服务ChatGPT。她说：“我们不是黑客入侵，而是通过任何人都能使用的ChatGPT获取了资料。”这些资料包含临床试验结果以及有效性、不良反应等安全性评估信息。"
-              },
-              {
-                "t": "p",
-                "x": "她指出，在最近10年间的96件相关资料公开情况中，食药处有95件作了不公开处理。食药处处长Oh Yu-kyoung表示，已于12日获悉资料外泄，并于13日凌晨切断了访问权限。她说：“感谢您指出利用AI获取信息的问题，我们正严肃对待此事。”"
+                "x": "在35家开发商中,报告不一致且往往不完整,结构和细节差异很大,但所有开发商都被认证为符合要求。结果表明需要标准化报告和更严格的认证审查。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MFDS: 2672 documentos clínicos\nexpuestos sin autenticación",
-          "body": "La oficina de un diputado descargó con ChatGPT 2672 documentos de resultados de ensayos clínicos sin autenticación.",
-          "mini_headline": "Datos clínicos del MFDS expuestos",
+          "headline": "Auditoría a desarrolladores de\nEHR sobre transparencia en AI",
+          "body": "En 35 desarrolladores de EHR, los informes de riesgo de AI fueron dispares e incompletos, pero todos se certificaron.",
+          "mini_headline": "Auditoría de transparencia en AI de EHR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Se ha revelado que 2672 documentos de resultados de ensayos clínicos del portal Uiyakpum Anjeon Nara, gestionado por el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS), podían descargarse desde el exterior sin autenticación adicional. De ellos, 839 contenían información empresarial configurada como privada y 2208 incluían números de teléfono móvil de los responsables."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-                "cap": "Foto: Televisión de la Asamblea Nacional."
+                "x": "Los investigadores evaluaron el cumplimiento, por parte de los desarrolladores de historias clínicas electrónicas (EHR), de los requisitos federales de transparencia para intervenciones AI-enabled de apoyo a la decisión predictiva. Los desarrolladores deben informar públicamente sobre análisis de riesgos, mitigación, gobernanza y otros ocho atributos."
               },
               {
                 "t": "p",
-                "x": "En la auditoría parlamentaria al MFDS del día 13, la diputada Lee So-hee, del Partido del Poder Popular, afirmó que su oficina descargó los documentos sin iniciar sesión ni introducir contraseña, y que para ello usó ChatGPT, un servicio de AI generativa. \"No hackeamos nada; obtuvimos los datos a través de ChatGPT, que cualquiera puede usar\", dijo Lee. Los datos incluían resultados de ensayos clínicos e información de evaluación de seguridad, como eficacia y reacciones adversas."
-              },
-              {
-                "t": "p",
-                "x": "Lee señaló que, en los últimos 10 años, el MFDS mantuvo en reserva 95 de los 96 casos de divulgación de datos relacionados. La ministra Oh Yu-kyoung dijo que el ministerio supo de la exposición el día 12 y bloqueó los permisos de acceso en la madrugada del 13. \"Agradecemos que nos hayan alertado del problema del acceso a la información mediante AI y nos tomamos el asunto muy en serio\", afirmó Oh."
+                "x": "En los 35 desarrolladores, los informes fueron inconsistentes y a menudo incompletos, con una variación sustancial en estructura y detalle; aun así, todos fueron certificados como conformes con los requisitos. Los resultados sugieren la necesidad de informes estandarizados y de una revisión de certificación más rigurosa."
               }
             ]
           }
@@ -1161,171 +1321,189 @@
       }
     },
     {
-      "id": "medicine-neonatal-ett-xray-continual-learning",
+      "id": "medicine-state-ai-lobbying",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "성인 X-ray AI를\n신생아 호흡관에 맞췄다",
-      "body": "연속 학습으로 성인 기관내관 X-ray 모델을 데이터 공유 없이 신생아에 맞췄다.",
-      "mini_headline": "성인 X-ray AI, NICU에 맞추다",
+      "headline": "AMA·로비 단체\n자율 임상 AI 규칙 각축",
+      "body": "AMA·Anthropic 포함 FSMB 패널이 의사 감독 적은 AI 지침을 쓴다.",
+      "mini_headline": "자율 임상 AI 규제 공방",
       "tool": "Medicine",
-      "source": "Nature Biomedical Engineering",
-      "url": "https://www.nature.com/articles/s41551-026-01812-6",
+      "source": "STAT",
+      "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "영상의학에서 인공지능의 임상 도입은 늘고 있지만 상용 모델 가운데 소아용으로 승인된 것은 다섯 개 중 하나도 안 된다. 기존 시스템은 주로 성인 데이터로 학습해 신생아에게는 일반화가 잘 안 된다. 데이터를 공유하거나 현지 데이터를 대규모로 정제하지 않고 이 모델을 다시 쓸 효율적인 전략도 부족하다."
-          },
-          {
             "t": "img",
-            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-            "cap": "Fig. 1: 연속 학습 패러다임과 벤치마크 비교 요약."
+            "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
           },
           {
             "t": "p",
-            "x": "연구진은 20개 국가·지역 30개 신생아 집중치료실의 신생아 흉부 방사선 사진을 다룬 국제 후향 연구를 내놓았다. 평가 대상은 연속 학습으로, 성인 기관내관 평가용 딥러닝 모델을 개인정보를 지키면서 신생아 진료에 맞추는 방법이다. 각 병원은 데이터를 한곳에 모으는 대신 방사선 사진 50장씩을 내놓아 모델을 차례로 재학습시켰다."
+            "x": "의사와 병원을 대변하는 유력 로비 단체, 건강보험사 한 곳, 기술 기업, 주 정부 대표들이 시월 초 Washington, D.C.에서 비공개로 만나 의료 현장의 인공지능을 어떻게 규제할지 지침을 다듬었다."
           },
           {
             "t": "p",
-            "x": "연속 학습은 30개 기관 중 29곳에서 해부학적 기준점 위치 오차가 더 낮았고(0.67 cm, 병원별 미세 조정은 1.29 cm, 성인 전용 모델은 4.30 cm) 30곳 중 27곳에서는 깊은 삽관 검출도 나아졌다. 연구진은 개인정보를 보호하는 협력 학습이 소아 AI 도입의 중요한 공백을 메울 수 있다고 본다."
+            "x": "American Medical Association(미국의사협회), American Hospital Association(미국병원협회), AI 기업 Anthropic, 보험사 Elevance Health의 임원들이 Federation of State Medical Boards(FSMB, 주의료위원회연맹)가 꾸린 22명 규모(22-member)의 AI 워킹그룹에 들어가 있다. 권고안은 공식 채택에 앞서 의견 수렴을 거친다."
+          },
+          {
+            "t": "p",
+            "x": "FSMB 회장 겸 CEO Humayun Chaudhry는 STAT에 지역 의료위원회를 도울 지침 초안을 만드는 게 목표라며, “의사의 직접 감독이 제한적이거나 전혀 없는 상태에서 임상 기능을 수행하는 AI 도구에 … 특별한 주의를” 기울인다고 말했다. 초안은 “몇 주에서 몇 달” 안에 나올 수 있고, 나중에는 주 법안의 토대가 될 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "AMA, 의료위원회, 한 보수 성향 싱크탱크는 자율 임상 AI 규제의 주도권을 두고 다투는 중이다. 기사의 나머지는 STAT+ 구독자용이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Adult X-ray AI adapted\nfor newborn breathing tubes",
-          "body": "Continual learning adapted an adult endotracheal tube X-ray model to neonatal care while keeping patient data private.",
-          "mini_headline": "Adult X-ray AI adapted for NICU",
+          "headline": "AMA and lobbyists jostle over\nautonomous clinical AI rules",
+          "body": "An FSMB panel with the AMA and Anthropic is drafting state guidance for AI used with little or no physician oversight.",
+          "mini_headline": "Fight over autonomous clinical AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Despite growing clinical adoption of artificial intelligence in radiology, fewer than one in five commercially available models are cleared for paediatric use. Existing systems are trained predominantly on adult data and generalize poorly to neonates, yet efficient strategies for repurposing them without data sharing or large-scale local data curation are lacking."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-                "cap": "Fig. 1: Summary of continual learning paradigm and benchmark comparisons."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Here we present an international retrospective study of neonatal chest radiographs from 30 neonatal intensive care units across 20 countries and territories, evaluating continual learning as a privacy-preserving approach to adapt a deep learning model for adult endotracheal tube assessment to neonatal care. Each hospital contributed 50 radiographs for sequential model retraining without centralized data pooling."
+                "x": "Influential lobbying groups for doctors and hospitals, a health insurer, technology companies, and representatives from state governments met behind closed doors in Washington, D.C., in early October to develop guidelines for how to regulate artificial intelligence in the practice of medicine."
               },
               {
                 "t": "p",
-                "x": "Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29 cm for hospital-specific fine-tuning and 4.30 cm for adult-only models) at 29 of 30 sites, with improved detection of deep intubations at 27 of 30 sites. These findings demonstrate that privacy-preserving collaborative learning can address critical gaps in paediatric AI deployment."
+                "x": "Executives from the American Medical Association, American Hospital Association, AI company Anthropic, and insurer Elevance Health are part of a 22-member AI workgroup convened by the Federation of State Medical Boards (FSMB). Its recommendations would be open for feedback before being formally adopted."
+              },
+              {
+                "t": "p",
+                "x": "The goal is to draft guidelines to aid local medical boards, with \"particular attention … to AI tools that perform clinical functions with limited or no direct physician supervision,\" FSMB president and CEO Humayun Chaudhry told STAT. A draft could be made public in \"weeks to months\" and could ultimately form the basis of state legislation."
+              },
+              {
+                "t": "p",
+                "x": "The AMA, medical boards, and a conservative think tank are all jostling to control how autonomous clinical AI is regulated. The rest of the story is for STAT+ subscribers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "성인 X-ray AI를\n신생아 호흡관에 맞췄다",
-          "body": "연속 학습으로 성인 기관내관 X-ray 모델을 데이터 공유 없이 신생아에 맞췄다.",
-          "mini_headline": "성인 X-ray AI, NICU에 맞추다",
+          "headline": "AMA·로비 단체\n자율 임상 AI 규칙 각축",
+          "body": "AMA·Anthropic 포함 FSMB 패널이 의사 감독 적은 AI 지침을 쓴다.",
+          "mini_headline": "자율 임상 AI 규제 공방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "영상의학에서 인공지능의 임상 도입은 늘고 있지만 상용 모델 가운데 소아용으로 승인된 것은 다섯 개 중 하나도 안 된다. 기존 시스템은 주로 성인 데이터로 학습해 신생아에게는 일반화가 잘 안 된다. 데이터를 공유하거나 현지 데이터를 대규모로 정제하지 않고 이 모델을 다시 쓸 효율적인 전략도 부족하다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-                "cap": "Fig. 1: 연속 학습 패러다임과 벤치마크 비교 요약."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "연구진은 20개 국가·지역 30개 신생아 집중치료실의 신생아 흉부 방사선 사진을 다룬 국제 후향 연구를 내놓았다. 평가 대상은 연속 학습으로, 성인 기관내관 평가용 딥러닝 모델을 개인정보를 지키면서 신생아 진료에 맞추는 방법이다. 각 병원은 데이터를 한곳에 모으는 대신 방사선 사진 50장씩을 내놓아 모델을 차례로 재학습시켰다."
+                "x": "의사와 병원을 대변하는 유력 로비 단체, 건강보험사 한 곳, 기술 기업, 주 정부 대표들이 시월 초 Washington, D.C.에서 비공개로 만나 의료 현장의 인공지능을 어떻게 규제할지 지침을 다듬었다."
               },
               {
                 "t": "p",
-                "x": "연속 학습은 30개 기관 중 29곳에서 해부학적 기준점 위치 오차가 더 낮았고(0.67 cm, 병원별 미세 조정은 1.29 cm, 성인 전용 모델은 4.30 cm) 30곳 중 27곳에서는 깊은 삽관 검출도 나아졌다. 연구진은 개인정보를 보호하는 협력 학습이 소아 AI 도입의 중요한 공백을 메울 수 있다고 본다."
+                "x": "American Medical Association(미국의사협회), American Hospital Association(미국병원협회), AI 기업 Anthropic, 보험사 Elevance Health의 임원들이 Federation of State Medical Boards(FSMB, 주의료위원회연맹)가 꾸린 22명 규모(22-member)의 AI 워킹그룹에 들어가 있다. 권고안은 공식 채택에 앞서 의견 수렴을 거친다."
+              },
+              {
+                "t": "p",
+                "x": "FSMB 회장 겸 CEO Humayun Chaudhry는 STAT에 지역 의료위원회를 도울 지침 초안을 만드는 게 목표라며, “의사의 직접 감독이 제한적이거나 전혀 없는 상태에서 임상 기능을 수행하는 AI 도구에 … 특별한 주의를” 기울인다고 말했다. 초안은 “몇 주에서 몇 달” 안에 나올 수 있고, 나중에는 주 법안의 토대가 될 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "AMA, 의료위원회, 한 보수 성향 싱크탱크는 자율 임상 AI 규제의 주도권을 두고 다투는 중이다. 기사의 나머지는 STAT+ 구독자용이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "成人用X-ray AIを\n新生児の気管チューブに",
-          "body": "継続学習で成人の気管チューブX-rayモデルを、データを守りつつ新生児向けに適応させた。",
-          "mini_headline": "成人用X-ray AIをNICU向けに",
+          "headline": "AMAとロビー団体、\n自律型臨床AIの規則で攻防",
+          "body": "AMAとAnthropicを含むFSMBの部会が医師の監督が乏しいAIの州指針を策定中だ。",
+          "mini_headline": "自律型臨床AIをめぐる攻防",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "放射線科での人工知能の臨床導入は進んでいるが、市販モデルのうち小児への使用が認められているのは五つに一つにも満たない。既存のシステムは主に成人データで学習されており新生児への汎化性能が低いが、データ共有や大規模な現地データ整備なしにそれらを転用する効率的な方法はまだない。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-                "cap": "Fig. 1: 継続学習パラダイムとベンチマーク比較の概要。"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "研究チームは、20の国と地域にある30の新生児集中治療室の新生児胸部X線写真を用いた国際的な後ろ向き研究を提示し、成人の気管チューブ評価用ディープラーニングモデルを新生児医療に適応させるプライバシー保護型の手法として継続学習を評価した。各病院は、データを一元的に集約せずに逐次的にモデルを再学習させるため、50枚の写真を提供した。"
+                "x": "医師や病院の有力ロビー団体、ある医療保険会社、テクノロジー企業、州政府の代表者が十月上旬にWashington, D.C.で非公開の会合を開き、医療現場における人工知能の規制方法に関する指針づくりを進めた。"
               },
               {
                 "t": "p",
-                "x": "継続学習は、30施設中29施設で解剖学的ランドマークの位置特定誤差がより小さく（0.67 cm、病院ごとのファインチューニングは1.29 cm、成人データのみのモデルは4.30 cm）、30施設中27施設で深い挿管の検出も改善した。これらの結果は、プライバシーを保護する協調学習が小児AI導入の重大な空白を埋めうることを示している。"
+                "x": "American Medical Association(米国医師会)、American Hospital Association(米国病院協会)、AI企業のAnthropic、保険会社Elevance Healthの幹部が、Federation of State Medical Boards(FSMB、州医事委員会連合)が招集した22人規模(22-member)のAIワーキンググループに参加している。その提言は正式採択の前に意見募集にかけられる。"
+              },
+              {
+                "t": "p",
+                "x": "目標は地域の医事委員会を支援する指針の草案づくりで、「医師による直接の監督が限られる、あるいはまったくない状態で臨床機能を果たすAIツールに…特に注意を払う」と、FSMB会長兼CEOのHumayun ChaudhryはSTATに語った。草案は「数週間から数か月」で公開される可能性があり、最終的に州法の基礎となり得る。"
+              },
+              {
+                "t": "p",
+                "x": "AMA、医事委員会、ある保守系シンクタンクが、自律型臨床AIの規制のあり方の主導権をめぐって競り合っている。記事の続きはSTAT+購読者向けである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "成人X-ray AI模型\n适配新生儿气管导管",
-          "body": "持续学习让成人气管导管X-ray模型在保护患者数据的同时适配新生儿护理。",
-          "mini_headline": "成人X-ray AI适配NICU",
+          "headline": "AMA与游说团体角力\n自主临床AI规则",
+          "body": "有AMA和Anthropic参与的FSMB小组正为极少或无医生监督的AI起草州级指南。",
+          "mini_headline": "自主临床AI之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "尽管人工智能在放射学中的临床应用日益增多，但商用模型中获准用于儿科的不到五分之一。现有系统主要基于成人数据训练，对新生儿的泛化能力较差，而在不共享数据、不进行大规模本地数据整理的前提下对其加以改造的高效策略仍然缺乏。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-                "cap": "Fig. 1：持续学习范式与基准比较概述。"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "研究人员开展了一项国际回顾性研究，纳入来自20个国家和地区30个新生儿重症监护病房的新生儿胸片，评估持续学习作为一种保护隐私的方法，将用于成人气管导管评估的深度学习模型适配到新生儿护理中的效果。每家医院提供50张胸片，用于依次重新训练模型，而无需集中汇集数据。"
+                "x": "代表医生和医院的有影响力的游说团体、一家健康保险公司、科技企业以及州政府代表于十月初在Washington, D.C.闭门开会,为如何监管医疗实践中的人工智能制定指南。"
               },
               {
                 "t": "p",
-                "x": "持续学习在30个站点中的29个实现了更低的解剖标志定位误差（0.67 cm，而医院专属微调为1.29 cm，仅用成人数据的模型为4.30 cm），并在30个站点中的27个改善了深插管的检出。这些结果表明，保护隐私的协作学习可以弥补儿科AI部署中的关键空白。"
+                "x": "American Medical Association(美国医学会)、American Hospital Association(美国医院协会)、AI公司Anthropic以及保险公司Elevance Health的高管,均是Federation of State Medical Boards(FSMB,州医学委员会联合会)召集的22人(22-member)AI工作组成员。其建议在正式采纳前将公开征求意见。"
+              },
+              {
+                "t": "p",
+                "x": "FSMB总裁兼CEO Humayun Chaudhry对STAT表示,目标是起草指南以协助地方医学委员会,并“特别关注…在医生直接监督有限或完全没有的情况下执行临床功能的AI工具”。草案可能在“数周到数月”内公开,并可能最终成为州立法的基础。"
+              },
+              {
+                "t": "p",
+                "x": "AMA、医学委员会和一家保守派智库都在争夺自主临床AI监管方式的主导权。报道其余部分仅供STAT+订阅者阅读。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI de X-ray para adultos\nadaptada a tubos neonatales",
-          "body": "El aprendizaje continuo adaptó a neonatos un modelo de X-ray para tubos endotraqueales de adultos sin compartir datos.",
-          "mini_headline": "AI de X-ray de adultos adaptada a la NICU",
+          "headline": "La AMA y lobbies se disputan\nreglas de AI clínica autónoma",
+          "body": "Un panel de la FSMB con AMA y Anthropic redacta guías estatales para AI usada con poca o ninguna supervisión médica.",
+          "mini_headline": "Pugna por la AI clínica autónoma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pese a la creciente adopción clínica de la inteligencia artificial en radiología, menos de uno de cada cinco modelos comerciales están autorizados para uso pediátrico. Los sistemas existentes se entrenan sobre todo con datos de adultos y generalizan mal a los neonatos, pero faltan estrategias eficientes para reutilizarlos sin compartir datos ni curar datos locales a gran escala."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-                "cap": "Fig. 1: Resumen del paradigma de aprendizaje continuo y de las comparaciones de referencia."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Presentamos un estudio retrospectivo internacional de radiografías de tórax neonatales de 30 unidades de cuidados intensivos neonatales en 20 países y territorios, que evalúa el aprendizaje continuo como un enfoque que preserva la privacidad para adaptar a la atención neonatal un modelo de aprendizaje profundo de evaluación del tubo endotraqueal en adultos. Cada hospital aportó 50 radiografías para el reentrenamiento secuencial del modelo sin agrupar los datos de forma centralizada."
+                "x": "Influyentes grupos de presión de médicos y hospitales, una aseguradora de salud, empresas tecnológicas y representantes de gobiernos estatales se reunieron a puerta cerrada en Washington, D.C., a principios de octubre para elaborar pautas sobre cómo regular la inteligencia artificial en la práctica médica."
               },
               {
                 "t": "p",
-                "x": "El aprendizaje continuo logró un menor error de localización de referencias anatómicas (0.67 cm frente a 1.29 cm con el ajuste fino específico de cada hospital y 4.30 cm con modelos solo de adultos) en 29 de 30 centros, y mejoró la detección de intubaciones profundas en 27 de 30 centros. Estos resultados demuestran que el aprendizaje colaborativo que preserva la privacidad puede cubrir brechas críticas en el despliegue de la AI pediátrica."
+                "x": "Directivos de la American Medical Association, la American Hospital Association, la empresa de AI Anthropic y la aseguradora Elevance Health forman parte de un grupo de trabajo de AI de 22 miembros (22-member) convocado por la Federation of State Medical Boards (FSMB). Sus recomendaciones se someterían a comentarios antes de su adopción formal."
+              },
+              {
+                "t": "p",
+                "x": "El objetivo es redactar pautas que ayuden a las juntas médicas locales, con «especial atención … a las herramientas de AI que realizan funciones clínicas con supervisión médica directa limitada o nula», dijo a STAT Humayun Chaudhry, presidente y CEO de la FSMB. Un borrador podría hacerse público en «semanas o meses» y, en última instancia, servir de base para la legislación estatal."
+              },
+              {
+                "t": "p",
+                "x": "La AMA, las juntas médicas y un think tank conservador compiten por controlar cómo se regula la AI clínica autónoma. El resto del artículo es para suscriptores de STAT+."
               }
             ]
           }
@@ -1333,109 +1511,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "성인 X-ray AI를\n신생아 호흡관에 맞췄다",
-          "body": "연속 학습으로 성인 기관내관 X-ray 모델을 데이터 공유 없이 신생아에 맞췄다.",
-          "mini_headline": "성인 X-ray AI, NICU에 맞추다",
+          "headline": "AMA·로비 단체\n자율 임상 AI 규칙 각축",
+          "body": "AMA·Anthropic 포함 FSMB 패널이 의사 감독 적은 AI 지침을 쓴다.",
+          "mini_headline": "자율 임상 AI 규제 공방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "영상의학 분야에서 인공지능의 임상 도입이 늘고 있지만, 상용 모델 가운데 소아용으로 승인된 것은 다섯 개 중 하나도 안 된다. 기존 시스템은 주로 성인 데이터로 학습돼 신생아에게는 일반화 성능이 떨어지지만, 데이터를 공유하거나 대규모로 현지 데이터를 정제하지 않고 이를 재활용할 효율적인 전략은 부족하다."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-                "cap": "Fig. 1: 연속 학습 패러다임과 벤치마크 비교 요약."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "연구진은 20개 국가·지역 30개 신생아 집중치료실의 신생아 흉부 방사선 사진을 대상으로 한 국제 후향 연구를 제시했다. 성인 기관내관 평가용 딥러닝 모델을 신생아 진료에 맞추는 개인정보 보호형 방법으로 연속 학습을 평가했다. 각 병원은 데이터를 한곳에 모으지 않고 순차적 모델 재학습을 위해 방사선 사진 50장씩을 제공했다."
+                "x": "의사와 병원을 대변하는 영향력 있는 로비 단체, 한 건강보험사, 기술 기업, 주 정부 대표들이 시월 초 Washington, D.C.에서 비공개로 만나 의료 현장의 인공지능 규제 방식에 관한 지침을 마련하는 작업을 했다."
               },
               {
                 "t": "p",
-                "x": "연속 학습은 30개 기관 중 29곳에서 해부학적 기준점 위치 오차가 더 낮았고(0.67 cm, 병원별 미세 조정은 1.29 cm, 성인 전용 모델은 4.30 cm), 30곳 중 27곳에서 깊은 삽관 검출도 개선됐다. 이 결과는 개인정보를 보호하는 협력 학습이 소아 AI 도입의 중요한 공백을 메울 수 있음을 보여준다."
+                "x": "American Medical Association(미국의사협회), American Hospital Association(미국병원협회), AI 기업 Anthropic, 보험사 Elevance Health의 임원들이 Federation of State Medical Boards(FSMB, 주의료위원회연맹)가 소집한 22명 규모(22-member)의 AI 워킹그룹에 참여하고 있다. 이 그룹의 권고안은 공식 채택 전에 의견 수렴을 거친다."
+              },
+              {
+                "t": "p",
+                "x": "FSMB 회장 겸 CEO Humayun Chaudhry는 STAT에 지역 의료위원회를 돕는 지침 초안을 만드는 것이 목표이며, “의사의 직접 감독이 제한적이거나 전혀 없는 상태에서 임상 기능을 수행하는 AI 도구에 … 특별한 주의를” 기울인다고 말했다. 초안은 “몇 주에서 몇 달” 안에 공개될 수 있으며, 궁극적으로 주 법안의 토대가 될 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "AMA, 의료위원회, 한 보수 성향 싱크탱크가 모두 자율 임상 AI 규제의 주도권을 놓고 각축을 벌이고 있다. 기사의 나머지는 STAT+ 구독자용이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "成人用X-ray AIを\n新生児の気管チューブに",
-          "body": "継続学習で成人の気管チューブX-rayモデルを、データを守りつつ新生児向けに適応させた。",
-          "mini_headline": "成人用X-ray AIをNICU向けに",
+          "headline": "AMAとロビー団体、\n自律型臨床AIの規則で攻防",
+          "body": "AMAとAnthropicを含むFSMBの部会が医師の監督が乏しいAIの州指針を策定中だ。",
+          "mini_headline": "自律型臨床AIをめぐる攻防",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "放射線科での人工知能の臨床導入は進んでいるが、市販モデルのうち小児への使用が認められているのは五つに一つにも満たない。既存のシステムは主に成人データで学習されており新生児への汎化性能が低いが、データ共有や大規模な現地データ整備なしにそれらを転用する効率的な方法はまだない。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-                "cap": "Fig. 1: 継続学習パラダイムとベンチマーク比較の概要。"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "研究チームは、20の国と地域にある30の新生児集中治療室の新生児胸部X線写真を用いた国際的な後ろ向き研究を提示し、成人の気管チューブ評価用ディープラーニングモデルを新生児医療に適応させるプライバシー保護型の手法として継続学習を評価した。各病院は、データを一元的に集約せずに逐次的にモデルを再学習させるため、50枚の写真を提供した。"
+                "x": "医師や病院の有力ロビー団体、ある医療保険会社、テクノロジー企業、州政府の代表者が十月上旬にWashington, D.C.で非公開の会合を開き、医療現場における人工知能の規制方法に関する指針づくりを進めた。"
               },
               {
                 "t": "p",
-                "x": "継続学習は、30施設中29施設で解剖学的ランドマークの位置特定誤差がより小さく（0.67 cm、病院ごとのファインチューニングは1.29 cm、成人データのみのモデルは4.30 cm）、30施設中27施設で深い挿管の検出も改善した。これらの結果は、プライバシーを保護する協調学習が小児AI導入の重大な空白を埋めうることを示している。"
+                "x": "American Medical Association(米国医師会)、American Hospital Association(米国病院協会)、AI企業のAnthropic、保険会社Elevance Healthの幹部が、Federation of State Medical Boards(FSMB、州医事委員会連合)が招集した22人規模(22-member)のAIワーキンググループに参加している。その提言は正式採択の前に意見募集にかけられる。"
+              },
+              {
+                "t": "p",
+                "x": "目標は地域の医事委員会を支援する指針の草案づくりで、「医師による直接の監督が限られる、あるいはまったくない状態で臨床機能を果たすAIツールに…特に注意を払う」と、FSMB会長兼CEOのHumayun ChaudhryはSTATに語った。草案は「数週間から数か月」で公開される可能性があり、最終的に州法の基礎となり得る。"
+              },
+              {
+                "t": "p",
+                "x": "AMA、医事委員会、ある保守系シンクタンクが、自律型臨床AIの規制のあり方の主導権をめぐって競り合っている。記事の続きはSTAT+購読者向けである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "成人X-ray AI模型\n适配新生儿气管导管",
-          "body": "持续学习让成人气管导管X-ray模型在保护患者数据的同时适配新生儿护理。",
-          "mini_headline": "成人X-ray AI适配NICU",
+          "headline": "AMA与游说团体角力\n自主临床AI规则",
+          "body": "有AMA和Anthropic参与的FSMB小组正为极少或无医生监督的AI起草州级指南。",
+          "mini_headline": "自主临床AI之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "尽管人工智能在放射学中的临床应用日益增多，但商用模型中获准用于儿科的不到五分之一。现有系统主要基于成人数据训练，对新生儿的泛化能力较差，而在不共享数据、不进行大规模本地数据整理的前提下对其加以改造的高效策略仍然缺乏。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-                "cap": "Fig. 1：持续学习范式与基准比较概述。"
+                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "研究人员开展了一项国际回顾性研究，纳入来自20个国家和地区30个新生儿重症监护病房的新生儿胸片，评估持续学习作为一种保护隐私的方法，将用于成人气管导管评估的深度学习模型适配到新生儿护理中的效果。每家医院提供50张胸片，用于依次重新训练模型，而无需集中汇集数据。"
+                "x": "代表医生和医院的有影响力的游说团体、一家健康保险公司、科技企业以及州政府代表于十月初在Washington, D.C.闭门开会,为如何监管医疗实践中的人工智能制定指南。"
               },
               {
                 "t": "p",
-                "x": "持续学习在30个站点中的29个实现了更低的解剖标志定位误差（0.67 cm，而医院专属微调为1.29 cm，仅用成人数据的模型为4.30 cm），并在30个站点中的27个改善了深插管的检出。这些结果表明，保护隐私的协作学习可以弥补儿科AI部署中的关键空白。"
+                "x": "American Medical Association(美国医学会)、American Hospital Association(美国医院协会)、AI公司Anthropic以及保险公司Elevance Health的高管,均是Federation of State Medical Boards(FSMB,州医学委员会联合会)召集的22人(22-member)AI工作组成员。其建议在正式采纳前将公开征求意见。"
+              },
+              {
+                "t": "p",
+                "x": "FSMB总裁兼CEO Humayun Chaudhry对STAT表示,目标是起草指南以协助地方医学委员会,并“特别关注…在医生直接监督有限或完全没有的情况下执行临床功能的AI工具”。草案可能在“数周到数月”内公开,并可能最终成为州立法的基础。"
+              },
+              {
+                "t": "p",
+                "x": "AMA、医学委员会和一家保守派智库都在争夺自主临床AI监管方式的主导权。报道其余部分仅供STAT+订阅者阅读。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI de X-ray para adultos\nadaptada a tubos neonatales",
-          "body": "El aprendizaje continuo adaptó a neonatos un modelo de X-ray para tubos endotraqueales de adultos sin compartir datos.",
-          "mini_headline": "AI de X-ray de adultos adaptada a la NICU",
+          "headline": "La AMA y lobbies se disputan\nreglas de AI clínica autónoma",
+          "body": "Un panel de la FSMB con AMA y Anthropic redacta guías estatales para AI usada con poca o ninguna supervisión médica.",
+          "mini_headline": "Pugna por la AI clínica autónoma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pese a la creciente adopción clínica de la inteligencia artificial en radiología, menos de uno de cada cinco modelos comerciales están autorizados para uso pediátrico. Los sistemas existentes se entrenan sobre todo con datos de adultos y generalizan mal a los neonatos, pero faltan estrategias eficientes para reutilizarlos sin compartir datos ni curar datos locales a gran escala."
-              },
-              {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-                "cap": "Fig. 1: Resumen del paradigma de aprendizaje continuo y de las comparaciones de referencia."
+                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
               },
               {
                 "t": "p",
-                "x": "Presentamos un estudio retrospectivo internacional de radiografías de tórax neonatales de 30 unidades de cuidados intensivos neonatales en 20 países y territorios, que evalúa el aprendizaje continuo como un enfoque que preserva la privacidad para adaptar a la atención neonatal un modelo de aprendizaje profundo de evaluación del tubo endotraqueal en adultos. Cada hospital aportó 50 radiografías para el reentrenamiento secuencial del modelo sin agrupar los datos de forma centralizada."
+                "x": "Influyentes grupos de presión de médicos y hospitales, una aseguradora de salud, empresas tecnológicas y representantes de gobiernos estatales se reunieron a puerta cerrada en Washington, D.C., a principios de octubre para elaborar pautas sobre cómo regular la inteligencia artificial en la práctica médica."
               },
               {
                 "t": "p",
-                "x": "El aprendizaje continuo logró un menor error de localización de referencias anatómicas (0.67 cm frente a 1.29 cm con el ajuste fino específico de cada hospital y 4.30 cm con modelos solo de adultos) en 29 de 30 centros, y mejoró la detección de intubaciones profundas en 27 de 30 centros. Estos resultados demuestran que el aprendizaje colaborativo que preserva la privacidad puede cubrir brechas críticas en el despliegue de la AI pediátrica."
+                "x": "Directivos de la American Medical Association, la American Hospital Association, la empresa de AI Anthropic y la aseguradora Elevance Health forman parte de un grupo de trabajo de AI de 22 miembros (22-member) convocado por la Federation of State Medical Boards (FSMB). Sus recomendaciones se someterían a comentarios antes de su adopción formal."
+              },
+              {
+                "t": "p",
+                "x": "El objetivo es redactar pautas que ayuden a las juntas médicas locales, con «especial atención … a las herramientas de AI que realizan funciones clínicas con supervisión médica directa limitada o nula», dijo a STAT Humayun Chaudhry, presidente y CEO de la FSMB. Un borrador podría hacerse público en «semanas o meses» y, en última instancia, servir de base para la legislación estatal."
+              },
+              {
+                "t": "p",
+                "x": "La AMA, las juntas médicas y un think tank conservador compiten por controlar cómo se regula la AI clínica autónoma. El resto del artículo es para suscriptores de STAT+."
               }
             ]
           }

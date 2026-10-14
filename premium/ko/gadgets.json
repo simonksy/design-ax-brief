@@ -13110,6 +13110,143 @@
           "x": "Edge는 180달러다. 오늘부터 예약 주문을 받고 10월 27일 출고된다. Google이 처음 내놓는 수리 가능한 피트니스 트래커로, 배터리를 교체할 수는 있지만 사용자가 직접 바꾸지는 못한다."
         }
       ]
+    },
+    "gadgets/gadgets-android-scam-alerts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+          "cap": "Google"
+        },
+        {
+          "t": "p",
+          "x": "Google이 Android용 새 사기 방지 기능을 발표했다. Messages에 사용자가 직접 켜는 설정이 생기는데, 켜 두면 Scam Detection이 Google의 가장 진보한 Gemini 모델로 발신자의 의도를 읽고 악의적인 상대가 보냈을 수 있는 메시지에 경고를 띄운다. 분석은 Private AI Compute에서 이뤄진다. 메시지를 암호화한 뒤 Google을 포함해 누구도 들여다볼 수 없는 안전한 공간에서 처리하는 방식이다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Nano는 Messages 속 링크도 사용자가 누르기 전에 기기 안에서 먼저 확인한다. 이 기능은 앞으로 몇 주에 걸쳐 Pixel 10+, Galaxy S26 시리즈, Galaxy Z Flip과 Fold 8 등 일부 기기에 들어간다. 채팅 알림의 Scam Detection도 Pixel 밖으로 넓어진다. Honor, Motorola, OPPO, OnePlus, realme, vivo, Xiaomi가 올해 안에 지원할 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "Android 15 이상 기기는 모두 이달 말 자동 화면 공유 개인정보 보호 기능을 받는다. Chrome이나 Android WebView가 화면에 떠 있으면 비밀번호, 금융 정보, 카드 보안 번호를 가린다. 십이월 초에는 Pixel과 일부 기기에 착신 전환 보호 기능이 추가된다. 브라질에서는 제휴 은행이라며 걸려 오는 전화를 Android가 검증하는데, 유월 이후 벌써 삼백만 건 넘는 가짜 전화를 막았다."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-intelligence-china": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bloomberg에 따르면 Apple은 두 해 동안 이어진 규제 지연을 끝내고 iOS 27.3에서 중국에 Apple Intelligence를 선보일 계획이다. 사진 편집 같은 기본 Apple Intelligence 기능은 들어가지만 Siri AI는 빠진다. Image Playground와 새 버전의 Genmoji도 제외되고, 텍스트 생성 도구는 제한된다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "South China Morning Post는 오늘, 중국 공업정보화부가 최근 Apple에 네트워크 접속 허가를 내주면서 Alibaba의 Qwen과 Tongyi Wanxiang 모델을 iPhone Duo, iPhone 18 Pro와 그 이전 iPhones에 넣을 수 있게 됐다고 보도했다. Apple Intelligence가 나올 길이 열린 셈이다."
+        },
+        {
+          "t": "p",
+          "x": "Apple은 iOS 18.1에서 첫 Apple Intelligence 기능을 선보였지만, 중국에서는 지금껏 쓸 수 없었다. 칠월에 중국 출시를 위한 첫 승인은 받았어도, 소비자에게 내놓으려면 승인이 한 번 더 필요했다."
+        },
+        {
+          "t": "p",
+          "x": "중국은 외국 AI 기술을 제한한다. 그래서 Apple은 중국에서 Apple Intelligence를 내놓으려면 Alibaba, Baidu와 손잡아야 했다. AI 모델을 계속 업데이트할 때도 중국 정부 승인을 거치도록 허용해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "Huawei 등 중국 경쟁 스마트폰 업체들은 오래전부터 인공지능 기능을 내놨고, 비슷한 도구가 없던 Apple은 불리한 처지였다."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-minions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+          "cap": "Apple"
+        },
+        {
+          "t": "p",
+          "x": "Apple은 사내에서 놀고 있는 Macs를 묶은 “가상 GPU 클라우드”, 곧 “Minions”라는 시스템을 쓰고 있다. 자사 연구진이 최근 arXiv에 올린 논문 내용이다. Minions는 멈춰 있던 AI 작업을 네트워크의 Mac들에 나눠 보내 대기 시간을 몇 분 수준으로 줄인다. 그중에는 한때 회사 GPU 대기열에서 10-plus-hour 대기를 겪던 작업도 있다. 대상은 AI 추론뿐이다. 오픈소스 Hugging Face 모델로 만드는 임베딩, 그리고 Ollama를 거친 LLM 텍스트 생성이다."
+        },
+        {
+          "t": "p",
+          "x": "Minion Server가 작업을 하위 작업으로 쪼개 PostgreSQL에 저장하면, 각 Mac의 Minion Executor가 중앙 스케줄러 없이 REST APIs로 다음 작업을 가져온다. 입력은 Amazon S3에서 읽고, 실행은 자기 GPU에서 한다. Minion Watchdog은 오 분 간격의 하트비트를 지켜보다가 Mac이 잠들거나 오프라인이 되거나 주인이 다시 가져가면 작업을 대기열에 되돌린다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+          "cap": "Apple의 Minions 시스템 구성도 (Apple, AI-generated)"
+        },
+        {
+          "t": "p",
+          "x": "논문은 Minions가 새 GPU 요청 없이 인프라 비용을 없앤다고 설명한다. 다만 전기료나 하드웨어 마모는 계산에서 뺐다. 참여 방식은 비공식적이어서, 팀원들이 Slack 메시지로 동료에게 executor를 띄워 달라고 부탁하기도 한다. 자기 그룹 밖 기기에서 데이터가 돌아가는 걸 꺼리는 팀도 있어, Apple은 배포 범위를 팀 단위와 조직 단위로 한정해 이를 줄인다. 저자들은 Minions를 모델 학습까지 넓힐 계획이고, 언젠가 “전 세계 커뮤니티”의 놀고 있는 Macs가 공유 GPU 풀을 이룰 수 있다고 말한다. 지금은 Apple 안에서만 돌아간다."
+        }
+      ]
+    },
+    "gadgets/gadgets-hmd-flip-companion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+          "cap": "HMD 2660 Flip Senior Edition이 발표됐다"
+        },
+        {
+          "t": "p",
+          "x": "HMD가 노년층용 피처폰 HMD 2660 Flip Senior Edition을 내놨다. 가장 눈에 띄는 기능은 inTouch의 AI-powered 말벗 Mary다. HMD는 2026년 삼월 inTouch와 손잡았다. Mary는 폰에 내장돼 있어 따로 앱을 깔 필요가 없다."
+        },
+        {
+          "t": "p",
+          "x": "Mary는 역사와 자연부터 개인적인 경험까지 여러 주제로 대화하고, 이야기를 들려주고, 기억력 게임을 하며, 이전 대화도 기억한다. 말은 천천히 하고 쉬운 단어를 쓰며, 긴 침묵도 기다려 준다. 메뉴에서 Mary를 열고 통화 버튼만 누르면 된다."
+        },
+        {
+          "t": "p",
+          "x": "함정이 있다. 이 폰으로 Mary와 무료로 대화할 수 있는 시간은 다섯 시간뿐이다. 그 뒤에도 쓰려면 매달 €19.90를 내야 하고, 통신사 요금이 붙을 수도 있다. 구독은 자동 갱신되지 않고, 구독하지 않아도 폰은 그대로 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "하드웨어는 일반 2660 Flip과 똑같다. 2.8-inch QVGA 메인 디스플레이, 1.77-inch 외부 화면, Unisoc T107, 교체형 1,450 mAh 배터리, IP54, S30+ 플랫폼을 갖췄다. HMD의 UK 온라인 스토어에서 Cosy Black 색상을 £79.99에 판다."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-homeview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 오늘 스마트홈 허브 HomeView의 예약 판매를 시작했다. 7인치 스마트 디스플레이 겸 스피커인 HomeView는 가족 구성원 최대 6명이 Apple 기기와 앱, 현재 베타 단계인 생성형 AI 챗봇 Siri를 한곳에서 이용하고 제어하는 중심 창구를 노린다."
+        },
+        {
+          "t": "p",
+          "x": "HomeView에 말을 걸면 스마트홈 기기를 제어할 수 있다. Siri에게 스마트 블라인드를 닫거나 스마트 잠금장치를 켜 달라고 하는 식이다. HomeView는 영상 피드도 최대 9개까지 동시에 실시간으로 띄운다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+          "cap": "스마트홈 허브로 쓰이는 Apple HomeView."
+        },
+        {
+          "t": "p",
+          "x": "Amazon Echo Show 같은 기기와 경쟁하는 HomeView는 내장 카메라로 누가 쓰는지 알아보고 그 사람의 프로필을 띄운다. Apple Intelligence를 지원하는 iPhone이나 iPad에 프로필을 연결하면 Messages, Calendar, Reminders, FaceTime을 쓸 수 있다. Siri 요청은 기기 안에서 처리하거나 Private Cloud Compute를 거쳐 처리한다고 Apple은 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Liquid Retina(LCD) 화면은 밝기가 0.3~500니트이고 스피커 받침 위 스테인리스 스틸 힌지에 달려 기울어진다. Schneider Home이 만든 벽걸이 거치대는 60달러부터다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple은 오늘부터 HomeView 예약 주문을 받는다. 정식 출시는 11월 13일, 가격은 299달러다."
+        }
+      ]
     }
   }
 }

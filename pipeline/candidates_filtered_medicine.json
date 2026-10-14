@@ -1,89 +1,61 @@
 {
-  "date": "2026-10-14",
   "section": "medicine",
-  "now_iso": "2026-10-13T22:03:28Z",
+  "now_iso": "2026-10-14T22:00:44Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Why an AI scribe wants to prescribe",
-      "url": "https://endpoints.news/why-an-ai-scribe-wants-to-prescribe/",
-      "source": "Endpoints News",
-      "category": "medicine",
-      "published_iso": "2026-10-13T14:56:16+00:00",
-      "excerpt": "Heidi, an Australian AI health startup, raised $340M from General Catalyst to pursue FDA approval for AI-driven prescribing and test ordering.",
-      "og_image": "https://endpoints.news/wp-content/uploads/2024/12/Healthtech_social.jpg"
+      "title": "Lobbyists and trade groups fight to shape how states regulate medical AI",
+      "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
+      "source": "STAT",
+      "published_iso": "2026-10-14T08:30:00+00:00",
+      "excerpt": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg",
+      "category": "medicine"
     },
     {
-      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
-      "url": "https://www.nature.com/articles/s41591-026-04680-4",
-      "source": "Nature Medicine",
-      "category": "medicine",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "excerpt": "A small epilepsy monitoring study shows that a moderated, large language model-based chat interface lets patients converse with their electroencephalography monitoring in real time, using a smartphone, and patient feedback cut seizure-detector false alarms by about 80% without clinician input.",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png"
-    },
-    {
-      "title": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
-      "url": "https://www.nature.com/articles/s41551-026-01812-6",
-      "source": "Nature Biomedical Engineering",
-      "category": "medicine",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "excerpt": "Continual learning, a privacy-preserving approach, was shown to be effective in addressing a critical gap in paediatric AI by adapting a deep learning model for adult endotracheal tube assessment to neonatal care.",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png"
-    },
-    {
-      "title": "From authoring to editing: a competency framework for trainee use of ambient AI clinical documentation",
-      "url": "https://www.nature.com/articles/s41746-026-03351-5",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "excerpt": "Ambient AI has spread through clinical settings faster than curricula can adapt, shifting trainee documentation from authoring to editing notes. Authoring historically honed clinical reasoning for trainees, yet medical education is not prepared to develop the editing task now replacing it. We define",
-      "og_image": ""
-    },
-    {
-      "title": "AI on par with radiologists for finding prostate cancer on MRI",
-      "url": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-10-13T18:35:33Z",
-      "excerpt": "A large-scale study of over 22,000 prostate MRI exams found that artificial intelligence achieved diagnostic performance comparable to radiologists for detecting prostate cancer, suggesting AI could help address radiologist shortages.",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
-      "history_match": {
-        "score": 0.185,
-        "date": "2026-10-10",
-        "url": "https://radiologybusiness.com/topics/artificial-intelligence/ai-solution-can-help-nearly-1-5-patients-avoid-prostate-biopsies-radnet-says",
-        "title": "AI solution can help nearly 1 in 5 patients avoid prostate biopsies, RadNet says",
-        "band": "related"
-      }
+      "title": "I’m a doctor. Here’s what I want the public to know about AI tools and health care costs",
+      "url": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/",
+      "source": "STAT",
+      "published_iso": "2026-10-06T08:30:00+00:00",
+      "excerpt": "“We can document honestly and still wind up inflating hospital bills,” writes a frustrated doctor.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_274628745-1024x576.jpeg",
+      "category": "medicine"
     },
     {
       "title": "Johns Hopkins Medicine taps OpenEvidence to bring AI into medical education, clinical care",
       "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/johns-hopkins-medicine-taps-openevidence-design-ai-tools-medical-training",
       "source": "Fierce Healthcare",
-      "category": "medicine",
       "published_iso": "2026-10-13T08:00:00-04:00",
-      "excerpt": "Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care. | Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercebiotech/1614609749/johnshopkinssm.jpg/johnshopkinssm.jpg?VersionId=qIMJkmz.nHEJUsLocgEA3NvgJWNqF766"
+      "excerpt": "Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercebiotech/1614609749/johnshopkinssm.jpg/johnshopkinssm.jpg?VersionId=qIMJkmz.nHEJUsLocgEA3NvgJWNqF766",
+      "category": "medicine"
     },
     {
-      "title": "Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses",
-      "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
-      "source": "Fierce Healthcare",
+      "title": "Are Hospital Operating Rooms Ready For FDA’s Expectations for Surgical Robots?",
+      "url": "https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/",
+      "source": "MedCity News",
+      "published_iso": "2026-10-12T12:00:00+00:00",
+      "excerpt": "The FDA recently published draft guidance on pre-market testing for robotically-assisted surgical devices, raising timely discussion around whether hospital infrastructures are capable of supporting increasingly complex systems. ",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1215416571.jpg",
       "category": "medicine",
-      "published_iso": "2026-10-09T15:00:00-04:00",
-      "excerpt": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief. Read below for news from the week of Oct. 5 to 9. | The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S"
+      "history_match": {
+        "score": 0.356,
+        "date": "2026-10-11",
+        "url": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
+        "title": "FDA to prioritize guidance on AI, surgical robots next year",
+        "band": "related"
+      }
     },
     {
       "title": "AI Can Flag Cognitive Decline Earlier — Health Systems Still Own What Happens Next",
       "url": "https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/",
       "source": "MedCity News",
-      "category": "medicine",
       "published_iso": "2026-10-08T13:53:00+00:00",
       "excerpt": "Earlier detection is valuable, but it creates a duty that does not end when an alert appears in the electronic health record. Health systems need to decide, in advance, how a risk signal becomes a clinically accountable pathway.",
       "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2025/08/dementia-alzheimers.jpg",
+      "category": "medicine",
       "history_match": {
-        "score": 0.186,
+        "score": 0.175,
         "date": "2026-10-09",
         "url": "https://www.nature.com/articles/s41746-026-03346-2",
         "title": "Early epilepsy detection from electronic health records with large language models",
@@ -91,85 +63,123 @@
       }
     },
     {
-      "title": "AI Has a Darker Side in Healthcare, Expert Says",
-      "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123393",
-      "source": "MedPage Today",
-      "category": "medicine",
-      "published_iso": "2026-10-13T16:41:21-04:00",
-      "excerpt": "Get ready for more 'gigification' of healthcare jobs",
-      "og_image": "https://assets.medpagetoday.net/media/images/123xxx/123393.jpg"
+      "title": "Why Agentic AI Works in Hospitals When You Strip It Down",
+      "url": "https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/",
+      "source": "MedCity News",
+      "published_iso": "2026-10-14T13:30:00+00:00",
+      "excerpt": "Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use.",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg",
+      "category": "medicine"
     },
     {
-      "title": "I’m a doctor. Here’s what I want the public to know about AI tools and health care costs",
-      "url": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/",
-      "source": "STAT",
-      "category": "medicine",
-      "published_iso": "2026-10-06T08:30:00+00:00",
-      "excerpt": "“We can document honestly and still wind up inflating hospital bills,” writes a frustrated doctor.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_274628745-1024x576.jpeg"
+      "title": "Electronic health record developer adherence to federal AI risk transparency requirements - npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03152-w",
+      "source": "npj Digital Medicine (Nature)",
+      "published_iso": "2026-10-14T00:00:00Z",
+      "excerpt": "We evaluated electronic health record developer compliance with federal transparency requirements for AI-enabled predictive decision support interventions. Developers are required to publicly report on risk analysis, mitigation, governance, and on eight other attributes. Across 35 developers, report",
+      "og_image": "",
+      "category": "medicine"
     },
     {
-      "title": "Why health AI pilots in Utah may be on a collision course with the FDA",
-      "url": "https://www.statnews.com/2026/10/07/utah-sandbox-health-ai-pilots-and-fda-regulations-ai-prognosis/",
-      "source": "STAT",
-      "category": "medicine",
-      "published_iso": "2026-10-07T13:38:52+00:00",
-      "excerpt": "In this edition of STAT's AIP Prognosis: Unresolved regulatory questions around Utah's AI sandbox, and more health AI news.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AIPrognosis_Wordpress_aipills-1024x576.jpg",
-      "history_match": {
-        "score": 0.31,
-        "date": "2026-10-07",
-        "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
-        "title": "Utah approves slew of health AI pilots for drug management, women's health",
-        "band": "related"
-      }
+      "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
+      "url": "https://www.nature.com/articles/s41586-026-11162-7",
+      "source": "Nature",
+      "published_iso": "2026-10-14T00:00:00Z",
+      "excerpt": "Artificial intelligence-enabled quantification and analyses of brown adipose tissue (BAT) activity uncover links between BAT and a healthier metabolic profile along with lower rates of psychiatric disease, and can identify pharmacologic agents that could be repurposed to activate this tissue in huma",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png",
+      "category": "medicine"
     },
     {
-      "title": "Government backs recommendations of NHS doctors-led AI Commission",
-      "url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
-      "source": "GOV.UK (DHSC/MHRA)",
-      "category": "medicine",
-      "published_iso": "2026-10-06T07:00:00+01:00",
-      "excerpt": "Ministers back independent Commission's blueprint in full, while the MHRA's AI Airlock opens its next phase,",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
+      "title": "Hidden signals in sleep can predict future health",
+      "url": "https://www.nature.com/articles/d41586-026-03207-8",
+      "source": "Nature",
+      "published_iso": "2026-10-12T00:00:00Z",
+      "excerpt": "From a single night of sleep, AI tools can uncover physiological patterns linked to disease and mortality that are missed by conventional sleep measures.",
+      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03207-8/d41586-026-03207-8_53840454.jpg",
+      "category": "medicine"
     },
     {
-      "title": "식약처, 임상시험 자료 2672건 외부 접근 노출...AI로 인증 없이 다운",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013809",
-      "source": "의학신문(bosa)",
-      "category": "medicine",
-      "published_iso": "2026-10-13T14:09:31+09:00",
-      "excerpt": "[의학신문·일간보사=이재원 기자] 식품의약품안전처가 운영하는 의약품안전나라에서 임상시험 결과 문서 2672건을 별도 인증 없이 외부에서 내려받을 수 있었던 것으로",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg"
+      "title": "MHRA 2030 Strategy to modernise patient-centred regulation for the era of AI and personalised medicines",
+      "url": "https://www.gov.uk/government/news/mhra-2030-strategy-to-modernise-patient-centred-regulation-for-the-era-of-ai-and-personalised-medicines",
+      "source": "GOV.UK (MHRA)",
+      "published_iso": "2026-10-14T10:00:03+01:00",
+      "excerpt": "The Medicines and Healthcare products Regulatory Agency (MHRA) has set out ambitious plans to translate cutting-edge scientific and technological innovation into better health outcomes for patients across all four nations of the UK, in its 2030 Strategy published today.",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "category": "medicine"
     },
     {
-      "title": "초음파 검사의 ‘검사자 의존성’ 한계 넘는다…배럴아이, AI·정량화·자율 로봇 융합",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013178",
-      "source": "의학신문(bosa)",
-      "category": "medicine",
-      "published_iso": "2026-10-02T05:50:00+09:00",
-      "excerpt": "[의학신문·일간보사=오인규 기자] 초음파 검사는 방사선 노출이 없고 실시간 검사가 가능해 의료 현장에서 가장 널리 쓰이지만, 검사자의 숙련도나 장비에 따라 판독",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3013178_414039_5237.jpg"
+      "title": "Bradford skin cancer waiting times cut by new AI technology",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
+      "source": "BBC News",
+      "published_iso": "2026-10-05T05:15:56.014Z",
+      "excerpt": "Clinic can now see more patients and get results faster thanks to new scanning technology.",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+      "category": "medicine"
+    },
+    {
+      "title": "AI, Tech Leaders Are Lobbying Trump Health Officials in a Government-Run Chat Room - KFF Health News",
+      "url": "https://kffhealthnews.org/health-industry/ai-tech-lobbying-medicare-medical-records-apps-trump-cms-slack-fda/",
+      "source": "KFF Health News",
+      "published_iso": "2026-10-09T09:00:00+00:00",
+      "excerpt": "A Slack workspace managed by the Centers for Medicare & Medicaid Services has served as an extraordinary war room for AI industry insiders and Trump administration officials to launch a rapid campaign aimed at persuading Americans to manage their healthcare and medical records on apps.",
+      "og_image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/10/GettyImages-2227770705.jpg",
+      "category": "medicine"
+    },
+    {
+      "title": "AI in Health Care Moves Toward More Autonomous Roles — The Monitor",
+      "url": "https://www.kff.org/health-information-trust/ai-in-health-care-moves-toward-more-autonomous-roles/",
+      "source": "KFF",
+      "published_iso": "2026-10-08T12:00:00+00:00",
+      "excerpt": "Federal health agencies are testing AI applications that move into patient care typically handled by physicians. And recent research suggests people may place more trust in conversational AI, while false claims attributed to authoritative sources can increase willingness to share them.",
+      "og_image": "https://www.kff.org/wp-content/uploads/sites/7/2026/10/261008_TheMonitor_FI.png",
+      "category": "medicine"
+    },
+    {
+      "title": "AI in Health Care: Who Gets Left Behind?",
+      "url": "https://www.kff.org/other-health/ai-in-health-care-who-gets-left-behind/",
+      "source": "KFF",
+      "published_iso": "2026-10-13T09:00:00+00:00",
+      "excerpt": "Health care's AI future is being built right now. The open question is “for whom?” Dr. Uché Blackstock — emergency physician, former associate professor at NYU School of Medicine, founder and CEO of Advancing Health Equity, and author of The New York Times bestseller “Legacy: A Black Physician Recko",
+      "og_image": "https://www.kff.org/wp-content/uploads/sites/7/2026/10/BoH_Ep19_Uche-Blackstock_Promo-Image_16x9.png",
+      "category": "medicine"
     },
     {
       "title": "Physicians fire back against HHS secretary’s claim AI is ‘better informed’ than human docs",
       "url": "https://radiologybusiness.com/topics/artificial-intelligence/physicians-fire-back-against-hhs-secretarys-claim-ai-better-informed-human-docs",
       "source": "Radiology Business",
-      "category": "medicine",
       "published_iso": "2026-10-01T06:34:04+00:00",
       "excerpt": "Health and Human Services Secretary Robert Kennedy Jr. said he believes the technology offers the opportunity to “free us from medical tyranny.”",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2020-10/istock-924555512_1.jpg?h=c327dd01&itok=SPFFDuvT"
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2020-10/istock-924555512_1.jpg?h=c327dd01&itok=SPFFDuvT",
+      "category": "medicine"
+    },
+    {
+      "title": "Brainomix adds patient input to e-Lung lung CT study",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837482/brainomix-adds-patient-input-to-elung-lung-ct-study",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-14T19:50:41Z",
+      "excerpt": "Brainomix is extending its e-Lung AI CT study in fibrotic interstitial lung disease, run with Boehringer Ingelheim, to add patient-reported input drawn from a patient community.",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ild.KCyEc4r5cL.jpg",
+      "category": "medicine"
+    },
+    {
+      "title": "Role of the Digital Mental Health Technology (DMHT) Working Group",
+      "url": "https://www.gov.uk/government/publications/role-of-the-digital-mental-health-technology-dmht-working-group",
+      "source": "GOV.UK (MHRA)",
+      "published_iso": "2026-10-09T11:02:48+01:00",
+      "excerpt": "MHRA and NICE describe how the Digital Mental Health Technology Working Group shaped regulation, evaluation and AI priorities for digital mental health tools, including risks of generative AI in mental health and the DMHT AI Airlock.",
+      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "category": "medicine"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 15,
+    "dropped": 4,
+    "kept": 17,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 3,
+    "review": 2,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -347,6 +357,31 @@
       "date": "2026-10-13",
       "title": "Claude analyzed my genome in 30 minutes. Now we need standards for the results",
       "url": "https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "AI on par with radiologists for finding prostate cancer on MRI",
+      "url": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "식약처, 임상시험 자료 2672건 외부 접근 노출...AI로 인증 없이 다운",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013809"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Government backs recommendations of NHS doctors-led AI Commission",
+      "url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
+      "url": "https://www.nature.com/articles/s41551-026-01812-6"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
+      "url": "https://www.nature.com/articles/s41591-026-04680-4"
     }
   ]
 }

@@ -7749,6 +7749,126 @@
           "x": "Craig Kaplanは、これが「タイリング理論で長く残っていた厄介な未解決問題」に決着をつけると評価する。従来のSchmitt-Conway-Danzer双角柱は弱い非周期性しか持たなかったからだ。一方、生成AIを多用したことで反応は割れている。Chaim Goodman-Straussは論文に「LLM-driven研究論文の特徴」があると指摘し、彼とFelix FlickerはChair44が非周期モノタイルであることを人の手で証明した。Flickerは「私たちの仕事が、金塊を探してAIスロップ（slop）をふるいにかける作業に成り下がる恐れがある」と語る。"
         }
       ]
+    },
+    "science/science-hiro-acev2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2は、High Resolution Output Ai2 Climate Emulatorの最新版HiRO-ACEv2を発表した。HiROv2は極めてまれな雨や風、気圧の現象まで高い精度で再現し、システム全体では高解像度の全球大気モデルX-SHiELDの約1/300のコストで、全球3 kmの気候データを生成する。"
+        },
+        {
+          "t": "p",
+          "x": "このシステムは、100 kmで動くAIモデルACEと、その出力を3 kmまで精細化するHiROを組み合わせる。解像度を落としたX-SHiELDデータを与えると、HiROv2は百万回に一度の事象でも高解像度の統計を3%以内で再現し、リアルな目と降雨帯を持つハリケーンを生成する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928654-hiro-acev2-blog-draft-google-docs-image-2.png?fit=max&h=810&w=1550",
+          "cap": "10年間のHiRO-ACEv2シミュレーションで生成された、北大西洋の強いハリケーンの例。"
+        },
+        {
+          "t": "p",
+          "x": "全球の高解像度データを作るコストはX-SHiELDを動かす場合の約300分の1で、単一地域なら削減幅はさらに百倍以上大きくなりうる。より温暖な将来など、ほかの気候にはまだ対応できない。Ai2は、4°C温暖化した世界を含む新たなX-SHiELDデータで学習させる計画だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791928757-hiro-acev2-blog-draft-google-docs-image-3.png?fit=max&h=810&w=1550",
+          "cap": "ACEデータビジュアライザーで表示したBaja California上空の10 m風速のシミュレーション。主地図は100 km解像度のACE2、挿入図は3 km解像度のHiRO-ACEv2。"
+        },
+        {
+          "t": "p",
+          "x": "ウェブデモではHiROv1とHiROv2の出力をX-SHiELDと並べて見ることができ、モデルはチュートリアルノートブックとともにダウンロードできる。"
+        }
+      ]
+    },
+    "science/science-tess-superearth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
+          "cap": "主星を回る溶岩惑星を背にしたTESSの想像図。"
+        },
+        {
+          "t": "p",
+          "x": "スペイン在住のプロダクトマネージャーで宇宙科学愛好家のPavel Rabtsevichは、独自のAIアルゴリズムでNASA TESSのデータにある126,000を超える対象星を調べた。アルゴリズムが示したのは、オリオン座(Orion)の約116光年先にあるTIC 4206066で、三日ごとに約二時間暗くなっていた。彼はその後、アーカイブからさらに22回の減光を見つけた。"
+        },
+        {
+          "t": "p",
+          "x": "確認されれば、この天体は地球の約1.4倍の半径を持つsuper-Earthで、表面温度は1,000°F(540°C)と推定される。2018年の減光の一部はTESSのスラスター噴射と重なっており、彼はこれを、別の可能性がまだ排除されていない「繰り返すトランジット様の信号」と呼ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "AIなしではこの探索はできなかったと彼は言う。複数のエージェントが「コードを書き、実行し、互いの作業を確認した」が、「研究そのものは私のものだ」という。YaleのGreg Laughlinはこの候補を「堅実だ」と評する。MITのPablo Mercader Perezによれば、TESSのフィルターは2020年にこの信号を捉えたものの除外しており、検出可能になったのは今年1月のことだ。TESSは11月にこの星を再観測する。"
+        }
+      ]
+    },
+    "science/science-firstproof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "人工知能モデルは数学に強くなりつつある。ただし企業のAIに限った話だ。First Proofプロジェクトが第三弾の結果を公表し、フロンティア研究所のサブスクリプション型の独自モデルが、数学力でオープンウェイトモデルを大きく上回ることが示唆された。StanfordのMohammed Abouzaidは「研究数学では、オープンウェイトモデルとフロンティアモデルの差は非常に大きい」と語る。"
+        },
+        {
+          "t": "p",
+          "x": "チームは研究問題10問を選び、各問題を三人の採点者が模擬査読の形で評価した。参加モデルは公開利用可能であることが条件で、OpenAIの新しい内部モデルは対象外となった。テストされたのはGPT 6 Astra、Claude Opus 5.5、複数モデルを束ねた「ProofCouncil」、そして首位のオープンウェイトモデルKimi K3上のハーネスなどだ。"
+        },
+        {
+          "t": "p",
+          "x": "ProofCouncilは10問中九問を「軽微な修正」付きで許容水準に解いた。2月の数問、6月の六、七問から増えた。Kimi K3が解けたのはちょうどゼロ問だった。HarvardのLauren Williamsは「まったく歯が立たなかった」と述べ、オープンモデルへの投資を訴える。データ漏洩を懸念する数学者はOpenAIやAnthropicのモデルに代わる選択肢を求めているが、今のところそれらは機能しないようだ。"
+        }
+      ]
+    },
+    "science/science-subseasonal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "二週間を超える予報は信頼性が低く、2021年のテキサスの冬の嵐が示したように、エネルギーや農業、緊急対応の計画を圧迫する。MITの研究者を含むチームは、予報モデルの過去の誤差から学び、二～六週先の確率予報を補正する機械学習の後処理層を開発した。"
+        },
+        {
+          "t": "p",
+          "x": "European Centre for Medium-Range Weather Forecasts(ECMWF、欧州中期予報センター)のモデルに適用したところ、この期間の予測力はほぼ倍増し、ECMWFの予報コンペで首位を獲得した。Natureに掲載されたこの手法は、MITのJudah Cohenが「予測可能性の砂漠」と呼ぶこの範囲で初めて気候学的平均を上回ったアプローチで、極端気象の予測も改善した。"
+        },
+        {
+          "t": "p",
+          "x": "筆頭著者はHarvardのHannah GuanとUniversity of TorontoのSoukayna Mouatadidで、ECMWF、DTN、Microsoft、ブラジルのIMPAの研究者も協力した。この手法はほかのモデルにも使え、オープンソースで低コストだ。ケニアの気象機関も活用に関心を示している。"
+        }
+      ]
+    },
+    "science/science-mit-self-wiring-learner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-mcgovern-self-supervisedlearning.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Oct. 9にPNASで発表された論文で、MITのMcGovern InstituteとK. Lisa Yang ICoN Centerの科学者らは、人工ニューラルネットワークの学習が生物学的に妥当かどうかを測る重要な指標は、開発者の導きなしに自らを組織化する能力だと主張する。結合をいつ、どのように変えるべきかという単純な指示を与えると、無作為に結合したユニットの集まりが自らを作り替え、効果的な情報処理ネットワークになる。"
+        },
+        {
+          "t": "p",
+          "x": "「脳には外部の設計者も建築家もいない」と、Liu Ziyin、Yulu Ganとともに共同筆頭著者を務めたQianli Liaoは言う。このネットワークは「同時に発火するニューロンは結びつく」といった、脳回路を配線し直すとされる規則に従い、パターンを認識し画像を分類することを学んだ。"
+        },
+        {
+          "t": "p",
+          "x": "自己組織化するモチーフは、勾配降下法に似た戦略で再編された。神経科学者が脳では使われにくいとする誤差逆伝播法(back-propagation)で訓練したネットワークと比べても、同程度の性能を示した。"
+        },
+        {
+          "t": "p",
+          "x": "「我々が提案するシナプスモチーフを、誤差逆伝播法が人工ニューラルネットワークで果たす役割のために実際に脳が使っているなら、機械と脳の間に強いつながりが…生まれることになる」とTomaso Poggioは語る。"
+        }
+      ]
     }
   }
 }

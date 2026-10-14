@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "music",
   "cards": [
     {
-      "id": "music-deezer-ai-search-toggle",
+      "id": "music-youtube-ai-labels",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Deezer 검색에서\nAI-made 음악 숨긴다",
-      "body": "Deezer가 AI-generated 곡을 검색에서 빼는 토글을 넣는다.",
-      "mini_headline": "Deezer, AI 음악 숨김 기능",
+      "headline": "YouTube Music\nAI-generated 곡",
+      "body": "YouTube Music이 AI가 일부라도 만든 곡을 플레이어에 표시한다.",
+      "mini_headline": "YouTube Music, AI 곡에 라벨",
       "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,203 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-            "cap": "Deezer CEO Alexis Lanternier"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
           },
           {
             "t": "p",
-            "x": "Deezer는 검색 결과에서 완전한 AI-generated 음악을 뺄 수 있는 on/off 토글을 도입한다고 밝혔다. 토글을 켜면 AI-generated 트랙과 앨범, 관련 아티스트가 보이지 않고 끄면 다시 나타난다."
+            "x": "YouTube Music이 수요일, 생성형 AI의 도움을 받은 곡을 더 투명하게 알리려고 새 라벨 체계를 도입한다고 발표했다. 작곡과 보컬에 AI가 관여한 곡도 대상이다. 라벨은 플레이어 페이지에 뜨고, 누르면 그 곡에서 AI가 정확히 어떤 역할을 했는지 알려 준다. YouTube 메인 앱에도 같은 라벨이 붙는다."
           },
           {
             "t": "p",
-            "x": "Deezer는 이미 완전한 AI-generated로 감지한 트랙을 알고리즘 추천에서 빼고 에디토리얼 플레이리스트에도 넣지 않는다. 회사에 따르면 매일 약 90,000곡의 완전한 AI-generated 트랙이 들어온다. 2025년 1월 감지 도구를 내놓았을 때는 하루 10,000곡이었다."
+            "x": "YouTube는 음악 파트너와 손잡는 한편 자체 감지 도구도 들였다고 밝혔다. 파트너는 생성형 AI를 썼는지 Fully Gen AI, Partly Gen AI, No Gen AI 셋 중 하나로 신고할 수 있다. Auto-Tune 같은 음정 보정 도구로 손본 곡은 No Gen AI로 친다."
           },
           {
             "t": "p",
-            "x": "피크일에는 완전한 AI-generated 트랙이 Deezer에 들어오는 신규 음악의 50% 이상을 차지한다. 그래도 스트리밍 비중은 1%에서 3%에 그친다. 2025년 완전한 AI-generated 트랙이 만든 스트리밍 가운데 최대 85%는 부정 스트리밍이었다고 회사는 밝혔다."
+            "x": "다른 플랫폼은 저마다 방식이 다르다. Apple Music은 “Made With AI” 라벨을 준비 중이고, Spotify는 AI 라벨과 음악 스팸 필터를 갖췄다. Deezer는 7월에 완전한 AI-generated 트랙이 하루 90,000곡 가까이 들어온다고 밝혔는데, 감지된 AI 음악은 알고리즘 추천과 에디토리얼 플레이리스트에서 뺀다. TIDAL은 청취자가 완전한 AI-generated 녹음을 끌 수 있게 했다."
           },
           {
             "t": "p",
-            "x": "CEO Alexis Lanternier는 “AI-generated 음악을 걸러내는 기능에 대한 분명한 사용자 수요를 확인했다”고 말했다. Deezer가 인용한 2025년 11월 Ipsos 조사에서 음악 스트리밍 사용자의 45%가 “100% AI-generated 음악을 걸러내고 싶다”고 답했다."
-          },
-          {
-            "t": "p",
-            "x": "Deezer가 2025년 1월부터 2026년 8월까지 감지한 AI-generated 트랙은 4200만 곡이 넘는다. 2025년 6월 AI-generated 음악 라벨 표시를 시작한 뒤로는 1400만 장이 넘는 앨범에 태그를 달았다고 회사는 밝혔다."
+            "x": "YouTube는 일괄 제한보다 공개 쪽에 무게를 둔다. AI가 관여했다는 이유만으로 곡이 수익화 대상에서 빠지지는 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Deezer adds a switch to hide\nAI-made music from search",
-          "body": "Deezer is adding a toggle that removes fully AI-generated tracks, albums and artists from search results.",
-          "mini_headline": "Deezer lets users hide AI music",
+          "headline": "YouTube Music starts labeling\nAI-generated tracks",
+          "body": "YouTube Music will tag songs fully or partly made by AI, including AI composition or vocals, on the player page.",
+          "mini_headline": "YouTube Music labels AI tracks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-                "cap": "Alexis Lanternier, CEO of Deezer"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
               },
               {
                 "t": "p",
-                "x": "Deezer says it is introducing an on/off toggle that will let users exclude fully AI-generated music from their search results. With the toggle switched on, AI-generated tracks, albums, and their related artists will not appear; switching it off restores access."
+                "x": "YouTube Music announced Wednesday the rollout of a new labeling system aimed at improving transparency around songs created with the help of generative AI, including tracks where AI was involved in composition and vocals. The label appears on the player page, and clicking it explains AI’s specific role in the track; the labels will also extend to the main YouTube app."
               },
               {
                 "t": "p",
-                "x": "Deezer already removes tracks it detects as fully AI-generated from algorithmic recommendations and keeps them out of editorial playlists. It says it is receiving nearly 90,000 fully AI-generated tracks every day, up from 10,000 a day when it launched its detection tool in January 2025."
+                "x": "YouTube said it collaborated with music partners and deployed its own detection tools. Partners can declare generative AI use through one of three designations: Fully Gen AI, Partly Gen AI, or No Gen AI. Tracks edited with pitch-correction tools such as Auto-Tune fall under No Gen AI."
               },
               {
                 "t": "p",
-                "x": "On peak days, fully AI-generated tracks account for more than 50% of all new music delivered to Deezer, though they generate only 1% to 3% of streams. The company says up to 85% of streams generated by fully AI-generated tracks in 2025 were fraudulent."
+                "x": "Other platforms are taking their own approaches: Apple Music plans “Made With AI” labels, Spotify has AI labels and a music spam filter, Deezer — which reported in July receiving nearly 90,000 fully AI-generated tracks daily — excludes detected AI music from algorithmic recommendations and editorial playlists, and TIDAL lets listeners disable fully AI-generated recordings."
               },
               {
                 "t": "p",
-                "x": "“We’ve seen a clear user demand for the ability to filter out AI-generated music,” said CEO Alexis Lanternier. Deezer cited an Ipsos survey from November 2025 in which 45% of music streaming users said they “would like to filter out 100% AI-generated music.”"
-              },
-              {
-                "t": "p",
-                "x": "Deezer says it detected more than 42 million AI-generated tracks between January 2025 and August 2026, and that more than 14 million albums have been tagged since it began labeling AI-generated music in June 2025."
+                "x": "YouTube, by contrast, is focusing on disclosure rather than blanket restrictions: AI involvement alone doesn’t make a track ineligible for monetization."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Deezer 검색에서\nAI-made 음악 숨긴다",
-          "body": "Deezer가 AI-generated 곡을 검색에서 빼는 토글을 넣는다.",
-          "mini_headline": "Deezer, AI 음악 숨김 기능",
+          "headline": "YouTube Music\nAI-generated 곡",
+          "body": "YouTube Music이 AI가 일부라도 만든 곡을 플레이어에 표시한다.",
+          "mini_headline": "YouTube Music, AI 곡에 라벨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-                "cap": "Deezer CEO Alexis Lanternier"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
               },
               {
                 "t": "p",
-                "x": "Deezer는 검색 결과에서 완전한 AI-generated 음악을 뺄 수 있는 on/off 토글을 도입한다고 밝혔다. 토글을 켜면 AI-generated 트랙과 앨범, 관련 아티스트가 보이지 않고 끄면 다시 나타난다."
+                "x": "YouTube Music이 수요일, 생성형 AI의 도움을 받은 곡을 더 투명하게 알리려고 새 라벨 체계를 도입한다고 발표했다. 작곡과 보컬에 AI가 관여한 곡도 대상이다. 라벨은 플레이어 페이지에 뜨고, 누르면 그 곡에서 AI가 정확히 어떤 역할을 했는지 알려 준다. YouTube 메인 앱에도 같은 라벨이 붙는다."
               },
               {
                 "t": "p",
-                "x": "Deezer는 이미 완전한 AI-generated로 감지한 트랙을 알고리즘 추천에서 빼고 에디토리얼 플레이리스트에도 넣지 않는다. 회사에 따르면 매일 약 90,000곡의 완전한 AI-generated 트랙이 들어온다. 2025년 1월 감지 도구를 내놓았을 때는 하루 10,000곡이었다."
+                "x": "YouTube는 음악 파트너와 손잡는 한편 자체 감지 도구도 들였다고 밝혔다. 파트너는 생성형 AI를 썼는지 Fully Gen AI, Partly Gen AI, No Gen AI 셋 중 하나로 신고할 수 있다. Auto-Tune 같은 음정 보정 도구로 손본 곡은 No Gen AI로 친다."
               },
               {
                 "t": "p",
-                "x": "피크일에는 완전한 AI-generated 트랙이 Deezer에 들어오는 신규 음악의 50% 이상을 차지한다. 그래도 스트리밍 비중은 1%에서 3%에 그친다. 2025년 완전한 AI-generated 트랙이 만든 스트리밍 가운데 최대 85%는 부정 스트리밍이었다고 회사는 밝혔다."
+                "x": "다른 플랫폼은 저마다 방식이 다르다. Apple Music은 “Made With AI” 라벨을 준비 중이고, Spotify는 AI 라벨과 음악 스팸 필터를 갖췄다. Deezer는 7월에 완전한 AI-generated 트랙이 하루 90,000곡 가까이 들어온다고 밝혔는데, 감지된 AI 음악은 알고리즘 추천과 에디토리얼 플레이리스트에서 뺀다. TIDAL은 청취자가 완전한 AI-generated 녹음을 끌 수 있게 했다."
               },
               {
                 "t": "p",
-                "x": "CEO Alexis Lanternier는 “AI-generated 음악을 걸러내는 기능에 대한 분명한 사용자 수요를 확인했다”고 말했다. Deezer가 인용한 2025년 11월 Ipsos 조사에서 음악 스트리밍 사용자의 45%가 “100% AI-generated 음악을 걸러내고 싶다”고 답했다."
-              },
-              {
-                "t": "p",
-                "x": "Deezer가 2025년 1월부터 2026년 8월까지 감지한 AI-generated 트랙은 4200만 곡이 넘는다. 2025년 6월 AI-generated 음악 라벨 표시를 시작한 뒤로는 1400만 장이 넘는 앨범에 태그를 달았다고 회사는 밝혔다."
+                "x": "YouTube는 일괄 제한보다 공개 쪽에 무게를 둔다. AI가 관여했다는 이유만으로 곡이 수익화 대상에서 빠지지는 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Deezer、検索から\nAI-made音楽を非表示に",
-          "body": "Deezerは完全なAI-generated楽曲を検索から除くトグルを導入する。",
-          "mini_headline": "Deezer、AI音楽を非表示に",
+          "headline": "YouTube Music\nAI-generated 曲",
+          "body": "YouTube MusicはAIが全部または一部を作った曲を、プレーヤー画面で表示する。",
+          "mini_headline": "YouTube Music、AI曲にラベル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-                "cap": "Deezer CEOのAlexis Lanternier"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
               },
               {
                 "t": "p",
-                "x": "Deezerは、検索結果から完全なAI-generated音楽を除外できるon/offトグルを導入すると発表した。トグルをオンにするとAI-generatedのトラック、アルバム、関連アーティストが表示されなくなり、オフにすると元に戻る。"
+                "x": "YouTube Musicは水曜日、生成AIの助けを借りて作られた曲の透明性を高める新たなラベル制度の導入を発表した。作曲やボーカルにAIが関わった曲も対象となる。ラベルはプレーヤー画面に表示され、クリックするとその曲でAIが果たした具体的な役割が説明される。ラベルはYouTubeのメインアプリにも広がる。"
               },
               {
                 "t": "p",
-                "x": "Deezerはすでに、完全なAI-generatedと判定したトラックをアルゴリズムによるレコメンドから外し、編集部プレイリストにも入れていない。同社によると、完全なAI-generatedトラックは毎日約90,000曲届いており、2025年1月に検出ツールを導入した時点の1日10,000曲から増えた。"
+                "x": "YouTubeは音楽パートナーと協力し、独自の検出ツールを導入したと説明した。パートナーはFully Gen AI、Partly Gen AI、No Gen AIの三つの区分のいずれかで生成AIの使用を申告できる。Auto-Tuneのような音程補正ツールで編集した曲はNo Gen AIに当たる。"
               },
               {
                 "t": "p",
-                "x": "ピーク日には、完全なAI-generatedトラックがDeezerに届く新曲全体の50%超を占めるが、ストリーム数に占める割合は1%から3%にとどまる。同社は、2025年に完全なAI-generatedトラックが生んだストリームの最大85%が不正だったとしている。"
+                "x": "他のプラットフォームはそれぞれ独自の手法をとる。Apple Musicは「Made With AI」ラベルを計画し、SpotifyはAIラベルと音楽スパムフィルターを備える。7月に完全なAI-generatedトラックを1日あたり90,000曲近く受け取っていると報告したDeezerは、検出したAI音楽をアルゴリズムによるおすすめや編集部のプレイリストから外している。TIDALはリスナーが完全なAI-generated録音を無効にできるようにした。"
               },
               {
                 "t": "p",
-                "x": "CEOのAlexis Lanternierは「AI-generated音楽を除外できる機能への明確なユーザー需要が見えている」と述べた。Deezerは2025年11月のIpsos調査を引用し、音楽ストリーミング利用者の45%が「100% AI-generatedの音楽を除外したい」と答えたとしている。"
-              },
-              {
-                "t": "p",
-                "x": "Deezerは、2025年1月から2026年8月までに4200万曲を超えるAI-generatedトラックを検出し、2025年6月にAI-generated音楽へのラベル付けを始めて以降、1400万枚を超えるアルバムにタグを付けたとしている。"
+                "x": "対照的にYouTubeは、一律の制限よりも開示に重点を置く。AIが関わったというだけで、曲が収益化の対象外になることはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Deezer新增开关\n搜索可隐藏AI-made音乐",
-          "body": "Deezer将推出开关，可在搜索结果中移除完全AI-generated的曲目、专辑和艺人。",
-          "mini_headline": "Deezer让用户隐藏AI音乐",
+          "headline": "YouTube Music\n标 AI-generated",
+          "body": "YouTube Music将在播放页面标注全部或部分由AI制作的歌曲，包括AI作曲或人声。",
+          "mini_headline": "YouTube Music 为 AI 歌曲加标签",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-                "cap": "Deezer CEO Alexis Lanternier"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
               },
               {
                 "t": "p",
-                "x": "Deezer表示将推出on/off开关，让用户在搜索结果中排除完全AI-generated的音乐。开关打开后，AI-generated的曲目、专辑及相关艺人将不会出现；关闭后即可恢复。"
+                "x": "YouTube Music周三宣布推出新的标签系统，旨在提高借助生成式AI创作的歌曲的透明度，包括AI参与作曲和人声的曲目。标签显示在播放页面上，点击后会说明AI在该曲目中的具体作用；标签也将扩展到YouTube主应用。"
               },
               {
                 "t": "p",
-                "x": "Deezer此前已将其检测为完全AI-generated的曲目移出算法推荐，也不收入编辑歌单。公司称，目前每天收到近90,000首完全AI-generated的曲目，而2025年1月推出检测工具时为每天10,000首。"
+                "x": "YouTube表示，它与音乐合作伙伴合作，并部署了自有的检测工具。合作伙伴可以通过三种标注之一申报生成式AI的使用情况：Fully Gen AI、Partly Gen AI或No Gen AI。使用Auto-Tune等音高校正工具编辑的曲目属于No Gen AI。"
               },
               {
                 "t": "p",
-                "x": "在高峰日，完全AI-generated的曲目占Deezer所收新音乐的50%以上，但只带来1%到3%的播放量。公司称，2025年完全AI-generated曲目产生的播放中，最多85%属于欺诈。"
+                "x": "其他平台各有做法：Apple Music计划推出“Made With AI”标签，Spotify设有AI标签和音乐垃圾内容过滤器；Deezer在7月报告称每天收到近90,000首完全AI-generated的曲目，它会把检测到的AI音乐排除在算法推荐和编辑歌单之外；TIDAL则允许听众屏蔽完全AI-generated的录音。"
               },
               {
                 "t": "p",
-                "x": "CEO Alexis Lanternier表示：“我们看到用户明确希望能够过滤AI-generated音乐。”Deezer援引Ipsos于2025年11月的调查，45%的音乐流媒体用户表示“希望过滤掉100% AI-generated的音乐”。"
-              },
-              {
-                "t": "p",
-                "x": "Deezer称，2025年1月至2026年8月间共检测到超过4200万首AI-generated曲目；自2025年6月开始标注AI-generated音乐以来，已有超过1400万张专辑被打上标签。"
+                "x": "相比之下，YouTube侧重于信息披露，而非一刀切的限制：仅凭AI参与，并不会让曲目失去变现资格。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Deezer añade un botón para\nocultar música AI-made al buscar",
-          "body": "Deezer añade un interruptor que quita de las búsquedas canciones, álbumes y artistas totalmente AI-generated.",
-          "mini_headline": "Deezer permite ocultar la música AI",
+          "headline": "YouTube Music etiqueta\nla música AI-generated",
+          "body": "YouTube Music marcará en la página del reproductor las canciones hechas total o parcialmente con AI.",
+          "mini_headline": "YouTube Music etiqueta pistas de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-                "cap": "Alexis Lanternier, CEO de Deezer"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
               },
               {
                 "t": "p",
-                "x": "Deezer anuncia un interruptor on/off que permitirá a los usuarios excluir de sus resultados de búsqueda la música totalmente AI-generated. Con el interruptor activado, no aparecerán las pistas, álbumes y artistas relacionados AI-generated; al desactivarlo se recupera el acceso."
+                "x": "YouTube Music anunció el miércoles el despliegue de un nuevo sistema de etiquetas para mejorar la transparencia sobre las canciones creadas con ayuda de AI generativa, incluidas las pistas en las que la AI intervino en la composición y las voces. La etiqueta aparece en la página del reproductor y, al pulsarla, explica el papel concreto de la AI en la pista; las etiquetas también llegarán a la aplicación principal de YouTube."
               },
               {
                 "t": "p",
-                "x": "Deezer ya retira de las recomendaciones algorítmicas las pistas que detecta como totalmente AI-generated y las mantiene fuera de las listas editoriales. Afirma que recibe cada día casi 90,000 pistas totalmente AI-generated, frente a 10,000 diarias cuando lanzó su herramienta de detección en enero de 2025."
+                "x": "YouTube afirmó que colaboró con sus socios musicales y desplegó sus propias herramientas de detección. Los socios pueden declarar el uso de AI generativa mediante una de tres categorías: Fully Gen AI, Partly Gen AI o No Gen AI. Las pistas editadas con herramientas de corrección de tono como Auto-Tune entran en No Gen AI."
               },
               {
                 "t": "p",
-                "x": "En los días de mayor volumen, las pistas totalmente AI-generated suponen más del 50% de toda la música nueva que llega a Deezer, aunque solo generan entre el 1% y el 3% de las reproducciones. La compañía afirma que hasta el 85% de las reproducciones generadas por pistas totalmente AI-generated en 2025 fueron fraudulentas."
+                "x": "Otras plataformas siguen sus propios enfoques: Apple Music prevé etiquetas “Made With AI”, Spotify tiene etiquetas de AI y un filtro de spam musical, Deezer —que en julio informó de que recibía cerca de 90,000 pistas totalmente AI-generated al día— excluye la música de AI detectada de las recomendaciones algorítmicas y de las listas editoriales, y TIDAL permite a los oyentes desactivar las grabaciones totalmente AI-generated."
               },
               {
                 "t": "p",
-                "x": "“Hemos visto una clara demanda de los usuarios de poder filtrar la música AI-generated”, dijo el CEO Alexis Lanternier. Deezer citó una encuesta de Ipsos de noviembre de 2025 en la que el 45% de los usuarios de streaming musical dijo que “le gustaría filtrar la música 100% AI-generated”."
-              },
-              {
-                "t": "p",
-                "x": "Deezer afirma que detectó más de 42 millones de pistas AI-generated entre enero de 2025 y agosto de 2026, y que ha etiquetado más de 14 millones de álbumes desde que empezó a señalar la música AI-generated en junio de 2025."
+                "x": "YouTube, en cambio, se centra en la divulgación más que en restricciones generales: la sola participación de la AI no hace que una pista quede excluida de la monetización."
               }
             ]
           }
@@ -223,141 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Deezer 검색에서\nAI-made 음악 숨긴다",
-          "body": "Deezer가 AI-generated 곡을 검색에서 빼는 토글을 넣는다.",
-          "mini_headline": "Deezer, AI 음악 숨김 기능",
+          "headline": "YouTube Music\nAI-generated 곡",
+          "body": "YouTube Music이 AI가 일부라도 만든 곡을 플레이어에 표시한다.",
+          "mini_headline": "YouTube Music, AI 곡에 라벨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-                "cap": "Deezer CEO Alexis Lanternier"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
               },
               {
                 "t": "p",
-                "x": "Deezer는 사용자가 검색 결과에서 완전한 AI-generated 음악을 제외할 수 있는 on/off 토글을 도입한다고 밝혔다. 토글을 켜면 AI-generated 트랙과 앨범, 관련 아티스트가 나타나지 않고, 끄면 다시 볼 수 있다."
+                "x": "YouTube Music이 수요일, 생성형 AI의 도움으로 만든 곡의 투명성을 높이기 위한 새 라벨 체계를 도입한다고 발표했다. 작곡과 보컬에 AI가 관여한 곡도 대상이다. 라벨은 플레이어 페이지에 나타나고, 누르면 해당 곡에서 AI가 맡은 구체적 역할을 설명한다. 라벨은 YouTube 메인 앱에도 적용된다."
               },
               {
                 "t": "p",
-                "x": "Deezer는 이미 완전한 AI-generated로 감지한 트랙을 알고리즘 추천에서 빼고 에디토리얼 플레이리스트에도 넣지 않는다. 회사에 따르면 매일 약 90,000곡의 완전한 AI-generated 트랙이 들어오며, 이는 2025년 1월 감지 도구를 출시했을 때의 하루 10,000곡에서 늘어난 수치다."
+                "x": "YouTube는 음악 파트너와 협력하고 자체 감지 도구를 도입했다고 밝혔다. 파트너는 Fully Gen AI, Partly Gen AI, No Gen AI 세 가지 중 하나로 생성형 AI 사용 여부를 신고할 수 있다. Auto-Tune 같은 음정 보정 도구로 편집한 곡은 No Gen AI에 해당한다."
               },
               {
                 "t": "p",
-                "x": "피크일에는 완전한 AI-generated 트랙이 Deezer에 들어오는 신규 음악의 50% 이상을 차지하지만, 스트리밍에서 차지하는 비중은 1%에서 3%에 그친다. 회사는 2025년 완전한 AI-generated 트랙이 만든 스트리밍의 최대 85%가 부정 스트리밍이었다고 밝혔다."
+                "x": "다른 플랫폼은 저마다 방식이 다르다. Apple Music은 “Made With AI” 라벨을 계획하고 있고, Spotify는 AI 라벨과 음악 스팸 필터를 갖췄다. 7월에 하루 90,000곡 가까운 완전한 AI-generated 트랙이 들어온다고 밝힌 Deezer는 감지된 AI 음악을 알고리즘 추천과 에디토리얼 플레이리스트에서 뺀다. TIDAL은 청취자가 완전한 AI-generated 녹음을 끌 수 있게 했다."
               },
               {
                 "t": "p",
-                "x": "CEO Alexis Lanternier는 “AI-generated 음악을 걸러내는 기능에 대한 분명한 사용자 수요를 확인했다”고 말했다. Deezer는 2025년 11월 Ipsos 조사를 인용했는데, 음악 스트리밍 사용자의 45%가 “100% AI-generated 음악을 걸러내고 싶다”고 답했다."
-              },
-              {
-                "t": "p",
-                "x": "Deezer는 2025년 1월부터 2026년 8월까지 4200만 곡이 넘는 AI-generated 트랙을 감지했고, 2025년 6월 AI-generated 음악 라벨 표시를 시작한 이후 1400만 장이 넘는 앨범에 태그를 달았다고 밝혔다."
+                "x": "반면 YouTube는 일괄 제한보다 공개에 무게를 둔다. AI가 관여했다는 이유만으로 곡이 수익화 대상에서 빠지지는 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Deezer、検索から\nAI-made音楽を非表示に",
-          "body": "Deezerは完全なAI-generated楽曲を検索から除くトグルを導入する。",
-          "mini_headline": "Deezer、AI音楽を非表示に",
+          "headline": "YouTube Music\nAI-generated 曲",
+          "body": "YouTube MusicはAIが全部または一部を作った曲を、プレーヤー画面で表示する。",
+          "mini_headline": "YouTube Music、AI曲にラベル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-                "cap": "Deezer CEOのAlexis Lanternier"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
               },
               {
                 "t": "p",
-                "x": "Deezerは、検索結果から完全なAI-generated音楽を除外できるon/offトグルを導入すると発表した。トグルをオンにするとAI-generatedのトラック、アルバム、関連アーティストが表示されなくなり、オフにすると元に戻る。"
+                "x": "YouTube Musicは水曜日、生成AIの助けを借りて作られた曲の透明性を高める新たなラベル制度の導入を発表した。作曲やボーカルにAIが関わった曲も対象となる。ラベルはプレーヤー画面に表示され、クリックするとその曲でAIが果たした具体的な役割が説明される。ラベルはYouTubeのメインアプリにも広がる。"
               },
               {
                 "t": "p",
-                "x": "Deezerはすでに、完全なAI-generatedと判定したトラックをアルゴリズムによるレコメンドから外し、編集部プレイリストにも入れていない。同社によると、完全なAI-generatedトラックは毎日約90,000曲届いており、2025年1月に検出ツールを導入した時点の1日10,000曲から増えた。"
+                "x": "YouTubeは音楽パートナーと協力し、独自の検出ツールを導入したと説明した。パートナーはFully Gen AI、Partly Gen AI、No Gen AIの三つの区分のいずれかで生成AIの使用を申告できる。Auto-Tuneのような音程補正ツールで編集した曲はNo Gen AIに当たる。"
               },
               {
                 "t": "p",
-                "x": "ピーク日には、完全なAI-generatedトラックがDeezerに届く新曲全体の50%超を占めるが、ストリーム数に占める割合は1%から3%にとどまる。同社は、2025年に完全なAI-generatedトラックが生んだストリームの最大85%が不正だったとしている。"
+                "x": "他のプラットフォームはそれぞれ独自の手法をとる。Apple Musicは「Made With AI」ラベルを計画し、SpotifyはAIラベルと音楽スパムフィルターを備える。7月に完全なAI-generatedトラックを1日あたり90,000曲近く受け取っていると報告したDeezerは、検出したAI音楽をアルゴリズムによるおすすめや編集部のプレイリストから外している。TIDALはリスナーが完全なAI-generated録音を無効にできるようにした。"
               },
               {
                 "t": "p",
-                "x": "CEOのAlexis Lanternierは「AI-generated音楽を除外できる機能への明確なユーザー需要が見えている」と述べた。Deezerは2025年11月のIpsos調査を引用し、音楽ストリーミング利用者の45%が「100% AI-generatedの音楽を除外したい」と答えたとしている。"
-              },
-              {
-                "t": "p",
-                "x": "Deezerは、2025年1月から2026年8月までに4200万曲を超えるAI-generatedトラックを検出し、2025年6月にAI-generated音楽へのラベル付けを始めて以降、1400万枚を超えるアルバムにタグを付けたとしている。"
+                "x": "対照的にYouTubeは、一律の制限よりも開示に重点を置く。AIが関わったというだけで、曲が収益化の対象外になることはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Deezer新增开关\n搜索可隐藏AI-made音乐",
-          "body": "Deezer将推出开关，可在搜索结果中移除完全AI-generated的曲目、专辑和艺人。",
-          "mini_headline": "Deezer让用户隐藏AI音乐",
+          "headline": "YouTube Music\n标 AI-generated",
+          "body": "YouTube Music将在播放页面标注全部或部分由AI制作的歌曲，包括AI作曲或人声。",
+          "mini_headline": "YouTube Music 为 AI 歌曲加标签",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-                "cap": "Deezer CEO Alexis Lanternier"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
               },
               {
                 "t": "p",
-                "x": "Deezer表示将推出on/off开关，让用户在搜索结果中排除完全AI-generated的音乐。开关打开后，AI-generated的曲目、专辑及相关艺人将不会出现；关闭后即可恢复。"
+                "x": "YouTube Music周三宣布推出新的标签系统，旨在提高借助生成式AI创作的歌曲的透明度，包括AI参与作曲和人声的曲目。标签显示在播放页面上，点击后会说明AI在该曲目中的具体作用；标签也将扩展到YouTube主应用。"
               },
               {
                 "t": "p",
-                "x": "Deezer此前已将其检测为完全AI-generated的曲目移出算法推荐，也不收入编辑歌单。公司称，目前每天收到近90,000首完全AI-generated的曲目，而2025年1月推出检测工具时为每天10,000首。"
+                "x": "YouTube表示，它与音乐合作伙伴合作，并部署了自有的检测工具。合作伙伴可以通过三种标注之一申报生成式AI的使用情况：Fully Gen AI、Partly Gen AI或No Gen AI。使用Auto-Tune等音高校正工具编辑的曲目属于No Gen AI。"
               },
               {
                 "t": "p",
-                "x": "在高峰日，完全AI-generated的曲目占Deezer所收新音乐的50%以上，但只带来1%到3%的播放量。公司称，2025年完全AI-generated曲目产生的播放中，最多85%属于欺诈。"
+                "x": "其他平台各有做法：Apple Music计划推出“Made With AI”标签，Spotify设有AI标签和音乐垃圾内容过滤器；Deezer在7月报告称每天收到近90,000首完全AI-generated的曲目，它会把检测到的AI音乐排除在算法推荐和编辑歌单之外；TIDAL则允许听众屏蔽完全AI-generated的录音。"
               },
               {
                 "t": "p",
-                "x": "CEO Alexis Lanternier表示：“我们看到用户明确希望能够过滤AI-generated音乐。”Deezer援引Ipsos于2025年11月的调查，45%的音乐流媒体用户表示“希望过滤掉100% AI-generated的音乐”。"
-              },
-              {
-                "t": "p",
-                "x": "Deezer称，2025年1月至2026年8月间共检测到超过4200万首AI-generated曲目；自2025年6月开始标注AI-generated音乐以来，已有超过1400万张专辑被打上标签。"
+                "x": "相比之下，YouTube侧重于信息披露，而非一刀切的限制：仅凭AI参与，并不会让曲目失去变现资格。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Deezer añade un botón para\nocultar música AI-made al buscar",
-          "body": "Deezer añade un interruptor que quita de las búsquedas canciones, álbumes y artistas totalmente AI-generated.",
-          "mini_headline": "Deezer permite ocultar la música AI",
+          "headline": "YouTube Music etiqueta\nla música AI-generated",
+          "body": "YouTube Music marcará en la página del reproductor las canciones hechas total o parcialmente con AI.",
+          "mini_headline": "YouTube Music etiqueta pistas de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
-                "cap": "Alexis Lanternier, CEO de Deezer"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
               },
               {
                 "t": "p",
-                "x": "Deezer anuncia un interruptor on/off que permitirá a los usuarios excluir de sus resultados de búsqueda la música totalmente AI-generated. Con el interruptor activado, no aparecerán las pistas, álbumes y artistas relacionados AI-generated; al desactivarlo se recupera el acceso."
+                "x": "YouTube Music anunció el miércoles el despliegue de un nuevo sistema de etiquetas para mejorar la transparencia sobre las canciones creadas con ayuda de AI generativa, incluidas las pistas en las que la AI intervino en la composición y las voces. La etiqueta aparece en la página del reproductor y, al pulsarla, explica el papel concreto de la AI en la pista; las etiquetas también llegarán a la aplicación principal de YouTube."
               },
               {
                 "t": "p",
-                "x": "Deezer ya retira de las recomendaciones algorítmicas las pistas que detecta como totalmente AI-generated y las mantiene fuera de las listas editoriales. Afirma que recibe cada día casi 90,000 pistas totalmente AI-generated, frente a 10,000 diarias cuando lanzó su herramienta de detección en enero de 2025."
+                "x": "YouTube afirmó que colaboró con sus socios musicales y desplegó sus propias herramientas de detección. Los socios pueden declarar el uso de AI generativa mediante una de tres categorías: Fully Gen AI, Partly Gen AI o No Gen AI. Las pistas editadas con herramientas de corrección de tono como Auto-Tune entran en No Gen AI."
               },
               {
                 "t": "p",
-                "x": "En los días de mayor volumen, las pistas totalmente AI-generated suponen más del 50% de toda la música nueva que llega a Deezer, aunque solo generan entre el 1% y el 3% de las reproducciones. La compañía afirma que hasta el 85% de las reproducciones generadas por pistas totalmente AI-generated en 2025 fueron fraudulentas."
+                "x": "Otras plataformas siguen sus propios enfoques: Apple Music prevé etiquetas “Made With AI”, Spotify tiene etiquetas de AI y un filtro de spam musical, Deezer —que en julio informó de que recibía cerca de 90,000 pistas totalmente AI-generated al día— excluye la música de AI detectada de las recomendaciones algorítmicas y de las listas editoriales, y TIDAL permite a los oyentes desactivar las grabaciones totalmente AI-generated."
               },
               {
                 "t": "p",
-                "x": "“Hemos visto una clara demanda de los usuarios de poder filtrar la música AI-generated”, dijo el CEO Alexis Lanternier. Deezer citó una encuesta de Ipsos de noviembre de 2025 en la que el 45% de los usuarios de streaming musical dijo que “le gustaría filtrar la música 100% AI-generated”."
-              },
-              {
-                "t": "p",
-                "x": "Deezer afirma que detectó más de 42 millones de pistas AI-generated entre enero de 2025 y agosto de 2026, y que ha etiquetado más de 14 millones de álbumes desde que empezó a señalar la música AI-generated en junio de 2025."
+                "x": "YouTube, en cambio, se centra en la divulgación más que en restricciones generales: la sola participación de la AI no hace que una pista quede excluida de la monetización."
               }
             ]
           }
@@ -365,213 +315,493 @@
       }
     },
     {
-      "id": "music-hypebot-ai-likeness-guide",
+      "id": "music-waveprompt",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "아티스트 디지털 목소리\n누가 통제하나",
-      "body": "Hypebot 칼럼이 AI 목소리·초상 사례와 세 메이저 레이블의 차이를 짚는다.",
-      "mini_headline": "내 AI 목소리는 누구 것인가",
+      "headline": "discoDSP 무료 앱\nWavePrompt 출시",
+      "body": "discoDSP가 macOS·Windows용 무료 WavePrompt를 출시했다.",
+      "mini_headline": "WavePrompt, 무료 AI 음악 앱",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/lalus-corner-who-controls-the-digital-version-of-you/",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/10/14/discodsp-waveprompt/",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+          },
+          {
+            "t": "p",
+            "x": "개발사 discoDSP가 macOS와 Windows용 무료 AI 음악 생성 앱 WavePrompt를 내놓았다. 텍스트 프롬프트만 넣으면 루프나 보컬 프레이즈, 완성곡이 나온다."
+          },
+          {
+            "t": "video",
+            "yt": "JK03COqgigE"
+          },
+          {
+            "t": "p",
+            "x": "“funky rhythm guitar groove” 같은 프롬프트를 넣고 Genre(34), Mood(14), Instruments(11 세트)를 고른 뒤 템포, 키, 박자, 길이, Style Strength까지 정한다. 음악은 모두 Multimodal Art Projection의 YuE2가 만든다. 결과물마다 악보 MIDI 파일이 딸려 나오고 피아노 롤에서 멜로디와 코드를 직접 그릴 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "루프는 한 마디부터 16마디까지, 완성곡은 열다섯 초부터 네 분까지 만든다. 직접 쓴 가사와 여러 언어의 보컬, 열한 가지 음색도 지원한다. 생성은 GPU에서 로컬로 돌아가고, 모델을 처음 내려받고 나면 오프라인에서도 작동한다. 사양은 RAM 최소 16 GB(권장 32 GB), macOS Tahoe 26 이상의 Apple Silicon 또는 Windows 10/11, 디스크 공간 약 10 GB다."
+          },
+          {
+            "t": "p",
+            "x": "리뷰어는 macOS Tahoe 26.2에서 앱이 실행하자마자 멈췄다고 전했다. 텍스트 투 뮤직 생성이 음악을 만드는 과정 자체를 없앤다는 지적도 했다. 다만 보컬 데모 제작, 즉흥 연주용 반주 트랙 생성, 잘라 쓸 샘플 제작 같은 쓰임새는 인정한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "discoDSP's WavePrompt brings\nfree text-to-music to desktop",
+          "body": "discoDSP released WavePrompt, a free standalone text-to-music app for producers on macOS and Windows.",
+          "mini_headline": "WavePrompt: free AI music app",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "From developer discoDSP comes WavePrompt, a free AI music generation app for macOS and Windows that turns text prompts into loops, vocal phrases, and full songs."
+              },
+              {
+                "t": "video",
+                "yt": "JK03COqgigE"
+              },
+              {
+                "t": "p",
+                "x": "Alongside prompts like “funky rhythm guitar groove,” you can set Genre (34), Mood (14) and Instruments (11 sets), plus tempo, key, time signature, length and Style Strength. All generated music comes from YuE2 by Multimodal Art Projection, every result comes with a MIDI file of its score, and a piano roll lets you draw melodies and chords."
+              },
+              {
+                "t": "p",
+                "x": "Loops range from one to 16 bars; full songs run from fifteen seconds to four minutes, with custom lyrics and vocals in various languages and eleven voice types. Generation runs locally on the GPU and works offline after the initial model download: 16 GB RAM minimum (32 GB recommended), Apple Silicon with macOS Tahoe 26 or later, or Windows 10/11, plus around 10 GB of disk space."
+              },
+              {
+                "t": "p",
+                "x": "The reviewer says the app crashed on opening under macOS Tahoe 26.2, and argues text-to-music generation removes the process of making music, while noting uses such as demoing vocals, generating backing tracks to jam over, and creating samples to chop."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "discoDSP lanza WavePrompt,\ntext-to-music gratuito",
+          "body": "discoDSP lanzó WavePrompt, una app gratuita e independiente de text-to-music para productores en macOS y Windows.",
+          "mini_headline": "WavePrompt: app gratuita de música con IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El desarrollador discoDSP presenta WavePrompt, una app gratuita de generación musical con inteligencia artificial (AI) para macOS y Windows que convierte indicaciones de texto en loops, frases vocales y canciones completas."
+              },
+              {
+                "t": "video",
+                "yt": "JK03COqgigE"
+              },
+              {
+                "t": "p",
+                "x": "Junto a indicaciones como “funky rhythm guitar groove”, se pueden ajustar Genre (34), Mood (14) e Instruments (11 conjuntos), además del tempo, la tonalidad, el compás, la duración y Style Strength. Toda la música generada procede de YuE2, de Multimodal Art Projection; cada resultado incluye un archivo MIDI con su partitura, y un piano roll permite dibujar melodías y acordes."
+              },
+              {
+                "t": "p",
+                "x": "Los loops van de uno a 16 compases; las canciones completas duran de quince segundos a cuatro minutos, con letras propias y voces en varios idiomas y once tipos de voz. La generación se ejecuta localmente en la GPU y funciona sin conexión tras la descarga inicial del modelo: 16 GB de RAM como mínimo (32 GB recomendados), Apple Silicon con macOS Tahoe 26 o posterior, o Windows 10/11, además de unos 10 GB de espacio en disco."
+              },
+              {
+                "t": "p",
+                "x": "El autor de la reseña cuenta que la app se cerró al abrirla en macOS Tahoe 26.2 y sostiene que la generación text-to-music elimina el proceso de hacer música, aunque señala usos como maquetar voces, generar pistas de acompañamiento para improvisar y crear samples para trocear."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "discoDSP 무료 앱\nWavePrompt 출시",
+          "body": "discoDSP가 macOS·Windows용 무료 WavePrompt를 출시했다.",
+          "mini_headline": "WavePrompt, 무료 AI 음악 앱",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "개발사 discoDSP가 macOS와 Windows용 무료 AI 음악 생성 앱 WavePrompt를 내놓았다. 텍스트 프롬프트만 넣으면 루프나 보컬 프레이즈, 완성곡이 나온다."
+              },
+              {
+                "t": "video",
+                "yt": "JK03COqgigE"
+              },
+              {
+                "t": "p",
+                "x": "“funky rhythm guitar groove” 같은 프롬프트를 넣고 Genre(34), Mood(14), Instruments(11 세트)를 고른 뒤 템포, 키, 박자, 길이, Style Strength까지 정한다. 음악은 모두 Multimodal Art Projection의 YuE2가 만든다. 결과물마다 악보 MIDI 파일이 딸려 나오고 피아노 롤에서 멜로디와 코드를 직접 그릴 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "루프는 한 마디부터 16마디까지, 완성곡은 열다섯 초부터 네 분까지 만든다. 직접 쓴 가사와 여러 언어의 보컬, 열한 가지 음색도 지원한다. 생성은 GPU에서 로컬로 돌아가고, 모델을 처음 내려받고 나면 오프라인에서도 작동한다. 사양은 RAM 최소 16 GB(권장 32 GB), macOS Tahoe 26 이상의 Apple Silicon 또는 Windows 10/11, 디스크 공간 약 10 GB다."
+              },
+              {
+                "t": "p",
+                "x": "리뷰어는 macOS Tahoe 26.2에서 앱이 실행하자마자 멈췄다고 전했다. 텍스트 투 뮤직 생성이 음악을 만드는 과정 자체를 없앤다는 지적도 했다. 다만 보컬 데모 제작, 즉흥 연주용 반주 트랙 생성, 잘라 쓸 샘플 제작 같은 쓰임새는 인정한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "discoDSPの無料\nWavePrompt 登場",
+          "body": "discoDSPがmacOS・Windows用の無料アプリWavePromptを公開した。",
+          "mini_headline": "WavePrompt：無料AI作曲アプリ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "開発元discoDSPが、macOSとWindows向けの無料AI音楽生成アプリWavePromptを公開した。テキストのプロンプトをループ、ボーカルフレーズ、フルソングに変える。"
+              },
+              {
+                "t": "video",
+                "yt": "JK03COqgigE"
+              },
+              {
+                "t": "p",
+                "x": "「funky rhythm guitar groove」のようなプロンプトに加え、Genre（34）、Mood（14）、Instruments（11セット）を選び、テンポ、キー、拍子、長さ、Style Strengthも設定できる。生成される音楽はすべてMultimodal Art ProjectionのYuE2によるもので、どの結果にも譜面のMIDIファイルが付き、ピアノロールでメロディーやコードを描ける。"
+              },
+              {
+                "t": "p",
+                "x": "ループは一小節から16小節まで、フルソングは十五秒から四分までで、自作の歌詞やさまざまな言語のボーカル、十一種類の声質に対応する。生成はGPU上でローカルに行われ、最初のモデルのダウンロード後はオフラインでも動く。必要環境はRAM最低16 GB（推奨32 GB）、macOS Tahoe 26以降のApple SiliconまたはWindows 10/11、そして約10 GBのディスク容量だ。"
+              },
+              {
+                "t": "p",
+                "x": "レビュアーはmacOS Tahoe 26.2では起動時にアプリがクラッシュしたと報告し、テキストからの音楽生成は音楽を作る過程そのものをなくすと論じる。一方で、ボーカルのデモ作り、ジャム用のバッキングトラック生成、チョップ用のサンプル作りといった用途も挙げている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "discoDSP 推出免费\nWavePrompt 应用",
+          "body": "discoDSP推出面向macOS和Windows的免费文本作曲应用WavePrompt。",
+          "mini_headline": "WavePrompt：免费 AI 音乐应用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "开发商discoDSP推出WavePrompt，这是一款面向macOS和Windows的免费AI音乐生成应用，可将文本提示转化为循环片段、人声乐句和完整歌曲。"
+              },
+              {
+                "t": "video",
+                "yt": "JK03COqgigE"
+              },
+              {
+                "t": "p",
+                "x": "除了“funky rhythm guitar groove”这类提示词，用户还可以设置Genre（34种）、Mood（14种）和Instruments（11套），以及速度、调性、拍号、长度和Style Strength。所有生成的音乐都来自Multimodal Art Projection的YuE2，每个结果都附带乐谱的MIDI文件，还可以在钢琴卷帘中绘制旋律与和弦。"
+              },
+              {
+                "t": "p",
+                "x": "循环片段长度从一小节到16小节不等；完整歌曲时长从十五秒到四分钟，支持自定义歌词、多种语言的人声以及十一种音色。生成在GPU上本地运行，首次下载模型后可离线使用：最低16 GB RAM（推荐32 GB），需要macOS Tahoe 26或更高版本的Apple Silicon，或Windows 10/11，另需约10 GB磁盘空间。"
+              },
+              {
+                "t": "p",
+                "x": "评测者称，该应用在macOS Tahoe 26.2下一打开就崩溃，并认为文本生成音乐抹去了创作音乐的过程，但也提到了一些用途，例如制作人声小样、生成可供即兴演奏的伴奏轨，以及制作可供切片的采样。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "discoDSP lanza WavePrompt,\ntext-to-music gratuito",
+          "body": "discoDSP lanzó WavePrompt, una app gratuita e independiente de text-to-music para productores en macOS y Windows.",
+          "mini_headline": "WavePrompt: app gratuita de música con IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El desarrollador discoDSP presenta WavePrompt, una app gratuita de generación musical con inteligencia artificial (AI) para macOS y Windows que convierte indicaciones de texto en loops, frases vocales y canciones completas."
+              },
+              {
+                "t": "video",
+                "yt": "JK03COqgigE"
+              },
+              {
+                "t": "p",
+                "x": "Junto a indicaciones como “funky rhythm guitar groove”, se pueden ajustar Genre (34), Mood (14) e Instruments (11 conjuntos), además del tempo, la tonalidad, el compás, la duración y Style Strength. Toda la música generada procede de YuE2, de Multimodal Art Projection; cada resultado incluye un archivo MIDI con su partitura, y un piano roll permite dibujar melodías y acordes."
+              },
+              {
+                "t": "p",
+                "x": "Los loops van de uno a 16 compases; las canciones completas duran de quince segundos a cuatro minutos, con letras propias y voces en varios idiomas y once tipos de voz. La generación se ejecuta localmente en la GPU y funciona sin conexión tras la descarga inicial del modelo: 16 GB de RAM como mínimo (32 GB recomendados), Apple Silicon con macOS Tahoe 26 o posterior, o Windows 10/11, además de unos 10 GB de espacio en disco."
+              },
+              {
+                "t": "p",
+                "x": "El autor de la reseña cuenta que la app se cerró al abrirla en macOS Tahoe 26.2 y sostiene que la generación text-to-music elimina el proceso de hacer música, aunque señala usos como maquetar voces, generar pistas de acompañamiento para improvisar y crear samples para trocear."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "discoDSP 무료 앱\nWavePrompt 출시",
+          "body": "discoDSP가 macOS·Windows용 무료 WavePrompt를 출시했다.",
+          "mini_headline": "WavePrompt: 무료 AI 음악 앱",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "개발사 discoDSP가 macOS와 Windows용 무료 AI 음악 생성 앱 WavePrompt를 내놓았다. 텍스트 프롬프트를 루프, 보컬 프레이즈, 완성곡으로 바꿔 준다."
+              },
+              {
+                "t": "video",
+                "yt": "JK03COqgigE"
+              },
+              {
+                "t": "p",
+                "x": "“funky rhythm guitar groove” 같은 프롬프트와 함께 Genre(34), Mood(14), Instruments(11 세트)를 고르고 템포, 키, 박자, 길이, Style Strength도 정할 수 있다. 생성되는 음악은 모두 Multimodal Art Projection의 YuE2에서 나오며, 모든 결과물에 악보 MIDI 파일이 함께 제공되고, 피아노 롤에서 멜로디와 코드를 직접 그릴 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "루프는 한 마디부터 16마디까지, 완성곡은 열다섯 초부터 네 분까지 만들 수 있고, 직접 쓴 가사와 여러 언어의 보컬, 열한 가지 음색을 지원한다. 생성은 GPU에서 로컬로 이뤄지며 처음 모델을 내려받은 뒤에는 오프라인으로도 작동한다. RAM은 최소 16 GB(권장 32 GB)가 필요하고, macOS Tahoe 26 이상의 Apple Silicon 또는 Windows 10/11, 그리고 약 10 GB의 디스크 공간이 필요하다."
+              },
+              {
+                "t": "p",
+                "x": "리뷰어는 macOS Tahoe 26.2에서 앱이 실행 직후 멈췄다고 전하며, 텍스트 투 뮤직 생성은 음악을 만드는 과정 자체를 없앤다고 지적한다. 다만 보컬 데모 제작, 즉흥 연주용 반주 트랙 생성, 잘라 쓸 샘플 제작 같은 쓰임새는 인정한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "discoDSPの無料\nWavePrompt 登場",
+          "body": "discoDSPがmacOS・Windows用の無料アプリWavePromptを公開した。",
+          "mini_headline": "WavePrompt：無料AI作曲アプリ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "開発元discoDSPが、macOSとWindows向けの無料AI音楽生成アプリWavePromptを公開した。テキストのプロンプトをループ、ボーカルフレーズ、フルソングに変える。"
+              },
+              {
+                "t": "video",
+                "yt": "JK03COqgigE"
+              },
+              {
+                "t": "p",
+                "x": "「funky rhythm guitar groove」のようなプロンプトに加え、Genre（34）、Mood（14）、Instruments（11セット）を選び、テンポ、キー、拍子、長さ、Style Strengthも設定できる。生成される音楽はすべてMultimodal Art ProjectionのYuE2によるもので、どの結果にも譜面のMIDIファイルが付き、ピアノロールでメロディーやコードを描ける。"
+              },
+              {
+                "t": "p",
+                "x": "ループは一小節から16小節まで、フルソングは十五秒から四分までで、自作の歌詞やさまざまな言語のボーカル、十一種類の声質に対応する。生成はGPU上でローカルに行われ、最初のモデルのダウンロード後はオフラインでも動く。必要環境はRAM最低16 GB（推奨32 GB）、macOS Tahoe 26以降のApple SiliconまたはWindows 10/11、そして約10 GBのディスク容量だ。"
+              },
+              {
+                "t": "p",
+                "x": "レビュアーはmacOS Tahoe 26.2では起動時にアプリがクラッシュしたと報告し、テキストからの音楽生成は音楽を作る過程そのものをなくすと論じる。一方で、ボーカルのデモ作り、ジャム用のバッキングトラック生成、チョップ用のサンプル作りといった用途も挙げている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "discoDSP 推出免费\nWavePrompt 应用",
+          "body": "discoDSP推出面向macOS和Windows的免费文本作曲应用WavePrompt。",
+          "mini_headline": "WavePrompt：免费 AI 音乐应用",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+              },
+              {
+                "t": "p",
+                "x": "开发商discoDSP推出WavePrompt，这是一款面向macOS和Windows的免费AI音乐生成应用，可将文本提示转化为循环片段、人声乐句和完整歌曲。"
+              },
+              {
+                "t": "video",
+                "yt": "JK03COqgigE"
+              },
+              {
+                "t": "p",
+                "x": "除了“funky rhythm guitar groove”这类提示词，用户还可以设置Genre（34种）、Mood（14种）和Instruments（11套），以及速度、调性、拍号、长度和Style Strength。所有生成的音乐都来自Multimodal Art Projection的YuE2，每个结果都附带乐谱的MIDI文件，还可以在钢琴卷帘中绘制旋律与和弦。"
+              },
+              {
+                "t": "p",
+                "x": "循环片段长度从一小节到16小节不等；完整歌曲时长从十五秒到四分钟，支持自定义歌词、多种语言的人声以及十一种音色。生成在GPU上本地运行，首次下载模型后可离线使用：最低16 GB RAM（推荐32 GB），需要macOS Tahoe 26或更高版本的Apple Silicon，或Windows 10/11，另需约10 GB磁盘空间。"
+              },
+              {
+                "t": "p",
+                "x": "评测者称，该应用在macOS Tahoe 26.2下一打开就崩溃，并认为文本生成音乐抹去了创作音乐的过程，但也提到了一些用途，例如制作人声小样、生成可供即兴演奏的伴奏轨，以及制作可供切片的采样。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-swift-voice-trademark",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Taylor Swift,\n목소리 상표 해외 출원",
+      "body": "Taylor Swift 측이 UK·EU·호주에도 목소리 상표를 출원했다.",
+      "mini_headline": "Swift, 목소리 상표 해외로",
+      "tool": "Music",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/taylor-swift-expands-voice-trademark-filings-to-the-uk-eu-and-australia-amid-ai-deepfake-crackdown/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+            "t": "p",
+            "x": "Taylor Swift의 회사 TAS Rights Management가 UK, 유럽연합(European Union), 호주에서 목소리를 상표로 등록하려는 출원을 했다. 4월 US 특허상표청(US Patent and Trademark Office)에 낸 세 건에 이은 것으로, 당시 출원에는 Swift가 “Hey, it’s Taylor”와 “Hey, it’s Taylor Swift”라고 말하는 녹음과 무대에서 분홍색 기타를 든 사진이 담겼다."
           },
           {
             "t": "p",
-            "x": "음악·브랜드 파트너십 에이전트 Lauren Thackray는 월간 칼럼 Lalu's Corner를 Addison Rae의 Fortnite 스킨 이야기로 시작한다. 이 스킨은 Addison Rae가 Epic Games에 직접 보낸 셀카 열 장으로 만들어졌고 본인도 모든 것에 동의했다. 질문은 여기서 나온다. 누가 한 사람의 디지털 버전을 만들 수 있는지, 그것으로 무엇을 할 수 있는지, 당사자는 통제권을 얼마나 지키는지다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+            "x": "“Hey, it’s Taylor Swift”를 소리 상표로 낸 호주 출원은 엿새 만인 10월 12일 IP Australia가 수리했고, 지금은 이의신청 기간으로 표시돼 있다. UK와 EU에는 10월 6일 소리 상표를, 10월 7일에는 같은 무대 사진으로 보이는 이미지 상표를 냈다."
           },
           {
             "t": "p",
-            "x": "많은 아티스트에게 첫 번째 질문의 답은 이미 본인 없이 정해지는 중이다. Jason Isbell 등 뮤지션들은 아티스트 정체성 사용을 문제 삼아 Suno를 고소했다. deadmau5는 자신이 다른 DJ를 지지하는 AI-generated 딥페이크를 발견했고 “I Run”은 Jorja Smith와 똑같이 들리는 보컬로 화제가 됐다."
-          },
-          {
-            "t": "p",
-            "x": "메이저 레이블의 대응은 제각각이다. Universal은 Suno를 고소하는 한편 Udio와는 합의하고 라이선스 계약을 맺었다. Sony는 라이선스 계약 없이 삭제 요청에 기댄다. Warner는 아티스트 opt-in 조항을 담은 계약을 추진해 왔다."
-          },
-          {
-            "t": "p",
-            "x": "Thackray는 SAG-AFTRA가 2024년 Replica Studios와 맺은 계약을 가장 분명한 공개 모델로 꼽는다. 아티스트의 디지털 버전은 아티스트가 과반을 지배하는 주체가 통제하고 라이선스는 용도별로 내줘야 한다는 게 그의 주장이다."
+            "x": "IP 변호사 Josh Gerben은 4월, 유명인의 말하는 목소리를 등록하는 일은 “법정에서 검증된 적이 없다”고 썼다. 다만 AI가 Swift의 목소리를 쓴 일로 소송이 제기되면 Swift는 등록 상표처럼 들리는 모든 사용이 자신의 권리를 침해한다고 주장할 수 있다고 했다. Backstreet Boys도 6월 비슷한 출원을 했다. Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI 생성(AI-generated) 트랙 260,000곡 이상을 삭제해 달라고 플랫폼에 요청했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Who controls the digital\nversion of an artist's voice",
-          "body": "A Hypebot column walks independent artists through AI voice and likeness cases and how the three major labels differ.",
-          "mini_headline": "Who owns your AI voice",
+          "headline": "Taylor Swift takes voice\ntrademark filings abroad",
+          "body": "Taylor Swift's company has filed to trademark her voice in the UK, EU and Australia, after three US filings in April.",
+          "mini_headline": "Swift widens voice trademarks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+                "t": "p",
+                "x": "Taylor Swift’s company, TAS Rights Management, has filed applications to trademark her voice in the UK, the European Union and Australia. The new filings follow three applications submitted to the US Patent and Trademark Office in April, covering recordings of Swift saying “Hey, it’s Taylor” and “Hey, it’s Taylor Swift,” along with a photograph of her holding a pink guitar on stage."
               },
               {
                 "t": "p",
-                "x": "In her monthly Lalu's Corner column, music and brand partnership agent Lauren Thackray starts with Addison Rae's Fortnite skin, built from ten selfies she sent Epic Games herself. She said yes to all of it. The questions that follow: who gets to create a digital version of someone, what can they do with it, and how much control does the person keep?"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+                "x": "The Australian application, a sound mark for “Hey, it’s Taylor Swift,” was accepted by IP Australia on October 12, six days after it was filed, and is listed as in its opposition period. In the UK and the EU, the company filed sound mark applications on October 6, followed on October 7 by image applications for what appears to be the same stage photograph."
               },
               {
                 "t": "p",
-                "x": "For many artists, the first question is already being answered without them: Jason Isbell and other musicians sued Suno over the use of artists’ identities; deadmau5 found an AI-generated deepfake of himself endorsing another DJ; and “I Run” went viral with vocals that sounded just like Jorja Smith."
-              },
-              {
-                "t": "p",
-                "x": "The major labels differ. Universal sued Suno while reaching a settlement and licensing deal with Udio; Sony has no licensing deal and leans on takedowns; Warner has pursued agreements with artist opt-in provisions."
-              },
-              {
-                "t": "p",
-                "x": "Thackray points to SAG-AFTRA's 2024 deal with Replica Studios as the clearest public model and argues that control of an artist's digital version should sit with an entity the artist majority-controls, licensed out use by use."
+                "x": "IP attorney Josh Gerben wrote in April that registering a celebrity’s spoken voice “has not been tested in court before,” but that if a lawsuit were filed over an AI using Swift’s voice, she could claim any use that sounds like the registered trademark violates her rights. The Backstreet Boys filed a similar application in June, and Sony Music had asked platforms to remove more than 260,000 AI-generated tracks impersonating its artists by the end of September."
               }
             ]
           }
         },
         "ko": {
-          "headline": "아티스트 디지털 목소리\n누가 통제하나",
-          "body": "Hypebot 칼럼이 AI 목소리·초상 사례와 세 메이저 레이블의 차이를 짚는다.",
-          "mini_headline": "내 AI 목소리는 누구 것인가",
+          "headline": "Taylor Swift,\n목소리 상표 해외 출원",
+          "body": "Taylor Swift 측이 UK·EU·호주에도 목소리 상표를 출원했다.",
+          "mini_headline": "Swift, 목소리 상표 해외로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+                "t": "p",
+                "x": "Taylor Swift의 회사 TAS Rights Management가 UK, 유럽연합(European Union), 호주에서 목소리를 상표로 등록하려는 출원을 했다. 4월 US 특허상표청(US Patent and Trademark Office)에 낸 세 건에 이은 것으로, 당시 출원에는 Swift가 “Hey, it’s Taylor”와 “Hey, it’s Taylor Swift”라고 말하는 녹음과 무대에서 분홍색 기타를 든 사진이 담겼다."
               },
               {
                 "t": "p",
-                "x": "음악·브랜드 파트너십 에이전트 Lauren Thackray는 월간 칼럼 Lalu's Corner를 Addison Rae의 Fortnite 스킨 이야기로 시작한다. 이 스킨은 Addison Rae가 Epic Games에 직접 보낸 셀카 열 장으로 만들어졌고 본인도 모든 것에 동의했다. 질문은 여기서 나온다. 누가 한 사람의 디지털 버전을 만들 수 있는지, 그것으로 무엇을 할 수 있는지, 당사자는 통제권을 얼마나 지키는지다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+                "x": "“Hey, it’s Taylor Swift”를 소리 상표로 낸 호주 출원은 엿새 만인 10월 12일 IP Australia가 수리했고, 지금은 이의신청 기간으로 표시돼 있다. UK와 EU에는 10월 6일 소리 상표를, 10월 7일에는 같은 무대 사진으로 보이는 이미지 상표를 냈다."
               },
               {
                 "t": "p",
-                "x": "많은 아티스트에게 첫 번째 질문의 답은 이미 본인 없이 정해지는 중이다. Jason Isbell 등 뮤지션들은 아티스트 정체성 사용을 문제 삼아 Suno를 고소했다. deadmau5는 자신이 다른 DJ를 지지하는 AI-generated 딥페이크를 발견했고 “I Run”은 Jorja Smith와 똑같이 들리는 보컬로 화제가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "메이저 레이블의 대응은 제각각이다. Universal은 Suno를 고소하는 한편 Udio와는 합의하고 라이선스 계약을 맺었다. Sony는 라이선스 계약 없이 삭제 요청에 기댄다. Warner는 아티스트 opt-in 조항을 담은 계약을 추진해 왔다."
-              },
-              {
-                "t": "p",
-                "x": "Thackray는 SAG-AFTRA가 2024년 Replica Studios와 맺은 계약을 가장 분명한 공개 모델로 꼽는다. 아티스트의 디지털 버전은 아티스트가 과반을 지배하는 주체가 통제하고 라이선스는 용도별로 내줘야 한다는 게 그의 주장이다."
+                "x": "IP 변호사 Josh Gerben은 4월, 유명인의 말하는 목소리를 등록하는 일은 “법정에서 검증된 적이 없다”고 썼다. 다만 AI가 Swift의 목소리를 쓴 일로 소송이 제기되면 Swift는 등록 상표처럼 들리는 모든 사용이 자신의 권리를 침해한다고 주장할 수 있다고 했다. Backstreet Boys도 6월 비슷한 출원을 했다. Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI 생성(AI-generated) 트랙 260,000곡 이상을 삭제해 달라고 플랫폼에 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "アーティストの声の\nデジタル版は誰が握るか",
-          "body": "Hypebotのコラムが、AIによる声と肖像の事例と三大レーベルの違いを解説する。",
-          "mini_headline": "AIの声は誰のものか",
+          "headline": "Taylor Swift\n声の商標を海外出願",
+          "body": "Taylor Swiftの会社がUK、EU、豪州で声の商標を出願した。",
+          "mini_headline": "Swift、声の商標を海外へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+                "t": "p",
+                "x": "Taylor Swiftの会社TAS Rights Managementは、UK、European Union（EU）、オーストラリアで彼女の声を商標登録する出願を行った。今回の出願は、4月にUS Patent and Trademark Office（米特許商標庁）へ提出した三件に続くもので、そこにはSwiftが「Hey, it’s Taylor」「Hey, it’s Taylor Swift」と話す録音と、ステージでピンクのギターを持つ写真が含まれていた。"
               },
               {
                 "t": "p",
-                "x": "音楽・ブランドパートナーシップのエージェントであるLauren Thackrayは、月刊コラムLalu's CornerをAddison RaeのFortniteスキンの話から始める。このスキンは本人がEpic Gamesに自ら送った十枚の自撮りから作られ、彼女はそのすべてに同意した。そこから生じる問いは、誰が人のデジタル版を作れるのか、それで何ができるのか、本人はどこまでコントロールを保てるのか、である。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+                "x": "「Hey, it’s Taylor Swift」の音商標であるオーストラリアの出願は、出願から六日後の10月12日にIP Australiaが受理し、現在は異議申立期間中とされている。UKとEUでは10月6日に音商標を出願し、10月7日には同じステージ写真とみられる画像の出願を続けた。"
               },
               {
                 "t": "p",
-                "x": "多くのアーティストにとって、最初の問いの答えはすでに本人抜きで出されつつある。Jason Isbellらミュージシャンはアーティストのアイデンティティの使用をめぐりSunoを提訴し、deadmau5は自分が別のDJを推薦するAI-generatedのディープフェイクを見つけ、「I Run」はJorja Smithそっくりのボーカルで話題になった。"
-              },
-              {
-                "t": "p",
-                "x": "メジャーレーベルの対応は分かれる。UniversalはSunoを提訴する一方、Udioとは和解しライセンス契約を結んだ。Sonyはライセンス契約を持たず削除要請に頼り、Warnerはアーティストのopt-in条項を含む契約を進めてきた。"
-              },
-              {
-                "t": "p",
-                "x": "Thackrayは、SAG-AFTRAが2024年にReplica Studiosと結んだ契約を最も明確な公開モデルとして挙げる。そのうえで、アーティストのデジタル版の管理権はアーティストが過半数を握る主体に置き、用途ごとにライセンスすべきだと主張する。"
+                "x": "IP弁護士のJosh Gerbenは4月、著名人の話し声の登録は「これまで法廷で試されたことがない」と書いたが、AIがSwiftの声を使ったことをめぐって訴訟が起きれば、登録商標のように聞こえるあらゆる使用が権利侵害だと彼女は主張できるとした。Backstreet Boysは6月に同様の出願をしており、Sony Musicは9月末までに、所属アーティストになりすましたAI生成（AI-generated）楽曲260,000曲以上の削除をプラットフォームに求めていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "艺人声音的数字版本\n究竟由谁掌控",
-          "body": "Hypebot专栏为独立艺人梳理AI声音与肖像案例，以及三大唱片公司的不同做法。",
-          "mini_headline": "你的AI声音归谁",
+          "headline": "Taylor Swift\n声音商标申请扩至海外",
+          "body": "Taylor Swift的公司已在UK、EU和澳大利亚为其声音申请商标。",
+          "mini_headline": "Swift声音商标扩至海外",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+                "t": "p",
+                "x": "Taylor Swift的公司TAS Rights Management已在UK、European Union（EU）和澳大利亚提交申请，为她的声音注册商标。此前，该公司于4月向US Patent and Trademark Office提交了三项申请，内容包括Swift说出“Hey, it’s Taylor”和“Hey, it’s Taylor Swift”的录音，以及她在舞台上手持粉色吉他的照片。"
               },
               {
                 "t": "p",
-                "x": "音乐与品牌合作经纪人Lauren Thackray在其月度专栏Lalu's Corner中，从Addison Rae的Fortnite皮肤谈起。这款皮肤由她亲自发给Epic Games的十张自拍制成，她对此全部同意。随之而来的问题是：谁可以创建某人的数字版本，能用它做什么，本人又能保留多少控制权？"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+                "x": "澳大利亚的申请是针对“Hey, it’s Taylor Swift”的声音商标，在提交六天后于10月12日获IP Australia受理，目前处于异议期。在UK和EU，该公司于10月6日提交了声音商标申请，随后于10月7日提交了似乎为同一张舞台照片的图像商标申请。"
               },
               {
                 "t": "p",
-                "x": "对许多艺人来说，首个问题的答案已在他们缺席的情况下给出：Jason Isbell等音乐人就艺人身份被使用起诉Suno；deadmau5发现了一段AI-generated深度伪造内容，显示他本人在为其他DJ背书；而“I Run”凭借酷似Jorja Smith的歌声走红。"
-              },
-              {
-                "t": "p",
-                "x": "各大唱片公司做法不同。Universal一边起诉Suno，一边与Udio达成和解及授权协议；Sony没有授权协议，主要依靠下架；Warner则推动包含艺人opt-in条款的协议。"
-              },
-              {
-                "t": "p",
-                "x": "Thackray认为，SAG-AFTRA于2024年与Replica Studios达成的协议是最清晰的公开范例，并主张艺人数字版本的控制权应归属于由艺人控股过半的实体，按用途逐项授权。"
+                "x": "IP律师Josh Gerben在4月写道，为名人的说话声音注册商标“此前从未在法庭上经过检验”，但如果有人就AI使用Swift的声音提起诉讼，她可以主张任何听起来像注册商标的使用都侵犯了她的权利。Backstreet Boys在6月提交了类似申请，而Sony Music截至9月底已要求各平台删除超过260,000首冒充其旗下艺人的AI生成（AI-generated）曲目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Quién controla la versión\ndigital de la voz del artista?",
-          "body": "Una columna de Hypebot repasa casos de voz e imagen con AI y en qué difieren las tres grandes discográficas.",
-          "mini_headline": "¿De quién es tu voz AI?",
+          "headline": "Taylor Swift pide la marca de\nsu voz en UK, EU y Australia",
+          "body": "La empresa de Taylor Swift pidió la marca de su voz en UK, EU y Australia, tras tres solicitudes en US en abril.",
+          "mini_headline": "Swift amplía sus marcas de voz",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+                "t": "p",
+                "x": "La empresa de Taylor Swift, TAS Rights Management, ha presentado solicitudes para registrar su voz como marca en el Reino Unido (UK), la European Union (EU) y Australia. Las nuevas solicitudes siguen a las tres presentadas en abril ante la US Patent and Trademark Office, que cubren grabaciones de Swift diciendo “Hey, it’s Taylor” y “Hey, it’s Taylor Swift”, junto con una fotografía en la que sostiene una guitarra rosa sobre el escenario."
               },
               {
                 "t": "p",
-                "x": "En su columna mensual Lalu's Corner, la agente de música y alianzas de marca Lauren Thackray parte del skin de Fortnite de Addison Rae, creado a partir de diez selfis que ella misma envió a Epic Games. Ella aceptó todo. Las preguntas que siguen: quién puede crear una versión digital de alguien, qué puede hacer con ella y cuánto control conserva esa persona."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+                "x": "La solicitud australiana, una marca sonora para “Hey, it’s Taylor Swift”, fue aceptada por IP Australia el 12 de octubre, seis días después de presentarse, y figura en periodo de oposición. En el Reino Unido (UK) y la EU, la empresa presentó solicitudes de marca sonora el 6 de octubre, seguidas el 7 de octubre de solicitudes de imagen de lo que parece ser la misma fotografía del escenario."
               },
               {
                 "t": "p",
-                "x": "Para muchos artistas, la primera pregunta ya se está respondiendo sin ellos: Jason Isbell y otros músicos demandaron a Suno por el uso de la identidad de los artistas; deadmau5 encontró un deepfake AI-generated de sí mismo respaldando a otro DJ; y “I Run” se hizo viral con una voz idéntica a la de Jorja Smith."
-              },
-              {
-                "t": "p",
-                "x": "Las grandes discográficas difieren. Universal demandó a Suno mientras alcanzaba un acuerdo y un contrato de licencia con Udio; Sony no tiene acuerdo de licencia y recurre a las retiradas; Warner ha buscado acuerdos con cláusulas de opt-in para los artistas."
-              },
-              {
-                "t": "p",
-                "x": "Thackray señala el acuerdo de SAG-AFTRA de 2024 con Replica Studios como el modelo público más claro y sostiene que el control de la versión digital de un artista debería recaer en una entidad controlada mayoritariamente por el artista, con licencias uso por uso."
+                "x": "El abogado de IP Josh Gerben escribió en abril que registrar la voz hablada de una celebridad “no se ha puesto a prueba antes en los tribunales”, pero que, si se presentara una demanda porque una inteligencia artificial (AI) usara la voz de Swift, ella podría alegar que cualquier uso que suene como la marca registrada vulnera sus derechos. Los Backstreet Boys presentaron una solicitud similar en junio, y Sony Music había pedido a las plataformas que retiraran más de 260,000 pistas generadas por IA (AI-generated) que suplantaban a sus artistas para finales de septiembre."
               }
             ]
           }
@@ -579,137 +809,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "아티스트 디지털 목소리\n누가 통제하나",
-          "body": "Hypebot 칼럼이 AI 목소리·초상 사례와 세 메이저 레이블의 차이를 짚는다.",
-          "mini_headline": "내 AI 목소리는 누구 것인가",
+          "headline": "Taylor Swift,\n목소리 상표 해외 출원",
+          "body": "Taylor Swift 측이 UK·EU·호주에도 목소리 상표를 출원했다.",
+          "mini_headline": "Swift, 목소리 상표 해외로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+                "t": "p",
+                "x": "Taylor Swift의 회사 TAS Rights Management가 UK, 유럽연합(European Union), 호주에서 그의 목소리를 상표로 등록하기 위한 출원을 했다. 이번 출원은 4월 US 특허상표청(US Patent and Trademark Office)에 낸 세 건에 이은 것으로, 당시 출원에는 Swift가 “Hey, it’s Taylor”와 “Hey, it’s Taylor Swift”라고 말하는 녹음과 무대에서 분홍색 기타를 든 사진이 담겼다."
               },
               {
                 "t": "p",
-                "x": "음악·브랜드 파트너십 에이전트 Lauren Thackray는 월간 칼럼 Lalu's Corner를 Addison Rae의 Fortnite 스킨 이야기로 시작한다. 이 스킨은 Addison Rae가 직접 Epic Games에 보낸 셀카 열 장으로 만들어졌고, 그는 모든 것에 동의했다. 이어지는 질문은 누가 한 사람의 디지털 버전을 만들 수 있는지, 그것으로 무엇을 할 수 있는지, 당사자는 통제권을 얼마나 지키는지다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+                "x": "“Hey, it’s Taylor Swift”에 대한 소리 상표인 호주 출원은 출원 엿새 뒤인 10월 12일 IP Australia가 수리했으며, 현재 이의신청 기간으로 표시돼 있다. UK와 EU에서는 10월 6일 소리 상표를 출원했고, 10월 7일에는 같은 무대 사진으로 보이는 이미지 상표를 출원했다."
               },
               {
                 "t": "p",
-                "x": "많은 아티스트에게 첫 번째 질문의 답은 이미 그들 없이 정해지고 있다. Jason Isbell 등 뮤지션들은 아티스트 정체성 사용을 문제 삼아 Suno를 고소했고, deadmau5는 자신이 다른 DJ를 지지하는 AI-generated 딥페이크를 발견했으며, “I Run”은 Jorja Smith와 똑같이 들리는 보컬로 화제가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "메이저 레이블의 대응은 서로 다르다. Universal은 Suno를 고소하는 한편 Udio와는 합의 및 라이선스 계약을 맺었다. Sony는 라이선스 계약 없이 삭제 요청에 기대고 있고, Warner는 아티스트 opt-in 조항을 담은 계약을 추진해 왔다."
-              },
-              {
-                "t": "p",
-                "x": "Thackray는 SAG-AFTRA가 2024년 Replica Studios와 맺은 계약을 가장 분명한 공개 모델로 꼽는다. 그리고 아티스트의 디지털 버전에 대한 통제권은 아티스트가 과반을 지배하는 주체가 갖고, 용도별로 라이선스를 내줘야 한다고 주장한다."
+                "x": "IP 변호사 Josh Gerben은 4월, 유명인의 말하는 목소리를 등록하는 일은 “법정에서 검증된 적이 없다”고 썼다. 다만 AI가 Swift의 목소리를 사용한 일로 소송이 제기되면, Swift는 등록 상표처럼 들리는 모든 사용이 자신의 권리를 침해한다고 주장할 수 있다고 했다. Backstreet Boys도 6월 비슷한 출원을 했고, Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI 생성(AI-generated) 트랙 260,000곡 이상을 삭제해 달라고 플랫폼에 요청한 바 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "アーティストの声の\nデジタル版は誰が握るか",
-          "body": "Hypebotのコラムが、AIによる声と肖像の事例と三大レーベルの違いを解説する。",
-          "mini_headline": "AIの声は誰のものか",
+          "headline": "Taylor Swift\n声の商標を海外出願",
+          "body": "Taylor Swiftの会社がUK、EU、豪州で声の商標を出願した。",
+          "mini_headline": "Swift、声の商標を海外へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+                "t": "p",
+                "x": "Taylor Swiftの会社TAS Rights Managementは、UK、European Union（EU）、オーストラリアで彼女の声を商標登録する出願を行った。今回の出願は、4月にUS Patent and Trademark Office（米特許商標庁）へ提出した三件に続くもので、そこにはSwiftが「Hey, it’s Taylor」「Hey, it’s Taylor Swift」と話す録音と、ステージでピンクのギターを持つ写真が含まれていた。"
               },
               {
                 "t": "p",
-                "x": "音楽・ブランドパートナーシップのエージェントであるLauren Thackrayは、月刊コラムLalu's CornerをAddison RaeのFortniteスキンの話から始める。このスキンは本人がEpic Gamesに自ら送った十枚の自撮りから作られ、彼女はそのすべてに同意した。そこから生じる問いは、誰が人のデジタル版を作れるのか、それで何ができるのか、本人はどこまでコントロールを保てるのか、である。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+                "x": "「Hey, it’s Taylor Swift」の音商標であるオーストラリアの出願は、出願から六日後の10月12日にIP Australiaが受理し、現在は異議申立期間中とされている。UKとEUでは10月6日に音商標を出願し、10月7日には同じステージ写真とみられる画像の出願を続けた。"
               },
               {
                 "t": "p",
-                "x": "多くのアーティストにとって、最初の問いの答えはすでに本人抜きで出されつつある。Jason Isbellらミュージシャンはアーティストのアイデンティティの使用をめぐりSunoを提訴し、deadmau5は自分が別のDJを推薦するAI-generatedのディープフェイクを見つけ、「I Run」はJorja Smithそっくりのボーカルで話題になった。"
-              },
-              {
-                "t": "p",
-                "x": "メジャーレーベルの対応は分かれる。UniversalはSunoを提訴する一方、Udioとは和解しライセンス契約を結んだ。Sonyはライセンス契約を持たず削除要請に頼り、Warnerはアーティストのopt-in条項を含む契約を進めてきた。"
-              },
-              {
-                "t": "p",
-                "x": "Thackrayは、SAG-AFTRAが2024年にReplica Studiosと結んだ契約を最も明確な公開モデルとして挙げる。そのうえで、アーティストのデジタル版の管理権はアーティストが過半数を握る主体に置き、用途ごとにライセンスすべきだと主張する。"
+                "x": "IP弁護士のJosh Gerbenは4月、著名人の話し声の登録は「これまで法廷で試されたことがない」と書いたが、AIがSwiftの声を使ったことをめぐって訴訟が起きれば、登録商標のように聞こえるあらゆる使用が権利侵害だと彼女は主張できるとした。Backstreet Boysは6月に同様の出願をしており、Sony Musicは9月末までに、所属アーティストになりすましたAI生成（AI-generated）楽曲260,000曲以上の削除をプラットフォームに求めていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "艺人声音的数字版本\n究竟由谁掌控",
-          "body": "Hypebot专栏为独立艺人梳理AI声音与肖像案例，以及三大唱片公司的不同做法。",
-          "mini_headline": "你的AI声音归谁",
+          "headline": "Taylor Swift\n声音商标申请扩至海外",
+          "body": "Taylor Swift的公司已在UK、EU和澳大利亚为其声音申请商标。",
+          "mini_headline": "Swift声音商标扩至海外",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+                "t": "p",
+                "x": "Taylor Swift的公司TAS Rights Management已在UK、European Union（EU）和澳大利亚提交申请，为她的声音注册商标。此前，该公司于4月向US Patent and Trademark Office提交了三项申请，内容包括Swift说出“Hey, it’s Taylor”和“Hey, it’s Taylor Swift”的录音，以及她在舞台上手持粉色吉他的照片。"
               },
               {
                 "t": "p",
-                "x": "音乐与品牌合作经纪人Lauren Thackray在其月度专栏Lalu's Corner中，从Addison Rae的Fortnite皮肤谈起。这款皮肤由她亲自发给Epic Games的十张自拍制成，她对此全部同意。随之而来的问题是：谁可以创建某人的数字版本，能用它做什么，本人又能保留多少控制权？"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+                "x": "澳大利亚的申请是针对“Hey, it’s Taylor Swift”的声音商标，在提交六天后于10月12日获IP Australia受理，目前处于异议期。在UK和EU，该公司于10月6日提交了声音商标申请，随后于10月7日提交了似乎为同一张舞台照片的图像商标申请。"
               },
               {
                 "t": "p",
-                "x": "对许多艺人来说，首个问题的答案已在他们缺席的情况下给出：Jason Isbell等音乐人就艺人身份被使用起诉Suno；deadmau5发现了一段AI-generated深度伪造内容，显示他本人在为其他DJ背书；而“I Run”凭借酷似Jorja Smith的歌声走红。"
-              },
-              {
-                "t": "p",
-                "x": "各大唱片公司做法不同。Universal一边起诉Suno，一边与Udio达成和解及授权协议；Sony没有授权协议，主要依靠下架；Warner则推动包含艺人opt-in条款的协议。"
-              },
-              {
-                "t": "p",
-                "x": "Thackray认为，SAG-AFTRA于2024年与Replica Studios达成的协议是最清晰的公开范例，并主张艺人数字版本的控制权应归属于由艺人控股过半的实体，按用途逐项授权。"
+                "x": "IP律师Josh Gerben在4月写道，为名人的说话声音注册商标“此前从未在法庭上经过检验”，但如果有人就AI使用Swift的声音提起诉讼，她可以主张任何听起来像注册商标的使用都侵犯了她的权利。Backstreet Boys在6月提交了类似申请，而Sony Music截至9月底已要求各平台删除超过260,000首冒充其旗下艺人的AI生成（AI-generated）曲目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Quién controla la versión\ndigital de la voz del artista?",
-          "body": "Una columna de Hypebot repasa casos de voz e imagen con AI y en qué difieren las tres grandes discográficas.",
-          "mini_headline": "¿De quién es tu voz AI?",
+          "headline": "Taylor Swift pide la marca de\nsu voz en UK, EU y Australia",
+          "body": "La empresa de Taylor Swift pidió la marca de su voz en UK, EU y Australia, tras tres solicitudes en US en abril.",
+          "mini_headline": "Swift amplía sus marcas de voz",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-12-lalu-s-corner.jpg"
+                "t": "p",
+                "x": "La empresa de Taylor Swift, TAS Rights Management, ha presentado solicitudes para registrar su voz como marca en el Reino Unido (UK), la European Union (EU) y Australia. Las nuevas solicitudes siguen a las tres presentadas en abril ante la US Patent and Trademark Office, que cubren grabaciones de Swift diciendo “Hey, it’s Taylor” y “Hey, it’s Taylor Swift”, junto con una fotografía en la que sostiene una guitarra rosa sobre el escenario."
               },
               {
                 "t": "p",
-                "x": "En su columna mensual Lalu's Corner, la agente de música y alianzas de marca Lauren Thackray parte del skin de Fortnite de Addison Rae, creado a partir de diez selfis que ella misma envió a Epic Games. Ella aceptó todo. Las preguntas que siguen: quién puede crear una versión digital de alguien, qué puede hacer con ella y cuánto control conserva esa persona."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Screenshot-2026-10-12-at-1.10.47---PM.png"
+                "x": "La solicitud australiana, una marca sonora para “Hey, it’s Taylor Swift”, fue aceptada por IP Australia el 12 de octubre, seis días después de presentarse, y figura en periodo de oposición. En el Reino Unido (UK) y la EU, la empresa presentó solicitudes de marca sonora el 6 de octubre, seguidas el 7 de octubre de solicitudes de imagen de lo que parece ser la misma fotografía del escenario."
               },
               {
                 "t": "p",
-                "x": "Para muchos artistas, la primera pregunta ya se está respondiendo sin ellos: Jason Isbell y otros músicos demandaron a Suno por el uso de la identidad de los artistas; deadmau5 encontró un deepfake AI-generated de sí mismo respaldando a otro DJ; y “I Run” se hizo viral con una voz idéntica a la de Jorja Smith."
-              },
-              {
-                "t": "p",
-                "x": "Las grandes discográficas difieren. Universal demandó a Suno mientras alcanzaba un acuerdo y un contrato de licencia con Udio; Sony no tiene acuerdo de licencia y recurre a las retiradas; Warner ha buscado acuerdos con cláusulas de opt-in para los artistas."
-              },
-              {
-                "t": "p",
-                "x": "Thackray señala el acuerdo de SAG-AFTRA de 2024 con Replica Studios como el modelo público más claro y sostiene que el control de la versión digital de un artista debería recaer en una entidad controlada mayoritariamente por el artista, con licencias uso por uso."
+                "x": "El abogado de IP Josh Gerben escribió en abril que registrar la voz hablada de una celebridad “no se ha puesto a prueba antes en los tribunales”, pero que, si se presentara una demanda porque una inteligencia artificial (AI) usara la voz de Swift, ella podría alegar que cualquier uso que suene como la marca registrada vulnera sus derechos. Los Backstreet Boys presentaron una solicitud similar en junio, y Sony Music había pedido a las plataformas que retiraran más de 260,000 pistas generadas por IA (AI-generated) que suplantaban a sus artistas para finales de septiembre."
               }
             ]
           }
@@ -717,165 +899,141 @@
       }
     },
     {
-      "id": "music-laroche-digital-blackface",
+      "id": "music-raye-ai-bots",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Louis La Roche\nAI 디지털 블랙페이스",
-      "body": "Louis La Roche가 AI-artist 대량 운영의 배후를 지목한다.",
-      "mini_headline": "La Roche, '디지털 블랙페이스' 비판",
+      "headline": "AI 봇이 덮친\nRaye 공연 선예매",
+      "body": "Raye는 5,000석에 1.8M 건이 몰린 선예매가 AI 봇에 당했다고 밝혔다.",
+      "mini_headline": "AI 봇, Raye 선예매 습격",
       "tool": "Music",
-      "source": "Louis La Roche (YouTube)",
-      "url": "https://www.youtube.com/watch?v=V7C7A4GYxaA",
-      "accent": "#f5a623",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/raye-says-scalpers-used-ai-bots-to-create-hundreds-of-thousands-of-fake-registrations-as-1-8m-sign-up-for-5000-royal-albert-hall-seats/",
+      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "V7C7A4GYxaA"
+            "t": "p",
+            "x": "Raye는 암표상들이 AI 봇으로 런던 Royal Albert Hall 단독 공연 선예매에 “수십만 건의 가짜 등록”을 만들어 냈다고 밝혔다. 10월 13일 올린 글에 따르면 선예매는 팬 마케팅 플랫폼 co:brand가 운영하는 등록 페이지로 진행됐고, 5,000석에 1.8M 건의 신청이 들어왔다."
           },
           {
             "t": "p",
-            "x": "프로듀서 Louis La Roche는 스스로 의견 영상이라고 밝힌 이 영상에서 AI 음악에 번지고 있다는 '디지털 블랙페이스'(digital blackface) 흐름을 살핀다. 프롬프트를 입력한 사람과 다른 인종으로 보이게끔 AI를 쓰는 현상이다."
+            "x": "Raye는 “우리는 이제 새로운 세상에 살고 있다. 이런 규모의 봇은 처음 본다”고 썼다. 팀은 암표상에게 악용될 수 있는 선예매를 그대로 여는 대신 등록 명단을 직접 살펴 “진짜 팬이라고 판단되는 사람들”을 추리기로 했다. 남은 표는 일반 판매로 돌린다."
           },
           {
             "t": "p",
-            "x": "그는 Suno를 비롯한 AI 음악 플랫폼이 독창적인 음악을 만들지 않고 학습 데이터를 흉내 낼 뿐이라고 주장한다. Suno가 겪은 소송들도 짚는다."
-          },
-          {
-            "t": "p",
-            "x": "이어 Spotify에서 흑인(Black) 아티스트로 보이도록 만들어졌다고 그가 말하는 AI 페르소나들을 소개하고 그 배후로 그가 지목하는 남성들의 이름을 댄다. 어디까지나 그 자신의 주장이며 여기서 독립적으로 검증되지 않았다."
+            "x": "IQ에 따르면 선예매가 열리자 Royal Albert Hall 웹사이트에 5M 건의 접속 요청이 몰렸다. 팬들이 45분 동안 결제를 마치지 못하자 “긴급 조사”가 시작됐다. 공연장 대변인은 BBC에 “법이 따라잡아야 한다”고 말했고, UK 정부는 정가 이상의 티켓 재판매를 금지하는 법안을 준비 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Producer Louis La Roche on\n'digital blackface' in AI music",
-          "body": "Louis La Roche calls some AI music digital blackface and names who he says runs a large AI-artist operation.",
-          "mini_headline": "La Roche on 'digital blackface'",
+          "headline": "AI bots swamp Raye's\nRoyal Albert Hall presale",
+          "body": "Scalpers' AI bots made hundreds of thousands of fake presale sign-ups as 1.8M registered for 5,000 seats, Raye says.",
+          "mini_headline": "AI bots hit Raye presale",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "V7C7A4GYxaA"
+                "t": "p",
+                "x": "Raye says scalpers used AI bots to create “hundreds of thousands of fake registrations” for the presale of her upcoming one-off show at London’s Royal Albert Hall. In a post on October 13, she said the presale — run through a sign-up page hosted by fan marketing platform co:brand — received 1.8 million sign-ups for 5,000 seats."
               },
               {
                 "t": "p",
-                "x": "In this video, which he describes as an opinion piece, producer Louis La Roche looks at what he calls the growing trend of 'digital blackface' in AI music: AI being used to present as a race other than that of the person who prompted it."
+                "x": "“It is a new world we are living in now, I have never witnessed bots on this scale,” Raye wrote. Rather than risk a presale that scalpers could exploit, her team chose to manually review the sign-up list to shortlist “people we believe are real fans,” with remaining tickets going on general sale."
               },
               {
                 "t": "p",
-                "x": "He argues that Suno and other AI music platforms mimic their training data rather than create original music, and points to the lawsuits Suno has faced."
-              },
-              {
-                "t": "p",
-                "x": "He then presents AI personas on Spotify that he says are made to pass as Black artists, and names the men he says are behind them. These claims are his own and have not been independently verified here."
+                "x": "Once the presale opened, the Royal Albert Hall’s website received 5 million access requests and fans could not complete purchases for 45 minutes, prompting an “urgent investigation,” according to IQ. A venue spokesperson told the BBC the “law needs to catch up,” as the UK government prepares legislation to ban ticket resale above face value."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Louis La Roche\nAI 디지털 블랙페이스",
-          "body": "Louis La Roche가 AI-artist 대량 운영의 배후를 지목한다.",
-          "mini_headline": "La Roche, '디지털 블랙페이스' 비판",
+          "headline": "AI 봇이 덮친\nRaye 공연 선예매",
+          "body": "Raye는 5,000석에 1.8M 건이 몰린 선예매가 AI 봇에 당했다고 밝혔다.",
+          "mini_headline": "AI 봇, Raye 선예매 습격",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "V7C7A4GYxaA"
+                "t": "p",
+                "x": "Raye는 암표상들이 AI 봇으로 런던 Royal Albert Hall 단독 공연 선예매에 “수십만 건의 가짜 등록”을 만들어 냈다고 밝혔다. 10월 13일 올린 글에 따르면 선예매는 팬 마케팅 플랫폼 co:brand가 운영하는 등록 페이지로 진행됐고, 5,000석에 1.8M 건의 신청이 들어왔다."
               },
               {
                 "t": "p",
-                "x": "프로듀서 Louis La Roche는 스스로 의견 영상이라고 밝힌 이 영상에서 AI 음악에 번지고 있다는 '디지털 블랙페이스'(digital blackface) 흐름을 살핀다. 프롬프트를 입력한 사람과 다른 인종으로 보이게끔 AI를 쓰는 현상이다."
+                "x": "Raye는 “우리는 이제 새로운 세상에 살고 있다. 이런 규모의 봇은 처음 본다”고 썼다. 팀은 암표상에게 악용될 수 있는 선예매를 그대로 여는 대신 등록 명단을 직접 살펴 “진짜 팬이라고 판단되는 사람들”을 추리기로 했다. 남은 표는 일반 판매로 돌린다."
               },
               {
                 "t": "p",
-                "x": "그는 Suno를 비롯한 AI 음악 플랫폼이 독창적인 음악을 만들지 않고 학습 데이터를 흉내 낼 뿐이라고 주장한다. Suno가 겪은 소송들도 짚는다."
-              },
-              {
-                "t": "p",
-                "x": "이어 Spotify에서 흑인(Black) 아티스트로 보이도록 만들어졌다고 그가 말하는 AI 페르소나들을 소개하고 그 배후로 그가 지목하는 남성들의 이름을 댄다. 어디까지나 그 자신의 주장이며 여기서 독립적으로 검증되지 않았다."
+                "x": "IQ에 따르면 선예매가 열리자 Royal Albert Hall 웹사이트에 5M 건의 접속 요청이 몰렸다. 팬들이 45분 동안 결제를 마치지 못하자 “긴급 조사”가 시작됐다. 공연장 대변인은 BBC에 “법이 따라잡아야 한다”고 말했고, UK 정부는 정가 이상의 티켓 재판매를 금지하는 법안을 준비 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Louis La Roche\nAI音楽のブラックフェイス",
-          "body": "Louis La RocheがAI-artistの大規模運営の背後にいる人物を名指しする。",
-          "mini_headline": "La Roche、AI音楽のブラックフェイスを批判",
+          "headline": "AIボットがRaye\n公演の先行販売を直撃",
+          "body": "5,000席に1.8M 件の登録が殺到し、数十万件がAIボットだったとRayeは言う。",
+          "mini_headline": "AIボット、Rayeの先行販売を直撃",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "V7C7A4GYxaA"
+                "t": "p",
+                "x": "Rayeは、ロンドンのRoyal Albert Hallで予定する一夜限りの公演の先行販売で、転売業者がAIボットを使って「数十万件の偽登録」を作り出したと明かした。10月13日の投稿によると、ファンマーケティングプラットフォームco:brandの登録ページを通じた先行販売には、5,000席に対して1.8M 件の申し込みがあった。"
               },
               {
                 "t": "p",
-                "x": "本人がオピニオン動画と位置づけるこの動画で、プロデューサーのLouis La Rocheは、AI音楽で広がりつつあるという「デジタル・ブラックフェイス」(digital blackface)を取り上げる。プロンプトを入力した本人とは異なる人種を装うためにAIを使う手法のことだ。"
+                "x": "「今は新しい世界に生きている。これほどの規模のボットは見たことがない」とRayeは書いた。転売業者に悪用されかねない先行販売のリスクを避けるため、チームは登録リストを手作業で確認し、「本物のファンだと思われる人たち」を選び出すことにした。残りのチケットは一般販売に回る。"
               },
               {
                 "t": "p",
-                "x": "彼は、SunoをはじめとするAI音楽プラットフォームは独自の音楽を生み出すのではなく学習データを模倣していると主張し、Sunoが直面してきた訴訟にも触れる。"
-              },
-              {
-                "t": "p",
-                "x": "続いて、Spotify上で黒人(Black)アーティストに見せかけて作られたと彼が言うAIペルソナを紹介し、その背後にいるとする男性たちの名前を挙げる。これらは彼自身の主張であり、ここでは独自に検証されていない。"
+                "x": "IQによると、先行販売が始まるとRoyal Albert Hallのウェブサイトには5M 件のアクセス要求が殺到し、ファンは45分間購入を完了できず、「緊急調査」が行われることになった。会場の広報担当者はBBCに「法律が追いつく必要がある」と語った。UK政府は額面を超えるチケット転売を禁じる法案を準備している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Louis La Roche\n谈AI音乐中的数字黑脸",
-          "body": "Louis La Roche称部分AI音乐是数字黑脸，并点名AI-artist运营者。",
-          "mini_headline": "La Roche谈“数字黑脸”",
+          "headline": "AI机器人涌入Raye\n伦敦演出预售",
+          "body": "Raye称5,000个座位的预售收到1.8M 份登记，其中数十万份为AI机器人伪造。",
+          "mini_headline": "AI机器人冲击Raye预售",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "V7C7A4GYxaA"
+                "t": "p",
+                "x": "Raye称，黄牛利用AI机器人，在她即将于伦敦Royal Albert Hall举行的专场演出预售中制造了“数十万个虚假登记”。她在10月13日的帖子中表示，这次预售通过粉丝营销平台co:brand托管的登记页面进行，5,000个座位共收到1.8M 份报名。"
               },
               {
                 "t": "p",
-                "x": "制作人Louis La Roche在这段他称为观点评论的视频中，探讨了他所说的AI音乐中日益增长的“数字黑脸”（digital blackface）趋势：用AI把自己呈现为与输入提示者不同的种族。"
+                "x": "Raye写道：“我们如今生活在一个新世界，我从未见过如此规模的机器人。”为避免预售被黄牛钻空子，她的团队决定人工审核登记名单，筛选出“我们认为是真正粉丝的人”，剩余门票将转入公开发售。"
               },
               {
                 "t": "p",
-                "x": "他认为，Suno等AI音乐平台是在模仿训练数据，而不是创作原创音乐，并提到Suno所面临的诉讼。"
-              },
-              {
-                "t": "p",
-                "x": "随后，他展示了Spotify上他称被刻意包装成黑人（Black）艺人的AI虚拟形象，并点名他所说的幕后男性。这些说法仅代表他本人，本文未作独立核实。"
+                "x": "据IQ报道，预售开启后，Royal Albert Hall网站收到5M 次访问请求，粉丝在45分钟内无法完成购票，由此引发“紧急调查”。场馆发言人对BBC表示，“法律需要跟上”；与此同时，UK政府正在准备立法，禁止以高于票面价格转售门票。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El productor Louis La Roche\ny la 'blackface digital' en AI",
-          "body": "Louis La Roche llama blackface digital a parte de la música AI y señala a quien dirige una gran operación AI-artist.",
-          "mini_headline": "La Roche y la 'blackface digital'",
+          "headline": "Bots de IA saturan la preventa\nde Raye en el Royal Albert Hall",
+          "body": "Según Raye, bots de IA crearon cientos de miles de registros falsos entre 1.8M inscritos para 5,000 plazas.",
+          "mini_headline": "Bots de IA golpean la preventa de Raye",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "V7C7A4GYxaA"
+                "t": "p",
+                "x": "Raye afirma que los revendedores usaron bots de inteligencia artificial (AI) para crear “cientos de miles de registros falsos” en la preventa de su próximo concierto único en el Royal Albert Hall de Londres. En una publicación del 13 de octubre, dijo que la preventa —gestionada mediante una página de inscripción alojada por la plataforma de marketing para fans co:brand— recibió 1.8 millones de inscripciones para 5,000 asientos."
               },
               {
                 "t": "p",
-                "x": "En este video, que él mismo describe como una pieza de opinión, el productor Louis La Roche analiza lo que llama la creciente tendencia del 'digital blackface' en la música AI: usar AI para presentarse como de una raza distinta a la de la persona que escribió el prompt."
+                "x": "“Vivimos ahora en un mundo nuevo, nunca había visto bots a esta escala”, escribió Raye. En lugar de arriesgarse a una preventa que los revendedores pudieran aprovechar, su equipo decidió revisar manualmente la lista de inscritos para seleccionar a las “personas que creemos que son verdaderos fans”, y las entradas restantes saldrán a la venta general."
               },
               {
                 "t": "p",
-                "x": "Sostiene que Suno y otras plataformas de música AI imitan sus datos de entrenamiento en lugar de crear música original, y menciona las demandas que ha enfrentado Suno."
-              },
-              {
-                "t": "p",
-                "x": "Después muestra personas AI en Spotify que, según él, están hechas para pasar por artistas negros (Black), y nombra a los hombres que, según dice, están detrás. Estas afirmaciones son suyas y aquí no se han verificado de forma independiente."
+                "x": "Una vez abierta la preventa, el sitio web del Royal Albert Hall recibió 5 millones de solicitudes de acceso y los fans no pudieron completar sus compras durante 45 minutos, lo que motivó una “investigación urgente”, según IQ. Un portavoz del recinto dijo a la BBC que la “ley tiene que ponerse al día”, mientras el gobierno del Reino Unido (UK) prepara una ley para prohibir la reventa de entradas por encima de su valor nominal."
               }
             ]
           }
@@ -883,105 +1041,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Louis La Roche\nAI 디지털 블랙페이스",
-          "body": "Louis La Roche가 AI-artist 대량 운영의 배후를 지목한다.",
-          "mini_headline": "La Roche, '디지털 블랙페이스' 비판",
+          "headline": "AI 봇이 덮친\nRaye 공연 선예매",
+          "body": "Raye는 5,000석에 1.8M 건이 몰린 선예매가 AI 봇에 당했다고 밝혔다.",
+          "mini_headline": "AI 봇, Raye 선예매 습격",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "V7C7A4GYxaA"
+                "t": "p",
+                "x": "Raye는 암표상들이 AI 봇으로 런던 Royal Albert Hall에서 열릴 단독 공연의 선예매에 “수십만 건의 가짜 등록”을 만들어 냈다고 밝혔다. 10월 13일 올린 글에서 그는 팬 마케팅 플랫폼 co:brand가 운영하는 등록 페이지로 진행한 선예매에 5,000석을 두고 1.8M 건의 신청이 들어왔다고 했다."
               },
               {
                 "t": "p",
-                "x": "프로듀서 Louis La Roche는 스스로 의견 영상이라고 밝힌 이 영상에서 AI 음악에서 늘고 있다는 '디지털 블랙페이스'(digital blackface) 흐름을 살핀다. 프롬프트를 입력한 사람과 다른 인종인 것처럼 보이도록 AI를 쓰는 현상이다."
+                "x": "Raye는 “우리는 이제 새로운 세상에 살고 있다. 이런 규모의 봇은 처음 본다”고 썼다. 암표상에게 악용될 수 있는 선예매를 그대로 진행하는 대신, 그의 팀은 등록 명단을 직접 검토해 “진짜 팬이라고 판단되는 사람들”을 추리기로 했고, 남은 표는 일반 판매로 돌린다."
               },
               {
                 "t": "p",
-                "x": "그는 Suno를 비롯한 AI 음악 플랫폼이 독창적인 음악을 만드는 대신 학습 데이터를 흉내 낸다고 주장하며, Suno가 겪은 소송들을 짚는다."
-              },
-              {
-                "t": "p",
-                "x": "이어 Spotify에서 흑인(Black) 아티스트로 보이도록 만들어졌다고 그가 말하는 AI 페르소나들을 소개하고, 그 배후라고 그가 지목하는 남성들의 이름을 밝힌다. 이는 그 자신의 주장이며, 여기서 독립적으로 검증되지 않았다."
+                "x": "IQ에 따르면 선예매가 열리자 Royal Albert Hall 웹사이트에 5M 건의 접속 요청이 몰렸고, 팬들은 45분 동안 결제를 마치지 못해 “긴급 조사”가 시작됐다. 공연장 대변인은 BBC에 “법이 따라잡아야 한다”고 말했으며, UK 정부는 정가 이상의 티켓 재판매를 금지하는 법안을 준비하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Louis La Roche\nAI音楽のブラックフェイス",
-          "body": "Louis La RocheがAI-artistの大規模運営の背後にいる人物を名指しする。",
-          "mini_headline": "La Roche、AI音楽のブラックフェイスを批判",
+          "headline": "AIボットがRaye\n公演の先行販売を直撃",
+          "body": "5,000席に1.8M 件の登録が殺到し、数十万件がAIボットだったとRayeは言う。",
+          "mini_headline": "AIボット、Rayeの先行販売を直撃",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "V7C7A4GYxaA"
+                "t": "p",
+                "x": "Rayeは、ロンドンのRoyal Albert Hallで予定する一夜限りの公演の先行販売で、転売業者がAIボットを使って「数十万件の偽登録」を作り出したと明かした。10月13日の投稿によると、ファンマーケティングプラットフォームco:brandの登録ページを通じた先行販売には、5,000席に対して1.8M 件の申し込みがあった。"
               },
               {
                 "t": "p",
-                "x": "本人がオピニオン動画と位置づけるこの動画で、プロデューサーのLouis La Rocheは、AI音楽で広がりつつあるという「デジタル・ブラックフェイス」(digital blackface)を取り上げる。プロンプトを入力した本人とは異なる人種を装うためにAIを使う手法のことだ。"
+                "x": "「今は新しい世界に生きている。これほどの規模のボットは見たことがない」とRayeは書いた。転売業者に悪用されかねない先行販売のリスクを避けるため、チームは登録リストを手作業で確認し、「本物のファンだと思われる人たち」を選び出すことにした。残りのチケットは一般販売に回る。"
               },
               {
                 "t": "p",
-                "x": "彼は、SunoをはじめとするAI音楽プラットフォームは独自の音楽を生み出すのではなく学習データを模倣していると主張し、Sunoが直面してきた訴訟にも触れる。"
-              },
-              {
-                "t": "p",
-                "x": "続いて、Spotify上で黒人(Black)アーティストに見せかけて作られたと彼が言うAIペルソナを紹介し、その背後にいるとする男性たちの名前を挙げる。これらは彼自身の主張であり、ここでは独自に検証されていない。"
+                "x": "IQによると、先行販売が始まるとRoyal Albert Hallのウェブサイトには5M 件のアクセス要求が殺到し、ファンは45分間購入を完了できず、「緊急調査」が行われることになった。会場の広報担当者はBBCに「法律が追いつく必要がある」と語った。UK政府は額面を超えるチケット転売を禁じる法案を準備している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Louis La Roche\n谈AI音乐中的数字黑脸",
-          "body": "Louis La Roche称部分AI音乐是数字黑脸，并点名AI-artist运营者。",
-          "mini_headline": "La Roche谈“数字黑脸”",
+          "headline": "AI机器人涌入Raye\n伦敦演出预售",
+          "body": "Raye称5,000个座位的预售收到1.8M 份登记，其中数十万份为AI机器人伪造。",
+          "mini_headline": "AI机器人冲击Raye预售",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "V7C7A4GYxaA"
+                "t": "p",
+                "x": "Raye称，黄牛利用AI机器人，在她即将于伦敦Royal Albert Hall举行的专场演出预售中制造了“数十万个虚假登记”。她在10月13日的帖子中表示，这次预售通过粉丝营销平台co:brand托管的登记页面进行，5,000个座位共收到1.8M 份报名。"
               },
               {
                 "t": "p",
-                "x": "制作人Louis La Roche在这段他称为观点评论的视频中，探讨了他所说的AI音乐中日益增长的“数字黑脸”（digital blackface）趋势：用AI把自己呈现为与输入提示者不同的种族。"
+                "x": "Raye写道：“我们如今生活在一个新世界，我从未见过如此规模的机器人。”为避免预售被黄牛钻空子，她的团队决定人工审核登记名单，筛选出“我们认为是真正粉丝的人”，剩余门票将转入公开发售。"
               },
               {
                 "t": "p",
-                "x": "他认为，Suno等AI音乐平台是在模仿训练数据，而不是创作原创音乐，并提到Suno所面临的诉讼。"
-              },
-              {
-                "t": "p",
-                "x": "随后，他展示了Spotify上他称被刻意包装成黑人（Black）艺人的AI虚拟形象，并点名他所说的幕后男性。这些说法仅代表他本人，本文未作独立核实。"
+                "x": "据IQ报道，预售开启后，Royal Albert Hall网站收到5M 次访问请求，粉丝在45分钟内无法完成购票，由此引发“紧急调查”。场馆发言人对BBC表示，“法律需要跟上”；与此同时，UK政府正在准备立法，禁止以高于票面价格转售门票。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El productor Louis La Roche\ny la 'blackface digital' en AI",
-          "body": "Louis La Roche llama blackface digital a parte de la música AI y señala a quien dirige una gran operación AI-artist.",
-          "mini_headline": "La Roche y la 'blackface digital'",
+          "headline": "Bots de IA saturan la preventa\nde Raye en el Royal Albert Hall",
+          "body": "Según Raye, bots de IA crearon cientos de miles de registros falsos entre 1.8M inscritos para 5,000 plazas.",
+          "mini_headline": "Bots de IA golpean la preventa de Raye",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "V7C7A4GYxaA"
+                "t": "p",
+                "x": "Raye afirma que los revendedores usaron bots de inteligencia artificial (AI) para crear “cientos de miles de registros falsos” en la preventa de su próximo concierto único en el Royal Albert Hall de Londres. En una publicación del 13 de octubre, dijo que la preventa —gestionada mediante una página de inscripción alojada por la plataforma de marketing para fans co:brand— recibió 1.8 millones de inscripciones para 5,000 asientos."
               },
               {
                 "t": "p",
-                "x": "En este video, que él mismo describe como una pieza de opinión, el productor Louis La Roche analiza lo que llama la creciente tendencia del 'digital blackface' en la música AI: usar AI para presentarse como de una raza distinta a la de la persona que escribió el prompt."
+                "x": "“Vivimos ahora en un mundo nuevo, nunca había visto bots a esta escala”, escribió Raye. En lugar de arriesgarse a una preventa que los revendedores pudieran aprovechar, su equipo decidió revisar manualmente la lista de inscritos para seleccionar a las “personas que creemos que son verdaderos fans”, y las entradas restantes saldrán a la venta general."
               },
               {
                 "t": "p",
-                "x": "Sostiene que Suno y otras plataformas de música AI imitan sus datos de entrenamiento en lugar de crear música original, y menciona las demandas que ha enfrentado Suno."
-              },
-              {
-                "t": "p",
-                "x": "Después muestra personas AI en Spotify que, según él, están hechas para pasar por artistas negros (Black), y nombra a los hombres que, según dice, están detrás. Estas afirmaciones son suyas y aquí no se han verificado de forma independiente."
+                "x": "Una vez abierta la preventa, el sitio web del Royal Albert Hall recibió 5 millones de solicitudes de acceso y los fans no pudieron completar sus compras durante 45 minutos, lo que motivó una “investigación urgente”, según IQ. Un portavoz del recinto dijo a la BBC que la “ley tiene que ponerse al día”, mientras el gobierno del Reino Unido (UK) prepara una ley para prohibir la reventa de entradas por encima de su valor nominal."
               }
             ]
           }

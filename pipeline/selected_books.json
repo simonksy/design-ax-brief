@@ -1,122 +1,130 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "books",
   "picks": [
     {
-      "url": "https://japannews.yomiuri.co.jp/society/general-news/20261007-352595/",
-      "title": "Book Distributor Giant Nippan Sells Books to U.S. AI Developer Anthropic, Japan Book Publishers Association Requests Stoppage",
-      "source": "The Japan News (Yomiuri)",
+      "url": "https://www.joongang.co.kr/article/25469854",
+      "title": "[단독] AI, 새책도 노리나…교보문고에 들어온 ‘10만권’ 주문",
+      "source": "중앙일보",
       "category": "books",
-      "published_iso": "2026-10-07T14:43:48+09:00",
-      "og_image": "https://japannews.yomiuri.co.jp/wp-content/uploads/2026/10/Nippan1.jpg",
-      "excerpt": "A Nippan subsidiary sold Japanese books to Anthropic between Dec 2024 and Dec 2025 without notifying publishers, likely for its book-scanning AI training project; the Japan Book Publishers Association has demanded the sales stop.",
-      "source_lang": "en",
+      "published_iso": "2026-10-15T05:00:00+09:00",
+      "og_image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+      "excerpt": "국내 최대 서점인 교보문고에 인공지능(AI) 학습용으로 의심되는 대량 도서 주문이 들어온 것으로 14일 확인됐다. 앞서 AI 기업이 배후에서 주도하는 것으로 의심되는 헌책 대량 매입 시도가 확인된 데 이어 새책 주문 사례도 발견된 것이다.",
+      "source_lang": "ko",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Japan's biggest book distributor quietly sold books to Anthropic for scanning, and the publishers' association formally demanded it stop. This is a new, named supply-chain fight over training data."
+      "rationale": "Exclusive: a 100,000-copy order for new books, suspected to be for AI training, has reached Kyobo, Korea's largest bookstore. The training-data hunt has moved from used books to new stock."
     },
     {
-      "url": "https://english.elpais.com/technology/2026-10-13/how-much-ai-is-in-spains-bestselling-books.html",
-      "title": "How much AI is in Spain's bestselling books?",
-      "source": "EL PAÍS English",
+      "url": "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy",
+      "title": "Global creative bodies launch ethical AI charter ‘in the vacuum of government policy’",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-10-13T11:46:31+02:00",
-      "og_image": "https://imagenes.elpais.com/resizer/v2/W75H4ZZ4NZBABITSSVKXTSNJXY.jpg?auth=4baf2ed6d801c7b44ce023d946aedf421a55b61f7120df92c309eb31e4deb363&width=1200",
-      "excerpt": "EL PAÍS ran 175 popular titles through the Pangram detector: no trace of AI in 2019, but now one in three self-published bestsellers is written mostly with AI, including a top-charting book by politician Alvise Pérez.",
+      "published_iso": "2026-10-13T15:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+      "excerpt": "The Society of Authors launched a global, ethical AI charter at the Creators Emergency Summit in London on 13th October, aimed at “defining how generative AI services should be deployed to help protect and support human creators”.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "An original data investigation: EL PAÍS ran 175 bestsellers through a detector and found that one in three self-published hits is mostly AI-written. It is hard numbers on how far AI has reached the charts."
+      "rationale": "The Society of Authors and global partners have launched a concrete charter setting how generative AI services should treat creators. It is a new, named standard that publishers and AI vendors will be measured against."
     },
     {
-      "url": "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/",
-      "title": "Publishers urged to join appeal for greater AI transparency",
-      "source": "Chytomo",
+      "url": "https://www.nippon.com/en/japan-data/h02913/",
+      "title": "AI’s Improved Accuracy Squeezes Translation Industry in Japan",
+      "source": "nippon.com",
       "category": "books",
-      "published_iso": "2026-10-12T17:55:20+00:00",
-      "og_image": "https://chytomo.com/wp-content/uploads/2026/10/pexels-ferdous-9170539.jpg",
-      "excerpt": "More than 150 publishers and organizations back the Frankfurt Appeal from the German Publishers and Booksellers Association, demanding that the EU and Germany require AI developers to disclose the works used to train their models.",
+      "published_iso": "2026-10-14T06:00:07+0900",
+      "og_image": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg",
+      "excerpt": "The uptake of translation powered by generative AI has led to falling sales at translation companies in Japan.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "More than 150 publishers have signed the Börsenverein's Frankfurt Appeal for mandatory disclosure of AI training works. It is a concrete industry demand that other publishers can still sign."
+      "rationale": "Sales data shows Japanese translation firms losing revenue as generative AI translation improves. It puts hard numbers on a displacement the translator debate had so far only argued about."
     },
     {
-      "url": "https://www.turkiyetoday.com/business/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182",
-      "title": "AI companies' book hunt sparks copyright concerns in Türkiye's publishing industry",
-      "source": "Türkiye Today",
+      "url": "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/",
+      "title": "Audiobooks with multiple voices for dialog, using human actors or cloned with ElevenLabs",
+      "source": "ProVideo Coalition",
       "category": "books",
-      "published_iso": "2026-10-13T09:08:24+03:00",
-      "og_image": "https://img.turkiyetoday.com/images/2026/10/12/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182_20261012171024.jpeg",
-      "excerpt": "Turkish publishers warn that AI companies buying and scanning printed books without permission threatens copyright, while some see a potential new licensing revenue stream.",
+      "published_iso": "2026-10-14T06:19:30-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato-hero.jpg",
+      "excerpt": "Allan Tépper walks through producing a multi-voice audiobook with distinct voices per character, comparing human voice actors with ElevenLabs voice clones for dialogue.",
       "source_lang": "en",
       "tool": "Books",
-      "accent": "#ff5a4d",
+      "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "AI firms' bulk buying and scanning of print books has now reached Türkiye. Turkish publishers are split between treating it as a copyright threat and seeing a possible new licensing income, which shows the training-data hunt spreading to another market."
+      "rationale": "A hands-on production walkthrough for multi-voice audiobooks that compares human actors with ElevenLabs clones for dialogue. Unlike the narration op-eds, this is a workflow someone can try tomorrow."
     },
     {
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/",
-      "title": "Frankfurter Buchmesse 2026: Audible-Commissioned Survey Finds Audio Sends Readers Back to Print; Half Would Try AI Narration",
-      "source": "Publishing Perspectives",
+      "url": "https://www.hankyung.com/article/202610139344i",
+      "title": "\"웹툰 주인공과 대화한다\"… 레진, AI 캐릭터챗 '티즈' 19일 출시",
+      "source": "한국경제",
       "category": "books",
-      "published_iso": "2026-10-09T09:01:08+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png",
-      "excerpt": "An Audible-commissioned NielsenIQ survey across 11 markets finds audiobooks pull listeners toward print and e-books, and that about half of listeners would be open to AI-narrated titles.",
-      "source_lang": "en",
+      "published_iso": "2026-10-13T18:41:41+09:00",
+      "og_image": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
+      "excerpt": "레진엔터테인먼트가 공식 웹툰 IP 기반 AI 캐릭터챗 서비스 '티즈(Teaz)'를 19일 출시한다. 독자가 웹툰 주인공과 직접 대화할 수 있다.",
+      "source_lang": "ko",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A new NielsenIQ survey across 11 markets finds about half of listeners are open to AI narration. It gives data to the AI-audiobook debate where earlier coverage had mostly opinion."
+      "rationale": "Lezhin is launching Teaz on Oct 19, an AI character chat built on its official webtoon IP. It is a new product release, and with Naver already in this space it shows AI chat becoming a standard reader feature on webtoon platforms."
     }
   ],
   "alternates": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/101518-s-s-re-ups-with-h-m-wolfe-in-seven-figure-deal.html",
-      "title": "S&S Re-Ups with H.M. Wolfe in Seven-Figure Deal",
-      "source": "Publishers Weekly",
+      "url": "https://www.vtimes.kr/news/articleView.html?idxno=56168",
+      "title": "멘탯, AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리' 출시",
+      "source": "벤처타임즈",
       "category": "books",
-      "published_iso": "2026-10-13T00:00:00-04:00",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132156-1.PNG",
-      "excerpt": "Simon & Schuster signs a seven-figure romantasy duology deal with H.M. Wolfe, months after The Atlantic cited a Pangram detector reading of 60% AI to claim her hit Daggermouth was AI-assisted.",
-      "source_lang": "en",
-      "tool": "Books",
-      "accent": "#3b6bff",
-      "motif": "swatch",
-      "rationale": "A book-deal story where AI is only background context. The detection theme is already covered by El País."
+      "published_iso": "2026-10-13T09:00:00+09:00",
+      "og_image": "http://www.vtimes.kr/news/thumbnail/202610/56168_32905_5726_v150.jpg",
+      "excerpt": "도서 라이선싱 플랫폼 멘탯이 AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리'를 출시했다.",
+      "source_lang": "ko",
+      "rationale": "A new product release, but it overlaps thematically with the Kyobo training-data pick and comes from a smaller trade outlet. Nearest published story is the kyosu.net interview with Mentat's CEO (09-30)."
+    },
+    {
+      "url": "https://www.news1.kr/it-science/internet-platform/6320039",
+      "title": "웹툰·웹소설을 AI 애니로…카카오픽코마 '탈웹툰' 승부수",
+      "source": "뉴스1",
+      "category": "books",
+      "published_iso": "2026-10-14T17:01:52+09:00",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/10/14/8158907/high.jpg",
+      "excerpt": "카카오픽코마가 AI로 제작한 애니메이션을 새로운 성장동력으로 육성한다.",
+      "source_lang": "ko",
+      "rationale": "Strategy feature (part 6 of a series) rather than a discrete release; kept as backup."
     }
   ],
   "dedup": {
     "checks": {
-      "https://japannews.yomiuri.co.jp/society/general-news/20261007-352595/": {
-        "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
-        "new_action": ""
-      },
-      "https://english.elpais.com/technology/2026-10-13/how-much-ai-is-in-spains-bestselling-books.html": {
-        "verdict": "new",
-        "nearest": "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises",
-        "new_action": ""
-      },
-      "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/": {
-        "verdict": "new",
-        "nearest": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-eu-ai-act-gives-publishers-leverage-but-no-teeth/",
-        "new_action": ""
-      },
-      "https://www.turkiyetoday.com/business/ai-companies-book-hunt-sparks-copyright-concerns-in-turkiyes-publishing-industry-3230182": {
-        "verdict": "new",
+      "https://www.joongang.co.kr/article/25469854": {
+        "verdict": "follow-up",
         "nearest": "https://www.joongang.co.kr/article/25468823",
+        "new_action": "New concrete event: a 100,000-copy order for NEW books, suspected to be for AI training, was confirmed at Kyobo Bookstore on 10-14. The 10-12 story was the publishers' association probing bulk buying of USED books."
+      },
+      "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy": {
+        "verdict": "new",
+        "nearest": "https://www.booksandpublishing.com.au/articles/2026/09/21/340859/industry-bodies-criticise-governments-opt-out-ai-proposals/",
         "new_action": ""
       },
-      "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/": {
+      "https://www.nippon.com/en/japan-data/h02913/": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101500-frankfurt-book-fair-2026-audible-wants-to-turn-every-book-into-an-audiobook.html",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101221-lost-in-translation.html",
+        "new_action": ""
+      },
+      "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/": {
+        "verdict": "new",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/101375-de-marque-to-offer-ai-audiobook-capabilities-via-elevenlabs.html",
+        "new_action": ""
+      },
+      "https://www.hankyung.com/article/202610139344i": {
+        "verdict": "new",
+        "nearest": "https://www.inews24.com/view/2008992",
         "new_action": ""
       }
     },
-    "note": "SWAP PASS: removed Tech Xplore IdeaLens detector (https://techxplore.com/news/2026-10-detector-ai-generated-ideas-words.html) because the science section also picked it today (cross-section clash; it is about academic writing, so science keeps it). Replaced with Türkiye Today on AI firms buying and scanning books in Türkiye. AI is central, and no Turkish-market story appears in the 30-day history_digest. Nearest are JoongAng 10-12 (Korean association probe of used-book buying), aimatters 09-26 (Japanese used-book exports) and EWC 10-05 (book shredding). Each of those covers a different country or actor, so this is a distinct story, not a repeat. It shares a theme with the Nippan pick but covers a separate market and event. PW S&S/H.M. Wolfe was rejected because AI is only background to a book deal. It stays an alternate. CBC Orélien denial is still dropped as a reaction in the same running story as Bookseller 09-24 / Guardian 09-26. Original-pass drops still stand: Nippan carries history_match (related, Authors Guild/Anthropic 10-01) but is a different event. The Vulture Anthropic settlement split is the same story as PW Authors Guild 10-01. Good e-Reader Expert Intelligence is a rollout recap of Bookseller 09-15. Dropped for low novelty: Chytomo FBF opening, Bookseller FBF conversations roundup, Bookseller editor op-ed, Good e-Reader CastReader how-to. No cluster conflicts. Outlets: 5 distinct, one per outlet."
+    "note": "DROPPED as repeats. Voice Over Herald Spotify 180 markets: likely-repeat of PW 10-11 (same release). Good e-Reader Audible new features: same launch as TechCrunch 10-02. Lithub 'Is It or Isn't It': commentary on The Blue Fighter / Caine Prize AI allegations, already published as Bookseller 10-13 (story_dedup also removed the Brittle Paper statement). Daily Sabah human-authored stamp: same running story as Wired 'organic' 10-08, UK IPO certification mark 10-09 and Boersenblatt label 10-10. Vulture 'Publishers Hit the AI Jackpot': Anthropic settlement split, same as PW Authors Guild 10-01. DROPPED for low novelty or thin sourcing. Bookseller editor op-ed 10-08 (opinion). BBC 'human premium' (general-art commentary). Scholarly Kitchen guest post (evergreen evaluation commentary, not the same as the 09-25 peer-review post). Books+Publishing APA concerns (paywalled, headline only, no body to verify). ABC Cam Wilson AI book (close to the Futurism Roose-copycat story of 10-12). Kyunghyang AI-narration audiobooks feature (10-07, overlaps a heavily covered narration theme). Mentat Discovery and Kakao Piccoma are kept as alternates. CHECKS. The SoA charter is distinct from Chytomo's Frankfurt Appeal (10-14 pick, a Boersenverein disclosure petition): different body and different instrument. Lezhin Teaz is a different company and launch from Naver Webtoon's character chat (09-26). No cluster conflicts. Outlets: 5 distinct, one each."
   }
 }

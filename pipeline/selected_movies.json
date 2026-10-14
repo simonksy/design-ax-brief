@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "movies",
   "picks": [
     {
@@ -7,110 +7,92 @@
       "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Sync.Labs Intros Zero-Shot Lipsyncing for Film and Television",
-      "url": "https://postperspective.com/sync-labs-intros-zero-shot-lipsyncing-for-film-and-television/",
-      "source": "postPerspective",
-      "published_iso": "2026-10-13T15:13:41+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Sync_UI_Workstation-2.jpg",
-      "excerpt": "Sync.Labs launched Sync.Productions, bringing its studio-grade zero-shot AI lipsync technology to film and television production for dubbing and dialogue fixes.",
-      "rationale": "New product launch (Sync.Productions) that post teams can use right away for dubbing and dialogue fixes. The most actionable item in the pool."
-    },
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "title": "Reallusion and Escape.AI Partner to Solve AI Video Bottlenecks and Expand Distribution",
-      "url": "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/",
-      "source": "befores & afters",
-      "published_iso": "2026-10-13T15:49:43+00:00",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/key-image_RLxEscape-ai.jpg",
-      "excerpt": "A strategic alliance connects Reallusion's 3D character/animation ecosystem with John Gaeta's Escape.AI Neo Cinema platform to tackle control bottlenecks in AI video and widen distribution.",
-      "rationale": "New tool partnership that pairs 3D character control with AI video, addressing the controllability problem directly. Adds a pipeline/tools angle."
-    },
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "title": "How AI Is Used by Netflix at Its VFX Eyeline Studios, Revealed by VP Mohsen Mousavi at View Conference",
-      "url": "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/",
-      "source": "Variety",
-      "published_iso": "2026-10-13T13:55:51+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/WhatsApp20Image202026-10-1320at2012.30.34.jpeg?w=1000&h=563&crop=1",
-      "excerpt": "Eyeline VP Mohsen Mousavi reveals how Netflix uses AI for crowds, sets and relighting, while developing new tools for filmmaking.",
-      "rationale": "Concrete studio use cases (crowds, set extension, relighting) from a different exec at a different event (VIEW, Turin) than the 10-11 Rustad/Busan card."
+      "title": "Midjourney: Report Finds AI Model Worst For Flouting Hollywood IP",
+      "url": "https://deadline.com/2026/10/midjourney-worst-offender-flouting-hollywood-copyright-1237154802/",
+      "source": "Deadline",
+      "published_iso": "2026-10-14T16:48:59+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
+      "excerpt": "Disney accused Midjourney of being a \"bottomless pit of plagiarism\" in a lawsuit last year. More than 18 months on, there remains cause for concern.",
+      "rationale": "A new report ranking image models on Hollywood IP infringement. Anyone generating key art or previs with Midjourney now has a concrete rights risk to weigh."
     },
     {
       "tool": "Movies",
       "category": "movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "MIPCOM: 'Journey to the West - The Lost Five Hundred Years' First Look Revealed by Utopai & Huace",
-      "url": "https://www.animationmagazine.net/2026/10/mipcom-journey-to-the-west-the-lost-five-hundred-years-first-look-revealed-by-utopai-huace/",
-      "source": "Animation Magazine",
-      "published_iso": "2026-10-13T20:00:14+00:00",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Journey-to-the-West-–-The-Lost-Five-Hundred-Years-FL-sc.png",
-      "excerpt": "Utopai Studios and Huace revealed a first look at 'Journey to the West - The Lost Five Hundred Years,' a fully AI-generated prequel series inspired by the classic Chinese novel.",
-      "rationale": "First look at a fully AI-generated series. It is a new project reveal, separate from Utopai's PAI tool launch (10-01) and the Banderas 'Cortes' feature (10-13)."
+      "title": "AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-sung, as Netflix Reveals Use on 300 Titles: 'A Human Touch Is Absolutely Essential'",
+      "url": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
+      "source": "Variety",
+      "published_iso": "2026-10-10T10:09:19+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=563&crop=1",
+      "excerpt": "At Busan, Netflix's Lee Sung-gyun, director Kang Yoon-sung and Weta FX's Kimball Thurston debated how far AI should reach into film production.",
+      "rationale": "Hard numbers: Netflix says it has used AI on 300 titles, and a director claims budget cuts of up to 40%. The speakers and panel differ from the published Rustad (10-11) and Mousavi/VIEW (10-14) Netflix cards."
     },
     {
       "tool": "Movies",
       "category": "movies",
-      "accent": "#eb367f",
+      "accent": "#f5a623",
       "motif": "frame",
-      "title": "It's 'incomprehensible' that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-      "source": "The Verge",
-      "published_iso": "2026-10-13T16:42:51+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&strip=all&crop=0%2C10.653918363709%2C100%2C78.692163272582&w=1200",
-      "excerpt": "Mia Goth's representatives say they filed multiple complaints with Instagram about a fan account posting AI-generated images of the actor - a fresh flashpoint over performer likeness.",
-      "rationale": "New performer-likeness incident with platform-moderation stakes. Adds a rights angle and a fifth outlet."
+      "title": "Peacock App Launches 'Your Bravoverse,' Featuring a Personalized TikTok-Style Video Feed Hosted by AI-Generated Andy Cohen",
+      "url": "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/",
+      "source": "Variety",
+      "published_iso": "2026-10-13T16:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=563&crop=1",
+      "excerpt": "Peacock is bowing a personalized stream of clips from Bravo shows, inspired by apps like TikTok, brought to you by a chatty AI avatar of Andy Cohen.",
+      "rationale": "A concrete product launch: a major streamer ships a personalized clip feed hosted by a licensed AI avatar of its talent. AI is the feature itself, and it shows where streamers are taking AI hosts and personalized presentation."
+    },
+    {
+      "tool": "Movies",
+      "category": "movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "title": "Busan's Asian Contents & Film Market evolves with added focus on AI and microdramas",
+      "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
+      "source": "Screen Daily",
+      "published_iso": "2026-10-10T00:00:00Z",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
+      "excerpt": "ACFM runs October 10-13 at Busan's Bexco exhibition centre.",
+      "rationale": "Market-level view: Asia's biggest content market is restructuring around AI (dedicated AI programming and showcases). Adds a third outlet and gives the big-picture view behind the individual Busan AI panels already covered."
     }
   ],
   "alternates": [
     {
       "tool": "Movies",
       "category": "movies",
-      "accent": "#ff5a4d",
+      "accent": "#eb367f",
       "motif": "frame",
-      "title": "'IvyBears' Hits Cannes After YouTube Breakout, Spawns Animated Feature Project (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/",
-      "source": "Variety",
-      "published_iso": "2026-10-13T09:16:52+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=563&crop=1",
-      "excerpt": "From consumer products to character-driven series, IvyBears goes brand-to-content in a 'reverse flywheel' approach powered by AI and artists alike, now spawning an animated feature.",
-      "rationale": "Fresh and new, but it would be a second MIPCOM AI-series card. First alternate if a pick is swapped."
+      "title": "My Screen Life: Taiwanese producer Patrick Mao Huang on spotting new talent and embracing AI",
+      "url": "https://www.screendaily.com/features/my-screen-life-taiwanese-producer-patrick-mao-huang-on-spotting-new-talent-and-embracing-ai/5221306.article",
+      "source": "Screen Daily",
+      "published_iso": "2026-10-12T00:00:00Z",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/5/8/7/1489587_patrickmaohuanginhisoffice1_536722_crop.jpg",
+      "excerpt": "The Taiwanese film producer talk spotting up-and-coming filmmakers, learning those unwritten industry rules and the transformational impact of AI on storytelling.",
+      "rationale": "Fresh but weak: a career-profile interview where AI is one theme among several. Use only if another pick is swapped out."
     }
   ],
   "dedup": {
     "checks": {
-      "https://postperspective.com/sync-labs-intros-zero-shot-lipsyncing-for-film-and-television/": {
+      "https://deadline.com/2026/10/midjourney-worst-offender-flouting-hollywood-copyright-1237154802/": {
         "verdict": "new",
-        "nearest": "https://nofilmschool.com/dittodub-native-6-ai-dubbing-model",
+        "nearest": "https://deadline.com/2026/09/ai-hollywood-risks-rewards-lawyers-1237111607/",
         "new_action": ""
       },
-      "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/": {
-        "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=swx780Vy_OQ",
-        "new_action": ""
-      },
-      "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/": {
+      "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/": {
         "verdict": "new",
         "nearest": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
         "new_action": ""
       },
-      "https://www.animationmagazine.net/2026/10/mipcom-journey-to-the-west-the-lost-five-hundred-years-first-look-revealed-by-utopai-huace/": {
+      "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/",
+        "nearest": "https://variety.com/2026/biz/news/owning-manhattan-star-ryan-serhant-heygen-ai-avatar-1236904752/",
         "new_action": ""
       },
-      "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce": {
+      "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+        "nearest": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
         "new_action": ""
       }
     },
-    "note": "Excluded Higgsfield/OpenAI 'AI video from 1 minute to over 10' because the design section has it today (cross-section clash). Dropped the Variety XPRIZE 'The Gifted' piece as a likely repeat of the 09-30 Deadline card on the same win. Dropped the Deadline BBC Kate Phillips MIPCOM piece: it is a reaction to the Brittin 'Doctor Who' AI episode story published 10-03, with no new policy release. Dropped the Deadline Weta/Thurston panel: it is the same Netflix Busan panel that was held back yesterday, it is commentary, and Busan is already covered heavily (10-11, 10-12, 10-13). Dropped the Deadline ACFM Ellen Kim interview (Busan cluster, market interview). The Eyeline/Mousavi pick is a different speaker at a different event (VIEW Conference) with specific production uses, so it is new rather than a follow-up to the 10-11 Rustad/Busan card. Journey to the West is a new Utopai project reveal, distinct from the 10-01 PAI launch and the 10-13 Cortes casting. Dropped as weak or non-news: Aaron Sorkin opinion (also dropped 10-13), the RevThink accelerator, the USC Annenberg survey call, and the VFX Voice Gen Z feature (evergreen; related to the 10-07 VFX Voice card). IvyBears is kept as an alternate to avoid a second MIPCOM AI-series card. The final 5 come from 5 distinct outlets with no duplicate URLs."
+    "note": "SWAP 2026-10-15, after the enrichment fact-check. Dropped two picks. No Film School Shootsolo failed AI relevance: none of its new features are actually AI. befores & afters Flow Studio Canvas is Autodesk advertorial with no reporting. Their dedup entries were removed. Replacements came from the recovery-pass pool, and only two cleared every check, so the section ships 4 picks, above the floor of 3, with nothing padded. Added the Variety Peacock 'Your Bravoverse' AI-host launch. It is a new product launch with no published match (nearest is the 10-09 HeyGen avatar card, which covers a different company and event), and it is Variety's 2nd card, so Variety is now at its cap. Added the Screen Daily ACFM AI/microdramas piece. It is a market-level overview with no published card on ACFM's own restructuring. It shares cluster c2 with the Deadline 'Worm Train' Kling partner content, which stays dropped, so only one card comes from that cluster. Nearest published story is the 10-13 Kling panel. Rejected: Deadline 'BBC Staff Concerned About Matt Brittin Praise For AI Doctor Who' (likely-repeat of the 10-03 Brittin card; staff reaction with no new decision). Deadline 'BBC's Kate Phillips On AI, YouTube & Blue Planet III' (MIPCOM commentary following the same 10-03 Brittin Doctor Who story, with no new release or policy; it would also be Deadline's 2nd card). Variety 'Open to AI' feature and Variety 'Tilly Nollywood' African filmmakers feature (analysis features, and blocked anyway because Variety would hit 3 cards). Screen Daily Patrick Mao Huang 'My Screen Life' (career profile where AI is only one theme; kept as an alternate). RevThink accelerator promo (promotional, and its start date has passed). VFX Voice Gen Z feature (evergreen, little AI). Earlier drops still apply: Variety XPRIZE 'The Gifted' (repeat of 09-30), THR Affleck 'Animals' ethics piece (repeat of 10-02), and the b&a 3D Editor Flow Studio post (same advertorial campaign). No Gods Don't Give Gifts item was in the recovery pool, so the July/10-07 follow-up question did not come up. Final outlets: Deadline 1, Variety 2, Screen Daily 1. No duplicate URLs."
   }
 }

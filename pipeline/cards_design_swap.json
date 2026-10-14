@@ -1,47 +1,53 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-15",
   "section": "design",
   "cards": [
     {
-      "id": "ai-generated-ui-fast-design-not-ux",
+      "id": "design-hourglass-middle",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-generated UI is fast\ndesign, not UX",
-      "body": "Sophie Shrimpton argues AI-generated UI speeds up production but skips problem discovery, and defends craft.",
-      "mini_headline": "AI UI: fast design, not UX",
+      "headline": "AI is hollowing out\nthe middle of design",
+      "body": "After years of a growing design process, an essay argues AI is now squeezing its middle into an hourglass shape.",
+      "mini_headline": "AI hollows out\ndesign's middle",
       "tool": "AI Workflow",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
-      "accent": "#ff5a4d",
+      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
+      "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1024/1*nQhL0-yld2rIQVYaNb-d1Q.png",
-            "cap": "Table with carved feet from the author's stepfather's shop, Architectural Salvage"
+            "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
           },
           {
             "t": "p",
-            "x": "Sophie Shrimpton opens with the hand-carved 17th- and 18th-century pieces her stepfather salvaged, and contrasts them with her wobbly builder-grade dining table. Fast furniture, she writes, traded good materials and craft for speed and margin; the EPA counts 12.1M tons of furniture landfilled, up 450% since the 1960s."
+            "x": "For fifteen years, the design process kept growing while the time left for making the product kept shrinking. Anamol Rajbhandari argues the middle of that process — research reports, personas, journey maps, wireframes, handoff specs, workshops — is draining now, with the weight moving out to the two ends: deciding at the top, making at the bottom, like an hourglass."
           },
           {
             "t": "p",
-            "x": "Companies now want the same speed from AI. AI is a useful tool, she argues, but it cannot replace human thinking: designers need the freedom to wander, question and fail. Citing Giorgia Lupi, she warns against stopping at the simplest answer. A \"prompt first, think never\" mindset produces what she calls AI slop: UI generated in a few prompts, without review or a known problem."
-          },
-          {
-            "t": "p",
-            "x": "Air Canada's chatbot case, which cost $812.02 in damages, shows the hidden cost. Designers risk becoming custodians cleaning up after AI, echoing NN/G's \"custodial era of UX.\""
+            "x": "That middle was buying agreement among a dozen specialists while money was cheap. Then the Fed raised rates eleven times between March 2022 and July 2023, and ChatGPT arrived in November 2022, giving companies both a reason and the means to cut it."
           },
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1024/1*b6Q2lk_0M-gTLepIlyfGmQ.png",
-            "cap": "NN/G: how designers are becoming custodians"
+            "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
           },
           {
             "t": "p",
-            "x": "Her advice: understand the problem first, then use AI as a tool once the heavy thinking is done. \"We are in the age of AI AND we can be in the age of craft too.\""
+            "x": "Research had already shown the artifacts standing in for something else: practitioners used personas almost only for communication, and in one Rolf Molich study seventeen teams reported 340 usability problems, none found by every team. An AI model now drafts the discussion guide and surfaces the tensions in a stack of transcripts in a minute."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+          },
+          {
+            "t": "p",
+            "x": "A working prototype now takes an afternoon instead of a quarter, so making comes back to the designer. The far end — judging what deserves to exist — becomes the moat: a designer decides what is worth making, collaborates at speed, and then makes it well."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
           }
         ]
       }

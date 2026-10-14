@@ -1,117 +1,96 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "games",
   "picks": [
     {
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "title": "Epic’s new games launcher is ‘vibe coded’",
+      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
       "source": "The Verge",
-      "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-10-13T19:00:48+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "excerpt": "Xbox Labs is a new group exploring emerging game technology, including AI-assisted decompilation, recompilation and browser emulation of older games.",
-      "rationale": "A platform holder sets up an official team for AI-assisted decompilation, recompilation and browser emulation. The biggest games-AI event of the day. The Verge chosen from five outlets because it explains the technical scope most clearly."
+      "rationale": "A major storefront openly shipped a client it built with AI-assisted coding. It is a concrete new release, and the bug warning is a direct signal about AI-built production software.",
+      "published_iso": "2026-10-14T13:55:02+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "excerpt": "“We used AI as a tool for this.”"
     },
     {
-      "title": "NVIDIA DLSS 5 Runs 30% Faster Now, Reduces VRAM Use By 20% & Coming To Hogwarts Legacy & Where Winds Meet In November",
-      "url": "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/",
-      "source": "Wccftech",
-      "category": "games",
+      "title": "Players Are Furious About Total War: Shogun 2's AI-Upscaled 'Enhanced' Edition",
+      "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
+      "source": "Kotaku",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "published_iso": "2026-10-13T12:44:52+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/IMG_7387-1920x1080.jpg",
-      "excerpt": "NVIDIA says its DLSS 5 neural rendering model is now faster and less resource-hungry, and is coming to new games including Hogwarts Legacy.",
-      "rationale": "A new NVIDIA release: the neural rendering model is 30% faster and uses 20% less VRAM, and support arrives in named games in November. This answers the earlier performance complaints and gives developers a concrete update."
+      "rationale": "A first-party remaster drew a backlash over genAI-upscaled art. It shows what happens to an asset pipeline when players can spot AI enlargement.",
+      "published_iso": "2026-10-14T14:00:30+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/shogun-slop9.jpg",
+      "excerpt": "Steam users say it runs worse, looks worse, adds more bugs, and clearly used genAI to enlarge the artwork"
     },
     {
-      "title": "VR Chat Community Dev Calls For Boycott Over 'Rampant Plague' Of AI",
-      "url": "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109",
-      "source": "Kotaku",
-      "category": "games",
+      "title": "Playgama launches a suite of tools that lets AI agents analyze, refine, and update games on their own",
+      "url": "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/",
+      "source": "GamesBeat",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "published_iso": "2026-10-12T23:00:26+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/VR-Chat-1200x675.jpg",
-      "excerpt": "A prominent VRChat community creator starts a protest over AI-generated worlds and avatars hurting discoverability; developers ask how much is too much.",
-      "rationale": "A new creator-led boycott over AI-generated worlds and avatars burying human work. It is relevant to anyone who ships UGC on social VR platforms."
+      "rationale": "A new tool launch: agent tooling that analyzes, patches and publishes web games on its own. Of the five picks, this is the one a developer can act on most directly.",
+      "published_iso": "2026-10-14T07:00:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Playgama.jpg",
+      "excerpt": "Playgama launches a suite of tools that lets AI agents analyze, refine, and update games on their own and publish on Playgama Sandbox."
     },
     {
-      "title": "Bloodborne PC port with full multiplayer can't get FromSoftware fans to vibe with vibe coding: \"I will just use the emulator made by humans\"",
-      "url": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
+      "title": "The Legend of Zelda: Link's Awakening's Nintendo Switch remake now has a PC port if you can stomach an \"almost exclusive use of AI\"",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/",
       "source": "GamesRadar+",
-      "category": "games",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "published_iso": "2026-10-09T16:30:24Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HYgVWfc7Vi2zK2m4QHVb6C-1920-80.jpg",
-      "excerpt": "An unofficial native Bloodborne PC port with full multiplayer, made with vibe coding, fails to win over FromSoftware fans who prefer the human-made emulator.",
-      "rationale": "A new release: a vibe-coded native PC port of a PS4 exclusive with working multiplayer. This is a different project from the Mario Galaxy, Banjo and CTR ports covered earlier, and it shows the player-side reception that Xbox Labs is now trying to formalize."
+      "rationale": "A new AI-built port, and the first one of a Switch-era game rather than a retro recompilation. That raises the bar on what AI-assisted porting can now reach.",
+      "published_iso": "2026-10-14T11:02:20Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zKaVYn62cAmA7wbgV4Krjc-1920-80.jpg",
+      "excerpt": "Something like this is way beyond my skill set"
     },
-    {
-      "title": "The happiest man in gaming hates generative AI",
-      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "published_iso": "2026-10-12T13:11:17.121952+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Tarn-Adams-Dwarf-Fortress.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Dwarf Fortress creator Tarn Adams on bloated AI code, vampire computers, and surviving on Steam.",
-      "rationale": "The original interview with the Dwarf Fortress creator on AI code bloat and indie survival. It is a counterweight to the pro-AI platform news. Used the GamesIndustry.biz original over the RPS write-up."
-    }
-  ],
-  "alternates": [
     {
       "title": "The Blood of Dawnwalker lead actor reminds us why AI will always struggle to replicate human performances: \"They need to have their own ideas\"",
       "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-      "source": "Eurogamer",
-      "category": "games",
+      "source": "Eurogamer.net",
       "tool": "Games",
-      "accent": "#ff5a4d",
+      "accent": "#eb367f",
       "motif": "cube",
+      "rationale": "A lead performer on a current AAA RPG speaks about AI voiceover, a perspective this section has not run yet. It is the weakest pick, chosen because no other fresh candidates were left after dedup.",
       "published_iso": "2026-10-12T09:41:30.012979+00:00",
       "og_image": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "As AI voice use increases, The Blood of Dawnwalker's lead actor Will de Renzy-Martin explains what the technology can't replicate in game performance.",
-      "rationale": "Actor's view on AI voice; opinion-only, held as alternate.",
-      "dedup": {"verdict": "new", "nearest": "", "new_action": ""}
+      "excerpt": "As the use of AI ever increases, the lead actor from The Blood of Dawnwalker reminds us what the technology doesn't replicate."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration": {
+      "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux": {
         "verdict": "new",
-        "nearest": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+        "nearest": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
         "new_action": ""
       },
-      "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/": {
+      "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877": {
         "verdict": "new",
-        "nearest": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
+        "nearest": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
         "new_action": ""
       },
-      "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109": {
+      "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/": {
+      "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
+        "nearest": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
         "new_action": ""
       },
-      "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai": {
+      "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover": {
         "verdict": "new",
-        "nearest": "https://www.gamespot.com/articles/steams-punk-games-showcase-hates-ai-slop-loves-blowing-up-nazis/",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Xbox Labs (one story across 5 outlets): kept The Verge; dropped the Kotaku, Polygon, IGN and GamesRadar+ copies. This is a new corporate announcement, distinct from the 10-10 Kotaku piece on viral browser ports. Tarn Adams (2 outlets): kept the GamesIndustry.biz original; dropped the Rock Paper Shotgun write-up. Dropped the PC Gamer StarCraft GPT-6 Astra cheating story: it is the same agent benchmark published 2026-09-30 (36kr) and has no new release. Dropped the PC Gamer 'Google's golden age of AI games?' piece: commentary on Google Playground, published 2026-10-11. Dropped the GamesRadar+ Sony boss-fight patent: the same October 1 PlayStation patent was published 2026-10-07 (Wccftech). The DLSS 5 update is a new NVIDIA release (speed/VRAM, new titles), not a repeat of earlier DLSS 5 coverage. The Bloodborne port is a distinct project from the earlier Mario Galaxy, Banjo-Tooie and CTR ports. Dawnwalker actor held as alternate (opinion-only). Diversity: 5 outlets."
+    "note": "Dropped as repeats of published stories: Xbox Labs x3 (Eurogamer, GameSpot, Ruliweb), the same announcement as the 10-14 Verge Xbox Labs card. Jagex RuneScape trailer (RPS), likely-repeat of 10-06 GI.biz. WotC union (GI.biz), likely-repeat of 10-07 GamesRadar. Capcom RE Engine AI (GI.biz 10-05), same strategy story as the 10-05 Verge Capcom card. Dropped as same-story duplicates within the pool: cluster c0 Epic launcher, kept The Verge over Eurogamer and Kotaku. Cluster c4 plus Aftermath on Shogun 2 Complete Edition, kept Kotaku over Polygon and Aftermath. The Epic launcher is a new product release, distinct from the 10-13 Epic 'AI first' memo story. The Shogun 2 remaster is a new release and is not the 10-05 Warhammer 3 mod protest. The Link's Awakening port is a new port, distinct from the 10-14 Bloodborne port and earlier recomp stories. Pool after dedup was exactly 5, with 5 distinct outlets."
   }
 }

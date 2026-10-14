@@ -11756,6 +11756,119 @@
           "x": "같은 소식통은 Epic이 게임에 필요한 인력과 시간을 잘못 짚은 탓에 일정이 밀린 면도 있다고 전했다. Bloomberg에 따르면 주요 게임사 가운데 AI로 게임 대부분을 만들려 한 곳은 지금까지 없었다. Disney는 2024년 Epic에 15억 달러를 투자했고, 이 슈터는 두 회사가 함께 만드는 첫 게임이 될 예정이었다."
         }
       ]
+    },
+    "games/games-shogun2-upscale": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-slop9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2011년 고전의 “업데이트·강화된 완전판”으로 10월 13일 나온 재출시작(re-release) Total War: Shogun 2 – Complete Edition은 Steam에서 24시간 동안 부정 평가 82퍼센트를 받아 Overwhelmingly Negative(압도적으로 부정적)에 머물러 있다. 플레이어들은 성능과 버그, 망가진 모드 지원, 그래픽 문제를 꼬집고, 유닛 카드에 AI 업스케일링을 (밝히지 않고) 썼다는 의혹도 제기한다. Sega는 이전 버전 판매도 중단하고 가격을 올렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-2.jpg",
+          "cap": "왼쪽이 원본, 오른쪽이 새 버전"
+        },
+        {
+          "t": "p",
+          "x": "Kotaku가 백과사전 이미지를 원본과 비교해 보니 디테일은 사라지고 인물은 뭉개졌다. 연기는 “전등갓”이, 유닛 엠블럼은 “일종의 art-deco 해파리”가 됐다. Kotaku는 “genAI가 아니라면 설명할 수 없다”고 썼다. Creative Assembly는 AI 사용 여부에 답하지 않았다. Steam에 AI 사용을 고지하지 않은 것은 Valve 규정 위반이다."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-1.jpg"
+        }
+      ]
+    },
+    "games/games-playgama-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Playgama.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Playgama가 AI 에이전트로 만든 게임의 반복 개발 주기를 통째로 지원하는 도구 모음을 내놓는다. 개발자가 Claude Code나 Codex 안에서 에이전트에게 게임 퍼블리싱을 요청하면 게임이 곧장 Playgama Sandbox에 올라가 사람들이 바로 플레이할 수 있다. 에이전트는 공유 가능한 라이브 링크를 돌려준다."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Full-iteration-loop-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "플랫폼은 플레이 시간, 성능, 리텐션과 커스텀 이벤트를 추적한다. 에이전트는 MCP로 이 데이터를 가져와 플레이어가 빠져나가는 지점을 찾아 고치고 새 빌드를 올린다. 반응이 좋은 게임은 playgama.com으로 옮겨져 15+ 개 인스턴트 플레이(instant-play) 플랫폼의 잠재 이용자 450M+ 명과 만난다."
+        },
+        {
+          "t": "p",
+          "x": "창업자 Dmitry Kachmar는 “다음 기회는 에이전트가 두 번째, 세 번째, 열 번째 버전에 대해 더 나은 결정을 내리도록 돕는 것”이라고 했다."
+        }
+      ]
+    },
+    "games/games-links-awakening-port": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zKaVYn62cAmA7wbgV4Krjc-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nintendo Switch용 The Legend of Zelda: Link's Awakening 리메이크를 리컴파일한 팬 제작(fan-made) PC 포트가 온라인에 올라왔다. “거의 전적으로 AI를 써서” 만든 포트다. 리컴파일 커뮤니티엔 이미 AI가 퍼져 있어 Banjo Tooie, Mario Kart Wii, Donkey Kong 64 같은 바이브 코딩(vibe-coded) 프로젝트가 나온 바 있다."
+        },
+        {
+          "t": "p",
+          "x": "개발자 Peiikai는 Reddit 게시물에서 이 정적 리컴파일 포트를 “솔직히 거의 전적으로 AI를 써서” 만들었다고 밝혔다. “AI 사용은 논란이 있다”고 인정하면서도 “이런 작업은 내 실력을 한참 넘어서고 AI 없이는 불가능했을 것”이라며, 할 수 있는 한 “책임감 있게 이끌고 있다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "포트를 쓰려면 직접 추출한 게임 덤프가 있어야 한다. 다만 GamesRadar+는 Nintendo가 Switch 에뮬레이터를 꾸준히 겨냥해 왔다고 짚는다. AI 없이 PC에서 이 게임을 즐기고 싶다면 Link's Awakening DX HD가 대안이다."
+        }
+      ]
+    },
+    "games/games-dawnwalker-actor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "The Blood of Dawnwalker 영어판에서 Coen 역을 맡은 Will de Renzy-Martin은 My Perfect Console Podcast의 TikTok 예고 영상에서 “내가 하는 일에서 가장 덜 흥미로운 부분은 내 목소리가 어떻게 들리느냐라고 생각한다”고 말했다. “생성형 AI가 복제할 수 있는 건 사실상 그것뿐”이라는 말도 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "“그건 내 성격도, 내가 현장에서 하는 것들도, 내가 내리는 선택도 복제하지 못한다… 그런 일을 하고 싶어 하지 않는[그리고 AI를 쓰려는] 감독과 프로듀서도 있겠지만, 그렇다면 그들은 무언가에서 연기를 이끌어내는 데 정말 능숙해져야 한다. 자기만의 아이디어가 있어야 한다.”"
+        },
+        {
+          "t": "p",
+          "x": "개발사 Rebel Wolves는 배우를 캐스팅하기 전 시네마틱을 구상하는 데 text-to-speech AI 도구를 썼지만, Eurogamer에 따르면 게임 안에 AI로 만든 것은 없다. 반면 Embark Studios는 The Finals와 Arc Raiders에 AI 생성(AI-generated) 음성 대사를 썼다."
+        }
+      ]
+    },
+    "games/games-xbox-labs-ai-ports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft가 새 조직 Xbox Labs를 꾸려 게임을 디컴파일·리컴파일하는 모드가 빠르게 느는 흐름을 살핀다. 이런 모드 상당수는 AI 모델로 모더의 게임 리믹스를 돕는다. Windows PC 빌드를 Apple Silicon에서 돌아가게 바꾸거나 브라우저 안에서 실행되도록 이식한 사례가 있고 Call of Duty에 스케이트보드를 넣은 모드도 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "Xbox CEO Asha Sharma는 Xbox Labs를 “새로 떠오르는 아이디어를 플레이어와 개발자가 경험할 수 있는 것으로 바꾸는 일을 하는, 게임 제작자와 엔지니어, 과학자로 이뤄진 작은 그룹”이라고 설명한다. “공개적으로 만들고, 사람들이 하는 일에서 배우며, 더 많은 사람이 플레이하고 창작하는지로 성공을 가늠하겠다.”"
+        },
+        {
+          "t": "p",
+          "x": "“에이전트는 소프트웨어를 작성하고 실행하고 테스트할 수 있어서 코딩이 에이전트의 첫 주요 작업이 됐다. 게임도 그런 속성을 많이 공유한다. 사람들은 한 해에 XBOX 게임을 720억 시간 넘게 플레이하는데, 이는 전 세계에서 코드 작성에 쓰는 것으로 추정되는 시간의 약 다섯 배다.” Sharma의 말이다. Xbox는 도구와 배운 점을 개발자와 공유할 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "더 큰 문제는 모더가 Microsoft의 IP를 가져가 무료로 풀어 놓는 디컴파일·리컴파일에 Microsoft가 어떻게 대응하느냐다. Microsoft는 기사 게재 시점까지 무단 IP 사용을 묻는 질의에 답하지 않았다."
+        }
+      ]
     }
   }
 }

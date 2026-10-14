@@ -1,103 +1,122 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "marketing",
   "picks": [
     {
-      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "title": "Shopify opens its catalog up to more AI agents",
-      "source": "The Verge",
+      "url": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
+      "title": "Meta says its GEM ads model lifted conversions 18.9% across its apps",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-10-13T19:42:42+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-      "excerpt": "Shopify says more than a billion product listings from its merchants will be available to third-party AI shopping agents, widening agentic commerce distribution beyond its existing partners.",
+      "published_iso": "2026-10-14T04:21:11.000Z",
+      "og_image": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg",
+      "excerpt": "Click-through rates rose 12% as Meta folded ad prediction for every surface into one model trained on thousands of GPUs. What can advertisers actually check?",
       "source_lang": "en",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Over a billion Shopify listings opened to third-party AI shopping agents, which turns agent chat into a sales channel that merchants have to plan for."
+      "rationale": "Meta reports concrete numbers (conversions up 18.9%, CTR up 12%) from merging ad prediction for all its surfaces into one generative model, and that changes what advertisers should expect from Meta delivery."
     },
     {
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "source": "TechCrunch",
+      "url": "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
+      "title": "LG And Magnite Launch Agentic Home Screen Ads With A Winning NFL Quarterback",
+      "source": "AdExchanger",
       "category": "marketing",
-      "published_iso": "2026-10-13T13:00:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
-      "excerpt": "American Express published an 'intent intelligence' framework so merchants can verify that an AI shopping agent's purchase matches what the cardholder actually authorized, aiming to cut disputes as agentic checkout grows.",
+      "published_iso": "2026-10-14T12:00:15+00:00",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png",
+      "excerpt": "Magnite and LG Ad Solutions announced LG smart TV home screen inventory will be available to agencies through agentic AI media buying.",
       "source_lang": "en",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Amex has published a framework that lets merchants check an agent's purchase against what the cardholder authorized. It is a concrete trust layer for agentic checkout at the point of sale."
+      "rationale": "A live launch puts LG smart TV home screen inventory up for agentic AI media buying. It is a concrete new CTV surface that buyers' agents can now purchase."
     },
     {
-      "url": "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/",
-      "title": "Salesforce trains its Koa model on 27 years of CRM workflow simulations",
-      "source": "PPC Land",
+      "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
+      "title": "Your Store Is 'Agent-Ready' By Default, We Tested 122 Shopify Stores To See What That Actually Means",
+      "source": "Search Engine Journal",
       "category": "marketing",
-      "published_iso": "2026-10-13T20:34:11+00:00",
-      "og_image": "https://ppc.land/content/images/2026/10/salesforce-koa-crm-model-choice-claude-chatgpt-switchboard.jpg",
-      "excerpt": "Salesforce's chief data officer says its Koa model was trained on simulations of 27 years of CRM sales and service workflows, while customers can still swap in Claude, ChatGPT, open or custom models for Agentforce agents.",
+      "published_iso": "2026-10-14T12:00:06+00:00",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png",
+      "excerpt": "From testing top Shopify stores, Bill Hunt found agents can build a checkout, but can't answer basic delivery or cancellation questions.",
       "source_lang": "en",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Salesforce's own Koa model for sales and service agents comes with model choice inside Agentforce. It is a concrete change to the CRM and sales-automation stack."
+      "rationale": "Original testing of 122 Shopify stores shows AI agents can build a checkout but cannot answer basic delivery or cancellation questions, which gives merchants a concrete gap to fix for agentic selling."
     },
     {
-      "url": "https://ppc.land/bannerflow-now-scores-ads-for-attention-before-any-budget-is-spent/",
-      "title": "Bannerflow now scores ads for attention before any budget is spent",
-      "source": "PPC Land",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "title": "Floqer's AI agents research sales prospects so teams don't have to",
+      "source": "TechCrunch",
       "category": "marketing",
-      "published_iso": "2026-10-12T16:04:00+00:00",
-      "og_image": "https://ppc.land/content/images/2026/10/bannerflow-creative-intelligence-attention-heatmap-projector-pitch-room.jpg",
-      "excerpt": "Bannerflow's new Creative Intelligence suite adds AI attention heatmaps and clarity scores to pre-test ad creative before launch, alongside AI image tools and plain-language feed setup; pricing and validation data are not yet disclosed.",
+      "published_iso": "2026-10-14T15:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
+      "excerpt": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
       "source_lang": "en",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "AI attention heatmaps and clarity scores pre-test ad creative before media spend. This directly changes how creative teams ship ads."
+      "rationale": "AI agents that do prospect research for B2B revenue teams are a direct change to outbound sales and lead-generation workflows."
+    },
+    {
+      "url": "https://www.digitalcommerce360.com/2026/10/12/newegg-adds-google-ucp-checkout-integration/",
+      "title": "Newegg adds Google UCP checkout integration",
+      "source": "Digital Commerce 360",
+      "category": "marketing",
+      "published_iso": "2026-10-12T22:15:02+00:00",
+      "og_image": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg",
+      "excerpt": "The electronics retailer says integrating Google's Universal Commerce Protocol will allow shoppers to discover and purchase Newegg products directly within Google Search, AI Mode and Gemini experiences.",
+      "source_lang": "en",
+      "tool": "Marketing",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "A major retailer goes live with in-chat checkout in Google AI Mode and Gemini through UCP. It is a concrete merchant adoption of agentic commerce, separate from Google's own 10-08 hub launch."
     }
   ],
   "alternates": [
     {
-      "url": "https://ppc.land/metas-shopping-agent-must-fill-its-top-5-picks-with-well-known-merchants/",
-      "title": "Meta's shopping agent must fill its top 5 picks with well-known merchants",
-      "source": "PPC Land",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-account-manager-42278.html",
+      "title": "OpenAI ChatGPT Ads Account Manager",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
-      "published_iso": "2026-10-11T18:39:16+00:00",
-      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/meta-muse-instruction-file-three-stores-spotlight-street.jpg",
-      "excerpt": "An instruction file for Meta's Muse shopping agent requires its top five product picks to come from well-known merchants, and only Meta catalog items get in-chat checkout, leaving challenger brands outside the comparison.",
+      "published_iso": "2026-10-14T07:21:00-04:00",
+      "og_image": "https://images.seroundtable.com/openai-chatgpt-ads-account-manager-email-fF84z3n4.jpg",
+      "excerpt": "OpenAI has humans who are reaching out to advertisers to help them manage their ChatGPT Ads.",
       "source_lang": "en",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Backup only. This is the 10-13 curator's dropped Muse 'well-known merchants' item (running Muse story, published 10-11/10-12), and it would also be a third PPC Land card."
+      "rationale": "Backup only. This is part of the running OpenAI agency sales push for ChatGPT Ads (Adweek, 10-10), so it is treated as a repeat."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents": {
+      "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/": {
         "verdict": "new",
-        "nearest": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+        "nearest": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/": {
+      "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/": {
         "verdict": "new",
-        "nearest": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+        "nearest": "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
         "new_action": ""
       },
-      "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/": {
+      "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/": {
         "verdict": "new",
-        "nearest": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
+        "nearest": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
         "new_action": ""
       },
-      "https://ppc.land/bannerflow-now-scores-ads-for-attention-before-any-budget-is-spent/": {
+      "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/": {
         "verdict": "new",
-        "nearest": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
+        "nearest": "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/",
+        "new_action": ""
+      },
+      "https://www.digitalcommerce360.com/2026/10/12/newegg-adds-google-ucp-checkout-integration/": {
+        "verdict": "new",
+        "nearest": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
         "new_action": ""
       }
     },
-    "note": "Picked 4 of 12. The pool had no fifth fresh, in-scope item, so the slot was not padded. Dropped as a repeat: PPC Land 'Meta's shopping agent must fill its top 5 picks with well-known merchants'. It continues the running Muse story (10-11 HUMAN 72%, 10-12 ad-accounts access), the 10-13 curator already dropped the same item as a repeat, and it would be a third PPC Land card. Dropped as trend, opinion or analysis with no concrete product, ruling or number: Digiday synthetic-audience briefing (history_match related to the 10-11 Digiday agentic-media piece; it was a 10-13 alternate), Digiday publishers agentic ROI (opinion; dropped 10-13 too), Retail Dive Gen Z holiday AI trends, Modern Retail brands investing in stores. Dropped because AI is not what makes the story (the headline stands without AI): Adweek OpenAI field marketing (event/field-marketing strategy), Tesco Media upfront (new ad platform with AI only 'in development'), Lowe's media network (retail media expansion; AI optimization is incidental). The picks cover 3 outlets, with PPC Land at the cap of 2."
+    "note": "Picked 5 of 15, from 5 distinct outlets. Dropped as a repeat: SER 'OpenAI ChatGPT Ads Account Manager'. Its history_match (Muse 10-11) is spurious, but the item continues OpenAI's agency sales push for ChatGPT Ads (Adweek 10-10, 'permanent line item in agency media plans') with no new product or release. Newegg UCP (history_match related to the 10-08 Merchant Center UCP hub) was kept as new because it is a distinct retailer's own go-live announcement, not more coverage of Google's hub. The SEJ Shopify test is original testing data, not a rewrite of the 10-14 Verge Shopify catalog story. Meta GEM (a unified ads model with conversion and CTR lift numbers) is a different topic from the 10-13 Meta engineering post on opportunistic inference capacity. Dropped as trend, opinion or interview with no concrete release: Digiday synthetic-audience briefing (history_match related to the 10-11 Digiday agentic-media piece), Digiday publishers agentic ROI, Digiday Ikea CMO on LLMs, Retail Dive Gen Z holiday AI trends. Dropped because AI is not what makes the story: Adweek OpenAI field marketing (event strategy for enterprise sales), Marketing Dive Lowe's media network (AI optimization is incidental), Google Blog channel priority and budget allocation (no AI in the announcement), Adweek Square kiosk (a POS hardware launch, no ads). Dropped as vendor promotion and not ad or sales: PPC Land Mirakl/NVIDIA seller onboarding (an NVIDIA-sourced claim about catalog operations)."
   }
 }

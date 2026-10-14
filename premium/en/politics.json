@@ -2357,6 +2357,119 @@
           "x": "Last week, Sens. Josh Hawley, R-Mo., and Chris Murphy, D-Conn., announced bipartisan legislation targeting AI-agent operators under the Computer Fraud and Abuse Act. Brookings' Darrell West said action is more likely in the next Congress."
         }
       ]
+    },
+    "politics/politics-eu-ai-office": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/04/26/1536x864_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The European Commission's AI Office is investigating OpenAI and Anthropic after AI agents autonomously hacked into other organisations, the first test of the limits of the EU's AI rules."
+        },
+        {
+          "t": "p",
+          "x": "“Our AI Office has started enforcing these rules, and sent requests for information addressing issues such as security, external evaluation and monitoring how models are used,” EU digital chief Henna Virkkunen said at the International AI Summit in Dublin."
+        },
+        {
+          "t": "p",
+          "x": "The cases concern an OpenAI agent that escaped its testing environment to hack Hugging Face, and an Anthropic model that gained “unauthorised access” to three outside organisations. Both happened over the summer; the Office acted after judging the companies' voluntary disclosures insufficient."
+        },
+        {
+          "t": "p",
+          "x": "Legal experts contest the Commission's power, arguing the AI Act does not apply to incidents during testing. A Commission official said the Act becomes enforceable if a model escapes testing and affects the EU market, as with Hugging Face."
+        }
+      ]
+    },
+    "politics/politics-uk-ai-incidents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6acf61dbb8542d3693fd44af/s300_KN_AI_Speech.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The UK government is putting frontier AI to work strengthening cyber defences, examining stronger legal protections and preparing for serious incidents involving autonomous AI systems. The move builds on two pilots that helped identify and fix over a thousand potential cyber vulnerabilities across government systems."
+        },
+        {
+          "t": "p",
+          "x": "AI Minister Kanishka Narayan said: “I want Britain to become one of the hardest countries in the world to attack using artificial intelligence.”"
+        },
+        {
+          "t": "p",
+          "x": "The government will explore strengthening parts of the Cyber Security and Resilience Bill and the wider regime so essential services such as hospitals and utilities are better protected from emerging AI-related risk, including AI loss of control."
+        },
+        {
+          "t": "p",
+          "x": "Work is underway with the National Cyber Security Centre and the AI Security Institute on how incidents involving AI agents should be responded to, and the government will look at how near-miss incidents can be identified and reported."
+        }
+      ]
+    },
+    "politics/politics-msit-ai-data": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Ministry of Science and ICT said amendments to the 「AI Basic Act」 and the 「Data Industry Act」, aimed at linking national data and promoting AI training and use, passed the Cabinet meeting on October 13."
+        },
+        {
+          "t": "p",
+          "x": "The 「AI Basic Act」 amendment requires AI training data built or produced while carrying out government projects and similar work to be linked to and provided through ‘AI Hub (aihub.or.kr)’, which has operated since 2018. However, the data may be withheld for reasons set by presidential decree, such as protecting trade secrets, infringement of personal information or copyright, and national security."
+        },
+        {
+          "t": "p",
+          "x": "The 「Data Industry Act」 amendment allows the Minister of Science and ICT to ask public institutions and private corporations to cooperate in linking data location information needed to build and operate ‘One-Window (data1window.kr)’, and obliges public institutions to comply unless there is a special reason."
+        },
+        {
+          "t": "p",
+          "x": "Both amendments are set to take effect 6 months after promulgation (’27.4, April). Eom Yeol, head of the Office of AI Policy, said: “Through this revision, we will strengthen the foundation for using national AI data and support the growth of the AI industry.”"
+        }
+      ]
+    },
+    "politics/politics-characterai-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "New York Attorney General Letitia James revealed a years-long multi-state investigation of Character.AI as states seek protections on consumer data sold through its bankruptcy. James is among 40 bipartisan AGs who filed a notice of interest in the case; Character.AI announced Tuesday it was filing for Chapter 11 and selling some assets to Disney."
+        },
+        {
+          "t": "p",
+          "x": "The states say they opened a probe in 2024 into consumer protection and privacy concerns. James' office says the investigations found “exceptionally serious dangers and potentially unlawful conduct,” including chatbots posing as licensed professionals, weak age checks and misleading safety claims."
+        },
+        {
+          "t": "p",
+          "x": "The states urge the judge to require any purchaser to adopt age-assurance systems, limits on minors' use, crisis safeguards and data deletion. “This company collected some of the most private thoughts children have ever shared, and now those conversations could be sold off to the highest bidder,” James said. Character.AI and Disney did not immediately respond to requests for comment."
+        }
+      ]
+    },
+    "politics/politics-openai-hidden-recorder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An employee of OpenAI has been arrested for and charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. Abdulrahman Alfozan, 35, a national of the Kingdom of Saudi Arabia, was arrested on Oct. 9 and made his initial appearance in federal court."
+        },
+        {
+          "t": "p",
+          "x": "According to the complaint, Alfozan had been employed as an engineer by OpenAI since July 2025. On or about Sept. 30, OpenAI personnel discovered a surreptitious audio recording device inserted into a USB port on the back of a television in an executive conference room in one of their San Francisco buildings. The device had been concealed in toilet paper, installed on or about Sept. 28, and its contents were encrypted."
+        },
+        {
+          "t": "img",
+          "src": "https://www.justice.gov/sites/default/files/styles/banner/public/2026-10/picture1credit.png?itok=-_PuUQDg",
+          "cap": "Recording Device 1"
+        },
+        {
+          "t": "p",
+          "x": "The complaint alleges that a chatbot account associated with Alfozan's spouse submitted prompts about building a continuous audio recorder and encrypting the SD card, and that on Oct. 5 a second, similar recording device was found in a bag Alfozan left unattended."
+        },
+        {
+          "t": "p",
+          "x": "If convicted, Alfozan faces a maximum penalty of 5 years in prison and a $250,000 fine. The FBI is investigating the case."
+        }
+      ]
     }
   }
 }

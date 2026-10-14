@@ -1,76 +1,76 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "medicine",
   "picks": [
     {
-      "url": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
-      "title": "Government backs recommendations of NHS doctors-led AI Commission",
-      "source": "GOV.UK (DHSC/MHRA)",
+      "url": "https://www.gov.uk/government/news/mhra-2030-strategy-to-modernise-patient-centred-regulation-for-the-era-of-ai-and-personalised-medicines",
+      "title": "MHRA 2030 Strategy to modernise patient-centred regulation for the era of AI and personalised medicines",
+      "source": "GOV.UK (MHRA)",
       "category": "medicine",
-      "published_iso": "2026-10-06T07:00:00+01:00",
+      "published_iso": "2026-10-14T10:00:03+01:00",
       "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "excerpt": "Ministers back independent Commission's blueprint in full, while the MHRA's AI Airlock opens its next phase,",
+      "excerpt": "The Medicines and Healthcare products Regulatory Agency (MHRA) has set out ambitious plans to translate cutting-edge scientific and technological innovation into better health outcomes for patients across all four nations of the UK, in its 2030 Strategy published today.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "Primary government release: the UK backs the NHS doctors-led AI Commission's blueprint in full, and the MHRA AI Airlock regulatory sandbox opens its next phase. This is a regulatory event that reaches clinicians and device makers."
+      "rationale": "This is a primary regulator release. The UK medicines and devices regulator published its 2030 strategy, which resets how AI and personalised medicines are regulated for patients across the UK."
     },
     {
-      "url": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
-      "title": "AI on par with radiologists for finding prostate cancer on MRI",
-      "source": "AuntMinnie",
+      "url": "https://www.nature.com/articles/s41586-026-11162-7",
+      "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
+      "source": "Nature",
       "category": "medicine",
-      "published_iso": "2026-10-13T18:35:33Z",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/images-radiol262081fig4.pob9FETYpU.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
-      "excerpt": "A large-scale study of over 22,000 prostate MRI exams found that artificial intelligence achieved diagnostic performance comparable to radiologists for detecting prostate cancer, suggesting AI could help address radiologist shortages.",
+      "published_iso": "2026-10-14T00:00:00Z",
+      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png",
+      "excerpt": "Artificial intelligence-enabled quantification and analyses of brown adipose tissue (BAT) activity uncover links between BAT and a healthier metabolic profile along with lower rates of psychiatric disease, and can identify pharmacologic agents that could be repurposed to activate this tissue in huma",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "A study of more than 22,000 prostate MRI exams finds AI detection on par with radiologists. It is fresh, large-scale diagnostic evidence that bears directly on radiologist shortages."
+      "rationale": "In this Nature paper, AI measures brown-fat activity on clinical scans at scale. That links it to metabolic and psychiatric outcomes and surfaces existing drugs that could be repurposed, so it is clinical-cohort work with named disease endpoints."
     },
     {
-      "url": "https://www.nature.com/articles/s41591-026-04680-4",
-      "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
-      "source": "Nature Medicine",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
+      "title": "Bradford skin cancer waiting times cut by new AI technology",
+      "source": "BBC News",
       "category": "medicine",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04680-4/MediaObjects/41591_2026_4680_Fig1_HTML.png",
-      "excerpt": "A small epilepsy monitoring study shows that a moderated, large language model-based chat interface lets patients converse with their electroencephalography monitoring in real time, using a smartphone, and patient feedback cut seizure-detector false alarms by about 80% without clinician input.",
+      "published_iso": "2026-10-05T05:15:56.014Z",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
+      "excerpt": "Clinic can now see more patients and get results faster thanks to new scanning technology.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Nature Medicine study in which patients talk to their own EEG monitoring through an LLM chat. Their feedback cut seizure-detector false alarms by about 80%, a new patient-in-the-loop care model."
+      "rationale": "An NHS skin-cancer clinic in Bradford now uses AI scanning in routine care and has cut its waiting times. Patients are already getting faster results."
     },
     {
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013809",
-      "title": "식약처, 임상시험 자료 2672건 외부 접근 노출...AI로 인증 없이 다운",
-      "source": "의학신문(bosa)",
+      "url": "https://www.nature.com/articles/s41746-026-03152-w",
+      "title": "Electronic health record developer adherence to federal AI risk transparency requirements - npj Digital Medicine",
+      "source": "npj Digital Medicine (Nature)",
       "category": "medicine",
-      "published_iso": "2026-10-13T14:09:31+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3013809_414716_84.jpg",
-      "excerpt": "[의학신문·일간보사=이재원 기자] 식품의약품안전처가 운영하는 의약품안전나라에서 임상시험 결과 문서 2672건을 별도 인증 없이 외부에서 내려받을 수 있었던 것으로",
-      "source_lang": "ko",
+      "published_iso": "2026-10-14T00:00:00Z",
+      "og_image": "",
+      "excerpt": "We evaluated electronic health record developer compliance with federal transparency requirements for AI-enabled predictive decision support interventions. Developers are required to publicly report on risk analysis, mitigation, governance, and on eight other attributes. Across 35 developers, report",
+      "source_lang": "en",
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Korea's drug regulator (MFDS) left 2,672 clinical-trial result documents downloadable without authentication, and they could be pulled with AI. It is a regulator-level data-security failure with direct trial and patient-data stakes."
+      "rationale": "The study audits 35 EHR developers against the federal rules requiring them to disclose AI risk for decision-support tools. It shows how well the rule clinicians rely on is actually being followed."
     },
     {
-      "url": "https://www.nature.com/articles/s41551-026-01812-6",
-      "title": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
-      "source": "Nature Biomedical Engineering",
+      "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
+      "title": "Lobbyists and trade groups fight to shape how states regulate medical AI",
+      "source": "STAT",
       "category": "medicine",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-026-01812-6/MediaObjects/41551_2026_1812_Fig1_HTML.png",
-      "excerpt": "Continual learning, a privacy-preserving approach, was shown to be effective in addressing a critical gap in paediatric AI by adapting a deep learning model for adult endotracheal tube assessment to neonatal care.",
+      "published_iso": "2026-10-14T08:30:00+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg",
+      "excerpt": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "International multicentre study that adapts an adult endotracheal-tube X-ray model to newborns with privacy-preserving continual learning. It addresses the pediatric AI gap in NICU care."
+      "rationale": "STAT reports how the AMA, hospital groups and trade groups are pushing state rules on autonomous clinical AI. Those rules will decide what AI can do without a physician."
     }
   ],
   "alternates": [
@@ -86,51 +86,51 @@
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "An academic medical center partnering with an AI vendor. It is a relevant adoption story but a partnership announcement with no concrete care change yet, so it is the first alternate."
+      "rationale": "An academic medical center is partnering with an AI vendor, but no concrete change to care has been announced yet. It is the first alternate."
     },
     {
-      "url": "https://www.nature.com/articles/s41746-026-03351-5",
-      "title": "From authoring to editing: a competency framework for trainee use of ambient AI clinical documentation",
-      "source": "npj Digital Medicine",
+      "url": "https://kffhealthnews.org/health-industry/ai-tech-lobbying-medicare-medical-records-apps-trump-cms-slack-fda/",
+      "title": "AI, Tech Leaders Are Lobbying Trump Health Officials in a Government-Run Chat Room - KFF Health News",
+      "source": "KFF Health News",
       "category": "medicine",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Ambient AI has spread through clinical settings faster than curricula can adapt, shifting trainee documentation from authoring to editing notes.",
+      "published_iso": "2026-10-09T09:00:00+00:00",
+      "og_image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/10/GettyImages-2227770705.jpg",
+      "excerpt": "A Slack workspace managed by the Centers for Medicare & Medicaid Services has served as an extraordinary war room for AI industry insiders and Trump administration officials to launch a rapid campaign aimed at persuading Americans to manage their healthcare and medical records on apps.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "A perspective-style framework for trainees using ambient AI scribes. It has no og_image and would be a third nature.com card."
+      "rationale": "An investigation into industry lobbying of CMS. It overlaps in theme with the STAT lobbying pick and is older, so it is the second alternate."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission": {
+      "https://www.gov.uk/government/news/mhra-2030-strategy-to-modernise-patient-centred-regulation-for-the-era-of-ai-and-personalised-medicines": {
         "verdict": "new",
-        "nearest": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
+        "nearest": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
         "new_action": ""
       },
-      "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri": {
+      "https://www.nature.com/articles/s41586-026-11162-7": {
         "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/ai-solution-can-help-nearly-1-5-patients-avoid-prostate-biopsies-radnet-says",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41591-026-04680-4": {
+      "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03346-2",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.bosa.co.kr/news/articleView.html?idxno=3013809": {
+      "https://www.nature.com/articles/s41746-026-03152-w": {
         "verdict": "new",
-        "nearest": "https://www.bmj.com/content/395/bmj-2026-101119",
+        "nearest": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/10.1001/jamahealthforum.2026.4704",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41551-026-01812-6": {
+      "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/": {
         "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/medical-imaging/diagnostic-imaging/fda-clears-ai-tool-pediatric-bone-age-assessments",
+        "nearest": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
         "new_action": ""
       }
     },
-    "note": "Pool: 15 candidates, no clusters, and 3 history_match tags (all 'related'). Dropped as duplicates: STAT 'Utah health AI pilots on collision course with FDA' is analysis of the Utah pilots already published 10-07 (Healthcare Dive) and reports no new decision. Dropped as out of scope or noise: Endpoints Heidi $340M raise (funding only; seeking FDA approval is an intention, not a regulatory event); Fierce weekly rundown (mixed digest); MedCity cognitive-decline piece, MedPage 'darker side' and STAT doctor op-ed (commentary); Radiology Business 'physicians fire back at HHS secretary' (reactions to remarks, 10-01); bosa Barreleye ultrasound (vendor profile). Content checks on tagged picks: the AuntMinnie 22k-exam prostate MRI reader study is a different study from the 10-10 RadNet biopsy-avoidance product claim. The Nature Medicine EEG patient-chat comanagement study is distinct from the 10-09 npj LLM-EHR epilepsy-detection paper. Diversity: nature.com 2, gov.uk 1, auntminnie 1, bosa 1, for 4 distinct outlets. No pick touches biosecurity or gain-of-function."
+    "note": "The pool had 17 candidates, no clusters and 2 history_match tags, both 'related'. Dropped as running-story commentary: the MedCity surgical-robots piece (tagged 'related' to the 10-11 Healthcare Dive story on FDA prioritizing surgical-robot guidance) is opinion on hospital readiness for FDA draft guidance and reports no new FDA action of its own. Dropped as commentary or op-ed: MedCity cognitive decline (tagged 'related' to the 10-09 epilepsy-EHR paper but a different topic, and opinion only); MedCity agentic-AI piece; STAT doctor op-ed on AI and costs; KFF 'Who gets left behind' podcast; KFF Monitor digest. Dropped as reactions: Radiology Business 'physicians fire back at HHS secretary' (reactions to remarks from 10-01, also dropped 10-14). Dropped as minor: Brainomix e-Lung adding patient input (an extension of an existing study); MHRA DMHT working-group page (a background publication from the same outlet as the stronger MHRA 2030 Strategy pick); Nature 'Hidden signals in sleep' (news feature with no specific clinical deployment). Alternates are Johns Hopkins/OpenEvidence (partnership with no care change yet) and KFF Health News on CMS Slack lobbying (thematic overlap with the STAT pick). Content checks: the MHRA 2030 Strategy (MHRA, 10-14) is a different release from the DHSC endorsement of the NHS AI Commission published 10-14, which was dated 10-06. The STAT state-lobbying story is not a follow-up to the Utah pilots or the JAMA regulation precedent piece. The npj EHR transparency audit is a new study. Diversity: nature.com 2, gov.uk 1, bbc 1, statnews 1, for 4 distinct outlets. No pick touches biosecurity or gain-of-function."
   }
 }

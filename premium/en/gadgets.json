@@ -7845,6 +7845,143 @@
           "x": "The Edge costs $180, is available for preorder today and ships on October 27. It is Google's first repairable fitness tracker, with a replaceable battery that is not user-replaceable."
         }
       ]
+    },
+    "gadgets/gadgets-android-scam-alerts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+          "cap": "Google"
+        },
+        {
+          "t": "p",
+          "x": "Google has announced new scam protections for Android, including an opt-in setting in Messages that turns on Scam Detection, which taps Google's most advanced Gemini models to evaluate the sender's intent and warn you if messages could be coming from a bad actor. Messages are analyzed in Private AI Compute, which encrypts them and processes them in a secure space inaccessible to anybody else, even Google."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Nano will also check links in Messages on-device before you tap them. This will be available on Pixel 10+, the Galaxy S26 series, Galaxy Z Flip and Fold 8, among other select devices, rolling out in the coming weeks. Scam Detection in chat notifications is also expanding beyond Pixel, with Honor, Motorola, OPPO, OnePlus, realme, vivo and Xiaomi expected to enable it later this year."
+        },
+        {
+          "t": "p",
+          "x": "All devices on Android 15 and newer will get automatic screen-sharing privacy later this month, hiding passwords, banking information and card security numbers when Chrome or Android WebView is on screen. In early December, call forwarding protection arrives on Pixel and other select devices. In Brazil, Android verifies calls claiming to be from partner banks and has already blocked over three million fake calls since June."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-intelligence-china": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple plans to bring Apple Intelligence to China in iOS 27.3 after two years of regulatory delays, reports Bloomberg. The launch will include basic Apple Intelligence features for things like photo editing, but Siri AI won't be available. Image Playground and the newer version of Genmoji will be missing, plus text generation tools will be limited."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The South China Morning Post today reported that China's Ministry of Industry and Information Technology recently gave Apple network access permits to add Alibaba's Qwen and Tongyi Wanxiang models to the iPhone Duo, iPhone 18 Pro, and earlier iPhones, paving the way for an Apple Intelligence debut."
+        },
+        {
+          "t": "p",
+          "x": "Apple introduced the first Apple Intelligence features in iOS 18.1, but they have been missing from China since launch. Apple received initial clearance to launch Apple Intelligence in China in July, but needed additional clearance for a consumer launch."
+        },
+        {
+          "t": "p",
+          "x": "China restricts foreign AI technology, which meant Apple had to partner with Alibaba and Baidu to launch Apple Intelligence in the country. Apple also has to allow the Chinese government to approve ongoing updates to the AI models."
+        },
+        {
+          "t": "p",
+          "x": "Competing smartphone makers in China like Huawei have long offered artificial intelligence features, and Apple has been at a disadvantage without comparable tools."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-minions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+          "cap": "Apple"
+        },
+        {
+          "t": "p",
+          "x": "Apple internally uses a system called \"Minions,\" a \"virtual GPU cloud\" made up of idle Macs, as described in a recent arXiv paper by its researchers. It takes stalled AI jobs, some that once faced 10-plus-hour company GPU queues, and distributes them to Macs on the network, cutting wait times to as little as minutes. It handles AI inference only: embeddings with open-source Hugging Face models and LLM text generation through Ollama."
+        },
+        {
+          "t": "p",
+          "x": "A Minion Server splits tasks into subtasks stored in PostgreSQL; a Minion Executor on each Mac pulls the next one over REST APIs, with no central scheduler, reading inputs from Amazon S3 and running them on its own GPU. A Minion Watchdog tracks five-minute heartbeats and requeues work when a Mac sleeps, goes offline or its owner takes it back."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+          "cap": "Diagram of Apple's Minions system (Apple, AI-generated)"
+        },
+        {
+          "t": "p",
+          "x": "The paper says Minions needs no new GPU requests and zeroes infrastructure cost, not counting electricity or hardware wear. Participation is informal: team members may send Slack messages asking others to run the executor. Teams worry about data running on devices outside their group, which Apple mitigates with team- and organization-scoped deployments. The authors plan to extend Minions to model training and say idle Macs \"across the global community\" could one day form a shared GPU pool. For now it works only inside Apple."
+        }
+      ]
+    },
+    "gadgets/gadgets-hmd-flip-companion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+          "cap": "The HMD 2660 Flip Senior Edition has been announced"
+        },
+        {
+          "t": "p",
+          "x": "HMD has introduced the HMD 2660 Flip Senior Edition, a feature phone for elderly users whose standout feature is Mary, an AI-powered companion from inTouch, which HMD partnered with in March 2026. It is built into the phone, so no extra app is needed."
+        },
+        {
+          "t": "p",
+          "x": "Mary can discuss topics from history and nature to personal experiences, tell stories, play memory games and remember details from previous conversations. It speaks slowly, accommodates longer pauses and uses simple language; users open it from the menu and press the call button."
+        },
+        {
+          "t": "p",
+          "x": "The catch: the phone includes just five hours of complimentary conversations with Mary. After that, users must pay €19.90 every month to keep using it, and operator charges may apply. The subscription doesn't renew automatically, and the phone works even without it."
+        },
+        {
+          "t": "p",
+          "x": "Hardware matches the regular 2660 Flip: a 2.8-inch QVGA main display, a 1.77-inch external screen, Unisoc T107, a removable 1,450 mAh battery, IP54 and S30+. It is available through HMD's UK storefront for £79.99 in Cosy Black."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-homeview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple opened preorders for the HomeView smart home hub today. The HomeView is a 7-inch smart display and speaker that aims to be a central access point for up to six members of a family to access and control Apple’s ecosystem of devices, apps, and the Siri generative AI chatbot that’s currently in beta."
+        },
+        {
+          "t": "p",
+          "x": "Users can speak to HomeView to control smart home devices, such as telling Siri to close the smart blinds or activate smart locks. HomeView can also show a livestream for up to nine video feeds simultaneously."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+          "cap": "The Apple HomeView serving as a smart home hub."
+        },
+        {
+          "t": "p",
+          "x": "Competing with devices like the Amazon Echo Show, HomeView uses its integrated camera to identify who’s using it and show them their profile. Users can connect their profile to their Apple Intelligence-supporting iPhone or iPad to access Messages, Calendar, Reminders, and FaceTime. Apple said Siri requests can run locally or via Private Cloud Compute."
+        },
+        {
+          "t": "p",
+          "x": "The Liquid Retina (LCD) screen has a brightness range of 0.3 to 500 nits and tilts on a stainless steel hinge above the speaker base. Wall mounts made by Schneider Home start at $60."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple started taking preorders for HomeView today. It launches on November 13 for $299."
+        }
+      ]
     }
   }
 }

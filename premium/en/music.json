@@ -7246,6 +7246,95 @@
           "x": "The website is live, but the service remains in testing and isn't open for unrestricted public registration. Tencent Music has not confirmed international availability or pricing."
         }
       ]
+    },
+    "music/music-waveprompt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/discoDSP-WavePrompt.jpg"
+        },
+        {
+          "t": "p",
+          "x": "From developer discoDSP comes WavePrompt, a free AI music generation app for macOS and Windows that turns text prompts into loops, vocal phrases, and full songs."
+        },
+        {
+          "t": "video",
+          "yt": "JK03COqgigE"
+        },
+        {
+          "t": "p",
+          "x": "Alongside prompts like “funky rhythm guitar groove,” you can set Genre (34), Mood (14) and Instruments (11 sets), plus tempo, key, time signature, length and Style Strength. All generated music comes from YuE2 by Multimodal Art Projection, every result comes with a MIDI file of its score, and a piano roll lets you draw melodies and chords."
+        },
+        {
+          "t": "p",
+          "x": "Loops range from one to 16 bars; full songs run from fifteen seconds to four minutes, with custom lyrics and vocals in various languages and eleven voice types. Generation runs locally on the GPU and works offline after the initial model download: 16 GB RAM minimum (32 GB recommended), Apple Silicon with macOS Tahoe 26 or later, or Windows 10/11, plus around 10 GB of disk space."
+        },
+        {
+          "t": "p",
+          "x": "The reviewer says the app crashed on opening under macOS Tahoe 26.2, and argues text-to-music generation removes the process of making music, while noting uses such as demoing vocals, generating backing tracks to jam over, and creating samples to chop."
+        }
+      ]
+    },
+    "music/music-swift-voice-trademark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Taylor Swift’s company, TAS Rights Management, has filed applications to trademark her voice in the UK, the European Union and Australia. The new filings follow three applications submitted to the US Patent and Trademark Office in April, covering recordings of Swift saying “Hey, it’s Taylor” and “Hey, it’s Taylor Swift,” along with a photograph of her holding a pink guitar on stage."
+        },
+        {
+          "t": "p",
+          "x": "The Australian application, a sound mark for “Hey, it’s Taylor Swift,” was accepted by IP Australia on October 12, six days after it was filed, and is listed as in its opposition period. In the UK and the EU, the company filed sound mark applications on October 6, followed on October 7 by image applications for what appears to be the same stage photograph."
+        },
+        {
+          "t": "p",
+          "x": "IP attorney Josh Gerben wrote in April that registering a celebrity’s spoken voice “has not been tested in court before,” but that if a lawsuit were filed over an AI using Swift’s voice, she could claim any use that sounds like the registered trademark violates her rights. The Backstreet Boys filed a similar application in June, and Sony Music had asked platforms to remove more than 260,000 AI-generated tracks impersonating its artists by the end of September."
+        }
+      ]
+    },
+    "music/music-raye-ai-bots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Raye says scalpers used AI bots to create “hundreds of thousands of fake registrations” for the presale of her upcoming one-off show at London’s Royal Albert Hall. In a post on October 13, she said the presale — run through a sign-up page hosted by fan marketing platform co:brand — received 1.8 million sign-ups for 5,000 seats."
+        },
+        {
+          "t": "p",
+          "x": "“It is a new world we are living in now, I have never witnessed bots on this scale,” Raye wrote. Rather than risk a presale that scalpers could exploit, her team chose to manually review the sign-up list to shortlist “people we believe are real fans,” with remaining tickets going on general sale."
+        },
+        {
+          "t": "p",
+          "x": "Once the presale opened, the Royal Albert Hall’s website received 5 million access requests and fans could not complete purchases for 45 minutes, prompting an “urgent investigation,” according to IQ. A venue spokesperson told the BBC the “law needs to catch up,” as the UK government prepares legislation to ban ticket resale above face value."
+        }
+      ]
+    },
+    "music/music-deezer-ai-search-toggle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2025/10/CEO_Alexis-Lanternier_06-e1773916016680.jpg",
+          "cap": "Alexis Lanternier, CEO of Deezer"
+        },
+        {
+          "t": "p",
+          "x": "Deezer says it is introducing an on/off toggle that will let users exclude fully AI-generated music from their search results. With the toggle switched on, AI-generated tracks, albums, and their related artists will not appear; switching it off restores access."
+        },
+        {
+          "t": "p",
+          "x": "Deezer already removes tracks it detects as fully AI-generated from algorithmic recommendations and keeps them out of editorial playlists. It says it is receiving nearly 90,000 fully AI-generated tracks every day, up from 10,000 a day when it launched its detection tool in January 2025."
+        },
+        {
+          "t": "p",
+          "x": "On peak days, fully AI-generated tracks account for more than 50% of all new music delivered to Deezer, though they generate only 1% to 3% of streams. The company says up to 85% of streams generated by fully AI-generated tracks in 2025 were fraudulent."
+        },
+        {
+          "t": "p",
+          "x": "“We’ve seen a clear user demand for the ability to filter out AI-generated music,” said CEO Alexis Lanternier. Deezer cited an Ipsos survey from November 2025 in which 45% of music streaming users said they “would like to filter out 100% AI-generated music.”"
+        },
+        {
+          "t": "p",
+          "x": "Deezer says it detected more than 42 million AI-generated tracks between January 2025 and August 2026, and that more than 14 million albums have been tagged since it began labeling AI-generated music in June 2025."
+        }
+      ]
     }
   }
 }

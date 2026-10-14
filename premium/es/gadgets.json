@@ -7889,6 +7889,143 @@
           "x": "El Edge cuesta 180 dólares, se puede reservar desde hoy y se envía el 27 de octubre. Es el primer monitor de actividad reparable de Google, con una batería reemplazable que no puede cambiar el propio usuario."
         }
       ]
+    },
+    "gadgets/gadgets-android-scam-alerts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
+          "cap": "Google"
+        },
+        {
+          "t": "p",
+          "x": "Google ha anunciado nuevas protecciones contra estafas para Android, entre ellas un ajuste opcional en Messages que activa Scam Detection, que recurre a los modelos Gemini más avanzados de Google para evaluar la intención del remitente y avisar si los mensajes podrían venir de alguien malintencionado. Los mensajes se analizan en Private AI Compute, que los cifra y los procesa en un espacio seguro al que nadie más puede acceder, ni siquiera Google."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Nano también revisará en el dispositivo los enlaces de Messages antes de que se toquen. Estará disponible en Pixel 10+, la serie Galaxy S26, Galaxy Z Flip y Fold 8, entre otros dispositivos seleccionados, y llegará en las próximas semanas. Scam Detection en las notificaciones de chat también se amplía más allá de Pixel: se espera que Honor, Motorola, OPPO, OnePlus, realme, vivo y Xiaomi la activen a finales de este año."
+        },
+        {
+          "t": "p",
+          "x": "Todos los dispositivos con Android 15 o posterior recibirán a finales de este mes privacidad automática al compartir pantalla, que oculta contraseñas, datos bancarios y códigos de seguridad de tarjetas cuando Chrome o Android WebView están en pantalla. A principios de diciembre llegará la protección contra el desvío de llamadas a Pixel y otros dispositivos seleccionados. En Brasil, Android verifica las llamadas que dicen proceder de bancos asociados y ya ha bloqueado más de tres millones de llamadas falsas desde junio."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-intelligence-china": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple planea llevar Apple Intelligence a China en iOS 27.3 tras dos años de retrasos regulatorios, según Bloomberg. El lanzamiento incluirá funciones básicas de Apple Intelligence, como la edición de fotos, pero Siri AI no estará disponible. Faltarán Image Playground y la versión más reciente de Genmoji, y las herramientas de generación de texto serán limitadas."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "El South China Morning Post informó hoy de que el Ministerio de Industria y Tecnologías de la Información de China concedió recientemente a Apple permisos de acceso a la red para añadir los modelos Qwen y Tongyi Wanxiang de Alibaba al iPhone Duo, al iPhone 18 Pro y a iPhones anteriores, lo que abre la puerta al debut de Apple Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "Apple presentó las primeras funciones de Apple Intelligence en iOS 18.1, pero no han estado disponibles en China desde su lanzamiento. Apple recibió en julio una autorización inicial para lanzar Apple Intelligence en China, pero necesitaba una autorización adicional para el lanzamiento al público."
+        },
+        {
+          "t": "p",
+          "x": "China restringe la tecnología de AI extranjera, por lo que Apple tuvo que asociarse con Alibaba y Baidu para lanzar Apple Intelligence en el país. Apple también debe permitir que el Gobierno chino apruebe las actualizaciones continuas de los modelos de AI."
+        },
+        {
+          "t": "p",
+          "x": "Fabricantes rivales de smartphones en China, como Huawei, ofrecen desde hace tiempo funciones de inteligencia artificial, y Apple ha estado en desventaja sin herramientas comparables."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-minions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+          "cap": "Apple"
+        },
+        {
+          "t": "p",
+          "x": "Apple utiliza internamente un sistema llamado \"Minions\", una \"nube virtual de GPU\" formada por Macs inactivos, según describe un artículo reciente de sus investigadores publicado en arXiv. Toma trabajos de AI atascados, algunos de los cuales llegaron a enfrentarse a colas de GPU de la empresa de más de 10 horas (10-plus-hour), y los reparte entre los Mac de la red, lo que reduce la espera a apenas minutos. Solo se ocupa de inferencia de AI: embeddings con modelos de código abierto de Hugging Face y generación de texto con LLM mediante Ollama."
+        },
+        {
+          "t": "p",
+          "x": "Un Minion Server divide las tareas en subtareas almacenadas en PostgreSQL; un Minion Executor en cada Mac toma la siguiente a través de REST APIs, sin planificador central, lee las entradas desde Amazon S3 y las ejecuta en su propia GPU. Un Minion Watchdog sigue latidos cada cinco minutos y vuelve a poner en cola el trabajo cuando un Mac entra en reposo, se desconecta o su dueño lo recupera."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
+          "cap": "Diagrama del sistema Minions de Apple (Apple, AI-generated)"
+        },
+        {
+          "t": "p",
+          "x": "Según el artículo, Minions no requiere nuevas solicitudes de GPU y reduce a cero el coste de infraestructura, sin contar la electricidad ni el desgaste del hardware. La participación es informal: los miembros de un equipo pueden enviar mensajes de Slack pidiendo a otros que ejecuten el executor. A los equipos les preocupa que sus datos se procesen en dispositivos ajenos a su grupo, algo que Apple mitiga con despliegues limitados al equipo y a la organización. Los autores planean ampliar Minions al entrenamiento de modelos y dicen que los Macs inactivos \"de toda la comunidad global\" podrían formar algún día una reserva compartida de GPU. Por ahora solo funciona dentro de Apple."
+        }
+      ]
+    },
+    "gadgets/gadgets-hmd-flip-companion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+          "cap": "Se ha anunciado el HMD 2660 Flip Senior Edition"
+        },
+        {
+          "t": "p",
+          "x": "HMD ha presentado el HMD 2660 Flip Senior Edition, un teléfono básico para personas mayores cuya función más destacada es Mary, un compañero AI-powered de inTouch, empresa con la que HMD se asoció en marzo de 2026. Viene integrado en el teléfono, así que no hace falta ninguna app adicional."
+        },
+        {
+          "t": "p",
+          "x": "Mary puede conversar sobre temas que van de la historia y la naturaleza a las experiencias personales, contar historias, jugar a juegos de memoria y recordar detalles de conversaciones anteriores. Habla despacio, tolera pausas largas y usa un lenguaje sencillo; los usuarios lo abren desde el menú y pulsan el botón de llamada."
+        },
+        {
+          "t": "p",
+          "x": "La pega: el teléfono incluye solo cinco horas de conversación gratuita con Mary. Después, hay que pagar €19.90 al mes para seguir usándolo, y pueden aplicarse cargos del operador. La suscripción no se renueva automáticamente y el teléfono funciona incluso sin ella."
+        },
+        {
+          "t": "p",
+          "x": "El hardware es el mismo que el del 2660 Flip normal: pantalla principal QVGA de 2.8-inch, pantalla externa de 1.77-inch, Unisoc T107, batería extraíble de 1,450 mAh, IP54 y S30+. Está disponible en la tienda de HMD en UK por £79.99 en color Cosy Black."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-homeview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple abrió hoy la preventa del HomeView, su centro para el hogar inteligente. El HomeView es una pantalla inteligente con altavoz de 7 pulgadas que busca ser el punto de acceso central para que hasta seis miembros de una familia usen y controlen el ecosistema de dispositivos y apps de Apple, además de Siri, el chatbot de IA generativa que está actualmente en beta."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden hablarle al HomeView para controlar dispositivos del hogar inteligente, por ejemplo, pedirle a Siri que cierre las persianas inteligentes o que active las cerraduras inteligentes. El HomeView también puede mostrar en directo hasta nueve señales de video a la vez."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-home-touch-261013_big.jpg.large_2x-640x512.jpg",
+          "cap": "El Apple HomeView como centro del hogar inteligente."
+        },
+        {
+          "t": "p",
+          "x": "En competencia con dispositivos como el Amazon Echo Show, el HomeView usa su cámara integrada para identificar quién lo está usando y mostrarle su perfil. Los usuarios pueden vincular su perfil a un iPhone o iPad compatible con Apple Intelligence para acceder a Messages, Calendar, Reminders y FaceTime. Apple indicó que las solicitudes a Siri pueden ejecutarse en el propio dispositivo o mediante Private Cloud Compute."
+        },
+        {
+          "t": "p",
+          "x": "La pantalla Liquid Retina (LCD) tiene un rango de brillo de 0,3 a 500 nits y se inclina sobre una bisagra de acero inoxidable situada encima de la base del altavoz. Los soportes de pared fabricados por Schneider Home cuestan desde 60 dólares."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-color-family-261013-640x427.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple empezó hoy a aceptar reservas del HomeView. Saldrá a la venta el 13 de noviembre por 299 dólares."
+        }
+      ]
     }
   }
 }

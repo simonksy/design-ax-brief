@@ -1,150 +1,150 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
-      "title": "Apple’s first smart display is the 7-inch HomeView for $299",
-      "source": "Ars Technica",
+      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+      "title": "Google lets you make personal Android apps for free now – with just prompts",
+      "source": "ZDNET",
       "category": "gadgets",
-      "published_iso": "2026-10-13T15:29:17+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-HomeView-lifestyle-living-room-261013-1152x648.jpg",
-      "excerpt": "It can recognize up to six users with its camera.",
+      "published_iso": "2026-10-13T13:00:07-04:00",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+      "excerpt": "It just got a whole lot easier to vibe code the exact Android app you need - no developer experience required.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "This is the one Apple Oct 13 event pick. HomeView is Apple's first smart display, a new device category for Apple, and it uses camera face recognition to personalize Siri AI for up to six people. Pre-orders open at $299."
+      "rationale": "Google AI Studio now builds and installs personal Android apps from prompts for free. A designer could prototype a working phone app tomorrow with no developer."
     },
     {
-      "url": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
-      "title": "Samsung Smart Glasses Unveiled, and They're Superlight",
-      "source": "CNET",
+      "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
+      "title": "Android will use Gemini to warn you about scammy messages",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-10-13T16:49:05-04:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-glasses-16x9-1.jpg",
-      "excerpt": "They might be called Galaxy Glasses, and they're coming in November.",
+      "published_iso": "2026-10-14T16:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/l-intro-1791980014.jpg",
+      "excerpt": "Google will tell if you a scammer is trying to message you and will protect your banking details from prying eyes while sharing your screen.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Samsung unveiled its first Android XR AI glasses with a November launch window. It is a reveal, not a leak, and it puts a new major player in the AI-glasses race."
+      "rationale": "New Android security features: on-device Gemini flags scam messages and hides banking details during screen sharing. This is a newly announced feature, not a rehash."
     },
     {
-      "url": "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/",
-      "title": "Big surprise: Some Ray-Ban Meta owners say their glasses are listening without being asked (Updated)",
-      "source": "Android Authority",
+      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
+      "title": "Apple Intelligence Coming to China in December With iOS 27.3",
+      "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-10-13T14:49:02+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-10.11.57%E2%80%AFAM-1.jpg",
-      "excerpt": "A Ray-Ban Meta owner claims three pairs of smart glasses captured conversations without the \"Hey Meta\" wake phrase, with other owners reporting unexplained Meta AI activations; Meta says the issue has been resolved.",
+      "published_iso": "2026-10-14T20:24:43+00:00",
+      "og_image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+      "excerpt": "Apple plans to bring Apple Intelligence to China in iOS 27.3 after two years of regulatory delays, reports Bloomberg. The launch will include basic Apple Intelligence features for things like photo editing, but Siri AI won't be available. Image Playground and the newer version of Genmoji will be mis",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "This is a new privacy incident: Meta AI on the glasses activated and recorded without the wake phrase. Meta says it has fixed the issue. It is a concrete failure of the always-listening model behind AI wearables."
+      "rationale": "After two years of regulatory delay, Apple Intelligence gets a China launch date (iOS 27.3, December). Siri AI, Image Playground and the new Genmoji are left out."
     },
     {
-      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
-      "title": "Robots could get a ‘ChatGPT moment’ in the next one to two years, Unitree chief says — and it’ll be powered by OpenAI’s GPT-7",
-      "source": "TechRadar",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training",
+      "title": "Apple researchers turn idle Macs into a virtual GPU cloud with ‘Minions’",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-10-13T21:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/BtvK7dtCatVvcVcNXXjHM7-2000-80.jpg",
-      "excerpt": "Unitree’s CEO believes robotic AI could see a huge ‘ChatGPT moment’ when GPT-7 launches next year.",
+      "published_iso": "2026-10-14T11:15:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
+      "excerpt": "Can start with a simple request over Slack, but teams worry about their data running on devices outside their group.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "This is the robots pick. The CEO of the largest consumer humanoid and robot-dog maker gives a dated forecast for an embodied-AI breakthrough and ties it to OpenAI's GPT-7."
+      "rationale": "Apple researchers pool idle Macs into a shared GPU cloud that is requested over Slack. It is a new way to get local AI compute from hardware people already own."
     },
     {
-      "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-      "source": "TechCrunch",
+      "url": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html",
+      "title": "HMD brings AI companionship to a basic flip phone, complete with a recurring subscription",
+      "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-10-12T14:09:34+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?resize=1200,800",
-      "excerpt": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+      "published_iso": "2026-10-14T14:13:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
+      "excerpt": "HMD has introduced a new version of its 2660 Flip with an AI companion designed to combat loneliness among elderly users. The AI can remember previous conversations, tell stories, and even play games, but continued companionship comes with a monthly subscription fee after a five-hour free trial.",
       "source_lang": "en",
       "tool": "Gadgets",
-      "accent": "#eb367f",
+      "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "This is the wearables pick. Ultrahuman and Abu Dhabi will roll out a smart-ring biological-age model and validate it clinically over two years, taking ring data toward health-system use."
+      "rationale": "HMD launches a feature-phone version with a memory-keeping AI companion for elderly users, sold on a subscription after a five-hour trial. It is a new device and a new business model for AI hardware."
     }
   ],
   "alternates": [
     {
-      "url": "https://9to5google.com/2026/10/07/xreal-aura-with-android-xr-start-at-1279/",
-      "title": "XREAL Aura with Android XR start at $1,279",
-      "source": "9to5Google",
+      "url": "https://www.androidauthority.com/google-home-october-update-gemini-voice-commands-3723503/",
+      "title": "Gemini for Home is finally learning that ‘stop’ means stop",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-10-07T13:35:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/xreal-aura-android-xr-1.webp?resize=1200,628",
-      "excerpt": "XREAL’s first pair of Android XR glasses, XREAL Aura, finally have a price tag – $1,279. XREAL makes glasses that...",
+      "published_iso": "2026-10-14T21:32:00Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-9-scaled.jpg",
+      "excerpt": "Learning some manners.",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "This is the October Gemini for Home update, a new release that is separate from the 10-02 September update card. It would be a third Google card, so it is an alternate."
+    },
+    {
+      "url": "https://www.androidauthority.com/nothing-smart-glasses-leak-3723074/",
+      "title": "Nothing’s first smart glasses leak reveals two very different bets",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-14T11:55:23Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Nothing-Phone-3a-cameras-scaled.jpg",
+      "excerpt": "One pair reportedly skips the camera, while the other could add ChatGPT.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#3b6bff",
       "motif": "headset",
-      "rationale": "Pricing for the first Android XR glasses from XREAL. It would be a third glasses card, so it is an alternate."
+      "rationale": "This is a leak, not a launch, so it ranks lower on credibility and novelty. It is an alternate."
     },
     {
-      "url": "https://www.notebookcheck.net/Two-affordable-smart-glasses-launch-one-with-20MP-Sony-camera-one-with-tint-shift-lenses.1422819.0.html",
-      "title": "Two affordable smart glasses launch, one with 20MP Sony camera, one with tint-shift lenses",
-      "source": "Notebookcheck",
+      "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+      "title": "My Friend Has No Soul",
+      "source": "WIRED",
       "category": "gadgets",
-      "published_iso": "2026-10-13T12:49:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rogbid-smart-glasses.png",
-      "excerpt": "Rogbid launched the $139.99 VisionMax with a 20 MP camera and an AI assistant running on Alibaba’s Tongyi Qianwen and GPT-5.4 for object ID, 100-language translation and meeting transcription, plus the $69.99 camera-less VisionShift Pro.",
+      "published_iso": "2026-10-14T11:00:00.000Z",
+      "og_image": "https://media.wired.com/photos/6acdf1809f45e9dbe0c8053b/191:100/w_1280,c_limit/E4.jpg",
+      "excerpt": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#ff2d55",
       "motif": "headset",
-      "rationale": "Budget AI glasses launch at $139.99. It would be a third glasses card, so it is an alternate."
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
-      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say 'on Spotify'",
-      "source": "TechCrunch",
-      "category": "gadgets",
-      "published_iso": "2026-10-13T14:30:12+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
-      "excerpt": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#171717",
-      "motif": "headset",
-      "rationale": "Siri AI now learns your default music app. It is a second Apple-adjacent card and a software feature, so it is an alternate."
+      "rationale": "A review of the second Friend AI pendant. It overlaps the HMD AI-companion pick, so it is an alternate."
     }
   ],
   "dedup": {
     "checks": {
-      "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
-        "new_action": "Apple officially launched HomeView at its Oct 13 event, with a $299 price, pre-orders and six-person face recognition. The 09-22 MacRumors card was a rumor and the 10-09 Engadget card (https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/) only announced the event. The candidate's history_match (TechRadar robotic monitor arm, 10-09) is unrelated; MacRumors is the closer published story."
-      },
-      "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/": {
-        "verdict": "follow-up",
-        "nearest": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
-        "new_action": "Samsung unveiled the glasses with a November launch. The 10-02 Road to VR card reported only an FCC filing. The candidate's history_match (Wired Galaxy Watch9 review, 09-20) is unrelated; Road to VR is the closer published story."
-      },
-      "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/": {
+      "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
+        "nearest": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
         "new_action": ""
       },
-      "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model": {
+      "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/": {
         "verdict": "new",
-        "nearest": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+        "nearest": "https://www.engadget.com/2267415/google-photos-update-redact-tool/",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/": {
+      "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/": {
         "verdict": "new",
-        "nearest": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
+        "nearest": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
+        "new_action": ""
+      },
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training": {
+        "verdict": "new",
+        "nearest": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+        "new_action": ""
+      },
+      "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html": {
+        "verdict": "new",
+        "nearest": "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
         "new_action": ""
       }
     },
-    "note": "Apple Oct 13 event treated as one story cluster, with a single pick: Ars Technica HomeView, the strongest AI-device angle (a new category with face-recognition Siri AI). The other 13 event items are dropped as the same story: Wired HomeView x2, Gizmodo HomeView, TechRadar HomeView, Apple Newsroom, 9to5Mac facial recognition and EU, Engadget/CNET/MacRumors/Android Authority on HomePod mini 2 and Apple TV 4K, and 9to5Mac on Siri AI for older Apple TVs. Ray-Ban Meta Audio reviews (Engadget, Tom's Guide; cluster c1) are dropped as the same story as the 10-05 UploadVR Ray-Ban Meta Audio launch card. The Engadget review was tagged likely-repeat against the 10-10 Gizmodo Gen 3 review, a different model, but the launch it reviews was already published. Samsung glasses leaks (9to5Google, SamMobile; cluster c12) are dropped as within-pool duplicates of the CNET reveal, which was kept. Lower priority: Gemini publish-styles teardown (an app teardown, not a gadget) and Motorola Razr AI key (already an alternate on 10-13). XREAL Aura and Rogbid glasses are alternates to avoid a third glasses card. The final 5 come from 5 distinct outlets and cover a smart display, glasses x2, a robot and a ring."
+    "note": "Dropped as already published. Gizmodo Meta glasses recording is the same incident as the 10-14 Android Authority Ray-Ban Meta listening card. TechRadar HomeView hands-on, MacRumors 'which Apple home devices get Siri AI' and 9to5Mac 'no Siri AI on original HomePod mini' all cover the Oct 13 Apple event already published 10-14 (Ars HomeView); they are device-support clarifications, not new releases. CNET Meta Ray-Ban Audio impressions repeat the 10-05 UploadVR and 10-06 9to5Google launch cards. Tom's Guide Surface Laptop Ultra RTX Spark and Ars Microsoft event repeat the 10-08 TechCrunch/Verge and 10-10 TechRadar RTX Spark cards. Ars Amazon Alexa tablets repeats the 10-09 Engadget Alexa tablets card. 9to5Google Googlebook Linux is commentary on the platform already covered by the 10-13 Googlebook OS review. Lower priority: OneXPlayer Super X Pro (a Gorgon Halo spec bump similar to the 10-12 Notebookcheck mini-PC card), Galaxy AI language expansion, myFirst kids camera, RayNeo GT review and Insta360 webcam review (AI is peripheral in these). Alternates: Gemini for Home October update (new, but it would be a third Google card), Nothing glasses leak and WIRED Friend v2. The final 5 come from 5 distinct outlets and cover dev tools, phone security, platform rollout, distributed compute and an AI companion device."
   }
 }
