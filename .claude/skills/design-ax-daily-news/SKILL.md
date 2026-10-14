@@ -156,17 +156,22 @@ After ALL sections are rolled:
    and regenerates `archive-data.{en,ko,ja,zh,es}.js` + `archive-graph.js` (shared-keyword
    knowledge network) for the /archive page (list + #graph network view).
    `node --check archive-data.{en,ko,ja,zh,es}.js archive-graph.js` too.
-9b. **instagram 후보 20벌** — `python3 pipeline/social_daily.py`. 열 개 섹션마다
-    story 한 벌(영상이 있고 원문이 가장 두툼한 카드)과 trend 한 벌(같은 섹션을
-    이레 거슬러 모은 다섯 건)을 만들고 **구워서** 날짜 폴더에 넣는다.
-    고른 근거는 `social/instagram/DRAFTS-<date>.md` 에 적는다. 20벌을 굽는 데
-    8분쯤 걸린다.
+9b. **instagram 후보** — `python3 pipeline/social_daily.py`.
+    - **story 10벌은 기계가 만들어 굽는다** — 섹션마다 영상이 있고 원문이 가장
+      두툼한 카드 하나를 다섯 장으로 펼친다.
+    - **trend 10벌은 기계가 못 만든다.** 낱말이 겹친다고 같은 이야기가 아니다 —
+      최근 3주를 키워드로 묶으면 상위 묶음이 `대신`·`으로`·`whether` 처럼 전부
+      우연이다. 그래서 스크립트는 섹션별 최근 카드 목록만 `DRAFTS-<date>.md` 에
+      내놓고, **그것을 읽고 한 전선으로 읽히는 것만 골라 묶는 일은 에이전트가
+      직접 한다.** 첫 장의 요점 한 줄(`thread_note`)과 제목·본문은 반드시 쓴다 —
+      그게 없으면 사람이 보고 고를 수가 없다.
+    - 이미 쓰인 썸네일은 피한다(`pipeline/social_media_test.py` 가 막는다).
+    - 묶은 뒤 `python3 social/instagram/render.py <폴더>` 로 굽는다. 20벌에 8분쯤.
 
-    **고르라고 만드는 것이지 그대로 올리라고 만드는 게 아니다.** 제목·썸네일·
-    구성이 보이므로 "이 주제가 올릴 값이 있나"는 판단되지만, 글은 카드 요약을
-    줄인 것이라 숫자와 날짜를 잃는다. 올릴 두 벌을 정해 폴더 앞에 `!`를 붙이면
-    그 두 벌만 원문을 받아 대조하고 다시 쓴 뒤 올린다(`publish.py`).
-    `social/` 과 `ig/` 는 배포 더티 체크에서 빠져 있어 이 표시가 발행을 막지 않는다.
+    **고르라고 만드는 것이지 그대로 올리라고 만드는 게 아니다.** 올릴 두 벌을
+    정해 폴더 앞에 `!` 를 붙이면 그 두 벌만 원문을 받아 숫자를 대조하고 글을
+    다시 쓴 뒤 올린다(`publish.py`). `social/` 과 `ig/` 는 배포 더티 체크에서
+    빠져 있어 이 표시가 아침 발행을 막지 않는다.
 
 10. **verify render over HTTP** (not file://). Serve `python3 -m http.server 8765` and confirm the small app's section TABS switch the hero deck per section. Screenshot → `pipeline/runs/<date>/render.png`.
 11. **commit + deploy.** Commit the run to `main` and `git push origin main`, THEN run

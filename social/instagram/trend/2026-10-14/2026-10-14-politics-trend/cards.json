@@ -1,106 +1,106 @@
 {
   "meta": {
-    "issue": "TODO: 꿰어야 보이는 문장",
+    "issue": "의회에선 규제를 자청하고, 선거자금은 반대로 간다",
     "date": "2026.10.14",
     "section": "POLITICS",
     "accent": "#9aa8c7",
-    "note": "자동 초안(뼈대). 어느 것이 한 전선으로 읽히는지는 사람이 고른다.",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
     "sources": [
-      "https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690",
+      "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
+      "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+      "https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/",
       "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-      "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-      "https://www.lawfaremedia.org/article/the-many-open-questions-about-the-trump-administration-s-new-de-facto-ai-model-licensing-system",
-      "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649"
+      "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/"
     ]
   },
   "cards": [
     {
+      "n": 1,
       "kind": "thread",
       "thread_badge": "이슈 트렌드",
-      "thread_cap": "5건 · 정책",
+      "thread_cap": "5건 · 정책 · 10.09~10.14",
       "thread": [
         {
-          "d": "10.13",
-          "t": "US 성인…",
+          "d": "10.9",
+          "t": "ICO 약속",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.11",
+          "t": "반발 대비",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.12",
+          "t": "미중 협력론",
           "c": "#9aa8c7",
           "s": "POLITICS"
         },
         {
           "d": "10.14",
-          "t": "UK 의회서…",
+          "t": "규제 자청",
           "c": "#9aa8c7",
           "s": "POLITICS"
         },
         {
           "d": "10.14",
-          "t": "Pro-AI…",
-          "c": "#9aa8c7",
-          "s": "POLITICS"
-        },
-        {
-          "d": "10.14",
-          "t": "기밀 AI…",
-          "c": "#9aa8c7",
-          "s": "POLITICS"
-        },
-        {
-          "d": "10.14",
-          "t": "시민단체…",
+          "t": "PAC 거액",
           "c": "#9aa8c7",
           "s": "POLITICS"
         }
       ],
-      "thread_note": "TODO: 이 흐름의 요점 한 줄",
+      "thread_note": "같은 날 의회에서는 규제를 자청하고, 선거자금은 규제를 막는 쪽으로 갔다",
       "eyebrow": "흐름 · 정책",
-      "headline": "시민단체 \"난민 AI 다섯 건 중 한 건…",
-      "body": "TODO: 왜 한 건으로는 안 보이는지",
-      "foot": "밀어서 보기 →",
-      "n": 1
+      "headline": "규제해 달라면서, 막는 쪽에 돈을 댄다",
+      "body": "엿새 사이 다섯 건을 겹치면 한쪽 말만 듣고는 안 보이는 그림이 나온다.",
+      "foot": "밀어서 보기 →"
     },
     {
+      "n": 2,
       "kind": "photo",
-      "eyebrow": "2026.10.13",
-      "headline": "US 성인 절반, 챗봇 안 써",
-      "body": "Pew 조사 결과 U.S. 성인 51%는 AI 챗봇을 아예 쓰지 않는다고 답했다.",
-      "foot": "2026.10.13",
-      "media": "pipeline/media/politics-pew-chatbot-nonusers-51pct.jpg",
-      "n": 2
+      "eyebrow": "2026.10.09",
+      "headline": "영국 ICO, AI 데이터 약속 확보",
+      "body": "ICO에 따르면 AI 개발사 열 곳이 개인정보 학습 방식을 바꿨거나 바꾸기로 했다.",
+      "foot": "2026.10.09",
+      "media": "pipeline/media/politics-uk-ico-ai-training-data-pledges.jpg"
     },
     {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.11",
+      "headline": "AI 업계, 반발 대비",
+      "body": "Anthropic·OpenAI 경영진이 AI 참사 뒤 닥칠 역풍에 은밀히 대비한다.",
+      "foot": "2026.10.11",
+      "media": "pipeline/media/ai-labs-backlash-plans.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.12",
+      "headline": "US-China AI 안전 협력론",
+      "body": "Marina Yue Zhang은 신뢰 없이도 AI 안전 협력이 가능하다고 본다.",
+      "foot": "2026.10.12",
+      "media": "pipeline/media/us-china-ai-safety-cooperation.jpg"
+    },
+    {
+      "n": 5,
       "kind": "photo",
       "eyebrow": "2026.10.14",
       "headline": "UK 의회서 OpenAI와…",
       "body": "OpenAI·Anthropic은 AI 규제법을 요청했고 Meta는 지지하지 않았다.",
       "foot": "2026.10.14",
-      "media": "pipeline/media/politics-uk-mps-ai-labs-regulate.jpg",
-      "n": 3
+      "media": "pipeline/media/politics-uk-mps-ai-labs-regulate.jpg"
     },
     {
+      "n": 6,
       "kind": "photo",
       "eyebrow": "2026.10.14",
       "headline": "Pro-AI PAC 거액, Nevada…",
       "body": "Leading the Future 지원 Nevada 업체는 유령회사로 의심받는다.",
       "foot": "2026.10.14",
-      "media": "pipeline/media/politics-pro-ai-pac-nevada.jpg",
-      "n": 4
-    },
-    {
-      "kind": "photo",
-      "eyebrow": "2026.10.14",
-      "headline": "기밀 AI 프레임워크 풀리지 않은 질문들",
-      "body": "Adam Conner는 Lawfare에서 기밀 AI 틀이 사실상 면허제라고 봤다.",
-      "foot": "2026.10.14",
-      "media": "pipeline/media/politics-ai-framework-licensing-questions.jpg",
-      "n": 5
-    },
-    {
-      "kind": "photo",
-      "eyebrow": "2026.10.14",
-      "headline": "시민단체 \"난민 AI 다섯 건 중 한 건…",
-      "body": "Open Rights Group은 AI 요약 203건 중 45건이 불합격이라 했다.",
-      "foot": "2026.10.14",
-      "media": "pipeline/media/politics-home-office-asylum-ai.jpg",
-      "n": 6
+      "media": "pipeline/media/politics-pro-ai-pac-nevada.jpg"
     },
     {
       "kind": "outro",

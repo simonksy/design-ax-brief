@@ -1,106 +1,106 @@
 {
   "meta": {
-    "issue": "TODO: 꿰어야 보이는 문장",
+    "issue": "사는 쪽이 사람이 아니게 되면 광고는 무엇이 되나",
     "date": "2026.10.14",
     "section": "MARKETING",
     "accent": "#ff8a3d",
-    "note": "자동 초안(뼈대). 어느 것이 한 전선으로 읽히는지는 사람이 고른다.",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
     "sources": [
+      "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
+      "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
+      "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
       "https://retailtechinnovationhub.com/home/2026/10/11/first-for-thg-commerce-as-it-brings-criteo-sponsored-products-to-ai-shopping-assistant-solution",
-      "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
-      "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/",
-      "https://ppc.land/bannerflow-now-scores-ads-for-attention-before-any-budget-is-spent/"
+      "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
     ]
   },
   "cards": [
     {
+      "n": 1,
       "kind": "thread",
       "thread_badge": "이슈 트렌드",
-      "thread_cap": "5건 · 마케팅",
+      "thread_cap": "5건 · 마케팅 · 10.10~10.14",
       "thread": [
         {
-          "d": "10.13",
-          "t": "THG AI…",
+          "d": "10.10",
+          "t": "대행사 공략",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.11",
+          "t": "트래픽 선두",
           "c": "#ff8a3d",
           "s": "MARKETING"
         },
         {
           "d": "10.13",
-          "t": "Meta…",
+          "t": "DSP 넷",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.13",
+          "t": "비서에 광고",
           "c": "#ff8a3d",
           "s": "MARKETING"
         },
         {
           "d": "10.14",
-          "t": "Amex…",
-          "c": "#ff8a3d",
-          "s": "MARKETING"
-        },
-        {
-          "d": "10.14",
-          "t": "Salesf…",
-          "c": "#ff8a3d",
-          "s": "MARKETING"
-        },
-        {
-          "d": "10.14",
-          "t": "Banner…",
+          "t": "구매 확인",
           "c": "#ff8a3d",
           "s": "MARKETING"
         }
       ],
-      "thread_note": "TODO: 이 흐름의 요점 한 줄",
+      "thread_note": "사는 쪽이 사람이 아니게 되자, 파는 쪽이 문을 열지 잠글지부터 정하고 있다",
       "eyebrow": "흐름 · 마케팅",
-      "headline": "Bannerflow AI로 광고 주목도…",
-      "body": "TODO: 왜 한 건으로는 안 보이는지",
-      "foot": "밀어서 보기 →",
-      "n": 1
+      "headline": "에이전트가 사기 시작했다",
+      "body": "닷새 사이 다섯 건이 같은 질문에 닿는다. 광고를 보는 것도 누르는 것도 사람이 아니면, 무엇을 성과라 부르나.",
+      "foot": "밀어서 보기 →"
     },
     {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "OpenAI, 광고대행사 공략",
+      "body": "OpenAI가 대행사 영업을 전담할 Agency Partner를 뽑는다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/openai-chatgpt-ads-agency-partner.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.11",
+      "headline": "Muse, AI 에이전트 트래픽 선두",
+      "body": "HUMAN Security 집계로는 AI 에이전트 요청 72%가 Muse 몫이다.",
+      "foot": "2026.10.11",
+      "media": "pipeline/media/muse-agent-traffic.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "Olyzon 에이전트, DSPs 네 곳 연결",
+      "body": "Olyzon 에이전트가 DV360 등 DSP 네 곳을 오가며 CTV 예산을 옮긴다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/marketing-olyzon-ctv-four-dsps.jpg"
+    },
+    {
+      "n": 5,
       "kind": "photo",
       "eyebrow": "2026.10.13",
       "headline": "THG AI 비서에 Criteo 광고",
       "body": "THG가 Gemini-built AI 비서에 유럽 첫 Criteo 광고를 붙였다.",
       "foot": "2026.10.13",
-      "media": "pipeline/media/marketing-thg-criteo-ai-assistant.png",
-      "n": 2
+      "media": "pipeline/media/marketing-thg-criteo-ai-assistant.png"
     },
     {
-      "kind": "photo",
-      "eyebrow": "2026.10.13",
-      "headline": "Meta 광고, 유휴 AI 용량 활용",
-      "body": "Meta가 두 가지 탄력성 레버로 놀던 추론 용량을 광고 추천에 돌린다.",
-      "foot": "2026.10.13",
-      "media": "pipeline/media/marketing-meta-idle-inference-ads.png",
-      "n": 3
-    },
-    {
+      "n": 6,
       "kind": "photo",
       "eyebrow": "2026.10.14",
       "headline": "Amex, AI 에이전트 구매에 확인 장치",
       "body": "Amex 새 체계는 AI 에이전트 결제 전 카드 회원의 구매 의도를 검증한다.",
       "foot": "2026.10.14",
-      "media": "pipeline/media/marketing-amex-agent-purchase-intent.jpg",
-      "n": 4
-    },
-    {
-      "kind": "photo",
-      "eyebrow": "2026.10.14",
-      "headline": "Salesforce Koa 27년…",
-      "body": "Salesforce는 27년 CRM 경험으로 Koa를 훈련했고 모델 선택은 자유다.",
-      "foot": "2026.10.14",
-      "media": "pipeline/media/marketing-salesforce-koa-crm-model.jpg",
-      "n": 5
-    },
-    {
-      "kind": "photo",
-      "eyebrow": "2026.10.14",
-      "headline": "Bannerflow AI로 광고 주목도…",
-      "body": "Bannerflow는 AI 주목도 히트맵과 명확성 점수로 광고를 미리 검증한다.",
-      "foot": "2026.10.14",
-      "media": "pipeline/media/marketing-bannerflow-attention-scoring.jpg",
-      "n": 6
+      "media": "pipeline/media/marketing-amex-agent-purchase-intent.jpg"
     },
     {
       "kind": "outro",

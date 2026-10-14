@@ -194,7 +194,7 @@ def main():
     date = a.date or datetime.date.today().isoformat()
     data = json.load(open(a.data, encoding="utf-8"))
     taken = used_media()
-    made, report = [], []
+    made, report, digest = [], [], []
 
     for sec in SECTIONS:
         s = (data.get("sections") or {}).get(sec) or {}
@@ -217,27 +217,13 @@ def main():
                 taken.add(rel)
         report.append((sec, "story", slug, fit(ko_text(pick, "headline"), 40)))
 
-        # trend — 같은 섹션을 며칠 거슬러 모은다. 날짜가 벌어져야 흐름으로 읽힌다.
-        pool = []
+        # trend 는 기계가 못 고른다. 낱말이 겹친다고 같은 이야기가 아니다 —
+        # 최근 3주를 키워드로 묶어 보면 상위 묶음이 '대신'·'으로'·'whether' 처럼
+        # 전부 우연이다. 그래서 **읽을 거리만 내놓고** 묶는 일은 사람이 한다.
         for day in (s.get("days") or [])[-TREND_SPAN:] + [today]:
             for c in day.get("cards", []):
-                if c["id"] == pick["id"] or media_for(c["id"])[1] in taken:
-                    continue
-                pool.append(dict(c, date=day.get("date", date)))
-        picks = pool[-5:]
-        if len(picks) >= 3:
-            tslug = f"{date}-{sec}-trend"
-            if write_post("trend", date, tslug, trend_spec(sec, date, picks)):
-                made.append(("trend", tslug))
-                for c in picks:
-                    r = media_for(c["id"])[1]
-                    if r:
-                        taken.add(r)
-            report.append((sec, "trend", tslug,
-                           f"{len(picks)}건 · " + " / ".join(
-                               fit(ko_text(c, 'headline'), 16) for c in picks[:3])))
-        else:
-            report.append((sec, "trend", None, "꿸 카드가 모자라다"))
+                digest.append((sec, day.get("date", date), c["id"],
+                               media_for(c["id"])[0] or "-", ko_text(c, "headline")))
 
     for kind, slug in made:
         post = os.path.join(SOCIAL, kind, date, slug)
@@ -265,9 +251,21 @@ def main():
              "bash pipeline/deploy.sh",
              "python3 social/instagram/publish.py",
              "```", "",
-             "| 섹션 | 형식 | 폴더 | 내용 |", "|---|---|---|---|"]
+             "## story — 기계가 고른 것", "",
+             "| 섹션 | 폴더 | 내용 |", "|---|---|---|"]
     for sec, kind, slug, note in report:
-        lines.append(f"| {KO.get(sec, sec)} | {kind} | `{slug or '—'}` | {note} |")
+        lines.append(f"| {KO.get(sec, sec)} | `{slug or '—'}` | {note} |")
+    lines += ["", "## trend — 읽고 묶을 거리", "",
+              "낱말로는 못 묶는다. 최근 3주를 키워드로 묶어 보면 상위 묶음이",
+              "`대신`·`으로`·`whether` 처럼 전부 우연이다. 아래를 읽고 **한 전선으로",
+              "읽히는 것만** 골라 묶은 뒤, 첫 장의 요점 한 줄을 직접 쓴다.", ""]
+    cur = None
+    for sec, dt, cid, m, head in digest:
+        if sec != cur:
+            lines += ["", f"### {KO.get(sec, sec)}", "", "```"]
+            cur = sec
+        lines.append(f"{dt[5:]} {m} {cid[:38]:38} {head[:40]}")
+    lines.append("```")
     open(os.path.join(SOCIAL, f"DRAFTS-{date}.md"), "w", encoding="utf-8").write(
         "\n".join(lines) + "\n")
     print(f"\n새로 만든 회차 {len(made)}벌 · 안내: social/instagram/DRAFTS-{date}.md")

@@ -1,106 +1,90 @@
 {
   "meta": {
-    "issue": "TODO: 꿰어야 보이는 문장",
+    "issue": "AI 이식이 하룻밤 일이 되자, 팬들이 식었다",
     "date": "2026.10.14",
     "section": "GAMES",
     "accent": "#2ec5c5",
-    "note": "자동 초안(뼈대). 어느 것이 한 전선으로 읽히는지는 사람이 고른다.",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
     "sources": [
-      "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
-      "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team/",
-      "https://wccftech.com/nvidia-dlss-5-runs-faster-reduces-vram-use-coming-to-hogwarts-legacy-where-winds-meet/",
-      "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
-      "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai"
+      "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/",
+      "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/",
+      "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/"
     ]
   },
   "cards": [
     {
+      "n": 1,
       "kind": "thread",
       "thread_badge": "이슈 트렌드",
-      "thread_cap": "5건 · 게임",
+      "thread_cap": "4건 · 게임 · 10.09~10.14",
       "thread": [
         {
-          "d": "10.13",
-          "t": "호리이 유지…",
+          "d": "10.9",
+          "t": "팬 포팅",
           "c": "#2ec5c5",
           "s": "GAMES"
         },
         {
-          "d": "10.13",
-          "t": "넷마블넥서스…",
+          "d": "10.10",
+          "t": "브라우저로",
           "c": "#2ec5c5",
           "s": "GAMES"
         },
         {
-          "d": "10.14",
-          "t": "DLSS…",
-          "c": "#2ec5c5",
-          "s": "GAMES"
-        },
-        {
-          "d": "10.14",
-          "t": "Bloodb…",
+          "d": "10.12",
+          "t": "Quest 이식",
           "c": "#2ec5c5",
           "s": "GAMES"
         },
         {
           "d": "10.14",
-          "t": "Dwarf…",
+          "t": "팬은 냉담",
           "c": "#2ec5c5",
           "s": "GAMES"
         }
       ],
-      "thread_note": "TODO: 이 흐름의 요점 한 줄",
+      "thread_note": "혼자 몇 달 걸리던 이식이 하룻밤이 됐는데, 받는 쪽은 고마워하지 않는다",
       "eyebrow": "흐름 · 게임",
-      "headline": "Dwarf Fortress 제작자…",
-      "body": "TODO: 왜 한 건으로는 안 보이는지",
-      "foot": "밀어서 보기 →",
-      "n": 1
+      "headline": "이식은 쉬워졌고, 반응은 식었다",
+      "body": "닷새 사이 네 건이 같은 줄에 선다. 할 수 있게 된 것과 환영받는 것은 다른 일이다.",
+      "foot": "밀어서 보기 →"
     },
     {
+      "n": 2,
       "kind": "photo",
-      "eyebrow": "2026.10.13",
-      "headline": "호리이 유지의 30분 Claude 게임",
-      "body": "호리이 유지가 약 30분 만에 Claude로 만든 게임을 선보였다.",
-      "foot": "2026.10.13",
-      "media": "pipeline/media/games-horii-claude-30min-game.jpg",
-      "n": 2
+      "eyebrow": "2026.10.09",
+      "headline": "Crash Team Racing PC…",
+      "body": "Crash Team Racing PC 포트 코드는 LLMs가 함수 단위로 썼다.",
+      "foot": "2026.10.09",
+      "video": "pipeline/media/games-ctr-recomp.mp4"
     },
     {
+      "n": 3,
       "kind": "photo",
-      "eyebrow": "2026.10.13",
-      "headline": "넷마블넥서스의 Kiro 도입기",
-      "body": "넷마블넥서스 게임팀이 Steering 규칙으로 Kiro AI 코딩을 정착시켰다.",
-      "foot": "2026.10.13",
-      "media": "pipeline/media/games-netmarble-nexus-kiro-adoption.png",
-      "n": 3
+      "eyebrow": "2026.10.10",
+      "headline": "AI, 게임을 브라우저로 옮기다",
+      "body": "AI 에이전트가 하룻밤 사이 Halo와 GTA를 브라우저로 옮겨 놓았다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/kotaku-vibe-browser-ports.jpg"
     },
     {
+      "n": 4,
       "kind": "photo",
-      "eyebrow": "2026.10.14",
-      "headline": "DLSS 5 속도 두 배 VRAM 부담은…",
-      "body": "DLSS 5 새 모델은 약 두 배 빨라지고 4K 기준 VRAM을 20% 덜 쓴다.",
-      "foot": "2026.10.14",
-      "video": "pipeline/media/games-dlss5-faster-less-vram.mp4",
-      "n": 4
+      "eyebrow": "2026.10.12",
+      "headline": "Astro Bot, Quest로 이식",
+      "body": "Bigmak94가 Claude를 써서 PSVR 독점작을 Quest 3로 옮겼다.",
+      "foot": "2026.10.12",
+      "video": "pipeline/media/astro-bot-psvr-quest3-mod.mp4"
     },
     {
+      "n": 5,
       "kind": "photo",
       "eyebrow": "2026.10.14",
       "headline": "Bloodborne 이식판 바이브 코딩에…",
       "body": "FromSoftware 팬들이 바이브 코딩 Bloodborne 이식판을 외면한다.",
       "foot": "2026.10.14",
-      "media": "pipeline/media/games-bloodborne-vibe-coded-port.jpg",
-      "n": 5
-    },
-    {
-      "kind": "photo",
-      "eyebrow": "2026.10.14",
-      "headline": "Dwarf Fortress 제작자…",
-      "body": "Tarn Adams가 비대한 AI 코드, Steam 생존기를 말한다.",
-      "foot": "2026.10.14",
-      "video": "pipeline/media/games-tarn-adams-hates-genai.mp4",
-      "n": 6
+      "media": "pipeline/media/games-bloodborne-vibe-coded-port.jpg"
     },
     {
       "kind": "outro",
@@ -108,7 +92,7 @@
       "headline": "더 많은 소식은 axitnow.com",
       "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
       "foot": "",
-      "n": 7
+      "n": 6
     }
   ]
 }
