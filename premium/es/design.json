@@ -7918,6 +7918,122 @@
           "cap": "Gamer DNA y Game Playlists en la nueva función Game Finder de Play Store."
         }
       ]
+    },
+    "design/design-bluesky-attie": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "La herramienta de AI Attie, de Bluesky, que se lanzó a principios de este año como una forma de usar AI para crear tus propios feeds, ahora permite hacer apps sociales “pequeñas”, como juegos, encuestas y paneles, que luego puedes compartir con otros como sitios web propios. En una entrevista en TechCrunch Disrupt, el CEO de Bluesky, Toni Schneider, dijo que hay que pensar en Attie como “vibe coding social o vibe coding para tu comunidad”."
+        },
+        {
+          "t": "p",
+          "x": "Puedes crear tu propia app de Attie escribiendo un prompt. Una encuesta sencilla que hice sobre Pokémon Red y Pokémon Blue tardó unos minutos en generarse. Si quieres ver algo más completo, el sitio web de Attie destaca ahora algunos ejemplos, como “Flappy Butterfly”, un clon de Flappy Bird, una caja de ritmos, un cuestionario y un juego de clics inactivo sobre un hombre apio; cada uno tiene un enlace propio en el dominio attie.site y, al pie de la página, el crédito de quién creó la app. Las apps que he probado son novedades bastante ligeras, aunque la caja de ritmos me gustó."
+        }
+      ]
+    },
+    "design/design-lovable-models": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lovable está añadiendo nuevos modelos y herramientas de AI que pueden usar las apps creadas en la plataforma, de modo que un tutor con el que se puede hablar, una herramienta de investigación con fuentes verificables o una bandeja de soporte que redacta respuestas se pueden crear sin salir de Lovable."
+        },
+        {
+          "t": "p",
+          "x": "GPT-Live, de OpenAI, aporta conversación por voz en tiempo real. Los modelos Claude más recientes de Anthropic se ocupan de la lectura, el razonamiento y las tareas más largas. De Google, Gemini 4 Argon cubre el trabajo de conocimiento, Gemini Omni convierte texto, fotos, audio y clips en video, y Lyria compone música original."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity añade respuestas con citas de la web en vivo, Firecrawl y Parallel buscan y recopilan datos web, y Jev, de Typesafe AI, toma decisiones rápidas de clasificación, puntuación y enrutamiento."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios solo describen la app o la función que quieren. Lovable elige un modelo o una herramienta, o pueden nombrar uno en el chat, como “use Opus 5.5” o “use Perplexity”."
+        }
+      ]
+    },
+    "design/design-flux3-klein": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+          "cap": "Texto a imagen, imagen a imagen y control de composición con FLUX.3 Image Klein"
+        },
+        {
+          "t": "p",
+          "x": "Ya está aquí FLUX.3 Image Klein, de Black Forest Labs, y funciona en Diffusers desde el primer día. Un solo modelo hace texto a imagen e imagen a imagen con varias referencias, y añade control de composición: se escriben cajas delimitadoras en el prompt para indicar dónde debe ir cada parte de la imagen o qué partes de una imagen de referencia mover."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+          "cap": "Una leyenda y dos descripciones de regiones colocadas como cajas en una cuadrícula de 0–1000, y la imagen generada"
+        },
+        {
+          "t": "p",
+          "x": "Se publican dos checkpoints abiertos: un modelo destilado por pasos de tiempo para inferencia rápida (16 pasos, sin CFG) y un modelo base (50 pasos, con CFG). El checkpoint destilado genera una imagen de 1024 × 1024 en unos 2 segundos en una H100."
+        },
+        {
+          "t": "p",
+          "x": "Los pesos NVFP4 y FP8 se cargan con from_single_file para GPUs más pequeñas, los scripts de entrenamiento LoRA cubren texto a imagen y edición de imágenes, y el lanzamiento llega como pipeline de Modular Diffusers, de modo que se pueden cambiar o añadir bloques."
+        }
+      ]
+    },
+    "design/design-hesai-kosmo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+          "cap": "Hesai lanza Kosmo 3D World Data Engine."
+        },
+        {
+          "t": "p",
+          "x": "Hesai Group lanzó Kosmo, un motor de datos de mundos 3D para Physical AI. Combina Kosmo One, una cámara espacial con AI, con la plataforma en la nube Kosmo World para convertir entornos físicos en espacios digitales 3D de alta fidelidad destinados al entrenamiento de robots, el desarrollo de modelos del mundo y la creación de contenido inmersivo."
+        },
+        {
+          "t": "p",
+          "x": "Kosmo One combina lidar, un sensor de imagen de una pulgada y una IMU, y usa 3D Gaussian Splatting para lograr una precisión milimétrica. Un solo operador puede escanear un espacio interior típico de 100 metros cuadrados en unos 15 minutos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+          "cap": "Kosmo ofrece grandes volúmenes de datos de escenas reales para el entrenamiento de AI corporizada."
+        },
+        {
+          "t": "p",
+          "x": "En una tienda de Dairy Queen, construir un entorno de entrenamiento 3D llevaba antes unas 300 horas de modelado manual; con Kosmo tomó 15 minutos, y la tasa de éxito en tareas del robot Sharpa llegó al 99%."
+        },
+        {
+          "t": "p",
+          "x": "En cine, un paisaje urbano de 10,000 metros cuadrados que tardaría dos meses en construirse como set puede escanearse y editarse en una semana, y hay estudios que usan Kosmo en flujos de trabajo basados en RenderMan de Pixar."
+        }
+      ]
+    },
+    "design/design-builder-agent-native": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6t_AMjY5gJc"
+        },
+        {
+          "t": "p",
+          "x": "Builder.io lanza en beta Agent-Native, un framework de código abierto en TypeScript para crear agentes de AI con UIs intuitivas. Se puede empezar en local con el framework de código abierto o construir en línea con Builder.io. Basta definir una capacidad una vez para que Agent-Native la exponga a la UI, el agente, la HTTP API, la CLI, MCP y A2A."
+        },
+        {
+          "t": "p",
+          "x": "Una app agéntica es un agente de AI que trae su propia app, no una barra lateral de chat añadida a una app: el agente y la UI son socios en pie de igualdad, de modo que todo lo que se puede hacer en la UI también lo puede hacer el agente. Comparten acciones (la misma validación, los mismos permisos y la misma implementación), datos (el trabajo se mantiene sincronizado) y estado de la aplicación (el agente sabe qué hay en la pantalla)."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de los agentes que operan haciendo clic en la pantalla, los agentes de Agent-Native llaman a las mismas acciones que usa la UI y terminan más rápido con menos tokens. Se puede escribir a un agente desde Slack, Teams, Discord, correo electrónico, Telegram o WhatsApp, conectar Notion, Linear y GitHub mediante MCP, y cada app es también un servidor MCP para Claude, ChatGPT, Cursor o Codex."
+        },
+        {
+          "t": "p",
+          "x": "Incluye funciones de equipo como instrucciones, habilidades y memoria compartidas, además de autenticación, permisos y sincronización en vivo. Se puede usar una clave propia de Anthropic, OpenAI, Gemini u OpenRouter, o ejecutar un modelo local con Ollama. Clips, Slides y Design son apps agénticas de código abierto creadas con él."
+        }
+      ]
     }
   }
 }

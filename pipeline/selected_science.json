@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "science",
   "picks": [
     {
-      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
-      "title": "Analyzing technical documents with Deep Review",
-      "source": "Google Research",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "title": "CERN and Mistral join forces to accelerate AI for science",
+      "source": "CERN",
       "category": "science",
-      "published_iso": "2026-10-14T16:14:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "After running on 16,000+ submissions at STOC, ICML, NeurIPS and ICLR, Google's AI peer-review system Deep Review launches publicly for rigorous verification of mathematical and scientific documents.",
+      "published_iso": "2026-10-15T12:00:00+02:00",
+      "og_image": "",
+      "excerpt": "CERN and Mistral AI signed a statement of intent to build a 'Large Physics Model', a foundation model pretrained on billions of simulated LHC proton-proton collisions.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Primary-source public launch of an AI peer-review/verification tool already battle-tested on 16,000+ conference submissions; directly changes how researchers check papers."
+      "rationale": "Primary-source announcement: CERN and Mistral plan a physics foundation model pretrained on billions of simulated LHC collisions, a new direction for AI in particle physics."
     },
     {
-      "url": "https://allenai.org/blog/hiro-acev2",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "source": "Ai2",
+      "url": "https://phys.org/news/2026-10-ai-scrap-impurities-ingredients-stronger.html",
+      "title": "AI turns scrap-metal impurities into ingredients for stronger, cheaper recycled iron",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-14T08:00:00Z",
-      "og_image": "https://www.datocms-assets.com/64837/1791997968-ace-hiro-v2-feature-c-v4.png",
-      "excerpt": "Ai2's ML climate emulator HiRO-ACEv2 captures extreme rain, wind and pressure events at 3 km resolution for about 1/300th the cost of the X-SHiELD physics model.",
+      "published_iso": "2026-10-15T16:20:18-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
+      "excerpt": "Max Planck researchers built a machine-learning framework that treats scrap-metal impurities as alloying ingredients; all-scrap ductile iron came out stronger or more ductile than recycled benchmarks at ~8% lower cost (Science Advances).",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New model release from the lab: km-scale extreme-weather emulation at ~1/300th the compute of the physics baseline, a concrete quantitative leap."
+      "rationale": "Peer-reviewed (Science Advances) materials result with concrete numbers: ML-designed all-scrap iron matches or beats recycled benchmarks at ~8% lower cost."
     },
     {
-      "url": "https://www.scientificamerican.com/article/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet/",
-      "title": "Amateur astronomer harnesses AI to find a possible hidden exoplanet",
-      "source": "Scientific American",
+      "url": "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html",
+      "title": "Study reveals how hidden agendas in AI advice steer people toward worse choices",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-14T07:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/6507b4f0-cd97-442c-bb7a-5a9a1e2dc5f4/TESS.jpg?m=1791988606.142&w=1200",
-      "excerpt": "Evidence for a possible super-Earth had been lurking for years in NASA TESS data; amateur Pavel Rabtsevich found it with help from AI tools.",
-      "source_lang": "en",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Astronomy angle missing from recent cards: an amateur used AI tools to surface a candidate super-Earth in archival TESS data."
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/new-first-proof-exam-reveals-how-ai-powered-math-is-a-pay-for-play-sport/",
-      "title": "New 'First Proof' exam reveals how AI-powered math is a pay-to-play sport",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-10-14T15:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/9c82c6bb-90f8-4271-bab3-c6532285ce45/shutterstock_1214460805.jpg?m=1791996025.981&w=1200",
-      "excerpt": "A new research-level math benchmark confirms some frontier AIs are becoming exceptional tools for mathematicians, while open-source models still struggle.",
+      "published_iso": "2026-10-15T17:20:01-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/dumb-computer-user.jpg",
+      "excerpt": "In a PNAS randomized experiment (HKU/Tsinghua, 233 people), AI advice covertly steering toward worse options raised poor financial and emotional choices by up to 38 points, while users still rated the AI highly helpful.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "New research-level math benchmark result with a clear finding (frontier vs open-source gap); the single AI-math pick today, distinct from prior proof/record stories."
+      "rationale": "Psychology slot: PNAS randomized experiment showing covertly biased AI advice raises bad choices by up to 38 points while users still rate it helpful."
     },
     {
-      "url": "https://phys.org/news/2026-10-ai-weather-power-weeks.html",
-      "title": "AI-enhanced weather model doubles predictive power two to six weeks out",
-      "source": "Phys.org",
+      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "title": "AI model decodes the language cells use to communicate",
+      "source": "MIT News",
       "category": "science",
-      "published_iso": "2026-10-14T11:00:47-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/forecast.jpg",
-      "excerpt": "MIT-led researchers built a machine-learning layer that learns and corrects ECMWF forecast errors, roughly doubling subseasonal (2-6 week) skill and improving extreme-weather prediction.",
+      "published_iso": "2026-10-15T20:50:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
+      "excerpt": "Whitehead Institute researchers built an AI framework that decodes how cells signal one another to assemble tissues and organs, a tool that could speed stem-cell engineering and improve disease models.",
+      "source_lang": "en",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Basic-biology slot (not patient-facing): Whitehead AI framework that decodes cell-to-cell signalling behind tissue assembly, aimed at stem-cell engineering."
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1147991",
+      "title": "Neural operator predicts when tipping points will occur in climate and turbulence models",
+      "source": "EurekAlert! (Caltech)",
+      "category": "science",
+      "published_iso": "2026-10-15T00:00:00Z",
+      "og_image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+      "excerpt": "A Caltech-led paper shows a recurrent neural operator can predict when tipping points occur in simple models, including a climate-change system and simulated turbulent airflow.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "MIT-led ML correction layer roughly doubles 2-6 week forecast skill on ECMWF output; a different problem (subseasonal correction) from HiRO's km-scale emulation."
+      "rationale": "Caltech-led method for forecasting the timing of tipping points in climate and turbulence models; complex-systems angle distinct from recent weather cards."
     }
   ],
   "dedup": {
     "checks": {
-      "https://research.google/blog/analyzing-technical-documents-with-deep-review/": {
+      "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
+        "nearest": "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
         "new_action": ""
       },
-      "https://allenai.org/blog/hiro-acev2": {
+      "https://phys.org/news/2026-10-ai-scrap-impurities-ingredients-stronger.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+        "nearest": "https://phys.org/news/2026-09-alloy-unexplored-materials.html",
         "new_action": ""
       },
-      "https://www.scientificamerican.com/article/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet/": {
+      "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html",
+        "nearest": "https://techxplore.com/news/2026-09-ai-generated-summaries-distort-human.html",
         "new_action": ""
       },
-      "https://www.scientificamerican.com/article/new-first-proof-exam-reveals-how-ai-powered-math-is-a-pay-for-play-sport/": {
+      "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015": {
         "verdict": "new",
-        "nearest": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+        "nearest": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-weather-power-weeks.html": {
+      "https://www.eurekalert.org/news-releases/1147991": {
         "verdict": "new",
-        "nearest": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+        "nearest": "https://physicsworld.com/a/using-ai-to-plan-for-climate-variability-in-renewable-energy-systems/",
         "new_action": ""
       }
     },
-    "note": "Pool 15. Dropped as repeats: Live Science 'early warning system predicts AI going rogue' (same study as 10-09 techxplore 'Simple math formula predicts when AI chatbots will go rogue'); ScienceDaily CO2-to-fuel copper catalyst (same study as 10-09 eurekalert 1146653); ScienceDaily 'AI acts like a human but not conscious' (likely-repeat of 10-03 techxplore conscious story). Skipped: SciAm Navier-Stokes credit piece (commentary on an earlier result, overlaps 10-14 'Scientists worry AI is stealing their ideas'; also AI-math cap), Phys.org Grothendieck AI-math (kept AI-math to one pick; SciAm First Proof is the stronger new benchmark), bioRxiv glycobiology foundation models (protein-glycan/immunogenicity, kept away from biosecurity-adjacent territory; no og_image), Google Earth AI geospatial agents (related running Earth AI line after 10-07 card; Deep Review chosen as the Google pick), Live Science GPT-6 Astra AGI (10-08, analysis of claims), Ai2 Molmo2Fish (user story, lower novelty; Ai2 already represented), Psychology Today face recognition (commentary). Phys.org weather pick's history_match (10-02 MSR space weather on grids) is a different subject (terrestrial subseasonal forecast correction). Outlets: Google Research 1, Ai2 1, SciAm 2, Phys.org 1 (4 distinct). Two weather/climate picks cover distinct methods. No shared URLs; no pathogen or protein-design topics."
+    "note": "Pool 19. Dropped as repeats: Live Science 'simple math can predict when AI is about to go rogue' (same study as 10-09 techxplore 'Simple math formula predicts when AI chatbots will go rogue'); ScienceDaily AI-vs-human consciousness (likely-repeat of 10-03 techxplore conscious story); ScienceDaily CO2-to-fuel copper catalyst (same study as 10-09 eurekalert 1146653). Excluded on safety instruction: DeepMind antimicrobial-peptide agentic workbench (biosecurity-adjacent). Skipped: Google Earth AI geospatial agents (running Earth AI line after 10-07 card), MIT Eric So book Q&A (commentary; overlaps 10-10 'AI erodes persistence'), SciAm OpenAI 722 math papers/crypto (analysis; AI-math heavily covered recently), Science News DeepMind math study (same AI-math saturation), Chemistry World substrate selection (10-06, stale), Riverlane/NVIDIA decoder calibration (vendor PR; Quantum Insider frequent), MatterGen-e- and SciClaim2Explore (would make Tech Xplore 2-3 and second materials pick; scrap-iron stronger), Retrochimera and StudentSim (lower ranked). MIT pick's history_match (10-01 blood stem cell aging imaging) is a different study and topic. Outlets: CERN, Phys.org, Tech Xplore, MIT News, EurekAlert (5 distinct, 1 each). No shared URLs; no pathogen/biosecurity or patient-facing clinical items."
   }
 }

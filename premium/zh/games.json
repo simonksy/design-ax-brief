@@ -7049,6 +7049,120 @@
           "x": "更大的问题是，对于模组作者拿走其IP并免费公开的反编译和重编译，Microsoft将如何应对。截至发稿，Microsoft未回应有关未经授权使用IP的置评请求。"
         }
       ]
+    },
+    "games/games-shogun2-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Total War: Shogun 2 – Complete Edition于October 13发售后，在Steam上遭到差评围攻，原因包括画面问题、新旧bug、糟糕的UI，以及未经声明在游戏内美术中使用AI放大。Sega此前还下架了原版，并将价格提高到$40。"
+        },
+        {
+          "t": "p",
+          "x": "“我们意识到，Total War: Shogun 2 – Complete Edition既未达到各位的期望，也未达到我们自己的标准，”Sega在X上写道。Sega正与各平台方合作，在调查期间“暂时”下架该游戏，并计划恢复旧版本的销售。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
+          "cap": "© Creative Assembly / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "声明没有回应游戏美术使用AI放大的问题，Steam页面也仍未标注AI使用声明。这款重制版在近2,000条评测中好评率仅为17-percent。"
+        }
+      ]
+    },
+    "games/games-nemotron-bolt-skyrimnet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark笔记本将于周五（Oct. 16）上市，支持数百款游戏以及带有3D-Guided Neural Rendering的DLSS 5；DLSS 5也将于Oct. 23登陆RTX Remix。"
+        },
+        {
+          "t": "p",
+          "x": "Nemotron 3.5 Bolt E4B 4GB是NVIDIA ACE的第三代SLM，NVIDIA ACE是用于构建游戏内AI智能体的套件。它将自然对话与多轮工具调用相结合，设计目标是低内存占用和更快的首个token响应。"
+        },
+        {
+          "t": "p",
+          "x": "从Oct. 23起，玩家可以在SkyrimNET中试用它。SkyrimNET是MinLL为Skyrim打造的AI NPC模组平台，能把每个NPC变成拥有个人记忆、声音和自主性的无脚本角色。"
+        },
+        {
+          "t": "p",
+          "x": "同样于Oct. 23推出的Remix 1.6借助ComfyUI Version 2全面改进了AI纹理生成，模组作者无需任何API设置即可在RTX Remix中生成PBR材质。"
+        }
+      ]
+    },
+    "games/games-bf6-paid-ai-cosmetics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Battlefield 6 Season 5“Siege of Vegas”的Area 51地图广受好评，但季票外观却让玩家拉响了genAI警报：一名枪套里插着五把手枪的干员、古怪的弹匣设计，以及一块写着“Secuty”的臂章。"
+        },
+        {
+          "t": "p",
+          "x": "subreddit上的相关帖子获得了数千个赞。其中一个帖子写道：“用AI生成的内容向玩家收取$$$，是极度的不尊重。”"
+        },
+        {
+          "t": "p",
+          "x": "目前尚无证据证实这些设计出自genAI，但EA这款射击游戏此前就曾在发售数月后推出疑似AI-generated的外观，今年早些时候也有部分Battlefield开发人员遭到裁员。"
+        }
+      ]
+    },
+    "games/games-shroud-zero-bugs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在TechJesse播客中，Ultima的创作者Richard Garriott表示：“这非常有争议……[但]AI确实很有帮助。现在，我能更贴近创作本身。现在，我们做游戏需要的人更少、时间更短。”他还说，AI的伦理使用“确实是一个重要问题”。"
+        },
+        {
+          "t": "p",
+          "x": "他说，Shroud of the Avatar的bug数量长期维持在一千个，其中一些三到五年都没有处理。“现在有了AI，这些bug一被发现就会在一小时内修好。”这款游戏“现在每天都是零bug。零。”"
+        },
+        {
+          "t": "p",
+          "x": "考虑到这款游戏一向以性能差著称，这一说法格外引人注目；发售八年后，它仍在定期更新。“艺术由人类来做，机器可以帮忙承担劳动，”Garriott说。"
+        }
+      ]
+    },
+    "games/games-epic-launcher": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games正以预览版形式更新其PC游戏启动器，称新版本“快得多”，现已支持Linux，而且是“vibe coded”（氛围编程）而成。Epic表示：“编程很难。所以我们没有去编程，而是用氛围编程做了一个新的Epic Games Launcher。”"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games Store与Epic Online Services的VP兼GM Martin Keely对The Verge表示：“我们把AI当作这项工作的工具。”AI在测试和“复刻现有启动器核心功能”方面“非常有帮助”，也帮助启动器登陆Linux。他说：“我们确实让智能体编写并审查了全部代码。”但团队“监督了我们所做的一切”。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "展示Epic Games Launcher相关数据的截图。"
+        },
+        {
+          "t": "p",
+          "x": "此前，CEO Tim Sweeney宣布进行“重大转向”，以“为最大程度的AI加速进行重整”。预览版可在Windows、Mac和Linux上使用，旧版启动器仍可使用，Epic还计划通过该应用把Fortnite带到Linux。"
+        }
+      ]
     }
   }
 }

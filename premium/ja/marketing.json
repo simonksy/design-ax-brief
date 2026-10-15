@@ -1116,6 +1116,117 @@
           "x": "E-commerceはAIの主戦場の一つになった。GoogleとAmazonはエージェント型ショッピングツールに投資し、Amazonはエージェントが顧客に代わって買い物をしてよいかをめぐり、Perplexity、さらに最近ではMetaのMuseと争っている。"
         }
       ]
+    },
+    "marketing/marketing-google-universal-cart": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xMDZus5hxYI"
+        },
+        {
+          "t": "p",
+          "x": "Googleは、SearchやGeminiアプリで見つけた商品をまとめて追跡できるツールUniversal Cartを、U.S.のユーザー向けに提供開始したと発表した。5月のGoogle I/Oで初めて披露されていた。"
+        },
+        {
+          "t": "p",
+          "x": "カートには複数の小売業者の商品を入れられ、保存した商品の値下がりや品切れ商品の再入荷を通知する。Googleによると、クレジットカードの特典も考慮し、関連するプロモーションコードも表示できる。"
+        },
+        {
+          "t": "p",
+          "x": "決済はGoogleのUniversal Commerce Protocol(UCP)と連動する。UCPは、AIエージェントと小売業者が買い物の全工程で連携できるよう設計されたオープン標準だ。Amazon、OpenAIなど競合各社もエージェント型コマース機能を追加している。"
+        }
+      ]
+    },
+    "marketing/marketing-fox-agentic-linear": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+          "cap": "2025年のFoxアップフロントで登壇するFox広告営業責任者のJeff Collins。Frank Micelotta/Fox"
+        },
+        {
+          "t": "p",
+          "x": "Foxは、AI-powered技術への注力を続けるなか、自ら「TV広告業界初のエンドツーエンドのエージェント型プラットフォーム」と呼ぶ基盤を拡大している。"
+        },
+        {
+          "t": "p",
+          "x": "同社はADWEEKに対し、エージェント型展開の次の段階に入ると語った。代理店パートナーを増やし、エージェント機能をエンドツーエンドのリニア取引、さらに将来的にはデジタル取引へ広げ、今後のアップフロント交渉でエージェント型の比重を高めるという。"
+        },
+        {
+          "t": "p",
+          "x": "Foxの広告部門を率いるJeff Collinsによれば、こうした技術の進歩が、クライアントやパートナーとのより影響力のある関係を生んでいる。"
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-report": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Adsが、Search terms and ad combinations report(検索語句と広告の組み合わせレポート)という新しいレポートを試験しているようだ。検索語句、広告クリエイティブ、ランディングページがどう連動しているかを示す。"
+        },
+        {
+          "t": "p",
+          "x": "これを見つけたNatasha KaurraはLinkedInで、「AI Max for Searchキャンペーンを運用する広告主にとって便利な追加機能のようだ」と述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+          "cap": "Google Ads Search Terms And Ad Combinations Report(検索語句と広告の組み合わせレポート)"
+        },
+        {
+          "t": "p",
+          "x": "広告表示のきっかけとなった検索語句に加え、配信された広告見出しと説明文、ユーザーの遷移先ランディングページ、一致のソース(AI Maxの拡張一致、またはランディングページとURLの包含)、アセットのソース(広告主が提供したアセットかどうか)を表示する。"
+        },
+        {
+          "t": "p",
+          "x": "Kaurraは「このレポートで、検索意図、広告メッセージ、ランディングページのずれを見つける新たな手段が得られる」と付け加えた。"
+        }
+      ]
+    },
+    "marketing/marketing-stripe-agentic-commerce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+          "cap": "Stripe社長のJohn Collison。Getty Images Entertainment via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Stripe社長のJohn Collisonは、自身のポッドキャスト「Cheeky Pint」でMeta PlatformsのCEO Mark Zuckerberg、最高AI責任者Alexandr Wangと対談し、Stripe上のエージェント型コマースが9月から急増したと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "「…5月のSessionsでたくさんの発表をしたが、9月になってようやく、ほぼ垂直に伸び始めた」とCollisonは語った。具体的な数字は示さなかった。"
+        },
+        {
+          "t": "p",
+          "x": "この発言は、3人がMetaのAIアシスタントMuseと、指示に応じて商品を購入するその機能について話す中で出た。Amazonは最近、Museによる自社サイトでの買い物を禁止した。Zuckerbergは、Museを締め出す企業はおそらく後悔することになると述べた。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-gem": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Metaは生成広告モデル「Generative Ads Model」（GEM）の2026年世代について技術的な説明を公開し、広告面と目的全体でコンバージョンが18.9%、クリック率が12%改善したと主張した。同社はFacebook、Instagram、Reelsごとの予測システムを一つの中核基盤モデルに置き換え、その出力をリアルタイムで広告を配信する数百の小型モデルへ移している。"
+        },
+        {
+          "t": "p",
+          "x": "投稿は、数値が何と比べたものか、どの期間のものか、A/Bテストかオフライン評価かを明らかにしていない。数値は企業自身が示したもので、独立した監査は受けていない。"
+        },
+        {
+          "t": "p",
+          "x": "Metaによると、新アーキテクチャKunlunがInterformerに代わり、「同じ計算スケーリングで2x の性能向上をもたらす」。LoopFMとSolarisがGEMの知識を下流モデルに渡し、GEMは「最新世代のGPUs 数千基」の上で20-25% MFUで学習する。"
+        },
+        {
+          "t": "p",
+          "x": "広告主がAds Managerでこれらの仕組みを設定する項目はなく、効果はAdvantage+と自動配信を通じて表れる。"
+        }
+      ]
     }
   }
 }

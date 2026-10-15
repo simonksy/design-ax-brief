@@ -7575,6 +7575,120 @@
           "x": "The bigger question is how Microsoft will respond to decompiles and recompiles where modders take its IP and make it freely available. Microsoft didn’t respond to a request for comment about unauthorized IP use in time for publication."
         }
       ]
+    },
+    "games/games-shogun2-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Total War: Shogun 2 – Complete Edition launched October 13 to an onslaught of negative Steam reviews over graphical problems, new and old bugs, a crummy UI and the undeclared use of AI upscaling for in-game art. Sega had also pulled the original from sale and raised the price to $40."
+        },
+        {
+          "t": "p",
+          "x": "\"We're aware that Total War: Shogun 2 – Complete Edition has fallen short of both your expectations and our own standards,\" Sega wrote on X. It is working with platform holders to \"temporarily\" remove the game from sale while it investigates, and plans to reinstate sale of the previous version."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
+          "cap": "© Creative Assembly / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "The statement doesn't address the AI upscaling of the game's artwork, and the Steam page still lacks an AI declaration. The remake sits at 17-percent positive out of nearly 2,000 reviews."
+        }
+      ]
+    },
+    "games/games-nemotron-bolt-skyrimnet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark laptops launch Friday, Oct. 16 with hundreds of games and DLSS 5 with 3D-Guided Neural Rendering; DLSS 5 also comes to RTX Remix on Oct. 23."
+        },
+        {
+          "t": "p",
+          "x": "Nemotron 3.5 Bolt E4B 4GB is the third-generation SLM for NVIDIA ACE, the suite for building in-game AI agents. It combines natural conversation with multi-turn tool use and is designed for a low memory footprint and fast time to first token."
+        },
+        {
+          "t": "p",
+          "x": "Starting Oct. 23, players can test it inside SkyrimNET, an AI NPC modding platform by MinLL for Skyrim that turns every NPC into an unscripted character with personal memory, voice and autonomy."
+        },
+        {
+          "t": "p",
+          "x": "Remix 1.6, also launching Oct. 23, overhauls AI texture generation with ComfyUI Version 2, letting modders generate PBR materials inside RTX Remix with zero API setup."
+        }
+      ]
+    },
+    "games/games-bf6-paid-ai-cosmetics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Battlefield 6 Season 5, \"Siege of Vegas,\" brought praise for its Area 51 map but also season pass cosmetics that have players' genAI alarm bells ringing: an operator with five holstered pistols, odd magazine designs, and an arm patch that reads \"Secuty.\""
+        },
+        {
+          "t": "p",
+          "x": "Posts on the subreddit have drawn thousands of upvotes. \"Charging players $$$ for AI generated content is peak disrespect,\" read one thread."
+        },
+        {
+          "t": "p",
+          "x": "There's no confirmation the designs came from genAI, but EA's shooter previously shipped seemingly AI-generated cosmetics months after launch, and some Battlefield developers were laid off earlier this year."
+        }
+      ]
+    },
+    "games/games-shroud-zero-bugs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On the TechJesse podcast, Ultima creator Richard Garriott said: \"This is super controversial... [but] AI is really helping. Now, I can be closer to the creation. Now, we need fewer people and less time to make it.\" He added that ethical use of AI \"is really an important issue.\""
+        },
+        {
+          "t": "p",
+          "x": "Shroud of the Avatar, he said, persistently had a bug count of a thousand, some unaddressed for three to five years. \"Now, with AI, those bugs are fixed as soon as they're found, within an hour.\" The game \"now has zero bugs, every day. Zero.\""
+        },
+        {
+          "t": "p",
+          "x": "The claim is notable given the game's poor performance reputation; eight years after launch it still gets regular updates. \"Humans do the art and machines can help do the labor,\" Garriott says."
+        }
+      ]
+    },
+    "games/games-epic-launcher": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games is refreshing its PC games launcher in preview, saying the new version is “way faster” and now supports Linux — and that it was “vibe coded.” “Programming is hard,” Epic says. “So, instead of doing that, we vibe coded a new Epic Games Launcher.”"
+        },
+        {
+          "t": "p",
+          "x": "“We used AI as a tool for this,” Martin Keely, VP and GM of the Epic Games Store and Epic Online Services, tells The Verge. AI was “super helpful” for testing and “replicating the core functionality from the existing launcher,” and helped bring it to Linux. “We definitely had agents write and review all of the code,” he says, but the team “supervised the entirety of what we did.”"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "A screenshot featuring stats about the Epic Games Launcher."
+        },
+        {
+          "t": "p",
+          "x": "The news follows CEO Tim Sweeney announcing a “huge pivot” to “retool for maximum AI acceleration.” The preview is available on Windows, Mac, and Linux, the old launcher remains available, and Epic also plans to bring Fortnite to Linux through the app."
+        }
+      ]
     }
   }
 }

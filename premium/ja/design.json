@@ -8208,6 +8208,122 @@
           "cap": "Play Storeの新機能Game FinderにおけるGamer DNAとGame Playlists。"
         }
       ]
+    },
+    "design/design-bluesky-attie": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "今年初めにAIで自分だけのフィードを作る手段として登場したBlueskyのAttie AIツールで、ゲームや投票、ダッシュボードといった「小さな」ソーシャルアプリを作り、それぞれ独自のウェブサイトとして他の人と共有できるようになった。BlueskyのCEOであるToni SchneiderはTechCrunch Disruptでのインタビューで、Attieは「ソーシャルなバイブコーディング、あるいはコミュニティのためのバイブコーディング」だと考えてほしいと語った。"
+        },
+        {
+          "t": "p",
+          "x": "プロンプトを入力すれば自分のAttieアプリを作れる。筆者がPokémon RedとPokémon Blueについて作った簡単な投票は、生成に数分かかった。もっと機能の充実したものを見たいなら、Attieのウェブサイトでは現在、Flappy Birdのクローン「Flappy Butterfly」やドラムマシン、クイズ、セロリマンが登場する放置型クリッカーなどの例が紹介されており、それぞれattie.siteドメインの専用リンクと、ページ下部に作者の表示がある。筆者が触ったアプリはかなり軽いお遊び程度だが、ドラムマシンは気に入った。"
+        }
+      ]
+    },
+    "design/design-lovable-models": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lovableは、そこで作られたアプリが使える新しいAIモデルとツールを追加している。話しかけられる家庭教師、出典を確認できるリサーチツール、返信の下書きを作るサポート用受信箱を、Lovableを離れずに作れる。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIのGPT-Liveはリアルタイムの音声会話をもたらす。Anthropicの最新Claudeモデルは読解、推論、長めのタスクを担う。Googleからは、Gemini 4 Argonが知的作業を、Gemini Omniがテキスト・写真・音声・クリップを動画に変える役割を担い、Lyriaはオリジナルの音楽を作る。"
+        },
+        {
+          "t": "p",
+          "x": "Perplexityはライブのウェブから出典付きの回答を加え、FirecrawlとParallelはウェブデータを検索・収集し、Typesafe AIのJevは分類、スコアリング、振り分けの判断を素早く下す。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーは欲しいアプリや機能を説明するだけでよい。Lovableがモデルやツールを選ぶほか、チャットで「use Opus 5.5」や「use Perplexity」のように指名することもできる。"
+        }
+      ]
+    },
+    "design/design-flux3-klein": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+          "cap": "FLUX.3 Image Kleinによるテキストからの画像生成、画像から画像への生成、レイアウト制御"
+        },
+        {
+          "t": "p",
+          "x": "Black Forest LabsのFLUX.3 Image Kleinが登場し、初日からDiffusersで動く。1つのモデルでテキストからの画像生成と、複数の参照画像を使う画像から画像への生成をこなし、さらにレイアウト制御を加えた。プロンプトにバウンディングボックスを書き込み、画像の各部分をどこに置くか、参照画像のどの部分を動かすかを指定する。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+          "cap": "0–1000のグリッド上にボックスとして配置したキャプション1つと領域の説明2つ、そして生成された画像"
+        },
+        {
+          "t": "p",
+          "x": "公開チェックポイントは2つ。高速推論向けのタイムステップ蒸留モデル(16ステップ、CFGなし)と、ベースモデル(50ステップ、CFGあり)だ。蒸留チェックポイントはH100で1024 × 1024の画像を約2秒で生成する。"
+        },
+        {
+          "t": "p",
+          "x": "小型のGPUs向けにNVFP4とFP8の重みをfrom_single_fileで読み込め、LoRAの学習スクリプトはテキストからの画像生成と画像編集に対応する。リリースはModular Diffusersパイプラインとして提供され、ブロックの差し替えや追加ができる。"
+        }
+      ]
+    },
+    "design/design-hesai-kosmo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+          "cap": "HesaiがKosmo 3D World Data Engineを発表。"
+        },
+        {
+          "t": "p",
+          "x": "Hesai Groupは、Physical AI向けの3DワールドデータエンジンKosmoを発表した。AI空間カメラKosmo OneとクラウドプラットフォームKosmo Worldを組み合わせ、物理環境を高精細な3Dデジタル空間に変え、ロボットの訓練、ワールドモデルの開発、没入型コンテンツの制作に生かす。"
+        },
+        {
+          "t": "p",
+          "x": "Kosmo Oneはlidar、1インチのイメージングセンサー、IMUを組み合わせ、3D Gaussian Splattingでミリ単位の精度を実現する。オペレーター1人で、一般的な100平方メートルの屋内空間を約15分でスキャンできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+          "cap": "Kosmoは、身体性AIの訓練に向けて大量の実世界シーンデータを提供する。"
+        },
+        {
+          "t": "p",
+          "x": "あるDairy Queenの店舗では、3D訓練環境の構築に以前は手作業のモデリングで約300時間かかっていたが、Kosmoでは15分で済み、Sharpaロボットのタスク成功率は99%に達した。"
+        },
+        {
+          "t": "p",
+          "x": "映画では、セットとして建てれば2カ月かかる10,000平方メートルの街並みを1週間でスキャンし編集でき、スタジオはPixarのRenderManを軸にしたワークフローでKosmoを使っている。"
+        }
+      ]
+    },
+    "design/design-builder-agent-native": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6t_AMjY5gJc"
+        },
+        {
+          "t": "p",
+          "x": "Builder.ioはAgent-Nativeをベータ版として公開する。直感的なUIsを備えたAIエージェントを構築するための、オープンソースのTypeScriptフレームワークだ。オープンソースのフレームワークでローカルから始めることも、Builder.ioでオンラインで構築することもできる。機能を一度定義すれば、Agent-NativeがそれをUI、エージェント、HTTP API、CLI、MCP、A2Aに公開する。"
+        },
+        {
+          "t": "p",
+          "x": "エージェント型アプリとは、独自のアプリを備えたAIエージェントであり、アプリにチャットのサイドバーを付け足したものではない。エージェントとUIは対等なパートナーで、UIでできることはエージェントにもできる。両者はアクション（同じ検証、権限、実装）、データ（作業は同期され続ける）、アプリケーションの状態（エージェントは画面に何が表示されているかを把握する）を共有する。"
+        },
+        {
+          "t": "p",
+          "x": "画面をクリックして操作するコンピューター操作型エージェントと違い、Agent-NativeのエージェントはUIと同じアクションを呼び出すため、より少ないトークンでより速く処理を終える。Slack、Teams、Discord、メール、Telegram、WhatsAppからエージェントにメッセージを送れるほか、MCP経由でNotion、Linear、GitHubを接続できる。すべてのアプリはClaude、ChatGPT、Cursor、Codex向けのMCPサーバーにもなる。"
+        },
+        {
+          "t": "p",
+          "x": "共有の指示、スキル、メモリーといったチーム機能に加え、認証、権限、リアルタイム同期も組み込まれている。Anthropic、OpenAI、Gemini、OpenRouterのキーを自分で持ち込むことも、Ollamaでローカルモデルを動かすこともできる。Clips、Slides、Designは、これで作られたオープンソースのエージェント型アプリだ。"
+        }
+      ]
     }
   }
 }

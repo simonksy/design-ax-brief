@@ -7335,6 +7335,105 @@
           "x": "Deezer says it detected more than 42 million AI-generated tracks between January 2025 and August 2026, and that more than 14 million albums have been tagged since it began labeling AI-generated music in June 2025."
         }
       ]
+    },
+    "music/music-point-and-play": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Neural instrument synthesizers can clone the timbre of a solo instrument, but an instrument of interest is often embedded in a fully produced, multi-instrument recording. Separating the source first may introduce separation artifacts and is likely a detour."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
+          "cap": "Figure 1: Given a polyphonic mixture and an audio or text cue, the system extracts the cued source's timbre and renders new pitches and velocities."
+        },
+        {
+          "t": "p",
+          "x": "Point-and-Play clones the timbre of a cued source directly from a polyphonic mixture. A Cue-Gated Statistics Pooling (CGSP) module extracts the cued instrument's timbre code from adapted CLAP embeddings of the mix."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
+          "cap": "Figure 2: Point-and-Play architecture."
+        },
+        {
+          "t": "p",
+          "x": "That timbre code conditions a separately trained note synthesizer together with pitch and velocity inputs. In experiments, the system outperforms separate-then-clone baselines in timbre fidelity and synthesis quality, performing comparably to cloning from a clean solo instrument."
+        }
+      ]
+    },
+    "music/music-blackburn-kendrick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
+          "cap": "Sen. Marsha Blackburn"
+        },
+        {
+          "t": "p",
+          "x": "U.S. Sen. Marsha Blackburn's attempt to rally social media in her bid for Tennessee governor backfired when she got roasted for posting an AI-generated clip of herself performing “Not Like Us” as Kendrick Lamar at Super Bowl LIX."
+        },
+        {
+          "t": "p",
+          "x": "“Tomorrow. Ready to roll,” she captioned the clip on X, which features Kane (Glenn Jacobs), Rep. Tim Burchett, Sen. Bill Hagerty and state Sen. Brent Taylor in the background. Billboard has reached out to Kendrick Lamar's reps for comment."
+        },
+        {
+          "t": "p",
+          "x": "Her replies quickly flooded, with some commenters calling the clip “painfully cringe” and “AI slop.” One wrote: “You found a way to make artificial intelligence look stupid.”"
+        },
+        {
+          "t": "p",
+          "x": "Her Democratic opponent, Jerri Green, wrote on X: “When I say please stop using AI to support our campaign, this is what I mean.”"
+        },
+        {
+          "t": "p",
+          "x": "Lamar won a second Primetime Emmy for his Super Bowl LIX Halftime Show performance in February 2025 in New Orleans."
+        }
+      ]
+    },
+    "music/music-awards-ai-age": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Shamielle Alston, founder of the Academy of Emerging Music Arts & Sciences (AEMAS), writes that AI forces awards organizations to ask who, or what, created a work. Pressing a button and accepting the first result is not the same creative act as writing, rejecting dozens of outputs, redirecting the technology and editing until the result reflects what was intended."
+        },
+        {
+          "t": "p",
+          "x": "If an awards organization recognizes AI-assisted or AI-directed music, it should be able to explain what it is recognizing. For Alston, a key idea is human creative direction: who originated the concept, made the meaningful decisions, revised it and can explain why the work sounds the way it does."
+        },
+        {
+          "t": "p",
+          "x": "AEMAS's inaugural Ellison Awards use eligibility review, blind judging with five judges per entry and conflict-of-interest safeguards. Submissions for the 2027 awards open November 1, 2026, with a dedicated category for AI Creative Direction."
+        }
+      ]
+    },
+    "music/music-youtube-ai-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Music announced Wednesday the rollout of a new labeling system aimed at improving transparency around songs created with the help of generative AI, including tracks where AI was involved in composition and vocals. The label appears on the player page, and clicking it explains AI’s specific role in the track; the labels will also extend to the main YouTube app."
+        },
+        {
+          "t": "p",
+          "x": "YouTube said it collaborated with music partners and deployed its own detection tools. Partners can declare generative AI use through one of three designations: Fully Gen AI, Partly Gen AI, or No Gen AI. Tracks edited with pitch-correction tools such as Auto-Tune fall under No Gen AI."
+        },
+        {
+          "t": "p",
+          "x": "Other platforms are taking their own approaches: Apple Music plans “Made With AI” labels, Spotify has AI labels and a music spam filter, Deezer — which reported in July receiving nearly 90,000 fully AI-generated tracks daily — excludes detected AI music from algorithmic recommendations and editorial playlists, and TIDAL lets listeners disable fully AI-generated recordings."
+        },
+        {
+          "t": "p",
+          "x": "YouTube, by contrast, is focusing on disclosure rather than blanket restrictions: AI involvement alone doesn’t make a track ineligible for monetization."
+        }
+      ]
     }
   }
 }

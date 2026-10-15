@@ -7238,6 +7238,142 @@
           "x": "Apple今天开始接受HomeView预订。该产品将于11月13日上市，售价299美元。"
         }
       ]
+    },
+    "gadgets/gadgets-muse-spark-open": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta今天宣布发布Muse Spark Open，称其为“迄今为止能力最强的U.S.开放权重模型”。"
+        },
+        {
+          "t": "p",
+          "x": "Meta与Apple合作，将Muse Spark Open带到Mac上。该模型可在由两台512GB Apple M5 Ultra Mac Studios组成、运行最新MLX框架的桌面环境中运行。"
+        },
+        {
+          "t": "p",
+          "x": "Muse Spark Open总参数量为8160亿，激活参数为420亿，上下文窗口为100万个token，主要面向编程和智能体任务。"
+        },
+        {
+          "t": "p",
+          "x": "据Meta介绍，M5 Ultra的集成GPU每台Mac Studio最多可使用512 GB，因此两台机器即可容纳整个模型，而1.2 TB/s的内存带宽足以快速读取每个token所需的一小部分数据。"
+        },
+        {
+          "t": "p",
+          "x": "Apple尚未发布512GB版Mac Studio，但预计将于本月晚些时候推出。该模型可免费下载，其许可证允许有限的商业使用。"
+        }
+      ]
+    },
+    "gadgets/gadgets-sipeed-maixstation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+          "cap": "从左至右：Sipeed 的 MaixStation、Apple 的 Mac mini 和 Nvidia 的 DGX Spark（Image credit: Sipeed）"
+        },
+        {
+          "t": "p",
+          "x": "随着 Sipeed 发布 MaixStation，一款至少在纸面上可与 DGX Spark 和 Ryzen AI Halo 抗衡的中国产品登场。它基于 Axera 新推出的 AX8860P，配备 128GB LPDDR5X，采用 256-bit 总线，带宽 273 GB/s。"
+        },
+        {
+          "t": "p",
+          "x": "Sipeed 向 Tom’s Hardware Premium 表示，128GB 版本预计售价约 $3,999，并将在 Kickstarter 提供首发折扣，远低于 DGX Spark 目前的 $6,950。Kickstarter 众筹将于年底启动。"
+        },
+        {
+          "t": "p",
+          "x": "AX8860P 是一款 16 核 Arm Cortex-A55 芯片，集成自研 NPU，原生 FP4 算力为 256 TOPS。Sipeed 称，运行 Qwen 27B 时，其 prefill 比 DGX Spark 快 25% ，decode 快 30% ，但在邮件中给出的领先幅度约为 10% 。"
+        },
+        {
+          "t": "p",
+          "x": "机身尺寸约 11 × 11 × 3 cm，通过 USB-C 供电，功耗约 40W 。性能说法的验证，还要等 NPU 工具链和样机到位。"
+        }
+      ]
+    },
+    "gadgets/gadgets-eiliko": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "一款新的数字宠物登场了——一个棉花糖般的可爱小机器人。但如果你通过Wi-Fi与“Eiliko”交谈，它就会向中国回传数据。它的AI伴侣会把你说的一切存储在中国服务器上，黑客可以轻易访问这些服务器，甚至劫持它的个性。"
+        },
+        {
+          "t": "p",
+          "x": "“你的秘密在我这里很安全，”它对The Verge的Sean Hollister说。几分钟内，黑客Sammy Azdoufal就拿到了完整的对话记录，并能读取68,000台玩具上的1300万条对话，其中包括US超过31,000份儿童档案。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Azdoufal与他购买的Eiliko合影。"
+        },
+        {
+          "t": "p",
+          "x": "Azdoufal发现，Energize Lab的服务完全没有防护，而且会读取对话来建立用户画像。儿童照片和简短录音就放在公开的网址上。"
+        },
+        {
+          "t": "p",
+          "x": "Energize Lab没有作出实质回应。Azdoufal后来远程劫持了这款玩具的LLM，让它声称地球是平的。"
+        }
+      ]
+    },
+    "gadgets/gadgets-iphone-ai-board": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+        },
+        {
+          "t": "p",
+          "x": "一块约$7的电路板就能让AI智能体在不越狱的情况下操控iPhone。开发者Henry Yuan的开源项目ESP32 iPhone Agent通过一块伪装成USB鼠标和键盘的电路板，把视觉模型与手机连接起来。"
+        },
+        {
+          "t": "p",
+          "x": "该智能体通过AirPlay屏幕镜像观察显示内容，并把截图发送给视觉模型，由模型决定下一步操作。开启AssistiveTouch后，鼠标点击会变成轻点，拖动则变成滑动。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+          "cap": "Henry Yuan"
+        },
+        {
+          "t": "p",
+          "x": "$7指的是测试所用的Seeed Studio XIAO ESP32S3开发板；Lightning iPhones需要相机转接器，初始设置仍需一台装有Xcode的Mac。"
+        },
+        {
+          "t": "p",
+          "x": "每一步需要几秒钟，不支持横屏应用，iOS还会把密码界面和Apple Pay界面排除在镜像画面之外。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ai-studio-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+          "cap": "Google/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "Google周二宣布，任何拥有标准Google账号的人都能在Google AI Studio中打造个人Android应用，无需编程经验。这些应用在你自己的设备上运行，从Google Play的私有区域启动，不会出现在公开的Play Store中。"
+        },
+        {
+          "t": "p",
+          "x": "未来几个月内，你将能与亲密的家人和朋友分享应用；如果某个应用走红，Google将提供一条“升级为专业开发者账号的通道”，以便通过Play Store向全球分享。"
+        },
+        {
+          "t": "p",
+          "x": "AI Studio现有的应用创建工具面向专业开发者账号，需要连接PC进行USB调试。新工具沿用同一创建工具，但只需点击一次即可把应用安装到个人设备上。你用提示词描述需求，其余交给AI完成，它还会建议你可能遗漏的功能；之后可以稍作修改，也可以推倒重来。试验和构建应用都不收费。"
+        },
+        {
+          "t": "p",
+          "x": "作者认为，它将取代那些塞满广告或订阅的单一用途应用，比如习惯追踪器、换算器或计时器。最大的卖点在于：应用不必具备商业价值，也不必被其他人需要，只要对你自己有用就行。"
+        }
+      ]
     }
   }
 }

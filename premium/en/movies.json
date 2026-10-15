@@ -7412,6 +7412,123 @@
           "x": "Because the models are zero-shot and language-agnostic, there is no need to train them for each actor or language. They are designed for real production footage, including changing angles, obstructions, low light, fast movement and multiple faces. Sync.Productions is available now."
         }
       ]
+    },
+    "movies/movies-astralabs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+        },
+        {
+          "t": "p",
+          "x": "Astra Studios and VerSe Innovation have formed the Astra-Spark Alliance, announced at MIPCOM, to co-develop and market an AI-native production pipeline for film, series, animation and brand content. The news coincides with Astra's launch of AstraLabs, its new technology IP arm."
+        },
+        {
+          "t": "p",
+          "x": "The alliance builds on SparkStation, VerSe's AI content operating system, which runs a production from ideation and scripting through storyboarding, asset generation, editing, rendering and distribution. Its continuity engine locks faces, expressions, wardrobe, locations and props across an entire production, and it works in more than 60 languages."
+        },
+        {
+          "t": "p",
+          "x": "AstraLabs brings the production side, with artists directing every stage. The companies say the model cuts production cost by \"up to 75%\" and timelines from months to weeks."
+        },
+        {
+          "t": "p",
+          "x": "\"The Astra-Spark alliance puts cinematic craft inside the architecture of AI production,\" said Biren Ghose, founder and CEO of Astra Studios."
+        }
+      ]
+    },
+    "movies/movies-celebrity-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "AI photos and videos of celebrities are racking up millions of views on social media. An AI-generated Instagram image of actress Mia Goth, posted by a verified fan account with more than a million followers, drew nearly 500,000 likes and spread through gossip sites and Google's AI overview before Instagram removed the account."
+        },
+        {
+          "t": "p",
+          "x": "Accounts post sexualized AI images of stars like Scarlett Johansson, and AI videos of Taylor Swift rack up millions of views. After The Verge asked about eight accounts, Meta said it had removed some."
+        },
+        {
+          "t": "p",
+          "x": "YouTube's likeness detection lets people request takedowns; it removed over 95 percent of videos reported through the program in the first half of 2026."
+        },
+        {
+          "t": "p",
+          "x": "On Meta, still images are exempt from the AI labeling requirement, so the fake Goth image wouldn't have required a disclosure under Meta's rules."
+        }
+      ]
+    },
+    "movies/movies-artificial-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Luca Guadagnino's \"Artificial,\" a movie about the evils of artificial intelligence and Sam Altman, premiered at the New York Film Festival and drew thunderous applause at the London Film Festival. It holds a 96% Fresh rating on Rotten Tomatoes, the highest of Guadagnino's career."
+        },
+        {
+          "t": "p",
+          "x": "Amazon MGM punted the film off its summer slate in June, saying it \"will be better served if it were released by a different studio\"; Neon then rescued it with a global rights deal. Press noted the move came three months after Amazon signed a partnership with OpenAI, including a $50 billion investment. A rival studio executive told Variety that studios calling the film unreleasable were \"conflicted out by their own investments in AI.\""
+        },
+        {
+          "t": "p",
+          "x": "Amazon's AI tensions with talent go further: Nicolas Cage said he refused to sign an AI likeness waiver on \"Spider-Noir,\" and a creative on an Amazon MGM series described mandatory AI training. A source with direct knowledge of Amazon's process said such meetings are not mandatory."
+        }
+      ]
+    },
+    "movies/movies-view-execs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At Italy's View Conference, executives from Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio and Cinesite discussed generative AI, evolving pipelines and jobs. They generally framed AI as part of a broader transformation rather than an immediate replacement for established methods."
+        },
+        {
+          "t": "p",
+          "x": "\"We talk about how AI can compress execution time, but it cannot compress taste,\" said The Yard's Laurens Ehrmann. ILM's Janet Lewin warned of \"a fallacy about this magic bullet of AI and machine learning.\" Cinesite's Shawn Walsh said VFX artists will be needed \"for the foreseeable future to manage this transition.\""
+        },
+        {
+          "t": "p",
+          "x": "Asked how they protect artists' livelihoods, Imageworks' Michelle Grady said, \"We don't exist without artists, full stop.\" Lewin noted that parent companies make decisions studios can't control. The panel offered few specifics on how jobs will be protected."
+        }
+      ]
+    },
+    "movies/movies-midjourney": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
+          "cap": "Midjourney generated an image of The Joker in a substance abuse scene"
+        },
+        {
+          "t": "p",
+          "x": "Disney and NBCUniversal accused Midjourney of being a “bottomless pit of plagiarism” in a lawsuit last year. More than 18 months on, the company allegedly has failed to clean up its act."
+        },
+        {
+          "t": "p",
+          "x": "VN.ai, a startup that stress tests generative AI tools for copyright infringement, examined how 15 popular AI models performed when it comes to flouting studio IP. It found Midjourney v8.1 was the worst offender at reproducing copyrighted characters, and also led on “brand safety violations” — characters placed in a harmful context such as violence or drug taking — once in every three prompts, or 37% of the time. One example: The Joker smoking cannabis in an Elsa-style dress."
+        },
+        {
+          "t": "p",
+          "x": "Midjourney did not respond to requests for comment. The Disney/NBCUniversal suit is ongoing and Warner Bros Discovery has also filed suit; Midjourney argues training on copyrighted images is fair use."
+        },
+        {
+          "t": "p",
+          "x": "Every model generated at least one protected character, even without the name in the prompt, including Google’s Nano Banana and ByteDance’s Seedance 2.5, though the latter improved after cease-and-desist letters. MiniMax H3 violated brand safety standards 55% of the time when an image was used in a prompt."
+        },
+        {
+          "t": "p",
+          "x": "VN.ai founder Nelson Chu said flouting copyright is “good for business… It’s great marketing,” but predicts change as more models set the precedent for being a good actor."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "books",
   "cards": [
     {
-      "id": "books-kyobo-ai-order",
+      "id": "books-anthropic-hankang",
       "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "AI, 새책도 노리나\n교보문고에 10만권 주문",
-      "body": "국내 최대 서점 교보문고에 AI 학습용으로 의심되는 대량 도서 주문이 들어왔다.",
-      "mini_headline": "AI 학습 의심 새책 10만권 주문",
       "tool": "Books",
-      "source": "중앙일보",
-      "url": "https://www.joongang.co.kr/article/25469854",
+      "eyebrow": "AI NEWS",
+      "headline": "앤트로픽 불법 목록에\n한강 '소년이 온다'",
+      "body": "앤트로픽이 불법 다운로드한 도서 목록에 한국 작품 최소 15건이 포함됐다.",
+      "mini_headline": "앤트로픽 목록에 한강 작품",
+      "source": "서울경제",
+      "url": "https://www.sedaily.com/article/20102152",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,233 +19,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-            "cap": "지난 7월 서울 종로구 광화문 교보문고를 찾은 시민들이 책을 읽고 있다. 뉴스1"
+            "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+            "cap": "로이터연합뉴스"
           },
           {
             "t": "p",
-            "x": "국내 최대 서점인 교보문고에 인공지능(AI) 학습용으로 의심되는 대량 도서 주문이 들어온 사실이 14일 확인됐다. AI 기업이 배후에서 주도한다는 의심을 받은 헌책 대량 매입 시도가 앞서 드러났는데, 이번엔 새책 주문까지 나왔다."
+            "x": "미국 AI 기업 앤트로픽이 2021~2022년 불법 디지털 복제본을 다운로드한 목록에 한강의 ‘소년이 온다’를 포함해 황석영·신경숙 등 한국 작가의 작품 최소 15건이 포함된 것으로 드러났다. 앤트로픽은 보상하라는 미국 법원의 판결에 따라 한강 등 국내 작가들에게 보상을 제안한 것으로 파악됐다."
           },
           {
             "t": "p",
-            "x": "교보문고는 올해 초부터 미국·영국 등 해외 업체들에게서 한국어 도서를 대량으로 사고 싶다는 문의를 받았다. 문의 업체는 약 10개로 미국 업체가 가장 많았다. 이들은 도서명이나 분야와 상관없이 약 10만 종의 도서를 ‘1종당 1권씩’ 사겠다고 했다. 교보문고는 “가능한 한 많은 종류의 도서를 확보하려는 형태라는 점에서 일반적인 거래와 차이가 있었다”고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "지난 8월 예스24 중고서점과 서울책보고에 헌책을 대량으로 사겠다고 문의한 미국 애리조나주 B사도 “도서별로 한 권씩 매입하니, 전체 권수보다 서로 다른 도서의 종수가 더 중요하다”고 밝혔다. B사는 교보문고에도 구입 문의를 했다고 한다."
-          },
-          {
-            "t": "p",
-            "x": "최종 납품처를 묻자 업체들은 “비밀유지 사항으로 공개할 수 없다”고 답했고, 일부는 “AI 학습 목적은 아니다”라면서도 “최종 납품처는 데이터 관련 기업”이라고 했다. 교보문고는 “AI 학습에 활용될 가능성을 배제하기 어렵다고 판단했다”며 거래 논의를 중단했다. 출판사와 유통업계가 정보를 공유하고 대응 원칙을 마련해야 한다는 입장도 밝혔다."
+            "x": "소송 위험에 직면하자 앤트로픽은 도서 구매로 전략을 바꿨다. 2024년 전 세계 실물 서적을 사들여 스캔하는 ‘파나마 프로젝트’를 시작했고, 한국에서는 최대 도서유통업체 웅진북센과 ‘수천 권 단위’ 구매 계약을 진행했다. 웅진 측은 “앤트로픽과 계약한 것은 맞다”고 확인했다."
           },
           {
             "t": "img",
-            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-            "cap": "14일 일본 도쿄에서 열린 앤트로픽 도쿄 사무소 개소 1주년 기념 언론 브리핑. 로이터=연합뉴스"
+            "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+            "cap": "‘AI 저작권 침해’ 소송 추이와 앤트로픽 저작권 합의 대상 한국 작가"
           },
           {
             "t": "p",
-            "x": "해외에서는 일본출판판매(닛판)가 미국 AI 기업 앤트로픽에 2024년 12월부터 1년 동안 일본어 새책을 판매했다. 대한출판문화협회는 이사회를 열어 서점·중고서점·유통업체 실태조사를 하기로 했다. 작가 동의 없는 AI 학습을 비판하는 ‘프랑크푸르트 호소문’에 동참하는 공동 성명서도 발표할 예정이다."
+            "x": "이는 ‘바츠 대 앤트로픽’ 소송과 연관돼 있다. 미국 캘리포니아북부지방법원은 합법 구매 서적 학습은 공정 이용으로 봤지만 불법 복제본은 저작권 침해로 판단했다. 앤트로픽은 약 50만 권을 대상으로 총 15억 달러(약 2조 2000억 원) 합의금을 지불하기로 확정했고, 다음 달 15일부터 지급할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "출판 업계 관계자는 “현행 저작권법상 판매는 가능하지만 그것으로 AI 학습을 시키는 것은 별개의 문제”라며 “아직 국내에는 관련 규정이 공백 상태”라고 지적했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "AI, 새책도 노리나\n교보문고에 10만권 주문",
-          "body": "국내 최대 서점 교보문고에 AI 학습용으로 의심되는 대량 도서 주문이 들어왔다.",
-          "mini_headline": "AI 학습 의심 새책 10만권 주문",
+          "headline": "앤트로픽 불법 목록에\n한강 '소년이 온다'",
+          "body": "앤트로픽이 불법 다운로드한 도서 목록에 한국 작품 최소 15건이 포함됐다.",
+          "mini_headline": "앤트로픽 목록에 한강 작품",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-                "cap": "지난 7월 서울 종로구 광화문 교보문고를 찾은 시민들이 책을 읽고 있다. 뉴스1"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+                "cap": "로이터연합뉴스"
               },
               {
                 "t": "p",
-                "x": "국내 최대 서점인 교보문고에 인공지능(AI) 학습용으로 의심되는 대량 도서 주문이 들어온 사실이 14일 확인됐다. AI 기업이 배후에서 주도한다는 의심을 받은 헌책 대량 매입 시도가 앞서 드러났는데, 이번엔 새책 주문까지 나왔다."
+                "x": "미국 AI 기업 앤트로픽이 2021~2022년 불법 디지털 복제본을 다운로드한 목록에 한강의 ‘소년이 온다’를 포함해 황석영·신경숙 등 한국 작가의 작품 최소 15건이 포함된 것으로 드러났다. 앤트로픽은 보상하라는 미국 법원의 판결에 따라 한강 등 국내 작가들에게 보상을 제안한 것으로 파악됐다."
               },
               {
                 "t": "p",
-                "x": "교보문고는 올해 초부터 미국·영국 등 해외 업체들에게서 한국어 도서를 대량으로 사고 싶다는 문의를 받았다. 문의 업체는 약 10개로 미국 업체가 가장 많았다. 이들은 도서명이나 분야와 상관없이 약 10만 종의 도서를 ‘1종당 1권씩’ 사겠다고 했다. 교보문고는 “가능한 한 많은 종류의 도서를 확보하려는 형태라는 점에서 일반적인 거래와 차이가 있었다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "지난 8월 예스24 중고서점과 서울책보고에 헌책을 대량으로 사겠다고 문의한 미국 애리조나주 B사도 “도서별로 한 권씩 매입하니, 전체 권수보다 서로 다른 도서의 종수가 더 중요하다”고 밝혔다. B사는 교보문고에도 구입 문의를 했다고 한다."
-              },
-              {
-                "t": "p",
-                "x": "최종 납품처를 묻자 업체들은 “비밀유지 사항으로 공개할 수 없다”고 답했고, 일부는 “AI 학습 목적은 아니다”라면서도 “최종 납품처는 데이터 관련 기업”이라고 했다. 교보문고는 “AI 학습에 활용될 가능성을 배제하기 어렵다고 판단했다”며 거래 논의를 중단했다. 출판사와 유통업계가 정보를 공유하고 대응 원칙을 마련해야 한다는 입장도 밝혔다."
+                "x": "소송 위험에 직면하자 앤트로픽은 도서 구매로 전략을 바꿨다. 2024년 전 세계 실물 서적을 사들여 스캔하는 ‘파나마 프로젝트’를 시작했고, 한국에서는 최대 도서유통업체 웅진북센과 ‘수천 권 단위’ 구매 계약을 진행했다. 웅진 측은 “앤트로픽과 계약한 것은 맞다”고 확인했다."
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-                "cap": "14일 일본 도쿄에서 열린 앤트로픽 도쿄 사무소 개소 1주년 기념 언론 브리핑. 로이터=연합뉴스"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+                "cap": "‘AI 저작권 침해’ 소송 추이와 앤트로픽 저작권 합의 대상 한국 작가"
               },
               {
                 "t": "p",
-                "x": "해외에서는 일본출판판매(닛판)가 미국 AI 기업 앤트로픽에 2024년 12월부터 1년 동안 일본어 새책을 판매했다. 대한출판문화협회는 이사회를 열어 서점·중고서점·유통업체 실태조사를 하기로 했다. 작가 동의 없는 AI 학습을 비판하는 ‘프랑크푸르트 호소문’에 동참하는 공동 성명서도 발표할 예정이다."
+                "x": "이는 ‘바츠 대 앤트로픽’ 소송과 연관돼 있다. 미국 캘리포니아북부지방법원은 합법 구매 서적 학습은 공정 이용으로 봤지만 불법 복제본은 저작권 침해로 판단했다. 앤트로픽은 약 50만 권을 대상으로 총 15억 달러(약 2조 2000억 원) 합의금을 지불하기로 확정했고, 다음 달 15일부터 지급할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "출판 업계 관계자는 “현행 저작권법상 판매는 가능하지만 그것으로 AI 학습을 시키는 것은 별개의 문제”라며 “아직 국내에는 관련 규정이 공백 상태”라고 지적했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Kyobo gets suspected AI order\nfor 100,000 books (10만권)",
-          "body": "Kyobo Book Centre, Korea's largest bookstore, received a bulk book order suspected to be for AI training.",
-          "mini_headline": "Suspected AI order: 100,000 new books (10만권)",
+          "headline": "Han Kang's 'Human Acts' on\nAnthropic's pirated list",
+          "body": "At least 15 Korean works were on the list of books Anthropic illegally downloaded.",
+          "mini_headline": "Han Kang on Anthropic's list",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-                "cap": "Citizens read books at Kyobo Book Centre in Gwanghwamun, Jongno-gu, Seoul, last July. News1"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+                "cap": "Reuters/Yonhap News"
               },
               {
                 "t": "p",
-                "x": "It was confirmed on the 14th that Kyobo Book Centre, Korea's largest bookstore, received a bulk book order suspected to be for artificial intelligence (AI) training. Earlier attempts to buy used books in bulk, suspected of being led by AI companies behind the scenes, had already come to light; now a case involving new books has been found as well."
+                "x": "At least 15 works by Korean authors, including Han Kang’s ‘Human Acts’ and works by Hwang Sok-yong and Shin Kyung-sook, were found on the list of illegal digital copies that U.S. AI company Anthropic downloaded in 2021~2022. Anthropic is understood to have offered compensation to Han Kang and other Korean authors, following a U.S. court ruling ordering it to compensate them."
               },
               {
                 "t": "p",
-                "x": "Since the start of this year, Kyobo Book Centre has received inquiries from companies based overseas, including in the United States and the United Kingdom, wanting to buy Korean-language books in bulk. About 10 companies made inquiries, most of them American. They said they would buy about 100,000 titles (10만 종), ‘1 copy per title’, regardless of title or subject. Kyobo Book Centre said, “It differed from an ordinary transaction in that it appeared aimed at securing as many different titles as possible.”"
-              },
-              {
-                "t": "p",
-                "x": "Company B, based in Arizona in the United States, which last August asked Yes24's used bookstore and Seoul Chaekbogo about buying used books in bulk, also said, “Since we buy one copy of each book, the number of different titles matters more than the total number of copies.” Company B reportedly also asked Kyobo Book Centre about a purchase."
-              },
-              {
-                "t": "p",
-                "x": "Asked about the final recipient, the companies replied, “It is confidential and cannot be disclosed,” and some said, “It is not for AI training,” while also saying, “The final recipient is a data-related company.” Kyobo Book Centre halted the deal talks, saying, “We judged it hard to rule out the possibility that the books would be used for AI training,” and said publishers and distributors need to share information and set response principles."
+                "x": "Facing litigation risk, Anthropic shifted its strategy to buying books. In 2024 it launched ‘Project Panama’ to buy and scan physical books from around the world, and in Korea it pursued a purchase contract ‘in units of thousands of books’ with Woongjin Booxen, the country’s largest book distributor. Woongjin confirmed, “It is true that we signed a contract with Anthropic.”"
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-                "cap": "A press briefing marking the 1st anniversary of Anthropic's Tokyo office, held in Tokyo, Japan, on the 14th. Reuters=Yonhap"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+                "cap": "Trends in ‘AI copyright infringement’ lawsuits and the Korean authors covered by Anthropic’s copyright settlement"
               },
               {
                 "t": "p",
-                "x": "Overseas, Nippon Shuppan Hanbai (Nippan) sold new Japanese-language books to the American AI company Anthropic over a 1-year period starting in December 2024. The Korean Publishers Association held a board meeting and decided to survey bookstores, used bookstores and distributors, and to issue a joint statement joining the ‘Frankfurt Appeal’, which criticizes AI training without authors' consent."
+                "x": "This is tied to the ‘Bartz v. Anthropic’ lawsuit. The U.S. District Court for the Northern District of California found that training on legally purchased books was fair use, but that pirated copies were copyright infringement. Anthropic has finalized a settlement totaling $1.5 billion (about 2.2 trillion won) covering about 500,000 books, and plans to begin payments on the 15th of next month."
+              },
+              {
+                "t": "p",
+                "x": "A publishing industry official noted, “Under current copyright law, selling them is allowed, but using them to train AI is a separate matter,” adding, “There are still no relevant rules in Korea; it is a blank.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、新刊も狙うのか\n教保文庫に10万冊の注文",
-          "body": "韓国最大の書店、教保文庫にAI学習用とみられる大量の書籍注文が入った。",
-          "mini_headline": "AI学習疑いで新刊10万冊を注文",
+          "headline": "Anthropic違法目録に\n韓江『少年が来る』",
+          "body": "Anthropicが違法ダウンロードした書籍に韓国作品が少なくとも15件含まれていた。",
+          "mini_headline": "Anthropicの目録に韓江作品",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-                "cap": "7月、ソウル鍾路区光化門の教保文庫で本を読む市民たち。News1"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+                "cap": "ロイター/聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "韓国最大の書店である教保文庫に、人工知能(AI)の学習用とみられる大量の書籍注文が入っていたことが14日、分かった。AI企業が裏で主導しているとみられる古書の大量買い取りの動きが先に確認されたのに続き、新刊の注文事例も見つかった形だ。"
+                "x": "米AI企業Anthropicが2021~2022年に違法なデジタル複製本をダウンロードしたリストに、韓江の『少年が来る』をはじめ、黄晳暎、申京淑ら韓国作家の作品が少なくとも15件含まれていたことが明らかになった。Anthropicは補償を命じた米国の裁判所の判決に従い、韓江ら韓国の作家に補償を提案したとみられる。"
               },
               {
                 "t": "p",
-                "x": "教保文庫は今年初めから、米国・英国など海外の業者から韓国語の書籍を大量に購入したいという問い合わせを受けていた。問い合わせてきた業者は約10社で、米国の業者が最も多かった。彼らは書名や分野を問わず、約10万種の書籍を「1種につき1冊ずつ」購入したいとした。教保文庫は「できるだけ多くの種類の書籍を確保しようとする形である点で、通常の取引とは異なっていた」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "8月にYes24の古書店とソウル冊宝庫に古書の大量買い取りを打診した米アリゾナ州のB社も、「書籍ごとに1冊ずつ買い取るので、総冊数より異なる書籍の種類数の方が重要だ」としていた。B社は教保文庫にも購入を打診したという。"
-              },
-              {
-                "t": "p",
-                "x": "業者らは最終的な納品先を尋ねられると「秘密保持事項のため明かせない」と答え、一部は「AI学習目的ではない」としながらも「最終納品先はデータ関連企業だ」と述べた。教保文庫は「AI学習に使われる可能性を排除しにくいと判断した」として取引の協議を打ち切り、出版社と流通業界の間で情報共有と対応原則づくりが必要だとした。"
+                "x": "訴訟リスクに直面したAnthropicは、書籍の購入へと戦略を転換した。2024年には世界中の紙の書籍を買い取ってスキャンする「パナマ・プロジェクト」を始め、韓国では最大の書籍流通会社ウンジン・ブックセンと「数千冊単位」の購入契約を進めた。ウンジン側は「Anthropicと契約したのは事実だ」と認めた。"
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-                "cap": "14日、東京で開かれたAnthropic東京オフィス開設1周年の記者説明会。ロイター=聯合ニュース"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+                "cap": "「AI著作権侵害」訴訟の推移と、Anthropicの著作権和解の対象となった韓国作家"
               },
               {
                 "t": "p",
-                "x": "海外では、日本出版販売(日販)が米AI企業Anthropicに2024年12月から1年間、日本語の新刊を販売した。大韓出版文化協会は理事会を開いて書店・古書店・流通業者の実態調査を行うことを決め、著者の同意なきAI学習を批判する「フランクフルト・アピール」に賛同する共同声明も発表することにした。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI也盯上新书了？\n教保文库收到10万册订单",
-          "body": "韩国最大书店教保文库收到一批疑似用于AI训练的大宗图书订单。",
-          "mini_headline": "疑为AI训练订购10万册新书",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-                "cap": "7月，市民在首尔钟路区光化门教保文库读书。News1"
+                "x": "これは「Bartz対Anthropic」訴訟と関連している。米カリフォルニア北部地区連邦地裁は、合法的に購入した書籍での学習はフェアユースと認めたが、違法な複製本は著作権侵害と判断した。Anthropicは約50万冊を対象に総額15億ドル(約2兆2000億ウォン)の和解金を支払うことを確定し、来月15日から支払いを始める予定だ。"
               },
               {
                 "t": "p",
-                "x": "14日获悉，韩国最大书店教保文库收到了一批疑似用于人工智能(AI)训练的大宗图书订单。继此前发现疑似由AI企业在幕后主导的二手书大量收购尝试之后，又出现了新书订购的案例。"
-              },
-              {
-                "t": "p",
-                "x": "教保文库从今年年初开始，陆续收到来自美国、英国等海外企业的咨询，希望大量购买韩文图书。咨询企业约有10家，其中美国企业最多。这些企业表示，不论书名和领域，希望按“每种1本”的方式购买约10万种图书。教保文库表示：“这种做法力求尽可能多地获取不同种类的图书，与一般交易有所不同。”"
-              },
-              {
-                "t": "p",
-                "x": "8月曾向Yes24二手书店和首尔册宝库咨询大量收购二手书的美国亚利桑那州B公司也表示：“我们每种书只买一本，因此不同图书的种数比总册数更重要。”据悉，B公司也曾向教保文库咨询购买事宜。"
-              },
-              {
-                "t": "p",
-                "x": "被问及最终交付对象时，这些企业回答“属于保密事项，无法公开”；部分企业虽称“并非用于AI训练”，但也表示“最终交付对象是数据相关企业”。教保文库表示“判断难以排除被用于AI训练的可能性”，中止了交易洽谈，并称出版社与流通业界之间需要共享信息、制定应对原则。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-                "cap": "14日在日本东京举行的Anthropic东京办事处成立1周年媒体吹风会。路透社=韩联社"
-              },
-              {
-                "t": "p",
-                "x": "在海外，日本出版贩卖(日贩)自2024年12月起的1年间向美国AI企业Anthropic出售了日文新书。大韩出版文化协会召开理事会，决定对书店、二手书店和流通企业开展实态调查，并将发表联合声明，加入批评未经作者同意进行AI训练的“法兰克福呼吁书”。"
+                "x": "出版業界の関係者は「現行の著作権法上、販売は可能だが、それでAIに学習させるのは別の問題だ」とし、「国内ではまだ関連規定が空白の状態だ」と指摘した。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pedido sospechoso de AI a Kyobo\npor 100,000 libros (10만권)",
-          "body": "Kyobo Book Centre, la mayor librería de Corea, recibió un pedido de libros que se sospecha destinado a entrenar AI.",
-          "mini_headline": "Pedido de 100,000 libros nuevos (10만권) bajo sospecha de AI",
+          "headline": "Han Kang, en la lista ilegal\nde libros de Anthropic",
+          "body": "La lista de libros que Anthropic descargó ilegalmente incluye al menos 15 obras coreanas.",
+          "mini_headline": "Han Kang en la lista de Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-                "cap": "Ciudadanos leen libros en Kyobo Book Centre de Gwanghwamun, en Jongno-gu (Seúl), el pasado julio. News1"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+                "cap": "Reuters/Yonhap"
               },
               {
                 "t": "p",
-                "x": "El día 14 se confirmó que Kyobo Book Centre, la mayor librería de Corea del Sur, recibió un pedido masivo de libros que se sospecha destinado al entrenamiento de inteligencia artificial (AI). Antes ya se habían detectado intentos de compra masiva de libros usados que se sospecha impulsaban empresas de AI desde la sombra; ahora ha aparecido también un caso con libros nuevos."
+                "x": "Se ha revelado que la lista de copias digitales ilegales que la empresa estadounidense de AI Anthropic descargó en 2021~2022 incluye al menos 15 obras de autores coreanos, entre ellas ‘Actos humanos’, de Han Kang, y obras de Hwang Sok-yong y Shin Kyung-sook. Según se ha sabido, Anthropic ha ofrecido una compensación a Han Kang y a otros autores coreanos en cumplimiento de un fallo de un tribunal de EE. UU. que le ordenó compensarlos."
               },
               {
                 "t": "p",
-                "x": "Desde principios de este año, Kyobo Book Centre recibió consultas de empresas con sede en el extranjero, como Estados Unidos y el Reino Unido, interesadas en comprar libros en coreano en grandes cantidades. Fueron unas 10 empresas, en su mayoría estadounidenses. Dijeron que comprarían unos 100,000 títulos (10만 종), ‘1 ejemplar por título’, sin importar el título ni la materia. Kyobo Book Centre afirmó: “Se diferenciaba de una transacción normal en que buscaba conseguir tantos títulos distintos como fuera posible”."
-              },
-              {
-                "t": "p",
-                "x": "La empresa B, con sede en Arizona (Estados Unidos), que el pasado agosto consultó a la librería de segunda mano de Yes24 y a Seoul Chaekbogo sobre la compra masiva de libros usados, también señaló: “Como compramos un ejemplar de cada libro, importa más el número de títulos distintos que el total de ejemplares”. Según se informó, B también consultó a Kyobo Book Centre sobre una compra."
-              },
-              {
-                "t": "p",
-                "x": "Al preguntarles por el destinatario final, las empresas respondieron que “es confidencial y no se puede revelar”, y algunas, aunque afirmaron que “no es para entrenar AI”, dijeron que “el destinatario final es una empresa relacionada con datos”. Kyobo Book Centre suspendió las conversaciones al “considerar difícil descartar que se usaran para entrenar AI” y señaló que editoriales y distribuidores necesitan compartir información y fijar principios de respuesta."
+                "x": "Ante el riesgo de litigios, Anthropic cambió su estrategia hacia la compra de libros. En 2024 puso en marcha el ‘Proyecto Panamá’ para comprar y escanear libros físicos de todo el mundo, y en Corea negoció un contrato de compra ‘por miles de ejemplares’ con Woongjin Booxen, la mayor distribuidora de libros del país. Woongjin confirmó: “Es cierto que firmamos un contrato con Anthropic”."
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-                "cap": "Rueda de prensa por el 1.er aniversario de la oficina de Anthropic en Tokio, celebrada el día 14 en Tokio (Japón). Reuters=Yonhap"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+                "cap": "Evolución de las demandas por ‘infracción de derechos de autor por AI’ y autores coreanos incluidos en el acuerdo de derechos de autor de Anthropic"
               },
               {
                 "t": "p",
-                "x": "En el extranjero, Nippon Shuppan Hanbai (Nippan) vendió libros nuevos en japonés a la empresa estadounidense de AI Anthropic durante 1 año a partir de diciembre de 2024. La Asociación de Editores de Corea celebró una reunión de su junta y decidió investigar la situación de librerías, librerías de segunda mano y distribuidores, así como emitir una declaración conjunta para sumarse al ‘Llamamiento de Fráncfort’, que critica el entrenamiento de AI sin el consentimiento de los autores."
+                "x": "Esto está relacionado con la demanda ‘Bartz contra Anthropic’. El Tribunal de Distrito de EE. UU. para el Distrito Norte de California consideró uso legítimo el entrenamiento con libros comprados legalmente, pero calificó de infracción de derechos de autor las copias ilegales. Anthropic ha cerrado un acuerdo por un total de 1.500 millones de dólares (unos 2,2 billones de wones) por unos 500.000 libros, y prevé empezar a pagar el día 15 del mes próximo."
+              },
+              {
+                "t": "p",
+                "x": "Un responsable del sector editorial señaló: “Según la ley de derechos de autor vigente, venderlos está permitido, pero usarlos para entrenar a la AI es otra cuestión”, y añadió: “En el país todavía hay un vacío normativo al respecto”."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Anthropic盗版书单中\n有韩江《少年来了》",
+          "body": "Anthropic非法下载的图书清单中，至少包含15部韩国作品。",
+          "mini_headline": "Anthropic书单中有韩江作品",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+                "cap": "路透联合新闻"
+              },
+              {
+                "t": "p",
+                "x": "美国AI企业Anthropic于2021~2022年下载非法数字副本的清单中，被发现包含韩江的《少年来了》以及黄晳暎、申京淑等韩国作家的至少15部作品。据悉，Anthropic已根据美国法院要求赔偿的判决，向韩江等韩国作家提出赔偿。"
+              },
+              {
+                "t": "p",
+                "x": "面临诉讼风险后，Anthropic将策略转向购买图书。2024年，它启动了在全球收购实体书并进行扫描的“巴拿马项目”，在韩国则与最大图书流通商熊津北森推进了“以数千册为单位”的采购合同。熊津方面确认：“与Anthropic签约属实。”"
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+                "cap": "“AI版权侵权”诉讼进展与Anthropic版权和解所涉韩国作家"
+              },
+              {
+                "t": "p",
+                "x": "此事与“巴茨诉Anthropic”案有关。美国加利福尼亚北区联邦地方法院认为，用合法购买的书籍进行训练属于合理使用，但盗版副本构成版权侵权。Anthropic已确定针对约50万册图书支付总计15亿美元（约22000亿韩元）的和解金，计划从下月15日起开始支付。"
+              },
+              {
+                "t": "p",
+                "x": "一位出版业人士指出：“按照现行著作权法，销售是可以的，但用它来训练AI是另一回事”，“目前韩国国内相关规定仍处于空白状态”。"
               }
             ]
           }
@@ -253,161 +229,145 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Kyobo gets suspected AI order\nfor 100,000 books (10만권)",
-          "body": "Kyobo Book Centre, Korea's largest bookstore, received a bulk book order suspected to be for AI training.",
-          "mini_headline": "Suspected AI order: 100,000 new books (10만권)",
+          "headline": "Han Kang's 'Human Acts' on\nAnthropic's pirated list",
+          "body": "At least 15 Korean works were on the list of books Anthropic illegally downloaded.",
+          "mini_headline": "Han Kang on Anthropic's list",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-                "cap": "Citizens read books at Kyobo Book Centre in Gwanghwamun, Jongno-gu, Seoul, last July. News1"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+                "cap": "Reuters/Yonhap News"
               },
               {
                 "t": "p",
-                "x": "It was confirmed on the 14th that Kyobo Book Centre, Korea's largest bookstore, received a bulk book order suspected to be for artificial intelligence (AI) training. Earlier attempts to buy used books in bulk, suspected of being led by AI companies behind the scenes, had already come to light; now a case involving new books has been found as well."
+                "x": "At least 15 works by Korean authors, including Han Kang’s ‘Human Acts’ and works by Hwang Sok-yong and Shin Kyung-sook, were found on the list of illegal digital copies that U.S. AI company Anthropic downloaded in 2021~2022. Anthropic is understood to have offered compensation to Han Kang and other Korean authors, following a U.S. court ruling ordering it to compensate them."
               },
               {
                 "t": "p",
-                "x": "Since the start of this year, Kyobo Book Centre has received inquiries from companies based overseas, including in the United States and the United Kingdom, wanting to buy Korean-language books in bulk. About 10 companies made inquiries, most of them American. They said they would buy about 100,000 titles (10만 종), ‘1 copy per title’, regardless of title or subject. Kyobo Book Centre said, “It differed from an ordinary transaction in that it appeared aimed at securing as many different titles as possible.”"
-              },
-              {
-                "t": "p",
-                "x": "Company B, based in Arizona in the United States, which last August asked Yes24's used bookstore and Seoul Chaekbogo about buying used books in bulk, also said, “Since we buy one copy of each book, the number of different titles matters more than the total number of copies.” Company B reportedly also asked Kyobo Book Centre about a purchase."
-              },
-              {
-                "t": "p",
-                "x": "Asked about the final recipient, the companies replied, “It is confidential and cannot be disclosed,” and some said, “It is not for AI training,” while also saying, “The final recipient is a data-related company.” Kyobo Book Centre halted the deal talks, saying, “We judged it hard to rule out the possibility that the books would be used for AI training,” and said publishers and distributors need to share information and set response principles."
+                "x": "Facing litigation risk, Anthropic shifted its strategy to buying books. In 2024 it launched ‘Project Panama’ to buy and scan physical books from around the world, and in Korea it pursued a purchase contract ‘in units of thousands of books’ with Woongjin Booxen, the country’s largest book distributor. Woongjin confirmed, “It is true that we signed a contract with Anthropic.”"
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-                "cap": "A press briefing marking the 1st anniversary of Anthropic's Tokyo office, held in Tokyo, Japan, on the 14th. Reuters=Yonhap"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+                "cap": "Trends in ‘AI copyright infringement’ lawsuits and the Korean authors covered by Anthropic’s copyright settlement"
               },
               {
                 "t": "p",
-                "x": "Overseas, Nippon Shuppan Hanbai (Nippan) sold new Japanese-language books to the American AI company Anthropic over a 1-year period starting in December 2024. The Korean Publishers Association held a board meeting and decided to survey bookstores, used bookstores and distributors, and to issue a joint statement joining the ‘Frankfurt Appeal’, which criticizes AI training without authors' consent."
+                "x": "This is tied to the ‘Bartz v. Anthropic’ lawsuit. The U.S. District Court for the Northern District of California found that training on legally purchased books was fair use, but that pirated copies were copyright infringement. Anthropic has finalized a settlement totaling $1.5 billion (about 2.2 trillion won) covering about 500,000 books, and plans to begin payments on the 15th of next month."
+              },
+              {
+                "t": "p",
+                "x": "A publishing industry official noted, “Under current copyright law, selling them is allowed, but using them to train AI is a separate matter,” adding, “There are still no relevant rules in Korea; it is a blank.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、新刊も狙うのか\n教保文庫に10万冊の注文",
-          "body": "韓国最大の書店、教保文庫にAI学習用とみられる大量の書籍注文が入った。",
-          "mini_headline": "AI学習疑いで新刊10万冊を注文",
+          "headline": "Anthropic違法目録に\n韓江『少年が来る』",
+          "body": "Anthropicが違法ダウンロードした書籍に韓国作品が少なくとも15件含まれていた。",
+          "mini_headline": "Anthropicの目録に韓江作品",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-                "cap": "7月、ソウル鍾路区光化門の教保文庫で本を読む市民たち。News1"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+                "cap": "ロイター/聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "韓国最大の書店である教保文庫に、人工知能(AI)の学習用とみられる大量の書籍注文が入っていたことが14日、分かった。AI企業が裏で主導しているとみられる古書の大量買い取りの動きが先に確認されたのに続き、新刊の注文事例も見つかった形だ。"
+                "x": "米AI企業Anthropicが2021~2022年に違法なデジタル複製本をダウンロードしたリストに、韓江の『少年が来る』をはじめ、黄晳暎、申京淑ら韓国作家の作品が少なくとも15件含まれていたことが明らかになった。Anthropicは補償を命じた米国の裁判所の判決に従い、韓江ら韓国の作家に補償を提案したとみられる。"
               },
               {
                 "t": "p",
-                "x": "教保文庫は今年初めから、米国・英国など海外の業者から韓国語の書籍を大量に購入したいという問い合わせを受けていた。問い合わせてきた業者は約10社で、米国の業者が最も多かった。彼らは書名や分野を問わず、約10万種の書籍を「1種につき1冊ずつ」購入したいとした。教保文庫は「できるだけ多くの種類の書籍を確保しようとする形である点で、通常の取引とは異なっていた」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "8月にYes24の古書店とソウル冊宝庫に古書の大量買い取りを打診した米アリゾナ州のB社も、「書籍ごとに1冊ずつ買い取るので、総冊数より異なる書籍の種類数の方が重要だ」としていた。B社は教保文庫にも購入を打診したという。"
-              },
-              {
-                "t": "p",
-                "x": "業者らは最終的な納品先を尋ねられると「秘密保持事項のため明かせない」と答え、一部は「AI学習目的ではない」としながらも「最終納品先はデータ関連企業だ」と述べた。教保文庫は「AI学習に使われる可能性を排除しにくいと判断した」として取引の協議を打ち切り、出版社と流通業界の間で情報共有と対応原則づくりが必要だとした。"
+                "x": "訴訟リスクに直面したAnthropicは、書籍の購入へと戦略を転換した。2024年には世界中の紙の書籍を買い取ってスキャンする「パナマ・プロジェクト」を始め、韓国では最大の書籍流通会社ウンジン・ブックセンと「数千冊単位」の購入契約を進めた。ウンジン側は「Anthropicと契約したのは事実だ」と認めた。"
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-                "cap": "14日、東京で開かれたAnthropic東京オフィス開設1周年の記者説明会。ロイター=聯合ニュース"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+                "cap": "「AI著作権侵害」訴訟の推移と、Anthropicの著作権和解の対象となった韓国作家"
               },
               {
                 "t": "p",
-                "x": "海外では、日本出版販売(日販)が米AI企業Anthropicに2024年12月から1年間、日本語の新刊を販売した。大韓出版文化協会は理事会を開いて書店・古書店・流通業者の実態調査を行うことを決め、著者の同意なきAI学習を批判する「フランクフルト・アピール」に賛同する共同声明も発表することにした。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI也盯上新书了？\n教保文库收到10万册订单",
-          "body": "韩国最大书店教保文库收到一批疑似用于AI训练的大宗图书订单。",
-          "mini_headline": "疑为AI训练订购10万册新书",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-                "cap": "7月，市民在首尔钟路区光化门教保文库读书。News1"
+                "x": "これは「Bartz対Anthropic」訴訟と関連している。米カリフォルニア北部地区連邦地裁は、合法的に購入した書籍での学習はフェアユースと認めたが、違法な複製本は著作権侵害と判断した。Anthropicは約50万冊を対象に総額15億ドル(約2兆2000億ウォン)の和解金を支払うことを確定し、来月15日から支払いを始める予定だ。"
               },
               {
                 "t": "p",
-                "x": "14日获悉，韩国最大书店教保文库收到了一批疑似用于人工智能(AI)训练的大宗图书订单。继此前发现疑似由AI企业在幕后主导的二手书大量收购尝试之后，又出现了新书订购的案例。"
-              },
-              {
-                "t": "p",
-                "x": "教保文库从今年年初开始，陆续收到来自美国、英国等海外企业的咨询，希望大量购买韩文图书。咨询企业约有10家，其中美国企业最多。这些企业表示，不论书名和领域，希望按“每种1本”的方式购买约10万种图书。教保文库表示：“这种做法力求尽可能多地获取不同种类的图书，与一般交易有所不同。”"
-              },
-              {
-                "t": "p",
-                "x": "8月曾向Yes24二手书店和首尔册宝库咨询大量收购二手书的美国亚利桑那州B公司也表示：“我们每种书只买一本，因此不同图书的种数比总册数更重要。”据悉，B公司也曾向教保文库咨询购买事宜。"
-              },
-              {
-                "t": "p",
-                "x": "被问及最终交付对象时，这些企业回答“属于保密事项，无法公开”；部分企业虽称“并非用于AI训练”，但也表示“最终交付对象是数据相关企业”。教保文库表示“判断难以排除被用于AI训练的可能性”，中止了交易洽谈，并称出版社与流通业界之间需要共享信息、制定应对原则。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-                "cap": "14日在日本东京举行的Anthropic东京办事处成立1周年媒体吹风会。路透社=韩联社"
-              },
-              {
-                "t": "p",
-                "x": "在海外，日本出版贩卖(日贩)自2024年12月起的1年间向美国AI企业Anthropic出售了日文新书。大韩出版文化协会召开理事会，决定对书店、二手书店和流通企业开展实态调查，并将发表联合声明，加入批评未经作者同意进行AI训练的“法兰克福呼吁书”。"
+                "x": "出版業界の関係者は「現行の著作権法上、販売は可能だが、それでAIに学習させるのは別の問題だ」とし、「国内ではまだ関連規定が空白の状態だ」と指摘した。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pedido sospechoso de AI a Kyobo\npor 100,000 libros (10만권)",
-          "body": "Kyobo Book Centre, la mayor librería de Corea, recibió un pedido de libros que se sospecha destinado a entrenar AI.",
-          "mini_headline": "Pedido de 100,000 libros nuevos (10만권) bajo sospecha de AI",
+          "headline": "Han Kang, en la lista ilegal\nde libros de Anthropic",
+          "body": "La lista de libros que Anthropic descargó ilegalmente incluye al menos 15 obras coreanas.",
+          "mini_headline": "Han Kang en la lista de Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-                "cap": "Ciudadanos leen libros en Kyobo Book Centre de Gwanghwamun, en Jongno-gu (Seúl), el pasado julio. News1"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+                "cap": "Reuters/Yonhap"
               },
               {
                 "t": "p",
-                "x": "El día 14 se confirmó que Kyobo Book Centre, la mayor librería de Corea del Sur, recibió un pedido masivo de libros que se sospecha destinado al entrenamiento de inteligencia artificial (AI). Antes ya se habían detectado intentos de compra masiva de libros usados que se sospecha impulsaban empresas de AI desde la sombra; ahora ha aparecido también un caso con libros nuevos."
+                "x": "Se ha revelado que la lista de copias digitales ilegales que la empresa estadounidense de AI Anthropic descargó en 2021~2022 incluye al menos 15 obras de autores coreanos, entre ellas ‘Actos humanos’, de Han Kang, y obras de Hwang Sok-yong y Shin Kyung-sook. Según se ha sabido, Anthropic ha ofrecido una compensación a Han Kang y a otros autores coreanos en cumplimiento de un fallo de un tribunal de EE. UU. que le ordenó compensarlos."
               },
               {
                 "t": "p",
-                "x": "Desde principios de este año, Kyobo Book Centre recibió consultas de empresas con sede en el extranjero, como Estados Unidos y el Reino Unido, interesadas en comprar libros en coreano en grandes cantidades. Fueron unas 10 empresas, en su mayoría estadounidenses. Dijeron que comprarían unos 100,000 títulos (10만 종), ‘1 ejemplar por título’, sin importar el título ni la materia. Kyobo Book Centre afirmó: “Se diferenciaba de una transacción normal en que buscaba conseguir tantos títulos distintos como fuera posible”."
-              },
-              {
-                "t": "p",
-                "x": "La empresa B, con sede en Arizona (Estados Unidos), que el pasado agosto consultó a la librería de segunda mano de Yes24 y a Seoul Chaekbogo sobre la compra masiva de libros usados, también señaló: “Como compramos un ejemplar de cada libro, importa más el número de títulos distintos que el total de ejemplares”. Según se informó, B también consultó a Kyobo Book Centre sobre una compra."
-              },
-              {
-                "t": "p",
-                "x": "Al preguntarles por el destinatario final, las empresas respondieron que “es confidencial y no se puede revelar”, y algunas, aunque afirmaron que “no es para entrenar AI”, dijeron que “el destinatario final es una empresa relacionada con datos”. Kyobo Book Centre suspendió las conversaciones al “considerar difícil descartar que se usaran para entrenar AI” y señaló que editoriales y distribuidores necesitan compartir información y fijar principios de respuesta."
+                "x": "Ante el riesgo de litigios, Anthropic cambió su estrategia hacia la compra de libros. En 2024 puso en marcha el ‘Proyecto Panamá’ para comprar y escanear libros físicos de todo el mundo, y en Corea negoció un contrato de compra ‘por miles de ejemplares’ con Woongjin Booxen, la mayor distribuidora de libros del país. Woongjin confirmó: “Es cierto que firmamos un contrato con Anthropic”."
               },
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
-                "cap": "Rueda de prensa por el 1.er aniversario de la oficina de Anthropic en Tokio, celebrada el día 14 en Tokio (Japón). Reuters=Yonhap"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+                "cap": "Evolución de las demandas por ‘infracción de derechos de autor por AI’ y autores coreanos incluidos en el acuerdo de derechos de autor de Anthropic"
               },
               {
                 "t": "p",
-                "x": "En el extranjero, Nippon Shuppan Hanbai (Nippan) vendió libros nuevos en japonés a la empresa estadounidense de AI Anthropic durante 1 año a partir de diciembre de 2024. La Asociación de Editores de Corea celebró una reunión de su junta y decidió investigar la situación de librerías, librerías de segunda mano y distribuidores, así como emitir una declaración conjunta para sumarse al ‘Llamamiento de Fráncfort’, que critica el entrenamiento de AI sin el consentimiento de los autores."
+                "x": "Esto está relacionado con la demanda ‘Bartz contra Anthropic’. El Tribunal de Distrito de EE. UU. para el Distrito Norte de California consideró uso legítimo el entrenamiento con libros comprados legalmente, pero calificó de infracción de derechos de autor las copias ilegales. Anthropic ha cerrado un acuerdo por un total de 1.500 millones de dólares (unos 2,2 billones de wones) por unos 500.000 libros, y prevé empezar a pagar el día 15 del mes próximo."
+              },
+              {
+                "t": "p",
+                "x": "Un responsable del sector editorial señaló: “Según la ley de derechos de autor vigente, venderlos está permitido, pero usarlos para entrenar a la AI es otra cuestión”, y añadió: “En el país todavía hay un vacío normativo al respecto”."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Anthropic盗版书单中\n有韩江《少年来了》",
+          "body": "Anthropic非法下载的图书清单中，至少包含15部韩国作品。",
+          "mini_headline": "Anthropic书单中有韩江作品",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+                "cap": "路透联合新闻"
+              },
+              {
+                "t": "p",
+                "x": "美国AI企业Anthropic于2021~2022年下载非法数字副本的清单中，被发现包含韩江的《少年来了》以及黄晳暎、申京淑等韩国作家的至少15部作品。据悉，Anthropic已根据美国法院要求赔偿的判决，向韩江等韩国作家提出赔偿。"
+              },
+              {
+                "t": "p",
+                "x": "面临诉讼风险后，Anthropic将策略转向购买图书。2024年，它启动了在全球收购实体书并进行扫描的“巴拿马项目”，在韩国则与最大图书流通商熊津北森推进了“以数千册为单位”的采购合同。熊津方面确认：“与Anthropic签约属实。”"
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+                "cap": "“AI版权侵权”诉讼进展与Anthropic版权和解所涉韩国作家"
+              },
+              {
+                "t": "p",
+                "x": "此事与“巴茨诉Anthropic”案有关。美国加利福尼亚北区联邦地方法院认为，用合法购买的书籍进行训练属于合理使用，但盗版副本构成版权侵权。Anthropic已确定针对约50万册图书支付总计15亿美元（约22000亿韩元）的和解金，计划从下月15日起开始支付。"
+              },
+              {
+                "t": "p",
+                "x": "一位出版业人士指出：“按照现行著作权法，销售是可以的，但用它来训练AI是另一回事”，“目前韩国国内相关规定仍处于空白状态”。"
               }
             ]
           }
@@ -415,15 +375,15 @@
       }
     },
     {
-      "id": "books-soa-ai-charter",
+      "id": "books-currentaffairs-ai-ban",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "작가들, 창작자 위한\n윤리 AI 헌장 발표",
-      "body": "Society of Authors가 창작자를 지키는 윤리 AI 헌장을 내놨다.",
-      "mini_headline": "작가들이 낸 윤리 AI 헌장",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy",
+      "eyebrow": "AI NEWS",
+      "headline": "잡지 노조 계약에\nAI 금지 명문화",
+      "body": "Current Affairs가 노조 계약에 엄격한 AI 금지를 담았다.",
+      "mini_headline": "Current Affairs, AI 금지",
+      "source": "Current Affairs",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -431,131 +391,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-            "cap": "Anna Ganley"
+            "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+            "cap": "소비에트 사실주의(Soviet Realist) 화풍으로 두 인물이 망치로 ChatGPT 로고를 부수는 콜라주."
           },
           {
             "t": "p",
-            "x": "Society of Authors는 10월 13일 런던에서 열린 Creators Emergency Summit에서 글로벌 윤리 AI 헌장을 발표했다. 헌장이 내건 목표는 “인간 창작자를 보호하고 지원하도록 생성형 AI 서비스를 어떻게 배치해야 하는지 규정하는 것”이다."
+            "x": "Current Affairs는 새 노조 계약에 출판업계에서 가장 엄격한 축에 드는 반AI(anti-AI) 정책을 넣었다. AI가 생성한(AI-generated) 글은 싣지 않고 AI로 만든 그림도 삽화로 쓰지 않는다."
           },
           {
             "t": "p",
-            "x": "The Bookseller는 세계 창작 단체들이 “정부 정책의 공백 속에서” 이 헌장을 내놓는다고 전했다. 기사 전문은 등록 독자만 볼 수 있다."
+            "x": "편집장 Nathan J. Robinson은 이 정책으로 미디어의 ‘슬롭화(slopification)’에 정면으로 맞선다고 말한다. 뉴스룸은 앞다퉈 작가를 AI로 갈아 치우고 창작 산업은 예술가의 작품을 학습한 모델에 일자리를 내준다."
+          },
+          {
+            "t": "p",
+            "x": "잡지는 지금까지 인쇄판 62호를 내며 손으로 만든 작품 수백 점을 의뢰했고 앞으로도 인간 예술가에게 대가를 치른다. 도구를 전부 막지는 않는다. 작가는 자료 조사에 새 소프트웨어를 써도 되고 예술가는 질감을 더하거나 색을 바꿔도 된다."
+          },
+          {
+            "t": "p",
+            "x": "501(c)(3) 단체이자 노조가 있는 이 잡지는 노동자를 기계로 바꿀 유인이 없다고 밝힌다. 독자에게는 ‘슬롭(slop)’을 먹이는 매체에 돈을 대지 말라고 당부한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Authors launch an ethical\nAI charter for creators",
-          "body": "The Society of Authors launched a global, ethical AI charter on how generative AI should protect and support creators.",
-          "mini_headline": "Authors' ethical AI charter",
+          "headline": "Current Affairs writes an AI\nban into its union contract",
+          "body": "Current Affairs' new union contract commits the magazine to stay handmade, one of publishing's strictest AI bans.",
+          "mini_headline": "Current Affairs bans AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+                "cap": "A collage of two figures smashing the ChatGPT logo with hammers, in a Soviet Realist style."
               },
               {
                 "t": "p",
-                "x": "The Society of Authors launched a global, ethical AI charter at the Creators Emergency Summit in London on 13th October, aimed at “defining how generative AI services should be deployed to help protect and support human creators”."
+                "x": "As part of its new union contract, Current Affairs has adopted one of the strictest anti-AI policies in the publishing industry. No AI-generated text may be published in the magazine, and no AI-generated art may be used as an illustration."
               },
               {
                 "t": "p",
-                "x": "The Bookseller reports that global creative bodies are launching the charter “in the vacuum of government policy”. The full article is available to registered readers only."
+                "x": "Editor Nathan J. Robinson says the policy directly challenges the “slopification” of media, as newsrooms rush to replace writers with AI and creative industries lose jobs to models trained on artists’ work."
+              },
+              {
+                "t": "p",
+                "x": "Over 62 print issues the magazine has commissioned hundreds of handmade artworks, and it will keep paying human artists. The rule does not ban every tool: writers may use new software for research, and artists may add a texture or change a color."
+              },
+              {
+                "t": "p",
+                "x": "The magazine, a unionized 501(c)(3), says it has no incentive to replace workers with machines, and urges readers not to fund publications that feed them “slop”."
               }
             ]
           }
         },
         "ko": {
-          "headline": "작가들, 창작자 위한\n윤리 AI 헌장 발표",
-          "body": "Society of Authors가 창작자를 지키는 윤리 AI 헌장을 내놨다.",
-          "mini_headline": "작가들이 낸 윤리 AI 헌장",
+          "headline": "잡지 노조 계약에\nAI 금지 명문화",
+          "body": "Current Affairs가 노조 계약에 엄격한 AI 금지를 담았다.",
+          "mini_headline": "Current Affairs, AI 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+                "cap": "소비에트 사실주의(Soviet Realist) 화풍으로 두 인물이 망치로 ChatGPT 로고를 부수는 콜라주."
               },
               {
                 "t": "p",
-                "x": "Society of Authors는 10월 13일 런던에서 열린 Creators Emergency Summit에서 글로벌 윤리 AI 헌장을 발표했다. 헌장이 내건 목표는 “인간 창작자를 보호하고 지원하도록 생성형 AI 서비스를 어떻게 배치해야 하는지 규정하는 것”이다."
+                "x": "Current Affairs는 새 노조 계약에 출판업계에서 가장 엄격한 축에 드는 반AI(anti-AI) 정책을 넣었다. AI가 생성한(AI-generated) 글은 싣지 않고 AI로 만든 그림도 삽화로 쓰지 않는다."
               },
               {
                 "t": "p",
-                "x": "The Bookseller는 세계 창작 단체들이 “정부 정책의 공백 속에서” 이 헌장을 내놓는다고 전했다. 기사 전문은 등록 독자만 볼 수 있다."
+                "x": "편집장 Nathan J. Robinson은 이 정책으로 미디어의 ‘슬롭화(slopification)’에 정면으로 맞선다고 말한다. 뉴스룸은 앞다퉈 작가를 AI로 갈아 치우고 창작 산업은 예술가의 작품을 학습한 모델에 일자리를 내준다."
+              },
+              {
+                "t": "p",
+                "x": "잡지는 지금까지 인쇄판 62호를 내며 손으로 만든 작품 수백 점을 의뢰했고 앞으로도 인간 예술가에게 대가를 치른다. 도구를 전부 막지는 않는다. 작가는 자료 조사에 새 소프트웨어를 써도 되고 예술가는 질감을 더하거나 색을 바꿔도 된다."
+              },
+              {
+                "t": "p",
+                "x": "501(c)(3) 단체이자 노조가 있는 이 잡지는 노동자를 기계로 바꿀 유인이 없다고 밝힌다. 독자에게는 ‘슬롭(slop)’을 먹이는 매체에 돈을 대지 말라고 당부한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家団体が創作者向け\n倫理的AI憲章を発表",
-          "body": "Society of Authorsが、創作者を守る世界的な倫理的AI憲章を発表した。",
-          "mini_headline": "作家たちの倫理的AI憲章",
+          "headline": "雑誌が労組契約に\nAI禁止を明記",
+          "body": "Current Affairsは労組契約で、出版界で最も厳しい部類のAI禁止を定めた。",
+          "mini_headline": "Current Affairs、AI禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+                "cap": "ソビエト・リアリズム(Soviet Realist)風に、2人の人物がハンマーでChatGPTのロゴを叩き壊すコラージュ。"
               },
               {
                 "t": "p",
-                "x": "Society of Authorsは10月13日、ロンドンで開かれたCreators Emergency Summitで、世界的かつ倫理的なAI憲章を発表した。「人間の創作者を守り支えるために、生成AIサービスをどのように展開すべきかを定める」ことを目的としている。"
+                "x": "Current Affairsは新たな労組契約の一環として、出版業界で最も厳しい部類の反AI(anti-AI)方針を採用した。誌面にAI生成(AI-generated)の文章は載せず、AI生成のアートをイラストとして使うこともない。"
               },
               {
                 "t": "p",
-                "x": "The Booksellerによると、各国の創作団体が「政府の政策が空白のなかで」この憲章を立ち上げている。記事全文は登録読者のみ閲覧できる。"
+                "x": "編集長のNathan J. Robinsonは、この方針はメディアの「スロップ化(slopification)」に正面から異を唱えるものだと語る。報道機関は書き手をAIに置き換えようと急ぎ、クリエイティブ産業はアーティストの作品で学習したモデルに仕事を奪われている。"
+              },
+              {
+                "t": "p",
+                "x": "同誌はこれまで62号の紙の号で数百点の手作りの作品を依頼してきており、今後も人間のアーティストに報酬を支払い続ける。ただし、あらゆるツールを禁じるわけではない。書き手は調査に新しいソフトウェアを使ってよく、アーティストは質感を加えたり色を変えたりできる。"
+              },
+              {
+                "t": "p",
+                "x": "労働組合のある501(c)(3)団体である同誌は、労働者を機械に置き換える動機はないとし、読者に「スロップ(slop)」を与える媒体に資金を出さないよう呼びかけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "作家协会发布\n面向创作者的AI伦理宪章",
-          "body": "Society of Authors发布全球性AI伦理宪章，规范生成式AI如何保护创作者。",
-          "mini_headline": "作家的AI伦理宪章",
+          "headline": "杂志把AI禁令\n写进工会合同",
+          "body": "Current Affairs在新工会合同中写入出版业最严格之一的AI禁令。",
+          "mini_headline": "Current Affairs禁用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+                "cap": "一幅苏联现实主义（Soviet Realist）风格的拼贴画：两个人物用锤子砸碎ChatGPT标志。"
               },
               {
                 "t": "p",
-                "x": "Society of Authors于10月13日在伦敦举行的Creators Emergency Summit上发布了一份全球性的AI伦理宪章，旨在“界定生成式AI服务应如何部署，以帮助保护和支持人类创作者”。"
+                "x": "作为新工会合同的一部分，Current Affairs采取了出版业最严格的反AI（anti-AI）政策之一。杂志不刊登任何AI生成（AI-generated）的文字，也不使用任何AI生成的图像作为插图。"
               },
               {
                 "t": "p",
-                "x": "据The Bookseller报道，全球创意机构正“在政府政策真空中”推出这份宪章。全文仅供注册读者阅读。"
+                "x": "主编Nathan J. Robinson表示，这项政策直接挑战媒体的“垃圾化”（slopification）。如今新闻编辑室争相用AI取代写作者，创意产业的工作岗位也正被以艺术家作品训练的模型夺走。"
+              },
+              {
+                "t": "p",
+                "x": "在已出版的62期印刷版中，该杂志委托创作了数百件手工艺术作品，并将继续向人类艺术家付费。这项规定并非禁止所有工具：写作者可以用新软件做研究，艺术家可以添加纹理或调整颜色。"
+              },
+              {
+                "t": "p",
+                "x": "这家设有工会的501(c)(3)机构表示，它没有用机器取代员工的动机，并呼吁读者不要资助那些向他们投喂“垃圾”（slop）的出版物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores lanzan una carta ética\nde AI para los creadores",
-          "body": "La Society of Authors lanzó una carta ética global sobre cómo la AI generativa debe proteger y apoyar a los creadores.",
-          "mini_headline": "Carta ética de AI de los autores",
+          "headline": "Current Affairs veta la AI\nen su contrato sindical",
+          "body": "El nuevo contrato sindical de Current Affairs fija uno de los vetos a la AI más estrictos del sector editorial.",
+          "mini_headline": "Current Affairs veta la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+                "cap": "Un collage de dos figuras que destrozan a martillazos el logotipo de ChatGPT, al estilo del realismo soviético (Soviet Realist)."
               },
               {
                 "t": "p",
-                "x": "La Society of Authors lanzó una carta ética y global sobre AI en la Creators Emergency Summit, celebrada en Londres el 13 de octubre, con el objetivo de “definir cómo deben implantarse los servicios de AI generativa para ayudar a proteger y apoyar a los creadores humanos”."
+                "x": "Como parte de su nuevo contrato sindical, Current Affairs ha adoptado una de las políticas anti-AI más estrictas del sector editorial. La revista no publicará ningún texto generado por AI (AI-generated) ni usará arte generado por AI como ilustración."
               },
               {
                 "t": "p",
-                "x": "The Bookseller informa de que organismos creativos de todo el mundo lanzan la carta “en el vacío de la política gubernamental”. El artículo completo solo está disponible para lectores registrados."
+                "x": "El editor Nathan J. Robinson afirma que la política desafía directamente la “slopification” de los medios, mientras las redacciones se apresuran a sustituir a los redactores por AI y las industrias creativas pierden empleos frente a modelos entrenados con la obra de artistas."
+              },
+              {
+                "t": "p",
+                "x": "A lo largo de 62 números impresos, la revista ha encargado cientos de obras hechas a mano y seguirá pagando a artistas humanos. La norma no prohíbe todas las herramientas: los redactores pueden usar software nuevo para investigar, y los artistas pueden añadir una textura o cambiar un color."
+              },
+              {
+                "t": "p",
+                "x": "La revista, una entidad 501(c)(3) con plantilla sindicada, afirma que no tiene ningún incentivo para sustituir a trabajadores por máquinas e insta a los lectores a no financiar publicaciones que les sirven “slop”."
               }
             ]
           }
@@ -563,93 +571,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "작가들, 창작자 위한\n윤리적 AI 헌장 발표",
-          "body": "Society of Authors가 창작자 보호를 위한 윤리 AI 헌장을 냈다.",
-          "mini_headline": "작가들의 윤리적 AI 헌장",
+          "headline": "잡지 노조 계약에\nAI 금지 명문화",
+          "body": "Current Affairs가 노조 계약에 엄격한 AI 금지를 담았다.",
+          "mini_headline": "Current Affairs, AI 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+                "cap": "소비에트 사실주의(Soviet Realist) 화풍으로 두 인물이 망치로 ChatGPT 로고를 부수는 콜라주."
               },
               {
                 "t": "p",
-                "x": "Society of Authors는 10월 13일 런던에서 열린 Creators Emergency Summit에서 글로벌 윤리 AI 헌장을 발표했다. 헌장은 “인간 창작자를 보호하고 지원하도록 생성형 AI 서비스를 어떻게 배치해야 하는지 규정하는 것”을 목표로 한다."
+                "x": "Current Affairs는 새 노조 계약의 일환으로 출판업계에서 가장 엄격한 축에 드는 반AI(anti-AI) 정책을 도입했다. 잡지에는 AI가 생성한(AI-generated) 글을 싣지 않고, AI가 생성한 그림도 삽화로 쓰지 않는다."
               },
               {
                 "t": "p",
-                "x": "The Bookseller에 따르면 세계 창작 단체들이 “정부 정책의 공백 속에서” 이 헌장을 내놓고 있다. 기사 전문은 등록 독자만 볼 수 있다."
+                "x": "편집장 Nathan J. Robinson은 이 정책이 미디어의 ‘슬롭화(slopification)’에 정면으로 맞서는 것이라고 말한다. 뉴스룸은 앞다퉈 작가를 AI로 대체하고, 창작 산업은 예술가의 작품으로 학습한 모델에 일자리를 내주고 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 잡지는 지금까지 인쇄판 62호를 내며 손으로 만든 작품 수백 점을 의뢰했고, 앞으로도 인간 예술가에게 대가를 지급한다. 모든 도구를 금지하는 것은 아니다. 작가는 자료 조사에 새 소프트웨어를 쓸 수 있고, 예술가는 질감을 더하거나 색을 바꿀 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "노조가 있는 501(c)(3) 단체인 이 잡지는 노동자를 기계로 대체할 유인이 없다고 밝히며, 독자에게 ‘슬롭(slop)’을 먹이는 매체에 돈을 대지 말라고 당부한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家団体が創作者向け\n倫理的AI憲章を発表",
-          "body": "Society of Authorsが、創作者を守る世界的な倫理的AI憲章を発表した。",
-          "mini_headline": "作家たちの倫理的AI憲章",
+          "headline": "雑誌が労組契約に\nAI禁止を明記",
+          "body": "Current Affairsは労組契約で、出版界で最も厳しい部類のAI禁止を定めた。",
+          "mini_headline": "Current Affairs、AI禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+                "cap": "ソビエト・リアリズム(Soviet Realist)風に、2人の人物がハンマーでChatGPTのロゴを叩き壊すコラージュ。"
               },
               {
                 "t": "p",
-                "x": "Society of Authorsは10月13日、ロンドンで開かれたCreators Emergency Summitで、世界的かつ倫理的なAI憲章を発表した。「人間の創作者を守り支えるために、生成AIサービスをどのように展開すべきかを定める」ことを目的としている。"
+                "x": "Current Affairsは新たな労組契約の一環として、出版業界で最も厳しい部類の反AI(anti-AI)方針を採用した。誌面にAI生成(AI-generated)の文章は載せず、AI生成のアートをイラストとして使うこともない。"
               },
               {
                 "t": "p",
-                "x": "The Booksellerによると、各国の創作団体が「政府の政策が空白のなかで」この憲章を立ち上げている。記事全文は登録読者のみ閲覧できる。"
+                "x": "編集長のNathan J. Robinsonは、この方針はメディアの「スロップ化(slopification)」に正面から異を唱えるものだと語る。報道機関は書き手をAIに置き換えようと急ぎ、クリエイティブ産業はアーティストの作品で学習したモデルに仕事を奪われている。"
+              },
+              {
+                "t": "p",
+                "x": "同誌はこれまで62号の紙の号で数百点の手作りの作品を依頼してきており、今後も人間のアーティストに報酬を支払い続ける。ただし、あらゆるツールを禁じるわけではない。書き手は調査に新しいソフトウェアを使ってよく、アーティストは質感を加えたり色を変えたりできる。"
+              },
+              {
+                "t": "p",
+                "x": "労働組合のある501(c)(3)団体である同誌は、労働者を機械に置き換える動機はないとし、読者に「スロップ(slop)」を与える媒体に資金を出さないよう呼びかけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "作家协会发布\n面向创作者的AI伦理宪章",
-          "body": "Society of Authors发布全球性AI伦理宪章，规范生成式AI如何保护创作者。",
-          "mini_headline": "作家的AI伦理宪章",
+          "headline": "杂志把AI禁令\n写进工会合同",
+          "body": "Current Affairs在新工会合同中写入出版业最严格之一的AI禁令。",
+          "mini_headline": "Current Affairs禁用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+                "cap": "一幅苏联现实主义（Soviet Realist）风格的拼贴画：两个人物用锤子砸碎ChatGPT标志。"
               },
               {
                 "t": "p",
-                "x": "Society of Authors于10月13日在伦敦举行的Creators Emergency Summit上发布了一份全球性的AI伦理宪章，旨在“界定生成式AI服务应如何部署，以帮助保护和支持人类创作者”。"
+                "x": "作为新工会合同的一部分，Current Affairs采取了出版业最严格的反AI（anti-AI）政策之一。杂志不刊登任何AI生成（AI-generated）的文字，也不使用任何AI生成的图像作为插图。"
               },
               {
                 "t": "p",
-                "x": "据The Bookseller报道，全球创意机构正“在政府政策真空中”推出这份宪章。全文仅供注册读者阅读。"
+                "x": "主编Nathan J. Robinson表示，这项政策直接挑战媒体的“垃圾化”（slopification）。如今新闻编辑室争相用AI取代写作者，创意产业的工作岗位也正被以艺术家作品训练的模型夺走。"
+              },
+              {
+                "t": "p",
+                "x": "在已出版的62期印刷版中，该杂志委托创作了数百件手工艺术作品，并将继续向人类艺术家付费。这项规定并非禁止所有工具：写作者可以用新软件做研究，艺术家可以添加纹理或调整颜色。"
+              },
+              {
+                "t": "p",
+                "x": "这家设有工会的501(c)(3)机构表示，它没有用机器取代员工的动机，并呼吁读者不要资助那些向他们投喂“垃圾”（slop）的出版物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores lanzan una carta ética\nde AI para los creadores",
-          "body": "La Society of Authors lanzó una carta ética global sobre cómo la AI generativa debe proteger y apoyar a los creadores.",
-          "mini_headline": "Carta ética de AI de los autores",
+          "headline": "Current Affairs veta la AI\nen su contrato sindical",
+          "body": "El nuevo contrato sindical de Current Affairs fija uno de los vetos a la AI más estrictos del sector editorial.",
+          "mini_headline": "Current Affairs veta la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+                "cap": "Un collage de dos figuras que destrozan a martillazos el logotipo de ChatGPT, al estilo del realismo soviético (Soviet Realist)."
               },
               {
                 "t": "p",
-                "x": "La Society of Authors lanzó una carta ética y global sobre AI en la Creators Emergency Summit, celebrada en Londres el 13 de octubre, con el objetivo de “definir cómo deben implantarse los servicios de AI generativa para ayudar a proteger y apoyar a los creadores humanos”."
+                "x": "Como parte de su nuevo contrato sindical, Current Affairs ha adoptado una de las políticas anti-AI más estrictas del sector editorial. La revista no publicará ningún texto generado por AI (AI-generated) ni usará arte generado por AI como ilustración."
               },
               {
                 "t": "p",
-                "x": "The Bookseller informa de que organismos creativos de todo el mundo lanzan la carta “en el vacío de la política gubernamental”. El artículo completo solo está disponible para lectores registrados."
+                "x": "El editor Nathan J. Robinson afirma que la política desafía directamente la “slopification” de los medios, mientras las redacciones se apresuran a sustituir a los redactores por AI y las industrias creativas pierden empleos frente a modelos entrenados con la obra de artistas."
+              },
+              {
+                "t": "p",
+                "x": "A lo largo de 62 números impresos, la revista ha encargado cientos de obras hechas a mano y seguirá pagando a artistas humanos. La norma no prohíbe todas las herramientas: los redactores pueden usar software nuevo para investigar, y los artistas pueden añadir una textura o cambiar un color."
+              },
+              {
+                "t": "p",
+                "x": "La revista, una entidad 501(c)(3) con plantilla sindicada, afirma que no tiene ningún incentivo para sustituir a trabajadores por máquinas e insta a los lectores a no financiar publicaciones que les sirven “slop”."
               }
             ]
           }
@@ -657,285 +697,195 @@
       }
     },
     {
-      "id": "books-japan-translation",
+      "id": "books-agentic-consumption",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 번역에 밀리는\n일본 번역업체들",
-      "body": "생성형 AI 번역이 퍼지면서 일본 번역업체들의 매출이 줄고 있다.",
-      "mini_headline": "AI가 줄인 일본 번역 매출",
       "tool": "Books",
-      "source": "nippon.com",
-      "url": "https://www.nippon.com/en/japan-data/h02913/",
+      "eyebrow": "AI NEWS",
+      "headline": "에이전트 발견에서\n에이전트 소비로",
+      "body": "AI 에이전트가 실험하려 논문을 읽자 출판사도 접근·권한·콘텐츠를 다시 봐야 한다.",
+      "mini_headline": "논문 읽는 에이전트",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/15/guest-post-the-evolution-of-eras-agentic-discovery-makes-way-for-agentic-consumption/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+            "t": "p",
+            "x": "Wiley의 Chris Reid는 학술 출판이 지금 ‘에이전트 발견(agentic discovery)’ 시대 한복판에 있다고 주장한다. 연구자의 84%가 연구에 AI 도구를 쓴다고 답했고 Google Scholar와 PubMed를 거쳐 들어오는 유입은 줄어든다."
           },
           {
             "t": "p",
-            "x": "생성형 AI 번역이 널리 쓰이면서 일본 번역업체들의 매출이 줄어든다."
-          },
-          {
-            "t": "p",
-            "x": "Tokyo Shōkō Research는 다섯 회계연도 연속 실적을 비교할 수 있는 일본 번역업체 100곳을 조사했다. 2025 회계연도 이들 업체의 매출 합계는 ¥39.3B, 순이익 합계는 ¥920M 이었다."
+            "x": "더 큰 변화는 이제 막 시작됐다고 그는 쓴다. ‘에이전트 소비(agentic consumption)’다. 시스템이 실행하고 결과를 평가하고 다음 단계를 고르는 워크플로 안에서, 사람 손을 거의 거치지 않고 문헌을 쓰는 방식이다."
           },
           {
             "t": "img",
-            "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+            "cap": "에이전트 소비 루프: 가설, 문헌, 프로토콜, 실행, 결과."
           },
           {
             "t": "p",
-            "x": "매출이 ¥43.5B, 이익이 ¥3.1B 로 정점을 찍은 2022 회계연도와 비교하면 2025 회계연도 매출은 9.7%, 이익은 70.7% 줄었다. 조사 대상 100곳 가운데 매출이 늘어난 곳은 32곳, 이익이 늘어난 곳은 35곳이다. 반대로 50곳은 매출이, 47곳은 이익이 줄었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+            "x": "프로그래밍 가능한 클라우드 실험실(cloud-lab) 20개 팀에 NSF가 지원한 3억 8000만 달러($380 million), Discovery Loop와 Periodic Labs 같은 스타트업이 그 신호다. 기계 독자는 전문, 특히 방법 섹션을 원한다. 기계가 읽을 수 있는(machine-readable) 이용 권한과 최신 공식 판본(version of record)도 있어야 한다. MCP 커넥터로 제공하는 방식이 한 예다."
           },
           {
             "t": "p",
-            "x": "Tokyo Shōkō Research의 분석은 이렇다. “기계 번역이 빠르게 발전해 간단한 글은 이제 무료로 번역할 수 있다. 번역을 얻기 쉬워지면서 가격 경쟁이 심해지고 있다.”"
-          },
-          {
-            "t": "p",
-            "x": "AI-assisted 번역의 세계 시장은 빠르게 커질 전망이다. QY Research는 2025년 $2.6B 에서 2032년 $4.2B 로 커진다고 내다봤고, Business Research Insights는 2025년 $4.4B 에서 2035년 $5.7B 로 늘어난다고 예상했다."
-          },
-          {
-            "t": "p",
-            "x": "번역 업계가 살아남으려면 번역가가 AI로 general-purpose(범용) 번역의 효율을 높이면서, AI가 정확하지 못한 전문 분야나 사람의 창의성이 필요한 영역에서 틈새를 찾아야 할지도 모른다."
+            "x": "Reid는 출판사가 수동적이거나 거래 중심인 태도를 버리고 전략적으로 움직여야 한다고 촉구한다. 콘텐츠도 관리·사용량 측정·출처 표시가 되는 인프라로 내보내야 한다고 본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI translation squeezes\nJapan's translation firms",
-          "body": "The uptake of generative AI translation has led to falling sales at Japan's translation companies.",
-          "mini_headline": "AI cuts Japan's translation sales",
+          "headline": "From agentic discovery\nto agentic consumption",
+          "body": "As AI agents begin reading papers to run experiments, publishers must rethink access, permissions and content.",
+          "mini_headline": "Agents now read the papers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+                "t": "p",
+                "x": "Wiley’s Chris Reid argues scholarly publishing is deep in an era of “agentic discovery”: 84% of researchers report using AI tools in their research, and referrals from Google Scholar and PubMed are falling."
               },
               {
                 "t": "p",
-                "x": "The uptake of translation powered by generative AI has led to falling sales at translation companies in Japan."
-              },
-              {
-                "t": "p",
-                "x": "Tokyo Shōkō Research examined the performance of 100 Japanese translation companies whose results could be compared over five consecutive fiscal years. In fiscal 2025, the companies’ combined sales amounted to ¥39.3 billion, while their net profits totaled ¥920 million."
+                "x": "A bigger shift is beginning, he writes: “agentic consumption,” where systems use the literature inside workflows that act, evaluate the result and pick the next step, with little human intervention."
               },
               {
                 "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+                "cap": "The agentic consumption loop: hypothesis, literature, protocol, execution, result."
               },
               {
                 "t": "p",
-                "x": "Compared with fiscal 2022, when sales peaked at ¥43.5 billion and profits at ¥3.1 billion, sales in fiscal 2025 were down by 9.7% and profits by 70.7%. Of the 100 companies surveyed, 32 reported higher sales and 35 higher profits, while 50 had lower sales and 47 lower profits."
-              },
-              {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+                "x": "Signals include NSF’s $380 million for 20 programmable cloud-lab teams and startups such as Discovery Loop and Periodic Labs. Machine readers need full text, especially methods sections, plus machine-readable permissions and current versions of record, for example via MCP connectors."
               },
               {
                 "t": "p",
-                "x": "Tokyo Shōkō Research offers the following analysis: “Machine translation has advanced so rapidly that simple texts can now be translated for free. Price competition is intensifying as it becomes easier to obtain translations.”"
-              },
-              {
-                "t": "p",
-                "x": "Meanwhile, the global market for AI-assisted translation is expected to expand rapidly. QY Research forecasts growth from $2.6 billion in 2025 to $4.2 billion by 2032; Business Research Insights expects $4.4 billion in 2025 to rise to $5.7 billion by 2035."
-              },
-              {
-                "t": "p",
-                "x": "The key to the survival of the translation industry may lie in whether translators can use AI to improve efficiency in general-purpose translation, while finding a niche in specialized fields where AI is less accurate or in areas that require human creativity."
+                "x": "Reid urges publishers to move from passive or transactional postures to strategic ones, delivering content through governed, metered, attributable infrastructure."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 번역에 밀리는\n일본 번역업체들",
-          "body": "생성형 AI 번역이 퍼지면서 일본 번역업체들의 매출이 줄고 있다.",
-          "mini_headline": "AI가 줄인 일본 번역 매출",
+          "headline": "에이전트 발견에서\n에이전트 소비로",
+          "body": "AI 에이전트가 실험하려 논문을 읽자 출판사도 접근·권한·콘텐츠를 다시 봐야 한다.",
+          "mini_headline": "논문 읽는 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+                "t": "p",
+                "x": "Wiley의 Chris Reid는 학술 출판이 지금 ‘에이전트 발견(agentic discovery)’ 시대 한복판에 있다고 주장한다. 연구자의 84%가 연구에 AI 도구를 쓴다고 답했고 Google Scholar와 PubMed를 거쳐 들어오는 유입은 줄어든다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI 번역이 널리 쓰이면서 일본 번역업체들의 매출이 줄어든다."
-              },
-              {
-                "t": "p",
-                "x": "Tokyo Shōkō Research는 다섯 회계연도 연속 실적을 비교할 수 있는 일본 번역업체 100곳을 조사했다. 2025 회계연도 이들 업체의 매출 합계는 ¥39.3B, 순이익 합계는 ¥920M 이었다."
+                "x": "더 큰 변화는 이제 막 시작됐다고 그는 쓴다. ‘에이전트 소비(agentic consumption)’다. 시스템이 실행하고 결과를 평가하고 다음 단계를 고르는 워크플로 안에서, 사람 손을 거의 거치지 않고 문헌을 쓰는 방식이다."
               },
               {
                 "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+                "cap": "에이전트 소비 루프: 가설, 문헌, 프로토콜, 실행, 결과."
               },
               {
                 "t": "p",
-                "x": "매출이 ¥43.5B, 이익이 ¥3.1B 로 정점을 찍은 2022 회계연도와 비교하면 2025 회계연도 매출은 9.7%, 이익은 70.7% 줄었다. 조사 대상 100곳 가운데 매출이 늘어난 곳은 32곳, 이익이 늘어난 곳은 35곳이다. 반대로 50곳은 매출이, 47곳은 이익이 줄었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+                "x": "프로그래밍 가능한 클라우드 실험실(cloud-lab) 20개 팀에 NSF가 지원한 3억 8000만 달러($380 million), Discovery Loop와 Periodic Labs 같은 스타트업이 그 신호다. 기계 독자는 전문, 특히 방법 섹션을 원한다. 기계가 읽을 수 있는(machine-readable) 이용 권한과 최신 공식 판본(version of record)도 있어야 한다. MCP 커넥터로 제공하는 방식이 한 예다."
               },
               {
                 "t": "p",
-                "x": "Tokyo Shōkō Research의 분석은 이렇다. “기계 번역이 빠르게 발전해 간단한 글은 이제 무료로 번역할 수 있다. 번역을 얻기 쉬워지면서 가격 경쟁이 심해지고 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "AI-assisted 번역의 세계 시장은 빠르게 커질 전망이다. QY Research는 2025년 $2.6B 에서 2032년 $4.2B 로 커진다고 내다봤고, Business Research Insights는 2025년 $4.4B 에서 2035년 $5.7B 로 늘어난다고 예상했다."
-              },
-              {
-                "t": "p",
-                "x": "번역 업계가 살아남으려면 번역가가 AI로 general-purpose(범용) 번역의 효율을 높이면서, AI가 정확하지 못한 전문 분야나 사람의 창의성이 필요한 영역에서 틈새를 찾아야 할지도 모른다."
+                "x": "Reid는 출판사가 수동적이거나 거래 중심인 태도를 버리고 전략적으로 움직여야 한다고 촉구한다. 콘텐츠도 관리·사용량 측정·출처 표시가 되는 인프라로 내보내야 한다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI翻訳に押され\n日本の翻訳会社が苦境",
-          "body": "生成AI翻訳の普及で、日本の翻訳会社の売上が落ち込んでいる。",
-          "mini_headline": "AIで日本の翻訳売上が減少",
+          "headline": "エージェント型発見から\nエージェント型消費へ",
+          "body": "AIエージェントが論文を読み実験する時代、出版社はアクセスや権限、内容の再考を迫られる。",
+          "mini_headline": "論文を読むエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+                "t": "p",
+                "x": "WileyのChris Reidは、学術出版はすでに「エージェント型発見(agentic discovery)」の時代の只中にあると論じる。研究者の84%が研究にAIツールを使っていると答え、Google ScholarやPubMedからの流入は減っている。"
               },
               {
                 "t": "p",
-                "x": "生成AIによる翻訳の普及で、日本の翻訳会社の売上が落ち込んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "Tokyo Shōkō Researchは、五期連続で業績を比較できる日本の翻訳会社100社を調べた。2025年度の売上高合計は¥39.3B 、純利益合計は¥920M だった。"
+                "x": "さらに大きな変化が始まっていると彼は書く。それが「エージェント型消費(agentic consumption)」であり、システムが実行し、結果を評価し、次の手順を選ぶワークフローの中で、人間の介入をほとんど受けずに文献を利用する形だ。"
               },
               {
                 "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+                "cap": "エージェント型消費のループ:仮説、文献、プロトコル、実行、結果。"
               },
               {
                 "t": "p",
-                "x": "売上高が¥43.5B 、利益が¥3.1B でピークだった2022年度と比べると、2025年度の売上高は9.7%、利益は70.7%減った。調査対象の100社のうち、増収は32社、増益は35社、減収は50社、減益は47社だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+                "x": "兆しとしては、プログラム可能なクラウドラボ(cloud-lab)20チームに対するNSFの3億8000万ドル($380 million)や、Discovery Loop、Periodic Labsといったスタートアップがある。機械の読み手には全文、とりわけ方法のセクションが必要で、さらに機械可読(machine-readable)な利用許諾と最新の確定版(version of record)も欠かせない。たとえばMCPコネクタを通じた提供である。"
               },
               {
                 "t": "p",
-                "x": "Tokyo Shōkō Researchは次のように分析する。「機械翻訳が急速に進歩し、簡単な文章なら今や無料で翻訳できる。翻訳が手軽に得られるようになり、価格競争が激しくなっている」"
-              },
-              {
-                "t": "p",
-                "x": "一方、AI-assisted翻訳の世界市場は急拡大が見込まれる。QY Researchは2025年の$2.6B から2032年には$4.2B へ、Business Research Insightsは2025年の$4.4B から2035年には$5.7B へ伸びると予測する。"
-              },
-              {
-                "t": "p",
-                "x": "翻訳業界が生き残る鍵は、翻訳者がAIを使ってgeneral-purpose(汎用)翻訳の効率を高めつつ、AIの精度が低い専門分野や人間の創造性が求められる領域にニッチを見いだせるかどうかにあるのかもしれない。"
+                "x": "Reidは出版社に対し、受け身または取引的な姿勢から戦略的な姿勢へ移り、管理され、利用量が計測され、出典が示されるインフラを通じてコンテンツを届けるよう促している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI翻译冲击\n日本翻译公司承压",
-          "body": "随着生成式AI翻译日益普及，日本翻译公司的销售额正在下滑。",
-          "mini_headline": "AI拖累日本翻译业销售",
+          "headline": "从代理式发现\n到代理式消费",
+          "body": "AI代理开始阅读论文并开展实验，出版商须重新思考访问、权限与内容。",
+          "mini_headline": "代理开始读论文",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+                "t": "p",
+                "x": "Wiley的Chris Reid认为，学术出版正深处“代理式发现”（agentic discovery）时代：84%的研究人员表示在研究中使用AI工具，来自Google Scholar和PubMed的引流正在下降。"
               },
               {
                 "t": "p",
-                "x": "生成式AI驱动的翻译日益普及，导致日本翻译公司的销售额下滑。"
-              },
-              {
-                "t": "p",
-                "x": "Tokyo Shōkō Research调查了100家可连续五个财年比较业绩的日本翻译公司。2025财年，这些公司的销售额合计为¥39.3B ，净利润合计为¥920M 。"
+                "x": "他写道，一场更大的转变正在开始：“代理式消费”（agentic consumption），即系统在执行操作、评估结果并选择下一步的工作流中使用文献，几乎无需人工干预。"
               },
               {
                 "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+                "cap": "代理式消费循环：假设、文献、实验方案、执行、结果。"
               },
               {
                 "t": "p",
-                "x": "2022财年销售额和利润分别达到¥43.5B 和¥3.1B 的峰值，与之相比，2025财年销售额下降9.7%，利润下降70.7%。在受调查的100家公司中，32家销售额增长、35家利润增长，50家销售额下降、47家利润下降。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+                "x": "相关信号包括NSF向20个可编程云实验室（cloud-lab）团队投入的3.8亿美元（$380 million），以及Discovery Loop和Periodic Labs等初创公司。机器读者需要全文，尤其是方法部分，还需要机器可读（machine-readable）的使用许可和最新的记录版本（version of record），例如通过MCP连接器获取。"
               },
               {
                 "t": "p",
-                "x": "Tokyo Shōkō Research分析称：“机器翻译进步神速，简单文本如今已可免费翻译。随着获取翻译越来越容易，价格竞争正在加剧。”"
-              },
-              {
-                "t": "p",
-                "x": "与此同时，全球AI-assisted翻译市场预计将迅速扩张。QY Research预测其将从2025年的$2.6B 增长到2032年的$4.2B ；Business Research Insights则预计将从2025年的$4.4B 增至2035年的$5.7B 。"
-              },
-              {
-                "t": "p",
-                "x": "翻译行业的生存关键，或许在于译者能否借助AI提高general-purpose（通用）翻译的效率，同时在AI准确度较低的专业领域或需要人类创造力的领域找到立足之地。"
+                "x": "Reid敦促出版商从被动或交易式姿态转向战略性姿态，通过受管控、可计量、可溯源的基础设施提供内容。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La traducción con AI aprieta\na las agencias de Japón",
-          "body": "El uso de la traducción con AI generativa ha provocado una caída de ventas en las empresas de traducción de Japón.",
-          "mini_headline": "La AI reduce las ventas de traducción en Japón",
+          "headline": "Del descubrimiento agéntico\nal consumo agéntico",
+          "body": "Con agentes de AI que leen artículos para experimentar, las editoriales deben repensar acceso, permisos y contenido.",
+          "mini_headline": "Los agentes ya leen los artículos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+                "t": "p",
+                "x": "Chris Reid, de Wiley, sostiene que la edición académica está de lleno en una era de “descubrimiento agéntico” (agentic discovery): el 84% de los investigadores afirma usar herramientas de AI en su investigación, y las visitas derivadas desde Google Scholar y PubMed están cayendo."
               },
               {
                 "t": "p",
-                "x": "La adopción de la traducción impulsada por AI generativa ha provocado una caída de las ventas en las empresas de traducción de Japón."
-              },
-              {
-                "t": "p",
-                "x": "Tokyo Shōkō Research examinó el desempeño de 100 empresas japonesas de traducción cuyos resultados podían compararse durante cinco ejercicios fiscales consecutivos. En el ejercicio fiscal 2025, las ventas combinadas de estas empresas sumaron ¥39.3B, mientras que sus beneficios netos totalizaron ¥920M."
+                "x": "Según escribe, empieza un cambio mayor: el “consumo agéntico” (agentic consumption), en el que los sistemas usan la literatura dentro de flujos de trabajo que actúan, evalúan el resultado y eligen el siguiente paso, con poca intervención humana."
               },
               {
                 "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+                "cap": "El ciclo del consumo agéntico: hipótesis, literatura, protocolo, ejecución, resultado."
               },
               {
                 "t": "p",
-                "x": "Frente al ejercicio fiscal 2022, cuando las ventas alcanzaron su máximo de ¥43.5B y los beneficios el de ¥3.1B, en el ejercicio 2025 las ventas bajaron un 9.7% y los beneficios un 70.7%. De las 100 empresas encuestadas, 32 registraron más ventas y 35 más beneficios, mientras que 50 tuvieron menos ventas y 47 menos beneficios."
-              },
-              {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+                "x": "Entre las señales figuran los $380 millones (NSF’s $380 million) de la NSF para 20 equipos de laboratorios en la nube programables (cloud-lab) y startups como Discovery Loop y Periodic Labs. Los lectores-máquina necesitan el texto completo, sobre todo las secciones de métodos, además de permisos legibles por máquina (machine-readable) y versiones de registro actualizadas, por ejemplo mediante conectores MCP."
               },
               {
                 "t": "p",
-                "x": "Tokyo Shōkō Research ofrece este análisis: “La traducción automática ha avanzado tan rápido que los textos sencillos ya pueden traducirse gratis. La competencia en precios se intensifica a medida que resulta más fácil obtener traducciones”."
-              },
-              {
-                "t": "p",
-                "x": "Mientras tanto, se espera que el mercado mundial de la traducción AI-assisted (asistida por AI) crezca con rapidez. QY Research prevé un aumento de $2.6B en 2025 a $4.2B en 2032; Business Research Insights espera que pase de $4.4B en 2025 a $5.7B en 2035."
-              },
-              {
-                "t": "p",
-                "x": "La clave para la supervivencia del sector podría estar en que los traductores usen la AI para ganar eficiencia en la traducción general-purpose (de uso general), mientras encuentran un nicho en campos especializados donde la AI es menos precisa o en áreas que requieren creatividad humana."
+                "x": "Reid insta a las editoriales a pasar de posturas pasivas o transaccionales a posturas estratégicas, y a distribuir contenido mediante una infraestructura gobernada, medida y atribuible."
               }
             ]
           }
@@ -943,185 +893,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 번역에 밀리는\n일본 번역업체들",
-          "body": "생성형 AI 번역이 확산하면서 일본 번역업체들의 매출이 줄고 있다.",
-          "mini_headline": "AI가 줄인 일본 번역 매출",
+          "headline": "에이전트 발견에서\n에이전트 소비로",
+          "body": "AI 에이전트가 실험하려 논문을 읽자 출판사는 접근·권한·콘텐츠를 재고해야 한다.",
+          "mini_headline": "논문 읽는 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+                "t": "p",
+                "x": "Wiley의 Chris Reid는 학술 출판이 ‘에이전트 발견(agentic discovery)’ 시대 한가운데 있다고 주장한다. 연구자의 84%가 연구에 AI 도구를 쓴다고 답했고, Google Scholar와 PubMed에서 들어오는 유입은 줄고 있다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI 기반 번역이 확산하면서 일본 번역업체들의 매출이 줄고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Tokyo Shōkō Research는 다섯 회계연도 연속으로 실적을 비교할 수 있는 일본 번역업체 100곳의 성과를 조사했다. 2025 회계연도 이들 업체의 매출 합계는 ¥39.3B, 순이익 합계는 ¥920M 이었다."
+                "x": "그는 더 큰 변화가 시작되고 있다고 쓴다. 바로 ‘에이전트 소비(agentic consumption)’다. 시스템이 실행하고, 결과를 평가하고, 다음 단계를 고르는 워크플로 안에서 사람의 개입을 거의 받지 않고 문헌을 활용하는 방식이다."
               },
               {
                 "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+                "cap": "에이전트 소비 루프: 가설, 문헌, 프로토콜, 실행, 결과."
               },
               {
                 "t": "p",
-                "x": "매출이 ¥43.5B, 이익이 ¥3.1B 로 정점을 찍은 2022 회계연도와 비교하면 2025 회계연도 매출은 9.7%, 이익은 70.7% 줄었다. 조사 대상 100곳 가운데 32곳은 매출이, 35곳은 이익이 늘었고, 50곳은 매출이, 47곳은 이익이 줄었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+                "x": "프로그래밍 가능한 클라우드 실험실(cloud-lab) 20개 팀에 대한 NSF의 3억 8000만 달러($380 million) 지원, 그리고 Discovery Loop와 Periodic Labs 같은 스타트업이 그 신호다. 기계 독자에게는 전문, 특히 방법 섹션이 필요하고, 기계가 읽을 수 있는(machine-readable) 이용 권한과 최신 공식 판본(version of record)도 필요하다. MCP 커넥터를 통한 제공이 그 예다."
               },
               {
                 "t": "p",
-                "x": "Tokyo Shōkō Research는 이렇게 분석한다. “기계 번역이 빠르게 발전해 간단한 글은 이제 무료로 번역할 수 있다. 번역을 얻기 쉬워지면서 가격 경쟁이 심해지고 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "한편 AI-assisted 번역의 세계 시장은 빠르게 커질 전망이다. QY Research는 2025년 $2.6B 에서 2032년 $4.2B 로 성장할 것으로 내다봤고, Business Research Insights는 2025년 $4.4B 에서 2035년 $5.7B 로 늘 것으로 예상했다."
-              },
-              {
-                "t": "p",
-                "x": "번역 업계의 생존 열쇠는 번역가가 AI로 general-purpose(범용) 번역의 효율을 높이는 한편, AI의 정확도가 떨어지는 전문 분야나 인간의 창의성이 필요한 영역에서 틈새를 찾을 수 있느냐에 달려 있을지 모른다."
+                "x": "Reid는 출판사가 수동적이거나 거래 중심인 태도에서 벗어나 전략적 태도로 옮겨 가고, 관리되고 사용량이 측정되며 출처가 표시되는 인프라를 통해 콘텐츠를 제공해야 한다고 촉구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI翻訳に押され\n日本の翻訳会社が苦境",
-          "body": "生成AI翻訳の普及で、日本の翻訳会社の売上が落ち込んでいる。",
-          "mini_headline": "AIで日本の翻訳売上が減少",
+          "headline": "エージェント型発見から\nエージェント型消費へ",
+          "body": "AIエージェントが論文を読み実験する時代、出版社はアクセスや権限、内容の再考を迫られる。",
+          "mini_headline": "論文を読むエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+                "t": "p",
+                "x": "WileyのChris Reidは、学術出版はすでに「エージェント型発見(agentic discovery)」の時代の只中にあると論じる。研究者の84%が研究にAIツールを使っていると答え、Google ScholarやPubMedからの流入は減っている。"
               },
               {
                 "t": "p",
-                "x": "生成AIによる翻訳の普及で、日本の翻訳会社の売上が落ち込んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "Tokyo Shōkō Researchは、五期連続で業績を比較できる日本の翻訳会社100社を調べた。2025年度の売上高合計は¥39.3B 、純利益合計は¥920M だった。"
+                "x": "さらに大きな変化が始まっていると彼は書く。それが「エージェント型消費(agentic consumption)」であり、システムが実行し、結果を評価し、次の手順を選ぶワークフローの中で、人間の介入をほとんど受けずに文献を利用する形だ。"
               },
               {
                 "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+                "cap": "エージェント型消費のループ:仮説、文献、プロトコル、実行、結果。"
               },
               {
                 "t": "p",
-                "x": "売上高が¥43.5B 、利益が¥3.1B でピークだった2022年度と比べると、2025年度の売上高は9.7%、利益は70.7%減った。調査対象の100社のうち、増収は32社、増益は35社、減収は50社、減益は47社だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+                "x": "兆しとしては、プログラム可能なクラウドラボ(cloud-lab)20チームに対するNSFの3億8000万ドル($380 million)や、Discovery Loop、Periodic Labsといったスタートアップがある。機械の読み手には全文、とりわけ方法のセクションが必要で、さらに機械可読(machine-readable)な利用許諾と最新の確定版(version of record)も欠かせない。たとえばMCPコネクタを通じた提供である。"
               },
               {
                 "t": "p",
-                "x": "Tokyo Shōkō Researchは次のように分析する。「機械翻訳が急速に進歩し、簡単な文章なら今や無料で翻訳できる。翻訳が手軽に得られるようになり、価格競争が激しくなっている」"
-              },
-              {
-                "t": "p",
-                "x": "一方、AI-assisted翻訳の世界市場は急拡大が見込まれる。QY Researchは2025年の$2.6B から2032年には$4.2B へ、Business Research Insightsは2025年の$4.4B から2035年には$5.7B へ伸びると予測する。"
-              },
-              {
-                "t": "p",
-                "x": "翻訳業界が生き残る鍵は、翻訳者がAIを使ってgeneral-purpose(汎用)翻訳の効率を高めつつ、AIの精度が低い専門分野や人間の創造性が求められる領域にニッチを見いだせるかどうかにあるのかもしれない。"
+                "x": "Reidは出版社に対し、受け身または取引的な姿勢から戦略的な姿勢へ移り、管理され、利用量が計測され、出典が示されるインフラを通じてコンテンツを届けるよう促している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI翻译冲击\n日本翻译公司承压",
-          "body": "随着生成式AI翻译日益普及，日本翻译公司的销售额正在下滑。",
-          "mini_headline": "AI拖累日本翻译业销售",
+          "headline": "从代理式发现\n到代理式消费",
+          "body": "AI代理开始阅读论文并开展实验，出版商须重新思考访问、权限与内容。",
+          "mini_headline": "代理开始读论文",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+                "t": "p",
+                "x": "Wiley的Chris Reid认为，学术出版正深处“代理式发现”（agentic discovery）时代：84%的研究人员表示在研究中使用AI工具，来自Google Scholar和PubMed的引流正在下降。"
               },
               {
                 "t": "p",
-                "x": "生成式AI驱动的翻译日益普及，导致日本翻译公司的销售额下滑。"
-              },
-              {
-                "t": "p",
-                "x": "Tokyo Shōkō Research调查了100家可连续五个财年比较业绩的日本翻译公司。2025财年，这些公司的销售额合计为¥39.3B ，净利润合计为¥920M 。"
+                "x": "他写道，一场更大的转变正在开始：“代理式消费”（agentic consumption），即系统在执行操作、评估结果并选择下一步的工作流中使用文献，几乎无需人工干预。"
               },
               {
                 "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+                "cap": "代理式消费循环：假设、文献、实验方案、执行、结果。"
               },
               {
                 "t": "p",
-                "x": "2022财年销售额和利润分别达到¥43.5B 和¥3.1B 的峰值，与之相比，2025财年销售额下降9.7%，利润下降70.7%。在受调查的100家公司中，32家销售额增长、35家利润增长，50家销售额下降、47家利润下降。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+                "x": "相关信号包括NSF向20个可编程云实验室（cloud-lab）团队投入的3.8亿美元（$380 million），以及Discovery Loop和Periodic Labs等初创公司。机器读者需要全文，尤其是方法部分，还需要机器可读（machine-readable）的使用许可和最新的记录版本（version of record），例如通过MCP连接器获取。"
               },
               {
                 "t": "p",
-                "x": "Tokyo Shōkō Research分析称：“机器翻译进步神速，简单文本如今已可免费翻译。随着获取翻译越来越容易，价格竞争正在加剧。”"
-              },
-              {
-                "t": "p",
-                "x": "与此同时，全球AI-assisted翻译市场预计将迅速扩张。QY Research预测其将从2025年的$2.6B 增长到2032年的$4.2B ；Business Research Insights则预计将从2025年的$4.4B 增至2035年的$5.7B 。"
-              },
-              {
-                "t": "p",
-                "x": "翻译行业的生存关键，或许在于译者能否借助AI提高general-purpose（通用）翻译的效率，同时在AI准确度较低的专业领域或需要人类创造力的领域找到立足之地。"
+                "x": "Reid敦促出版商从被动或交易式姿态转向战略性姿态，通过受管控、可计量、可溯源的基础设施提供内容。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La traducción con AI aprieta\na las agencias de Japón",
-          "body": "El uso de la traducción con AI generativa ha provocado una caída de ventas en las empresas de traducción de Japón.",
-          "mini_headline": "La AI reduce las ventas de traducción en Japón",
+          "headline": "Del descubrimiento agéntico\nal consumo agéntico",
+          "body": "Con agentes de AI que leen artículos para experimentar, las editoriales deben repensar acceso, permisos y contenido.",
+          "mini_headline": "Los agentes ya leen los artículos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg"
+                "t": "p",
+                "x": "Chris Reid, de Wiley, sostiene que la edición académica está de lleno en una era de “descubrimiento agéntico” (agentic discovery): el 84% de los investigadores afirma usar herramientas de AI en su investigación, y las visitas derivadas desde Google Scholar y PubMed están cayendo."
               },
               {
                 "t": "p",
-                "x": "La adopción de la traducción impulsada por AI generativa ha provocado una caída de las ventas en las empresas de traducción de Japón."
-              },
-              {
-                "t": "p",
-                "x": "Tokyo Shōkō Research examinó el desempeño de 100 empresas japonesas de traducción cuyos resultados podían compararse durante cinco ejercicios fiscales consecutivos. En el ejercicio fiscal 2025, las ventas combinadas de estas empresas sumaron ¥39.3B, mientras que sus beneficios netos totalizaron ¥920M."
+                "x": "Según escribe, empieza un cambio mayor: el “consumo agéntico” (agentic consumption), en el que los sistemas usan la literatura dentro de flujos de trabajo que actúan, evalúan el resultado y eligen el siguiente paso, con poca intervención humana."
               },
               {
                 "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086490/3086490.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+                "cap": "El ciclo del consumo agéntico: hipótesis, literatura, protocolo, ejecución, resultado."
               },
               {
                 "t": "p",
-                "x": "Frente al ejercicio fiscal 2022, cuando las ventas alcanzaron su máximo de ¥43.5B y los beneficios el de ¥3.1B, en el ejercicio 2025 las ventas bajaron un 9.7% y los beneficios un 70.7%. De las 100 empresas encuestadas, 32 registraron más ventas y 35 más beneficios, mientras que 50 tuvieron menos ventas y 47 menos beneficios."
-              },
-              {
-                "t": "img",
-                "src": "https://www.nippon.com/en/ncommon/contents/japan-data/3086491/3086491.png"
+                "x": "Entre las señales figuran los $380 millones (NSF’s $380 million) de la NSF para 20 equipos de laboratorios en la nube programables (cloud-lab) y startups como Discovery Loop y Periodic Labs. Los lectores-máquina necesitan el texto completo, sobre todo las secciones de métodos, además de permisos legibles por máquina (machine-readable) y versiones de registro actualizadas, por ejemplo mediante conectores MCP."
               },
               {
                 "t": "p",
-                "x": "Tokyo Shōkō Research ofrece este análisis: “La traducción automática ha avanzado tan rápido que los textos sencillos ya pueden traducirse gratis. La competencia en precios se intensifica a medida que resulta más fácil obtener traducciones”."
-              },
-              {
-                "t": "p",
-                "x": "Mientras tanto, se espera que el mercado mundial de la traducción AI-assisted (asistida por AI) crezca con rapidez. QY Research prevé un aumento de $2.6B en 2025 a $4.2B en 2032; Business Research Insights espera que pase de $4.4B en 2025 a $5.7B en 2035."
-              },
-              {
-                "t": "p",
-                "x": "La clave para la supervivencia del sector podría estar en que los traductores usen la AI para ganar eficiencia en la traducción general-purpose (de uso general), mientras encuentran un nicho en campos especializados donde la AI es menos precisa o en áreas que requieren creatividad humana."
+                "x": "Reid insta a las editoriales a pasar de posturas pasivas o transaccionales a posturas estratégicas, y a distribuir contenido mediante una infraestructura gobernada, medida y atribuible."
               }
             ]
           }
@@ -1129,281 +1019,321 @@
       }
     },
     {
-      "id": "books-multivoice-audiobook",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "ElevenLabs로 만든\n여섯 목소리 오디오북",
-      "body": "Allan Tépper가 ElevenLabs 복제 목소리 여섯으로 오디오북을 냈다.",
-      "mini_headline": "복제 목소리 여섯, 오디오북 한 권",
+      "id": "books-mentat-discovery",
+      "source_lang": "ko",
       "tool": "Books",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/",
+      "eyebrow": "AI NEWS",
+      "headline": "멘탯, 책 데이터를\n토큰 단위로 판다",
+      "body": "멘탯 디스커버리로 AI 기업이 도서를 토큰 단위로 검색하고 계약한다.",
+      "mini_headline": "멘탯, 책을 토큰으로",
+      "source": "매일일보",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2005012",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Allan Tépper는 최근 실제 대화가 들어간 첫 오디오북을 만들었다. 내레이터와 등장인물 다섯, 모두 여섯 목소리가 필요한 six-voice 작업이었다. 의뢰인이자 저자(client-author)는 인간 성우를 여섯은커녕 한 명도 고용할 예산이 없었다. 그래서 ElevenLabs의 Pro 플랜으로 목소리를 복제했다. “인간 전문 성우와 복제된 전문 성우의 격차는 여전히 있지만, 그 어느 때보다 좁아졌다.”"
-          },
-          {
             "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-            "cap": "오디오북 표지는 모두 정사각형이어야 한다."
+            "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+            "cap": "멘탯은 AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리(Mentat Discovery Console)'를 출시했다. 사진=멘탯 제공"
           },
           {
             "t": "p",
-            "x": "책은 Carmela Doval의 동화 El gato que se le coló a Colón이다. 목소리는 seseante 발음을 쓰는 라틴아메리카 여성 내레이터, 스페인 수고양이 Paquito, 그의 여자친구 Cloti, Cristóbal Colón, 이름 없는 선원 대변인, 배 주인 Rodrigo다. Paquito 클론은 잘 작동하지만 버릇이 하나 있다. 카스티야어 발음이 구별 발음과 seseante 사이를 오간다."
+            "x": "도서 라이선싱 플랫폼 멘탯이 AI 기업용 도서 데이터 검색 서비스 ‘멘탯 디스커버리’를 출시했다고 13일 밝혔다. 출판사 도서를 권수가 아닌 ‘토큰’ 단위와 예상 비용으로 보여주고, 필요한 데이터를 고르면 계약까지 연결한다."
           },
           {
             "t": "p",
-            "x": "ElevenLabs는 원고를 스캔해 모르는 단어나 이름을 제작자에게 묻는다. 가장 그럴듯한 추정 발음을 들려주는 재생 버튼과 발음 표기를 적는 칸도 있다. 이 기능이 필요했던 이름은 Dade 하나뿐이었다. Tépper가 “deid”라고 입력하기 전까지는 “Dah-Day”로 읽었다."
+            "x": "멘탯은 2025년 설립 이후 국내 출판사 90여곳과 라이선스 계약을 맺었으며 계약 도서는 약 3만4000종이다. 현재 검색 가능한 도서 데이터는 약 80억 토큰 규모다."
+          },
+          {
+            "t": "p",
+            "x": "계약한 데이터는 JSONL 등 파일 형식의 ‘학습 데이터셋’과, AI가 답변할 때 도서 문단을 출처와 함께 제시하는 ‘참조·인용 API’ 두 가지로 제공된다. 검색 대상은 모두 정식 라이선스 계약을 맺은 도서다."
+          },
+          {
+            "t": "p",
+            "x": "전병욱 멘탯 대표는 “책이 AI에 더 많이 활용되고, 그에 따른 수익이 출판사와 저자에게 돌아가는 구조를 확대해 나갈 계획”이라고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "A six-voice audiobook made\nwith ElevenLabs voice clones",
-          "body": "Allan Tépper made a six-voice children's audiobook with ElevenLabs clones, as the author had no budget for human actors.",
-          "mini_headline": "Six cloned voices, one audiobook",
+        "ko": {
+          "headline": "멘탯, 책 데이터를\n토큰 단위로 판다",
+          "body": "멘탯 디스커버리로 AI 기업이 도서를 토큰 단위로 검색하고 계약한다.",
+          "mini_headline": "멘탯, 책을 토큰으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Allan Tépper recently produced his first audiobook with actual dialog: it required six different voices to cover the narrator plus five other characters. The client-author did not have budget to hire even one human voiceover talent, let alone six, so the voices were cloned with ElevenLabs’ Pro plan. “The gap between human professional voiceover talent and cloned professional voiceover talent still exists, but it is narrower than ever before.”"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-                "cap": "All audiobook covers must be square."
+                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+                "cap": "멘탯은 AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리(Mentat Discovery Console)'를 출시했다. 사진=멘탯 제공"
               },
               {
                 "t": "p",
-                "x": "The book is El gato que se le coló a Colón, a children’s book by Carmela Doval. The voices: a Latin American, seseante female narrator; Paquito, a Spaniard male cat; his girlfriend Cloti; Cristóbal Colón; an unnamed crew spokesperson; and Rodrigo, a boat owner. The clone used for Paquito works well but has a quirk: his Castilian pronunciation alternates between distinguishing and seseante."
+                "x": "도서 라이선싱 플랫폼 멘탯이 AI 기업용 도서 데이터 검색 서비스 ‘멘탯 디스커버리’를 출시했다고 13일 밝혔다. 출판사 도서를 권수가 아닌 ‘토큰’ 단위와 예상 비용으로 보여주고, 필요한 데이터를 고르면 계약까지 연결한다."
               },
               {
                 "t": "p",
-                "x": "ElevenLabs also scans a manuscript and asks the producer about unknown words or names, offering a play button for its best guess and a field to type a phonetic spelling. Only one name needed it: Dade, which it first read as “Dah-Day” until Tépper typed “deid”."
+                "x": "멘탯은 2025년 설립 이후 국내 출판사 90여곳과 라이선스 계약을 맺었으며 계약 도서는 약 3만4000종이다. 현재 검색 가능한 도서 데이터는 약 80억 토큰 규모다."
+              },
+              {
+                "t": "p",
+                "x": "계약한 데이터는 JSONL 등 파일 형식의 ‘학습 데이터셋’과, AI가 답변할 때 도서 문단을 출처와 함께 제시하는 ‘참조·인용 API’ 두 가지로 제공된다. 검색 대상은 모두 정식 라이선스 계약을 맺은 도서다."
+              },
+              {
+                "t": "p",
+                "x": "전병욱 멘탯 대표는 “책이 AI에 더 많이 활용되고, 그에 따른 수익이 출판사와 저자에게 돌아가는 구조를 확대해 나갈 계획”이라고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "ElevenLabs로 만든\n여섯 목소리 오디오북",
-          "body": "Allan Tépper가 ElevenLabs 복제 목소리 여섯으로 오디오북을 냈다.",
-          "mini_headline": "복제 목소리 여섯, 오디오북 한 권",
+        "en": {
+          "headline": "Mentat sells book data\nby the token",
+          "body": "With Mentat Discovery, AI companies can search books by the token and sign contracts for them.",
+          "mini_headline": "Mentat sells books by the token",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Allan Tépper는 최근 실제 대화가 들어간 첫 오디오북을 만들었다. 내레이터와 등장인물 다섯, 모두 여섯 목소리가 필요한 six-voice 작업이었다. 의뢰인이자 저자(client-author)는 인간 성우를 여섯은커녕 한 명도 고용할 예산이 없었다. 그래서 ElevenLabs의 Pro 플랜으로 목소리를 복제했다. “인간 전문 성우와 복제된 전문 성우의 격차는 여전히 있지만, 그 어느 때보다 좁아졌다.”"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-                "cap": "오디오북 표지는 모두 정사각형이어야 한다."
+                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+                "cap": "Mentat has launched ‘Mentat Discovery (Mentat Discovery Console)’, a book data search service for AI companies. Photo: courtesy of Mentat"
               },
               {
                 "t": "p",
-                "x": "책은 Carmela Doval의 동화 El gato que se le coló a Colón이다. 목소리는 seseante 발음을 쓰는 라틴아메리카 여성 내레이터, 스페인 수고양이 Paquito, 그의 여자친구 Cloti, Cristóbal Colón, 이름 없는 선원 대변인, 배 주인 Rodrigo다. Paquito 클론은 잘 작동하지만 버릇이 하나 있다. 카스티야어 발음이 구별 발음과 seseante 사이를 오간다."
+                "x": "Book licensing platform Mentat said on the 13th that it has launched ‘Mentat Discovery’, a book data search service for AI companies. It shows publishers’ books not by number of volumes but in ‘token’ units with an estimated cost, and once a company picks the data it needs, it carries the process through to a contract."
               },
               {
                 "t": "p",
-                "x": "ElevenLabs는 원고를 스캔해 모르는 단어나 이름을 제작자에게 묻는다. 가장 그럴듯한 추정 발음을 들려주는 재생 버튼과 발음 표기를 적는 칸도 있다. 이 기능이 필요했던 이름은 Dade 하나뿐이었다. Tépper가 “deid”라고 입력하기 전까지는 “Dah-Day”로 읽었다."
+                "x": "Since its founding in 2025, Mentat has signed license agreements with some 90 Korean publishers, covering about 34,000 titles. The book data currently searchable amounts to about 8 billion tokens."
+              },
+              {
+                "t": "p",
+                "x": "Contracted data comes in two forms: a ‘training dataset’ in file formats such as JSONL, and a ‘reference and citation API’ that presents book passages with their sources when AI answers. Every searchable book is covered by a formal license agreement."
+              },
+              {
+                "t": "p",
+                "x": "Mentat CEO Jeon Byung-wook said, “We plan to expand a structure in which books are used more by AI and the resulting revenue goes back to publishers and authors.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ElevenLabsで作る\n六つの声のオーディオブック",
-          "body": "Allan TépperがElevenLabsの複製音声で六声オーディオブックを制作した。",
-          "mini_headline": "複製音声六つでオーディオブック",
+          "headline": "Mentat、書籍データを\nトークン単位で販売",
+          "body": "Mentat Discoveryで、AI企業は書籍をトークン単位で検索し契約できる。",
+          "mini_headline": "Mentat、書籍をトークンで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Allan Tépperは最近、実際の台詞を含む初のオーディオブックを制作した。ナレーターと他の五人の登場人物を演じ分けるため、六つの異なる声が必要なsix-voiceの作品だった。依頼主である著者(client-author)には、人間の声優を六人どころか一人雇う予算もなかったため、ElevenLabsのProプランで声をクローンした。「人間のプロ声優とクローンしたプロ声優の差は今もあるが、かつてないほど縮まっている」"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-                "cap": "オーディオブックの表紙はすべて正方形でなければならない。"
+                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+                "cap": "MentatはAI企業向けの書籍データ検索サービス「Mentat Discovery(Mentat Discovery Console)」をリリースした。写真=Mentat提供"
               },
               {
                 "t": "p",
-                "x": "作品はCarmela Dovalの児童書『El gato que se le coló a Colón』。声は、seseanteで話すラテンアメリカの女性ナレーター、スペインの雄猫Paquito、その恋人Cloti、Cristóbal Colón、名前のない船員の代表、船主のRodrigoだ。Paquitoに使ったクローンはよく機能するが、癖がある。カスティーリャ語の発音が、区別する発音とseseanteの間で揺れるのだ。"
+                "x": "書籍ライセンスプラットフォームのMentatは13日、AI企業向けの書籍データ検索サービス「Mentat Discovery」をリリースしたと発表した。出版社の書籍を冊数ではなく「トークン」単位と予想費用で示し、必要なデータを選べば契約までつなげる。"
               },
               {
                 "t": "p",
-                "x": "ElevenLabsは原稿をスキャンし、不明な単語や名前について制作者に確認する。最善の推測を再生するボタンと、発音表記を入力する欄が用意されている。これが必要だった名前はDadeの一つだけで、Tépperが「deid」と入力するまでは「Dah-Day」と読んでいた。"
+                "x": "Mentatは2025年の設立以来、韓国の出版社90社余りとライセンス契約を結び、契約書籍は約3万4000点にのぼる。現在検索できる書籍データは約80億トークン規模だ。"
+              },
+              {
+                "t": "p",
+                "x": "契約したデータは、JSONLなどのファイル形式の「学習データセット」と、AIが回答する際に書籍の段落を出典とともに示す「参照・引用API」の2種類で提供される。検索対象はすべて正式なライセンス契約を結んだ書籍だ。"
+              },
+              {
+                "t": "p",
+                "x": "Mentatのチョン・ビョンウク代表は「本がAIにより多く活用され、それに伴う収益が出版社と著者に還元される仕組みを広げていく計画だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ElevenLabs克隆\n六种声音的有声书",
-          "body": "Allan Tépper用ElevenLabs克隆声音制作了一部六种声音的儿童有声书。",
-          "mini_headline": "六个克隆声音，一部有声书",
+          "headline": "Mentat按词元\n出售图书数据",
+          "body": "借助Mentat Discovery，AI企业可按词元检索图书并签约。",
+          "mini_headline": "Mentat按词元卖书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Allan Tépper最近制作了他的第一部包含真实对白的有声书：需要六种不同的声音，分别演绎旁白和另外五个角色，是一部six-voice作品。委托方兼作者（client-author）连雇用一名真人配音演员的预算都没有，更不用说六名，因此用ElevenLabs的Pro方案克隆了这些声音。“人类专业配音演员与克隆专业配音之间的差距依然存在，但已比以往任何时候都小。”"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-                "cap": "所有有声书封面都必须是正方形。"
+                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+                "cap": "Mentat推出面向AI企业的图书数据检索服务“Mentat Discovery”（Mentat Discovery Console）。图片=Mentat提供"
               },
               {
                 "t": "p",
-                "x": "这本书是Carmela Doval的童书《El gato que se le coló a Colón》。声音包括：一位使用seseante发音的拉丁美洲女性旁白；西班牙公猫Paquito；它的女友Cloti；Cristóbal Colón；一位未具名的船员发言人；以及船主Rodrigo。Paquito所用的克隆声音效果不错，但有个怪癖：它的卡斯蒂利亚发音会在区分发音与seseante之间来回切换。"
+                "x": "图书授权平台Mentat于13日宣布，推出面向AI企业的图书数据检索服务“Mentat Discovery”。该服务不按册数，而以“词元”（token）为单位并附预估费用来展示出版社图书，选定所需数据后可直接推进到签约。"
               },
               {
                 "t": "p",
-                "x": "ElevenLabs还会扫描书稿，就不认识的词语或名字询问制作者，提供播放其最佳猜测读音的按钮，以及输入注音拼写的栏位。只有一个名字需要这样处理：Dade。在Tépper输入“deid”之前，它一直读作“Dah-Day”。"
+                "x": "Mentat自2025年成立以来，已与韩国90多家出版社签订授权协议，签约图书约3.4万种。目前可检索的图书数据规模约为80亿词元。"
+              },
+              {
+                "t": "p",
+                "x": "签约数据以两种形式提供：JSONL等文件格式的“训练数据集”，以及在AI作答时附带出处呈现图书段落的“参考·引用API”。检索对象均为已签订正式授权协议的图书。"
+              },
+              {
+                "t": "p",
+                "x": "Mentat代表Jeon Byung-wook表示：“我们计划扩大让图书更多地被AI利用、并将由此产生的收益回馈给出版社和作者的结构。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un audiolibro con seis voces\nclonadas con ElevenLabs",
-          "body": "Allan Tépper hizo un audiolibro infantil a seis voces con clones de ElevenLabs: la autora no podía pagar actores.",
-          "mini_headline": "Seis voces clonadas, un audiolibro",
+          "headline": "Mentat vende datos de libros\npor tokens",
+          "body": "Con Mentat Discovery, las empresas de AI pueden buscar libros por tokens y firmar contratos.",
+          "mini_headline": "Mentat vende libros por tokens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Allan Tépper produjo hace poco su primer audiolibro con diálogos reales: necesitaba seis voces distintas (six-voice) para la narradora y otros cinco personajes. La autora y clienta (client-author) no tenía presupuesto para contratar ni a un solo locutor humano, y mucho menos a seis, así que las voces se clonaron con el plan Pro de ElevenLabs. “La brecha entre los locutores profesionales humanos y los locutores profesionales clonados todavía existe, pero es más estrecha que nunca”."
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-                "cap": "Todas las portadas de audiolibros deben ser cuadradas."
+                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+                "cap": "Mentat ha lanzado ‘Mentat Discovery (Mentat Discovery Console)’, un servicio de búsqueda de datos de libros para empresas de AI. Foto: cortesía de Mentat"
               },
               {
                 "t": "p",
-                "x": "El libro es El gato que se le coló a Colón, un libro infantil de Carmela Doval. Las voces: una narradora latinoamericana seseante; Paquito, un gato macho español; su novia Cloti; Cristóbal Colón; un portavoz anónimo de la tripulación; y Rodrigo, dueño de un barco. El clon usado para Paquito funciona bien, pero tiene una peculiaridad: su pronunciación castellana alterna entre la distinción y el habla seseante."
+                "x": "La plataforma de licencias de libros Mentat anunció el día 13 el lanzamiento de ‘Mentat Discovery’, un servicio de búsqueda de datos de libros para empresas de AI. Muestra los libros de las editoriales no por número de ejemplares, sino en ‘tokens’ y con un coste estimado, y cuando se eligen los datos necesarios, lleva el proceso hasta el contrato."
               },
               {
                 "t": "p",
-                "x": "ElevenLabs también analiza el manuscrito y pregunta al productor por palabras o nombres desconocidos, con un botón para reproducir su mejor conjetura y un campo para escribir una grafía fonética. Solo un nombre lo necesitó: Dade, que primero leyó como “Dah-Day” hasta que Tépper escribió “deid”."
+                "x": "Desde su fundación en 2025, Mentat ha firmado acuerdos de licencia con unas 90 editoriales coreanas, que abarcan unos 34.000 títulos. Los datos de libros que hoy se pueden buscar suman unos 8.000 millones de tokens."
+              },
+              {
+                "t": "p",
+                "x": "Los datos contratados se ofrecen de dos formas: un ‘conjunto de datos de entrenamiento’ en formatos de archivo como JSONL y una ‘API de referencia y cita’ que presenta pasajes de libros con su fuente cuando la AI responde. Todos los libros que se pueden buscar cuentan con un contrato formal de licencia."
+              },
+              {
+                "t": "p",
+                "x": "Jeon Byung-wook, consejero delegado de Mentat, afirmó: “Planeamos ampliar una estructura en la que los libros se utilicen más en la AI y los ingresos resultantes vuelvan a las editoriales y a los autores”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "ElevenLabs로 만든\n여섯 목소리 오디오북",
-          "body": "Allan Tépper가 ElevenLabs로 여섯 목소리 오디오북을 만들었다.",
-          "mini_headline": "복제 목소리 여섯, 오디오북 한 권",
+        "en": {
+          "headline": "Mentat sells book data\nby the token",
+          "body": "With Mentat Discovery, AI companies can search books by the token and sign contracts for them.",
+          "mini_headline": "Mentat sells books by the token",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Allan Tépper는 최근 실제 대화가 들어간 첫 오디오북을 제작했다. 내레이터와 다른 등장인물 다섯을 맡을 서로 다른 목소리 여섯이 필요한 six-voice 작업이었다. 의뢰인이자 저자(client-author)는 인간 성우를 여섯은커녕 한 명도 고용할 예산이 없었고, 그래서 ElevenLabs의 Pro 플랜으로 목소리를 복제했다. “인간 전문 성우와 복제된 전문 성우의 격차는 여전히 있지만, 그 어느 때보다 좁아졌다.”"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-                "cap": "오디오북 표지는 모두 정사각형이어야 한다."
+                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+                "cap": "Mentat has launched ‘Mentat Discovery (Mentat Discovery Console)’, a book data search service for AI companies. Photo: courtesy of Mentat"
               },
               {
                 "t": "p",
-                "x": "책은 Carmela Doval의 동화 El gato que se le coló a Colón이다. 목소리는 seseante 발음을 쓰는 라틴아메리카 여성 내레이터, 스페인 수고양이 Paquito, 그의 여자친구 Cloti, Cristóbal Colón, 이름 없는 선원 대변인, 배 주인 Rodrigo다. Paquito에 쓴 클론은 잘 작동하지만 특이한 점이 있다. 카스티야어 발음이 구별 발음과 seseante 사이를 오간다."
+                "x": "Book licensing platform Mentat said on the 13th that it has launched ‘Mentat Discovery’, a book data search service for AI companies. It shows publishers’ books not by number of volumes but in ‘token’ units with an estimated cost, and once a company picks the data it needs, it carries the process through to a contract."
               },
               {
                 "t": "p",
-                "x": "ElevenLabs는 원고를 스캔해 모르는 단어나 이름을 제작자에게 묻고, 가장 그럴듯한 추정 발음을 들려주는 재생 버튼과 발음 표기를 입력하는 칸을 제공한다. 이 기능이 필요했던 이름은 Dade 하나뿐이었다. Tépper가 “deid”라고 입력하기 전까지는 “Dah-Day”로 읽었다."
+                "x": "Since its founding in 2025, Mentat has signed license agreements with some 90 Korean publishers, covering about 34,000 titles. The book data currently searchable amounts to about 8 billion tokens."
+              },
+              {
+                "t": "p",
+                "x": "Contracted data comes in two forms: a ‘training dataset’ in file formats such as JSONL, and a ‘reference and citation API’ that presents book passages with their sources when AI answers. Every searchable book is covered by a formal license agreement."
+              },
+              {
+                "t": "p",
+                "x": "Mentat CEO Jeon Byung-wook said, “We plan to expand a structure in which books are used more by AI and the resulting revenue goes back to publishers and authors.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ElevenLabsで作る\n六つの声のオーディオブック",
-          "body": "Allan TépperがElevenLabsの複製音声で六声オーディオブックを制作した。",
-          "mini_headline": "複製音声六つでオーディオブック",
+          "headline": "Mentat、書籍データを\nトークン単位で販売",
+          "body": "Mentat Discoveryで、AI企業は書籍をトークン単位で検索し契約できる。",
+          "mini_headline": "Mentat、書籍をトークンで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Allan Tépperは最近、実際の台詞を含む初のオーディオブックを制作した。ナレーターと他の五人の登場人物を演じ分けるため、六つの異なる声が必要なsix-voiceの作品だった。依頼主である著者(client-author)には、人間の声優を六人どころか一人雇う予算もなかったため、ElevenLabsのProプランで声をクローンした。「人間のプロ声優とクローンしたプロ声優の差は今もあるが、かつてないほど縮まっている」"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-                "cap": "オーディオブックの表紙はすべて正方形でなければならない。"
+                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+                "cap": "MentatはAI企業向けの書籍データ検索サービス「Mentat Discovery(Mentat Discovery Console)」をリリースした。写真=Mentat提供"
               },
               {
                 "t": "p",
-                "x": "作品はCarmela Dovalの児童書『El gato que se le coló a Colón』。声は、seseanteで話すラテンアメリカの女性ナレーター、スペインの雄猫Paquito、その恋人Cloti、Cristóbal Colón、名前のない船員の代表、船主のRodrigoだ。Paquitoに使ったクローンはよく機能するが、癖がある。カスティーリャ語の発音が、区別する発音とseseanteの間で揺れるのだ。"
+                "x": "書籍ライセンスプラットフォームのMentatは13日、AI企業向けの書籍データ検索サービス「Mentat Discovery」をリリースしたと発表した。出版社の書籍を冊数ではなく「トークン」単位と予想費用で示し、必要なデータを選べば契約までつなげる。"
               },
               {
                 "t": "p",
-                "x": "ElevenLabsは原稿をスキャンし、不明な単語や名前について制作者に確認する。最善の推測を再生するボタンと、発音表記を入力する欄が用意されている。これが必要だった名前はDadeの一つだけで、Tépperが「deid」と入力するまでは「Dah-Day」と読んでいた。"
+                "x": "Mentatは2025年の設立以来、韓国の出版社90社余りとライセンス契約を結び、契約書籍は約3万4000点にのぼる。現在検索できる書籍データは約80億トークン規模だ。"
+              },
+              {
+                "t": "p",
+                "x": "契約したデータは、JSONLなどのファイル形式の「学習データセット」と、AIが回答する際に書籍の段落を出典とともに示す「参照・引用API」の2種類で提供される。検索対象はすべて正式なライセンス契約を結んだ書籍だ。"
+              },
+              {
+                "t": "p",
+                "x": "Mentatのチョン・ビョンウク代表は「本がAIにより多く活用され、それに伴う収益が出版社と著者に還元される仕組みを広げていく計画だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ElevenLabs克隆\n六种声音的有声书",
-          "body": "Allan Tépper用ElevenLabs克隆声音制作了一部六种声音的儿童有声书。",
-          "mini_headline": "六个克隆声音，一部有声书",
+          "headline": "Mentat按词元\n出售图书数据",
+          "body": "借助Mentat Discovery，AI企业可按词元检索图书并签约。",
+          "mini_headline": "Mentat按词元卖书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Allan Tépper最近制作了他的第一部包含真实对白的有声书：需要六种不同的声音，分别演绎旁白和另外五个角色，是一部six-voice作品。委托方兼作者（client-author）连雇用一名真人配音演员的预算都没有，更不用说六名，因此用ElevenLabs的Pro方案克隆了这些声音。“人类专业配音演员与克隆专业配音之间的差距依然存在，但已比以往任何时候都小。”"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-                "cap": "所有有声书封面都必须是正方形。"
+                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+                "cap": "Mentat推出面向AI企业的图书数据检索服务“Mentat Discovery”（Mentat Discovery Console）。图片=Mentat提供"
               },
               {
                 "t": "p",
-                "x": "这本书是Carmela Doval的童书《El gato que se le coló a Colón》。声音包括：一位使用seseante发音的拉丁美洲女性旁白；西班牙公猫Paquito；它的女友Cloti；Cristóbal Colón；一位未具名的船员发言人；以及船主Rodrigo。Paquito所用的克隆声音效果不错，但有个怪癖：它的卡斯蒂利亚发音会在区分发音与seseante之间来回切换。"
+                "x": "图书授权平台Mentat于13日宣布，推出面向AI企业的图书数据检索服务“Mentat Discovery”。该服务不按册数，而以“词元”（token）为单位并附预估费用来展示出版社图书，选定所需数据后可直接推进到签约。"
               },
               {
                 "t": "p",
-                "x": "ElevenLabs还会扫描书稿，就不认识的词语或名字询问制作者，提供播放其最佳猜测读音的按钮，以及输入注音拼写的栏位。只有一个名字需要这样处理：Dade。在Tépper输入“deid”之前，它一直读作“Dah-Day”。"
+                "x": "Mentat自2025年成立以来，已与韩国90多家出版社签订授权协议，签约图书约3.4万种。目前可检索的图书数据规模约为80亿词元。"
+              },
+              {
+                "t": "p",
+                "x": "签约数据以两种形式提供：JSONL等文件格式的“训练数据集”，以及在AI作答时附带出处呈现图书段落的“参考·引用API”。检索对象均为已签订正式授权协议的图书。"
+              },
+              {
+                "t": "p",
+                "x": "Mentat代表Jeon Byung-wook表示：“我们计划扩大让图书更多地被AI利用、并将由此产生的收益回馈给出版社和作者的结构。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un audiolibro con seis voces\nclonadas con ElevenLabs",
-          "body": "Allan Tépper hizo un audiolibro infantil a seis voces con clones de ElevenLabs: la autora no podía pagar actores.",
-          "mini_headline": "Seis voces clonadas, un audiolibro",
+          "headline": "Mentat vende datos de libros\npor tokens",
+          "body": "Con Mentat Discovery, las empresas de AI pueden buscar libros por tokens y firmar contratos.",
+          "mini_headline": "Mentat vende libros por tokens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Allan Tépper produjo hace poco su primer audiolibro con diálogos reales: necesitaba seis voces distintas (six-voice) para la narradora y otros cinco personajes. La autora y clienta (client-author) no tenía presupuesto para contratar ni a un solo locutor humano, y mucho menos a seis, así que las voces se clonaron con el plan Pro de ElevenLabs. “La brecha entre los locutores profesionales humanos y los locutores profesionales clonados todavía existe, pero es más estrecha que nunca”."
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-                "cap": "Todas las portadas de audiolibros deben ser cuadradas."
+                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+                "cap": "Mentat ha lanzado ‘Mentat Discovery (Mentat Discovery Console)’, un servicio de búsqueda de datos de libros para empresas de AI. Foto: cortesía de Mentat"
               },
               {
                 "t": "p",
-                "x": "El libro es El gato que se le coló a Colón, un libro infantil de Carmela Doval. Las voces: una narradora latinoamericana seseante; Paquito, un gato macho español; su novia Cloti; Cristóbal Colón; un portavoz anónimo de la tripulación; y Rodrigo, dueño de un barco. El clon usado para Paquito funciona bien, pero tiene una peculiaridad: su pronunciación castellana alterna entre la distinción y el habla seseante."
+                "x": "La plataforma de licencias de libros Mentat anunció el día 13 el lanzamiento de ‘Mentat Discovery’, un servicio de búsqueda de datos de libros para empresas de AI. Muestra los libros de las editoriales no por número de ejemplares, sino en ‘tokens’ y con un coste estimado, y cuando se eligen los datos necesarios, lleva el proceso hasta el contrato."
               },
               {
                 "t": "p",
-                "x": "ElevenLabs también analiza el manuscrito y pregunta al productor por palabras o nombres desconocidos, con un botón para reproducir su mejor conjetura y un campo para escribir una grafía fonética. Solo un nombre lo necesitó: Dade, que primero leyó como “Dah-Day” hasta que Tépper escribió “deid”."
+                "x": "Desde su fundación en 2025, Mentat ha firmado acuerdos de licencia con unas 90 editoriales coreanas, que abarcan unos 34.000 títulos. Los datos de libros que hoy se pueden buscar suman unos 8.000 millones de tokens."
+              },
+              {
+                "t": "p",
+                "x": "Los datos contratados se ofrecen de dos formas: un ‘conjunto de datos de entrenamiento’ en formatos de archivo como JSONL y una ‘API de referencia y cita’ que presenta pasajes de libros con su fuente cuando la AI responde. Todos los libros que se pueden buscar cuentan con un contrato formal de licencia."
+              },
+              {
+                "t": "p",
+                "x": "Jeon Byung-wook, consejero delegado de Mentat, afirmó: “Planeamos ampliar una estructura en la que los libros se utilicen más en la AI y los ingresos resultantes vuelvan a las editoriales y a los autores”."
               }
             ]
           }
@@ -1411,15 +1341,15 @@
       }
     },
     {
-      "id": "books-lezhin-teaz",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "웹툰 주인공과 대화\n레진, AI 챗 티즈 출시",
-      "body": "레진엔터테인먼트가 공식 웹툰 IP로 만든 AI 캐릭터챗 '티즈'를 19일 출시한다.",
-      "mini_headline": "레진 AI 캐릭터챗",
+      "id": "books-ewc-not-a-tool",
+      "source_lang": "en",
       "tool": "Books",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202610139344i",
+      "eyebrow": "AI NEWS",
+      "headline": "유럽 작가들 “AI는\n도구 아닌 위협”",
+      "body": "European Writers' Council이 AI를 기회로 본 초안에 맞섰다.",
+      "mini_headline": "EU 작가들: AI는 도구 아냐",
+      "source": "European Writers' Council",
+      "url": "https://europeanwriterscouncil.eu/ewc_owninireport_draft_mindthegap/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1427,345 +1357,255 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-            "cap": "레진엔터테인먼트는 AI캐릭터 챗 서비스 '티즈(Teaz)'를 19일 출시한다."
+            "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
           },
           {
             "t": "p",
-            "x": "웹툰 기업 키다리스튜디오의 계열사 레진엔터테인먼트가 자사 인기 웹툰 캐릭터와 직접 대화하며 독자만의 이야기를 만들어가는 AI 캐릭터챗 서비스 '티즈(Teaz)'를 오는 10월 19일 정식 출시한다고 밝혔다."
+            "x": "European Writers’ Council은 유럽의회(European Parliament)가 AI 시대 문화·창작 부문을 다룬 자체 발의(own-initiative) 보고서 초안(2025/2180(INI))에 의견을 내고 더 과감한 입장을 요구했다. AI는 도구가 아니라 작가의 직업과 생계, 노동 조건을 위협한다는 주장이다."
           },
           {
             "t": "p",
-            "x": "'티즈'는 여성향 글로벌 플랫폼 '봄툰'과 '레진코믹스'의 오리지널 웹툰 IP를 활용한 고몰입 대화형 콘텐츠다. 이용자는 원작의 특정 시점에 개입해 등장인물 중 한 명이 되거나, 제3자의 관점에서 세계관에 들어가는 식으로 대화를 이끌어간다."
+            "x": "EWC는 초안의 큰 방향은 타당하고 건설적이라고 봤다. 다만 생성형 AI를 ‘도구’나 ‘기회’로 다루는 “무비판적이고 미화하는” 태도를 깊이 우려하며 이런 표현을 고쳐 달라고 했다."
           },
           {
             "t": "p",
-            "x": "가장 큰 차별점은 '관계형 대화'다. 이용자가 던지는 대화 내용과 맥락에 따라 상대 캐릭터의 반응과 관계가 그때그때 달라진다. 스토리가 진행되면 아이템을 모으고 작가 친필 히든 일러스트를 해금하는 등 독자를 위한 요소도 넣었다."
-          },
-          {
-            "t": "p",
-            "x": "'티즈'는 권리 관계를 명확히 정리한 정식 계약 IP만 쓰고, 대화는 원저작자가 승인한 공식 설정 안에서 이뤄진다. 출시 이후에는 원작과 전혀 다른 세계관을 다루는 'AU(Alternative Universe, 평행세계)' 모드와 '텍스트 RPG' 모드 등을 단계적으로 도입할 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "모회사 키다리스튜디오는 2026년 상반기 연결기준 매출액 1,228억 원, 영업이익 90억 원을 기록했다. 전년 동기 대비 매출은 23%, 영업이익은 275% 늘었다. 회사 관계자는 \"'티즈'는 원작 IP의 세계관을 입체적으로 확장하며 회사의 새로운 미래 성장동력으로 자리매김할 것\"이라고 전했다."
+            "x": "EWC는 보고서가 인간의 ‘저작물’과 AI의 ‘콘텐츠’, ‘창작’과 ‘생성’을 갈라 쓰기를 바란다. AI가 작가의 일자리와 소득에 어떤 영향을 주는지 평가하자는 제안은 반겼다. 허락 방식으로는 옵트아웃(opt-out)이 아닌 명시적 옵트인(opt-in)을 내세웠다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "웹툰 주인공과 대화\n레진, AI 챗 티즈 출시",
-          "body": "레진엔터테인먼트가 공식 웹툰 IP로 만든 AI 캐릭터챗 '티즈'를 19일 출시한다.",
-          "mini_headline": "레진 AI 캐릭터챗",
+        "en": {
+          "headline": "European writers: AI is\nnot a tool but a threat",
+          "body": "The European Writers' Council pushes back on a European Parliament draft that treats generative AI as an opportunity.",
+          "mini_headline": "EU writers: AI is no tool",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-                "cap": "레진엔터테인먼트는 AI캐릭터 챗 서비스 '티즈(Teaz)'를 19일 출시한다."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
               },
               {
                 "t": "p",
-                "x": "웹툰 기업 키다리스튜디오의 계열사 레진엔터테인먼트가 자사 인기 웹툰 캐릭터와 직접 대화하며 독자만의 이야기를 만들어가는 AI 캐릭터챗 서비스 '티즈(Teaz)'를 오는 10월 19일 정식 출시한다고 밝혔다."
+                "x": "In feedback on the European Parliament’s own-initiative draft report on cultural and creative sectors in the age of AI (2025/2180(INI)), the European Writers’ Council calls for a more ambitious stance: AI is not a tool but a threat to writers’ profession, livelihoods and working conditions."
               },
               {
                 "t": "p",
-                "x": "'티즈'는 여성향 글로벌 플랫폼 '봄툰'과 '레진코믹스'의 오리지널 웹툰 IP를 활용한 고몰입 대화형 콘텐츠다. 이용자는 원작의 특정 시점에 개입해 등장인물 중 한 명이 되거나, 제3자의 관점에서 세계관에 들어가는 식으로 대화를 이끌어간다."
+                "x": "The EWC finds the draft’s overall approach sound and constructive, but voices serious concern about its “uncritical and whitewashing” treatment of generative AI as a “tool” or “opportunity”, and asks that such wording be revised."
               },
               {
                 "t": "p",
-                "x": "가장 큰 차별점은 '관계형 대화'다. 이용자가 던지는 대화 내용과 맥락에 따라 상대 캐릭터의 반응과 관계가 그때그때 달라진다. 스토리가 진행되면 아이템을 모으고 작가 친필 히든 일러스트를 해금하는 등 독자를 위한 요소도 넣었다."
-              },
-              {
-                "t": "p",
-                "x": "'티즈'는 권리 관계를 명확히 정리한 정식 계약 IP만 쓰고, 대화는 원저작자가 승인한 공식 설정 안에서 이뤄진다. 출시 이후에는 원작과 전혀 다른 세계관을 다루는 'AU(Alternative Universe, 평행세계)' 모드와 '텍스트 RPG' 모드 등을 단계적으로 도입할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "모회사 키다리스튜디오는 2026년 상반기 연결기준 매출액 1,228억 원, 영업이익 90억 원을 기록했다. 전년 동기 대비 매출은 23%, 영업이익은 275% 늘었다. 회사 관계자는 \"'티즈'는 원작 IP의 세계관을 입체적으로 확장하며 회사의 새로운 미래 성장동력으로 자리매김할 것\"이라고 전했다."
+                "x": "It wants the report to distinguish human “works” from AI “content” and “create” from “generate”, welcomes a call to assess AI’s impact on authors’ jobs and income, and argues for an explicit opt-in authorisation mechanism instead of opt-out."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Chat with webtoon heroes:\nLezhin launches AI chat Teaz",
-          "body": "Lezhin Entertainment will launch Teaz, an AI character chat built on official webtoon IP, on the 19th.",
-          "mini_headline": "Lezhin's AI character chat",
+        "ko": {
+          "headline": "유럽 작가들 “AI는\n도구 아닌 위협”",
+          "body": "European Writers' Council이 AI를 기회로 본 초안에 맞섰다.",
+          "mini_headline": "EU 작가들: AI는 도구 아냐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-                "cap": "Lezhin Entertainment will launch its AI character chat service ‘Teaz’ on the 19th."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
               },
               {
                 "t": "p",
-                "x": "Lezhin Entertainment, an affiliate of webtoon company Kidari Studio, said it will officially launch ‘Teaz’ on October 19, an AI character chat service in which readers talk directly with characters from its popular webtoons and build their own stories."
+                "x": "European Writers’ Council은 유럽의회(European Parliament)가 AI 시대 문화·창작 부문을 다룬 자체 발의(own-initiative) 보고서 초안(2025/2180(INI))에 의견을 내고 더 과감한 입장을 요구했다. AI는 도구가 아니라 작가의 직업과 생계, 노동 조건을 위협한다는 주장이다."
               },
               {
                 "t": "p",
-                "x": "‘Teaz’ is highly immersive interactive content built on original webtoon IP from Bomtoon, a global platform aimed at female readers, and Lezhin Comics. Users can steer the conversation by stepping into a specific point in the original story to become one of the characters, or by entering the story world from a 3rd-party perspective."
+                "x": "EWC는 초안의 큰 방향은 타당하고 건설적이라고 봤다. 다만 생성형 AI를 ‘도구’나 ‘기회’로 다루는 “무비판적이고 미화하는” 태도를 깊이 우려하며 이런 표현을 고쳐 달라고 했다."
               },
               {
                 "t": "p",
-                "x": "Its biggest differentiator is ‘relationship-based conversation’. The other character's reactions and the shape of the relationship change in varied ways depending on the content and context of what the user says. It also offers features for readers, such as collecting items as the story progresses and unlocking hidden illustrations hand-drawn by the authors."
-              },
-              {
-                "t": "p",
-                "x": "‘Teaz’ uses only officially contracted IP with clearly settled rights, and conversations take place within official settings approved by the original creators. After launch, the company plans to gradually introduce an ‘AU (Alternative Universe)’ mode dealing with worlds entirely different from the original, along with a ‘text RPG’ mode."
-              },
-              {
-                "t": "p",
-                "x": "Parent company Kidari Studio posted consolidated revenue of KRW 122.8 billion (1,228억 원) and operating profit of KRW 9 billion (90억 원) in the first half of 2026. Revenue rose 23% and operating profit 275% year on year. A company official said, “‘Teaz’ will expand the worlds of the original IP in new dimensions and establish itself as the company's new future growth engine.”"
+                "x": "EWC는 보고서가 인간의 ‘저작물’과 AI의 ‘콘텐츠’, ‘창작’과 ‘생성’을 갈라 쓰기를 바란다. AI가 작가의 일자리와 소득에 어떤 영향을 주는지 평가하자는 제안은 반겼다. 허락 방식으로는 옵트아웃(opt-out)이 아닌 명시적 옵트인(opt-in)을 내세웠다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブトゥーンの主人公と会話\nLezhin、Teazを発売",
-          "body": "Lezhinが公式ウェブトゥーンIPのAIキャラチャット「Teaz」を19日に発売する。",
-          "mini_headline": "LezhinのAIキャラチャット",
+          "headline": "欧州作家「AIは\n道具でなく脅威」",
+          "body": "European Writers' CouncilがAIを機会と見る欧州議会案に反発した。",
+          "mini_headline": "EU作家「AIは道具でない」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-                "cap": "レジンエンターテインメントは、AIキャラクターチャットサービス「Teaz」を19日に発売する。"
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
               },
               {
                 "t": "p",
-                "x": "ウェブトゥーン企業キダリスタジオ(Kidari Studio)の系列会社レジンエンターテインメント(Lezhin Entertainment)は、自社の人気ウェブトゥーンのキャラクターと直接会話しながら読者だけの物語を作っていくAIキャラクターチャットサービス「Teaz」を10月19日に正式発売すると明らかにした。"
+                "x": "European Writers’ Councilは、AI時代の文化・創造部門に関する欧州議会(European Parliament)の自主発議(own-initiative)報告書案(2025/2180(INI))への意見で、より踏み込んだ立場を求めた。AIは道具ではなく、作家の職業、生計、労働条件への脅威だというのである。"
               },
               {
                 "t": "p",
-                "x": "「Teaz」は、女性向けグローバルプラットフォーム「Bomtoon」と「Lezhin Comics」のオリジナルウェブトゥーンIPを活用した没入度の高い対話型コンテンツだ。利用者は原作の特定の時点に介入して登場人物の一人になったり、第3者の視点で世界観に入ったりする形で会話を進められる。"
+                "x": "EWCは草案の全体的な方向性を妥当かつ建設的と評価しつつ、生成AIを「道具」や「機会」として扱う「無批判で、問題を覆い隠す」姿勢に深刻な懸念を示し、こうした表現の修正を求めた。"
               },
               {
                 "t": "p",
-                "x": "最大の差別化ポイントは「関係型の会話」だ。利用者が投げかける会話の内容や文脈によって、相手キャラクターの反応や関係のあり方が多彩に変化する。物語の進行に応じたアイテム収集や、作家直筆の隠しイラストの解放など、読者向けの要素も用意した。"
-              },
-              {
-                "t": "p",
-                "x": "「Teaz」は権利関係が明確に整理された正式契約のIPのみを活用し、原作者が承認した公式設定の範囲内で会話が行われる。発売後は、原作とまったく異なる世界観を扱う「AU(Alternative Universe、パラレルワールド)」モードや「テキストRPG」モードなどを段階的に導入する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "親会社のキダリスタジオは2026年上半期、連結ベースで売上高1,228億ウォン、営業利益90億ウォンを記録した。前年同期比で売上高は23%、営業利益は275%増えた。同社関係者は「『Teaz』は原作IPの世界観を立体的に拡張し、会社の新たな将来の成長エンジンとして定着するだろう」と述べた。"
+                "x": "EWCは報告書に、人間の「著作物」とAIの「コンテンツ」、「創作する」と「生成する」を区別するよう求める。AIが著者の仕事と収入に与える影響を評価すべきだという提案は歓迎し、オプトアウト(opt-out)ではなく明示的なオプトイン(opt-in)の許諾の仕組みを主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "与网漫主角对话\nLezhin推出Teaz",
-          "body": "Lezhin将于19日推出基于官方网漫IP的AI角色聊天服务Teaz。",
-          "mini_headline": "Lezhin的AI角色聊天",
+          "headline": "欧洲作家：AI不是\n工具而是威胁",
+          "body": "European Writers' Council反驳欧洲议会视AI为机遇的草案。",
+          "mini_headline": "EU作家：AI不是工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-                "cap": "Lezhin Entertainment将于19日推出AI角色聊天服务“Teaz”。"
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
               },
               {
                 "t": "p",
-                "x": "网漫企业Kidari Studio旗下的Lezhin Entertainment宣布，将于10月19日正式推出AI角色聊天服务“Teaz”，读者可与旗下人气网漫角色直接对话，打造属于自己的故事。"
+                "x": "European Writers’ Council在就欧洲议会（European Parliament）关于AI时代文化与创意产业的自发倡议（own-initiative）报告草案（2025/2180(INI)）提交的反馈中，呼吁采取更有力的立场：AI不是工具，而是对作家职业、生计和工作条件的威胁。"
               },
               {
                 "t": "p",
-                "x": "“Teaz”是一款高沉浸度的对话式内容，基于女性向全球平台“Bomtoon”和“Lezhin Comics”的原创网漫IP。用户可以介入原作的特定时间点，成为其中一个角色，也可以从第3方视角进入世界观，引导对话展开。"
+                "x": "EWC认为草案的总体思路合理且具有建设性，但对其将生成式AI视为“工具”或“机遇”的“不加批判、粉饰太平”的处理方式表示严重关切，并要求修改相关措辞。"
               },
               {
                 "t": "p",
-                "x": "其最大的差异化特点是“关系型对话”。角色的反应和关系走向会根据用户对话的内容和语境而发生多样变化。服务还为读者设置了随剧情推进收集道具、解锁作者亲笔隐藏插画等元素。"
-              },
-              {
-                "t": "p",
-                "x": "“Teaz”只使用权利关系明确的正式签约IP，对话在原作者批准的官方设定范围内进行。上线后，公司计划逐步引入讲述与原作完全不同世界观的“AU（Alternative Universe，平行世界）”模式和“文字RPG”模式等。"
-              },
-              {
-                "t": "p",
-                "x": "母公司Kidari Studio 2026年上半年合并营收1,228亿韩元，营业利润90亿韩元，营收同比增长23%，营业利润同比增长275%。公司相关人士表示：“‘Teaz’将立体地拓展原作IP的世界观，成为公司新的未来增长引擎。”"
+                "x": "它希望报告区分人类的“作品”与AI的“内容”，以及“创作”与“生成”；欢迎评估AI对作者就业和收入影响的呼吁，并主张以明确的选择加入（opt-in）授权机制取代选择退出（opt-out）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Charla con héroes de webtoon\nLezhin lanza Teaz, chat de AI",
-          "body": "Lezhin Entertainment lanzará el día 19 Teaz, un chat de personajes con AI basado en IP oficial de webtoons.",
-          "mini_headline": "El chat de personajes con AI de Lezhin",
+          "headline": "Escritores europeos: la AI no\nes herramienta, sino amenaza",
+          "body": "El European Writers' Council rechaza un borrador del Parlamento Europeo que trata la AI generativa como oportunidad.",
+          "mini_headline": "Autores de la EU: la AI no es herramienta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-                "cap": "Lezhin Entertainment lanzará el día 19 su servicio de chat de personajes con AI ‘Teaz’."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
               },
               {
                 "t": "p",
-                "x": "Lezhin Entertainment, filial de la empresa de webtoons Kidari Studio, anunció que lanzará oficialmente el 19 de octubre ‘Teaz’, un servicio de chat de personajes con AI en el que los lectores conversan directamente con personajes de sus webtoons populares y crean sus propias historias."
+                "x": "En sus comentarios al proyecto de informe de propia iniciativa (own-initiative) del Parlamento Europeo (European Parliament) sobre los sectores cultural y creativo en la era de la AI (2025/2180(INI)), el European Writers’ Council pide una postura más ambiciosa: la AI no es una herramienta, sino una amenaza para la profesión, el sustento y las condiciones de trabajo de los escritores."
               },
               {
                 "t": "p",
-                "x": "‘Teaz’ es un contenido conversacional muy inmersivo basado en la IP de webtoons originales de Bomtoon, plataforma global orientada al público femenino, y de Lezhin Comics. Los usuarios pueden guiar la conversación interviniendo en un momento concreto de la obra original para convertirse en uno de los personajes, o entrando en su universo desde la perspectiva de una 3.ª persona."
+                "x": "El EWC considera que el enfoque general del borrador es sólido y constructivo, pero expresa una seria preocupación por su tratamiento “acrítico y blanqueador” de la AI generativa como “herramienta” u “oportunidad”, y pide que se revise esa redacción."
               },
               {
                 "t": "p",
-                "x": "Su principal diferencia es la ‘conversación relacional’. Las reacciones del personaje y la forma de la relación cambian de diversas maneras según el contenido y el contexto de lo que dice el usuario. También incluye elementos para los lectores, como recoger objetos a medida que avanza la historia y desbloquear ilustraciones ocultas dibujadas a mano por los autores."
-              },
-              {
-                "t": "p",
-                "x": "‘Teaz’ solo utiliza IP con contratos oficiales y derechos claramente definidos, y las conversaciones se desarrollan dentro de la ambientación oficial aprobada por los autores originales. Tras el lanzamiento, la empresa prevé introducir de forma gradual un modo ‘AU (Alternative Universe, universo paralelo)’, que aborda mundos totalmente distintos del original, y un modo ‘RPG de texto’."
-              },
-              {
-                "t": "p",
-                "x": "La empresa matriz, Kidari Studio, registró en el primer semestre de 2026 unos ingresos consolidados de 122.8 mil millones de wones (1,228억 원) y un beneficio operativo de 9 mil millones de wones (90억 원). Los ingresos crecieron un 23% y el beneficio operativo un 275% interanual. Un responsable de la empresa afirmó: “‘Teaz’ ampliará de forma tridimensional el universo de la IP original y se consolidará como el nuevo motor de crecimiento futuro de la empresa”."
+                "x": "Quiere que el informe distinga las “obras” humanas del “contenido” de la AI, y “crear” de “generar”; celebra la petición de evaluar el impacto de la AI en el empleo y los ingresos de los autores, y defiende un mecanismo explícito de autorización opt-in en lugar de opt-out."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Chat with webtoon heroes:\nLezhin launches AI chat Teaz",
-          "body": "Lezhin Entertainment will launch Teaz, an AI character chat built on official webtoon IP, on the 19th.",
-          "mini_headline": "Lezhin's AI character chat",
+        "ko": {
+          "headline": "유럽 작가들 “AI는\n도구 아닌 위협”",
+          "body": "European Writers' Council이 AI를 기회로 본 초안에 맞섰다.",
+          "mini_headline": "EU 작가들: AI는 도구 아냐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-                "cap": "Lezhin Entertainment will launch its AI character chat service ‘Teaz’ on the 19th."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
               },
               {
                 "t": "p",
-                "x": "Lezhin Entertainment, an affiliate of webtoon company Kidari Studio, said it will officially launch ‘Teaz’ on October 19, an AI character chat service in which readers talk directly with characters from its popular webtoons and build their own stories."
+                "x": "European Writers’ Council은 AI 시대 문화·창작 부문에 관한 유럽의회(European Parliament)의 자체 발의(own-initiative) 보고서 초안(2025/2180(INI))에 낸 의견에서 더 과감한 입장을 요구했다. AI는 도구가 아니라 작가의 직업과 생계, 노동 조건을 위협하는 존재라는 것이다."
               },
               {
                 "t": "p",
-                "x": "‘Teaz’ is highly immersive interactive content built on original webtoon IP from Bomtoon, a global platform aimed at female readers, and Lezhin Comics. Users can steer the conversation by stepping into a specific point in the original story to become one of the characters, or by entering the story world from a 3rd-party perspective."
+                "x": "EWC는 초안의 전반적 접근이 타당하고 건설적이라고 보면서도, 생성형 AI를 ‘도구’나 ‘기회’로 다루는 “무비판적이고 미화하는” 태도에 깊은 우려를 나타내며 이런 표현을 고쳐 달라고 요청했다."
               },
               {
                 "t": "p",
-                "x": "Its biggest differentiator is ‘relationship-based conversation’. The other character's reactions and the shape of the relationship change in varied ways depending on the content and context of what the user says. It also offers features for readers, such as collecting items as the story progresses and unlocking hidden illustrations hand-drawn by the authors."
-              },
-              {
-                "t": "p",
-                "x": "‘Teaz’ uses only officially contracted IP with clearly settled rights, and conversations take place within official settings approved by the original creators. After launch, the company plans to gradually introduce an ‘AU (Alternative Universe)’ mode dealing with worlds entirely different from the original, along with a ‘text RPG’ mode."
-              },
-              {
-                "t": "p",
-                "x": "Parent company Kidari Studio posted consolidated revenue of KRW 122.8 billion (1,228억 원) and operating profit of KRW 9 billion (90억 원) in the first half of 2026. Revenue rose 23% and operating profit 275% year on year. A company official said, “‘Teaz’ will expand the worlds of the original IP in new dimensions and establish itself as the company's new future growth engine.”"
+                "x": "EWC는 보고서가 인간의 ‘저작물’과 AI의 ‘콘텐츠’, ‘창작’과 ‘생성’을 구분하기를 바란다. AI가 작가의 일자리와 소득에 미치는 영향을 평가하자는 제안은 환영했고, 옵트아웃(opt-out) 대신 명시적인 옵트인(opt-in) 허락 방식을 주장했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブトゥーンの主人公と会話\nLezhin、Teazを発売",
-          "body": "Lezhinが公式ウェブトゥーンIPのAIキャラチャット「Teaz」を19日に発売する。",
-          "mini_headline": "LezhinのAIキャラチャット",
+          "headline": "欧州作家「AIは\n道具でなく脅威」",
+          "body": "European Writers' CouncilがAIを機会と見る欧州議会案に反発した。",
+          "mini_headline": "EU作家「AIは道具でない」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-                "cap": "レジンエンターテインメントは、AIキャラクターチャットサービス「Teaz」を19日に発売する。"
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
               },
               {
                 "t": "p",
-                "x": "ウェブトゥーン企業キダリスタジオ(Kidari Studio)の系列会社レジンエンターテインメント(Lezhin Entertainment)は、自社の人気ウェブトゥーンのキャラクターと直接会話しながら読者だけの物語を作っていくAIキャラクターチャットサービス「Teaz」を10月19日に正式発売すると明らかにした。"
+                "x": "European Writers’ Councilは、AI時代の文化・創造部門に関する欧州議会(European Parliament)の自主発議(own-initiative)報告書案(2025/2180(INI))への意見で、より踏み込んだ立場を求めた。AIは道具ではなく、作家の職業、生計、労働条件への脅威だというのである。"
               },
               {
                 "t": "p",
-                "x": "「Teaz」は、女性向けグローバルプラットフォーム「Bomtoon」と「Lezhin Comics」のオリジナルウェブトゥーンIPを活用した没入度の高い対話型コンテンツだ。利用者は原作の特定の時点に介入して登場人物の一人になったり、第3者の視点で世界観に入ったりする形で会話を進められる。"
+                "x": "EWCは草案の全体的な方向性を妥当かつ建設的と評価しつつ、生成AIを「道具」や「機会」として扱う「無批判で、問題を覆い隠す」姿勢に深刻な懸念を示し、こうした表現の修正を求めた。"
               },
               {
                 "t": "p",
-                "x": "最大の差別化ポイントは「関係型の会話」だ。利用者が投げかける会話の内容や文脈によって、相手キャラクターの反応や関係のあり方が多彩に変化する。物語の進行に応じたアイテム収集や、作家直筆の隠しイラストの解放など、読者向けの要素も用意した。"
-              },
-              {
-                "t": "p",
-                "x": "「Teaz」は権利関係が明確に整理された正式契約のIPのみを活用し、原作者が承認した公式設定の範囲内で会話が行われる。発売後は、原作とまったく異なる世界観を扱う「AU(Alternative Universe、パラレルワールド)」モードや「テキストRPG」モードなどを段階的に導入する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "親会社のキダリスタジオは2026年上半期、連結ベースで売上高1,228億ウォン、営業利益90億ウォンを記録した。前年同期比で売上高は23%、営業利益は275%増えた。同社関係者は「『Teaz』は原作IPの世界観を立体的に拡張し、会社の新たな将来の成長エンジンとして定着するだろう」と述べた。"
+                "x": "EWCは報告書に、人間の「著作物」とAIの「コンテンツ」、「創作する」と「生成する」を区別するよう求める。AIが著者の仕事と収入に与える影響を評価すべきだという提案は歓迎し、オプトアウト(opt-out)ではなく明示的なオプトイン(opt-in)の許諾の仕組みを主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "与网漫主角对话\nLezhin推出Teaz",
-          "body": "Lezhin将于19日推出基于官方网漫IP的AI角色聊天服务Teaz。",
-          "mini_headline": "Lezhin的AI角色聊天",
+          "headline": "欧洲作家：AI不是\n工具而是威胁",
+          "body": "European Writers' Council反驳欧洲议会视AI为机遇的草案。",
+          "mini_headline": "EU作家：AI不是工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-                "cap": "Lezhin Entertainment将于19日推出AI角色聊天服务“Teaz”。"
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
               },
               {
                 "t": "p",
-                "x": "网漫企业Kidari Studio旗下的Lezhin Entertainment宣布，将于10月19日正式推出AI角色聊天服务“Teaz”，读者可与旗下人气网漫角色直接对话，打造属于自己的故事。"
+                "x": "European Writers’ Council在就欧洲议会（European Parliament）关于AI时代文化与创意产业的自发倡议（own-initiative）报告草案（2025/2180(INI)）提交的反馈中，呼吁采取更有力的立场：AI不是工具，而是对作家职业、生计和工作条件的威胁。"
               },
               {
                 "t": "p",
-                "x": "“Teaz”是一款高沉浸度的对话式内容，基于女性向全球平台“Bomtoon”和“Lezhin Comics”的原创网漫IP。用户可以介入原作的特定时间点，成为其中一个角色，也可以从第3方视角进入世界观，引导对话展开。"
+                "x": "EWC认为草案的总体思路合理且具有建设性，但对其将生成式AI视为“工具”或“机遇”的“不加批判、粉饰太平”的处理方式表示严重关切，并要求修改相关措辞。"
               },
               {
                 "t": "p",
-                "x": "其最大的差异化特点是“关系型对话”。角色的反应和关系走向会根据用户对话的内容和语境而发生多样变化。服务还为读者设置了随剧情推进收集道具、解锁作者亲笔隐藏插画等元素。"
-              },
-              {
-                "t": "p",
-                "x": "“Teaz”只使用权利关系明确的正式签约IP，对话在原作者批准的官方设定范围内进行。上线后，公司计划逐步引入讲述与原作完全不同世界观的“AU（Alternative Universe，平行世界）”模式和“文字RPG”模式等。"
-              },
-              {
-                "t": "p",
-                "x": "母公司Kidari Studio 2026年上半年合并营收1,228亿韩元，营业利润90亿韩元，营收同比增长23%，营业利润同比增长275%。公司相关人士表示：“‘Teaz’将立体地拓展原作IP的世界观，成为公司新的未来增长引擎。”"
+                "x": "它希望报告区分人类的“作品”与AI的“内容”，以及“创作”与“生成”；欢迎评估AI对作者就业和收入影响的呼吁，并主张以明确的选择加入（opt-in）授权机制取代选择退出（opt-out）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Charla con héroes de webtoon\nLezhin lanza Teaz, chat de AI",
-          "body": "Lezhin Entertainment lanzará el día 19 Teaz, un chat de personajes con AI basado en IP oficial de webtoons.",
-          "mini_headline": "El chat de personajes con AI de Lezhin",
+          "headline": "Escritores europeos: la AI no\nes herramienta, sino amenaza",
+          "body": "El European Writers' Council rechaza un borrador del Parlamento Europeo que trata la AI generativa como oportunidad.",
+          "mini_headline": "Autores de la EU: la AI no es herramienta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-                "cap": "Lezhin Entertainment lanzará el día 19 su servicio de chat de personajes con AI ‘Teaz’."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
               },
               {
                 "t": "p",
-                "x": "Lezhin Entertainment, filial de la empresa de webtoons Kidari Studio, anunció que lanzará oficialmente el 19 de octubre ‘Teaz’, un servicio de chat de personajes con AI en el que los lectores conversan directamente con personajes de sus webtoons populares y crean sus propias historias."
+                "x": "En sus comentarios al proyecto de informe de propia iniciativa (own-initiative) del Parlamento Europeo (European Parliament) sobre los sectores cultural y creativo en la era de la AI (2025/2180(INI)), el European Writers’ Council pide una postura más ambiciosa: la AI no es una herramienta, sino una amenaza para la profesión, el sustento y las condiciones de trabajo de los escritores."
               },
               {
                 "t": "p",
-                "x": "‘Teaz’ es un contenido conversacional muy inmersivo basado en la IP de webtoons originales de Bomtoon, plataforma global orientada al público femenino, y de Lezhin Comics. Los usuarios pueden guiar la conversación interviniendo en un momento concreto de la obra original para convertirse en uno de los personajes, o entrando en su universo desde la perspectiva de una 3.ª persona."
+                "x": "El EWC considera que el enfoque general del borrador es sólido y constructivo, pero expresa una seria preocupación por su tratamiento “acrítico y blanqueador” de la AI generativa como “herramienta” u “oportunidad”, y pide que se revise esa redacción."
               },
               {
                 "t": "p",
-                "x": "Su principal diferencia es la ‘conversación relacional’. Las reacciones del personaje y la forma de la relación cambian de diversas maneras según el contenido y el contexto de lo que dice el usuario. También incluye elementos para los lectores, como recoger objetos a medida que avanza la historia y desbloquear ilustraciones ocultas dibujadas a mano por los autores."
-              },
-              {
-                "t": "p",
-                "x": "‘Teaz’ solo utiliza IP con contratos oficiales y derechos claramente definidos, y las conversaciones se desarrollan dentro de la ambientación oficial aprobada por los autores originales. Tras el lanzamiento, la empresa prevé introducir de forma gradual un modo ‘AU (Alternative Universe, universo paralelo)’, que aborda mundos totalmente distintos del original, y un modo ‘RPG de texto’."
-              },
-              {
-                "t": "p",
-                "x": "La empresa matriz, Kidari Studio, registró en el primer semestre de 2026 unos ingresos consolidados de 122.8 mil millones de wones (1,228억 원) y un beneficio operativo de 9 mil millones de wones (90억 원). Los ingresos crecieron un 23% y el beneficio operativo un 275% interanual. Un responsable de la empresa afirmó: “‘Teaz’ ampliará de forma tridimensional el universo de la IP original y se consolidará como el nuevo motor de crecimiento futuro de la empresa”."
+                "x": "Quiere que el informe distinga las “obras” humanas del “contenido” de la AI, y “crear” de “generar”; celebra la petición de evaluar el impacto de la AI en el empleo y los ingresos de los autores, y defiende un mecanismo explícito de autorización opt-in en lugar de opt-out."
               }
             ]
           }

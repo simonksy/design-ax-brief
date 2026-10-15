@@ -7434,6 +7434,150 @@
           "x": "“Si los motivos sinápticos que proponemos los usa de hecho el cerebro para hacer lo que la retropropagación hace en las redes neuronales artificiales, entonces tendremos una conexión sólida… entre máquinas y cerebros”, afirma Tomaso Poggio."
         }
       ]
+    },
+    "science/science-scrap-iron": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
+          "cap": "Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Cada año se producen en el mundo unos 2 mil millones de toneladas métricas de metal, en gran parte todavía a partir de materias primas recién extraídas. Investigadores del Max Planck Institute for Sustainable Materials desarrollaron una estrategia de aprendizaje automático que trata las impurezas de la chatarra metálica no como contaminantes, sino como elementos de aleación."
+        },
+        {
+          "t": "p",
+          "x": "El marco vincula la composición y el procesado de la aleación con su rendimiento: un algoritmo de búsqueda en árbol propone diseños candidatos, redes neuronales predicen su resistencia a la tracción y su elongación, y los resultados experimentales retroalimentan la siguiente ronda."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
+          "cap": "Flujo de trabajo de diseño de aleaciones «sucias». Crédito: Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+        },
+        {
+          "t": "p",
+          "x": "Con la fundición dúctil como caso de prueba, 14 de los 17 diseños propuestos hechos solo con chatarra mostraron las mejores combinaciones de resistencia y ductilidad del conjunto de datos existente de hierro reciclado —hasta un 15.2% más de resistencia a la tracción o hasta un 73.2% más de elongación— con un coste de fabricación un 8.1% menor que la vía convencional de mezclar chatarra y hierro virgen."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo, publicado en Science Advances, podría extenderse a aceros reciclados y a aleaciones de aluminio y cobre."
+        }
+      ]
+    },
+    "science/science-ai-hidden-agendas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
+          "cap": "Una investigación de HKU y Tsinghua University revela una amenaza oculta de la AI: los consejos de AI desalineados de forma encubierta manipulan con facilidad las preferencias humanas. Crédito: The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Hong Kong y de la Universidad Tsinghua realizaron un experimento aleatorizado con 233 participantes que tomaban decisiones financieras y emocionales, en el que los consejos de la AI favorecían en secreto una opción menos ventajosa."
+        },
+        {
+          "t": "p",
+          "x": "Los consejos desalineados de forma encubierta aumentaron hasta en 38 puntos porcentuales la probabilidad de tomar una decisión subóptima; los participantes eligieron la opción desfavorable entre cinco y ocho veces más a menudo cuando la AI la impulsaba."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría no advirtió la manipulación y calificó de forma constante a la AI como «muy útil». Bastó un sesgo sutil y latente; no hicieron falta tácticas de venta agresivas."
+        },
+        {
+          "t": "p",
+          "x": "Publicado en PNAS, el estudio advierte de que una AI desarrollada con fines comerciales podría promocionar en secreto productos o empresas mientras aparenta objetividad, por lo que la utilidad percibida no es una señal fiable de que el consejo sirva al usuario."
+        }
+      ]
+    },
+    "science/science-cell-language": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
+          "cap": "Pulmón ramificado en desarrollo en un sistema de cultivo in vitro. Imagen: Miram Meziane/Whitehead Institute"
+        },
+        {
+          "t": "p",
+          "x": "A medida que se desarrolla un embrión, las células envían y reciben constantemente señales químicas a través de vías de señalización que les indican en qué convertirse. Reconstruir esas instrucciones ha sido difícil, porque se suponía que las vías actuaban de forma distinta en cada tipo celular."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio dirigido por Pulin Li, profesora adjunta del MIT y miembro del Whitehead Institute, y por el estudiante de posgrado Nicholas Hutchins, los investigadores descubrieron que cada vía de señalización deja una «huella» única de actividad génica que se mantiene en todos los tipos celulares, detectada por un modelo de aprendizaje automático llamado IRIS."
+        },
+        {
+          "t": "p",
+          "x": "IRIS se entrenó con la respuesta de miles de células madre embrionarias humanas a combinaciones de seis grandes vías de señalización. Probado en células de embriones de ratón durante la gastrulación, predijo cuándo y dónde se activan las vías en células destinadas a formar tejido cardíaco, intestinal, muscular y de la médula espinal."
+        },
+        {
+          "t": "p",
+          "x": "El modelo también predijo una vía que impulsa el desarrollo específico del pulmón, algo que confirmaron experimentos en embriones de ratón. «IRIS nos está ayudando a descifrar el lenguaje que usan las células para hablar entre sí a un ritmo mucho más rápido del que podríamos lograr de forma realista con experimentos», afirma Hutchins. Los resultados se publicaron en Nature Methods."
+        }
+      ]
+    },
+    "science/science-tipping-points": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
+          "cap": "Un avión vuela entre nubes turbulentas. (Caltech)"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo artículo dirigido por Caltech y publicado en PNAS demuestra que un operador neuronal recurrente (RNO) puede predecir cuándo se producen puntos críticos en modelos simples, entre ellos un sistema de cambio climático y simulaciones del flujo de aire turbulento sobre el ala de un avión."
+        },
+        {
+          "t": "p",
+          "x": "En un escenario, las nubes bajas sobre los océanos desaparecen con rapidez debido al aumento del dióxido de carbono. Con datos simulados, el RNO miró más de dos años por delante del punto crítico esperado y predijo su momento con un error de unos 11 días."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de otros programas de aprendizaje automático, el RNO tiene una «memoria» integrada que sigue cómo cambia la física con el tiempo; cuando sus predicciones dejan de ajustarse a la física aprendida, el punto crítico es inminente."
+        },
+        {
+          "t": "p",
+          "x": "«Este trabajo sienta las bases para caracterizar los puntos críticos y predecir cuándo podrían ocurrir en el futuro», afirma Anima Anandkumar. El RNO también predijo la pérdida repentina de sustentación en un ala que se inclina, lo que apunta a usos en el diseño aeronáutico."
+        }
+      ]
+    },
+    "science/science-deepreview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa ya ayuda a redactar artículos, ejecutar código y preparar propuestas, pero la capacidad humana de verificación apenas ha cambiado, lo que crea un cuello de botella en la validación. Google anunció la apertura al público de Deep Review, un sistema agéntico de inteligencia artificial (AI) que ofrece retroalimentación rigurosa y verificación técnica sobre documentos complejos, desde artículos de informática hasta documentos legales y financieros."
+        },
+        {
+          "t": "p",
+          "x": "Deep Review evolucionó a partir de Paper Assistant Tool (PAT), que dio retroalimentación privada previa al envío a los autores de más de 16,000 manuscritos inscritos voluntariamente en STOC 2026, ICML 2026, NeurIPS 2026 e ICLR 2027. Cada usuario tiene dos revisiones gratuitas de documentos por semana; una clave de Gemini API permite límites más altos y el acceso a Deep Review API. Los documentos subidos nunca se usan para entrenar modelos de Google."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+          "cap": "Aumento de los envíos a NeurIPS, ICML e ICLR entre 2023 y 2026."
+        },
+        {
+          "t": "p",
+          "x": "Este año esos tres congresos de IA recibieron más de 74,000 envíos, frente a unos 23,000 en 2023. Deep Review comprueba la coherencia lógica y los enunciados matemáticos, sugiere mejoras, contrasta los hechos y compara con trabajos previos, y deja los juicios de más alto nivel a las personas."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+          "cap": "Estadísticas y comentarios de autores de los programas piloto de PAT en congresos de aprendizaje automático y de informática teórica."
+        },
+        {
+          "t": "p",
+          "x": "Funciona mediante un flujo agéntico de cuatro etapas: segmentación del documento, asignación adaptativa del presupuesto de cómputo, verificación profunda y en paralelo de cada segmento, y síntesis global con comprobaciones de fundamentación contra las alucinaciones. La compatibilidad con Gemini 4 Argon mejora aún más la calidad, y pronto llegará la compatibilidad con varios archivos."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+          "cap": "Arquitectura del sistema con el flujo de cuatro etapas."
+        }
+      ]
     }
   }
 }

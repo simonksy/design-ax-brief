@@ -1,26 +1,32 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "movies",
   "media": [
     {
-      "id": "movies-midjourney",
-      "type": "image",
-      "src": "pipeline/media/movies-midjourney.jpg"
+      "id": "movies-maxon-fall",
+      "type": "video",
+      "src": "pipeline/media/movies-maxon-fall.mp4",
+      "poster": "pipeline/media/movies-maxon-fall.jpg"
     },
     {
-      "id": "movies-netflix-busan",
+      "id": "movies-astralabs",
       "type": "image",
-      "src": "pipeline/media/movies-netflix-busan.jpg"
+      "src": "pipeline/media/movies-astralabs.jpg"
     },
     {
-      "id": "movies-peacock-bravoverse",
+      "id": "movies-celebrity-deepfakes",
       "type": "image",
-      "src": "pipeline/media/movies-peacock-bravoverse.jpg"
+      "src": "pipeline/media/movies-celebrity-deepfakes.jpg"
     },
     {
-      "id": "movies-acfm-busan",
+      "id": "movies-artificial-amazon",
       "type": "image",
-      "src": "pipeline/media/movies-acfm-busan.jpg"
+      "src": "pipeline/media/movies-artificial-amazon.jpg"
+    },
+    {
+      "id": "movies-view-execs",
+      "type": "image",
+      "src": "pipeline/media/movies-view-execs.jpg"
     }
   ]
 }

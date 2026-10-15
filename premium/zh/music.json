@@ -6484,6 +6484,105 @@
           "x": "Deezer称，2025年1月至2026年8月间共检测到超过4200万首AI-generated曲目；自2025年6月开始标注AI-generated音乐以来，已有超过1400万张专辑被打上标签。"
         }
       ]
+    },
+    "music/music-point-and-play": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "神经乐器合成器可以克隆独奏乐器的音色，但目标乐器往往嵌在制作完整的多乐器录音中。先分离音源可能引入分离伪影，很可能是在绕远路。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
+          "cap": "图1：给定复音混合音频以及音频或文本提示，系统提取所提示音源的音色，并以新的音高和力度进行渲染。"
+        },
+        {
+          "t": "p",
+          "x": "Point-and-Play直接从复音混合音频中克隆所提示音源的音色。Cue-Gated Statistics Pooling（CGSP）模块从混音经适配的CLAP嵌入中提取目标乐器的音色编码。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
+          "cap": "图2：Point-and-Play架构。"
+        },
+        {
+          "t": "p",
+          "x": "该音色编码与音高、力度输入一起，作为单独训练的音符合成器的条件。实验中，该系统在音色保真度和合成质量上均优于先分离后克隆的基线，表现与从干净独奏乐器克隆相当。"
+        }
+      ]
+    },
+    "music/music-blackburn-kendrick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
+          "cap": "参议员玛莎·布莱克本"
+        },
+        {
+          "t": "p",
+          "x": "U.S.参议员玛莎·布莱克本正在竞选田纳西州州长，她试图借社交媒体造势，却适得其反：她发布了一段自己在Super Bowl LIX上化身肯德里克·拉马尔表演《Not Like Us》的AI-generated视频，结果遭到群嘲。"
+        },
+        {
+          "t": "p",
+          "x": "她在X上为视频配文：“明天。准备出发。”视频背景中出现了凯恩（格伦·雅各布斯）、众议员蒂姆·伯切特、参议员比尔·哈格蒂和州参议员布伦特·泰勒。Billboard已联系肯德里克·拉马尔的代表置评。"
+        },
+        {
+          "t": "p",
+          "x": "她的回复区很快被刷屏，有评论称这段视频“尴尬得令人痛苦”“AI垃圾”。一位网友写道：“你找到了让人工智能显得愚蠢的方法。”"
+        },
+        {
+          "t": "p",
+          "x": "她的民主党对手杰丽·格林在X上写道：“我说请别再用AI来支持我们的竞选，指的就是这个。”"
+        },
+        {
+          "t": "p",
+          "x": "拉马尔凭借2025年2月在新奥尔良举行的Super Bowl LIX中场秀表演，第二次获得黄金时段艾美奖。"
+        }
+      ]
+    },
+    "music/music-awards-ai-age": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Academy of Emerging Music Arts & Sciences（AEMAS）创始人沙米埃尔·奥尔斯顿写道，AI迫使颁奖机构追问：作品究竟由谁、或由什么创作。按下按钮、接受第一个结果，与亲自创作、否决数十个输出、调整技术方向并反复编辑直到结果体现本意，并不是同一种创作行为。"
+        },
+        {
+          "t": "p",
+          "x": "如果颁奖机构认可AI-assisted或AI-directed音乐，就应该能够说明自己认可的是什么。在奥尔斯顿看来，关键在于人类创作导向：谁提出了构想、做出了有意义的决定、进行了修改，并能解释作品为何是现在这种声音。"
+        },
+        {
+          "t": "p",
+          "x": "AEMAS's首届Ellison Awards采用资格审查、每件参赛作品由五位评委盲评，以及利益冲突防范措施。2027年奖项的报名将于2026年11月1日开放，并设有AI Creative Direction专属类别。"
+        }
+      ]
+    },
+    "music/music-youtube-ai-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Music周三宣布推出新的标签系统，旨在提高借助生成式AI创作的歌曲的透明度，包括AI参与作曲和人声的曲目。标签显示在播放页面上，点击后会说明AI在该曲目中的具体作用；标签也将扩展到YouTube主应用。"
+        },
+        {
+          "t": "p",
+          "x": "YouTube表示，它与音乐合作伙伴合作，并部署了自有的检测工具。合作伙伴可以通过三种标注之一申报生成式AI的使用情况：Fully Gen AI、Partly Gen AI或No Gen AI。使用Auto-Tune等音高校正工具编辑的曲目属于No Gen AI。"
+        },
+        {
+          "t": "p",
+          "x": "其他平台各有做法：Apple Music计划推出“Made With AI”标签，Spotify设有AI标签和音乐垃圾内容过滤器；Deezer在7月报告称每天收到近90,000首完全AI-generated的曲目，它会把检测到的AI音乐排除在算法推荐和编辑歌单之外；TIDAL则允许听众屏蔽完全AI-generated的录音。"
+        },
+        {
+          "t": "p",
+          "x": "相比之下，YouTube侧重于信息披露，而非一刀切的限制：仅凭AI参与，并不会让曲目失去变现资格。"
+        }
+      ]
     }
   }
 }

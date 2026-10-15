@@ -7176,6 +7176,120 @@
           "x": "La cuestión de fondo es cómo responderá Microsoft a las descompilaciones y recompilaciones en las que los modders toman su IP y la ponen a disposición de forma gratuita. Microsoft no respondió a tiempo para esta publicación a una solicitud de comentarios sobre el uso no autorizado de su IP."
         }
       ]
+    },
+    "games/games-shogun2-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Total War: Shogun 2 – Complete Edition salió el October 13 en medio de una avalancha de reseñas negativas en Steam por problemas gráficos, errores nuevos y antiguos, una UI deficiente y el uso no declarado de escalado con AI en el arte del juego. Sega también había retirado de la venta el original y subido el precio a $40."
+        },
+        {
+          "t": "p",
+          "x": "\"Somos conscientes de que Total War: Shogun 2 – Complete Edition no ha estado a la altura ni de sus expectativas ni de nuestros propios estándares\", escribió Sega en X. La compañía trabaja con los responsables de las plataformas para retirar \"temporalmente\" el juego de la venta mientras investiga, y prevé volver a vender la versión anterior."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
+          "cap": "© Creative Assembly / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "El comunicado no aborda el escalado con AI del arte del juego, y la página de Steam sigue sin incluir una declaración de uso de AI. El remake tiene un 17-percent de reseñas positivas sobre casi 2,000."
+        }
+      ]
+    },
+    "games/games-nemotron-bolt-skyrimnet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los portátiles RTX Spark salen a la venta el viernes, Oct. 16, con cientos de juegos y DLSS 5 con 3D-Guided Neural Rendering; DLSS 5 también llega a RTX Remix el Oct. 23."
+        },
+        {
+          "t": "p",
+          "x": "Nemotron 3.5 Bolt E4B 4GB es el SLM de tercera generación para NVIDIA ACE, el conjunto de herramientas para crear agentes de AI dentro del juego. Combina conversación natural con uso de herramientas en varios turnos y está diseñado para ocupar poca memoria y ofrecer un tiempo rápido hasta el primer token."
+        },
+        {
+          "t": "p",
+          "x": "A partir del Oct. 23, los jugadores pueden probarlo en SkyrimNET, una plataforma de mods de AI NPC creada por MinLL para Skyrim que convierte a cada NPC en un personaje sin guion con memoria personal, voz y autonomía."
+        },
+        {
+          "t": "p",
+          "x": "Remix 1.6, que también llega el Oct. 23, renueva la generación de texturas con AI mediante ComfyUI Version 2 y permite a los modders generar materiales PBR dentro de RTX Remix sin configurar ninguna API."
+        }
+      ]
+    },
+    "games/games-bf6-paid-ai-cosmetics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La Season 5 de Battlefield 6, \"Siege of Vegas\", recibió elogios por su mapa Area 51, pero también trajo cosméticos del pase de temporada que han hecho sonar las alarmas de genAI entre los jugadores: un operador con cinco pistolas enfundadas, diseños de cargador extraños y un parche en el brazo que dice \"Secuty\"."
+        },
+        {
+          "t": "p",
+          "x": "Las publicaciones en el subreddit han reunido miles de votos positivos. \"Cobrar $$$ a los jugadores por contenido generado con AI es el colmo de la falta de respeto\", decía un hilo."
+        },
+        {
+          "t": "p",
+          "x": "No hay confirmación de que los diseños procedan de genAI, pero el shooter de EA ya lanzó meses después de su estreno cosméticos aparentemente AI-generated, y algunos desarrolladores de Battlefield fueron despedidos a principios de este año."
+        }
+      ]
+    },
+    "games/games-shroud-zero-bugs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En el pódcast TechJesse, el creador de Ultima, Richard Garriott, dijo: \"Esto es muy polémico... [pero] la AI está ayudando de verdad. Ahora puedo estar más cerca de la creación. Ahora necesitamos menos personas y menos tiempo para hacerlo\". Añadió que el uso ético de la AI \"es un asunto realmente importante\"."
+        },
+        {
+          "t": "p",
+          "x": "Según él, Shroud of the Avatar tuvo de forma persistente un recuento de mil errores, algunos sin resolver durante tres a cinco años. \"Ahora, con AI, esos errores se corrigen en cuanto se detectan, en menos de una hora\". El juego \"ahora tiene cero errores, todos los días. Cero\"."
+        },
+        {
+          "t": "p",
+          "x": "La afirmación llama la atención dada la mala reputación de rendimiento del juego; ocho años después de su lanzamiento sigue recibiendo actualizaciones periódicas. \"Los humanos hacen el arte y las máquinas pueden ayudar con el trabajo\", dice Garriott."
+        }
+      ]
+    },
+    "games/games-epic-launcher": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games renueva en vista previa su launcher de juegos para PC: asegura que la nueva versión es “mucho más rápida”, que ahora es compatible con Linux y que fue “vibe coded”, es decir, hecha con vibe coding. “Programar es difícil”, dice Epic. “Así que, en lugar de hacerlo, creamos con vibe coding un nuevo Epic Games Launcher”."
+        },
+        {
+          "t": "p",
+          "x": "“Usamos la AI como herramienta para esto”, explica a The Verge Martin Keely, VP y GM de Epic Games Store y Epic Online Services. La AI fue “de gran ayuda” para las pruebas y para “replicar la funcionalidad central del launcher existente”, y ayudó a llevarlo a Linux. “Sin duda hicimos que agentes escribieran y revisaran todo el código”, afirma, pero el equipo “supervisó la totalidad de lo que hicimos”."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Captura de pantalla con estadísticas sobre el Epic Games Launcher."
+        },
+        {
+          "t": "p",
+          "x": "La noticia llega después de que el CEO Tim Sweeney anunciara un “gran giro” para “reorganizarse con vistas a la máxima aceleración con AI”. La vista previa está disponible en Windows, Mac y Linux, el launcher anterior sigue disponible y Epic también planea llevar Fortnite a Linux a través de la app."
+        }
+      ]
     }
   }
 }

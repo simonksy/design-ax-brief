@@ -1,118 +1,125 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
-      "rank": 2,
-      "title": "Introducing Agent-Native Beta: The Framework for Agentic Apps",
-      "url": "https://www.builder.io/blog/introducing-agent-native",
-      "source": "Builder.io",
+      "rank": 1,
+      "title": "Introducing Specs: Markdown as a medium",
+      "url": "https://www.figma.com/blog/introducing-figma-specs/",
+      "source": "Figma",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-14T15:00:00Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F70b5ac4622c74e00a042858640097b47?width=1200",
-      "excerpt": "Builder.io released Agent-Native, an open-source TypeScript framework for building AI agents with rich UIs: define an action once and use it in the UI, the agent, the API, the CLI and MCP.",
-      "rationale": "New open-source release: one action definition drives UI, agent, API and MCP, a concrete pattern for designing agentic product UIs."
+      "published_iso": "2026-10-15T04:51:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Figma launches Specs, a Markdown container for context that lives on the canvas, giving designers and AI agents a shared written spec beside the design.",
+      "rationale": "Brand-new Figma product from Config India: a Markdown spec on the canvas that both designers and agents read, which changes how handoff context is written starting tomorrow."
     },
     {
-      "rank": 3,
-      "title": "Spectral Labs builds 'Turing Test for AI CAD'",
-      "url": "https://develop3d.com/cad/spectral-labs-turing-test-ai-cad/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-10-14T21:16:15Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg",
-      "excerpt": "Spectral Labs claims to have built the first AI system to pass an industry-standard CAD certification for mechanical engineers, a SolidWorks exam.",
-      "rationale": "Novel milestone claim: an AI passing a SolidWorks certification exam sets a measurable bar for text-to-CAD capability."
-    },
-    {
-      "rank": 4,
-      "title": "Sparseal releases CozyBlanket Pro",
-      "url": "https://www.cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro/",
-      "source": "CG Channel",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-10-13T07:00:55Z",
-      "og_image": "",
-      "excerpt": "Sparseal's much-anticipated AI-assisted retopology, UV unwrapping and baking app CozyBlanket Pro is now available for iPad, with a desktop edition in development.",
-      "rationale": "Shipping release: AI-assisted retopology, UVs and baking on iPad, a hands-on tool 3D artists can use tomorrow."
-    },
-    {
-      "rank": 5,
-      "title": "Workday launches Sana-based UI, autopilot agents, as it deepens its focus on AI",
-      "url": "https://www.cio.com/article/4234407/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai.html",
-      "source": "CIO",
+      "rank": 2,
+      "title": "Bluesky's AI tool now lets you make games and apps to share on social",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-10-13T14:23:22Z",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "Workday is replacing its interface with a Sana-based agent UI. Autonomous agents keep running while users are offline and tell them what they missed when they sign in, and customers can even go headless.",
-      "rationale": "A major enterprise app swapping its screen UI for an agent UI (with a headless option) is a concrete signal for product designers of agentic software."
+      "published_iso": "2026-10-15T19:57:16Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&crop=0%2C10.814080979907%2C100%2C78.371838040185&w=1200",
+      "excerpt": "Bluesky's Attie tool now builds small games and apps from prompts that users share in their feeds; the CEO calls it 'vibe coding for your community.'",
+      "rationale": "New feature launch: prompt-built mini apps that live inside a social feed open a new surface for designing shareable interactive content."
     },
     {
-      "rank": 6,
-      "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
-      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
-      "source": "UX Collective",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#eb367f",
+      "rank": 3,
+      "title": "The AI you already use, now powering the apps you create",
+      "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
+      "source": "Lovable",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#3b6bff",
       "motif": "frame",
-      "published_iso": "2026-10-12T20:17:45Z",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png",
-      "excerpt": "For fifteen years the design process kept growing while the time left for making the product kept shrinking; the essay argues AI is now compressing the middle of that process into an hourglass shape.",
-      "rationale": "Swap-in replacement: a designer-facing argument about where AI compresses the design process (the middle) and where human work concentrates (the ends), useful for planning team process even though it is an essay, not a release."
+      "published_iso": "2026-10-15T12:45:00Z",
+      "og_image": "https://assets.lovable.dev/content/news/covers/default-cover-rebrand.png",
+      "excerpt": "Lovable adds GPT-Live, the latest Claude models, Gemini 4 Argon, Gemini Omni, Lyria and more, so prompt-built apps can include voice, reasoning, video, music and live web research.",
+      "rationale": "Shipping release: designers prototyping in Lovable can now put voice, video, music and live research into the apps they build, not just static UI."
+    },
+    {
+      "rank": 4,
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-10-15T00:00:00Z",
+      "og_image": "https://huggingface.co/blog/assets/flux3/thumbnail.png",
+      "excerpt": "Black Forest Labs' open FLUX.3 Image Klein runs in Diffusers from day one: one model for text-to-image, multi-reference image-to-image and bounding-box layout control, about 2s per 1024px image on an H100, with FP8/NVFP4 weights for smaller GPUs.",
+      "rationale": "New open-weights small model with bounding-box layout control and quantized weights for consumer GPUs, so designers can run layout-controlled image generation locally."
+    },
+    {
+      "rank": 5,
+      "title": "Hesai launches 3D data engine for physical AI",
+      "url": "https://www.engineering.com/hesai-launches-3d-data-engine-for-physical-ai/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-10-15T11:23:06Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/1-2.jpg",
+      "excerpt": "Hesai's Kosmo combines lidar scanning with cloud reconstruction to turn real spaces into robot-training 3D environments; a store deployment hit a 99% task success rate.",
+      "rationale": "New product launch: lidar-to-simulation 3D reconstruction pipeline, relevant to spatial and industrial designers building environments for physical AI."
     }
   ],
   "alternates": [
     {
-      "title": "Epic thinks you'll love its new vibe coded game launcher",
-      "url": "https://www.engadget.com/2286721/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/",
-      "source": "Engadget",
+      "title": "Design together with code layers on the canvas",
+      "url": "https://www.figma.com/blog/design-together-with-code-layers/",
+      "source": "Figma",
+      "category": "figma",
+      "published_iso": "2026-10-15T04:52:00Z",
+      "rationale": "Same Config India launch drop as Specs (same source, same event); held back under the content-hub rule. First swap-in if Specs is pulled."
+    },
+    {
+      "title": "Taste is not a design methodology",
+      "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148",
+      "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-10-14T16:46:59Z",
-      "rationale": "Games-adjacent commentary; already a games pick today (cross-section clash).",
-      "dedup": {"verdict": "new", "nearest": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/", "new_action": ""}
+      "published_iso": "2026-10-13T22:27:46Z",
+      "rationale": "Essay, no event; distinct argument from the 09-23 Fast Company taste piece but lower novelty."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.builder.io/blog/introducing-agent-native": {
+      "https://www.figma.com/blog/introducing-figma-specs/": {
         "verdict": "new",
-        "nearest": "https://www.builder.io/blog/stop-watching-your-agent-work",
+        "nearest": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
         "new_action": ""
       },
-      "https://develop3d.com/cad/spectral-labs-turing-test-ai-cad/": {
+      "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps": {
         "verdict": "new",
-        "nearest": "https://develop3d.com/ai/classcad-ai-cad-mcp/",
+        "nearest": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
         "new_action": ""
       },
-      "https://www.cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro/": {
+      "https://lovable.dev/blog/ai-models-and-tools-in-lovable": {
         "verdict": "new",
-        "nearest": "https://80.lv/articles/quad-remesher-for-hard-surface-organic-blender-models/",
+        "nearest": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
         "new_action": ""
       },
-      "https://www.cio.com/article/4234407/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai.html": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-        "new_action": ""
+      "https://huggingface.co/blog/flux-3": {
+        "verdict": "follow-up",
+        "nearest": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+        "new_action": "New model release: the open-weights FLUX.3 Image Klein small model (with FP8/NVFP4 weights and bounding-box layout control) shipped with day-one Diffusers support. The 10-03 card covered the FLUX.3 Image launch, not Klein."
       },
-      "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd": {
+      "https://www.engineering.com/hesai-launches-3d-data-engine-for-physical-ai/": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed",
+        "nearest": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
         "new_action": ""
       }
     },
-    "note": "Dropped as already-published: Creative Bloq 'I tried those free AI-coded Adobe Creative Cloud clones' (hands-on follow-up to the 2026-10-09 Creative Bloq ArtCraft story, no new release); 'New Claude Motion is Insane' (AI Advantage review of Claude Motion, adjacent to the 10-10 Runway/Claude Motion card, no new release). Within-pool: Vercel MAI-Image-2.6 and Muse Wonder share cluster c12 (thin gateway listings, both skipped). Skipped on scoring/scope: Dragon Quest 30-min AI game, Epic Disney AI game, Epic vibe-coded launcher (games territory, cross-section clash risk); UX Collective DX7 essay (opinion, no event); Eleken explainers (evergreen); dev.to tutorials; Adobe Stock AI Studio and ElevenCreative (sponsored) videos; Figma for Edu typography workshop (evergreen); Fast Company generative-art timeline (history piece). CozyBlanket Pro has no og_image (CG Channel) - ax-media must source an image.\nSWAP (post-enrichment): dropped Figma Config India keynote https://www.youtube.com/watch?v=CXAvPycESVY - the livestream had not aired, its description carries no AI content, and the card falsely said it 'streamed'. Replaced with UX Collective 'hourglass' essay. Dedup: checked against the 30-day history_digest; distinct argument from the 09-15 double-diamond card (that one says generation widened, this one says AI compresses the middle of the process into an hourglass), from 10-12 'AI-generated UI is fast design, not UX' (craft vs UX quality) and 10-13 Fast Company 'pixel pushers' (client pressure) - new story. AI-relevance: AI is the essay's subject. Diversity: 5 distinct outlets (Builder.io, DEVELOP3D, CG Channel, CIO, UX Collective); workflow now has 2 cards (cap OK), the second given palette accent #eb367f. Epic/Dragon Quest items excluded per orchestrator (games clash). Ranks of the 4 kept picks left unchanged (2-5) as instructed; replacement appended as rank 6."
+    "note": "Dropped as already-published or same story: Engadget 'Adobe rebuilt Photoshop and Premiere for RTX Spark' and Creative Bloq 'I ran Blender via RTX Spark AI agent' (cluster c6). Both cover the RTX Spark creative-app launch already published 10-14 (NVIDIA 'All Systems Go: Global PC App Ecosystem Ready for RTX Spark'). Adobe's re-architecture is part of that ecosystem launch and the Blender piece is a hands-on, so neither is a new release. Creative Boom 'AI cloned Adobe's apps... Napster moment' is commentary on the 10-09 Creative Bloq Adobe-clones story, so it is the same story. Within-pool: dev.to 'Spec-driven development: the rise of Markdown' shares cluster c2 with Figma Specs, so I kept Specs. Figma 'Build by Design' roundup, 'code layers' and the Config India keynote YouTube video are the same Config India launch hub as Specs, so I kept only Specs and listed code layers as an alternate. Skipped on scoring/scope: Vercel MAI-Image-2.6 gateway listing (thin changelog), Dragon Quest 30-min AI game and Epic Disney AI game (games territory, both commentary), dev.to tattoo/storefront build logs (low credibility and novelty), and three UX Collective essays (no event). Diversity: 5 distinct outlets (Figma, The Verge, Lovable, Hugging Face, Engineering.com). Categories: figma x2 (the second gets palette accent #3b6bff), workflow, tokens, cad. Cross-section: the Bluesky Attie story was assigned to design by the orchestrator. Lovable and FLUX.3 Klein should be checked against other sections' picks before roll. Hugging Face and lovable.dev are not on the allowed_domains lists, but both are primary-source release posts."
   }
 }

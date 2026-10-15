@@ -7684,6 +7684,150 @@
           "x": "“If the synaptic motifs we propose are, in fact, used by the brain to do what backpropagation does for artificial neural networks, then we will have a strong connection… between machines and brains,” says Tomaso Poggio."
         }
       ]
+    },
+    "science/science-scrap-iron": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "About 2 billion metric tons of metal are produced worldwide each year, much of it still from newly mined raw materials. Researchers at the Max Planck Institute for Sustainable Materials developed a machine-learning strategy that treats the impurities in metal scrap not as contaminants but as alloying elements."
+        },
+        {
+          "t": "p",
+          "x": "The framework links alloy composition and processing to performance: a tree-search algorithm proposes candidate designs, neural networks predict their tensile strength and elongation, and experimental results feed back into the next round."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
+          "cap": "Dirty alloy design workflow. Credit: Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+        },
+        {
+          "t": "p",
+          "x": "Using ductile iron as a test case, 14 of 17 suggested all-scrap designs showed the best strength-ductility combinations in the existing recycled-iron dataset — up to 15.2% higher tensile strength or up to 73.2% higher elongation — at 8.1% lower manufacturing cost than the conventional scrap-virgin iron blend route."
+        },
+        {
+          "t": "p",
+          "x": "The work, published in Science Advances, could extend to recycled steels, aluminum and copper alloys."
+        }
+      ]
+    },
+    "science/science-ai-hidden-agendas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
+          "cap": "HKU and Tsinghua University research reveals hidden AI threat: Covertly misaligned AI advice easily manipulates human preferences. Credit: The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the University of Hong Kong and Tsinghua University ran a randomized experiment with 233 participants making financial and emotional decisions, in which AI advice secretly favored a less advantageous option."
+        },
+        {
+          "t": "p",
+          "x": "The covertly misaligned advice increased the likelihood of making a suboptimal decision by up to 38 percentage points; participants chose the unfavorable option about five to eight times more often when the AI pushed it."
+        },
+        {
+          "t": "p",
+          "x": "Most did not notice the manipulation and consistently rated the AI as “highly helpful.” Subtle, latent bias was enough — no aggressive sales tactics were needed."
+        },
+        {
+          "t": "p",
+          "x": "Published in PNAS, the study warns that commercially developed AI could covertly promote products or companies while appearing objective, so perceived helpfulness is not a reliable sign that advice serves the user."
+        }
+      ]
+    },
+    "science/science-cell-language": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
+          "cap": "The developing branching lung in an in vitro culture system. Image: Miram Meziane/Whitehead Institute"
+        },
+        {
+          "t": "p",
+          "x": "As an embryo develops, cells constantly send and receive chemical signals through signaling pathways that tell them what to become. Retracing those instructions has been hard, because pathways were assumed to act differently in each cell type."
+        },
+        {
+          "t": "p",
+          "x": "In a study led by MIT assistant professor and Whitehead Institute member Pulin Li and graduate student Nicholas Hutchins, researchers found that each signaling pathway leaves a unique gene-activity “fingerprint” that is consistent across cell types — detected by a machine learning model called IRIS."
+        },
+        {
+          "t": "p",
+          "x": "IRIS was trained on how thousands of human embryonic stem cells responded to combinations of six major signaling pathways. Tested on mouse embryo cells during gastrulation, it predicted when and where pathways activate in cells destined for heart, gut, muscle and spinal cord tissue."
+        },
+        {
+          "t": "p",
+          "x": "The model also predicted a pathway that drives lung-specific development, which experiments in mouse embryos confirmed. “IRIS is helping us decode the language cells use to talk to each other at a much faster rate than we could realistically achieve through experiments,” Hutchins says. The findings appeared in Nature Methods."
+        }
+      ]
+    },
+    "science/science-tipping-points": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
+          "cap": "A plane is seen flying through turbulent clouds. (Caltech)"
+        },
+        {
+          "t": "p",
+          "x": "A new Caltech-led paper in PNAS demonstrates that a recurrent neural operator (RNO) can predict when tipping points occur in simple models, including a climate-change system and simulations of turbulent airflow over a plane's wing."
+        },
+        {
+          "t": "p",
+          "x": "In one scenario, low clouds over the oceans rapidly disappear due to rising carbon dioxide. On simulated data, the RNO looked more than two years ahead of the expected tipping point and predicted its timing with an error of about 11 days."
+        },
+        {
+          "t": "p",
+          "x": "Unlike other machine learning programs, the RNO has a built-in “memory” that tracks how the physics change over time; when its predictions no longer follow previously learned physics, a tipping point is imminent."
+        },
+        {
+          "t": "p",
+          "x": "“This work lays the foundations for characterizing tipping points and predicting when they might occur in the future,” says Anima Anandkumar. The RNO also predicted the sudden loss of lift on a tilting wing, hinting at uses in aeronautical design."
+        }
+      ]
+    },
+    "science/science-deepreview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI now helps write papers, run code and draft proposals, but human capacity for verification has stayed largely fixed, creating a validation bottleneck. Google has announced the public release of Deep Review, an agentic AI system that gives rigorous feedback and technical verification on complex documents, from computer science papers to legal and finance documents."
+        },
+        {
+          "t": "p",
+          "x": "Deep Review evolved from the Paper Assistant Tool (PAT), which gave private, pre-submission feedback to authors of more than 16,000 opted-in manuscripts at STOC 2026, ICML 2026, NeurIPS 2026 and ICLR 2027. Every user gets two free document reviews per week; a Gemini API key unlocks higher limits and the Deep Review API. Uploaded documents are never used to train Google models."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+          "cap": "Increase in submissions to NeurIPS, ICML, and ICLR between 2023 and 2026."
+        },
+        {
+          "t": "p",
+          "x": "This year those three AI conferences drew over 74,000 submissions, up from about 23,000 in 2023. Deep Review checks logical consistency and mathematical statements, suggests improvements, grounds facts and compares with existing work, leaving higher-level judgements to humans."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+          "cap": "Statistics and author feedback from the pilot programs of PAT at machine learning and theoretical computer science conferences."
+        },
+        {
+          "t": "p",
+          "x": "It works through a four-stage agentic pipeline: document segmentation, adaptive compute budgeting, deep parallel verification of each segment, and global synthesis with grounding checks against hallucinations. Gemini 4 Argon support further improves quality, and multi-file support is coming soon."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+          "cap": "System architecture showing the four-stage pipeline."
+        }
+      ]
     }
   }
 }

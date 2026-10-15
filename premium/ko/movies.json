@@ -12271,6 +12271,123 @@
           "x": "모델이 제로샷이고 언어에 구애받지 않아 배우나 언어마다 따로 학습시킬 필요가 없다. 설계 단계부터 바뀌는 앵글, 가림, 저조도, 빠른 움직임, 여러 얼굴 같은 실제 촬영 영상의 조건을 고려했다. Sync.Productions는 지금 이용할 수 있다."
         }
       ]
+    },
+    "movies/movies-astralabs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+        },
+        {
+          "t": "p",
+          "x": "Astra Studios와 VerSe Innovation이 MIPCOM에서 Astra-Spark Alliance를 결성했다고 발표했다. 두 회사는 영화, 시리즈, 애니메이션, 브랜드 콘텐츠용 AI-native 제작 파이프라인을 같이 만들어 시장에 낸다. 마침 Astra는 새 기술 IP 부문 AstraLabs를 출범했다."
+        },
+        {
+          "t": "p",
+          "x": "제휴는 VerSe의 AI 콘텐츠 운영체제 SparkStation 위에 선다. 기획·각본부터 스토리보드, 에셋 생성, 편집, 렌더링, 배급까지 제작 전 과정을 이 시스템이 돌린다. 연속성 엔진은 처음부터 끝까지 얼굴, 표정, 의상, 장소, 소품을 고정하고 60개가 넘는 언어로 작동한다."
+        },
+        {
+          "t": "p",
+          "x": "제작은 AstraLabs가 맡고 모든 단계의 연출은 아티스트가 쥔다. 두 회사는 이렇게 하면 제작비가 \"최대 75%\" 줄고 제작 기간도 몇 달에서 몇 주로 짧아진다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Astra Studios 창업자이자 CEO인 Biren Ghose는 \"Astra-Spark 제휴는 영화적 장인정신을 AI 제작의 구조 안에 들여놓는다\"고 말했다."
+        }
+      ]
+    },
+    "movies/movies-celebrity-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "유명인 AI 사진과 영상이 소셜 미디어에서 수백만 조회수를 올린다. 배우 Mia Goth의 AI-generated Instagram 이미지가 그랬다. 팔로워가 백만 명이 넘는 인증 팬 계정이 올린 이 이미지는 좋아요를 500,000개 가까이 받았고 Instagram이 계정을 지울 때까지 가십 사이트와 Google의 AI 개요를 타고 퍼졌다."
+        },
+        {
+          "t": "p",
+          "x": "Scarlett Johansson 같은 스타의 선정적인 AI 이미지를 올리는 계정도 있다. Taylor Swift의 AI 영상은 수백만 조회수를 찍는다. The Verge가 계정 여덟 곳을 묻자 Meta는 일부를 지웠다고 답했다."
+        },
+        {
+          "t": "p",
+          "x": "YouTube는 초상 감지 기능으로 삭제 요청을 받는다. 2026년 상반기 이 프로그램으로 신고된 영상은 95퍼센트 이상 내려갔다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 정지 이미지를 AI 표시 의무에서 빼 두었다. Meta 규정대로라면 가짜 Goth 이미지에는 고지가 필요 없었던 셈이다."
+        }
+      ]
+    },
+    "movies/movies-artificial-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Luca Guadagnino의 \"Artificial\"은 인공지능의 해악과 Sam Altman을 다룬다. New York Film Festival에서 처음 공개됐고 London Film Festival에선 우레 같은 박수가 쏟아졌다. Rotten Tomatoes 96% Fresh로 Guadagnino 경력 최고 점수다."
+        },
+        {
+          "t": "p",
+          "x": "Amazon MGM은 6월 이 영화를 여름 개봉 라인업에서 빼면서 \"다른 스튜디오가 개봉하는 편이 더 나을 것\"이라고 했다. 이후 작품을 건진 건 글로벌 판권 계약을 맺은 Neon이다. 언론은 Amazon이 OpenAI와 500억 달러($50 billion) 투자를 낀 파트너십을 맺고 3개월 만에 나온 결정이라고 짚었다. 한 경쟁 스튜디오 임원은 Variety에 이 영화를 개봉 불가로 본 스튜디오들이 \"AI에 대한 자체 투자 때문에 이해충돌에 걸렸다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Amazon과 인재들 사이의 AI 갈등은 이번만이 아니다. Nicolas Cage는 \"Spider-Noir\"에서 AI 초상 사용 동의서 서명을 거부했다고 밝혔다. 한 Amazon MGM 시리즈의 크리에이티브는 AI 교육이 의무였다고 전했지만 Amazon 절차를 직접 아는 한 소식통은 그런 회의가 의무는 아니라고 했다."
+        }
+      ]
+    },
+    "movies/movies-view-execs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+        },
+        {
+          "t": "p",
+          "x": "이탈리아 View Conference에 Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio, Cinesite 경영진이 모여 생성형 AI와 달라지는 파이프라인, 일자리를 논의했다. 대체로 AI가 기존 방식을 당장 갈아치운다기보다 더 넓은 변화의 한 부분이라는 시각이었다."
+        },
+        {
+          "t": "p",
+          "x": "The Yard의 Laurens Ehrmann은 \"AI가 실행 시간을 압축할 수 있다고들 하지만, 취향은 압축할 수 없다\"고 말했다. ILM의 Janet Lewin은 \"AI와 머신러닝이 만능 해법이라는 오류\"를 경계했다. Cinesite의 Shawn Walsh는 \"이 전환을 관리하기 위해 당분간\" VFX 아티스트가 필요하다고 봤다."
+        },
+        {
+          "t": "p",
+          "x": "아티스트의 생계를 어떻게 지키느냐는 질문에 Imageworks의 Michelle Grady는 \"아티스트 없이는 우리도 없다. 이상이다\"라고 답했다. Lewin은 스튜디오가 손쓸 수 없는 결정을 모회사가 내린다고 짚었다. 다만 일자리를 어떻게 지킬지 구체적인 방안은 패널에서 거의 나오지 않았다."
+        }
+      ]
+    },
+    "movies/movies-midjourney": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
+          "cap": "Midjourney가 생성한 약물 남용 장면 속 The Joker 이미지"
+        },
+        {
+          "t": "p",
+          "x": "Disney와 NBCUniversal(NBCU)은 지난해 소송에서 Midjourney를 “바닥 없는 표절의 구덩이”라고 비난했다. 그로부터 18개월이 넘게 지났는데도 행태는 그대로라는 지적이 나온다."
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI 도구의 저작권 침해 여부를 스트레스 테스트하는 스타트업 VN.ai가 인기 AI 모델 15개를 놓고 스튜디오 IP를 얼마나 침해하는지 살폈다. 저작권 캐릭터 재현에서 가장 심각한 모델은 Midjourney v8.1이었다. 폭력이나 약물 복용처럼 해로운 맥락에 캐릭터를 집어넣는 “브랜드 안전 위반”도 프롬프트 세 번 중 한 번꼴인 37%로 가장 높았다. Elsa-style 드레스를 입은 The Joker가 대마초를 피우는 이미지가 그런 예다."
+        },
+        {
+          "t": "p",
+          "x": "Midjourney는 논평 요청에 답하지 않았다. Disney/NBCUniversal 소송은 아직 진행 중이고 Warner Bros Discovery도 소송을 냈다. Midjourney는 저작권 이미지로 학습하는 게 공정 이용이라는 입장이다."
+        },
+        {
+          "t": "p",
+          "x": "프롬프트에 이름을 넣지 않아도 모든 모델이 보호 대상 캐릭터를 최소 하나는 만들어냈다. Google의 Nano Banana와 ByteDance의 Seedance 2.5도 마찬가지였는데, Seedance는 중지 요구서(cease-and-desist letters)를 받은 뒤 나아졌다. MiniMax H3는 프롬프트에 이미지를 넣으면 55% 비율로 브랜드 안전 기준을 어겼다."
+        },
+        {
+          "t": "p",
+          "x": "VN.ai 창업자 Nelson Chu는 저작권을 무시하는 편이 “사업에 좋다… 훌륭한 마케팅”이라고 하면서도, 착한 선례를 남기는 모델이 늘면 변화가 오리라 내다봤다."
+        }
+      ]
     }
   }
 }

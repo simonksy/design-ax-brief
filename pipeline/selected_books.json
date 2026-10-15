@@ -1,89 +1,89 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "books",
   "picks": [
     {
-      "url": "https://www.joongang.co.kr/article/25469854",
-      "title": "[단독] AI, 새책도 노리나…교보문고에 들어온 ‘10만권’ 주문",
-      "source": "중앙일보",
+      "url": "https://www.sedaily.com/article/20102152",
+      "title": "[단독] 앤트로픽, 한강 작가 책도 불법 다운받았다",
+      "source": "서울경제",
       "category": "books",
-      "published_iso": "2026-10-15T05:00:00+09:00",
-      "og_image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
-      "excerpt": "국내 최대 서점인 교보문고에 인공지능(AI) 학습용으로 의심되는 대량 도서 주문이 들어온 것으로 14일 확인됐다. 앞서 AI 기업이 배후에서 주도하는 것으로 의심되는 헌책 대량 매입 시도가 확인된 데 이어 새책 주문 사례도 발견된 것이다.",
+      "published_iso": "2026-10-15T17:45:38+09:00",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+      "excerpt": "앤트로픽이 2021~22년 불법 다운로드한 목록에 한강 '소년이 온다' 등 한국 작가 작품 최소 15건이 포함됐고, 미 법원 합의에 따라 한강 등 국내 작가들에게 보상을 제안한 것으로 확인됐다. 웅진북센과의 실물 도서 구매 계약도 확인.",
       "source_lang": "ko",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Exclusive: a 100,000-copy order for new books, suspected to be for AI training, has reached Kyobo, Korea's largest bookstore. The training-data hunt has moved from used books to new stock."
+      "rationale": "Exclusive: at least 15 Korean works, including Han Kang's, are on Anthropic's pirated-books list, and Korean authors are now being offered settlement compensation. This brings the US settlement home to Korean writers."
     },
     {
-      "url": "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy",
-      "title": "Global creative bodies launch ethical AI charter ‘in the vacuum of government policy’",
-      "source": "The Bookseller",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "title": "Why We're Banning AI",
+      "source": "Current Affairs",
       "category": "books",
-      "published_iso": "2026-10-13T15:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-      "excerpt": "The Society of Authors launched a global, ethical AI charter at the Creators Emergency Summit in London on 13th October, aimed at “defining how generative AI services should be deployed to help protect and support human creators”.",
+      "published_iso": "2026-10-15T15:33:13.000Z",
+      "og_image": "https://www.currentaffairs.org/hubfs/smash1.png",
+      "excerpt": "Under its new union contract, Current Affairs magazine adopted one of the strictest anti-AI policies in publishing, committing to remain 'handmade' and urging readers to demand the same of every publication they support.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "The Society of Authors and global partners have launched a concrete charter setting how generative AI services should treat creators. It is a new, named standard that publishers and AI vendors will be measured against."
+      "rationale": "A publisher has written a strict AI ban into a union contract. It is a concrete policy other editorial shops and staff unions can copy."
     },
     {
-      "url": "https://www.nippon.com/en/japan-data/h02913/",
-      "title": "AI’s Improved Accuracy Squeezes Translation Industry in Japan",
-      "source": "nippon.com",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/15/guest-post-the-evolution-of-eras-agentic-discovery-makes-way-for-agentic-consumption/",
+      "title": "Guest Post – The Evolution of Eras: Agentic Discovery Makes Way for Agentic Consumption",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-10-14T06:00:07+0900",
-      "og_image": "https://www.nippon.com/en/ncommon/contents/japan-data/3086267/3086267.jpg",
-      "excerpt": "The uptake of translation powered by generative AI has led to falling sales at translation companies in Japan.",
+      "published_iso": "2026-10-15T09:30:44+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+      "excerpt": "Researchers are moving from using AI agents to find papers to letting agents read and consume them on their behalf — a shift that changes how publishers must format, license and present scholarly content.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Sales data shows Japanese translation firms losing revenue as generative AI translation improves. It puts hard numbers on a displacement the translator debate had so far only argued about."
+      "rationale": "Shows the shift from AI agents finding papers to agents reading them for researchers, and what that means for how publishers format and license content. This is a practical design and licensing question, not a general hype piece."
     },
     {
-      "url": "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/",
-      "title": "Audiobooks with multiple voices for dialog, using human actors or cloned with ElevenLabs",
-      "source": "ProVideo Coalition",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2005012",
+      "title": "\"AI가 읽을 책, 토큰으로 검색\"…멘탯, 도서 데이터 거래 서비스 출시",
+      "source": "매일일보",
       "category": "books",
-      "published_iso": "2026-10-14T06:19:30-07:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato-hero.jpg",
-      "excerpt": "Allan Tépper walks through producing a multi-voice audiobook with distinct voices per character, comparing human voice actors with ElevenLabs voice clones for dialogue.",
-      "source_lang": "en",
+      "published_iso": "2026-10-13T08:17:33+09:00",
+      "og_image": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+      "excerpt": "도서 라이선싱 플랫폼 멘탯이 AI 기업이 출판사 도서를 권수가 아닌 '토큰' 단위·예상 비용으로 검색하고 계약까지 진행하는 '멘탯 디스커버리'를 출시. 국내 출판사 90여곳, 약 3만4000종 계약.",
+      "source_lang": "ko",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A hands-on production walkthrough for multi-voice audiobooks that compares human actors with ElevenLabs clones for dialogue. Unlike the narration op-eds, this is a workflow someone can try tomorrow."
+      "rationale": "Mentat Discovery is a new product: AI firms search and license Korean publishers' books priced by token rather than by title. About 34,000 titles from roughly 90 publishers are already signed up, which makes it a licensing alternative to the bulk book-buying stories."
     },
     {
-      "url": "https://www.hankyung.com/article/202610139344i",
-      "title": "\"웹툰 주인공과 대화한다\"… 레진, AI 캐릭터챗 '티즈' 19일 출시",
-      "source": "한국경제",
+      "url": "https://europeanwriterscouncil.eu/ewc_owninireport_draft_mindthegap/",
+      "title": "EWC calls for a more ambitious stance within the Draft Report 2025/2180(INI): AI is not a tool",
+      "source": "European Writers' Council",
       "category": "books",
-      "published_iso": "2026-10-13T18:41:41+09:00",
-      "og_image": "https://img.hankyung.com/photo/202610/01.46038379.1.png",
-      "excerpt": "레진엔터테인먼트가 공식 웹툰 IP 기반 AI 캐릭터챗 서비스 '티즈(Teaz)'를 19일 출시한다. 독자가 웹툰 주인공과 직접 대화할 수 있다.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-12T16:35:54+00:00",
+      "og_image": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg",
+      "excerpt": "The European Writers' Council formally objects to the European Parliament's own-initiative draft report on cultural sectors in the age of AI treating generative AI as an 'opportunity', calling it a threat to writers' livelihoods.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "Lezhin is launching Teaz on Oct 19, an AI character chat built on its official webtoon IP. It is a new product release, and with Naver already in this space it shows AI chat becoming a standard reader feature on webtoon platforms."
+      "rationale": "The European Writers' Council has formally answered the European Parliament's draft report on culture and AI. It is a primary position document on legislative text still being drafted, so it shapes where EU rules for authors go."
     }
   ],
   "alternates": [
     {
-      "url": "https://www.vtimes.kr/news/articleView.html?idxno=56168",
-      "title": "멘탯, AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리' 출시",
-      "source": "벤처타임즈",
+      "url": "https://lithub.com/why-are-publishers-suing-big-tech-with-one-hand-and-embracing-ai-with-the-other/",
+      "title": "Why Are Publishers Suing Big Tech With One Hand and Embracing AI With the Other?",
+      "source": "Literary Hub",
       "category": "books",
-      "published_iso": "2026-10-13T09:00:00+09:00",
-      "og_image": "http://www.vtimes.kr/news/thumbnail/202610/56168_32905_5726_v150.jpg",
-      "excerpt": "도서 라이선싱 플랫폼 멘탯이 AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리'를 출시했다.",
-      "source_lang": "ko",
-      "rationale": "A new product release, but it overlaps thematically with the Kyobo training-data pick and comes from a smaller trade outlet. Nearest published story is the kyosu.net interview with Mentat's CEO (09-30)."
+      "published_iso": "2026-10-15T09:10:37+00:00",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-hands-scaled.jpg",
+      "excerpt": "Lit Hub's columnist, fresh off an Authors Guild panel on authorship and AI, asks how Big Five houses can sue AI firms over training data while quietly rolling generative tools into editorial, cover and marketing workflows.",
+      "source_lang": "en",
+      "rationale": "Timely column, but commentary that overlaps Wired 10-10 'publishers quietly using more AI'."
     },
     {
       "url": "https://www.news1.kr/it-science/internet-platform/6320039",
@@ -92,39 +92,39 @@
       "category": "books",
       "published_iso": "2026-10-14T17:01:52+09:00",
       "og_image": "https://i3n.news1.kr/system/photos/2026/10/14/8158907/high.jpg",
-      "excerpt": "카카오픽코마가 AI로 제작한 애니메이션을 새로운 성장동력으로 육성한다.",
+      "excerpt": "카카오픽코마가 웹툰·웹소설 IP를 AI로 제작한 애니메이션으로 전환하는 사업을 새 성장동력으로 삼고, 올해 AI 애니메이션 80편 공급을 추진한다.",
       "source_lang": "ko",
-      "rationale": "Strategy feature (part 6 of a series) rather than a discrete release; kept as backup."
+      "rationale": "Strategy feature (series installment) rather than a discrete release; backup."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.joongang.co.kr/article/25469854": {
+      "https://www.sedaily.com/article/20102152": {
         "verdict": "follow-up",
-        "nearest": "https://www.joongang.co.kr/article/25468823",
-        "new_action": "New concrete event: a 100,000-copy order for NEW books, suspected to be for AI training, was confirmed at Kyobo Bookstore on 10-14. The 10-12 story was the publishers' association probing bulk buying of USED books."
+        "nearest": "https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/",
+        "new_action": "New exclusive finding: at least 15 Korean works, including Han Kang's 'Human Acts', are confirmed on Anthropic's 2021-22 pirated-books list, and Korean authors are being offered settlement compensation. It also reveals Anthropic's physical-book purchase contract with Woongjin Booxen. This is distinct from the Kyobo 100,000-copy order (joongang 25469854, 10-15) and the used-book buying probe (joongang 25468823, 10-12)."
       },
-      "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy": {
+      "https://www.currentaffairs.org/news/why-were-banning-ai": {
         "verdict": "new",
-        "nearest": "https://www.booksandpublishing.com.au/articles/2026/09/21/340859/industry-bodies-criticise-governments-opt-out-ai-proposals/",
+        "nearest": "https://janefriedman.com/scbwi-updates-its-ai-policy-to-prohibit-use-in-the-creative-process/",
         "new_action": ""
       },
-      "https://www.nippon.com/en/japan-data/h02913/": {
+      "https://scholarlykitchen.sspnet.org/2026/10/15/guest-post-the-evolution-of-eras-agentic-discovery-makes-way-for-agentic-consumption/": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101221-lost-in-translation.html",
+        "nearest": "https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/",
         "new_action": ""
       },
-      "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/": {
-        "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/101375-de-marque-to-offer-ai-audiobook-capabilities-via-elevenlabs.html",
-        "new_action": ""
+      "https://www.m-i.kr/news/articleView.html?idxno=2005012": {
+        "verdict": "follow-up",
+        "nearest": "https://www.kyosu.net/news/articleView.html?idxno=210681",
+        "new_action": "Product release: Mentat Discovery launched (token-priced book-data search and licensing for AI firms, about 34,000 titles from 90 publishers). The 09-30 story was only an interview with the CEO."
       },
-      "https://www.hankyung.com/article/202610139344i": {
-        "verdict": "new",
-        "nearest": "https://www.inews24.com/view/2008992",
-        "new_action": ""
+      "https://europeanwriterscouncil.eu/ewc_owninireport_draft_mindthegap/": {
+        "verdict": "follow-up",
+        "nearest": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
+        "new_action": "New official position paper responding to the European Parliament's own-initiative draft report 2025/2180(INI). The 10-05 statement was about book shredding, a different topic."
       }
     },
-    "note": "DROPPED as repeats. Voice Over Herald Spotify 180 markets: likely-repeat of PW 10-11 (same release). Good e-Reader Audible new features: same launch as TechCrunch 10-02. Lithub 'Is It or Isn't It': commentary on The Blue Fighter / Caine Prize AI allegations, already published as Bookseller 10-13 (story_dedup also removed the Brittle Paper statement). Daily Sabah human-authored stamp: same running story as Wired 'organic' 10-08, UK IPO certification mark 10-09 and Boersenblatt label 10-10. Vulture 'Publishers Hit the AI Jackpot': Anthropic settlement split, same as PW Authors Guild 10-01. DROPPED for low novelty or thin sourcing. Bookseller editor op-ed 10-08 (opinion). BBC 'human premium' (general-art commentary). Scholarly Kitchen guest post (evergreen evaluation commentary, not the same as the 09-25 peer-review post). Books+Publishing APA concerns (paywalled, headline only, no body to verify). ABC Cam Wilson AI book (close to the Futurism Roose-copycat story of 10-12). Kyunghyang AI-narration audiobooks feature (10-07, overlaps a heavily covered narration theme). Mentat Discovery and Kakao Piccoma are kept as alternates. CHECKS. The SoA charter is distinct from Chytomo's Frankfurt Appeal (10-14 pick, a Boersenverein disclosure petition): different body and different instrument. Lezhin Teaz is a different company and launch from Naver Webtoon's character chat (09-26). No cluster conflicts. Outlets: 5 distinct, one each."
+    "note": "DROPPED as repeats. Jane Friedman 'New human-certified label in UK': same running story as UK IPO human-authored mark (Bookseller 10-09), Wired 'organic' (10-08) and Boersenblatt label (10-10); paywalled note with no new event. ALLi 'OpenAI Moves to Strike AI Market Study': same filing as Jane Friedman 10-03. Lit Hub 'Is It or Isn't It' and Observer 'AI thinks Black writers aren't human': commentary and reactions on the Caine Prize / Blue Fighter accusation (Bookseller 10-13) and the AI-detector bias debate (Pangram 10-08), with no new event. Books+Publishing APA concerns: paywalled, headline only, and in the same running Australian AI policy story as 09-22. ABC Cam Wilson AI knockoff (10-09): same pattern as the Futurism Roose-copycat story (10-12), and stale. DROPPED for low novelty or weak fit. Scholarly Kitchen 'faster than the evidence' (evergreen commentary, and a second Scholarly Kitchen post). Seoul Economic Daily 'ttalkkak books' (analysis that overlaps the 09-24 ssalmeok web-novel story and the 09-30 labelling story; also a second Seoul Economic Daily card). Choi Hwi-young webtoon meeting and Yonhap culture-tech consortium (ministry remarks; Yonhap has no image). Donga translation and Hankyoreh op-ed (commentary). Good e-Reader YouTube audiobooks (AI is secondary; WSJ-sourced report of talks). Kakao Piccoma and the Lit Hub publishers column are kept as alternates. No cluster conflicts. Outlets: 5 distinct, one each."
   }
 }

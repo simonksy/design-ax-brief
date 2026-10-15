@@ -1116,6 +1116,117 @@
           "x": "El E-commerce se ha convertido en uno de los campos de batalla de la AI: Google y Amazon invierten en herramientas de compra con agentes, y Amazon se enfrenta a Perplexity y, más recientemente, a Muse, de Meta, sobre si los agentes deberían comprar en nombre de los clientes."
         }
       ]
+    },
+    "marketing/marketing-google-universal-cart": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xMDZus5hxYI"
+        },
+        {
+          "t": "p",
+          "x": "Google anunció que Universal Cart, una herramienta que permite reunir y seguir los productos encontrados en Search y en la app de Gemini, ya está disponible para usuarios de U.S. Se presentó por primera vez en Google I/O en mayo."
+        },
+        {
+          "t": "p",
+          "x": "El carrito puede reunir artículos de varios minoristas y envía notificaciones cuando baja el precio de un producto guardado o vuelve a estar disponible un artículo agotado. Según Google, también puede tener en cuenta las ventajas de las tarjetas de crédito y mostrar códigos promocionales relevantes."
+        },
+        {
+          "t": "p",
+          "x": "El pago está vinculado al Universal Commerce Protocol (UCP) de Google, un estándar abierto diseñado para que los agentes de AI y los minoristas colaboren a lo largo de todo el proceso de compra. Amazon, OpenAI y otros rivales también han añadido funciones de comercio agéntico."
+        }
+      ]
+    },
+    "marketing/marketing-fox-agentic-linear": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+          "cap": "Jeff Collins, responsable de ventas publicitarias de Fox, durante la presentación upfront de Fox en 2025. Frank Micelotta/Fox"
+        },
+        {
+          "t": "p",
+          "x": "Fox amplía lo que denomina la “primera plataforma agéntica integral” del sector publicitario de TV, mientras continúa su apuesta por la tecnología AI-powered."
+        },
+        {
+          "t": "p",
+          "x": "La compañía explicó a ADWEEK que entra en la siguiente fase de su despliegue agéntico: sumar más agencias socias, ampliar las capacidades agénticas a las transacciones lineales de principio a fin y, más adelante, a las digitales, y dar a lo agéntico un papel mayor en las futuras negociaciones upfront."
+        },
+        {
+          "t": "p",
+          "x": "Según Jeff Collins, responsable de publicidad de Fox, los avances tecnológicos están creando relaciones de mayor impacto con clientes y socios."
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-report": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads parece estar probando un nuevo informe llamado Search terms and ad combinations report (informe de términos de búsqueda y combinaciones de anuncios). Muestra cómo funcionan en conjunto las consultas de búsqueda, las creatividades y las páginas de destino."
+        },
+        {
+          "t": "p",
+          "x": "Lo detectó Natasha Kaurra, quien dijo en LinkedIn que “parece una incorporación útil para los anunciantes que usan campañas de AI Max for Search”."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+          "cap": "Google Ads Search Terms And Ad Combinations Report (informe de términos de búsqueda y combinaciones de anuncios)"
+        },
+        {
+          "t": "p",
+          "x": "Además de los términos de búsqueda que activaron los anuncios, muestra los títulos y descripciones servidos, las páginas de destino a las que se envió a los usuarios, las fuentes de coincidencia (coincidencias ampliadas de AI Max o inclusiones de página de destino y URL) y las fuentes de recursos (si los recursos los proporcionó el anunciante)."
+        },
+        {
+          "t": "p",
+          "x": "“Este informe nos da otra forma de detectar desajustes entre la intención de búsqueda, el mensaje del anuncio y las páginas de destino”, añadió Kaurra."
+        }
+      ]
+    },
+    "marketing/marketing-stripe-agentic-commerce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+          "cap": "John Collison, presidente de Stripe. Getty Images Entertainment via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El presidente de Stripe, John Collison, afirmó en su pódcast Cheeky Pint, en una conversación con el CEO de Meta Platforms, Mark Zuckerberg, y el director de AI, Alexandr Wang, que el comercio agéntico en Stripe aumentó con fuerza a partir de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "“…hicimos un montón de anuncios en Sessions en mayo, y luego solo a partir de septiembre empezó básicamente a crecer en vertical”, dijo Collison. No dio cifras concretas."
+        },
+        {
+          "t": "p",
+          "x": "El comentario surgió mientras los tres hablaban de Muse, el asistente de AI de Meta, y de su capacidad para comprar productos cuando se le ordena. Amazon prohibió hace poco que Muse compre en su sitio; Zuckerberg dijo que las empresas que lo bloqueen probablemente se arrepentirán."
+        }
+      ]
+    },
+    "marketing/marketing-meta-gem": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta publicó una explicación técnica de la generación 2026 de su Generative Ads Model, GEM, en la que afirma una mejora del 18.9% en conversiones y del 12% en la tasa de clics en sus superficies y objetivos publicitarios. La empresa sustituyó los sistemas de predicción separados de Facebook, Instagram y Reels por un único modelo fundacional central, cuya salida se traslada a los cientos de modelos más pequeños que sirven anuncios en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "La publicación no indica frente a qué se miden las cifras, en qué periodo, ni si proceden de pruebas A/B o de una evaluación offline. Son datos aportados por el propio proveedor y no han sido auditados de forma independiente."
+        },
+        {
+          "t": "p",
+          "x": "Una nueva arquitectura, Kunlun, sustituye a Interformer y \"ofrece 2x de rendimiento con el mismo escalado de cómputo\", según Meta. LoopFM y Solaris trasladan el conocimiento de GEM a modelos posteriores, y GEM se entrena \"en varios miles de GPUs de última generación\" con un 20-25% de MFU."
+        },
+        {
+          "t": "p",
+          "x": "Para los anunciantes, ninguno de estos mecanismos tiene un ajuste en Ads Manager; sus efectos llegan a través de Advantage+ y la entrega automatizada."
+        }
+      ]
     }
   }
 }

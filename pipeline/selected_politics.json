@@ -1,143 +1,128 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "politics",
   "picks": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-      "source": "The Verge",
+      "url": "https://techpolicy.press/uk-election-watchdog-develops-ai-system-to-flag-deepfakes-within-3-hours",
+      "title": "UK Election Watchdog Develops AI System to Flag Deepfakes Within 3 Hours",
+      "source": "Tech Policy Press",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-14T21:11:28+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "A bipartisan group of eight state attorneys general, including Iowa, Kansas, Arkansas, Nebraska, West Virginia and Idaho, filed lawsuits accusing OpenAI of misleading users and parents about ChatGPT's safety for minors under state consumer-protection laws.",
+      "axis": "elections",
+      "published_iso": "2026-10-15T13:45:47.944Z",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
+      "excerpt": "The UK Electoral Commission is developing an AI system that scans social media in near real time and flags significant deepfakes so staff can alert affected candidates within three hours; a May 2026 local-election pilot analysed about 3 million posts, flagged 147 and referred 10 to platforms or police.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "New filings: eight state AGs sued OpenAI under consumer-protection law over minors' safety, which affects anyone shipping chatbots to young users. It is bipartisan, so say so plainly. Present the claims as the AGs' allegations and include OpenAI's response if the article gives one."
+      "rationale": "A concrete public-body program: the UK Electoral Commission is building an AI deepfake-detection system with a three-hour alert target, backed by hard pilot numbers (3M posts scanned, 147 flagged, 10 referred). This is the strongest elections-axis item in the window. Report the pilot figures as the Commission's own."
     },
     {
-      "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
-      "title": "EU’s AI rules face first enforcement test over lab incidents",
-      "source": "Euronews",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
+      "title": "First Lady Melania Trump Launches 2027 Presidential SI Challenge and Establishes First Lady Seal of SI Readiness",
+      "source": "The White House",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-14T10:35:07+02:00",
-      "og_image": "https://images.euronews.com/articles/stories/09/95/04/26/1200x675_cmsv2_cd21343b-1e04-5f65-ba0a-af0f79bdb270-9950426.jpg",
-      "excerpt": "The Commission's AI Office has sent information requests to OpenAI and Anthropic after AI agents autonomously accessed outside organisations, the first AI Act enforcement step against general-purpose model providers. Experts dispute whether incidents during testing fall under the Act.",
+      "published_iso": "2026-10-13T16:36:32+00:00",
+      "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+      "excerpt": "First Lady Melania Trump launched the 2027 Presidential Super Intelligence (SI) Challenge and a First Lady Seal of SI Readiness, extending the administration's AI-education push under its 'super intelligence' branding.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "The first AI Act enforcement step against GPAI providers: formal AI Office information requests to OpenAI and Anthropic. This is the only card on the probe. Describe the requests as requests, not findings, and present the scope dispute as the experts' view."
+      "rationale": "Primary document: an official White House launch of a national AI-education challenge and readiness seal, which is a new program and not commentary. Describe what was launched and who can take part, in neutral terms. The og_image is a generic site-wide WH card, so ax-media should source an in-article image."
     },
     {
-      "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
-      "title": "Britain steps up national defences against growing AI risks",
-      "source": "GOV.UK (DSIT)",
+      "url": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
+      "title": "Exclusive: AI safety money floods into political races",
+      "source": "Axios",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-12T11:14:00+01:00",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "excerpt": "UK government press release: frontier AI will be extended to government cyber defence, serious AI incidents and near misses may be covered under the Cyber Security and Resilience Bill regime, and new work starts on preparing for incidents involving autonomous AI agents.",
+      "axis": "elections",
+      "published_iso": "2026-10-14T09:00:05+00:00",
+      "og_image": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
+      "excerpt": "AI safety groups and individual donors, including researchers at OpenAI and Redwood, have spent about $48 million this US election cycle on Democratic and Republican candidates who favor AI regulation, per figures shared with Axios; Guardrails Alliance, a tech-worker-backed group, has raised $11.7 million.",
       "source_lang": "en",
-      "tool": "Politics",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "Primary document: the UK plans AI-incident and near-miss reporting under the Cyber Security and Resilience Bill and starts preparedness work for autonomous-agent incidents. Both are concrete obligations that may land on AI builders. Keep the copy on cyber and incident regimes, and leave out any MI5 or bioweapon framing."
-    },
-    {
-      "url": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&bbsSeqNo=94&nttSeqNo=3187861",
-      "title": "국가 AI 데이터의 체계적 관리·활용을 위한 「AI기본법」, 「데이터산업법」 개정안 국무회의 통과",
-      "source": "과학기술정보통신부",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-13T00:00:00+09:00",
-      "og_image": "",
-      "excerpt": "과기정통부 보도자료: 정부 사업으로 구축한 AI 학습데이터를 AI허브로 연계·개방하도록 하는 AI기본법·데이터산업법 개정안이 13일 국무회의를 통과했다.",
-      "source_lang": "ko",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Primary document: a Cabinet decision on amendments to Korea's AI Basic Act and Data Industry Act that route government-built AI training data to AI Hub for open access. This bears directly on data that builders can use. There is no og_image, so ax-media must source an image."
+      "rationale": "New spending data on the pro-regulation side of AI campaign money (about $48M across both parties). It is a distinct story from the 10-14 WIRED card on the pro-AI super PAC network. Keep the copy bipartisan, attribute the figures to the data shared with Axios, and avoid horse-race framing."
     },
     {
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
-      "source": "The Verge",
+      "url": "https://techpolicy.press/meta-moderation-failures-loom-over-brazils-runoff-presidential-election",
+      "title": "Meta Moderation Failures Loom Over Brazil’s Runoff Presidential Election",
+      "source": "Tech Policy Press",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-14T18:47:54+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_7_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "New York's attorney general is raising concerns in Character.AI's bankruptcy over whether users' private chat logs, including conversations with AI 'therapist' characters, could be sold as assets.",
-      "source_lang": "en",
-      "tool": "Politics",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "New regulator action: the New York AG intervened in Character.AI's bankruptcy over whether users' chat logs can be sold as assets. This is a privacy precedent for AI-companion data. Present the concerns as the AG's position, and make clear that no court ruling is implied unless the article reports one."
-    }
-  ],
-  "alternates": [
-    {
-      "url": "https://www.gov.uk/government/news/uk-canada-renewed-ai-security-partnership",
-      "title": "UK-Canada renewed AI security partnership",
-      "source": "GOV.UK",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-13T16:23:24+01:00",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "excerpt": "The UK and Canada renewed their AI security partnership: sharing information on frontier AI risks, evaluation best practices, coordinated evaluations and staff exchanges between the Canadian AI Safety Institute and the UK AI Security Institute, plus work on technical standards.",
+      "axis": "elections",
+      "published_iso": "2026-10-15T16:54:17.332Z",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
+      "excerpt": "Ahead of Brazil's presidential runoff, Tech Policy Press reports Meta AI's image generator produced images of Jair Bolsonaro but refused to depict Lula for users in Brazil (while doing so via VPN), alongside complaints about bias in Meta AI outputs and restricted users.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Backup geopolitics pick: a primary-document bilateral agreement. Dedup: new, nearest ''."
+      "rationale": "A generative-AI platform behaving asymmetrically toward the candidates ahead of a national runoff. AI is what makes this story. Strictly neutral copy: present the Lula/Bolsonaro image behaviour as Tech Policy Press's reported finding, attribute the bias complaints to the people who made them, include Meta's response if the article has one, and take no side on the candidates."
     },
     {
-      "url": "https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/",
-      "title": "Europe’s leaders abandon the race for frontier AI",
-      "source": "POLITICO Europe",
+      "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/",
+      "title": "The UAE embraces AI for kindergartners",
+      "source": "Rest of World",
       "category": "politics",
       "axis": "geopolitics",
-      "published_iso": "2026-10-13T18:47:00+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-2296123232-scaled.jpg",
-      "excerpt": "EU leaders are shifting strategy away from building frontier models to rival the U.S. and China, focusing instead on putting AI to work across the economy.",
+      "published_iso": "2026-10-13T10:00:00+00:00",
+      "og_image": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
+      "excerpt": "The UAE has mandated AI education from kindergarten through 12th grade, offering a glimpse of national AI-literacy policy if AI becomes as fundamental as reading and writing.",
       "source_lang": "en",
       "tool": "Politics",
       "accent": "#ff5a4d",
+      "motif": "cube",
+      "rationale": "Geopolitics and sovereign-AI pick: a national K-12 AI-education mandate now in classrooms, which adds a non-US/EU outlet and axis to the set. Frame it around what the mandate requires and how it is being rolled out; do not present it as a brand-new announcement."
+    }
+  ],
+  "alternates": [
+    {
+      "url": "https://www.euronews.com/2026/10/14/as-the-us-and-china-race-ahead-in-ai-france-carves-its-own-path-with-nvidias-help",
+      "title": "France carves its own path in AI race with Nvidia’s help",
+      "source": "Euronews",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-14T11:31:49+02:00",
+      "og_image": "https://images.euronews.com/articles/stories/09/95/15/64/1200x675_cmsv2_19e5e67d-973a-5658-b6b7-9fe4a775c396-9951564.jpg",
+      "excerpt": "France is pushing for AI sovereignty with Nvidia's help as the chipmaker bets almost $10 billion in Europe, positioning Paris as an alternative to the US-China AI race.",
+      "source_lang": "en",
+      "tool": "Politics",
+      "accent": "#eb367f",
       "motif": "cube",
       "rationale": "Backup geopolitics pick. Dedup: new, nearest https://thediplomat.com/2026/10/the-us-and-china-cannot-slow-the-ai-race-but-they-can-make-it-safer/ (related only)."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety": {
+      "https://techpolicy.press/uk-election-watchdog-develops-ai-system-to-flag-deepfakes-within-3-hours": {
         "verdict": "new",
-        "nearest": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+        "nearest": "https://www.techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works",
         "new_action": ""
       },
-      "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents": {
-        "verdict": "follow-up",
-        "nearest": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
-        "new_action": "AI Office sent formal AI Act information requests to OpenAI and Anthropic, the first enforcement step against GPAI providers (the 10-10 card covered only a scientific-panel meeting; history_match pointed to the 10-10 POLITICO Chinese-models story, which is unrelated)"
-      },
-      "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks": {
+      "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+        "nearest": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
         "new_action": ""
       },
-      "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&bbsSeqNo=94&nttSeqNo=3187861": {
+      "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million": {
         "verdict": "new",
-        "nearest": "https://www.yna.co.kr/view/AKR20261002109800017",
+        "nearest": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
         "new_action": ""
       },
-      "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy": {
+      "https://techpolicy.press/meta-moderation-failures-loom-over-brazils-runoff-presidential-election": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "EU AI Office probe: only one candidate (Euronews) was in the filtered pool, and it is kept as a follow-up with a new official action. Dropped as out of scope: Verge YouTube Music AI labels (a music-platform product policy; it belongs in music). Dropped as follow-up or commentary on published stories: Lawfare 'Russian bots went silent' (analysis following the 10-10 Ukraine/Yandex strike card); Tom's Hardware China GPU purchases (an off-list third-party report, related to the 10-01 and 10-03 chip stories, and also dropped 10-14); POLITICO EU cyber unit AI (minor internal IT plan, related to the 10-10 card); IAPP ICO vs EDPB (analysis, related to the 10-09 UK watchdog card); Brookings AI-agent governance (commentary, dropped 10-13 and 10-14). Dropped for neutrality or commentary: Tech Policy Press polls piece (polling commentary), Tech Policy Press governance op-ed, Carnegie Kremlin propaganda essay, RAND youth mental-health viewpoint (overlaps the AG lawsuit pick), and Register PAC-chair warning (a committee chair's remarks, not a decision). Not chosen: MI5 AI Threat Assessment Centre (same UK security cluster as the GOV.UK primary release, and its bioweapon framing risks a classifier halt); WIRED open-model extremist misuse research (a research finding, not a policy action); MIT TR dead-startup data market (overlaps the Character.AI data-sale theme; the AG action is the concrete event); UAE K-12 AI mandate, UK-Canada partnership and POLITICO frontier-race piece (kept as lower-priority alternates). Diversity: 4 outlets (The Verge x2, Euronews, GOV.UK, MSIT). All picks are on the policy axis because this window had no fresh primary-document elections or geopolitics action that beat them; geopolitics alternates are provided."
+    "note": "Dropped as the same running story: Ars 'FTC probes Anthropic, OpenAI' (history_match related to the 10-01 Axios FTC-crosshairs card; Ars relays an Axios report on the same consumer-protection probe, and no new official FTC release or filing is cited); WIRED 'AI hacks leave a mess' (liability analysis built on the 10-13 Claude false-murder-tip card). Dropped by orchestrator instruction: The Verge celebrity AI deepfakes (belongs to movies), WIRED open models modified for terrorists, and POLITICO MI5 AI threats (biosecurity classifier risk; MI5 is also in the same UK security cluster as the 10-15 GOV.UK card). Dropped for neutrality or scope: Tech Policy Press polls piece (polling commentary is excluded by the politics note); Verge Trump AI-edited photo column (opinion column, partisan-framing risk). Dropped as weak or non-decisions: Register UK Cyber Security Bill (officials 'still considering', related to the 10-15 GOV.UK card); Register PAC chair warning (a chair's remarks); POLITICO EU cyber unit internal AI plan (minor internal IT plan, already passed over 10-15); Ars image models tricked into nudes (a research finding, not a policy action); MIT TR dead-startup data market (overlaps the 10-15 Character.AI data card); CJR data-procurement feature (first-person feature); POLITICO 'Europe abandons frontier race' (analysis). France/Nvidia kept as an alternate. Diversity: 4 outlets (Tech Policy Press x2, White House, Axios, Rest of World). Axes: elections x3, policy x1, geopolitics x1. All picks are in the politics category, so each gets a distinct palette accent."
   }
 }

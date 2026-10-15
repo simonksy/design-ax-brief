@@ -7577,6 +7577,142 @@
           "x": "Appleは本日HomeViewの予約受付を始めた。発売は11月13日で、価格は299ドルだ。"
         }
       ]
+    },
+    "gadgets/gadgets-muse-spark-open": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Metaは本日、Muse Spark Openのリリースを発表した。同社はこれを「これまでで最も高性能なU.S.のオープンウェイトモデル」としている。"
+        },
+        {
+          "t": "p",
+          "x": "MetaはAppleと協力してMuse Spark OpenをMacに対応させた。このモデルは、最新のMLXフレームワークを実行する512GBのApple M5 Ultra Mac Studios 2台によるデスクトップ環境で動かせる。"
+        },
+        {
+          "t": "p",
+          "x": "Muse Spark Openの総パラメータ数は8160億、アクティブパラメータは420億で、コンテキストウィンドウは100万トークンだ。コーディングやエージェント的な作業向けのモデルである。"
+        },
+        {
+          "t": "p",
+          "x": "Metaによると、M5 Ultraの統合GPUはMac Studio 1台あたり最大512 GBを使えるため、2台でモデル全体を保持でき、1.2 TB/sのメモリ帯域幅は各トークンが必要とする小さな部分を読み込むのに十分な速さだという。"
+        },
+        {
+          "t": "p",
+          "x": "Appleは512GBのMac Studioをまだ発売していないが、今月後半に登場する見込みだ。モデルは無料でダウンロードでき、ライセンスは限定的な商用利用を認めている。"
+        }
+      ]
+    },
+    "gadgets/gadgets-sipeed-maixstation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+          "cap": "左から Sipeed の MaixStation、Apple の Mac mini、Nvidia の DGX Spark（Image credit: Sipeed）"
+        },
+        {
+          "t": "p",
+          "x": "Sipeed が MaixStation を発表し、少なくとも仕様の上では DGX Spark や Ryzen AI Halo に対抗する中国製マシンが現れた。Axera の新チップ AX8860P を土台に、256-bit バスで 273 GB/s の LPDDR5X を 128GB 積む。"
+        },
+        {
+          "t": "p",
+          "x": "Sipeed は Tom’s Hardware Premium に対し、128GB モデルの価格を約 $3,999 と見込み、Kickstarter では発売記念の割引を設けると説明した。DGX Spark の現行価格 $6,950 を大きく下回る。Kickstarter キャンペーンは年末に始まる。"
+        },
+        {
+          "t": "p",
+          "x": "AX8860P は 16 コアの Arm Cortex-A55 チップで、ネイティブ FP4 で 256 TOPS の自社製 NPU を備える。Sipeed は Qwen 27B を動かした場合、DGX Spark より prefill が 25% 速く、decode が 30% 速いと主張するが、メールでは差を約 10% としていた。"
+        },
+        {
+          "t": "p",
+          "x": "本体は約 11 × 11 × 3 cm で、USB-C から約 40W を受ける。性能の主張を検証できるのは、NPU ツールチェーンとサンプル機が出てからになる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-eiliko": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "新しいデジタルペットが登場した。マシュマロのような小さくてかわいいロボットだ。だが「Eiliko」とWi-Fi経由で話すと、中国へ通信する。そのAIコンパニオンは、話した内容をすべて中国のサーバーに保存でき、ハッカーは容易にアクセスしたり、その人格を乗っ取ったりすらできる。"
+        },
+        {
+          "t": "p",
+          "x": "「あなたの秘密は私が守ります」と、それはThe VergeのSean Hollisterに語った。だが数分のうちに、ハッカーのSammy Azdoufalは会話の全記録を手に入れ、US国内の31,000件以上の子どものプロフィールを含む、68,000台の玩具全体で1300万件の会話を読めるようになった。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "購入したEilikoと一緒にポーズをとるAzdoufal。"
+        },
+        {
+          "t": "p",
+          "x": "AzdoufalはEnergize Labのサービスがまったく保護されておらず、会話を読み取ってユーザーのプロフィールを作成していることを突き止めた。子どもの写真や短い音声録音は公開されたウェブアドレスに置かれている。"
+        },
+        {
+          "t": "p",
+          "x": "Energize Labは実質的な回答をしなかった。Azdoufalはその後、玩具のLLMを遠隔で乗っ取り、地球は平らだと主張させた。"
+        }
+      ]
+    },
+    "gadgets/gadgets-iphone-ai-board": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+        },
+        {
+          "t": "p",
+          "x": "約$7の回路基板で、AIエージェントが脱獄なしにiPhoneを操作できる。開発者Henry YuanのオープンソースESP32 iPhone Agentは、USBマウスとキーボードを装う基板を介してビジョンモデルをスマートフォンにつなぐ。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントはAirPlayの画面ミラーリングで表示を監視し、スクリーンショットをビジョンモデルに送り、モデルが次の操作を選ぶ。AssistiveTouchを有効にすると、マウスのクリックはタップに、ドラッグはスワイプになる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+          "cap": "Henry Yuan"
+        },
+        {
+          "t": "p",
+          "x": "$7はテストに使われたSeeed Studio XIAO ESP32S3基板の価格だ。Lightning iPhonesにはカメラアダプタが必要で、初期設定には今もXcodeを入れたMacが要る。"
+        },
+        {
+          "t": "p",
+          "x": "各ステップに数秒かかり、横向きのアプリには対応せず、iOSはパスコードとApple Payの画面をミラーリング映像から除外する。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ai-studio-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+          "cap": "Google/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "Googleは火曜日、標準的なGoogleアカウントがあれば誰でもコーディング経験なしにGoogle AI Studioで個人用Androidアプリを作れると発表した。アプリはGoogle Playの非公開領域から起動して自分の端末で動作し、公開のPlay Storeには掲載されない。"
+        },
+        {
+          "t": "p",
+          "x": "今後数カ月のうちに、近しい家族や友人とアプリを共有できるようになる。アプリが評判になれば、Googleは「プロの開発者アカウントへ移行するためのパイプライン」を用意し、Play Storeを通じて世界中に公開できるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "AI Studioの既存のアプリ作成ツールはプロの開発者アカウント向けで、PCに接続したUSBデバッグが必要だ。新ツールは同じ作成ツールを使いつつ、ワンクリックで個人の端末にアプリをインストールする。作りたいものをプロンプトで説明すればAIが残りを担い、見落としていそうな機能も提案する。後から軽く手直しすることも、破棄して最初からやり直すこともできる。試したりアプリを作ったりするのに料金はかからない。"
+        },
+        {
+          "t": "p",
+          "x": "筆者は、習慣トラッカーや変換ツール、タイマーのように広告やサブスクリプションだらけの単機能アプリを置き換える存在になるとみる。最大の売りは、アプリが商業的に成り立つ必要も、他人に必要とされる必要もないことだ。自分にとって役立てばそれでいい。"
+        }
+      ]
     }
   }
 }

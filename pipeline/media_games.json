@@ -1,7 +1,30 @@
-{"date":"2026-10-15","section":"games","media":[
-{"id":"games-epic-launcher","type":"image","src":"pipeline/media/games-epic-launcher.jpg"},
-{"id":"games-shogun2-upscale","type":"image","src":"pipeline/media/games-shogun2-upscale.jpg"},
-{"id":"games-playgama-agents","type":"image","src":"pipeline/media/games-playgama-agents.jpg"},
-{"id":"games-links-awakening-port","type":"image","src":"pipeline/media/games-links-awakening-port.jpg"},
-{"id":"games-dawnwalker-actor","type":"video","src":"pipeline/media/games-dawnwalker-actor.mp4","poster":"pipeline/media/games-dawnwalker-actor.jpg"}
-]}
+{
+  "date": "2026-10-16",
+  "media": [
+    {
+      "id": "games-decompdev-shutdown",
+      "type": "image",
+      "src": "pipeline/media/games-decompdev-shutdown.jpg"
+    },
+    {
+      "id": "games-shogun2-pulled",
+      "type": "image",
+      "src": "pipeline/media/games-shogun2-pulled.jpg"
+    },
+    {
+      "id": "games-nemotron-bolt-skyrimnet",
+      "type": "image",
+      "src": "pipeline/media/games-nemotron-bolt-skyrimnet.jpg"
+    },
+    {
+      "id": "games-bf6-paid-ai-cosmetics",
+      "type": "image",
+      "src": "pipeline/media/games-bf6-paid-ai-cosmetics.jpg"
+    },
+    {
+      "id": "games-shroud-zero-bugs",
+      "type": "image",
+      "src": "pipeline/media/games-shroud-zero-bugs.jpg"
+    }
+  ]
+}

@@ -1,150 +1,150 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
-      "title": "Google lets you make personal Android apps for free now – with just prompts",
-      "source": "ZDNET",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "source": "TechCrunch",
       "category": "gadgets",
-      "published_iso": "2026-10-13T13:00:07-04:00",
-      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-      "excerpt": "It just got a whole lot easier to vibe code the exact Android app you need - no developer experience required.",
+      "published_iso": "2026-10-15T12:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+      "excerpt": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting a",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Google AI Studio now builds and installs personal Android apps from prompts for free. A designer could prototype a working phone app tomorrow with no developer."
+      "rationale": "Bee ships its first post-acquisition hardware (an updated wearable and a card-sized phone-mounted recorder from $75), tied to Alexa, shopping and a new Bee Pro subscription. It is a new product launch."
     },
     {
-      "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
-      "title": "Android will use Gemini to warn you about scammy messages",
-      "source": "Engadget",
+      "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
+      "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
+      "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-10-14T16:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/l-intro-1791980014.jpg",
-      "excerpt": "Google will tell if you a scammer is trying to message you and will protect your banking details from prying eyes while sharing your screen.",
+      "published_iso": "2026-10-15T17:47:29+00:00",
+      "og_image": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg",
+      "excerpt": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date\". Meta worked with Apple to bring Muse Spark Open to the Mac, and the model can run on a desktop setup with two 512GB Apple M5 Ultra Mac Studios running the latest MLX framework. Me",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New Android security features: on-device Gemini flags scam messages and hides banking details during screen sharing. This is a newly announced feature, not a rehash."
+      "rationale": "Meta releases an open-weight Muse Spark model and, with Apple, makes it run locally on two M5 Ultra Mac Studios via MLX. This is a new model release with a concrete desk-side hardware recipe."
     },
     {
-      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
-      "title": "Apple Intelligence Coming to China in December With iOS 27.3",
-      "source": "MacRumors",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims",
+      "title": "Sipeed reveals Chinese-made DGX Spark and Ryzen AI Halo rival, expected to cost $3,999",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-10-14T20:24:43+00:00",
-      "og_image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
-      "excerpt": "Apple plans to bring Apple Intelligence to China in iOS 27.3 after two years of regulatory delays, reports Bloomberg. The launch will include basic Apple Intelligence features for things like photo editing, but Siri AI won't be available. Image Playground and the newer version of Genmoji will be mis",
+      "published_iso": "2026-10-15T14:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/o3rsSibjsvWXVWeL6LWF6G-1920-80.jpg",
+      "excerpt": "Sipeed’s MaixStation pairs Axera’s AX8860P with 128GB of LPDDR5X at 273 GB/s to take on Nvidia’s DGX Spark and AMD’s Ryzen AI Halo.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "After two years of regulatory delay, Apple Intelligence gets a China launch date (iOS 27.3, December). Siri AI, Image Playground and the new Genmoji are left out."
+      "rationale": "Sipeed unveils MaixStation, a $3,999 local-AI box built on a Chinese Axera chip with 128GB of memory. It is a new non-Nvidia, non-AMD option for desk-side AI."
     },
     {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training",
-      "title": "Apple researchers turn idle Macs into a virtual GPU cloud with ‘Minions’",
-      "source": "Tom's Hardware",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-10-14T11:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-      "excerpt": "Can start with a simple request over Slack, but teams worry about their data running on devices outside their group.",
+      "published_iso": "2026-10-15T11:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
+      "excerpt": "Eiliko and its manufacturer, Energize Lab, are seemingly not to be trusted.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Apple researchers pool idle Macs into a shared GPU cloud that is requested over Slack. It is a new way to get local AI compute from hardware people already own."
+      "rationale": "A Verge investigation found that the Eiliko AI companion robot sends user conversations to poorly secured servers. It is a new, concrete privacy finding about a consumer AI device."
     },
     {
-      "url": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html",
-      "title": "HMD brings AI companionship to a basic flip phone, complete with a recurring subscription",
-      "source": "Notebookcheck",
+      "url": "https://www.digitaltrends.com/phones/a-7-board-lets-an-ai-control-an-iphone-without-jailbreaking-it/",
+      "title": "A $7 board lets an AI control an iPhone without jailbreaking it",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-10-14T14:13:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-      "excerpt": "HMD has introduced a new version of its 2660 Flip with an AI companion designed to combat loneliness among elderly users. The AI can remember previous conversations, tell stories, and even play games, but continued companionship comes with a monthly subscription fee after a five-hour free trial.",
+      "published_iso": "2026-10-15T03:11:44-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630",
+      "excerpt": "Henry Yuan’s open-source project uses a roughly $7 board to let AI navigate an iPhone without jailbreaking it, though model access and setup requirements make it more involved than the price suggests.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "HMD launches a feature-phone version with a memory-keeping AI companion for elderly users, sold on a subscription after a five-hour trial. It is a new device and a new business model for AI hardware."
+      "rationale": "An open-source project uses a cheap microcontroller acting as a keyboard and mouse so an AI agent can drive a stock iPhone. That gives a hands-on way to test agent-driven phone UI flows."
     }
   ],
   "alternates": [
+    {
+      "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+      "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-14T14:05:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera,...",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "This is a report or leak, not a launch, and it was already an alternate yesterday. It is an alternate again."
+    },
     {
       "url": "https://www.androidauthority.com/google-home-october-update-gemini-voice-commands-3723503/",
       "title": "Gemini for Home is finally learning that ‘stop’ means stop",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-10-14T21:32:00Z",
+      "published_iso": "2026-10-14T21:32:00+00:00",
       "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-9-scaled.jpg",
-      "excerpt": "Learning some manners.",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "This is the October Gemini for Home update, a new release that is separate from the 10-02 September update card. It would be a third Google card, so it is an alternate."
-    },
-    {
-      "url": "https://www.androidauthority.com/nothing-smart-glasses-leak-3723074/",
-      "title": "Nothing’s first smart glasses leak reveals two very different bets",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T11:55:23Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Nothing-Phone-3a-cameras-scaled.jpg",
-      "excerpt": "One pair reportedly skips the camera, while the other could add ChatGPT.",
+      "excerpt": "Google Home's October update teaches Gemini for Home to reliably obey 'stop' and other voice commands on speakers and displays.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#3b6bff",
       "motif": "headset",
-      "rationale": "This is a leak, not a launch, so it ranks lower on credibility and novelty. It is an alternate."
+      "rationale": "The October update is a new release, separate from the 10-02 September update card, but it is an incremental fix."
     },
     {
-      "url": "https://www.wired.com/story/my-friend-has-no-soul/",
-      "title": "My Friend Has No Soul",
-      "source": "WIRED",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "title": "AI agents are coming to Rivian’s cars",
+      "source": "TechCrunch",
       "category": "gadgets",
-      "published_iso": "2026-10-14T11:00:00.000Z",
-      "og_image": "https://media.wired.com/photos/6acdf1809f45e9dbe0c8053b/191:100/w_1280,c_limit/E4.jpg",
-      "excerpt": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+      "published_iso": "2026-10-15T15:02:36+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
+      "excerpt": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#ff2d55",
       "motif": "headset",
-      "rationale": "A review of the second Friend AI pendant. It overlaps the HMD AI-companion pick, so it is an alternate."
+      "rationale": "This is a new announcement, but the details are deferred to a December event. It is an alternate."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/": {
+      "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
+        "nearest": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
         "new_action": ""
       },
-      "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/": {
+      "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2267415/google-photos-update-redact-tool/",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
         "new_action": ""
       },
-      "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/": {
+      "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims": {
         "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
+        "nearest": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
         "new_action": ""
       },
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training": {
+      "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab": {
         "verdict": "new",
-        "nearest": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html": {
+      "https://www.digitaltrends.com/phones/a-7-board-lets-an-ai-control-an-iphone-without-jailbreaking-it/": {
         "verdict": "new",
-        "nearest": "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as already published. Gizmodo Meta glasses recording is the same incident as the 10-14 Android Authority Ray-Ban Meta listening card. TechRadar HomeView hands-on, MacRumors 'which Apple home devices get Siri AI' and 9to5Mac 'no Siri AI on original HomePod mini' all cover the Oct 13 Apple event already published 10-14 (Ars HomeView); they are device-support clarifications, not new releases. CNET Meta Ray-Ban Audio impressions repeat the 10-05 UploadVR and 10-06 9to5Google launch cards. Tom's Guide Surface Laptop Ultra RTX Spark and Ars Microsoft event repeat the 10-08 TechCrunch/Verge and 10-10 TechRadar RTX Spark cards. Ars Amazon Alexa tablets repeats the 10-09 Engadget Alexa tablets card. 9to5Google Googlebook Linux is commentary on the platform already covered by the 10-13 Googlebook OS review. Lower priority: OneXPlayer Super X Pro (a Gorgon Halo spec bump similar to the 10-12 Notebookcheck mini-PC card), Galaxy AI language expansion, myFirst kids camera, RayNeo GT review and Insta360 webcam review (AI is peripheral in these). Alternates: Gemini for Home October update (new, but it would be a third Google card), Nothing glasses leak and WIRED Friend v2. The final 5 come from 5 distinct outlets and cover dev tools, phone security, platform rollout, distributed compute and an AI companion device."
+    "note": "Excluded by the orchestrator: Engadget 'Adobe rebuilt Photoshop and Premiere for RTX Spark' (assigned to DESIGN) and etnews Samsung CDO (design-adjacent). Dropped as same story: The Verge Bee (same launch as the TechCrunch Bee card, which is kept). Tom's Guide RTX Spark benchmarks and Tom's Hardware Surface Laptop Ultra RTX Spark test are reviews of the platform already covered 10-08 (TechCrunch Microsoft Nvidia-chip AI PCs) and 10-10 (TechRadar RTX Spark pre-orders), with no new release. Ars 'Microsoft event debuts new AI-friendly hardware' (10-08) repeats the 10-08 TechCrunch/Verge cards. Engadget Alexa Tablet 12 Pro review repeats the 10-09 Engadget Alexa tablets launch. MacRumors 'Which Apple Home devices get Siri AI' and CNET HomePod mini 2 hands-on are coverage of the Oct 13 Apple event already published 10-14 (Ars HomeView). 9to5Google 'Meta fixed Ray-Ban recording issue' is a follow-up to the 10-14 Android Authority Ray-Ban listening card; it was not kept. Lower priority: Panos Panay Disrupt interview (commentary, and it overlaps the Bee pick), Samsung Galaxy AI language expansion (incremental), MacPaw Eney, etnews AimFuture chip and robot guard dog. Alternates: Nothing glasses report, Gemini for Home October update and Rivian AI agents. The final 5 come from 5 distinct outlets (TechCrunch, MacRumors, Tom's Hardware, The Verge, Digital Trends) and cover a wearable, an open-weight model on a Mac, local-AI hardware, AI toy privacy and phone agent control."
   }
 }

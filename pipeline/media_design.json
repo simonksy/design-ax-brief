@@ -1,34 +1,10 @@
 {
-  "date": "2026-10-15",
-  "section": "design",
+  "date": "2026-10-16",
   "media": [
-    {
-      "id": "design-builder-agent-native",
-      "type": "video",
-      "src": "pipeline/media/design-builder-agent-native.mp4",
-      "poster": "pipeline/media/design-builder-agent-native.jpg"
-    },
-    {
-      "id": "design-spectral-labs-ai-cad",
-      "type": "video",
-      "src": "pipeline/media/design-spectral-labs-ai-cad.mp4",
-      "poster": "pipeline/media/design-spectral-labs-ai-cad.jpg"
-    },
-    {
-      "id": "design-cozyblanket-pro",
-      "type": "video",
-      "src": "pipeline/media/design-cozyblanket-pro.mp4",
-      "poster": "pipeline/media/design-cozyblanket-pro.jpg"
-    },
-    {
-      "id": "design-workday-sana-agents",
-      "type": "image",
-      "src": "pipeline/media/design-workday-sana-agents.jpg"
-    },
-    {
-      "id": "design-hourglass-middle",
-      "type": "image",
-      "src": "pipeline/media/design-hourglass-middle.jpg"
-    }
+    {"id": "design-figma-specs", "type": "image", "src": "pipeline/media/design-figma-specs.png"},
+    {"id": "design-bluesky-attie", "type": "image", "src": "pipeline/media/design-bluesky-attie.png"},
+    {"id": "design-lovable-models", "type": "video", "src": "pipeline/media/design-lovable-models.mp4", "poster": "pipeline/media/design-lovable-models.jpg"},
+    {"id": "design-flux3-klein", "type": "image", "src": "pipeline/media/design-flux3-klein.png"},
+    {"id": "design-hesai-kosmo", "type": "image", "src": "pipeline/media/design-hesai-kosmo.jpg"}
   ]
 }

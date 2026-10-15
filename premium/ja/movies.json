@@ -7010,6 +7010,123 @@
           "x": "モデルはゼロショットで言語を問わないため、俳優や言語ごとに学習させる必要がない。変化するアングル、遮蔽物、低照度、速い動き、複数の顔といった実際の制作映像を想定して設計されている。Sync.Productionsはすでに利用可能だ。"
         }
       ]
+    },
+    "movies/movies-astralabs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+        },
+        {
+          "t": "p",
+          "x": "Astra StudiosとVerSe InnovationはMIPCOMでAstra-Spark Allianceの結成を発表した。映画、シリーズ、アニメーション、ブランドコンテンツ向けのAI-native制作パイプラインを共同で開発し、市場に展開する。発表はAstraが新たな技術IP部門AstraLabsを立ち上げた時期と重なる。"
+        },
+        {
+          "t": "p",
+          "x": "提携の土台はVerSeのAIコンテンツOS、SparkStationだ。企画と脚本からストーリーボード、アセット生成、編集、レンダリング、配信まで制作全体を動かす。コンティニュイティエンジンが制作全体を通じて顔、表情、衣装、場所、小道具を固定し、60を超える言語で動作する。"
+        },
+        {
+          "t": "p",
+          "x": "制作面はAstraLabsが担い、アーティストが全工程を指揮する。両社によれば、このモデルは制作費を「最大75%」削減し、制作期間を数か月から数週間に縮める。"
+        },
+        {
+          "t": "p",
+          "x": "Astra Studios創業者兼CEOのBiren Ghoseは「Astra-Spark提携は、映画の職人技をAI制作の構造の内側に据える」と述べた。"
+        }
+      ]
+    },
+    "movies/movies-celebrity-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "有名人のAI写真や動画がソーシャルメディアで数百万回の再生を集めている。フォロワー百万人超の認証済みファンアカウントが投稿した、女優Mia GothのAI-generated Instagram画像は約500,000件のいいねを集め、Instagramがアカウントを削除するまでにゴシップサイトやGoogleのAI概要を通じて拡散した。"
+        },
+        {
+          "t": "p",
+          "x": "Scarlett Johanssonらスターの性的なAI画像を投稿するアカウントがあり、Taylor SwiftのAI動画は数百万回再生されている。The Vergeが八つのアカウントについて問い合わせると、Metaは一部を削除したと答えた。"
+        },
+        {
+          "t": "p",
+          "x": "YouTubeの肖像検出機能では削除を依頼でき、2026年上半期にこの仕組みを通じて報告された動画の95パーセント超が削除された。"
+        },
+        {
+          "t": "p",
+          "x": "Metaでは静止画がAIラベル表示義務の対象外であり、偽のGoth画像はMetaの規則上、開示が不要だったことになる。"
+        }
+      ]
+    },
+    "movies/movies-artificial-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Luca Guadagnino監督の『Artificial』は、人工知能の害悪とSam Altmanを描いた作品で、New York Film Festivalでプレミア上映され、London Film Festivalでは割れんばかりの拍手を浴びた。Rotten Tomatoesでは96% Freshを記録し、Guadagninoのキャリアで最高の評価となっている。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon MGMは6月、「別のスタジオが公開した方が作品のためになる」として本作を夏の公開ラインアップから外し、その後Neonが全世界の権利契約で救い出した。報道は、この判断がAmazonがOpenAIと500億ドル（$50 billion）の投資を含む提携を結んだ3カ月後だったと指摘した。ライバルスタジオの幹部はVarietyに対し、本作を公開不可とするスタジオは「自社のAI投資によって利益相反を抱えている」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "AmazonとタレントのAIを巡る緊張はそれだけではない。Nicolas Cageは『Spider-Noir』でAI肖像の権利放棄書への署名を拒否したと述べ、Amazon MGMのあるシリーズのクリエイターは義務的なAI研修について語った。Amazonの手続きを直接知る関係者は、そうした会合は義務ではないと述べた。"
+        }
+      ]
+    },
+    "movies/movies-view-execs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+        },
+        {
+          "t": "p",
+          "x": "イタリアのView Conferenceで、Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio、Cinesiteの幹部が、生成AI、進化するパイプライン、雇用について議論した。おおむね、AIは既存の手法をすぐに置き換えるものではなく、より大きな変革の一部だという見方だった。"
+        },
+        {
+          "t": "p",
+          "x": "「AIは実行時間を圧縮できると言われるが、センスは圧縮できない」とThe YardのLaurens Ehrmannは語った。ILMのJanet Lewinは「AIと機械学習が万能薬だという誤解」に警鐘を鳴らした。CinesiteのShawn Walshは、VFXアーティストは「この移行を管理するため、当面は」必要とされると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "アーティストの生活をどう守るかと問われ、ImageworksのMichelle Gradyは「アーティストなしに私たちは存在しない。以上だ」と答えた。Lewinは、親会社がスタジオには制御できない決定を下すと指摘した。雇用をどう守るかについて、パネルから具体策はほとんど示されなかった。"
+        }
+      ]
+    },
+    "movies/movies-midjourney": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
+          "cap": "Midjourneyが生成した、薬物乱用の場面にいるThe Jokerの画像"
+        },
+        {
+          "t": "p",
+          "x": "DisneyとNBCUniversal(NBCU)は昨年の訴訟で、Midjourneyを「底なしの盗用の穴」と非難した。それから18か月以上が過ぎたが、同社はいまだに姿勢を改めていないとされる。"
+        },
+        {
+          "t": "p",
+          "x": "生成AIツールの著作権侵害をストレステストするスタートアップVN.aiは、人気AIモデル15種がスタジオのIPをどれほど侵害するかを調べた。その結果、Midjourney v8.1は著作権のあるキャラクターの再現で最もひどく、暴力や薬物使用といった有害な文脈にキャラクターを置く「ブランドセーフティ違反」でも、プロンプト三回に一回、つまり37%の割合で最多だった。一例は、Elsa-styleのドレスを着たThe Jokerが大麻を吸う画像だ。"
+        },
+        {
+          "t": "p",
+          "x": "Midjourneyはコメントの要請に応じなかった。Disney/NBCUniversalの訴訟は継続中で、Warner Bros Discoveryも提訴している。Midjourneyは著作権のある画像での学習はフェアユースだと主張している。"
+        },
+        {
+          "t": "p",
+          "x": "すべてのモデルが、プロンプトに名前がなくても保護対象のキャラクターを少なくとも一つ生成した。GoogleのNano BananaやByteDanceのSeedance 2.5も例外ではないが、後者は停止通告書(cease-and-desist letters)を受けて改善した。MiniMax H3は、プロンプトに画像を使った場合に55%の割合でブランドセーフティ基準に違反した。"
+        },
+        {
+          "t": "p",
+          "x": "VN.ai創業者のNelson Chuは、著作権の無視は「ビジネスに好都合…優れたマーケティングだ」と語る一方、善良な行為者としての先例を示すモデルが増えるにつれ変化が起きると予測した。"
+        }
+      ]
     }
   }
 }

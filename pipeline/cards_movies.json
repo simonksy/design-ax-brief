@@ -1,221 +1,239 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-midjourney",
+      "id": "movies-maxon-fall",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Midjourney\nIP 침해 최악 모델로",
-      "body": "Disney 피소 18개월 만에 Hollywood IP 침해 최악 AI로 꼽혔다.",
-      "mini_headline": "Midjourney, Hollywood IP 낙제",
+      "headline": "Maxon, AI 재조명과\nAutograph MCP",
+      "body": "Red Giant Scene Light는 AI 깊이로 실사·CG를 사후 재조명한다.",
+      "mini_headline": "Maxon, AI 재조명 도입",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/10/midjourney-worst-offender-flouting-hollywood-copyright-1237154802/",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/maxon-fall-2026-ecosystem-release",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "video",
+            "yt": "sAsuw-nt-GM"
+          },
+          {
+            "t": "p",
+            "x": "Maxon이 Fall 2026 에코시스템 릴리스를 내놨다. 2D·3D 디자인, 모션 그래픽, VFX 아티스트를 겨냥해 더 큰 월드와 더 빠른 워크플로, 더 넓은 창작 제어권을 내세운다. 중심은 Cinema 4D, ZBrush, Redshift, Red Giant, Autograph의 2027.0 릴리스다."
+          },
+          {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-            "cap": "Midjourney가 생성한 약물 남용 장면 속 The Joker 이미지"
+            "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
           },
           {
             "t": "p",
-            "x": "Disney와 NBCUniversal(NBCU)은 지난해 소송에서 Midjourney를 “바닥 없는 표절의 구덩이”라고 비난했다. 그로부터 18개월이 넘게 지났는데도 행태는 그대로라는 지적이 나온다."
+            "x": "Cinema 4D에는 절차적 Scatter 시스템과 Liquid FX 거품·물보라·기포가 더해졌다. ZBrush엔 UV Editor가 들어갔고 Redshift는 메모리 구조를 새로 짜면서 절차적 퍼까지 갖췄다."
           },
           {
             "t": "p",
-            "x": "생성형 AI 도구의 저작권 침해 여부를 스트레스 테스트하는 스타트업 VN.ai가 인기 AI 모델 15개를 놓고 스튜디오 IP를 얼마나 침해하는지 살폈다. 저작권 캐릭터 재현에서 가장 심각한 모델은 Midjourney v8.1이었다. 폭력이나 약물 복용처럼 해로운 맥락에 캐릭터를 집어넣는 “브랜드 안전 위반”도 프롬프트 세 번 중 한 번꼴인 37%로 가장 높았다. Elsa-style 드레스를 입은 The Joker가 대마초를 피우는 이미지가 그런 예다."
+            "x": "Red Giant Scene Light는 새로 나온 AI-powered 깊이 인식 재조명 도구다. 실사 영상이든 CG 렌더든 사후에 사실적인 조명을 얹어 연출한다."
           },
           {
             "t": "p",
-            "x": "Midjourney는 논평 요청에 답하지 않았다. Disney/NBCUniversal 소송은 아직 진행 중이고 Warner Bros Discovery도 소송을 냈다. Midjourney는 저작권 이미지로 학습하는 게 공정 이용이라는 입장이다."
+            "x": "Autograph MCP Server로는 Autograph를 지원 AI 에이전트에 연결한다. 에이전트가 작업을 거들고 워크플로 질문에 답하며 자연어 프롬프트로 창작 과정 일부를 자동화한다. Cinema 4D의 3D 요소도 Autograph에 바로 복사해 붙여 넣으면 된다."
           },
           {
-            "t": "p",
-            "x": "프롬프트에 이름을 넣지 않아도 모든 모델이 보호 대상 캐릭터를 최소 하나는 만들어냈다. Google의 Nano Banana와 ByteDance의 Seedance 2.5도 마찬가지였는데, Seedance는 중지 요구서(cease-and-desist letters)를 받은 뒤 나아졌다. MiniMax H3는 프롬프트에 이미지를 넣으면 55% 비율로 브랜드 안전 기준을 어겼다."
-          },
-          {
-            "t": "p",
-            "x": "VN.ai 창업자 Nelson Chu는 저작권을 무시하는 편이 “사업에 좋다… 훌륭한 마케팅”이라고 하면서도, 착한 선례를 남기는 모델이 늘면 변화가 오리라 내다봤다."
+            "t": "img",
+            "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Midjourney ranked worst\nfor flouting Hollywood IP",
-          "body": "A new report ranks Midjourney the worst AI model for flouting Hollywood IP, 18 months after Disney and NBCU sued it.",
-          "mini_headline": "Midjourney flunks Hollywood IP",
+          "headline": "Maxon adds AI relighting\nand an MCP server for Autograph",
+          "body": "Red Giant Scene Light uses AI depth to relight live-action footage and CG renders after the shoot.",
+          "mini_headline": "Maxon adds AI relighting",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "Maxon has unveiled its Fall 2026 ecosystem release, promising bigger worlds, faster workflows and more creative control for artists working in 2D and 3D design, motion graphics and VFX. Highlights include the 2027.0 releases of Cinema 4D, ZBrush, Redshift, Red Giant and Autograph."
+              },
+              {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-                "cap": "Midjourney generated an image of The Joker in a substance abuse scene"
+                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
               },
               {
                 "t": "p",
-                "x": "Disney and NBCUniversal accused Midjourney of being a “bottomless pit of plagiarism” in a lawsuit last year. More than 18 months on, the company allegedly has failed to clean up its act."
+                "x": "Cinema 4D gains a procedural Scatter system and Liquid FX foam, spray and bubbles; ZBrush adds a UV Editor; Redshift gets a reworked memory architecture and procedural fur."
               },
               {
                 "t": "p",
-                "x": "VN.ai, a startup that stress tests generative AI tools for copyright infringement, examined how 15 popular AI models performed when it comes to flouting studio IP. It found Midjourney v8.1 was the worst offender at reproducing copyrighted characters, and also led on “brand safety violations” — characters placed in a harmful context such as violence or drug taking — once in every three prompts, or 37% of the time. One example: The Joker smoking cannabis in an Elsa-style dress."
+                "x": "Red Giant Scene Light is a new AI-powered, depth-aware relighting tool that lets artists add and art-direct realistic lighting in live-action footage and CG renders after the fact."
               },
               {
                 "t": "p",
-                "x": "Midjourney did not respond to requests for comment. The Disney/NBCUniversal suit is ongoing and Warner Bros Discovery has also filed suit; Midjourney argues training on copyrighted images is fair use."
+                "x": "An Autograph MCP Server lets Autograph connect with supported AI agents to assist with tasks, answer workflow questions and automate parts of the creative process through natural-language prompting. Artists can also copy and paste 3D elements from Cinema 4D directly into Autograph."
               },
               {
-                "t": "p",
-                "x": "Every model generated at least one protected character, even without the name in the prompt, including Google’s Nano Banana and ByteDance’s Seedance 2.5, though the latter improved after cease-and-desist letters. MiniMax H3 violated brand safety standards 55% of the time when an image was used in a prompt."
-              },
-              {
-                "t": "p",
-                "x": "VN.ai founder Nelson Chu said flouting copyright is “good for business… It’s great marketing,” but predicts change as more models set the precedent for being a good actor."
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Midjourney\nIP 침해 최악 모델로",
-          "body": "Disney 피소 18개월 만에 Hollywood IP 침해 최악 AI로 꼽혔다.",
-          "mini_headline": "Midjourney, Hollywood IP 낙제",
+          "headline": "Maxon, AI 재조명과\nAutograph MCP",
+          "body": "Red Giant Scene Light는 AI 깊이로 실사·CG를 사후 재조명한다.",
+          "mini_headline": "Maxon, AI 재조명 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "Maxon이 Fall 2026 에코시스템 릴리스를 내놨다. 2D·3D 디자인, 모션 그래픽, VFX 아티스트를 겨냥해 더 큰 월드와 더 빠른 워크플로, 더 넓은 창작 제어권을 내세운다. 중심은 Cinema 4D, ZBrush, Redshift, Red Giant, Autograph의 2027.0 릴리스다."
+              },
+              {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-                "cap": "Midjourney가 생성한 약물 남용 장면 속 The Joker 이미지"
+                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
               },
               {
                 "t": "p",
-                "x": "Disney와 NBCUniversal(NBCU)은 지난해 소송에서 Midjourney를 “바닥 없는 표절의 구덩이”라고 비난했다. 그로부터 18개월이 넘게 지났는데도 행태는 그대로라는 지적이 나온다."
+                "x": "Cinema 4D에는 절차적 Scatter 시스템과 Liquid FX 거품·물보라·기포가 더해졌다. ZBrush엔 UV Editor가 들어갔고 Redshift는 메모리 구조를 새로 짜면서 절차적 퍼까지 갖췄다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI 도구의 저작권 침해 여부를 스트레스 테스트하는 스타트업 VN.ai가 인기 AI 모델 15개를 놓고 스튜디오 IP를 얼마나 침해하는지 살폈다. 저작권 캐릭터 재현에서 가장 심각한 모델은 Midjourney v8.1이었다. 폭력이나 약물 복용처럼 해로운 맥락에 캐릭터를 집어넣는 “브랜드 안전 위반”도 프롬프트 세 번 중 한 번꼴인 37%로 가장 높았다. Elsa-style 드레스를 입은 The Joker가 대마초를 피우는 이미지가 그런 예다."
+                "x": "Red Giant Scene Light는 새로 나온 AI-powered 깊이 인식 재조명 도구다. 실사 영상이든 CG 렌더든 사후에 사실적인 조명을 얹어 연출한다."
               },
               {
                 "t": "p",
-                "x": "Midjourney는 논평 요청에 답하지 않았다. Disney/NBCUniversal 소송은 아직 진행 중이고 Warner Bros Discovery도 소송을 냈다. Midjourney는 저작권 이미지로 학습하는 게 공정 이용이라는 입장이다."
+                "x": "Autograph MCP Server로는 Autograph를 지원 AI 에이전트에 연결한다. 에이전트가 작업을 거들고 워크플로 질문에 답하며 자연어 프롬프트로 창작 과정 일부를 자동화한다. Cinema 4D의 3D 요소도 Autograph에 바로 복사해 붙여 넣으면 된다."
               },
               {
-                "t": "p",
-                "x": "프롬프트에 이름을 넣지 않아도 모든 모델이 보호 대상 캐릭터를 최소 하나는 만들어냈다. Google의 Nano Banana와 ByteDance의 Seedance 2.5도 마찬가지였는데, Seedance는 중지 요구서(cease-and-desist letters)를 받은 뒤 나아졌다. MiniMax H3는 프롬프트에 이미지를 넣으면 55% 비율로 브랜드 안전 기준을 어겼다."
-              },
-              {
-                "t": "p",
-                "x": "VN.ai 창업자 Nelson Chu는 저작권을 무시하는 편이 “사업에 좋다… 훌륭한 마케팅”이라고 하면서도, 착한 선례를 남기는 모델이 늘면 변화가 오리라 내다봤다."
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Midjourney\nIP侵害で最悪評価",
-          "body": "Disneyによる提訴から18か月、HollywoodのIP侵害で最悪のAIと評された。",
-          "mini_headline": "Midjourney、Hollywood IPで落第",
+          "headline": "Maxon、AI再照明と\nAutograph用MCP",
+          "body": "Red Giant Scene LightはAI深度で実写とCGを撮影後に再照明する。",
+          "mini_headline": "MaxonがAI再照明を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "MaxonはFall 2026エコシステムリリースを発表した。2D・3Dデザイン、モーショングラフィックス、VFXに携わるアーティストに向け、より大きなワールド、より速いワークフロー、より高い創作の自由度をうたう。目玉はCinema 4D、ZBrush、Redshift、Red Giant、Autographの2027.0リリースだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-                "cap": "Midjourneyが生成した、薬物乱用の場面にいるThe Jokerの画像"
+                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
               },
               {
                 "t": "p",
-                "x": "DisneyとNBCUniversal(NBCU)は昨年の訴訟で、Midjourneyを「底なしの盗用の穴」と非難した。それから18か月以上が過ぎたが、同社はいまだに姿勢を改めていないとされる。"
+                "x": "Cinema 4DにはプロシージャルなScatterシステムと、Liquid FXの泡・飛沫・気泡が加わった。ZBrushはUV Editorを搭載し、Redshiftはメモリアーキテクチャを刷新してプロシージャルなファーを備えた。"
               },
               {
                 "t": "p",
-                "x": "生成AIツールの著作権侵害をストレステストするスタートアップVN.aiは、人気AIモデル15種がスタジオのIPをどれほど侵害するかを調べた。その結果、Midjourney v8.1は著作権のあるキャラクターの再現で最もひどく、暴力や薬物使用といった有害な文脈にキャラクターを置く「ブランドセーフティ違反」でも、プロンプト三回に一回、つまり37%の割合で最多だった。一例は、Elsa-styleのドレスを着たThe Jokerが大麻を吸う画像だ。"
+                "x": "Red Giant Scene Lightは、AI-poweredの深度認識型リライティングツールだ。実写映像やCGレンダーに、撮影後からリアルな照明を加えて演出できる。"
               },
               {
                 "t": "p",
-                "x": "Midjourneyはコメントの要請に応じなかった。Disney/NBCUniversalの訴訟は継続中で、Warner Bros Discoveryも提訴している。Midjourneyは著作権のある画像での学習はフェアユースだと主張している。"
+                "x": "Autograph MCP Serverにより、Autographは対応するAIエージェントと連携できる。エージェントは作業を手伝い、ワークフローに関する質問に答え、自然言語のプロンプトで創作工程の一部を自動化する。Cinema 4Dの3D要素をAutographへ直接コピー&ペーストすることも可能だ。"
               },
               {
-                "t": "p",
-                "x": "すべてのモデルが、プロンプトに名前がなくても保護対象のキャラクターを少なくとも一つ生成した。GoogleのNano BananaやByteDanceのSeedance 2.5も例外ではないが、後者は停止通告書(cease-and-desist letters)を受けて改善した。MiniMax H3は、プロンプトに画像を使った場合に55%の割合でブランドセーフティ基準に違反した。"
-              },
-              {
-                "t": "p",
-                "x": "VN.ai創業者のNelson Chuは、著作権の無視は「ビジネスに好都合…優れたマーケティングだ」と語る一方、善良な行為者としての先例を示すモデルが増えるにつれ変化が起きると予測した。"
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Midjourney\n侵犯IP最严重",
-          "body": "遭Disney起诉18个月后，它被评为侵犯Hollywood IP最严重的AI。",
-          "mini_headline": "Midjourney侵犯Hollywood IP垫底",
+          "headline": "Maxon推出AI重打光\n与Autograph MCP",
+          "body": "Red Giant Scene Light借助AI深度，在拍摄后为实拍和CG渲染重新打光。",
+          "mini_headline": "Maxon新增AI重打光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "Maxon发布Fall 2026生态系统版本，承诺为从事2D与3D设计、动态图形和VFX的艺术家带来更大的世界、更快的工作流程和更多创作掌控。亮点包括Cinema 4D、ZBrush、Redshift、Red Giant和Autograph的2027.0版本。"
+              },
+              {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-                "cap": "Midjourney生成的The Joker滥用药物场景图像"
+                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
               },
               {
                 "t": "p",
-                "x": "Disney与NBCUniversal（NBCU）去年在诉讼中指控Midjourney是“无底的抄袭深坑”。18个多月过去了，据称该公司仍未改正。"
+                "x": "Cinema 4D新增程序化Scatter系统以及Liquid FX泡沫、飞沫和气泡；ZBrush加入UV Editor；Redshift重构了内存架构，并新增程序化毛发。"
               },
               {
                 "t": "p",
-                "x": "专门对生成式AI工具做版权侵权压力测试的初创公司VN.ai，考察了15款热门AI模型在侵犯片厂IP方面的表现。结果显示，Midjourney v8.1在复制受版权保护角色方面问题最严重，在“品牌安全违规”（把角色置于暴力或吸毒等有害情境）方面也居首，每三次提示就出现一次，比例达37%。一个例子是：身穿Elsa-style裙装的The Joker在吸大麻。"
+                "x": "Red Giant Scene Light是一款全新的AI-powered深度感知重打光工具，艺术家可在事后为实拍素材和CG渲染添加并调校逼真的光照。"
               },
               {
                 "t": "p",
-                "x": "Midjourney未回应置评请求。Disney/NBCUniversal的诉讼仍在进行，Warner Bros Discovery也已提起诉讼；Midjourney辩称用受版权保护的图像训练属于合理使用。"
+                "x": "借助Autograph MCP Server，Autograph可与受支持的AI代理连接，通过自然语言提示协助完成任务、解答工作流程问题，并将部分创作流程自动化。艺术家还可以把Cinema 4D中的3D元素直接复制粘贴到Autograph。"
               },
               {
-                "t": "p",
-                "x": "即使提示中没有角色名字，每个模型都至少生成过一个受保护角色，包括Google的Nano Banana和ByteDance的Seedance 2.5，不过后者在收到停止侵权函（cease-and-desist letters）后有所改善。当提示中使用图像时，MiniMax H3有55%的情况违反品牌安全标准。"
-              },
-              {
-                "t": "p",
-                "x": "VN.ai创始人Nelson Chu表示，无视版权“对生意有好处……是很棒的营销”，但他预测，随着更多模型树立良好先例，情况将会改变。"
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
               }
             ]
           }
         },
         "es": {
-          "headline": "Midjourney, la peor AI\nante la IP de Hollywood",
-          "body": "Un informe sitúa a Midjourney como la AI que más vulnera la IP de Hollywood, 18 meses tras la demanda de Disney y NBCU.",
-          "mini_headline": "Midjourney suspende en IP de Hollywood",
+          "headline": "Maxon suma reiluminación con AI\ny un servidor MCP para Autograph",
+          "body": "Red Giant Scene Light usa profundidad AI para reiluminar metraje real y renders CG después del rodaje.",
+          "mini_headline": "Maxon suma reiluminación con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "Maxon presentó su lanzamiento de ecosistema Fall 2026, que promete mundos más grandes, flujos de trabajo más rápidos y más control creativo para artistas de diseño 2D y 3D, gráficos en movimiento y VFX. Entre lo más destacado figuran las versiones 2027.0 de Cinema 4D, ZBrush, Redshift, Red Giant y Autograph."
+              },
+              {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-                "cap": "Midjourney generó una imagen de The Joker en una escena de consumo de drogas"
+                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
               },
               {
                 "t": "p",
-                "x": "Disney y NBCUniversal (NBCU) acusaron a Midjourney de ser un “pozo sin fondo de plagio” en una demanda el año pasado. Más de 18 meses después, la empresa no habría corregido su conducta."
+                "x": "Cinema 4D incorpora un sistema procedural Scatter y espuma, salpicaduras y burbujas en Liquid FX; ZBrush añade un UV Editor; Redshift renueva su arquitectura de memoria y suma pelaje procedural."
               },
               {
                 "t": "p",
-                "x": "VN.ai, una startup que somete a pruebas de estrés a herramientas de AI generativa por infracción de derechos de autor, examinó el desempeño de 15 modelos de AI populares a la hora de vulnerar la IP de los estudios. Halló que Midjourney v8.1 fue el peor infractor al reproducir personajes protegidos y que también encabezó las “violaciones de seguridad de marca” —personajes situados en un contexto dañino como la violencia o el consumo de drogas— una de cada tres indicaciones, o el 37% de las veces. Un ejemplo: The Joker fumando cannabis con un vestido Elsa-style."
+                "x": "Red Giant Scene Light es una nueva herramienta AI-powered de reiluminación con reconocimiento de profundidad que permite añadir y dirigir artísticamente una iluminación realista en metraje de acción real y renders CG a posteriori."
               },
               {
                 "t": "p",
-                "x": "Midjourney no respondió a las solicitudes de comentarios. La demanda de Disney/NBCUniversal sigue en curso y Warner Bros Discovery también ha presentado una demanda; Midjourney sostiene que entrenar con imágenes protegidas es uso legítimo (fair use)."
+                "x": "Un Autograph MCP Server permite conectar Autograph con agentes de AI compatibles para ayudar en tareas, responder dudas sobre el flujo de trabajo y automatizar partes del proceso creativo mediante instrucciones en lenguaje natural. Los artistas también pueden copiar y pegar elementos 3D de Cinema 4D directamente en Autograph."
               },
               {
-                "t": "p",
-                "x": "Todos los modelos generaron al menos un personaje protegido, incluso sin su nombre en la indicación, entre ellos Nano Banana de Google y Seedance 2.5 de ByteDance, aunque este último mejoró tras recibir cartas de cese y desista (cease-and-desist). MiniMax H3 incumplió las normas de seguridad de marca el 55% de las veces cuando se usó una imagen en la indicación."
-              },
-              {
-                "t": "p",
-                "x": "Nelson Chu, fundador de VN.ai, dijo que ignorar los derechos de autor es “bueno para el negocio… Es un gran marketing”, pero prevé un cambio a medida que más modelos sienten el precedente de actuar correctamente."
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
               }
             ]
           }
@@ -223,141 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Midjourney\nIP 침해 최악 모델로",
-          "body": "Disney 피소 18개월 만에 Hollywood IP 침해 최악 AI로 꼽혔다.",
-          "mini_headline": "Midjourney, Hollywood IP 낙제",
+          "headline": "Maxon, AI 재조명과\nAutograph MCP",
+          "body": "Red Giant Scene Light는 AI 깊이로 실사·CG를 사후 재조명한다.",
+          "mini_headline": "Maxon, AI 재조명 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "Maxon이 Fall 2026 에코시스템 릴리스를 공개했다. 2D·3D 디자인, 모션 그래픽, VFX 아티스트에게 더 큰 월드, 더 빠른 워크플로, 더 많은 창작 제어권을 약속한다. 주요 내용은 Cinema 4D, ZBrush, Redshift, Red Giant, Autograph의 2027.0 릴리스다."
+              },
+              {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-                "cap": "Midjourney가 생성한 약물 남용 장면 속 The Joker 이미지"
+                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
               },
               {
                 "t": "p",
-                "x": "Disney와 NBCUniversal(NBCU)은 지난해 소송에서 Midjourney를 “바닥 없는 표절의 구덩이”라고 비난했다. 18개월이 넘게 지났지만 이 회사는 여전히 행태를 바로잡지 않았다는 지적을 받는다."
+                "x": "Cinema 4D에는 절차적 Scatter 시스템과 Liquid FX 거품·물보라·기포가 더해졌다. ZBrush는 UV Editor를 추가했고, Redshift는 메모리 구조를 새로 짜고 절차적 퍼를 갖췄다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI 도구의 저작권 침해 여부를 스트레스 테스트하는 스타트업 VN.ai는 인기 AI 모델 15개가 스튜디오 IP를 얼마나 침해하는지 살폈다. 그 결과 Midjourney v8.1은 저작권 캐릭터 재현에서 가장 심각했고, 폭력이나 약물 복용처럼 해로운 맥락에 캐릭터를 배치하는 “브랜드 안전 위반”에서도 프롬프트 세 번 중 한 번꼴, 즉 37%로 가장 높았다. 예를 들면 Elsa-style 드레스를 입은 The Joker가 대마초를 피우는 이미지다."
+                "x": "Red Giant Scene Light는 새로운 AI-powered 깊이 인식 재조명 도구다. 아티스트는 실사 영상과 CG 렌더에 사실적인 조명을 사후에 더하고 연출할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Midjourney는 논평 요청에 응하지 않았다. Disney/NBCUniversal 소송은 진행 중이며 Warner Bros Discovery도 소송을 제기했다. Midjourney는 저작권 이미지로 학습하는 것이 공정 이용이라고 주장한다."
+                "x": "Autograph MCP Server를 쓰면 Autograph를 지원되는 AI 에이전트와 연결할 수 있다. 에이전트는 작업을 돕고 워크플로 질문에 답하며, 자연어 프롬프트로 창작 과정 일부를 자동화한다. 아티스트는 Cinema 4D의 3D 요소를 Autograph로 바로 복사해 붙여 넣을 수도 있다."
               },
               {
-                "t": "p",
-                "x": "모든 모델이 프롬프트에 이름이 없어도 보호 대상 캐릭터를 최소 하나는 생성했다. 여기에는 Google의 Nano Banana와 ByteDance의 Seedance 2.5도 포함되며, 후자는 중지 요구서(cease-and-desist letters)를 받은 뒤 개선됐다. MiniMax H3는 프롬프트에 이미지를 넣었을 때 55%의 비율로 브랜드 안전 기준을 위반했다."
-              },
-              {
-                "t": "p",
-                "x": "VN.ai 창업자 Nelson Chu는 저작권 무시가 “사업에 좋다… 훌륭한 마케팅”이라고 말하면서도, 선한 행위자의 선례를 세우는 모델이 늘면서 변화가 올 것이라고 내다봤다."
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Midjourney\nIP侵害で最悪評価",
-          "body": "Disneyによる提訴から18か月、HollywoodのIP侵害で最悪のAIと評された。",
-          "mini_headline": "Midjourney、Hollywood IPで落第",
+          "headline": "Maxon、AI再照明と\nAutograph用MCP",
+          "body": "Red Giant Scene LightはAI深度で実写とCGを撮影後に再照明する。",
+          "mini_headline": "MaxonがAI再照明を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "MaxonはFall 2026エコシステムリリースを発表した。2D・3Dデザイン、モーショングラフィックス、VFXに携わるアーティストに向け、より大きなワールド、より速いワークフロー、より高い創作の自由度をうたう。目玉はCinema 4D、ZBrush、Redshift、Red Giant、Autographの2027.0リリースだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-                "cap": "Midjourneyが生成した、薬物乱用の場面にいるThe Jokerの画像"
+                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
               },
               {
                 "t": "p",
-                "x": "DisneyとNBCUniversal(NBCU)は昨年の訴訟で、Midjourneyを「底なしの盗用の穴」と非難した。それから18か月以上が過ぎたが、同社はいまだに姿勢を改めていないとされる。"
+                "x": "Cinema 4DにはプロシージャルなScatterシステムと、Liquid FXの泡・飛沫・気泡が加わった。ZBrushはUV Editorを搭載し、Redshiftはメモリアーキテクチャを刷新してプロシージャルなファーを備えた。"
               },
               {
                 "t": "p",
-                "x": "生成AIツールの著作権侵害をストレステストするスタートアップVN.aiは、人気AIモデル15種がスタジオのIPをどれほど侵害するかを調べた。その結果、Midjourney v8.1は著作権のあるキャラクターの再現で最もひどく、暴力や薬物使用といった有害な文脈にキャラクターを置く「ブランドセーフティ違反」でも、プロンプト三回に一回、つまり37%の割合で最多だった。一例は、Elsa-styleのドレスを着たThe Jokerが大麻を吸う画像だ。"
+                "x": "Red Giant Scene Lightは、AI-poweredの深度認識型リライティングツールだ。実写映像やCGレンダーに、撮影後からリアルな照明を加えて演出できる。"
               },
               {
                 "t": "p",
-                "x": "Midjourneyはコメントの要請に応じなかった。Disney/NBCUniversalの訴訟は継続中で、Warner Bros Discoveryも提訴している。Midjourneyは著作権のある画像での学習はフェアユースだと主張している。"
+                "x": "Autograph MCP Serverにより、Autographは対応するAIエージェントと連携できる。エージェントは作業を手伝い、ワークフローに関する質問に答え、自然言語のプロンプトで創作工程の一部を自動化する。Cinema 4Dの3D要素をAutographへ直接コピー&ペーストすることも可能だ。"
               },
               {
-                "t": "p",
-                "x": "すべてのモデルが、プロンプトに名前がなくても保護対象のキャラクターを少なくとも一つ生成した。GoogleのNano BananaやByteDanceのSeedance 2.5も例外ではないが、後者は停止通告書(cease-and-desist letters)を受けて改善した。MiniMax H3は、プロンプトに画像を使った場合に55%の割合でブランドセーフティ基準に違反した。"
-              },
-              {
-                "t": "p",
-                "x": "VN.ai創業者のNelson Chuは、著作権の無視は「ビジネスに好都合…優れたマーケティングだ」と語る一方、善良な行為者としての先例を示すモデルが増えるにつれ変化が起きると予測した。"
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Midjourney\n侵犯IP最严重",
-          "body": "遭Disney起诉18个月后，它被评为侵犯Hollywood IP最严重的AI。",
-          "mini_headline": "Midjourney侵犯Hollywood IP垫底",
+          "headline": "Maxon推出AI重打光\n与Autograph MCP",
+          "body": "Red Giant Scene Light借助AI深度，在拍摄后为实拍和CG渲染重新打光。",
+          "mini_headline": "Maxon新增AI重打光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "Maxon发布Fall 2026生态系统版本，承诺为从事2D与3D设计、动态图形和VFX的艺术家带来更大的世界、更快的工作流程和更多创作掌控。亮点包括Cinema 4D、ZBrush、Redshift、Red Giant和Autograph的2027.0版本。"
+              },
+              {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-                "cap": "Midjourney生成的The Joker滥用药物场景图像"
+                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
               },
               {
                 "t": "p",
-                "x": "Disney与NBCUniversal（NBCU）去年在诉讼中指控Midjourney是“无底的抄袭深坑”。18个多月过去了，据称该公司仍未改正。"
+                "x": "Cinema 4D新增程序化Scatter系统以及Liquid FX泡沫、飞沫和气泡；ZBrush加入UV Editor；Redshift重构了内存架构，并新增程序化毛发。"
               },
               {
                 "t": "p",
-                "x": "专门对生成式AI工具做版权侵权压力测试的初创公司VN.ai，考察了15款热门AI模型在侵犯片厂IP方面的表现。结果显示，Midjourney v8.1在复制受版权保护角色方面问题最严重，在“品牌安全违规”（把角色置于暴力或吸毒等有害情境）方面也居首，每三次提示就出现一次，比例达37%。一个例子是：身穿Elsa-style裙装的The Joker在吸大麻。"
+                "x": "Red Giant Scene Light是一款全新的AI-powered深度感知重打光工具，艺术家可在事后为实拍素材和CG渲染添加并调校逼真的光照。"
               },
               {
                 "t": "p",
-                "x": "Midjourney未回应置评请求。Disney/NBCUniversal的诉讼仍在进行，Warner Bros Discovery也已提起诉讼；Midjourney辩称用受版权保护的图像训练属于合理使用。"
+                "x": "借助Autograph MCP Server，Autograph可与受支持的AI代理连接，通过自然语言提示协助完成任务、解答工作流程问题，并将部分创作流程自动化。艺术家还可以把Cinema 4D中的3D元素直接复制粘贴到Autograph。"
               },
               {
-                "t": "p",
-                "x": "即使提示中没有角色名字，每个模型都至少生成过一个受保护角色，包括Google的Nano Banana和ByteDance的Seedance 2.5，不过后者在收到停止侵权函（cease-and-desist letters）后有所改善。当提示中使用图像时，MiniMax H3有55%的情况违反品牌安全标准。"
-              },
-              {
-                "t": "p",
-                "x": "VN.ai创始人Nelson Chu表示，无视版权“对生意有好处……是很棒的营销”，但他预测，随着更多模型树立良好先例，情况将会改变。"
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
               }
             ]
           }
         },
         "es": {
-          "headline": "Midjourney, la peor AI\nante la IP de Hollywood",
-          "body": "Un informe sitúa a Midjourney como la AI que más vulnera la IP de Hollywood, 18 meses tras la demanda de Disney y NBCU.",
-          "mini_headline": "Midjourney suspende en IP de Hollywood",
+          "headline": "Maxon suma reiluminación con AI\ny un servidor MCP para Autograph",
+          "body": "Red Giant Scene Light usa profundidad AI para reiluminar metraje real y renders CG después del rodaje.",
+          "mini_headline": "Maxon suma reiluminación con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "Maxon presentó su lanzamiento de ecosistema Fall 2026, que promete mundos más grandes, flujos de trabajo más rápidos y más control creativo para artistas de diseño 2D y 3D, gráficos en movimiento y VFX. Entre lo más destacado figuran las versiones 2027.0 de Cinema 4D, ZBrush, Redshift, Red Giant y Autograph."
+              },
+              {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-                "cap": "Midjourney generó una imagen de The Joker en una escena de consumo de drogas"
+                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
               },
               {
                 "t": "p",
-                "x": "Disney y NBCUniversal (NBCU) acusaron a Midjourney de ser un “pozo sin fondo de plagio” en una demanda el año pasado. Más de 18 meses después, la empresa no habría corregido su conducta."
+                "x": "Cinema 4D incorpora un sistema procedural Scatter y espuma, salpicaduras y burbujas en Liquid FX; ZBrush añade un UV Editor; Redshift renueva su arquitectura de memoria y suma pelaje procedural."
               },
               {
                 "t": "p",
-                "x": "VN.ai, una startup que somete a pruebas de estrés a herramientas de AI generativa por infracción de derechos de autor, examinó el desempeño de 15 modelos de AI populares a la hora de vulnerar la IP de los estudios. Halló que Midjourney v8.1 fue el peor infractor al reproducir personajes protegidos y que también encabezó las “violaciones de seguridad de marca” —personajes situados en un contexto dañino como la violencia o el consumo de drogas— una de cada tres indicaciones, o el 37% de las veces. Un ejemplo: The Joker fumando cannabis con un vestido Elsa-style."
+                "x": "Red Giant Scene Light es una nueva herramienta AI-powered de reiluminación con reconocimiento de profundidad que permite añadir y dirigir artísticamente una iluminación realista en metraje de acción real y renders CG a posteriori."
               },
               {
                 "t": "p",
-                "x": "Midjourney no respondió a las solicitudes de comentarios. La demanda de Disney/NBCUniversal sigue en curso y Warner Bros Discovery también ha presentado una demanda; Midjourney sostiene que entrenar con imágenes protegidas es uso legítimo (fair use)."
+                "x": "Un Autograph MCP Server permite conectar Autograph con agentes de AI compatibles para ayudar en tareas, responder dudas sobre el flujo de trabajo y automatizar partes del proceso creativo mediante instrucciones en lenguaje natural. Los artistas también pueden copiar y pegar elementos 3D de Cinema 4D directamente en Autograph."
               },
               {
-                "t": "p",
-                "x": "Todos los modelos generaron al menos un personaje protegido, incluso sin su nombre en la indicación, entre ellos Nano Banana de Google y Seedance 2.5 de ByteDance, aunque este último mejoró tras recibir cartas de cese y desista (cease-and-desist). MiniMax H3 incumplió las normas de seguridad de marca el 55% de las veces cuando se usó una imagen en la indicación."
-              },
-              {
-                "t": "p",
-                "x": "Nelson Chu, fundador de VN.ai, dijo que ignorar los derechos de autor es “bueno para el negocio… Es un gran marketing”, pero prevé un cambio a medida que más modelos sienten el precedente de actuar correctamente."
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
               }
             ]
           }
@@ -365,337 +395,15 @@
       }
     },
     {
-      "id": "movies-netflix-busan",
+      "id": "movies-astralabs",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 제작비 40% 절감\n300편 쓴 Netflix",
-      "body": "강윤성 감독은 AI로 예산을 최대 40% 줄일 수 있다고 부산에서 말했다.",
-      "mini_headline": "Netflix 300편에 AI",
+      "headline": "Astra·VerSe 맞손\nAI-native 영화제작",
+      "body": "SparkStation으로 각본부터 배급까지 잇고 컷마다 얼굴·장소를 지킨다.",
+      "mini_headline": "Astra·VerSe의 AI 파이프라인",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-            "cap": "Creative Asia AI 패널"
-          },
-          {
-            "t": "p",
-            "x": "Netflix가 어떤 식으로든 AI를 쓴 작품은 약 300편에 이른다. 이 스트리머의 APAC 프로덕션 시니어 디렉터 Lee Sung Q가 Busan International Film Festival(부산국제영화제) 관객 앞에서 밝힌 숫자다. 같은 패널에 선 “The Outlaws”(범죄도시)의 강윤성(Kang Yoon-sung) 감독은 AI 워크플로로 장편 영화 제작비를 30%에서 40%까지 줄일 수 있다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Lee는 Netflix의 VFX 스튜디오 Eyeline이 실사와 VFX, 생성형 도구를 섞어 만든 하이브리드 제작 릴과 Netflix India “Glory”의 군중 장면을 AI와 VFX로 함께 만든 클립을 틀었다."
-          },
-          {
-            "t": "p",
-            "x": "강윤성(Kang) 감독은 전부 Kling으로 만든 “The Gulf of Aden” AI 테스트를 투자 유치용으로 계산해 보니 “실제로 약 40% 절감”이 나왔다고 했다. CG와 VFX를 대체해서만이 아니라 촬영이 단순해지고 제작 기간이 짧아진 덕이다. 그래도 AI-made 이미지는 감정을 잃을 수 있다고 경고했고 Lee도 “인간의 손길이 반드시 필요하다”며 맞장구쳤다."
-          },
-          {
-            "t": "p",
-            "x": "Wētā FX의 Kimball Thurston은 Sci-Tech Award-winning 디노이저를 “보조형 AI(assistive AI)”라 부르면서, Wētā가 Academy Software Foundation을 통해 open-source AI 출처 추적 도구를 만드는 중이라고 밝혔다. Kang과 Thurston 모두 AI가 배우를 대체하지는 못한다고 봤다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Kang: AI cuts budgets up to 40%\nNetflix cites AI on 300 titles",
-          "body": "At Busan, director Kang Yoon-sung said AI can cut film budgets by up to 40% as Netflix revealed AI use on 300 titles.",
-          "mini_headline": "AI on 300 Netflix titles",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-                "cap": "Creative Asia AI panel"
-              },
-              {
-                "t": "p",
-                "x": "Netflix has used AI in one form or another on some 300 of its titles, Lee Sung Q, the streamer’s senior director of APAC production, told an audience at the Busan International Film Festival. On the same panel, “The Outlaws” director Kang Yoon-sung said AI workflows could take 30% to 40% off a feature film’s production budget."
-              },
-              {
-                "t": "p",
-                "x": "Lee screened a reel from Eyeline, Netflix’s VFX studio, on hybrid production mixing live action, VFX and generative tools, and a clip of AI and VFX together producing crowd scenes for Netflix India’s “Glory.”"
-              },
-              {
-                "t": "p",
-                "x": "Kang’s AI test for “The Gulf of Aden,” made entirely with Kling, showed “an actual reduction of around 40%” when calculated for fundraising, he said — not just from replacing CG and VFX, but a simpler shoot and shorter production. He warned AI-made images can lose emotion; Lee agreed “a human touch is absolutely essential.”"
-              },
-              {
-                "t": "p",
-                "x": "Wētā FX’s Kimball Thurston called his Sci-Tech Award-winning denoiser “assistive AI” and said Wētā is building an open-source AI provenance tool through the Academy Software Foundation. Kang and Thurston both said AI won’t replace actors."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI로 제작비 40% 절감\n300편 쓴 Netflix",
-          "body": "강윤성 감독은 AI로 예산을 최대 40% 줄일 수 있다고 부산에서 말했다.",
-          "mini_headline": "Netflix 300편에 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-                "cap": "Creative Asia AI 패널"
-              },
-              {
-                "t": "p",
-                "x": "Netflix가 어떤 식으로든 AI를 쓴 작품은 약 300편에 이른다. 이 스트리머의 APAC 프로덕션 시니어 디렉터 Lee Sung Q가 Busan International Film Festival(부산국제영화제) 관객 앞에서 밝힌 숫자다. 같은 패널에 선 “The Outlaws”(범죄도시)의 강윤성(Kang Yoon-sung) 감독은 AI 워크플로로 장편 영화 제작비를 30%에서 40%까지 줄일 수 있다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Lee는 Netflix의 VFX 스튜디오 Eyeline이 실사와 VFX, 생성형 도구를 섞어 만든 하이브리드 제작 릴과 Netflix India “Glory”의 군중 장면을 AI와 VFX로 함께 만든 클립을 틀었다."
-              },
-              {
-                "t": "p",
-                "x": "강윤성(Kang) 감독은 전부 Kling으로 만든 “The Gulf of Aden” AI 테스트를 투자 유치용으로 계산해 보니 “실제로 약 40% 절감”이 나왔다고 했다. CG와 VFX를 대체해서만이 아니라 촬영이 단순해지고 제작 기간이 짧아진 덕이다. 그래도 AI-made 이미지는 감정을 잃을 수 있다고 경고했고 Lee도 “인간의 손길이 반드시 필요하다”며 맞장구쳤다."
-              },
-              {
-                "t": "p",
-                "x": "Wētā FX의 Kimball Thurston은 Sci-Tech Award-winning 디노이저를 “보조형 AI(assistive AI)”라 부르면서, Wētā가 Academy Software Foundation을 통해 open-source AI 출처 추적 도구를 만드는 중이라고 밝혔다. Kang과 Thurston 모두 AI가 배우를 대체하지는 못한다고 봤다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIで予算最大40%減\nNetflix作品300本に",
-          "body": "Kang Yoon-sung監督は釜山で、AIで映画予算を最大40%削減できると語った。",
-          "mini_headline": "Netflix作品300本にAI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-                "cap": "Creative Asia AIパネル"
-              },
-              {
-                "t": "p",
-                "x": "Netflixは何らかの形で約300本の作品にAIを使ってきたと、同社APAC制作担当シニアディレクターのLee Sung QがBusan International Film Festival(釜山国際映画祭)の聴衆に語った。同じパネルで「The Outlaws」のKang Yoon-sung監督は、AIワークフローで長編映画の制作費を30%から40%削減できると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Leeは、Netflix傘下のVFXスタジオEyelineによる、実写、VFX、生成ツールを組み合わせたハイブリッド制作のリールと、Netflix Indiaの「Glory」でAIとVFXを併用して群衆シーンを作ったクリップを上映した。"
-              },
-              {
-                "t": "p",
-                "x": "Kangによると、すべてKlingで制作した「The Gulf of Aden」のAIテストでは、資金調達向けに試算すると「実際に約40%の削減」になった。CGやVFXの置き換えだけでなく、撮影の簡素化と制作期間の短縮によるものだという。彼はAI-madeの映像は感情を失いかねないと警告し、Leeも「人の手は絶対に欠かせない」と同意した。"
-              },
-              {
-                "t": "p",
-                "x": "Wētā FXのKimball Thurstonは、Sci-Tech Award-winningのデノイザーを「補助的AI(assistive AI)」と呼び、WētāがAcademy Software Foundationを通じてopen-sourceのAI来歴ツールを開発中だと述べた。KangとThurstonはともに、AIが俳優に取って代わることはないと語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI可省40%预算\nNetflix 300部已用",
-          "body": "导演Kang Yoon-sung在釜山称AI最多可将电影预算削减40%。",
-          "mini_headline": "Netflix 300部作品用上AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-                "cap": "Creative Asia AI论坛"
-              },
-              {
-                "t": "p",
-                "x": "Netflix亚太区（APAC）制作高级总监Lee Sung Q在Busan International Film Festival（釜山国际电影节）上对观众表示，Netflix已以各种形式在约300部作品中使用AI。在同一论坛上，《The Outlaws》导演Kang Yoon-sung表示，AI工作流程可让长片制作预算减少30%至40%。"
-              },
-              {
-                "t": "p",
-                "x": "Lee放映了Netflix旗下VFX工作室Eyeline的一段样片，展示融合实拍、VFX与生成式工具的混合制作，还放映了Netflix India的《Glory》中用AI与VFX共同制作群众场面的片段。"
-              },
-              {
-                "t": "p",
-                "x": "Kang表示，他完全用Kling制作的《The Gulf of Aden》AI测试，按融资口径计算“实际降低约40%”——不仅来自替代CG和VFX，还因为拍摄更简单、制作周期更短。他提醒AI-made画面可能丢失情感；Lee也认同“人的触感绝对必不可少”。"
-              },
-              {
-                "t": "p",
-                "x": "Wētā FX的Kimball Thurston称他获Sci-Tech Award-winning的降噪器为“辅助型AI”（assistive AI），并表示Wētā正通过Academy Software Foundation打造open-source的AI溯源工具。Kang和Thurston都表示，AI不会取代演员。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kang: la AI recorta hasta un 40%\nNetflix usó AI en 300 títulos",
-          "body": "En Busan, Kang Yoon-sung dijo que la AI recorta hasta un 40% del presupuesto; Netflix la usó en 300 títulos.",
-          "mini_headline": "AI en 300 títulos de Netflix",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-                "cap": "Panel Creative Asia AI"
-              },
-              {
-                "t": "p",
-                "x": "Netflix ha usado AI de una u otra forma en unos 300 de sus títulos, dijo Lee Sung Q, responsable sénior de producción para APAC de la plataforma, ante el público del Busan International Film Festival. En el mismo panel, Kang Yoon-sung, director de “The Outlaws”, afirmó que los flujos de trabajo con AI podrían reducir entre un 30% y un 40% el presupuesto de producción de un largometraje."
-              },
-              {
-                "t": "p",
-                "x": "Lee proyectó un reel de Eyeline, el estudio de VFX de Netflix, sobre producción híbrida que combina imagen real, VFX y herramientas generativas, y un clip en el que AI y VFX crearon juntas escenas de multitudes para “Glory”, de Netflix India."
-              },
-              {
-                "t": "p",
-                "x": "La prueba de AI de Kang para “The Gulf of Aden”, hecha íntegramente con Kling, mostró “una reducción real de alrededor del 40%” al calcularla para la financiación, dijo, no solo por sustituir CG y VFX, sino por un rodaje más sencillo y una producción más corta. Advirtió que las imágenes AI-made pueden perder emoción; Lee coincidió en que “el toque humano es absolutamente esencial”."
-              },
-              {
-                "t": "p",
-                "x": "Kimball Thurston, de Wētā FX, calificó su eliminador de ruido Sci-Tech Award-winning de “AI asistencial” (assistive AI) y dijo que Wētā desarrolla una herramienta open-source de procedencia de AI a través de la Academy Software Foundation. Kang y Thurston coincidieron en que la AI no reemplazará a los actores."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI로 제작비 40% 절감\n300편 쓴 Netflix",
-          "body": "강윤성 감독은 AI로 예산을 최대 40% 줄일 수 있다고 부산에서 말했다.",
-          "mini_headline": "Netflix 300편에 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-                "cap": "Creative Asia AI 패널"
-              },
-              {
-                "t": "p",
-                "x": "Netflix가 어떤 형태로든 AI를 활용한 작품은 약 300편에 이른다고 이 스트리머의 APAC 프로덕션 시니어 디렉터 Lee Sung Q가 Busan International Film Festival(부산국제영화제) 관객 앞에서 밝혔다. 같은 패널에서 “The Outlaws”(범죄도시)의 강윤성(Kang Yoon-sung) 감독은 AI 워크플로가 장편 영화 제작비를 30%에서 40%까지 줄일 수 있다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Lee는 Netflix의 VFX 스튜디오 Eyeline이 실사, VFX, 생성형 도구를 섞은 하이브리드 제작 릴과, Netflix India의 “Glory” 군중 장면을 AI와 VFX로 함께 만든 클립을 상영했다."
-              },
-              {
-                "t": "p",
-                "x": "강윤성(Kang) 감독은 전부 Kling으로 만든 “The Gulf of Aden” AI 테스트에서 투자 유치용으로 계산했을 때 “실제로 약 40% 절감”이 나왔다고 했다. CG와 VFX 대체뿐 아니라 촬영이 단순해지고 제작 기간이 짧아진 덕분이라는 설명이다. 그는 AI-made 이미지가 감정을 잃을 수 있다고 경고했고, Lee도 “인간의 손길이 반드시 필요하다”고 동의했다."
-              },
-              {
-                "t": "p",
-                "x": "Wētā FX의 Kimball Thurston은 Sci-Tech Award-winning 디노이저를 “보조형 AI(assistive AI)”라 부르며, Wētā가 Academy Software Foundation을 통해 open-source AI 출처 추적 도구를 만들고 있다고 밝혔다. Kang과 Thurston은 모두 AI가 배우를 대체하지 못할 것이라고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIで予算最大40%減\nNetflix作品300本に",
-          "body": "Kang Yoon-sung監督は釜山で、AIで映画予算を最大40%削減できると語った。",
-          "mini_headline": "Netflix作品300本にAI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-                "cap": "Creative Asia AIパネル"
-              },
-              {
-                "t": "p",
-                "x": "Netflixは何らかの形で約300本の作品にAIを使ってきたと、同社APAC制作担当シニアディレクターのLee Sung QがBusan International Film Festival(釜山国際映画祭)の聴衆に語った。同じパネルで「The Outlaws」のKang Yoon-sung監督は、AIワークフローで長編映画の制作費を30%から40%削減できると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Leeは、Netflix傘下のVFXスタジオEyelineによる、実写、VFX、生成ツールを組み合わせたハイブリッド制作のリールと、Netflix Indiaの「Glory」でAIとVFXを併用して群衆シーンを作ったクリップを上映した。"
-              },
-              {
-                "t": "p",
-                "x": "Kangによると、すべてKlingで制作した「The Gulf of Aden」のAIテストでは、資金調達向けに試算すると「実際に約40%の削減」になった。CGやVFXの置き換えだけでなく、撮影の簡素化と制作期間の短縮によるものだという。彼はAI-madeの映像は感情を失いかねないと警告し、Leeも「人の手は絶対に欠かせない」と同意した。"
-              },
-              {
-                "t": "p",
-                "x": "Wētā FXのKimball Thurstonは、Sci-Tech Award-winningのデノイザーを「補助的AI(assistive AI)」と呼び、WētāがAcademy Software Foundationを通じてopen-sourceのAI来歴ツールを開発中だと述べた。KangとThurstonはともに、AIが俳優に取って代わることはないと語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI可省40%预算\nNetflix 300部已用",
-          "body": "导演Kang Yoon-sung在釜山称AI最多可将电影预算削减40%。",
-          "mini_headline": "Netflix 300部作品用上AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-                "cap": "Creative Asia AI论坛"
-              },
-              {
-                "t": "p",
-                "x": "Netflix亚太区（APAC）制作高级总监Lee Sung Q在Busan International Film Festival（釜山国际电影节）上对观众表示，Netflix已以各种形式在约300部作品中使用AI。在同一论坛上，《The Outlaws》导演Kang Yoon-sung表示，AI工作流程可让长片制作预算减少30%至40%。"
-              },
-              {
-                "t": "p",
-                "x": "Lee放映了Netflix旗下VFX工作室Eyeline的一段样片，展示融合实拍、VFX与生成式工具的混合制作，还放映了Netflix India的《Glory》中用AI与VFX共同制作群众场面的片段。"
-              },
-              {
-                "t": "p",
-                "x": "Kang表示，他完全用Kling制作的《The Gulf of Aden》AI测试，按融资口径计算“实际降低约40%”——不仅来自替代CG和VFX，还因为拍摄更简单、制作周期更短。他提醒AI-made画面可能丢失情感；Lee也认同“人的触感绝对必不可少”。"
-              },
-              {
-                "t": "p",
-                "x": "Wētā FX的Kimball Thurston称他获Sci-Tech Award-winning的降噪器为“辅助型AI”（assistive AI），并表示Wētā正通过Academy Software Foundation打造open-source的AI溯源工具。Kang和Thurston都表示，AI不会取代演员。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kang: la AI recorta hasta un 40%\nNetflix usó AI en 300 títulos",
-          "body": "En Busan, Kang Yoon-sung dijo que la AI recorta hasta un 40% del presupuesto; Netflix la usó en 300 títulos.",
-          "mini_headline": "AI en 300 títulos de Netflix",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=667&crop=1",
-                "cap": "Panel Creative Asia AI"
-              },
-              {
-                "t": "p",
-                "x": "Netflix ha usado AI de una u otra forma en unos 300 de sus títulos, dijo Lee Sung Q, responsable sénior de producción para APAC de la plataforma, ante el público del Busan International Film Festival. En el mismo panel, Kang Yoon-sung, director de “The Outlaws”, afirmó que los flujos de trabajo con AI podrían reducir entre un 30% y un 40% el presupuesto de producción de un largometraje."
-              },
-              {
-                "t": "p",
-                "x": "Lee proyectó un reel de Eyeline, el estudio de VFX de Netflix, sobre producción híbrida que combina imagen real, VFX y herramientas generativas, y un clip en el que AI y VFX crearon juntas escenas de multitudes para “Glory”, de Netflix India."
-              },
-              {
-                "t": "p",
-                "x": "La prueba de AI de Kang para “The Gulf of Aden”, hecha íntegramente con Kling, mostró “una reducción real de alrededor del 40%” al calcularla para la financiación, dijo, no solo por sustituir CG y VFX, sino por un rodaje más sencillo y una producción más corta. Advirtió que las imágenes AI-made pueden perder emoción; Lee coincidió en que “el toque humano es absolutamente esencial”."
-              },
-              {
-                "t": "p",
-                "x": "Kimball Thurston, de Wētā FX, calificó su eliminador de ruido Sci-Tech Award-winning de “AI asistencial” (assistive AI) y dijo que Wētā desarrolla una herramienta open-source de procedencia de AI a través de la Academy Software Foundation. Kang y Thurston coincidieron en que la AI no reemplazará a los actores."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "movies-peacock-bravoverse",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Peacock 피드에\nAI Andy Cohen",
-      "body": "맞춤형 TikTok-style Bravo 클립 피드가 Peacock에 나온다.",
-      "mini_headline": "AI Andy Cohen의 Peacock 피드",
-      "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/",
+      "source": "AWN",
+      "url": "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -703,345 +411,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-            "cap": "NBCUniversal 제공"
+            "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
           },
           {
             "t": "p",
-            "x": "Peacock이 화요일 Bravo 프로그램 클립을 개인 맞춤형으로 이어 보여주는 “Your Bravoverse”를 내놓는다. TikTok 같은 앱에서 아이디어를 얻었고 진행은 말 많은 Andy Cohen의 AI 아바타가 맡는다. NBCU는 봄에 이 기능을 발표한 뒤 여름 내내 테스트했다."
+            "x": "Astra Studios와 VerSe Innovation이 MIPCOM에서 Astra-Spark Alliance를 결성했다고 발표했다. 두 회사는 영화, 시리즈, 애니메이션, 브랜드 콘텐츠용 AI-native 제작 파이프라인을 같이 만들어 시장에 낸다. 마침 Astra는 새 기술 IP 부문 AstraLabs를 출범했다."
           },
           {
             "t": "p",
-            "x": "Peacock 모바일 앱에서 지금 모든 구독자가 쓸 수 있고 “팬마다 맞춘 Bravo 명장면 맞춤형 피드”를 보여준다. “Watch What Happens Live” 진행자 Cohen의 AI-generated 아바타가 내부자 해설을 곁들여 안내한다."
+            "x": "제휴는 VerSe의 AI 콘텐츠 운영체제 SparkStation 위에 선다. 기획·각본부터 스토리보드, 에셋 생성, 편집, 렌더링, 배급까지 제작 전 과정을 이 시스템이 돌린다. 연속성 엔진은 처음부터 끝까지 얼굴, 표정, 의상, 장소, 소품을 고정하고 60개가 넘는 언어로 작동한다."
           },
           {
             "t": "p",
-            "x": "넘겨 보는 플레이리스트는 5,000시간이 넘는 Bravo 영상에서 자동으로 꾸려진다. NBCU에 따르면 고유한 시청 조합만 600 billion가지가 넘는다. 피드는 AI 기술과 사람 편집자가 함께 짠다. 클립을 누르면 바로 전체 에피소드나 시즌으로 넘어간다."
+            "x": "제작은 AstraLabs가 맡고 모든 단계의 연출은 아티스트가 쥔다. 두 회사는 이렇게 하면 제작비가 \"최대 75%\" 줄고 제작 기간도 몇 달에서 몇 주로 짧아진다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "광고 전략도 담겼다. Cohen의 아바타가 스폰서 브랜드 이름을 직접 소리 내어 부를 수 있다. 출시 때 첫 스폰서는 Wendy’s다."
-          },
-          {
-            "t": "p",
-            "x": "왜 하필 Bravo일까. 회사 설명으로는 Bravo 열성 팬은 한 달에 최대 75편을 보고 Peacock의 Bravo 시청자는 플랫폼 평균 이용자보다 non-Bravo 콘텐츠를 92% 더 많이 본다."
+            "x": "Astra Studios 창업자이자 CEO인 Biren Ghose는 \"Astra-Spark 제휴는 영화적 장인정신을 AI 제작의 구조 안에 들여놓는다\"고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Peacock launches Bravo feed\nhosted by AI Andy Cohen",
-          "body": "Peacock is launching a personalized TikTok-style feed of Bravo clips, hosted by a chatty AI avatar of Andy Cohen.",
-          "mini_headline": "AI Andy Cohen hosts Peacock feed",
+          "headline": "Astra Studios teams with VerSe\non an AI-native film pipeline",
+          "body": "Built on SparkStation, the pipeline runs script to distribution, keeping faces and locations consistent across shots.",
+          "mini_headline": "Astra and VerSe's AI pipeline",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-                "cap": "Courtesy of NBCUniversal"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
               },
               {
                 "t": "p",
-                "x": "On Tuesday, Peacock is bowing “Your Bravoverse,” a personalized stream of clips from Bravo shows, inspired by apps like TikTok, brought to you by a chatty AI avatar of Andy Cohen. NBCU announced the feature in the spring and began testing it over the summer."
+                "x": "Astra Studios and VerSe Innovation have formed the Astra-Spark Alliance, announced at MIPCOM, to co-develop and market an AI-native production pipeline for film, series, animation and brand content. The news coincides with Astra's launch of AstraLabs, its new technology IP arm."
               },
               {
                 "t": "p",
-                "x": "Available now in the Peacock mobile app for all subscribers, it serves up a “personalized feed of Bravo moments tailored to each fan.” An AI-generated avatar of Cohen, host of “Watch What Happens Live,” guides users with insider commentary."
+                "x": "The alliance builds on SparkStation, VerSe's AI content operating system, which runs a production from ideation and scripting through storyboarding, asset generation, editing, rendering and distribution. Its continuity engine locks faces, expressions, wardrobe, locations and props across an entire production, and it works in more than 60 languages."
               },
               {
                 "t": "p",
-                "x": "The swipeable playlist is automatically built from more than 5,000 hours of Bravo footage — with more than 600 billion unique viewing variants, per NBCU. The feeds are assembled using a combination of AI technology and human editors. Users can tap from a clip directly into the full episode or season."
+                "x": "AstraLabs brings the production side, with artists directing every stage. The companies say the model cuts production cost by \"up to 75%\" and timelines from months to weeks."
               },
               {
                 "t": "p",
-                "x": "There is an advertising play too: Cohen’s avatar can audibly reference a sponsor’s brand. Wendy’s joins as the first sponsor at launch."
-              },
-              {
-                "t": "p",
-                "x": "Why Bravo? According to the company, Bravo superfans watch up to 75 episodes per month, and Bravo viewers on Peacock watch 92% more non-Bravo content than the platform user average."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Peacock 피드에\nAI Andy Cohen",
-          "body": "맞춤형 TikTok-style Bravo 클립 피드가 Peacock에 나온다.",
-          "mini_headline": "AI Andy Cohen의 Peacock 피드",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-                "cap": "NBCUniversal 제공"
-              },
-              {
-                "t": "p",
-                "x": "Peacock이 화요일 Bravo 프로그램 클립을 개인 맞춤형으로 이어 보여주는 “Your Bravoverse”를 내놓는다. TikTok 같은 앱에서 아이디어를 얻었고 진행은 말 많은 Andy Cohen의 AI 아바타가 맡는다. NBCU는 봄에 이 기능을 발표한 뒤 여름 내내 테스트했다."
-              },
-              {
-                "t": "p",
-                "x": "Peacock 모바일 앱에서 지금 모든 구독자가 쓸 수 있고 “팬마다 맞춘 Bravo 명장면 맞춤형 피드”를 보여준다. “Watch What Happens Live” 진행자 Cohen의 AI-generated 아바타가 내부자 해설을 곁들여 안내한다."
-              },
-              {
-                "t": "p",
-                "x": "넘겨 보는 플레이리스트는 5,000시간이 넘는 Bravo 영상에서 자동으로 꾸려진다. NBCU에 따르면 고유한 시청 조합만 600 billion가지가 넘는다. 피드는 AI 기술과 사람 편집자가 함께 짠다. 클립을 누르면 바로 전체 에피소드나 시즌으로 넘어간다."
-              },
-              {
-                "t": "p",
-                "x": "광고 전략도 담겼다. Cohen의 아바타가 스폰서 브랜드 이름을 직접 소리 내어 부를 수 있다. 출시 때 첫 스폰서는 Wendy’s다."
-              },
-              {
-                "t": "p",
-                "x": "왜 하필 Bravo일까. 회사 설명으로는 Bravo 열성 팬은 한 달에 최대 75편을 보고 Peacock의 Bravo 시청자는 플랫폼 평균 이용자보다 non-Bravo 콘텐츠를 92% 더 많이 본다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Bravoフィード司会は\nAIのAndy Cohen",
-          "body": "Peacockが個人向けのTikTok-styleなBravoクリップ配信を始める。",
-          "mini_headline": "AIのAndy CohenがPeacockで案内",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-                "cap": "NBCUniversal提供"
-              },
-              {
-                "t": "p",
-                "x": "Peacockは火曜日、Bravo番組のクリップを個人ごとに流す「Your Bravoverse」を開始する。TikTokのようなアプリに着想を得たもので、おしゃべりなAndy CohenのAIアバターが案内役を務める。NBCUは春にこの機能を発表し、夏の間にテストを始めていた。"
-              },
-              {
-                "t": "p",
-                "x": "Peacockモバイルアプリで全加入者がすでに利用でき、「ファン一人ひとりに合わせたBravo名場面のパーソナライズドフィード」を届ける。「Watch What Happens Live」の司会者CohenのAI-generatedアバターが、内輪の解説でユーザーを案内する。"
-              },
-              {
-                "t": "p",
-                "x": "スワイプで見るプレイリストは5,000時間を超えるBravo映像から自動で組まれ、NBCUによれば固有の視聴パターンは600 billion通り以上になる。フィードはAI技術と人間の編集者を組み合わせて編成される。ユーザーはクリップから直接、エピソードやシーズン全体に移れる。"
-              },
-              {
-                "t": "p",
-                "x": "広告面の狙いもある。Cohenのアバターはスポンサーのブランド名を音声で挙げられる。ローンチ時の最初のスポンサーはWendy’sだ。"
-              },
-              {
-                "t": "p",
-                "x": "なぜBravoなのか。同社によると、Bravoの熱心なファンは月に最大75エピソードを視聴し、PeacockのBravo視聴者はプラットフォーム利用者平均より92%多くnon-Bravoコンテンツを見ている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Peacock信息流主持\n是AI版Andy Cohen",
-          "body": "将推出TikTok-style个性化Bravo短片流，由AI版Andy Cohen主持。",
-          "mini_headline": "AI版Andy Cohen主持Peacock信息流",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-                "cap": "图片由NBCUniversal提供"
-              },
-              {
-                "t": "p",
-                "x": "Peacock于周二推出“Your Bravoverse”，这是受TikTok等应用启发、由Bravo节目片段组成的个性化视频流，由健谈的Andy Cohen AI化身主持。NBCU于春季宣布这项功能，并在夏季开始测试。"
-              },
-              {
-                "t": "p",
-                "x": "该功能现已在Peacock移动应用中向所有订阅用户开放，提供“为每位粉丝量身定制的Bravo精彩时刻个性化信息流”。“Watch What Happens Live”主持人Cohen的AI-generated化身会以内部视角解说，引导用户观看。"
-              },
-              {
-                "t": "p",
-                "x": "这一可滑动的播放列表由超过5,000小时的Bravo素材自动生成——据NBCU称，独特观看组合超过600 billion种。信息流由AI技术与人工编辑共同编排。用户可从片段直接点进完整剧集或整季。"
-              },
-              {
-                "t": "p",
-                "x": "广告方面也有布局：Cohen的化身可以口头提及赞助商品牌。Wendy’s是上线时的首个赞助商。"
-              },
-              {
-                "t": "p",
-                "x": "为何选择Bravo？据该公司称，Bravo超级粉丝每月最多观看75集，而Peacock上的Bravo观众观看non-Bravo内容的量比平台用户平均水平高出92%。"
+                "x": "\"The Astra-Spark alliance puts cinematic craft inside the architecture of AI production,\" said Biren Ghose, founder and CEO of Astra Studios."
               }
             ]
           }
         },
         "es": {
-          "headline": "Peacock lanza un feed de Bravo\npresentado por un Andy Cohen AI",
-          "body": "Peacock lanza un feed personalizado TikTok-style de clips de Bravo, presentado por un locuaz avatar AI de Andy Cohen.",
-          "mini_headline": "Un Andy Cohen AI presenta el feed de Peacock",
+          "headline": "Astra Studios se alía con VerSe\nen un pipeline AI-native de cine",
+          "body": "Sobre SparkStation, el pipeline va del guion a la distribución con rostros y escenarios coherentes entre planos.",
+          "mini_headline": "El pipeline AI de Astra y VerSe",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-                "cap": "Cortesía de NBCUniversal"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
               },
               {
                 "t": "p",
-                "x": "El martes, Peacock estrena “Your Bravoverse”, un flujo personalizado de clips de programas de Bravo inspirado en apps como TikTok y presentado por un locuaz avatar AI de Andy Cohen. NBCU anunció la función en primavera y empezó a probarla durante el verano."
+                "x": "Astra Studios y VerSe Innovation formaron la Astra-Spark Alliance, anunciada en MIPCOM, para desarrollar y comercializar de forma conjunta un pipeline de producción AI-native para cine, series, animación y contenido de marca. La noticia coincide con el lanzamiento de AstraLabs, el nuevo brazo de IP tecnológica de Astra."
               },
               {
                 "t": "p",
-                "x": "Ya disponible en la app móvil de Peacock para todos los suscriptores, ofrece un “feed personalizado de momentos de Bravo adaptado a cada fan”. Un avatar AI-generated de Cohen, presentador de “Watch What Happens Live”, guía a los usuarios con comentarios de primera mano."
+                "x": "La alianza se basa en SparkStation, el sistema operativo de contenido con AI de VerSe, que gestiona una producción desde la ideación y el guion hasta el storyboard, la generación de recursos, la edición, el renderizado y la distribución. Su motor de continuidad fija rostros, expresiones, vestuario, escenarios y utilería en toda la producción, y funciona en más de 60 idiomas."
               },
               {
                 "t": "p",
-                "x": "La lista de reproducción, que se recorre deslizando, se construye automáticamente a partir de más de 5,000 horas de material de Bravo, con más de 600 mil millones de variantes de visionado únicas, según NBCU. Los feeds se arman combinando tecnología AI y editores humanos. Desde un clip, los usuarios pueden pasar directamente al episodio o la temporada completos."
+                "x": "AstraLabs aporta la parte de producción, con artistas que dirigen cada etapa. Las empresas afirman que el modelo reduce el costo de producción \"hasta un 75%\" y acorta los plazos de meses a semanas."
               },
               {
                 "t": "p",
-                "x": "También hay una apuesta publicitaria: el avatar de Cohen puede mencionar en voz alta la marca de un patrocinador. Wendy’s es el primer patrocinador en el lanzamiento."
+                "x": "\"La alianza Astra-Spark sitúa el oficio cinematográfico dentro de la arquitectura de la producción con AI\", dijo Biren Ghose, fundador y CEO de Astra Studios."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Astra·VerSe 맞손\nAI-native 영화제작",
+          "body": "SparkStation으로 각본부터 배급까지 잇고 컷마다 얼굴·장소를 지킨다.",
+          "mini_headline": "Astra·VerSe의 AI 파이프라인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
               },
               {
                 "t": "p",
-                "x": "¿Por qué Bravo? Según la compañía, los superfans de Bravo ven hasta 75 episodios al mes, y los espectadores de Bravo en Peacock ven un 92% más de contenido non-Bravo que el promedio de usuarios de la plataforma."
+                "x": "Astra Studios와 VerSe Innovation이 MIPCOM에서 Astra-Spark Alliance를 결성했다고 발표했다. 두 회사는 영화, 시리즈, 애니메이션, 브랜드 콘텐츠용 AI-native 제작 파이프라인을 같이 만들어 시장에 낸다. 마침 Astra는 새 기술 IP 부문 AstraLabs를 출범했다."
+              },
+              {
+                "t": "p",
+                "x": "제휴는 VerSe의 AI 콘텐츠 운영체제 SparkStation 위에 선다. 기획·각본부터 스토리보드, 에셋 생성, 편집, 렌더링, 배급까지 제작 전 과정을 이 시스템이 돌린다. 연속성 엔진은 처음부터 끝까지 얼굴, 표정, 의상, 장소, 소품을 고정하고 60개가 넘는 언어로 작동한다."
+              },
+              {
+                "t": "p",
+                "x": "제작은 AstraLabs가 맡고 모든 단계의 연출은 아티스트가 쥔다. 두 회사는 이렇게 하면 제작비가 \"최대 75%\" 줄고 제작 기간도 몇 달에서 몇 주로 짧아진다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Astra Studios 창업자이자 CEO인 Biren Ghose는 \"Astra-Spark 제휴는 영화적 장인정신을 AI 제작의 구조 안에 들여놓는다\"고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Astra・VerSe提携\nAI-native映画制作",
+          "body": "SparkStation基盤で脚本から配信まで担い、顔や場所をショット間で保つ。",
+          "mini_headline": "AstraとVerSeのAIパイプライン",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+              },
+              {
+                "t": "p",
+                "x": "Astra StudiosとVerSe InnovationはMIPCOMでAstra-Spark Allianceの結成を発表した。映画、シリーズ、アニメーション、ブランドコンテンツ向けのAI-native制作パイプラインを共同で開発し、市場に展開する。発表はAstraが新たな技術IP部門AstraLabsを立ち上げた時期と重なる。"
+              },
+              {
+                "t": "p",
+                "x": "提携の土台はVerSeのAIコンテンツOS、SparkStationだ。企画と脚本からストーリーボード、アセット生成、編集、レンダリング、配信まで制作全体を動かす。コンティニュイティエンジンが制作全体を通じて顔、表情、衣装、場所、小道具を固定し、60を超える言語で動作する。"
+              },
+              {
+                "t": "p",
+                "x": "制作面はAstraLabsが担い、アーティストが全工程を指揮する。両社によれば、このモデルは制作費を「最大75%」削減し、制作期間を数か月から数週間に縮める。"
+              },
+              {
+                "t": "p",
+                "x": "Astra Studios創業者兼CEOのBiren Ghoseは「Astra-Spark提携は、映画の職人技をAI制作の構造の内側に据える」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Astra携手VerSe\nAI-native影视管线",
+          "body": "该管线基于SparkStation，从剧本到发行全程运行，跨镜头保持人脸与场景一致。",
+          "mini_headline": "Astra与VerSe的AI管线",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+              },
+              {
+                "t": "p",
+                "x": "Astra Studios与VerSe Innovation在MIPCOM上宣布组建Astra-Spark Alliance，共同开发并推广面向电影、剧集、动画和品牌内容的AI-native制作管线。消息发布之际，Astra同时推出了新的技术IP部门AstraLabs。"
+              },
+              {
+                "t": "p",
+                "x": "该联盟以VerSe的AI内容操作系统SparkStation为基础，覆盖从创意构思、剧本写作到分镜、素材生成、剪辑、渲染和发行的整个制作流程。其连续性引擎在整部作品中锁定人脸、表情、服装、场景和道具，并支持60多种语言。"
+              },
+              {
+                "t": "p",
+                "x": "AstraLabs负责制作端，由艺术家主导每个环节。两家公司表示，这一模式可将制作成本降低\"最多75%\"，并把制作周期从数月缩短到数周。"
+              },
+              {
+                "t": "p",
+                "x": "Astra Studios创始人兼CEO Biren Ghose表示：\"Astra-Spark联盟把电影工艺放进了AI制作的架构之中。\""
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Peacock 피드에\nAI Andy Cohen",
-          "body": "맞춤형 TikTok-style Bravo 클립 피드가 Peacock에 나온다.",
-          "mini_headline": "AI Andy Cohen의 Peacock 피드",
+        "es": {
+          "headline": "Astra Studios se alía con VerSe\nen un pipeline AI-native de cine",
+          "body": "Sobre SparkStation, el pipeline va del guion a la distribución con rostros y escenarios coherentes entre planos.",
+          "mini_headline": "El pipeline AI de Astra y VerSe",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-                "cap": "NBCUniversal 제공"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
               },
               {
                 "t": "p",
-                "x": "Peacock은 화요일 Bravo 프로그램 클립을 개인 맞춤형으로 이어 보여주는 “Your Bravoverse”를 선보인다. TikTok 같은 앱에서 착안했으며, 말 많은 Andy Cohen의 AI 아바타가 진행을 맡는다. NBCU는 봄에 이 기능을 발표하고 여름 동안 테스트했다."
+                "x": "Astra Studios y VerSe Innovation formaron la Astra-Spark Alliance, anunciada en MIPCOM, para desarrollar y comercializar de forma conjunta un pipeline de producción AI-native para cine, series, animación y contenido de marca. La noticia coincide con el lanzamiento de AstraLabs, el nuevo brazo de IP tecnológica de Astra."
               },
               {
                 "t": "p",
-                "x": "Peacock 모바일 앱에서 모든 구독자가 지금 이용할 수 있으며, “팬마다 맞춘 Bravo 명장면 맞춤형 피드”를 제공한다. “Watch What Happens Live” 진행자인 Cohen의 AI-generated 아바타가 내부자 해설로 이용자를 안내한다."
+                "x": "La alianza se basa en SparkStation, el sistema operativo de contenido con AI de VerSe, que gestiona una producción desde la ideación y el guion hasta el storyboard, la generación de recursos, la edición, el renderizado y la distribución. Su motor de continuidad fija rostros, expresiones, vestuario, escenarios y utilería en toda la producción, y funciona en más de 60 idiomas."
               },
               {
                 "t": "p",
-                "x": "넘겨 보는 플레이리스트는 5,000시간이 넘는 Bravo 영상으로 자동 구성되며, NBCU에 따르면 고유한 시청 조합이 600 billion가지가 넘는다. 피드는 AI 기술과 사람 편집자가 함께 구성한다. 이용자는 클립을 눌러 바로 전체 에피소드나 시즌으로 넘어갈 수 있다."
+                "x": "AstraLabs aporta la parte de producción, con artistas que dirigen cada etapa. Las empresas afirman que el modelo reduce el costo de producción \"hasta un 75%\" y acorta los plazos de meses a semanas."
               },
               {
                 "t": "p",
-                "x": "광고 전략도 있다. Cohen의 아바타가 스폰서 브랜드를 소리 내어 언급할 수 있다. 출시 시점의 첫 스폰서는 Wendy’s다."
+                "x": "\"La alianza Astra-Spark sitúa el oficio cinematográfico dentro de la arquitectura de la producción con AI\", dijo Biren Ghose, fundador y CEO de Astra Studios."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Astra·VerSe 맞손\nAI-native 영화제작",
+          "body": "SparkStation 기반으로 각본부터 배급까지, 컷마다 얼굴·장소를 지킨다.",
+          "mini_headline": "Astra·VerSe의 AI 파이프라인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
               },
               {
                 "t": "p",
-                "x": "왜 Bravo일까? 회사에 따르면 Bravo 열성 팬은 한 달에 최대 75편을 보고, Peacock의 Bravo 시청자는 플랫폼 평균 이용자보다 non-Bravo 콘텐츠를 92% 더 많이 본다."
+                "x": "Astra Studios와 VerSe Innovation이 MIPCOM에서 Astra-Spark Alliance 결성을 발표했다. 두 회사는 영화, 시리즈, 애니메이션, 브랜드 콘텐츠를 위한 AI-native 제작 파이프라인을 함께 개발하고 시장에 내놓는다. 발표는 Astra가 새 기술 IP 부문 AstraLabs를 출범한 시점과 맞물린다."
+              },
+              {
+                "t": "p",
+                "x": "이번 제휴의 바탕은 VerSe의 AI 콘텐츠 운영체제 SparkStation이다. 기획과 각본에서 스토리보드, 에셋 생성, 편집, 렌더링, 배급까지 제작 전 과정을 운영한다. 연속성 엔진이 제작 전체에 걸쳐 얼굴, 표정, 의상, 장소, 소품을 고정하며, 60개가 넘는 언어로 작동한다."
+              },
+              {
+                "t": "p",
+                "x": "AstraLabs는 제작을 맡고, 아티스트가 모든 단계를 연출한다. 두 회사는 이 방식이 제작비를 \"최대 75%\" 줄이고 제작 기간을 몇 달에서 몇 주로 단축한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Astra Studios 창업자이자 CEO인 Biren Ghose는 \"Astra-Spark 제휴는 영화적 장인정신을 AI 제작의 구조 안에 들여놓는다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bravoフィード司会は\nAIのAndy Cohen",
-          "body": "Peacockが個人向けのTikTok-styleなBravoクリップ配信を始める。",
-          "mini_headline": "AIのAndy CohenがPeacockで案内",
+          "headline": "Astra・VerSe提携\nAI-native映画制作",
+          "body": "SparkStation基盤で脚本から配信まで担い、顔や場所をショット間で保つ。",
+          "mini_headline": "AstraとVerSeのAIパイプライン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-                "cap": "NBCUniversal提供"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
               },
               {
                 "t": "p",
-                "x": "Peacockは火曜日、Bravo番組のクリップを個人ごとに流す「Your Bravoverse」を開始する。TikTokのようなアプリに着想を得たもので、おしゃべりなAndy CohenのAIアバターが案内役を務める。NBCUは春にこの機能を発表し、夏の間にテストを始めていた。"
+                "x": "Astra StudiosとVerSe InnovationはMIPCOMでAstra-Spark Allianceの結成を発表した。映画、シリーズ、アニメーション、ブランドコンテンツ向けのAI-native制作パイプラインを共同で開発し、市場に展開する。発表はAstraが新たな技術IP部門AstraLabsを立ち上げた時期と重なる。"
               },
               {
                 "t": "p",
-                "x": "Peacockモバイルアプリで全加入者がすでに利用でき、「ファン一人ひとりに合わせたBravo名場面のパーソナライズドフィード」を届ける。「Watch What Happens Live」の司会者CohenのAI-generatedアバターが、内輪の解説でユーザーを案内する。"
+                "x": "提携の土台はVerSeのAIコンテンツOS、SparkStationだ。企画と脚本からストーリーボード、アセット生成、編集、レンダリング、配信まで制作全体を動かす。コンティニュイティエンジンが制作全体を通じて顔、表情、衣装、場所、小道具を固定し、60を超える言語で動作する。"
               },
               {
                 "t": "p",
-                "x": "スワイプで見るプレイリストは5,000時間を超えるBravo映像から自動で組まれ、NBCUによれば固有の視聴パターンは600 billion通り以上になる。フィードはAI技術と人間の編集者を組み合わせて編成される。ユーザーはクリップから直接、エピソードやシーズン全体に移れる。"
+                "x": "制作面はAstraLabsが担い、アーティストが全工程を指揮する。両社によれば、このモデルは制作費を「最大75%」削減し、制作期間を数か月から数週間に縮める。"
               },
               {
                 "t": "p",
-                "x": "広告面の狙いもある。Cohenのアバターはスポンサーのブランド名を音声で挙げられる。ローンチ時の最初のスポンサーはWendy’sだ。"
-              },
-              {
-                "t": "p",
-                "x": "なぜBravoなのか。同社によると、Bravoの熱心なファンは月に最大75エピソードを視聴し、PeacockのBravo視聴者はプラットフォーム利用者平均より92%多くnon-Bravoコンテンツを見ている。"
+                "x": "Astra Studios創業者兼CEOのBiren Ghoseは「Astra-Spark提携は、映画の職人技をAI制作の構造の内側に据える」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Peacock信息流主持\n是AI版Andy Cohen",
-          "body": "将推出TikTok-style个性化Bravo短片流，由AI版Andy Cohen主持。",
-          "mini_headline": "AI版Andy Cohen主持Peacock信息流",
+          "headline": "Astra携手VerSe\nAI-native影视管线",
+          "body": "该管线基于SparkStation，从剧本到发行全程运行，跨镜头保持人脸与场景一致。",
+          "mini_headline": "Astra与VerSe的AI管线",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-                "cap": "图片由NBCUniversal提供"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
               },
               {
                 "t": "p",
-                "x": "Peacock于周二推出“Your Bravoverse”，这是受TikTok等应用启发、由Bravo节目片段组成的个性化视频流，由健谈的Andy Cohen AI化身主持。NBCU于春季宣布这项功能，并在夏季开始测试。"
+                "x": "Astra Studios与VerSe Innovation在MIPCOM上宣布组建Astra-Spark Alliance，共同开发并推广面向电影、剧集、动画和品牌内容的AI-native制作管线。消息发布之际，Astra同时推出了新的技术IP部门AstraLabs。"
               },
               {
                 "t": "p",
-                "x": "该功能现已在Peacock移动应用中向所有订阅用户开放，提供“为每位粉丝量身定制的Bravo精彩时刻个性化信息流”。“Watch What Happens Live”主持人Cohen的AI-generated化身会以内部视角解说，引导用户观看。"
+                "x": "该联盟以VerSe的AI内容操作系统SparkStation为基础，覆盖从创意构思、剧本写作到分镜、素材生成、剪辑、渲染和发行的整个制作流程。其连续性引擎在整部作品中锁定人脸、表情、服装、场景和道具，并支持60多种语言。"
               },
               {
                 "t": "p",
-                "x": "这一可滑动的播放列表由超过5,000小时的Bravo素材自动生成——据NBCU称，独特观看组合超过600 billion种。信息流由AI技术与人工编辑共同编排。用户可从片段直接点进完整剧集或整季。"
+                "x": "AstraLabs负责制作端，由艺术家主导每个环节。两家公司表示，这一模式可将制作成本降低\"最多75%\"，并把制作周期从数月缩短到数周。"
               },
               {
                 "t": "p",
-                "x": "广告方面也有布局：Cohen的化身可以口头提及赞助商品牌。Wendy’s是上线时的首个赞助商。"
-              },
-              {
-                "t": "p",
-                "x": "为何选择Bravo？据该公司称，Bravo超级粉丝每月最多观看75集，而Peacock上的Bravo观众观看non-Bravo内容的量比平台用户平均水平高出92%。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Peacock lanza un feed de Bravo\npresentado por un Andy Cohen AI",
-          "body": "Peacock lanza un feed personalizado TikTok-style de clips de Bravo, presentado por un locuaz avatar AI de Andy Cohen.",
-          "mini_headline": "Un Andy Cohen AI presenta el feed de Peacock",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-                "cap": "Cortesía de NBCUniversal"
-              },
-              {
-                "t": "p",
-                "x": "El martes, Peacock estrena “Your Bravoverse”, un flujo personalizado de clips de programas de Bravo inspirado en apps como TikTok y presentado por un locuaz avatar AI de Andy Cohen. NBCU anunció la función en primavera y empezó a probarla durante el verano."
-              },
-              {
-                "t": "p",
-                "x": "Ya disponible en la app móvil de Peacock para todos los suscriptores, ofrece un “feed personalizado de momentos de Bravo adaptado a cada fan”. Un avatar AI-generated de Cohen, presentador de “Watch What Happens Live”, guía a los usuarios con comentarios de primera mano."
-              },
-              {
-                "t": "p",
-                "x": "La lista de reproducción, que se recorre deslizando, se construye automáticamente a partir de más de 5,000 horas de material de Bravo, con más de 600 mil millones de variantes de visionado únicas, según NBCU. Los feeds se arman combinando tecnología AI y editores humanos. Desde un clip, los usuarios pueden pasar directamente al episodio o la temporada completos."
-              },
-              {
-                "t": "p",
-                "x": "También hay una apuesta publicitaria: el avatar de Cohen puede mencionar en voz alta la marca de un patrocinador. Wendy’s es el primer patrocinador en el lanzamiento."
-              },
-              {
-                "t": "p",
-                "x": "¿Por qué Bravo? Según la compañía, los superfans de Bravo ven hasta 75 episodios al mes, y los espectadores de Bravo en Peacock ven un 92% más de contenido non-Bravo que el promedio de usuarios de la plataforma."
+                "x": "Astra Studios创始人兼CEO Biren Ghose表示：\"Astra-Spark联盟把电影工艺放进了AI制作的架构之中。\""
               }
             ]
           }
@@ -1049,15 +707,15 @@
       }
     },
     {
-      "id": "movies-acfm-busan",
+      "id": "movies-celebrity-deepfakes",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Busan 영화 마켓\nAI·마이크로드라마 주목",
-      "body": "Bexco에서 10-13일 열린 ACFM이 AI·마이크로드라마를 새로 조명했다.",
-      "mini_headline": "Busan 마켓, AI에 초점",
+      "headline": "유명인 AI 딥페이크가\n소셜 피드를 덮다",
+      "body": "가짜 Mia Goth 사진이 AI 표시 없이 좋아요 500,000개 가까이 받았다.",
+      "mini_headline": "유명인 딥페이크 확산",
       "tool": "Movies",
-      "source": "Screen Daily",
-      "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -1065,233 +723,461 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-            "cap": "Asian Contents & Film Market이 열리는 Busan Exhibition & Convention Center"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
           },
           {
             "t": "p",
-            "x": "Asian Contents & Film Market(ACFM)이 21번째(21st) 행사를 10월 10-13일 부산 Bexco에서 연다. 세일즈와 스트리밍, IP, 인공지능, 마이크로드라마, 국제 공동제작(co-production)이 만나는 자리를 내세운다."
+            "x": "유명인 AI 사진과 영상이 소셜 미디어에서 수백만 조회수를 올린다. 배우 Mia Goth의 AI-generated Instagram 이미지가 그랬다. 팔로워가 백만 명이 넘는 인증 팬 계정이 올린 이 이미지는 좋아요를 500,000개 가까이 받았고 Instagram이 계정을 지울 때까지 가십 사이트와 Google의 AI 개요를 타고 퍼졌다."
           },
           {
             "t": "p",
-            "x": "ACFM 디렉터 Ellen YD Kim은 “업계가 갈림길에 서 있으며, ACFM은 아시아 영화 산업에 지도를 제시하고자 한다”고 말했다. 올해 의제는 일곱 개 부문, 64개 프로그램이다."
+            "x": "Scarlett Johansson 같은 스타의 선정적인 AI 이미지를 올리는 계정도 있다. Taylor Swift의 AI 영상은 수백만 조회수를 찍는다. The Verge가 계정 여덟 곳을 묻자 Meta는 일부를 지웠다고 답했다."
           },
           {
             "t": "p",
-            "x": "지난해 출범한 InnoAsia는 생성형 AI와 신기술을 앞세워 44개 기관과 기업을 한자리에 모은다. Kling AI는 생성형 기술이 영화 제작을 어떻게 바꿀지 다루는 세션을 공동 주최(co-host)한다. 크리에이터 부트캠프와 AI 영화 works-in-progress 쇼케이스도 함께 열린다."
-          },
-          {
-            "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-            "cap": "ACFM 디렉터 Ellen YD Kim"
+            "x": "YouTube는 초상 감지 기능으로 삭제 요청을 받는다. 2026년 상반기 이 프로그램으로 신고된 영상은 95퍼센트 이상 내려갔다."
           },
           {
             "t": "p",
-            "x": "Kim은 “AI가 영화 산업에 어떤 영향을 미치는지 큰 그림을 보여주고 싶다”며 “AI는 우리 비즈니스의 패러다임을 계속 바꾸고 있어 더 깊이 들어가고자 한다”고 했다."
-          },
-          {
-            "t": "p",
-            "x": "마이크로드라마를 향한 관심도 비슷하다. 아시아 일부 지역, 특히 중국에서 short-form 서사 엔터테인먼트가 커지는 흐름을 반영했다."
+            "x": "Meta는 정지 이미지를 AI 표시 의무에서 빼 두었다. Meta 규정대로라면 가짜 Goth 이미지에는 고지가 필요 없었던 셈이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Busan's film market turns\nto AI and microdramas",
-          "body": "Busan's Asian Contents & Film Market, held October 10-13 at Bexco, added a focus on AI and microdramas.",
-          "mini_headline": "Busan market adds AI focus",
+          "headline": "Celebrity AI deepfakes are\nflooding social feeds",
+          "body": "Meta doesn't require AI labels on still images, so a fake Mia Goth post drew nearly 500,000 likes undisclosed.",
+          "mini_headline": "Celebrity deepfakes spread",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-                "cap": "Busan Exhibition & Convention Center hosts the Asian Contents & Film Market"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "The Asian Contents & Film Market (ACFM) returns for its 21st edition, running October 10-13 at Busan’s Bexco and positioning itself as a meeting point for sales, streaming, IP, artificial intelligence, microdramas and international co-production."
+                "x": "AI photos and videos of celebrities are racking up millions of views on social media. An AI-generated Instagram image of actress Mia Goth, posted by a verified fan account with more than a million followers, drew nearly 500,000 likes and spread through gossip sites and Google's AI overview before Instagram removed the account."
               },
               {
                 "t": "p",
-                "x": "“The industry is at a crossroads and the ACFM aims to offer a map for the Asian film industry,” says ACFM director Ellen YD Kim. This year’s agenda comprises 64 programmes across seven strands."
+                "x": "Accounts post sexualized AI images of stars like Scarlett Johansson, and AI videos of Taylor Swift rack up millions of views. After The Verge asked about eight accounts, Meta said it had removed some."
               },
               {
                 "t": "p",
-                "x": "InnoAsia, launched last year, places generative AI and emerging technologies front and centre, bringing together 44 organisations and companies. Kling AI will co-host a session on how generative technology could reshape filmmaking, alongside a creator bootcamp and a works-in-progress showcase for AI films."
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-                "cap": "ACFM director Ellen YD Kim"
+                "x": "YouTube's likeness detection lets people request takedowns; it removed over 95 percent of videos reported through the program in the first half of 2026."
               },
               {
                 "t": "p",
-                "x": "“We want to show the big picture of how AI is influencing the film industry,” says Kim. “It continues to change the paradigm of our business, so we want to go deeper.”"
-              },
-              {
-                "t": "p",
-                "x": "Microdrama gets similar attention, reflecting the growth of short-form narrative entertainment in parts of Asia, particularly China."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Busan 영화 마켓\nAI·마이크로드라마 주목",
-          "body": "Bexco에서 10-13일 열린 ACFM이 AI·마이크로드라마를 새로 조명했다.",
-          "mini_headline": "Busan 마켓, AI에 초점",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-                "cap": "Asian Contents & Film Market이 열리는 Busan Exhibition & Convention Center"
-              },
-              {
-                "t": "p",
-                "x": "Asian Contents & Film Market(ACFM)이 21번째(21st) 행사를 10월 10-13일 부산 Bexco에서 연다. 세일즈와 스트리밍, IP, 인공지능, 마이크로드라마, 국제 공동제작(co-production)이 만나는 자리를 내세운다."
-              },
-              {
-                "t": "p",
-                "x": "ACFM 디렉터 Ellen YD Kim은 “업계가 갈림길에 서 있으며, ACFM은 아시아 영화 산업에 지도를 제시하고자 한다”고 말했다. 올해 의제는 일곱 개 부문, 64개 프로그램이다."
-              },
-              {
-                "t": "p",
-                "x": "지난해 출범한 InnoAsia는 생성형 AI와 신기술을 앞세워 44개 기관과 기업을 한자리에 모은다. Kling AI는 생성형 기술이 영화 제작을 어떻게 바꿀지 다루는 세션을 공동 주최(co-host)한다. 크리에이터 부트캠프와 AI 영화 works-in-progress 쇼케이스도 함께 열린다."
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-                "cap": "ACFM 디렉터 Ellen YD Kim"
-              },
-              {
-                "t": "p",
-                "x": "Kim은 “AI가 영화 산업에 어떤 영향을 미치는지 큰 그림을 보여주고 싶다”며 “AI는 우리 비즈니스의 패러다임을 계속 바꾸고 있어 더 깊이 들어가고자 한다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "마이크로드라마를 향한 관심도 비슷하다. 아시아 일부 지역, 특히 중국에서 short-form 서사 엔터테인먼트가 커지는 흐름을 반영했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Busanの映画市場\nAIとマイクロドラマへ",
-          "body": "Bexcoで10月10-13日に開かれたACFMが、AIとマイクロドラマに焦点を当てた。",
-          "mini_headline": "Busanの市場、AIに焦点",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-                "cap": "Asian Contents & Film Marketが開かれるBusan Exhibition & Convention Center"
-              },
-              {
-                "t": "p",
-                "x": "Asian Contents & Film Market(ACFM)は21回目(21st)を迎え、10月10-13日に釜山のBexcoで開催される。セールス、ストリーミング、IP、人工知能、マイクロドラマ、国際共同製作(co-production)が交わる場を目指す。"
-              },
-              {
-                "t": "p",
-                "x": "ACFMディレクターのEllen YD Kimは「業界は岐路に立っており、ACFMはアジア映画産業に地図を示したい」と語る。今年のアジェンダは七つの部門にわたる64のプログラムで構成される。"
-              },
-              {
-                "t": "p",
-                "x": "昨年始まったInnoAsiaは生成AIと新興技術を前面に打ち出し、44の団体・企業が集まる。Kling AIは生成技術が映画制作をどう変えうるかを探るセッションを共催(co-host)し、クリエイター向けブートキャンプやAI映画のworks-in-progressショーケースも行われる。"
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-                "cap": "ACFMディレクターのEllen YD Kim"
-              },
-              {
-                "t": "p",
-                "x": "Kimは「AIが映画産業にどう影響しているのか、全体像を示したい」と話し、「AIはビジネスのパラダイムを変え続けているので、さらに深く掘り下げたい」と続けた。"
-              },
-              {
-                "t": "p",
-                "x": "マイクロドラマにも同様の注目が集まる。アジアの一部、特に中国でshort-formの物語エンターテインメントが成長していることを反映している。"
+                "x": "On Meta, still images are exempt from the AI labeling requirement, so the fake Goth image wouldn't have required a disclosure under Meta's rules."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Busan电影市场\n聚焦AI与微短剧",
-          "body": "10月10-13日在Bexco举办的ACFM新增了AI与微短剧板块。",
-          "mini_headline": "Busan市场聚焦AI",
+          "headline": "名人AI深度伪造\n充斥社交媒体",
+          "body": "Meta不要求静态图片标注AI，假Mia Goth帖子未经标注获近500,000次点赞。",
+          "mini_headline": "名人深度伪造泛滥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-                "cap": "Busan Exhibition & Convention Center举办Asian Contents & Film Market"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Asian Contents & Film Market（ACFM）迎来第21届（21st），于10月10-13日在釜山Bexco举行，定位为销售、流媒体、IP、人工智能、微短剧与国际合拍（co-production）的交汇点。"
+                "x": "名人的AI照片和视频正在社交媒体上收获数百万次观看。一个拥有逾百万粉丝的认证粉丝账号发布了一张演员Mia Goth的AI-generated Instagram图片，获得近500,000个赞，并在Instagram删除该账号之前经由八卦网站和Google的AI概览广泛传播。"
               },
               {
                 "t": "p",
-                "x": "ACFM总监Ellen YD Kim表示：“行业正处在十字路口，ACFM希望为亚洲电影产业提供一张地图。”今年的议程涵盖七个板块共64场活动。"
+                "x": "一些账号发布Scarlett Johansson等明星的色情化AI图片，Taylor Swift的AI视频也获得数百万次观看。The Verge就八个账号询问后，Meta表示已删除其中一部分。"
               },
               {
                 "t": "p",
-                "x": "去年推出的InnoAsia将生成式AI和新兴技术置于核心位置，汇聚44家机构与公司。Kling AI将联合主办（co-host）一场探讨生成式技术如何重塑电影制作的论坛，同期还有创作者训练营和AI电影works-in-progress展示。"
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-                "cap": "ACFM总监Ellen YD Kim"
+                "x": "YouTube的肖像检测功能允许用户申请下架；2026年上半年，通过该计划举报的视频中有超过95%被移除。"
               },
               {
                 "t": "p",
-                "x": "Kim说：“我们希望展示AI如何影响电影产业的全貌。它在不断改变我们这个行业的范式，所以我们想更深入。”"
-              },
-              {
-                "t": "p",
-                "x": "微短剧也获得了类似关注，这反映出short-form叙事娱乐在亚洲部分地区、尤其是中国的增长。"
+                "x": "在Meta平台上，静态图片不受AI标注要求约束，因此按照Meta的规定，这张假Goth图片无需披露。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mercado de cine de Busan\napuesta por AI y microdramas",
-          "body": "El Asian Contents & Film Market de Busan, celebrado del 10-13 de octubre en Bexco, sumó un foco en AI y microdramas.",
-          "mini_headline": "El mercado de Busan suma foco en AI",
+          "headline": "Los deepfakes de famosos con AI\ninundan las redes sociales",
+          "body": "Meta no exige etiquetas de AI en imágenes fijas, y una imagen falsa de Mia Goth logró casi 500,000 me gusta sin aviso.",
+          "mini_headline": "Se propagan deepfakes de famosos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-                "cap": "El Busan Exhibition & Convention Center acoge el Asian Contents & Film Market"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "El Asian Contents & Film Market (ACFM) vuelve en su 21.ª edición (21st), del 10-13 de octubre en el Bexco de Busan, y se presenta como punto de encuentro para ventas, streaming, IP, inteligencia artificial, microdramas y coproducción internacional (co-production)."
+                "x": "Las fotos y videos de famosos creados con AI acumulan millones de visualizaciones en redes sociales. Una imagen AI-generated de Instagram de la actriz Mia Goth, publicada por una cuenta de fans verificada con más de un millón de seguidores, obtuvo casi 500,000 me gusta y se difundió por sitios de chismes y el resumen de AI de Google antes de que Instagram eliminara la cuenta."
               },
               {
                 "t": "p",
-                "x": "“La industria está en una encrucijada y el ACFM aspira a ofrecer un mapa para la industria cinematográfica asiática”, dice la directora del ACFM, Ellen YD Kim. La agenda de este año reúne 64 programas en siete líneas."
+                "x": "Hay cuentas que publican imágenes sexualizadas con AI de estrellas como Scarlett Johansson, y los videos con AI de Taylor Swift suman millones de visualizaciones. Después de que The Verge preguntara por ocho cuentas, Meta dijo que había eliminado algunas."
               },
               {
                 "t": "p",
-                "x": "InnoAsia, lanzado el año pasado, sitúa la AI generativa y las tecnologías emergentes en primer plano y reúne a 44 organizaciones y empresas. Kling AI coorganizará (co-host) una sesión sobre cómo la tecnología generativa podría transformar el cine, junto con un bootcamp para creadores y una muestra de works-in-progress de películas hechas con AI."
+                "x": "La detección de semejanza de YouTube permite solicitar retiradas; en el primer semestre de 2026 eliminó más del 95 por ciento de los videos denunciados a través del programa."
               },
+              {
+                "t": "p",
+                "x": "En Meta, las imágenes fijas están exentas del requisito de etiquetado de AI, por lo que la imagen falsa de Goth no habría requerido aviso según las normas de Meta."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "유명인 AI 딥페이크가\n소셜 피드를 덮다",
+          "body": "가짜 Mia Goth 사진이 AI 표시 없이 좋아요 500,000개 가까이 받았다.",
+          "mini_headline": "유명인 딥페이크 확산",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-                "cap": "Ellen YD Kim, directora del ACFM"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "“Queremos mostrar el panorama general de cómo la AI está influyendo en la industria del cine”, dice Kim. “Sigue cambiando el paradigma de nuestro negocio, así que queremos profundizar más”."
+                "x": "유명인 AI 사진과 영상이 소셜 미디어에서 수백만 조회수를 올린다. 배우 Mia Goth의 AI-generated Instagram 이미지가 그랬다. 팔로워가 백만 명이 넘는 인증 팬 계정이 올린 이 이미지는 좋아요를 500,000개 가까이 받았고 Instagram이 계정을 지울 때까지 가십 사이트와 Google의 AI 개요를 타고 퍼졌다."
               },
               {
                 "t": "p",
-                "x": "El microdrama recibe una atención similar, reflejo del crecimiento del entretenimiento narrativo short-form en partes de Asia, especialmente en China."
+                "x": "Scarlett Johansson 같은 스타의 선정적인 AI 이미지를 올리는 계정도 있다. Taylor Swift의 AI 영상은 수백만 조회수를 찍는다. The Verge가 계정 여덟 곳을 묻자 Meta는 일부를 지웠다고 답했다."
+              },
+              {
+                "t": "p",
+                "x": "YouTube는 초상 감지 기능으로 삭제 요청을 받는다. 2026년 상반기 이 프로그램으로 신고된 영상은 95퍼센트 이상 내려갔다."
+              },
+              {
+                "t": "p",
+                "x": "Meta는 정지 이미지를 AI 표시 의무에서 빼 두었다. Meta 규정대로라면 가짜 Goth 이미지에는 고지가 필요 없었던 셈이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "有名人のAIディープフェイク\nSNSにあふれる",
+          "body": "偽のMia Goth投稿はAI表示なしで約500,000件のいいねを集めた。",
+          "mini_headline": "有名人ディープフェイク拡散",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+              },
+              {
+                "t": "p",
+                "x": "有名人のAI写真や動画がソーシャルメディアで数百万回の再生を集めている。フォロワー百万人超の認証済みファンアカウントが投稿した、女優Mia GothのAI-generated Instagram画像は約500,000件のいいねを集め、Instagramがアカウントを削除するまでにゴシップサイトやGoogleのAI概要を通じて拡散した。"
+              },
+              {
+                "t": "p",
+                "x": "Scarlett Johanssonらスターの性的なAI画像を投稿するアカウントがあり、Taylor SwiftのAI動画は数百万回再生されている。The Vergeが八つのアカウントについて問い合わせると、Metaは一部を削除したと答えた。"
+              },
+              {
+                "t": "p",
+                "x": "YouTubeの肖像検出機能では削除を依頼でき、2026年上半期にこの仕組みを通じて報告された動画の95パーセント超が削除された。"
+              },
+              {
+                "t": "p",
+                "x": "Metaでは静止画がAIラベル表示義務の対象外であり、偽のGoth画像はMetaの規則上、開示が不要だったことになる。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "zh": {
+          "headline": "名人AI深度伪造\n充斥社交媒体",
+          "body": "Meta不要求静态图片标注AI，假Mia Goth帖子未经标注获近500,000次点赞。",
+          "mini_headline": "名人深度伪造泛滥",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+              },
+              {
+                "t": "p",
+                "x": "名人的AI照片和视频正在社交媒体上收获数百万次观看。一个拥有逾百万粉丝的认证粉丝账号发布了一张演员Mia Goth的AI-generated Instagram图片，获得近500,000个赞，并在Instagram删除该账号之前经由八卦网站和Google的AI概览广泛传播。"
+              },
+              {
+                "t": "p",
+                "x": "一些账号发布Scarlett Johansson等明星的色情化AI图片，Taylor Swift的AI视频也获得数百万次观看。The Verge就八个账号询问后，Meta表示已删除其中一部分。"
+              },
+              {
+                "t": "p",
+                "x": "YouTube的肖像检测功能允许用户申请下架；2026年上半年，通过该计划举报的视频中有超过95%被移除。"
+              },
+              {
+                "t": "p",
+                "x": "在Meta平台上，静态图片不受AI标注要求约束，因此按照Meta的规定，这张假Goth图片无需披露。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los deepfakes de famosos con AI\ninundan las redes sociales",
+          "body": "Meta no exige etiquetas de AI en imágenes fijas, y una imagen falsa de Mia Goth logró casi 500,000 me gusta sin aviso.",
+          "mini_headline": "Se propagan deepfakes de famosos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+              },
+              {
+                "t": "p",
+                "x": "Las fotos y videos de famosos creados con AI acumulan millones de visualizaciones en redes sociales. Una imagen AI-generated de Instagram de la actriz Mia Goth, publicada por una cuenta de fans verificada con más de un millón de seguidores, obtuvo casi 500,000 me gusta y se difundió por sitios de chismes y el resumen de AI de Google antes de que Instagram eliminara la cuenta."
+              },
+              {
+                "t": "p",
+                "x": "Hay cuentas que publican imágenes sexualizadas con AI de estrellas como Scarlett Johansson, y los videos con AI de Taylor Swift suman millones de visualizaciones. Después de que The Verge preguntara por ocho cuentas, Meta dijo que había eliminado algunas."
+              },
+              {
+                "t": "p",
+                "x": "La detección de semejanza de YouTube permite solicitar retiradas; en el primer semestre de 2026 eliminó más del 95 por ciento de los videos denunciados a través del programa."
+              },
+              {
+                "t": "p",
+                "x": "En Meta, las imágenes fijas están exentas del requisito de etiquetado de AI, por lo que la imagen falsa de Goth no habría requerido aviso según las normas de Meta."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "유명인 AI 딥페이크가\n소셜 피드를 덮다",
+          "body": "가짜 Mia Goth 사진이 AI 표시 없이 좋아요 500,000개 가까이 받았다.",
+          "mini_headline": "유명인 딥페이크 확산",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+              },
+              {
+                "t": "p",
+                "x": "유명인을 담은 AI 사진과 영상이 소셜 미디어에서 수백만 조회수를 올리고 있다. 팔로워가 백만 명이 넘는 인증된 팬 계정이 올린 배우 Mia Goth의 AI-generated Instagram 이미지는 좋아요 500,000개 가까이를 받았고, Instagram이 계정을 삭제하기 전까지 가십 사이트와 Google의 AI 개요를 타고 퍼졌다."
+              },
+              {
+                "t": "p",
+                "x": "Scarlett Johansson 같은 스타의 선정적인 AI 이미지를 올리는 계정들이 있고, Taylor Swift의 AI 영상은 수백만 조회수를 기록한다. The Verge가 계정 여덟 곳에 대해 묻자 Meta는 일부를 삭제했다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "YouTube의 초상 감지 기능으로 사람들은 삭제를 요청할 수 있다. 2026년 상반기에 이 프로그램으로 신고된 영상의 95퍼센트 이상이 삭제됐다."
+              },
+              {
+                "t": "p",
+                "x": "Meta에서는 정지 이미지가 AI 표시 의무에서 빠져 있어, 가짜 Goth 이미지는 Meta 규정상 고지가 필요하지 않았을 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "有名人のAIディープフェイク\nSNSにあふれる",
+          "body": "偽のMia Goth投稿はAI表示なしで約500,000件のいいねを集めた。",
+          "mini_headline": "有名人ディープフェイク拡散",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+              },
+              {
+                "t": "p",
+                "x": "有名人のAI写真や動画がソーシャルメディアで数百万回の再生を集めている。フォロワー百万人超の認証済みファンアカウントが投稿した、女優Mia GothのAI-generated Instagram画像は約500,000件のいいねを集め、Instagramがアカウントを削除するまでにゴシップサイトやGoogleのAI概要を通じて拡散した。"
+              },
+              {
+                "t": "p",
+                "x": "Scarlett Johanssonらスターの性的なAI画像を投稿するアカウントがあり、Taylor SwiftのAI動画は数百万回再生されている。The Vergeが八つのアカウントについて問い合わせると、Metaは一部を削除したと答えた。"
+              },
+              {
+                "t": "p",
+                "x": "YouTubeの肖像検出機能では削除を依頼でき、2026年上半期にこの仕組みを通じて報告された動画の95パーセント超が削除された。"
+              },
+              {
+                "t": "p",
+                "x": "Metaでは静止画がAIラベル表示義務の対象外であり、偽のGoth画像はMetaの規則上、開示が不要だったことになる。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "movies-artificial-amazon",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Amazon MGM이 버린\nArtificial 호평",
+      "body": "AI 갈등 속 Amazon MGM이 버린 Sam Altman 영화가 호평받았다.",
+      "mini_headline": "'Artificial' 평단 호평",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+          },
+          {
+            "t": "p",
+            "x": "Luca Guadagnino의 \"Artificial\"은 인공지능의 해악과 Sam Altman을 다룬다. New York Film Festival에서 처음 공개됐고 London Film Festival에선 우레 같은 박수가 쏟아졌다. Rotten Tomatoes 96% Fresh로 Guadagnino 경력 최고 점수다."
+          },
+          {
+            "t": "p",
+            "x": "Amazon MGM은 6월 이 영화를 여름 개봉 라인업에서 빼면서 \"다른 스튜디오가 개봉하는 편이 더 나을 것\"이라고 했다. 이후 작품을 건진 건 글로벌 판권 계약을 맺은 Neon이다. 언론은 Amazon이 OpenAI와 500억 달러($50 billion) 투자를 낀 파트너십을 맺고 3개월 만에 나온 결정이라고 짚었다. 한 경쟁 스튜디오 임원은 Variety에 이 영화를 개봉 불가로 본 스튜디오들이 \"AI에 대한 자체 투자 때문에 이해충돌에 걸렸다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Amazon과 인재들 사이의 AI 갈등은 이번만이 아니다. Nicolas Cage는 \"Spider-Noir\"에서 AI 초상 사용 동의서 서명을 거부했다고 밝혔다. 한 Amazon MGM 시리즈의 크리에이티브는 AI 교육이 의무였다고 전했지만 Amazon 절차를 직접 아는 한 소식통은 그런 회의가 의무는 아니라고 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Critics embrace 'Artificial'\nafter Amazon MGM dropped it",
+          "body": "Guadagnino's Sam Altman drama won raves after Amazon MGM dropped it, as studios and talent clash over AI.",
+          "mini_headline": "'Artificial' wins critics",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "Luca Guadagnino's \"Artificial,\" a movie about the evils of artificial intelligence and Sam Altman, premiered at the New York Film Festival and drew thunderous applause at the London Film Festival. It holds a 96% Fresh rating on Rotten Tomatoes, the highest of Guadagnino's career."
+              },
+              {
+                "t": "p",
+                "x": "Amazon MGM punted the film off its summer slate in June, saying it \"will be better served if it were released by a different studio\"; Neon then rescued it with a global rights deal. Press noted the move came three months after Amazon signed a partnership with OpenAI, including a $50 billion investment. A rival studio executive told Variety that studios calling the film unreleasable were \"conflicted out by their own investments in AI.\""
+              },
+              {
+                "t": "p",
+                "x": "Amazon's AI tensions with talent go further: Nicolas Cage said he refused to sign an AI likeness waiver on \"Spider-Noir,\" and a creative on an Amazon MGM series described mandatory AI training. A source with direct knowledge of Amazon's process said such meetings are not mandatory."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Amazon MGM이 버린\nArtificial 호평",
+          "body": "AI 갈등 속 Amazon MGM이 버린 Sam Altman 영화가 호평받았다.",
+          "mini_headline": "'Artificial' 평단 호평",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "Luca Guadagnino의 \"Artificial\"은 인공지능의 해악과 Sam Altman을 다룬다. New York Film Festival에서 처음 공개됐고 London Film Festival에선 우레 같은 박수가 쏟아졌다. Rotten Tomatoes 96% Fresh로 Guadagnino 경력 최고 점수다."
+              },
+              {
+                "t": "p",
+                "x": "Amazon MGM은 6월 이 영화를 여름 개봉 라인업에서 빼면서 \"다른 스튜디오가 개봉하는 편이 더 나을 것\"이라고 했다. 이후 작품을 건진 건 글로벌 판권 계약을 맺은 Neon이다. 언론은 Amazon이 OpenAI와 500억 달러($50 billion) 투자를 낀 파트너십을 맺고 3개월 만에 나온 결정이라고 짚었다. 한 경쟁 스튜디오 임원은 Variety에 이 영화를 개봉 불가로 본 스튜디오들이 \"AI에 대한 자체 투자 때문에 이해충돌에 걸렸다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Amazon과 인재들 사이의 AI 갈등은 이번만이 아니다. Nicolas Cage는 \"Spider-Noir\"에서 AI 초상 사용 동의서 서명을 거부했다고 밝혔다. 한 Amazon MGM 시리즈의 크리에이티브는 AI 교육이 의무였다고 전했지만 Amazon 절차를 직접 아는 한 소식통은 그런 회의가 의무는 아니라고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Amazon MGMが外した\n『Artificial』絶賛",
+          "body": "Amazon MGMが外したGuadagninoのSam Altman映画が絶賛された。",
+          "mini_headline": "『Artificial』が批評家を魅了",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "Luca Guadagnino監督の『Artificial』は、人工知能の害悪とSam Altmanを描いた作品で、New York Film Festivalでプレミア上映され、London Film Festivalでは割れんばかりの拍手を浴びた。Rotten Tomatoesでは96% Freshを記録し、Guadagninoのキャリアで最高の評価となっている。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon MGMは6月、「別のスタジオが公開した方が作品のためになる」として本作を夏の公開ラインアップから外し、その後Neonが全世界の権利契約で救い出した。報道は、この判断がAmazonがOpenAIと500億ドル（$50 billion）の投資を含む提携を結んだ3カ月後だったと指摘した。ライバルスタジオの幹部はVarietyに対し、本作を公開不可とするスタジオは「自社のAI投資によって利益相反を抱えている」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "AmazonとタレントのAIを巡る緊張はそれだけではない。Nicolas Cageは『Spider-Noir』でAI肖像の権利放棄書への署名を拒否したと述べ、Amazon MGMのあるシリーズのクリエイターは義務的なAI研修について語った。Amazonの手続きを直接知る関係者は、そうした会合は義務ではないと述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Amazon MGM弃映的\n《Artificial》获赞",
+          "body": "遭Amazon MGM弃映后，Guadagnino的Sam Altman题材片广获好评。",
+          "mini_headline": "《Artificial》赢得影评人",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "Luca Guadagnino执导的《Artificial》讲述人工智能之恶与Sam Altman，在New York Film Festival首映，并在London Film Festival赢得雷鸣般的掌声。该片在Rotten Tomatoes上获得96% Fresh评分，为Guadagnino职业生涯最高。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon MGM在6月将该片撤出夏季片单，称其“由另一家制片公司发行会更好”；随后Neon以全球版权协议接手了这部影片。媒体指出，此举发生在Amazon与OpenAI签署包含500亿美元（$50 billion）投资的合作协议三个月之后。一位竞争对手制片公司高管对Variety表示，称该片无法上映的制片公司“因自身在AI上的投资而存在利益冲突”。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon与创作者之间的AI矛盾不止于此：Nicolas Cage表示，他在《Spider-Noir》中拒绝签署AI肖像授权豁免书；一位参与Amazon MGM剧集的创作者描述了强制性的AI培训。一位直接了解Amazon流程的消息人士称，此类会议并非强制。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La crítica abraza 'Artificial'\ntras el descarte de Amazon MGM",
+          "body": "Elogian el drama de Guadagnino sobre Sam Altman que Amazon MGM descartó, mientras estudios y talento chocan por la AI.",
+          "mini_headline": "'Artificial' conquista a la crítica",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "\"Artificial\", de Luca Guadagnino, una película sobre los males de la inteligencia artificial y Sam Altman, se estrenó en el New York Film Festival y recibió una ovación atronadora en el London Film Festival. Tiene un 96% Fresh en Rotten Tomatoes, la calificación más alta de la carrera de Guadagnino."
+              },
+              {
+                "t": "p",
+                "x": "Amazon MGM retiró la película de su calendario de verano en junio, alegando que \"estaría mejor servida si la estrenara otro estudio\"; después Neon la rescató con un acuerdo de derechos globales. La prensa señaló que la decisión llegó tres meses después de que Amazon firmara una alianza con OpenAI que incluía una inversión de 50.000 millones de dólares ($50 billion). Un ejecutivo de un estudio rival dijo a Variety que los estudios que consideraban la película imposible de estrenar estaban \"en conflicto por sus propias inversiones en AI\"."
+              },
+              {
+                "t": "p",
+                "x": "Las tensiones de Amazon con el talento por la AI van más allá: Nicolas Cage dijo que se negó a firmar una renuncia sobre el uso de su imagen con AI en \"Spider-Noir\", y un creativo de una serie de Amazon MGM describió una formación obligatoria en AI. Una fuente con conocimiento directo del proceso de Amazon dijo que esas reuniones no son obligatorias."
               }
             ]
           }
@@ -1299,161 +1185,377 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Busan 영화 마켓\nAI·마이크로드라마 주목",
-          "body": "Bexco에서 10-13일 열린 ACFM이 AI·마이크로드라마를 새로 조명했다.",
-          "mini_headline": "Busan 마켓, AI에 초점",
+          "headline": "Amazon MGM이 버린\nArtificial 호평",
+          "body": "AI 갈등 속 Amazon MGM이 버린 Sam Altman 영화가 호평받았다.",
+          "mini_headline": "'Artificial' 평단 호평",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-                "cap": "Asian Contents & Film Market이 열리는 Busan Exhibition & Convention Center"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Asian Contents & Film Market(ACFM)이 21번째(21st) 행사로 10월 10-13일 부산 Bexco에서 열린다. 세일즈, 스트리밍, IP, 인공지능, 마이크로드라마, 국제 공동제작(co-production)이 만나는 장을 표방한다."
+                "x": "Luca Guadagnino의 \"Artificial\"은 인공지능의 해악과 Sam Altman을 다룬 영화로, New York Film Festival에서 초연했고 London Film Festival에서 우레 같은 박수를 받았다. Rotten Tomatoes에서 96% Fresh 등급을 기록해 Guadagnino 경력 최고치를 세웠다."
               },
               {
                 "t": "p",
-                "x": "ACFM 디렉터 Ellen YD Kim은 “업계가 갈림길에 서 있으며, ACFM은 아시아 영화 산업에 지도를 제시하고자 한다”고 말했다. 올해 의제는 일곱 개 부문, 64개 프로그램으로 구성된다."
+                "x": "Amazon MGM은 6월 이 영화를 여름 개봉 라인업에서 빼며 \"다른 스튜디오가 개봉하는 편이 더 나을 것\"이라고 밝혔고, 이후 Neon이 글로벌 판권 계약으로 작품을 구해냈다. 언론은 이 결정이 Amazon이 OpenAI와 500억 달러($50 billion) 투자를 포함한 파트너십을 맺은 지 3개월 뒤에 나왔다고 짚었다. 한 경쟁 스튜디오 임원은 Variety에 이 영화를 개봉 불가로 본 스튜디오들이 \"AI에 대한 자체 투자 때문에 이해충돌에 걸렸다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "지난해 출범한 InnoAsia는 생성형 AI와 신기술을 전면에 내세우며 44개 기관과 기업을 한자리에 모은다. Kling AI는 생성형 기술이 영화 제작을 어떻게 바꿀 수 있는지 다루는 세션을 공동 주최(co-host)하며, 크리에이터 부트캠프와 AI 영화 works-in-progress 쇼케이스도 함께 열린다."
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-                "cap": "ACFM 디렉터 Ellen YD Kim"
-              },
-              {
-                "t": "p",
-                "x": "Kim은 “AI가 영화 산업에 어떤 영향을 미치는지 큰 그림을 보여주고 싶다”며 “AI는 우리 비즈니스의 패러다임을 계속 바꾸고 있어 더 깊이 들어가고자 한다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "마이크로드라마도 비슷한 관심을 받는다. 아시아 일부 지역, 특히 중국에서 short-form 서사 엔터테인먼트가 성장하고 있음을 반영한 것이다."
+                "x": "Amazon과 인재들 사이의 AI 갈등은 이뿐이 아니다. Nicolas Cage는 \"Spider-Noir\"에서 AI 초상 사용 동의서 서명을 거부했다고 말했고, 한 Amazon MGM 시리즈의 크리에이티브는 의무 AI 교육을 전했다. Amazon의 절차를 직접 아는 한 소식통은 그런 회의가 의무는 아니라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Busanの映画市場\nAIとマイクロドラマへ",
-          "body": "Bexcoで10月10-13日に開かれたACFMが、AIとマイクロドラマに焦点を当てた。",
-          "mini_headline": "Busanの市場、AIに焦点",
+          "headline": "Amazon MGMが外した\n『Artificial』絶賛",
+          "body": "Amazon MGMが外したGuadagninoのSam Altman映画が絶賛された。",
+          "mini_headline": "『Artificial』が批評家を魅了",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-                "cap": "Asian Contents & Film Marketが開かれるBusan Exhibition & Convention Center"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Asian Contents & Film Market(ACFM)は21回目(21st)を迎え、10月10-13日に釜山のBexcoで開催される。セールス、ストリーミング、IP、人工知能、マイクロドラマ、国際共同製作(co-production)が交わる場を目指す。"
+                "x": "Luca Guadagnino監督の『Artificial』は、人工知能の害悪とSam Altmanを描いた作品で、New York Film Festivalでプレミア上映され、London Film Festivalでは割れんばかりの拍手を浴びた。Rotten Tomatoesでは96% Freshを記録し、Guadagninoのキャリアで最高の評価となっている。"
               },
               {
                 "t": "p",
-                "x": "ACFMディレクターのEllen YD Kimは「業界は岐路に立っており、ACFMはアジア映画産業に地図を示したい」と語る。今年のアジェンダは七つの部門にわたる64のプログラムで構成される。"
+                "x": "Amazon MGMは6月、「別のスタジオが公開した方が作品のためになる」として本作を夏の公開ラインアップから外し、その後Neonが全世界の権利契約で救い出した。報道は、この判断がAmazonがOpenAIと500億ドル（$50 billion）の投資を含む提携を結んだ3カ月後だったと指摘した。ライバルスタジオの幹部はVarietyに対し、本作を公開不可とするスタジオは「自社のAI投資によって利益相反を抱えている」と語った。"
               },
               {
                 "t": "p",
-                "x": "昨年始まったInnoAsiaは生成AIと新興技術を前面に打ち出し、44の団体・企業が集まる。Kling AIは生成技術が映画制作をどう変えうるかを探るセッションを共催(co-host)し、クリエイター向けブートキャンプやAI映画のworks-in-progressショーケースも行われる。"
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-                "cap": "ACFMディレクターのEllen YD Kim"
-              },
-              {
-                "t": "p",
-                "x": "Kimは「AIが映画産業にどう影響しているのか、全体像を示したい」と話し、「AIはビジネスのパラダイムを変え続けているので、さらに深く掘り下げたい」と続けた。"
-              },
-              {
-                "t": "p",
-                "x": "マイクロドラマにも同様の注目が集まる。アジアの一部、特に中国でshort-formの物語エンターテインメントが成長していることを反映している。"
+                "x": "AmazonとタレントのAIを巡る緊張はそれだけではない。Nicolas Cageは『Spider-Noir』でAI肖像の権利放棄書への署名を拒否したと述べ、Amazon MGMのあるシリーズのクリエイターは義務的なAI研修について語った。Amazonの手続きを直接知る関係者は、そうした会合は義務ではないと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Busan电影市场\n聚焦AI与微短剧",
-          "body": "10月10-13日在Bexco举办的ACFM新增了AI与微短剧板块。",
-          "mini_headline": "Busan市场聚焦AI",
+          "headline": "Amazon MGM弃映的\n《Artificial》获赞",
+          "body": "遭Amazon MGM弃映后，Guadagnino的Sam Altman题材片广获好评。",
+          "mini_headline": "《Artificial》赢得影评人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-                "cap": "Busan Exhibition & Convention Center举办Asian Contents & Film Market"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "Asian Contents & Film Market（ACFM）迎来第21届（21st），于10月10-13日在釜山Bexco举行，定位为销售、流媒体、IP、人工智能、微短剧与国际合拍（co-production）的交汇点。"
+                "x": "Luca Guadagnino执导的《Artificial》讲述人工智能之恶与Sam Altman，在New York Film Festival首映，并在London Film Festival赢得雷鸣般的掌声。该片在Rotten Tomatoes上获得96% Fresh评分，为Guadagnino职业生涯最高。"
               },
               {
                 "t": "p",
-                "x": "ACFM总监Ellen YD Kim表示：“行业正处在十字路口，ACFM希望为亚洲电影产业提供一张地图。”今年的议程涵盖七个板块共64场活动。"
+                "x": "Amazon MGM在6月将该片撤出夏季片单，称其“由另一家制片公司发行会更好”；随后Neon以全球版权协议接手了这部影片。媒体指出，此举发生在Amazon与OpenAI签署包含500亿美元（$50 billion）投资的合作协议三个月之后。一位竞争对手制片公司高管对Variety表示，称该片无法上映的制片公司“因自身在AI上的投资而存在利益冲突”。"
               },
               {
                 "t": "p",
-                "x": "去年推出的InnoAsia将生成式AI和新兴技术置于核心位置，汇聚44家机构与公司。Kling AI将联合主办（co-host）一场探讨生成式技术如何重塑电影制作的论坛，同期还有创作者训练营和AI电影works-in-progress展示。"
-              },
-              {
-                "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-                "cap": "ACFM总监Ellen YD Kim"
-              },
-              {
-                "t": "p",
-                "x": "Kim说：“我们希望展示AI如何影响电影产业的全貌。它在不断改变我们这个行业的范式，所以我们想更深入。”"
-              },
-              {
-                "t": "p",
-                "x": "微短剧也获得了类似关注，这反映出short-form叙事娱乐在亚洲部分地区、尤其是中国的增长。"
+                "x": "Amazon与创作者之间的AI矛盾不止于此：Nicolas Cage表示，他在《Spider-Noir》中拒绝签署AI肖像授权豁免书；一位参与Amazon MGM剧集的创作者描述了强制性的AI培训。一位直接了解Amazon流程的消息人士称，此类会议并非强制。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mercado de cine de Busan\napuesta por AI y microdramas",
-          "body": "El Asian Contents & Film Market de Busan, celebrado del 10-13 de octubre en Bexco, sumó un foco en AI y microdramas.",
-          "mini_headline": "El mercado de Busan suma foco en AI",
+          "headline": "La crítica abraza 'Artificial'\ntras el descarte de Amazon MGM",
+          "body": "Elogian el drama de Guadagnino sobre Sam Altman que Amazon MGM descartó, mientras estudios y talento chocan por la AI.",
+          "mini_headline": "'Artificial' conquista a la crítica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-                "cap": "El Busan Exhibition & Convention Center acoge el Asian Contents & Film Market"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
               },
               {
                 "t": "p",
-                "x": "El Asian Contents & Film Market (ACFM) vuelve en su 21.ª edición (21st), del 10-13 de octubre en el Bexco de Busan, y se presenta como punto de encuentro para ventas, streaming, IP, inteligencia artificial, microdramas y coproducción internacional (co-production)."
+                "x": "\"Artificial\", de Luca Guadagnino, una película sobre los males de la inteligencia artificial y Sam Altman, se estrenó en el New York Film Festival y recibió una ovación atronadora en el London Film Festival. Tiene un 96% Fresh en Rotten Tomatoes, la calificación más alta de la carrera de Guadagnino."
               },
               {
                 "t": "p",
-                "x": "“La industria está en una encrucijada y el ACFM aspira a ofrecer un mapa para la industria cinematográfica asiática”, dice la directora del ACFM, Ellen YD Kim. La agenda de este año reúne 64 programas en siete líneas."
+                "x": "Amazon MGM retiró la película de su calendario de verano en junio, alegando que \"estaría mejor servida si la estrenara otro estudio\"; después Neon la rescató con un acuerdo de derechos globales. La prensa señaló que la decisión llegó tres meses después de que Amazon firmara una alianza con OpenAI que incluía una inversión de 50.000 millones de dólares ($50 billion). Un ejecutivo de un estudio rival dijo a Variety que los estudios que consideraban la película imposible de estrenar estaban \"en conflicto por sus propias inversiones en AI\"."
               },
               {
                 "t": "p",
-                "x": "InnoAsia, lanzado el año pasado, sitúa la AI generativa y las tecnologías emergentes en primer plano y reúne a 44 organizaciones y empresas. Kling AI coorganizará (co-host) una sesión sobre cómo la tecnología generativa podría transformar el cine, junto con un bootcamp para creadores y una muestra de works-in-progress de películas hechas con AI."
-              },
+                "x": "Las tensiones de Amazon con el talento por la AI van más allá: Nicolas Cage dijo que se negó a firmar una renuncia sobre el uso de su imagen con AI en \"Spider-Noir\", y un creativo de una serie de Amazon MGM describió una formación obligatoria en AI. Una fuente con conocimiento directo del proceso de Amazon dijo que esas reuniones no son obligatorias."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "movies-view-execs",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "VFX·애니 수장들,\nView서 AI·고용 논의",
+      "body": "ILM의 Janet Lewin은 AI가 만능 해법이 아니라고 경고했다.",
+      "mini_headline": "AI와 일자리, VFX 수장들의 시각",
+      "tool": "Movies",
+      "source": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/events/studio-executive-roundtable-view-conference-267928.html",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+          },
+          {
+            "t": "p",
+            "x": "이탈리아 View Conference에 Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio, Cinesite 경영진이 모여 생성형 AI와 달라지는 파이프라인, 일자리를 논의했다. 대체로 AI가 기존 방식을 당장 갈아치운다기보다 더 넓은 변화의 한 부분이라는 시각이었다."
+          },
+          {
+            "t": "p",
+            "x": "The Yard의 Laurens Ehrmann은 \"AI가 실행 시간을 압축할 수 있다고들 하지만, 취향은 압축할 수 없다\"고 말했다. ILM의 Janet Lewin은 \"AI와 머신러닝이 만능 해법이라는 오류\"를 경계했다. Cinesite의 Shawn Walsh는 \"이 전환을 관리하기 위해 당분간\" VFX 아티스트가 필요하다고 봤다."
+          },
+          {
+            "t": "p",
+            "x": "아티스트의 생계를 어떻게 지키느냐는 질문에 Imageworks의 Michelle Grady는 \"아티스트 없이는 우리도 없다. 이상이다\"라고 답했다. Lewin은 스튜디오가 손쓸 수 없는 결정을 모회사가 내린다고 짚었다. 다만 일자리를 어떻게 지킬지 구체적인 방안은 패널에서 거의 나오지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "VFX and animation chiefs\nweigh AI and jobs at View",
+          "body": "ILM's Janet Lewin cautioned that AI is no magic bullet; The Yard's Laurens Ehrmann said it can't compress taste.",
+          "mini_headline": "VFX chiefs on AI and jobs",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-                "cap": "Ellen YD Kim, directora del ACFM"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
               },
               {
                 "t": "p",
-                "x": "“Queremos mostrar el panorama general de cómo la AI está influyendo en la industria del cine”, dice Kim. “Sigue cambiando el paradigma de nuestro negocio, así que queremos profundizar más”."
+                "x": "At Italy's View Conference, executives from Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio and Cinesite discussed generative AI, evolving pipelines and jobs. They generally framed AI as part of a broader transformation rather than an immediate replacement for established methods."
               },
               {
                 "t": "p",
-                "x": "El microdrama recibe una atención similar, reflejo del crecimiento del entretenimiento narrativo short-form en partes de Asia, especialmente en China."
+                "x": "\"We talk about how AI can compress execution time, but it cannot compress taste,\" said The Yard's Laurens Ehrmann. ILM's Janet Lewin warned of \"a fallacy about this magic bullet of AI and machine learning.\" Cinesite's Shawn Walsh said VFX artists will be needed \"for the foreseeable future to manage this transition.\""
+              },
+              {
+                "t": "p",
+                "x": "Asked how they protect artists' livelihoods, Imageworks' Michelle Grady said, \"We don't exist without artists, full stop.\" Lewin noted that parent companies make decisions studios can't control. The panel offered few specifics on how jobs will be protected."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "VFX·애니 수장들,\nView서 AI·고용 논의",
+          "body": "ILM의 Janet Lewin은 AI가 만능 해법이 아니라고 경고했다.",
+          "mini_headline": "AI와 일자리, VFX 수장들의 시각",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+              },
+              {
+                "t": "p",
+                "x": "이탈리아 View Conference에 Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio, Cinesite 경영진이 모여 생성형 AI와 달라지는 파이프라인, 일자리를 논의했다. 대체로 AI가 기존 방식을 당장 갈아치운다기보다 더 넓은 변화의 한 부분이라는 시각이었다."
+              },
+              {
+                "t": "p",
+                "x": "The Yard의 Laurens Ehrmann은 \"AI가 실행 시간을 압축할 수 있다고들 하지만, 취향은 압축할 수 없다\"고 말했다. ILM의 Janet Lewin은 \"AI와 머신러닝이 만능 해법이라는 오류\"를 경계했다. Cinesite의 Shawn Walsh는 \"이 전환을 관리하기 위해 당분간\" VFX 아티스트가 필요하다고 봤다."
+              },
+              {
+                "t": "p",
+                "x": "아티스트의 생계를 어떻게 지키느냐는 질문에 Imageworks의 Michelle Grady는 \"아티스트 없이는 우리도 없다. 이상이다\"라고 답했다. Lewin은 스튜디오가 손쓸 수 없는 결정을 모회사가 내린다고 짚었다. 다만 일자리를 어떻게 지킬지 구체적인 방안은 패널에서 거의 나오지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "VFX・アニメ首脳陣、\nViewでAIと雇用を議論",
+          "body": "ILMのJanet LewinはAIが万能の解決策ではないと警告した。",
+          "mini_headline": "AIと雇用を語るVFX首脳",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+              },
+              {
+                "t": "p",
+                "x": "イタリアのView Conferenceで、Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio、Cinesiteの幹部が、生成AI、進化するパイプライン、雇用について議論した。おおむね、AIは既存の手法をすぐに置き換えるものではなく、より大きな変革の一部だという見方だった。"
+              },
+              {
+                "t": "p",
+                "x": "「AIは実行時間を圧縮できると言われるが、センスは圧縮できない」とThe YardのLaurens Ehrmannは語った。ILMのJanet Lewinは「AIと機械学習が万能薬だという誤解」に警鐘を鳴らした。CinesiteのShawn Walshは、VFXアーティストは「この移行を管理するため、当面は」必要とされると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "アーティストの生活をどう守るかと問われ、ImageworksのMichelle Gradyは「アーティストなしに私たちは存在しない。以上だ」と答えた。Lewinは、親会社がスタジオには制御できない決定を下すと指摘した。雇用をどう守るかについて、パネルから具体策はほとんど示されなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "VFX与动画高管\n在View热议AI与就业",
+          "body": "ILM的Janet Lewin提醒，AI并不是解决一切的灵丹妙药。",
+          "mini_headline": "VFX高管谈AI与就业",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+              },
+              {
+                "t": "p",
+                "x": "在意大利View Conference上，来自Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio和Cinesite的高管讨论了生成式AI、不断演变的制作管线和就业问题。他们大多将AI视为更广泛变革的一部分，而非立即取代既有方法的工具。"
+              },
+              {
+                "t": "p",
+                "x": "The Yard的Laurens Ehrmann说：“我们常说AI可以压缩执行时间，但它无法压缩品味。”ILM的Janet Lewin提醒人们警惕“关于AI和机器学习是灵丹妙药的谬误”。Cinesite的Shawn Walsh表示，“在可预见的未来”仍需要VFX艺术家“来管理这一转型”。"
+              },
+              {
+                "t": "p",
+                "x": "被问及如何保障艺术家的生计时，Imageworks的Michelle Grady说：“没有艺术家就没有我们，就这么简单。”Lewin指出，母公司会做出工作室无法掌控的决定。对于如何保护就业，小组几乎没有给出具体方案。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jefes de VFX y animación\ndebaten AI y empleo en View",
+          "body": "Para Janet Lewin (ILM), la AI no es una bala mágica; para Laurens Ehrmann (The Yard), no puede comprimir el gusto.",
+          "mini_headline": "Jefes de VFX ante la AI y el empleo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En la View Conference de Italia, ejecutivos de Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio y Cinesite debatieron sobre AI generativa, la evolución de los pipelines y el empleo. En general, presentaron la AI como parte de una transformación más amplia y no como un reemplazo inmediato de los métodos establecidos."
+              },
+              {
+                "t": "p",
+                "x": "\"Hablamos de cómo la AI puede comprimir el tiempo de ejecución, pero no puede comprimir el gusto\", dijo Laurens Ehrmann, de The Yard. Janet Lewin, de ILM, advirtió sobre \"una falacia acerca de esa bala mágica de la AI y el aprendizaje automático\". Shawn Walsh, de Cinesite, dijo que se necesitarán artistas de VFX \"en el futuro previsible para gestionar esta transición\"."
+              },
+              {
+                "t": "p",
+                "x": "Ante la pregunta de cómo protegen el sustento de los artistas, Michelle Grady, de Imageworks, dijo: \"No existimos sin artistas, punto\". Lewin señaló que las empresas matrices toman decisiones que los estudios no pueden controlar. El panel ofreció pocos detalles sobre cómo se protegerán los empleos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "VFX·애니 수장들,\nView서 AI·고용 논의",
+          "body": "ILM의 Janet Lewin은 AI가 만능 해법이 아니라고 경고했다.",
+          "mini_headline": "AI와 일자리, VFX 수장들의 시각",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+              },
+              {
+                "t": "p",
+                "x": "이탈리아 View Conference에서 Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio, Cinesite 경영진이 생성형 AI와 변화하는 파이프라인, 일자리를 논의했다. 이들은 대체로 AI를 기존 방식을 곧바로 대체하는 존재가 아니라 더 넓은 변화의 일부로 봤다."
+              },
+              {
+                "t": "p",
+                "x": "The Yard의 Laurens Ehrmann은 \"AI가 실행 시간을 압축할 수 있다고들 하지만, 취향은 압축할 수 없다\"고 말했다. ILM의 Janet Lewin은 \"AI와 머신러닝이 만능 해법이라는 오류\"를 경계했다. Cinesite의 Shawn Walsh는 \"이 전환을 관리하기 위해 당분간\" VFX 아티스트가 필요할 것이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "아티스트의 생계를 어떻게 지키느냐는 질문에 Imageworks의 Michelle Grady는 \"아티스트 없이는 우리도 없다. 이상이다\"라고 답했다. Lewin은 모회사가 스튜디오가 통제할 수 없는 결정을 내린다고 짚었다. 패널은 일자리를 어떻게 보호할지 구체적인 내용을 거의 내놓지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "VFX・アニメ首脳陣、\nViewでAIと雇用を議論",
+          "body": "ILMのJanet LewinはAIが万能の解決策ではないと警告した。",
+          "mini_headline": "AIと雇用を語るVFX首脳",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+              },
+              {
+                "t": "p",
+                "x": "イタリアのView Conferenceで、Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio、Cinesiteの幹部が、生成AI、進化するパイプライン、雇用について議論した。おおむね、AIは既存の手法をすぐに置き換えるものではなく、より大きな変革の一部だという見方だった。"
+              },
+              {
+                "t": "p",
+                "x": "「AIは実行時間を圧縮できると言われるが、センスは圧縮できない」とThe YardのLaurens Ehrmannは語った。ILMのJanet Lewinは「AIと機械学習が万能薬だという誤解」に警鐘を鳴らした。CinesiteのShawn Walshは、VFXアーティストは「この移行を管理するため、当面は」必要とされると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "アーティストの生活をどう守るかと問われ、ImageworksのMichelle Gradyは「アーティストなしに私たちは存在しない。以上だ」と答えた。Lewinは、親会社がスタジオには制御できない決定を下すと指摘した。雇用をどう守るかについて、パネルから具体策はほとんど示されなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "VFX与动画高管\n在View热议AI与就业",
+          "body": "ILM的Janet Lewin提醒，AI并不是解决一切的灵丹妙药。",
+          "mini_headline": "VFX高管谈AI与就业",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+              },
+              {
+                "t": "p",
+                "x": "在意大利View Conference上，来自Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio和Cinesite的高管讨论了生成式AI、不断演变的制作管线和就业问题。他们大多将AI视为更广泛变革的一部分，而非立即取代既有方法的工具。"
+              },
+              {
+                "t": "p",
+                "x": "The Yard的Laurens Ehrmann说：“我们常说AI可以压缩执行时间，但它无法压缩品味。”ILM的Janet Lewin提醒人们警惕“关于AI和机器学习是灵丹妙药的谬误”。Cinesite的Shawn Walsh表示，“在可预见的未来”仍需要VFX艺术家“来管理这一转型”。"
+              },
+              {
+                "t": "p",
+                "x": "被问及如何保障艺术家的生计时，Imageworks的Michelle Grady说：“没有艺术家就没有我们，就这么简单。”Lewin指出，母公司会做出工作室无法掌控的决定。对于如何保护就业，小组几乎没有给出具体方案。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jefes de VFX y animación\ndebaten AI y empleo en View",
+          "body": "Para Janet Lewin (ILM), la AI no es una bala mágica; para Laurens Ehrmann (The Yard), no puede comprimir el gusto.",
+          "mini_headline": "Jefes de VFX ante la AI y el empleo",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En la View Conference de Italia, ejecutivos de Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio y Cinesite debatieron sobre AI generativa, la evolución de los pipelines y el empleo. En general, presentaron la AI como parte de una transformación más amplia y no como un reemplazo inmediato de los métodos establecidos."
+              },
+              {
+                "t": "p",
+                "x": "\"Hablamos de cómo la AI puede comprimir el tiempo de ejecución, pero no puede comprimir el gusto\", dijo Laurens Ehrmann, de The Yard. Janet Lewin, de ILM, advirtió sobre \"una falacia acerca de esa bala mágica de la AI y el aprendizaje automático\". Shawn Walsh, de Cinesite, dijo que se necesitarán artistas de VFX \"en el futuro previsible para gestionar esta transición\"."
+              },
+              {
+                "t": "p",
+                "x": "Ante la pregunta de cómo protegen el sustento de los artistas, Michelle Grady, de Imageworks, dijo: \"No existimos sin artistas, punto\". Lewin señaló que las empresas matrices toman decisiones que los estudios no pueden controlar. El panel ofreció pocos detalles sobre cómo se protegerán los empleos."
               }
             ]
           }

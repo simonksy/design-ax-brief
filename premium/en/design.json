@@ -8081,6 +8081,122 @@
           "cap": "The Gamer DNA and Game Playlists in the Play Store's new Game Finder feature."
         }
       ]
+    },
+    "design/design-bluesky-attie": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make “small” social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to think of Attie as “social vibe coding or vibe coding for your community.”"
+        },
+        {
+          "t": "p",
+          "x": "You can make your own Attie app by typing in a prompt. A simple poll I made about Pokémon Red and Pokémon Blue took a few minutes to generate. If you want to check out something more full-featured, the Attie website currently highlights a few examples like a “Flappy Butterfly” Flappy Bird clone, a drum machine, a quiz, and an idle clicker about a celery man, and each has a custom link on the attie.site domain and attribution for who made the social app at the bottom of the page. The apps I’ve messed around with are pretty lightweight novelties, though I liked the drum machine."
+        }
+      ]
+    },
+    "design/design-lovable-models": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lovable is adding new AI models and tools that the apps people build on it can use, so a tutor people can talk to, a research tool with checkable sources, or a support inbox that drafts replies can be built without leaving Lovable."
+        },
+        {
+          "t": "p",
+          "x": "GPT-Live from OpenAI brings real-time voice conversation. The latest Claude models from Anthropic handle reading, reasoning and longer tasks. From Google, Gemini 4 Argon covers knowledge work, Gemini Omni turns text, photos, audio and clips into video, and Lyria writes original music."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity adds cited answers from the live web, Firecrawl and Parallel search and gather web data, and Jev by Typesafe AI makes quick sort, score and route decisions."
+        },
+        {
+          "t": "p",
+          "x": "Users just describe the app or feature they want. Lovable will choose a model or tool, or they can name one in the chat, like “use Opus 5.5” or “use Perplexity.”"
+        }
+      ]
+    },
+    "design/design-flux3-klein": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+          "cap": "Text-to-image, image-to-image, and layout control with FLUX.3 Image Klein"
+        },
+        {
+          "t": "p",
+          "x": "Black Forest Labs' FLUX.3 Image Klein is here, and it runs in Diffusers from day one. One model does text-to-image and multi-reference image-to-image, and adds layout control: you write bounding boxes into the prompt to say where each part of the image should go, or which parts of a reference image to move."
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+          "cap": "A caption and two region descriptions placed as boxes on a 0–1000 grid, and the generated image"
+        },
+        {
+          "t": "p",
+          "x": "Two open checkpoints ship: a timestep-distilled model for fast inference (16 steps, no CFG) and a base model (50 steps, CFG). The distilled checkpoint makes a 1024 × 1024 image in about 2 seconds on an H100."
+        },
+        {
+          "t": "p",
+          "x": "NVFP4 and FP8 weights load with from_single_file for smaller GPUs, LoRA training scripts cover text-to-image and image editing, and the release ships as a Modular Diffusers pipeline so blocks can be swapped or added."
+        }
+      ]
+    },
+    "design/design-hesai-kosmo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+          "cap": "Hesai Launches Kosmo 3D World Data Engine."
+        },
+        {
+          "t": "p",
+          "x": "Hesai Group launched Kosmo, a 3D world data engine for Physical AI. It combines Kosmo One, an AI spatial camera, with the Kosmo World cloud platform to turn physical environments into high-fidelity 3D digital spaces for robot training, world model development and immersive content creation."
+        },
+        {
+          "t": "p",
+          "x": "Kosmo One pairs lidar, a one-inch imaging sensor and an IMU, and uses 3D Gaussian Splatting for millimeter-level accuracy. One operator can scan a typical 100-square-meter indoor space in about 15 minutes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+          "cap": "Kosmo delivers massive volumes of real-world scene data for embodied AI training."
+        },
+        {
+          "t": "p",
+          "x": "At a Dairy Queen store, building a 3D training environment previously took about 300 hours of manual modeling; with Kosmo it took 15 minutes, and the Sharpa robot's task success rate reached 99%."
+        },
+        {
+          "t": "p",
+          "x": "For film, a 10,000-square-meter streetscape that would take two months to build as a set can be scanned and edited in one week, and studios are using Kosmo in workflows built around Pixar's RenderMan."
+        }
+      ]
+    },
+    "design/design-builder-agent-native": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6t_AMjY5gJc"
+        },
+        {
+          "t": "p",
+          "x": "Builder.io is launching Agent-Native in beta: an open-source TypeScript framework for building AI agents with intuitive UIs. You can start locally with the open-source framework, or build online with Builder.io. Define a capability once and Agent-Native exposes it to the UI, agent, HTTP API, CLI, MCP and A2A."
+        },
+        {
+          "t": "p",
+          "x": "An agentic app is an AI agent that comes with its own app — not a chat sidebar added to an app: the agent and the UI are equal partners, so anything you can do in the UI, the agent can do too. They share actions (same validation, permissions and implementation), data (work stays in sync) and application state (the agent knows what's on your screen)."
+        },
+        {
+          "t": "p",
+          "x": "Unlike computer-use agents that click through a screen, Agent-Native agents call the same actions the UI uses, finishing faster with fewer tokens. You can message an agent from Slack, Teams, Discord, email, Telegram or WhatsApp, connect Notion, Linear and GitHub over MCP, and every app is also an MCP server for Claude, ChatGPT, Cursor or Codex."
+        },
+        {
+          "t": "p",
+          "x": "Built-in team features include shared instructions, skills and memory, plus authentication, permissions and live sync. Bring your own key for Anthropic, OpenAI, Gemini or OpenRouter, or run a local model with Ollama. Clips, Slides and Design are open-source agentic apps built with it."
+        }
+      ]
     }
   }
 }
