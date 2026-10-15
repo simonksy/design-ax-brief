@@ -1,191 +1,227 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "design",
   "cards": [
     {
-      "id": "design-builder-agent-native",
+      "id": "design-figma-specs",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "에이전트 앱 프레임워크\nBuilder.io가 공개",
-      "body": "Builder.io 프레임워크에선 액션 하나가 UI와 에이전트를 함께 움직인다.",
-      "mini_headline": "Builder.io, Agent-Native 베타 출시",
       "tool": "Figma",
-      "source": "Builder.io",
-      "url": "https://www.builder.io/blog/introducing-agent-native",
+      "eyebrow": "AI NEWS",
+      "headline": "Figma Specs\n캔버스에 Markdown",
+      "body": "Figma Specs는 팀과 AI 에이전트가 함께 보는 Markdown 명세다.",
+      "mini_headline": "Figma Specs, 캔버스에 Markdown",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/introducing-figma-specs/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "6t_AMjY5gJc"
+            "t": "p",
+            "x": "Figma가 Figma 캔버스에 맥락을 담아 두는 컨테이너 Specs를 내놓는다. 제품을 만드는 사람들은 에이전트와 일하면서 갈수록 Markdown을 많이 쓴다. 그런데 이런 파일은 대개 혼자 보는 데 그치고, 정작 그 뒤의 프로젝트와는 느슨하게 이어져 있다. Specs는 여러 사람이 함께 쓰는 컨테이너로, 맥락이 Figma 안팎을 드나들고 Figma 곳곳을 오가게 한다."
           },
           {
             "t": "p",
-            "x": "Builder.io가 Agent-Native를 베타로 내놓는다. 직관적인 UIs를 갖춘 AI 에이전트를 만드는 오픈소스 TypeScript 프레임워크다. 로컬에서 바로 시작해도 되고 Builder.io에서 온라인으로 만들어도 된다. 기능을 한 번 정의해 두면 Agent-Native가 UI, 에이전트, HTTP API, CLI, MCP, A2A에 한꺼번에 노출한다."
+            "x": "스펙에는 함께 내린 결정을 적는다. FigJam 파일이나 프레임, 캔버스의 어떤 노드든 넣을 수 있어 글과 디자인이 한자리에 놓인다. 만들 때는 'D' 키를 누르거나 툴바를 쓰면 되고, .md 파일을 캔버스로 끌어다 놓아도 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+            "cap": "GitHub 커넥터로 코드베이스를 보고 기술 스펙 초안을 쓴다."
           },
           {
             "t": "p",
-            "x": "에이전틱 앱은 앱에 채팅 사이드바를 덧붙인 것이 아니라 자체 앱을 갖춘 AI 에이전트다. 에이전트와 UI는 대등한 파트너라서 UI로 할 수 있는 일이면 에이전트도 할 수 있다. 둘은 액션(같은 검증, 권한, 구현), 데이터(작업이 계속 동기화된다), 애플리케이션 상태(에이전트가 화면에 무엇이 있는지 안다)를 함께 쓴다."
+            "x": "외부 맥락은 GitHub, Hex 같은 커넥터가 가져온다. Figma의 에이전트는 스펙에 달린 댓글을 읽고 쓰며, 아직 열린 댓글에는 수정 제안으로 답한다. PRD를 디자인, 프로토타입, 코드로 바꿀 수도 있고, 거꾸로 디자인과 코드를 스펙으로 되돌릴 수도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+            "cap": "디자인 시스템 컴포넌트를 보며 Figma의 에이전트에게 사용 맥락을 스펙으로 정리하게 한 뒤 캔버스에 나란히 둔다."
           },
           {
             "t": "p",
-            "x": "화면을 클릭해 가며 움직이는 컴퓨터 사용 에이전트와 달리, Agent-Native 에이전트는 UI와 같은 액션을 호출하니 토큰은 덜 쓰고 일은 더 빨리 끝낸다. 에이전트에게는 Slack, Teams, Discord, 이메일, Telegram, WhatsApp으로 메시지를 보내면 되고, Notion, Linear, GitHub는 MCP로 붙인다. 모든 앱이 Claude, ChatGPT, Cursor, Codex에서 쓸 MCP 서버 역할도 한다."
-          },
-          {
-            "t": "p",
-            "x": "공유 지침, 스킬, 메모리 같은 팀 기능에 인증, 권한, 실시간 동기화까지 기본으로 들어 있다. 모델은 Anthropic, OpenAI, Gemini, OpenRouter 키를 직접 가져와 쓰거나 Ollama로 로컬에서 돌리면 된다. Clips, Slides, Design도 이 프레임워크로 만든 오픈소스 에이전틱 앱이다."
+            "x": "Codex 같은 코딩 에이전트는 Figma MCP 서버로 스펙과 거기 연결된 맥락을 모두 읽는다. Specs는 웹, 데스크톱, 모바일에서 쓸 수 있으며 유료 플랜에 오픈 베타로 차례로 열린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Builder.io open-sources\nan agent-native app framework",
-          "body": "Builder.io's open-source TypeScript framework lets one action definition drive the UI, agent, API, CLI, MCP and A2A.",
-          "mini_headline": "Builder.io ships\nAgent-Native beta",
+          "headline": "Figma Specs puts Markdown\nright on the canvas",
+          "body": "Figma Specs is a Markdown container on the canvas that gives teams and AI agents one shared written spec.",
+          "mini_headline": "Figma Specs brings Markdown to canvas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6t_AMjY5gJc"
+                "t": "p",
+                "x": "Figma is launching Specs, a container for your context that lives on the Figma canvas. Product builders increasingly work in Markdown as they collaborate with agents, but those files tend to be single player and loosely tied to the projects behind them. Specs is a multiplayer container that lets context move into, out of, and across Figma."
               },
               {
                 "t": "p",
-                "x": "Builder.io is launching Agent-Native in beta: an open-source TypeScript framework for building AI agents with intuitive UIs. You can start locally with the open-source framework, or build online with Builder.io. Define a capability once and Agent-Native exposes it to the UI, agent, HTTP API, CLI, MCP and A2A."
+                "x": "A spec holds shared decisions and can embed a FigJam file, a frame, or any node from the canvas, so text and designs sit side by side. Press 'D' or use the toolbar to create one, or drag any .md file onto the canvas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Draft a technical spec based on your codebase with the GitHub connector."
               },
               {
                 "t": "p",
-                "x": "An agentic app is an AI agent that comes with its own app — not a chat sidebar added to an app: the agent and the UI are equal partners, so anything you can do in the UI, the agent can do too. They share actions (same validation, permissions and implementation), data (work stays in sync) and application state (the agent knows what's on your screen)."
+                "x": "Connectors such as GitHub and Hex bring outside context in, and Figma's agent can read and write comments in a spec, replying to open comments with suggested fixes. It can also turn a PRD into designs, prototypes, and code, or turn designs and code back into a spec."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "View design systems components and have Figma's agent document usage context in a spec, side by side on the canvas."
               },
               {
                 "t": "p",
-                "x": "Unlike computer-use agents that click through a screen, Agent-Native agents call the same actions the UI uses, finishing faster with fewer tokens. You can message an agent from Slack, Teams, Discord, email, Telegram or WhatsApp, connect Notion, Linear and GitHub over MCP, and every app is also an MCP server for Claude, ChatGPT, Cursor or Codex."
-              },
-              {
-                "t": "p",
-                "x": "Built-in team features include shared instructions, skills and memory, plus authentication, permissions and live sync. Bring your own key for Anthropic, OpenAI, Gemini or OpenRouter, or run a local model with Ollama. Clips, Slides and Design are open-source agentic apps built with it."
+                "x": "Through the Figma MCP server, coding agents like Codex can read a spec and all the context it links to. Specs is available on web, desktop, and mobile, rolling out in open beta to paid plans."
               }
             ]
           }
         },
         "ko": {
-          "headline": "에이전트 앱 프레임워크\nBuilder.io가 공개",
-          "body": "Builder.io 프레임워크에선 액션 하나가 UI와 에이전트를 함께 움직인다.",
-          "mini_headline": "Builder.io, Agent-Native 베타 출시",
+          "headline": "Figma Specs\n캔버스에 Markdown",
+          "body": "Figma Specs는 팀과 AI 에이전트가 함께 보는 Markdown 명세다.",
+          "mini_headline": "Figma Specs, 캔버스에 Markdown",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6t_AMjY5gJc"
+                "t": "p",
+                "x": "Figma가 Figma 캔버스에 맥락을 담아 두는 컨테이너 Specs를 내놓는다. 제품을 만드는 사람들은 에이전트와 일하면서 갈수록 Markdown을 많이 쓴다. 그런데 이런 파일은 대개 혼자 보는 데 그치고, 정작 그 뒤의 프로젝트와는 느슨하게 이어져 있다. Specs는 여러 사람이 함께 쓰는 컨테이너로, 맥락이 Figma 안팎을 드나들고 Figma 곳곳을 오가게 한다."
               },
               {
                 "t": "p",
-                "x": "Builder.io가 Agent-Native를 베타로 내놓는다. 직관적인 UIs를 갖춘 AI 에이전트를 만드는 오픈소스 TypeScript 프레임워크다. 로컬에서 바로 시작해도 되고 Builder.io에서 온라인으로 만들어도 된다. 기능을 한 번 정의해 두면 Agent-Native가 UI, 에이전트, HTTP API, CLI, MCP, A2A에 한꺼번에 노출한다."
+                "x": "스펙에는 함께 내린 결정을 적는다. FigJam 파일이나 프레임, 캔버스의 어떤 노드든 넣을 수 있어 글과 디자인이 한자리에 놓인다. 만들 때는 'D' 키를 누르거나 툴바를 쓰면 되고, .md 파일을 캔버스로 끌어다 놓아도 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "GitHub 커넥터로 코드베이스를 보고 기술 스펙 초안을 쓴다."
               },
               {
                 "t": "p",
-                "x": "에이전틱 앱은 앱에 채팅 사이드바를 덧붙인 것이 아니라 자체 앱을 갖춘 AI 에이전트다. 에이전트와 UI는 대등한 파트너라서 UI로 할 수 있는 일이면 에이전트도 할 수 있다. 둘은 액션(같은 검증, 권한, 구현), 데이터(작업이 계속 동기화된다), 애플리케이션 상태(에이전트가 화면에 무엇이 있는지 안다)를 함께 쓴다."
+                "x": "외부 맥락은 GitHub, Hex 같은 커넥터가 가져온다. Figma의 에이전트는 스펙에 달린 댓글을 읽고 쓰며, 아직 열린 댓글에는 수정 제안으로 답한다. PRD를 디자인, 프로토타입, 코드로 바꿀 수도 있고, 거꾸로 디자인과 코드를 스펙으로 되돌릴 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "디자인 시스템 컴포넌트를 보며 Figma의 에이전트에게 사용 맥락을 스펙으로 정리하게 한 뒤 캔버스에 나란히 둔다."
               },
               {
                 "t": "p",
-                "x": "화면을 클릭해 가며 움직이는 컴퓨터 사용 에이전트와 달리, Agent-Native 에이전트는 UI와 같은 액션을 호출하니 토큰은 덜 쓰고 일은 더 빨리 끝낸다. 에이전트에게는 Slack, Teams, Discord, 이메일, Telegram, WhatsApp으로 메시지를 보내면 되고, Notion, Linear, GitHub는 MCP로 붙인다. 모든 앱이 Claude, ChatGPT, Cursor, Codex에서 쓸 MCP 서버 역할도 한다."
-              },
-              {
-                "t": "p",
-                "x": "공유 지침, 스킬, 메모리 같은 팀 기능에 인증, 권한, 실시간 동기화까지 기본으로 들어 있다. 모델은 Anthropic, OpenAI, Gemini, OpenRouter 키를 직접 가져와 쓰거나 Ollama로 로컬에서 돌리면 된다. Clips, Slides, Design도 이 프레임워크로 만든 오픈소스 에이전틱 앱이다."
+                "x": "Codex 같은 코딩 에이전트는 Figma MCP 서버로 스펙과 거기 연결된 맥락을 모두 읽는다. Specs는 웹, 데스크톱, 모바일에서 쓸 수 있으며 유료 플랜에 오픈 베타로 차례로 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Builder.ioが公開\nエージェント型アプリ基盤",
-          "body": "Builder.ioの基盤は、一つのアクション定義でUIもエージェントも動かす。",
-          "mini_headline": "Builder.io、Agent-Nativeのベータ版を公開",
+          "headline": "Figma Specs\nキャンバスにMarkdown",
+          "body": "Figma Specsは、チームとAIエージェントが共有するMarkdownの仕様書だ。",
+          "mini_headline": "Figma Specs、キャンバスにMarkdown",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6t_AMjY5gJc"
+                "t": "p",
+                "x": "Figmaは、Figmaのキャンバス上に置けるコンテキストのコンテナ「Specs」を投入する。プロダクトをつくる人々はエージェントと協働するなかでMarkdownで作業することが増えているが、そうしたファイルは一人で使うものになりがちで、背後にあるプロジェクトとの結びつきも緩い。Specsは、コンテキストをFigmaの内へ、外へ、そしてFigma全体にわたって行き来させるマルチプレイヤーのコンテナだ。"
               },
               {
                 "t": "p",
-                "x": "Builder.ioはAgent-Nativeをベータ版として公開する。直感的なUIsを備えたAIエージェントを構築するための、オープンソースのTypeScriptフレームワークだ。オープンソースのフレームワークでローカルから始めることも、Builder.ioでオンラインで構築することもできる。機能を一度定義すれば、Agent-NativeがそれをUI、エージェント、HTTP API、CLI、MCP、A2Aに公開する。"
+                "x": "スペックには共有された決定事項を収め、FigJamファイルやフレーム、キャンバス上の任意のノードを埋め込めるため、テキストとデザインが並んで置かれる。「D」キーを押すかツールバーから作成でき、.mdファイルをキャンバスにドラッグしてもよい。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "GitHubコネクタを使い、コードベースをもとに技術スペックの草案を作る。"
               },
               {
                 "t": "p",
-                "x": "エージェント型アプリとは、独自のアプリを備えたAIエージェントであり、アプリにチャットのサイドバーを付け足したものではない。エージェントとUIは対等なパートナーで、UIでできることはエージェントにもできる。両者はアクション（同じ検証、権限、実装）、データ（作業は同期され続ける）、アプリケーションの状態（エージェントは画面に何が表示されているかを把握する）を共有する。"
+                "x": "GitHubやHexなどのコネクタが外部のコンテキストを取り込み、Figmaのエージェントはスペック内のコメントを読み書きし、未解決のコメントに修正案で返信できる。PRDをデザインやプロトタイプ、コードに変えることも、デザインとコードをスペックに戻すこともできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "デザインシステムのコンポーネントを確認し、Figmaのエージェントに使用上のコンテキストをスペックへ記録させ、キャンバス上に並べて置く。"
               },
               {
                 "t": "p",
-                "x": "画面をクリックして操作するコンピューター操作型エージェントと違い、Agent-NativeのエージェントはUIと同じアクションを呼び出すため、より少ないトークンでより速く処理を終える。Slack、Teams、Discord、メール、Telegram、WhatsAppからエージェントにメッセージを送れるほか、MCP経由でNotion、Linear、GitHubを接続できる。すべてのアプリはClaude、ChatGPT、Cursor、Codex向けのMCPサーバーにもなる。"
-              },
-              {
-                "t": "p",
-                "x": "共有の指示、スキル、メモリーといったチーム機能に加え、認証、権限、リアルタイム同期も組み込まれている。Anthropic、OpenAI、Gemini、OpenRouterのキーを自分で持ち込むことも、Ollamaでローカルモデルを動かすこともできる。Clips、Slides、Designは、これで作られたオープンソースのエージェント型アプリだ。"
+                "x": "Figma MCPサーバーを通じて、Codexのようなコーディングエージェントはスペックとそのリンク先のすべてのコンテキストを読み取れる。SpecsはWeb、デスクトップ、モバイルで利用でき、有料プラン向けにオープンベータとして順次提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Builder.io开源\n智能体原生应用框架",
-          "body": "Builder.io的开源框架用一个动作定义驱动UI、智能体与API。",
-          "mini_headline": "Builder.io推出Agent-Native测试版",
+          "headline": "Figma Specs\n把Markdown放上画布",
+          "body": "Figma Specs是画布上的Markdown容器，供团队与AI智能体共享规格文档。",
+          "mini_headline": "Figma Specs把Markdown带上画布",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6t_AMjY5gJc"
+                "t": "p",
+                "x": "Figma推出Specs，这是一个位于Figma画布上、用来承载上下文的容器。产品构建者在与智能体协作时越来越多地使用Markdown，但这些文件往往只供单人使用，与背后的项目联系松散。Specs是一个多人协作容器，让上下文可以流入、流出Figma，并在Figma各处流转。"
               },
               {
                 "t": "p",
-                "x": "Builder.io推出Agent-Native测试版：这是一个开源TypeScript框架，用于构建带有直观UIs的AI智能体。你可以用开源框架在本地起步，也可以在Builder.io上在线构建。一项能力只需定义一次，Agent-Native就会把它开放给UI、智能体、HTTP API、CLI、MCP和A2A。"
+                "x": "一份规格文档保存共享的决策，可以嵌入FigJam文件、框架或画布上的任意节点，让文字与设计并排呈现。按“D”键或使用工具栏即可创建，也可以把任意.md文件拖到画布上。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "借助GitHub连接器，根据代码库起草技术规格文档。"
               },
               {
                 "t": "p",
-                "x": "智能体应用是自带应用的AI智能体，而不是在应用里加一个聊天侧边栏：智能体与UI是平等的伙伴，凡是能在UI里做的事，智能体也能做。二者共享动作（相同的验证、权限和实现）、数据（工作保持同步）和应用状态（智能体知道你屏幕上有什么）。"
+                "x": "GitHub、Hex等连接器可引入外部上下文；Figma的智能体能读写规格文档中的评论，并以修改建议回复未解决的评论。它还能把PRD变成设计、原型和代码，或把设计和代码转回规格文档。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "查看设计系统组件，让Figma的智能体在规格文档中记录使用上下文，并排放在画布上。"
               },
               {
                 "t": "p",
-                "x": "与在屏幕上逐一点击的计算机操作型智能体不同，Agent-Native智能体调用UI所用的同一套动作，用更少的令牌更快完成任务。你可以从Slack、Teams、Discord、电子邮件、Telegram或WhatsApp给智能体发消息，通过MCP连接Notion、Linear和GitHub；每个应用同时也是供Claude、ChatGPT、Cursor或Codex使用的MCP服务器。"
-              },
-              {
-                "t": "p",
-                "x": "内置团队功能包括共享指令、技能和记忆，以及身份验证、权限和实时同步。可以自带Anthropic、OpenAI、Gemini或OpenRouter的密钥，也可以用Ollama运行本地模型。Clips、Slides和Design都是用它构建的开源智能体应用。"
+                "x": "通过Figma MCP服务器，Codex等编程智能体可以读取规格文档及其链接的全部上下文。Specs支持网页端、桌面端和移动端，正以公开测试版形式向付费方案逐步推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Builder.io libera un framework\nde apps nativas para agentes",
-          "body": "El framework de Builder.io hace que una sola definición de acción sirva a la UI, el agente, la API y MCP.",
-          "mini_headline": "Builder.io lanza la beta de Agent-Native",
+          "headline": "Figma Specs lleva Markdown\ndirectamente al lienzo",
+          "body": "Figma Specs es un contenedor de Markdown en el lienzo que da a equipos y agentes de AI una especificación compartida.",
+          "mini_headline": "Figma Specs lleva Markdown al lienzo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6t_AMjY5gJc"
+                "t": "p",
+                "x": "Figma lanza Specs, un contenedor para tu contexto que vive en el lienzo de Figma. Quienes crean productos trabajan cada vez más en Markdown mientras colaboran con agentes, pero esos archivos suelen ser de un solo usuario y estar poco vinculados a los proyectos que hay detrás. Specs es un contenedor multijugador que permite que el contexto entre, salga y circule por Figma."
               },
               {
                 "t": "p",
-                "x": "Builder.io lanza en beta Agent-Native, un framework de código abierto en TypeScript para crear agentes de AI con UIs intuitivas. Se puede empezar en local con el framework de código abierto o construir en línea con Builder.io. Basta definir una capacidad una vez para que Agent-Native la exponga a la UI, el agente, la HTTP API, la CLI, MCP y A2A."
+                "x": "Una spec reúne decisiones compartidas y puede incrustar un archivo de FigJam, un marco o cualquier nodo del lienzo, de modo que texto y diseños quedan uno al lado del otro. Se crea pulsando 'D' o desde la barra de herramientas, o arrastrando cualquier archivo .md al lienzo."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Redacta una especificación técnica basada en tu código con el conector de GitHub."
               },
               {
                 "t": "p",
-                "x": "Una app agéntica es un agente de AI que trae su propia app, no una barra lateral de chat añadida a una app: el agente y la UI son socios en pie de igualdad, de modo que todo lo que se puede hacer en la UI también lo puede hacer el agente. Comparten acciones (la misma validación, los mismos permisos y la misma implementación), datos (el trabajo se mantiene sincronizado) y estado de la aplicación (el agente sabe qué hay en la pantalla)."
+                "x": "Conectores como GitHub y Hex incorporan contexto externo, y el agente de Figma puede leer y escribir comentarios en una spec y responder a los comentarios abiertos con correcciones sugeridas. También puede convertir un PRD en diseños, prototipos y código, o convertir diseños y código de nuevo en una spec."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Consulta componentes del sistema de diseño y deja que el agente de Figma documente su contexto de uso en una spec, uno al lado del otro en el lienzo."
               },
               {
                 "t": "p",
-                "x": "A diferencia de los agentes que operan haciendo clic en la pantalla, los agentes de Agent-Native llaman a las mismas acciones que usa la UI y terminan más rápido con menos tokens. Se puede escribir a un agente desde Slack, Teams, Discord, correo electrónico, Telegram o WhatsApp, conectar Notion, Linear y GitHub mediante MCP, y cada app es también un servidor MCP para Claude, ChatGPT, Cursor o Codex."
-              },
-              {
-                "t": "p",
-                "x": "Incluye funciones de equipo como instrucciones, habilidades y memoria compartidas, además de autenticación, permisos y sincronización en vivo. Se puede usar una clave propia de Anthropic, OpenAI, Gemini u OpenRouter, o ejecutar un modelo local con Ollama. Clips, Slides y Design son apps agénticas de código abierto creadas con él."
+                "x": "A través del servidor Figma MCP, agentes de programación como Codex pueden leer una spec y todo el contexto que enlaza. Specs está disponible en web, escritorio y móvil, y se despliega en beta abierta para los planes de pago."
               }
             ]
           }
@@ -193,121 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "에이전트 앱 프레임워크,\nBuilder.io가 공개",
-          "body": "Builder.io 프레임워크는 액션 하나로 UI와 에이전트를 함께 움직인다.",
-          "mini_headline": "Builder.io, Agent-Native 베타 출시",
+          "headline": "Figma Specs\n캔버스에 Markdown",
+          "body": "Figma Specs는 팀과 AI 에이전트가 공유하는 Markdown 명세다.",
+          "mini_headline": "Figma Specs, 캔버스에 Markdown",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6t_AMjY5gJc"
+                "t": "p",
+                "x": "Figma가 Figma 캔버스 위에 맥락을 담아 두는 컨테이너 Specs를 내놓는다. 제품을 만드는 사람들은 에이전트와 협업하면서 점점 더 Markdown으로 일하지만, 이런 파일은 대개 혼자 쓰는 용도에 머물고 그 뒤의 프로젝트와도 느슨하게 이어져 있다. Specs는 맥락이 Figma 안팎을 드나들고 Figma 전반을 오가게 하는 멀티플레이어 컨테이너다."
               },
               {
                 "t": "p",
-                "x": "Builder.io가 Agent-Native를 베타로 내놓는다. 직관적인 UIs를 갖춘 AI 에이전트를 만드는 오픈소스 TypeScript 프레임워크다. 오픈소스 프레임워크로 로컬에서 시작하거나 Builder.io에서 온라인으로 만들 수 있다. 기능을 한 번 정의하면 Agent-Native가 이를 UI, 에이전트, HTTP API, CLI, MCP, A2A에 모두 노출한다."
+                "x": "스펙에는 함께 내린 결정을 담고, FigJam 파일이나 프레임, 캔버스의 어떤 노드든 넣을 수 있어 글과 디자인이 나란히 놓인다. 'D' 키를 누르거나 툴바에서 만들 수 있고, .md 파일을 캔버스로 끌어다 놓아도 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "GitHub 커넥터로 코드베이스를 바탕으로 기술 스펙 초안을 쓴다."
               },
               {
                 "t": "p",
-                "x": "에이전틱 앱은 자체 앱을 갖춘 AI 에이전트이며, 앱에 채팅 사이드바를 덧붙인 것이 아니다. 에이전트와 UI는 대등한 파트너여서 UI에서 할 수 있는 일은 에이전트도 할 수 있다. 둘은 액션(같은 검증, 권한, 구현), 데이터(작업이 계속 동기화된다), 애플리케이션 상태(에이전트가 화면에 무엇이 있는지 안다)를 공유한다."
+                "x": "GitHub, Hex 같은 커넥터가 외부 맥락을 가져오고, Figma의 에이전트는 스펙의 댓글을 읽고 쓰며 열린 댓글에 수정 제안으로 답한다. PRD를 디자인, 프로토타입, 코드로 바꾸거나 반대로 디자인과 코드를 스펙으로 되돌릴 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "디자인 시스템 컴포넌트를 보면서 Figma의 에이전트에게 사용 맥락을 스펙에 정리하게 하고, 캔버스 위에 나란히 둔다."
               },
               {
                 "t": "p",
-                "x": "화면을 클릭해 가며 움직이는 컴퓨터 사용 에이전트와 달리, Agent-Native 에이전트는 UI가 쓰는 것과 같은 액션을 호출해 더 적은 토큰으로 더 빨리 끝낸다. Slack, Teams, Discord, 이메일, Telegram, WhatsApp에서 에이전트에게 메시지를 보낼 수 있고, MCP로 Notion, Linear, GitHub를 연결할 수 있다. 모든 앱은 Claude, ChatGPT, Cursor, Codex를 위한 MCP 서버이기도 하다."
-              },
-              {
-                "t": "p",
-                "x": "공유 지침, 스킬, 메모리 같은 팀 기능과 인증, 권한, 실시간 동기화가 기본으로 들어 있다. Anthropic, OpenAI, Gemini, OpenRouter의 키를 직접 가져오거나 Ollama로 로컬 모델을 돌릴 수 있다. Clips, Slides, Design은 이 프레임워크로 만든 오픈소스 에이전틱 앱이다."
+                "x": "Figma MCP 서버를 통해 Codex 같은 코딩 에이전트가 스펙과 거기 연결된 모든 맥락을 읽을 수 있다. Specs는 웹, 데스크톱, 모바일에서 쓸 수 있고, 유료 플랜에 오픈 베타로 차례로 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Builder.ioが公開\nエージェント型アプリ基盤",
-          "body": "Builder.ioの基盤は、一つのアクション定義でUIもエージェントも動かす。",
-          "mini_headline": "Builder.io、Agent-Nativeのベータ版を公開",
+          "headline": "Figma Specs\nキャンバスにMarkdown",
+          "body": "Figma Specsは、チームとAIエージェントが共有するMarkdownの仕様書だ。",
+          "mini_headline": "Figma Specs、キャンバスにMarkdown",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6t_AMjY5gJc"
+                "t": "p",
+                "x": "Figmaは、Figmaのキャンバス上に置けるコンテキストのコンテナ「Specs」を投入する。プロダクトをつくる人々はエージェントと協働するなかでMarkdownで作業することが増えているが、そうしたファイルは一人で使うものになりがちで、背後にあるプロジェクトとの結びつきも緩い。Specsは、コンテキストをFigmaの内へ、外へ、そしてFigma全体にわたって行き来させるマルチプレイヤーのコンテナだ。"
               },
               {
                 "t": "p",
-                "x": "Builder.ioはAgent-Nativeをベータ版として公開する。直感的なUIsを備えたAIエージェントを構築するための、オープンソースのTypeScriptフレームワークだ。オープンソースのフレームワークでローカルから始めることも、Builder.ioでオンラインで構築することもできる。機能を一度定義すれば、Agent-NativeがそれをUI、エージェント、HTTP API、CLI、MCP、A2Aに公開する。"
+                "x": "スペックには共有された決定事項を収め、FigJamファイルやフレーム、キャンバス上の任意のノードを埋め込めるため、テキストとデザインが並んで置かれる。「D」キーを押すかツールバーから作成でき、.mdファイルをキャンバスにドラッグしてもよい。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "GitHubコネクタを使い、コードベースをもとに技術スペックの草案を作る。"
               },
               {
                 "t": "p",
-                "x": "エージェント型アプリとは、独自のアプリを備えたAIエージェントであり、アプリにチャットのサイドバーを付け足したものではない。エージェントとUIは対等なパートナーで、UIでできることはエージェントにもできる。両者はアクション（同じ検証、権限、実装）、データ（作業は同期され続ける）、アプリケーションの状態（エージェントは画面に何が表示されているかを把握する）を共有する。"
+                "x": "GitHubやHexなどのコネクタが外部のコンテキストを取り込み、Figmaのエージェントはスペック内のコメントを読み書きし、未解決のコメントに修正案で返信できる。PRDをデザインやプロトタイプ、コードに変えることも、デザインとコードをスペックに戻すこともできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "デザインシステムのコンポーネントを確認し、Figmaのエージェントに使用上のコンテキストをスペックへ記録させ、キャンバス上に並べて置く。"
               },
               {
                 "t": "p",
-                "x": "画面をクリックして操作するコンピューター操作型エージェントと違い、Agent-NativeのエージェントはUIと同じアクションを呼び出すため、より少ないトークンでより速く処理を終える。Slack、Teams、Discord、メール、Telegram、WhatsAppからエージェントにメッセージを送れるほか、MCP経由でNotion、Linear、GitHubを接続できる。すべてのアプリはClaude、ChatGPT、Cursor、Codex向けのMCPサーバーにもなる。"
-              },
-              {
-                "t": "p",
-                "x": "共有の指示、スキル、メモリーといったチーム機能に加え、認証、権限、リアルタイム同期も組み込まれている。Anthropic、OpenAI、Gemini、OpenRouterのキーを自分で持ち込むことも、Ollamaでローカルモデルを動かすこともできる。Clips、Slides、Designは、これで作られたオープンソースのエージェント型アプリだ。"
+                "x": "Figma MCPサーバーを通じて、Codexのようなコーディングエージェントはスペックとそのリンク先のすべてのコンテキストを読み取れる。SpecsはWeb、デスクトップ、モバイルで利用でき、有料プラン向けにオープンベータとして順次提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Builder.io开源\n智能体原生应用框架",
-          "body": "Builder.io的开源框架用一个动作定义驱动UI、智能体与API。",
-          "mini_headline": "Builder.io推出Agent-Native测试版",
+          "headline": "Figma Specs\n把Markdown放上画布",
+          "body": "Figma Specs是画布上的Markdown容器，供团队与AI智能体共享规格文档。",
+          "mini_headline": "Figma Specs把Markdown带上画布",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6t_AMjY5gJc"
+                "t": "p",
+                "x": "Figma推出Specs，这是一个位于Figma画布上、用来承载上下文的容器。产品构建者在与智能体协作时越来越多地使用Markdown，但这些文件往往只供单人使用，与背后的项目联系松散。Specs是一个多人协作容器，让上下文可以流入、流出Figma，并在Figma各处流转。"
               },
               {
                 "t": "p",
-                "x": "Builder.io推出Agent-Native测试版：这是一个开源TypeScript框架，用于构建带有直观UIs的AI智能体。你可以用开源框架在本地起步，也可以在Builder.io上在线构建。一项能力只需定义一次，Agent-Native就会把它开放给UI、智能体、HTTP API、CLI、MCP和A2A。"
+                "x": "一份规格文档保存共享的决策，可以嵌入FigJam文件、框架或画布上的任意节点，让文字与设计并排呈现。按“D”键或使用工具栏即可创建，也可以把任意.md文件拖到画布上。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "借助GitHub连接器，根据代码库起草技术规格文档。"
               },
               {
                 "t": "p",
-                "x": "智能体应用是自带应用的AI智能体，而不是在应用里加一个聊天侧边栏：智能体与UI是平等的伙伴，凡是能在UI里做的事，智能体也能做。二者共享动作（相同的验证、权限和实现）、数据（工作保持同步）和应用状态（智能体知道你屏幕上有什么）。"
+                "x": "GitHub、Hex等连接器可引入外部上下文；Figma的智能体能读写规格文档中的评论，并以修改建议回复未解决的评论。它还能把PRD变成设计、原型和代码，或把设计和代码转回规格文档。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "查看设计系统组件，让Figma的智能体在规格文档中记录使用上下文，并排放在画布上。"
               },
               {
                 "t": "p",
-                "x": "与在屏幕上逐一点击的计算机操作型智能体不同，Agent-Native智能体调用UI所用的同一套动作，用更少的令牌更快完成任务。你可以从Slack、Teams、Discord、电子邮件、Telegram或WhatsApp给智能体发消息，通过MCP连接Notion、Linear和GitHub；每个应用同时也是供Claude、ChatGPT、Cursor或Codex使用的MCP服务器。"
-              },
-              {
-                "t": "p",
-                "x": "内置团队功能包括共享指令、技能和记忆，以及身份验证、权限和实时同步。可以自带Anthropic、OpenAI、Gemini或OpenRouter的密钥，也可以用Ollama运行本地模型。Clips、Slides和Design都是用它构建的开源智能体应用。"
+                "x": "通过Figma MCP服务器，Codex等编程智能体可以读取规格文档及其链接的全部上下文。Specs支持网页端、桌面端和移动端，正以公开测试版形式向付费方案逐步推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Builder.io libera un framework\nde apps nativas para agentes",
-          "body": "El framework de Builder.io hace que una sola definición de acción sirva a la UI, el agente, la API y MCP.",
-          "mini_headline": "Builder.io lanza la beta de Agent-Native",
+          "headline": "Figma Specs lleva Markdown\ndirectamente al lienzo",
+          "body": "Figma Specs es un contenedor de Markdown en el lienzo que da a equipos y agentes de AI una especificación compartida.",
+          "mini_headline": "Figma Specs lleva Markdown al lienzo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "6t_AMjY5gJc"
+                "t": "p",
+                "x": "Figma lanza Specs, un contenedor para tu contexto que vive en el lienzo de Figma. Quienes crean productos trabajan cada vez más en Markdown mientras colaboran con agentes, pero esos archivos suelen ser de un solo usuario y estar poco vinculados a los proyectos que hay detrás. Specs es un contenedor multijugador que permite que el contexto entre, salga y circule por Figma."
               },
               {
                 "t": "p",
-                "x": "Builder.io lanza en beta Agent-Native, un framework de código abierto en TypeScript para crear agentes de AI con UIs intuitivas. Se puede empezar en local con el framework de código abierto o construir en línea con Builder.io. Basta definir una capacidad una vez para que Agent-Native la exponga a la UI, el agente, la HTTP API, la CLI, MCP y A2A."
+                "x": "Una spec reúne decisiones compartidas y puede incrustar un archivo de FigJam, un marco o cualquier nodo del lienzo, de modo que texto y diseños quedan uno al lado del otro. Se crea pulsando 'D' o desde la barra de herramientas, o arrastrando cualquier archivo .md al lienzo."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Redacta una especificación técnica basada en tu código con el conector de GitHub."
               },
               {
                 "t": "p",
-                "x": "Una app agéntica es un agente de AI que trae su propia app, no una barra lateral de chat añadida a una app: el agente y la UI son socios en pie de igualdad, de modo que todo lo que se puede hacer en la UI también lo puede hacer el agente. Comparten acciones (la misma validación, los mismos permisos y la misma implementación), datos (el trabajo se mantiene sincronizado) y estado de la aplicación (el agente sabe qué hay en la pantalla)."
+                "x": "Conectores como GitHub y Hex incorporan contexto externo, y el agente de Figma puede leer y escribir comentarios en una spec y responder a los comentarios abiertos con correcciones sugeridas. También puede convertir un PRD en diseños, prototipos y código, o convertir diseños y código de nuevo en una spec."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Consulta componentes del sistema de diseño y deja que el agente de Figma documente su contexto de uso en una spec, uno al lado del otro en el lienzo."
               },
               {
                 "t": "p",
-                "x": "A diferencia de los agentes que operan haciendo clic en la pantalla, los agentes de Agent-Native llaman a las mismas acciones que usa la UI y terminan más rápido con menos tokens. Se puede escribir a un agente desde Slack, Teams, Discord, correo electrónico, Telegram o WhatsApp, conectar Notion, Linear y GitHub mediante MCP, y cada app es también un servidor MCP para Claude, ChatGPT, Cursor o Codex."
-              },
-              {
-                "t": "p",
-                "x": "Incluye funciones de equipo como instrucciones, habilidades y memoria compartidas, además de autenticación, permisos y sincronización en vivo. Se puede usar una clave propia de Anthropic, OpenAI, Gemini u OpenRouter, o ejecutar un modelo local con Ollama. Clips, Slides y Design son apps agénticas de código abierto creadas con él."
+                "x": "A través del servidor Figma MCP, agentes de programación como Codex pueden leer una spec y todo el contexto que enlaza. Specs está disponible en web, escritorio y móvil, y se despliega en beta abierta para los planes de pago."
               }
             ]
           }
@@ -315,15 +375,851 @@
       }
     },
     {
-      "id": "design-spectral-labs-ai-cad",
+      "id": "design-bluesky-attie",
       "source_lang": "en",
+      "tool": "AI Workflow",
       "eyebrow": "AI NEWS",
-      "headline": "AI, SolidWorks\n자격시험 통과 주장",
-      "body": "Spectral Labs는 자사 AI가 처음으로 CAD 인증을 땄다고 주장한다.",
-      "mini_headline": "AI, SolidWorks 시험 통과",
+      "headline": "Bluesky Attie,\n소셜 게임·앱 만든다",
+      "body": "Bluesky의 Attie는 프롬프트로 작은 게임·투표·대시보드를 만든다.",
+      "mini_headline": "Bluesky Attie, 공유형 앱을 만든다",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+          },
+          {
+            "t": "p",
+            "x": "Bluesky의 Attie는 올해 초 AI로 나만의 피드를 만드는 도구로 처음 나왔다. 이제는 이 AI 도구로 게임, 투표, 대시보드 같은 “작은” 소셜 앱을 만들고, 각 앱을 저마다의 웹사이트로 다른 사람과 나눌 수 있다. Bluesky CEO Toni Schneider는 TechCrunch Disrupt 인터뷰에서 Attie를 “소셜 바이브 코딩, 혹은 커뮤니티를 위한 바이브 코딩”쯤으로 보면 된다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "프롬프트만 넣으면 자신만의 Attie 앱이 나온다. 내가 만든 Pokémon Red와 Pokémon Blue 간단 투표는 만드는 데 몇 분이 걸렸다. 좀 더 제대로 된 걸 보고 싶다면 Attie 웹사이트에 올라온 예시를 보면 된다. Flappy Bird를 본뜬 “Flappy Butterfly”, 드럼 머신, 퀴즈, 셀러리 맨이 나오는 방치형 클리커 등이다. 저마다 attie.site 도메인의 전용 링크가 붙고, 페이지 하단에 누가 만들었는지 표시된다. 만져 본 앱들은 대체로 가벼운 장난감 수준이었지만 드럼 머신은 마음에 들었다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Bluesky's Attie now builds\nsmall social games and apps",
+          "body": "Bluesky's Attie now turns prompts into small games, polls and dashboards people can share as their own websites.",
+          "mini_headline": "Bluesky's Attie builds shareable apps",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make “small” social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to think of Attie as “social vibe coding or vibe coding for your community.”"
+              },
+              {
+                "t": "p",
+                "x": "You can make your own Attie app by typing in a prompt. A simple poll I made about Pokémon Red and Pokémon Blue took a few minutes to generate. If you want to check out something more full-featured, the Attie website currently highlights a few examples like a “Flappy Butterfly” Flappy Bird clone, a drum machine, a quiz, and an idle clicker about a celery man, and each has a custom link on the attie.site domain and attribution for who made the social app at the bottom of the page. The apps I’ve messed around with are pretty lightweight novelties, though I liked the drum machine."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Bluesky Attie,\n소셜 게임·앱 만든다",
+          "body": "Bluesky의 Attie는 프롬프트로 작은 게임·투표·대시보드를 만든다.",
+          "mini_headline": "Bluesky Attie, 공유형 앱을 만든다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Bluesky의 Attie는 올해 초 AI로 나만의 피드를 만드는 도구로 처음 나왔다. 이제는 이 AI 도구로 게임, 투표, 대시보드 같은 “작은” 소셜 앱을 만들고, 각 앱을 저마다의 웹사이트로 다른 사람과 나눌 수 있다. Bluesky CEO Toni Schneider는 TechCrunch Disrupt 인터뷰에서 Attie를 “소셜 바이브 코딩, 혹은 커뮤니티를 위한 바이브 코딩”쯤으로 보면 된다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "프롬프트만 넣으면 자신만의 Attie 앱이 나온다. 내가 만든 Pokémon Red와 Pokémon Blue 간단 투표는 만드는 데 몇 분이 걸렸다. 좀 더 제대로 된 걸 보고 싶다면 Attie 웹사이트에 올라온 예시를 보면 된다. Flappy Bird를 본뜬 “Flappy Butterfly”, 드럼 머신, 퀴즈, 셀러리 맨이 나오는 방치형 클리커 등이다. 저마다 attie.site 도메인의 전용 링크가 붙고, 페이지 하단에 누가 만들었는지 표시된다. 만져 본 앱들은 대체로 가벼운 장난감 수준이었지만 드럼 머신은 마음에 들었다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "BlueskyのAttie\nゲームやアプリも作れるように",
+          "body": "BlueskyのAttieは、プロンプトから共有できるゲームや投票、ダッシュボードを作る。",
+          "mini_headline": "BlueskyのAttie、共有できるアプリを作る",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "今年初めにAIで自分だけのフィードを作る手段として登場したBlueskyのAttie AIツールで、ゲームや投票、ダッシュボードといった「小さな」ソーシャルアプリを作り、それぞれ独自のウェブサイトとして他の人と共有できるようになった。BlueskyのCEOであるToni SchneiderはTechCrunch Disruptでのインタビューで、Attieは「ソーシャルなバイブコーディング、あるいはコミュニティのためのバイブコーディング」だと考えてほしいと語った。"
+              },
+              {
+                "t": "p",
+                "x": "プロンプトを入力すれば自分のAttieアプリを作れる。筆者がPokémon RedとPokémon Blueについて作った簡単な投票は、生成に数分かかった。もっと機能の充実したものを見たいなら、Attieのウェブサイトでは現在、Flappy Birdのクローン「Flappy Butterfly」やドラムマシン、クイズ、セロリマンが登場する放置型クリッカーなどの例が紹介されており、それぞれattie.siteドメインの専用リンクと、ページ下部に作者の表示がある。筆者が触ったアプリはかなり軽いお遊び程度だが、ドラムマシンは気に入った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Bluesky的Attie\n能做小型社交游戏和应用",
+          "body": "Bluesky的Attie能把提示词变成可作为网站分享的小游戏、投票和仪表盘。",
+          "mini_headline": "Bluesky的Attie能做可分享应用",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Bluesky的Attie AI工具今年早些时候推出时，是让人用AI打造自己的信息流，如今还能制作游戏、投票、仪表盘等“小型”社交应用，并以独立网站的形式分享给他人。Bluesky CEO Toni Schneider在TechCrunch Disrupt接受采访时表示，可以把Attie看作“社交版氛围编程，或者说为你的社区做的氛围编程”。"
+              },
+              {
+                "t": "p",
+                "x": "输入提示词就能做出自己的Attie应用。我做了一个关于Pokémon Red和Pokémon Blue的简单投票，生成用了几分钟。如果想看功能更完整的作品，Attie网站目前展示了几个示例，比如仿Flappy Bird的“Flappy Butterfly”、一台鼓机、一个测验，以及一个关于芹菜人的放置点击游戏，每个都有attie.site域名下的专属链接，并在页面底部注明作者。我试玩过的应用都是相当轻量的小玩意，不过我挺喜欢那台鼓机。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Attie, de Bluesky, ya crea\npequeños juegos y apps sociales",
+          "body": "Attie, de Bluesky, convierte prompts en pequeños juegos, encuestas y paneles que se comparten como sitios web propios.",
+          "mini_headline": "Attie, de Bluesky, crea apps para compartir",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "La herramienta de AI Attie, de Bluesky, que se lanzó a principios de este año como una forma de usar AI para crear tus propios feeds, ahora permite hacer apps sociales “pequeñas”, como juegos, encuestas y paneles, que luego puedes compartir con otros como sitios web propios. En una entrevista en TechCrunch Disrupt, el CEO de Bluesky, Toni Schneider, dijo que hay que pensar en Attie como “vibe coding social o vibe coding para tu comunidad”."
+              },
+              {
+                "t": "p",
+                "x": "Puedes crear tu propia app de Attie escribiendo un prompt. Una encuesta sencilla que hice sobre Pokémon Red y Pokémon Blue tardó unos minutos en generarse. Si quieres ver algo más completo, el sitio web de Attie destaca ahora algunos ejemplos, como “Flappy Butterfly”, un clon de Flappy Bird, una caja de ritmos, un cuestionario y un juego de clics inactivo sobre un hombre apio; cada uno tiene un enlace propio en el dominio attie.site y, al pie de la página, el crédito de quién creó la app. Las apps que he probado son novedades bastante ligeras, aunque la caja de ritmos me gustó."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Bluesky Attie,\n소셜 게임·앱 만든다",
+          "body": "Bluesky의 Attie는 프롬프트로 작은 게임·투표·대시보드를 만든다.",
+          "mini_headline": "Bluesky Attie, 공유형 앱을 만든다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "올해 초 AI로 나만의 피드를 만드는 도구로 처음 나온 Bluesky의 Attie AI 도구로 이제 게임, 투표, 대시보드 같은 “작은” 소셜 앱을 만들고, 이를 각자의 웹사이트로 다른 사람과 공유할 수 있다. Bluesky CEO Toni Schneider는 TechCrunch Disrupt 인터뷰에서 Attie를 “소셜 바이브 코딩, 혹은 커뮤니티를 위한 바이브 코딩”으로 생각하면 된다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "프롬프트를 입력하면 자신만의 Attie 앱을 만들 수 있다. 내가 만든 Pokémon Red와 Pokémon Blue에 관한 간단한 투표는 생성에 몇 분이 걸렸다. 기능이 더 갖춰진 것을 보고 싶다면, Attie 웹사이트에는 현재 Flappy Bird를 본뜬 “Flappy Butterfly”, 드럼 머신, 퀴즈, 셀러리 맨이 나오는 방치형 클리커 같은 예시가 올라와 있고, 각각 attie.site 도메인의 전용 링크가 있으며 페이지 하단에 누가 만들었는지 표시된다. 내가 만져 본 앱들은 꽤 가벼운 장난감 수준이지만, 드럼 머신은 마음에 들었다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "BlueskyのAttie\nゲームやアプリも作れるように",
+          "body": "BlueskyのAttieは、プロンプトから共有できるゲームや投票、ダッシュボードを作る。",
+          "mini_headline": "BlueskyのAttie、共有できるアプリを作る",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "今年初めにAIで自分だけのフィードを作る手段として登場したBlueskyのAttie AIツールで、ゲームや投票、ダッシュボードといった「小さな」ソーシャルアプリを作り、それぞれ独自のウェブサイトとして他の人と共有できるようになった。BlueskyのCEOであるToni SchneiderはTechCrunch Disruptでのインタビューで、Attieは「ソーシャルなバイブコーディング、あるいはコミュニティのためのバイブコーディング」だと考えてほしいと語った。"
+              },
+              {
+                "t": "p",
+                "x": "プロンプトを入力すれば自分のAttieアプリを作れる。筆者がPokémon RedとPokémon Blueについて作った簡単な投票は、生成に数分かかった。もっと機能の充実したものを見たいなら、Attieのウェブサイトでは現在、Flappy Birdのクローン「Flappy Butterfly」やドラムマシン、クイズ、セロリマンが登場する放置型クリッカーなどの例が紹介されており、それぞれattie.siteドメインの専用リンクと、ページ下部に作者の表示がある。筆者が触ったアプリはかなり軽いお遊び程度だが、ドラムマシンは気に入った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Bluesky的Attie\n能做小型社交游戏和应用",
+          "body": "Bluesky的Attie能把提示词变成可作为网站分享的小游戏、投票和仪表盘。",
+          "mini_headline": "Bluesky的Attie能做可分享应用",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Bluesky的Attie AI工具今年早些时候推出时，是让人用AI打造自己的信息流，如今还能制作游戏、投票、仪表盘等“小型”社交应用，并以独立网站的形式分享给他人。Bluesky CEO Toni Schneider在TechCrunch Disrupt接受采访时表示，可以把Attie看作“社交版氛围编程，或者说为你的社区做的氛围编程”。"
+              },
+              {
+                "t": "p",
+                "x": "输入提示词就能做出自己的Attie应用。我做了一个关于Pokémon Red和Pokémon Blue的简单投票，生成用了几分钟。如果想看功能更完整的作品，Attie网站目前展示了几个示例，比如仿Flappy Bird的“Flappy Butterfly”、一台鼓机、一个测验，以及一个关于芹菜人的放置点击游戏，每个都有attie.site域名下的专属链接，并在页面底部注明作者。我试玩过的应用都是相当轻量的小玩意，不过我挺喜欢那台鼓机。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Attie, de Bluesky, ya crea\npequeños juegos y apps sociales",
+          "body": "Attie, de Bluesky, convierte prompts en pequeños juegos, encuestas y paneles que se comparten como sitios web propios.",
+          "mini_headline": "Attie, de Bluesky, crea apps para compartir",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "La herramienta de AI Attie, de Bluesky, que se lanzó a principios de este año como una forma de usar AI para crear tus propios feeds, ahora permite hacer apps sociales “pequeñas”, como juegos, encuestas y paneles, que luego puedes compartir con otros como sitios web propios. En una entrevista en TechCrunch Disrupt, el CEO de Bluesky, Toni Schneider, dijo que hay que pensar en Attie como “vibe coding social o vibe coding para tu comunidad”."
+              },
+              {
+                "t": "p",
+                "x": "Puedes crear tu propia app de Attie escribiendo un prompt. Una encuesta sencilla que hice sobre Pokémon Red y Pokémon Blue tardó unos minutos en generarse. Si quieres ver algo más completo, el sitio web de Attie destaca ahora algunos ejemplos, como “Flappy Butterfly”, un clon de Flappy Bird, una caja de ritmos, un cuestionario y un juego de clics inactivo sobre un hombre apio; cada uno tiene un enlace propio en el dominio attie.site y, al pie de la página, el crédito de quién creó la app. Las apps que he probado son novedades bastante ligeras, aunque la caja de ritmos me gustó."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-lovable-models",
+      "source_lang": "en",
+      "tool": "Figma",
+      "eyebrow": "AI NEWS",
+      "headline": "Lovable 앱이 이제\n말하고 추론하고 작곡한다",
+      "body": "Lovable 앱이 GPT-Live·Claude·Gemini·Lyria를 쓴다.",
+      "mini_headline": "Lovable 앱에 음성과 영상이 붙는다",
+      "source": "Lovable",
+      "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Lovable에서 만든 앱이 쓸 수 있는 AI 모델과 도구가 새로 늘었다. 말을 주고받는 튜터, 출처를 확인할 수 있는 리서치 도구, 답장 초안을 써 주는 고객 지원 받은편지함까지 Lovable 밖으로 나가지 않고 만든다."
+          },
+          {
+            "t": "p",
+            "x": "실시간 음성 대화는 OpenAI의 GPT-Live가 맡는다. Anthropic의 최신 Claude 모델은 읽기와 추론, 더 긴 작업을 처리한다. Google 쪽에서는 Gemini 4 Argon이 지식 업무를 맡고, Gemini Omni는 텍스트·사진·오디오·클립을 영상으로 바꾼다. 오리지널 음악은 Lyria가 만든다."
+          },
+          {
+            "t": "p",
+            "x": "Perplexity는 실시간 웹에서 찾은 답에 출처를 달아 준다. Firecrawl과 Parallel은 웹 데이터를 검색해 모으고, Typesafe AI의 Jev는 분류·점수 매기기·라우팅 결정을 빠르게 내린다."
+          },
+          {
+            "t": "p",
+            "x": "사용자는 원하는 앱이나 기능을 설명하면 그만이다. 모델이나 도구는 Lovable이 고르고, 채팅에 “use Opus 5.5”나 “use Perplexity”라고 적어 직접 정해도 된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Lovable apps can now talk,\nreason, and make music",
+          "body": "Lovable now lets prompt-built apps call GPT-Live, Claude, Gemini and Lyria for voice, reasoning, video and music.",
+          "mini_headline": "Lovable apps gain voice and video",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lovable is adding new AI models and tools that the apps people build on it can use, so a tutor people can talk to, a research tool with checkable sources, or a support inbox that drafts replies can be built without leaving Lovable."
+              },
+              {
+                "t": "p",
+                "x": "GPT-Live from OpenAI brings real-time voice conversation. The latest Claude models from Anthropic handle reading, reasoning and longer tasks. From Google, Gemini 4 Argon covers knowledge work, Gemini Omni turns text, photos, audio and clips into video, and Lyria writes original music."
+              },
+              {
+                "t": "p",
+                "x": "Perplexity adds cited answers from the live web, Firecrawl and Parallel search and gather web data, and Jev by Typesafe AI makes quick sort, score and route decisions."
+              },
+              {
+                "t": "p",
+                "x": "Users just describe the app or feature they want. Lovable will choose a model or tool, or they can name one in the chat, like “use Opus 5.5” or “use Perplexity.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Lovable 앱이 이제\n말하고 추론하고 작곡한다",
+          "body": "Lovable 앱이 GPT-Live·Claude·Gemini·Lyria를 쓴다.",
+          "mini_headline": "Lovable 앱에 음성과 영상이 붙는다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lovable에서 만든 앱이 쓸 수 있는 AI 모델과 도구가 새로 늘었다. 말을 주고받는 튜터, 출처를 확인할 수 있는 리서치 도구, 답장 초안을 써 주는 고객 지원 받은편지함까지 Lovable 밖으로 나가지 않고 만든다."
+              },
+              {
+                "t": "p",
+                "x": "실시간 음성 대화는 OpenAI의 GPT-Live가 맡는다. Anthropic의 최신 Claude 모델은 읽기와 추론, 더 긴 작업을 처리한다. Google 쪽에서는 Gemini 4 Argon이 지식 업무를 맡고, Gemini Omni는 텍스트·사진·오디오·클립을 영상으로 바꾼다. 오리지널 음악은 Lyria가 만든다."
+              },
+              {
+                "t": "p",
+                "x": "Perplexity는 실시간 웹에서 찾은 답에 출처를 달아 준다. Firecrawl과 Parallel은 웹 데이터를 검색해 모으고, Typesafe AI의 Jev는 분류·점수 매기기·라우팅 결정을 빠르게 내린다."
+              },
+              {
+                "t": "p",
+                "x": "사용자는 원하는 앱이나 기능을 설명하면 그만이다. 모델이나 도구는 Lovable이 고르고, 채팅에 “use Opus 5.5”나 “use Perplexity”라고 적어 직접 정해도 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Lovableのアプリが\n話し、推論し、作曲する",
+          "body": "LovableアプリはGPT-Live、Claude、Gemini、Lyriaを使える。",
+          "mini_headline": "Lovableアプリに音声と動画",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lovableは、そこで作られたアプリが使える新しいAIモデルとツールを追加している。話しかけられる家庭教師、出典を確認できるリサーチツール、返信の下書きを作るサポート用受信箱を、Lovableを離れずに作れる。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIのGPT-Liveはリアルタイムの音声会話をもたらす。Anthropicの最新Claudeモデルは読解、推論、長めのタスクを担う。Googleからは、Gemini 4 Argonが知的作業を、Gemini Omniがテキスト・写真・音声・クリップを動画に変える役割を担い、Lyriaはオリジナルの音楽を作る。"
+              },
+              {
+                "t": "p",
+                "x": "Perplexityはライブのウェブから出典付きの回答を加え、FirecrawlとParallelはウェブデータを検索・収集し、Typesafe AIのJevは分類、スコアリング、振り分けの判断を素早く下す。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーは欲しいアプリや機能を説明するだけでよい。Lovableがモデルやツールを選ぶほか、チャットで「use Opus 5.5」や「use Perplexity」のように指名することもできる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Lovable应用现在能\n说话、推理、作曲",
+          "body": "Lovable应用可调用GPT-Live、Claude、Gemini和Lyria。",
+          "mini_headline": "Lovable应用新增语音与视频",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lovable正在新增一批AI模型和工具，供用户在平台上搭建的应用调用。这样一来，可以对话的辅导老师、来源可核查的研究工具、能起草回复的客服收件箱，都无需离开Lovable就能做出来。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI的GPT-Live带来实时语音对话。Anthropic最新的Claude模型负责阅读、推理和更长的任务。来自Google的Gemini 4 Argon承担知识工作，Gemini Omni把文本、照片、音频和片段变成视频，Lyria则创作原创音乐。"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity提供来自实时网络、附带引用的回答，Firecrawl和Parallel负责搜索并收集网页数据，Typesafe AI的Jev则快速做出分类、打分和分流决策。"
+              },
+              {
+                "t": "p",
+                "x": "用户只需描述想要的应用或功能。Lovable会自行选择模型或工具，用户也可以在聊天中点名，比如“use Opus 5.5”或“use Perplexity”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las apps de Lovable ya hablan,\nrazonan y hacen música",
+          "body": "Lovable permite que las apps usen GPT-Live, Claude, Gemini y Lyria para voz, razonamiento, video y música.",
+          "mini_headline": "Las apps de Lovable suman voz y video",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lovable está añadiendo nuevos modelos y herramientas de AI que pueden usar las apps creadas en la plataforma, de modo que un tutor con el que se puede hablar, una herramienta de investigación con fuentes verificables o una bandeja de soporte que redacta respuestas se pueden crear sin salir de Lovable."
+              },
+              {
+                "t": "p",
+                "x": "GPT-Live, de OpenAI, aporta conversación por voz en tiempo real. Los modelos Claude más recientes de Anthropic se ocupan de la lectura, el razonamiento y las tareas más largas. De Google, Gemini 4 Argon cubre el trabajo de conocimiento, Gemini Omni convierte texto, fotos, audio y clips en video, y Lyria compone música original."
+              },
+              {
+                "t": "p",
+                "x": "Perplexity añade respuestas con citas de la web en vivo, Firecrawl y Parallel buscan y recopilan datos web, y Jev, de Typesafe AI, toma decisiones rápidas de clasificación, puntuación y enrutamiento."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios solo describen la app o la función que quieren. Lovable elige un modelo o una herramienta, o pueden nombrar uno en el chat, como “use Opus 5.5” o “use Perplexity”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Lovable 앱이 이제\n말하고 추론하고 작곡한다",
+          "body": "Lovable 앱이 GPT-Live·Claude·Gemini·Lyria를 쓴다.",
+          "mini_headline": "Lovable 앱에 음성과 영상이 붙는다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lovable이 그 위에서 만든 앱이 쓸 수 있는 새 AI 모델과 도구를 더한다. 대화할 수 있는 튜터, 출처를 확인할 수 있는 리서치 도구, 답장 초안을 써 주는 고객 지원 받은편지함을 Lovable을 떠나지 않고 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI의 GPT-Live는 실시간 음성 대화를 맡는다. Anthropic의 최신 Claude 모델은 읽기와 추론, 더 긴 작업을 처리한다. Google 쪽에서는 Gemini 4 Argon이 지식 업무를, Gemini Omni가 텍스트·사진·오디오·클립을 영상으로 바꾸는 일을 맡고, Lyria는 오리지널 음악을 만든다."
+              },
+              {
+                "t": "p",
+                "x": "Perplexity는 실시간 웹에서 출처를 단 답변을 더하고, Firecrawl과 Parallel은 웹 데이터를 검색하고 모으며, Typesafe AI의 Jev는 분류·점수 매기기·라우팅 결정을 빠르게 내린다."
+              },
+              {
+                "t": "p",
+                "x": "사용자는 원하는 앱이나 기능을 설명하기만 하면 된다. Lovable이 모델이나 도구를 고르고, 채팅에서 “use Opus 5.5”나 “use Perplexity”처럼 직접 지정할 수도 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Lovableのアプリが\n話し、推論し、作曲する",
+          "body": "LovableアプリはGPT-Live、Claude、Gemini、Lyriaを使える。",
+          "mini_headline": "Lovableアプリに音声と動画",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lovableは、そこで作られたアプリが使える新しいAIモデルとツールを追加している。話しかけられる家庭教師、出典を確認できるリサーチツール、返信の下書きを作るサポート用受信箱を、Lovableを離れずに作れる。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIのGPT-Liveはリアルタイムの音声会話をもたらす。Anthropicの最新Claudeモデルは読解、推論、長めのタスクを担う。Googleからは、Gemini 4 Argonが知的作業を、Gemini Omniがテキスト・写真・音声・クリップを動画に変える役割を担い、Lyriaはオリジナルの音楽を作る。"
+              },
+              {
+                "t": "p",
+                "x": "Perplexityはライブのウェブから出典付きの回答を加え、FirecrawlとParallelはウェブデータを検索・収集し、Typesafe AIのJevは分類、スコアリング、振り分けの判断を素早く下す。"
+              },
+              {
+                "t": "p",
+                "x": "ユーザーは欲しいアプリや機能を説明するだけでよい。Lovableがモデルやツールを選ぶほか、チャットで「use Opus 5.5」や「use Perplexity」のように指名することもできる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Lovable应用现在能\n说话、推理、作曲",
+          "body": "Lovable应用可调用GPT-Live、Claude、Gemini和Lyria。",
+          "mini_headline": "Lovable应用新增语音与视频",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lovable正在新增一批AI模型和工具，供用户在平台上搭建的应用调用。这样一来，可以对话的辅导老师、来源可核查的研究工具、能起草回复的客服收件箱，都无需离开Lovable就能做出来。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI的GPT-Live带来实时语音对话。Anthropic最新的Claude模型负责阅读、推理和更长的任务。来自Google的Gemini 4 Argon承担知识工作，Gemini Omni把文本、照片、音频和片段变成视频，Lyria则创作原创音乐。"
+              },
+              {
+                "t": "p",
+                "x": "Perplexity提供来自实时网络、附带引用的回答，Firecrawl和Parallel负责搜索并收集网页数据，Typesafe AI的Jev则快速做出分类、打分和分流决策。"
+              },
+              {
+                "t": "p",
+                "x": "用户只需描述想要的应用或功能。Lovable会自行选择模型或工具，用户也可以在聊天中点名，比如“use Opus 5.5”或“use Perplexity”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las apps de Lovable ya hablan,\nrazonan y hacen música",
+          "body": "Lovable permite que las apps usen GPT-Live, Claude, Gemini y Lyria para voz, razonamiento, video y música.",
+          "mini_headline": "Las apps de Lovable suman voz y video",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Lovable está añadiendo nuevos modelos y herramientas de AI que pueden usar las apps creadas en la plataforma, de modo que un tutor con el que se puede hablar, una herramienta de investigación con fuentes verificables o una bandeja de soporte que redacta respuestas se pueden crear sin salir de Lovable."
+              },
+              {
+                "t": "p",
+                "x": "GPT-Live, de OpenAI, aporta conversación por voz en tiempo real. Los modelos Claude más recientes de Anthropic se ocupan de la lectura, el razonamiento y las tareas más largas. De Google, Gemini 4 Argon cubre el trabajo de conocimiento, Gemini Omni convierte texto, fotos, audio y clips en video, y Lyria compone música original."
+              },
+              {
+                "t": "p",
+                "x": "Perplexity añade respuestas con citas de la web en vivo, Firecrawl y Parallel buscan y recopilan datos web, y Jev, de Typesafe AI, toma decisiones rápidas de clasificación, puntuación y enrutamiento."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios solo describen la app o la función que quieren. Lovable elige un modelo o una herramienta, o pueden nombrar uno en el chat, como “use Opus 5.5” o “use Perplexity”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-flux3-klein",
+      "source_lang": "en",
+      "tool": "Design Tokens",
+      "eyebrow": "AI NEWS",
+      "headline": "FLUX.3 Klein,\n첫날부터 Diffusers",
+      "body": "FLUX.3 Image Klein, 작은 GPUs용 FP8·NVFP4도 나왔다.",
+      "mini_headline": "FLUX.3 Klein, Diffusers에 합류",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/flux-3",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+            "cap": "FLUX.3 Image Klein으로 하는 텍스트-이미지, 이미지-이미지 생성과 레이아웃 제어"
+          },
+          {
+            "t": "p",
+            "x": "Black Forest Labs의 FLUX.3 Image Klein이 나왔다. 첫날부터 Diffusers에서 돌아간다. 모델 하나가 텍스트-이미지 생성과, 참조 이미지 여러 장을 쓰는 이미지-이미지 생성을 모두 하고 레이아웃 제어까지 더했다. 프롬프트에 바운딩 박스를 적으면 이미지의 각 부분이 들어갈 자리와 참조 이미지에서 옮겨 올 부분이 정해진다."
+          },
+          {
+            "t": "img",
+            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+            "cap": "0–1000 그리드에 박스로 배치한 캡션 하나와 영역 설명 두 개, 그 결과로 나온 이미지"
+          },
+          {
+            "t": "p",
+            "x": "공개된 체크포인트는 둘이다. 빠른 추론용 타임스텝 증류 모델(16단계, CFG 없음)과 기본 모델(50단계, CFG)이다. 증류 체크포인트는 H100에서 1024 × 1024 이미지를 약 2초 만에 뽑는다."
+          },
+          {
+            "t": "p",
+            "x": "작은 GPUs에서는 NVFP4와 FP8 가중치를 from_single_file로 불러 쓰면 된다. LoRA 학습 스크립트는 텍스트-이미지 생성과 이미지 편집을 지원한다. 이번 릴리스는 Modular Diffusers 파이프라인으로 나와 블록을 갈아 끼우거나 더할 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "FLUX.3 Image Klein lands\nin Diffusers on day one",
+          "body": "Open FLUX.3 Image Klein offers bounding-box layout control, with FP8 and NVFP4 weights for smaller GPUs.",
+          "mini_headline": "FLUX.3 Klein arrives in Diffusers",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+                "cap": "Text-to-image, image-to-image, and layout control with FLUX.3 Image Klein"
+              },
+              {
+                "t": "p",
+                "x": "Black Forest Labs' FLUX.3 Image Klein is here, and it runs in Diffusers from day one. One model does text-to-image and multi-reference image-to-image, and adds layout control: you write bounding boxes into the prompt to say where each part of the image should go, or which parts of a reference image to move."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+                "cap": "A caption and two region descriptions placed as boxes on a 0–1000 grid, and the generated image"
+              },
+              {
+                "t": "p",
+                "x": "Two open checkpoints ship: a timestep-distilled model for fast inference (16 steps, no CFG) and a base model (50 steps, CFG). The distilled checkpoint makes a 1024 × 1024 image in about 2 seconds on an H100."
+              },
+              {
+                "t": "p",
+                "x": "NVFP4 and FP8 weights load with from_single_file for smaller GPUs, LoRA training scripts cover text-to-image and image editing, and the release ships as a Modular Diffusers pipeline so blocks can be swapped or added."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "FLUX.3 Klein,\n첫날부터 Diffusers",
+          "body": "FLUX.3 Image Klein, 작은 GPUs용 FP8·NVFP4도 나왔다.",
+          "mini_headline": "FLUX.3 Klein, Diffusers에 합류",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+                "cap": "FLUX.3 Image Klein으로 하는 텍스트-이미지, 이미지-이미지 생성과 레이아웃 제어"
+              },
+              {
+                "t": "p",
+                "x": "Black Forest Labs의 FLUX.3 Image Klein이 나왔다. 첫날부터 Diffusers에서 돌아간다. 모델 하나가 텍스트-이미지 생성과, 참조 이미지 여러 장을 쓰는 이미지-이미지 생성을 모두 하고 레이아웃 제어까지 더했다. 프롬프트에 바운딩 박스를 적으면 이미지의 각 부분이 들어갈 자리와 참조 이미지에서 옮겨 올 부분이 정해진다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+                "cap": "0–1000 그리드에 박스로 배치한 캡션 하나와 영역 설명 두 개, 그 결과로 나온 이미지"
+              },
+              {
+                "t": "p",
+                "x": "공개된 체크포인트는 둘이다. 빠른 추론용 타임스텝 증류 모델(16단계, CFG 없음)과 기본 모델(50단계, CFG)이다. 증류 체크포인트는 H100에서 1024 × 1024 이미지를 약 2초 만에 뽑는다."
+              },
+              {
+                "t": "p",
+                "x": "작은 GPUs에서는 NVFP4와 FP8 가중치를 from_single_file로 불러 쓰면 된다. LoRA 학습 스크립트는 텍스트-이미지 생성과 이미지 편집을 지원한다. 이번 릴리스는 Modular Diffusers 파이프라인으로 나와 블록을 갈아 끼우거나 더할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FLUX.3 Klein、\n初日からDiffusersで",
+          "body": "FLUX.3 Image Kleinは小型GPUs向けFP8・NVFP4重みも配布する。",
+          "mini_headline": "FLUX.3 KleinがDiffusersに登場",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+                "cap": "FLUX.3 Image Kleinによるテキストからの画像生成、画像から画像への生成、レイアウト制御"
+              },
+              {
+                "t": "p",
+                "x": "Black Forest LabsのFLUX.3 Image Kleinが登場し、初日からDiffusersで動く。1つのモデルでテキストからの画像生成と、複数の参照画像を使う画像から画像への生成をこなし、さらにレイアウト制御を加えた。プロンプトにバウンディングボックスを書き込み、画像の各部分をどこに置くか、参照画像のどの部分を動かすかを指定する。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+                "cap": "0–1000のグリッド上にボックスとして配置したキャプション1つと領域の説明2つ、そして生成された画像"
+              },
+              {
+                "t": "p",
+                "x": "公開チェックポイントは2つ。高速推論向けのタイムステップ蒸留モデル(16ステップ、CFGなし)と、ベースモデル(50ステップ、CFGあり)だ。蒸留チェックポイントはH100で1024 × 1024の画像を約2秒で生成する。"
+              },
+              {
+                "t": "p",
+                "x": "小型のGPUs向けにNVFP4とFP8の重みをfrom_single_fileで読み込め、LoRAの学習スクリプトはテキストからの画像生成と画像編集に対応する。リリースはModular Diffusersパイプラインとして提供され、ブロックの差し替えや追加ができる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FLUX.3 Klein\n首日登陆Diffusers",
+          "body": "开源FLUX.3 Image Klein为小型GPUs提供FP8与NVFP4权重。",
+          "mini_headline": "FLUX.3 Klein登陆Diffusers",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+                "cap": "用FLUX.3 Image Klein实现文生图、图生图与布局控制"
+              },
+              {
+                "t": "p",
+                "x": "Black Forest Labs的FLUX.3 Image Klein现已发布，首日即可在Diffusers中运行。一个模型同时支持文生图和多参考图生图，并加入布局控制：在提示词中写入边界框，指定图像各部分的位置，或参考图中哪些部分需要移动。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+                "cap": "在0–1000网格上以方框放置的一条描述和两段区域说明，以及生成的图像"
+              },
+              {
+                "t": "p",
+                "x": "此次发布两个开放检查点：用于快速推理的时间步蒸馏模型（16步，无CFG）和基础模型（50步，使用CFG）。蒸馏检查点在H100上生成一张1024 × 1024图像约需2秒。"
+              },
+              {
+                "t": "p",
+                "x": "NVFP4和FP8权重可通过from_single_file加载，适合较小的GPUs；LoRA训练脚本涵盖文生图和图像编辑；此次发布以Modular Diffusers流水线形式提供，可替换或添加模块。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "FLUX.3 Image Klein llega\na Diffusers desde el primer día",
+          "body": "FLUX.3 Image Klein, abierto, ofrece control de composición con cajas y pesos FP8 y NVFP4 para GPUs más pequeñas.",
+          "mini_headline": "FLUX.3 Klein llega a Diffusers",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+                "cap": "Texto a imagen, imagen a imagen y control de composición con FLUX.3 Image Klein"
+              },
+              {
+                "t": "p",
+                "x": "Ya está aquí FLUX.3 Image Klein, de Black Forest Labs, y funciona en Diffusers desde el primer día. Un solo modelo hace texto a imagen e imagen a imagen con varias referencias, y añade control de composición: se escriben cajas delimitadoras en el prompt para indicar dónde debe ir cada parte de la imagen o qué partes de una imagen de referencia mover."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+                "cap": "Una leyenda y dos descripciones de regiones colocadas como cajas en una cuadrícula de 0–1000, y la imagen generada"
+              },
+              {
+                "t": "p",
+                "x": "Se publican dos checkpoints abiertos: un modelo destilado por pasos de tiempo para inferencia rápida (16 pasos, sin CFG) y un modelo base (50 pasos, con CFG). El checkpoint destilado genera una imagen de 1024 × 1024 en unos 2 segundos en una H100."
+              },
+              {
+                "t": "p",
+                "x": "Los pesos NVFP4 y FP8 se cargan con from_single_file para GPUs más pequeñas, los scripts de entrenamiento LoRA cubren texto a imagen y edición de imágenes, y el lanzamiento llega como pipeline de Modular Diffusers, de modo que se pueden cambiar o añadir bloques."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "FLUX.3 Klein,\n첫날부터 Diffusers",
+          "body": "FLUX.3 Image Klein, 작은 GPUs용 FP8·NVFP4도 나왔다.",
+          "mini_headline": "FLUX.3 Klein, Diffusers에 합류",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+                "cap": "FLUX.3 Image Klein으로 하는 텍스트-이미지, 이미지-이미지 생성과 레이아웃 제어"
+              },
+              {
+                "t": "p",
+                "x": "Black Forest Labs의 FLUX.3 Image Klein이 나왔고, 첫날부터 Diffusers에서 돌아간다. 모델 하나로 텍스트-이미지 생성과 여러 참조 이미지를 쓰는 이미지-이미지 생성을 하고, 레이아웃 제어도 더했다. 프롬프트에 바운딩 박스를 적어 이미지의 각 부분이 어디에 들어갈지, 참조 이미지의 어느 부분을 옮길지 정한다."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+                "cap": "0–1000 그리드 위에 박스로 배치한 캡션 하나와 영역 설명 두 개, 그리고 생성된 이미지"
+              },
+              {
+                "t": "p",
+                "x": "공개 체크포인트는 두 가지다. 빠른 추론을 위한 타임스텝 증류 모델(16단계, CFG 없음)과 기본 모델(50단계, CFG)이다. 증류 체크포인트는 H100에서 1024 × 1024 이미지를 약 2초 만에 만든다."
+              },
+              {
+                "t": "p",
+                "x": "작은 GPUs를 위해 NVFP4와 FP8 가중치를 from_single_file로 불러올 수 있고, LoRA 학습 스크립트는 텍스트-이미지 생성과 이미지 편집을 다룬다. 이번 릴리스는 Modular Diffusers 파이프라인으로 나와 블록을 바꾸거나 더할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "FLUX.3 Klein、\n初日からDiffusersで",
+          "body": "FLUX.3 Image Kleinは小型GPUs向けFP8・NVFP4重みも配布する。",
+          "mini_headline": "FLUX.3 KleinがDiffusersに登場",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+                "cap": "FLUX.3 Image Kleinによるテキストからの画像生成、画像から画像への生成、レイアウト制御"
+              },
+              {
+                "t": "p",
+                "x": "Black Forest LabsのFLUX.3 Image Kleinが登場し、初日からDiffusersで動く。1つのモデルでテキストからの画像生成と、複数の参照画像を使う画像から画像への生成をこなし、さらにレイアウト制御を加えた。プロンプトにバウンディングボックスを書き込み、画像の各部分をどこに置くか、参照画像のどの部分を動かすかを指定する。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+                "cap": "0–1000のグリッド上にボックスとして配置したキャプション1つと領域の説明2つ、そして生成された画像"
+              },
+              {
+                "t": "p",
+                "x": "公開チェックポイントは2つ。高速推論向けのタイムステップ蒸留モデル(16ステップ、CFGなし)と、ベースモデル(50ステップ、CFGあり)だ。蒸留チェックポイントはH100で1024 × 1024の画像を約2秒で生成する。"
+              },
+              {
+                "t": "p",
+                "x": "小型のGPUs向けにNVFP4とFP8の重みをfrom_single_fileで読み込め、LoRAの学習スクリプトはテキストからの画像生成と画像編集に対応する。リリースはModular Diffusersパイプラインとして提供され、ブロックの差し替えや追加ができる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FLUX.3 Klein\n首日登陆Diffusers",
+          "body": "开源FLUX.3 Image Klein为小型GPUs提供FP8与NVFP4权重。",
+          "mini_headline": "FLUX.3 Klein登陆Diffusers",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+                "cap": "用FLUX.3 Image Klein实现文生图、图生图与布局控制"
+              },
+              {
+                "t": "p",
+                "x": "Black Forest Labs的FLUX.3 Image Klein现已发布，首日即可在Diffusers中运行。一个模型同时支持文生图和多参考图生图，并加入布局控制：在提示词中写入边界框，指定图像各部分的位置，或参考图中哪些部分需要移动。"
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+                "cap": "在0–1000网格上以方框放置的一条描述和两段区域说明，以及生成的图像"
+              },
+              {
+                "t": "p",
+                "x": "此次发布两个开放检查点：用于快速推理的时间步蒸馏模型（16步，无CFG）和基础模型（50步，使用CFG）。蒸馏检查点在H100上生成一张1024 × 1024图像约需2秒。"
+              },
+              {
+                "t": "p",
+                "x": "NVFP4和FP8权重可通过from_single_file加载，适合较小的GPUs；LoRA训练脚本涵盖文生图和图像编辑；此次发布以Modular Diffusers流水线形式提供，可替换或添加模块。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "FLUX.3 Image Klein llega\na Diffusers desde el primer día",
+          "body": "FLUX.3 Image Klein, abierto, ofrece control de composición con cajas y pesos FP8 y NVFP4 para GPUs más pequeñas.",
+          "mini_headline": "FLUX.3 Klein llega a Diffusers",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+                "cap": "Texto a imagen, imagen a imagen y control de composición con FLUX.3 Image Klein"
+              },
+              {
+                "t": "p",
+                "x": "Ya está aquí FLUX.3 Image Klein, de Black Forest Labs, y funciona en Diffusers desde el primer día. Un solo modelo hace texto a imagen e imagen a imagen con varias referencias, y añade control de composición: se escriben cajas delimitadoras en el prompt para indicar dónde debe ir cada parte de la imagen o qué partes de una imagen de referencia mover."
+              },
+              {
+                "t": "img",
+                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+                "cap": "Una leyenda y dos descripciones de regiones colocadas como cajas en una cuadrícula de 0–1000, y la imagen generada"
+              },
+              {
+                "t": "p",
+                "x": "Se publican dos checkpoints abiertos: un modelo destilado por pasos de tiempo para inferencia rápida (16 pasos, sin CFG) y un modelo base (50 pasos, con CFG). El checkpoint destilado genera una imagen de 1024 × 1024 en unos 2 segundos en una H100."
+              },
+              {
+                "t": "p",
+                "x": "Los pesos NVFP4 y FP8 se cargan con from_single_file para GPUs más pequeñas, los scripts de entrenamiento LoRA cubren texto a imagen y edición de imágenes, y el lanzamiento llega como pipeline de Modular Diffusers, de modo que se pueden cambiar o añadir bloques."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-hesai-kosmo",
+      "source_lang": "en",
       "tool": "Text-to-CAD",
-      "source": "DEVELOP3D",
-      "url": "https://develop3d.com/cad/spectral-labs-turing-test-ai-cad/",
+      "eyebrow": "AI NEWS",
+      "headline": "Hesai Kosmo,\n공간을 로봇 훈련장으로",
+      "body": "Hesai Kosmo로 만든 3D 훈련 공간에서 로봇 성공률이 99%에 이르렀다.",
+      "mini_headline": "Hesai Kosmo, 로봇용 공간 스캔",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/hesai-launches-3d-data-engine-for-physical-ai/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -331,197 +1227,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+            "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+            "cap": "Hesai가 Kosmo 3D World Data Engine을 출시했다."
           },
           {
             "t": "p",
-            "x": "Spectral Labs는 기계 엔지니어용 업계 표준 CAD 자격 인증을 처음 따낸 AI 시스템을 만들었다고 주장한다. 회사 설명으로는 자사 에이전트가 Solidworks Professional 시험에 합격했다. 부품과 메커니즘을 스스로 만들고 고치고 조립하면서 세 시간도 안 걸려 시험을 끝냈다."
-          },
-          {
-            "t": "video",
-            "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+            "x": "Hesai Group이 Physical AI용 3D 월드 데이터 엔진 Kosmo를 출시했다. AI 공간 카메라 Kosmo One과 클라우드 플랫폼 Kosmo World를 한데 묶어 물리 환경을 고정밀 3D 디지털 공간으로 옮긴다. 이렇게 만든 공간은 로봇 훈련과 월드 모델 개발, 몰입형 콘텐츠 제작에 쓰인다."
           },
           {
             "t": "p",
-            "x": "시스템은 물리 엔지니어링용 파운데이션 모델 SGS-Mk2와 CAD 실행 환경 Quartz로 이뤄진다. SGS-Mk2는 부품과 어셈블리의 형상, 위상, 운동학을 추론하며, 회사는 기하 추론 문제에서 이 모델이 문제당 비용을 46~87퍼센트 줄였다고 주장한다."
+            "x": "Kosmo One은 lidar와 1인치 이미징 센서, IMU를 함께 쓰고 3D Gaussian Splatting으로 밀리미터 수준의 정확도를 낸다. 일반적인 100제곱미터 실내 공간이라면 작업자 한 명이 약 15분 만에 스캔한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+            "cap": "Kosmo는 체화 AI 훈련에 쓸 실제 장면 데이터를 대량으로 내준다."
           },
           {
             "t": "p",
-            "x": "회사는 시험용 학습 없이 SGS-Mk2를 프런티어 모델과 비교했다. 문제는 내부에서 마련한 45개로, CSWA에서 착안한 20개와 CSWP에서 착안한 25개다. 시험은 여러 번 통과했지만 아직 만점은 받지 못했다."
+            "x": "Dairy Queen의 한 매장을 3D 훈련 환경으로 만들 때, 예전엔 수작업 모델링에 약 300시간이 들었다. Kosmo로는 15분이면 됐고, Sharpa 로봇의 작업 성공률은 99%까지 올랐다."
           },
           {
             "t": "p",
-            "x": "“CAD 생성·편집·이해를 위한 장기 과제 벤치마크가 충분하지 않다”고 Rahul Iyer CEO는 말했다. 회사는 엔지니어링 워크플로를 처음부터 끝까지 자동화하려고 제조사들과 협업을 넓히는 중이다."
+            "x": "영화에도 쓰인다. 세트로 지으면 두 달이 걸릴 10,000제곱미터 규모의 거리 풍경을 일주일 만에 스캔하고 편집한다. 스튜디오들은 Pixar의 RenderMan 중심 워크플로에서 Kosmo를 쓴다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Spectral Labs says its AI\npassed a SolidWorks exam",
-          "body": "Spectral Labs claims the first AI system to pass an industry-standard CAD certification for mechanical engineers.",
-          "mini_headline": "AI passes\na SolidWorks exam",
+          "headline": "Hesai's Kosmo turns real spaces\ninto robot training worlds",
+          "body": "Hesai's Kosmo turns lidar scans into 3D robot-training spaces, and a store deployment hit 99% task success.",
+          "mini_headline": "Hesai Kosmo scans spaces for robots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+                "cap": "Hesai Launches Kosmo 3D World Data Engine."
               },
               {
                 "t": "p",
-                "x": "Spectral Labs claims to have built the first AI system to achieve an industry standard CAD certification for mechanical engineers. The company reports that its agent has passed the Solidworks Professional exam – autonomously building, modifying and assembling parts and mechanisms, completing the exam in less than three hours."
-              },
-              {
-                "t": "video",
-                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+                "x": "Hesai Group launched Kosmo, a 3D world data engine for Physical AI. It combines Kosmo One, an AI spatial camera, with the Kosmo World cloud platform to turn physical environments into high-fidelity 3D digital spaces for robot training, world model development and immersive content creation."
               },
               {
                 "t": "p",
-                "x": "The system combines SGS-Mk2, its foundation model for physical engineering that reasons about the geometry, topology and kinematics of parts and assemblies, with Quartz, its CAD execution environment. On geometric-reasoning problems, it claims SGS-Mk2 reduced per-problem costs by 46 to 87 per cent."
+                "x": "Kosmo One pairs lidar, a one-inch imaging sensor and an IMU, and uses 3D Gaussian Splatting for millimeter-level accuracy. One operator can scan a typical 100-square-meter indoor space in about 15 minutes."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+                "cap": "Kosmo delivers massive volumes of real-world scene data for embodied AI training."
               },
               {
                 "t": "p",
-                "x": "It compared SGS-Mk2 with frontier models on 45 internally prepared problems (20 inspired by the CSWA, 25 by the CSWP), with no exam-specific training. The exam has been passed multiple times, but not yet with a perfect score."
+                "x": "At a Dairy Queen store, building a 3D training environment previously took about 300 hours of manual modeling; with Kosmo it took 15 minutes, and the Sharpa robot's task success rate reached 99%."
               },
               {
                 "t": "p",
-                "x": "“There aren’t enough long-horizon benchmarks for CAD generation/editing/understanding,” said CEO Rahul Iyer. The company is expanding work with manufacturers to automate engineering workflows end to end."
+                "x": "For film, a 10,000-square-meter streetscape that would take two months to build as a set can be scanned and edited in one week, and studios are using Kosmo in workflows built around Pixar's RenderMan."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, SolidWorks\n자격시험 통과 주장",
-          "body": "Spectral Labs는 자사 AI가 처음으로 CAD 인증을 땄다고 주장한다.",
-          "mini_headline": "AI, SolidWorks 시험 통과",
+          "headline": "Hesai Kosmo,\n공간을 로봇 훈련장으로",
+          "body": "Hesai Kosmo로 만든 3D 훈련 공간에서 로봇 성공률이 99%에 이르렀다.",
+          "mini_headline": "Hesai Kosmo, 로봇용 공간 스캔",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+                "cap": "Hesai가 Kosmo 3D World Data Engine을 출시했다."
               },
               {
                 "t": "p",
-                "x": "Spectral Labs는 기계 엔지니어용 업계 표준 CAD 자격 인증을 처음 따낸 AI 시스템을 만들었다고 주장한다. 회사 설명으로는 자사 에이전트가 Solidworks Professional 시험에 합격했다. 부품과 메커니즘을 스스로 만들고 고치고 조립하면서 세 시간도 안 걸려 시험을 끝냈다."
-              },
-              {
-                "t": "video",
-                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+                "x": "Hesai Group이 Physical AI용 3D 월드 데이터 엔진 Kosmo를 출시했다. AI 공간 카메라 Kosmo One과 클라우드 플랫폼 Kosmo World를 한데 묶어 물리 환경을 고정밀 3D 디지털 공간으로 옮긴다. 이렇게 만든 공간은 로봇 훈련과 월드 모델 개발, 몰입형 콘텐츠 제작에 쓰인다."
               },
               {
                 "t": "p",
-                "x": "시스템은 물리 엔지니어링용 파운데이션 모델 SGS-Mk2와 CAD 실행 환경 Quartz로 이뤄진다. SGS-Mk2는 부품과 어셈블리의 형상, 위상, 운동학을 추론하며, 회사는 기하 추론 문제에서 이 모델이 문제당 비용을 46~87퍼센트 줄였다고 주장한다."
+                "x": "Kosmo One은 lidar와 1인치 이미징 센서, IMU를 함께 쓰고 3D Gaussian Splatting으로 밀리미터 수준의 정확도를 낸다. 일반적인 100제곱미터 실내 공간이라면 작업자 한 명이 약 15분 만에 스캔한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+                "cap": "Kosmo는 체화 AI 훈련에 쓸 실제 장면 데이터를 대량으로 내준다."
               },
               {
                 "t": "p",
-                "x": "회사는 시험용 학습 없이 SGS-Mk2를 프런티어 모델과 비교했다. 문제는 내부에서 마련한 45개로, CSWA에서 착안한 20개와 CSWP에서 착안한 25개다. 시험은 여러 번 통과했지만 아직 만점은 받지 못했다."
+                "x": "Dairy Queen의 한 매장을 3D 훈련 환경으로 만들 때, 예전엔 수작업 모델링에 약 300시간이 들었다. Kosmo로는 15분이면 됐고, Sharpa 로봇의 작업 성공률은 99%까지 올랐다."
               },
               {
                 "t": "p",
-                "x": "“CAD 생성·편집·이해를 위한 장기 과제 벤치마크가 충분하지 않다”고 Rahul Iyer CEO는 말했다. 회사는 엔지니어링 워크플로를 처음부터 끝까지 자동화하려고 제조사들과 협업을 넓히는 중이다."
+                "x": "영화에도 쓰인다. 세트로 지으면 두 달이 걸릴 10,000제곱미터 규모의 거리 풍경을 일주일 만에 스캔하고 편집한다. 스튜디오들은 Pixar의 RenderMan 중심 워크플로에서 Kosmo를 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、SolidWorks\n試験に合格と発表",
-          "body": "Spectral Labsは、自社AIが業界標準のCAD認定に初めて合格したと主張する。",
-          "mini_headline": "AI、SolidWorks試験に合格",
+          "headline": "HesaiのKosmo、\n現実空間をロボット訓練場に",
+          "body": "HesaiのKosmoは3Dのロボット訓練空間を作り、店舗で成功率99%に達した。",
+          "mini_headline": "HesaiのKosmo、ロボット向けに空間をスキャン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+                "cap": "HesaiがKosmo 3D World Data Engineを発表。"
               },
               {
                 "t": "p",
-                "x": "Spectral Labsは、機械エンジニア向けの業界標準CAD認定を取得した初のAIシステムを構築したと主張している。同社によると、同社のエージェントはSolidworks Professional試験に合格した。部品や機構を自律的に作成、修正、組み立て、三時間足らずで試験を終えたという。"
-              },
-              {
-                "t": "video",
-                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+                "x": "Hesai Groupは、Physical AI向けの3DワールドデータエンジンKosmoを発表した。AI空間カメラKosmo OneとクラウドプラットフォームKosmo Worldを組み合わせ、物理環境を高精細な3Dデジタル空間に変え、ロボットの訓練、ワールドモデルの開発、没入型コンテンツの制作に生かす。"
               },
               {
                 "t": "p",
-                "x": "このシステムは、部品やアセンブリの形状、トポロジー、運動学を推論する物理エンジニアリング向け基盤モデルSGS-Mk2と、CAD実行環境Quartzを組み合わせたものだ。幾何推論の問題では、SGS-Mk2によって問題あたりのコストが46〜87パーセント下がったとしている。"
+                "x": "Kosmo Oneはlidar、1インチのイメージングセンサー、IMUを組み合わせ、3D Gaussian Splattingでミリ単位の精度を実現する。オペレーター1人で、一般的な100平方メートルの屋内空間を約15分でスキャンできる。"
               },
-              {
-                "t": "p",
-                "x": "同社は試験専用の学習を行わず、社内で用意した45問（CSWAに着想を得た20問、CSWPに着想を得た25問）でSGS-Mk2をフロンティアモデルと比較した。この試験には複数回合格しているが、満点にはまだ届いていない。"
-              },
-              {
-                "t": "p",
-                "x": "「CAD生成・編集・理解のための長期タスクのベンチマークが足りない」とCEOのRahul Iyerは語った。同社はエンジニアリングのワークフローを端から端まで自動化するため、製造業者との取り組みを広げている。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Spectral Labs dice que su AI\naprobó un examen de SolidWorks",
-          "body": "Spectral Labs dice tener la primera AI que aprueba una certificación CAD estándar para ingenieros mecánicos.",
-          "mini_headline": "Una AI aprueba un examen de SolidWorks",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+                "cap": "Kosmoは、身体性AIの訓練に向けて大量の実世界シーンデータを提供する。"
               },
               {
                 "t": "p",
-                "x": "Spectral Labs afirma haber creado el primer sistema de AI que obtiene una certificación CAD estándar del sector para ingenieros mecánicos. La empresa informa de que su agente aprobó el examen Solidworks Professional: construyó, modificó y ensambló piezas y mecanismos de forma autónoma y completó el examen en menos de tres horas."
-              },
-              {
-                "t": "video",
-                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+                "x": "あるDairy Queenの店舗では、3D訓練環境の構築に以前は手作業のモデリングで約300時間かかっていたが、Kosmoでは15分で済み、Sharpaロボットのタスク成功率は99%に達した。"
               },
               {
                 "t": "p",
-                "x": "El sistema combina SGS-Mk2, su modelo fundacional para ingeniería física que razona sobre la geometría, la topología y la cinemática de piezas y ensamblajes, con Quartz, su entorno de ejecución CAD. En problemas de razonamiento geométrico, afirma que SGS-Mk2 redujo el coste por problema entre un 46 y un 87 por ciento."
-              },
-              {
-                "t": "p",
-                "x": "Comparó SGS-Mk2 con modelos de frontera en 45 problemas preparados internamente (20 inspirados en el CSWA y 25 en el CSWP), sin entrenamiento específico para el examen. El examen se ha aprobado varias veces, pero todavía no con la puntuación máxima."
-              },
-              {
-                "t": "p",
-                "x": "«No hay suficientes benchmarks de largo horizonte para la generación/edición/comprensión de CAD», dijo el CEO Rahul Iyer. La empresa amplía su trabajo con fabricantes para automatizar de principio a fin los flujos de trabajo de ingeniería."
+                "x": "映画では、セットとして建てれば2カ月かかる10,000平方メートルの街並みを1週間でスキャンし編集でき、スタジオはPixarのRenderManを軸にしたワークフローでKosmoを使っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Spectral Labs\nAI通过SolidWorks",
-          "body": "Spectral Labs称其AI系统率先通过面向机械工程师的行业标准CAD认证。",
-          "mini_headline": "AI通过SolidWorks考试",
+          "headline": "Hesai的Kosmo\n把真实空间变成机器人训练场",
+          "body": "Hesai的Kosmo把激光雷达扫描变成3D机器人训练空间，门店部署任务成功率达99%。",
+          "mini_headline": "Hesai Kosmo为机器人扫描空间",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+                "cap": "Hesai发布Kosmo 3D World Data Engine。"
               },
               {
                 "t": "p",
-                "x": "Spectral Labs称已打造出首个获得机械工程师行业标准CAD认证的AI系统。公司表示，其智能体已通过Solidworks Professional考试——自主完成零件与机构的建模、修改和装配，用时不到三小时。"
-              },
-              {
-                "t": "video",
-                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+                "x": "Hesai Group发布面向Physical AI的3D世界数据引擎Kosmo。它将AI空间相机Kosmo One与云平台Kosmo World结合，把物理环境转化为高保真3D数字空间，用于机器人训练、世界模型开发和沉浸式内容创作。"
               },
               {
                 "t": "p",
-                "x": "该系统将SGS-Mk2与Quartz相结合：前者是其面向物理工程的基础模型，能够推理零件及装配体的几何、拓扑与运动学关系；后者是其CAD执行环境。公司称，在几何推理问题上，SGS-Mk2将单题成本降低了46%至87%。"
+                "x": "Kosmo One集成lidar、一英寸成像传感器和IMU，并采用3D Gaussian Splatting，精度可达毫米级。一名操作员约15分钟即可扫描一个典型的100平方米室内空间。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+                "cap": "Kosmo为具身AI训练提供海量真实场景数据。"
               },
               {
                 "t": "p",
-                "x": "公司在45道内部准备的题目（20道参考CSWA，25道参考CSWP）上将SGS-Mk2与前沿模型进行对比，未做任何针对考试的专门训练。该考试已多次被通过，但尚未有人取得满分。"
+                "x": "在一家Dairy Queen门店，搭建3D训练环境过去需要约300小时的手工建模；使用Kosmo只用了15分钟，Sharpa机器人的任务成功率达到99%。"
               },
               {
                 "t": "p",
-                "x": "“CAD生成/编辑/理解方面的长周期基准测试还不够多，”CEO Rahul Iyer表示。公司正扩大与制造商的合作，力求端到端地自动化工程工作流程。"
+                "x": "在影视领域，一处若搭成实景需要两个月的10,000平方米街景，一周内即可完成扫描和编辑，已有制片厂在以Pixar的RenderMan为核心的工作流中使用Kosmo。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Hesai Kosmo convierte espacios\nreales en mundos para robots",
+          "body": "Kosmo, de Hesai, convierte escaneos lidar en espacios 3D para entrenar robots y logró 99% de éxito en una tienda.",
+          "mini_headline": "Hesai Kosmo escanea espacios para robots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+                "cap": "Hesai lanza Kosmo 3D World Data Engine."
+              },
+              {
+                "t": "p",
+                "x": "Hesai Group lanzó Kosmo, un motor de datos de mundos 3D para Physical AI. Combina Kosmo One, una cámara espacial con AI, con la plataforma en la nube Kosmo World para convertir entornos físicos en espacios digitales 3D de alta fidelidad destinados al entrenamiento de robots, el desarrollo de modelos del mundo y la creación de contenido inmersivo."
+              },
+              {
+                "t": "p",
+                "x": "Kosmo One combina lidar, un sensor de imagen de una pulgada y una IMU, y usa 3D Gaussian Splatting para lograr una precisión milimétrica. Un solo operador puede escanear un espacio interior típico de 100 metros cuadrados en unos 15 minutos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+                "cap": "Kosmo ofrece grandes volúmenes de datos de escenas reales para el entrenamiento de AI corporizada."
+              },
+              {
+                "t": "p",
+                "x": "En una tienda de Dairy Queen, construir un entorno de entrenamiento 3D llevaba antes unas 300 horas de modelado manual; con Kosmo tomó 15 minutos, y la tasa de éxito en tareas del robot Sharpa llegó al 99%."
+              },
+              {
+                "t": "p",
+                "x": "En cine, un paisaje urbano de 10,000 metros cuadrados que tardaría dos meses en construirse como set puede escanearse y editarse en una semana, y hay estudios que usan Kosmo en flujos de trabajo basados en RenderMan de Pixar."
               }
             ]
           }
@@ -529,1193 +1437,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, SolidWorks\n자격시험 통과 주장",
-          "body": "Spectral Labs는 자사 AI가 CAD 인증을 처음 통과했다고 주장한다.",
-          "mini_headline": "AI, SolidWorks 시험 통과",
+          "headline": "Hesai Kosmo,\n공간을 로봇 훈련장으로",
+          "body": "Hesai Kosmo로 만든 3D 훈련 공간에서 로봇 성공률이 99%에 이르렀다.",
+          "mini_headline": "Hesai Kosmo, 로봇용 공간 스캔",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+                "cap": "Hesai가 Kosmo 3D World Data Engine을 출시했다."
               },
               {
                 "t": "p",
-                "x": "Spectral Labs는 기계 엔지니어를 위한 업계 표준 CAD 자격 인증을 따낸 첫 AI 시스템을 만들었다고 주장한다. 회사에 따르면 자사 에이전트가 Solidworks Professional 시험에 합격했다. 부품과 메커니즘을 스스로 만들고 수정하고 조립하며 세 시간이 안 돼 시험을 마쳤다."
-              },
-              {
-                "t": "video",
-                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+                "x": "Hesai Group이 Physical AI를 위한 3D 월드 데이터 엔진 Kosmo를 출시했다. AI 공간 카메라 Kosmo One과 클라우드 플랫폼 Kosmo World를 묶어 물리 환경을 고정밀 3D 디지털 공간으로 바꾸고, 이를 로봇 훈련과 월드 모델 개발, 몰입형 콘텐츠 제작에 쓴다."
               },
               {
                 "t": "p",
-                "x": "이 시스템은 부품과 어셈블리의 형상, 위상, 운동학을 추론하는 물리 엔지니어링용 파운데이션 모델 SGS-Mk2와 CAD 실행 환경 Quartz를 결합했다. 회사는 기하 추론 문제에서 SGS-Mk2가 문제당 비용을 46~87퍼센트 줄였다고 주장한다."
+                "x": "Kosmo One은 lidar와 1인치 이미징 센서, IMU를 함께 쓰며, 3D Gaussian Splatting으로 밀리미터 수준의 정확도를 낸다. 작업자 한 명이 일반적인 100제곱미터 실내 공간을 약 15분 만에 스캔할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+                "cap": "Kosmo는 체화 AI 훈련을 위한 대량의 실제 장면 데이터를 제공한다."
               },
               {
                 "t": "p",
-                "x": "회사는 시험용 학습 없이, 내부에서 마련한 문제 45개(CSWA에서 착안한 20개, CSWP에서 착안한 25개)로 SGS-Mk2를 프런티어 모델과 비교했다. 이 시험은 여러 차례 통과했지만 아직 만점은 받지 못했다."
+                "x": "한 Dairy Queen 매장에서는 3D 훈련 환경을 만드는 데 예전엔 수작업 모델링으로 약 300시간이 걸렸지만, Kosmo로는 15분이 걸렸고 Sharpa 로봇의 작업 성공률은 99%에 이르렀다."
               },
               {
                 "t": "p",
-                "x": "“CAD 생성·편집·이해를 위한 장기 과제 벤치마크가 충분하지 않다”고 Rahul Iyer CEO는 말했다. 회사는 엔지니어링 워크플로를 처음부터 끝까지 자동화하기 위해 제조사들과 협업을 넓히고 있다."
+                "x": "영화 쪽에서는 세트로 지으려면 두 달이 걸릴 10,000제곱미터 규모의 거리 풍경을 일주일 만에 스캔하고 편집할 수 있으며, 스튜디오들은 Pixar의 RenderMan을 중심으로 한 워크플로에서 Kosmo를 쓰고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、SolidWorks\n試験に合格と発表",
-          "body": "Spectral Labsは、自社AIが業界標準のCAD認定に初めて合格したと主張する。",
-          "mini_headline": "AI、SolidWorks試験に合格",
+          "headline": "HesaiのKosmo、\n現実空間をロボット訓練場に",
+          "body": "HesaiのKosmoは3Dのロボット訓練空間を作り、店舗で成功率99%に達した。",
+          "mini_headline": "HesaiのKosmo、ロボット向けに空間をスキャン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+                "cap": "HesaiがKosmo 3D World Data Engineを発表。"
               },
               {
                 "t": "p",
-                "x": "Spectral Labsは、機械エンジニア向けの業界標準CAD認定を取得した初のAIシステムを構築したと主張している。同社によると、同社のエージェントはSolidworks Professional試験に合格した。部品や機構を自律的に作成、修正、組み立て、三時間足らずで試験を終えたという。"
-              },
-              {
-                "t": "video",
-                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+                "x": "Hesai Groupは、Physical AI向けの3DワールドデータエンジンKosmoを発表した。AI空間カメラKosmo OneとクラウドプラットフォームKosmo Worldを組み合わせ、物理環境を高精細な3Dデジタル空間に変え、ロボットの訓練、ワールドモデルの開発、没入型コンテンツの制作に生かす。"
               },
               {
                 "t": "p",
-                "x": "このシステムは、部品やアセンブリの形状、トポロジー、運動学を推論する物理エンジニアリング向け基盤モデルSGS-Mk2と、CAD実行環境Quartzを組み合わせたものだ。幾何推論の問題では、SGS-Mk2によって問題あたりのコストが46〜87パーセント下がったとしている。"
+                "x": "Kosmo Oneはlidar、1インチのイメージングセンサー、IMUを組み合わせ、3D Gaussian Splattingでミリ単位の精度を実現する。オペレーター1人で、一般的な100平方メートルの屋内空間を約15分でスキャンできる。"
               },
-              {
-                "t": "p",
-                "x": "同社は試験専用の学習を行わず、社内で用意した45問（CSWAに着想を得た20問、CSWPに着想を得た25問）でSGS-Mk2をフロンティアモデルと比較した。この試験には複数回合格しているが、満点にはまだ届いていない。"
-              },
-              {
-                "t": "p",
-                "x": "「CAD生成・編集・理解のための長期タスクのベンチマークが足りない」とCEOのRahul Iyerは語った。同社はエンジニアリングのワークフローを端から端まで自動化するため、製造業者との取り組みを広げている。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Spectral Labs dice que su AI\naprobó un examen de SolidWorks",
-          "body": "Spectral Labs dice tener la primera AI que aprueba una certificación CAD estándar para ingenieros mecánicos.",
-          "mini_headline": "Una AI aprueba un examen de SolidWorks",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+                "cap": "Kosmoは、身体性AIの訓練に向けて大量の実世界シーンデータを提供する。"
               },
               {
                 "t": "p",
-                "x": "Spectral Labs afirma haber creado el primer sistema de AI que obtiene una certificación CAD estándar del sector para ingenieros mecánicos. La empresa informa de que su agente aprobó el examen Solidworks Professional: construyó, modificó y ensambló piezas y mecanismos de forma autónoma y completó el examen en menos de tres horas."
-              },
-              {
-                "t": "video",
-                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+                "x": "あるDairy Queenの店舗では、3D訓練環境の構築に以前は手作業のモデリングで約300時間かかっていたが、Kosmoでは15分で済み、Sharpaロボットのタスク成功率は99%に達した。"
               },
               {
                 "t": "p",
-                "x": "El sistema combina SGS-Mk2, su modelo fundacional para ingeniería física que razona sobre la geometría, la topología y la cinemática de piezas y ensamblajes, con Quartz, su entorno de ejecución CAD. En problemas de razonamiento geométrico, afirma que SGS-Mk2 redujo el coste por problema entre un 46 y un 87 por ciento."
-              },
-              {
-                "t": "p",
-                "x": "Comparó SGS-Mk2 con modelos de frontera en 45 problemas preparados internamente (20 inspirados en el CSWA y 25 en el CSWP), sin entrenamiento específico para el examen. El examen se ha aprobado varias veces, pero todavía no con la puntuación máxima."
-              },
-              {
-                "t": "p",
-                "x": "«No hay suficientes benchmarks de largo horizonte para la generación/edición/comprensión de CAD», dijo el CEO Rahul Iyer. La empresa amplía su trabajo con fabricantes para automatizar de principio a fin los flujos de trabajo de ingeniería."
+                "x": "映画では、セットとして建てれば2カ月かかる10,000平方メートルの街並みを1週間でスキャンし編集でき、スタジオはPixarのRenderManを軸にしたワークフローでKosmoを使っている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Spectral Labs\nAI通过SolidWorks",
-          "body": "Spectral Labs称其AI系统率先通过面向机械工程师的行业标准CAD认证。",
-          "mini_headline": "AI通过SolidWorks考试",
+          "headline": "Hesai的Kosmo\n把真实空间变成机器人训练场",
+          "body": "Hesai的Kosmo把激光雷达扫描变成3D机器人训练空间，门店部署任务成功率达99%。",
+          "mini_headline": "Hesai Kosmo为机器人扫描空间",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+                "cap": "Hesai发布Kosmo 3D World Data Engine。"
               },
               {
                 "t": "p",
-                "x": "Spectral Labs称已打造出首个获得机械工程师行业标准CAD认证的AI系统。公司表示，其智能体已通过Solidworks Professional考试——自主完成零件与机构的建模、修改和装配，用时不到三小时。"
-              },
-              {
-                "t": "video",
-                "src": "https://www.spectrallabs.ai/research/cswp-turing-test/agent-run.mp4"
+                "x": "Hesai Group发布面向Physical AI的3D世界数据引擎Kosmo。它将AI空间相机Kosmo One与云平台Kosmo World结合，把物理环境转化为高保真3D数字空间，用于机器人训练、世界模型开发和沉浸式内容创作。"
               },
               {
                 "t": "p",
-                "x": "该系统将SGS-Mk2与Quartz相结合：前者是其面向物理工程的基础模型，能够推理零件及装配体的几何、拓扑与运动学关系；后者是其CAD执行环境。公司称，在几何推理问题上，SGS-Mk2将单题成本降低了46%至87%。"
+                "x": "Kosmo One集成lidar、一英寸成像传感器和IMU，并采用3D Gaussian Splatting，精度可达毫米级。一名操作员约15分钟即可扫描一个典型的100平方米室内空间。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+                "cap": "Kosmo为具身AI训练提供海量真实场景数据。"
               },
               {
                 "t": "p",
-                "x": "公司在45道内部准备的题目（20道参考CSWA，25道参考CSWP）上将SGS-Mk2与前沿模型进行对比，未做任何针对考试的专门训练。该考试已多次被通过，但尚未有人取得满分。"
+                "x": "在一家Dairy Queen门店，搭建3D训练环境过去需要约300小时的手工建模；使用Kosmo只用了15分钟，Sharpa机器人的任务成功率达到99%。"
               },
               {
                 "t": "p",
-                "x": "“CAD生成/编辑/理解方面的长周期基准测试还不够多，”CEO Rahul Iyer表示。公司正扩大与制造商的合作，力求端到端地自动化工程工作流程。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-cozyblanket-pro",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "CozyBlanket\niPad에 AI 리토폴로지",
-      "body": "Sparseal의 AI-assisted 리토폴로지 앱이 iPad 버전부터 나왔다.",
-      "mini_headline": "CozyBlanket Pro, iPad 출시",
-      "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "K0awUmCpELQ"
-          },
-          {
-            "t": "p",
-            "x": "Sparseal이 CozyBlanket Pro를 내놓았다. 기대를 모아 온 AI-assisted 리토폴로지·UV 언래핑·텍스처 베이킹 소프트웨어로, 게임 개발과 애니메이션 작업용이다. iPad 앱이 먼저 나왔고 데스크톱 버전은 개발 중이다."
-          },
-          {
-            "t": "p",
-            "x": "원조 CozyBlanket의 정신적 후속작일 뿐 직접 업데이트한 제품은 아니며, “수백만 개의 폴리곤”을 지닌 캐릭터와 환경 전체를 다루도록 만들었다. AI 모델은 자체 개발해 합성 데이터로만 학습시켰고, 사용자 기기에서 로컬로 돈다."
-          },
-          {
-            "t": "p",
-            "x": "리토폴로지는 사용자가 Pencil 도구로 토폴로지 패치의 가장자리를 그리면 AI가 안쪽을 채우는 식이고, 결과는 손으로 다듬거나 고칠 수 있다. CG Channel은 초기 데모의 얼굴 토폴로지가 관례에서 벗어나 있었다며 품질은 가이드를 어떻게 배치하느냐에 달렸다고 짚었다."
-          },
-          {
-            "t": "p",
-            "x": "UV 언래핑도 같은 방식이고 패킹은 GPU-accelerated로 처리한다. UDIM을 지원하고 버텍스 컬러, 탄젠트 스페이스, AO 맵을 베이킹해 OBJ나 glTF로 내보낸다. iPadOS 18.6+가 필요하며, 기본 앱은 무료지만 저장하거나 내보내려면 일회성 $89.99를 내야 한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "CozyBlanket Pro brings AI\nretopology to the iPad",
-          "body": "Sparseal's AI-assisted retopology, UV unwrapping and baking app is out on iPad, with a desktop edition in development.",
-          "mini_headline": "CozyBlanket Pro\nlands on iPad",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K0awUmCpELQ"
-              },
-              {
-                "t": "p",
-                "x": "Sparseal has released CozyBlanket Pro, its much-anticipated AI-assisted retopology, UV unwrapping and texture baking software for game development and animation work. It is initially available as an iPad app, with a desktop version in development."
-              },
-              {
-                "t": "p",
-                "x": "It is a spiritual successor to the original CozyBlanket but not a direct update, built for entire characters and environments with “millions of polygons”. Its AI models were developed in-house, trained exclusively on synthetic data, and run locally on the user’s machine."
-              },
-              {
-                "t": "p",
-                "x": "For retopology, users draw the edges of topology patches with the Pencil tool and the AI fills them in; results can be refined or edited manually. CG Channel notes early demos showed unconventional facial topology, so quality depends on guide placement."
-              },
-              {
-                "t": "p",
-                "x": "UV unwrapping works the same way, with GPU-accelerated packing. It bakes vertex color, tangent space and AO maps with UDIM support, and exports OBJ or glTF. It needs iPadOS 18.6+; the base app is free, but saving or exporting costs a one-off $89.99."
+                "x": "在影视领域，一处若搭成实景需要两个月的10,000平方米街景，一周内即可完成扫描和编辑，已有制片厂在以Pixar的RenderMan为核心的工作流中使用Kosmo。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CozyBlanket Pro lleva al iPad\nla retopología con AI",
-          "body": "La app de Sparseal para retopología, desplegado UV y horneado con AI ya está disponible en iPad.",
-          "mini_headline": "CozyBlanket Pro llega al iPad",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K0awUmCpELQ"
-              },
-              {
-                "t": "p",
-                "x": "Sparseal ha lanzado CozyBlanket Pro, su esperado software AI-assisted de retopología, desplegado UV y horneado de texturas para desarrollo de videojuegos y animación. Por ahora está disponible como app para iPad, y hay una versión de escritorio en desarrollo."
-              },
-              {
-                "t": "p",
-                "x": "Es un sucesor espiritual del CozyBlanket original, pero no una actualización directa, y está pensado para personajes y entornos completos con «millones de polígonos». Sus modelos de AI se desarrollaron internamente, se entrenaron exclusivamente con datos sintéticos y se ejecutan en local en la máquina del usuario."
-              },
-              {
-                "t": "p",
-                "x": "Para la retopología, el usuario dibuja los bordes de los parches de topología con la herramienta Pencil y la AI los rellena; los resultados se pueden ajustar o editar a mano. CG Channel señala que las primeras demostraciones mostraban una topología facial poco convencional, así que la calidad depende de dónde se coloquen las guías."
-              },
-              {
-                "t": "p",
-                "x": "El desplegado UV funciona igual, con empaquetado GPU-accelerated. Hornea mapas de color de vértice, espacio tangente y AO con soporte para UDIM, y exporta en OBJ o glTF. Requiere iPadOS 18.6+; la app básica es gratuita, pero guardar o exportar cuesta un pago único de $89.99."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "CozyBlanket\niPad에 AI 리토폴로지",
-          "body": "Sparseal의 AI-assisted 리토폴로지 앱이 iPad 버전부터 나왔다.",
-          "mini_headline": "CozyBlanket Pro, iPad 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K0awUmCpELQ"
-              },
-              {
-                "t": "p",
-                "x": "Sparseal이 CozyBlanket Pro를 내놓았다. 기대를 모아 온 AI-assisted 리토폴로지·UV 언래핑·텍스처 베이킹 소프트웨어로, 게임 개발과 애니메이션 작업용이다. iPad 앱이 먼저 나왔고 데스크톱 버전은 개발 중이다."
-              },
-              {
-                "t": "p",
-                "x": "원조 CozyBlanket의 정신적 후속작일 뿐 직접 업데이트한 제품은 아니며, “수백만 개의 폴리곤”을 지닌 캐릭터와 환경 전체를 다루도록 만들었다. AI 모델은 자체 개발해 합성 데이터로만 학습시켰고, 사용자 기기에서 로컬로 돈다."
-              },
-              {
-                "t": "p",
-                "x": "리토폴로지는 사용자가 Pencil 도구로 토폴로지 패치의 가장자리를 그리면 AI가 안쪽을 채우는 식이고, 결과는 손으로 다듬거나 고칠 수 있다. CG Channel은 초기 데모의 얼굴 토폴로지가 관례에서 벗어나 있었다며 품질은 가이드를 어떻게 배치하느냐에 달렸다고 짚었다."
-              },
-              {
-                "t": "p",
-                "x": "UV 언래핑도 같은 방식이고 패킹은 GPU-accelerated로 처리한다. UDIM을 지원하고 버텍스 컬러, 탄젠트 스페이스, AO 맵을 베이킹해 OBJ나 glTF로 내보낸다. iPadOS 18.6+가 필요하며, 기본 앱은 무료지만 저장하거나 내보내려면 일회성 $89.99를 내야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "CozyBlanket\nAIリトポロジーをiPadに",
-          "body": "SparsealのAI-assistedなリトポロジーアプリがiPadで登場した。",
-          "mini_headline": "CozyBlanket ProがiPadに登場",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K0awUmCpELQ"
-              },
-              {
-                "t": "p",
-                "x": "Sparsealは、待望のAI-assistedなリトポロジー・UV展開・テクスチャベイクソフト、CozyBlanket Proをリリースした。ゲーム開発やアニメーション制作向けで、まずiPadアプリとして提供され、デスクトップ版は開発中である。"
-              },
-              {
-                "t": "p",
-                "x": "初代CozyBlanketの精神的な後継作だが直接のアップデートではなく、「数百万ポリゴン」のキャラクターや環境全体を扱えるよう設計されている。AIモデルは自社開発で、合成データのみで学習し、ユーザーのマシン上でローカルに動作する。"
-              },
-              {
-                "t": "p",
-                "x": "リトポロジーでは、ユーザーがPencilツールでトポロジーパッチの縁を描くとAIが内側を埋める。結果は手作業で調整・編集できる。CG Channelは、初期デモでは顔のトポロジーが型破りだったと指摘し、品質はガイドの配置次第だとしている。"
-              },
-              {
-                "t": "p",
-                "x": "UV展開も同じ仕組みで、パッキングはGPU-acceleratedだ。UDIMに対応し、頂点カラー、タンジェントスペース、AOマップをベイクでき、OBJまたはglTFで書き出せる。動作にはiPadOS 18.6+が必要で、基本アプリは無料だが、保存や書き出しには買い切りで$89.99がかかる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "CozyBlanket\nAI重拓扑登陆iPad",
-          "body": "Sparseal的AI-assisted重拓扑应用已登陆iPad，桌面版正在开发中。",
-          "mini_headline": "CozyBlanket Pro登陆iPad",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K0awUmCpELQ"
-              },
-              {
-                "t": "p",
-                "x": "Sparseal发布了备受期待的CozyBlanket Pro，这是一款面向游戏开发和动画制作的AI-assisted重拓扑、UV展开与纹理烘焙软件。它首先以iPad应用形式推出，桌面版正在开发中。"
-              },
-              {
-                "t": "p",
-                "x": "它是初代CozyBlanket的精神续作，但并非直接升级，专为拥有“数百万多边形”的完整角色和场景打造。其AI模型由公司自主研发，仅使用合成数据训练，并在用户设备上本地运行。"
-              },
-              {
-                "t": "p",
-                "x": "做重拓扑时，用户用Pencil工具画出拓扑面片的边缘，由AI填充内部；结果可以手动微调或编辑。CG Channel指出，早期演示中的面部拓扑并不常规，因此质量取决于引导线的摆放。"
-              },
-              {
-                "t": "p",
-                "x": "UV展开同样如此，打包为GPU-accelerated。它支持UDIM，可烘焙顶点色、切线空间和AO贴图，并导出为OBJ或glTF。运行需要iPadOS 18.6+；基础应用免费，但保存或导出需一次性支付$89.99。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "CozyBlanket Pro lleva al iPad\nla retopología con AI",
-          "body": "La app de Sparseal para retopología, desplegado UV y horneado con AI ya está disponible en iPad.",
-          "mini_headline": "CozyBlanket Pro llega al iPad",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K0awUmCpELQ"
-              },
-              {
-                "t": "p",
-                "x": "Sparseal ha lanzado CozyBlanket Pro, su esperado software AI-assisted de retopología, desplegado UV y horneado de texturas para desarrollo de videojuegos y animación. Por ahora está disponible como app para iPad, y hay una versión de escritorio en desarrollo."
-              },
-              {
-                "t": "p",
-                "x": "Es un sucesor espiritual del CozyBlanket original, pero no una actualización directa, y está pensado para personajes y entornos completos con «millones de polígonos». Sus modelos de AI se desarrollaron internamente, se entrenaron exclusivamente con datos sintéticos y se ejecutan en local en la máquina del usuario."
-              },
-              {
-                "t": "p",
-                "x": "Para la retopología, el usuario dibuja los bordes de los parches de topología con la herramienta Pencil y la AI los rellena; los resultados se pueden ajustar o editar a mano. CG Channel señala que las primeras demostraciones mostraban una topología facial poco convencional, así que la calidad depende de dónde se coloquen las guías."
-              },
-              {
-                "t": "p",
-                "x": "El desplegado UV funciona igual, con empaquetado GPU-accelerated. Hornea mapas de color de vértice, espacio tangente y AO con soporte para UDIM, y exporta en OBJ o glTF. Requiere iPadOS 18.6+; la app básica es gratuita, pero guardar o exportar cuesta un pago único de $89.99."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "CozyBlanket\niPad에 AI 리토폴로지",
-          "body": "Sparseal의 AI-assisted 리토폴로지 앱이 iPad로 먼저 나왔다.",
-          "mini_headline": "CozyBlanket Pro, iPad 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K0awUmCpELQ"
-              },
-              {
-                "t": "p",
-                "x": "Sparseal이 기대를 모아 온 AI-assisted 리토폴로지·UV 언래핑·텍스처 베이킹 소프트웨어 CozyBlanket Pro를 내놓았다. 게임 개발과 애니메이션 작업용이며, 우선 iPad 앱으로 나왔고 데스크톱 버전은 개발 중이다."
-              },
-              {
-                "t": "p",
-                "x": "원조 CozyBlanket의 정신적 후속작이지만 직접적인 업데이트는 아니며, “수백만 개의 폴리곤”을 지닌 캐릭터와 환경 전체를 다루도록 만들어졌다. AI 모델은 자체 개발했고 합성 데이터로만 학습했으며, 사용자 기기에서 로컬로 돌아간다."
-              },
-              {
-                "t": "p",
-                "x": "리토폴로지는 사용자가 Pencil 도구로 토폴로지 패치의 가장자리를 그리면 AI가 안을 채우는 방식이고, 결과는 손으로 다듬거나 고칠 수 있다. CG Channel은 초기 데모에서 얼굴 토폴로지가 관례에서 벗어났다며, 품질이 가이드 배치에 달려 있다고 짚었다."
-              },
-              {
-                "t": "p",
-                "x": "UV 언래핑도 같은 방식이며 패킹은 GPU-accelerated로 처리한다. UDIM을 지원하며 버텍스 컬러, 탄젠트 스페이스, AO 맵을 베이킹하고 OBJ나 glTF로 내보낸다. iPadOS 18.6+가 필요하고, 기본 앱은 무료지만 저장이나 내보내기에는 일회성 $89.99를 내야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "CozyBlanket\nAIリトポロジーをiPadに",
-          "body": "SparsealのAI-assistedなリトポロジーアプリがiPadで登場した。",
-          "mini_headline": "CozyBlanket ProがiPadに登場",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K0awUmCpELQ"
-              },
-              {
-                "t": "p",
-                "x": "Sparsealは、待望のAI-assistedなリトポロジー・UV展開・テクスチャベイクソフト、CozyBlanket Proをリリースした。ゲーム開発やアニメーション制作向けで、まずiPadアプリとして提供され、デスクトップ版は開発中である。"
-              },
-              {
-                "t": "p",
-                "x": "初代CozyBlanketの精神的な後継作だが直接のアップデートではなく、「数百万ポリゴン」のキャラクターや環境全体を扱えるよう設計されている。AIモデルは自社開発で、合成データのみで学習し、ユーザーのマシン上でローカルに動作する。"
-              },
-              {
-                "t": "p",
-                "x": "リトポロジーでは、ユーザーがPencilツールでトポロジーパッチの縁を描くとAIが内側を埋める。結果は手作業で調整・編集できる。CG Channelは、初期デモでは顔のトポロジーが型破りだったと指摘し、品質はガイドの配置次第だとしている。"
-              },
-              {
-                "t": "p",
-                "x": "UV展開も同じ仕組みで、パッキングはGPU-acceleratedだ。UDIMに対応し、頂点カラー、タンジェントスペース、AOマップをベイクでき、OBJまたはglTFで書き出せる。動作にはiPadOS 18.6+が必要で、基本アプリは無料だが、保存や書き出しには買い切りで$89.99がかかる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "CozyBlanket\nAI重拓扑登陆iPad",
-          "body": "Sparseal的AI-assisted重拓扑应用已登陆iPad，桌面版正在开发中。",
-          "mini_headline": "CozyBlanket Pro登陆iPad",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K0awUmCpELQ"
-              },
-              {
-                "t": "p",
-                "x": "Sparseal发布了备受期待的CozyBlanket Pro，这是一款面向游戏开发和动画制作的AI-assisted重拓扑、UV展开与纹理烘焙软件。它首先以iPad应用形式推出，桌面版正在开发中。"
-              },
-              {
-                "t": "p",
-                "x": "它是初代CozyBlanket的精神续作，但并非直接升级，专为拥有“数百万多边形”的完整角色和场景打造。其AI模型由公司自主研发，仅使用合成数据训练，并在用户设备上本地运行。"
-              },
-              {
-                "t": "p",
-                "x": "做重拓扑时，用户用Pencil工具画出拓扑面片的边缘，由AI填充内部；结果可以手动微调或编辑。CG Channel指出，早期演示中的面部拓扑并不常规，因此质量取决于引导线的摆放。"
-              },
-              {
-                "t": "p",
-                "x": "UV展开同样如此，打包为GPU-accelerated。它支持UDIM，可烘焙顶点色、切线空间和AO贴图，并导出为OBJ或glTF。运行需要iPadOS 18.6+；基础应用免费，但保存或导出需一次性支付$89.99。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-workday-sana-agents",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Workday, Sana를\n기본 홈 화면으로",
-      "body": "Workday가 Sana를 기본 홈 화면으로 삼고 오토파일럿 에이전트도 붙였다.",
-      "mini_headline": "Workday, 에이전트 중심으로",
-      "tool": "AI Workflow",
-      "source": "CIO",
-      "url": "https://www.cio.com/article/4234407/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai.html",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
-          },
-          {
-            "t": "p",
-            "x": "Workday는 Workday Rising에서 약 한 해 전 인수한 Sana를 기본 홈 화면 Workday Home으로 탈바꿈시켰다. Workday Home은 “업무, 의사결정, 회의, 에이전트 활동을 한곳에 모은다.” 역할별로 맞춰지고, Workday의 에이전트를 조율하며 작업에 따라 UI를 바꿔 양식, 캘린더, 승인 카드, 시각화를 실시간으로 만들어 낸다. Sana는 Claude, Gemini Enterprise, Microsoft Copilot, Teams, Slack 안에서도 돌아간다."
-          },
-          {
-            "t": "p",
-            "x": "Sana Concierge는 비밀번호 재설정, 휴가 문의 같은 HR·IT 요청을 맡는다. 지금은 얼리 어답터에게 제공되고, 정식 출시는 Q1 2027로 예상된다."
-          },
-          {
-            "t": "p",
-            "x": "자율 에이전트 네 개가 채용, 급여, 회계, 컴플라이언스 전반에서 오토파일럿으로 일한다. 최고 AI 책임자 Joel Hellermark는 코파일럿이 사용자가 로그인할 때까지 “가만히 있는” 반면, 이 에이전트들은 사용자가 온라인이든 아니든 하트비트에 맞춰 움직인다고 말했다. Talent Acquisition Agent는 현재 얼리 어답터에게 제공되고, Payroll, Accounting, Deployment 에이전트는 2027년 초에 뒤따른다."
-          },
-          {
-            "t": "p",
-            "x": "Workday의 Trusted Agent Platform은 이제 헤드리스여서 고객이 자체 도구와 모델을 붙여 쓸 수 있다. Gabe Monroy CTO는 “헤드리스가 무법을 뜻할 수는 없다(Headless can’t mean lawless)”고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Workday makes Sana its\ndefault home screen",
-          "body": "Workday turned Sana into its default home screen and added autopilot agents that run whether or not the user is online.",
-          "mini_headline": "Workday goes\nagent-first",
+          "headline": "Hesai Kosmo convierte espacios\nreales en mundos para robots",
+          "body": "Kosmo, de Hesai, convierte escaneos lidar en espacios 3D para entrenar robots y logró 99% de éxito en una tienda.",
+          "mini_headline": "Hesai Kosmo escanea espacios para robots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+                "cap": "Hesai lanza Kosmo 3D World Data Engine."
               },
               {
                 "t": "p",
-                "x": "At Workday Rising, Workday turned Sana, acquired about a year ago, into its default home screen, Workday Home, which “brings tasks, decisions, meetings, and agent activity into one place.” Tailored to each role, it orchestrates Workday’s agents and adapts its UI to each task, generating forms, calendars, approval cards and visualizations in real time. Sana also works within Claude, Gemini Enterprise, Microsoft Copilot, Teams and Slack."
+                "x": "Hesai Group lanzó Kosmo, un motor de datos de mundos 3D para Physical AI. Combina Kosmo One, una cámara espacial con AI, con la plataforma en la nube Kosmo World para convertir entornos físicos en espacios digitales 3D de alta fidelidad destinados al entrenamiento de robots, el desarrollo de modelos del mundo y la creación de contenido inmersivo."
               },
               {
                 "t": "p",
-                "x": "Sana Concierge resolves HR and IT requests such as password resets and time-off questions; it is available to early adopters, with general availability expected in Q1 2027."
-              },
-              {
-                "t": "p",
-                "x": "Four autonomous agents act as autopilots across hiring, payroll, accounting and compliance. Unlike a copilot that “sits there” until the user logs in, said chief AI officer Joel Hellermark, they run on a heartbeat whether or not the user is online. The Talent Acquisition Agent is available to early adopters now; Payroll, Accounting and Deployment agents follow in early 2027."
-              },
-              {
-                "t": "p",
-                "x": "Workday’s Trusted Agent Platform is now headless, letting customers use their own tools and models. “Headless can’t mean lawless,” said CTO Gabe Monroy."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Workday, Sana를\n기본 홈 화면으로",
-          "body": "Workday가 Sana를 기본 홈 화면으로 삼고 오토파일럿 에이전트도 붙였다.",
-          "mini_headline": "Workday, 에이전트 중심으로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Workday는 Workday Rising에서 약 한 해 전 인수한 Sana를 기본 홈 화면 Workday Home으로 탈바꿈시켰다. Workday Home은 “업무, 의사결정, 회의, 에이전트 활동을 한곳에 모은다.” 역할별로 맞춰지고, Workday의 에이전트를 조율하며 작업에 따라 UI를 바꿔 양식, 캘린더, 승인 카드, 시각화를 실시간으로 만들어 낸다. Sana는 Claude, Gemini Enterprise, Microsoft Copilot, Teams, Slack 안에서도 돌아간다."
-              },
-              {
-                "t": "p",
-                "x": "Sana Concierge는 비밀번호 재설정, 휴가 문의 같은 HR·IT 요청을 맡는다. 지금은 얼리 어답터에게 제공되고, 정식 출시는 Q1 2027로 예상된다."
-              },
-              {
-                "t": "p",
-                "x": "자율 에이전트 네 개가 채용, 급여, 회계, 컴플라이언스 전반에서 오토파일럿으로 일한다. 최고 AI 책임자 Joel Hellermark는 코파일럿이 사용자가 로그인할 때까지 “가만히 있는” 반면, 이 에이전트들은 사용자가 온라인이든 아니든 하트비트에 맞춰 움직인다고 말했다. Talent Acquisition Agent는 현재 얼리 어답터에게 제공되고, Payroll, Accounting, Deployment 에이전트는 2027년 초에 뒤따른다."
-              },
-              {
-                "t": "p",
-                "x": "Workday의 Trusted Agent Platform은 이제 헤드리스여서 고객이 자체 도구와 모델을 붙여 쓸 수 있다. Gabe Monroy CTO는 “헤드리스가 무법을 뜻할 수는 없다(Headless can’t mean lawless)”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Workday、Sanaを\n標準ホーム画面に",
-          "body": "WorkdayはSanaを標準のホーム画面にし、オートパイロット型エージェントを加えた。",
-          "mini_headline": "Workday、エージェント中心へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
-              },
-              {
-                "t": "p",
-                "x": "WorkdayはWorkday Risingで、約一年前に買収したSanaを標準のホーム画面「Workday Home」に据えた。Workday Homeは「タスク、意思決定、会議、エージェントの活動を一か所にまとめる」。役割ごとに最適化され、Workdayのエージェントを統括し、タスクに応じてUIを変え、フォーム、カレンダー、承認カード、可視化をリアルタイムで生成する。SanaはClaude、Gemini Enterprise、Microsoft Copilot、Teams、Slackの中でも動作する。"
-              },
-              {
-                "t": "p",
-                "x": "Sana Conciergeは、パスワードのリセットや休暇に関する質問といったHRやITの依頼を処理する。アーリーアダプター向けに提供されており、一般提供はQ1 2027の見込みだ。"
-              },
-              {
-                "t": "p",
-                "x": "四つの自律型エージェントが、採用、給与、会計、コンプライアンスにわたってオートパイロットとして働く。最高AI責任者のJoel Hellermarkによると、ユーザーがログインするまで「ただ座っている」コパイロットとは異なり、これらはユーザーがオンラインかどうかに関係なく、ハートビートに合わせて動く。Talent Acquisition Agentはすでにアーリーアダプター向けに提供されており、Payroll、Accounting、Deploymentの各エージェントは2027年初めに続く。"
-              },
-              {
-                "t": "p",
-                "x": "WorkdayのTrusted Agent Platformはヘッドレスになり、顧客は自前のツールやモデルを使えるようになった。CTOのGabe Monroyは「ヘッドレスは無法を意味してはならない（Headless can’t mean lawless）」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Workday把Sana\n设为默认主屏幕",
-          "body": "Workday将Sana设为默认主屏幕，并加入无论用户是否在线都会运行的自动驾驶智能体。",
-          "mini_headline": "Workday转向智能体优先",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
-              },
-              {
-                "t": "p",
-                "x": "在Workday Rising大会上，Workday将约一年前收购的Sana设为默认主屏幕Workday Home，它“把任务、决策、会议和智能体活动汇集到一处”。它按不同角色定制，统筹调度Workday的智能体，并根据每项任务调整UI，实时生成表单、日历、审批卡片和可视化图表。Sana还可在Claude、Gemini Enterprise、Microsoft Copilot、Teams和Slack中使用。"
-              },
-              {
-                "t": "p",
-                "x": "Sana Concierge可处理密码重置、休假咨询等HR和IT请求；目前面向早期采用者开放，预计Q1 2027全面上市。"
-              },
-              {
-                "t": "p",
-                "x": "四个自主智能体在招聘、薪资、会计和合规领域充当自动驾驶。首席AI官Joel Hellermark表示，与在用户登录前一直“待在那里”的副驾驶不同，它们按心跳节奏运行，无论用户是否在线。Talent Acquisition Agent现已向早期采用者开放；Payroll、Accounting和Deployment智能体将于2027年初推出。"
-              },
-              {
-                "t": "p",
-                "x": "Workday的Trusted Agent Platform现已实现无头化，客户可以使用自己的工具和模型。CTO Gabe Monroy说：“无头不等于无法无天（Headless can’t mean lawless）。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Workday convierte a Sana en\nsu pantalla de inicio estándar",
-          "body": "Workday hizo de Sana su pantalla de inicio y sumó agentes autónomos que funcionan esté o no conectado el usuario.",
-          "mini_headline": "Workday apuesta por los agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
-              },
-              {
-                "t": "p",
-                "x": "En Workday Rising, Workday convirtió a Sana, adquirida hace aproximadamente un año, en su pantalla de inicio por defecto, Workday Home, que «reúne en un solo lugar tareas, decisiones, reuniones y actividad de agentes». Adaptada a cada rol, orquesta los agentes de Workday y ajusta su UI a cada tarea, generando formularios, calendarios, tarjetas de aprobación y visualizaciones en tiempo real. Sana también funciona dentro de Claude, Gemini Enterprise, Microsoft Copilot, Teams y Slack."
-              },
-              {
-                "t": "p",
-                "x": "Sana Concierge resuelve solicitudes de HR e IT, como restablecer contraseñas o consultas sobre días libres; está disponible para los primeros usuarios y se espera su disponibilidad general en Q1 2027."
-              },
-              {
-                "t": "p",
-                "x": "Cuatro agentes autónomos actúan como pilotos automáticos en contratación, nóminas, contabilidad y cumplimiento normativo. A diferencia de un copiloto que «se queda ahí» hasta que el usuario inicia sesión, dijo el director de AI Joel Hellermark, funcionan con un latido periódico, esté o no conectado el usuario. El Talent Acquisition Agent ya está disponible para los primeros usuarios; los agentes Payroll, Accounting y Deployment llegarán a principios de 2027."
-              },
-              {
-                "t": "p",
-                "x": "La Trusted Agent Platform de Workday ahora es headless, lo que permite a los clientes usar sus propias herramientas y modelos. «Headless no puede significar sin ley», dijo el CTO Gabe Monroy."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Workday, Sana를\n기본 홈 화면으로",
-          "body": "Workday는 Sana를 기본 홈 화면으로 삼고 오토파일럿 에이전트를 더했다.",
-          "mini_headline": "Workday, 에이전트 중심으로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Workday는 Workday Rising에서 약 한 해 전 인수한 Sana를 기본 홈 화면인 Workday Home으로 바꿨다. Workday Home은 “업무, 의사결정, 회의, 에이전트 활동을 한곳에 모은다.” 역할마다 맞춰지며, Workday의 에이전트를 조율하고 작업에 따라 UI를 바꿔 양식, 캘린더, 승인 카드, 시각화를 실시간으로 생성한다. Sana는 Claude, Gemini Enterprise, Microsoft Copilot, Teams, Slack 안에서도 작동한다."
-              },
-              {
-                "t": "p",
-                "x": "Sana Concierge는 비밀번호 재설정이나 휴가 문의 같은 HR·IT 요청을 처리한다. 얼리 어답터에게 제공 중이며, 정식 출시는 Q1 2027로 예상된다."
-              },
-              {
-                "t": "p",
-                "x": "네 개의 자율 에이전트가 채용, 급여, 회계, 컴플라이언스 전반에서 오토파일럿 역할을 한다. 최고 AI 책임자 Joel Hellermark는 사용자가 로그인할 때까지 “가만히 있는” 코파일럿과 달리, 이 에이전트들은 사용자의 온라인 여부와 상관없이 하트비트에 맞춰 작동한다고 말했다. Talent Acquisition Agent는 지금 얼리 어답터에게 제공되고, Payroll, Accounting, Deployment 에이전트는 2027년 초에 뒤따른다."
-              },
-              {
-                "t": "p",
-                "x": "Workday의 Trusted Agent Platform은 이제 헤드리스로 바뀌어, 고객이 자체 도구와 모델을 쓸 수 있다. Gabe Monroy CTO는 “헤드리스가 무법을 뜻할 수는 없다(Headless can’t mean lawless)”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Workday、Sanaを\n標準ホーム画面に",
-          "body": "WorkdayはSanaを標準のホーム画面にし、オートパイロット型エージェントを加えた。",
-          "mini_headline": "Workday、エージェント中心へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
-              },
-              {
-                "t": "p",
-                "x": "WorkdayはWorkday Risingで、約一年前に買収したSanaを標準のホーム画面「Workday Home」に据えた。Workday Homeは「タスク、意思決定、会議、エージェントの活動を一か所にまとめる」。役割ごとに最適化され、Workdayのエージェントを統括し、タスクに応じてUIを変え、フォーム、カレンダー、承認カード、可視化をリアルタイムで生成する。SanaはClaude、Gemini Enterprise、Microsoft Copilot、Teams、Slackの中でも動作する。"
-              },
-              {
-                "t": "p",
-                "x": "Sana Conciergeは、パスワードのリセットや休暇に関する質問といったHRやITの依頼を処理する。アーリーアダプター向けに提供されており、一般提供はQ1 2027の見込みだ。"
-              },
-              {
-                "t": "p",
-                "x": "四つの自律型エージェントが、採用、給与、会計、コンプライアンスにわたってオートパイロットとして働く。最高AI責任者のJoel Hellermarkによると、ユーザーがログインするまで「ただ座っている」コパイロットとは異なり、これらはユーザーがオンラインかどうかに関係なく、ハートビートに合わせて動く。Talent Acquisition Agentはすでにアーリーアダプター向けに提供されており、Payroll、Accounting、Deploymentの各エージェントは2027年初めに続く。"
-              },
-              {
-                "t": "p",
-                "x": "WorkdayのTrusted Agent Platformはヘッドレスになり、顧客は自前のツールやモデルを使えるようになった。CTOのGabe Monroyは「ヘッドレスは無法を意味してはならない（Headless can’t mean lawless）」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Workday把Sana\n设为默认主屏幕",
-          "body": "Workday将Sana设为默认主屏幕，并加入无论用户是否在线都会运行的自动驾驶智能体。",
-          "mini_headline": "Workday转向智能体优先",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
-              },
-              {
-                "t": "p",
-                "x": "在Workday Rising大会上，Workday将约一年前收购的Sana设为默认主屏幕Workday Home，它“把任务、决策、会议和智能体活动汇集到一处”。它按不同角色定制，统筹调度Workday的智能体，并根据每项任务调整UI，实时生成表单、日历、审批卡片和可视化图表。Sana还可在Claude、Gemini Enterprise、Microsoft Copilot、Teams和Slack中使用。"
-              },
-              {
-                "t": "p",
-                "x": "Sana Concierge可处理密码重置、休假咨询等HR和IT请求；目前面向早期采用者开放，预计Q1 2027全面上市。"
-              },
-              {
-                "t": "p",
-                "x": "四个自主智能体在招聘、薪资、会计和合规领域充当自动驾驶。首席AI官Joel Hellermark表示，与在用户登录前一直“待在那里”的副驾驶不同，它们按心跳节奏运行，无论用户是否在线。Talent Acquisition Agent现已向早期采用者开放；Payroll、Accounting和Deployment智能体将于2027年初推出。"
-              },
-              {
-                "t": "p",
-                "x": "Workday的Trusted Agent Platform现已实现无头化，客户可以使用自己的工具和模型。CTO Gabe Monroy说：“无头不等于无法无天（Headless can’t mean lawless）。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Workday convierte a Sana en\nsu pantalla de inicio estándar",
-          "body": "Workday hizo de Sana su pantalla de inicio y sumó agentes autónomos que funcionan esté o no conectado el usuario.",
-          "mini_headline": "Workday apuesta por los agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
-              },
-              {
-                "t": "p",
-                "x": "En Workday Rising, Workday convirtió a Sana, adquirida hace aproximadamente un año, en su pantalla de inicio por defecto, Workday Home, que «reúne en un solo lugar tareas, decisiones, reuniones y actividad de agentes». Adaptada a cada rol, orquesta los agentes de Workday y ajusta su UI a cada tarea, generando formularios, calendarios, tarjetas de aprobación y visualizaciones en tiempo real. Sana también funciona dentro de Claude, Gemini Enterprise, Microsoft Copilot, Teams y Slack."
-              },
-              {
-                "t": "p",
-                "x": "Sana Concierge resuelve solicitudes de HR e IT, como restablecer contraseñas o consultas sobre días libres; está disponible para los primeros usuarios y se espera su disponibilidad general en Q1 2027."
-              },
-              {
-                "t": "p",
-                "x": "Cuatro agentes autónomos actúan como pilotos automáticos en contratación, nóminas, contabilidad y cumplimiento normativo. A diferencia de un copiloto que «se queda ahí» hasta que el usuario inicia sesión, dijo el director de AI Joel Hellermark, funcionan con un latido periódico, esté o no conectado el usuario. El Talent Acquisition Agent ya está disponible para los primeros usuarios; los agentes Payroll, Accounting y Deployment llegarán a principios de 2027."
-              },
-              {
-                "t": "p",
-                "x": "La Trusted Agent Platform de Workday ahora es headless, lo que permite a los clientes usar sus propias herramientas y modelos. «Headless no puede significar sin ley», dijo el CTO Gabe Monroy."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-hourglass-middle",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 디자인의\n허리를 비운다",
-      "body": "한 에세이는 비대해진 디자인 프로세스의 허리를 AI가 조인다고 본다.",
-      "mini_headline": "AI, 디자인의 중간을 비우다",
-      "tool": "AI Workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-          },
-          {
-            "t": "p",
-            "x": "열다섯 해 동안 디자인 프로세스는 계속 불어났는데, 정작 제품을 만들 시간은 줄기만 했다. Anamol Rajbhandari는 그 중간, 곧 리서치 보고서, 페르소나, 여정 지도, 와이어프레임, 핸드오프 스펙, 워크숍이 빠져나가고 무게가 양 끝으로 옮겨 간다고 주장한다. 위에서 결정하고 아래에서 만드는 모래시계 모양이다."
-          },
-          {
-            "t": "p",
-            "x": "그 중간은 돈이 쌀 때 열두어 명의 전문가 사이에서 합의를 사는 장치였다. 그러다 Fed가 2022년 3월부터 2023년 7월까지 금리를 열한 차례 올렸고, 2022년 11월에는 ChatGPT가 나왔다. 기업은 중간을 덜어낼 이유와 수단을 한꺼번에 얻었다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
-          },
-          {
-            "t": "p",
-            "x": "이런 산출물이 실은 다른 무언가를 대신하고 있었다는 건 연구로도 드러났다. 실무자들에게 페르소나는 거의 소통용일 뿐이었고, Rolf Molich의 한 연구에서는 열일곱 팀이 사용성 문제 340개를 보고했지만 모든 팀이 공통으로 찾은 문제는 하나도 없었다. 지금은 AI 모델이 인터뷰 가이드 초안을 쓰고, 녹취록 더미에서 긴장 지점을 일 분 만에 짚어 낸다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
-          },
-          {
-            "t": "p",
-            "x": "이제 작동하는 프로토타입은 한 분기가 아니라 오후 한나절이면 나오고, 만드는 일은 다시 디자이너 몫이 된다. 해자는 반대편 끝, 곧 무엇이 존재할 가치가 있는지 가려내는 일에 생긴다. 디자이너는 무엇을 만들 가치가 있는지 정하고, 빠르게 협업한 뒤 그걸 잘 만든다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI is hollowing out\nthe middle of design",
-          "body": "After years of a growing design process, an essay argues AI is now squeezing its middle into an hourglass shape.",
-          "mini_headline": "AI hollows out\ndesign's middle",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-              },
-              {
-                "t": "p",
-                "x": "For fifteen years, the design process kept growing while the time left for making the product kept shrinking. Anamol Rajbhandari argues the middle of that process — research reports, personas, journey maps, wireframes, handoff specs, workshops — is draining now, with the weight moving out to the two ends: deciding at the top, making at the bottom, like an hourglass."
-              },
-              {
-                "t": "p",
-                "x": "That middle was buying agreement among a dozen specialists while money was cheap. Then the Fed raised rates eleven times between March 2022 and July 2023, and ChatGPT arrived in November 2022, giving companies both a reason and the means to cut it."
+                "x": "Kosmo One combina lidar, un sensor de imagen de una pulgada y una IMU, y usa 3D Gaussian Splatting para lograr una precisión milimétrica. Un solo operador puede escanear un espacio interior típico de 100 metros cuadrados en unos 15 minutos."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+                "cap": "Kosmo ofrece grandes volúmenes de datos de escenas reales para el entrenamiento de AI corporizada."
               },
               {
                 "t": "p",
-                "x": "Research had already shown the artifacts standing in for something else: practitioners used personas almost only for communication, and in one Rolf Molich study seventeen teams reported 340 usability problems, none found by every team. An AI model now drafts the discussion guide and surfaces the tensions in a stack of transcripts in a minute."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+                "x": "En una tienda de Dairy Queen, construir un entorno de entrenamiento 3D llevaba antes unas 300 horas de modelado manual; con Kosmo tomó 15 minutos, y la tasa de éxito en tareas del robot Sharpa llegó al 99%."
               },
               {
                 "t": "p",
-                "x": "A working prototype now takes an afternoon instead of a quarter, so making comes back to the designer. The far end — judging what deserves to exist — becomes the moat: a designer decides what is worth making, collaborates at speed, and then makes it well."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI가 디자인의\n허리를 비운다",
-          "body": "한 에세이는 비대해진 디자인 프로세스의 허리를 AI가 조인다고 본다.",
-          "mini_headline": "AI, 디자인의 중간을 비우다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-              },
-              {
-                "t": "p",
-                "x": "열다섯 해 동안 디자인 프로세스는 계속 불어났는데, 정작 제품을 만들 시간은 줄기만 했다. Anamol Rajbhandari는 그 중간, 곧 리서치 보고서, 페르소나, 여정 지도, 와이어프레임, 핸드오프 스펙, 워크숍이 빠져나가고 무게가 양 끝으로 옮겨 간다고 주장한다. 위에서 결정하고 아래에서 만드는 모래시계 모양이다."
-              },
-              {
-                "t": "p",
-                "x": "그 중간은 돈이 쌀 때 열두어 명의 전문가 사이에서 합의를 사는 장치였다. 그러다 Fed가 2022년 3월부터 2023년 7월까지 금리를 열한 차례 올렸고, 2022년 11월에는 ChatGPT가 나왔다. 기업은 중간을 덜어낼 이유와 수단을 한꺼번에 얻었다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
-              },
-              {
-                "t": "p",
-                "x": "이런 산출물이 실은 다른 무언가를 대신하고 있었다는 건 연구로도 드러났다. 실무자들에게 페르소나는 거의 소통용일 뿐이었고, Rolf Molich의 한 연구에서는 열일곱 팀이 사용성 문제 340개를 보고했지만 모든 팀이 공통으로 찾은 문제는 하나도 없었다. 지금은 AI 모델이 인터뷰 가이드 초안을 쓰고, 녹취록 더미에서 긴장 지점을 일 분 만에 짚어 낸다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
-              },
-              {
-                "t": "p",
-                "x": "이제 작동하는 프로토타입은 한 분기가 아니라 오후 한나절이면 나오고, 만드는 일은 다시 디자이너 몫이 된다. 해자는 반대편 끝, 곧 무엇이 존재할 가치가 있는지 가려내는 일에 생긴다. 디자이너는 무엇을 만들 가치가 있는지 정하고, 빠르게 협업한 뒤 그걸 잘 만든다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIがデザインの\n中間を空洞化する",
-          "body": "膨らみ続けたデザインの工程を、AIが砂時計のように中間からくびれさせるという論考だ。",
-          "mini_headline": "AI、デザインの中間を空洞化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-              },
-              {
-                "t": "p",
-                "x": "十五年にわたり、デザインプロセスは膨らみ続け、製品を作るために残された時間は縮み続けた。Anamol Rajbhandariは、そのプロセスの中間、つまりリサーチレポート、ペルソナ、ジャーニーマップ、ワイヤーフレーム、ハンドオフ仕様、ワークショップがいま抜け落ちつつあり、重心が両端へ移っていると論じる。上では決め、下では作る。砂時計のような形だ。"
-              },
-              {
-                "t": "p",
-                "x": "その中間は、資金が安かった時代に十二人ほどの専門家の合意を買うためのものだった。その後、Fedが2022年3月から2023年7月にかけて十一回利上げし、2022年11月にはChatGPTが登場した。企業はそれを削る理由と手段の両方を得たのだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
-              },
-              {
-                "t": "p",
-                "x": "研究はすでに、こうした成果物が別の何かの代わりになっていることを示していた。実務者はペルソナをほぼコミュニケーションのためだけに使っており、Rolf Molichのある研究では、十七のチームが340件のユーザビリティ上の問題を報告したが、すべてのチームが見つけた問題は一つもなかった。いまではAIモデルがインタビューガイドの草案を作り、山のような書き起こしから緊張関係を一分で浮かび上がらせる。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
-              },
-              {
-                "t": "p",
-                "x": "動くプロトタイプは四半期ではなく午後のうちにできるようになり、作ることはデザイナーの手に戻る。もう一方の端、つまり何が存在に値するかを見極めることが堀になる。デザイナーは何を作る価値があるかを決め、素早く協働し、それをうまく作り上げる。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI正在掏空\n设计流程的中段",
-          "body": "一篇文章认为，多年来不断膨胀的设计流程，正被AI从中间挤压成沙漏形状。",
-          "mini_headline": "AI掏空设计的中段",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-              },
-              {
-                "t": "p",
-                "x": "十五年来，设计流程不断膨胀，留给打造产品的时间却越来越少。Anamol Rajbhandari认为，这一流程的中段——研究报告、用户画像、旅程图、线框图、交付规格、工作坊——如今正在流失，重心移向两端：顶端做决定，底端做产品，就像一个沙漏。"
-              },
-              {
-                "t": "p",
-                "x": "在资金便宜的年代，这个中段的作用是在约十二位专家之间换取共识。随后，Fed在2022年3月至2023年7月间十一次加息，ChatGPT又在2022年11月问世，让企业既有理由也有手段砍掉它。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
-              },
-              {
-                "t": "p",
-                "x": "研究早已表明，这些产出物其实在替代别的东西：从业者几乎只把用户画像用于沟通；在Rolf Molich的一项研究中，十七个团队报告了340个可用性问题，却没有一个问题被所有团队都发现。如今，AI模型一分钟内就能起草访谈提纲，并从成堆的访谈记录中找出其中的矛盾。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
-              },
-              {
-                "t": "p",
-                "x": "可运行的原型如今只需一个下午，而不是一个季度，于是“做”重新回到设计师手中。另一端——判断什么值得存在——成了护城河：设计师决定什么值得做，高速协作，然后把它做好。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI está vaciando\nel centro del diseño",
-          "body": "Un ensayo sostiene que la AI estrecha ahora el centro del proceso de diseño, como en un reloj de arena.",
-          "mini_headline": "La AI vacía el centro del diseño",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-              },
-              {
-                "t": "p",
-                "x": "Durante quince años, el proceso de diseño no dejó de crecer mientras se reducía el tiempo que quedaba para hacer el producto. Anamol Rajbhandari sostiene que el centro de ese proceso —informes de investigación, personas, mapas de recorrido, wireframes, especificaciones de traspaso, talleres— se está vaciando, y que el peso se desplaza a los dos extremos: decidir arriba, hacer abajo, como en un reloj de arena."
-              },
-              {
-                "t": "p",
-                "x": "Ese centro servía para comprar el acuerdo entre una docena de especialistas mientras el dinero era barato. Luego la Fed subió los tipos de interés once veces entre marzo de 2022 y julio de 2023, y ChatGPT llegó en noviembre de 2022, lo que dio a las empresas tanto un motivo como los medios para recortarlo."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
-              },
-              {
-                "t": "p",
-                "x": "La investigación ya había mostrado que esos artefactos sustituían a otra cosa: los profesionales usaban las personas casi solo para comunicar, y en un estudio de Rolf Molich diecisiete equipos reportaron 340 problemas de usabilidad, ninguno detectado por todos los equipos. Ahora un modelo de AI redacta la guía de entrevista y saca a la luz las tensiones de un montón de transcripciones en un minuto."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
-              },
-              {
-                "t": "p",
-                "x": "Un prototipo funcional lleva ahora una tarde en lugar de un trimestre, así que hacer vuelve a manos del diseñador. El otro extremo —juzgar qué merece existir— se convierte en el foso defensivo: el diseñador decide qué vale la pena hacer, colabora con rapidez y luego lo hace bien."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI가 디자인의\n허리를 비운다",
-          "body": "한 에세이는 커져 온 디자인 프로세스의 허리를 AI가 조인다고 본다.",
-          "mini_headline": "AI, 디자인의 중간을 비우다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-              },
-              {
-                "t": "p",
-                "x": "열다섯 해 동안 디자인 프로세스는 계속 불어났고, 정작 제품을 만들 시간은 계속 줄었다. Anamol Rajbhandari는 그 프로세스의 중간, 곧 리서치 보고서, 페르소나, 여정 지도, 와이어프레임, 핸드오프 스펙, 워크숍이 이제 빠져나가고 있으며 무게가 양 끝으로 옮겨 간다고 주장한다. 위에서는 결정하고 아래에서는 만드는, 모래시계 같은 모양이다."
-              },
-              {
-                "t": "p",
-                "x": "그 중간은 돈이 쌀 때 열두어 명의 전문가 사이에서 합의를 사는 장치였다. 그러다 Fed가 2022년 3월부터 2023년 7월까지 금리를 열한 차례 올렸고, 2022년 11월 ChatGPT가 나오면서 기업은 그 중간을 덜어낼 이유와 수단을 함께 얻었다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
-              },
-              {
-                "t": "p",
-                "x": "연구는 이미 이런 산출물이 다른 무언가를 대신하고 있음을 보여 줬다. 실무자들은 페르소나를 거의 소통용으로만 썼고, Rolf Molich의 한 연구에서는 열일곱 팀이 사용성 문제 340개를 보고했지만 모든 팀이 찾아낸 문제는 하나도 없었다. 이제는 AI 모델이 인터뷰 가이드 초안을 쓰고, 녹취록 더미에서 긴장 지점을 일 분 만에 짚어 낸다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
-              },
-              {
-                "t": "p",
-                "x": "이제 작동하는 프로토타입은 한 분기가 아니라 오후 한나절이면 나오고, 만드는 일은 디자이너에게 돌아온다. 반대편 끝, 곧 무엇이 존재할 가치가 있는지 판단하는 일이 해자가 된다. 디자이너는 무엇을 만들 가치가 있는지 정하고, 빠르게 협업한 뒤 그것을 잘 만든다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIがデザインの\n中間を空洞化する",
-          "body": "膨らみ続けたデザインの工程を、AIが砂時計のように中間からくびれさせるという論考だ。",
-          "mini_headline": "AI、デザインの中間を空洞化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-              },
-              {
-                "t": "p",
-                "x": "十五年にわたり、デザインプロセスは膨らみ続け、製品を作るために残された時間は縮み続けた。Anamol Rajbhandariは、そのプロセスの中間、つまりリサーチレポート、ペルソナ、ジャーニーマップ、ワイヤーフレーム、ハンドオフ仕様、ワークショップがいま抜け落ちつつあり、重心が両端へ移っていると論じる。上では決め、下では作る。砂時計のような形だ。"
-              },
-              {
-                "t": "p",
-                "x": "その中間は、資金が安かった時代に十二人ほどの専門家の合意を買うためのものだった。その後、Fedが2022年3月から2023年7月にかけて十一回利上げし、2022年11月にはChatGPTが登場した。企業はそれを削る理由と手段の両方を得たのだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
-              },
-              {
-                "t": "p",
-                "x": "研究はすでに、こうした成果物が別の何かの代わりになっていることを示していた。実務者はペルソナをほぼコミュニケーションのためだけに使っており、Rolf Molichのある研究では、十七のチームが340件のユーザビリティ上の問題を報告したが、すべてのチームが見つけた問題は一つもなかった。いまではAIモデルがインタビューガイドの草案を作り、山のような書き起こしから緊張関係を一分で浮かび上がらせる。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
-              },
-              {
-                "t": "p",
-                "x": "動くプロトタイプは四半期ではなく午後のうちにできるようになり、作ることはデザイナーの手に戻る。もう一方の端、つまり何が存在に値するかを見極めることが堀になる。デザイナーは何を作る価値があるかを決め、素早く協働し、それをうまく作り上げる。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI正在掏空\n设计流程的中段",
-          "body": "一篇文章认为，多年来不断膨胀的设计流程，正被AI从中间挤压成沙漏形状。",
-          "mini_headline": "AI掏空设计的中段",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-              },
-              {
-                "t": "p",
-                "x": "十五年来，设计流程不断膨胀，留给打造产品的时间却越来越少。Anamol Rajbhandari认为，这一流程的中段——研究报告、用户画像、旅程图、线框图、交付规格、工作坊——如今正在流失，重心移向两端：顶端做决定，底端做产品，就像一个沙漏。"
-              },
-              {
-                "t": "p",
-                "x": "在资金便宜的年代，这个中段的作用是在约十二位专家之间换取共识。随后，Fed在2022年3月至2023年7月间十一次加息，ChatGPT又在2022年11月问世，让企业既有理由也有手段砍掉它。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
-              },
-              {
-                "t": "p",
-                "x": "研究早已表明，这些产出物其实在替代别的东西：从业者几乎只把用户画像用于沟通；在Rolf Molich的一项研究中，十七个团队报告了340个可用性问题，却没有一个问题被所有团队都发现。如今，AI模型一分钟内就能起草访谈提纲，并从成堆的访谈记录中找出其中的矛盾。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
-              },
-              {
-                "t": "p",
-                "x": "可运行的原型如今只需一个下午，而不是一个季度，于是“做”重新回到设计师手中。另一端——判断什么值得存在——成了护城河：设计师决定什么值得做，高速协作，然后把它做好。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI está vaciando\nel centro del diseño",
-          "body": "Un ensayo sostiene que la AI estrecha ahora el centro del proceso de diseño, como en un reloj de arena.",
-          "mini_headline": "La AI vacía el centro del diseño",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-              },
-              {
-                "t": "p",
-                "x": "Durante quince años, el proceso de diseño no dejó de crecer mientras se reducía el tiempo que quedaba para hacer el producto. Anamol Rajbhandari sostiene que el centro de ese proceso —informes de investigación, personas, mapas de recorrido, wireframes, especificaciones de traspaso, talleres— se está vaciando, y que el peso se desplaza a los dos extremos: decidir arriba, hacer abajo, como en un reloj de arena."
-              },
-              {
-                "t": "p",
-                "x": "Ese centro servía para comprar el acuerdo entre una docena de especialistas mientras el dinero era barato. Luego la Fed subió los tipos de interés once veces entre marzo de 2022 y julio de 2023, y ChatGPT llegó en noviembre de 2022, lo que dio a las empresas tanto un motivo como los medios para recortarlo."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
-              },
-              {
-                "t": "p",
-                "x": "La investigación ya había mostrado que esos artefactos sustituían a otra cosa: los profesionales usaban las personas casi solo para comunicar, y en un estudio de Rolf Molich diecisiete equipos reportaron 340 problemas de usabilidad, ninguno detectado por todos los equipos. Ahora un modelo de AI redacta la guía de entrevista y saca a la luz las tensiones de un montón de transcripciones en un minuto."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
-              },
-              {
-                "t": "p",
-                "x": "Un prototipo funcional lleva ahora una tarde en lugar de un trimestre, así que hacer vuelve a manos del diseñador. El otro extremo —juzgar qué merece existir— se convierte en el foso defensivo: el diseñador decide qué vale la pena hacer, colabora con rapidez y luego lo hace bien."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+                "x": "En cine, un paisaje urbano de 10,000 metros cuadrados que tardaría dos meses en construirse como set puede escanearse y editarse en una semana, y hay estudios que usan Kosmo en flujos de trabajo basados en RenderMan de Pixar."
               }
             ]
           }

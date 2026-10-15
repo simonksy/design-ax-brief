@@ -970,6 +970,107 @@
           "x": "Lawrence Tallon, the MHRA's Chief Executive, said the Commission, led by NHS doctors, \"has given us a clear and ambitious blueprint\". A webinar for applicants takes place on 22 October; the first wave of innovators will be selected in November 2026."
         }
       ]
+    },
+    "medicine/medicine-openevidence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A cross-sectional study published Oct. 15 in JAMA analyzed clinicians with NPI-verified OpenEvidence accounts from Jan. 1, 2024, through June 30, 2026."
+        },
+        {
+          "t": "p",
+          "x": "Over the 2.5-year period, 952,008 clinicians, including 556,200 physicians, submitted 271 million queries. Monthly active users grew from 355 to 703,265, and average monthly queries per active user rose from 18.0 to 39.5."
+        },
+        {
+          "t": "p",
+          "x": "Nurse practitioners and physician assistants (44.5 queries per active user-month each) outpaced physicians (37.1). Use was highest in oncology and hematology, internal medicine and family medicine, and lowest in ophthalmology, radiology and orthopedics."
+        },
+        {
+          "t": "p",
+          "x": "Most queries (51.9%) addressed clinical decision-making, chiefly treatment and management (33.1%); diagnosis accounted for 13.9%. Queries outside a physician's own specialty ranged from 35% among oncologists to 88% among emergency physicians."
+        }
+      ]
+    },
+    "medicine/medicine-ama-agentic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+          "cap": "The AMA framework sets four questions for assessing clinical AI agents."
+        },
+        {
+          "t": "p",
+          "x": "The American Medical Association released a governance framework for AI agents used to perform clinical tasks, built around four questions: what clinical function the AI performs, what demonstrates it can do so and what happens if it fails, what it should be permitted to do and under what conditions, and who is responsible for the risks and outcomes."
+        },
+        {
+          "t": "p",
+          "x": "Because agentic tools can complete multi-step tasks without human oversight, an inaccurate or biased decision could cause significant patient harm before a clinician can intervene. “As AI capabilities advance, evidence, authority, oversight and accountability must remain aligned in service of better patient care,” the framework states."
+        },
+        {
+          "t": "p",
+          "x": "In a recent survey of 250 U.S. healthcare leaders, about 28% said their organization has deployed agentic AI and 44% are piloting it. In the absence of substantive federal AI regulation, industry groups are providing guidance; 47 states introduced over 250 AI bills impacting healthcare in 2025."
+        }
+      ]
+    },
+    "medicine/medicine-rare-phenotype": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Phenotyping is fundamental to rare disease diagnosis, but manually curating structured phenotypes from clinical notes is labor intensive and difficult to scale. Existing AI approaches optimize individual components but do not operationalize the full workflow."
+        },
+        {
+          "t": "p",
+          "x": "The researchers developed RARE-PHENIX, an end-to-end AI framework that combines large language model-based phenotype extraction, ontology-grounded standardization to Human Phenotype Ontology (HPO) terms, and supervised ranking of HPO terms."
+        },
+        {
+          "t": "p",
+          "x": "It was trained on data from 2,671 patients across 11 Undiagnosed Diseases Network sites and externally validated on 16,357 clinical notes from 143 patients at Vanderbilt University Medical Center. Its prioritized HPO terms were highly concordant with clinician curation, and it may support human-in-the-loop phenotyping in real-world settings."
+        }
+      ]
+    },
+    "medicine/medicine-ed-forecast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Emergency department crowding is associated with delayed treatment and increased mortality, and proactive staffing requires reliable short-term demand forecasts. Most operational models rely on temporal or weather patterns."
+        },
+        {
+          "t": "p",
+          "x": "Researchers tested whether community-level social determinants of health (SDoH) improve hourly ED demand prediction compared with weather, using XGBoost on 213,138 encounters aggregated into 22,883 hourly observations at a tertiary teaching hospital in Wuhan, China."
+        },
+        {
+          "t": "p",
+          "x": "Models with dynamic SDoH features consistently outperformed weather-only models. The composite model reached an RMSE of 3.48 and an MAE of 2.62 visits per hour (R² 0.68), errors of about 2 to 3 patients per hour, suggesting practical use for short-term staffing and capacity planning."
+        }
+      ]
+    },
+    "medicine/medicine-mhra-2030": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Medicines and Healthcare products Regulatory Agency (MHRA) has set out plans to translate cutting-edge scientific and technological innovation into better health outcomes for patients across all four nations of the UK, in its 2030 Strategy."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
+        },
+        {
+          "t": "p",
+          "x": "By 2030 the MHRA aims to be more patient-centred, support faster access to safe, effective treatments, and have more data-connectivity and global influence. Health innovation minister James Frith said the strategy will help the MHRA keep pace with the latest innovations in AI, data and medicine."
+        },
+        {
+          "t": "p",
+          "x": "Chief executive Lawrence Tallon said AI is transforming both regulated products and how organisations are run, and that such developments challenge traditional regulatory models."
+        },
+        {
+          "t": "p",
+          "x": "On AI, the MHRA commits to develop an AI-enabled Clinical Trial Protocol Checker, publish an AI Medicines Development Action Plan in 2027, establish an MHRA Centre for AI and Digital Health, and create a modern, adaptive regulatory framework for AI as a medical device. It will also use AI to analyse real-world data and identify potential safety issues earlier."
+        },
+        {
+          "t": "p",
+          "x": "Other pledges include cutting the scientific advice service from 90 to 45 days, halving the initial assessment target for qualifying Phase 1 trials to 14 days, and a Women's Health Plan."
+        }
+      ]
     }
   }
 }

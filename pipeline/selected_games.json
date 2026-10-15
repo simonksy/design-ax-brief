@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "games",
   "picks": [
     {
-      "title": "Epic’s new games launcher is ‘vibe coded’",
-      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-      "source": "The Verge",
+      "title": "Decomp.dev shuts down: 'The community aspect of decompilation has been broken' by low-effort AI slop",
+      "url": "https://www.gamesradar.com/games/the-community-aspect-of-decompilation-has-been-broken-by-a-wave-of-low-effort-ai-slop-and-now-a-major-community-tool-is-shutting-down/",
+      "source": "GamesRadar+",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A major storefront openly shipped a client it built with AI-assisted coding. It is a concrete new release, and the bug warning is a direct signal about AI-built production software.",
-      "published_iso": "2026-10-14T13:55:02+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "excerpt": "“We used AI as a tool for this.”"
+      "rationale": "A major community tool is closing because of the flood of AI decomps and ports. Earlier cards covered the AI-port wave; this is the first time core infrastructure has shut down over it.",
+      "published_iso": "2026-10-15T21:06:24Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1920-80.jpg",
+      "excerpt": "Developer Luke 'encounter' Street is closing decomp.dev, the site that tracked human-driven decompilations of classic games, citing the flood of low-effort AI decomps and ports."
     },
     {
-      "title": "Players Are Furious About Total War: Shogun 2's AI-Upscaled 'Enhanced' Edition",
-      "url": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
+      "title": "Sega's Total War: Shogun 2 Remake Is Such A Disaster It's Being Pulled From Sale",
+      "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
       "source": "Kotaku",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A first-party remaster drew a backlash over genAI-upscaled art. It shows what happens to an asset pipeline when players can spot AI enlargement.",
-      "published_iso": "2026-10-14T14:00:30+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/shogun-slop9.jpg",
-      "excerpt": "Steam users say it runs worse, looks worse, adds more bugs, and clearly used genAI to enlarge the artwork"
+      "rationale": "A follow-up with a new publisher decision. Sega and Creative Assembly pulled the AI-upscaled edition two days after launch and restored the 2011 original, which turns the backlash into a delisting.",
+      "published_iso": "2026-10-15T13:59:17+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/shogun-2-1200x675.jpg",
+      "excerpt": "Sega and Creative Assembly pulled the AI-upscaled Total War: Shogun 2 Complete Edition from sale two days after launch following backlash over AI art and bugs, and restored the original 2011 version."
     },
     {
-      "title": "Playgama launches a suite of tools that lets AI agents analyze, refine, and update games on their own",
-      "url": "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/",
-      "source": "GamesBeat",
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark (ACE Nemotron 3.5 Bolt SLM in SkyrimNET, RTX Remix ComfyUI v2)",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "source": "NVIDIA Blog",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A new tool launch: agent tooling that analyzes, patches and publishes web games on its own. Of the five picks, this is the one a developer can act on most directly.",
-      "published_iso": "2026-10-14T07:00:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Playgama.jpg",
-      "excerpt": "Playgama launches a suite of tools that lets AI agents analyze, refine, and update games on their own and publish on Playgama Sandbox."
+      "rationale": "Two concrete tool releases: a 4GB on-device NPC model shipping Oct. 23 in SkyrimNET, and RTX Remix 1.6 with ComfyUI v2 texture generation. Of these picks, it is the one modders can act on most directly.",
+      "published_iso": "2026-10-13T12:00:49+00:00",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg",
+      "excerpt": "NVIDIA's third-gen ACE game-character SLM, Nemotron 3.5 Bolt E4B 4GB, arrives Oct. 23 inside SkyrimNET's unscripted AI NPC mod, and RTX Remix 1.6 overhauls AI texture generation with ComfyUI v2."
     },
     {
-      "title": "The Legend of Zelda: Link's Awakening's Nintendo Switch remake now has a PC port if you can stomach an \"almost exclusive use of AI\"",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/",
-      "source": "GamesRadar+",
+      "title": "Battlefield 6 Gets Slammed For More Slop Slipping Through: 'Charging Players $$$ For AI-Generated Content Is Peak Disrespect'",
+      "url": "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452",
+      "source": "Kotaku",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "A new AI-built port, and the first one of a Switch-era game rather than a retro recompilation. That raises the bar on what AI-assisted porting can now reach.",
-      "published_iso": "2026-10-14T11:02:20Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/zKaVYn62cAmA7wbgV4Krjc-1920-80.jpg",
-      "excerpt": "Something like this is way beyond my skill set"
+      "rationale": "Players found AI artifacts in paid cosmetics for a major AAA game. It shows that monetized assets get the strictest scrutiny for AI generation.",
+      "published_iso": "2026-10-15T21:40:48+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg",
+      "excerpt": "Paid Battlefield 6 operator cosmetics with five-fingered-gun artifacts and misspelled patches have players accusing EA of selling AI-generated content."
     },
     {
-      "title": "The Blood of Dawnwalker lead actor reminds us why AI will always struggle to replicate human performances: \"They need to have their own ideas\"",
-      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover",
-      "source": "Eurogamer.net",
+      "title": "After 8 years, Ultima creator says his MMO Shroud of the Avatar finally has 'zero bugs' thanks to AI",
+      "url": "https://www.gamesradar.com/games/rpg/after-8-years-ultima-creator-says-his-mmo-shroud-of-the-avatar-finally-has-zero-bugs-thanks-to-ai/",
+      "source": "GamesRadar+",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "A lead performer on a current AAA RPG speaks about AI voiceover, a perspective this section has not run yet. It is the weakest pick, chosen because no other fresh candidates were left after dedup.",
-      "published_iso": "2026-10-12T09:41:30.012979+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/unnamed-(1)_roiopFw.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "As the use of AI ever increases, the lead actor from The Blood of Dawnwalker reminds us what the technology doesn't replicate."
+      "rationale": "A veteran developer reports that AI cleared a live MMO's bug backlog and cut the team and time it needs. It is a concrete production claim, not a general opinion.",
+      "published_iso": "2026-10-13T23:30:39Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB-1280-80.jpg",
+      "excerpt": "Richard Garriott says AI bug-fixing cleared Shroud of the Avatar's backlog and that 'we need fewer people and less time to make it' because of AI."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux": {
+      "https://www.gamesradar.com/games/the-community-aspect-of-decompilation-has-been-broken-by-a-wave-of-low-effort-ai-slop-and-now-a-major-community-tool-is-shutting-down/": {
         "verdict": "new",
-        "nearest": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+        "nearest": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
         "new_action": ""
       },
-      "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877": {
+      "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339": {
+        "verdict": "follow-up",
+        "nearest": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
+        "new_action": "Sega/Creative Assembly pulled the AI-upscaled Shogun 2 Complete Edition from sale and restored the original 2011 version (publisher decision after the 10-15 backlash card)."
+      },
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/": {
         "verdict": "new",
-        "nearest": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
+        "nearest": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities/",
         "new_action": ""
       },
-      "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/": {
+      "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark",
         "new_action": ""
       },
-      "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/": {
+      "https://www.gamesradar.com/games/rpg/after-8-years-ultima-creator-says-his-mmo-shroud-of-the-avatar-finally-has-zero-bugs-thanks-to-ai/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
-        "new_action": ""
-      },
-      "https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover": {
-        "verdict": "new",
-        "nearest": "",
+        "nearest": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats of published stories: Xbox Labs x3 (Eurogamer, GameSpot, Ruliweb), the same announcement as the 10-14 Verge Xbox Labs card. Jagex RuneScape trailer (RPS), likely-repeat of 10-06 GI.biz. WotC union (GI.biz), likely-repeat of 10-07 GamesRadar. Capcom RE Engine AI (GI.biz 10-05), same strategy story as the 10-05 Verge Capcom card. Dropped as same-story duplicates within the pool: cluster c0 Epic launcher, kept The Verge over Eurogamer and Kotaku. Cluster c4 plus Aftermath on Shogun 2 Complete Edition, kept Kotaku over Polygon and Aftermath. The Epic launcher is a new product release, distinct from the 10-13 Epic 'AI first' memo story. The Shogun 2 remaster is a new release and is not the 10-05 Warhammer 3 mod protest. The Link's Awakening port is a new port, distinct from the 10-14 Bloodborne port and earlier recomp stories. Pool after dedup was exactly 5, with 5 distinct outlets."
+    "note": "Cross-section: The Verge Bluesky Attie story goes to DESIGN, so it was excluded here. Dropped as repeats of published stories: Unreal MCP first look (UE YouTube, 10-08), a likely-repeat of the 09-19 'Getting Started with MCP in Unreal Engine 5.8' card, same feature with no new release. Aftermath Shogun 2 (10-14) covers the backlash already published on 10-15 and falls in cluster c2, so it was dropped. Kotaku's 'pulled from sale' was kept as a follow-up because the delisting and restored original are a new publisher decision. Dropped as same-story duplicates within the pool: cluster c0 Decomp.dev, kept GamesRadar+ over IGN (IGN's og_image is an unrelated 2021 Halo stock photo). Left on the bench after scoring: WoW Forever Blizzard denial (GamesRadar+, weaker; it would also have made a third GamesRadar+ card) and the Kotaku vibe-coding interview (commentary, and it would have made a third Kotaku card). NVIDIA ACE Nemotron 3.5 Bolt and RTX Remix 1.6 are new releases, distinct from the 09-24 DLSS 5/ACE developer update. Outlets: GamesRadar+ x2, Kotaku x2, NVIDIA x1."
   }
 }

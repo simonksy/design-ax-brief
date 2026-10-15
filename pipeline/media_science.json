@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "science",
   "media": [
     {
-      "id": "science-deepreview",
+      "id": "science-cern-mistral",
       "type": "image",
-      "src": "pipeline/media/science-deepreview.png"
+      "src": "pipeline/media/science-cern-mistral.png"
     },
     {
-      "id": "science-hiro-acev2",
+      "id": "science-scrap-iron",
       "type": "image",
-      "src": "pipeline/media/science-hiro-acev2.png"
+      "src": "pipeline/media/science-scrap-iron.jpg"
     },
     {
-      "id": "science-tess-superearth",
+      "id": "science-ai-hidden-agendas",
       "type": "image",
-      "src": "pipeline/media/science-tess-superearth.jpg"
+      "src": "pipeline/media/science-ai-hidden-agendas.jpg"
     },
     {
-      "id": "science-firstproof",
+      "id": "science-cell-language",
       "type": "image",
-      "src": "pipeline/media/science-firstproof.jpg"
+      "src": "pipeline/media/science-cell-language.jpg"
     },
     {
-      "id": "science-subseasonal",
+      "id": "science-tipping-points",
       "type": "image",
-      "src": "pipeline/media/science-subseasonal.jpg"
+      "src": "pipeline/media/science-tipping-points.jpg"
     }
   ]
 }

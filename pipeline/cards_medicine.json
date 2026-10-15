@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-mhra-2030",
+      "id": "medicine-fake-cxr",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "MHRA, AI·맞춤의약\n2030 계획 발표",
-      "body": "MHRA 2030 전략은 과학기술 혁신을 UK 환자의 건강 성과 개선으로 잇는다.",
-      "mini_headline": "MHRA의 2030 AI 계획",
       "tool": "Medicine",
-      "source": "GOV.UK (MHRA)",
-      "url": "https://www.gov.uk/government/news/mhra-2030-strategy-to-modernise-patient-centred-regulation-for-the-era-of-ai-and-personalised-medicines",
+      "eyebrow": "AI NEWS",
+      "headline": "Radiologists and LLMs miss\nAI-made chest x-rays",
+      "body": "Neither radiologists nor LLMs reliably spotted 120 synthetic chest x-rays among 40 real ones in a Seoul study.",
+      "mini_headline": "AI-made x-rays fool readers",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15837620/radiologists-llms-fail-at-spotting-aigenerated-chest-xrays",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,351 +19,67 @@
         "blocks": [
           {
             "t": "p",
-            "x": "의약품·의료제품규제청(Medicines and Healthcare products Regulatory Agency, MHRA)이 2030 전략(2030 Strategy)을 내놓았다. 최첨단 과학기술 혁신을 UK 네 개 지역 모든 환자의 더 나은 건강 성과로 옮기겠다는 계획이다."
-          },
-          {
-            "t": "img",
-            "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
+            "x": "Researchers at Seoul National University Hospital tested whether humans and large language models can tell real chest x-rays from AI-generated ones, in a study published Oct. 13 in the Journal of Imaging Informatics in Medicine."
           },
           {
             "t": "p",
-            "x": "MHRA는 2030년까지 더 환자 중심의 기관이 되고, 환자가 안전하고 효과적인 치료를 더 빨리 받도록 돕고, 데이터 연결성과 국제적 영향력도 키우려 한다. James Frith 보건혁신 담당 장관은 이 전략 덕분에 MHRA가 AI, 데이터, 의학 분야의 최신 혁신을 따라잡을 수 있다고 말했다."
+            "x": "The set held 160 chest x-rays: 40 real and 120 synthetic images from three AI pipelines. Two radiologists, two general practitioners and three LLMs (Gemini 3.5 Flash, GPT-4o, Claude 3.7 Sonnet) judged each one."
           },
           {
             "t": "p",
-            "x": "Lawrence Tallon 최고경영자는 AI가 규제 대상 제품도, 조직이 일하는 방식도 바꾸고 있어 기존 규제 모델이 도전을 받는다고 말했다."
+            "x": "Gemini 3.5 Flash (77.9% balanced accuracy) and the thoracic radiologist (75.8%) did best, with no significant difference; the general practitioners performed near chance. Radiologists caught diffusion-model images more often (82%–100%) than LLMs (32%–72%), while LLMs were more specific on real images. Overall agreement was poor (Fleiss' kappa 0.213)."
           },
           {
             "t": "p",
-            "x": "AI 분야에서 MHRA는 AI-enabled 임상시험 프로토콜 검사기(Clinical Trial Protocol Checker)를 개발하고, 2027년에 AI 의약품 개발 실행계획(AI Medicines Development Action Plan)을 발표하고, MHRA AI·디지털헬스 센터(MHRA Centre for AI and Digital Health)를 세우고, 의료기기로 쓰이는 AI에 맞는 현대적이고 유연한 규제 체계를 마련하겠다고 약속했다. AI로 실사용 데이터를 분석해 잠재적 안전 문제를 더 일찍 찾아낼 계획도 세웠다."
-          },
-          {
-            "t": "p",
-            "x": "과학 자문 서비스 기간은 90일에서 45일로, 요건을 갖춘 Phase 1 임상시험의 초기 평가 목표 기간은 절반인 14일로 줄인다. 여성 건강 계획(Women's Health Plan)도 마련하겠다고 했다."
+            "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MHRA sets 2030 plan for AI\nand personalised medicines",
-          "body": "The MHRA's 2030 Strategy aims to turn scientific and technological innovation into better outcomes for UK patients.",
-          "mini_headline": "MHRA's 2030 AI plan",
+          "headline": "Radiologists and LLMs miss\nAI-made chest x-rays",
+          "body": "Neither radiologists nor LLMs reliably spotted 120 synthetic chest x-rays among 40 real ones in a Seoul study.",
+          "mini_headline": "AI-made x-rays fool readers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "The Medicines and Healthcare products Regulatory Agency (MHRA) has set out plans to translate cutting-edge scientific and technological innovation into better health outcomes for patients across all four nations of the UK, in its 2030 Strategy."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
+                "x": "Researchers at Seoul National University Hospital tested whether humans and large language models can tell real chest x-rays from AI-generated ones, in a study published Oct. 13 in the Journal of Imaging Informatics in Medicine."
               },
               {
                 "t": "p",
-                "x": "By 2030 the MHRA aims to be more patient-centred, support faster access to safe, effective treatments, and have more data-connectivity and global influence. Health innovation minister James Frith said the strategy will help the MHRA keep pace with the latest innovations in AI, data and medicine."
+                "x": "The set held 160 chest x-rays: 40 real and 120 synthetic images from three AI pipelines. Two radiologists, two general practitioners and three LLMs (Gemini 3.5 Flash, GPT-4o, Claude 3.7 Sonnet) judged each one."
               },
               {
                 "t": "p",
-                "x": "Chief executive Lawrence Tallon said AI is transforming both regulated products and how organisations are run, and that such developments challenge traditional regulatory models."
+                "x": "Gemini 3.5 Flash (77.9% balanced accuracy) and the thoracic radiologist (75.8%) did best, with no significant difference; the general practitioners performed near chance. Radiologists caught diffusion-model images more often (82%–100%) than LLMs (32%–72%), while LLMs were more specific on real images. Overall agreement was poor (Fleiss' kappa 0.213)."
               },
               {
                 "t": "p",
-                "x": "On AI, the MHRA commits to develop an AI-enabled Clinical Trial Protocol Checker, publish an AI Medicines Development Action Plan in 2027, establish an MHRA Centre for AI and Digital Health, and create a modern, adaptive regulatory framework for AI as a medical device. It will also use AI to analyse real-world data and identify potential safety issues earlier."
-              },
-              {
-                "t": "p",
-                "x": "Other pledges include cutting the scientific advice service from 90 to 45 days, halving the initial assessment target for qualifying Phase 1 trials to 14 days, and a Women's Health Plan."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "MHRA, AI·맞춤의약\n2030 계획 발표",
-          "body": "MHRA 2030 전략은 과학기술 혁신을 UK 환자의 건강 성과 개선으로 잇는다.",
-          "mini_headline": "MHRA의 2030 AI 계획",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "의약품·의료제품규제청(Medicines and Healthcare products Regulatory Agency, MHRA)이 2030 전략(2030 Strategy)을 내놓았다. 최첨단 과학기술 혁신을 UK 네 개 지역 모든 환자의 더 나은 건강 성과로 옮기겠다는 계획이다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
-              },
-              {
-                "t": "p",
-                "x": "MHRA는 2030년까지 더 환자 중심의 기관이 되고, 환자가 안전하고 효과적인 치료를 더 빨리 받도록 돕고, 데이터 연결성과 국제적 영향력도 키우려 한다. James Frith 보건혁신 담당 장관은 이 전략 덕분에 MHRA가 AI, 데이터, 의학 분야의 최신 혁신을 따라잡을 수 있다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Lawrence Tallon 최고경영자는 AI가 규제 대상 제품도, 조직이 일하는 방식도 바꾸고 있어 기존 규제 모델이 도전을 받는다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 분야에서 MHRA는 AI-enabled 임상시험 프로토콜 검사기(Clinical Trial Protocol Checker)를 개발하고, 2027년에 AI 의약품 개발 실행계획(AI Medicines Development Action Plan)을 발표하고, MHRA AI·디지털헬스 센터(MHRA Centre for AI and Digital Health)를 세우고, 의료기기로 쓰이는 AI에 맞는 현대적이고 유연한 규제 체계를 마련하겠다고 약속했다. AI로 실사용 데이터를 분석해 잠재적 안전 문제를 더 일찍 찾아낼 계획도 세웠다."
-              },
-              {
-                "t": "p",
-                "x": "과학 자문 서비스 기간은 90일에서 45일로, 요건을 갖춘 Phase 1 임상시험의 초기 평가 목표 기간은 절반인 14일로 줄인다. 여성 건강 계획(Women's Health Plan)도 마련하겠다고 했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MHRA、AIと個別化医療の\n2030年計画を策定",
-          "body": "MHRAの2030戦略は、科学技術の革新をUKの患者のより良い成果につなげることを目指す。",
-          "mini_headline": "MHRAの2030年AI計画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "医薬品・医療製品規制庁(Medicines and Healthcare products Regulatory Agency、MHRA)は2030戦略(2030 Strategy)で、最先端の科学技術革新を、UKを構成する四つの地域すべての患者のより良い健康成果につなげる計画を示した。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
-              },
-              {
-                "t": "p",
-                "x": "MHRAは2030年までに、より患者中心となり、安全で効果的な治療への迅速なアクセスを支え、データ連携と国際的な影響力を高めることを目指す。James Frith保健イノベーション担当相は、この戦略によりMHRAがAI、データ、医学の最新の革新に歩調を合わせられると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Lawrence Tallon最高経営責任者は、AIが規制対象の製品と組織運営の両方を変えつつあり、こうした動きは従来の規制モデルに課題を突きつけていると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "AIについてMHRAは、AI-enabledの臨床試験プロトコルチェッカー(Clinical Trial Protocol Checker)の開発、2027年のAI医薬品開発行動計画(AI Medicines Development Action Plan)の公表、MHRA AI・デジタルヘルスセンター(MHRA Centre for AI and Digital Health)の設立、医療機器としてのAIのための現代的で適応的な規制枠組みの構築を約束した。また、AIでリアルワールドデータを分析し、潜在的な安全性の問題をより早く把握する。"
-              },
-              {
-                "t": "p",
-                "x": "このほか、科学的助言サービスの期間を90日から45日に短縮し、対象となるPhase 1試験の初期評価目標を半分の14日とし、女性の健康計画(Women's Health Plan)を策定することも盛り込んだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MHRA公布2030规划\n聚焦AI与个性化药物",
-          "body": "MHRA的2030战略旨在把科学与技术创新转化为UK患者更好的治疗结果。",
-          "mini_headline": "MHRA的2030 AI规划",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "药品和保健品监管局(Medicines and Healthcare products Regulatory Agency,MHRA)在其2030战略(2030 Strategy)中提出计划,将前沿科学与技术创新转化为UK四个地区所有患者更好的健康结果。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
-              },
-              {
-                "t": "p",
-                "x": "到2030年,MHRA的目标是更加以患者为中心,支持更快获得安全、有效的治疗,并提升数据互联水平和全球影响力。卫生创新大臣James Frith表示,该战略将帮助MHRA跟上AI、数据和医学领域的最新创新。"
-              },
-              {
-                "t": "p",
-                "x": "首席执行官Lawrence Tallon表示,AI正在改变受监管的产品以及组织的运作方式,这些发展对传统监管模式构成挑战。"
-              },
-              {
-                "t": "p",
-                "x": "在AI方面,MHRA承诺开发AI-enabled临床试验方案检查工具(Clinical Trial Protocol Checker),于2027年发布AI药物研发行动计划(AI Medicines Development Action Plan),设立MHRA AI与数字健康中心(MHRA Centre for AI and Digital Health),并为作为医疗器械的AI建立现代、适应性的监管框架。它还将利用AI分析真实世界数据,更早识别潜在安全问题。"
-              },
-              {
-                "t": "p",
-                "x": "其他承诺包括将科学咨询服务时间从90天缩短至45天,将符合条件的Phase 1试验初始评估目标时间减半至14天,以及制定女性健康计划(Women's Health Plan)。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La MHRA fija su plan 2030 para\nla AI y medicinas personalizadas",
-          "body": "La Estrategia 2030 de la MHRA busca que la innovación científica y tecnológica beneficie a pacientes del UK.",
-          "mini_headline": "El plan de AI 2030 de la MHRA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La Medicines and Healthcare products Regulatory Agency (MHRA) ha presentado en su Estrategia 2030 (2030 Strategy) planes para convertir la innovación científica y tecnológica de vanguardia en mejores resultados de salud para los pacientes de las cuatro naciones del UK."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
-              },
-              {
-                "t": "p",
-                "x": "Para 2030, la MHRA aspira a estar más centrada en el paciente, facilitar un acceso más rápido a tratamientos seguros y eficaces, y tener más conectividad de datos e influencia global. El ministro de innovación sanitaria, James Frith, afirmó que la estrategia ayudará a la MHRA a seguir el ritmo de las últimas innovaciones en AI, datos y medicina."
-              },
-              {
-                "t": "p",
-                "x": "El director ejecutivo, Lawrence Tallon, afirmó que la AI está transformando tanto los productos regulados como la forma en que se gestionan las organizaciones, y que estos avances ponen a prueba los modelos regulatorios tradicionales."
-              },
-              {
-                "t": "p",
-                "x": "En materia de AI, la MHRA se compromete a desarrollar un AI-enabled Clinical Trial Protocol Checker (verificador de protocolos de ensayos clínicos), publicar un AI Medicines Development Action Plan en 2027, crear un MHRA Centre for AI and Digital Health y establecer un marco regulatorio moderno y adaptable para la AI como producto sanitario. También usará la AI para analizar datos del mundo real e identificar antes posibles problemas de seguridad."
-              },
-              {
-                "t": "p",
-                "x": "Otros compromisos incluyen reducir el servicio de asesoramiento científico de 90 a 45 días, recortar a la mitad, hasta 14 días, el objetivo de evaluación inicial de los ensayos de Phase 1 que cumplan los requisitos, y un Women's Health Plan."
+                "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
               }
             ]
           }
         }
       },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "MHRA, AI·맞춤의약\n2030 계획 발표",
-          "body": "MHRA 2030 전략은 과학기술 혁신을 UK 환자의 성과 개선으로 잇고자 한다.",
-          "mini_headline": "MHRA의 2030 AI 계획",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "의약품·의료제품규제청(Medicines and Healthcare products Regulatory Agency, MHRA)이 2030 전략(2030 Strategy)을 통해 최첨단 과학기술 혁신을 UK 네 개 지역 전체 환자의 더 나은 건강 성과로 옮기는 계획을 내놓았다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
-              },
-              {
-                "t": "p",
-                "x": "MHRA는 2030년까지 더 환자 중심적인 기관이 되고, 안전하고 효과적인 치료에 더 빨리 접근하도록 지원하며, 데이터 연결성과 국제적 영향력을 높이는 것을 목표로 한다. James Frith 보건혁신 담당 장관은 이 전략이 MHRA가 AI, 데이터, 의학 분야의 최신 혁신에 발맞추는 데 도움이 될 것이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Lawrence Tallon 최고경영자는 AI가 규제 대상 제품과 조직 운영 방식을 모두 바꾸고 있으며, 이런 변화가 기존 규제 모델에 도전이 된다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AI와 관련해 MHRA는 AI-enabled 임상시험 프로토콜 검사기(Clinical Trial Protocol Checker)를 개발하고, 2027년에 AI 의약품 개발 실행계획(AI Medicines Development Action Plan)을 발표하며, MHRA AI·디지털헬스 센터(MHRA Centre for AI and Digital Health)를 세우고, 의료기기로서의 AI를 위한 현대적이고 적응적인 규제 체계를 마련하겠다고 약속했다. 또한 AI로 실사용 데이터를 분석해 잠재적 안전 문제를 더 일찍 찾아낼 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "이 밖에 과학 자문 서비스 기간을 90일에서 45일로 줄이고, 요건을 갖춘 Phase 1 임상시험의 초기 평가 목표 기간을 절반인 14일로 줄이며, 여성 건강 계획(Women's Health Plan)을 마련하겠다는 약속도 담겼다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MHRA、AIと個別化医療の\n2030年計画を策定",
-          "body": "MHRAの2030戦略は、科学技術の革新をUKの患者のより良い成果につなげることを目指す。",
-          "mini_headline": "MHRAの2030年AI計画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "医薬品・医療製品規制庁(Medicines and Healthcare products Regulatory Agency、MHRA)は2030戦略(2030 Strategy)で、最先端の科学技術革新を、UKを構成する四つの地域すべての患者のより良い健康成果につなげる計画を示した。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
-              },
-              {
-                "t": "p",
-                "x": "MHRAは2030年までに、より患者中心となり、安全で効果的な治療への迅速なアクセスを支え、データ連携と国際的な影響力を高めることを目指す。James Frith保健イノベーション担当相は、この戦略によりMHRAがAI、データ、医学の最新の革新に歩調を合わせられると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Lawrence Tallon最高経営責任者は、AIが規制対象の製品と組織運営の両方を変えつつあり、こうした動きは従来の規制モデルに課題を突きつけていると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "AIについてMHRAは、AI-enabledの臨床試験プロトコルチェッカー(Clinical Trial Protocol Checker)の開発、2027年のAI医薬品開発行動計画(AI Medicines Development Action Plan)の公表、MHRA AI・デジタルヘルスセンター(MHRA Centre for AI and Digital Health)の設立、医療機器としてのAIのための現代的で適応的な規制枠組みの構築を約束した。また、AIでリアルワールドデータを分析し、潜在的な安全性の問題をより早く把握する。"
-              },
-              {
-                "t": "p",
-                "x": "このほか、科学的助言サービスの期間を90日から45日に短縮し、対象となるPhase 1試験の初期評価目標を半分の14日とし、女性の健康計画(Women's Health Plan)を策定することも盛り込んだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MHRA公布2030规划\n聚焦AI与个性化药物",
-          "body": "MHRA的2030战略旨在把科学与技术创新转化为UK患者更好的治疗结果。",
-          "mini_headline": "MHRA的2030 AI规划",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "药品和保健品监管局(Medicines and Healthcare products Regulatory Agency,MHRA)在其2030战略(2030 Strategy)中提出计划,将前沿科学与技术创新转化为UK四个地区所有患者更好的健康结果。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
-              },
-              {
-                "t": "p",
-                "x": "到2030年,MHRA的目标是更加以患者为中心,支持更快获得安全、有效的治疗,并提升数据互联水平和全球影响力。卫生创新大臣James Frith表示,该战略将帮助MHRA跟上AI、数据和医学领域的最新创新。"
-              },
-              {
-                "t": "p",
-                "x": "首席执行官Lawrence Tallon表示,AI正在改变受监管的产品以及组织的运作方式,这些发展对传统监管模式构成挑战。"
-              },
-              {
-                "t": "p",
-                "x": "在AI方面,MHRA承诺开发AI-enabled临床试验方案检查工具(Clinical Trial Protocol Checker),于2027年发布AI药物研发行动计划(AI Medicines Development Action Plan),设立MHRA AI与数字健康中心(MHRA Centre for AI and Digital Health),并为作为医疗器械的AI建立现代、适应性的监管框架。它还将利用AI分析真实世界数据,更早识别潜在安全问题。"
-              },
-              {
-                "t": "p",
-                "x": "其他承诺包括将科学咨询服务时间从90天缩短至45天,将符合条件的Phase 1试验初始评估目标时间减半至14天,以及制定女性健康计划(Women's Health Plan)。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La MHRA fija su plan 2030 para\nla AI y medicinas personalizadas",
-          "body": "La Estrategia 2030 de la MHRA busca que la innovación científica y tecnológica beneficie a pacientes del UK.",
-          "mini_headline": "El plan de AI 2030 de la MHRA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La Medicines and Healthcare products Regulatory Agency (MHRA) ha presentado en su Estrategia 2030 (2030 Strategy) planes para convertir la innovación científica y tecnológica de vanguardia en mejores resultados de salud para los pacientes de las cuatro naciones del UK."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
-              },
-              {
-                "t": "p",
-                "x": "Para 2030, la MHRA aspira a estar más centrada en el paciente, facilitar un acceso más rápido a tratamientos seguros y eficaces, y tener más conectividad de datos e influencia global. El ministro de innovación sanitaria, James Frith, afirmó que la estrategia ayudará a la MHRA a seguir el ritmo de las últimas innovaciones en AI, datos y medicina."
-              },
-              {
-                "t": "p",
-                "x": "El director ejecutivo, Lawrence Tallon, afirmó que la AI está transformando tanto los productos regulados como la forma en que se gestionan las organizaciones, y que estos avances ponen a prueba los modelos regulatorios tradicionales."
-              },
-              {
-                "t": "p",
-                "x": "En materia de AI, la MHRA se compromete a desarrollar un AI-enabled Clinical Trial Protocol Checker (verificador de protocolos de ensayos clínicos), publicar un AI Medicines Development Action Plan en 2027, crear un MHRA Centre for AI and Digital Health y establecer un marco regulatorio moderno y adaptable para la AI como producto sanitario. También usará la AI para analizar datos del mundo real e identificar antes posibles problemas de seguridad."
-              },
-              {
-                "t": "p",
-                "x": "Otros compromisos incluyen reducir el servicio de asesoramiento científico de 90 a 45 días, recortar a la mitad, hasta 14 días, el objetivo de evaluación inicial de los ensayos de Phase 1 que cumplan los requisitos, y un Women's Health Plan."
-              }
-            ]
-          }
-        }
+      "i18n_status": {
+        "ko": "fallback",
+        "ja": "fallback",
+        "zh": "fallback",
+        "es": "fallback"
       }
     },
     {
-      "id": "medicine-brown-fat-ai",
+      "id": "medicine-openevidence",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 임상 스캔에서\n갈색지방을 잰다",
-      "body": "AI로 잰 갈색지방은 건강한 대사·적은 정신질환과 맞닿고 재창출 약물도 짚는다.",
-      "mini_headline": "AI가 읽는 갈색지방",
       "tool": "Medicine",
-      "source": "Nature",
-      "url": "https://www.nature.com/articles/s41586-026-11162-7",
+      "eyebrow": "AI NEWS",
+      "headline": "OpenEvidence\n2.5년간 질의 271M",
+      "body": "JAMA 연구가 임상의 약 952,000명이 던진 질의 271M 건을 들여다봤다.",
+      "mini_headline": "OpenEvidence 질의 271M",
+      "source": "Becker's Hospital Review",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openevidence-drew-271m-queries-from-952000-clinicians-in-2-5-years/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -371,197 +87,149 @@
         "blocks": [
           {
             "t": "p",
-            "x": "인공지능(Artificial intelligence)으로 갈색지방조직(BAT) 활성을 정량화해 분석해 보니, BAT는 더 건강한 대사 특성, 낮은 정신질환 발생률과 연관돼 있었다."
+            "x": "Oct. 15 JAMA에 실린 단면 연구는 Jan. 1, 2024부터 June 30, 2026까지 NPI-verified(NPI 인증) OpenEvidence 계정이 있는 임상의를 대상으로 했다."
           },
           {
             "t": "p",
-            "x": "연구팀은 Memorial Sloan Kettering Cancer Center에서 임상 목적으로 찍은 18F-FDG-PET–CT 스캔 코호트를 101,243명으로 늘리고(이 중 8,897명이 BAT 양성), 모든 진단 코드를 대상으로 연관성을 살폈다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+            "x": "2.5년 동안 임상의 952,008명이 질의 271M 건을 입력했고, 이 가운데 의사는 556,200명이었다. 월간 활성 사용자는 355명에서 703,265명으로 불었다. 활성 사용자 1인당 월평균 질의도 18.0건에서 39.5건이 됐다."
           },
           {
             "t": "p",
-            "x": "8,709명의 전체·부위별 BAT 대사 활성은 머신러닝 기법(TriDFusion)으로 반자동 측정했다. BAT 활성이 높을수록 2형 당뇨병, 심방세동, 관상동맥질환, 울혈성 심부전이 단계적으로 줄었다. 나이, BMI, 성별, 외기 온도를 통제해도 마찬가지였다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+            "x": "전문간호사와 의사보조인력은 활성 사용자-월당 각 44.5건으로 의사(37.1건)보다 많이 썼다. 진료과별 사용량은 종양·혈액내과, 내과, 가정의학과가 가장 많았고 안과, 영상의학과, 정형외과가 가장 적었다."
           },
           {
             "t": "p",
-            "x": "BAT가 있는 사람은 불안과 우울증 유병률도 낮았다. 약물 분석에서는 안지오텐신 수용체 차단제 사용이 BAT 존재와 연관됐고, 개념 증명 실험에서는 로사르탄(losartan)이 PPARγ-dependent(PPARγ 의존적) 기전으로 갈색지방세포를 활성화했다. 이 접근법으로 BAT 활성화에 재창출할 약물을 찾을 수 있다는 근거다."
+            "x": "질의의 절반 남짓(51.9%)은 임상 의사결정을 물었다. 주로 치료·관리(33.1%)였고 진단은 13.9%였다. 자기 전공 밖을 묻는 비율은 종양내과 의사 35%부터 응급의학과 의사 88%까지 걸쳐 있었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI measures brown fat\nacross clinical scans",
-          "body": "AI scoring of brown fat links it to healthier metabolism and less psychiatric disease, and points to drugs to repurpose.",
-          "mini_headline": "AI reads brown fat",
+          "headline": "OpenEvidence drew 271M\nqueries in 2.5 years",
+          "body": "A JAMA study mapped 271M queries from about 952,000 clinicians using OpenEvidence by specialty and purpose.",
+          "mini_headline": "OpenEvidence: 271M queries",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Artificial intelligence-enabled quantification and analyses of brown adipose tissue (BAT) activity uncover links between BAT and a healthier metabolic profile along with lower rates of psychiatric disease."
+                "x": "A cross-sectional study published Oct. 15 in JAMA analyzed clinicians with NPI-verified OpenEvidence accounts from Jan. 1, 2024, through June 30, 2026."
               },
               {
                 "t": "p",
-                "x": "The team expanded its cohort of 18F-FDG-PET–CT scans taken for clinical purposes at Memorial Sloan Kettering Cancer Center to 101,243 patients, 8,897 of them BAT positive, and analysed associations across all diagnostic codes."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+                "x": "Over the 2.5-year period, 952,008 clinicians, including 556,200 physicians, submitted 271 million queries. Monthly active users grew from 355 to 703,265, and average monthly queries per active user rose from 18.0 to 39.5."
               },
               {
                 "t": "p",
-                "x": "A machine learning approach (TriDFusion) semi-automatically measured total and depot-specific BAT metabolic activity in 8,709 patients. Higher BAT activity was associated with a stepwise reduction in type 2 diabetes, atrial fibrillation, coronary artery disease and congestive heart failure, even after controlling for age, BMI, sex and outside temperature."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+                "x": "Nurse practitioners and physician assistants (44.5 queries per active user-month each) outpaced physicians (37.1). Use was highest in oncology and hematology, internal medicine and family medicine, and lowest in ophthalmology, radiology and orthopedics."
               },
               {
                 "t": "p",
-                "x": "BAT presence was also associated with a lower prevalence of anxiety and depression. Medication analyses linked angiotensin receptor blocker use to BAT presence, and proof-of-concept experiments confirmed that losartan activates brown adipocytes through a PPARγ-dependent mechanism — showing the approach can identify drugs that could be repurposed to activate BAT."
+                "x": "Most queries (51.9%) addressed clinical decision-making, chiefly treatment and management (33.1%); diagnosis accounted for 13.9%. Queries outside a physician's own specialty ranged from 35% among oncologists to 88% among emergency physicians."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 임상 스캔에서\n갈색지방을 잰다",
-          "body": "AI로 잰 갈색지방은 건강한 대사·적은 정신질환과 맞닿고 재창출 약물도 짚는다.",
-          "mini_headline": "AI가 읽는 갈색지방",
+          "headline": "OpenEvidence\n2.5년간 질의 271M",
+          "body": "JAMA 연구가 임상의 약 952,000명이 던진 질의 271M 건을 들여다봤다.",
+          "mini_headline": "OpenEvidence 질의 271M",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "인공지능(Artificial intelligence)으로 갈색지방조직(BAT) 활성을 정량화해 분석해 보니, BAT는 더 건강한 대사 특성, 낮은 정신질환 발생률과 연관돼 있었다."
+                "x": "Oct. 15 JAMA에 실린 단면 연구는 Jan. 1, 2024부터 June 30, 2026까지 NPI-verified(NPI 인증) OpenEvidence 계정이 있는 임상의를 대상으로 했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 Memorial Sloan Kettering Cancer Center에서 임상 목적으로 찍은 18F-FDG-PET–CT 스캔 코호트를 101,243명으로 늘리고(이 중 8,897명이 BAT 양성), 모든 진단 코드를 대상으로 연관성을 살폈다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+                "x": "2.5년 동안 임상의 952,008명이 질의 271M 건을 입력했고, 이 가운데 의사는 556,200명이었다. 월간 활성 사용자는 355명에서 703,265명으로 불었다. 활성 사용자 1인당 월평균 질의도 18.0건에서 39.5건이 됐다."
               },
               {
                 "t": "p",
-                "x": "8,709명의 전체·부위별 BAT 대사 활성은 머신러닝 기법(TriDFusion)으로 반자동 측정했다. BAT 활성이 높을수록 2형 당뇨병, 심방세동, 관상동맥질환, 울혈성 심부전이 단계적으로 줄었다. 나이, BMI, 성별, 외기 온도를 통제해도 마찬가지였다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+                "x": "전문간호사와 의사보조인력은 활성 사용자-월당 각 44.5건으로 의사(37.1건)보다 많이 썼다. 진료과별 사용량은 종양·혈액내과, 내과, 가정의학과가 가장 많았고 안과, 영상의학과, 정형외과가 가장 적었다."
               },
               {
                 "t": "p",
-                "x": "BAT가 있는 사람은 불안과 우울증 유병률도 낮았다. 약물 분석에서는 안지오텐신 수용체 차단제 사용이 BAT 존재와 연관됐고, 개념 증명 실험에서는 로사르탄(losartan)이 PPARγ-dependent(PPARγ 의존적) 기전으로 갈색지방세포를 활성화했다. 이 접근법으로 BAT 활성화에 재창출할 약물을 찾을 수 있다는 근거다."
+                "x": "질의의 절반 남짓(51.9%)은 임상 의사결정을 물었다. 주로 치료·관리(33.1%)였고 진단은 13.9%였다. 자기 전공 밖을 묻는 비율은 종양내과 의사 35%부터 응급의학과 의사 88%까지 걸쳐 있었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが臨床スキャンで\n褐色脂肪を測定",
-          "body": "AIによる褐色脂肪の評価は、健康な代謝や精神疾患の少なさとの関連と転用候補薬を示す。",
-          "mini_headline": "AIが褐色脂肪を読む",
+          "headline": "OpenEvidence\n2.5年で質問 271M",
+          "body": "JAMAの研究が、臨床医約952,000人の質問 271M 件を専門・目的別に分析した。",
+          "mini_headline": "OpenEvidence、質問 271M 件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人工知能(Artificial intelligence)を用いた褐色脂肪組織(BAT)活性の定量と解析により、BATがより健康な代謝プロファイルおよび精神疾患の低い発生率と関連することが明らかになった。"
+                "x": "Oct. 15にJAMAに掲載された横断研究は、Jan. 1, 2024からJune 30, 2026までにNPI-verified（NPI認証済み）のOpenEvidenceアカウントを持つ臨床医を分析した。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、Memorial Sloan Kettering Cancer Centerで臨床目的に撮影された18F-FDG-PET–CTスキャンのコホートを101,243人(うち8,897人がBAT陽性)に拡大し、すべての診断コードにわたって関連を解析した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+                "x": "2.5年間で、医師556,200人を含む臨床医952,008人が 271M 件の質問を送った。月間アクティブユーザーは355人から703,265人に増え、アクティブユーザー1人あたりの月平均質問数は18.0件から39.5件に伸びた。"
               },
               {
                 "t": "p",
-                "x": "機械学習の手法(TriDFusion)により、8,709人の全体および部位別のBAT代謝活性を半自動で測定した。BAT活性が高いほど、2型糖尿病、心房細動、冠動脈疾患、うっ血性心不全が段階的に減少し、年齢、BMI、性別、外気温を調整した後もこの関連は残った。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+                "x": "ナースプラクティショナーと医師助手（いずれもアクティブユーザー月あたり44.5件）は医師（37.1件）を上回った。利用が最も多かったのは腫瘍・血液内科、内科、家庭医療で、最も少なかったのは眼科、放射線科、整形外科だった。"
               },
               {
                 "t": "p",
-                "x": "BATがあることは、不安やうつ病の有病率の低さとも関連していた。薬剤解析ではアンジオテンシン受容体拮抗薬の使用がBATの存在と結びつき、概念実証実験ではロサルタン(losartan)がPPARγ-dependent(PPARγ依存的)な機序で褐色脂肪細胞を活性化することが確認された。この手法が、BATを活性化するために転用できる薬剤を特定できることを示している。"
+                "x": "質問の大半（51.9%）は臨床上の意思決定に関するもので、中心は治療・管理（33.1%）、診断は13.9%だった。自分の専門外の質問の割合は、腫瘍内科医の35%から救急医の88%までの幅があった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在临床扫描中\n量化棕色脂肪",
-          "body": "AI评估棕色脂肪,发现其与更健康的代谢和更少精神疾病相关,并指向可重新利用的药物。",
-          "mini_headline": "AI解读棕色脂肪",
+          "headline": "OpenEvidence\n2.5年提问达 271M",
+          "body": "JAMA研究按专科和用途分析了约952,000名临床医生的 271M 次提问。",
+          "mini_headline": "OpenEvidence：271M 次提问",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "借助人工智能(Artificial intelligence)对棕色脂肪组织(BAT)活性进行量化与分析,发现BAT与更健康的代谢特征以及更低的精神疾病发生率相关。"
+                "x": "Oct. 15发表在JAMA上的一项横断面研究，分析了Jan. 1, 2024至June 30, 2026期间拥有NPI-verified（经NPI验证）OpenEvidence账户的临床医生。"
               },
               {
                 "t": "p",
-                "x": "研究团队将Memorial Sloan Kettering Cancer Center出于临床目的拍摄的18F-FDG-PET–CT扫描队列扩大到101,243名患者,其中8,897名为BAT阳性,并分析了所有诊断编码之间的关联。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+                "x": "在这2.5年里，952,008名临床医生（其中医生556,200名）共提交了 271M 次提问。月活跃用户从355人增至703,265人，每位活跃用户的月均提问数从18.0次升至39.5次。"
               },
               {
                 "t": "p",
-                "x": "一种机器学习方法(TriDFusion)半自动测量了8,709名患者的总体及各部位BAT代谢活性。BAT活性越高,2型糖尿病、心房颤动、冠状动脉疾病和充血性心力衰竭呈阶梯式减少,即使在控制年龄、BMI、性别和室外温度后依然如此。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+                "x": "执业护士和医师助理（每活跃用户月各44.5次）的使用量高于医生（37.1次）。使用最多的是肿瘤与血液科、内科和家庭医学科，最少的是眼科、放射科和骨科。"
               },
               {
                 "t": "p",
-                "x": "BAT的存在还与较低的焦虑和抑郁患病率相关。药物分析显示,血管紧张素受体阻滞剂的使用与BAT存在相关;概念验证实验证实,氯沙坦(losartan)通过PPARγ-dependent(PPARγ依赖性)机制激活棕色脂肪细胞——表明该方法可以找出可重新用于激活BAT的药物。"
+                "x": "多数提问（51.9%）涉及临床决策，主要是治疗与管理（33.1%）；诊断占13.9%。超出医生本专科的提问比例，从肿瘤科医生的35%到急诊科医生的88%不等。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI mide la grasa parda\nen escáneres clínicos",
-          "body": "La AI vincula la grasa parda con mejor metabolismo y menos enfermedad psiquiátrica, y señala fármacos a reutilizar.",
-          "mini_headline": "La AI lee la grasa parda",
+          "headline": "OpenEvidence sumó 271M\nconsultas en 2.5 años",
+          "body": "Un estudio de JAMA analizó por especialidad y fin 271M consultas de unos 952,000 clínicos que usan OpenEvidence.",
+          "mini_headline": "OpenEvidence: 271M consultas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La cuantificación y el análisis de la actividad del tejido adiposo pardo (BAT) mediante inteligencia artificial (Artificial intelligence) revelan vínculos entre el BAT y un perfil metabólico más saludable, junto con menores tasas de enfermedad psiquiátrica."
+                "x": "Un estudio transversal publicado el Oct. 15 en JAMA analizó a clínicos con cuentas de OpenEvidence NPI-verified (verificadas por NPI) entre el Jan. 1, 2024 y el June 30, 2026."
               },
               {
                 "t": "p",
-                "x": "El equipo amplió su cohorte de escáneres 18F-FDG-PET–CT realizados con fines clínicos en el Memorial Sloan Kettering Cancer Center a 101,243 pacientes, 8,897 de ellos BAT positivos, y analizó asociaciones en todos los códigos diagnósticos."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+                "x": "En el periodo de 2.5 años, 952,008 clínicos, entre ellos 556,200 médicos, enviaron 271 millones de consultas. Los usuarios activos mensuales pasaron de 355 a 703,265, y el promedio mensual de consultas por usuario activo subió de 18.0 a 39.5."
               },
               {
                 "t": "p",
-                "x": "Un método de aprendizaje automático (TriDFusion) midió de forma semiautomática la actividad metabólica total y por depósito del BAT en 8,709 pacientes. Una mayor actividad del BAT se asoció con una reducción escalonada de diabetes tipo 2, fibrilación auricular, enfermedad coronaria e insuficiencia cardíaca congestiva, incluso tras ajustar por edad, BMI, sexo y temperatura exterior."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+                "x": "Los enfermeros de práctica avanzada y los asistentes médicos (44.5 consultas por usuario activo al mes cada uno) superaron a los médicos (37.1). El uso fue mayor en oncología y hematología, medicina interna y medicina familiar, y menor en oftalmología, radiología y ortopedia."
               },
               {
                 "t": "p",
-                "x": "La presencia de BAT también se asoció con una menor prevalencia de ansiedad y depresión. Los análisis de medicamentos vincularon el uso de antagonistas del receptor de angiotensina con la presencia de BAT, y experimentos de prueba de concepto confirmaron que el losartan activa los adipocitos pardos mediante un mecanismo PPARγ-dependent (dependiente de PPARγ), lo que muestra que el enfoque puede identificar fármacos reutilizables para activar el BAT."
+                "x": "La mayoría de las consultas (51.9%) trató sobre la toma de decisiones clínicas, sobre todo tratamiento y manejo (33.1%); el diagnóstico representó el 13.9%. Las consultas fuera de la propia especialidad del médico oscilaron entre el 35% de los oncólogos y el 88% de los médicos de urgencias."
               }
             ]
           }
@@ -569,137 +237,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 임상 스캔에서\n갈색지방을 잰다",
-          "body": "AI로 잰 갈색지방은 건강한 대사·적은 정신질환과 이어지고 재창출 약물도 짚는다.",
-          "mini_headline": "AI가 읽는 갈색지방",
+          "headline": "OpenEvidence\n2.5년간 질의 271M",
+          "body": "JAMA 연구가 임상의 약 952,000명의 질의 271M 건을 분석했다.",
+          "mini_headline": "OpenEvidence 질의 271M",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "인공지능(Artificial intelligence) 기반으로 갈색지방조직(BAT) 활성을 정량화하고 분석한 결과, BAT가 더 건강한 대사 특성 및 낮은 정신질환 발생률과 연관된다는 사실이 드러났다."
+                "x": "Oct. 15 JAMA에 실린 단면 연구는 Jan. 1, 2024부터 June 30, 2026까지 NPI-verified(NPI 인증) OpenEvidence 계정을 보유한 임상의를 분석했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 Memorial Sloan Kettering Cancer Center에서 임상 목적으로 촬영한 18F-FDG-PET–CT 스캔 코호트를 101,243명으로 확대했고(이 중 8,897명이 BAT 양성), 모든 진단 코드에 걸쳐 연관성을 분석했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+                "x": "2.5년 동안 의사 556,200명을 포함한 임상의 952,008명이 질의 271M 건을 입력했다. 월간 활성 사용자는 355명에서 703,265명으로 늘었고, 활성 사용자 1인당 월평균 질의는 18.0건에서 39.5건으로 증가했다."
               },
               {
                 "t": "p",
-                "x": "머신러닝 기법(TriDFusion)으로 8,709명의 전체 및 부위별 BAT 대사 활성을 반자동으로 측정했다. BAT 활성이 높을수록 2형 당뇨병, 심방세동, 관상동맥질환, 울혈성 심부전이 단계적으로 줄었으며, 이는 나이, BMI, 성별, 외기 온도를 통제한 뒤에도 마찬가지였다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+                "x": "전문간호사와 의사보조인력(활성 사용자-월당 각 44.5건)이 의사(37.1건)보다 많이 썼다. 사용량은 종양·혈액내과, 내과, 가정의학과에서 가장 많았고 안과, 영상의학과, 정형외과에서 가장 적었다."
               },
               {
                 "t": "p",
-                "x": "BAT가 있으면 불안과 우울증 유병률도 낮았다. 약물 분석에서는 안지오텐신 수용체 차단제 사용이 BAT 존재와 연관됐고, 개념 증명 실험에서 로사르탄(losartan)이 PPARγ-dependent(PPARγ 의존적) 기전으로 갈색지방세포를 활성화한다는 점이 확인됐다. 이는 이 접근법으로 BAT 활성화에 재창출할 수 있는 약물을 찾을 수 있음을 보여준다."
+                "x": "질의의 다수(51.9%)는 임상 의사결정에 관한 것으로 주로 치료·관리(33.1%)였고, 진단은 13.9%였다. 자기 전공 밖 질의 비율은 종양내과 의사 35%에서 응급의학과 의사 88%까지 분포했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが臨床スキャンで\n褐色脂肪を測定",
-          "body": "AIによる褐色脂肪の評価は、健康な代謝や精神疾患の少なさとの関連と転用候補薬を示す。",
-          "mini_headline": "AIが褐色脂肪を読む",
+          "headline": "OpenEvidence\n2.5年で質問 271M",
+          "body": "JAMAの研究が、臨床医約952,000人の質問 271M 件を専門・目的別に分析した。",
+          "mini_headline": "OpenEvidence、質問 271M 件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人工知能(Artificial intelligence)を用いた褐色脂肪組織(BAT)活性の定量と解析により、BATがより健康な代謝プロファイルおよび精神疾患の低い発生率と関連することが明らかになった。"
+                "x": "Oct. 15にJAMAに掲載された横断研究は、Jan. 1, 2024からJune 30, 2026までにNPI-verified（NPI認証済み）のOpenEvidenceアカウントを持つ臨床医を分析した。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、Memorial Sloan Kettering Cancer Centerで臨床目的に撮影された18F-FDG-PET–CTスキャンのコホートを101,243人(うち8,897人がBAT陽性)に拡大し、すべての診断コードにわたって関連を解析した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+                "x": "2.5年間で、医師556,200人を含む臨床医952,008人が 271M 件の質問を送った。月間アクティブユーザーは355人から703,265人に増え、アクティブユーザー1人あたりの月平均質問数は18.0件から39.5件に伸びた。"
               },
               {
                 "t": "p",
-                "x": "機械学習の手法(TriDFusion)により、8,709人の全体および部位別のBAT代謝活性を半自動で測定した。BAT活性が高いほど、2型糖尿病、心房細動、冠動脈疾患、うっ血性心不全が段階的に減少し、年齢、BMI、性別、外気温を調整した後もこの関連は残った。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+                "x": "ナースプラクティショナーと医師助手（いずれもアクティブユーザー月あたり44.5件）は医師（37.1件）を上回った。利用が最も多かったのは腫瘍・血液内科、内科、家庭医療で、最も少なかったのは眼科、放射線科、整形外科だった。"
               },
               {
                 "t": "p",
-                "x": "BATがあることは、不安やうつ病の有病率の低さとも関連していた。薬剤解析ではアンジオテンシン受容体拮抗薬の使用がBATの存在と結びつき、概念実証実験ではロサルタン(losartan)がPPARγ-dependent(PPARγ依存的)な機序で褐色脂肪細胞を活性化することが確認された。この手法が、BATを活性化するために転用できる薬剤を特定できることを示している。"
+                "x": "質問の大半（51.9%）は臨床上の意思決定に関するもので、中心は治療・管理（33.1%）、診断は13.9%だった。自分の専門外の質問の割合は、腫瘍内科医の35%から救急医の88%までの幅があった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在临床扫描中\n量化棕色脂肪",
-          "body": "AI评估棕色脂肪,发现其与更健康的代谢和更少精神疾病相关,并指向可重新利用的药物。",
-          "mini_headline": "AI解读棕色脂肪",
+          "headline": "OpenEvidence\n2.5年提问达 271M",
+          "body": "JAMA研究按专科和用途分析了约952,000名临床医生的 271M 次提问。",
+          "mini_headline": "OpenEvidence：271M 次提问",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "借助人工智能(Artificial intelligence)对棕色脂肪组织(BAT)活性进行量化与分析,发现BAT与更健康的代谢特征以及更低的精神疾病发生率相关。"
+                "x": "Oct. 15发表在JAMA上的一项横断面研究，分析了Jan. 1, 2024至June 30, 2026期间拥有NPI-verified（经NPI验证）OpenEvidence账户的临床医生。"
               },
               {
                 "t": "p",
-                "x": "研究团队将Memorial Sloan Kettering Cancer Center出于临床目的拍摄的18F-FDG-PET–CT扫描队列扩大到101,243名患者,其中8,897名为BAT阳性,并分析了所有诊断编码之间的关联。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+                "x": "在这2.5年里，952,008名临床医生（其中医生556,200名）共提交了 271M 次提问。月活跃用户从355人增至703,265人，每位活跃用户的月均提问数从18.0次升至39.5次。"
               },
               {
                 "t": "p",
-                "x": "一种机器学习方法(TriDFusion)半自动测量了8,709名患者的总体及各部位BAT代谢活性。BAT活性越高,2型糖尿病、心房颤动、冠状动脉疾病和充血性心力衰竭呈阶梯式减少,即使在控制年龄、BMI、性别和室外温度后依然如此。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+                "x": "执业护士和医师助理（每活跃用户月各44.5次）的使用量高于医生（37.1次）。使用最多的是肿瘤与血液科、内科和家庭医学科，最少的是眼科、放射科和骨科。"
               },
               {
                 "t": "p",
-                "x": "BAT的存在还与较低的焦虑和抑郁患病率相关。药物分析显示,血管紧张素受体阻滞剂的使用与BAT存在相关;概念验证实验证实,氯沙坦(losartan)通过PPARγ-dependent(PPARγ依赖性)机制激活棕色脂肪细胞——表明该方法可以找出可重新用于激活BAT的药物。"
+                "x": "多数提问（51.9%）涉及临床决策，主要是治疗与管理（33.1%）；诊断占13.9%。超出医生本专科的提问比例，从肿瘤科医生的35%到急诊科医生的88%不等。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI mide la grasa parda\nen escáneres clínicos",
-          "body": "La AI vincula la grasa parda con mejor metabolismo y menos enfermedad psiquiátrica, y señala fármacos a reutilizar.",
-          "mini_headline": "La AI lee la grasa parda",
+          "headline": "OpenEvidence sumó 271M\nconsultas en 2.5 años",
+          "body": "Un estudio de JAMA analizó por especialidad y fin 271M consultas de unos 952,000 clínicos que usan OpenEvidence.",
+          "mini_headline": "OpenEvidence: 271M consultas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La cuantificación y el análisis de la actividad del tejido adiposo pardo (BAT) mediante inteligencia artificial (Artificial intelligence) revelan vínculos entre el BAT y un perfil metabólico más saludable, junto con menores tasas de enfermedad psiquiátrica."
+                "x": "Un estudio transversal publicado el Oct. 15 en JAMA analizó a clínicos con cuentas de OpenEvidence NPI-verified (verificadas por NPI) entre el Jan. 1, 2024 y el June 30, 2026."
               },
               {
                 "t": "p",
-                "x": "El equipo amplió su cohorte de escáneres 18F-FDG-PET–CT realizados con fines clínicos en el Memorial Sloan Kettering Cancer Center a 101,243 pacientes, 8,897 de ellos BAT positivos, y analizó asociaciones en todos los códigos diagnósticos."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png"
+                "x": "En el periodo de 2.5 años, 952,008 clínicos, entre ellos 556,200 médicos, enviaron 271 millones de consultas. Los usuarios activos mensuales pasaron de 355 a 703,265, y el promedio mensual de consultas por usuario activo subió de 18.0 a 39.5."
               },
               {
                 "t": "p",
-                "x": "Un método de aprendizaje automático (TriDFusion) midió de forma semiautomática la actividad metabólica total y por depósito del BAT en 8,709 pacientes. Una mayor actividad del BAT se asoció con una reducción escalonada de diabetes tipo 2, fibrilación auricular, enfermedad coronaria e insuficiencia cardíaca congestiva, incluso tras ajustar por edad, BMI, sexo y temperatura exterior."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig2_HTML.png"
+                "x": "Los enfermeros de práctica avanzada y los asistentes médicos (44.5 consultas por usuario activo al mes cada uno) superaron a los médicos (37.1). El uso fue mayor en oncología y hematología, medicina interna y medicina familiar, y menor en oftalmología, radiología y ortopedia."
               },
               {
                 "t": "p",
-                "x": "La presencia de BAT también se asoció con una menor prevalencia de ansiedad y depresión. Los análisis de medicamentos vincularon el uso de antagonistas del receptor de angiotensina con la presencia de BAT, y experimentos de prueba de concepto confirmaron que el losartan activa los adipocitos pardos mediante un mecanismo PPARγ-dependent (dependiente de PPARγ), lo que muestra que el enfoque puede identificar fármacos reutilizables para activar el BAT."
+                "x": "La mayoría de las consultas (51.9%) trató sobre la toma de decisiones clínicas, sobre todo tratamiento y manejo (33.1%); el diagnóstico representó el 13.9%. Las consultas fuera de la propia especialidad del médico oscilaron entre el 35% de los oncólogos y el 88% de los médicos de urgencias."
               }
             ]
           }
@@ -707,15 +343,15 @@
       }
     },
     {
-      "id": "medicine-bradford-skin-cancer",
+      "id": "medicine-ama-agentic",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Bradford, AI로\n피부암 대기 단축",
-      "body": "Bradford 피부암 클리닉이 AI 스캔으로 환자를 더 받고 결과도 빨리 알린다.",
-      "mini_headline": "Bradford 피부 검진 빨라져",
       "tool": "Medicine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
+      "eyebrow": "AI NEWS",
+      "headline": "AMA, AI 에이전트\n거버넌스 틀 내놨다",
+      "body": "연방 AI 규제가 사실상 비어 있는 가운데 AMA가 의료 AI 에이전트 틀을 냈다.",
+      "mini_headline": "AMA, 에이전트형 AI 틀 제시",
+      "source": "Healthcare Dive",
+      "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -723,239 +359,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-            "cap": "인공지능이 의심스러운 피부 병변 이미지를 몇 분 만에 분석한다"
+            "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+            "cap": "AMA 프레임워크는 임상 AI 에이전트를 네 가지 질문으로 평가한다."
           },
           {
             "t": "p",
-            "x": "인공지능(AI)으로 피부암을 더 일찍 잡아내는 NHS 클리닉 직원들은 이 기술이 “게임 체인저”가 될 수 있다고 말했다. Bradford의 St Luke's Hospital 피부과 팀은 사월에 이 시스템을 들였고, 지금은 세션마다 환자 32명을 본다. 전에는 24명이었다."
+            "x": "미국의사협회(American Medical Association)가 임상 업무를 맡는 AI 에이전트용 거버넌스 프레임워크를 발표했다. 뼈대는 네 가지 질문이다. AI가 어떤 임상 기능을 맡는지, 그 일을 해낼 수 있다는 근거는 무엇이고 실패하면 어떻게 되는지, 어떤 일을 어떤 조건에서 허용할지, 위험과 결과의 책임은 누가 지는지다."
           },
           {
             "t": "p",
-            "x": "이 시스템 DERM(Deep Ensemble for the Recognition of Malignancy)은 Skin Analytics가 만들었고, 회사는 흑색종을 배제하는 정확도가 99.9%라고 주장한다. 의료 보조 인력이 병변 사진 세 장을 찍으면 시스템이 몇 분 안에 분석한다. 양성이면 조언과 함께 집으로 돌려보내고, 의심스러우면 전문의에게 넘긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-            "cap": "병원 트러스트는 인공지능 덕분에 클리닉 직원들이 환자를 삼분의 일 더 볼 수 있었다고 밝혔다"
+            "x": "에이전트형 도구는 사람이 지켜보지 않아도 여러 단계의 작업을 끝낸다. 그만큼 부정확하거나 편향된 결정이 임상의가 손쓰기 전에 환자에게 큰 해를 입힐 위험도 있다. 프레임워크는 “AI 역량이 발전할수록 근거, 권한, 감독, 책임은 더 나은 환자 진료를 위해 계속 맞물려 있어야 한다”고 적었다."
           },
           {
             "t": "p",
-            "x": "모든 이미지는 임상의가 다시 본다. 트러스트는 불필요한 생검이 약 10% 줄었다고 밝혔다. 성형외과 전문의 Zakir Shariff는 이 기술이 대기 시간에 “큰 영향”을 미쳤다고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-            "cap": "성형외과 의사 Zakir Shariff는 AI가 대기 시간에 큰 영향을 줬다고 말했다"
-          },
-          {
-            "t": "p",
-            "x": "NICE는 근거를 모으는 향후 삼 년 동안 NHS에서 이 기술을 쓰라고 권고했다. 지금은 40개 NHS 트러스트가 도입했고, Yorkshire에서는 Bradford가 처음이었다."
+            "x": "최근 U.S. 의료 리더 250명에게 물었더니 약 28%가 소속 기관이 에이전트형 AI를 도입했다고 했고, 44%는 시범 운영 중이라고 했다. 연방 차원의 실질적인 AI 규제가 없다 보니 지침은 업계 단체들이 내놓는다. 2025년에는 47개 주에서 의료에 영향을 주는 AI 법안이 250건 넘게 발의됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Bradford cuts skin cancer\nwaits with AI scanning",
-          "body": "A Bradford skin cancer clinic can now see more patients and deliver results faster thanks to AI scanning technology.",
-          "mini_headline": "Faster skin checks in Bradford",
+          "headline": "AMA issues a governance\nframework for AI agents",
+          "body": "The AMA issued a governance framework for AI agents in healthcare, absent substantive federal AI regulation.",
+          "mini_headline": "AMA frames agentic AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-                "cap": "The artificial intelligence analyses images of suspicious skin lesions in minutes"
+                "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+                "cap": "The AMA framework sets four questions for assessing clinical AI agents."
               },
               {
                 "t": "p",
-                "x": "Staff at an NHS clinic using artificial intelligence (AI) to detect skin cancer sooner have said the technology could be a \"game changer\". The dermatology team at St Luke's Hospital in Bradford adopted the system in April; 32 patients can now be seen in each session, compared to 24 before."
+                "x": "The American Medical Association released a governance framework for AI agents used to perform clinical tasks, built around four questions: what clinical function the AI performs, what demonstrates it can do so and what happens if it fails, what it should be permitted to do and under what conditions, and who is responsible for the risks and outcomes."
               },
               {
                 "t": "p",
-                "x": "The system, DERM (Deep Ensemble for the Recognition of Malignancy), is made by Skin Analytics, which claims it is 99.9% accurate at ruling out melanoma. A healthcare assistant takes three photographs of the lesion and the system analyses them in minutes; benign cases are discharged with advice and suspicious ones referred to a specialist."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-                "cap": "The hospital trust said artificial intelligence has helped staff see one-third more patients in clinics"
+                "x": "Because agentic tools can complete multi-step tasks without human oversight, an inaccurate or biased decision could cause significant patient harm before a clinician can intervene. “As AI capabilities advance, evidence, authority, oversight and accountability must remain aligned in service of better patient care,” the framework states."
               },
               {
                 "t": "p",
-                "x": "Every image is double-checked by a clinician. Unnecessary biopsies have dropped by about 10%, according to the trust. Consultant plastic surgeon Zakir Shariff said it has had a \"big impact\" on waiting times."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-                "cap": "Plastic surgeon Zakir Shariff said the AI has had a big impact on waiting times"
-              },
-              {
-                "t": "p",
-                "x": "NICE has recommended the technology for NHS use for the next three years while evidence is collected. It is deployed in 40 NHS trusts, and Bradford was the first in Yorkshire to adopt it."
+                "x": "In a recent survey of 250 U.S. healthcare leaders, about 28% said their organization has deployed agentic AI and 44% are piloting it. In the absence of substantive federal AI regulation, industry groups are providing guidance; 47 states introduced over 250 AI bills impacting healthcare in 2025."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Bradford, AI로\n피부암 대기 단축",
-          "body": "Bradford 피부암 클리닉이 AI 스캔으로 환자를 더 받고 결과도 빨리 알린다.",
-          "mini_headline": "Bradford 피부 검진 빨라져",
+          "headline": "AMA, AI 에이전트\n거버넌스 틀 내놨다",
+          "body": "연방 AI 규제가 사실상 비어 있는 가운데 AMA가 의료 AI 에이전트 틀을 냈다.",
+          "mini_headline": "AMA, 에이전트형 AI 틀 제시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-                "cap": "인공지능이 의심스러운 피부 병변 이미지를 몇 분 만에 분석한다"
+                "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+                "cap": "AMA 프레임워크는 임상 AI 에이전트를 네 가지 질문으로 평가한다."
               },
               {
                 "t": "p",
-                "x": "인공지능(AI)으로 피부암을 더 일찍 잡아내는 NHS 클리닉 직원들은 이 기술이 “게임 체인저”가 될 수 있다고 말했다. Bradford의 St Luke's Hospital 피부과 팀은 사월에 이 시스템을 들였고, 지금은 세션마다 환자 32명을 본다. 전에는 24명이었다."
+                "x": "미국의사협회(American Medical Association)가 임상 업무를 맡는 AI 에이전트용 거버넌스 프레임워크를 발표했다. 뼈대는 네 가지 질문이다. AI가 어떤 임상 기능을 맡는지, 그 일을 해낼 수 있다는 근거는 무엇이고 실패하면 어떻게 되는지, 어떤 일을 어떤 조건에서 허용할지, 위험과 결과의 책임은 누가 지는지다."
               },
               {
                 "t": "p",
-                "x": "이 시스템 DERM(Deep Ensemble for the Recognition of Malignancy)은 Skin Analytics가 만들었고, 회사는 흑색종을 배제하는 정확도가 99.9%라고 주장한다. 의료 보조 인력이 병변 사진 세 장을 찍으면 시스템이 몇 분 안에 분석한다. 양성이면 조언과 함께 집으로 돌려보내고, 의심스러우면 전문의에게 넘긴다."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-                "cap": "병원 트러스트는 인공지능 덕분에 클리닉 직원들이 환자를 삼분의 일 더 볼 수 있었다고 밝혔다"
+                "x": "에이전트형 도구는 사람이 지켜보지 않아도 여러 단계의 작업을 끝낸다. 그만큼 부정확하거나 편향된 결정이 임상의가 손쓰기 전에 환자에게 큰 해를 입힐 위험도 있다. 프레임워크는 “AI 역량이 발전할수록 근거, 권한, 감독, 책임은 더 나은 환자 진료를 위해 계속 맞물려 있어야 한다”고 적었다."
               },
               {
                 "t": "p",
-                "x": "모든 이미지는 임상의가 다시 본다. 트러스트는 불필요한 생검이 약 10% 줄었다고 밝혔다. 성형외과 전문의 Zakir Shariff는 이 기술이 대기 시간에 “큰 영향”을 미쳤다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-                "cap": "성형외과 의사 Zakir Shariff는 AI가 대기 시간에 큰 영향을 줬다고 말했다"
-              },
-              {
-                "t": "p",
-                "x": "NICE는 근거를 모으는 향후 삼 년 동안 NHS에서 이 기술을 쓰라고 권고했다. 지금은 40개 NHS 트러스트가 도입했고, Yorkshire에서는 Bradford가 처음이었다."
+                "x": "최근 U.S. 의료 리더 250명에게 물었더니 약 28%가 소속 기관이 에이전트형 AI를 도입했다고 했고, 44%는 시범 운영 중이라고 했다. 연방 차원의 실질적인 AI 규제가 없다 보니 지침은 업계 단체들이 내놓는다. 2025년에는 47개 주에서 의료에 영향을 주는 AI 법안이 250건 넘게 발의됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bradford、AIで\n皮膚がん待ち時間短縮",
-          "body": "Bradfordの皮膚がん外来は、AIスキャンで患者を多く診て結果も早く出す。",
-          "mini_headline": "Bradfordで皮膚検査が迅速に",
+          "headline": "AMA、AIエージェント\n向け統治枠組みを公表",
+          "body": "AMAは、連邦の実質的なAI規制がない中、医療向けAIエージェントの統治枠組みを公表した。",
+          "mini_headline": "AMA、エージェント型AIに枠組み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-                "cap": "人工知能が疑わしい皮膚病変の画像を数分で解析する"
+                "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+                "cap": "AMAの枠組みは、臨床AIエージェントを評価するための4つの問いを定めている。"
               },
               {
                 "t": "p",
-                "x": "人工知能(AI)で皮膚がんをより早く発見しているNHSのクリニックのスタッフは、この技術が「ゲームチェンジャー」になり得ると語った。BradfordのSt Luke's Hospitalの皮膚科チームは四月にこのシステムを導入し、各セッションで診られる患者は以前の24人から32人に増えた。"
+                "x": "米国医師会（American Medical Association）は、臨床業務を担うAIエージェント向けのガバナンス枠組みを公表した。枠組みは4つの問いを軸とする。AIがどの臨床機能を担うのか、それを遂行できることを何が示し、失敗した場合に何が起きるのか、何をどのような条件で許可すべきか、そしてリスクと結果に誰が責任を負うのか、である。"
               },
               {
                 "t": "p",
-                "x": "このシステムDERM(Deep Ensemble for the Recognition of Malignancy)はSkin Analytics製で、同社はメラノーマを除外する精度が99.9%だとしている。医療助手が病変の写真を三枚撮影すると、システムが数分で解析し、良性の場合は助言とともに帰宅させ、疑わしい場合は専門医に紹介する。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-                "cap": "病院トラストによると、人工知能のおかげでスタッフはクリニックで三分の一多くの患者を診られるようになった"
+                "x": "エージェント型ツールは人の監督なしに複数段階のタスクを完了できるため、不正確または偏った判断が、臨床医が介入する前に患者に重大な害を及ぼすおそれがある。枠組みは「AIの能力が進歩するにつれ、エビデンス、権限、監督、説明責任は、より良い患者ケアのために整合し続けなければならない」と述べている。"
               },
               {
                 "t": "p",
-                "x": "すべての画像は臨床医が二重にチェックする。トラストによると、不要な生検は約10%減った。形成外科顧問医のZakir Shariffは、待ち時間に「大きな影響」があったと述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-                "cap": "形成外科医のZakir Shariffは、AIが待ち時間に大きな影響を与えたと語った"
-              },
-              {
-                "t": "p",
-                "x": "NICEは、エビデンスを収集する今後三年間、NHSでこの技術を使用することを推奨した。現在40のNHSトラストで導入されており、BradfordはYorkshireで最初に採用した。"
+                "x": "U.S.の医療機関リーダー250人を対象とした最近の調査では、約28%が自組織でエージェント型AIを導入済みと答え、44%が試験運用中と答えた。連邦による実質的なAI規制がない中、業界団体が指針を示しており、2025年には47州で医療に影響する250件超のAI法案が提出された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bradford借助AI\n缩短皮肤癌等候时间",
-          "body": "Bradford一家皮肤癌诊所借助AI扫描技术,能接诊更多患者,出结果也更快。",
-          "mini_headline": "Bradford皮肤检查提速",
+          "headline": "AMA发布AI智能体\n治理框架",
+          "body": "在联邦层面缺乏实质性AI监管的情况下，AMA发布了医疗领域AI智能体治理框架。",
+          "mini_headline": "AMA为智能体AI立框架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-                "cap": "人工智能可在几分钟内分析可疑皮肤病变的图像"
+                "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+                "cap": "AMA框架提出了评估临床AI智能体的四个问题。"
               },
               {
                 "t": "p",
-                "x": "一家利用人工智能(AI)更早发现皮肤癌的NHS诊所的工作人员表示,这项技术可能“改变游戏规则”。Bradford的St Luke's Hospital皮肤科团队于四月引入该系统;现在每次门诊可接诊32名患者,此前为24名。"
+                "x": "美国医学会（American Medical Association）发布了用于执行临床任务的AI智能体治理框架，围绕四个问题展开：AI承担什么临床功能；什么能证明它胜任，以及失败后会怎样；它应被允许做什么、在什么条件下做；以及谁为风险和结果负责。"
               },
               {
                 "t": "p",
-                "x": "该系统名为DERM(Deep Ensemble for the Recognition of Malignancy),由Skin Analytics开发,该公司称其排除黑色素瘤的准确率为99.9%。医疗助理为病变拍摄三张照片,系统在几分钟内完成分析;良性病例给予建议后离院,可疑病例转诊给专科医生。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-                "cap": "医院信托表示,人工智能帮助员工在诊所多接诊了三分之一的患者"
+                "x": "由于智能体工具可以在没有人工监督的情况下完成多步骤任务，不准确或带有偏见的决策可能在临床医生介入之前就对患者造成重大伤害。框架指出：“随着AI能力的进步，证据、权限、监督和问责必须始终保持一致，以服务于更好的患者照护。”"
               },
               {
                 "t": "p",
-                "x": "每张图像都由临床医生复核。据该信托称,不必要的活检减少了约10%。整形外科顾问医生Zakir Shariff表示,这对等候时间产生了“重大影响”。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-                "cap": "整形外科医生Zakir Shariff表示,AI对等候时间产生了重大影响"
-              },
-              {
-                "t": "p",
-                "x": "NICE已建议在收集证据期间,未来三年在NHS中使用该技术。目前它已在40个NHS信托中部署,Bradford是Yorkshire第一个采用的。"
+                "x": "在最近一项针对250名U.S.医疗领导者的调查中，约28%表示所在机构已部署智能体AI，44%正在试点。在缺乏实质性联邦AI监管的情况下，行业团体正在提供指导；2025年，47个州提出了250多项影响医疗的AI法案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bradford reduce esperas de\ncáncer de piel con AI",
-          "body": "Una clínica de cáncer de piel de Bradford atiende a más pacientes y da resultados antes gracias al escaneo con AI.",
-          "mini_headline": "Revisiones de piel más rápidas en Bradford",
+          "headline": "La AMA publica un marco de\ngobernanza para agentes de AI",
+          "body": "La AMA emitió un marco de gobernanza para agentes de AI en salud, a falta de regulación federal sustantiva sobre AI.",
+          "mini_headline": "La AMA enmarca la AI agéntica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-                "cap": "La inteligencia artificial analiza en minutos imágenes de lesiones cutáneas sospechosas"
+                "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+                "cap": "El marco de la AMA plantea cuatro preguntas para evaluar agentes de AI clínicos."
               },
               {
                 "t": "p",
-                "x": "El personal de una clínica del NHS que usa inteligencia artificial (AI) para detectar antes el cáncer de piel afirma que la tecnología podría «cambiar las reglas del juego». El equipo de dermatología del St Luke's Hospital de Bradford adoptó el sistema en abril; ahora puede atender a 32 pacientes por sesión, frente a 24 antes."
+                "x": "La American Medical Association publicó un marco de gobernanza para agentes de AI que realizan tareas clínicas, articulado en torno a cuatro preguntas: qué función clínica cumple la AI, qué demuestra que puede hacerlo y qué ocurre si falla, qué debería permitírsele hacer y en qué condiciones, y quién es responsable de los riesgos y los resultados."
               },
               {
                 "t": "p",
-                "x": "El sistema, DERM (Deep Ensemble for the Recognition of Malignancy), lo fabrica Skin Analytics, que asegura que tiene una precisión del 99.9% para descartar el melanoma. Un asistente sanitario toma tres fotografías de la lesión y el sistema las analiza en minutos; los casos benignos reciben el alta con recomendaciones y los sospechosos se derivan a un especialista."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-                "cap": "El fideicomiso hospitalario afirmó que la inteligencia artificial ha ayudado al personal a atender un tercio más de pacientes en las consultas"
+                "x": "Como las herramientas agénticas pueden completar tareas de varios pasos sin supervisión humana, una decisión inexacta o sesgada podría causar un daño significativo al paciente antes de que un clínico pueda intervenir. “A medida que avanzan las capacidades de la AI, la evidencia, la autoridad, la supervisión y la rendición de cuentas deben seguir alineadas al servicio de una mejor atención al paciente”, afirma el marco."
               },
               {
                 "t": "p",
-                "x": "Un clínico revisa de nuevo cada imagen. Las biopsias innecesarias han bajado alrededor de un 10%, según el fideicomiso. El cirujano plástico consultor Zakir Shariff afirmó que ha tenido un «gran impacto» en los tiempos de espera."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-                "cap": "El cirujano plástico Zakir Shariff afirmó que la AI ha tenido un gran impacto en los tiempos de espera"
-              },
-              {
-                "t": "p",
-                "x": "NICE ha recomendado la tecnología para su uso en el NHS durante los próximos tres años mientras se recopilan pruebas. Está implantada en 40 fideicomisos del NHS, y Bradford fue el primero de Yorkshire en adoptarla."
+                "x": "En una encuesta reciente a 250 líderes de salud de U.S., alrededor del 28% dijo que su organización ha implementado AI agéntica y el 44% la está probando en pilotos. Ante la falta de una regulación federal sustantiva sobre AI, los grupos del sector ofrecen orientación; 47 estados presentaron más de 250 proyectos de ley sobre AI que afectan a la salud en 2025."
               }
             ]
           }
@@ -963,165 +515,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Bradford, AI로\n피부암 대기 단축",
-          "body": "Bradford 피부암 클리닉이 AI 스캔으로 환자를 더 받고 결과도 빨리 낸다.",
-          "mini_headline": "Bradford 피부 검진 빨라져",
+          "headline": "AMA, AI 에이전트\n거버넌스 틀 내놨다",
+          "body": "AMA가 실질적 연방 AI 규제 공백 속 의료 AI 에이전트 거버넌스 틀을 냈다.",
+          "mini_headline": "AMA, 에이전트형 AI 틀 제시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-                "cap": "인공지능이 의심스러운 피부 병변 이미지를 몇 분 만에 분석한다"
+                "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+                "cap": "AMA 프레임워크는 임상 AI 에이전트를 평가하는 네 가지 질문을 제시한다."
               },
               {
                 "t": "p",
-                "x": "인공지능(AI)으로 피부암을 더 일찍 찾아내는 NHS 클리닉 직원들은 이 기술이 “게임 체인저”가 될 수 있다고 말했다. Bradford의 St Luke's Hospital 피부과 팀은 사월에 이 시스템을 도입했고, 이제 세션마다 환자 32명을 진료한다. 이전에는 24명이었다."
+                "x": "미국의사협회(American Medical Association)는 임상 업무를 수행하는 AI 에이전트를 위한 거버넌스 프레임워크를 발표했다. 프레임워크는 네 가지 질문을 축으로 한다. AI가 어떤 임상 기능을 수행하는지, 그 일을 해낼 수 있다는 근거는 무엇이며 실패하면 어떻게 되는지, 어떤 일을 어떤 조건에서 허용해야 하는지, 위험과 결과의 책임은 누구에게 있는지다."
               },
               {
                 "t": "p",
-                "x": "이 시스템 DERM(Deep Ensemble for the Recognition of Malignancy)은 Skin Analytics가 만들었으며, 회사는 흑색종을 배제하는 정확도가 99.9%라고 주장한다. 의료 보조 인력이 병변 사진 세 장을 찍으면 시스템이 몇 분 만에 분석하고, 양성이면 조언과 함께 귀가시키며 의심스러운 경우는 전문의에게 의뢰한다."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-                "cap": "병원 트러스트는 인공지능 덕분에 직원들이 클리닉에서 삼분의 일 더 많은 환자를 볼 수 있었다고 밝혔다"
+                "x": "에이전트형 도구는 사람의 감독 없이 여러 단계의 작업을 끝낼 수 있어, 부정확하거나 편향된 결정이 임상의가 개입하기 전에 환자에게 큰 해를 끼칠 수 있다. 프레임워크는 “AI 역량이 발전할수록 근거, 권한, 감독, 책임은 더 나은 환자 진료를 위해 계속 맞물려 있어야 한다”고 밝힌다."
               },
               {
                 "t": "p",
-                "x": "모든 이미지는 임상의가 다시 확인한다. 트러스트에 따르면 불필요한 생검이 약 10% 줄었다. 성형외과 전문의 Zakir Shariff는 이 기술이 대기 시간에 “큰 영향”을 미쳤다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-                "cap": "성형외과 의사 Zakir Shariff는 AI가 대기 시간에 큰 영향을 미쳤다고 말했다"
-              },
-              {
-                "t": "p",
-                "x": "NICE는 근거를 수집하는 향후 삼 년간 NHS에서 이 기술을 쓰도록 권고했다. 현재 40개 NHS 트러스트에 도입됐으며, Bradford는 Yorkshire에서 처음으로 이 기술을 도입했다."
+                "x": "최근 U.S. 의료 리더 250명을 대상으로 한 조사에서 약 28%는 소속 기관이 에이전트형 AI를 도입했다고 답했고, 44%는 시범 운영 중이라고 답했다. 실질적인 연방 AI 규제가 없는 상황에서 업계 단체들이 지침을 내놓고 있으며, 2025년에는 47개 주에서 의료에 영향을 미치는 AI 법안이 250건 넘게 발의됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bradford、AIで\n皮膚がん待ち時間短縮",
-          "body": "Bradfordの皮膚がん外来は、AIスキャンで患者を多く診て結果も早く出す。",
-          "mini_headline": "Bradfordで皮膚検査が迅速に",
+          "headline": "AMA、AIエージェント\n向け統治枠組みを公表",
+          "body": "AMAは、連邦の実質的なAI規制がない中、医療向けAIエージェントの統治枠組みを公表した。",
+          "mini_headline": "AMA、エージェント型AIに枠組み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-                "cap": "人工知能が疑わしい皮膚病変の画像を数分で解析する"
+                "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+                "cap": "AMAの枠組みは、臨床AIエージェントを評価するための4つの問いを定めている。"
               },
               {
                 "t": "p",
-                "x": "人工知能(AI)で皮膚がんをより早く発見しているNHSのクリニックのスタッフは、この技術が「ゲームチェンジャー」になり得ると語った。BradfordのSt Luke's Hospitalの皮膚科チームは四月にこのシステムを導入し、各セッションで診られる患者は以前の24人から32人に増えた。"
+                "x": "米国医師会（American Medical Association）は、臨床業務を担うAIエージェント向けのガバナンス枠組みを公表した。枠組みは4つの問いを軸とする。AIがどの臨床機能を担うのか、それを遂行できることを何が示し、失敗した場合に何が起きるのか、何をどのような条件で許可すべきか、そしてリスクと結果に誰が責任を負うのか、である。"
               },
               {
                 "t": "p",
-                "x": "このシステムDERM(Deep Ensemble for the Recognition of Malignancy)はSkin Analytics製で、同社はメラノーマを除外する精度が99.9%だとしている。医療助手が病変の写真を三枚撮影すると、システムが数分で解析し、良性の場合は助言とともに帰宅させ、疑わしい場合は専門医に紹介する。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-                "cap": "病院トラストによると、人工知能のおかげでスタッフはクリニックで三分の一多くの患者を診られるようになった"
+                "x": "エージェント型ツールは人の監督なしに複数段階のタスクを完了できるため、不正確または偏った判断が、臨床医が介入する前に患者に重大な害を及ぼすおそれがある。枠組みは「AIの能力が進歩するにつれ、エビデンス、権限、監督、説明責任は、より良い患者ケアのために整合し続けなければならない」と述べている。"
               },
               {
                 "t": "p",
-                "x": "すべての画像は臨床医が二重にチェックする。トラストによると、不要な生検は約10%減った。形成外科顧問医のZakir Shariffは、待ち時間に「大きな影響」があったと述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-                "cap": "形成外科医のZakir Shariffは、AIが待ち時間に大きな影響を与えたと語った"
-              },
-              {
-                "t": "p",
-                "x": "NICEは、エビデンスを収集する今後三年間、NHSでこの技術を使用することを推奨した。現在40のNHSトラストで導入されており、BradfordはYorkshireで最初に採用した。"
+                "x": "U.S.の医療機関リーダー250人を対象とした最近の調査では、約28%が自組織でエージェント型AIを導入済みと答え、44%が試験運用中と答えた。連邦による実質的なAI規制がない中、業界団体が指針を示しており、2025年には47州で医療に影響する250件超のAI法案が提出された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bradford借助AI\n缩短皮肤癌等候时间",
-          "body": "Bradford一家皮肤癌诊所借助AI扫描技术,能接诊更多患者,出结果也更快。",
-          "mini_headline": "Bradford皮肤检查提速",
+          "headline": "AMA发布AI智能体\n治理框架",
+          "body": "在联邦层面缺乏实质性AI监管的情况下，AMA发布了医疗领域AI智能体治理框架。",
+          "mini_headline": "AMA为智能体AI立框架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-                "cap": "人工智能可在几分钟内分析可疑皮肤病变的图像"
+                "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+                "cap": "AMA框架提出了评估临床AI智能体的四个问题。"
               },
               {
                 "t": "p",
-                "x": "一家利用人工智能(AI)更早发现皮肤癌的NHS诊所的工作人员表示,这项技术可能“改变游戏规则”。Bradford的St Luke's Hospital皮肤科团队于四月引入该系统;现在每次门诊可接诊32名患者,此前为24名。"
+                "x": "美国医学会（American Medical Association）发布了用于执行临床任务的AI智能体治理框架，围绕四个问题展开：AI承担什么临床功能；什么能证明它胜任，以及失败后会怎样；它应被允许做什么、在什么条件下做；以及谁为风险和结果负责。"
               },
               {
                 "t": "p",
-                "x": "该系统名为DERM(Deep Ensemble for the Recognition of Malignancy),由Skin Analytics开发,该公司称其排除黑色素瘤的准确率为99.9%。医疗助理为病变拍摄三张照片,系统在几分钟内完成分析;良性病例给予建议后离院,可疑病例转诊给专科医生。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-                "cap": "医院信托表示,人工智能帮助员工在诊所多接诊了三分之一的患者"
+                "x": "由于智能体工具可以在没有人工监督的情况下完成多步骤任务，不准确或带有偏见的决策可能在临床医生介入之前就对患者造成重大伤害。框架指出：“随着AI能力的进步，证据、权限、监督和问责必须始终保持一致，以服务于更好的患者照护。”"
               },
               {
                 "t": "p",
-                "x": "每张图像都由临床医生复核。据该信托称,不必要的活检减少了约10%。整形外科顾问医生Zakir Shariff表示,这对等候时间产生了“重大影响”。"
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-                "cap": "整形外科医生Zakir Shariff表示,AI对等候时间产生了重大影响"
-              },
-              {
-                "t": "p",
-                "x": "NICE已建议在收集证据期间,未来三年在NHS中使用该技术。目前它已在40个NHS信托中部署,Bradford是Yorkshire第一个采用的。"
+                "x": "在最近一项针对250名U.S.医疗领导者的调查中，约28%表示所在机构已部署智能体AI，44%正在试点。在缺乏实质性联邦AI监管的情况下，行业团体正在提供指导；2025年，47个州提出了250多项影响医疗的AI法案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bradford reduce esperas de\ncáncer de piel con AI",
-          "body": "Una clínica de cáncer de piel de Bradford atiende a más pacientes y da resultados antes gracias al escaneo con AI.",
-          "mini_headline": "Revisiones de piel más rápidas en Bradford",
+          "headline": "La AMA publica un marco de\ngobernanza para agentes de AI",
+          "body": "La AMA emitió un marco de gobernanza para agentes de AI en salud, a falta de regulación federal sustantiva sobre AI.",
+          "mini_headline": "La AMA enmarca la AI agéntica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-                "cap": "La inteligencia artificial analiza en minutos imágenes de lesiones cutáneas sospechosas"
+                "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+                "cap": "El marco de la AMA plantea cuatro preguntas para evaluar agentes de AI clínicos."
               },
               {
                 "t": "p",
-                "x": "El personal de una clínica del NHS que usa inteligencia artificial (AI) para detectar antes el cáncer de piel afirma que la tecnología podría «cambiar las reglas del juego». El equipo de dermatología del St Luke's Hospital de Bradford adoptó el sistema en abril; ahora puede atender a 32 pacientes por sesión, frente a 24 antes."
+                "x": "La American Medical Association publicó un marco de gobernanza para agentes de AI que realizan tareas clínicas, articulado en torno a cuatro preguntas: qué función clínica cumple la AI, qué demuestra que puede hacerlo y qué ocurre si falla, qué debería permitírsele hacer y en qué condiciones, y quién es responsable de los riesgos y los resultados."
               },
               {
                 "t": "p",
-                "x": "El sistema, DERM (Deep Ensemble for the Recognition of Malignancy), lo fabrica Skin Analytics, que asegura que tiene una precisión del 99.9% para descartar el melanoma. Un asistente sanitario toma tres fotografías de la lesión y el sistema las analiza en minutos; los casos benignos reciben el alta con recomendaciones y los sospechosos se derivan a un especialista."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cc46/live/b7f9bc40-bbe8-11f1-a430-4d16ee157c41.jpg",
-                "cap": "El fideicomiso hospitalario afirmó que la inteligencia artificial ha ayudado al personal a atender un tercio más de pacientes en las consultas"
+                "x": "Como las herramientas agénticas pueden completar tareas de varios pasos sin supervisión humana, una decisión inexacta o sesgada podría causar un daño significativo al paciente antes de que un clínico pueda intervenir. “A medida que avanzan las capacidades de la AI, la evidencia, la autoridad, la supervisión y la rendición de cuentas deben seguir alineadas al servicio de una mejor atención al paciente”, afirma el marco."
               },
               {
                 "t": "p",
-                "x": "Un clínico revisa de nuevo cada imagen. Las biopsias innecesarias han bajado alrededor de un 10%, según el fideicomiso. El cirujano plástico consultor Zakir Shariff afirmó que ha tenido un «gran impacto» en los tiempos de espera."
-              },
-              {
-                "t": "img",
-                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0746/live/2bbb8640-bbe9-11f1-bc1f-3f186ca4140c.jpg",
-                "cap": "El cirujano plástico Zakir Shariff afirmó que la AI ha tenido un gran impacto en los tiempos de espera"
-              },
-              {
-                "t": "p",
-                "x": "NICE ha recomendado la tecnología para su uso en el NHS durante los próximos tres años mientras se recopilan pruebas. Está implantada en 40 fideicomisos del NHS, y Bradford fue el primero de Yorkshire en adoptarla."
+                "x": "En una encuesta reciente a 250 líderes de salud de U.S., alrededor del 28% dijo que su organización ha implementado AI agéntica y el 44% la está probando en pilotos. Ante la falta de una regulación federal sustantiva sobre AI, los grupos del sector ofrecen orientación; 47 estados presentaron más de 250 proyectos de ley sobre AI que afectan a la salud en 2025."
               }
             ]
           }
@@ -1129,15 +625,15 @@
       }
     },
     {
-      "id": "medicine-ehr-ai-transparency",
+      "id": "medicine-rare-phenotype",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "EHR 개발사의\nAI 위험 투명성 점검",
-      "body": "EHR 개발사 35곳의 AI 위험 보고는 들쭉날쭉했지만 모두 적합 인증을 받았다.",
-      "mini_headline": "EHR AI 투명성 감사",
       "tool": "Medicine",
-      "source": "npj Digital Medicine (Nature)",
-      "url": "https://www.nature.com/articles/s41746-026-03152-w",
+      "eyebrow": "AI NEWS",
+      "headline": "LLM 프레임워크가\n기록서 희귀질환 특징 뽑아",
+      "body": "LLM 프레임워크가 기록에서 뽑은 희귀질환 표현형 순위가 임상의 큐레이션과 맞았다.",
+      "mini_headline": "LLMs로 희귀질환 표현형 추출",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03275-0",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1145,101 +641,125 @@
         "blocks": [
           {
             "t": "p",
-            "x": "연구진은 전자건강기록(EHR) 개발사들이 AI-enabled 예측형 의사결정 지원 개입에 관한 연방 투명성 요건을 얼마나 지키는지 평가했다. 개발사는 위험 분석, 위험 완화, 거버넌스와 그 밖의 여덟 가지 속성을 공개 보고해야 한다."
+            "x": "희귀질환 진단은 표현형 분석에서 출발한다. 그런데 임상 기록에서 구조화된 표현형을 손으로 정리하려면 품이 많이 들고 규모를 키우기도 어렵다. 기존 AI 방식은 개별 구성 요소만 다듬을 뿐 전체 워크플로를 실제 운영까지 끌고 가지 못했다."
           },
           {
             "t": "p",
-            "x": "35개 개발사의 보고는 일관성이 없고 불완전한 경우가 많았으며 구조와 세부 수준도 제각각이었다. 그런데도 모든 개발사가 요건 충족 인증을 받았다. 보고를 표준화하고 인증 심사를 더 엄격히 해야 한다는 결과다."
+            "x": "연구진이 개발한 RARE-PHENIX는 엔드투엔드 AI 프레임워크다. 대규모 언어 모델로 표현형을 추출하고, 온톨로지에 근거해 Human Phenotype Ontology(HPO) 용어로 표준화하고, 지도 학습으로 HPO 용어의 순위를 매기는 단계를 하나로 묶었다."
+          },
+          {
+            "t": "p",
+            "x": "학습에는 Undiagnosed Diseases Network 11개 기관의 환자 2,671명 데이터를 썼고, 외부 검증은 Vanderbilt University Medical Center 환자 143명의 임상 기록 16,357건으로 했다. 순위가 매겨진 HPO 용어는 임상의 큐레이션과 높게 일치했다. 사람이 개입하는 human-in-the-loop 표현형 분석을 현장에서 뒷받침할 만하다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Auditing EHR developers on\nAI risk transparency",
-          "body": "Across 35 EHR developers, AI risk reporting was inconsistent and often incomplete, yet all were certified as compliant.",
-          "mini_headline": "EHR AI transparency audit",
+          "headline": "LLM framework maps rare\ndisease traits from notes",
+          "body": "An LLM framework turns clinical notes into ranked rare disease phenotypes that closely match clinician curation.",
+          "mini_headline": "LLMs phenotype rare disease",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Researchers evaluated electronic health record developer compliance with federal transparency requirements for AI-enabled predictive decision support interventions. Developers are required to publicly report on risk analysis, mitigation, governance, and on eight other attributes."
+                "x": "Phenotyping is fundamental to rare disease diagnosis, but manually curating structured phenotypes from clinical notes is labor intensive and difficult to scale. Existing AI approaches optimize individual components but do not operationalize the full workflow."
               },
               {
                 "t": "p",
-                "x": "Across 35 developers, reporting was inconsistent and often incomplete, with substantial variation in structure and detail, yet all developers were certified as meeting the requirements. Results suggest a need for standardized reporting and more rigorous certification review."
+                "x": "The researchers developed RARE-PHENIX, an end-to-end AI framework that combines large language model-based phenotype extraction, ontology-grounded standardization to Human Phenotype Ontology (HPO) terms, and supervised ranking of HPO terms."
+              },
+              {
+                "t": "p",
+                "x": "It was trained on data from 2,671 patients across 11 Undiagnosed Diseases Network sites and externally validated on 16,357 clinical notes from 143 patients at Vanderbilt University Medical Center. Its prioritized HPO terms were highly concordant with clinician curation, and it may support human-in-the-loop phenotyping in real-world settings."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EHR 개발사의\nAI 위험 투명성 점검",
-          "body": "EHR 개발사 35곳의 AI 위험 보고는 들쭉날쭉했지만 모두 적합 인증을 받았다.",
-          "mini_headline": "EHR AI 투명성 감사",
+          "headline": "LLM 프레임워크가\n기록서 희귀질환 특징 뽑아",
+          "body": "LLM 프레임워크가 기록에서 뽑은 희귀질환 표현형 순위가 임상의 큐레이션과 맞았다.",
+          "mini_headline": "LLMs로 희귀질환 표현형 추출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진은 전자건강기록(EHR) 개발사들이 AI-enabled 예측형 의사결정 지원 개입에 관한 연방 투명성 요건을 얼마나 지키는지 평가했다. 개발사는 위험 분석, 위험 완화, 거버넌스와 그 밖의 여덟 가지 속성을 공개 보고해야 한다."
+                "x": "희귀질환 진단은 표현형 분석에서 출발한다. 그런데 임상 기록에서 구조화된 표현형을 손으로 정리하려면 품이 많이 들고 규모를 키우기도 어렵다. 기존 AI 방식은 개별 구성 요소만 다듬을 뿐 전체 워크플로를 실제 운영까지 끌고 가지 못했다."
               },
               {
                 "t": "p",
-                "x": "35개 개발사의 보고는 일관성이 없고 불완전한 경우가 많았으며 구조와 세부 수준도 제각각이었다. 그런데도 모든 개발사가 요건 충족 인증을 받았다. 보고를 표준화하고 인증 심사를 더 엄격히 해야 한다는 결과다."
+                "x": "연구진이 개발한 RARE-PHENIX는 엔드투엔드 AI 프레임워크다. 대규모 언어 모델로 표현형을 추출하고, 온톨로지에 근거해 Human Phenotype Ontology(HPO) 용어로 표준화하고, 지도 학습으로 HPO 용어의 순위를 매기는 단계를 하나로 묶었다."
+              },
+              {
+                "t": "p",
+                "x": "학습에는 Undiagnosed Diseases Network 11개 기관의 환자 2,671명 데이터를 썼고, 외부 검증은 Vanderbilt University Medical Center 환자 143명의 임상 기록 16,357건으로 했다. 순위가 매겨진 HPO 용어는 임상의 큐레이션과 높게 일치했다. 사람이 개입하는 human-in-the-loop 표현형 분석을 현장에서 뒷받침할 만하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EHR開発企業の\nAIリスク透明性を監査",
-          "body": "EHR開発元35社のAIリスク報告は不統一で不完全なことが多いが、全社が適合と認証された。",
-          "mini_headline": "EHRのAI透明性監査",
+          "headline": "LLM枠組みが診療記録から\n希少疾患の表現型を抽出",
+          "body": "LLM枠組みが診療録から希少疾患の表現型を順位付けし、臨床医のキュレーションとよく一致した。",
+          "mini_headline": "LLMsで希少疾患を表現型解析",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究者らは、AI-enabledの予測型意思決定支援介入に関する連邦の透明性要件を、電子健康記録(EHR)開発企業が遵守しているかを評価した。開発企業は、リスク分析、リスク軽減、ガバナンスに加え、その他八つの属性について公開報告することが求められている。"
+                "x": "表現型解析は希少疾患の診断に欠かせないが、臨床記録から構造化された表現型を手作業でまとめるのは手間がかかり、規模を広げにくい。既存のAI手法は個々の構成要素を最適化するものの、ワークフロー全体を運用に落とし込めていない。"
               },
               {
                 "t": "p",
-                "x": "35社の報告は一貫性がなく、不完全なことが多く、構成や詳細さにも大きなばらつきがあったが、全社が要件を満たすと認証されていた。結果は、報告の標準化とより厳格な認証審査の必要性を示唆している。"
+                "x": "研究チームは、大規模言語モデルによる表現型抽出、オントロジーに基づくHuman Phenotype Ontology（HPO）用語への標準化、HPO用語の教師あり順位付けを組み合わせたエンドツーエンドのAIフレームワーク「RARE-PHENIX」を開発した。"
+              },
+              {
+                "t": "p",
+                "x": "このフレームワークは、Undiagnosed Diseases Networkの11施設の患者2,671人のデータで学習し、Vanderbilt University Medical Centerの患者143人の臨床記録16,357件で外部検証された。優先順位付けされたHPO用語は臨床医のキュレーションと高い一致を示し、実臨床でのhuman-in-the-loop型の表現型解析を支えうる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "审视EHR开发商的\nAI风险透明度",
-          "body": "35家EHR开发商的AI风险报告参差不齐且常不完整,但全部获认证合规。",
-          "mini_headline": "EHR AI透明度审查",
+          "headline": "LLM框架从临床记录\n提取罕见病表型",
+          "body": "一个LLM框架将临床记录转化为排序后的罕见病表型，结果与临床医生的人工整理高度一致。",
+          "mini_headline": "LLMs为罕见病做表型分析",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员评估了电子健康记录(EHR)开发商对联邦关于AI-enabled预测性决策支持干预的透明度要求的遵守情况。开发商须公开报告风险分析、风险缓解、治理以及其他八项属性。"
+                "x": "表型分析是罕见病诊断的基础，但从临床记录中人工整理结构化表型费时费力，也难以规模化。现有AI方法只优化了单个环节，未能让完整工作流程真正投入运行。"
               },
               {
                 "t": "p",
-                "x": "在35家开发商中,报告不一致且往往不完整,结构和细节差异很大,但所有开发商都被认证为符合要求。结果表明需要标准化报告和更严格的认证审查。"
+                "x": "研究人员开发了端到端AI框架RARE-PHENIX，它结合了基于大语言模型的表型提取、基于本体映射到Human Phenotype Ontology（HPO）术语的标准化，以及HPO术语的监督排序。"
+              },
+              {
+                "t": "p",
+                "x": "该框架使用Undiagnosed Diseases Network 11个站点2,671名患者的数据进行训练，并在Vanderbilt University Medical Center 143名患者的16,357份临床记录上进行了外部验证。其优先排序的HPO术语与临床医生的人工整理高度一致，有望在真实世界中支持human-in-the-loop表型分析。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Auditoría a desarrolladores de\nEHR sobre transparencia en AI",
-          "body": "En 35 desarrolladores de EHR, los informes de riesgo de AI fueron dispares e incompletos, pero todos se certificaron.",
-          "mini_headline": "Auditoría de transparencia en AI de EHR",
+          "headline": "Un marco LLM mapea rasgos de\nenfermedades raras en notas",
+          "body": "Un marco LLM pasa notas clínicas a fenotipos de enfermedades raras ordenados y muy acordes con la curación médica.",
+          "mini_headline": "LLMs para fenotipar enfermedades raras",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los investigadores evaluaron el cumplimiento, por parte de los desarrolladores de historias clínicas electrónicas (EHR), de los requisitos federales de transparencia para intervenciones AI-enabled de apoyo a la decisión predictiva. Los desarrolladores deben informar públicamente sobre análisis de riesgos, mitigación, gobernanza y otros ocho atributos."
+                "x": "El fenotipado es fundamental para diagnosticar enfermedades raras, pero curar manualmente fenotipos estructurados a partir de notas clínicas exige mucho trabajo y es difícil de escalar. Los enfoques de AI existentes optimizan componentes individuales, pero no ponen en práctica el flujo de trabajo completo."
               },
               {
                 "t": "p",
-                "x": "En los 35 desarrolladores, los informes fueron inconsistentes y a menudo incompletos, con una variación sustancial en estructura y detalle; aun así, todos fueron certificados como conformes con los requisitos. Los resultados sugieren la necesidad de informes estandarizados y de una revisión de certificación más rigurosa."
+                "x": "Los investigadores desarrollaron RARE-PHENIX, un marco de AI de extremo a extremo que combina la extracción de fenotipos basada en modelos de lenguaje de gran tamaño, la estandarización anclada en ontologías a términos de la Human Phenotype Ontology (HPO) y la jerarquización supervisada de términos HPO."
+              },
+              {
+                "t": "p",
+                "x": "Se entrenó con datos de 2,671 pacientes de 11 centros de la Undiagnosed Diseases Network y se validó externamente con 16,357 notas clínicas de 143 pacientes del Vanderbilt University Medical Center. Sus términos HPO priorizados mostraron una alta concordancia con la curación clínica, y podría apoyar el fenotipado human-in-the-loop en entornos reales."
               }
             ]
           }
@@ -1247,73 +767,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EHR 개발사의\nAI 위험 투명성 점검",
-          "body": "EHR 개발사 35곳의 AI 위험 보고는 들쭉날쭉했지만 모두 적합 인증을 받았다.",
-          "mini_headline": "EHR AI 투명성 감사",
+          "headline": "LLM 프레임워크가\n기록서 희귀질환 특징 뽑아",
+          "body": "LLM 프레임워크가 기록에서 뽑은 희귀질환 표현형 순위는 임상의 큐레이션과 맞았다.",
+          "mini_headline": "LLMs로 희귀질환 표현형 추출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진은 AI-enabled 예측형 의사결정 지원 개입에 대한 연방 투명성 요건을 전자건강기록(EHR) 개발사들이 얼마나 준수하는지 평가했다. 개발사는 위험 분석, 위험 완화, 거버넌스와 그 밖의 여덟 가지 속성을 공개적으로 보고해야 한다."
+                "x": "표현형 분석은 희귀질환 진단의 기본이지만, 임상 기록에서 구조화된 표현형을 손으로 정리하는 일은 품이 많이 들고 규모를 키우기 어렵다. 기존 AI 방식은 개별 구성 요소를 최적화할 뿐 전체 워크플로를 실제 운영으로 옮기지는 못한다."
               },
               {
                 "t": "p",
-                "x": "35개 개발사의 보고는 일관성이 없고 불완전한 경우가 많았으며 구조와 세부 수준에서도 차이가 컸지만, 모든 개발사가 요건을 충족한 것으로 인증받았다. 결과는 보고 표준화와 더 엄격한 인증 심사가 필요함을 시사한다."
+                "x": "연구진은 대규모 언어 모델 기반 표현형 추출, 온톨로지에 근거한 Human Phenotype Ontology(HPO) 용어 표준화, HPO 용어의 지도 학습 기반 순위화를 결합한 엔드투엔드 AI 프레임워크 RARE-PHENIX를 개발했다."
+              },
+              {
+                "t": "p",
+                "x": "이 프레임워크는 Undiagnosed Diseases Network 11개 기관의 환자 2,671명 데이터로 학습했고, Vanderbilt University Medical Center 환자 143명의 임상 기록 16,357건으로 외부 검증을 거쳤다. 우선순위를 매긴 HPO 용어는 임상의 큐레이션과 높은 일치도를 보였으며, 실제 현장에서 사람이 개입하는 human-in-the-loop 표현형 분석을 뒷받침할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EHR開発企業の\nAIリスク透明性を監査",
-          "body": "EHR開発元35社のAIリスク報告は不統一で不完全なことが多いが、全社が適合と認証された。",
-          "mini_headline": "EHRのAI透明性監査",
+          "headline": "LLM枠組みが診療記録から\n希少疾患の表現型を抽出",
+          "body": "LLM枠組みが診療録から希少疾患の表現型を順位付けし、臨床医のキュレーションとよく一致した。",
+          "mini_headline": "LLMsで希少疾患を表現型解析",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究者らは、AI-enabledの予測型意思決定支援介入に関する連邦の透明性要件を、電子健康記録(EHR)開発企業が遵守しているかを評価した。開発企業は、リスク分析、リスク軽減、ガバナンスに加え、その他八つの属性について公開報告することが求められている。"
+                "x": "表現型解析は希少疾患の診断に欠かせないが、臨床記録から構造化された表現型を手作業でまとめるのは手間がかかり、規模を広げにくい。既存のAI手法は個々の構成要素を最適化するものの、ワークフロー全体を運用に落とし込めていない。"
               },
               {
                 "t": "p",
-                "x": "35社の報告は一貫性がなく、不完全なことが多く、構成や詳細さにも大きなばらつきがあったが、全社が要件を満たすと認証されていた。結果は、報告の標準化とより厳格な認証審査の必要性を示唆している。"
+                "x": "研究チームは、大規模言語モデルによる表現型抽出、オントロジーに基づくHuman Phenotype Ontology（HPO）用語への標準化、HPO用語の教師あり順位付けを組み合わせたエンドツーエンドのAIフレームワーク「RARE-PHENIX」を開発した。"
+              },
+              {
+                "t": "p",
+                "x": "このフレームワークは、Undiagnosed Diseases Networkの11施設の患者2,671人のデータで学習し、Vanderbilt University Medical Centerの患者143人の臨床記録16,357件で外部検証された。優先順位付けされたHPO用語は臨床医のキュレーションと高い一致を示し、実臨床でのhuman-in-the-loop型の表現型解析を支えうる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "审视EHR开发商的\nAI风险透明度",
-          "body": "35家EHR开发商的AI风险报告参差不齐且常不完整,但全部获认证合规。",
-          "mini_headline": "EHR AI透明度审查",
+          "headline": "LLM框架从临床记录\n提取罕见病表型",
+          "body": "一个LLM框架将临床记录转化为排序后的罕见病表型，结果与临床医生的人工整理高度一致。",
+          "mini_headline": "LLMs为罕见病做表型分析",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员评估了电子健康记录(EHR)开发商对联邦关于AI-enabled预测性决策支持干预的透明度要求的遵守情况。开发商须公开报告风险分析、风险缓解、治理以及其他八项属性。"
+                "x": "表型分析是罕见病诊断的基础，但从临床记录中人工整理结构化表型费时费力，也难以规模化。现有AI方法只优化了单个环节，未能让完整工作流程真正投入运行。"
               },
               {
                 "t": "p",
-                "x": "在35家开发商中,报告不一致且往往不完整,结构和细节差异很大,但所有开发商都被认证为符合要求。结果表明需要标准化报告和更严格的认证审查。"
+                "x": "研究人员开发了端到端AI框架RARE-PHENIX，它结合了基于大语言模型的表型提取、基于本体映射到Human Phenotype Ontology（HPO）术语的标准化，以及HPO术语的监督排序。"
+              },
+              {
+                "t": "p",
+                "x": "该框架使用Undiagnosed Diseases Network 11个站点2,671名患者的数据进行训练，并在Vanderbilt University Medical Center 143名患者的16,357份临床记录上进行了外部验证。其优先排序的HPO术语与临床医生的人工整理高度一致，有望在真实世界中支持human-in-the-loop表型分析。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Auditoría a desarrolladores de\nEHR sobre transparencia en AI",
-          "body": "En 35 desarrolladores de EHR, los informes de riesgo de AI fueron dispares e incompletos, pero todos se certificaron.",
-          "mini_headline": "Auditoría de transparencia en AI de EHR",
+          "headline": "Un marco LLM mapea rasgos de\nenfermedades raras en notas",
+          "body": "Un marco LLM pasa notas clínicas a fenotipos de enfermedades raras ordenados y muy acordes con la curación médica.",
+          "mini_headline": "LLMs para fenotipar enfermedades raras",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los investigadores evaluaron el cumplimiento, por parte de los desarrolladores de historias clínicas electrónicas (EHR), de los requisitos federales de transparencia para intervenciones AI-enabled de apoyo a la decisión predictiva. Los desarrolladores deben informar públicamente sobre análisis de riesgos, mitigación, gobernanza y otros ocho atributos."
+                "x": "El fenotipado es fundamental para diagnosticar enfermedades raras, pero curar manualmente fenotipos estructurados a partir de notas clínicas exige mucho trabajo y es difícil de escalar. Los enfoques de AI existentes optimizan componentes individuales, pero no ponen en práctica el flujo de trabajo completo."
               },
               {
                 "t": "p",
-                "x": "En los 35 desarrolladores, los informes fueron inconsistentes y a menudo incompletos, con una variación sustancial en estructura y detalle; aun así, todos fueron certificados como conformes con los requisitos. Los resultados sugieren la necesidad de informes estandarizados y de una revisión de certificación más rigurosa."
+                "x": "Los investigadores desarrollaron RARE-PHENIX, un marco de AI de extremo a extremo que combina la extracción de fenotipos basada en modelos de lenguaje de gran tamaño, la estandarización anclada en ontologías a términos de la Human Phenotype Ontology (HPO) y la jerarquización supervisada de términos HPO."
+              },
+              {
+                "t": "p",
+                "x": "Se entrenó con datos de 2,671 pacientes de 11 centros de la Undiagnosed Diseases Network y se validó externamente con 16,357 notas clínicas de 143 pacientes del Vanderbilt University Medical Center. Sus términos HPO priorizados mostraron una alta concordancia con la curación clínica, y podría apoyar el fenotipado human-in-the-loop en entornos reales."
               }
             ]
           }
@@ -1321,189 +857,141 @@
       }
     },
     {
-      "id": "medicine-state-ai-lobbying",
+      "id": "medicine-ed-forecast",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AMA·로비 단체\n자율 임상 AI 규칙 각축",
-      "body": "AMA·Anthropic 포함 FSMB 패널이 의사 감독 적은 AI 지침을 쓴다.",
-      "mini_headline": "자율 임상 AI 규제 공방",
       "tool": "Medicine",
-      "source": "STAT",
-      "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
+      "eyebrow": "AI NEWS",
+      "headline": "AI, 시간별 ED 수요\n사회적 결정요인으로 예측",
+      "body": "AI가 사회적 결정요인과 날씨로 시간별 ED 내원을 내다봐 인력 배치를 돕는다.",
+      "mini_headline": "시간별 ED 수요 예측",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03378-8",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+            "t": "p",
+            "x": "응급실 혼잡은 치료 지연, 사망률 증가와 맞물려 있다. 인력을 미리 배치하려면 믿을 만한 단기 수요 예측이 있어야 한다. 지금 현장에서 쓰는 모델은 대부분 시간 패턴이나 날씨 패턴에 기댄다."
           },
           {
             "t": "p",
-            "x": "의사와 병원을 대변하는 유력 로비 단체, 건강보험사 한 곳, 기술 기업, 주 정부 대표들이 시월 초 Washington, D.C.에서 비공개로 만나 의료 현장의 인공지능을 어떻게 규제할지 지침을 다듬었다."
+            "x": "연구진은 지역사회 단위로 본 건강의 사회적 결정요인(SDoH)이 날씨보다 시간별 ED 수요를 더 잘 예측하게 해 주는지 XGBoost로 따져 봤다. 중국 우한의 한 3차 교육병원 내원 213,138건을 시간별 관측치 22,883개로 묶어 썼다."
           },
           {
             "t": "p",
-            "x": "American Medical Association(미국의사협회), American Hospital Association(미국병원협회), AI 기업 Anthropic, 보험사 Elevance Health의 임원들이 Federation of State Medical Boards(FSMB, 주의료위원회연맹)가 꾸린 22명 규모(22-member)의 AI 워킹그룹에 들어가 있다. 권고안은 공식 채택에 앞서 의견 수렴을 거친다."
-          },
-          {
-            "t": "p",
-            "x": "FSMB 회장 겸 CEO Humayun Chaudhry는 STAT에 지역 의료위원회를 도울 지침 초안을 만드는 게 목표라며, “의사의 직접 감독이 제한적이거나 전혀 없는 상태에서 임상 기능을 수행하는 AI 도구에 … 특별한 주의를” 기울인다고 말했다. 초안은 “몇 주에서 몇 달” 안에 나올 수 있고, 나중에는 주 법안의 토대가 될 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "AMA, 의료위원회, 한 보수 성향 싱크탱크는 자율 임상 AI 규제의 주도권을 두고 다투는 중이다. 기사의 나머지는 STAT+ 구독자용이다."
+            "x": "동적 SDoH 특성을 넣은 모델은 날씨만 쓴 모델을 일관되게 앞섰다. 복합 모델의 RMSE는 3.48, MAE는 시간당 방문 2.62건(R² 0.68)이었다. 시간당 환자 약 2~3명꼴로 빗나간 셈이다. 단기 인력 배치와 수용 능력 계획에 실제로 써 볼 만한 수준이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AMA and lobbyists jostle over\nautonomous clinical AI rules",
-          "body": "An FSMB panel with the AMA and Anthropic is drafting state guidance for AI used with little or no physician oversight.",
-          "mini_headline": "Fight over autonomous clinical AI",
+          "headline": "AI predicts hourly ED demand\nusing social determinants",
+          "body": "An AI model forecasts hourly ED arrivals using social determinants and weather to staff ahead of crowding.",
+          "mini_headline": "Hourly ED demand forecast",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+                "t": "p",
+                "x": "Emergency department crowding is associated with delayed treatment and increased mortality, and proactive staffing requires reliable short-term demand forecasts. Most operational models rely on temporal or weather patterns."
               },
               {
                 "t": "p",
-                "x": "Influential lobbying groups for doctors and hospitals, a health insurer, technology companies, and representatives from state governments met behind closed doors in Washington, D.C., in early October to develop guidelines for how to regulate artificial intelligence in the practice of medicine."
+                "x": "Researchers tested whether community-level social determinants of health (SDoH) improve hourly ED demand prediction compared with weather, using XGBoost on 213,138 encounters aggregated into 22,883 hourly observations at a tertiary teaching hospital in Wuhan, China."
               },
               {
                 "t": "p",
-                "x": "Executives from the American Medical Association, American Hospital Association, AI company Anthropic, and insurer Elevance Health are part of a 22-member AI workgroup convened by the Federation of State Medical Boards (FSMB). Its recommendations would be open for feedback before being formally adopted."
-              },
-              {
-                "t": "p",
-                "x": "The goal is to draft guidelines to aid local medical boards, with \"particular attention … to AI tools that perform clinical functions with limited or no direct physician supervision,\" FSMB president and CEO Humayun Chaudhry told STAT. A draft could be made public in \"weeks to months\" and could ultimately form the basis of state legislation."
-              },
-              {
-                "t": "p",
-                "x": "The AMA, medical boards, and a conservative think tank are all jostling to control how autonomous clinical AI is regulated. The rest of the story is for STAT+ subscribers."
+                "x": "Models with dynamic SDoH features consistently outperformed weather-only models. The composite model reached an RMSE of 3.48 and an MAE of 2.62 visits per hour (R² 0.68), errors of about 2 to 3 patients per hour, suggesting practical use for short-term staffing and capacity planning."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AMA·로비 단체\n자율 임상 AI 규칙 각축",
-          "body": "AMA·Anthropic 포함 FSMB 패널이 의사 감독 적은 AI 지침을 쓴다.",
-          "mini_headline": "자율 임상 AI 규제 공방",
+          "headline": "AI, 시간별 ED 수요\n사회적 결정요인으로 예측",
+          "body": "AI가 사회적 결정요인과 날씨로 시간별 ED 내원을 내다봐 인력 배치를 돕는다.",
+          "mini_headline": "시간별 ED 수요 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+                "t": "p",
+                "x": "응급실 혼잡은 치료 지연, 사망률 증가와 맞물려 있다. 인력을 미리 배치하려면 믿을 만한 단기 수요 예측이 있어야 한다. 지금 현장에서 쓰는 모델은 대부분 시간 패턴이나 날씨 패턴에 기댄다."
               },
               {
                 "t": "p",
-                "x": "의사와 병원을 대변하는 유력 로비 단체, 건강보험사 한 곳, 기술 기업, 주 정부 대표들이 시월 초 Washington, D.C.에서 비공개로 만나 의료 현장의 인공지능을 어떻게 규제할지 지침을 다듬었다."
+                "x": "연구진은 지역사회 단위로 본 건강의 사회적 결정요인(SDoH)이 날씨보다 시간별 ED 수요를 더 잘 예측하게 해 주는지 XGBoost로 따져 봤다. 중국 우한의 한 3차 교육병원 내원 213,138건을 시간별 관측치 22,883개로 묶어 썼다."
               },
               {
                 "t": "p",
-                "x": "American Medical Association(미국의사협회), American Hospital Association(미국병원협회), AI 기업 Anthropic, 보험사 Elevance Health의 임원들이 Federation of State Medical Boards(FSMB, 주의료위원회연맹)가 꾸린 22명 규모(22-member)의 AI 워킹그룹에 들어가 있다. 권고안은 공식 채택에 앞서 의견 수렴을 거친다."
-              },
-              {
-                "t": "p",
-                "x": "FSMB 회장 겸 CEO Humayun Chaudhry는 STAT에 지역 의료위원회를 도울 지침 초안을 만드는 게 목표라며, “의사의 직접 감독이 제한적이거나 전혀 없는 상태에서 임상 기능을 수행하는 AI 도구에 … 특별한 주의를” 기울인다고 말했다. 초안은 “몇 주에서 몇 달” 안에 나올 수 있고, 나중에는 주 법안의 토대가 될 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "AMA, 의료위원회, 한 보수 성향 싱크탱크는 자율 임상 AI 규제의 주도권을 두고 다투는 중이다. 기사의 나머지는 STAT+ 구독자용이다."
+                "x": "동적 SDoH 특성을 넣은 모델은 날씨만 쓴 모델을 일관되게 앞섰다. 복합 모델의 RMSE는 3.48, MAE는 시간당 방문 2.62건(R² 0.68)이었다. 시간당 환자 약 2~3명꼴로 빗나간 셈이다. 단기 인력 배치와 수용 능력 계획에 실제로 써 볼 만한 수준이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AMAとロビー団体、\n自律型臨床AIの規則で攻防",
-          "body": "AMAとAnthropicを含むFSMBの部会が医師の監督が乏しいAIの州指針を策定中だ。",
-          "mini_headline": "自律型臨床AIをめぐる攻防",
+          "headline": "AIが時間別ED需要を予測\n社会的決定要因を活用",
+          "body": "AIモデルが社会的決定要因と天候から時間別のED来院数を予測し、人員配置に役立てる。",
+          "mini_headline": "時間別のED需要予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+                "t": "p",
+                "x": "救急外来の混雑は治療の遅れや死亡率の上昇と関連しており、先回りした人員配置には信頼できる短期需要予測が欠かせない。運用中のモデルの多くは、時間的なパターンや天候パターンに頼っている。"
               },
               {
                 "t": "p",
-                "x": "医師や病院の有力ロビー団体、ある医療保険会社、テクノロジー企業、州政府の代表者が十月上旬にWashington, D.C.で非公開の会合を開き、医療現場における人工知能の規制方法に関する指針づくりを進めた。"
+                "x": "研究チームは、中国・武漢の3次教育病院における213,138件の受診を22,883件の時間別観測値に集約し、XGBoostを用いて、地域レベルの健康の社会的決定要因（SDoH）が天候と比べて時間別のED需要予測を改善するかを検証した。"
               },
               {
                 "t": "p",
-                "x": "American Medical Association(米国医師会)、American Hospital Association(米国病院協会)、AI企業のAnthropic、保険会社Elevance Healthの幹部が、Federation of State Medical Boards(FSMB、州医事委員会連合)が招集した22人規模(22-member)のAIワーキンググループに参加している。その提言は正式採択の前に意見募集にかけられる。"
-              },
-              {
-                "t": "p",
-                "x": "目標は地域の医事委員会を支援する指針の草案づくりで、「医師による直接の監督が限られる、あるいはまったくない状態で臨床機能を果たすAIツールに…特に注意を払う」と、FSMB会長兼CEOのHumayun ChaudhryはSTATに語った。草案は「数週間から数か月」で公開される可能性があり、最終的に州法の基礎となり得る。"
-              },
-              {
-                "t": "p",
-                "x": "AMA、医事委員会、ある保守系シンクタンクが、自律型臨床AIの規制のあり方の主導権をめぐって競り合っている。記事の続きはSTAT+購読者向けである。"
+                "x": "動的なSDoH特徴量を含むモデルは、天候のみのモデルを一貫して上回った。複合モデルはRMSE 3.48、MAE 1時間当たり2.62件（R² 0.68）を達成し、誤差は1時間当たり約2〜3人だった。短期的な人員配置や受け入れ能力の計画に実用できる可能性を示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AMA与游说团体角力\n自主临床AI规则",
-          "body": "有AMA和Anthropic参与的FSMB小组正为极少或无医生监督的AI起草州级指南。",
-          "mini_headline": "自主临床AI之争",
+          "headline": "AI按小时预测ED需求\n借助社会决定因素",
+          "body": "一个AI模型利用社会决定因素和天气逐小时预测ED就诊量，以便在拥挤前调配人手。",
+          "mini_headline": "逐小时ED需求预测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+                "t": "p",
+                "x": "急诊科拥挤与治疗延误和死亡率上升相关，而主动排班需要可靠的短期需求预测。目前投入运行的模型大多依赖时间或天气规律。"
               },
               {
                 "t": "p",
-                "x": "代表医生和医院的有影响力的游说团体、一家健康保险公司、科技企业以及州政府代表于十月初在Washington, D.C.闭门开会,为如何监管医疗实践中的人工智能制定指南。"
+                "x": "研究人员在中国武汉一家三级教学医院，将213,138次就诊汇总为22,883个逐小时观测值，用XGBoost检验社区层面的健康社会决定因素（SDoH）相比天气能否改进逐小时ED需求预测。"
               },
               {
                 "t": "p",
-                "x": "American Medical Association(美国医学会)、American Hospital Association(美国医院协会)、AI公司Anthropic以及保险公司Elevance Health的高管,均是Federation of State Medical Boards(FSMB,州医学委员会联合会)召集的22人(22-member)AI工作组成员。其建议在正式采纳前将公开征求意见。"
-              },
-              {
-                "t": "p",
-                "x": "FSMB总裁兼CEO Humayun Chaudhry对STAT表示,目标是起草指南以协助地方医学委员会,并“特别关注…在医生直接监督有限或完全没有的情况下执行临床功能的AI工具”。草案可能在“数周到数月”内公开,并可能最终成为州立法的基础。"
-              },
-              {
-                "t": "p",
-                "x": "AMA、医学委员会和一家保守派智库都在争夺自主临床AI监管方式的主导权。报道其余部分仅供STAT+订阅者阅读。"
+                "x": "纳入动态SDoH特征的模型始终优于仅用天气的模型。综合模型的RMSE为3.48，MAE为每小时2.62人次（R² 0.68），误差约为每小时2至3名患者，表明可实际用于短期排班和容量规划。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AMA y lobbies se disputan\nreglas de AI clínica autónoma",
-          "body": "Un panel de la FSMB con AMA y Anthropic redacta guías estatales para AI usada con poca o ninguna supervisión médica.",
-          "mini_headline": "Pugna por la AI clínica autónoma",
+          "headline": "La AI predice la demanda del ED\npor hora con factores sociales",
+          "body": "Un modelo de AI prevé visitas horarias al ED con determinantes sociales y clima para dotar personal ante la saturación.",
+          "mini_headline": "Previsión horaria de demanda en el ED",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+                "t": "p",
+                "x": "La saturación de los servicios de urgencias se asocia con retrasos en el tratamiento y mayor mortalidad, y planificar el personal de forma proactiva requiere previsiones fiables de la demanda a corto plazo. La mayoría de los modelos operativos se basan en patrones temporales o meteorológicos."
               },
               {
                 "t": "p",
-                "x": "Influyentes grupos de presión de médicos y hospitales, una aseguradora de salud, empresas tecnológicas y representantes de gobiernos estatales se reunieron a puerta cerrada en Washington, D.C., a principios de octubre para elaborar pautas sobre cómo regular la inteligencia artificial en la práctica médica."
+                "x": "Los investigadores evaluaron si los determinantes sociales de la salud (SDoH) a nivel comunitario mejoran la predicción horaria de la demanda del ED frente al clima, usando XGBoost con 213,138 atenciones agregadas en 22,883 observaciones horarias en un hospital universitario de tercer nivel en Wuhan, China."
               },
               {
                 "t": "p",
-                "x": "Directivos de la American Medical Association, la American Hospital Association, la empresa de AI Anthropic y la aseguradora Elevance Health forman parte de un grupo de trabajo de AI de 22 miembros (22-member) convocado por la Federation of State Medical Boards (FSMB). Sus recomendaciones se someterían a comentarios antes de su adopción formal."
-              },
-              {
-                "t": "p",
-                "x": "El objetivo es redactar pautas que ayuden a las juntas médicas locales, con «especial atención … a las herramientas de AI que realizan funciones clínicas con supervisión médica directa limitada o nula», dijo a STAT Humayun Chaudhry, presidente y CEO de la FSMB. Un borrador podría hacerse público en «semanas o meses» y, en última instancia, servir de base para la legislación estatal."
-              },
-              {
-                "t": "p",
-                "x": "La AMA, las juntas médicas y un think tank conservador compiten por controlar cómo se regula la AI clínica autónoma. El resto del artículo es para suscriptores de STAT+."
+                "x": "Los modelos con variables dinámicas de SDoH superaron de forma sistemática a los modelos solo con clima. El modelo compuesto alcanzó un RMSE de 3.48 y un MAE de 2.62 visitas por hora (R² 0.68), errores de unos 2 a 3 pacientes por hora, lo que sugiere un uso práctico para la planificación de personal y capacidad a corto plazo."
               }
             ]
           }
@@ -1511,121 +999,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AMA·로비 단체\n자율 임상 AI 규칙 각축",
-          "body": "AMA·Anthropic 포함 FSMB 패널이 의사 감독 적은 AI 지침을 쓴다.",
-          "mini_headline": "자율 임상 AI 규제 공방",
+          "headline": "AI, 시간별 ED 수요\n사회적 결정요인으로 예측",
+          "body": "AI가 사회적 결정요인과 날씨로 시간별 ED 내원을 예측해 인력 배치를 돕는다.",
+          "mini_headline": "시간별 ED 수요 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+                "t": "p",
+                "x": "응급실 혼잡은 치료 지연, 사망률 증가와 관련이 있으며, 선제적으로 인력을 배치하려면 믿을 만한 단기 수요 예측이 필요하다. 현재 운영에 쓰이는 모델은 대부분 시간 패턴이나 날씨 패턴에 기댄다."
               },
               {
                 "t": "p",
-                "x": "의사와 병원을 대변하는 영향력 있는 로비 단체, 한 건강보험사, 기술 기업, 주 정부 대표들이 시월 초 Washington, D.C.에서 비공개로 만나 의료 현장의 인공지능 규제 방식에 관한 지침을 마련하는 작업을 했다."
+                "x": "연구진은 지역사회 수준의 건강의 사회적 결정요인(SDoH)이 날씨와 비교해 시간별 ED 수요 예측을 개선하는지 XGBoost로 검증했다. 데이터는 중국 우한의 한 3차 교육병원에서 나온 내원 213,138건을 시간별 관측치 22,883개로 집계한 것이다."
               },
               {
                 "t": "p",
-                "x": "American Medical Association(미국의사협회), American Hospital Association(미국병원협회), AI 기업 Anthropic, 보험사 Elevance Health의 임원들이 Federation of State Medical Boards(FSMB, 주의료위원회연맹)가 소집한 22명 규모(22-member)의 AI 워킹그룹에 참여하고 있다. 이 그룹의 권고안은 공식 채택 전에 의견 수렴을 거친다."
-              },
-              {
-                "t": "p",
-                "x": "FSMB 회장 겸 CEO Humayun Chaudhry는 STAT에 지역 의료위원회를 돕는 지침 초안을 만드는 것이 목표이며, “의사의 직접 감독이 제한적이거나 전혀 없는 상태에서 임상 기능을 수행하는 AI 도구에 … 특별한 주의를” 기울인다고 말했다. 초안은 “몇 주에서 몇 달” 안에 공개될 수 있으며, 궁극적으로 주 법안의 토대가 될 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "AMA, 의료위원회, 한 보수 성향 싱크탱크가 모두 자율 임상 AI 규제의 주도권을 놓고 각축을 벌이고 있다. 기사의 나머지는 STAT+ 구독자용이다."
+                "x": "동적 SDoH 특성을 넣은 모델은 날씨만 쓴 모델보다 일관되게 성능이 좋았다. 복합 모델의 RMSE는 3.48, MAE는 시간당 방문 2.62건(R² 0.68)으로, 오차는 시간당 환자 약 2~3명 수준이었다. 단기 인력 배치와 수용 능력 계획에 실제로 쓸 수 있음을 시사한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AMAとロビー団体、\n自律型臨床AIの規則で攻防",
-          "body": "AMAとAnthropicを含むFSMBの部会が医師の監督が乏しいAIの州指針を策定中だ。",
-          "mini_headline": "自律型臨床AIをめぐる攻防",
+          "headline": "AIが時間別ED需要を予測\n社会的決定要因を活用",
+          "body": "AIモデルが社会的決定要因と天候から時間別のED来院数を予測し、人員配置に役立てる。",
+          "mini_headline": "時間別のED需要予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+                "t": "p",
+                "x": "救急外来の混雑は治療の遅れや死亡率の上昇と関連しており、先回りした人員配置には信頼できる短期需要予測が欠かせない。運用中のモデルの多くは、時間的なパターンや天候パターンに頼っている。"
               },
               {
                 "t": "p",
-                "x": "医師や病院の有力ロビー団体、ある医療保険会社、テクノロジー企業、州政府の代表者が十月上旬にWashington, D.C.で非公開の会合を開き、医療現場における人工知能の規制方法に関する指針づくりを進めた。"
+                "x": "研究チームは、中国・武漢の3次教育病院における213,138件の受診を22,883件の時間別観測値に集約し、XGBoostを用いて、地域レベルの健康の社会的決定要因（SDoH）が天候と比べて時間別のED需要予測を改善するかを検証した。"
               },
               {
                 "t": "p",
-                "x": "American Medical Association(米国医師会)、American Hospital Association(米国病院協会)、AI企業のAnthropic、保険会社Elevance Healthの幹部が、Federation of State Medical Boards(FSMB、州医事委員会連合)が招集した22人規模(22-member)のAIワーキンググループに参加している。その提言は正式採択の前に意見募集にかけられる。"
-              },
-              {
-                "t": "p",
-                "x": "目標は地域の医事委員会を支援する指針の草案づくりで、「医師による直接の監督が限られる、あるいはまったくない状態で臨床機能を果たすAIツールに…特に注意を払う」と、FSMB会長兼CEOのHumayun ChaudhryはSTATに語った。草案は「数週間から数か月」で公開される可能性があり、最終的に州法の基礎となり得る。"
-              },
-              {
-                "t": "p",
-                "x": "AMA、医事委員会、ある保守系シンクタンクが、自律型臨床AIの規制のあり方の主導権をめぐって競り合っている。記事の続きはSTAT+購読者向けである。"
+                "x": "動的なSDoH特徴量を含むモデルは、天候のみのモデルを一貫して上回った。複合モデルはRMSE 3.48、MAE 1時間当たり2.62件（R² 0.68）を達成し、誤差は1時間当たり約2〜3人だった。短期的な人員配置や受け入れ能力の計画に実用できる可能性を示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AMA与游说团体角力\n自主临床AI规则",
-          "body": "有AMA和Anthropic参与的FSMB小组正为极少或无医生监督的AI起草州级指南。",
-          "mini_headline": "自主临床AI之争",
+          "headline": "AI按小时预测ED需求\n借助社会决定因素",
+          "body": "一个AI模型利用社会决定因素和天气逐小时预测ED就诊量，以便在拥挤前调配人手。",
+          "mini_headline": "逐小时ED需求预测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+                "t": "p",
+                "x": "急诊科拥挤与治疗延误和死亡率上升相关，而主动排班需要可靠的短期需求预测。目前投入运行的模型大多依赖时间或天气规律。"
               },
               {
                 "t": "p",
-                "x": "代表医生和医院的有影响力的游说团体、一家健康保险公司、科技企业以及州政府代表于十月初在Washington, D.C.闭门开会,为如何监管医疗实践中的人工智能制定指南。"
+                "x": "研究人员在中国武汉一家三级教学医院，将213,138次就诊汇总为22,883个逐小时观测值，用XGBoost检验社区层面的健康社会决定因素（SDoH）相比天气能否改进逐小时ED需求预测。"
               },
               {
                 "t": "p",
-                "x": "American Medical Association(美国医学会)、American Hospital Association(美国医院协会)、AI公司Anthropic以及保险公司Elevance Health的高管,均是Federation of State Medical Boards(FSMB,州医学委员会联合会)召集的22人(22-member)AI工作组成员。其建议在正式采纳前将公开征求意见。"
-              },
-              {
-                "t": "p",
-                "x": "FSMB总裁兼CEO Humayun Chaudhry对STAT表示,目标是起草指南以协助地方医学委员会,并“特别关注…在医生直接监督有限或完全没有的情况下执行临床功能的AI工具”。草案可能在“数周到数月”内公开,并可能最终成为州立法的基础。"
-              },
-              {
-                "t": "p",
-                "x": "AMA、医学委员会和一家保守派智库都在争夺自主临床AI监管方式的主导权。报道其余部分仅供STAT+订阅者阅读。"
+                "x": "纳入动态SDoH特征的模型始终优于仅用天气的模型。综合模型的RMSE为3.48，MAE为每小时2.62人次（R² 0.68），误差约为每小时2至3名患者，表明可实际用于短期排班和容量规划。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AMA y lobbies se disputan\nreglas de AI clínica autónoma",
-          "body": "Un panel de la FSMB con AMA y Anthropic redacta guías estatales para AI usada con poca o ninguna supervisión médica.",
-          "mini_headline": "Pugna por la AI clínica autónoma",
+          "headline": "La AI predice la demanda del ED\npor hora con factores sociales",
+          "body": "Un modelo de AI prevé visitas horarias al ED con determinantes sociales y clima para dotar personal ante la saturación.",
+          "mini_headline": "Previsión horaria de demanda en el ED",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg"
+                "t": "p",
+                "x": "La saturación de los servicios de urgencias se asocia con retrasos en el tratamiento y mayor mortalidad, y planificar el personal de forma proactiva requiere previsiones fiables de la demanda a corto plazo. La mayoría de los modelos operativos se basan en patrones temporales o meteorológicos."
               },
               {
                 "t": "p",
-                "x": "Influyentes grupos de presión de médicos y hospitales, una aseguradora de salud, empresas tecnológicas y representantes de gobiernos estatales se reunieron a puerta cerrada en Washington, D.C., a principios de octubre para elaborar pautas sobre cómo regular la inteligencia artificial en la práctica médica."
+                "x": "Los investigadores evaluaron si los determinantes sociales de la salud (SDoH) a nivel comunitario mejoran la predicción horaria de la demanda del ED frente al clima, usando XGBoost con 213,138 atenciones agregadas en 22,883 observaciones horarias en un hospital universitario de tercer nivel en Wuhan, China."
               },
               {
                 "t": "p",
-                "x": "Directivos de la American Medical Association, la American Hospital Association, la empresa de AI Anthropic y la aseguradora Elevance Health forman parte de un grupo de trabajo de AI de 22 miembros (22-member) convocado por la Federation of State Medical Boards (FSMB). Sus recomendaciones se someterían a comentarios antes de su adopción formal."
-              },
-              {
-                "t": "p",
-                "x": "El objetivo es redactar pautas que ayuden a las juntas médicas locales, con «especial atención … a las herramientas de AI que realizan funciones clínicas con supervisión médica directa limitada o nula», dijo a STAT Humayun Chaudhry, presidente y CEO de la FSMB. Un borrador podría hacerse público en «semanas o meses» y, en última instancia, servir de base para la legislación estatal."
-              },
-              {
-                "t": "p",
-                "x": "La AMA, las juntas médicas y un think tank conservador compiten por controlar cómo se regula la AI clínica autónoma. El resto del artículo es para suscriptores de STAT+."
+                "x": "Los modelos con variables dinámicas de SDoH superaron de forma sistemática a los modelos solo con clima. El modelo compuesto alcanzó un RMSE de 3.48 y un MAE de 2.62 visitas por hora (R² 0.68), errores de unos 2 a 3 pacientes por hora, lo que sugiere un uso práctico para la planificación de personal y capacidad a corto plazo."
               }
             ]
           }

@@ -7203,6 +7203,120 @@
           "x": "より大きな問題は、モッダーがMicrosoftのIPを持ち出して無料で公開する逆コンパイル・再コンパイルに、Microsoftがどう対応するかだ。Microsoftは掲載時点までに、無断のIP使用についてのコメント要請に応じなかった。"
         }
       ]
+    },
+    "games/games-shogun2-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Total War: Shogun 2 – Complete EditionはOctober 13に発売されたが、グラフィックの不具合、新旧のバグ、出来の悪いUI、そしてゲーム内アートへのAIアップスケーリングの無申告使用をめぐり、Steamで否定的なレビューが殺到した。Segaはオリジナル版の販売も停止し、価格を$40に引き上げていた。"
+        },
+        {
+          "t": "p",
+          "x": "「Total War: Shogun 2 – Complete Editionが皆さまの期待にも、私たち自身の基準にも届かなかったことを認識しています」とSegaはXに投稿した。調査を進める間、プラットフォーム各社と協力して本作を「一時的に」販売停止にし、以前のバージョンの販売を再開する予定だという。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
+          "cap": "© Creative Assembly / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "声明はゲームのアートワークのAIアップスケーリングには触れておらず、Steamページにも依然としてAI使用の申告がない。リメイク版は約2,000件のレビューのうち好評が17-percentにとどまっている。"
+        }
+      ]
+    },
+    "games/games-nemotron-bolt-skyrimnet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
+        },
+        {
+          "t": "p",
+          "x": "RTX Sparkノートが金曜日のOct. 16に発売され、数百本のゲームと、3D-Guided Neural Renderingを備えたDLSS 5に対応する。DLSS 5はOct. 23にRTX Remixにも導入される。"
+        },
+        {
+          "t": "p",
+          "x": "Nemotron 3.5 Bolt E4B 4GBは、ゲーム内AIエージェントを構築するためのスイートであるNVIDIA ACE向けの第3世代SLMだ。自然な会話とマルチターンのツール利用を組み合わせ、少ないメモリ消費と最初のトークンまでの速さを重視して設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "Oct. 23から、プレイヤーはSkyrimNETの中でこれを試せる。SkyrimNETはMinLLが手がけるSkyrim向けのAI NPC Modプラットフォームで、すべてのNPCを個人の記憶、声、自律性を持つ台本のないキャラクターに変える。"
+        },
+        {
+          "t": "p",
+          "x": "同じくOct. 23に公開されるRemix 1.6は、ComfyUI Version 2でAIテクスチャ生成を刷新し、ModderがAPIの設定なしにRTX Remix内でPBRマテリアルを生成できるようにする。"
+        }
+      ]
+    },
+    "games/games-bf6-paid-ai-cosmetics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Battlefield 6のSeason 5「Siege of Vegas」は、Area 51マップで称賛を集めた一方、シーズンパスのコスメティックはプレイヤーのgenAI警報を鳴らした。ホルスターに拳銃を5丁収めたオペレーター、奇妙なマガジンのデザイン、そして「Secuty」と書かれた腕のパッチだ。"
+        },
+        {
+          "t": "p",
+          "x": "サブレディットの投稿は数千の賛成票を集めている。「AI生成コンテンツでプレイヤーから$$$を取るのは最大級の侮辱だ」と、あるスレッドは書いた。"
+        },
+        {
+          "t": "p",
+          "x": "デザインがgenAIによるものだという確証はない。ただ、EAのこのシューターは以前にも発売から数か月後にAI-generatedとみられるコスメティックを配信しており、今年初めには一部のBattlefield開発者が解雇されている。"
+        }
+      ]
+    },
+    "games/games-shroud-zero-bugs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+        },
+        {
+          "t": "p",
+          "x": "TechJesseのポッドキャストで、Ultimaの生みの親Richard Garriottはこう語った。「これは非常に議論を呼ぶ話だが……AIは本当に役立っている。今では創作により近づける。今では、より少ない人数と短い時間で作れる」。さらに、AIの倫理的な利用は「本当に重要な問題だ」と付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "彼によれば、Shroud of the Avatarには常に千件ものバグがあり、三〜五年放置されたものもあった。「今はAIのおかげで、バグは見つかった途端、一時間以内に修正される」。このゲームは「今や毎日バグがゼロだ。ゼロ」だという。"
+        },
+        {
+          "t": "p",
+          "x": "動作の重さで評判の悪いゲームだけに、この主張は注目に値する。発売から八年たった今も定期的なアップデートが続いている。「アートは人間が担い、機械は労働を手伝える」とGarriottは言う。"
+        }
+      ]
+    },
+    "games/games-epic-launcher": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Epic GamesはPCゲームランチャーをプレビュー版として刷新し、新バージョンは「はるかに速く」、Linuxにも対応し、しかも「vibe coded（バイブコーディングで作られた）」ものだと述べた。Epicは「プログラミングは難しい。だから、それをする代わりに新しいEpic Games Launcherをバイブコーディングした」としている。"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games StoreとEpic Online ServicesのVP兼GMであるMartin KeelyはThe Vergeに「今回はAIをツールとして使った」と語った。AIはテストや「既存ランチャーの中核機能の再現」に「非常に役立ち」、Linux対応にも貢献したという。「コードはすべて間違いなくエージェントに書かせ、レビューさせた」と彼は言うが、チームは「自分たちが行ったことの全体を監督した」。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Epic Games Launcherに関する統計を示したスクリーンショット。"
+        },
+        {
+          "t": "p",
+          "x": "この発表は、CEOのTim Sweeneyが「AIによる加速を最大化するための態勢再編」に向けた「大転換」を表明したのに続くものだ。プレビュー版はWindows、Mac、Linuxで利用でき、旧ランチャーも引き続き使える。Epicはこのアプリを通じてFortniteをLinuxに提供する計画もある。"
+        }
+      ]
     }
   }
 }

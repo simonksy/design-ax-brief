@@ -1,24 +1,7 @@
-{
-  "date": "2026-10-15",
-  "section": "music",
+{ "date": "2026-10-16",
   "media": [
-    {
-      "id": "music-youtube-ai-labels",
-      "type": "image",
-      "src": "pipeline/media/music-youtube-ai-labels.jpg"
-    },
-    {
-      "id": "music-waveprompt",
-      "type": "image",
-      "src": "pipeline/media/music-waveprompt.jpg"
-    },
-    {
-      "id": "music-swift-voice-trademark",
-      "type": "svg"
-    },
-    {
-      "id": "music-raye-ai-bots",
-      "type": "svg"
-    }
-  ]
-}
+    {"id":"music-musebench","type":"image","src":"pipeline/media/music-musebench.png"},
+    {"id":"music-point-and-play","type":"image","src":"pipeline/media/music-point-and-play.png"},
+    {"id":"music-blackburn-kendrick","type":"video","src":"pipeline/media/music-blackburn-kendrick.mp4","poster":"pipeline/media/music-blackburn-kendrick.jpg"},
+    {"id":"music-awards-ai-age","type":"image","src":"pipeline/media/music-awards-ai-age.jpg"}
+  ] }

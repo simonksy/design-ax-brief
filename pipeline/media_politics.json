@@ -1,7 +1,11 @@
-{"date":"2026-10-15","section":"politics","media":[
-{"id":"politics-openai-states","type":"image","src":"pipeline/media/politics-openai-states.jpg"},
-{"id":"politics-eu-ai-office","type":"image","src":"pipeline/media/politics-eu-ai-office.jpg"},
-{"id":"politics-uk-ai-incidents","type":"image","src":"pipeline/media/politics-uk-ai-incidents.jpg"},
-{"id":"politics-msit-ai-data","type":"svg"},
-{"id":"politics-characterai-data","type":"image","src":"pipeline/media/politics-characterai-data.jpg"}
-]}
+{
+  "date": "2026-10-16",
+  "section": "politics",
+  "media": [
+    {"id": "politics-uk-deepfakes", "type": "image", "src": "pipeline/media/politics-uk-deepfakes.png"},
+    {"id": "politics-wh-si-challenge", "type": "svg"},
+    {"id": "politics-ai-safety-money", "type": "image", "src": "pipeline/media/politics-ai-safety-money.jpg"},
+    {"id": "politics-brazil-meta-ai", "type": "image", "src": "pipeline/media/politics-brazil-meta-ai.jpg"},
+    {"id": "politics-uae-k12-ai", "type": "image", "src": "pipeline/media/politics-uae-k12-ai.jpg"}
+  ]
+}

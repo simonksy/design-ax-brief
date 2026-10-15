@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-ai-studio-android",
+      "id": "gadgets-bee",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI Studio로 누구나\n무료 Android 앱",
-      "body": "AI Studio면 개발 경험이 없어도 누구나 Android 앱을 무료로 만든다.",
-      "mini_headline": "Prompt-built Android 앱, 무료",
       "tool": "Gadgets",
-      "source": "ZDNET",
-      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+      "eyebrow": "AI NEWS",
+      "headline": "Amazon의 Bee\nAI 기기 2종 $75부터",
+      "body": "인수된 뒤 Bee가 처음 내놓은 웨어러블과 카드형 폰 녹음기가 대화를 요약한다.",
+      "mini_headline": "Bee, AI 기기 2종 출시",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,179 +19,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-            "cap": "Google/ZDNET"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+            "cap": "이미지 출처: Amazon"
           },
           {
             "t": "p",
-            "x": "Google은 화요일, 일반 Google 계정만 있으면 코딩 경험이 없어도 누구나 Google AI Studio에서 개인용 Android 앱을 만들 수 있다고 발표했다. 앱은 Google Play의 비공개 영역을 거쳐 자기 기기에서 돌아가고, 공개 Play Store에는 올라가지 않는다."
+            "x": "개인용 AI 웨어러블 기업 Bee가 지난해 유통 대기업 Amazon에 인수된 뒤 첫 신제품을 내놓는다. 손목에 차거나 옷에 꽂는 Bee Frontier와, 스마트폰 뒷면에 자석으로 붙는 신용카드 크기의 Bee Eclipse다."
           },
           {
             "t": "p",
-            "x": "앞으로 몇 달 안에 가까운 가족과 친구에게도 앱을 공유할 수 있다. 반응이 좋은 앱이 나오면 Google은 Play Store로 전 세계에 내놓을 수 있게 “전문 개발자 계정으로 올라가는 경로”를 열어 준다."
+            "x": "Bee Frontier는 $74.99, Bee Eclipse는 $99.99다. $159인 Plaud Note나 $129인 Pocket보다 싸다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+            "cap": "이미지 출처: Amazon"
           },
           {
             "t": "p",
-            "x": "AI Studio의 기존 앱 제작 도구는 전문 개발자 계정용이라 PC에 연결해 USB 디버깅을 해야 한다. 새 도구도 같은 제작 도구를 쓰지만, 클릭 한 번이면 개인 기기에 앱이 깔린다. 원하는 것을 프롬프트로 설명하면 나머지는 AI가 맡고, 놓쳤을 법한 기능까지 제안한다. 그다음 가볍게 손보거나, 버리고 처음부터 다시 시작해도 된다. 실험하고 앱을 만드는 데 돈은 들지 않는다."
+            "x": "기존 Bee처럼 두 기기도 AI로 일상 대화를 기록해 할 일, 요약, 인사이트로 정리한다. 친구와 잡은 약속을 캘린더 초대로 바꿔 주는 식이다."
           },
           {
             "t": "p",
-            "x": "필자는 이 도구가 습관 추적기, 변환기, 타이머처럼 광고나 구독이 잔뜩 붙은 단일 목적 앱을 대체하리라 본다. 무엇보다 앱이 상업성을 갖추거나 남에게 쓸모 있을 필요가 없다. 나한테만 잘 돌아가면 그만이다."
+            "x": "요약 기능과 14일 분량의 메모리는 무료다. 월 $11.99짜리 Bee Pro를 구독하면 요약이 무제한으로 풀리고 Amazon.com, Alexa+, 서드파티 앱과도 연동된다."
+          },
+          {
+            "t": "p",
+            "x": "원본 오디오는 남기지 않는다. 실시간으로 처리하고 바로 지우며, 녹취록은 기기가 관리하는 키로 암호화한다. Frontier는 지금 Amazon에서 살 수 있고 Eclipse는 곧 뒤따라 나온다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google AI Studio now builds\npersonal Android apps for free",
-          "body": "Google's AI Studio lets anyone vibe code a personal Android app for free, with no developer experience required.",
-          "mini_headline": "Prompt-built Android apps, free",
+          "headline": "Amazon’s Bee launches two\nAI devices from $75",
+          "body": "Bee’s first post-acquisition devices, a new wearable and a card-sized phone recorder, summarize conversations.",
+          "mini_headline": "Bee launches two AI devices",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-                "cap": "Google/ZDNET"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+                "cap": "Image Credits: Amazon"
               },
               {
                 "t": "p",
-                "x": "Google announced on Tuesday that anyone with a standard Google account can build personal Android apps in Google AI Studio, with no coding experience. The apps run on your own device, launched from a private part of Google Play, and won't be included in the public Play Store."
+                "x": "Amazon’s personal AI wearable maker, Bee, is announcing its first new products since being acquired by the retail giant last year: the Bee Frontier, which can be worn on the wrist or pinned to clothes, and Bee Eclipse, a credit-card-sized device that magnetically attaches to the back of your smartphone."
               },
               {
                 "t": "p",
-                "x": "In the coming months you'll be able to share apps with close family and friends, and if one takes off, Google will provide a \"pipeline to graduate into a professional developer account\" to share it globally via the Play Store."
+                "x": "The Bee Frontier is $74.99 and the Bee Eclipse is $99.99 — cheaper than the $159 Plaud Note or the $129 Pocket."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+                "cap": "Image Credits: Amazon"
               },
               {
                 "t": "p",
-                "x": "AI Studio's existing app creator is meant for professional developer accounts and requires USB debugging connected to a PC. The new tool works with that same creator but installs your app on a personal device with a single click. You describe what you want in a prompt and AI does the rest, suggesting features you might have missed; you can make light edits afterwards or scrap it and start again. There's no charge to experiment and build an app."
+                "x": "Like the original Bee, the devices use AI to take notes from everyday conversations and turn them into to-dos, summaries, and insights — for example, creating a calendar invite for plans you made with friends."
               },
               {
                 "t": "p",
-                "x": "The author sees it replacing single-purpose apps loaded with ads or subscriptions, like a habit tracker, converter or timer. The big selling point: an app doesn't have to be commercially viable or needed by anyone else. It just has to work for you."
+                "x": "Summaries and 14 days of memory are free; an $11.99 per month Bee Pro subscription adds unlimited summaries and integrations with Amazon.com, Alexa+, and third-party apps."
+              },
+              {
+                "t": "p",
+                "x": "Raw audio isn’t stored: it is processed in real time and deleted, and transcripts are encrypted with keys the device controls. The Frontier is available now on Amazon; the Eclipse follows soon after."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI Studio로 누구나\n무료 Android 앱",
-          "body": "AI Studio면 개발 경험이 없어도 누구나 Android 앱을 무료로 만든다.",
-          "mini_headline": "Prompt-built Android 앱, 무료",
+          "headline": "Amazon의 Bee\nAI 기기 2종 $75부터",
+          "body": "인수된 뒤 Bee가 처음 내놓은 웨어러블과 카드형 폰 녹음기가 대화를 요약한다.",
+          "mini_headline": "Bee, AI 기기 2종 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-                "cap": "Google/ZDNET"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+                "cap": "이미지 출처: Amazon"
               },
               {
                 "t": "p",
-                "x": "Google은 화요일, 일반 Google 계정만 있으면 코딩 경험이 없어도 누구나 Google AI Studio에서 개인용 Android 앱을 만들 수 있다고 발표했다. 앱은 Google Play의 비공개 영역을 거쳐 자기 기기에서 돌아가고, 공개 Play Store에는 올라가지 않는다."
+                "x": "개인용 AI 웨어러블 기업 Bee가 지난해 유통 대기업 Amazon에 인수된 뒤 첫 신제품을 내놓는다. 손목에 차거나 옷에 꽂는 Bee Frontier와, 스마트폰 뒷면에 자석으로 붙는 신용카드 크기의 Bee Eclipse다."
               },
               {
                 "t": "p",
-                "x": "앞으로 몇 달 안에 가까운 가족과 친구에게도 앱을 공유할 수 있다. 반응이 좋은 앱이 나오면 Google은 Play Store로 전 세계에 내놓을 수 있게 “전문 개발자 계정으로 올라가는 경로”를 열어 준다."
+                "x": "Bee Frontier는 $74.99, Bee Eclipse는 $99.99다. $159인 Plaud Note나 $129인 Pocket보다 싸다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+                "cap": "이미지 출처: Amazon"
               },
               {
                 "t": "p",
-                "x": "AI Studio의 기존 앱 제작 도구는 전문 개발자 계정용이라 PC에 연결해 USB 디버깅을 해야 한다. 새 도구도 같은 제작 도구를 쓰지만, 클릭 한 번이면 개인 기기에 앱이 깔린다. 원하는 것을 프롬프트로 설명하면 나머지는 AI가 맡고, 놓쳤을 법한 기능까지 제안한다. 그다음 가볍게 손보거나, 버리고 처음부터 다시 시작해도 된다. 실험하고 앱을 만드는 데 돈은 들지 않는다."
+                "x": "기존 Bee처럼 두 기기도 AI로 일상 대화를 기록해 할 일, 요약, 인사이트로 정리한다. 친구와 잡은 약속을 캘린더 초대로 바꿔 주는 식이다."
               },
               {
                 "t": "p",
-                "x": "필자는 이 도구가 습관 추적기, 변환기, 타이머처럼 광고나 구독이 잔뜩 붙은 단일 목적 앱을 대체하리라 본다. 무엇보다 앱이 상업성을 갖추거나 남에게 쓸모 있을 필요가 없다. 나한테만 잘 돌아가면 그만이다."
+                "x": "요약 기능과 14일 분량의 메모리는 무료다. 월 $11.99짜리 Bee Pro를 구독하면 요약이 무제한으로 풀리고 Amazon.com, Alexa+, 서드파티 앱과도 연동된다."
+              },
+              {
+                "t": "p",
+                "x": "원본 오디오는 남기지 않는다. 실시간으로 처리하고 바로 지우며, 녹취록은 기기가 관리하는 키로 암호화한다. Frontier는 지금 Amazon에서 살 수 있고 Eclipse는 곧 뒤따라 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI Studioで誰でも\n無料でAndroidアプリ",
-          "body": "AI Studioなら開発経験がなくても誰でも個人用Androidアプリを無料で作れる。",
-          "mini_headline": "Prompt-builtのAndroidアプリが無料に",
+          "headline": "AmazonのBee、\nAI機器2種を$75から",
+          "body": "買収後初となるBeeの新端末は、ウェアラブルとカード型のスマホ用録音機で、会話を要約する。",
+          "mini_headline": "BeeがAIデバイス2機種を発表",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-                "cap": "Google/ZDNET"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+                "cap": "画像提供：Amazon"
               },
               {
                 "t": "p",
-                "x": "Googleは火曜日、標準的なGoogleアカウントがあれば誰でもコーディング経験なしにGoogle AI Studioで個人用Androidアプリを作れると発表した。アプリはGoogle Playの非公開領域から起動して自分の端末で動作し、公開のPlay Storeには掲載されない。"
+                "x": "Amazon傘下の個人向けAIウェアラブルメーカーBeeが、昨年この小売大手に買収されてから初の新製品を発表する。手首に着けたり服に留めたりできるBee Frontierと、スマートフォンの背面に磁石で装着するクレジットカードサイズのBee Eclipseだ。"
               },
               {
                 "t": "p",
-                "x": "今後数カ月のうちに、近しい家族や友人とアプリを共有できるようになる。アプリが評判になれば、Googleは「プロの開発者アカウントへ移行するためのパイプライン」を用意し、Play Storeを通じて世界中に公開できるようにする。"
+                "x": "Bee Frontierは$74.99、Bee Eclipseは$99.99で、$159のPlaud Noteや$129のPocketより安い。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+                "cap": "画像提供：Amazon"
               },
               {
                 "t": "p",
-                "x": "AI Studioの既存のアプリ作成ツールはプロの開発者アカウント向けで、PCに接続したUSBデバッグが必要だ。新ツールは同じ作成ツールを使いつつ、ワンクリックで個人の端末にアプリをインストールする。作りたいものをプロンプトで説明すればAIが残りを担い、見落としていそうな機能も提案する。後から軽く手直しすることも、破棄して最初からやり直すこともできる。試したりアプリを作ったりするのに料金はかからない。"
+                "x": "初代Beeと同様、両機はAIで日常の会話からメモを取り、やることリスト、要約、インサイトにまとめる。たとえば友人と立てた予定からカレンダーの招待を作成する。"
               },
               {
                 "t": "p",
-                "x": "筆者は、習慣トラッカーや変換ツール、タイマーのように広告やサブスクリプションだらけの単機能アプリを置き換える存在になるとみる。最大の売りは、アプリが商業的に成り立つ必要も、他人に必要とされる必要もないことだ。自分にとって役立てばそれでいい。"
+                "x": "要約と14日分のメモリーは無料だ。月額$11.99のBee Proサブスクリプションでは要約が無制限になり、Amazon.com、Alexa+、サードパーティー製アプリとの連携が加わる。"
+              },
+              {
+                "t": "p",
+                "x": "生の音声は保存されない。リアルタイムで処理した後に削除し、文字起こしはデバイスが管理する鍵で暗号化する。Frontierは現在Amazonで購入でき、Eclipseも間もなく続く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI Studio让人人\n免费做Android应用",
-          "body": "AI Studio让任何人无需开发经验，即可免费打造个人Android应用。",
-          "mini_headline": "Prompt-built的Android应用，免费",
+          "headline": "Amazon旗下Bee\n推出两款AI设备$75起",
+          "body": "Bee被收购后的首批设备包括一款新可穿戴设备和一款卡片大小的手机录音器，可总结对话。",
+          "mini_headline": "Bee推出两款AI设备",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-                "cap": "Google/ZDNET"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+                "cap": "图片来源：Amazon"
               },
               {
                 "t": "p",
-                "x": "Google周二宣布，任何拥有标准Google账号的人都能在Google AI Studio中打造个人Android应用，无需编程经验。这些应用在你自己的设备上运行，从Google Play的私有区域启动，不会出现在公开的Play Store中。"
+                "x": "Amazon旗下的个人AI可穿戴设备制造商Bee发布了自去年被这家零售巨头收购以来的首批新品：可戴在手腕上或别在衣服上的Bee Frontier，以及可通过磁吸贴在智能手机背面、信用卡大小的Bee Eclipse。"
               },
               {
                 "t": "p",
-                "x": "未来几个月内，你将能与亲密的家人和朋友分享应用；如果某个应用走红，Google将提供一条“升级为专业开发者账号的通道”，以便通过Play Store向全球分享。"
+                "x": "Bee Frontier售价$74.99，Bee Eclipse售价$99.99，比$159的Plaud Note或$129的Pocket更便宜。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+                "cap": "图片来源：Amazon"
               },
               {
                 "t": "p",
-                "x": "AI Studio现有的应用创建工具面向专业开发者账号，需要连接PC进行USB调试。新工具沿用同一创建工具，但只需点击一次即可把应用安装到个人设备上。你用提示词描述需求，其余交给AI完成，它还会建议你可能遗漏的功能；之后可以稍作修改，也可以推倒重来。试验和构建应用都不收费。"
+                "x": "与初代Bee一样，这两款设备利用AI记录日常对话，并将其整理为待办事项、摘要和洞察，例如为你与朋友约定的计划创建日历邀请。"
               },
               {
                 "t": "p",
-                "x": "作者认为，它将取代那些塞满广告或订阅的单一用途应用，比如习惯追踪器、换算器或计时器。最大的卖点在于：应用不必具备商业价值，也不必被其他人需要，只要对你自己有用就行。"
+                "x": "摘要功能和14天记忆免费；每月$11.99的Bee Pro订阅可提供无限摘要，并支持与Amazon.com、Alexa+及第三方应用集成。"
+              },
+              {
+                "t": "p",
+                "x": "原始音频不会被存储：音频实时处理后即被删除，转录文本则用设备掌控的密钥加密。Frontier现已在Amazon上市，Eclipse随后不久推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google AI Studio ya crea apps\nAndroid personales gratis",
-          "body": "AI Studio de Google permite a cualquiera crear con vibe coding una app personal de Android gratis, sin experiencia.",
-          "mini_headline": "Apps Android Prompt-built, gratis",
+          "headline": "Bee, de Amazon, lanza dos\ndispositivos AI desde $75",
+          "body": "Bee estrena tras su compra un wearable y una grabadora tipo tarjeta para el móvil que resumen conversaciones.",
+          "mini_headline": "Bee lanza dos dispositivos AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-                "cap": "Google/ZDNET"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+                "cap": "Imagen: Amazon"
               },
               {
                 "t": "p",
-                "x": "Google anunció el martes que cualquier persona con una cuenta estándar de Google puede crear apps personales de Android en Google AI Studio sin experiencia en programación. Las apps se ejecutan en el propio dispositivo, se abren desde una parte privada de Google Play y no se incluirán en la Play Store pública."
+                "x": "Bee, el fabricante de wearables personales con AI de Amazon, anuncia sus primeros productos nuevos desde que el gigante minorista lo adquirió el año pasado: el Bee Frontier, que se puede llevar en la muñeca o prender en la ropa, y el Bee Eclipse, un dispositivo del tamaño de una tarjeta de crédito que se fija con imanes a la parte trasera del smartphone."
               },
               {
                 "t": "p",
-                "x": "En los próximos meses se podrán compartir apps con familiares y amigos cercanos, y si alguna tiene éxito, Google ofrecerá una \"vía para pasar a una cuenta de desarrollador profesional\" para compartirla en todo el mundo a través de la Play Store."
+                "x": "El Bee Frontier cuesta $74.99 y el Bee Eclipse, $99.99: menos que el Plaud Note, de $159, o el Pocket, de $129."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+                "cap": "Imagen: Amazon"
               },
               {
                 "t": "p",
-                "x": "El creador de apps que ya tenía AI Studio está pensado para cuentas de desarrollador profesional y requiere depuración por USB conectada a un PC. La nueva herramienta funciona con ese mismo creador, pero instala la app en un dispositivo personal con un solo clic. Se describe lo que se quiere en un prompt y la AI hace el resto, sugiriendo funciones que quizá se hayan pasado por alto; después se pueden hacer pequeños ajustes o descartarla y empezar de nuevo. Experimentar y crear una app no tiene coste."
+                "x": "Como el Bee original, los dispositivos usan AI para tomar notas de las conversaciones cotidianas y convertirlas en tareas, resúmenes e ideas; por ejemplo, crean una invitación de calendario para los planes que hiciste con amigos."
               },
               {
                 "t": "p",
-                "x": "El autor cree que sustituirá a apps de un solo propósito cargadas de anuncios o suscripciones, como un registro de hábitos, un conversor o un temporizador. El gran atractivo: una app no tiene que ser comercialmente viable ni útil para nadie más. Solo tiene que funcionar para uno mismo."
+                "x": "Los resúmenes y 14 días de memoria son gratuitos; una suscripción a Bee Pro de $11.99 al mes añade resúmenes ilimitados e integraciones con Amazon.com, Alexa+ y apps de terceros."
+              },
+              {
+                "t": "p",
+                "x": "El audio sin procesar no se almacena: se procesa en tiempo real y se elimina, y las transcripciones se cifran con claves que controla el dispositivo. El Frontier ya está disponible en Amazon; el Eclipse llegará poco después."
               }
             ]
           }
@@ -199,125 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI Studio로 누구나\n무료 Android 앱",
-          "body": "AI Studio로 개발 경험 없이도 누구나 Android 앱을 무료로 만든다.",
-          "mini_headline": "Prompt-built Android 앱, 무료",
+          "headline": "Amazon의 Bee\nAI 기기 2종 $75부터",
+          "body": "인수 후 Bee가 처음 내놓은 웨어러블과 카드형 폰 녹음기는 대화를 요약한다.",
+          "mini_headline": "Bee, AI 기기 2종 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-                "cap": "Google/ZDNET"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+                "cap": "이미지 출처: Amazon"
               },
               {
                 "t": "p",
-                "x": "Google은 화요일, 일반 Google 계정만 있으면 누구나 코딩 경험 없이 Google AI Studio에서 개인용 Android 앱을 만들 수 있다고 발표했다. 앱은 Google Play의 비공개 영역에서 실행돼 자신의 기기에서 돌아가며, 공개 Play Store에는 올라가지 않는다."
+                "x": "Amazon 산하의 개인용 AI 웨어러블 기업 Bee가 지난해 이 유통 대기업에 인수된 뒤 처음으로 신제품을 발표한다. 손목에 차거나 옷에 고정할 수 있는 Bee Frontier, 그리고 스마트폰 뒷면에 자석으로 붙는 신용카드 크기의 Bee Eclipse다."
               },
               {
                 "t": "p",
-                "x": "앞으로 몇 달 안에 가까운 가족과 친구에게 앱을 공유할 수 있게 된다. 어떤 앱이 인기를 끌면 Google은 Play Store를 통해 전 세계에 공유할 수 있도록 “전문 개발자 계정으로 올라가는 경로”를 제공한다."
+                "x": "Bee Frontier는 $74.99, Bee Eclipse는 $99.99로 $159인 Plaud Note나 $129인 Pocket보다 저렴하다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+                "cap": "이미지 출처: Amazon"
               },
               {
                 "t": "p",
-                "x": "AI Studio의 기존 앱 제작 도구는 전문 개발자 계정용으로, PC에 연결한 USB 디버깅이 필요하다. 새 도구는 같은 제작 도구를 쓰지만 클릭 한 번으로 개인 기기에 앱을 설치한다. 원하는 것을 프롬프트로 설명하면 나머지는 AI가 맡고, 놓쳤을 만한 기능까지 제안한다. 이후 가볍게 손보거나 버리고 처음부터 다시 시작할 수도 있다. 실험하고 앱을 만드는 데 비용은 들지 않는다."
+                "x": "기존 Bee처럼 두 기기도 AI로 일상 대화를 기록해 할 일, 요약, 인사이트로 정리한다. 예를 들어 친구와 잡은 약속을 캘린더 초대로 만들어 준다."
               },
               {
                 "t": "p",
-                "x": "필자는 이 도구가 습관 추적기, 변환기, 타이머처럼 광고나 구독이 잔뜩 붙은 단일 목적 앱을 대체할 것으로 본다. 핵심 장점은 앱이 상업성을 갖추거나 다른 사람에게 필요할 이유가 없다는 점이다. 나에게만 잘 작동하면 된다."
+                "x": "요약 기능과 14일 분량의 메모리는 무료다. 월 $11.99의 Bee Pro 구독을 하면 요약이 무제한이 되고 Amazon.com, Alexa+, 서드파티 앱과 연동된다."
+              },
+              {
+                "t": "p",
+                "x": "원본 오디오는 저장하지 않는다. 실시간으로 처리한 뒤 삭제하고, 녹취록은 기기가 관리하는 키로 암호화한다. Frontier는 지금 Amazon에서 살 수 있고, Eclipse는 곧 뒤이어 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI Studioで誰でも\n無料でAndroidアプリ",
-          "body": "AI Studioなら開発経験がなくても誰でも個人用Androidアプリを無料で作れる。",
-          "mini_headline": "Prompt-builtのAndroidアプリが無料に",
+          "headline": "AmazonのBee、\nAI機器2種を$75から",
+          "body": "買収後初となるBeeの新端末は、ウェアラブルとカード型のスマホ用録音機で、会話を要約する。",
+          "mini_headline": "BeeがAIデバイス2機種を発表",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-                "cap": "Google/ZDNET"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+                "cap": "画像提供：Amazon"
               },
               {
                 "t": "p",
-                "x": "Googleは火曜日、標準的なGoogleアカウントがあれば誰でもコーディング経験なしにGoogle AI Studioで個人用Androidアプリを作れると発表した。アプリはGoogle Playの非公開領域から起動して自分の端末で動作し、公開のPlay Storeには掲載されない。"
+                "x": "Amazon傘下の個人向けAIウェアラブルメーカーBeeが、昨年この小売大手に買収されてから初の新製品を発表する。手首に着けたり服に留めたりできるBee Frontierと、スマートフォンの背面に磁石で装着するクレジットカードサイズのBee Eclipseだ。"
               },
               {
                 "t": "p",
-                "x": "今後数カ月のうちに、近しい家族や友人とアプリを共有できるようになる。アプリが評判になれば、Googleは「プロの開発者アカウントへ移行するためのパイプライン」を用意し、Play Storeを通じて世界中に公開できるようにする。"
+                "x": "Bee Frontierは$74.99、Bee Eclipseは$99.99で、$159のPlaud Noteや$129のPocketより安い。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+                "cap": "画像提供：Amazon"
               },
               {
                 "t": "p",
-                "x": "AI Studioの既存のアプリ作成ツールはプロの開発者アカウント向けで、PCに接続したUSBデバッグが必要だ。新ツールは同じ作成ツールを使いつつ、ワンクリックで個人の端末にアプリをインストールする。作りたいものをプロンプトで説明すればAIが残りを担い、見落としていそうな機能も提案する。後から軽く手直しすることも、破棄して最初からやり直すこともできる。試したりアプリを作ったりするのに料金はかからない。"
+                "x": "初代Beeと同様、両機はAIで日常の会話からメモを取り、やることリスト、要約、インサイトにまとめる。たとえば友人と立てた予定からカレンダーの招待を作成する。"
               },
               {
                 "t": "p",
-                "x": "筆者は、習慣トラッカーや変換ツール、タイマーのように広告やサブスクリプションだらけの単機能アプリを置き換える存在になるとみる。最大の売りは、アプリが商業的に成り立つ必要も、他人に必要とされる必要もないことだ。自分にとって役立てばそれでいい。"
+                "x": "要約と14日分のメモリーは無料だ。月額$11.99のBee Proサブスクリプションでは要約が無制限になり、Amazon.com、Alexa+、サードパーティー製アプリとの連携が加わる。"
+              },
+              {
+                "t": "p",
+                "x": "生の音声は保存されない。リアルタイムで処理した後に削除し、文字起こしはデバイスが管理する鍵で暗号化する。Frontierは現在Amazonで購入でき、Eclipseも間もなく続く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI Studio让人人\n免费做Android应用",
-          "body": "AI Studio让任何人无需开发经验，即可免费打造个人Android应用。",
-          "mini_headline": "Prompt-built的Android应用，免费",
+          "headline": "Amazon旗下Bee\n推出两款AI设备$75起",
+          "body": "Bee被收购后的首批设备包括一款新可穿戴设备和一款卡片大小的手机录音器，可总结对话。",
+          "mini_headline": "Bee推出两款AI设备",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-                "cap": "Google/ZDNET"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+                "cap": "图片来源：Amazon"
               },
               {
                 "t": "p",
-                "x": "Google周二宣布，任何拥有标准Google账号的人都能在Google AI Studio中打造个人Android应用，无需编程经验。这些应用在你自己的设备上运行，从Google Play的私有区域启动，不会出现在公开的Play Store中。"
+                "x": "Amazon旗下的个人AI可穿戴设备制造商Bee发布了自去年被这家零售巨头收购以来的首批新品：可戴在手腕上或别在衣服上的Bee Frontier，以及可通过磁吸贴在智能手机背面、信用卡大小的Bee Eclipse。"
               },
               {
                 "t": "p",
-                "x": "未来几个月内，你将能与亲密的家人和朋友分享应用；如果某个应用走红，Google将提供一条“升级为专业开发者账号的通道”，以便通过Play Store向全球分享。"
+                "x": "Bee Frontier售价$74.99，Bee Eclipse售价$99.99，比$159的Plaud Note或$129的Pocket更便宜。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+                "cap": "图片来源：Amazon"
               },
               {
                 "t": "p",
-                "x": "AI Studio现有的应用创建工具面向专业开发者账号，需要连接PC进行USB调试。新工具沿用同一创建工具，但只需点击一次即可把应用安装到个人设备上。你用提示词描述需求，其余交给AI完成，它还会建议你可能遗漏的功能；之后可以稍作修改，也可以推倒重来。试验和构建应用都不收费。"
+                "x": "与初代Bee一样，这两款设备利用AI记录日常对话，并将其整理为待办事项、摘要和洞察，例如为你与朋友约定的计划创建日历邀请。"
               },
               {
                 "t": "p",
-                "x": "作者认为，它将取代那些塞满广告或订阅的单一用途应用，比如习惯追踪器、换算器或计时器。最大的卖点在于：应用不必具备商业价值，也不必被其他人需要，只要对你自己有用就行。"
+                "x": "摘要功能和14天记忆免费；每月$11.99的Bee Pro订阅可提供无限摘要，并支持与Amazon.com、Alexa+及第三方应用集成。"
+              },
+              {
+                "t": "p",
+                "x": "原始音频不会被存储：音频实时处理后即被删除，转录文本则用设备掌控的密钥加密。Frontier现已在Amazon上市，Eclipse随后不久推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google AI Studio ya crea apps\nAndroid personales gratis",
-          "body": "AI Studio de Google permite a cualquiera crear con vibe coding una app personal de Android gratis, sin experiencia.",
-          "mini_headline": "Apps Android Prompt-built, gratis",
+          "headline": "Bee, de Amazon, lanza dos\ndispositivos AI desde $75",
+          "body": "Bee estrena tras su compra un wearable y una grabadora tipo tarjeta para el móvil que resumen conversaciones.",
+          "mini_headline": "Bee lanza dos dispositivos AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
-                "cap": "Google/ZDNET"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+                "cap": "Imagen: Amazon"
               },
               {
                 "t": "p",
-                "x": "Google anunció el martes que cualquier persona con una cuenta estándar de Google puede crear apps personales de Android en Google AI Studio sin experiencia en programación. Las apps se ejecutan en el propio dispositivo, se abren desde una parte privada de Google Play y no se incluirán en la Play Store pública."
+                "x": "Bee, el fabricante de wearables personales con AI de Amazon, anuncia sus primeros productos nuevos desde que el gigante minorista lo adquirió el año pasado: el Bee Frontier, que se puede llevar en la muñeca o prender en la ropa, y el Bee Eclipse, un dispositivo del tamaño de una tarjeta de crédito que se fija con imanes a la parte trasera del smartphone."
               },
               {
                 "t": "p",
-                "x": "En los próximos meses se podrán compartir apps con familiares y amigos cercanos, y si alguna tiene éxito, Google ofrecerá una \"vía para pasar a una cuenta de desarrollador profesional\" para compartirla en todo el mundo a través de la Play Store."
+                "x": "El Bee Frontier cuesta $74.99 y el Bee Eclipse, $99.99: menos que el Plaud Note, de $159, o el Pocket, de $129."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+                "cap": "Imagen: Amazon"
               },
               {
                 "t": "p",
-                "x": "El creador de apps que ya tenía AI Studio está pensado para cuentas de desarrollador profesional y requiere depuración por USB conectada a un PC. La nueva herramienta funciona con ese mismo creador, pero instala la app en un dispositivo personal con un solo clic. Se describe lo que se quiere en un prompt y la AI hace el resto, sugiriendo funciones que quizá se hayan pasado por alto; después se pueden hacer pequeños ajustes o descartarla y empezar de nuevo. Experimentar y crear una app no tiene coste."
+                "x": "Como el Bee original, los dispositivos usan AI para tomar notas de las conversaciones cotidianas y convertirlas en tareas, resúmenes e ideas; por ejemplo, crean una invitación de calendario para los planes que hiciste con amigos."
               },
               {
                 "t": "p",
-                "x": "El autor cree que sustituirá a apps de un solo propósito cargadas de anuncios o suscripciones, como un registro de hábitos, un conversor o un temporizador. El gran atractivo: una app no tiene que ser comercialmente viable ni útil para nadie más. Solo tiene que funcionar para uno mismo."
+                "x": "Los resúmenes y 14 días de memoria son gratuitos; una suscripción a Bee Pro de $11.99 al mes añade resúmenes ilimitados e integraciones con Amazon.com, Alexa+ y apps de terceros."
+              },
+              {
+                "t": "p",
+                "x": "El audio sin procesar no se almacena: se procesa en tiempo real y se elimina, y las transcripciones se cifran con claves que controla el dispositivo. El Frontier ya está disponible en Amazon; el Eclipse llegará poco después."
               }
             ]
           }
@@ -325,15 +415,15 @@
       }
     },
     {
-      "id": "gadgets-android-scam-alerts",
+      "id": "gadgets-muse-spark-open",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Gemini로 사기 문자\nAndroid가 경고한다",
-      "body": "Android는 Gemini로 사기 문자를 잡고 화면 공유 중 금융정보를 가린다.",
-      "mini_headline": "Gemini가 Android 사기 탐지",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
+      "eyebrow": "AI NEWS",
+      "headline": "Muse Spark 모델,\nMac Studios 2대",
+      "body": "Muse Spark Open은 512GB Mac Studios 2대면 돌아간다.",
+      "mini_headline": "Meta Muse Spark Open, Mac Studio에서 구동",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -341,155 +431,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-            "cap": "Google"
+            "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
           },
           {
             "t": "p",
-            "x": "Google이 Android용 새 사기 방지 기능을 발표했다. Messages에 사용자가 직접 켜는 설정이 생기는데, 켜 두면 Scam Detection이 Google의 가장 진보한 Gemini 모델로 발신자의 의도를 읽고 악의적인 상대가 보냈을 수 있는 메시지에 경고를 띄운다. 분석은 Private AI Compute에서 이뤄진다. 메시지를 암호화한 뒤 Google을 포함해 누구도 들여다볼 수 없는 안전한 공간에서 처리하는 방식이다."
+            "x": "Meta가 오늘 Muse Spark Open을 공개하며 “현재까지 가장 뛰어난 U.S. 오픈 웨이트 모델”이라고 소개했다."
           },
           {
             "t": "p",
-            "x": "Gemini Nano는 Messages 속 링크도 사용자가 누르기 전에 기기 안에서 먼저 확인한다. 이 기능은 앞으로 몇 주에 걸쳐 Pixel 10+, Galaxy S26 시리즈, Galaxy Z Flip과 Fold 8 등 일부 기기에 들어간다. 채팅 알림의 Scam Detection도 Pixel 밖으로 넓어진다. Honor, Motorola, OPPO, OnePlus, realme, vivo, Xiaomi가 올해 안에 지원할 예정이다."
+            "x": "Meta는 Apple과 손잡고 Muse Spark Open을 Mac에 들여왔다. 최신 MLX 프레임워크를 돌리는 512GB Apple M5 Ultra Mac Studios 두 대만 있으면 데스크톱에서 이 모델을 실행할 수 있다."
           },
           {
             "t": "p",
-            "x": "Android 15 이상 기기는 모두 이달 말 자동 화면 공유 개인정보 보호 기능을 받는다. Chrome이나 Android WebView가 화면에 떠 있으면 비밀번호, 금융 정보, 카드 보안 번호를 가린다. 십이월 초에는 Pixel과 일부 기기에 착신 전환 보호 기능이 추가된다. 브라질에서는 제휴 은행이라며 걸려 오는 전화를 Android가 검증하는데, 유월 이후 벌써 삼백만 건 넘는 가짜 전화를 막았다."
+            "x": "Muse Spark Open은 전체 파라미터 8160억 개, 활성 파라미터 420억 개에 100만 토큰 컨텍스트 창을 갖췄다. 코딩과 에이전트 작업용 모델이다."
+          },
+          {
+            "t": "p",
+            "x": "Meta 설명으로는 M5 Ultra의 통합 GPU가 Mac Studio 한 대당 최대 512 GB를 쓸 수 있어 두 대면 모델 전체가 들어간다. 1.2 TB/s의 메모리 대역폭도 토큰마다 필요한 작은 부분을 읽어 들이기에 충분히 빠르다."
+          },
+          {
+            "t": "p",
+            "x": "512GB Mac Studio는 아직 출시 전이지만 Apple이 이달 중 내놓을 예정이다. 모델은 무료로 내려받을 수 있고, 라이선스는 상업적 이용을 제한적으로 허용한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Android will use Gemini to\nwarn you about scam messages",
-          "body": "Android will use Gemini to flag scam messages and hide your banking details while you share your screen.",
-          "mini_headline": "Gemini flags Android scams",
+          "headline": "Meta’s open Muse Spark model\nruns on two Mac Studios",
+          "body": "Meta worked with Apple so its open-weight Muse Spark Open model runs on two 512GB M5 Ultra Mac Studios using MLX.",
+          "mini_headline": "Muse Spark Open on Mac Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-                "cap": "Google"
+                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
               },
               {
                 "t": "p",
-                "x": "Google has announced new scam protections for Android, including an opt-in setting in Messages that turns on Scam Detection, which taps Google's most advanced Gemini models to evaluate the sender's intent and warn you if messages could be coming from a bad actor. Messages are analyzed in Private AI Compute, which encrypts them and processes them in a secure space inaccessible to anybody else, even Google."
+                "x": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date.\""
               },
               {
                 "t": "p",
-                "x": "Gemini Nano will also check links in Messages on-device before you tap them. This will be available on Pixel 10+, the Galaxy S26 series, Galaxy Z Flip and Fold 8, among other select devices, rolling out in the coming weeks. Scam Detection in chat notifications is also expanding beyond Pixel, with Honor, Motorola, OPPO, OnePlus, realme, vivo and Xiaomi expected to enable it later this year."
+                "x": "Meta worked with Apple to bring Muse Spark Open to the Mac, and the model can run on a desktop setup with two 512GB Apple M5 Ultra Mac Studios running the latest MLX framework."
               },
               {
                 "t": "p",
-                "x": "All devices on Android 15 and newer will get automatic screen-sharing privacy later this month, hiding passwords, banking information and card security numbers when Chrome or Android WebView is on screen. In early December, call forwarding protection arrives on Pixel and other select devices. In Brazil, Android verifies calls claiming to be from partner banks and has already blocked over three million fake calls since June."
+                "x": "Muse Spark Open has 816 billion total parameters with 42 billion active parameters and a 1 million-token context window. It is meant for coding and agentic work."
+              },
+              {
+                "t": "p",
+                "x": "Per Meta, the M5 Ultra’s integrated GPU can use up to 512 GB per Mac Studio, so two machines can hold an entire model, and 1.2 TB/s of memory bandwidth is fast enough to read the small slice each token needs."
+              },
+              {
+                "t": "p",
+                "x": "Apple hasn't released the 512GB Mac Studio yet, but it's supposed to be coming later this month. The model is free to download, with a license allowing limited commercial use."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini로 사기 문자\nAndroid가 경고한다",
-          "body": "Android는 Gemini로 사기 문자를 잡고 화면 공유 중 금융정보를 가린다.",
-          "mini_headline": "Gemini가 Android 사기 탐지",
+          "headline": "Muse Spark 모델,\nMac Studios 2대",
+          "body": "Muse Spark Open은 512GB Mac Studios 2대면 돌아간다.",
+          "mini_headline": "Meta Muse Spark Open, Mac Studio에서 구동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-                "cap": "Google"
+                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
               },
               {
                 "t": "p",
-                "x": "Google이 Android용 새 사기 방지 기능을 발표했다. Messages에 사용자가 직접 켜는 설정이 생기는데, 켜 두면 Scam Detection이 Google의 가장 진보한 Gemini 모델로 발신자의 의도를 읽고 악의적인 상대가 보냈을 수 있는 메시지에 경고를 띄운다. 분석은 Private AI Compute에서 이뤄진다. 메시지를 암호화한 뒤 Google을 포함해 누구도 들여다볼 수 없는 안전한 공간에서 처리하는 방식이다."
+                "x": "Meta가 오늘 Muse Spark Open을 공개하며 “현재까지 가장 뛰어난 U.S. 오픈 웨이트 모델”이라고 소개했다."
               },
               {
                 "t": "p",
-                "x": "Gemini Nano는 Messages 속 링크도 사용자가 누르기 전에 기기 안에서 먼저 확인한다. 이 기능은 앞으로 몇 주에 걸쳐 Pixel 10+, Galaxy S26 시리즈, Galaxy Z Flip과 Fold 8 등 일부 기기에 들어간다. 채팅 알림의 Scam Detection도 Pixel 밖으로 넓어진다. Honor, Motorola, OPPO, OnePlus, realme, vivo, Xiaomi가 올해 안에 지원할 예정이다."
+                "x": "Meta는 Apple과 손잡고 Muse Spark Open을 Mac에 들여왔다. 최신 MLX 프레임워크를 돌리는 512GB Apple M5 Ultra Mac Studios 두 대만 있으면 데스크톱에서 이 모델을 실행할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Android 15 이상 기기는 모두 이달 말 자동 화면 공유 개인정보 보호 기능을 받는다. Chrome이나 Android WebView가 화면에 떠 있으면 비밀번호, 금융 정보, 카드 보안 번호를 가린다. 십이월 초에는 Pixel과 일부 기기에 착신 전환 보호 기능이 추가된다. 브라질에서는 제휴 은행이라며 걸려 오는 전화를 Android가 검증하는데, 유월 이후 벌써 삼백만 건 넘는 가짜 전화를 막았다."
+                "x": "Muse Spark Open은 전체 파라미터 8160억 개, 활성 파라미터 420억 개에 100만 토큰 컨텍스트 창을 갖췄다. 코딩과 에이전트 작업용 모델이다."
+              },
+              {
+                "t": "p",
+                "x": "Meta 설명으로는 M5 Ultra의 통합 GPU가 Mac Studio 한 대당 최대 512 GB를 쓸 수 있어 두 대면 모델 전체가 들어간다. 1.2 TB/s의 메모리 대역폭도 토큰마다 필요한 작은 부분을 읽어 들이기에 충분히 빠르다."
+              },
+              {
+                "t": "p",
+                "x": "512GB Mac Studio는 아직 출시 전이지만 Apple이 이달 중 내놓을 예정이다. 모델은 무료로 내려받을 수 있고, 라이선스는 상업적 이용을 제한적으로 허용한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Android、詐欺を\nGeminiで警告へ",
-          "body": "AndroidはGeminiで詐欺メッセージを見抜き、画面共有中は銀行情報を隠す。",
-          "mini_headline": "GeminiがAndroidの詐欺を検知",
+          "headline": "Muse Sparkが\nMac Studios2台で",
+          "body": "MetaのMuse Spark Openは、512GBのMac Studios2台で動く。",
+          "mini_headline": "Muse Spark OpenがMac Studioで動作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-                "cap": "Google"
+                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
               },
               {
                 "t": "p",
-                "x": "GoogleはAndroid向けの新たな詐欺対策を発表した。その一つがMessagesのオプトイン設定で、有効にするとScam Detectionが働き、Googleの最先端のGeminiモデルが送信者の意図を見極め、悪意ある相手からのメッセージの可能性があれば警告する。メッセージはPrivate AI Computeで分析される。ここではメッセージが暗号化され、Googleを含め誰もアクセスできない安全な領域で処理される。"
+                "x": "Metaは本日、Muse Spark Openのリリースを発表した。同社はこれを「これまでで最も高性能なU.S.のオープンウェイトモデル」としている。"
               },
               {
                 "t": "p",
-                "x": "Gemini NanoはMessages内のリンクも、タップする前に端末上でチェックする。この機能はPixel 10+、Galaxy S26シリーズ、Galaxy Z FlipとFold 8などの一部端末で、今後数週間のうちに順次提供される。チャット通知のScam DetectionもPixel以外に広がり、Honor、Motorola、OPPO、OnePlus、realme、vivo、Xiaomiが年内に対応する見込みだ。"
+                "x": "MetaはAppleと協力してMuse Spark OpenをMacに対応させた。このモデルは、最新のMLXフレームワークを実行する512GBのApple M5 Ultra Mac Studios 2台によるデスクトップ環境で動かせる。"
               },
               {
                 "t": "p",
-                "x": "Android 15以降を搭載するすべての端末には今月下旬、画面共有時のプライバシー保護が自動で適用され、ChromeやAndroid WebViewが表示されているときにパスワードや銀行情報、カードのセキュリティコードを隠す。十二月上旬にはPixelなど一部端末に転送電話の保護機能が加わる。ブラジルではAndroidが提携銀行を名乗る電話を検証しており、六月以降すでに三百万件を超える偽の電話をブロックした。"
+                "x": "Muse Spark Openの総パラメータ数は8160億、アクティブパラメータは420億で、コンテキストウィンドウは100万トークンだ。コーディングやエージェント的な作業向けのモデルである。"
+              },
+              {
+                "t": "p",
+                "x": "Metaによると、M5 Ultraの統合GPUはMac Studio 1台あたり最大512 GBを使えるため、2台でモデル全体を保持でき、1.2 TB/sのメモリ帯域幅は各トークンが必要とする小さな部分を読み込むのに十分な速さだという。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは512GBのMac Studioをまだ発売していないが、今月後半に登場する見込みだ。モデルは無料でダウンロードでき、ライセンスは限定的な商用利用を認めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Android借Gemini\n提醒诈骗信息",
-          "body": "Android将用Gemini识别诈骗信息，并在你共享屏幕时隐藏银行信息。",
-          "mini_headline": "Gemini为Android标记诈骗",
+          "headline": "Muse Spark开放模型\n两台Mac Studios跑",
+          "body": "Meta的Muse Spark Open可在两台512GB Mac Studios上运行。",
+          "mini_headline": "Muse Spark Open登陆Mac Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-                "cap": "Google"
+                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
               },
               {
                 "t": "p",
-                "x": "Google宣布为Android推出新的防诈骗保护，其中包括Messages中的一项可选开启设置，开启后即启用Scam Detection：它借助Google最先进的Gemini模型评估发件人意图，若信息可能来自不法分子便发出警告。信息在Private AI Compute中分析，该环境会对信息加密，并在包括Google在内任何人都无法访问的安全空间中处理。"
+                "x": "Meta今天宣布发布Muse Spark Open，称其为“迄今为止能力最强的U.S.开放权重模型”。"
               },
               {
                 "t": "p",
-                "x": "Gemini Nano还会在你点击之前，在设备端检查Messages中的链接。该功能将在未来几周内陆续登陆Pixel 10+、Galaxy S26系列、Galaxy Z Flip和Fold 8等部分设备。聊天通知中的Scam Detection也将扩展到Pixel之外，Honor、Motorola、OPPO、OnePlus、realme、vivo和Xiaomi预计今年晚些时候启用。"
+                "x": "Meta与Apple合作，将Muse Spark Open带到Mac上。该模型可在由两台512GB Apple M5 Ultra Mac Studios组成、运行最新MLX框架的桌面环境中运行。"
               },
               {
                 "t": "p",
-                "x": "所有运行Android 15及更高版本的设备将在本月晚些时候获得自动屏幕共享隐私保护，当屏幕上显示Chrome或Android WebView时，会隐藏密码、银行信息和银行卡安全码。十二月初，来电转接保护将登陆Pixel及部分其他设备。在巴西，Android会核验自称来自合作银行的来电，自六月以来已拦截超过三百万通虚假电话。"
+                "x": "Muse Spark Open总参数量为8160亿，激活参数为420亿，上下文窗口为100万个token，主要面向编程和智能体任务。"
+              },
+              {
+                "t": "p",
+                "x": "据Meta介绍，M5 Ultra的集成GPU每台Mac Studio最多可使用512 GB，因此两台机器即可容纳整个模型，而1.2 TB/s的内存带宽足以快速读取每个token所需的一小部分数据。"
+              },
+              {
+                "t": "p",
+                "x": "Apple尚未发布512GB版Mac Studio，但预计将于本月晚些时候推出。该模型可免费下载，其许可证允许有限的商业使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Android usará Gemini para\navisar de mensajes de estafa",
-          "body": "Android usará Gemini para detectar mensajes de estafa y ocultar tus datos bancarios mientras compartes pantalla.",
-          "mini_headline": "Gemini detecta estafas en Android",
+          "headline": "El modelo abierto Muse Spark\nde Meta corre en dos Mac Studios",
+          "body": "Meta y Apple logran que el modelo abierto Muse Spark Open funcione en dos Mac Studios M5 Ultra de 512GB con MLX.",
+          "mini_headline": "Muse Spark Open en Mac Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-                "cap": "Google"
+                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
               },
               {
                 "t": "p",
-                "x": "Google ha anunciado nuevas protecciones contra estafas para Android, entre ellas un ajuste opcional en Messages que activa Scam Detection, que recurre a los modelos Gemini más avanzados de Google para evaluar la intención del remitente y avisar si los mensajes podrían venir de alguien malintencionado. Los mensajes se analizan en Private AI Compute, que los cifra y los procesa en un espacio seguro al que nadie más puede acceder, ni siquiera Google."
+                "x": "Meta anunció hoy el lanzamiento de Muse Spark Open, que según la empresa es el “modelo de pesos abiertos de U.S. más capaz hasta la fecha”."
               },
               {
                 "t": "p",
-                "x": "Gemini Nano también revisará en el dispositivo los enlaces de Messages antes de que se toquen. Estará disponible en Pixel 10+, la serie Galaxy S26, Galaxy Z Flip y Fold 8, entre otros dispositivos seleccionados, y llegará en las próximas semanas. Scam Detection en las notificaciones de chat también se amplía más allá de Pixel: se espera que Honor, Motorola, OPPO, OnePlus, realme, vivo y Xiaomi la activen a finales de este año."
+                "x": "Meta colaboró con Apple para llevar Muse Spark Open al Mac, y el modelo puede ejecutarse en un equipo de escritorio con dos Mac Studios Apple M5 Ultra de 512GB que usan la versión más reciente del framework MLX."
               },
               {
                 "t": "p",
-                "x": "Todos los dispositivos con Android 15 o posterior recibirán a finales de este mes privacidad automática al compartir pantalla, que oculta contraseñas, datos bancarios y códigos de seguridad de tarjetas cuando Chrome o Android WebView están en pantalla. A principios de diciembre llegará la protección contra el desvío de llamadas a Pixel y otros dispositivos seleccionados. En Brasil, Android verifica las llamadas que dicen proceder de bancos asociados y ya ha bloqueado más de tres millones de llamadas falsas desde junio."
+                "x": "Muse Spark Open tiene 816 mil millones de parámetros en total, 42 mil millones de parámetros activos y una ventana de contexto de 1 millón de tokens. Está pensado para programación y trabajo agéntico."
+              },
+              {
+                "t": "p",
+                "x": "Según Meta, la GPU integrada del M5 Ultra puede usar hasta 512 GB por Mac Studio, así que dos máquinas pueden alojar el modelo completo, y los 1.2 TB/s de ancho de banda de memoria bastan para leer la pequeña porción que necesita cada token."
+              },
+              {
+                "t": "p",
+                "x": "Apple aún no ha lanzado el Mac Studio de 512GB, pero debería llegar a finales de este mes. El modelo se puede descargar gratis, con una licencia que permite un uso comercial limitado."
               }
             ]
           }
@@ -497,109 +629,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini로 사기 문자\nAndroid가 경고한다",
-          "body": "Android는 Gemini로 사기 문자를 잡고 화면 공유 중 금융정보를 가린다.",
-          "mini_headline": "Gemini가 Android 사기 탐지",
+          "headline": "Muse Spark 모델,\nMac Studios 2대",
+          "body": "Muse Spark Open은 512GB Mac Studios 2대에서 작동한다.",
+          "mini_headline": "Meta Muse Spark Open, Mac Studio에서 구동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-                "cap": "Google"
+                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
               },
               {
                 "t": "p",
-                "x": "Google이 Android용 새 사기 방지 기능을 발표했다. Messages에는 사용자가 직접 켜는 설정이 추가되는데, 이를 켜면 Scam Detection이 작동해 Google의 가장 진보한 Gemini 모델로 발신자의 의도를 판단하고, 메시지가 악의적인 상대에게서 왔을 수 있으면 경고한다. 메시지는 Private AI Compute에서 분석되며, 이곳은 메시지를 암호화한 뒤 Google을 포함한 누구도 접근할 수 없는 안전한 공간에서 처리한다."
+                "x": "Meta가 오늘 Muse Spark Open을 공개했다. Meta는 이 모델을 “현재까지 가장 뛰어난 U.S. 오픈 웨이트 모델”이라고 소개한다."
               },
               {
                 "t": "p",
-                "x": "Gemini Nano는 Messages 속 링크도 사용자가 누르기 전에 기기 안에서 확인한다. 이 기능은 Pixel 10+, Galaxy S26 시리즈, Galaxy Z Flip과 Fold 8 등 일부 기기에 앞으로 몇 주에 걸쳐 제공된다. 채팅 알림의 Scam Detection도 Pixel 밖으로 넓어져, Honor, Motorola, OPPO, OnePlus, realme, vivo, Xiaomi가 올해 안에 이를 지원할 예정이다."
+                "x": "Meta는 Apple과 협력해 Muse Spark Open을 Mac에 들여왔다. 이 모델은 최신 MLX 프레임워크를 실행하는 512GB Apple M5 Ultra Mac Studios 두 대로 꾸린 데스크톱 환경에서 돌릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "Android 15 이상을 쓰는 모든 기기는 이달 말 자동 화면 공유 개인정보 보호 기능을 받는다. Chrome이나 Android WebView가 화면에 떠 있을 때 비밀번호, 금융 정보, 카드 보안 번호를 가려 준다. 십이월 초에는 Pixel과 일부 기기에 착신 전환 보호 기능이 들어온다. 브라질에서는 Android가 제휴 은행에서 걸려 왔다고 주장하는 전화를 검증하며, 유월 이후 이미 삼백만 건이 넘는 가짜 전화를 차단했다."
+                "x": "Muse Spark Open은 전체 파라미터 8160억 개, 활성 파라미터 420억 개에 100만 토큰 컨텍스트 창을 갖췄다. 코딩과 에이전트 작업을 위한 모델이다."
+              },
+              {
+                "t": "p",
+                "x": "Meta에 따르면 M5 Ultra의 통합 GPU는 Mac Studio 한 대당 최대 512 GB를 쓸 수 있어 두 대면 모델 전체를 담을 수 있고, 1.2 TB/s의 메모리 대역폭은 토큰마다 필요한 작은 부분을 읽어 들이기에 충분히 빠르다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 512GB Mac Studio를 아직 출시하지 않았지만 이달 중 나올 예정이다. 모델은 무료로 내려받을 수 있으며, 라이선스는 제한적인 상업적 이용을 허용한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Android、詐欺を\nGeminiで警告へ",
-          "body": "AndroidはGeminiで詐欺メッセージを見抜き、画面共有中は銀行情報を隠す。",
-          "mini_headline": "GeminiがAndroidの詐欺を検知",
+          "headline": "Muse Sparkが\nMac Studios2台で",
+          "body": "MetaのMuse Spark Openは、512GBのMac Studios2台で動く。",
+          "mini_headline": "Muse Spark OpenがMac Studioで動作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-                "cap": "Google"
+                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
               },
               {
                 "t": "p",
-                "x": "GoogleはAndroid向けの新たな詐欺対策を発表した。その一つがMessagesのオプトイン設定で、有効にするとScam Detectionが働き、Googleの最先端のGeminiモデルが送信者の意図を見極め、悪意ある相手からのメッセージの可能性があれば警告する。メッセージはPrivate AI Computeで分析される。ここではメッセージが暗号化され、Googleを含め誰もアクセスできない安全な領域で処理される。"
+                "x": "Metaは本日、Muse Spark Openのリリースを発表した。同社はこれを「これまでで最も高性能なU.S.のオープンウェイトモデル」としている。"
               },
               {
                 "t": "p",
-                "x": "Gemini NanoはMessages内のリンクも、タップする前に端末上でチェックする。この機能はPixel 10+、Galaxy S26シリーズ、Galaxy Z FlipとFold 8などの一部端末で、今後数週間のうちに順次提供される。チャット通知のScam DetectionもPixel以外に広がり、Honor、Motorola、OPPO、OnePlus、realme、vivo、Xiaomiが年内に対応する見込みだ。"
+                "x": "MetaはAppleと協力してMuse Spark OpenをMacに対応させた。このモデルは、最新のMLXフレームワークを実行する512GBのApple M5 Ultra Mac Studios 2台によるデスクトップ環境で動かせる。"
               },
               {
                 "t": "p",
-                "x": "Android 15以降を搭載するすべての端末には今月下旬、画面共有時のプライバシー保護が自動で適用され、ChromeやAndroid WebViewが表示されているときにパスワードや銀行情報、カードのセキュリティコードを隠す。十二月上旬にはPixelなど一部端末に転送電話の保護機能が加わる。ブラジルではAndroidが提携銀行を名乗る電話を検証しており、六月以降すでに三百万件を超える偽の電話をブロックした。"
+                "x": "Muse Spark Openの総パラメータ数は8160億、アクティブパラメータは420億で、コンテキストウィンドウは100万トークンだ。コーディングやエージェント的な作業向けのモデルである。"
+              },
+              {
+                "t": "p",
+                "x": "Metaによると、M5 Ultraの統合GPUはMac Studio 1台あたり最大512 GBを使えるため、2台でモデル全体を保持でき、1.2 TB/sのメモリ帯域幅は各トークンが必要とする小さな部分を読み込むのに十分な速さだという。"
+              },
+              {
+                "t": "p",
+                "x": "Appleは512GBのMac Studioをまだ発売していないが、今月後半に登場する見込みだ。モデルは無料でダウンロードでき、ライセンスは限定的な商用利用を認めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Android借Gemini\n提醒诈骗信息",
-          "body": "Android将用Gemini识别诈骗信息，并在你共享屏幕时隐藏银行信息。",
-          "mini_headline": "Gemini为Android标记诈骗",
+          "headline": "Muse Spark开放模型\n两台Mac Studios跑",
+          "body": "Meta的Muse Spark Open可在两台512GB Mac Studios上运行。",
+          "mini_headline": "Muse Spark Open登陆Mac Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-                "cap": "Google"
+                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
               },
               {
                 "t": "p",
-                "x": "Google宣布为Android推出新的防诈骗保护，其中包括Messages中的一项可选开启设置，开启后即启用Scam Detection：它借助Google最先进的Gemini模型评估发件人意图，若信息可能来自不法分子便发出警告。信息在Private AI Compute中分析，该环境会对信息加密，并在包括Google在内任何人都无法访问的安全空间中处理。"
+                "x": "Meta今天宣布发布Muse Spark Open，称其为“迄今为止能力最强的U.S.开放权重模型”。"
               },
               {
                 "t": "p",
-                "x": "Gemini Nano还会在你点击之前，在设备端检查Messages中的链接。该功能将在未来几周内陆续登陆Pixel 10+、Galaxy S26系列、Galaxy Z Flip和Fold 8等部分设备。聊天通知中的Scam Detection也将扩展到Pixel之外，Honor、Motorola、OPPO、OnePlus、realme、vivo和Xiaomi预计今年晚些时候启用。"
+                "x": "Meta与Apple合作，将Muse Spark Open带到Mac上。该模型可在由两台512GB Apple M5 Ultra Mac Studios组成、运行最新MLX框架的桌面环境中运行。"
               },
               {
                 "t": "p",
-                "x": "所有运行Android 15及更高版本的设备将在本月晚些时候获得自动屏幕共享隐私保护，当屏幕上显示Chrome或Android WebView时，会隐藏密码、银行信息和银行卡安全码。十二月初，来电转接保护将登陆Pixel及部分其他设备。在巴西，Android会核验自称来自合作银行的来电，自六月以来已拦截超过三百万通虚假电话。"
+                "x": "Muse Spark Open总参数量为8160亿，激活参数为420亿，上下文窗口为100万个token，主要面向编程和智能体任务。"
+              },
+              {
+                "t": "p",
+                "x": "据Meta介绍，M5 Ultra的集成GPU每台Mac Studio最多可使用512 GB，因此两台机器即可容纳整个模型，而1.2 TB/s的内存带宽足以快速读取每个token所需的一小部分数据。"
+              },
+              {
+                "t": "p",
+                "x": "Apple尚未发布512GB版Mac Studio，但预计将于本月晚些时候推出。该模型可免费下载，其许可证允许有限的商业使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Android usará Gemini para\navisar de mensajes de estafa",
-          "body": "Android usará Gemini para detectar mensajes de estafa y ocultar tus datos bancarios mientras compartes pantalla.",
-          "mini_headline": "Gemini detecta estafas en Android",
+          "headline": "El modelo abierto Muse Spark\nde Meta corre en dos Mac Studios",
+          "body": "Meta y Apple logran que el modelo abierto Muse Spark Open funcione en dos Mac Studios M5 Ultra de 512GB con MLX.",
+          "mini_headline": "Muse Spark Open en Mac Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/intro-1791980014.jpg",
-                "cap": "Google"
+                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
               },
               {
                 "t": "p",
-                "x": "Google ha anunciado nuevas protecciones contra estafas para Android, entre ellas un ajuste opcional en Messages que activa Scam Detection, que recurre a los modelos Gemini más avanzados de Google para evaluar la intención del remitente y avisar si los mensajes podrían venir de alguien malintencionado. Los mensajes se analizan en Private AI Compute, que los cifra y los procesa en un espacio seguro al que nadie más puede acceder, ni siquiera Google."
+                "x": "Meta anunció hoy el lanzamiento de Muse Spark Open, que según la empresa es el “modelo de pesos abiertos de U.S. más capaz hasta la fecha”."
               },
               {
                 "t": "p",
-                "x": "Gemini Nano también revisará en el dispositivo los enlaces de Messages antes de que se toquen. Estará disponible en Pixel 10+, la serie Galaxy S26, Galaxy Z Flip y Fold 8, entre otros dispositivos seleccionados, y llegará en las próximas semanas. Scam Detection en las notificaciones de chat también se amplía más allá de Pixel: se espera que Honor, Motorola, OPPO, OnePlus, realme, vivo y Xiaomi la activen a finales de este año."
+                "x": "Meta colaboró con Apple para llevar Muse Spark Open al Mac, y el modelo puede ejecutarse en un equipo de escritorio con dos Mac Studios Apple M5 Ultra de 512GB que usan la versión más reciente del framework MLX."
               },
               {
                 "t": "p",
-                "x": "Todos los dispositivos con Android 15 o posterior recibirán a finales de este mes privacidad automática al compartir pantalla, que oculta contraseñas, datos bancarios y códigos de seguridad de tarjetas cuando Chrome o Android WebView están en pantalla. A principios de diciembre llegará la protección contra el desvío de llamadas a Pixel y otros dispositivos seleccionados. En Brasil, Android verifica las llamadas que dicen proceder de bancos asociados y ya ha bloqueado más de tres millones de llamadas falsas desde junio."
+                "x": "Muse Spark Open tiene 816 mil millones de parámetros en total, 42 mil millones de parámetros activos y una ventana de contexto de 1 millón de tokens. Está pensado para programación y trabajo agéntico."
+              },
+              {
+                "t": "p",
+                "x": "Según Meta, la GPU integrada del M5 Ultra puede usar hasta 512 GB por Mac Studio, así que dos máquinas pueden alojar el modelo completo, y los 1.2 TB/s de ancho de banda de memoria bastan para leer la pequeña porción que necesita cada token."
+              },
+              {
+                "t": "p",
+                "x": "Apple aún no ha lanzado el Mac Studio de 512GB, pero debería llegar a finales de este mes. El modelo se puede descargar gratis, con una licencia que permite un uso comercial limitado."
               }
             ]
           }
@@ -607,213 +767,195 @@
       }
     },
     {
-      "id": "gadgets-apple-intelligence-china",
+      "id": "gadgets-sipeed-maixstation",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Apple AI 중국 상륙\n십이월 iOS 27.3부터",
-      "body": "Apple이 두 해 지연 끝에 iOS 27.3으로 중국에 AI를 내놓는다.",
-      "mini_headline": "Apple Intelligence, 중국으로",
       "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
+      "eyebrow": "AI NEWS",
+      "headline": "MaixStation,\nDGX Spark에 도전",
+      "body": "MaixStation은 예상가 $3,999에 128GB LPDDR5X를 갖췄다.",
+      "mini_headline": "Sipeed MaixStation, DGX Spark 경쟁작",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Bloomberg에 따르면 Apple은 두 해 동안 이어진 규제 지연을 끝내고 iOS 27.3에서 중국에 Apple Intelligence를 선보일 계획이다. 사진 편집 같은 기본 Apple Intelligence 기능은 들어가지만 Siri AI는 빠진다. Image Playground와 새 버전의 Genmoji도 제외되고, 텍스트 생성 도구는 제한된다."
-          },
-          {
             "t": "img",
-            "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+            "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+            "cap": "왼쪽부터 Sipeed의 MaixStation, Apple의 Mac mini, Nvidia의 DGX Spark (이미지 출처: Sipeed)"
           },
           {
             "t": "p",
-            "x": "South China Morning Post는 오늘, 중국 공업정보화부가 최근 Apple에 네트워크 접속 허가를 내주면서 Alibaba의 Qwen과 Tongyi Wanxiang 모델을 iPhone Duo, iPhone 18 Pro와 그 이전 iPhones에 넣을 수 있게 됐다고 보도했다. Apple Intelligence가 나올 길이 열린 셈이다."
+            "x": "적어도 서류상으로는 DGX Spark와 Ryzen AI Halo의 중국산 맞수가 나왔다. Sipeed가 발표한 MaixStation이다. Axera의 새 AX8860P 기반에 256-bit 버스, 273 GB/s 속도의 128GB LPDDR5X를 얹었다."
           },
           {
             "t": "p",
-            "x": "Apple은 iOS 18.1에서 첫 Apple Intelligence 기능을 선보였지만, 중국에서는 지금껏 쓸 수 없었다. 칠월에 중국 출시를 위한 첫 승인은 받았어도, 소비자에게 내놓으려면 승인이 한 번 더 필요했다."
+            "x": "Sipeed는 Tom’s Hardware Premium에 128GB 모델 가격을 약 $3,999로 예상한다며 Kickstarter에서 출시 할인을 준다고 밝혔다. 현재 $6,950인 DGX Spark보다 한참 싸다. Kickstarter 캠페인은 연말에 열린다."
           },
           {
             "t": "p",
-            "x": "중국은 외국 AI 기술을 제한한다. 그래서 Apple은 중국에서 Apple Intelligence를 내놓으려면 Alibaba, Baidu와 손잡아야 했다. AI 모델을 계속 업데이트할 때도 중국 정부 승인을 거치도록 허용해야 한다."
+            "x": "AX8860P는 16-core Arm Cortex-A55 칩이고, 네이티브 FP4 기준 256 TOPS를 내는 자체 NPU가 들어갔다. Sipeed는 Qwen 27B 모델을 돌릴 때 DGX Spark보다 프리필이 25%, 디코드가 30% 빠르다고 주장한다. 다만 이메일에서는 격차를 약 10%로 제시했다."
           },
           {
             "t": "p",
-            "x": "Huawei 등 중국 경쟁 스마트폰 업체들은 오래전부터 인공지능 기능을 내놨고, 비슷한 도구가 없던 Apple은 불리한 처지였다."
+            "x": "본체는 약 11 × 11 × 3 cm 크기에 USB-C로 약 40W를 쓴다. 성능 주장이 맞는지는 NPU 툴체인과 샘플 기기가 나와야 확인할 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple Intelligence comes to\nChina with iOS 27.3 in December",
-          "body": "After two years of regulatory delays, Apple plans to launch Apple Intelligence in China with iOS 27.3, minus Siri AI.",
-          "mini_headline": "Apple Intelligence heads to China",
+          "headline": "Sipeed’s MaixStation takes\non Nvidia’s DGX Spark",
+          "body": "Sipeed’s MaixStation, expected to cost $3,999, pairs Axera’s AX8860P chip with 128GB of LPDDR5X at 273 GB/s.",
+          "mini_headline": "Sipeed MaixStation rivals DGX Spark",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Apple plans to bring Apple Intelligence to China in iOS 27.3 after two years of regulatory delays, reports Bloomberg. The launch will include basic Apple Intelligence features for things like photo editing, but Siri AI won't be available. Image Playground and the newer version of Genmoji will be missing, plus text generation tools will be limited."
-              },
-              {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+                "cap": "From left: Sipeed’s MaixStation, Apple’s Mac mini and Nvidia’s DGX Spark (Image credit: Sipeed)"
               },
               {
                 "t": "p",
-                "x": "The South China Morning Post today reported that China's Ministry of Industry and Information Technology recently gave Apple network access permits to add Alibaba's Qwen and Tongyi Wanxiang models to the iPhone Duo, iPhone 18 Pro, and earlier iPhones, paving the way for an Apple Intelligence debut."
+                "x": "A Chinese rival to the DGX Spark and the Ryzen AI Halo, at least on paper, has emerged with Sipeed’s announcement of the MaixStation. Built on Axera’s new AX8860P, it has 128GB of LPDDR5X on a 256-bit bus at 273 GB/s."
               },
               {
                 "t": "p",
-                "x": "Apple introduced the first Apple Intelligence features in iOS 18.1, but they have been missing from China since launch. Apple received initial clearance to launch Apple Intelligence in China in July, but needed additional clearance for a consumer launch."
+                "x": "Sipeed told Tom’s Hardware Premium it expects the 128GB model to cost around $3,999, with launch discounts on Kickstarter — well under the DGX Spark’s current $6,950. A Kickstarter campaign follows at the end of the year."
               },
               {
                 "t": "p",
-                "x": "China restricts foreign AI technology, which meant Apple had to partner with Alibaba and Baidu to launch Apple Intelligence in the country. Apple also has to allow the Chinese government to approve ongoing updates to the AI models."
+                "x": "The AX8860P is a 16-core Arm Cortex-A55 part with an in-house NPU rated at 256 TOPS at native FP4. Sipeed claims 25% faster prefill and 30% faster decode than the DGX Spark running Qwen 27B, though in its email it put the lead at about 10%."
               },
               {
                 "t": "p",
-                "x": "Competing smartphone makers in China like Huawei have long offered artificial intelligence features, and Apple has been at a disadvantage without comparable tools."
+                "x": "The box measures about 11 × 11 × 3 cm and draws about 40W over USB-C. Testing the performance claims will have to wait for the NPU toolchain and sample machines."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple AI 중국 상륙\n십이월 iOS 27.3부터",
-          "body": "Apple이 두 해 지연 끝에 iOS 27.3으로 중국에 AI를 내놓는다.",
-          "mini_headline": "Apple Intelligence, 중국으로",
+          "headline": "MaixStation,\nDGX Spark에 도전",
+          "body": "MaixStation은 예상가 $3,999에 128GB LPDDR5X를 갖췄다.",
+          "mini_headline": "Sipeed MaixStation, DGX Spark 경쟁작",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Bloomberg에 따르면 Apple은 두 해 동안 이어진 규제 지연을 끝내고 iOS 27.3에서 중국에 Apple Intelligence를 선보일 계획이다. 사진 편집 같은 기본 Apple Intelligence 기능은 들어가지만 Siri AI는 빠진다. Image Playground와 새 버전의 Genmoji도 제외되고, 텍스트 생성 도구는 제한된다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+                "cap": "왼쪽부터 Sipeed의 MaixStation, Apple의 Mac mini, Nvidia의 DGX Spark (이미지 출처: Sipeed)"
               },
               {
                 "t": "p",
-                "x": "South China Morning Post는 오늘, 중국 공업정보화부가 최근 Apple에 네트워크 접속 허가를 내주면서 Alibaba의 Qwen과 Tongyi Wanxiang 모델을 iPhone Duo, iPhone 18 Pro와 그 이전 iPhones에 넣을 수 있게 됐다고 보도했다. Apple Intelligence가 나올 길이 열린 셈이다."
+                "x": "적어도 서류상으로는 DGX Spark와 Ryzen AI Halo의 중국산 맞수가 나왔다. Sipeed가 발표한 MaixStation이다. Axera의 새 AX8860P 기반에 256-bit 버스, 273 GB/s 속도의 128GB LPDDR5X를 얹었다."
               },
               {
                 "t": "p",
-                "x": "Apple은 iOS 18.1에서 첫 Apple Intelligence 기능을 선보였지만, 중국에서는 지금껏 쓸 수 없었다. 칠월에 중국 출시를 위한 첫 승인은 받았어도, 소비자에게 내놓으려면 승인이 한 번 더 필요했다."
+                "x": "Sipeed는 Tom’s Hardware Premium에 128GB 모델 가격을 약 $3,999로 예상한다며 Kickstarter에서 출시 할인을 준다고 밝혔다. 현재 $6,950인 DGX Spark보다 한참 싸다. Kickstarter 캠페인은 연말에 열린다."
               },
               {
                 "t": "p",
-                "x": "중국은 외국 AI 기술을 제한한다. 그래서 Apple은 중국에서 Apple Intelligence를 내놓으려면 Alibaba, Baidu와 손잡아야 했다. AI 모델을 계속 업데이트할 때도 중국 정부 승인을 거치도록 허용해야 한다."
+                "x": "AX8860P는 16-core Arm Cortex-A55 칩이고, 네이티브 FP4 기준 256 TOPS를 내는 자체 NPU가 들어갔다. Sipeed는 Qwen 27B 모델을 돌릴 때 DGX Spark보다 프리필이 25%, 디코드가 30% 빠르다고 주장한다. 다만 이메일에서는 격차를 약 10%로 제시했다."
               },
               {
                 "t": "p",
-                "x": "Huawei 등 중국 경쟁 스마트폰 업체들은 오래전부터 인공지능 기능을 내놨고, 비슷한 도구가 없던 Apple은 불리한 처지였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Apple AIが中国へ\n十二月のiOS 27.3で",
-          "body": "Appleは規制で二年遅れた中国でのAI提供を、iOS 27.3で始める。",
-          "mini_headline": "Apple Intelligenceが中国へ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Bloombergによると、Appleは二年にわたる規制上の遅れを経て、iOS 27.3で中国にApple Intelligenceを導入する計画だ。写真編集などの基本的なApple Intelligence機能は含まれるが、Siri AIは利用できない。Image Playgroundと新しいバージョンのGenmojiも外れ、テキスト生成ツールも限定的になる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "South China Morning Postは本日、中国の工業情報化部が最近、AlibabaのQwenとTongyi WanxiangのモデルをiPhone Duo、iPhone 18 Pro、およびそれ以前のiPhonesに追加するためのネットワーク接続許可をAppleに与えたと報じた。これによりApple Intelligenceの投入に道が開かれた。"
-              },
-              {
-                "t": "p",
-                "x": "AppleはiOS 18.1で最初のApple Intelligence機能を導入したが、中国では提供開始以来利用できないままだった。Appleは七月に中国でのApple Intelligence投入に向けた最初の承認を得たが、一般消費者向けの提供には追加の承認が必要だった。"
-              },
-              {
-                "t": "p",
-                "x": "中国は外国のAI技術を制限しているため、Appleは同国でApple Intelligenceを投入するにあたりAlibabaやBaiduと提携する必要があった。Appleはまた、AIモデルの継続的なアップデートを中国政府が承認することも認めなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "Huaweiなど中国の競合スマートフォンメーカーは以前から人工知能機能を提供しており、Appleは同等のツールを欠いて不利な立場にあった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple AI进入中国\n十二月随iOS 27.3上线",
-          "body": "历经两年监管延误，Apple将随iOS 27.3在中国推出AI功能，但不含Siri AI。",
-          "mini_headline": "Apple Intelligence进军中国",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "据Bloomberg报道，在经历两年的监管延误后，Apple计划通过iOS 27.3将Apple Intelligence引入中国。此次推出将包括照片编辑等基础Apple Intelligence功能，但Siri AI不会上线。Image Playground和新版Genmoji也将缺席，文本生成工具也会受到限制。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "South China Morning Post今天报道，中国工业和信息化部近期向Apple发放了网络接入许可，允许其将Alibaba的Qwen和Tongyi Wanxiang模型加入iPhone Duo、iPhone 18 Pro及更早的iPhones，为Apple Intelligence的首发铺平了道路。"
-              },
-              {
-                "t": "p",
-                "x": "Apple在iOS 18.1中推出了首批Apple Intelligence功能，但自发布以来中国市场一直缺席。Apple已于七月获得在中国推出Apple Intelligence的初步许可，但面向消费者推出还需要额外许可。"
-              },
-              {
-                "t": "p",
-                "x": "中国限制外国AI技术，这意味着Apple必须与Alibaba和Baidu合作，才能在中国推出Apple Intelligence。Apple还必须允许中国政府审批AI模型的持续更新。"
-              },
-              {
-                "t": "p",
-                "x": "Huawei等中国竞争对手手机厂商早已提供人工智能功能，而Apple因缺乏同类工具一直处于劣势。"
+                "x": "본체는 약 11 × 11 × 3 cm 크기에 USB-C로 약 40W를 쓴다. 성능 주장이 맞는지는 NPU 툴체인과 샘플 기기가 나와야 확인할 수 있다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple Intelligence llega a China\ncon iOS 27.3 en diciembre",
-          "body": "Tras dos años de retrasos regulatorios, Apple prevé lanzar Apple Intelligence en China con iOS 27.3, sin Siri AI.",
-          "mini_headline": "Apple Intelligence llega a China",
+          "headline": "La MaixStation de Sipeed compite\ncon el DGX Spark de Nvidia",
+          "body": "La MaixStation de Sipeed, que costaría $3,999, combina el chip AX8860P de Axera con 128GB de LPDDR5X a 273 GB/s.",
+          "mini_headline": "Sipeed MaixStation rivaliza con el DGX Spark",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Apple planea llevar Apple Intelligence a China en iOS 27.3 tras dos años de retrasos regulatorios, según Bloomberg. El lanzamiento incluirá funciones básicas de Apple Intelligence, como la edición de fotos, pero Siri AI no estará disponible. Faltarán Image Playground y la versión más reciente de Genmoji, y las herramientas de generación de texto serán limitadas."
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+                "cap": "Desde la izquierda: MaixStation de Sipeed, Mac mini de Apple y DGX Spark de Nvidia (Imagen: Sipeed)"
               },
+              {
+                "t": "p",
+                "x": "Ha surgido un rival chino para el DGX Spark y el Ryzen AI Halo, al menos sobre el papel, con el anuncio de la MaixStation de Sipeed. Basada en el nuevo AX8860P de Axera, cuenta con 128GB de LPDDR5X en un bus de 256-bit a 273 GB/s."
+              },
+              {
+                "t": "p",
+                "x": "Sipeed dijo a Tom’s Hardware Premium que prevé que el modelo de 128GB cueste unos $3,999, con descuentos de lanzamiento en Kickstarter, muy por debajo de los $6,950 que cuesta hoy el DGX Spark. Una campaña de Kickstarter seguirá a finales de año."
+              },
+              {
+                "t": "p",
+                "x": "El AX8860P es un chip Arm Cortex-A55 de 16-core con una NPU propia de 256 TOPS en FP4 nativo. Sipeed afirma un prefill un 25% más rápido y un decode un 30% más rápido que el DGX Spark con Qwen 27B, aunque en su correo cifró la ventaja en torno al 10%."
+              },
+              {
+                "t": "p",
+                "x": "El equipo mide unos 11 × 11 × 3 cm y consume unos 40W a través de USB-C. Para comprobar las cifras de rendimiento habrá que esperar a la cadena de herramientas de la NPU y a las unidades de muestra."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MaixStationが\nDGX Sparkに挑む",
+          "body": "MaixStationは約 $3,999 で 128GB の LPDDR5X を積む。",
+          "mini_headline": "Sipeed MaixStation、DGX Sparkに対抗",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+                "cap": "左から Sipeed の MaixStation、Apple の Mac mini、Nvidia の DGX Spark（Image credit: Sipeed）"
               },
               {
                 "t": "p",
-                "x": "El South China Morning Post informó hoy de que el Ministerio de Industria y Tecnologías de la Información de China concedió recientemente a Apple permisos de acceso a la red para añadir los modelos Qwen y Tongyi Wanxiang de Alibaba al iPhone Duo, al iPhone 18 Pro y a iPhones anteriores, lo que abre la puerta al debut de Apple Intelligence."
+                "x": "Sipeed が MaixStation を発表し、少なくとも仕様の上では DGX Spark や Ryzen AI Halo に対抗する中国製マシンが現れた。Axera の新チップ AX8860P を土台に、256-bit バスで 273 GB/s の LPDDR5X を 128GB 積む。"
               },
               {
                 "t": "p",
-                "x": "Apple presentó las primeras funciones de Apple Intelligence en iOS 18.1, pero no han estado disponibles en China desde su lanzamiento. Apple recibió en julio una autorización inicial para lanzar Apple Intelligence en China, pero necesitaba una autorización adicional para el lanzamiento al público."
+                "x": "Sipeed は Tom’s Hardware Premium に対し、128GB モデルの価格を約 $3,999 と見込み、Kickstarter では発売記念の割引を設けると説明した。DGX Spark の現行価格 $6,950 を大きく下回る。Kickstarter キャンペーンは年末に始まる。"
               },
               {
                 "t": "p",
-                "x": "China restringe la tecnología de AI extranjera, por lo que Apple tuvo que asociarse con Alibaba y Baidu para lanzar Apple Intelligence en el país. Apple también debe permitir que el Gobierno chino apruebe las actualizaciones continuas de los modelos de AI."
+                "x": "AX8860P は 16 コアの Arm Cortex-A55 チップで、ネイティブ FP4 で 256 TOPS の自社製 NPU を備える。Sipeed は Qwen 27B を動かした場合、DGX Spark より prefill が 25% 速く、decode が 30% 速いと主張するが、メールでは差を約 10% としていた。"
               },
               {
                 "t": "p",
-                "x": "Fabricantes rivales de smartphones en China, como Huawei, ofrecen desde hace tiempo funciones de inteligencia artificial, y Apple ha estado en desventaja sin herramientas comparables."
+                "x": "本体は約 11 × 11 × 3 cm で、USB-C から約 40W を受ける。性能の主張を検証できるのは、NPU ツールチェーンとサンプル機が出てからになる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MaixStation\n叫板 DGX Spark",
+          "body": "MaixStation 预计售价 $3,999，配备 128GB LPDDR5X 内存。",
+          "mini_headline": "Sipeed MaixStation 对标 DGX Spark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+                "cap": "从左至右：Sipeed 的 MaixStation、Apple 的 Mac mini 和 Nvidia 的 DGX Spark（Image credit: Sipeed）"
+              },
+              {
+                "t": "p",
+                "x": "随着 Sipeed 发布 MaixStation，一款至少在纸面上可与 DGX Spark 和 Ryzen AI Halo 抗衡的中国产品登场。它基于 Axera 新推出的 AX8860P，配备 128GB LPDDR5X，采用 256-bit 总线，带宽 273 GB/s。"
+              },
+              {
+                "t": "p",
+                "x": "Sipeed 向 Tom’s Hardware Premium 表示，128GB 版本预计售价约 $3,999，并将在 Kickstarter 提供首发折扣，远低于 DGX Spark 目前的 $6,950。Kickstarter 众筹将于年底启动。"
+              },
+              {
+                "t": "p",
+                "x": "AX8860P 是一款 16 核 Arm Cortex-A55 芯片，集成自研 NPU，原生 FP4 算力为 256 TOPS。Sipeed 称，运行 Qwen 27B 时，其 prefill 比 DGX Spark 快 25% ，decode 快 30% ，但在邮件中给出的领先幅度约为 10% 。"
+              },
+              {
+                "t": "p",
+                "x": "机身尺寸约 11 × 11 × 3 cm，通过 USB-C 供电，功耗约 40W 。性能说法的验证，还要等 NPU 工具链和样机到位。"
               }
             ]
           }
@@ -821,137 +963,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple AI 중국 상륙\n십이월 iOS 27.3부터",
-          "body": "Apple이 두 해 지연 끝에 iOS 27.3으로 중국에 AI를 내놓는다.",
-          "mini_headline": "Apple Intelligence, 중국으로",
+          "headline": "MaixStation,\nDGX Spark에 도전",
+          "body": "MaixStation 예상가는 $3,999이고 128GB LPDDR5X를 갖췄다.",
+          "mini_headline": "Sipeed MaixStation, DGX Spark 경쟁작",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Bloomberg에 따르면 Apple은 두 해에 걸친 규제 지연 끝에 iOS 27.3에서 중국에 Apple Intelligence를 선보일 계획이다. 사진 편집 같은 기본 Apple Intelligence 기능은 포함되지만 Siri AI는 제공되지 않는다. Image Playground와 새 버전의 Genmoji도 빠지고, 텍스트 생성 도구도 제한된다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+                "cap": "왼쪽부터 Sipeed의 MaixStation, Apple의 Mac mini, Nvidia의 DGX Spark (이미지 출처: Sipeed)"
               },
               {
                 "t": "p",
-                "x": "South China Morning Post는 오늘 중국 공업정보화부가 최근 Apple에 네트워크 접속 허가를 내줘 Alibaba의 Qwen과 Tongyi Wanxiang 모델을 iPhone Duo, iPhone 18 Pro와 그 이전 iPhones에 넣을 수 있게 됐다고 보도했다. Apple Intelligence 출시의 길이 열린 셈이다."
+                "x": "적어도 서류상으로는 DGX Spark와 Ryzen AI Halo에 맞설 중국산 경쟁 제품이 나왔다. Sipeed가 발표한 MaixStation이다. Axera의 새 AX8860P를 기반으로 256-bit 버스에 273 GB/s 속도의 128GB LPDDR5X를 갖췄다."
               },
               {
                 "t": "p",
-                "x": "Apple은 iOS 18.1에서 첫 Apple Intelligence 기능을 선보였지만, 출시 이후 중국에서는 제공되지 않았다. Apple은 칠월 중국 출시를 위한 첫 승인을 받았으나, 소비자 대상 출시에는 추가 승인이 필요했다."
+                "x": "Sipeed는 Tom’s Hardware Premium에 128GB 모델 가격을 약 $3,999로 예상하며 Kickstarter에서 출시 할인을 제공한다고 밝혔다. 현재 $6,950인 DGX Spark보다 한참 낮다. Kickstarter 캠페인은 연말에 이어진다."
               },
               {
                 "t": "p",
-                "x": "중국은 외국 AI 기술을 제한하고 있어, Apple은 중국에서 Apple Intelligence를 출시하려면 Alibaba, Baidu와 손잡아야 했다. Apple은 또 AI 모델의 지속적인 업데이트를 중국 정부가 승인하도록 허용해야 한다."
+                "x": "AX8860P는 16-core Arm Cortex-A55 칩으로, 네이티브 FP4 기준 256 TOPS의 자체 NPU를 갖췄다. Sipeed는 Qwen 27B 실행 시 DGX Spark보다 프리필이 25%, 디코드가 30% 빠르다고 주장하지만, 이메일에서는 격차를 약 10%로 제시했다."
               },
               {
                 "t": "p",
-                "x": "Huawei 등 중국의 경쟁 스마트폰 업체들은 오래전부터 인공지능 기능을 제공해 왔고, Apple은 비슷한 도구가 없어 불리한 처지에 놓여 있었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Apple AIが中国へ\n十二月のiOS 27.3で",
-          "body": "Appleは規制で二年遅れた中国でのAI提供を、iOS 27.3で始める。",
-          "mini_headline": "Apple Intelligenceが中国へ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Bloombergによると、Appleは二年にわたる規制上の遅れを経て、iOS 27.3で中国にApple Intelligenceを導入する計画だ。写真編集などの基本的なApple Intelligence機能は含まれるが、Siri AIは利用できない。Image Playgroundと新しいバージョンのGenmojiも外れ、テキスト生成ツールも限定的になる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "South China Morning Postは本日、中国の工業情報化部が最近、AlibabaのQwenとTongyi WanxiangのモデルをiPhone Duo、iPhone 18 Pro、およびそれ以前のiPhonesに追加するためのネットワーク接続許可をAppleに与えたと報じた。これによりApple Intelligenceの投入に道が開かれた。"
-              },
-              {
-                "t": "p",
-                "x": "AppleはiOS 18.1で最初のApple Intelligence機能を導入したが、中国では提供開始以来利用できないままだった。Appleは七月に中国でのApple Intelligence投入に向けた最初の承認を得たが、一般消費者向けの提供には追加の承認が必要だった。"
-              },
-              {
-                "t": "p",
-                "x": "中国は外国のAI技術を制限しているため、Appleは同国でApple Intelligenceを投入するにあたりAlibabaやBaiduと提携する必要があった。Appleはまた、AIモデルの継続的なアップデートを中国政府が承認することも認めなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "Huaweiなど中国の競合スマートフォンメーカーは以前から人工知能機能を提供しており、Appleは同等のツールを欠いて不利な立場にあった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple AI进入中国\n十二月随iOS 27.3上线",
-          "body": "历经两年监管延误，Apple将随iOS 27.3在中国推出AI功能，但不含Siri AI。",
-          "mini_headline": "Apple Intelligence进军中国",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "据Bloomberg报道，在经历两年的监管延误后，Apple计划通过iOS 27.3将Apple Intelligence引入中国。此次推出将包括照片编辑等基础Apple Intelligence功能，但Siri AI不会上线。Image Playground和新版Genmoji也将缺席，文本生成工具也会受到限制。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "South China Morning Post今天报道，中国工业和信息化部近期向Apple发放了网络接入许可，允许其将Alibaba的Qwen和Tongyi Wanxiang模型加入iPhone Duo、iPhone 18 Pro及更早的iPhones，为Apple Intelligence的首发铺平了道路。"
-              },
-              {
-                "t": "p",
-                "x": "Apple在iOS 18.1中推出了首批Apple Intelligence功能，但自发布以来中国市场一直缺席。Apple已于七月获得在中国推出Apple Intelligence的初步许可，但面向消费者推出还需要额外许可。"
-              },
-              {
-                "t": "p",
-                "x": "中国限制外国AI技术，这意味着Apple必须与Alibaba和Baidu合作，才能在中国推出Apple Intelligence。Apple还必须允许中国政府审批AI模型的持续更新。"
-              },
-              {
-                "t": "p",
-                "x": "Huawei等中国竞争对手手机厂商早已提供人工智能功能，而Apple因缺乏同类工具一直处于劣势。"
+                "x": "본체 크기는 약 11 × 11 × 3 cm이고, USB-C로 약 40W를 소비한다. 성능 주장을 검증하려면 NPU 툴체인과 샘플 기기가 나올 때까지 기다려야 한다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple Intelligence llega a China\ncon iOS 27.3 en diciembre",
-          "body": "Tras dos años de retrasos regulatorios, Apple prevé lanzar Apple Intelligence en China con iOS 27.3, sin Siri AI.",
-          "mini_headline": "Apple Intelligence llega a China",
+          "headline": "La MaixStation de Sipeed compite\ncon el DGX Spark de Nvidia",
+          "body": "La MaixStation de Sipeed, que costaría $3,999, combina el chip AX8860P de Axera con 128GB de LPDDR5X a 273 GB/s.",
+          "mini_headline": "Sipeed MaixStation rivaliza con el DGX Spark",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Apple planea llevar Apple Intelligence a China en iOS 27.3 tras dos años de retrasos regulatorios, según Bloomberg. El lanzamiento incluirá funciones básicas de Apple Intelligence, como la edición de fotos, pero Siri AI no estará disponible. Faltarán Image Playground y la versión más reciente de Genmoji, y las herramientas de generación de texto serán limitadas."
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+                "cap": "Desde la izquierda: MaixStation de Sipeed, Mac mini de Apple y DGX Spark de Nvidia (Imagen: Sipeed)"
               },
+              {
+                "t": "p",
+                "x": "Ha surgido un rival chino para el DGX Spark y el Ryzen AI Halo, al menos sobre el papel, con el anuncio de la MaixStation de Sipeed. Basada en el nuevo AX8860P de Axera, cuenta con 128GB de LPDDR5X en un bus de 256-bit a 273 GB/s."
+              },
+              {
+                "t": "p",
+                "x": "Sipeed dijo a Tom’s Hardware Premium que prevé que el modelo de 128GB cueste unos $3,999, con descuentos de lanzamiento en Kickstarter, muy por debajo de los $6,950 que cuesta hoy el DGX Spark. Una campaña de Kickstarter seguirá a finales de año."
+              },
+              {
+                "t": "p",
+                "x": "El AX8860P es un chip Arm Cortex-A55 de 16-core con una NPU propia de 256 TOPS en FP4 nativo. Sipeed afirma un prefill un 25% más rápido y un decode un 30% más rápido que el DGX Spark con Qwen 27B, aunque en su correo cifró la ventaja en torno al 10%."
+              },
+              {
+                "t": "p",
+                "x": "El equipo mide unos 11 × 11 × 3 cm y consume unos 40W a través de USB-C. Para comprobar las cifras de rendimiento habrá que esperar a la cadena de herramientas de la NPU y a las unidades de muestra."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MaixStationが\nDGX Sparkに挑む",
+          "body": "MaixStationは約 $3,999 で 128GB の LPDDR5X を積む。",
+          "mini_headline": "Sipeed MaixStation、DGX Sparkに対抗",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+                "cap": "左から Sipeed の MaixStation、Apple の Mac mini、Nvidia の DGX Spark（Image credit: Sipeed）"
               },
               {
                 "t": "p",
-                "x": "El South China Morning Post informó hoy de que el Ministerio de Industria y Tecnologías de la Información de China concedió recientemente a Apple permisos de acceso a la red para añadir los modelos Qwen y Tongyi Wanxiang de Alibaba al iPhone Duo, al iPhone 18 Pro y a iPhones anteriores, lo que abre la puerta al debut de Apple Intelligence."
+                "x": "Sipeed が MaixStation を発表し、少なくとも仕様の上では DGX Spark や Ryzen AI Halo に対抗する中国製マシンが現れた。Axera の新チップ AX8860P を土台に、256-bit バスで 273 GB/s の LPDDR5X を 128GB 積む。"
               },
               {
                 "t": "p",
-                "x": "Apple presentó las primeras funciones de Apple Intelligence en iOS 18.1, pero no han estado disponibles en China desde su lanzamiento. Apple recibió en julio una autorización inicial para lanzar Apple Intelligence en China, pero necesitaba una autorización adicional para el lanzamiento al público."
+                "x": "Sipeed は Tom’s Hardware Premium に対し、128GB モデルの価格を約 $3,999 と見込み、Kickstarter では発売記念の割引を設けると説明した。DGX Spark の現行価格 $6,950 を大きく下回る。Kickstarter キャンペーンは年末に始まる。"
               },
               {
                 "t": "p",
-                "x": "China restringe la tecnología de AI extranjera, por lo que Apple tuvo que asociarse con Alibaba y Baidu para lanzar Apple Intelligence en el país. Apple también debe permitir que el Gobierno chino apruebe las actualizaciones continuas de los modelos de AI."
+                "x": "AX8860P は 16 コアの Arm Cortex-A55 チップで、ネイティブ FP4 で 256 TOPS の自社製 NPU を備える。Sipeed は Qwen 27B を動かした場合、DGX Spark より prefill が 25% 速く、decode が 30% 速いと主張するが、メールでは差を約 10% としていた。"
               },
               {
                 "t": "p",
-                "x": "Fabricantes rivales de smartphones en China, como Huawei, ofrecen desde hace tiempo funciones de inteligencia artificial, y Apple ha estado en desventaja sin herramientas comparables."
+                "x": "本体は約 11 × 11 × 3 cm で、USB-C から約 40W を受ける。性能の主張を検証できるのは、NPU ツールチェーンとサンプル機が出てからになる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MaixStation\n叫板 DGX Spark",
+          "body": "MaixStation 预计售价 $3,999，配备 128GB LPDDR5X 内存。",
+          "mini_headline": "Sipeed MaixStation 对标 DGX Spark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+                "cap": "从左至右：Sipeed 的 MaixStation、Apple 的 Mac mini 和 Nvidia 的 DGX Spark（Image credit: Sipeed）"
+              },
+              {
+                "t": "p",
+                "x": "随着 Sipeed 发布 MaixStation，一款至少在纸面上可与 DGX Spark 和 Ryzen AI Halo 抗衡的中国产品登场。它基于 Axera 新推出的 AX8860P，配备 128GB LPDDR5X，采用 256-bit 总线，带宽 273 GB/s。"
+              },
+              {
+                "t": "p",
+                "x": "Sipeed 向 Tom’s Hardware Premium 表示，128GB 版本预计售价约 $3,999，并将在 Kickstarter 提供首发折扣，远低于 DGX Spark 目前的 $6,950。Kickstarter 众筹将于年底启动。"
+              },
+              {
+                "t": "p",
+                "x": "AX8860P 是一款 16 核 Arm Cortex-A55 芯片，集成自研 NPU，原生 FP4 算力为 256 TOPS。Sipeed 称，运行 Qwen 27B 时，其 prefill 比 DGX Spark 快 25% ，decode 快 30% ，但在邮件中给出的领先幅度约为 10% 。"
+              },
+              {
+                "t": "p",
+                "x": "机身尺寸约 11 × 11 × 3 cm，通过 USB-C 供电，功耗约 40W 。性能说法的验证，还要等 NPU 工具链和样机到位。"
               }
             ]
           }
@@ -959,15 +1089,15 @@
       }
     },
     {
-      "id": "gadgets-apple-minions",
+      "id": "gadgets-eiliko",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Apple, 쉬는 Mac을\n가상 GPU 클라우드로",
-      "body": "Apple의 Minions는 쉬는 Macs로 GPU 대기를 몇 분으로 줄인다.",
-      "mini_headline": "쉬는 Mac이 GPU 클라우드로",
       "tool": "Gadgets",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training",
+      "eyebrow": "AI NEWS",
+      "headline": "귀여운 AI 로봇 장난감,\n중국 서버로 비밀 전송",
+      "body": "Eiliko 로봇 장난감은 대화 1300만 건을 무방비한 중국 서버에 저장한다.",
+      "mini_headline": "Eiliko 로봇, 사용자 비밀 노출",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -975,185 +1105,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-            "cap": "Apple"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
           },
           {
             "t": "p",
-            "x": "Apple은 사내에서 놀고 있는 Macs를 묶은 “가상 GPU 클라우드”, 곧 “Minions”라는 시스템을 쓰고 있다. 자사 연구진이 최근 arXiv에 올린 논문 내용이다. Minions는 멈춰 있던 AI 작업을 네트워크의 Mac들에 나눠 보내 대기 시간을 몇 분 수준으로 줄인다. 그중에는 한때 회사 GPU 대기열에서 10-plus-hour 대기를 겪던 작업도 있다. 대상은 AI 추론뿐이다. 오픈소스 Hugging Face 모델로 만드는 임베딩, 그리고 Ollama를 거친 LLM 텍스트 생성이다."
+            "x": "새 디지털 반려동물이 나왔다. 마시멜로처럼 생긴 작고 귀여운 로봇이다. 그런데 “Eiliko”와 Wi-Fi로 대화하면 이 로봇은 중국으로 신호를 보낸다. 이 AI 컴패니언은 사용자가 한 말을 전부 중국 서버에 저장할 수 있고, 해커는 이 서버에 쉽게 들어가거나 로봇의 성격까지 가로챌 수 있다."
           },
           {
             "t": "p",
-            "x": "Minion Server가 작업을 하위 작업으로 쪼개 PostgreSQL에 저장하면, 각 Mac의 Minion Executor가 중앙 스케줄러 없이 REST APIs로 다음 작업을 가져온다. 입력은 Amazon S3에서 읽고, 실행은 자기 GPU에서 한다. Minion Watchdog은 오 분 간격의 하트비트를 지켜보다가 Mac이 잠들거나 오프라인이 되거나 주인이 다시 가져가면 작업을 대기열에 되돌린다."
+            "x": "“당신의 비밀은 제가 지켜 드릴게요.” 로봇은 The Verge의 Sean Hollister에게 이렇게 말했다. 하지만 해커 Sammy Azdoufal은 몇 분 만에 대화 기록 전체를 손에 넣었다. US 아동 프로필 31,000개 이상을 포함해 장난감 68,000대의 대화 1300만 건을 읽을 수 있었다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-            "cap": "Apple의 Minions 시스템 구성도 (Apple, AI-generated)"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "cap": "Azdoufal이 직접 산 Eiliko와 포즈를 취했다."
           },
           {
             "t": "p",
-            "x": "논문은 Minions가 새 GPU 요청 없이 인프라 비용을 없앤다고 설명한다. 다만 전기료나 하드웨어 마모는 계산에서 뺐다. 참여 방식은 비공식적이어서, 팀원들이 Slack 메시지로 동료에게 executor를 띄워 달라고 부탁하기도 한다. 자기 그룹 밖 기기에서 데이터가 돌아가는 걸 꺼리는 팀도 있어, Apple은 배포 범위를 팀 단위와 조직 단위로 한정해 이를 줄인다. 저자들은 Minions를 모델 학습까지 넓힐 계획이고, 언젠가 “전 세계 커뮤니티”의 놀고 있는 Macs가 공유 GPU 풀을 이룰 수 있다고 말한다. 지금은 Apple 안에서만 돌아간다."
+            "x": "Azdoufal이 확인해 보니 Energize Lab의 서비스에는 보호 장치가 전혀 없었고, 서비스가 대화를 읽어 사용자 프로필까지 만들고 있었다. 아이들의 사진과 짧은 음성 녹음은 공개 웹 주소에 그대로 올라가 있다."
+          },
+          {
+            "t": "p",
+            "x": "Energize Lab은 의미 있는 답을 내놓지 않았다. Azdoufal은 그 뒤 원격으로 장난감의 LLM을 탈취해 지구가 평평하다는 말을 하게 만들었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple research turns idle Macs\ninto a virtual GPU cloud",
-          "body": "Apple's internal Minions system pools idle Macs for AI inference, cutting GPU queues of 10-plus hours to minutes.",
-          "mini_headline": "Idle Macs become a GPU cloud",
+          "headline": "A cute AI robot toy sends\nsecrets to Chinese servers",
+          "body": "A hacker found Eiliko robot toys store 13 million user chats on unprotected Chinese servers, The Verge reports.",
+          "mini_headline": "Eiliko robot exposes user secrets",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-                "cap": "Apple"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Apple internally uses a system called \"Minions,\" a \"virtual GPU cloud\" made up of idle Macs, as described in a recent arXiv paper by its researchers. It takes stalled AI jobs, some that once faced 10-plus-hour company GPU queues, and distributes them to Macs on the network, cutting wait times to as little as minutes. It handles AI inference only: embeddings with open-source Hugging Face models and LLM text generation through Ollama."
+                "x": "There’s a new digital pet in town — a cute little marshmallow of a robot. But if you talk to “Eiliko” over Wi-Fi, it’ll phone home to China. Its AI companion can store everything you tell it on Chinese servers, where hackers can easily gain access or even hijack its personality."
               },
               {
                 "t": "p",
-                "x": "A Minion Server splits tasks into subtasks stored in PostgreSQL; a Minion Executor on each Mac pulls the next one over REST APIs, with no central scheduler, reading inputs from Amazon S3 and running them on its own GPU. A Minion Watchdog tracks five-minute heartbeats and requeues work when a Mac sleeps, goes offline or its owner takes it back."
+                "x": "“Your secrets are safe with me,” it told The Verge’s Sean Hollister. Within minutes, hacker Sammy Azdoufal had a full transcript — and could read 13 million conversations across a fleet of 68,000 toys, including over 31,000 child profiles in the US."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-                "cap": "Diagram of Apple's Minions system (Apple, AI-generated)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Azdoufal poses with the Eiliko he bought."
               },
               {
                 "t": "p",
-                "x": "The paper says Minions needs no new GPU requests and zeroes infrastructure cost, not counting electricity or hardware wear. Participation is informal: team members may send Slack messages asking others to run the executor. Teams worry about data running on devices outside their group, which Apple mitigates with team- and organization-scoped deployments. The authors plan to extend Minions to model training and say idle Macs \"across the global community\" could one day form a shared GPU pool. For now it works only inside Apple."
+                "x": "Azdoufal found Energize Lab’s service was completely unprotected, and that it reads conversations to build profiles of users. Photos of children and short audio recordings sit at public web addresses."
+              },
+              {
+                "t": "p",
+                "x": "Energize Lab did not meaningfully respond. Azdoufal later hijacked the toy’s LLM remotely, making it claim the Earth is flat."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple, 쉬는 Mac을\n가상 GPU 클라우드로",
-          "body": "Apple의 Minions는 쉬는 Macs로 GPU 대기를 몇 분으로 줄인다.",
-          "mini_headline": "쉬는 Mac이 GPU 클라우드로",
+          "headline": "귀여운 AI 로봇 장난감,\n중국 서버로 비밀 전송",
+          "body": "Eiliko 로봇 장난감은 대화 1300만 건을 무방비한 중국 서버에 저장한다.",
+          "mini_headline": "Eiliko 로봇, 사용자 비밀 노출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-                "cap": "Apple"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Apple은 사내에서 놀고 있는 Macs를 묶은 “가상 GPU 클라우드”, 곧 “Minions”라는 시스템을 쓰고 있다. 자사 연구진이 최근 arXiv에 올린 논문 내용이다. Minions는 멈춰 있던 AI 작업을 네트워크의 Mac들에 나눠 보내 대기 시간을 몇 분 수준으로 줄인다. 그중에는 한때 회사 GPU 대기열에서 10-plus-hour 대기를 겪던 작업도 있다. 대상은 AI 추론뿐이다. 오픈소스 Hugging Face 모델로 만드는 임베딩, 그리고 Ollama를 거친 LLM 텍스트 생성이다."
+                "x": "새 디지털 반려동물이 나왔다. 마시멜로처럼 생긴 작고 귀여운 로봇이다. 그런데 “Eiliko”와 Wi-Fi로 대화하면 이 로봇은 중국으로 신호를 보낸다. 이 AI 컴패니언은 사용자가 한 말을 전부 중국 서버에 저장할 수 있고, 해커는 이 서버에 쉽게 들어가거나 로봇의 성격까지 가로챌 수 있다."
               },
               {
                 "t": "p",
-                "x": "Minion Server가 작업을 하위 작업으로 쪼개 PostgreSQL에 저장하면, 각 Mac의 Minion Executor가 중앙 스케줄러 없이 REST APIs로 다음 작업을 가져온다. 입력은 Amazon S3에서 읽고, 실행은 자기 GPU에서 한다. Minion Watchdog은 오 분 간격의 하트비트를 지켜보다가 Mac이 잠들거나 오프라인이 되거나 주인이 다시 가져가면 작업을 대기열에 되돌린다."
+                "x": "“당신의 비밀은 제가 지켜 드릴게요.” 로봇은 The Verge의 Sean Hollister에게 이렇게 말했다. 하지만 해커 Sammy Azdoufal은 몇 분 만에 대화 기록 전체를 손에 넣었다. US 아동 프로필 31,000개 이상을 포함해 장난감 68,000대의 대화 1300만 건을 읽을 수 있었다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-                "cap": "Apple의 Minions 시스템 구성도 (Apple, AI-generated)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Azdoufal이 직접 산 Eiliko와 포즈를 취했다."
               },
               {
                 "t": "p",
-                "x": "논문은 Minions가 새 GPU 요청 없이 인프라 비용을 없앤다고 설명한다. 다만 전기료나 하드웨어 마모는 계산에서 뺐다. 참여 방식은 비공식적이어서, 팀원들이 Slack 메시지로 동료에게 executor를 띄워 달라고 부탁하기도 한다. 자기 그룹 밖 기기에서 데이터가 돌아가는 걸 꺼리는 팀도 있어, Apple은 배포 범위를 팀 단위와 조직 단위로 한정해 이를 줄인다. 저자들은 Minions를 모델 학습까지 넓힐 계획이고, 언젠가 “전 세계 커뮤니티”의 놀고 있는 Macs가 공유 GPU 풀을 이룰 수 있다고 말한다. 지금은 Apple 안에서만 돌아간다."
+                "x": "Azdoufal이 확인해 보니 Energize Lab의 서비스에는 보호 장치가 전혀 없었고, 서비스가 대화를 읽어 사용자 프로필까지 만들고 있었다. 아이들의 사진과 짧은 음성 녹음은 공개 웹 주소에 그대로 올라가 있다."
+              },
+              {
+                "t": "p",
+                "x": "Energize Lab은 의미 있는 답을 내놓지 않았다. Azdoufal은 그 뒤 원격으로 장난감의 LLM을 탈취해 지구가 평평하다는 말을 하게 만들었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple、遊休Macを\n仮想GPUクラウドに",
-          "body": "AppleのMinionsは遊休Macsを束ね、GPUの待ち時間を数分に縮める。",
-          "mini_headline": "遊休MacがGPUクラウドに",
+          "headline": "かわいいAIロボット玩具、\n秘密を中国サーバーへ",
+          "body": "Eilikoのロボット玩具が1300万件の会話を無防備な中国サーバーに保存していた。",
+          "mini_headline": "Eilikoロボットが利用者の秘密を晒す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-                "cap": "Apple"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Appleは社内で、遊休状態のMacsで構成する「仮想GPUクラウド」、「Minions」というシステムを使っている。同社の研究者が最近arXivで公開した論文で明らかにした。停滞したAIジョブ、なかには社内GPUの待ち行列で10-plus-hourの待ちを強いられていたものを、ネットワーク上のMacに分散し、待ち時間を数分程度にまで縮める。扱うのはAI推論のみで、オープンソースのHugging Faceモデルによる埋め込みと、Ollamaを介したLLMのテキスト生成だ。"
+                "x": "新しいデジタルペットが登場した。マシュマロのような小さくてかわいいロボットだ。だが「Eiliko」とWi-Fi経由で話すと、中国へ通信する。そのAIコンパニオンは、話した内容をすべて中国のサーバーに保存でき、ハッカーは容易にアクセスしたり、その人格を乗っ取ったりすらできる。"
               },
               {
                 "t": "p",
-                "x": "Minion Serverがタスクをサブタスクに分割してPostgreSQLに保存し、各MacのMinion Executorは中央スケジューラーを介さずREST APIsで次のサブタスクを取得、Amazon S3から入力を読み込んで自身のGPUで実行する。Minion Watchdogは五分ごとのハートビートを監視し、Macがスリープしたりオフラインになったり、所有者が使い始めたりすると作業を再びキューに戻す。"
+                "x": "「あなたの秘密は私が守ります」と、それはThe VergeのSean Hollisterに語った。だが数分のうちに、ハッカーのSammy Azdoufalは会話の全記録を手に入れ、US国内の31,000件以上の子どものプロフィールを含む、68,000台の玩具全体で1300万件の会話を読めるようになった。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-                "cap": "AppleのMinionsシステムの図(Apple、AI-generated)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "購入したEilikoと一緒にポーズをとるAzdoufal。"
               },
               {
                 "t": "p",
-                "x": "論文によると、Minionsは新たなGPUの申請を必要とせず、インフラコストをなくす。ただし電気代やハードウェアの消耗は含まない。参加は非公式で、チームメンバーがSlackで他の人にexecutorの実行を頼むこともある。チームは自分たちのグループ外の端末でデータが処理されることを懸念しており、Appleはチーム単位・組織単位に範囲を限定した展開でこれを緩和している。著者らはMinionsをモデルの学習にも広げる計画で、いずれ「世界中のコミュニティ」の遊休Macsが共有のGPUプールを形成しうると述べる。現時点ではApple社内でしか機能しない。"
+                "x": "AzdoufalはEnergize Labのサービスがまったく保護されておらず、会話を読み取ってユーザーのプロフィールを作成していることを突き止めた。子どもの写真や短い音声録音は公開されたウェブアドレスに置かれている。"
+              },
+              {
+                "t": "p",
+                "x": "Energize Labは実質的な回答をしなかった。Azdoufalはその後、玩具のLLMを遠隔で乗っ取り、地球は平らだと主張させた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple让闲置Mac\n变身虚拟GPU云",
-          "body": "Apple的Minions汇聚闲置Macs做AI推理，把GPU排队从10多小时缩至几分钟。",
-          "mini_headline": "闲置Mac变身GPU云",
+          "headline": "可爱AI机器人玩具\n把秘密传到中国服务器",
+          "body": "据The Verge报道，Eiliko机器人玩具将1300万条对话存于无防护的中国服务器。",
+          "mini_headline": "Eiliko机器人泄露用户秘密",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-                "cap": "Apple"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "据Apple研究人员近期在arXiv上发表的一篇论文介绍，Apple内部使用一套名为“Minions”的系统，这是一个由闲置Macs组成的“虚拟GPU云”。它接手停滞的AI任务——其中一些曾在公司GPU队列中面临10-plus-hour的等待——并将其分发到网络中的Mac上，把等待时间缩短到几分钟。它只处理AI推理：用开源Hugging Face模型生成嵌入，以及通过Ollama进行LLM文本生成。"
+                "x": "一款新的数字宠物登场了——一个棉花糖般的可爱小机器人。但如果你通过Wi-Fi与“Eiliko”交谈，它就会向中国回传数据。它的AI伴侣会把你说的一切存储在中国服务器上，黑客可以轻易访问这些服务器，甚至劫持它的个性。"
               },
               {
                 "t": "p",
-                "x": "Minion Server将任务拆分为子任务并存入PostgreSQL；每台Mac上的Minion Executor在没有中央调度器的情况下通过REST APIs拉取下一个子任务，从Amazon S3读取输入，并在自己的GPU上运行。Minion Watchdog跟踪五分钟一次的心跳，当某台Mac休眠、离线或被主人收回时，会把任务重新排队。"
+                "x": "“你的秘密在我这里很安全，”它对The Verge的Sean Hollister说。几分钟内，黑客Sammy Azdoufal就拿到了完整的对话记录，并能读取68,000台玩具上的1300万条对话，其中包括US超过31,000份儿童档案。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-                "cap": "Apple的Minions系统示意图（Apple，AI-generated）"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Azdoufal与他购买的Eiliko合影。"
               },
               {
                 "t": "p",
-                "x": "论文称，Minions无需申请新的GPU，基础设施成本降为零（不计电费和硬件损耗）。参与方式是非正式的：团队成员可能会发Slack消息，请别人运行executor。各团队担心数据在本组以外的设备上运行，Apple通过限定在团队和组织范围内的部署来缓解这一问题。作者计划将Minions扩展到模型训练，并表示有朝一日，“全球社区”的闲置Macs或许能组成共享的GPU池。目前它只在Apple内部运行。"
+                "x": "Azdoufal发现，Energize Lab的服务完全没有防护，而且会读取对话来建立用户画像。儿童照片和简短录音就放在公开的网址上。"
+              },
+              {
+                "t": "p",
+                "x": "Energize Lab没有作出实质回应。Azdoufal后来远程劫持了这款玩具的LLM，让它声称地球是平的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple convierte Macs inactivos\nen una nube virtual de GPU",
-          "body": "El sistema Minions de Apple agrupa Macs inactivos y reduce esperas de GPU de más de 10 horas a minutos.",
-          "mini_headline": "Macs inactivos, nube de GPU",
+          "headline": "Un tierno robot con AI envía\nsecretos a servidores chinos",
+          "body": "Un hacker halló que los robots Eiliko guardan 13 millones de chats en servidores chinos expuestos, según The Verge.",
+          "mini_headline": "El robot Eiliko expone secretos de usuarios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-                "cap": "Apple"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Apple utiliza internamente un sistema llamado \"Minions\", una \"nube virtual de GPU\" formada por Macs inactivos, según describe un artículo reciente de sus investigadores publicado en arXiv. Toma trabajos de AI atascados, algunos de los cuales llegaron a enfrentarse a colas de GPU de la empresa de más de 10 horas (10-plus-hour), y los reparte entre los Mac de la red, lo que reduce la espera a apenas minutos. Solo se ocupa de inferencia de AI: embeddings con modelos de código abierto de Hugging Face y generación de texto con LLM mediante Ollama."
+                "x": "Hay una nueva mascota digital: un pequeño y tierno robot con forma de malvavisco. Pero si hablas con “Eiliko” por Wi-Fi, se comunica con China. Su compañero de AI puede guardar todo lo que le cuentas en servidores chinos, donde los hackers pueden acceder con facilidad o incluso secuestrar su personalidad."
               },
               {
                 "t": "p",
-                "x": "Un Minion Server divide las tareas en subtareas almacenadas en PostgreSQL; un Minion Executor en cada Mac toma la siguiente a través de REST APIs, sin planificador central, lee las entradas desde Amazon S3 y las ejecuta en su propia GPU. Un Minion Watchdog sigue latidos cada cinco minutos y vuelve a poner en cola el trabajo cuando un Mac entra en reposo, se desconecta o su dueño lo recupera."
+                "x": "“Tus secretos están a salvo conmigo”, le dijo a Sean Hollister, de The Verge. En cuestión de minutos, el hacker Sammy Azdoufal tenía una transcripción completa, y pudo leer 13 millones de conversaciones de una flota de 68,000 juguetes, incluidos más de 31,000 perfiles infantiles en Estados Unidos (US)."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-                "cap": "Diagrama del sistema Minions de Apple (Apple, AI-generated)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Azdoufal posa con el Eiliko que compró."
               },
               {
                 "t": "p",
-                "x": "Según el artículo, Minions no requiere nuevas solicitudes de GPU y reduce a cero el coste de infraestructura, sin contar la electricidad ni el desgaste del hardware. La participación es informal: los miembros de un equipo pueden enviar mensajes de Slack pidiendo a otros que ejecuten el executor. A los equipos les preocupa que sus datos se procesen en dispositivos ajenos a su grupo, algo que Apple mitiga con despliegues limitados al equipo y a la organización. Los autores planean ampliar Minions al entrenamiento de modelos y dicen que los Macs inactivos \"de toda la comunidad global\" podrían formar algún día una reserva compartida de GPU. Por ahora solo funciona dentro de Apple."
+                "x": "Azdoufal descubrió que el servicio de Energize Lab no tenía ninguna protección y que lee las conversaciones para crear perfiles de los usuarios. Las fotos de niños y breves grabaciones de audio están en direcciones web públicas."
+              },
+              {
+                "t": "p",
+                "x": "Energize Lab no dio una respuesta significativa. Más tarde, Azdoufal secuestró de forma remota el LLM del juguete y le hizo afirmar que la Tierra es plana."
               }
             ]
           }
@@ -1161,129 +1309,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple, 쉬는 Mac을\n가상 GPU 클라우드로",
-          "body": "Apple의 Minions는 쉬는 Macs로 GPU 대기를 몇 분으로 줄인다.",
-          "mini_headline": "쉬는 Mac이 GPU 클라우드로",
+          "headline": "귀여운 AI 로봇 장난감,\n중국 서버로 비밀 전송",
+          "body": "Eiliko 로봇 장난감은 대화 1300만 건을 보호 없는 중국 서버에 저장한다.",
+          "mini_headline": "Eiliko 로봇, 사용자 비밀 노출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-                "cap": "Apple"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Apple은 내부적으로 놀고 있는 Macs로 구성한 “가상 GPU 클라우드”, 곧 “Minions”라는 시스템을 쓰고 있다. 자사 연구진이 최근 arXiv에 올린 논문에 담긴 내용이다. Minions는 멈춰 있던 AI 작업, 그중 일부는 한때 회사 GPU 대기열에서 10-plus-hour 대기를 겪던 작업을 네트워크상의 Mac들에 나눠 보내 대기 시간을 몇 분 수준까지 줄인다. 처리 대상은 AI 추론뿐으로, 오픈소스 Hugging Face 모델을 이용한 임베딩과 Ollama를 통한 LLM 텍스트 생성이다."
+                "x": "새로운 디지털 반려동물이 등장했다. 마시멜로처럼 생긴 귀여운 작은 로봇이다. 하지만 “Eiliko”와 Wi-Fi로 대화하면 이 로봇은 중국으로 신호를 보낸다. AI 컴패니언은 사용자가 한 말을 모두 중국 서버에 저장할 수 있고, 해커는 이 서버에 쉽게 접근하거나 로봇의 성격까지 탈취할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Minion Server가 작업을 하위 작업으로 쪼개 PostgreSQL에 저장하면, 각 Mac의 Minion Executor가 중앙 스케줄러 없이 REST APIs로 다음 작업을 가져와 Amazon S3에서 입력을 읽고 자기 GPU에서 실행한다. Minion Watchdog은 오 분 간격의 하트비트를 추적하다가 Mac이 잠들거나 오프라인이 되거나 주인이 다시 가져가면 작업을 대기열에 다시 넣는다."
+                "x": "“당신의 비밀은 제가 지켜 드릴게요.” 로봇은 The Verge의 Sean Hollister에게 이렇게 말했다. 그러나 몇 분 만에 해커 Sammy Azdoufal은 대화 기록 전체를 확보했고, US의 아동 프로필 31,000개 이상을 포함해 68,000대에 이르는 장난감의 대화 1300만 건을 읽을 수 있었다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-                "cap": "Apple의 Minions 시스템 구성도 (Apple, AI-generated)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Azdoufal이 직접 구입한 Eiliko와 포즈를 취하고 있다."
               },
               {
                 "t": "p",
-                "x": "논문에 따르면 Minions는 새 GPU 요청이 필요 없고 인프라 비용을 없앤다. 단, 전기료나 하드웨어 마모는 계산에 넣지 않았다. 참여는 비공식적이다. 팀원들이 Slack 메시지로 다른 사람에게 executor 실행을 부탁하기도 한다. 팀들은 자기 그룹 밖의 기기에서 데이터가 돌아가는 것을 우려하는데, Apple은 팀 단위와 조직 단위로 범위를 한정한 배포로 이를 완화한다. 저자들은 Minions를 모델 학습으로 확장할 계획이며, 언젠가 “전 세계 커뮤니티”의 놀고 있는 Macs가 공유 GPU 풀을 이룰 수 있다고 말한다. 지금은 Apple 내부에서만 작동한다."
+                "x": "Azdoufal은 Energize Lab의 서비스에 보호 장치가 전혀 없고, 이 서비스가 대화를 읽어 사용자 프로필을 만든다는 사실을 발견했다. 아이들의 사진과 짧은 음성 녹음은 공개 웹 주소에 그대로 올라가 있다."
+              },
+              {
+                "t": "p",
+                "x": "Energize Lab은 의미 있는 답변을 내놓지 않았다. Azdoufal은 이후 원격으로 장난감의 LLM을 탈취해 지구가 평평하다고 말하게 만들었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple、遊休Macを\n仮想GPUクラウドに",
-          "body": "AppleのMinionsは遊休Macsを束ね、GPUの待ち時間を数分に縮める。",
-          "mini_headline": "遊休MacがGPUクラウドに",
+          "headline": "かわいいAIロボット玩具、\n秘密を中国サーバーへ",
+          "body": "Eilikoのロボット玩具が1300万件の会話を無防備な中国サーバーに保存していた。",
+          "mini_headline": "Eilikoロボットが利用者の秘密を晒す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-                "cap": "Apple"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Appleは社内で、遊休状態のMacsで構成する「仮想GPUクラウド」、「Minions」というシステムを使っている。同社の研究者が最近arXivで公開した論文で明らかにした。停滞したAIジョブ、なかには社内GPUの待ち行列で10-plus-hourの待ちを強いられていたものを、ネットワーク上のMacに分散し、待ち時間を数分程度にまで縮める。扱うのはAI推論のみで、オープンソースのHugging Faceモデルによる埋め込みと、Ollamaを介したLLMのテキスト生成だ。"
+                "x": "新しいデジタルペットが登場した。マシュマロのような小さくてかわいいロボットだ。だが「Eiliko」とWi-Fi経由で話すと、中国へ通信する。そのAIコンパニオンは、話した内容をすべて中国のサーバーに保存でき、ハッカーは容易にアクセスしたり、その人格を乗っ取ったりすらできる。"
               },
               {
                 "t": "p",
-                "x": "Minion Serverがタスクをサブタスクに分割してPostgreSQLに保存し、各MacのMinion Executorは中央スケジューラーを介さずREST APIsで次のサブタスクを取得、Amazon S3から入力を読み込んで自身のGPUで実行する。Minion Watchdogは五分ごとのハートビートを監視し、Macがスリープしたりオフラインになったり、所有者が使い始めたりすると作業を再びキューに戻す。"
+                "x": "「あなたの秘密は私が守ります」と、それはThe VergeのSean Hollisterに語った。だが数分のうちに、ハッカーのSammy Azdoufalは会話の全記録を手に入れ、US国内の31,000件以上の子どものプロフィールを含む、68,000台の玩具全体で1300万件の会話を読めるようになった。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-                "cap": "AppleのMinionsシステムの図(Apple、AI-generated)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "購入したEilikoと一緒にポーズをとるAzdoufal。"
               },
               {
                 "t": "p",
-                "x": "論文によると、Minionsは新たなGPUの申請を必要とせず、インフラコストをなくす。ただし電気代やハードウェアの消耗は含まない。参加は非公式で、チームメンバーがSlackで他の人にexecutorの実行を頼むこともある。チームは自分たちのグループ外の端末でデータが処理されることを懸念しており、Appleはチーム単位・組織単位に範囲を限定した展開でこれを緩和している。著者らはMinionsをモデルの学習にも広げる計画で、いずれ「世界中のコミュニティ」の遊休Macsが共有のGPUプールを形成しうると述べる。現時点ではApple社内でしか機能しない。"
+                "x": "AzdoufalはEnergize Labのサービスがまったく保護されておらず、会話を読み取ってユーザーのプロフィールを作成していることを突き止めた。子どもの写真や短い音声録音は公開されたウェブアドレスに置かれている。"
+              },
+              {
+                "t": "p",
+                "x": "Energize Labは実質的な回答をしなかった。Azdoufalはその後、玩具のLLMを遠隔で乗っ取り、地球は平らだと主張させた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple让闲置Mac\n变身虚拟GPU云",
-          "body": "Apple的Minions汇聚闲置Macs做AI推理，把GPU排队从10多小时缩至几分钟。",
-          "mini_headline": "闲置Mac变身GPU云",
+          "headline": "可爱AI机器人玩具\n把秘密传到中国服务器",
+          "body": "据The Verge报道，Eiliko机器人玩具将1300万条对话存于无防护的中国服务器。",
+          "mini_headline": "Eiliko机器人泄露用户秘密",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-                "cap": "Apple"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "据Apple研究人员近期在arXiv上发表的一篇论文介绍，Apple内部使用一套名为“Minions”的系统，这是一个由闲置Macs组成的“虚拟GPU云”。它接手停滞的AI任务——其中一些曾在公司GPU队列中面临10-plus-hour的等待——并将其分发到网络中的Mac上，把等待时间缩短到几分钟。它只处理AI推理：用开源Hugging Face模型生成嵌入，以及通过Ollama进行LLM文本生成。"
+                "x": "一款新的数字宠物登场了——一个棉花糖般的可爱小机器人。但如果你通过Wi-Fi与“Eiliko”交谈，它就会向中国回传数据。它的AI伴侣会把你说的一切存储在中国服务器上，黑客可以轻易访问这些服务器，甚至劫持它的个性。"
               },
               {
                 "t": "p",
-                "x": "Minion Server将任务拆分为子任务并存入PostgreSQL；每台Mac上的Minion Executor在没有中央调度器的情况下通过REST APIs拉取下一个子任务，从Amazon S3读取输入，并在自己的GPU上运行。Minion Watchdog跟踪五分钟一次的心跳，当某台Mac休眠、离线或被主人收回时，会把任务重新排队。"
+                "x": "“你的秘密在我这里很安全，”它对The Verge的Sean Hollister说。几分钟内，黑客Sammy Azdoufal就拿到了完整的对话记录，并能读取68,000台玩具上的1300万条对话，其中包括US超过31,000份儿童档案。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-                "cap": "Apple的Minions系统示意图（Apple，AI-generated）"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Azdoufal与他购买的Eiliko合影。"
               },
               {
                 "t": "p",
-                "x": "论文称，Minions无需申请新的GPU，基础设施成本降为零（不计电费和硬件损耗）。参与方式是非正式的：团队成员可能会发Slack消息，请别人运行executor。各团队担心数据在本组以外的设备上运行，Apple通过限定在团队和组织范围内的部署来缓解这一问题。作者计划将Minions扩展到模型训练，并表示有朝一日，“全球社区”的闲置Macs或许能组成共享的GPU池。目前它只在Apple内部运行。"
+                "x": "Azdoufal发现，Energize Lab的服务完全没有防护，而且会读取对话来建立用户画像。儿童照片和简短录音就放在公开的网址上。"
+              },
+              {
+                "t": "p",
+                "x": "Energize Lab没有作出实质回应。Azdoufal后来远程劫持了这款玩具的LLM，让它声称地球是平的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple convierte Macs inactivos\nen una nube virtual de GPU",
-          "body": "El sistema Minions de Apple agrupa Macs inactivos y reduce esperas de GPU de más de 10 horas a minutos.",
-          "mini_headline": "Macs inactivos, nube de GPU",
+          "headline": "Un tierno robot con AI envía\nsecretos a servidores chinos",
+          "body": "Un hacker halló que los robots Eiliko guardan 13 millones de chats en servidores chinos expuestos, según The Verge.",
+          "mini_headline": "El robot Eiliko expone secretos de usuarios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg",
-                "cap": "Apple"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Apple utiliza internamente un sistema llamado \"Minions\", una \"nube virtual de GPU\" formada por Macs inactivos, según describe un artículo reciente de sus investigadores publicado en arXiv. Toma trabajos de AI atascados, algunos de los cuales llegaron a enfrentarse a colas de GPU de la empresa de más de 10 horas (10-plus-hour), y los reparte entre los Mac de la red, lo que reduce la espera a apenas minutos. Solo se ocupa de inferencia de AI: embeddings con modelos de código abierto de Hugging Face y generación de texto con LLM mediante Ollama."
+                "x": "Hay una nueva mascota digital: un pequeño y tierno robot con forma de malvavisco. Pero si hablas con “Eiliko” por Wi-Fi, se comunica con China. Su compañero de AI puede guardar todo lo que le cuentas en servidores chinos, donde los hackers pueden acceder con facilidad o incluso secuestrar su personalidad."
               },
               {
                 "t": "p",
-                "x": "Un Minion Server divide las tareas en subtareas almacenadas en PostgreSQL; un Minion Executor en cada Mac toma la siguiente a través de REST APIs, sin planificador central, lee las entradas desde Amazon S3 y las ejecuta en su propia GPU. Un Minion Watchdog sigue latidos cada cinco minutos y vuelve a poner en cola el trabajo cuando un Mac entra en reposo, se desconecta o su dueño lo recupera."
+                "x": "“Tus secretos están a salvo conmigo”, le dijo a Sean Hollister, de The Verge. En cuestión de minutos, el hacker Sammy Azdoufal tenía una transcripción completa, y pudo leer 13 millones de conversaciones de una flota de 68,000 juguetes, incluidos más de 31,000 perfiles infantiles en Estados Unidos (US)."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/JHEZ8hjMGMPj4NQvpRPqBT.png",
-                "cap": "Diagrama del sistema Minions de Apple (Apple, AI-generated)"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Azdoufal posa con el Eiliko que compró."
               },
               {
                 "t": "p",
-                "x": "Según el artículo, Minions no requiere nuevas solicitudes de GPU y reduce a cero el coste de infraestructura, sin contar la electricidad ni el desgaste del hardware. La participación es informal: los miembros de un equipo pueden enviar mensajes de Slack pidiendo a otros que ejecuten el executor. A los equipos les preocupa que sus datos se procesen en dispositivos ajenos a su grupo, algo que Apple mitiga con despliegues limitados al equipo y a la organización. Los autores planean ampliar Minions al entrenamiento de modelos y dicen que los Macs inactivos \"de toda la comunidad global\" podrían formar algún día una reserva compartida de GPU. Por ahora solo funciona dentro de Apple."
+                "x": "Azdoufal descubrió que el servicio de Energize Lab no tenía ninguna protección y que lee las conversaciones para crear perfiles de los usuarios. Las fotos de niños y breves grabaciones de audio están en direcciones web públicas."
+              },
+              {
+                "t": "p",
+                "x": "Energize Lab no dio una respuesta significativa. Más tarde, Azdoufal secuestró de forma remota el LLM del juguete y le hizo afirmar que la Tierra es plana."
               }
             ]
           }
@@ -1291,15 +1451,15 @@
       }
     },
     {
-      "id": "gadgets-hmd-flip-companion",
+      "id": "gadgets-iphone-ai-board",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "HMD 기본 폴더폰에\n유료 AI 말벗 탑재",
-      "body": "HMD 2660 Flip의 AI 말벗은 다섯 시간 체험 뒤 월 구독으로 바뀐다.",
-      "mini_headline": "HMD 폴더폰에 AI 친구",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html",
+      "eyebrow": "AI NEWS",
+      "headline": "탈옥 없이 $7 보드로\nAI가 iPhone 조작",
+      "body": "Henry Yuan의 약 $7짜리 보드면 AI가 탈옥 없이 iPhone을 조작한다.",
+      "mini_headline": "$7 보드로 AI가 iPhone 조작",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/phones/a-7-board-lets-an-ai-control-an-iphone-without-jailbreaking-it/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -1307,179 +1467,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-            "cap": "HMD 2660 Flip Senior Edition이 발표됐다"
+            "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
           },
           {
             "t": "p",
-            "x": "HMD가 노년층용 피처폰 HMD 2660 Flip Senior Edition을 내놨다. 가장 눈에 띄는 기능은 inTouch의 AI-powered 말벗 Mary다. HMD는 2026년 삼월 inTouch와 손잡았다. Mary는 폰에 내장돼 있어 따로 앱을 깔 필요가 없다."
+            "x": "약 $7짜리 회로 기판 하나면 AI 에이전트가 탈옥 없이 iPhone을 조작한다. 개발자 Henry Yuan의 오픈소스 ESP32 iPhone Agent는 USB 마우스와 키보드로 위장한 보드로 비전 모델을 휴대폰에 연결한다."
           },
           {
             "t": "p",
-            "x": "Mary는 역사와 자연부터 개인적인 경험까지 여러 주제로 대화하고, 이야기를 들려주고, 기억력 게임을 하며, 이전 대화도 기억한다. 말은 천천히 하고 쉬운 단어를 쓰며, 긴 침묵도 기다려 준다. 메뉴에서 Mary를 열고 통화 버튼만 누르면 된다."
+            "x": "에이전트는 AirPlay 화면 미러링으로 디스플레이를 보며 스크린샷을 비전 모델에 넘기고, 다음 동작은 비전 모델이 고른다. AssistiveTouch를 켜면 마우스 클릭은 탭으로, 드래그는 스와이프로 바뀐다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+            "cap": "Henry Yuan"
           },
           {
             "t": "p",
-            "x": "함정이 있다. 이 폰으로 Mary와 무료로 대화할 수 있는 시간은 다섯 시간뿐이다. 그 뒤에도 쓰려면 매달 €19.90를 내야 하고, 통신사 요금이 붙을 수도 있다. 구독은 자동 갱신되지 않고, 구독하지 않아도 폰은 그대로 쓸 수 있다."
+            "x": "$7은 테스트에 쓴 Seeed Studio XIAO ESP32S3 보드의 가격이다. Lightning iPhones에는 카메라 어댑터가 필요하고, 초기 설정에는 여전히 Xcode를 설치한 Mac이 있어야 한다."
           },
           {
             "t": "p",
-            "x": "하드웨어는 일반 2660 Flip과 똑같다. 2.8-inch QVGA 메인 디스플레이, 1.77-inch 외부 화면, Unisoc T107, 교체형 1,450 mAh 배터리, IP54, S30+ 플랫폼을 갖췄다. HMD의 UK 온라인 스토어에서 Cosy Black 색상을 £79.99에 판다."
+            "x": "한 단계에 몇 초씩 걸리고 가로 모드 앱은 지원하지 않는다. iOS는 암호 입력 화면과 Apple Pay 화면을 미러링 화면에서 뺀다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "HMD puts a paid AI companion\non a basic flip phone",
-          "body": "HMD's 2660 Flip adds an AI companion for elderly users that becomes a monthly subscription after a five-hour trial.",
-          "mini_headline": "HMD's flip phone gets an AI friend",
+          "headline": "A $7 board lets AI control\nan iPhone, no jailbreak",
+          "body": "Henry Yuan’s open-source project uses a roughly $7 board to let AI navigate an iPhone without jailbreaking it.",
+          "mini_headline": "$7 board lets AI drive iPhone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-                "cap": "The HMD 2660 Flip Senior Edition has been announced"
+                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
               },
               {
                 "t": "p",
-                "x": "HMD has introduced the HMD 2660 Flip Senior Edition, a feature phone for elderly users whose standout feature is Mary, an AI-powered companion from inTouch, which HMD partnered with in March 2026. It is built into the phone, so no extra app is needed."
+                "x": "A roughly $7 circuit board can give an AI agent control of an iPhone without jailbreaking it. Developer Henry Yuan’s open-source ESP32 iPhone Agent connects a vision model to the phone through a board that pretends to be a USB mouse and keyboard."
               },
               {
                 "t": "p",
-                "x": "Mary can discuss topics from history and nature to personal experiences, tell stories, play memory games and remember details from previous conversations. It speaks slowly, accommodates longer pauses and uses simple language; users open it from the menu and press the call button."
+                "x": "The agent watches the display through AirPlay screen mirroring and sends screenshots to a vision model, which chooses the next action. With AssistiveTouch enabled, mouse clicks become taps and dragging becomes swiping."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+                "cap": "Henry Yuan"
               },
               {
                 "t": "p",
-                "x": "The catch: the phone includes just five hours of complimentary conversations with Mary. After that, users must pay €19.90 every month to keep using it, and operator charges may apply. The subscription doesn't renew automatically, and the phone works even without it."
+                "x": "The $7 covers the tested Seeed Studio XIAO ESP32S3 board; Lightning iPhones need a camera adapter, and initial setup still requires a Mac with Xcode."
               },
               {
                 "t": "p",
-                "x": "Hardware matches the regular 2660 Flip: a 2.8-inch QVGA main display, a 1.77-inch external screen, Unisoc T107, a removable 1,450 mAh battery, IP54 and S30+. It is available through HMD's UK storefront for £79.99 in Cosy Black."
+                "x": "It takes a few seconds per step, landscape apps aren’t supported, and iOS keeps passcode and Apple Pay screens out of the mirrored feed."
               }
             ]
           }
         },
         "ko": {
-          "headline": "HMD 기본 폴더폰에\n유료 AI 말벗 탑재",
-          "body": "HMD 2660 Flip의 AI 말벗은 다섯 시간 체험 뒤 월 구독으로 바뀐다.",
-          "mini_headline": "HMD 폴더폰에 AI 친구",
+          "headline": "탈옥 없이 $7 보드로\nAI가 iPhone 조작",
+          "body": "Henry Yuan의 약 $7짜리 보드면 AI가 탈옥 없이 iPhone을 조작한다.",
+          "mini_headline": "$7 보드로 AI가 iPhone 조작",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-                "cap": "HMD 2660 Flip Senior Edition이 발표됐다"
+                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
               },
               {
                 "t": "p",
-                "x": "HMD가 노년층용 피처폰 HMD 2660 Flip Senior Edition을 내놨다. 가장 눈에 띄는 기능은 inTouch의 AI-powered 말벗 Mary다. HMD는 2026년 삼월 inTouch와 손잡았다. Mary는 폰에 내장돼 있어 따로 앱을 깔 필요가 없다."
+                "x": "약 $7짜리 회로 기판 하나면 AI 에이전트가 탈옥 없이 iPhone을 조작한다. 개발자 Henry Yuan의 오픈소스 ESP32 iPhone Agent는 USB 마우스와 키보드로 위장한 보드로 비전 모델을 휴대폰에 연결한다."
               },
               {
                 "t": "p",
-                "x": "Mary는 역사와 자연부터 개인적인 경험까지 여러 주제로 대화하고, 이야기를 들려주고, 기억력 게임을 하며, 이전 대화도 기억한다. 말은 천천히 하고 쉬운 단어를 쓰며, 긴 침묵도 기다려 준다. 메뉴에서 Mary를 열고 통화 버튼만 누르면 된다."
+                "x": "에이전트는 AirPlay 화면 미러링으로 디스플레이를 보며 스크린샷을 비전 모델에 넘기고, 다음 동작은 비전 모델이 고른다. AssistiveTouch를 켜면 마우스 클릭은 탭으로, 드래그는 스와이프로 바뀐다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+                "cap": "Henry Yuan"
               },
               {
                 "t": "p",
-                "x": "함정이 있다. 이 폰으로 Mary와 무료로 대화할 수 있는 시간은 다섯 시간뿐이다. 그 뒤에도 쓰려면 매달 €19.90를 내야 하고, 통신사 요금이 붙을 수도 있다. 구독은 자동 갱신되지 않고, 구독하지 않아도 폰은 그대로 쓸 수 있다."
+                "x": "$7은 테스트에 쓴 Seeed Studio XIAO ESP32S3 보드의 가격이다. Lightning iPhones에는 카메라 어댑터가 필요하고, 초기 설정에는 여전히 Xcode를 설치한 Mac이 있어야 한다."
               },
               {
                 "t": "p",
-                "x": "하드웨어는 일반 2660 Flip과 똑같다. 2.8-inch QVGA 메인 디스플레이, 1.77-inch 외부 화면, Unisoc T107, 교체형 1,450 mAh 배터리, IP54, S30+ 플랫폼을 갖췄다. HMD의 UK 온라인 스토어에서 Cosy Black 색상을 £79.99에 판다."
+                "x": "한 단계에 몇 초씩 걸리고 가로 모드 앱은 지원하지 않는다. iOS는 암호 입력 화면과 Apple Pay 화면을 미러링 화면에서 뺀다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HMDのガラケーに\n有料のAIコンパニオン",
-          "body": "HMDの2660 Flipは高齢者向けAIコンパニオンを搭載、五時間の試用後は月額制だ。",
-          "mini_headline": "HMDのガラケーにAIの友達",
+          "headline": "$7の基板でAIが\n脱獄なしにiPhone操作",
+          "body": "Henry Yuanは約$7の基板で、AIが脱獄なしでiPhoneを操れるようにした。",
+          "mini_headline": "$7基板でAIがiPhoneを操作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-                "cap": "HMD 2660 Flip Senior Editionが発表された"
+                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
               },
               {
                 "t": "p",
-                "x": "HMDは高齢者向けのフィーチャーフォン「HMD 2660 Flip Senior Edition」を発表した。目玉は、HMDが2026年三月に提携したinTouchによるAI-poweredのコンパニオン「Mary」だ。端末に組み込まれているため、追加のアプリは必要ない。"
+                "x": "約$7の回路基板で、AIエージェントが脱獄なしにiPhoneを操作できる。開発者Henry YuanのオープンソースESP32 iPhone Agentは、USBマウスとキーボードを装う基板を介してビジョンモデルをスマートフォンにつなぐ。"
               },
               {
                 "t": "p",
-                "x": "Maryは歴史や自然から個人的な体験まで幅広い話題で会話し、物語を語り、記憶ゲームで遊び、以前の会話の内容を覚えている。ゆっくり話し、長い間も待ち、平易な言葉を使う。利用者はメニューから開いて通話ボタンを押すだけだ。"
+                "x": "エージェントはAirPlayの画面ミラーリングで表示を監視し、スクリーンショットをビジョンモデルに送り、モデルが次の操作を選ぶ。AssistiveTouchを有効にすると、マウスのクリックはタップに、ドラッグはスワイプになる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+                "cap": "Henry Yuan"
               },
               {
                 "t": "p",
-                "x": "ただし落とし穴がある。Maryとの無料会話は五時間分しか付いていない。その後も使い続けるには毎月€19.90を支払う必要があり、通信事業者の料金がかかる場合もある。サブスクリプションは自動更新されず、契約しなくても電話は使える。"
+                "x": "$7はテストに使われたSeeed Studio XIAO ESP32S3基板の価格だ。Lightning iPhonesにはカメラアダプタが必要で、初期設定には今もXcodeを入れたMacが要る。"
               },
               {
                 "t": "p",
-                "x": "ハードウェアは通常の2660 Flipと同じで、2.8-inchのQVGAメインディスプレイ、1.77-inchの外部画面、Unisoc T107、取り外し可能な1,450 mAhバッテリー、IP54、S30+ を備える。HMDのUKオンラインストアで、カラーはCosy Black、価格は£79.99で販売されている。"
+                "x": "各ステップに数秒かかり、横向きのアプリには対応せず、iOSはパスコードとApple Payの画面をミラーリング映像から除外する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HMD基础翻盖机\n搭载付费AI陪伴",
-          "body": "HMD 2660 Flip为老年用户加入AI陪伴功能，五小时试用后转为按月订阅。",
-          "mini_headline": "HMD翻盖机迎来AI伙伴",
+          "headline": "$7电路板让AI\n免越狱操控iPhone",
+          "body": "Henry Yuan的开源项目用约$7的电路板，让AI无需越狱即可操控iPhone。",
+          "mini_headline": "$7电路板让AI操控iPhone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-                "cap": "HMD 2660 Flip Senior Edition正式发布"
+                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
               },
               {
                 "t": "p",
-                "x": "HMD推出了面向老年用户的功能机HMD 2660 Flip Senior Edition，其最大亮点是来自inTouch的AI-powered陪伴助手Mary，HMD于2026年三月与inTouch达成合作。Mary内置于手机中，无需额外安装应用。"
+                "x": "一块约$7的电路板就能让AI智能体在不越狱的情况下操控iPhone。开发者Henry Yuan的开源项目ESP32 iPhone Agent通过一块伪装成USB鼠标和键盘的电路板，把视觉模型与手机连接起来。"
               },
               {
                 "t": "p",
-                "x": "Mary可以聊从历史、自然到个人经历的各种话题，会讲故事、玩记忆游戏，还能记住之前对话中的细节。它语速缓慢，能容忍较长的停顿，并使用简单的语言；用户从菜单中打开它并按下通话键即可。"
+                "x": "该智能体通过AirPlay屏幕镜像观察显示内容，并把截图发送给视觉模型，由模型决定下一步操作。开启AssistiveTouch后，鼠标点击会变成轻点，拖动则变成滑动。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+                "cap": "Henry Yuan"
               },
               {
                 "t": "p",
-                "x": "问题在于：手机只附带五小时与Mary的免费对话。此后，用户每月须支付€19.90才能继续使用，还可能产生运营商费用。订阅不会自动续费，即使不订阅，手机也能正常使用。"
+                "x": "$7指的是测试所用的Seeed Studio XIAO ESP32S3开发板；Lightning iPhones需要相机转接器，初始设置仍需一台装有Xcode的Mac。"
               },
               {
                 "t": "p",
-                "x": "硬件与普通版2660 Flip相同：2.8-inch QVGA主屏、1.77-inch外屏、Unisoc T107、可拆卸的1,450 mAh电池、IP54以及S30+ 系统。该机通过HMD的UK官方商店发售，售价£79.99，配色为Cosy Black。"
+                "x": "每一步需要几秒钟，不支持横屏应用，iOS还会把密码界面和Apple Pay界面排除在镜像画面之外。"
               }
             ]
           }
         },
         "es": {
-          "headline": "HMD suma un compañero de AI\nde pago a un plegable básico",
-          "body": "El 2660 Flip de HMD suma un compañero de AI para mayores que pasa a cuota mensual tras una prueba de cinco horas.",
-          "mini_headline": "Un amigo AI en el plegable de HMD",
+          "headline": "Una placa de $7 deja que la AI\ncontrole un iPhone sin jailbreak",
+          "body": "El proyecto de código abierto de Henry Yuan usa una placa de unos $7 para que la AI maneje un iPhone sin jailbreak.",
+          "mini_headline": "Una placa de $7 deja a la AI manejar el iPhone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-                "cap": "Se ha anunciado el HMD 2660 Flip Senior Edition"
+                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
               },
               {
                 "t": "p",
-                "x": "HMD ha presentado el HMD 2660 Flip Senior Edition, un teléfono básico para personas mayores cuya función más destacada es Mary, un compañero AI-powered de inTouch, empresa con la que HMD se asoció en marzo de 2026. Viene integrado en el teléfono, así que no hace falta ninguna app adicional."
+                "x": "Una placa de circuito de unos $7 puede darle a un agente de AI el control de un iPhone sin hacerle jailbreak. El proyecto de código abierto ESP32 iPhone Agent, del desarrollador Henry Yuan, conecta un modelo de visión al teléfono mediante una placa que se hace pasar por un ratón y un teclado USB."
               },
               {
                 "t": "p",
-                "x": "Mary puede conversar sobre temas que van de la historia y la naturaleza a las experiencias personales, contar historias, jugar a juegos de memoria y recordar detalles de conversaciones anteriores. Habla despacio, tolera pausas largas y usa un lenguaje sencillo; los usuarios lo abren desde el menú y pulsan el botón de llamada."
+                "x": "El agente observa la pantalla mediante la duplicación de pantalla de AirPlay y envía capturas a un modelo de visión, que elige la siguiente acción. Con AssistiveTouch activado, los clics del ratón se convierten en toques y arrastrar se convierte en deslizar."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+                "cap": "Henry Yuan"
               },
               {
                 "t": "p",
-                "x": "La pega: el teléfono incluye solo cinco horas de conversación gratuita con Mary. Después, hay que pagar €19.90 al mes para seguir usándolo, y pueden aplicarse cargos del operador. La suscripción no se renueva automáticamente y el teléfono funciona incluso sin ella."
+                "x": "Los $7 corresponden a la placa Seeed Studio XIAO ESP32S3 probada; los iPhones con Lightning necesitan un adaptador de cámara, y la configuración inicial sigue requiriendo un Mac con Xcode."
               },
               {
                 "t": "p",
-                "x": "El hardware es el mismo que el del 2660 Flip normal: pantalla principal QVGA de 2.8-inch, pantalla externa de 1.77-inch, Unisoc T107, batería extraíble de 1,450 mAh, IP54 y S30+. Está disponible en la tienda de HMD en UK por £79.99 en color Cosy Black."
+                "x": "Cada paso tarda unos segundos, las apps en horizontal no son compatibles, e iOS mantiene las pantallas del código de acceso y de Apple Pay fuera de la imagen duplicada."
               }
             ]
           }
@@ -1487,125 +1671,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "HMD 기본 폴더폰에\n유료 AI 말벗 탑재",
-          "body": "HMD 2660 Flip의 AI 말벗은 다섯 시간 체험 뒤 월 구독으로 바뀐다.",
-          "mini_headline": "HMD 폴더폰에 AI 친구",
+          "headline": "탈옥 없이 $7 보드로\nAI가 iPhone 조작",
+          "body": "Henry Yuan의 약 $7 보드로 AI가 탈옥 없이 iPhone을 조작한다.",
+          "mini_headline": "$7 보드로 AI가 iPhone 조작",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-                "cap": "HMD 2660 Flip Senior Edition이 발표됐다"
+                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
               },
               {
                 "t": "p",
-                "x": "HMD가 노년층을 위한 피처폰 HMD 2660 Flip Senior Edition을 내놨다. 가장 눈에 띄는 기능은 inTouch의 AI-powered 말벗 Mary로, HMD는 2026년 삼월 inTouch와 제휴했다. Mary는 폰에 내장돼 있어 별도 앱이 필요 없다."
+                "x": "약 $7짜리 회로 기판 하나로 AI 에이전트가 탈옥 없이 iPhone을 조작할 수 있다. 개발자 Henry Yuan의 오픈소스 ESP32 iPhone Agent는 USB 마우스와 키보드로 위장한 보드를 통해 비전 모델을 휴대폰에 연결한다."
               },
               {
                 "t": "p",
-                "x": "Mary는 역사와 자연부터 개인적인 경험까지 여러 주제로 대화하고, 이야기를 들려주고, 기억력 게임을 하며, 이전 대화 내용을 기억한다. 천천히 말하고 긴 침묵도 기다려 주며 쉬운 말을 쓴다. 사용자는 메뉴에서 Mary를 열고 통화 버튼을 누르면 된다."
+                "x": "에이전트는 AirPlay 화면 미러링으로 디스플레이를 보면서 스크린샷을 비전 모델에 보내고, 비전 모델이 다음 동작을 고른다. AssistiveTouch를 켜면 마우스 클릭은 탭이 되고, 드래그는 스와이프가 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+                "cap": "Henry Yuan"
               },
               {
                 "t": "p",
-                "x": "함정이 있다. 이 폰에는 Mary와의 무료 대화가 다섯 시간만 포함돼 있다. 그 뒤로도 쓰려면 매달 €19.90를 내야 하고, 통신사 요금이 붙을 수 있다. 구독은 자동 갱신되지 않으며, 구독하지 않아도 폰은 쓸 수 있다."
+                "x": "$7은 테스트에 쓰인 Seeed Studio XIAO ESP32S3 보드 가격이다. Lightning iPhones는 카메라 어댑터가 필요하고, 초기 설정에는 여전히 Xcode가 설치된 Mac이 있어야 한다."
               },
               {
                 "t": "p",
-                "x": "하드웨어는 일반 2660 Flip과 같다. 2.8-inch QVGA 메인 디스플레이, 1.77-inch 외부 화면, Unisoc T107, 교체형 1,450 mAh 배터리, IP54, S30+ 플랫폼을 갖췄다. HMD의 UK 온라인 스토어에서 Cosy Black 색상으로 £79.99에 판매한다."
+                "x": "단계마다 몇 초가 걸리고, 가로 모드 앱은 지원하지 않으며, iOS는 암호 입력 화면과 Apple Pay 화면을 미러링 화면에서 제외한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HMDのガラケーに\n有料のAIコンパニオン",
-          "body": "HMDの2660 Flipは高齢者向けAIコンパニオンを搭載、五時間の試用後は月額制だ。",
-          "mini_headline": "HMDのガラケーにAIの友達",
+          "headline": "$7の基板でAIが\n脱獄なしにiPhone操作",
+          "body": "Henry Yuanは約$7の基板で、AIが脱獄なしでiPhoneを操れるようにした。",
+          "mini_headline": "$7基板でAIがiPhoneを操作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-                "cap": "HMD 2660 Flip Senior Editionが発表された"
+                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
               },
               {
                 "t": "p",
-                "x": "HMDは高齢者向けのフィーチャーフォン「HMD 2660 Flip Senior Edition」を発表した。目玉は、HMDが2026年三月に提携したinTouchによるAI-poweredのコンパニオン「Mary」だ。端末に組み込まれているため、追加のアプリは必要ない。"
+                "x": "約$7の回路基板で、AIエージェントが脱獄なしにiPhoneを操作できる。開発者Henry YuanのオープンソースESP32 iPhone Agentは、USBマウスとキーボードを装う基板を介してビジョンモデルをスマートフォンにつなぐ。"
               },
               {
                 "t": "p",
-                "x": "Maryは歴史や自然から個人的な体験まで幅広い話題で会話し、物語を語り、記憶ゲームで遊び、以前の会話の内容を覚えている。ゆっくり話し、長い間も待ち、平易な言葉を使う。利用者はメニューから開いて通話ボタンを押すだけだ。"
+                "x": "エージェントはAirPlayの画面ミラーリングで表示を監視し、スクリーンショットをビジョンモデルに送り、モデルが次の操作を選ぶ。AssistiveTouchを有効にすると、マウスのクリックはタップに、ドラッグはスワイプになる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+                "cap": "Henry Yuan"
               },
               {
                 "t": "p",
-                "x": "ただし落とし穴がある。Maryとの無料会話は五時間分しか付いていない。その後も使い続けるには毎月€19.90を支払う必要があり、通信事業者の料金がかかる場合もある。サブスクリプションは自動更新されず、契約しなくても電話は使える。"
+                "x": "$7はテストに使われたSeeed Studio XIAO ESP32S3基板の価格だ。Lightning iPhonesにはカメラアダプタが必要で、初期設定には今もXcodeを入れたMacが要る。"
               },
               {
                 "t": "p",
-                "x": "ハードウェアは通常の2660 Flipと同じで、2.8-inchのQVGAメインディスプレイ、1.77-inchの外部画面、Unisoc T107、取り外し可能な1,450 mAhバッテリー、IP54、S30+ を備える。HMDのUKオンラインストアで、カラーはCosy Black、価格は£79.99で販売されている。"
+                "x": "各ステップに数秒かかり、横向きのアプリには対応せず、iOSはパスコードとApple Payの画面をミラーリング映像から除外する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "HMD基础翻盖机\n搭载付费AI陪伴",
-          "body": "HMD 2660 Flip为老年用户加入AI陪伴功能，五小时试用后转为按月订阅。",
-          "mini_headline": "HMD翻盖机迎来AI伙伴",
+          "headline": "$7电路板让AI\n免越狱操控iPhone",
+          "body": "Henry Yuan的开源项目用约$7的电路板，让AI无需越狱即可操控iPhone。",
+          "mini_headline": "$7电路板让AI操控iPhone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-                "cap": "HMD 2660 Flip Senior Edition正式发布"
+                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
               },
               {
                 "t": "p",
-                "x": "HMD推出了面向老年用户的功能机HMD 2660 Flip Senior Edition，其最大亮点是来自inTouch的AI-powered陪伴助手Mary，HMD于2026年三月与inTouch达成合作。Mary内置于手机中，无需额外安装应用。"
+                "x": "一块约$7的电路板就能让AI智能体在不越狱的情况下操控iPhone。开发者Henry Yuan的开源项目ESP32 iPhone Agent通过一块伪装成USB鼠标和键盘的电路板，把视觉模型与手机连接起来。"
               },
               {
                 "t": "p",
-                "x": "Mary可以聊从历史、自然到个人经历的各种话题，会讲故事、玩记忆游戏，还能记住之前对话中的细节。它语速缓慢，能容忍较长的停顿，并使用简单的语言；用户从菜单中打开它并按下通话键即可。"
+                "x": "该智能体通过AirPlay屏幕镜像观察显示内容，并把截图发送给视觉模型，由模型决定下一步操作。开启AssistiveTouch后，鼠标点击会变成轻点，拖动则变成滑动。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+                "cap": "Henry Yuan"
               },
               {
                 "t": "p",
-                "x": "问题在于：手机只附带五小时与Mary的免费对话。此后，用户每月须支付€19.90才能继续使用，还可能产生运营商费用。订阅不会自动续费，即使不订阅，手机也能正常使用。"
+                "x": "$7指的是测试所用的Seeed Studio XIAO ESP32S3开发板；Lightning iPhones需要相机转接器，初始设置仍需一台装有Xcode的Mac。"
               },
               {
                 "t": "p",
-                "x": "硬件与普通版2660 Flip相同：2.8-inch QVGA主屏、1.77-inch外屏、Unisoc T107、可拆卸的1,450 mAh电池、IP54以及S30+ 系统。该机通过HMD的UK官方商店发售，售价£79.99，配色为Cosy Black。"
+                "x": "每一步需要几秒钟，不支持横屏应用，iOS还会把密码界面和Apple Pay界面排除在镜像画面之外。"
               }
             ]
           }
         },
         "es": {
-          "headline": "HMD suma un compañero de AI\nde pago a un plegable básico",
-          "body": "El 2660 Flip de HMD suma un compañero de AI para mayores que pasa a cuota mensual tras una prueba de cinco horas.",
-          "mini_headline": "Un amigo AI en el plegable de HMD",
+          "headline": "Una placa de $7 deja que la AI\ncontrole un iPhone sin jailbreak",
+          "body": "El proyecto de código abierto de Henry Yuan usa una placa de unos $7 para que la AI maneje un iPhone sin jailbreak.",
+          "mini_headline": "Una placa de $7 deja a la AI manejar el iPhone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png",
-                "cap": "Se ha anunciado el HMD 2660 Flip Senior Edition"
+                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
               },
               {
                 "t": "p",
-                "x": "HMD ha presentado el HMD 2660 Flip Senior Edition, un teléfono básico para personas mayores cuya función más destacada es Mary, un compañero AI-powered de inTouch, empresa con la que HMD se asoció en marzo de 2026. Viene integrado en el teléfono, así que no hace falta ninguna app adicional."
+                "x": "Una placa de circuito de unos $7 puede darle a un agente de AI el control de un iPhone sin hacerle jailbreak. El proyecto de código abierto ESP32 iPhone Agent, del desarrollador Henry Yuan, conecta un modelo de visión al teléfono mediante una placa que se hace pasar por un ratón y un teclado USB."
               },
               {
                 "t": "p",
-                "x": "Mary puede conversar sobre temas que van de la historia y la naturaleza a las experiencias personales, contar historias, jugar a juegos de memoria y recordar detalles de conversaciones anteriores. Habla despacio, tolera pausas largas y usa un lenguaje sencillo; los usuarios lo abren desde el menú y pulsan el botón de llamada."
+                "x": "El agente observa la pantalla mediante la duplicación de pantalla de AirPlay y envía capturas a un modelo de visión, que elige la siguiente acción. Con AssistiveTouch activado, los clics del ratón se convierten en toques y arrastrar se convierte en deslizar."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+                "cap": "Henry Yuan"
               },
               {
                 "t": "p",
-                "x": "La pega: el teléfono incluye solo cinco horas de conversación gratuita con Mary. Después, hay que pagar €19.90 al mes para seguir usándolo, y pueden aplicarse cargos del operador. La suscripción no se renueva automáticamente y el teléfono funciona incluso sin ella."
+                "x": "Los $7 corresponden a la placa Seeed Studio XIAO ESP32S3 probada; los iPhones con Lightning necesitan un adaptador de cámara, y la configuración inicial sigue requiriendo un Mac con Xcode."
               },
               {
                 "t": "p",
-                "x": "El hardware es el mismo que el del 2660 Flip normal: pantalla principal QVGA de 2.8-inch, pantalla externa de 1.77-inch, Unisoc T107, batería extraíble de 1,450 mAh, IP54 y S30+. Está disponible en la tienda de HMD en UK por £79.99 en color Cosy Black."
+                "x": "Cada paso tarda unos segundos, las apps en horizontal no son compatibles, e iOS mantiene las pantallas del código de acceso y de Apple Pay fuera de la imagen duplicada."
               }
             ]
           }

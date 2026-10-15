@@ -1,185 +1,202 @@
 {
+  "date": "2026-10-16",
   "section": "medicine",
-  "now_iso": "2026-10-14T22:00:44Z",
+  "now_iso": "2026-10-15T22:00:32Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Lobbyists and trade groups fight to shape how states regulate medical AI",
-      "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
-      "source": "STAT",
-      "published_iso": "2026-10-14T08:30:00+00:00",
-      "excerpt": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_217176023-1024x576.jpeg",
-      "category": "medicine"
-    },
-    {
-      "title": "I’m a doctor. Here’s what I want the public to know about AI tools and health care costs",
-      "url": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/",
-      "source": "STAT",
-      "published_iso": "2026-10-06T08:30:00+00:00",
-      "excerpt": "“We can document honestly and still wind up inflating hospital bills,” writes a frustrated doctor.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_274628745-1024x576.jpeg",
-      "category": "medicine"
-    },
-    {
-      "title": "Johns Hopkins Medicine taps OpenEvidence to bring AI into medical education, clinical care",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/johns-hopkins-medicine-taps-openevidence-design-ai-tools-medical-training",
-      "source": "Fierce Healthcare",
-      "published_iso": "2026-10-13T08:00:00-04:00",
-      "excerpt": "Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercebiotech/1614609749/johnshopkinssm.jpg/johnshopkinssm.jpg?VersionId=qIMJkmz.nHEJUsLocgEA3NvgJWNqF766",
-      "category": "medicine"
-    },
-    {
-      "title": "Are Hospital Operating Rooms Ready For FDA’s Expectations for Surgical Robots?",
-      "url": "https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/",
-      "source": "MedCity News",
-      "published_iso": "2026-10-12T12:00:00+00:00",
-      "excerpt": "The FDA recently published draft guidance on pre-market testing for robotically-assisted surgical devices, raising timely discussion around whether hospital infrastructures are capable of supporting increasingly complex systems. ",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1215416571.jpg",
+      "title": "Radiologists, LLMs fail at spotting AI-generated chest x-rays",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15837620/radiologists-llms-fail-at-spotting-aigenerated-chest-xrays",
+      "source": "AuntMinnie",
       "category": "medicine",
+      "published_iso": "2026-10-15T19:00:38Z",
+      "og_image": "",
+      "excerpt": "Seoul National University Hospital tested radiologists and LLMs on 40 real and 120 synthetic chest x-rays; neither was reliable enough to be the primary safeguard, so the authors urge cryptographic credentials or watermarking to guard image authenticity."
+    },
+    {
+      "title": "AI leads to lower turnaround times for high-volume imaging",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15836861/ai-leads-to-lower-turnaround-times-for-highvolume-imaging",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-10-08T12:22:00Z",
+      "og_image": "",
+      "excerpt": "A JACR study of multi-vendor radiology AI at scale found report turnaround fell up to 26% for trauma imaging, worth about 0.69 radiologist FTE, but data-routing latency often decided whether AI results reached radiologists in time."
+    },
+    {
+      "title": "HPI: Evidence contradicts broad claims about AI, radiology workforce",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-10-13T12:00:00Z",
+      "og_image": "",
+      "excerpt": "The Neiman Health Policy Institute rebuts a JAMA Health Forum claim that AI has reduced the need for radiologists, citing imaging demand projected to grow 17-27% by 2055 and rising radiologist workload."
+    },
+    {
+      "title": "Researchers develop way of adapting adult radiology AI models to pediatric population",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/researchers-develop-way-adapting-adult-radiology-ai-models-pediatric-population",
+      "source": "Radiology Business",
+      "category": "medicine",
+      "published_iso": "2026-10-14T08:34:30+00:00",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2018-07/istock-851956258_super.jpg.webp?itok=gnUBCN34",
+      "excerpt": "Only about 17% of FDA-authorized AI devices are labeled for children; a Nature Biomedical Engineering piece describes adapting an adult chest X-ray model to pediatrics with multi-hospital federated data that never leaves each institution. (Check vs 10-14 neonatal ETT continual-learning card - possibly same paper family.)",
       "history_match": {
-        "score": 0.356,
-        "date": "2026-10-11",
-        "url": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
-        "title": "FDA to prioritize guidance on AI, surgical robots next year",
+        "score": 0.22,
+        "date": "2026-10-14",
+        "url": "https://www.nature.com/articles/s41551-026-01812-6",
+        "title": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
         "band": "related"
       }
     },
     {
-      "title": "AI Can Flag Cognitive Decline Earlier — Health Systems Still Own What Happens Next",
-      "url": "https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/",
-      "source": "MedCity News",
-      "published_iso": "2026-10-08T13:53:00+00:00",
-      "excerpt": "Earlier detection is valuable, but it creates a duty that does not end when an alert appears in the electronic health record. Health systems need to decide, in advance, how a risk signal becomes a clinically accountable pathway.",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2025/08/dementia-alzheimers.jpg",
+      "title": "AMA releases governance framework for agentic AI in healthcare",
+      "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+      "source": "Healthcare Dive",
       "category": "medicine",
-      "history_match": {
-        "score": 0.175,
-        "date": "2026-10-09",
-        "url": "https://www.nature.com/articles/s41746-026-03346-2",
-        "title": "Early epilepsy detection from electronic health records with large language models",
-        "band": "related"
-      }
+      "published_iso": "2026-10-15T11:33:18-04:00",
+      "og_image": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+      "excerpt": "The American Medical Association released a governance framework for AI agents in healthcare, as industry groups issue guidance on agentic AI in the absence of federal regulation."
+    },
+    {
+      "title": "OpenEvidence drew 271M queries from 952,000 clinicians in 2.5 years (JAMA study)",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openevidence-drew-271m-queries-from-952000-clinicians-in-2-5-years/",
+      "source": "Becker's Hospital Review",
+      "category": "medicine",
+      "published_iso": "2026-10-15T15:44:52+00:00",
+      "og_image": "",
+      "excerpt": "A JAMA cross-sectional study (doi 10.1001/jama.2026.21868, online 2026-10-15) characterizes clinician use of the AI clinical information platform OpenEvidence: 271M queries from about 952,000 clinicians, by clinician type, specialty and query purpose. Primary source is jamanetwork.com (Cloudflare-blocked)."
+    },
+    {
+      "title": "UChicago Medicine's CMIO: Promising 30% readmissions dip? Prove it",
+      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/uchicago-medicines-cmio-promising-30-readmissions-dip-prove-it/",
+      "source": "Becker's Hospital Review",
+      "category": "medicine",
+      "published_iso": "2026-10-13T14:36:40+00:00",
+      "og_image": "",
+      "excerpt": "UChicago Medicine's CMIO says AI vendors must commit to measurable outcomes such as readmission reductions and build into existing infrastructure instead of shipping point solutions."
+    },
+    {
+      "title": "Announcing JAMA AI - A New Journal From the JAMA Network",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855493",
+      "source": "JAMA",
+      "category": "medicine",
+      "published_iso": "2026-10-15T16:30:18Z",
+      "og_image": "",
+      "excerpt": "JAMA AI, the 14th JAMA Network journal, launches in early 2027 to publish clinical research on AI and computational tools - wearables, digital pathology, imaging and implementation methods - applied to patient care. (Date verified via Crossref created; page Cloudflare-blocked.)"
+    },
+    {
+      "title": "Public Perceptions of Timeliness for AI Use and Human Oversight",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39048",
+      "source": "JAMA Network Open",
+      "category": "medicine",
+      "published_iso": "2026-10-14T15:00:00Z",
+      "og_image": "",
+      "excerpt": "Cross-sectional study of public views on AI for patient-portal messaging and mental health support, stratified by generation, with an invited commentary 'Waiting for the Human in the Loop' on timely access vs human oversight. (Crossref created 2026-10-14; canonical DOI https://doi.org/10.1001/jamanetworkopen.2026.39048.)"
+    },
+    {
+      "title": "An AI framework for end-to-end rare disease phenotyping from clinical notes using large language models",
+      "url": "https://www.nature.com/articles/s41746-026-03275-0",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-15T00:00:00Z",
+      "og_image": "",
+      "excerpt": "An LLM-based framework operationalizes the full rare disease phenotyping pipeline from clinical notes, replacing labor-intensive manual curation of structured phenotypes used in rare disease diagnosis."
+    },
+    {
+      "title": "AI-based hourly prediction of emergency department demand integrating social determinants of health",
+      "url": "https://www.nature.com/articles/s41746-026-03378-8",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-12T00:00:00Z",
+      "og_image": "",
+      "excerpt": "An AI model forecasts hourly ED arrivals using social determinants of health alongside temporal and weather signals, aiming at proactive ED staffing against crowding linked to delayed treatment and mortality."
+    },
+    {
+      "title": "Early prediction of prolonged ICU stay in sepsis patients using an explainable hybrid deep learning model",
+      "url": "https://www.nature.com/articles/s41746-026-03387-7",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-09T00:00:00Z",
+      "og_image": "",
+      "excerpt": "An explainable hybrid deep learning model predicts prolonged ICU stay early in sepsis patients, where existing severity scores fall short."
+    },
+    {
+      "title": "AI will force doctors to focus on clinical reasoning, experts say",
+      "url": "https://endpoints.news/ai-will-force-doctors-to-focus-on-clinical-reasoning-experts-say/",
+      "source": "Endpoints News",
+      "category": "medicine",
+      "published_iso": "2026-10-15T13:00:35+00:00",
+      "og_image": "https://endpoints.news/wp-content/uploads/2026/02/AI-health-tech-artificial-intelligence-shutterstock-1.jpg",
+      "excerpt": "At an Endpoints panel, UCI Health's Pandita and Beth Israel's Rodman debated how AI tools like OpenEvidence are reshaping physician skills toward clinical reasoning."
     },
     {
       "title": "Why Agentic AI Works in Hospitals When You Strip It Down",
       "url": "https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/",
       "source": "MedCity News",
+      "category": "medicine",
       "published_iso": "2026-10-14T13:30:00+00:00",
-      "excerpt": "Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use.",
       "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg",
-      "category": "medicine"
+      "excerpt": "Hospitals running many simultaneous AI-agent pilots hit 'pilot sprawl' where they cannot say which agents are still in use; the piece argues for narrow, stripped-down agent deployments. (Opinion.)"
     },
     {
-      "title": "Electronic health record developer adherence to federal AI risk transparency requirements - npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03152-w",
-      "source": "npj Digital Medicine (Nature)",
-      "published_iso": "2026-10-14T00:00:00Z",
-      "excerpt": "We evaluated electronic health record developer compliance with federal transparency requirements for AI-enabled predictive decision support interventions. Developers are required to publicly report on risk analysis, mitigation, governance, and on eight other attributes. Across 35 developers, report",
+      "title": "'AI sandboxes' are all the rage. Advocates scramble to control their future",
+      "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-10-15T13:14:37+00:00",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2024/02/AdobeStock_540774532-1024x576.jpeg",
+      "excerpt": "STAT Health Tech newsletter: a behind-the-scenes look at groups vying to shape rules for state health-AI regulatory sandboxes. (STAT+; overlaps Utah sandbox / FSMB coverage.)",
+      "history_match": {
+        "score": 0.198,
+        "date": "2026-10-15",
+        "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
+        "title": "Lobbyists and trade groups fight to shape how states regulate medical AI",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Why this startup is taking its AI to predict breast cancer risk directly to patients",
+      "url": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-10-08T08:30:00+00:00",
       "og_image": "",
-      "category": "medicine"
+      "excerpt": "Clairity, maker of an FDA-authorized mammogram-based breast cancer risk prediction AI, is taking the tool direct to consumers. (STAT+; breast imaging is saturated in recent cards.)",
+      "history_match": {
+        "score": 0.423,
+        "date": "2026-10-08",
+        "url": "https://www.auntminnie.com/clinical-news/womens-imaging/news/15836407/clairity-expands-access-to-ai-breast-cancer-risk-tool-via-everlywell",
+        "title": "Clairity expands access to AI breast cancer risk tool via Everlywell",
+        "band": "likely-repeat"
+      }
     },
     {
-      "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
-      "url": "https://www.nature.com/articles/s41586-026-11162-7",
-      "source": "Nature",
-      "published_iso": "2026-10-14T00:00:00Z",
-      "excerpt": "Artificial intelligence-enabled quantification and analyses of brown adipose tissue (BAT) activity uncover links between BAT and a healthier metabolic profile along with lower rates of psychiatric disease, and can identify pharmacologic agents that could be repurposed to activate this tissue in huma",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11162-7/MediaObjects/41586_2026_11162_Fig1_HTML.png",
-      "category": "medicine"
+      "title": "Are Med Students Cheating if They Use AI?",
+      "url": "https://www.medpagetoday.com/publichealthpolicy/medicaleducation/123439",
+      "source": "MedPage Today",
+      "category": "medicine",
+      "published_iso": "2026-10-15T17:04:00-04:00",
+      "og_image": "",
+      "excerpt": "At the AHCJ Fall Summit, Cedars-Sinai's Graciela Gonzalez-Hernandez argued AI use in medical school is not plagiarism and described an AI-friendly curriculum that teaches prompt construction."
     },
     {
-      "title": "Hidden signals in sleep can predict future health",
-      "url": "https://www.nature.com/articles/d41586-026-03207-8",
-      "source": "Nature",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "excerpt": "From a single night of sleep, AI tools can uncover physiological patterns linked to disease and mortality that are missed by conventional sleep measures.",
-      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03207-8/d41586-026-03207-8_53840454.jpg",
-      "category": "medicine"
-    },
-    {
-      "title": "MHRA 2030 Strategy to modernise patient-centred regulation for the era of AI and personalised medicines",
-      "url": "https://www.gov.uk/government/news/mhra-2030-strategy-to-modernise-patient-centred-regulation-for-the-era-of-ai-and-personalised-medicines",
-      "source": "GOV.UK (MHRA)",
-      "published_iso": "2026-10-14T10:00:03+01:00",
-      "excerpt": "The Medicines and Healthcare products Regulatory Agency (MHRA) has set out ambitious plans to translate cutting-edge scientific and technological innovation into better health outcomes for patients across all four nations of the UK, in its 2030 Strategy published today.",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "category": "medicine"
-    },
-    {
-      "title": "Bradford skin cancer waiting times cut by new AI technology",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
-      "source": "BBC News",
-      "published_iso": "2026-10-05T05:15:56.014Z",
-      "excerpt": "Clinic can now see more patients and get results faster thanks to new scanning technology.",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/75f2/live/c039ff40-bbe4-11f1-a430-4d16ee157c41.jpg",
-      "category": "medicine"
-    },
-    {
-      "title": "AI, Tech Leaders Are Lobbying Trump Health Officials in a Government-Run Chat Room - KFF Health News",
-      "url": "https://kffhealthnews.org/health-industry/ai-tech-lobbying-medicare-medical-records-apps-trump-cms-slack-fda/",
-      "source": "KFF Health News",
-      "published_iso": "2026-10-09T09:00:00+00:00",
-      "excerpt": "A Slack workspace managed by the Centers for Medicare & Medicaid Services has served as an extraordinary war room for AI industry insiders and Trump administration officials to launch a rapid campaign aimed at persuading Americans to manage their healthcare and medical records on apps.",
-      "og_image": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/10/GettyImages-2227770705.jpg",
-      "category": "medicine"
-    },
-    {
-      "title": "AI in Health Care Moves Toward More Autonomous Roles — The Monitor",
-      "url": "https://www.kff.org/health-information-trust/ai-in-health-care-moves-toward-more-autonomous-roles/",
-      "source": "KFF",
-      "published_iso": "2026-10-08T12:00:00+00:00",
-      "excerpt": "Federal health agencies are testing AI applications that move into patient care typically handled by physicians. And recent research suggests people may place more trust in conversational AI, while false claims attributed to authoritative sources can increase willingness to share them.",
-      "og_image": "https://www.kff.org/wp-content/uploads/sites/7/2026/10/261008_TheMonitor_FI.png",
-      "category": "medicine"
-    },
-    {
-      "title": "AI in Health Care: Who Gets Left Behind?",
-      "url": "https://www.kff.org/other-health/ai-in-health-care-who-gets-left-behind/",
-      "source": "KFF",
-      "published_iso": "2026-10-13T09:00:00+00:00",
-      "excerpt": "Health care's AI future is being built right now. The open question is “for whom?” Dr. Uché Blackstock — emergency physician, former associate professor at NYU School of Medicine, founder and CEO of Advancing Health Equity, and author of The New York Times bestseller “Legacy: A Black Physician Recko",
-      "og_image": "https://www.kff.org/wp-content/uploads/sites/7/2026/10/BoH_Ep19_Uche-Blackstock_Promo-Image_16x9.png",
-      "category": "medicine"
-    },
-    {
-      "title": "Physicians fire back against HHS secretary’s claim AI is ‘better informed’ than human docs",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/physicians-fire-back-against-hhs-secretarys-claim-ai-better-informed-human-docs",
-      "source": "Radiology Business",
-      "published_iso": "2026-10-01T06:34:04+00:00",
-      "excerpt": "Health and Human Services Secretary Robert Kennedy Jr. said he believes the technology offers the opportunity to “free us from medical tyranny.”",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2020-10/istock-924555512_1.jpg?h=c327dd01&itok=SPFFDuvT",
-      "category": "medicine"
-    },
-    {
-      "title": "Brainomix adds patient input to e-Lung lung CT study",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837482/brainomix-adds-patient-input-to-elung-lung-ct-study",
-      "source": "AuntMinnie",
-      "published_iso": "2026-10-14T19:50:41Z",
-      "excerpt": "Brainomix is extending its e-Lung AI CT study in fibrotic interstitial lung disease, run with Boehringer Ingelheim, to add patient-reported input drawn from a patient community.",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ild.KCyEc4r5cL.jpg",
-      "category": "medicine"
-    },
-    {
-      "title": "Role of the Digital Mental Health Technology (DMHT) Working Group",
-      "url": "https://www.gov.uk/government/publications/role-of-the-digital-mental-health-technology-dmht-working-group",
-      "source": "GOV.UK (MHRA)",
-      "published_iso": "2026-10-09T11:02:48+01:00",
-      "excerpt": "MHRA and NICE describe how the Digital Mental Health Technology Working Group shaped regulation, evaluation and AI priorities for digital mental health tools, including risks of generative AI in mental health and the DMHT AI Airlock.",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "category": "medicine"
+      "title": "No Mastery without the Machine - Medical Education in the Age of Clinical AI",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2600773",
+      "source": "NEJM AI",
+      "category": "medicine",
+      "published_iso": "2026-10-13T14:00:16Z",
+      "og_image": "",
+      "excerpt": "NEJM AI perspective on how medical education must change so trainees master clinical AI tools. (Date from Crossref created.)"
     }
   ],
   "dedup": {
     "dropped": 4,
-    "kept": 17,
+    "kept": 18,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 2,
+    "review": 3,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -382,6 +399,31 @@
       "date": "2026-10-14",
       "title": "Human–artificial intelligence collaboration for comanaging epilepsy in real time",
       "url": "https://www.nature.com/articles/s41591-026-04680-4"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Bradford skin cancer waiting times cut by new AI technology",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "MHRA 2030 Strategy to modernise patient-centred regulation for the era of AI and personalised medicines",
+      "url": "https://www.gov.uk/government/news/mhra-2030-strategy-to-modernise-patient-centred-regulation-for-the-era-of-ai-and-personalised-medicines"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Artificial intelligence-enabled clinical phenotyping of human brown fat",
+      "url": "https://www.nature.com/articles/s41586-026-11162-7"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Electronic health record developer adherence to federal AI risk transparency requirements - npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03152-w"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Lobbyists and trade groups fight to shape how states regulate medical AI",
+      "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/"
     }
   ]
 }

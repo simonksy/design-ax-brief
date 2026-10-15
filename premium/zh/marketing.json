@@ -1116,6 +1116,117 @@
           "x": "E-commerce已成为AI的主战场之一：Google和Amazon都在投资代理购物工具，而Amazon正就代理是否应代客户购物，与Perplexity以及最近的Meta旗下Muse展开交锋。"
         }
       ]
+    },
+    "marketing/marketing-google-universal-cart": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xMDZus5hxYI"
+        },
+        {
+          "t": "p",
+          "x": "Google表示，Universal Cart现已向U.S.用户开放。这款工具可让用户收集并追踪在Search和Gemini应用中找到的商品，最早于5月的Google I/O上预览。"
+        },
+        {
+          "t": "p",
+          "x": "购物车可汇集多家零售商的商品，并在已保存商品降价或缺货商品补货时发送通知。Google称，它还能考虑信用卡优惠，并显示相关促销码。"
+        },
+        {
+          "t": "p",
+          "x": "结账环节与Google的Universal Commerce Protocol (UCP)相连，这是一项开放标准，旨在帮助AI智能体与零售商在整个购物流程中协同工作。Amazon、OpenAI等竞争对手也已加入代理式购物功能。"
+        }
+      ]
+    },
+    "marketing/marketing-fox-agentic-linear": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+          "cap": "Fox广告销售主管Jeff Collins在2025年Fox预售推介会上。Frank Micelotta/Fox"
+        },
+        {
+          "t": "p",
+          "x": "Fox在持续推进AI-powered技术之际，正在扩展其所称的TV广告业“首个端到端智能体平台”。"
+        },
+        {
+          "t": "p",
+          "x": "该公司告诉ADWEEK，其智能体部署将进入下一阶段：增加更多代理商合作伙伴，将智能体能力扩展至端到端的线性交易，并最终扩展至数字交易，同时让智能体在未来的预售洽谈中占据更大比重。"
+        },
+        {
+          "t": "p",
+          "x": "Fox广告业务负责人Jeff Collins表示，这些技术进步正在与客户和合作伙伴之间建立更具影响力的关系。"
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-report": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads似乎正在测试一份名为Search terms and ad combinations report（搜索词与广告组合报告）的新报告，展示搜索查询、广告创意和落地页如何协同发挥作用。"
+        },
+        {
+          "t": "p",
+          "x": "该报告由Natasha Kaurra发现，她在LinkedIn上表示，这“对于投放AI Max for Search广告系列的广告主来说，看起来是一项有用的新增功能”。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+          "cap": "Google Ads Search Terms And Ad Combinations Report（搜索词与广告组合报告）"
+        },
+        {
+          "t": "p",
+          "x": "除触发广告的搜索词外，它还会显示所投放的标题和描述、用户被引导到的落地页、匹配来源（AI Max扩展匹配，或落地页与URL纳入）以及素材来源（素材是否由广告主提供）。"
+        },
+        {
+          "t": "p",
+          "x": "Kaurra补充道：“这份报告为我们提供了另一种方式，用来识别搜索意图、广告信息与落地页之间的错配。”"
+        }
+      ]
+    },
+    "marketing/marketing-stripe-agentic-commerce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+          "cap": "Stripe总裁John Collison。Getty Images Entertainment via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Stripe总裁John Collison在自己的Cheeky Pint播客中与Meta Platforms CEO Mark Zuckerberg及首席AI官Alexandr Wang对谈时表示，Stripe上的智能体商务从9月开始急剧增长。"
+        },
+        {
+          "t": "p",
+          "x": "Collison说：“…我们5月在Sessions上发布了一大堆内容，然后直到9月，它才基本上开始直线上升。”他没有给出具体数字。"
+        },
+        {
+          "t": "p",
+          "x": "这番话出现在三人讨论Meta的AI助手Muse及其按指令购买商品的能力时。Amazon最近禁止Muse在其网站上购物；Zuckerberg表示，屏蔽它的公司很可能会后悔。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-gem": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta发布了其2026代生成式广告模型（Generative Ads Model，GEM）的技术说明，称在各广告位和投放目标上转化率提升18.9%，点击率提升12%。该公司以一个中央基础模型取代了Facebook、Instagram和Reels各自的预测系统，其输出再被迁移到数百个实时投放广告的小模型中。"
+        },
+        {
+          "t": "p",
+          "x": "文章没有说明这些数字以什么为基准、覆盖哪个时段，也没有说明来自A/B测试还是离线评估。数据由厂商自行提供，未经独立审计。"
+        },
+        {
+          "t": "p",
+          "x": "据Meta称，新架构Kunlun取代了Interformer，“在相同的计算扩展下带来2x 的性能提升”。LoopFM和Solaris把GEM的知识传递给下游模型，GEM则“在数千块最新一代GPUs 上”以20-25%的MFU进行训练。"
+        },
+        {
+          "t": "p",
+          "x": "对广告主而言，这些机制在Ads Manager中都没有可调设置，其效果通过Advantage+和自动投放体现。"
+        }
+      ]
     }
   }
 }

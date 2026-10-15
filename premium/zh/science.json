@@ -6995,6 +6995,150 @@
           "x": "“如果我们提出的突触模体确实被大脑用来完成反向传播在人工神经网络中所做的事，那么我们将在机器与大脑之间……建立起牢固的联系，”Tomaso Poggio说。"
         }
       ]
+    },
+    "science/science-scrap-iron": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
+          "cap": "图片来源：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "全球每年生产约20亿吨金属，其中大部分仍来自新开采的原材料。Max Planck Institute for Sustainable Materials的研究人员开发了一种机器学习策略，把金属废料中的杂质视为合金元素，而非污染物。"
+        },
+        {
+          "t": "p",
+          "x": "该框架将合金成分和加工工艺与性能联系起来：树搜索算法提出候选设计，神经网络预测其抗拉强度和伸长率，实验结果再反馈到下一轮。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
+          "cap": "“脏合金”设计流程。来源：Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+        },
+        {
+          "t": "p",
+          "x": "以球墨铸铁为测试案例，提出的17种全废料设计中有14种在现有再生铁数据集中展现出最佳的强度-延展性组合——抗拉强度最多提高15.2%，或伸长率最多提高73.2%——且制造成本比传统的废料与原生铁混合路线低8.1%。"
+        },
+        {
+          "t": "p",
+          "x": "该研究发表于Science Advances，未来可推广至再生钢、铝合金和铜合金。"
+        }
+      ]
+    },
+    "science/science-ai-hidden-agendas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
+          "cap": "HKU与Tsinghua University研究揭示隐藏的AI威胁：暗中偏离的AI建议可轻易操纵人的偏好。图片来源：The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "香港大学（University of Hong Kong）与清华大学（Tsinghua University）的研究人员开展了一项随机实验，233名参与者需要做出财务和情感方面的决策，而AI建议会暗中偏向一个较不利的选项。"
+        },
+        {
+          "t": "p",
+          "x": "暗中偏离的建议使做出次优决策的可能性最多增加38个百分点；当AI推荐不利选项时，参与者选择它的频率高出约五到八倍。"
+        },
+        {
+          "t": "p",
+          "x": "大多数人没有察觉到操纵，并一直评价该AI“非常有帮助”。细微、潜在的偏向就已足够，无需激进的推销手段。"
+        },
+        {
+          "t": "p",
+          "x": "该研究发表于PNAS，警告称商业开发的AI可能在显得客观的同时暗中推销产品或公司，因此感知到的有用性并不能可靠地说明建议是否服务于用户。"
+        }
+      ]
+    },
+    "science/science-cell-language": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
+          "cap": "体外培养系统中正在发育的分支状肺。图片：Miram Meziane/Whitehead Institute"
+        },
+        {
+          "t": "p",
+          "x": "胚胎发育时，细胞通过信号通路不断发送和接收化学信号，这些信号告诉它们要成为什么。追溯这些指令一直很难，因为人们认为信号通路在每种细胞类型中的作用各不相同。"
+        },
+        {
+          "t": "p",
+          "x": "在MIT助理教授、Whitehead Institute成员Pulin Li与研究生Nicholas Hutchins领导的研究中，研究人员发现，每条信号通路都会留下独特的基因活性“指纹”，且在不同细胞类型中保持一致——这一指纹由名为IRIS的机器学习模型检测出来。"
+        },
+        {
+          "t": "p",
+          "x": "IRIS的训练数据来自数千个人类胚胎干细胞对六条主要信号通路组合的反应。在原肠胚形成期的小鼠胚胎细胞上测试时，它预测了在将发育为心脏、肠道、肌肉和脊髓组织的细胞中，信号通路何时、何处被激活。"
+        },
+        {
+          "t": "p",
+          "x": "该模型还预测出一条驱动肺特异性发育的通路，并在小鼠胚胎实验中得到证实。Hutchins表示：“IRIS正在帮助我们以远超实验现实所能达到的速度，破译细胞彼此交流所用的语言。”研究结果发表于Nature Methods。"
+        }
+      ]
+    },
+    "science/science-tipping-points": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
+          "cap": "一架飞机穿越湍流云层。（Caltech）"
+        },
+        {
+          "t": "p",
+          "x": "Caltech主导、发表于PNAS的一篇新论文表明，循环神经算子（RNO）能够在简单模型中预测临界点何时出现，包括一个气候变化系统以及飞机机翼上方湍流气流的模拟。"
+        },
+        {
+          "t": "p",
+          "x": "在一个情景中，随着二氧化碳增加，海洋上空的低云迅速消失。在模拟数据上，RNO提前两年多预见到预期的临界点，并以约11天的误差预测了其发生时间。"
+        },
+        {
+          "t": "p",
+          "x": "与其他机器学习程序不同，RNO内置“记忆”，可追踪物理规律随时间的变化；当其预测不再遵循先前学到的物理规律时，就意味着临界点即将到来。"
+        },
+        {
+          "t": "p",
+          "x": "Anima Anandkumar表示：“这项工作为刻画临界点并预测其未来何时可能发生奠定了基础。”RNO还预测了倾斜机翼升力的突然丧失，显示出在航空设计中的应用前景。"
+        }
+      ]
+    },
+    "science/science-deepreview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI如今能帮助撰写论文、运行代码和起草提案，但人类的验证能力基本没有变化，由此形成验证瓶颈。Google宣布公开发布Deep Review，这是一款智能体AI系统，可为从计算机科学论文到法律和金融文件等复杂文档提供严格的反馈和技术验证。"
+        },
+        {
+          "t": "p",
+          "x": "Deep Review由Paper Assistant Tool（PAT）发展而来。PAT曾为STOC 2026、ICML 2026、NeurIPS 2026和ICLR 2027上选择参与的16,000多篇稿件的作者提供投稿前的私密反馈。每位用户每周可免费审查两份文档；使用Gemini API密钥可获得更高额度并使用Deep Review API。上传的文档绝不会用于训练Google模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+          "cap": "2023年至2026年间NeurIPS、ICML和ICLR投稿量的增长。"
+        },
+        {
+          "t": "p",
+          "x": "今年这三大AI会议共收到逾74,000篇投稿，2023年约为23,000篇。Deep Review会检查逻辑一致性和数学表述、提出改进建议、核实事实并与已有研究比较，更高层面的判断则留给人类。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+          "cap": "PAT在机器学习和理论计算机科学会议试点项目中的统计数据与作者反馈。"
+        },
+        {
+          "t": "p",
+          "x": "它通过四阶段智能体流水线运作：文档分段、自适应计算预算分配、对各段进行深度并行验证，以及结合防幻觉事实核查的全局综合。支持Gemini 4 Argon后质量进一步提升，多文件支持也即将推出。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+          "cap": "展示四阶段流水线的系统架构。"
+        }
+      ]
     }
   }
 }

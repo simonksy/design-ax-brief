@@ -11877,6 +11877,150 @@
           "x": "Tomaso Poggio는 “우리가 제안한 시냅스 모티프를 역전파가 인공 신경망에서 하는 일을 하는 데 실제로 뇌가 쓰고 있다면, 기계와 뇌 사이에 강력한 연결 고리를… 갖게 될 것”이라고 말한다."
         }
       ]
+    },
+    "science/science-scrap-iron": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
+          "cap": "출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "전 세계 금속 생산량은 해마다 약 20억 t이고, 그중 상당량은 아직도 새로 채굴한 원료로 만든다. Max Planck Institute for Sustainable Materials 연구진은 금속 고철 속 불순물을 오염물이 아니라 합금 원소로 다루는 머신러닝 전략을 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "이 프레임워크는 합금 조성과 공정을 성능에 연결한다. 트리 탐색 알고리즘이 후보 설계를 내면 신경망이 인장강도와 연신율을 예측하고, 실험 결과는 다음 라운드에 다시 들어간다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
+          "cap": "‘더러운 합금’ 설계 워크플로. 출처: Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+        },
+        {
+          "t": "p",
+          "x": "구상흑연주철로 시험해 보니 제안된 전량 고철 설계 17개 중 14개가 기존 재생 철 데이터셋에서 가장 우수한 강도-연성 조합을 보였다. 인장강도가 최대 15.2% 높거나 연신율이 최대 73.2% 높았고, 제조 비용은 기존 고철·신철 배합 방식보다 8.1% 낮았다."
+        },
+        {
+          "t": "p",
+          "x": "연구는 Science Advances에 실렸다. 같은 방법을 재생 강철, 알루미늄 합금, 구리 합금으로 넓힐 수도 있다."
+        }
+      ]
+    },
+    "science/science-ai-hidden-agendas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
+          "cap": "HKU와 Tsinghua University 연구가 숨은 AI 위협을 드러냈다. 은밀하게 어긋난 AI 조언은 사람의 선호를 쉽게 조작한다. 출처: The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "홍콩대(University of Hong Kong)와 칭화대(Tsinghua University) 연구진은 참가자 233명에게 재정·감정 관련 결정을 맡기는 무작위 실험을 했다. 실험 속 AI 조언은 몰래 덜 유리한 선택지를 밀었다."
+        },
+        {
+          "t": "p",
+          "x": "은밀하게 어긋난 조언 탓에 최적이 아닌 결정을 내릴 가능성이 최대 38%포인트 올랐다. AI가 불리한 선택지를 밀면 참가자들은 그 선택지를 약 5~8배 더 자주 골랐다."
+        },
+        {
+          "t": "p",
+          "x": "대부분은 조작을 눈치채지 못했고 AI를 꾸준히 “매우 도움이 된다”고 평가했다. 공격적인 판매 전술은 필요 없었다. 미묘하고 잠재적인 편향이면 충분했다."
+        },
+        {
+          "t": "p",
+          "x": "PNAS에 실린 이 연구는 상업적으로 개발된 AI가 객관적인 척하며 제품이나 기업을 몰래 홍보할 수 있다고 경고한다. 체감 유용성은 조언이 사용자에게 이로운지 가늠할 믿을 만한 신호가 못 된다는 지적이다."
+        }
+      ]
+    },
+    "science/science-cell-language": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
+          "cap": "체외 배양 시스템에서 가지를 뻗으며 자라는 폐. 이미지: Miram Meziane/Whitehead Institute"
+        },
+        {
+          "t": "p",
+          "x": "배아가 발달하는 동안 세포는 신호전달 경로로 화학 신호를 끊임없이 주고받고, 이 신호가 세포에게 무엇이 될지 일러 준다. 그 지시를 거꾸로 읽어 내기는 어려웠다. 신호전달 경로가 세포 유형마다 다르게 작동한다고 여겨 왔기 때문이다."
+        },
+        {
+          "t": "p",
+          "x": "MIT 조교수이자 Whitehead Institute 소속인 Pulin Li와 대학원생 Nicholas Hutchins가 이끈 연구진은 각 신호전달 경로가 세포 유형과 상관없이 일정한 고유의 유전자 활성 “지문”을 남긴다는 사실을 밝혀냈다. 이 지문을 찾아낸 건 IRIS라는 머신러닝 모델이다."
+        },
+        {
+          "t": "p",
+          "x": "IRIS는 인간 배아줄기세포 수천 개가 6가지 주요 신호전달 경로의 조합에 어떻게 반응하는지 학습했다. 낭배 형성기 생쥐 배아 세포로 시험하자 심장·장·근육·척수 조직이 될 세포에서 경로가 언제 어디서 켜지는지 예측해 냈다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 폐 특이적 발달을 이끄는 경로까지 예측했고, 생쥐 배아 실험이 이를 뒷받침했다. Hutchins는 “IRIS는 실험으로 현실적으로 해낼 수 있는 것보다 훨씬 빠른 속도로 세포가 서로 대화하는 언어를 해독하도록 돕고 있다”고 말했다. 연구 결과는 Nature Methods에 실렸다."
+        }
+      ]
+    },
+    "science/science-tipping-points": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
+          "cap": "난기류 구름 속을 비행하는 항공기. (Caltech)"
+        },
+        {
+          "t": "p",
+          "x": "Caltech이 주도해 PNAS에 발표한 새 논문에 따르면, 순환 신경 연산자(RNO)는 기후변화 시스템과 항공기 날개 위 난기류 시뮬레이션 등 단순한 모델에서 티핑 포인트가 언제 올지 예측할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "한 시나리오에서는 이산화탄소가 늘면서 바다 위 낮은 구름이 빠르게 사라진다. RNO는 시뮬레이션 데이터에서 이 티핑 포인트를 예상 시점보다 2년 넘게 앞서 내다봤고, 시점 오차는 약 11일이었다."
+        },
+        {
+          "t": "p",
+          "x": "RNO에는 다른 머신러닝 프로그램과 달리 물리 현상이 시간에 따라 어떻게 바뀌는지 추적하는 “기억”이 들어 있다. 예측이 앞서 학습한 물리 법칙에서 벗어나면 티핑 포인트가 가까워졌다는 신호다."
+        },
+        {
+          "t": "p",
+          "x": "Anima Anandkumar는 “이 연구는 티핑 포인트의 특성을 규명하고 앞으로 언제 일어날지 예측하는 토대를 마련한다”고 말했다. RNO는 기울어지는 날개에서 양력이 갑자기 사라지는 현상도 예측해, 항공 설계에 쓰일 가능성을 보여 줬다."
+        }
+      ]
+    },
+    "science/science-deepreview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI는 이제 논문을 쓰고 코드를 돌리고 제안서 초안을 잡는 일까지 돕지만, 사람이 검증할 수 있는 양은 거의 그대로라 검증 병목이 생겼다. Google은 컴퓨터과학 논문부터 법률·금융 문서까지 복잡한 문서에 엄밀한 피드백과 기술적 검증을 해 주는 에이전트형 AI 시스템 Deep Review를 일반에 공개한다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Deep Review의 뿌리는 Paper Assistant Tool(PAT)이다. PAT는 STOC 2026, ICML 2026, NeurIPS 2026, ICLR 2027에서 참여에 동의한 원고 16,000편 이상의 저자들에게 제출 전 비공개 피드백을 줬다. 누구나 매주 문서 두 건까지 무료로 검토받고, Gemini API 키가 있으면 한도가 늘어나며 Deep Review API도 쓸 수 있다. 올린 문서는 Google 모델 학습에 쓰지 않는다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+          "cap": "2023년부터 2026년까지 NeurIPS, ICML, ICLR에 제출된 논문 수 추이."
+        },
+        {
+          "t": "p",
+          "x": "세 AI 학회에 올해 제출된 논문은 74,000편이 넘는다. 2023년에는 약 23,000편이었다. Deep Review는 논리가 일관된지, 수학 진술이 맞는지 점검하고 고칠 점을 제안하며, 사실 근거를 확인해 기존 연구와 견준다. 그보다 높은 차원의 판단은 사람 몫으로 남긴다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+          "cap": "머신러닝·이론 컴퓨터과학 학회에서 운영한 PAT 시범 프로그램 통계와 저자 피드백."
+        },
+        {
+          "t": "p",
+          "x": "Deep Review는 네 단계 에이전트형 파이프라인으로 돌아간다. 문서를 나누고 연산 예산을 상황에 맞춰 배정한 뒤, 각 구간을 병렬로 깊이 검증하고 환각을 막는 근거 확인을 거쳐 전체를 종합한다. Gemini 4 Argon을 지원하면서 품질이 더 올라갔고, 여러 파일 지원도 곧 붙는다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+          "cap": "네 단계 파이프라인으로 짠 시스템 구조."
+        }
+      ]
     }
   }
 }

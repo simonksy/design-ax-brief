@@ -6399,6 +6399,135 @@
           "x": "El artículo 30-4 de la Ley de Derechos de Autor de Japón permite usar obras para entrenar AI sin permiso, salvo que se perjudiquen de forma injustificada los intereses del titular de los derechos. Un alto ejecutivo del sector editorial afirmó: “Es inaceptable que Nippan, que está en posición de proteger la cultura editorial de Japón, actúe de un modo que socava esa misma cultura”."
         }
       ]
+    },
+    "books/books-currentaffairs-ai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.currentaffairs.org/hubfs/smash1.png",
+          "cap": "Un collage de dos figuras que destrozan a martillazos el logotipo de ChatGPT, al estilo del realismo soviético (Soviet Realist)."
+        },
+        {
+          "t": "p",
+          "x": "Como parte de su nuevo contrato sindical, Current Affairs ha adoptado una de las políticas anti-AI más estrictas del sector editorial. La revista no publicará ningún texto generado por AI (AI-generated) ni usará arte generado por AI como ilustración."
+        },
+        {
+          "t": "p",
+          "x": "El editor Nathan J. Robinson afirma que la política desafía directamente la “slopification” de los medios, mientras las redacciones se apresuran a sustituir a los redactores por AI y las industrias creativas pierden empleos frente a modelos entrenados con la obra de artistas."
+        },
+        {
+          "t": "p",
+          "x": "A lo largo de 62 números impresos, la revista ha encargado cientos de obras hechas a mano y seguirá pagando a artistas humanos. La norma no prohíbe todas las herramientas: los redactores pueden usar software nuevo para investigar, y los artistas pueden añadir una textura o cambiar un color."
+        },
+        {
+          "t": "p",
+          "x": "La revista, una entidad 501(c)(3) con plantilla sindicada, afirma que no tiene ningún incentivo para sustituir a trabajadores por máquinas e insta a los lectores a no financiar publicaciones que les sirven “slop”."
+        }
+      ]
+    },
+    "books/books-agentic-consumption": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Chris Reid, de Wiley, sostiene que la edición académica está de lleno en una era de “descubrimiento agéntico” (agentic discovery): el 84% de los investigadores afirma usar herramientas de AI en su investigación, y las visitas derivadas desde Google Scholar y PubMed están cayendo."
+        },
+        {
+          "t": "p",
+          "x": "Según escribe, empieza un cambio mayor: el “consumo agéntico” (agentic consumption), en el que los sistemas usan la literatura dentro de flujos de trabajo que actúan, evalúan el resultado y eligen el siguiente paso, con poca intervención humana."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
+          "cap": "El ciclo del consumo agéntico: hipótesis, literatura, protocolo, ejecución, resultado."
+        },
+        {
+          "t": "p",
+          "x": "Entre las señales figuran los $380 millones (NSF’s $380 million) de la NSF para 20 equipos de laboratorios en la nube programables (cloud-lab) y startups como Discovery Loop y Periodic Labs. Los lectores-máquina necesitan el texto completo, sobre todo las secciones de métodos, además de permisos legibles por máquina (machine-readable) y versiones de registro actualizadas, por ejemplo mediante conectores MCP."
+        },
+        {
+          "t": "p",
+          "x": "Reid insta a las editoriales a pasar de posturas pasivas o transaccionales a posturas estratégicas, y a distribuir contenido mediante una infraestructura gobernada, medida y atribuible."
+        }
+      ]
+    },
+    "books/books-mentat-discovery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
+          "cap": "Mentat ha lanzado ‘Mentat Discovery (Mentat Discovery Console)’, un servicio de búsqueda de datos de libros para empresas de AI. Foto: cortesía de Mentat"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma de licencias de libros Mentat anunció el día 13 el lanzamiento de ‘Mentat Discovery’, un servicio de búsqueda de datos de libros para empresas de AI. Muestra los libros de las editoriales no por número de ejemplares, sino en ‘tokens’ y con un coste estimado, y cuando se eligen los datos necesarios, lleva el proceso hasta el contrato."
+        },
+        {
+          "t": "p",
+          "x": "Desde su fundación en 2025, Mentat ha firmado acuerdos de licencia con unas 90 editoriales coreanas, que abarcan unos 34.000 títulos. Los datos de libros que hoy se pueden buscar suman unos 8.000 millones de tokens."
+        },
+        {
+          "t": "p",
+          "x": "Los datos contratados se ofrecen de dos formas: un ‘conjunto de datos de entrenamiento’ en formatos de archivo como JSONL y una ‘API de referencia y cita’ que presenta pasajes de libros con su fuente cuando la AI responde. Todos los libros que se pueden buscar cuentan con un contrato formal de licencia."
+        },
+        {
+          "t": "p",
+          "x": "Jeon Byung-wook, consejero delegado de Mentat, afirmó: “Planeamos ampliar una estructura en la que los libros se utilicen más en la AI y los ingresos resultantes vuelvan a las editoriales y a los autores”."
+        }
+      ]
+    },
+    "books/books-ewc-not-a-tool": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En sus comentarios al proyecto de informe de propia iniciativa (own-initiative) del Parlamento Europeo (European Parliament) sobre los sectores cultural y creativo en la era de la AI (2025/2180(INI)), el European Writers’ Council pide una postura más ambiciosa: la AI no es una herramienta, sino una amenaza para la profesión, el sustento y las condiciones de trabajo de los escritores."
+        },
+        {
+          "t": "p",
+          "x": "El EWC considera que el enfoque general del borrador es sólido y constructivo, pero expresa una seria preocupación por su tratamiento “acrítico y blanqueador” de la AI generativa como “herramienta” u “oportunidad”, y pide que se revise esa redacción."
+        },
+        {
+          "t": "p",
+          "x": "Quiere que el informe distinga las “obras” humanas del “contenido” de la AI, y “crear” de “generar”; celebra la petición de evaluar el impacto de la AI en el empleo y los ingresos de los autores, y defiende un mecanismo explícito de autorización opt-in en lugar de opt-out."
+        }
+      ]
+    },
+    "books/books-kyobo-ai-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/314bb2bb-6b70-4e44-b575-02c42c9232ae.jpg",
+          "cap": "Ciudadanos leen libros en Kyobo Book Centre de Gwanghwamun, en Jongno-gu (Seúl), el pasado julio. News1"
+        },
+        {
+          "t": "p",
+          "x": "El día 14 se confirmó que Kyobo Book Centre, la mayor librería de Corea del Sur, recibió un pedido masivo de libros que se sospecha destinado al entrenamiento de inteligencia artificial (AI). Antes ya se habían detectado intentos de compra masiva de libros usados que se sospecha impulsaban empresas de AI desde la sombra; ahora ha aparecido también un caso con libros nuevos."
+        },
+        {
+          "t": "p",
+          "x": "Desde principios de este año, Kyobo Book Centre recibió consultas de empresas con sede en el extranjero, como Estados Unidos y el Reino Unido, interesadas en comprar libros en coreano en grandes cantidades. Fueron unas 10 empresas, en su mayoría estadounidenses. Dijeron que comprarían unos 100,000 títulos (10만 종), ‘1 ejemplar por título’, sin importar el título ni la materia. Kyobo Book Centre afirmó: “Se diferenciaba de una transacción normal en que buscaba conseguir tantos títulos distintos como fuera posible”."
+        },
+        {
+          "t": "p",
+          "x": "La empresa B, con sede en Arizona (Estados Unidos), que el pasado agosto consultó a la librería de segunda mano de Yes24 y a Seoul Chaekbogo sobre la compra masiva de libros usados, también señaló: “Como compramos un ejemplar de cada libro, importa más el número de títulos distintos que el total de ejemplares”. Según se informó, B también consultó a Kyobo Book Centre sobre una compra."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarles por el destinatario final, las empresas respondieron que “es confidencial y no se puede revelar”, y algunas, aunque afirmaron que “no es para entrenar AI”, dijeron que “el destinatario final es una empresa relacionada con datos”. Kyobo Book Centre suspendió las conversaciones al “considerar difícil descartar que se usaran para entrenar AI” y señaló que editoriales y distribuidores necesitan compartir información y fijar principios de respuesta."
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/15/741844a0-887c-4fc9-9a4e-63511be2897b.jpg",
+          "cap": "Rueda de prensa por el 1.er aniversario de la oficina de Anthropic en Tokio, celebrada el día 14 en Tokio (Japón). Reuters=Yonhap"
+        },
+        {
+          "t": "p",
+          "x": "En el extranjero, Nippon Shuppan Hanbai (Nippan) vendió libros nuevos en japonés a la empresa estadounidense de AI Anthropic durante 1 año a partir de diciembre de 2024. La Asociación de Editores de Corea celebró una reunión de su junta y decidió investigar la situación de librerías, librerías de segunda mano y distribuidores, así como emitir una declaración conjunta para sumarse al ‘Llamamiento de Fráncfort’, que critica el entrenamiento de AI sin el consentimiento de los autores."
+        }
+      ]
     }
   }
 }

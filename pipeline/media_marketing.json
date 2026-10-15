@@ -1,7 +1,11 @@
-{"date":"2026-10-15","section":"marketing","media":[
-{"id":"marketing-meta-gem","type":"image","src":"pipeline/media/marketing-meta-gem.jpg"},
-{"id":"marketing-lg-magnite","type":"image","src":"pipeline/media/marketing-lg-magnite.jpg"},
-{"id":"marketing-shopify-agent-ready","type":"image","src":"pipeline/media/marketing-shopify-agent-ready.png"},
-{"id":"marketing-floqer","type":"image","src":"pipeline/media/marketing-floqer.jpg"},
-{"id":"marketing-newegg-ucp","type":"image","src":"pipeline/media/marketing-newegg-ucp.jpg"}
-]}
+{
+  "date": "2026-10-16",
+  "section": "marketing",
+  "media": [
+    {"id": "marketing-meta-product-browsing", "type": "image", "src": "pipeline/media/marketing-meta-product-browsing.jpg"},
+    {"id": "marketing-google-universal-cart", "type": "image", "src": "pipeline/media/marketing-google-universal-cart.png"},
+    {"id": "marketing-fox-agentic-linear", "type": "image", "src": "pipeline/media/marketing-fox-agentic-linear.jpg"},
+    {"id": "marketing-google-ads-ai-max-report", "type": "image", "src": "pipeline/media/marketing-google-ads-ai-max-report.jpg"},
+    {"id": "marketing-stripe-agentic-commerce", "type": "image", "src": "pipeline/media/marketing-stripe-agentic-commerce.jpg"}
+  ]
+}

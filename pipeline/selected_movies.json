@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "movies",
   "picks": [
     {
@@ -7,92 +7,119 @@
       "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Midjourney: Report Finds AI Model Worst For Flouting Hollywood IP",
-      "url": "https://deadline.com/2026/10/midjourney-worst-offender-flouting-hollywood-copyright-1237154802/",
-      "source": "Deadline",
-      "published_iso": "2026-10-14T16:48:59+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
-      "excerpt": "Disney accused Midjourney of being a \"bottomless pit of plagiarism\" in a lawsuit last year. More than 18 months on, there remains cause for concern.",
-      "rationale": "A new report ranking image models on Hollywood IP infringement. Anyone generating key art or previs with Midjourney now has a concrete rights risk to weigh."
-    },
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "title": "AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-sung, as Netflix Reveals Use on 300 Titles: 'A Human Touch Is Absolutely Essential'",
-      "url": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
-      "source": "Variety",
-      "published_iso": "2026-10-10T10:09:19+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Creative-Asia-AI-panel.jpg?w=1000&h=563&crop=1",
-      "excerpt": "At Busan, Netflix's Lee Sung-gyun, director Kang Yoon-sung and Weta FX's Kimball Thurston debated how far AI should reach into film production.",
-      "rationale": "Hard numbers: Netflix says it has used AI on 300 titles, and a director claims budget cuts of up to 40%. The speakers and panel differ from the published Rustad (10-11) and Mousavi/VIEW (10-14) Netflix cards."
+      "title": "Maxon's Fall 2026 Release Brings Bigger Worlds, Faster Workflows, and Major Updates",
+      "url": "https://nofilmschool.com/maxon-fall-2026-ecosystem-release",
+      "source": "No Film School",
+      "published_iso": "2026-10-15T19:30:03+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68441551&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+      "excerpt": "Maxon's fall release adds Red Giant Scene Light, an AI-powered depth-aware relighting tool for live-action footage and CG renders after the shoot, plus an MCP server that lets AI agents drive Autograph.",
+      "rationale": "A shipping tool release: Red Giant Scene Light relights footage after the shoot using AI depth, and Autograph gets an MCP server for AI agents. This changes how motion and post artists work tomorrow."
     },
     {
       "tool": "Movies",
       "category": "movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "Peacock App Launches 'Your Bravoverse,' Featuring a Personalized TikTok-Style Video Feed Hosted by AI-Generated Andy Cohen",
-      "url": "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/",
-      "source": "Variety",
-      "published_iso": "2026-10-13T16:00:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=563&crop=1",
-      "excerpt": "Peacock is bowing a personalized stream of clips from Bravo shows, inspired by apps like TikTok, brought to you by a chatty AI avatar of Andy Cohen.",
-      "rationale": "A concrete product launch: a major streamer ships a personalized clip feed hosted by a licensed AI avatar of its talent. AI is the feature itself, and it shows where streamers are taking AI hosts and personalized presentation."
+      "title": "Astra Studios Launches AstraLabs, Teams with VerSe on AI Pipeline",
+      "url": "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline",
+      "source": "AWN",
+      "published_iso": "2026-10-15T08:20:00-07:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081545-1000850912b.jpg?itok=TM6XK6lf",
+      "excerpt": "The Hombale Group-backed Astra Studios and Dailyhunt parent VerSe will co-develop and market an AI-native pipeline built on SparkStation that carries a production from script to distribution while keeping faces, wardrobe and locations consistent across shots; announced at MIPCOM.",
+      "rationale": "A new MIPCOM announcement: a studio backed by a major Indian producer launches an AI-native pipeline that runs from script to distribution, with a focus on keeping characters and locations consistent across shots."
     },
     {
       "tool": "Movies",
       "category": "movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Busan's Asian Contents & Film Market evolves with added focus on AI and microdramas",
-      "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-10-10T00:00:00Z",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-      "excerpt": "ACFM runs October 10-13 at Busan's Bexco exhibition centre.",
-      "rationale": "Market-level view: Asia's biggest content market is restructuring around AI (dedicated AI programming and showcases). Adds a third outlet and gives the big-picture view behind the individual Busan AI panels already covered."
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "source": "The Verge",
+      "published_iso": "2026-10-15T14:03:42+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Social feeds are filling with AI-generated images of actors and stars, and Meta doesn't require labels for AI-generated still images, leaving performers' likenesses largely unprotected.",
+      "rationale": "An industry-wide report, not the single Mia Goth incident: it finds that Meta does not label AI-generated still images, which leaves performers' likenesses unprotected across platforms. That matters for anyone making or promoting talent imagery."
+    },
+    {
+      "tool": "Movies",
+      "category": "movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "title": "Critics Vindicate 'Artificial' After Messy Amazon MGM Breakup (and the Studios vs. Talent Wars Around AI Are Just Beginning)",
+      "url": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/",
+      "source": "Variety",
+      "published_iso": "2026-10-14T21:49:13+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Luca Guadagnino's OpenAI drama 'Artificial' earned acclaim after Amazon MGM dropped it; Variety frames it as the opening of a wider studios-vs-talent fight over AI.",
+      "rationale": "A studio dropped a prestige film about OpenAI, and critics then praised it. Variety reads this as the start of a wider fight between studios and talent over AI, a story not covered before in this section."
+    },
+    {
+      "tool": "Movies",
+      "category": "movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "title": "Animation And VFX Leaders Discuss AI And Jobs At View Conference",
+      "url": "https://www.cartoonbrew.com/events/studio-executive-roundtable-view-conference-267928.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-10-15T14:26:57+00:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg",
+      "excerpt": "At View Conference, executives from Sony Pictures Imageworks, ILM, Skydance, Cinesite and others discussed shifting pipelines and AI; ILM's Janet Lewin warned against treating AI as a 'magic bullet' while Opsis's Laurens Ehrmann said AI 'can compress execution time, but it cannot compress taste.'",
+      "rationale": "A different View session from the published Netflix/Eyeline talk: heads of Imageworks, ILM, Skydance and Cinesite discuss how AI is changing pipelines and jobs."
     }
   ],
   "alternates": [
     {
       "tool": "Movies",
       "category": "movies",
-      "accent": "#eb367f",
+      "accent": "#171717",
       "motif": "frame",
-      "title": "My Screen Life: Taiwanese producer Patrick Mao Huang on spotting new talent and embracing AI",
-      "url": "https://www.screendaily.com/features/my-screen-life-taiwanese-producer-patrick-mao-huang-on-spotting-new-talent-and-embracing-ai/5221306.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/5/8/7/1489587_patrickmaohuanginhisoffice1_536722_crop.jpg",
-      "excerpt": "The Taiwanese film producer talk spotting up-and-coming filmmakers, learning those unwritten industry rules and the transformational impact of AI on storytelling.",
-      "rationale": "Fresh but weak: a career-profile interview where AI is one theme among several. Use only if another pick is swapped out."
+      "title": "This Hack Fixes Your AI Character Consistency Issues (Pro Workflow)",
+      "url": "https://www.youtube.com/watch?v=ktEt4n9VlF4",
+      "source": "Curious Refuge",
+      "published_iso": "2026-10-13T14:10:48-07:00",
+      "og_image": "https://i.ytimg.com/vi/ktEt4n9VlF4/maxresdefault.jpg",
+      "excerpt": "Curious Refuge compares two popular AI character-consistency methods for AI filmmaking, with a written breakdown and prompts for building pro character sheets.",
+      "rationale": "Actionable tutorial; held back because a character-consistency workflow video ran on 09-26."
+    },
+    {
+      "tool": "Movies",
+      "category": "movies",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "title": "Accounting for the New Economics of VFX",
+      "url": "https://vfxvoice.com/accounting-for-the-new-economics-of-vfx/",
+      "source": "VFX Voice",
+      "published_iso": "2026-10-06T15:56:11+00:00",
+      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-12-2.jpg",
+      "excerpt": "VFX vendors are rethinking bids as AI raises per-artist output on roto and cleanup, alongside tax incentives and remote pipelines reshaping the economics of visual effects.",
+      "rationale": "Evergreen-ish feature, 10 days old."
     }
   ],
   "dedup": {
     "checks": {
-      "https://deadline.com/2026/10/midjourney-worst-offender-flouting-hollywood-copyright-1237154802/": {
-        "verdict": "new",
-        "nearest": "https://deadline.com/2026/09/ai-hollywood-risks-rewards-lawyers-1237111607/",
-        "new_action": ""
+      "https://nofilmschool.com/maxon-fall-2026-ecosystem-release": {
+        "verdict": "follow-up",
+        "nearest": "https://postperspective.com/maxon-cinema-4d-adds-mcp-support-for-claude-and-chatgpt/",
+        "new_action": "Maxon Fall 2026 ecosystem release: new Red Giant Scene Light (AI depth-aware relighting) and a new MCP server for Autograph. The 10-09 card covered only Cinema 4D MCP support."
       },
-      "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/": {
+      "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
-        "new_action": ""
+        "nearest": ""
       },
-      "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/": {
+      "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/biz/news/owning-manhattan-star-ryan-serhant-heygen-ai-avatar-1236904752/",
-        "new_action": ""
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce"
       },
-      "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article": {
+      "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/": {
         "verdict": "new",
-        "nearest": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
-        "new_action": ""
+        "nearest": ""
+      },
+      "https://www.cartoonbrew.com/events/studio-executive-roundtable-view-conference-267928.html": {
+        "verdict": "new",
+        "nearest": "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/"
       }
     },
-    "note": "SWAP 2026-10-15, after the enrichment fact-check. Dropped two picks. No Film School Shootsolo failed AI relevance: none of its new features are actually AI. befores & afters Flow Studio Canvas is Autodesk advertorial with no reporting. Their dedup entries were removed. Replacements came from the recovery-pass pool, and only two cleared every check, so the section ships 4 picks, above the floor of 3, with nothing padded. Added the Variety Peacock 'Your Bravoverse' AI-host launch. It is a new product launch with no published match (nearest is the 10-09 HeyGen avatar card, which covers a different company and event), and it is Variety's 2nd card, so Variety is now at its cap. Added the Screen Daily ACFM AI/microdramas piece. It is a market-level overview with no published card on ACFM's own restructuring. It shares cluster c2 with the Deadline 'Worm Train' Kling partner content, which stays dropped, so only one card comes from that cluster. Nearest published story is the 10-13 Kling panel. Rejected: Deadline 'BBC Staff Concerned About Matt Brittin Praise For AI Doctor Who' (likely-repeat of the 10-03 Brittin card; staff reaction with no new decision). Deadline 'BBC's Kate Phillips On AI, YouTube & Blue Planet III' (MIPCOM commentary following the same 10-03 Brittin Doctor Who story, with no new release or policy; it would also be Deadline's 2nd card). Variety 'Open to AI' feature and Variety 'Tilly Nollywood' African filmmakers feature (analysis features, and blocked anyway because Variety would hit 3 cards). Screen Daily Patrick Mao Huang 'My Screen Life' (career profile where AI is only one theme; kept as an alternate). RevThink accelerator promo (promotional, and its start date has passed). VFX Voice Gen Z feature (evergreen, little AI). Earlier drops still apply: Variety XPRIZE 'The Gifted' (repeat of 09-30), THR Affleck 'Animals' ethics piece (repeat of 10-02), and the b&a 3D Editor Flow Studio post (same advertorial campaign). No Gods Don't Give Gifts item was in the recovery pool, so the July/10-07 follow-up question did not come up. Final outlets: Deadline 1, Variety 2, Screen Daily 1. No duplicate URLs."
+    "note": "Dropped: Variety Russell T Davies 'Doctor Who' (likely-repeat of the 10-03 Brittin AI Doctor Who card; it is a reaction, not a new event). Deadline BBC Kate Phillips (a reaction and disclosure stance following the same 10-03 Brittin story; no new decision). Engadget Adobe RTX Spark (assigned to DESIGN by the orchestrator). postPerspective Nvidia Editor's Day RTX Spark (cluster c9, same RTX Spark launch as the design pick; dropped to avoid a cross-section duplicate). Deadline Kling 'Worm Train' (sponsored partner content and Busan-saturated). Cartoon Brew View directors panel (second Cartoon Brew View piece; one per conference/outlet kept). Tsui Hark and Joseph Gordon-Levitt (interview commentary; lower novelty). The Verge celebrity deepfakes report is kept as new: it is an industry-wide investigation of Meta's unlabeled AI stills across many performers, distinct from the 10-14 single-incident Mia Goth reps story. Outlets: NFS, AWN, The Verge, Variety, Cartoon Brew (5 distinct)."
   }
 }

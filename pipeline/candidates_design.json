@@ -1,133 +1,52 @@
 {
   "section": "design",
-  "now_iso": "2026-10-14T22:00:44Z",
+  "now_iso": "2026-10-15T22:00:32Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Introducing Agent-Native Beta: The Framework for Agentic Apps",
-      "url": "https://www.builder.io/blog/introducing-agent-native",
-      "source": "Builder.io",
-      "category": "figma",
-      "published_iso": "2026-10-14T15:00:00Z",
-      "excerpt": "Builder.io released Agent-Native, an open-source TypeScript framework for building AI agents with rich UIs: define an action once and use it in the UI, the agent, the API, the CLI and MCP.",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F70b5ac4622c74e00a042858640097b47?width=1200"
-    },
-    {
-      "title": "Gemini 4 Argon is rolling out in Figma Make",
-      "url": "https://www.figma.com/release-notes/?title=gemini-4-argon-is-rolling-out-in-figma-make",
+      "title": "Build by Design: New workflows for new ways of building",
+      "url": "https://www.figma.com/blog/build-by-design/",
       "source": "Figma",
       "category": "figma",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "excerpt": "Figma's release notes say Google's Gemini 4 Argon model is rolling out as a model option in Figma Make, its prompt-to-app tool.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format"
+      "published_iso": "2026-10-15T04:53:00Z",
+      "excerpt": "Figma's Config India roundup of launches that bring teams and agents, plus the design, code and context they work with, onto one full-stack creative canvas.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/6fb8bfd609660ecc0fc8729137a58c451db49fe1-3840x2160.png?w=1200&q=70&fit=max&auto=format"
     },
     {
-      "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
-      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-10-12T20:17:45Z",
-      "excerpt": "For fifteen years the design process kept growing while the time left for making the product kept shrinking; the essay argues AI is now compressing the middle of that process into an hourglass shape.",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
-    },
-    {
-      "title": "The synth everyone owned and few could program: a lesson for AI design",
-      "url": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0",
-      "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-10-13T09:03:24Z",
-      "excerpt": "Using the Yamaha DX7 and its factory presets as a parable, the piece argues AI made design quality available to everyone and average, so what sets work apart now is a visible decision.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*VBnrM4huWLMjvsHgMb6uyQ.jpeg"
-    },
-    {
-      "title": "Secret agent bot: accessibility matters for the agents even if you can't see them",
-      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
-      "source": "UX Collective",
-      "category": "tokens",
-      "published_iso": "2026-10-12T20:19:31Z",
-      "excerpt": "The semantic structure screen readers rely on now also decides whether ChatGPT, Claude, Gemini, Grok and Perplexity agents can read a page at all; the agent never sees the designed surface, only the structure underneath. (Note: overlaps the recently published 'accessibility tree as agent UX' story.)",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*kBVrEZpJg77XPdxNBIOr1A.png"
-    },
-    {
-      "title": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
-      "url": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
-      "source": "Creative Bloq",
-      "category": "workflow",
-      "published_iso": "2026-10-13T08:00:00Z",
-      "excerpt": "Creative Bloq tested ArtCraft and other free, AI-coded clones of Photoshop and Premiere and found they are not ready to replace Adobe's apps yet.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/GohVEZQ7wNAbxcMQvyv6ie-1920-80.jpg"
-    },
-    {
-      "title": "This game was made with AI in 30 minutes, and it's a bit of a wake-up call",
-      "url": "https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-10-13T13:03:10Z",
-      "excerpt": "Dragon Quest creator Yuji Horii built a playable game with AI in 30 minutes, an experiment that makes game development look ridiculously easy and raises questions for game artists and designers.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/2RKozbdd7DCiBEENuUtAAC-1600-80.jpg"
-    },
-    {
-      "title": "Epic's delayed Marvel and Star Wars game is going all-in on AI",
-      "url": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-10-13T11:10:27Z",
-      "excerpt": "Epic says its delayed Disney game will lean heavily on AI-generated content, and fans and creatives are not buying its promise of 'MORE and BETTER stuff'.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/5gZXcRceMpeH4mSD2Rzvmk-1600-80.jpg"
-    },
-    {
-      "title": "Epic thinks you'll love its new vibe coded game launcher",
-      "url": "https://www.engadget.com/2286721/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/",
-      "source": "Engadget",
-      "category": "workflow",
-      "published_iso": "2026-10-14T16:46:59Z",
-      "excerpt": "Epic is touting a new game launcher built with vibe coding, and Engadget argues that laying off workers for AI is nothing to celebrate.",
-      "og_image": "https://www.engadget.com/img/gallery/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/l-intro-1791998893.jpg"
-    },
-    {
-      "title": "Chatbots Are Lazy Design: Building an 'Invisible UI' with In-Browser SLMs & WebGPU",
-      "url": "https://dev.to/quentin_merle/chatbots-are-lazy-design-building-an-invisible-ui-with-in-browser-slms-webgpu-2e3m",
-      "source": "DEV Community",
+      "title": "Design together with code layers on the canvas",
+      "url": "https://www.figma.com/blog/design-together-with-code-layers/",
+      "source": "Figma",
       "category": "figma",
-      "published_iso": "2026-10-14T13:18:34Z",
-      "excerpt": "An 18-minute deep dive arguing chat boxes are lazy AI UX, and showing how to build an 'invisible UI' driven by small language models running in the browser on WebGPU.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkaar9iv60ovtsnfo3u6a.jpg"
+      "published_iso": "2026-10-15T04:52:00Z",
+      "excerpt": "Figma moves code layers into open beta, so teams can prototype with working code directly on the design canvas.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/fd9f6ce97dbb2f1dadaf0baf1542447e73bcf51d-3840x2160.png?w=1200&q=70&fit=max&auto=format"
     },
     {
-      "title": "Keep the Composition Stable Across Sketch, Pencil and Generated Film",
-      "url": "https://dev.to/fablessbridge/keep-the-composition-stable-across-sketch-pencil-and-generated-film-2p9",
-      "source": "DEV Community",
-      "category": "render",
-      "published_iso": "2026-10-14T15:16:50Z",
-      "excerpt": "A workflow note on keeping composition consistent as a piece moves from sketch to pencil to an AI-generated, film-like image, because the drawing and the generated frame must describe the same structure.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsvc7mzfjglmgmfw7w4vb.png"
+      "title": "Introducing Specs: Markdown as a medium",
+      "url": "https://www.figma.com/blog/introducing-figma-specs/",
+      "source": "Figma",
+      "category": "figma",
+      "published_iso": "2026-10-15T04:51:00Z",
+      "excerpt": "Figma launches Specs, a Markdown container for context that lives on the canvas, giving designers and AI agents a shared written spec beside the design.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format"
     },
     {
-      "title": "Spectral Labs builds 'Turing Test for AI CAD'",
-      "url": "https://develop3d.com/cad/spectral-labs-turing-test-ai-cad/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "published_iso": "2026-10-14T21:16:15Z",
-      "excerpt": "Spectral Labs claims to have built the first AI system to pass an industry-standard CAD certification for mechanical engineers, a SolidWorks exam.",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/Spectral-Labs-Turing-Test-Solidworks-Exam.jpg"
+      "title": "The AI you already use, now powering the apps you create",
+      "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
+      "source": "Lovable",
+      "category": "figma",
+      "published_iso": "2026-10-15T12:45:00Z",
+      "excerpt": "Lovable adds GPT-Live, the latest Claude models, Gemini 4 Argon, Gemini Omni, Lyria and more, so prompt-built apps can include voice, reasoning, video, music and live web research.",
+      "og_image": "https://assets.lovable.dev/content/news/covers/default-cover-rebrand.png"
     },
     {
-      "title": "Sparseal releases CozyBlanket Pro",
-      "url": "https://www.cgchannel.com/2026/10/sparseal-releases-cozyblanket-pro/",
-      "source": "CG Channel",
-      "category": "render",
-      "published_iso": "2026-10-13T07:00:55Z",
-      "excerpt": "Sparseal's much-anticipated AI-assisted retopology, UV unwrapping and baking app CozyBlanket Pro is now available for iPad, with a desktop edition in development.",
-      "og_image": ""
-    },
-    {
-      "title": "Workday launches Sana-based UI, autopilot agents, as it deepens its focus on AI",
-      "url": "https://www.cio.com/article/4234407/workday-launches-sana-based-ui-autopilot-agents-as-it-deepens-its-focus-on-ai.html",
-      "source": "CIO",
-      "category": "workflow",
-      "published_iso": "2026-10-13T14:23:22Z",
-      "excerpt": "Workday is replacing its interface with a Sana-based agent UI. Autonomous agents keep running while users are offline and tell them what they missed when they sign in, and customers can even go headless.",
-      "og_image": "https://www.cio.com/wp-content/uploads/2026/10/4234407-0-35288300-1791901421-sede-de-workday.jpg?quality=50&strip=all&w=1024"
+      "title": "Bluesky's AI tool now lets you make games and apps to share on social",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge",
+      "category": "figma",
+      "published_iso": "2026-10-15T19:57:16Z",
+      "excerpt": "Bluesky's Attie tool now builds small games and apps from prompts that users share in their feeds; the CEO calls it 'vibe coding for your community.'",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&crop=0%2C10.814080979907%2C100%2C78.371838040185&w=1200"
     },
     {
       "title": "MAI-Image-2.6 and MAI-Image-2.6-Flash now available on AI Gateway",
@@ -135,89 +54,134 @@
       "source": "Vercel",
       "category": "figma",
       "published_iso": "2026-10-13T00:00:00Z",
-      "excerpt": "Microsoft's MAI-Image-2.6 and MAI-Image-2.6-Flash image generation and editing models are now callable through Vercel AI Gateway with one API key, unified billing and request traces.",
+      "excerpt": "Microsoft's MAI-Image-2.6 and its Flash variant, for generating and editing images, are now callable through Vercel AI Gateway with one API key.",
       "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4VUQPah80J1WYBwplwXQjh/341d68a8100d89550907348d511d49db/image__111_.png"
     },
     {
-      "title": "Muse Wonder now available on AI Gateway",
-      "url": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "excerpt": "Meta's Muse Wonder model can now be called through Vercel AI Gateway with one API key, no provider account, spend tracking and request traces.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/7A6sXjeRC0lrfnxInP7996/e908500d803496bcb3b0dc8e37de3259/image__65_.png"
+      "title": "Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform",
+      "url": "https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark/",
+      "source": "Engadget",
+      "category": "render",
+      "published_iso": "2026-10-15T12:00:00Z",
+      "excerpt": "Adobe says it 're-architected' Photoshop, Premiere and Substance 3D to run faster on PCs built on NVIDIA's RTX Spark AI superchip, which launches Oct 16.",
+      "og_image": "https://www.engadget.com/img/gallery/adobe-rebuilt-photoshop-and-premiere-for-nvidias-rtx-spark-platform/l-intro-1792065422.jpg"
     },
     {
-      "title": "Design System in Code: What It Is and How to Build One",
-      "url": "https://www.eleken.co/blog-posts/design-system-in-code",
-      "source": "Eleken",
+      "title": "I ran Blender via Nvidia's new RTX Spark AI agent - here's what happened",
+      "url": "https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened",
+      "source": "Creative Bloq",
+      "category": "render",
+      "published_iso": "2026-10-15T12:36:17Z",
+      "excerpt": "A launch-day hands-on: a self-described Blender beginner drives the 3D app through the on-device AI agent on an RTX Spark laptop and reports how far it gets.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/RMydSd9JF8efBK722qUKkG-1920-80.jpg"
+    },
+    {
+      "title": "This game was made with AI in 30 minutes, and it's a bit of a wake-up call",
+      "url": "https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-10-13T13:03:10Z",
+      "excerpt": "Dragon Quest creator Yuji Horii built a playable game with AI tools in about 30 minutes, an experiment that makes game production look startlingly easy.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/2RKozbdd7DCiBEENuUtAAC-1600-80.jpg"
+    },
+    {
+      "title": "Epic's delayed Marvel and Star Wars game is going all-in on AI",
+      "url": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-10-13T11:10:27Z",
+      "excerpt": "Epic says its delayed Disney game will lean on AI to deliver 'MORE and BETTER stuff'; artists and fans are sceptical of the AI-first production pitch.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5gZXcRceMpeH4mSD2Rzvmk-1600-80.jpg"
+    },
+    {
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face",
       "category": "tokens",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "excerpt": "Eleken explains how a design system that lives in code compares with Figma-only systems and UI kits, and how to build one that works for designers, developers and AI tools.",
-      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6acce9de62f3db13728deabb_cover.webp"
+      "published_iso": "2026-10-15T00:00:00Z",
+      "excerpt": "Black Forest Labs' open FLUX.3 Image Klein runs in Diffusers from day one: one model for text-to-image, multi-reference image-to-image and bounding-box layout control, about 2s per 1024px image on an H100, with FP8/NVFP4 weights for smaller GPUs. (FLUX.3 Image itself was covered earlier; Klein is the new open small release.)",
+      "og_image": "https://huggingface.co/blog/assets/flux3/thumbnail.png"
     },
     {
-      "title": "AI-Native UX Design: How to Design for Systems, Not Screens",
-      "url": "https://www.eleken.co/blog-posts/ai-native-ux-design",
-      "source": "Eleken",
+      "title": "Spec-driven development: the rise of Markdown",
+      "url": "https://dev.to/chuksadirije/spec-driven-development-the-rise-of-markdown-363f",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-10-15T21:34:13Z",
+      "excerpt": "Why Markdown spec files have become the working interface between people and coding agents; a timely companion to Figma's Markdown-based Specs launch.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flbnelgvxqdnphgmf6fmr.jpg"
+    },
+    {
+      "title": "Designing for skin, not screens: the constraints behind an AI tattoo design tool",
+      "url": "https://dev.to/tessarhodes/designing-for-skin-not-screens-the-constraints-behind-an-ai-tattoo-design-tool-dd3",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-10-15T11:16:48Z",
+      "excerpt": "A build log on the design constraints AI image tools miss when the output is a tattoo stencil: line weight, skin aging and placement rather than on-screen beauty.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fl9jxbpz3bxhi6c02d24z.png"
+    },
+    {
+      "title": "We had an AI build two storefronts. Its self-review passed. Its browser QA caught 4 bugs.",
+      "url": "https://dev.to/kursywapress/we-had-an-ai-build-two-storefronts-its-self-review-passed-its-browser-qa-caught-4-bugs-39nj",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-10-15T14:00:55Z",
+      "excerpt": "A case study: an AI agent built two storefront sites and passed its own review, but a browser-based visual QA pass still found four UI bugs.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fohsae3exr3wt9gfsou3n.png"
+    },
+    {
+      "title": "Hesai launches 3D data engine for physical AI",
+      "url": "https://www.engineering.com/hesai-launches-3d-data-engine-for-physical-ai/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-15T11:23:06Z",
+      "excerpt": "Hesai's Kosmo combines lidar scanning with cloud reconstruction to turn real spaces into robot-training 3D environments; a store deployment hit a 99% task success rate.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/1-2.jpg"
+    },
+    {
+      "title": "AI cloned Adobe's apps for free in design's Napster moment",
+      "url": "https://www.creativeboom.com/news/ai-just-cloned-adobes-apps-for-free-is-this-design-softwares-napster-moment/",
+      "source": "Creative Boom",
       "category": "workflow",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "excerpt": "Practical patterns for designing AI-native products around systems rather than screens, so they feel clear, trustworthy and easy to use.",
-      "og_image": "https://cdn.prod.website-files.com/5f16d69f1760cdba99c3ce6e/6a21418bb189f3dbb136da2d_cover%20(5).webp"
+      "published_iso": "2026-10-13T11:00:00Z",
+      "excerpt": "Developer Brandon Thomas used AI to build seven free, open-source clones of Adobe's apps; Creative Boom asks whether this is design software's Napster moment. (Off-list outlet: no on-list source covered it.)",
+      "og_image": "https://media.creativeboom.com/ea9102c9-4b4c-48bc-86eb-55b602eb4998/conversions/d3512325f6d35bc3e8f339b9f1c502523afe0d4f-medium.webp"
     },
     {
-      "title": "This cool interactive visual argues that generative art began in a cave",
-      "url": "https://www.fastcompany.com/91619904/this-cool-interactive-visual-says-generative-art-began-in-a-cave",
-      "source": "Fast Company",
+      "title": "Nobody wants your AI app",
+      "url": "https://uxdesign.cc/nobody-wants-your-ai-app-cff8629064a4",
+      "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-10-13T14:30:00Z",
-      "excerpt": "Le Random's Living Timeline maps 1,147 moments in generative art, from 71,000 BCE ochre etchings to today's AI-styled images, to explain where algorithmic and AI art come from.",
-      "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/10/i-1-91619904-history-of-generative-art.png"
+      "published_iso": "2026-10-14T22:09:56Z",
+      "excerpt": "An essay arguing that standalone AI apps are losing to intelligence embedded invisibly in existing platforms, and what that means for how AI products should be designed.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*_oMEmp-Z-xsaX5uRmZJI4Q.jpeg"
     },
     {
-      "title": "Config India 2026: Figma product launch keynote (Dylan Field, CEO & Co-founder, Figma)",
+      "title": "The synth everyone owned and few could program: a lesson for AI design",
+      "url": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-10-13T09:03:24Z",
+      "excerpt": "Using the Yamaha DX7's factory presets as a parallel, the piece argues that AI made quality average and that visible decisions now set design work apart.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*VBnrM4huWLMjvsHgMb6uyQ.jpeg"
+    },
+    {
+      "title": "Taste is not a design methodology",
+      "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-10-13T22:27:46Z",
+      "excerpt": "Pushes back on 'taste' as the stock answer to AI-generated sameness, arguing that good products come from fact-based judgment and the agency to act on it.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*1rtoPxLZAPWMMjnMRsDQcQ.png"
+    },
+    {
+      "title": "Config India 2026: Figma product launch keynote (Dylan Field)",
       "url": "https://www.youtube.com/watch?v=CXAvPycESVY",
       "source": "Figma (YouTube)",
       "category": "social",
-      "published_iso": "2026-10-14T10:50:33Z",
-      "excerpt": "Figma's product launch keynote, streamed live from Config India, where Dylan Field presents what's next for how teams design, build and collaborate.",
+      "published_iso": "2026-10-15T18:31:54Z",
+      "excerpt": "Dylan Field's Config India keynote video walking through the launches, including code layers, Specs and Payload websites, for teams designing and building with agents.",
       "og_image": "https://i.ytimg.com/vi/CXAvPycESVY/maxresdefault.jpg"
-    },
-    {
-      "title": "New Claude Motion is Insane",
-      "url": "https://www.youtube.com/watch?v=qZqZ02AsYiA",
-      "source": "The AI Advantage (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-14T13:35:19Z",
-      "excerpt": "A hands-on look at Anthropic's Claude Motion beta, which writes code to animate text, charts, shapes and images into editable motion graphics and explainers with MP4 export.",
-      "og_image": "https://i.ytimg.com/vi/qZqZ02AsYiA/maxresdefault.jpg"
-    },
-    {
-      "title": "Build teaser assets for a campaign fast using Adobe Stock's AI Studio",
-      "url": "https://www.youtube.com/watch?v=_X1YtJw-bSA",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-13T18:01:03Z",
-      "excerpt": "Adobe walks through using Adobe Stock's AI Studio to quickly build a carousel of teaser assets that matches a campaign's warm, minimal look.",
-      "og_image": "https://i.ytimg.com/vi/_X1YtJw-bSA/maxresdefault.jpg"
-    },
-    {
-      "title": "FAST Video Voice Dubbing in Multiple Languages with ElevenCreative",
-      "url": "https://www.youtube.com/watch?v=plM_uqendqM",
-      "source": "DesignCourse (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-12T19:25:44Z",
-      "excerpt": "DesignCourse demonstrates dubbing videos into multiple languages with ElevenLabs' ElevenCreative, framing AI as a tool that speeds up content creation rather than doing it all for you. (Sponsored by ElevenLabs.)",
-      "og_image": "https://i.ytimg.com/vi/plM_uqendqM/maxresdefault.jpg"
-    },
-    {
-      "title": "Figma for Edu: Working with typography systems",
-      "url": "https://www.youtube.com/watch?v=rbxNV3_mb-A",
-      "source": "Figma (YouTube)",
-      "category": "tokens",
-      "published_iso": "2026-10-13T17:26:05Z",
-      "excerpt": "A Figma workshop on building consistent, scalable design systems with typography, variables and modes, which work as design tokens.",
-      "og_image": "https://i.ytimg.com/vi/rbxNV3_mb-A/maxresdefault.jpg"
     }
   ]
 }

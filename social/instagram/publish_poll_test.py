@@ -13,6 +13,7 @@
   3. 한도에 걸리면 `api()` 가 SystemExit 로 끝냈다. 기다리다 막힌 것은
      회차가 잘못된 게 아니므로, 물러서서 다시 물어야 한다.
 """
+import json
 import os
 import sys
 
@@ -64,6 +65,53 @@ def test_soft_call_reports_the_limit_instead_of_dying():
     finally:
         publish.urllib.request.urlopen = real
     assert got == {"_limited": True}, f"한도를 알리지 않았다: {got}"
+
+
+class _Feed:
+    """urlopen 대역. 주어진 JSON 을 돌려준다."""
+    def __init__(self, payload): self.payload = payload
+    def __enter__(self): return self
+    def __exit__(self, *a): return False
+    def read(self): return json.dumps(self.payload).encode()
+
+
+def _with_urlopen(fn, call):
+    real = publish.urllib.request.urlopen
+    publish.urllib.request.urlopen = fn
+    try:
+        return call()
+    finally:
+        publish.urllib.request.urlopen = real
+
+
+ENV = {"IG_USER_ID": "1", "IG_ACCESS_TOKEN": "t"}
+CAP = "AI가 들어온 뒤 디자이너의 일이 어디로 가나\n\n본문"
+
+
+def test_unanswerable_feed_check_is_not_absence():
+    """피드를 못 물어본 것과 안 올라간 것은 다르다.
+
+    10-15 에 둘을 같게 보다가, 실제로는 올라가 있는 글을 '없다'고 판단해
+    재발행했다(2207085 Fatal). 발행이 한도에 걸린 직후에는 피드 조회도 같은
+    한도에 걸리므로, 이 혼동은 하필 가장 위험한 순간에 일어난다."""
+    state, link = _with_urlopen(
+        lambda *a, **k: (_ for _ in ()).throw(_Limited()),
+        lambda: publish.feed_state(CAP, ENV))
+    assert state == "unknown", f"못 물어봤는데 {state} 로 봤다"
+    assert link is None
+
+
+def test_empty_feed_is_absence():
+    state, link = _with_urlopen(lambda *a, **k: _Feed({"data": []}),
+                                lambda: publish.feed_state(CAP, ENV))
+    assert state == "absent", f"빈 피드를 {state} 로 봤다"
+
+
+def test_matching_first_line_is_found():
+    feed = {"data": [{"caption": CAP, "permalink": "https://x/p/1"}]}
+    state, link = _with_urlopen(lambda *a, **k: _Feed(feed),
+                                lambda: publish.feed_state(CAP, ENV))
+    assert state == "found" and link == "https://x/p/1", f"{state} {link}"
 
 
 def test_knows_the_rate_limit_body():

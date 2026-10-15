@@ -1,31 +1,30 @@
 {
-  "date": "2026-10-15",
-  "section": "gadgets",
+  "date": "2026-10-16",
   "media": [
     {
-      "id": "gadgets-ai-studio-android",
+      "id": "gadgets-bee",
       "type": "image",
-      "src": "pipeline/media/gadgets-ai-studio-android.jpg"
+      "src": "pipeline/media/gadgets-bee.jpg"
     },
     {
-      "id": "gadgets-android-scam-alerts",
+      "id": "gadgets-muse-spark-open",
       "type": "image",
-      "src": "pipeline/media/gadgets-android-scam-alerts.jpg"
+      "src": "pipeline/media/gadgets-muse-spark-open.jpg"
     },
     {
-      "id": "gadgets-apple-intelligence-china",
+      "id": "gadgets-sipeed-maixstation",
       "type": "image",
-      "src": "pipeline/media/gadgets-apple-intelligence-china.jpg"
+      "src": "pipeline/media/gadgets-sipeed-maixstation.jpg"
     },
     {
-      "id": "gadgets-apple-minions",
+      "id": "gadgets-eiliko",
       "type": "image",
-      "src": "pipeline/media/gadgets-apple-minions.jpg"
+      "src": "pipeline/media/gadgets-eiliko.jpg"
     },
     {
-      "id": "gadgets-hmd-flip-companion",
+      "id": "gadgets-iphone-ai-board",
       "type": "image",
-      "src": "pipeline/media/gadgets-hmd-flip-companion.png"
+      "src": "pipeline/media/gadgets-iphone-ai-board.jpg"
     }
   ]
 }

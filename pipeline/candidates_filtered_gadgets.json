@@ -1,218 +1,43 @@
 {
+  "date": "2026-10-16",
   "section": "gadgets",
-  "now_iso": "2026-10-14T22:00:44Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Gemini for Home is finally learning that ‘stop’ means stop",
-      "url": "https://www.androidauthority.com/google-home-october-update-gemini-voice-commands-3723503/",
-      "source": "Android Authority",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-10-14T21:32:00Z",
-      "excerpt": "Learning some manners.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-9-scaled.jpg",
-      "history_match": {
-        "score": 0.193,
-        "date": "2026-09-26",
-        "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-        "band": "related"
-      }
+      "published_iso": "2026-10-15T12:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "excerpt": "There’s also now a Bee Pro subscription!",
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff"
     },
     {
-      "title": "Which Apple Home Devices Get Siri AI, and When",
-      "url": "https://www.macrumors.com/2026/10/14/apple-home-devices-siri-ai/",
-      "source": "MacRumors",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch",
       "category": "gadgets",
-      "published_iso": "2026-10-14T21:23:49+00:00",
-      "excerpt": "There's been some confusion about which of Apple's new and existing home devices will support Siri AI and when, because Siri AI isn't going to be available at launch on some products.",
-      "og_image": "https://images.macrumors.com/t/YpWdLztt_2tLPiK-A1KjFYEORXc=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
+      "published_iso": "2026-10-15T12:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+      "excerpt": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting a",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
       "history_match": {
-        "score": 0.297,
+        "score": 0.161,
         "date": "2026-10-09",
-        "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
-        "title": "Apple is set to show off new smart home devices at an October 13 event",
+        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
         "band": "related"
       }
     },
     {
-      "title": "Meta’s Smart Glasses May Have Been Recording People Without Their Knowledge",
-      "url": "https://gizmodo.com/metas-smart-glasses-recording-without-consent-2000826018",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T20:55:59+00:00",
-      "excerpt": "A Reddit thread suggests Meta's smart glasses have been capturing conversations that don't contain the \"Hey Meta\" wake phrase.",
-      "og_image": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-09-1200x675.jpg",
-      "history_match": {
-        "score": 0.313,
-        "date": "2026-10-14",
-        "url": "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/",
-        "title": "Big surprise: Some Ray-Ban Meta owners say their glasses are listening without being asked (Updated)",
-        "band": "related"
-      }
-    },
-    {
-      "title": "I've tried Apple's HomeView, and it could help me do more at home without reaching for my iPhone",
-      "url": "https://www.techradar.com/home/smart-home-hubs/ive-tried-apples-homeview-and-it-could-bring-my-smart-home-together-with-less-iphone-time",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T21:00:00Z",
-      "excerpt": "I've spent some time with Apple's HomeView smart display, exploring its personalized interface, smart home controls, and new Siri AI features. It could finally bring Apple's ecosystem together and help me reach for my iPhone less often, but Siri still has some work to do.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/jssgEkn3btEMQ2YGCpRLUQ-2560-80.jpg",
-      "history_match": {
-        "score": 0.267,
-        "date": "2026-10-14",
-        "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
-        "title": "Apple’s first smart display is the 7-inch HomeView for $299",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Apple Intelligence Coming to China in December With iOS 27.3",
-      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
-      "source": "MacRumors",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T20:24:43+00:00",
-      "excerpt": "Apple plans to bring Apple Intelligence to China in iOS 27.3 after two years of regulatory delays, reports Bloomberg. The launch will include basic Apple Intelligence features for things like photo editing, but Siri AI won't be available. Image Playground and the newer version of Genmoji will be mis",
-      "og_image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
-      "history_match": {
-        "score": 0.221,
-        "date": "2026-09-25",
-        "url": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
-        "title": "Apple vs. Adobe: How does iOS 27’s AI photo editing compare to Photoshop?",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Apple confirms Siri AI is not coming to the original HomePod mini",
-      "url": "https://9to5mac.com/2026/10/14/no-siri-ai-is-not-coming-to-the-original-homepod-mini/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T17:30:55+00:00",
-      "excerpt": "Siri AI will be exclusive to HomePod mini 2, it‘s not coming to the original HomePod mini despite a report temporarily claiming otherwise.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-mini-new-colors-2021.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "title": "Android will use Gemini to warn you about scammy messages",
-      "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T16:00:00+00:00",
-      "excerpt": "Google will tell if you a scammer is trying to message you and will protect your banking details from prying eyes while sharing your screen.",
-      "og_image": "https://www.engadget.com/img/gallery/android-will-use-gemini-to-warn-you-about-scammy-messages/l-intro-1791980014.jpg"
-    },
-    {
-      "title": "Samsung’s most useful Galaxy AI features are expanding with support for more languages",
-      "url": "https://9to5google.com/2026/10/14/galaxy-ai-language-expansion-2/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T15:59:37+00:00",
-      "excerpt": "Unlike a lot of AI features, most of Samsung’s Galaxy AI tools are genuinely useful. Transcript, Call, and Note Assist...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2024/12/Audio-call-transcription-Galaxy-AI-in-One-UI-7.0.jpg?quality=82&strip=all&resize=1200,628",
-      "history_match": {
-        "score": 0.238,
-        "date": "2026-09-20",
-        "url": "https://www.wired.com/review/samsung-galaxy-watch9/",
-        "title": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
-        "band": "related"
-      }
-    },
-    {
-      "title": "myFirst's AI camera and printer turn kids' ideas into instant comics",
-      "url": "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T14:37:00Z",
-      "excerpt": "Kids supply the imagination, and AI takes care of the drawing. The Insta magiCam turns photos into coloring pages, stickers, and illustrations, while the magiBox transforms spoken ideas into printable artwork and four-panel comics. When imagination's the limit, the family fridge might soon need an e",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png"
-    },
-    {
-      "title": "HMD brings AI companionship to a basic flip phone, complete with a recurring subscription",
-      "url": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T14:13:00Z",
-      "excerpt": "HMD has introduced a new version of its 2660 Flip with an AI companion designed to combat loneliness among elderly users. The AI can remember previous conversations, tell stories, and even play games, but continued companionship comes with a monthly subscription fee after a five-hour free trial.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HMD-2660-Flip-Senior-Edition.png"
-    },
-    {
-      "title": "Nothing’s first smart glasses leak reveals two very different bets",
-      "url": "https://www.androidauthority.com/nothing-smart-glasses-leak-3723074/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T11:55:23Z",
-      "excerpt": "One pair reportedly skips the camera, while the other could add ChatGPT.",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Nothing-Phone-3a-cameras-scaled.jpg"
-    },
-    {
-      "title": "I tested the RayNeo GT as a replacement to every screen I own — it's a mixed bag",
-      "url": "https://www.tomsguide.com/computing/smart-glasses/rayneo-gt-ar-glasses-review",
+      "url": "https://www.tomsguide.com/computing/cpus/nvidia-rtx-spark-benchmarks",
       "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-10-14T11:30:00Z",
-      "excerpt": "No HDR, but pinned displays. No display cover but a better screen",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8pBLisw4MseRsErpkbrrwd-2560-80.jpg"
-    },
-    {
-      "title": "Apple researchers turn idle Macs into a virtual GPU cloud with ‘Minions’",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T11:15:00Z",
-      "excerpt": "Can start with a simple request over Slack, but teams worry about their data running on devices outside their group.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Wjvd8aPH3tzi8eZYrAmXN7-2560-80.jpg"
-    },
-    {
-      "title": "My Friend Has No Soul",
-      "url": "https://www.wired.com/story/my-friend-has-no-soul/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T11:00:00.000Z",
-      "excerpt": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-      "og_image": "https://media.wired.com/photos/6acdf1809f45e9dbe0c8053b/191:100/w_1280,c_limit/E4.jpg"
-    },
-    {
-      "title": "Meta’s Audio-Only Glasses Are Nicely Made. They Don’t Solve the Deeper Problems",
-      "url": "https://www.cnet.com/tech/mobile/meta-ray-ban-audio-only-smart-glasses-first-impressions/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-10-13T14:00:07-04:00",
-      "excerpt": "Meta Ray-Ban Audio glasses are sleek and offer long battery life, but where will their AI go next?",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Meta.Ray_.Ban_.Audio_.1-1.jpg",
+      "published_iso": "2026-10-15T18:46:07Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3LkD4AgudgNF36g8bsRMiL-2560-80.jpg",
+      "excerpt": "Big on the GPU!",
+      "title": "I benchmarked Nvidia's RTX Spark: Apple wins the CPU war, but Nvidia's GPU just broke my testing charts",
       "history_match": {
-        "score": 0.277,
-        "date": "2026-10-06",
-        "url": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
-        "title": "Meta rolling out audio upgrades, turn-by-turn navigation for Ray-Ban smart glasses",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Googlebook will improve support for Linux apps eventually, but it’s all about AI for now",
-      "url": "https://9to5google.com/2026/10/13/googlebook-linux-app-support/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-10-13T15:35:00+00:00",
-      "excerpt": "Googlebook was always going to run into problems with app availability, but few expected the platform to regress its support...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/XPS-Googlebook-Homescreen-2.jpg?quality=82&strip=all&resize=1200,628",
-      "history_match": {
-        "score": 0.189,
-        "date": "2026-09-22",
-        "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-        "title": "These are the first five Googlebook laptops",
-        "band": "related"
-      }
-    },
-    {
-      "title": "I have Nvidia’s RTX Spark-armed Surface Laptop Ultra in my hands right now — tell me what you want me to test",
-      "url": "https://www.tomsguide.com/computing/laptops/i-have-nvidias-rtx-spark-armed-surface-laptop-ultra-in-my-hands-right-now-tell-me-what-you-want-me-to-test",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-10-13T14:01:52Z",
-      "excerpt": "I have the laptop, you pick the torture tests",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ZNyVbXYdpmbsHsQZYepATc-2560-80.jpg",
-      "history_match": {
-        "score": 0.338,
+        "score": 0.207,
         "date": "2026-10-10",
         "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
         "title": "Pre-orders open for Nvidia's RTX Spark laptops, starting at $2,599",
@@ -220,56 +45,72 @@
       }
     },
     {
-      "title": "'One of the best webcams I've ever reviewed': The Insta360 Link 2 Pro is total overkill for Zoom, but even at $210 it's brilliant",
-      "url": "https://www.techradar.com/pro/one-of-the-best-webcams-ive-ever-reviewed-the-insta360-link-2-pro-is-total-overkill-for-zoom-but-even-at-usd210-its-brilliant",
-      "source": "TechRadar",
+      "url": "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-10-14T17:05:16Z",
-      "excerpt": "The Insta360 Link 2 Pro is one of the best webcams we've ever tested, with 4K resolution, 1/1.3-inch sensor, AI gimbal tracking, and directional mics.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Du4BVhNNwQ4UX8Xv6nhB98-2560-80.jpg"
-    },
-    {
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "source": "Ars Technica",
-      "category": "gadgets",
-      "published_iso": "2026-10-08T00:00:24+00:00",
-      "excerpt": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png",
+      "published_iso": "2026-10-15T12:00:21Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/xVBG4cA4gTfEi6s5iBT2i-2560-80.jpg",
+      "excerpt": "Laying the foundation for the reinvention of the PC in the agentic AI era",
+      "title": "We tested the RTX Spark Superchip in Microsoft's Surface Laptop Ultra",
       "history_match": {
-        "score": 0.223,
-        "date": "2026-10-08",
-        "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-        "title": "Microsoft is giving Copilot more control over Windows and your files",
+        "score": 0.257,
+        "date": "2026-09-26",
+        "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
         "band": "related"
       }
     },
     {
-      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
-      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-      "source": "Ars Technica",
+      "url": "https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark/",
+      "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-10-08T16:32:46+00:00",
-      "excerpt": "Amazon killed its app store, so Google Play it is.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/assets.aboutamazon-1152x648.png",
+      "published_iso": "2026-10-15T12:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/adobe-rebuilt-photoshop-and-premiere-for-nvidias-rtx-spark-platform/l-intro-1792065422.jpg",
+      "excerpt": "Adobe has ‘rearchitected’ Photoshop, Premiere and Substance 3D to work faster on computers powered by NVIDIA’s RTX Spark AI superchip.",
+      "title": "Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform",
       "history_match": {
-        "score": 0.376,
-        "date": "2026-10-01",
-        "url": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
-        "title": "Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades",
+        "score": 0.239,
+        "date": "2026-09-25",
+        "url": "https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/",
+        "title": "Apple vs. Adobe: How does iOS 27’s AI photo editing compare to Photoshop?",
         "band": "related"
       }
     },
     {
-      "title": "An Asus ROG Flow Z13 but with 160 GB VRAM: OneXPlayer Super X Pro launches with up to 192 GB RAM and AMD Gorgon Halo",
-      "url": "https://www.notebookcheck.net/An-Asus-ROG-Flow-Z13-but-with-160-GB-VRAM-OneXPlayer-Super-X-Pro-launches-with-up-to-192-GB-RAM-and-AMD-Gorgon-Halo.1422804.0.html",
-      "source": "Notebookcheck",
+      "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
+      "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-10-13T13:04:00Z",
-      "excerpt": "One-Netbook has updated its Asus ROG Flow Z13 alternative. Available with AMD's Ryzen AI Max+ Pro 495 processor, the OneXPlayer Super X Pro combines a 120 Hz AMOLED display and an 85 Wh battery with 192 GB RAM, of which 160 GB can be assigned as VRAM.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/onexplayer-super-X-pro-launch-kv.jpg",
+      "published_iso": "2026-10-15T17:47:29+00:00",
+      "og_image": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg",
+      "excerpt": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date\". Meta worked with Apple to bring Muse Spark Open to the Mac, and the model can run on a desktop setup with two 512GB Apple M5 Ultra Mac Studios running the latest MLX framework. Me",
+      "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
       "history_match": {
-        "score": 0.344,
+        "score": 0.309,
+        "date": "2026-09-24",
+        "url": "https://www.androidauthority.com/meta-smart-glasses-muse-agent-leak-3714611/",
+        "title": "Meta is working on making Muse its smart glasses assistant",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T11:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
+      "excerpt": "Eiliko and its manufacturer, Energize Lab, are seemingly not to be trusted.",
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked"
+    },
+    {
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T14:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/o3rsSibjsvWXVWeL6LWF6G-1920-80.jpg",
+      "excerpt": "Sipeed’s MaixStation pairs Axera’s AX8860P with 128GB of LPDDR5X at 273 GB/s to take on Nvidia’s DGX Spark and AMD’s Ryzen AI Halo.",
+      "title": "Sipeed reveals Chinese-made DGX Spark and Ryzen AI Halo rival, expected to cost $3,999",
+      "history_match": {
+        "score": 0.176,
         "date": "2026-10-12",
         "url": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
         "title": "Powerful new mini-PC launches with 128 GB RAM, dual 10 GbE and Ryzen AI Max+ Pro 495",
@@ -277,59 +118,209 @@
       }
     },
     {
-      "title": "Google lets you make personal Android apps for free now – with just prompts",
-      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
-      "source": "ZDNET",
+      "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-10-13T13:00:07-04:00",
-      "excerpt": "It just got a whole lot easier to vibe code the exact Android app you need - no developer experience required.",
-      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+      "published_iso": "2026-10-14T14:05:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera,...",
+      "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
       "history_match": {
-        "score": 0.158,
-        "date": "2026-10-03",
-        "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
-        "title": "Gemini fully replaces Google Assistant on Android",
+        "score": 0.229,
+        "date": "2026-09-18",
+        "url": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
+        "title": "Meta Reportedly Building Smart Glasses without Cameras Following Public Backlash",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://9to5google.com/2026/10/15/meta-ray-ban-recording-bug/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T14:10:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/meta-ray-ban-camera-1.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "As privacy complaints continue to dominate the conversation around Meta’s Ray-Ban smart glasses, the company is now fixing an issue...",
+      "title": "Meta says it has fixed an issue that let its Ray-Ban smart glasses record on their own",
+      "history_match": {
+        "score": 0.317,
+        "date": "2026-10-14",
+        "url": "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/",
+        "title": "Big surprise: Some Ray-Ban Meta owners say their glasses are listening without being asked (Updated)",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.macrumors.com/2026/10/14/apple-home-devices-siri-ai/",
+      "source": "MacRumors",
+      "category": "gadgets",
+      "published_iso": "2026-10-14T21:23:49+00:00",
+      "og_image": "https://images.macrumors.com/t/YpWdLztt_2tLPiK-A1KjFYEORXc=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
+      "excerpt": "There's been some confusion about which of Apple's new and existing home devices will support Siri AI and when, because Siri AI isn't going to be available at launch on some products.",
+      "title": "Which Apple Home Devices Get Siri AI, and When",
+      "history_match": {
+        "score": 0.301,
+        "date": "2026-10-09",
+        "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
+        "title": "Apple is set to show off new smart home devices at an October 13 event",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+      "source": "Samsung Newsroom",
+      "category": "gadgets",
+      "published_iso": "2026-10-14T21:00:00+09:00",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13153111/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Thumb932.jpg",
+      "excerpt": "Samsung is expanding language support for Galaxy AI and Bixby, bringing these experiences ",
+      "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+      "history_match": {
+        "score": 0.187,
+        "date": "2026-10-14",
+        "url": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
+        "title": "Samsung Smart Glasses Unveiled, and They're Superlight",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.digitaltrends.com/phones/a-7-board-lets-an-ai-control-an-iphone-without-jailbreaking-it/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T03:11:44-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630",
+      "excerpt": "Henry Yuan’s open-source project uses a roughly $7 board to let AI navigate an iPhone without jailbreaking it, though model access and setup requirements make it more involved than the price suggests.",
+      "title": "A $7 board lets an AI control an iPhone without jailbreaking it"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T19:55:25+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
+      "excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T15:02:36+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
+      "excerpt": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "title": "AI agents are coming to Rivian’s cars"
+    },
+    {
+      "url": "https://www.engadget.com/2287955/amazon-alexa-tablet-12-pro-review/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T18:30:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/alexa-tablet-12-pro-review-amazons-premium-tablet-gets-almost-everything-right/l-intro-1792087746.jpg",
+      "excerpt": "This tablet is a great value, even if Android apps still aren",
+      "title": "Alexa Tablet 12 Pro review: Amazon's premium tablet gets almost everything right",
+      "history_match": {
+        "score": 0.313,
+        "date": "2026-10-09",
+        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.etnews.com/20261015000053",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-10-16T04:00:00+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.5b86b8c210424bd79ce3ef1fb6f531b7_P1.jpg",
+      "excerpt": "인공지능(AI) 반도체 설계기업 에임퓨처(대표 김창수)가 ",
+      "title": "[2026 경기 스타트업 서밋]에임퓨처, 기기에서 AI 돌릴 반도체 기술 공개…가전 넘어 자동차로"
+    },
+    {
+      "url": "https://www.etnews.com/20261015000406",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T22:30:00+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.182601c1872d4337b8dc07521b542dc4_P1.png",
+      "excerpt": "경비 인력을 대신해 현장을 순찰하는 로봇 경비견이 확산되고 있습니다. 미국 조지아주 애틀랜타 일대 일부 아파트와 건설현장에서는 사족보행 로봇이 경비 업무에 활용되고 있습니다. 미국 로봇 보안업체 언도티드가 운영하는 이 로봇들은 시설을 돌아다니며 카메라와 센서로 현장을 확인합니다. 이상 상황이 포착되면, 원격 관제 요원이 로봇을 조종하고 스피커를 통해 현장에 있는 사람에게 말을 겁니다. 필요할 경우 경찰에 신고할 수도 있습니다. 실제로 애틀랜타의",
+      "title": "밤마다 아파트 순찰…사람 대신하는 '로봇 경비견'"
+    },
+    {
+      "url": "https://www.etnews.com/20261015000314",
+      "source": "전자신문",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T14:25:37+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.1c03c27b79524d34babb02b52e9b6a4f_P1.jpg",
+      "excerpt": "마우로 포르치니 삼성전자 디바이스경험(DX)부문 최고디자인책임자(CDO) 사장이 인공지능(AI)에 감성지능(EI)·상상력(HI)을 결합한 ",
+      "title": "삼성전자 CDO “AI 시대 디자인 핵심은 '인간'…제품에 사람을 담아낼 것”"
+    },
+    {
+      "url": "https://www.cnet.com/home/smart-home/apple-homepod-mini-2-same-look-but-so-much-siri-ai/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-10-13T10:48:42-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/HomePod-Mini-2-Close-Shot.jpg",
+      "excerpt": "We saw and heard Apple's new HomePod mini today. Here's what you should know.",
+      "title": "Apple HomePod Mini 2: Hands-On Impressions, Siri AI and More",
+      "history_match": {
+        "score": 0.162,
+        "date": "2026-09-22",
+        "url": "https://www.wired.com/review/apple-mac-mini-m6/",
+        "title": "Apple's M6 Mac Mini Is Perfect for the AI Curious",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "source": "Ars Technica",
+      "category": "gadgets",
+      "published_iso": "2026-10-08T00:00:24+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png",
+      "excerpt": "Get ready for more AI in your Windows and more AI on the desktop.",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "history_match": {
+        "score": 0.213,
+        "date": "2026-10-08",
+        "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+        "title": "Microsoft is giving Copilot more control over Windows and your files",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/macpaw-eney-ai-assistant-mac-iphone/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T05:56:14-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/10/eney-lead.jpg?resize=1200%2C630",
+      "excerpt": "MacPaw has launched Eney, an AI assistant that can work across apps, prepare tasks, and offer proactive suggestions on Mac and iPhone.",
+      "title": "MacPaw’s Eney is an AI agent that prepares and plans your chores on iPhone and Mac"
+    },
+    {
+      "url": "https://www.androidauthority.com/google-home-october-update-gemini-voice-commands-3723503/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-14T21:32:00+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-9-scaled.jpg",
+      "excerpt": "Google Home's October update teaches Gemini for Home to reliably obey 'stop' and other voice commands on speakers and displays. (Page 403s to fetchers; time from the outlet's RSS pubDate.)",
+      "title": "Gemini for Home is finally learning that ‘stop’ means stop",
+      "history_match": {
+        "score": 0.177,
+        "date": "2026-10-02",
+        "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
+        "title": "Gemini for Home is now better at hearing you in noisy rooms",
         "band": "related"
       }
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 22,
+    "dropped": 0,
+    "kept": 23,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 13,
+    "review": 14,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-15",
-      "title": "Comu's Action Pro is a great meeting recorder that struggles to justify its AI premium",
-      "url": "https://9to5google.com/2026/09/10/comus-action-pro-is-a-great-meeting-recorder-that-struggles-to-justify-its-ai-premium/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five",
-      "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Apple releases iOS 27 with Siri AI overhaul",
-      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-      "url": "https://www.theverge.com/tech/994267/steam-frame-review"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "I found a speech recognition model hiding inside VS Code, and it never sends a word to the cloud",
-      "url": "https://www.xda-developers.com/found-speech-recognition-model-vs-code-never-sends-word-cloud/"
-    },
     {
       "date": "2026-09-17",
       "title": "애플이 직접 밝힌 레퍼런스 이미지의 구조 애플이 아이폰 18 프로 레퍼런스 이미지 모드의 구조를 보안 블로그에 직접 설명했다.",
@@ -969,6 +960,31 @@
       "date": "2026-10-14",
       "title": "Robots could get a ‘ChatGPT moment’ in the next one to two years, Unitree chief says — and it’ll be powered by OpenAI’s GPT-7",
       "url": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Android will use Gemini to warn you about scammy messages",
+      "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Apple Intelligence Coming to China in December With iOS 27.3",
+      "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "HMD brings AI companionship to a basic flip phone, complete with a recurring subscription",
+      "url": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Apple researchers turn idle Macs into a virtual GPU cloud with ‘Minions’",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Google lets you make personal Android apps for free now – with just prompts",
+      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/"
     }
   ]
 }

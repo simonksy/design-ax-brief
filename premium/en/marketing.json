@@ -1116,6 +1116,117 @@
           "x": "E-commerce has become one of the battlegrounds of AI, with Google and Amazon investing in agent shopping tools, and Amazon fighting Perplexity and, more recently, Meta’s Muse over whether agents should shop on a customer’s behalf."
         }
       ]
+    },
+    "marketing/marketing-google-universal-cart": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xMDZus5hxYI"
+        },
+        {
+          "t": "p",
+          "x": "Google said Universal Cart, a tool that lets users collect and monitor products they find across Search and in the Gemini app, is now available to U.S. users. It was first previewed at Google I/O in May."
+        },
+        {
+          "t": "p",
+          "x": "The cart can collect items from multiple retailers and send notifications when a saved product's price drops or an out-of-stock item is back. Google says it can also factor in credit card perks and surface relevant promo codes."
+        },
+        {
+          "t": "p",
+          "x": "Checkout is tied to Google's Universal Commerce Protocol (UCP), an open standard designed to help AI agents and retailers work together across the shopping journey. Amazon, OpenAI and other rivals have added agentic commerce features too."
+        }
+      ]
+    },
+    "marketing/marketing-fox-agentic-linear": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+          "cap": "Jeff Collins, Fox ad sales chief, during the 2025 Fox upfront presentation. Frank Micelotta/Fox"
+        },
+        {
+          "t": "p",
+          "x": "Fox is expanding what it calls the TV ad industry's “first end-to-end agentic platform” as it continues its push into AI-powered technology."
+        },
+        {
+          "t": "p",
+          "x": "The company told ADWEEK it is entering the next phase of its agentic rollout: adding more agency partners, expanding agentic capabilities to end-to-end linear and, eventually, digital transactions, and making agentic a bigger part of future upfront conversations."
+        },
+        {
+          "t": "p",
+          "x": "According to Jeff Collins, Fox's ads leader, the tech advancements are creating more impactful relationships with clients and partners."
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-report": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads seems to be testing a new report named the Search terms and ad combinations report. It shows how search queries, ad creatives and landing pages work together."
+        },
+        {
+          "t": "p",
+          "x": "It was spotted by Natasha Kaurra, who said on LinkedIn it “looks like a useful addition for advertisers running AI Max for Search campaigns.”"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+          "cap": "Google Ads Search Terms And Ad Combinations Report"
+        },
+        {
+          "t": "p",
+          "x": "Beyond the search terms that triggered ads, it shows the headlines and descriptions served, the landing pages users were sent to, match sources (AI Max expanded matches or landing page and URL inclusions) and asset sources (whether assets were advertiser-provided)."
+        },
+        {
+          "t": "p",
+          "x": "“This report gives us another way to identify mismatches between search intent, ad messaging, and landing pages,” Kaurra added."
+        }
+      ]
+    },
+    "marketing/marketing-stripe-agentic-commerce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+          "cap": "Stripe President John Collison. Getty Images Entertainment via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Stripe President John Collison said on his Cheeky Pint podcast, speaking with Meta Platforms CEO Mark Zuckerberg and chief AI officer Alexandr Wang, that agentic commerce on Stripe rose sharply starting in September."
+        },
+        {
+          "t": "p",
+          "x": "“…we had a whole bunch of announcements at Sessions back in May, and then it only, as of September, basically started going vertical,” Collison said. He gave no specific figures."
+        },
+        {
+          "t": "p",
+          "x": "The remark came as the three discussed Meta's AI assistant Muse and its ability to buy merchandise on command. Amazon recently banned Muse from shopping on its site; Zuckerberg said companies that block it will likely regret it."
+        }
+      ]
+    },
+    "marketing/marketing-meta-gem": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta published a technical account of the 2026 generation of its Generative Ads Model, GEM, claiming an 18.9% conversion improvement and a 12% click-through rate improvement across its ad surfaces and objectives. The company replaced separate prediction systems for Facebook, Instagram and Reels with one central foundation model, whose output is moved into the hundreds of smaller models that serve ads in real time."
+        },
+        {
+          "t": "p",
+          "x": "The post does not say what the figures are measured against, over what period, or whether they come from A/B tests or offline evaluation. They are vendor-supplied and not independently audited."
+        },
+        {
+          "t": "p",
+          "x": "A new architecture, Kunlun, replaces Interformer and \"delivers 2x performance gains with the same computation scaling,\" according to Meta. LoopFM and Solaris pass GEM's knowledge to downstream models, and GEM trains \"on several thousand of the latest-generation GPUs\" at 20-25% MFU."
+        },
+        {
+          "t": "p",
+          "x": "For advertisers, none of these mechanisms has a setting in Ads Manager; their effects arrive through Advantage+ and automated delivery."
+        }
+      ]
     }
   }
 }

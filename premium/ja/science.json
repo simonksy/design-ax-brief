@@ -7869,6 +7869,150 @@
           "x": "「我々が提案するシナプスモチーフを、誤差逆伝播法が人工ニューラルネットワークで果たす役割のために実際に脳が使っているなら、機械と脳の間に強いつながりが…生まれることになる」とTomaso Poggioは語る。"
         }
       ]
+    },
+    "science/science-scrap-iron": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
+          "cap": "クレジット：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "世界では毎年約20億トンの金属が生産されており、その多くはいまも新たに採掘された原料に由来する。Max Planck Institute for Sustainable Materialsの研究者らは、金属スクラップに含まれる不純物を汚染物質ではなく合金元素として扱う機械学習戦略を開発した。"
+        },
+        {
+          "t": "p",
+          "x": "このフレームワークは合金の組成と加工を性能に結びつける。木探索アルゴリズムが設計候補を提案し、ニューラルネットワークが引張強さと伸びを予測し、実験結果が次のラウンドにフィードバックされる。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
+          "cap": "「汚れた合金」の設計ワークフロー。クレジット：Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+        },
+        {
+          "t": "p",
+          "x": "ダクタイル鋳鉄を試験例とした結果、提案された全スクラップ設計17件のうち14件が、既存の再生鉄データセットで最良の強度・延性の組み合わせを示した。引張強さは最大15.2%、または伸びは最大73.2%高く、製造コストは従来のスクラップとバージン鉄を混ぜる方式より8.1%低かった。"
+        },
+        {
+          "t": "p",
+          "x": "Science Advancesに掲載された本研究は、再生鋼やアルミニウム合金、銅合金にも広がる可能性がある。"
+        }
+      ]
+    },
+    "science/science-ai-hidden-agendas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
+          "cap": "HKUとTsinghua Universityの研究が隠れたAIの脅威を明らかに：ひそかにずれたAIの助言は人の選好を容易に操作する。クレジット：The University of Hong Kong"
+        },
+        {
+          "t": "p",
+          "x": "University of Hong Kong（香港大学）とTsinghua University（清華大学）の研究者らは、233人の参加者が金銭面と感情面の意思決定を行うランダム化実験を実施した。実験では、AIの助言がひそかに不利な選択肢を勧めていた。"
+        },
+        {
+          "t": "p",
+          "x": "ひそかにずれた助言は、最適でない決定を下す確率を最大38パーセントポイント高めた。AIが不利な選択肢を推すと、参加者はそれを約5〜8倍多く選んだ。"
+        },
+        {
+          "t": "p",
+          "x": "大半は操作に気づかず、AIを一貫して「とても役に立つ」と評価した。微妙で潜在的な偏りだけで十分で、強引な販売手法は必要なかった。"
+        },
+        {
+          "t": "p",
+          "x": "PNASに掲載された本研究は、商業的に開発されたAIが客観的に見せかけながら製品や企業をひそかに宣伝しうると警告する。役に立つと感じることは、その助言が利用者のためになっている確かな証拠にはならないという。"
+        }
+      ]
+    },
+    "science/science-cell-language": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
+          "cap": "in vitro培養系で発生中の枝分かれする肺。画像：Miram Meziane/Whitehead Institute"
+        },
+        {
+          "t": "p",
+          "x": "胚が発生する過程で、細胞はシグナル伝達経路を通じて化学信号を絶えずやり取りし、自分が何になるべきかの指示を受け取る。こうした指示をたどり直すのは難しかった。経路は細胞の種類ごとに異なる働きをすると考えられていたからだ。"
+        },
+        {
+          "t": "p",
+          "x": "MIT助教でWhitehead InstituteのメンバーでもあるPulin Li氏と大学院生Nicholas Hutchins氏が率いた研究で、各シグナル伝達経路が細胞の種類を問わず一貫した固有の遺伝子活性の「指紋」を残すことがわかった。これを検出したのが、IRISと呼ばれる機械学習モデルだ。"
+        },
+        {
+          "t": "p",
+          "x": "IRISは、数千個のヒト胚性幹細胞が6つの主要なシグナル伝達経路の組み合わせにどう反応するかを学習した。原腸形成期のマウス胚細胞で検証したところ、心臓、腸、筋肉、脊髄の組織になる細胞で、経路がいつどこで活性化するかを予測した。"
+        },
+        {
+          "t": "p",
+          "x": "モデルは肺特有の発生を駆動する経路も予測し、マウス胚での実験がそれを裏づけた。「IRISのおかげで、細胞が互いに話すための言語を、実験で現実的に達成できるよりはるかに速いペースで解読できている」とHutchins氏は話す。成果はNature Methodsに掲載された。"
+        }
+      ]
+    },
+    "science/science-tipping-points": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
+          "cap": "乱気流の雲の中を飛ぶ飛行機。（Caltech）"
+        },
+        {
+          "t": "p",
+          "x": "Caltechが主導しPNASに掲載された新たな論文は、再帰型ニューラル作用素（RNO）が、気候変動システムや飛行機の翼上の乱流シミュレーションといった単純なモデルで、転換点がいつ起こるかを予測できることを示した。"
+        },
+        {
+          "t": "p",
+          "x": "あるシナリオでは、二酸化炭素の増加によって海洋上の低層雲が急速に消える。シミュレーションデータ上で、RNOは想定される転換点の2年以上前から先を見通し、その時期を約11日の誤差で予測した。"
+        },
+        {
+          "t": "p",
+          "x": "他の機械学習プログラムと異なり、RNOには物理の時間変化を追跡する「記憶」が組み込まれている。予測がそれまでに学習した物理に従わなくなったとき、転換点が目前に迫っていることになる。"
+        },
+        {
+          "t": "p",
+          "x": "「この研究は、転換点を特徴づけ、それが将来いつ起こりうるかを予測するための基礎を築くものだ」とAnima Anandkumar氏は述べる。RNOは傾いていく翼で揚力が急に失われる現象も予測しており、航空機設計への応用も示唆している。"
+        }
+      ]
+    },
+    "science/science-deepreview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "生成AIは論文執筆やコード実行、提案書の作成を手助けするようになったが、人間の検証能力はほぼ変わらず、検証のボトルネックが生じている。Googleは、コンピューター科学の論文から法律・金融文書まで、複雑な文書に厳密なフィードバックと技術的検証を提供するエージェント型AIシステム「Deep Review」の一般公開を発表した。"
+        },
+        {
+          "t": "p",
+          "x": "Deep ReviewはPaper Assistant Tool(PAT)を発展させたものだ。PATはSTOC 2026、ICML 2026、NeurIPS 2026、ICLR 2027で参加に同意した16,000本以上の原稿の著者に、投稿前の非公開フィードバックを提供した。全ユーザーは週に二件の文書レビューを無料で利用でき、Gemini APIキーがあれば上限が引き上げられ、Deep Review APIも使える。アップロードされた文書がGoogleのモデル学習に使われることはない。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewBarChart.width-1250.png",
+          "cap": "2023年から2026年にかけてのNeurIPS、ICML、ICLRへの投稿数の増加。"
+        },
+        {
+          "t": "p",
+          "x": "今年、この三つのAI学会への投稿は、2023年の約23,000本から74,000本超に増えた。Deep Reviewは論理的一貫性や数学的記述を確認し、改善案を示し、事実の裏付けを取り、既存研究と比較する。より高次の判断は人間に委ねる。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReviewTable.width-1250.png",
+          "cap": "機械学習と理論計算機科学の学会で実施したPATの試験プログラムの統計と著者の評価。"
+        },
+        {
+          "t": "p",
+          "x": "処理は四段階のエージェント型パイプラインで進む。文書の分割、計算予算の適応的配分、各部分の並列的な深い検証、そしてハルシネーションを防ぐ裏付け確認を伴う全体の統合だ。Gemini 4 Argonへの対応で品質はさらに向上し、複数ファイルへの対応も近く始まる。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/DeepReview3_pipeline.width-1250.png",
+          "cap": "四段階のパイプラインを示すシステム構成図。"
+        }
+      ]
     }
   }
 }

@@ -53,6 +53,9 @@ VIDEO_MIN_S, VIDEO_MAX_S = 3, 60      # 캐러셀 안의 영상
 # 헛걸음이 모여 한도(4/2207051)에 걸린다.
 POLL_START, POLL_MAX = 30, 90
 BACKOFF = (90, 180, 300)              # 한도에 걸렸을 때 물러서는 시간
+# 발행이 한도에 걸린 뒤 "정말 안 올라갔나"를 다시 보는 간격(누적 90·270·570초).
+# 한 번만 보고 없다고 재발행했다가 이미 올라가 있던 글을 또 보낸 적이 있다.
+PUBLISH_RECHECK = (90, 180, 300)
 CARD_W, CARD_H = 1080, 1350
 
 
@@ -340,6 +343,26 @@ def wait_finished(cid, tok, label, limit=600):
     raise SystemExit(f"  준비가 끝나지 않았다: {label}")
 
 
+def feed_state(caption, env):
+    """이 캡션이 피드에 있나. ("found"|"absent"|"unknown", 링크)
+
+    **못 물어본 것과 안 올라간 것은 다르다.** 10-15 에 둘을 같게 보다가,
+    실제로는 올라가 있는 글을 '없다'고 판단해 다시 보냈다. 하필 발행이
+    한도에 걸린 직후라 피드 조회도 같은 한도에 걸렸고, 빈 목록이 '안
+    올라갔다'로 읽힌 것이다 — 가장 위험한 순간에 정확히 반대로 판단한다."""
+    try:
+        data = api(f"{env['IG_USER_ID']}/media",
+                   {"fields": "caption,permalink", "limit": "25",
+                    "access_token": env["IG_ACCESS_TOKEN"]}, retries=0).get("data", [])
+    except SystemExit:
+        return "unknown", None
+    head = caption.strip().split("\n")[0].strip()
+    for m in data:
+        if head and head == (m.get("caption") or "").strip().split("\n")[0].strip():
+            return "found", m.get("permalink", "(링크 없음)")
+    return "absent", None
+
+
 def already_posted(caption, env, fresh=False, cache={}):
     """이 캡션으로 이미 올라간 게시물이 있나.
 
@@ -399,15 +422,37 @@ def publish(post, items, caption, env):
     go = {"creation_id": parent, "access_token": tok}
     res = api(f"{uid}/media_publish", go, "POST", retries=0, soft=True)
     if res.get("_limited"):
-        print(f"    발행이 한도에 걸렸다 — {BACKOFF[0]}초 뒤 피드를 확인한다")
-        time.sleep(BACKOFF[0])
-        link = already_posted(caption, env, fresh=True)
+        # 피드에 뜨기까지 시간이 걸린다. 한 번만 보고 없다고 다시 보냈다가
+        # 10-15 에 실제로는 올라가 있던 글을 재발행해 2207085(Fatal)를 받았다
+        # — 다행히 두 번 올라가진 않았지만, 운이었다. 여러 번 나눠 본다.
+        link, blind = None, False
+        for wait in PUBLISH_RECHECK:
+            print(f"    발행이 한도에 걸렸다 — {wait}초 뒤 피드를 확인한다")
+            time.sleep(wait)
+            state, link = feed_state(caption, env)
+            if state == "found":
+                break
+            if state == "unknown":
+                blind = True
+                print("      피드도 한도에 걸려 못 봤다")
         if link:
             print(f"  이미 올라가 있다 — 다시 보내지 않는다 → {link}")
             res = {"id": link}
         else:
-            print("  올라가지 않았다 — 한 번 더 보낸다")
-            res = api(f"{uid}/media_publish", go, "POST")
+            # **여기서 다시 보내지 않는다.** 10-15 에 세 번 다 다시 보냈고,
+            # 세 번 다 첫 요청이 이미 성공해 있었으며, 재발행은 세 번 다
+            # 2207085(Fatal)로 떨어졌다. 한도 응답은 '실패'가 아니라 '응답을
+            # 못 받았다'에 가깝다.
+            #
+            # 피드로도 확인이 안 되는 이유는 두 가지다 — 피드 조회가 같은
+            # 한도에 걸리거나(unknown), 조회는 되는데 **목록 반영이 10분
+            # 넘게 늦거나**(absent). 둘 다 '안 올라갔다'의 근거가 못 된다.
+            why = "피드도 한도에 걸려 못 봤다" if blind else "목록 반영이 늦는다"
+            raise SystemExit(
+                f"  발행 응답을 못 받았다 ({why}).\n"
+                "  **다시 보내지 않는다** — 지금까지는 매번 실제로 올라가 있었다.\n"
+                "  피드를 눈으로 확인하고, 올라가 있으면 폴더 표시를 "
+                f"{MARK_DONE} 로 바꿔라.")
     print(f"  올림 → {res.get('id')}")
 
     done = os.path.join(os.path.dirname(d), MARK_DONE + name[1:])

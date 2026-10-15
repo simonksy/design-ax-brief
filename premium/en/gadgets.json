@@ -7982,6 +7982,142 @@
           "x": "Apple started taking preorders for HomeView today. It launches on November 13 for $299."
         }
       ]
+    },
+    "gadgets/gadgets-muse-spark-open": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date.\""
+        },
+        {
+          "t": "p",
+          "x": "Meta worked with Apple to bring Muse Spark Open to the Mac, and the model can run on a desktop setup with two 512GB Apple M5 Ultra Mac Studios running the latest MLX framework."
+        },
+        {
+          "t": "p",
+          "x": "Muse Spark Open has 816 billion total parameters with 42 billion active parameters and a 1 million-token context window. It is meant for coding and agentic work."
+        },
+        {
+          "t": "p",
+          "x": "Per Meta, the M5 Ultra’s integrated GPU can use up to 512 GB per Mac Studio, so two machines can hold an entire model, and 1.2 TB/s of memory bandwidth is fast enough to read the small slice each token needs."
+        },
+        {
+          "t": "p",
+          "x": "Apple hasn't released the 512GB Mac Studio yet, but it's supposed to be coming later this month. The model is free to download, with a license allowing limited commercial use."
+        }
+      ]
+    },
+    "gadgets/gadgets-sipeed-maixstation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+          "cap": "From left: Sipeed’s MaixStation, Apple’s Mac mini and Nvidia’s DGX Spark (Image credit: Sipeed)"
+        },
+        {
+          "t": "p",
+          "x": "A Chinese rival to the DGX Spark and the Ryzen AI Halo, at least on paper, has emerged with Sipeed’s announcement of the MaixStation. Built on Axera’s new AX8860P, it has 128GB of LPDDR5X on a 256-bit bus at 273 GB/s."
+        },
+        {
+          "t": "p",
+          "x": "Sipeed told Tom’s Hardware Premium it expects the 128GB model to cost around $3,999, with launch discounts on Kickstarter — well under the DGX Spark’s current $6,950. A Kickstarter campaign follows at the end of the year."
+        },
+        {
+          "t": "p",
+          "x": "The AX8860P is a 16-core Arm Cortex-A55 part with an in-house NPU rated at 256 TOPS at native FP4. Sipeed claims 25% faster prefill and 30% faster decode than the DGX Spark running Qwen 27B, though in its email it put the lead at about 10%."
+        },
+        {
+          "t": "p",
+          "x": "The box measures about 11 × 11 × 3 cm and draws about 40W over USB-C. Testing the performance claims will have to wait for the NPU toolchain and sample machines."
+        }
+      ]
+    },
+    "gadgets/gadgets-eiliko": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "There’s a new digital pet in town — a cute little marshmallow of a robot. But if you talk to “Eiliko” over Wi-Fi, it’ll phone home to China. Its AI companion can store everything you tell it on Chinese servers, where hackers can easily gain access or even hijack its personality."
+        },
+        {
+          "t": "p",
+          "x": "“Your secrets are safe with me,” it told The Verge’s Sean Hollister. Within minutes, hacker Sammy Azdoufal had a full transcript — and could read 13 million conversations across a fleet of 68,000 toys, including over 31,000 child profiles in the US."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Azdoufal poses with the Eiliko he bought."
+        },
+        {
+          "t": "p",
+          "x": "Azdoufal found Energize Lab’s service was completely unprotected, and that it reads conversations to build profiles of users. Photos of children and short audio recordings sit at public web addresses."
+        },
+        {
+          "t": "p",
+          "x": "Energize Lab did not meaningfully respond. Azdoufal later hijacked the toy’s LLM remotely, making it claim the Earth is flat."
+        }
+      ]
+    },
+    "gadgets/gadgets-iphone-ai-board": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+        },
+        {
+          "t": "p",
+          "x": "A roughly $7 circuit board can give an AI agent control of an iPhone without jailbreaking it. Developer Henry Yuan’s open-source ESP32 iPhone Agent connects a vision model to the phone through a board that pretends to be a USB mouse and keyboard."
+        },
+        {
+          "t": "p",
+          "x": "The agent watches the display through AirPlay screen mirroring and sends screenshots to a vision model, which chooses the next action. With AssistiveTouch enabled, mouse clicks become taps and dragging becomes swiping."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+          "cap": "Henry Yuan"
+        },
+        {
+          "t": "p",
+          "x": "The $7 covers the tested Seeed Studio XIAO ESP32S3 board; Lightning iPhones need a camera adapter, and initial setup still requires a Mac with Xcode."
+        },
+        {
+          "t": "p",
+          "x": "It takes a few seconds per step, landscape apps aren’t supported, and iOS keeps passcode and Apple Pay screens out of the mirrored feed."
+        }
+      ]
+    },
+    "gadgets/gadgets-ai-studio-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+          "cap": "Google/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "Google announced on Tuesday that anyone with a standard Google account can build personal Android apps in Google AI Studio, with no coding experience. The apps run on your own device, launched from a private part of Google Play, and won't be included in the public Play Store."
+        },
+        {
+          "t": "p",
+          "x": "In the coming months you'll be able to share apps with close family and friends, and if one takes off, Google will provide a \"pipeline to graduate into a professional developer account\" to share it globally via the Play Store."
+        },
+        {
+          "t": "p",
+          "x": "AI Studio's existing app creator is meant for professional developer accounts and requires USB debugging connected to a PC. The new tool works with that same creator but installs your app on a personal device with a single click. You describe what you want in a prompt and AI does the rest, suggesting features you might have missed; you can make light edits afterwards or scrap it and start again. There's no charge to experiment and build an app."
+        },
+        {
+          "t": "p",
+          "x": "The author sees it replacing single-purpose apps loaded with ads or subscriptions, like a habit tracker, converter or timer. The big selling point: an app doesn't have to be commercially viable or needed by anyone else. It just has to work for you."
+        }
+      ]
     }
   }
 }

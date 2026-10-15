@@ -7822,6 +7822,122 @@
           "cap": "Play Store新Game Finder功能中的Gamer DNA与Game Playlists。"
         }
       ]
+    },
+    "design/design-bluesky-attie": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Bluesky的Attie AI工具今年早些时候推出时，是让人用AI打造自己的信息流，如今还能制作游戏、投票、仪表盘等“小型”社交应用，并以独立网站的形式分享给他人。Bluesky CEO Toni Schneider在TechCrunch Disrupt接受采访时表示，可以把Attie看作“社交版氛围编程，或者说为你的社区做的氛围编程”。"
+        },
+        {
+          "t": "p",
+          "x": "输入提示词就能做出自己的Attie应用。我做了一个关于Pokémon Red和Pokémon Blue的简单投票，生成用了几分钟。如果想看功能更完整的作品，Attie网站目前展示了几个示例，比如仿Flappy Bird的“Flappy Butterfly”、一台鼓机、一个测验，以及一个关于芹菜人的放置点击游戏，每个都有attie.site域名下的专属链接，并在页面底部注明作者。我试玩过的应用都是相当轻量的小玩意，不过我挺喜欢那台鼓机。"
+        }
+      ]
+    },
+    "design/design-lovable-models": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lovable正在新增一批AI模型和工具，供用户在平台上搭建的应用调用。这样一来，可以对话的辅导老师、来源可核查的研究工具、能起草回复的客服收件箱，都无需离开Lovable就能做出来。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI的GPT-Live带来实时语音对话。Anthropic最新的Claude模型负责阅读、推理和更长的任务。来自Google的Gemini 4 Argon承担知识工作，Gemini Omni把文本、照片、音频和片段变成视频，Lyria则创作原创音乐。"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity提供来自实时网络、附带引用的回答，Firecrawl和Parallel负责搜索并收集网页数据，Typesafe AI的Jev则快速做出分类、打分和分流决策。"
+        },
+        {
+          "t": "p",
+          "x": "用户只需描述想要的应用或功能。Lovable会自行选择模型或工具，用户也可以在聊天中点名，比如“use Opus 5.5”或“use Perplexity”。"
+        }
+      ]
+    },
+    "design/design-flux3-klein": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
+          "cap": "用FLUX.3 Image Klein实现文生图、图生图与布局控制"
+        },
+        {
+          "t": "p",
+          "x": "Black Forest Labs的FLUX.3 Image Klein现已发布，首日即可在Diffusers中运行。一个模型同时支持文生图和多参考图生图，并加入布局控制：在提示词中写入边界框，指定图像各部分的位置，或参考图中哪些部分需要移动。"
+        },
+        {
+          "t": "img",
+          "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
+          "cap": "在0–1000网格上以方框放置的一条描述和两段区域说明，以及生成的图像"
+        },
+        {
+          "t": "p",
+          "x": "此次发布两个开放检查点：用于快速推理的时间步蒸馏模型（16步，无CFG）和基础模型（50步，使用CFG）。蒸馏检查点在H100上生成一张1024 × 1024图像约需2秒。"
+        },
+        {
+          "t": "p",
+          "x": "NVFP4和FP8权重可通过from_single_file加载，适合较小的GPUs；LoRA训练脚本涵盖文生图和图像编辑；此次发布以Modular Diffusers流水线形式提供，可替换或添加模块。"
+        }
+      ]
+    },
+    "design/design-hesai-kosmo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
+          "cap": "Hesai发布Kosmo 3D World Data Engine。"
+        },
+        {
+          "t": "p",
+          "x": "Hesai Group发布面向Physical AI的3D世界数据引擎Kosmo。它将AI空间相机Kosmo One与云平台Kosmo World结合，把物理环境转化为高保真3D数字空间，用于机器人训练、世界模型开发和沉浸式内容创作。"
+        },
+        {
+          "t": "p",
+          "x": "Kosmo One集成lidar、一英寸成像传感器和IMU，并采用3D Gaussian Splatting，精度可达毫米级。一名操作员约15分钟即可扫描一个典型的100平方米室内空间。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
+          "cap": "Kosmo为具身AI训练提供海量真实场景数据。"
+        },
+        {
+          "t": "p",
+          "x": "在一家Dairy Queen门店，搭建3D训练环境过去需要约300小时的手工建模；使用Kosmo只用了15分钟，Sharpa机器人的任务成功率达到99%。"
+        },
+        {
+          "t": "p",
+          "x": "在影视领域，一处若搭成实景需要两个月的10,000平方米街景，一周内即可完成扫描和编辑，已有制片厂在以Pixar的RenderMan为核心的工作流中使用Kosmo。"
+        }
+      ]
+    },
+    "design/design-builder-agent-native": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "6t_AMjY5gJc"
+        },
+        {
+          "t": "p",
+          "x": "Builder.io推出Agent-Native测试版：这是一个开源TypeScript框架，用于构建带有直观UIs的AI智能体。你可以用开源框架在本地起步，也可以在Builder.io上在线构建。一项能力只需定义一次，Agent-Native就会把它开放给UI、智能体、HTTP API、CLI、MCP和A2A。"
+        },
+        {
+          "t": "p",
+          "x": "智能体应用是自带应用的AI智能体，而不是在应用里加一个聊天侧边栏：智能体与UI是平等的伙伴，凡是能在UI里做的事，智能体也能做。二者共享动作（相同的验证、权限和实现）、数据（工作保持同步）和应用状态（智能体知道你屏幕上有什么）。"
+        },
+        {
+          "t": "p",
+          "x": "与在屏幕上逐一点击的计算机操作型智能体不同，Agent-Native智能体调用UI所用的同一套动作，用更少的令牌更快完成任务。你可以从Slack、Teams、Discord、电子邮件、Telegram或WhatsApp给智能体发消息，通过MCP连接Notion、Linear和GitHub；每个应用同时也是供Claude、ChatGPT、Cursor或Codex使用的MCP服务器。"
+        },
+        {
+          "t": "p",
+          "x": "内置团队功能包括共享指令、技能和记忆，以及身份验证、权限和实时同步。可以自带Anthropic、OpenAI、Gemini或OpenRouter的密钥，也可以用Ollama运行本地模型。Clips、Slides和Design都是用它构建的开源智能体应用。"
+        }
+      ]
     }
   }
 }

@@ -6997,6 +6997,123 @@
           "x": "Como los modelos son zero-shot e independientes del idioma, no hace falta entrenarlos para cada actor o idioma. Están diseñados para material de producción real, con cambios de ángulo, obstrucciones, poca luz, movimiento rápido y varios rostros. Sync.Productions ya está disponible."
         }
       ]
+    },
+    "movies/movies-astralabs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+        },
+        {
+          "t": "p",
+          "x": "Astra Studios y VerSe Innovation formaron la Astra-Spark Alliance, anunciada en MIPCOM, para desarrollar y comercializar de forma conjunta un pipeline de producción AI-native para cine, series, animación y contenido de marca. La noticia coincide con el lanzamiento de AstraLabs, el nuevo brazo de IP tecnológica de Astra."
+        },
+        {
+          "t": "p",
+          "x": "La alianza se basa en SparkStation, el sistema operativo de contenido con AI de VerSe, que gestiona una producción desde la ideación y el guion hasta el storyboard, la generación de recursos, la edición, el renderizado y la distribución. Su motor de continuidad fija rostros, expresiones, vestuario, escenarios y utilería en toda la producción, y funciona en más de 60 idiomas."
+        },
+        {
+          "t": "p",
+          "x": "AstraLabs aporta la parte de producción, con artistas que dirigen cada etapa. Las empresas afirman que el modelo reduce el costo de producción \"hasta un 75%\" y acorta los plazos de meses a semanas."
+        },
+        {
+          "t": "p",
+          "x": "\"La alianza Astra-Spark sitúa el oficio cinematográfico dentro de la arquitectura de la producción con AI\", dijo Biren Ghose, fundador y CEO de Astra Studios."
+        }
+      ]
+    },
+    "movies/movies-celebrity-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Las fotos y videos de famosos creados con AI acumulan millones de visualizaciones en redes sociales. Una imagen AI-generated de Instagram de la actriz Mia Goth, publicada por una cuenta de fans verificada con más de un millón de seguidores, obtuvo casi 500,000 me gusta y se difundió por sitios de chismes y el resumen de AI de Google antes de que Instagram eliminara la cuenta."
+        },
+        {
+          "t": "p",
+          "x": "Hay cuentas que publican imágenes sexualizadas con AI de estrellas como Scarlett Johansson, y los videos con AI de Taylor Swift suman millones de visualizaciones. Después de que The Verge preguntara por ocho cuentas, Meta dijo que había eliminado algunas."
+        },
+        {
+          "t": "p",
+          "x": "La detección de semejanza de YouTube permite solicitar retiradas; en el primer semestre de 2026 eliminó más del 95 por ciento de los videos denunciados a través del programa."
+        },
+        {
+          "t": "p",
+          "x": "En Meta, las imágenes fijas están exentas del requisito de etiquetado de AI, por lo que la imagen falsa de Goth no habría requerido aviso según las normas de Meta."
+        }
+      ]
+    },
+    "movies/movies-artificial-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "\"Artificial\", de Luca Guadagnino, una película sobre los males de la inteligencia artificial y Sam Altman, se estrenó en el New York Film Festival y recibió una ovación atronadora en el London Film Festival. Tiene un 96% Fresh en Rotten Tomatoes, la calificación más alta de la carrera de Guadagnino."
+        },
+        {
+          "t": "p",
+          "x": "Amazon MGM retiró la película de su calendario de verano en junio, alegando que \"estaría mejor servida si la estrenara otro estudio\"; después Neon la rescató con un acuerdo de derechos globales. La prensa señaló que la decisión llegó tres meses después de que Amazon firmara una alianza con OpenAI que incluía una inversión de 50.000 millones de dólares ($50 billion). Un ejecutivo de un estudio rival dijo a Variety que los estudios que consideraban la película imposible de estrenar estaban \"en conflicto por sus propias inversiones en AI\"."
+        },
+        {
+          "t": "p",
+          "x": "Las tensiones de Amazon con el talento por la AI van más allá: Nicolas Cage dijo que se negó a firmar una renuncia sobre el uso de su imagen con AI en \"Spider-Noir\", y un creativo de una serie de Amazon MGM describió una formación obligatoria en AI. Una fuente con conocimiento directo del proceso de Amazon dijo que esas reuniones no son obligatorias."
+        }
+      ]
+    },
+    "movies/movies-view-execs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En la View Conference de Italia, ejecutivos de Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio y Cinesite debatieron sobre AI generativa, la evolución de los pipelines y el empleo. En general, presentaron la AI como parte de una transformación más amplia y no como un reemplazo inmediato de los métodos establecidos."
+        },
+        {
+          "t": "p",
+          "x": "\"Hablamos de cómo la AI puede comprimir el tiempo de ejecución, pero no puede comprimir el gusto\", dijo Laurens Ehrmann, de The Yard. Janet Lewin, de ILM, advirtió sobre \"una falacia acerca de esa bala mágica de la AI y el aprendizaje automático\". Shawn Walsh, de Cinesite, dijo que se necesitarán artistas de VFX \"en el futuro previsible para gestionar esta transición\"."
+        },
+        {
+          "t": "p",
+          "x": "Ante la pregunta de cómo protegen el sustento de los artistas, Michelle Grady, de Imageworks, dijo: \"No existimos sin artistas, punto\". Lewin señaló que las empresas matrices toman decisiones que los estudios no pueden controlar. El panel ofreció pocos detalles sobre cómo se protegerán los empleos."
+        }
+      ]
+    },
+    "movies/movies-midjourney": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
+          "cap": "Midjourney generó una imagen de The Joker en una escena de consumo de drogas"
+        },
+        {
+          "t": "p",
+          "x": "Disney y NBCUniversal (NBCU) acusaron a Midjourney de ser un “pozo sin fondo de plagio” en una demanda el año pasado. Más de 18 meses después, la empresa no habría corregido su conducta."
+        },
+        {
+          "t": "p",
+          "x": "VN.ai, una startup que somete a pruebas de estrés a herramientas de AI generativa por infracción de derechos de autor, examinó el desempeño de 15 modelos de AI populares a la hora de vulnerar la IP de los estudios. Halló que Midjourney v8.1 fue el peor infractor al reproducir personajes protegidos y que también encabezó las “violaciones de seguridad de marca” —personajes situados en un contexto dañino como la violencia o el consumo de drogas— una de cada tres indicaciones, o el 37% de las veces. Un ejemplo: The Joker fumando cannabis con un vestido Elsa-style."
+        },
+        {
+          "t": "p",
+          "x": "Midjourney no respondió a las solicitudes de comentarios. La demanda de Disney/NBCUniversal sigue en curso y Warner Bros Discovery también ha presentado una demanda; Midjourney sostiene que entrenar con imágenes protegidas es uso legítimo (fair use)."
+        },
+        {
+          "t": "p",
+          "x": "Todos los modelos generaron al menos un personaje protegido, incluso sin su nombre en la indicación, entre ellos Nano Banana de Google y Seedance 2.5 de ByteDance, aunque este último mejoró tras recibir cartas de cese y desista (cease-and-desist). MiniMax H3 incumplió las normas de seguridad de marca el 55% de las veces cuando se usó una imagen en la indicación."
+        },
+        {
+          "t": "p",
+          "x": "Nelson Chu, fundador de VN.ai, dijo que ignorar los derechos de autor es “bueno para el negocio… Es un gran marketing”, pero prevé un cambio a medida que más modelos sienten el precedente de actuar correctamente."
+        }
+      ]
     }
   }
 }

@@ -8026,6 +8026,142 @@
           "x": "Apple empezó hoy a aceptar reservas del HomeView. Saldrá a la venta el 13 de noviembre por 299 dólares."
         }
       ]
+    },
+    "gadgets/gadgets-muse-spark-open": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta anunció hoy el lanzamiento de Muse Spark Open, que según la empresa es el “modelo de pesos abiertos de U.S. más capaz hasta la fecha”."
+        },
+        {
+          "t": "p",
+          "x": "Meta colaboró con Apple para llevar Muse Spark Open al Mac, y el modelo puede ejecutarse en un equipo de escritorio con dos Mac Studios Apple M5 Ultra de 512GB que usan la versión más reciente del framework MLX."
+        },
+        {
+          "t": "p",
+          "x": "Muse Spark Open tiene 816 mil millones de parámetros en total, 42 mil millones de parámetros activos y una ventana de contexto de 1 millón de tokens. Está pensado para programación y trabajo agéntico."
+        },
+        {
+          "t": "p",
+          "x": "Según Meta, la GPU integrada del M5 Ultra puede usar hasta 512 GB por Mac Studio, así que dos máquinas pueden alojar el modelo completo, y los 1.2 TB/s de ancho de banda de memoria bastan para leer la pequeña porción que necesita cada token."
+        },
+        {
+          "t": "p",
+          "x": "Apple aún no ha lanzado el Mac Studio de 512GB, pero debería llegar a finales de este mes. El modelo se puede descargar gratis, con una licencia que permite un uso comercial limitado."
+        }
+      ]
+    },
+    "gadgets/gadgets-sipeed-maixstation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
+          "cap": "Desde la izquierda: MaixStation de Sipeed, Mac mini de Apple y DGX Spark de Nvidia (Imagen: Sipeed)"
+        },
+        {
+          "t": "p",
+          "x": "Ha surgido un rival chino para el DGX Spark y el Ryzen AI Halo, al menos sobre el papel, con el anuncio de la MaixStation de Sipeed. Basada en el nuevo AX8860P de Axera, cuenta con 128GB de LPDDR5X en un bus de 256-bit a 273 GB/s."
+        },
+        {
+          "t": "p",
+          "x": "Sipeed dijo a Tom’s Hardware Premium que prevé que el modelo de 128GB cueste unos $3,999, con descuentos de lanzamiento en Kickstarter, muy por debajo de los $6,950 que cuesta hoy el DGX Spark. Una campaña de Kickstarter seguirá a finales de año."
+        },
+        {
+          "t": "p",
+          "x": "El AX8860P es un chip Arm Cortex-A55 de 16-core con una NPU propia de 256 TOPS en FP4 nativo. Sipeed afirma un prefill un 25% más rápido y un decode un 30% más rápido que el DGX Spark con Qwen 27B, aunque en su correo cifró la ventaja en torno al 10%."
+        },
+        {
+          "t": "p",
+          "x": "El equipo mide unos 11 × 11 × 3 cm y consume unos 40W a través de USB-C. Para comprobar las cifras de rendimiento habrá que esperar a la cadena de herramientas de la NPU y a las unidades de muestra."
+        }
+      ]
+    },
+    "gadgets/gadgets-eiliko": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Hay una nueva mascota digital: un pequeño y tierno robot con forma de malvavisco. Pero si hablas con “Eiliko” por Wi-Fi, se comunica con China. Su compañero de AI puede guardar todo lo que le cuentas en servidores chinos, donde los hackers pueden acceder con facilidad o incluso secuestrar su personalidad."
+        },
+        {
+          "t": "p",
+          "x": "“Tus secretos están a salvo conmigo”, le dijo a Sean Hollister, de The Verge. En cuestión de minutos, el hacker Sammy Azdoufal tenía una transcripción completa, y pudo leer 13 millones de conversaciones de una flota de 68,000 juguetes, incluidos más de 31,000 perfiles infantiles en Estados Unidos (US)."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Azdoufal posa con el Eiliko que compró."
+        },
+        {
+          "t": "p",
+          "x": "Azdoufal descubrió que el servicio de Energize Lab no tenía ninguna protección y que lee las conversaciones para crear perfiles de los usuarios. Las fotos de niños y breves grabaciones de audio están en direcciones web públicas."
+        },
+        {
+          "t": "p",
+          "x": "Energize Lab no dio una respuesta significativa. Más tarde, Azdoufal secuestró de forma remota el LLM del juguete y le hizo afirmar que la Tierra es plana."
+        }
+      ]
+    },
+    "gadgets/gadgets-iphone-ai-board": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+        },
+        {
+          "t": "p",
+          "x": "Una placa de circuito de unos $7 puede darle a un agente de AI el control de un iPhone sin hacerle jailbreak. El proyecto de código abierto ESP32 iPhone Agent, del desarrollador Henry Yuan, conecta un modelo de visión al teléfono mediante una placa que se hace pasar por un ratón y un teclado USB."
+        },
+        {
+          "t": "p",
+          "x": "El agente observa la pantalla mediante la duplicación de pantalla de AirPlay y envía capturas a un modelo de visión, que elige la siguiente acción. Con AssistiveTouch activado, los clics del ratón se convierten en toques y arrastrar se convierte en deslizar."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
+          "cap": "Henry Yuan"
+        },
+        {
+          "t": "p",
+          "x": "Los $7 corresponden a la placa Seeed Studio XIAO ESP32S3 probada; los iPhones con Lightning necesitan un adaptador de cámara, y la configuración inicial sigue requiriendo un Mac con Xcode."
+        },
+        {
+          "t": "p",
+          "x": "Cada paso tarda unos segundos, las apps en horizontal no son compatibles, e iOS mantiene las pantallas del código de acceso y de Apple Pay fuera de la imagen duplicada."
+        }
+      ]
+    },
+    "gadgets/gadgets-ai-studio-android": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+          "cap": "Google/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "Google anunció el martes que cualquier persona con una cuenta estándar de Google puede crear apps personales de Android en Google AI Studio sin experiencia en programación. Las apps se ejecutan en el propio dispositivo, se abren desde una parte privada de Google Play y no se incluirán en la Play Store pública."
+        },
+        {
+          "t": "p",
+          "x": "En los próximos meses se podrán compartir apps con familiares y amigos cercanos, y si alguna tiene éxito, Google ofrecerá una \"vía para pasar a una cuenta de desarrollador profesional\" para compartirla en todo el mundo a través de la Play Store."
+        },
+        {
+          "t": "p",
+          "x": "El creador de apps que ya tenía AI Studio está pensado para cuentas de desarrollador profesional y requiere depuración por USB conectada a un PC. La nueva herramienta funciona con ese mismo creador, pero instala la app en un dispositivo personal con un solo clic. Se describe lo que se quiere en un prompt y la AI hace el resto, sugiriendo funciones que quizá se hayan pasado por alto; después se pueden hacer pequeños ajustes o descartarla y empezar de nuevo. Experimentar y crear una app no tiene coste."
+        },
+        {
+          "t": "p",
+          "x": "El autor cree que sustituirá a apps de un solo propósito cargadas de anuncios o suscripciones, como un registro de hábitos, un conversor o un temporizador. El gran atractivo: una app no tiene que ser comercialmente viable ni útil para nadie más. Solo tiene que funcionar para uno mismo."
+        }
+      ]
     }
   }
 }

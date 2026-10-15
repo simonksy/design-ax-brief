@@ -6602,6 +6602,123 @@
           "x": "由于模型是零样本且不依赖语言的，无需针对每位演员或每种语言进行训练。模型面向真实的制作素材设计，能应对变化的角度、遮挡、弱光、快速运动和多张面孔。Sync.Productions现已上线。"
         }
       ]
+    },
+    "movies/movies-astralabs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+        },
+        {
+          "t": "p",
+          "x": "Astra Studios与VerSe Innovation在MIPCOM上宣布组建Astra-Spark Alliance，共同开发并推广面向电影、剧集、动画和品牌内容的AI-native制作管线。消息发布之际，Astra同时推出了新的技术IP部门AstraLabs。"
+        },
+        {
+          "t": "p",
+          "x": "该联盟以VerSe的AI内容操作系统SparkStation为基础，覆盖从创意构思、剧本写作到分镜、素材生成、剪辑、渲染和发行的整个制作流程。其连续性引擎在整部作品中锁定人脸、表情、服装、场景和道具，并支持60多种语言。"
+        },
+        {
+          "t": "p",
+          "x": "AstraLabs负责制作端，由艺术家主导每个环节。两家公司表示，这一模式可将制作成本降低\"最多75%\"，并把制作周期从数月缩短到数周。"
+        },
+        {
+          "t": "p",
+          "x": "Astra Studios创始人兼CEO Biren Ghose表示：\"Astra-Spark联盟把电影工艺放进了AI制作的架构之中。\""
+        }
+      ]
+    },
+    "movies/movies-celebrity-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "名人的AI照片和视频正在社交媒体上收获数百万次观看。一个拥有逾百万粉丝的认证粉丝账号发布了一张演员Mia Goth的AI-generated Instagram图片，获得近500,000个赞，并在Instagram删除该账号之前经由八卦网站和Google的AI概览广泛传播。"
+        },
+        {
+          "t": "p",
+          "x": "一些账号发布Scarlett Johansson等明星的色情化AI图片，Taylor Swift的AI视频也获得数百万次观看。The Verge就八个账号询问后，Meta表示已删除其中一部分。"
+        },
+        {
+          "t": "p",
+          "x": "YouTube的肖像检测功能允许用户申请下架；2026年上半年，通过该计划举报的视频中有超过95%被移除。"
+        },
+        {
+          "t": "p",
+          "x": "在Meta平台上，静态图片不受AI标注要求约束，因此按照Meta的规定，这张假Goth图片无需披露。"
+        }
+      ]
+    },
+    "movies/movies-artificial-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Luca Guadagnino执导的《Artificial》讲述人工智能之恶与Sam Altman，在New York Film Festival首映，并在London Film Festival赢得雷鸣般的掌声。该片在Rotten Tomatoes上获得96% Fresh评分，为Guadagnino职业生涯最高。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon MGM在6月将该片撤出夏季片单，称其“由另一家制片公司发行会更好”；随后Neon以全球版权协议接手了这部影片。媒体指出，此举发生在Amazon与OpenAI签署包含500亿美元（$50 billion）投资的合作协议三个月之后。一位竞争对手制片公司高管对Variety表示，称该片无法上映的制片公司“因自身在AI上的投资而存在利益冲突”。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon与创作者之间的AI矛盾不止于此：Nicolas Cage表示，他在《Spider-Noir》中拒绝签署AI肖像授权豁免书；一位参与Amazon MGM剧集的创作者描述了强制性的AI培训。一位直接了解Amazon流程的消息人士称，此类会议并非强制。"
+        }
+      ]
+    },
+    "movies/movies-view-execs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在意大利View Conference上，来自Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio和Cinesite的高管讨论了生成式AI、不断演变的制作管线和就业问题。他们大多将AI视为更广泛变革的一部分，而非立即取代既有方法的工具。"
+        },
+        {
+          "t": "p",
+          "x": "The Yard的Laurens Ehrmann说：“我们常说AI可以压缩执行时间，但它无法压缩品味。”ILM的Janet Lewin提醒人们警惕“关于AI和机器学习是灵丹妙药的谬误”。Cinesite的Shawn Walsh表示，“在可预见的未来”仍需要VFX艺术家“来管理这一转型”。"
+        },
+        {
+          "t": "p",
+          "x": "被问及如何保障艺术家的生计时，Imageworks的Michelle Grady说：“没有艺术家就没有我们，就这么简单。”Lewin指出，母公司会做出工作室无法掌控的决定。对于如何保护就业，小组几乎没有给出具体方案。"
+        }
+      ]
+    },
+    "movies/movies-midjourney": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/03/MCDJOKE_WB023-e1791820014323.jpg?w=1024",
+          "cap": "Midjourney生成的The Joker滥用药物场景图像"
+        },
+        {
+          "t": "p",
+          "x": "Disney与NBCUniversal（NBCU）去年在诉讼中指控Midjourney是“无底的抄袭深坑”。18个多月过去了，据称该公司仍未改正。"
+        },
+        {
+          "t": "p",
+          "x": "专门对生成式AI工具做版权侵权压力测试的初创公司VN.ai，考察了15款热门AI模型在侵犯片厂IP方面的表现。结果显示，Midjourney v8.1在复制受版权保护角色方面问题最严重，在“品牌安全违规”（把角色置于暴力或吸毒等有害情境）方面也居首，每三次提示就出现一次，比例达37%。一个例子是：身穿Elsa-style裙装的The Joker在吸大麻。"
+        },
+        {
+          "t": "p",
+          "x": "Midjourney未回应置评请求。Disney/NBCUniversal的诉讼仍在进行，Warner Bros Discovery也已提起诉讼；Midjourney辩称用受版权保护的图像训练属于合理使用。"
+        },
+        {
+          "t": "p",
+          "x": "即使提示中没有角色名字，每个模型都至少生成过一个受保护角色，包括Google的Nano Banana和ByteDance的Seedance 2.5，不过后者在收到停止侵权函（cease-and-desist letters）后有所改善。当提示中使用图像时，MiniMax H3有55%的情况违反品牌安全标准。"
+        },
+        {
+          "t": "p",
+          "x": "VN.ai创始人Nelson Chu表示，无视版权“对生意有好处……是很棒的营销”，但他预测，随着更多模型树立良好先例，情况将会改变。"
+        }
+      ]
     }
   }
 }

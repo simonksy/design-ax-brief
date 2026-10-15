@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-meta-gem",
+      "id": "marketing-meta-product-browsing",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Meta, GEM 통합\n전환율 18.9% 상승",
-      "body": "Meta는 광고 예측을 GEM 하나로 묶어 전환율이 18.9% 올랐다고 밝혔다.",
-      "mini_headline": "Meta GEM, 전환율 18.9% 상승",
       "tool": "Marketing",
+      "eyebrow": "AI NEWS",
+      "headline": "Meta 10월 28일부터\n기존 광고 상품 탐색 켠다",
+      "body": "Meta가 전환 3%를 근거로 Facebook·Instagram AI 탐색을 켠다.",
+      "mini_headline": "Meta, 상품 탐색 기본 적용",
       "source": "PPC Land",
-      "url": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
+      "url": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,173 +19,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+            "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+            "cap": "Meta는 10월 28일부터 집행 중인 광고에 상품 탐색을 켠다. 전환 3% 증가가 근거이고, 옵트아웃도 된다"
           },
           {
             "t": "p",
-            "x": "Meta가 2026년 세대 Generative Ads Model, 곧 GEM의 기술 설명을 내놨다. 광고 지면과 목표를 가리지 않고 전환율은 18.9%, 클릭률은 12% 좋아졌다고 한다. Facebook, Instagram, Reels에 따로 있던 예측 시스템은 중앙 파운데이션 모델 하나로 바뀌었다. 이 모델의 출력은 실시간으로 광고를 내보내는 소형 모델 수백 개로 넘어간다."
+            "x": "Meta는 2026년 10월 28일부터 Facebook과 Instagram에서 이미 집행 중인 광고에 상품 탐색 기능을 붙인다고 광고주들에게 알렸다. 그 전에 옵트아웃하지 않으면 그대로 적용된다. 사용자가 광고를 누르면 광고주 웹사이트로 곧장 넘어가지 않고 상품 정보와 맞춤 추천을 담은 앱 내 화면을 먼저 보게 된다."
           },
           {
             "t": "p",
-            "x": "게시글은 이 수치를 무엇을 기준으로 어느 기간에 쟀는지, A/B 테스트 결과인지 오프라인 평가 결과인지 밝히지 않는다. 회사가 직접 내놓은 수치이고 독립 감사는 거치지 않았다."
+            "x": "Meta에 따르면 2026년 8월 6–21일 약 117,700개 광고주를 상대로 한 실험에서 기업들의 전환이 평균 3% 늘었다. 다만 공지에는 전환 지표와 비교 집단, 전환당 비용의 정의가 빠져 있다."
           },
           {
             "t": "p",
-            "x": "Meta에 따르면 Interformer 자리는 새 아키텍처 Kunlun이 맡으며 \"같은 연산 확장으로 2x 성능 향상을 낸다.\" LoopFM과 Solaris가 GEM의 지식을 하위 모델로 넘기고, GEM은 \"최신 세대 GPUs 수천 개\"에서 20-25% MFU로 학습한다."
-          },
-          {
-            "t": "p",
-            "x": "Ads Manager에서 광고주가 이 장치를 직접 만질 수는 없다. 효과는 Advantage+와 자동 게재로 드러난다."
+            "x": "광고주는 공지에서 바로 옵트아웃하거나 광고별 Advantage+ Creative 및 Destination 설정에서 기능을 켜고 끌 수 있다. 미디어 바이어 David Herrmann은 이 기능을 크리에이티브를 다이내믹 상품 광고로 바꾸는 AI 기능이라 부르며 연말 쇼핑 시즌 직전이라는 시점을 문제 삼았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta says unified GEM ads model\nlifted conversions 18.9%",
-          "body": "Meta says merging ad prediction for every surface into one GEM model lifted conversions 18.9% and click-through 12%.",
-          "mini_headline": "Meta GEM lifts conversions 18.9%",
+          "headline": "Meta turns on product browsing\nin existing ads on October 28",
+          "body": "Meta will default-enable AI product browsing in running Facebook and Instagram ads, citing a 3% conversion lift.",
+          "mini_headline": "Meta defaults to product browsing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+                "cap": "Meta flips product browsing on in live ads October 28, citing 3% more conversions; opt-out available"
               },
               {
                 "t": "p",
-                "x": "Meta published a technical account of the 2026 generation of its Generative Ads Model, GEM, claiming an 18.9% conversion improvement and a 12% click-through rate improvement across its ad surfaces and objectives. The company replaced separate prediction systems for Facebook, Instagram and Reels with one central foundation model, whose output is moved into the hundreds of smaller models that serve ads in real time."
+                "x": "Meta has notified advertisers that, starting October 28, 2026, it will add product browsing to ads already running on Facebook and Instagram unless they opt out before that date. When people tap an ad, they may see an in-app experience with product info and personalized suggestions instead of going straight to the advertiser's website."
               },
               {
                 "t": "p",
-                "x": "The post does not say what the figures are measured against, over what period, or whether they come from A/B tests or offline evaluation. They are vendor-supplied and not independently audited."
+                "x": "Meta says businesses saw 3% more conversions on average, based on an experiment run August 6–21, 2026 across about 117,700 advertisers. The notice does not define the conversion metric, the comparison group or cost per conversion."
               },
               {
                 "t": "p",
-                "x": "A new architecture, Kunlun, replaces Interformer and \"delivers 2x performance gains with the same computation scaling,\" according to Meta. LoopFM and Solaris pass GEM's knowledge to downstream models, and GEM trains \"on several thousand of the latest-generation GPUs\" at 20-25% MFU."
-              },
-              {
-                "t": "p",
-                "x": "For advertisers, none of these mechanisms has a setting in Ads Manager; their effects arrive through Advantage+ and automated delivery."
+                "x": "Advertisers can opt out via the notice or toggle the feature in each ad's Advantage+ Creative and Destination settings. Media buyer David Herrmann, who called it an AI feature that turns creatives into dynamic product ads, objected to the timing just before the holiday season."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta, GEM 통합\n전환율 18.9% 상승",
-          "body": "Meta는 광고 예측을 GEM 하나로 묶어 전환율이 18.9% 올랐다고 밝혔다.",
-          "mini_headline": "Meta GEM, 전환율 18.9% 상승",
+          "headline": "Meta 10월 28일부터\n기존 광고 상품 탐색 켠다",
+          "body": "Meta가 전환 3%를 근거로 Facebook·Instagram AI 탐색을 켠다.",
+          "mini_headline": "Meta, 상품 탐색 기본 적용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+                "cap": "Meta는 10월 28일부터 집행 중인 광고에 상품 탐색을 켠다. 전환 3% 증가가 근거이고, 옵트아웃도 된다"
               },
               {
                 "t": "p",
-                "x": "Meta가 2026년 세대 Generative Ads Model, 곧 GEM의 기술 설명을 내놨다. 광고 지면과 목표를 가리지 않고 전환율은 18.9%, 클릭률은 12% 좋아졌다고 한다. Facebook, Instagram, Reels에 따로 있던 예측 시스템은 중앙 파운데이션 모델 하나로 바뀌었다. 이 모델의 출력은 실시간으로 광고를 내보내는 소형 모델 수백 개로 넘어간다."
+                "x": "Meta는 2026년 10월 28일부터 Facebook과 Instagram에서 이미 집행 중인 광고에 상품 탐색 기능을 붙인다고 광고주들에게 알렸다. 그 전에 옵트아웃하지 않으면 그대로 적용된다. 사용자가 광고를 누르면 광고주 웹사이트로 곧장 넘어가지 않고 상품 정보와 맞춤 추천을 담은 앱 내 화면을 먼저 보게 된다."
               },
               {
                 "t": "p",
-                "x": "게시글은 이 수치를 무엇을 기준으로 어느 기간에 쟀는지, A/B 테스트 결과인지 오프라인 평가 결과인지 밝히지 않는다. 회사가 직접 내놓은 수치이고 독립 감사는 거치지 않았다."
+                "x": "Meta에 따르면 2026년 8월 6–21일 약 117,700개 광고주를 상대로 한 실험에서 기업들의 전환이 평균 3% 늘었다. 다만 공지에는 전환 지표와 비교 집단, 전환당 비용의 정의가 빠져 있다."
               },
               {
                 "t": "p",
-                "x": "Meta에 따르면 Interformer 자리는 새 아키텍처 Kunlun이 맡으며 \"같은 연산 확장으로 2x 성능 향상을 낸다.\" LoopFM과 Solaris가 GEM의 지식을 하위 모델로 넘기고, GEM은 \"최신 세대 GPUs 수천 개\"에서 20-25% MFU로 학습한다."
-              },
-              {
-                "t": "p",
-                "x": "Ads Manager에서 광고주가 이 장치를 직접 만질 수는 없다. 효과는 Advantage+와 자동 게재로 드러난다."
+                "x": "광고주는 공지에서 바로 옵트아웃하거나 광고별 Advantage+ Creative 및 Destination 설정에서 기능을 켜고 끌 수 있다. 미디어 바이어 David Herrmann은 이 기능을 크리에이티브를 다이내믹 상품 광고로 바꾸는 AI 기능이라 부르며 연말 쇼핑 시즌 직전이라는 시점을 문제 삼았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、GEM統合で\nコンバージョン18.9%増",
-          "body": "Metaは広告予測をGEMに一本化し、コンバージョンが18.9%増えたと発表した。",
-          "mini_headline": "Meta GEMでコンバージョン18.9%増",
+          "headline": "Meta、10月28日から\n既存広告に商品閲覧機能",
+          "body": "Metaは成約3%増を挙げ、Facebook・Instagram広告でAI閲覧を既定にする。",
+          "mini_headline": "Meta、商品閲覧を既定で有効に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+                "cap": "Metaは10月28日、配信中の広告で商品閲覧を有効にする。コンバージョン3%増を根拠とし、オプトアウトも可能"
               },
               {
                 "t": "p",
-                "x": "Metaは生成広告モデル「Generative Ads Model」（GEM）の2026年世代について技術的な説明を公開し、広告面と目的全体でコンバージョンが18.9%、クリック率が12%改善したと主張した。同社はFacebook、Instagram、Reelsごとの予測システムを一つの中核基盤モデルに置き換え、その出力をリアルタイムで広告を配信する数百の小型モデルへ移している。"
+                "x": "Metaは広告主に対し、2026年10月28日からFacebookとInstagramで配信中の広告に商品閲覧機能を追加すると通知した。それまでにオプトアウトしなければ適用される。ユーザーが広告をタップすると、広告主のウェブサイトに直接移動する代わりに、商品情報やパーソナライズされた提案を含むアプリ内画面が表示される場合がある。"
               },
               {
                 "t": "p",
-                "x": "投稿は、数値が何と比べたものか、どの期間のものか、A/Bテストかオフライン評価かを明らかにしていない。数値は企業自身が示したもので、独立した監査は受けていない。"
+                "x": "Metaによると、2026年8月6–21日に約117,700の広告主を対象に実施した実験で、企業のコンバージョンは平均3%増えた。ただし通知は、コンバージョン指標、比較対象群、コンバージョン単価を定義していない。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、新アーキテクチャKunlunがInterformerに代わり、「同じ計算スケーリングで2x の性能向上をもたらす」。LoopFMとSolarisがGEMの知識を下流モデルに渡し、GEMは「最新世代のGPUs 数千基」の上で20-25% MFUで学習する。"
-              },
-              {
-                "t": "p",
-                "x": "広告主がAds Managerでこれらの仕組みを設定する項目はなく、効果はAdvantage+と自動配信を通じて表れる。"
+                "x": "広告主は通知からオプトアウトするか、各広告のAdvantage+ CreativeとDestinationの設定で機能を切り替えられる。メディアバイヤーのDavid Herrmannは、クリエイティブをダイナミック商品広告に変えるAI機能だとしたうえで、ホリデーシーズン直前という時期に異議を唱えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta统一GEM广告模型\n转化率提升18.9%",
-          "body": "Meta称将各广告位的预测并入单一GEM模型后，转化率提升18.9%，点击率提升12%。",
-          "mini_headline": "Meta GEM转化率提升18.9%",
+          "headline": "Meta 10月28日起\n为现有广告开启商品浏览",
+          "body": "Meta称转化提升3%，将为Facebook和Instagram在投广告默认开启AI浏览。",
+          "mini_headline": "Meta默认开启商品浏览",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+                "cap": "Meta将于10月28日在投放中的广告里开启商品浏览，称转化提升3%；可选择退出"
               },
               {
                 "t": "p",
-                "x": "Meta发布了其2026代生成式广告模型（Generative Ads Model，GEM）的技术说明，称在各广告位和投放目标上转化率提升18.9%，点击率提升12%。该公司以一个中央基础模型取代了Facebook、Instagram和Reels各自的预测系统，其输出再被迁移到数百个实时投放广告的小模型中。"
+                "x": "Meta已通知广告主，自2026年10月28日起，除非在此之前选择退出，否则将为Facebook和Instagram上已在投放的广告添加商品浏览功能。用户点击广告后，可能会看到包含商品信息和个性化推荐的应用内页面，而不是直接跳转到广告主网站。"
               },
               {
                 "t": "p",
-                "x": "文章没有说明这些数字以什么为基准、覆盖哪个时段，也没有说明来自A/B测试还是离线评估。数据由厂商自行提供，未经独立审计。"
+                "x": "Meta称，根据2026年8月6–21日针对约117,700家广告主开展的实验，企业转化量平均提升3%。通知并未说明转化指标、对照组或单次转化成本的定义。"
               },
               {
                 "t": "p",
-                "x": "据Meta称，新架构Kunlun取代了Interformer，“在相同的计算扩展下带来2x 的性能提升”。LoopFM和Solaris把GEM的知识传递给下游模型，GEM则“在数千块最新一代GPUs 上”以20-25%的MFU进行训练。"
-              },
-              {
-                "t": "p",
-                "x": "对广告主而言，这些机制在Ads Manager中都没有可调设置，其效果通过Advantage+和自动投放体现。"
+                "x": "广告主可通过通知选择退出，或在每条广告的Advantage+ Creative和Destination设置中开关该功能。媒介采买David Herrmann称其为一项把创意素材变成动态商品广告的AI功能，并对临近假日季的时间点提出异议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta dice que su modelo GEM\nsubió las conversiones 18.9%",
-          "body": "Meta dice que unificar la predicción de anuncios en un solo modelo GEM subió las conversiones 18.9% y los clics 12%.",
-          "mini_headline": "Meta GEM sube las conversiones 18.9%",
+          "headline": "Meta activa el 28 de octubre la\nexploración en anuncios activos",
+          "body": "Meta activará por defecto la exploración con AI en anuncios de Facebook e Instagram y cita un 3% más de conversiones.",
+          "mini_headline": "Meta activa la exploración por defecto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+                "cap": "Meta activa la exploración de productos en anuncios activos el 28 de octubre y cita un 3% más de conversiones; es posible excluirse"
               },
               {
                 "t": "p",
-                "x": "Meta publicó una explicación técnica de la generación 2026 de su Generative Ads Model, GEM, en la que afirma una mejora del 18.9% en conversiones y del 12% en la tasa de clics en sus superficies y objetivos publicitarios. La empresa sustituyó los sistemas de predicción separados de Facebook, Instagram y Reels por un único modelo fundacional central, cuya salida se traslada a los cientos de modelos más pequeños que sirven anuncios en tiempo real."
+                "x": "Meta notificó a los anunciantes que, a partir del 28 de octubre de 2026, añadirá la exploración de productos a los anuncios que ya se publican en Facebook e Instagram, salvo que se excluyan antes de esa fecha. Al tocar un anuncio, los usuarios podrían ver una experiencia dentro de la app con información del producto y sugerencias personalizadas, en lugar de ir directamente al sitio web del anunciante."
               },
               {
                 "t": "p",
-                "x": "La publicación no indica frente a qué se miden las cifras, en qué periodo, ni si proceden de pruebas A/B o de una evaluación offline. Son datos aportados por el propio proveedor y no han sido auditados de forma independiente."
+                "x": "Meta afirma que las empresas registraron de media un 3% más de conversiones, según un experimento realizado del 6–21 de agosto de 2026 con unos 117,700 anunciantes. El aviso no define la métrica de conversión, el grupo de comparación ni el coste por conversión."
               },
               {
                 "t": "p",
-                "x": "Una nueva arquitectura, Kunlun, sustituye a Interformer y \"ofrece 2x de rendimiento con el mismo escalado de cómputo\", según Meta. LoopFM y Solaris trasladan el conocimiento de GEM a modelos posteriores, y GEM se entrena \"en varios miles de GPUs de última generación\" con un 20-25% de MFU."
-              },
-              {
-                "t": "p",
-                "x": "Para los anunciantes, ninguno de estos mecanismos tiene un ajuste en Ads Manager; sus efectos llegan a través de Advantage+ y la entrega automatizada."
+                "x": "Los anunciantes pueden excluirse desde el aviso o activar y desactivar la función en la configuración Advantage+ Creative y Destination de cada anuncio. El comprador de medios David Herrmann, que la describió como una función de AI que convierte las creatividades en anuncios dinámicos de producto, criticó que llegue justo antes de la temporada de fiestas."
               }
             ]
           }
@@ -193,121 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta, GEM 통합\n전환율 18.9% 상승",
-          "body": "Meta는 광고 예측을 GEM으로 통합해 전환율이 18.9% 올랐다고 밝혔다.",
-          "mini_headline": "Meta GEM, 전환율 18.9% 상승",
+          "headline": "Meta 10월 28일부터\n기존 광고 상품 탐색 켠다",
+          "body": "Meta는 전환 3%를 들어 Facebook·Instagram AI 탐색을 켠다.",
+          "mini_headline": "Meta, 상품 탐색 기본 적용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+                "cap": "Meta는 10월 28일 집행 중인 광고에 상품 탐색을 켠다. 전환 3% 증가를 근거로 들며, 옵트아웃할 수 있다"
               },
               {
                 "t": "p",
-                "x": "Meta가 2026년 세대 Generative Ads Model, 즉 GEM에 관한 기술 설명을 공개했다. 광고 지면과 목표 전반에서 전환율이 18.9%, 클릭률이 12% 개선됐다는 주장이다. 회사는 Facebook, Instagram, Reels에 따로 있던 예측 시스템을 하나의 중앙 파운데이션 모델로 바꿨고, 그 출력은 실시간으로 광고를 내보내는 수백 개의 소형 모델로 옮겨진다."
+                "x": "Meta는 2026년 10월 28일부터 Facebook과 Instagram에서 이미 집행 중인 광고에 상품 탐색 기능을 추가한다고 광고주들에게 알렸다. 그 전에 옵트아웃하지 않으면 적용된다. 사용자가 광고를 누르면 광고주 웹사이트로 바로 이동하는 대신 상품 정보와 맞춤 추천이 담긴 앱 내 화면을 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "게시글은 이 수치가 무엇을 기준으로, 어느 기간에 측정됐는지, A/B 테스트에서 나왔는지 오프라인 평가에서 나왔는지 밝히지 않는다. 수치는 회사가 직접 제시한 것이며 독립적인 감사를 거치지 않았다."
+                "x": "Meta는 2026년 8월 6–21일 약 117,700개 광고주를 대상으로 한 실험에서 기업들의 전환이 평균 3% 늘었다고 밝혔다. 다만 공지는 전환 지표와 비교 집단, 전환당 비용을 정의하지 않았다."
               },
               {
                 "t": "p",
-                "x": "Meta에 따르면 새 아키텍처 Kunlun이 Interformer를 대체하며 \"같은 연산 확장으로 2x 성능 향상을 낸다.\" LoopFM과 Solaris는 GEM의 지식을 하위 모델로 전달하고, GEM은 \"최신 세대 GPUs 수천 개\"에서 20-25% MFU로 학습한다."
-              },
-              {
-                "t": "p",
-                "x": "광고주가 Ads Manager에서 이 장치들을 직접 설정할 수는 없다. 효과는 Advantage+와 자동 게재를 통해 나타난다."
+                "x": "광고주는 공지를 통해 옵트아웃하거나, 광고별 Advantage+ Creative 및 Destination 설정에서 기능을 켜고 끌 수 있다. 미디어 바이어 David Herrmann은 이를 크리에이티브를 다이내믹 상품 광고로 바꾸는 AI 기능이라 부르며, 연말 쇼핑 시즌 직전이라는 시점에 이의를 제기했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、GEM統合で\nコンバージョン18.9%増",
-          "body": "Metaは広告予測をGEMに一本化し、コンバージョンが18.9%増えたと発表した。",
-          "mini_headline": "Meta GEMでコンバージョン18.9%増",
+          "headline": "Meta、10月28日から\n既存広告に商品閲覧機能",
+          "body": "Metaは成約3%増を挙げ、Facebook・Instagram広告でAI閲覧を既定にする。",
+          "mini_headline": "Meta、商品閲覧を既定で有効に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+                "cap": "Metaは10月28日、配信中の広告で商品閲覧を有効にする。コンバージョン3%増を根拠とし、オプトアウトも可能"
               },
               {
                 "t": "p",
-                "x": "Metaは生成広告モデル「Generative Ads Model」（GEM）の2026年世代について技術的な説明を公開し、広告面と目的全体でコンバージョンが18.9%、クリック率が12%改善したと主張した。同社はFacebook、Instagram、Reelsごとの予測システムを一つの中核基盤モデルに置き換え、その出力をリアルタイムで広告を配信する数百の小型モデルへ移している。"
+                "x": "Metaは広告主に対し、2026年10月28日からFacebookとInstagramで配信中の広告に商品閲覧機能を追加すると通知した。それまでにオプトアウトしなければ適用される。ユーザーが広告をタップすると、広告主のウェブサイトに直接移動する代わりに、商品情報やパーソナライズされた提案を含むアプリ内画面が表示される場合がある。"
               },
               {
                 "t": "p",
-                "x": "投稿は、数値が何と比べたものか、どの期間のものか、A/Bテストかオフライン評価かを明らかにしていない。数値は企業自身が示したもので、独立した監査は受けていない。"
+                "x": "Metaによると、2026年8月6–21日に約117,700の広告主を対象に実施した実験で、企業のコンバージョンは平均3%増えた。ただし通知は、コンバージョン指標、比較対象群、コンバージョン単価を定義していない。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、新アーキテクチャKunlunがInterformerに代わり、「同じ計算スケーリングで2x の性能向上をもたらす」。LoopFMとSolarisがGEMの知識を下流モデルに渡し、GEMは「最新世代のGPUs 数千基」の上で20-25% MFUで学習する。"
-              },
-              {
-                "t": "p",
-                "x": "広告主がAds Managerでこれらの仕組みを設定する項目はなく、効果はAdvantage+と自動配信を通じて表れる。"
+                "x": "広告主は通知からオプトアウトするか、各広告のAdvantage+ CreativeとDestinationの設定で機能を切り替えられる。メディアバイヤーのDavid Herrmannは、クリエイティブをダイナミック商品広告に変えるAI機能だとしたうえで、ホリデーシーズン直前という時期に異議を唱えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta统一GEM广告模型\n转化率提升18.9%",
-          "body": "Meta称将各广告位的预测并入单一GEM模型后，转化率提升18.9%，点击率提升12%。",
-          "mini_headline": "Meta GEM转化率提升18.9%",
+          "headline": "Meta 10月28日起\n为现有广告开启商品浏览",
+          "body": "Meta称转化提升3%，将为Facebook和Instagram在投广告默认开启AI浏览。",
+          "mini_headline": "Meta默认开启商品浏览",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+                "cap": "Meta将于10月28日在投放中的广告里开启商品浏览，称转化提升3%；可选择退出"
               },
               {
                 "t": "p",
-                "x": "Meta发布了其2026代生成式广告模型（Generative Ads Model，GEM）的技术说明，称在各广告位和投放目标上转化率提升18.9%，点击率提升12%。该公司以一个中央基础模型取代了Facebook、Instagram和Reels各自的预测系统，其输出再被迁移到数百个实时投放广告的小模型中。"
+                "x": "Meta已通知广告主，自2026年10月28日起，除非在此之前选择退出，否则将为Facebook和Instagram上已在投放的广告添加商品浏览功能。用户点击广告后，可能会看到包含商品信息和个性化推荐的应用内页面，而不是直接跳转到广告主网站。"
               },
               {
                 "t": "p",
-                "x": "文章没有说明这些数字以什么为基准、覆盖哪个时段，也没有说明来自A/B测试还是离线评估。数据由厂商自行提供，未经独立审计。"
+                "x": "Meta称，根据2026年8月6–21日针对约117,700家广告主开展的实验，企业转化量平均提升3%。通知并未说明转化指标、对照组或单次转化成本的定义。"
               },
               {
                 "t": "p",
-                "x": "据Meta称，新架构Kunlun取代了Interformer，“在相同的计算扩展下带来2x 的性能提升”。LoopFM和Solaris把GEM的知识传递给下游模型，GEM则“在数千块最新一代GPUs 上”以20-25%的MFU进行训练。"
-              },
-              {
-                "t": "p",
-                "x": "对广告主而言，这些机制在Ads Manager中都没有可调设置，其效果通过Advantage+和自动投放体现。"
+                "x": "广告主可通过通知选择退出，或在每条广告的Advantage+ Creative和Destination设置中开关该功能。媒介采买David Herrmann称其为一项把创意素材变成动态商品广告的AI功能，并对临近假日季的时间点提出异议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta dice que su modelo GEM\nsubió las conversiones 18.9%",
-          "body": "Meta dice que unificar la predicción de anuncios en un solo modelo GEM subió las conversiones 18.9% y los clics 12%.",
-          "mini_headline": "Meta GEM sube las conversiones 18.9%",
+          "headline": "Meta activa el 28 de octubre la\nexploración en anuncios activos",
+          "body": "Meta activará por defecto la exploración con AI en anuncios de Facebook e Instagram y cita un 3% más de conversiones.",
+          "mini_headline": "Meta activa la exploración por defecto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/meta-gem-ads-model-18-9-percent-conversions-single-slide-projector.jpg"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+                "cap": "Meta activa la exploración de productos en anuncios activos el 28 de octubre y cita un 3% más de conversiones; es posible excluirse"
               },
               {
                 "t": "p",
-                "x": "Meta publicó una explicación técnica de la generación 2026 de su Generative Ads Model, GEM, en la que afirma una mejora del 18.9% en conversiones y del 12% en la tasa de clics en sus superficies y objetivos publicitarios. La empresa sustituyó los sistemas de predicción separados de Facebook, Instagram y Reels por un único modelo fundacional central, cuya salida se traslada a los cientos de modelos más pequeños que sirven anuncios en tiempo real."
+                "x": "Meta notificó a los anunciantes que, a partir del 28 de octubre de 2026, añadirá la exploración de productos a los anuncios que ya se publican en Facebook e Instagram, salvo que se excluyan antes de esa fecha. Al tocar un anuncio, los usuarios podrían ver una experiencia dentro de la app con información del producto y sugerencias personalizadas, en lugar de ir directamente al sitio web del anunciante."
               },
               {
                 "t": "p",
-                "x": "La publicación no indica frente a qué se miden las cifras, en qué periodo, ni si proceden de pruebas A/B o de una evaluación offline. Son datos aportados por el propio proveedor y no han sido auditados de forma independiente."
+                "x": "Meta afirma que las empresas registraron de media un 3% más de conversiones, según un experimento realizado del 6–21 de agosto de 2026 con unos 117,700 anunciantes. El aviso no define la métrica de conversión, el grupo de comparación ni el coste por conversión."
               },
               {
                 "t": "p",
-                "x": "Una nueva arquitectura, Kunlun, sustituye a Interformer y \"ofrece 2x de rendimiento con el mismo escalado de cómputo\", según Meta. LoopFM y Solaris trasladan el conocimiento de GEM a modelos posteriores, y GEM se entrena \"en varios miles de GPUs de última generación\" con un 20-25% de MFU."
-              },
-              {
-                "t": "p",
-                "x": "Para los anunciantes, ninguno de estos mecanismos tiene un ajuste en Ads Manager; sus efectos llegan a través de Advantage+ y la entrega automatizada."
+                "x": "Los anunciantes pueden excluirse desde el aviso o activar y desactivar la función en la configuración Advantage+ Creative y Destination de cada anuncio. El comprador de medios David Herrmann, que la describió como una función de AI que convierte las creatividades en anuncios dinámicos de producto, criticó que llegue justo antes de la temporada de fiestas."
               }
             ]
           }
@@ -315,165 +285,165 @@
       }
     },
     {
-      "id": "marketing-lg-magnite",
+      "id": "marketing-google-universal-cart",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "LG 홈 화면 광고\n에이전틱 AI 구매 개방",
-      "body": "이제 대행사가 LG 스마트 TV 홈 화면 광고를 에이전틱 AI로 사들인다.",
-      "mini_headline": "LG TV 광고, 에이전틱 구매 연다",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
+      "eyebrow": "AI NEWS",
+      "headline": "Universal Cart\nGoogle이 US에 출시",
+      "body": "Google Universal Cart가 U.S. Search·Gemini에 왔다.",
+      "mini_headline": "Google Universal Cart, US 출시",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+            "t": "video",
+            "yt": "xMDZus5hxYI"
           },
           {
             "t": "p",
-            "x": "Magnite와 LG Ad Solutions가 LG 스마트 TV 홈 화면 인벤토리를 에이전틱 AI 미디어 구매로 대행사에 연다고 발표했다. 첫 캠페인은 독립 대행사 H/L과 Northern California Toyota Dealers Association이 함께하고, 49ers 쿼터백 Brock Purdy가 분할 화면 히어로 지면에 나온다."
+            "x": "Google은 Search와 Gemini 앱에서 찾은 상품을 한데 모아 지켜보는 도구 Universal Cart를 이제 U.S. 사용자에게 내놓는다고 밝혔다. 5월 Google I/O에서 처음 공개한 기능이다."
           },
           {
             "t": "p",
-            "x": "H/L의 구매 에이전트는 ClearLine 안에서 Model Context Protocol(MCP)로 Magnite의 판매 에이전트와 손을 맞췄다. 에이전트들이 새 차를 알아보는 NFL 시청자를 겨냥해 캠페인 브리프를 짜고 활성화했다. 에이전트가 세운 계획은 집행 전에 LG와 H/L의 승인을 거쳤다."
+            "x": "장바구니에는 여러 소매업체의 상품을 함께 담을 수 있다. 저장한 상품의 가격이 내려가거나 품절 상품이 다시 들어오면 알림이 온다. 신용카드 혜택을 반영하고 관련 프로모션 코드도 보여준다는 게 Google의 설명이다."
           },
           {
             "t": "p",
-            "x": "H/L의 VP Jeremy Cobb는 홈 화면 광고가 \"기본 조건\"이 됐다고 했다. 에이전틱 구매가 \"우리가 하는 일을 근본적으로 바꿀 것은 아니다\"라면서도, 캠페인 기획은 더 낫고 빠르고 강해질 것으로 내다봤다."
+            "x": "결제는 Google의 Universal Commerce Protocol(UCP)과 이어진다. UCP는 AI 에이전트와 소매업체가 쇼핑 전 과정에서 함께 움직이도록 만든 개방형 표준이다. Amazon, OpenAI 등 경쟁사들도 에이전트 커머스 기능을 더했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LG home screen ads open\nto agentic AI buying",
-          "body": "Magnite and LG Ad Solutions opened LG smart TV home screen inventory to agencies buying media with agentic AI.",
-          "mini_headline": "LG TV ads go agentic",
+          "headline": "Google's Universal Cart\nlaunches in the US",
+          "body": "Google's Universal Cart now saves items from multiple retailers in U.S. Search and Gemini, with price-drop alerts.",
+          "mini_headline": "Google Universal Cart hits US",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+                "t": "video",
+                "yt": "xMDZus5hxYI"
               },
               {
                 "t": "p",
-                "x": "Magnite and LG Ad Solutions announced LG smart TV home screen inventory will be available to agencies through agentic AI media buying. Northern California Toyota Dealers Association is part of the first campaign, with indie agency H/L, featuring 49ers quarterback Brock Purdy in a split-screen hero placement."
+                "x": "Google said Universal Cart, a tool that lets users collect and monitor products they find across Search and in the Gemini app, is now available to U.S. users. It was first previewed at Google I/O in May."
               },
               {
                 "t": "p",
-                "x": "H/L's buyer agent collaborated with Magnite's seller agent within ClearLine via Model Context Protocol (MCP). The agents set up and activated the campaign brief for NFL viewers in market for a new car, and the agent-led plan was approved by LG and H/L before it went live."
+                "x": "The cart can collect items from multiple retailers and send notifications when a saved product's price drops or an out-of-stock item is back. Google says it can also factor in credit card perks and surface relevant promo codes."
               },
               {
                 "t": "p",
-                "x": "Home screen ads have become \"table stakes,\" said Jeremy Cobb, VP at H/L. Agentic buying \"is not something that's going to fundamentally change what we're doing,\" he said, but he expects it to make campaign planning better, faster and stronger."
+                "x": "Checkout is tied to Google's Universal Commerce Protocol (UCP), an open standard designed to help AI agents and retailers work together across the shopping journey. Amazon, OpenAI and other rivals have added agentic commerce features too."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LG 홈 화면 광고\n에이전틱 AI 구매 개방",
-          "body": "이제 대행사가 LG 스마트 TV 홈 화면 광고를 에이전틱 AI로 사들인다.",
-          "mini_headline": "LG TV 광고, 에이전틱 구매 연다",
+          "headline": "Universal Cart\nGoogle이 US에 출시",
+          "body": "Google Universal Cart가 U.S. Search·Gemini에 왔다.",
+          "mini_headline": "Google Universal Cart, US 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+                "t": "video",
+                "yt": "xMDZus5hxYI"
               },
               {
                 "t": "p",
-                "x": "Magnite와 LG Ad Solutions가 LG 스마트 TV 홈 화면 인벤토리를 에이전틱 AI 미디어 구매로 대행사에 연다고 발표했다. 첫 캠페인은 독립 대행사 H/L과 Northern California Toyota Dealers Association이 함께하고, 49ers 쿼터백 Brock Purdy가 분할 화면 히어로 지면에 나온다."
+                "x": "Google은 Search와 Gemini 앱에서 찾은 상품을 한데 모아 지켜보는 도구 Universal Cart를 이제 U.S. 사용자에게 내놓는다고 밝혔다. 5월 Google I/O에서 처음 공개한 기능이다."
               },
               {
                 "t": "p",
-                "x": "H/L의 구매 에이전트는 ClearLine 안에서 Model Context Protocol(MCP)로 Magnite의 판매 에이전트와 손을 맞췄다. 에이전트들이 새 차를 알아보는 NFL 시청자를 겨냥해 캠페인 브리프를 짜고 활성화했다. 에이전트가 세운 계획은 집행 전에 LG와 H/L의 승인을 거쳤다."
+                "x": "장바구니에는 여러 소매업체의 상품을 함께 담을 수 있다. 저장한 상품의 가격이 내려가거나 품절 상품이 다시 들어오면 알림이 온다. 신용카드 혜택을 반영하고 관련 프로모션 코드도 보여준다는 게 Google의 설명이다."
               },
               {
                 "t": "p",
-                "x": "H/L의 VP Jeremy Cobb는 홈 화면 광고가 \"기본 조건\"이 됐다고 했다. 에이전틱 구매가 \"우리가 하는 일을 근본적으로 바꿀 것은 아니다\"라면서도, 캠페인 기획은 더 낫고 빠르고 강해질 것으로 내다봤다."
+                "x": "결제는 Google의 Universal Commerce Protocol(UCP)과 이어진다. UCP는 AI 에이전트와 소매업체가 쇼핑 전 과정에서 함께 움직이도록 만든 개방형 표준이다. Amazon, OpenAI 등 경쟁사들도 에이전트 커머스 기능을 더했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LGのホーム画面広告\nエージェント型AIに開放",
-          "body": "代理店がLGスマートTVのホーム画面広告をエージェント型AIで買えるようになった。",
-          "mini_headline": "LG TV広告がエージェント型購買に",
+          "headline": "Universal Cart\nGoogleがUSで提供開始",
+          "body": "Google Universal CartがU.S.でSearch・Geminiに登場した。",
+          "mini_headline": "Google Universal Cart、US上陸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+                "t": "video",
+                "yt": "xMDZus5hxYI"
               },
               {
                 "t": "p",
-                "x": "MagniteとLG Ad Solutionsは、LGスマートTVのホーム画面インベントリを、エージェント型AIによるメディア購買を通じて代理店に提供すると発表した。最初のキャンペーンには独立系代理店H/LとともにNorthern California Toyota Dealers Associationが参加し、49ers のクォーターバックBrock Purdyが分割画面のヒーロー枠に登場する。"
+                "x": "Googleは、SearchやGeminiアプリで見つけた商品をまとめて追跡できるツールUniversal Cartを、U.S.のユーザー向けに提供開始したと発表した。5月のGoogle I/Oで初めて披露されていた。"
               },
               {
                 "t": "p",
-                "x": "H/Lの購買エージェントは、ClearLine内でModel Context Protocol（MCP）を介してMagniteの販売エージェントと連携した。エージェントは新車購入を検討するNFL視聴者向けのキャンペーンブリーフを設定・稼働させ、エージェント主導の計画は配信前にLGとH/Lが承認した。"
+                "x": "カートには複数の小売業者の商品を入れられ、保存した商品の値下がりや品切れ商品の再入荷を通知する。Googleによると、クレジットカードの特典も考慮し、関連するプロモーションコードも表示できる。"
               },
               {
                 "t": "p",
-                "x": "H/LのVPであるJeremy Cobbは、ホーム画面広告は「必須条件」になったと語った。エージェント型購買は「私たちのやっていることを根本的に変えるものではない」としつつ、キャンペーン計画をより良く、速く、強くすると期待している。"
+                "x": "決済はGoogleのUniversal Commerce Protocol(UCP)と連動する。UCPは、AIエージェントと小売業者が買い物の全工程で連携できるよう設計されたオープン標準だ。Amazon、OpenAIなど競合各社もエージェント型コマース機能を追加している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LG主屏广告\n开放给智能体AI购买",
-          "body": "Magnite与LG Ad Solutions让代理商可用智能体AI购买LG电视主屏广告。",
-          "mini_headline": "LG电视广告走向智能体购买",
+          "headline": "Universal Cart\nGoogle在US上线",
+          "body": "Google Universal Cart已登陆U.S. Search和Gemini。",
+          "mini_headline": "Google Universal Cart登陆US",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+                "t": "video",
+                "yt": "xMDZus5hxYI"
               },
               {
                 "t": "p",
-                "x": "Magnite与LG Ad Solutions宣布，代理商可通过智能体AI媒体购买获取LG智能电视主屏广告资源。首个活动由Northern California Toyota Dealers Association与独立代理商H/L合作推出，49ers 四分卫Brock Purdy出现在分屏主视觉广告位中。"
+                "x": "Google表示，Universal Cart现已向U.S.用户开放。这款工具可让用户收集并追踪在Search和Gemini应用中找到的商品，最早于5月的Google I/O上预览。"
               },
               {
                 "t": "p",
-                "x": "H/L的买方智能体通过Model Context Protocol（MCP）在ClearLine内与Magnite的卖方智能体协作。智能体为有意购买新车的NFL观众设置并启动了活动简报，这一由智能体主导的方案在上线前获得了LG和H/L的批准。"
+                "x": "购物车可汇集多家零售商的商品，并在已保存商品降价或缺货商品补货时发送通知。Google称，它还能考虑信用卡优惠，并显示相关促销码。"
               },
               {
                 "t": "p",
-                "x": "H/L副总裁（VP）Jeremy Cobb表示，主屏广告已成为“基本门槛”。他说，智能体购买“不会从根本上改变我们正在做的事”，但他预计这会让活动规划更好、更快、更强。"
+                "x": "结账环节与Google的Universal Commerce Protocol (UCP)相连，这是一项开放标准，旨在帮助AI智能体与零售商在整个购物流程中协同工作。Amazon、OpenAI等竞争对手也已加入代理式购物功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios de inicio de LG,\nabiertos a la compra con AI",
-          "body": "Magnite y LG Ad Solutions abren la pantalla de inicio de las smart TV de LG a agencias que compran con AI agéntica.",
-          "mini_headline": "Anuncios de LG TV, a la compra agéntica",
+          "headline": "Google lanza Universal Cart\nen Estados Unidos (US)",
+          "body": "Universal Cart de Google ya reúne artículos de varias tiendas en Search y Gemini en U.S. y avisa de rebajas.",
+          "mini_headline": "Google Universal Cart llega a US",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+                "t": "video",
+                "yt": "xMDZus5hxYI"
               },
               {
                 "t": "p",
-                "x": "Magnite y LG Ad Solutions anunciaron que el inventario de la pantalla de inicio de las smart TV de LG estará disponible para las agencias mediante la compra de medios con AI agéntica. Northern California Toyota Dealers Association participa en la primera campaña, junto con la agencia independiente H/L, protagonizada por el quarterback de los 49ers Brock Purdy en una ubicación destacada a pantalla dividida."
+                "x": "Google anunció que Universal Cart, una herramienta que permite reunir y seguir los productos encontrados en Search y en la app de Gemini, ya está disponible para usuarios de U.S. Se presentó por primera vez en Google I/O en mayo."
               },
               {
                 "t": "p",
-                "x": "El agente comprador de H/L colaboró con el agente vendedor de Magnite dentro de ClearLine mediante Model Context Protocol (MCP). Los agentes configuraron y activaron el brief de la campaña dirigida a espectadores de la NFL que buscan un vehículo nuevo, y LG y H/L aprobaron el plan dirigido por los agentes antes de su lanzamiento."
+                "x": "El carrito puede reunir artículos de varios minoristas y envía notificaciones cuando baja el precio de un producto guardado o vuelve a estar disponible un artículo agotado. Según Google, también puede tener en cuenta las ventajas de las tarjetas de crédito y mostrar códigos promocionales relevantes."
               },
               {
                 "t": "p",
-                "x": "Los anuncios en la pantalla de inicio se han vuelto \"lo mínimo indispensable\", dijo Jeremy Cobb, VP de H/L. La compra agéntica \"no es algo que vaya a cambiar de fondo lo que hacemos\", afirmó, aunque espera que haga la planificación de campañas mejor, más rápida y más sólida."
+                "x": "El pago está vinculado al Universal Commerce Protocol (UCP) de Google, un estándar abierto diseñado para que los agentes de AI y los minoristas colaboren a lo largo de todo el proceso de compra. Amazon, OpenAI y otros rivales también han añadido funciones de comercio agéntico."
               }
             ]
           }
@@ -481,105 +451,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LG 홈 화면 광고\n에이전틱 AI 구매 개방",
-          "body": "대행사가 LG 스마트 TV 홈 화면 광고를 에이전틱 AI로 살 수 있게 됐다.",
-          "mini_headline": "LG TV 광고, 에이전틱 구매로",
+          "headline": "Universal Cart\nGoogle이 US에 출시",
+          "body": "Google Universal Cart가 U.S. Search·Gemini에 왔다.",
+          "mini_headline": "Google Universal Cart, US 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+                "t": "video",
+                "yt": "xMDZus5hxYI"
               },
               {
                 "t": "p",
-                "x": "Magnite와 LG Ad Solutions는 LG 스마트 TV 홈 화면 인벤토리를 에이전틱 AI 미디어 구매를 통해 대행사에 제공한다고 발표했다. 첫 캠페인에는 독립 대행사 H/L과 함께 Northern California Toyota Dealers Association이 참여하며, 49ers 쿼터백 Brock Purdy가 분할 화면 히어로 지면에 등장한다."
+                "x": "Google은 Search와 Gemini 앱에서 찾은 상품을 모아 두고 지켜볼 수 있는 도구 Universal Cart를 이제 U.S. 사용자에게 제공한다고 밝혔다. 이 기능은 5월 Google I/O에서 처음 공개됐다."
               },
               {
                 "t": "p",
-                "x": "H/L의 구매 에이전트는 ClearLine 안에서 Model Context Protocol(MCP)로 Magnite의 판매 에이전트와 협업했다. 에이전트들은 새 차를 알아보는 NFL 시청자를 겨냥한 캠페인 브리프를 설정하고 활성화했으며, 에이전트가 주도한 계획은 집행 전에 LG와 H/L의 승인을 받았다."
+                "x": "장바구니에는 여러 소매업체의 상품을 담을 수 있고, 저장한 상품의 가격이 내려가거나 품절 상품이 재입고되면 알림을 보낸다. Google은 신용카드 혜택을 반영하고 관련 프로모션 코드도 보여줄 수 있다고 설명했다."
               },
               {
                 "t": "p",
-                "x": "H/L의 VP Jeremy Cobb는 홈 화면 광고가 \"기본 조건\"이 됐다고 말했다. 그는 에이전틱 구매가 \"우리가 하는 일을 근본적으로 바꿀 것은 아니다\"라면서도, 캠페인 기획을 더 낫고 빠르고 강하게 만들 것으로 기대했다."
+                "x": "결제는 Google의 Universal Commerce Protocol(UCP)과 연결된다. UCP는 AI 에이전트와 소매업체가 쇼핑 전 과정에서 함께 작동하도록 설계한 개방형 표준이다. Amazon, OpenAI 등 경쟁사들도 에이전트 커머스 기능을 더했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LGのホーム画面広告\nエージェント型AIに開放",
-          "body": "代理店がLGスマートTVのホーム画面広告をエージェント型AIで買えるようになった。",
-          "mini_headline": "LG TV広告がエージェント型購買に",
+          "headline": "Universal Cart\nGoogleがUSで提供開始",
+          "body": "Google Universal CartがU.S.でSearch・Geminiに登場した。",
+          "mini_headline": "Google Universal Cart、US上陸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+                "t": "video",
+                "yt": "xMDZus5hxYI"
               },
               {
                 "t": "p",
-                "x": "MagniteとLG Ad Solutionsは、LGスマートTVのホーム画面インベントリを、エージェント型AIによるメディア購買を通じて代理店に提供すると発表した。最初のキャンペーンには独立系代理店H/LとともにNorthern California Toyota Dealers Associationが参加し、49ers のクォーターバックBrock Purdyが分割画面のヒーロー枠に登場する。"
+                "x": "Googleは、SearchやGeminiアプリで見つけた商品をまとめて追跡できるツールUniversal Cartを、U.S.のユーザー向けに提供開始したと発表した。5月のGoogle I/Oで初めて披露されていた。"
               },
               {
                 "t": "p",
-                "x": "H/Lの購買エージェントは、ClearLine内でModel Context Protocol（MCP）を介してMagniteの販売エージェントと連携した。エージェントは新車購入を検討するNFL視聴者向けのキャンペーンブリーフを設定・稼働させ、エージェント主導の計画は配信前にLGとH/Lが承認した。"
+                "x": "カートには複数の小売業者の商品を入れられ、保存した商品の値下がりや品切れ商品の再入荷を通知する。Googleによると、クレジットカードの特典も考慮し、関連するプロモーションコードも表示できる。"
               },
               {
                 "t": "p",
-                "x": "H/LのVPであるJeremy Cobbは、ホーム画面広告は「必須条件」になったと語った。エージェント型購買は「私たちのやっていることを根本的に変えるものではない」としつつ、キャンペーン計画をより良く、速く、強くすると期待している。"
+                "x": "決済はGoogleのUniversal Commerce Protocol(UCP)と連動する。UCPは、AIエージェントと小売業者が買い物の全工程で連携できるよう設計されたオープン標準だ。Amazon、OpenAIなど競合各社もエージェント型コマース機能を追加している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LG主屏广告\n开放给智能体AI购买",
-          "body": "Magnite与LG Ad Solutions让代理商可用智能体AI购买LG电视主屏广告。",
-          "mini_headline": "LG电视广告走向智能体购买",
+          "headline": "Universal Cart\nGoogle在US上线",
+          "body": "Google Universal Cart已登陆U.S. Search和Gemini。",
+          "mini_headline": "Google Universal Cart登陆US",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+                "t": "video",
+                "yt": "xMDZus5hxYI"
               },
               {
                 "t": "p",
-                "x": "Magnite与LG Ad Solutions宣布，代理商可通过智能体AI媒体购买获取LG智能电视主屏广告资源。首个活动由Northern California Toyota Dealers Association与独立代理商H/L合作推出，49ers 四分卫Brock Purdy出现在分屏主视觉广告位中。"
+                "x": "Google表示，Universal Cart现已向U.S.用户开放。这款工具可让用户收集并追踪在Search和Gemini应用中找到的商品，最早于5月的Google I/O上预览。"
               },
               {
                 "t": "p",
-                "x": "H/L的买方智能体通过Model Context Protocol（MCP）在ClearLine内与Magnite的卖方智能体协作。智能体为有意购买新车的NFL观众设置并启动了活动简报，这一由智能体主导的方案在上线前获得了LG和H/L的批准。"
+                "x": "购物车可汇集多家零售商的商品，并在已保存商品降价或缺货商品补货时发送通知。Google称，它还能考虑信用卡优惠，并显示相关促销码。"
               },
               {
                 "t": "p",
-                "x": "H/L副总裁（VP）Jeremy Cobb表示，主屏广告已成为“基本门槛”。他说，智能体购买“不会从根本上改变我们正在做的事”，但他预计这会让活动规划更好、更快、更强。"
+                "x": "结账环节与Google的Universal Commerce Protocol (UCP)相连，这是一项开放标准，旨在帮助AI智能体与零售商在整个购物流程中协同工作。Amazon、OpenAI等竞争对手也已加入代理式购物功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anuncios de inicio de LG,\nabiertos a la compra con AI",
-          "body": "Magnite y LG Ad Solutions abren la pantalla de inicio de las smart TV de LG a agencias que compran con AI agéntica.",
-          "mini_headline": "Anuncios de LG TV, a la compra agéntica",
+          "headline": "Google lanza Universal Cart\nen Estados Unidos (US)",
+          "body": "Universal Cart de Google ya reúne artículos de varias tiendas en Search y Gemini en U.S. y avisa de rebajas.",
+          "mini_headline": "Google Universal Cart llega a US",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/Toyota_-LG-Product_Image_Front-scaled-2-1024x602.png"
+                "t": "video",
+                "yt": "xMDZus5hxYI"
               },
               {
                 "t": "p",
-                "x": "Magnite y LG Ad Solutions anunciaron que el inventario de la pantalla de inicio de las smart TV de LG estará disponible para las agencias mediante la compra de medios con AI agéntica. Northern California Toyota Dealers Association participa en la primera campaña, junto con la agencia independiente H/L, protagonizada por el quarterback de los 49ers Brock Purdy en una ubicación destacada a pantalla dividida."
+                "x": "Google anunció que Universal Cart, una herramienta que permite reunir y seguir los productos encontrados en Search y en la app de Gemini, ya está disponible para usuarios de U.S. Se presentó por primera vez en Google I/O en mayo."
               },
               {
                 "t": "p",
-                "x": "El agente comprador de H/L colaboró con el agente vendedor de Magnite dentro de ClearLine mediante Model Context Protocol (MCP). Los agentes configuraron y activaron el brief de la campaña dirigida a espectadores de la NFL que buscan un vehículo nuevo, y LG y H/L aprobaron el plan dirigido por los agentes antes de su lanzamiento."
+                "x": "El carrito puede reunir artículos de varios minoristas y envía notificaciones cuando baja el precio de un producto guardado o vuelve a estar disponible un artículo agotado. Según Google, también puede tener en cuenta las ventajas de las tarjetas de crédito y mostrar códigos promocionales relevantes."
               },
               {
                 "t": "p",
-                "x": "Los anuncios en la pantalla de inicio se han vuelto \"lo mínimo indispensable\", dijo Jeremy Cobb, VP de H/L. La compra agéntica \"no es algo que vaya a cambiar de fondo lo que hacemos\", afirmó, aunque espera que haga la planificación de campañas mejor, más rápida y más sólida."
+                "x": "El pago está vinculado al Universal Commerce Protocol (UCP) de Google, un estándar abierto diseñado para que los agentes de AI y los minoristas colaboren a lo largo de todo el proceso de compra. Amazon, OpenAI y otros rivales también han añadido funciones de comercio agéntico."
               }
             ]
           }
@@ -587,15 +557,15 @@
       }
     },
     {
-      "id": "marketing-shopify-agent-ready",
+      "id": "marketing-fox-agentic-linear",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Agent-ready라던\nShopify 기본기 부족",
-      "body": "Shopify 매장 122곳에서 에이전트는 결제만 만들고 기본 질문엔 막혔다.",
-      "mini_headline": "Shopify 에이전트, 기본기 부족",
       "tool": "Marketing",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
+      "eyebrow": "AI NEWS",
+      "headline": "Fox, 에이전트 구매\n리니어 TV로 확대",
+      "body": "Fox가 에이전트 광고 플랫폼 대행사 파트너를 늘리고 리니어 TV로 넓힌다.",
+      "mini_headline": "Fox, 리니어 TV에 에이전트 도입",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/convergent-tv/fox-expands-agentic-push-with-eyes-set-on-tv-upfront-future/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -603,173 +573,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+            "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+            "cap": "2025 Fox 업프런트 프레젠테이션에 선 Fox 광고 영업 책임자 Jeff Collins. Frank Micelotta/Fox"
           },
           {
             "t": "p",
-            "x": "Bill Hunt는 에이전트가 정말 구매 결정을 끝낼 수 있는지 보려고 주요 Shopify 매장 122곳을 점검했다. Shopify는 모든 매장에 에이전트 도구를 켜 두었다. 122곳 중 89곳이 표준 MCP 도구 목록 요청에 응답했고, 실제 재고가 있는 상품을 넣으면 결제 생성은 모든 매장에서 성공했다."
+            "x": "Fox는 AI-powered 기술을 계속 강화하면서 스스로 TV 광고 업계의 “첫 엔드투엔드 에이전틱 플랫폼”이라 부르는 서비스를 넓히는 중이다."
           },
           {
             "t": "p",
-            "x": "하지만 결제 74건은 하나같이 requires_escalation을 돌려줬다. 가격이 매겨진 장바구니까지는 에이전트가 만들고, 돈을 확정하는 일은 사람 몫이다."
+            "x": "회사는 ADWEEK에 에이전틱 도입의 다음 단계로 넘어간다고 밝혔다. 대행사 파트너를 늘리고 에이전틱 기능을 엔드투엔드 리니어 거래로, 이어 디지털 거래로 넓힌다. 앞으로의 업프런트 논의에서도 에이전틱의 비중을 키울 계획이다."
           },
           {
             "t": "p",
-            "x": "정책 도구는 반품 기간 질문엔 답했지만 배송과 취소를 묻는 구매자식 질문에선 막혔다. 74곳 중 도착 예정일을 돌려준 매장도, 픽업을 명시한 매장도 없었다. 122곳 가운데 주문 취소·변경·반품 도구를 연 곳은 하나도 없었고, 아홉 가지 점검을 모두 통과한 매장도 없었다."
-          },
-          {
-            "t": "p",
-            "x": "Hunt는 구매자가 묻는 질문을 자사 정책 도구에 직접 던져 보라고 조언한다. \"agent-ready\"라고 가정하지 말고 검증하라는 얘기다."
+            "x": "Fox 광고 부문을 이끄는 Jeff Collins는 이런 기술 발전 덕분에 고객 및 파트너와 더 영향력 있는 관계를 쌓고 있다고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Agent-ready Shopify stores\nstill miss the basics",
-          "body": "In tests of 122 Shopify stores, agents could build a checkout but not answer basic delivery or cancellation questions.",
-          "mini_headline": "Shopify agents miss the basics",
+          "headline": "Fox extends agentic buying\nto linear TV deals",
+          "body": "Fox is adding agency partners to its agentic ad platform and extending agentic transactions to linear TV buys.",
+          "mini_headline": "Fox brings agents to linear TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+                "cap": "Jeff Collins, Fox ad sales chief, during the 2025 Fox upfront presentation. Frank Micelotta/Fox"
               },
               {
                 "t": "p",
-                "x": "Bill Hunt audited 122 leading Shopify storefronts to test whether an agent can actually resolve a purchase decision. Shopify switched on agent tools for every store: 89 of 122 answered a standard MCP tool listing, and checkout creation succeeded on every store given a real, in-stock item."
+                "x": "Fox is expanding what it calls the TV ad industry's “first end-to-end agentic platform” as it continues its push into AI-powered technology."
               },
               {
                 "t": "p",
-                "x": "But every one of the 74 checkouts returned requires_escalation: the agent builds a priced cart, and a person commits the money."
+                "x": "The company told ADWEEK it is entering the next phase of its agentic rollout: adding more agency partners, expanding agentic capabilities to end-to-end linear and, eventually, digital transactions, and making agentic a bigger part of future upfront conversations."
               },
               {
                 "t": "p",
-                "x": "Policy tools answered return-window questions but failed buyer-style questions on shipping and cancellation. None of 74 stores returned an arrival estimate, no store declared pickup, and not one of 122 exposes a tool to cancel, change or return an order. Across nine checks, zero stores passed."
-              },
-              {
-                "t": "p",
-                "x": "Hunt's advice: ask your own policy tool the questions buyers ask, and verify rather than assume you are \"agent-ready.\""
+                "x": "According to Jeff Collins, Fox's ads leader, the tech advancements are creating more impactful relationships with clients and partners."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Agent-ready라던\nShopify 기본기 부족",
-          "body": "Shopify 매장 122곳에서 에이전트는 결제만 만들고 기본 질문엔 막혔다.",
-          "mini_headline": "Shopify 에이전트, 기본기 부족",
+          "headline": "Fox, 에이전트 구매\n리니어 TV로 확대",
+          "body": "Fox가 에이전트 광고 플랫폼 대행사 파트너를 늘리고 리니어 TV로 넓힌다.",
+          "mini_headline": "Fox, 리니어 TV에 에이전트 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+                "cap": "2025 Fox 업프런트 프레젠테이션에 선 Fox 광고 영업 책임자 Jeff Collins. Frank Micelotta/Fox"
               },
               {
                 "t": "p",
-                "x": "Bill Hunt는 에이전트가 정말 구매 결정을 끝낼 수 있는지 보려고 주요 Shopify 매장 122곳을 점검했다. Shopify는 모든 매장에 에이전트 도구를 켜 두었다. 122곳 중 89곳이 표준 MCP 도구 목록 요청에 응답했고, 실제 재고가 있는 상품을 넣으면 결제 생성은 모든 매장에서 성공했다."
+                "x": "Fox는 AI-powered 기술을 계속 강화하면서 스스로 TV 광고 업계의 “첫 엔드투엔드 에이전틱 플랫폼”이라 부르는 서비스를 넓히는 중이다."
               },
               {
                 "t": "p",
-                "x": "하지만 결제 74건은 하나같이 requires_escalation을 돌려줬다. 가격이 매겨진 장바구니까지는 에이전트가 만들고, 돈을 확정하는 일은 사람 몫이다."
+                "x": "회사는 ADWEEK에 에이전틱 도입의 다음 단계로 넘어간다고 밝혔다. 대행사 파트너를 늘리고 에이전틱 기능을 엔드투엔드 리니어 거래로, 이어 디지털 거래로 넓힌다. 앞으로의 업프런트 논의에서도 에이전틱의 비중을 키울 계획이다."
               },
               {
                 "t": "p",
-                "x": "정책 도구는 반품 기간 질문엔 답했지만 배송과 취소를 묻는 구매자식 질문에선 막혔다. 74곳 중 도착 예정일을 돌려준 매장도, 픽업을 명시한 매장도 없었다. 122곳 가운데 주문 취소·변경·반품 도구를 연 곳은 하나도 없었고, 아홉 가지 점검을 모두 통과한 매장도 없었다."
-              },
-              {
-                "t": "p",
-                "x": "Hunt는 구매자가 묻는 질문을 자사 정책 도구에 직접 던져 보라고 조언한다. \"agent-ready\"라고 가정하지 말고 검증하라는 얘기다."
+                "x": "Fox 광고 부문을 이끄는 Jeff Collins는 이런 기술 발전 덕분에 고객 및 파트너와 더 영향력 있는 관계를 쌓고 있다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Agent-readyの\nShopify、基本に穴",
-          "body": "Shopifyの122店で、エージェントは決済は作れたが配送や取消に答えられなかった。",
-          "mini_headline": "Shopifyのエージェント、基本でつまずく",
+          "headline": "Fox、エージェント購買\nリニアTVにも拡大",
+          "body": "Foxはエージェント型広告基盤に代理店パートナーを加え、リニアTV取引にも広げる。",
+          "mini_headline": "Fox、リニアTVにエージェント導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+                "cap": "2025年のFoxアップフロントで登壇するFox広告営業責任者のJeff Collins。Frank Micelotta/Fox"
               },
               {
                 "t": "p",
-                "x": "Bill Huntは、エージェントが実際に購入判断を完結できるかを確かめるため、主要なShopifyストア122店を監査した。Shopifyは全ストアでエージェント用ツールを有効にしており、122店中89店が標準的なMCPツール一覧に応答し、実在する在庫ありの商品を渡すと全ストアでチェックアウト作成に成功した。"
+                "x": "Foxは、AI-powered技術への注力を続けるなか、自ら「TV広告業界初のエンドツーエンドのエージェント型プラットフォーム」と呼ぶ基盤を拡大している。"
               },
               {
                 "t": "p",
-                "x": "だが、返ってきた74件のチェックアウトはすべてrequires_escalationだった。エージェントが価格付きのカートを組み、支払いを確定するのは人間である。"
+                "x": "同社はADWEEKに対し、エージェント型展開の次の段階に入ると語った。代理店パートナーを増やし、エージェント機能をエンドツーエンドのリニア取引、さらに将来的にはデジタル取引へ広げ、今後のアップフロント交渉でエージェント型の比重を高めるという。"
               },
               {
                 "t": "p",
-                "x": "ポリシーツールは返品期間の質問には答えたが、配送や取消に関する購入者目線の質問には失敗した。74店のうち到着見込みを返した店はなく、店頭受け取りを示した店もなく、122店のどこも注文の取消・変更・返品ツールを公開していない。九つのチェックを通過した店はゼロだった。"
-              },
-              {
-                "t": "p",
-                "x": "Huntの助言は、買い手が尋ねる質問を自社のポリシーツールに投げかけ、「agent-ready」だと思い込まずに検証せよ、というものだ。"
+                "x": "Foxの広告部門を率いるJeff Collinsによれば、こうした技術の進歩が、クライアントやパートナーとのより影響力のある関係を生んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "号称Agent-ready的\nShopify店缺基本功",
-          "body": "对122家Shopify店铺的测试显示，智能体能生成结账却答不了基本的配送或取消问题。",
-          "mini_headline": "Shopify智能体缺基本功",
+          "headline": "Fox将智能体购买\n扩展至线性TV交易",
+          "body": "Fox为其智能体广告平台增加代理商伙伴，并将智能体交易扩展至线性TV购买。",
+          "mini_headline": "Fox把智能体带入线性TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+                "cap": "Fox广告销售主管Jeff Collins在2025年Fox预售推介会上。Frank Micelotta/Fox"
               },
               {
                 "t": "p",
-                "x": "Bill Hunt审查了122家头部Shopify店铺，测试智能体能否真正完成购买决策。Shopify已为所有店铺开启智能体工具：122家中有89家响应了标准MCP工具列表请求，只要给出真实且有库存的商品，所有店铺都能成功创建结账。"
+                "x": "Fox在持续推进AI-powered技术之际，正在扩展其所称的TV广告业“首个端到端智能体平台”。"
               },
               {
                 "t": "p",
-                "x": "但返回的74个结账全部是requires_escalation：智能体搭好带价格的购物车，付款则由人来确认。"
+                "x": "该公司告诉ADWEEK，其智能体部署将进入下一阶段：增加更多代理商合作伙伴，将智能体能力扩展至端到端的线性交易，并最终扩展至数字交易，同时让智能体在未来的预售洽谈中占据更大比重。"
               },
               {
                 "t": "p",
-                "x": "政策工具能回答退货期限问题，却答不好买家式的配送和取消问题。74家店中没有一家返回预计到达时间，没有一家声明支持自提，122家中也没有一家开放取消、修改或退回订单的工具。在九项检查中，通过的店铺为零。"
-              },
-              {
-                "t": "p",
-                "x": "Hunt的建议是：拿买家会问的问题去问自己的政策工具，要去验证，而不是想当然地认为自己已经“agent-ready”。"
+                "x": "Fox广告业务负责人Jeff Collins表示，这些技术进步正在与客户和合作伙伴之间建立更具影响力的关系。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las tiendas Shopify Agent-ready\naún fallan en lo básico",
-          "body": "En 122 tiendas Shopify, los agentes crearon el pago pero no respondieron dudas básicas de entrega o cancelación.",
-          "mini_headline": "Los agentes de Shopify fallan en lo básico",
+          "headline": "Fox lleva la compra agéntica\na los acuerdos de TV lineal",
+          "body": "Fox suma agencias socias a su plataforma agéntica de anuncios y la extiende a la compra de TV lineal.",
+          "mini_headline": "Fox lleva los agentes a la TV lineal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+                "cap": "Jeff Collins, responsable de ventas publicitarias de Fox, durante la presentación upfront de Fox en 2025. Frank Micelotta/Fox"
               },
               {
                 "t": "p",
-                "x": "Bill Hunt auditó 122 tiendas líderes de Shopify para comprobar si un agente puede realmente cerrar una decisión de compra. Shopify activó las herramientas para agentes en todas las tiendas: 89 de 122 respondieron a un listado estándar de herramientas MCP, y la creación del checkout funcionó en todas las tiendas cuando se les dio un artículo real y en stock."
+                "x": "Fox amplía lo que denomina la “primera plataforma agéntica integral” del sector publicitario de TV, mientras continúa su apuesta por la tecnología AI-powered."
               },
               {
                 "t": "p",
-                "x": "Pero los 74 checkouts devueltos indicaron requires_escalation: el agente arma un carrito con precio y una persona compromete el dinero."
+                "x": "La compañía explicó a ADWEEK que entra en la siguiente fase de su despliegue agéntico: sumar más agencias socias, ampliar las capacidades agénticas a las transacciones lineales de principio a fin y, más adelante, a las digitales, y dar a lo agéntico un papel mayor en las futuras negociaciones upfront."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de políticas respondieron preguntas sobre el plazo de devolución, pero fallaron ante preguntas de comprador sobre envío y cancelación. Ninguna de las 74 tiendas devolvió una fecha estimada de llegada, ninguna declaró la opción de recogida y ni una de las 122 expone una herramienta para cancelar, cambiar o devolver un pedido. En nueve comprobaciones, cero tiendas aprobaron."
-              },
-              {
-                "t": "p",
-                "x": "El consejo de Hunt: haga a su propia herramienta de políticas las preguntas que hacen los compradores, y verifique en lugar de suponer que es \"agent-ready\"."
+                "x": "Según Jeff Collins, responsable de publicidad de Fox, los avances tecnológicos están creando relaciones de mayor impacto con clientes y socios."
               }
             ]
           }
@@ -777,121 +729,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Agent-ready라는\nShopify 기본 미흡",
-          "body": "Shopify 매장 122곳에서 에이전트는 결제만 만들고 기본 질문엔 막혔다.",
-          "mini_headline": "Shopify 에이전트, 기본기 부족",
+          "headline": "Fox, 에이전트 구매\n리니어 TV로 확대",
+          "body": "Fox가 에이전트 광고 플랫폼에 대행사 파트너를 늘리고 리니어 TV 거래로 넓힌다.",
+          "mini_headline": "Fox, 리니어 TV에 에이전트 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+                "cap": "2025 Fox 업프런트 프레젠테이션에 선 Fox 광고 영업 책임자 Jeff Collins. Frank Micelotta/Fox"
               },
               {
                 "t": "p",
-                "x": "Bill Hunt는 에이전트가 실제로 구매 결정을 마무리할 수 있는지 보려고 주요 Shopify 매장 122곳을 점검했다. Shopify는 모든 매장에 에이전트 도구를 켰다. 122곳 중 89곳이 표준 MCP 도구 목록 요청에 응답했고, 실제 재고가 있는 상품을 넣으면 모든 매장에서 결제 생성에 성공했다."
+                "x": "Fox는 AI-powered 기술 강화를 이어가며, 스스로 TV 광고 업계의 “첫 엔드투엔드 에이전틱 플랫폼”이라 부르는 서비스를 확대하고 있다."
               },
               {
                 "t": "p",
-                "x": "그러나 74건의 결제는 하나같이 requires_escalation을 반환했다. 에이전트가 가격이 매겨진 장바구니를 만들면, 돈을 확정하는 일은 사람이 한다."
+                "x": "회사는 ADWEEK에 에이전틱 도입의 다음 단계에 들어선다고 밝혔다. 대행사 파트너를 늘리고, 에이전틱 기능을 엔드투엔드 리니어 거래와 이후 디지털 거래로 확대하며, 앞으로의 업프런트 논의에서 에이전틱의 비중을 키운다는 계획이다."
               },
               {
                 "t": "p",
-                "x": "정책 도구는 반품 기간 질문에는 답했지만 배송과 취소에 관한 구매자식 질문에는 실패했다. 74곳 중 도착 예정일을 돌려준 매장은 없었고, 픽업을 명시한 매장도 없었으며, 122곳 가운데 주문 취소·변경·반품 도구를 연 곳은 한 곳도 없었다. 아홉 가지 점검을 모두 통과한 매장은 단 한 곳도 없었다."
-              },
-              {
-                "t": "p",
-                "x": "Hunt의 조언은 이렇다. 구매자가 묻는 질문을 자사 정책 도구에 직접 던져 보고, \"agent-ready\"라고 가정하지 말고 검증하라는 것이다."
+                "x": "Fox 광고 부문을 이끄는 Jeff Collins는 이러한 기술 발전이 고객 및 파트너와 더 영향력 있는 관계를 만들고 있다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Agent-readyの\nShopify、基本に穴",
-          "body": "Shopifyの122店で、エージェントは決済は作れたが配送や取消に答えられなかった。",
-          "mini_headline": "Shopifyのエージェント、基本でつまずく",
+          "headline": "Fox、エージェント購買\nリニアTVにも拡大",
+          "body": "Foxはエージェント型広告基盤に代理店パートナーを加え、リニアTV取引にも広げる。",
+          "mini_headline": "Fox、リニアTVにエージェント導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+                "cap": "2025年のFoxアップフロントで登壇するFox広告営業責任者のJeff Collins。Frank Micelotta/Fox"
               },
               {
                 "t": "p",
-                "x": "Bill Huntは、エージェントが実際に購入判断を完結できるかを確かめるため、主要なShopifyストア122店を監査した。Shopifyは全ストアでエージェント用ツールを有効にしており、122店中89店が標準的なMCPツール一覧に応答し、実在する在庫ありの商品を渡すと全ストアでチェックアウト作成に成功した。"
+                "x": "Foxは、AI-powered技術への注力を続けるなか、自ら「TV広告業界初のエンドツーエンドのエージェント型プラットフォーム」と呼ぶ基盤を拡大している。"
               },
               {
                 "t": "p",
-                "x": "だが、返ってきた74件のチェックアウトはすべてrequires_escalationだった。エージェントが価格付きのカートを組み、支払いを確定するのは人間である。"
+                "x": "同社はADWEEKに対し、エージェント型展開の次の段階に入ると語った。代理店パートナーを増やし、エージェント機能をエンドツーエンドのリニア取引、さらに将来的にはデジタル取引へ広げ、今後のアップフロント交渉でエージェント型の比重を高めるという。"
               },
               {
                 "t": "p",
-                "x": "ポリシーツールは返品期間の質問には答えたが、配送や取消に関する購入者目線の質問には失敗した。74店のうち到着見込みを返した店はなく、店頭受け取りを示した店もなく、122店のどこも注文の取消・変更・返品ツールを公開していない。九つのチェックを通過した店はゼロだった。"
-              },
-              {
-                "t": "p",
-                "x": "Huntの助言は、買い手が尋ねる質問を自社のポリシーツールに投げかけ、「agent-ready」だと思い込まずに検証せよ、というものだ。"
+                "x": "Foxの広告部門を率いるJeff Collinsによれば、こうした技術の進歩が、クライアントやパートナーとのより影響力のある関係を生んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "号称Agent-ready的\nShopify店缺基本功",
-          "body": "对122家Shopify店铺的测试显示，智能体能生成结账却答不了基本的配送或取消问题。",
-          "mini_headline": "Shopify智能体缺基本功",
+          "headline": "Fox将智能体购买\n扩展至线性TV交易",
+          "body": "Fox为其智能体广告平台增加代理商伙伴，并将智能体交易扩展至线性TV购买。",
+          "mini_headline": "Fox把智能体带入线性TV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+                "cap": "Fox广告销售主管Jeff Collins在2025年Fox预售推介会上。Frank Micelotta/Fox"
               },
               {
                 "t": "p",
-                "x": "Bill Hunt审查了122家头部Shopify店铺，测试智能体能否真正完成购买决策。Shopify已为所有店铺开启智能体工具：122家中有89家响应了标准MCP工具列表请求，只要给出真实且有库存的商品，所有店铺都能成功创建结账。"
+                "x": "Fox在持续推进AI-powered技术之际，正在扩展其所称的TV广告业“首个端到端智能体平台”。"
               },
               {
                 "t": "p",
-                "x": "但返回的74个结账全部是requires_escalation：智能体搭好带价格的购物车，付款则由人来确认。"
+                "x": "该公司告诉ADWEEK，其智能体部署将进入下一阶段：增加更多代理商合作伙伴，将智能体能力扩展至端到端的线性交易，并最终扩展至数字交易，同时让智能体在未来的预售洽谈中占据更大比重。"
               },
               {
                 "t": "p",
-                "x": "政策工具能回答退货期限问题，却答不好买家式的配送和取消问题。74家店中没有一家返回预计到达时间，没有一家声明支持自提，122家中也没有一家开放取消、修改或退回订单的工具。在九项检查中，通过的店铺为零。"
-              },
-              {
-                "t": "p",
-                "x": "Hunt的建议是：拿买家会问的问题去问自己的政策工具，要去验证，而不是想当然地认为自己已经“agent-ready”。"
+                "x": "Fox广告业务负责人Jeff Collins表示，这些技术进步正在与客户和合作伙伴之间建立更具影响力的关系。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las tiendas Shopify Agent-ready\naún fallan en lo básico",
-          "body": "En 122 tiendas Shopify, los agentes crearon el pago pero no respondieron dudas básicas de entrega o cancelación.",
-          "mini_headline": "Los agentes de Shopify fallan en lo básico",
+          "headline": "Fox lleva la compra agéntica\na los acuerdos de TV lineal",
+          "body": "Fox suma agencias socias a su plataforma agéntica de anuncios y la extiende a la compra de TV lineal.",
+          "mini_headline": "Fox lleva los agentes a la TV lineal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-agent-ready-111.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
+                "cap": "Jeff Collins, responsable de ventas publicitarias de Fox, durante la presentación upfront de Fox en 2025. Frank Micelotta/Fox"
               },
               {
                 "t": "p",
-                "x": "Bill Hunt auditó 122 tiendas líderes de Shopify para comprobar si un agente puede realmente cerrar una decisión de compra. Shopify activó las herramientas para agentes en todas las tiendas: 89 de 122 respondieron a un listado estándar de herramientas MCP, y la creación del checkout funcionó en todas las tiendas cuando se les dio un artículo real y en stock."
+                "x": "Fox amplía lo que denomina la “primera plataforma agéntica integral” del sector publicitario de TV, mientras continúa su apuesta por la tecnología AI-powered."
               },
               {
                 "t": "p",
-                "x": "Pero los 74 checkouts devueltos indicaron requires_escalation: el agente arma un carrito con precio y una persona compromete el dinero."
+                "x": "La compañía explicó a ADWEEK que entra en la siguiente fase de su despliegue agéntico: sumar más agencias socias, ampliar las capacidades agénticas a las transacciones lineales de principio a fin y, más adelante, a las digitales, y dar a lo agéntico un papel mayor en las futuras negociaciones upfront."
               },
               {
                 "t": "p",
-                "x": "Las herramientas de políticas respondieron preguntas sobre el plazo de devolución, pero fallaron ante preguntas de comprador sobre envío y cancelación. Ninguna de las 74 tiendas devolvió una fecha estimada de llegada, ninguna declaró la opción de recogida y ni una de las 122 expone una herramienta para cancelar, cambiar o devolver un pedido. En nueve comprobaciones, cero tiendas aprobaron."
-              },
-              {
-                "t": "p",
-                "x": "El consejo de Hunt: haga a su propia herramienta de políticas las preguntas que hacen los compradores, y verifique en lugar de suponer que es \"agent-ready\"."
+                "x": "Según Jeff Collins, responsable de publicidad de Fox, los avances tecnológicos están creando relaciones de mayor impacto con clientes y socios."
               }
             ]
           }
@@ -899,195 +839,195 @@
       }
     },
     {
-      "id": "marketing-floqer",
+      "id": "marketing-google-ads-ai-max-report",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Floqer, 영업 조사\nAI 에이전트에 맡긴다",
-      "body": "Floqer의 AI 에이전트가 B2B 매출 조직의 잠재 고객 조사를 대신한다.",
-      "mini_headline": "Floqer 에이전트, 영업 조사 대행",
       "tool": "Marketing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "eyebrow": "AI NEWS",
+      "headline": "AI Max 검색어 리포트\nGoogle Ads가 시험",
+      "body": "Google Ads가 검색어를 광고·랜딩과 잇는 AI Max 보고서를 시험 중이다.",
+      "mini_headline": "Google Ads, AI Max 보고서 시험",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "Google Ads가 Search terms and ad combinations report(검색어 및 광고 조합 보고서)라는 새 보고서를 시험 중인 것으로 보인다. 검색어와 광고 소재, 랜딩 페이지가 어떻게 맞물려 돌아가는지 보여주는 보고서다."
+          },
+          {
+            "t": "p",
+            "x": "이 보고서를 발견한 Natasha Kaurra는 LinkedIn에 “AI Max for Search 캠페인을 운영하는 광고주에게 유용한 추가 기능으로 보인다”고 적었다."
+          },
+          {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-            "cap": "Floqer 창업자들"
+            "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+            "cap": "Google Ads Search Terms And Ad Combinations Report(검색어 및 광고 조합 보고서)"
           },
           {
             "t": "p",
-            "x": "Floqer는 자율형 고객 지식 플랫폼이다. B2B 영업·마케팅 조직에 고객 정보를 계속 모으고 정리하고 갱신하는 AI-powered 데이터베이스를 제공한다. TechCrunch Disrupt 2026의 Startup Battlefield 무대에 선 이 회사는 보안 검토를 마친 뒤 2027년 초를 목표로 기술을 오픈소스로 공개할 계획이다."
-          },
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+            "x": "광고를 띄운 검색어와 함께 노출된 광고 제목과 설명, 사용자가 넘어간 랜딩 페이지, 매칭 출처(AI Max 확장 매칭 또는 랜딩 페이지·URL 포함), 애셋 출처(광고주가 제공한 애셋인지 여부)가 나온다."
           },
           {
             "t": "p",
-            "x": "사용자가 찾는 대상을 설명하면 AI 에이전트가 여러 출처를 뒤져 기업과 담당자 목록을 만든다. 100개가 넘는 외부 데이터 소스로 계정 정보를 보강하고, 이직이나 신규 투자 소식도 웹에서 지켜본다. 회사는 고객들이 잠재 고객 발굴 시간을 최대 70%까지 줄였다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "Floqer는 2024년 Shivam Mahajan과 Zaaheda Islam이 세웠다. ARR은 $1.2 million을 넘었고, 직원은 여덟 명, 고객은 Perplexity, Wise, AngelList를 포함해 1,000곳이 넘는다고 회사는 밝혔다."
+            "x": "Kaurra는 “이 보고서는 검색 의도와 광고 메시지, 랜딩 페이지 사이의 불일치를 찾아낼 또 하나의 방법을 준다”고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Floqer sends AI agents\nto research sales prospects",
-          "body": "Floqer's AI agents research prospects for B2B revenue teams, a chore familiar to anyone in sales or revenue operations.",
-          "mini_headline": "Floqer agents do sales research",
+          "headline": "Google Ads tests a report\nfor AI Max search terms",
+          "body": "A Google Ads test links queries to the ad copy and landing page served, flagging AI Max matches and asset sources.",
+          "mini_headline": "Google Ads tests AI Max report",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google Ads seems to be testing a new report named the Search terms and ad combinations report. It shows how search queries, ad creatives and landing pages work together."
+              },
+              {
+                "t": "p",
+                "x": "It was spotted by Natasha Kaurra, who said on LinkedIn it “looks like a useful addition for advertisers running AI Max for Search campaigns.”"
+              },
+              {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-                "cap": "Floqer founders"
+                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+                "cap": "Google Ads Search Terms And Ad Combinations Report"
               },
               {
                 "t": "p",
-                "x": "Floqer is an autonomous customer knowledge platform that gives B2B sales and marketing teams an AI-powered database that continuously collects, organizes and updates customer information. Pitching at TechCrunch Disrupt 2026's Startup Battlefield, it plans to open-source the technology, targeting early 2027 pending security reviews."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+                "x": "Beyond the search terms that triggered ads, it shows the headlines and descriptions served, the landing pages users were sent to, match sources (AI Max expanded matches or landing page and URL inclusions) and asset sources (whether assets were advertiser-provided)."
               },
               {
                 "t": "p",
-                "x": "Users describe what they are looking for, and its AI agents search across sources to build lists of companies and contacts, enrich accounts from more than 100 third-party data sources, and monitor the web for job changes or new funding. Customers have reported cutting prospecting time by as much as 70%, the company says."
-              },
-              {
-                "t": "p",
-                "x": "Founded in 2024 by Shivam Mahajan and Zaaheda Islam, Floqer says it has passed $1.2 million in ARR, has eight employees and more than 1,000 customers, including Perplexity, Wise and AngelList."
+                "x": "“This report gives us another way to identify mismatches between search intent, ad messaging, and landing pages,” Kaurra added."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Floqer, 영업 조사\nAI 에이전트에 맡긴다",
-          "body": "Floqer의 AI 에이전트가 B2B 매출 조직의 잠재 고객 조사를 대신한다.",
-          "mini_headline": "Floqer 에이전트, 영업 조사 대행",
+          "headline": "AI Max 검색어 리포트\nGoogle Ads가 시험",
+          "body": "Google Ads가 검색어를 광고·랜딩과 잇는 AI Max 보고서를 시험 중이다.",
+          "mini_headline": "Google Ads, AI Max 보고서 시험",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google Ads가 Search terms and ad combinations report(검색어 및 광고 조합 보고서)라는 새 보고서를 시험 중인 것으로 보인다. 검색어와 광고 소재, 랜딩 페이지가 어떻게 맞물려 돌아가는지 보여주는 보고서다."
+              },
+              {
+                "t": "p",
+                "x": "이 보고서를 발견한 Natasha Kaurra는 LinkedIn에 “AI Max for Search 캠페인을 운영하는 광고주에게 유용한 추가 기능으로 보인다”고 적었다."
+              },
+              {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-                "cap": "Floqer 창업자들"
+                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+                "cap": "Google Ads Search Terms And Ad Combinations Report(검색어 및 광고 조합 보고서)"
               },
               {
                 "t": "p",
-                "x": "Floqer는 자율형 고객 지식 플랫폼이다. B2B 영업·마케팅 조직에 고객 정보를 계속 모으고 정리하고 갱신하는 AI-powered 데이터베이스를 제공한다. TechCrunch Disrupt 2026의 Startup Battlefield 무대에 선 이 회사는 보안 검토를 마친 뒤 2027년 초를 목표로 기술을 오픈소스로 공개할 계획이다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+                "x": "광고를 띄운 검색어와 함께 노출된 광고 제목과 설명, 사용자가 넘어간 랜딩 페이지, 매칭 출처(AI Max 확장 매칭 또는 랜딩 페이지·URL 포함), 애셋 출처(광고주가 제공한 애셋인지 여부)가 나온다."
               },
               {
                 "t": "p",
-                "x": "사용자가 찾는 대상을 설명하면 AI 에이전트가 여러 출처를 뒤져 기업과 담당자 목록을 만든다. 100개가 넘는 외부 데이터 소스로 계정 정보를 보강하고, 이직이나 신규 투자 소식도 웹에서 지켜본다. 회사는 고객들이 잠재 고객 발굴 시간을 최대 70%까지 줄였다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Floqer는 2024년 Shivam Mahajan과 Zaaheda Islam이 세웠다. ARR은 $1.2 million을 넘었고, 직원은 여덟 명, 고객은 Perplexity, Wise, AngelList를 포함해 1,000곳이 넘는다고 회사는 밝혔다."
+                "x": "Kaurra는 “이 보고서는 검색 의도와 광고 메시지, 랜딩 페이지 사이의 불일치를 찾아낼 또 하나의 방법을 준다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Floqer、営業調査を\nAIエージェントに",
-          "body": "FloqerのAIエージェントは、B2Bの営業チームに代わって見込み客を調べる。",
-          "mini_headline": "Floqerのエージェントが営業調査",
+          "headline": "AI Max向けレポート\nGoogle Adsが試験中",
+          "body": "Google Adsが、検索語と配信広告・遷移先を結ぶAI Max向けレポートを試験中だ。",
+          "mini_headline": "Google Ads、AI Maxレポートを試験",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google Adsが、Search terms and ad combinations report(検索語句と広告の組み合わせレポート)という新しいレポートを試験しているようだ。検索語句、広告クリエイティブ、ランディングページがどう連動しているかを示す。"
+              },
+              {
+                "t": "p",
+                "x": "これを見つけたNatasha KaurraはLinkedInで、「AI Max for Searchキャンペーンを運用する広告主にとって便利な追加機能のようだ」と述べた。"
+              },
+              {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-                "cap": "Floqerの創業者たち"
+                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+                "cap": "Google Ads Search Terms And Ad Combinations Report(検索語句と広告の組み合わせレポート)"
               },
               {
                 "t": "p",
-                "x": "Floqerは自律型の顧客ナレッジプラットフォームで、B2Bの営業・マーケティングチームに、顧客情報を継続的に収集・整理・更新するAI-poweredのデータベースを提供する。TechCrunch Disrupt 2026のStartup Battlefieldでピッチを行った同社は、セキュリティ審査を経たうえで2027年初めを目標に技術をオープンソース化する計画だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+                "x": "広告表示のきっかけとなった検索語句に加え、配信された広告見出しと説明文、ユーザーの遷移先ランディングページ、一致のソース(AI Maxの拡張一致、またはランディングページとURLの包含)、アセットのソース(広告主が提供したアセットかどうか)を表示する。"
               },
               {
                 "t": "p",
-                "x": "ユーザーが探しているものを説明すると、AIエージェントが複数の情報源を横断して企業と担当者のリストを作り、100を超える外部データソースでアカウント情報を補強し、転職や新たな資金調達をウェブ上で監視する。同社によると、顧客からは見込み客開拓の時間を最大70%削減したとの報告があるという。"
-              },
-              {
-                "t": "p",
-                "x": "2024年にShivam MahajanとZaaheda Islamが創業したFloqerは、ARRが$1.2 millionを超え、従業員は八人、顧客はPerplexity、Wise、AngelListを含む1,000社超だとしている。"
+                "x": "Kaurraは「このレポートで、検索意図、広告メッセージ、ランディングページのずれを見つける新たな手段が得られる」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Floqer派AI智能体\n调研销售潜在客户",
-          "body": "Floqer的AI智能体为B2B营收团队调研潜在客户，这是销售和营收运营人员熟悉的苦差。",
-          "mini_headline": "Floqer智能体代做销售调研",
+          "headline": "Google Ads测试\nAI Max搜索词报告",
+          "body": "Google Ads测试中的报告将搜索词与广告文案、落地页关联，并标出AI Max匹配。",
+          "mini_headline": "Google Ads测试AI Max报告",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google Ads似乎正在测试一份名为Search terms and ad combinations report（搜索词与广告组合报告）的新报告，展示搜索查询、广告创意和落地页如何协同发挥作用。"
+              },
+              {
+                "t": "p",
+                "x": "该报告由Natasha Kaurra发现，她在LinkedIn上表示，这“对于投放AI Max for Search广告系列的广告主来说，看起来是一项有用的新增功能”。"
+              },
+              {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-                "cap": "Floqer创始人"
+                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+                "cap": "Google Ads Search Terms And Ad Combinations Report（搜索词与广告组合报告）"
               },
               {
                 "t": "p",
-                "x": "Floqer是一个自主客户知识平台，为B2B销售和营销团队提供AI-powered数据库，持续收集、整理并更新客户信息。该公司在TechCrunch Disrupt 2026的Startup Battlefield上路演，计划在安全审查通过后，以2027年初为目标将技术开源。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+                "x": "除触发广告的搜索词外，它还会显示所投放的标题和描述、用户被引导到的落地页、匹配来源（AI Max扩展匹配，或落地页与URL纳入）以及素材来源（素材是否由广告主提供）。"
               },
               {
                 "t": "p",
-                "x": "用户描述想找的对象后，其AI智能体会跨来源搜索，建立公司和联系人名单，借助100多个第三方数据源充实账户信息，并在网上监测职位变动或新融资。该公司称，有客户反馈潜在客户开发时间最多缩短了70%。"
-              },
-              {
-                "t": "p",
-                "x": "Floqer由Shivam Mahajan和Zaaheda Islam于2024年创立，公司称其ARR已超过$1.2 million，员工八名，客户超过1,000家，包括Perplexity、Wise和AngelList。"
+                "x": "Kaurra补充道：“这份报告为我们提供了另一种方式，用来识别搜索意图、广告信息与落地页之间的错配。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Floqer envía agentes de AI\na estudiar a posibles clientes",
-          "body": "Los agentes de AI de Floqer investigan posibles clientes para equipos de ingresos B2B, una tarea conocida en ventas.",
-          "mini_headline": "Los agentes de Floqer investigan ventas",
+          "headline": "Google Ads prueba un informe\nde términos de búsqueda AI Max",
+          "body": "Una prueba de Google Ads vincula consultas con el anuncio y la página de destino y marca coincidencias de AI Max.",
+          "mini_headline": "Google Ads prueba un informe de AI Max",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google Ads parece estar probando un nuevo informe llamado Search terms and ad combinations report (informe de términos de búsqueda y combinaciones de anuncios). Muestra cómo funcionan en conjunto las consultas de búsqueda, las creatividades y las páginas de destino."
+              },
+              {
+                "t": "p",
+                "x": "Lo detectó Natasha Kaurra, quien dijo en LinkedIn que “parece una incorporación útil para los anunciantes que usan campañas de AI Max for Search”."
+              },
+              {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-                "cap": "Fundadores de Floqer"
+                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+                "cap": "Google Ads Search Terms And Ad Combinations Report (informe de términos de búsqueda y combinaciones de anuncios)"
               },
               {
                 "t": "p",
-                "x": "Floqer es una plataforma autónoma de conocimiento de clientes que ofrece a los equipos B2B de ventas y marketing una base de datos AI-powered que recopila, organiza y actualiza de forma continua la información de clientes. Tras presentarse en el Startup Battlefield de TechCrunch Disrupt 2026, planea liberar la tecnología como código abierto, con el objetivo de hacerlo a principios de 2027, a la espera de revisiones de seguridad."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+                "x": "Además de los términos de búsqueda que activaron los anuncios, muestra los títulos y descripciones servidos, las páginas de destino a las que se envió a los usuarios, las fuentes de coincidencia (coincidencias ampliadas de AI Max o inclusiones de página de destino y URL) y las fuentes de recursos (si los recursos los proporcionó el anunciante)."
               },
               {
                 "t": "p",
-                "x": "Los usuarios describen lo que buscan y sus agentes de AI rastrean distintas fuentes para crear listas de empresas y contactos, enriquecer cuentas con más de 100 fuentes de datos de terceros y vigilar la web en busca de cambios de empleo o nuevas rondas de financiación. Según la empresa, algunos clientes han reportado reducir hasta un 70% el tiempo de prospección."
-              },
-              {
-                "t": "p",
-                "x": "Fundada en 2024 por Shivam Mahajan y Zaaheda Islam, Floqer asegura haber superado $1.2 million en ARR, y cuenta con ocho empleados y más de 1,000 clientes, entre ellos Perplexity, Wise y AngelList."
+                "x": "“Este informe nos da otra forma de detectar desajustes entre la intención de búsqueda, el mensaje del anuncio y las páginas de destino”, añadió Kaurra."
               }
             ]
           }
@@ -1095,125 +1035,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Floqer, 영업 조사\nAI 에이전트에 맡긴다",
-          "body": "Floqer의 AI 에이전트가 B2B 매출 조직의 잠재 고객 조사를 대신한다.",
-          "mini_headline": "Floqer 에이전트, 영업 조사 대행",
+          "headline": "AI Max 검색어 리포트\nGoogle Ads가 시험",
+          "body": "Google Ads가 검색어와 광고·랜딩을 잇는 AI Max 보고서를 시험한다.",
+          "mini_headline": "Google Ads, AI Max 보고서 시험",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google Ads가 Search terms and ad combinations report(검색어 및 광고 조합 보고서)라는 새 보고서를 시험하고 있는 것으로 보인다. 검색어, 광고 소재, 랜딩 페이지가 어떻게 함께 작동하는지 보여준다."
+              },
+              {
+                "t": "p",
+                "x": "이를 발견한 Natasha Kaurra는 LinkedIn에서 “AI Max for Search 캠페인을 운영하는 광고주에게 유용한 추가 기능으로 보인다”고 말했다."
+              },
+              {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-                "cap": "Floqer 창업자들"
+                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+                "cap": "Google Ads Search Terms And Ad Combinations Report(검색어 및 광고 조합 보고서)"
               },
               {
                 "t": "p",
-                "x": "Floqer는 B2B 영업·마케팅 조직에 고객 정보를 계속 수집하고 정리하고 갱신하는 AI-powered 데이터베이스를 제공하는 자율형 고객 지식 플랫폼이다. TechCrunch Disrupt 2026의 Startup Battlefield에서 발표한 이 회사는 보안 검토를 거쳐 2027년 초를 목표로 기술을 오픈소스로 공개할 계획이다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+                "x": "광고를 유발한 검색어 외에도 노출된 광고 제목과 설명, 사용자가 이동한 랜딩 페이지, 매칭 출처(AI Max 확장 매칭 또는 랜딩 페이지·URL 포함), 애셋 출처(광고주가 제공한 애셋인지 여부)를 보여준다."
               },
               {
                 "t": "p",
-                "x": "사용자가 찾는 대상을 설명하면 AI 에이전트가 여러 출처를 검색해 기업과 담당자 목록을 만들고, 100개가 넘는 외부 데이터 소스로 계정 정보를 보강하며, 이직이나 신규 투자 소식을 웹에서 지켜본다. 회사에 따르면 고객들은 잠재 고객 발굴 시간을 최대 70%까지 줄였다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "2024년 Shivam Mahajan과 Zaaheda Islam이 세운 Floqer는 ARR이 $1.2 million을 넘었고, 직원은 여덟 명, 고객은 Perplexity, Wise, AngelList를 포함해 1,000곳이 넘는다고 밝혔다."
+                "x": "Kaurra는 “이 보고서는 검색 의도와 광고 메시지, 랜딩 페이지 사이의 불일치를 찾아낼 또 하나의 방법을 준다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Floqer、営業調査を\nAIエージェントに",
-          "body": "FloqerのAIエージェントは、B2Bの営業チームに代わって見込み客を調べる。",
-          "mini_headline": "Floqerのエージェントが営業調査",
+          "headline": "AI Max向けレポート\nGoogle Adsが試験中",
+          "body": "Google Adsが、検索語と配信広告・遷移先を結ぶAI Max向けレポートを試験中だ。",
+          "mini_headline": "Google Ads、AI Maxレポートを試験",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google Adsが、Search terms and ad combinations report(検索語句と広告の組み合わせレポート)という新しいレポートを試験しているようだ。検索語句、広告クリエイティブ、ランディングページがどう連動しているかを示す。"
+              },
+              {
+                "t": "p",
+                "x": "これを見つけたNatasha KaurraはLinkedInで、「AI Max for Searchキャンペーンを運用する広告主にとって便利な追加機能のようだ」と述べた。"
+              },
+              {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-                "cap": "Floqerの創業者たち"
+                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+                "cap": "Google Ads Search Terms And Ad Combinations Report(検索語句と広告の組み合わせレポート)"
               },
               {
                 "t": "p",
-                "x": "Floqerは自律型の顧客ナレッジプラットフォームで、B2Bの営業・マーケティングチームに、顧客情報を継続的に収集・整理・更新するAI-poweredのデータベースを提供する。TechCrunch Disrupt 2026のStartup Battlefieldでピッチを行った同社は、セキュリティ審査を経たうえで2027年初めを目標に技術をオープンソース化する計画だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+                "x": "広告表示のきっかけとなった検索語句に加え、配信された広告見出しと説明文、ユーザーの遷移先ランディングページ、一致のソース(AI Maxの拡張一致、またはランディングページとURLの包含)、アセットのソース(広告主が提供したアセットかどうか)を表示する。"
               },
               {
                 "t": "p",
-                "x": "ユーザーが探しているものを説明すると、AIエージェントが複数の情報源を横断して企業と担当者のリストを作り、100を超える外部データソースでアカウント情報を補強し、転職や新たな資金調達をウェブ上で監視する。同社によると、顧客からは見込み客開拓の時間を最大70%削減したとの報告があるという。"
-              },
-              {
-                "t": "p",
-                "x": "2024年にShivam MahajanとZaaheda Islamが創業したFloqerは、ARRが$1.2 millionを超え、従業員は八人、顧客はPerplexity、Wise、AngelListを含む1,000社超だとしている。"
+                "x": "Kaurraは「このレポートで、検索意図、広告メッセージ、ランディングページのずれを見つける新たな手段が得られる」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Floqer派AI智能体\n调研销售潜在客户",
-          "body": "Floqer的AI智能体为B2B营收团队调研潜在客户，这是销售和营收运营人员熟悉的苦差。",
-          "mini_headline": "Floqer智能体代做销售调研",
+          "headline": "Google Ads测试\nAI Max搜索词报告",
+          "body": "Google Ads测试中的报告将搜索词与广告文案、落地页关联，并标出AI Max匹配。",
+          "mini_headline": "Google Ads测试AI Max报告",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google Ads似乎正在测试一份名为Search terms and ad combinations report（搜索词与广告组合报告）的新报告，展示搜索查询、广告创意和落地页如何协同发挥作用。"
+              },
+              {
+                "t": "p",
+                "x": "该报告由Natasha Kaurra发现，她在LinkedIn上表示，这“对于投放AI Max for Search广告系列的广告主来说，看起来是一项有用的新增功能”。"
+              },
+              {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-                "cap": "Floqer创始人"
+                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+                "cap": "Google Ads Search Terms And Ad Combinations Report（搜索词与广告组合报告）"
               },
               {
                 "t": "p",
-                "x": "Floqer是一个自主客户知识平台，为B2B销售和营销团队提供AI-powered数据库，持续收集、整理并更新客户信息。该公司在TechCrunch Disrupt 2026的Startup Battlefield上路演，计划在安全审查通过后，以2027年初为目标将技术开源。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+                "x": "除触发广告的搜索词外，它还会显示所投放的标题和描述、用户被引导到的落地页、匹配来源（AI Max扩展匹配，或落地页与URL纳入）以及素材来源（素材是否由广告主提供）。"
               },
               {
                 "t": "p",
-                "x": "用户描述想找的对象后，其AI智能体会跨来源搜索，建立公司和联系人名单，借助100多个第三方数据源充实账户信息，并在网上监测职位变动或新融资。该公司称，有客户反馈潜在客户开发时间最多缩短了70%。"
-              },
-              {
-                "t": "p",
-                "x": "Floqer由Shivam Mahajan和Zaaheda Islam于2024年创立，公司称其ARR已超过$1.2 million，员工八名，客户超过1,000家，包括Perplexity、Wise和AngelList。"
+                "x": "Kaurra补充道：“这份报告为我们提供了另一种方式，用来识别搜索意图、广告信息与落地页之间的错配。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Floqer envía agentes de AI\na estudiar a posibles clientes",
-          "body": "Los agentes de AI de Floqer investigan posibles clientes para equipos de ingresos B2B, una tarea conocida en ventas.",
-          "mini_headline": "Los agentes de Floqer investigan ventas",
+          "headline": "Google Ads prueba un informe\nde términos de búsqueda AI Max",
+          "body": "Una prueba de Google Ads vincula consultas con el anuncio y la página de destino y marca coincidencias de AI Max.",
+          "mini_headline": "Google Ads prueba un informe de AI Max",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Google Ads parece estar probando un nuevo informe llamado Search terms and ad combinations report (informe de términos de búsqueda y combinaciones de anuncios). Muestra cómo funcionan en conjunto las consultas de búsqueda, las creatividades y las páginas de destino."
+              },
+              {
+                "t": "p",
+                "x": "Lo detectó Natasha Kaurra, quien dijo en LinkedIn que “parece una incorporación útil para los anunciantes que usan campañas de AI Max for Search”."
+              },
+              {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/floqer-founders.png?w=1200",
-                "cap": "Fundadores de Floqer"
+                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+                "cap": "Google Ads Search Terms And Ad Combinations Report (informe de términos de búsqueda y combinaciones de anuncios)"
               },
               {
                 "t": "p",
-                "x": "Floqer es una plataforma autónoma de conocimiento de clientes que ofrece a los equipos B2B de ventas y marketing una base de datos AI-powered que recopila, organiza y actualiza de forma continua la información de clientes. Tras presentarse en el Startup Battlefield de TechCrunch Disrupt 2026, planea liberar la tecnología como código abierto, con el objetivo de hacerlo a principios de 2027, a la espera de revisiones de seguridad."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-Floqer-platform.png?w=680"
+                "x": "Además de los términos de búsqueda que activaron los anuncios, muestra los títulos y descripciones servidos, las páginas de destino a las que se envió a los usuarios, las fuentes de coincidencia (coincidencias ampliadas de AI Max o inclusiones de página de destino y URL) y las fuentes de recursos (si los recursos los proporcionó el anunciante)."
               },
               {
                 "t": "p",
-                "x": "Los usuarios describen lo que buscan y sus agentes de AI rastrean distintas fuentes para crear listas de empresas y contactos, enriquecer cuentas con más de 100 fuentes de datos de terceros y vigilar la web en busca de cambios de empleo o nuevas rondas de financiación. Según la empresa, algunos clientes han reportado reducir hasta un 70% el tiempo de prospección."
-              },
-              {
-                "t": "p",
-                "x": "Fundada en 2024 por Shivam Mahajan y Zaaheda Islam, Floqer asegura haber superado $1.2 million en ARR, y cuenta con ocho empleados y más de 1,000 clientes, entre ellos Perplexity, Wise y AngelList."
+                "x": "“Este informe nos da otra forma de detectar desajustes entre la intención de búsqueda, el mensaje del anuncio y las páginas de destino”, añadió Kaurra."
               }
             ]
           }
@@ -1221,189 +1161,171 @@
       }
     },
     {
-      "id": "marketing-newegg-ucp",
+      "id": "marketing-stripe-agentic-commerce",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Newegg, UCP 도입\nGemini에서 바로 결제",
-      "body": "Newegg 상품을 AI Mode와 Gemini에서 바로 살 수 있게 됐다.",
-      "mini_headline": "Newegg, Gemini에서 결제",
       "tool": "Marketing",
-      "source": "Digital Commerce 360",
-      "url": "https://www.digitalcommerce360.com/2026/10/12/newegg-adds-google-ucp-checkout-integration/",
-      "accent": "#f5a623",
+      "eyebrow": "AI NEWS",
+      "headline": "Stripe, 9월부터\n에이전트 거래 급증",
+      "body": "Stripe의 John Collison은 9월부터 에이전트 거래가 급증했다고 했다.",
+      "mini_headline": "Stripe 에이전트 거래 급증",
+      "source": "Payments Dive",
+      "url": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
+      "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+            "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+            "cap": "Stripe 사장 John Collison. Getty Images Entertainment via Getty Images"
           },
           {
             "t": "p",
-            "x": "Newegg가 온라인 결제에 Google의 Universal Commerce Protocol(UCP)을 도입했다. 1월 Google이 UCP를 내놓은 뒤 이를 지원해 온 Wayfair, Walmart, Macy's 등의 뒤를 따랐다. 이제 Newegg-sold 상품, 곧 Newegg가 판매하는 상품을 Google의 AI Mode, Google Search, Gemini 안에서 살 수 있다."
+            "x": "Stripe 사장 John Collison은 자신의 Cheeky Pint 팟캐스트에서 Meta Platforms CEO Mark Zuckerberg, 최고 AI 책임자 Alexandr Wang과 대화하다가 Stripe의 에이전트 커머스가 9월부터 가파르게 늘었다고 말했다."
           },
           {
             "t": "p",
-            "x": "Newegg의 최고정보책임자 Montaque Hou는 \"AI는 세계가 기술을 사는 방식을 바꾸고 있으며, Newegg는 그 변화의 선두에 서려 한다\"고 말했다. Newegg는 Google에 상품 카탈로그 데이터를 넘기되 판매 당사자 지위는 그대로 지킨다."
+            "x": "Collison은 “…5월 Sessions에서 발표를 잔뜩 했는데, 9월이 돼서야 사실상 수직 상승하기 시작했다”고 말했다. 구체적인 수치는 내놓지 않았다."
           },
           {
             "t": "p",
-            "x": "앞서 Newegg는 자체 대화형 AI 어시스턴트 Celeste를 선보였고 Perplexity 검색 내 상품 노출도 지원했다. 쇼핑객은 검색 결과나 프롬프트를 떠나지 않고 Google Pay로 결제할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Google의 Ashish Gupta는 \"Newegg가 Google에서 UCP-powered 결제를 도입한 것은 에이전틱 커머스를 확장하는 과정의 새 이정표\"라고 말했다."
+            "x": "발언은 세 사람이 Meta의 AI 어시스턴트 Muse와, 명령하면 상품을 사 주는 Muse의 기능을 두고 이야기하던 중에 나왔다. Amazon은 최근 Muse가 자사 사이트에서 쇼핑하지 못하게 막았고, Zuckerberg는 이를 막는 기업들이 후회하게 될 것이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Newegg adds Google UCP\ncheckout to AI Mode and Gemini",
-          "body": "Newegg's Google UCP integration lets shoppers find and buy its products directly in Search, AI Mode and Gemini.",
-          "mini_headline": "Newegg checks out in Gemini",
+          "headline": "Stripe says agentic commerce\nwent vertical in September",
+          "body": "Stripe's John Collison said agentic commerce on Stripe started going vertical in September, after its May announcements.",
+          "mini_headline": "Stripe agent sales take off",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+                "cap": "Stripe President John Collison. Getty Images Entertainment via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Newegg has integrated Google's Universal Commerce Protocol (UCP) for online checkout, following Wayfair, Walmart, Macy's and others that have supported UCP since Google launched it in January. Newegg-sold products will be purchasable within Google's AI Mode, Google Search and Gemini."
+                "x": "Stripe President John Collison said on his Cheeky Pint podcast, speaking with Meta Platforms CEO Mark Zuckerberg and chief AI officer Alexandr Wang, that agentic commerce on Stripe rose sharply starting in September."
               },
               {
                 "t": "p",
-                "x": "\"AI is changing how the world buys technology, and Newegg intends to be at the forefront of that change,\" said Montaque Hou, chief information officer at Newegg. Newegg remains the merchant of record while providing Google with product catalog data."
+                "x": "“…we had a whole bunch of announcements at Sessions back in May, and then it only, as of September, basically started going vertical,” Collison said. He gave no specific figures."
               },
               {
                 "t": "p",
-                "x": "The move follows Celeste, Newegg's own conversational AI assistant, and support for listings in Perplexity's search. Shoppers can use Google Pay without leaving their search results or prompts."
-              },
-              {
-                "t": "p",
-                "x": "\"Newegg enabling UCP-powered checkout on Google marks a new milestone as we scale agentic commerce,\" said Ashish Gupta of Google."
+                "x": "The remark came as the three discussed Meta's AI assistant Muse and its ability to buy merchandise on command. Amazon recently banned Muse from shopping on its site; Zuckerberg said companies that block it will likely regret it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Newegg, UCP 도입\nGemini에서 바로 결제",
-          "body": "Newegg 상품을 AI Mode와 Gemini에서 바로 살 수 있게 됐다.",
-          "mini_headline": "Newegg, Gemini에서 결제",
+          "headline": "Stripe, 9월부터\n에이전트 거래 급증",
+          "body": "Stripe의 John Collison은 9월부터 에이전트 거래가 급증했다고 했다.",
+          "mini_headline": "Stripe 에이전트 거래 급증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+                "cap": "Stripe 사장 John Collison. Getty Images Entertainment via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Newegg가 온라인 결제에 Google의 Universal Commerce Protocol(UCP)을 도입했다. 1월 Google이 UCP를 내놓은 뒤 이를 지원해 온 Wayfair, Walmart, Macy's 등의 뒤를 따랐다. 이제 Newegg-sold 상품, 곧 Newegg가 판매하는 상품을 Google의 AI Mode, Google Search, Gemini 안에서 살 수 있다."
+                "x": "Stripe 사장 John Collison은 자신의 Cheeky Pint 팟캐스트에서 Meta Platforms CEO Mark Zuckerberg, 최고 AI 책임자 Alexandr Wang과 대화하다가 Stripe의 에이전트 커머스가 9월부터 가파르게 늘었다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Newegg의 최고정보책임자 Montaque Hou는 \"AI는 세계가 기술을 사는 방식을 바꾸고 있으며, Newegg는 그 변화의 선두에 서려 한다\"고 말했다. Newegg는 Google에 상품 카탈로그 데이터를 넘기되 판매 당사자 지위는 그대로 지킨다."
+                "x": "Collison은 “…5월 Sessions에서 발표를 잔뜩 했는데, 9월이 돼서야 사실상 수직 상승하기 시작했다”고 말했다. 구체적인 수치는 내놓지 않았다."
               },
               {
                 "t": "p",
-                "x": "앞서 Newegg는 자체 대화형 AI 어시스턴트 Celeste를 선보였고 Perplexity 검색 내 상품 노출도 지원했다. 쇼핑객은 검색 결과나 프롬프트를 떠나지 않고 Google Pay로 결제할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Google의 Ashish Gupta는 \"Newegg가 Google에서 UCP-powered 결제를 도입한 것은 에이전틱 커머스를 확장하는 과정의 새 이정표\"라고 말했다."
+                "x": "발언은 세 사람이 Meta의 AI 어시스턴트 Muse와, 명령하면 상품을 사 주는 Muse의 기능을 두고 이야기하던 중에 나왔다. Amazon은 최근 Muse가 자사 사이트에서 쇼핑하지 못하게 막았고, Zuckerberg는 이를 막는 기업들이 후회하게 될 것이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Newegg、UCP導入\nGeminiで直接決済",
-          "body": "Neweggの商品をSearch、AI Mode、Geminiで直接買えるようになった。",
-          "mini_headline": "NeweggがGeminiで決済に対応",
+          "headline": "Stripe、9月から\nエージェント取引が急増",
+          "body": "StripeのJohn Collisonは、9月からエージェント取引が急増したと語った。",
+          "mini_headline": "Stripeのエージェント取引が急伸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+                "cap": "Stripe社長のJohn Collison。Getty Images Entertainment via Getty Images"
               },
               {
                 "t": "p",
-                "x": "NeweggはオンラインチェックアウトにGoogleのUniversal Commerce Protocol（UCP）を統合した。GoogleがUCPを一月に投入して以来対応してきたWayfair、Walmart、Macy'sなどに続く動きだ。Newegg-soldの商品、つまりNeweggが販売する商品は、GoogleのAI Mode、Google Search、Gemini内で購入できるようになる。"
+                "x": "Stripe社長のJohn Collisonは、自身のポッドキャスト「Cheeky Pint」でMeta PlatformsのCEO Mark Zuckerberg、最高AI責任者Alexandr Wangと対談し、Stripe上のエージェント型コマースが9月から急増したと述べた。"
               },
               {
                 "t": "p",
-                "x": "Neweggの最高情報責任者Montaque Houは「AIは世界がテクノロジーを買う方法を変えつつあり、Neweggはその変化の最前線に立つつもりだ」と述べた。NeweggはGoogleに商品カタログデータを提供しつつ、販売主体の立場を維持する。"
+                "x": "「…5月のSessionsでたくさんの発表をしたが、9月になってようやく、ほぼ垂直に伸び始めた」とCollisonは語った。具体的な数字は示さなかった。"
               },
               {
                 "t": "p",
-                "x": "今回の動きは、Newegg独自の対話型AIアシスタントCelesteや、Perplexityの検索への商品掲載対応に続くものだ。買い物客は検索結果やプロンプトから離れずにGoogle Payを使える。"
-              },
-              {
-                "t": "p",
-                "x": "GoogleのAshish Guptaは「NeweggがGoogle上でUCP-poweredのチェックアウトを有効にしたことは、エージェント型コマースを拡大するうえで新たな節目となる」と述べた。"
+                "x": "この発言は、3人がMetaのAIアシスタントMuseと、指示に応じて商品を購入するその機能について話す中で出た。Amazonは最近、Museによる自社サイトでの買い物を禁止した。Zuckerbergは、Museを締め出す企業はおそらく後悔することになると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Newegg接入UCP\nGemini内直接结账",
-          "body": "接入Google UCP后，Newegg商品可在AI Mode和Gemini中直接购买。",
-          "mini_headline": "Newegg在Gemini中结账",
+          "headline": "Stripe：智能体商务\n自9月起直线飙升",
+          "body": "Stripe的John Collison称，Stripe上的智能体商务自9月起直线上升。",
+          "mini_headline": "Stripe智能体交易起飞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+                "cap": "Stripe总裁John Collison。Getty Images Entertainment via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Newegg已在线上结账中接入Google的Universal Commerce Protocol（UCP），跟随自Google一月推出UCP以来便提供支持的Wayfair、Walmart、Macy's等商家。Newegg-sold商品，即Newegg销售的商品，将可在Google的AI Mode、Google Search和Gemini中购买。"
+                "x": "Stripe总裁John Collison在自己的Cheeky Pint播客中与Meta Platforms CEO Mark Zuckerberg及首席AI官Alexandr Wang对谈时表示，Stripe上的智能体商务从9月开始急剧增长。"
               },
               {
                 "t": "p",
-                "x": "Newegg首席信息官Montaque Hou表示：“AI正在改变全世界购买科技产品的方式，Newegg希望站在这场变革的最前沿。”Newegg在向Google提供商品目录数据的同时，仍是记录在案的销售方。"
+                "x": "Collison说：“…我们5月在Sessions上发布了一大堆内容，然后直到9月，它才基本上开始直线上升。”他没有给出具体数字。"
               },
               {
                 "t": "p",
-                "x": "此前，Newegg已推出自有对话式AI助手Celeste，并支持在Perplexity搜索中展示商品。购物者无需离开搜索结果或提示即可使用Google Pay。"
-              },
-              {
-                "t": "p",
-                "x": "Google的Ashish Gupta表示：“Newegg在Google上启用UCP-powered结账，标志着我们扩展智能体商务的一个新里程碑。”"
+                "x": "这番话出现在三人讨论Meta的AI助手Muse及其按指令购买商品的能力时。Amazon最近禁止Muse在其网站上购物；Zuckerberg表示，屏蔽它的公司很可能会后悔。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Newegg integra Google UCP\npara pagar en AI Mode y Gemini",
-          "body": "La integración de Newegg con Google UCP permite encontrar y comprar sus productos en Search, AI Mode y Gemini.",
-          "mini_headline": "Newegg habilita el pago en Gemini",
+          "headline": "Stripe: el comercio agéntico\nse disparó en septiembre",
+          "body": "John Collison dijo que el comercio agéntico en Stripe empezó a dispararse en septiembre, tras sus anuncios de mayo.",
+          "mini_headline": "Las ventas con agentes de Stripe despegan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+                "cap": "John Collison, presidente de Stripe. Getty Images Entertainment via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Newegg ha integrado el Universal Commerce Protocol (UCP) de Google para el checkout en línea, después de Wayfair, Walmart, Macy's y otros que admiten UCP desde que Google lo lanzó en enero. Los productos Newegg-sold, es decir, vendidos por Newegg, podrán comprarse dentro de AI Mode, Google Search y Gemini de Google."
+                "x": "El presidente de Stripe, John Collison, afirmó en su pódcast Cheeky Pint, en una conversación con el CEO de Meta Platforms, Mark Zuckerberg, y el director de AI, Alexandr Wang, que el comercio agéntico en Stripe aumentó con fuerza a partir de septiembre."
               },
               {
                 "t": "p",
-                "x": "\"La AI está cambiando la forma en que el mundo compra tecnología, y Newegg quiere estar a la vanguardia de ese cambio\", dijo Montaque Hou, director de información de Newegg. Newegg sigue siendo el comerciante registrado y proporciona a Google los datos de su catálogo de productos."
+                "x": "“…hicimos un montón de anuncios en Sessions en mayo, y luego solo a partir de septiembre empezó básicamente a crecer en vertical”, dijo Collison. No dio cifras concretas."
               },
               {
                 "t": "p",
-                "x": "La medida llega después de Celeste, el asistente conversacional de AI propio de Newegg, y del soporte para listados en la búsqueda de Perplexity. Los compradores pueden usar Google Pay sin salir de sus resultados de búsqueda ni de sus prompts."
-              },
-              {
-                "t": "p",
-                "x": "\"Que Newegg habilite el checkout UCP-powered en Google marca un nuevo hito mientras escalamos el comercio agéntico\", dijo Ashish Gupta, de Google."
+                "x": "El comentario surgió mientras los tres hablaban de Muse, el asistente de AI de Meta, y de su capacidad para comprar productos cuando se le ordena. Amazon prohibió hace poco que Muse compre en su sitio; Zuckerberg dijo que las empresas que lo bloqueen probablemente se arrepentirán."
               }
             ]
           }
@@ -1411,121 +1333,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Newegg, UCP 도입\nGemini서 바로 결제",
-          "body": "Newegg 상품을 AI Mode와 Gemini에서 바로 살 수 있게 됐다.",
-          "mini_headline": "Newegg, Gemini에서 결제",
+          "headline": "Stripe, 9월부터\n에이전트 거래 급증",
+          "body": "Stripe의 John Collison은 에이전트 거래가 9월 급증했다고 말했다.",
+          "mini_headline": "Stripe 에이전트 거래 급증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+                "cap": "Stripe 사장 John Collison. Getty Images Entertainment via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Newegg가 온라인 결제에 Google의 Universal Commerce Protocol(UCP)을 도입했다. Google이 1월 UCP를 출시한 이후 이를 지원해 온 Wayfair, Walmart, Macy's 등의 뒤를 잇는다. Newegg-sold 상품, 즉 Newegg가 판매하는 상품은 Google의 AI Mode, Google Search, Gemini 안에서 구매할 수 있게 된다."
+                "x": "Stripe 사장 John Collison은 자신의 Cheeky Pint 팟캐스트에서 Meta Platforms CEO Mark Zuckerberg, 최고 AI 책임자 Alexandr Wang과 대화하며 Stripe의 에이전트 커머스가 9월부터 급격히 늘었다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Newegg의 최고정보책임자 Montaque Hou는 \"AI는 세계가 기술을 사는 방식을 바꾸고 있으며, Newegg는 그 변화의 선두에 서려 한다\"고 말했다. Newegg는 Google에 상품 카탈로그 데이터를 제공하면서도 판매 당사자 지위를 유지한다."
+                "x": "Collison은 “…5월 Sessions에서 발표를 잔뜩 했는데, 9월이 돼서야 사실상 수직 상승하기 시작했다”고 말했다. 구체적인 수치는 밝히지 않았다."
               },
               {
                 "t": "p",
-                "x": "이번 조치는 Newegg의 자체 대화형 AI 어시스턴트 Celeste와 Perplexity 검색 내 상품 노출 지원에 이은 것이다. 쇼핑객은 검색 결과나 프롬프트를 벗어나지 않고 Google Pay로 결제할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Google의 Ashish Gupta는 \"Newegg가 Google에서 UCP-powered 결제를 도입한 것은 에이전틱 커머스를 확장하는 과정의 새 이정표\"라고 말했다."
+                "x": "이 발언은 세 사람이 Meta의 AI 어시스턴트 Muse와, 명령에 따라 상품을 사는 Muse의 기능을 이야기하던 중에 나왔다. Amazon은 최근 Muse가 자사 사이트에서 쇼핑하지 못하도록 막았고, Zuckerberg는 이를 막는 기업들이 후회하게 될 것이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Newegg、UCP導入\nGeminiで直接決済",
-          "body": "Neweggの商品をSearch、AI Mode、Geminiで直接買えるようになった。",
-          "mini_headline": "NeweggがGeminiで決済に対応",
+          "headline": "Stripe、9月から\nエージェント取引が急増",
+          "body": "StripeのJohn Collisonは、9月からエージェント取引が急増したと語った。",
+          "mini_headline": "Stripeのエージェント取引が急伸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+                "cap": "Stripe社長のJohn Collison。Getty Images Entertainment via Getty Images"
               },
               {
                 "t": "p",
-                "x": "NeweggはオンラインチェックアウトにGoogleのUniversal Commerce Protocol（UCP）を統合した。GoogleがUCPを一月に投入して以来対応してきたWayfair、Walmart、Macy'sなどに続く動きだ。Newegg-soldの商品、つまりNeweggが販売する商品は、GoogleのAI Mode、Google Search、Gemini内で購入できるようになる。"
+                "x": "Stripe社長のJohn Collisonは、自身のポッドキャスト「Cheeky Pint」でMeta PlatformsのCEO Mark Zuckerberg、最高AI責任者Alexandr Wangと対談し、Stripe上のエージェント型コマースが9月から急増したと述べた。"
               },
               {
                 "t": "p",
-                "x": "Neweggの最高情報責任者Montaque Houは「AIは世界がテクノロジーを買う方法を変えつつあり、Neweggはその変化の最前線に立つつもりだ」と述べた。NeweggはGoogleに商品カタログデータを提供しつつ、販売主体の立場を維持する。"
+                "x": "「…5月のSessionsでたくさんの発表をしたが、9月になってようやく、ほぼ垂直に伸び始めた」とCollisonは語った。具体的な数字は示さなかった。"
               },
               {
                 "t": "p",
-                "x": "今回の動きは、Newegg独自の対話型AIアシスタントCelesteや、Perplexityの検索への商品掲載対応に続くものだ。買い物客は検索結果やプロンプトから離れずにGoogle Payを使える。"
-              },
-              {
-                "t": "p",
-                "x": "GoogleのAshish Guptaは「NeweggがGoogle上でUCP-poweredのチェックアウトを有効にしたことは、エージェント型コマースを拡大するうえで新たな節目となる」と述べた。"
+                "x": "この発言は、3人がMetaのAIアシスタントMuseと、指示に応じて商品を購入するその機能について話す中で出た。Amazonは最近、Museによる自社サイトでの買い物を禁止した。Zuckerbergは、Museを締め出す企業はおそらく後悔することになると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Newegg接入UCP\nGemini内直接结账",
-          "body": "接入Google UCP后，Newegg商品可在AI Mode和Gemini中直接购买。",
-          "mini_headline": "Newegg在Gemini中结账",
+          "headline": "Stripe：智能体商务\n自9月起直线飙升",
+          "body": "Stripe的John Collison称，Stripe上的智能体商务自9月起直线上升。",
+          "mini_headline": "Stripe智能体交易起飞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+                "cap": "Stripe总裁John Collison。Getty Images Entertainment via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Newegg已在线上结账中接入Google的Universal Commerce Protocol（UCP），跟随自Google一月推出UCP以来便提供支持的Wayfair、Walmart、Macy's等商家。Newegg-sold商品，即Newegg销售的商品，将可在Google的AI Mode、Google Search和Gemini中购买。"
+                "x": "Stripe总裁John Collison在自己的Cheeky Pint播客中与Meta Platforms CEO Mark Zuckerberg及首席AI官Alexandr Wang对谈时表示，Stripe上的智能体商务从9月开始急剧增长。"
               },
               {
                 "t": "p",
-                "x": "Newegg首席信息官Montaque Hou表示：“AI正在改变全世界购买科技产品的方式，Newegg希望站在这场变革的最前沿。”Newegg在向Google提供商品目录数据的同时，仍是记录在案的销售方。"
+                "x": "Collison说：“…我们5月在Sessions上发布了一大堆内容，然后直到9月，它才基本上开始直线上升。”他没有给出具体数字。"
               },
               {
                 "t": "p",
-                "x": "此前，Newegg已推出自有对话式AI助手Celeste，并支持在Perplexity搜索中展示商品。购物者无需离开搜索结果或提示即可使用Google Pay。"
-              },
-              {
-                "t": "p",
-                "x": "Google的Ashish Gupta表示：“Newegg在Google上启用UCP-powered结账，标志着我们扩展智能体商务的一个新里程碑。”"
+                "x": "这番话出现在三人讨论Meta的AI助手Muse及其按指令购买商品的能力时。Amazon最近禁止Muse在其网站上购物；Zuckerberg表示，屏蔽它的公司很可能会后悔。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Newegg integra Google UCP\npara pagar en AI Mode y Gemini",
-          "body": "La integración de Newegg con Google UCP permite encontrar y comprar sus productos en Search, AI Mode y Gemini.",
-          "mini_headline": "Newegg habilita el pago en Gemini",
+          "headline": "Stripe: el comercio agéntico\nse disparó en septiembre",
+          "body": "John Collison dijo que el comercio agéntico en Stripe empezó a dispararse en septiembre, tras sus anuncios de mayo.",
+          "mini_headline": "Las ventas con agentes de Stripe despegan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/newegg-google-ucp-scaled.jpeg"
+                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
+                "cap": "John Collison, presidente de Stripe. Getty Images Entertainment via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Newegg ha integrado el Universal Commerce Protocol (UCP) de Google para el checkout en línea, después de Wayfair, Walmart, Macy's y otros que admiten UCP desde que Google lo lanzó en enero. Los productos Newegg-sold, es decir, vendidos por Newegg, podrán comprarse dentro de AI Mode, Google Search y Gemini de Google."
+                "x": "El presidente de Stripe, John Collison, afirmó en su pódcast Cheeky Pint, en una conversación con el CEO de Meta Platforms, Mark Zuckerberg, y el director de AI, Alexandr Wang, que el comercio agéntico en Stripe aumentó con fuerza a partir de septiembre."
               },
               {
                 "t": "p",
-                "x": "\"La AI está cambiando la forma en que el mundo compra tecnología, y Newegg quiere estar a la vanguardia de ese cambio\", dijo Montaque Hou, director de información de Newegg. Newegg sigue siendo el comerciante registrado y proporciona a Google los datos de su catálogo de productos."
+                "x": "“…hicimos un montón de anuncios en Sessions en mayo, y luego solo a partir de septiembre empezó básicamente a crecer en vertical”, dijo Collison. No dio cifras concretas."
               },
               {
                 "t": "p",
-                "x": "La medida llega después de Celeste, el asistente conversacional de AI propio de Newegg, y del soporte para listados en la búsqueda de Perplexity. Los compradores pueden usar Google Pay sin salir de sus resultados de búsqueda ni de sus prompts."
-              },
-              {
-                "t": "p",
-                "x": "\"Que Newegg habilite el checkout UCP-powered en Google marca un nuevo hito mientras escalamos el comercio agéntico\", dijo Ashish Gupta, de Google."
+                "x": "El comentario surgió mientras los tres hablaban de Muse, el asistente de AI de Meta, y de su capacidad para comprar productos cuando se le ordena. Amazon prohibió hace poco que Muse compre en su sitio; Zuckerberg dijo que las empresas que lo bloqueen probablemente se arrepentirán."
               }
             ]
           }

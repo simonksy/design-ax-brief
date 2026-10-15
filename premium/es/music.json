@@ -6722,6 +6722,105 @@
           "x": "Deezer afirma que detectó más de 42 millones de pistas AI-generated entre enero de 2025 y agosto de 2026, y que ha etiquetado más de 14 millones de álbumes desde que empezó a señalar la música AI-generated en junio de 2025."
         }
       ]
+    },
+    "music/music-point-and-play": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los sintetizadores neuronales de instrumentos pueden clonar el timbre de un instrumento solista, pero el instrumento de interés suele estar inmerso en una grabación multiinstrumental con producción completa. Separar primero la fuente puede introducir artefactos de separación y probablemente sea un rodeo."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
+          "cap": "Figura 1: A partir de una mezcla polifónica y una indicación de audio o texto, el sistema extrae el timbre de la fuente indicada y genera nuevas alturas y velocidades."
+        },
+        {
+          "t": "p",
+          "x": "Point-and-Play clona el timbre de una fuente indicada directamente desde una mezcla polifónica. Un módulo Cue-Gated Statistics Pooling (CGSP) extrae el código de timbre del instrumento indicado a partir de embeddings CLAP adaptados de la mezcla."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
+          "cap": "Figura 2: Arquitectura de Point-and-Play."
+        },
+        {
+          "t": "p",
+          "x": "Ese código de timbre condiciona un sintetizador de notas entrenado por separado, junto con entradas de altura y velocidad. En los experimentos, el sistema supera a las referencias que separan y luego clonan en fidelidad tímbrica y calidad de síntesis, con un rendimiento comparable al de clonar desde un instrumento solista limpio."
+        }
+      ]
+    },
+    "music/music-blackburn-kendrick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
+          "cap": "La senadora Marsha Blackburn"
+        },
+        {
+          "t": "p",
+          "x": "El intento de la senadora de EE. UU. (U.S.) Marsha Blackburn de movilizar las redes sociales en su campaña para gobernadora de Tennessee le salió mal: recibió burlas por publicar un clip AI-generated en el que aparece interpretando “Not Like Us” como Kendrick Lamar en el Super Bowl LIX."
+        },
+        {
+          "t": "p",
+          "x": "“Mañana. Listos para arrancar”, escribió en X junto al clip, en el que aparecen de fondo Kane (Glenn Jacobs), el representante Tim Burchett, el senador Bill Hagerty y el senador estatal Brent Taylor. Billboard ha contactado a los representantes de Kendrick Lamar para pedir comentarios."
+        },
+        {
+          "t": "p",
+          "x": "Las respuestas se llenaron rápidamente; algunos calificaron el clip de “dolorosamente vergonzoso” y de “bazofia de IA”. Uno escribió: “Encontraste la manera de hacer que la inteligencia artificial parezca estúpida”."
+        },
+        {
+          "t": "p",
+          "x": "Su rival demócrata, Jerri Green, escribió en X: “Cuando digo que por favor dejen de usar IA para apoyar nuestra campaña, me refiero a esto”."
+        },
+        {
+          "t": "p",
+          "x": "Lamar ganó un segundo Primetime Emmy por su actuación en el espectáculo de medio tiempo del Super Bowl LIX, en febrero de 2025 en Nueva Orleans."
+        }
+      ]
+    },
+    "music/music-awards-ai-age": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+        },
+        {
+          "t": "p",
+          "x": "Shamielle Alston, quien fundó la Academy of Emerging Music Arts & Sciences (AEMAS), escribe que la IA obliga a las organizaciones de premios a preguntarse quién, o qué, creó una obra. Pulsar un botón y aceptar el primer resultado no es el mismo acto creativo que escribir, descartar decenas de resultados, reorientar la tecnología y editar hasta que el resultado refleje lo que se pretendía."
+        },
+        {
+          "t": "p",
+          "x": "Si una organización de premios reconoce música AI-assisted o AI-directed, debería poder explicar qué está reconociendo. Para Alston, una idea clave es la dirección creativa humana: quién originó el concepto, tomó las decisiones significativas, lo revisó y puede explicar por qué la obra suena como suena."
+        },
+        {
+          "t": "p",
+          "x": "Los AEMAS's Ellison Awards, en su primera edición, aplican revisión de elegibilidad, evaluación a ciegas con cinco jueces por candidatura y salvaguardas frente a conflictos de interés. Las candidaturas para los premios de 2027 se abren el 1 de noviembre de 2026, con una categoría específica de AI Creative Direction."
+        }
+      ]
+    },
+    "music/music-youtube-ai-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080"
+        },
+        {
+          "t": "p",
+          "x": "YouTube Music anunció el miércoles el despliegue de un nuevo sistema de etiquetas para mejorar la transparencia sobre las canciones creadas con ayuda de AI generativa, incluidas las pistas en las que la AI intervino en la composición y las voces. La etiqueta aparece en la página del reproductor y, al pulsarla, explica el papel concreto de la AI en la pista; las etiquetas también llegarán a la aplicación principal de YouTube."
+        },
+        {
+          "t": "p",
+          "x": "YouTube afirmó que colaboró con sus socios musicales y desplegó sus propias herramientas de detección. Los socios pueden declarar el uso de AI generativa mediante una de tres categorías: Fully Gen AI, Partly Gen AI o No Gen AI. Las pistas editadas con herramientas de corrección de tono como Auto-Tune entran en No Gen AI."
+        },
+        {
+          "t": "p",
+          "x": "Otras plataformas siguen sus propios enfoques: Apple Music prevé etiquetas “Made With AI”, Spotify tiene etiquetas de AI y un filtro de spam musical, Deezer —que en julio informó de que recibía cerca de 90,000 pistas totalmente AI-generated al día— excluye la música de AI detectada de las recomendaciones algorítmicas y de las listas editoriales, y TIDAL permite a los oyentes desactivar las grabaciones totalmente AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "YouTube, en cambio, se centra en la divulgación más que en restricciones generales: la sola participación de la AI no hace que una pista quede excluida de la monetización."
+        }
+      ]
     }
   }
 }

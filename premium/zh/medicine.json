@@ -970,6 +970,107 @@
           "x": "MHRA首席执行官Lawrence Tallon表示，由NHS医生领导的委员会“为我们提供了清晰而雄心勃勃的蓝图”。面向申请者的网络研讨会将于10月22日举行，首批创新者将于2026年11月选出。"
         }
       ]
+    },
+    "medicine/medicine-openevidence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Oct. 15发表在JAMA上的一项横断面研究，分析了Jan. 1, 2024至June 30, 2026期间拥有NPI-verified（经NPI验证）OpenEvidence账户的临床医生。"
+        },
+        {
+          "t": "p",
+          "x": "在这2.5年里，952,008名临床医生（其中医生556,200名）共提交了 271M 次提问。月活跃用户从355人增至703,265人，每位活跃用户的月均提问数从18.0次升至39.5次。"
+        },
+        {
+          "t": "p",
+          "x": "执业护士和医师助理（每活跃用户月各44.5次）的使用量高于医生（37.1次）。使用最多的是肿瘤与血液科、内科和家庭医学科，最少的是眼科、放射科和骨科。"
+        },
+        {
+          "t": "p",
+          "x": "多数提问（51.9%）涉及临床决策，主要是治疗与管理（33.1%）；诊断占13.9%。超出医生本专科的提问比例，从肿瘤科医生的35%到急诊科医生的88%不等。"
+        }
+      ]
+    },
+    "medicine/medicine-ama-agentic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+          "cap": "AMA框架提出了评估临床AI智能体的四个问题。"
+        },
+        {
+          "t": "p",
+          "x": "美国医学会（American Medical Association）发布了用于执行临床任务的AI智能体治理框架，围绕四个问题展开：AI承担什么临床功能；什么能证明它胜任，以及失败后会怎样；它应被允许做什么、在什么条件下做；以及谁为风险和结果负责。"
+        },
+        {
+          "t": "p",
+          "x": "由于智能体工具可以在没有人工监督的情况下完成多步骤任务，不准确或带有偏见的决策可能在临床医生介入之前就对患者造成重大伤害。框架指出：“随着AI能力的进步，证据、权限、监督和问责必须始终保持一致，以服务于更好的患者照护。”"
+        },
+        {
+          "t": "p",
+          "x": "在最近一项针对250名U.S.医疗领导者的调查中，约28%表示所在机构已部署智能体AI，44%正在试点。在缺乏实质性联邦AI监管的情况下，行业团体正在提供指导；2025年，47个州提出了250多项影响医疗的AI法案。"
+        }
+      ]
+    },
+    "medicine/medicine-rare-phenotype": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "表型分析是罕见病诊断的基础，但从临床记录中人工整理结构化表型费时费力，也难以规模化。现有AI方法只优化了单个环节，未能让完整工作流程真正投入运行。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员开发了端到端AI框架RARE-PHENIX，它结合了基于大语言模型的表型提取、基于本体映射到Human Phenotype Ontology（HPO）术语的标准化，以及HPO术语的监督排序。"
+        },
+        {
+          "t": "p",
+          "x": "该框架使用Undiagnosed Diseases Network 11个站点2,671名患者的数据进行训练，并在Vanderbilt University Medical Center 143名患者的16,357份临床记录上进行了外部验证。其优先排序的HPO术语与临床医生的人工整理高度一致，有望在真实世界中支持human-in-the-loop表型分析。"
+        }
+      ]
+    },
+    "medicine/medicine-ed-forecast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "急诊科拥挤与治疗延误和死亡率上升相关，而主动排班需要可靠的短期需求预测。目前投入运行的模型大多依赖时间或天气规律。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员在中国武汉一家三级教学医院，将213,138次就诊汇总为22,883个逐小时观测值，用XGBoost检验社区层面的健康社会决定因素（SDoH）相比天气能否改进逐小时ED需求预测。"
+        },
+        {
+          "t": "p",
+          "x": "纳入动态SDoH特征的模型始终优于仅用天气的模型。综合模型的RMSE为3.48，MAE为每小时2.62人次（R² 0.68），误差约为每小时2至3名患者，表明可实际用于短期排班和容量规划。"
+        }
+      ]
+    },
+    "medicine/medicine-mhra-2030": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "药品和保健品监管局(Medicines and Healthcare products Regulatory Agency,MHRA)在其2030战略(2030 Strategy)中提出计划,将前沿科学与技术创新转化为UK四个地区所有患者更好的健康结果。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
+        },
+        {
+          "t": "p",
+          "x": "到2030年,MHRA的目标是更加以患者为中心,支持更快获得安全、有效的治疗,并提升数据互联水平和全球影响力。卫生创新大臣James Frith表示,该战略将帮助MHRA跟上AI、数据和医学领域的最新创新。"
+        },
+        {
+          "t": "p",
+          "x": "首席执行官Lawrence Tallon表示,AI正在改变受监管的产品以及组织的运作方式,这些发展对传统监管模式构成挑战。"
+        },
+        {
+          "t": "p",
+          "x": "在AI方面,MHRA承诺开发AI-enabled临床试验方案检查工具(Clinical Trial Protocol Checker),于2027年发布AI药物研发行动计划(AI Medicines Development Action Plan),设立MHRA AI与数字健康中心(MHRA Centre for AI and Digital Health),并为作为医疗器械的AI建立现代、适应性的监管框架。它还将利用AI分析真实世界数据,更早识别潜在安全问题。"
+        },
+        {
+          "t": "p",
+          "x": "其他承诺包括将科学咨询服务时间从90天缩短至45天,将符合条件的Phase 1试验初始评估目标时间减半至14天,以及制定女性健康计划(Women's Health Plan)。"
+        }
+      ]
     }
   }
 }

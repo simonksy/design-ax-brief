@@ -970,6 +970,107 @@
           "x": "Lawrence Tallon, director ejecutivo de la MHRA, afirmó que la Comisión, dirigida por médicos del NHS, \"nos ha dado un plan claro y ambicioso\". El 22 de octubre se celebrará un seminario web para solicitantes; la primera tanda de innovadores se seleccionará en noviembre de 2026."
         }
       ]
+    },
+    "medicine/medicine-openevidence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un estudio transversal publicado el Oct. 15 en JAMA analizó a clínicos con cuentas de OpenEvidence NPI-verified (verificadas por NPI) entre el Jan. 1, 2024 y el June 30, 2026."
+        },
+        {
+          "t": "p",
+          "x": "En el periodo de 2.5 años, 952,008 clínicos, entre ellos 556,200 médicos, enviaron 271 millones de consultas. Los usuarios activos mensuales pasaron de 355 a 703,265, y el promedio mensual de consultas por usuario activo subió de 18.0 a 39.5."
+        },
+        {
+          "t": "p",
+          "x": "Los enfermeros de práctica avanzada y los asistentes médicos (44.5 consultas por usuario activo al mes cada uno) superaron a los médicos (37.1). El uso fue mayor en oncología y hematología, medicina interna y medicina familiar, y menor en oftalmología, radiología y ortopedia."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de las consultas (51.9%) trató sobre la toma de decisiones clínicas, sobre todo tratamiento y manejo (33.1%); el diagnóstico representó el 13.9%. Las consultas fuera de la propia especialidad del médico oscilaron entre el 35% de los oncólogos y el 88% de los médicos de urgencias."
+        }
+      ]
+    },
+    "medicine/medicine-ama-agentic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
+          "cap": "El marco de la AMA plantea cuatro preguntas para evaluar agentes de AI clínicos."
+        },
+        {
+          "t": "p",
+          "x": "La American Medical Association publicó un marco de gobernanza para agentes de AI que realizan tareas clínicas, articulado en torno a cuatro preguntas: qué función clínica cumple la AI, qué demuestra que puede hacerlo y qué ocurre si falla, qué debería permitírsele hacer y en qué condiciones, y quién es responsable de los riesgos y los resultados."
+        },
+        {
+          "t": "p",
+          "x": "Como las herramientas agénticas pueden completar tareas de varios pasos sin supervisión humana, una decisión inexacta o sesgada podría causar un daño significativo al paciente antes de que un clínico pueda intervenir. “A medida que avanzan las capacidades de la AI, la evidencia, la autoridad, la supervisión y la rendición de cuentas deben seguir alineadas al servicio de una mejor atención al paciente”, afirma el marco."
+        },
+        {
+          "t": "p",
+          "x": "En una encuesta reciente a 250 líderes de salud de U.S., alrededor del 28% dijo que su organización ha implementado AI agéntica y el 44% la está probando en pilotos. Ante la falta de una regulación federal sustantiva sobre AI, los grupos del sector ofrecen orientación; 47 estados presentaron más de 250 proyectos de ley sobre AI que afectan a la salud en 2025."
+        }
+      ]
+    },
+    "medicine/medicine-rare-phenotype": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El fenotipado es fundamental para diagnosticar enfermedades raras, pero curar manualmente fenotipos estructurados a partir de notas clínicas exige mucho trabajo y es difícil de escalar. Los enfoques de AI existentes optimizan componentes individuales, pero no ponen en práctica el flujo de trabajo completo."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores desarrollaron RARE-PHENIX, un marco de AI de extremo a extremo que combina la extracción de fenotipos basada en modelos de lenguaje de gran tamaño, la estandarización anclada en ontologías a términos de la Human Phenotype Ontology (HPO) y la jerarquización supervisada de términos HPO."
+        },
+        {
+          "t": "p",
+          "x": "Se entrenó con datos de 2,671 pacientes de 11 centros de la Undiagnosed Diseases Network y se validó externamente con 16,357 notas clínicas de 143 pacientes del Vanderbilt University Medical Center. Sus términos HPO priorizados mostraron una alta concordancia con la curación clínica, y podría apoyar el fenotipado human-in-the-loop en entornos reales."
+        }
+      ]
+    },
+    "medicine/medicine-ed-forecast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La saturación de los servicios de urgencias se asocia con retrasos en el tratamiento y mayor mortalidad, y planificar el personal de forma proactiva requiere previsiones fiables de la demanda a corto plazo. La mayoría de los modelos operativos se basan en patrones temporales o meteorológicos."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores evaluaron si los determinantes sociales de la salud (SDoH) a nivel comunitario mejoran la predicción horaria de la demanda del ED frente al clima, usando XGBoost con 213,138 atenciones agregadas en 22,883 observaciones horarias en un hospital universitario de tercer nivel en Wuhan, China."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos con variables dinámicas de SDoH superaron de forma sistemática a los modelos solo con clima. El modelo compuesto alcanzó un RMSE de 3.48 y un MAE de 2.62 visitas por hora (R² 0.68), errores de unos 2 a 3 pacientes por hora, lo que sugiere un uso práctico para la planificación de personal y capacidad a corto plazo."
+        }
+      ]
+    },
+    "medicine/medicine-mhra-2030": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Medicines and Healthcare products Regulatory Agency (MHRA) ha presentado en su Estrategia 2030 (2030 Strategy) planes para convertir la innovación científica y tecnológica de vanguardia en mejores resultados de salud para los pacientes de las cuatro naciones del UK."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ace1775c84c8ff1bc8b8026/s960_Strategy-press-release-gov.uk.png"
+        },
+        {
+          "t": "p",
+          "x": "Para 2030, la MHRA aspira a estar más centrada en el paciente, facilitar un acceso más rápido a tratamientos seguros y eficaces, y tener más conectividad de datos e influencia global. El ministro de innovación sanitaria, James Frith, afirmó que la estrategia ayudará a la MHRA a seguir el ritmo de las últimas innovaciones en AI, datos y medicina."
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo, Lawrence Tallon, afirmó que la AI está transformando tanto los productos regulados como la forma en que se gestionan las organizaciones, y que estos avances ponen a prueba los modelos regulatorios tradicionales."
+        },
+        {
+          "t": "p",
+          "x": "En materia de AI, la MHRA se compromete a desarrollar un AI-enabled Clinical Trial Protocol Checker (verificador de protocolos de ensayos clínicos), publicar un AI Medicines Development Action Plan en 2027, crear un MHRA Centre for AI and Digital Health y establecer un marco regulatorio moderno y adaptable para la AI como producto sanitario. También usará la AI para analizar datos del mundo real e identificar antes posibles problemas de seguridad."
+        },
+        {
+          "t": "p",
+          "x": "Otros compromisos incluyen reducir el servicio de asesoramiento científico de 90 a 45 días, recortar a la mitad, hasta 14 días, el objetivo de evaluación inicial de los ensayos de Phase 1 que cumplan los requisitos, y un Women's Health Plan."
+        }
+      ]
     }
   }
 }
