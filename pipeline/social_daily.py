@@ -128,10 +128,15 @@ def story_spec(sec, date, card, key, rel):
     ps = paras(card)
     steps = ["무슨 일인가", "어떻게 되는가", "짚을 대목", "그래서 지금"]
     head = fit(ko_text(card, "headline"), HEAD_MAX)
-    # 한 그림을 다섯 장에 그대로 깔면 넘기는 사람에게는 같은 장을 다섯 번
-    # 보여 주는 셈이다(social_story_variety_test 가 막는다). 영상은 서로 다른
-    # 대목을 끊어 쓰고, 스틸은 표지에만 쓴다 — 남는 장은 비워 두고, 올리기로
-    # 정한 회차에서 사람이 stat·quote 로 채운다.
+    # **초안은 모든 장에 그림이 있어야 한다.** 스틸을 표지에만 쓰게 했더니
+    # 가운데 네 장이 빈 칸으로 나와 "카드 자체가 없어 판단할 수가 없다"는
+    # 지적을 받았다. 초안의 일은 고를 수 있게 하는 것이고, 고르는 데 필요한
+    # 것은 전체 구성이다 — 썸네일이 겹치는 것은 그다음 문제다.
+    #
+    # 그래서 영상은 4초씩 다른 대목을 끊어 쓰고(이건 공짜로 다양해진다),
+    # 스틸은 다섯 장에 같은 그림을 깐다. 같은 그림으로 **올리는** 것은
+    # social_story_variety_test 가 막는다 — 표시(!·*)를 붙인 회차만 보므로,
+    # 고른 뒤 stat·quote 로 세우지 않으면 발행 전에 걸린다.
     starts = [None] * 5
     if key == "video":
         n = max(1, int(clip_seconds(rel) // 4))      # 4초씩 끊어 쓸 수 있는 칸
@@ -151,12 +156,16 @@ def story_spec(sec, date, card, key, rel):
              "foot": date.replace("-", ".")}
         if key == "video" and starts[i + 1] is not None:
             c.update({"video": rel, "start": starts[i + 1], "dur": 4})
+        elif key == "video":
+            c["video"] = rel                 # 클립이 짧으면 앞 대목을 다시 쓴다
+        elif key == "media":
+            c["media"] = rel
         cards.append(c)
     cards.append(dict(OUTRO))
     return {"meta": {"issue": fit(ko_text(card, "headline"), 60),
                      "date": date.replace("-", "."), "section": sec.upper(),
                      "accent": ACCENT[sec],
-                     "note": "자동 초안. 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰고, 빈 장은 stat·quote 로 채운다.",
+                     "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
                      "sources": [card.get("url", "")]},
             "cards": cards}
 

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "issue": "애플 AI가 12월 중국에 들어간다",
+    "date": "2026.10.15",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "한 제품을 끝까지 따라간다. 빠지는 기능과 조건까지.",
+    "sources": [
+      "MacRumors — Apple Intelligence launching in China in December with iOS 27.3 (2026.10.14)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "media": "pipeline/media/gadgets-apple-intelligence-china.jpg",
+      "eyebrow": "AI × 가젯 · 2026.10.15",
+      "headline": "애플 AI가 12월 중국에 들어간다",
+      "body": "두 해 끌던 규제가 풀렸다. 공업정보화부가 네트워크 접속 허가를 내주면서 iOS 27.3부터 열린다.",
+      "foot": "밀어서 보기 →",
+      "n": 1
+    },
+    {
+      "kind": "stat",
+      "stat_top": "두 해 지연",
+      "stat_arrow": "끝나고 열리는 때는",
+      "stat_bottom": "12월",
+      "stat_strike": false,
+      "eyebrow": "무슨 일인가",
+      "headline": "7월에 1차 승인, 이번에 접속 허가",
+      "body": "Apple Intelligence는 iOS 18.1에서 처음 나왔지만 중국은 줄곧 빠져 있었다.",
+      "foot": "2026.10.15",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "Siri AI 없음",
+      "stat_arrow": "그래도 들어가는 것은",
+      "stat_bottom": "사진 편집",
+      "stat_strike": false,
+      "eyebrow": "무엇이 빠지나",
+      "headline": "빠지는 건 Siri만이 아니다",
+      "body": "Image Playground와 새 Genmoji도 없고 텍스트 생성도 제한된다. 모델은 Alibaba의 Qwen이 돌린다.",
+      "foot": "2026.10.15",
+      "n": 3
+    },
+    {
+      "kind": "quote",
+      "quote": "애플은 AI 모델을 갱신할 때마다\n중국 정부의 승인을 받아야 한다",
+      "quote_by": "MacRumors · Bloomberg 보도",
+      "eyebrow": "짚을 대목",
+      "headline": "기능을 열어 준 대가가 붙어 있다",
+      "body": "중국은 외국 AI 기술을 제한한다. Huawei 같은 현지 업체가 먼저 AI를 올린 사이 애플은 빈손이었다.",
+      "foot": "2026.10.15",
+      "n": 4
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

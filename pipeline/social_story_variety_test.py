@@ -6,6 +6,11 @@ story 초안이 고른 그림 하나를 다섯 장에 그대로 깔고 있었고
 보고 "카드 썸네일이 다 동일하다, 내용에 맞게 다른 썸네일을 써야지"라는 지적을
 받았다. 넘기는 사람에게는 같은 장을 다섯 번 보는 셈이다.
 
+**초안은 보지 않는다.** 표시(`!` 올릴 것 · `*` 올린 것)를 붙인 회차만 본다.
+초안에서까지 막아 보니 스틸 회차의 가운데 네 장이 빈 칸으로 나왔고, "카드
+자체가 없어 판단할 수가 없다"는 지적을 받았다 — 초안의 일은 **고를 수 있게**
+하는 것이다. 겹친 썸네일로 올리는 것만 막으면 된다.
+
 기준 두 개다:
 
   - 스틸(jpg/png)은 한 회차에서 **한 장만** 쓴다. 남는 장은 stat·quote 처럼
@@ -35,9 +40,19 @@ def _frames(spec):
     return out
 
 
+MARKS = ("!", "*")
+
+
+def marked_specs():
+    """표시된 회차의 cards.json 경로. 초안은 지나간다."""
+    for cp in sorted(glob.glob(os.path.join(POSTS, "*", "*", "*", "cards.json"))):
+        if os.path.basename(os.path.dirname(cp)).startswith(MARKS):
+            yield cp
+
+
 def test_no_card_repeats_a_frame_within_a_post():
     bad = []
-    for cp in sorted(glob.glob(os.path.join(POSTS, "*", "*", "*", "cards.json"))):
+    for cp in marked_specs():
         spec = json.load(open(cp, encoding="utf-8"))
         for frame, ns in _frames(spec).items():
             if len(ns) > 1:
