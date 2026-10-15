@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "신경망 속을 들여다보는 연구가 쌓인다",
+    "date": "2026.10.15",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
+      "https://allenai.org/blog/bolmo-nature",
+      "https://techxplore.com/news/2026-10-spiking-neural-network.html",
+      "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 과학 · 10.10~10.14",
+      "thread": [
+        {
+          "d": "10.10",
+          "t": "기호 구조",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.10",
+          "t": "바이트화",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.10",
+          "t": "스파이킹",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.13",
+          "t": "어텐션",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.14",
+          "t": "자기 배선",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "성능 경쟁 옆에서, 신경망이 안에서 무엇을 어떻게 배우는지 묻는 연구가 이어진다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI가 무엇을 배우는지, 안을 연다",
+      "body": "Yale은 LLM 안의 기호 구조를, MIT는 스스로 배선하는 신경망을 보였다. Quanta는 어텐션이 왜 핵심인지 묻는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "챗봇 안에 생겨난 기호 닮은 구조",
+      "body": "Yale 연구에서 LLM 벡터를 역할·채움 기호로 바꿔도 행동은 거의 그대로였다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/science-llm-symbolic-role-filler.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "기존 언어 모델을 바이트 단위로 개조",
+      "body": "Nature에 실린 Ai2 기법은 짧은 추가 학습만으로 LLMs를 바이트화한다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/science-bolmo-byteification-nature.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "스파이킹 신경망이 배운 무엇·언제·얼마나",
+      "body": "1,000개 뉴런 신경망이 국소 규칙만으로 예측 대상과 시점, 확률을 익혔다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/science-spiking-net-event-timing.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "어텐션은 지능의 본질인가",
+      "body": "언어 모델을 움직이는 어텐션이 왜 AI의 핵심인지 Quanta 칼럼이 묻는다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/science-quanta-attention-intelligence.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "무작위 신경망이 스스로 배선해 배운다",
+      "body": "MIT 연구진이 단순한 배선 규칙으로 무작위 연결망을 학습 체계로 바꿔 보였다.",
+      "foot": "2026.10.14",
+      "media": "pipeline/media/science-mit-self-wiring-learner.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

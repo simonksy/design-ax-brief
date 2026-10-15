@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "issue": "AI가 들어온 뒤 디자이너의 일이 어디로 가나",
+    "date": "2026.10.15",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+      "https://www.nngroup.com/articles/context-libraries/",
+      "https://www.fastcompany.com/91621558/ai-pilled-bosses-and-clients-turning-designers-into-pixel-pushers",
+      "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 10.11~10.15",
+      "thread": [
+        {
+          "d": "10.11",
+          "t": "팀 습관",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.12",
+          "t": "방치된 맥락",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.13",
+          "t": "픽셀 일꾼",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.15",
+          "t": "허리가 빈다",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "도구는 빨라졌는데, 디자이너가 판단하던 중간 단계가 줄어든다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "도구는 빨라지고, 디자인의 중간이 빈다",
+      "body": "닷새 사이 네 글이 같은 자리를 가리킨다. 팀 습관과 컨텍스트 관리가 따라가지 못하면 디자이너에겐 수정만 남는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.11",
+      "headline": "AI 도입을 이끄는 네 가지 팀 습관",
+      "body": "Figma·Mercari·Atlassian·Sephora는 AI 습관을 키운다.",
+      "foot": "2026.10.11",
+      "media": "pipeline/media/figma-ai-team-rituals.png"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.12",
+      "headline": "AI 파워 유저는 컨텍스트 관리에 소홀하다",
+      "body": "NN/g에 따르면 Claude 파워 유저는 컨텍스트 파일을 방치하고 찾지도 못한다.",
+      "foot": "2026.10.12",
+      "media": "pipeline/media/nngroup-context-libraries.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "AI 목업 든 고객, 픽셀 일꾼 된 디자이너",
+      "body": "고객이 내민 AI 목업과 'ChatGPT에 물어봐' 앞에서 디자이너는 수정만 한다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/design-ai-clients-pixel-pushers.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "AI가 디자인의 허리를 비운다",
+      "body": "한 에세이는 비대해진 디자인 프로세스의 허리를 AI가 조인다고 본다.",
+      "foot": "2026.10.15",
+      "media": "pipeline/media/design-hourglass-middle.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

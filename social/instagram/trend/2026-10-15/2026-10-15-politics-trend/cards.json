@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "issue": "규제기관이 AI 모델을 직접 들여다본다",
+    "date": "2026.10.15",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
+      "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
+      "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정책 · 10.10~10.15",
+      "thread": [
+        {
+          "d": "10.10",
+          "t": "중국 모델",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.10",
+          "t": "통제 상실",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.15",
+          "t": "정보 요구",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.15",
+          "t": "사고 보고",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "법 조문을 넘어, 규제기관이 모델을 시험하고 사고 정보를 직접 요구하는 단계로 들어섰다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "규칙 다음은 조사, 기관이 모델을 연다",
+      "body": "EU는 중국 오픈소스 모델을 시험하고 OpenAI·Anthropic에 해킹 사고 정보를 요구했다. UK는 AI 아차 사고 보고를 검토한다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "EU 기관들, 중국 AI 모델 시험 첫 확인",
+      "body": "ENISA와 공동연구센터가 중국 오픈소스 AI 모델을 시험 중이라고 처음 확인했다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/enisa-jrc-chinese-models.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.10",
+      "headline": "EU AI 과학패널 통제 상실 사고 논의",
+      "body": "EU AI 과학패널이 통제 상실 사고를 논의하고 개발사에 물을 질문을 마련했다.",
+      "foot": "2026.10.10",
+      "media": "pipeline/media/eu-ai-panel-loss-of-control.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "EU AI사무국, 정보 요구",
+      "body": "AI사무국이 OpenAI·Anthropic 에이전트 해킹 건으로 정보를 요구했다.",
+      "foot": "2026.10.15",
+      "media": "pipeline/media/politics-eu-ai-office.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "UK, 중대 AI 사고 보고 규칙 검토",
+      "body": "영국이 AI-powered 사이버 방어와 함께 AI 아차 사고 보고를 검토한다.",
+      "foot": "2026.10.15",
+      "media": "pipeline/media/politics-uk-ai-incidents.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

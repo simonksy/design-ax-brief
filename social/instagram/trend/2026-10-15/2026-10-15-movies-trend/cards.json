@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "AI가 깎는 제작비, 그래도 남는 사람",
+    "date": "2026.10.15",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/",
+      "https://variety.com/2026/film/news/merry-the-christmas-witch-ai-film-80-million-1-5-million-1236905721/",
+      "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
+      "https://www.youtube.com/watch?v=h4MKJAJvins",
+      "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 영화 · 10.12~10.15",
+      "thread": [
+        {
+          "d": "10.12",
+          "t": "공존 전망",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.13",
+          "t": "150만 달러",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.13",
+          "t": "제작진 필요",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.13",
+          "t": "크레딧 절약",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.15",
+          "t": "최대 40%",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "제작비 숫자는 계속 작아지는데, 현장에선 숙련된 손이 여전히 필요하다고 말한다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "제작비는 줄고, 사람은 남는다",
+      "body": "8000만 달러로 추산된 장편이 150만 달러에 찍혔고 강윤성 감독은 최대 40% 절감을 말한다. 그래도 부산의 감독들은 제작진을 꼽았다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.12",
+      "headline": "AI-native와 VFX의 공존",
+      "body": "Hong Jae Cheol은 AI-native 기업과 VFX의 공존을 내다봤다.",
+      "foot": "2026.10.12",
+      "media": "pipeline/media/hong-jae-cheol-ai-native-studios-busan.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "AI로 150만 달러 장편",
+      "body": "$80 million으로 추산된 장편을 AI로 $1.5 million에 찍었다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/movies-merry-christmas-witch-ai-budget.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "AI 영화에도 숙련된 제작진이 필요",
+      "body": "Harry Hyun 감독은 숙련된 제작진이 있어야 AI 영화가 덜 닮는다고 봤다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/movies-kling-busan-trained-crew-panel.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "AI 영상 생성 비용 줄이기",
+      "body": "Curious Refuge가 AI 영화 생성 크레딧을 아끼는 워크플로를 소개한다.",
+      "foot": "2026.10.13",
+      "video": "pipeline/media/movies-curious-refuge-credit-savings.mp4"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "최대 40% 절감, 300편 Netflix",
+      "body": "강윤성 감독은 AI로 예산을 최대 40% 줄일 수 있다고 부산에서 말했다.",
+      "foot": "2026.10.15",
+      "media": "pipeline/media/movies-netflix-busan.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

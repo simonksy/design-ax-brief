@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "issue": "운영체제가 곧 AI 비서가 된다",
+    "date": "2026.10.15",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://www.engadget.com/2275255/iphone-siri-ai-can-index-more-personal-data-how-to-limit/",
+      "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
+      "https://9to5google.com/2026/10/12/googlebook-os-review/",
+      "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
+      "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 가젯 · 10.11~10.15",
+      "thread": [
+        {
+          "d": "10.11",
+          "t": "Siri 색인",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.12",
+          "t": "Siri 평가",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.13",
+          "t": "새 PC OS",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.15",
+          "t": "사기 경고",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.15",
+          "t": "앱도 생성",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "비서가 앱 하나가 아니라 운영체제 자체가 되면서, 개인 데이터와 권한 문제도 함께 커진다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "비서가 앱이 아니라 OS가 된다",
+      "body": "새 Siri는 개인 데이터를 더 색인하고, Android는 Gemini로 사기 문자를 잡는다. 이제 AI Studio로 앱까지 만든다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.11",
+      "headline": "새 Siri가 색인하는 개인 데이터 줄이기",
+      "body": "새 Siri가 개인 데이터를 더 색인하자 Engadget이 제한법을 정리했다.",
+      "foot": "2026.10.11",
+      "media": "pipeline/media/siri-personal-index-limits.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.12",
+      "headline": "Siri AI가 Gemini보다 낫다?",
+      "body": "Siri AI는 앱 안에서 움직이고 Gemini는 Google 안에 갇혔다고 본다.",
+      "foot": "2026.10.12",
+      "media": "pipeline/media/siri-ai-vs-gemini-column.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "Googlebook OS 리뷰",
+      "body": "9to5Google은 Googlebook OS를 스마트폰 이후의 PC로 평했다.",
+      "foot": "2026.10.13",
+      "media": "pipeline/media/gadgets-googlebook-os-review.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "Android, Gemini로 사기 경고",
+      "body": "Android는 Gemini로 사기 문자를 잡고 화면 공유 중 금융정보를 가린다.",
+      "foot": "2026.10.15",
+      "media": "pipeline/media/gadgets-android-scam-alerts.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "AI Studio로 Android 앱",
+      "body": "AI Studio면 개발 경험이 없어도 누구나 Android 앱을 무료로 만든다.",
+      "foot": "2026.10.15",
+      "media": "pipeline/media/gadgets-ai-studio-android.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
