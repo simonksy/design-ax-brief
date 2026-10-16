@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "issue": "숨긴 AI, 플레이어가 먼저 잡아낸다",
+    "date": "2026.10.16",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109",
+      "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
+      "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
+      "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 10.14~10.16",
+      "thread": [
+        {
+          "d": "10.14",
+          "t": "항의 배너",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.15",
+          "t": "부정 82%",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.16",
+          "t": "판매 중단",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.16",
+          "t": "유료 스킨",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "플레이어가 숨긴 AI를 먼저 찾아내고, 회사는 뒤늦게 물러선다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "숨긴 AI를 플레이어가 먼저 찾는다",
+      "body": "사흘 새 네 건. VRChat 커뮤니티와 Steam 리뷰, 서브레딧이 차례로 AI 콘텐츠를 짚었고 Sega는 판매를 멈췄다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "quote": "사람 사이의 연결을 갉아먹는\n저품질·저노력 콘텐츠를\n끝없이 쏟아낼 수 있다",
+      "quote_by": "VRChat · 운영사 공지",
+      "eyebrow": "2026.10.14",
+      "headline": "VRChat 커뮤니티, AI 월드에 반기",
+      "body": "개발자 Patroll이 AI 월드 범람에 항의해 물러났다. VRChat은 기만적인 AI 썸네일부터 금지했다.",
+      "foot": "2026.10.14",
+      "_src": "https://kotaku.com/vr-chat-community-protests-an-influx-of-ai-slop-onto-platform-hurting-discoverability-2000742109",
+      "_id": "games-vrchat-ai-boycott"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "Shogun 2 새 판, 부정 평가 82%",
+      "body": "10월 13일 나온 완전판에 AI 업스케일링 의혹이 붙었다. 유닛 그림은 뭉개졌고 AI 고지는 없었다.",
+      "foot": "2026.10.15",
+      "_src": "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877",
+      "_id": "games-shogun2-upscale",
+      "media": "pipeline/media/games-shogun2-upscale.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "Sega, 이틀 만에 판매 중단",
+      "body": "리뷰 약 2,000건 중 긍정은 17%. Sega는 판매를 멈추고 원작을 되살리지만 AI는 언급하지 않았다.",
+      "foot": "2026.10.16",
+      "_src": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
+      "_id": "games-shogun2-pulled",
+      "media": "pipeline/media/games-shogun2-pulled.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "Battlefield 6 스킨에 AI 의혹",
+      "body": "권총 다섯 자루, ‘Secuty’ 팔 패치. “AI로 돈 받는 건 최악의 무례”라는 글이 올라왔다. 확인된 바는 없다.",
+      "foot": "2026.10.16",
+      "_src": "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452",
+      "_id": "games-bf6-paid-ai-cosmetics",
+      "media": "pipeline/media/games-bf6-paid-ai-cosmetics.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

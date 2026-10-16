@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "issue": "에이전트가 TV 광고를 사기 시작했다",
+    "date": "2026.10.16",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
+      "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
+      "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
+      "https://www.adweek.com/convergent-tv/fox-expands-agentic-push-with-eyes-set-on-tv-upfront-future/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 10.11~10.16",
+      "thread": [
+        {
+          "d": "10.11",
+          "t": "대행사 베팅",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.13",
+          "t": "CTV 예산",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.15",
+          "t": "홈 화면",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.16",
+          "t": "리니어 TV",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "에이전트 구매가 대행사 도구에서 TV 광고 거래 자체로 번진다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "TV 광고 거래에 에이전트가 앉는다",
+      "body": "엿새 사이 대행사, CTV, 스마트 TV, 리니어 TV가 차례로 열렸다. 승인은 아직 사람이 쥔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "quote": "모든 일에는 여전히\n사람의 감독이\n필요하다",
+      "quote_by": "Rebekah Shalit · Dentsu 플랫폼 총괄",
+      "eyebrow": "2026.10.11",
+      "headline": "대행사, 에이전트 구매에 베팅",
+      "body": "Carat·Tinuiti·Stagwell이 매체 구매 에이전트를 내놨다. 폭주 우려엔 사람이 감독한다고 답한다.",
+      "foot": "2026.10.11",
+      "_src": "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
+      "_id": "agency-agentic-buying"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "quote": "오케스트레이션은\n에이전트가 하고,\n결정은 사람이 내린다",
+      "quote_by": "Jules Minvielle · Olyzon CEO",
+      "eyebrow": "2026.10.13",
+      "headline": "Olyzon, DSP 네 곳 오가는 에이전트",
+      "body": "Trade Desk·Amazon DSP·DV360·Yahoo DSP 사이로 CTV 예산을 옮긴다. 상한과 승인 규칙은 바이어가 정한다.",
+      "foot": "2026.10.13",
+      "_src": "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
+      "_id": "marketing-olyzon-ctv-four-dsps"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "LG TV 홈 화면도 에이전트 구매로",
+      "body": "H/L 구매 에이전트가 MCP로 Magnite 판매 에이전트와 캠페인을 짰다. 집행 전 LG와 H/L이 승인했다.",
+      "foot": "2026.10.15",
+      "_src": "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
+      "_id": "marketing-lg-magnite",
+      "media": "pipeline/media/marketing-lg-magnite.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "Fox, 에이전트 거래를 리니어 TV로",
+      "body": "Fox가 대행사 파트너를 늘리고 리니어 TV 거래로 넓힌다. 업프런트 논의에서도 비중을 키운다.",
+      "foot": "2026.10.16",
+      "_src": "https://www.adweek.com/convergent-tv/fox-expands-agentic-push-with-eyes-set-on-tv-upfront-future/",
+      "_id": "marketing-fox-agentic-linear",
+      "media": "pipeline/media/marketing-fox-agentic-linear.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
