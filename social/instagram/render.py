@@ -16,8 +16,11 @@
 렌더는 헤드리스 크롬, 합성은 ffmpeg. 둘 다 이 기계에 있다.
 `NODE_OPTIONS`가 오염돼 있으면 크롬이 아니라 그 전에 죽는다 — `unset` 하고 돌린다.
 """
+import hashlib
+import inspect
 import json
 import os
+import shutil
 import subprocess
 import sys
 
@@ -432,7 +435,10 @@ def shoot(html, out, transparent=False, size=None):
         cmd.append("--default-background-color=00000000")
     cmd += [f"--window-size={w},{h}", f"--screenshot={out}",
             "--virtual-time-budget=5000", "--allow-file-access-from-files", "file://" + p]
-    subprocess.run(cmd, capture_output=True)
+    # 출력을 파이프로 받지 않는다. 크롬은 끝나면서 crashpad 핸들러를 고아로
+    # 남기는데, 그게 stderr 를 물려받아 40~70초 쥐고 있다 — 파이프로 받으면
+    # 크롬이 이미 죽었어도 그동안 기다린다(render_shoot_test).
+    subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     os.path.exists(p) and os.remove(p)
 
 
@@ -465,6 +471,27 @@ def compose(card, overlay, out, mh):
     subprocess.run(args, check=True)
 
 
+
+# --- outro 캐시 ---------------------------------------------------------------
+# outro는 회차마다 같은 장이다 — 문안이 같고, 번호를 적지 않고, 색은 브랜드
+# 오렌지 고정, 그래프는 고정 시드. 10-16 에 구운 outro 13개의 md5가 전부
+# 같았는데 한 장에 7분씩(한 벌 8분 중 7분) 들여 다시 굽고 있었다. 한 번 구워
+# 두고 복사한다. 지문에는 outro를 결정하는 것을 **전부** 넣는다 — 문안·그래프
+# 설정·그래프와 합성 코드 중 하나라도 바뀌면 새로 굽는다.
+OUTRO_CACHE = os.path.join(HERE, ".outro_cache")
+_OUTRO_CODE = "\x00".join(inspect.getsource(f)
+                           for f in (_net_graph, _net_frame, network_clip, compose))
+
+
+def outro_key(c, meta, total):
+    """outro 한 장의 지문. 세트 길이나 섹션 색과는 무관해야 한다."""
+    parts = [card_html(c, meta, total, True), repr(media_height(c)),
+             repr((W, H, NET_BG, NET_SEED, NET_NODES, NET_R, NET_TILT, NET_SWEEP,
+                   NET_FPS, NET_FRAMES, NET_GRID, HUB_NODES, NET_COLORS)),
+             _OUTRO_CODE]
+    return hashlib.sha256("\x00".join(parts).encode()).hexdigest()[:16]
+
+
 def main():
     spec = json.load(open(os.path.join(POST, "cards.json"), encoding="utf-8"))
     meta, cards = spec["meta"], spec["cards"]
@@ -482,8 +509,16 @@ def main():
         mh = media_height(c)
         # outro는 지식 그래프가 천천히 도는 배경을 스스로 만든다.
         # `"network": false`로 끄면 예전처럼 정지 카드로 나온다.
-        scratch = None
+        scratch = cached = None
         if c.get("kind") == "outro" and c.get("network") is not False:
+            cached = os.path.join(OUTRO_CACHE, outro_key(c, meta, len(cards)) + ".mp4")
+            if os.path.exists(cached):
+                out = os.path.join(out_dir, f"card{n}.mp4")
+                shutil.copyfile(cached, out)
+                stale = os.path.join(out_dir, f"card{n}.png")
+                os.path.exists(stale) and os.remove(stale)
+                print(f"card{n}  MP4  {os.path.getsize(out)//1024}KB  (outro 캐시)")
+                continue
             scratch = network_clip(out_dir, mh)
             c = dict(c, video=scratch)
         has_video = bool(c.get("video"))
@@ -493,6 +528,11 @@ def main():
             out = os.path.join(out_dir, f"card{n}.mp4")
             compose(c, ov, out, mh)
             os.remove(ov)
+            if cached:                       # 다음 회차부터는 복사한다
+                os.makedirs(OUTRO_CACHE, exist_ok=True)
+                part = f"{cached}.{os.getpid()}.part"
+                shutil.copyfile(out, part)
+                os.replace(part, cached)
             scratch and os.path.exists(scratch) and os.remove(scratch)
             kind = "MP4"
         else:

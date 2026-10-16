@@ -151,17 +151,28 @@ def marked_posts():
                     except Exception:
                         sec = ""
                     found[kind].append((sec, kind, name, p))
-    out, seen = [], set()
+    # 같은 섹션 짝은 한 덩어리로 묶고, 덩어리를 꺼낼 때마다 직전에 나간
+    # 형식과 다른 쪽을 고른다. 짝 없는 trend 를 맨 뒤로 몰면 story 끼리,
+    # trend 끼리 연달아 붙는다 — 10-16 에 그렇게 나왔다(publish_order_test).
+    stories, used = [], set()
     for sec, kind, name, p in found["story"]:
-        out.append((kind, name, p))
-        seen.add(("story", sec))
-        mate = next((t for t in found["trend"] if t[0] == sec and t not in seen), None)
+        unit = [(kind, name, p)]
+        mate = next((t for t in found["trend"] if t[0] == sec and t not in used), None)
         if mate:
-            out.append((mate[1], mate[2], mate[3]))
-            seen.add(mate)
-    for t in found["trend"]:
-        if t not in seen and (t[1], t[2], t[3]) not in out:
-            out.append((t[1], t[2], t[3]))
+            unit.append((mate[1], mate[2], mate[3]))
+            used.add(mate)
+        stories.append(unit)
+    trends = [[(t[1], t[2], t[3])] for t in found["trend"] if t not in used]
+    out, last = [], None
+    while stories or trends:
+        if last == "story" and trends:
+            unit = trends.pop(0)
+        elif last == "trend" and stories:
+            unit = stories.pop(0)
+        else:
+            unit = (stories or trends).pop(0)
+        out += unit
+        last = unit[-1][0]
     return out
 
 
