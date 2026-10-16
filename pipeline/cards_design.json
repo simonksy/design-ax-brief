@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "design",
   "cards": [
     {
-      "id": "design-figma-specs",
+      "id": "design-figma-code-layers",
       "source_lang": "en",
-      "tool": "Figma",
       "eyebrow": "AI NEWS",
-      "headline": "Figma Specs\n캔버스에 Markdown",
-      "body": "Figma Specs는 팀과 AI 에이전트가 함께 보는 Markdown 명세다.",
-      "mini_headline": "Figma Specs, 캔버스에 Markdown",
-      "source": "Figma",
-      "url": "https://www.figma.com/blog/introducing-figma-specs/",
+      "headline": "Figma 코드 레이어\n캔버스에 코드 프로토타입",
+      "body": "Figma 코드 레이어가 오픈 베타로 나와 캔버스에서 코드 프로토타입을 비교한다.",
+      "mini_headline": "Figma code layers 오픈 베타",
+      "tool": "Figma",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/design-together-with-code-layers/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,209 +19,239 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Figma가 Figma 캔버스에 맥락을 담아 두는 컨테이너 Specs를 내놓는다. 제품을 만드는 사람들은 에이전트와 일하면서 갈수록 Markdown을 많이 쓴다. 그런데 이런 파일은 대개 혼자 보는 데 그치고, 정작 그 뒤의 프로젝트와는 느슨하게 이어져 있다. Specs는 여러 사람이 함께 쓰는 컨테이너로, 맥락이 Figma 안팎을 드나들고 Figma 곳곳을 오가게 한다."
-          },
-          {
-            "t": "p",
-            "x": "스펙에는 함께 내린 결정을 적는다. FigJam 파일이나 프레임, 캔버스의 어떤 노드든 넣을 수 있어 글과 디자인이 한자리에 놓인다. 만들 때는 'D' 키를 누르거나 툴바를 쓰면 되고, .md 파일을 캔버스로 끌어다 놓아도 된다."
+            "x": "code layers가 오늘 오픈 베타로 바뀐다. 팀은 이제 캔버스 위에서 코드 기반 프로토타입을 살펴보고 직접 만든다. 저마다 자기 코딩 도구에서 따로 일하면 혼자 디자인하는 기분이 들고 작업을 공유하거나 대안을 견주기도 어렵다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-            "cap": "GitHub 커넥터로 코드베이스를 보고 기술 스펙 초안을 쓴다."
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+            "cap": "Figma 캔버스 위의 코드"
           },
           {
             "t": "p",
-            "x": "외부 맥락은 GitHub, Hex 같은 커넥터가 가져온다. Figma의 에이전트는 스펙에 달린 댓글을 읽고 쓰며, 아직 열린 댓글에는 수정 제안으로 답한다. PRD를 디자인, 프로토타입, 코드로 바꿀 수도 있고, 거꾸로 디자인과 코드를 스펙으로 되돌릴 수도 있다."
+            "x": "지원하는 가벼운 프로토타이핑 코드베이스를 GitHub나 로컬 폴더에서 가져오거나, Figma MCP 서버로 프로토타입을 불러오거나, Figma Chrome 확장 프로그램으로 실제 웹 경험을 code layer 형태로 캔버스에 올린다. Figma 디자인을 인터랙티브 code layer로 바꿀 수도 있다."
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-            "cap": "디자인 시스템 컴포넌트를 보며 Figma의 에이전트에게 사용 맥락을 스펙으로 정리하게 한 뒤 캔버스에 나란히 둔다."
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+            "cap": "GitHub나 로컬 폴더에서 프로토타이핑 코드베이스를 가져와 기존 플로를 반복해 다듬는다."
           },
           {
             "t": "p",
-            "x": "Codex 같은 코딩 에이전트는 Figma MCP 서버로 스펙과 거기 연결된 맥락을 모두 읽는다. Specs는 웹, 데스크톱, 모바일에서 쓸 수 있으며 유료 플랜에 오픈 베타로 차례로 열린다."
+            "x": "Merkle은 반복 작업과 기능 개발이 30% 빨라지고 문서 작업은 50% 줄었다고 밝혔다. 캔버스에는 한 프로토타입의 여러 버전을 나란히 둘 수 있다. 하나를 복제해 다른 접근을 시도한 뒤 둘을 비교하면 된다."
+          },
+          {
+            "t": "p",
+            "x": "인터랙션은 Figma agent에 프롬프트를 넣어 다듬고, Extract designs는 code layer의 화면이나 플로를 편집 가능한 Figma 레이어로 바꾼다. code layers는 AI 크레딧을 쓰지만 유료 플랜에서는 November 4, 2026까지 생성과 편집이 무료다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+            "cap": "Extract designs로 code layer의 화면을 편집 가능한 Figma 프레임으로 바꾼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Figma Specs puts Markdown\nright on the canvas",
-          "body": "Figma Specs is a Markdown container on the canvas that gives teams and AI agents one shared written spec.",
-          "mini_headline": "Figma Specs brings Markdown to canvas",
+          "headline": "Figma code layers bring code\nprototypes to the canvas",
+          "body": "Code layers enters open beta, letting teams build code-backed prototypes on the Figma canvas and compare variations.",
+          "mini_headline": "Figma code layers\nhit open beta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Figma is launching Specs, a container for your context that lives on the Figma canvas. Product builders increasingly work in Markdown as they collaborate with agents, but those files tend to be single player and loosely tied to the projects behind them. Specs is a multiplayer container that lets context move into, out of, and across Figma."
-              },
-              {
-                "t": "p",
-                "x": "A spec holds shared decisions and can embed a FigJam file, a frame, or any node from the canvas, so text and designs sit side by side. Press 'D' or use the toolbar to create one, or drag any .md file onto the canvas."
+                "x": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by code on the canvas. When everyone works separately in their own coding tools, it can feel like you’re designing in isolation, making it harder to share work or compare alternatives."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Draft a technical spec based on your codebase with the GitHub connector."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Code on the Figma canvas"
               },
               {
                 "t": "p",
-                "x": "Connectors such as GitHub and Hex bring outside context in, and Figma's agent can read and write comments in a spec, replying to open comments with suggested fixes. It can also turn a PRD into designs, prototypes, and code, or turn designs and code back into a spec."
+                "x": "Import a supported, lightweight prototyping codebase from GitHub or a local folder, bring in a prototype through the Figma MCP server, or use the Figma Chrome extension to bring your live web experience onto the canvas as a code layer. You can also turn a Figma design into an interactive code layer."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "View design systems components and have Figma's agent document usage context in a spec, side by side on the canvas."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Import your prototyping codebase from GitHub or a local folder to iterate on existing flows."
               },
               {
                 "t": "p",
-                "x": "Through the Figma MCP server, coding agents like Codex can read a spec and all the context it links to. Specs is available on web, desktop, and mobile, rolling out in open beta to paid plans."
+                "x": "Merkle reports 30% faster iteration and feature development and 50% less documentation. Multiple versions of a prototype can sit on the canvas at the same time, so teams can duplicate one, try a different approach and compare both."
+              },
+              {
+                "t": "p",
+                "x": "You can refine interactions by prompting the Figma agent, and Extract designs turns a screen or flow from a code layer into editable Figma layers. Code layers will use AI credits; on paid plans, creating and editing is free through November 4, 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Use Extract designs to turn screens from a code layer into editable Figma frames."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Figma Specs\n캔버스에 Markdown",
-          "body": "Figma Specs는 팀과 AI 에이전트가 함께 보는 Markdown 명세다.",
-          "mini_headline": "Figma Specs, 캔버스에 Markdown",
+          "headline": "Figma 코드 레이어\n캔버스에 코드 프로토타입",
+          "body": "Figma 코드 레이어가 오픈 베타로 나와 캔버스에서 코드 프로토타입을 비교한다.",
+          "mini_headline": "Figma code layers 오픈 베타",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Figma가 Figma 캔버스에 맥락을 담아 두는 컨테이너 Specs를 내놓는다. 제품을 만드는 사람들은 에이전트와 일하면서 갈수록 Markdown을 많이 쓴다. 그런데 이런 파일은 대개 혼자 보는 데 그치고, 정작 그 뒤의 프로젝트와는 느슨하게 이어져 있다. Specs는 여러 사람이 함께 쓰는 컨테이너로, 맥락이 Figma 안팎을 드나들고 Figma 곳곳을 오가게 한다."
-              },
-              {
-                "t": "p",
-                "x": "스펙에는 함께 내린 결정을 적는다. FigJam 파일이나 프레임, 캔버스의 어떤 노드든 넣을 수 있어 글과 디자인이 한자리에 놓인다. 만들 때는 'D' 키를 누르거나 툴바를 쓰면 되고, .md 파일을 캔버스로 끌어다 놓아도 된다."
+                "x": "code layers가 오늘 오픈 베타로 바뀐다. 팀은 이제 캔버스 위에서 코드 기반 프로토타입을 살펴보고 직접 만든다. 저마다 자기 코딩 도구에서 따로 일하면 혼자 디자인하는 기분이 들고 작업을 공유하거나 대안을 견주기도 어렵다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "GitHub 커넥터로 코드베이스를 보고 기술 스펙 초안을 쓴다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Figma 캔버스 위의 코드"
               },
               {
                 "t": "p",
-                "x": "외부 맥락은 GitHub, Hex 같은 커넥터가 가져온다. Figma의 에이전트는 스펙에 달린 댓글을 읽고 쓰며, 아직 열린 댓글에는 수정 제안으로 답한다. PRD를 디자인, 프로토타입, 코드로 바꿀 수도 있고, 거꾸로 디자인과 코드를 스펙으로 되돌릴 수도 있다."
+                "x": "지원하는 가벼운 프로토타이핑 코드베이스를 GitHub나 로컬 폴더에서 가져오거나, Figma MCP 서버로 프로토타입을 불러오거나, Figma Chrome 확장 프로그램으로 실제 웹 경험을 code layer 형태로 캔버스에 올린다. Figma 디자인을 인터랙티브 code layer로 바꿀 수도 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "디자인 시스템 컴포넌트를 보며 Figma의 에이전트에게 사용 맥락을 스펙으로 정리하게 한 뒤 캔버스에 나란히 둔다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "GitHub나 로컬 폴더에서 프로토타이핑 코드베이스를 가져와 기존 플로를 반복해 다듬는다."
               },
               {
                 "t": "p",
-                "x": "Codex 같은 코딩 에이전트는 Figma MCP 서버로 스펙과 거기 연결된 맥락을 모두 읽는다. Specs는 웹, 데스크톱, 모바일에서 쓸 수 있으며 유료 플랜에 오픈 베타로 차례로 열린다."
+                "x": "Merkle은 반복 작업과 기능 개발이 30% 빨라지고 문서 작업은 50% 줄었다고 밝혔다. 캔버스에는 한 프로토타입의 여러 버전을 나란히 둘 수 있다. 하나를 복제해 다른 접근을 시도한 뒤 둘을 비교하면 된다."
+              },
+              {
+                "t": "p",
+                "x": "인터랙션은 Figma agent에 프롬프트를 넣어 다듬고, Extract designs는 code layer의 화면이나 플로를 편집 가능한 Figma 레이어로 바꾼다. code layers는 AI 크레딧을 쓰지만 유료 플랜에서는 November 4, 2026까지 생성과 편집이 무료다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Extract designs로 code layer의 화면을 편집 가능한 Figma 프레임으로 바꾼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figma Specs\nキャンバスにMarkdown",
-          "body": "Figma Specsは、チームとAIエージェントが共有するMarkdownの仕様書だ。",
-          "mini_headline": "Figma Specs、キャンバスにMarkdown",
+          "headline": "Figmaコードレイヤー\nコード試作をキャンバスへ",
+          "body": "Figmaのコードレイヤーが公開ベータに入り、キャンバスでコード製の試作を比較できる。",
+          "mini_headline": "Figma code layersが公開ベータに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Figmaは、Figmaのキャンバス上に置けるコンテキストのコンテナ「Specs」を投入する。プロダクトをつくる人々はエージェントと協働するなかでMarkdownで作業することが増えているが、そうしたファイルは一人で使うものになりがちで、背後にあるプロジェクトとの結びつきも緩い。Specsは、コンテキストをFigmaの内へ、外へ、そしてFigma全体にわたって行き来させるマルチプレイヤーのコンテナだ。"
-              },
-              {
-                "t": "p",
-                "x": "スペックには共有された決定事項を収め、FigJamファイルやフレーム、キャンバス上の任意のノードを埋め込めるため、テキストとデザインが並んで置かれる。「D」キーを押すかツールバーから作成でき、.mdファイルをキャンバスにドラッグしてもよい。"
+                "x": "本日、code layersがオープンベータに移行した。チームはキャンバス上で、コードに裏打ちされたプロトタイプを探り、作れるようになる。各自が別々のコーディングツールで作業すると、孤立してデザインしているように感じられ、作業の共有や代替案の比較も難しくなる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "GitHubコネクタを使い、コードベースをもとに技術スペックの草案を作る。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Figmaキャンバス上のコード"
               },
               {
                 "t": "p",
-                "x": "GitHubやHexなどのコネクタが外部のコンテキストを取り込み、Figmaのエージェントはスペック内のコメントを読み書きし、未解決のコメントに修正案で返信できる。PRDをデザインやプロトタイプ、コードに変えることも、デザインとコードをスペックに戻すこともできる。"
+                "x": "サポート対象の軽量なプロトタイピング用コードベースをGitHubやローカルフォルダから読み込むほか、Figma MCPサーバー経由でプロトタイプを取り込んだり、Figma Chrome拡張機能で稼働中のウェブ体験をcode layerとしてキャンバスに持ち込んだりできる。FigmaのデザインをインタラクティブなCode layerに変換することも可能だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "デザインシステムのコンポーネントを確認し、Figmaのエージェントに使用上のコンテキストをスペックへ記録させ、キャンバス上に並べて置く。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "GitHubやローカルフォルダからプロトタイピング用コードベースを読み込み、既存のフローを反復改善する。"
               },
               {
                 "t": "p",
-                "x": "Figma MCPサーバーを通じて、Codexのようなコーディングエージェントはスペックとそのリンク先のすべてのコンテキストを読み取れる。SpecsはWeb、デスクトップ、モバイルで利用でき、有料プラン向けにオープンベータとして順次提供される。"
+                "x": "Merkleは、反復と機能開発が30%速くなり、ドキュメント作成が50%減ったと報告している。プロトタイプの複数バージョンを同時にキャンバスに置けるため、ひとつを複製して別のアプローチを試し、両者を比較できる。"
+              },
+              {
+                "t": "p",
+                "x": "Figma agentへのプロンプトでインタラクションを磨き込めるほか、Extract designsはcode layerの画面やフローを編集可能なFigmaレイヤーに変換する。code layersはAIクレジットを消費するが、有料プランではNovember 4, 2026まで作成と編集が無料となる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Extract designsでcode layerの画面を編集可能なFigmaフレームに変換する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma Specs\n把Markdown放上画布",
-          "body": "Figma Specs是画布上的Markdown容器，供团队与AI智能体共享规格文档。",
-          "mini_headline": "Figma Specs把Markdown带上画布",
+          "headline": "Figma代码图层\n把代码原型带上画布",
+          "body": "Figma代码图层进入公开测试，团队可在画布上构建基于代码的原型并比较不同方案。",
+          "mini_headline": "Figma code layers开启公开测试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Figma推出Specs，这是一个位于Figma画布上、用来承载上下文的容器。产品构建者在与智能体协作时越来越多地使用Markdown，但这些文件往往只供单人使用，与背后的项目联系松散。Specs是一个多人协作容器，让上下文可以流入、流出Figma，并在Figma各处流转。"
-              },
-              {
-                "t": "p",
-                "x": "一份规格文档保存共享的决策，可以嵌入FigJam文件、框架或画布上的任意节点，让文字与设计并排呈现。按“D”键或使用工具栏即可创建，也可以把任意.md文件拖到画布上。"
+                "x": "今天，code layers进入公开测试阶段。团队现在可以在画布上探索和构建由代码驱动的原型。当每个人都在各自的编码工具里单独工作时，设计就像是在孤立中进行，分享成果或比较备选方案都更困难。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "借助GitHub连接器，根据代码库起草技术规格文档。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Figma画布上的代码"
               },
               {
                 "t": "p",
-                "x": "GitHub、Hex等连接器可引入外部上下文；Figma的智能体能读写规格文档中的评论，并以修改建议回复未解决的评论。它还能把PRD变成设计、原型和代码，或把设计和代码转回规格文档。"
+                "x": "可以从GitHub或本地文件夹导入受支持的轻量级原型代码库，通过Figma MCP服务器引入原型，或用Figma Chrome扩展把线上网页体验作为code layer带到画布上。也可以把Figma设计转换为可交互的code layer。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "查看设计系统组件，让Figma的智能体在规格文档中记录使用上下文，并排放在画布上。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "从GitHub或本地文件夹导入原型代码库，在现有流程上迭代。"
               },
               {
                 "t": "p",
-                "x": "通过Figma MCP服务器，Codex等编程智能体可以读取规格文档及其链接的全部上下文。Specs支持网页端、桌面端和移动端，正以公开测试版形式向付费方案逐步推出。"
+                "x": "Merkle称迭代和功能开发速度提升30%，文档工作减少50%。同一原型的多个版本可以同时放在画布上，团队可以复制其中一个、尝试不同思路，再比较两者。"
+              },
+              {
+                "t": "p",
+                "x": "可以通过向Figma agent输入提示来细化交互，Extract designs则能把code layer中的画面或流程转为可编辑的Figma图层。code layers将消耗AI积分；在付费方案中，创建和编辑在November 4, 2026前免费。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "用Extract designs把code layer中的画面转为可编辑的Figma框架。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Figma Specs lleva Markdown\ndirectamente al lienzo",
-          "body": "Figma Specs es un contenedor de Markdown en el lienzo que da a equipos y agentes de AI una especificación compartida.",
-          "mini_headline": "Figma Specs lleva Markdown al lienzo",
+          "headline": "Las code layers de Figma llevan\nprototipos de código al lienzo",
+          "body": "Code layers entra en beta abierta y permite crear prototipos con código en el lienzo de Figma y comparar variaciones.",
+          "mini_headline": "Figma code layers, en beta abierta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Figma lanza Specs, un contenedor para tu contexto que vive en el lienzo de Figma. Quienes crean productos trabajan cada vez más en Markdown mientras colaboran con agentes, pero esos archivos suelen ser de un solo usuario y estar poco vinculados a los proyectos que hay detrás. Specs es un contenedor multijugador que permite que el contexto entre, salga y circule por Figma."
-              },
-              {
-                "t": "p",
-                "x": "Una spec reúne decisiones compartidas y puede incrustar un archivo de FigJam, un marco o cualquier nodo del lienzo, de modo que texto y diseños quedan uno al lado del otro. Se crea pulsando 'D' o desde la barra de herramientas, o arrastrando cualquier archivo .md al lienzo."
+                "x": "Hoy, code layers pasa a beta abierta. Ahora los equipos pueden explorar y crear en el lienzo prototipos respaldados por código. Cuando cada persona trabaja por separado en sus propias herramientas de programación, puede parecer que se diseña en aislamiento, lo que dificulta compartir el trabajo o comparar alternativas."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Redacta una especificación técnica basada en tu código con el conector de GitHub."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Código en el lienzo de Figma"
               },
               {
                 "t": "p",
-                "x": "Conectores como GitHub y Hex incorporan contexto externo, y el agente de Figma puede leer y escribir comentarios en una spec y responder a los comentarios abiertos con correcciones sugeridas. También puede convertir un PRD en diseños, prototipos y código, o convertir diseños y código de nuevo en una spec."
+                "x": "Se puede importar una base de código de prototipado ligera y compatible desde GitHub o una carpeta local, traer un prototipo mediante el servidor Figma MCP o usar la extensión Figma Chrome para llevar la experiencia web en vivo al lienzo como una code layer. También se puede convertir un diseño de Figma en una code layer interactiva."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Consulta componentes del sistema de diseño y deja que el agente de Figma documente su contexto de uso en una spec, uno al lado del otro en el lienzo."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Importa tu base de código de prototipado desde GitHub o una carpeta local para iterar sobre flujos existentes."
               },
               {
                 "t": "p",
-                "x": "A través del servidor Figma MCP, agentes de programación como Codex pueden leer una spec y todo el contexto que enlaza. Specs está disponible en web, escritorio y móvil, y se despliega en beta abierta para los planes de pago."
+                "x": "Merkle informa de una iteración y un desarrollo de funciones un 30% más rápidos y un 50% menos de documentación. Varias versiones de un prototipo pueden estar en el lienzo al mismo tiempo, de modo que los equipos pueden duplicar una, probar otro enfoque y comparar ambas."
+              },
+              {
+                "t": "p",
+                "x": "Las interacciones se pueden pulir con prompts al Figma agent, y Extract designs convierte una pantalla o un flujo de una code layer en capas editables de Figma. Code layers usará créditos de AI; en los planes de pago, crear y editar es gratis hasta el 4 de noviembre de 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Usa Extract designs para convertir pantallas de una code layer en marcos editables de Figma."
               }
             ]
           }
@@ -229,145 +259,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Figma Specs\n캔버스에 Markdown",
-          "body": "Figma Specs는 팀과 AI 에이전트가 공유하는 Markdown 명세다.",
-          "mini_headline": "Figma Specs, 캔버스에 Markdown",
+          "headline": "Figma 코드 레이어\n캔버스에 코드 프로토타입",
+          "body": "Figma 코드 레이어가 오픈 베타로 나와 캔버스에서 코드 프로토타입을 비교한다.",
+          "mini_headline": "Figma code layers 오픈 베타",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Figma가 Figma 캔버스 위에 맥락을 담아 두는 컨테이너 Specs를 내놓는다. 제품을 만드는 사람들은 에이전트와 협업하면서 점점 더 Markdown으로 일하지만, 이런 파일은 대개 혼자 쓰는 용도에 머물고 그 뒤의 프로젝트와도 느슨하게 이어져 있다. Specs는 맥락이 Figma 안팎을 드나들고 Figma 전반을 오가게 하는 멀티플레이어 컨테이너다."
-              },
-              {
-                "t": "p",
-                "x": "스펙에는 함께 내린 결정을 담고, FigJam 파일이나 프레임, 캔버스의 어떤 노드든 넣을 수 있어 글과 디자인이 나란히 놓인다. 'D' 키를 누르거나 툴바에서 만들 수 있고, .md 파일을 캔버스로 끌어다 놓아도 된다."
+                "x": "오늘 code layers가 오픈 베타로 전환된다. 이제 팀은 캔버스 위에서 코드 기반 프로토타입을 탐색하고 만들 수 있다. 각자 자기 코딩 도구에서 따로 작업하면 고립된 채 디자인하는 느낌이 들고, 작업을 공유하거나 대안을 비교하기도 어려워진다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "GitHub 커넥터로 코드베이스를 바탕으로 기술 스펙 초안을 쓴다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Figma 캔버스 위의 코드"
               },
               {
                 "t": "p",
-                "x": "GitHub, Hex 같은 커넥터가 외부 맥락을 가져오고, Figma의 에이전트는 스펙의 댓글을 읽고 쓰며 열린 댓글에 수정 제안으로 답한다. PRD를 디자인, 프로토타입, 코드로 바꾸거나 반대로 디자인과 코드를 스펙으로 되돌릴 수도 있다."
+                "x": "지원되는 가벼운 프로토타이핑 코드베이스를 GitHub나 로컬 폴더에서 가져오거나, Figma MCP 서버로 프로토타입을 불러오거나, Figma Chrome 확장 프로그램으로 실제 웹 경험을 code layer 형태로 캔버스에 올릴 수 있다. Figma 디자인을 인터랙티브 code layer로 바꾸는 것도 가능하다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "디자인 시스템 컴포넌트를 보면서 Figma의 에이전트에게 사용 맥락을 스펙에 정리하게 하고, 캔버스 위에 나란히 둔다."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "GitHub나 로컬 폴더에서 프로토타이핑 코드베이스를 가져와 기존 플로를 반복해 다듬는다."
               },
               {
                 "t": "p",
-                "x": "Figma MCP 서버를 통해 Codex 같은 코딩 에이전트가 스펙과 거기 연결된 모든 맥락을 읽을 수 있다. Specs는 웹, 데스크톱, 모바일에서 쓸 수 있고, 유료 플랜에 오픈 베타로 차례로 열린다."
+                "x": "Merkle은 반복 작업과 기능 개발이 30% 빨라지고 문서 작업은 50% 줄었다고 밝혔다. 한 프로토타입의 여러 버전을 캔버스에 동시에 둘 수 있어, 하나를 복제해 다른 접근을 시도하고 둘을 비교할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Figma agent에 프롬프트를 입력해 인터랙션을 다듬을 수 있고, Extract designs는 code layer의 화면이나 플로를 편집 가능한 Figma 레이어로 바꾼다. code layers는 AI 크레딧을 사용하며, 유료 플랜에서는 November 4, 2026까지 생성과 편집이 무료다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Extract designs로 code layer의 화면을 편집 가능한 Figma 프레임으로 바꾼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Figma Specs\nキャンバスにMarkdown",
-          "body": "Figma Specsは、チームとAIエージェントが共有するMarkdownの仕様書だ。",
-          "mini_headline": "Figma Specs、キャンバスにMarkdown",
+          "headline": "Figmaコードレイヤー\nコード試作をキャンバスへ",
+          "body": "Figmaのコードレイヤーが公開ベータに入り、キャンバスでコード製の試作を比較できる。",
+          "mini_headline": "Figma code layersが公開ベータに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Figmaは、Figmaのキャンバス上に置けるコンテキストのコンテナ「Specs」を投入する。プロダクトをつくる人々はエージェントと協働するなかでMarkdownで作業することが増えているが、そうしたファイルは一人で使うものになりがちで、背後にあるプロジェクトとの結びつきも緩い。Specsは、コンテキストをFigmaの内へ、外へ、そしてFigma全体にわたって行き来させるマルチプレイヤーのコンテナだ。"
-              },
-              {
-                "t": "p",
-                "x": "スペックには共有された決定事項を収め、FigJamファイルやフレーム、キャンバス上の任意のノードを埋め込めるため、テキストとデザインが並んで置かれる。「D」キーを押すかツールバーから作成でき、.mdファイルをキャンバスにドラッグしてもよい。"
+                "x": "本日、code layersがオープンベータに移行した。チームはキャンバス上で、コードに裏打ちされたプロトタイプを探り、作れるようになる。各自が別々のコーディングツールで作業すると、孤立してデザインしているように感じられ、作業の共有や代替案の比較も難しくなる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "GitHubコネクタを使い、コードベースをもとに技術スペックの草案を作る。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Figmaキャンバス上のコード"
               },
               {
                 "t": "p",
-                "x": "GitHubやHexなどのコネクタが外部のコンテキストを取り込み、Figmaのエージェントはスペック内のコメントを読み書きし、未解決のコメントに修正案で返信できる。PRDをデザインやプロトタイプ、コードに変えることも、デザインとコードをスペックに戻すこともできる。"
+                "x": "サポート対象の軽量なプロトタイピング用コードベースをGitHubやローカルフォルダから読み込むほか、Figma MCPサーバー経由でプロトタイプを取り込んだり、Figma Chrome拡張機能で稼働中のウェブ体験をcode layerとしてキャンバスに持ち込んだりできる。FigmaのデザインをインタラクティブなCode layerに変換することも可能だ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "デザインシステムのコンポーネントを確認し、Figmaのエージェントに使用上のコンテキストをスペックへ記録させ、キャンバス上に並べて置く。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "GitHubやローカルフォルダからプロトタイピング用コードベースを読み込み、既存のフローを反復改善する。"
               },
               {
                 "t": "p",
-                "x": "Figma MCPサーバーを通じて、Codexのようなコーディングエージェントはスペックとそのリンク先のすべてのコンテキストを読み取れる。SpecsはWeb、デスクトップ、モバイルで利用でき、有料プラン向けにオープンベータとして順次提供される。"
+                "x": "Merkleは、反復と機能開発が30%速くなり、ドキュメント作成が50%減ったと報告している。プロトタイプの複数バージョンを同時にキャンバスに置けるため、ひとつを複製して別のアプローチを試し、両者を比較できる。"
+              },
+              {
+                "t": "p",
+                "x": "Figma agentへのプロンプトでインタラクションを磨き込めるほか、Extract designsはcode layerの画面やフローを編集可能なFigmaレイヤーに変換する。code layersはAIクレジットを消費するが、有料プランではNovember 4, 2026まで作成と編集が無料となる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Extract designsでcode layerの画面を編集可能なFigmaフレームに変換する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Figma Specs\n把Markdown放上画布",
-          "body": "Figma Specs是画布上的Markdown容器，供团队与AI智能体共享规格文档。",
-          "mini_headline": "Figma Specs把Markdown带上画布",
+          "headline": "Figma代码图层\n把代码原型带上画布",
+          "body": "Figma代码图层进入公开测试，团队可在画布上构建基于代码的原型并比较不同方案。",
+          "mini_headline": "Figma code layers开启公开测试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Figma推出Specs，这是一个位于Figma画布上、用来承载上下文的容器。产品构建者在与智能体协作时越来越多地使用Markdown，但这些文件往往只供单人使用，与背后的项目联系松散。Specs是一个多人协作容器，让上下文可以流入、流出Figma，并在Figma各处流转。"
-              },
-              {
-                "t": "p",
-                "x": "一份规格文档保存共享的决策，可以嵌入FigJam文件、框架或画布上的任意节点，让文字与设计并排呈现。按“D”键或使用工具栏即可创建，也可以把任意.md文件拖到画布上。"
+                "x": "今天，code layers进入公开测试阶段。团队现在可以在画布上探索和构建由代码驱动的原型。当每个人都在各自的编码工具里单独工作时，设计就像是在孤立中进行，分享成果或比较备选方案都更困难。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "借助GitHub连接器，根据代码库起草技术规格文档。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Figma画布上的代码"
               },
               {
                 "t": "p",
-                "x": "GitHub、Hex等连接器可引入外部上下文；Figma的智能体能读写规格文档中的评论，并以修改建议回复未解决的评论。它还能把PRD变成设计、原型和代码，或把设计和代码转回规格文档。"
+                "x": "可以从GitHub或本地文件夹导入受支持的轻量级原型代码库，通过Figma MCP服务器引入原型，或用Figma Chrome扩展把线上网页体验作为code layer带到画布上。也可以把Figma设计转换为可交互的code layer。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "查看设计系统组件，让Figma的智能体在规格文档中记录使用上下文，并排放在画布上。"
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "从GitHub或本地文件夹导入原型代码库，在现有流程上迭代。"
               },
               {
                 "t": "p",
-                "x": "通过Figma MCP服务器，Codex等编程智能体可以读取规格文档及其链接的全部上下文。Specs支持网页端、桌面端和移动端，正以公开测试版形式向付费方案逐步推出。"
+                "x": "Merkle称迭代和功能开发速度提升30%，文档工作减少50%。同一原型的多个版本可以同时放在画布上，团队可以复制其中一个、尝试不同思路，再比较两者。"
+              },
+              {
+                "t": "p",
+                "x": "可以通过向Figma agent输入提示来细化交互，Extract designs则能把code layer中的画面或流程转为可编辑的Figma图层。code layers将消耗AI积分；在付费方案中，创建和编辑在November 4, 2026前免费。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "用Extract designs把code layer中的画面转为可编辑的Figma框架。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Figma Specs lleva Markdown\ndirectamente al lienzo",
-          "body": "Figma Specs es un contenedor de Markdown en el lienzo que da a equipos y agentes de AI una especificación compartida.",
-          "mini_headline": "Figma Specs lleva Markdown al lienzo",
+          "headline": "Las code layers de Figma llevan\nprototipos de código al lienzo",
+          "body": "Code layers entra en beta abierta y permite crear prototipos con código en el lienzo de Figma y comparar variaciones.",
+          "mini_headline": "Figma code layers, en beta abierta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Figma lanza Specs, un contenedor para tu contexto que vive en el lienzo de Figma. Quienes crean productos trabajan cada vez más en Markdown mientras colaboran con agentes, pero esos archivos suelen ser de un solo usuario y estar poco vinculados a los proyectos que hay detrás. Specs es un contenedor multijugador que permite que el contexto entre, salga y circule por Figma."
-              },
-              {
-                "t": "p",
-                "x": "Una spec reúne decisiones compartidas y puede incrustar un archivo de FigJam, un marco o cualquier nodo del lienzo, de modo que texto y diseños quedan uno al lado del otro. Se crea pulsando 'D' o desde la barra de herramientas, o arrastrando cualquier archivo .md al lienzo."
+                "x": "Hoy, code layers pasa a beta abierta. Ahora los equipos pueden explorar y crear en el lienzo prototipos respaldados por código. Cuando cada persona trabaja por separado en sus propias herramientas de programación, puede parecer que se diseña en aislamiento, lo que dificulta compartir el trabajo o comparar alternativas."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Redacta una especificación técnica basada en tu código con el conector de GitHub."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Código en el lienzo de Figma"
               },
               {
                 "t": "p",
-                "x": "Conectores como GitHub y Hex incorporan contexto externo, y el agente de Figma puede leer y escribir comentarios en una spec y responder a los comentarios abiertos con correcciones sugeridas. También puede convertir un PRD en diseños, prototipos y código, o convertir diseños y código de nuevo en una spec."
+                "x": "Se puede importar una base de código de prototipado ligera y compatible desde GitHub o una carpeta local, traer un prototipo mediante el servidor Figma MCP o usar la extensión Figma Chrome para llevar la experiencia web en vivo al lienzo como una code layer. También se puede convertir un diseño de Figma en una code layer interactiva."
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Consulta componentes del sistema de diseño y deja que el agente de Figma documente su contexto de uso en una spec, uno al lado del otro en el lienzo."
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Importa tu base de código de prototipado desde GitHub o una carpeta local para iterar sobre flujos existentes."
               },
               {
                 "t": "p",
-                "x": "A través del servidor Figma MCP, agentes de programación como Codex pueden leer una spec y todo el contexto que enlaza. Specs está disponible en web, escritorio y móvil, y se despliega en beta abierta para los planes de pago."
+                "x": "Merkle informa de una iteración y un desarrollo de funciones un 30% más rápidos y un 50% menos de documentación. Varias versiones de un prototipo pueden estar en el lienzo al mismo tiempo, de modo que los equipos pueden duplicar una, probar otro enfoque y comparar ambas."
+              },
+              {
+                "t": "p",
+                "x": "Las interacciones se pueden pulir con prompts al Figma agent, y Extract designs convierte una pantalla o un flujo de una code layer en capas editables de Figma. Code layers usará créditos de AI; en los planes de pago, crear y editar es gratis hasta el 4 de noviembre de 2026."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+                "cap": "Usa Extract designs para convertir pantallas de una code layer en marcos editables de Figma."
               }
             ]
           }
@@ -375,141 +425,613 @@
       }
     },
     {
-      "id": "design-bluesky-attie",
+      "id": "design-krea3",
       "source_lang": "en",
-      "tool": "AI Workflow",
       "eyebrow": "AI NEWS",
-      "headline": "Bluesky Attie,\n소셜 게임·앱 만든다",
-      "body": "Bluesky의 Attie는 프롬프트로 작은 게임·투표·대시보드를 만든다.",
-      "mini_headline": "Bluesky Attie, 공유형 앱을 만든다",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "accent": "#ff5a4d",
+      "headline": "Krea 3, 몇 초 만에\n2K 편집 장당 $0.06",
+      "body": "Krea 3은 2K 편집 대부분을 8초 안에 끝내고 제품과 인물을 일관되게 지킨다.",
+      "mini_headline": "Krea 3, 8초 안에 편집",
+      "tool": "KeyShot",
+      "source": "Krea",
+      "url": "https://www.krea.ai/blog/introducing-krea-3",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+            "cap": "Krea 3 공개"
+          },
+          {
+            "t": "p",
+            "x": "지난 한 해 이미지 편집은 품질 면에서 한 고비를 넘었지만 최상위 편집 모델은 더 느리고 비싸졌다. Krea가 새로 내놓은 이미지 편집 모델 Krea 3은 편집 대부분을 처음부터 끝까지 8초 안에 네이티브 2K로 뽑아낸다. 가격은 2K 기준 이미지당 $0.06이다."
+          },
+          {
+            "t": "p",
+            "x": "요청하지 않은 부분은 건드리지 않는다. 제품 주변 배경을 바꿔도 라벨은 선명하게 남고, 얼굴과 의상을 주면 다음 이미지 속 인물도 여전히 같은 사람이다. 편집마다 참조 이미지를 최대 6장까지 받는다."
+          },
+          {
+            "t": "img",
+            "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+            "cap": "손에 든 같은 캔을 반으로 자른 유자와 함께 잘게 부순 얼음 속에 밀어 넣었다"
+          },
+          {
+            "t": "img",
+            "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+            "cap": "좌석만 바뀌고 러그와 방, 책 읽는 여성은 그대로다."
+          },
+          {
+            "t": "video",
+            "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+          },
+          {
+            "t": "p",
+            "x": "마커 스케치나 무드보드, 오래된 폴라로이드도 완성된 사진이 된다. Krea 3은 krea.ai의 30 million 사용자에게 열렸고 가격은 2K 기준 이미지당 $0.06, 1K 기준 $0.03이다. fal, Hedra, Together AI, Nous Research, OpenRouter, Replicate에서도 쓸 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+            "cap": "소파 마커 스케치를 실사 같은 가죽 소파로 바꿨다"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Krea 3 edits images in seconds\nat native 2K for $0.06 each",
+          "body": "Krea 3 finishes most edits in under 8 seconds at native 2K and keeps products and characters consistent.",
+          "mini_headline": "Krea 3 edits\nin under 8 seconds",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+                "cap": "Introducing Krea 3"
+              },
+              {
+                "t": "p",
+                "x": "Over the past year, image editing crossed a quality line, but the best editing models also got slower and more expensive. Krea released Krea 3, its new image editing model: most edits come back in under 8 seconds, end to end, at native 2K, for $0.06 per image at 2K."
+              },
+              {
+                "t": "p",
+                "x": "It leaves alone what you didn’t ask it to touch — change the setting around a product and the label stays sharp; give it a face and an outfit and the person in the next image is still the same person. It takes up to 6 reference images per edit."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+                "cap": "The same can in a hand, pushed into crushed ice with halved yuzu"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+                "cap": "Only the seating swapped; the rug, the room and the reading woman stay."
+              },
+              {
+                "t": "video",
+                "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+              },
+              {
+                "t": "p",
+                "x": "It can also turn a marker sketch, a moodboard or an old polaroid into a finished photo. Krea 3 is live on krea.ai for 30 million users, at $0.06 per image at 2K and $0.03 at 1K, and through fal, Hedra, Together AI, Nous Research, OpenRouter and Replicate."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+                "cap": "A marker sketch of a sofa turned into a photoreal leather piece"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Krea 3, 몇 초 만에\n2K 편집 장당 $0.06",
+          "body": "Krea 3은 2K 편집 대부분을 8초 안에 끝내고 제품과 인물을 일관되게 지킨다.",
+          "mini_headline": "Krea 3, 8초 안에 편집",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+                "cap": "Krea 3 공개"
+              },
+              {
+                "t": "p",
+                "x": "지난 한 해 이미지 편집은 품질 면에서 한 고비를 넘었지만 최상위 편집 모델은 더 느리고 비싸졌다. Krea가 새로 내놓은 이미지 편집 모델 Krea 3은 편집 대부분을 처음부터 끝까지 8초 안에 네이티브 2K로 뽑아낸다. 가격은 2K 기준 이미지당 $0.06이다."
+              },
+              {
+                "t": "p",
+                "x": "요청하지 않은 부분은 건드리지 않는다. 제품 주변 배경을 바꿔도 라벨은 선명하게 남고, 얼굴과 의상을 주면 다음 이미지 속 인물도 여전히 같은 사람이다. 편집마다 참조 이미지를 최대 6장까지 받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+                "cap": "손에 든 같은 캔을 반으로 자른 유자와 함께 잘게 부순 얼음 속에 밀어 넣었다"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+                "cap": "좌석만 바뀌고 러그와 방, 책 읽는 여성은 그대로다."
+              },
+              {
+                "t": "video",
+                "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+              },
+              {
+                "t": "p",
+                "x": "마커 스케치나 무드보드, 오래된 폴라로이드도 완성된 사진이 된다. Krea 3은 krea.ai의 30 million 사용자에게 열렸고 가격은 2K 기준 이미지당 $0.06, 1K 기준 $0.03이다. fal, Hedra, Together AI, Nous Research, OpenRouter, Replicate에서도 쓸 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+                "cap": "소파 마커 스케치를 실사 같은 가죽 소파로 바꿨다"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Krea 3 edita en segundos\na 2K nativo por $0.06 cada una",
+          "body": "Krea 3 edita en menos de 8 segundos a 2K nativo en la mayoría de casos y mantiene coherentes productos y personajes.",
+          "mini_headline": "Krea 3 edita en menos de 8 segundos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+                "cap": "Presentamos Krea 3"
+              },
+              {
+                "t": "p",
+                "x": "En el último año, la edición de imágenes cruzó un umbral de calidad, pero los mejores modelos de edición también se volvieron más lentos y caros. Krea lanzó Krea 3, su nuevo modelo de edición de imágenes: la mayoría de las ediciones se completan en menos de 8 segundos, de principio a fin, a 2K nativo, por $0.06 por imagen a 2K."
+              },
+              {
+                "t": "p",
+                "x": "Deja intacto lo que no se le pidió tocar: si se cambia el entorno de un producto, la etiqueta sigue nítida; si se le da un rostro y un atuendo, la persona de la siguiente imagen sigue siendo la misma. Admite hasta 6 imágenes de referencia por edición."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+                "cap": "La misma lata en una mano, hundida en hielo picado con yuzu partido por la mitad"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+                "cap": "Solo cambian los asientos; la alfombra, la sala y la mujer que lee se mantienen."
+              },
+              {
+                "t": "video",
+                "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+              },
+              {
+                "t": "p",
+                "x": "También puede convertir un boceto a rotulador, un moodboard o una vieja polaroid en una foto terminada. Krea 3 ya está disponible en krea.ai para 30 millones de usuarios, a $0.06 por imagen a 2K y $0.03 a 1K, y a través de fal, Hedra, Together AI, Nous Research, OpenRouter y Replicate."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+                "cap": "Un boceto a rotulador de un sofá convertido en una pieza de cuero fotorrealista"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Krea 3が数秒で編集\nネイティブ2K で$0.06",
+          "body": "Krea 3はネイティブ2K で大半の編集を8秒未満で終え、製品や人物の一貫性を保つ。",
+          "mini_headline": "Krea 3は8秒未満で編集",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+                "cap": "Krea 3の紹介"
+              },
+              {
+                "t": "p",
+                "x": "この一年で画像編集は品質の一線を越えたが、最良の編集モデルは遅く高価にもなった。Kreaは新しい画像編集モデルKrea 3を公開した。大半の編集はエンドツーエンドで8秒未満、ネイティブ2K で返り、価格は2K では画像ごとに$0.06だ。"
+              },
+              {
+                "t": "p",
+                "x": "頼んでいない部分には手を触れない。製品の周りの背景を変えてもラベルは鮮明なままで、顔と服を与えれば次の画像の人物も同じ人物のままだ。編集ごとに最大6枚の参照画像を受け付ける。"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+                "cap": "手に持った同じ缶を、砕いた氷と半分に切った柚子の中へ押し込む"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+                "cap": "座席だけを入れ替え、ラグも部屋も読書する女性もそのまま。"
+              },
+              {
+                "t": "video",
+                "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+              },
+              {
+                "t": "p",
+                "x": "マーカーのスケッチやムードボード、古いポラロイドを完成した写真に変えることもできる。Krea 3はkrea.aiで3000万人のユーザーに公開中で、価格は2K で画像ごとに$0.06、1K で$0.03だ。fal、Hedra、Together AI、Nous Research、OpenRouter、Replicateからも利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+                "cap": "ソファのマーカースケッチを写実的な革製品の写真に"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Krea 3数秒完成修图\n原生2K 每张$0.06",
+          "body": "Krea 3以原生2K 在不到8秒内完成多数编辑，并保持产品与角色一致。",
+          "mini_headline": "Krea 3不到8秒完成编辑",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+                "cap": "Krea 3介绍"
+              },
+              {
+                "t": "p",
+                "x": "过去一年，图像编辑跨过了质量门槛，但最好的编辑模型也变得更慢、更贵。Krea发布了新的图像编辑模型Krea 3：大多数编辑端到端不到8秒即可返回，原生2K 输出，2K 每张图像$0.06。"
+              },
+              {
+                "t": "p",
+                "x": "它不会改动你没要求修改的部分——更换产品周围的场景，标签依旧清晰；给它一张脸和一套服装，下一张图里的人仍是同一个人。每次编辑最多可使用6张参考图。"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+                "cap": "手中的同一罐饮料，被按进碎冰和切半的柚子中"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+                "cap": "只换了座椅；地毯、房间和读书的女子都保持不变。"
+              },
+              {
+                "t": "video",
+                "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+              },
+              {
+                "t": "p",
+                "x": "它还能把马克笔草图、情绪板或旧宝丽来照片变成成片。Krea 3已在krea.ai上线，面向3000万用户，2K 每张$0.06、1K 每张$0.03，并可通过fal、Hedra、Together AI、Nous Research、OpenRouter和Replicate使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+                "cap": "一张沙发的马克笔草图变成照片级真实的皮质家具"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Krea 3, 몇 초 만에\n2K 편집 장당 $0.06",
+          "body": "Krea 3은 2K 편집 대부분을 8초 안에 끝내고 제품과 인물을 일관되게 지킨다.",
+          "mini_headline": "Krea 3, 8초 안에 편집",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+                "cap": "Krea 3 공개"
+              },
+              {
+                "t": "p",
+                "x": "지난 한 해 이미지 편집은 품질의 한 선을 넘었지만, 최고 수준의 편집 모델은 더 느려지고 비싸졌다. Krea는 새 이미지 편집 모델 Krea 3을 출시했다. 대부분의 편집 결과가 처음부터 끝까지 8초 안에 네이티브 2K로 나오며, 가격은 2K 기준 이미지당 $0.06이다."
+              },
+              {
+                "t": "p",
+                "x": "요청하지 않은 부분은 건드리지 않는다. 제품 주변 배경을 바꿔도 라벨은 선명하게 남고, 얼굴과 의상을 주면 다음 이미지 속 인물도 여전히 같은 사람이다. 편집마다 참조 이미지를 최대 6장까지 받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+                "cap": "손에 든 같은 캔을 반으로 자른 유자와 함께 잘게 부순 얼음 속에 밀어 넣었다"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+                "cap": "좌석만 바뀌고 러그와 방, 책 읽는 여성은 그대로다."
+              },
+              {
+                "t": "video",
+                "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+              },
+              {
+                "t": "p",
+                "x": "마커 스케치나 무드보드, 오래된 폴라로이드도 완성된 사진으로 바꿀 수 있다. Krea 3은 krea.ai에서 30 million 사용자에게 제공되며, 가격은 2K 기준 이미지당 $0.06, 1K 기준 $0.03이다. fal, Hedra, Together AI, Nous Research, OpenRouter, Replicate를 통해서도 쓸 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+                "cap": "소파 마커 스케치를 실사 같은 가죽 소파로 바꿨다"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Krea 3 edita en segundos\na 2K nativo por $0.06 cada una",
+          "body": "Krea 3 edita en menos de 8 segundos a 2K nativo en la mayoría de casos y mantiene coherentes productos y personajes.",
+          "mini_headline": "Krea 3 edita en menos de 8 segundos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+                "cap": "Presentamos Krea 3"
+              },
+              {
+                "t": "p",
+                "x": "En el último año, la edición de imágenes cruzó un umbral de calidad, pero los mejores modelos de edición también se volvieron más lentos y caros. Krea lanzó Krea 3, su nuevo modelo de edición de imágenes: la mayoría de las ediciones se completan en menos de 8 segundos, de principio a fin, a 2K nativo, por $0.06 por imagen a 2K."
+              },
+              {
+                "t": "p",
+                "x": "Deja intacto lo que no se le pidió tocar: si se cambia el entorno de un producto, la etiqueta sigue nítida; si se le da un rostro y un atuendo, la persona de la siguiente imagen sigue siendo la misma. Admite hasta 6 imágenes de referencia por edición."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+                "cap": "La misma lata en una mano, hundida en hielo picado con yuzu partido por la mitad"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+                "cap": "Solo cambian los asientos; la alfombra, la sala y la mujer que lee se mantienen."
+              },
+              {
+                "t": "video",
+                "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+              },
+              {
+                "t": "p",
+                "x": "También puede convertir un boceto a rotulador, un moodboard o una vieja polaroid en una foto terminada. Krea 3 ya está disponible en krea.ai para 30 millones de usuarios, a $0.06 por imagen a 2K y $0.03 a 1K, y a través de fal, Hedra, Together AI, Nous Research, OpenRouter y Replicate."
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+                "cap": "Un boceto a rotulador de un sofá convertido en una pieza de cuero fotorrealista"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Krea 3が数秒で編集\nネイティブ2K で$0.06",
+          "body": "Krea 3はネイティブ2K で大半の編集を8秒未満で終え、製品や人物の一貫性を保つ。",
+          "mini_headline": "Krea 3は8秒未満で編集",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+                "cap": "Krea 3の紹介"
+              },
+              {
+                "t": "p",
+                "x": "この一年で画像編集は品質の一線を越えたが、最良の編集モデルは遅く高価にもなった。Kreaは新しい画像編集モデルKrea 3を公開した。大半の編集はエンドツーエンドで8秒未満、ネイティブ2K で返り、価格は2K では画像ごとに$0.06だ。"
+              },
+              {
+                "t": "p",
+                "x": "頼んでいない部分には手を触れない。製品の周りの背景を変えてもラベルは鮮明なままで、顔と服を与えれば次の画像の人物も同じ人物のままだ。編集ごとに最大6枚の参照画像を受け付ける。"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+                "cap": "手に持った同じ缶を、砕いた氷と半分に切った柚子の中へ押し込む"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+                "cap": "座席だけを入れ替え、ラグも部屋も読書する女性もそのまま。"
+              },
+              {
+                "t": "video",
+                "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+              },
+              {
+                "t": "p",
+                "x": "マーカーのスケッチやムードボード、古いポラロイドを完成した写真に変えることもできる。Krea 3はkrea.aiで3000万人のユーザーに公開中で、価格は2K で画像ごとに$0.06、1K で$0.03だ。fal、Hedra、Together AI、Nous Research、OpenRouter、Replicateからも利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+                "cap": "ソファのマーカースケッチを写実的な革製品の写真に"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Krea 3数秒完成修图\n原生2K 每张$0.06",
+          "body": "Krea 3以原生2K 在不到8秒内完成多数编辑，并保持产品与角色一致。",
+          "mini_headline": "Krea 3不到8秒完成编辑",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+                "cap": "Krea 3介绍"
+              },
+              {
+                "t": "p",
+                "x": "过去一年，图像编辑跨过了质量门槛，但最好的编辑模型也变得更慢、更贵。Krea发布了新的图像编辑模型Krea 3：大多数编辑端到端不到8秒即可返回，原生2K 输出，2K 每张图像$0.06。"
+              },
+              {
+                "t": "p",
+                "x": "它不会改动你没要求修改的部分——更换产品周围的场景，标签依旧清晰；给它一张脸和一套服装，下一张图里的人仍是同一个人。每次编辑最多可使用6张参考图。"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+                "cap": "手中的同一罐饮料，被按进碎冰和切半的柚子中"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+                "cap": "只换了座椅；地毯、房间和读书的女子都保持不变。"
+              },
+              {
+                "t": "video",
+                "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+              },
+              {
+                "t": "p",
+                "x": "它还能把马克笔草图、情绪板或旧宝丽来照片变成成片。Krea 3已在krea.ai上线，面向3000万用户，2K 每张$0.06、1K 每张$0.03，并可通过fal、Hedra、Together AI、Nous Research、OpenRouter和Replicate使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+                "cap": "一张沙发的马克笔草图变成照片级真实的皮质家具"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-cursor-canvases",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Cursor 에이전트가\n공유 캔버스를 만든다",
+      "body": "Cursor 클라우드 에이전트가 인터랙티브 캔버스를 만들고 링크로 팀에 공유한다.",
+      "mini_headline": "Cursor 에이전트의 캔버스",
+      "tool": "Figma",
+      "source": "Cursor",
+      "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+      "accent": "#3b6bff",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+            "t": "p",
+            "x": "클라우드 에이전트의 캔버스: 클라우드 에이전트가 이제 작업 중에 인터랙티브 캔버스를 만든다. 다 만든 캔버스는 링크로 팀과 나눈다."
           },
           {
             "t": "p",
-            "x": "Bluesky의 Attie는 올해 초 AI로 나만의 피드를 만드는 도구로 처음 나왔다. 이제는 이 AI 도구로 게임, 투표, 대시보드 같은 “작은” 소셜 앱을 만들고, 각 앱을 저마다의 웹사이트로 다른 사람과 나눌 수 있다. Bluesky CEO Toni Schneider는 TechCrunch Disrupt 인터뷰에서 Attie를 “소셜 바이브 코딩, 혹은 커뮤니티를 위한 바이브 코딩”쯤으로 보면 된다고 했다."
+            "x": "Environments API: Environments API가 베타로 나왔다. 에이전트가 돌아가는 클라우드 환경을 프로그래밍 방식으로 만들고 관리하는 도구다."
           },
           {
             "t": "p",
-            "x": "프롬프트만 넣으면 자신만의 Attie 앱이 나온다. 내가 만든 Pokémon Red와 Pokémon Blue 간단 투표는 만드는 데 몇 분이 걸렸다. 좀 더 제대로 된 걸 보고 싶다면 Attie 웹사이트에 올라온 예시를 보면 된다. Flappy Bird를 본뜬 “Flappy Butterfly”, 드럼 머신, 퀴즈, 셀러리 맨이 나오는 방치형 클리커 등이다. 저마다 attie.site 도메인의 전용 링크가 붙고, 페이지 하단에 누가 만들었는지 표시된다. 만져 본 앱들은 대체로 가벼운 장난감 수준이었지만 드럼 머신은 마음에 들었다."
+            "x": "더 크고 빠른 환경: 클라우드 에이전트 환경은 이제 최대 300개 저장소를 지원한다. 큰 환경은 로딩도 5x 빨라졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Bluesky's Attie now builds\nsmall social games and apps",
-          "body": "Bluesky's Attie now turns prompts into small games, polls and dashboards people can share as their own websites.",
-          "mini_headline": "Bluesky's Attie builds shareable apps",
+          "headline": "Cursor cloud agents now build\nshareable interactive canvases",
+          "body": "Cursor's cloud agents can now build interactive canvases as part of their work and share them with a team by link.",
+          "mini_headline": "Cursor agents\nbuild canvases",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+                "t": "p",
+                "x": "Canvases from cloud agents: Cloud agents can now build interactive canvases as part of their work. Share a finished canvas with your team by sending its link."
               },
               {
                 "t": "p",
-                "x": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make “small” social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to think of Attie as “social vibe coding or vibe coding for your community.”"
+                "x": "Environments API: The Environments API is now available in beta. Use it to programmatically create and manage the cloud environments your agents run in."
               },
               {
                 "t": "p",
-                "x": "You can make your own Attie app by typing in a prompt. A simple poll I made about Pokémon Red and Pokémon Blue took a few minutes to generate. If you want to check out something more full-featured, the Attie website currently highlights a few examples like a “Flappy Butterfly” Flappy Bird clone, a drum machine, a quiz, and an idle clicker about a celery man, and each has a custom link on the attie.site domain and attribution for who made the social app at the bottom of the page. The apps I’ve messed around with are pretty lightweight novelties, though I liked the drum machine."
+                "x": "Larger, faster environments: Cloud agent environments now support up to 300 repositories. Large environments also load 5x faster."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Bluesky Attie,\n소셜 게임·앱 만든다",
-          "body": "Bluesky의 Attie는 프롬프트로 작은 게임·투표·대시보드를 만든다.",
-          "mini_headline": "Bluesky Attie, 공유형 앱을 만든다",
+          "headline": "Cursor 에이전트가\n공유 캔버스를 만든다",
+          "body": "Cursor 클라우드 에이전트가 인터랙티브 캔버스를 만들고 링크로 팀에 공유한다.",
+          "mini_headline": "Cursor 에이전트의 캔버스",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+                "t": "p",
+                "x": "클라우드 에이전트의 캔버스: 클라우드 에이전트가 이제 작업 중에 인터랙티브 캔버스를 만든다. 다 만든 캔버스는 링크로 팀과 나눈다."
               },
               {
                 "t": "p",
-                "x": "Bluesky의 Attie는 올해 초 AI로 나만의 피드를 만드는 도구로 처음 나왔다. 이제는 이 AI 도구로 게임, 투표, 대시보드 같은 “작은” 소셜 앱을 만들고, 각 앱을 저마다의 웹사이트로 다른 사람과 나눌 수 있다. Bluesky CEO Toni Schneider는 TechCrunch Disrupt 인터뷰에서 Attie를 “소셜 바이브 코딩, 혹은 커뮤니티를 위한 바이브 코딩”쯤으로 보면 된다고 했다."
+                "x": "Environments API: Environments API가 베타로 나왔다. 에이전트가 돌아가는 클라우드 환경을 프로그래밍 방식으로 만들고 관리하는 도구다."
               },
               {
                 "t": "p",
-                "x": "프롬프트만 넣으면 자신만의 Attie 앱이 나온다. 내가 만든 Pokémon Red와 Pokémon Blue 간단 투표는 만드는 데 몇 분이 걸렸다. 좀 더 제대로 된 걸 보고 싶다면 Attie 웹사이트에 올라온 예시를 보면 된다. Flappy Bird를 본뜬 “Flappy Butterfly”, 드럼 머신, 퀴즈, 셀러리 맨이 나오는 방치형 클리커 등이다. 저마다 attie.site 도메인의 전용 링크가 붙고, 페이지 하단에 누가 만들었는지 표시된다. 만져 본 앱들은 대체로 가벼운 장난감 수준이었지만 드럼 머신은 마음에 들었다."
+                "x": "더 크고 빠른 환경: 클라우드 에이전트 환경은 이제 최대 300개 저장소를 지원한다. 큰 환경은 로딩도 5x 빨라졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BlueskyのAttie\nゲームやアプリも作れるように",
-          "body": "BlueskyのAttieは、プロンプトから共有できるゲームや投票、ダッシュボードを作る。",
-          "mini_headline": "BlueskyのAttie、共有できるアプリを作る",
+          "headline": "Cursorのエージェントが\n共有できるキャンバス作成",
+          "body": "Cursorのクラウドエージェントが対話型キャンバスを作り、リンクでチームに共有できる。",
+          "mini_headline": "Cursorエージェントがキャンバス作成",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+                "t": "p",
+                "x": "クラウドエージェントによるキャンバス：クラウドエージェントが作業の一環としてインタラクティブなキャンバスを作れるようになった。完成したキャンバスはリンクを送ってチームと共有できる。"
               },
               {
                 "t": "p",
-                "x": "今年初めにAIで自分だけのフィードを作る手段として登場したBlueskyのAttie AIツールで、ゲームや投票、ダッシュボードといった「小さな」ソーシャルアプリを作り、それぞれ独自のウェブサイトとして他の人と共有できるようになった。BlueskyのCEOであるToni SchneiderはTechCrunch Disruptでのインタビューで、Attieは「ソーシャルなバイブコーディング、あるいはコミュニティのためのバイブコーディング」だと考えてほしいと語った。"
+                "x": "Environments API：Environments APIがベータ版で利用可能になった。エージェントが動くクラウド環境を、プログラムから作成・管理できる。"
               },
               {
                 "t": "p",
-                "x": "プロンプトを入力すれば自分のAttieアプリを作れる。筆者がPokémon RedとPokémon Blueについて作った簡単な投票は、生成に数分かかった。もっと機能の充実したものを見たいなら、Attieのウェブサイトでは現在、Flappy Birdのクローン「Flappy Butterfly」やドラムマシン、クイズ、セロリマンが登場する放置型クリッカーなどの例が紹介されており、それぞれattie.siteドメインの専用リンクと、ページ下部に作者の表示がある。筆者が触ったアプリはかなり軽いお遊び程度だが、ドラムマシンは気に入った。"
+                "x": "より大きく、より速い環境：クラウドエージェントの環境は最大300リポジトリに対応した。大規模な環境の読み込みも5x 速くなった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bluesky的Attie\n能做小型社交游戏和应用",
-          "body": "Bluesky的Attie能把提示词变成可作为网站分享的小游戏、投票和仪表盘。",
-          "mini_headline": "Bluesky的Attie能做可分享应用",
+          "headline": "Cursor云端智能体\n可构建可分享的交互画布",
+          "body": "Cursor的云端智能体现在可在工作中构建交互式画布，并通过链接分享给团队。",
+          "mini_headline": "Cursor智能体可构建画布",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+                "t": "p",
+                "x": "云端智能体的画布：云端智能体现在可以在工作中构建交互式画布。完成后，发送链接即可与团队分享。"
               },
               {
                 "t": "p",
-                "x": "Bluesky的Attie AI工具今年早些时候推出时，是让人用AI打造自己的信息流，如今还能制作游戏、投票、仪表盘等“小型”社交应用，并以独立网站的形式分享给他人。Bluesky CEO Toni Schneider在TechCrunch Disrupt接受采访时表示，可以把Attie看作“社交版氛围编程，或者说为你的社区做的氛围编程”。"
+                "x": "Environments API：Environments API现已推出测试版。可用它以编程方式创建和管理智能体所运行的云端环境。"
               },
               {
                 "t": "p",
-                "x": "输入提示词就能做出自己的Attie应用。我做了一个关于Pokémon Red和Pokémon Blue的简单投票，生成用了几分钟。如果想看功能更完整的作品，Attie网站目前展示了几个示例，比如仿Flappy Bird的“Flappy Butterfly”、一台鼓机、一个测验，以及一个关于芹菜人的放置点击游戏，每个都有attie.site域名下的专属链接，并在页面底部注明作者。我试玩过的应用都是相当轻量的小玩意，不过我挺喜欢那台鼓机。"
+                "x": "更大、更快的环境：云端智能体环境现在最多支持300个代码仓库。大型环境还能以5x 速度加载。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Attie, de Bluesky, ya crea\npequeños juegos y apps sociales",
-          "body": "Attie, de Bluesky, convierte prompts en pequeños juegos, encuestas y paneles que se comparten como sitios web propios.",
-          "mini_headline": "Attie, de Bluesky, crea apps para compartir",
+          "headline": "Los agentes en la nube de Cursor\nya crean lienzos para compartir",
+          "body": "Los agentes en la nube de Cursor ya pueden crear lienzos interactivos y compartirlos con un equipo por enlace.",
+          "mini_headline": "Los agentes de Cursor crean lienzos",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+                "t": "p",
+                "x": "Lienzos desde agentes en la nube: los agentes en la nube ahora pueden crear lienzos interactivos como parte de su trabajo. Para compartir un lienzo terminado con tu equipo, basta con enviar su enlace."
               },
               {
                 "t": "p",
-                "x": "La herramienta de AI Attie, de Bluesky, que se lanzó a principios de este año como una forma de usar AI para crear tus propios feeds, ahora permite hacer apps sociales “pequeñas”, como juegos, encuestas y paneles, que luego puedes compartir con otros como sitios web propios. En una entrevista en TechCrunch Disrupt, el CEO de Bluesky, Toni Schneider, dijo que hay que pensar en Attie como “vibe coding social o vibe coding para tu comunidad”."
+                "x": "Environments API: la Environments API ya está disponible en beta. Úsala para crear y gestionar de forma programática los entornos en la nube en los que se ejecutan tus agentes."
               },
               {
                 "t": "p",
-                "x": "Puedes crear tu propia app de Attie escribiendo un prompt. Una encuesta sencilla que hice sobre Pokémon Red y Pokémon Blue tardó unos minutos en generarse. Si quieres ver algo más completo, el sitio web de Attie destaca ahora algunos ejemplos, como “Flappy Butterfly”, un clon de Flappy Bird, una caja de ritmos, un cuestionario y un juego de clics inactivo sobre un hombre apio; cada uno tiene un enlace propio en el dominio attie.site y, al pie de la página, el crédito de quién creó la app. Las apps que he probado son novedades bastante ligeras, aunque la caja de ritmos me gustó."
+                "x": "Entornos más grandes y rápidos: los entornos de agentes en la nube ahora admiten hasta 300 repositorios. Además, los entornos grandes cargan 5x más rápido."
               }
             ]
           }
@@ -517,89 +1039,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Bluesky Attie,\n소셜 게임·앱 만든다",
-          "body": "Bluesky의 Attie는 프롬프트로 작은 게임·투표·대시보드를 만든다.",
-          "mini_headline": "Bluesky Attie, 공유형 앱을 만든다",
+          "headline": "Cursor 에이전트가\n공유 캔버스를 만든다",
+          "body": "Cursor 클라우드 에이전트가 인터랙티브 캔버스를 만들고 링크로 팀에 공유한다.",
+          "mini_headline": "Cursor 에이전트의 캔버스",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+                "t": "p",
+                "x": "클라우드 에이전트의 캔버스: 이제 클라우드 에이전트가 작업 과정에서 인터랙티브 캔버스를 만들 수 있다. 완성된 캔버스는 링크를 보내 팀과 공유한다."
               },
               {
                 "t": "p",
-                "x": "올해 초 AI로 나만의 피드를 만드는 도구로 처음 나온 Bluesky의 Attie AI 도구로 이제 게임, 투표, 대시보드 같은 “작은” 소셜 앱을 만들고, 이를 각자의 웹사이트로 다른 사람과 공유할 수 있다. Bluesky CEO Toni Schneider는 TechCrunch Disrupt 인터뷰에서 Attie를 “소셜 바이브 코딩, 혹은 커뮤니티를 위한 바이브 코딩”으로 생각하면 된다고 말했다."
+                "x": "Environments API: Environments API가 베타로 제공된다. 이를 이용해 에이전트가 실행되는 클라우드 환경을 프로그래밍 방식으로 만들고 관리할 수 있다."
               },
               {
                 "t": "p",
-                "x": "프롬프트를 입력하면 자신만의 Attie 앱을 만들 수 있다. 내가 만든 Pokémon Red와 Pokémon Blue에 관한 간단한 투표는 생성에 몇 분이 걸렸다. 기능이 더 갖춰진 것을 보고 싶다면, Attie 웹사이트에는 현재 Flappy Bird를 본뜬 “Flappy Butterfly”, 드럼 머신, 퀴즈, 셀러리 맨이 나오는 방치형 클리커 같은 예시가 올라와 있고, 각각 attie.site 도메인의 전용 링크가 있으며 페이지 하단에 누가 만들었는지 표시된다. 내가 만져 본 앱들은 꽤 가벼운 장난감 수준이지만, 드럼 머신은 마음에 들었다."
+                "x": "더 크고 빠른 환경: 클라우드 에이전트 환경은 이제 최대 300개 저장소를 지원한다. 대규모 환경의 로딩도 5x 빨라졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BlueskyのAttie\nゲームやアプリも作れるように",
-          "body": "BlueskyのAttieは、プロンプトから共有できるゲームや投票、ダッシュボードを作る。",
-          "mini_headline": "BlueskyのAttie、共有できるアプリを作る",
+          "headline": "Cursorのエージェントが\n共有できるキャンバス作成",
+          "body": "Cursorのクラウドエージェントが対話型キャンバスを作り、リンクでチームに共有できる。",
+          "mini_headline": "Cursorエージェントがキャンバス作成",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+                "t": "p",
+                "x": "クラウドエージェントによるキャンバス：クラウドエージェントが作業の一環としてインタラクティブなキャンバスを作れるようになった。完成したキャンバスはリンクを送ってチームと共有できる。"
               },
               {
                 "t": "p",
-                "x": "今年初めにAIで自分だけのフィードを作る手段として登場したBlueskyのAttie AIツールで、ゲームや投票、ダッシュボードといった「小さな」ソーシャルアプリを作り、それぞれ独自のウェブサイトとして他の人と共有できるようになった。BlueskyのCEOであるToni SchneiderはTechCrunch Disruptでのインタビューで、Attieは「ソーシャルなバイブコーディング、あるいはコミュニティのためのバイブコーディング」だと考えてほしいと語った。"
+                "x": "Environments API：Environments APIがベータ版で利用可能になった。エージェントが動くクラウド環境を、プログラムから作成・管理できる。"
               },
               {
                 "t": "p",
-                "x": "プロンプトを入力すれば自分のAttieアプリを作れる。筆者がPokémon RedとPokémon Blueについて作った簡単な投票は、生成に数分かかった。もっと機能の充実したものを見たいなら、Attieのウェブサイトでは現在、Flappy Birdのクローン「Flappy Butterfly」やドラムマシン、クイズ、セロリマンが登場する放置型クリッカーなどの例が紹介されており、それぞれattie.siteドメインの専用リンクと、ページ下部に作者の表示がある。筆者が触ったアプリはかなり軽いお遊び程度だが、ドラムマシンは気に入った。"
+                "x": "より大きく、より速い環境：クラウドエージェントの環境は最大300リポジトリに対応した。大規模な環境の読み込みも5x 速くなった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bluesky的Attie\n能做小型社交游戏和应用",
-          "body": "Bluesky的Attie能把提示词变成可作为网站分享的小游戏、投票和仪表盘。",
-          "mini_headline": "Bluesky的Attie能做可分享应用",
+          "headline": "Cursor云端智能体\n可构建可分享的交互画布",
+          "body": "Cursor的云端智能体现在可在工作中构建交互式画布，并通过链接分享给团队。",
+          "mini_headline": "Cursor智能体可构建画布",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+                "t": "p",
+                "x": "云端智能体的画布：云端智能体现在可以在工作中构建交互式画布。完成后，发送链接即可与团队分享。"
               },
               {
                 "t": "p",
-                "x": "Bluesky的Attie AI工具今年早些时候推出时，是让人用AI打造自己的信息流，如今还能制作游戏、投票、仪表盘等“小型”社交应用，并以独立网站的形式分享给他人。Bluesky CEO Toni Schneider在TechCrunch Disrupt接受采访时表示，可以把Attie看作“社交版氛围编程，或者说为你的社区做的氛围编程”。"
+                "x": "Environments API：Environments API现已推出测试版。可用它以编程方式创建和管理智能体所运行的云端环境。"
               },
               {
                 "t": "p",
-                "x": "输入提示词就能做出自己的Attie应用。我做了一个关于Pokémon Red和Pokémon Blue的简单投票，生成用了几分钟。如果想看功能更完整的作品，Attie网站目前展示了几个示例，比如仿Flappy Bird的“Flappy Butterfly”、一台鼓机、一个测验，以及一个关于芹菜人的放置点击游戏，每个都有attie.site域名下的专属链接，并在页面底部注明作者。我试玩过的应用都是相当轻量的小玩意，不过我挺喜欢那台鼓机。"
+                "x": "更大、更快的环境：云端智能体环境现在最多支持300个代码仓库。大型环境还能以5x 速度加载。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Attie, de Bluesky, ya crea\npequeños juegos y apps sociales",
-          "body": "Attie, de Bluesky, convierte prompts en pequeños juegos, encuestas y paneles que se comparten como sitios web propios.",
-          "mini_headline": "Attie, de Bluesky, crea apps para compartir",
+          "headline": "Los agentes en la nube de Cursor\nya crean lienzos para compartir",
+          "body": "Los agentes en la nube de Cursor ya pueden crear lienzos interactivos y compartirlos con un equipo por enlace.",
+          "mini_headline": "Los agentes de Cursor crean lienzos",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&w=1200"
+                "t": "p",
+                "x": "Lienzos desde agentes en la nube: los agentes en la nube ahora pueden crear lienzos interactivos como parte de su trabajo. Para compartir un lienzo terminado con tu equipo, basta con enviar su enlace."
               },
               {
                 "t": "p",
-                "x": "La herramienta de AI Attie, de Bluesky, que se lanzó a principios de este año como una forma de usar AI para crear tus propios feeds, ahora permite hacer apps sociales “pequeñas”, como juegos, encuestas y paneles, que luego puedes compartir con otros como sitios web propios. En una entrevista en TechCrunch Disrupt, el CEO de Bluesky, Toni Schneider, dijo que hay que pensar en Attie como “vibe coding social o vibe coding para tu comunidad”."
+                "x": "Environments API: la Environments API ya está disponible en beta. Úsala para crear y gestionar de forma programática los entornos en la nube en los que se ejecutan tus agentes."
               },
               {
                 "t": "p",
-                "x": "Puedes crear tu propia app de Attie escribiendo un prompt. Una encuesta sencilla que hice sobre Pokémon Red y Pokémon Blue tardó unos minutos en generarse. Si quieres ver algo más completo, el sitio web de Attie destaca ahora algunos ejemplos, como “Flappy Butterfly”, un clon de Flappy Bird, una caja de ritmos, un cuestionario y un juego de clics inactivo sobre un hombre apio; cada uno tiene un enlace propio en el dominio attie.site y, al pie de la página, el crédito de quién creó la app. Las apps que he probado son novedades bastante ligeras, aunque la caja de ritmos me gustó."
+                "x": "Entornos más grandes y rápidos: los entornos de agentes en la nube ahora admiten hasta 300 repositorios. Además, los entornos grandes cargan 5x más rápido."
               }
             ]
           }
@@ -607,287 +1129,15 @@
       }
     },
     {
-      "id": "design-lovable-models",
+      "id": "design-vercel-ship",
       "source_lang": "en",
-      "tool": "Figma",
       "eyebrow": "AI NEWS",
-      "headline": "Lovable 앱이 이제\n말하고 추론하고 작곡한다",
-      "body": "Lovable 앱이 GPT-Live·Claude·Gemini·Lyria를 쓴다.",
-      "mini_headline": "Lovable 앱에 음성과 영상이 붙는다",
-      "source": "Lovable",
-      "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Lovable에서 만든 앱이 쓸 수 있는 AI 모델과 도구가 새로 늘었다. 말을 주고받는 튜터, 출처를 확인할 수 있는 리서치 도구, 답장 초안을 써 주는 고객 지원 받은편지함까지 Lovable 밖으로 나가지 않고 만든다."
-          },
-          {
-            "t": "p",
-            "x": "실시간 음성 대화는 OpenAI의 GPT-Live가 맡는다. Anthropic의 최신 Claude 모델은 읽기와 추론, 더 긴 작업을 처리한다. Google 쪽에서는 Gemini 4 Argon이 지식 업무를 맡고, Gemini Omni는 텍스트·사진·오디오·클립을 영상으로 바꾼다. 오리지널 음악은 Lyria가 만든다."
-          },
-          {
-            "t": "p",
-            "x": "Perplexity는 실시간 웹에서 찾은 답에 출처를 달아 준다. Firecrawl과 Parallel은 웹 데이터를 검색해 모으고, Typesafe AI의 Jev는 분류·점수 매기기·라우팅 결정을 빠르게 내린다."
-          },
-          {
-            "t": "p",
-            "x": "사용자는 원하는 앱이나 기능을 설명하면 그만이다. 모델이나 도구는 Lovable이 고르고, 채팅에 “use Opus 5.5”나 “use Perplexity”라고 적어 직접 정해도 된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Lovable apps can now talk,\nreason, and make music",
-          "body": "Lovable now lets prompt-built apps call GPT-Live, Claude, Gemini and Lyria for voice, reasoning, video and music.",
-          "mini_headline": "Lovable apps gain voice and video",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lovable is adding new AI models and tools that the apps people build on it can use, so a tutor people can talk to, a research tool with checkable sources, or a support inbox that drafts replies can be built without leaving Lovable."
-              },
-              {
-                "t": "p",
-                "x": "GPT-Live from OpenAI brings real-time voice conversation. The latest Claude models from Anthropic handle reading, reasoning and longer tasks. From Google, Gemini 4 Argon covers knowledge work, Gemini Omni turns text, photos, audio and clips into video, and Lyria writes original music."
-              },
-              {
-                "t": "p",
-                "x": "Perplexity adds cited answers from the live web, Firecrawl and Parallel search and gather web data, and Jev by Typesafe AI makes quick sort, score and route decisions."
-              },
-              {
-                "t": "p",
-                "x": "Users just describe the app or feature they want. Lovable will choose a model or tool, or they can name one in the chat, like “use Opus 5.5” or “use Perplexity.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Lovable 앱이 이제\n말하고 추론하고 작곡한다",
-          "body": "Lovable 앱이 GPT-Live·Claude·Gemini·Lyria를 쓴다.",
-          "mini_headline": "Lovable 앱에 음성과 영상이 붙는다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lovable에서 만든 앱이 쓸 수 있는 AI 모델과 도구가 새로 늘었다. 말을 주고받는 튜터, 출처를 확인할 수 있는 리서치 도구, 답장 초안을 써 주는 고객 지원 받은편지함까지 Lovable 밖으로 나가지 않고 만든다."
-              },
-              {
-                "t": "p",
-                "x": "실시간 음성 대화는 OpenAI의 GPT-Live가 맡는다. Anthropic의 최신 Claude 모델은 읽기와 추론, 더 긴 작업을 처리한다. Google 쪽에서는 Gemini 4 Argon이 지식 업무를 맡고, Gemini Omni는 텍스트·사진·오디오·클립을 영상으로 바꾼다. 오리지널 음악은 Lyria가 만든다."
-              },
-              {
-                "t": "p",
-                "x": "Perplexity는 실시간 웹에서 찾은 답에 출처를 달아 준다. Firecrawl과 Parallel은 웹 데이터를 검색해 모으고, Typesafe AI의 Jev는 분류·점수 매기기·라우팅 결정을 빠르게 내린다."
-              },
-              {
-                "t": "p",
-                "x": "사용자는 원하는 앱이나 기능을 설명하면 그만이다. 모델이나 도구는 Lovable이 고르고, 채팅에 “use Opus 5.5”나 “use Perplexity”라고 적어 직접 정해도 된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Lovableのアプリが\n話し、推論し、作曲する",
-          "body": "LovableアプリはGPT-Live、Claude、Gemini、Lyriaを使える。",
-          "mini_headline": "Lovableアプリに音声と動画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lovableは、そこで作られたアプリが使える新しいAIモデルとツールを追加している。話しかけられる家庭教師、出典を確認できるリサーチツール、返信の下書きを作るサポート用受信箱を、Lovableを離れずに作れる。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIのGPT-Liveはリアルタイムの音声会話をもたらす。Anthropicの最新Claudeモデルは読解、推論、長めのタスクを担う。Googleからは、Gemini 4 Argonが知的作業を、Gemini Omniがテキスト・写真・音声・クリップを動画に変える役割を担い、Lyriaはオリジナルの音楽を作る。"
-              },
-              {
-                "t": "p",
-                "x": "Perplexityはライブのウェブから出典付きの回答を加え、FirecrawlとParallelはウェブデータを検索・収集し、Typesafe AIのJevは分類、スコアリング、振り分けの判断を素早く下す。"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーは欲しいアプリや機能を説明するだけでよい。Lovableがモデルやツールを選ぶほか、チャットで「use Opus 5.5」や「use Perplexity」のように指名することもできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Lovable应用现在能\n说话、推理、作曲",
-          "body": "Lovable应用可调用GPT-Live、Claude、Gemini和Lyria。",
-          "mini_headline": "Lovable应用新增语音与视频",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lovable正在新增一批AI模型和工具，供用户在平台上搭建的应用调用。这样一来，可以对话的辅导老师、来源可核查的研究工具、能起草回复的客服收件箱，都无需离开Lovable就能做出来。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI的GPT-Live带来实时语音对话。Anthropic最新的Claude模型负责阅读、推理和更长的任务。来自Google的Gemini 4 Argon承担知识工作，Gemini Omni把文本、照片、音频和片段变成视频，Lyria则创作原创音乐。"
-              },
-              {
-                "t": "p",
-                "x": "Perplexity提供来自实时网络、附带引用的回答，Firecrawl和Parallel负责搜索并收集网页数据，Typesafe AI的Jev则快速做出分类、打分和分流决策。"
-              },
-              {
-                "t": "p",
-                "x": "用户只需描述想要的应用或功能。Lovable会自行选择模型或工具，用户也可以在聊天中点名，比如“use Opus 5.5”或“use Perplexity”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las apps de Lovable ya hablan,\nrazonan y hacen música",
-          "body": "Lovable permite que las apps usen GPT-Live, Claude, Gemini y Lyria para voz, razonamiento, video y música.",
-          "mini_headline": "Las apps de Lovable suman voz y video",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lovable está añadiendo nuevos modelos y herramientas de AI que pueden usar las apps creadas en la plataforma, de modo que un tutor con el que se puede hablar, una herramienta de investigación con fuentes verificables o una bandeja de soporte que redacta respuestas se pueden crear sin salir de Lovable."
-              },
-              {
-                "t": "p",
-                "x": "GPT-Live, de OpenAI, aporta conversación por voz en tiempo real. Los modelos Claude más recientes de Anthropic se ocupan de la lectura, el razonamiento y las tareas más largas. De Google, Gemini 4 Argon cubre el trabajo de conocimiento, Gemini Omni convierte texto, fotos, audio y clips en video, y Lyria compone música original."
-              },
-              {
-                "t": "p",
-                "x": "Perplexity añade respuestas con citas de la web en vivo, Firecrawl y Parallel buscan y recopilan datos web, y Jev, de Typesafe AI, toma decisiones rápidas de clasificación, puntuación y enrutamiento."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios solo describen la app o la función que quieren. Lovable elige un modelo o una herramienta, o pueden nombrar uno en el chat, como “use Opus 5.5” o “use Perplexity”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Lovable 앱이 이제\n말하고 추론하고 작곡한다",
-          "body": "Lovable 앱이 GPT-Live·Claude·Gemini·Lyria를 쓴다.",
-          "mini_headline": "Lovable 앱에 음성과 영상이 붙는다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lovable이 그 위에서 만든 앱이 쓸 수 있는 새 AI 모델과 도구를 더한다. 대화할 수 있는 튜터, 출처를 확인할 수 있는 리서치 도구, 답장 초안을 써 주는 고객 지원 받은편지함을 Lovable을 떠나지 않고 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI의 GPT-Live는 실시간 음성 대화를 맡는다. Anthropic의 최신 Claude 모델은 읽기와 추론, 더 긴 작업을 처리한다. Google 쪽에서는 Gemini 4 Argon이 지식 업무를, Gemini Omni가 텍스트·사진·오디오·클립을 영상으로 바꾸는 일을 맡고, Lyria는 오리지널 음악을 만든다."
-              },
-              {
-                "t": "p",
-                "x": "Perplexity는 실시간 웹에서 출처를 단 답변을 더하고, Firecrawl과 Parallel은 웹 데이터를 검색하고 모으며, Typesafe AI의 Jev는 분류·점수 매기기·라우팅 결정을 빠르게 내린다."
-              },
-              {
-                "t": "p",
-                "x": "사용자는 원하는 앱이나 기능을 설명하기만 하면 된다. Lovable이 모델이나 도구를 고르고, 채팅에서 “use Opus 5.5”나 “use Perplexity”처럼 직접 지정할 수도 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Lovableのアプリが\n話し、推論し、作曲する",
-          "body": "LovableアプリはGPT-Live、Claude、Gemini、Lyriaを使える。",
-          "mini_headline": "Lovableアプリに音声と動画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lovableは、そこで作られたアプリが使える新しいAIモデルとツールを追加している。話しかけられる家庭教師、出典を確認できるリサーチツール、返信の下書きを作るサポート用受信箱を、Lovableを離れずに作れる。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIのGPT-Liveはリアルタイムの音声会話をもたらす。Anthropicの最新Claudeモデルは読解、推論、長めのタスクを担う。Googleからは、Gemini 4 Argonが知的作業を、Gemini Omniがテキスト・写真・音声・クリップを動画に変える役割を担い、Lyriaはオリジナルの音楽を作る。"
-              },
-              {
-                "t": "p",
-                "x": "Perplexityはライブのウェブから出典付きの回答を加え、FirecrawlとParallelはウェブデータを検索・収集し、Typesafe AIのJevは分類、スコアリング、振り分けの判断を素早く下す。"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーは欲しいアプリや機能を説明するだけでよい。Lovableがモデルやツールを選ぶほか、チャットで「use Opus 5.5」や「use Perplexity」のように指名することもできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Lovable应用现在能\n说话、推理、作曲",
-          "body": "Lovable应用可调用GPT-Live、Claude、Gemini和Lyria。",
-          "mini_headline": "Lovable应用新增语音与视频",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lovable正在新增一批AI模型和工具，供用户在平台上搭建的应用调用。这样一来，可以对话的辅导老师、来源可核查的研究工具、能起草回复的客服收件箱，都无需离开Lovable就能做出来。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI的GPT-Live带来实时语音对话。Anthropic最新的Claude模型负责阅读、推理和更长的任务。来自Google的Gemini 4 Argon承担知识工作，Gemini Omni把文本、照片、音频和片段变成视频，Lyria则创作原创音乐。"
-              },
-              {
-                "t": "p",
-                "x": "Perplexity提供来自实时网络、附带引用的回答，Firecrawl和Parallel负责搜索并收集网页数据，Typesafe AI的Jev则快速做出分类、打分和分流决策。"
-              },
-              {
-                "t": "p",
-                "x": "用户只需描述想要的应用或功能。Lovable会自行选择模型或工具，用户也可以在聊天中点名，比如“use Opus 5.5”或“use Perplexity”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las apps de Lovable ya hablan,\nrazonan y hacen música",
-          "body": "Lovable permite que las apps usen GPT-Live, Claude, Gemini y Lyria para voz, razonamiento, video y música.",
-          "mini_headline": "Las apps de Lovable suman voz y video",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Lovable está añadiendo nuevos modelos y herramientas de AI que pueden usar las apps creadas en la plataforma, de modo que un tutor con el que se puede hablar, una herramienta de investigación con fuentes verificables o una bandeja de soporte que redacta respuestas se pueden crear sin salir de Lovable."
-              },
-              {
-                "t": "p",
-                "x": "GPT-Live, de OpenAI, aporta conversación por voz en tiempo real. Los modelos Claude más recientes de Anthropic se ocupan de la lectura, el razonamiento y las tareas más largas. De Google, Gemini 4 Argon cubre el trabajo de conocimiento, Gemini Omni convierte texto, fotos, audio y clips en video, y Lyria compone música original."
-              },
-              {
-                "t": "p",
-                "x": "Perplexity añade respuestas con citas de la web en vivo, Firecrawl y Parallel buscan y recopilan datos web, y Jev, de Typesafe AI, toma decisiones rápidas de clasificación, puntuación y enrutamiento."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios solo describen la app o la función que quieren. Lovable elige un modelo o una herramienta, o pueden nombrar uno en el chat, como “use Opus 5.5” o “use Perplexity”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-flux3-klein",
-      "source_lang": "en",
+      "headline": "SAP, 디자인 시스템을\n사람·에이전트용으로 재편",
+      "body": "Vercel Ship: SAP에선 사람·에이전트가 같은 부품으로 UIs를 짠다.",
+      "mini_headline": "에이전트용 SAP 디자인 시스템",
       "tool": "Design Tokens",
-      "eyebrow": "AI NEWS",
-      "headline": "FLUX.3 Klein,\n첫날부터 Diffusers",
-      "body": "FLUX.3 Image Klein, 작은 GPUs용 FP8·NVFP4도 나왔다.",
-      "mini_headline": "FLUX.3 Klein, Diffusers에 합류",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Vercel",
+      "url": "https://vercel.com/blog/vercel-ship-2026-recap",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -895,185 +1145,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-            "cap": "FLUX.3 Image Klein으로 하는 텍스트-이미지, 이미지-이미지 생성과 레이아웃 제어"
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+            "cap": "\"개발자인 여러분 뒤에 Agentic Infrastructure의 모든 힘을 실어 주려고 Vercel을 만들었다.\""
           },
           {
             "t": "p",
-            "x": "Black Forest Labs의 FLUX.3 Image Klein이 나왔다. 첫날부터 Diffusers에서 돌아간다. 모델 하나가 텍스트-이미지 생성과, 참조 이미지 여러 장을 쓰는 이미지-이미지 생성을 모두 하고 레이아웃 제어까지 더했다. 프롬프트에 바운딩 박스를 적으면 이미지의 각 부분이 들어갈 자리와 참조 이미지에서 옮겨 올 부분이 정해진다."
+            "x": "Vercel Ship 2026에는 London, Berlin, New York, Sydney, San Francisco에서 수천 명이 모였고, 초점은 에이전트를 위한 인프라였다."
+          },
+          {
+            "t": "p",
+            "x": "SAP의 Philip Miseldine과 Sophia Levens는 SAP가 v0, eve, json-render로 생성형 인터페이스를 만드는 방식을 보여 줬다. 무게는 일관된 디자인과 정부 요건에 뒀다. Berlin에서 Miseldine은 회사가 디자인 시스템을 조합 가능한 구조로 다시 짜서 사람과 에이전트가 같은 부품으로 인터페이스를 조립하게 된 과정을 들려줬다. v0는 빌드, 전달, 결정 단계 전반에서 돌아간다."
           },
           {
             "t": "img",
-            "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-            "cap": "0–1000 그리드에 박스로 배치한 캡션 하나와 영역 설명 두 개, 그 결과로 나온 이미지"
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+            "cap": "Berlin의 Ship 2026"
           },
           {
             "t": "p",
-            "x": "공개된 체크포인트는 둘이다. 빠른 추론용 타임스텝 증류 모델(16단계, CFG 없음)과 기본 모델(50단계, CFG)이다. 증류 체크포인트는 H100에서 1024 × 1024 이미지를 약 2초 만에 뽑는다."
+            "x": "Nicolas Le Pallec(AKQA): AI-native 고객 경험에서는 내비게이션 자리를 의도가 차지한다. 포착한 고객 의도와 브랜드 브레인, 페이지를 즉석에서 짜는 생성형 UI가 그 수단이다. Victor Oliveros(ZoomInfo): ZoomInfo에서는 40,000+ 고객이 제품에 내장된 v0로 자기만의 워크플로를 만든다."
           },
           {
             "t": "p",
-            "x": "작은 GPUs에서는 NVFP4와 FP8 가중치를 from_single_file로 불러 쓰면 된다. LoRA 학습 스크립트는 텍스트-이미지 생성과 이미지 편집을 지원한다. 이번 릴리스는 Modular Diffusers 파이프라인으로 나와 블록을 갈아 끼우거나 더할 수 있다."
+            "x": "디자이너에게 왜 API를 먼저, UI를 마지막에 디자인하라고 하느냐는 질문에 Notion CEO Ivan Zhao는 이렇게 답했다. \"다음 고객은 사람만이 아니라 사람과 에이전트이고, 에이전트는 앞을 보지 못한다… 그러니 구조와 의미를 먼저, 인터페이스는 마지막에 디자인하라.\""
+          },
+          {
+            "t": "img",
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+            "cap": "New York의 Ship 2026"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "FLUX.3 Image Klein lands\nin Diffusers on day one",
-          "body": "Open FLUX.3 Image Klein offers bounding-box layout control, with FP8 and NVFP4 weights for smaller GPUs.",
-          "mini_headline": "FLUX.3 Klein arrives in Diffusers",
+          "headline": "SAP rebuilds its design system\nfor people and agents alike",
+          "body": "Vercel's Ship recap details SAP rebuilding its design system so people and agents assemble UIs from the same parts.",
+          "mini_headline": "SAP design system\nbuilt for agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-                "cap": "Text-to-image, image-to-image, and layout control with FLUX.3 Image Klein"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+                "cap": "\"We built Vercel to put the full power of Agentic Infrastructure behind you, the developer.\""
               },
               {
                 "t": "p",
-                "x": "Black Forest Labs' FLUX.3 Image Klein is here, and it runs in Diffusers from day one. One model does text-to-image and multi-reference image-to-image, and adds layout control: you write bounding boxes into the prompt to say where each part of the image should go, or which parts of a reference image to move."
+                "x": "Thousands of people gathered across London, Berlin, New York, Sydney and San Francisco at Vercel Ship 2026, focused on infrastructure for agents."
+              },
+              {
+                "t": "p",
+                "x": "Philip Miseldine and Sophia Levens from SAP showed how SAP is using v0, eve and json-render to build generative interfaces, with a focus on consistent design and government requirements. In Berlin, Miseldine showed how the company rebuilt its design system to be composable, so people and agents assemble interfaces from the same parts, with v0 running across its build, deliver and decide stages."
               },
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-                "cap": "A caption and two region descriptions placed as boxes on a 0–1000 grid, and the generated image"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+                "cap": "Ship 2026 in Berlin"
               },
               {
                 "t": "p",
-                "x": "Two open checkpoints ship: a timestep-distilled model for fast inference (16 steps, no CFG) and a base model (50 steps, CFG). The distilled checkpoint makes a 1024 × 1024 image in about 2 seconds on an H100."
+                "x": "Nicolas Le Pallec (AKQA): AI-native customer experience replaces navigation with intent, through captured customer intent, a brand brain, and generative UI that composes pages on the fly. Victor Oliveros (ZoomInfo): at ZoomInfo, 40,000+ customers build their own workflows with v0 embedded in the product."
               },
               {
                 "t": "p",
-                "x": "NVFP4 and FP8 weights load with from_single_file for smaller GPUs, LoRA training scripts cover text-to-image and image editing, and the release ships as a Modular Diffusers pipeline so blocks can be swapped or added."
+                "x": "Asked why he tells designers to design for the API first and the UI last, Notion CEO Ivan Zhao said: \"your next customer isn't only a human, it's a human and an agent, and agents are blind… So design the structure and the meaning first, the interface last.\""
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+                "cap": "Ship 2026 in New York"
               }
             ]
           }
         },
         "ko": {
-          "headline": "FLUX.3 Klein,\n첫날부터 Diffusers",
-          "body": "FLUX.3 Image Klein, 작은 GPUs용 FP8·NVFP4도 나왔다.",
-          "mini_headline": "FLUX.3 Klein, Diffusers에 합류",
+          "headline": "SAP, 디자인 시스템을\n사람·에이전트용으로 재편",
+          "body": "Vercel Ship: SAP에선 사람·에이전트가 같은 부품으로 UIs를 짠다.",
+          "mini_headline": "에이전트용 SAP 디자인 시스템",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-                "cap": "FLUX.3 Image Klein으로 하는 텍스트-이미지, 이미지-이미지 생성과 레이아웃 제어"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+                "cap": "\"개발자인 여러분 뒤에 Agentic Infrastructure의 모든 힘을 실어 주려고 Vercel을 만들었다.\""
               },
               {
                 "t": "p",
-                "x": "Black Forest Labs의 FLUX.3 Image Klein이 나왔다. 첫날부터 Diffusers에서 돌아간다. 모델 하나가 텍스트-이미지 생성과, 참조 이미지 여러 장을 쓰는 이미지-이미지 생성을 모두 하고 레이아웃 제어까지 더했다. 프롬프트에 바운딩 박스를 적으면 이미지의 각 부분이 들어갈 자리와 참조 이미지에서 옮겨 올 부분이 정해진다."
+                "x": "Vercel Ship 2026에는 London, Berlin, New York, Sydney, San Francisco에서 수천 명이 모였고, 초점은 에이전트를 위한 인프라였다."
+              },
+              {
+                "t": "p",
+                "x": "SAP의 Philip Miseldine과 Sophia Levens는 SAP가 v0, eve, json-render로 생성형 인터페이스를 만드는 방식을 보여 줬다. 무게는 일관된 디자인과 정부 요건에 뒀다. Berlin에서 Miseldine은 회사가 디자인 시스템을 조합 가능한 구조로 다시 짜서 사람과 에이전트가 같은 부품으로 인터페이스를 조립하게 된 과정을 들려줬다. v0는 빌드, 전달, 결정 단계 전반에서 돌아간다."
               },
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-                "cap": "0–1000 그리드에 박스로 배치한 캡션 하나와 영역 설명 두 개, 그 결과로 나온 이미지"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+                "cap": "Berlin의 Ship 2026"
               },
               {
                 "t": "p",
-                "x": "공개된 체크포인트는 둘이다. 빠른 추론용 타임스텝 증류 모델(16단계, CFG 없음)과 기본 모델(50단계, CFG)이다. 증류 체크포인트는 H100에서 1024 × 1024 이미지를 약 2초 만에 뽑는다."
+                "x": "Nicolas Le Pallec(AKQA): AI-native 고객 경험에서는 내비게이션 자리를 의도가 차지한다. 포착한 고객 의도와 브랜드 브레인, 페이지를 즉석에서 짜는 생성형 UI가 그 수단이다. Victor Oliveros(ZoomInfo): ZoomInfo에서는 40,000+ 고객이 제품에 내장된 v0로 자기만의 워크플로를 만든다."
               },
               {
                 "t": "p",
-                "x": "작은 GPUs에서는 NVFP4와 FP8 가중치를 from_single_file로 불러 쓰면 된다. LoRA 학습 스크립트는 텍스트-이미지 생성과 이미지 편집을 지원한다. 이번 릴리스는 Modular Diffusers 파이프라인으로 나와 블록을 갈아 끼우거나 더할 수 있다."
+                "x": "디자이너에게 왜 API를 먼저, UI를 마지막에 디자인하라고 하느냐는 질문에 Notion CEO Ivan Zhao는 이렇게 답했다. \"다음 고객은 사람만이 아니라 사람과 에이전트이고, 에이전트는 앞을 보지 못한다… 그러니 구조와 의미를 먼저, 인터페이스는 마지막에 디자인하라.\""
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+                "cap": "New York의 Ship 2026"
               }
             ]
           }
         },
         "ja": {
-          "headline": "FLUX.3 Klein、\n初日からDiffusersで",
-          "body": "FLUX.3 Image Kleinは小型GPUs向けFP8・NVFP4重みも配布する。",
-          "mini_headline": "FLUX.3 KleinがDiffusersに登場",
+          "headline": "SAPがデザインシステム\n人とエージェント向けに刷新",
+          "body": "Vercel ShipでSAPは、人とエージェントが同じ部品でUIsを組む仕組みを語った。",
+          "mini_headline": "エージェント向けSAPデザインシステム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-                "cap": "FLUX.3 Image Kleinによるテキストからの画像生成、画像から画像への生成、レイアウト制御"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+                "cap": "「開発者であるあなたの背後に、Agentic Infrastructureの力をすべて注ぐためにVercelをつくった」"
               },
               {
                 "t": "p",
-                "x": "Black Forest LabsのFLUX.3 Image Kleinが登場し、初日からDiffusersで動く。1つのモデルでテキストからの画像生成と、複数の参照画像を使う画像から画像への生成をこなし、さらにレイアウト制御を加えた。プロンプトにバウンディングボックスを書き込み、画像の各部分をどこに置くか、参照画像のどの部分を動かすかを指定する。"
+                "x": "Vercel Ship 2026にはLondon、Berlin、New York、Sydney、San Franciscoで数千人が集まり、エージェントのためのインフラに焦点が当てられた。"
+              },
+              {
+                "t": "p",
+                "x": "SAPのPhilip MiseldineとSophia Levensは、SAPがv0、eve、json-renderを使って生成型インターフェースを構築する様子を紹介し、一貫したデザインと政府の要件に重点を置いた。Berlinでは、Miseldineが同社のデザインシステムをコンポーザブルに作り直し、人とエージェントが同じ部品からインターフェースを組み立てられるようにしたことを示した。v0はビルド、デリバー、ディサイドの各段階で動いている。"
               },
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-                "cap": "0–1000のグリッド上にボックスとして配置したキャプション1つと領域の説明2つ、そして生成された画像"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+                "cap": "BerlinでのShip 2026"
               },
               {
                 "t": "p",
-                "x": "公開チェックポイントは2つ。高速推論向けのタイムステップ蒸留モデル(16ステップ、CFGなし)と、ベースモデル(50ステップ、CFGあり)だ。蒸留チェックポイントはH100で1024 × 1024の画像を約2秒で生成する。"
+                "x": "Nicolas Le Pallec（AKQA）：AI-nativeな顧客体験は、ナビゲーションを意図に置き換える。その手段は、捉えた顧客の意図、ブランドブレイン、そしてページをその場で組み立てる生成UIだ。Victor Oliveros（ZoomInfo）：ZoomInfoでは40,000+の顧客が、製品に組み込まれたv0で独自のワークフローを構築している。"
               },
               {
                 "t": "p",
-                "x": "小型のGPUs向けにNVFP4とFP8の重みをfrom_single_fileで読み込め、LoRAの学習スクリプトはテキストからの画像生成と画像編集に対応する。リリースはModular Diffusersパイプラインとして提供され、ブロックの差し替えや追加ができる。"
+                "x": "なぜデザイナーにAPIを先に、UIを最後にデザインせよと言うのかと問われ、Notion CEOのIvan Zhaoはこう答えた。「次の顧客は人間だけではなく、人間とエージェントだ。そしてエージェントは目が見えない……だから構造と意味を先に、インターフェースを最後にデザインせよ」"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+                "cap": "New YorkでのShip 2026"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FLUX.3 Klein\n首日登陆Diffusers",
-          "body": "开源FLUX.3 Image Klein为小型GPUs提供FP8与NVFP4权重。",
-          "mini_headline": "FLUX.3 Klein登陆Diffusers",
+          "headline": "SAP重建设计系统\n让人与智能体共同使用",
+          "body": "Vercel Ship回顾称，SAP重建设计系统，让人与智能体用同样的组件搭建UIs。",
+          "mini_headline": "SAP为智能体打造设计系统",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-                "cap": "用FLUX.3 Image Klein实现文生图、图生图与布局控制"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+                "cap": "“我们打造Vercel，是为了把Agentic Infrastructure的全部力量放在开发者你的身后。”"
               },
               {
                 "t": "p",
-                "x": "Black Forest Labs的FLUX.3 Image Klein现已发布，首日即可在Diffusers中运行。一个模型同时支持文生图和多参考图生图，并加入布局控制：在提示词中写入边界框，指定图像各部分的位置，或参考图中哪些部分需要移动。"
+                "x": "Vercel Ship 2026在London、Berlin、New York、Sydney和San Francisco吸引了数千人参加，焦点是面向智能体的基础设施。"
+              },
+              {
+                "t": "p",
+                "x": "来自SAP的Philip Miseldine和Sophia Levens展示了SAP如何使用v0、eve和json-render构建生成式界面，重点是设计一致性和政府要求。在Berlin，Miseldine展示了公司如何把设计系统重建为可组合的形式，让人与智能体用同样的组件拼装界面，v0则贯穿其构建、交付和决策各阶段。"
               },
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-                "cap": "在0–1000网格上以方框放置的一条描述和两段区域说明，以及生成的图像"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+                "cap": "Berlin的Ship 2026"
               },
               {
                 "t": "p",
-                "x": "此次发布两个开放检查点：用于快速推理的时间步蒸馏模型（16步，无CFG）和基础模型（50步，使用CFG）。蒸馏检查点在H100上生成一张1024 × 1024图像约需2秒。"
+                "x": "Nicolas Le Pallec（AKQA）：AI-native的客户体验以意图取代导航，依靠捕捉到的客户意图、品牌大脑，以及即时组合页面的生成式UI。Victor Oliveros（ZoomInfo）：在ZoomInfo，40,000+客户借助嵌入产品中的v0构建自己的工作流。"
               },
               {
                 "t": "p",
-                "x": "NVFP4和FP8权重可通过from_single_file加载，适合较小的GPUs；LoRA训练脚本涵盖文生图和图像编辑；此次发布以Modular Diffusers流水线形式提供，可替换或添加模块。"
+                "x": "被问到为什么要求设计师先为API设计、最后才设计UI时，Notion CEO Ivan Zhao说：“你的下一位客户不只是人，而是人加上智能体，而智能体是看不见的……所以先设计结构和含义，最后才是界面。”"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+                "cap": "New York的Ship 2026"
               }
             ]
           }
         },
         "es": {
-          "headline": "FLUX.3 Image Klein llega\na Diffusers desde el primer día",
-          "body": "FLUX.3 Image Klein, abierto, ofrece control de composición con cajas y pesos FP8 y NVFP4 para GPUs más pequeñas.",
-          "mini_headline": "FLUX.3 Klein llega a Diffusers",
+          "headline": "SAP rehace su sistema de diseño\npara personas y agentes",
+          "body": "Vercel Ship: SAP mostró cómo rehízo su sistema de diseño para que personas y agentes armen UIs con las mismas piezas.",
+          "mini_headline": "El sistema de diseño de SAP, para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-                "cap": "Texto a imagen, imagen a imagen y control de composición con FLUX.3 Image Klein"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+                "cap": "\"Construimos Vercel para poner todo el poder de la Agentic Infrastructure detrás de ti, el desarrollador.\""
               },
               {
                 "t": "p",
-                "x": "Ya está aquí FLUX.3 Image Klein, de Black Forest Labs, y funciona en Diffusers desde el primer día. Un solo modelo hace texto a imagen e imagen a imagen con varias referencias, y añade control de composición: se escriben cajas delimitadoras en el prompt para indicar dónde debe ir cada parte de la imagen o qué partes de una imagen de referencia mover."
+                "x": "Miles de personas se reunieron en London, Berlin, New York, Sydney y San Francisco en Vercel Ship 2026, centrado en la infraestructura para agentes."
+              },
+              {
+                "t": "p",
+                "x": "Philip Miseldine y Sophia Levens, de SAP, mostraron cómo SAP usa v0, eve y json-render para crear interfaces generativas, con énfasis en un diseño coherente y en los requisitos gubernamentales. En Berlin, Miseldine mostró cómo la empresa reconstruyó su sistema de diseño para hacerlo componible, de modo que personas y agentes ensamblen interfaces con las mismas piezas, con v0 funcionando en sus etapas de construir, entregar y decidir."
               },
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-                "cap": "Una leyenda y dos descripciones de regiones colocadas como cajas en una cuadrícula de 0–1000, y la imagen generada"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+                "cap": "Ship 2026 en Berlin"
               },
               {
                 "t": "p",
-                "x": "Se publican dos checkpoints abiertos: un modelo destilado por pasos de tiempo para inferencia rápida (16 pasos, sin CFG) y un modelo base (50 pasos, con CFG). El checkpoint destilado genera una imagen de 1024 × 1024 en unos 2 segundos en una H100."
+                "x": "Nicolas Le Pallec (AKQA): la experiencia de cliente AI-native sustituye la navegación por la intención, mediante la intención del cliente capturada, un cerebro de marca y una UI generativa que compone páginas sobre la marcha. Victor Oliveros (ZoomInfo): en ZoomInfo, 40,000+ clientes crean sus propios flujos de trabajo con v0 integrado en el producto."
               },
               {
                 "t": "p",
-                "x": "Los pesos NVFP4 y FP8 se cargan con from_single_file para GPUs más pequeñas, los scripts de entrenamiento LoRA cubren texto a imagen y edición de imágenes, y el lanzamiento llega como pipeline de Modular Diffusers, de modo que se pueden cambiar o añadir bloques."
+                "x": "Al preguntarle por qué pide a los diseñadores diseñar primero para la API y al final la UI, el CEO de Notion, Ivan Zhao, dijo: \"tu próximo cliente no es solo un humano, es un humano y un agente, y los agentes son ciegos… Así que diseña primero la estructura y el significado, y la interfaz al final.\""
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+                "cap": "Ship 2026 en New York"
               }
             ]
           }
@@ -1081,129 +1385,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "FLUX.3 Klein,\n첫날부터 Diffusers",
-          "body": "FLUX.3 Image Klein, 작은 GPUs용 FP8·NVFP4도 나왔다.",
-          "mini_headline": "FLUX.3 Klein, Diffusers에 합류",
+          "headline": "SAP, 디자인 시스템을\n사람·에이전트용으로 재편",
+          "body": "Vercel Ship: SAP에선 사람·에이전트가 같은 부품으로 UIs를 짠다.",
+          "mini_headline": "에이전트용 SAP 디자인 시스템",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-                "cap": "FLUX.3 Image Klein으로 하는 텍스트-이미지, 이미지-이미지 생성과 레이아웃 제어"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+                "cap": "\"개발자인 여러분 뒤에 Agentic Infrastructure의 모든 힘을 실어 주려고 Vercel을 만들었다.\""
               },
               {
                 "t": "p",
-                "x": "Black Forest Labs의 FLUX.3 Image Klein이 나왔고, 첫날부터 Diffusers에서 돌아간다. 모델 하나로 텍스트-이미지 생성과 여러 참조 이미지를 쓰는 이미지-이미지 생성을 하고, 레이아웃 제어도 더했다. 프롬프트에 바운딩 박스를 적어 이미지의 각 부분이 어디에 들어갈지, 참조 이미지의 어느 부분을 옮길지 정한다."
+                "x": "Vercel Ship 2026에는 London, Berlin, New York, Sydney, San Francisco에서 수천 명이 모였고, 초점은 에이전트를 위한 인프라였다."
+              },
+              {
+                "t": "p",
+                "x": "SAP의 Philip Miseldine과 Sophia Levens는 SAP가 v0, eve, json-render로 생성형 인터페이스를 만드는 방식을 보여 줬다. 초점은 일관된 디자인과 정부 요건이었다. Berlin에서 Miseldine은 회사가 디자인 시스템을 조합 가능한 구조로 다시 만들어 사람과 에이전트가 같은 부품으로 인터페이스를 조립하게 한 과정을 소개했다. v0는 빌드, 전달, 결정 단계 전반에서 돌아간다."
               },
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-                "cap": "0–1000 그리드 위에 박스로 배치한 캡션 하나와 영역 설명 두 개, 그리고 생성된 이미지"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+                "cap": "Berlin의 Ship 2026"
               },
               {
                 "t": "p",
-                "x": "공개 체크포인트는 두 가지다. 빠른 추론을 위한 타임스텝 증류 모델(16단계, CFG 없음)과 기본 모델(50단계, CFG)이다. 증류 체크포인트는 H100에서 1024 × 1024 이미지를 약 2초 만에 만든다."
+                "x": "Nicolas Le Pallec(AKQA): AI-native 고객 경험은 내비게이션을 의도로 대체한다. 포착한 고객 의도, 브랜드 브레인, 그리고 페이지를 즉석에서 구성하는 생성형 UI를 통해서다. Victor Oliveros(ZoomInfo): ZoomInfo에서는 40,000+ 고객이 제품에 내장된 v0로 자기만의 워크플로를 만든다."
               },
               {
                 "t": "p",
-                "x": "작은 GPUs를 위해 NVFP4와 FP8 가중치를 from_single_file로 불러올 수 있고, LoRA 학습 스크립트는 텍스트-이미지 생성과 이미지 편집을 다룬다. 이번 릴리스는 Modular Diffusers 파이프라인으로 나와 블록을 바꾸거나 더할 수 있다."
+                "x": "디자이너에게 왜 API를 먼저, UI를 마지막에 디자인하라고 하느냐는 질문에 Notion CEO Ivan Zhao는 이렇게 답했다. \"다음 고객은 사람만이 아니라 사람과 에이전트이고, 에이전트는 앞을 보지 못한다… 그러니 구조와 의미를 먼저, 인터페이스는 마지막에 디자인하라.\""
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+                "cap": "New York의 Ship 2026"
               }
             ]
           }
         },
         "ja": {
-          "headline": "FLUX.3 Klein、\n初日からDiffusersで",
-          "body": "FLUX.3 Image Kleinは小型GPUs向けFP8・NVFP4重みも配布する。",
-          "mini_headline": "FLUX.3 KleinがDiffusersに登場",
+          "headline": "SAPがデザインシステム\n人とエージェント向けに刷新",
+          "body": "Vercel ShipでSAPは、人とエージェントが同じ部品でUIsを組む仕組みを語った。",
+          "mini_headline": "エージェント向けSAPデザインシステム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-                "cap": "FLUX.3 Image Kleinによるテキストからの画像生成、画像から画像への生成、レイアウト制御"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+                "cap": "「開発者であるあなたの背後に、Agentic Infrastructureの力をすべて注ぐためにVercelをつくった」"
               },
               {
                 "t": "p",
-                "x": "Black Forest LabsのFLUX.3 Image Kleinが登場し、初日からDiffusersで動く。1つのモデルでテキストからの画像生成と、複数の参照画像を使う画像から画像への生成をこなし、さらにレイアウト制御を加えた。プロンプトにバウンディングボックスを書き込み、画像の各部分をどこに置くか、参照画像のどの部分を動かすかを指定する。"
+                "x": "Vercel Ship 2026にはLondon、Berlin、New York、Sydney、San Franciscoで数千人が集まり、エージェントのためのインフラに焦点が当てられた。"
+              },
+              {
+                "t": "p",
+                "x": "SAPのPhilip MiseldineとSophia Levensは、SAPがv0、eve、json-renderを使って生成型インターフェースを構築する様子を紹介し、一貫したデザインと政府の要件に重点を置いた。Berlinでは、Miseldineが同社のデザインシステムをコンポーザブルに作り直し、人とエージェントが同じ部品からインターフェースを組み立てられるようにしたことを示した。v0はビルド、デリバー、ディサイドの各段階で動いている。"
               },
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-                "cap": "0–1000のグリッド上にボックスとして配置したキャプション1つと領域の説明2つ、そして生成された画像"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+                "cap": "BerlinでのShip 2026"
               },
               {
                 "t": "p",
-                "x": "公開チェックポイントは2つ。高速推論向けのタイムステップ蒸留モデル(16ステップ、CFGなし)と、ベースモデル(50ステップ、CFGあり)だ。蒸留チェックポイントはH100で1024 × 1024の画像を約2秒で生成する。"
+                "x": "Nicolas Le Pallec（AKQA）：AI-nativeな顧客体験は、ナビゲーションを意図に置き換える。その手段は、捉えた顧客の意図、ブランドブレイン、そしてページをその場で組み立てる生成UIだ。Victor Oliveros（ZoomInfo）：ZoomInfoでは40,000+の顧客が、製品に組み込まれたv0で独自のワークフローを構築している。"
               },
               {
                 "t": "p",
-                "x": "小型のGPUs向けにNVFP4とFP8の重みをfrom_single_fileで読み込め、LoRAの学習スクリプトはテキストからの画像生成と画像編集に対応する。リリースはModular Diffusersパイプラインとして提供され、ブロックの差し替えや追加ができる。"
+                "x": "なぜデザイナーにAPIを先に、UIを最後にデザインせよと言うのかと問われ、Notion CEOのIvan Zhaoはこう答えた。「次の顧客は人間だけではなく、人間とエージェントだ。そしてエージェントは目が見えない……だから構造と意味を先に、インターフェースを最後にデザインせよ」"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+                "cap": "New YorkでのShip 2026"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FLUX.3 Klein\n首日登陆Diffusers",
-          "body": "开源FLUX.3 Image Klein为小型GPUs提供FP8与NVFP4权重。",
-          "mini_headline": "FLUX.3 Klein登陆Diffusers",
+          "headline": "SAP重建设计系统\n让人与智能体共同使用",
+          "body": "Vercel Ship回顾称，SAP重建设计系统，让人与智能体用同样的组件搭建UIs。",
+          "mini_headline": "SAP为智能体打造设计系统",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-                "cap": "用FLUX.3 Image Klein实现文生图、图生图与布局控制"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+                "cap": "“我们打造Vercel，是为了把Agentic Infrastructure的全部力量放在开发者你的身后。”"
               },
               {
                 "t": "p",
-                "x": "Black Forest Labs的FLUX.3 Image Klein现已发布，首日即可在Diffusers中运行。一个模型同时支持文生图和多参考图生图，并加入布局控制：在提示词中写入边界框，指定图像各部分的位置，或参考图中哪些部分需要移动。"
+                "x": "Vercel Ship 2026在London、Berlin、New York、Sydney和San Francisco吸引了数千人参加，焦点是面向智能体的基础设施。"
+              },
+              {
+                "t": "p",
+                "x": "来自SAP的Philip Miseldine和Sophia Levens展示了SAP如何使用v0、eve和json-render构建生成式界面，重点是设计一致性和政府要求。在Berlin，Miseldine展示了公司如何把设计系统重建为可组合的形式，让人与智能体用同样的组件拼装界面，v0则贯穿其构建、交付和决策各阶段。"
               },
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-                "cap": "在0–1000网格上以方框放置的一条描述和两段区域说明，以及生成的图像"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+                "cap": "Berlin的Ship 2026"
               },
               {
                 "t": "p",
-                "x": "此次发布两个开放检查点：用于快速推理的时间步蒸馏模型（16步，无CFG）和基础模型（50步，使用CFG）。蒸馏检查点在H100上生成一张1024 × 1024图像约需2秒。"
+                "x": "Nicolas Le Pallec（AKQA）：AI-native的客户体验以意图取代导航，依靠捕捉到的客户意图、品牌大脑，以及即时组合页面的生成式UI。Victor Oliveros（ZoomInfo）：在ZoomInfo，40,000+客户借助嵌入产品中的v0构建自己的工作流。"
               },
               {
                 "t": "p",
-                "x": "NVFP4和FP8权重可通过from_single_file加载，适合较小的GPUs；LoRA训练脚本涵盖文生图和图像编辑；此次发布以Modular Diffusers流水线形式提供，可替换或添加模块。"
+                "x": "被问到为什么要求设计师先为API设计、最后才设计UI时，Notion CEO Ivan Zhao说：“你的下一位客户不只是人，而是人加上智能体，而智能体是看不见的……所以先设计结构和含义，最后才是界面。”"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+                "cap": "New York的Ship 2026"
               }
             ]
           }
         },
         "es": {
-          "headline": "FLUX.3 Image Klein llega\na Diffusers desde el primer día",
-          "body": "FLUX.3 Image Klein, abierto, ofrece control de composición con cajas y pesos FP8 y NVFP4 para GPUs más pequeñas.",
-          "mini_headline": "FLUX.3 Klein llega a Diffusers",
+          "headline": "SAP rehace su sistema de diseño\npara personas y agentes",
+          "body": "Vercel Ship: SAP mostró cómo rehízo su sistema de diseño para que personas y agentes armen UIs con las mismas piezas.",
+          "mini_headline": "El sistema de diseño de SAP, para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/hero.png",
-                "cap": "Texto a imagen, imagen a imagen y control de composición con FLUX.3 Image Klein"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+                "cap": "\"Construimos Vercel para poner todo el poder de la Agentic Infrastructure detrás de ti, el desarrollador.\""
               },
               {
                 "t": "p",
-                "x": "Ya está aquí FLUX.3 Image Klein, de Black Forest Labs, y funciona en Diffusers desde el primer día. Un solo modelo hace texto a imagen e imagen a imagen con varias referencias, y añade control de composición: se escriben cajas delimitadoras en el prompt para indicar dónde debe ir cada parte de la imagen o qué partes de una imagen de referencia mover."
+                "x": "Miles de personas se reunieron en London, Berlin, New York, Sydney y San Francisco en Vercel Ship 2026, centrado en la infraestructura para agentes."
+              },
+              {
+                "t": "p",
+                "x": "Philip Miseldine y Sophia Levens, de SAP, mostraron cómo SAP usa v0, eve y json-render para crear interfaces generativas, con énfasis en un diseño coherente y en los requisitos gubernamentales. En Berlin, Miseldine mostró cómo la empresa reconstruyó su sistema de diseño para hacerlo componible, de modo que personas y agentes ensamblen interfaces con las mismas piezas, con v0 funcionando en sus etapas de construir, entregar y decidir."
               },
               {
                 "t": "img",
-                "src": "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/flux3/bbox-layout.png",
-                "cap": "Una leyenda y dos descripciones de regiones colocadas como cajas en una cuadrícula de 0–1000, y la imagen generada"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+                "cap": "Ship 2026 en Berlin"
               },
               {
                 "t": "p",
-                "x": "Se publican dos checkpoints abiertos: un modelo destilado por pasos de tiempo para inferencia rápida (16 pasos, sin CFG) y un modelo base (50 pasos, con CFG). El checkpoint destilado genera una imagen de 1024 × 1024 en unos 2 segundos en una H100."
+                "x": "Nicolas Le Pallec (AKQA): la experiencia de cliente AI-native sustituye la navegación por la intención, mediante la intención del cliente capturada, un cerebro de marca y una UI generativa que compone páginas sobre la marcha. Victor Oliveros (ZoomInfo): en ZoomInfo, 40,000+ clientes crean sus propios flujos de trabajo con v0 integrado en el producto."
               },
               {
                 "t": "p",
-                "x": "Los pesos NVFP4 y FP8 se cargan con from_single_file para GPUs más pequeñas, los scripts de entrenamiento LoRA cubren texto a imagen y edición de imágenes, y el lanzamiento llega como pipeline de Modular Diffusers, de modo que se pueden cambiar o añadir bloques."
+                "x": "Al preguntarle por qué pide a los diseñadores diseñar primero para la API y al final la UI, el CEO de Notion, Ivan Zhao, dijo: \"tu próximo cliente no es solo un humano, es un humano y un agente, y los agentes son ciegos… Así que diseña primero la estructura y el significado, y la interfaz al final.\""
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+                "cap": "Ship 2026 en New York"
               }
             ]
           }
@@ -1211,225 +1551,225 @@
       }
     },
     {
-      "id": "design-hesai-kosmo",
+      "id": "design-human-in-loop",
       "source_lang": "en",
-      "tool": "Text-to-CAD",
       "eyebrow": "AI NEWS",
-      "headline": "Hesai Kosmo,\n공간을 로봇 훈련장으로",
-      "body": "Hesai Kosmo로 만든 3D 훈련 공간에서 로봇 성공률이 99%에 이르렀다.",
-      "mini_headline": "Hesai Kosmo, 로봇용 공간 스캔",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/hesai-launches-3d-data-engine-for-physical-ai/",
-      "accent": "#7928ca",
-      "motif": "cube",
+      "headline": "결과의 주인이 없다면\n루프 속 사람은 무의미",
+      "body": "Patrick Neeman은 에이전트에 결과를 책임질 사람이 필요하다고 본다.",
+      "mini_headline": "에이전트 결과는 누구의 몫인가",
+      "tool": "AI Workflow",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630",
+      "accent": "#ff5a4d",
+      "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-            "cap": "Hesai가 Kosmo 3D World Data Engine을 출시했다."
+            "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+            "cap": "검토자의 손이 승인 버튼 위에 머무는 사이, 승인할 작업은 이미 그를 두고 지나가 버렸다. AI 지원."
           },
           {
             "t": "p",
-            "x": "Hesai Group이 Physical AI용 3D 월드 데이터 엔진 Kosmo를 출시했다. AI 공간 카메라 Kosmo One과 클라우드 플랫폼 Kosmo World를 한데 묶어 물리 환경을 고정밀 3D 디지털 공간으로 옮긴다. 이렇게 만든 공간은 로봇 훈련과 월드 모델 개발, 몰입형 콘텐츠 제작에 쓰인다."
+            "x": "이제 에이전트는 우리가 다른 회의에 들어가 있는 사이 받은편지함을 분류하고 기록을 갱신하고 메시지를 보낸다. 흔히 확인 대화상자로 막으려 하지만 실제로는 책임만 옮겨 가서 결과를 가장 모르고 권한도 가장 적은 사람이 떠안는다."
           },
           {
             "t": "p",
-            "x": "Kosmo One은 lidar와 1인치 이미징 센서, IMU를 함께 쓰고 3D Gaussian Splatting으로 밀리미터 수준의 정확도를 낸다. 일반적인 100제곱미터 실내 공간이라면 작업자 한 명이 약 15분 만에 스캔한다."
+            "x": "사람을 다치게 하는 건 주도성이 아니라 도달 범위다. 그러니 도달 범위 테스트가 더 나은 질문이다. 에이전트가 무엇을 건드릴 수 있고, 사람이 그것을 되돌릴 수 있는가? 에이전트의 도달 범위를 정한 사람이 그 안에서 일어나는 일의 주인이다."
           },
           {
             "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-            "cap": "Kosmo는 체화 AI 훈련에 쓸 실제 장면 데이터를 대량으로 내준다."
+            "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+            "cap": "중단은 좋은 것이다. Anthropic조차 그렇게 말한다."
           },
           {
             "t": "p",
-            "x": "Dairy Queen의 한 매장을 3D 훈련 환경으로 만들 때, 예전엔 수작업 모델링에 약 300시간이 들었다. Kosmo로는 15분이면 됐고, Sharpa 로봇의 작업 성공률은 99%까지 올랐다."
+            "x": "Neeman은 자동화 편향, Madeleine Clare Elish의 ‘도덕적 크럼플 존’, Eric Horvitz의 mixed-initiative(혼합 주도) 원칙을 근거로 든다. 선제적 행동은 확신이 아니라 되돌릴 수 있는 정도에 비례해야 한다. 위임은 대화가 아니라 권한 설정 안에 있다."
           },
           {
             "t": "p",
-            "x": "영화에도 쓰인다. 세트로 지으면 두 달이 걸릴 10,000제곱미터 규모의 거리 풍경을 일주일 만에 스캔하고 편집한다. 스튜디오들은 Pixar의 RenderMan 중심 워크플로에서 Kosmo를 쓴다."
+            "x": "그가 내놓는 조치는 네 가지다. 승인 절차를 점검하고 규칙을 써서 프롬프트가 아니라 권한으로 강제한다. 도달 범위 테스트를 돌리고, 에이전트가 도는 동안에는 실제로 작동하는 중지 버튼을 화면에 두고 기록을 따로 남긴다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hesai's Kosmo turns real spaces\ninto robot training worlds",
-          "body": "Hesai's Kosmo turns lidar scans into 3D robot-training spaces, and a store deployment hit 99% task success.",
-          "mini_headline": "Hesai Kosmo scans spaces for robots",
+          "headline": "Human in the loop means little\nif nobody owns the outcome",
+          "body": "Patrick Neeman argues that agent experiences need a person who owns the outcome, not merely one in the loop.",
+          "mini_headline": "Who owns\nthe agent's outcome",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-                "cap": "Hesai Launches Kosmo 3D World Data Engine."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+                "cap": "A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them. AI assisted."
               },
               {
                 "t": "p",
-                "x": "Hesai Group launched Kosmo, a 3D world data engine for Physical AI. It combines Kosmo One, an AI spatial camera, with the Kosmo World cloud platform to turn physical environments into high-fidelity 3D digital spaces for robot training, world model development and immersive content creation."
+                "x": "Agents now triage inboxes, update records and send messages while we’re in another meeting. The standard answer is a confirm dialog, but accountability moves instead, landing on whoever had the least information and the least power over the outcome."
               },
               {
                 "t": "p",
-                "x": "Kosmo One pairs lidar, a one-inch imaging sensor and an IMU, and uses 3D Gaussian Splatting for millimeter-level accuracy. One operator can scan a typical 100-square-meter indoor space in about 15 minutes."
+                "x": "Initiative isn’t what hurts people; reach is. The better question is a reach test: what can the agent touch, and can a person put it back? Whoever sets an agent’s reach owns what it does there."
               },
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-                "cap": "Kosmo delivers massive volumes of real-world scene data for embodied AI training."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+                "cap": "Interruption is good. Even Anthropic says so."
               },
               {
                 "t": "p",
-                "x": "At a Dairy Queen store, building a 3D training environment previously took about 300 hours of manual modeling; with Kosmo it took 15 minutes, and the Sharpa robot's task success rate reached 99%."
+                "x": "Neeman draws on automation bias, Madeleine Clare Elish’s “moral crumple zones,” and Eric Horvitz’s mixed-initiative principles: proactivity should scale with reversibility, not with confidence. A mandate lives in the permissions, not in the conversation."
               },
               {
                 "t": "p",
-                "x": "For film, a 10,000-square-meter streetscape that would take two months to build as a set can be scanned and edited in one week, and studios are using Kosmo in workflows built around Pixar's RenderMan."
+                "x": "His four moves: audit the approvals; write the rules and enforce them in permissions, not the prompt; run the reach test; and keep an independent record with a working stop control on screen while the agent runs."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Hesai Kosmo,\n공간을 로봇 훈련장으로",
-          "body": "Hesai Kosmo로 만든 3D 훈련 공간에서 로봇 성공률이 99%에 이르렀다.",
-          "mini_headline": "Hesai Kosmo, 로봇용 공간 스캔",
+          "headline": "결과의 주인이 없다면\n루프 속 사람은 무의미",
+          "body": "Patrick Neeman은 에이전트에 결과를 책임질 사람이 필요하다고 본다.",
+          "mini_headline": "에이전트 결과는 누구의 몫인가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-                "cap": "Hesai가 Kosmo 3D World Data Engine을 출시했다."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+                "cap": "검토자의 손이 승인 버튼 위에 머무는 사이, 승인할 작업은 이미 그를 두고 지나가 버렸다. AI 지원."
               },
               {
                 "t": "p",
-                "x": "Hesai Group이 Physical AI용 3D 월드 데이터 엔진 Kosmo를 출시했다. AI 공간 카메라 Kosmo One과 클라우드 플랫폼 Kosmo World를 한데 묶어 물리 환경을 고정밀 3D 디지털 공간으로 옮긴다. 이렇게 만든 공간은 로봇 훈련과 월드 모델 개발, 몰입형 콘텐츠 제작에 쓰인다."
+                "x": "이제 에이전트는 우리가 다른 회의에 들어가 있는 사이 받은편지함을 분류하고 기록을 갱신하고 메시지를 보낸다. 흔히 확인 대화상자로 막으려 하지만 실제로는 책임만 옮겨 가서 결과를 가장 모르고 권한도 가장 적은 사람이 떠안는다."
               },
               {
                 "t": "p",
-                "x": "Kosmo One은 lidar와 1인치 이미징 센서, IMU를 함께 쓰고 3D Gaussian Splatting으로 밀리미터 수준의 정확도를 낸다. 일반적인 100제곱미터 실내 공간이라면 작업자 한 명이 약 15분 만에 스캔한다."
+                "x": "사람을 다치게 하는 건 주도성이 아니라 도달 범위다. 그러니 도달 범위 테스트가 더 나은 질문이다. 에이전트가 무엇을 건드릴 수 있고, 사람이 그것을 되돌릴 수 있는가? 에이전트의 도달 범위를 정한 사람이 그 안에서 일어나는 일의 주인이다."
               },
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-                "cap": "Kosmo는 체화 AI 훈련에 쓸 실제 장면 데이터를 대량으로 내준다."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+                "cap": "중단은 좋은 것이다. Anthropic조차 그렇게 말한다."
               },
               {
                 "t": "p",
-                "x": "Dairy Queen의 한 매장을 3D 훈련 환경으로 만들 때, 예전엔 수작업 모델링에 약 300시간이 들었다. Kosmo로는 15분이면 됐고, Sharpa 로봇의 작업 성공률은 99%까지 올랐다."
+                "x": "Neeman은 자동화 편향, Madeleine Clare Elish의 ‘도덕적 크럼플 존’, Eric Horvitz의 mixed-initiative(혼합 주도) 원칙을 근거로 든다. 선제적 행동은 확신이 아니라 되돌릴 수 있는 정도에 비례해야 한다. 위임은 대화가 아니라 권한 설정 안에 있다."
               },
               {
                 "t": "p",
-                "x": "영화에도 쓰인다. 세트로 지으면 두 달이 걸릴 10,000제곱미터 규모의 거리 풍경을 일주일 만에 스캔하고 편집한다. 스튜디오들은 Pixar의 RenderMan 중심 워크플로에서 Kosmo를 쓴다."
+                "x": "그가 내놓는 조치는 네 가지다. 승인 절차를 점검하고 규칙을 써서 프롬프트가 아니라 권한으로 강제한다. 도달 범위 테스트를 돌리고, 에이전트가 도는 동안에는 실제로 작동하는 중지 버튼을 화면에 두고 기록을 따로 남긴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HesaiのKosmo、\n現実空間をロボット訓練場に",
-          "body": "HesaiのKosmoは3Dのロボット訓練空間を作り、店舗で成功率99%に達した。",
-          "mini_headline": "HesaiのKosmo、ロボット向けに空間をスキャン",
+          "headline": "結果の責任者がいなければ\nループ内の人間は無意味",
+          "body": "Patrick Neemanは、エージェント体験には結果を引き受ける人が必要だと説く。",
+          "mini_headline": "エージェントの結果は誰のものか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-                "cap": "HesaiがKosmo 3D World Data Engineを発表。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+                "cap": "承認ボタンの上で検討者の手がためらう間に、承認されるはずの作業はもう本人を置いて先に進んでいる。AI支援。"
               },
               {
                 "t": "p",
-                "x": "Hesai Groupは、Physical AI向けの3DワールドデータエンジンKosmoを発表した。AI空間カメラKosmo OneとクラウドプラットフォームKosmo Worldを組み合わせ、物理環境を高精細な3Dデジタル空間に変え、ロボットの訓練、ワールドモデルの開発、没入型コンテンツの制作に生かす。"
+                "x": "エージェントはいまや、私たちが別の会議に出ている間に受信トレイを仕分け、記録を更新し、メッセージを送る。定番の答えは確認ダイアログだが、実際には責任が移動し、結果について最も情報が少なく、最も力のない人に押し付けられる。"
               },
               {
                 "t": "p",
-                "x": "Kosmo Oneはlidar、1インチのイメージングセンサー、IMUを組み合わせ、3D Gaussian Splattingでミリ単位の精度を実現する。オペレーター1人で、一般的な100平方メートルの屋内空間を約15分でスキャンできる。"
+                "x": "人を傷つけるのは主体性ではなく、到達範囲だ。より良い問いは到達範囲テストである。エージェントは何に触れられるのか、そして人はそれを元に戻せるのか。エージェントの到達範囲を決めた人が、その範囲で起きることの責任を負う。"
               },
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-                "cap": "Kosmoは、身体性AIの訓練に向けて大量の実世界シーンデータを提供する。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+                "cap": "中断は良いことだ。Anthropicでさえそう言っている。"
               },
               {
                 "t": "p",
-                "x": "あるDairy Queenの店舗では、3D訓練環境の構築に以前は手作業のモデリングで約300時間かかっていたが、Kosmoでは15分で済み、Sharpaロボットのタスク成功率は99%に達した。"
+                "x": "Neemanは自動化バイアス、Madeleine Clare Elishの「モラル・クランプルゾーン」、Eric Horvitzのmixed-initiative（混合主導）の原則を引き、先回りの度合いは確信ではなく可逆性に応じて変えるべきだと述べる。委任は会話の中ではなく、権限設定の中にある。"
               },
               {
                 "t": "p",
-                "x": "映画では、セットとして建てれば2カ月かかる10,000平方メートルの街並みを1週間でスキャンし編集でき、スタジオはPixarのRenderManを軸にしたワークフローでKosmoを使っている。"
+                "x": "彼の挙げる四つの手立ては、承認を監査すること、ルールを書いてプロンプトではなく権限で強制すること、到達範囲テストを行うこと、そしてエージェントの稼働中は独立した記録を残し、実際に機能する停止ボタンを画面に置くことだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hesai的Kosmo\n把真实空间变成机器人训练场",
-          "body": "Hesai的Kosmo把激光雷达扫描变成3D机器人训练空间，门店部署任务成功率达99%。",
-          "mini_headline": "Hesai Kosmo为机器人扫描空间",
+          "headline": "若无人对结果负责\n人在回路中也无意义",
+          "body": "Patrick Neeman认为，智能体体验需要的是对结果负责的人，而不只是回路中的人。",
+          "mini_headline": "智能体的结果由谁负责",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-                "cap": "Hesai发布Kosmo 3D World Data Engine。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+                "cap": "审核者的手悬在批准按钮上方，而它要批准的工作早已撇下他们继续推进。AI辅助生成。"
               },
               {
                 "t": "p",
-                "x": "Hesai Group发布面向Physical AI的3D世界数据引擎Kosmo。它将AI空间相机Kosmo One与云平台Kosmo World结合，把物理环境转化为高保真3D数字空间，用于机器人训练、世界模型开发和沉浸式内容创作。"
+                "x": "如今，智能体会在我们开另一个会时分拣收件箱、更新记录、发送消息。标准做法是弹出确认对话框，但责任实际上被转移了，落到对结果掌握信息最少、权力最小的人身上。"
               },
               {
                 "t": "p",
-                "x": "Kosmo One集成lidar、一英寸成像传感器和IMU，并采用3D Gaussian Splatting，精度可达毫米级。一名操作员约15分钟即可扫描一个典型的100平方米室内空间。"
+                "x": "伤人的不是主动性，而是触达范围。更好的问题是做一次触达测试：智能体能碰到什么，人能否把它恢复原状？谁设定了智能体的触达范围，谁就要为它在其中的行为负责。"
               },
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-                "cap": "Kosmo为具身AI训练提供海量真实场景数据。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+                "cap": "打断是好事。连Anthropic都这么说。"
               },
               {
                 "t": "p",
-                "x": "在一家Dairy Queen门店，搭建3D训练环境过去需要约300小时的手工建模；使用Kosmo只用了15分钟，Sharpa机器人的任务成功率达到99%。"
+                "x": "Neeman借鉴了自动化偏见、Madeleine Clare Elish提出的“道德缓冲区”以及Eric Horvitz的mixed-initiative（混合主动）原则：主动程度应随可逆性而非信心而变化。授权存在于权限之中，而不是对话之中。"
               },
               {
                 "t": "p",
-                "x": "在影视领域，一处若搭成实景需要两个月的10,000平方米街景，一周内即可完成扫描和编辑，已有制片厂在以Pixar的RenderMan为核心的工作流中使用Kosmo。"
+                "x": "他提出四个做法：审查审批环节；写下规则，并通过权限而非提示词来执行；进行触达测试；在智能体运行时保留独立记录，并在屏幕上提供真正可用的停止控件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hesai Kosmo convierte espacios\nreales en mundos para robots",
-          "body": "Kosmo, de Hesai, convierte escaneos lidar en espacios 3D para entrenar robots y logró 99% de éxito en una tienda.",
-          "mini_headline": "Hesai Kosmo escanea espacios para robots",
+          "headline": "Human in the loop sirve de poco\nsi nadie asume el resultado",
+          "body": "Patrick Neeman sostiene que los agentes necesitan a alguien responsable del resultado, no solo alguien en el bucle.",
+          "mini_headline": "¿Quién responde por lo que hace el agente?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-                "cap": "Hesai lanza Kosmo 3D World Data Engine."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+                "cap": "La mano de un revisor duda sobre un botón de aprobar mientras el trabajo que aprueba ya ha seguido adelante sin él. Con asistencia de AI."
               },
               {
                 "t": "p",
-                "x": "Hesai Group lanzó Kosmo, un motor de datos de mundos 3D para Physical AI. Combina Kosmo One, una cámara espacial con AI, con la plataforma en la nube Kosmo World para convertir entornos físicos en espacios digitales 3D de alta fidelidad destinados al entrenamiento de robots, el desarrollo de modelos del mundo y la creación de contenido inmersivo."
+                "x": "Los agentes ya clasifican bandejas de entrada, actualizan registros y envían mensajes mientras estamos en otra reunión. La respuesta habitual es un cuadro de confirmación, pero lo que ocurre es que la responsabilidad se desplaza y recae en quien tenía menos información y menos poder sobre el resultado."
               },
               {
                 "t": "p",
-                "x": "Kosmo One combina lidar, un sensor de imagen de una pulgada y una IMU, y usa 3D Gaussian Splatting para lograr una precisión milimétrica. Un solo operador puede escanear un espacio interior típico de 100 metros cuadrados en unos 15 minutos."
+                "x": "Lo que daña a las personas no es la iniciativa, sino el alcance. La mejor pregunta es una prueba de alcance: ¿qué puede tocar el agente y puede una persona revertirlo? Quien fija el alcance de un agente responde por lo que este haga ahí."
               },
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-                "cap": "Kosmo ofrece grandes volúmenes de datos de escenas reales para el entrenamiento de AI corporizada."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+                "cap": "La interrupción es buena. Hasta Anthropic lo dice."
               },
               {
                 "t": "p",
-                "x": "En una tienda de Dairy Queen, construir un entorno de entrenamiento 3D llevaba antes unas 300 horas de modelado manual; con Kosmo tomó 15 minutos, y la tasa de éxito en tareas del robot Sharpa llegó al 99%."
+                "x": "Neeman se apoya en el sesgo de automatización, las «zonas de deformación moral» de Madeleine Clare Elish y los principios mixed-initiative (de iniciativa mixta) de Eric Horvitz: la proactividad debe crecer con la reversibilidad, no con la confianza. Un mandato vive en los permisos, no en la conversación."
               },
               {
                 "t": "p",
-                "x": "En cine, un paisaje urbano de 10,000 metros cuadrados que tardaría dos meses en construirse como set puede escanearse y editarse en una semana, y hay estudios que usan Kosmo en flujos de trabajo basados en RenderMan de Pixar."
+                "x": "Sus cuatro pasos: auditar las aprobaciones; escribir las reglas y aplicarlas en los permisos, no en el prompt; hacer la prueba de alcance; y mantener un registro independiente con un control de parada funcional en pantalla mientras el agente trabaja."
               }
             ]
           }
@@ -1437,145 +1777,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Hesai Kosmo,\n공간을 로봇 훈련장으로",
-          "body": "Hesai Kosmo로 만든 3D 훈련 공간에서 로봇 성공률이 99%에 이르렀다.",
-          "mini_headline": "Hesai Kosmo, 로봇용 공간 스캔",
+          "headline": "결과의 주인이 없다면\n루프 속 사람은 무의미",
+          "body": "Patrick Neeman은 에이전트에 결과를 책임질 사람이 필요하다고 본다.",
+          "mini_headline": "에이전트 결과는 누구의 몫인가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-                "cap": "Hesai가 Kosmo 3D World Data Engine을 출시했다."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+                "cap": "검토자의 손이 승인 버튼 위에 머무는 사이, 승인할 작업은 이미 그를 두고 지나가 버렸다. AI 지원."
               },
               {
                 "t": "p",
-                "x": "Hesai Group이 Physical AI를 위한 3D 월드 데이터 엔진 Kosmo를 출시했다. AI 공간 카메라 Kosmo One과 클라우드 플랫폼 Kosmo World를 묶어 물리 환경을 고정밀 3D 디지털 공간으로 바꾸고, 이를 로봇 훈련과 월드 모델 개발, 몰입형 콘텐츠 제작에 쓴다."
+                "x": "이제 에이전트는 우리가 다른 회의에 들어가 있는 동안 받은편지함을 분류하고, 기록을 갱신하고, 메시지를 보낸다. 흔한 해법은 확인 대화상자지만, 실제로는 책임이 옮겨 가 결과에 대한 정보와 권한이 가장 적은 사람에게 떨어진다."
               },
               {
                 "t": "p",
-                "x": "Kosmo One은 lidar와 1인치 이미징 센서, IMU를 함께 쓰며, 3D Gaussian Splatting으로 밀리미터 수준의 정확도를 낸다. 작업자 한 명이 일반적인 100제곱미터 실내 공간을 약 15분 만에 스캔할 수 있다."
+                "x": "사람을 다치게 하는 것은 주도성이 아니라 도달 범위다. 더 나은 질문은 도달 범위 테스트다. 에이전트가 무엇을 건드릴 수 있고, 사람이 그것을 되돌릴 수 있는가? 에이전트의 도달 범위를 정한 사람이 그 안에서 일어나는 일의 주인이다."
               },
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-                "cap": "Kosmo는 체화 AI 훈련을 위한 대량의 실제 장면 데이터를 제공한다."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+                "cap": "중단은 좋은 것이다. Anthropic조차 그렇게 말한다."
               },
               {
                 "t": "p",
-                "x": "한 Dairy Queen 매장에서는 3D 훈련 환경을 만드는 데 예전엔 수작업 모델링으로 약 300시간이 걸렸지만, Kosmo로는 15분이 걸렸고 Sharpa 로봇의 작업 성공률은 99%에 이르렀다."
+                "x": "Neeman은 자동화 편향, Madeleine Clare Elish의 ‘도덕적 크럼플 존’, Eric Horvitz의 mixed-initiative(혼합 주도) 원칙을 근거로 든다. 선제적 행동은 확신이 아니라 되돌릴 수 있는 정도에 비례해야 한다. 위임은 대화가 아니라 권한 설정 안에 존재한다."
               },
               {
                 "t": "p",
-                "x": "영화 쪽에서는 세트로 지으려면 두 달이 걸릴 10,000제곱미터 규모의 거리 풍경을 일주일 만에 스캔하고 편집할 수 있으며, 스튜디오들은 Pixar의 RenderMan을 중심으로 한 워크플로에서 Kosmo를 쓰고 있다."
+                "x": "그가 제시하는 네 가지 조치는 이렇다. 승인 절차를 점검하고, 규칙을 써서 프롬프트가 아닌 권한으로 강제하고, 도달 범위 테스트를 실행하고, 에이전트가 도는 동안 화면에 실제로 작동하는 중지 버튼을 두고 독립적인 기록을 남기는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HesaiのKosmo、\n現実空間をロボット訓練場に",
-          "body": "HesaiのKosmoは3Dのロボット訓練空間を作り、店舗で成功率99%に達した。",
-          "mini_headline": "HesaiのKosmo、ロボット向けに空間をスキャン",
+          "headline": "結果の責任者がいなければ\nループ内の人間は無意味",
+          "body": "Patrick Neemanは、エージェント体験には結果を引き受ける人が必要だと説く。",
+          "mini_headline": "エージェントの結果は誰のものか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-                "cap": "HesaiがKosmo 3D World Data Engineを発表。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+                "cap": "承認ボタンの上で検討者の手がためらう間に、承認されるはずの作業はもう本人を置いて先に進んでいる。AI支援。"
               },
               {
                 "t": "p",
-                "x": "Hesai Groupは、Physical AI向けの3DワールドデータエンジンKosmoを発表した。AI空間カメラKosmo OneとクラウドプラットフォームKosmo Worldを組み合わせ、物理環境を高精細な3Dデジタル空間に変え、ロボットの訓練、ワールドモデルの開発、没入型コンテンツの制作に生かす。"
+                "x": "エージェントはいまや、私たちが別の会議に出ている間に受信トレイを仕分け、記録を更新し、メッセージを送る。定番の答えは確認ダイアログだが、実際には責任が移動し、結果について最も情報が少なく、最も力のない人に押し付けられる。"
               },
               {
                 "t": "p",
-                "x": "Kosmo Oneはlidar、1インチのイメージングセンサー、IMUを組み合わせ、3D Gaussian Splattingでミリ単位の精度を実現する。オペレーター1人で、一般的な100平方メートルの屋内空間を約15分でスキャンできる。"
+                "x": "人を傷つけるのは主体性ではなく、到達範囲だ。より良い問いは到達範囲テストである。エージェントは何に触れられるのか、そして人はそれを元に戻せるのか。エージェントの到達範囲を決めた人が、その範囲で起きることの責任を負う。"
               },
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-                "cap": "Kosmoは、身体性AIの訓練に向けて大量の実世界シーンデータを提供する。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+                "cap": "中断は良いことだ。Anthropicでさえそう言っている。"
               },
               {
                 "t": "p",
-                "x": "あるDairy Queenの店舗では、3D訓練環境の構築に以前は手作業のモデリングで約300時間かかっていたが、Kosmoでは15分で済み、Sharpaロボットのタスク成功率は99%に達した。"
+                "x": "Neemanは自動化バイアス、Madeleine Clare Elishの「モラル・クランプルゾーン」、Eric Horvitzのmixed-initiative（混合主導）の原則を引き、先回りの度合いは確信ではなく可逆性に応じて変えるべきだと述べる。委任は会話の中ではなく、権限設定の中にある。"
               },
               {
                 "t": "p",
-                "x": "映画では、セットとして建てれば2カ月かかる10,000平方メートルの街並みを1週間でスキャンし編集でき、スタジオはPixarのRenderManを軸にしたワークフローでKosmoを使っている。"
+                "x": "彼の挙げる四つの手立ては、承認を監査すること、ルールを書いてプロンプトではなく権限で強制すること、到達範囲テストを行うこと、そしてエージェントの稼働中は独立した記録を残し、実際に機能する停止ボタンを画面に置くことだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hesai的Kosmo\n把真实空间变成机器人训练场",
-          "body": "Hesai的Kosmo把激光雷达扫描变成3D机器人训练空间，门店部署任务成功率达99%。",
-          "mini_headline": "Hesai Kosmo为机器人扫描空间",
+          "headline": "若无人对结果负责\n人在回路中也无意义",
+          "body": "Patrick Neeman认为，智能体体验需要的是对结果负责的人，而不只是回路中的人。",
+          "mini_headline": "智能体的结果由谁负责",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-                "cap": "Hesai发布Kosmo 3D World Data Engine。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+                "cap": "审核者的手悬在批准按钮上方，而它要批准的工作早已撇下他们继续推进。AI辅助生成。"
               },
               {
                 "t": "p",
-                "x": "Hesai Group发布面向Physical AI的3D世界数据引擎Kosmo。它将AI空间相机Kosmo One与云平台Kosmo World结合，把物理环境转化为高保真3D数字空间，用于机器人训练、世界模型开发和沉浸式内容创作。"
+                "x": "如今，智能体会在我们开另一个会时分拣收件箱、更新记录、发送消息。标准做法是弹出确认对话框，但责任实际上被转移了，落到对结果掌握信息最少、权力最小的人身上。"
               },
               {
                 "t": "p",
-                "x": "Kosmo One集成lidar、一英寸成像传感器和IMU，并采用3D Gaussian Splatting，精度可达毫米级。一名操作员约15分钟即可扫描一个典型的100平方米室内空间。"
+                "x": "伤人的不是主动性，而是触达范围。更好的问题是做一次触达测试：智能体能碰到什么，人能否把它恢复原状？谁设定了智能体的触达范围，谁就要为它在其中的行为负责。"
               },
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-                "cap": "Kosmo为具身AI训练提供海量真实场景数据。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+                "cap": "打断是好事。连Anthropic都这么说。"
               },
               {
                 "t": "p",
-                "x": "在一家Dairy Queen门店，搭建3D训练环境过去需要约300小时的手工建模；使用Kosmo只用了15分钟，Sharpa机器人的任务成功率达到99%。"
+                "x": "Neeman借鉴了自动化偏见、Madeleine Clare Elish提出的“道德缓冲区”以及Eric Horvitz的mixed-initiative（混合主动）原则：主动程度应随可逆性而非信心而变化。授权存在于权限之中，而不是对话之中。"
               },
               {
                 "t": "p",
-                "x": "在影视领域，一处若搭成实景需要两个月的10,000平方米街景，一周内即可完成扫描和编辑，已有制片厂在以Pixar的RenderMan为核心的工作流中使用Kosmo。"
+                "x": "他提出四个做法：审查审批环节；写下规则，并通过权限而非提示词来执行；进行触达测试；在智能体运行时保留独立记录，并在屏幕上提供真正可用的停止控件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hesai Kosmo convierte espacios\nreales en mundos para robots",
-          "body": "Kosmo, de Hesai, convierte escaneos lidar en espacios 3D para entrenar robots y logró 99% de éxito en una tienda.",
-          "mini_headline": "Hesai Kosmo escanea espacios para robots",
+          "headline": "Human in the loop sirve de poco\nsi nadie asume el resultado",
+          "body": "Patrick Neeman sostiene que los agentes necesitan a alguien responsable del resultado, no solo alguien en el bucle.",
+          "mini_headline": "¿Quién responde por lo que hace el agente?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/1-1.jpg",
-                "cap": "Hesai lanza Kosmo 3D World Data Engine."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+                "cap": "La mano de un revisor duda sobre un botón de aprobar mientras el trabajo que aprueba ya ha seguido adelante sin él. Con asistencia de AI."
               },
               {
                 "t": "p",
-                "x": "Hesai Group lanzó Kosmo, un motor de datos de mundos 3D para Physical AI. Combina Kosmo One, una cámara espacial con AI, con la plataforma en la nube Kosmo World para convertir entornos físicos en espacios digitales 3D de alta fidelidad destinados al entrenamiento de robots, el desarrollo de modelos del mundo y la creación de contenido inmersivo."
+                "x": "Los agentes ya clasifican bandejas de entrada, actualizan registros y envían mensajes mientras estamos en otra reunión. La respuesta habitual es un cuadro de confirmación, pero lo que ocurre es que la responsabilidad se desplaza y recae en quien tenía menos información y menos poder sobre el resultado."
               },
               {
                 "t": "p",
-                "x": "Kosmo One combina lidar, un sensor de imagen de una pulgada y una IMU, y usa 3D Gaussian Splatting para lograr una precisión milimétrica. Un solo operador puede escanear un espacio interior típico de 100 metros cuadrados en unos 15 minutos."
+                "x": "Lo que daña a las personas no es la iniciativa, sino el alcance. La mejor pregunta es una prueba de alcance: ¿qué puede tocar el agente y puede una persona revertirlo? Quien fija el alcance de un agente responde por lo que este haga ahí."
               },
               {
                 "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/2-1.jpg",
-                "cap": "Kosmo ofrece grandes volúmenes de datos de escenas reales para el entrenamiento de AI corporizada."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+                "cap": "La interrupción es buena. Hasta Anthropic lo dice."
               },
               {
                 "t": "p",
-                "x": "En una tienda de Dairy Queen, construir un entorno de entrenamiento 3D llevaba antes unas 300 horas de modelado manual; con Kosmo tomó 15 minutos, y la tasa de éxito en tareas del robot Sharpa llegó al 99%."
+                "x": "Neeman se apoya en el sesgo de automatización, las «zonas de deformación moral» de Madeleine Clare Elish y los principios mixed-initiative (de iniciativa mixta) de Eric Horvitz: la proactividad debe crecer con la reversibilidad, no con la confianza. Un mandato vive en los permisos, no en la conversación."
               },
               {
                 "t": "p",
-                "x": "En cine, un paisaje urbano de 10,000 metros cuadrados que tardaría dos meses en construirse como set puede escanearse y editarse en una semana, y hay estudios que usan Kosmo en flujos de trabajo basados en RenderMan de Pixar."
+                "x": "Sus cuatro pasos: auditar las aprobaciones; escribir las reglas y aplicarlas en los permisos, no en el prompt; hacer la prueba de alcance; y mantener un registro independiente con un control de parada funcional en pantalla mientras el agente trabaja."
               }
             ]
           }

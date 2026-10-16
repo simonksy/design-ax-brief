@@ -8034,6 +8034,157 @@
           "x": "Incluye funciones de equipo como instrucciones, habilidades y memoria compartidas, además de autenticación, permisos y sincronización en vivo. Se puede usar una clave propia de Anthropic, OpenAI, Gemini u OpenRouter, o ejecutar un modelo local con Ollama. Clips, Slides y Design son apps agénticas de código abierto creadas con él."
         }
       ]
+    },
+    "design/design-krea3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+          "cap": "Presentamos Krea 3"
+        },
+        {
+          "t": "p",
+          "x": "En el último año, la edición de imágenes cruzó un umbral de calidad, pero los mejores modelos de edición también se volvieron más lentos y caros. Krea lanzó Krea 3, su nuevo modelo de edición de imágenes: la mayoría de las ediciones se completan en menos de 8 segundos, de principio a fin, a 2K nativo, por $0.06 por imagen a 2K."
+        },
+        {
+          "t": "p",
+          "x": "Deja intacto lo que no se le pidió tocar: si se cambia el entorno de un producto, la etiqueta sigue nítida; si se le da un rostro y un atuendo, la persona de la siguiente imagen sigue siendo la misma. Admite hasta 6 imágenes de referencia por edición."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+          "cap": "La misma lata en una mano, hundida en hielo picado con yuzu partido por la mitad"
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+          "cap": "Solo cambian los asientos; la alfombra, la sala y la mujer que lee se mantienen."
+        },
+        {
+          "t": "video",
+          "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+        },
+        {
+          "t": "p",
+          "x": "También puede convertir un boceto a rotulador, un moodboard o una vieja polaroid en una foto terminada. Krea 3 ya está disponible en krea.ai para 30 millones de usuarios, a $0.06 por imagen a 2K y $0.03 a 1K, y a través de fal, Hedra, Together AI, Nous Research, OpenRouter y Replicate."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+          "cap": "Un boceto a rotulador de un sofá convertido en una pieza de cuero fotorrealista"
+        }
+      ]
+    },
+    "design/design-cursor-canvases": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lienzos desde agentes en la nube: los agentes en la nube ahora pueden crear lienzos interactivos como parte de su trabajo. Para compartir un lienzo terminado con tu equipo, basta con enviar su enlace."
+        },
+        {
+          "t": "p",
+          "x": "Environments API: la Environments API ya está disponible en beta. Úsala para crear y gestionar de forma programática los entornos en la nube en los que se ejecutan tus agentes."
+        },
+        {
+          "t": "p",
+          "x": "Entornos más grandes y rápidos: los entornos de agentes en la nube ahora admiten hasta 300 repositorios. Además, los entornos grandes cargan 5x más rápido."
+        }
+      ]
+    },
+    "design/design-vercel-ship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+          "cap": "\"Construimos Vercel para poner todo el poder de la Agentic Infrastructure detrás de ti, el desarrollador.\""
+        },
+        {
+          "t": "p",
+          "x": "Miles de personas se reunieron en London, Berlin, New York, Sydney y San Francisco en Vercel Ship 2026, centrado en la infraestructura para agentes."
+        },
+        {
+          "t": "p",
+          "x": "Philip Miseldine y Sophia Levens, de SAP, mostraron cómo SAP usa v0, eve y json-render para crear interfaces generativas, con énfasis en un diseño coherente y en los requisitos gubernamentales. En Berlin, Miseldine mostró cómo la empresa reconstruyó su sistema de diseño para hacerlo componible, de modo que personas y agentes ensamblen interfaces con las mismas piezas, con v0 funcionando en sus etapas de construir, entregar y decidir."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+          "cap": "Ship 2026 en Berlin"
+        },
+        {
+          "t": "p",
+          "x": "Nicolas Le Pallec (AKQA): la experiencia de cliente AI-native sustituye la navegación por la intención, mediante la intención del cliente capturada, un cerebro de marca y una UI generativa que compone páginas sobre la marcha. Victor Oliveros (ZoomInfo): en ZoomInfo, 40,000+ clientes crean sus propios flujos de trabajo con v0 integrado en el producto."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle por qué pide a los diseñadores diseñar primero para la API y al final la UI, el CEO de Notion, Ivan Zhao, dijo: \"tu próximo cliente no es solo un humano, es un humano y un agente, y los agentes son ciegos… Así que diseña primero la estructura y el significado, y la interfaz al final.\""
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+          "cap": "Ship 2026 en New York"
+        }
+      ]
+    },
+    "design/design-human-in-loop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+          "cap": "La mano de un revisor duda sobre un botón de aprobar mientras el trabajo que aprueba ya ha seguido adelante sin él. Con asistencia de AI."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes ya clasifican bandejas de entrada, actualizan registros y envían mensajes mientras estamos en otra reunión. La respuesta habitual es un cuadro de confirmación, pero lo que ocurre es que la responsabilidad se desplaza y recae en quien tenía menos información y menos poder sobre el resultado."
+        },
+        {
+          "t": "p",
+          "x": "Lo que daña a las personas no es la iniciativa, sino el alcance. La mejor pregunta es una prueba de alcance: ¿qué puede tocar el agente y puede una persona revertirlo? Quien fija el alcance de un agente responde por lo que este haga ahí."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+          "cap": "La interrupción es buena. Hasta Anthropic lo dice."
+        },
+        {
+          "t": "p",
+          "x": "Neeman se apoya en el sesgo de automatización, las «zonas de deformación moral» de Madeleine Clare Elish y los principios mixed-initiative (de iniciativa mixta) de Eric Horvitz: la proactividad debe crecer con la reversibilidad, no con la confianza. Un mandato vive en los permisos, no en la conversación."
+        },
+        {
+          "t": "p",
+          "x": "Sus cuatro pasos: auditar las aprobaciones; escribir las reglas y aplicarlas en los permisos, no en el prompt; hacer la prueba de alcance; y mantener un registro independiente con un control de parada funcional en pantalla mientras el agente trabaja."
+        }
+      ]
+    },
+    "design/design-figma-specs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma lanza Specs, un contenedor para tu contexto que vive en el lienzo de Figma. Quienes crean productos trabajan cada vez más en Markdown mientras colaboran con agentes, pero esos archivos suelen ser de un solo usuario y estar poco vinculados a los proyectos que hay detrás. Specs es un contenedor multijugador que permite que el contexto entre, salga y circule por Figma."
+        },
+        {
+          "t": "p",
+          "x": "Una spec reúne decisiones compartidas y puede incrustar un archivo de FigJam, un marco o cualquier nodo del lienzo, de modo que texto y diseños quedan uno al lado del otro. Se crea pulsando 'D' o desde la barra de herramientas, o arrastrando cualquier archivo .md al lienzo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Redacta una especificación técnica basada en tu código con el conector de GitHub."
+        },
+        {
+          "t": "p",
+          "x": "Conectores como GitHub y Hex incorporan contexto externo, y el agente de Figma puede leer y escribir comentarios en una spec y responder a los comentarios abiertos con correcciones sugeridas. También puede convertir un PRD en diseños, prototipos y código, o convertir diseños y código de nuevo en una spec."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Consulta componentes del sistema de diseño y deja que el agente de Figma documente su contexto de uso en una spec, uno al lado del otro en el lienzo."
+        },
+        {
+          "t": "p",
+          "x": "A través del servidor Figma MCP, agentes de programación como Codex pueden leer una spec y todo el contexto que enlaza. Specs está disponible en web, escritorio y móvil, y se despliega en beta abierta para los planes de pago."
+        }
+      ]
     }
   }
 }

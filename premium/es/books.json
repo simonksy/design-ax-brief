@@ -6528,6 +6528,134 @@
           "x": "En el extranjero, Nippon Shuppan Hanbai (Nippan) vendió libros nuevos en japonés a la empresa estadounidense de AI Anthropic durante 1 año a partir de diciembre de 2024. La Asociación de Editores de Corea celebró una reunión de su junta y decidió investigar la situación de librerías, librerías de segunda mano y distribuidores, así como emitir una declaración conjunta para sumarse al ‘Llamamiento de Fráncfort’, que critica el entrenamiento de AI sin el consentimiento de los autores."
         }
       ]
+    },
+    "books/books-play-books-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
+        },
+        {
+          "t": "p",
+          "x": "Google lanzó Expert Intelligence, una iniciativa de AI que abarca varios productos y permite añadir e-books elegibles comprados en Google Play Books directamente a Gemini Notebook como fuentes de referencia. La plataforma arrancó con más de 100,000 títulos; la integración permite generar cuestionarios, infografías y Audio Overviews combinando libros publicados con notas personales."
+        },
+        {
+          "t": "p",
+          "x": "Expert Intelligence se lanzó hace un mes con más de 100,000 libros de grandes editoriales, entre ellas Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan Publishers, O’Reilly Media y Penguin Random House. Google también colaboró estrechamente con más de 15 autores superventas —entre ellos Steven Pinker, Michael Pollan y Jennifer Wallace— para crear Featured Notebooks especiales que complementan sus libros con fuentes adicionales y materiales atractivos que permiten a los lectores profundizar en la obra del autor."
+        },
+        {
+          "t": "p",
+          "x": "Para saber si un libro es elegible para Expert Intelligence, basta con visitar Google Play Books. Si lo es, aparecerá Gemini Notebook al pulsar la insignia “Tools” en la página de detalles del libro. Para empezar, también ofrecen un libro a usuarios de U.S. hasta agotar existencias. En el futuro, también se podrán añadir más fuentes, como suscripciones de terceros, informes de investigación empresarial y libros de texto."
+        }
+      ]
+    },
+    "books/books-ddalkkak-ai-books": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+          "cap": "Reuters/Yonhap"
+        },
+        {
+          "t": "p",
+          "x": "Aunque Corea usa activamente la AI —es el 2.º país del mundo en suscriptores de pago de ChatGPT—, se señala que su protección de los derechos de autor frente a la AI va por detrás de otros países. Europa y Japón ya tienen marcos establecidos, mientras que en Corea el debate apenas comienza."
+        },
+        {
+          "t": "p",
+          "x": "En septiembre, la app de ChatGPT tuvo en Corea 1799만 3884 usuarios activos mensuales, la mayor cifra entre las apps de AI, y Claude alcanzó 170만 8413, más de 13 veces más que 1 año antes. En la cuota de ingresos de ChatGPT por país, Corea es segunda con un 5.4%, tras Estados Unidos (35.4%)."
+        },
+        {
+          "t": "p",
+          "x": "La Ley Básica de AI entró en vigor en enero de este año, pero persisten las críticas de que carece de una disposición explícita para proteger las obras humanas y de que sus normas para etiquetar las creaciones de AI son ambiguas."
+        },
+        {
+          "t": "p",
+          "x": "En Corea, el problema de la ‘edición en un clic’ de baja calidad ha surgido antes que el del entrenamiento de AI. Se trata de hacer libros solo con AI, sin intervención de autores ni traductores, por ejemplo pasando una traducción por AI y publicándola tal cual. Hay quien prevé que las novedades, que rondaban unos 6만2000 títulos al año, podrían dispararse a 20만~30만 al año. En marzo, la Asamblea Nacional abrió la puerta a que las bibliotecas puedan no aceptar el depósito legal de publicaciones de AI, y la Sociedad de Editores de Corea anunció el principio de indicar claramente el grado de uso de AI."
+        },
+        {
+          "t": "p",
+          "x": "El día 8 de este mes, el Consejo Presidencial de Propiedad Intelectual examinó y aprobó una propuesta que exige el permiso previo de los titulares de derechos para almacenar y procesar obras durante el entrenamiento de AI. El Ministerio de Cultura, Deportes y Turismo prevé distribuir este año un contrato tipo para la cesión y el uso de obras destinadas al entrenamiento de AI."
+        },
+        {
+          "t": "p",
+          "x": "Un responsable del sector editorial advirtió: «Aunque el contenido sea totalmente distinto, si el estilo es idéntico al de un autor real, es difícil tanto distinguirlo como sancionarlo»."
+        }
+      ]
+    },
+    "books/books-kpa-ai-compensation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+          "cap": "Captura de la página del llamamiento de la Sociedad de Editores de Corea"
+        },
+        {
+          "t": "p",
+          "x": "Ante los intentos de empresas extranjeras de inteligencia artificial (AI) de comprar en grandes cantidades libros presuntamente destinados al entrenamiento, la Sociedad de Editores de Corea publicó un llamamiento para exigir una compensación justa."
+        },
+        {
+          "t": "p",
+          "x": "La Sociedad de Editores de Corea informó el día 16 de que ha redactado el ‘Llamamiento de la República de Corea’ y está recogiendo firmas para proteger los derechos de creadores y editoriales y sentar las bases para que la AI y la edición puedan prosperar juntas."
+        },
+        {
+          "t": "p",
+          "x": "El llamamiento insta al Gobierno, a la Asamblea Nacional y a las empresas de AI a garantizar la transparencia de los datos de entrenamiento, establecer el principio de licencia de uso y asegurar una compensación justa."
+        },
+        {
+          "t": "p",
+          "x": "En el texto, la Sociedad de Editores de Corea afirmó: «Sin libros no hay AI», y añadió: «Sin embargo, quienes hicieron los libros ni siquiera saben cuándo, cómo ni en qué AI se usaron sus obras. Como no pueden saberlo, no pueden preguntar, negarse ni exigir una retribución justa»."
+        },
+        {
+          "t": "p",
+          "x": "También subrayó que «las empresas de AI deben registrar las obras utilizadas para el entrenamiento, su origen y la base legal de su uso, y permitir que los titulares de derechos lo comprueben», y que «el entrenamiento de AI requiere por principio la autorización del titular, y no haber expresado una negativa no debe interpretarse como consentimiento»."
+        },
+        {
+          "t": "p",
+          "x": "La Sociedad exigió que «las empresas de AI paguen una retribución justa a los titulares de derechos de las publicaciones» y que «las pequeñas y medianas editoriales y los creadores individuales con poco poder de negociación también puedan negociar y ser compensados en condiciones justas». Asimismo, instó al Gobierno y a la Asamblea Nacional a no restringir los derechos de los creadores con el pretexto de impulsar la industria."
+        },
+        {
+          "t": "p",
+          "x": "Hasta la mañana de ese día se habían sumado a la recogida de firmas, iniciada la víspera, 158 entidades, entre ellas editoriales e instituciones afines, y 321 personas, entre escritores, traductores, ilustradores y profesionales del sector. Entre ellos figuran los novelistas Kim Nam-il, Kim Yi-jeong, Eun Mi-hee y Jo Young-joo, los poetas Na Hee-duk, Ryu Geun y Jeong Woo-young, y la traductora Hong Han-byul."
+        },
+        {
+          "t": "p",
+          "x": "El llamamiento se preparó para sumarse al ‘Llamamiento de Fráncfort’, presentado recientemente por el sector editorial local con motivo de la apertura de la Feria del Libro de Fráncfort, el mayor mercado mundial de edición y derechos de autor, y para concienciar sobre los datos de entrenamiento de AI."
+        },
+        {
+          "t": "p",
+          "x": "El ‘Llamamiento de Fráncfort’ pidió a la Unión Europea (EU) y al Gobierno alemán la divulgación de las obras usadas en el entrenamiento de AI, un sistema justo de licencias de uso y medios eficaces para proteger los derechos de autor. La Sociedad de Editores de Corea prevé entregar el llamamiento al Gobierno o a la Asamblea Nacional."
+        }
+      ]
+    },
+    "books/books-anthropic-hankang": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
+          "cap": "Reuters/Yonhap"
+        },
+        {
+          "t": "p",
+          "x": "Se ha revelado que la lista de copias digitales ilegales que la empresa estadounidense de AI Anthropic descargó en 2021~2022 incluye al menos 15 obras de autores coreanos, entre ellas ‘Actos humanos’, de Han Kang, y obras de Hwang Sok-yong y Shin Kyung-sook. Según se ha sabido, Anthropic ha ofrecido una compensación a Han Kang y a otros autores coreanos en cumplimiento de un fallo de un tribunal de EE. UU. que le ordenó compensarlos."
+        },
+        {
+          "t": "p",
+          "x": "Ante el riesgo de litigios, Anthropic cambió su estrategia hacia la compra de libros. En 2024 puso en marcha el ‘Proyecto Panamá’ para comprar y escanear libros físicos de todo el mundo, y en Corea negoció un contrato de compra ‘por miles de ejemplares’ con Woongjin Booxen, la mayor distribuidora de libros del país. Woongjin confirmó: “Es cierto que firmamos un contrato con Anthropic”."
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
+          "cap": "Evolución de las demandas por ‘infracción de derechos de autor por AI’ y autores coreanos incluidos en el acuerdo de derechos de autor de Anthropic"
+        },
+        {
+          "t": "p",
+          "x": "Esto está relacionado con la demanda ‘Bartz contra Anthropic’. El Tribunal de Distrito de EE. UU. para el Distrito Norte de California consideró uso legítimo el entrenamiento con libros comprados legalmente, pero calificó de infracción de derechos de autor las copias ilegales. Anthropic ha cerrado un acuerdo por un total de 1.500 millones de dólares (unos 2,2 billones de wones) por unos 500.000 libros, y prevé empezar a pagar el día 15 del mes próximo."
+        },
+        {
+          "t": "p",
+          "x": "Un responsable del sector editorial señaló: “Según la ley de derechos de autor vigente, venderlos está permitido, pero usarlos para entrenar a la AI es otra cuestión”, y añadió: “En el país todavía hay un vacío normativo al respecto”."
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "issue": "Lovable 앱이 이제 말하고 추론하고 작곡한다",
+  "date": "2026.10.16",
+  "section": "DESIGN",
+  "accent": "#0070f3",
+  "note": "화면 속 로고와 카드를 맞췄다 — 앞 4초는 모델사, 뒤 4초는 웹·분류 도구.",
+  "sources": [
+   "Lovable 블로그 — The AI you already use, now powering the apps you create (2026.10.15)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "video": "pipeline/media/design-lovable-models.mp4",
+   "start": 0,
+   "dur": 4,
+   "eyebrow": "AI × 디자인 · 2026.10.16",
+   "headline": "Lovable 앱이 말하고 추론하고 작곡한다",
+   "body": "Lovable로 만드는 앱에 OpenAI·Anthropic·Google 모델이 들어간다. Lovable 밖으로 나가지 않고 붙인다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "stat",
+   "stat_top": "앱을 만드는 AI",
+   "stat_arrow": "이제 앱 안에도",
+   "stat_bottom": "7가지",
+   "stat_strike": false,
+   "eyebrow": "무엇이 붙었나",
+   "headline": "새로 붙은 모델과 도구",
+   "body": "GPT-Live, Claude, Gemini 4 Argon·Omni·Lyria에 Perplexity·Firecrawl·Parallel·Jev까지.",
+   "foot": "2026.10.16",
+   "n": 2
+  },
+  {
+   "kind": "photo",
+   "media": "pipeline/media/design-lovable-models.jpg",
+   "eyebrow": "출처를 다는 앱",
+   "headline": "실시간 웹 답에 출처를 단다",
+   "body": "Perplexity를 붙이면 '이번 주말 뭐 하지?'를 묻는 도시 안내 앱이 행사마다 링크를 달아 답한다.",
+   "foot": "2026.10.16",
+   "n": 3
+  },
+  {
+   "kind": "photo",
+   "video": "pipeline/media/design-lovable-models.mp4",
+   "start": 4,
+   "dur": 4,
+   "eyebrow": "웹을 읽는 앱",
+   "headline": "긁어 오고, 모으고, 가른다",
+   "body": "Firecrawl은 웹에서 데이터를 긁어 오고 Parallel은 정보를 모아 정리한다. Jev는 문의를 환불·배송·긴급으로 가른다.",
+   "foot": "2026.10.16",
+   "n": 4
+  },
+  {
+   "kind": "quote",
+   "quote": "Jev가 분류하는 동안\nClaude가 답장을 쓴다",
+   "quote_by": "Lovable 블로그 · 2026.10.15",
+   "eyebrow": "짚을 대목",
+   "headline": "모델은 고르지 않아도 된다",
+   "body": "앱만 설명하면 Lovable이 고른다. 직접 고르려면 채팅에 “use Opus 5.5”처럼 이름을 적는다.",
+   "foot": "2026.10.16",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

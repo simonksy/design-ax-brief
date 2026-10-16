@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "issue": "AI가 선거의 돈과 화면으로 들어온다",
+    "date": "2026.10.16",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
+      "https://techpolicy.press/meta-moderation-failures-loom-over-brazils-runoff-presidential-election",
+      "https://techpolicy.press/uk-election-watchdog-develops-ai-system-to-flag-deepfakes-within-3-hours"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 정치 · 10.14~10.16",
+      "thread": [
+        {
+          "d": "10.14",
+          "t": "유령회사 의혹",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.16",
+          "t": "안전 진영 자금",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.16",
+          "t": "Meta AI 논란",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.16",
+          "t": "딥페이크 감시",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "AI는 선거 자금의 쟁점이 되고, 유권자가 보는 화면에도 들어왔다",
+      "eyebrow": "흐름 · 정치",
+      "headline": "AI, 선거의 돈과 화면에 서다",
+      "body": "사흘 새 네 건. 업계와 안전 진영이 각각 선거에 돈을 쓰고, 플랫폼 AI의 편향 논란과 딥페이크 감시가 뒤따랐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.14",
+      "headline": "Pro-AI PAC 돈, 네바다 LLC로",
+      "body": "Pro-AI 슈퍼 PAC 계열 돈을 받은 네바다 LLC 네 곳을 감시단체는 유령회사로 본다(WIRED). PAC은 법을 지켰다고 했다.",
+      "foot": "2026.10.14",
+      "_src": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "_id": "politics-pro-ai-pac-nevada",
+      "stat_top": "Pro-AI PAC 네트워크",
+      "stat_arrow": "중간선거를 앞두고 모은 돈",
+      "stat_bottom": "1억 4000만 달러+",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "AI 안전 진영도 4800만 달러",
+      "body": "Axios 집계로 AI 안전 후원자들이 양당 규제 찬성 후보에 4800만 달러를 썼다. 업계 자금이 입을 막을까 걱정했다고.",
+      "foot": "2026.10.16",
+      "_src": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
+      "_id": "politics-ai-safety-money",
+      "media": "pipeline/media/politics-ai-safety-money.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "브라질 결선, Meta AI 편향 논란",
+      "body": "한 기고는 Meta AI가 브라질에서 플라비우 이미지는 만들고 룰라는 거부했다고 썼다. Meta는 정치 개입을 부인했다.",
+      "foot": "2026.10.16",
+      "_src": "https://techpolicy.press/meta-moderation-failures-loom-over-brazils-runoff-presidential-election",
+      "_id": "politics-brazil-meta-ai",
+      "media": "pipeline/media/politics-brazil-meta-ai.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.10.16",
+      "headline": "영국 선관위, 딥페이크 3시간 경보",
+      "body": "영국 선관위는 5월 시범에서 AI로 약 300만 건을 분석해 147건을 걸렀다. 중대 딥페이크는 3시간 안에 후보에 알린다.",
+      "foot": "2026.10.16",
+      "_src": "https://techpolicy.press/uk-election-watchdog-develops-ai-system-to-flag-deepfakes-within-3-hours",
+      "_id": "politics-uk-deepfakes",
+      "quote": "영국 선거에서 그런 일이 벌어지면\n상당한 표가 움직일 것",
+      "quote_by": "비자이 랑가라잔 · 영국 선거관리위원회 최고경영자"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

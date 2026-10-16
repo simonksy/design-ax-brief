@@ -2593,6 +2593,150 @@
           "x": "各州は裁判所に対し、民事制裁金の賦課と、OpenAIがChatGPTの安全性について公衆を誤認させる行為の差し止めを求めている。一部の州は、違法に収集された個人データの削除も求めている。"
         }
       ]
+    },
+    "politics/politics-china-open-weight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
+        },
+        {
+          "t": "p",
+          "x": "米国と欧州の企業による新しいオープンウェイトモデルは、セキュリティを懸念する中国製オープンモデルの利用者を取り込もうとしているが、より多くの資源を持ちながらも性能では支配的な中国のシステムに及ばない。サンフランシスコで開かれたRest of Worldのイベントで、専門家らがそう語った。"
+        },
+        {
+          "t": "p",
+          "x": "低所得国の企業や政府にとって最大の要因はコストだと、Columbia University助教のDaniel Björkegrenは述べた。「低所得国の文脈では、フロンティアの知能をU.S.に依存することへの懸念が大きい」と彼は語った。"
+        },
+        {
+          "t": "p",
+          "x": "先週のOpenRouterのランキングでは上位五つのうち四つが中国モデルで、LiveBenchではトップの中国モデルがベンチマークスコアでU.S.の競合をわずか3%下回るにとどまった。"
+        },
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+          "cap": "サンフランシスコのRest of WorldイベントでのKristy Loke(左)とDaniel Björkegren。"
+        },
+        {
+          "t": "p",
+          "x": "オープンモデルによって中国は海外市場での存在感をめぐる懸念の一部を回避できると、MATSの研究フェローKristy Lokeは述べた。「ソフトパワーにとって良い。国内的にも良い」と彼女は語った。"
+        },
+        {
+          "t": "p",
+          "x": "半導体の貿易規制が中国企業により効率的なモデルの開発を迫ったと、StanfordのDigiChina ProjectのGraham Websterは述べた。「比較的フロンティアに近い能力が必要なら、今は中国のオープンモデルしかない」"
+        },
+        {
+          "t": "p",
+          "x": "それでも中国企業は計算資源の制約と、どう稼ぐかという課題を抱える。「現状では買えるチップの量に限りがある」とWebsterは言う。「壁にぶつかるかもしれない」。収益化はすべての中国AI企業にとっての懸念だとLokeは述べた。"
+        }
+      ]
+    },
+    "politics/politics-eu-raise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ダブリンで開かれたEuropean AI in Science Summitで、欧州委員会はAI in Science Enablersを対象とするRAISE(Resource for AI Science in Europe)の誓約イニシアチブを立ち上げた。公的資金だけで賄える範囲を超えて、人工知能と科学の両分野で活動する欧州の研究者に向け、民間セクターや慈善団体の支援を引き出すことを狙う。"
+        },
+        {
+          "t": "p",
+          "x": "AI in Science Strategyの一環として、最先端AIモデルへのアクセス、計算能力、研究用ソフトウェアのライセンス、データ、トレーニングといった現物提供を束ねる。初期のコミットメントはNovo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral、Google DeepMindが表明した。"
+        },
+        {
+          "t": "p",
+          "x": "この取り組みの一環として、Mistral AIとCERNは物理学で最大となる見込みの基盤モデルを開発する提携を始めた。誓約は直接の商業的利益を超えて科学向けAIを継続的に支えることを示す必要があり、イニシアチブは毎年見直される。"
+        },
+        {
+          "t": "p",
+          "x": "欧州委員会はまた、エージェント型AIを含む研究における生成AIの責任ある利用に関するLiving Guidelinesの改訂版を示し、RAISE Hub、Forum、Observatoryを立ち上げた。"
+        }
+      ]
+    },
+    "politics/politics-eu-ai-act-pressure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DUBLIN — AIエージェントが暴走する事案が相次いだ夏を経て、MicrosoftとGoogleのトップが、EUの2024年人工知能法(Artificial Intelligence Act)がなお目的に適っているのか公然と疑問を呈した。"
+        },
+        {
+          "t": "p",
+          "x": "MicrosoftのBrad Smith社長はDecoded by POLITICOに対し、欧州当局は現行ルールの妥当性を見直すべきだと語った。Google DeepMind共同創業者のDemis HassabisはAI Actに触れることなく、壇上で「三年前の事柄に合わせて法律を作れば、今日には時代遅れになる」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "欧州委員会の当局者は、この法律は十分に強力だと主張する。EUの技術担当トップHenna Virkkunenは、AIエージェントに対処する「備えは十分」だと述べた。Michael McGrath司法担当委員は「今のところ満足している」と語った。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+          "cap": "一部のEU加盟国政府は、AI Actに抜け穴があると結論づけた。 | Michele Spatari/NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "一部のEU政府は欠陥を見ている。POLITICOが確認したハンガリーの文書は、同法が主にモデルの市場投入後に適用されると指摘し、「2026年の事案はその前に起きた」と記す。チェコのAI特使Lukáš Kačenaは「AI Actで十分になることは決してない」と述べた。"
+        }
+      ]
+    },
+    "politics/politics-brookings-ai-evals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+        },
+        {
+          "t": "p",
+          "x": "この背景説明ガイドは、2026年九月15日のForum for Cooperation on AI(FCAI)対話に先立ち参加者に配布された。各国政府や組織が同時にAI評価能力を構築しており、最近の出来事がその取り組みに新たな緊急性をもたらした。"
+        },
+        {
+          "t": "p",
+          "x": "評価者は開発者からの独立性で異なる。ファーストパーティー評価は社内で行われ、セカンドパーティー評価者は契約関係を持ち、サードパーティー評価者はそうした関係を持たない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+          "cap": "Figure A"
+        },
+        {
+          "t": "p",
+          "x": "U.S.ではCAISIがフロンティアモデルの国家安全保障テストを担い、五月にGoogle DeepMind、Microsoft、xAIと配備前評価の協定を結んだ。EU AI Actの評価義務は主に第55条に定められている。U.K. AI Security Instituteは再現可能な評価のためのオープンソースのフレームワークInspectを開発し、日本、シンガポール、カナダ、オーストラリアはそれぞれ独自のAI安全研究所を運営している。"
+        },
+        {
+          "t": "p",
+          "x": "「いかなる評価も全体像を示すことはできない」とブリーフィングは指摘し、評価は「中立的な道具ではない」とする。"
+        }
+      ]
+    },
+    "politics/politics-uk-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
+          "cap": "2026年10月8日、ホルボーン・アンド・セント・パンクラス補欠選挙の投票所を後にする有権者。(Leon Neal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "英国選挙委員会は、ソーシャルメディアに投稿された重大なディープフェイクを3時間以内に候補者へ通知するAI搭載システム（AI-powered）を開発している。保守党大会のパネルで、ヴィジェイ・ランガラジャン（Vijay Rangarajan）最高経営責任者が明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "同氏は、2025年のアイルランド大統領選で候補者キャサリン・コノリー（Catherine Connolly）氏が撤退したかのように見せかけたディープフェイク動画を例に挙げ、「英国の選挙でそれが起きれば、かなりの票が動くだろう」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "2026年5月の地方選挙での試行について、同氏は「本格的な試行を実施し、約300万件の投稿をAIで分析した」と語った。147件のコンテンツが検出され、人間が確認したうえで、「実にかなり誤解を招く」投稿10件をソーシャルメディア企業や警察に通報した。"
+        },
+        {
+          "t": "p",
+          "x": "この手法は「加害者中立」である。職員がAIの検出した投稿（AI-flagged）を確認し、3時間以内に候補者や政党に知らせる。「拡散するまでにかかるのがそのくらいの時間だからだ」という。"
+        },
+        {
+          "t": "p",
+          "x": "ランガラジャン氏はまた、委員会が少なくとも一つのソーシャルネットワークで「アルゴリズムの偏り」を検出したとみていること、月に3万〜4万件のサイバー攻撃を受けていること、1983年または2000年の「非常に時代遅れ」な法律を適用していることも明らかにした。"
+        }
+      ]
     }
   }
 }

@@ -2455,38 +2455,32 @@
     "music/music-vibe-coded-plugins": {
       "blocks": [
         {
-          "t": "img",
-          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/95ce9bd8-d75d-4ac1-848c-4f19b3b93c1a/How+Vibecoding+Has+Shifted+the+Plugins+You+Own+and+Buy.jpg",
-          "cap": "来源:Production Expert"
+          "t": "p",
+          "x": "vibe-coded插件随处可见，但这是否意味着它们真的在占领市场？这些借助AI制作的插件正充斥着市场，可真的有人在买吗？"
         },
         {
           "t": "p",
-          "x": "所谓vibe coding,也就是由AI主导的开发,已经成为软件行业的基本功。去年Spotify联合CEO留下的一句话——“Most senior engineers haven't written a single line of code since December”——说明这种方式已经越过初期阶段,进入了最高水平的开发现场。那么购买的一方呢?由AI设计、制作、构思的插件,值得信任吗?Acedia Audio的开发者Deivids,从开发者和客户两端梳理了vibe coding的现状。"
-        },
-        {
-          "t": "p",
-          "x": "一句提示词就能做出一个App的宣传语,至今大多仍是空想。无论做什么应用,只要是通过vibe coding来完成,开发者都必须深入理解项目结构。AI提升了开发速度,但需要监督的范围也同比扩大。正因如此,AI编程应该专注于狭窄的领域。大多数问题都源于范围判断失误,如果让AI去猜测插件的核心支柱,很快就会变成巨大的负债。入门门槛降低了,但一款可用的插件依然需要很高的熟练度。"
-        },
-        {
-          "t": "p",
-          "x": "也有乐观的一面。以前做一款插件需要庞大的团队和巨额预算,边缘的想法总是被挤到一边。现在,有想法的人可以做出用于推介的演示,有时甚至能做出成品。声音设计师、演奏者和拟音师也因此有机会亲自打造自己长期渴望的工具。用AI修补失去支持的老代码库,也是一种很好的用法。Eleven Rack的硅驱动发布就是最近的一个例子。"
+          "x": "Bedroom Producer’s Blog编辑Tomislav Zlatic警告：“vibe coding交给你的是一堵代码墙，‘做出’插件的人很可能都读不懂，更别说调试了。”信任是读者提出的最大顾虑。"
         },
         {
           "t": "img",
-          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/8eca0442-55f6-407a-aba7-36dd1e7689c2/Depositphotos_850233672_L.jpg",
-          "cap": "来源:Production Expert"
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
         },
         {
           "t": "p",
-          "x": "由于各家公司接受这项技术的时间点和速度不同,即便是业内最顶尖的名字,如今也刚刚踏入AI开发,正在经历成长的阵痛。首先要看的是安全性。插件与系统外部的通信,应该仅限于许可证检查和验证。如果使用PACE、Moonbase、MuseHub这类经过验证的第三方服务商,大体上可以放心。如果是采用自有方式的新兴开发商,最好直接向支持团队询问。支持和沟通渠道开放的程度,也能看出这家公司打算长久经营的意愿有多强。"
+          "x": "Våld Labs的Jaime Paiva借助AI智能体打造了软合成器Tresse，但他仍在亲自写代码。他说：“AI是工作流程中的工具，而不是工作流程本身。”“Tresse应该是什么样子，不是由它决定的。”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
         },
         {
           "t": "p",
-          "x": "性能和稳定性同样重要。音频处理中的延迟或卡顿会直接变成事故,而不熟悉这个狭窄领域的模型所产出的结果,容易导致崩溃或优化不足。不必去跑基准测试,拿到试用版,看它能否承受你的工作流程和设备就够了。设计也是一个信号。把配色方案交给AI,它会收敛到那个模型最常使用的风格。Claude Opus系列模型有自动选用深蓝紫色调的习惯,不同的人在不同的项目里都出现了同样的配色。"
+          "x": "Artists in DSP的Amorph可以让你在DAW中用vibe code制作乐器和效果器。CEO Leonardo Biasca-Caroni说：“Amorph不生成音乐，它生成的是乐器。”“如果现成的插件够用，就买它。Amorph是为没人卖的东西准备的。”"
         },
         {
           "t": "p",
-          "x": "最终要确认的共有六件事:有没有试用版,是否使用了可信的许可证验证体系,支持渠道是否开放,能否顺畅地承受你的工作,设计是否具有独特性,以及是否有证据表明它曾用于真实的专业场景。不需要技术背景也能做出判断。只需问自己,这款插件是否给人一种确实有人在亲手操控的感觉。vibe coding提高了开发者能力的天花板,风险和期待来自同一场变化。最终,一切都取决于开发者如何使用这项技术。"
+          "x": "Attack的建议是：做好安全方面的尽职调查，问问开发者是否打算长期做下去，并且只购买提供可先试用演示版的vibe-coded插件。"
         }
       ]
     },
@@ -6581,6 +6575,134 @@
         {
           "t": "p",
           "x": "相比之下，YouTube侧重于信息披露，而非一刀切的限制：仅凭AI参与，并不会让曲目失去变现资格。"
+        }
+      ]
+    },
+    "music/music-distrokid-suno": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+          "cap": "图为2024年6月04日在纽约市拍摄的手机上音乐应用的照片插图。Michael M. Santiago/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group与Sony Music提起新的法律诉讼，要求迫使DistroKid披露其每月上传至流媒体服务的AI歌曲数量，称这是它们与Suno持续交锋中的关键证据。"
+        },
+        {
+          "t": "p",
+          "x": "该申请于周三（10月14日）提交至曼哈顿联邦法院，旨在迫使DistroKid遵守上月发出的传票。唱片公司称DistroKid是“导致流媒体市场被AI-generated录音淹没的主要渠道之一”，并称其“拒绝提供任何一份文件”。"
+        },
+        {
+          "t": "p",
+          "x": "他们表示，Suno“不追踪其生成内容离开Suno平台后被分发到何处”，但DistroKid“位于流媒体服务的上游”。律师写道：“DistroKid已承认使用AI-detection工具衡量这一流量。”“这一流量是否正在损害原告录音的市场，是Suno合理使用抗辩的核心问题。”"
+        },
+        {
+          "t": "p",
+          "x": "DistroKid发言人表示：“DistroKid是Universal Music Group、Sony Music与Suno之间正在进行的诉讼中的第三方。我们致力于透明，并将在此事推进过程中继续配合法律程序。”"
+        }
+      ]
+    },
+    "music/music-duke-spotify": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“Spotify不给AI音乐贴标签，我们试着自己检测。”这是Duke Sanford Tech Policy Program宣布一份新报告的博客文章标题。"
+        },
+        {
+          "t": "p",
+          "x": "文章称：“Spotify和Apple Music等主流音乐流媒体平台不断承诺为AI-generated音乐加标签，却仍依赖艺人的自愿标注。”“这种标注方式无效，也无助于在音乐产业或创意经济中培养问责文化。”"
+        },
+        {
+          "t": "p",
+          "x": "研究由五名研究人员各自创建专注不同曲风的新Spotify账号，连续25天收听播放列表，标记任何明显不像“人类”的艺人，再用Deezer的AI-detection技术加以确认。"
+        },
+        {
+          "t": "p",
+          "x": "通过这一流程，共有九位艺人被认定为AI-generated。研究人员都是通过Spotify的个性化播放列表“Release Radar”接触到这些音乐的，而且没有一位艺人在个人资料中主动披露使用了AI。"
+        },
+        {
+          "t": "p",
+          "x": "该研究注明的日期为2026年6月，但研究人员实际何时开展工作尚不清楚。这一点很重要，因为Spotify今年推出了多项透明度功能：5月为人类艺人推出“Verified”徽章，9月推出“AI Persona”徽章，Spotify表示授予后者时“不会只依赖自我披露”。"
+        },
+        {
+          "t": "p",
+          "x": "研究作者提出了Spotify可以采取的一些合理措施，但Spotify已在推行其中部分措施，并表示正在想办法将AI-slop曲目挡在推荐之外，包括“Release Radar”。"
+        }
+      ]
+    },
+    "music/music-spotify-ai-badge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+        },
+        {
+          "t": "p",
+          "x": "在我们报道了播放量超过1百万次的极右翼AI说唱歌手Danny Bones之后，Spotify开始为合成艺人贴上标签。"
+        },
+        {
+          "t": "p",
+          "x": "这家流媒体巨头在8月宣布推出新的“AI Persona”徽章，距我们询问该公司为何不要求合成艺人披露其虚构身份仅六天。过去几周徽章陆续上线，Bones也是如今被明显标注的艺人之一。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
+        },
+        {
+          "t": "p",
+          "x": "除非听众已在Spotify上关注过该艺人或与其有过互动，否则AI人设艺人的音乐也会被排除在编辑推荐和个性化推荐之外。"
+        },
+        {
+          "t": "video",
+          "yt": "5hVInGPwQLs"
+        },
+        {
+          "t": "p",
+          "x": "该徽章并不说明音乐本身是否为AI-generated。艺人可以使用AI-generated的人声、伴奏或其他工具，而不会被标注为AI人设；另一套AI署名系统仍在与部分发行商进行beta测试。"
+        },
+        {
+          "t": "p",
+          "x": "Manchester的艺人J.Chambers说：“我很高兴Spotify承认AI-generated的艺人身份引发了严重问题，但我认为给个人资料加标签或在署名中加入AI信息还远远不够。”"
+        }
+      ]
+    },
+    "music/music-musebench": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "生成式AI的进步，使制作与人类作品几乎无法区分的音乐成为可能。MUSEBENCH是一个用于AI-generated音乐检测与伪影分析的大规模基准，包含超过361K 首曲目。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
+          "cap": "图1：MuseBench概览。"
+        },
+        {
+          "t": "p",
+          "x": "数据集包括人类作品、由Suno、Udio等十款最先进开源及商业模型生成的风格匹配音乐、human-AI共创作品，以及经过对抗扰动、压缩和声学后处理的变体。"
+        },
+        {
+          "t": "p",
+          "x": "作者对11款自动检测器进行基准测试，在默认、域外和变换变体设置下评估其准确性、泛化能力与稳健性。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
+          "cap": "AI生成音乐的和弦进行。"
+        },
+        {
+          "t": "p",
+          "x": "通过声学特征检视进行的伪影分析，找出了反复出现的特征：不合惯用法的和声进行、上采样导致的频谱周期性，以及违背真实演奏物理限制的现象。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
+          "cap": "AI生成的吉他音符。"
+        },
+        {
+          "t": "p",
+          "x": "研究结果揭示了现有检测器的主要优势与弱点，并为构建更可靠的AI音乐检测系统提供了实用启示。"
         }
       ]
     }

@@ -2593,6 +2593,150 @@
           "x": "The states are asking courts to impose civil penalties and stop OpenAI misleading the public about ChatGPT's safety; some also seek deletion of unlawfully collected personal data."
         }
       ]
+    },
+    "politics/politics-china-open-weight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
+        },
+        {
+          "t": "p",
+          "x": "New open-weight models from American and European companies aim to win over users of Chinese open models who are concerned about security, but fall short of the dominant Chinese systems on performance despite greater resources, experts said at a Rest of World event in San Francisco."
+        },
+        {
+          "t": "p",
+          "x": "For businesses and governments in lower-income countries, cost is the primary factor, said Daniel Björkegren, an assistant professor at Columbia University. “In the low-income context, there’s a lot of concern about being dependent on the U.S. for frontier intelligence,” he said."
+        },
+        {
+          "t": "p",
+          "x": "The OpenRouter leaderboard had four Chinese models among its top five last week, and LiveBench showed the top Chinese models lagging their U.S. rivals by just 3% on benchmark scores."
+        },
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+          "cap": "Kristy Loke (left) and Daniel Björkegren at the Rest of World event in San Francisco."
+        },
+        {
+          "t": "p",
+          "x": "Open models let China get around some concerns about its presence in overseas markets, said Kristy Loke, a research fellow at MATS. “It’s good for soft power. It’s good domestically, as well,” she said."
+        },
+        {
+          "t": "p",
+          "x": "Chip trade restrictions forced Chinese firms to build more efficient models, said Graham Webster of Stanford’s DigiChina Project. “If you need relatively frontier capability, right now that’s Chinese open models only.”"
+        },
+        {
+          "t": "p",
+          "x": "Still, Chinese companies face compute limits and the question of how to make money. “You can only buy so many chips under current conditions,” Webster said. “They may run into a wall.” Monetization concerns every Chinese AI company, Loke said."
+        }
+      ]
+    },
+    "politics/politics-eu-raise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At the European AI in Science Summit in Dublin, the European Commission launched the RAISE (Resource for AI Science in Europe) pledging initiative for AI in Science Enablers. It aims to mobilise private-sector and philanthropic support for European researchers working across artificial intelligence and science, beyond what public funding alone can provide."
+        },
+        {
+          "t": "p",
+          "x": "Part of the AI in Science Strategy, it brings together in-kind contributions such as access to frontier AI models, computing capacity, research software licences, data and training. Initial commitments have been made by the Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, and Google DeepMind."
+        },
+        {
+          "t": "p",
+          "x": "As part of the initiative, Mistral AI and CERN launched a partnership to develop what is set to become the largest foundation model in physics. Pledges must show sustained support for AI in science beyond direct commercial interests, and the initiative will be reviewed annually."
+        },
+        {
+          "t": "p",
+          "x": "The Commission also presented updated Living Guidelines on the Responsible Use of Generative AI in Research, including agentic AI, and launched the RAISE Hub, Forum and Observatory."
+        }
+      ]
+    },
+    "politics/politics-eu-ai-act-pressure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DUBLIN — Top bosses from Microsoft and Google have openly questioned whether the EU's 2024 Artificial Intelligence Act still fits the purpose, after a summer of incidents involving AI agents going rogue."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft President Brad Smith told Decoded by POLITICO that European officials should reconsider the relevance of the current rules. “If you legislate for something three years ago, it would be out of date today,” Google DeepMind co-founder Demis Hassabis said on stage, without referring to the AI Act."
+        },
+        {
+          "t": "p",
+          "x": "Commission officials insist the law is strong enough. EU tech chief Henna Virkkunen said it is “well-equipped” to handle AI agents. “We are satisfied for now,” Justice Commissioner Michael McGrath said."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+          "cap": "Some EU governments have concluded that the AI Act has loopholes. | Michele Spatari/NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Some EU governments see gaps. A Hungarian paper seen by POLITICO notes the Act largely applies once a model is placed on the market: “The 2026 incidents occurred before that point.” Czech AI envoy Lukáš Kačena said: “The AI Act will never be enough.”"
+        }
+      ]
+    },
+    "politics/politics-brookings-ai-evals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+        },
+        {
+          "t": "p",
+          "x": "This background briefing guide was distributed to participants ahead of the Forum for Cooperation on AI (FCAI) dialogue on Sept. 15, 2026. Governments and organizations are building AI evaluation capacity simultaneously, and recent events gave that work new urgency."
+        },
+        {
+          "t": "p",
+          "x": "Evaluators differ in their independence from developers: first-party evaluations are run in-house, second-party evaluators have a contractual relationship, and third-party evaluators have none."
+        },
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+          "cap": "Figure A"
+        },
+        {
+          "t": "p",
+          "x": "In the U.S., CAISI runs national security testing of frontier models and signed predeployment evaluation agreements with Google DeepMind, Microsoft, and xAI in May. The EU AI Act's evaluation obligations sit mainly in Article 55. The U.K. AI Security Institute developed Inspect, an open-source framework for reproducible evaluations, while Japan, Singapore, Canada and Australia run their own AI safety institutes."
+        },
+        {
+          "t": "p",
+          "x": "“No evaluation can give the full picture,” the briefing notes; evaluations are “not neutral instruments.”"
+        }
+      ]
+    },
+    "politics/politics-uk-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
+          "cap": "A voter leaves a polling station in the Holborn and St Pancras by-election, October 8, 2026. (Leon Neal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "The UK's Electoral Commission is developing an AI-powered system designed to notify candidates of significant deepfakes within three hours of posting to social media, chief executive Vijay Rangarajan said at a Conservative Party conference panel."
+        },
+        {
+          "t": "p",
+          "x": "He cited a deepfake video in Ireland's 2025 presidential election that falsely showed candidate Catherine Connolly withdrawing. \"If that happens to the British election, that will move a significant amount of votes,\" he said."
+        },
+        {
+          "t": "p",
+          "x": "In a pilot during the May 2026 local elections, \"we ran a full pilot, analyzed about three million posts through an AI,\" he said. 147 pieces of content were flagged; humans reviewed them, and ten \"really quite misleading\" posts were referred to social media companies or the police."
+        },
+        {
+          "t": "p",
+          "x": "The approach is \"perpetrator neutral\": staff review AI-flagged posts and alert candidates or parties within three hours, \"because that's the sort of time for it to go viral.\""
+        },
+        {
+          "t": "p",
+          "x": "Rangarajan also said the Commission believes it has detected \"algorithmic bias\" on at least one social network, faces 30,000 to 40,000 cyber-attacks a month, and is applying laws from 1983 or 2000 that are \"very out of date.\""
+        }
+      ]
     }
   }
 }

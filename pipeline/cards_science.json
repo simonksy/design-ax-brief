@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "science",
   "cards": [
     {
-      "id": "science-cern-mistral",
+      "id": "science-protease",
       "source_lang": "en",
-      "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "CERN·Mistral\n거대 물리 모델 만든다",
-      "body": "CERN·Mistral AI, LHC 모의 충돌 수십억 건으로 기반 모델 만든다.",
-      "mini_headline": "CERN·Mistral, 물리 모델 추진",
-      "source": "CERN",
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "headline": "AI가 설계한 분자 가위\n원하는 단백질만 절단",
+      "body": "Baker 연구실의 AI 설계 프로테아제가 TDP-43과 아밀로이드베타를 잘랐다.",
+      "mini_headline": "AI-built 단백질 가위",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,203 +19,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-            "cap": "CERN과 Mistral이 과학용 AI 개발에 힘을 모은다 (이미지: CERN / Mistral)"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+            "cap": "계산 설계와 실험 검증 방식. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
           },
           {
             "t": "p",
-            "x": "CERN과 유럽의 대규모 AI 모델 개발사 Mistral이 과학적 발견을 위한 파운데이션 모델을 함께 만들기로 하고, 장기 전략 파트너십 의향서에 서명했다."
+            "x": "프로테아제는 단백질을 펩타이드로, 나아가 아미노산 하나하나로 쪼개는 천연 효소다. 그런 프로테아제를 과학자들이 인공지능을 써서 아예 처음부터 새로 설계했다."
           },
           {
             "t": "p",
-            "x": "핵심은 사전학습된 단일 Large Physics Model, 곧 충돌기 물리학 최초의 파운데이션 모델이다. 모델은 CERN 대형강입자충돌기(LHC)의 양성자-양성자 충돌 시뮬레이션 수십억 건을 학습한다. 입자 충돌 재구성과 입자 식별부터 예상치 못한 신호 포착, 미래 검출기 설계 평가까지 여러 작업을 맡도록 설계된다."
+            "x": "University of Washington의 David Baker 연구팀은 RFdiffusion2의 변형인 RFD2-MI로 3D 형태와 핵심 골격을 잡았다. 아미노산 서열은 ProteinMPNN과 EnhancedMPNN으로 골랐다. 예측 구조가 의도한 설계와 얼마나 들어맞는지는 AlphaFold 3로 확인했다."
+          },
+          {
+            "t": "video",
+            "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
           },
           {
             "t": "p",
-            "x": "지금의 재구성은 특화된 알고리즘을 사슬처럼 이어 붙여 돌아간다. 파운데이션 모델은 재구성 전 과정을 한꺼번에 학습하므로, 모델 하나로 여러 작업을 처리할 가능성이 생긴다."
+            "x": "연구팀은 시스테인 프로테아제 69종과 아연 프로테아제 135종을 시험했다. 시스테인 쪽에서는 후보 69개 가운데 13개가 표적을 잘랐고, 아연 쪽은 후보 135개의 36%가 짝이 되는 펩타이드 표적을 끊었다. AI로 다듬자 최상위 아연 프로테아제는 절단 속도가 30배 빨라졌다."
           },
           {
             "t": "p",
-            "x": "CERN 최고정보책임자 Enrica Porcari는 “고에너지 물리학은 인공지능을 매우 엄격하게 개발하고 시험할 수 있는 독보적인 환경을 제공한다”고 말했다."
+            "x": "AI-designed 프로테아제 하나는 ALS와 일부 치매에서 비정상적으로 쌓이는 단백질 TDP-43을 전장 그대로 끊었다. 나머지 가운데 일부는 Alzheimer's disease와 관련된 amyloid-beta, 그리고 혈청 아밀로이드 A의 표적 조각을 잘라냈다."
           },
           {
             "t": "p",
-            "x": "CERN이 지금까지 저장한 LHC 실험 데이터는 약 1엑사바이트다. 2030년경 가동 예정인 HL-LHC에서는 충돌 횟수가 10배로 늘어난다. 처음에는 고에너지 물리학에 집중하지만, 이번 협력이 더 넓은 과학계에 AI 접근법을 보탤 수도 있다."
+            "x": "아직 사람을 대상으로 한 임상시험은 거치지 않았다. 연구 결과는 Nature에 논문 두 편으로 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "CERN and Mistral plan a\nLarge Physics Model",
-          "body": "CERN and Mistral AI intend to build a foundation model pretrained on billions of simulated LHC collisions.",
-          "mini_headline": "CERN, Mistral plan physics model",
+          "headline": "AI designs molecular scissors\nthat cut chosen proteins",
+          "body": "The Baker lab's AI-designed proteases cut TDP-43 and amyloid-beta fragments, two Nature papers report.",
+          "mini_headline": "AI-built protein scissors",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-                "cap": "CERN and Mistral join forces to advance AI for science (Image: CERN / Mistral)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+                "cap": "Computational design and experimental testing approach. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
               },
               {
                 "t": "p",
-                "x": "CERN and Mistral, a European developer of large-scale AI models, have signed a statement of intent to establish a long-term strategic partnership focused on developing foundation models for scientific discovery."
+                "x": "Proteases are naturally occurring enzymes that break down proteins into peptides and even single amino acids. Now scientists have used artificial intelligence to design new versions from scratch."
               },
               {
                 "t": "p",
-                "x": "At the heart of this work is the ambition to develop a single pretrained Large Physics Model – the first foundation model for collider physics. It will be trained on billions of simulated proton-proton collisions at CERN’s Large Hadron Collider (LHC) and designed to support multiple tasks, from reconstructing particle collisions and identifying particles to flagging unexpected signals and evaluating future detector designs."
+                "x": "David Baker at the University of Washington and his colleagues used a version of RFdiffusion2 called RFD2-MI to design the 3D shape and core backbones, ProteinMPNN and EnhancedMPNN to select the amino acid sequences, and AlphaFold 3 to check how closely the predicted shapes matched the intended designs."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
               },
               {
                 "t": "p",
-                "x": "Today, reconstruction relies on a chain of specialised algorithms. Foundation models offer the potential to learn across the whole reconstruction chain and support multiple tasks within a single model."
+                "x": "The team tested 69 versions of the cysteine protease and 135 of the zinc protease. Out of the 69 cysteine protease candidates, 13 successfully cut their targets; 36% of the 135 zinc protease candidates cut their matching peptide targets. AI refinement boosted the cutting speed of the top zinc protease by 30 times."
               },
               {
                 "t": "p",
-                "x": "“High-energy physics provides a unique environment in which artificial intelligence can be developed and tested with exceptional rigour,” said Enrica Porcari, CERN’s Chief Information Officer."
+                "x": "One of the AI-designed proteases cut full-length TDP-43, a protein that builds up abnormally in ALS and some types of dementia. Others chopped targeted fragments of amyloid-beta, linked to Alzheimer's disease, and serum amyloid A."
               },
               {
                 "t": "p",
-                "x": "CERN has stored around one exabyte of experimental LHC data to date, and the number of collisions is set to increase tenfold with the HL-LHC, expected to begin operation around 2030. While the initial focus is on high-energy physics, the partnership could contribute AI approaches for the broader scientific community."
+                "x": "The enzymes have not yet been tested in human clinical trials. The findings are detailed in two papers published in Nature."
               }
             ]
           }
         },
         "ko": {
-          "headline": "CERN·Mistral\n거대 물리 모델 만든다",
-          "body": "CERN·Mistral AI, LHC 모의 충돌 수십억 건으로 기반 모델 만든다.",
-          "mini_headline": "CERN·Mistral, 물리 모델 추진",
+          "headline": "AI가 설계한 분자 가위\n원하는 단백질만 절단",
+          "body": "Baker 연구실의 AI 설계 프로테아제가 TDP-43과 아밀로이드베타를 잘랐다.",
+          "mini_headline": "AI-built 단백질 가위",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-                "cap": "CERN과 Mistral이 과학용 AI 개발에 힘을 모은다 (이미지: CERN / Mistral)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+                "cap": "계산 설계와 실험 검증 방식. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
               },
               {
                 "t": "p",
-                "x": "CERN과 유럽의 대규모 AI 모델 개발사 Mistral이 과학적 발견을 위한 파운데이션 모델을 함께 만들기로 하고, 장기 전략 파트너십 의향서에 서명했다."
+                "x": "프로테아제는 단백질을 펩타이드로, 나아가 아미노산 하나하나로 쪼개는 천연 효소다. 그런 프로테아제를 과학자들이 인공지능을 써서 아예 처음부터 새로 설계했다."
               },
               {
                 "t": "p",
-                "x": "핵심은 사전학습된 단일 Large Physics Model, 곧 충돌기 물리학 최초의 파운데이션 모델이다. 모델은 CERN 대형강입자충돌기(LHC)의 양성자-양성자 충돌 시뮬레이션 수십억 건을 학습한다. 입자 충돌 재구성과 입자 식별부터 예상치 못한 신호 포착, 미래 검출기 설계 평가까지 여러 작업을 맡도록 설계된다."
+                "x": "University of Washington의 David Baker 연구팀은 RFdiffusion2의 변형인 RFD2-MI로 3D 형태와 핵심 골격을 잡았다. 아미노산 서열은 ProteinMPNN과 EnhancedMPNN으로 골랐다. 예측 구조가 의도한 설계와 얼마나 들어맞는지는 AlphaFold 3로 확인했다."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
               },
               {
                 "t": "p",
-                "x": "지금의 재구성은 특화된 알고리즘을 사슬처럼 이어 붙여 돌아간다. 파운데이션 모델은 재구성 전 과정을 한꺼번에 학습하므로, 모델 하나로 여러 작업을 처리할 가능성이 생긴다."
+                "x": "연구팀은 시스테인 프로테아제 69종과 아연 프로테아제 135종을 시험했다. 시스테인 쪽에서는 후보 69개 가운데 13개가 표적을 잘랐고, 아연 쪽은 후보 135개의 36%가 짝이 되는 펩타이드 표적을 끊었다. AI로 다듬자 최상위 아연 프로테아제는 절단 속도가 30배 빨라졌다."
               },
               {
                 "t": "p",
-                "x": "CERN 최고정보책임자 Enrica Porcari는 “고에너지 물리학은 인공지능을 매우 엄격하게 개발하고 시험할 수 있는 독보적인 환경을 제공한다”고 말했다."
+                "x": "AI-designed 프로테아제 하나는 ALS와 일부 치매에서 비정상적으로 쌓이는 단백질 TDP-43을 전장 그대로 끊었다. 나머지 가운데 일부는 Alzheimer's disease와 관련된 amyloid-beta, 그리고 혈청 아밀로이드 A의 표적 조각을 잘라냈다."
               },
               {
                 "t": "p",
-                "x": "CERN이 지금까지 저장한 LHC 실험 데이터는 약 1엑사바이트다. 2030년경 가동 예정인 HL-LHC에서는 충돌 횟수가 10배로 늘어난다. 처음에는 고에너지 물리학에 집중하지만, 이번 협력이 더 넓은 과학계에 AI 접근법을 보탤 수도 있다."
+                "x": "아직 사람을 대상으로 한 임상시험은 거치지 않았다. 연구 결과는 Nature에 논문 두 편으로 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CERNとMistral\n大規模物理モデル構想",
-          "body": "CERNとMistral AIがLHCの模擬衝突数十億件で基盤モデルを事前学習する計画だ。",
-          "mini_headline": "CERNとMistral、物理モデル構想",
+          "headline": "AIが設計した分子のハサミ\n狙った蛋白質だけ切断",
+          "body": "Baker研のAI設計プロテアーゼがTDP-43とアミロイドβ断片を切断した。",
+          "mini_headline": "AI-built タンパク質のハサミ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-                "cap": "CERNとMistralが科学のためのAI推進で手を組む（画像：CERN / Mistral）"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+                "cap": "計算設計と実験検証のアプローチ。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
               },
               {
                 "t": "p",
-                "x": "CERNと、大規模AIモデルを開発する欧州のMistralは、科学的発見のための基盤モデル開発に焦点を当てた長期的な戦略的パートナーシップの構築に向け、意向表明書に署名した。"
+                "x": "プロテアーゼは、タンパク質をペプチドへ、さらには単一のアミノ酸へと分解する天然の酵素である。いま科学者たちは人工知能を使い、新しいものをゼロから設計した。"
               },
               {
                 "t": "p",
-                "x": "取り組みの中心にあるのは、事前学習済みの単一のLarge Physics Model、すなわち衝突型加速器物理学で初となる基盤モデルを開発するという構想だ。このモデルはCERNの大型ハドロン衝突型加速器（LHC）における陽子・陽子衝突のシミュレーション数十億件で学習し、粒子衝突の再構成や粒子識別から、予期しない信号の検出、将来の検出器設計の評価まで、複数のタスクを支えるよう設計される。"
+                "x": "University of WashingtonのDavid Bakerらは、RFdiffusion2の派生版RFD2-MIで3D形状と中核の骨格を設計し、ProteinMPNNとEnhancedMPNNでアミノ酸配列を選び、AlphaFold 3で予測構造が意図した設計とどれだけ一致するかを確かめた。"
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
               },
               {
                 "t": "p",
-                "x": "現在、再構成は専門化したアルゴリズムの連鎖に頼っている。基盤モデルには、再構成の全工程を通して学習し、単一のモデルで複数のタスクを担える可能性がある。"
+                "x": "チームはシステインプロテアーゼ69種と亜鉛プロテアーゼ135種を試験した。システインプロテアーゼ候補69個のうち13個が標的を切断し、亜鉛プロテアーゼ候補135個の36%が対応するペプチド標的を切断した。AIによる改良で、最上位の亜鉛プロテアーゼの切断速度は30倍に高まった。"
               },
               {
                 "t": "p",
-                "x": "「高エネルギー物理学は、人工知能を並外れた厳密さで開発・検証できる独自の環境を提供する」と、CERNの最高情報責任者Enrica Porcari氏は述べた。"
+                "x": "AI-designedプロテアーゼの一つは、ALSや一部の認知症で異常に蓄積するタンパク質TDP-43を全長で切断した。ほかのものは、Alzheimer's diseaseに関わるamyloid-betaや血清アミロイドAの狙った断片を切り出した。"
               },
               {
                 "t": "p",
-                "x": "CERNはこれまでに約1エクサバイトのLHC実験データを保存しており、2030年ごろ稼働予定のHL-LHCでは衝突数が10倍に増える。当初は高エネルギー物理学に焦点を当てるが、この提携はより広い科学コミュニティにAIの手法をもたらす可能性がある。"
+                "x": "これらの酵素はまだヒトでの臨床試験にかけられていない。成果はNatureに掲載された二本の論文で報告されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CERN携手Mistral\n打造大型物理模型",
-          "body": "CERN与Mistral AI计划用数十亿次LHC模拟碰撞预训练一个基础模型。",
-          "mini_headline": "CERN与Mistral规划物理模型",
+          "headline": "AI设计分子剪刀\n精准切开目标蛋白",
+          "body": "Baker实验室用AI设计的蛋白酶切开了TDP-43与amyloid-beta片段。",
+          "mini_headline": "AI-built 蛋白质剪刀",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-                "cap": "CERN与Mistral联手推动面向科学的AI（图片：CERN / Mistral）"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+                "cap": "计算设计与实验验证的流程。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
               },
               {
                 "t": "p",
-                "x": "CERN与欧洲大规模AI模型开发商Mistral签署意向声明，计划建立长期战略合作伙伴关系，重点开发用于科学发现的基础模型。"
+                "x": "蛋白酶是天然存在的酶，能把蛋白质分解成多肽，甚至分解到单个氨基酸。如今科学家用人工智能从零设计出新的蛋白酶。"
               },
               {
                 "t": "p",
-                "x": "这项工作的核心目标是开发一个经过预训练的单一Large Physics Model，即首个面向对撞机物理的基础模型。它将基于CERN大型强子对撞机（LHC）数十亿次模拟质子-质子碰撞进行训练，并被设计用于支持多项任务，从重建粒子碰撞、识别粒子，到标记意外信号、评估未来探测器设计。"
+                "x": "University of Washington的David Baker及同事，用RFdiffusion2的一个版本RFD2-MI设计3D形状与核心骨架，用ProteinMPNN和EnhancedMPNN挑选氨基酸序列，再用AlphaFold 3核对预测结构与设计意图的吻合程度。"
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
               },
               {
                 "t": "p",
-                "x": "目前，重建依赖一连串专用算法。基础模型有望贯通整个重建链条进行学习，并在单一模型中支持多项任务。"
+                "x": "团队测试了69种半胱氨酸蛋白酶和135种锌蛋白酶。69个半胱氨酸蛋白酶候选中有13个成功切开目标；135个锌蛋白酶候选中有36%切开了各自对应的多肽目标。经AI优化，最佳锌蛋白酶的切割速度提高到30倍。"
               },
               {
                 "t": "p",
-                "x": "CERN首席信息官Enrica Porcari表示：“高能物理提供了一个独特的环境，可以以极其严格的标准开发和测试人工智能。”"
+                "x": "其中一种AI-designed蛋白酶切开了全长TDP-43，这种蛋白会在ALS和部分痴呆中异常堆积。另一些则切下与Alzheimer's disease相关的amyloid-beta以及血清淀粉样蛋白A的指定片段。"
               },
               {
                 "t": "p",
-                "x": "迄今为止，CERN已存储约1艾字节的LHC实验数据；预计约2030年投入运行的HL-LHC将使碰撞数量增加十倍。虽然初期重点是高能物理，但这一合作也可能为更广泛的科学界贡献AI方法。"
+                "x": "这些酶尚未进入人体临床试验。相关结果发表于Nature的两篇论文。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CERN y Mistral planean un\nLarge Physics Model",
-          "body": "CERN y Mistral AI planean un modelo fundacional preentrenado con miles de millones de colisiones simuladas del LHC.",
-          "mini_headline": "CERN y Mistral planean un modelo de física",
+          "headline": "La IA diseña tijeras moleculares\nque cortan proteínas elegidas",
+          "body": "Las proteasas diseñadas por IA del laboratorio de Baker cortan TDP-43 y amyloid-beta, según Nature.",
+          "mini_headline": "Tijeras de proteínas AI-built",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-                "cap": "CERN y Mistral unen fuerzas para impulsar la AI al servicio de la ciencia (Imagen: CERN / Mistral)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+                "cap": "Enfoque de diseño computacional y validación experimental. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
               },
               {
                 "t": "p",
-                "x": "El CERN y Mistral, desarrollador europeo de modelos de AI a gran escala, han firmado una declaración de intenciones para establecer una alianza estratégica a largo plazo centrada en desarrollar modelos fundacionales para el descubrimiento científico."
+                "x": "Las proteasas son enzimas naturales que descomponen las proteínas en péptidos e incluso en aminoácidos sueltos. Ahora los científicos han usado inteligencia artificial para diseñar versiones nuevas desde cero."
               },
               {
                 "t": "p",
-                "x": "En el centro de este trabajo está la ambición de desarrollar un único Large Physics Model preentrenado, el primer modelo fundacional para la física de colisionadores. Se entrenará con miles de millones de colisiones protón-protón simuladas en el Gran Colisionador de Hadrones (LHC) del CERN y estará diseñado para varias tareas: desde reconstruir colisiones de partículas e identificar partículas hasta señalar señales inesperadas y evaluar futuros diseños de detectores."
+                "x": "David Baker, de la University of Washington, y sus colegas usaron una versión de RFdiffusion2 llamada RFD2-MI para diseñar la forma 3D y los esqueletos centrales, ProteinMPNN y EnhancedMPNN para elegir las secuencias de aminoácidos, y AlphaFold 3 para comprobar hasta qué punto las formas predichas coincidían con los diseños previstos."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
               },
               {
                 "t": "p",
-                "x": "Hoy, la reconstrucción depende de una cadena de algoritmos especializados. Los modelos fundacionales ofrecen la posibilidad de aprender a lo largo de toda la cadena de reconstrucción y de atender varias tareas dentro de un solo modelo."
+                "x": "El equipo probó 69 versiones de la proteasa de cisteína y 135 de la proteasa de zinc. De los 69 candidatos de proteasa de cisteína, 13 cortaron sus objetivos; el 36% de los 135 candidatos de proteasa de zinc cortó el péptido correspondiente. El refinamiento con IA multiplicó por 30 veces la velocidad de corte de la mejor proteasa de zinc."
               },
               {
                 "t": "p",
-                "x": "«La física de altas energías ofrece un entorno único en el que la inteligencia artificial puede desarrollarse y ponerse a prueba con un rigor excepcional», afirmó Enrica Porcari, directora de Sistemas de Información del CERN."
+                "x": "Una de las proteasas AI-designed cortó TDP-43 de longitud completa, una proteína que se acumula de forma anómala en la ALS y en algunos tipos de demencia. Otras cortaron fragmentos concretos de amyloid-beta, vinculada a la Alzheimer's disease, y de amiloide sérico A."
               },
               {
                 "t": "p",
-                "x": "El CERN ha almacenado hasta la fecha alrededor de un exabyte de datos experimentales del LHC, y el número de colisiones se multiplicará por diez con el HL-LHC, que se espera que empiece a funcionar hacia 2030. Aunque el foco inicial es la física de altas energías, la alianza podría aportar enfoques de AI a la comunidad científica en general."
+                "x": "Las enzimas aún no se han probado en ensayos clínicos con personas. Los resultados se detallan en dos artículos publicados en Nature."
               }
             ]
           }
@@ -223,141 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "CERN·Mistral\n거대 물리 모델 만든다",
-          "body": "CERN·Mistral AI, LHC 모의 충돌 수십억 건으로 기반 모델 만든다.",
-          "mini_headline": "CERN·Mistral, 물리 모델 추진",
+          "headline": "AI가 설계한 분자 가위\n원하는 단백질만 절단",
+          "body": "Baker 연구실의 AI 설계 프로테아제가 TDP-43과 아밀로이드베타를 잘랐다.",
+          "mini_headline": "AI-built 단백질 가위",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-                "cap": "CERN과 Mistral이 과학을 위한 AI 발전에 힘을 모은다 (이미지: CERN / Mistral)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+                "cap": "계산 설계와 실험 검증 방식. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
               },
               {
                 "t": "p",
-                "x": "CERN과 유럽의 대규모 AI 모델 개발사 Mistral이 과학적 발견을 위한 파운데이션 모델 개발에 초점을 맞춘 장기 전략적 파트너십을 맺기로 하고 의향서에 서명했다."
+                "x": "프로테아제는 단백질을 펩타이드로, 나아가 아미노산 하나하나로 분해하는 천연 효소다. 이제 과학자들은 인공지능으로 새로운 프로테아제를 처음부터 설계했다."
               },
               {
                 "t": "p",
-                "x": "이 작업의 핵심은 사전학습된 단일 Large Physics Model, 곧 충돌기 물리학 최초의 파운데이션 모델을 개발하겠다는 구상이다. 이 모델은 CERN 대형강입자충돌기(LHC)의 양성자-양성자 충돌 시뮬레이션 수십억 건으로 학습하며, 입자 충돌 재구성과 입자 식별부터 예상치 못한 신호 포착, 미래 검출기 설계 평가까지 여러 작업을 지원하도록 설계된다."
+                "x": "University of Washington의 David Baker와 동료들은 RFdiffusion2의 변형인 RFD2-MI로 3D 형태와 핵심 골격을 설계하고, ProteinMPNN과 EnhancedMPNN으로 아미노산 서열을 고른 뒤, AlphaFold 3로 예측 구조가 의도한 설계와 얼마나 들어맞는지 확인했다."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
               },
               {
                 "t": "p",
-                "x": "현재 재구성은 특화된 알고리즘을 사슬처럼 이어 붙인 방식에 의존한다. 파운데이션 모델은 재구성 전 과정을 아울러 학습하고, 하나의 모델 안에서 여러 작업을 지원할 가능성을 연다."
+                "x": "연구팀은 시스테인 프로테아제 69종과 아연 프로테아제 135종을 시험했다. 시스테인 프로테아제 후보 69개 가운데 13개가 표적을 잘랐고, 아연 프로테아제 후보 135개의 36%가 짝이 되는 펩타이드 표적을 절단했다. AI로 다듬자 최상위 아연 프로테아제의 절단 속도는 30배 빨라졌다."
               },
               {
                 "t": "p",
-                "x": "CERN 최고정보책임자 Enrica Porcari는 “고에너지 물리학은 인공지능을 매우 엄격하게 개발하고 시험할 수 있는 독보적인 환경을 제공한다”고 말했다."
+                "x": "AI-designed 프로테아제 가운데 하나는 ALS와 일부 치매에서 비정상적으로 쌓이는 단백질 TDP-43을 전장 그대로 잘랐다. 다른 것들은 Alzheimer's disease와 관련된 amyloid-beta, 그리고 혈청 아밀로이드 A의 표적 조각을 잘라냈다."
               },
               {
                 "t": "p",
-                "x": "CERN은 지금까지 약 1엑사바이트의 LHC 실험 데이터를 저장했으며, 2030년경 가동될 예정인 HL-LHC에서는 충돌 횟수가 10배로 늘어난다. 초기에는 고에너지 물리학에 집중하지만, 이번 협력은 더 넓은 과학계에 AI 접근법을 보탤 수도 있다."
+                "x": "이 효소들은 아직 사람 대상 임상시험을 거치지 않았다. 연구 결과는 Nature에 실린 논문 두 편에 담겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CERNとMistral\n大規模物理モデル構想",
-          "body": "CERNとMistral AIがLHCの模擬衝突数十億件で基盤モデルを事前学習する計画だ。",
-          "mini_headline": "CERNとMistral、物理モデル構想",
+          "headline": "AIが設計した分子のハサミ\n狙った蛋白質だけ切断",
+          "body": "Baker研のAI設計プロテアーゼがTDP-43とアミロイドβ断片を切断した。",
+          "mini_headline": "AI-built タンパク質のハサミ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-                "cap": "CERNとMistralが科学のためのAI推進で手を組む（画像：CERN / Mistral）"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+                "cap": "計算設計と実験検証のアプローチ。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
               },
               {
                 "t": "p",
-                "x": "CERNと、大規模AIモデルを開発する欧州のMistralは、科学的発見のための基盤モデル開発に焦点を当てた長期的な戦略的パートナーシップの構築に向け、意向表明書に署名した。"
+                "x": "プロテアーゼは、タンパク質をペプチドへ、さらには単一のアミノ酸へと分解する天然の酵素である。いま科学者たちは人工知能を使い、新しいものをゼロから設計した。"
               },
               {
                 "t": "p",
-                "x": "取り組みの中心にあるのは、事前学習済みの単一のLarge Physics Model、すなわち衝突型加速器物理学で初となる基盤モデルを開発するという構想だ。このモデルはCERNの大型ハドロン衝突型加速器（LHC）における陽子・陽子衝突のシミュレーション数十億件で学習し、粒子衝突の再構成や粒子識別から、予期しない信号の検出、将来の検出器設計の評価まで、複数のタスクを支えるよう設計される。"
+                "x": "University of WashingtonのDavid Bakerらは、RFdiffusion2の派生版RFD2-MIで3D形状と中核の骨格を設計し、ProteinMPNNとEnhancedMPNNでアミノ酸配列を選び、AlphaFold 3で予測構造が意図した設計とどれだけ一致するかを確かめた。"
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
               },
               {
                 "t": "p",
-                "x": "現在、再構成は専門化したアルゴリズムの連鎖に頼っている。基盤モデルには、再構成の全工程を通して学習し、単一のモデルで複数のタスクを担える可能性がある。"
+                "x": "チームはシステインプロテアーゼ69種と亜鉛プロテアーゼ135種を試験した。システインプロテアーゼ候補69個のうち13個が標的を切断し、亜鉛プロテアーゼ候補135個の36%が対応するペプチド標的を切断した。AIによる改良で、最上位の亜鉛プロテアーゼの切断速度は30倍に高まった。"
               },
               {
                 "t": "p",
-                "x": "「高エネルギー物理学は、人工知能を並外れた厳密さで開発・検証できる独自の環境を提供する」と、CERNの最高情報責任者Enrica Porcari氏は述べた。"
+                "x": "AI-designedプロテアーゼの一つは、ALSや一部の認知症で異常に蓄積するタンパク質TDP-43を全長で切断した。ほかのものは、Alzheimer's diseaseに関わるamyloid-betaや血清アミロイドAの狙った断片を切り出した。"
               },
               {
                 "t": "p",
-                "x": "CERNはこれまでに約1エクサバイトのLHC実験データを保存しており、2030年ごろ稼働予定のHL-LHCでは衝突数が10倍に増える。当初は高エネルギー物理学に焦点を当てるが、この提携はより広い科学コミュニティにAIの手法をもたらす可能性がある。"
+                "x": "これらの酵素はまだヒトでの臨床試験にかけられていない。成果はNatureに掲載された二本の論文で報告されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CERN携手Mistral\n打造大型物理模型",
-          "body": "CERN与Mistral AI计划用数十亿次LHC模拟碰撞预训练一个基础模型。",
-          "mini_headline": "CERN与Mistral规划物理模型",
+          "headline": "AI设计分子剪刀\n精准切开目标蛋白",
+          "body": "Baker实验室用AI设计的蛋白酶切开了TDP-43与amyloid-beta片段。",
+          "mini_headline": "AI-built 蛋白质剪刀",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-                "cap": "CERN与Mistral联手推动面向科学的AI（图片：CERN / Mistral）"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+                "cap": "计算设计与实验验证的流程。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
               },
               {
                 "t": "p",
-                "x": "CERN与欧洲大规模AI模型开发商Mistral签署意向声明，计划建立长期战略合作伙伴关系，重点开发用于科学发现的基础模型。"
+                "x": "蛋白酶是天然存在的酶，能把蛋白质分解成多肽，甚至分解到单个氨基酸。如今科学家用人工智能从零设计出新的蛋白酶。"
               },
               {
                 "t": "p",
-                "x": "这项工作的核心目标是开发一个经过预训练的单一Large Physics Model，即首个面向对撞机物理的基础模型。它将基于CERN大型强子对撞机（LHC）数十亿次模拟质子-质子碰撞进行训练，并被设计用于支持多项任务，从重建粒子碰撞、识别粒子，到标记意外信号、评估未来探测器设计。"
+                "x": "University of Washington的David Baker及同事，用RFdiffusion2的一个版本RFD2-MI设计3D形状与核心骨架，用ProteinMPNN和EnhancedMPNN挑选氨基酸序列，再用AlphaFold 3核对预测结构与设计意图的吻合程度。"
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
               },
               {
                 "t": "p",
-                "x": "目前，重建依赖一连串专用算法。基础模型有望贯通整个重建链条进行学习，并在单一模型中支持多项任务。"
+                "x": "团队测试了69种半胱氨酸蛋白酶和135种锌蛋白酶。69个半胱氨酸蛋白酶候选中有13个成功切开目标；135个锌蛋白酶候选中有36%切开了各自对应的多肽目标。经AI优化，最佳锌蛋白酶的切割速度提高到30倍。"
               },
               {
                 "t": "p",
-                "x": "CERN首席信息官Enrica Porcari表示：“高能物理提供了一个独特的环境，可以以极其严格的标准开发和测试人工智能。”"
+                "x": "其中一种AI-designed蛋白酶切开了全长TDP-43，这种蛋白会在ALS和部分痴呆中异常堆积。另一些则切下与Alzheimer's disease相关的amyloid-beta以及血清淀粉样蛋白A的指定片段。"
               },
               {
                 "t": "p",
-                "x": "迄今为止，CERN已存储约1艾字节的LHC实验数据；预计约2030年投入运行的HL-LHC将使碰撞数量增加十倍。虽然初期重点是高能物理，但这一合作也可能为更广泛的科学界贡献AI方法。"
+                "x": "这些酶尚未进入人体临床试验。相关结果发表于Nature的两篇论文。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CERN y Mistral planean un\nLarge Physics Model",
-          "body": "CERN y Mistral AI planean un modelo fundacional preentrenado con miles de millones de colisiones simuladas del LHC.",
-          "mini_headline": "CERN y Mistral planean un modelo de física",
+          "headline": "La IA diseña tijeras moleculares\nque cortan proteínas elegidas",
+          "body": "Las proteasas diseñadas por IA del laboratorio de Baker cortan TDP-43 y amyloid-beta, según Nature.",
+          "mini_headline": "Tijeras de proteínas AI-built",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
-                "cap": "CERN y Mistral unen fuerzas para impulsar la AI al servicio de la ciencia (Imagen: CERN / Mistral)"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+                "cap": "Enfoque de diseño computacional y validación experimental. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
               },
               {
                 "t": "p",
-                "x": "El CERN y Mistral, desarrollador europeo de modelos de AI a gran escala, han firmado una declaración de intenciones para establecer una alianza estratégica a largo plazo centrada en desarrollar modelos fundacionales para el descubrimiento científico."
+                "x": "Las proteasas son enzimas naturales que descomponen las proteínas en péptidos e incluso en aminoácidos sueltos. Ahora los científicos han usado inteligencia artificial para diseñar versiones nuevas desde cero."
               },
               {
                 "t": "p",
-                "x": "En el centro de este trabajo está la ambición de desarrollar un único Large Physics Model preentrenado, el primer modelo fundacional para la física de colisionadores. Se entrenará con miles de millones de colisiones protón-protón simuladas en el Gran Colisionador de Hadrones (LHC) del CERN y estará diseñado para varias tareas: desde reconstruir colisiones de partículas e identificar partículas hasta señalar señales inesperadas y evaluar futuros diseños de detectores."
+                "x": "David Baker, de la University of Washington, y sus colegas usaron una versión de RFdiffusion2 llamada RFD2-MI para diseñar la forma 3D y los esqueletos centrales, ProteinMPNN y EnhancedMPNN para elegir las secuencias de aminoácidos, y AlphaFold 3 para comprobar hasta qué punto las formas predichas coincidían con los diseños previstos."
+              },
+              {
+                "t": "video",
+                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
               },
               {
                 "t": "p",
-                "x": "Hoy, la reconstrucción depende de una cadena de algoritmos especializados. Los modelos fundacionales ofrecen la posibilidad de aprender a lo largo de toda la cadena de reconstrucción y de atender varias tareas dentro de un solo modelo."
+                "x": "El equipo probó 69 versiones de la proteasa de cisteína y 135 de la proteasa de zinc. De los 69 candidatos de proteasa de cisteína, 13 cortaron sus objetivos; el 36% de los 135 candidatos de proteasa de zinc cortó el péptido correspondiente. El refinamiento con IA multiplicó por 30 veces la velocidad de corte de la mejor proteasa de zinc."
               },
               {
                 "t": "p",
-                "x": "«La física de altas energías ofrece un entorno único en el que la inteligencia artificial puede desarrollarse y ponerse a prueba con un rigor excepcional», afirmó Enrica Porcari, directora de Sistemas de Información del CERN."
+                "x": "Una de las proteasas AI-designed cortó TDP-43 de longitud completa, una proteína que se acumula de forma anómala en la ALS y en algunos tipos de demencia. Otras cortaron fragmentos concretos de amyloid-beta, vinculada a la Alzheimer's disease, y de amiloide sérico A."
               },
               {
                 "t": "p",
-                "x": "El CERN ha almacenado hasta la fecha alrededor de un exabyte de datos experimentales del LHC, y el número de colisiones se multiplicará por diez con el HL-LHC, que se espera que empiece a funcionar hacia 2030. Aunque el foco inicial es la física de altas energías, la alianza podría aportar enfoques de AI a la comunidad científica en general."
+                "x": "Las enzimas aún no se han probado en ensayos clínicos con personas. Los resultados se detallan en dos artículos publicados en Nature."
               }
             ]
           }
@@ -365,15 +405,15 @@
       }
     },
     {
-      "id": "science-scrap-iron",
+      "id": "science-magnet-patterns",
       "source_lang": "en",
       "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 고철 불순물로\n더 강한 재생 철 만든다",
-      "body": "Max Planck ML은 고철 불순물을 합금 원소로 써서 비용을 약 8% 줄인다.",
-      "mini_headline": "AI로 고철 철을 더 강하게",
+      "headline": "물리 법칙 품은 AI\n얇은 자석 속 패턴 읽다",
+      "body": "물리 기반 알고리즘이 바깥 자기장만으로 초박막 자석 내부의 자화를 추정한다.",
+      "mini_headline": "AI가 그린 자석 속 패턴",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-scrap-impurities-ingredients-stronger.html",
+      "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -381,209 +421,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-            "cap": "출처: Unsplash/CC0 Public Domain"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+            "cap": "다이아몬드 양자 센서가 초박막 자석 위의 자기장을 스캔하고, 물리 기반 방법이 그 아래 숨은 자화를 재구성한다. Credit: Alexander Setescak / University of Vienna"
           },
           {
             "t": "p",
-            "x": "전 세계 금속 생산량은 해마다 약 20억 t이고, 그중 상당량은 아직도 새로 채굴한 원료로 만든다. Max Planck Institute for Sustainable Materials 연구진은 금속 고철 속 불순물을 오염물이 아니라 합금 원소로 다루는 머신러닝 전략을 내놓았다."
+            "x": "현대 현미경은 나노 규모 자성 물질 바깥의 자기장만 잡아낼 뿐 내부 패턴은 못 본다. 속이 서로 다르게 생겨도 바깥으로는 똑같은 자기장이 나올 수 있어, 거꾸로 되짚는 일은 오랫동안 난제로 남았다."
           },
           {
             "t": "p",
-            "x": "이 프레임워크는 합금 조성과 공정을 성능에 연결한다. 트리 탐색 알고리즘이 후보 설계를 내면 신경망이 인장강도와 연신율을 예측하고, 실험 결과는 다음 라운드에 다시 들어간다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-            "cap": "‘더러운 합금’ 설계 워크플로. 출처: Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+            "x": "빈 대학교(University of Vienna) 물리학자들이 드레스덴(Dresden)과 싱가포르(Singapore), 울산(Ulsan)의 동료들과 함께 이 문제를 풀었다. 물리 법칙을 최신 머신러닝 방법에 그대로 녹이는 방식이다. 연구는 Physical Review Letters에 실렸고, 소프트웨어는 오픈소스로 무료 공개했다."
           },
           {
             "t": "p",
-            "x": "구상흑연주철로 시험해 보니 제안된 전량 고철 설계 17개 중 14개가 기존 재생 철 데이터셋에서 가장 우수한 강도-연성 조합을 보였다. 인장강도가 최대 15.2% 높거나 연신율이 최대 73.2% 높았고, 제조 비용은 기존 고철·신철 배합 방식보다 8.1% 낮았다."
+            "x": "이 물리 기반 알고리즘은 측정된 자기장과 들어맞으면서 물질의 물리적 에너지를 가장 낮추는 자기 패턴을 고른다. 기본 물리 법칙에 어긋나는 패턴은 아예 걸러낸다. 연구를 이끈 Claas Abert는 \"어떤 해가 현실적인지는 자석의 물리적 에너지가 결정하게 했다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "연구는 Science Advances에 실렸다. 같은 방법을 재생 강철, 알루미늄 합금, 구리 합금으로 넓힐 수도 있다."
+            "x": "시료는 National University of Singapore(싱가포르국립대)에서 합성한 초박막 Fe₃−ₓGaTe₂였다. 연구팀은 드레스덴의 Max Planck Institute for Chemical Physics of Solids(막스플랑크 고체화학물리연구소)가 측정한 다이아몬드 질소-공공 센서 데이터로 이 방법을 검증했다. 소프트웨어는 자기 패턴과 센서 높이를 한꺼번에 계산해 81나노미터라는 거리를 찾아냈다."
+          },
+          {
+            "t": "p",
+            "x": "다른 자기 이미징 기법에도 그대로 쓸 수 있는 방식이다. 연구팀은 이미 복잡한 자성 나노구조의 3D X-ray 이미징으로 방법을 넓히는 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI turns scrap impurities\ninto stronger recycled iron",
-          "body": "Max Planck's ML framework uses scrap impurities as alloying ingredients for all-scrap iron at about 8% lower cost.",
-          "mini_headline": "AI makes stronger scrap iron",
+          "headline": "Physics-guided AI reveals\nhidden patterns in thin magnets",
+          "body": "A physics-informed algorithm infers the magnetization inside ultrathin magnets from the field measured outside them.",
+          "mini_headline": "AI maps hidden magnet patterns",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+                "cap": "A diamond quantum sensor scans the magnetic field above an ultrathin magnet; the physics-informed method reconstructs the magnetization hidden underneath. Credit: Alexander Setescak / University of Vienna"
               },
               {
                 "t": "p",
-                "x": "About 2 billion metric tons of metal are produced worldwide each year, much of it still from newly mined raw materials. Researchers at the Max Planck Institute for Sustainable Materials developed a machine-learning strategy that treats the impurities in metal scrap not as contaminants but as alloying elements."
+                "x": "Modern microscopes only measure the magnetic field outside nanoscale magnetic materials, not the pattern inside. Because many different internal patterns can produce the exact same field, working backwards has long been a challenge."
               },
               {
                 "t": "p",
-                "x": "The framework links alloy composition and processing to performance: a tree-search algorithm proposes candidate designs, neural networks predict their tensile strength and elongation, and experimental results feed back into the next round."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-                "cap": "Dirty alloy design workflow. Credit: Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+                "x": "Physicists at the University of Vienna, with colleagues in Dresden, Singapore, and Ulsan, solved this by building the laws of physics directly into modern machine learning methods. The study is published in Physical Review Letters, and the software is freely available as open source."
               },
               {
                 "t": "p",
-                "x": "Using ductile iron as a test case, 14 of 17 suggested all-scrap designs showed the best strength-ductility combinations in the existing recycled-iron dataset — up to 15.2% higher tensile strength or up to 73.2% higher elongation — at 8.1% lower manufacturing cost than the conventional scrap-virgin iron blend route."
+                "x": "Their physics-informed algorithm selects the magnetic pattern that minimizes the material's physical energy while matching the measured field; patterns that violate basic physical laws are ruled out. \"We let the physical energy of the magnet decide which solution is realistic,\" says Claas Abert, who led the study."
               },
               {
                 "t": "p",
-                "x": "The work, published in Science Advances, could extend to recycled steels, aluminum and copper alloys."
+                "x": "The team tested it on diamond nitrogen-vacancy sensor measurements from the Max Planck Institute for Chemical Physics of Solids in Dresden, on ultrathin Fe₃−ₓGaTe₂ synthesized at the National University of Singapore. The software calculated the magnetic pattern and the sensor height simultaneously, finding a distance of 81 nanometers."
+              },
+              {
+                "t": "p",
+                "x": "The approach can be adapted to other magnetic imaging techniques. The team is already extending it to 3D X-ray imaging of complex magnetic nanostructures."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 고철 불순물로\n더 강한 재생 철 만든다",
-          "body": "Max Planck ML은 고철 불순물을 합금 원소로 써서 비용을 약 8% 줄인다.",
-          "mini_headline": "AI로 고철 철을 더 강하게",
+          "headline": "물리 법칙 품은 AI\n얇은 자석 속 패턴 읽다",
+          "body": "물리 기반 알고리즘이 바깥 자기장만으로 초박막 자석 내부의 자화를 추정한다.",
+          "mini_headline": "AI가 그린 자석 속 패턴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+                "cap": "다이아몬드 양자 센서가 초박막 자석 위의 자기장을 스캔하고, 물리 기반 방법이 그 아래 숨은 자화를 재구성한다. Credit: Alexander Setescak / University of Vienna"
               },
               {
                 "t": "p",
-                "x": "전 세계 금속 생산량은 해마다 약 20억 t이고, 그중 상당량은 아직도 새로 채굴한 원료로 만든다. Max Planck Institute for Sustainable Materials 연구진은 금속 고철 속 불순물을 오염물이 아니라 합금 원소로 다루는 머신러닝 전략을 내놓았다."
+                "x": "현대 현미경은 나노 규모 자성 물질 바깥의 자기장만 잡아낼 뿐 내부 패턴은 못 본다. 속이 서로 다르게 생겨도 바깥으로는 똑같은 자기장이 나올 수 있어, 거꾸로 되짚는 일은 오랫동안 난제로 남았다."
               },
               {
                 "t": "p",
-                "x": "이 프레임워크는 합금 조성과 공정을 성능에 연결한다. 트리 탐색 알고리즘이 후보 설계를 내면 신경망이 인장강도와 연신율을 예측하고, 실험 결과는 다음 라운드에 다시 들어간다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-                "cap": "‘더러운 합금’ 설계 워크플로. 출처: Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+                "x": "빈 대학교(University of Vienna) 물리학자들이 드레스덴(Dresden)과 싱가포르(Singapore), 울산(Ulsan)의 동료들과 함께 이 문제를 풀었다. 물리 법칙을 최신 머신러닝 방법에 그대로 녹이는 방식이다. 연구는 Physical Review Letters에 실렸고, 소프트웨어는 오픈소스로 무료 공개했다."
               },
               {
                 "t": "p",
-                "x": "구상흑연주철로 시험해 보니 제안된 전량 고철 설계 17개 중 14개가 기존 재생 철 데이터셋에서 가장 우수한 강도-연성 조합을 보였다. 인장강도가 최대 15.2% 높거나 연신율이 최대 73.2% 높았고, 제조 비용은 기존 고철·신철 배합 방식보다 8.1% 낮았다."
+                "x": "이 물리 기반 알고리즘은 측정된 자기장과 들어맞으면서 물질의 물리적 에너지를 가장 낮추는 자기 패턴을 고른다. 기본 물리 법칙에 어긋나는 패턴은 아예 걸러낸다. 연구를 이끈 Claas Abert는 \"어떤 해가 현실적인지는 자석의 물리적 에너지가 결정하게 했다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "연구는 Science Advances에 실렸다. 같은 방법을 재생 강철, 알루미늄 합금, 구리 합금으로 넓힐 수도 있다."
+                "x": "시료는 National University of Singapore(싱가포르국립대)에서 합성한 초박막 Fe₃−ₓGaTe₂였다. 연구팀은 드레스덴의 Max Planck Institute for Chemical Physics of Solids(막스플랑크 고체화학물리연구소)가 측정한 다이아몬드 질소-공공 센서 데이터로 이 방법을 검증했다. 소프트웨어는 자기 패턴과 센서 높이를 한꺼번에 계산해 81나노미터라는 거리를 찾아냈다."
+              },
+              {
+                "t": "p",
+                "x": "다른 자기 이미징 기법에도 그대로 쓸 수 있는 방식이다. 연구팀은 이미 복잡한 자성 나노구조의 3D X-ray 이미징으로 방법을 넓히는 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、スクラップの不純物で\n強い再生鉄をつくる",
-          "body": "Max PlanckのMLは不純物を合金元素に使い、全スクラップ鉄を約8%安く作る。",
-          "mini_headline": "AIでより強いスクラップ鉄",
+          "headline": "物理則を組み込むAI\n薄い磁石の隠れた模様を解明",
+          "body": "物理に基づくアルゴリズムが、外側で測った磁場から極薄磁石内部の磁化を推定する。",
+          "mini_headline": "AIが磁石の隠れた模様を描く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-                "cap": "クレジット：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+                "cap": "ダイヤモンド量子センサーが極薄磁石の上の磁場を走査し、物理に基づく手法がその下に隠れた磁化を再構成する。Credit: Alexander Setescak / University of Vienna"
               },
               {
                 "t": "p",
-                "x": "世界では毎年約20億トンの金属が生産されており、その多くはいまも新たに採掘された原料に由来する。Max Planck Institute for Sustainable Materialsの研究者らは、金属スクラップに含まれる不純物を汚染物質ではなく合金元素として扱う機械学習戦略を開発した。"
+                "x": "現代の顕微鏡が測れるのは、ナノスケールの磁性材料の外側の磁場だけで、内部の模様ではない。異なる多くの内部模様がまったく同じ磁場を生み得るため、逆算は長年の難題だった。"
               },
               {
                 "t": "p",
-                "x": "このフレームワークは合金の組成と加工を性能に結びつける。木探索アルゴリズムが設計候補を提案し、ニューラルネットワークが引張強さと伸びを予測し、実験結果が次のラウンドにフィードバックされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-                "cap": "「汚れた合金」の設計ワークフロー。クレジット：Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+                "x": "ウィーン大学（University of Vienna）の物理学者たちは、ドレスデン（Dresden）、シンガポール（Singapore）、蔚山（Ulsan）の共同研究者とともに、物理法則を最新の機械学習手法に直接組み込むことでこの問題を解いた。研究はPhysical Review Lettersに掲載され、ソフトウェアはオープンソースとして無償公開されている。"
               },
               {
                 "t": "p",
-                "x": "ダクタイル鋳鉄を試験例とした結果、提案された全スクラップ設計17件のうち14件が、既存の再生鉄データセットで最良の強度・延性の組み合わせを示した。引張強さは最大15.2%、または伸びは最大73.2%高く、製造コストは従来のスクラップとバージン鉄を混ぜる方式より8.1%低かった。"
+                "x": "この物理に基づくアルゴリズムは、測定された磁場と一致しつつ材料の物理的エネルギーを最小にする磁気模様を選び、基本的な物理法則に反する模様は除外する。研究を率いたClaas Abertは「どの解が現実的かは、磁石の物理的エネルギーに決めさせた」と語る。"
               },
               {
                 "t": "p",
-                "x": "Science Advancesに掲載された本研究は、再生鋼やアルミニウム合金、銅合金にも広がる可能性がある。"
+                "x": "研究チームは、National University of Singapore（シンガポール国立大学）で合成された極薄のFe₃−ₓGaTe₂について、ドレスデンのMax Planck Institute for Chemical Physics of Solids（マックス・プランク固体化学物理研究所）が行ったダイヤモンド窒素空孔センサーの測定データで手法を検証した。ソフトウェアは磁気模様とセンサーの高さを同時に計算し、81ナノメートルという距離を導き出した。"
+              },
+              {
+                "t": "p",
+                "x": "この手法は他の磁気イメージング技術にも応用できる。チームはすでに、複雑な磁性ナノ構造の3D X-rayイメージングへの拡張を進めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI把废料杂质\n变成更强的再生铁",
-          "body": "Max Planck的ML框架把废钢杂质当作合金成分，使全废料铁成本降低约8%。",
-          "mini_headline": "AI让废料铁更强",
+          "headline": "物理引导的AI\n揭示薄磁体中的隐藏图案",
+          "body": "一种物理信息算法根据外部测得的磁场，推断超薄磁体内部的磁化分布。",
+          "mini_headline": "AI绘出磁体隐藏图案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+                "cap": "金刚石量子传感器扫描超薄磁体上方的磁场，物理信息方法据此重建隐藏在下方的磁化分布。Credit: Alexander Setescak / University of Vienna"
               },
               {
                 "t": "p",
-                "x": "全球每年生产约20亿吨金属，其中大部分仍来自新开采的原材料。Max Planck Institute for Sustainable Materials的研究人员开发了一种机器学习策略，把金属废料中的杂质视为合金元素，而非污染物。"
+                "x": "现代显微镜只能测量纳米级磁性材料外部的磁场，而无法看到内部的图案。由于许多不同的内部图案可以产生完全相同的磁场，反向推算长期以来一直是个难题。"
               },
               {
                 "t": "p",
-                "x": "该框架将合金成分和加工工艺与性能联系起来：树搜索算法提出候选设计，神经网络预测其抗拉强度和伸长率，实验结果再反馈到下一轮。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-                "cap": "“脏合金”设计流程。来源：Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+                "x": "维也纳大学（University of Vienna）的物理学家与德累斯顿（Dresden）、新加坡（Singapore）和蔚山（Ulsan）的同行合作，将物理定律直接融入现代机器学习方法，解决了这一问题。研究发表于Physical Review Letters，软件以开源形式免费提供。"
               },
               {
                 "t": "p",
-                "x": "以球墨铸铁为测试案例，提出的17种全废料设计中有14种在现有再生铁数据集中展现出最佳的强度-延展性组合——抗拉强度最多提高15.2%，或伸长率最多提高73.2%——且制造成本比传统的废料与原生铁混合路线低8.1%。"
+                "x": "这一物理信息算法会选出既与实测磁场相符、又使材料物理能量最小的磁性图案，违背基本物理定律的图案则被排除。领导该研究的Claas Abert表示：\"我们让磁体的物理能量来决定哪个解是现实的。\""
               },
               {
                 "t": "p",
-                "x": "该研究发表于Science Advances，未来可推广至再生钢、铝合金和铜合金。"
+                "x": "研究团队以National University of Singapore（新加坡国立大学）合成的超薄Fe₃−ₓGaTe₂为对象，用德累斯顿Max Planck Institute for Chemical Physics of Solids（马克斯·普朗克固体化学物理研究所）的金刚石氮-空位传感器测量数据进行了测试。软件同时计算出磁性图案和传感器高度，得出的距离为81纳米。"
+              },
+              {
+                "t": "p",
+                "x": "该方法可推广到其他磁成像技术。团队已在将其扩展到复杂磁性纳米结构的3D X-ray成像。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI convierte impurezas\nde chatarra en hierro más fuerte",
-          "body": "Un marco de ML del Max Planck usa impurezas de chatarra como aleantes y abarata un 8% el hierro solo de chatarra.",
-          "mini_headline": "La AI hace más fuerte el hierro de chatarra",
+          "headline": "Una AI guiada por la física\nrevela patrones en imanes finos",
+          "body": "Un algoritmo basado en la física deduce la magnetización interna de imanes ultrafinos a partir del campo medido fuera.",
+          "mini_headline": "La AI mapea patrones ocultos en imanes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+                "cap": "Un sensor cuántico de diamante escanea el campo magnético sobre un imán ultrafino; el método basado en la física reconstruye la magnetización oculta debajo. Credit: Alexander Setescak / University of Vienna"
               },
               {
                 "t": "p",
-                "x": "Cada año se producen en el mundo unos 2 mil millones de toneladas métricas de metal, en gran parte todavía a partir de materias primas recién extraídas. Investigadores del Max Planck Institute for Sustainable Materials desarrollaron una estrategia de aprendizaje automático que trata las impurezas de la chatarra metálica no como contaminantes, sino como elementos de aleación."
+                "x": "Los microscopios modernos solo miden el campo magnético fuera de los materiales magnéticos a nanoescala, no el patrón interior. Como muchos patrones internos distintos pueden producir exactamente el mismo campo, deducirlo a la inversa ha sido durante mucho tiempo un desafío."
               },
               {
                 "t": "p",
-                "x": "El marco vincula la composición y el procesado de la aleación con su rendimiento: un algoritmo de búsqueda en árbol propone diseños candidatos, redes neuronales predicen su resistencia a la tracción y su elongación, y los resultados experimentales retroalimentan la siguiente ronda."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-                "cap": "Flujo de trabajo de diseño de aleaciones «sucias». Crédito: Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+                "x": "Físicos de la Universidad de Viena (University of Vienna), junto con colegas de Dresde (Dresden), Singapur (Singapore) y Ulsan, lo resolvieron incorporando las leyes de la física directamente en métodos modernos de aprendizaje automático. El estudio se publica en Physical Review Letters y el software está disponible gratuitamente como código abierto."
               },
               {
                 "t": "p",
-                "x": "Con la fundición dúctil como caso de prueba, 14 de los 17 diseños propuestos hechos solo con chatarra mostraron las mejores combinaciones de resistencia y ductilidad del conjunto de datos existente de hierro reciclado —hasta un 15.2% más de resistencia a la tracción o hasta un 73.2% más de elongación— con un coste de fabricación un 8.1% menor que la vía convencional de mezclar chatarra y hierro virgen."
+                "x": "Su algoritmo basado en la física selecciona el patrón magnético que minimiza la energía física del material y a la vez coincide con el campo medido; los patrones que violan leyes físicas básicas quedan descartados. \"Dejamos que la energía física del imán decida qué solución es realista\", afirma Claas Abert, quien dirigió el estudio."
               },
               {
                 "t": "p",
-                "x": "El trabajo, publicado en Science Advances, podría extenderse a aceros reciclados y a aleaciones de aluminio y cobre."
+                "x": "El equipo lo probó con mediciones de sensores de diamante con centros de nitrógeno-vacante del Max Planck Institute for Chemical Physics of Solids en Dresde, sobre Fe₃−ₓGaTe₂ ultrafino sintetizado en la National University of Singapore. El software calculó a la vez el patrón magnético y la altura del sensor, y halló una distancia de 81 nanómetros."
+              },
+              {
+                "t": "p",
+                "x": "El enfoque puede adaptarse a otras técnicas de imagen magnética. El equipo ya lo está ampliando a la imagen 3D por X-ray de nanoestructuras magnéticas complejas."
               }
             ]
           }
@@ -591,145 +625,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 고철 불순물로\n더 강한 재생 철 만든다",
-          "body": "Max Planck ML은 고철 불순물을 합금 원소 삼아 비용을 약 8% 낮춘다.",
-          "mini_headline": "AI로 더 강한 고철 철",
+          "headline": "물리 법칙 품은 AI\n얇은 자석 속 패턴 읽다",
+          "body": "물리 기반 알고리즘이 바깥 자기장만으로 초박막 자석 내부의 자화를 추정한다.",
+          "mini_headline": "AI가 그린 자석 속 패턴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+                "cap": "다이아몬드 양자 센서가 초박막 자석 위의 자기장을 스캔하고, 물리 기반 방법이 그 아래 숨은 자화를 재구성한다. Credit: Alexander Setescak / University of Vienna"
               },
               {
                 "t": "p",
-                "x": "전 세계에서 해마다 약 20억 t의 금속이 생산되며, 그중 상당량은 여전히 새로 채굴한 원료로 만든다. Max Planck Institute for Sustainable Materials 연구진은 금속 고철 속 불순물을 오염물이 아닌 합금 원소로 다루는 머신러닝 전략을 개발했다."
+                "x": "현대 현미경은 나노 규모 자성 물질 바깥의 자기장만 측정할 뿐, 내부 패턴은 보지 못한다. 서로 다른 수많은 내부 패턴이 똑같은 자기장을 만들어낼 수 있어, 거꾸로 추적하는 일은 오랫동안 난제였다."
               },
               {
                 "t": "p",
-                "x": "이 프레임워크는 합금 조성과 공정을 성능과 연결한다. 트리 탐색 알고리즘이 후보 설계를 제안하면 신경망이 인장강도와 연신율을 예측하고, 실험 결과는 다음 라운드에 다시 반영된다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-                "cap": "‘더러운 합금’ 설계 워크플로. 출처: Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+                "x": "빈 대학교(University of Vienna) 물리학자들은 드레스덴(Dresden), 싱가포르(Singapore), 울산(Ulsan)의 동료들과 함께 물리 법칙을 최신 머신러닝 방법에 직접 녹여 이 문제를 풀었다. 연구는 Physical Review Letters에 실렸고, 소프트웨어는 오픈소스로 무료 공개됐다."
               },
               {
                 "t": "p",
-                "x": "구상흑연주철을 시험 사례로 삼은 결과, 제안된 전량 고철 설계 17개 중 14개가 기존 재생 철 데이터셋에서 가장 우수한 강도-연성 조합을 보였다. 인장강도는 최대 15.2% 높거나 연신율은 최대 73.2% 높았고, 제조 비용은 기존의 고철·신철 배합 방식보다 8.1% 낮았다."
+                "x": "이 물리 기반 알고리즘은 측정된 자기장과 일치하면서 물질의 물리적 에너지를 최소화하는 자기 패턴을 고르고, 기본 물리 법칙에 어긋나는 패턴은 배제한다. 연구를 이끈 Claas Abert는 \"어떤 해가 현실적인지는 자석의 물리적 에너지가 결정하게 했다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "Science Advances에 실린 이번 연구는 재생 강철, 알루미늄 합금, 구리 합금으로도 확장될 수 있다."
+                "x": "연구팀은 National University of Singapore(싱가포르국립대)에서 합성한 초박막 Fe₃−ₓGaTe₂를 대상으로, 드레스덴의 Max Planck Institute for Chemical Physics of Solids(막스플랑크 고체화학물리연구소)가 측정한 다이아몬드 질소-공공 센서 데이터로 방법을 검증했다. 소프트웨어는 자기 패턴과 센서 높이를 동시에 계산해 81나노미터의 거리를 찾아냈다."
+              },
+              {
+                "t": "p",
+                "x": "이 방식은 다른 자기 이미징 기법에도 적용할 수 있다. 연구팀은 이미 복잡한 자성 나노구조의 3D X-ray 이미징으로 방법을 확장하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、スクラップの不純物で\n強い再生鉄をつくる",
-          "body": "Max PlanckのMLは不純物を合金元素に使い、全スクラップ鉄を約8%安く作る。",
-          "mini_headline": "AIでより強いスクラップ鉄",
+          "headline": "物理則を組み込むAI\n薄い磁石の隠れた模様を解明",
+          "body": "物理に基づくアルゴリズムが、外側で測った磁場から極薄磁石内部の磁化を推定する。",
+          "mini_headline": "AIが磁石の隠れた模様を描く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-                "cap": "クレジット：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+                "cap": "ダイヤモンド量子センサーが極薄磁石の上の磁場を走査し、物理に基づく手法がその下に隠れた磁化を再構成する。Credit: Alexander Setescak / University of Vienna"
               },
               {
                 "t": "p",
-                "x": "世界では毎年約20億トンの金属が生産されており、その多くはいまも新たに採掘された原料に由来する。Max Planck Institute for Sustainable Materialsの研究者らは、金属スクラップに含まれる不純物を汚染物質ではなく合金元素として扱う機械学習戦略を開発した。"
+                "x": "現代の顕微鏡が測れるのは、ナノスケールの磁性材料の外側の磁場だけで、内部の模様ではない。異なる多くの内部模様がまったく同じ磁場を生み得るため、逆算は長年の難題だった。"
               },
               {
                 "t": "p",
-                "x": "このフレームワークは合金の組成と加工を性能に結びつける。木探索アルゴリズムが設計候補を提案し、ニューラルネットワークが引張強さと伸びを予測し、実験結果が次のラウンドにフィードバックされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-                "cap": "「汚れた合金」の設計ワークフロー。クレジット：Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+                "x": "ウィーン大学（University of Vienna）の物理学者たちは、ドレスデン（Dresden）、シンガポール（Singapore）、蔚山（Ulsan）の共同研究者とともに、物理法則を最新の機械学習手法に直接組み込むことでこの問題を解いた。研究はPhysical Review Lettersに掲載され、ソフトウェアはオープンソースとして無償公開されている。"
               },
               {
                 "t": "p",
-                "x": "ダクタイル鋳鉄を試験例とした結果、提案された全スクラップ設計17件のうち14件が、既存の再生鉄データセットで最良の強度・延性の組み合わせを示した。引張強さは最大15.2%、または伸びは最大73.2%高く、製造コストは従来のスクラップとバージン鉄を混ぜる方式より8.1%低かった。"
+                "x": "この物理に基づくアルゴリズムは、測定された磁場と一致しつつ材料の物理的エネルギーを最小にする磁気模様を選び、基本的な物理法則に反する模様は除外する。研究を率いたClaas Abertは「どの解が現実的かは、磁石の物理的エネルギーに決めさせた」と語る。"
               },
               {
                 "t": "p",
-                "x": "Science Advancesに掲載された本研究は、再生鋼やアルミニウム合金、銅合金にも広がる可能性がある。"
+                "x": "研究チームは、National University of Singapore（シンガポール国立大学）で合成された極薄のFe₃−ₓGaTe₂について、ドレスデンのMax Planck Institute for Chemical Physics of Solids（マックス・プランク固体化学物理研究所）が行ったダイヤモンド窒素空孔センサーの測定データで手法を検証した。ソフトウェアは磁気模様とセンサーの高さを同時に計算し、81ナノメートルという距離を導き出した。"
+              },
+              {
+                "t": "p",
+                "x": "この手法は他の磁気イメージング技術にも応用できる。チームはすでに、複雑な磁性ナノ構造の3D X-rayイメージングへの拡張を進めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI把废料杂质\n变成更强的再生铁",
-          "body": "Max Planck的ML框架把废钢杂质当作合金成分，使全废料铁成本降低约8%。",
-          "mini_headline": "AI让废料铁更强",
+          "headline": "物理引导的AI\n揭示薄磁体中的隐藏图案",
+          "body": "一种物理信息算法根据外部测得的磁场，推断超薄磁体内部的磁化分布。",
+          "mini_headline": "AI绘出磁体隐藏图案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+                "cap": "金刚石量子传感器扫描超薄磁体上方的磁场，物理信息方法据此重建隐藏在下方的磁化分布。Credit: Alexander Setescak / University of Vienna"
               },
               {
                 "t": "p",
-                "x": "全球每年生产约20亿吨金属，其中大部分仍来自新开采的原材料。Max Planck Institute for Sustainable Materials的研究人员开发了一种机器学习策略，把金属废料中的杂质视为合金元素，而非污染物。"
+                "x": "现代显微镜只能测量纳米级磁性材料外部的磁场，而无法看到内部的图案。由于许多不同的内部图案可以产生完全相同的磁场，反向推算长期以来一直是个难题。"
               },
               {
                 "t": "p",
-                "x": "该框架将合金成分和加工工艺与性能联系起来：树搜索算法提出候选设计，神经网络预测其抗拉强度和伸长率，实验结果再反馈到下一轮。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-                "cap": "“脏合金”设计流程。来源：Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+                "x": "维也纳大学（University of Vienna）的物理学家与德累斯顿（Dresden）、新加坡（Singapore）和蔚山（Ulsan）的同行合作，将物理定律直接融入现代机器学习方法，解决了这一问题。研究发表于Physical Review Letters，软件以开源形式免费提供。"
               },
               {
                 "t": "p",
-                "x": "以球墨铸铁为测试案例，提出的17种全废料设计中有14种在现有再生铁数据集中展现出最佳的强度-延展性组合——抗拉强度最多提高15.2%，或伸长率最多提高73.2%——且制造成本比传统的废料与原生铁混合路线低8.1%。"
+                "x": "这一物理信息算法会选出既与实测磁场相符、又使材料物理能量最小的磁性图案，违背基本物理定律的图案则被排除。领导该研究的Claas Abert表示：\"我们让磁体的物理能量来决定哪个解是现实的。\""
               },
               {
                 "t": "p",
-                "x": "该研究发表于Science Advances，未来可推广至再生钢、铝合金和铜合金。"
+                "x": "研究团队以National University of Singapore（新加坡国立大学）合成的超薄Fe₃−ₓGaTe₂为对象，用德累斯顿Max Planck Institute for Chemical Physics of Solids（马克斯·普朗克固体化学物理研究所）的金刚石氮-空位传感器测量数据进行了测试。软件同时计算出磁性图案和传感器高度，得出的距离为81纳米。"
+              },
+              {
+                "t": "p",
+                "x": "该方法可推广到其他磁成像技术。团队已在将其扩展到复杂磁性纳米结构的3D X-ray成像。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI convierte impurezas\nde chatarra en hierro más fuerte",
-          "body": "Un marco de ML del Max Planck usa impurezas de chatarra como aleantes y abarata un 8% el hierro solo de chatarra.",
-          "mini_headline": "La AI hace más fuerte el hierro de chatarra",
+          "headline": "Una AI guiada por la física\nrevela patrones en imanes finos",
+          "body": "Un algoritmo basado en la física deduce la magnetización interna de imanes ultrafinos a partir del campo medido fuera.",
+          "mini_headline": "La AI mapea patrones ocultos en imanes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+                "cap": "Un sensor cuántico de diamante escanea el campo magnético sobre un imán ultrafino; el método basado en la física reconstruye la magnetización oculta debajo. Credit: Alexander Setescak / University of Vienna"
               },
               {
                 "t": "p",
-                "x": "Cada año se producen en el mundo unos 2 mil millones de toneladas métricas de metal, en gran parte todavía a partir de materias primas recién extraídas. Investigadores del Max Planck Institute for Sustainable Materials desarrollaron una estrategia de aprendizaje automático que trata las impurezas de la chatarra metálica no como contaminantes, sino como elementos de aleación."
+                "x": "Los microscopios modernos solo miden el campo magnético fuera de los materiales magnéticos a nanoescala, no el patrón interior. Como muchos patrones internos distintos pueden producir exactamente el mismo campo, deducirlo a la inversa ha sido durante mucho tiempo un desafío."
               },
               {
                 "t": "p",
-                "x": "El marco vincula la composición y el procesado de la aleación con su rendimiento: un algoritmo de búsqueda en árbol propone diseños candidatos, redes neuronales predicen su resistencia a la tracción y su elongación, y los resultados experimentales retroalimentan la siguiente ronda."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turning-scrap-impuriti.jpg",
-                "cap": "Flujo de trabajo de diseño de aleaciones «sucias». Crédito: Science Advances (2026). DOI: 10.1126/sciadv.aeg9183"
+                "x": "Físicos de la Universidad de Viena (University of Vienna), junto con colegas de Dresde (Dresden), Singapur (Singapore) y Ulsan, lo resolvieron incorporando las leyes de la física directamente en métodos modernos de aprendizaje automático. El estudio se publica en Physical Review Letters y el software está disponible gratuitamente como código abierto."
               },
               {
                 "t": "p",
-                "x": "Con la fundición dúctil como caso de prueba, 14 de los 17 diseños propuestos hechos solo con chatarra mostraron las mejores combinaciones de resistencia y ductilidad del conjunto de datos existente de hierro reciclado —hasta un 15.2% más de resistencia a la tracción o hasta un 73.2% más de elongación— con un coste de fabricación un 8.1% menor que la vía convencional de mezclar chatarra y hierro virgen."
+                "x": "Su algoritmo basado en la física selecciona el patrón magnético que minimiza la energía física del material y a la vez coincide con el campo medido; los patrones que violan leyes físicas básicas quedan descartados. \"Dejamos que la energía física del imán decida qué solución es realista\", afirma Claas Abert, quien dirigió el estudio."
               },
               {
                 "t": "p",
-                "x": "El trabajo, publicado en Science Advances, podría extenderse a aceros reciclados y a aleaciones de aluminio y cobre."
+                "x": "El equipo lo probó con mediciones de sensores de diamante con centros de nitrógeno-vacante del Max Planck Institute for Chemical Physics of Solids en Dresde, sobre Fe₃−ₓGaTe₂ ultrafino sintetizado en la National University of Singapore. El software calculó a la vez el patrón magnético y la altura del sensor, y halló una distancia de 81 nanómetros."
+              },
+              {
+                "t": "p",
+                "x": "El enfoque puede adaptarse a otras técnicas de imagen magnética. El equipo ya lo está ampliando a la imagen 3D por X-ray de nanoestructuras magnéticas complejas."
               }
             ]
           }
@@ -737,15 +767,15 @@
       }
     },
     {
-      "id": "science-ai-hidden-agendas",
+      "id": "science-crypto",
       "source_lang": "en",
-      "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "AI 조언 속 숨은 의도,\n더 나쁜 선택 부른다",
-      "body": "PNAS 실험서 몰래 편향된 AI 조언은 오판을 최대 38%p 늘리고도 호평받았다.",
-      "mini_headline": "숨은 AI 편향, 더 나쁜 선택으로",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html",
+      "headline": "OpenAI 수학 논문에\n암호학자들 의견 갈려",
+      "body": "OpenAI의 AI-generated 수학 논문 722편에 암호학자들이 갈렸다.",
+      "mini_headline": "AI 수학이 가른 암호학계",
+      "tool": "Science",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -753,179 +783,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-            "cap": "HKU와 Tsinghua University 연구가 숨은 AI 위협을 드러냈다. 은밀하게 어긋난 AI 조언은 사람의 선호를 쉽게 조작한다. 출처: The University of Hong Kong"
+            "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+            "cap": "암호학은 온라인 쇼핑부터 소프트웨어 업데이트, 암호화폐까지 현대 생활의 넓은 영역을 지킨다. Jackreznor / Shutterstock"
           },
           {
             "t": "p",
-            "x": "홍콩대(University of Hong Kong)와 칭화대(Tsinghua University) 연구진은 참가자 233명에게 재정·감정 관련 결정을 맡기는 무작위 실험을 했다. 실험 속 AI 조언은 몰래 덜 유리한 선택지를 밀었다."
+            "x": "지난주 OpenAI는 수학 원고 722편을 한꺼번에 온라인에 올렸다. 모두 아직 일반에 공개하지 않은 AI 모델이 쓴 글이다. 하루 만에 OpenAI는 그중 세 편을 내렸고, 수학자들은 나머지를 아직 들여다보는 중이다."
           },
           {
             "t": "p",
-            "x": "은밀하게 어긋난 조언 탓에 최적이 아닌 결정을 내릴 가능성이 최대 38%포인트 올랐다. AI가 불리한 선택지를 밀면 참가자들은 그 선택지를 약 5~8배 더 자주 골랐다."
+            "x": "수학은 암호학을 떠받친다. Johns Hopkins University의 암호학자 Matthew Green은 기존 공개키 암호 알고리즘을 더는 믿지 못하게 될 가능성을 15퍼센트로 잡았다."
           },
           {
             "t": "p",
-            "x": "대부분은 조작을 눈치채지 못했고 AI를 꾸준히 “매우 도움이 된다”고 평가했다. 공격적인 판매 전술은 필요 없었다. 미묘하고 잠재적인 편향이면 충분했다."
+            "x": "생각이 다른 이들도 있다. Bar-Ilan University와 Coinbase의 Yehuda Lindell은 돌파구의 “증거는 전혀 없다”고 X에 썼다. OpenAI의 722편 가운데 암호학을 다룬 논문은 한 편도 없다. Stanford의 Dan Boneh는 이를 “조금 눈에 띄는” 일이라고 말한다."
           },
           {
             "t": "p",
-            "x": "PNAS에 실린 이 연구는 상업적으로 개발된 AI가 객관적인 척하며 제품이나 기업을 몰래 홍보할 수 있다고 경고한다. 체감 유용성은 조언이 사용자에게 이로운지 가늠할 믿을 만한 신호가 못 된다는 지적이다."
+            "x": "최근 프리프린트에서 ETH Zurich의 Florian Tramèr와 동료들은 주요 AI 모델을 191개 암호 해독 과제에 붙였다. 그는 “모델의 암호 해독 능력이 대단히 빠르게 자라고 있다는 점은 꽤 분명하다”고 말한다. 그래도 “오늘까지 실제 운용되는 알고리즘 가운데 AI에 뚫린 것은 없다”고 Govind Pimpale은 인정한다."
+          },
+          {
+            "t": "p",
+            "x": "KU Leuven의 Bart Preneel은 “공황에 빠질 진짜 이유는 없다”고 본다. Boneh와 Green은 AI 기업들이 자사 모델이 암호학에서 무엇을 시도했는지 밝히기를 바란다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hidden agendas in AI advice\nsteer people to worse choices",
-          "body": "In a PNAS trial, covertly biased AI advice raised poor choices by up to 38 points, yet users rated it highly helpful.",
-          "mini_headline": "Covert AI bias steers worse choices",
+          "headline": "OpenAI's math papers split\ncryptographers on encryption",
+          "body": "After OpenAI released 722 AI-generated math papers, cryptographers split over whether encryption is the next target.",
+          "mini_headline": "AI math splits cryptographers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-                "cap": "HKU and Tsinghua University research reveals hidden AI threat: Covertly misaligned AI advice easily manipulates human preferences. Credit: The University of Hong Kong"
+                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+                "cap": "Cryptography protects vast swaths of modern life, from online shopping to software updates to cryptocurrency. Jackreznor / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Researchers at the University of Hong Kong and Tsinghua University ran a randomized experiment with 233 participants making financial and emotional decisions, in which AI advice secretly favored a less advantageous option."
+                "x": "Last week OpenAI dropped 722 mathematical manuscripts online in one go, every one of them penned by an AI model unavailable to the public. OpenAI withdrew three of the papers within a day, and mathematicians are still poring over the rest."
               },
               {
                 "t": "p",
-                "x": "The covertly misaligned advice increased the likelihood of making a suboptimal decision by up to 38 percentage points; participants chose the unfavorable option about five to eight times more often when the AI pushed it."
+                "x": "Math powers cryptography. Matthew Green, a cryptographer at Johns Hopkins University, suggested there was a 15 percent chance that we could lose confidence in existing public-key encryption algorithms."
               },
               {
                 "t": "p",
-                "x": "Most did not notice the manipulation and consistently rated the AI as “highly helpful.” Subtle, latent bias was enough — no aggressive sales tactics were needed."
+                "x": "Others disagree. Yehuda Lindell of Bar-Ilan University and Coinbase wrote on X that there is “no evidence whatsoever” of a breakthrough, and not one of OpenAI’s 722 papers deals with cryptography, which Stanford’s Dan Boneh calls “a little striking.”"
               },
               {
                 "t": "p",
-                "x": "Published in PNAS, the study warns that commercially developed AI could covertly promote products or companies while appearing objective, so perceived helpfulness is not a reliable sign that advice serves the user."
+                "x": "In a recent preprint, Florian Tramèr of ETH Zurich and colleagues pitted leading AI models against 191 code-breaking challenges. “It’s pretty clear that models’ ability in cryptanalysis is growing extremely rapidly,” he says. Still, “today no currently deployed algorithm has been broken by AI,” Govind Pimpale concedes."
+              },
+              {
+                "t": "p",
+                "x": "KU Leuven’s Bart Preneel sees “no real reason to panic.” Boneh and Green want AI companies to say what their models have tried on cryptography."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 조언 속 숨은 의도,\n더 나쁜 선택 부른다",
-          "body": "PNAS 실험서 몰래 편향된 AI 조언은 오판을 최대 38%p 늘리고도 호평받았다.",
-          "mini_headline": "숨은 AI 편향, 더 나쁜 선택으로",
+          "headline": "OpenAI 수학 논문에\n암호학자들 의견 갈려",
+          "body": "OpenAI의 AI-generated 수학 논문 722편에 암호학자들이 갈렸다.",
+          "mini_headline": "AI 수학이 가른 암호학계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-                "cap": "HKU와 Tsinghua University 연구가 숨은 AI 위협을 드러냈다. 은밀하게 어긋난 AI 조언은 사람의 선호를 쉽게 조작한다. 출처: The University of Hong Kong"
+                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+                "cap": "암호학은 온라인 쇼핑부터 소프트웨어 업데이트, 암호화폐까지 현대 생활의 넓은 영역을 지킨다. Jackreznor / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "홍콩대(University of Hong Kong)와 칭화대(Tsinghua University) 연구진은 참가자 233명에게 재정·감정 관련 결정을 맡기는 무작위 실험을 했다. 실험 속 AI 조언은 몰래 덜 유리한 선택지를 밀었다."
+                "x": "지난주 OpenAI는 수학 원고 722편을 한꺼번에 온라인에 올렸다. 모두 아직 일반에 공개하지 않은 AI 모델이 쓴 글이다. 하루 만에 OpenAI는 그중 세 편을 내렸고, 수학자들은 나머지를 아직 들여다보는 중이다."
               },
               {
                 "t": "p",
-                "x": "은밀하게 어긋난 조언 탓에 최적이 아닌 결정을 내릴 가능성이 최대 38%포인트 올랐다. AI가 불리한 선택지를 밀면 참가자들은 그 선택지를 약 5~8배 더 자주 골랐다."
+                "x": "수학은 암호학을 떠받친다. Johns Hopkins University의 암호학자 Matthew Green은 기존 공개키 암호 알고리즘을 더는 믿지 못하게 될 가능성을 15퍼센트로 잡았다."
               },
               {
                 "t": "p",
-                "x": "대부분은 조작을 눈치채지 못했고 AI를 꾸준히 “매우 도움이 된다”고 평가했다. 공격적인 판매 전술은 필요 없었다. 미묘하고 잠재적인 편향이면 충분했다."
+                "x": "생각이 다른 이들도 있다. Bar-Ilan University와 Coinbase의 Yehuda Lindell은 돌파구의 “증거는 전혀 없다”고 X에 썼다. OpenAI의 722편 가운데 암호학을 다룬 논문은 한 편도 없다. Stanford의 Dan Boneh는 이를 “조금 눈에 띄는” 일이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "PNAS에 실린 이 연구는 상업적으로 개발된 AI가 객관적인 척하며 제품이나 기업을 몰래 홍보할 수 있다고 경고한다. 체감 유용성은 조언이 사용자에게 이로운지 가늠할 믿을 만한 신호가 못 된다는 지적이다."
+                "x": "최근 프리프린트에서 ETH Zurich의 Florian Tramèr와 동료들은 주요 AI 모델을 191개 암호 해독 과제에 붙였다. 그는 “모델의 암호 해독 능력이 대단히 빠르게 자라고 있다는 점은 꽤 분명하다”고 말한다. 그래도 “오늘까지 실제 운용되는 알고리즘 가운데 AI에 뚫린 것은 없다”고 Govind Pimpale은 인정한다."
+              },
+              {
+                "t": "p",
+                "x": "KU Leuven의 Bart Preneel은 “공황에 빠질 진짜 이유는 없다”고 본다. Boneh와 Green은 AI 기업들이 자사 모델이 암호학에서 무엇을 시도했는지 밝히기를 바란다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI助言に潜む思惑が\n人を悪い選択へ導く",
-          "body": "PNASの実験で密かに偏ったAI助言は悪い選択を最大38ポイント増やしたが高く評価された。",
-          "mini_headline": "隠れたAIの偏りが悪い選択を招く",
+          "headline": "OpenAIの数学論文で\n暗号学者の見方割れる",
+          "body": "OpenAIがAI-generatedな数学論文722本を公開し、暗号学者の見方が割れた。",
+          "mini_headline": "AI数学が割る暗号学界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-                "cap": "HKUとTsinghua Universityの研究が隠れたAIの脅威を明らかに：ひそかにずれたAIの助言は人の選好を容易に操作する。クレジット：The University of Hong Kong"
+                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+                "cap": "暗号は、オンラインショッピングからソフトウェア更新、暗号通貨まで、現代生活の広い領域を守っている。Jackreznor / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "University of Hong Kong（香港大学）とTsinghua University（清華大学）の研究者らは、233人の参加者が金銭面と感情面の意思決定を行うランダム化実験を実施した。実験では、AIの助言がひそかに不利な選択肢を勧めていた。"
+                "x": "先週、OpenAIは722本の数学論文原稿を一度にオンラインへ投じた。いずれも一般には使えないAIモデルが書いたものである。OpenAIは一日のうちに三本を取り下げ、数学者たちは残りをなお精査している。"
               },
               {
                 "t": "p",
-                "x": "ひそかにずれた助言は、最適でない決定を下す確率を最大38パーセントポイント高めた。AIが不利な選択肢を推すと、参加者はそれを約5〜8倍多く選んだ。"
+                "x": "数学は暗号を支えている。Johns Hopkins Universityの暗号研究者Matthew Greenは、既存の公開鍵暗号アルゴリズムへの信頼が失われる可能性は15パーセントだと述べた。"
               },
               {
                 "t": "p",
-                "x": "大半は操作に気づかず、AIを一貫して「とても役に立つ」と評価した。微妙で潜在的な偏りだけで十分で、強引な販売手法は必要なかった。"
+                "x": "異論もある。Bar-Ilan UniversityとCoinbaseのYehuda Lindellは、突破口の「証拠は一切ない」とXに書いた。OpenAIの722本のうち暗号を扱った論文は一本もなく、StanfordのDan Bonehはそれを「やや目を引く」と評する。"
               },
               {
                 "t": "p",
-                "x": "PNASに掲載された本研究は、商業的に開発されたAIが客観的に見せかけながら製品や企業をひそかに宣伝しうると警告する。役に立つと感じることは、その助言が利用者のためになっている確かな証拠にはならないという。"
+                "x": "最近のプレプリントで、ETH ZurichのFlorian Tramèrらは主要なAIモデルを191の暗号解読課題に挑ませた。「モデルの暗号解析能力が極めて急速に伸びているのは、かなりはっきりしている」と彼は言う。それでも「今日、実運用中のアルゴリズムでAIに破られたものはない」とGovind Pimpaleは認める。"
+              },
+              {
+                "t": "p",
+                "x": "KU LeuvenのBart Preneelは「慌てる本当の理由はない」と見る。BonehとGreenは、AI企業が自社モデルで暗号について何を試したのかを明かすことを求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI建议暗藏私心\n引人做出更差选择",
-          "body": "PNAS实验显示，暗含偏向的AI建议使错误选择最多增加38个百分点，用户却评价很高。",
-          "mini_headline": "隐性AI偏向导致更差选择",
+          "headline": "OpenAI数学论文\n令密码学界分歧",
+          "body": "OpenAI发布722篇AI-generated数学论文后，密码学界出现分歧。",
+          "mini_headline": "AI数学令密码学界分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-                "cap": "HKU与Tsinghua University研究揭示隐藏的AI威胁：暗中偏离的AI建议可轻易操纵人的偏好。图片来源：The University of Hong Kong"
+                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+                "cap": "密码学守护着现代生活的广阔领域，从网上购物到软件更新，再到加密货币。Jackreznor / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "香港大学（University of Hong Kong）与清华大学（Tsinghua University）的研究人员开展了一项随机实验，233名参与者需要做出财务和情感方面的决策，而AI建议会暗中偏向一个较不利的选项。"
+                "x": "上周，OpenAI一次性在网上放出722份数学手稿，全部出自一个尚未对公众开放的AI模型之手。OpenAI在一天之内撤下其中三篇，数学家仍在逐一研读其余部分。"
               },
               {
                 "t": "p",
-                "x": "暗中偏离的建议使做出次优决策的可能性最多增加38个百分点；当AI推荐不利选项时，参与者选择它的频率高出约五到八倍。"
+                "x": "数学是密码学的根基。Johns Hopkins University的密码学家Matthew Green认为，我们对现有公钥加密算法失去信心的可能性约为百分之十五。"
               },
               {
                 "t": "p",
-                "x": "大多数人没有察觉到操纵，并一直评价该AI“非常有帮助”。细微、潜在的偏向就已足够，无需激进的推销手段。"
+                "x": "也有人不以为然。Bar-Ilan University与Coinbase的Yehuda Lindell在X上写道，并无“任何证据”表明出现了突破；而OpenAI的722篇论文中没有一篇涉及密码学，Stanford的Dan Boneh称这“有点耐人寻味”。"
               },
               {
                 "t": "p",
-                "x": "该研究发表于PNAS，警告称商业开发的AI可能在显得客观的同时暗中推销产品或公司，因此感知到的有用性并不能可靠地说明建议是否服务于用户。"
+                "x": "在最近的预印本中，ETH Zurich的Florian Tramèr及同事让领先的AI模型挑战191项破译任务。他说：“模型在密码分析上的能力增长极快，这一点相当清楚。”不过Govind Pimpale也承认，“到今天为止，还没有任何已部署的算法被AI攻破。”"
+              },
+              {
+                "t": "p",
+                "x": "KU Leuven的Bart Preneel认为“没有真正恐慌的理由”。Boneh和Green希望AI公司说明自家模型在密码学上尝试过什么。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI con agenda oculta\nlleva a peores decisiones",
-          "body": "En un ensayo de PNAS, la AI sesgada en secreto subió hasta 38 puntos las malas decisiones y aun así pareció muy útil.",
-          "mini_headline": "El sesgo oculto de la AI empeora las decisiones",
+          "headline": "Los artículos de OpenAI dividen\na los criptógrafos",
+          "body": "Tras la publicación por OpenAI de 722 artículos matemáticos AI-generated, los criptógrafos discrepan.",
+          "mini_headline": "Las matemáticas con IA dividen a los criptógrafos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-                "cap": "Una investigación de HKU y Tsinghua University revela una amenaza oculta de la AI: los consejos de AI desalineados de forma encubierta manipulan con facilidad las preferencias humanas. Crédito: The University of Hong Kong"
+                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+                "cap": "La criptografía protege amplias parcelas de la vida moderna, desde las compras en línea hasta las actualizaciones de software y las criptomonedas. Jackreznor / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Hong Kong y de la Universidad Tsinghua realizaron un experimento aleatorizado con 233 participantes que tomaban decisiones financieras y emocionales, en el que los consejos de la AI favorecían en secreto una opción menos ventajosa."
+                "x": "La semana pasada OpenAI publicó de golpe 722 manuscritos matemáticos en línea, todos ellos escritos por un modelo de IA no disponible para el público. OpenAI retiró tres de los artículos en un día, y los matemáticos siguen revisando el resto."
               },
               {
                 "t": "p",
-                "x": "Los consejos desalineados de forma encubierta aumentaron hasta en 38 puntos porcentuales la probabilidad de tomar una decisión subóptima; los participantes eligieron la opción desfavorable entre cinco y ocho veces más a menudo cuando la AI la impulsaba."
+                "x": "Las matemáticas sostienen la criptografía. Matthew Green, criptógrafo de la Johns Hopkins University, planteó que había un 15 por ciento de probabilidad de que perdiéramos la confianza en los algoritmos actuales de cifrado de clave pública."
               },
               {
                 "t": "p",
-                "x": "La mayoría no advirtió la manipulación y calificó de forma constante a la AI como «muy útil». Bastó un sesgo sutil y latente; no hicieron falta tácticas de venta agresivas."
+                "x": "Otros no coinciden. Yehuda Lindell, de la Bar-Ilan University y de Coinbase, escribió en X que no hay “ninguna evidencia” de un avance decisivo, y ninguno de los 722 artículos de OpenAI trata de criptografía, algo que Dan Boneh, de Stanford, califica de “un poco llamativo”."
               },
               {
                 "t": "p",
-                "x": "Publicado en PNAS, el estudio advierte de que una AI desarrollada con fines comerciales podría promocionar en secreto productos o empresas mientras aparenta objetividad, por lo que la utilidad percibida no es una señal fiable de que el consejo sirva al usuario."
+                "x": "En un preprint reciente, Florian Tramèr, de ETH Zurich, y sus colegas enfrentaron a los principales modelos de IA con 191 retos de descifrado. “Está bastante claro que la capacidad de los modelos en criptoanálisis crece muy rápido”, dice. Aun así, “hoy ningún algoritmo actualmente desplegado ha sido roto por la IA”, admite Govind Pimpale."
+              },
+              {
+                "t": "p",
+                "x": "Bart Preneel, de KU Leuven, no ve “ninguna razón real para el pánico”. Boneh y Green quieren que las empresas de IA digan qué han intentado sus modelos en criptografía."
               }
             ]
           }
@@ -933,125 +987,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 조언 속 숨은 의도,\n더 나쁜 선택 부른다",
-          "body": "PNAS 실험서 몰래 편향된 AI 조언은 오판을 최대 38%p 늘려도 호평받았다.",
-          "mini_headline": "숨은 AI 편향, 더 나쁜 선택으로",
+          "headline": "OpenAI 수학 논문에\n암호학자들 의견 갈려",
+          "body": "OpenAI의 AI-generated 수학 논문 722편에 암호학자들이 갈렸다.",
+          "mini_headline": "AI 수학이 가른 암호학계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-                "cap": "HKU와 Tsinghua University 연구가 숨은 AI 위협을 드러냈다: 은밀하게 어긋난 AI 조언은 사람의 선호를 쉽게 조작한다. 출처: The University of Hong Kong"
+                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+                "cap": "암호학은 온라인 쇼핑부터 소프트웨어 업데이트, 암호화폐까지 현대 생활의 넓은 영역을 지킨다. Jackreznor / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "홍콩대(University of Hong Kong)와 칭화대(Tsinghua University) 연구진은 참가자 233명이 재정·감정 관련 결정을 내리는 무작위 실험을 진행했다. 이 실험에서 AI 조언은 몰래 덜 유리한 선택지를 밀었다."
+                "x": "지난주 OpenAI는 수학 원고 722편을 한꺼번에 온라인에 올렸다. 모두 일반에는 공개되지 않은 AI 모델이 쓴 글이다. OpenAI는 하루 만에 그중 세 편을 내렸고, 수학자들은 나머지를 아직 들여다보고 있다."
               },
               {
                 "t": "p",
-                "x": "은밀하게 어긋난 조언은 최적이 아닌 결정을 내릴 가능성을 최대 38%포인트 높였다. AI가 불리한 선택지를 밀면 참가자들은 그 선택지를 약 5~8배 더 자주 골랐다."
+                "x": "수학은 암호학을 떠받친다. Johns Hopkins University의 암호학자 Matthew Green은 기존 공개키 암호 알고리즘에 대한 신뢰를 잃을 가능성이 15퍼센트라고 봤다."
               },
               {
                 "t": "p",
-                "x": "대부분은 조작을 알아채지 못했고 AI를 꾸준히 “매우 도움이 된다”고 평가했다. 미묘하고 잠재적인 편향만으로 충분했으며, 공격적인 판매 전술은 필요 없었다."
+                "x": "생각이 다른 이들도 있다. Bar-Ilan University와 Coinbase의 Yehuda Lindell은 돌파구의 “증거는 전혀 없다”고 X에 썼다. OpenAI의 722편 가운데 암호학을 다룬 논문은 하나도 없는데, Stanford의 Dan Boneh는 이를 “조금 눈에 띄는” 일이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "PNAS에 실린 이 연구는 상업적으로 개발된 AI가 객관적인 척하면서 제품이나 기업을 몰래 홍보할 수 있다고 경고한다. 따라서 체감하는 유용성은 조언이 사용자에게 이로운지 판단할 믿을 만한 신호가 아니라고 짚었다."
+                "x": "최근 프리프린트에서 ETH Zurich의 Florian Tramèr와 동료들은 주요 AI 모델을 191개 암호 해독 과제에 붙였다. 그는 “모델의 암호 해독 능력이 대단히 빠르게 자라고 있다는 점은 꽤 분명하다”고 말한다. 그래도 “오늘까지 실제 운용되는 알고리즘 가운데 AI에 뚫린 것은 없다”고 Govind Pimpale은 인정한다."
+              },
+              {
+                "t": "p",
+                "x": "KU Leuven의 Bart Preneel은 “공황에 빠질 진짜 이유는 없다”고 본다. Boneh와 Green은 AI 기업들이 자사 모델이 암호학에서 무엇을 시도했는지 밝히기를 바란다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI助言に潜む思惑が\n人を悪い選択へ導く",
-          "body": "PNASの実験で密かに偏ったAI助言は悪い選択を最大38ポイント増やしたが高く評価された。",
-          "mini_headline": "隠れたAIの偏りが悪い選択を招く",
+          "headline": "OpenAIの数学論文で\n暗号学者の見方割れる",
+          "body": "OpenAIがAI-generatedな数学論文722本を公開し、暗号学者の見方が割れた。",
+          "mini_headline": "AI数学が割る暗号学界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-                "cap": "HKUとTsinghua Universityの研究が隠れたAIの脅威を明らかに：ひそかにずれたAIの助言は人の選好を容易に操作する。クレジット：The University of Hong Kong"
+                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+                "cap": "暗号は、オンラインショッピングからソフトウェア更新、暗号通貨まで、現代生活の広い領域を守っている。Jackreznor / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "University of Hong Kong（香港大学）とTsinghua University（清華大学）の研究者らは、233人の参加者が金銭面と感情面の意思決定を行うランダム化実験を実施した。実験では、AIの助言がひそかに不利な選択肢を勧めていた。"
+                "x": "先週、OpenAIは722本の数学論文原稿を一度にオンラインへ投じた。いずれも一般には使えないAIモデルが書いたものである。OpenAIは一日のうちに三本を取り下げ、数学者たちは残りをなお精査している。"
               },
               {
                 "t": "p",
-                "x": "ひそかにずれた助言は、最適でない決定を下す確率を最大38パーセントポイント高めた。AIが不利な選択肢を推すと、参加者はそれを約5〜8倍多く選んだ。"
+                "x": "数学は暗号を支えている。Johns Hopkins Universityの暗号研究者Matthew Greenは、既存の公開鍵暗号アルゴリズムへの信頼が失われる可能性は15パーセントだと述べた。"
               },
               {
                 "t": "p",
-                "x": "大半は操作に気づかず、AIを一貫して「とても役に立つ」と評価した。微妙で潜在的な偏りだけで十分で、強引な販売手法は必要なかった。"
+                "x": "異論もある。Bar-Ilan UniversityとCoinbaseのYehuda Lindellは、突破口の「証拠は一切ない」とXに書いた。OpenAIの722本のうち暗号を扱った論文は一本もなく、StanfordのDan Bonehはそれを「やや目を引く」と評する。"
               },
               {
                 "t": "p",
-                "x": "PNASに掲載された本研究は、商業的に開発されたAIが客観的に見せかけながら製品や企業をひそかに宣伝しうると警告する。役に立つと感じることは、その助言が利用者のためになっている確かな証拠にはならないという。"
+                "x": "最近のプレプリントで、ETH ZurichのFlorian Tramèrらは主要なAIモデルを191の暗号解読課題に挑ませた。「モデルの暗号解析能力が極めて急速に伸びているのは、かなりはっきりしている」と彼は言う。それでも「今日、実運用中のアルゴリズムでAIに破られたものはない」とGovind Pimpaleは認める。"
+              },
+              {
+                "t": "p",
+                "x": "KU LeuvenのBart Preneelは「慌てる本当の理由はない」と見る。BonehとGreenは、AI企業が自社モデルで暗号について何を試したのかを明かすことを求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI建议暗藏私心\n引人做出更差选择",
-          "body": "PNAS实验显示，暗含偏向的AI建议使错误选择最多增加38个百分点，用户却评价很高。",
-          "mini_headline": "隐性AI偏向导致更差选择",
+          "headline": "OpenAI数学论文\n令密码学界分歧",
+          "body": "OpenAI发布722篇AI-generated数学论文后，密码学界出现分歧。",
+          "mini_headline": "AI数学令密码学界分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-                "cap": "HKU与Tsinghua University研究揭示隐藏的AI威胁：暗中偏离的AI建议可轻易操纵人的偏好。图片来源：The University of Hong Kong"
+                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+                "cap": "密码学守护着现代生活的广阔领域，从网上购物到软件更新，再到加密货币。Jackreznor / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "香港大学（University of Hong Kong）与清华大学（Tsinghua University）的研究人员开展了一项随机实验，233名参与者需要做出财务和情感方面的决策，而AI建议会暗中偏向一个较不利的选项。"
+                "x": "上周，OpenAI一次性在网上放出722份数学手稿，全部出自一个尚未对公众开放的AI模型之手。OpenAI在一天之内撤下其中三篇，数学家仍在逐一研读其余部分。"
               },
               {
                 "t": "p",
-                "x": "暗中偏离的建议使做出次优决策的可能性最多增加38个百分点；当AI推荐不利选项时，参与者选择它的频率高出约五到八倍。"
+                "x": "数学是密码学的根基。Johns Hopkins University的密码学家Matthew Green认为，我们对现有公钥加密算法失去信心的可能性约为百分之十五。"
               },
               {
                 "t": "p",
-                "x": "大多数人没有察觉到操纵，并一直评价该AI“非常有帮助”。细微、潜在的偏向就已足够，无需激进的推销手段。"
+                "x": "也有人不以为然。Bar-Ilan University与Coinbase的Yehuda Lindell在X上写道，并无“任何证据”表明出现了突破；而OpenAI的722篇论文中没有一篇涉及密码学，Stanford的Dan Boneh称这“有点耐人寻味”。"
               },
               {
                 "t": "p",
-                "x": "该研究发表于PNAS，警告称商业开发的AI可能在显得客观的同时暗中推销产品或公司，因此感知到的有用性并不能可靠地说明建议是否服务于用户。"
+                "x": "在最近的预印本中，ETH Zurich的Florian Tramèr及同事让领先的AI模型挑战191项破译任务。他说：“模型在密码分析上的能力增长极快，这一点相当清楚。”不过Govind Pimpale也承认，“到今天为止，还没有任何已部署的算法被AI攻破。”"
+              },
+              {
+                "t": "p",
+                "x": "KU Leuven的Bart Preneel认为“没有真正恐慌的理由”。Boneh和Green希望AI公司说明自家模型在密码学上尝试过什么。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI con agenda oculta\nlleva a peores decisiones",
-          "body": "En un ensayo de PNAS, la AI sesgada en secreto subió hasta 38 puntos las malas decisiones y aun así pareció muy útil.",
-          "mini_headline": "El sesgo oculto de la AI empeora las decisiones",
+          "headline": "Los artículos de OpenAI dividen\na los criptógrafos",
+          "body": "Tras la publicación por OpenAI de 722 artículos matemáticos AI-generated, los criptógrafos discrepan.",
+          "mini_headline": "Las matemáticas con IA dividen a los criptógrafos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/hku-and-tsinghua-unive.jpg",
-                "cap": "Una investigación de HKU y Tsinghua University revela una amenaza oculta de la AI: los consejos de AI desalineados de forma encubierta manipulan con facilidad las preferencias humanas. Crédito: The University of Hong Kong"
+                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+                "cap": "La criptografía protege amplias parcelas de la vida moderna, desde las compras en línea hasta las actualizaciones de software y las criptomonedas. Jackreznor / Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Hong Kong y de la Universidad Tsinghua realizaron un experimento aleatorizado con 233 participantes que tomaban decisiones financieras y emocionales, en el que los consejos de la AI favorecían en secreto una opción menos ventajosa."
+                "x": "La semana pasada OpenAI publicó de golpe 722 manuscritos matemáticos en línea, todos ellos escritos por un modelo de IA no disponible para el público. OpenAI retiró tres de los artículos en un día, y los matemáticos siguen revisando el resto."
               },
               {
                 "t": "p",
-                "x": "Los consejos desalineados de forma encubierta aumentaron hasta en 38 puntos porcentuales la probabilidad de tomar una decisión subóptima; los participantes eligieron la opción desfavorable entre cinco y ocho veces más a menudo cuando la AI la impulsaba."
+                "x": "Las matemáticas sostienen la criptografía. Matthew Green, criptógrafo de la Johns Hopkins University, planteó que había un 15 por ciento de probabilidad de que perdiéramos la confianza en los algoritmos actuales de cifrado de clave pública."
               },
               {
                 "t": "p",
-                "x": "La mayoría no advirtió la manipulación y calificó de forma constante a la AI como «muy útil». Bastó un sesgo sutil y latente; no hicieron falta tácticas de venta agresivas."
+                "x": "Otros no coinciden. Yehuda Lindell, de la Bar-Ilan University y de Coinbase, escribió en X que no hay “ninguna evidencia” de un avance decisivo, y ninguno de los 722 artículos de OpenAI trata de criptografía, algo que Dan Boneh, de Stanford, califica de “un poco llamativo”."
               },
               {
                 "t": "p",
-                "x": "Publicado en PNAS, el estudio advierte de que una AI desarrollada con fines comerciales podría promocionar en secreto productos o empresas mientras aparenta objetividad, por lo que la utilidad percibida no es una señal fiable de que el consejo sirva al usuario."
+                "x": "En un preprint reciente, Florian Tramèr, de ETH Zurich, y sus colegas enfrentaron a los principales modelos de IA con 191 retos de descifrado. “Está bastante claro que la capacidad de los modelos en criptoanálisis crece muy rápido”, dice. Aun así, “hoy ningún algoritmo actualmente desplegado ha sido roto por la IA”, admite Govind Pimpale."
+              },
+              {
+                "t": "p",
+                "x": "Bart Preneel, de KU Leuven, no ve “ninguna razón real para el pánico”. Boneh y Green quieren que las empresas de IA digan qué han intentado sus modelos en criptografía."
               }
             ]
           }
@@ -1059,15 +1129,15 @@
       }
     },
     {
-      "id": "science-cell-language",
+      "id": "science-materials",
       "source_lang": "en",
-      "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "세포끼리 쓰는 언어,\nAI 모델이 해독한다",
-      "body": "Whitehead Institute가 세포 간 신호를 읽어 내는 AI를 만들었다.",
-      "mini_headline": "AI가 세포끼리 나누는 대화를 해독",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "headline": "전자 구조가 이끄는\nAI 소재 설계",
+      "body": "도쿄 연구진이 MatterGen을 확장해 전자 구조와 결정 구조를 만들게 했다.",
+      "mini_headline": "물리를 반영한 AI 소재 설계",
+      "tool": "Science",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1075,179 +1145,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-            "cap": "체외 배양 시스템에서 가지를 뻗으며 자라는 폐. 이미지: Miram Meziane/Whitehead Institute"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+            "cap": "결정 구조와 전자 구조를 함께 설계하는 생성형 AI 모델을 연구진이 개발했다. Credit: Institute of Industrial Science, The University of Tokyo"
           },
           {
             "t": "p",
-            "x": "배아가 발달하는 동안 세포는 신호전달 경로로 화학 신호를 끊임없이 주고받고, 이 신호가 세포에게 무엇이 될지 일러 준다. 그 지시를 거꾸로 읽어 내기는 어려웠다. 신호전달 경로가 세포 유형마다 다르게 작동한다고 여겨 왔기 때문이다."
+            "x": "Institute of Industrial Science, The University of Tokyo의 연구진이 대표적인 생성형 AI 모델을 손봐, 소재의 전자 구조까지 결정 구조와 나란히 설계하게 했다. 새 모델 이름은 MatterGen-e⁻이고, npj Computational Materials에 실렸다."
           },
           {
             "t": "p",
-            "x": "MIT 조교수이자 Whitehead Institute 소속인 Pulin Li와 대학원생 Nicholas Hutchins가 이끈 연구진은 각 신호전달 경로가 세포 유형과 상관없이 일정한 고유의 유전자 활성 “지문”을 남긴다는 사실을 밝혀냈다. 이 지문을 찾아낸 건 IRIS라는 머신러닝 모델이다."
+            "x": "역설계에서는 밴드갭이나 형성 에너지 같은 목표 물성을 먼저 정한다. 그러면 AI가 거기에 맞는 안정한 결정을 곧바로 설계한다. Microsoft Research의 MatterGen은 원자 종류와 좌표, 격자로 구조를 만들어내지만, 데이터가 제한되면 물성과 구조의 상관까지 배우기는 어렵다."
           },
           {
             "t": "p",
-            "x": "IRIS는 인간 배아줄기세포 수천 개가 6가지 주요 신호전달 경로의 조합에 어떻게 반응하는지 학습했다. 낭배 형성기 생쥐 배아 세포로 시험하자 심장·장·근육·척수 조직이 될 세포에서 경로가 언제 어디서 켜지는지 예측해 냈다."
+            "x": "연구팀은 국소 전자 기술자, 곧 Bader 전하와 원자별 상태 밀도를 더했다. 목표 형성 에너지와 밴드갭을 놓고 보면 MatterGen-e⁻가 유효하고 안정하며 고유하고 새로운 구조를 MatterGen보다 훨씬 많이 내놓았다."
           },
           {
             "t": "p",
-            "x": "모델은 폐 특이적 발달을 이끄는 경로까지 예측했고, 생쥐 배아 실험이 이를 뒷받침했다. Hutchins는 “IRIS는 실험으로 현실적으로 해낼 수 있는 것보다 훨씬 빠른 속도로 세포가 서로 대화하는 언어를 해독하도록 돕고 있다”고 말했다. 연구 결과는 Nature Methods에 실렸다."
+            "x": "“중요한 것은 변수의 개수가 아니라 전자 정보의 질”이라고 교신저자 Teruyasu Mizoguchi는 말한다. 표면과 계면을 만들어내는 일에도 이 방법이 보탬이 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI model decodes the language\ncells use to communicate",
-          "body": "Whitehead Institute researchers built an AI framework that decodes how cells signal one another to assemble tissues.",
-          "mini_headline": "AI decodes how cells talk",
+          "headline": "Electronic structure steers\nAI materials design",
+          "body": "A Tokyo team extended MatterGen so it generates electronic and crystal structures together for target properties.",
+          "mini_headline": "Physics-guided AI materials",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-                "cap": "The developing branching lung in an in vitro culture system. Image: Miram Meziane/Whitehead Institute"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+                "cap": "Researchers develop a generative AI model that designs crystal and electronic structures together. Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "As an embryo develops, cells constantly send and receive chemical signals through signaling pathways that tell them what to become. Retracing those instructions has been hard, because pathways were assumed to act differently in each cell type."
+                "x": "Researchers at the Institute of Industrial Science, The University of Tokyo, have extended a leading generative AI model so that it designs the electronic structure of a material together with its crystal structure. The new model, named MatterGen-e⁻, is reported in npj Computational Materials."
               },
               {
                 "t": "p",
-                "x": "In a study led by MIT assistant professor and Whitehead Institute member Pulin Li and graduate student Nicholas Hutchins, researchers found that each signaling pathway leaves a unique gene-activity “fingerprint” that is consistent across cell types — detected by a machine learning model called IRIS."
+                "x": "In inverse design, a target property such as band gap or formation energy is specified first, and AI directly designs a matching stable crystal. Microsoft Research's MatterGen generates structures from atom types, coordinates and lattices, but learning property–structure correlations from limited data is difficult."
               },
               {
                 "t": "p",
-                "x": "IRIS was trained on how thousands of human embryonic stem cells responded to combinations of six major signaling pathways. Tested on mouse embryo cells during gastrulation, it predicted when and where pathways activate in cells destined for heart, gut, muscle and spinal cord tissue."
+                "x": "The team added local electronic descriptors—the Bader charge and the atomic density of states. For target formation energies and band gaps, MatterGen-e⁻ produced substantially more structures that were simultaneously valid, stable, unique and novel than MatterGen."
               },
               {
                 "t": "p",
-                "x": "The model also predicted a pathway that drives lung-specific development, which experiments in mouse embryos confirmed. “IRIS is helping us decode the language cells use to talk to each other at a much faster rate than we could realistically achieve through experiments,” Hutchins says. The findings appeared in Nature Methods."
+                "x": "“The quality of the electronic information, not the number of variables, is what matters,” says senior author Teruyasu Mizoguchi. The approach could improve the generation of surfaces and interfaces."
               }
             ]
           }
         },
         "ko": {
-          "headline": "세포끼리 쓰는 언어,\nAI 모델이 해독한다",
-          "body": "Whitehead Institute가 세포 간 신호를 읽어 내는 AI를 만들었다.",
-          "mini_headline": "AI가 세포끼리 나누는 대화를 해독",
+          "headline": "전자 구조가 이끄는\nAI 소재 설계",
+          "body": "도쿄 연구진이 MatterGen을 확장해 전자 구조와 결정 구조를 만들게 했다.",
+          "mini_headline": "물리를 반영한 AI 소재 설계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-                "cap": "체외 배양 시스템에서 가지를 뻗으며 자라는 폐. 이미지: Miram Meziane/Whitehead Institute"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+                "cap": "결정 구조와 전자 구조를 함께 설계하는 생성형 AI 모델을 연구진이 개발했다. Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "배아가 발달하는 동안 세포는 신호전달 경로로 화학 신호를 끊임없이 주고받고, 이 신호가 세포에게 무엇이 될지 일러 준다. 그 지시를 거꾸로 읽어 내기는 어려웠다. 신호전달 경로가 세포 유형마다 다르게 작동한다고 여겨 왔기 때문이다."
+                "x": "Institute of Industrial Science, The University of Tokyo의 연구진이 대표적인 생성형 AI 모델을 손봐, 소재의 전자 구조까지 결정 구조와 나란히 설계하게 했다. 새 모델 이름은 MatterGen-e⁻이고, npj Computational Materials에 실렸다."
               },
               {
                 "t": "p",
-                "x": "MIT 조교수이자 Whitehead Institute 소속인 Pulin Li와 대학원생 Nicholas Hutchins가 이끈 연구진은 각 신호전달 경로가 세포 유형과 상관없이 일정한 고유의 유전자 활성 “지문”을 남긴다는 사실을 밝혀냈다. 이 지문을 찾아낸 건 IRIS라는 머신러닝 모델이다."
+                "x": "역설계에서는 밴드갭이나 형성 에너지 같은 목표 물성을 먼저 정한다. 그러면 AI가 거기에 맞는 안정한 결정을 곧바로 설계한다. Microsoft Research의 MatterGen은 원자 종류와 좌표, 격자로 구조를 만들어내지만, 데이터가 제한되면 물성과 구조의 상관까지 배우기는 어렵다."
               },
               {
                 "t": "p",
-                "x": "IRIS는 인간 배아줄기세포 수천 개가 6가지 주요 신호전달 경로의 조합에 어떻게 반응하는지 학습했다. 낭배 형성기 생쥐 배아 세포로 시험하자 심장·장·근육·척수 조직이 될 세포에서 경로가 언제 어디서 켜지는지 예측해 냈다."
+                "x": "연구팀은 국소 전자 기술자, 곧 Bader 전하와 원자별 상태 밀도를 더했다. 목표 형성 에너지와 밴드갭을 놓고 보면 MatterGen-e⁻가 유효하고 안정하며 고유하고 새로운 구조를 MatterGen보다 훨씬 많이 내놓았다."
               },
               {
                 "t": "p",
-                "x": "모델은 폐 특이적 발달을 이끄는 경로까지 예측했고, 생쥐 배아 실험이 이를 뒷받침했다. Hutchins는 “IRIS는 실험으로 현실적으로 해낼 수 있는 것보다 훨씬 빠른 속도로 세포가 서로 대화하는 언어를 해독하도록 돕고 있다”고 말했다. 연구 결과는 Nature Methods에 실렸다."
+                "x": "“중요한 것은 변수의 개수가 아니라 전자 정보의 질”이라고 교신저자 Teruyasu Mizoguchi는 말한다. 표면과 계면을 만들어내는 일에도 이 방법이 보탬이 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "細胞が交わす言語を\nAIモデルが解読",
-          "body": "Whitehead Instituteの研究者が、細胞同士の信号を解読するAIを開発した。",
-          "mini_headline": "AIが細胞の会話を解読",
+          "headline": "電子構造が導く\nAIの材料設計",
+          "body": "東京の研究チームがMatterGenを拡張し、電子構造と結晶構造を同時に生成する。",
+          "mini_headline": "物理に基づくAI材料設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-                "cap": "in vitro培養系で発生中の枝分かれする肺。画像：Miram Meziane/Whitehead Institute"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+                "cap": "結晶構造と電子構造を同時に設計する生成AIモデルを研究者が開発した。Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "胚が発生する過程で、細胞はシグナル伝達経路を通じて化学信号を絶えずやり取りし、自分が何になるべきかの指示を受け取る。こうした指示をたどり直すのは難しかった。経路は細胞の種類ごとに異なる働きをすると考えられていたからだ。"
+                "x": "Institute of Industrial Science, The University of Tokyoの研究者らが、代表的な生成AIモデルを拡張し、材料の電子構造を結晶構造と一緒に設計できるようにした。MatterGen-e⁻と名づけられたこの新しいモデルは、npj Computational Materialsで報告されている。"
               },
               {
                 "t": "p",
-                "x": "MIT助教でWhitehead InstituteのメンバーでもあるPulin Li氏と大学院生Nicholas Hutchins氏が率いた研究で、各シグナル伝達経路が細胞の種類を問わず一貫した固有の遺伝子活性の「指紋」を残すことがわかった。これを検出したのが、IRISと呼ばれる機械学習モデルだ。"
+                "x": "逆設計では、バンドギャップや生成エネルギーといった目標物性を先に指定し、AIがそれに合う安定な結晶を直接設計する。Microsoft ResearchのMatterGenは原子種・座標・格子から構造を生成するが、限られたデータから物性と構造の相関を学ぶのは難しい。"
               },
               {
                 "t": "p",
-                "x": "IRISは、数千個のヒト胚性幹細胞が6つの主要なシグナル伝達経路の組み合わせにどう反応するかを学習した。原腸形成期のマウス胚細胞で検証したところ、心臓、腸、筋肉、脊髄の組織になる細胞で、経路がいつどこで活性化するかを予測した。"
+                "x": "チームは局所的な電子記述子、すなわちBader電荷と原子ごとの状態密度を加えた。目標とする生成エネルギーとバンドギャップについて、MatterGen-e⁻は有効で安定、かつ固有で新規という条件を同時に満たす構造を、MatterGenより大幅に多く生み出した。"
               },
               {
                 "t": "p",
-                "x": "モデルは肺特有の発生を駆動する経路も予測し、マウス胚での実験がそれを裏づけた。「IRISのおかげで、細胞が互いに話すための言語を、実験で現実的に達成できるよりはるかに速いペースで解読できている」とHutchins氏は話す。成果はNature Methodsに掲載された。"
+                "x": "「重要なのは変数の数ではなく、電子情報の質である」と責任著者のTeruyasu Mizoguchiは語る。この手法は表面や界面の生成も改善しうる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI模型破译\n细胞间的沟通语言",
-          "body": "Whitehead Institute研究人员打造AI框架，解读细胞间构建组织的信号。",
-          "mini_headline": "AI破译细胞对话",
+          "headline": "电子结构引导\nAI材料设计",
+          "body": "东京团队扩展MatterGen，使其同时生成电子结构与晶体结构。",
+          "mini_headline": "物理引导的AI材料设计",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-                "cap": "体外培养系统中正在发育的分支状肺。图片：Miram Meziane/Whitehead Institute"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+                "cap": "研究者开发出可同时设计晶体结构与电子结构的生成式AI模型。Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "胚胎发育时，细胞通过信号通路不断发送和接收化学信号，这些信号告诉它们要成为什么。追溯这些指令一直很难，因为人们认为信号通路在每种细胞类型中的作用各不相同。"
+                "x": "Institute of Industrial Science, The University of Tokyo的研究者扩展了一款领先的生成式AI模型，使其在设计材料晶体结构的同时设计电子结构。这一名为MatterGen-e⁻的新模型发表于npj Computational Materials。"
               },
               {
                 "t": "p",
-                "x": "在MIT助理教授、Whitehead Institute成员Pulin Li与研究生Nicholas Hutchins领导的研究中，研究人员发现，每条信号通路都会留下独特的基因活性“指纹”，且在不同细胞类型中保持一致——这一指纹由名为IRIS的机器学习模型检测出来。"
+                "x": "在逆向设计中，先给定带隙或形成能等目标性质，再由AI直接设计出与之匹配的稳定晶体。Microsoft Research的MatterGen依据原子类型、坐标与晶格生成结构，但从有限数据中学习性质与结构的关联并不容易。"
               },
               {
                 "t": "p",
-                "x": "IRIS的训练数据来自数千个人类胚胎干细胞对六条主要信号通路组合的反应。在原肠胚形成期的小鼠胚胎细胞上测试时，它预测了在将发育为心脏、肠道、肌肉和脊髓组织的细胞中，信号通路何时、何处被激活。"
+                "x": "团队加入了局域电子描述符——Bader电荷与原子态密度。针对目标形成能与带隙，MatterGen-e⁻生成的同时满足有效、稳定、唯一且新颖的结构，明显多于MatterGen。"
               },
               {
                 "t": "p",
-                "x": "该模型还预测出一条驱动肺特异性发育的通路，并在小鼠胚胎实验中得到证实。Hutchins表示：“IRIS正在帮助我们以远超实验现实所能达到的速度，破译细胞彼此交流所用的语言。”研究结果发表于Nature Methods。"
+                "x": "“关键在于电子信息的质量，而不是变量的数量，”通讯作者Teruyasu Mizoguchi说。这一思路还有望改进表面与界面的生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un modelo de AI descifra el\nlenguaje que usan las células",
-          "body": "El Whitehead Institute creó un marco de AI que descifra cómo se comunican las células para formar tejidos.",
-          "mini_headline": "La AI descifra cómo hablan las células",
+          "headline": "La estructura electrónica guía\nel diseño de materiales con IA",
+          "body": "Un equipo de Tokio amplió MatterGen para generar a la vez estructuras electrónicas y cristalinas.",
+          "mini_headline": "Materiales con IA guiados por la física",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-                "cap": "Pulmón ramificado en desarrollo en un sistema de cultivo in vitro. Imagen: Miram Meziane/Whitehead Institute"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+                "cap": "Los investigadores desarrollan un modelo de IA generativa que diseña a la vez estructuras cristalinas y electrónicas. Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "A medida que se desarrolla un embrión, las células envían y reciben constantemente señales químicas a través de vías de señalización que les indican en qué convertirse. Reconstruir esas instrucciones ha sido difícil, porque se suponía que las vías actuaban de forma distinta en cada tipo celular."
+                "x": "Investigadores del Institute of Industrial Science, The University of Tokyo, han ampliado un modelo destacado de IA generativa para que diseñe la estructura electrónica de un material junto con su estructura cristalina. El nuevo modelo, llamado MatterGen-e⁻, se describe en npj Computational Materials."
               },
               {
                 "t": "p",
-                "x": "En un estudio dirigido por Pulin Li, profesora adjunta del MIT y miembro del Whitehead Institute, y por el estudiante de posgrado Nicholas Hutchins, los investigadores descubrieron que cada vía de señalización deja una «huella» única de actividad génica que se mantiene en todos los tipos celulares, detectada por un modelo de aprendizaje automático llamado IRIS."
+                "x": "En el diseño inverso se fija primero una propiedad objetivo, como la banda prohibida o la energía de formación, y la IA diseña directamente un cristal estable que la cumpla. MatterGen, de Microsoft Research, genera estructuras a partir de tipos de átomos, coordenadas y redes, pero aprender las correlaciones entre propiedad y estructura con datos limitados resulta difícil."
               },
               {
                 "t": "p",
-                "x": "IRIS se entrenó con la respuesta de miles de células madre embrionarias humanas a combinaciones de seis grandes vías de señalización. Probado en células de embriones de ratón durante la gastrulación, predijo cuándo y dónde se activan las vías en células destinadas a formar tejido cardíaco, intestinal, muscular y de la médula espinal."
+                "x": "El equipo añadió descriptores electrónicos locales: la carga de Bader y la densidad de estados atómica. Para energías de formación y bandas prohibidas objetivo, MatterGen-e⁻ produjo bastantes más estructuras simultáneamente válidas, estables, únicas y novedosas que MatterGen."
               },
               {
                 "t": "p",
-                "x": "El modelo también predijo una vía que impulsa el desarrollo específico del pulmón, algo que confirmaron experimentos en embriones de ratón. «IRIS nos está ayudando a descifrar el lenguaje que usan las células para hablar entre sí a un ritmo mucho más rápido del que podríamos lograr de forma realista con experimentos», afirma Hutchins. Los resultados se publicaron en Nature Methods."
+                "x": "“Lo que importa es la calidad de la información electrónica, no el número de variables”, dice el autor principal Teruyasu Mizoguchi. El enfoque podría mejorar la generación de superficies e interfaces."
               }
             ]
           }
@@ -1255,125 +1325,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "세포들의 대화 언어,\nAI 모델이 해독한다",
-          "body": "Whitehead Institute가 세포 간 신호를 해독하는 AI를 만들었다.",
-          "mini_headline": "AI가 세포의 대화를 해독",
+          "headline": "전자 구조가 이끄는\nAI 소재 설계",
+          "body": "도쿄 연구진이 MatterGen을 확장해 전자 구조와 결정 구조를 만들게 했다.",
+          "mini_headline": "물리를 반영한 AI 소재 설계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-                "cap": "체외 배양 시스템에서 발달 중인 가지 모양의 폐. 이미지: Miram Meziane/Whitehead Institute"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+                "cap": "결정 구조와 전자 구조를 함께 설계하는 생성형 AI 모델을 연구진이 개발했다. Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "배아가 발달하는 동안 세포는 신호전달 경로를 통해 화학 신호를 끊임없이 주고받으며, 이 신호가 세포에게 무엇이 될지 알려 준다. 이 지시를 되짚기는 어려웠다. 신호전달 경로가 세포 유형마다 다르게 작동한다고 여겨졌기 때문이다."
+                "x": "Institute of Industrial Science, The University of Tokyo의 연구진이 대표적인 생성형 AI 모델을 확장해, 소재의 전자 구조를 결정 구조와 함께 설계하도록 만들었다. MatterGen-e⁻라는 이름의 새 모델은 npj Computational Materials에 실렸다."
               },
               {
                 "t": "p",
-                "x": "MIT 조교수이자 Whitehead Institute 소속인 Pulin Li와 대학원생 Nicholas Hutchins가 이끈 연구에서, 연구진은 각 신호전달 경로가 세포 유형과 관계없이 일정한 고유의 유전자 활성 “지문”을 남긴다는 사실을 밝혀냈다. 이 지문을 찾아낸 것은 IRIS라는 머신러닝 모델이다."
+                "x": "역설계에서는 밴드갭이나 형성 에너지 같은 목표 물성을 먼저 정하고, AI가 거기에 맞는 안정한 결정을 곧바로 설계한다. Microsoft Research의 MatterGen은 원자 종류와 좌표, 격자로 구조를 만들어내지만, 제한된 데이터에서 물성과 구조의 상관을 배우기는 어렵다."
               },
               {
                 "t": "p",
-                "x": "IRIS는 인간 배아줄기세포 수천 개가 6가지 주요 신호전달 경로의 조합에 어떻게 반응하는지를 학습했다. 낭배 형성기의 생쥐 배아 세포로 시험한 결과, 심장·장·근육·척수 조직이 될 세포에서 경로가 언제 어디서 활성화되는지 예측했다."
+                "x": "연구팀은 국소 전자 기술자, 곧 Bader 전하와 원자별 상태 밀도를 더했다. 목표 형성 에너지와 밴드갭에 대해 MatterGen-e⁻는 유효하고 안정하며 고유하고 새로운 구조를 MatterGen보다 훨씬 많이 내놓았다."
               },
               {
                 "t": "p",
-                "x": "모델은 폐 특이적 발달을 이끄는 경로도 예측했고, 생쥐 배아 실험이 이를 확인했다. Hutchins는 “IRIS는 실험으로 현실적으로 해낼 수 있는 것보다 훨씬 빠른 속도로 세포가 서로 대화하는 언어를 해독하도록 돕고 있다”고 말했다. 연구 결과는 Nature Methods에 실렸다."
+                "x": "“중요한 것은 변수의 개수가 아니라 전자 정보의 질”이라고 교신저자 Teruyasu Mizoguchi는 말한다. 이 방법은 표면과 계면의 생성도 개선할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "細胞が交わす言語を\nAIモデルが解読",
-          "body": "Whitehead Instituteの研究者が、細胞同士の信号を解読するAIを開発した。",
-          "mini_headline": "AIが細胞の会話を解読",
+          "headline": "電子構造が導く\nAIの材料設計",
+          "body": "東京の研究チームがMatterGenを拡張し、電子構造と結晶構造を同時に生成する。",
+          "mini_headline": "物理に基づくAI材料設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-                "cap": "in vitro培養系で発生中の枝分かれする肺。画像：Miram Meziane/Whitehead Institute"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+                "cap": "結晶構造と電子構造を同時に設計する生成AIモデルを研究者が開発した。Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "胚が発生する過程で、細胞はシグナル伝達経路を通じて化学信号を絶えずやり取りし、自分が何になるべきかの指示を受け取る。こうした指示をたどり直すのは難しかった。経路は細胞の種類ごとに異なる働きをすると考えられていたからだ。"
+                "x": "Institute of Industrial Science, The University of Tokyoの研究者らが、代表的な生成AIモデルを拡張し、材料の電子構造を結晶構造と一緒に設計できるようにした。MatterGen-e⁻と名づけられたこの新しいモデルは、npj Computational Materialsで報告されている。"
               },
               {
                 "t": "p",
-                "x": "MIT助教でWhitehead InstituteのメンバーでもあるPulin Li氏と大学院生Nicholas Hutchins氏が率いた研究で、各シグナル伝達経路が細胞の種類を問わず一貫した固有の遺伝子活性の「指紋」を残すことがわかった。これを検出したのが、IRISと呼ばれる機械学習モデルだ。"
+                "x": "逆設計では、バンドギャップや生成エネルギーといった目標物性を先に指定し、AIがそれに合う安定な結晶を直接設計する。Microsoft ResearchのMatterGenは原子種・座標・格子から構造を生成するが、限られたデータから物性と構造の相関を学ぶのは難しい。"
               },
               {
                 "t": "p",
-                "x": "IRISは、数千個のヒト胚性幹細胞が6つの主要なシグナル伝達経路の組み合わせにどう反応するかを学習した。原腸形成期のマウス胚細胞で検証したところ、心臓、腸、筋肉、脊髄の組織になる細胞で、経路がいつどこで活性化するかを予測した。"
+                "x": "チームは局所的な電子記述子、すなわちBader電荷と原子ごとの状態密度を加えた。目標とする生成エネルギーとバンドギャップについて、MatterGen-e⁻は有効で安定、かつ固有で新規という条件を同時に満たす構造を、MatterGenより大幅に多く生み出した。"
               },
               {
                 "t": "p",
-                "x": "モデルは肺特有の発生を駆動する経路も予測し、マウス胚での実験がそれを裏づけた。「IRISのおかげで、細胞が互いに話すための言語を、実験で現実的に達成できるよりはるかに速いペースで解読できている」とHutchins氏は話す。成果はNature Methodsに掲載された。"
+                "x": "「重要なのは変数の数ではなく、電子情報の質である」と責任著者のTeruyasu Mizoguchiは語る。この手法は表面や界面の生成も改善しうる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI模型破译\n细胞间的沟通语言",
-          "body": "Whitehead Institute研究人员打造AI框架，解读细胞间构建组织的信号。",
-          "mini_headline": "AI破译细胞对话",
+          "headline": "电子结构引导\nAI材料设计",
+          "body": "东京团队扩展MatterGen，使其同时生成电子结构与晶体结构。",
+          "mini_headline": "物理引导的AI材料设计",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-                "cap": "体外培养系统中正在发育的分支状肺。图片：Miram Meziane/Whitehead Institute"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+                "cap": "研究者开发出可同时设计晶体结构与电子结构的生成式AI模型。Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "胚胎发育时，细胞通过信号通路不断发送和接收化学信号，这些信号告诉它们要成为什么。追溯这些指令一直很难，因为人们认为信号通路在每种细胞类型中的作用各不相同。"
+                "x": "Institute of Industrial Science, The University of Tokyo的研究者扩展了一款领先的生成式AI模型，使其在设计材料晶体结构的同时设计电子结构。这一名为MatterGen-e⁻的新模型发表于npj Computational Materials。"
               },
               {
                 "t": "p",
-                "x": "在MIT助理教授、Whitehead Institute成员Pulin Li与研究生Nicholas Hutchins领导的研究中，研究人员发现，每条信号通路都会留下独特的基因活性“指纹”，且在不同细胞类型中保持一致——这一指纹由名为IRIS的机器学习模型检测出来。"
+                "x": "在逆向设计中，先给定带隙或形成能等目标性质，再由AI直接设计出与之匹配的稳定晶体。Microsoft Research的MatterGen依据原子类型、坐标与晶格生成结构，但从有限数据中学习性质与结构的关联并不容易。"
               },
               {
                 "t": "p",
-                "x": "IRIS的训练数据来自数千个人类胚胎干细胞对六条主要信号通路组合的反应。在原肠胚形成期的小鼠胚胎细胞上测试时，它预测了在将发育为心脏、肠道、肌肉和脊髓组织的细胞中，信号通路何时、何处被激活。"
+                "x": "团队加入了局域电子描述符——Bader电荷与原子态密度。针对目标形成能与带隙，MatterGen-e⁻生成的同时满足有效、稳定、唯一且新颖的结构，明显多于MatterGen。"
               },
               {
                 "t": "p",
-                "x": "该模型还预测出一条驱动肺特异性发育的通路，并在小鼠胚胎实验中得到证实。Hutchins表示：“IRIS正在帮助我们以远超实验现实所能达到的速度，破译细胞彼此交流所用的语言。”研究结果发表于Nature Methods。"
+                "x": "“关键在于电子信息的质量，而不是变量的数量，”通讯作者Teruyasu Mizoguchi说。这一思路还有望改进表面与界面的生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un modelo de AI descifra el\nlenguaje que usan las células",
-          "body": "El Whitehead Institute creó un marco de AI que descifra cómo se comunican las células para formar tejidos.",
-          "mini_headline": "La AI descifra cómo hablan las células",
+          "headline": "La estructura electrónica guía\nel diseño de materiales con IA",
+          "body": "Un equipo de Tokio amplió MatterGen para generar a la vez estructuras electrónicas y cristalinas.",
+          "mini_headline": "Materiales con IA guiados por la física",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-                "cap": "Pulmón ramificado en desarrollo en un sistema de cultivo in vitro. Imagen: Miram Meziane/Whitehead Institute"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+                "cap": "Los investigadores desarrollan un modelo de IA generativa que diseña a la vez estructuras cristalinas y electrónicas. Credit: Institute of Industrial Science, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "A medida que se desarrolla un embrión, las células envían y reciben constantemente señales químicas a través de vías de señalización que les indican en qué convertirse. Reconstruir esas instrucciones ha sido difícil, porque se suponía que las vías actuaban de forma distinta en cada tipo celular."
+                "x": "Investigadores del Institute of Industrial Science, The University of Tokyo, han ampliado un modelo destacado de IA generativa para que diseñe la estructura electrónica de un material junto con su estructura cristalina. El nuevo modelo, llamado MatterGen-e⁻, se describe en npj Computational Materials."
               },
               {
                 "t": "p",
-                "x": "En un estudio dirigido por Pulin Li, profesora adjunta del MIT y miembro del Whitehead Institute, y por el estudiante de posgrado Nicholas Hutchins, los investigadores descubrieron que cada vía de señalización deja una «huella» única de actividad génica que se mantiene en todos los tipos celulares, detectada por un modelo de aprendizaje automático llamado IRIS."
+                "x": "En el diseño inverso se fija primero una propiedad objetivo, como la banda prohibida o la energía de formación, y la IA diseña directamente un cristal estable que la cumpla. MatterGen, de Microsoft Research, genera estructuras a partir de tipos de átomos, coordenadas y redes, pero aprender las correlaciones entre propiedad y estructura con datos limitados resulta difícil."
               },
               {
                 "t": "p",
-                "x": "IRIS se entrenó con la respuesta de miles de células madre embrionarias humanas a combinaciones de seis grandes vías de señalización. Probado en células de embriones de ratón durante la gastrulación, predijo cuándo y dónde se activan las vías en células destinadas a formar tejido cardíaco, intestinal, muscular y de la médula espinal."
+                "x": "El equipo añadió descriptores electrónicos locales: la carga de Bader y la densidad de estados atómica. Para energías de formación y bandas prohibidas objetivo, MatterGen-e⁻ produjo bastantes más estructuras simultáneamente válidas, estables, únicas y novedosas que MatterGen."
               },
               {
                 "t": "p",
-                "x": "El modelo también predijo una vía que impulsa el desarrollo específico del pulmón, algo que confirmaron experimentos en embriones de ratón. «IRIS nos está ayudando a descifrar el lenguaje que usan las células para hablar entre sí a un ritmo mucho más rápido del que podríamos lograr de forma realista con experimentos», afirma Hutchins. Los resultados se publicaron en Nature Methods."
+                "x": "“Lo que importa es la calidad de la información electrónica, no el número de variables”, dice el autor principal Teruyasu Mizoguchi. El enfoque podría mejorar la generación de superficies e interfaces."
               }
             ]
           }
@@ -1381,15 +1451,15 @@
       }
     },
     {
-      "id": "science-tipping-points",
+      "id": "science-benchmarks",
       "source_lang": "en",
-      "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "신경 연산자,\n티핑 포인트 시점 맞힌다",
-      "body": "Caltech 연구진의 신경 연산자가 기후·날개 기류 모델의 급변 시점을 맞혔다.",
-      "mini_headline": "AI가 티핑 포인트를 예측",
-      "source": "EurekAlert! (Caltech)",
-      "url": "https://www.eurekalert.org/news-releases/1147991",
+      "headline": "AI 벤치마크를\n흑마술 아닌 과학으로",
+      "body": "Moritz Hardt는 AI 벤치마크 생태계가 망가졌다며 대안을 내놓는다.",
+      "mini_headline": "과학이 되는 벤치마크",
+      "tool": "Science",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1397,179 +1467,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-            "cap": "난기류 구름 속을 비행하는 항공기. (Caltech)"
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+            "cap": "컴퓨터과학자 Moritz Hardt는 벤치마크를 “기계학습을 만든 실수”라고 부른다. Jerrit Peinelt for Quanta Magazine"
           },
           {
             "t": "p",
-            "x": "Caltech이 주도해 PNAS에 발표한 새 논문에 따르면, 순환 신경 연산자(RNO)는 기후변화 시스템과 항공기 날개 위 난기류 시뮬레이션 등 단순한 모델에서 티핑 포인트가 언제 올지 예측할 수 있다."
+            "x": "Max Planck Institute for Intelligent Systems의 소장 Moritz Hardt도 벤치마킹에 결함이 생겼다는 데 동의한다. “달리 말할 여지가 없다. 벤치마킹 생태계는 망가졌다.” 그러면서도 2026년 저서 The Emerging Science of Machine Learning Benchmarks에서 그는 벤치마크가 진짜 진보를 이끌었다고 주장한다 — “대체로 순전한 운으로.” Quanta는 분량을 줄이고 다듬은 인터뷰로 Hardt를 만났다."
           },
           {
             "t": "p",
-            "x": "한 시나리오에서는 이산화탄소가 늘면서 바다 위 낮은 구름이 빠르게 사라진다. RNO는 시뮬레이션 데이터에서 이 티핑 포인트를 예상 시점보다 2년 넘게 앞서 내다봤고, 시점 오차는 약 11일이었다."
+            "x": "시험 집합이 조금만 달라져도 절대 점수는 흔들린다. 반면 모델 사이의 순위는 데이터셋이 바뀌어도 꽤 안정적이라고 그는 말한다. 기계학습이 과학적 위기를 피한 가장 큰 이유다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+            "cap": "Hardt는 AI 모델이 벤치마크에서 받는 점수는 큰 의미가 없다고 경고한다. 다만 모델 사이의 비교, 곧 순위는 의미가 있다. Jerrit Peinelt for Quanta Magazine"
           },
           {
             "t": "p",
-            "x": "RNO에는 다른 머신러닝 프로그램과 달리 물리 현상이 시간에 따라 어떻게 바뀌는지 추적하는 “기억”이 들어 있다. 예측이 앞서 학습한 물리 법칙에서 벗어나면 티핑 포인트가 가까워졌다는 신호다."
+            "x": "LLMs에서는 그 안정성이 깨진다. 모델이 무엇으로 학습했는지 알 길이 없고, 만드는 쪽은 벤치마크 성적을 끌어올릴 데이터 조합을 짤 수 있다. “더 나은 모델이 반드시 이긴다는 말은 이제 사실이 아니다.”"
           },
           {
             "t": "p",
-            "x": "Anima Anandkumar는 “이 연구는 티핑 포인트의 특성을 규명하고 앞으로 언제 일어날지 예측하는 토대를 마련한다”고 말했다. RNO는 기울어지는 날개에서 양력이 갑자기 사라지는 현상도 예측해, 항공 설계에 쓰일 가능성을 보여 줬다."
+            "x": "그가 내놓은 해법은 “고지대 훈련”이다. 학습 집합을 없애고 시험 집합과, 시험 전에 각 모델을 준비시키는 규약만 두어 순위의 타당성을 되살리자는 이야기다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Neural operator forecasts when\ntipping points will occur",
-          "body": "A Caltech-led study shows a recurrent neural operator can time tipping points in simple climate and wing-airflow models.",
-          "mini_headline": "AI forecasts tipping points",
+          "headline": "Making AI benchmarking\na science, not a dark art",
+          "body": "Moritz Hardt tells Quanta the AI benchmarking ecosystem is broken and proposes 'altitude training' to restore rankings.",
+          "mini_headline": "Benchmarks as a science",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-                "cap": "A plane is seen flying through turbulent clouds. (Caltech)"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+                "cap": "The computer scientist Moritz Hardt calls benchmarks “the mistake that made machine learning.” Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "A new Caltech-led paper in PNAS demonstrates that a recurrent neural operator (RNO) can predict when tipping points occur in simple models, including a climate-change system and simulations of turbulent airflow over a plane's wing."
+                "x": "Moritz Hardt, a director at the Max Planck Institute for Intelligent Systems, agrees that benchmarking has become flawed. “There’s no two ways about it. The benchmarking ecosystem is broken.” In his 2026 book The Emerging Science of Machine Learning Benchmarks, he argues benchmarks drove legitimate progress anyway — “mostly by sheer luck.” Quanta spoke to Hardt in an interview condensed and edited for clarity."
               },
               {
                 "t": "p",
-                "x": "In one scenario, low clouds over the oceans rapidly disappear due to rising carbon dioxide. On simulated data, the RNO looked more than two years ahead of the expected tipping point and predicted its timing with an error of about 11 days."
+                "x": "Absolute scores shift when the test set changes slightly, he says, but rankings between models tend to be very stable across datasets — the main reason machine learning escaped a scientific crisis."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+                "cap": "Hardt cautions that the scores AI models receive on benchmarks don’t mean much. But comparisons, or rankings, among models do. Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "Unlike other machine learning programs, the RNO has a built-in “memory” that tracks how the physics change over time; when its predictions no longer follow previously learned physics, a tipping point is imminent."
+                "x": "With LLMs, that stability breaks: we don’t know what models were trained on, and builders can assemble data mixes that promote benchmark performance. “It’s no longer true that the better model necessarily wins.”"
               },
               {
                 "t": "p",
-                "x": "“This work lays the foundations for characterizing tipping points and predicting when they might occur in the future,” says Anima Anandkumar. The RNO also predicted the sudden loss of lift on a tilting wing, hinting at uses in aeronautical design."
+                "x": "His fix is “altitude training”: no training set, just a test set and a protocol for preparing each model before testing, to restore the validity of rankings."
               }
             ]
           }
         },
         "ko": {
-          "headline": "신경 연산자,\n티핑 포인트 시점 맞힌다",
-          "body": "Caltech 연구진의 신경 연산자가 기후·날개 기류 모델의 급변 시점을 맞혔다.",
-          "mini_headline": "AI가 티핑 포인트를 예측",
+          "headline": "AI 벤치마크를\n흑마술 아닌 과학으로",
+          "body": "Moritz Hardt는 AI 벤치마크 생태계가 망가졌다며 대안을 내놓는다.",
+          "mini_headline": "과학이 되는 벤치마크",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-                "cap": "난기류 구름 속을 비행하는 항공기. (Caltech)"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+                "cap": "컴퓨터과학자 Moritz Hardt는 벤치마크를 “기계학습을 만든 실수”라고 부른다. Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "Caltech이 주도해 PNAS에 발표한 새 논문에 따르면, 순환 신경 연산자(RNO)는 기후변화 시스템과 항공기 날개 위 난기류 시뮬레이션 등 단순한 모델에서 티핑 포인트가 언제 올지 예측할 수 있다."
+                "x": "Max Planck Institute for Intelligent Systems의 소장 Moritz Hardt도 벤치마킹에 결함이 생겼다는 데 동의한다. “달리 말할 여지가 없다. 벤치마킹 생태계는 망가졌다.” 그러면서도 2026년 저서 The Emerging Science of Machine Learning Benchmarks에서 그는 벤치마크가 진짜 진보를 이끌었다고 주장한다 — “대체로 순전한 운으로.” Quanta는 분량을 줄이고 다듬은 인터뷰로 Hardt를 만났다."
               },
               {
                 "t": "p",
-                "x": "한 시나리오에서는 이산화탄소가 늘면서 바다 위 낮은 구름이 빠르게 사라진다. RNO는 시뮬레이션 데이터에서 이 티핑 포인트를 예상 시점보다 2년 넘게 앞서 내다봤고, 시점 오차는 약 11일이었다."
+                "x": "시험 집합이 조금만 달라져도 절대 점수는 흔들린다. 반면 모델 사이의 순위는 데이터셋이 바뀌어도 꽤 안정적이라고 그는 말한다. 기계학습이 과학적 위기를 피한 가장 큰 이유다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+                "cap": "Hardt는 AI 모델이 벤치마크에서 받는 점수는 큰 의미가 없다고 경고한다. 다만 모델 사이의 비교, 곧 순위는 의미가 있다. Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "RNO에는 다른 머신러닝 프로그램과 달리 물리 현상이 시간에 따라 어떻게 바뀌는지 추적하는 “기억”이 들어 있다. 예측이 앞서 학습한 물리 법칙에서 벗어나면 티핑 포인트가 가까워졌다는 신호다."
+                "x": "LLMs에서는 그 안정성이 깨진다. 모델이 무엇으로 학습했는지 알 길이 없고, 만드는 쪽은 벤치마크 성적을 끌어올릴 데이터 조합을 짤 수 있다. “더 나은 모델이 반드시 이긴다는 말은 이제 사실이 아니다.”"
               },
               {
                 "t": "p",
-                "x": "Anima Anandkumar는 “이 연구는 티핑 포인트의 특성을 규명하고 앞으로 언제 일어날지 예측하는 토대를 마련한다”고 말했다. RNO는 기울어지는 날개에서 양력이 갑자기 사라지는 현상도 예측해, 항공 설계에 쓰일 가능성을 보여 줬다."
+                "x": "그가 내놓은 해법은 “고지대 훈련”이다. 학습 집합을 없애고 시험 집합과, 시험 전에 각 모델을 준비시키는 규약만 두어 순위의 타당성을 되살리자는 이야기다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ニューラル作用素が\n転換点の時期を予測",
-          "body": "Caltech主導の研究で再帰型ニューラル作用素が単純な気候・翼モデルの転換点を予測した。",
-          "mini_headline": "AIが転換点を予測",
+          "headline": "AIベンチマークを\n黒魔術から科学へ",
+          "body": "Moritz HardtはAIベンチマークの生態系は壊れていると語る。",
+          "mini_headline": "科学としてのベンチマーク",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-                "cap": "乱気流の雲の中を飛ぶ飛行機。（Caltech）"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+                "cap": "計算機科学者のMoritz Hardtは、ベンチマークを「機械学習をつくった誤り」と呼ぶ。Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "Caltechが主導しPNASに掲載された新たな論文は、再帰型ニューラル作用素（RNO）が、気候変動システムや飛行機の翼上の乱流シミュレーションといった単純なモデルで、転換点がいつ起こるかを予測できることを示した。"
+                "x": "Max Planck Institute for Intelligent Systemsのディレクターを務めるMoritz Hardtも、ベンチマーキングが欠陥を抱えるようになったと認める。「議論の余地はない。ベンチマーキングの生態系は壊れている」。2026年の著書The Emerging Science of Machine Learning Benchmarksで彼は、それでもベンチマークが正当な進歩を生んだと論じる——「ほとんどは純粋な幸運によって」。Quantaは、短く整理し読みやすく編集したインタビューでHardtに話を聞いた。"
               },
               {
                 "t": "p",
-                "x": "あるシナリオでは、二酸化炭素の増加によって海洋上の低層雲が急速に消える。シミュレーションデータ上で、RNOは想定される転換点の2年以上前から先を見通し、その時期を約11日の誤差で予測した。"
+                "x": "テストセットが少し変わるだけで絶対的なスコアは動くが、モデル間の順位はデータセットをまたいでもきわめて安定していると彼は言う。機械学習が科学的な危機を免れた主な理由である。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+                "cap": "AIモデルがベンチマークで得るスコアに大きな意味はない、とHardtは戒める。ただし、モデル同士の比較すなわち順位には意味がある。Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "他の機械学習プログラムと異なり、RNOには物理の時間変化を追跡する「記憶」が組み込まれている。予測がそれまでに学習した物理に従わなくなったとき、転換点が目前に迫っていることになる。"
+                "x": "LLMsではその安定性が崩れる。モデルが何で学習したのか分からず、作り手はベンチマークの成績を押し上げるデータの配合を組めるからだ。「より良いモデルが必ず勝つ、とはもはや言えない」。"
               },
               {
                 "t": "p",
-                "x": "「この研究は、転換点を特徴づけ、それが将来いつ起こりうるかを予測するための基礎を築くものだ」とAnima Anandkumar氏は述べる。RNOは傾いていく翼で揚力が急に失われる現象も予測しており、航空機設計への応用も示唆している。"
+                "x": "彼の処方箋は「高地トレーニング」である。訓練セットは置かず、テストセットと、テスト前に各モデルを整えるための手順だけを定め、順位の妥当性を取り戻す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "神经算子预测\n临界点何时到来",
-          "body": "Caltech主导的研究显示，循环神经算子能预判简单气候和机翼气流模型的临界点时间。",
-          "mini_headline": "AI预测临界点",
+          "headline": "让AI基准测试\n成为科学而非黑魔法",
+          "body": "Moritz Hardt认为AI基准测试生态已经失灵，需要重建排名。",
+          "mini_headline": "作为科学的基准测试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-                "cap": "一架飞机穿越湍流云层。（Caltech）"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+                "cap": "计算机科学家Moritz Hardt把基准测试称为“造就机器学习的那个错误”。Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "Caltech主导、发表于PNAS的一篇新论文表明，循环神经算子（RNO）能够在简单模型中预测临界点何时出现，包括一个气候变化系统以及飞机机翼上方湍流气流的模拟。"
+                "x": "Max Planck Institute for Intelligent Systems的主任Moritz Hardt也认为基准测试已变得有缺陷。“这一点没有第二种说法。基准测试的生态已经坏了。”在2026年出版的The Emerging Science of Machine Learning Benchmarks一书中，他提出基准测试仍然推动了真实的进步——“多半是靠运气”。Quanta对Hardt的采访经过压缩与编辑以便阅读。"
               },
               {
                 "t": "p",
-                "x": "在一个情景中，随着二氧化碳增加，海洋上空的低云迅速消失。在模拟数据上，RNO提前两年多预见到预期的临界点，并以约11天的误差预测了其发生时间。"
+                "x": "他说，测试集稍有变化，绝对分数就会移动；但不同数据集之间，模型的排名往往非常稳定——这正是机器学习躲过一场科学危机的主要原因。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+                "cap": "Hardt提醒，AI模型在基准测试上拿到的分数意义不大，但模型之间的比较，也就是排名，是有意义的。Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "与其他机器学习程序不同，RNO内置“记忆”，可追踪物理规律随时间的变化；当其预测不再遵循先前学到的物理规律时，就意味着临界点即将到来。"
+                "x": "到了LLMs，这种稳定性被打破：我们不知道模型用什么训练，开发者也能配出有利于基准成绩的数据组合。“更好的模型必然胜出，这句话已经不再成立。”"
               },
               {
                 "t": "p",
-                "x": "Anima Anandkumar表示：“这项工作为刻画临界点并预测其未来何时可能发生奠定了基础。”RNO还预测了倾斜机翼升力的突然丧失，显示出在航空设计中的应用前景。"
+                "x": "他开出的方子是“高原训练”：不设训练集，只保留测试集，以及在测试前准备每个模型的统一流程，以恢复排名的有效性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un operador neuronal predice\ncuándo ocurren puntos críticos",
-          "body": "En un estudio de Caltech, un operador neuronal recurrente anticipó puntos críticos en modelos simples de clima y alas.",
-          "mini_headline": "La AI anticipa puntos críticos",
+          "headline": "Convertir la evaluación de IA\nen ciencia, no en arte oscuro",
+          "body": "Moritz Hardt afirma a Quanta que el ecosistema de evaluación de la IA está roto.",
+          "mini_headline": "Los benchmarks como ciencia",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-                "cap": "Un avión vuela entre nubes turbulentas. (Caltech)"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+                "cap": "El informático Moritz Hardt llama a los benchmarks “el error que hizo el aprendizaje automático”. Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "Un nuevo artículo dirigido por Caltech y publicado en PNAS demuestra que un operador neuronal recurrente (RNO) puede predecir cuándo se producen puntos críticos en modelos simples, entre ellos un sistema de cambio climático y simulaciones del flujo de aire turbulento sobre el ala de un avión."
+                "x": "Moritz Hardt, director en el Max Planck Institute for Intelligent Systems, coincide en que la evaluación con benchmarks se ha vuelto defectuosa. “No hay dos maneras de verlo. El ecosistema de benchmarks está roto.” En su libro de 2026 The Emerging Science of Machine Learning Benchmarks sostiene que, aun así, los benchmarks impulsaron un progreso legítimo: “sobre todo por pura suerte”. Quanta habló con Hardt en una entrevista condensada y editada para mayor claridad."
               },
               {
                 "t": "p",
-                "x": "En un escenario, las nubes bajas sobre los océanos desaparecen con rapidez debido al aumento del dióxido de carbono. Con datos simulados, el RNO miró más de dos años por delante del punto crítico esperado y predijo su momento con un error de unos 11 días."
+                "x": "Las puntuaciones absolutas cambian cuando el conjunto de prueba se altera levemente, dice, pero las clasificaciones entre modelos suelen ser muy estables entre conjuntos de datos: la razón principal de que el aprendizaje automático escapara a una crisis científica."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+                "cap": "Hardt advierte que las puntuaciones que los modelos de IA obtienen en los benchmarks significan poco. Las comparaciones, o clasificaciones, entre modelos sí importan. Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "A diferencia de otros programas de aprendizaje automático, el RNO tiene una «memoria» integrada que sigue cómo cambia la física con el tiempo; cuando sus predicciones dejan de ajustarse a la física aprendida, el punto crítico es inminente."
+                "x": "Con los LLMs esa estabilidad se rompe: no sabemos con qué se entrenaron los modelos y quienes los construyen pueden componer mezclas de datos que favorecen el rendimiento en los benchmarks. “Ya no es cierto que el mejor modelo gane necesariamente.”"
               },
               {
                 "t": "p",
-                "x": "«Este trabajo sienta las bases para caracterizar los puntos críticos y predecir cuándo podrían ocurrir en el futuro», afirma Anima Anandkumar. El RNO también predijo la pérdida repentina de sustentación en un ala que se inclina, lo que apunta a usos en el diseño aeronáutico."
+                "x": "Su solución es el “entrenamiento en altura”: sin conjunto de entrenamiento, solo un conjunto de prueba y un protocolo para preparar cada modelo antes de la prueba, de modo que las clasificaciones recuperen su validez."
               }
             ]
           }
@@ -1577,125 +1677,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "신경 연산자가\n티핑 포인트 시점을 예측",
-          "body": "Caltech 연구진의 신경 연산자가 기후·날개 기류 모델의 급변 시점을 맞혔다.",
-          "mini_headline": "AI가 티핑 포인트를 예측",
+          "headline": "AI 벤치마크를\n흑마술 아닌 과학으로",
+          "body": "Moritz Hardt는 AI 벤치마크 생태계가 망가졌다며 대안을 내놓는다.",
+          "mini_headline": "과학이 되는 벤치마크",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-                "cap": "난기류 구름 속을 비행하는 항공기. (Caltech)"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+                "cap": "컴퓨터과학자 Moritz Hardt는 벤치마크를 “기계학습을 만든 실수”라고 부른다. Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "Caltech이 주도해 PNAS에 발표한 새 논문은 순환 신경 연산자(RNO)가 기후변화 시스템과 항공기 날개 위 난기류 시뮬레이션 등 단순한 모델에서 티핑 포인트가 언제 일어날지 예측할 수 있음을 보여 준다."
+                "x": "Max Planck Institute for Intelligent Systems의 소장 Moritz Hardt도 벤치마킹이 결함을 안게 됐다는 데 동의한다. “달리 말할 여지가 없다. 벤치마킹 생태계는 망가졌다.” 2026년 저서 The Emerging Science of Machine Learning Benchmarks에서 그는 그럼에도 벤치마크가 진짜 진보를 이끌었다고 주장한다 — “대체로 순전한 운으로.” Quanta는 분량을 줄이고 다듬은 인터뷰로 Hardt를 만났다."
               },
               {
                 "t": "p",
-                "x": "한 시나리오에서는 이산화탄소 증가로 바다 위 낮은 구름이 빠르게 사라진다. 시뮬레이션 데이터에서 RNO는 예상 티핑 포인트보다 2년 넘게 앞서 내다봤고, 그 시점을 약 11일 오차로 예측했다."
+                "x": "시험 집합이 조금만 달라져도 절대 점수는 흔들리지만, 모델 사이의 순위는 데이터셋이 바뀌어도 꽤 안정적이라고 그는 말한다. 기계학습이 과학적 위기를 피한 가장 큰 이유다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+                "cap": "Hardt는 AI 모델이 벤치마크에서 받는 점수는 큰 의미가 없다고 경고한다. 다만 모델 사이의 비교, 곧 순위는 의미가 있다. Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "다른 머신러닝 프로그램과 달리 RNO에는 물리 현상이 시간에 따라 어떻게 변하는지 추적하는 “기억”이 내장돼 있다. 예측이 이전에 학습한 물리 법칙을 더 이상 따르지 않으면 티핑 포인트가 임박했다는 뜻이다."
+                "x": "LLMs에서는 그 안정성이 깨진다. 모델이 무엇으로 학습했는지 알 수 없고, 만드는 쪽은 벤치마크 성적을 끌어올리는 데이터 조합을 짤 수 있다. “더 나은 모델이 반드시 이긴다는 말은 이제 사실이 아니다.”"
               },
               {
                 "t": "p",
-                "x": "Anima Anandkumar는 “이 연구는 티핑 포인트의 특성을 규명하고 앞으로 언제 일어날지 예측하는 토대를 마련한다”고 말했다. RNO는 기울어지는 날개에서 양력이 갑자기 사라지는 현상도 예측해 항공 설계 분야에 쓰일 가능성을 보여 줬다."
+                "x": "그의 해법은 “고지대 훈련”이다. 학습 집합 없이 시험 집합과, 시험 전에 각 모델을 준비시키는 규약만 두어 순위의 타당성을 되살리자는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ニューラル作用素が\n転換点の時期を予測",
-          "body": "Caltech主導の研究で再帰型ニューラル作用素が単純な気候・翼モデルの転換点を予測した。",
-          "mini_headline": "AIが転換点を予測",
+          "headline": "AIベンチマークを\n黒魔術から科学へ",
+          "body": "Moritz HardtはAIベンチマークの生態系は壊れていると語る。",
+          "mini_headline": "科学としてのベンチマーク",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-                "cap": "乱気流の雲の中を飛ぶ飛行機。（Caltech）"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+                "cap": "計算機科学者のMoritz Hardtは、ベンチマークを「機械学習をつくった誤り」と呼ぶ。Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "Caltechが主導しPNASに掲載された新たな論文は、再帰型ニューラル作用素（RNO）が、気候変動システムや飛行機の翼上の乱流シミュレーションといった単純なモデルで、転換点がいつ起こるかを予測できることを示した。"
+                "x": "Max Planck Institute for Intelligent Systemsのディレクターを務めるMoritz Hardtも、ベンチマーキングが欠陥を抱えるようになったと認める。「議論の余地はない。ベンチマーキングの生態系は壊れている」。2026年の著書The Emerging Science of Machine Learning Benchmarksで彼は、それでもベンチマークが正当な進歩を生んだと論じる——「ほとんどは純粋な幸運によって」。Quantaは、短く整理し読みやすく編集したインタビューでHardtに話を聞いた。"
               },
               {
                 "t": "p",
-                "x": "あるシナリオでは、二酸化炭素の増加によって海洋上の低層雲が急速に消える。シミュレーションデータ上で、RNOは想定される転換点の2年以上前から先を見通し、その時期を約11日の誤差で予測した。"
+                "x": "テストセットが少し変わるだけで絶対的なスコアは動くが、モデル間の順位はデータセットをまたいでもきわめて安定していると彼は言う。機械学習が科学的な危機を免れた主な理由である。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+                "cap": "AIモデルがベンチマークで得るスコアに大きな意味はない、とHardtは戒める。ただし、モデル同士の比較すなわち順位には意味がある。Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "他の機械学習プログラムと異なり、RNOには物理の時間変化を追跡する「記憶」が組み込まれている。予測がそれまでに学習した物理に従わなくなったとき、転換点が目前に迫っていることになる。"
+                "x": "LLMsではその安定性が崩れる。モデルが何で学習したのか分からず、作り手はベンチマークの成績を押し上げるデータの配合を組めるからだ。「より良いモデルが必ず勝つ、とはもはや言えない」。"
               },
               {
                 "t": "p",
-                "x": "「この研究は、転換点を特徴づけ、それが将来いつ起こりうるかを予測するための基礎を築くものだ」とAnima Anandkumar氏は述べる。RNOは傾いていく翼で揚力が急に失われる現象も予測しており、航空機設計への応用も示唆している。"
+                "x": "彼の処方箋は「高地トレーニング」である。訓練セットは置かず、テストセットと、テスト前に各モデルを整えるための手順だけを定め、順位の妥当性を取り戻す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "神经算子预测\n临界点何时到来",
-          "body": "Caltech主导的研究显示，循环神经算子能预判简单气候和机翼气流模型的临界点时间。",
-          "mini_headline": "AI预测临界点",
+          "headline": "让AI基准测试\n成为科学而非黑魔法",
+          "body": "Moritz Hardt认为AI基准测试生态已经失灵，需要重建排名。",
+          "mini_headline": "作为科学的基准测试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-                "cap": "一架飞机穿越湍流云层。（Caltech）"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+                "cap": "计算机科学家Moritz Hardt把基准测试称为“造就机器学习的那个错误”。Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "Caltech主导、发表于PNAS的一篇新论文表明，循环神经算子（RNO）能够在简单模型中预测临界点何时出现，包括一个气候变化系统以及飞机机翼上方湍流气流的模拟。"
+                "x": "Max Planck Institute for Intelligent Systems的主任Moritz Hardt也认为基准测试已变得有缺陷。“这一点没有第二种说法。基准测试的生态已经坏了。”在2026年出版的The Emerging Science of Machine Learning Benchmarks一书中，他提出基准测试仍然推动了真实的进步——“多半是靠运气”。Quanta对Hardt的采访经过压缩与编辑以便阅读。"
               },
               {
                 "t": "p",
-                "x": "在一个情景中，随着二氧化碳增加，海洋上空的低云迅速消失。在模拟数据上，RNO提前两年多预见到预期的临界点，并以约11天的误差预测了其发生时间。"
+                "x": "他说，测试集稍有变化，绝对分数就会移动；但不同数据集之间，模型的排名往往非常稳定——这正是机器学习躲过一场科学危机的主要原因。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+                "cap": "Hardt提醒，AI模型在基准测试上拿到的分数意义不大，但模型之间的比较，也就是排名，是有意义的。Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "与其他机器学习程序不同，RNO内置“记忆”，可追踪物理规律随时间的变化；当其预测不再遵循先前学到的物理规律时，就意味着临界点即将到来。"
+                "x": "到了LLMs，这种稳定性被打破：我们不知道模型用什么训练，开发者也能配出有利于基准成绩的数据组合。“更好的模型必然胜出，这句话已经不再成立。”"
               },
               {
                 "t": "p",
-                "x": "Anima Anandkumar表示：“这项工作为刻画临界点并预测其未来何时可能发生奠定了基础。”RNO还预测了倾斜机翼升力的突然丧失，显示出在航空设计中的应用前景。"
+                "x": "他开出的方子是“高原训练”：不设训练集，只保留测试集，以及在测试前准备每个模型的统一流程，以恢复排名的有效性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un operador neuronal predice\ncuándo ocurren puntos críticos",
-          "body": "En un estudio de Caltech, un operador neuronal recurrente anticipó puntos críticos en modelos simples de clima y alas.",
-          "mini_headline": "La AI anticipa puntos críticos",
+          "headline": "Convertir la evaluación de IA\nen ciencia, no en arte oscuro",
+          "body": "Moritz Hardt afirma a Quanta que el ecosistema de evaluación de la IA está roto.",
+          "mini_headline": "Los benchmarks como ciencia",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://caltech-prod.resources.caltech.edu/main/images/Anandkumar_Anima-Forecasting.2dbb4bc7.fill-1600x810-c100.jpg",
-                "cap": "Un avión vuela entre nubes turbulentas. (Caltech)"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+                "cap": "El informático Moritz Hardt llama a los benchmarks “el error que hizo el aprendizaje automático”. Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "Un nuevo artículo dirigido por Caltech y publicado en PNAS demuestra que un operador neuronal recurrente (RNO) puede predecir cuándo se producen puntos críticos en modelos simples, entre ellos un sistema de cambio climático y simulaciones del flujo de aire turbulento sobre el ala de un avión."
+                "x": "Moritz Hardt, director en el Max Planck Institute for Intelligent Systems, coincide en que la evaluación con benchmarks se ha vuelto defectuosa. “No hay dos maneras de verlo. El ecosistema de benchmarks está roto.” En su libro de 2026 The Emerging Science of Machine Learning Benchmarks sostiene que, aun así, los benchmarks impulsaron un progreso legítimo: “sobre todo por pura suerte”. Quanta habló con Hardt en una entrevista condensada y editada para mayor claridad."
               },
               {
                 "t": "p",
-                "x": "En un escenario, las nubes bajas sobre los océanos desaparecen con rapidez debido al aumento del dióxido de carbono. Con datos simulados, el RNO miró más de dos años por delante del punto crítico esperado y predijo su momento con un error de unos 11 días."
+                "x": "Las puntuaciones absolutas cambian cuando el conjunto de prueba se altera levemente, dice, pero las clasificaciones entre modelos suelen ser muy estables entre conjuntos de datos: la razón principal de que el aprendizaje automático escapara a una crisis científica."
+              },
+              {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+                "cap": "Hardt advierte que las puntuaciones que los modelos de IA obtienen en los benchmarks significan poco. Las comparaciones, o clasificaciones, entre modelos sí importan. Jerrit Peinelt for Quanta Magazine"
               },
               {
                 "t": "p",
-                "x": "A diferencia de otros programas de aprendizaje automático, el RNO tiene una «memoria» integrada que sigue cómo cambia la física con el tiempo; cuando sus predicciones dejan de ajustarse a la física aprendida, el punto crítico es inminente."
+                "x": "Con los LLMs esa estabilidad se rompe: no sabemos con qué se entrenaron los modelos y quienes los construyen pueden componer mezclas de datos que favorecen el rendimiento en los benchmarks. “Ya no es cierto que el mejor modelo gane necesariamente.”"
               },
               {
                 "t": "p",
-                "x": "«Este trabajo sienta las bases para caracterizar los puntos críticos y predecir cuándo podrían ocurrir en el futuro», afirma Anima Anandkumar. El RNO también predijo la pérdida repentina de sustentación en un ala que se inclina, lo que apunta a usos en el diseño aeronáutico."
+                "x": "Su solución es el “entrenamiento en altura”: sin conjunto de entrenamiento, solo un conjunto de prueba y un protocolo para preparar cada modelo antes de la prueba, de modo que las clasificaciones recuperen su validez."
               }
             ]
           }

@@ -1,136 +1,136 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "medicine",
   "picks": [
     {
-      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15837620/radiologists-llms-fail-at-spotting-aigenerated-chest-xrays",
-      "title": "Radiologists, LLMs fail at spotting AI-generated chest x-rays",
-      "source": "AuntMinnie",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600537",
+      "title": "Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians",
+      "source": "NEJM AI",
       "category": "medicine",
-      "published_iso": "2026-10-15T19:00:38Z",
-      "og_image": "",
-      "excerpt": "Seoul National University Hospital tested radiologists and LLMs on 40 real and 120 synthetic chest x-rays; neither was reliable enough to be the primary safeguard, so the authors urge cryptographic credentials or watermarking to guard image authenticity.",
+      "published_iso": "2026-10-15T14:00:05Z",
+      "og_image": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
+      "excerpt": "NEJM AI study evaluating 24 AI models: LLMs are increasingly consulted for clinical decision support, yet the cost of the services or treatment they recommend had not been systematically compared with what treating physicians actually ordered. (Online date verified via Crossref.)",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "This is a reader study from Seoul National University Hospital: neither radiologists nor LLMs can reliably tell synthetic chest x-rays from real ones. That is a direct patient-safety and image-integrity problem for clinical imaging, and the authors call for provenance controls."
+      "rationale": "This NEJM AI study compares the cost of care recommended by 24 LLMs with what treating physicians actually ordered. Clinicians already consult these models for decisions, and no one had measured the cost side before. It also has a real figure image."
     },
     {
-      "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openevidence-drew-271m-queries-from-952000-clinicians-in-2-5-years/",
-      "title": "OpenEvidence drew 271M queries from 952,000 clinicians in 2.5 years (JAMA study)",
-      "source": "Becker's Hospital Review",
+      "url": "https://www.medigatenews.com/news/2062365725",
+      "title": "씨어스, UAE 아부다비 보건부 IRB 승인… UAE 최초 AI 부정맥 국가검진 사업자 선정",
+      "source": "메디게이트뉴스",
       "category": "medicine",
-      "published_iso": "2026-10-15T15:44:52+00:00",
-      "og_image": "",
-      "excerpt": "A JAMA cross-sectional study (doi 10.1001/jama.2026.21868, online 2026-10-15) characterizes clinician use of the AI clinical information platform OpenEvidence: 271M queries from about 952,000 clinicians, by clinician type, specialty and query purpose. Primary source is jamanetwork.com (Cloudflare-blocked).",
-      "source_lang": "en",
+      "published_iso": "2026-10-16T00:00:00+09:00",
+      "og_image": "https://medigatenews.com/file/news/534058",
+      "excerpt": "씨어스가 UAE 세하클리닉과 추진하는 국가 건강검진 프로젝트로 아부다비 보건부 IRB 승인을 받았다. 40세 이상 자국민 연 1회 국가검진에 웨어러블 AI 부정맥 스크리닝을 도입하기 위한 최종 파일럿이다. (게시일: 본문 '16일 밝혔다' 기준)",
+      "source_lang": "ko",
       "tool": "Medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "A new JAMA study is the first large-scale look at how clinicians actually use an AI point-of-care tool: 271M queries from about 952,000 clinicians. Becker's carries a fetchable body, whereas the JAMA page is blocked."
+      "rationale": "Abu Dhabi's health department granted IRB approval for the final pilot that puts wearable AI arrhythmia screening into the UAE's annual national checkup for citizens aged 40 and over. A regulator signed off, and the tool will reach patients at population scale."
     },
     {
-      "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
-      "title": "AMA releases governance framework for agentic AI in healthcare",
-      "source": "Healthcare Dive",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-department-uses-ai-identify-lung-cancer-screening-patients-ehr",
+      "title": "Radiology department uses AI to identify lung cancer screening patients in EHR",
+      "source": "Radiology Business",
       "category": "medicine",
-      "published_iso": "2026-10-15T11:33:18-04:00",
-      "og_image": "https://imgproxy.divecdn.com/lxI_Qht9XZ6EGVj1htin3l30F9JMTc70-pGeVlaTzo0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE1NzkzMTExLmpwZw==.webp",
-      "excerpt": "The American Medical Association released a governance framework for AI agents in healthcare, as industry groups issue guidance on agentic AI in the absence of federal regulation.",
+      "published_iso": "2026-10-16T10:05:49+00:00",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP",
+      "excerpt": "UC Irvine developed a natural language processing tool that extracts smoking history and identifies lung-cancer-screening-eligible patients from free-text clinical notes.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "This is a new official release from the largest US physician body: a governance framework that health systems can apply to AI agents in care. No federal rule covers this yet."
+      "rationale": "UC Irvine's radiology department runs an NLP tool that reads free-text notes for smoking history and finds patients who qualify for lung cancer screening. Under-enrollment in that screening is a well-known gap, and this is a working hospital deployment aimed at it."
     },
     {
-      "url": "https://www.nature.com/articles/s41746-026-03275-0",
-      "title": "An AI framework for end-to-end rare disease phenotyping from clinical notes using large language models",
+      "url": "https://www.nature.com/articles/s41746-026-03357-z",
+      "title": "Automated differentiation for parkinsonism using clinical structural MRI: A multicenter study",
       "source": "npj Digital Medicine",
       "category": "medicine",
-      "published_iso": "2026-10-15T00:00:00Z",
-      "og_image": "",
-      "excerpt": "An LLM-based framework operationalizes the full rare disease phenotyping pipeline from clinical notes, replacing labor-intensive manual curation of structured phenotypes used in rare disease diagnosis.",
+      "published_iso": "2026-10-16T00:00:00Z",
+      "og_image": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
+      "excerpt": "A T1-weighted structural MRI-based AI model differentiates Parkinson's disease from multiple system atrophy using routine clinical scans across multiple centers, avoiding costly research-grade multimodal MRI.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "An LLM pipeline turns free-text clinical notes into the structured phenotypes used to diagnose rare diseases. It targets a real diagnostic bottleneck for patients, and the open-access body can be fetched."
+      "rationale": "This multicenter model tells Parkinson's disease apart from multiple system atrophy using routine clinical T1 MRI, a hard differential diagnosis that otherwise needs research-grade scans. It is fresh, open access and comes with a figure image."
     },
     {
-      "url": "https://www.nature.com/articles/s41746-026-03378-8",
-      "title": "AI-based hourly prediction of emergency department demand integrating social determinants of health",
-      "source": "npj Digital Medicine",
+      "url": "https://www.medigatenews.com/news/1687364519",
+      "title": "[2026 국감] \"AI 시대에 의료영상 삭제, 재산 없앤 셈\"…심평원 데이터 관리 도마",
+      "source": "메디게이트뉴스",
       "category": "medicine",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "og_image": "",
-      "excerpt": "An AI model forecasts hourly ED arrivals using social determinants of health alongside temporal and weather signals, aiming at proactive ED staffing against crowding linked to delayed treatment and mortality.",
-      "source_lang": "en",
+      "published_iso": "2026-10-16T00:00:00+09:00",
+      "og_image": "https://medigatenews.com/file/news/534168",
+      "excerpt": "심평원이 저장공간 부족을 이유로 과거 의료영상 데이터를 삭제하고 삭제 기준·표준화도 갖추지 못한 사실이 16일 보건복지위 국정감사에서 질타를 받았다. 의료 AI 학습용 공공 원천데이터 관리 문제.",
+      "source_lang": "ko",
       "tool": "Medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "This model forecasts emergency-department arrivals hour by hour so hospitals can staff ahead of crowding, which is linked to delayed treatment and deaths. It is a hospital-operations use case, and the open-access body can be fetched."
+      "rationale": "At a National Assembly audit, Korea's health insurance review agency (HIRA) was criticised for deleting historical medical images to free up storage, with no deletion criteria. Those images are public source data for training medical AI, so this is regulator-level accountability."
     }
   ],
   "alternates": [
     {
-      "url": "https://www.medpagetoday.com/publichealthpolicy/medicaleducation/123439",
-      "title": "Are Med Students Cheating if They Use AI?",
-      "source": "MedPage Today",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600136",
+      "title": "Effect of Previsit AI-Generated Document Summaries on Consultation Time and Patient-Physician Communication (AI-INFO)",
+      "source": "NEJM AI",
       "category": "medicine",
-      "published_iso": "2026-10-15T17:04:00-04:00",
+      "published_iso": "2026-10-15T14:00:52Z",
       "og_image": "",
-      "excerpt": "At the AHCJ Fall Summit, Cedars-Sinai's Graciela Gonzalez-Hernandez argued AI use in medical school is not plagiarism and described an AI-friendly curriculum that teaches prompt construction.",
+      "excerpt": "NEJM AI original article (AI-INFO) testing whether AI-generated summaries of patient documents handed to physicians before the visit change consultation time and patient-physician communication. Abstract behind Cloudflare at collection time; online date verified via Crossref.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "Conference-talk reporting on AI in medical education. It is fresh, but it is a talk rather than a release or study, so it is the first alternate."
+      "rationale": "A strong clinical trial, but the abstract is Cloudflare-blocked and there is no image, so the excerpt is thin. First alternate."
     },
     {
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855493",
-      "title": "Announcing JAMA AI - A New Journal From the JAMA Network",
-      "source": "JAMA",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
+      "title": "Artificial Intelligence-Enhanced Auscultation to Identify Left Ventricular Dysfunction - Development and External Validation",
+      "source": "NEJM AI",
       "category": "medicine",
-      "published_iso": "2026-10-15T16:30:18Z",
+      "published_iso": "2026-10-15T14:01:36Z",
       "og_image": "",
-      "excerpt": "JAMA AI, the 14th JAMA Network journal, launches in early 2027 to publish clinical research on AI and computational tools applied to patient care.",
+      "excerpt": "NEJM AI original article developing and externally validating an AI-enhanced (digital stethoscope) auscultation model to flag left ventricular dysfunction at the point of care. Abstract behind Cloudflare at collection time; online date verified via Crossref.",
       "source_lang": "en",
       "tool": "Medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "A journal launch with no change to care, and the page is Cloudflare-blocked, so it is the second alternate."
+      "rationale": "A point-of-care diagnostic study, but it has the same thin-excerpt and no-image problem. Second alternate."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15837620/radiologists-llms-fail-at-spotting-aigenerated-chest-xrays": {
+      "https://ai.nejm.org/doi/full/10.1056/AIoa2600537": {
+        "verdict": "new",
+        "nearest": "https://www.nature.com/articles/s41746-026-03325-7",
+        "new_action": ""
+      },
+      "https://www.medigatenews.com/news/2062365725": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openevidence-drew-271m-queries-from-952000-clinicians-in-2-5-years/": {
-        "verdict": "new",
-        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
-        "new_action": ""
-      },
-      "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/": {
-        "verdict": "new",
-        "nearest": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
-        "new_action": ""
-      },
-      "https://www.nature.com/articles/s41746-026-03275-0": {
+      "https://radiologybusiness.com/topics/artificial-intelligence/radiology-department-uses-ai-identify-lung-cancer-screening-patients-ehr": {
         "verdict": "new",
         "nearest": "https://www.nature.com/articles/s41746-026-03346-2",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41746-026-03378-8": {
+      "https://www.nature.com/articles/s41746-026-03357-z": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.nature.com/articles/s41746-026-03339-1",
+        "new_action": ""
+      },
+      "https://www.medigatenews.com/news/1687364519": {
+        "verdict": "new",
+        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3013809",
         "new_action": ""
       }
     },
-    "note": "The pool had 18 candidates, no clusters and 3 history_match tags. DROPPED as the same story: (1) Radiology Business 'adapting adult radiology AI models to pediatric population' (related, 0.22). It reports on a Nature Biomedical Engineering paper that adapts adult chest x-ray AI to children using multi-hospital data that never leaves each site. That is the same paper and event as the 10-14 card on s41551-026-01812-6 (adult radiograph models repurposed for neonatal care through continual learning, international multicentre), and the news write-up carries nothing new. Earliest wins. (2) STAT Clairity direct-to-patient (likely-repeat, 0.423). This is the same Clairity consumer-access launch published 10-08 via AuntMinnie/Everlywell. (3) STAT 'AI sandboxes' newsletter (related, 0.198). This is behind-the-scenes commentary on the state-regulation lobbying story published 10-15 and reports no new decision. DROPPED as commentary or opinion: AuntMinnie HPI rebuttal on the radiology workforce; Becker's UChicago CMIO interview; Endpoints clinical-reasoning panel; MedCity 'agentic AI stripped down' op-ed; NEJM AI medical-education perspective. DROPPED as stale or low priority: AuntMinnie JACR turnaround study (10-08, 8 days old, and thematically near the 10-08 private-practice efficiency card); npj sepsis ICU-stay model (10-09; kept the fresher npj items instead); JAMA Network Open public-perceptions survey (Cloudflare-blocked, survey only). Alternates are MedPage med-student AI and the JAMA AI journal launch. The AMA framework is a distinct official release by the AMA, not a follow-up to STAT's 10-15 lobbying story, which covered state-level advocacy. Diversity: nature.com 2, auntminnie 1, beckershospitalreview 1, healthcaredive 1, for 4 distinct outlets. No pick touches biosecurity or gain-of-function."
+    "note": "The pool had 18 candidates and 4 history_match tags, with no clusters. DROPPED as the same story: (1) STAT Clairity direct-to-patient (likely-repeat, 0.473). This is the Clairity/Everlywell consumer launch already published 10-08 via AuntMinnie. (2) Radiology Business 'adapting adult radiology AI models to pediatric population' (untagged). It covers the same Nature BME paper published 10-14 (s41551-026-01812-6), and the 10-16 curator dropped it for the same reason. (3) STAT 'AI sandboxes' (related). This is commentary on the state-regulation lobbying story published 10-15, with no new decision. Parkinsonism MRI (related to the 10-08 Parkinson telerehab RCT) was KEPT: it is a different study and a different task (MRI differential diagnosis of PD vs MSA, not rehab). Riverain-on-platform (related to the 10-08 FDA bone-age card) is a different company and event, but it was dropped as stale (10-06) and as a distribution deal. DROPPED as lower priority: the NEJM AI AI-INFO and auscultation papers (thin Cloudflare-blocked excerpts, no image; kept as alternates); CPT codes for CCTA AI (10-09, explainer); osteoporosis CXR (10-09) and infant motion screening (10-08), passed over for fresher npj; 3billion ASHG (company conference presentations); careCycle Medicare tool (plan comparison, weak clinical tie); JAMA Netw Open public-perceptions survey (survey only, dropped on 10-16 too). Diversity: medigatenews 2, nejm 1, radiologybusiness 1, nature 1, for 4 distinct outlets. No pick touches biosecurity or gain-of-function."
   }
 }

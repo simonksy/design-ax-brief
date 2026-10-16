@@ -1071,6 +1071,138 @@
           "x": "Other pledges include cutting the scientific advice service from 90 to 45 days, halving the initial assessment target for qualifying Phase 1 trials to 14 days, and a Women's Health Plan."
         }
       ]
+    },
+    "medicine/medicine-seers-uae": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Seers, a wearable AI diagnostic monitoring company, said on the 16th that it has received approval from the Institutional Review Board (IRB) under the Abu Dhabi Department of Health (DoH) for the national health screening project it is pursuing with SEHA Clinics, the UAE's largest public healthcare network, and has begun the project in earnest."
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534058"
+        },
+        {
+          "t": "p",
+          "x": "The project is the final pilot for introducing AI arrhythmia screening into the national health screening program, which the UAE government provides to its citizens aged 40 and over 1 time per year. The UAE's national health screening currently does not include arrhythmia screening tests. Seers was selected as the sole contractor for the project through a tender late last year."
+        },
+        {
+          "t": "p",
+          "x": "Seers will run AI ECG screening based on mobiCARE™ for about 100 screening participants to verify clinical effectiveness and operational fit, with the goal of being applied exclusively in the national health screening program from next year. Once included, it could serve about 280,000 people aged 40 and over each year, and revenue attributable to Seers is expected to exceed $100 per test."
+        },
+        {
+          "t": "p",
+          "x": "Seers has verified clinical effectiveness with 3,000 examinees at 5 medical institutions, including Seoul National University Hospital, and operates AI arrhythmia screening at KMI Korea Medical Institute and the Korea Association of Health Promotion's Medicheck, among others. The company's strategy is to start with the UAE and expand the business to GCC (Gulf Cooperation Council) countries."
+        },
+        {
+          "t": "p",
+          "x": "Kim Sung-jong, vice president (CBO), said, \"We will successfully carry out this project to enter the UAE national health screening program and, building on that, expand our AI cardiovascular screening business to GCC countries.\""
+        }
+      ]
+    },
+    "medicine/medicine-uci-lung-nlp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+        },
+        {
+          "t": "p",
+          "x": "A radiology department is detailing how it uses natural language processing to help root out screening-eligible patients from the health system's electronic health record. Lung cancer screening uptake remains low at about 18% nationally, experts detail Oct. 12 in the Journal of the American College of Radiology."
+        },
+        {
+          "t": "p",
+          "x": "One key barrier is incomplete or inaccurate structured smoking history in the EHR. To address this, the University of California, Irvine, developed an NLP tool that extracts smoking info and identifies screening-eligible patients from free-text clinical notes."
+        },
+        {
+          "t": "p",
+          "x": "The retrospective study included nearly 28,000 patients aged 50 or older with almost 41,000 EHR notes from 2018 to 2023. A rule-based NLP pipeline was built from 50 manually reviewed notes and refined on a separate 2,000 notes. Against 2,000 human-annotated notes, NLP showed nearly 84% agreement on screening eligibility."
+        },
+        {
+          "t": "p",
+          "x": "\"NLP-derived smoking status and LCS eligibility demonstrated high concordance with manual review and identified more than three times as many screening-eligible patients as structured EHR data,\" corresponding author Gelareh Sadigh, MD, and colleagues concluded, calling NLP \"a practical and scalable approach\" that works \"without changing physician workflow.\""
+        }
+      ]
+    },
+    "medicine/medicine-parkinsonism-mri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Multimodal research-grade MRI scans show potential for differentiating Parkinson's disease (PD) from multiple system atrophy (MSA), but clinical translation is limited by cost, acquisition time, and processing burden. The authors developed a T1-weighted structural MRI-based machine learning model to differentiate Parkinsonism and generalized it to routine anisotropic 2D clinical MRI."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
+          "cap": "From multimodal benchmark to clinical signature, research-grade validation and the external clinical-MRI cohort."
+        },
+        {
+          "t": "p",
+          "x": "Using a multicenter cohort of 969 participants and a hierarchical discovery–verification–translation framework, a multimodal benchmark model achieved an AUROC of 0.98, while the streamlined unimodal T1-Top20 model achieved 0.93 for multiclass discrimination (healthy controls, PD, MSA)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
+          "cap": "ROC curves and the combined Top-20 feature set for final classification."
+        },
+        {
+          "t": "p",
+          "x": "For PD vs MSA, the frozen T1-Top20 model achieved a pooled AUROC of 0.88 in the external research-grade cohort (n = 227) and identified 19 of 25 who phenoconverted from idiopathic REM sleep behavior disorder to PD. The generalized model achieved a pooled AUROC of 0.84 in the clinical-MRI cohort (2D T1, n = 303)."
+        }
+      ]
+    },
+    "medicine/medicine-hira-image-deletion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534168",
+          "cap": "Photo: National Assembly Television"
+        },
+        {
+          "t": "p",
+          "x": "The Health Insurance Review and Assessment Service (HIRA) was rebuked at the National Assembly Health and Welfare Committee's parliamentary audit on the 16th after it emerged that it had deleted past medical imaging data, citing a lack of storage space, and had not properly put in place deletion criteria or data standardization."
+        },
+        {
+          "t": "p",
+          "x": "Rep. Kwon Chil-seung of the Democratic Party pressed HIRA on the volume of medical images it holds, saying, \"People call these days the AI era, but if you look at the substance, it is an era of fighting over data.\""
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534166",
+          "cap": "Photo: National Assembly Television"
+        },
+        {
+          "t": "p",
+          "x": "According to the data, medical image holdings were about 5 million to 13 million per year from 2021 to 2024, but reached about 230 million in 2025 and about 200 million in just the first 9 months of this year. Kwon said, \"That is because the medical images from before 2024 were deleted,\" estimating that about 90% of past data had in effect been deleted, and pointed out that there were no deletion criteria either."
+        },
+        {
+          "t": "p",
+          "x": "The data standardization rate stayed at about 1 to 3%, and a data demonstration lab that cost 2 billion won over 3 years has recorded 0 uses by outside AI developers since 2021. At the end of the questioning, critics also said it was \"as good as wiping out all of its assets.\""
+        },
+        {
+          "t": "p",
+          "x": "HIRA President Hong Seung-kwon acknowledged the storage problem and the lack of internal management standards, saying, \"We will standardize high-quality data that industry can use for AI training.\""
+        }
+      ]
+    },
+    "medicine/medicine-fake-cxr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Seoul National University Hospital tested whether humans and large language models can tell real chest x-rays from AI-generated ones, in a study published Oct. 13 in the Journal of Imaging Informatics in Medicine."
+        },
+        {
+          "t": "p",
+          "x": "The set held 160 chest x-rays: 40 real and 120 synthetic images from three AI pipelines. Two radiologists, two general practitioners and three LLMs (Gemini 3.5 Flash, GPT-4o, Claude 3.7 Sonnet) judged each one."
+        },
+        {
+          "t": "p",
+          "x": "Gemini 3.5 Flash (77.9% balanced accuracy) and the thoracic radiologist (75.8%) did best, with no significant difference; the general practitioners performed near chance. Radiologists caught diffusion-model images more often (82%–100%) than LLMs (32%–72%), while LLMs were more specific on real images. Overall agreement was poor (Fleiss' kappa 0.213)."
+        },
+        {
+          "t": "p",
+          "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
+        }
+      ]
     }
   }
 }

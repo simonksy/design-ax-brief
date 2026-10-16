@@ -1,142 +1,100 @@
 {
-  "section": "movies",
-  "now_iso": "2026-10-15T22:00:32Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Astra Studios Launches AstraLabs, Teams with VerSe on AI Pipeline",
-      "url": "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline",
-      "source": "AWN",
-      "published_iso": "2026-10-15T08:20:00-07:00",
-      "excerpt": "The Hombale Group-backed Astra Studios and Dailyhunt parent VerSe will co-develop and market an AI-native pipeline built on SparkStation that carries a production from script to distribution while keeping faces, wardrobe and locations consistent across shots; announced at MIPCOM.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081545-1000850912b.jpg?itok=TM6XK6lf",
-      "category": "movies"
-    },
-    {
-      "title": "Animation And VFX Leaders Discuss AI And Jobs At View Conference",
-      "url": "https://www.cartoonbrew.com/events/studio-executive-roundtable-view-conference-267928.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-10-15T14:26:57+00:00",
-      "excerpt": "At View Conference, executives from Sony Pictures Imageworks, ILM, Skydance, Cinesite and others discussed shifting pipelines and AI; ILM's Janet Lewin warned against treating AI as a 'magic bullet' while Opsis's Laurens Ehrmann said AI 'can compress execution time, but it cannot compress taste.'",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Hollywood Animation Directors On Distribution, Sequels, And AI",
-      "url": "https://www.cartoonbrew.com/events/view-conference-joel-crawford-januel-mercado-mckenna-harris-tyree-dillihay-267957.html",
-      "source": "Cartoon Brew",
-      "published_iso": "2026-10-15T16:54:47+00:00",
-      "excerpt": "At View, the directors of 'GOAT,' 'Forgotten Island' and 'Toy Story 5' discussed the box office, original storytelling and, unavoidably, AI's place in animation filmmaking.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Directors.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Critics Vindicate 'Artificial' After Messy Amazon MGM Breakup (and the Studios vs. Talent Wars Around AI Are Just Beginning)",
-      "url": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/",
-      "source": "Variety",
-      "published_iso": "2026-10-14T21:49:13+00:00",
-      "excerpt": "Luca Guadagnino's OpenAI drama 'Artificial' earned acclaim after Amazon MGM dropped it; Variety frames it as the opening of a wider studios-vs-talent fight over AI.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=563&crop=1",
-      "category": "movies"
-    },
-    {
-      "title": "Russell T Davies Calls BBC Boss' AI 'Doctor Who' Comment 'Clumsy' and Teases Show's Future",
-      "url": "https://variety.com/2026/tv/global/russell-t-davies-bbc-boss-ai-doctor-who-comment-clumsy-1236911048/",
-      "source": "Variety",
-      "published_iso": "2026-10-14T09:04:04+00:00",
-      "excerpt": "Outgoing 'Doctor Who' showrunner Russell T Davies called BBC director-general Matt Brittin's praise of an AI-generated 'Doctor Who' episode 'clumsy,' while confirming new production starts in 2027.",
-      "og_image": "https://variety.com/wp-content/uploads/2024/05/Doctor-Who-Season-1.jpg?w=1000&h=563&crop=1",
-      "category": "movies"
-    },
-    {
-      "title": "We Will Never 'Lie To The Audience' Over Artificial Intelligence, Says BBC Content Chief Kate Phillips",
-      "url": "https://deadline.com/2026/10/bbc-kate-phillips-on-ai-youtube-blue-planet-iii-1237155480/",
-      "source": "Deadline",
-      "published_iso": "2026-10-13T10:56:08+00:00",
-      "excerpt": "Speaking at MIPCOM after DG Matt Brittin called an AI-generated 'Doctor Who' episode 'pretty good,' BBC content chief Kate Phillips set out the broadcaster's line on AI disclosure, alongside YouTube strategy and 'Blue Planet III.'",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-      "category": "movies"
-    },
-    {
-      "title": "Tsui Hark Pays Emotional Tribute to Nansun Shi, Discusses New Projects and Reflects on AI at Lumière Festival",
-      "url": "https://variety.com/2026/film/global/tsui-hark-nansun-shi-new-projects-ai-1236908837/",
-      "source": "Variety",
-      "published_iso": "2026-10-12T10:26:57+00:00",
-      "excerpt": "At Lumière, Tsui Hark discussed new projects including a London comedy and a dreamlike future city, and the growing challenges for filmmakers in the age of AI.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/01-TSUI-HARK-Pathe-Dimanche-@Olivier-Chassignole.jpg?w=1000&h=563&crop=1",
-      "category": "movies"
-    },
-    {
-      "title": "Joseph Gordon-Levitt Says Instead of Being Afraid of AI, 'We Should Be Concerned About the People Building AI'",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/joseph-gordon-levitt-concern-people-building-ai-1236727031/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-10-10T22:48:07+00:00",
-      "excerpt": "Joseph Gordon-Levitt warned that AI models are 'being trained to hijack your intimacy,' urging creatives to focus on the companies building the technology.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-2258756988.jpg?crop=0px%2C357px%2C5994px%2C3358px&resize=1440%2C810",
-      "category": "movies"
-    },
-    {
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "source": "The Verge",
-      "published_iso": "2026-10-15T14:03:42+00:00",
-      "excerpt": "Social feeds are filling with AI-generated images of actors and stars, and Meta doesn't require labels for AI-generated still images, leaving performers' likenesses largely unprotected.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "category": "movies"
-    },
-    {
-      "title": "Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform",
-      "url": "https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark/",
-      "source": "Engadget",
-      "published_iso": "2026-10-15T12:00:00+00:00",
-      "excerpt": "Adobe has rearchitected Photoshop, Premiere and Substance 3D for NVIDIA's RTX Spark AI superchip, claiming roughly double speed for AI tasks including Premiere's AI-powered editing, effects and color grading.",
-      "og_image": "https://www.engadget.com/img/gallery/adobe-rebuilt-photoshop-and-premiere-for-nvidias-rtx-spark-platform/l-intro-1792065422.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Nvidia's Editor's Day: New Windows-based RTX Spark Computers",
-      "url": "https://postperspective.com/nvidias-editors-day-new-windows-based-rtx-spark-computers/",
-      "source": "postPerspective",
-      "published_iso": "2026-10-15T16:58:14+00:00",
-      "excerpt": "Mike McCarthy reports from Nvidia's Editor's Day on how RTX Spark laptops and desktops enable local AI processing for post-production editors and what that shift means for editing workflows.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Maxon's Fall 2026 Release Brings Bigger Worlds, Faster Workflows, and Major Updates",
-      "url": "https://nofilmschool.com/maxon-fall-2026-ecosystem-release",
-      "source": "No Film School",
-      "published_iso": "2026-10-15T19:30:03+00:00",
-      "excerpt": "Maxon's fall release adds Red Giant Scene Light, an AI-powered depth-aware relighting tool for live-action footage and CG renders after the shoot, plus an MCP server that lets AI agents drive Autograph.",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68441551&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
-      "category": "movies"
-    },
-    {
-      "title": "This Hack Fixes Your AI Character Consistency Issues (Pro Workflow)",
-      "url": "https://www.youtube.com/watch?v=ktEt4n9VlF4",
-      "source": "Curious Refuge",
-      "published_iso": "2026-10-13T14:10:48-07:00",
-      "excerpt": "Curious Refuge compares two popular AI character-consistency methods for AI filmmaking, with a written breakdown and prompts for building pro character sheets.",
-      "og_image": "https://i.ytimg.com/vi/ktEt4n9VlF4/maxresdefault.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Accounting for the New Economics of VFX",
-      "url": "https://vfxvoice.com/accounting-for-the-new-economics-of-vfx/",
-      "source": "VFX Voice",
-      "published_iso": "2026-10-06T15:56:11+00:00",
-      "excerpt": "VFX vendors are rethinking bids as AI raises per-artist output on roto and cleanup, alongside tax incentives and remote pipelines reshaping the economics of visual effects.",
-      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-12-2.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "How Asian Directors Wrap Kling AI Into Their Workflows (Partner Content)",
-      "url": "https://deadline.com/2026/10/worm-train-asian-directors-wrap-kling-ai-busan-1237155797/",
-      "source": "Deadline",
-      "published_iso": "2026-10-14T10:28:20+00:00",
-      "excerpt": "Sponsored partner content: writer-director Sung-Soo Kim's 'Worm Train,' made with Kling AI, launched at the Asian Contents & Film Market during Busan. Flag: advertorial and Busan-saturated.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/10/LinkedIn-1-Kling-AI-Photo-1500.jpg?w=1024",
-      "category": "movies"
-    }
-  ]
+ "date": "2026-10-17",
+ "section": "movies",
+ "generated_at": "2026-10-16T22:00:37Z",
+ "now_iso": "2026-10-16T22:00:37Z",
+ "window_hours": 336,
+ "count": 10,
+ "items": [
+  {
+   "title": "Adobe and NVIDIA Expand Collaboration to Further Optimize Agentic Creation With Its Flagship Tools",
+   "url": "https://nofilmschool.com/adobe-nvidia-partnership-expansion",
+   "source": "No Film School",
+   "published_iso": "2026-10-16T19:30:03+00:00",
+   "excerpt": "Adobe and NVIDIA continue to double down on AI with new optimizations for agentic creation in Adobe's flagship tools, including Photoshop, Premiere, Substance 3D, and more.",
+   "og_image": "https://nofilmschool.com/media-library/image.webp?id=68452943&width=1200&height=600&coordinates=144%2C0%2C144%2C0",
+   "category": "movies"
+  },
+  {
+   "title": "Alex Gibney on How a CGI Avatar Helped Simulate the Elon Musk Interview He Could Never Get",
+   "url": "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/",
+   "source": "IndieWire",
+   "published_iso": "2026-10-16T17:00:00+00:00",
+   "excerpt": "Alex Gibney explains using artificial intelligence to critique it in his documentary 'Musk', building a CGI avatar to simulate the Elon Musk interview he could never get.",
+   "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+   "category": "movies"
+  },
+  {
+   "title": "CorridorKey 2.0 just works...",
+   "url": "https://www.youtube.com/watch?v=godomkRXBLE",
+   "source": "Corridor Crew",
+   "published_iso": "2026-10-16T09:00:18-07:00",
+   "excerpt": "Corridor Crew shows off CorridorKey 2.0, the new version of the in-house keying tool behind their AI VFX workflow, which composites actors into scenes without a traditional green-screen pull. The video description is only 'This Weekend.', so the enrichment pass needs to confirm what is new in 2.0.",
+   "og_image": "https://i.ytimg.com/vi/godomkRXBLE/maxresdefault.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "Mark Wahlberg on using AI in film 'the right way' and being open to an AI clone carrying on his legacy",
+   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+   "source": "TechCrunch",
+   "published_iso": "2026-10-16T14:26:51+00:00",
+   "excerpt": "Actor and investor Mark Wahlberg says he's OK with AI in filmmaking if it's used 'to enhance what you're doing', and says he is open to an AI clone carrying on his legacy.",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
+   "category": "movies"
+  },
+  {
+   "title": "Comics Accuse Hot AI Fakes of Stealing Their Jokes Word for Word to Push OnlyFans Pages",
+   "url": "https://www.hollywoodreporter.com/business/digital/ai-comedians-stealing-stand-up-jokes-instagram-onlyfans-1236732931/",
+   "source": "The Hollywood Reporter",
+   "published_iso": "2026-10-16T12:32:38+00:00",
+   "excerpt": "Stand-up comics are calling out accounts where AI-generated 'comics' plagiarize their jokes word for word, sometimes for millions of views, to push OnlyFans pages: 'AI stole my joke and my outfit.' Deadline also covered it, at https://deadline.com/2026/10/comedians-ai-joke-theft-natalie-cuomo-olivia-carter-1237165762/.",
+   "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+   "category": "movies"
+  },
+  {
+   "title": "'Avatar: Fire and Ash' Composer and More Speak Out About AI at Ghent's WSA Film Music Days: 'We Must Continue to Defend Our Art'",
+   "url": "https://variety.com/2026/artisans/festivals/avatar-ai-ghent-wsa-film-music-days-1236910224/",
+   "source": "Variety",
+   "published_iso": "2026-10-16T06:28:01+00:00",
+   "excerpt": "At the World Soundtrack Awards, 'Avatar: Fire and Ash' composer Simon Franglen said the work of film composers and musicians can never be replicated by AI.",
+   "og_image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=563&crop=1",
+   "category": "movies"
+  },
+  {
+   "title": "Hollywood Animation Directors On Distribution, Sequels, And AI",
+   "url": "https://www.cartoonbrew.com/events/view-conference-joel-crawford-januel-mercado-mckenna-harris-tyree-dillihay-267957.html",
+   "source": "Cartoon Brew",
+   "published_iso": "2026-10-15T16:54:47+00:00",
+   "excerpt": "At View Conference, the directors of 'GOAT', 'Forgotten Island' and 'Toy Story 5' discussed the box office, original storytelling and, unavoidably, AI in animation production.",
+   "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Directors.jpg",
+   "category": "movies"
+  },
+  {
+   "title": "BBC's Kate Phillips On AI, YouTube & 'Blue Planet III': We Will Never 'Lie To The Audience'",
+   "url": "https://deadline.com/2026/10/bbc-kate-phillips-on-ai-youtube-blue-planet-iii-1237155480/",
+   "source": "Deadline",
+   "published_iso": "2026-10-13T10:56:08+00:00",
+   "excerpt": "At MIPCOM, BBC content chief Kate Phillips said the BBC will never 'lie to the audience' about AI. She spoke after DG Matt Brittin said he had been sent an AI-generated 'Doctor Who' episode and that it was 'pretty good'.",
+   "og_image": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+   "category": "movies"
+  },
+  {
+   "title": "Tilly Nollywood? African Filmmakers — Ready or Not — Get Set for the AI Revolution",
+   "url": "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/",
+   "source": "Variety",
+   "published_iso": "2026-10-12T18:36:57+00:00",
+   "excerpt": "Generative AI could transform filmmaking in Africa, but practical challenges across the continent abound.",
+   "og_image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=563&crop=1",
+   "category": "movies"
+  },
+  {
+   "title": "Tsui Hark Pays Emotional Tribute to Nansun Shi, Discusses New Projects and Reflects on AI at Lumière Festival (EXCLUSIVE)",
+   "url": "https://variety.com/2026/film/global/tsui-hark-nansun-shi-new-projects-ai-1236908837/",
+   "source": "Variety",
+   "published_iso": "2026-10-12T10:26:57+00:00",
+   "excerpt": "At Lumière, Tsui Hark discussed new projects, including a London comedy and a dreamlike future city, and the growing challenges for filmmakers in the age of AI.",
+   "og_image": "https://variety.com/wp-content/uploads/2026/10/01-TSUI-HARK-Pathe-Dimanche-@Olivier-Chassignole.jpg?w=1000&h=563&crop=1",
+   "category": "movies"
+  }
+ ]
 }

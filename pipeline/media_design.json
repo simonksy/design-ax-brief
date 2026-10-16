@@ -1,10 +1,33 @@
 {
-  "date": "2026-10-16",
-  "media": [
-    {"id": "design-figma-specs", "type": "image", "src": "pipeline/media/design-figma-specs.png"},
-    {"id": "design-bluesky-attie", "type": "image", "src": "pipeline/media/design-bluesky-attie.png"},
-    {"id": "design-lovable-models", "type": "video", "src": "pipeline/media/design-lovable-models.mp4", "poster": "pipeline/media/design-lovable-models.jpg"},
-    {"id": "design-flux3-klein", "type": "image", "src": "pipeline/media/design-flux3-klein.png"},
-    {"id": "design-hesai-kosmo", "type": "image", "src": "pipeline/media/design-hesai-kosmo.jpg"}
-  ]
+ "date": "2026-10-17",
+ "section": "design",
+ "media": [
+  {
+   "id": "design-figma-code-layers",
+   "type": "image",
+   "src": "pipeline/media/design-figma-code-layers.png"
+  },
+  {
+   "id": "design-krea3",
+   "type": "video",
+   "src": "pipeline/media/design-krea3.mp4",
+   "poster": "pipeline/media/design-krea3.jpg"
+  },
+  {
+   "id": "design-cursor-canvases",
+   "type": "video",
+   "src": "pipeline/media/design-cursor-canvases.mp4",
+   "poster": "pipeline/media/design-cursor-canvases.jpg"
+  },
+  {
+   "id": "design-vercel-ship",
+   "type": "image",
+   "src": "pipeline/media/design-vercel-ship.jpg"
+  },
+  {
+   "id": "design-human-in-loop",
+   "type": "image",
+   "src": "pipeline/media/design-human-in-loop.png"
+  }
+ ]
 }

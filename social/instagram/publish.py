@@ -258,11 +258,13 @@ def poll_plan(limit=600, start=POLL_START, cap=POLL_MAX):
 
 
 def api(path, params, method="GET", retries=3, soft=False):
-    data = urllib.parse.urlencode(params).encode()
+    query = urllib.parse.urlencode(params)
     url = f"{API}/{path}"
     for attempt in range(retries + 1):
-        req = (urllib.request.Request(url, data=data, method="POST") if method == "POST"
-               else urllib.request.Request(f"{url}?{data}"))
+        # GET 주소에는 문자열을 붙인다. bytes 를 끼우면 `?b'fields=…'` 가 되어
+        # 서버가 fields 를 버리고 id 만 돌려준다(publish_poll_test).
+        req = (urllib.request.Request(url, data=query.encode(), method="POST")
+               if method == "POST" else urllib.request.Request(f"{url}?{query}"))
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
                 return json.loads(r.read().decode())

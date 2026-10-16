@@ -8162,6 +8162,184 @@
           "x": "El autor cree que sustituirá a apps de un solo propósito cargadas de anuncios o suscripciones, como un registro de hábitos, un conversor o un temporizador. El gran atractivo: una app no tiene que ser comercialmente viable ni útil para nadie más. Solo tiene que funcionar para uno mismo."
         }
       ]
+    },
+    "gadgets/gadgets-brera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+        },
+        {
+          "t": "video",
+          "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Meta, la Pinacoteca di Brera y EssilorLuxottica han lanzado “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”, un piloto que explora cómo las gafas con AI pueden hacer el arte más accesible para personas ciegas o con baja visión, en colaboración con ANS, UICI y la Fondazione Istituto dei Ciechi di Milano."
+        },
+        {
+          "t": "p",
+          "x": "Más de un millón de personas en Italia son ciegas o tienen discapacidad visual. Las gafas con AI se han integrado en la app Grande Brera del museo, que incluye una audioguía desarrollada por ANS con el método DescriVedendo, que traduce en palabras las formas, la composición y los detalles visuales de una obra."
+        },
+        {
+          "t": "p",
+          "x": "Frente a una de las ocho obras seleccionadas, los visitantes pueden activar el reconocimiento de obras desde las gafas y escuchar la audiodescripción a través de los altavoces abiertos de la montura. Meta AI responde preguntas sobre el entorno, y Be My Eyes conecta a los visitantes con voluntarios y operadores videntes."
+        },
+        {
+          "t": "p",
+          "x": "El piloto se desarrolló mediante pruebas y consultas con personas ciegas y con discapacidad visual. La visita está disponible con reserva, y las gafas con AI pueden usarse de martes a viernes de 10:00 AM a 4:30 PM."
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxylang": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Samsung amplía la compatibilidad de idiomas de Galaxy AI y Bixby, y lleva estas experiencias a más usuarios en su propio idioma."
+        },
+        {
+          "t": "p",
+          "x": "Galaxy AI amplía la compatibilidad de idiomas a más funciones, empezando por las que traducen, transcriben y resumen. Call Assist, Note Assist, Interpreter y Transcript Assist incorporan ahora el húngaro y el malayo, con lo que funciones como Live Translate llegan a 24 idiomas."
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+          "cap": "Live Translate de una llamada en Malay-English (imagen simulada con fines ilustrativos; la UX/UI real puede variar.)"
+        },
+        {
+          "t": "p",
+          "x": "En otra parte de Galaxy AI, Now Nudge, que sugiere un siguiente paso pertinente según lo que aparece en pantalla, suma ocho idiomas y también llega a 24."
+        },
+        {
+          "t": "p",
+          "x": "Bixby es un agente del dispositivo que permite controlarlo de forma intuitiva mediante conversación natural. Los usuarios pueden pedir lo que necesitan con sus propias palabras, sin conocer el nombre exacto de un ajuste ni dónde encontrarlo en un menú. Con la incorporación del polaco, el tailandés y el vietnamita, Bixby admite ahora 12 idiomas, lo que permite a más usuarios de Galaxy controlar sus dispositivos con menos esfuerzo."
+        },
+        {
+          "t": "p",
+          "x": "Los nuevos idiomas de Bixby empezarán a desplegarse el 14 de octubre, y los nuevos idiomas de Galaxy AI llegarán en las próximas semanas."
+        }
+      ]
+    },
+    "gadgets/gadgets-siri": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+          "cap": "John Ternus, CEO de Apple, y la app de Siri en el iPhone"
+        },
+        {
+          "t": "p",
+          "x": "En una nueva entrevista con TIME, publicada el 15 de octubre, el CEO de Apple, John Ternus, explicó por qué la compañía adopta un enfoque distinto hacia la AI. En lugar de intentar crear el chatbot más inteligente, Apple apuesta por la información que ya está en tu iPhone."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+          "cap": "Logotipos de OpenAI y Apple"
+        },
+        {
+          "t": "p",
+          "x": "La nueva Siri usa un modelo de AI de Apple que se basa en la tecnología Gemini de Google. “We make the things where we can really bring differentiation” (hacemos las cosas en las que realmente podemos diferenciarnos), dijo Ternus a TIME."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+          "cap": "Apple Maps en un iPhone 17"
+        },
+        {
+          "t": "p",
+          "x": "Con permiso, Siri puede relacionar información entre las apps compatibles y usar ese contexto para completar tareas. Apple también ve oportunidades para que Siri interprete la información de salud recopilada por un Apple Watch."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+          "cap": "Siri AI de iOS 27 funcionando en un iPhone 17 Pro."
+        },
+        {
+          "t": "p",
+          "x": "Lilian Rincon, responsable de producto de AI de Apple, explicó que Siri se diseñó deliberadamente para no comportarse como un compañero de AI. Siri procesa las solicitudes en el dispositivo cuando es posible, y las más exigentes se gestionan mediante Private Cloud Compute."
+        },
+        {
+          "t": "p",
+          "x": "La cuestión es si Apple puede hacer que Siri sea lo bastante útil como para que los dueños de un iPhone dejen de recurrir a ChatGPT."
+        }
+      ]
+    },
+    "gadgets/gadgets-myfirst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+          "cap": "Serie myFirst"
+        },
+        {
+          "t": "p",
+          "x": "myFirst ha revelado más detalles de Insta magiCam e Insta magiBox, dos gadgets infantiles que combinan AI generativa con impresión instantánea. Los dispositivos se anunciaron esta semana, tras una primera aparición en IFA 2026."
+        },
+        {
+          "t": "p",
+          "x": "Insta magiCam es una cámara digital capaz de identificar lo que fotografía y responder preguntas sobre ello. Los niños también pueden transformar sus fotos en distintos estilos artísticos o describir una escena imaginaria para que la cámara la cree. Cuenta con cámaras frontal y trasera, resolución de foto de 16MP, grabación de video en 1080p y una pantalla IPS 3-inch. Su impresora térmica integrada produce fotografías, ilustraciones, dibujos para colorear y pegatinas sin necesidad de cartuchos de tinta."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+          "cap": "myFirst Insta magiCam"
+        },
+        {
+          "t": "p",
+          "x": "Por su parte, Insta magiBox adopta un enfoque algo distinto. Los niños describen una idea en voz alta y el dispositivo genera una ilustración en uno de seis estilos, como anime, dibujos animados o lápiz. También puede convertir una historia contada en un cómic de cuatro viñetas, lo que quizá dé un respiro a los padres que dibujan el mismo dinosaurio por decimoquinta vez."
+        },
+        {
+          "t": "p",
+          "x": "La impresora tiene una pantalla 2.8-inch, una batería de 1,300mAh y es compatible con 26 idiomas. Según myFirst, imprimir tarda unos 10 segundos una vez generada la imagen."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+          "cap": "myFirst Insta magicBox"
+        },
+        {
+          "t": "p",
+          "x": "La magiBox necesita conexión a internet para la generación con AI, aunque el smartphone solo se requiere durante la configuración. La empresa también promete filtros de contenido adecuados a la edad y protección de los datos de voz de los niños, pero su eficacia aún no se ha verificado de forma independiente."
+        },
+        {
+          "t": "p",
+          "x": "Ambos dispositivos figuran como próximamente disponibles, y el precio final y una disponibilidad más amplia aún están por confirmar."
+        }
+      ]
+    },
+    "gadgets/gadgets-bee": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+          "cap": "Imagen: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "Bee, el fabricante de wearables personales con AI de Amazon, anuncia sus primeros productos nuevos desde que el gigante minorista lo adquirió el año pasado: el Bee Frontier, que se puede llevar en la muñeca o prender en la ropa, y el Bee Eclipse, un dispositivo del tamaño de una tarjeta de crédito que se fija con imanes a la parte trasera del smartphone."
+        },
+        {
+          "t": "p",
+          "x": "El Bee Frontier cuesta $74.99 y el Bee Eclipse, $99.99: menos que el Plaud Note, de $159, o el Pocket, de $129."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+          "cap": "Imagen: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "Como el Bee original, los dispositivos usan AI para tomar notas de las conversaciones cotidianas y convertirlas en tareas, resúmenes e ideas; por ejemplo, crean una invitación de calendario para los planes que hiciste con amigos."
+        },
+        {
+          "t": "p",
+          "x": "Los resúmenes y 14 días de memoria son gratuitos; una suscripción a Bee Pro de $11.99 al mes añade resúmenes ilimitados e integraciones con Amazon.com, Alexa+ y apps de terceros."
+        },
+        {
+          "t": "p",
+          "x": "El audio sin procesar no se almacena: se procesa en tiempo real y se elimina, y las transcripciones se cifran con claves que controla el dispositivo. El Frontier ya está disponible en Amazon; el Eclipse llegará poco después."
+        }
+      ]
     }
   }
 }

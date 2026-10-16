@@ -1,79 +1,96 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "music",
   "picks": [
     {
-      "url": "https://arxiv.org/abs/2610.20310",
-      "source": "arXiv",
-      "title": "MUSEBENCH: A Benchmark for AI-Generated Music Detection and Artifact Analysis",
+      "url": "https://essential-japan.com/news/vocaloid7-officially-announced-just-6-months-after-hatsune-mikus-v6-debut/",
+      "source": "Essential Japan",
+      "title": "VOCALOID7 Officially Announced Just 6 Months After Hatsune Miku's V6 Debut",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "A 361K-track benchmark tests 11 AI-music detectors against Suno/Udio and 8 other generators and names the artifacts that give them away. This is the detection layer behind the labelling push now under way at YouTube Music, Deezer and Qobuz.",
-      "published_iso": "2026-10-14T14:57:38Z",
-      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "excerpt": "A 361K-track benchmark (human, Suno/Udio and eight other generators, human-AI co-creations, perturbed variants) tests 11 AI-music detectors. It identifies telltale artifacts such as non-idiomatic harmony, upsampling spectral periodicities and physically impossible performances."
+      "rationale": "Yamaha's VOCALOID7 ships a second-generation VOCALOID:AI singing engine on Nov 11 ($129), with AI Megpoid at launch and Miku V6 voicebanks planned. It is a concrete new release of a core vocal-synthesis tool.",
+      "published_iso": "2026-10-09T21:12:42+00:00",
+      "og_image": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp",
+      "excerpt": "Yamaha announced VOCALOID7 with a second-generation VOCALOID:AI singing engine, on sale Nov 11 ($129); AI Megpoid is the launch voicebank and Miku V6 VOCALOID7 voicebanks are planned."
     },
     {
-      "url": "https://arxiv.org/abs/2610.19445",
-      "source": "arXiv",
-      "title": "Point-and-Play: Instrument Timbre Cloning from Music Mixtures",
+      "url": "https://www.billboard.com/pro/umg-sony-demand-distrokid-admit-suno-song-uploads/",
+      "source": "Billboard",
+      "title": "UMG & Sony Demand DistroKid Tell How Many AI Songs It Uploads From Suno: 'Staggering Scale'",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Clones a cued instrument's timbre directly from a full mix, with no stem separation, and plays it at new pitches and velocities. It is a new method, separate from the LiveSynth paper published 10-13, and gives producers a sample-to-instrument workflow.",
-      "published_iso": "2026-10-14T02:34:44Z",
-      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "excerpt": "A system that clones a cued instrument's timbre straight from a fully mixed recording, skipping stem separation, and plays it at new pitches and velocities. It beats separate-then-clone baselines."
+      "rationale": "A new court filing: UMG and Sony ask a judge to compel DistroKid to disclose how many Suno-made tracks it pushes to streaming services. The labels' Suno litigation is now reaching the distribution layer.",
+      "published_iso": "2026-10-16T16:20:51+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+      "excerpt": "Universal Music Group and Sony Music asked a judge to force DistroKid to disclose how many AI songs it uploads from Suno to streaming services - a new discovery fight in the labels' Suno litigation that targets the distribution pipe for AI tracks."
     },
     {
-      "url": "https://www.billboard.com/music/rb-hip-hop/marsha-blackburn-kendrick-lamar-not-like-us-ai-video-slammed-1236360552/",
-      "source": "Billboard",
-      "title": "Sen. Marsha Blackburn Slammed for 'Cringe' AI Video of Her as Kendrick Lamar Performing 'Not Like Us' at Super Bowl",
+      "url": "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
+      "source": "Music Ally",
+      "title": "Duke Sanford study explores AI-music encounters on Spotify",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "A sitting U.S. senator, and a lead voice on AI likeness legislation, posted an AI video that puts her into Kendrick Lamar's Super Bowl performance. It is a concrete new case of artist-likeness use in AI media.",
-      "published_iso": "2026-10-14T16:18:24+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-      "excerpt": "U.S. Sen. Marsha Blackburn was criticised on social media for posting an AI video of herself performing Kendrick Lamar's \"Not Like Us\" at the Super Bowl. The item is about AI music likeness and deepfakes."
+      "rationale": "Duke's Tech Policy Program ran its own AI-music detection to measure how often Spotify listeners actually run into AI tracks. It is new independent data on a question the platforms are not answering themselves.",
+      "published_iso": "2026-10-16T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2025/10/Spotify-logo-black-on-white.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "'Spotify won't label AI music. We tried to detect it ourselves': the Duke Sanford Tech Policy Program ran its own detection to measure how often listeners actually encounter AI-generated tracks on Spotify."
     },
     {
-      "url": "https://www.hypebot.com/what-should-music-awards-recognize-in-the-age-of-ai/",
-      "source": "Hypebot",
-      "title": "What Should Music Awards Recognize in the Age of AI?",
+      "url": "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
+      "source": "The Bureau of Investigative Journalism",
+      "title": "Spotify labels AI artists after Bureau investigation",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Proposes judging the human creative decisions behind AI-assisted work and asks awards bodies to adopt AI-disclosure rules. It is a framework argument, not a news event, and is distinct from the 09-20 AI Music Awards story.",
-      "published_iso": "2026-10-15T14:09:07.000Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png",
-      "excerpt": "An opinion piece arguing that awards should judge the human creative decisions behind AI-assisted work, and that awards bodies need transparency rules on AI use."
+      "rationale": "Spotify's 'AI Persona' badges are now live worldwide on synthetic acts such as Bones, days after TBIJ questioned the policy. This is the rollout itself, not the August announcement, and it follows the Deezer and YouTube Music labelling moves.",
+      "published_iso": "2026-10-15T16:00:00+01:00",
+      "og_image": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1200,height=630,quality=82,format=auto,fit=cover/filestore/images/Danny-Bones-Spotify-Misaligned.png?mtime=1792059341",
+      "excerpt": "Spotify's 'AI Persona' badges are now visibly rolling out globally, with Bones among the labelled acts, days after the Bureau of Investigative Journalism questioned its synthetic-artist policy."
+    },
+    {
+      "url": "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/",
+      "source": "Attack Magazine",
+      "title": "Who's Buying All These Vibe-Coded Plugins?",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "A market long-read on whether AI-built audio plugins are actually selling, with two developers explaining how they use AI to build plugins. It is a demand-side look at the trend, separate from the Google vibe-coding tool story of 10-10.",
+      "published_iso": "2026-10-15T23:02:15+00:00",
+      "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/10/3b83c303-dcf6-4d40-bb9a-7def2f026386-800x274.png",
+      "excerpt": "Vibe-coded plugins are everywhere, but are they actually taking over the market? Attack looks at the trend and talks to two developers who use AI as part of their plugin-building process."
     }
   ],
   "dedup": {
     "checks": {
-      "https://arxiv.org/abs/2610.20310": {
+      "https://essential-japan.com/news/vocaloid7-officially-announced-just-6-months-after-hatsune-mikus-v6-debut/": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.09075",
+        "nearest": "https://www.soundonsound.com/news/resing-voices-vol-2-ik-multimedia",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2610.19445": {
+      "https://www.billboard.com/pro/umg-sony-demand-distrokid-admit-suno-song-uploads/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+        "new_action": "New discovery motion filed 10-16: UMG and Sony ask the court to compel DistroKid to disclose the volume of Suno-generated uploads it distributes (the 10-11 card covered DistroKid's quiet takedowns; the 09-20 card covered UMG's valuation claim)."
+      },
+      "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.13054",
+        "nearest": "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/",
         "new_action": ""
       },
-      "https://www.billboard.com/music/rb-hip-hop/marsha-blackburn-kendrick-lamar-not-like-us-ai-video-slammed-1236360552/": {
-        "verdict": "new",
-        "nearest": "https://www.billboard.com/pro/riaa-ceo-midterms-ai-deepfakes-trump-botr/",
-        "new_action": ""
+      "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation": {
+        "verdict": "follow-up",
+        "nearest": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+        "new_action": "Spotify's 'AI Persona' badges are now visibly rolling out worldwide on named synthetic acts. This is the live deployment, distinct from the August policy announcement, which is outside the 30-day digest."
       },
-      "https://www.hypebot.com/what-should-music-awards-recognize-in-the-age-of-ai/": {
+      "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/": {
         "verdict": "new",
-        "nearest": "https://djmag.com/news/ai-artists-set-perform-live-first-ai-music-awards-los-angeles",
+        "nearest": "https://www.synthtopia.com/content/2026/10/07/google-wants-you-to-vibe-code-audio-plugins/",
         "new_action": ""
       }
     },
-    "note": "DROPPED: (1) Music Ally 'Suno-made track The Adult I Dreamed Of is a hit in South Korea'. This is the same running event as the isplus card of 10-05, 'AI 작곡·보컬 노래가 결국 음원차트 1위가 됐다' (an AI-composed, AI-sung song tops the Korean charts). On 10-15 the curator already treated the JTBC follow-up as the same story, and Music Ally only adds chart positions, not a new event. Its tagged history_match (Komca 09-22) is a different story. (2) Music Ally 'Deezer lets users hide AI music; Playhead...': the Deezer half ran 10-14 (MBW) and the Playhead half ran 09-19 (BPB). likely-repeat. (3) Hypebot Rocketship: its public beta opened 2026-05-16, and the orchestrator dropped it as stale on 10-15. (4) The Verge 'Nobody is safe from celebrity AI deepfakes' is assigned to MOVIES today under the cross-section rule. (5) Music Ally Audiotool hackathon: the 10-15 enrichment found only 2 of 6 winners are AI, so it fails the AI-relevance test. (6) arXiv FLOMSS: dropped only to keep at most 2 cards per outlet (arXiv already has 2). It is fresh and is the first reserve. (7) Billboard A$AP Rocky AI stance and Billboard Olivia Rodrigo AI stance are celebrity reaction quotes with no new event. The section has already run several of these (Clarkson, Questlove, Bonamassa, Fred again..). Rodrigo is also 9 days old. Kept as low-priority reserves and not used, to avoid padding. Shipping 4 picks from 3 outlets (arXiv x2, Billboard, Hypebot), all in the music category, so each pick gets its own palette accent. Blackburn was passed over on 10-15 as fitting politics better. It has not been published in any section, so it is not a duplicate, but the orchestrator should confirm politics did not also pick it today."
+    "note": "DROPPED: (1) Hypebot Rocketship: stale (public beta opened 2026-05) and already dropped on 10-15 and 10-16. (2) Billboard A$AP Rocky AI stance: a celebrity reaction quote with no new event, and the section has run many of these (Clarkson, Questlove, Bonamassa, Fred again..). (3) Music Ally ICMP on Australian AI rules: a reaction in the same Australian AI-copyright policy story as the 10-07 ARIA card (musically.com/2026/10/06/aria-boss-warns...). No new government decision, so it is held back as a running-story reaction. RESERVES (fresh, unused only because of the cap and outlet spread): arXiv FLOMSS (its history_match, the 09-23 stem-separation tool roundup, is a different story), arXiv MIDI-REPA, arXiv reference-free pitch correction. arXiv has filled 2 cards a day recently, so today's picks favour news. Duke study and Spotify badges are both about AI labelling on Spotify but are separate events (an independent detection study and a platform rollout). Diversity: 5 picks from 5 outlets, each with its own palette accent. Essential Japan and TBIJ are off-list outlets. The VOCALOID7 primary source is automaton-media.com, and enrichment should confirm the price and date there."
   }
 }

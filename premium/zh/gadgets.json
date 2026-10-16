@@ -7374,6 +7374,184 @@
           "x": "作者认为，它将取代那些塞满广告或订阅的单一用途应用，比如习惯追踪器、换算器或计时器。最大的卖点在于：应用不必具备商业价值，也不必被其他人需要，只要对你自己有用就行。"
         }
       ]
+    },
+    "gadgets/gadgets-brera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+        },
+        {
+          "t": "video",
+          "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Meta、Pinacoteca di Brera与EssilorLuxottica推出了“Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”（发现目之所及以外的杰作）试点项目，与ANS、UICI及Fondazione Istituto dei Ciechi di Milano合作，探索AI眼镜如何让盲人和低视力人群更容易接触艺术。"
+        },
+        {
+          "t": "p",
+          "x": "意大利有超过一百万名盲人或视障人士。AI眼镜已与博物馆的Grande Brera应用集成，该应用包含ANS采用DescriVedendo方法开发的语音导览，把艺术品的形状、构图和视觉细节转化为口述文字。"
+        },
+        {
+          "t": "p",
+          "x": "在八件入选作品中的任意一件前，参观者可以通过眼镜启动作品识别，并经由镜框中的开放式扬声器收听语音讲解。Meta AI可回答有关周围环境的问题，Be My Eyes则将参观者与明眼志愿者和接线员连接起来。"
+        },
+        {
+          "t": "p",
+          "x": "该试点项目经过与盲人和视障人士的测试与咨询后开发而成。导览需预约，AI眼镜的开放时间为周二至周五10:00 AM至4:30 PM。"
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxylang": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Samsung正在扩大Galaxy AI和Bixby的语言支持，让更多用户能以自己的语言使用这些体验。"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy AI正在把语言支持扩展到更多功能，首先是翻译、转写和摘要类功能。Call Assist、Note Assist、Interpreter和Transcript Assist现已加入匈牙利语和马来语，Live Translate等功能由此支持24种语言。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+          "cap": "Malay-English通话的Live Translate（图片为示意模拟，实际UX/UI可能有所不同。）"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy AI中的另一项功能Now Nudge会根据屏幕内容推荐相关的下一步操作，它新增了八种语言，同样达到24种。"
+        },
+        {
+          "t": "p",
+          "x": "Bixby是一款设备代理，可通过自然对话直观地控制设备。用户无需知道设置的确切名称或它在菜单中的位置，就能用自己的话提出需求。新增波兰语、泰语和越南语后，Bixby现支持12种语言，让更多Galaxy用户更轻松地控制设备。"
+        },
+        {
+          "t": "p",
+          "x": "Bixby的新语言将于October 14开始推送，Galaxy AI的新语言将在未来几周内跟进。"
+        }
+      ]
+    },
+    "gadgets/gadgets-siri": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+          "cap": "Apple CEO John Ternus与iPhone上的Siri应用"
+        },
+        {
+          "t": "p",
+          "x": "在October 15发布的TIME最新专访中，Apple CEO John Ternus解释了公司为何对AI采取不同的路线。Apple没有试图打造最聪明的聊天机器人，而是押注已经存放在你iPhone上的信息。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+          "cap": "OpenAI与Apple标志"
+        },
+        {
+          "t": "p",
+          "x": "新版Siri采用了一款借助Google的Gemini技术的Apple AI模型。Ternus告诉TIME：“We make the things where we can really bring differentiation”（我们做能真正带来差异化的东西）。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+          "cap": "iPhone 17上的Apple Maps"
+        },
+        {
+          "t": "p",
+          "x": "在获得许可后，Siri可以把各支持应用中的信息关联起来，并利用这些上下文完成任务。Apple还看到了让Siri解读Apple Watch所收集健康信息的机会。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+          "cap": "在iPhone 17 Pro上运行的iOS 27 Siri AI。"
+        },
+        {
+          "t": "p",
+          "x": "Apple的AI产品负责人Lilian Rincon解释说，Siri被刻意设计成不像AI伴侣那样行事。Siri会尽可能在设备端处理请求，要求更高的请求则交由Private Cloud Compute处理。"
+        },
+        {
+          "t": "p",
+          "x": "问题在于，Apple能否让Siri足够好用，让iPhone用户从一开始就不再去找ChatGPT。"
+        }
+      ]
+    },
+    "gadgets/gadgets-myfirst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+          "cap": "myFirst系列"
+        },
+        {
+          "t": "p",
+          "x": "myFirst公布了Insta magiCam和Insta magiBox的更多细节，这两款儿童小工具将生成式AI与即时打印相结合。继此前亮相IFA 2026之后，两款设备于本周正式发布。"
+        },
+        {
+          "t": "p",
+          "x": "Insta magiCam是一款数码相机，能识别所拍对象并回答相关问题。孩子们还可以把照片转换成不同的艺术风格，或描述一个想象中的场景，让相机把它创作出来。相机配备前后摄像头、16MP照片分辨率、1080p视频录制和3-inch IPS显示屏。内置热敏打印机无需墨盒，即可打印照片、插画、涂色画和贴纸。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+          "cap": "myFirst Insta magiCam"
+        },
+        {
+          "t": "p",
+          "x": "Insta magiBox则采取了略有不同的思路。孩子大声描述一个想法，设备就会以动漫、卡通、铅笔画等六种风格之一生成插画。它还能把口述的故事变成四格漫画，或许能让父母不必第十五次画同一只恐龙。"
+        },
+        {
+          "t": "p",
+          "x": "这款打印机配备2.8-inch显示屏、1,300mAh电池，并支持26种语言。据myFirst介绍，图像生成后打印约需10秒。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+          "cap": "myFirst Insta magicBox"
+        },
+        {
+          "t": "p",
+          "x": "magiBox需要联网才能进行AI生成，不过只有在设置时才需要智能手机。该公司还承诺提供适龄内容过滤和儿童语音数据保护措施，但其效果尚未经过独立验证。"
+        },
+        {
+          "t": "p",
+          "x": "两款设备均标注为即将推出，最终定价和更大范围的上市时间尚待确认。"
+        }
+      ]
+    },
+    "gadgets/gadgets-bee": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+          "cap": "图片来源：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "Amazon旗下的个人AI可穿戴设备制造商Bee发布了自去年被这家零售巨头收购以来的首批新品：可戴在手腕上或别在衣服上的Bee Frontier，以及可通过磁吸贴在智能手机背面、信用卡大小的Bee Eclipse。"
+        },
+        {
+          "t": "p",
+          "x": "Bee Frontier售价$74.99，Bee Eclipse售价$99.99，比$159的Plaud Note或$129的Pocket更便宜。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+          "cap": "图片来源：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "与初代Bee一样，这两款设备利用AI记录日常对话，并将其整理为待办事项、摘要和洞察，例如为你与朋友约定的计划创建日历邀请。"
+        },
+        {
+          "t": "p",
+          "x": "摘要功能和14天记忆免费；每月$11.99的Bee Pro订阅可提供无限摘要，并支持与Amazon.com、Alexa+及第三方应用集成。"
+        },
+        {
+          "t": "p",
+          "x": "原始音频不会被存储：音频实时处理后即被删除，转录文本则用设备掌控的密钥加密。Frontier现已在Amazon上市，Eclipse随后不久推出。"
+        }
+      ]
     }
   }
 }

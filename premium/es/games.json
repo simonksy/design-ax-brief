@@ -7290,6 +7290,110 @@
           "x": "La noticia llega después de que el CEO Tim Sweeney anunciara un “gran giro” para “reorganizarse con vistas a la máxima aceleración con AI”. La vista previa está disponible en Windows, Mac y Linux, el launcher anterior sigue disponible y Epic también planea llevar Fortnite a Linux a través de la app."
         }
       ]
+    },
+    "games/games-drunken-goddess": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Drunken Goddess Reflux es un juego de terror de estilo anime en el que juegas a la ruleta rusa con un demonio. Iba a recibir una demo gratuita durante el Steam Next Fest de la próxima semana, pero los desarrolladores han descartado ese plan por culpa de la AI generativa."
+        },
+        {
+          "t": "p",
+          "x": "\"Hemos decidido cancelar el lanzamiento público de la demo de Drunken Goddess Reflux, previsto originalmente para el lunes 19 de octubre, y en su lugar celebraremos una sesión de juego cerrada para un número limitado de participantes\", escribió en Steam el desarrollador Alliance Arts."
+        },
+        {
+          "t": "p",
+          "x": "Restringir las retransmisiones y los videos de juego habría sido demasiado poco práctico de hacer cumplir para un equipo de su tamaño. \"Nos preocupa que, a partir del contenido de la demo, se puedan producir rápidamente con AI u otras herramientas obras que imiten o reproduzcan la presentación y la jugabilidad de este juego, y que se publiquen antes de su lanzamiento\", escribió el equipo."
+        },
+        {
+          "t": "video",
+          "yt": "SRFDW2Pm9nk"
+        },
+        {
+          "t": "p",
+          "x": "La página de Steam del juego ya supera los 25,000 seguidores y ocupa el puesto 65 entre los juegos más añadidos a listas de deseos. Kotaku señala que herramientas de AI como Claude Opus han sacudido el mundo de los videojuegos este mes, mientras ports, mezclas y prototipos hechos con vibe coding inundan las redes sociales."
+        }
+      ]
+    },
+    "games/games-sakurai-originality": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Masahiro Sakurai, creador de las series Kirby y Super Smash Bros, opinó sobre la AI generativa en una conversación con el medio japonés Denfaminico Gamer. Señala que la originalidad ya no suele vender como antes: es más difícil destacar, y todavía más difícil atraer al público."
+        },
+        {
+          "t": "p",
+          "x": "Eso hace tentador recurrir a géneros e ideas ya establecidos, y ahí es donde la AI se vuelve insidiosa. La tecnología solo se nutre de lo que ya existe y no puede crear algo nuevo, así que los juegos con mecánicas muy trilladas son un blanco ideal para una imitación hecha con gen-AI."
+        },
+        {
+          "t": "p",
+          "x": "Pone como ejemplo Librarian, lanzado el pasado abril: su sencillez lo hace presa fácil de la AI porque sus elementos básicos son fáciles de entender y readaptar. La AI y el vibe-coding han agravado la vieja práctica de los asset flips y los reskins."
+        },
+        {
+          "t": "p",
+          "x": "Sakurai no distingue entre estudios indie y grandes, y cree que la mayoría de estos proyectos morirán en el olvido."
+        }
+      ]
+    },
+    "games/games-vibe-coding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los \"ports\" para navegador, los mods de mezcla y los avances en el jailbreak de PlayStation se remontan al lanzamiento de Claude Opus 5.5 de Anthropic el 22 de septiembre, y los registros DMCA de GitHub están plagados de retiradas solicitadas por editoras. Kotaku preguntó al exjefe de AI de Take-Two, Dr Luke Dicken, y al director ejecutivo de Godot Engine, Emilio Coppola, hacia dónde se dirige la industria."
+        },
+        {
+          "t": "p",
+          "x": "\"Esta nueva ola de descompilar y portar es sin duda algo que desarrolladores y editoras deben tomarse en serio\", dijo Dicken, que prevé \"DRM más invasivos, soluciones a nivel de plataforma y probablemente un mayor impulso hacia las soluciones de streaming\"."
+        },
+        {
+          "t": "video",
+          "yt": "r_ScnjXsxTM"
+        },
+        {
+          "t": "p",
+          "x": "Coppola afirmó que \"la carga debería recaer en las plataformas que permiten este tipo de comportamiento\", como Steam, que deja que actores malintencionados vendan clones de baja calidad. Ha oído que muchos desarrolladores tienen ahora demasiado miedo de compartir versiones de acceso anticipado de sus juegos."
+        },
+        {
+          "t": "p",
+          "x": "Ambos coincidieron en que la AI no puede sustituir la creatividad. \"La AI puede clonar un juego\", dijo Dicken, \"pero lo que no puede hacer es encontrar la diversión de lo siguiente\"."
+        }
+      ]
+    },
+    "games/games-decompdev-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con la escena de la decompilación y la recompilación inundada de basura de AI de baja calidad, el desarrollador Luke \"encounter\" Street cierra decomp.dev, un sitio que seguía la laboriosa decompilación hecha por personas de decenas de juegos clásicos con un medidor de porcentaje que avanzaba hacia el 100%."
+        },
+        {
+          "t": "p",
+          "x": "\"Ahora está claro que, con la orientación adecuada, la intervención humana y revisiones de código, la AI puede acelerar de forma significativa el proceso de decompilación\", escribe Street. \"Lo que también está claro ahora es que el aspecto comunitario de la decompilación se ha roto\"."
+        },
+        {
+          "t": "p",
+          "x": "Los abusos incluyen hacer forks de proyectos existentes para \"terminarlos\" con AI, y oportunistas que se apresuran a publicar \"un port a medio hacer, que apenas funciona\" mientras los miembros de la comunidad se esfuerzan por decompilar un juego."
+        },
+        {
+          "t": "p",
+          "x": "Street afirma que la tabla de clasificación gamificada se ha convertido en \"un juego de números vacío\" y que decomp.dev como índice público \"ahora está causando más daño que beneficio\"."
+        }
+      ]
     }
   }
 }

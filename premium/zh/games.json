@@ -7163,6 +7163,110 @@
           "x": "此前，CEO Tim Sweeney宣布进行“重大转向”，以“为最大程度的AI加速进行重整”。预览版可在Windows、Mac和Linux上使用，旧版启动器仍可使用，Epic还计划通过该应用把Fortnite带到Linux。"
         }
       ]
+    },
+    "games/games-drunken-goddess": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Drunken Goddess Reflux是一款动漫风恐怖游戏，玩家要与恶魔玩俄罗斯轮盘赌。它原定在下周的Steam Next Fest期间推出免费试玩版，但开发者因生成式AI放弃了这一计划。"
+        },
+        {
+          "t": "p",
+          "x": "“我们决定取消原定于10月19日（星期一）公开发布的Drunken Goddess Reflux试玩版，改为面向有限人数的参与者举办封闭试玩会，”开发商Alliance Arts在Steam上写道。"
+        },
+        {
+          "t": "p",
+          "x": "对这样规模的团队来说，限制直播和游戏视频难以落实。团队写道：“我们担心，基于试玩版的内容，模仿或复制本作表现形式与玩法的作品可能会借助AI或其他工具迅速制作出来，并抢在本作发售前推出。”"
+        },
+        {
+          "t": "video",
+          "yt": "SRFDW2Pm9nk"
+        },
+        {
+          "t": "p",
+          "x": "该作的Steam页面已有超过25,000名关注者，在愿望单热门游戏中排名第65位。Kotaku指出，随着氛围编程制作的移植版、混搭作品和原型在社交媒体上泛滥，Claude Opus等AI工具在本月颠覆了游戏界。"
+        }
+      ]
+    },
+    "games/games-sakurai-originality": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kirby与Super Smash Bros系列的创作者樱井政博（Masahiro Sakurai）在与日本媒体Denfaminico Gamer的对谈中谈到了生成式AI。他指出，原创性已不像过去那样好卖：脱颖而出更难，让玩家买账更是难上加难。"
+        },
+        {
+          "t": "p",
+          "x": "这让人很容易退回到成熟的类型和创意上，而AI的阴险之处正在于此。这项技术只能借鉴已有的东西，无法创造新事物，因此玩法套路陈旧的游戏就成了gen-AI仿制品的首要目标。"
+        },
+        {
+          "t": "p",
+          "x": "他以今年4月发布的Librarian为例：其基础元素易于理解和改造，这种简单性正好被AI利用。AI和氛围编程加剧了资产翻转和换皮这种老做法。"
+        },
+        {
+          "t": "p",
+          "x": "樱井并不区分独立工作室和大型工作室，他认为这类项目大多会默默无闻地消亡。"
+        }
+      ]
+    },
+    "games/games-vibe-coding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "浏览器“移植版”、混搭模组以及PlayStation越狱的进展，都可以追溯到Anthropic于9月22日发布的Claude Opus 5.5，而GitHub的DMCA日志里满是发行商提交的下架请求。Kotaku采访了Take-Two前AI负责人Dr Luke Dicken和Godot Engine执行董事Emilio Coppola，询问行业接下来将走向何方。"
+        },
+        {
+          "t": "p",
+          "x": "“这股反编译加移植的新浪潮，绝对是开发者和发行商需要认真对待的事情，”Dicken说。他预测会出现“更具侵入性的DRM、平台层面的解决方案，可能还会进一步转向串流方案”。"
+        },
+        {
+          "t": "video",
+          "yt": "r_ScnjXsxTM"
+        },
+        {
+          "t": "p",
+          "x": "Coppola表示，“责任应该落在助长这类行为的平台身上”，比如允许不良行为者出售低质量克隆作品的Steam。他听说，许多开发者如今因过于焦虑而不敢分享游戏的抢先体验版本。"
+        },
+        {
+          "t": "p",
+          "x": "两人都认为AI无法取代创造力。“AI可以克隆一款游戏，”Dicken说，“但它做不到的，是找到下一个作品的乐趣。”"
+        }
+      ]
+    },
+    "games/games-decompdev-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+        },
+        {
+          "t": "p",
+          "x": "随着反编译与重编译圈子被低质量的AI垃圾内容淹没，开发者Luke \"encounter\" Street将关闭decomp.dev。该网站以一个向100%推进的百分比进度条，记录了数十款经典游戏由人工精心完成的反编译进程。"
+        },
+        {
+          "t": "p",
+          "x": "“现在已经很清楚，在恰当的引导、人工投入和代码审查下，AI可以显著加快反编译进程，”Street写道，“同样清楚的是，反编译的社区属性已经被破坏了。”"
+        },
+        {
+          "t": "p",
+          "x": "滥用行为包括分叉现有项目再用AI将其“完成”，以及在社区成员辛苦反编译某款游戏时，投机者抢先发布“半生不熟、勉强能运行的移植版”。"
+        },
+        {
+          "t": "p",
+          "x": "Street表示，游戏化的排行榜已经扭曲成“空洞的数字游戏”，而作为公共索引的decomp.dev“如今弊大于利”。"
+        }
+      ]
     }
   }
 }

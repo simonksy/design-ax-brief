@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "books",
   "cards": [
     {
-      "id": "books-anthropic-hankang",
-      "source_lang": "ko",
-      "tool": "Books",
+      "id": "books-authors-guild-ai",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "앤트로픽 불법 목록에\n한강 '소년이 온다'",
-      "body": "앤트로픽이 불법 다운로드한 도서 목록에 한국 작품 최소 15건이 포함됐다.",
-      "mini_headline": "앤트로픽 목록에 한강 작품",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20102152",
+      "headline": "Authors Guild\n출판사 AI 지침 발표",
+      "body": "Authors Guild 출판사용 AI 지침의 최대 우려는 불완전한 AI 탐지기다.",
+      "mini_headline": "Authors Guild AI 지침",
+      "tool": "Books",
+      "source": "Publishers Weekly",
+      "url": "http://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101557-authors-guild-issues-ai-guidelines-for-publishers.html",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,355 +19,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-            "cap": "로이터연합뉴스"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
           },
           {
             "t": "p",
-            "x": "미국 AI 기업 앤트로픽이 2021~2022년 불법 디지털 복제본을 다운로드한 목록에 한강의 ‘소년이 온다’를 포함해 황석영·신경숙 등 한국 작가의 작품 최소 15건이 포함된 것으로 드러났다. 앤트로픽은 보상하라는 미국 법원의 판결에 따라 한강 등 국내 작가들에게 보상을 제안한 것으로 파악됐다."
+            "x": "작가가 AI를 썼다는 의혹을 들어 출판사들이 출간을 잇달아 취소하는 와중에, Authors Guild가 AI 탐지기와 공개되지 않은 AI 사용에 대처하는 출판사용 지침과 모범 관행을 내놨다. Guild가 오월 작가들에게 내놓은 비슷한 목록의 후속편으로, 목표는 “작가와 출판사 간 상호 신뢰를 보장하는 것”이다."
           },
           {
             "t": "p",
-            "x": "소송 위험에 직면하자 앤트로픽은 도서 구매로 전략을 바꿨다. 2024년 전 세계 실물 서적을 사들여 스캔하는 ‘파나마 프로젝트’를 시작했고, 한국에서는 최대 도서유통업체 웅진북센과 ‘수천 권 단위’ 구매 계약을 진행했다. 웅진 측은 “앤트로픽과 계약한 것은 맞다”고 확인했다."
-          },
-          {
-            "t": "img",
-            "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-            "cap": "‘AI 저작권 침해’ 소송 추이와 앤트로픽 저작권 합의 대상 한국 작가"
+            "x": "가장 큰 걱정거리는 Guild가 “불완전한 AI 탐지기”라 부르는 도구가 갈수록 많이 쓰이는 현실이다. 출판사는 “언제, 왜 AI 탐지기를 사용하는지 완전히 투명하게 밝혀야” 하며, 원고를 외부 서비스에 올리기 전에 텍스트가 보관되거나 학습에 쓰이지 않는지 확인하고 작가의 허락을 받아야 한다."
           },
           {
             "t": "p",
-            "x": "이는 ‘바츠 대 앤트로픽’ 소송과 연관돼 있다. 미국 캘리포니아북부지방법원은 합법 구매 서적 학습은 공정 이용으로 봤지만 불법 복제본은 저작권 침해로 판단했다. 앤트로픽은 약 50만 권을 대상으로 총 15억 달러(약 2조 2000억 원) 합의금을 지불하기로 확정했고, 다음 달 15일부터 지급할 계획이다."
+            "x": "“어떤 출판사나 에이전트, 그 밖의 누구도 책에 AI 텍스트가 들어 있는지 판단할 때 AI 탐지기에만 의존해서는 안 된다. AI 탐지기는 최고 수준이라도 늘 정확하지는 않다.”"
           },
           {
             "t": "p",
-            "x": "출판 업계 관계자는 “현행 저작권법상 판매는 가능하지만 그것으로 AI 학습을 시키는 것은 별개의 문제”라며 “아직 국내에는 관련 규정이 공백 상태”라고 지적했다."
+            "x": "Guild는 “모든 출판사가 서면 AI 정책을 채택해야 한다”며, 작가가 AI 사용을 명확히 금지한 계약이나 정책에 서명하고 이를 어긴 경우가 아니면 AI 사용을 이유로 계약을 취소해서는 안 된다고 밝혔다. Guild는 “작가에게 집필 과정을 추적하거나 기록하는 기술 사용을 요구하는 것에 반대한다”면서도 의혹을 받은 작가가 스스로 이를 쓰겠다고 하면 지지한다고 했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "앤트로픽 불법 목록에\n한강 '소년이 온다'",
-          "body": "앤트로픽이 불법 다운로드한 도서 목록에 한국 작품 최소 15건이 포함됐다.",
-          "mini_headline": "앤트로픽 목록에 한강 작품",
+        "en": {
+          "headline": "Authors Guild issues AI\nguidelines for publishers",
+          "body": "The Authors Guild's AI guidelines for publishers name imperfect AI detectors used against authors as a top concern.",
+          "mini_headline": "Authors Guild AI rules",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-                "cap": "로이터연합뉴스"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
               },
               {
                 "t": "p",
-                "x": "미국 AI 기업 앤트로픽이 2021~2022년 불법 디지털 복제본을 다운로드한 목록에 한강의 ‘소년이 온다’를 포함해 황석영·신경숙 등 한국 작가의 작품 최소 15건이 포함된 것으로 드러났다. 앤트로픽은 보상하라는 미국 법원의 판결에 따라 한강 등 국내 작가들에게 보상을 제안한 것으로 파악됐다."
+                "x": "As publishers continue to cancel books over allegations of AI use by writers, the Authors Guild has created a set of guidelines and best practices for publishers relating to AI detectors and dealing with undisclosed AI use. They follow a similar list the Guild created for authors in May, with the goal “to ensure mutual trust between authors and publishers.”"
               },
               {
                 "t": "p",
-                "x": "소송 위험에 직면하자 앤트로픽은 도서 구매로 전략을 바꿨다. 2024년 전 세계 실물 서적을 사들여 스캔하는 ‘파나마 프로젝트’를 시작했고, 한국에서는 최대 도서유통업체 웅진북센과 ‘수천 권 단위’ 구매 계약을 진행했다. 웅진 측은 “앤트로픽과 계약한 것은 맞다”고 확인했다."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-                "cap": "‘AI 저작권 침해’ 소송 추이와 앤트로픽 저작권 합의 대상 한국 작가"
+                "x": "A top concern is the growing use of what the Guild calls “imperfect AI detectors.” Publishers should “be fully transparent about when and why they use AI detectors,” and before uploading manuscripts to a third-party service should confirm the text will not be retained or used for training, and obtain the author’s permission."
               },
               {
                 "t": "p",
-                "x": "이는 ‘바츠 대 앤트로픽’ 소송과 연관돼 있다. 미국 캘리포니아북부지방법원은 합법 구매 서적 학습은 공정 이용으로 봤지만 불법 복제본은 저작권 침해로 판단했다. 앤트로픽은 약 50만 권을 대상으로 총 15억 달러(약 2조 2000억 원) 합의금을 지불하기로 확정했고, 다음 달 15일부터 지급할 계획이다."
+                "x": "“No publisher, agent, or other person should rely solely on an AI detector to determine if a book contains AI text. AI detectors—even the best—are not always accurate.”"
               },
               {
                 "t": "p",
-                "x": "출판 업계 관계자는 “현행 저작권법상 판매는 가능하지만 그것으로 AI 학습을 시키는 것은 별개의 문제”라며 “아직 국내에는 관련 규정이 공백 상태”라고 지적했다."
+                "x": "The Guild also says “every publisher should adopt a written AI policy,” and that no publisher should cancel a contract over AI use unless the author violated a signed contract or policy that clearly prohibits it. It “opposes any requirement that authors use technologies that track or log their writing process,” though it supports writers who choose to use them if accused."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Han Kang's 'Human Acts' on\nAnthropic's pirated list",
-          "body": "At least 15 Korean works were on the list of books Anthropic illegally downloaded.",
-          "mini_headline": "Han Kang on Anthropic's list",
+        "ko": {
+          "headline": "Authors Guild\n출판사 AI 지침 발표",
+          "body": "Authors Guild 출판사용 AI 지침의 최대 우려는 불완전한 AI 탐지기다.",
+          "mini_headline": "Authors Guild AI 지침",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-                "cap": "Reuters/Yonhap News"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
               },
               {
                 "t": "p",
-                "x": "At least 15 works by Korean authors, including Han Kang’s ‘Human Acts’ and works by Hwang Sok-yong and Shin Kyung-sook, were found on the list of illegal digital copies that U.S. AI company Anthropic downloaded in 2021~2022. Anthropic is understood to have offered compensation to Han Kang and other Korean authors, following a U.S. court ruling ordering it to compensate them."
+                "x": "작가가 AI를 썼다는 의혹을 들어 출판사들이 출간을 잇달아 취소하는 와중에, Authors Guild가 AI 탐지기와 공개되지 않은 AI 사용에 대처하는 출판사용 지침과 모범 관행을 내놨다. Guild가 오월 작가들에게 내놓은 비슷한 목록의 후속편으로, 목표는 “작가와 출판사 간 상호 신뢰를 보장하는 것”이다."
               },
               {
                 "t": "p",
-                "x": "Facing litigation risk, Anthropic shifted its strategy to buying books. In 2024 it launched ‘Project Panama’ to buy and scan physical books from around the world, and in Korea it pursued a purchase contract ‘in units of thousands of books’ with Woongjin Booxen, the country’s largest book distributor. Woongjin confirmed, “It is true that we signed a contract with Anthropic.”"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-                "cap": "Trends in ‘AI copyright infringement’ lawsuits and the Korean authors covered by Anthropic’s copyright settlement"
+                "x": "가장 큰 걱정거리는 Guild가 “불완전한 AI 탐지기”라 부르는 도구가 갈수록 많이 쓰이는 현실이다. 출판사는 “언제, 왜 AI 탐지기를 사용하는지 완전히 투명하게 밝혀야” 하며, 원고를 외부 서비스에 올리기 전에 텍스트가 보관되거나 학습에 쓰이지 않는지 확인하고 작가의 허락을 받아야 한다."
               },
               {
                 "t": "p",
-                "x": "This is tied to the ‘Bartz v. Anthropic’ lawsuit. The U.S. District Court for the Northern District of California found that training on legally purchased books was fair use, but that pirated copies were copyright infringement. Anthropic has finalized a settlement totaling $1.5 billion (about 2.2 trillion won) covering about 500,000 books, and plans to begin payments on the 15th of next month."
+                "x": "“어떤 출판사나 에이전트, 그 밖의 누구도 책에 AI 텍스트가 들어 있는지 판단할 때 AI 탐지기에만 의존해서는 안 된다. AI 탐지기는 최고 수준이라도 늘 정확하지는 않다.”"
               },
               {
                 "t": "p",
-                "x": "A publishing industry official noted, “Under current copyright law, selling them is allowed, but using them to train AI is a separate matter,” adding, “There are still no relevant rules in Korea; it is a blank.”"
+                "x": "Guild는 “모든 출판사가 서면 AI 정책을 채택해야 한다”며, 작가가 AI 사용을 명확히 금지한 계약이나 정책에 서명하고 이를 어긴 경우가 아니면 AI 사용을 이유로 계약을 취소해서는 안 된다고 밝혔다. Guild는 “작가에게 집필 과정을 추적하거나 기록하는 기술 사용을 요구하는 것에 반대한다”면서도 의혹을 받은 작가가 스스로 이를 쓰겠다고 하면 지지한다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Anthropic違法目録に\n韓江『少年が来る』",
-          "body": "Anthropicが違法ダウンロードした書籍に韓国作品が少なくとも15件含まれていた。",
-          "mini_headline": "Anthropicの目録に韓江作品",
+          "headline": "Authors Guild\n出版社向けAI指針を公表",
+          "body": "Authors Guildの出版社向けAI指針は、不完全なAI検出器を最大の懸念に挙げた。",
+          "mini_headline": "Authors Guild AI指針",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-                "cap": "ロイター/聯合ニュース"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
               },
               {
                 "t": "p",
-                "x": "米AI企業Anthropicが2021~2022年に違法なデジタル複製本をダウンロードしたリストに、韓江の『少年が来る』をはじめ、黄晳暎、申京淑ら韓国作家の作品が少なくとも15件含まれていたことが明らかになった。Anthropicは補償を命じた米国の裁判所の判決に従い、韓江ら韓国の作家に補償を提案したとみられる。"
+                "x": "作家によるAI使用の疑いを理由に出版社が本の刊行を取り消す事例が続くなか、Authors GuildはAI検出器と開示されていないAI使用への対応について、出版社向けのガイドラインとベストプラクティスをまとめた。これはGuildが五月に作家向けに作成した同様のリストに続くもので、目標は「作家と出版社の相互信頼を確保すること」だという。"
               },
               {
                 "t": "p",
-                "x": "訴訟リスクに直面したAnthropicは、書籍の購入へと戦略を転換した。2024年には世界中の紙の書籍を買い取ってスキャンする「パナマ・プロジェクト」を始め、韓国では最大の書籍流通会社ウンジン・ブックセンと「数千冊単位」の購入契約を進めた。ウンジン側は「Anthropicと契約したのは事実だ」と認めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-                "cap": "「AI著作権侵害」訴訟の推移と、Anthropicの著作権和解の対象となった韓国作家"
+                "x": "最大の懸念は、Guildが「不完全なAI検出器」と呼ぶツールの利用拡大だ。出版社は「AI検出器をいつ、なぜ使うのかについて完全に透明であるべき」であり、原稿を第三者のサービスにアップロードする前に、テキストが保存されたり学習に使われたりしないことを確認し、作家の許可を得る必要がある。"
               },
               {
                 "t": "p",
-                "x": "これは「Bartz対Anthropic」訴訟と関連している。米カリフォルニア北部地区連邦地裁は、合法的に購入した書籍での学習はフェアユースと認めたが、違法な複製本は著作権侵害と判断した。Anthropicは約50万冊を対象に総額15億ドル(約2兆2000億ウォン)の和解金を支払うことを確定し、来月15日から支払いを始める予定だ。"
+                "x": "「出版社、エージェント、その他いかなる者も、本にAIのテキストが含まれているかを判断する際にAI検出器だけに頼るべきではない。AI検出器は、最良のものであっても常に正確とは限らない」"
               },
               {
                 "t": "p",
-                "x": "出版業界の関係者は「現行の著作権法上、販売は可能だが、それでAIに学習させるのは別の問題だ」とし、「国内ではまだ関連規定が空白の状態だ」と指摘した。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Han Kang, en la lista ilegal\nde libros de Anthropic",
-          "body": "La lista de libros que Anthropic descargó ilegalmente incluye al menos 15 obras coreanas.",
-          "mini_headline": "Han Kang en la lista de Anthropic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-                "cap": "Reuters/Yonhap"
-              },
-              {
-                "t": "p",
-                "x": "Se ha revelado que la lista de copias digitales ilegales que la empresa estadounidense de AI Anthropic descargó en 2021~2022 incluye al menos 15 obras de autores coreanos, entre ellas ‘Actos humanos’, de Han Kang, y obras de Hwang Sok-yong y Shin Kyung-sook. Según se ha sabido, Anthropic ha ofrecido una compensación a Han Kang y a otros autores coreanos en cumplimiento de un fallo de un tribunal de EE. UU. que le ordenó compensarlos."
-              },
-              {
-                "t": "p",
-                "x": "Ante el riesgo de litigios, Anthropic cambió su estrategia hacia la compra de libros. En 2024 puso en marcha el ‘Proyecto Panamá’ para comprar y escanear libros físicos de todo el mundo, y en Corea negoció un contrato de compra ‘por miles de ejemplares’ con Woongjin Booxen, la mayor distribuidora de libros del país. Woongjin confirmó: “Es cierto que firmamos un contrato con Anthropic”."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-                "cap": "Evolución de las demandas por ‘infracción de derechos de autor por AI’ y autores coreanos incluidos en el acuerdo de derechos de autor de Anthropic"
-              },
-              {
-                "t": "p",
-                "x": "Esto está relacionado con la demanda ‘Bartz contra Anthropic’. El Tribunal de Distrito de EE. UU. para el Distrito Norte de California consideró uso legítimo el entrenamiento con libros comprados legalmente, pero calificó de infracción de derechos de autor las copias ilegales. Anthropic ha cerrado un acuerdo por un total de 1.500 millones de dólares (unos 2,2 billones de wones) por unos 500.000 libros, y prevé empezar a pagar el día 15 del mes próximo."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable del sector editorial señaló: “Según la ley de derechos de autor vigente, venderlos está permitido, pero usarlos para entrenar a la AI es otra cuestión”, y añadió: “En el país todavía hay un vacío normativo al respecto”."
+                "x": "Guildはまた「すべての出版社は書面によるAIポリシーを採用すべきだ」とし、作家がAI使用を明確に禁じる契約やポリシーに署名し、それに違反した場合を除き、AI使用を理由に契約を取り消すべきではないと述べた。さらに「作家に執筆過程を追跡・記録する技術の使用を求めるいかなる要件にも反対する」としつつ、疑いをかけられた作家が自らそれを使うことを選ぶ場合は支持するという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Anthropic盗版书单中\n有韩江《少年来了》",
-          "body": "Anthropic非法下载的图书清单中，至少包含15部韩国作品。",
-          "mini_headline": "Anthropic书单中有韩江作品",
+          "headline": "Authors Guild\n发布出版商AI指南",
+          "body": "Authors Guild的出版商AI指南把针对作者的不完善AI检测器列为首要担忧。",
+          "mini_headline": "Authors Guild AI指南",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-                "cap": "路透联合新闻"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
               },
               {
                 "t": "p",
-                "x": "美国AI企业Anthropic于2021~2022年下载非法数字副本的清单中，被发现包含韩江的《少年来了》以及黄晳暎、申京淑等韩国作家的至少15部作品。据悉，Anthropic已根据美国法院要求赔偿的判决，向韩江等韩国作家提出赔偿。"
+                "x": "在出版商因作者涉嫌使用AI而接连取消图书出版之际，Authors Guild针对AI检测工具及未披露的AI使用问题，为出版商制定了一套指南和最佳实践。此前Guild曾于五月为作者制定过类似清单，目标是“确保作者与出版商之间的相互信任”。"
               },
               {
                 "t": "p",
-                "x": "面临诉讼风险后，Anthropic将策略转向购买图书。2024年，它启动了在全球收购实体书并进行扫描的“巴拿马项目”，在韩国则与最大图书流通商熊津北森推进了“以数千册为单位”的采购合同。熊津方面确认：“与Anthropic签约属实。”"
+                "x": "首要担忧是Guild所称的“不完善的AI检测工具”使用日益增多。出版商应当“对何时以及为何使用AI检测工具保持完全透明”，并在将书稿上传至第三方服务之前，确认文本不会被保留或用于训练，同时征得作者许可。"
               },
+              {
+                "t": "p",
+                "x": "“任何出版商、经纪人或其他人都不应仅凭AI检测工具来判断一本书是否含有AI文本。AI检测工具——即便是最好的——也并非总是准确。”"
+              },
+              {
+                "t": "p",
+                "x": "Guild还表示“每家出版商都应采用书面AI政策”，并称除非作者违反了已签署且明确禁止AI使用的合同或政策，否则任何出版商都不应以使用AI为由取消合同。Guild“反对任何要求作者使用追踪或记录其写作过程的技术的规定”，但支持被指控的作者自行选择使用这类技术。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Authors Guild publica guías\nde AI para editoriales",
+          "body": "Las guías de AI del Authors Guild para editoriales sitúan los detectores de AI imperfectos como principal inquietud.",
+          "mini_headline": "Reglas de AI del Authors Guild",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-                "cap": "“AI版权侵权”诉讼进展与Anthropic版权和解所涉韩国作家"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
               },
               {
                 "t": "p",
-                "x": "此事与“巴茨诉Anthropic”案有关。美国加利福尼亚北区联邦地方法院认为，用合法购买的书籍进行训练属于合理使用，但盗版副本构成版权侵权。Anthropic已确定针对约50万册图书支付总计15亿美元（约22000亿韩元）的和解金，计划从下月15日起开始支付。"
+                "x": "Mientras las editoriales siguen cancelando libros por acusaciones de uso de AI por parte de escritores, el Authors Guild ha elaborado un conjunto de pautas y buenas prácticas para editoriales sobre los detectores de AI y el manejo del uso no declarado de AI. Siguen a una lista similar que el Guild creó para autores en mayo, con el objetivo de «garantizar la confianza mutua entre autores y editoriales»."
               },
               {
                 "t": "p",
-                "x": "一位出版业人士指出：“按照现行著作权法，销售是可以的，但用它来训练AI是另一回事”，“目前韩国国内相关规定仍处于空白状态”。"
+                "x": "La principal preocupación es el creciente uso de lo que el Guild llama «detectores de AI imperfectos». Las editoriales deberían «ser totalmente transparentes sobre cuándo y por qué usan detectores de AI» y, antes de subir manuscritos a un servicio externo, confirmar que el texto no se conservará ni se usará para entrenamiento, y obtener el permiso del autor."
+              },
+              {
+                "t": "p",
+                "x": "«Ninguna editorial, agente u otra persona debería basarse únicamente en un detector de AI para determinar si un libro contiene texto de AI. Los detectores de AI, incluso los mejores, no siempre son precisos»."
+              },
+              {
+                "t": "p",
+                "x": "El Guild también afirma que «toda editorial debería adoptar una política de AI por escrito» y que ninguna editorial debería cancelar un contrato por uso de AI salvo que el autor haya incumplido un contrato firmado o una política que lo prohíba claramente. Se «opone a cualquier requisito de que los autores usen tecnologías que rastreen o registren su proceso de escritura», aunque apoya a los escritores que decidan usarlas si son acusados."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Han Kang's 'Human Acts' on\nAnthropic's pirated list",
-          "body": "At least 15 Korean works were on the list of books Anthropic illegally downloaded.",
-          "mini_headline": "Han Kang on Anthropic's list",
+        "ko": {
+          "headline": "Authors Guild\n출판사 AI 지침 발표",
+          "body": "Authors Guild 출판사용 AI 지침의 최대 우려는 불완전한 AI 탐지기다.",
+          "mini_headline": "Authors Guild AI 지침",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-                "cap": "Reuters/Yonhap News"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
               },
               {
                 "t": "p",
-                "x": "At least 15 works by Korean authors, including Han Kang’s ‘Human Acts’ and works by Hwang Sok-yong and Shin Kyung-sook, were found on the list of illegal digital copies that U.S. AI company Anthropic downloaded in 2021~2022. Anthropic is understood to have offered compensation to Han Kang and other Korean authors, following a U.S. court ruling ordering it to compensate them."
+                "x": "작가의 AI 사용 의혹을 이유로 출판사들이 책 출간을 잇달아 취소하는 가운데, Authors Guild가 AI 탐지기와 공개되지 않은 AI 사용 대응에 관한 출판사용 지침과 모범 관행을 마련했다. 이는 Guild가 오월 작가들을 위해 만든 비슷한 목록에 이은 것으로, 목표는 “작가와 출판사 간 상호 신뢰를 보장하는 것”이다."
               },
               {
                 "t": "p",
-                "x": "Facing litigation risk, Anthropic shifted its strategy to buying books. In 2024 it launched ‘Project Panama’ to buy and scan physical books from around the world, and in Korea it pursued a purchase contract ‘in units of thousands of books’ with Woongjin Booxen, the country’s largest book distributor. Woongjin confirmed, “It is true that we signed a contract with Anthropic.”"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-                "cap": "Trends in ‘AI copyright infringement’ lawsuits and the Korean authors covered by Anthropic’s copyright settlement"
+                "x": "가장 큰 우려는 Guild가 “불완전한 AI 탐지기”라고 부르는 도구의 사용이 늘고 있다는 점이다. 출판사는 “언제, 왜 AI 탐지기를 사용하는지 완전히 투명하게 밝혀야” 하며, 원고를 외부 서비스에 올리기 전에 텍스트가 보관되거나 학습에 쓰이지 않는지 확인하고 작가의 허락을 받아야 한다."
               },
               {
                 "t": "p",
-                "x": "This is tied to the ‘Bartz v. Anthropic’ lawsuit. The U.S. District Court for the Northern District of California found that training on legally purchased books was fair use, but that pirated copies were copyright infringement. Anthropic has finalized a settlement totaling $1.5 billion (about 2.2 trillion won) covering about 500,000 books, and plans to begin payments on the 15th of next month."
+                "x": "“어떤 출판사나 에이전트, 그 밖의 누구도 책에 AI 텍스트가 들어 있는지 판단할 때 AI 탐지기에만 의존해서는 안 된다. AI 탐지기는 최고 수준이라도 늘 정확하지는 않다.”"
               },
               {
                 "t": "p",
-                "x": "A publishing industry official noted, “Under current copyright law, selling them is allowed, but using them to train AI is a separate matter,” adding, “There are still no relevant rules in Korea; it is a blank.”"
+                "x": "Guild는 또 “모든 출판사가 서면 AI 정책을 채택해야 한다”며, 작가가 AI 사용을 명확히 금지한 계약이나 정책에 서명하고 이를 어긴 경우가 아니면 AI 사용을 이유로 계약을 취소해서는 안 된다고 밝혔다. Guild는 “작가에게 집필 과정을 추적하거나 기록하는 기술 사용을 요구하는 것에 반대한다”면서도, 의혹을 받은 작가가 스스로 이를 쓰기로 선택하는 경우는 지지한다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Anthropic違法目録に\n韓江『少年が来る』",
-          "body": "Anthropicが違法ダウンロードした書籍に韓国作品が少なくとも15件含まれていた。",
-          "mini_headline": "Anthropicの目録に韓江作品",
+          "headline": "Authors Guild\n出版社向けAI指針を公表",
+          "body": "Authors Guildの出版社向けAI指針は、不完全なAI検出器を最大の懸念に挙げた。",
+          "mini_headline": "Authors Guild AI指針",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-                "cap": "ロイター/聯合ニュース"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
               },
               {
                 "t": "p",
-                "x": "米AI企業Anthropicが2021~2022年に違法なデジタル複製本をダウンロードしたリストに、韓江の『少年が来る』をはじめ、黄晳暎、申京淑ら韓国作家の作品が少なくとも15件含まれていたことが明らかになった。Anthropicは補償を命じた米国の裁判所の判決に従い、韓江ら韓国の作家に補償を提案したとみられる。"
+                "x": "作家によるAI使用の疑いを理由に出版社が本の刊行を取り消す事例が続くなか、Authors GuildはAI検出器と開示されていないAI使用への対応について、出版社向けのガイドラインとベストプラクティスをまとめた。これはGuildが五月に作家向けに作成した同様のリストに続くもので、目標は「作家と出版社の相互信頼を確保すること」だという。"
               },
               {
                 "t": "p",
-                "x": "訴訟リスクに直面したAnthropicは、書籍の購入へと戦略を転換した。2024年には世界中の紙の書籍を買い取ってスキャンする「パナマ・プロジェクト」を始め、韓国では最大の書籍流通会社ウンジン・ブックセンと「数千冊単位」の購入契約を進めた。ウンジン側は「Anthropicと契約したのは事実だ」と認めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-                "cap": "「AI著作権侵害」訴訟の推移と、Anthropicの著作権和解の対象となった韓国作家"
+                "x": "最大の懸念は、Guildが「不完全なAI検出器」と呼ぶツールの利用拡大だ。出版社は「AI検出器をいつ、なぜ使うのかについて完全に透明であるべき」であり、原稿を第三者のサービスにアップロードする前に、テキストが保存されたり学習に使われたりしないことを確認し、作家の許可を得る必要がある。"
               },
               {
                 "t": "p",
-                "x": "これは「Bartz対Anthropic」訴訟と関連している。米カリフォルニア北部地区連邦地裁は、合法的に購入した書籍での学習はフェアユースと認めたが、違法な複製本は著作権侵害と判断した。Anthropicは約50万冊を対象に総額15億ドル(約2兆2000億ウォン)の和解金を支払うことを確定し、来月15日から支払いを始める予定だ。"
+                "x": "「出版社、エージェント、その他いかなる者も、本にAIのテキストが含まれているかを判断する際にAI検出器だけに頼るべきではない。AI検出器は、最良のものであっても常に正確とは限らない」"
               },
               {
                 "t": "p",
-                "x": "出版業界の関係者は「現行の著作権法上、販売は可能だが、それでAIに学習させるのは別の問題だ」とし、「国内ではまだ関連規定が空白の状態だ」と指摘した。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Han Kang, en la lista ilegal\nde libros de Anthropic",
-          "body": "La lista de libros que Anthropic descargó ilegalmente incluye al menos 15 obras coreanas.",
-          "mini_headline": "Han Kang en la lista de Anthropic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-                "cap": "Reuters/Yonhap"
-              },
-              {
-                "t": "p",
-                "x": "Se ha revelado que la lista de copias digitales ilegales que la empresa estadounidense de AI Anthropic descargó en 2021~2022 incluye al menos 15 obras de autores coreanos, entre ellas ‘Actos humanos’, de Han Kang, y obras de Hwang Sok-yong y Shin Kyung-sook. Según se ha sabido, Anthropic ha ofrecido una compensación a Han Kang y a otros autores coreanos en cumplimiento de un fallo de un tribunal de EE. UU. que le ordenó compensarlos."
-              },
-              {
-                "t": "p",
-                "x": "Ante el riesgo de litigios, Anthropic cambió su estrategia hacia la compra de libros. En 2024 puso en marcha el ‘Proyecto Panamá’ para comprar y escanear libros físicos de todo el mundo, y en Corea negoció un contrato de compra ‘por miles de ejemplares’ con Woongjin Booxen, la mayor distribuidora de libros del país. Woongjin confirmó: “Es cierto que firmamos un contrato con Anthropic”."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-                "cap": "Evolución de las demandas por ‘infracción de derechos de autor por AI’ y autores coreanos incluidos en el acuerdo de derechos de autor de Anthropic"
-              },
-              {
-                "t": "p",
-                "x": "Esto está relacionado con la demanda ‘Bartz contra Anthropic’. El Tribunal de Distrito de EE. UU. para el Distrito Norte de California consideró uso legítimo el entrenamiento con libros comprados legalmente, pero calificó de infracción de derechos de autor las copias ilegales. Anthropic ha cerrado un acuerdo por un total de 1.500 millones de dólares (unos 2,2 billones de wones) por unos 500.000 libros, y prevé empezar a pagar el día 15 del mes próximo."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable del sector editorial señaló: “Según la ley de derechos de autor vigente, venderlos está permitido, pero usarlos para entrenar a la AI es otra cuestión”, y añadió: “En el país todavía hay un vacío normativo al respecto”."
+                "x": "Guildはまた「すべての出版社は書面によるAIポリシーを採用すべきだ」とし、作家がAI使用を明確に禁じる契約やポリシーに署名し、それに違反した場合を除き、AI使用を理由に契約を取り消すべきではないと述べた。さらに「作家に執筆過程を追跡・記録する技術の使用を求めるいかなる要件にも反対する」としつつ、疑いをかけられた作家が自らそれを使うことを選ぶ場合は支持するという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Anthropic盗版书单中\n有韩江《少年来了》",
-          "body": "Anthropic非法下载的图书清单中，至少包含15部韩国作品。",
-          "mini_headline": "Anthropic书单中有韩江作品",
+          "headline": "Authors Guild\n发布出版商AI指南",
+          "body": "Authors Guild的出版商AI指南把针对作者的不完善AI检测器列为首要担忧。",
+          "mini_headline": "Authors Guild AI指南",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015136701009_Z1.jpg",
-                "cap": "路透联合新闻"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
               },
               {
                 "t": "p",
-                "x": "美国AI企业Anthropic于2021~2022年下载非法数字副本的清单中，被发现包含韩江的《少年来了》以及黄晳暎、申京淑等韩国作家的至少15部作品。据悉，Anthropic已根据美国法院要求赔偿的判决，向韩江等韩国作家提出赔偿。"
+                "x": "在出版商因作者涉嫌使用AI而接连取消图书出版之际，Authors Guild针对AI检测工具及未披露的AI使用问题，为出版商制定了一套指南和最佳实践。此前Guild曾于五月为作者制定过类似清单，目标是“确保作者与出版商之间的相互信任”。"
               },
               {
                 "t": "p",
-                "x": "面临诉讼风险后，Anthropic将策略转向购买图书。2024年，它启动了在全球收购实体书并进行扫描的“巴拿马项目”，在韩国则与最大图书流通商熊津北森推进了“以数千册为单位”的采购合同。熊津方面确认：“与Anthropic签约属实。”"
+                "x": "首要担忧是Guild所称的“不完善的AI检测工具”使用日益增多。出版商应当“对何时以及为何使用AI检测工具保持完全透明”，并在将书稿上传至第三方服务之前，确认文本不会被保留或用于训练，同时征得作者许可。"
               },
+              {
+                "t": "p",
+                "x": "“任何出版商、经纪人或其他人都不应仅凭AI检测工具来判断一本书是否含有AI文本。AI检测工具——即便是最好的——也并非总是准确。”"
+              },
+              {
+                "t": "p",
+                "x": "Guild还表示“每家出版商都应采用书面AI政策”，并称除非作者违反了已签署且明确禁止AI使用的合同或政策，否则任何出版商都不应以使用AI为由取消合同。Guild“反对任何要求作者使用追踪或记录其写作过程的技术的规定”，但支持被指控的作者自行选择使用这类技术。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Authors Guild publica guías\nde AI para editoriales",
+          "body": "Las guías de AI del Authors Guild para editoriales sitúan los detectores de AI imperfectos como principal inquietud.",
+          "mini_headline": "Reglas de AI del Authors Guild",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.b01412b7ca3642fb94c4948880a4d41c_P1.jpg",
-                "cap": "“AI版权侵权”诉讼进展与Anthropic版权和解所涉韩国作家"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
               },
               {
                 "t": "p",
-                "x": "此事与“巴茨诉Anthropic”案有关。美国加利福尼亚北区联邦地方法院认为，用合法购买的书籍进行训练属于合理使用，但盗版副本构成版权侵权。Anthropic已确定针对约50万册图书支付总计15亿美元（约22000亿韩元）的和解金，计划从下月15日起开始支付。"
+                "x": "Mientras las editoriales siguen cancelando libros por acusaciones de uso de AI por parte de escritores, el Authors Guild ha elaborado un conjunto de pautas y buenas prácticas para editoriales sobre los detectores de AI y el manejo del uso no declarado de AI. Siguen a una lista similar que el Guild creó para autores en mayo, con el objetivo de «garantizar la confianza mutua entre autores y editoriales»."
               },
               {
                 "t": "p",
-                "x": "一位出版业人士指出：“按照现行著作权法，销售是可以的，但用它来训练AI是另一回事”，“目前韩国国内相关规定仍处于空白状态”。"
+                "x": "La principal preocupación es el creciente uso de lo que el Guild llama «detectores de AI imperfectos». Las editoriales deberían «ser totalmente transparentes sobre cuándo y por qué usan detectores de AI» y, antes de subir manuscritos a un servicio externo, confirmar que el texto no se conservará ni se usará para entrenamiento, y obtener el permiso del autor."
+              },
+              {
+                "t": "p",
+                "x": "«Ninguna editorial, agente u otra persona debería basarse únicamente en un detector de AI para determinar si un libro contiene texto de AI. Los detectores de AI, incluso los mejores, no siempre son precisos»."
+              },
+              {
+                "t": "p",
+                "x": "El Guild también afirma que «toda editorial debería adoptar una política de AI por escrito» y que ninguna editorial debería cancelar un contrato por uso de AI salvo que el autor haya incumplido un contrato firmado o una política que lo prohíba claramente. Se «opone a cualquier requisito de que los autores usen tecnologías que rastreen o registren su proceso de escritura», aunque apoya a los escritores que decidan usarlas si son acusados."
               }
             ]
           }
@@ -375,195 +315,165 @@
       }
     },
     {
-      "id": "books-currentaffairs-ai-ban",
+      "id": "books-play-books-gemini",
       "source_lang": "en",
-      "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "잡지 노조 계약에\nAI 금지 명문화",
-      "body": "Current Affairs가 노조 계약에 엄격한 AI 금지를 담았다.",
-      "mini_headline": "Current Affairs, AI 금지",
-      "source": "Current Affairs",
-      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "headline": "Play Books 전자책\nGemini 소스가 된다",
+      "body": "Play Books 100,000여종이 Gemini Notebook 소스가 됐다.",
+      "mini_headline": "Play Books, Gemini와 만나다",
+      "tool": "Books",
+      "source": "Good e-Reader",
+      "url": "https://goodereader.com/blog/e-book-news/google-launched-expert-intelligence-on-google-play-books",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-            "cap": "소비에트 사실주의(Soviet Realist) 화풍으로 두 인물이 망치로 ChatGPT 로고를 부수는 콜라주."
+            "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
           },
           {
             "t": "p",
-            "x": "Current Affairs는 새 노조 계약에 출판업계에서 가장 엄격한 축에 드는 반AI(anti-AI) 정책을 넣었다. AI가 생성한(AI-generated) 글은 싣지 않고 AI로 만든 그림도 삽화로 쓰지 않는다."
+            "x": "Google이 여러 제품을 아우르는 AI 이니셔티브 Expert Intelligence를 출시했다. Google Play Books에서 구매한 전자책(e-books) 중 대상 도서는 Gemini Notebook에 근거 소스로 바로 넣을 수 있다. 플랫폼은 100,000종 이상의 도서로 출발했다. 이용자는 출간 도서와 개인 메모를 결합해 퀴즈, 인포그래픽, Audio Overviews를 만들 수 있다."
           },
           {
             "t": "p",
-            "x": "편집장 Nathan J. Robinson은 이 정책으로 미디어의 ‘슬롭화(slopification)’에 정면으로 맞선다고 말한다. 뉴스룸은 앞다퉈 작가를 AI로 갈아 치우고 창작 산업은 예술가의 작품을 학습한 모델에 일자리를 내준다."
+            "x": "Expert Intelligence는 한 달 전 Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan Publishers, O’Reilly Media, Penguin Random House 등 주요 출판사의 100,000종 이상 도서로 출시됐다. Google은 Steven Pinker, Michael Pollan, Jennifer Wallace 등 15명 이상의 베스트셀러 작가와도 손잡고 특별 Featured Notebooks를 큐레이션했다. 이 노트북에는 책을 보완하는 추가 소스와 흥미로운 자료가 담겨, 독자가 작가의 작품을 더 깊이 파고들 수 있다."
           },
           {
             "t": "p",
-            "x": "잡지는 지금까지 인쇄판 62호를 내며 손으로 만든 작품 수백 점을 의뢰했고 앞으로도 인간 예술가에게 대가를 치른다. 도구를 전부 막지는 않는다. 작가는 자료 조사에 새 소프트웨어를 써도 되고 예술가는 질감을 더하거나 색을 바꿔도 된다."
-          },
-          {
-            "t": "p",
-            "x": "501(c)(3) 단체이자 노조가 있는 이 잡지는 노동자를 기계로 바꿀 유인이 없다고 밝힌다. 독자에게는 ‘슬롭(slop)’을 먹이는 매체에 돈을 대지 말라고 당부한다."
+            "x": "책이 Expert Intelligence 대상인지는 Google Play Books에서 확인할 수 있다. 대상 도서라면 책 상세 페이지에서 “Tools” 배지를 누를 때 Gemini Notebook이 표시된다. 첫발을 떼도록 U.S. 이용자에게는 재고가 있는 동안 책 한 권도 준다. 앞으로는 외부 구독, 비즈니스 리서치 보고서, 교과서 등 더 많은 소스도 넣을 수 있게 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Current Affairs writes an AI\nban into its union contract",
-          "body": "Current Affairs' new union contract commits the magazine to stay handmade, one of publishing's strictest AI bans.",
-          "mini_headline": "Current Affairs bans AI",
+          "headline": "Play Books e-books become\nGemini Notebook sources",
+          "body": "Over 100,000 Play Books e-books can now serve as grounded sources in Gemini Notebook for quizzes and Audio Overviews.",
+          "mini_headline": "Play Books meets Gemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-                "cap": "A collage of two figures smashing the ChatGPT logo with hammers, in a Soviet Realist style."
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
               },
               {
                 "t": "p",
-                "x": "As part of its new union contract, Current Affairs has adopted one of the strictest anti-AI policies in the publishing industry. No AI-generated text may be published in the magazine, and no AI-generated art may be used as an illustration."
+                "x": "Google launched Expert Intelligence, a cross-product AI initiative that lets you add eligible e-books purchased from Google Play Books directly into Gemini Notebook as grounded sources. The platform launched with over 100,000 titles; the integration lets users generate quizzes, infographics, and Audio Overviews while combining published books with personal notes."
               },
               {
                 "t": "p",
-                "x": "Editor Nathan J. Robinson says the policy directly challenges the “slopification” of media, as newsrooms rush to replace writers with AI and creative industries lose jobs to models trained on artists’ work."
+                "x": "Expert Intelligence launched a month ago with more than 100,000 books from major publishers, including Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan Publishers, O’Reilly Media, and Penguin Random House. Google also collaborated closely with more than 15 bestselling authors — including Steven Pinker, Michael Pollan, and Jennifer Wallace — to curate special Featured Notebooks that supplement their books with additional sources and engaging artifacts that let readers dive deeper into the author’s work."
               },
               {
                 "t": "p",
-                "x": "Over 62 print issues the magazine has commissioned hundreds of handmade artworks, and it will keep paying human artists. The rule does not ban every tool: writers may use new software for research, and artists may add a texture or change a color."
-              },
-              {
-                "t": "p",
-                "x": "The magazine, a unionized 501(c)(3), says it has no incentive to replace workers with machines, and urges readers not to fund publications that feed them “slop”."
+                "x": "You can see if a book is eligible for Expert Intelligence by visiting Google Play Books. If eligible, you’ll see Gemini Notebook listed when you click the “Tools” badge on a book’s detail page. To get you started, they’re also providing a book for people in the U.S. while supplies last. In the future, people will also be able to add more sources, such as third-party subscriptions, business research reports, and textbooks."
               }
             ]
           }
         },
         "ko": {
-          "headline": "잡지 노조 계약에\nAI 금지 명문화",
-          "body": "Current Affairs가 노조 계약에 엄격한 AI 금지를 담았다.",
-          "mini_headline": "Current Affairs, AI 금지",
+          "headline": "Play Books 전자책\nGemini 소스가 된다",
+          "body": "Play Books 100,000여종이 Gemini Notebook 소스가 됐다.",
+          "mini_headline": "Play Books, Gemini와 만나다",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-                "cap": "소비에트 사실주의(Soviet Realist) 화풍으로 두 인물이 망치로 ChatGPT 로고를 부수는 콜라주."
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
               },
               {
                 "t": "p",
-                "x": "Current Affairs는 새 노조 계약에 출판업계에서 가장 엄격한 축에 드는 반AI(anti-AI) 정책을 넣었다. AI가 생성한(AI-generated) 글은 싣지 않고 AI로 만든 그림도 삽화로 쓰지 않는다."
+                "x": "Google이 여러 제품을 아우르는 AI 이니셔티브 Expert Intelligence를 출시했다. Google Play Books에서 구매한 전자책(e-books) 중 대상 도서는 Gemini Notebook에 근거 소스로 바로 넣을 수 있다. 플랫폼은 100,000종 이상의 도서로 출발했다. 이용자는 출간 도서와 개인 메모를 결합해 퀴즈, 인포그래픽, Audio Overviews를 만들 수 있다."
               },
               {
                 "t": "p",
-                "x": "편집장 Nathan J. Robinson은 이 정책으로 미디어의 ‘슬롭화(slopification)’에 정면으로 맞선다고 말한다. 뉴스룸은 앞다퉈 작가를 AI로 갈아 치우고 창작 산업은 예술가의 작품을 학습한 모델에 일자리를 내준다."
+                "x": "Expert Intelligence는 한 달 전 Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan Publishers, O’Reilly Media, Penguin Random House 등 주요 출판사의 100,000종 이상 도서로 출시됐다. Google은 Steven Pinker, Michael Pollan, Jennifer Wallace 등 15명 이상의 베스트셀러 작가와도 손잡고 특별 Featured Notebooks를 큐레이션했다. 이 노트북에는 책을 보완하는 추가 소스와 흥미로운 자료가 담겨, 독자가 작가의 작품을 더 깊이 파고들 수 있다."
               },
               {
                 "t": "p",
-                "x": "잡지는 지금까지 인쇄판 62호를 내며 손으로 만든 작품 수백 점을 의뢰했고 앞으로도 인간 예술가에게 대가를 치른다. 도구를 전부 막지는 않는다. 작가는 자료 조사에 새 소프트웨어를 써도 되고 예술가는 질감을 더하거나 색을 바꿔도 된다."
-              },
-              {
-                "t": "p",
-                "x": "501(c)(3) 단체이자 노조가 있는 이 잡지는 노동자를 기계로 바꿀 유인이 없다고 밝힌다. 독자에게는 ‘슬롭(slop)’을 먹이는 매체에 돈을 대지 말라고 당부한다."
+                "x": "책이 Expert Intelligence 대상인지는 Google Play Books에서 확인할 수 있다. 대상 도서라면 책 상세 페이지에서 “Tools” 배지를 누를 때 Gemini Notebook이 표시된다. 첫발을 떼도록 U.S. 이용자에게는 재고가 있는 동안 책 한 권도 준다. 앞으로는 외부 구독, 비즈니스 리서치 보고서, 교과서 등 더 많은 소스도 넣을 수 있게 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "雑誌が労組契約に\nAI禁止を明記",
-          "body": "Current Affairsは労組契約で、出版界で最も厳しい部類のAI禁止を定めた。",
-          "mini_headline": "Current Affairs、AI禁止",
+          "headline": "Play Booksの本が\nGeminiの資料に",
+          "body": "Play Booksの100,000冊超がGemini Notebookの資料になった。",
+          "mini_headline": "Play BooksとGemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-                "cap": "ソビエト・リアリズム(Soviet Realist)風に、2人の人物がハンマーでChatGPTのロゴを叩き壊すコラージュ。"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
               },
               {
                 "t": "p",
-                "x": "Current Affairsは新たな労組契約の一環として、出版業界で最も厳しい部類の反AI(anti-AI)方針を採用した。誌面にAI生成(AI-generated)の文章は載せず、AI生成のアートをイラストとして使うこともない。"
+                "x": "Googleは、製品を横断するAIの取り組み「Expert Intelligence」を開始した。Google Play Booksで購入した対象の電子書籍（e-books）を、根拠となる資料としてGemini Notebookに直接追加できる。プラットフォームは100,000タイトル以上で始まり、ユーザーは出版された書籍と個人のメモを組み合わせて、クイズやインフォグラフィック、Audio Overviewsを生成できる。"
               },
               {
                 "t": "p",
-                "x": "編集長のNathan J. Robinsonは、この方針はメディアの「スロップ化(slopification)」に正面から異を唱えるものだと語る。報道機関は書き手をAIに置き換えようと急ぎ、クリエイティブ産業はアーティストの作品で学習したモデルに仕事を奪われている。"
+                "x": "Expert Intelligenceはひと月前、Bloomsbury、De Gruyter Brill、Johns Hopkins University Press、Macmillan Publishers、O’Reilly Media、Penguin Random Houseなど大手出版社の100,000冊以上の書籍とともに始まった。GoogleはSteven Pinker、Michael Pollan、Jennifer Wallaceら15人以上のベストセラー作家とも緊密に協力し、特別なFeatured Notebooksをキュレーションした。追加の資料や魅力的なコンテンツで書籍を補い、読者が作家の作品をより深く掘り下げられるようにするものだ。"
               },
               {
                 "t": "p",
-                "x": "同誌はこれまで62号の紙の号で数百点の手作りの作品を依頼してきており、今後も人間のアーティストに報酬を支払い続ける。ただし、あらゆるツールを禁じるわけではない。書き手は調査に新しいソフトウェアを使ってよく、アーティストは質感を加えたり色を変えたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "労働組合のある501(c)(3)団体である同誌は、労働者を機械に置き換える動機はないとし、読者に「スロップ(slop)」を与える媒体に資金を出さないよう呼びかけている。"
+                "x": "書籍がExpert Intelligenceの対象かどうかは、Google Play Booksで確認できる。対象であれば、書籍の詳細ページで「Tools」バッジをクリックするとGemini Notebookが表示される。手始めとして、U.S.のユーザーには在庫がある限り書籍を一冊提供する。今後は、サードパーティーのサブスクリプションやビジネス調査レポート、教科書など、さらに多くの資料も追加できるようになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "杂志把AI禁令\n写进工会合同",
-          "body": "Current Affairs在新工会合同中写入出版业最严格之一的AI禁令。",
-          "mini_headline": "Current Affairs禁用AI",
+          "headline": "Play Books电子书\n成为Gemini资料源",
+          "body": "逾100,000本Play Books电子书可作Gemini Notebook资料源。",
+          "mini_headline": "Play Books牵手Gemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-                "cap": "一幅苏联现实主义（Soviet Realist）风格的拼贴画：两个人物用锤子砸碎ChatGPT标志。"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
               },
               {
                 "t": "p",
-                "x": "作为新工会合同的一部分，Current Affairs采取了出版业最严格的反AI（anti-AI）政策之一。杂志不刊登任何AI生成（AI-generated）的文字，也不使用任何AI生成的图像作为插图。"
+                "x": "Google推出跨产品AI计划Expert Intelligence，用户可将在Google Play Books购买的合格电子书（e-books）作为有据可依的资料来源直接添加到Gemini Notebook中。该平台上线时收录逾100,000种图书；借助这一整合，用户可将已出版图书与个人笔记结合，生成测验、信息图和Audio Overviews。"
               },
               {
                 "t": "p",
-                "x": "主编Nathan J. Robinson表示，这项政策直接挑战媒体的“垃圾化”（slopification）。如今新闻编辑室争相用AI取代写作者，创意产业的工作岗位也正被以艺术家作品训练的模型夺走。"
+                "x": "Expert Intelligence于一个月前上线，收录了Bloomsbury、De Gruyter Brill、Johns Hopkins University Press、Macmillan Publishers、O’Reilly Media和Penguin Random House等主要出版商的逾100,000本图书。Google还与Steven Pinker、Michael Pollan、Jennifer Wallace等逾15位畅销书作者密切合作，策划了特别的Featured Notebooks，以更多资料和引人入胜的内容补充其著作，让读者更深入地了解作者的作品。"
               },
               {
                 "t": "p",
-                "x": "在已出版的62期印刷版中，该杂志委托创作了数百件手工艺术作品，并将继续向人类艺术家付费。这项规定并非禁止所有工具：写作者可以用新软件做研究，艺术家可以添加纹理或调整颜色。"
-              },
-              {
-                "t": "p",
-                "x": "这家设有工会的501(c)(3)机构表示，它没有用机器取代员工的动机，并呼吁读者不要资助那些向他们投喂“垃圾”（slop）的出版物。"
+                "x": "访问Google Play Books即可查看某本书是否支持Expert Intelligence。如符合条件，点击图书详情页上的“Tools”标签时会看到Gemini Notebook。作为入门，Google还在库存有限期间向U.S.用户赠送一本书。未来，用户还将能添加更多资料来源，如第三方订阅、商业研究报告和教科书。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Current Affairs veta la AI\nen su contrato sindical",
-          "body": "El nuevo contrato sindical de Current Affairs fija uno de los vetos a la AI más estrictos del sector editorial.",
-          "mini_headline": "Current Affairs veta la AI",
+          "headline": "Los e-books de Play Books,\nfuente en Gemini Notebook",
+          "body": "Más de 100,000 e-books de Play Books ya sirven como fuentes en Gemini Notebook para cuestionarios y Audio Overviews.",
+          "mini_headline": "Play Books se une a Gemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-                "cap": "Un collage de dos figuras que destrozan a martillazos el logotipo de ChatGPT, al estilo del realismo soviético (Soviet Realist)."
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
               },
               {
                 "t": "p",
-                "x": "Como parte de su nuevo contrato sindical, Current Affairs ha adoptado una de las políticas anti-AI más estrictas del sector editorial. La revista no publicará ningún texto generado por AI (AI-generated) ni usará arte generado por AI como ilustración."
+                "x": "Google lanzó Expert Intelligence, una iniciativa de AI que abarca varios productos y permite añadir e-books elegibles comprados en Google Play Books directamente a Gemini Notebook como fuentes de referencia. La plataforma arrancó con más de 100,000 títulos; la integración permite generar cuestionarios, infografías y Audio Overviews combinando libros publicados con notas personales."
               },
               {
                 "t": "p",
-                "x": "El editor Nathan J. Robinson afirma que la política desafía directamente la “slopification” de los medios, mientras las redacciones se apresuran a sustituir a los redactores por AI y las industrias creativas pierden empleos frente a modelos entrenados con la obra de artistas."
+                "x": "Expert Intelligence se lanzó hace un mes con más de 100,000 libros de grandes editoriales, entre ellas Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan Publishers, O’Reilly Media y Penguin Random House. Google también colaboró estrechamente con más de 15 autores superventas —entre ellos Steven Pinker, Michael Pollan y Jennifer Wallace— para crear Featured Notebooks especiales que complementan sus libros con fuentes adicionales y materiales atractivos que permiten a los lectores profundizar en la obra del autor."
               },
               {
                 "t": "p",
-                "x": "A lo largo de 62 números impresos, la revista ha encargado cientos de obras hechas a mano y seguirá pagando a artistas humanos. La norma no prohíbe todas las herramientas: los redactores pueden usar software nuevo para investigar, y los artistas pueden añadir una textura o cambiar un color."
-              },
-              {
-                "t": "p",
-                "x": "La revista, una entidad 501(c)(3) con plantilla sindicada, afirma que no tiene ningún incentivo para sustituir a trabajadores por máquinas e insta a los lectores a no financiar publicaciones que les sirven “slop”."
+                "x": "Para saber si un libro es elegible para Expert Intelligence, basta con visitar Google Play Books. Si lo es, aparecerá Gemini Notebook al pulsar la insignia “Tools” en la página de detalles del libro. Para empezar, también ofrecen un libro a usuarios de U.S. hasta agotar existencias. En el futuro, también se podrán añadir más fuentes, como suscripciones de terceros, informes de investigación empresarial y libros de texto."
               }
             ]
           }
@@ -571,125 +481,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "잡지 노조 계약에\nAI 금지 명문화",
-          "body": "Current Affairs가 노조 계약에 엄격한 AI 금지를 담았다.",
-          "mini_headline": "Current Affairs, AI 금지",
+          "headline": "Play Books 전자책\nGemini 소스가 된다",
+          "body": "Play Books 100,000여종이 Gemini Notebook 소스가 됐다.",
+          "mini_headline": "Play Books, Gemini와 만나다",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-                "cap": "소비에트 사실주의(Soviet Realist) 화풍으로 두 인물이 망치로 ChatGPT 로고를 부수는 콜라주."
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
               },
               {
                 "t": "p",
-                "x": "Current Affairs는 새 노조 계약의 일환으로 출판업계에서 가장 엄격한 축에 드는 반AI(anti-AI) 정책을 도입했다. 잡지에는 AI가 생성한(AI-generated) 글을 싣지 않고, AI가 생성한 그림도 삽화로 쓰지 않는다."
+                "x": "Google이 여러 제품을 아우르는 AI 이니셔티브 Expert Intelligence를 출시했다. Google Play Books에서 구매한 전자책(e-books) 가운데 대상 도서를 Gemini Notebook에 근거 소스로 바로 추가할 수 있다. 플랫폼은 100,000종 이상의 도서로 출발했으며, 이용자는 출간 도서와 개인 메모를 결합해 퀴즈, 인포그래픽, Audio Overviews를 만들 수 있다."
               },
               {
                 "t": "p",
-                "x": "편집장 Nathan J. Robinson은 이 정책이 미디어의 ‘슬롭화(slopification)’에 정면으로 맞서는 것이라고 말한다. 뉴스룸은 앞다퉈 작가를 AI로 대체하고, 창작 산업은 예술가의 작품으로 학습한 모델에 일자리를 내주고 있다."
+                "x": "Expert Intelligence는 한 달 전 Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan Publishers, O’Reilly Media, Penguin Random House 등 주요 출판사의 100,000종 이상 도서로 출시됐다. Google은 Steven Pinker, Michael Pollan, Jennifer Wallace 등 15명 이상의 베스트셀러 작가와도 긴밀히 협력해 특별 Featured Notebooks를 큐레이션했다. 이 노트북은 추가 소스와 흥미로운 자료로 책을 보완해 독자가 작가의 작품을 더 깊이 탐구하게 해 준다."
               },
               {
                 "t": "p",
-                "x": "이 잡지는 지금까지 인쇄판 62호를 내며 손으로 만든 작품 수백 점을 의뢰했고, 앞으로도 인간 예술가에게 대가를 지급한다. 모든 도구를 금지하는 것은 아니다. 작가는 자료 조사에 새 소프트웨어를 쓸 수 있고, 예술가는 질감을 더하거나 색을 바꿀 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "노조가 있는 501(c)(3) 단체인 이 잡지는 노동자를 기계로 대체할 유인이 없다고 밝히며, 독자에게 ‘슬롭(slop)’을 먹이는 매체에 돈을 대지 말라고 당부한다."
+                "x": "책이 Expert Intelligence 대상인지는 Google Play Books에서 확인할 수 있다. 대상 도서라면 책 상세 페이지에서 “Tools” 배지를 누를 때 Gemini Notebook이 표시된다. 시작을 돕기 위해 U.S. 이용자에게는 재고가 있는 동안 책 한 권도 제공한다. 앞으로는 외부 구독, 비즈니스 리서치 보고서, 교과서 등 더 많은 소스도 추가할 수 있게 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "雑誌が労組契約に\nAI禁止を明記",
-          "body": "Current Affairsは労組契約で、出版界で最も厳しい部類のAI禁止を定めた。",
-          "mini_headline": "Current Affairs、AI禁止",
+          "headline": "Play Booksの本が\nGeminiの資料に",
+          "body": "Play Booksの100,000冊超がGemini Notebookの資料になった。",
+          "mini_headline": "Play BooksとGemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-                "cap": "ソビエト・リアリズム(Soviet Realist)風に、2人の人物がハンマーでChatGPTのロゴを叩き壊すコラージュ。"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
               },
               {
                 "t": "p",
-                "x": "Current Affairsは新たな労組契約の一環として、出版業界で最も厳しい部類の反AI(anti-AI)方針を採用した。誌面にAI生成(AI-generated)の文章は載せず、AI生成のアートをイラストとして使うこともない。"
+                "x": "Googleは、製品を横断するAIの取り組み「Expert Intelligence」を開始した。Google Play Booksで購入した対象の電子書籍（e-books）を、根拠となる資料としてGemini Notebookに直接追加できる。プラットフォームは100,000タイトル以上で始まり、ユーザーは出版された書籍と個人のメモを組み合わせて、クイズやインフォグラフィック、Audio Overviewsを生成できる。"
               },
               {
                 "t": "p",
-                "x": "編集長のNathan J. Robinsonは、この方針はメディアの「スロップ化(slopification)」に正面から異を唱えるものだと語る。報道機関は書き手をAIに置き換えようと急ぎ、クリエイティブ産業はアーティストの作品で学習したモデルに仕事を奪われている。"
+                "x": "Expert Intelligenceはひと月前、Bloomsbury、De Gruyter Brill、Johns Hopkins University Press、Macmillan Publishers、O’Reilly Media、Penguin Random Houseなど大手出版社の100,000冊以上の書籍とともに始まった。GoogleはSteven Pinker、Michael Pollan、Jennifer Wallaceら15人以上のベストセラー作家とも緊密に協力し、特別なFeatured Notebooksをキュレーションした。追加の資料や魅力的なコンテンツで書籍を補い、読者が作家の作品をより深く掘り下げられるようにするものだ。"
               },
               {
                 "t": "p",
-                "x": "同誌はこれまで62号の紙の号で数百点の手作りの作品を依頼してきており、今後も人間のアーティストに報酬を支払い続ける。ただし、あらゆるツールを禁じるわけではない。書き手は調査に新しいソフトウェアを使ってよく、アーティストは質感を加えたり色を変えたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "労働組合のある501(c)(3)団体である同誌は、労働者を機械に置き換える動機はないとし、読者に「スロップ(slop)」を与える媒体に資金を出さないよう呼びかけている。"
+                "x": "書籍がExpert Intelligenceの対象かどうかは、Google Play Booksで確認できる。対象であれば、書籍の詳細ページで「Tools」バッジをクリックするとGemini Notebookが表示される。手始めとして、U.S.のユーザーには在庫がある限り書籍を一冊提供する。今後は、サードパーティーのサブスクリプションやビジネス調査レポート、教科書など、さらに多くの資料も追加できるようになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "杂志把AI禁令\n写进工会合同",
-          "body": "Current Affairs在新工会合同中写入出版业最严格之一的AI禁令。",
-          "mini_headline": "Current Affairs禁用AI",
+          "headline": "Play Books电子书\n成为Gemini资料源",
+          "body": "逾100,000本Play Books电子书可作Gemini Notebook资料源。",
+          "mini_headline": "Play Books牵手Gemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-                "cap": "一幅苏联现实主义（Soviet Realist）风格的拼贴画：两个人物用锤子砸碎ChatGPT标志。"
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
               },
               {
                 "t": "p",
-                "x": "作为新工会合同的一部分，Current Affairs采取了出版业最严格的反AI（anti-AI）政策之一。杂志不刊登任何AI生成（AI-generated）的文字，也不使用任何AI生成的图像作为插图。"
+                "x": "Google推出跨产品AI计划Expert Intelligence，用户可将在Google Play Books购买的合格电子书（e-books）作为有据可依的资料来源直接添加到Gemini Notebook中。该平台上线时收录逾100,000种图书；借助这一整合，用户可将已出版图书与个人笔记结合，生成测验、信息图和Audio Overviews。"
               },
               {
                 "t": "p",
-                "x": "主编Nathan J. Robinson表示，这项政策直接挑战媒体的“垃圾化”（slopification）。如今新闻编辑室争相用AI取代写作者，创意产业的工作岗位也正被以艺术家作品训练的模型夺走。"
+                "x": "Expert Intelligence于一个月前上线，收录了Bloomsbury、De Gruyter Brill、Johns Hopkins University Press、Macmillan Publishers、O’Reilly Media和Penguin Random House等主要出版商的逾100,000本图书。Google还与Steven Pinker、Michael Pollan、Jennifer Wallace等逾15位畅销书作者密切合作，策划了特别的Featured Notebooks，以更多资料和引人入胜的内容补充其著作，让读者更深入地了解作者的作品。"
               },
               {
                 "t": "p",
-                "x": "在已出版的62期印刷版中，该杂志委托创作了数百件手工艺术作品，并将继续向人类艺术家付费。这项规定并非禁止所有工具：写作者可以用新软件做研究，艺术家可以添加纹理或调整颜色。"
-              },
-              {
-                "t": "p",
-                "x": "这家设有工会的501(c)(3)机构表示，它没有用机器取代员工的动机，并呼吁读者不要资助那些向他们投喂“垃圾”（slop）的出版物。"
+                "x": "访问Google Play Books即可查看某本书是否支持Expert Intelligence。如符合条件，点击图书详情页上的“Tools”标签时会看到Gemini Notebook。作为入门，Google还在库存有限期间向U.S.用户赠送一本书。未来，用户还将能添加更多资料来源，如第三方订阅、商业研究报告和教科书。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Current Affairs veta la AI\nen su contrato sindical",
-          "body": "El nuevo contrato sindical de Current Affairs fija uno de los vetos a la AI más estrictos del sector editorial.",
-          "mini_headline": "Current Affairs veta la AI",
+          "headline": "Los e-books de Play Books,\nfuente en Gemini Notebook",
+          "body": "Más de 100,000 e-books de Play Books ya sirven como fuentes en Gemini Notebook para cuestionarios y Audio Overviews.",
+          "mini_headline": "Play Books se une a Gemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.currentaffairs.org/hubfs/smash1.png",
-                "cap": "Un collage de dos figuras que destrozan a martillazos el logotipo de ChatGPT, al estilo del realismo soviético (Soviet Realist)."
+                "src": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp"
               },
               {
                 "t": "p",
-                "x": "Como parte de su nuevo contrato sindical, Current Affairs ha adoptado una de las políticas anti-AI más estrictas del sector editorial. La revista no publicará ningún texto generado por AI (AI-generated) ni usará arte generado por AI como ilustración."
+                "x": "Google lanzó Expert Intelligence, una iniciativa de AI que abarca varios productos y permite añadir e-books elegibles comprados en Google Play Books directamente a Gemini Notebook como fuentes de referencia. La plataforma arrancó con más de 100,000 títulos; la integración permite generar cuestionarios, infografías y Audio Overviews combinando libros publicados con notas personales."
               },
               {
                 "t": "p",
-                "x": "El editor Nathan J. Robinson afirma que la política desafía directamente la “slopification” de los medios, mientras las redacciones se apresuran a sustituir a los redactores por AI y las industrias creativas pierden empleos frente a modelos entrenados con la obra de artistas."
+                "x": "Expert Intelligence se lanzó hace un mes con más de 100,000 libros de grandes editoriales, entre ellas Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan Publishers, O’Reilly Media y Penguin Random House. Google también colaboró estrechamente con más de 15 autores superventas —entre ellos Steven Pinker, Michael Pollan y Jennifer Wallace— para crear Featured Notebooks especiales que complementan sus libros con fuentes adicionales y materiales atractivos que permiten a los lectores profundizar en la obra del autor."
               },
               {
                 "t": "p",
-                "x": "A lo largo de 62 números impresos, la revista ha encargado cientos de obras hechas a mano y seguirá pagando a artistas humanos. La norma no prohíbe todas las herramientas: los redactores pueden usar software nuevo para investigar, y los artistas pueden añadir una textura o cambiar un color."
-              },
-              {
-                "t": "p",
-                "x": "La revista, una entidad 501(c)(3) con plantilla sindicada, afirma que no tiene ningún incentivo para sustituir a trabajadores por máquinas e insta a los lectores a no financiar publicaciones que les sirven “slop”."
+                "x": "Para saber si un libro es elegible para Expert Intelligence, basta con visitar Google Play Books. Si lo es, aparecerá Gemini Notebook al pulsar la insignia “Tools” en la página de detalles del libro. Para empezar, también ofrecen un libro a usuarios de U.S. hasta agotar existencias. En el futuro, también se podrán añadir más fuentes, como suscripciones de terceros, informes de investigación empresarial y libros de texto."
               }
             ]
           }
@@ -697,321 +587,401 @@
       }
     },
     {
-      "id": "books-agentic-consumption",
-      "source_lang": "en",
-      "tool": "Books",
+      "id": "books-ddalkkak-ai-books",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "에이전트 발견에서\n에이전트 소비로",
-      "body": "AI 에이전트가 실험하려 논문을 읽자 출판사도 접근·권한·콘텐츠를 다시 봐야 한다.",
-      "mini_headline": "논문 읽는 에이전트",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/15/guest-post-the-evolution-of-eras-agentic-discovery-makes-way-for-agentic-consumption/",
+      "headline": "AI ‘딸깍 출판’ 확산\n저작권 보호는 걸음마",
+      "body": "AI 번역을 그대로 책으로 내는 딸깍 출판이 부각되지만 저작권 제도는 뒤처졌다.",
+      "mini_headline": "AI ‘딸깍 출판’ 확산",
+      "tool": "Books",
+      "source": "서울경제",
+      "url": "https://www.sedaily.com/article/20102227",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Wiley의 Chris Reid는 학술 출판이 지금 ‘에이전트 발견(agentic discovery)’ 시대 한복판에 있다고 주장한다. 연구자의 84%가 연구에 AI 도구를 쓴다고 답했고 Google Scholar와 PubMed를 거쳐 들어오는 유입은 줄어든다."
-          },
-          {
-            "t": "p",
-            "x": "더 큰 변화는 이제 막 시작됐다고 그는 쓴다. ‘에이전트 소비(agentic consumption)’다. 시스템이 실행하고 결과를 평가하고 다음 단계를 고르는 워크플로 안에서, 사람 손을 거의 거치지 않고 문헌을 쓰는 방식이다."
-          },
-          {
             "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-            "cap": "에이전트 소비 루프: 가설, 문헌, 프로토콜, 실행, 결과."
+            "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+            "cap": "로이터연합뉴스"
           },
           {
             "t": "p",
-            "x": "프로그래밍 가능한 클라우드 실험실(cloud-lab) 20개 팀에 NSF가 지원한 3억 8000만 달러($380 million), Discovery Loop와 Periodic Labs 같은 스타트업이 그 신호다. 기계 독자는 전문, 특히 방법 섹션을 원한다. 기계가 읽을 수 있는(machine-readable) 이용 권한과 최신 공식 판본(version of record)도 있어야 한다. MCP 커넥터로 제공하는 방식이 한 예다."
+            "x": "한국이 챗GPT 유료 구독자 수 세계 2위에 오르는 등 AI를 적극적으로 활용하고 있지만 AI 저작권 보호는 다른 나라에 뒤처져 있다는 지적이 나온다. 유럽과 일본은 이미 제도가 틀을 갖춘 반면 국내는 이제 막 논의를 시작했다."
           },
           {
             "t": "p",
-            "x": "Reid는 출판사가 수동적이거나 거래 중심인 태도를 버리고 전략적으로 움직여야 한다고 촉구한다. 콘텐츠도 관리·사용량 측정·출처 표시가 되는 인프라로 내보내야 한다고 본다."
+            "x": "올 9월 국내 챗GPT 앱 월간활성이용자수는 1799만 3884명으로 AI 앱 가운데 가장 많았고, 클로드는 170만 8413명으로 1년 새 13배 이상 불었다. 챗GPT 국가별 매출 비중에서 한국은 5.4%로 미국(35.4%)에 이어 두 번째다."
+          },
+          {
+            "t": "p",
+            "x": "올해 1월 AI 기본법이 시행됐지만 인간 창작물을 보호해야 한다는 명시적 조항이 없고 AI 창작물 표시 규정도 모호하다는 지적이 계속되고 있다."
+          },
+          {
+            "t": "p",
+            "x": "국내에서는 AI 학습보다 저품질 ‘딸깍 출판’ 문제가 먼저 부각되고 있다. AI로 번역을 돌려 그대로 책으로 내는 등 저자나 번역자의 개입 없이 AI만으로 책을 만드는 것이다. 연평균 약 6만2000종이던 신간이 연 20만~30만권으로 불어날 것이라는 관측도 나온다. 국회는 지난 3월 도서관이 AI 출판물 납본을 받지 않을 수 있도록 길을 열었고, 한국출판인회의는 AI 활용 정도를 명확히 표기하자는 원칙을 발표했다."
+          },
+          {
+            "t": "p",
+            "x": "이달 8일 국가지식재산위원회는 AI 학습 과정에서 저작물을 저장·처리할 때 권리자의 사전 허락을 받도록 하는 안을 심의·통과시켰다. 문체부는 연내 AI 학습용 저작물 양도·이용 표준 계약서를 배포할 예정이다."
+          },
+          {
+            "t": "p",
+            "x": "한 출판업계 관계자는 “내용은 전혀 다르지만 문체가 어느 실존 작가의 것과 똑같다든지 할 경우 구분하기도 처벌하기도 어렵다”고 우려했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "From agentic discovery\nto agentic consumption",
-          "body": "As AI agents begin reading papers to run experiments, publishers must rethink access, permissions and content.",
-          "mini_headline": "Agents now read the papers",
+        "ko": {
+          "headline": "AI ‘딸깍 출판’ 확산\n저작권 보호는 걸음마",
+          "body": "AI 번역을 그대로 책으로 내는 딸깍 출판이 부각되지만 저작권 제도는 뒤처졌다.",
+          "mini_headline": "AI ‘딸깍 출판’ 확산",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Wiley’s Chris Reid argues scholarly publishing is deep in an era of “agentic discovery”: 84% of researchers report using AI tools in their research, and referrals from Google Scholar and PubMed are falling."
-              },
-              {
-                "t": "p",
-                "x": "A bigger shift is beginning, he writes: “agentic consumption,” where systems use the literature inside workflows that act, evaluate the result and pick the next step, with little human intervention."
-              },
-              {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-                "cap": "The agentic consumption loop: hypothesis, literature, protocol, execution, result."
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+                "cap": "로이터연합뉴스"
               },
               {
                 "t": "p",
-                "x": "Signals include NSF’s $380 million for 20 programmable cloud-lab teams and startups such as Discovery Loop and Periodic Labs. Machine readers need full text, especially methods sections, plus machine-readable permissions and current versions of record, for example via MCP connectors."
+                "x": "한국이 챗GPT 유료 구독자 수 세계 2위에 오르는 등 AI를 적극적으로 활용하고 있지만 AI 저작권 보호는 다른 나라에 뒤처져 있다는 지적이 나온다. 유럽과 일본은 이미 제도가 틀을 갖춘 반면 국내는 이제 막 논의를 시작했다."
               },
               {
                 "t": "p",
-                "x": "Reid urges publishers to move from passive or transactional postures to strategic ones, delivering content through governed, metered, attributable infrastructure."
+                "x": "올 9월 국내 챗GPT 앱 월간활성이용자수는 1799만 3884명으로 AI 앱 가운데 가장 많았고, 클로드는 170만 8413명으로 1년 새 13배 이상 불었다. 챗GPT 국가별 매출 비중에서 한국은 5.4%로 미국(35.4%)에 이어 두 번째다."
+              },
+              {
+                "t": "p",
+                "x": "올해 1월 AI 기본법이 시행됐지만 인간 창작물을 보호해야 한다는 명시적 조항이 없고 AI 창작물 표시 규정도 모호하다는 지적이 계속되고 있다."
+              },
+              {
+                "t": "p",
+                "x": "국내에서는 AI 학습보다 저품질 ‘딸깍 출판’ 문제가 먼저 부각되고 있다. AI로 번역을 돌려 그대로 책으로 내는 등 저자나 번역자의 개입 없이 AI만으로 책을 만드는 것이다. 연평균 약 6만2000종이던 신간이 연 20만~30만권으로 불어날 것이라는 관측도 나온다. 국회는 지난 3월 도서관이 AI 출판물 납본을 받지 않을 수 있도록 길을 열었고, 한국출판인회의는 AI 활용 정도를 명확히 표기하자는 원칙을 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "이달 8일 국가지식재산위원회는 AI 학습 과정에서 저작물을 저장·처리할 때 권리자의 사전 허락을 받도록 하는 안을 심의·통과시켰다. 문체부는 연내 AI 학습용 저작물 양도·이용 표준 계약서를 배포할 예정이다."
+              },
+              {
+                "t": "p",
+                "x": "한 출판업계 관계자는 “내용은 전혀 다르지만 문체가 어느 실존 작가의 것과 똑같다든지 할 경우 구분하기도 처벌하기도 어렵다”고 우려했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "에이전트 발견에서\n에이전트 소비로",
-          "body": "AI 에이전트가 실험하려 논문을 읽자 출판사도 접근·권한·콘텐츠를 다시 봐야 한다.",
-          "mini_headline": "논문 읽는 에이전트",
+        "en": {
+          "headline": "AI ‘one-click publishing’ grows\nCopyright protection in infancy",
+          "body": "One-click publishing, turning AI translations straight into books, is drawing notice while copyright rules lag.",
+          "mini_headline": "AI ‘one-click publishing’ grows",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Wiley의 Chris Reid는 학술 출판이 지금 ‘에이전트 발견(agentic discovery)’ 시대 한복판에 있다고 주장한다. 연구자의 84%가 연구에 AI 도구를 쓴다고 답했고 Google Scholar와 PubMed를 거쳐 들어오는 유입은 줄어든다."
-              },
-              {
-                "t": "p",
-                "x": "더 큰 변화는 이제 막 시작됐다고 그는 쓴다. ‘에이전트 소비(agentic consumption)’다. 시스템이 실행하고 결과를 평가하고 다음 단계를 고르는 워크플로 안에서, 사람 손을 거의 거치지 않고 문헌을 쓰는 방식이다."
-              },
-              {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-                "cap": "에이전트 소비 루프: 가설, 문헌, 프로토콜, 실행, 결과."
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+                "cap": "Reuters/Yonhap News"
               },
               {
                 "t": "p",
-                "x": "프로그래밍 가능한 클라우드 실험실(cloud-lab) 20개 팀에 NSF가 지원한 3억 8000만 달러($380 million), Discovery Loop와 Periodic Labs 같은 스타트업이 그 신호다. 기계 독자는 전문, 특히 방법 섹션을 원한다. 기계가 읽을 수 있는(machine-readable) 이용 권한과 최신 공식 판본(version of record)도 있어야 한다. MCP 커넥터로 제공하는 방식이 한 예다."
+                "x": "Korea ranks 2nd in the world in paid ChatGPT subscribers and is actively using AI, but critics say its AI copyright protection lags behind other countries. Europe and Japan already have frameworks in place, while Korea has only just begun the discussion."
               },
               {
                 "t": "p",
-                "x": "Reid는 출판사가 수동적이거나 거래 중심인 태도를 버리고 전략적으로 움직여야 한다고 촉구한다. 콘텐츠도 관리·사용량 측정·출처 표시가 되는 인프라로 내보내야 한다고 본다."
+                "x": "In September, the ChatGPT app had 1799만 3884 monthly active users in Korea, the most of any AI app, while Claude reached 170만 8413, up more than 13-fold in 1 year. In ChatGPT revenue share by country, Korea ranks second at 5.4%, after the United States (35.4%)."
+              },
+              {
+                "t": "p",
+                "x": "The AI Basic Act took effect in January this year, but criticism continues that it lacks an explicit provision protecting human creative works and that its rules on labeling AI creations are vague."
+              },
+              {
+                "t": "p",
+                "x": "In Korea, the problem of low-quality ‘one-click publishing’ has surfaced ahead of AI training. It means making books with AI alone, without any input from an author or translator, such as running a translation through AI and publishing it as is. Some project that new titles, which averaged about 6만2000 a year, could swell to 20만~30만 a year. In March, the National Assembly opened the way for libraries to decline legal deposit of AI publications, and the Korean Publishers Society announced a principle of clearly labeling the degree of AI use."
+              },
+              {
+                "t": "p",
+                "x": "On the 8th of this month, the Presidential Council on Intellectual Property reviewed and passed a plan requiring prior permission from rights holders when copyrighted works are stored and processed during AI training. The Ministry of Culture, Sports and Tourism plans to distribute a standard contract for the transfer and use of works for AI training within the year."
+              },
+              {
+                "t": "p",
+                "x": "One publishing industry official voiced concern: “Even if the content is completely different, if the style is identical to that of a real author, it is hard both to tell apart and to punish.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "エージェント型発見から\nエージェント型消費へ",
-          "body": "AIエージェントが論文を読み実験する時代、出版社はアクセスや権限、内容の再考を迫られる。",
-          "mini_headline": "論文を読むエージェント",
+          "headline": "AI「ワンクリック出版」拡大\n著作権保護は始まったばかり",
+          "body": "AI翻訳をそのまま本にする「ワンクリック出版」が注目されるが、著作権制度は遅れている。",
+          "mini_headline": "AI「ワンクリック出版」拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "WileyのChris Reidは、学術出版はすでに「エージェント型発見(agentic discovery)」の時代の只中にあると論じる。研究者の84%が研究にAIツールを使っていると答え、Google ScholarやPubMedからの流入は減っている。"
-              },
-              {
-                "t": "p",
-                "x": "さらに大きな変化が始まっていると彼は書く。それが「エージェント型消費(agentic consumption)」であり、システムが実行し、結果を評価し、次の手順を選ぶワークフローの中で、人間の介入をほとんど受けずに文献を利用する形だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-                "cap": "エージェント型消費のループ:仮説、文献、プロトコル、実行、結果。"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+                "cap": "ロイター聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "兆しとしては、プログラム可能なクラウドラボ(cloud-lab)20チームに対するNSFの3億8000万ドル($380 million)や、Discovery Loop、Periodic Labsといったスタートアップがある。機械の読み手には全文、とりわけ方法のセクションが必要で、さらに機械可読(machine-readable)な利用許諾と最新の確定版(version of record)も欠かせない。たとえばMCPコネクタを通じた提供である。"
+                "x": "韓国はChatGPTの有料購読者数で世界2位になるなどAIを積極的に活用しているが、AI著作権の保護は他国に後れを取っているとの指摘が出ている。欧州と日本はすでに制度の枠組みを整えた一方、韓国国内はようやく議論を始めたばかりだ。"
               },
               {
                 "t": "p",
-                "x": "Reidは出版社に対し、受け身または取引的な姿勢から戦略的な姿勢へ移り、管理され、利用量が計測され、出典が示されるインフラを通じてコンテンツを届けるよう促している。"
+                "x": "今年9月、韓国国内のChatGPTアプリの月間アクティブユーザー数は1799万3884人でAIアプリの中で最も多く、Claudeは170万8413人と1年で13倍以上に増えた。ChatGPTの国別売上比率で韓国は5.4%と、米国（35.4%）に次いで二番目だ。"
+              },
+              {
+                "t": "p",
+                "x": "今年1月にAI基本法が施行されたが、人間の創作物を保護すべきだとする明示的な条項がなく、AI創作物の表示規定もあいまいだとの指摘が続いている。"
+              },
+              {
+                "t": "p",
+                "x": "韓国国内では、AI学習よりも低品質な「ワンクリック出版」の問題が先に浮上している。AIで翻訳をかけてそのまま本にするなど、著者や翻訳者が関与せずAIだけで本を作るものだ。年平均約6万2000点だった新刊が年20万~30万冊に膨らむとの見方も出ている。国会は3月、図書館がAI出版物の納本を受け付けなくてもよい道を開き、韓国出版人会議はAIの活用度合いを明確に表記しようという原則を発表した。"
+              },
+              {
+                "t": "p",
+                "x": "今月8日、国家知識財産委員会はAI学習の過程で著作物を保存・処理する際に権利者の事前許諾を得るようにする案を審議・可決した。文化体育観光部は年内にAI学習用著作物の譲渡・利用に関する標準契約書を配布する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "ある出版業界関係者は「内容はまったく違っても、文体がある実在の作家のものとそっくりだといった場合、見分けることも処罰することも難しい」と懸念を示した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从代理式发现\n到代理式消费",
-          "body": "AI代理开始阅读论文并开展实验，出版商须重新思考访问、权限与内容。",
-          "mini_headline": "代理开始读论文",
+          "headline": "AI“一键出书”蔓延\n版权保护刚起步",
+          "body": "直接把AI翻译印成书的“一键出书”受到关注，但版权制度明显滞后。",
+          "mini_headline": "AI“一键出书”蔓延",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Wiley的Chris Reid认为，学术出版正深处“代理式发现”（agentic discovery）时代：84%的研究人员表示在研究中使用AI工具，来自Google Scholar和PubMed的引流正在下降。"
-              },
-              {
-                "t": "p",
-                "x": "他写道，一场更大的转变正在开始：“代理式消费”（agentic consumption），即系统在执行操作、评估结果并选择下一步的工作流中使用文献，几乎无需人工干预。"
-              },
-              {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-                "cap": "代理式消费循环：假设、文献、实验方案、执行、结果。"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+                "cap": "路透社/韩联社"
               },
               {
                 "t": "p",
-                "x": "相关信号包括NSF向20个可编程云实验室（cloud-lab）团队投入的3.8亿美元（$380 million），以及Discovery Loop和Periodic Labs等初创公司。机器读者需要全文，尤其是方法部分，还需要机器可读（machine-readable）的使用许可和最新的记录版本（version of record），例如通过MCP连接器获取。"
+                "x": "韩国的ChatGPT付费订阅用户数位居全球第2，积极运用AI，但有观点指出，韩国在AI版权保护方面落后于其他国家。欧洲和日本已建立起制度框架，而韩国国内才刚刚开始讨论。"
               },
               {
                 "t": "p",
-                "x": "Reid敦促出版商从被动或交易式姿态转向战略性姿态，通过受管控、可计量、可溯源的基础设施提供内容。"
+                "x": "今年9月，韩国国内ChatGPT应用的月活跃用户数为1799万3884人，居AI应用之首；Claude为170万8413人，1年间增长逾13倍。在ChatGPT按国家划分的营收占比中，韩国以5.4%位居第二，仅次于美国（35.4%）。"
+              },
+              {
+                "t": "p",
+                "x": "今年1月《AI基本法》开始施行，但不断有人指出，该法没有保护人类创作的明确条款，AI创作物的标注规定也很模糊。"
+              },
+              {
+                "t": "p",
+                "x": "在韩国国内，比起AI训练，低质量“一键出书”问题率先凸显，即用AI跑一遍翻译后直接出版成书，在没有作者或译者参与的情况下仅靠AI制作图书。有观察认为，年均约6万2000种的新书可能膨胀至每年20万~30万册。国会在3月为图书馆可以不接收AI出版物缴送开辟了途径，韩国出版人会议则发布了明确标注AI使用程度的原则。"
+              },
+              {
+                "t": "p",
+                "x": "本月8日，国家知识产权委员会审议通过了一项方案，要求在AI训练过程中存储和处理作品时须事先获得权利人许可。文化体育观光部计划年内发布AI训练用作品转让与使用标准合同。"
+              },
+              {
+                "t": "p",
+                "x": "一位出版业人士担忧地表示：“即便内容完全不同，但如果文风与某位真实作家一模一样，就很难区分，也很难处罚。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Del descubrimiento agéntico\nal consumo agéntico",
-          "body": "Con agentes de AI que leen artículos para experimentar, las editoriales deben repensar acceso, permisos y contenido.",
-          "mini_headline": "Los agentes ya leen los artículos",
+          "headline": "Auge de la ‘edición en un clic’\ncon AI; el copyright, en pañales",
+          "body": "Destaca la ‘edición en un clic’, que publica tal cual traducciones de AI, pero el régimen de copyright va rezagado.",
+          "mini_headline": "Auge de la ‘edición en un clic’ con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Chris Reid, de Wiley, sostiene que la edición académica está de lleno en una era de “descubrimiento agéntico” (agentic discovery): el 84% de los investigadores afirma usar herramientas de AI en su investigación, y las visitas derivadas desde Google Scholar y PubMed están cayendo."
-              },
-              {
-                "t": "p",
-                "x": "Según escribe, empieza un cambio mayor: el “consumo agéntico” (agentic consumption), en el que los sistemas usan la literatura dentro de flujos de trabajo que actúan, evalúan el resultado y eligen el siguiente paso, con poca intervención humana."
-              },
-              {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-                "cap": "El ciclo del consumo agéntico: hipótesis, literatura, protocolo, ejecución, resultado."
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+                "cap": "Reuters/Yonhap"
               },
               {
                 "t": "p",
-                "x": "Entre las señales figuran los $380 millones (NSF’s $380 million) de la NSF para 20 equipos de laboratorios en la nube programables (cloud-lab) y startups como Discovery Loop y Periodic Labs. Los lectores-máquina necesitan el texto completo, sobre todo las secciones de métodos, además de permisos legibles por máquina (machine-readable) y versiones de registro actualizadas, por ejemplo mediante conectores MCP."
+                "x": "Aunque Corea usa activamente la AI —es el 2.º país del mundo en suscriptores de pago de ChatGPT—, se señala que su protección de los derechos de autor frente a la AI va por detrás de otros países. Europa y Japón ya tienen marcos establecidos, mientras que en Corea el debate apenas comienza."
               },
               {
                 "t": "p",
-                "x": "Reid insta a las editoriales a pasar de posturas pasivas o transaccionales a posturas estratégicas, y a distribuir contenido mediante una infraestructura gobernada, medida y atribuible."
+                "x": "En septiembre, la app de ChatGPT tuvo en Corea 1799만 3884 usuarios activos mensuales, la mayor cifra entre las apps de AI, y Claude alcanzó 170만 8413, más de 13 veces más que 1 año antes. En la cuota de ingresos de ChatGPT por país, Corea es segunda con un 5.4%, tras Estados Unidos (35.4%)."
+              },
+              {
+                "t": "p",
+                "x": "La Ley Básica de AI entró en vigor en enero de este año, pero persisten las críticas de que carece de una disposición explícita para proteger las obras humanas y de que sus normas para etiquetar las creaciones de AI son ambiguas."
+              },
+              {
+                "t": "p",
+                "x": "En Corea, el problema de la ‘edición en un clic’ de baja calidad ha surgido antes que el del entrenamiento de AI. Se trata de hacer libros solo con AI, sin intervención de autores ni traductores, por ejemplo pasando una traducción por AI y publicándola tal cual. Hay quien prevé que las novedades, que rondaban unos 6만2000 títulos al año, podrían dispararse a 20만~30만 al año. En marzo, la Asamblea Nacional abrió la puerta a que las bibliotecas puedan no aceptar el depósito legal de publicaciones de AI, y la Sociedad de Editores de Corea anunció el principio de indicar claramente el grado de uso de AI."
+              },
+              {
+                "t": "p",
+                "x": "El día 8 de este mes, el Consejo Presidencial de Propiedad Intelectual examinó y aprobó una propuesta que exige el permiso previo de los titulares de derechos para almacenar y procesar obras durante el entrenamiento de AI. El Ministerio de Cultura, Deportes y Turismo prevé distribuir este año un contrato tipo para la cesión y el uso de obras destinadas al entrenamiento de AI."
+              },
+              {
+                "t": "p",
+                "x": "Un responsable del sector editorial advirtió: «Aunque el contenido sea totalmente distinto, si el estilo es idéntico al de un autor real, es difícil tanto distinguirlo como sancionarlo»."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "에이전트 발견에서\n에이전트 소비로",
-          "body": "AI 에이전트가 실험하려 논문을 읽자 출판사는 접근·권한·콘텐츠를 재고해야 한다.",
-          "mini_headline": "논문 읽는 에이전트",
+        "en": {
+          "headline": "AI ‘one-click publishing’ grows\nCopyright protection in infancy",
+          "body": "One-click publishing, turning AI translations straight into books, is drawing notice while copyright rules lag.",
+          "mini_headline": "AI ‘one-click publishing’ grows",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Wiley의 Chris Reid는 학술 출판이 ‘에이전트 발견(agentic discovery)’ 시대 한가운데 있다고 주장한다. 연구자의 84%가 연구에 AI 도구를 쓴다고 답했고, Google Scholar와 PubMed에서 들어오는 유입은 줄고 있다."
-              },
-              {
-                "t": "p",
-                "x": "그는 더 큰 변화가 시작되고 있다고 쓴다. 바로 ‘에이전트 소비(agentic consumption)’다. 시스템이 실행하고, 결과를 평가하고, 다음 단계를 고르는 워크플로 안에서 사람의 개입을 거의 받지 않고 문헌을 활용하는 방식이다."
-              },
-              {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-                "cap": "에이전트 소비 루프: 가설, 문헌, 프로토콜, 실행, 결과."
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+                "cap": "Reuters/Yonhap News"
               },
               {
                 "t": "p",
-                "x": "프로그래밍 가능한 클라우드 실험실(cloud-lab) 20개 팀에 대한 NSF의 3억 8000만 달러($380 million) 지원, 그리고 Discovery Loop와 Periodic Labs 같은 스타트업이 그 신호다. 기계 독자에게는 전문, 특히 방법 섹션이 필요하고, 기계가 읽을 수 있는(machine-readable) 이용 권한과 최신 공식 판본(version of record)도 필요하다. MCP 커넥터를 통한 제공이 그 예다."
+                "x": "Korea ranks 2nd in the world in paid ChatGPT subscribers and is actively using AI, but critics say its AI copyright protection lags behind other countries. Europe and Japan already have frameworks in place, while Korea has only just begun the discussion."
               },
               {
                 "t": "p",
-                "x": "Reid는 출판사가 수동적이거나 거래 중심인 태도에서 벗어나 전략적 태도로 옮겨 가고, 관리되고 사용량이 측정되며 출처가 표시되는 인프라를 통해 콘텐츠를 제공해야 한다고 촉구한다."
+                "x": "In September, the ChatGPT app had 1799만 3884 monthly active users in Korea, the most of any AI app, while Claude reached 170만 8413, up more than 13-fold in 1 year. In ChatGPT revenue share by country, Korea ranks second at 5.4%, after the United States (35.4%)."
+              },
+              {
+                "t": "p",
+                "x": "The AI Basic Act took effect in January this year, but criticism continues that it lacks an explicit provision protecting human creative works and that its rules on labeling AI creations are vague."
+              },
+              {
+                "t": "p",
+                "x": "In Korea, the problem of low-quality ‘one-click publishing’ has surfaced ahead of AI training. It means making books with AI alone, without any input from an author or translator, such as running a translation through AI and publishing it as is. Some project that new titles, which averaged about 6만2000 a year, could swell to 20만~30만 a year. In March, the National Assembly opened the way for libraries to decline legal deposit of AI publications, and the Korean Publishers Society announced a principle of clearly labeling the degree of AI use."
+              },
+              {
+                "t": "p",
+                "x": "On the 8th of this month, the Presidential Council on Intellectual Property reviewed and passed a plan requiring prior permission from rights holders when copyrighted works are stored and processed during AI training. The Ministry of Culture, Sports and Tourism plans to distribute a standard contract for the transfer and use of works for AI training within the year."
+              },
+              {
+                "t": "p",
+                "x": "One publishing industry official voiced concern: “Even if the content is completely different, if the style is identical to that of a real author, it is hard both to tell apart and to punish.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "エージェント型発見から\nエージェント型消費へ",
-          "body": "AIエージェントが論文を読み実験する時代、出版社はアクセスや権限、内容の再考を迫られる。",
-          "mini_headline": "論文を読むエージェント",
+          "headline": "AI「ワンクリック出版」拡大\n著作権保護は始まったばかり",
+          "body": "AI翻訳をそのまま本にする「ワンクリック出版」が注目されるが、著作権制度は遅れている。",
+          "mini_headline": "AI「ワンクリック出版」拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "WileyのChris Reidは、学術出版はすでに「エージェント型発見(agentic discovery)」の時代の只中にあると論じる。研究者の84%が研究にAIツールを使っていると答え、Google ScholarやPubMedからの流入は減っている。"
-              },
-              {
-                "t": "p",
-                "x": "さらに大きな変化が始まっていると彼は書く。それが「エージェント型消費(agentic consumption)」であり、システムが実行し、結果を評価し、次の手順を選ぶワークフローの中で、人間の介入をほとんど受けずに文献を利用する形だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-                "cap": "エージェント型消費のループ:仮説、文献、プロトコル、実行、結果。"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+                "cap": "ロイター聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "兆しとしては、プログラム可能なクラウドラボ(cloud-lab)20チームに対するNSFの3億8000万ドル($380 million)や、Discovery Loop、Periodic Labsといったスタートアップがある。機械の読み手には全文、とりわけ方法のセクションが必要で、さらに機械可読(machine-readable)な利用許諾と最新の確定版(version of record)も欠かせない。たとえばMCPコネクタを通じた提供である。"
+                "x": "韓国はChatGPTの有料購読者数で世界2位になるなどAIを積極的に活用しているが、AI著作権の保護は他国に後れを取っているとの指摘が出ている。欧州と日本はすでに制度の枠組みを整えた一方、韓国国内はようやく議論を始めたばかりだ。"
               },
               {
                 "t": "p",
-                "x": "Reidは出版社に対し、受け身または取引的な姿勢から戦略的な姿勢へ移り、管理され、利用量が計測され、出典が示されるインフラを通じてコンテンツを届けるよう促している。"
+                "x": "今年9月、韓国国内のChatGPTアプリの月間アクティブユーザー数は1799万3884人でAIアプリの中で最も多く、Claudeは170万8413人と1年で13倍以上に増えた。ChatGPTの国別売上比率で韓国は5.4%と、米国（35.4%）に次いで二番目だ。"
+              },
+              {
+                "t": "p",
+                "x": "今年1月にAI基本法が施行されたが、人間の創作物を保護すべきだとする明示的な条項がなく、AI創作物の表示規定もあいまいだとの指摘が続いている。"
+              },
+              {
+                "t": "p",
+                "x": "韓国国内では、AI学習よりも低品質な「ワンクリック出版」の問題が先に浮上している。AIで翻訳をかけてそのまま本にするなど、著者や翻訳者が関与せずAIだけで本を作るものだ。年平均約6万2000点だった新刊が年20万~30万冊に膨らむとの見方も出ている。国会は3月、図書館がAI出版物の納本を受け付けなくてもよい道を開き、韓国出版人会議はAIの活用度合いを明確に表記しようという原則を発表した。"
+              },
+              {
+                "t": "p",
+                "x": "今月8日、国家知識財産委員会はAI学習の過程で著作物を保存・処理する際に権利者の事前許諾を得るようにする案を審議・可決した。文化体育観光部は年内にAI学習用著作物の譲渡・利用に関する標準契約書を配布する予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "ある出版業界関係者は「内容はまったく違っても、文体がある実在の作家のものとそっくりだといった場合、見分けることも処罰することも難しい」と懸念を示した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从代理式发现\n到代理式消费",
-          "body": "AI代理开始阅读论文并开展实验，出版商须重新思考访问、权限与内容。",
-          "mini_headline": "代理开始读论文",
+          "headline": "AI“一键出书”蔓延\n版权保护刚起步",
+          "body": "直接把AI翻译印成书的“一键出书”受到关注，但版权制度明显滞后。",
+          "mini_headline": "AI“一键出书”蔓延",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Wiley的Chris Reid认为，学术出版正深处“代理式发现”（agentic discovery）时代：84%的研究人员表示在研究中使用AI工具，来自Google Scholar和PubMed的引流正在下降。"
-              },
-              {
-                "t": "p",
-                "x": "他写道，一场更大的转变正在开始：“代理式消费”（agentic consumption），即系统在执行操作、评估结果并选择下一步的工作流中使用文献，几乎无需人工干预。"
-              },
-              {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-                "cap": "代理式消费循环：假设、文献、实验方案、执行、结果。"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+                "cap": "路透社/韩联社"
               },
               {
                 "t": "p",
-                "x": "相关信号包括NSF向20个可编程云实验室（cloud-lab）团队投入的3.8亿美元（$380 million），以及Discovery Loop和Periodic Labs等初创公司。机器读者需要全文，尤其是方法部分，还需要机器可读（machine-readable）的使用许可和最新的记录版本（version of record），例如通过MCP连接器获取。"
+                "x": "韩国的ChatGPT付费订阅用户数位居全球第2，积极运用AI，但有观点指出，韩国在AI版权保护方面落后于其他国家。欧洲和日本已建立起制度框架，而韩国国内才刚刚开始讨论。"
               },
               {
                 "t": "p",
-                "x": "Reid敦促出版商从被动或交易式姿态转向战略性姿态，通过受管控、可计量、可溯源的基础设施提供内容。"
+                "x": "今年9月，韩国国内ChatGPT应用的月活跃用户数为1799万3884人，居AI应用之首；Claude为170万8413人，1年间增长逾13倍。在ChatGPT按国家划分的营收占比中，韩国以5.4%位居第二，仅次于美国（35.4%）。"
+              },
+              {
+                "t": "p",
+                "x": "今年1月《AI基本法》开始施行，但不断有人指出，该法没有保护人类创作的明确条款，AI创作物的标注规定也很模糊。"
+              },
+              {
+                "t": "p",
+                "x": "在韩国国内，比起AI训练，低质量“一键出书”问题率先凸显，即用AI跑一遍翻译后直接出版成书，在没有作者或译者参与的情况下仅靠AI制作图书。有观察认为，年均约6万2000种的新书可能膨胀至每年20万~30万册。国会在3月为图书馆可以不接收AI出版物缴送开辟了途径，韩国出版人会议则发布了明确标注AI使用程度的原则。"
+              },
+              {
+                "t": "p",
+                "x": "本月8日，国家知识产权委员会审议通过了一项方案，要求在AI训练过程中存储和处理作品时须事先获得权利人许可。文化体育观光部计划年内发布AI训练用作品转让与使用标准合同。"
+              },
+              {
+                "t": "p",
+                "x": "一位出版业人士担忧地表示：“即便内容完全不同，但如果文风与某位真实作家一模一样，就很难区分，也很难处罚。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Del descubrimiento agéntico\nal consumo agéntico",
-          "body": "Con agentes de AI que leen artículos para experimentar, las editoriales deben repensar acceso, permisos y contenido.",
-          "mini_headline": "Los agentes ya leen los artículos",
+          "headline": "Auge de la ‘edición en un clic’\ncon AI; el copyright, en pañales",
+          "body": "Destaca la ‘edición en un clic’, que publica tal cual traducciones de AI, pero el régimen de copyright va rezagado.",
+          "mini_headline": "Auge de la ‘edición en un clic’ con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Chris Reid, de Wiley, sostiene que la edición académica está de lleno en una era de “descubrimiento agéntico” (agentic discovery): el 84% de los investigadores afirma usar herramientas de AI en su investigación, y las visitas derivadas desde Google Scholar y PubMed están cayendo."
-              },
-              {
-                "t": "p",
-                "x": "Según escribe, empieza un cambio mayor: el “consumo agéntico” (agentic consumption), en el que los sistemas usan la literatura dentro de flujos de trabajo que actúan, evalúan el resultado y eligen el siguiente paso, con poca intervención humana."
-              },
-              {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/The-agentic-consumption-loop.png",
-                "cap": "El ciclo del consumo agéntico: hipótesis, literatura, protocolo, ejecución, resultado."
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_P1.jpg",
+                "cap": "Reuters/Yonhap"
               },
               {
                 "t": "p",
-                "x": "Entre las señales figuran los $380 millones (NSF’s $380 million) de la NSF para 20 equipos de laboratorios en la nube programables (cloud-lab) y startups como Discovery Loop y Periodic Labs. Los lectores-máquina necesitan el texto completo, sobre todo las secciones de métodos, además de permisos legibles por máquina (machine-readable) y versiones de registro actualizadas, por ejemplo mediante conectores MCP."
+                "x": "Aunque Corea usa activamente la AI —es el 2.º país del mundo en suscriptores de pago de ChatGPT—, se señala que su protección de los derechos de autor frente a la AI va por detrás de otros países. Europa y Japón ya tienen marcos establecidos, mientras que en Corea el debate apenas comienza."
               },
               {
                 "t": "p",
-                "x": "Reid insta a las editoriales a pasar de posturas pasivas o transaccionales a posturas estratégicas, y a distribuir contenido mediante una infraestructura gobernada, medida y atribuible."
+                "x": "En septiembre, la app de ChatGPT tuvo en Corea 1799만 3884 usuarios activos mensuales, la mayor cifra entre las apps de AI, y Claude alcanzó 170만 8413, más de 13 veces más que 1 año antes. En la cuota de ingresos de ChatGPT por país, Corea es segunda con un 5.4%, tras Estados Unidos (35.4%)."
+              },
+              {
+                "t": "p",
+                "x": "La Ley Básica de AI entró en vigor en enero de este año, pero persisten las críticas de que carece de una disposición explícita para proteger las obras humanas y de que sus normas para etiquetar las creaciones de AI son ambiguas."
+              },
+              {
+                "t": "p",
+                "x": "En Corea, el problema de la ‘edición en un clic’ de baja calidad ha surgido antes que el del entrenamiento de AI. Se trata de hacer libros solo con AI, sin intervención de autores ni traductores, por ejemplo pasando una traducción por AI y publicándola tal cual. Hay quien prevé que las novedades, que rondaban unos 6만2000 títulos al año, podrían dispararse a 20만~30만 al año. En marzo, la Asamblea Nacional abrió la puerta a que las bibliotecas puedan no aceptar el depósito legal de publicaciones de AI, y la Sociedad de Editores de Corea anunció el principio de indicar claramente el grado de uso de AI."
+              },
+              {
+                "t": "p",
+                "x": "El día 8 de este mes, el Consejo Presidencial de Propiedad Intelectual examinó y aprobó una propuesta que exige el permiso previo de los titulares de derechos para almacenar y procesar obras durante el entrenamiento de AI. El Ministerio de Cultura, Deportes y Turismo prevé distribuir este año un contrato tipo para la cesión y el uso de obras destinadas al entrenamiento de AI."
+              },
+              {
+                "t": "p",
+                "x": "Un responsable del sector editorial advirtió: «Aunque el contenido sea totalmente distinto, si el estilo es idéntico al de un autor real, es difícil tanto distinguirlo como sancionarlo»."
               }
             ]
           }
@@ -1019,195 +989,315 @@
       }
     },
     {
-      "id": "books-mentat-discovery",
+      "id": "books-kpa-ai-compensation",
       "source_lang": "ko",
-      "tool": "Books",
       "eyebrow": "AI NEWS",
-      "headline": "멘탯, 책 데이터를\n토큰 단위로 판다",
-      "body": "멘탯 디스커버리로 AI 기업이 도서를 토큰 단위로 검색하고 계약한다.",
-      "mini_headline": "멘탯, 책을 토큰으로",
-      "source": "매일일보",
-      "url": "https://www.m-i.kr/news/articleView.html?idxno=2005012",
+      "headline": "출판인회의, AI에\n책 학습 보상 요구",
+      "body": "출판인회의가 AI 학습 도서의 출처 공개와 정당한 보상을 요구했다.",
+      "mini_headline": "출판계, AI 보상 요구",
+      "tool": "Books",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261016078400005",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-            "cap": "멘탯은 AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리(Mentat Discovery Console)'를 출시했다. 사진=멘탯 제공"
+            "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+            "cap": "한국출판인회의 호소문 페이지 캡처"
           },
           {
             "t": "p",
-            "x": "도서 라이선싱 플랫폼 멘탯이 AI 기업용 도서 데이터 검색 서비스 ‘멘탯 디스커버리’를 출시했다고 13일 밝혔다. 출판사 도서를 권수가 아닌 ‘토큰’ 단위와 예상 비용으로 보여주고, 필요한 데이터를 고르면 계약까지 연결한다."
+            "x": "해외 인공지능(AI) 기업들이 학습용으로 의심되는 도서를 대량 구매하려는 움직임과 관련해 한국출판인회의가 정당한 보상을 촉구하는 호소문을 발표했다."
           },
           {
             "t": "p",
-            "x": "멘탯은 2025년 설립 이후 국내 출판사 90여곳과 라이선스 계약을 맺었으며 계약 도서는 약 3만4000종이다. 현재 검색 가능한 도서 데이터는 약 80억 토큰 규모다."
+            "x": "한국출판인회의는 창작자와 출판사의 권리를 지키고 AI와 출판이 상생할 수 있는 기반을 마련하기 위해 '대한민국 호소문'을 작성해 연명을 받고 있다고 16일 밝혔다."
           },
           {
             "t": "p",
-            "x": "계약한 데이터는 JSONL 등 파일 형식의 ‘학습 데이터셋’과, AI가 답변할 때 도서 문단을 출처와 함께 제시하는 ‘참조·인용 API’ 두 가지로 제공된다. 검색 대상은 모두 정식 라이선스 계약을 맺은 도서다."
+            "x": "호소문에는 정부와 국회, AI 기업에 학습 데이터 투명성을 확보하고, 이용허락 원칙 확립과 정당한 보상이 이뤄질 수 있도록 할 것을 촉구하는 내용이 담겼다."
           },
           {
             "t": "p",
-            "x": "전병욱 멘탯 대표는 “책이 AI에 더 많이 활용되고, 그에 따른 수익이 출판사와 저자에게 돌아가는 구조를 확대해 나갈 계획”이라고 말했다."
+            "x": "한국출판인회의는 호소문에서 \"책이 없으면 AI도 없다\"며 \"그런데 정작 책을 만든 사람들은 자신의 작품이 언제, 어떻게, 어느 AI에 쓰였는지조차 알지 못한다. 알 수 없으니 묻지도, 거절하지도, 정당한 대가를 요구하지도 못한다\"고 목소리를 높였다."
+          },
+          {
+            "t": "p",
+            "x": "또 \"AI 기업은 학습에 이용한 작품과 그 출처, 적법한 이용 근거를 기록하고 권리자가 이를 확인할 수 있게 해야 한다\"며 \"AI 학습은 권리자의 이용 허락이 원칙이며 거부 의사를 밝히지 않았다고 해서 허락한 것으로 봐선 안 된다\"고 강조했다."
+          },
+          {
+            "t": "p",
+            "x": "출판인회의는 \"AI 기업은 출판물 권리자에게 정당한 대가를 지급해야 한다\"며 \"협상력이 약한 중소 출판사와 개인 창작자도 공정한 조건에서 협상하고 보상받을 수 있어야 한다\"고 요구했다. 이와 함께 정부와 국회는 산업 육성을 명분으로 창작자의 권리를 제한해서는 안 된다고 촉구했다."
+          },
+          {
+            "t": "p",
+            "x": "전날부터 시작된 연명에는 이날 오전까지 출판사와 관련 기관 등 단체 158곳, 작가·번역가·그림 작가·출판 관계자 등 개인 321명이 참여했다. 소설가 김남일과 김이정, 은미희, 조영주, 시인 나희덕, 류근, 정우영, 번역가 홍한별 등이 동참했다."
+          },
+          {
+            "t": "p",
+            "x": "이번 호소문은 세계 최대 규모의 출판·저작권 거래 시장인 프랑크푸르트도서전 개막에 맞춰 최근 현지 출판계가 발표한 '프랑크푸르트 호소문'에 뜻을 함께하고, AI 학습 데이터와 관련한 경각심을 불러일으키기 위해 마련됐다."
+          },
+          {
+            "t": "p",
+            "x": "'프랑크푸르트 호소문'은 유럽연합(EU)과 독일 정부에 AI 학습에 쓰인 저작물의 공개, 공정한 이용허락 체계, 저작권을 실효성 있게 지킬 수 있는 수단을 요구했다. 한국출판인회의는 향후 호소문을 정부나 국회에 전달할 예정이다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "멘탯, 책 데이터를\n토큰 단위로 판다",
-          "body": "멘탯 디스커버리로 AI 기업이 도서를 토큰 단위로 검색하고 계약한다.",
-          "mini_headline": "멘탯, 책을 토큰으로",
+          "headline": "출판인회의, AI에\n책 학습 보상 요구",
+          "body": "출판인회의가 AI 학습 도서의 출처 공개와 정당한 보상을 요구했다.",
+          "mini_headline": "출판계, AI 보상 요구",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-                "cap": "멘탯은 AI 기업용 도서 데이터 검색 서비스 '멘탯 디스커버리(Mentat Discovery Console)'를 출시했다. 사진=멘탯 제공"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+                "cap": "한국출판인회의 호소문 페이지 캡처"
               },
               {
                 "t": "p",
-                "x": "도서 라이선싱 플랫폼 멘탯이 AI 기업용 도서 데이터 검색 서비스 ‘멘탯 디스커버리’를 출시했다고 13일 밝혔다. 출판사 도서를 권수가 아닌 ‘토큰’ 단위와 예상 비용으로 보여주고, 필요한 데이터를 고르면 계약까지 연결한다."
+                "x": "해외 인공지능(AI) 기업들이 학습용으로 의심되는 도서를 대량 구매하려는 움직임과 관련해 한국출판인회의가 정당한 보상을 촉구하는 호소문을 발표했다."
               },
               {
                 "t": "p",
-                "x": "멘탯은 2025년 설립 이후 국내 출판사 90여곳과 라이선스 계약을 맺었으며 계약 도서는 약 3만4000종이다. 현재 검색 가능한 도서 데이터는 약 80억 토큰 규모다."
+                "x": "한국출판인회의는 창작자와 출판사의 권리를 지키고 AI와 출판이 상생할 수 있는 기반을 마련하기 위해 '대한민국 호소문'을 작성해 연명을 받고 있다고 16일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "계약한 데이터는 JSONL 등 파일 형식의 ‘학습 데이터셋’과, AI가 답변할 때 도서 문단을 출처와 함께 제시하는 ‘참조·인용 API’ 두 가지로 제공된다. 검색 대상은 모두 정식 라이선스 계약을 맺은 도서다."
+                "x": "호소문에는 정부와 국회, AI 기업에 학습 데이터 투명성을 확보하고, 이용허락 원칙 확립과 정당한 보상이 이뤄질 수 있도록 할 것을 촉구하는 내용이 담겼다."
               },
               {
                 "t": "p",
-                "x": "전병욱 멘탯 대표는 “책이 AI에 더 많이 활용되고, 그에 따른 수익이 출판사와 저자에게 돌아가는 구조를 확대해 나갈 계획”이라고 말했다."
+                "x": "한국출판인회의는 호소문에서 \"책이 없으면 AI도 없다\"며 \"그런데 정작 책을 만든 사람들은 자신의 작품이 언제, 어떻게, 어느 AI에 쓰였는지조차 알지 못한다. 알 수 없으니 묻지도, 거절하지도, 정당한 대가를 요구하지도 못한다\"고 목소리를 높였다."
+              },
+              {
+                "t": "p",
+                "x": "또 \"AI 기업은 학습에 이용한 작품과 그 출처, 적법한 이용 근거를 기록하고 권리자가 이를 확인할 수 있게 해야 한다\"며 \"AI 학습은 권리자의 이용 허락이 원칙이며 거부 의사를 밝히지 않았다고 해서 허락한 것으로 봐선 안 된다\"고 강조했다."
+              },
+              {
+                "t": "p",
+                "x": "출판인회의는 \"AI 기업은 출판물 권리자에게 정당한 대가를 지급해야 한다\"며 \"협상력이 약한 중소 출판사와 개인 창작자도 공정한 조건에서 협상하고 보상받을 수 있어야 한다\"고 요구했다. 이와 함께 정부와 국회는 산업 육성을 명분으로 창작자의 권리를 제한해서는 안 된다고 촉구했다."
+              },
+              {
+                "t": "p",
+                "x": "전날부터 시작된 연명에는 이날 오전까지 출판사와 관련 기관 등 단체 158곳, 작가·번역가·그림 작가·출판 관계자 등 개인 321명이 참여했다. 소설가 김남일과 김이정, 은미희, 조영주, 시인 나희덕, 류근, 정우영, 번역가 홍한별 등이 동참했다."
+              },
+              {
+                "t": "p",
+                "x": "이번 호소문은 세계 최대 규모의 출판·저작권 거래 시장인 프랑크푸르트도서전 개막에 맞춰 최근 현지 출판계가 발표한 '프랑크푸르트 호소문'에 뜻을 함께하고, AI 학습 데이터와 관련한 경각심을 불러일으키기 위해 마련됐다."
+              },
+              {
+                "t": "p",
+                "x": "'프랑크푸르트 호소문'은 유럽연합(EU)과 독일 정부에 AI 학습에 쓰인 저작물의 공개, 공정한 이용허락 체계, 저작권을 실효성 있게 지킬 수 있는 수단을 요구했다. 한국출판인회의는 향후 호소문을 정부나 국회에 전달할 예정이다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Mentat sells book data\nby the token",
-          "body": "With Mentat Discovery, AI companies can search books by the token and sign contracts for them.",
-          "mini_headline": "Mentat sells books by the token",
+          "headline": "Korean publishers seek pay for\nbooks used in AI training",
+          "body": "The Korean Publishers Society called for disclosing the sources of books used in AI training and fair compensation.",
+          "mini_headline": "Publishers seek AI compensation",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-                "cap": "Mentat has launched ‘Mentat Discovery (Mentat Discovery Console)’, a book data search service for AI companies. Photo: courtesy of Mentat"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+                "cap": "Screenshot of the Korean Publishers Society appeal page"
               },
               {
                 "t": "p",
-                "x": "Book licensing platform Mentat said on the 13th that it has launched ‘Mentat Discovery’, a book data search service for AI companies. It shows publishers’ books not by number of volumes but in ‘token’ units with an estimated cost, and once a company picks the data it needs, it carries the process through to a contract."
+                "x": "The Korean Publishers Society has issued an appeal calling for fair compensation amid moves by overseas artificial intelligence (AI) companies to buy large quantities of books suspected to be for training."
               },
               {
                 "t": "p",
-                "x": "Since its founding in 2025, Mentat has signed license agreements with some 90 Korean publishers, covering about 34,000 titles. The book data currently searchable amounts to about 8 billion tokens."
+                "x": "The Korean Publishers Society said on the 16th that it has drafted a ‘Republic of Korea Appeal’ and is collecting signatures to protect the rights of creators and publishers and lay the groundwork for AI and publishing to thrive together."
               },
               {
                 "t": "p",
-                "x": "Contracted data comes in two forms: a ‘training dataset’ in file formats such as JSONL, and a ‘reference and citation API’ that presents book passages with their sources when AI answers. Every searchable book is covered by a formal license agreement."
+                "x": "The appeal urges the government, the National Assembly and AI companies to secure transparency in training data, establish the principle of licensing, and ensure fair compensation."
               },
               {
                 "t": "p",
-                "x": "Mentat CEO Jeon Byung-wook said, “We plan to expand a structure in which books are used more by AI and the resulting revenue goes back to publishers and authors.”"
+                "x": "In the appeal, the Korean Publishers Society said, “Without books, there is no AI,” adding, “Yet the people who actually made the books do not even know when, how or by which AI their works were used. Because they cannot know, they cannot ask, refuse or demand fair payment.”"
+              },
+              {
+                "t": "p",
+                "x": "It also stressed, “AI companies must record the works used for training, their sources and the legal basis for their use, and allow rights holders to verify this,” and “Permission from rights holders is the principle for AI training, and not expressing refusal should not be regarded as consent.”"
+              },
+              {
+                "t": "p",
+                "x": "The society demanded, “AI companies must pay fair compensation to rights holders of publications,” adding, “Small and medium-sized publishers and individual creators with weak bargaining power must also be able to negotiate and be compensated on fair terms.” It also urged the government and the National Assembly not to restrict creators’ rights in the name of fostering the industry."
+              },
+              {
+                "t": "p",
+                "x": "By that morning, 158 organizations, including publishers and related institutions, and 321 individuals, including writers, translators, illustrators and publishing professionals, had joined the signature drive that began the previous day. Novelists Kim Nam-il, Kim Yi-jeong, Eun Mi-hee and Jo Young-joo, poets Na Hee-duk, Ryu Geun and Jeong Woo-young, and translator Hong Han-byul were among those taking part."
+              },
+              {
+                "t": "p",
+                "x": "The appeal was prepared to stand with the ‘Frankfurt Appeal’ recently issued by the local publishing industry to coincide with the opening of the Frankfurt Book Fair, the world’s largest market for publishing and copyright trading, and to raise awareness about AI training data."
+              },
+              {
+                "t": "p",
+                "x": "The ‘Frankfurt Appeal’ called on the European Union (EU) and the German government to disclose works used for AI training, establish a fair licensing system, and provide effective means of protecting copyright. The Korean Publishers Society plans to deliver its appeal to the government or the National Assembly."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mentat、書籍データを\nトークン単位で販売",
-          "body": "Mentat Discoveryで、AI企業は書籍をトークン単位で検索し契約できる。",
-          "mini_headline": "Mentat、書籍をトークンで",
+          "headline": "韓国出版人会議、AIに\n書籍学習の対価要求",
+          "body": "韓国出版人会議は、AI学習に使われた書籍の出所公開と正当な対価を求めた。",
+          "mini_headline": "出版界、AIに対価要求",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-                "cap": "MentatはAI企業向けの書籍データ検索サービス「Mentat Discovery(Mentat Discovery Console)」をリリースした。写真=Mentat提供"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+                "cap": "韓国出版人会議の訴え文ページのキャプチャー"
               },
               {
                 "t": "p",
-                "x": "書籍ライセンスプラットフォームのMentatは13日、AI企業向けの書籍データ検索サービス「Mentat Discovery」をリリースしたと発表した。出版社の書籍を冊数ではなく「トークン」単位と予想費用で示し、必要なデータを選べば契約までつなげる。"
+                "x": "海外の人工知能（AI）企業が学習用とみられる書籍を大量に購入しようとする動きをめぐり、韓国出版人会議が正当な対価を求める訴え文を発表した。"
               },
               {
                 "t": "p",
-                "x": "Mentatは2025年の設立以来、韓国の出版社90社余りとライセンス契約を結び、契約書籍は約3万4000点にのぼる。現在検索できる書籍データは約80億トークン規模だ。"
+                "x": "韓国出版人会議は16日、創作者と出版社の権利を守り、AIと出版が共存できる基盤をつくるため「大韓民国訴え文」を作成し、連名を募っていると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "契約したデータは、JSONLなどのファイル形式の「学習データセット」と、AIが回答する際に書籍の段落を出典とともに示す「参照・引用API」の2種類で提供される。検索対象はすべて正式なライセンス契約を結んだ書籍だ。"
+                "x": "訴え文には、政府と国会、AI企業に対し、学習データの透明性を確保し、利用許諾の原則の確立と正当な対価の支払いが実現するよう求める内容が盛り込まれた。"
               },
               {
                 "t": "p",
-                "x": "Mentatのチョン・ビョンウク代表は「本がAIにより多く活用され、それに伴う収益が出版社と著者に還元される仕組みを広げていく計画だ」と述べた。"
+                "x": "韓国出版人会議は訴え文で「本がなければAIもない」とし、「ところが肝心の本を作った人々は、自分の作品がいつ、どのように、どのAIに使われたのかさえ知らない。知り得ないので、尋ねることも、拒むことも、正当な対価を求めることもできない」と訴えた。"
+              },
+              {
+                "t": "p",
+                "x": "また「AI企業は学習に利用した作品とその出所、適法な利用根拠を記録し、権利者がそれを確認できるようにすべきだ」とし、「AI学習は権利者の利用許諾が原則であり、拒否の意思を示さなかったからといって許諾したとみなしてはならない」と強調した。"
+              },
+              {
+                "t": "p",
+                "x": "出版人会議は「AI企業は出版物の権利者に正当な対価を支払うべきだ」とし、「交渉力の弱い中小出版社や個人の創作者も、公正な条件で交渉し、補償を受けられるようにすべきだ」と求めた。あわせて、政府と国会は産業育成を名目に創作者の権利を制限してはならないと訴えた。"
+              },
+              {
+                "t": "p",
+                "x": "前日から始まった連名には、この日午前までに出版社や関連機関など158団体、作家・翻訳家・イラストレーター・出版関係者など個人321人が参加した。小説家のキム・ナミル、キム・イジョン、ウン・ミヒ、チョ・ヨンジュ、詩人のナ・ヒドク、リュ・グン、チョン・ウヨン、翻訳家のホン・ハンビョルらが名を連ねた。"
+              },
+              {
+                "t": "p",
+                "x": "今回の訴え文は、世界最大規模の出版・著作権取引市場であるフランクフルト・ブックフェアの開幕に合わせて現地の出版界が最近発表した「フランクフルト訴え文」に賛同し、AI学習データをめぐる警戒感を喚起するために用意された。"
+              },
+              {
+                "t": "p",
+                "x": "「フランクフルト訴え文」は、欧州連合（EU）とドイツ政府に対し、AI学習に使われた著作物の公開、公正な利用許諾の仕組み、著作権を実効的に守る手段を求めた。韓国出版人会議は今後、訴え文を政府や国会に届ける予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mentat按词元\n出售图书数据",
-          "body": "借助Mentat Discovery，AI企业可按词元检索图书并签约。",
-          "mini_headline": "Mentat按词元卖书",
+          "headline": "韩国出版人会议\n要求AI训练用书获补偿",
+          "body": "韩国出版人会议要求公开AI训练所用图书的出处并给予合理补偿。",
+          "mini_headline": "出版界要求AI补偿",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-                "cap": "Mentat推出面向AI企业的图书数据检索服务“Mentat Discovery”（Mentat Discovery Console）。图片=Mentat提供"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+                "cap": "韩国出版人会议呼吁书页面截图"
               },
               {
                 "t": "p",
-                "x": "图书授权平台Mentat于13日宣布，推出面向AI企业的图书数据检索服务“Mentat Discovery”。该服务不按册数，而以“词元”（token）为单位并附预估费用来展示出版社图书，选定所需数据后可直接推进到签约。"
+                "x": "针对海外人工智能（AI）企业试图大量购买疑似用于训练的图书一事，韩国出版人会议发表呼吁书，敦促给予合理补偿。"
               },
               {
                 "t": "p",
-                "x": "Mentat自2025年成立以来，已与韩国90多家出版社签订授权协议，签约图书约3.4万种。目前可检索的图书数据规模约为80亿词元。"
+                "x": "韩国出版人会议16日表示，为维护创作者和出版社的权利、为AI与出版共生打下基础，已起草“大韩民国呼吁书”并正在征集联署。"
               },
               {
                 "t": "p",
-                "x": "签约数据以两种形式提供：JSONL等文件格式的“训练数据集”，以及在AI作答时附带出处呈现图书段落的“参考·引用API”。检索对象均为已签订正式授权协议的图书。"
+                "x": "呼吁书敦促政府、国会和AI企业确保训练数据透明，确立使用许可原则，并让合理补偿得以落实。"
               },
               {
                 "t": "p",
-                "x": "Mentat代表Jeon Byung-wook表示：“我们计划扩大让图书更多地被AI利用、并将由此产生的收益回馈给出版社和作者的结构。”"
+                "x": "韩国出版人会议在呼吁书中表示：“没有书，就没有AI。”“然而，真正创作这些书的人，甚至不知道自己的作品是在何时、以何种方式、被哪个AI使用的。因为无从知晓，所以既无法询问，也无法拒绝，更无法要求合理的报酬。”"
+              },
+              {
+                "t": "p",
+                "x": "呼吁书还强调：“AI企业应记录训练所用的作品及其出处、合法使用依据，并让权利人能够查证。”“AI训练应以取得权利人使用许可为原则，不能因为权利人没有表示拒绝就视为同意。”"
+              },
+              {
+                "t": "p",
+                "x": "出版人会议要求：“AI企业应向出版物权利人支付合理报酬。”“议价能力较弱的中小出版社和个人创作者，也应能在公平条件下进行谈判并获得补偿。”同时敦促政府和国会不得以扶植产业为名限制创作者的权利。"
+              },
+              {
+                "t": "p",
+                "x": "联署自前一天开始，截至当天上午，已有出版社及相关机构等158个团体，以及作家、译者、绘本作家、出版从业者等321名个人参与。小说家Kim Nam-il、Kim Yi-jeong、Eun Mi-hee、Jo Young-joo，诗人Na Hee-duk、Ryu Geun、Jeong Woo-young，译者Hong Han-byul等人参加了联署。"
+              },
+              {
+                "t": "p",
+                "x": "此次呼吁书旨在响应当地出版界近日配合全球最大规模出版与版权交易市场法兰克福书展开幕而发表的“法兰克福呼吁书”，并唤起人们对AI训练数据问题的警觉。"
+              },
+              {
+                "t": "p",
+                "x": "“法兰克福呼吁书”要求欧盟（EU）和德国政府公开AI训练所用作品、建立公平的使用许可体系，并提供切实保护版权的手段。韩国出版人会议今后计划将呼吁书递交政府或国会。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mentat vende datos de libros\npor tokens",
-          "body": "Con Mentat Discovery, las empresas de AI pueden buscar libros por tokens y firmar contratos.",
-          "mini_headline": "Mentat vende libros por tokens",
+          "headline": "Editores coreanos piden pago\npor entrenar la AI con libros",
+          "body": "La Sociedad de Editores de Corea pidió revelar el origen de los libros usados para entrenar AI y un pago justo.",
+          "mini_headline": "Editores piden compensación a la AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-                "cap": "Mentat ha lanzado ‘Mentat Discovery (Mentat Discovery Console)’, un servicio de búsqueda de datos de libros para empresas de AI. Foto: cortesía de Mentat"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+                "cap": "Captura de la página del llamamiento de la Sociedad de Editores de Corea"
               },
               {
                 "t": "p",
-                "x": "La plataforma de licencias de libros Mentat anunció el día 13 el lanzamiento de ‘Mentat Discovery’, un servicio de búsqueda de datos de libros para empresas de AI. Muestra los libros de las editoriales no por número de ejemplares, sino en ‘tokens’ y con un coste estimado, y cuando se eligen los datos necesarios, lleva el proceso hasta el contrato."
+                "x": "Ante los intentos de empresas extranjeras de inteligencia artificial (AI) de comprar en grandes cantidades libros presuntamente destinados al entrenamiento, la Sociedad de Editores de Corea publicó un llamamiento para exigir una compensación justa."
               },
               {
                 "t": "p",
-                "x": "Desde su fundación en 2025, Mentat ha firmado acuerdos de licencia con unas 90 editoriales coreanas, que abarcan unos 34.000 títulos. Los datos de libros que hoy se pueden buscar suman unos 8.000 millones de tokens."
+                "x": "La Sociedad de Editores de Corea informó el día 16 de que ha redactado el ‘Llamamiento de la República de Corea’ y está recogiendo firmas para proteger los derechos de creadores y editoriales y sentar las bases para que la AI y la edición puedan prosperar juntas."
               },
               {
                 "t": "p",
-                "x": "Los datos contratados se ofrecen de dos formas: un ‘conjunto de datos de entrenamiento’ en formatos de archivo como JSONL y una ‘API de referencia y cita’ que presenta pasajes de libros con su fuente cuando la AI responde. Todos los libros que se pueden buscar cuentan con un contrato formal de licencia."
+                "x": "El llamamiento insta al Gobierno, a la Asamblea Nacional y a las empresas de AI a garantizar la transparencia de los datos de entrenamiento, establecer el principio de licencia de uso y asegurar una compensación justa."
               },
               {
                 "t": "p",
-                "x": "Jeon Byung-wook, consejero delegado de Mentat, afirmó: “Planeamos ampliar una estructura en la que los libros se utilicen más en la AI y los ingresos resultantes vuelvan a las editoriales y a los autores”."
+                "x": "En el texto, la Sociedad de Editores de Corea afirmó: «Sin libros no hay AI», y añadió: «Sin embargo, quienes hicieron los libros ni siquiera saben cuándo, cómo ni en qué AI se usaron sus obras. Como no pueden saberlo, no pueden preguntar, negarse ni exigir una retribución justa»."
+              },
+              {
+                "t": "p",
+                "x": "También subrayó que «las empresas de AI deben registrar las obras utilizadas para el entrenamiento, su origen y la base legal de su uso, y permitir que los titulares de derechos lo comprueben», y que «el entrenamiento de AI requiere por principio la autorización del titular, y no haber expresado una negativa no debe interpretarse como consentimiento»."
+              },
+              {
+                "t": "p",
+                "x": "La Sociedad exigió que «las empresas de AI paguen una retribución justa a los titulares de derechos de las publicaciones» y que «las pequeñas y medianas editoriales y los creadores individuales con poco poder de negociación también puedan negociar y ser compensados en condiciones justas». Asimismo, instó al Gobierno y a la Asamblea Nacional a no restringir los derechos de los creadores con el pretexto de impulsar la industria."
+              },
+              {
+                "t": "p",
+                "x": "Hasta la mañana de ese día se habían sumado a la recogida de firmas, iniciada la víspera, 158 entidades, entre ellas editoriales e instituciones afines, y 321 personas, entre escritores, traductores, ilustradores y profesionales del sector. Entre ellos figuran los novelistas Kim Nam-il, Kim Yi-jeong, Eun Mi-hee y Jo Young-joo, los poetas Na Hee-duk, Ryu Geun y Jeong Woo-young, y la traductora Hong Han-byul."
+              },
+              {
+                "t": "p",
+                "x": "El llamamiento se preparó para sumarse al ‘Llamamiento de Fráncfort’, presentado recientemente por el sector editorial local con motivo de la apertura de la Feria del Libro de Fráncfort, el mayor mercado mundial de edición y derechos de autor, y para concienciar sobre los datos de entrenamiento de AI."
+              },
+              {
+                "t": "p",
+                "x": "El ‘Llamamiento de Fráncfort’ pidió a la Unión Europea (EU) y al Gobierno alemán la divulgación de las obras usadas en el entrenamiento de AI, un sistema justo de licencias de uso y medios eficaces para proteger los derechos de autor. La Sociedad de Editores de Corea prevé entregar el llamamiento al Gobierno o a la Asamblea Nacional."
               }
             ]
           }
@@ -1215,397 +1305,205 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Mentat sells book data\nby the token",
-          "body": "With Mentat Discovery, AI companies can search books by the token and sign contracts for them.",
-          "mini_headline": "Mentat sells books by the token",
+          "headline": "Korean publishers seek pay for\nbooks used in AI training",
+          "body": "The Korean Publishers Society called for disclosing the sources of books used in AI training and fair compensation.",
+          "mini_headline": "Publishers seek AI compensation",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-                "cap": "Mentat has launched ‘Mentat Discovery (Mentat Discovery Console)’, a book data search service for AI companies. Photo: courtesy of Mentat"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+                "cap": "Screenshot of the Korean Publishers Society appeal page"
               },
               {
                 "t": "p",
-                "x": "Book licensing platform Mentat said on the 13th that it has launched ‘Mentat Discovery’, a book data search service for AI companies. It shows publishers’ books not by number of volumes but in ‘token’ units with an estimated cost, and once a company picks the data it needs, it carries the process through to a contract."
+                "x": "The Korean Publishers Society has issued an appeal calling for fair compensation amid moves by overseas artificial intelligence (AI) companies to buy large quantities of books suspected to be for training."
               },
               {
                 "t": "p",
-                "x": "Since its founding in 2025, Mentat has signed license agreements with some 90 Korean publishers, covering about 34,000 titles. The book data currently searchable amounts to about 8 billion tokens."
+                "x": "The Korean Publishers Society said on the 16th that it has drafted a ‘Republic of Korea Appeal’ and is collecting signatures to protect the rights of creators and publishers and lay the groundwork for AI and publishing to thrive together."
               },
               {
                 "t": "p",
-                "x": "Contracted data comes in two forms: a ‘training dataset’ in file formats such as JSONL, and a ‘reference and citation API’ that presents book passages with their sources when AI answers. Every searchable book is covered by a formal license agreement."
+                "x": "The appeal urges the government, the National Assembly and AI companies to secure transparency in training data, establish the principle of licensing, and ensure fair compensation."
               },
               {
                 "t": "p",
-                "x": "Mentat CEO Jeon Byung-wook said, “We plan to expand a structure in which books are used more by AI and the resulting revenue goes back to publishers and authors.”"
+                "x": "In the appeal, the Korean Publishers Society said, “Without books, there is no AI,” adding, “Yet the people who actually made the books do not even know when, how or by which AI their works were used. Because they cannot know, they cannot ask, refuse or demand fair payment.”"
+              },
+              {
+                "t": "p",
+                "x": "It also stressed, “AI companies must record the works used for training, their sources and the legal basis for their use, and allow rights holders to verify this,” and “Permission from rights holders is the principle for AI training, and not expressing refusal should not be regarded as consent.”"
+              },
+              {
+                "t": "p",
+                "x": "The society demanded, “AI companies must pay fair compensation to rights holders of publications,” adding, “Small and medium-sized publishers and individual creators with weak bargaining power must also be able to negotiate and be compensated on fair terms.” It also urged the government and the National Assembly not to restrict creators’ rights in the name of fostering the industry."
+              },
+              {
+                "t": "p",
+                "x": "By that morning, 158 organizations, including publishers and related institutions, and 321 individuals, including writers, translators, illustrators and publishing professionals, had joined the signature drive that began the previous day. Novelists Kim Nam-il, Kim Yi-jeong, Eun Mi-hee and Jo Young-joo, poets Na Hee-duk, Ryu Geun and Jeong Woo-young, and translator Hong Han-byul were among those taking part."
+              },
+              {
+                "t": "p",
+                "x": "The appeal was prepared to stand with the ‘Frankfurt Appeal’ recently issued by the local publishing industry to coincide with the opening of the Frankfurt Book Fair, the world’s largest market for publishing and copyright trading, and to raise awareness about AI training data."
+              },
+              {
+                "t": "p",
+                "x": "The ‘Frankfurt Appeal’ called on the European Union (EU) and the German government to disclose works used for AI training, establish a fair licensing system, and provide effective means of protecting copyright. The Korean Publishers Society plans to deliver its appeal to the government or the National Assembly."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mentat、書籍データを\nトークン単位で販売",
-          "body": "Mentat Discoveryで、AI企業は書籍をトークン単位で検索し契約できる。",
-          "mini_headline": "Mentat、書籍をトークンで",
+          "headline": "韓国出版人会議、AIに\n書籍学習の対価要求",
+          "body": "韓国出版人会議は、AI学習に使われた書籍の出所公開と正当な対価を求めた。",
+          "mini_headline": "出版界、AIに対価要求",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-                "cap": "MentatはAI企業向けの書籍データ検索サービス「Mentat Discovery(Mentat Discovery Console)」をリリースした。写真=Mentat提供"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+                "cap": "韓国出版人会議の訴え文ページのキャプチャー"
               },
               {
                 "t": "p",
-                "x": "書籍ライセンスプラットフォームのMentatは13日、AI企業向けの書籍データ検索サービス「Mentat Discovery」をリリースしたと発表した。出版社の書籍を冊数ではなく「トークン」単位と予想費用で示し、必要なデータを選べば契約までつなげる。"
+                "x": "海外の人工知能（AI）企業が学習用とみられる書籍を大量に購入しようとする動きをめぐり、韓国出版人会議が正当な対価を求める訴え文を発表した。"
               },
               {
                 "t": "p",
-                "x": "Mentatは2025年の設立以来、韓国の出版社90社余りとライセンス契約を結び、契約書籍は約3万4000点にのぼる。現在検索できる書籍データは約80億トークン規模だ。"
+                "x": "韓国出版人会議は16日、創作者と出版社の権利を守り、AIと出版が共存できる基盤をつくるため「大韓民国訴え文」を作成し、連名を募っていると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "契約したデータは、JSONLなどのファイル形式の「学習データセット」と、AIが回答する際に書籍の段落を出典とともに示す「参照・引用API」の2種類で提供される。検索対象はすべて正式なライセンス契約を結んだ書籍だ。"
+                "x": "訴え文には、政府と国会、AI企業に対し、学習データの透明性を確保し、利用許諾の原則の確立と正当な対価の支払いが実現するよう求める内容が盛り込まれた。"
               },
               {
                 "t": "p",
-                "x": "Mentatのチョン・ビョンウク代表は「本がAIにより多く活用され、それに伴う収益が出版社と著者に還元される仕組みを広げていく計画だ」と述べた。"
+                "x": "韓国出版人会議は訴え文で「本がなければAIもない」とし、「ところが肝心の本を作った人々は、自分の作品がいつ、どのように、どのAIに使われたのかさえ知らない。知り得ないので、尋ねることも、拒むことも、正当な対価を求めることもできない」と訴えた。"
+              },
+              {
+                "t": "p",
+                "x": "また「AI企業は学習に利用した作品とその出所、適法な利用根拠を記録し、権利者がそれを確認できるようにすべきだ」とし、「AI学習は権利者の利用許諾が原則であり、拒否の意思を示さなかったからといって許諾したとみなしてはならない」と強調した。"
+              },
+              {
+                "t": "p",
+                "x": "出版人会議は「AI企業は出版物の権利者に正当な対価を支払うべきだ」とし、「交渉力の弱い中小出版社や個人の創作者も、公正な条件で交渉し、補償を受けられるようにすべきだ」と求めた。あわせて、政府と国会は産業育成を名目に創作者の権利を制限してはならないと訴えた。"
+              },
+              {
+                "t": "p",
+                "x": "前日から始まった連名には、この日午前までに出版社や関連機関など158団体、作家・翻訳家・イラストレーター・出版関係者など個人321人が参加した。小説家のキム・ナミル、キム・イジョン、ウン・ミヒ、チョ・ヨンジュ、詩人のナ・ヒドク、リュ・グン、チョン・ウヨン、翻訳家のホン・ハンビョルらが名を連ねた。"
+              },
+              {
+                "t": "p",
+                "x": "今回の訴え文は、世界最大規模の出版・著作権取引市場であるフランクフルト・ブックフェアの開幕に合わせて現地の出版界が最近発表した「フランクフルト訴え文」に賛同し、AI学習データをめぐる警戒感を喚起するために用意された。"
+              },
+              {
+                "t": "p",
+                "x": "「フランクフルト訴え文」は、欧州連合（EU）とドイツ政府に対し、AI学習に使われた著作物の公開、公正な利用許諾の仕組み、著作権を実効的に守る手段を求めた。韓国出版人会議は今後、訴え文を政府や国会に届ける予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mentat按词元\n出售图书数据",
-          "body": "借助Mentat Discovery，AI企业可按词元检索图书并签约。",
-          "mini_headline": "Mentat按词元卖书",
+          "headline": "韩国出版人会议\n要求AI训练用书获补偿",
+          "body": "韩国出版人会议要求公开AI训练所用图书的出处并给予合理补偿。",
+          "mini_headline": "出版界要求AI补偿",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-                "cap": "Mentat推出面向AI企业的图书数据检索服务“Mentat Discovery”（Mentat Discovery Console）。图片=Mentat提供"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+                "cap": "韩国出版人会议呼吁书页面截图"
               },
               {
                 "t": "p",
-                "x": "图书授权平台Mentat于13日宣布，推出面向AI企业的图书数据检索服务“Mentat Discovery”。该服务不按册数，而以“词元”（token）为单位并附预估费用来展示出版社图书，选定所需数据后可直接推进到签约。"
+                "x": "针对海外人工智能（AI）企业试图大量购买疑似用于训练的图书一事，韩国出版人会议发表呼吁书，敦促给予合理补偿。"
               },
               {
                 "t": "p",
-                "x": "Mentat自2025年成立以来，已与韩国90多家出版社签订授权协议，签约图书约3.4万种。目前可检索的图书数据规模约为80亿词元。"
+                "x": "韩国出版人会议16日表示，为维护创作者和出版社的权利、为AI与出版共生打下基础，已起草“大韩民国呼吁书”并正在征集联署。"
               },
               {
                 "t": "p",
-                "x": "签约数据以两种形式提供：JSONL等文件格式的“训练数据集”，以及在AI作答时附带出处呈现图书段落的“参考·引用API”。检索对象均为已签订正式授权协议的图书。"
+                "x": "呼吁书敦促政府、国会和AI企业确保训练数据透明，确立使用许可原则，并让合理补偿得以落实。"
               },
               {
                 "t": "p",
-                "x": "Mentat代表Jeon Byung-wook表示：“我们计划扩大让图书更多地被AI利用、并将由此产生的收益回馈给出版社和作者的结构。”"
+                "x": "韩国出版人会议在呼吁书中表示：“没有书，就没有AI。”“然而，真正创作这些书的人，甚至不知道自己的作品是在何时、以何种方式、被哪个AI使用的。因为无从知晓，所以既无法询问，也无法拒绝，更无法要求合理的报酬。”"
+              },
+              {
+                "t": "p",
+                "x": "呼吁书还强调：“AI企业应记录训练所用的作品及其出处、合法使用依据，并让权利人能够查证。”“AI训练应以取得权利人使用许可为原则，不能因为权利人没有表示拒绝就视为同意。”"
+              },
+              {
+                "t": "p",
+                "x": "出版人会议要求：“AI企业应向出版物权利人支付合理报酬。”“议价能力较弱的中小出版社和个人创作者，也应能在公平条件下进行谈判并获得补偿。”同时敦促政府和国会不得以扶植产业为名限制创作者的权利。"
+              },
+              {
+                "t": "p",
+                "x": "联署自前一天开始，截至当天上午，已有出版社及相关机构等158个团体，以及作家、译者、绘本作家、出版从业者等321名个人参与。小说家Kim Nam-il、Kim Yi-jeong、Eun Mi-hee、Jo Young-joo，诗人Na Hee-duk、Ryu Geun、Jeong Woo-young，译者Hong Han-byul等人参加了联署。"
+              },
+              {
+                "t": "p",
+                "x": "此次呼吁书旨在响应当地出版界近日配合全球最大规模出版与版权交易市场法兰克福书展开幕而发表的“法兰克福呼吁书”，并唤起人们对AI训练数据问题的警觉。"
+              },
+              {
+                "t": "p",
+                "x": "“法兰克福呼吁书”要求欧盟（EU）和德国政府公开AI训练所用作品、建立公平的使用许可体系，并提供切实保护版权的手段。韩国出版人会议今后计划将呼吁书递交政府或国会。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mentat vende datos de libros\npor tokens",
-          "body": "Con Mentat Discovery, las empresas de AI pueden buscar libros por tokens y firmar contratos.",
-          "mini_headline": "Mentat vende libros por tokens",
+          "headline": "Editores coreanos piden pago\npor entrenar la AI con libros",
+          "body": "La Sociedad de Editores de Corea pidió revelar el origen de los libros usados para entrenar AI y un pago justo.",
+          "mini_headline": "Editores piden compensación a la AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.m-i.kr/news/photo/202610/2005012_2004857_741.png",
-                "cap": "Mentat ha lanzado ‘Mentat Discovery (Mentat Discovery Console)’, un servicio de búsqueda de datos de libros para empresas de AI. Foto: cortesía de Mentat"
+                "src": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
+                "cap": "Captura de la página del llamamiento de la Sociedad de Editores de Corea"
               },
               {
                 "t": "p",
-                "x": "La plataforma de licencias de libros Mentat anunció el día 13 el lanzamiento de ‘Mentat Discovery’, un servicio de búsqueda de datos de libros para empresas de AI. Muestra los libros de las editoriales no por número de ejemplares, sino en ‘tokens’ y con un coste estimado, y cuando se eligen los datos necesarios, lleva el proceso hasta el contrato."
+                "x": "Ante los intentos de empresas extranjeras de inteligencia artificial (AI) de comprar en grandes cantidades libros presuntamente destinados al entrenamiento, la Sociedad de Editores de Corea publicó un llamamiento para exigir una compensación justa."
               },
               {
                 "t": "p",
-                "x": "Desde su fundación en 2025, Mentat ha firmado acuerdos de licencia con unas 90 editoriales coreanas, que abarcan unos 34.000 títulos. Los datos de libros que hoy se pueden buscar suman unos 8.000 millones de tokens."
+                "x": "La Sociedad de Editores de Corea informó el día 16 de que ha redactado el ‘Llamamiento de la República de Corea’ y está recogiendo firmas para proteger los derechos de creadores y editoriales y sentar las bases para que la AI y la edición puedan prosperar juntas."
               },
               {
                 "t": "p",
-                "x": "Los datos contratados se ofrecen de dos formas: un ‘conjunto de datos de entrenamiento’ en formatos de archivo como JSONL y una ‘API de referencia y cita’ que presenta pasajes de libros con su fuente cuando la AI responde. Todos los libros que se pueden buscar cuentan con un contrato formal de licencia."
+                "x": "El llamamiento insta al Gobierno, a la Asamblea Nacional y a las empresas de AI a garantizar la transparencia de los datos de entrenamiento, establecer el principio de licencia de uso y asegurar una compensación justa."
               },
               {
                 "t": "p",
-                "x": "Jeon Byung-wook, consejero delegado de Mentat, afirmó: “Planeamos ampliar una estructura en la que los libros se utilicen más en la AI y los ingresos resultantes vuelvan a las editoriales y a los autores”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "books-ewc-not-a-tool",
-      "source_lang": "en",
-      "tool": "Books",
-      "eyebrow": "AI NEWS",
-      "headline": "유럽 작가들 “AI는\n도구 아닌 위협”",
-      "body": "European Writers' Council이 AI를 기회로 본 초안에 맞섰다.",
-      "mini_headline": "EU 작가들: AI는 도구 아냐",
-      "source": "European Writers' Council",
-      "url": "https://europeanwriterscouncil.eu/ewc_owninireport_draft_mindthegap/",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
-          },
-          {
-            "t": "p",
-            "x": "European Writers’ Council은 유럽의회(European Parliament)가 AI 시대 문화·창작 부문을 다룬 자체 발의(own-initiative) 보고서 초안(2025/2180(INI))에 의견을 내고 더 과감한 입장을 요구했다. AI는 도구가 아니라 작가의 직업과 생계, 노동 조건을 위협한다는 주장이다."
-          },
-          {
-            "t": "p",
-            "x": "EWC는 초안의 큰 방향은 타당하고 건설적이라고 봤다. 다만 생성형 AI를 ‘도구’나 ‘기회’로 다루는 “무비판적이고 미화하는” 태도를 깊이 우려하며 이런 표현을 고쳐 달라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "EWC는 보고서가 인간의 ‘저작물’과 AI의 ‘콘텐츠’, ‘창작’과 ‘생성’을 갈라 쓰기를 바란다. AI가 작가의 일자리와 소득에 어떤 영향을 주는지 평가하자는 제안은 반겼다. 허락 방식으로는 옵트아웃(opt-out)이 아닌 명시적 옵트인(opt-in)을 내세웠다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "European writers: AI is\nnot a tool but a threat",
-          "body": "The European Writers' Council pushes back on a European Parliament draft that treats generative AI as an opportunity.",
-          "mini_headline": "EU writers: AI is no tool",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
+                "x": "En el texto, la Sociedad de Editores de Corea afirmó: «Sin libros no hay AI», y añadió: «Sin embargo, quienes hicieron los libros ni siquiera saben cuándo, cómo ni en qué AI se usaron sus obras. Como no pueden saberlo, no pueden preguntar, negarse ni exigir una retribución justa»."
               },
               {
                 "t": "p",
-                "x": "In feedback on the European Parliament’s own-initiative draft report on cultural and creative sectors in the age of AI (2025/2180(INI)), the European Writers’ Council calls for a more ambitious stance: AI is not a tool but a threat to writers’ profession, livelihoods and working conditions."
+                "x": "También subrayó que «las empresas de AI deben registrar las obras utilizadas para el entrenamiento, su origen y la base legal de su uso, y permitir que los titulares de derechos lo comprueben», y que «el entrenamiento de AI requiere por principio la autorización del titular, y no haber expresado una negativa no debe interpretarse como consentimiento»."
               },
               {
                 "t": "p",
-                "x": "The EWC finds the draft’s overall approach sound and constructive, but voices serious concern about its “uncritical and whitewashing” treatment of generative AI as a “tool” or “opportunity”, and asks that such wording be revised."
+                "x": "La Sociedad exigió que «las empresas de AI paguen una retribución justa a los titulares de derechos de las publicaciones» y que «las pequeñas y medianas editoriales y los creadores individuales con poco poder de negociación también puedan negociar y ser compensados en condiciones justas». Asimismo, instó al Gobierno y a la Asamblea Nacional a no restringir los derechos de los creadores con el pretexto de impulsar la industria."
               },
               {
                 "t": "p",
-                "x": "It wants the report to distinguish human “works” from AI “content” and “create” from “generate”, welcomes a call to assess AI’s impact on authors’ jobs and income, and argues for an explicit opt-in authorisation mechanism instead of opt-out."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "유럽 작가들 “AI는\n도구 아닌 위협”",
-          "body": "European Writers' Council이 AI를 기회로 본 초안에 맞섰다.",
-          "mini_headline": "EU 작가들: AI는 도구 아냐",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
+                "x": "Hasta la mañana de ese día se habían sumado a la recogida de firmas, iniciada la víspera, 158 entidades, entre ellas editoriales e instituciones afines, y 321 personas, entre escritores, traductores, ilustradores y profesionales del sector. Entre ellos figuran los novelistas Kim Nam-il, Kim Yi-jeong, Eun Mi-hee y Jo Young-joo, los poetas Na Hee-duk, Ryu Geun y Jeong Woo-young, y la traductora Hong Han-byul."
               },
               {
                 "t": "p",
-                "x": "European Writers’ Council은 유럽의회(European Parliament)가 AI 시대 문화·창작 부문을 다룬 자체 발의(own-initiative) 보고서 초안(2025/2180(INI))에 의견을 내고 더 과감한 입장을 요구했다. AI는 도구가 아니라 작가의 직업과 생계, 노동 조건을 위협한다는 주장이다."
+                "x": "El llamamiento se preparó para sumarse al ‘Llamamiento de Fráncfort’, presentado recientemente por el sector editorial local con motivo de la apertura de la Feria del Libro de Fráncfort, el mayor mercado mundial de edición y derechos de autor, y para concienciar sobre los datos de entrenamiento de AI."
               },
               {
                 "t": "p",
-                "x": "EWC는 초안의 큰 방향은 타당하고 건설적이라고 봤다. 다만 생성형 AI를 ‘도구’나 ‘기회’로 다루는 “무비판적이고 미화하는” 태도를 깊이 우려하며 이런 표현을 고쳐 달라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "EWC는 보고서가 인간의 ‘저작물’과 AI의 ‘콘텐츠’, ‘창작’과 ‘생성’을 갈라 쓰기를 바란다. AI가 작가의 일자리와 소득에 어떤 영향을 주는지 평가하자는 제안은 반겼다. 허락 방식으로는 옵트아웃(opt-out)이 아닌 명시적 옵트인(opt-in)을 내세웠다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "欧州作家「AIは\n道具でなく脅威」",
-          "body": "European Writers' CouncilがAIを機会と見る欧州議会案に反発した。",
-          "mini_headline": "EU作家「AIは道具でない」",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
-              },
-              {
-                "t": "p",
-                "x": "European Writers’ Councilは、AI時代の文化・創造部門に関する欧州議会(European Parliament)の自主発議(own-initiative)報告書案(2025/2180(INI))への意見で、より踏み込んだ立場を求めた。AIは道具ではなく、作家の職業、生計、労働条件への脅威だというのである。"
-              },
-              {
-                "t": "p",
-                "x": "EWCは草案の全体的な方向性を妥当かつ建設的と評価しつつ、生成AIを「道具」や「機会」として扱う「無批判で、問題を覆い隠す」姿勢に深刻な懸念を示し、こうした表現の修正を求めた。"
-              },
-              {
-                "t": "p",
-                "x": "EWCは報告書に、人間の「著作物」とAIの「コンテンツ」、「創作する」と「生成する」を区別するよう求める。AIが著者の仕事と収入に与える影響を評価すべきだという提案は歓迎し、オプトアウト(opt-out)ではなく明示的なオプトイン(opt-in)の許諾の仕組みを主張している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "欧洲作家：AI不是\n工具而是威胁",
-          "body": "European Writers' Council反驳欧洲议会视AI为机遇的草案。",
-          "mini_headline": "EU作家：AI不是工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
-              },
-              {
-                "t": "p",
-                "x": "European Writers’ Council在就欧洲议会（European Parliament）关于AI时代文化与创意产业的自发倡议（own-initiative）报告草案（2025/2180(INI)）提交的反馈中，呼吁采取更有力的立场：AI不是工具，而是对作家职业、生计和工作条件的威胁。"
-              },
-              {
-                "t": "p",
-                "x": "EWC认为草案的总体思路合理且具有建设性，但对其将生成式AI视为“工具”或“机遇”的“不加批判、粉饰太平”的处理方式表示严重关切，并要求修改相关措辞。"
-              },
-              {
-                "t": "p",
-                "x": "它希望报告区分人类的“作品”与AI的“内容”，以及“创作”与“生成”；欢迎评估AI对作者就业和收入影响的呼吁，并主张以明确的选择加入（opt-in）授权机制取代选择退出（opt-out）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Escritores europeos: la AI no\nes herramienta, sino amenaza",
-          "body": "El European Writers' Council rechaza un borrador del Parlamento Europeo que trata la AI generativa como oportunidad.",
-          "mini_headline": "Autores de la EU: la AI no es herramienta",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En sus comentarios al proyecto de informe de propia iniciativa (own-initiative) del Parlamento Europeo (European Parliament) sobre los sectores cultural y creativo en la era de la AI (2025/2180(INI)), el European Writers’ Council pide una postura más ambiciosa: la AI no es una herramienta, sino una amenaza para la profesión, el sustento y las condiciones de trabajo de los escritores."
-              },
-              {
-                "t": "p",
-                "x": "El EWC considera que el enfoque general del borrador es sólido y constructivo, pero expresa una seria preocupación por su tratamiento “acrítico y blanqueador” de la AI generativa como “herramienta” u “oportunidad”, y pide que se revise esa redacción."
-              },
-              {
-                "t": "p",
-                "x": "Quiere que el informe distinga las “obras” humanas del “contenido” de la AI, y “crear” de “generar”; celebra la petición de evaluar el impacto de la AI en el empleo y los ingresos de los autores, y defiende un mecanismo explícito de autorización opt-in en lugar de opt-out."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "유럽 작가들 “AI는\n도구 아닌 위협”",
-          "body": "European Writers' Council이 AI를 기회로 본 초안에 맞섰다.",
-          "mini_headline": "EU 작가들: AI는 도구 아냐",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
-              },
-              {
-                "t": "p",
-                "x": "European Writers’ Council은 AI 시대 문화·창작 부문에 관한 유럽의회(European Parliament)의 자체 발의(own-initiative) 보고서 초안(2025/2180(INI))에 낸 의견에서 더 과감한 입장을 요구했다. AI는 도구가 아니라 작가의 직업과 생계, 노동 조건을 위협하는 존재라는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "EWC는 초안의 전반적 접근이 타당하고 건설적이라고 보면서도, 생성형 AI를 ‘도구’나 ‘기회’로 다루는 “무비판적이고 미화하는” 태도에 깊은 우려를 나타내며 이런 표현을 고쳐 달라고 요청했다."
-              },
-              {
-                "t": "p",
-                "x": "EWC는 보고서가 인간의 ‘저작물’과 AI의 ‘콘텐츠’, ‘창작’과 ‘생성’을 구분하기를 바란다. AI가 작가의 일자리와 소득에 미치는 영향을 평가하자는 제안은 환영했고, 옵트아웃(opt-out) 대신 명시적인 옵트인(opt-in) 허락 방식을 주장했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "欧州作家「AIは\n道具でなく脅威」",
-          "body": "European Writers' CouncilがAIを機会と見る欧州議会案に反発した。",
-          "mini_headline": "EU作家「AIは道具でない」",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
-              },
-              {
-                "t": "p",
-                "x": "European Writers’ Councilは、AI時代の文化・創造部門に関する欧州議会(European Parliament)の自主発議(own-initiative)報告書案(2025/2180(INI))への意見で、より踏み込んだ立場を求めた。AIは道具ではなく、作家の職業、生計、労働条件への脅威だというのである。"
-              },
-              {
-                "t": "p",
-                "x": "EWCは草案の全体的な方向性を妥当かつ建設的と評価しつつ、生成AIを「道具」や「機会」として扱う「無批判で、問題を覆い隠す」姿勢に深刻な懸念を示し、こうした表現の修正を求めた。"
-              },
-              {
-                "t": "p",
-                "x": "EWCは報告書に、人間の「著作物」とAIの「コンテンツ」、「創作する」と「生成する」を区別するよう求める。AIが著者の仕事と収入に与える影響を評価すべきだという提案は歓迎し、オプトアウト(opt-out)ではなく明示的なオプトイン(opt-in)の許諾の仕組みを主張している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "欧洲作家：AI不是\n工具而是威胁",
-          "body": "European Writers' Council反驳欧洲议会视AI为机遇的草案。",
-          "mini_headline": "EU作家：AI不是工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
-              },
-              {
-                "t": "p",
-                "x": "European Writers’ Council在就欧洲议会（European Parliament）关于AI时代文化与创意产业的自发倡议（own-initiative）报告草案（2025/2180(INI)）提交的反馈中，呼吁采取更有力的立场：AI不是工具，而是对作家职业、生计和工作条件的威胁。"
-              },
-              {
-                "t": "p",
-                "x": "EWC认为草案的总体思路合理且具有建设性，但对其将生成式AI视为“工具”或“机遇”的“不加批判、粉饰太平”的处理方式表示严重关切，并要求修改相关措辞。"
-              },
-              {
-                "t": "p",
-                "x": "它希望报告区分人类的“作品”与AI的“内容”，以及“创作”与“生成”；欢迎评估AI对作者就业和收入影响的呼吁，并主张以明确的选择加入（opt-in）授权机制取代选择退出（opt-out）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Escritores europeos: la AI no\nes herramienta, sino amenaza",
-          "body": "El European Writers' Council rechaza un borrador del Parlamento Europeo que trata la AI generativa como oportunidad.",
-          "mini_headline": "Autores de la EU: la AI no es herramienta",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2022/03/mind-the-gap.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En sus comentarios al proyecto de informe de propia iniciativa (own-initiative) del Parlamento Europeo (European Parliament) sobre los sectores cultural y creativo en la era de la AI (2025/2180(INI)), el European Writers’ Council pide una postura más ambiciosa: la AI no es una herramienta, sino una amenaza para la profesión, el sustento y las condiciones de trabajo de los escritores."
-              },
-              {
-                "t": "p",
-                "x": "El EWC considera que el enfoque general del borrador es sólido y constructivo, pero expresa una seria preocupación por su tratamiento “acrítico y blanqueador” de la AI generativa como “herramienta” u “oportunidad”, y pide que se revise esa redacción."
-              },
-              {
-                "t": "p",
-                "x": "Quiere que el informe distinga las “obras” humanas del “contenido” de la AI, y “crear” de “generar”; celebra la petición de evaluar el impacto de la AI en el empleo y los ingresos de los autores, y defiende un mecanismo explícito de autorización opt-in en lugar de opt-out."
+                "x": "El ‘Llamamiento de Fráncfort’ pidió a la Unión Europea (EU) y al Gobierno alemán la divulgación de las obras usadas en el entrenamiento de AI, un sistema justo de licencias de uso y medios eficaces para proteger los derechos de autor. La Sociedad de Editores de Corea prevé entregar el llamamiento al Gobierno o a la Asamblea Nacional."
               }
             ]
           }

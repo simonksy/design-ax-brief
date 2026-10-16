@@ -8324,6 +8324,157 @@
           "x": "共有の指示、スキル、メモリーといったチーム機能に加え、認証、権限、リアルタイム同期も組み込まれている。Anthropic、OpenAI、Gemini、OpenRouterのキーを自分で持ち込むことも、Ollamaでローカルモデルを動かすこともできる。Clips、Slides、Designは、これで作られたオープンソースのエージェント型アプリだ。"
         }
       ]
+    },
+    "design/design-krea3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+          "cap": "Krea 3の紹介"
+        },
+        {
+          "t": "p",
+          "x": "この一年で画像編集は品質の一線を越えたが、最良の編集モデルは遅く高価にもなった。Kreaは新しい画像編集モデルKrea 3を公開した。大半の編集はエンドツーエンドで8秒未満、ネイティブ2K で返り、価格は2K では画像ごとに$0.06だ。"
+        },
+        {
+          "t": "p",
+          "x": "頼んでいない部分には手を触れない。製品の周りの背景を変えてもラベルは鮮明なままで、顔と服を与えれば次の画像の人物も同じ人物のままだ。編集ごとに最大6枚の参照画像を受け付ける。"
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+          "cap": "手に持った同じ缶を、砕いた氷と半分に切った柚子の中へ押し込む"
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+          "cap": "座席だけを入れ替え、ラグも部屋も読書する女性もそのまま。"
+        },
+        {
+          "t": "video",
+          "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+        },
+        {
+          "t": "p",
+          "x": "マーカーのスケッチやムードボード、古いポラロイドを完成した写真に変えることもできる。Krea 3はkrea.aiで3000万人のユーザーに公開中で、価格は2K で画像ごとに$0.06、1K で$0.03だ。fal、Hedra、Together AI、Nous Research、OpenRouter、Replicateからも利用できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+          "cap": "ソファのマーカースケッチを写実的な革製品の写真に"
+        }
+      ]
+    },
+    "design/design-cursor-canvases": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "クラウドエージェントによるキャンバス：クラウドエージェントが作業の一環としてインタラクティブなキャンバスを作れるようになった。完成したキャンバスはリンクを送ってチームと共有できる。"
+        },
+        {
+          "t": "p",
+          "x": "Environments API：Environments APIがベータ版で利用可能になった。エージェントが動くクラウド環境を、プログラムから作成・管理できる。"
+        },
+        {
+          "t": "p",
+          "x": "より大きく、より速い環境：クラウドエージェントの環境は最大300リポジトリに対応した。大規模な環境の読み込みも5x 速くなった。"
+        }
+      ]
+    },
+    "design/design-vercel-ship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+          "cap": "「開発者であるあなたの背後に、Agentic Infrastructureの力をすべて注ぐためにVercelをつくった」"
+        },
+        {
+          "t": "p",
+          "x": "Vercel Ship 2026にはLondon、Berlin、New York、Sydney、San Franciscoで数千人が集まり、エージェントのためのインフラに焦点が当てられた。"
+        },
+        {
+          "t": "p",
+          "x": "SAPのPhilip MiseldineとSophia Levensは、SAPがv0、eve、json-renderを使って生成型インターフェースを構築する様子を紹介し、一貫したデザインと政府の要件に重点を置いた。Berlinでは、Miseldineが同社のデザインシステムをコンポーザブルに作り直し、人とエージェントが同じ部品からインターフェースを組み立てられるようにしたことを示した。v0はビルド、デリバー、ディサイドの各段階で動いている。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+          "cap": "BerlinでのShip 2026"
+        },
+        {
+          "t": "p",
+          "x": "Nicolas Le Pallec（AKQA）：AI-nativeな顧客体験は、ナビゲーションを意図に置き換える。その手段は、捉えた顧客の意図、ブランドブレイン、そしてページをその場で組み立てる生成UIだ。Victor Oliveros（ZoomInfo）：ZoomInfoでは40,000+の顧客が、製品に組み込まれたv0で独自のワークフローを構築している。"
+        },
+        {
+          "t": "p",
+          "x": "なぜデザイナーにAPIを先に、UIを最後にデザインせよと言うのかと問われ、Notion CEOのIvan Zhaoはこう答えた。「次の顧客は人間だけではなく、人間とエージェントだ。そしてエージェントは目が見えない……だから構造と意味を先に、インターフェースを最後にデザインせよ」"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+          "cap": "New YorkでのShip 2026"
+        }
+      ]
+    },
+    "design/design-human-in-loop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+          "cap": "承認ボタンの上で検討者の手がためらう間に、承認されるはずの作業はもう本人を置いて先に進んでいる。AI支援。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントはいまや、私たちが別の会議に出ている間に受信トレイを仕分け、記録を更新し、メッセージを送る。定番の答えは確認ダイアログだが、実際には責任が移動し、結果について最も情報が少なく、最も力のない人に押し付けられる。"
+        },
+        {
+          "t": "p",
+          "x": "人を傷つけるのは主体性ではなく、到達範囲だ。より良い問いは到達範囲テストである。エージェントは何に触れられるのか、そして人はそれを元に戻せるのか。エージェントの到達範囲を決めた人が、その範囲で起きることの責任を負う。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+          "cap": "中断は良いことだ。Anthropicでさえそう言っている。"
+        },
+        {
+          "t": "p",
+          "x": "Neemanは自動化バイアス、Madeleine Clare Elishの「モラル・クランプルゾーン」、Eric Horvitzのmixed-initiative（混合主導）の原則を引き、先回りの度合いは確信ではなく可逆性に応じて変えるべきだと述べる。委任は会話の中ではなく、権限設定の中にある。"
+        },
+        {
+          "t": "p",
+          "x": "彼の挙げる四つの手立ては、承認を監査すること、ルールを書いてプロンプトではなく権限で強制すること、到達範囲テストを行うこと、そしてエージェントの稼働中は独立した記録を残し、実際に機能する停止ボタンを画面に置くことだ。"
+        }
+      ]
+    },
+    "design/design-figma-specs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figmaは、Figmaのキャンバス上に置けるコンテキストのコンテナ「Specs」を投入する。プロダクトをつくる人々はエージェントと協働するなかでMarkdownで作業することが増えているが、そうしたファイルは一人で使うものになりがちで、背後にあるプロジェクトとの結びつきも緩い。Specsは、コンテキストをFigmaの内へ、外へ、そしてFigma全体にわたって行き来させるマルチプレイヤーのコンテナだ。"
+        },
+        {
+          "t": "p",
+          "x": "スペックには共有された決定事項を収め、FigJamファイルやフレーム、キャンバス上の任意のノードを埋め込めるため、テキストとデザインが並んで置かれる。「D」キーを押すかツールバーから作成でき、.mdファイルをキャンバスにドラッグしてもよい。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "GitHubコネクタを使い、コードベースをもとに技術スペックの草案を作る。"
+        },
+        {
+          "t": "p",
+          "x": "GitHubやHexなどのコネクタが外部のコンテキストを取り込み、Figmaのエージェントはスペック内のコメントを読み書きし、未解決のコメントに修正案で返信できる。PRDをデザインやプロトタイプ、コードに変えることも、デザインとコードをスペックに戻すこともできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "デザインシステムのコンポーネントを確認し、Figmaのエージェントに使用上のコンテキストをスペックへ記録させ、キャンバス上に並べて置く。"
+        },
+        {
+          "t": "p",
+          "x": "Figma MCPサーバーを通じて、Codexのようなコーディングエージェントはスペックとそのリンク先のすべてのコンテキストを読み取れる。SpecsはWeb、デスクトップ、モバイルで利用でき、有料プラン向けにオープンベータとして順次提供される。"
+        }
+      ]
     }
   }
 }

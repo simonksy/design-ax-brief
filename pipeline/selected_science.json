@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "science",
   "picks": [
     {
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "title": "CERN and Mistral join forces to accelerate AI for science",
-      "source": "CERN",
+      "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
+      "title": "AI designs working molecular scissors that recognize and cut selected protein targets",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-15T12:00:00+02:00",
-      "og_image": "",
-      "excerpt": "CERN and Mistral AI signed a statement of intent to build a 'Large Physics Model', a foundation model pretrained on billions of simulated LHC proton-proton collisions.",
+      "published_iso": "2026-10-16T12:40:06-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+      "excerpt": "Baker lab (UW) used RFdiffusion2, ProteinMPNN and AlphaFold 3 to design cysteine and zinc proteases from scratch; two Nature papers report designs that cut targets such as amyloid-beta and TDP-43, with AI refinement boosting one enzyme ~30-fold.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Primary-source announcement: CERN and Mistral plan a physics foundation model pretrained on billions of simulated LHC collisions, a new direction for AI in particle physics."
+      "rationale": "Two Nature papers from the Baker lab: de novo AI-designed proteases that cut chosen protein targets, a new capability in enzyme design."
     },
     {
-      "url": "https://phys.org/news/2026-10-ai-scrap-impurities-ingredients-stronger.html",
-      "title": "AI turns scrap-metal impurities into ingredients for stronger, cheaper recycled iron",
+      "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
+      "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-15T16:20:18-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-      "excerpt": "Max Planck researchers built a machine-learning framework that treats scrap-metal impurities as alloying ingredients; all-scrap ductile iron came out stronger or more ductile than recycled benchmarks at ~8% lower cost (Science Advances).",
+      "published_iso": "2026-10-16T11:40:12-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+      "excerpt": "A physics-guided neural approach infers the internal magnetization of nanoscale magnets from the stray fields microscopes can measure, solving an ill-posed inverse problem relevant to spintronic computing.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Peer-reviewed (Science Advances) materials result with concrete numbers: ML-designed all-scrap iron matches or beats recycled benchmarks at ~8% lower cost."
+      "rationale": "Physics slot: a physics-guided neural network works out the hidden magnetization inside nanoscale magnets from the stray fields a microscope can measure, an inverse problem that matters for spintronics."
     },
     {
-      "url": "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html",
-      "title": "Study reveals how hidden agendas in AI advice steer people toward worse choices",
-      "source": "Tech Xplore",
+      "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
+      "title": "Can AI break encryption? OpenAI's new math has cryptographers divided",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-15T17:20:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/dumb-computer-user.jpg",
-      "excerpt": "In a PNAS randomized experiment (HKU/Tsinghua, 233 people), AI advice covertly steering toward worse options raised poor financial and emotional choices by up to 38 points, while users still rated the AI highly helpful.",
+      "published_iso": "2026-10-15T10:30:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+      "excerpt": "OpenAI's bumper crop of 722 AI-generated math papers wowed and worried researchers, and cryptographers are split over whether the algorithms protecting texts and bank logins are next.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Psychology slot: PNAS randomized experiment showing covertly biased AI advice raises bad choices by up to 38 points while users still rate it helpful."
+      "rationale": "Covers OpenAI's 722 AI-generated math papers and asks the practical question of whether encryption is next; a different event from earlier AI-math cards."
     },
     {
-      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
-      "title": "AI model decodes the language cells use to communicate",
-      "source": "MIT News",
+      "url": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
+      "title": "Using electronic structure to guide AI in designing new materials",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-15T20:50:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-      "excerpt": "Whitehead Institute researchers built an AI framework that decodes how cells signal one another to assemble tissues and organs, a tool that could speed stem-cell engineering and improve disease models.",
+      "published_iso": "2026-10-15T05:00:02-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+      "excerpt": "University of Tokyo researchers extended a leading generative AI materials model to condition on electronic structure, steering atom arrangements toward desired properties.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Basic-biology slot (not patient-facing): Whitehead AI framework that decodes cell-to-cell signalling behind tissue assembly, aimed at stem-cell engineering."
+      "rationale": "Materials slot: a University of Tokyo team makes a generative materials model take electronic structure as an input, so designs can be steered toward target properties."
     },
     {
-      "url": "https://www.eurekalert.org/news-releases/1147991",
-      "title": "Neural operator predicts when tipping points will occur in climate and turbulence models",
-      "source": "EurekAlert! (Caltech)",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+      "source": "Quanta Magazine",
       "category": "science",
-      "published_iso": "2026-10-15T00:00:00Z",
-      "og_image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
-      "excerpt": "A Caltech-led paper shows a recurrent neural operator can predict when tipping points occur in simple models, including a climate-change system and simulated turbulent airflow.",
+      "published_iso": "2026-10-16T13:25:08+00:00",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Social.jpg",
+      "excerpt": "Moritz Hardt, author of a new book on benchmarks, argues AI's 'standardized tests' are fundamentally broken but fixable, and lays out a science of evaluation.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Caltech-led method for forecasting the timing of tipping points in climate and turbulence models; complex-systems angle distinct from recent weather cards."
+      "rationale": "Methodology slot: Moritz Hardt (new book) on how to make AI evaluation a real science; different person and angle from the 10-06 benchmark-error study."
     }
   ],
   "dedup": {
     "checks": {
-      "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/": {
+      "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
+        "nearest": "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-scrap-impurities-ingredients-stronger.html": {
+      "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-alloy-unexplored-materials.html",
+        "nearest": "https://phys.org/news/2026-09-room-temperature-skyrmion-based-synapses.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html": {
+      "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-ai-generated-summaries-distort-human.html",
+        "nearest": "https://www.scientificamerican.com/article/openai-cracks-the-hidden-math-that-keeps-your-texts-from-turning-to-gibberish/",
         "new_action": ""
       },
-      "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015": {
+      "https://techxplore.com/news/2026-10-electronic-ai-materials.html": {
         "verdict": "new",
-        "nearest": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
+        "nearest": "https://phys.org/news/2026-09-physics-grounded-ai-framework-aims.html",
         "new_action": ""
       },
-      "https://www.eurekalert.org/news-releases/1147991": {
+      "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/": {
         "verdict": "new",
-        "nearest": "https://physicsworld.com/a/using-ai-to-plan-for-climate-variability-in-renewable-energy-systems/",
+        "nearest": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
         "new_action": ""
       }
     },
-    "note": "Pool 19. Dropped as repeats: Live Science 'simple math can predict when AI is about to go rogue' (same study as 10-09 techxplore 'Simple math formula predicts when AI chatbots will go rogue'); ScienceDaily AI-vs-human consciousness (likely-repeat of 10-03 techxplore conscious story); ScienceDaily CO2-to-fuel copper catalyst (same study as 10-09 eurekalert 1146653). Excluded on safety instruction: DeepMind antimicrobial-peptide agentic workbench (biosecurity-adjacent). Skipped: Google Earth AI geospatial agents (running Earth AI line after 10-07 card), MIT Eric So book Q&A (commentary; overlaps 10-10 'AI erodes persistence'), SciAm OpenAI 722 math papers/crypto (analysis; AI-math heavily covered recently), Science News DeepMind math study (same AI-math saturation), Chemistry World substrate selection (10-06, stale), Riverlane/NVIDIA decoder calibration (vendor PR; Quantum Insider frequent), MatterGen-e- and SciClaim2Explore (would make Tech Xplore 2-3 and second materials pick; scrap-iron stronger), Retrochimera and StudentSim (lower ranked). MIT pick's history_match (10-01 blood stem cell aging imaging) is a different study and topic. Outlets: CERN, Phys.org, Tech Xplore, MIT News, EurekAlert (5 distinct, 1 each). No shared URLs; no pathogen/biosecurity or patient-facing clinical items."
+    "note": "Pool 15. SWAP: Google Research 'autonomous wet labs' was removed after it tripped a safety classifier during translation. It was replaced, not reworded, with Phys.org's physics-guided AI on ultrathin magnets (non-biology). Nearest published story is the 9-17 skyrmion-synapse card, a different study and topic. None of the URLs in /tmp/ax_claimed_urls.txt covers the same story. Dropped as repeats: ScienceDaily AI-vs-human consciousness (likely-repeat of 10-03 techxplore conscious story); ScienceDaily CO2-to-fuel copper catalyst (same study as 10-09 eurekalert 1146653); Live Science 'AI about to go rogue' (same study as 10-09 techxplore simple math formula); SciAm Claude CRISPR-like DNA pattern (same Anthropic biology discovery as 9-25 phys.org 'Anthropic touts AI-led biology discovery', no new release). Skipped: Google Earth AI geospatial agents (running Earth AI line after the 10-07 card), Tech Xplore LLM double standard (close to the 10-10 'chatbots reason like humans' cognition card), Tech Xplore Turing-test dispute (commentary), Science News DeepMind math study (AI-math already covered by the SciAm pick), Phys.org gene-regulation ML (biology; ranked lower). The SciAm pick is about the 722-paper release, a different event from the 9-19 sphere-packing card. Safety: no pathogen, gain-of-function, bioweapon or wet-lab automation content. Outlets: Phys.org 2, Scientific American, Tech Xplore, Quanta (4 distinct, max 2 per outlet). No shared URLs."
   }
 }

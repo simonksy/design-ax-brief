@@ -1071,6 +1071,138 @@
           "x": "Otros compromisos incluyen reducir el servicio de asesoramiento científico de 90 a 45 días, recortar a la mitad, hasta 14 días, el objetivo de evaluación inicial de los ensayos de Phase 1 que cumplan los requisitos, y un Women's Health Plan."
         }
       ]
+    },
+    "medicine/medicine-seers-uae": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Seers, empresa de monitorización diagnóstica wearable con AI, anunció el día 16 que obtuvo la aprobación del Comité de Ética Institucional (IRB) dependiente del Departamento de Salud de Abu Dabi (DoH) para el proyecto nacional de chequeos de salud que impulsa con SEHA Clinics, la mayor red sanitaria pública de los Emiratos Árabes Unidos (UAE), y que ha iniciado el proyecto de lleno."
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534058"
+        },
+        {
+          "t": "p",
+          "x": "El proyecto es el piloto final para incorporar el cribado de arritmias con AI al programa nacional de chequeos de salud que el gobierno de UAE ofrece 1 vez al año a sus ciudadanos de 40 años o más. Actualmente, el chequeo nacional de UAE no incluye pruebas de cribado de arritmias. Seers fue elegida a finales del año pasado, mediante licitación, como única adjudicataria del proyecto."
+        },
+        {
+          "t": "p",
+          "x": "Seers realizará cribados de ECG con AI basados en mobiCARE™ a unas 100 personas para verificar su eficacia clínica y su idoneidad operativa, con el objetivo de aplicarse en exclusiva en el programa nacional de chequeos desde el próximo año. Si se incorpora, podría atender cada año a unas 280,000 personas de 40 años o más, y se prevé que los ingresos atribuibles a Seers superen los 100 dólares por prueba."
+        },
+        {
+          "t": "p",
+          "x": "Seers verificó la eficacia clínica con 3000 examinados en 5 instituciones médicas, entre ellas el Hospital de la Universidad Nacional de Seúl, y opera cribados de arritmias con AI en KMI Instituto Coreano de Investigación Médica y en Medicheck de la Asociación Coreana de Gestión de la Salud, entre otros. La estrategia de la empresa es empezar por UAE y extender el negocio a los países del GCC (Consejo de Cooperación del Golfo)."
+        },
+        {
+          "t": "p",
+          "x": "El vicepresidente Kim Sung-jong (CBO) afirmó: \"Llevaremos a cabo con éxito este proyecto para entrar en el programa nacional de chequeos de UAE y, a partir de ahí, ampliaremos el negocio de cribado cardiovascular con AI hasta los países del GCC\"."
+        }
+      ]
+    },
+    "medicine/medicine-uci-lung-nlp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+        },
+        {
+          "t": "p",
+          "x": "Un departamento de radiología detalla cómo usa el procesamiento del lenguaje natural para localizar, en la historia clínica electrónica del sistema de salud, a pacientes aptos para el cribado. La adopción del cribado de cáncer de pulmón sigue siendo baja, en torno al 18% a nivel nacional, explican los expertos el 12 de octubre en el Journal of the American College of Radiology."
+        },
+        {
+          "t": "p",
+          "x": "Una barrera clave es que el historial de tabaquismo estructurado en la EHR es incompleto o inexacto. Para resolverlo, la University of California, Irvine, desarrolló una herramienta de NLP que extrae la información sobre tabaquismo e identifica a los pacientes aptos para el cribado a partir de notas clínicas de texto libre."
+        },
+        {
+          "t": "p",
+          "x": "El estudio retrospectivo incluyó a casi 28,000 pacientes de 50 años o más, con casi 41,000 notas de la EHR de 2018 a 2023. Se construyó un sistema de NLP basado en reglas a partir de 50 notas revisadas manualmente y se refinó con otras 2,000 notas. Frente a 2,000 notas anotadas por personas, el NLP mostró casi un 84% de concordancia en la elegibilidad para el cribado."
+        },
+        {
+          "t": "p",
+          "x": "\"El estado de tabaquismo y la elegibilidad para LCS obtenidos por NLP (NLP-derived) mostraron una alta concordancia con la revisión manual e identificaron más del triple de pacientes aptos para el cribado que los datos estructurados de la EHR\", concluyeron la autora de correspondencia, Gelareh Sadigh, MD, y sus colegas, que califican el NLP de \"un enfoque práctico y escalable\" que funciona \"sin cambiar el flujo de trabajo del médico\"."
+        }
+      ]
+    },
+    "medicine/medicine-parkinsonism-mri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las MRI multimodales de grado de investigación muestran potencial para diferenciar la enfermedad de Parkinson (PD) de la atrofia multisistémica (MSA), pero su traslado a la clínica está limitado por el costo, el tiempo de adquisición y la carga de procesamiento. Los autores desarrollaron un modelo de aprendizaje automático basado en MRI estructural T1-weighted (MRI-based) para diferenciar el parkinsonismo y lo generalizaron a la MRI clínica 2D anisotrópica de rutina."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
+          "cap": "Del benchmark multimodal a la firma clínica, la validación con datos de investigación y la cohorte externa de clinical-MRI."
+        },
+        {
+          "t": "p",
+          "x": "Con una cohorte multicéntrica de 969 participantes y un marco jerárquico de descubrimiento–verificación–traslación, un modelo multimodal de referencia alcanzó un AUROC de 0.98, mientras que el modelo unimodal simplificado T1-Top20 logró 0.93 en la discriminación multiclase (controles sanos, PD, MSA)."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
+          "cap": "Curvas ROC y el conjunto combinado de características Top-20 para la clasificación final."
+        },
+        {
+          "t": "p",
+          "x": "Para PD frente a MSA, el modelo T1-Top20 congelado logró un AUROC combinado de 0.88 en la cohorte externa de grado de investigación (n = 227) e identificó a 19 de 25 personas que pasaron de un trastorno de conducta del sueño REM idiopático a PD. El modelo generalizado logró un AUROC combinado de 0.84 en la cohorte de clinical-MRI (2D T1, n = 303)."
+        }
+      ]
+    },
+    "medicine/medicine-hira-image-deletion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534168",
+          "cap": "Foto: Televisión de la Asamblea Nacional"
+        },
+        {
+          "t": "p",
+          "x": "El Servicio de Revisión y Evaluación de Seguros de Salud (HIRA) recibió críticas en la auditoría estatal de la Comisión de Salud y Bienestar de la Asamblea Nacional del día 16, al conocerse que había borrado datos de imágenes médicas antiguas alegando falta de espacio de almacenamiento y que no contaba con criterios de borrado ni con una estandarización de datos adecuada."
+        },
+        {
+          "t": "p",
+          "x": "El diputado Kwon Chil-seung, del Partido Democrático, afirmó: \"Se dice que vivimos en la era de la AI, pero en el fondo es una era de lucha por los datos\", y pidió explicaciones sobre el volumen de imágenes médicas que conserva HIRA."
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534166",
+          "cap": "Foto: Televisión de la Asamblea Nacional"
+        },
+        {
+          "t": "p",
+          "x": "Según los datos, el volumen de imágenes médicas conservadas de 2021 a 2024 fue de entre unos 5 millones y 13 millones al año, pero en 2025 llegó a unos 230 millones y este año, solo en los primeros 9 meses, a unos 200 millones. Kwon señaló: \"Es porque se borraron las imágenes médicas anteriores a 2024\", estimó que en la práctica se eliminó alrededor del 90% de los datos antiguos y criticó que tampoco existieran criterios de borrado."
+        },
+        {
+          "t": "p",
+          "x": "La tasa de estandarización de datos se quedó en torno al 1 a 3%, y el laboratorio de validación de datos, en el que se invirtieron 2 mil millones de wones durante 3 años, registró 0 usos por parte de empresas externas de desarrollo de AI desde 2021. Al final de la sesión también se oyó la crítica de que era \"como haber perdido todo el patrimonio\"."
+        },
+        {
+          "t": "p",
+          "x": "El presidente de HIRA, Hong Seung-kwon, reconoció el problema de almacenamiento y la falta de normas internas de gestión, y afirmó: \"Estandarizaremos datos de calidad que la industria pueda usar para el entrenamiento de AI\"."
+        }
+      ]
+    },
+    "medicine/medicine-fake-cxr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Seoul National University Hospital tested whether humans and large language models can tell real chest x-rays from AI-generated ones, in a study published Oct. 13 in the Journal of Imaging Informatics in Medicine."
+        },
+        {
+          "t": "p",
+          "x": "The set held 160 chest x-rays: 40 real and 120 synthetic images from three AI pipelines. Two radiologists, two general practitioners and three LLMs (Gemini 3.5 Flash, GPT-4o, Claude 3.7 Sonnet) judged each one."
+        },
+        {
+          "t": "p",
+          "x": "Gemini 3.5 Flash (77.9% balanced accuracy) and the thoracic radiologist (75.8%) did best, with no significant difference; the general practitioners performed near chance. Radiologists caught diffusion-model images more often (82%–100%) than LLMs (32%–72%), while LLMs were more specific on real images. Overall agreement was poor (Fleiss' kappa 0.213)."
+        },
+        {
+          "t": "p",
+          "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
+        }
+      ]
     }
   }
 }

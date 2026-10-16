@@ -7139,6 +7139,148 @@
           "cap": "展示四阶段流水线的系统架构。"
         }
       ]
+    },
+    "science/science-magnet-patterns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+          "cap": "金刚石量子传感器扫描超薄磁体上方的磁场，物理信息方法据此重建隐藏在下方的磁化分布。Credit: Alexander Setescak / University of Vienna"
+        },
+        {
+          "t": "p",
+          "x": "现代显微镜只能测量纳米级磁性材料外部的磁场，而无法看到内部的图案。由于许多不同的内部图案可以产生完全相同的磁场，反向推算长期以来一直是个难题。"
+        },
+        {
+          "t": "p",
+          "x": "维也纳大学（University of Vienna）的物理学家与德累斯顿（Dresden）、新加坡（Singapore）和蔚山（Ulsan）的同行合作，将物理定律直接融入现代机器学习方法，解决了这一问题。研究发表于Physical Review Letters，软件以开源形式免费提供。"
+        },
+        {
+          "t": "p",
+          "x": "这一物理信息算法会选出既与实测磁场相符、又使材料物理能量最小的磁性图案，违背基本物理定律的图案则被排除。领导该研究的Claas Abert表示：\"我们让磁体的物理能量来决定哪个解是现实的。\""
+        },
+        {
+          "t": "p",
+          "x": "研究团队以National University of Singapore（新加坡国立大学）合成的超薄Fe₃−ₓGaTe₂为对象，用德累斯顿Max Planck Institute for Chemical Physics of Solids（马克斯·普朗克固体化学物理研究所）的金刚石氮-空位传感器测量数据进行了测试。软件同时计算出磁性图案和传感器高度，得出的距离为81纳米。"
+        },
+        {
+          "t": "p",
+          "x": "该方法可推广到其他磁成像技术。团队已在将其扩展到复杂磁性纳米结构的3D X-ray成像。"
+        }
+      ]
+    },
+    "science/science-crypto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+          "cap": "密码学守护着现代生活的广阔领域，从网上购物到软件更新，再到加密货币。Jackreznor / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "上周，OpenAI一次性在网上放出722份数学手稿，全部出自一个尚未对公众开放的AI模型之手。OpenAI在一天之内撤下其中三篇，数学家仍在逐一研读其余部分。"
+        },
+        {
+          "t": "p",
+          "x": "数学是密码学的根基。Johns Hopkins University的密码学家Matthew Green认为，我们对现有公钥加密算法失去信心的可能性约为百分之十五。"
+        },
+        {
+          "t": "p",
+          "x": "也有人不以为然。Bar-Ilan University与Coinbase的Yehuda Lindell在X上写道，并无“任何证据”表明出现了突破；而OpenAI的722篇论文中没有一篇涉及密码学，Stanford的Dan Boneh称这“有点耐人寻味”。"
+        },
+        {
+          "t": "p",
+          "x": "在最近的预印本中，ETH Zurich的Florian Tramèr及同事让领先的AI模型挑战191项破译任务。他说：“模型在密码分析上的能力增长极快，这一点相当清楚。”不过Govind Pimpale也承认，“到今天为止，还没有任何已部署的算法被AI攻破。”"
+        },
+        {
+          "t": "p",
+          "x": "KU Leuven的Bart Preneel认为“没有真正恐慌的理由”。Boneh和Green希望AI公司说明自家模型在密码学上尝试过什么。"
+        }
+      ]
+    },
+    "science/science-materials": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+          "cap": "研究者开发出可同时设计晶体结构与电子结构的生成式AI模型。Credit: Institute of Industrial Science, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Institute of Industrial Science, The University of Tokyo的研究者扩展了一款领先的生成式AI模型，使其在设计材料晶体结构的同时设计电子结构。这一名为MatterGen-e⁻的新模型发表于npj Computational Materials。"
+        },
+        {
+          "t": "p",
+          "x": "在逆向设计中，先给定带隙或形成能等目标性质，再由AI直接设计出与之匹配的稳定晶体。Microsoft Research的MatterGen依据原子类型、坐标与晶格生成结构，但从有限数据中学习性质与结构的关联并不容易。"
+        },
+        {
+          "t": "p",
+          "x": "团队加入了局域电子描述符——Bader电荷与原子态密度。针对目标形成能与带隙，MatterGen-e⁻生成的同时满足有效、稳定、唯一且新颖的结构，明显多于MatterGen。"
+        },
+        {
+          "t": "p",
+          "x": "“关键在于电子信息的质量，而不是变量的数量，”通讯作者Teruyasu Mizoguchi说。这一思路还有望改进表面与界面的生成。"
+        }
+      ]
+    },
+    "science/science-benchmarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+          "cap": "计算机科学家Moritz Hardt把基准测试称为“造就机器学习的那个错误”。Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Max Planck Institute for Intelligent Systems的主任Moritz Hardt也认为基准测试已变得有缺陷。“这一点没有第二种说法。基准测试的生态已经坏了。”在2026年出版的The Emerging Science of Machine Learning Benchmarks一书中，他提出基准测试仍然推动了真实的进步——“多半是靠运气”。Quanta对Hardt的采访经过压缩与编辑以便阅读。"
+        },
+        {
+          "t": "p",
+          "x": "他说，测试集稍有变化，绝对分数就会移动；但不同数据集之间，模型的排名往往非常稳定——这正是机器学习躲过一场科学危机的主要原因。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+          "cap": "Hardt提醒，AI模型在基准测试上拿到的分数意义不大，但模型之间的比较，也就是排名，是有意义的。Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "到了LLMs，这种稳定性被打破：我们不知道模型用什么训练，开发者也能配出有利于基准成绩的数据组合。“更好的模型必然胜出，这句话已经不再成立。”"
+        },
+        {
+          "t": "p",
+          "x": "他开出的方子是“高原训练”：不设训练集，只保留测试集，以及在测试前准备每个模型的统一流程，以恢复排名的有效性。"
+        }
+      ]
+    },
+    "science/science-cern-mistral": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
+          "cap": "CERN与Mistral联手推动面向科学的AI（图片：CERN / Mistral）"
+        },
+        {
+          "t": "p",
+          "x": "CERN与欧洲大规模AI模型开发商Mistral签署意向声明，计划建立长期战略合作伙伴关系，重点开发用于科学发现的基础模型。"
+        },
+        {
+          "t": "p",
+          "x": "这项工作的核心目标是开发一个经过预训练的单一Large Physics Model，即首个面向对撞机物理的基础模型。它将基于CERN大型强子对撞机（LHC）数十亿次模拟质子-质子碰撞进行训练，并被设计用于支持多项任务，从重建粒子碰撞、识别粒子，到标记意外信号、评估未来探测器设计。"
+        },
+        {
+          "t": "p",
+          "x": "目前，重建依赖一连串专用算法。基础模型有望贯通整个重建链条进行学习，并在单一模型中支持多项任务。"
+        },
+        {
+          "t": "p",
+          "x": "CERN首席信息官Enrica Porcari表示：“高能物理提供了一个独特的环境，可以以极其严格的标准开发和测试人工智能。”"
+        },
+        {
+          "t": "p",
+          "x": "迄今为止，CERN已存储约1艾字节的LHC实验数据；预计约2030年投入运行的HL-LHC将使碰撞数量增加十倍。虽然初期重点是高能物理，但这一合作也可能为更广泛的科学界贡献AI方法。"
+        }
+      ]
     }
   }
 }

@@ -1,7 +1,30 @@
-{"date":"2026-10-16","section":"medicine","media":[
-{"id":"medicine-fake-cxr","type":"image","src":"pipeline/media/medicine-fake-cxr.png"},
-{"id":"medicine-openevidence","type":"image","src":"pipeline/media/medicine-openevidence.png"},
-{"id":"medicine-ama-agentic","type":"image","src":"pipeline/media/medicine-ama-agentic.jpg"},
-{"id":"medicine-rare-phenotype","type":"image","src":"pipeline/media/medicine-rare-phenotype.png"},
-{"id":"medicine-ed-forecast","type":"image","src":"pipeline/media/medicine-ed-forecast.png"}
-]}
+{
+ "date": "2026-10-17",
+ "section": "medicine",
+ "media": [
+  {
+   "id": "medicine-llm-care-cost",
+   "type": "image",
+   "src": "pipeline/media/medicine-llm-care-cost.jpg"
+  },
+  {
+   "id": "medicine-seers-uae",
+   "type": "svg"
+  },
+  {
+   "id": "medicine-uci-lung-nlp",
+   "type": "image",
+   "src": "pipeline/media/medicine-uci-lung-nlp.png"
+  },
+  {
+   "id": "medicine-parkinsonism-mri",
+   "type": "image",
+   "src": "pipeline/media/medicine-parkinsonism-mri.png"
+  },
+  {
+   "id": "medicine-hira-image-deletion",
+   "type": "image",
+   "src": "pipeline/media/medicine-hira-image-deletion.jpg"
+  }
+ ]
+}

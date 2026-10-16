@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "issue": "배우의 얼굴, AI에 누가 허락하나",
+  "date": "2026.10.16",
+  "section": "MOVIES",
+  "accent": "#7928ca",
+  "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+  "sources": [
+   "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
+   "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/",
+   "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+   "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/",
+   "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth"
+  ]
+ },
+ "cards": [
+  {
+   "n": 1,
+   "kind": "thread",
+   "thread_badge": "이슈 트렌드",
+   "thread_cap": "5건 · 영화 · 10.11~10.16",
+   "thread": [
+    {
+     "d": "10.11",
+     "t": "서명 거부",
+     "c": "#7928ca",
+     "s": "MOVIES"
+    },
+    {
+     "d": "10.13",
+     "t": "AI 장편 합류",
+     "c": "#7928ca",
+     "s": "MOVIES"
+    },
+    {
+     "d": "10.14",
+     "t": "가짜 사진",
+     "c": "#7928ca",
+     "s": "MOVIES"
+    },
+    {
+     "d": "10.15",
+     "t": "AI 아바타",
+     "c": "#7928ca",
+     "s": "MOVIES"
+    },
+    {
+     "d": "10.16",
+     "t": "딥페이크 범람",
+     "c": "#7928ca",
+     "s": "MOVIES"
+    }
+   ],
+   "thread_note": "AI 앞에서 배우는 서명하거나 거부하고, 얼굴은 허락 없이도 쓰인다",
+   "eyebrow": "흐름 · 영화",
+   "headline": "배우의 얼굴, AI 앞에서 갈린다",
+   "body": "엿새 사이 다섯 건. 서명을 거부한 배우, 손잡은 배우, 허락 없이 퍼진 가짜 사진이 한 줄로 이어진다.",
+   "foot": "밀어서 보기 →"
+  },
+  {
+   "n": 2,
+   "kind": "photo",
+   "eyebrow": "2026.10.11",
+   "headline": "Cage, AI 동의서에 서명 거부",
+   "body": "Cage는 'Spider-Noir' AI 동의서에 서명하지 않았다. Amazon과 다시 일하지 않아도 괜찮다고 했다.",
+   "foot": "2026.10.11",
+   "_src": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
+   "_id": "cage-spider-noir-ai-waiver",
+   "media": "pipeline/media/cage-spider-noir-ai-waiver.jpg"
+  },
+  {
+   "n": 3,
+   "kind": "quote",
+   "quote": "Cortés는\n우리가 Utopai Studios를 세운\n바로 그 이유",
+   "quote_by": "Cecilia Shen · Utopai Studios CEO",
+   "eyebrow": "2026.10.13",
+   "headline": "Banderas는 AI 장편을 택했다",
+   "body": "Banderas가 Utopai Studios의 AI 기반 장편 'Cortés'에서 Hernán Cortés를 맡는다.",
+   "foot": "2026.10.13",
+   "_src": "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/",
+   "_id": "movies-banderas-cortes-utopai"
+  },
+  {
+   "n": 4,
+   "kind": "photo",
+   "eyebrow": "2026.10.14",
+   "headline": "허락 없이 퍼진 Mia Goth 사진",
+   "body": "Mia Goth 측은 AI 이미지를 올린 인증 팬 계정을 Instagram에 여러 차례 신고했다.",
+   "foot": "2026.10.14",
+   "_src": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+   "_id": "movies-mia-goth-instagram-ai",
+   "media": "pipeline/media/movies-mia-goth-instagram-ai.jpg"
+  },
+  {
+   "n": 5,
+   "kind": "photo",
+   "eyebrow": "2026.10.15",
+   "headline": "Andy Cohen AI 아바타가 진행",
+   "body": "Peacock의 Bravo 맞춤 클립 피드를 Cohen의 AI 아바타가 안내하고 스폰서 이름도 부른다.",
+   "foot": "2026.10.15",
+   "_src": "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/",
+   "_id": "movies-peacock-bravoverse",
+   "media": "pipeline/media/movies-peacock-bravoverse.jpg"
+  },
+  {
+   "n": 6,
+   "kind": "photo",
+   "eyebrow": "2026.10.16",
+   "headline": "유명인 딥페이크가 피드를 덮다",
+   "body": "가짜 Mia Goth 사진은 좋아요 500,000개 가까이 받았다. Meta는 정지 이미지에 AI 표시를 요구하지 않는다.",
+   "foot": "2026.10.16",
+   "_src": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+   "_id": "movies-celebrity-deepfakes",
+   "media": "pipeline/media/movies-celebrity-deepfakes.jpg"
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 7
+  }
+ ]
+}

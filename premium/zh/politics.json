@@ -2593,6 +2593,150 @@
           "x": "各州请求法院处以民事罚款，并制止OpenAI就ChatGPT的安全性误导公众；部分州还要求删除非法收集的个人数据。"
         }
       ]
+    },
+    "politics/politics-china-open-weight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
+        },
+        {
+          "t": "p",
+          "x": "专家在旧金山举行的Rest of World活动上表示，美国和欧洲公司推出的新开放权重模型希望吸引担心安全问题的中国开放模型用户，但尽管资源更多，其性能仍不及占主导地位的中国系统。"
+        },
+        {
+          "t": "p",
+          "x": "Columbia University助理教授Daniel Björkegren表示，对于低收入国家的企业和政府而言，成本是首要因素。他说：“在低收入背景下，人们非常担心在前沿智能上依赖U.S.。”"
+        },
+        {
+          "t": "p",
+          "x": "上周OpenRouter排行榜前五名中有四个是中国模型；LiveBench显示，顶尖中国模型的基准分数仅比U.S.对手低3%。"
+        },
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+          "cap": "Kristy Loke(左)与Daniel Björkegren在旧金山的Rest of World活动上。"
+        },
+        {
+          "t": "p",
+          "x": "MATS研究员Kristy Loke表示，开放模型让中国得以绕开外界对其进入海外市场的部分担忧。她说：“这有利于软实力，对国内也有好处。”"
+        },
+        {
+          "t": "p",
+          "x": "Stanford DigiChina Project的Graham Webster表示，芯片贸易限制迫使中国公司打造更高效的模型。“如果你需要相对前沿的能力，眼下只有中国开放模型。”"
+        },
+        {
+          "t": "p",
+          "x": "不过，中国公司仍面临算力限制和如何盈利的问题。Webster说：“在当前条件下，能买到的芯片有限。”“它们可能会撞墙。”Loke表示，盈利问题困扰着每一家中国AI公司。"
+        }
+      ]
+    },
+    "politics/politics-eu-raise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在都柏林举行的European AI in Science Summit上，欧盟委员会为AI in Science Enablers启动了RAISE(Resource for AI Science in Europe)承诺倡议。该倡议旨在动员私营部门和慈善界的支持，在公共资金之外，为横跨人工智能与科学领域的欧洲研究人员提供助力。"
+        },
+        {
+          "t": "p",
+          "x": "作为AI in Science Strategy的一部分，该倡议汇集前沿AI模型使用权、算力、科研软件许可、数据和培训等实物贡献。Novo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral和Google DeepMind已作出首批承诺。"
+        },
+        {
+          "t": "p",
+          "x": "作为倡议的一部分，Mistral AI与CERN启动合作，开发有望成为物理学领域最大的基础模型。承诺必须体现超越直接商业利益、对科学AI的持续支持，该倡议每年接受审查。"
+        },
+        {
+          "t": "p",
+          "x": "欧盟委员会还发布了关于在研究中负责任地使用生成式AI的更新版Living Guidelines，内容涵盖智能体AI，并启动了RAISE Hub、Forum和Observatory。"
+        }
+      ]
+    },
+    "politics/politics-eu-ai-act-pressure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DUBLIN — 在经历了一个AI智能体频频失控的夏天之后，Microsoft和Google的高层公开质疑EU 2024年的《人工智能法》(Artificial Intelligence Act)是否仍然合乎目的。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft总裁Brad Smith对Decoded by POLITICO表示，欧洲官员应重新考虑现行规则的适用性。Google DeepMind联合创始人Demis Hassabis在台上表示：“如果针对三年前的事物立法，到今天就会过时。”他并未提及AI Act。"
+        },
+        {
+          "t": "p",
+          "x": "欧盟委员会官员坚称该法足够有力。EU科技事务负责人Henna Virkkunen表示，该法“完全有能力”应对AI智能体。司法专员Michael McGrath表示：“我们目前感到满意。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+          "cap": "部分EU国家政府认定AI Act存在漏洞。| Michele Spatari/NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "部分EU国家政府看到了缺口。POLITICO看到的一份匈牙利文件指出，该法主要在模型投放市场后才适用：“2026年的事件发生在那之前。”捷克AI特使Lukáš Kačena说：“AI Act永远不会足够。”"
+        }
+      ]
+    },
+    "politics/politics-brookings-ai-evals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+        },
+        {
+          "t": "p",
+          "x": "这份背景简报指南在2026年九月15日Forum for Cooperation on AI(FCAI)对话前分发给与会者。各国政府和组织正同时建设AI评估能力，近期事件让这项工作更显紧迫。"
+        },
+        {
+          "t": "p",
+          "x": "评估方与开发者的独立程度各不相同：第一方评估由内部进行，第二方评估方与开发者存在合同关系，第三方评估方则没有。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+          "cap": "Figure A"
+        },
+        {
+          "t": "p",
+          "x": "在U.S.，CAISI负责前沿模型的国家安全测试，并于五月与Google DeepMind、Microsoft和xAI签署了部署前评估协议。EU AI Act的评估义务主要载于第55条。U.K. AI Security Institute开发了用于可复现评估的开源框架Inspect，日本、新加坡、加拿大和澳大利亚则各自运营AI安全研究所。"
+        },
+        {
+          "t": "p",
+          "x": "简报指出：“没有任何评估能呈现全貌”；评估“并非中立的工具”。"
+        }
+      ]
+    },
+    "politics/politics-uk-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
+          "cap": "2026年10月8日，一名选民走出霍尔本和圣潘克拉斯补选的投票站。（Leon Neal/Getty Images）"
+        },
+        {
+          "t": "p",
+          "x": "英国选举委员会正在开发一套AI驱动（AI-powered）的系统，可在重大深度伪造内容发布到社交媒体后3小时内通知候选人。首席执行官维杰·兰加拉詹（Vijay Rangarajan）在保守党大会的一场讨论会上透露了这一消息。"
+        },
+        {
+          "t": "p",
+          "x": "他举了2025年爱尔兰总统选举中的一段深度伪造视频为例，该视频虚假地显示候选人凯瑟琳·康诺利（Catherine Connolly）退选。他说：“如果这种事发生在英国选举中，将会左右相当多的选票。”"
+        },
+        {
+          "t": "p",
+          "x": "谈到2026年5月地方选举期间的试点，他说：“我们进行了全面试点，用AI分析了约300万条帖子。”共有147条内容被标记；经人工审核后，十条“确实相当具有误导性”的帖子被移交给社交媒体公司或警方。"
+        },
+        {
+          "t": "p",
+          "x": "这一做法是“对加害者中立”的：工作人员审核AI标记（AI-flagged）的帖子，并在3小时内提醒候选人或政党，“因为那大概就是内容扩散开来所需的时间。”"
+        },
+        {
+          "t": "p",
+          "x": "兰加拉詹还表示，委员会认为已在至少一个社交网络上发现“算法偏见”，每月遭受3万至4万次网络攻击，而且仍在适用1983年或2000年制定、“非常过时”的法律。"
+        }
+      ]
     }
   }
 }

@@ -7578,6 +7578,148 @@
           "cap": "Arquitectura del sistema con el flujo de cuatro etapas."
         }
       ]
+    },
+    "science/science-magnet-patterns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+          "cap": "Un sensor cuántico de diamante escanea el campo magnético sobre un imán ultrafino; el método basado en la física reconstruye la magnetización oculta debajo. Credit: Alexander Setescak / University of Vienna"
+        },
+        {
+          "t": "p",
+          "x": "Los microscopios modernos solo miden el campo magnético fuera de los materiales magnéticos a nanoescala, no el patrón interior. Como muchos patrones internos distintos pueden producir exactamente el mismo campo, deducirlo a la inversa ha sido durante mucho tiempo un desafío."
+        },
+        {
+          "t": "p",
+          "x": "Físicos de la Universidad de Viena (University of Vienna), junto con colegas de Dresde (Dresden), Singapur (Singapore) y Ulsan, lo resolvieron incorporando las leyes de la física directamente en métodos modernos de aprendizaje automático. El estudio se publica en Physical Review Letters y el software está disponible gratuitamente como código abierto."
+        },
+        {
+          "t": "p",
+          "x": "Su algoritmo basado en la física selecciona el patrón magnético que minimiza la energía física del material y a la vez coincide con el campo medido; los patrones que violan leyes físicas básicas quedan descartados. \"Dejamos que la energía física del imán decida qué solución es realista\", afirma Claas Abert, quien dirigió el estudio."
+        },
+        {
+          "t": "p",
+          "x": "El equipo lo probó con mediciones de sensores de diamante con centros de nitrógeno-vacante del Max Planck Institute for Chemical Physics of Solids en Dresde, sobre Fe₃−ₓGaTe₂ ultrafino sintetizado en la National University of Singapore. El software calculó a la vez el patrón magnético y la altura del sensor, y halló una distancia de 81 nanómetros."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque puede adaptarse a otras técnicas de imagen magnética. El equipo ya lo está ampliando a la imagen 3D por X-ray de nanoestructuras magnéticas complejas."
+        }
+      ]
+    },
+    "science/science-crypto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+          "cap": "La criptografía protege amplias parcelas de la vida moderna, desde las compras en línea hasta las actualizaciones de software y las criptomonedas. Jackreznor / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "La semana pasada OpenAI publicó de golpe 722 manuscritos matemáticos en línea, todos ellos escritos por un modelo de IA no disponible para el público. OpenAI retiró tres de los artículos en un día, y los matemáticos siguen revisando el resto."
+        },
+        {
+          "t": "p",
+          "x": "Las matemáticas sostienen la criptografía. Matthew Green, criptógrafo de la Johns Hopkins University, planteó que había un 15 por ciento de probabilidad de que perdiéramos la confianza en los algoritmos actuales de cifrado de clave pública."
+        },
+        {
+          "t": "p",
+          "x": "Otros no coinciden. Yehuda Lindell, de la Bar-Ilan University y de Coinbase, escribió en X que no hay “ninguna evidencia” de un avance decisivo, y ninguno de los 722 artículos de OpenAI trata de criptografía, algo que Dan Boneh, de Stanford, califica de “un poco llamativo”."
+        },
+        {
+          "t": "p",
+          "x": "En un preprint reciente, Florian Tramèr, de ETH Zurich, y sus colegas enfrentaron a los principales modelos de IA con 191 retos de descifrado. “Está bastante claro que la capacidad de los modelos en criptoanálisis crece muy rápido”, dice. Aun así, “hoy ningún algoritmo actualmente desplegado ha sido roto por la IA”, admite Govind Pimpale."
+        },
+        {
+          "t": "p",
+          "x": "Bart Preneel, de KU Leuven, no ve “ninguna razón real para el pánico”. Boneh y Green quieren que las empresas de IA digan qué han intentado sus modelos en criptografía."
+        }
+      ]
+    },
+    "science/science-materials": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+          "cap": "Los investigadores desarrollan un modelo de IA generativa que diseña a la vez estructuras cristalinas y electrónicas. Credit: Institute of Industrial Science, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Institute of Industrial Science, The University of Tokyo, han ampliado un modelo destacado de IA generativa para que diseñe la estructura electrónica de un material junto con su estructura cristalina. El nuevo modelo, llamado MatterGen-e⁻, se describe en npj Computational Materials."
+        },
+        {
+          "t": "p",
+          "x": "En el diseño inverso se fija primero una propiedad objetivo, como la banda prohibida o la energía de formación, y la IA diseña directamente un cristal estable que la cumpla. MatterGen, de Microsoft Research, genera estructuras a partir de tipos de átomos, coordenadas y redes, pero aprender las correlaciones entre propiedad y estructura con datos limitados resulta difícil."
+        },
+        {
+          "t": "p",
+          "x": "El equipo añadió descriptores electrónicos locales: la carga de Bader y la densidad de estados atómica. Para energías de formación y bandas prohibidas objetivo, MatterGen-e⁻ produjo bastantes más estructuras simultáneamente válidas, estables, únicas y novedosas que MatterGen."
+        },
+        {
+          "t": "p",
+          "x": "“Lo que importa es la calidad de la información electrónica, no el número de variables”, dice el autor principal Teruyasu Mizoguchi. El enfoque podría mejorar la generación de superficies e interfaces."
+        }
+      ]
+    },
+    "science/science-benchmarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+          "cap": "El informático Moritz Hardt llama a los benchmarks “el error que hizo el aprendizaje automático”. Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Moritz Hardt, director en el Max Planck Institute for Intelligent Systems, coincide en que la evaluación con benchmarks se ha vuelto defectuosa. “No hay dos maneras de verlo. El ecosistema de benchmarks está roto.” En su libro de 2026 The Emerging Science of Machine Learning Benchmarks sostiene que, aun así, los benchmarks impulsaron un progreso legítimo: “sobre todo por pura suerte”. Quanta habló con Hardt en una entrevista condensada y editada para mayor claridad."
+        },
+        {
+          "t": "p",
+          "x": "Las puntuaciones absolutas cambian cuando el conjunto de prueba se altera levemente, dice, pero las clasificaciones entre modelos suelen ser muy estables entre conjuntos de datos: la razón principal de que el aprendizaje automático escapara a una crisis científica."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+          "cap": "Hardt advierte que las puntuaciones que los modelos de IA obtienen en los benchmarks significan poco. Las comparaciones, o clasificaciones, entre modelos sí importan. Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Con los LLMs esa estabilidad se rompe: no sabemos con qué se entrenaron los modelos y quienes los construyen pueden componer mezclas de datos que favorecen el rendimiento en los benchmarks. “Ya no es cierto que el mejor modelo gane necesariamente.”"
+        },
+        {
+          "t": "p",
+          "x": "Su solución es el “entrenamiento en altura”: sin conjunto de entrenamiento, solo un conjunto de prueba y un protocolo para preparar cada modelo antes de la prueba, de modo que las clasificaciones recuperen su validez."
+        }
+      ]
+    },
+    "science/science-cern-mistral": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
+          "cap": "CERN y Mistral unen fuerzas para impulsar la AI al servicio de la ciencia (Imagen: CERN / Mistral)"
+        },
+        {
+          "t": "p",
+          "x": "El CERN y Mistral, desarrollador europeo de modelos de AI a gran escala, han firmado una declaración de intenciones para establecer una alianza estratégica a largo plazo centrada en desarrollar modelos fundacionales para el descubrimiento científico."
+        },
+        {
+          "t": "p",
+          "x": "En el centro de este trabajo está la ambición de desarrollar un único Large Physics Model preentrenado, el primer modelo fundacional para la física de colisionadores. Se entrenará con miles de millones de colisiones protón-protón simuladas en el Gran Colisionador de Hadrones (LHC) del CERN y estará diseñado para varias tareas: desde reconstruir colisiones de partículas e identificar partículas hasta señalar señales inesperadas y evaluar futuros diseños de detectores."
+        },
+        {
+          "t": "p",
+          "x": "Hoy, la reconstrucción depende de una cadena de algoritmos especializados. Los modelos fundacionales ofrecen la posibilidad de aprender a lo largo de toda la cadena de reconstrucción y de atender varias tareas dentro de un solo modelo."
+        },
+        {
+          "t": "p",
+          "x": "«La física de altas energías ofrece un entorno único en el que la inteligencia artificial puede desarrollarse y ponerse a prueba con un rigor excepcional», afirmó Enrica Porcari, directora de Sistemas de Información del CERN."
+        },
+        {
+          "t": "p",
+          "x": "El CERN ha almacenado hasta la fecha alrededor de un exabyte de datos experimentales del LHC, y el número de colisiones se multiplicará por diez con el HL-LHC, que se espera que empiece a funcionar hacia 2030. Aunque el foco inicial es la física de altas energías, la alianza podría aportar enfoques de AI a la comunidad científica en general."
+        }
+      ]
     }
   }
 }

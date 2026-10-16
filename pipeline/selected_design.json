@@ -1,125 +1,107 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "Introducing Specs: Markdown as a medium",
-      "url": "https://www.figma.com/blog/introducing-figma-specs/",
-      "source": "Figma",
+      "title": "Design together with code layers on the canvas",
+      "url": "https://www.figma.com/blog/design-together-with-code-layers/",
+      "source": "Figma Blog",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-15T04:51:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma launches Specs, a Markdown container for context that lives on the canvas, giving designers and AI agents a shared written spec beside the design.",
-      "rationale": "Brand-new Figma product from Config India: a Markdown spec on the canvas that both designers and agents read, which changes how handoff context is written starting tomorrow."
+      "published_iso": "2026-10-15T04:52:00Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/fd9f6ce97dbb2f1dadaf0baf1542447e73bcf51d-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Code layers is now in open beta. Teams can build code-backed prototypes on the Figma canvas, starting from GitHub, a local folder, a prototype brought in through the Figma MCP server, or a live site captured with the Chrome extension, and then compare variations side by side.",
+      "rationale": "Open-beta release that puts code-backed prototypes directly on the Figma canvas, which changes how designers prototype starting tomorrow."
     },
     {
       "rank": 2,
-      "title": "Bluesky's AI tool now lets you make games and apps to share on social",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "source": "The Verge",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-10-15T19:57:16Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&crop=0%2C10.814080979907%2C100%2C78.371838040185&w=1200",
-      "excerpt": "Bluesky's Attie tool now builds small games and apps from prompts that users share in their feeds; the CEO calls it 'vibe coding for your community.'",
-      "rationale": "New feature launch: prompt-built mini apps that live inside a social feed open a new surface for designing shareable interactive content."
+      "title": "Introducing Krea 3",
+      "url": "https://www.krea.ai/blog/introducing-krea-3",
+      "source": "Krea",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-10-15T15:00:00Z",
+      "og_image": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+      "excerpt": "Krea released Krea 3, a new image editing model. Most edits finish in under 8 seconds at native 2K for $0.06 an image, take up to 6 reference images, and keep products and characters consistent from one image to the next. It is live for Krea's 30M users and through fal, Replicate and OpenRouter.",
+      "rationale": "New image-editing model with concrete speed, price and consistency numbers, already available through Krea and the major APIs."
     },
     {
       "rank": 3,
-      "title": "The AI you already use, now powering the apps you create",
-      "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
-      "source": "Lovable",
+      "title": "Cloud Agent Canvases and Environment Improvements",
+      "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+      "source": "Cursor",
       "category": "figma",
       "tool": "Figma",
       "accent": "#3b6bff",
       "motif": "frame",
-      "published_iso": "2026-10-15T12:45:00Z",
-      "og_image": "https://assets.lovable.dev/content/news/covers/default-cover-rebrand.png",
-      "excerpt": "Lovable adds GPT-Live, the latest Claude models, Gemini 4 Argon, Gemini Omni, Lyria and more, so prompt-built apps can include voice, reasoning, video, music and live web research.",
-      "rationale": "Shipping release: designers prototyping in Lovable can now put voice, video, music and live research into the apps they build, not just static UI."
+      "published_iso": "2026-10-16T00:00:00Z",
+      "og_image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
+      "excerpt": "Cursor's cloud agents can now build interactive canvases as part of their work and share them with a team by link. An Environments API also entered beta, with support for up to 300 repos per environment.",
+      "rationale": "Shipped changelog feature: agents produce shareable interactive canvases, a new review surface for design-engineering teams."
     },
     {
       "rank": 4,
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
-      "source": "Hugging Face",
+      "title": "Vercel Ship 2026 recap",
+      "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+      "source": "Vercel",
       "category": "tokens",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "published_iso": "2026-10-15T00:00:00Z",
-      "og_image": "https://huggingface.co/blog/assets/flux3/thumbnail.png",
-      "excerpt": "Black Forest Labs' open FLUX.3 Image Klein runs in Diffusers from day one: one model for text-to-image, multi-reference image-to-image and bounding-box layout control, about 2s per 1024px image on an H100, with FP8/NVFP4 weights for smaller GPUs.",
-      "rationale": "New open-weights small model with bounding-box layout control and quantized weights for consumer GPUs, so designers can run layout-controlled image generation locally."
+      "published_iso": "2026-10-15T16:00:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1QYTAAT1hR7NJAVlhZa4Ka/b14334abbd76f130064ec6ec70827fae/og_02_26.png",
+      "excerpt": "Vercel's Ship recap includes SAP rebuilding its design system to be composable so that people and agents assemble interfaces from the same parts with v0 and json-render, ZoomInfo embedding v0 for 40,000+ customers, and Notion's Ivan Zhao telling designers to 'design the API first and the UI last'.",
+      "rationale": "Concrete design-system case (SAP rebuilt for agent assembly via v0 and json-render) from a fresh event, not yet covered."
     },
     {
       "rank": 5,
-      "title": "Hesai launches 3D data engine for physical AI",
-      "url": "https://www.engineering.com/hesai-launches-3d-data-engine-for-physical-ai/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-10-15T11:23:06Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/1-2.jpg",
-      "excerpt": "Hesai's Kosmo combines lidar scanning with cloud reconstruction to turn real spaces into robot-training 3D environments; a store deployment hit a 99% task success rate.",
-      "rationale": "New product launch: lidar-to-simulation 3D reconstruction pipeline, relevant to spatial and industrial designers building environments for physical AI."
-    }
-  ],
-  "alternates": [
-    {
-      "title": "Design together with code layers on the canvas",
-      "url": "https://www.figma.com/blog/design-together-with-code-layers/",
-      "source": "Figma",
-      "category": "figma",
-      "published_iso": "2026-10-15T04:52:00Z",
-      "rationale": "Same Config India launch drop as Specs (same source, same event); held back under the content-hub rule. First swap-in if Specs is pulled."
-    },
-    {
-      "title": "Taste is not a design methodology",
-      "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148",
+      "title": "Human in the loop means making sure the human is not out of the loop",
+      "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-10-13T22:27:46Z",
-      "rationale": "Essay, no event; distinct argument from the 09-23 Fast Company taste piece but lower novelty."
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-10-15T22:09:29Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+      "excerpt": "Agents now act before we ask and reach past what we authorized. Patrick Neeman argues that a person in the loop is not enough if nobody owns the outcome, and lists what designers should consider when designing agent experiences.",
+      "rationale": "Practical checklist for designing agent experiences around outcome ownership; the strongest of the essay pool and fills the workflow slot."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.figma.com/blog/introducing-figma-specs/": {
+      "https://www.figma.com/blog/design-together-with-code-layers/": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
+        "nearest": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
         "new_action": ""
       },
-      "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps": {
+      "https://www.krea.ai/blog/introducing-krea-3": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+        "nearest": "https://dev.to/aloow/two-images-two-jobs-designing-inputs-for-ai-product-photos-768",
         "new_action": ""
       },
-      "https://lovable.dev/blog/ai-models-and-tools-in-lovable": {
+      "https://cursor.com/changelog/cloud-agent-canvases-and-environments": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
         "new_action": ""
       },
-      "https://huggingface.co/blog/flux-3": {
-        "verdict": "follow-up",
-        "nearest": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
-        "new_action": "New model release: the open-weights FLUX.3 Image Klein small model (with FP8/NVFP4 weights and bounding-box layout control) shipped with day-one Diffusers support. The 10-03 card covered the FLUX.3 Image launch, not Klein."
-      },
-      "https://www.engineering.com/hesai-launches-3d-data-engine-for-physical-ai/": {
+      "https://vercel.com/blog/vercel-ship-2026-recap": {
         "verdict": "new",
-        "nearest": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
+        "nearest": "https://vercel.com/blog/state-of-agent-skills",
+        "new_action": ""
+      },
+      "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630": {
+        "verdict": "new",
+        "nearest": "https://dev.to/ifynx_studio/usertestings-mcp-servers-ai-product-teams-need-human-insight-inside-the-loop-1fmc",
         "new_action": ""
       }
     },
-    "note": "Dropped as already-published or same story: Engadget 'Adobe rebuilt Photoshop and Premiere for RTX Spark' and Creative Bloq 'I ran Blender via RTX Spark AI agent' (cluster c6). Both cover the RTX Spark creative-app launch already published 10-14 (NVIDIA 'All Systems Go: Global PC App Ecosystem Ready for RTX Spark'). Adobe's re-architecture is part of that ecosystem launch and the Blender piece is a hands-on, so neither is a new release. Creative Boom 'AI cloned Adobe's apps... Napster moment' is commentary on the 10-09 Creative Bloq Adobe-clones story, so it is the same story. Within-pool: dev.to 'Spec-driven development: the rise of Markdown' shares cluster c2 with Figma Specs, so I kept Specs. Figma 'Build by Design' roundup, 'code layers' and the Config India keynote YouTube video are the same Config India launch hub as Specs, so I kept only Specs and listed code layers as an alternate. Skipped on scoring/scope: Vercel MAI-Image-2.6 gateway listing (thin changelog), Dragon Quest 30-min AI game and Epic Disney AI game (games territory, both commentary), dev.to tattoo/storefront build logs (low credibility and novelty), and three UX Collective essays (no event). Diversity: 5 distinct outlets (Figma, The Verge, Lovable, Hugging Face, Engineering.com). Categories: figma x2 (the second gets palette accent #3b6bff), workflow, tokens, cad. Cross-section: the Bluesky Attie story was assigned to design by the orchestrator. Lovable and FLUX.3 Klein should be checked against other sections' picks before roll. Hugging Face and lovable.dev are not on the allowed_domains lists, but both are primary-source release posts."
+    "note": "Dropped: Figma 'Build by design' Config India recap (rehashes code layers + Specs; Specs already published 2026-10-16). Figma YouTube 'Getting started with Code Layers' (cluster c1, same story as the code layers blog pick). Matt Wolfe roundup (leads with Krea 3, same story as pick). Creative Bloq RTX Spark/Blender and The Verge RTX Spark week (cluster c5, follow-ups to the 2026-10-14 NVIDIA RTX Spark story, hardware angle; orchestrator said avoid). Meta/Brera AI-glasses item (assigned to gadgets per cross-section note). Muse Spark Open HF + Verge (cluster c9; general model release, low design relevance; distinct from 2026-09-27 Muse Charm but not chosen). Lower-scored essays (Creative Bloq AI slop rename, Smashing AI adoption, UX Collective org chart / Nobody wants your AI app) and AWN AstraLabs (film production pipeline, closer to movies) not selected. All picks checked against 30-day history_digest: none repeat a published story. Outlets: Figma, Krea, Cursor, Vercel, UX Collective (5 distinct); categories figma x2 (second given palette accent #3b6bff), render, tokens, workflow."
   }
 }

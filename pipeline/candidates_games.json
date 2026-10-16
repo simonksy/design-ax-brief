@@ -1,142 +1,134 @@
 {
-  "section": "games",
-  "now_iso": "2026-10-15T22:00:32Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Decomp.dev shuts down: 'The community aspect of decompilation has been broken' by low-effort AI slop",
-      "url": "https://www.gamesradar.com/games/the-community-aspect-of-decompilation-has-been-broken-by-a-wave-of-low-effort-ai-slop-and-now-a-major-community-tool-is-shutting-down/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-15T21:06:24Z",
-      "excerpt": "Developer Luke 'encounter' Street is closing decomp.dev, the site that tracked human-driven decompilations of classic games, citing the flood of low-effort AI decomps and ports.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1920-80.jpg"
-    },
-    {
-      "title": "Decomp.dev, a Massive Decompilation Community, Is Shutting Down After the Deluge of AI Game Decomps and Ports",
-      "url": "https://www.ign.com/articles/a-massive-decompilation-community-is-shutting-down-thanks-to-the-deluge-of-ai-decomps-and-ports",
-      "source": "IGN",
-      "category": "games",
-      "published_iso": "2026-10-15T17:58:12.461Z",
-      "excerpt": "A month-long wave of people using AI to rapidly decompile, port and remix games has forced a major decompilation community, decomp.dev, to sunset.",
-      "og_image": "https://assets1.ignimgs.com/2021/03/01/halo-cortana-1614607712316.jpg?width=1280&format=jpg&auto=webp&quality=80"
-    },
-    {
-      "title": "Sega's Total War: Shogun 2 Remake Is Such A Disaster It's Being Pulled From Sale",
-      "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-10-15T13:59:17+00:00",
-      "excerpt": "Sega and Creative Assembly pulled the AI-upscaled Total War: Shogun 2 Complete Edition from sale two days after launch following backlash over AI art and bugs, and restored the original 2011 version.",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/shogun-2-1200x675.jpg"
-    },
-    {
-      "title": "이틀 만에 퇴각…'토탈 워: 쇼군2' 컴플리트 에디션 판매 중단",
-      "url": "https://www.inven.co.kr/webzine/news/?news=322180",
-      "source": "인벤",
-      "category": "games",
-      "published_iso": "2026-10-16T01:58:44+09:00",
-      "excerpt": "세가는 13일 출시한 '토탈 워: 쇼군2 - 컴플리트 에디션'을 버그와 AI 업스케일 아트 품질 논란으로 출시 이틀 만에 판매 중단하고 기존 2011년판 판매를 재개했다. 환불 기간 연장을 협의 중이다.",
-      "og_image": "https://static.inven.co.kr/column/2026/10/16/news/i1425933401.jpg"
-    },
-    {
-      "title": "Battlefield 6 Gets Slammed For More Slop Slipping Through: 'Charging Players $$$ For AI-Generated Content Is Peak Disrespect'",
-      "url": "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-10-15T21:40:48+00:00",
-      "excerpt": "Paid Battlefield 6 operator cosmetics with five-fingered-gun artifacts and misspelled patches have players accusing EA of selling AI-generated content.",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
-    },
-    {
-      "title": "Accused of using AI in World of Warcraft: Forever videos, Blizzard employee says 'hell nah' - we have 'real team members'",
-      "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-15T15:48:45Z",
-      "excerpt": "Blizzard's digital marketing manager says the studio does not use generative AI in any WoW: Forever social content after fans accused its ad videos of being AI-made.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg"
-    },
-    {
-      "title": "After 8 years, Ultima creator says his MMO Shroud of the Avatar finally has 'zero bugs' thanks to AI",
-      "url": "https://www.gamesradar.com/games/rpg/after-8-years-ultima-creator-says-his-mmo-shroud-of-the-avatar-finally-has-zero-bugs-thanks-to-ai/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-13T23:30:39Z",
-      "excerpt": "Richard Garriott says AI bug-fixing cleared Shroud of the Avatar's backlog and that 'we need fewer people and less time to make it' because of AI.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB-1280-80.jpg"
-    },
-    {
-      "title": "Bluesky's AI tool now lets you make games and apps to share on social",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "source": "The Verge",
-      "category": "games",
-      "published_iso": "2026-10-15T19:57:16+00:00",
-      "excerpt": "Bluesky's Attie tool now generates small games and apps from prompts that can be shared on the social network; the CEO calls it 'vibe coding for your community.'",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&crop=0%2C10.814080979907%2C100%2C78.371838040185&w=1200"
-    },
-    {
-      "title": "Interview: The Video Game Industry's Vibe-Coded Future",
-      "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-10-15T16:30:35+00:00",
-      "excerpt": "Kotaku talks to Take-Two's former head of AI and Godot Engine's executive director about the 'Claude Opus-shaped problem' the game industry now faces.",
-      "og_image": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
-    },
-    {
-      "title": "복원·패치·이식까지, AI 이용한 '게임 역분석' 주목",
-      "url": "https://www.gamemeca.com/view.php?gid=1781785",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-10-14T18:43:59+09:00",
-      "excerpt": "AI 코딩 에이전트 발전으로 고전 게임 네이티브 포팅, 피처폰 명작 복원, 유저 번역 등에 AI 역분석이 확산되고 있지만 저작권·불법 복제 우려도 커지고 있다.",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/785/gm813897_ai.webp"
-    },
-    {
-      "title": "A First Look at Unreal MCP in Unreal Engine 5.8",
-      "url": "https://www.youtube.com/watch?v=FON_noub0C0",
-      "source": "Unreal Engine",
-      "category": "games",
-      "published_iso": "2026-10-08T08:59:32-07:00",
-      "excerpt": "Epic's official first look at Unreal Model Context Protocol, an Epic-supported way to connect agentic LLM tools directly to the Unreal Editor so agents can act on projects.",
-      "og_image": "https://i.ytimg.com/vi/FON_noub0C0/maxresdefault.jpg"
-    },
-    {
-      "title": "[AGF 26] 서브컬처 행사 영상을 AI로? 팬덤 불만 폭발",
-      "url": "https://www.gamemeca.com/view.php?gid=1781551",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-10-08T15:08:26+09:00",
-      "excerpt": "국내 최대 서브컬처 행사 AGF가 올해 티저 영상을 생성형 AI로 만들어 AI에 반감이 큰 팬덤의 반발을 샀다.",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/551/gm443621_261008-risell-tt7.webp"
-    },
-    {
-      "title": "[순정남] 진짜 같네! AI로 만든 '전세계 GTA' 영상 TOP 5",
-      "url": "https://www.gamemeca.com/view.php?gid=1781813",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-10-15T11:17:36+09:00",
-      "excerpt": "GTA 6 출시를 앞두고 서울·도쿄 등 각국을 배경으로 AI 영상 생성으로 만든 가짜 인게임 패러디 영상이 유행하고 있다.",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/813/gm634632_fadf.webp"
-    },
-    {
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark (ACE Nemotron 3.5 Bolt SLM in SkyrimNET, RTX Remix ComfyUI v2)",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-      "source": "NVIDIA Blog",
-      "category": "games",
-      "published_iso": "2026-10-13T12:00:49+00:00",
-      "excerpt": "NVIDIA's third-gen ACE game-character SLM, Nemotron 3.5 Bolt E4B 4GB, arrives Oct. 23 inside SkyrimNET's unscripted AI NPC mod, and RTX Remix 1.6 overhauls AI texture generation with ComfyUI v2.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg"
-    },
-    {
-      "title": "Total War: Shogun 2's 'Enhanced' Version Removes Original, Is Buggy, Kneecaps Mod Support And Has Dogshit AI Art",
-      "url": "https://aftermath.site/total-war-shogun-2-ai-art-mods-buggy/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-10-14T21:12:08.000Z",
-      "excerpt": "Aftermath details how Shogun 2's Complete Edition replaced the original with AI-upscaled art, broke mod support and shipped buggy, the backlash that preceded Sega pulling it from sale.",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/Untitled-1.jpg"
-    }
-  ]
+ "section": "games",
+ "generated_at": "2026-10-16T22:00:37Z",
+ "now_iso": "2026-10-16T22:00:37Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Anime Gambling Horror Game Ditches Free Steam Demo So It Doesn't Get Ripped Off By AI",
+   "url": "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
+   "source": "Kotaku",
+   "category": "games",
+   "published_iso": "2026-10-16T18:30:00+00:00",
+   "excerpt": "The developers of Drunken Goddess Reflux cancelled their free Steam demo for a closed beta, fearing genAI copycats would clone the game before launch.",
+   "og_image": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+  },
+  {
+   "title": "Masahiro Sakurai says original games will be harder for AI to rip off, but originality also makes them harder to sell",
+   "url": "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/",
+   "source": "GamesRadar+",
+   "category": "games",
+   "published_iso": "2026-10-16T16:34:21Z",
+   "excerpt": "Smash Bros and Kirby creator Masahiro Sakurai argues AI has made existing design problems worse, and that originality is the defense against AI clones even if it hurts marketability.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+  },
+  {
+   "title": "\"Our industry is rotting\" and AI \"pushed things over the edge,\" so the DayZ creator wants to change how games are made",
+   "url": "https://www.gamesradar.com/games/our-industry-is-rotting-and-ai-pushed-things-over-the-edge-so-the-creator-of-dayz-wants-to-change-how-games-are-made-with-some-of-the-smartest-devs-in-the-industry/",
+   "source": "GamesRadar+",
+   "category": "games",
+   "published_iso": "2026-10-16T20:30:33Z",
+   "excerpt": "Dean Hall says AI pushed the industry over the edge and launches BRUTAL, a free open-source development framework, with the Kerbal Space Program creator on board.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+  },
+  {
+   "title": "Dragon Ball's Goku Voice Actor 'Furious' Over AI Videos Using Her Voice Without Permission",
+   "url": "https://www.ign.com/articles/dragon-balls-goku-voice-actor-furious-over-ai-videos-using-her-voice-without-permission",
+   "source": "IGN",
+   "category": "games",
+   "published_iso": "2026-10-16T20:04:43.912Z",
+   "excerpt": "Masako Nozawa, voice of Goku, condemns AI users cloning her voice without permission, calling it outright theft, as voice-cloning pressure on actors grows.",
+   "og_image": "https://assets-prd.ignimgs.com/2026/01/21/dbz-1540843981541-1768988406087.png?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+   "title": "Nvidia App Update Will Let AI Agents Tune Your Graphics Card, but Some Users are Warning to Turn It Off",
+   "url": "https://www.ign.com/articles/nvidia-app-update-adds-support-for-agent-control-but-some-users-are-warning-to-turn-it-off",
+   "source": "IGN",
+   "category": "games",
+   "published_iso": "2026-10-16T17:56:32.594Z",
+   "excerpt": "Following the RTX Spark launch, the Nvidia app adds a toggle letting AI agents control GPU settings, prompting user warnings about handing agents that access.",
+   "og_image": "https://assets-prd.ignimgs.com/2024/11/22/best-nvidia-black-friday-deals-laptops-uk-2024-1732273493347.png?width=1280&format=jpg&auto=webp&quality=80"
+  },
+  {
+   "title": "Konami Does 'Not Believe The Market Will Shift Significantly' Because Of AI",
+   "url": "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506",
+   "source": "Kotaku",
+   "category": "games",
+   "published_iso": "2026-10-16T14:30:23+00:00",
+   "excerpt": "In a new financial report, the Silent Hill and Metal Gear publisher says developers' idea-making process 'cannot be replaced easily' by AI.",
+   "og_image": "https://kotaku.com/app/uploads/2026/10/Snake-Eater-Delta-Solid-Snake-Gun.jpg"
+  },
+  {
+   "title": "Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale",
+   "url": "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
+   "source": "GamesIndustry.biz",
+   "category": "games",
+   "published_iso": "2026-10-16T08:22:20.807398+00:00",
+   "excerpt": "After overwhelmingly negative Steam reviews citing AI-upscaled artwork and performance problems, Sega pulled the Shogun 2 remaster from sale, saying it fell short of its standards.",
+   "og_image": "https://assetsio.gnwcdn.com/page_bg_raw_vCy21mE.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+   "title": "[오늘의 스팀] AI를 속여라, 협동 신작 '스캠 위드 유어 프렌즈'",
+   "url": "https://www.gamemeca.com/view.php?gid=1781919",
+   "source": "게임메카 (GameMeca)",
+   "category": "games",
+   "published_iso": "2026-10-16T18:00:59+09:00",
+   "excerpt": "생성형 AI를 상대로 사기극을 벌이는 협동 시뮬레이션 '스캠 위드 유어 프렌즈'가 스팀 앞서 해보기 출시 후 최고 인기 게임 최상위권에 올랐다. 서버 불안정과 음성 인식 오류는 과제.",
+   "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/919/gm980893_pjh261016-1.webp"
+  },
+  {
+   "title": "Wizards of the Coast union expands, protests generative AI usage",
+   "url": "https://gamesbeat.com/wizards-of-the-coast-union-expands-protests-generative-ai-usage/",
+   "source": "GamesBeat",
+   "category": "games",
+   "published_iso": "2026-10-07T18:36:02+00:00",
+   "excerpt": "Dungeons & Dragons and Magic: The Gathering teams at Wizards of the Coast are unionizing and calling on Hasbro to stop pushing generative AI.",
+   "og_image": "https://gamesbeat.com/wp-content/uploads/2025/06/wizards.jpg"
+  },
+  {
+   "title": "Capcom aims to enhance its RE Engine with AI to accelerate QA, debugging, and data processing",
+   "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+   "source": "GamesIndustry.biz",
+   "category": "games",
+   "published_iso": "2026-10-05T08:29:51.411227+00:00",
+   "excerpt": "Capcom plans to add AI to RE Engine for QA and debugging, open-source some improvements, and eventually evolve it into an 'AI-generation game engine'.",
+   "og_image": "https://assetsio.gnwcdn.com/resident-evil-requiem-trailer-reveals-bustling-city-location_89ud.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+   "title": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\"",
+   "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+   "source": "GamesIndustry.biz",
+   "category": "games",
+   "published_iso": "2026-10-06T13:50:19.330891+00:00",
+   "excerpt": "Sega executive Tsuyoshi Saito says the company is 'very cautious' with generative AI in development, keeping it away from creative work while using it for efficiency elsewhere.",
+   "og_image": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+  },
+  {
+   "title": "Interview: The Video Game Industry's Vibe-Coded Future",
+   "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
+   "source": "Kotaku",
+   "category": "games",
+   "published_iso": "2026-10-15T16:30:35+00:00",
+   "excerpt": "Take-Two's former head of AI and Godot Engine's executive director discuss the Claude Opus-shaped problem facing game development as vibe coding floods the industry.",
+   "og_image": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+  },
+  {
+   "title": "How a 3-person team is using AI to recreate Pride and Prejudice in Fortnite",
+   "url": "https://gamesbeat.com/how-a-3-person-team-is-using-ai-to-recreate-pride-and-prejudice-in-fortnite-exclusive/",
+   "source": "GamesBeat",
+   "category": "games",
+   "published_iso": "2026-10-08T12:01:00+00:00",
+   "excerpt": "A three-person team uses Fortnite and AI startup Dreamlands to turn Jane Austen's Pride and Prejudice into a stage for interactive fan fiction.",
+   "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1024x505.png"
+  },
+  {
+   "title": "Black Myth: Wukong sequel devs said no to AI because of Christopher Nolan's The Odyssey",
+   "url": "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/",
+   "source": "Destructoid",
+   "category": "games",
+   "published_iso": "2026-10-10T21:00:08+00:00",
+   "excerpt": "Game Science says it is not using AI on the Black Myth sequel, inspired by Christopher Nolan's practical filmmaking on The Odyssey.",
+   "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+  }
+ ]
 }

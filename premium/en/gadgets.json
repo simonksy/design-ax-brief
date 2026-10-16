@@ -8118,6 +8118,184 @@
           "x": "The author sees it replacing single-purpose apps loaded with ads or subscriptions, like a habit tracker, converter or timer. The big selling point: an app doesn't have to be commercially viable or needed by anyone else. It just has to work for you."
         }
       ]
+    },
+    "gadgets/gadgets-brera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+        },
+        {
+          "t": "video",
+          "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Meta, Pinacoteca di Brera and EssilorLuxottica have launched “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye,” a pilot exploring how AI glasses can make art more accessible for people who are blind or with low vision, in collaboration with ANS, UICI and the Fondazione Istituto dei Ciechi di Milano."
+        },
+        {
+          "t": "p",
+          "x": "Over one million people in Italy are blind or visually impaired. The AI glasses have been integrated with the museum’s Grande Brera app, which includes an audio tour guide developed by ANS using the DescriVedendo method, translating an artwork’s shapes, composition and visual details into spoken words."
+        },
+        {
+          "t": "p",
+          "x": "In front of one of eight selected artworks, visitors can activate artwork recognition from the glasses and hear the audio description through the open-ear speakers in the frames. Meta AI answers questions about the surroundings, and Be My Eyes connects visitors with sighted volunteers and operators."
+        },
+        {
+          "t": "p",
+          "x": "The pilot was developed through testing and consultation with blind and visually impaired people. The tour is available upon reservation, with AI glasses available Tuesday through Friday from 10:00 AM to 4:30 PM."
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxylang": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Samsung is expanding language support for Galaxy AI and Bixby, bringing these experiences to more users in their own language."
+        },
+        {
+          "t": "p",
+          "x": "Galaxy AI is expanding language support across more of its features, starting with those that translate, transcribe, and summarize. Call Assist, Note Assist, Interpreter, and Transcript Assist now include Hungarian and Malay, bringing features such as Live Translate to 24 languages."
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+          "cap": "Live Translate of a phone call in Malay-English (Image simulated for illustrative purposes. Actual UX/UI may differ.)"
+        },
+        {
+          "t": "p",
+          "x": "Elsewhere in Galaxy AI, Now Nudge, which suggests a relevant next step based on what is on screen, adds eight languages to reach 24 as well."
+        },
+        {
+          "t": "p",
+          "x": "Bixby is a device agent that offers intuitive device control through natural conversation. Users can ask for what they need in their own words, without having to know the exact name of a setting or where to find it in a menu. With the addition of Polish, Thai, and Vietnamese, Bixby now supports 12 languages, allowing more Galaxy users to control their devices more effortlessly."
+        },
+        {
+          "t": "p",
+          "x": "Bixby’s new languages will begin rolling out on October 14, with the new Galaxy AI languages to follow in the coming weeks."
+        }
+      ]
+    },
+    "gadgets/gadgets-siri": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+          "cap": "Apple CEO John Ternus and Siri app on iPhone"
+        },
+        {
+          "t": "p",
+          "x": "In a new interview with TIME, published October 15, Apple CEO John Ternus explained why the company is taking a different approach to AI. Rather than trying to build the smartest chatbot, Apple is betting on the information already sitting on your iPhone."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+          "cap": "OpenAI and Apple logos"
+        },
+        {
+          "t": "p",
+          "x": "The new Siri uses an Apple AI model that draws on Google's Gemini technology. \"We make the things where we can really bring differentiation,\" Ternus told TIME."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+          "cap": "Apple Maps on an iPhone 17"
+        },
+        {
+          "t": "p",
+          "x": "With permission, Siri can draw connections between information across supported apps and use that context to complete tasks. Apple also sees opportunities for Siri to interpret health information collected by an Apple Watch."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+          "cap": "iOS 27 Siri AI running on iPhone 17 Pro."
+        },
+        {
+          "t": "p",
+          "x": "Apple's AI product leader Lilian Rincon explained that Siri was deliberately designed not to behave like an AI companion. Siri processes requests on device when possible, with more demanding ones handled through Private Cloud Compute."
+        },
+        {
+          "t": "p",
+          "x": "The question is whether Apple can make Siri useful enough that iPhone owners stop reaching for ChatGPT in the first place."
+        }
+      ]
+    },
+    "gadgets/gadgets-myfirst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+          "cap": "myFirst series"
+        },
+        {
+          "t": "p",
+          "x": "myFirst has unveiled more details about its Insta magiCam and Insta magiBox, two children's gadgets combining generative AI with instant printing. The devices were announced this week, following an earlier appearance at IFA 2026."
+        },
+        {
+          "t": "p",
+          "x": "The Insta magiCam is a digital camera that can identify photographed subjects and answer questions about them. Children can also transform their photos into different artistic styles or describe an imaginary scene and have the camera create it. The camera features front and rear cameras, 16MP photo resolution, 1080p video recording, and a 3-inch IPS display. Its built-in thermal printer produces photographs, illustrations, coloring pages, and stickers without requiring ink cartridges."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+          "cap": "myFirst Insta magiCam"
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, the Insta magiBox takes a slightly different approach. Children describe an idea aloud, and the device generates an illustration in one of six styles, including anime, cartoon, and pencil art. It can also transform a spoken story into a four-panel comic, potentially giving parents a break from drawing the same dinosaur for the fifteenth time."
+        },
+        {
+          "t": "p",
+          "x": "The printer features a 2.8-inch display, a 1,300mAh battery, and support for 26 languages. According to myFirst, printing takes approximately 10 seconds once an image has been generated."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+          "cap": "myFirst Insta magicBox"
+        },
+        {
+          "t": "p",
+          "x": "The magiBox requires an internet connection for AI generation, although a smartphone is needed only during setup. The company also promises age-appropriate content filtering and safeguards for children's voice data, but their effectiveness remains independently unverified."
+        },
+        {
+          "t": "p",
+          "x": "Both devices are listed as coming soon, with final pricing and wider availability yet to be confirmed."
+        }
+      ]
+    },
+    "gadgets/gadgets-bee": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+          "cap": "Image Credits: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "Amazon’s personal AI wearable maker, Bee, is announcing its first new products since being acquired by the retail giant last year: the Bee Frontier, which can be worn on the wrist or pinned to clothes, and Bee Eclipse, a credit-card-sized device that magnetically attaches to the back of your smartphone."
+        },
+        {
+          "t": "p",
+          "x": "The Bee Frontier is $74.99 and the Bee Eclipse is $99.99 — cheaper than the $159 Plaud Note or the $129 Pocket."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+          "cap": "Image Credits: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "Like the original Bee, the devices use AI to take notes from everyday conversations and turn them into to-dos, summaries, and insights — for example, creating a calendar invite for plans you made with friends."
+        },
+        {
+          "t": "p",
+          "x": "Summaries and 14 days of memory are free; an $11.99 per month Bee Pro subscription adds unlimited summaries and integrations with Amazon.com, Alexa+, and third-party apps."
+        },
+        {
+          "t": "p",
+          "x": "Raw audio isn’t stored: it is processed in real time and deleted, and transcripts are encrypted with keys the device controls. The Frontier is available now on Amazon; the Eclipse follows soon after."
+        }
+      ]
     }
   }
 }

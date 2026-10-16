@@ -1,11 +1,25 @@
 {
-  "date": "2026-10-16",
-  "section": "books",
-  "media": [
-    {"id": "books-anthropic-hankang", "type": "image", "src": "pipeline/media/books-anthropic-hankang.jpg"},
-    {"id": "books-currentaffairs-ai-ban", "type": "image", "src": "pipeline/media/books-currentaffairs-ai-ban.png"},
-    {"id": "books-agentic-consumption", "type": "image", "src": "pipeline/media/books-agentic-consumption.png"},
-    {"id": "books-mentat-discovery", "type": "svg"},
-    {"id": "books-ewc-not-a-tool", "type": "image", "src": "pipeline/media/books-ewc-not-a-tool.jpg"}
-  ]
+ "date": "2026-10-17",
+ "section": "books",
+ "media": [
+  {
+   "id": "books-authors-guild-ai",
+   "type": "image",
+   "src": "pipeline/media/books-authors-guild-ai.jpg"
+  },
+  {
+   "id": "books-play-books-gemini",
+   "type": "image",
+   "src": "pipeline/media/books-play-books-gemini.jpg"
+  },
+  {
+   "id": "books-ddalkkak-ai-books",
+   "type": "image",
+   "src": "pipeline/media/books-ddalkkak-ai-books.jpg"
+  },
+  {
+   "id": "books-kpa-ai-compensation",
+   "type": "svg"
+  }
+ ]
 }

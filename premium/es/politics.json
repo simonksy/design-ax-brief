@@ -2593,6 +2593,150 @@
           "x": "Los estados piden a los tribunales que impongan sanciones civiles y que impidan que OpenAI siga engañando al público sobre la seguridad de ChatGPT; algunos también solicitan la eliminación de datos personales recopilados ilegalmente."
         }
       ]
+    },
+    "politics/politics-china-open-weight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
+        },
+        {
+          "t": "p",
+          "x": "Los nuevos modelos de pesos abiertos de empresas estadounidenses y europeas buscan atraer a los usuarios de modelos abiertos chinos preocupados por la seguridad, pero se quedan por detrás de los dominantes sistemas chinos en rendimiento pese a contar con más recursos, según dijeron expertos en un evento de Rest of World en San Francisco."
+        },
+        {
+          "t": "p",
+          "x": "Para empresas y gobiernos de países de bajos ingresos, el coste es el factor principal, dijo Daniel Björkegren, profesor adjunto de Columbia University. “En el contexto de bajos ingresos, preocupa mucho depender de U.S. para la inteligencia de frontera”, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "La clasificación de OpenRouter tuvo la semana pasada cuatro modelos chinos entre sus cinco primeros, y LiveBench mostró que los mejores modelos chinos quedaban solo un 3% por detrás de sus rivales de U.S. en puntuaciones de referencia."
+        },
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+          "cap": "Kristy Loke (izquierda) y Daniel Björkegren en el evento de Rest of World en San Francisco."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos abiertos permiten a China sortear algunas inquietudes sobre su presencia en mercados extranjeros, dijo Kristy Loke, investigadora de MATS. “Es bueno para el poder blando. También es bueno a nivel interno”, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "Las restricciones comerciales a los chips obligaron a las empresas chinas a crear modelos más eficientes, dijo Graham Webster, del DigiChina Project de Stanford. “Si necesitas una capacidad relativamente de frontera, ahora mismo solo existen los modelos abiertos chinos”."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, las empresas chinas afrontan límites de cómputo y la cuestión de cómo ganar dinero. “En las condiciones actuales solo se pueden comprar tantos chips”, dijo Webster. “Puede que se topen con un muro”. La monetización preocupa a todas las empresas chinas de AI, dijo Loke."
+        }
+      ]
+    },
+    "politics/politics-eu-raise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En la European AI in Science Summit de Dublín, la Comisión Europea lanzó la iniciativa de compromisos RAISE (Resource for AI Science in Europe) para AI in Science Enablers. Su objetivo es movilizar apoyo del sector privado y filantrópico para los investigadores europeos que trabajan entre la inteligencia artificial y la ciencia, más allá de lo que puede aportar la financiación pública por sí sola."
+        },
+        {
+          "t": "p",
+          "x": "Parte de la AI in Science Strategy, reúne contribuciones en especie como acceso a modelos de AI de frontera, capacidad de computación, licencias de software de investigación, datos y formación. Los primeros compromisos proceden de la Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral y Google DeepMind."
+        },
+        {
+          "t": "p",
+          "x": "Dentro de la iniciativa, Mistral AI y el CERN pusieron en marcha una alianza para desarrollar el que será el mayor modelo fundacional de la física. Los compromisos deben demostrar un apoyo sostenido a la AI en la ciencia más allá de intereses comerciales directos, y la iniciativa se revisará cada año."
+        },
+        {
+          "t": "p",
+          "x": "La Comisión también presentó unas Living Guidelines actualizadas sobre el uso responsable de la AI generativa en la investigación, que incluyen la AI agéntica, y lanzó el RAISE Hub, el Forum y el Observatory."
+        }
+      ]
+    },
+    "politics/politics-eu-ai-act-pressure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DUBLIN — Altos directivos de Microsoft y Google han cuestionado abiertamente si la Ley de Inteligencia Artificial de 2024 de la EU (Artificial Intelligence Act) sigue siendo adecuada, tras un verano de incidentes con agentes de AI fuera de control."
+        },
+        {
+          "t": "p",
+          "x": "El presidente de Microsoft, Brad Smith, dijo a Decoded by POLITICO que los responsables europeos deberían reconsiderar la vigencia de las normas actuales. “Si legislas para algo de hace tres años, hoy estaría desfasado”, dijo en el escenario Demis Hassabis, cofundador de Google DeepMind, sin referirse a la AI Act."
+        },
+        {
+          "t": "p",
+          "x": "Los responsables de la Comisión insisten en que la ley es lo bastante sólida. La jefa de tecnología de la EU, Henna Virkkunen, dijo que está “bien equipada” para afrontar los agentes de AI. “Por ahora estamos satisfechos”, dijo el comisario de Justicia, Michael McGrath."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+          "cap": "Algunos gobiernos de la EU han concluido que la AI Act tiene lagunas. | Michele Spatari/NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Algunos gobiernos de la EU ven lagunas. Un documento húngaro al que ha tenido acceso POLITICO señala que la ley se aplica sobre todo una vez que un modelo sale al mercado: “Los incidentes de 2026 ocurrieron antes de ese momento”. El enviado checo para la AI, Lukáš Kačena, dijo: “La AI Act nunca será suficiente”."
+        }
+      ]
+    },
+    "politics/politics-brookings-ai-evals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+        },
+        {
+          "t": "p",
+          "x": "Esta guía informativa de contexto se distribuyó entre los participantes antes del diálogo del Forum for Cooperation on AI (FCAI) del 15 de septiembre de 2026. Gobiernos y organizaciones están desarrollando a la vez su capacidad de evaluación de AI, y los acontecimientos recientes han dado nueva urgencia a ese trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Los evaluadores difieren en su independencia respecto de los desarrolladores: las evaluaciones de primera parte se hacen internamente, los evaluadores de segunda parte tienen una relación contractual y los de tercera parte no tienen ninguna."
+        },
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+          "cap": "Figure A"
+        },
+        {
+          "t": "p",
+          "x": "En U.S., CAISI realiza pruebas de seguridad nacional de modelos de frontera y en mayo firmó acuerdos de evaluación previa al despliegue con Google DeepMind, Microsoft y xAI. Las obligaciones de evaluación de la EU AI Act figuran principalmente en el artículo 55. El U.K. AI Security Institute desarrolló Inspect, un marco de código abierto para evaluaciones reproducibles, mientras que Japón, Singapur, Canadá y Australia gestionan sus propios institutos de seguridad de AI."
+        },
+        {
+          "t": "p",
+          "x": "“Ninguna evaluación puede dar la imagen completa”, señala el informe; las evaluaciones “no son instrumentos neutrales”."
+        }
+      ]
+    },
+    "politics/politics-uk-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
+          "cap": "Un votante sale de un colegio electoral en la elección parcial de Holborn and St Pancras, 8 de octubre de 2026. (Leon Neal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "La Comisión Electoral del Reino Unido está desarrollando un sistema basado en IA (AI-powered) para avisar a los candidatos de deepfakes relevantes en un plazo de tres horas desde su publicación en redes sociales, según dijo su director ejecutivo, Vijay Rangarajan, en un panel de la conferencia del Partido Conservador."
+        },
+        {
+          "t": "p",
+          "x": "Citó un video deepfake de las elecciones presidenciales de Irlanda de 2025 que mostraba falsamente la retirada de la candidata Catherine Connolly. “Si eso ocurre en las elecciones británicas, moverá una cantidad significativa de votos”, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "Sobre el piloto realizado durante las elecciones locales de mayo de 2026, dijo: “Hicimos un piloto completo y analizamos unos tres millones de publicaciones mediante una IA”. Se marcaron 147 contenidos; personas los revisaron y diez publicaciones “realmente bastante engañosas” se remitieron a empresas de redes sociales o a la policía."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque es “neutral respecto al autor”: el personal revisa las publicaciones marcadas por la IA (AI-flagged) y alerta a candidatos o partidos en un plazo de tres horas, “porque ese es más o menos el tiempo que tarda algo en hacerse viral”."
+        },
+        {
+          "t": "p",
+          "x": "Rangarajan también dijo que la Comisión cree haber detectado “sesgo algorítmico” en al menos una red social, que sufre entre 30.000 y 40.000 ciberataques al mes y que aplica leyes de 1983 o 2000 que están “muy desactualizadas”."
+        }
+      ]
     }
   }
 }

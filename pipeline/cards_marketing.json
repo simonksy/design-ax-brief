@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-meta-product-browsing",
+      "id": "marketing-meta-crawl-terms",
       "source_lang": "en",
-      "tool": "Marketing",
       "eyebrow": "AI NEWS",
-      "headline": "Meta 10월 28일부터\n기존 광고 상품 탐색 켠다",
-      "body": "Meta가 전환 3%를 근거로 Facebook·Instagram AI 탐색을 켠다.",
-      "mini_headline": "Meta, 상품 탐색 기본 적용",
-      "source": "PPC Land",
-      "url": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
+      "headline": "Meta 새 약관,\n크롤링·학습 권한 확대",
+      "body": "Meta는 10월 30일부터 고객사 사이트를 크롤링해 학습에 쓸 수 있다.",
+      "mini_headline": "Meta, 크롤링 권한 확대",
+      "tool": "Marketing",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,155 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-            "cap": "Meta는 10월 28일부터 집행 중인 광고에 상품 탐색을 켠다. 전환 3% 증가가 근거이고, 옵트아웃도 된다"
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
           },
           {
             "t": "p",
-            "x": "Meta는 2026년 10월 28일부터 Facebook과 Instagram에서 이미 집행 중인 광고에 상품 탐색 기능을 붙인다고 광고주들에게 알렸다. 그 전에 옵트아웃하지 않으면 그대로 적용된다. 사용자가 광고를 누르면 광고주 웹사이트로 곧장 넘어가지 않고 상품 정보와 맞춤 추천을 담은 앱 내 화면을 먼저 보게 된다."
+            "x": "10월 30일 시행되는 Meta의 개정 상업 약관(Commercial Terms)에 따르면 회사는 자사 제품을 쓰는 기업과 연관된 웹사이트를 크롤링하고 그 콘텐츠로 해당 제품을 학습시킬 수 있다. 광고 집행부터 Facebook 페이지 관리까지 Meta 제품을 업무에 쓰기만 하면 이 약관이 적용된다."
           },
           {
             "t": "p",
-            "x": "Meta에 따르면 2026년 8월 6–21일 약 117,700개 광고주를 상대로 한 실험에서 기업들의 전환이 평균 3% 늘었다. 다만 공지에는 전환 지표와 비교 집단, 전환당 비용의 정의가 빠져 있다."
+            "x": "Nieman Lab 보도에 따르면 법률 전문가 세 명은 이 문구를 근거로 Meta가 AI 제품 학습용으로 뉴스 사이트를 스크래핑할 수 있다는 주장이 나올 수 있다고 본다. Meta 대변인 Andy Stone은 이 요약이 틀렸다면서 이번 개정은 정확한 제품 정보를 가져오려는 것이며 \"뉴스 사이트 스크래핑에 관한 것이 아니다\"라고 말했다."
           },
           {
             "t": "p",
-            "x": "광고주는 공지에서 바로 옵트아웃하거나 광고별 Advantage+ Creative 및 Destination 설정에서 기능을 켜고 끌 수 있다. 미디어 바이어 David Herrmann은 이 기능을 크리에이티브를 다이내믹 상품 광고로 바꾸는 AI 기능이라 부르며 연말 쇼핑 시즌 직전이라는 시점을 문제 삼았다."
+            "x": "Meta의 광고 약관은 이미 학습을 포함한 용도로 광고주 웹사이트 크롤링을 허용한다. 10월 개정판은 그 범위를 광고를 사지 않는 기업까지 넓힌다. 이 조항은 Meta가 해당 페이지에 접근하려고 \"테스트 자격 증명을 생성\"하는 것도 허용한다."
+          },
+          {
+            "t": "p",
+            "x": "Meta는 콘텐츠 소유자가 여전히 robots.txt로 접근을 관리할 수 있다고 하지만 개정된 두 약관 어디에도 그런 말은 없다. 사이트 소유자는 AI 학습용 크롤러인 Meta-ExternalAgent는 막고 Meta-WebIndexer는 열어 둘 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta turns on product browsing\nin existing ads on October 28",
-          "body": "Meta will default-enable AI product browsing in running Facebook and Instagram ads, citing a 3% conversion lift.",
-          "mini_headline": "Meta defaults to product browsing",
+          "headline": "Meta's new terms widen\ncrawl and training rights",
+          "body": "From Oct 30, Meta may crawl sites tied to any business using its products and use the content for training.",
+          "mini_headline": "Meta widens crawl rights",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-                "cap": "Meta flips product browsing on in live ads October 28, citing 3% more conversions; opt-out available"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta has notified advertisers that, starting October 28, 2026, it will add product browsing to ads already running on Facebook and Instagram unless they opt out before that date. When people tap an ad, they may see an in-app experience with product info and personalized suggestions instead of going straight to the advertiser's website."
+                "x": "Meta's updated Commercial Terms, which take effect Oct. 30, give the company permission to crawl websites associated with businesses that use its products and to use that content to train those products. The terms apply to any business use of Meta's products, from running ads to managing a Facebook Page."
               },
               {
                 "t": "p",
-                "x": "Meta says businesses saw 3% more conversions on average, based on an experiment run August 6–21, 2026 across about 117,700 advertisers. The notice does not define the conversion metric, the comparison group or cost per conversion."
+                "x": "Nieman Lab reported that three legal professionals believe the language could support an argument that Meta may scrape news sites to train its AI products. Meta spokesperson Andy Stone called that summary false, saying the update is about pulling accurate product information and is \"not about scraping news sites.\""
               },
               {
                 "t": "p",
-                "x": "Advertisers can opt out via the notice or toggle the feature in each ad's Advantage+ Creative and Destination settings. Media buyer David Herrmann, who called it an AI feature that turns creatives into dynamic product ads, objected to the timing just before the holiday season."
+                "x": "Meta's ad terms already let it crawl advertisers' websites for uses that include training. The October version reaches businesses that don't buy ads. The clause also lets Meta \"create test credentials\" to reach those pages."
+              },
+              {
+                "t": "p",
+                "x": "Meta says content owners can still manage access with robots.txt, but neither updated terms mention it. Site owners can block Meta-ExternalAgent, its AI training crawler, while allowing Meta-WebIndexer."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta 10월 28일부터\n기존 광고 상품 탐색 켠다",
-          "body": "Meta가 전환 3%를 근거로 Facebook·Instagram AI 탐색을 켠다.",
-          "mini_headline": "Meta, 상품 탐색 기본 적용",
+          "headline": "Meta 새 약관,\n크롤링·학습 권한 확대",
+          "body": "Meta는 10월 30일부터 고객사 사이트를 크롤링해 학습에 쓸 수 있다.",
+          "mini_headline": "Meta, 크롤링 권한 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-                "cap": "Meta는 10월 28일부터 집행 중인 광고에 상품 탐색을 켠다. 전환 3% 증가가 근거이고, 옵트아웃도 된다"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta는 2026년 10월 28일부터 Facebook과 Instagram에서 이미 집행 중인 광고에 상품 탐색 기능을 붙인다고 광고주들에게 알렸다. 그 전에 옵트아웃하지 않으면 그대로 적용된다. 사용자가 광고를 누르면 광고주 웹사이트로 곧장 넘어가지 않고 상품 정보와 맞춤 추천을 담은 앱 내 화면을 먼저 보게 된다."
+                "x": "10월 30일 시행되는 Meta의 개정 상업 약관(Commercial Terms)에 따르면 회사는 자사 제품을 쓰는 기업과 연관된 웹사이트를 크롤링하고 그 콘텐츠로 해당 제품을 학습시킬 수 있다. 광고 집행부터 Facebook 페이지 관리까지 Meta 제품을 업무에 쓰기만 하면 이 약관이 적용된다."
               },
               {
                 "t": "p",
-                "x": "Meta에 따르면 2026년 8월 6–21일 약 117,700개 광고주를 상대로 한 실험에서 기업들의 전환이 평균 3% 늘었다. 다만 공지에는 전환 지표와 비교 집단, 전환당 비용의 정의가 빠져 있다."
+                "x": "Nieman Lab 보도에 따르면 법률 전문가 세 명은 이 문구를 근거로 Meta가 AI 제품 학습용으로 뉴스 사이트를 스크래핑할 수 있다는 주장이 나올 수 있다고 본다. Meta 대변인 Andy Stone은 이 요약이 틀렸다면서 이번 개정은 정확한 제품 정보를 가져오려는 것이며 \"뉴스 사이트 스크래핑에 관한 것이 아니다\"라고 말했다."
               },
               {
                 "t": "p",
-                "x": "광고주는 공지에서 바로 옵트아웃하거나 광고별 Advantage+ Creative 및 Destination 설정에서 기능을 켜고 끌 수 있다. 미디어 바이어 David Herrmann은 이 기능을 크리에이티브를 다이내믹 상품 광고로 바꾸는 AI 기능이라 부르며 연말 쇼핑 시즌 직전이라는 시점을 문제 삼았다."
+                "x": "Meta의 광고 약관은 이미 학습을 포함한 용도로 광고주 웹사이트 크롤링을 허용한다. 10월 개정판은 그 범위를 광고를 사지 않는 기업까지 넓힌다. 이 조항은 Meta가 해당 페이지에 접근하려고 \"테스트 자격 증명을 생성\"하는 것도 허용한다."
+              },
+              {
+                "t": "p",
+                "x": "Meta는 콘텐츠 소유자가 여전히 robots.txt로 접근을 관리할 수 있다고 하지만 개정된 두 약관 어디에도 그런 말은 없다. 사이트 소유자는 AI 학습용 크롤러인 Meta-ExternalAgent는 막고 Meta-WebIndexer는 열어 둘 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、10月28日から\n既存広告に商品閲覧機能",
-          "body": "Metaは成約3%増を挙げ、Facebook・Instagram広告でAI閲覧を既定にする。",
-          "mini_headline": "Meta、商品閲覧を既定で有効に",
+          "headline": "Meta新規約、\nクロール・学習の権利を拡大",
+          "body": "Metaは10月30日から、自社製品を使う企業のサイトをクロールし学習に利用できる。",
+          "mini_headline": "Meta、クロール権限を拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-                "cap": "Metaは10月28日、配信中の広告で商品閲覧を有効にする。コンバージョン3%増を根拠とし、オプトアウトも可能"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Metaは広告主に対し、2026年10月28日からFacebookとInstagramで配信中の広告に商品閲覧機能を追加すると通知した。それまでにオプトアウトしなければ適用される。ユーザーが広告をタップすると、広告主のウェブサイトに直接移動する代わりに、商品情報やパーソナライズされた提案を含むアプリ内画面が表示される場合がある。"
+                "x": "10月30日に発効するMetaの改定版商用規約(Commercial Terms)は、自社製品を利用する企業に関連するウェブサイトをクロールし、そのコンテンツで当該製品を学習させる権限を同社に与える。この規約は、広告の出稿からFacebookページの管理まで、Meta製品のあらゆる業務利用に適用される。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、2026年8月6–21日に約117,700の広告主を対象に実施した実験で、企業のコンバージョンは平均3%増えた。ただし通知は、コンバージョン指標、比較対象群、コンバージョン単価を定義していない。"
+                "x": "Nieman Labによると、3人の法律専門家は、この文言がMetaによるAI製品の学習目的でのニュースサイトのスクレイピングを認める主張の根拠になり得るとみている。Metaの広報担当Andy Stoneはその要約を誤りだとし、今回の改定は正確な製品情報を取得するためのもので「ニュースサイトのスクレイピングに関するものではない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "広告主は通知からオプトアウトするか、各広告のAdvantage+ CreativeとDestinationの設定で機能を切り替えられる。メディアバイヤーのDavid Herrmannは、クリエイティブをダイナミック商品広告に変えるAI機能だとしたうえで、ホリデーシーズン直前という時期に異議を唱えた。"
+                "x": "Metaの広告規約はすでに、学習を含む用途で広告主のウェブサイトをクロールすることを認めている。10月の改定版は、広告を購入しない企業にまで対象を広げる。この条項は、Metaがそれらのページにアクセスするために「テスト用の認証情報を作成」することも認めている。"
+              },
+              {
+                "t": "p",
+                "x": "Metaは、コンテンツ所有者は引き続きrobots.txtでアクセスを管理できるとしているが、改定されたどちらの規約にもその記載はない。サイト所有者は、AI学習用クローラーのMeta-ExternalAgentをブロックしつつ、Meta-WebIndexerを許可できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta 10月28日起\n为现有广告开启商品浏览",
-          "body": "Meta称转化提升3%，将为Facebook和Instagram在投广告默认开启AI浏览。",
-          "mini_headline": "Meta默认开启商品浏览",
+          "headline": "Meta新条款扩大\n抓取与训练权限",
+          "body": "自10月30日起，Meta可抓取任何使用其产品的企业相关网站并将内容用于训练。",
+          "mini_headline": "Meta扩大抓取权限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-                "cap": "Meta将于10月28日在投放中的广告里开启商品浏览，称转化提升3%；可选择退出"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta已通知广告主，自2026年10月28日起，除非在此之前选择退出，否则将为Facebook和Instagram上已在投放的广告添加商品浏览功能。用户点击广告后，可能会看到包含商品信息和个性化推荐的应用内页面，而不是直接跳转到广告主网站。"
+                "x": "Meta更新后的商业条款（Commercial Terms）将于10月30日生效，允许该公司抓取与使用其产品的企业相关的网站，并用这些内容训练相关产品。条款适用于对Meta产品的任何商业使用，从投放广告到管理Facebook主页均包括在内。"
               },
               {
                 "t": "p",
-                "x": "Meta称，根据2026年8月6–21日针对约117,700家广告主开展的实验，企业转化量平均提升3%。通知并未说明转化指标、对照组或单次转化成本的定义。"
+                "x": "据Nieman Lab报道，三位法律专业人士认为，这一措辞可能支持Meta可以抓取新闻网站来训练其AI产品的说法。Meta发言人Andy Stone称这种概括不实，表示此次更新是为了获取准确的产品信息，“并非为了抓取新闻网站”。"
               },
               {
                 "t": "p",
-                "x": "广告主可通过通知选择退出，或在每条广告的Advantage+ Creative和Destination设置中开关该功能。媒介采买David Herrmann称其为一项把创意素材变成动态商品广告的AI功能，并对临近假日季的时间点提出异议。"
+                "x": "Meta的广告条款本就允许其出于包括训练在内的用途抓取广告主网站。10月版本则将范围扩大到不购买广告的企业。该条款还允许Meta“创建测试凭证”以访问这些页面。"
+              },
+              {
+                "t": "p",
+                "x": "Meta表示，内容所有者仍可通过robots.txt管理访问权限，但两份更新后的条款都未提及这一点。网站所有者可以屏蔽其AI训练爬虫Meta-ExternalAgent，同时允许Meta-WebIndexer。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta activa el 28 de octubre la\nexploración en anuncios activos",
-          "body": "Meta activará por defecto la exploración con AI en anuncios de Facebook e Instagram y cita un 3% más de conversiones.",
-          "mini_headline": "Meta activa la exploración por defecto",
+          "headline": "Los nuevos términos de Meta\namplían rastreo y entrenamiento",
+          "body": "Desde el 30 de octubre, Meta podrá rastrear sitios de empresas que usen sus productos y entrenar con ellos.",
+          "mini_headline": "Meta amplía su derecho de rastreo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-                "cap": "Meta activa la exploración de productos en anuncios activos el 28 de octubre y cita un 3% más de conversiones; es posible excluirse"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta notificó a los anunciantes que, a partir del 28 de octubre de 2026, añadirá la exploración de productos a los anuncios que ya se publican en Facebook e Instagram, salvo que se excluyan antes de esa fecha. Al tocar un anuncio, los usuarios podrían ver una experiencia dentro de la app con información del producto y sugerencias personalizadas, en lugar de ir directamente al sitio web del anunciante."
+                "x": "Los Commercial Terms actualizados de Meta, que entran en vigor el 30 de octubre, dan a la empresa permiso para rastrear sitios web vinculados a negocios que usan sus productos y para usar ese contenido en el entrenamiento de esos productos. Los términos se aplican a cualquier uso empresarial de los productos de Meta, desde publicar anuncios hasta gestionar una página de Facebook."
               },
               {
                 "t": "p",
-                "x": "Meta afirma que las empresas registraron de media un 3% más de conversiones, según un experimento realizado del 6–21 de agosto de 2026 con unos 117,700 anunciantes. El aviso no define la métrica de conversión, el grupo de comparación ni el coste por conversión."
+                "x": "Nieman Lab informó que tres profesionales del derecho creen que la redacción podría respaldar el argumento de que Meta puede extraer contenido de sitios de noticias para entrenar sus productos de IA. El portavoz de Meta Andy Stone calificó ese resumen de falso y afirmó que la actualización busca obtener información precisa de productos y que \"no trata de extraer contenido de sitios de noticias\"."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes pueden excluirse desde el aviso o activar y desactivar la función en la configuración Advantage+ Creative y Destination de cada anuncio. El comprador de medios David Herrmann, que la describió como una función de AI que convierte las creatividades en anuncios dinámicos de producto, criticó que llegue justo antes de la temporada de fiestas."
+                "x": "Los términos publicitarios de Meta ya le permiten rastrear los sitios web de los anunciantes para usos que incluyen el entrenamiento. La versión de octubre alcanza a las empresas que no compran anuncios. La cláusula también permite a Meta \"crear credenciales de prueba\" para acceder a esas páginas."
+              },
+              {
+                "t": "p",
+                "x": "Meta afirma que los propietarios de contenido aún pueden gestionar el acceso con robots.txt, pero ninguno de los términos actualizados lo menciona. Los propietarios de sitios pueden bloquear Meta-ExternalAgent, su rastreador de entrenamiento de IA, y permitir Meta-WebIndexer."
               }
             ]
           }
@@ -175,109 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta 10월 28일부터\n기존 광고 상품 탐색 켠다",
-          "body": "Meta는 전환 3%를 들어 Facebook·Instagram AI 탐색을 켠다.",
-          "mini_headline": "Meta, 상품 탐색 기본 적용",
+          "headline": "Meta 새 약관,\n크롤링·학습 권한 확대",
+          "body": "Meta는 10월 30일부터 고객사 사이트를 크롤링해 학습에 쓸 수 있다.",
+          "mini_headline": "Meta, 크롤링 권한 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-                "cap": "Meta는 10월 28일 집행 중인 광고에 상품 탐색을 켠다. 전환 3% 증가를 근거로 들며, 옵트아웃할 수 있다"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta는 2026년 10월 28일부터 Facebook과 Instagram에서 이미 집행 중인 광고에 상품 탐색 기능을 추가한다고 광고주들에게 알렸다. 그 전에 옵트아웃하지 않으면 적용된다. 사용자가 광고를 누르면 광고주 웹사이트로 바로 이동하는 대신 상품 정보와 맞춤 추천이 담긴 앱 내 화면을 볼 수 있다."
+                "x": "10월 30일 시행되는 Meta의 개정 상업 약관(Commercial Terms)은 자사 제품을 쓰는 기업과 연관된 웹사이트를 크롤링하고, 그 콘텐츠로 해당 제품을 학습시킬 권한을 회사에 부여한다. 이 약관은 광고 집행부터 Facebook 페이지 관리까지 Meta 제품을 업무에 쓰는 모든 경우에 적용된다."
               },
               {
                 "t": "p",
-                "x": "Meta는 2026년 8월 6–21일 약 117,700개 광고주를 대상으로 한 실험에서 기업들의 전환이 평균 3% 늘었다고 밝혔다. 다만 공지는 전환 지표와 비교 집단, 전환당 비용을 정의하지 않았다."
+                "x": "Nieman Lab은 법률 전문가 세 명이 이 문구가 Meta가 AI 제품 학습을 위해 뉴스 사이트를 스크래핑할 수 있다는 주장의 근거가 될 수 있다고 본다고 보도했다. Meta 대변인 Andy Stone은 이 요약이 틀렸다며, 이번 개정은 정확한 제품 정보를 가져오기 위한 것이고 \"뉴스 사이트 스크래핑에 관한 것이 아니다\"라고 말했다."
               },
               {
                 "t": "p",
-                "x": "광고주는 공지를 통해 옵트아웃하거나, 광고별 Advantage+ Creative 및 Destination 설정에서 기능을 켜고 끌 수 있다. 미디어 바이어 David Herrmann은 이를 크리에이티브를 다이내믹 상품 광고로 바꾸는 AI 기능이라 부르며, 연말 쇼핑 시즌 직전이라는 시점에 이의를 제기했다."
+                "x": "Meta의 광고 약관은 이미 학습을 포함한 용도로 광고주 웹사이트를 크롤링할 수 있도록 허용하고 있다. 10월 개정판은 광고를 사지 않는 기업까지 범위를 넓힌다. 이 조항은 Meta가 해당 페이지에 접근하기 위해 \"테스트 자격 증명을 생성\"하는 것도 허용한다."
+              },
+              {
+                "t": "p",
+                "x": "Meta는 콘텐츠 소유자가 여전히 robots.txt로 접근을 관리할 수 있다고 하지만, 개정된 두 약관 어디에도 그런 언급은 없다. 사이트 소유자는 AI 학습용 크롤러인 Meta-ExternalAgent를 차단하면서 Meta-WebIndexer는 허용할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、10月28日から\n既存広告に商品閲覧機能",
-          "body": "Metaは成約3%増を挙げ、Facebook・Instagram広告でAI閲覧を既定にする。",
-          "mini_headline": "Meta、商品閲覧を既定で有効に",
+          "headline": "Meta新規約、\nクロール・学習の権利を拡大",
+          "body": "Metaは10月30日から、自社製品を使う企業のサイトをクロールし学習に利用できる。",
+          "mini_headline": "Meta、クロール権限を拡大",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-                "cap": "Metaは10月28日、配信中の広告で商品閲覧を有効にする。コンバージョン3%増を根拠とし、オプトアウトも可能"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Metaは広告主に対し、2026年10月28日からFacebookとInstagramで配信中の広告に商品閲覧機能を追加すると通知した。それまでにオプトアウトしなければ適用される。ユーザーが広告をタップすると、広告主のウェブサイトに直接移動する代わりに、商品情報やパーソナライズされた提案を含むアプリ内画面が表示される場合がある。"
+                "x": "10月30日に発効するMetaの改定版商用規約(Commercial Terms)は、自社製品を利用する企業に関連するウェブサイトをクロールし、そのコンテンツで当該製品を学習させる権限を同社に与える。この規約は、広告の出稿からFacebookページの管理まで、Meta製品のあらゆる業務利用に適用される。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、2026年8月6–21日に約117,700の広告主を対象に実施した実験で、企業のコンバージョンは平均3%増えた。ただし通知は、コンバージョン指標、比較対象群、コンバージョン単価を定義していない。"
+                "x": "Nieman Labによると、3人の法律専門家は、この文言がMetaによるAI製品の学習目的でのニュースサイトのスクレイピングを認める主張の根拠になり得るとみている。Metaの広報担当Andy Stoneはその要約を誤りだとし、今回の改定は正確な製品情報を取得するためのもので「ニュースサイトのスクレイピングに関するものではない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "広告主は通知からオプトアウトするか、各広告のAdvantage+ CreativeとDestinationの設定で機能を切り替えられる。メディアバイヤーのDavid Herrmannは、クリエイティブをダイナミック商品広告に変えるAI機能だとしたうえで、ホリデーシーズン直前という時期に異議を唱えた。"
+                "x": "Metaの広告規約はすでに、学習を含む用途で広告主のウェブサイトをクロールすることを認めている。10月の改定版は、広告を購入しない企業にまで対象を広げる。この条項は、Metaがそれらのページにアクセスするために「テスト用の認証情報を作成」することも認めている。"
+              },
+              {
+                "t": "p",
+                "x": "Metaは、コンテンツ所有者は引き続きrobots.txtでアクセスを管理できるとしているが、改定されたどちらの規約にもその記載はない。サイト所有者は、AI学習用クローラーのMeta-ExternalAgentをブロックしつつ、Meta-WebIndexerを許可できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta 10月28日起\n为现有广告开启商品浏览",
-          "body": "Meta称转化提升3%，将为Facebook和Instagram在投广告默认开启AI浏览。",
-          "mini_headline": "Meta默认开启商品浏览",
+          "headline": "Meta新条款扩大\n抓取与训练权限",
+          "body": "自10月30日起，Meta可抓取任何使用其产品的企业相关网站并将内容用于训练。",
+          "mini_headline": "Meta扩大抓取权限",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-                "cap": "Meta将于10月28日在投放中的广告里开启商品浏览，称转化提升3%；可选择退出"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta已通知广告主，自2026年10月28日起，除非在此之前选择退出，否则将为Facebook和Instagram上已在投放的广告添加商品浏览功能。用户点击广告后，可能会看到包含商品信息和个性化推荐的应用内页面，而不是直接跳转到广告主网站。"
+                "x": "Meta更新后的商业条款（Commercial Terms）将于10月30日生效，允许该公司抓取与使用其产品的企业相关的网站，并用这些内容训练相关产品。条款适用于对Meta产品的任何商业使用，从投放广告到管理Facebook主页均包括在内。"
               },
               {
                 "t": "p",
-                "x": "Meta称，根据2026年8月6–21日针对约117,700家广告主开展的实验，企业转化量平均提升3%。通知并未说明转化指标、对照组或单次转化成本的定义。"
+                "x": "据Nieman Lab报道，三位法律专业人士认为，这一措辞可能支持Meta可以抓取新闻网站来训练其AI产品的说法。Meta发言人Andy Stone称这种概括不实，表示此次更新是为了获取准确的产品信息，“并非为了抓取新闻网站”。"
               },
               {
                 "t": "p",
-                "x": "广告主可通过通知选择退出，或在每条广告的Advantage+ Creative和Destination设置中开关该功能。媒介采买David Herrmann称其为一项把创意素材变成动态商品广告的AI功能，并对临近假日季的时间点提出异议。"
+                "x": "Meta的广告条款本就允许其出于包括训练在内的用途抓取广告主网站。10月版本则将范围扩大到不购买广告的企业。该条款还允许Meta“创建测试凭证”以访问这些页面。"
+              },
+              {
+                "t": "p",
+                "x": "Meta表示，内容所有者仍可通过robots.txt管理访问权限，但两份更新后的条款都未提及这一点。网站所有者可以屏蔽其AI训练爬虫Meta-ExternalAgent，同时允许Meta-WebIndexer。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta activa el 28 de octubre la\nexploración en anuncios activos",
-          "body": "Meta activará por defecto la exploración con AI en anuncios de Facebook e Instagram y cita un 3% más de conversiones.",
-          "mini_headline": "Meta activa la exploración por defecto",
+          "headline": "Los nuevos términos de Meta\namplían rastreo y entrenamiento",
+          "body": "Desde el 30 de octubre, Meta podrá rastrear sitios de empresas que usen sus productos y entrenar con ellos.",
+          "mini_headline": "Meta amplía su derecho de rastreo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
-                "cap": "Meta activa la exploración de productos en anuncios activos el 28 de octubre y cita un 3% más de conversiones; es posible excluirse"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta notificó a los anunciantes que, a partir del 28 de octubre de 2026, añadirá la exploración de productos a los anuncios que ya se publican en Facebook e Instagram, salvo que se excluyan antes de esa fecha. Al tocar un anuncio, los usuarios podrían ver una experiencia dentro de la app con información del producto y sugerencias personalizadas, en lugar de ir directamente al sitio web del anunciante."
+                "x": "Los Commercial Terms actualizados de Meta, que entran en vigor el 30 de octubre, dan a la empresa permiso para rastrear sitios web vinculados a negocios que usan sus productos y para usar ese contenido en el entrenamiento de esos productos. Los términos se aplican a cualquier uso empresarial de los productos de Meta, desde publicar anuncios hasta gestionar una página de Facebook."
               },
               {
                 "t": "p",
-                "x": "Meta afirma que las empresas registraron de media un 3% más de conversiones, según un experimento realizado del 6–21 de agosto de 2026 con unos 117,700 anunciantes. El aviso no define la métrica de conversión, el grupo de comparación ni el coste por conversión."
+                "x": "Nieman Lab informó que tres profesionales del derecho creen que la redacción podría respaldar el argumento de que Meta puede extraer contenido de sitios de noticias para entrenar sus productos de IA. El portavoz de Meta Andy Stone calificó ese resumen de falso y afirmó que la actualización busca obtener información precisa de productos y que \"no trata de extraer contenido de sitios de noticias\"."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes pueden excluirse desde el aviso o activar y desactivar la función en la configuración Advantage+ Creative y Destination de cada anuncio. El comprador de medios David Herrmann, que la describió como una función de AI que convierte las creatividades en anuncios dinámicos de producto, criticó que llegue justo antes de la temporada de fiestas."
+                "x": "Los términos publicitarios de Meta ya le permiten rastrear los sitios web de los anunciantes para usos que incluyen el entrenamiento. La versión de octubre alcanza a las empresas que no compran anuncios. La cláusula también permite a Meta \"crear credenciales de prueba\" para acceder a esas páginas."
+              },
+              {
+                "t": "p",
+                "x": "Meta afirma que los propietarios de contenido aún pueden gestionar el acceso con robots.txt, pero ninguno de los términos actualizados lo menciona. Los propietarios de sitios pueden bloquear Meta-ExternalAgent, su rastreador de entrenamiento de IA, y permitir Meta-WebIndexer."
               }
             ]
           }
@@ -285,165 +315,213 @@
       }
     },
     {
-      "id": "marketing-google-universal-cart",
+      "id": "marketing-google-ai-mode-ads",
       "source_lang": "en",
-      "tool": "Marketing",
       "eyebrow": "AI NEWS",
-      "headline": "Universal Cart\nGoogle이 US에 출시",
-      "body": "Google Universal Cart가 U.S. Search·Gemini에 왔다.",
-      "mini_headline": "Google Universal Cart, US 출시",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "headline": "Google AI 모드에\n개인 맞춤 광고 시험",
+      "body": "Google이 AI 모드에서 연결 앱 맞춤 광고를 시험하며 무광고 방침을 접었다.",
+      "mini_headline": "개인화 AI 모드에도 광고",
+      "tool": "Marketing",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "xMDZus5hxYI"
+            "t": "img",
+            "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
           },
           {
             "t": "p",
-            "x": "Google은 Search와 Gemini 앱에서 찾은 상품을 한데 모아 지켜보는 도구 Universal Cart를 이제 U.S. 사용자에게 내놓는다고 밝혔다. 5월 Google I/O에서 처음 공개한 기능이다."
+            "x": "Google이 Personal Intelligence로 앱을 연결한 사용자에게 검색(Search)의 AI 모드(AI Mode)에서 광고를 시험하기 시작했다. 그동안 광고 없이 운영해 온 방침을 뒤집은 셈이다."
           },
           {
             "t": "p",
-            "x": "장바구니에는 여러 소매업체의 상품을 함께 담을 수 있다. 저장한 상품의 가격이 내려가거나 품절 상품이 다시 들어오면 알림이 온다. 신용카드 혜택을 반영하고 관련 프로모션 코드도 보여준다는 게 Google의 설명이다."
+            "x": "이번 업데이트로 Google은 AI-powered 응답을 만들 때 이미 쓰던 정보에 더해 연결된 앱에서 얻은 인사이트까지 광고 개인화에 쓴다. 광고에는 여전히 사용자의 검색어와 AI-generated 응답의 맥락, 관심사가 반영된다."
+          },
+          {
+            "t": "img",
+            "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
           },
           {
             "t": "p",
-            "x": "결제는 Google의 Universal Commerce Protocol(UCP)과 이어진다. UCP는 AI 에이전트와 소매업체가 쇼핑 전 과정에서 함께 움직이도록 만든 개방형 표준이다. Amazon, OpenAI 등 경쟁사들도 에이전트 커머스 기능을 더했다."
+            "x": "Google은 보호 장치는 그대로라고 밝혔다. 앱 연결은 사용자가 직접 골라야 한다. 광고는 Gmail이나 Google Photos의 콘텐츠를 직접 기반으로 하지 않는다. 광고주는 연결된 앱에 접근할 수 없고 민감한 정보는 광고 개인화에 쓰지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "이번 테스트에 맞춰 Google이 새로 발표한 광고주 제어 기능이나 타기팅 옵션, 확대 출시 계획은 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google's Universal Cart\nlaunches in the US",
-          "body": "Google's Universal Cart now saves items from multiple retailers in U.S. Search and Gemini, with price-drop alerts.",
-          "mini_headline": "Google Universal Cart hits US",
+          "headline": "Google tests ads in AI Mode\nfor Personal Intelligence",
+          "body": "Google is testing AI Mode ads personalized with connected-app insights, reversing its earlier ad-free approach.",
+          "mini_headline": "Ads come to personal AI Mode",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "xMDZus5hxYI"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
               },
               {
                 "t": "p",
-                "x": "Google said Universal Cart, a tool that lets users collect and monitor products they find across Search and in the Gemini app, is now available to U.S. users. It was first previewed at Google I/O in May."
+                "x": "Google is starting to test ads in AI Mode in Search for users who connect their apps through Personal Intelligence, reversing its earlier ad-free approach to the experience."
               },
               {
                 "t": "p",
-                "x": "The cart can collect items from multiple retailers and send notifications when a saved product's price drops or an out-of-stock item is back. Google says it can also factor in credit card perks and surface relevant promo codes."
+                "x": "The update means Google may now use insights from connected apps to help personalize ads, alongside the information already used to generate AI-powered responses. Ads will continue to reflect the user's query, the context of the AI-generated response and their interests."
+              },
+              {
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
               },
               {
                 "t": "p",
-                "x": "Checkout is tied to Google's Universal Commerce Protocol (UCP), an open standard designed to help AI agents and retailers work together across the shopping journey. Amazon, OpenAI and other rivals have added agentic commerce features too."
+                "x": "Google says protections remain: connecting apps is opt-in, ads will not be based directly on the contents of Gmail or Google Photos, advertisers cannot access connected apps, and sensitive information will not be used to personalize ads."
+              },
+              {
+                "t": "p",
+                "x": "Google has not announced new advertiser controls, targeting options or a wider rollout for this test."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Universal Cart\nGoogle이 US에 출시",
-          "body": "Google Universal Cart가 U.S. Search·Gemini에 왔다.",
-          "mini_headline": "Google Universal Cart, US 출시",
+          "headline": "Google AI 모드에\n개인 맞춤 광고 시험",
+          "body": "Google이 AI 모드에서 연결 앱 맞춤 광고를 시험하며 무광고 방침을 접었다.",
+          "mini_headline": "개인화 AI 모드에도 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "xMDZus5hxYI"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
               },
               {
                 "t": "p",
-                "x": "Google은 Search와 Gemini 앱에서 찾은 상품을 한데 모아 지켜보는 도구 Universal Cart를 이제 U.S. 사용자에게 내놓는다고 밝혔다. 5월 Google I/O에서 처음 공개한 기능이다."
+                "x": "Google이 Personal Intelligence로 앱을 연결한 사용자에게 검색(Search)의 AI 모드(AI Mode)에서 광고를 시험하기 시작했다. 그동안 광고 없이 운영해 온 방침을 뒤집은 셈이다."
               },
               {
                 "t": "p",
-                "x": "장바구니에는 여러 소매업체의 상품을 함께 담을 수 있다. 저장한 상품의 가격이 내려가거나 품절 상품이 다시 들어오면 알림이 온다. 신용카드 혜택을 반영하고 관련 프로모션 코드도 보여준다는 게 Google의 설명이다."
+                "x": "이번 업데이트로 Google은 AI-powered 응답을 만들 때 이미 쓰던 정보에 더해 연결된 앱에서 얻은 인사이트까지 광고 개인화에 쓴다. 광고에는 여전히 사용자의 검색어와 AI-generated 응답의 맥락, 관심사가 반영된다."
+              },
+              {
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
               },
               {
                 "t": "p",
-                "x": "결제는 Google의 Universal Commerce Protocol(UCP)과 이어진다. UCP는 AI 에이전트와 소매업체가 쇼핑 전 과정에서 함께 움직이도록 만든 개방형 표준이다. Amazon, OpenAI 등 경쟁사들도 에이전트 커머스 기능을 더했다."
+                "x": "Google은 보호 장치는 그대로라고 밝혔다. 앱 연결은 사용자가 직접 골라야 한다. 광고는 Gmail이나 Google Photos의 콘텐츠를 직접 기반으로 하지 않는다. 광고주는 연결된 앱에 접근할 수 없고 민감한 정보는 광고 개인화에 쓰지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "이번 테스트에 맞춰 Google이 새로 발표한 광고주 제어 기능이나 타기팅 옵션, 확대 출시 계획은 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Universal Cart\nGoogleがUSで提供開始",
-          "body": "Google Universal CartがU.S.でSearch・Geminiに登場した。",
-          "mini_headline": "Google Universal Cart、US上陸",
+          "headline": "Google、AIモードで\n個人化広告を試験",
+          "body": "GoogleはAIモードで連携アプリの情報による個人化広告を試し、広告なし方針を転換した。",
+          "mini_headline": "個人向けAIモードに広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "xMDZus5hxYI"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
               },
               {
                 "t": "p",
-                "x": "Googleは、SearchやGeminiアプリで見つけた商品をまとめて追跡できるツールUniversal Cartを、U.S.のユーザー向けに提供開始したと発表した。5月のGoogle I/Oで初めて披露されていた。"
+                "x": "Googleは、Personal Intelligenceを通じてアプリを連携したユーザーを対象に、検索(Search)のAIモード(AI Mode)で広告のテストを始めた。この体験を広告なしで提供してきた従来の方針を転換するものだ。"
               },
               {
                 "t": "p",
-                "x": "カートには複数の小売業者の商品を入れられ、保存した商品の値下がりや品切れ商品の再入荷を通知する。Googleによると、クレジットカードの特典も考慮し、関連するプロモーションコードも表示できる。"
+                "x": "今回の更新により、GoogleはAI-poweredの回答生成にすでに使っている情報に加え、連携アプリから得たインサイトも広告のパーソナライズに活用できるようになる。広告は引き続き、ユーザーの検索語句、AI-generatedの回答の文脈、ユーザーの関心を反映する。"
+              },
+              {
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
               },
               {
                 "t": "p",
-                "x": "決済はGoogleのUniversal Commerce Protocol(UCP)と連動する。UCPは、AIエージェントと小売業者が買い物の全工程で連携できるよう設計されたオープン標準だ。Amazon、OpenAIなど競合各社もエージェント型コマース機能を追加している。"
+                "x": "Googleは保護策は維持されるとしている。アプリの連携はオプトイン方式で、広告はGmailやGoogle Photosの内容に直接基づくことはなく、広告主は連携アプリにアクセスできず、機微な情報は広告のパーソナライズに使われない。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは、このテストについて新たな広告主向けの管理機能やターゲティングオプション、より広い展開を発表していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Universal Cart\nGoogle在US上线",
-          "body": "Google Universal Cart已登陆U.S. Search和Gemini。",
-          "mini_headline": "Google Universal Cart登陆US",
+          "headline": "Google在AI模式中\n测试个性化广告",
+          "body": "Google正在测试基于关联应用信息的个性化AI模式广告，改变了此前的无广告做法。",
+          "mini_headline": "个人化AI模式迎来广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "xMDZus5hxYI"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
               },
               {
                 "t": "p",
-                "x": "Google表示，Universal Cart现已向U.S.用户开放。这款工具可让用户收集并追踪在Search和Gemini应用中找到的商品，最早于5月的Google I/O上预览。"
+                "x": "Google开始在搜索（Search）的AI模式（AI Mode）中，面向通过Personal Intelligence关联应用的用户测试广告，改变了此前这一体验不含广告的做法。"
               },
               {
                 "t": "p",
-                "x": "购物车可汇集多家零售商的商品，并在已保存商品降价或缺货商品补货时发送通知。Google称，它还能考虑信用卡优惠，并显示相关促销码。"
+                "x": "这次更新意味着，除了已用于生成AI-powered回答的信息外，Google现在还可以利用来自关联应用的洞察来帮助个性化广告。广告仍将反映用户的查询、AI-generated回答的上下文以及用户的兴趣。"
+              },
+              {
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
               },
               {
                 "t": "p",
-                "x": "结账环节与Google的Universal Commerce Protocol (UCP)相连，这是一项开放标准，旨在帮助AI智能体与零售商在整个购物流程中协同工作。Amazon、OpenAI等竞争对手也已加入代理式购物功能。"
+                "x": "Google表示保护措施依然有效：关联应用需用户主动选择开启，广告不会直接基于Gmail或Google Photos的内容，广告主无法访问关联应用，敏感信息也不会用于个性化广告。"
+              },
+              {
+                "t": "p",
+                "x": "Google尚未宣布针对这项测试的新广告主控制功能、定向选项或更大范围的推广。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lanza Universal Cart\nen Estados Unidos (US)",
-          "body": "Universal Cart de Google ya reúne artículos de varias tiendas en Search y Gemini en U.S. y avisa de rebajas.",
-          "mini_headline": "Google Universal Cart llega a US",
+          "headline": "Google prueba anuncios\nen AI Mode personalizado",
+          "body": "Google prueba anuncios en AI Mode personalizados con datos de apps conectadas y abandona su enfoque sin anuncios.",
+          "mini_headline": "Llegan los anuncios al AI Mode personal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "xMDZus5hxYI"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
               },
               {
                 "t": "p",
-                "x": "Google anunció que Universal Cart, una herramienta que permite reunir y seguir los productos encontrados en Search y en la app de Gemini, ya está disponible para usuarios de U.S. Se presentó por primera vez en Google I/O en mayo."
+                "x": "Google empieza a probar anuncios en AI Mode dentro de Search para los usuarios que conectan sus apps mediante Personal Intelligence, con lo que revierte su enfoque anterior de mantener esa experiencia sin anuncios."
               },
               {
                 "t": "p",
-                "x": "El carrito puede reunir artículos de varios minoristas y envía notificaciones cuando baja el precio de un producto guardado o vuelve a estar disponible un artículo agotado. Según Google, también puede tener en cuenta las ventajas de las tarjetas de crédito y mostrar códigos promocionales relevantes."
+                "x": "La actualización implica que Google ahora puede usar información de las apps conectadas para personalizar anuncios, junto con los datos que ya usa para generar respuestas AI-powered. Los anuncios seguirán reflejando la consulta del usuario, el contexto de la respuesta AI-generated y sus intereses."
+              },
+              {
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
               },
               {
                 "t": "p",
-                "x": "El pago está vinculado al Universal Commerce Protocol (UCP) de Google, un estándar abierto diseñado para que los agentes de AI y los minoristas colaboren a lo largo de todo el proceso de compra. Amazon, OpenAI y otros rivales también han añadido funciones de comercio agéntico."
+                "x": "Google asegura que las protecciones se mantienen: conectar apps es opcional, los anuncios no se basarán directamente en el contenido de Gmail o Google Photos, los anunciantes no pueden acceder a las apps conectadas y la información sensible no se usará para personalizar anuncios."
+              },
+              {
+                "t": "p",
+                "x": "Google no ha anunciado nuevos controles para anunciantes, opciones de segmentación ni un despliegue más amplio de esta prueba."
               }
             ]
           }
@@ -451,105 +529,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Universal Cart\nGoogle이 US에 출시",
-          "body": "Google Universal Cart가 U.S. Search·Gemini에 왔다.",
-          "mini_headline": "Google Universal Cart, US 출시",
+          "headline": "Google AI 모드에\n개인 맞춤 광고 시험",
+          "body": "Google이 AI 모드에서 연결 앱 맞춤 광고를 시험하며 무광고 방침을 접었다.",
+          "mini_headline": "개인화 AI 모드에도 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "xMDZus5hxYI"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
               },
               {
                 "t": "p",
-                "x": "Google은 Search와 Gemini 앱에서 찾은 상품을 모아 두고 지켜볼 수 있는 도구 Universal Cart를 이제 U.S. 사용자에게 제공한다고 밝혔다. 이 기능은 5월 Google I/O에서 처음 공개됐다."
+                "x": "Google이 Personal Intelligence로 앱을 연결한 사용자를 대상으로 검색(Search)의 AI 모드(AI Mode)에서 광고 테스트를 시작했다. 이 경험을 광고 없이 운영하던 기존 방식을 뒤집는 조치다."
               },
               {
                 "t": "p",
-                "x": "장바구니에는 여러 소매업체의 상품을 담을 수 있고, 저장한 상품의 가격이 내려가거나 품절 상품이 재입고되면 알림을 보낸다. Google은 신용카드 혜택을 반영하고 관련 프로모션 코드도 보여줄 수 있다고 설명했다."
+                "x": "이번 업데이트로 Google은 AI-powered 응답 생성에 이미 쓰던 정보와 함께 연결된 앱에서 얻은 인사이트도 광고 개인화에 활용할 수 있게 된다. 광고는 계속해서 사용자의 검색어, AI-generated 응답의 맥락, 사용자의 관심사를 반영한다."
+              },
+              {
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
               },
               {
                 "t": "p",
-                "x": "결제는 Google의 Universal Commerce Protocol(UCP)과 연결된다. UCP는 AI 에이전트와 소매업체가 쇼핑 전 과정에서 함께 작동하도록 설계한 개방형 표준이다. Amazon, OpenAI 등 경쟁사들도 에이전트 커머스 기능을 더했다."
+                "x": "Google은 보호 장치가 그대로 유지된다고 밝혔다. 앱 연결은 사용자가 직접 선택해야 하고, 광고는 Gmail이나 Google Photos의 콘텐츠를 직접 기반으로 하지 않으며, 광고주는 연결된 앱에 접근할 수 없고, 민감한 정보는 광고 개인화에 쓰지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 이번 테스트와 관련해 새로운 광고주 제어 기능이나 타기팅 옵션, 확대 출시 계획을 발표하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Universal Cart\nGoogleがUSで提供開始",
-          "body": "Google Universal CartがU.S.でSearch・Geminiに登場した。",
-          "mini_headline": "Google Universal Cart、US上陸",
+          "headline": "Google、AIモードで\n個人化広告を試験",
+          "body": "GoogleはAIモードで連携アプリの情報による個人化広告を試し、広告なし方針を転換した。",
+          "mini_headline": "個人向けAIモードに広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "xMDZus5hxYI"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
               },
               {
                 "t": "p",
-                "x": "Googleは、SearchやGeminiアプリで見つけた商品をまとめて追跡できるツールUniversal Cartを、U.S.のユーザー向けに提供開始したと発表した。5月のGoogle I/Oで初めて披露されていた。"
+                "x": "Googleは、Personal Intelligenceを通じてアプリを連携したユーザーを対象に、検索(Search)のAIモード(AI Mode)で広告のテストを始めた。この体験を広告なしで提供してきた従来の方針を転換するものだ。"
               },
               {
                 "t": "p",
-                "x": "カートには複数の小売業者の商品を入れられ、保存した商品の値下がりや品切れ商品の再入荷を通知する。Googleによると、クレジットカードの特典も考慮し、関連するプロモーションコードも表示できる。"
+                "x": "今回の更新により、GoogleはAI-poweredの回答生成にすでに使っている情報に加え、連携アプリから得たインサイトも広告のパーソナライズに活用できるようになる。広告は引き続き、ユーザーの検索語句、AI-generatedの回答の文脈、ユーザーの関心を反映する。"
+              },
+              {
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
               },
               {
                 "t": "p",
-                "x": "決済はGoogleのUniversal Commerce Protocol(UCP)と連動する。UCPは、AIエージェントと小売業者が買い物の全工程で連携できるよう設計されたオープン標準だ。Amazon、OpenAIなど競合各社もエージェント型コマース機能を追加している。"
+                "x": "Googleは保護策は維持されるとしている。アプリの連携はオプトイン方式で、広告はGmailやGoogle Photosの内容に直接基づくことはなく、広告主は連携アプリにアクセスできず、機微な情報は広告のパーソナライズに使われない。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは、このテストについて新たな広告主向けの管理機能やターゲティングオプション、より広い展開を発表していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Universal Cart\nGoogle在US上线",
-          "body": "Google Universal Cart已登陆U.S. Search和Gemini。",
-          "mini_headline": "Google Universal Cart登陆US",
+          "headline": "Google在AI模式中\n测试个性化广告",
+          "body": "Google正在测试基于关联应用信息的个性化AI模式广告，改变了此前的无广告做法。",
+          "mini_headline": "个人化AI模式迎来广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "xMDZus5hxYI"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
               },
               {
                 "t": "p",
-                "x": "Google表示，Universal Cart现已向U.S.用户开放。这款工具可让用户收集并追踪在Search和Gemini应用中找到的商品，最早于5月的Google I/O上预览。"
+                "x": "Google开始在搜索（Search）的AI模式（AI Mode）中，面向通过Personal Intelligence关联应用的用户测试广告，改变了此前这一体验不含广告的做法。"
               },
               {
                 "t": "p",
-                "x": "购物车可汇集多家零售商的商品，并在已保存商品降价或缺货商品补货时发送通知。Google称，它还能考虑信用卡优惠，并显示相关促销码。"
+                "x": "这次更新意味着，除了已用于生成AI-powered回答的信息外，Google现在还可以利用来自关联应用的洞察来帮助个性化广告。广告仍将反映用户的查询、AI-generated回答的上下文以及用户的兴趣。"
+              },
+              {
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
               },
               {
                 "t": "p",
-                "x": "结账环节与Google的Universal Commerce Protocol (UCP)相连，这是一项开放标准，旨在帮助AI智能体与零售商在整个购物流程中协同工作。Amazon、OpenAI等竞争对手也已加入代理式购物功能。"
+                "x": "Google表示保护措施依然有效：关联应用需用户主动选择开启，广告不会直接基于Gmail或Google Photos的内容，广告主无法访问关联应用，敏感信息也不会用于个性化广告。"
+              },
+              {
+                "t": "p",
+                "x": "Google尚未宣布针对这项测试的新广告主控制功能、定向选项或更大范围的推广。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lanza Universal Cart\nen Estados Unidos (US)",
-          "body": "Universal Cart de Google ya reúne artículos de varias tiendas en Search y Gemini en U.S. y avisa de rebajas.",
-          "mini_headline": "Google Universal Cart llega a US",
+          "headline": "Google prueba anuncios\nen AI Mode personalizado",
+          "body": "Google prueba anuncios en AI Mode personalizados con datos de apps conectadas y abandona su enfoque sin anuncios.",
+          "mini_headline": "Llegan los anuncios al AI Mode personal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "xMDZus5hxYI"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
               },
               {
                 "t": "p",
-                "x": "Google anunció que Universal Cart, una herramienta que permite reunir y seguir los productos encontrados en Search y en la app de Gemini, ya está disponible para usuarios de U.S. Se presentó por primera vez en Google I/O en mayo."
+                "x": "Google empieza a probar anuncios en AI Mode dentro de Search para los usuarios que conectan sus apps mediante Personal Intelligence, con lo que revierte su enfoque anterior de mantener esa experiencia sin anuncios."
               },
               {
                 "t": "p",
-                "x": "El carrito puede reunir artículos de varios minoristas y envía notificaciones cuando baja el precio de un producto guardado o vuelve a estar disponible un artículo agotado. Según Google, también puede tener en cuenta las ventajas de las tarjetas de crédito y mostrar códigos promocionales relevantes."
+                "x": "La actualización implica que Google ahora puede usar información de las apps conectadas para personalizar anuncios, junto con los datos que ya usa para generar respuestas AI-powered. Los anuncios seguirán reflejando la consulta del usuario, el contexto de la respuesta AI-generated y sus intereses."
+              },
+              {
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
               },
               {
                 "t": "p",
-                "x": "El pago está vinculado al Universal Commerce Protocol (UCP) de Google, un estándar abierto diseñado para que los agentes de AI y los minoristas colaboren a lo largo de todo el proceso de compra. Amazon, OpenAI y otros rivales también han añadido funciones de comercio agéntico."
+                "x": "Google asegura que las protecciones se mantienen: conectar apps es opcional, los anuncios no se basarán directamente en el contenido de Gmail o Google Photos, los anunciantes no pueden acceder a las apps conectadas y la información sensible no se usará para personalizar anuncios."
+              },
+              {
+                "t": "p",
+                "x": "Google no ha anunciado nuevos controles para anunciantes, opciones de segmentación ni un despliegue más amplio de esta prueba."
               }
             ]
           }
@@ -557,15 +667,15 @@
       }
     },
     {
-      "id": "marketing-fox-agentic-linear",
+      "id": "marketing-chatgpt-ads-measurement",
       "source_lang": "en",
-      "tool": "Marketing",
       "eyebrow": "AI NEWS",
-      "headline": "Fox, 에이전트 구매\n리니어 TV로 확대",
-      "body": "Fox가 에이전트 광고 플랫폼 대행사 파트너를 늘리고 리니어 TV로 넓힌다.",
-      "mini_headline": "Fox, 리니어 TV에 에이전트 도입",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/convergent-tv/fox-expands-agentic-push-with-eyes-set-on-tv-upfront-future/",
+      "headline": "ChatGPT Ads에\n측정 파트너·비주얼 광고",
+      "body": "OpenAI가 측정 파트너 6곳을 늘리고 대형 ChatGPT 광고를 시험한다.",
+      "mini_headline": "ChatGPT Ads, 성과 측정 강화",
+      "tool": "Marketing",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -573,461 +683,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-            "cap": "2025 Fox 업프런트 프레젠테이션에 선 Fox 광고 영업 책임자 Jeff Collins. Frank Micelotta/Fox"
+            "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
           },
           {
             "t": "p",
-            "x": "Fox는 AI-powered 기술을 계속 강화하면서 스스로 TV 광고 업계의 “첫 엔드투엔드 에이전틱 플랫폼”이라 부르는 서비스를 넓히는 중이다."
+            "x": "OpenAI가 ChatGPT Ads에 여러 업데이트를 내놓고 있다. 측정 파트너십 확대와 전환 보고 개선, 주간 성과 요약, 더 크고 시각적인 광고 형식 실험이 그 내용이다."
           },
           {
             "t": "p",
-            "x": "회사는 ADWEEK에 에이전틱 도입의 다음 단계로 넘어간다고 밝혔다. 대행사 파트너를 늘리고 에이전틱 기능을 엔드투엔드 리니어 거래로, 이어 디지털 거래로 넓힌다. 앞으로의 업프런트 논의에서도 에이전틱의 비중을 키울 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "Fox 광고 부문을 이끄는 Jeff Collins는 이런 기술 발전 덕분에 고객 및 파트너와 더 영향력 있는 관계를 쌓고 있다고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Fox extends agentic buying\nto linear TV deals",
-          "body": "Fox is adding agency partners to its agentic ad platform and extending agentic transactions to linear TV buys.",
-          "mini_headline": "Fox brings agents to linear TV",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-                "cap": "Jeff Collins, Fox ad sales chief, during the 2025 Fox upfront presentation. Frank Micelotta/Fox"
-              },
-              {
-                "t": "p",
-                "x": "Fox is expanding what it calls the TV ad industry's “first end-to-end agentic platform” as it continues its push into AI-powered technology."
-              },
-              {
-                "t": "p",
-                "x": "The company told ADWEEK it is entering the next phase of its agentic rollout: adding more agency partners, expanding agentic capabilities to end-to-end linear and, eventually, digital transactions, and making agentic a bigger part of future upfront conversations."
-              },
-              {
-                "t": "p",
-                "x": "According to Jeff Collins, Fox's ads leader, the tech advancements are creating more impactful relationships with clients and partners."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Fox, 에이전트 구매\n리니어 TV로 확대",
-          "body": "Fox가 에이전트 광고 플랫폼 대행사 파트너를 늘리고 리니어 TV로 넓힌다.",
-          "mini_headline": "Fox, 리니어 TV에 에이전트 도입",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-                "cap": "2025 Fox 업프런트 프레젠테이션에 선 Fox 광고 영업 책임자 Jeff Collins. Frank Micelotta/Fox"
-              },
-              {
-                "t": "p",
-                "x": "Fox는 AI-powered 기술을 계속 강화하면서 스스로 TV 광고 업계의 “첫 엔드투엔드 에이전틱 플랫폼”이라 부르는 서비스를 넓히는 중이다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 ADWEEK에 에이전틱 도입의 다음 단계로 넘어간다고 밝혔다. 대행사 파트너를 늘리고 에이전틱 기능을 엔드투엔드 리니어 거래로, 이어 디지털 거래로 넓힌다. 앞으로의 업프런트 논의에서도 에이전틱의 비중을 키울 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "Fox 광고 부문을 이끄는 Jeff Collins는 이런 기술 발전 덕분에 고객 및 파트너와 더 영향력 있는 관계를 쌓고 있다고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Fox、エージェント購買\nリニアTVにも拡大",
-          "body": "Foxはエージェント型広告基盤に代理店パートナーを加え、リニアTV取引にも広げる。",
-          "mini_headline": "Fox、リニアTVにエージェント導入",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-                "cap": "2025年のFoxアップフロントで登壇するFox広告営業責任者のJeff Collins。Frank Micelotta/Fox"
-              },
-              {
-                "t": "p",
-                "x": "Foxは、AI-powered技術への注力を続けるなか、自ら「TV広告業界初のエンドツーエンドのエージェント型プラットフォーム」と呼ぶ基盤を拡大している。"
-              },
-              {
-                "t": "p",
-                "x": "同社はADWEEKに対し、エージェント型展開の次の段階に入ると語った。代理店パートナーを増やし、エージェント機能をエンドツーエンドのリニア取引、さらに将来的にはデジタル取引へ広げ、今後のアップフロント交渉でエージェント型の比重を高めるという。"
-              },
-              {
-                "t": "p",
-                "x": "Foxの広告部門を率いるJeff Collinsによれば、こうした技術の進歩が、クライアントやパートナーとのより影響力のある関係を生んでいる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fox将智能体购买\n扩展至线性TV交易",
-          "body": "Fox为其智能体广告平台增加代理商伙伴，并将智能体交易扩展至线性TV购买。",
-          "mini_headline": "Fox把智能体带入线性TV",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-                "cap": "Fox广告销售主管Jeff Collins在2025年Fox预售推介会上。Frank Micelotta/Fox"
-              },
-              {
-                "t": "p",
-                "x": "Fox在持续推进AI-powered技术之际，正在扩展其所称的TV广告业“首个端到端智能体平台”。"
-              },
-              {
-                "t": "p",
-                "x": "该公司告诉ADWEEK，其智能体部署将进入下一阶段：增加更多代理商合作伙伴，将智能体能力扩展至端到端的线性交易，并最终扩展至数字交易，同时让智能体在未来的预售洽谈中占据更大比重。"
-              },
-              {
-                "t": "p",
-                "x": "Fox广告业务负责人Jeff Collins表示，这些技术进步正在与客户和合作伙伴之间建立更具影响力的关系。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fox lleva la compra agéntica\na los acuerdos de TV lineal",
-          "body": "Fox suma agencias socias a su plataforma agéntica de anuncios y la extiende a la compra de TV lineal.",
-          "mini_headline": "Fox lleva los agentes a la TV lineal",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-                "cap": "Jeff Collins, responsable de ventas publicitarias de Fox, durante la presentación upfront de Fox en 2025. Frank Micelotta/Fox"
-              },
-              {
-                "t": "p",
-                "x": "Fox amplía lo que denomina la “primera plataforma agéntica integral” del sector publicitario de TV, mientras continúa su apuesta por la tecnología AI-powered."
-              },
-              {
-                "t": "p",
-                "x": "La compañía explicó a ADWEEK que entra en la siguiente fase de su despliegue agéntico: sumar más agencias socias, ampliar las capacidades agénticas a las transacciones lineales de principio a fin y, más adelante, a las digitales, y dar a lo agéntico un papel mayor en las futuras negociaciones upfront."
-              },
-              {
-                "t": "p",
-                "x": "Según Jeff Collins, responsable de publicidad de Fox, los avances tecnológicos están creando relaciones de mayor impacto con clientes y socios."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Fox, 에이전트 구매\n리니어 TV로 확대",
-          "body": "Fox가 에이전트 광고 플랫폼에 대행사 파트너를 늘리고 리니어 TV 거래로 넓힌다.",
-          "mini_headline": "Fox, 리니어 TV에 에이전트 도입",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-                "cap": "2025 Fox 업프런트 프레젠테이션에 선 Fox 광고 영업 책임자 Jeff Collins. Frank Micelotta/Fox"
-              },
-              {
-                "t": "p",
-                "x": "Fox는 AI-powered 기술 강화를 이어가며, 스스로 TV 광고 업계의 “첫 엔드투엔드 에이전틱 플랫폼”이라 부르는 서비스를 확대하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 ADWEEK에 에이전틱 도입의 다음 단계에 들어선다고 밝혔다. 대행사 파트너를 늘리고, 에이전틱 기능을 엔드투엔드 리니어 거래와 이후 디지털 거래로 확대하며, 앞으로의 업프런트 논의에서 에이전틱의 비중을 키운다는 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "Fox 광고 부문을 이끄는 Jeff Collins는 이러한 기술 발전이 고객 및 파트너와 더 영향력 있는 관계를 만들고 있다고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Fox、エージェント購買\nリニアTVにも拡大",
-          "body": "Foxはエージェント型広告基盤に代理店パートナーを加え、リニアTV取引にも広げる。",
-          "mini_headline": "Fox、リニアTVにエージェント導入",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-                "cap": "2025年のFoxアップフロントで登壇するFox広告営業責任者のJeff Collins。Frank Micelotta/Fox"
-              },
-              {
-                "t": "p",
-                "x": "Foxは、AI-powered技術への注力を続けるなか、自ら「TV広告業界初のエンドツーエンドのエージェント型プラットフォーム」と呼ぶ基盤を拡大している。"
-              },
-              {
-                "t": "p",
-                "x": "同社はADWEEKに対し、エージェント型展開の次の段階に入ると語った。代理店パートナーを増やし、エージェント機能をエンドツーエンドのリニア取引、さらに将来的にはデジタル取引へ広げ、今後のアップフロント交渉でエージェント型の比重を高めるという。"
-              },
-              {
-                "t": "p",
-                "x": "Foxの広告部門を率いるJeff Collinsによれば、こうした技術の進歩が、クライアントやパートナーとのより影響力のある関係を生んでいる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fox将智能体购买\n扩展至线性TV交易",
-          "body": "Fox为其智能体广告平台增加代理商伙伴，并将智能体交易扩展至线性TV购买。",
-          "mini_headline": "Fox把智能体带入线性TV",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-                "cap": "Fox广告销售主管Jeff Collins在2025年Fox预售推介会上。Frank Micelotta/Fox"
-              },
-              {
-                "t": "p",
-                "x": "Fox在持续推进AI-powered技术之际，正在扩展其所称的TV广告业“首个端到端智能体平台”。"
-              },
-              {
-                "t": "p",
-                "x": "该公司告诉ADWEEK，其智能体部署将进入下一阶段：增加更多代理商合作伙伴，将智能体能力扩展至端到端的线性交易，并最终扩展至数字交易，同时让智能体在未来的预售洽谈中占据更大比重。"
-              },
-              {
-                "t": "p",
-                "x": "Fox广告业务负责人Jeff Collins表示，这些技术进步正在与客户和合作伙伴之间建立更具影响力的关系。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fox lleva la compra agéntica\na los acuerdos de TV lineal",
-          "body": "Fox suma agencias socias a su plataforma agéntica de anuncios y la extiende a la compra de TV lineal.",
-          "mini_headline": "Fox lleva los agentes a la TV lineal",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=1200",
-                "cap": "Jeff Collins, responsable de ventas publicitarias de Fox, durante la presentación upfront de Fox en 2025. Frank Micelotta/Fox"
-              },
-              {
-                "t": "p",
-                "x": "Fox amplía lo que denomina la “primera plataforma agéntica integral” del sector publicitario de TV, mientras continúa su apuesta por la tecnología AI-powered."
-              },
-              {
-                "t": "p",
-                "x": "La compañía explicó a ADWEEK que entra en la siguiente fase de su despliegue agéntico: sumar más agencias socias, ampliar las capacidades agénticas a las transacciones lineales de principio a fin y, más adelante, a las digitales, y dar a lo agéntico un papel mayor en las futuras negociaciones upfront."
-              },
-              {
-                "t": "p",
-                "x": "Según Jeff Collins, responsable de publicidad de Fox, los avances tecnológicos están creando relaciones de mayor impacto con clientes y socios."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "marketing-google-ads-ai-max-report",
-      "source_lang": "en",
-      "tool": "Marketing",
-      "eyebrow": "AI NEWS",
-      "headline": "AI Max 검색어 리포트\nGoogle Ads가 시험",
-      "body": "Google Ads가 검색어를 광고·랜딩과 잇는 AI Max 보고서를 시험 중이다.",
-      "mini_headline": "Google Ads, AI Max 보고서 시험",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Google Ads가 Search terms and ad combinations report(검색어 및 광고 조합 보고서)라는 새 보고서를 시험 중인 것으로 보인다. 검색어와 광고 소재, 랜딩 페이지가 어떻게 맞물려 돌아가는지 보여주는 보고서다."
-          },
-          {
-            "t": "p",
-            "x": "이 보고서를 발견한 Natasha Kaurra는 LinkedIn에 “AI Max for Search 캠페인을 운영하는 광고주에게 유용한 추가 기능으로 보인다”고 적었다."
+            "x": "새 측정 연동 파트너는 Northbeam, DV Rockerbox, INCRMNTAL이고 모바일 측정 파트너 Kochava, Tenjin, Airbridge도 합류했다. Ads Manager의 전환(Conversions) 페이지도 새로 디자인해 전환 활동, 이벤트 추이, 최적화 상태, 진단 경고를 한 화면에 모았다."
           },
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-            "cap": "Google Ads Search Terms And Ad Combinations Report(검색어 및 광고 조합 보고서)"
+            "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
           },
           {
             "t": "p",
-            "x": "광고를 띄운 검색어와 함께 노출된 광고 제목과 설명, 사용자가 넘어간 랜딩 페이지, 매칭 출처(AI Max 확장 매칭 또는 랜딩 페이지·URL 포함), 애셋 출처(광고주가 제공한 애셋인지 여부)가 나온다."
+            "x": "테스트 대상은 데스크톱의 더 넓은 광고 카드와 더 큰 이미지, 모바일의 전체 너비 이미지이고 소재는 광고주가 이미 가진 크리에이티브를 쓴다. OpenAI는 이와 별도로 이미지 생성 중에 뜨는 멀티 이미지 광고 형식도 시험할 계획인데 처음엔 일부 U.S. 광고주부터 시작한다."
           },
           {
             "t": "p",
-            "x": "Kaurra는 “이 보고서는 검색 의도와 광고 메시지, 랜딩 페이지 사이의 불일치를 찾아낼 또 하나의 방법을 준다”고 덧붙였다."
+            "x": "OpenAI는 이 형식들의 성과를 공개하지 않았고 더 넓은 출시 일정도 아직 정하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Ads tests a report\nfor AI Max search terms",
-          "body": "A Google Ads test links queries to the ad copy and landing page served, flagging AI Max matches and asset sources.",
-          "mini_headline": "Google Ads tests AI Max report",
+          "headline": "ChatGPT Ads adds measurement\npartners and visual formats",
+          "body": "OpenAI adds six measurement partners, including Northbeam and Kochava, and tests larger, more visual ChatGPT ads.",
+          "mini_headline": "ChatGPT Ads gets measurement",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google Ads seems to be testing a new report named the Search terms and ad combinations report. It shows how search queries, ad creatives and landing pages work together."
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
               },
               {
                 "t": "p",
-                "x": "It was spotted by Natasha Kaurra, who said on LinkedIn it “looks like a useful addition for advertisers running AI Max for Search campaigns.”"
+                "x": "OpenAI is rolling out several updates to ChatGPT Ads, including expanded measurement partnerships, improved conversion reporting, weekly performance summaries and experiments with larger, more visual ad formats."
+              },
+              {
+                "t": "p",
+                "x": "New measurement integrations include Northbeam, DV Rockerbox and INCRMNTAL, alongside mobile measurement partners Kochava, Tenjin and Airbridge. A redesigned Conversions page in Ads Manager brings together conversion activity, event trends, optimization status and diagnostic warnings."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-                "cap": "Google Ads Search Terms And Ad Combinations Report"
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
               },
               {
                 "t": "p",
-                "x": "Beyond the search terms that triggered ads, it shows the headlines and descriptions served, the landing pages users were sent to, match sources (AI Max expanded matches or landing page and URL inclusions) and asset sources (whether assets were advertiser-provided)."
+                "x": "Tests include wider ad cards and larger images on desktop and full-width images on mobile, using advertisers' existing creative. Separately, OpenAI plans to test a multi-image ad format during image generation, initially with selected U.S. advertisers."
               },
               {
                 "t": "p",
-                "x": "“This report gives us another way to identify mismatches between search intent, ad messaging, and landing pages,” Kaurra added."
+                "x": "OpenAI has not shared performance results or confirmed a broader rollout timeline for these formats."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI Max 검색어 리포트\nGoogle Ads가 시험",
-          "body": "Google Ads가 검색어를 광고·랜딩과 잇는 AI Max 보고서를 시험 중이다.",
-          "mini_headline": "Google Ads, AI Max 보고서 시험",
+          "headline": "ChatGPT Ads에\n측정 파트너·비주얼 광고",
+          "body": "OpenAI가 측정 파트너 6곳을 늘리고 대형 ChatGPT 광고를 시험한다.",
+          "mini_headline": "ChatGPT Ads, 성과 측정 강화",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google Ads가 Search terms and ad combinations report(검색어 및 광고 조합 보고서)라는 새 보고서를 시험 중인 것으로 보인다. 검색어와 광고 소재, 랜딩 페이지가 어떻게 맞물려 돌아가는지 보여주는 보고서다."
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
               },
               {
                 "t": "p",
-                "x": "이 보고서를 발견한 Natasha Kaurra는 LinkedIn에 “AI Max for Search 캠페인을 운영하는 광고주에게 유용한 추가 기능으로 보인다”고 적었다."
+                "x": "OpenAI가 ChatGPT Ads에 여러 업데이트를 내놓고 있다. 측정 파트너십 확대와 전환 보고 개선, 주간 성과 요약, 더 크고 시각적인 광고 형식 실험이 그 내용이다."
+              },
+              {
+                "t": "p",
+                "x": "새 측정 연동 파트너는 Northbeam, DV Rockerbox, INCRMNTAL이고 모바일 측정 파트너 Kochava, Tenjin, Airbridge도 합류했다. Ads Manager의 전환(Conversions) 페이지도 새로 디자인해 전환 활동, 이벤트 추이, 최적화 상태, 진단 경고를 한 화면에 모았다."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-                "cap": "Google Ads Search Terms And Ad Combinations Report(검색어 및 광고 조합 보고서)"
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
               },
               {
                 "t": "p",
-                "x": "광고를 띄운 검색어와 함께 노출된 광고 제목과 설명, 사용자가 넘어간 랜딩 페이지, 매칭 출처(AI Max 확장 매칭 또는 랜딩 페이지·URL 포함), 애셋 출처(광고주가 제공한 애셋인지 여부)가 나온다."
+                "x": "테스트 대상은 데스크톱의 더 넓은 광고 카드와 더 큰 이미지, 모바일의 전체 너비 이미지이고 소재는 광고주가 이미 가진 크리에이티브를 쓴다. OpenAI는 이와 별도로 이미지 생성 중에 뜨는 멀티 이미지 광고 형식도 시험할 계획인데 처음엔 일부 U.S. 광고주부터 시작한다."
               },
               {
                 "t": "p",
-                "x": "Kaurra는 “이 보고서는 검색 의도와 광고 메시지, 랜딩 페이지 사이의 불일치를 찾아낼 또 하나의 방법을 준다”고 덧붙였다."
+                "x": "OpenAI는 이 형식들의 성과를 공개하지 않았고 더 넓은 출시 일정도 아직 정하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI Max向けレポート\nGoogle Adsが試験中",
-          "body": "Google Adsが、検索語と配信広告・遷移先を結ぶAI Max向けレポートを試験中だ。",
-          "mini_headline": "Google Ads、AI Maxレポートを試験",
+          "headline": "ChatGPT Adsに\n計測連携とビジュアル広告",
+          "body": "OpenAIは計測パートナー6社を加え、より大きく視覚的なChatGPT広告を試す。",
+          "mini_headline": "ChatGPT Adsに計測機能",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google Adsが、Search terms and ad combinations report(検索語句と広告の組み合わせレポート)という新しいレポートを試験しているようだ。検索語句、広告クリエイティブ、ランディングページがどう連動しているかを示す。"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
               },
               {
                 "t": "p",
-                "x": "これを見つけたNatasha KaurraはLinkedInで、「AI Max for Searchキャンペーンを運用する広告主にとって便利な追加機能のようだ」と述べた。"
+                "x": "OpenAIはChatGPT Adsに複数の更新を展開している。計測パートナーシップの拡大、コンバージョンレポートの改善、週次のパフォーマンス要約、そしてより大きく視覚的な広告フォーマットの実験が含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "新たな計測連携にはNorthbeam、DV Rockerbox、INCRMNTALが加わり、モバイル計測パートナーのKochava、Tenjin、Airbridgeも並ぶ。Ads Managerで刷新されたConversionsページは、コンバージョン活動、イベントの推移、最適化の状況、診断の警告を一か所にまとめる。"
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-                "cap": "Google Ads Search Terms And Ad Combinations Report(検索語句と広告の組み合わせレポート)"
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
               },
               {
                 "t": "p",
-                "x": "広告表示のきっかけとなった検索語句に加え、配信された広告見出しと説明文、ユーザーの遷移先ランディングページ、一致のソース(AI Maxの拡張一致、またはランディングページとURLの包含)、アセットのソース(広告主が提供したアセットかどうか)を表示する。"
+                "x": "テストでは、広告主の既存クリエイティブを使い、デスクトップではより幅広い広告カードと大きな画像を、モバイルでは全幅の画像を表示する。これとは別に、OpenAIは画像生成中に表示する複数画像の広告フォーマットを、まず一部のU.S.広告主を対象に試す計画だ。"
               },
               {
                 "t": "p",
-                "x": "Kaurraは「このレポートで、検索意図、広告メッセージ、ランディングページのずれを見つける新たな手段が得られる」と付け加えた。"
+                "x": "OpenAIは、これらのフォーマットの成果データを公表しておらず、より広い展開の時期も明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads测试\nAI Max搜索词报告",
-          "body": "Google Ads测试中的报告将搜索词与广告文案、落地页关联，并标出AI Max匹配。",
-          "mini_headline": "Google Ads测试AI Max报告",
+          "headline": "ChatGPT Ads新增\n衡量伙伴与视觉广告",
+          "body": "OpenAI新增六家衡量伙伴，并测试更大、更具视觉感的ChatGPT广告。",
+          "mini_headline": "ChatGPT Ads强化效果衡量",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google Ads似乎正在测试一份名为Search terms and ad combinations report（搜索词与广告组合报告）的新报告，展示搜索查询、广告创意和落地页如何协同发挥作用。"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
               },
               {
                 "t": "p",
-                "x": "该报告由Natasha Kaurra发现，她在LinkedIn上表示，这“对于投放AI Max for Search广告系列的广告主来说，看起来是一项有用的新增功能”。"
+                "x": "OpenAI正在为ChatGPT Ads推出多项更新，包括扩大衡量合作、改进转化报告、提供每周效果摘要，以及试验更大、更具视觉感的广告格式。"
+              },
+              {
+                "t": "p",
+                "x": "新的衡量集成包括Northbeam、DV Rockerbox和INCRMNTAL，以及移动衡量伙伴Kochava、Tenjin和Airbridge。Ads Manager中重新设计的Conversions页面汇集了转化活动、事件趋势、优化状态和诊断警告。"
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-                "cap": "Google Ads Search Terms And Ad Combinations Report（搜索词与广告组合报告）"
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
               },
               {
                 "t": "p",
-                "x": "除触发广告的搜索词外，它还会显示所投放的标题和描述、用户被引导到的落地页、匹配来源（AI Max扩展匹配，或落地页与URL纳入）以及素材来源（素材是否由广告主提供）。"
+                "x": "测试内容包括在桌面端使用更宽的广告卡片和更大的图片，在移动端使用全宽图片，素材沿用广告主现有的创意。此外，OpenAI计划在图像生成过程中测试多图广告格式，初期面向部分U.S.广告主。"
               },
               {
                 "t": "p",
-                "x": "Kaurra补充道：“这份报告为我们提供了另一种方式，用来识别搜索意图、广告信息与落地页之间的错配。”"
+                "x": "OpenAI尚未公布这些格式的效果数据，也未确认更大范围推广的时间表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads prueba un informe\nde términos de búsqueda AI Max",
-          "body": "Una prueba de Google Ads vincula consultas con el anuncio y la página de destino y marca coincidencias de AI Max.",
-          "mini_headline": "Google Ads prueba un informe de AI Max",
+          "headline": "ChatGPT Ads suma socios de\nmedición y formatos visuales",
+          "body": "OpenAI suma seis socios de medición, como Northbeam y Kochava, y prueba anuncios de ChatGPT más grandes y visuales.",
+          "mini_headline": "ChatGPT Ads añade medición",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google Ads parece estar probando un nuevo informe llamado Search terms and ad combinations report (informe de términos de búsqueda y combinaciones de anuncios). Muestra cómo funcionan en conjunto las consultas de búsqueda, las creatividades y las páginas de destino."
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
               },
               {
                 "t": "p",
-                "x": "Lo detectó Natasha Kaurra, quien dijo en LinkedIn que “parece una incorporación útil para los anunciantes que usan campañas de AI Max for Search”."
+                "x": "OpenAI está desplegando varias actualizaciones en ChatGPT Ads, entre ellas alianzas de medición ampliadas, mejores informes de conversiones, resúmenes semanales de rendimiento y pruebas con formatos de anuncio más grandes y visuales."
+              },
+              {
+                "t": "p",
+                "x": "Las nuevas integraciones de medición incluyen Northbeam, DV Rockerbox e INCRMNTAL, junto con los socios de medición móvil Kochava, Tenjin y Airbridge. Una página de Conversions rediseñada en Ads Manager reúne la actividad de conversiones, las tendencias de eventos, el estado de optimización y las alertas de diagnóstico."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-                "cap": "Google Ads Search Terms And Ad Combinations Report (informe de términos de búsqueda y combinaciones de anuncios)"
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
               },
               {
                 "t": "p",
-                "x": "Además de los términos de búsqueda que activaron los anuncios, muestra los títulos y descripciones servidos, las páginas de destino a las que se envió a los usuarios, las fuentes de coincidencia (coincidencias ampliadas de AI Max o inclusiones de página de destino y URL) y las fuentes de recursos (si los recursos los proporcionó el anunciante)."
+                "x": "Las pruebas incluyen tarjetas de anuncio más anchas e imágenes más grandes en escritorio, e imágenes a ancho completo en móvil, con las creatividades que ya tienen los anunciantes. Por separado, OpenAI prevé probar un formato de anuncio con varias imágenes durante la generación de imágenes, al principio con anunciantes seleccionados de U.S."
               },
               {
                 "t": "p",
-                "x": "“Este informe nos da otra forma de detectar desajustes entre la intención de búsqueda, el mensaje del anuncio y las páginas de destino”, añadió Kaurra."
+                "x": "OpenAI no ha compartido resultados de rendimiento ni ha confirmado un calendario de despliegue más amplio para estos formatos."
               }
             ]
           }
@@ -1035,125 +881,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI Max 검색어 리포트\nGoogle Ads가 시험",
-          "body": "Google Ads가 검색어와 광고·랜딩을 잇는 AI Max 보고서를 시험한다.",
-          "mini_headline": "Google Ads, AI Max 보고서 시험",
+          "headline": "ChatGPT Ads에\n측정 파트너·비주얼 광고",
+          "body": "OpenAI가 측정 파트너 6곳을 늘리고 대형 ChatGPT 광고를 시험한다.",
+          "mini_headline": "ChatGPT Ads, 성과 측정 강화",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google Ads가 Search terms and ad combinations report(검색어 및 광고 조합 보고서)라는 새 보고서를 시험하고 있는 것으로 보인다. 검색어, 광고 소재, 랜딩 페이지가 어떻게 함께 작동하는지 보여준다."
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
               },
               {
                 "t": "p",
-                "x": "이를 발견한 Natasha Kaurra는 LinkedIn에서 “AI Max for Search 캠페인을 운영하는 광고주에게 유용한 추가 기능으로 보인다”고 말했다."
+                "x": "OpenAI가 ChatGPT Ads에 여러 업데이트를 내놓고 있다. 측정 파트너십 확대, 전환 보고 개선, 주간 성과 요약, 그리고 더 크고 시각적인 광고 형식 실험이 포함된다."
+              },
+              {
+                "t": "p",
+                "x": "새 측정 연동 파트너는 Northbeam, DV Rockerbox, INCRMNTAL이며, 모바일 측정 파트너 Kochava, Tenjin, Airbridge도 함께한다. Ads Manager에서 새로 디자인한 전환(Conversions) 페이지는 전환 활동, 이벤트 추이, 최적화 상태, 진단 경고를 한곳에 모아 보여 준다."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-                "cap": "Google Ads Search Terms And Ad Combinations Report(검색어 및 광고 조합 보고서)"
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
               },
               {
                 "t": "p",
-                "x": "광고를 유발한 검색어 외에도 노출된 광고 제목과 설명, 사용자가 이동한 랜딩 페이지, 매칭 출처(AI Max 확장 매칭 또는 랜딩 페이지·URL 포함), 애셋 출처(광고주가 제공한 애셋인지 여부)를 보여준다."
+                "x": "테스트에는 데스크톱의 더 넓은 광고 카드와 더 큰 이미지, 모바일의 전체 너비 이미지가 포함되며, 광고주가 이미 보유한 크리에이티브를 활용한다. 이와 별도로 OpenAI는 이미지 생성 중에 보이는 멀티 이미지 광고 형식을 시험할 계획이며, 처음에는 일부 U.S. 광고주를 대상으로 한다."
               },
               {
                 "t": "p",
-                "x": "Kaurra는 “이 보고서는 검색 의도와 광고 메시지, 랜딩 페이지 사이의 불일치를 찾아낼 또 하나의 방법을 준다”고 덧붙였다."
+                "x": "OpenAI는 이 형식들의 성과 결과를 공개하지 않았고, 더 넓은 출시 일정도 확정하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI Max向けレポート\nGoogle Adsが試験中",
-          "body": "Google Adsが、検索語と配信広告・遷移先を結ぶAI Max向けレポートを試験中だ。",
-          "mini_headline": "Google Ads、AI Maxレポートを試験",
+          "headline": "ChatGPT Adsに\n計測連携とビジュアル広告",
+          "body": "OpenAIは計測パートナー6社を加え、より大きく視覚的なChatGPT広告を試す。",
+          "mini_headline": "ChatGPT Adsに計測機能",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google Adsが、Search terms and ad combinations report(検索語句と広告の組み合わせレポート)という新しいレポートを試験しているようだ。検索語句、広告クリエイティブ、ランディングページがどう連動しているかを示す。"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
               },
               {
                 "t": "p",
-                "x": "これを見つけたNatasha KaurraはLinkedInで、「AI Max for Searchキャンペーンを運用する広告主にとって便利な追加機能のようだ」と述べた。"
+                "x": "OpenAIはChatGPT Adsに複数の更新を展開している。計測パートナーシップの拡大、コンバージョンレポートの改善、週次のパフォーマンス要約、そしてより大きく視覚的な広告フォーマットの実験が含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "新たな計測連携にはNorthbeam、DV Rockerbox、INCRMNTALが加わり、モバイル計測パートナーのKochava、Tenjin、Airbridgeも並ぶ。Ads Managerで刷新されたConversionsページは、コンバージョン活動、イベントの推移、最適化の状況、診断の警告を一か所にまとめる。"
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-                "cap": "Google Ads Search Terms And Ad Combinations Report(検索語句と広告の組み合わせレポート)"
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
               },
               {
                 "t": "p",
-                "x": "広告表示のきっかけとなった検索語句に加え、配信された広告見出しと説明文、ユーザーの遷移先ランディングページ、一致のソース(AI Maxの拡張一致、またはランディングページとURLの包含)、アセットのソース(広告主が提供したアセットかどうか)を表示する。"
+                "x": "テストでは、広告主の既存クリエイティブを使い、デスクトップではより幅広い広告カードと大きな画像を、モバイルでは全幅の画像を表示する。これとは別に、OpenAIは画像生成中に表示する複数画像の広告フォーマットを、まず一部のU.S.広告主を対象に試す計画だ。"
               },
               {
                 "t": "p",
-                "x": "Kaurraは「このレポートで、検索意図、広告メッセージ、ランディングページのずれを見つける新たな手段が得られる」と付け加えた。"
+                "x": "OpenAIは、これらのフォーマットの成果データを公表しておらず、より広い展開の時期も明らかにしていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads测试\nAI Max搜索词报告",
-          "body": "Google Ads测试中的报告将搜索词与广告文案、落地页关联，并标出AI Max匹配。",
-          "mini_headline": "Google Ads测试AI Max报告",
+          "headline": "ChatGPT Ads新增\n衡量伙伴与视觉广告",
+          "body": "OpenAI新增六家衡量伙伴，并测试更大、更具视觉感的ChatGPT广告。",
+          "mini_headline": "ChatGPT Ads强化效果衡量",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google Ads似乎正在测试一份名为Search terms and ad combinations report（搜索词与广告组合报告）的新报告，展示搜索查询、广告创意和落地页如何协同发挥作用。"
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
               },
               {
                 "t": "p",
-                "x": "该报告由Natasha Kaurra发现，她在LinkedIn上表示，这“对于投放AI Max for Search广告系列的广告主来说，看起来是一项有用的新增功能”。"
+                "x": "OpenAI正在为ChatGPT Ads推出多项更新，包括扩大衡量合作、改进转化报告、提供每周效果摘要，以及试验更大、更具视觉感的广告格式。"
+              },
+              {
+                "t": "p",
+                "x": "新的衡量集成包括Northbeam、DV Rockerbox和INCRMNTAL，以及移动衡量伙伴Kochava、Tenjin和Airbridge。Ads Manager中重新设计的Conversions页面汇集了转化活动、事件趋势、优化状态和诊断警告。"
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-                "cap": "Google Ads Search Terms And Ad Combinations Report（搜索词与广告组合报告）"
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
               },
               {
                 "t": "p",
-                "x": "除触发广告的搜索词外，它还会显示所投放的标题和描述、用户被引导到的落地页、匹配来源（AI Max扩展匹配，或落地页与URL纳入）以及素材来源（素材是否由广告主提供）。"
+                "x": "测试内容包括在桌面端使用更宽的广告卡片和更大的图片，在移动端使用全宽图片，素材沿用广告主现有的创意。此外，OpenAI计划在图像生成过程中测试多图广告格式，初期面向部分U.S.广告主。"
               },
               {
                 "t": "p",
-                "x": "Kaurra补充道：“这份报告为我们提供了另一种方式，用来识别搜索意图、广告信息与落地页之间的错配。”"
+                "x": "OpenAI尚未公布这些格式的效果数据，也未确认更大范围推广的时间表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads prueba un informe\nde términos de búsqueda AI Max",
-          "body": "Una prueba de Google Ads vincula consultas con el anuncio y la página de destino y marca coincidencias de AI Max.",
-          "mini_headline": "Google Ads prueba un informe de AI Max",
+          "headline": "ChatGPT Ads suma socios de\nmedición y formatos visuales",
+          "body": "OpenAI suma seis socios de medición, como Northbeam y Kochava, y prueba anuncios de ChatGPT más grandes y visuales.",
+          "mini_headline": "ChatGPT Ads añade medición",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Google Ads parece estar probando un nuevo informe llamado Search terms and ad combinations report (informe de términos de búsqueda y combinaciones de anuncios). Muestra cómo funcionan en conjunto las consultas de búsqueda, las creatividades y las páginas de destino."
+                "t": "img",
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
               },
               {
                 "t": "p",
-                "x": "Lo detectó Natasha Kaurra, quien dijo en LinkedIn que “parece una incorporación útil para los anunciantes que usan campañas de AI Max for Search”."
+                "x": "OpenAI está desplegando varias actualizaciones en ChatGPT Ads, entre ellas alianzas de medición ampliadas, mejores informes de conversiones, resúmenes semanales de rendimiento y pruebas con formatos de anuncio más grandes y visuales."
+              },
+              {
+                "t": "p",
+                "x": "Las nuevas integraciones de medición incluyen Northbeam, DV Rockerbox e INCRMNTAL, junto con los socios de medición móvil Kochava, Tenjin y Airbridge. Una página de Conversions rediseñada en Ads Manager reúne la actividad de conversiones, las tendencias de eventos, el estado de optimización y las alertas de diagnóstico."
               },
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
-                "cap": "Google Ads Search Terms And Ad Combinations Report (informe de términos de búsqueda y combinaciones de anuncios)"
+                "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
               },
               {
                 "t": "p",
-                "x": "Además de los términos de búsqueda que activaron los anuncios, muestra los títulos y descripciones servidos, las páginas de destino a las que se envió a los usuarios, las fuentes de coincidencia (coincidencias ampliadas de AI Max o inclusiones de página de destino y URL) y las fuentes de recursos (si los recursos los proporcionó el anunciante)."
+                "x": "Las pruebas incluyen tarjetas de anuncio más anchas e imágenes más grandes en escritorio, e imágenes a ancho completo en móvil, con las creatividades que ya tienen los anunciantes. Por separado, OpenAI prevé probar un formato de anuncio con varias imágenes durante la generación de imágenes, al principio con anunciantes seleccionados de U.S."
               },
               {
                 "t": "p",
-                "x": "“Este informe nos da otra forma de detectar desajustes entre la intención de búsqueda, el mensaje del anuncio y las páginas de destino”, añadió Kaurra."
+                "x": "OpenAI no ha compartido resultados de rendimiento ni ha confirmado un calendario de despliegue más amplio para estos formatos."
               }
             ]
           }
@@ -1161,15 +1019,257 @@
       }
     },
     {
-      "id": "marketing-stripe-agentic-commerce",
+      "id": "marketing-chatgpt-ads-targeting",
       "source_lang": "en",
-      "tool": "Marketing",
       "eyebrow": "AI NEWS",
-      "headline": "Stripe, 9월부터\n에이전트 거래 급증",
-      "body": "Stripe의 John Collison은 9월부터 에이전트 거래가 급증했다고 했다.",
-      "mini_headline": "Stripe 에이전트 거래 급증",
-      "source": "Payments Dive",
-      "url": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
+      "headline": "ChatGPT 광고,\n이메일·번호로 타기팅",
+      "body": "404 Media가 시험해 보니 ChatGPT 광고는 이메일·전화번호로 타기팅된다.",
+      "mini_headline": "ChatGPT 광고, 이메일로 타기팅",
+      "tool": "Marketing",
+      "source": "404 Media",
+      "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+            "cap": "이미지: Sipa USA via AP."
+          },
+          {
+            "t": "p",
+            "x": "404 Media가 ChatGPT 광고 생태계를 직접 시험해 보니 OpenAI는 누구든 ChatGPT 사용자의 세션에 광고를 넣게 해 주고 이메일 주소와 전화번호, 휴대전화 고유 식별자로 특정 집단을 겨냥하게 해 준다."
+          },
+          {
+            "t": "p",
+            "x": "ChatGPT에서 쓸 수 있는 광고 타기팅 자체는 광고 업계 전반에서 어느 정도 표준적인 방식이다. 다만 월간 활성 사용자가 십억 명에 이르는 이 챗봇 이용자들은 광고주가 OpenAI에 올린 자기 개인 데이터 때문에 콕 집어 표적이 된다는 사실을 모를 때가 있다. 새로운 건 사용자가 챗봇에 입력하는 프롬프트도 ChatGPT 광고 타기팅의 근거가 된다는 점이다. 사용자는 프롬프트를 비공개로 여기기 쉽지만 404 Media가 앞서 보여 줬듯 사람이 검토하기도 한다. 이번엔 광고 타기팅에 쓰인다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "ChatGPT ads can target you\nby email and phone number",
+          "body": "404 Media's tests found ChatGPT advertisers can target users by email address, phone number or phone identifier.",
+          "mini_headline": "ChatGPT ads target by email",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+                "cap": "Image: Sipa USA via AP."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI lets anyone inject ads into ChatGPT users' sessions, targeting specific groups of people based on their email address, phone number, or a unique identifier on their phone, according to 404 Media's own tests of ChatGPT's advertising ecosystem."
+              },
+              {
+                "t": "p",
+                "x": "While the ad targeting available in ChatGPT is somewhat standard practice across the advertising industry, the chatbot's one billion monthly active users may not understand they, in some cases, are being specifically targeted because of their personal data the advertiser has uploaded to OpenAI. ChatGPT's ad targeting is also novel in that it is also based on the prompts users enter into the chatbot, prompts that users may assume are private but which, as 404 Media has previously shown, may be reviewed by humans. Or in this case, used for ad targeting purposes."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ChatGPT 광고,\n이메일·번호로 타기팅",
+          "body": "404 Media가 시험해 보니 ChatGPT 광고는 이메일·전화번호로 타기팅된다.",
+          "mini_headline": "ChatGPT 광고, 이메일로 타기팅",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+                "cap": "이미지: Sipa USA via AP."
+              },
+              {
+                "t": "p",
+                "x": "404 Media가 ChatGPT 광고 생태계를 직접 시험해 보니 OpenAI는 누구든 ChatGPT 사용자의 세션에 광고를 넣게 해 주고 이메일 주소와 전화번호, 휴대전화 고유 식별자로 특정 집단을 겨냥하게 해 준다."
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT에서 쓸 수 있는 광고 타기팅 자체는 광고 업계 전반에서 어느 정도 표준적인 방식이다. 다만 월간 활성 사용자가 십억 명에 이르는 이 챗봇 이용자들은 광고주가 OpenAI에 올린 자기 개인 데이터 때문에 콕 집어 표적이 된다는 사실을 모를 때가 있다. 새로운 건 사용자가 챗봇에 입력하는 프롬프트도 ChatGPT 광고 타기팅의 근거가 된다는 점이다. 사용자는 프롬프트를 비공개로 여기기 쉽지만 404 Media가 앞서 보여 줬듯 사람이 검토하기도 한다. 이번엔 광고 타기팅에 쓰인다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ChatGPT広告、\nメールや電話番号で狙う",
+          "body": "404 Mediaの検証で、ChatGPTの広告主はメールや電話番号で狙えると判明した。",
+          "mini_headline": "ChatGPT広告、メールで標的化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+                "cap": "画像：Sipa USA via AP."
+              },
+              {
+                "t": "p",
+                "x": "404 MediaがChatGPTの広告エコシステムを独自に検証したところ、OpenAIは誰でもChatGPTユーザーのセッションに広告を差し込めるようにしており、メールアドレス、電話番号、スマートフォンの固有識別子に基づいて特定の層を狙えることがわかった。"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPTで利用できる広告ターゲティングは広告業界ではある程度標準的な手法だが、月間アクティブユーザー十億人を抱えるこのチャットボットの利用者は、場合によっては広告主がOpenAIにアップロードした自分の個人データのせいで狙い撃ちされていると理解していないかもしれない。ChatGPTの広告ターゲティングは、ユーザーがチャットボットに入力するプロンプトにも基づく点でも新しい。ユーザーはプロンプトを非公開だと思っているかもしれないが、404 Mediaが以前示したように、人間が確認することもある。そして今回の場合は、広告ターゲティングに使われる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ChatGPT广告可按\n邮箱和电话号码定向",
+          "body": "404 Media测试发现，ChatGPT广告主可按邮箱、电话号码或手机标识符定向用户。",
+          "mini_headline": "ChatGPT广告按邮箱定向",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+                "cap": "图片：Sipa USA via AP."
+              },
+              {
+                "t": "p",
+                "x": "根据404 Media对ChatGPT广告生态的自行测试，OpenAI允许任何人向ChatGPT用户的会话中插入广告，并可根据电子邮件地址、电话号码或手机上的唯一标识符定向特定人群。"
+              },
+              {
+                "t": "p",
+                "x": "虽然ChatGPT提供的广告定向在广告行业中算是较为标准的做法，但这款聊天机器人的十亿月活跃用户可能并不明白，在某些情况下，他们之所以被精准定向，是因为广告主向OpenAI上传了他们的个人数据。ChatGPT的广告定向还有一个新颖之处：它也基于用户输入聊天机器人的提示词。用户可能以为这些提示词是私密的，但正如404 Media此前所揭示的，它们可能会被人工审阅。而在这里，则被用于广告定向。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ChatGPT permite segmentar\npor email y número de teléfono",
+          "body": "Según pruebas de 404 Media, los anunciantes de ChatGPT pueden segmentar por email, teléfono o identificador.",
+          "mini_headline": "ChatGPT segmenta por email",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+                "cap": "Imagen: Sipa USA via AP."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI permite a cualquiera insertar anuncios en las sesiones de los usuarios de ChatGPT y dirigirlos a grupos concretos de personas según su dirección de correo electrónico, su número de teléfono o un identificador único de su teléfono, según las propias pruebas de 404 Media sobre el ecosistema publicitario de ChatGPT."
+              },
+              {
+                "t": "p",
+                "x": "Aunque la segmentación publicitaria disponible en ChatGPT es una práctica más o menos estándar en la industria, los mil millones de usuarios activos mensuales del chatbot pueden no entender que, en algunos casos, se les dirige un anuncio específicamente por los datos personales que el anunciante ha subido a OpenAI. La segmentación de ChatGPT también es novedosa porque se basa en los prompts que los usuarios escriben en el chatbot, prompts que pueden creer privados pero que, como 404 Media ya ha mostrado, pueden ser revisados por personas. O, en este caso, usados para segmentar anuncios."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "ChatGPT 광고,\n이메일·번호로 타기팅",
+          "body": "404 Media 시험 결과 ChatGPT 광고는 이메일·전화번호로 타기팅된다.",
+          "mini_headline": "ChatGPT 광고, 이메일로 타기팅",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+                "cap": "이미지: Sipa USA via AP."
+              },
+              {
+                "t": "p",
+                "x": "404 Media가 ChatGPT 광고 생태계를 직접 시험한 결과, OpenAI는 누구나 ChatGPT 사용자의 세션에 광고를 넣을 수 있게 하며, 이메일 주소, 전화번호, 휴대전화의 고유 식별자를 기준으로 특정 집단을 겨냥할 수 있게 한다."
+              },
+              {
+                "t": "p",
+                "x": "ChatGPT에서 쓸 수 있는 광고 타기팅은 광고 업계 전반에서 어느 정도 표준적인 방식이지만, 월간 활성 사용자가 십억 명에 이르는 이 챗봇의 이용자들은 경우에 따라 광고주가 OpenAI에 올린 자신의 개인 데이터 때문에 콕 집어 표적이 된다는 사실을 모를 수 있다. ChatGPT의 광고 타기팅은 사용자가 챗봇에 입력하는 프롬프트에도 기반한다는 점에서 새롭다. 사용자는 이 프롬프트를 비공개라고 여길 수 있지만, 404 Media가 앞서 보여 줬듯 사람이 검토할 수도 있다. 이번 경우에는 광고 타기팅에 쓰인다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ChatGPT広告、\nメールや電話番号で狙う",
+          "body": "404 Mediaの検証で、ChatGPTの広告主はメールや電話番号で狙えると判明した。",
+          "mini_headline": "ChatGPT広告、メールで標的化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+                "cap": "画像：Sipa USA via AP."
+              },
+              {
+                "t": "p",
+                "x": "404 MediaがChatGPTの広告エコシステムを独自に検証したところ、OpenAIは誰でもChatGPTユーザーのセッションに広告を差し込めるようにしており、メールアドレス、電話番号、スマートフォンの固有識別子に基づいて特定の層を狙えることがわかった。"
+              },
+              {
+                "t": "p",
+                "x": "ChatGPTで利用できる広告ターゲティングは広告業界ではある程度標準的な手法だが、月間アクティブユーザー十億人を抱えるこのチャットボットの利用者は、場合によっては広告主がOpenAIにアップロードした自分の個人データのせいで狙い撃ちされていると理解していないかもしれない。ChatGPTの広告ターゲティングは、ユーザーがチャットボットに入力するプロンプトにも基づく点でも新しい。ユーザーはプロンプトを非公開だと思っているかもしれないが、404 Mediaが以前示したように、人間が確認することもある。そして今回の場合は、広告ターゲティングに使われる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ChatGPT广告可按\n邮箱和电话号码定向",
+          "body": "404 Media测试发现，ChatGPT广告主可按邮箱、电话号码或手机标识符定向用户。",
+          "mini_headline": "ChatGPT广告按邮箱定向",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+                "cap": "图片：Sipa USA via AP."
+              },
+              {
+                "t": "p",
+                "x": "根据404 Media对ChatGPT广告生态的自行测试，OpenAI允许任何人向ChatGPT用户的会话中插入广告，并可根据电子邮件地址、电话号码或手机上的唯一标识符定向特定人群。"
+              },
+              {
+                "t": "p",
+                "x": "虽然ChatGPT提供的广告定向在广告行业中算是较为标准的做法，但这款聊天机器人的十亿月活跃用户可能并不明白，在某些情况下，他们之所以被精准定向，是因为广告主向OpenAI上传了他们的个人数据。ChatGPT的广告定向还有一个新颖之处：它也基于用户输入聊天机器人的提示词。用户可能以为这些提示词是私密的，但正如404 Media此前所揭示的，它们可能会被人工审阅。而在这里，则被用于广告定向。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ChatGPT permite segmentar\npor email y número de teléfono",
+          "body": "Según pruebas de 404 Media, los anunciantes de ChatGPT pueden segmentar por email, teléfono o identificador.",
+          "mini_headline": "ChatGPT segmenta por email",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+                "cap": "Imagen: Sipa USA via AP."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI permite a cualquiera insertar anuncios en las sesiones de los usuarios de ChatGPT y dirigirlos a grupos concretos de personas según su dirección de correo electrónico, su número de teléfono o un identificador único de su teléfono, según las propias pruebas de 404 Media sobre el ecosistema publicitario de ChatGPT."
+              },
+              {
+                "t": "p",
+                "x": "Aunque la segmentación publicitaria disponible en ChatGPT es una práctica más o menos estándar en la industria, los mil millones de usuarios activos mensuales del chatbot pueden no entender que, en algunos casos, se les dirige un anuncio específicamente por los datos personales que el anunciante ha subido a OpenAI. La segmentación de ChatGPT también es novedosa porque se basa en los prompts que los usuarios escriben en el chatbot, prompts que pueden creer privados pero que, como 404 Media ya ha mostrado, pueden ser revisados por personas. O, en este caso, usados para segmentar anuncios."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "marketing-thrad-chat-ads-fund",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Thrad, AI 앱 채팅\n광고에 $1M 투입",
+      "body": "Thrad가 채팅 광고를 시험하는 AI 앱에 최대 100만 달러를 집행한다.",
+      "mini_headline": "Thrad, AI 채팅 광고에 자금",
+      "tool": "Marketing",
+      "source": "PPC Land",
+      "url": "https://ppc.land/thrad-commits-1m-in-ad-spend-to-ai-chat-apps-testing-in-chat-ads/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1177,155 +1277,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-            "cap": "Stripe 사장 John Collison. Getty Images Entertainment via Getty Images"
+            "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+            "cap": "Thrad가 AI 앱 대상 채팅 내 광고비를 $1m으로 두 배 늘린 것을 채팅 말풍선에 떨어지는 동전으로 표현했다"
           },
           {
             "t": "p",
-            "x": "Stripe 사장 John Collison은 자신의 Cheeky Pint 팟캐스트에서 Meta Platforms CEO Mark Zuckerberg, 최고 AI 책임자 Alexandr Wang과 대화하다가 Stripe의 에이전트 커머스가 9월부터 가파르게 늘었다고 말했다."
+            "x": "Thrad는 AI 채팅 대화 안에 스폰서 메시지를 넣는 샌프란시스코 기업이다. 이 회사가 Monetization Fund II를 열었다. 광고를 시험해 볼 소비자용 AI 앱에 자사 DSP로 광고주 지출을 최대 100만 달러까지 보내 주는 상시 프로그램이다. 지분은 오가지 않고 현금 보조금도 없다."
           },
           {
             "t": "p",
-            "x": "Collison은 “…5월 Sessions에서 발표를 잔뜩 했는데, 9월이 돼서야 사실상 수직 상승하기 시작했다”고 말했다. 구체적인 수치는 내놓지 않았다."
+            "x": "2025년 12월 1차 라운드의 50만 달러에서 두 배로 늘었다. 수익 배분이나 앱별 배정액, 프로그램 운영 기간은 발표에 없다."
           },
           {
             "t": "p",
-            "x": "발언은 세 사람이 Meta의 AI 어시스턴트 Muse와, 명령하면 상품을 사 주는 Muse의 기능을 두고 이야기하던 중에 나왔다. Amazon은 최근 Muse가 자사 사이트에서 쇼핑하지 못하게 막았고, Zuckerberg는 이를 막는 기업들이 후회하게 될 것이라고 말했다."
+            "x": "CEO Andrea Tortella는 \"많은 사용자가 그냥 구독료를 내지 않는다\"고 말하면서 상호작용마다 뒤따르는 토큰 비용을 짚었다."
+          },
+          {
+            "t": "p",
+            "x": "광고는 사용자 프로필이 아니라 대화 주제를 따라 붙는다. AI의 자연스러운 응답과 헷갈리지 않게 \"명확한 고지\"를 단 네이티브 스폰서 광고 형태다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Stripe says agentic commerce\nwent vertical in September",
-          "body": "Stripe's John Collison said agentic commerce on Stripe started going vertical in September, after its May announcements.",
-          "mini_headline": "Stripe agent sales take off",
+          "headline": "Thrad puts $1M behind\nin-chat ads in AI apps",
+          "body": "Thrad's Monetization Fund II routes up to $1 million in ad spend to AI chat apps testing contextual in-chat ads.",
+          "mini_headline": "Thrad funds in-chat AI ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-                "cap": "Stripe President John Collison. Getty Images Entertainment via Getty Images"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+                "cap": "Thrad doubles in-chat ad spend for AI apps to $1m, pictured as a coin dropped into a chat bubble"
               },
               {
                 "t": "p",
-                "x": "Stripe President John Collison said on his Cheeky Pint podcast, speaking with Meta Platforms CEO Mark Zuckerberg and chief AI officer Alexandr Wang, that agentic commerce on Stripe rose sharply starting in September."
+                "x": "Thrad, a San Francisco company that places sponsored messages inside AI chat conversations, opened Monetization Fund II, a rolling program that directs up to $1 million in advertiser spend through its DSP to consumer AI apps willing to test ads. No equity changes hands and no cash grant is paid out."
               },
               {
                 "t": "p",
-                "x": "“…we had a whole bunch of announcements at Sessions back in May, and then it only, as of September, basically started going vertical,” Collison said. He gave no specific figures."
+                "x": "It doubles the $500,000 first round from December 2025. The announcement does not state the revenue share, per-app allocation or how long the program runs."
               },
               {
                 "t": "p",
-                "x": "The remark came as the three discussed Meta's AI assistant Muse and its ability to buy merchandise on command. Amazon recently banned Muse from shopping on its site; Zuckerberg said companies that block it will likely regret it."
+                "x": "\"Many users simply won't pay for a subscription,\" said CEO Andrea Tortella, pointing to the token costs behind every interaction."
+              },
+              {
+                "t": "p",
+                "x": "Ads are matched to what the conversation is about rather than to a user profile, and run as native sponsored placements with \"clear disclosure\" to separate them from the AI's organic responses."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Stripe, 9월부터\n에이전트 거래 급증",
-          "body": "Stripe의 John Collison은 9월부터 에이전트 거래가 급증했다고 했다.",
-          "mini_headline": "Stripe 에이전트 거래 급증",
+          "headline": "Thrad, AI 앱 채팅\n광고에 $1M 투입",
+          "body": "Thrad가 채팅 광고를 시험하는 AI 앱에 최대 100만 달러를 집행한다.",
+          "mini_headline": "Thrad, AI 채팅 광고에 자금",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-                "cap": "Stripe 사장 John Collison. Getty Images Entertainment via Getty Images"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+                "cap": "Thrad가 AI 앱 대상 채팅 내 광고비를 $1m으로 두 배 늘린 것을 채팅 말풍선에 떨어지는 동전으로 표현했다"
               },
               {
                 "t": "p",
-                "x": "Stripe 사장 John Collison은 자신의 Cheeky Pint 팟캐스트에서 Meta Platforms CEO Mark Zuckerberg, 최고 AI 책임자 Alexandr Wang과 대화하다가 Stripe의 에이전트 커머스가 9월부터 가파르게 늘었다고 말했다."
+                "x": "Thrad는 AI 채팅 대화 안에 스폰서 메시지를 넣는 샌프란시스코 기업이다. 이 회사가 Monetization Fund II를 열었다. 광고를 시험해 볼 소비자용 AI 앱에 자사 DSP로 광고주 지출을 최대 100만 달러까지 보내 주는 상시 프로그램이다. 지분은 오가지 않고 현금 보조금도 없다."
               },
               {
                 "t": "p",
-                "x": "Collison은 “…5월 Sessions에서 발표를 잔뜩 했는데, 9월이 돼서야 사실상 수직 상승하기 시작했다”고 말했다. 구체적인 수치는 내놓지 않았다."
+                "x": "2025년 12월 1차 라운드의 50만 달러에서 두 배로 늘었다. 수익 배분이나 앱별 배정액, 프로그램 운영 기간은 발표에 없다."
               },
               {
                 "t": "p",
-                "x": "발언은 세 사람이 Meta의 AI 어시스턴트 Muse와, 명령하면 상품을 사 주는 Muse의 기능을 두고 이야기하던 중에 나왔다. Amazon은 최근 Muse가 자사 사이트에서 쇼핑하지 못하게 막았고, Zuckerberg는 이를 막는 기업들이 후회하게 될 것이라고 말했다."
+                "x": "CEO Andrea Tortella는 \"많은 사용자가 그냥 구독료를 내지 않는다\"고 말하면서 상호작용마다 뒤따르는 토큰 비용을 짚었다."
+              },
+              {
+                "t": "p",
+                "x": "광고는 사용자 프로필이 아니라 대화 주제를 따라 붙는다. AI의 자연스러운 응답과 헷갈리지 않게 \"명확한 고지\"를 단 네이티브 스폰서 광고 형태다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Stripe、9月から\nエージェント取引が急増",
-          "body": "StripeのJohn Collisonは、9月からエージェント取引が急増したと語った。",
-          "mini_headline": "Stripeのエージェント取引が急伸",
+          "headline": "Thrad、AIアプリの\nチャット内広告に$1M",
+          "body": "Thradは、チャット内広告を試すAIアプリへ最大100万ドルの広告費を回す。",
+          "mini_headline": "Thrad、AIチャット広告に資金",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-                "cap": "Stripe社長のJohn Collison。Getty Images Entertainment via Getty Images"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+                "cap": "ThradはAIアプリ向けのチャット内広告費を倍増の$1mに。チャットの吹き出しに落ちるコインで表現"
               },
               {
                 "t": "p",
-                "x": "Stripe社長のJohn Collisonは、自身のポッドキャスト「Cheeky Pint」でMeta PlatformsのCEO Mark Zuckerberg、最高AI責任者Alexandr Wangと対談し、Stripe上のエージェント型コマースが9月から急増したと述べた。"
+                "x": "AIチャットの会話内にスポンサーメッセージを配信するサンフランシスコの企業Thradは、Monetization Fund IIを開始した。広告を試す意思のある消費者向けAIアプリに、自社のDSPを通じて最大100万ドルの広告主支出を振り向ける随時受付のプログラムだ。株式のやり取りはなく、現金の助成金も支払われない。"
               },
               {
                 "t": "p",
-                "x": "「…5月のSessionsでたくさんの発表をしたが、9月になってようやく、ほぼ垂直に伸び始めた」とCollisonは語った。具体的な数字は示さなかった。"
+                "x": "2025年12月の第1弾50万ドルから倍増した。発表では、収益分配率、アプリごとの配分額、プログラムの実施期間は明らかにされていない。"
               },
               {
                 "t": "p",
-                "x": "この発言は、3人がMetaのAIアシスタントMuseと、指示に応じて商品を購入するその機能について話す中で出た。Amazonは最近、Museによる自社サイトでの買い物を禁止した。Zuckerbergは、Museを締め出す企業はおそらく後悔することになると述べた。"
+                "x": "CEOのAndrea Tortellaは「多くのユーザーはそもそもサブスクリプションにお金を払わない」と述べ、あらゆるやり取りの裏にあるトークンコストを指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "広告はユーザープロフィールではなく会話の内容に合わせて配信され、AIの通常の回答と区別するための「明確な開示」を伴うネイティブのスポンサー枠として表示される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Stripe：智能体商务\n自9月起直线飙升",
-          "body": "Stripe的John Collison称，Stripe上的智能体商务自9月起直线上升。",
-          "mini_headline": "Stripe智能体交易起飞",
+          "headline": "Thrad投入$1M\n支持AI应用聊天广告",
+          "body": "Thrad将为测试聊天内情境广告的AI应用投放最高100万美元广告预算。",
+          "mini_headline": "Thrad资助AI聊天内广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-                "cap": "Stripe总裁John Collison。Getty Images Entertainment via Getty Images"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+                "cap": "Thrad将面向AI应用的聊天内广告支出翻倍至$1m，图为一枚投入聊天气泡的硬币"
               },
               {
                 "t": "p",
-                "x": "Stripe总裁John Collison在自己的Cheeky Pint播客中与Meta Platforms CEO Mark Zuckerberg及首席AI官Alexandr Wang对谈时表示，Stripe上的智能体商务从9月开始急剧增长。"
+                "x": "在AI聊天对话中投放赞助信息的旧金山公司Thrad推出了Monetization Fund II。这是一项滚动计划，通过其DSP将最高100万美元的广告主支出导向愿意测试广告的消费级AI应用。不涉及股权交换，也不发放现金补助。"
               },
               {
                 "t": "p",
-                "x": "Collison说：“…我们5月在Sessions上发布了一大堆内容，然后直到9月，它才基本上开始直线上升。”他没有给出具体数字。"
+                "x": "这一规模是2025年12月首轮50万美元的两倍。公告未说明收入分成、每个应用的分配额或计划的持续时间。"
               },
               {
                 "t": "p",
-                "x": "这番话出现在三人讨论Meta的AI助手Muse及其按指令购买商品的能力时。Amazon最近禁止Muse在其网站上购物；Zuckerberg表示，屏蔽它的公司很可能会后悔。"
+                "x": "CEO Andrea Tortella表示：“很多用户就是不愿意为订阅付费。”他指出每一次交互背后都有token成本。"
+              },
+              {
+                "t": "p",
+                "x": "广告依据对话内容而非用户画像进行匹配，并以带有“清晰披露”的原生赞助形式展示，以便与AI的自然回答区分开来。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Stripe: el comercio agéntico\nse disparó en septiembre",
-          "body": "John Collison dijo que el comercio agéntico en Stripe empezó a dispararse en septiembre, tras sus anuncios de mayo.",
-          "mini_headline": "Las ventas con agentes de Stripe despegan",
+          "headline": "Thrad destina $1M a anuncios\nen chats de apps de IA",
+          "body": "El Monetization Fund II de Thrad dirige hasta 1 millón de dólares a apps de IA que prueben anuncios en el chat.",
+          "mini_headline": "Thrad financia anuncios en chats de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-                "cap": "John Collison, presidente de Stripe. Getty Images Entertainment via Getty Images"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+                "cap": "Thrad duplica a $1m el gasto en anuncios dentro del chat para apps de IA, representado como una moneda que cae en una burbuja de chat"
               },
               {
                 "t": "p",
-                "x": "El presidente de Stripe, John Collison, afirmó en su pódcast Cheeky Pint, en una conversación con el CEO de Meta Platforms, Mark Zuckerberg, y el director de AI, Alexandr Wang, que el comercio agéntico en Stripe aumentó con fuerza a partir de septiembre."
+                "x": "Thrad, una empresa de San Francisco que coloca mensajes patrocinados dentro de conversaciones de chat con IA, abrió Monetization Fund II, un programa continuo que dirige hasta 1 millón de dólares de inversión de anunciantes, a través de su DSP, hacia apps de IA de consumo dispuestas a probar anuncios. No hay intercambio de participaciones ni se paga ninguna subvención en efectivo."
               },
               {
                 "t": "p",
-                "x": "“…hicimos un montón de anuncios en Sessions en mayo, y luego solo a partir de septiembre empezó básicamente a crecer en vertical”, dijo Collison. No dio cifras concretas."
+                "x": "Duplica la primera ronda de 500.000 dólares de diciembre de 2025. El anuncio no indica el reparto de ingresos, la asignación por app ni la duración del programa."
               },
               {
                 "t": "p",
-                "x": "El comentario surgió mientras los tres hablaban de Muse, el asistente de AI de Meta, y de su capacidad para comprar productos cuando se le ordena. Amazon prohibió hace poco que Muse compre en su sitio; Zuckerberg dijo que las empresas que lo bloqueen probablemente se arrepentirán."
+                "x": "\"Muchos usuarios simplemente no pagarán una suscripción\", dijo el CEO Andrea Tortella, en referencia a los costes en tokens detrás de cada interacción."
+              },
+              {
+                "t": "p",
+                "x": "Los anuncios se asocian al tema de la conversación y no a un perfil de usuario, y se muestran como ubicaciones patrocinadas nativas con una \"divulgación clara\" que los separa de las respuestas orgánicas de la IA."
               }
             ]
           }
@@ -1333,109 +1457,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Stripe, 9월부터\n에이전트 거래 급증",
-          "body": "Stripe의 John Collison은 에이전트 거래가 9월 급증했다고 말했다.",
-          "mini_headline": "Stripe 에이전트 거래 급증",
+          "headline": "Thrad, AI 앱 채팅\n광고에 $1M 투입",
+          "body": "Thrad가 채팅 광고를 시험하는 AI 앱에 최대 100만 달러를 집행한다.",
+          "mini_headline": "Thrad, AI 채팅 광고에 자금",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-                "cap": "Stripe 사장 John Collison. Getty Images Entertainment via Getty Images"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+                "cap": "Thrad가 AI 앱 대상 채팅 내 광고비를 $1m으로 두 배 늘린 것을 채팅 말풍선에 떨어지는 동전으로 표현했다"
               },
               {
                 "t": "p",
-                "x": "Stripe 사장 John Collison은 자신의 Cheeky Pint 팟캐스트에서 Meta Platforms CEO Mark Zuckerberg, 최고 AI 책임자 Alexandr Wang과 대화하며 Stripe의 에이전트 커머스가 9월부터 급격히 늘었다고 말했다."
+                "x": "AI 채팅 대화 안에 스폰서 메시지를 넣는 샌프란시스코 기업 Thrad가 Monetization Fund II를 열었다. 광고를 시험할 의향이 있는 소비자용 AI 앱에 자사 DSP를 통해 최대 100만 달러의 광고주 지출을 보내는 상시 프로그램이다. 지분이 오가지 않고 현금 보조금도 지급하지 않는다."
               },
               {
                 "t": "p",
-                "x": "Collison은 “…5월 Sessions에서 발표를 잔뜩 했는데, 9월이 돼서야 사실상 수직 상승하기 시작했다”고 말했다. 구체적인 수치는 밝히지 않았다."
+                "x": "2025년 12월의 1차 라운드 50만 달러보다 두 배 많은 규모다. 발표에는 수익 배분, 앱별 배정액, 프로그램 운영 기간이 나와 있지 않다."
               },
               {
                 "t": "p",
-                "x": "이 발언은 세 사람이 Meta의 AI 어시스턴트 Muse와, 명령에 따라 상품을 사는 Muse의 기능을 이야기하던 중에 나왔다. Amazon은 최근 Muse가 자사 사이트에서 쇼핑하지 못하도록 막았고, Zuckerberg는 이를 막는 기업들이 후회하게 될 것이라고 말했다."
+                "x": "CEO Andrea Tortella는 \"많은 사용자가 그냥 구독료를 내지 않는다\"고 말하며, 모든 상호작용 뒤에 따르는 토큰 비용을 짚었다."
+              },
+              {
+                "t": "p",
+                "x": "광고는 사용자 프로필이 아니라 대화 주제에 맞춰 연결되고, AI의 자연스러운 응답과 구분되도록 \"명확한 고지\"를 붙인 네이티브 스폰서 광고로 노출된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Stripe、9月から\nエージェント取引が急増",
-          "body": "StripeのJohn Collisonは、9月からエージェント取引が急増したと語った。",
-          "mini_headline": "Stripeのエージェント取引が急伸",
+          "headline": "Thrad、AIアプリの\nチャット内広告に$1M",
+          "body": "Thradは、チャット内広告を試すAIアプリへ最大100万ドルの広告費を回す。",
+          "mini_headline": "Thrad、AIチャット広告に資金",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-                "cap": "Stripe社長のJohn Collison。Getty Images Entertainment via Getty Images"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+                "cap": "ThradはAIアプリ向けのチャット内広告費を倍増の$1mに。チャットの吹き出しに落ちるコインで表現"
               },
               {
                 "t": "p",
-                "x": "Stripe社長のJohn Collisonは、自身のポッドキャスト「Cheeky Pint」でMeta PlatformsのCEO Mark Zuckerberg、最高AI責任者Alexandr Wangと対談し、Stripe上のエージェント型コマースが9月から急増したと述べた。"
+                "x": "AIチャットの会話内にスポンサーメッセージを配信するサンフランシスコの企業Thradは、Monetization Fund IIを開始した。広告を試す意思のある消費者向けAIアプリに、自社のDSPを通じて最大100万ドルの広告主支出を振り向ける随時受付のプログラムだ。株式のやり取りはなく、現金の助成金も支払われない。"
               },
               {
                 "t": "p",
-                "x": "「…5月のSessionsでたくさんの発表をしたが、9月になってようやく、ほぼ垂直に伸び始めた」とCollisonは語った。具体的な数字は示さなかった。"
+                "x": "2025年12月の第1弾50万ドルから倍増した。発表では、収益分配率、アプリごとの配分額、プログラムの実施期間は明らかにされていない。"
               },
               {
                 "t": "p",
-                "x": "この発言は、3人がMetaのAIアシスタントMuseと、指示に応じて商品を購入するその機能について話す中で出た。Amazonは最近、Museによる自社サイトでの買い物を禁止した。Zuckerbergは、Museを締め出す企業はおそらく後悔することになると述べた。"
+                "x": "CEOのAndrea Tortellaは「多くのユーザーはそもそもサブスクリプションにお金を払わない」と述べ、あらゆるやり取りの裏にあるトークンコストを指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "広告はユーザープロフィールではなく会話の内容に合わせて配信され、AIの通常の回答と区別するための「明確な開示」を伴うネイティブのスポンサー枠として表示される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Stripe：智能体商务\n自9月起直线飙升",
-          "body": "Stripe的John Collison称，Stripe上的智能体商务自9月起直线上升。",
-          "mini_headline": "Stripe智能体交易起飞",
+          "headline": "Thrad投入$1M\n支持AI应用聊天广告",
+          "body": "Thrad将为测试聊天内情境广告的AI应用投放最高100万美元广告预算。",
+          "mini_headline": "Thrad资助AI聊天内广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-                "cap": "Stripe总裁John Collison。Getty Images Entertainment via Getty Images"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+                "cap": "Thrad将面向AI应用的聊天内广告支出翻倍至$1m，图为一枚投入聊天气泡的硬币"
               },
               {
                 "t": "p",
-                "x": "Stripe总裁John Collison在自己的Cheeky Pint播客中与Meta Platforms CEO Mark Zuckerberg及首席AI官Alexandr Wang对谈时表示，Stripe上的智能体商务从9月开始急剧增长。"
+                "x": "在AI聊天对话中投放赞助信息的旧金山公司Thrad推出了Monetization Fund II。这是一项滚动计划，通过其DSP将最高100万美元的广告主支出导向愿意测试广告的消费级AI应用。不涉及股权交换，也不发放现金补助。"
               },
               {
                 "t": "p",
-                "x": "Collison说：“…我们5月在Sessions上发布了一大堆内容，然后直到9月，它才基本上开始直线上升。”他没有给出具体数字。"
+                "x": "这一规模是2025年12月首轮50万美元的两倍。公告未说明收入分成、每个应用的分配额或计划的持续时间。"
               },
               {
                 "t": "p",
-                "x": "这番话出现在三人讨论Meta的AI助手Muse及其按指令购买商品的能力时。Amazon最近禁止Muse在其网站上购物；Zuckerberg表示，屏蔽它的公司很可能会后悔。"
+                "x": "CEO Andrea Tortella表示：“很多用户就是不愿意为订阅付费。”他指出每一次交互背后都有token成本。"
+              },
+              {
+                "t": "p",
+                "x": "广告依据对话内容而非用户画像进行匹配，并以带有“清晰披露”的原生赞助形式展示，以便与AI的自然回答区分开来。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Stripe: el comercio agéntico\nse disparó en septiembre",
-          "body": "John Collison dijo que el comercio agéntico en Stripe empezó a dispararse en septiembre, tras sus anuncios de mayo.",
-          "mini_headline": "Las ventas con agentes de Stripe despegan",
+          "headline": "Thrad destina $1M a anuncios\nen chats de apps de IA",
+          "body": "El Monetization Fund II de Thrad dirige hasta 1 millón de dólares a apps de IA que prueben anuncios en el chat.",
+          "mini_headline": "Thrad financia anuncios en chats de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Z6XWZRh9X-SAxHQd0QPkyfHkEWdcrpwjiOLSjkVSU4k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-                "cap": "John Collison, presidente de Stripe. Getty Images Entertainment via Getty Images"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+                "cap": "Thrad duplica a $1m el gasto en anuncios dentro del chat para apps de IA, representado como una moneda que cae en una burbuja de chat"
               },
               {
                 "t": "p",
-                "x": "El presidente de Stripe, John Collison, afirmó en su pódcast Cheeky Pint, en una conversación con el CEO de Meta Platforms, Mark Zuckerberg, y el director de AI, Alexandr Wang, que el comercio agéntico en Stripe aumentó con fuerza a partir de septiembre."
+                "x": "Thrad, una empresa de San Francisco que coloca mensajes patrocinados dentro de conversaciones de chat con IA, abrió Monetization Fund II, un programa continuo que dirige hasta 1 millón de dólares de inversión de anunciantes, a través de su DSP, hacia apps de IA de consumo dispuestas a probar anuncios. No hay intercambio de participaciones ni se paga ninguna subvención en efectivo."
               },
               {
                 "t": "p",
-                "x": "“…hicimos un montón de anuncios en Sessions en mayo, y luego solo a partir de septiembre empezó básicamente a crecer en vertical”, dijo Collison. No dio cifras concretas."
+                "x": "Duplica la primera ronda de 500.000 dólares de diciembre de 2025. El anuncio no indica el reparto de ingresos, la asignación por app ni la duración del programa."
               },
               {
                 "t": "p",
-                "x": "El comentario surgió mientras los tres hablaban de Muse, el asistente de AI de Meta, y de su capacidad para comprar productos cuando se le ordena. Amazon prohibió hace poco que Muse compre en su sitio; Zuckerberg dijo que las empresas que lo bloqueen probablemente se arrepentirán."
+                "x": "\"Muchos usuarios simplemente no pagarán una suscripción\", dijo el CEO Andrea Tortella, en referencia a los costes en tokens detrás de cada interacción."
+              },
+              {
+                "t": "p",
+                "x": "Los anuncios se asocian al tema de la conversación y no a un perfil de usuario, y se muestran como ubicaciones patrocinadas nativas con una \"divulgación clara\" que los separa de las respuestas orgánicas de la IA."
               }
             ]
           }

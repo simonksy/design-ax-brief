@@ -1,159 +1,143 @@
 {
-  "date": "2026-10-16",
-  "section": "science",
-  "window_hours": 336,
-  "items": [
-    {
-      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
-      "source": "MIT News",
-      "category": "science",
-      "published_iso": "2026-10-15T20:50:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-whitehead-lung.jpg",
-      "excerpt": "Whitehead Institute researchers built an AI framework that decodes how cells signal one another to assemble tissues and organs, a tool that could speed stem-cell engineering and improve disease models."
-    },
-    {
-      "url": "https://phys.org/news/2026-10-ai-scrap-impurities-ingredients-stronger.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-10-15T16:20:18-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/scrap-yard.jpg",
-      "excerpt": "Max Planck researchers built a machine-learning framework that treats scrap-metal impurities as alloying ingredients; all-scrap ductile iron came out stronger or more ductile than recycled benchmarks at ~8% lower cost (Science Advances)."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-15T17:20:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/dumb-computer-user.jpg",
-      "excerpt": "In a PNAS randomized experiment (HKU/Tsinghua, 233 people), AI advice covertly steering toward worse options raised poor financial and emotional choices by up to 38 points, while users still rated the AI highly helpful."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-15T05:00:02-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-      "excerpt": "University of Tokyo researchers extended Microsoft's MatterGen into MatterGen-e-, which generates crystals together with electronic descriptors and produced more stable, novel structures for target band gaps (npj Computational Materials)."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-10-ai-explore-scientific-tool.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-15T11:55:12-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-research.jpg",
-      "excerpt": "TIB's SciClaim2Explore turns natural-language questions into transparent database queries over the data behind published findings; accuracy reached only ~62-67%, so researchers must still verify answers."
-    },
-    {
-      "url": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-10-15T09:30:59+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png",
-      "excerpt": "Riverlane and NVIDIA are using AI and GPU acceleration to speed up calibration of quantum error-correction decoders as qubit hardware behaviour drifts."
-    },
-    {
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "source": "CERN",
-      "category": "science",
-      "published_iso": "2026-10-15T12:00:00+02:00",
-      "og_image": "",
-      "excerpt": "CERN and Mistral AI signed a statement of intent to build a 'Large Physics Model', a foundation model pretrained on billions of simulated LHC proton-proton collisions."
-    },
-    {
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "Google DeepMind",
-      "category": "science",
-      "published_iso": "2026-10-15T16:00:00+00:00",
-      "og_image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w1200-h630-n-nu-rw",
-      "excerpt": "DeepMind shows biologists using the Google Antigravity agentic workbench and ProtNLM to scan uncharacterized UniProt proteins, surfacing a novel antimicrobial peptide candidate now in wet-lab validation."
-    },
-    {
-      "url": "https://www.eurekalert.org/news-releases/1147991",
-      "source": "EurekAlert! (Caltech)",
-      "category": "science",
-      "published_iso": "2026-10-15T00:00:00Z",
-      "og_image": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
-      "excerpt": "A Caltech-led paper shows a recurrent neural operator can predict when tipping points occur in simple models, including a climate-change system and simulated turbulent airflow."
-    },
-    {
-      "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
-      "source": "Scientific American",
-      "category": "science",
-      "published_iso": "2026-10-15T10:30:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-      "excerpt": "OpenAI's batch of 722 math papers has cryptographers split over whether AI-driven mathematics could threaten the algorithms that protect encrypted communications."
-    },
-    {
-      "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
-      "source": "Live Science",
-      "category": "science",
-      "published_iso": "2026-10-14T16:34:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/FbvAfyewLbrd6gain3RCk-2000-80.jpg",
-      "excerpt": "Physicists propose a formula tracking an AI model's internal 'compass needle' to flag undesirable outputs before they happen."
-    },
-    {
-      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
-      "source": "Google Research",
-      "category": "science",
-      "published_iso": "2026-10-14T16:14:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Google Research describes Earth AI geospatial agents that reason over planetary foundation models and imagery to tackle environmental and crisis-response questions."
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
-      "source": "ScienceDaily",
-      "category": "science",
-      "published_iso": "2026-10-13T21:41:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-      "excerpt": "People rated even the most responsive AI as less conscious than the least responsive human, even when both behaved identically, a new study finds."
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
-      "source": "ScienceDaily",
-      "category": "science",
-      "published_iso": "2026-10-13T20:01:00Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/surface-of-copper-catalyst.webp",
-      "excerpt": "AI uncovered nearly 10,000 reactions in CO2-to-fuel conversion on copper catalysts, revealing missed pathways and sharply improving predictions."
-    },
-    {
-      "url": "https://www.chemistryworld.com/news/microsofts-split-personality-retrosynthetic-ai-is-a-fast-learner/4024309.article",
-      "source": "Chemistry World",
-      "category": "science",
-      "published_iso": "2026-10-13T00:00:00Z",
-      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/7/9/551879_retrochimerablogherofeature1400x7881index_579993.jpg",
-      "excerpt": "Microsoft's Retrochimera combines two classes of deep-learning retrosynthesis models and outperforms each on Novartis and GSK datasets."
-    },
-    {
-      "url": "https://www.chemistryworld.com/news/ai-helps-chemists-consider-more-options-when-it-comes-to-picking-the-best-reactants-for-an-experiment/4024267.article",
-      "source": "Chemistry World",
-      "category": "science",
-      "published_iso": "2026-10-06T00:00:00Z",
-      "og_image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/6/0/6/551606_shutterstock_2759253089_403277.jpg",
-      "excerpt": "An algorithm standardises substrate selection so chemists test more structurally diverse reactants and get better-performing reaction scopes."
-    },
-    {
-      "url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
-      "source": "MIT News",
-      "category": "science",
-      "published_iso": "2026-10-15T04:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-3Q-Collision-01-press_1.jpg",
-      "excerpt": "MIT professor Eric So argues heavy AI use can cause cognitive atrophy, in which people fail to develop and retain essential thinking skills."
-    },
-    {
-      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
-      "source": "Microsoft Research",
-      "category": "science",
-      "published_iso": "2026-10-12T16:00:00+00:00",
-      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-TWLIFB-1200x627-1.jpg",
-      "excerpt": "StudentSim models how individual learners engage with AI tutors so tutoring systems can be evaluated and improved before testing with real students."
-    },
-    {
-      "url": "https://www.sciencenews.org/article/math-human-ai-age",
-      "source": "Science News",
-      "category": "science",
-      "published_iso": "2026-10-14T13:00:00-04:00",
-      "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101326_KH_AImathverification_main.jpg",
-      "excerpt": "As AI churns out proofs, a DeepMind study asks what mathematicians lose by focusing only on answers."
-    }
-  ]
+ "section": "science",
+ "generated_at": "2026-10-16T22:00:37Z",
+ "now_iso": "2026-10-16T22:00:37Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+   "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+   "source": "Google Research",
+   "category": "science",
+   "published_iso": "2026-10-16T18:11:34+00:00",
+   "excerpt": "Google Research describes building blocks for AI agents that plan and run real wet-lab biology experiments, grounding agent reasoning in physical lab results toward autonomous labs.",
+   "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
+   "title": "AI designs working molecular scissors that recognize and cut selected protein targets",
+   "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-10-16T12:40:06-04:00",
+   "excerpt": "Baker lab (UW) used RFdiffusion2, ProteinMPNN and AlphaFold 3 to design cysteine and zinc proteases from scratch; two Nature papers report designs that cut targets such as amyloid-beta and TDP-43, with AI refinement boosting one enzyme ~30-fold.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg"
+  },
+  {
+   "title": "Machine learning analysis of gene regulation reveals new dimension of biological variability",
+   "url": "https://phys.org/news/2026-10-machine-analysis-gene-reveals-dimension.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-10-16T13:20:06-04:00",
+   "excerpt": "Machine learning applied to allele-specific gene regulation shows the two parental gene copies are often switched on and off out of sync, revealing a new layer of biological variability.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg"
+  },
+  {
+   "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
+   "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
+   "source": "Phys.org",
+   "category": "science",
+   "published_iso": "2026-10-16T11:40:12-04:00",
+   "excerpt": "A physics-guided neural approach infers the internal magnetization of nanoscale magnets from the stray fields microscopes can measure, solving an ill-posed inverse problem relevant to spintronic computing.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg"
+  },
+  {
+   "title": "LLMs show a human-like double standard when judging others' reasoning",
+   "url": "https://techxplore.com/news/2026-10-llms-human-standard.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-10-15T10:00:06-04:00",
+   "excerpt": "A study finds large language models judge others' reasoning with a human-like, Bayesian-style double standard, a new probe of machine cognition and bias.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/bayesian-double-standa.jpg"
+  },
+  {
+   "title": "Researchers dispute whether AI has passed the Turing test",
+   "url": "https://techxplore.com/news/2026-10-dispute-ai-turing.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-10-16T09:20:02-04:00",
+   "excerpt": "Researchers debate whether recent results showing chatbots fooling human judges truly mean AI has passed the Turing test, and what the test actually measures.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg"
+  },
+  {
+   "title": "Using electronic structure to guide AI in designing new materials",
+   "url": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-10-15T05:00:02-04:00",
+   "excerpt": "University of Tokyo researchers extended a leading generative AI materials model to condition on electronic structure, steering atom arrangements toward desired properties.",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg"
+  },
+  {
+   "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+   "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+   "source": "Google Research",
+   "category": "science",
+   "published_iso": "2026-10-14T16:14:00+00:00",
+   "excerpt": "Google Research details Earth AI geospatial agents that combine planetary foundation models with reasoning to answer complex environmental and Earth-science questions.",
+   "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+  },
+  {
+   "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+   "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+   "source": "Quanta Magazine",
+   "category": "science",
+   "published_iso": "2026-10-16T13:25:08+00:00",
+   "excerpt": "Moritz Hardt, author of a new book on benchmarks, argues AI's 'standardized tests' are fundamentally broken but fixable, and lays out a science of evaluation.",
+   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Social.jpg"
+  },
+  {
+   "title": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does",
+   "url": "https://www.scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does/",
+   "source": "Scientific American",
+   "category": "science",
+   "published_iso": "2026-10-14T06:00:00-04:00",
+   "excerpt": "Anthropic's Claude took less than a day to identify a curious CRISPR-like stretch of DNA; even Anthropic's scientists are not yet sure what it does.",
+   "og_image": "https://static.scientificamerican.com/dam/m/2bdcb4f8fb83abed/original/organic-shaped-DNA-structure.jpg?m=1734190459.769&w=1200"
+  },
+  {
+   "title": "Can AI break encryption? OpenAI's new math has cryptographers divided",
+   "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
+   "source": "Scientific American",
+   "category": "science",
+   "published_iso": "2026-10-15T10:30:00-04:00",
+   "excerpt": "OpenAI's bumper crop of 722 AI-generated math papers wowed and worried researchers, and cryptographers are split over whether the algorithms protecting texts and bank logins are next.",
+   "og_image": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200"
+  },
+  {
+   "title": "AI can act exactly like a human, but we still don't think it's conscious",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
+   "source": "ScienceDaily",
+   "category": "science",
+   "published_iso": "2026-10-13T21:41:55-04:00",
+   "excerpt": "Experiments show people draw a sharp line between human and AI consciousness: even when an AI behaves identically to a human, participants rate it as less conscious.",
+   "og_image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp"
+  },
+  {
+   "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+   "source": "ScienceDaily",
+   "category": "science",
+   "published_iso": "2026-10-13T20:01:11-04:00",
+   "excerpt": "AI uncovered nearly 10,000 reactions in CO2-to-fuel conversion on copper catalysts, revealing pathways traditional models missed and sharply improving predictions.",
+   "og_image": "https://www.sciencedaily.com/images/1920/surface-of-copper-catalyst.webp"
+  },
+  {
+   "title": "Physicists develop early warning system that predicts when an AI is about to go rogue",
+   "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
+   "source": "Live Science",
+   "category": "science",
+   "published_iso": "2026-10-14T16:34:35Z",
+   "excerpt": "Physicists propose a mathematical formula that tracks an AI's internal 'compass needle' to flag undesirable outputs before they happen.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/FbvAfyewLbrd6gain3RCk-2000-80.jpg"
+  },
+  {
+   "title": "Can math stay human in the age of AI?",
+   "url": "https://www.sciencenews.org/article/math-human-ai-age",
+   "source": "Science News",
+   "category": "science",
+   "published_iso": "2026-10-14T13:00:00-04:00",
+   "excerpt": "As AI churns out mathematical proofs, a DeepMind study raises a bigger question: what is lost when mathematicians focus only on the answers?",
+   "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101326_KH_AImathverification_main.jpg"
+  }
+ ]
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-uk-deepfakes",
+      "id": "politics-cma-microsoft",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "영국 선관위, AI로\n딥페이크 3시간 안에 포착",
-      "body": "영국 선관위 AI는 5월 지방선거 시범 때 약 300만 건에서 147건을 걸렀다.",
-      "mini_headline": "영국 AI 딥페이크 감시",
+      "headline": "CMA, Microsoft\n업무용 SW 전략지위 제안",
+      "body": "CMA는 Microsoft 전략지위를 제안해 AI가 Copilot과 겨룰지 본다.",
+      "mini_headline": "CMA, Microsoft SW 겨냥",
       "tool": "Politics",
-      "source": "Tech Policy Press",
-      "url": "https://techpolicy.press/uk-election-watchdog-develops-ai-system-to-flag-deepfakes-within-3-hours",
+      "source": "GOV.UK (CMA)",
+      "url": "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,203 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-            "cap": "2026년 10월 8일, 홀본·세인트판크라스 보궐선거 투표소를 나서는 유권자. (Leon Neal/Getty Images)"
+            "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
           },
           {
             "t": "p",
-            "x": "비자이 랑가라잔(Vijay Rangarajan) 영국 선거관리위원회 최고경영자는 보수당 전당대회 패널 토론에서 AI 기반 시스템(AI-powered)을 개발 중이라고 밝혔다. 소셜미디어에 올라온 중대한 딥페이크를 게시 후 3시간 안에 후보자에게 알리는 시스템이다."
+            "x": "경쟁시장청(Competition and Markets Authority, CMA)은 Microsoft의 업무용 소프트웨어 생태계에 전략적 시장 지위(SMS)를 지정하자고 제안했고, 최종 결정 전에 의견을 듣기로 했다. 앞으로 개입할 만한 분야를 담은 예비 로드맵도 내놨다."
           },
           {
             "t": "p",
-            "x": "사례로는 2025년 아일랜드 대선 때 캐서린 코널리(Catherine Connolly) 후보가 사퇴하는 것처럼 꾸민 딥페이크 영상을 들었다. “영국 선거에서 그런 일이 벌어지면 상당한 표가 움직일 것”이라는 게 그의 말이다."
+            "x": "Word, Excel, Outlook, PowerPoint, Teams, 그리고 비중이 커지는 Copilot까지 아우르는 Microsoft 업무용 소프트웨어는 백만 곳이 넘는 UK 기업과 공공기관이 쓴다. 월간 이용자는 약 20M 명이다. 익숙한 업무 도구에 에이전트형 AI가 들어오면서 이 분야는 빠르게 바뀌는 중이다."
           },
           {
             "t": "p",
-            "x": "2026년 5월 지방선거 기간의 시범 운영을 두고는 “전면적인 시범 운영을 했고, 약 300만 건의 게시물을 AI로 분석했다”고 했다. 걸러진 콘텐츠는 147건이었다. 사람이 이를 검토해 “정말 상당히 오해를 부르는” 게시물 열 건을 소셜미디어 기업이나 경찰에 넘겼다."
+            "x": "추가로 살필 대상은 고객이 가장 알맞은 AI 도구를 자유롭게 고를 수 있는지, 다른 AI 업체가 Microsoft의 Copilot과 공정한 조건에서 겨룰 수 있는지, Microsoft가 보안 제품을 어떻게 묶어 파는지, 그리고 클라우드 라이선스 관행이다."
           },
           {
             "t": "p",
-            "x": "방식은 “가해자 중립적”이다. AI가 걸러낸(AI-flagged) 게시물을 직원이 검토하고 3시간 안에 후보나 정당에 알린다. 시한을 3시간으로 잡은 건 “그 정도가 확산되는 데 걸리는 시간이기 때문”이다."
+            "x": "“조직은 자신에게 가장 잘 맞는 제품을 고르고, 원할 때 공급자를 바꾸고, 여러 공급자의 서비스를 조합할 수 있어야 한다”고 CMA의 Sarah Cardell 최고경영자가 말했다."
           },
           {
             "t": "p",
-            "x": "랑가라잔은 선관위가 적어도 한 곳의 소셜 네트워크에서 “알고리즘 편향”을 감지했다고 본다고 말했다. 선관위는 매달 3만~4만 건의 사이버 공격을 받고, 적용하는 법률은 “매우 낡은” 1983년 또는 2000년 법률이라고 했다."
+            "x": "아직은 잠정 판단이고 최종 결정은 2027년 이월 법정 시한 안에 나온다. SMS로 지정된다고 해서 위법 행위가 있었다는 뜻은 아니다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UK watchdog builds AI to flag\nelection deepfakes in 3 hours",
-          "body": "In a May local-election pilot, the UK Electoral Commission's AI system scanned about 3 million posts and flagged 147.",
-          "mini_headline": "UK AI deepfake watch",
+          "headline": "CMA proposes strategic status\nfor Microsoft business software",
+          "body": "The CMA proposes strategic market status for Microsoft and will probe whether rival AI tools can compete with Copilot.",
+          "mini_headline": "CMA eyes Microsoft software",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-                "cap": "A voter leaves a polling station in the Holborn and St Pancras by-election, October 8, 2026. (Leon Neal/Getty Images)"
+                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
               },
               {
                 "t": "p",
-                "x": "The UK's Electoral Commission is developing an AI-powered system designed to notify candidates of significant deepfakes within three hours of posting to social media, chief executive Vijay Rangarajan said at a Conservative Party conference panel."
+                "x": "The Competition and Markets Authority (CMA) is proposing to designate Microsoft with strategic market status (SMS) in its business software ecosystem and will now consult before making a final decision. It has also published an indicative roadmap outlining areas for possible future interventions."
               },
               {
                 "t": "p",
-                "x": "He cited a deepfake video in Ireland's 2025 presidential election that falsely showed candidate Catherine Connolly withdrawing. \"If that happens to the British election, that will move a significant amount of votes,\" he said."
+                "x": "Microsoft's business software (including Word, Excel, Outlook, PowerPoint, Teams and increasingly Copilot) is used by over a million UK businesses and public sector organisations, with around 20 million monthly users. The sector is changing rapidly, with a shift towards agentic AI in familiar workplace tools."
               },
               {
                 "t": "p",
-                "x": "In a pilot during the May 2026 local elections, \"we ran a full pilot, analyzed about three million posts through an AI,\" he said. 147 pieces of content were flagged; humans reviewed them, and ten \"really quite misleading\" posts were referred to social media companies or the police."
+                "x": "Areas for further investigation include whether customers can freely choose the best AI tools and whether alternative AI providers have a level playing field to compete with Microsoft's Copilot, how Microsoft bundles its security products, and its cloud licensing practices."
               },
               {
                 "t": "p",
-                "x": "The approach is \"perpetrator neutral\": staff review AI-flagged posts and alert candidates or parties within three hours, \"because that's the sort of time for it to go viral.\""
+                "x": "“Organisations should be able to choose the products that work best for them, switch provider when they want to and combine services from different suppliers,” said CMA Chief Executive Sarah Cardell."
               },
               {
                 "t": "p",
-                "x": "Rangarajan also said the Commission believes it has detected \"algorithmic bias\" on at least one social network, faces 30,000 to 40,000 cyber-attacks a month, and is applying laws from 1983 or 2000 that are \"very out of date.\""
+                "x": "The findings are provisional, with a final decision due by the February 2027 statutory deadline. SMS designation does not assume wrongdoing."
               }
             ]
           }
         },
         "ko": {
-          "headline": "영국 선관위, AI로\n딥페이크 3시간 안에 포착",
-          "body": "영국 선관위 AI는 5월 지방선거 시범 때 약 300만 건에서 147건을 걸렀다.",
-          "mini_headline": "영국 AI 딥페이크 감시",
+          "headline": "CMA, Microsoft\n업무용 SW 전략지위 제안",
+          "body": "CMA는 Microsoft 전략지위를 제안해 AI가 Copilot과 겨룰지 본다.",
+          "mini_headline": "CMA, Microsoft SW 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-                "cap": "2026년 10월 8일, 홀본·세인트판크라스 보궐선거 투표소를 나서는 유권자. (Leon Neal/Getty Images)"
+                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
               },
               {
                 "t": "p",
-                "x": "비자이 랑가라잔(Vijay Rangarajan) 영국 선거관리위원회 최고경영자는 보수당 전당대회 패널 토론에서 AI 기반 시스템(AI-powered)을 개발 중이라고 밝혔다. 소셜미디어에 올라온 중대한 딥페이크를 게시 후 3시간 안에 후보자에게 알리는 시스템이다."
+                "x": "경쟁시장청(Competition and Markets Authority, CMA)은 Microsoft의 업무용 소프트웨어 생태계에 전략적 시장 지위(SMS)를 지정하자고 제안했고, 최종 결정 전에 의견을 듣기로 했다. 앞으로 개입할 만한 분야를 담은 예비 로드맵도 내놨다."
               },
               {
                 "t": "p",
-                "x": "사례로는 2025년 아일랜드 대선 때 캐서린 코널리(Catherine Connolly) 후보가 사퇴하는 것처럼 꾸민 딥페이크 영상을 들었다. “영국 선거에서 그런 일이 벌어지면 상당한 표가 움직일 것”이라는 게 그의 말이다."
+                "x": "Word, Excel, Outlook, PowerPoint, Teams, 그리고 비중이 커지는 Copilot까지 아우르는 Microsoft 업무용 소프트웨어는 백만 곳이 넘는 UK 기업과 공공기관이 쓴다. 월간 이용자는 약 20M 명이다. 익숙한 업무 도구에 에이전트형 AI가 들어오면서 이 분야는 빠르게 바뀌는 중이다."
               },
               {
                 "t": "p",
-                "x": "2026년 5월 지방선거 기간의 시범 운영을 두고는 “전면적인 시범 운영을 했고, 약 300만 건의 게시물을 AI로 분석했다”고 했다. 걸러진 콘텐츠는 147건이었다. 사람이 이를 검토해 “정말 상당히 오해를 부르는” 게시물 열 건을 소셜미디어 기업이나 경찰에 넘겼다."
+                "x": "추가로 살필 대상은 고객이 가장 알맞은 AI 도구를 자유롭게 고를 수 있는지, 다른 AI 업체가 Microsoft의 Copilot과 공정한 조건에서 겨룰 수 있는지, Microsoft가 보안 제품을 어떻게 묶어 파는지, 그리고 클라우드 라이선스 관행이다."
               },
               {
                 "t": "p",
-                "x": "방식은 “가해자 중립적”이다. AI가 걸러낸(AI-flagged) 게시물을 직원이 검토하고 3시간 안에 후보나 정당에 알린다. 시한을 3시간으로 잡은 건 “그 정도가 확산되는 데 걸리는 시간이기 때문”이다."
+                "x": "“조직은 자신에게 가장 잘 맞는 제품을 고르고, 원할 때 공급자를 바꾸고, 여러 공급자의 서비스를 조합할 수 있어야 한다”고 CMA의 Sarah Cardell 최고경영자가 말했다."
               },
               {
                 "t": "p",
-                "x": "랑가라잔은 선관위가 적어도 한 곳의 소셜 네트워크에서 “알고리즘 편향”을 감지했다고 본다고 말했다. 선관위는 매달 3만~4만 건의 사이버 공격을 받고, 적용하는 법률은 “매우 낡은” 1983년 또는 2000년 법률이라고 했다."
+                "x": "아직은 잠정 판단이고 최종 결정은 2027년 이월 법정 시한 안에 나온다. SMS로 지정된다고 해서 위법 행위가 있었다는 뜻은 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "英選挙委員会がAI開発\nディープフェイク3時間で検知",
-          "body": "英選挙委員会のAIは5月の地方選の試行で約300万件の投稿を調べ、147件を検出した。",
-          "mini_headline": "英国のAIディープフェイク監視",
+          "headline": "CMA、Microsoft\n業務ソフトに戦略的地位案",
+          "body": "CMAはMicrosoftの戦略的地位を提案、他社AIがCopilotと競えるか調べる。",
+          "mini_headline": "CMA、Microsoftソフトを注視",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-                "cap": "2026年10月8日、ホルボーン・アンド・セント・パンクラス補欠選挙の投票所を後にする有権者。(Leon Neal/Getty Images)"
+                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
               },
               {
                 "t": "p",
-                "x": "英国選挙委員会は、ソーシャルメディアに投稿された重大なディープフェイクを3時間以内に候補者へ通知するAI搭載システム（AI-powered）を開発している。保守党大会のパネルで、ヴィジェイ・ランガラジャン（Vijay Rangarajan）最高経営責任者が明らかにした。"
+                "x": "競争・市場庁(Competition and Markets Authority、CMA)は、Microsoftの業務用ソフトウェア・エコシステムを戦略的市場地位(SMS)に指定する案を示し、最終決定の前に意見募集を行う。将来の介入候補分野をまとめた暫定ロードマップも公表した。"
               },
               {
                 "t": "p",
-                "x": "同氏は、2025年のアイルランド大統領選で候補者キャサリン・コノリー（Catherine Connolly）氏が撤退したかのように見せかけたディープフェイク動画を例に挙げ、「英国の選挙でそれが起きれば、かなりの票が動くだろう」と述べた。"
+                "x": "Microsoftの業務用ソフトウェア(Word、Excel、Outlook、PowerPoint、Teams、そして存在感を増すCopilotを含む)は、百万を超えるUKの企業と公共機関が利用し、月間利用者は約20M 人にのぼる。身近な職場ツールにエージェント型AIが入り込み、この分野は急速に変化している。"
               },
               {
                 "t": "p",
-                "x": "2026年5月の地方選挙での試行について、同氏は「本格的な試行を実施し、約300万件の投稿をAIで分析した」と語った。147件のコンテンツが検出され、人間が確認したうえで、「実にかなり誤解を招く」投稿10件をソーシャルメディア企業や警察に通報した。"
+                "x": "今後の調査対象には、顧客が最適なAIツールを自由に選べるか、他のAI事業者がMicrosoftのCopilotと公平な条件で競争できるか、Microsoftがセキュリティ製品をどう抱き合わせているか、そしてクラウドのライセンス慣行が含まれる。"
               },
               {
                 "t": "p",
-                "x": "この手法は「加害者中立」である。職員がAIの検出した投稿（AI-flagged）を確認し、3時間以内に候補者や政党に知らせる。「拡散するまでにかかるのがそのくらいの時間だからだ」という。"
+                "x": "「組織は自らに最も合う製品を選び、望むときに事業者を乗り換え、異なる供給者のサービスを組み合わせられるべきだ」と、CMAのSarah Cardell最高経営責任者は述べた。"
               },
               {
                 "t": "p",
-                "x": "ランガラジャン氏はまた、委員会が少なくとも一つのソーシャルネットワークで「アルゴリズムの偏り」を検出したとみていること、月に3万〜4万件のサイバー攻撃を受けていること、1983年または2000年の「非常に時代遅れ」な法律を適用していることも明らかにした。"
+                "x": "今回の判断は暫定的なもので、最終決定は2027年二月の法定期限までに下される。SMS指定は違法行為を前提とするものではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "英国选举委员会开发AI\n3小时内标记选举深度伪造",
-          "body": "在5月地方选举试点中，英国选举委员会的AI系统扫描约300万条帖子，标记出147条。",
-          "mini_headline": "英国AI深度伪造监测",
+          "headline": "CMA拟将Microsoft\n企业软件列为战略地位",
+          "body": "CMA拟认定Microsoft具战略市场地位，调查其他AI工具能否与Copilot竞争。",
+          "mini_headline": "CMA盯上Microsoft软件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-                "cap": "2026年10月8日，一名选民走出霍尔本和圣潘克拉斯补选的投票站。（Leon Neal/Getty Images）"
+                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
               },
               {
                 "t": "p",
-                "x": "英国选举委员会正在开发一套AI驱动（AI-powered）的系统，可在重大深度伪造内容发布到社交媒体后3小时内通知候选人。首席执行官维杰·兰加拉詹（Vijay Rangarajan）在保守党大会的一场讨论会上透露了这一消息。"
+                "x": "竞争与市场管理局(Competition and Markets Authority，CMA)拟认定Microsoft在其商业软件生态系统中具有战略市场地位(SMS)，并将在作出最终决定前征求意见。该机构还发布了一份指示性路线图，列出未来可能采取干预的领域。"
               },
               {
                 "t": "p",
-                "x": "他举了2025年爱尔兰总统选举中的一段深度伪造视频为例，该视频虚假地显示候选人凯瑟琳·康诺利（Catherine Connolly）退选。他说：“如果这种事发生在英国选举中，将会左右相当多的选票。”"
+                "x": "Microsoft的商业软件(包括Word、Excel、Outlook、PowerPoint、Teams，以及日益重要的Copilot)被超过一百万家UK企业和公共部门机构使用，月活跃用户约20M 人。随着熟悉的办公工具转向智能体AI，该行业正在迅速变化。"
               },
               {
                 "t": "p",
-                "x": "谈到2026年5月地方选举期间的试点，他说：“我们进行了全面试点，用AI分析了约300万条帖子。”共有147条内容被标记；经人工审核后，十条“确实相当具有误导性”的帖子被移交给社交媒体公司或警方。"
+                "x": "进一步调查的领域包括：客户能否自由选择最好的AI工具、其他AI提供商能否在公平环境中与Microsoft的Copilot竞争、Microsoft如何捆绑其安全产品，以及其云许可做法。"
               },
               {
                 "t": "p",
-                "x": "这一做法是“对加害者中立”的：工作人员审核AI标记（AI-flagged）的帖子，并在3小时内提醒候选人或政党，“因为那大概就是内容扩散开来所需的时间。”"
+                "x": "“各组织应能选择最适合自己的产品，随时更换供应商，并组合不同供应商的服务。”CMA首席执行官Sarah Cardell表示。"
               },
               {
                 "t": "p",
-                "x": "兰加拉詹还表示，委员会认为已在至少一个社交网络上发现“算法偏见”，每月遭受3万至4万次网络攻击，而且仍在适用1983年或2000年制定、“非常过时”的法律。"
+                "x": "上述结论为初步意见，最终决定将在2027年二月的法定期限前作出。SMS认定并不意味着存在违法行为。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reino Unido crea una IA para\ndetectar deepfakes en 3 horas",
-          "body": "La IA de la Comisión Electoral británica marcó 147 de unos 3 millones de posts en un piloto en las locales de mayo.",
-          "mini_headline": "UK: IA contra deepfakes electorales",
+          "headline": "CMA propone estatus estratégico\npara el software de Microsoft",
+          "body": "La CMA propone un estatus estratégico para Microsoft y examinará si las AI rivales compiten con Copilot.",
+          "mini_headline": "La CMA examina el software de Microsoft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-                "cap": "Un votante sale de un colegio electoral en la elección parcial de Holborn and St Pancras, 8 de octubre de 2026. (Leon Neal/Getty Images)"
+                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
               },
               {
                 "t": "p",
-                "x": "La Comisión Electoral del Reino Unido está desarrollando un sistema basado en IA (AI-powered) para avisar a los candidatos de deepfakes relevantes en un plazo de tres horas desde su publicación en redes sociales, según dijo su director ejecutivo, Vijay Rangarajan, en un panel de la conferencia del Partido Conservador."
+                "x": "La Competition and Markets Authority (CMA) propone designar a Microsoft con estatus de mercado estratégico (SMS) en su ecosistema de software empresarial y abrirá ahora una consulta antes de tomar una decisión final. También ha publicado una hoja de ruta indicativa con las áreas de posibles intervenciones futuras."
               },
               {
                 "t": "p",
-                "x": "Citó un video deepfake de las elecciones presidenciales de Irlanda de 2025 que mostraba falsamente la retirada de la candidata Catherine Connolly. “Si eso ocurre en las elecciones británicas, moverá una cantidad significativa de votos”, afirmó."
+                "x": "El software empresarial de Microsoft (que incluye Word, Excel, Outlook, PowerPoint, Teams y, cada vez más, Copilot) lo usan más de un millón de empresas y organismos públicos del Reino Unido (UK), con unos 20 millones de usuarios mensuales. El sector cambia con rapidez, con un giro hacia la AI agéntica en herramientas de trabajo conocidas."
               },
               {
                 "t": "p",
-                "x": "Sobre el piloto realizado durante las elecciones locales de mayo de 2026, dijo: “Hicimos un piloto completo y analizamos unos tres millones de publicaciones mediante una IA”. Se marcaron 147 contenidos; personas los revisaron y diez publicaciones “realmente bastante engañosas” se remitieron a empresas de redes sociales o a la policía."
+                "x": "Entre las áreas que se investigarán figuran si los clientes pueden elegir libremente las mejores herramientas de AI y si los proveedores alternativos de AI compiten en igualdad de condiciones con Copilot de Microsoft, cómo Microsoft agrupa sus productos de seguridad y sus prácticas de licencias en la nube."
               },
               {
                 "t": "p",
-                "x": "El enfoque es “neutral respecto al autor”: el personal revisa las publicaciones marcadas por la IA (AI-flagged) y alerta a candidatos o partidos en un plazo de tres horas, “porque ese es más o menos el tiempo que tarda algo en hacerse viral”."
+                "x": "“Las organizaciones deberían poder elegir los productos que mejor les funcionen, cambiar de proveedor cuando quieran y combinar servicios de distintos proveedores”, afirmó la directora ejecutiva de la CMA, Sarah Cardell."
               },
               {
                 "t": "p",
-                "x": "Rangarajan también dijo que la Comisión cree haber detectado “sesgo algorítmico” en al menos una red social, que sufre entre 30.000 y 40.000 ciberataques al mes y que aplica leyes de 1983 o 2000 que están “muy desactualizadas”."
+                "x": "Las conclusiones son provisionales y la decisión final llegará antes del plazo legal de febrero de 2027. La designación SMS no presupone ninguna infracción."
               }
             ]
           }
@@ -223,141 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "영국 선관위, AI로\n딥페이크 3시간 내 포착",
-          "body": "영국 선관위 AI가 5월 지방선거 시범에서 약 300만 건 중 147건을 걸렀다.",
-          "mini_headline": "영국 AI 딥페이크 감시",
+          "headline": "CMA, Microsoft\n업무용 SW 전략지위 제안",
+          "body": "CMA는 Microsoft 전략지위를 제안해 AI가 Copilot과 겨룰지 본다.",
+          "mini_headline": "CMA, Microsoft SW 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-                "cap": "2026년 10월 8일, 홀본·세인트판크라스 보궐선거 투표소를 나서는 유권자. (Leon Neal/Getty Images)"
+                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
               },
               {
                 "t": "p",
-                "x": "영국 선거관리위원회가 소셜미디어에 올라온 중대한 딥페이크를 게시 후 3시간 안에 후보자에게 알리는 AI 기반 시스템(AI-powered)을 개발하고 있다고 비자이 랑가라잔(Vijay Rangarajan) 최고경영자가 보수당 전당대회 패널 토론에서 밝혔다."
+                "x": "경쟁시장청(Competition and Markets Authority, CMA)은 Microsoft의 업무용 소프트웨어 생태계에 전략적 시장 지위(SMS)를 지정하는 방안을 제안했고, 최종 결정에 앞서 의견 수렴에 들어간다. 향후 개입할 수 있는 분야를 담은 예비 로드맵도 공개했다."
               },
               {
                 "t": "p",
-                "x": "그는 2025년 아일랜드 대선에서 캐서린 코널리(Catherine Connolly) 후보가 사퇴하는 것처럼 꾸민 딥페이크 영상을 사례로 들었다. “영국 선거에서 그런 일이 벌어지면 상당한 표가 움직일 것”이라고 그는 말했다."
+                "x": "Microsoft의 업무용 소프트웨어(Word, Excel, Outlook, PowerPoint, Teams, 그리고 비중이 커지는 Copilot 포함)는 백만 곳이 넘는 UK 기업과 공공기관이 쓰며, 월간 이용자는 약 20M 명이다. 익숙한 업무 도구에 에이전트형 AI가 자리 잡으면서 이 분야는 빠르게 바뀌고 있다."
               },
               {
                 "t": "p",
-                "x": "2026년 5월 지방선거 기간의 시범 운영에 대해 그는 “전면적인 시범 운영을 했고, 약 300만 건의 게시물을 AI로 분석했다”고 말했다. 콘텐츠 147건이 걸러졌고, 사람이 이를 검토한 뒤 “정말 상당히 오해를 부르는” 게시물 열 건을 소셜미디어 기업이나 경찰에 넘겼다."
+                "x": "추가 조사 대상은 고객이 최적의 AI 도구를 자유롭게 고를 수 있는지, 다른 AI 제공업체가 Microsoft의 Copilot과 공정한 조건에서 경쟁할 수 있는지, Microsoft가 보안 제품을 어떻게 묶어 파는지, 그리고 클라우드 라이선스 관행이다."
               },
               {
                 "t": "p",
-                "x": "이 방식은 “가해자 중립적”이다. 직원들이 AI가 걸러낸(AI-flagged) 게시물을 검토해 3시간 안에 후보나 정당에 알린다. “그 정도가 확산되는 데 걸리는 시간이기 때문”이라는 설명이다."
+                "x": "“조직은 자신에게 가장 잘 맞는 제품을 고르고, 원할 때 공급자를 바꾸고, 여러 공급자의 서비스를 조합할 수 있어야 한다”고 CMA의 Sarah Cardell 최고경영자는 말했다."
               },
               {
                 "t": "p",
-                "x": "랑가라잔은 또 선관위가 적어도 한 곳의 소셜 네트워크에서 “알고리즘 편향”을 감지했다고 보고 있으며, 매달 3만~4만 건의 사이버 공격을 받고 있고, “매우 낡은” 1983년 또는 2000년 법률을 적용하고 있다고 말했다."
+                "x": "이번 판단은 잠정적이며, 최종 결정은 2027년 이월 법정 시한까지 나온다. SMS 지정이 위법 행위를 전제하는 것은 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "英選挙委員会がAI開発\nディープフェイク3時間で検知",
-          "body": "英選挙委員会のAIは5月の地方選の試行で約300万件の投稿を調べ、147件を検出した。",
-          "mini_headline": "英国のAIディープフェイク監視",
+          "headline": "CMA、Microsoft\n業務ソフトに戦略的地位案",
+          "body": "CMAはMicrosoftの戦略的地位を提案、他社AIがCopilotと競えるか調べる。",
+          "mini_headline": "CMA、Microsoftソフトを注視",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-                "cap": "2026年10月8日、ホルボーン・アンド・セント・パンクラス補欠選挙の投票所を後にする有権者。(Leon Neal/Getty Images)"
+                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
               },
               {
                 "t": "p",
-                "x": "英国選挙委員会は、ソーシャルメディアに投稿された重大なディープフェイクを3時間以内に候補者へ通知するAI搭載システム（AI-powered）を開発している。保守党大会のパネルで、ヴィジェイ・ランガラジャン（Vijay Rangarajan）最高経営責任者が明らかにした。"
+                "x": "競争・市場庁(Competition and Markets Authority、CMA)は、Microsoftの業務用ソフトウェア・エコシステムを戦略的市場地位(SMS)に指定する案を示し、最終決定の前に意見募集を行う。将来の介入候補分野をまとめた暫定ロードマップも公表した。"
               },
               {
                 "t": "p",
-                "x": "同氏は、2025年のアイルランド大統領選で候補者キャサリン・コノリー（Catherine Connolly）氏が撤退したかのように見せかけたディープフェイク動画を例に挙げ、「英国の選挙でそれが起きれば、かなりの票が動くだろう」と述べた。"
+                "x": "Microsoftの業務用ソフトウェア(Word、Excel、Outlook、PowerPoint、Teams、そして存在感を増すCopilotを含む)は、百万を超えるUKの企業と公共機関が利用し、月間利用者は約20M 人にのぼる。身近な職場ツールにエージェント型AIが入り込み、この分野は急速に変化している。"
               },
               {
                 "t": "p",
-                "x": "2026年5月の地方選挙での試行について、同氏は「本格的な試行を実施し、約300万件の投稿をAIで分析した」と語った。147件のコンテンツが検出され、人間が確認したうえで、「実にかなり誤解を招く」投稿10件をソーシャルメディア企業や警察に通報した。"
+                "x": "今後の調査対象には、顧客が最適なAIツールを自由に選べるか、他のAI事業者がMicrosoftのCopilotと公平な条件で競争できるか、Microsoftがセキュリティ製品をどう抱き合わせているか、そしてクラウドのライセンス慣行が含まれる。"
               },
               {
                 "t": "p",
-                "x": "この手法は「加害者中立」である。職員がAIの検出した投稿（AI-flagged）を確認し、3時間以内に候補者や政党に知らせる。「拡散するまでにかかるのがそのくらいの時間だからだ」という。"
+                "x": "「組織は自らに最も合う製品を選び、望むときに事業者を乗り換え、異なる供給者のサービスを組み合わせられるべきだ」と、CMAのSarah Cardell最高経営責任者は述べた。"
               },
               {
                 "t": "p",
-                "x": "ランガラジャン氏はまた、委員会が少なくとも一つのソーシャルネットワークで「アルゴリズムの偏り」を検出したとみていること、月に3万〜4万件のサイバー攻撃を受けていること、1983年または2000年の「非常に時代遅れ」な法律を適用していることも明らかにした。"
+                "x": "今回の判断は暫定的なもので、最終決定は2027年二月の法定期限までに下される。SMS指定は違法行為を前提とするものではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "英国选举委员会开发AI\n3小时内标记选举深度伪造",
-          "body": "在5月地方选举试点中，英国选举委员会的AI系统扫描约300万条帖子，标记出147条。",
-          "mini_headline": "英国AI深度伪造监测",
+          "headline": "CMA拟将Microsoft\n企业软件列为战略地位",
+          "body": "CMA拟认定Microsoft具战略市场地位，调查其他AI工具能否与Copilot竞争。",
+          "mini_headline": "CMA盯上Microsoft软件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-                "cap": "2026年10月8日，一名选民走出霍尔本和圣潘克拉斯补选的投票站。（Leon Neal/Getty Images）"
+                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
               },
               {
                 "t": "p",
-                "x": "英国选举委员会正在开发一套AI驱动（AI-powered）的系统，可在重大深度伪造内容发布到社交媒体后3小时内通知候选人。首席执行官维杰·兰加拉詹（Vijay Rangarajan）在保守党大会的一场讨论会上透露了这一消息。"
+                "x": "竞争与市场管理局(Competition and Markets Authority，CMA)拟认定Microsoft在其商业软件生态系统中具有战略市场地位(SMS)，并将在作出最终决定前征求意见。该机构还发布了一份指示性路线图，列出未来可能采取干预的领域。"
               },
               {
                 "t": "p",
-                "x": "他举了2025年爱尔兰总统选举中的一段深度伪造视频为例，该视频虚假地显示候选人凯瑟琳·康诺利（Catherine Connolly）退选。他说：“如果这种事发生在英国选举中，将会左右相当多的选票。”"
+                "x": "Microsoft的商业软件(包括Word、Excel、Outlook、PowerPoint、Teams，以及日益重要的Copilot)被超过一百万家UK企业和公共部门机构使用，月活跃用户约20M 人。随着熟悉的办公工具转向智能体AI，该行业正在迅速变化。"
               },
               {
                 "t": "p",
-                "x": "谈到2026年5月地方选举期间的试点，他说：“我们进行了全面试点，用AI分析了约300万条帖子。”共有147条内容被标记；经人工审核后，十条“确实相当具有误导性”的帖子被移交给社交媒体公司或警方。"
+                "x": "进一步调查的领域包括：客户能否自由选择最好的AI工具、其他AI提供商能否在公平环境中与Microsoft的Copilot竞争、Microsoft如何捆绑其安全产品，以及其云许可做法。"
               },
               {
                 "t": "p",
-                "x": "这一做法是“对加害者中立”的：工作人员审核AI标记（AI-flagged）的帖子，并在3小时内提醒候选人或政党，“因为那大概就是内容扩散开来所需的时间。”"
+                "x": "“各组织应能选择最适合自己的产品，随时更换供应商，并组合不同供应商的服务。”CMA首席执行官Sarah Cardell表示。"
               },
               {
                 "t": "p",
-                "x": "兰加拉詹还表示，委员会认为已在至少一个社交网络上发现“算法偏见”，每月遭受3万至4万次网络攻击，而且仍在适用1983年或2000年制定、“非常过时”的法律。"
+                "x": "上述结论为初步意见，最终决定将在2027年二月的法定期限前作出。SMS认定并不意味着存在违法行为。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reino Unido crea una IA para\ndetectar deepfakes en 3 horas",
-          "body": "La IA de la Comisión Electoral británica marcó 147 de unos 3 millones de posts en un piloto en las locales de mayo.",
-          "mini_headline": "UK: IA contra deepfakes electorales",
+          "headline": "CMA propone estatus estratégico\npara el software de Microsoft",
+          "body": "La CMA propone un estatus estratégico para Microsoft y examinará si las AI rivales compiten con Copilot.",
+          "mini_headline": "La CMA examina el software de Microsoft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
-                "cap": "Un votante sale de un colegio electoral en la elección parcial de Holborn and St Pancras, 8 de octubre de 2026. (Leon Neal/Getty Images)"
+                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
               },
               {
                 "t": "p",
-                "x": "La Comisión Electoral del Reino Unido está desarrollando un sistema basado en IA (AI-powered) para avisar a los candidatos de deepfakes relevantes en un plazo de tres horas desde su publicación en redes sociales, según dijo su director ejecutivo, Vijay Rangarajan, en un panel de la conferencia del Partido Conservador."
+                "x": "La Competition and Markets Authority (CMA) propone designar a Microsoft con estatus de mercado estratégico (SMS) en su ecosistema de software empresarial y abrirá ahora una consulta antes de tomar una decisión final. También ha publicado una hoja de ruta indicativa con las áreas de posibles intervenciones futuras."
               },
               {
                 "t": "p",
-                "x": "Citó un video deepfake de las elecciones presidenciales de Irlanda de 2025 que mostraba falsamente la retirada de la candidata Catherine Connolly. “Si eso ocurre en las elecciones británicas, moverá una cantidad significativa de votos”, afirmó."
+                "x": "El software empresarial de Microsoft (que incluye Word, Excel, Outlook, PowerPoint, Teams y, cada vez más, Copilot) lo usan más de un millón de empresas y organismos públicos del Reino Unido (UK), con unos 20 millones de usuarios mensuales. El sector cambia con rapidez, con un giro hacia la AI agéntica en herramientas de trabajo conocidas."
               },
               {
                 "t": "p",
-                "x": "Sobre el piloto realizado durante las elecciones locales de mayo de 2026, dijo: “Hicimos un piloto completo y analizamos unos tres millones de publicaciones mediante una IA”. Se marcaron 147 contenidos; personas los revisaron y diez publicaciones “realmente bastante engañosas” se remitieron a empresas de redes sociales o a la policía."
+                "x": "Entre las áreas que se investigarán figuran si los clientes pueden elegir libremente las mejores herramientas de AI y si los proveedores alternativos de AI compiten en igualdad de condiciones con Copilot de Microsoft, cómo Microsoft agrupa sus productos de seguridad y sus prácticas de licencias en la nube."
               },
               {
                 "t": "p",
-                "x": "El enfoque es “neutral respecto al autor”: el personal revisa las publicaciones marcadas por la IA (AI-flagged) y alerta a candidatos o partidos en un plazo de tres horas, “porque ese es más o menos el tiempo que tarda algo en hacerse viral”."
+                "x": "“Las organizaciones deberían poder elegir los productos que mejor les funcionen, cambiar de proveedor cuando quieran y combinar servicios de distintos proveedores”, afirmó la directora ejecutiva de la CMA, Sarah Cardell."
               },
               {
                 "t": "p",
-                "x": "Rangarajan también dijo que la Comisión cree haber detectado “sesgo algorítmico” en al menos una red social, que sufre entre 30.000 y 40.000 ciberataques al mes y que aplica leyes de 1983 o 2000 que están “muy desactualizadas”."
+                "x": "Las conclusiones son provisionales y la decisión final llegará antes del plazo legal de febrero de 2027. La designación SMS no presupone ninguna infracción."
               }
             ]
           }
@@ -365,189 +355,267 @@
       }
     },
     {
-      "id": "politics-wh-si-challenge",
+      "id": "politics-china-open-weight",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "멜라니아 트럼프, 2027\n대통령 SI 챌린지 출범",
-      "body": "영부인이 2027 대통령 초지능 챌린지를 열고 영부인 SI 준비 인증도 내놨다.",
-      "mini_headline": "백악관 SI 챌린지",
+      "headline": "패널: 서구 오픈 모델\n여전히 중국에 뒤처져",
+      "body": "패널은 중국 오픈웨이트 모델이 성능과 비용에서 서구를 앞서나 칩이 한계라고 봤다.",
+      "mini_headline": "오픈 모델은 중국이 선두",
       "tool": "Politics",
-      "source": "The White House",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/china-open-weight-models/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "멜라니아 트럼프 영부인이 2027 대통령 초지능(SI) 챌린지를 시작하고 ‘SI 준비 영부인 인증(First Lady Seal of SI Readiness)’을 새로 만들었다. 미국 전역의 K-12 학생과 교육자, 학교를 이 전국 단위 사업에 초청했다."
+            "t": "img",
+            "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
           },
           {
             "t": "p",
-            "x": "트럼프 여사는 “미국의 다음 획기적인 아이디어는 이미 교실에 앉아 있다”며 “우리는 아이들에게 그 아이디어를 실현할 지식과 도구, 기회를 줘야 한다”고 했다."
+            "x": "샌프란시스코에서 열린 Rest of World 행사에서 전문가들은 미국과 유럽 기업이 내놓은 새 오픈웨이트 모델을 이렇게 평했다. 보안을 걱정하는 중국 오픈 모델 사용자를 끌어오려 하지만, 자원이 더 많은데도 성능은 시장을 이끄는 중국 시스템에 못 미친다는 것이다."
           },
           {
             "t": "p",
-            "x": "올해 초 열린 첫 챌린지에는 50개 주 전체와 세계 각지의 미국 학교(U.S. schools)에서 2만 명이 넘는 학생이 참여했다. 2027 대통령 SI 챌린지는 그 성공을 이어, 학생들이 SI를 활용해 꿈꾸고 만들며 현실 과제의 해법을 개발할 기회를 계속 준다."
+            "x": "Columbia University 조교수 Daniel Björkegren은 저소득 국가의 기업과 정부에게는 비용이 가장 중요하다고 했다. “저소득 국가 맥락에서는 프런티어 지능을 U.S.에 의존하는 데 대한 우려가 크다”는 것이다."
           },
           {
             "t": "p",
-            "x": "올해부터는 참가 학교 모두가 SI 준비에 초점을 맞춘 엄격한 단계별 과제를 마치고 증빙을 내면 ‘SI 준비 영부인 인증’을 받는다. 학생과 교육자가 초지능을 이해하고 활용하며 책임 있게 다루도록 의미 있는 준비를 하는 학교에 주는 인증이다."
+            "x": "지난주 OpenRouter 순위표에서는 상위 다섯 개 가운데 네 개가 중국 모델이었다. LiveBench에서도 최상위 중국 모델의 벤치마크 점수는 U.S. 경쟁 모델보다 3% 낮은 데 그쳤다."
+          },
+          {
+            "t": "img",
+            "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+            "cap": "샌프란시스코 Rest of World 행사에 참석한 Kristy Loke(왼쪽)와 Daniel Björkegren."
           },
           {
             "t": "p",
-            "x": "대통령 SI 챌린지는 프로젝트 기반 경연을 이어 간다. 학생들은 창의적이고 혁신적인 프로젝트로 초지능을 탐구하게 된다. 출범 영상 시청과 참가 신청은 SI.Gov에서 하면 된다."
+            "x": "MATS 연구원 Kristy Loke는 오픈 모델 덕분에 중국이 해외 시장 진출을 둘러싼 우려 일부를 피해 갈 수 있다고 봤다. “소프트파워에 도움이 된다. 국내적으로도 좋다”고 했다."
+          },
+          {
+            "t": "p",
+            "x": "Stanford DigiChina Project의 Graham Webster는 칩 무역 제한 탓에 중국 기업들이 더 효율적인 모델을 만들 수밖에 없었다고 짚었다. “비교적 프런티어급 성능이 필요하다면 지금은 중국 오픈 모델밖에 없다.”"
+          },
+          {
+            "t": "p",
+            "x": "다만 중국 기업들도 컴퓨팅 한계와 수익화라는 숙제를 안고 있다. Webster는 “현재 여건에서는 살 수 있는 칩에 한계가 있다”며 “벽에 부딪힐 수도 있다”고 했다. Loke는 수익화가 모든 중국 AI 기업의 고민이라고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Melania Trump launches 2027\nPresidential SI Challenge",
-          "body": "The First Lady launched the 2027 Presidential Super Intelligence Challenge and a First Lady Seal of SI Readiness.",
-          "mini_headline": "White House SI Challenge",
+          "headline": "Panel: Western open models\nstill trail Chinese rivals",
+          "body": "Rest of World panelists said Chinese open-weight models lead Western rivals on capability and cost but face chip limits.",
+          "mini_headline": "China leads open models",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "First Lady Melania Trump launched her 2027 Presidential Super Intelligence (SI) Challenge and established a new First Lady Seal of SI Readiness—inviting K-12 students, educators, and schools across America to participate in the nationwide initiative."
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
               },
               {
                 "t": "p",
-                "x": "“America’s next groundbreaking idea is already sitting in a classroom,” said Mrs. Trump. “We must give our children the knowledge, tools, and opportunities to bring those ideas to life.”"
+                "x": "New open-weight models from American and European companies aim to win over users of Chinese open models who are concerned about security, but fall short of the dominant Chinese systems on performance despite greater resources, experts said at a Rest of World event in San Francisco."
               },
               {
                 "t": "p",
-                "x": "Following the success of the inaugural Challenge earlier this year, which engaged more than 20,000 students from all 50 states and U.S. schools around the world, the 2027 Presidential SI Challenge will continue to give students the opportunity to use SI to dream, build, and develop solutions to real-world challenges."
+                "x": "For businesses and governments in lower-income countries, cost is the primary factor, said Daniel Björkegren, an assistant professor at Columbia University. “In the low-income context, there’s a lot of concern about being dependent on the U.S. for frontier intelligence,” he said."
               },
               {
                 "t": "p",
-                "x": "New this year, all participating schools will have the opportunity to earn the First Lady Seal of SI Readiness by completing and submitting evidence of a rigorous set of milestones focused on SI readiness. The Seal recognizes schools that are taking meaningful steps to prepare students and educators to understand, use, and responsibly engage with super intelligence."
+                "x": "The OpenRouter leaderboard had four Chinese models among its top five last week, and LiveBench showed the top Chinese models lagging their U.S. rivals by just 3% on benchmark scores."
+              },
+              {
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+                "cap": "Kristy Loke (left) and Daniel Björkegren at the Rest of World event in San Francisco."
               },
               {
                 "t": "p",
-                "x": "The Presidential SI Challenge will continue its project-based competition, encouraging students to explore super intelligence through creative and innovative projects. To watch the launch video and sign up, visit SI.Gov."
+                "x": "Open models let China get around some concerns about its presence in overseas markets, said Kristy Loke, a research fellow at MATS. “It’s good for soft power. It’s good domestically, as well,” she said."
+              },
+              {
+                "t": "p",
+                "x": "Chip trade restrictions forced Chinese firms to build more efficient models, said Graham Webster of Stanford’s DigiChina Project. “If you need relatively frontier capability, right now that’s Chinese open models only.”"
+              },
+              {
+                "t": "p",
+                "x": "Still, Chinese companies face compute limits and the question of how to make money. “You can only buy so many chips under current conditions,” Webster said. “They may run into a wall.” Monetization concerns every Chinese AI company, Loke said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "멜라니아 트럼프, 2027\n대통령 SI 챌린지 출범",
-          "body": "영부인이 2027 대통령 초지능 챌린지를 열고 영부인 SI 준비 인증도 내놨다.",
-          "mini_headline": "백악관 SI 챌린지",
+          "headline": "패널: 서구 오픈 모델\n여전히 중국에 뒤처져",
+          "body": "패널은 중국 오픈웨이트 모델이 성능과 비용에서 서구를 앞서나 칩이 한계라고 봤다.",
+          "mini_headline": "오픈 모델은 중국이 선두",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "멜라니아 트럼프 영부인이 2027 대통령 초지능(SI) 챌린지를 시작하고 ‘SI 준비 영부인 인증(First Lady Seal of SI Readiness)’을 새로 만들었다. 미국 전역의 K-12 학생과 교육자, 학교를 이 전국 단위 사업에 초청했다."
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
               },
               {
                 "t": "p",
-                "x": "트럼프 여사는 “미국의 다음 획기적인 아이디어는 이미 교실에 앉아 있다”며 “우리는 아이들에게 그 아이디어를 실현할 지식과 도구, 기회를 줘야 한다”고 했다."
+                "x": "샌프란시스코에서 열린 Rest of World 행사에서 전문가들은 미국과 유럽 기업이 내놓은 새 오픈웨이트 모델을 이렇게 평했다. 보안을 걱정하는 중국 오픈 모델 사용자를 끌어오려 하지만, 자원이 더 많은데도 성능은 시장을 이끄는 중국 시스템에 못 미친다는 것이다."
               },
               {
                 "t": "p",
-                "x": "올해 초 열린 첫 챌린지에는 50개 주 전체와 세계 각지의 미국 학교(U.S. schools)에서 2만 명이 넘는 학생이 참여했다. 2027 대통령 SI 챌린지는 그 성공을 이어, 학생들이 SI를 활용해 꿈꾸고 만들며 현실 과제의 해법을 개발할 기회를 계속 준다."
+                "x": "Columbia University 조교수 Daniel Björkegren은 저소득 국가의 기업과 정부에게는 비용이 가장 중요하다고 했다. “저소득 국가 맥락에서는 프런티어 지능을 U.S.에 의존하는 데 대한 우려가 크다”는 것이다."
               },
               {
                 "t": "p",
-                "x": "올해부터는 참가 학교 모두가 SI 준비에 초점을 맞춘 엄격한 단계별 과제를 마치고 증빙을 내면 ‘SI 준비 영부인 인증’을 받는다. 학생과 교육자가 초지능을 이해하고 활용하며 책임 있게 다루도록 의미 있는 준비를 하는 학교에 주는 인증이다."
+                "x": "지난주 OpenRouter 순위표에서는 상위 다섯 개 가운데 네 개가 중국 모델이었다. LiveBench에서도 최상위 중국 모델의 벤치마크 점수는 U.S. 경쟁 모델보다 3% 낮은 데 그쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+                "cap": "샌프란시스코 Rest of World 행사에 참석한 Kristy Loke(왼쪽)와 Daniel Björkegren."
               },
               {
                 "t": "p",
-                "x": "대통령 SI 챌린지는 프로젝트 기반 경연을 이어 간다. 학생들은 창의적이고 혁신적인 프로젝트로 초지능을 탐구하게 된다. 출범 영상 시청과 참가 신청은 SI.Gov에서 하면 된다."
+                "x": "MATS 연구원 Kristy Loke는 오픈 모델 덕분에 중국이 해외 시장 진출을 둘러싼 우려 일부를 피해 갈 수 있다고 봤다. “소프트파워에 도움이 된다. 국내적으로도 좋다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Stanford DigiChina Project의 Graham Webster는 칩 무역 제한 탓에 중국 기업들이 더 효율적인 모델을 만들 수밖에 없었다고 짚었다. “비교적 프런티어급 성능이 필요하다면 지금은 중국 오픈 모델밖에 없다.”"
+              },
+              {
+                "t": "p",
+                "x": "다만 중국 기업들도 컴퓨팅 한계와 수익화라는 숙제를 안고 있다. Webster는 “현재 여건에서는 살 수 있는 칩에 한계가 있다”며 “벽에 부딪힐 수도 있다”고 했다. Loke는 수익화가 모든 중국 AI 기업의 고민이라고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "メラニア・トランプ氏が始動\n2027大統領SIチャレンジ",
-          "body": "大統領夫人が2027年大統領超知能チャレンジを始め、SI準備認証を創設した。",
-          "mini_headline": "ホワイトハウスのSIチャレンジ",
+          "headline": "パネル：欧米オープンモデル\nなお中国勢に及ばず",
+          "body": "中国のオープンモデルは性能と費用で欧米に勝るが、チップ制約を抱えるとパネリストは語った。",
+          "mini_headline": "オープンモデルは中国優位",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "メラニア・トランプ大統領夫人は、2027年大統領超知能（SI）チャレンジを開始し、新たに「SI準備ファーストレディ認証（First Lady Seal of SI Readiness）」を創設した。全米のK-12の児童・生徒、教育者、学校にこの全国的な取り組みへの参加を呼びかけている。"
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
               },
               {
                 "t": "p",
-                "x": "「米国の次の画期的なアイデアは、すでに教室に座っている」とトランプ夫人は述べた。「私たちは子どもたちに、そのアイデアを形にするための知識、ツール、機会を与えなければならない」"
+                "x": "米国と欧州の企業による新しいオープンウェイトモデルは、セキュリティを懸念する中国製オープンモデルの利用者を取り込もうとしているが、より多くの資源を持ちながらも性能では支配的な中国のシステムに及ばない。サンフランシスコで開かれたRest of Worldのイベントで、専門家らがそう語った。"
               },
               {
                 "t": "p",
-                "x": "今年初めの第1回チャレンジには、全50州と世界各地の米国学校（U.S. schools）から2万人を超える生徒が参加した。この成功を受け、2027年大統領SIチャレンジは引き続き、生徒がSIを使って夢を描き、ものをつくり、現実の課題への解決策を開発する機会を提供する。"
+                "x": "低所得国の企業や政府にとって最大の要因はコストだと、Columbia University助教のDaniel Björkegrenは述べた。「低所得国の文脈では、フロンティアの知能をU.S.に依存することへの懸念が大きい」と彼は語った。"
               },
               {
                 "t": "p",
-                "x": "今年からは、すべての参加校が、SI準備に焦点を当てた厳格な一連の到達目標を達成し、その証拠を提出することで「SI準備ファーストレディ認証」を取得できる。この認証は、生徒と教育者が超知能を理解し、活用し、責任を持って関われるよう、意味のある準備を進める学校を評価するものだ。"
+                "x": "先週のOpenRouterのランキングでは上位五つのうち四つが中国モデルで、LiveBenchではトップの中国モデルがベンチマークスコアでU.S.の競合をわずか3%下回るにとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+                "cap": "サンフランシスコのRest of WorldイベントでのKristy Loke(左)とDaniel Björkegren。"
               },
               {
                 "t": "p",
-                "x": "大統領SIチャレンジはプロジェクト型の競技会を継続し、創造的で革新的なプロジェクトを通じて超知能を探究するよう生徒に促す。発表動画の視聴と参加登録はSI.Govで受け付けている。"
+                "x": "オープンモデルによって中国は海外市場での存在感をめぐる懸念の一部を回避できると、MATSの研究フェローKristy Lokeは述べた。「ソフトパワーにとって良い。国内的にも良い」と彼女は語った。"
+              },
+              {
+                "t": "p",
+                "x": "半導体の貿易規制が中国企業により効率的なモデルの開発を迫ったと、StanfordのDigiChina ProjectのGraham Websterは述べた。「比較的フロンティアに近い能力が必要なら、今は中国のオープンモデルしかない」"
+              },
+              {
+                "t": "p",
+                "x": "それでも中国企業は計算資源の制約と、どう稼ぐかという課題を抱える。「現状では買えるチップの量に限りがある」とWebsterは言う。「壁にぶつかるかもしれない」。収益化はすべての中国AI企業にとっての懸念だとLokeは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "梅拉尼娅·特朗普启动\n2027总统SI挑战赛",
-          "body": "第一夫人启动2027年总统超级智能挑战赛，并设立“第一夫人SI准备认证”。",
-          "mini_headline": "白宫SI挑战赛",
+          "headline": "座谈：西方开放模型\n仍落后于中国对手",
+          "body": "Rest of World座谈嘉宾称，中国开放模型在能力和成本上领先西方，但受芯片限制。",
+          "mini_headline": "开放模型中国领先",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "第一夫人梅拉尼娅·特朗普启动了2027年总统超级智能（SI）挑战赛，并新设“第一夫人SI准备认证”（First Lady Seal of SI Readiness），邀请全美K-12学生、教育工作者和学校参与这一全国性倡议。"
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
               },
               {
                 "t": "p",
-                "x": "“美国的下一个突破性创意已经坐在教室里了，”特朗普夫人说，“我们必须给孩子们知识、工具和机会，让这些创意变为现实。”"
+                "x": "专家在旧金山举行的Rest of World活动上表示，美国和欧洲公司推出的新开放权重模型希望吸引担心安全问题的中国开放模型用户，但尽管资源更多，其性能仍不及占主导地位的中国系统。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候举办的首届挑战赛吸引了来自全部50个州以及世界各地美国学校（U.S. schools）的2万多名学生参与。在此基础上，2027年总统SI挑战赛将继续让学生有机会利用SI去梦想、动手打造，并为现实世界的难题开发解决方案。"
+                "x": "Columbia University助理教授Daniel Björkegren表示，对于低收入国家的企业和政府而言，成本是首要因素。他说：“在低收入背景下，人们非常担心在前沿智能上依赖U.S.。”"
               },
               {
                 "t": "p",
-                "x": "今年新增的是，所有参赛学校只要完成一套以SI准备为重点的严格阶段目标并提交证明，即可获得“第一夫人SI准备认证”。该认证旨在表彰那些正采取切实步骤、帮助学生和教育工作者理解、使用并负责任地对待超级智能的学校。"
+                "x": "上周OpenRouter排行榜前五名中有四个是中国模型；LiveBench显示，顶尖中国模型的基准分数仅比U.S.对手低3%。"
+              },
+              {
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+                "cap": "Kristy Loke(左)与Daniel Björkegren在旧金山的Rest of World活动上。"
               },
               {
                 "t": "p",
-                "x": "总统SI挑战赛将延续以项目为基础的竞赛形式，鼓励学生通过富有创意和创新的项目探索超级智能。观看启动视频并报名，请访问SI.Gov。"
+                "x": "MATS研究员Kristy Loke表示，开放模型让中国得以绕开外界对其进入海外市场的部分担忧。她说：“这有利于软实力，对国内也有好处。”"
+              },
+              {
+                "t": "p",
+                "x": "Stanford DigiChina Project的Graham Webster表示，芯片贸易限制迫使中国公司打造更高效的模型。“如果你需要相对前沿的能力，眼下只有中国开放模型。”"
+              },
+              {
+                "t": "p",
+                "x": "不过，中国公司仍面临算力限制和如何盈利的问题。Webster说：“在当前条件下，能买到的芯片有限。”“它们可能会撞墙。”Loke表示，盈利问题困扰着每一家中国AI公司。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Melania Trump lanza el Desafío\nPresidencial de SI 2027",
-          "body": "La primera dama lanzó el Desafío Presidencial de Superinteligencia 2027 y un sello de preparación en SI.",
-          "mini_headline": "El desafío de SI de la Casa Blanca",
+          "headline": "Panel: los modelos occidentales\nsiguen tras sus rivales chinos",
+          "body": "Panelistas de Rest of World ven a los modelos abiertos chinos por delante de Occidente, aunque con límites de chips.",
+          "mini_headline": "China lidera los modelos abiertos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La primera dama Melania Trump lanzó su Desafío Presidencial de Superinteligencia (SI) 2027 y creó un nuevo Sello de la Primera Dama de Preparación en SI (First Lady Seal of SI Readiness), e invitó a estudiantes de K-12, educadores y escuelas de todo Estados Unidos a participar en esta iniciativa nacional."
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
               },
               {
                 "t": "p",
-                "x": "“La próxima idea revolucionaria de Estados Unidos ya está sentada en un aula”, dijo la señora Trump. “Debemos dar a nuestros niños el conocimiento, las herramientas y las oportunidades para hacer realidad esas ideas”."
+                "x": "Los nuevos modelos de pesos abiertos de empresas estadounidenses y europeas buscan atraer a los usuarios de modelos abiertos chinos preocupados por la seguridad, pero se quedan por detrás de los dominantes sistemas chinos en rendimiento pese a contar con más recursos, según dijeron expertos en un evento de Rest of World en San Francisco."
               },
               {
                 "t": "p",
-                "x": "Tras el éxito del primer Desafío, celebrado a comienzos de este año, en el que participaron más de 20.000 estudiantes de los 50 estados y de escuelas estadounidenses (U.S.) de todo el mundo, el Desafío Presidencial de SI 2027 seguirá dando a los estudiantes la oportunidad de usar la SI para soñar, construir y desarrollar soluciones a problemas reales."
+                "x": "Para empresas y gobiernos de países de bajos ingresos, el coste es el factor principal, dijo Daniel Björkegren, profesor adjunto de Columbia University. “En el contexto de bajos ingresos, preocupa mucho depender de U.S. para la inteligencia de frontera”, afirmó."
               },
               {
                 "t": "p",
-                "x": "Como novedad este año, todas las escuelas participantes podrán obtener el Sello de la Primera Dama de Preparación en SI si completan y acreditan un riguroso conjunto de hitos centrados en la preparación en SI. El Sello reconoce a las escuelas que dan pasos significativos para preparar a estudiantes y educadores a comprender, usar y relacionarse de forma responsable con la superinteligencia."
+                "x": "La clasificación de OpenRouter tuvo la semana pasada cuatro modelos chinos entre sus cinco primeros, y LiveBench mostró que los mejores modelos chinos quedaban solo un 3% por detrás de sus rivales de U.S. en puntuaciones de referencia."
+              },
+              {
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+                "cap": "Kristy Loke (izquierda) y Daniel Björkegren en el evento de Rest of World en San Francisco."
               },
               {
                 "t": "p",
-                "x": "El Desafío Presidencial de SI mantendrá su competencia basada en proyectos y animará a los estudiantes a explorar la superinteligencia mediante proyectos creativos e innovadores. Para ver el video de lanzamiento e inscribirse, visite SI.Gov."
+                "x": "Los modelos abiertos permiten a China sortear algunas inquietudes sobre su presencia en mercados extranjeros, dijo Kristy Loke, investigadora de MATS. “Es bueno para el poder blando. También es bueno a nivel interno”, afirmó."
+              },
+              {
+                "t": "p",
+                "x": "Las restricciones comerciales a los chips obligaron a las empresas chinas a crear modelos más eficientes, dijo Graham Webster, del DigiChina Project de Stanford. “Si necesitas una capacidad relativamente de frontera, ahora mismo solo existen los modelos abiertos chinos”."
+              },
+              {
+                "t": "p",
+                "x": "Aun así, las empresas chinas afrontan límites de cómputo y la cuestión de cómo ganar dinero. “En las condiciones actuales solo se pueden comprar tantos chips”, dijo Webster. “Puede que se topen con un muro”. La monetización preocupa a todas las empresas chinas de AI, dijo Loke."
               }
             ]
           }
@@ -555,121 +623,173 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "멜라니아 트럼프, 2027\n대통령 SI 챌린지 출범",
-          "body": "영부인이 2027 대통령 초지능 챌린지와 영부인 SI 준비 인증을 선보였다.",
-          "mini_headline": "백악관 SI 챌린지",
+          "headline": "패널: 서구 오픈 모델\n여전히 중국에 뒤처져",
+          "body": "패널은 중국 오픈웨이트 모델이 성능과 비용에서 서구를 앞서나 칩이 한계라고 봤다.",
+          "mini_headline": "오픈 모델은 중국이 선두",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "멜라니아 트럼프 영부인이 2027 대통령 초지능(SI) 챌린지를 시작하고 ‘SI 준비 영부인 인증(First Lady Seal of SI Readiness)’을 새로 만들었다. 미국 전역의 K-12 학생과 교육자, 학교가 이 전국 단위 사업에 참여하도록 초청했다."
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
               },
               {
                 "t": "p",
-                "x": "트럼프 여사는 “미국의 다음 획기적인 아이디어는 이미 교실에 앉아 있다”며 “우리는 아이들에게 그 아이디어를 실현할 지식과 도구, 기회를 줘야 한다”고 말했다."
+                "x": "미국과 유럽 기업이 내놓은 새 오픈웨이트 모델은 보안을 우려하는 중국 오픈 모델 사용자를 끌어오려 하지만, 더 많은 자원을 갖고도 성능에서는 시장을 주도하는 중국 시스템에 못 미친다고 샌프란시스코에서 열린 Rest of World 행사에서 전문가들이 말했다."
               },
               {
                 "t": "p",
-                "x": "올해 초 열린 첫 챌린지에는 50개 주 전체와 세계 각지의 미국 학교(U.S. schools)에서 2만 명이 넘는 학생이 참여했다. 이 성공에 이어 2027 대통령 SI 챌린지는 학생들이 SI를 활용해 꿈꾸고, 만들고, 현실의 과제에 대한 해법을 개발할 기회를 계속 제공한다."
+                "x": "저소득 국가의 기업과 정부에게는 비용이 가장 중요한 요소라고 Columbia University 조교수 Daniel Björkegren은 말했다. 그는 “저소득 국가 맥락에서는 프런티어 지능을 U.S.에 의존하는 데 대한 우려가 크다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "올해 새로 모든 참가 학교는 SI 준비에 초점을 맞춘 엄격한 단계별 과제를 완수하고 증빙을 제출하면 ‘SI 준비 영부인 인증’을 받을 수 있다. 이 인증은 학생과 교육자가 초지능을 이해하고 활용하며 책임 있게 다루도록 의미 있는 준비를 하는 학교를 인정한다."
+                "x": "지난주 OpenRouter 순위표에서는 상위 다섯 개 중 네 개가 중국 모델이었고, LiveBench에서 최상위 중국 모델의 벤치마크 점수는 U.S. 경쟁 모델보다 3%만 낮았다."
+              },
+              {
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+                "cap": "샌프란시스코 Rest of World 행사에 참석한 Kristy Loke(왼쪽)와 Daniel Björkegren."
               },
               {
                 "t": "p",
-                "x": "대통령 SI 챌린지는 프로젝트 기반 경연을 이어 가며 학생들이 창의적이고 혁신적인 프로젝트로 초지능을 탐구하도록 장려한다. 출범 영상 시청과 참가 신청은 SI.Gov에서 할 수 있다."
+                "x": "오픈 모델 덕분에 중국은 해외 시장 진출을 둘러싼 우려 일부를 피해 갈 수 있다고 MATS 연구원 Kristy Loke는 말했다. 그는 “소프트파워에 도움이 된다. 국내적으로도 좋다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "칩 무역 제한 때문에 중국 기업들은 더 효율적인 모델을 만들 수밖에 없었다고 Stanford DigiChina Project의 Graham Webster는 말했다. “비교적 프런티어급 성능이 필요하다면 지금은 중국 오픈 모델밖에 없다.”"
+              },
+              {
+                "t": "p",
+                "x": "그럼에도 중국 기업들은 컴퓨팅 한계와 수익화 문제에 직면해 있다. Webster는 “현재 여건에서는 살 수 있는 칩에 한계가 있다”며 “벽에 부딪힐 수도 있다”고 말했다. Loke는 수익화가 모든 중국 AI 기업의 고민이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "メラニア・トランプ氏が始動\n2027大統領SIチャレンジ",
-          "body": "大統領夫人が2027年大統領超知能チャレンジを始め、SI準備認証を創設した。",
-          "mini_headline": "ホワイトハウスのSIチャレンジ",
+          "headline": "パネル：欧米オープンモデル\nなお中国勢に及ばず",
+          "body": "中国のオープンモデルは性能と費用で欧米に勝るが、チップ制約を抱えるとパネリストは語った。",
+          "mini_headline": "オープンモデルは中国優位",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "メラニア・トランプ大統領夫人は、2027年大統領超知能（SI）チャレンジを開始し、新たに「SI準備ファーストレディ認証（First Lady Seal of SI Readiness）」を創設した。全米のK-12の児童・生徒、教育者、学校にこの全国的な取り組みへの参加を呼びかけている。"
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
               },
               {
                 "t": "p",
-                "x": "「米国の次の画期的なアイデアは、すでに教室に座っている」とトランプ夫人は述べた。「私たちは子どもたちに、そのアイデアを形にするための知識、ツール、機会を与えなければならない」"
+                "x": "米国と欧州の企業による新しいオープンウェイトモデルは、セキュリティを懸念する中国製オープンモデルの利用者を取り込もうとしているが、より多くの資源を持ちながらも性能では支配的な中国のシステムに及ばない。サンフランシスコで開かれたRest of Worldのイベントで、専門家らがそう語った。"
               },
               {
                 "t": "p",
-                "x": "今年初めの第1回チャレンジには、全50州と世界各地の米国学校（U.S. schools）から2万人を超える生徒が参加した。この成功を受け、2027年大統領SIチャレンジは引き続き、生徒がSIを使って夢を描き、ものをつくり、現実の課題への解決策を開発する機会を提供する。"
+                "x": "低所得国の企業や政府にとって最大の要因はコストだと、Columbia University助教のDaniel Björkegrenは述べた。「低所得国の文脈では、フロンティアの知能をU.S.に依存することへの懸念が大きい」と彼は語った。"
               },
               {
                 "t": "p",
-                "x": "今年からは、すべての参加校が、SI準備に焦点を当てた厳格な一連の到達目標を達成し、その証拠を提出することで「SI準備ファーストレディ認証」を取得できる。この認証は、生徒と教育者が超知能を理解し、活用し、責任を持って関われるよう、意味のある準備を進める学校を評価するものだ。"
+                "x": "先週のOpenRouterのランキングでは上位五つのうち四つが中国モデルで、LiveBenchではトップの中国モデルがベンチマークスコアでU.S.の競合をわずか3%下回るにとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+                "cap": "サンフランシスコのRest of WorldイベントでのKristy Loke(左)とDaniel Björkegren。"
               },
               {
                 "t": "p",
-                "x": "大統領SIチャレンジはプロジェクト型の競技会を継続し、創造的で革新的なプロジェクトを通じて超知能を探究するよう生徒に促す。発表動画の視聴と参加登録はSI.Govで受け付けている。"
+                "x": "オープンモデルによって中国は海外市場での存在感をめぐる懸念の一部を回避できると、MATSの研究フェローKristy Lokeは述べた。「ソフトパワーにとって良い。国内的にも良い」と彼女は語った。"
+              },
+              {
+                "t": "p",
+                "x": "半導体の貿易規制が中国企業により効率的なモデルの開発を迫ったと、StanfordのDigiChina ProjectのGraham Websterは述べた。「比較的フロンティアに近い能力が必要なら、今は中国のオープンモデルしかない」"
+              },
+              {
+                "t": "p",
+                "x": "それでも中国企業は計算資源の制約と、どう稼ぐかという課題を抱える。「現状では買えるチップの量に限りがある」とWebsterは言う。「壁にぶつかるかもしれない」。収益化はすべての中国AI企業にとっての懸念だとLokeは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "梅拉尼娅·特朗普启动\n2027总统SI挑战赛",
-          "body": "第一夫人启动2027年总统超级智能挑战赛，并设立“第一夫人SI准备认证”。",
-          "mini_headline": "白宫SI挑战赛",
+          "headline": "座谈：西方开放模型\n仍落后于中国对手",
+          "body": "Rest of World座谈嘉宾称，中国开放模型在能力和成本上领先西方，但受芯片限制。",
+          "mini_headline": "开放模型中国领先",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "第一夫人梅拉尼娅·特朗普启动了2027年总统超级智能（SI）挑战赛，并新设“第一夫人SI准备认证”（First Lady Seal of SI Readiness），邀请全美K-12学生、教育工作者和学校参与这一全国性倡议。"
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
               },
               {
                 "t": "p",
-                "x": "“美国的下一个突破性创意已经坐在教室里了，”特朗普夫人说，“我们必须给孩子们知识、工具和机会，让这些创意变为现实。”"
+                "x": "专家在旧金山举行的Rest of World活动上表示，美国和欧洲公司推出的新开放权重模型希望吸引担心安全问题的中国开放模型用户，但尽管资源更多，其性能仍不及占主导地位的中国系统。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候举办的首届挑战赛吸引了来自全部50个州以及世界各地美国学校（U.S. schools）的2万多名学生参与。在此基础上，2027年总统SI挑战赛将继续让学生有机会利用SI去梦想、动手打造，并为现实世界的难题开发解决方案。"
+                "x": "Columbia University助理教授Daniel Björkegren表示，对于低收入国家的企业和政府而言，成本是首要因素。他说：“在低收入背景下，人们非常担心在前沿智能上依赖U.S.。”"
               },
               {
                 "t": "p",
-                "x": "今年新增的是，所有参赛学校只要完成一套以SI准备为重点的严格阶段目标并提交证明，即可获得“第一夫人SI准备认证”。该认证旨在表彰那些正采取切实步骤、帮助学生和教育工作者理解、使用并负责任地对待超级智能的学校。"
+                "x": "上周OpenRouter排行榜前五名中有四个是中国模型；LiveBench显示，顶尖中国模型的基准分数仅比U.S.对手低3%。"
+              },
+              {
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+                "cap": "Kristy Loke(左)与Daniel Björkegren在旧金山的Rest of World活动上。"
               },
               {
                 "t": "p",
-                "x": "总统SI挑战赛将延续以项目为基础的竞赛形式，鼓励学生通过富有创意和创新的项目探索超级智能。观看启动视频并报名，请访问SI.Gov。"
+                "x": "MATS研究员Kristy Loke表示，开放模型让中国得以绕开外界对其进入海外市场的部分担忧。她说：“这有利于软实力，对国内也有好处。”"
+              },
+              {
+                "t": "p",
+                "x": "Stanford DigiChina Project的Graham Webster表示，芯片贸易限制迫使中国公司打造更高效的模型。“如果你需要相对前沿的能力，眼下只有中国开放模型。”"
+              },
+              {
+                "t": "p",
+                "x": "不过，中国公司仍面临算力限制和如何盈利的问题。Webster说：“在当前条件下，能买到的芯片有限。”“它们可能会撞墙。”Loke表示，盈利问题困扰着每一家中国AI公司。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Melania Trump lanza el Desafío\nPresidencial de SI 2027",
-          "body": "La primera dama lanzó el Desafío Presidencial de Superinteligencia 2027 y un sello de preparación en SI.",
-          "mini_headline": "El desafío de SI de la Casa Blanca",
+          "headline": "Panel: los modelos occidentales\nsiguen tras sus rivales chinos",
+          "body": "Panelistas de Rest of World ven a los modelos abiertos chinos por delante de Occidente, aunque con límites de chips.",
+          "mini_headline": "China lidera los modelos abiertos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La primera dama Melania Trump lanzó su Desafío Presidencial de Superinteligencia (SI) 2027 y creó un nuevo Sello de la Primera Dama de Preparación en SI (First Lady Seal of SI Readiness), e invitó a estudiantes de K-12, educadores y escuelas de todo Estados Unidos a participar en esta iniciativa nacional."
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
               },
               {
                 "t": "p",
-                "x": "“La próxima idea revolucionaria de Estados Unidos ya está sentada en un aula”, dijo la señora Trump. “Debemos dar a nuestros niños el conocimiento, las herramientas y las oportunidades para hacer realidad esas ideas”."
+                "x": "Los nuevos modelos de pesos abiertos de empresas estadounidenses y europeas buscan atraer a los usuarios de modelos abiertos chinos preocupados por la seguridad, pero se quedan por detrás de los dominantes sistemas chinos en rendimiento pese a contar con más recursos, según dijeron expertos en un evento de Rest of World en San Francisco."
               },
               {
                 "t": "p",
-                "x": "Tras el éxito del primer Desafío, celebrado a comienzos de este año, en el que participaron más de 20.000 estudiantes de los 50 estados y de escuelas estadounidenses (U.S.) de todo el mundo, el Desafío Presidencial de SI 2027 seguirá dando a los estudiantes la oportunidad de usar la SI para soñar, construir y desarrollar soluciones a problemas reales."
+                "x": "Para empresas y gobiernos de países de bajos ingresos, el coste es el factor principal, dijo Daniel Björkegren, profesor adjunto de Columbia University. “En el contexto de bajos ingresos, preocupa mucho depender de U.S. para la inteligencia de frontera”, afirmó."
               },
               {
                 "t": "p",
-                "x": "Como novedad este año, todas las escuelas participantes podrán obtener el Sello de la Primera Dama de Preparación en SI si completan y acreditan un riguroso conjunto de hitos centrados en la preparación en SI. El Sello reconoce a las escuelas que dan pasos significativos para preparar a estudiantes y educadores a comprender, usar y relacionarse de forma responsable con la superinteligencia."
+                "x": "La clasificación de OpenRouter tuvo la semana pasada cuatro modelos chinos entre sus cinco primeros, y LiveBench mostró que los mejores modelos chinos quedaban solo un 3% por detrás de sus rivales de U.S. en puntuaciones de referencia."
+              },
+              {
+                "t": "img",
+                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+                "cap": "Kristy Loke (izquierda) y Daniel Björkegren en el evento de Rest of World en San Francisco."
               },
               {
                 "t": "p",
-                "x": "El Desafío Presidencial de SI mantendrá su competencia basada en proyectos y animará a los estudiantes a explorar la superinteligencia mediante proyectos creativos e innovadores. Para ver el video de lanzamiento e inscribirse, visite SI.Gov."
+                "x": "Los modelos abiertos permiten a China sortear algunas inquietudes sobre su presencia en mercados extranjeros, dijo Kristy Loke, investigadora de MATS. “Es bueno para el poder blando. También es bueno a nivel interno”, afirmó."
+              },
+              {
+                "t": "p",
+                "x": "Las restricciones comerciales a los chips obligaron a las empresas chinas a crear modelos más eficientes, dijo Graham Webster, del DigiChina Project de Stanford. “Si necesitas una capacidad relativamente de frontera, ahora mismo solo existen los modelos abiertos chinos”."
+              },
+              {
+                "t": "p",
+                "x": "Aun así, las empresas chinas afrontan límites de cómputo y la cuestión de cómo ganar dinero. “En las condiciones actuales solo se pueden comprar tantos chips”, dijo Webster. “Puede que se topen con un muro”. La monetización preocupa a todas las empresas chinas de AI, dijo Loke."
               }
             ]
           }
@@ -677,195 +797,165 @@
       }
     },
     {
-      "id": "politics-ai-safety-money",
+      "id": "politics-eu-raise",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 안전 후원자들,\n규제 찬성 후보에 $48M",
-      "body": "Axios 집계로 AI 안전 후원자들이 양당 규제파 후보에 4800만 달러를 썼다.",
-      "mini_headline": "선거판에 흘러간 AI 안전 자금",
+      "headline": "EU RAISE 서약 출범\n유럽 과학의 AI 지원",
+      "body": "집행위는 RAISE로 AI-in-science 연구자에게 민간·자선 지원을 모은다.",
+      "mini_headline": "EU, RAISE 서약 출범",
       "tool": "Politics",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
+      "source": "European Commission",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2175",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-            "cap": "일러스트: Axios"
+            "t": "p",
+            "x": "유럽연합 집행위원회는 더블린에서 열린 European AI in Science Summit에서 AI in Science Enablers를 위한 RAISE(Resource for AI Science in Europe) 서약 이니셔티브를 출범했다. 공공 자금만으로는 닿지 않는 부분까지 민간 부문과 자선 단체의 지원을 끌어와, 인공지능과 과학 전반에서 일하는 유럽 연구자를 돕겠다는 취지다."
           },
           {
             "t": "p",
-            "x": "Axios가 단독 입수한 새 분석에 따르면 AI 안전과 규제를 지지하는 이들은 이번 미국(U.S.) 선거 주기에 규제 찬성 후보들에게 5천만 달러 가까이 쓰고 있다."
+            "x": "AI in Science Strategy의 하나로 나온 이 이니셔티브는 프런티어 AI 모델 접근권, 컴퓨팅 용량, 연구용 소프트웨어 라이선스, 데이터, 교육 같은 현물 기여를 한곳에 모은다. 첫 약정은 Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, Google DeepMind가 내놓았다."
           },
           {
             "t": "p",
-            "x": "AI 안전 단체와 개인 기부자들은 민주당과 공화당 선거에 4800만 달러를 썼다. OpenAI의 후안 펠리페 세론 우리베, Redwood의 아리안 바트 같은 연구자들이 낸 돈도, 테크 업계 종사자들이 후원하는 단체 Guardrails Alliance도 여기에 들어간다. Guardrails Alliance가 슈퍼 PAC과 501(c)(4) 단체로 모은 돈은 합쳐서 1170만 달러다."
+            "x": "이 틀 안에서 Mistral AI와 CERN은 물리학 분야 최대 규모가 될 파운데이션 모델을 함께 개발하기로 했다. 서약은 직접적인 상업적 이해를 넘어 과학 AI를 꾸준히 돕겠다는 뜻을 보여야 하고, 이니셔티브는 해마다 검토를 받는다."
           },
           {
             "t": "p",
-            "x": "기부자들이 Axios에 밝힌 동기는 정당이 아니었다. 업계 자금이 후보들의 입을 막을까 걱정했다고 한다. OpenAI의 그레그 브록먼 사장은 테크 경영진과 투자자들이 후원하는 슈퍼 PAC Leading the Future에 내려던 두 번째 2500만 달러 기부를 철회했다."
-          },
-          {
-            "t": "p",
-            "x": "Leading the Future는 2분기 말 기준 3100만 달러 이상을 보유했고, 민주당 15명 이상과 공화당 25명 이상을 지원했다. AI 규제에는 상원 60표가 필요하니 안전 옹호자들은 “행동을 위한 폭넓은 연합 구축”에 집중해야 한다는 게 이 단체의 입장이다."
+            "x": "집행위원회는 연구에서 에이전트형 AI를 포함한 생성형 AI를 책임 있게 쓰도록 돕는 Living Guidelines 개정판도 내놓았다. RAISE Hub, Forum, Observatory도 함께 출범했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI safety backers spend $48M\non pro-regulation candidates",
-          "body": "Per figures shared with Axios, AI safety donors spent about $48 million on pro-regulation candidates of both parties.",
-          "mini_headline": "AI safety money in races",
+          "headline": "EU launches RAISE pledges\nfor AI in European science",
+          "body": "In Dublin, the Commission launched RAISE to mobilise private and philanthropic support for AI-in-science researchers.",
+          "mini_headline": "EU launches RAISE pledges",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-                "cap": "Illustration: Axios"
+                "t": "p",
+                "x": "At the European AI in Science Summit in Dublin, the European Commission launched the RAISE (Resource for AI Science in Europe) pledging initiative for AI in Science Enablers. It aims to mobilise private-sector and philanthropic support for European researchers working across artificial intelligence and science, beyond what public funding alone can provide."
               },
               {
                 "t": "p",
-                "x": "Advocates for AI safety and regulation are spending nearly $50 million this U.S. election cycle on candidates who favor regulation, according to a new analysis shared exclusively with Axios."
+                "x": "Part of the AI in Science Strategy, it brings together in-kind contributions such as access to frontier AI models, computing capacity, research software licences, data and training. Initial commitments have been made by the Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, and Google DeepMind."
               },
               {
                 "t": "p",
-                "x": "AI safety groups and individual donors have spent $48 million on Democratic and Republican races. That includes donations from researchers such as OpenAI's Juan Felipe Cerón Uribe and Redwood's Aryan Bhatt, and Guardrails Alliance, a tech-worker-backed group that has raised $11.7 million between its super PAC and 501(c)(4)."
+                "x": "As part of the initiative, Mistral AI and CERN launched a partnership to develop what is set to become the largest foundation model in physics. Pledges must show sustained support for AI in science beyond direct commercial interests, and the initiative will be reviewed annually."
               },
               {
                 "t": "p",
-                "x": "Donors told Axios they are motivated less by party than by fears that industry spending will silence candidates. OpenAI president Greg Brockman pulled a planned second $25 million donation to Leading the Future, a super PAC backed by tech execs and investors."
-              },
-              {
-                "t": "p",
-                "x": "Leading the Future had more than $31 million at the end of the second quarter and has backed more than 15 Democrats and 25 Republicans. It said AI regulation will need 60 Senate votes, so safety advocates should focus on \"building a broad coalition for action.\""
+                "x": "The Commission also presented updated Living Guidelines on the Responsible Use of Generative AI in Research, including agentic AI, and launched the RAISE Hub, Forum and Observatory."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 안전 후원자들,\n규제 찬성 후보에 $48M",
-          "body": "Axios 집계로 AI 안전 후원자들이 양당 규제파 후보에 4800만 달러를 썼다.",
-          "mini_headline": "선거판에 흘러간 AI 안전 자금",
+          "headline": "EU RAISE 서약 출범\n유럽 과학의 AI 지원",
+          "body": "집행위는 RAISE로 AI-in-science 연구자에게 민간·자선 지원을 모은다.",
+          "mini_headline": "EU, RAISE 서약 출범",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-                "cap": "일러스트: Axios"
+                "t": "p",
+                "x": "유럽연합 집행위원회는 더블린에서 열린 European AI in Science Summit에서 AI in Science Enablers를 위한 RAISE(Resource for AI Science in Europe) 서약 이니셔티브를 출범했다. 공공 자금만으로는 닿지 않는 부분까지 민간 부문과 자선 단체의 지원을 끌어와, 인공지능과 과학 전반에서 일하는 유럽 연구자를 돕겠다는 취지다."
               },
               {
                 "t": "p",
-                "x": "Axios가 단독 입수한 새 분석에 따르면 AI 안전과 규제를 지지하는 이들은 이번 미국(U.S.) 선거 주기에 규제 찬성 후보들에게 5천만 달러 가까이 쓰고 있다."
+                "x": "AI in Science Strategy의 하나로 나온 이 이니셔티브는 프런티어 AI 모델 접근권, 컴퓨팅 용량, 연구용 소프트웨어 라이선스, 데이터, 교육 같은 현물 기여를 한곳에 모은다. 첫 약정은 Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, Google DeepMind가 내놓았다."
               },
               {
                 "t": "p",
-                "x": "AI 안전 단체와 개인 기부자들은 민주당과 공화당 선거에 4800만 달러를 썼다. OpenAI의 후안 펠리페 세론 우리베, Redwood의 아리안 바트 같은 연구자들이 낸 돈도, 테크 업계 종사자들이 후원하는 단체 Guardrails Alliance도 여기에 들어간다. Guardrails Alliance가 슈퍼 PAC과 501(c)(4) 단체로 모은 돈은 합쳐서 1170만 달러다."
+                "x": "이 틀 안에서 Mistral AI와 CERN은 물리학 분야 최대 규모가 될 파운데이션 모델을 함께 개발하기로 했다. 서약은 직접적인 상업적 이해를 넘어 과학 AI를 꾸준히 돕겠다는 뜻을 보여야 하고, 이니셔티브는 해마다 검토를 받는다."
               },
               {
                 "t": "p",
-                "x": "기부자들이 Axios에 밝힌 동기는 정당이 아니었다. 업계 자금이 후보들의 입을 막을까 걱정했다고 한다. OpenAI의 그레그 브록먼 사장은 테크 경영진과 투자자들이 후원하는 슈퍼 PAC Leading the Future에 내려던 두 번째 2500만 달러 기부를 철회했다."
-              },
-              {
-                "t": "p",
-                "x": "Leading the Future는 2분기 말 기준 3100만 달러 이상을 보유했고, 민주당 15명 이상과 공화당 25명 이상을 지원했다. AI 규제에는 상원 60표가 필요하니 안전 옹호자들은 “행동을 위한 폭넓은 연합 구축”에 집중해야 한다는 게 이 단체의 입장이다."
+                "x": "집행위원회는 연구에서 에이전트형 AI를 포함한 생성형 AI를 책임 있게 쓰도록 돕는 Living Guidelines 개정판도 내놓았다. RAISE Hub, Forum, Observatory도 함께 출범했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI安全派、規制推進の\n候補に4800万ドル",
-          "body": "Axiosによると、AI安全派の寄付者は両党の規制推進候補に約4800万ドルを投じた。",
-          "mini_headline": "選挙に流れるAI安全マネー",
+          "headline": "EUがRAISE誓約始動\n欧州科学のAIを後押し",
+          "body": "欧州委はRAISEを始動し、AI-in-science研究者への民間・慈善支援を募る。",
+          "mini_headline": "EUがRAISE誓約を始動",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-                "cap": "イラスト：Axios"
+                "t": "p",
+                "x": "ダブリンで開かれたEuropean AI in Science Summitで、欧州委員会はAI in Science Enablersを対象とするRAISE(Resource for AI Science in Europe)の誓約イニシアチブを立ち上げた。公的資金だけで賄える範囲を超えて、人工知能と科学の両分野で活動する欧州の研究者に向け、民間セクターや慈善団体の支援を引き出すことを狙う。"
               },
               {
                 "t": "p",
-                "x": "Axiosが独占入手した新たな分析によると、AIの安全性と規制を支持する人々は、今回の米国（U.S.）の選挙サイクルで規制に前向きな候補者に5000万ドル近くを投じている。"
+                "x": "AI in Science Strategyの一環として、最先端AIモデルへのアクセス、計算能力、研究用ソフトウェアのライセンス、データ、トレーニングといった現物提供を束ねる。初期のコミットメントはNovo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral、Google DeepMindが表明した。"
               },
               {
                 "t": "p",
-                "x": "AI安全団体と個人の寄付者は、民主・共和両党の選挙に4800万ドルを投じた。これにはOpenAIのフアン・フェリペ・セロン・ウリベ氏やRedwoodのアーリアン・バット氏といった研究者の寄付に加え、テック業界の働き手が支える団体Guardrails Allianceも含まれる。同団体はスーパーPACと501(c)(4)団体を合わせて1170万ドルを集めた。"
+                "x": "この取り組みの一環として、Mistral AIとCERNは物理学で最大となる見込みの基盤モデルを開発する提携を始めた。誓約は直接の商業的利益を超えて科学向けAIを継続的に支えることを示す必要があり、イニシアチブは毎年見直される。"
               },
               {
                 "t": "p",
-                "x": "寄付者たちはAxiosに対し、動機は党派よりも、業界の資金が候補者を黙らせることへの懸念にあると語った。OpenAIのグレッグ・ブロックマン社長は、テック企業幹部や投資家が支えるスーパーPAC「Leading the Future」への2回目となる2500万ドルの寄付計画を取りやめた。"
-              },
-              {
-                "t": "p",
-                "x": "Leading the Futureは第2四半期末時点で3100万ドル超を保有し、民主党の15人以上、共和党の25人以上を支援してきた。同団体は、AI規制には上院で60票が必要になるため、安全推進派は「行動に向けた幅広い連合づくり」に注力すべきだとしている。"
+                "x": "欧州委員会はまた、エージェント型AIを含む研究における生成AIの責任ある利用に関するLiving Guidelinesの改訂版を示し、RAISE Hub、Forum、Observatoryを立ち上げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI安全派投入4800万美元\n支持主张监管的候选人",
-          "body": "据Axios获得的数据，AI安全捐助者向两党支持监管的候选人投入约4800万美元。",
-          "mini_headline": "AI安全资金涌入选战",
+          "headline": "EU启动RAISE承诺\n支持欧洲科学中的AI",
+          "body": "欧盟委员会在都柏林启动RAISE，为AI-in-science研究者动员私人与慈善支持。",
+          "mini_headline": "EU启动RAISE承诺",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-                "cap": "插图：Axios"
+                "t": "p",
+                "x": "在都柏林举行的European AI in Science Summit上，欧盟委员会为AI in Science Enablers启动了RAISE(Resource for AI Science in Europe)承诺倡议。该倡议旨在动员私营部门和慈善界的支持，在公共资金之外，为横跨人工智能与科学领域的欧洲研究人员提供助力。"
               },
               {
                 "t": "p",
-                "x": "根据与Axios独家分享的一项新分析，AI安全与监管的倡导者在本轮美国（U.S.）选举周期中，正向支持监管的候选人投入近5000万美元。"
+                "x": "作为AI in Science Strategy的一部分，该倡议汇集前沿AI模型使用权、算力、科研软件许可、数据和培训等实物贡献。Novo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral和Google DeepMind已作出首批承诺。"
               },
               {
                 "t": "p",
-                "x": "AI安全团体和个人捐助者已在民主党和共和党的选举中投入4800万美元，其中包括OpenAI的胡安·费利佩·塞隆·乌里韦和Redwood的阿尔扬·巴特等研究人员的捐款，以及由科技从业者支持的团体Guardrails Alliance——该团体通过其超级PAC和501(c)(4)组织共筹得1170万美元。"
+                "x": "作为倡议的一部分，Mistral AI与CERN启动合作，开发有望成为物理学领域最大的基础模型。承诺必须体现超越直接商业利益、对科学AI的持续支持，该倡议每年接受审查。"
               },
               {
                 "t": "p",
-                "x": "捐助者告诉Axios，驱动他们的与其说是党派，不如说是担心行业资金会让候选人噤声。OpenAI总裁格雷格·布罗克曼撤回了原计划向Leading the Future进行的第二笔2500万美元捐款，后者是一个由科技高管和投资者支持的超级PAC。"
-              },
-              {
-                "t": "p",
-                "x": "截至第二季度末，Leading the Future拥有超过3100万美元，并已支持超过15名民主党人和25名共和党人。该组织表示，AI监管需要参议院60票，因此安全倡导者应专注于“为采取行动建立广泛联盟”。"
+                "x": "欧盟委员会还发布了关于在研究中负责任地使用生成式AI的更新版Living Guidelines，内容涵盖智能体AI，并启动了RAISE Hub、Forum和Observatory。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Donantes de seguridad en IA dan\n$48M a candidatos prorregulación",
-          "body": "Donantes de seguridad en IA gastaron unos $48 millones en candidatos prorregulación de ambos partidos, según Axios.",
-          "mini_headline": "Dinero de seguridad en IA en las urnas",
+          "headline": "La EU lanza el compromiso RAISE\npara la AI en la ciencia europea",
+          "body": "En Dublín, la Comisión lanzó RAISE para movilizar apoyo privado y filantrópico a investigadores de AI-in-science.",
+          "mini_headline": "La EU lanza los compromisos RAISE",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-                "cap": "Ilustración: Axios"
+                "t": "p",
+                "x": "En la European AI in Science Summit de Dublín, la Comisión Europea lanzó la iniciativa de compromisos RAISE (Resource for AI Science in Europe) para AI in Science Enablers. Su objetivo es movilizar apoyo del sector privado y filantrópico para los investigadores europeos que trabajan entre la inteligencia artificial y la ciencia, más allá de lo que puede aportar la financiación pública por sí sola."
               },
               {
                 "t": "p",
-                "x": "Los defensores de la seguridad y la regulación de la IA están gastando casi 50 millones de dólares en este ciclo electoral de Estados Unidos (U.S.) en candidatos que favorecen la regulación, según un nuevo análisis compartido en exclusiva con Axios."
+                "x": "Parte de la AI in Science Strategy, reúne contribuciones en especie como acceso a modelos de AI de frontera, capacidad de computación, licencias de software de investigación, datos y formación. Los primeros compromisos proceden de la Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral y Google DeepMind."
               },
               {
                 "t": "p",
-                "x": "Grupos de seguridad en IA y donantes individuales han gastado 48 millones de dólares en contiendas demócratas y republicanas. Eso incluye donaciones de investigadores como Juan Felipe Cerón Uribe, de OpenAI, y Aryan Bhatt, de Redwood, y de Guardrails Alliance, un grupo respaldado por trabajadores tecnológicos que ha recaudado 11,7 millones de dólares entre su super PAC y su 501(c)(4)."
+                "x": "Dentro de la iniciativa, Mistral AI y el CERN pusieron en marcha una alianza para desarrollar el que será el mayor modelo fundacional de la física. Los compromisos deben demostrar un apoyo sostenido a la AI en la ciencia más allá de intereses comerciales directos, y la iniciativa se revisará cada año."
               },
               {
                 "t": "p",
-                "x": "Los donantes dijeron a Axios que los motiva menos el partido que el temor a que el gasto de la industria silencie a los candidatos. El presidente de OpenAI, Greg Brockman, retiró una segunda donación prevista de 25 millones de dólares a Leading the Future, un super PAC respaldado por ejecutivos e inversores tecnológicos."
-              },
-              {
-                "t": "p",
-                "x": "Leading the Future tenía más de 31 millones de dólares al cierre del segundo trimestre y ha respaldado a más de 15 demócratas y 25 republicanos. Afirmó que la regulación de la IA necesitará 60 votos en el Senado, por lo que los defensores de la seguridad deberían centrarse en “construir una amplia coalición para actuar”."
+                "x": "La Comisión también presentó unas Living Guidelines actualizadas sobre el uso responsable de la AI generativa en la investigación, que incluyen la AI agéntica, y lanzó el RAISE Hub, el Forum y el Observatory."
               }
             ]
           }
@@ -873,125 +963,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 안전 후원자들,\n규제 찬성 후보에 $48M",
-          "body": "Axios 집계로 AI 안전 후원자가 양당 규제파 후보에 4800만 달러를 썼다.",
-          "mini_headline": "선거판에 흘러간 AI 안전 자금",
+          "headline": "EU RAISE 서약 출범\n유럽 과학의 AI 지원",
+          "body": "집행위는 RAISE로 AI-in-science 연구자에 민간·자선 지원을 모은다.",
+          "mini_headline": "EU, RAISE 서약 출범",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-                "cap": "일러스트: Axios"
+                "t": "p",
+                "x": "더블린에서 열린 European AI in Science Summit에서 유럽연합 집행위원회는 AI in Science Enablers를 위한 RAISE(Resource for AI Science in Europe) 서약 이니셔티브를 출범했다. 공공 자금만으로 감당할 수 있는 범위를 넘어, 인공지능과 과학 전반에서 일하는 유럽 연구자를 위해 민간 부문과 자선 단체의 지원을 끌어내는 것이 목표다."
               },
               {
                 "t": "p",
-                "x": "AI 안전과 규제를 지지하는 이들이 이번 미국(U.S.) 선거 주기에 규제 찬성 후보들에게 5천만 달러 가까이 쓰고 있다고 Axios가 단독 입수한 새 분석이 밝혔다."
+                "x": "AI in Science Strategy의 일환인 이 이니셔티브는 프런티어 AI 모델 접근권, 컴퓨팅 용량, 연구용 소프트웨어 라이선스, 데이터, 교육 같은 현물 기여를 한데 모은다. Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, Google DeepMind가 첫 약정을 내놓았다."
               },
               {
                 "t": "p",
-                "x": "AI 안전 단체와 개인 기부자들은 민주당과 공화당 선거에 4800만 달러를 썼다. 여기에는 OpenAI의 후안 펠리페 세론 우리베, Redwood의 아리안 바트 같은 연구자들의 기부와, 테크 업계 종사자들이 후원하는 단체 Guardrails Alliance가 포함된다. Guardrails Alliance는 슈퍼 PAC과 501(c)(4) 단체를 합쳐 1170만 달러를 모았다."
+                "x": "이니셔티브의 일환으로 Mistral AI와 CERN은 물리학 분야 최대 규모가 될 파운데이션 모델을 개발하는 협력을 시작했다. 서약은 직접적인 상업적 이해를 넘어 과학 AI를 꾸준히 지원한다는 점을 보여야 하며, 이니셔티브는 매년 검토를 거친다."
               },
               {
                 "t": "p",
-                "x": "기부자들은 Axios에 정당보다는 업계 자금이 후보들의 입을 막을 것이라는 우려가 동기라고 말했다. OpenAI의 그레그 브록먼 사장은 테크 경영진과 투자자들이 후원하는 슈퍼 PAC인 Leading the Future에 계획했던 두 번째 2500만 달러 기부를 철회했다."
-              },
-              {
-                "t": "p",
-                "x": "Leading the Future는 2분기 말 기준 3100만 달러 이상을 보유했고, 민주당 15명 이상과 공화당 25명 이상을 지원했다. 이 단체는 AI 규제에는 상원 60표가 필요하므로 안전 옹호자들이 “행동을 위한 폭넓은 연합 구축”에 집중해야 한다고 말했다."
+                "x": "집행위원회는 에이전트형 AI를 포함해 연구에서 생성형 AI를 책임 있게 쓰기 위한 Living Guidelines 개정판도 내놓았고, RAISE Hub, Forum, Observatory도 출범했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI安全派、規制推進の\n候補に4800万ドル",
-          "body": "Axiosによると、AI安全派の寄付者は両党の規制推進候補に約4800万ドルを投じた。",
-          "mini_headline": "選挙に流れるAI安全マネー",
+          "headline": "EUがRAISE誓約始動\n欧州科学のAIを後押し",
+          "body": "欧州委はRAISEを始動し、AI-in-science研究者への民間・慈善支援を募る。",
+          "mini_headline": "EUがRAISE誓約を始動",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-                "cap": "イラスト：Axios"
+                "t": "p",
+                "x": "ダブリンで開かれたEuropean AI in Science Summitで、欧州委員会はAI in Science Enablersを対象とするRAISE(Resource for AI Science in Europe)の誓約イニシアチブを立ち上げた。公的資金だけで賄える範囲を超えて、人工知能と科学の両分野で活動する欧州の研究者に向け、民間セクターや慈善団体の支援を引き出すことを狙う。"
               },
               {
                 "t": "p",
-                "x": "Axiosが独占入手した新たな分析によると、AIの安全性と規制を支持する人々は、今回の米国（U.S.）の選挙サイクルで規制に前向きな候補者に5000万ドル近くを投じている。"
+                "x": "AI in Science Strategyの一環として、最先端AIモデルへのアクセス、計算能力、研究用ソフトウェアのライセンス、データ、トレーニングといった現物提供を束ねる。初期のコミットメントはNovo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral、Google DeepMindが表明した。"
               },
               {
                 "t": "p",
-                "x": "AI安全団体と個人の寄付者は、民主・共和両党の選挙に4800万ドルを投じた。これにはOpenAIのフアン・フェリペ・セロン・ウリベ氏やRedwoodのアーリアン・バット氏といった研究者の寄付に加え、テック業界の働き手が支える団体Guardrails Allianceも含まれる。同団体はスーパーPACと501(c)(4)団体を合わせて1170万ドルを集めた。"
+                "x": "この取り組みの一環として、Mistral AIとCERNは物理学で最大となる見込みの基盤モデルを開発する提携を始めた。誓約は直接の商業的利益を超えて科学向けAIを継続的に支えることを示す必要があり、イニシアチブは毎年見直される。"
               },
               {
                 "t": "p",
-                "x": "寄付者たちはAxiosに対し、動機は党派よりも、業界の資金が候補者を黙らせることへの懸念にあると語った。OpenAIのグレッグ・ブロックマン社長は、テック企業幹部や投資家が支えるスーパーPAC「Leading the Future」への2回目となる2500万ドルの寄付計画を取りやめた。"
-              },
-              {
-                "t": "p",
-                "x": "Leading the Futureは第2四半期末時点で3100万ドル超を保有し、民主党の15人以上、共和党の25人以上を支援してきた。同団体は、AI規制には上院で60票が必要になるため、安全推進派は「行動に向けた幅広い連合づくり」に注力すべきだとしている。"
+                "x": "欧州委員会はまた、エージェント型AIを含む研究における生成AIの責任ある利用に関するLiving Guidelinesの改訂版を示し、RAISE Hub、Forum、Observatoryを立ち上げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI安全派投入4800万美元\n支持主张监管的候选人",
-          "body": "据Axios获得的数据，AI安全捐助者向两党支持监管的候选人投入约4800万美元。",
-          "mini_headline": "AI安全资金涌入选战",
+          "headline": "EU启动RAISE承诺\n支持欧洲科学中的AI",
+          "body": "欧盟委员会在都柏林启动RAISE，为AI-in-science研究者动员私人与慈善支持。",
+          "mini_headline": "EU启动RAISE承诺",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-                "cap": "插图：Axios"
+                "t": "p",
+                "x": "在都柏林举行的European AI in Science Summit上，欧盟委员会为AI in Science Enablers启动了RAISE(Resource for AI Science in Europe)承诺倡议。该倡议旨在动员私营部门和慈善界的支持，在公共资金之外，为横跨人工智能与科学领域的欧洲研究人员提供助力。"
               },
               {
                 "t": "p",
-                "x": "根据与Axios独家分享的一项新分析，AI安全与监管的倡导者在本轮美国（U.S.）选举周期中，正向支持监管的候选人投入近5000万美元。"
+                "x": "作为AI in Science Strategy的一部分，该倡议汇集前沿AI模型使用权、算力、科研软件许可、数据和培训等实物贡献。Novo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral和Google DeepMind已作出首批承诺。"
               },
               {
                 "t": "p",
-                "x": "AI安全团体和个人捐助者已在民主党和共和党的选举中投入4800万美元，其中包括OpenAI的胡安·费利佩·塞隆·乌里韦和Redwood的阿尔扬·巴特等研究人员的捐款，以及由科技从业者支持的团体Guardrails Alliance——该团体通过其超级PAC和501(c)(4)组织共筹得1170万美元。"
+                "x": "作为倡议的一部分，Mistral AI与CERN启动合作，开发有望成为物理学领域最大的基础模型。承诺必须体现超越直接商业利益、对科学AI的持续支持，该倡议每年接受审查。"
               },
               {
                 "t": "p",
-                "x": "捐助者告诉Axios，驱动他们的与其说是党派，不如说是担心行业资金会让候选人噤声。OpenAI总裁格雷格·布罗克曼撤回了原计划向Leading the Future进行的第二笔2500万美元捐款，后者是一个由科技高管和投资者支持的超级PAC。"
-              },
-              {
-                "t": "p",
-                "x": "截至第二季度末，Leading the Future拥有超过3100万美元，并已支持超过15名民主党人和25名共和党人。该组织表示，AI监管需要参议院60票，因此安全倡导者应专注于“为采取行动建立广泛联盟”。"
+                "x": "欧盟委员会还发布了关于在研究中负责任地使用生成式AI的更新版Living Guidelines，内容涵盖智能体AI，并启动了RAISE Hub、Forum和Observatory。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Donantes de seguridad en IA dan\n$48M a candidatos prorregulación",
-          "body": "Donantes de seguridad en IA gastaron unos $48 millones en candidatos prorregulación de ambos partidos, según Axios.",
-          "mini_headline": "Dinero de seguridad en IA en las urnas",
+          "headline": "La EU lanza el compromiso RAISE\npara la AI en la ciencia europea",
+          "body": "En Dublín, la Comisión lanzó RAISE para movilizar apoyo privado y filantrópico a investigadores de AI-in-science.",
+          "mini_headline": "La EU lanza los compromisos RAISE",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg",
-                "cap": "Ilustración: Axios"
+                "t": "p",
+                "x": "En la European AI in Science Summit de Dublín, la Comisión Europea lanzó la iniciativa de compromisos RAISE (Resource for AI Science in Europe) para AI in Science Enablers. Su objetivo es movilizar apoyo del sector privado y filantrópico para los investigadores europeos que trabajan entre la inteligencia artificial y la ciencia, más allá de lo que puede aportar la financiación pública por sí sola."
               },
               {
                 "t": "p",
-                "x": "Los defensores de la seguridad y la regulación de la IA están gastando casi 50 millones de dólares en este ciclo electoral de Estados Unidos (U.S.) en candidatos que favorecen la regulación, según un nuevo análisis compartido en exclusiva con Axios."
+                "x": "Parte de la AI in Science Strategy, reúne contribuciones en especie como acceso a modelos de AI de frontera, capacidad de computación, licencias de software de investigación, datos y formación. Los primeros compromisos proceden de la Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral y Google DeepMind."
               },
               {
                 "t": "p",
-                "x": "Grupos de seguridad en IA y donantes individuales han gastado 48 millones de dólares en contiendas demócratas y republicanas. Eso incluye donaciones de investigadores como Juan Felipe Cerón Uribe, de OpenAI, y Aryan Bhatt, de Redwood, y de Guardrails Alliance, un grupo respaldado por trabajadores tecnológicos que ha recaudado 11,7 millones de dólares entre su super PAC y su 501(c)(4)."
+                "x": "Dentro de la iniciativa, Mistral AI y el CERN pusieron en marcha una alianza para desarrollar el que será el mayor modelo fundacional de la física. Los compromisos deben demostrar un apoyo sostenido a la AI en la ciencia más allá de intereses comerciales directos, y la iniciativa se revisará cada año."
               },
               {
                 "t": "p",
-                "x": "Los donantes dijeron a Axios que los motiva menos el partido que el temor a que el gasto de la industria silencie a los candidatos. El presidente de OpenAI, Greg Brockman, retiró una segunda donación prevista de 25 millones de dólares a Leading the Future, un super PAC respaldado por ejecutivos e inversores tecnológicos."
-              },
-              {
-                "t": "p",
-                "x": "Leading the Future tenía más de 31 millones de dólares al cierre del segundo trimestre y ha respaldado a más de 15 demócratas y 25 republicanos. Afirmó que la regulación de la IA necesitará 60 votos en el Senado, por lo que los defensores de la seguridad deberían centrarse en “construir una amplia coalición para actuar”."
+                "x": "La Comisión también presentó unas Living Guidelines actualizadas sobre el uso responsable de la AI generativa en la investigación, que incluyen la AI agéntica, y lanzó el RAISE Hub, el Forum y el Observatory."
               }
             ]
           }
@@ -999,15 +1069,15 @@
       }
     },
     {
-      "id": "politics-brazil-meta-ai",
+      "id": "politics-eu-ai-act-pressure",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "브라질 결선 앞두고\nMeta AI 편향 논란",
-      "body": "기고에 따르면 Meta AI가 브라질에서 플라비우 이미지는 만들고 룰라는 거부했다.",
-      "mini_headline": "Meta AI와 브라질 결선",
+      "headline": "빅테크, EU에 AI법\n전면 손질 압박",
+      "body": "Microsoft는 EU AI법 재검토를 촉구했고 집행위는 충분하다고 맞선다.",
+      "mini_headline": "빅테크, AI Act 손질 압박",
       "tool": "Politics",
-      "source": "Tech Policy Press",
-      "url": "https://techpolicy.press/meta-moderation-failures-loom-over-brazils-runoff-presidential-election",
+      "source": "POLITICO Europe",
+      "url": "https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1015,179 +1085,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-            "cap": "2026년 10월 11일 상파울루 집회에 모인 룰라 대통령 지지자들. (Rodilei Morais/Fotoarena/Sipa USA)"
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
           },
           {
             "t": "p",
-            "x": "브라질 비영리단체 CTRL+Z의 타치아나 지아스 대표는 Tech Policy Press 기고에서, 룰라 대통령과 플라비우 보우소나루 상원의원이 맞붙는 접전 결선을 앞두고 Meta 플랫폼을 향한 불만이 쌓이고 있다고 썼다."
+            "x": "DUBLIN — AI 에이전트가 통제를 벗어난 사건이 잇따른 여름이 지나자, Microsoft와 Google 최고위 인사들이 EU의 2024년 인공지능법(Artificial Intelligence Act)이 아직 제 목적에 맞는지 공개적으로 의문을 던졌다."
           },
           {
             "t": "p",
-            "x": "지아스에 따르면 Meta AI는 “Flávio”와 소속 정당 투표 번호 “22”를 넣은 이미지 요청에는 플라비우의 실제 사진으로 응했지만 룰라 이미지는 만들지 않았다. 브라질 밖 사용자나 VPN을 거치면 Meta AI가 룰라 이미지도 생성하기 때문에 지역을 겨냥한 차단이 의심된다. 룰라 캠프는 이 사안을 고등선거법원(TSE)으로 가져갔다."
+            "x": "Microsoft의 Brad Smith 사장은 Decoded by POLITICO에 유럽 당국자들이 현행 규칙이 적절한지 다시 따져봐야 한다고 말했다. Google DeepMind 공동창업자 Demis Hassabis는 AI Act를 직접 거론하지 않은 채 무대에서 “삼 년 전 일을 두고 법을 만든다면 오늘날엔 시대에 뒤떨어질 것”이라고 했다."
           },
           {
             "t": "p",
-            "x": "CTRL+Z가 모은 계정 제한 신고는 1,100건이 넘고, 그중 90% 이상이 룰라 지지자의 신고였다고 CTRL+Z는 밝혔다. 브라질 연방검찰청도 조사에 들어갔다."
+            "x": "집행위원회 당국자들은 법이 충분히 강력하다는 입장이다. EU 기술 담당 수장 Henna Virkkunen은 이 법이 AI 에이전트를 다루기에 “잘 갖춰져 있다”고 했고, Michael McGrath 법무 담당 집행위원은 “지금으로선 만족한다”고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+            "cap": "일부 EU 정부는 AI Act에 허점이 있다고 결론 내렸다. | Michele Spatari/NurPhoto via Getty Images"
           },
           {
             "t": "p",
-            "x": "Meta는 정치 개입을 부인했다. 이번 문제 제기는 “사소한 기술적 문제”를 “정치적 서사로 포장한” 것이고, “의도적으로 고른 표본”은 자사의 콘텐츠 관리 작업을 보여 주지 못한다는 주장이다."
+            "x": "일부 EU 정부는 빈틈이 있다고 본다. POLITICO가 입수한 헝가리 문서는 이 법이 대체로 모델이 시장에 나온 뒤에야 적용된다면서 “2026년 사건들은 그 이전에 일어났다”고 짚었다. 체코의 AI 특사 Lukáš Kačena는 “AI Act로는 결코 충분하지 않을 것”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta AI faces bias claims\nahead of Brazil's runoff",
-          "body": "A Tech Policy Press op-ed says Meta AI made images of candidate Flávio Bolsonaro but refused Lula in Brazil.",
-          "mini_headline": "Meta AI and Brazil's runoff",
+          "headline": "Big Tech presses the EU\nto revamp its AI Act",
+          "body": "Microsoft's Brad Smith says the EU should revisit its AI Act, as Commission officials insist the law is strong enough.",
+          "mini_headline": "Big Tech pushes AI Act rework",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-                "cap": "Supporters of President Lula at a rally in São Paulo, Oct 11, 2026. (Rodilei Morais/Fotoarena/Sipa USA)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "In a Tech Policy Press perspective, Tatiana Dias, director of the Brazilian nonprofit CTRL+Z, writes that Meta's platforms face mounting complaints ahead of the tight runoff between President Lula and Senator Flávio Bolsonaro."
+                "x": "DUBLIN — Top bosses from Microsoft and Google have openly questioned whether the EU's 2024 Artificial Intelligence Act still fits the purpose, after a summer of incidents involving AI agents going rogue."
               },
               {
                 "t": "p",
-                "x": "She reports that Meta AI fulfilled requests for images with \"Flávio\" and \"22,\" his party's ballot number, using his real photo, but refused to generate images of Lula. Meta AI does generate Lula images for users outside Brazil or via VPN, which suggests a geo-targeted block. Lula's campaign took the case to the Superior Electoral Court (TSE)."
+                "x": "Microsoft President Brad Smith told Decoded by POLITICO that European officials should reconsider the relevance of the current rules. “If you legislate for something three years ago, it would be out of date today,” Google DeepMind co-founder Demis Hassabis said on stage, without referring to the AI Act."
               },
               {
                 "t": "p",
-                "x": "CTRL+Z says it has collected more than 1,100 reports of restricted accounts, over 90% from Lula supporters, and Brazil's Federal Prosecutor's Office has opened an investigation."
+                "x": "Commission officials insist the law is strong enough. EU tech chief Henna Virkkunen said it is “well-equipped” to handle AI agents. “We are satisfied for now,” Justice Commissioner Michael McGrath said."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+                "cap": "Some EU governments have concluded that the AI Act has loopholes. | Michele Spatari/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta denied political interference, calling the claims \"minor technical issues\" being \"spun into a political narrative,\" and said a \"deliberately selected sample\" does not reflect its moderation work."
+                "x": "Some EU governments see gaps. A Hungarian paper seen by POLITICO notes the Act largely applies once a model is placed on the market: “The 2026 incidents occurred before that point.” Czech AI envoy Lukáš Kačena said: “The AI Act will never be enough.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "브라질 결선 앞두고\nMeta AI 편향 논란",
-          "body": "기고에 따르면 Meta AI가 브라질에서 플라비우 이미지는 만들고 룰라는 거부했다.",
-          "mini_headline": "Meta AI와 브라질 결선",
+          "headline": "빅테크, EU에 AI법\n전면 손질 압박",
+          "body": "Microsoft는 EU AI법 재검토를 촉구했고 집행위는 충분하다고 맞선다.",
+          "mini_headline": "빅테크, AI Act 손질 압박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-                "cap": "2026년 10월 11일 상파울루 집회에 모인 룰라 대통령 지지자들. (Rodilei Morais/Fotoarena/Sipa USA)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "브라질 비영리단체 CTRL+Z의 타치아나 지아스 대표는 Tech Policy Press 기고에서, 룰라 대통령과 플라비우 보우소나루 상원의원이 맞붙는 접전 결선을 앞두고 Meta 플랫폼을 향한 불만이 쌓이고 있다고 썼다."
+                "x": "DUBLIN — AI 에이전트가 통제를 벗어난 사건이 잇따른 여름이 지나자, Microsoft와 Google 최고위 인사들이 EU의 2024년 인공지능법(Artificial Intelligence Act)이 아직 제 목적에 맞는지 공개적으로 의문을 던졌다."
               },
               {
                 "t": "p",
-                "x": "지아스에 따르면 Meta AI는 “Flávio”와 소속 정당 투표 번호 “22”를 넣은 이미지 요청에는 플라비우의 실제 사진으로 응했지만 룰라 이미지는 만들지 않았다. 브라질 밖 사용자나 VPN을 거치면 Meta AI가 룰라 이미지도 생성하기 때문에 지역을 겨냥한 차단이 의심된다. 룰라 캠프는 이 사안을 고등선거법원(TSE)으로 가져갔다."
+                "x": "Microsoft의 Brad Smith 사장은 Decoded by POLITICO에 유럽 당국자들이 현행 규칙이 적절한지 다시 따져봐야 한다고 말했다. Google DeepMind 공동창업자 Demis Hassabis는 AI Act를 직접 거론하지 않은 채 무대에서 “삼 년 전 일을 두고 법을 만든다면 오늘날엔 시대에 뒤떨어질 것”이라고 했다."
               },
               {
                 "t": "p",
-                "x": "CTRL+Z가 모은 계정 제한 신고는 1,100건이 넘고, 그중 90% 이상이 룰라 지지자의 신고였다고 CTRL+Z는 밝혔다. 브라질 연방검찰청도 조사에 들어갔다."
+                "x": "집행위원회 당국자들은 법이 충분히 강력하다는 입장이다. EU 기술 담당 수장 Henna Virkkunen은 이 법이 AI 에이전트를 다루기에 “잘 갖춰져 있다”고 했고, Michael McGrath 법무 담당 집행위원은 “지금으로선 만족한다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+                "cap": "일부 EU 정부는 AI Act에 허점이 있다고 결론 내렸다. | Michele Spatari/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta는 정치 개입을 부인했다. 이번 문제 제기는 “사소한 기술적 문제”를 “정치적 서사로 포장한” 것이고, “의도적으로 고른 표본”은 자사의 콘텐츠 관리 작업을 보여 주지 못한다는 주장이다."
+                "x": "일부 EU 정부는 빈틈이 있다고 본다. POLITICO가 입수한 헝가리 문서는 이 법이 대체로 모델이 시장에 나온 뒤에야 적용된다면서 “2026년 사건들은 그 이전에 일어났다”고 짚었다. 체코의 AI 특사 Lukáš Kačena는 “AI Act로는 결코 충분하지 않을 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラジル決選投票を前に\nMeta AIに偏向疑惑",
-          "body": "寄稿によると、Meta AIはブラジルでボルソナロ候補の画像を作り、ルラ氏は拒んだ。",
-          "mini_headline": "Meta AIとブラジル決選投票",
+          "headline": "巨大テックがEUに\nAI法の見直し迫る",
+          "body": "MicrosoftのSmithはEUにAI法の再考を求め、欧州委は十分だと譲らない。",
+          "mini_headline": "巨大テック、AI Act見直し迫る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-                "cap": "2026年10月11日、サンパウロの集会に集まったルラ大統領の支持者ら。(Rodilei Morais/Fotoarena/Sipa USA)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "ブラジルの非営利団体CTRL+Zのディレクター、タチアナ・ジアス氏はTech Policy Pressへの寄稿で、ルラ大統領とフラビオ・ボルソナロ上院議員による接戦の決選投票を前に、Metaのプラットフォームへの苦情が相次いでいると書いた。"
+                "x": "DUBLIN — AIエージェントが暴走する事案が相次いだ夏を経て、MicrosoftとGoogleのトップが、EUの2024年人工知能法(Artificial Intelligence Act)がなお目的に適っているのか公然と疑問を呈した。"
               },
               {
                 "t": "p",
-                "x": "同氏によると、Meta AIは「Flávio」と、同氏の政党の投票番号である「22」を含む画像の依頼に、本人の実際の写真を使って応じた一方、ルラ氏の画像の生成は拒否した。Meta AIはブラジル国外のユーザーやVPN経由ではルラ氏の画像を生成するため、地域を絞ったブロックがうかがえる。ルラ陣営はこの件を高等選挙裁判所（TSE）に持ち込んだ。"
+                "x": "MicrosoftのBrad Smith社長はDecoded by POLITICOに対し、欧州当局は現行ルールの妥当性を見直すべきだと語った。Google DeepMind共同創業者のDemis HassabisはAI Actに触れることなく、壇上で「三年前の事柄に合わせて法律を作れば、今日には時代遅れになる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "CTRL+Zによると、アカウント制限の報告を1,100件以上集め、その90%超がルラ氏の支持者からだった。ブラジル連邦検察庁は調査を開始した。"
+                "x": "欧州委員会の当局者は、この法律は十分に強力だと主張する。EUの技術担当トップHenna Virkkunenは、AIエージェントに対処する「備えは十分」だと述べた。Michael McGrath司法担当委員は「今のところ満足している」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+                "cap": "一部のEU加盟国政府は、AI Actに抜け穴があると結論づけた。 | Michele Spatari/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Metaは政治的介入を否定し、一連の指摘は「軽微な技術的問題」を「政治的な物語に仕立てた」ものだとしたうえで、「意図的に選ばれたサンプル」は同社のモデレーション業務を反映していないと述べた。"
+                "x": "一部のEU政府は欠陥を見ている。POLITICOが確認したハンガリーの文書は、同法が主にモデルの市場投入後に適用されると指摘し、「2026年の事案はその前に起きた」と記す。チェコのAI特使Lukáš Kačenaは「AI Actで十分になることは決してない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "巴西决选在即\nMeta AI陷偏见指控",
-          "body": "一篇评论文章称，Meta AI在巴西为弗拉维奥·博索纳罗生成图像，却拒绝为卢拉生成。",
-          "mini_headline": "Meta AI与巴西决选",
+          "headline": "科技巨头施压EU\n要求改革AI法案",
+          "body": "Microsoft的Brad Smith称EU应重审AI法案，委员会则坚称该法已足够。",
+          "mini_headline": "科技巨头促改AI Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-                "cap": "2026年10月11日，卢拉总统的支持者在圣保罗参加集会。（Rodilei Morais/Fotoarena/Sipa USA）"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "巴西非营利组织CTRL+Z负责人塔蒂亚娜·迪亚斯在Tech Policy Press发表观点文章称，在卢拉总统与参议员弗拉维奥·博索纳罗之间胶着的决选投票前夕，Meta旗下平台面临越来越多的投诉。"
+                "x": "DUBLIN — 在经历了一个AI智能体频频失控的夏天之后，Microsoft和Google的高层公开质疑EU 2024年的《人工智能法》(Artificial Intelligence Act)是否仍然合乎目的。"
               },
               {
                 "t": "p",
-                "x": "她报告说，Meta AI会响应含有“Flávio”和其政党选票号码“22”的图像请求，并使用他的真实照片，却拒绝生成卢拉的图像。而对巴西境外用户或通过VPN访问的用户，Meta AI确实会生成卢拉的图像，这表明存在按地域实施的屏蔽。卢拉竞选团队已将此事诉至高等选举法院（TSE）。"
+                "x": "Microsoft总裁Brad Smith对Decoded by POLITICO表示，欧洲官员应重新考虑现行规则的适用性。Google DeepMind联合创始人Demis Hassabis在台上表示：“如果针对三年前的事物立法，到今天就会过时。”他并未提及AI Act。"
               },
               {
                 "t": "p",
-                "x": "CTRL+Z表示，已收集到1,100多份账号受限的报告，其中超过90%来自卢拉支持者；巴西联邦检察院已启动调查。"
+                "x": "欧盟委员会官员坚称该法足够有力。EU科技事务负责人Henna Virkkunen表示，该法“完全有能力”应对AI智能体。司法专员Michael McGrath表示：“我们目前感到满意。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+                "cap": "部分EU国家政府认定AI Act存在漏洞。| Michele Spatari/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta否认存在政治干预，称这些指控是把“轻微的技术问题”“炒作成政治叙事”，并表示“刻意挑选的样本”并不能反映其内容审核工作。"
+                "x": "部分EU国家政府看到了缺口。POLITICO看到的一份匈牙利文件指出，该法主要在模型投放市场后才适用：“2026年的事件发生在那之前。”捷克AI特使Lukáš Kačena说：“AI Act永远不会足够。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Acusan de sesgo a Meta AI antes\nde la segunda vuelta en Brasil",
-          "body": "Una columna en Tech Policy Press dice que Meta AI creó imágenes de Flávio Bolsonaro, pero no de Lula, en Brasil.",
-          "mini_headline": "Meta AI y la segunda vuelta en Brasil",
+          "headline": "Big Tech presiona a la EU\npara reformar su Ley de AI",
+          "body": "Brad Smith, de Microsoft, pide que la EU revise su Ley de AI, mientras la Comisión insiste en que la norma basta.",
+          "mini_headline": "Big Tech pide rehacer la AI Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-                "cap": "Simpatizantes del presidente Lula en un mitin en São Paulo, 11 de octubre de 2026. (Rodilei Morais/Fotoarena/Sipa USA)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "En una tribuna de Tech Policy Press, Tatiana Dias, directora de la organización brasileña sin fines de lucro CTRL+Z, escribe que las plataformas de Meta acumulan quejas ante la reñida segunda vuelta entre el presidente Lula y el senador Flávio Bolsonaro."
+                "x": "DUBLIN — Altos directivos de Microsoft y Google han cuestionado abiertamente si la Ley de Inteligencia Artificial de 2024 de la EU (Artificial Intelligence Act) sigue siendo adecuada, tras un verano de incidentes con agentes de AI fuera de control."
               },
               {
                 "t": "p",
-                "x": "Según relata, Meta AI atendió solicitudes de imágenes con “Flávio” y “22”, el número electoral de su partido, usando su foto real, pero se negó a generar imágenes de Lula. Meta AI sí genera imágenes de Lula para usuarios fuera de Brasil o mediante VPN, lo que sugiere un bloqueo geolocalizado. La campaña de Lula llevó el caso al Tribunal Superior Electoral (TSE)."
+                "x": "El presidente de Microsoft, Brad Smith, dijo a Decoded by POLITICO que los responsables europeos deberían reconsiderar la vigencia de las normas actuales. “Si legislas para algo de hace tres años, hoy estaría desfasado”, dijo en el escenario Demis Hassabis, cofundador de Google DeepMind, sin referirse a la AI Act."
               },
               {
                 "t": "p",
-                "x": "CTRL+Z afirma haber reunido más de 1.100 denuncias de cuentas restringidas, más del 90% de simpatizantes de Lula, y la Fiscalía Federal de Brasil abrió una investigación."
+                "x": "Los responsables de la Comisión insisten en que la ley es lo bastante sólida. La jefa de tecnología de la EU, Henna Virkkunen, dijo que está “bien equipada” para afrontar los agentes de AI. “Por ahora estamos satisfechos”, dijo el comisario de Justicia, Michael McGrath."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+                "cap": "Algunos gobiernos de la EU han concluido que la AI Act tiene lagunas. | Michele Spatari/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta negó cualquier injerencia política, calificó las denuncias de “problemas técnicos menores” que se están “convirtiendo en un relato político” y dijo que una “muestra seleccionada deliberadamente” no refleja su labor de moderación."
+                "x": "Algunos gobiernos de la EU ven lagunas. Un documento húngaro al que ha tenido acceso POLITICO señala que la ley se aplica sobre todo una vez que un modelo sale al mercado: “Los incidentes de 2026 ocurrieron antes de ese momento”. El enviado checo para la AI, Lukáš Kačena, dijo: “La AI Act nunca será suficiente”."
               }
             ]
           }
@@ -1195,125 +1289,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "브라질 결선 앞두고\nMeta AI 편향 논란",
-          "body": "기고에 따르면 Meta AI는 브라질서 플라비우 이미지는 만들고 룰라는 거부했다.",
-          "mini_headline": "Meta AI와 브라질 결선",
+          "headline": "빅테크, EU에 AI법\n전면 손질 압박",
+          "body": "Microsoft는 EU AI법 재검토를 촉구했고 집행위는 충분하다고 맞선다.",
+          "mini_headline": "빅테크, AI Act 손질 압박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-                "cap": "2026년 10월 11일 상파울루 집회에 모인 룰라 대통령 지지자들. (Rodilei Morais/Fotoarena/Sipa USA)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "브라질 비영리단체 CTRL+Z의 타치아나 지아스 대표는 Tech Policy Press 기고에서 룰라 대통령과 플라비우 보우소나루 상원의원의 접전 결선을 앞두고 Meta 플랫폼에 대한 불만이 쌓이고 있다고 썼다."
+                "x": "DUBLIN — AI 에이전트가 통제를 벗어난 사건이 잇따른 여름을 보낸 뒤, Microsoft와 Google 최고위 인사들이 EU의 2024년 인공지능법(Artificial Intelligence Act)이 여전히 목적에 맞는지 공개적으로 의문을 제기했다."
               },
               {
                 "t": "p",
-                "x": "그에 따르면 Meta AI는 “Flávio”와 그의 정당 투표 번호인 “22”를 넣은 이미지 요청에 그의 실제 사진을 써서 응했지만, 룰라 이미지는 생성을 거부했다. 브라질 밖 사용자나 VPN을 거치면 Meta AI가 룰라 이미지를 생성해, 지역을 겨냥한 차단이 의심된다. 룰라 캠프는 이 사안을 고등선거법원(TSE)에 가져갔다."
+                "x": "Microsoft의 Brad Smith 사장은 Decoded by POLITICO에 유럽 당국자들이 현행 규칙의 적합성을 다시 따져봐야 한다고 말했다. Google DeepMind 공동창업자 Demis Hassabis는 AI Act를 언급하지 않은 채 무대에서 “삼 년 전 일을 두고 법을 만든다면 오늘날엔 시대에 뒤떨어질 것”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "CTRL+Z는 계정 제한 신고를 1,100건 넘게 모았고 그중 90% 이상이 룰라 지지자의 신고라고 밝혔다. 브라질 연방검찰청은 조사에 착수했다."
+                "x": "집행위원회 당국자들은 법이 충분히 강력하다고 강조한다. EU 기술 담당 수장 Henna Virkkunen은 이 법이 AI 에이전트를 다루기에 “잘 갖춰져 있다”고 말했다. Michael McGrath 법무 담당 집행위원은 “지금으로선 만족한다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+                "cap": "일부 EU 정부는 AI Act에 허점이 있다고 결론 내렸다. | Michele Spatari/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta는 정치 개입을 부인했다. 문제 제기는 “사소한 기술적 문제”를 “정치적 서사로 포장한” 것이며, “의도적으로 고른 표본”은 자사의 콘텐츠 관리 작업을 반영하지 않는다고 말했다."
+                "x": "일부 EU 정부는 빈틈을 본다. POLITICO가 입수한 헝가리 문서는 이 법이 대체로 모델이 시장에 나온 뒤에야 적용된다며 “2026년 사건들은 그 이전에 일어났다”고 지적한다. 체코의 AI 특사 Lukáš Kačena는 “AI Act로는 결코 충분하지 않을 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラジル決選投票を前に\nMeta AIに偏向疑惑",
-          "body": "寄稿によると、Meta AIはブラジルでボルソナロ候補の画像を作り、ルラ氏は拒んだ。",
-          "mini_headline": "Meta AIとブラジル決選投票",
+          "headline": "巨大テックがEUに\nAI法の見直し迫る",
+          "body": "MicrosoftのSmithはEUにAI法の再考を求め、欧州委は十分だと譲らない。",
+          "mini_headline": "巨大テック、AI Act見直し迫る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-                "cap": "2026年10月11日、サンパウロの集会に集まったルラ大統領の支持者ら。(Rodilei Morais/Fotoarena/Sipa USA)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "ブラジルの非営利団体CTRL+Zのディレクター、タチアナ・ジアス氏はTech Policy Pressへの寄稿で、ルラ大統領とフラビオ・ボルソナロ上院議員による接戦の決選投票を前に、Metaのプラットフォームへの苦情が相次いでいると書いた。"
+                "x": "DUBLIN — AIエージェントが暴走する事案が相次いだ夏を経て、MicrosoftとGoogleのトップが、EUの2024年人工知能法(Artificial Intelligence Act)がなお目的に適っているのか公然と疑問を呈した。"
               },
               {
                 "t": "p",
-                "x": "同氏によると、Meta AIは「Flávio」と、同氏の政党の投票番号である「22」を含む画像の依頼に、本人の実際の写真を使って応じた一方、ルラ氏の画像の生成は拒否した。Meta AIはブラジル国外のユーザーやVPN経由ではルラ氏の画像を生成するため、地域を絞ったブロックがうかがえる。ルラ陣営はこの件を高等選挙裁判所（TSE）に持ち込んだ。"
+                "x": "MicrosoftのBrad Smith社長はDecoded by POLITICOに対し、欧州当局は現行ルールの妥当性を見直すべきだと語った。Google DeepMind共同創業者のDemis HassabisはAI Actに触れることなく、壇上で「三年前の事柄に合わせて法律を作れば、今日には時代遅れになる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "CTRL+Zによると、アカウント制限の報告を1,100件以上集め、その90%超がルラ氏の支持者からだった。ブラジル連邦検察庁は調査を開始した。"
+                "x": "欧州委員会の当局者は、この法律は十分に強力だと主張する。EUの技術担当トップHenna Virkkunenは、AIエージェントに対処する「備えは十分」だと述べた。Michael McGrath司法担当委員は「今のところ満足している」と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+                "cap": "一部のEU加盟国政府は、AI Actに抜け穴があると結論づけた。 | Michele Spatari/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Metaは政治的介入を否定し、一連の指摘は「軽微な技術的問題」を「政治的な物語に仕立てた」ものだとしたうえで、「意図的に選ばれたサンプル」は同社のモデレーション業務を反映していないと述べた。"
+                "x": "一部のEU政府は欠陥を見ている。POLITICOが確認したハンガリーの文書は、同法が主にモデルの市場投入後に適用されると指摘し、「2026年の事案はその前に起きた」と記す。チェコのAI特使Lukáš Kačenaは「AI Actで十分になることは決してない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "巴西决选在即\nMeta AI陷偏见指控",
-          "body": "一篇评论文章称，Meta AI在巴西为弗拉维奥·博索纳罗生成图像，却拒绝为卢拉生成。",
-          "mini_headline": "Meta AI与巴西决选",
+          "headline": "科技巨头施压EU\n要求改革AI法案",
+          "body": "Microsoft的Brad Smith称EU应重审AI法案，委员会则坚称该法已足够。",
+          "mini_headline": "科技巨头促改AI Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-                "cap": "2026年10月11日，卢拉总统的支持者在圣保罗参加集会。（Rodilei Morais/Fotoarena/Sipa USA）"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "巴西非营利组织CTRL+Z负责人塔蒂亚娜·迪亚斯在Tech Policy Press发表观点文章称，在卢拉总统与参议员弗拉维奥·博索纳罗之间胶着的决选投票前夕，Meta旗下平台面临越来越多的投诉。"
+                "x": "DUBLIN — 在经历了一个AI智能体频频失控的夏天之后，Microsoft和Google的高层公开质疑EU 2024年的《人工智能法》(Artificial Intelligence Act)是否仍然合乎目的。"
               },
               {
                 "t": "p",
-                "x": "她报告说，Meta AI会响应含有“Flávio”和其政党选票号码“22”的图像请求，并使用他的真实照片，却拒绝生成卢拉的图像。而对巴西境外用户或通过VPN访问的用户，Meta AI确实会生成卢拉的图像，这表明存在按地域实施的屏蔽。卢拉竞选团队已将此事诉至高等选举法院（TSE）。"
+                "x": "Microsoft总裁Brad Smith对Decoded by POLITICO表示，欧洲官员应重新考虑现行规则的适用性。Google DeepMind联合创始人Demis Hassabis在台上表示：“如果针对三年前的事物立法，到今天就会过时。”他并未提及AI Act。"
               },
               {
                 "t": "p",
-                "x": "CTRL+Z表示，已收集到1,100多份账号受限的报告，其中超过90%来自卢拉支持者；巴西联邦检察院已启动调查。"
+                "x": "欧盟委员会官员坚称该法足够有力。EU科技事务负责人Henna Virkkunen表示，该法“完全有能力”应对AI智能体。司法专员Michael McGrath表示：“我们目前感到满意。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+                "cap": "部分EU国家政府认定AI Act存在漏洞。| Michele Spatari/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta否认存在政治干预，称这些指控是把“轻微的技术问题”“炒作成政治叙事”，并表示“刻意挑选的样本”并不能反映其内容审核工作。"
+                "x": "部分EU国家政府看到了缺口。POLITICO看到的一份匈牙利文件指出，该法主要在模型投放市场后才适用：“2026年的事件发生在那之前。”捷克AI特使Lukáš Kačena说：“AI Act永远不会足够。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Acusan de sesgo a Meta AI antes\nde la segunda vuelta en Brasil",
-          "body": "Una columna en Tech Policy Press dice que Meta AI creó imágenes de Flávio Bolsonaro, pero no de Lula, en Brasil.",
-          "mini_headline": "Meta AI y la segunda vuelta en Brasil",
+          "headline": "Big Tech presiona a la EU\npara reformar su Ley de AI",
+          "body": "Brad Smith, de Microsoft, pide que la EU revise su Ley de AI, mientras la Comisión insiste en que la norma basta.",
+          "mini_headline": "Big Tech pide rehacer la AI Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/611d58e98a34a55261f4508d3b93ac59652be497-1200x675.jpg",
-                "cap": "Simpatizantes del presidente Lula en un mitin en São Paulo, 11 de octubre de 2026. (Rodilei Morais/Fotoarena/Sipa USA)"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "En una tribuna de Tech Policy Press, Tatiana Dias, directora de la organización brasileña sin fines de lucro CTRL+Z, escribe que las plataformas de Meta acumulan quejas ante la reñida segunda vuelta entre el presidente Lula y el senador Flávio Bolsonaro."
+                "x": "DUBLIN — Altos directivos de Microsoft y Google han cuestionado abiertamente si la Ley de Inteligencia Artificial de 2024 de la EU (Artificial Intelligence Act) sigue siendo adecuada, tras un verano de incidentes con agentes de AI fuera de control."
               },
               {
                 "t": "p",
-                "x": "Según relata, Meta AI atendió solicitudes de imágenes con “Flávio” y “22”, el número electoral de su partido, usando su foto real, pero se negó a generar imágenes de Lula. Meta AI sí genera imágenes de Lula para usuarios fuera de Brasil o mediante VPN, lo que sugiere un bloqueo geolocalizado. La campaña de Lula llevó el caso al Tribunal Superior Electoral (TSE)."
+                "x": "El presidente de Microsoft, Brad Smith, dijo a Decoded by POLITICO que los responsables europeos deberían reconsiderar la vigencia de las normas actuales. “Si legislas para algo de hace tres años, hoy estaría desfasado”, dijo en el escenario Demis Hassabis, cofundador de Google DeepMind, sin referirse a la AI Act."
               },
               {
                 "t": "p",
-                "x": "CTRL+Z afirma haber reunido más de 1.100 denuncias de cuentas restringidas, más del 90% de simpatizantes de Lula, y la Fiscalía Federal de Brasil abrió una investigación."
+                "x": "Los responsables de la Comisión insisten en que la ley es lo bastante sólida. La jefa de tecnología de la EU, Henna Virkkunen, dijo que está “bien equipada” para afrontar los agentes de AI. “Por ahora estamos satisfechos”, dijo el comisario de Justicia, Michael McGrath."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+                "cap": "Algunos gobiernos de la EU han concluido que la AI Act tiene lagunas. | Michele Spatari/NurPhoto via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Meta negó cualquier injerencia política, calificó las denuncias de “problemas técnicos menores” que se están “convirtiendo en un relato político” y dijo que una “muestra seleccionada deliberadamente” no refleja su labor de moderación."
+                "x": "Algunos gobiernos de la EU ven lagunas. Un documento húngaro al que ha tenido acceso POLITICO señala que la ley se aplica sobre todo una vez que un modelo sale al mercado: “Los incidentes de 2026 ocurrieron antes de ese momento”. El enviado checo para la AI, Lukáš Kačena, dijo: “La AI Act nunca será suficiente”."
               }
             ]
           }
@@ -1321,15 +1431,15 @@
       }
     },
     {
-      "id": "politics-uae-k12-ai",
+      "id": "politics-brookings-ai-evals",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UAE, 유치원부터\n12학년까지 AI 필수",
-      "body": "UAE는 K-12 AI 교육을 의무화해 국가 AI-literacy 정책을 드러냈다.",
-      "mini_headline": "UAE, K-12 AI 수업",
+      "headline": "Brookings, 각국\n프런티어 AI 평가 정리",
+      "body": "FCAI용 Brookings 자료는 정부와 AI 안전연구소의 모델 시험을 견준다.",
+      "mini_headline": "각국의 AI 모델 시험법",
       "tool": "Politics",
-      "source": "Rest of World",
-      "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/",
+      "source": "Brookings",
+      "url": "https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/",
       "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
@@ -1337,179 +1447,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-            "cap": "Rest of World"
+            "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
           },
           {
             "t": "p",
-            "x": "아랍에미리트(UAE)가 최근 AI를 K-12 필수 과목으로 정했다. 이렇게 한 나라는 UAE가 처음이다. Rugby School Dubai의 헨리 프라이스 교장은 AI가 “읽기, 쓰기, 토론, 창의성을 대체하지 않는다. 오히려 그것들을 강화한다”고 말한다."
+            "x": "이 배경 브리핑 가이드는 2026년 구월 15일 Forum for Cooperation on AI(FCAI) 대화를 앞두고 참가자들에게 배포됐다. 각국 정부와 기관이 한꺼번에 AI 평가 역량을 키우는 가운데, 최근 사건들로 이 작업이 새삼 급해졌다."
           },
           {
             "t": "p",
-            "x": "그렇다고 마음껏 쓰게 두지는 않는다. 학교는 AI의 작동 원리와 실패하는 지점, 사람이 AI를 써야 할 때를 가르친다. Dubai Schools Al Khawaneej의 1~3학년은 생성형 AI를 직접 쓰지 않고 이야기와 역할극으로 배운다."
+            "x": "평가 주체는 개발사에서 얼마나 독립적인지에 따라 갈린다. 퍼스트파티 평가는 사내에서 하고 세컨드파티 평가자는 계약으로 묶여 있으며, 서드파티 평가자는 그런 관계가 없다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+            "cap": "Figure A"
           },
           {
             "t": "p",
-            "x": "정부는 교사 2만 2000명을 연수해 수업, 평가, 교육과정 분석, 수업 계획에 AI를 쓰게 할 계획이다. 뉴욕시는 반대로 유아 과정부터 8학년까지 학생의 생성형 AI 사용을 1년간 유예했고, 노르웨이도 초등학생에게 비슷한 사실상 금지 조치를 두고 있다."
+            "x": "U.S.에서는 CAISI가 프런티어 모델의 국가안보 시험을 맡는다. 오월에는 Google DeepMind, Microsoft, xAI와 배포 전 평가 협약을 맺었다. EU AI Act의 평가 의무는 주로 제55조에 담겼다. U.K. AI Security Institute는 재현 가능한 평가를 위한 오픈소스 프레임워크 Inspect를 만들었고, 일본·싱가포르·캐나다·호주도 각자 AI 안전연구소를 운영한다."
           },
           {
             "t": "p",
-            "x": "학부모들은 대체로 변화를 반겼지만 투명성과 데이터 프라이버시를 걱정했다. 전문가들은 이 모델을 재현하기 어렵다고 본다. UAE는 작고 자원이 풍부한 데다 교사 1명당 학생이 2명으로, 케냐의 최대 68명과 차이가 크다."
+            "x": "브리핑은 “어떤 평가도 전체 그림을 보여줄 수 없다”면서 평가가 “중립적인 도구가 아니다”라고 짚는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "The UAE requires AI lessons\nfrom kindergarten to grade 12",
-          "body": "The UAE's mandate for AI education from kindergarten through 12th grade offers a look at national AI-literacy policy.",
-          "mini_headline": "UAE AI lessons, K to 12",
+          "headline": "Brookings maps how countries\nevaluate frontier AI models",
+          "body": "A Brookings briefing for the FCAI dialogue compares how governments and AI safety institutes test frontier models.",
+          "mini_headline": "How nations test AI models",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-                "cap": "Rest of World"
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
               },
               {
                 "t": "p",
-                "x": "The United Arab Emirates recently became the first country to make AI a required K-12 subject. At Rugby School Dubai, principal Henry Price says AI \"does not replace reading, writing, discussion, or creativity. It enhances them.\""
+                "x": "This background briefing guide was distributed to participants ahead of the Forum for Cooperation on AI (FCAI) dialogue on Sept. 15, 2026. Governments and organizations are building AI evaluation capacity simultaneously, and recent events gave that work new urgency."
               },
               {
                 "t": "p",
-                "x": "The approach is not unrestricted access: schools teach how AI works, where it fails, and when humans should use it. At Dubai Schools Al Khawaneej, grades one to three learn through stories and role-play rather than using generative AI themselves."
+                "x": "Evaluators differ in their independence from developers: first-party evaluations are run in-house, second-party evaluators have a contractual relationship, and third-party evaluators have none."
+              },
+              {
+                "t": "img",
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+                "cap": "Figure A"
               },
               {
                 "t": "p",
-                "x": "The government plans to train 22,000 teachers to use AI for teaching, assessment, curriculum analysis, and lesson planning. By contrast, New York City introduced a one-year moratorium on student-facing generative AI from preschool through grade eight, and Norway has a similar near-ban for primary pupils."
+                "x": "In the U.S., CAISI runs national security testing of frontier models and signed predeployment evaluation agreements with Google DeepMind, Microsoft, and xAI in May. The EU AI Act's evaluation obligations sit mainly in Article 55. The U.K. AI Security Institute developed Inspect, an open-source framework for reproducible evaluations, while Japan, Singapore, Canada and Australia run their own AI safety institutes."
               },
               {
                 "t": "p",
-                "x": "Parents broadly supported the change but raised concerns about transparency and data privacy. Experts note the UAE's small, well-resourced system, with two students per teacher versus up to 68 in Kenya, makes the model hard to replicate."
+                "x": "“No evaluation can give the full picture,” the briefing notes; evaluations are “not neutral instruments.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "UAE, 유치원부터\n12학년까지 AI 필수",
-          "body": "UAE는 K-12 AI 교육을 의무화해 국가 AI-literacy 정책을 드러냈다.",
-          "mini_headline": "UAE, K-12 AI 수업",
+          "headline": "Brookings, 각국\n프런티어 AI 평가 정리",
+          "body": "FCAI용 Brookings 자료는 정부와 AI 안전연구소의 모델 시험을 견준다.",
+          "mini_headline": "각국의 AI 모델 시험법",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-                "cap": "Rest of World"
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
               },
               {
                 "t": "p",
-                "x": "아랍에미리트(UAE)가 최근 AI를 K-12 필수 과목으로 정했다. 이렇게 한 나라는 UAE가 처음이다. Rugby School Dubai의 헨리 프라이스 교장은 AI가 “읽기, 쓰기, 토론, 창의성을 대체하지 않는다. 오히려 그것들을 강화한다”고 말한다."
+                "x": "이 배경 브리핑 가이드는 2026년 구월 15일 Forum for Cooperation on AI(FCAI) 대화를 앞두고 참가자들에게 배포됐다. 각국 정부와 기관이 한꺼번에 AI 평가 역량을 키우는 가운데, 최근 사건들로 이 작업이 새삼 급해졌다."
               },
               {
                 "t": "p",
-                "x": "그렇다고 마음껏 쓰게 두지는 않는다. 학교는 AI의 작동 원리와 실패하는 지점, 사람이 AI를 써야 할 때를 가르친다. Dubai Schools Al Khawaneej의 1~3학년은 생성형 AI를 직접 쓰지 않고 이야기와 역할극으로 배운다."
+                "x": "평가 주체는 개발사에서 얼마나 독립적인지에 따라 갈린다. 퍼스트파티 평가는 사내에서 하고 세컨드파티 평가자는 계약으로 묶여 있으며, 서드파티 평가자는 그런 관계가 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+                "cap": "Figure A"
               },
               {
                 "t": "p",
-                "x": "정부는 교사 2만 2000명을 연수해 수업, 평가, 교육과정 분석, 수업 계획에 AI를 쓰게 할 계획이다. 뉴욕시는 반대로 유아 과정부터 8학년까지 학생의 생성형 AI 사용을 1년간 유예했고, 노르웨이도 초등학생에게 비슷한 사실상 금지 조치를 두고 있다."
+                "x": "U.S.에서는 CAISI가 프런티어 모델의 국가안보 시험을 맡는다. 오월에는 Google DeepMind, Microsoft, xAI와 배포 전 평가 협약을 맺었다. EU AI Act의 평가 의무는 주로 제55조에 담겼다. U.K. AI Security Institute는 재현 가능한 평가를 위한 오픈소스 프레임워크 Inspect를 만들었고, 일본·싱가포르·캐나다·호주도 각자 AI 안전연구소를 운영한다."
               },
               {
                 "t": "p",
-                "x": "학부모들은 대체로 변화를 반겼지만 투명성과 데이터 프라이버시를 걱정했다. 전문가들은 이 모델을 재현하기 어렵다고 본다. UAE는 작고 자원이 풍부한 데다 교사 1명당 학생이 2명으로, 케냐의 최대 68명과 차이가 크다."
+                "x": "브리핑은 “어떤 평가도 전체 그림을 보여줄 수 없다”면서 평가가 “중립적인 도구가 아니다”라고 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UAE、幼稚園から\n12年生までAI必修に",
-          "body": "UAEの幼稚園〜12年生のAI教育義務化は、国のAI-literacy政策を映す。",
-          "mini_headline": "UAEのAI授業、K-12",
+          "headline": "Brookings、各国の\n先端AI評価を整理",
+          "body": "FCAI向けのBrookings資料は、政府とAI安全研究所の先端モデル評価を比べる。",
+          "mini_headline": "各国のAIモデル評価",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-                "cap": "Rest of World"
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
               },
               {
                 "t": "p",
-                "x": "アラブ首長国連邦（UAE）は最近、AIをK-12の必修科目とした初の国となった。Rugby School Dubaiのヘンリー・プライス校長は、AIは「読み書きや議論、創造性に取って代わるものではない。それらを高めるものだ」と語る。"
+                "x": "この背景説明ガイドは、2026年九月15日のForum for Cooperation on AI(FCAI)対話に先立ち参加者に配布された。各国政府や組織が同時にAI評価能力を構築しており、最近の出来事がその取り組みに新たな緊急性をもたらした。"
               },
               {
                 "t": "p",
-                "x": "無制限に使わせるわけではない。学校はAIの仕組み、AIが失敗する場面、そして人間がいつAIを使うべきかを教える。Dubai Schools Al Khawaneejでは、1〜3年生は自ら生成AIを使うのではなく、物語やロールプレイを通じて学ぶ。"
+                "x": "評価者は開発者からの独立性で異なる。ファーストパーティー評価は社内で行われ、セカンドパーティー評価者は契約関係を持ち、サードパーティー評価者はそうした関係を持たない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+                "cap": "Figure A"
               },
               {
                 "t": "p",
-                "x": "政府は2万2000人の教員を対象に、授業、評価、カリキュラム分析、授業計画にAIを活用するための研修を行う計画だ。対照的にニューヨーク市は、未就学児から8年生までを対象に生徒向け生成AIの利用を1年間停止するモラトリアムを導入し、ノルウェーも小学生に対して同様の事実上の禁止措置を設けている。"
+                "x": "U.S.ではCAISIがフロンティアモデルの国家安全保障テストを担い、五月にGoogle DeepMind、Microsoft、xAIと配備前評価の協定を結んだ。EU AI Actの評価義務は主に第55条に定められている。U.K. AI Security Instituteは再現可能な評価のためのオープンソースのフレームワークInspectを開発し、日本、シンガポール、カナダ、オーストラリアはそれぞれ独自のAI安全研究所を運営している。"
               },
               {
                 "t": "p",
-                "x": "保護者は変化をおおむね支持したが、透明性やデータプライバシーへの懸念を示した。専門家は、教員1人あたり生徒2人というUAEの小規模で資源豊富な体制は、ケニアの最大68人とは対照的で、このモデルの再現を難しくしていると指摘する。"
+                "x": "「いかなる評価も全体像を示すことはできない」とブリーフィングは指摘し、評価は「中立的な道具ではない」とする。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UAE规定从幼儿园到\n12年级必修AI",
-          "body": "UAE规定幼儿园至12年级必修AI，折射出国家AI-literacy政策。",
-          "mini_headline": "UAE：K-12必修AI课",
+          "headline": "Brookings梳理\n各国前沿AI评估",
+          "body": "Brookings为FCAI对话的简报，比较各国政府与AI安全研究所如何测试前沿模型。",
+          "mini_headline": "各国如何测试AI模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-                "cap": "Rest of World"
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
               },
               {
                 "t": "p",
-                "x": "阿拉伯联合酋长国（UAE）最近成为首个将AI列为K-12必修科目的国家。Rugby School Dubai校长亨利·普赖斯表示，AI“不会取代阅读、写作、讨论或创造力，而是会增强它们。”"
+                "x": "这份背景简报指南在2026年九月15日Forum for Cooperation on AI(FCAI)对话前分发给与会者。各国政府和组织正同时建设AI评估能力，近期事件让这项工作更显紧迫。"
               },
               {
                 "t": "p",
-                "x": "这种做法并非放任使用：学校会教授AI如何运作、会在哪里出错，以及人类应在何时使用它。在Dubai Schools Al Khawaneej，一至三年级学生通过故事和角色扮演来学习，而不是自己使用生成式AI。"
+                "x": "评估方与开发者的独立程度各不相同：第一方评估由内部进行，第二方评估方与开发者存在合同关系，第三方评估方则没有。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+                "cap": "Figure A"
               },
               {
                 "t": "p",
-                "x": "政府计划培训22,000名教师，让他们把AI用于教学、评估、课程分析和备课。相比之下，纽约市对从学前班到八年级面向学生的生成式AI实施了为期一年的暂停令，挪威也对小学生实行了类似的近乎全面禁令。"
+                "x": "在U.S.，CAISI负责前沿模型的国家安全测试，并于五月与Google DeepMind、Microsoft和xAI签署了部署前评估协议。EU AI Act的评估义务主要载于第55条。U.K. AI Security Institute开发了用于可复现评估的开源框架Inspect，日本、新加坡、加拿大和澳大利亚则各自运营AI安全研究所。"
               },
               {
                 "t": "p",
-                "x": "家长们大体支持这一变化，但对透明度和数据隐私表示担忧。专家指出，UAE的教育体系规模小、资源充足，每名教师对应两名学生，而肯尼亚最多可达68名，这使该模式难以复制。"
+                "x": "简报指出：“没有任何评估能呈现全貌”；评估“并非中立的工具”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los Emiratos (UAE) exigen clases\nde IA de preescolar a 12.º grado",
-          "body": "La IA obligatoria de preescolar a 12.º grado en los Emiratos (UAE) ilustra una política nacional de AI-literacy.",
-          "mini_headline": "Clases de IA en UAE, de K a 12",
+          "headline": "Brookings analiza cómo evalúan\nlos países la AI de frontera",
+          "body": "Brookings compara, para el diálogo FCAI, cómo gobiernos e institutos de seguridad de AI evalúan modelos de frontera.",
+          "mini_headline": "Cómo prueban los países la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-                "cap": "Rest of World"
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
               },
               {
                 "t": "p",
-                "x": "Los Emiratos Árabes Unidos (UAE) se convirtieron recientemente en el primer país en hacer de la IA una asignatura obligatoria de K-12. En el Rugby School Dubai, el director Henry Price afirma que la IA “no sustituye la lectura, la escritura, el debate ni la creatividad. Los potencia”."
+                "x": "Esta guía informativa de contexto se distribuyó entre los participantes antes del diálogo del Forum for Cooperation on AI (FCAI) del 15 de septiembre de 2026. Gobiernos y organizaciones están desarrollando a la vez su capacidad de evaluación de AI, y los acontecimientos recientes han dado nueva urgencia a ese trabajo."
               },
               {
                 "t": "p",
-                "x": "El enfoque no implica acceso ilimitado: las escuelas enseñan cómo funciona la IA, dónde falla y cuándo deben usarla las personas. En Dubai Schools Al Khawaneej, los alumnos de primero a tercer grado aprenden con cuentos y juegos de rol en lugar de usar ellos mismos IA generativa."
+                "x": "Los evaluadores difieren en su independencia respecto de los desarrolladores: las evaluaciones de primera parte se hacen internamente, los evaluadores de segunda parte tienen una relación contractual y los de tercera parte no tienen ninguna."
+              },
+              {
+                "t": "img",
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+                "cap": "Figure A"
               },
               {
                 "t": "p",
-                "x": "El Gobierno prevé formar a 22.000 docentes para usar la IA en la enseñanza, la evaluación, el análisis curricular y la planificación de clases. En cambio, la ciudad de Nueva York introdujo una moratoria de un año sobre la IA generativa dirigida a estudiantes desde preescolar hasta octavo grado, y Noruega aplica una prohibición casi total similar para alumnos de primaria."
+                "x": "En U.S., CAISI realiza pruebas de seguridad nacional de modelos de frontera y en mayo firmó acuerdos de evaluación previa al despliegue con Google DeepMind, Microsoft y xAI. Las obligaciones de evaluación de la EU AI Act figuran principalmente en el artículo 55. El U.K. AI Security Institute desarrolló Inspect, un marco de código abierto para evaluaciones reproducibles, mientras que Japón, Singapur, Canadá y Australia gestionan sus propios institutos de seguridad de AI."
               },
               {
                 "t": "p",
-                "x": "Los padres apoyaron en general el cambio, pero expresaron dudas sobre la transparencia y la privacidad de los datos. Los expertos señalan que el sistema pequeño y con buenos recursos de los Emiratos, con dos alumnos por docente frente a hasta 68 en Kenia, hace que el modelo sea difícil de replicar."
+                "x": "“Ninguna evaluación puede dar la imagen completa”, señala el informe; las evaluaciones “no son instrumentos neutrales”."
               }
             ]
           }
@@ -1517,125 +1651,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UAE, 유치원부터\n12학년까지 AI 필수",
-          "body": "UAE의 K-12 AI 교육 의무화는 국가 AI-literacy 정책을 보여준다.",
-          "mini_headline": "UAE, K-12 AI 수업",
+          "headline": "Brookings, 각국\n프런티어 AI 평가 정리",
+          "body": "FCAI용 Brookings 자료는 정부와 AI 안전연구소의 모델 시험을 견준다.",
+          "mini_headline": "각국의 AI 모델 시험법",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-                "cap": "Rest of World"
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
               },
               {
                 "t": "p",
-                "x": "아랍에미리트(UAE)는 최근 AI를 K-12 필수 과목으로 지정한 첫 국가가 됐다. Rugby School Dubai의 헨리 프라이스 교장은 AI가 “읽기, 쓰기, 토론, 창의성을 대체하지 않는다. 오히려 그것들을 강화한다”고 말한다."
+                "x": "이 배경 브리핑 가이드는 2026년 구월 15일 Forum for Cooperation on AI(FCAI) 대화에 앞서 참가자들에게 배포됐다. 각국 정부와 기관이 동시에 AI 평가 역량을 키우고 있으며, 최근 사건들로 이 작업은 새삼 시급해졌다."
               },
               {
                 "t": "p",
-                "x": "무제한 이용을 허용하는 방식은 아니다. 학교는 AI가 어떻게 작동하는지, 어디서 실패하는지, 사람이 언제 AI를 써야 하는지를 가르친다. Dubai Schools Al Khawaneej에서는 1~3학년이 생성형 AI를 직접 쓰는 대신 이야기와 역할극으로 배운다."
+                "x": "평가 주체는 개발사로부터 얼마나 독립적인지에서 차이가 난다. 퍼스트파티 평가는 사내에서 이뤄지고, 세컨드파티 평가자는 계약 관계에 있으며, 서드파티 평가자는 그런 관계가 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+                "cap": "Figure A"
               },
               {
                 "t": "p",
-                "x": "정부는 교사 2만 2000명이 수업, 평가, 교육과정 분석, 수업 계획에 AI를 활용하도록 연수할 계획이다. 반면 뉴욕시는 유아 과정부터 8학년까지 학생 대상 생성형 AI 사용을 1년간 유예했고, 노르웨이도 초등학생에게 비슷한 사실상 금지 조치를 두고 있다."
+                "x": "U.S.에서는 CAISI가 프런티어 모델의 국가안보 시험을 맡고 있으며, 오월 Google DeepMind, Microsoft, xAI와 배포 전 평가 협약을 맺었다. EU AI Act의 평가 의무는 주로 제55조에 담겨 있다. U.K. AI Security Institute는 재현 가능한 평가를 위한 오픈소스 프레임워크 Inspect를 개발했고, 일본·싱가포르·캐나다·호주는 각자 AI 안전연구소를 운영한다."
               },
               {
                 "t": "p",
-                "x": "학부모들은 대체로 변화를 지지했지만 투명성과 데이터 프라이버시에 대한 우려를 제기했다. 전문가들은 교사 1명당 학생이 2명으로 케냐의 최대 68명과 대비되는, 작고 자원이 풍부한 UAE의 체계 탓에 이 모델을 재현하기 어렵다고 지적한다."
+                "x": "브리핑은 “어떤 평가도 전체 그림을 보여줄 수 없다”며 평가는 “중립적인 도구가 아니다”라고 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UAE、幼稚園から\n12年生までAI必修に",
-          "body": "UAEの幼稚園〜12年生のAI教育義務化は、国のAI-literacy政策を映す。",
-          "mini_headline": "UAEのAI授業、K-12",
+          "headline": "Brookings、各国の\n先端AI評価を整理",
+          "body": "FCAI向けのBrookings資料は、政府とAI安全研究所の先端モデル評価を比べる。",
+          "mini_headline": "各国のAIモデル評価",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-                "cap": "Rest of World"
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
               },
               {
                 "t": "p",
-                "x": "アラブ首長国連邦（UAE）は最近、AIをK-12の必修科目とした初の国となった。Rugby School Dubaiのヘンリー・プライス校長は、AIは「読み書きや議論、創造性に取って代わるものではない。それらを高めるものだ」と語る。"
+                "x": "この背景説明ガイドは、2026年九月15日のForum for Cooperation on AI(FCAI)対話に先立ち参加者に配布された。各国政府や組織が同時にAI評価能力を構築しており、最近の出来事がその取り組みに新たな緊急性をもたらした。"
               },
               {
                 "t": "p",
-                "x": "無制限に使わせるわけではない。学校はAIの仕組み、AIが失敗する場面、そして人間がいつAIを使うべきかを教える。Dubai Schools Al Khawaneejでは、1〜3年生は自ら生成AIを使うのではなく、物語やロールプレイを通じて学ぶ。"
+                "x": "評価者は開発者からの独立性で異なる。ファーストパーティー評価は社内で行われ、セカンドパーティー評価者は契約関係を持ち、サードパーティー評価者はそうした関係を持たない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+                "cap": "Figure A"
               },
               {
                 "t": "p",
-                "x": "政府は2万2000人の教員を対象に、授業、評価、カリキュラム分析、授業計画にAIを活用するための研修を行う計画だ。対照的にニューヨーク市は、未就学児から8年生までを対象に生徒向け生成AIの利用を1年間停止するモラトリアムを導入し、ノルウェーも小学生に対して同様の事実上の禁止措置を設けている。"
+                "x": "U.S.ではCAISIがフロンティアモデルの国家安全保障テストを担い、五月にGoogle DeepMind、Microsoft、xAIと配備前評価の協定を結んだ。EU AI Actの評価義務は主に第55条に定められている。U.K. AI Security Instituteは再現可能な評価のためのオープンソースのフレームワークInspectを開発し、日本、シンガポール、カナダ、オーストラリアはそれぞれ独自のAI安全研究所を運営している。"
               },
               {
                 "t": "p",
-                "x": "保護者は変化をおおむね支持したが、透明性やデータプライバシーへの懸念を示した。専門家は、教員1人あたり生徒2人というUAEの小規模で資源豊富な体制は、ケニアの最大68人とは対照的で、このモデルの再現を難しくしていると指摘する。"
+                "x": "「いかなる評価も全体像を示すことはできない」とブリーフィングは指摘し、評価は「中立的な道具ではない」とする。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UAE规定从幼儿园到\n12年级必修AI",
-          "body": "UAE规定幼儿园至12年级必修AI，折射出国家AI-literacy政策。",
-          "mini_headline": "UAE：K-12必修AI课",
+          "headline": "Brookings梳理\n各国前沿AI评估",
+          "body": "Brookings为FCAI对话的简报，比较各国政府与AI安全研究所如何测试前沿模型。",
+          "mini_headline": "各国如何测试AI模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-                "cap": "Rest of World"
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
               },
               {
                 "t": "p",
-                "x": "阿拉伯联合酋长国（UAE）最近成为首个将AI列为K-12必修科目的国家。Rugby School Dubai校长亨利·普赖斯表示，AI“不会取代阅读、写作、讨论或创造力，而是会增强它们。”"
+                "x": "这份背景简报指南在2026年九月15日Forum for Cooperation on AI(FCAI)对话前分发给与会者。各国政府和组织正同时建设AI评估能力，近期事件让这项工作更显紧迫。"
               },
               {
                 "t": "p",
-                "x": "这种做法并非放任使用：学校会教授AI如何运作、会在哪里出错，以及人类应在何时使用它。在Dubai Schools Al Khawaneej，一至三年级学生通过故事和角色扮演来学习，而不是自己使用生成式AI。"
+                "x": "评估方与开发者的独立程度各不相同：第一方评估由内部进行，第二方评估方与开发者存在合同关系，第三方评估方则没有。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+                "cap": "Figure A"
               },
               {
                 "t": "p",
-                "x": "政府计划培训22,000名教师，让他们把AI用于教学、评估、课程分析和备课。相比之下，纽约市对从学前班到八年级面向学生的生成式AI实施了为期一年的暂停令，挪威也对小学生实行了类似的近乎全面禁令。"
+                "x": "在U.S.，CAISI负责前沿模型的国家安全测试，并于五月与Google DeepMind、Microsoft和xAI签署了部署前评估协议。EU AI Act的评估义务主要载于第55条。U.K. AI Security Institute开发了用于可复现评估的开源框架Inspect，日本、新加坡、加拿大和澳大利亚则各自运营AI安全研究所。"
               },
               {
                 "t": "p",
-                "x": "家长们大体支持这一变化，但对透明度和数据隐私表示担忧。专家指出，UAE的教育体系规模小、资源充足，每名教师对应两名学生，而肯尼亚最多可达68名，这使该模式难以复制。"
+                "x": "简报指出：“没有任何评估能呈现全貌”；评估“并非中立的工具”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los Emiratos (UAE) exigen clases\nde IA de preescolar a 12.º grado",
-          "body": "La IA obligatoria de preescolar a 12.º grado en los Emiratos (UAE) ilustra una política nacional de AI-literacy.",
-          "mini_headline": "Clases de IA en UAE, de K a 12",
+          "headline": "Brookings analiza cómo evalúan\nlos países la AI de frontera",
+          "body": "Brookings compara, para el diálogo FCAI, cómo gobiernos e institutos de seguridad de AI evalúan modelos de frontera.",
+          "mini_headline": "Cómo prueban los países la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/School-AI-UAE_5.jpg",
-                "cap": "Rest of World"
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
               },
               {
                 "t": "p",
-                "x": "Los Emiratos Árabes Unidos (UAE) se convirtieron recientemente en el primer país en hacer de la IA una asignatura obligatoria de K-12. En el Rugby School Dubai, el director Henry Price afirma que la IA “no sustituye la lectura, la escritura, el debate ni la creatividad. Los potencia”."
+                "x": "Esta guía informativa de contexto se distribuyó entre los participantes antes del diálogo del Forum for Cooperation on AI (FCAI) del 15 de septiembre de 2026. Gobiernos y organizaciones están desarrollando a la vez su capacidad de evaluación de AI, y los acontecimientos recientes han dado nueva urgencia a ese trabajo."
               },
               {
                 "t": "p",
-                "x": "El enfoque no implica acceso ilimitado: las escuelas enseñan cómo funciona la IA, dónde falla y cuándo deben usarla las personas. En Dubai Schools Al Khawaneej, los alumnos de primero a tercer grado aprenden con cuentos y juegos de rol en lugar de usar ellos mismos IA generativa."
+                "x": "Los evaluadores difieren en su independencia respecto de los desarrolladores: las evaluaciones de primera parte se hacen internamente, los evaluadores de segunda parte tienen una relación contractual y los de tercera parte no tienen ninguna."
+              },
+              {
+                "t": "img",
+                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+                "cap": "Figure A"
               },
               {
                 "t": "p",
-                "x": "El Gobierno prevé formar a 22.000 docentes para usar la IA en la enseñanza, la evaluación, el análisis curricular y la planificación de clases. En cambio, la ciudad de Nueva York introdujo una moratoria de un año sobre la IA generativa dirigida a estudiantes desde preescolar hasta octavo grado, y Noruega aplica una prohibición casi total similar para alumnos de primaria."
+                "x": "En U.S., CAISI realiza pruebas de seguridad nacional de modelos de frontera y en mayo firmó acuerdos de evaluación previa al despliegue con Google DeepMind, Microsoft y xAI. Las obligaciones de evaluación de la EU AI Act figuran principalmente en el artículo 55. El U.K. AI Security Institute desarrolló Inspect, un marco de código abierto para evaluaciones reproducibles, mientras que Japón, Singapur, Canadá y Australia gestionan sus propios institutos de seguridad de AI."
               },
               {
                 "t": "p",
-                "x": "Los padres apoyaron en general el cambio, pero expresaron dudas sobre la transparencia y la privacidad de los datos. Los expertos señalan que el sistema pequeño y con buenos recursos de los Emiratos, con dos alumnos por docente frente a hasta 68 en Kenia, hace que el modelo sea difícil de replicar."
+                "x": "“Ninguna evaluación puede dar la imagen completa”, señala el informe; las evaluaciones “no son instrumentos neutrales”."
               }
             ]
           }

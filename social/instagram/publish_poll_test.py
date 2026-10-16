@@ -120,12 +120,28 @@ def test_knows_the_rate_limit_body():
     assert not publish.is_rate_limited("not json"), "쓰레기 응답을 한도로 본다"
 
 
+def test_get_sends_fields_as_a_real_query_parameter():
+    """GET 주소에 bytes 를 그대로 끼우면 `?b'fields=…'` 가 되어 서버가
+    fields 를 무시한다. 피드 목록이 id 만 돌려줘 feed_state()가 캡션을 못
+    맞추고 늘 absent 로 봤다 — 10-15 에 '/media 반영이 10분 넘게 늦다'고
+    결론 낸 것이 사실은 이것이었다(10-16 에 고친 주소로 바로 찾았다)."""
+    seen = []
+    def grab(req, *a, **k):
+        seen.append(req.full_url)
+        return _Feed({"data": []})
+    _with_urlopen(grab, lambda: publish.api("1/media", {"fields": "caption", "access_token": "t"}))
+    q = publish.urllib.parse.urlparse(seen[0]).query
+    got = publish.urllib.parse.parse_qs(q)
+    assert got.get("fields") == ["caption"], f"fields 가 깨져서 갔다: ?{q}"
+    assert got.get("access_token") == ["t"], f"토큰이 깨져서 갔다: ?{q}"
+
+
 if __name__ == "__main__":
     fails = 0
     for name, fn in sorted(globals().items()):
         if name.startswith("test_"):
             try:
                 fn(); print(f"ok   {name}")
-            except (AssertionError, AttributeError) as e:
+            except (AssertionError, AttributeError, IndexError) as e:
                 fails += 1; print(f"FAIL {name}: {type(e).__name__}: {e}")
     raise SystemExit(1 if fails else 0)
