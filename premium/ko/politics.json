@@ -2593,6 +2593,150 @@
           "x": "각 주는 법원에 민사 제재금 부과와 함께 OpenAI가 ChatGPT의 안전성을 두고 대중을 오도하지 못하게 해 달라고 요청했다. 일부 주는 불법으로 수집된 개인 데이터를 지워 달라고도 요구한다."
         }
       ]
+    },
+    "politics/politics-china-open-weight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
+        },
+        {
+          "t": "p",
+          "x": "샌프란시스코에서 열린 Rest of World 행사에서 전문가들은 미국과 유럽 기업이 내놓은 새 오픈웨이트 모델을 이렇게 평했다. 보안을 걱정하는 중국 오픈 모델 사용자를 끌어오려 하지만, 자원이 더 많은데도 성능은 시장을 이끄는 중국 시스템에 못 미친다는 것이다."
+        },
+        {
+          "t": "p",
+          "x": "Columbia University 조교수 Daniel Björkegren은 저소득 국가의 기업과 정부에게는 비용이 가장 중요하다고 했다. “저소득 국가 맥락에서는 프런티어 지능을 U.S.에 의존하는 데 대한 우려가 크다”는 것이다."
+        },
+        {
+          "t": "p",
+          "x": "지난주 OpenRouter 순위표에서는 상위 다섯 개 가운데 네 개가 중국 모델이었다. LiveBench에서도 최상위 중국 모델의 벤치마크 점수는 U.S. 경쟁 모델보다 3% 낮은 데 그쳤다."
+        },
+        {
+          "t": "img",
+          "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
+          "cap": "샌프란시스코 Rest of World 행사에 참석한 Kristy Loke(왼쪽)와 Daniel Björkegren."
+        },
+        {
+          "t": "p",
+          "x": "MATS 연구원 Kristy Loke는 오픈 모델 덕분에 중국이 해외 시장 진출을 둘러싼 우려 일부를 피해 갈 수 있다고 봤다. “소프트파워에 도움이 된다. 국내적으로도 좋다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Stanford DigiChina Project의 Graham Webster는 칩 무역 제한 탓에 중국 기업들이 더 효율적인 모델을 만들 수밖에 없었다고 짚었다. “비교적 프런티어급 성능이 필요하다면 지금은 중국 오픈 모델밖에 없다.”"
+        },
+        {
+          "t": "p",
+          "x": "다만 중국 기업들도 컴퓨팅 한계와 수익화라는 숙제를 안고 있다. Webster는 “현재 여건에서는 살 수 있는 칩에 한계가 있다”며 “벽에 부딪힐 수도 있다”고 했다. Loke는 수익화가 모든 중국 AI 기업의 고민이라고 덧붙였다."
+        }
+      ]
+    },
+    "politics/politics-eu-raise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "유럽연합 집행위원회는 더블린에서 열린 European AI in Science Summit에서 AI in Science Enablers를 위한 RAISE(Resource for AI Science in Europe) 서약 이니셔티브를 출범했다. 공공 자금만으로는 닿지 않는 부분까지 민간 부문과 자선 단체의 지원을 끌어와, 인공지능과 과학 전반에서 일하는 유럽 연구자를 돕겠다는 취지다."
+        },
+        {
+          "t": "p",
+          "x": "AI in Science Strategy의 하나로 나온 이 이니셔티브는 프런티어 AI 모델 접근권, 컴퓨팅 용량, 연구용 소프트웨어 라이선스, 데이터, 교육 같은 현물 기여를 한곳에 모은다. 첫 약정은 Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, Google DeepMind가 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "이 틀 안에서 Mistral AI와 CERN은 물리학 분야 최대 규모가 될 파운데이션 모델을 함께 개발하기로 했다. 서약은 직접적인 상업적 이해를 넘어 과학 AI를 꾸준히 돕겠다는 뜻을 보여야 하고, 이니셔티브는 해마다 검토를 받는다."
+        },
+        {
+          "t": "p",
+          "x": "집행위원회는 연구에서 에이전트형 AI를 포함한 생성형 AI를 책임 있게 쓰도록 돕는 Living Guidelines 개정판도 내놓았다. RAISE Hub, Forum, Observatory도 함께 출범했다."
+        }
+      ]
+    },
+    "politics/politics-eu-ai-act-pressure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DUBLIN — AI 에이전트가 통제를 벗어난 사건이 잇따른 여름이 지나자, Microsoft와 Google 최고위 인사들이 EU의 2024년 인공지능법(Artificial Intelligence Act)이 아직 제 목적에 맞는지 공개적으로 의문을 던졌다."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft의 Brad Smith 사장은 Decoded by POLITICO에 유럽 당국자들이 현행 규칙이 적절한지 다시 따져봐야 한다고 말했다. Google DeepMind 공동창업자 Demis Hassabis는 AI Act를 직접 거론하지 않은 채 무대에서 “삼 년 전 일을 두고 법을 만든다면 오늘날엔 시대에 뒤떨어질 것”이라고 했다."
+        },
+        {
+          "t": "p",
+          "x": "집행위원회 당국자들은 법이 충분히 강력하다는 입장이다. EU 기술 담당 수장 Henna Virkkunen은 이 법이 AI 에이전트를 다루기에 “잘 갖춰져 있다”고 했고, Michael McGrath 법무 담당 집행위원은 “지금으로선 만족한다”고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
+          "cap": "일부 EU 정부는 AI Act에 허점이 있다고 결론 내렸다. | Michele Spatari/NurPhoto via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "일부 EU 정부는 빈틈이 있다고 본다. POLITICO가 입수한 헝가리 문서는 이 법이 대체로 모델이 시장에 나온 뒤에야 적용된다면서 “2026년 사건들은 그 이전에 일어났다”고 짚었다. 체코의 AI 특사 Lukáš Kačena는 “AI Act로는 결코 충분하지 않을 것”이라고 말했다."
+        }
+      ]
+    },
+    "politics/politics-brookings-ai-evals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+        },
+        {
+          "t": "p",
+          "x": "이 배경 브리핑 가이드는 2026년 구월 15일 Forum for Cooperation on AI(FCAI) 대화를 앞두고 참가자들에게 배포됐다. 각국 정부와 기관이 한꺼번에 AI 평가 역량을 키우는 가운데, 최근 사건들로 이 작업이 새삼 급해졌다."
+        },
+        {
+          "t": "p",
+          "x": "평가 주체는 개발사에서 얼마나 독립적인지에 따라 갈린다. 퍼스트파티 평가는 사내에서 하고 세컨드파티 평가자는 계약으로 묶여 있으며, 서드파티 평가자는 그런 관계가 없다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
+          "cap": "Figure A"
+        },
+        {
+          "t": "p",
+          "x": "U.S.에서는 CAISI가 프런티어 모델의 국가안보 시험을 맡는다. 오월에는 Google DeepMind, Microsoft, xAI와 배포 전 평가 협약을 맺었다. EU AI Act의 평가 의무는 주로 제55조에 담겼다. U.K. AI Security Institute는 재현 가능한 평가를 위한 오픈소스 프레임워크 Inspect를 만들었고, 일본·싱가포르·캐나다·호주도 각자 AI 안전연구소를 운영한다."
+        },
+        {
+          "t": "p",
+          "x": "브리핑은 “어떤 평가도 전체 그림을 보여줄 수 없다”면서 평가가 “중립적인 도구가 아니다”라고 짚는다."
+        }
+      ]
+    },
+    "politics/politics-uk-deepfakes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/71862b50fd26b3686f70841d028a04ea3ddd5721-1200x675.png",
+          "cap": "2026년 10월 8일, 홀본·세인트판크라스 보궐선거 투표소를 나서는 유권자. (Leon Neal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "비자이 랑가라잔(Vijay Rangarajan) 영국 선거관리위원회 최고경영자는 보수당 전당대회 패널 토론에서 AI 기반 시스템(AI-powered)을 개발 중이라고 밝혔다. 소셜미디어에 올라온 중대한 딥페이크를 게시 후 3시간 안에 후보자에게 알리는 시스템이다."
+        },
+        {
+          "t": "p",
+          "x": "사례로는 2025년 아일랜드 대선 때 캐서린 코널리(Catherine Connolly) 후보가 사퇴하는 것처럼 꾸민 딥페이크 영상을 들었다. “영국 선거에서 그런 일이 벌어지면 상당한 표가 움직일 것”이라는 게 그의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "2026년 5월 지방선거 기간의 시범 운영을 두고는 “전면적인 시범 운영을 했고, 약 300만 건의 게시물을 AI로 분석했다”고 했다. 걸러진 콘텐츠는 147건이었다. 사람이 이를 검토해 “정말 상당히 오해를 부르는” 게시물 열 건을 소셜미디어 기업이나 경찰에 넘겼다."
+        },
+        {
+          "t": "p",
+          "x": "방식은 “가해자 중립적”이다. AI가 걸러낸(AI-flagged) 게시물을 직원이 검토하고 3시간 안에 후보나 정당에 알린다. 시한을 3시간으로 잡은 건 “그 정도가 확산되는 데 걸리는 시간이기 때문”이다."
+        },
+        {
+          "t": "p",
+          "x": "랑가라잔은 선관위가 적어도 한 곳의 소셜 네트워크에서 “알고리즘 편향”을 감지했다고 본다고 말했다. 선관위는 매달 3만~4만 건의 사이버 공격을 받고, 적용하는 법률은 “매우 낡은” 1983년 또는 2000년 법률이라고 했다."
+        }
+      ]
     }
   }
 }

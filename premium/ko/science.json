@@ -12021,6 +12021,148 @@
           "cap": "네 단계 파이프라인으로 짠 시스템 구조."
         }
       ]
+    },
+    "science/science-magnet-patterns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+          "cap": "다이아몬드 양자 센서가 초박막 자석 위의 자기장을 스캔하고, 물리 기반 방법이 그 아래 숨은 자화를 재구성한다. Credit: Alexander Setescak / University of Vienna"
+        },
+        {
+          "t": "p",
+          "x": "현대 현미경은 나노 규모 자성 물질 바깥의 자기장만 잡아낼 뿐 내부 패턴은 못 본다. 속이 서로 다르게 생겨도 바깥으로는 똑같은 자기장이 나올 수 있어, 거꾸로 되짚는 일은 오랫동안 난제로 남았다."
+        },
+        {
+          "t": "p",
+          "x": "빈 대학교(University of Vienna) 물리학자들이 드레스덴(Dresden)과 싱가포르(Singapore), 울산(Ulsan)의 동료들과 함께 이 문제를 풀었다. 물리 법칙을 최신 머신러닝 방법에 그대로 녹이는 방식이다. 연구는 Physical Review Letters에 실렸고, 소프트웨어는 오픈소스로 무료 공개했다."
+        },
+        {
+          "t": "p",
+          "x": "이 물리 기반 알고리즘은 측정된 자기장과 들어맞으면서 물질의 물리적 에너지를 가장 낮추는 자기 패턴을 고른다. 기본 물리 법칙에 어긋나는 패턴은 아예 걸러낸다. 연구를 이끈 Claas Abert는 \"어떤 해가 현실적인지는 자석의 물리적 에너지가 결정하게 했다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "시료는 National University of Singapore(싱가포르국립대)에서 합성한 초박막 Fe₃−ₓGaTe₂였다. 연구팀은 드레스덴의 Max Planck Institute for Chemical Physics of Solids(막스플랑크 고체화학물리연구소)가 측정한 다이아몬드 질소-공공 센서 데이터로 이 방법을 검증했다. 소프트웨어는 자기 패턴과 센서 높이를 한꺼번에 계산해 81나노미터라는 거리를 찾아냈다."
+        },
+        {
+          "t": "p",
+          "x": "다른 자기 이미징 기법에도 그대로 쓸 수 있는 방식이다. 연구팀은 이미 복잡한 자성 나노구조의 3D X-ray 이미징으로 방법을 넓히는 중이다."
+        }
+      ]
+    },
+    "science/science-crypto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+          "cap": "암호학은 온라인 쇼핑부터 소프트웨어 업데이트, 암호화폐까지 현대 생활의 넓은 영역을 지킨다. Jackreznor / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "지난주 OpenAI는 수학 원고 722편을 한꺼번에 온라인에 올렸다. 모두 아직 일반에 공개하지 않은 AI 모델이 쓴 글이다. 하루 만에 OpenAI는 그중 세 편을 내렸고, 수학자들은 나머지를 아직 들여다보는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "수학은 암호학을 떠받친다. Johns Hopkins University의 암호학자 Matthew Green은 기존 공개키 암호 알고리즘을 더는 믿지 못하게 될 가능성을 15퍼센트로 잡았다."
+        },
+        {
+          "t": "p",
+          "x": "생각이 다른 이들도 있다. Bar-Ilan University와 Coinbase의 Yehuda Lindell은 돌파구의 “증거는 전혀 없다”고 X에 썼다. OpenAI의 722편 가운데 암호학을 다룬 논문은 한 편도 없다. Stanford의 Dan Boneh는 이를 “조금 눈에 띄는” 일이라고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "최근 프리프린트에서 ETH Zurich의 Florian Tramèr와 동료들은 주요 AI 모델을 191개 암호 해독 과제에 붙였다. 그는 “모델의 암호 해독 능력이 대단히 빠르게 자라고 있다는 점은 꽤 분명하다”고 말한다. 그래도 “오늘까지 실제 운용되는 알고리즘 가운데 AI에 뚫린 것은 없다”고 Govind Pimpale은 인정한다."
+        },
+        {
+          "t": "p",
+          "x": "KU Leuven의 Bart Preneel은 “공황에 빠질 진짜 이유는 없다”고 본다. Boneh와 Green은 AI 기업들이 자사 모델이 암호학에서 무엇을 시도했는지 밝히기를 바란다."
+        }
+      ]
+    },
+    "science/science-materials": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+          "cap": "결정 구조와 전자 구조를 함께 설계하는 생성형 AI 모델을 연구진이 개발했다. Credit: Institute of Industrial Science, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Institute of Industrial Science, The University of Tokyo의 연구진이 대표적인 생성형 AI 모델을 손봐, 소재의 전자 구조까지 결정 구조와 나란히 설계하게 했다. 새 모델 이름은 MatterGen-e⁻이고, npj Computational Materials에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "역설계에서는 밴드갭이나 형성 에너지 같은 목표 물성을 먼저 정한다. 그러면 AI가 거기에 맞는 안정한 결정을 곧바로 설계한다. Microsoft Research의 MatterGen은 원자 종류와 좌표, 격자로 구조를 만들어내지만, 데이터가 제한되면 물성과 구조의 상관까지 배우기는 어렵다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 국소 전자 기술자, 곧 Bader 전하와 원자별 상태 밀도를 더했다. 목표 형성 에너지와 밴드갭을 놓고 보면 MatterGen-e⁻가 유효하고 안정하며 고유하고 새로운 구조를 MatterGen보다 훨씬 많이 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "“중요한 것은 변수의 개수가 아니라 전자 정보의 질”이라고 교신저자 Teruyasu Mizoguchi는 말한다. 표면과 계면을 만들어내는 일에도 이 방법이 보탬이 된다."
+        }
+      ]
+    },
+    "science/science-benchmarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+          "cap": "컴퓨터과학자 Moritz Hardt는 벤치마크를 “기계학습을 만든 실수”라고 부른다. Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Max Planck Institute for Intelligent Systems의 소장 Moritz Hardt도 벤치마킹에 결함이 생겼다는 데 동의한다. “달리 말할 여지가 없다. 벤치마킹 생태계는 망가졌다.” 그러면서도 2026년 저서 The Emerging Science of Machine Learning Benchmarks에서 그는 벤치마크가 진짜 진보를 이끌었다고 주장한다 — “대체로 순전한 운으로.” Quanta는 분량을 줄이고 다듬은 인터뷰로 Hardt를 만났다."
+        },
+        {
+          "t": "p",
+          "x": "시험 집합이 조금만 달라져도 절대 점수는 흔들린다. 반면 모델 사이의 순위는 데이터셋이 바뀌어도 꽤 안정적이라고 그는 말한다. 기계학습이 과학적 위기를 피한 가장 큰 이유다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+          "cap": "Hardt는 AI 모델이 벤치마크에서 받는 점수는 큰 의미가 없다고 경고한다. 다만 모델 사이의 비교, 곧 순위는 의미가 있다. Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "LLMs에서는 그 안정성이 깨진다. 모델이 무엇으로 학습했는지 알 길이 없고, 만드는 쪽은 벤치마크 성적을 끌어올릴 데이터 조합을 짤 수 있다. “더 나은 모델이 반드시 이긴다는 말은 이제 사실이 아니다.”"
+        },
+        {
+          "t": "p",
+          "x": "그가 내놓은 해법은 “고지대 훈련”이다. 학습 집합을 없애고 시험 집합과, 시험 전에 각 모델을 준비시키는 규약만 두어 순위의 타당성을 되살리자는 이야기다."
+        }
+      ]
+    },
+    "science/science-cern-mistral": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
+          "cap": "CERN과 Mistral이 과학용 AI 개발에 힘을 모은다 (이미지: CERN / Mistral)"
+        },
+        {
+          "t": "p",
+          "x": "CERN과 유럽의 대규모 AI 모델 개발사 Mistral이 과학적 발견을 위한 파운데이션 모델을 함께 만들기로 하고, 장기 전략 파트너십 의향서에 서명했다."
+        },
+        {
+          "t": "p",
+          "x": "핵심은 사전학습된 단일 Large Physics Model, 곧 충돌기 물리학 최초의 파운데이션 모델이다. 모델은 CERN 대형강입자충돌기(LHC)의 양성자-양성자 충돌 시뮬레이션 수십억 건을 학습한다. 입자 충돌 재구성과 입자 식별부터 예상치 못한 신호 포착, 미래 검출기 설계 평가까지 여러 작업을 맡도록 설계된다."
+        },
+        {
+          "t": "p",
+          "x": "지금의 재구성은 특화된 알고리즘을 사슬처럼 이어 붙여 돌아간다. 파운데이션 모델은 재구성 전 과정을 한꺼번에 학습하므로, 모델 하나로 여러 작업을 처리할 가능성이 생긴다."
+        },
+        {
+          "t": "p",
+          "x": "CERN 최고정보책임자 Enrica Porcari는 “고에너지 물리학은 인공지능을 매우 엄격하게 개발하고 시험할 수 있는 독보적인 환경을 제공한다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "CERN이 지금까지 저장한 LHC 실험 데이터는 약 1엑사바이트다. 2030년경 가동 예정인 HL-LHC에서는 충돌 횟수가 10배로 늘어난다. 처음에는 고에너지 물리학에 집중하지만, 이번 협력이 더 넓은 과학계에 AI 접근법을 보탤 수도 있다."
+        }
+      ]
     }
   }
 }

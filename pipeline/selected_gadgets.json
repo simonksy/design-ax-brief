@@ -1,79 +1,93 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "source": "TechCrunch",
+      "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+      "title": "Google’s next Gemini trick could change how you use Android XR glasses",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-10-15T12:00:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-      "excerpt": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting a",
+      "published_iso": "2026-10-16T06:54:54+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+      "excerpt": "\"Hey Gemini\" is coming for \"Ok Google\" — a new hotword and camera-activation flow for Gemini on Android XR glasses. (Published time from outlet RSS; page 403 to fetchers.)",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Bee ships its first post-acquisition hardware (an updated wearable and a card-sized phone-mounted recorder from $75), tied to Alexa, shopping and a new Bee Pro subscription. It is a new product launch."
+      "rationale": "Android XR glasses get a new \"Hey Gemini\" hotword and a camera-activation flow. It changes how voice and camera interaction on glasses gets designed."
     },
     {
-      "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
-      "title": "Meta and Apple Bring Muse Spark Open AI Model to Mac Studio",
-      "source": "MacRumors",
+      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+      "source": "Meta Newsroom",
       "category": "gadgets",
-      "published_iso": "2026-10-15T17:47:29+00:00",
-      "og_image": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg",
-      "excerpt": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date\". Meta worked with Apple to bring Muse Spark Open to the Mac, and the model can run on a desktop setup with two 512GB Apple M5 Ultra Mac Studios running the latest MLX framework. Me",
+      "published_iso": "2026-10-14T16:00:57+00:00",
+      "og_image": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200",
+      "excerpt": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art - Discovering Masterpieces Beyond What Meets the Eye.” This pilot",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Meta releases an open-weight Muse Spark model and, with Apple, makes it run locally on two M5 Ultra Mac Studios via MLX. This is a new model release with a concrete desk-side hardware recipe."
+      "rationale": "Meta launches \"Sensing Art\", a pilot that uses AI glasses as an accessible museum guide at the Brera gallery. It is a new, concrete real-world use of AI glasses (the orchestrator assigned this item to gadgets)."
     },
     {
-      "url": "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims",
-      "title": "Sipeed reveals Chinese-made DGX Spark and Ryzen AI Halo rival, expected to cost $3,999",
-      "source": "Tom's Hardware",
+      "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+      "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+      "source": "Samsung Global Newsroom",
       "category": "gadgets",
-      "published_iso": "2026-10-15T14:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/o3rsSibjsvWXVWeL6LWF6G-1920-80.jpg",
-      "excerpt": "Sipeed’s MaixStation pairs Axera’s AX8860P with 128GB of LPDDR5X at 273 GB/s to take on Nvidia’s DGX Spark and AMD’s Ryzen AI Halo.",
+      "published_iso": "2026-10-14T21:00:00+09:00",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13153111/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Thumb932.jpg",
+      "excerpt": "Samsung is expanding language support for Galaxy AI and Bixby, bringing these experiences ",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Sipeed unveils MaixStation, a $3,999 local-AI box built on a Chinese Axera chip with 128GB of memory. It is a new non-Nvidia, non-AMD option for desk-side AI."
+      "rationale": "Samsung officially adds languages to Galaxy AI and Bixby. That widens the markets where on-device AI features ship, and localization teams need to know about it."
     },
     {
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "source": "The Verge",
+      "url": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead",
+      "title": "Apple says Siri doesn't need to beat ChatGPT — here's what it's betting on instead",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-10-15T11:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
-      "excerpt": "Eiliko and its manufacturer, Energize Lab, are seemingly not to be trusted.",
+      "published_iso": "2026-10-16T08:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-2000-80.jpg",
+      "excerpt": "Apple CEO John Ternus explains why Siri AI doesn't need to beat ChatGPT or Claude, and how your iPhone's personal data could give it an edge.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "A Verge investigation found that the Eiliko AI companion robot sends user conversations to poorly secured servers. It is a new, concrete privacy finding about a consumer AI device."
+      "rationale": "Apple CEO John Ternus explains Siri's strategy on the record: personal context, not chatbot benchmarks. It is a first-hand statement of direction, not a repeat of the 10-12 Siri-vs-Gemini comparison."
     },
     {
-      "url": "https://www.digitaltrends.com/phones/a-7-board-lets-an-ai-control-an-iphone-without-jailbreaking-it/",
-      "title": "A $7 board lets an AI control an iPhone without jailbreaking it",
-      "source": "Digital Trends",
+      "url": "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html",
+      "title": "myFirst's AI camera and printer turn kids' ideas into instant comics",
+      "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-10-15T03:11:44-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630",
-      "excerpt": "Henry Yuan’s open-source project uses a roughly $7 board to let AI navigate an iPhone without jailbreaking it, though model access and setup requirements make it more involved than the price suggests.",
+      "published_iso": "2026-10-14T16:37:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+      "excerpt": "The Insta magiCam turns photos into coloring pages, stickers and illustrations, while the magiBox transforms spoken ideas into printable artwork and four-panel comics. (Published time from outlet RSS; page 403 to fetchers.)",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "An open-source project uses a cheap microcontroller acting as a keyboard and mouse so an AI agent can drive a stock iPhone. That gives a hands-on way to test agent-driven phone UI flows."
+      "rationale": "myFirst launches two kids' devices that turn photos and spoken ideas into printable illustrations and four-panel comics. It is a new product launch putting generative image AI in physical hardware."
     }
   ],
   "alternates": [
+    {
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T19:55:25+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
+      "excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "A Disrupt keynote that is commentary, not a release, and it overlaps the 10-16 Bee launch card. It stays an alternate."
+    },
     {
       "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
       "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
@@ -84,67 +98,53 @@
       "excerpt": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera,...",
       "source_lang": "en",
       "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "This is a report or leak, not a launch, and it was already an alternate yesterday. It is an alternate again."
-    },
-    {
-      "url": "https://www.androidauthority.com/google-home-october-update-gemini-voice-commands-3723503/",
-      "title": "Gemini for Home is finally learning that ‘stop’ means stop",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T21:32:00+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/google-home-speaker-review-9-scaled.jpg",
-      "excerpt": "Google Home's October update teaches Gemini for Home to reliably obey 'stop' and other voice commands on speakers and displays.",
-      "source_lang": "en",
-      "tool": "Gadgets",
       "accent": "#3b6bff",
       "motif": "headset",
-      "rationale": "The October update is a new release, separate from the 10-02 September update card, but it is an incremental fix."
+      "rationale": "This is a report, not a launch, and there are already two glasses picks. It stays an alternate."
     },
     {
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "title": "AI agents are coming to Rivian’s cars",
-      "source": "TechCrunch",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=675908",
+      "title": "[피지컬 AI 생태계] 리벨리온·퓨리오사AI의 '로봇을 위한 계산'",
+      "source": "블로터",
       "category": "gadgets",
-      "published_iso": "2026-10-15T15:02:36+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
-      "excerpt": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-      "source_lang": "en",
+      "published_iso": "2026-10-16T18:29:09+09:00",
+      "og_image": "https://cdn.bloter.net/news/thumbnail/202610/675908_289907_1149_v150.jpg",
+      "excerpt": "현장에서 본 국내 피지컬 AI 생태계의 현재를 짚어봅니다.",
+      "source_lang": "ko",
       "tool": "Gadgets",
       "accent": "#ff2d55",
       "motif": "headset",
-      "rationale": "This is a new announcement, but the details are deferred to a December event. It is an alternate."
+      "rationale": "This is an analysis series about Korean NPU makers and robotics, not a device release."
     }
   ],
   "dedup": {
     "checks": {
-      "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/": {
+      "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+        "nearest": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
         "new_action": ""
       },
-      "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/": {
+      "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "nearest": "https://www.uploadvr.com/liminal-walking-meditation-uses-meta-ai-glasses-to-deliver-a-meditation-based-on-what-you-see/",
         "new_action": ""
       },
-      "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims": {
+      "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy": {
         "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
+        "nearest": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
         "new_action": ""
       },
-      "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab": {
+      "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/phones/a-7-board-lets-an-ai-control-an-iphone-without-jailbreaking-it/": {
+      "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Excluded by the orchestrator: Engadget 'Adobe rebuilt Photoshop and Premiere for RTX Spark' (assigned to DESIGN) and etnews Samsung CDO (design-adjacent). Dropped as same story: The Verge Bee (same launch as the TechCrunch Bee card, which is kept). Tom's Guide RTX Spark benchmarks and Tom's Hardware Surface Laptop Ultra RTX Spark test are reviews of the platform already covered 10-08 (TechCrunch Microsoft Nvidia-chip AI PCs) and 10-10 (TechRadar RTX Spark pre-orders), with no new release. Ars 'Microsoft event debuts new AI-friendly hardware' (10-08) repeats the 10-08 TechCrunch/Verge cards. Engadget Alexa Tablet 12 Pro review repeats the 10-09 Engadget Alexa tablets launch. MacRumors 'Which Apple Home devices get Siri AI' and CNET HomePod mini 2 hands-on are coverage of the Oct 13 Apple event already published 10-14 (Ars HomeView). 9to5Google 'Meta fixed Ray-Ban recording issue' is a follow-up to the 10-14 Android Authority Ray-Ban listening card; it was not kept. Lower priority: Panos Panay Disrupt interview (commentary, and it overlaps the Bee pick), Samsung Galaxy AI language expansion (incremental), MacPaw Eney, etnews AimFuture chip and robot guard dog. Alternates: Nothing glasses report, Gemini for Home October update and Rivian AI agents. The final 5 come from 5 distinct outlets (TechCrunch, MacRumors, Tom's Hardware, The Verge, Digital Trends) and cover a wearable, an open-weight model on a Mac, local-AI hardware, AI toy privacy and phone agent control."
+    "note": "Dropped as same story: Ars 'Ray-Ban Meta bug recording audio' (the bug fix is the same incident as the 10-14 Android Authority Ray-Ban listening card; yesterday's 9to5Google fix follow-up was dropped the same way). CNET Amazon Bee (same launch as the 10-16 TechCrunch Bee card). 9to5Mac Apple Intelligence China (likely-repeat of the 10-15 MacRumors card). Notebookcheck HomeView (likely-repeat of the 10-14 Ars card). WIRED and Tom's Hardware Surface Laptop Ultra reviews (cluster c5): reviews of the 10-08 TechCrunch Microsoft Nvidia-chip AI PC launch, with no new release. Tom's Guide Asus ProArt P16 RTX Spark review: a review of the 10-10 RTX Spark laptop pre-order story. Engadget Alexa Tablet 12 Pro review and ZDNET Alexa tablets: both repeat the 10-09 Engadget launch. 9to5Google Samsung Android XR glasses leak: the leak predates the 10-14 CNET Samsung glasses unveiling it describes. 9to5Mac HomePod mini 2 and Apple TV 4K: products from the Oct 13 Apple event, already covered 10-14 (Ars HomeView); this follows yesterday's ruling on the same event coverage. Lower priority: Suunto screenless band filing (a report, no AI angle), Narwal robot vacuum review (weak AI), etnews Samsung TIME Best Inventions (an award). Alternates: Panay Disrupt talk, Nothing glasses report, Bloter physical-AI analysis. The final 5 come from 5 distinct outlets (Android Authority, Meta Newsroom, Samsung Newsroom, Tom's Guide, Notebookcheck). Two are glasses picks; the others are phone AI, an assistant strategy statement and a kids' generative-AI device."
   }
 }

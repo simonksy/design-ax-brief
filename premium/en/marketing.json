@@ -1227,6 +1227,125 @@
           "x": "For advertisers, none of these mechanisms has a setting in Ads Manager; their effects arrive through Advantage+ and automated delivery."
         }
       ]
+    },
+    "marketing/marketing-google-ai-mode-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
+        },
+        {
+          "t": "p",
+          "x": "Google is starting to test ads in AI Mode in Search for users who connect their apps through Personal Intelligence, reversing its earlier ad-free approach to the experience."
+        },
+        {
+          "t": "p",
+          "x": "The update means Google may now use insights from connected apps to help personalize ads, alongside the information already used to generate AI-powered responses. Ads will continue to reflect the user's query, the context of the AI-generated response and their interests."
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
+        },
+        {
+          "t": "p",
+          "x": "Google says protections remain: connecting apps is opt-in, ads will not be based directly on the contents of Gmail or Google Photos, advertisers cannot access connected apps, and sensitive information will not be used to personalize ads."
+        },
+        {
+          "t": "p",
+          "x": "Google has not announced new advertiser controls, targeting options or a wider rollout for this test."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-measurement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is rolling out several updates to ChatGPT Ads, including expanded measurement partnerships, improved conversion reporting, weekly performance summaries and experiments with larger, more visual ad formats."
+        },
+        {
+          "t": "p",
+          "x": "New measurement integrations include Northbeam, DV Rockerbox and INCRMNTAL, alongside mobile measurement partners Kochava, Tenjin and Airbridge. A redesigned Conversions page in Ads Manager brings together conversion activity, event trends, optimization status and diagnostic warnings."
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
+        },
+        {
+          "t": "p",
+          "x": "Tests include wider ad cards and larger images on desktop and full-width images on mobile, using advertisers' existing creative. Separately, OpenAI plans to test a multi-image ad format during image generation, initially with selected U.S. advertisers."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI has not shared performance results or confirmed a broader rollout timeline for these formats."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-targeting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+          "cap": "Image: Sipa USA via AP."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI lets anyone inject ads into ChatGPT users' sessions, targeting specific groups of people based on their email address, phone number, or a unique identifier on their phone, according to 404 Media's own tests of ChatGPT's advertising ecosystem."
+        },
+        {
+          "t": "p",
+          "x": "While the ad targeting available in ChatGPT is somewhat standard practice across the advertising industry, the chatbot's one billion monthly active users may not understand they, in some cases, are being specifically targeted because of their personal data the advertiser has uploaded to OpenAI. ChatGPT's ad targeting is also novel in that it is also based on the prompts users enter into the chatbot, prompts that users may assume are private but which, as 404 Media has previously shown, may be reviewed by humans. Or in this case, used for ad targeting purposes."
+        }
+      ]
+    },
+    "marketing/marketing-thrad-chat-ads-fund": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+          "cap": "Thrad doubles in-chat ad spend for AI apps to $1m, pictured as a coin dropped into a chat bubble"
+        },
+        {
+          "t": "p",
+          "x": "Thrad, a San Francisco company that places sponsored messages inside AI chat conversations, opened Monetization Fund II, a rolling program that directs up to $1 million in advertiser spend through its DSP to consumer AI apps willing to test ads. No equity changes hands and no cash grant is paid out."
+        },
+        {
+          "t": "p",
+          "x": "It doubles the $500,000 first round from December 2025. The announcement does not state the revenue share, per-app allocation or how long the program runs."
+        },
+        {
+          "t": "p",
+          "x": "\"Many users simply won't pay for a subscription,\" said CEO Andrea Tortella, pointing to the token costs behind every interaction."
+        },
+        {
+          "t": "p",
+          "x": "Ads are matched to what the conversation is about rather than to a user profile, and run as native sponsored placements with \"clear disclosure\" to separate them from the AI's organic responses."
+        }
+      ]
+    },
+    "marketing/marketing-meta-product-browsing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+          "cap": "Meta flips product browsing on in live ads October 28, citing 3% more conversions; opt-out available"
+        },
+        {
+          "t": "p",
+          "x": "Meta has notified advertisers that, starting October 28, 2026, it will add product browsing to ads already running on Facebook and Instagram unless they opt out before that date. When people tap an ad, they may see an in-app experience with product info and personalized suggestions instead of going straight to the advertiser's website."
+        },
+        {
+          "t": "p",
+          "x": "Meta says businesses saw 3% more conversions on average, based on an experiment run August 6–21, 2026 across about 117,700 advertisers. The notice does not define the conversion metric, the comparison group or cost per conversion."
+        },
+        {
+          "t": "p",
+          "x": "Advertisers can opt out via the notice or toggle the feature in each ad's Advantage+ Creative and Destination settings. Media buyer David Herrmann, who called it an AI feature that turns creatives into dynamic product ads, objected to the timing just before the holiday season."
+        }
+      ]
     }
   }
 }

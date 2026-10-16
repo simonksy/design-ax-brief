@@ -8197,6 +8197,157 @@
           "x": "Built-in team features include shared instructions, skills and memory, plus authentication, permissions and live sync. Bring your own key for Anthropic, OpenAI, Gemini or OpenRouter, or run a local model with Ollama. Clips, Slides and Design are open-source agentic apps built with it."
         }
       ]
+    },
+    "design/design-krea3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+          "cap": "Introducing Krea 3"
+        },
+        {
+          "t": "p",
+          "x": "Over the past year, image editing crossed a quality line, but the best editing models also got slower and more expensive. Krea released Krea 3, its new image editing model: most edits come back in under 8 seconds, end to end, at native 2K, for $0.06 per image at 2K."
+        },
+        {
+          "t": "p",
+          "x": "It leaves alone what you didn’t ask it to touch — change the setting around a product and the label stays sharp; give it a face and an outfit and the person in the next image is still the same person. It takes up to 6 reference images per edit."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+          "cap": "The same can in a hand, pushed into crushed ice with halved yuzu"
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+          "cap": "Only the seating swapped; the rug, the room and the reading woman stay."
+        },
+        {
+          "t": "video",
+          "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+        },
+        {
+          "t": "p",
+          "x": "It can also turn a marker sketch, a moodboard or an old polaroid into a finished photo. Krea 3 is live on krea.ai for 30 million users, at $0.06 per image at 2K and $0.03 at 1K, and through fal, Hedra, Together AI, Nous Research, OpenRouter and Replicate."
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+          "cap": "A marker sketch of a sofa turned into a photoreal leather piece"
+        }
+      ]
+    },
+    "design/design-cursor-canvases": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Canvases from cloud agents: Cloud agents can now build interactive canvases as part of their work. Share a finished canvas with your team by sending its link."
+        },
+        {
+          "t": "p",
+          "x": "Environments API: The Environments API is now available in beta. Use it to programmatically create and manage the cloud environments your agents run in."
+        },
+        {
+          "t": "p",
+          "x": "Larger, faster environments: Cloud agent environments now support up to 300 repositories. Large environments also load 5x faster."
+        }
+      ]
+    },
+    "design/design-vercel-ship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+          "cap": "\"We built Vercel to put the full power of Agentic Infrastructure behind you, the developer.\""
+        },
+        {
+          "t": "p",
+          "x": "Thousands of people gathered across London, Berlin, New York, Sydney and San Francisco at Vercel Ship 2026, focused on infrastructure for agents."
+        },
+        {
+          "t": "p",
+          "x": "Philip Miseldine and Sophia Levens from SAP showed how SAP is using v0, eve and json-render to build generative interfaces, with a focus on consistent design and government requirements. In Berlin, Miseldine showed how the company rebuilt its design system to be composable, so people and agents assemble interfaces from the same parts, with v0 running across its build, deliver and decide stages."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+          "cap": "Ship 2026 in Berlin"
+        },
+        {
+          "t": "p",
+          "x": "Nicolas Le Pallec (AKQA): AI-native customer experience replaces navigation with intent, through captured customer intent, a brand brain, and generative UI that composes pages on the fly. Victor Oliveros (ZoomInfo): at ZoomInfo, 40,000+ customers build their own workflows with v0 embedded in the product."
+        },
+        {
+          "t": "p",
+          "x": "Asked why he tells designers to design for the API first and the UI last, Notion CEO Ivan Zhao said: \"your next customer isn't only a human, it's a human and an agent, and agents are blind… So design the structure and the meaning first, the interface last.\""
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+          "cap": "Ship 2026 in New York"
+        }
+      ]
+    },
+    "design/design-human-in-loop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+          "cap": "A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them. AI assisted."
+        },
+        {
+          "t": "p",
+          "x": "Agents now triage inboxes, update records and send messages while we’re in another meeting. The standard answer is a confirm dialog, but accountability moves instead, landing on whoever had the least information and the least power over the outcome."
+        },
+        {
+          "t": "p",
+          "x": "Initiative isn’t what hurts people; reach is. The better question is a reach test: what can the agent touch, and can a person put it back? Whoever sets an agent’s reach owns what it does there."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+          "cap": "Interruption is good. Even Anthropic says so."
+        },
+        {
+          "t": "p",
+          "x": "Neeman draws on automation bias, Madeleine Clare Elish’s “moral crumple zones,” and Eric Horvitz’s mixed-initiative principles: proactivity should scale with reversibility, not with confidence. A mandate lives in the permissions, not in the conversation."
+        },
+        {
+          "t": "p",
+          "x": "His four moves: audit the approvals; write the rules and enforce them in permissions, not the prompt; run the reach test; and keep an independent record with a working stop control on screen while the agent runs."
+        }
+      ]
+    },
+    "design/design-figma-specs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma is launching Specs, a container for your context that lives on the Figma canvas. Product builders increasingly work in Markdown as they collaborate with agents, but those files tend to be single player and loosely tied to the projects behind them. Specs is a multiplayer container that lets context move into, out of, and across Figma."
+        },
+        {
+          "t": "p",
+          "x": "A spec holds shared decisions and can embed a FigJam file, a frame, or any node from the canvas, so text and designs sit side by side. Press 'D' or use the toolbar to create one, or drag any .md file onto the canvas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Draft a technical spec based on your codebase with the GitHub connector."
+        },
+        {
+          "t": "p",
+          "x": "Connectors such as GitHub and Hex bring outside context in, and Figma's agent can read and write comments in a spec, replying to open comments with suggested fixes. It can also turn a PRD into designs, prototypes, and code, or turn designs and code back into a spec."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "View design systems components and have Figma's agent document usage context in a spec, side by side on the canvas."
+        },
+        {
+          "t": "p",
+          "x": "Through the Figma MCP server, coding agents like Codex can read a spec and all the context it links to. Specs is available on web, desktop, and mobile, rolling out in open beta to paid plans."
+        }
+      ]
     }
   }
 }

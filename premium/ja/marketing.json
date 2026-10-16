@@ -1227,6 +1227,125 @@
           "x": "広告主がAds Managerでこれらの仕組みを設定する項目はなく、効果はAdvantage+と自動配信を通じて表れる。"
         }
       ]
+    },
+    "marketing/marketing-google-ai-mode-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
+        },
+        {
+          "t": "p",
+          "x": "Googleは、Personal Intelligenceを通じてアプリを連携したユーザーを対象に、検索(Search)のAIモード(AI Mode)で広告のテストを始めた。この体験を広告なしで提供してきた従来の方針を転換するものだ。"
+        },
+        {
+          "t": "p",
+          "x": "今回の更新により、GoogleはAI-poweredの回答生成にすでに使っている情報に加え、連携アプリから得たインサイトも広告のパーソナライズに活用できるようになる。広告は引き続き、ユーザーの検索語句、AI-generatedの回答の文脈、ユーザーの関心を反映する。"
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
+        },
+        {
+          "t": "p",
+          "x": "Googleは保護策は維持されるとしている。アプリの連携はオプトイン方式で、広告はGmailやGoogle Photosの内容に直接基づくことはなく、広告主は連携アプリにアクセスできず、機微な情報は広告のパーソナライズに使われない。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは、このテストについて新たな広告主向けの管理機能やターゲティングオプション、より広い展開を発表していない。"
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-measurement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはChatGPT Adsに複数の更新を展開している。計測パートナーシップの拡大、コンバージョンレポートの改善、週次のパフォーマンス要約、そしてより大きく視覚的な広告フォーマットの実験が含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "新たな計測連携にはNorthbeam、DV Rockerbox、INCRMNTALが加わり、モバイル計測パートナーのKochava、Tenjin、Airbridgeも並ぶ。Ads Managerで刷新されたConversionsページは、コンバージョン活動、イベントの推移、最適化の状況、診断の警告を一か所にまとめる。"
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
+        },
+        {
+          "t": "p",
+          "x": "テストでは、広告主の既存クリエイティブを使い、デスクトップではより幅広い広告カードと大きな画像を、モバイルでは全幅の画像を表示する。これとは別に、OpenAIは画像生成中に表示する複数画像の広告フォーマットを、まず一部のU.S.広告主を対象に試す計画だ。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは、これらのフォーマットの成果データを公表しておらず、より広い展開の時期も明らかにしていない。"
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-targeting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+          "cap": "画像：Sipa USA via AP."
+        },
+        {
+          "t": "p",
+          "x": "404 MediaがChatGPTの広告エコシステムを独自に検証したところ、OpenAIは誰でもChatGPTユーザーのセッションに広告を差し込めるようにしており、メールアドレス、電話番号、スマートフォンの固有識別子に基づいて特定の層を狙えることがわかった。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPTで利用できる広告ターゲティングは広告業界ではある程度標準的な手法だが、月間アクティブユーザー十億人を抱えるこのチャットボットの利用者は、場合によっては広告主がOpenAIにアップロードした自分の個人データのせいで狙い撃ちされていると理解していないかもしれない。ChatGPTの広告ターゲティングは、ユーザーがチャットボットに入力するプロンプトにも基づく点でも新しい。ユーザーはプロンプトを非公開だと思っているかもしれないが、404 Mediaが以前示したように、人間が確認することもある。そして今回の場合は、広告ターゲティングに使われる。"
+        }
+      ]
+    },
+    "marketing/marketing-thrad-chat-ads-fund": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+          "cap": "ThradはAIアプリ向けのチャット内広告費を倍増の$1mに。チャットの吹き出しに落ちるコインで表現"
+        },
+        {
+          "t": "p",
+          "x": "AIチャットの会話内にスポンサーメッセージを配信するサンフランシスコの企業Thradは、Monetization Fund IIを開始した。広告を試す意思のある消費者向けAIアプリに、自社のDSPを通じて最大100万ドルの広告主支出を振り向ける随時受付のプログラムだ。株式のやり取りはなく、現金の助成金も支払われない。"
+        },
+        {
+          "t": "p",
+          "x": "2025年12月の第1弾50万ドルから倍増した。発表では、収益分配率、アプリごとの配分額、プログラムの実施期間は明らかにされていない。"
+        },
+        {
+          "t": "p",
+          "x": "CEOのAndrea Tortellaは「多くのユーザーはそもそもサブスクリプションにお金を払わない」と述べ、あらゆるやり取りの裏にあるトークンコストを指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "広告はユーザープロフィールではなく会話の内容に合わせて配信され、AIの通常の回答と区別するための「明確な開示」を伴うネイティブのスポンサー枠として表示される。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-product-browsing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+          "cap": "Metaは10月28日、配信中の広告で商品閲覧を有効にする。コンバージョン3%増を根拠とし、オプトアウトも可能"
+        },
+        {
+          "t": "p",
+          "x": "Metaは広告主に対し、2026年10月28日からFacebookとInstagramで配信中の広告に商品閲覧機能を追加すると通知した。それまでにオプトアウトしなければ適用される。ユーザーが広告をタップすると、広告主のウェブサイトに直接移動する代わりに、商品情報やパーソナライズされた提案を含むアプリ内画面が表示される場合がある。"
+        },
+        {
+          "t": "p",
+          "x": "Metaによると、2026年8月6–21日に約117,700の広告主を対象に実施した実験で、企業のコンバージョンは平均3%増えた。ただし通知は、コンバージョン指標、比較対象群、コンバージョン単価を定義していない。"
+        },
+        {
+          "t": "p",
+          "x": "広告主は通知からオプトアウトするか、各広告のAdvantage+ CreativeとDestinationの設定で機能を切り替えられる。メディアバイヤーのDavid Herrmannは、クリエイティブをダイナミック商品広告に変えるAI機能だとしたうえで、ホリデーシーズン直前という時期に異議を唱えた。"
+        }
+      ]
     }
   }
 }

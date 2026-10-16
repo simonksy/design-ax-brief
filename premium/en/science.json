@@ -7828,6 +7828,148 @@
           "cap": "System architecture showing the four-stage pipeline."
         }
       ]
+    },
+    "science/science-magnet-patterns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+          "cap": "A diamond quantum sensor scans the magnetic field above an ultrathin magnet; the physics-informed method reconstructs the magnetization hidden underneath. Credit: Alexander Setescak / University of Vienna"
+        },
+        {
+          "t": "p",
+          "x": "Modern microscopes only measure the magnetic field outside nanoscale magnetic materials, not the pattern inside. Because many different internal patterns can produce the exact same field, working backwards has long been a challenge."
+        },
+        {
+          "t": "p",
+          "x": "Physicists at the University of Vienna, with colleagues in Dresden, Singapore, and Ulsan, solved this by building the laws of physics directly into modern machine learning methods. The study is published in Physical Review Letters, and the software is freely available as open source."
+        },
+        {
+          "t": "p",
+          "x": "Their physics-informed algorithm selects the magnetic pattern that minimizes the material's physical energy while matching the measured field; patterns that violate basic physical laws are ruled out. \"We let the physical energy of the magnet decide which solution is realistic,\" says Claas Abert, who led the study."
+        },
+        {
+          "t": "p",
+          "x": "The team tested it on diamond nitrogen-vacancy sensor measurements from the Max Planck Institute for Chemical Physics of Solids in Dresden, on ultrathin Fe₃−ₓGaTe₂ synthesized at the National University of Singapore. The software calculated the magnetic pattern and the sensor height simultaneously, finding a distance of 81 nanometers."
+        },
+        {
+          "t": "p",
+          "x": "The approach can be adapted to other magnetic imaging techniques. The team is already extending it to 3D X-ray imaging of complex magnetic nanostructures."
+        }
+      ]
+    },
+    "science/science-crypto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+          "cap": "Cryptography protects vast swaths of modern life, from online shopping to software updates to cryptocurrency. Jackreznor / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Last week OpenAI dropped 722 mathematical manuscripts online in one go, every one of them penned by an AI model unavailable to the public. OpenAI withdrew three of the papers within a day, and mathematicians are still poring over the rest."
+        },
+        {
+          "t": "p",
+          "x": "Math powers cryptography. Matthew Green, a cryptographer at Johns Hopkins University, suggested there was a 15 percent chance that we could lose confidence in existing public-key encryption algorithms."
+        },
+        {
+          "t": "p",
+          "x": "Others disagree. Yehuda Lindell of Bar-Ilan University and Coinbase wrote on X that there is “no evidence whatsoever” of a breakthrough, and not one of OpenAI’s 722 papers deals with cryptography, which Stanford’s Dan Boneh calls “a little striking.”"
+        },
+        {
+          "t": "p",
+          "x": "In a recent preprint, Florian Tramèr of ETH Zurich and colleagues pitted leading AI models against 191 code-breaking challenges. “It’s pretty clear that models’ ability in cryptanalysis is growing extremely rapidly,” he says. Still, “today no currently deployed algorithm has been broken by AI,” Govind Pimpale concedes."
+        },
+        {
+          "t": "p",
+          "x": "KU Leuven’s Bart Preneel sees “no real reason to panic.” Boneh and Green want AI companies to say what their models have tried on cryptography."
+        }
+      ]
+    },
+    "science/science-materials": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+          "cap": "Researchers develop a generative AI model that designs crystal and electronic structures together. Credit: Institute of Industrial Science, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Institute of Industrial Science, The University of Tokyo, have extended a leading generative AI model so that it designs the electronic structure of a material together with its crystal structure. The new model, named MatterGen-e⁻, is reported in npj Computational Materials."
+        },
+        {
+          "t": "p",
+          "x": "In inverse design, a target property such as band gap or formation energy is specified first, and AI directly designs a matching stable crystal. Microsoft Research's MatterGen generates structures from atom types, coordinates and lattices, but learning property–structure correlations from limited data is difficult."
+        },
+        {
+          "t": "p",
+          "x": "The team added local electronic descriptors—the Bader charge and the atomic density of states. For target formation energies and band gaps, MatterGen-e⁻ produced substantially more structures that were simultaneously valid, stable, unique and novel than MatterGen."
+        },
+        {
+          "t": "p",
+          "x": "“The quality of the electronic information, not the number of variables, is what matters,” says senior author Teruyasu Mizoguchi. The approach could improve the generation of surfaces and interfaces."
+        }
+      ]
+    },
+    "science/science-benchmarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+          "cap": "The computer scientist Moritz Hardt calls benchmarks “the mistake that made machine learning.” Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Moritz Hardt, a director at the Max Planck Institute for Intelligent Systems, agrees that benchmarking has become flawed. “There’s no two ways about it. The benchmarking ecosystem is broken.” In his 2026 book The Emerging Science of Machine Learning Benchmarks, he argues benchmarks drove legitimate progress anyway — “mostly by sheer luck.” Quanta spoke to Hardt in an interview condensed and edited for clarity."
+        },
+        {
+          "t": "p",
+          "x": "Absolute scores shift when the test set changes slightly, he says, but rankings between models tend to be very stable across datasets — the main reason machine learning escaped a scientific crisis."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+          "cap": "Hardt cautions that the scores AI models receive on benchmarks don’t mean much. But comparisons, or rankings, among models do. Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "With LLMs, that stability breaks: we don’t know what models were trained on, and builders can assemble data mixes that promote benchmark performance. “It’s no longer true that the better model necessarily wins.”"
+        },
+        {
+          "t": "p",
+          "x": "His fix is “altitude training”: no training set, just a test set and a protocol for preparing each model before testing, to restore the validity of rankings."
+        }
+      ]
+    },
+    "science/science-cern-mistral": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
+          "cap": "CERN and Mistral join forces to advance AI for science (Image: CERN / Mistral)"
+        },
+        {
+          "t": "p",
+          "x": "CERN and Mistral, a European developer of large-scale AI models, have signed a statement of intent to establish a long-term strategic partnership focused on developing foundation models for scientific discovery."
+        },
+        {
+          "t": "p",
+          "x": "At the heart of this work is the ambition to develop a single pretrained Large Physics Model – the first foundation model for collider physics. It will be trained on billions of simulated proton-proton collisions at CERN’s Large Hadron Collider (LHC) and designed to support multiple tasks, from reconstructing particle collisions and identifying particles to flagging unexpected signals and evaluating future detector designs."
+        },
+        {
+          "t": "p",
+          "x": "Today, reconstruction relies on a chain of specialised algorithms. Foundation models offer the potential to learn across the whole reconstruction chain and support multiple tasks within a single model."
+        },
+        {
+          "t": "p",
+          "x": "“High-energy physics provides a unique environment in which artificial intelligence can be developed and tested with exceptional rigour,” said Enrica Porcari, CERN’s Chief Information Officer."
+        },
+        {
+          "t": "p",
+          "x": "CERN has stored around one exabyte of experimental LHC data to date, and the number of collisions is set to increase tenfold with the HL-LHC, expected to begin operation around 2030. While the initial focus is on high-energy physics, the partnership could contribute AI approaches for the broader scientific community."
+        }
+      ]
     }
   }
 }

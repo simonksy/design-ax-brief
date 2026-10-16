@@ -1,7 +1,31 @@
-{ "date": "2026-10-16",
-  "media": [
-    {"id":"music-musebench","type":"image","src":"pipeline/media/music-musebench.png"},
-    {"id":"music-point-and-play","type":"image","src":"pipeline/media/music-point-and-play.png"},
-    {"id":"music-blackburn-kendrick","type":"video","src":"pipeline/media/music-blackburn-kendrick.mp4","poster":"pipeline/media/music-blackburn-kendrick.jpg"},
-    {"id":"music-awards-ai-age","type":"image","src":"pipeline/media/music-awards-ai-age.jpg"}
-  ] }
+{
+ "date": "2026-10-17",
+ "section": "music",
+ "media": [
+  {
+   "id": "music-vocaloid7",
+   "type": "image",
+   "src": "pipeline/media/music-vocaloid7.jpg"
+  },
+  {
+   "id": "music-distrokid-suno",
+   "type": "image",
+   "src": "pipeline/media/music-distrokid-suno.jpg"
+  },
+  {
+   "id": "music-duke-spotify",
+   "type": "image",
+   "src": "pipeline/media/music-duke-spotify.png"
+  },
+  {
+   "id": "music-spotify-ai-badge",
+   "type": "image",
+   "src": "pipeline/media/music-spotify-ai-badge.png"
+  },
+  {
+   "id": "music-vibe-coded-plugins",
+   "type": "image",
+   "src": "pipeline/media/music-vibe-coded-plugins.jpg"
+  }
+ ]
+}

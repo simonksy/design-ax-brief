@@ -1227,6 +1227,125 @@
           "x": "Ads Manager에서 광고주가 이 장치를 직접 만질 수는 없다. 효과는 Advantage+와 자동 게재로 드러난다."
         }
       ]
+    },
+    "marketing/marketing-google-ai-mode-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
+        },
+        {
+          "t": "p",
+          "x": "Google이 Personal Intelligence로 앱을 연결한 사용자에게 검색(Search)의 AI 모드(AI Mode)에서 광고를 시험하기 시작했다. 그동안 광고 없이 운영해 온 방침을 뒤집은 셈이다."
+        },
+        {
+          "t": "p",
+          "x": "이번 업데이트로 Google은 AI-powered 응답을 만들 때 이미 쓰던 정보에 더해 연결된 앱에서 얻은 인사이트까지 광고 개인화에 쓴다. 광고에는 여전히 사용자의 검색어와 AI-generated 응답의 맥락, 관심사가 반영된다."
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
+        },
+        {
+          "t": "p",
+          "x": "Google은 보호 장치는 그대로라고 밝혔다. 앱 연결은 사용자가 직접 골라야 한다. 광고는 Gmail이나 Google Photos의 콘텐츠를 직접 기반으로 하지 않는다. 광고주는 연결된 앱에 접근할 수 없고 민감한 정보는 광고 개인화에 쓰지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "이번 테스트에 맞춰 Google이 새로 발표한 광고주 제어 기능이나 타기팅 옵션, 확대 출시 계획은 없다."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-measurement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 ChatGPT Ads에 여러 업데이트를 내놓고 있다. 측정 파트너십 확대와 전환 보고 개선, 주간 성과 요약, 더 크고 시각적인 광고 형식 실험이 그 내용이다."
+        },
+        {
+          "t": "p",
+          "x": "새 측정 연동 파트너는 Northbeam, DV Rockerbox, INCRMNTAL이고 모바일 측정 파트너 Kochava, Tenjin, Airbridge도 합류했다. Ads Manager의 전환(Conversions) 페이지도 새로 디자인해 전환 활동, 이벤트 추이, 최적화 상태, 진단 경고를 한 화면에 모았다."
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
+        },
+        {
+          "t": "p",
+          "x": "테스트 대상은 데스크톱의 더 넓은 광고 카드와 더 큰 이미지, 모바일의 전체 너비 이미지이고 소재는 광고주가 이미 가진 크리에이티브를 쓴다. OpenAI는 이와 별도로 이미지 생성 중에 뜨는 멀티 이미지 광고 형식도 시험할 계획인데 처음엔 일부 U.S. 광고주부터 시작한다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 이 형식들의 성과를 공개하지 않았고 더 넓은 출시 일정도 아직 정하지 않았다."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-targeting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+          "cap": "이미지: Sipa USA via AP."
+        },
+        {
+          "t": "p",
+          "x": "404 Media가 ChatGPT 광고 생태계를 직접 시험해 보니 OpenAI는 누구든 ChatGPT 사용자의 세션에 광고를 넣게 해 주고 이메일 주소와 전화번호, 휴대전화 고유 식별자로 특정 집단을 겨냥하게 해 준다."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT에서 쓸 수 있는 광고 타기팅 자체는 광고 업계 전반에서 어느 정도 표준적인 방식이다. 다만 월간 활성 사용자가 십억 명에 이르는 이 챗봇 이용자들은 광고주가 OpenAI에 올린 자기 개인 데이터 때문에 콕 집어 표적이 된다는 사실을 모를 때가 있다. 새로운 건 사용자가 챗봇에 입력하는 프롬프트도 ChatGPT 광고 타기팅의 근거가 된다는 점이다. 사용자는 프롬프트를 비공개로 여기기 쉽지만 404 Media가 앞서 보여 줬듯 사람이 검토하기도 한다. 이번엔 광고 타기팅에 쓰인다."
+        }
+      ]
+    },
+    "marketing/marketing-thrad-chat-ads-fund": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+          "cap": "Thrad가 AI 앱 대상 채팅 내 광고비를 $1m으로 두 배 늘린 것을 채팅 말풍선에 떨어지는 동전으로 표현했다"
+        },
+        {
+          "t": "p",
+          "x": "Thrad는 AI 채팅 대화 안에 스폰서 메시지를 넣는 샌프란시스코 기업이다. 이 회사가 Monetization Fund II를 열었다. 광고를 시험해 볼 소비자용 AI 앱에 자사 DSP로 광고주 지출을 최대 100만 달러까지 보내 주는 상시 프로그램이다. 지분은 오가지 않고 현금 보조금도 없다."
+        },
+        {
+          "t": "p",
+          "x": "2025년 12월 1차 라운드의 50만 달러에서 두 배로 늘었다. 수익 배분이나 앱별 배정액, 프로그램 운영 기간은 발표에 없다."
+        },
+        {
+          "t": "p",
+          "x": "CEO Andrea Tortella는 \"많은 사용자가 그냥 구독료를 내지 않는다\"고 말하면서 상호작용마다 뒤따르는 토큰 비용을 짚었다."
+        },
+        {
+          "t": "p",
+          "x": "광고는 사용자 프로필이 아니라 대화 주제를 따라 붙는다. AI의 자연스러운 응답과 헷갈리지 않게 \"명확한 고지\"를 단 네이티브 스폰서 광고 형태다."
+        }
+      ]
+    },
+    "marketing/marketing-meta-product-browsing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+          "cap": "Meta는 10월 28일부터 집행 중인 광고에 상품 탐색을 켠다. 전환 3% 증가가 근거이고, 옵트아웃도 된다"
+        },
+        {
+          "t": "p",
+          "x": "Meta는 2026년 10월 28일부터 Facebook과 Instagram에서 이미 집행 중인 광고에 상품 탐색 기능을 붙인다고 광고주들에게 알렸다. 그 전에 옵트아웃하지 않으면 그대로 적용된다. 사용자가 광고를 누르면 광고주 웹사이트로 곧장 넘어가지 않고 상품 정보와 맞춤 추천을 담은 앱 내 화면을 먼저 보게 된다."
+        },
+        {
+          "t": "p",
+          "x": "Meta에 따르면 2026년 8월 6–21일 약 117,700개 광고주를 상대로 한 실험에서 기업들의 전환이 평균 3% 늘었다. 다만 공지에는 전환 지표와 비교 집단, 전환당 비용의 정의가 빠져 있다."
+        },
+        {
+          "t": "p",
+          "x": "광고주는 공지에서 바로 옵트아웃하거나 광고별 Advantage+ Creative 및 Destination 설정에서 기능을 켜고 끌 수 있다. 미디어 바이어 David Herrmann은 이 기능을 크리에이티브를 다이내믹 상품 광고로 바꾸는 AI 기능이라 부르며 연말 쇼핑 시즌 직전이라는 시점을 문제 삼았다."
+        }
+      ]
     }
   }
 }

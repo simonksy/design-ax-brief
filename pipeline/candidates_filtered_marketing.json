@@ -1,140 +1,167 @@
 {
   "section": "marketing",
-  "date": "2026-10-16",
-  "now_iso": "2026-10-15T22:00:32Z",
+  "generated_at": "2026-10-16T22:00:37Z",
+  "now_iso": "2026-10-16T22:00:37Z",
   "window_hours": 72,
   "items": [
+    {
+      "title": "ChatGPT Ads introduces new measurement tools and visual ad formats",
+      "url": "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998",
+      "source": "Search Engine Land",
+      "category": "marketing",
+      "published_iso": "2026-10-16T16:30:09+00:00",
+      "excerpt": "OpenAI is adding Northbeam, DV Rockerbox and INCRMNTAL plus Kochava, Tenjin and Airbridge as measurement partners, redesigning the Ads Manager Conversions page, sending weekly performance emails, and testing larger images, wider ad cards and a multi-image format. This follows up the Oct 8 image-generation ad format already covered, so it needs a new angle. Article HTML is blocked; facts come from the SEL RSS full text.",
+      "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png",
+      "history_match": {
+        "score": 0.221,
+        "date": "2026-10-07",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "title": "Building advertising for the way people use AI",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled",
+      "url": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990",
+      "source": "Search Engine Land",
+      "category": "marketing",
+      "published_iso": "2026-10-16T16:11:59+00:00",
+      "excerpt": "Google is reversing the ad-free Personal Intelligence experience and testing AI Mode ads that can be personalized with insights from connected Google apps. Ads won't be based directly on Gmail or Photos content, and advertisers get no access to connected-app data. Facts come from the SEL RSS full text because the article HTML is blocked.",
+      "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png",
+      "history_match": {
+        "score": 0.164,
+        "date": "2026-10-13",
+        "url": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
+        "title": "Google Opens AI Mode to Prescription Drug Ads",
+        "band": "related"
+      }
+    },
+    {
+      "title": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
+      "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+      "source": "404 Media",
+      "category": "marketing",
+      "published_iso": "2026-10-15T13:25:19+00:00",
+      "excerpt": "404 Media reports that advertisers can target ChatGPT users by uploaded email address, phone number or mobile ad ID, on top of prompt context, which most users likely don't realize. This is an off-list outlet: AdExchanger's roundup cites it and no on-list outlet covered it.",
+      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg"
+    },
     {
       "title": "Thrad commits $1m in ad spend to AI chat apps testing in-chat ads",
       "url": "https://ppc.land/thrad-commits-1m-in-ad-spend-to-ai-chat-apps-testing-in-chat-ads/",
       "source": "PPC Land",
-      "published_iso": "2026-10-15T18:15:33.000Z",
-      "excerpt": "Consumer AI chat apps can apply on a rolling basis for advertiser spend routed through Thrad's DSP — Monetization Fund II doubles round one's $500,000 to put conversational ad units inside chatbots.",
-      "og_image": "https://ppc.land/content/images/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
-      "category": "marketing"
-    },
-    {
-      "title": "Google's Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "source": "TechCrunch",
-      "published_iso": "2026-10-15T14:29:33+00:00",
-      "excerpt": "Google's AI-driven Universal Cart, which tracks prices and checks out across merchants, is now live in the U.S. across Search and the Gemini app, with Nike, Sephora, Target and Walmart at launch (YouTube and Gmail still missing).",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-UniversalCart.png?w=1200",
-      "category": "marketing"
-    },
-    {
-      "title": "Meta will turn on product browsing in existing ads on October 28",
-      "url": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-15T20:11:03.000Z",
-      "excerpt": "Meta will default-enable its AI product-browsing feature, which turns any running Facebook/Instagram creative into in-app dynamic product pages, citing a 3% conversion lift from a test across ~117,700 advertisers; opt-out available.",
-      "og_image": "https://ppc.land/content/images/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
       "category": "marketing",
+      "published_iso": "2026-10-15T18:15:33+00:00",
+      "excerpt": "Thrad's Monetization Fund II routes up to $1 million in advertiser campaigns through its DSP to consumer AI apps willing to test in-chat ads, double the $500,000 first round. Ads are matched to the conversation topic rather than a user profile and appear as disclosed native sponsored placements.",
+      "og_image": "https://ppc.land/content/images/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg"
+    },
+    {
+      "title": "Meta's New Terms Expand Crawling Rights Beyond Advertisers",
+      "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-10-16T21:38:49+00:00",
+      "excerpt": "Meta's new commercial terms, effective Oct 30, let it crawl any site tied to a Facebook or Instagram business account and use the content to train its AI products, widening rights ad buyers had already granted. Meta says the purpose is product data, which ties it to AI product ads and shopping. The Verge and PPC Land also covered it.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg",
       "history_match": {
-        "score": 0.172,
-        "date": "2026-10-15",
-        "url": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
-        "title": "Meta says its GEM ads model lifted conversions 18.9% across its apps",
+        "score": 0.17,
+        "date": "2026-10-16",
+        "url": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
+        "title": "Meta will turn on product browsing in existing ads on October 28",
         "band": "related"
       }
     },
     {
-      "title": "Meta named a future that never came. Amazon Ads Agent names one that exists",
-      "url": "https://ppc.land/meta-named-a-future-that-never-came-amazon-ads-agent-names-one-that-exists/",
+      "title": "Google Ads PM says target or budget changes cause no learning period",
+      "url": "https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/",
       "source": "PPC Land",
-      "published_iso": "2026-10-15T19:20:10.000Z",
-      "excerpt": "Amazon Ads Agent stopped being a feature and became the front door to Amazon DSP, replacing the Ads Console; analysis of what the conversational agent does and why its fees are the real test. (Analysis piece; underlying rename was Sept 29.)",
-      "og_image": "https://ppc.land/content/images/2026/10/amazon-ads-agent-meta-metaverse-rename-fees-self-running-machine.jpg",
       "category": "marketing",
+      "published_iso": "2026-10-16T20:23:14+00:00",
+      "excerpt": "Google Ads PM Tal Akabas said on Oct 15 that Smart Bidding scales bids in proportion to new targets on steady campaigns, so target or budget changes don't trigger a learning period. Re-engagement mode has reached PMax, with Search and Shopping next.",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg"
+    },
+    {
+      "title": "Meta's Muse gains a 33% share of AI browser traffic in 9 days, DataDome finds",
+      "url": "https://ppc.land/metas-muse-gains-a-33-share-of-ai-browser-traffic-in-9-days-datadome-finds/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-15T17:56:55+00:00",
+      "excerpt": "DataDome counted 29.1 million Muse requests in 12 days, 99.3% of them from Cloudflare and Fastly rather than home ISPs, which puts merchants' bot rules to the test. This is a follow-up to the HUMAN '72% of agent traffic' story already covered and offers new vendor data only.",
+      "og_image": "https://ppc.land/content/images/2026/10/meta-muse-datadome-ai-browser-traffic-cloud-staircase-doorman.jpg",
       "history_match": {
-        "score": 0.22,
-        "date": "2026-10-08",
-        "url": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
-        "title": "Ads Uploader: 17.5% of 36,289 Meta ad batches came from AI agents",
+        "score": 0.271,
+        "date": "2026-10-11",
+        "url": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
+        "title": "Meta's Muse accounts for 72% of AI agent requests, HUMAN finds",
         "band": "related"
       }
     },
     {
-      "title": "Fox Expands Agentic Push With Eyes Set On TV Upfront Future",
-      "url": "https://www.adweek.com/convergent-tv/fox-expands-agentic-push-with-eyes-set-on-tv-upfront-future/",
+      "title": "Square's First Standalone Kiosk Features An AI Ordering Assistant",
+      "url": "https://www.adweek.com/commerce/squares-first-standalone-kiosk-features-an-ai-ordering-assistant/",
       "source": "Adweek",
-      "published_iso": "2026-10-15T10:20:22-04:00",
-      "excerpt": "Fox adds new agency partners to what it calls TV's first end-to-end agentic ad platform and extends agentic transactions to linear buys, with digital next and the upfront in view.",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2025/07/FoxUpfront25_FM_0314-e1753114610725.jpg?w=600&h=315&crop=1",
-      "category": "marketing"
+      "category": "marketing",
+      "published_iso": "2026-10-14T12:00:00-04:00",
+      "excerpt": "Square's $1,999 flagship kiosk (plus $99/month) has a conversational voice layer that understands a seller's menu, answers questions, suggests items based on time of day or cart contents, and handles modifications. Adweek notes the screens won't carry ads. The Verge also covered it.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Square.jpg?w=600&h=315&crop=1"
     },
     {
       "title": "Pivot or Perish: Kargo's Bet on AI Media Buying",
       "url": "https://www.adweek.com/brand-marketing/pivot-or-perish-kargos-bet-on-ai-media-buying/",
       "source": "Adweek",
+      "category": "marketing",
       "published_iso": "2026-10-15T15:02:23-04:00",
-      "excerpt": "Kargo CEO Harry Kargman on Karlo, an AI-powered media-buying platform meant to let mid-market and smaller brands plan, launch and manage multichannel campaigns. (Podcast/interview format — weaker.)",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/speed-of-culture-outrigger-Harry-Kargman.png?w=600&h=315&crop=1",
-      "category": "marketing"
+      "excerpt": "In this interview, Kargo CEO Harry Kargman describes Karlo, a chat-style AI media buying platform for mid-market and smaller brands. Users upload assets, brand guidelines, audience data and media plans, then plan and launch campaigns with it. The piece is a podcast interview, not a launch release.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/speed-of-culture-outrigger-Harry-Kargman.png?w=600&h=315&crop=1"
     },
     {
-      "title": "Stripe agentic commerce revs up",
-      "url": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
-      "source": "Payments Dive",
-      "published_iso": "2026-10-15T11:36:00-04:00",
-      "excerpt": "Stripe President John Collison said agent-driven commerce on Stripe went 'vertical' in September, following its agentic checkout launches, in conversation with Meta's Zuckerberg and Alexandr Wang.",
-      "og_image": "https://imgproxy.divecdn.com/9ta2WoSndNZmAo1oC1kkGgNM41yHRljtA8qPfsFranY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2huX0NvbGxpc29uLmpwZw==.webp",
-      "category": "marketing"
-    },
-    {
-      "title": "Google Ads Search Terms and Ad Combinations Report (AI Max)",
-      "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
-      "source": "Search Engine Roundtable",
-      "published_iso": "2026-10-14T07:51:00-04:00",
-      "excerpt": "Google Ads is testing a single report tying search queries to the ad copy and landing pages served, including whether traffic came via AI Max expanded matches and whether assets were advertiser-provided or generated.",
-      "og_image": "https://images.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-4Menw3Ef.jpg",
+      "title": "VideoAmp Bets On AI To Connect Ad Planning And Measurement",
+      "url": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/",
+      "source": "AdExchanger",
       "category": "marketing",
-      "history_match": {
-        "score": 0.195,
-        "date": "2026-10-10",
-        "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
-        "title": "Google Ads Text Customization Asset Previews",
-        "band": "related"
-      }
+      "published_iso": "2026-10-16T09:00:09+00:00",
+      "excerpt": "VideoAmp says connecting its planning and measurement workflows to AI agents is a top priority, so buyers can optimize TV campaigns in flight. It cut about 20% of staff over the summer to shift operations to AI. Weak: there is no named product, launch date or customer data.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-scaled.jpg"
     },
     {
-      "title": "OpenAI ChatGPT Ads Account Managers reach out to advertisers",
-      "url": "https://www.seroundtable.com/openai-chatgpt-ads-account-manager-42278.html",
-      "source": "Search Engine Roundtable",
-      "published_iso": "2026-10-14T07:21:00-04:00",
-      "excerpt": "OpenAI now has human 'ChatGPT Ads Account Managers' contacting advertisers and agencies to help run ChatGPT ads — a Google Ads-style sales layer for the new ad channel. (Follow-up to Agency Partner hire; weaker.)",
-      "og_image": "https://images.seroundtable.com/openai-chatgpt-ads-account-manager-email-fF84z3n4.jpg",
+      "title": "AI 광고부터 해외 진출까지…'틱톡 서밋 코리아 2026' 개최",
+      "url": "https://www.etnews.com/20261015000083",
+      "source": "전자신문",
       "category": "marketing",
-      "history_match": {
-        "score": 0.232,
-        "date": "2026-10-10",
-        "url": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
-        "title": "OpenAI Wants ChatGPT Ads to Become a Permanent Line Item in Agency Media Plans",
-        "band": "related"
-      }
+      "published_iso": "2026-10-15T09:47:55+09:00",
+      "excerpt": "At TikTok Summit Korea 2026 on Oct 20, TikTok will cover ad creative with Symphony, its generative AI tool, Smart+ campaign automation, its agentic AI direction, and a demo of making ad video with the Seedance 2.5 model, plus TikTok Shop cross-border selling. This is an event preview (off-list Korean outlet).",
+      "og_image": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.bf4f0171eb3e4f40bb9c73a00b19b44c_P1.jpg"
     },
     {
-      "title": "틱톡, AI로 광고 제작·운영 자동화…한국발 해외 판매 전략 제시",
-      "url": "https://www.itdaily.kr/news/articleView.html?idxno=242208",
-      "source": "아이티데일리",
-      "published_iso": "2026-10-15T11:48:55+09:00",
-      "excerpt": "틱톡이 생성형 AI를 광고 소재 제작부터 캠페인 운영·최적화까지 적용하고 틱톡샵 기반 해외 판매 전략을 20일 '틱톡 서밋 코리아 2026'에서 공개한다. (Off-list Korean outlet; event preview.)",
-      "og_image": "https://cdn.itdaily.kr/news/thumbnail/202610/242208_248160_3819_v150.jpg",
-      "category": "marketing"
+      "title": "G마켓, 셀러 컨퍼런스 개최…\"신규 쿠폰 정책·AI 에이전트 도입\"",
+      "url": "https://biz.sbs.co.kr/article/20000340057",
+      "source": "SBS Biz",
+      "category": "marketing",
+      "published_iso": "2026-10-15T08:17:00+09:00",
+      "excerpt": "At its 2026 seller conference (Oct 13–14, about 1,000 sellers), Gmarket laid out support plans for its 660,000 sellers, including AI agents for shopping and seller sales management and a new coupon policy. Off-list Korean outlet; the body text was thin, so the summary relies on the meta description and headlines.",
+      "og_image": "https://img.biz.sbs.co.kr/upload/2026/10/15/uTA1792019784492-850.jpg"
     },
     {
-      "title": "C-Centric Launches Cross-Site Agentic Transfer",
-      "url": "https://www.exchangewire.com/blog/2026/10/15/c-centric-launches-cross-site-agentic-transfer/",
-      "source": "ExchangeWire",
-      "published_iso": "2026-10-15T10:03:05+00:00",
-      "excerpt": "C-Centric's X-AT is an agentic AI ad format that lets consumers talk to and transact with a brand's agent directly from within a digital ad, without leaving the publisher page. (Off-list; vendor launch.)",
-      "og_image": "https://cdn.exchangewire.com/wp-content/uploads/2026/10/C-Centric_company_logo.png",
-      "category": "marketing"
+      "title": "\"AI비서가 쇼핑부터 결제까지\" 농협카드, 안랩과 '에이전틱 페이먼트' 실증추진",
+      "url": "https://www.catchnews.kr/news/articleView.html?idxno=129369",
+      "source": "CatchNews",
+      "category": "marketing",
+      "published_iso": "2026-10-16T09:55:08+09:00",
+      "excerpt": "NH NongHyup Card and AhnLab Blockchain Company are running an Agentic Payment PoC: an AI assistant finds and picks products based on conditions the customer sets, pays automatically in stablecoin over the x402 protocol, and the card company verifies and settles. Possible NH pay integration later. Off-list Korean outlet.",
+      "og_image": "https://cdn.catchnews.kr/news/thumbnail/202610/129369_167537_5350_v150.jpg"
+    },
+    {
+      "title": "AI가 바꾼 디지털 마케팅 공식… 장윤석 네이버 실장 \"운영보다 전략, 클릭보다 맥락\"",
+      "url": "https://www.brandbrief.co.kr/news/articleView.html?idxno=10428",
+      "source": "Brand Brief",
+      "category": "marketing",
+      "published_iso": "2026-10-16T14:00:00+09:00",
+      "excerpt": "At the Oct 15 KODA AI ad marketing seminar, Naver and Kakao said AI will automate much of ad operations. Naver pointed to AI Briefing and its AI tab beta, which links to Maps, Place and Shopping so search carries through to purchases and bookings. This is a seminar recap (off-list Korean outlet); MADTimes covered the same event.",
+      "og_image": "https://www.brandbrief.co.kr/news/thumbnail/202610/10428_23823_1037_v150.jpg"
     }
   ],
   "dedup": {
-    "dropped": 1,
-    "kept": 11,
+    "dropped": 0,
+    "kept": 14,
     "against_days": 5
   },
   "story_dedup": {
@@ -363,6 +390,31 @@
       "date": "2026-10-15",
       "title": "Your Store Is 'Agent-Ready' By Default, We Tested 122 Shopify Stores To See What That Actually Means",
       "url": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Meta will turn on product browsing in existing ads on October 28",
+      "url": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Google's Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Fox Expands Agentic Push With Eyes Set On TV Upfront Future",
+      "url": "https://www.adweek.com/convergent-tv/fox-expands-agentic-push-with-eyes-set-on-tv-upfront-future/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Stripe agentic commerce revs up",
+      "url": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Google Ads Search Terms and Ad Combinations Report (AI Max)",
+      "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html"
     }
   ]
 }

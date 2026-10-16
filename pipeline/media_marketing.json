@@ -1,11 +1,31 @@
 {
-  "date": "2026-10-16",
-  "section": "marketing",
-  "media": [
-    {"id": "marketing-meta-product-browsing", "type": "image", "src": "pipeline/media/marketing-meta-product-browsing.jpg"},
-    {"id": "marketing-google-universal-cart", "type": "image", "src": "pipeline/media/marketing-google-universal-cart.png"},
-    {"id": "marketing-fox-agentic-linear", "type": "image", "src": "pipeline/media/marketing-fox-agentic-linear.jpg"},
-    {"id": "marketing-google-ads-ai-max-report", "type": "image", "src": "pipeline/media/marketing-google-ads-ai-max-report.jpg"},
-    {"id": "marketing-stripe-agentic-commerce", "type": "image", "src": "pipeline/media/marketing-stripe-agentic-commerce.jpg"}
-  ]
+ "date": "2026-10-17",
+ "section": "marketing",
+ "media": [
+  {
+   "id": "marketing-meta-crawl-terms",
+   "type": "image",
+   "src": "pipeline/media/marketing-meta-crawl-terms.jpg"
+  },
+  {
+   "id": "marketing-google-ai-mode-ads",
+   "type": "image",
+   "src": "pipeline/media/marketing-google-ai-mode-ads.png"
+  },
+  {
+   "id": "marketing-chatgpt-ads-measurement",
+   "type": "image",
+   "src": "pipeline/media/marketing-chatgpt-ads-measurement.png"
+  },
+  {
+   "id": "marketing-chatgpt-ads-targeting",
+   "type": "image",
+   "src": "pipeline/media/marketing-chatgpt-ads-targeting.jpg"
+  },
+  {
+   "id": "marketing-thrad-chat-ads-fund",
+   "type": "image",
+   "src": "pipeline/media/marketing-thrad-chat-ads-fund.jpg"
+  }
+ ]
 }

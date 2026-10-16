@@ -1,281 +1,263 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "music",
   "cards": [
     {
-      "id": "music-musebench",
+      "id": "music-vocaloid7",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "361K 곡으로 시험한\nAI-made 음악 판별",
-      "body": "MUSEBENCH가 361K 곡으로 AI-music 탐지기 11종을 시험했다.",
-      "mini_headline": "AI 음악 탐지기 시험대",
+      "headline": "VOCALOID7 공개\n11월 11일, $129",
+      "body": "VOCALOID7이 11월 11일 $129에 AI Megpoid와 함께 나온다.",
+      "mini_headline": "Yamaha의 VOCALOID7",
       "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.20310",
+      "source": "Essential Japan",
+      "url": "https://essential-japan.com/news/vocaloid7-officially-announced-just-6-months-after-hatsune-mikus-v6-debut/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+          },
+          {
             "t": "p",
-            "x": "생성형 AI는 이제 사람이 만든 곡과 거의 구별되지 않는 음악을 만든다. MUSEBENCH는 361K 곡이 넘는 트랙을 모은 대규모 벤치마크로, AI-generated 음악을 탐지하고 아티팩트를 분석하는 데 쓰인다."
+            "x": "Yamaha가 Hatsune Miku V6 출시 후 여섯 달이 채 안 되어 VOCALOID7을 공식 발표했다. 새 “VOCALOID7 Editor”는 사 년 만에 VOCALOID6의 뒤를 잇는다. 전용 보이스뱅크도 새 세대로 내놓지만, VOCALOID3까지 거슬러 올라가는 기존 제품 지원은 그대로 이어간다."
           },
           {
             "t": "img",
-            "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-            "cap": "그림 1: MuseBench 개요."
+            "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
           },
           {
             "t": "p",
-            "x": "데이터셋에는 사람이 만든 곡과 Suno, Udio 등 최신 오픈소스·상용 모델 10종이 스타일을 맞춰 생성한 음악이 들어 있다. human-AI 공동 창작물과 적대적 교란·압축·음향 후처리를 거친 변형본도 담겼다."
+            "x": "“Hatsune Miku V6”는 2026년 4월 14일 새 AI-powered 보컬을 앞세워 나왔다. Crypton Future Media는 Yamaha와 함께 Miku V6 일본어·영어 보이스뱅크의 VOCALOID7-compatible 버전을 만드는 중이고, 2027년 중 되도록 이른 시점에 기존 V6 사용자에게 무료로 풀 계획이다."
           },
           {
             "t": "p",
-            "x": "저자들은 자동 탐지기 11종을 기본·도메인 외·변형본 설정에 넣고 정확도와 일반화 성능, 견고성을 따졌다."
+            "x": "VOCALOID7에 어떤 기능이 새로 들어가는지는 아직 알려지지 않았다. 에디터에는 “asa”라는 새 보이스뱅크가 함께 들어간다."
           },
           {
             "t": "img",
-            "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-            "cap": "AI가 만든 음악의 코드 진행."
+            "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
           },
           {
             "t": "p",
-            "x": "음향 특징을 들여다본 아티팩트 분석에서는 되풀이되는 흔적이 나왔다. 관습을 벗어난 화성 진행, 업샘플링이 남긴 스펙트럼 주기성, 실제 연주라면 물리적으로 낼 수 없는 대목 같은 것들이다."
-          },
-          {
-            "t": "img",
-            "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-            "cap": "AI가 만든 기타 음표."
+            "x": "Internet Co.는 같은 날 “VOCALOID7 Voicebank AI Megpoid”를 내놓는다. Megumi Nakajima를 바탕으로 만들어 VOCALOID7 AI 엔진에 맞게 다듬었고, 여덟 가지 보이스 타입을 고를 수 있다. LUCI도 VOCALOID FAN-ding으로 출시에 맞춰 나온다."
           },
           {
             "t": "p",
-            "x": "연구는 기존 탐지기가 어디에 강하고 어디서 약한지 짚는다. 더 믿을 만한 AI 음악 탐지 시스템을 만들 때 참고할 실용적인 단서도 함께 내놓는다."
+            "x": "“VOCALOID7 Editor”는 2026년 11월 11일 세전 $129에 출시되고, 업그레이드판 정가는 $69다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A 361K-track test for\nspotting AI-made music",
-          "body": "MUSEBENCH tests 11 AI-music detectors on 361K tracks and names the artifacts that expose generated songs.",
-          "mini_headline": "Testing AI-music detectors",
+          "headline": "Yamaha unveils VOCALOID7,\nout November 11 for $129",
+          "body": "Yamaha's VOCALOID7 Editor launches Nov 11 for $129, with AI Megpoid optimized for its AI engine.",
+          "mini_headline": "Yamaha's VOCALOID7",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+              },
+              {
                 "t": "p",
-                "x": "Advances in generative AI have made it possible to produce music that is nearly indistinguishable from human compositions. MUSEBENCH is a large-scale benchmark for AI-generated music detection and artifact analysis, comprising over 361K tracks."
+                "x": "Yamaha has officially announced VOCALOID7 just under six months after the launch of Hatsune Miku V6. The new “VOCALOID7 Editor” succeeds VOCALOID6 after four years and will introduce a new generation of dedicated voicebanks while continuing to support existing releases dating back to VOCALOID3."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-                "cap": "Figure 1: Overview of MuseBench."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
               },
               {
                 "t": "p",
-                "x": "The dataset includes human compositions, stylistically matched music generated by ten state-of-the-art open-source and commercial models such as Suno and Udio, human-AI co-creations, and variants processed with adversarial perturbations, compression and acoustic post-processing."
+                "x": "“Hatsune Miku V6” launched on April 14, 2026, with new AI-powered vocals. Crypton Future Media is working with Yamaha on VOCALOID7-compatible versions of the Miku V6 Japanese and English voicebanks, planned free of charge for existing V6 users as early as possible in 2027."
               },
               {
                 "t": "p",
-                "x": "The authors benchmark 11 automated detectors and evaluate their accuracy, generalization and robustness under default, out-of-domain and transformed-variant settings."
+                "x": "Full details of VOCALOID7’s new functions have not yet been revealed. A new voicebank named “asa” will be bundled with the editor."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-                "cap": "Chord progression of AI-generated music."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
               },
               {
                 "t": "p",
-                "x": "An artifact analysis through acoustic feature inspection identifies recurring signatures: non-idiomatic harmonic progressions, upsampling-induced spectral periodicities, and violations of physical performance constraints."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-                "cap": "AI-generated guitar notes."
+                "x": "Internet Co. will release “VOCALOID7 Voicebank AI Megpoid” the same day, based on Megumi Nakajima and optimized for VOCALOID7’s AI engine, with eight selectable voice types. LUCI will also be available at launch via VOCALOID FAN-ding."
               },
               {
                 "t": "p",
-                "x": "The findings reveal key strengths and vulnerabilities of existing detectors and offer practical insights for building more reliable AI music detection systems."
+                "x": "The “VOCALOID7 Editor” will launch on November 11, 2026 for $129 before tax, while the upgrade edition is normally priced at $69."
               }
             ]
           }
         },
         "ko": {
-          "headline": "361K 곡으로 시험한\nAI-made 음악 판별",
-          "body": "MUSEBENCH가 361K 곡으로 AI-music 탐지기 11종을 시험했다.",
-          "mini_headline": "AI 음악 탐지기 시험대",
+          "headline": "VOCALOID7 공개\n11월 11일, $129",
+          "body": "VOCALOID7이 11월 11일 $129에 AI Megpoid와 함께 나온다.",
+          "mini_headline": "Yamaha의 VOCALOID7",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+              },
+              {
                 "t": "p",
-                "x": "생성형 AI는 이제 사람이 만든 곡과 거의 구별되지 않는 음악을 만든다. MUSEBENCH는 361K 곡이 넘는 트랙을 모은 대규모 벤치마크로, AI-generated 음악을 탐지하고 아티팩트를 분석하는 데 쓰인다."
+                "x": "Yamaha가 Hatsune Miku V6 출시 후 여섯 달이 채 안 되어 VOCALOID7을 공식 발표했다. 새 “VOCALOID7 Editor”는 사 년 만에 VOCALOID6의 뒤를 잇는다. 전용 보이스뱅크도 새 세대로 내놓지만, VOCALOID3까지 거슬러 올라가는 기존 제품 지원은 그대로 이어간다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-                "cap": "그림 1: MuseBench 개요."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
               },
               {
                 "t": "p",
-                "x": "데이터셋에는 사람이 만든 곡과 Suno, Udio 등 최신 오픈소스·상용 모델 10종이 스타일을 맞춰 생성한 음악이 들어 있다. human-AI 공동 창작물과 적대적 교란·압축·음향 후처리를 거친 변형본도 담겼다."
+                "x": "“Hatsune Miku V6”는 2026년 4월 14일 새 AI-powered 보컬을 앞세워 나왔다. Crypton Future Media는 Yamaha와 함께 Miku V6 일본어·영어 보이스뱅크의 VOCALOID7-compatible 버전을 만드는 중이고, 2027년 중 되도록 이른 시점에 기존 V6 사용자에게 무료로 풀 계획이다."
               },
               {
                 "t": "p",
-                "x": "저자들은 자동 탐지기 11종을 기본·도메인 외·변형본 설정에 넣고 정확도와 일반화 성능, 견고성을 따졌다."
+                "x": "VOCALOID7에 어떤 기능이 새로 들어가는지는 아직 알려지지 않았다. 에디터에는 “asa”라는 새 보이스뱅크가 함께 들어간다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-                "cap": "AI가 만든 음악의 코드 진행."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
               },
               {
                 "t": "p",
-                "x": "음향 특징을 들여다본 아티팩트 분석에서는 되풀이되는 흔적이 나왔다. 관습을 벗어난 화성 진행, 업샘플링이 남긴 스펙트럼 주기성, 실제 연주라면 물리적으로 낼 수 없는 대목 같은 것들이다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-                "cap": "AI가 만든 기타 음표."
+                "x": "Internet Co.는 같은 날 “VOCALOID7 Voicebank AI Megpoid”를 내놓는다. Megumi Nakajima를 바탕으로 만들어 VOCALOID7 AI 엔진에 맞게 다듬었고, 여덟 가지 보이스 타입을 고를 수 있다. LUCI도 VOCALOID FAN-ding으로 출시에 맞춰 나온다."
               },
               {
                 "t": "p",
-                "x": "연구는 기존 탐지기가 어디에 강하고 어디서 약한지 짚는다. 더 믿을 만한 AI 음악 탐지 시스템을 만들 때 참고할 실용적인 단서도 함께 내놓는다."
+                "x": "“VOCALOID7 Editor”는 2026년 11월 11일 세전 $129에 출시되고, 업그레이드판 정가는 $69다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "361K 曲で試す\nAI-made音楽の判別",
-          "body": "MUSEBENCHは361K 曲でAI-music検出器11種を試し、生成曲の痕跡を示す。",
-          "mini_headline": "AI音楽検出器を検証",
+          "headline": "VOCALOID7発表\n11月11日、$129で発売",
+          "body": "VOCALOID7は11月11日に$129で発売され、AI Megpoidも同日に出る。",
+          "mini_headline": "YamahaのVOCALOID7",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+              },
+              {
                 "t": "p",
-                "x": "生成AIの進歩により、人間の作曲とほとんど見分けのつかない音楽を作れるようになった。MUSEBENCHは、361K 曲を超えるトラックからなる、AI-generated音楽の検出とアーティファクト分析のための大規模ベンチマークである。"
+                "x": "Yamahaは、Hatsune Miku V6の発売から六か月足らずでVOCALOID7を正式に発表した。新しい「VOCALOID7 Editor」は四年ぶりにVOCALOID6の後継となり、新世代の専用ボイスバンクを導入する一方、VOCALOID3にさかのぼる既存製品も引き続きサポートする。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-                "cap": "図1:MuseBenchの概要。"
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
               },
               {
                 "t": "p",
-                "x": "データセットには、人間の作曲、SunoやUdioなど最先端のオープンソース・商用モデル10種がスタイルを合わせて生成した音楽、human-AIの共同創作、さらに敵対的摂動や圧縮、音響的な後処理を施した変種が含まれる。"
+                "x": "「Hatsune Miku V6」は2026年4月14日、新たなAI-poweredボーカルを搭載して発売された。Crypton Future MediaはYamahaと協力してMiku V6の日本語・英語ボイスバンクのVOCALOID7-compatible版を開発中で、既存のV6ユーザーには2027年のできるだけ早い時期に無償で提供する予定だ。"
               },
               {
                 "t": "p",
-                "x": "著者らは11の自動検出器をベンチマークし、デフォルト、ドメイン外、変換済み変種の各設定で精度、汎化性能、頑健性を評価した。"
+                "x": "VOCALOID7の新機能の詳細はまだ明らかにされていない。エディターには新ボイスバンク「asa」が同梱される。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-                "cap": "AI生成音楽のコード進行。"
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
               },
               {
                 "t": "p",
-                "x": "音響特徴の検査によるアーティファクト分析では、繰り返し現れる痕跡が特定された。慣用から外れた和声進行、アップサンプリングに起因するスペクトルの周期性、そして物理的な演奏上の制約に反する箇所である。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-                "cap": "AIが生成したギターの音符。"
+                "x": "Internet Co.は同日、Megumi NakajimaをもとにVOCALOID7のAIエンジン向けに最適化した「VOCALOID7 Voicebank AI Megpoid」を発売する。ボイスタイプは八種類から選べる。LUCIも発売時にVOCALOID FAN-dingを通じて提供される。"
               },
               {
                 "t": "p",
-                "x": "この結果は既存の検出器の主な強みと弱点を明らかにし、より信頼できるAI音楽検出システムを構築するための実践的な示唆を与える。"
+                "x": "「VOCALOID7 Editor」は2026年11月11日に税抜$129で発売され、アップグレード版の通常価格は$69である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "361K 首曲目检验\nAI-made音乐识别",
-          "body": "MUSEBENCH用361K 首曲目测试11款AI-music检测器，并指出生成痕迹。",
-          "mini_headline": "检验AI音乐检测器",
+          "headline": "VOCALOID7亮相\n11月11日上市，$129",
+          "body": "VOCALOID7将于11月11日以$129发售，并配有AI Megpoid。",
+          "mini_headline": "Yamaha的VOCALOID7",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+              },
+              {
                 "t": "p",
-                "x": "生成式AI的进步，使制作与人类作品几乎无法区分的音乐成为可能。MUSEBENCH是一个用于AI-generated音乐检测与伪影分析的大规模基准，包含超过361K 首曲目。"
+                "x": "Yamaha在Hatsune Miku V6发布后不到六个月，正式公布了VOCALOID7。全新的“VOCALOID7 Editor”时隔四年接替VOCALOID6，将推出新一代专用声库，同时继续支持可追溯至VOCALOID3的既有产品。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-                "cap": "图1：MuseBench概览。"
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
               },
               {
                 "t": "p",
-                "x": "数据集包括人类作品、由Suno、Udio等十款最先进开源及商业模型生成的风格匹配音乐、human-AI共创作品，以及经过对抗扰动、压缩和声学后处理的变体。"
+                "x": "“Hatsune Miku V6”于2026年4月14日发布，搭载全新的AI-powered歌声。Crypton Future Media正与Yamaha合作开发Miku V6日语和英语声库的VOCALOID7-compatible版本，计划在2027年尽早免费提供给现有V6用户。"
               },
               {
                 "t": "p",
-                "x": "作者对11款自动检测器进行基准测试，在默认、域外和变换变体设置下评估其准确性、泛化能力与稳健性。"
+                "x": "VOCALOID7新功能的完整细节尚未公布。编辑器将附带一款名为“asa”的新声库。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-                "cap": "AI生成音乐的和弦进行。"
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
               },
               {
                 "t": "p",
-                "x": "通过声学特征检视进行的伪影分析，找出了反复出现的特征：不合惯用法的和声进行、上采样导致的频谱周期性，以及违背真实演奏物理限制的现象。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-                "cap": "AI生成的吉他音符。"
+                "x": "Internet Co.将于同日推出“VOCALOID7 Voicebank AI Megpoid”，该声库以Megumi Nakajima为基础，针对VOCALOID7的AI引擎优化，提供八种可选音色。LUCI也将在发售时通过VOCALOID FAN-ding推出。"
               },
               {
                 "t": "p",
-                "x": "研究结果揭示了现有检测器的主要优势与弱点，并为构建更可靠的AI音乐检测系统提供了实用启示。"
+                "x": "“VOCALOID7 Editor”将于2026年11月11日发售，税前售价$129，升级版常规售价为$69。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una prueba de 361K pistas para\ndetectar música AI-made",
-          "body": "MUSEBENCH evalúa 11 detectores de AI-music con 361K pistas y señala los artefactos que delatan la música generada.",
-          "mini_headline": "Detectores de música IA a prueba",
+          "headline": "Yamaha presenta VOCALOID7,\nsale el 11 de noviembre por $129",
+          "body": "El VOCALOID7 Editor de Yamaha sale el 11 de noviembre por $129, con AI Megpoid optimizada para su motor de AI.",
+          "mini_headline": "VOCALOID7 de Yamaha",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+              },
+              {
                 "t": "p",
-                "x": "Los avances de la IA generativa permiten producir música casi indistinguible de las composiciones humanas. MUSEBENCH es un banco de pruebas a gran escala para la detección de música AI-generated y el análisis de artefactos, con más de 361K pistas."
+                "x": "Yamaha anunció oficialmente VOCALOID7 poco menos de seis meses después del lanzamiento de Hatsune Miku V6. El nuevo “VOCALOID7 Editor” sucede a VOCALOID6 tras cuatro años e introducirá una nueva generación de bancos de voz dedicados, sin dejar de admitir los lanzamientos existentes que se remontan a VOCALOID3."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-                "cap": "Figura 1: Panorama de MuseBench."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
               },
               {
                 "t": "p",
-                "x": "El conjunto de datos incluye composiciones humanas, música de estilo equivalente generada por diez modelos de código abierto y comerciales de última generación, como Suno y Udio, cocreaciones human-AI y variantes procesadas con perturbaciones adversarias, compresión y posprocesamiento acústico."
+                "x": "“Hatsune Miku V6” salió el 14 de abril de 2026 con nuevas voces impulsadas por AI (AI-powered). Crypton Future Media trabaja con Yamaha en versiones compatibles con VOCALOID7 (VOCALOID7-compatible) de los bancos de voz japonés e inglés de Miku V6, que se ofrecerán gratis a los usuarios actuales de V6 lo antes posible en 2027."
               },
               {
                 "t": "p",
-                "x": "Los autores comparan 11 detectores automáticos y evalúan su precisión, generalización y robustez en escenarios predeterminados, fuera de dominio y con variantes transformadas."
+                "x": "Aún no se han revelado todos los detalles de las nuevas funciones de VOCALOID7. El editor incluirá un nuevo banco de voz llamado “asa”."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-                "cap": "Progresión de acordes de música generada por IA."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
               },
               {
                 "t": "p",
-                "x": "Un análisis de artefactos mediante la inspección de rasgos acústicos identifica firmas recurrentes: progresiones armónicas no idiomáticas, periodicidades espectrales inducidas por el sobremuestreo y violaciones de las restricciones físicas de la interpretación."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-                "cap": "Notas de guitarra generadas por IA."
+                "x": "Internet Co. lanzará el mismo día “VOCALOID7 Voicebank AI Megpoid”, basado en Megumi Nakajima y optimizado para el motor de AI de VOCALOID7, con ocho tipos de voz seleccionables. LUCI también estará disponible desde el lanzamiento a través de VOCALOID FAN-ding."
               },
               {
                 "t": "p",
-                "x": "Los hallazgos revelan las principales fortalezas y vulnerabilidades de los detectores actuales y ofrecen ideas prácticas para construir sistemas de detección de música por IA más fiables."
+                "x": "El “VOCALOID7 Editor” saldrá a la venta el 11 de noviembre de 2026 por $129 antes de impuestos, mientras que la edición de actualización tiene un precio normal de $69."
               }
             ]
           }
@@ -283,181 +265,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "361K 곡으로 시험한\nAI-made 음악 판별",
-          "body": "MUSEBENCH가 361K 곡으로 AI-music 탐지기 11종을 시험했다.",
-          "mini_headline": "AI 음악 탐지기 시험대",
+          "headline": "VOCALOID7 공개\n11월 11일, $129",
+          "body": "VOCALOID7은 11월 11일 $129로, AI Megpoid와 함께 나온다.",
+          "mini_headline": "Yamaha의 VOCALOID7",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+              },
+              {
                 "t": "p",
-                "x": "생성형 AI가 발전하면서 사람이 만든 곡과 거의 구별되지 않는 음악을 만들 수 있게 됐다. MUSEBENCH는 361K 곡이 넘는 트랙으로 이뤄진 AI-generated 음악 탐지·아티팩트 분석용 대규모 벤치마크다."
+                "x": "Yamaha가 Hatsune Miku V6 출시 후 여섯 달이 채 안 되어 VOCALOID7을 공식 발표했다. 새 “VOCALOID7 Editor”는 사 년 만에 VOCALOID6의 뒤를 잇는다. 새로운 세대의 전용 보이스뱅크를 선보이는 한편, VOCALOID3까지 거슬러 올라가는 기존 제품도 계속 지원한다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-                "cap": "그림 1: MuseBench 개요."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
               },
               {
                 "t": "p",
-                "x": "데이터셋에는 사람이 만든 곡, Suno와 Udio 등 최신 오픈소스·상용 모델 10종이 스타일을 맞춰 생성한 음악, human-AI 공동 창작물, 그리고 적대적 교란·압축·음향 후처리를 거친 변형본이 담겼다."
+                "x": "“Hatsune Miku V6”는 2026년 4월 14일 새로운 AI-powered 보컬을 앞세워 출시됐다. Crypton Future Media는 Yamaha와 함께 Miku V6 일본어·영어 보이스뱅크의 VOCALOID7-compatible 버전을 만들고 있으며, 기존 V6 사용자에게 2027년 중 가능한 한 이른 시점에 무료로 제공할 계획이다."
               },
               {
                 "t": "p",
-                "x": "저자들은 자동 탐지기 11종을 벤치마크하고 기본, 도메인 외, 변형본 설정에서 정확도와 일반화 성능, 견고성을 평가했다."
+                "x": "VOCALOID7 새 기능의 세부 내용은 아직 공개되지 않았다. 에디터에는 “asa”라는 새 보이스뱅크가 함께 들어간다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-                "cap": "AI가 생성한 음악의 코드 진행."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
               },
               {
                 "t": "p",
-                "x": "음향 특징을 살핀 아티팩트 분석에서 반복되는 흔적이 드러났다. 관용에서 벗어난 화성 진행, 업샘플링이 남긴 스펙트럼 주기성, 실제 연주의 물리적 제약을 어기는 대목이다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-                "cap": "AI가 생성한 기타 음표."
+                "x": "Internet Co.는 같은 날 “VOCALOID7 Voicebank AI Megpoid”를 내놓는다. Megumi Nakajima를 바탕으로 VOCALOID7의 AI 엔진에 맞춰 최적화했고, 여덟 가지 보이스 타입을 고를 수 있다. LUCI도 VOCALOID FAN-ding을 통해 출시 시점에 함께 나온다."
               },
               {
                 "t": "p",
-                "x": "연구 결과는 기존 탐지기의 주요 강점과 취약점을 짚고, 더 믿을 만한 AI 음악 탐지 시스템을 만드는 데 필요한 실용적 시사점을 준다."
+                "x": "“VOCALOID7 Editor”는 2026년 11월 11일 세전 $129에 출시되며, 업그레이드판 정가는 $69다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "361K 曲で試す\nAI-made音楽の判別",
-          "body": "MUSEBENCHは361K 曲でAI-music検出器11種を試し、生成曲の痕跡を示す。",
-          "mini_headline": "AI音楽検出器を検証",
+          "headline": "VOCALOID7発表\n11月11日、$129で発売",
+          "body": "VOCALOID7は11月11日に$129で発売され、AI Megpoidも同日に出る。",
+          "mini_headline": "YamahaのVOCALOID7",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+              },
+              {
                 "t": "p",
-                "x": "生成AIの進歩により、人間の作曲とほとんど見分けのつかない音楽を作れるようになった。MUSEBENCHは、361K 曲を超えるトラックからなる、AI-generated音楽の検出とアーティファクト分析のための大規模ベンチマークである。"
+                "x": "Yamahaは、Hatsune Miku V6の発売から六か月足らずでVOCALOID7を正式に発表した。新しい「VOCALOID7 Editor」は四年ぶりにVOCALOID6の後継となり、新世代の専用ボイスバンクを導入する一方、VOCALOID3にさかのぼる既存製品も引き続きサポートする。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-                "cap": "図1:MuseBenchの概要。"
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
               },
               {
                 "t": "p",
-                "x": "データセットには、人間の作曲、SunoやUdioなど最先端のオープンソース・商用モデル10種がスタイルを合わせて生成した音楽、human-AIの共同創作、さらに敵対的摂動や圧縮、音響的な後処理を施した変種が含まれる。"
+                "x": "「Hatsune Miku V6」は2026年4月14日、新たなAI-poweredボーカルを搭載して発売された。Crypton Future MediaはYamahaと協力してMiku V6の日本語・英語ボイスバンクのVOCALOID7-compatible版を開発中で、既存のV6ユーザーには2027年のできるだけ早い時期に無償で提供する予定だ。"
               },
               {
                 "t": "p",
-                "x": "著者らは11の自動検出器をベンチマークし、デフォルト、ドメイン外、変換済み変種の各設定で精度、汎化性能、頑健性を評価した。"
+                "x": "VOCALOID7の新機能の詳細はまだ明らかにされていない。エディターには新ボイスバンク「asa」が同梱される。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-                "cap": "AI生成音楽のコード進行。"
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
               },
               {
                 "t": "p",
-                "x": "音響特徴の検査によるアーティファクト分析では、繰り返し現れる痕跡が特定された。慣用から外れた和声進行、アップサンプリングに起因するスペクトルの周期性、そして物理的な演奏上の制約に反する箇所である。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-                "cap": "AIが生成したギターの音符。"
+                "x": "Internet Co.は同日、Megumi NakajimaをもとにVOCALOID7のAIエンジン向けに最適化した「VOCALOID7 Voicebank AI Megpoid」を発売する。ボイスタイプは八種類から選べる。LUCIも発売時にVOCALOID FAN-dingを通じて提供される。"
               },
               {
                 "t": "p",
-                "x": "この結果は既存の検出器の主な強みと弱点を明らかにし、より信頼できるAI音楽検出システムを構築するための実践的な示唆を与える。"
+                "x": "「VOCALOID7 Editor」は2026年11月11日に税抜$129で発売され、アップグレード版の通常価格は$69である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "361K 首曲目检验\nAI-made音乐识别",
-          "body": "MUSEBENCH用361K 首曲目测试11款AI-music检测器，并指出生成痕迹。",
-          "mini_headline": "检验AI音乐检测器",
+          "headline": "VOCALOID7亮相\n11月11日上市，$129",
+          "body": "VOCALOID7将于11月11日以$129发售，并配有AI Megpoid。",
+          "mini_headline": "Yamaha的VOCALOID7",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+              },
+              {
                 "t": "p",
-                "x": "生成式AI的进步，使制作与人类作品几乎无法区分的音乐成为可能。MUSEBENCH是一个用于AI-generated音乐检测与伪影分析的大规模基准，包含超过361K 首曲目。"
+                "x": "Yamaha在Hatsune Miku V6发布后不到六个月，正式公布了VOCALOID7。全新的“VOCALOID7 Editor”时隔四年接替VOCALOID6，将推出新一代专用声库，同时继续支持可追溯至VOCALOID3的既有产品。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-                "cap": "图1：MuseBench概览。"
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
               },
               {
                 "t": "p",
-                "x": "数据集包括人类作品、由Suno、Udio等十款最先进开源及商业模型生成的风格匹配音乐、human-AI共创作品，以及经过对抗扰动、压缩和声学后处理的变体。"
+                "x": "“Hatsune Miku V6”于2026年4月14日发布，搭载全新的AI-powered歌声。Crypton Future Media正与Yamaha合作开发Miku V6日语和英语声库的VOCALOID7-compatible版本，计划在2027年尽早免费提供给现有V6用户。"
               },
               {
                 "t": "p",
-                "x": "作者对11款自动检测器进行基准测试，在默认、域外和变换变体设置下评估其准确性、泛化能力与稳健性。"
+                "x": "VOCALOID7新功能的完整细节尚未公布。编辑器将附带一款名为“asa”的新声库。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-                "cap": "AI生成音乐的和弦进行。"
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
               },
               {
                 "t": "p",
-                "x": "通过声学特征检视进行的伪影分析，找出了反复出现的特征：不合惯用法的和声进行、上采样导致的频谱周期性，以及违背真实演奏物理限制的现象。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-                "cap": "AI生成的吉他音符。"
+                "x": "Internet Co.将于同日推出“VOCALOID7 Voicebank AI Megpoid”，该声库以Megumi Nakajima为基础，针对VOCALOID7的AI引擎优化，提供八种可选音色。LUCI也将在发售时通过VOCALOID FAN-ding推出。"
               },
               {
                 "t": "p",
-                "x": "研究结果揭示了现有检测器的主要优势与弱点，并为构建更可靠的AI音乐检测系统提供了实用启示。"
+                "x": "“VOCALOID7 Editor”将于2026年11月11日发售，税前售价$129，升级版常规售价为$69。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una prueba de 361K pistas para\ndetectar música AI-made",
-          "body": "MUSEBENCH evalúa 11 detectores de AI-music con 361K pistas y señala los artefactos que delatan la música generada.",
-          "mini_headline": "Detectores de música IA a prueba",
+          "headline": "Yamaha presenta VOCALOID7,\nsale el 11 de noviembre por $129",
+          "body": "El VOCALOID7 Editor de Yamaha sale el 11 de noviembre por $129, con AI Megpoid optimizada para su motor de AI.",
+          "mini_headline": "VOCALOID7 de Yamaha",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+              },
+              {
                 "t": "p",
-                "x": "Los avances de la IA generativa permiten producir música casi indistinguible de las composiciones humanas. MUSEBENCH es un banco de pruebas a gran escala para la detección de música AI-generated y el análisis de artefactos, con más de 361K pistas."
+                "x": "Yamaha anunció oficialmente VOCALOID7 poco menos de seis meses después del lanzamiento de Hatsune Miku V6. El nuevo “VOCALOID7 Editor” sucede a VOCALOID6 tras cuatro años e introducirá una nueva generación de bancos de voz dedicados, sin dejar de admitir los lanzamientos existentes que se remontan a VOCALOID3."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
-                "cap": "Figura 1: Panorama de MuseBench."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
               },
               {
                 "t": "p",
-                "x": "El conjunto de datos incluye composiciones humanas, música de estilo equivalente generada por diez modelos de código abierto y comerciales de última generación, como Suno y Udio, cocreaciones human-AI y variantes procesadas con perturbaciones adversarias, compresión y posprocesamiento acústico."
+                "x": "“Hatsune Miku V6” salió el 14 de abril de 2026 con nuevas voces impulsadas por AI (AI-powered). Crypton Future Media trabaja con Yamaha en versiones compatibles con VOCALOID7 (VOCALOID7-compatible) de los bancos de voz japonés e inglés de Miku V6, que se ofrecerán gratis a los usuarios actuales de V6 lo antes posible en 2027."
               },
               {
                 "t": "p",
-                "x": "Los autores comparan 11 detectores automáticos y evalúan su precisión, generalización y robustez en escenarios predeterminados, fuera de dominio y con variantes transformadas."
+                "x": "Aún no se han revelado todos los detalles de las nuevas funciones de VOCALOID7. El editor incluirá un nuevo banco de voz llamado “asa”."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
-                "cap": "Progresión de acordes de música generada por IA."
+                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
               },
               {
                 "t": "p",
-                "x": "Un análisis de artefactos mediante la inspección de rasgos acústicos identifica firmas recurrentes: progresiones armónicas no idiomáticas, periodicidades espectrales inducidas por el sobremuestreo y violaciones de las restricciones físicas de la interpretación."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
-                "cap": "Notas de guitarra generadas por IA."
+                "x": "Internet Co. lanzará el mismo día “VOCALOID7 Voicebank AI Megpoid”, basado en Megumi Nakajima y optimizado para el motor de AI de VOCALOID7, con ocho tipos de voz seleccionables. LUCI también estará disponible desde el lanzamiento a través de VOCALOID FAN-ding."
               },
               {
                 "t": "p",
-                "x": "Los hallazgos revelan las principales fortalezas y vulnerabilidades de los detectores actuales y ofrecen ideas prácticas para construir sistemas de detección de música por IA más fiables."
+                "x": "El “VOCALOID7 Editor” saldrá a la venta el 11 de noviembre de 2026 por $129 antes de impuestos, mientras que la edición de actualización tiene un precio normal de $69."
               }
             ]
           }
@@ -465,201 +435,195 @@
       }
     },
     {
-      "id": "music-point-and-play",
+      "id": "music-distrokid-suno",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "완성된 믹스에서 바로\n악기 음색을 복제",
-      "body": "Point-and-Play는 스템 분리 없이 믹스 속 악기 음색으로 연주한다.",
-      "mini_headline": "믹스에서 음색 복제",
+      "headline": "UMG·Sony, 법정서\nDistroKid 압박",
+      "body": "UMG·Sony가 DistroKid의 월간 AI 곡 수 공개를 법원에 요청했다.",
+      "mini_headline": "레이블, DistroKid 겨냥",
       "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.19445",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/pro/umg-sony-demand-distrokid-admit-suno-song-uploads/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "뉴럴 악기 신시사이저는 독주 악기의 음색을 복제한다. 문제는 원하는 악기가 대개 여러 악기가 섞인 완성된 녹음 속에 묻혀 있다는 점이다. 음원을 먼저 분리하면 분리 아티팩트가 생길 수 있고, 결국 에둘러 가는 길이 되기 쉽다."
-          },
-          {
             "t": "img",
-            "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-            "cap": "그림 1: 폴리포닉 믹스와 오디오 또는 텍스트 단서가 주어지면 시스템은 단서로 지정한 음원의 음색을 추출해 새로운 음높이와 벨로시티로 렌더링한다."
+            "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+            "cap": "2024년 6월 04일 뉴욕시에서 휴대전화에 음악 앱이 떠 있는 모습을 담은 사진 일러스트. Michael M. Santiago/Getty Images"
           },
           {
             "t": "p",
-            "x": "Point-and-Play는 폴리포닉 믹스에서 단서로 지정한 음원의 음색을 바로 복제한다. 핵심은 Cue-Gated Statistics Pooling(CGSP) 모듈로, 믹스에 맞게 조정한 CLAP 임베딩에서 지정한 악기의 음색 코드를 뽑아낸다."
-          },
-          {
-            "t": "img",
-            "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-            "cap": "그림 2: Point-and-Play 구조."
+            "x": "Universal Music Group과 Sony Music이 DistroKid가 매달 스트리밍 서비스에 올리는 AI 곡의 수를 밝히게 해 달라며 새 소송을 냈다. Suno와 벌이는 분쟁에서 그 수치가 결정적 증거라는 주장이다."
           },
           {
             "t": "p",
-            "x": "뽑아낸 음색 코드는 음높이·벨로시티 입력과 함께 따로 학습한 음표 신시사이저에 조건으로 들어간다. 실험에서는 음색 충실도와 합성 품질 모두 먼저 분리한 뒤 복제하는 기준 모델보다 나았다. 깨끗한 독주 악기를 놓고 복제할 때와 견줄 만한 성능이다."
+            "x": "수요일(10월 14일) 맨해튼 연방법원에 낸 이번 신청은 지난달 보낸 소환장에 DistroKid가 응하게 하려는 것이다. 레이블들은 DistroKid를 “스트리밍 시장을 AI-generated 녹음물로 뒤덮는 주요 통로 가운데 하나”라고 부르면서 이 회사가 “문서 한 건도 내놓기를 거부하고 있다”고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "레이블들은 Suno가 “결과물이 Suno 플랫폼을 떠난 뒤 어디로 유통되는지 추적하지 않는다”고 하면서도 DistroKid는 “스트리밍 서비스의 상류에 있다”고 말한다. 변호인단은 “DistroKid는 AI-detection 도구로 그 흐름을 측정한다고 인정했다”며 “그 흐름이 원고 측 녹음물 시장에 해를 끼치는지가 Suno의 공정 이용 항변의 핵심 쟁점”이라고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "DistroKid 대변인은 “DistroKid는 Universal Music Group, Sony Music과 Suno 사이에 진행 중인 소송의 제삼자다. 우리는 투명성을 지키며, 이 사안이 진행되는 동안 법적 절차에 계속 협조하겠다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Cloning an instrument's\ntimbre from a full mix",
-          "body": "Point-and-Play lifts a cued instrument's timbre from a full mix, skipping stem separation, and plays new notes.",
-          "mini_headline": "Timbre cloning from a mix",
+          "headline": "UMG and Sony press DistroKid\non its Suno song uploads",
+          "body": "UMG and Sony asked a court to force DistroKid to disclose how many AI songs it uploads to streaming services monthly.",
+          "mini_headline": "Labels target DistroKid",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Neural instrument synthesizers can clone the timbre of a solo instrument, but an instrument of interest is often embedded in a fully produced, multi-instrument recording. Separating the source first may introduce separation artifacts and is likely a detour."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-                "cap": "Figure 1: Given a polyphonic mixture and an audio or text cue, the system extracts the cued source's timbre and renders new pitches and velocities."
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+                "cap": "In this photo illustration, music apps are seen on a phone on June 04, 2024 in New York City. Michael M. Santiago/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Point-and-Play clones the timbre of a cued source directly from a polyphonic mixture. A Cue-Gated Statistics Pooling (CGSP) module extracts the cued instrument's timbre code from adapted CLAP embeddings of the mix."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-                "cap": "Figure 2: Point-and-Play architecture."
+                "x": "Universal Music Group and Sony Music have filed a new legal case seeking to force DistroKid to disclose how many AI songs it uploads to streaming services each month, arguing it’s crucial evidence in their ongoing battle against Suno."
               },
               {
                 "t": "p",
-                "x": "That timbre code conditions a separately trained note synthesizer together with pitch and velocity inputs. In experiments, the system outperforms separate-then-clone baselines in timbre fidelity and synthesis quality, performing comparably to cloning from a clean solo instrument."
+                "x": "The filing, lodged Wednesday (Oct. 14) in Manhattan federal court, aims to compel DistroKid to comply with a subpoena sent last month. The labels call DistroKid “one of the primary conduits by which the streaming market is being flooded with AI-generated recordings” and say it “refuses to produce a single document.”"
+              },
+              {
+                "t": "p",
+                "x": "Suno “does not track where its outputs are distributed once they leave Suno’s platform,” they say, but DistroKid “sits upstream of the streaming services.” “DistroKid has admitted that it measures that flow with an AI-detection tool,” the attorneys write. “Whether that flow is harming the market for plaintiffs’ recordings is a question at the center of Suno’s fair use defense.”"
+              },
+              {
+                "t": "p",
+                "x": "A DistroKid spokesperson said: “DistroKid is a third party in the ongoing litigation between Universal Music Group, Sony Music and Suno. We are committed to transparency and will continue to cooperate with the legal process as this matter proceeds.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "완성된 믹스에서 바로\n악기 음색을 복제",
-          "body": "Point-and-Play는 스템 분리 없이 믹스 속 악기 음색으로 연주한다.",
-          "mini_headline": "믹스에서 음색 복제",
+          "headline": "UMG·Sony, 법정서\nDistroKid 압박",
+          "body": "UMG·Sony가 DistroKid의 월간 AI 곡 수 공개를 법원에 요청했다.",
+          "mini_headline": "레이블, DistroKid 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "뉴럴 악기 신시사이저는 독주 악기의 음색을 복제한다. 문제는 원하는 악기가 대개 여러 악기가 섞인 완성된 녹음 속에 묻혀 있다는 점이다. 음원을 먼저 분리하면 분리 아티팩트가 생길 수 있고, 결국 에둘러 가는 길이 되기 쉽다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-                "cap": "그림 1: 폴리포닉 믹스와 오디오 또는 텍스트 단서가 주어지면 시스템은 단서로 지정한 음원의 음색을 추출해 새로운 음높이와 벨로시티로 렌더링한다."
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+                "cap": "2024년 6월 04일 뉴욕시에서 휴대전화에 음악 앱이 떠 있는 모습을 담은 사진 일러스트. Michael M. Santiago/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Point-and-Play는 폴리포닉 믹스에서 단서로 지정한 음원의 음색을 바로 복제한다. 핵심은 Cue-Gated Statistics Pooling(CGSP) 모듈로, 믹스에 맞게 조정한 CLAP 임베딩에서 지정한 악기의 음색 코드를 뽑아낸다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-                "cap": "그림 2: Point-and-Play 구조."
+                "x": "Universal Music Group과 Sony Music이 DistroKid가 매달 스트리밍 서비스에 올리는 AI 곡의 수를 밝히게 해 달라며 새 소송을 냈다. Suno와 벌이는 분쟁에서 그 수치가 결정적 증거라는 주장이다."
               },
               {
                 "t": "p",
-                "x": "뽑아낸 음색 코드는 음높이·벨로시티 입력과 함께 따로 학습한 음표 신시사이저에 조건으로 들어간다. 실험에서는 음색 충실도와 합성 품질 모두 먼저 분리한 뒤 복제하는 기준 모델보다 나았다. 깨끗한 독주 악기를 놓고 복제할 때와 견줄 만한 성능이다."
+                "x": "수요일(10월 14일) 맨해튼 연방법원에 낸 이번 신청은 지난달 보낸 소환장에 DistroKid가 응하게 하려는 것이다. 레이블들은 DistroKid를 “스트리밍 시장을 AI-generated 녹음물로 뒤덮는 주요 통로 가운데 하나”라고 부르면서 이 회사가 “문서 한 건도 내놓기를 거부하고 있다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "레이블들은 Suno가 “결과물이 Suno 플랫폼을 떠난 뒤 어디로 유통되는지 추적하지 않는다”고 하면서도 DistroKid는 “스트리밍 서비스의 상류에 있다”고 말한다. 변호인단은 “DistroKid는 AI-detection 도구로 그 흐름을 측정한다고 인정했다”며 “그 흐름이 원고 측 녹음물 시장에 해를 끼치는지가 Suno의 공정 이용 항변의 핵심 쟁점”이라고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "DistroKid 대변인은 “DistroKid는 Universal Music Group, Sony Music과 Suno 사이에 진행 중인 소송의 제삼자다. 우리는 투명성을 지키며, 이 사안이 진행되는 동안 법적 절차에 계속 협조하겠다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "完成したミックスから\n楽器の音色を複製",
-          "body": "Point-and-Playはステム分離なしにミックス内の楽器の音色で新たな音を奏でる。",
-          "mini_headline": "ミックスから音色を複製",
+          "headline": "UMGとSonyが\nDistroKidに開示要求",
+          "body": "UMGとSonyは、DistroKidが毎月配信するAI楽曲数の開示を裁判所に求めた。",
+          "mini_headline": "レーベルがDistroKidを標的に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ニューラル楽器シンセサイザーは独奏楽器の音色を複製できるが、目的の楽器は多くの場合、複数の楽器で作り込まれた録音の中に埋もれている。先に音源を分離すると分離アーティファクトが生じるおそれがあり、遠回りになりやすい。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-                "cap": "図1:ポリフォニックなミックスと音声またはテキストの手がかりを与えると、システムは手がかりで示した音源の音色を抽出し、新たな音高とベロシティで鳴らす。"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+                "cap": "2024年6月04日、ニューヨーク市でスマートフォンに表示された音楽アプリのフォトイラスト。Michael M. Santiago/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Point-and-Playは、手がかりで示した音源の音色をポリフォニックなミックスから直接複製する。Cue-Gated Statistics Pooling(CGSP)モジュールが、ミックスを適応させたCLAP埋め込みから対象楽器の音色コードを抽出する。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-                "cap": "図2:Point-and-Playのアーキテクチャ。"
+                "x": "Universal Music GroupとSony Musicは、DistroKidが毎月ストリーミングサービスにアップロードするAI楽曲の数を開示させるよう求める新たな訴えを起こした。Sunoとの係争において決定的な証拠になると主張している。"
               },
               {
                 "t": "p",
-                "x": "この音色コードは、音高とベロシティの入力とともに、別途学習したノートシンセサイザーの条件付けに使われる。実験では、分離してから複製するベースラインを音色の忠実度と合成品質で上回り、クリーンな独奏楽器から複製した場合に匹敵する性能を示した。"
+                "x": "水曜日(10月14日)にマンハッタンの連邦裁判所に提出された申し立ては、先月送付した召喚状にDistroKidを従わせることを狙う。レーベル側はDistroKidを「ストリーミング市場をAI-generatedの録音物であふれさせている主要な経路の一つ」と呼び、同社が「文書を一通も提出しようとしない」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "レーベル側によれば、Sunoは「生成物がSunoのプラットフォームを離れた後、どこに配信されるかを追跡していない」が、DistroKidは「ストリーミングサービスの上流に位置する」。弁護士らは「DistroKidはAI-detectionツールでその流れを測定していると認めている」とし、「その流れが原告の録音物の市場を損なっているかどうかは、Sunoのフェアユース抗弁の核心にある問題だ」と記した。"
+              },
+              {
+                "t": "p",
+                "x": "DistroKidの広報担当者は「DistroKidは、Universal Music Group、Sony Music、Suno間で係争中の訴訟における第三者だ。当社は透明性に取り組んでおり、本件の進行に伴い法的手続きに引き続き協力する」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从完整混音中\n克隆乐器音色",
-          "body": "Point-and-Play无需分轨，直接从完整混音中提取指定乐器音色并演奏新音符。",
-          "mini_headline": "从混音中克隆音色",
+          "headline": "UMG与Sony就Suno\n向DistroKid施压",
+          "body": "UMG与Sony请求法院迫使DistroKid披露其每月上传至流媒体的AI歌曲数量。",
+          "mini_headline": "唱片公司瞄准DistroKid",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "神经乐器合成器可以克隆独奏乐器的音色，但目标乐器往往嵌在制作完整的多乐器录音中。先分离音源可能引入分离伪影，很可能是在绕远路。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-                "cap": "图1：给定复音混合音频以及音频或文本提示，系统提取所提示音源的音色，并以新的音高和力度进行渲染。"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+                "cap": "图为2024年6月04日在纽约市拍摄的手机上音乐应用的照片插图。Michael M. Santiago/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Point-and-Play直接从复音混合音频中克隆所提示音源的音色。Cue-Gated Statistics Pooling（CGSP）模块从混音经适配的CLAP嵌入中提取目标乐器的音色编码。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-                "cap": "图2：Point-and-Play架构。"
+                "x": "Universal Music Group与Sony Music提起新的法律诉讼，要求迫使DistroKid披露其每月上传至流媒体服务的AI歌曲数量，称这是它们与Suno持续交锋中的关键证据。"
               },
               {
                 "t": "p",
-                "x": "该音色编码与音高、力度输入一起，作为单独训练的音符合成器的条件。实验中，该系统在音色保真度和合成质量上均优于先分离后克隆的基线，表现与从干净独奏乐器克隆相当。"
+                "x": "该申请于周三（10月14日）提交至曼哈顿联邦法院，旨在迫使DistroKid遵守上月发出的传票。唱片公司称DistroKid是“导致流媒体市场被AI-generated录音淹没的主要渠道之一”，并称其“拒绝提供任何一份文件”。"
+              },
+              {
+                "t": "p",
+                "x": "他们表示，Suno“不追踪其生成内容离开Suno平台后被分发到何处”，但DistroKid“位于流媒体服务的上游”。律师写道：“DistroKid已承认使用AI-detection工具衡量这一流量。”“这一流量是否正在损害原告录音的市场，是Suno合理使用抗辩的核心问题。”"
+              },
+              {
+                "t": "p",
+                "x": "DistroKid发言人表示：“DistroKid是Universal Music Group、Sony Music与Suno之间正在进行的诉讼中的第三方。我们致力于透明，并将在此事推进过程中继续配合法律程序。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clonar el timbre de un\ninstrumento desde la mezcla",
-          "body": "Point-and-Play toma de una mezcla completa el timbre del instrumento indicado y toca notas nuevas sin separar pistas.",
-          "mini_headline": "Clonar timbres desde una mezcla",
+          "headline": "UMG y Sony presionan a DistroKid\npor las canciones de Suno",
+          "body": "UMG y Sony pidieron a un tribunal que obligara a DistroKid a revelar cuántas canciones de AI sube cada mes.",
+          "mini_headline": "Los sellos apuntan a DistroKid",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los sintetizadores neuronales de instrumentos pueden clonar el timbre de un instrumento solista, pero el instrumento de interés suele estar inmerso en una grabación multiinstrumental con producción completa. Separar primero la fuente puede introducir artefactos de separación y probablemente sea un rodeo."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-                "cap": "Figura 1: A partir de una mezcla polifónica y una indicación de audio o texto, el sistema extrae el timbre de la fuente indicada y genera nuevas alturas y velocidades."
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+                "cap": "En esta ilustración fotográfica, aplicaciones de música en un teléfono el 04 de junio de 2024 en Nueva York. Michael M. Santiago/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Point-and-Play clona el timbre de una fuente indicada directamente desde una mezcla polifónica. Un módulo Cue-Gated Statistics Pooling (CGSP) extrae el código de timbre del instrumento indicado a partir de embeddings CLAP adaptados de la mezcla."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-                "cap": "Figura 2: Arquitectura de Point-and-Play."
+                "x": "Universal Music Group y Sony Music presentaron una nueva acción legal para obligar a DistroKid a revelar cuántas canciones de AI sube cada mes a los servicios de streaming, con el argumento de que es una prueba crucial en su batalla en curso contra Suno."
               },
               {
                 "t": "p",
-                "x": "Ese código de timbre condiciona un sintetizador de notas entrenado por separado, junto con entradas de altura y velocidad. En los experimentos, el sistema supera a las referencias que separan y luego clonan en fidelidad tímbrica y calidad de síntesis, con un rendimiento comparable al de clonar desde un instrumento solista limpio."
+                "x": "La petición, presentada el miércoles (14 de octubre) ante un tribunal federal de Manhattan, busca obligar a DistroKid a cumplir una citación enviada el mes pasado. Los sellos describen a DistroKid como “uno de los principales conductos por los que el mercado del streaming se está inundando de grabaciones generadas por AI (AI-generated)” y afirman que “se niega a entregar un solo documento”."
+              },
+              {
+                "t": "p",
+                "x": "Suno “no rastrea dónde se distribuyen sus resultados una vez que salen de la plataforma de Suno”, dicen, pero DistroKid “está aguas arriba de los servicios de streaming”. “DistroKid ha admitido que mide ese flujo con una herramienta de detección de AI (AI-detection)”, escriben los abogados. “Si ese flujo está dañando el mercado de las grabaciones de los demandantes es una cuestión central de la defensa de uso legítimo de Suno”."
+              },
+              {
+                "t": "p",
+                "x": "Un portavoz de DistroKid declaró: “DistroKid es un tercero en el litigio en curso entre Universal Music Group, Sony Music y Suno. Estamos comprometidos con la transparencia y seguiremos colaborando con el proceso legal a medida que avance este asunto”."
               }
             ]
           }
@@ -667,129 +631,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "완성된 믹스에서 바로\n악기 음색을 복제",
-          "body": "Point-and-Play는 스템 분리 없이 믹스 속 악기 음색으로 연주한다.",
-          "mini_headline": "믹스에서 음색 복제",
+          "headline": "UMG·Sony, 법정서\nDistroKid 압박",
+          "body": "UMG·Sony가 DistroKid의 월간 AI 곡 수 공개를 법원에 요청했다.",
+          "mini_headline": "레이블, DistroKid 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "뉴럴 악기 신시사이저는 독주 악기의 음색을 복제할 수 있지만, 원하는 악기는 대개 여러 악기가 함께 담긴 완성된 녹음 속에 묻혀 있다. 음원을 먼저 분리하면 분리 아티팩트가 생길 수 있고, 이는 돌아가는 길일 가능성이 크다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-                "cap": "그림 1: 폴리포닉 믹스와 오디오 또는 텍스트 단서가 주어지면 시스템은 단서로 지정한 음원의 음색을 추출해 새로운 음높이와 벨로시티로 렌더링한다."
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+                "cap": "2024년 6월 04일 뉴욕시에서 휴대전화에 음악 앱이 떠 있는 모습을 담은 사진 일러스트. Michael M. Santiago/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Point-and-Play는 폴리포닉 믹스에서 단서로 지정한 음원의 음색을 바로 복제한다. Cue-Gated Statistics Pooling(CGSP) 모듈이 믹스를 적응시킨 CLAP 임베딩에서 지정 악기의 음색 코드를 추출한다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-                "cap": "그림 2: Point-and-Play 구조."
+                "x": "Universal Music Group과 Sony Music이 DistroKid가 매달 스트리밍 서비스에 올리는 AI 곡의 수를 공개하도록 강제해 달라는 새 소송을 냈다. 이들은 이것이 Suno와 이어 가는 분쟁에서 결정적인 증거라고 주장한다."
               },
               {
                 "t": "p",
-                "x": "이 음색 코드는 음높이·벨로시티 입력과 함께, 따로 학습한 음표 신시사이저의 조건으로 쓰인다. 실험에서 이 시스템은 음색 충실도와 합성 품질에서 먼저 분리한 뒤 복제하는 기준 모델을 앞섰고, 깨끗한 독주 악기에서 복제할 때와 비슷한 성능을 냈다."
+                "x": "수요일(10월 14일) 맨해튼 연방법원에 낸 이번 신청은 지난달 보낸 소환장에 DistroKid가 응하도록 강제하는 것이 목적이다. 레이블들은 DistroKid를 “스트리밍 시장을 AI-generated 녹음물로 뒤덮는 주요 통로 가운데 하나”라고 부르며, 이 회사가 “문서 한 건도 내놓기를 거부하고 있다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "이들은 Suno가 “결과물이 Suno 플랫폼을 떠난 뒤 어디로 유통되는지 추적하지 않는다”면서도, DistroKid는 “스트리밍 서비스의 상류에 있다”고 말한다. 변호인단은 “DistroKid는 AI-detection 도구로 그 흐름을 측정한다고 인정했다”며 “그 흐름이 원고 측 녹음물 시장에 해를 끼치는지가 Suno의 공정 이용 항변의 핵심 쟁점”이라고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "DistroKid 대변인은 “DistroKid는 Universal Music Group, Sony Music과 Suno 사이에 진행 중인 소송의 제삼자다. 우리는 투명성을 지키며, 이 사안이 진행되는 동안 법적 절차에 계속 협조하겠다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "完成したミックスから\n楽器の音色を複製",
-          "body": "Point-and-Playはステム分離なしにミックス内の楽器の音色で新たな音を奏でる。",
-          "mini_headline": "ミックスから音色を複製",
+          "headline": "UMGとSonyが\nDistroKidに開示要求",
+          "body": "UMGとSonyは、DistroKidが毎月配信するAI楽曲数の開示を裁判所に求めた。",
+          "mini_headline": "レーベルがDistroKidを標的に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ニューラル楽器シンセサイザーは独奏楽器の音色を複製できるが、目的の楽器は多くの場合、複数の楽器で作り込まれた録音の中に埋もれている。先に音源を分離すると分離アーティファクトが生じるおそれがあり、遠回りになりやすい。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-                "cap": "図1:ポリフォニックなミックスと音声またはテキストの手がかりを与えると、システムは手がかりで示した音源の音色を抽出し、新たな音高とベロシティで鳴らす。"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+                "cap": "2024年6月04日、ニューヨーク市でスマートフォンに表示された音楽アプリのフォトイラスト。Michael M. Santiago/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Point-and-Playは、手がかりで示した音源の音色をポリフォニックなミックスから直接複製する。Cue-Gated Statistics Pooling(CGSP)モジュールが、ミックスを適応させたCLAP埋め込みから対象楽器の音色コードを抽出する。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-                "cap": "図2:Point-and-Playのアーキテクチャ。"
+                "x": "Universal Music GroupとSony Musicは、DistroKidが毎月ストリーミングサービスにアップロードするAI楽曲の数を開示させるよう求める新たな訴えを起こした。Sunoとの係争において決定的な証拠になると主張している。"
               },
               {
                 "t": "p",
-                "x": "この音色コードは、音高とベロシティの入力とともに、別途学習したノートシンセサイザーの条件付けに使われる。実験では、分離してから複製するベースラインを音色の忠実度と合成品質で上回り、クリーンな独奏楽器から複製した場合に匹敵する性能を示した。"
+                "x": "水曜日(10月14日)にマンハッタンの連邦裁判所に提出された申し立ては、先月送付した召喚状にDistroKidを従わせることを狙う。レーベル側はDistroKidを「ストリーミング市場をAI-generatedの録音物であふれさせている主要な経路の一つ」と呼び、同社が「文書を一通も提出しようとしない」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "レーベル側によれば、Sunoは「生成物がSunoのプラットフォームを離れた後、どこに配信されるかを追跡していない」が、DistroKidは「ストリーミングサービスの上流に位置する」。弁護士らは「DistroKidはAI-detectionツールでその流れを測定していると認めている」とし、「その流れが原告の録音物の市場を損なっているかどうかは、Sunoのフェアユース抗弁の核心にある問題だ」と記した。"
+              },
+              {
+                "t": "p",
+                "x": "DistroKidの広報担当者は「DistroKidは、Universal Music Group、Sony Music、Suno間で係争中の訴訟における第三者だ。当社は透明性に取り組んでおり、本件の進行に伴い法的手続きに引き続き協力する」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从完整混音中\n克隆乐器音色",
-          "body": "Point-and-Play无需分轨，直接从完整混音中提取指定乐器音色并演奏新音符。",
-          "mini_headline": "从混音中克隆音色",
+          "headline": "UMG与Sony就Suno\n向DistroKid施压",
+          "body": "UMG与Sony请求法院迫使DistroKid披露其每月上传至流媒体的AI歌曲数量。",
+          "mini_headline": "唱片公司瞄准DistroKid",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "神经乐器合成器可以克隆独奏乐器的音色，但目标乐器往往嵌在制作完整的多乐器录音中。先分离音源可能引入分离伪影，很可能是在绕远路。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-                "cap": "图1：给定复音混合音频以及音频或文本提示，系统提取所提示音源的音色，并以新的音高和力度进行渲染。"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+                "cap": "图为2024年6月04日在纽约市拍摄的手机上音乐应用的照片插图。Michael M. Santiago/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Point-and-Play直接从复音混合音频中克隆所提示音源的音色。Cue-Gated Statistics Pooling（CGSP）模块从混音经适配的CLAP嵌入中提取目标乐器的音色编码。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-                "cap": "图2：Point-and-Play架构。"
+                "x": "Universal Music Group与Sony Music提起新的法律诉讼，要求迫使DistroKid披露其每月上传至流媒体服务的AI歌曲数量，称这是它们与Suno持续交锋中的关键证据。"
               },
               {
                 "t": "p",
-                "x": "该音色编码与音高、力度输入一起，作为单独训练的音符合成器的条件。实验中，该系统在音色保真度和合成质量上均优于先分离后克隆的基线，表现与从干净独奏乐器克隆相当。"
+                "x": "该申请于周三（10月14日）提交至曼哈顿联邦法院，旨在迫使DistroKid遵守上月发出的传票。唱片公司称DistroKid是“导致流媒体市场被AI-generated录音淹没的主要渠道之一”，并称其“拒绝提供任何一份文件”。"
+              },
+              {
+                "t": "p",
+                "x": "他们表示，Suno“不追踪其生成内容离开Suno平台后被分发到何处”，但DistroKid“位于流媒体服务的上游”。律师写道：“DistroKid已承认使用AI-detection工具衡量这一流量。”“这一流量是否正在损害原告录音的市场，是Suno合理使用抗辩的核心问题。”"
+              },
+              {
+                "t": "p",
+                "x": "DistroKid发言人表示：“DistroKid是Universal Music Group、Sony Music与Suno之间正在进行的诉讼中的第三方。我们致力于透明，并将在此事推进过程中继续配合法律程序。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clonar el timbre de un\ninstrumento desde la mezcla",
-          "body": "Point-and-Play toma de una mezcla completa el timbre del instrumento indicado y toca notas nuevas sin separar pistas.",
-          "mini_headline": "Clonar timbres desde una mezcla",
+          "headline": "UMG y Sony presionan a DistroKid\npor las canciones de Suno",
+          "body": "UMG y Sony pidieron a un tribunal que obligara a DistroKid a revelar cuántas canciones de AI sube cada mes.",
+          "mini_headline": "Los sellos apuntan a DistroKid",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los sintetizadores neuronales de instrumentos pueden clonar el timbre de un instrumento solista, pero el instrumento de interés suele estar inmerso en una grabación multiinstrumental con producción completa. Separar primero la fuente puede introducir artefactos de separación y probablemente sea un rodeo."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig1-pap.png",
-                "cap": "Figura 1: A partir de una mezcla polifónica y una indicación de audio o texto, el sistema extrae el timbre de la fuente indicada y genera nuevas alturas y velocidades."
+                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+                "cap": "En esta ilustración fotográfica, aplicaciones de música en un teléfono el 04 de junio de 2024 en Nueva York. Michael M. Santiago/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Point-and-Play clona el timbre de una fuente indicada directamente desde una mezcla polifónica. Un módulo Cue-Gated Statistics Pooling (CGSP) extrae el código de timbre del instrumento indicado a partir de embeddings CLAP adaptados de la mezcla."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.19445v1/fig2-pap.png",
-                "cap": "Figura 2: Arquitectura de Point-and-Play."
+                "x": "Universal Music Group y Sony Music presentaron una nueva acción legal para obligar a DistroKid a revelar cuántas canciones de AI sube cada mes a los servicios de streaming, con el argumento de que es una prueba crucial en su batalla en curso contra Suno."
               },
               {
                 "t": "p",
-                "x": "Ese código de timbre condiciona un sintetizador de notas entrenado por separado, junto con entradas de altura y velocidad. En los experimentos, el sistema supera a las referencias que separan y luego clonan en fidelidad tímbrica y calidad de síntesis, con un rendimiento comparable al de clonar desde un instrumento solista limpio."
+                "x": "La petición, presentada el miércoles (14 de octubre) ante un tribunal federal de Manhattan, busca obligar a DistroKid a cumplir una citación enviada el mes pasado. Los sellos describen a DistroKid como “uno de los principales conductos por los que el mercado del streaming se está inundando de grabaciones generadas por AI (AI-generated)” y afirman que “se niega a entregar un solo documento”."
+              },
+              {
+                "t": "p",
+                "x": "Suno “no rastrea dónde se distribuyen sus resultados una vez que salen de la plataforma de Suno”, dicen, pero DistroKid “está aguas arriba de los servicios de streaming”. “DistroKid ha admitido que mide ese flujo con una herramienta de detección de AI (AI-detection)”, escriben los abogados. “Si ese flujo está dañando el mercado de las grabaciones de los demandantes es una cuestión central de la defensa de uso legítimo de Suno”."
+              },
+              {
+                "t": "p",
+                "x": "Un portavoz de DistroKid declaró: “DistroKid es un tercero en el litigio en curso entre Universal Music Group, Sony Music y Suno. Estamos comprometidos con la transparencia y seguiremos colaborando con el proceso legal a medida que avance este asunto”."
               }
             ]
           }
@@ -797,219 +757,213 @@
       }
     },
     {
-      "id": "music-blackburn-kendrick",
+      "id": "music-duke-spotify",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "블랙번의 AI 켄드릭\n영상에 쏟아진 비판",
-      "body": "마샤 블랙번 상원의원이 켄드릭 라마의 슈퍼볼 무대를 AI로 재현해 비판받았다.",
-      "mini_headline": "블랙번의 AI 켄드릭 영상",
+      "headline": "Duke 연구진이 찾은\nSpotify의 AI 음악",
+      "body": "Duke 연구가 Spotify에서 AI임을 알리지 않은 아티스트 아홉을 찾았다.",
+      "mini_headline": "Spotify 속 AI 찾기",
       "tool": "Music",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/music/rb-hip-hop/marsha-blackburn-kendrick-lamar-not-like-us-ai-video-slammed-1236360552/",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-            "cap": "마샤 블랙번 상원의원"
+            "t": "p",
+            "x": "“Spotify는 AI 음악에 라벨을 붙이지 않는다. 그래서 우리가 직접 찾아보기로 했다.” Duke Sanford Tech Policy Program의 새 보고서를 알리는 블로그 글의 제목이다."
           },
           {
             "t": "p",
-            "x": "테네시 주지사 선거에 나선 U.S. 상원의원 마샤 블랙번이 소셜미디어로 지지를 모으려다 역풍을 맞았다. Super Bowl LIX에서 자신이 켄드릭 라마가 되어 “Not Like Us”를 부르는 AI-generated 영상을 올렸다가 조롱거리가 됐다."
+            "x": "보고서는 “Spotify와 Apple Music 같은 주요 음악 스트리밍 플랫폼은 AI-generated 음악에 라벨을 붙이겠다고 계속 약속하면서도 여전히 아티스트의 자발적 표기에 기대고 있다”고 주장했다. “이런 라벨링 방식은 효과가 없고, 음악 산업과 창작 경제에 책임의 문화를 키우지 못한다.”"
           },
           {
             "t": "p",
-            "x": "블랙번은 X에 영상을 올리며 “내일. 달릴 준비 끝”이라고 적었다. 배경에는 케인(글렌 제이콥스), 팀 버쳇 하원의원, 빌 해거티 상원의원, 브렌트 테일러 주 상원의원이 나온다. Billboard는 켄드릭 라마 측에 입장을 물었다."
+            "x": "방식은 이랬다. 연구진 다섯 명이 장르를 하나씩 맡아 새 Spotify 계정을 만들고 25일 동안 플레이리스트를 들었다. 누가 봐도 ‘인간’이 아닌 아티스트를 표시해 두고 Deezer의 AI-detection 기술로 확인했다."
           },
           {
             "t": "p",
-            "x": "게시물에는 순식간에 댓글이 몰렸다. 일부는 영상을 “보기 괴로울 만큼 민망하다”, “AI 슬롭”이라고 불렀고, 한 사용자는 “인공지능을 멍청해 보이게 만드는 방법을 찾아냈다”고 썼다."
+            "x": "그렇게 AI-generated로 판별된 아티스트가 아홉 팀이다. 연구진은 모두 Spotify의 개인화 플레이리스트 ‘Release Radar’에서 이들의 음악을 접했고, 프로필에서 AI 사용을 스스로 밝힌 아티스트는 한 팀도 없었다."
           },
           {
             "t": "p",
-            "x": "민주당 경쟁자 제리 그린은 X에 “우리 캠프를 돕겠다고 AI를 쓰지 말아 달라고 할 때, 바로 이런 걸 말하는 것”이라고 썼다."
+            "x": "보고서 날짜는 2026년 6월이지만, 연구진이 실제로 언제 작업했는지는 분명하지 않다. Spotify가 올해 여러 투명성 기능을 내놓았기에 시점이 중요하다. 5월에는 인간 아티스트용 ‘Verified’ 배지를, 9월에는 ‘AI Persona’ 배지를 도입했고, Spotify는 후자를 부여할 때 “자기 신고에만 의존하지 않겠다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "라마는 2025년 2월 뉴올리언스 Super Bowl LIX 하프타임 쇼로 두 번째 프라임타임 에미상을 받았다."
+            "x": "저자들은 Spotify가 해 볼 만한 합리적 조치를 몇 가지 내놓았는데, 그중 일부는 Spotify가 이미 하고 있다. Spotify는 ‘Release Radar’를 포함한 추천에서 AI-slop 트랙을 걸러낼 방법도 마련 중이라고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Blackburn's AI Kendrick\nvideo draws criticism",
-          "body": "Sen. Marsha Blackburn drew criticism for an AI video of herself performing Kendrick Lamar's Super Bowl set.",
-          "mini_headline": "Blackburn's AI Kendrick clip",
+          "headline": "Duke researchers detect\nAI music on Spotify",
+          "body": "A Duke Sanford study flagged nine undisclosed AI artists that its researchers met on Spotify's Release Radar.",
+          "mini_headline": "Detecting AI on Spotify",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-                "cap": "Sen. Marsha Blackburn"
+                "t": "p",
+                "x": "“Spotify won’t label AI music. We tried to detect it ourselves,” is the headline of a blog post announcing a new report from the Duke Sanford Tech Policy Program."
               },
               {
                 "t": "p",
-                "x": "U.S. Sen. Marsha Blackburn's attempt to rally social media in her bid for Tennessee governor backfired when she got roasted for posting an AI-generated clip of herself performing “Not Like Us” as Kendrick Lamar at Super Bowl LIX."
+                "x": "“Dominant music streaming platforms, like Spotify and Apple Music, continue to make promises of labels for AI-generated music, yet still rely on voluntary labels from the artist,” it claimed. “This approach to labeling is ineffective and does not promote a culture of accountability in the music industry or creative economy.”"
               },
               {
                 "t": "p",
-                "x": "“Tomorrow. Ready to roll,” she captioned the clip on X, which features Kane (Glenn Jacobs), Rep. Tim Burchett, Sen. Bill Hagerty and state Sen. Brent Taylor in the background. Billboard has reached out to Kendrick Lamar's reps for comment."
+                "x": "It was based on five researchers each creating new Spotify accounts focused on a different genre, listening to playlists for 25 days and flagging any artist that wasn’t obviously ‘human’ – then using Deezer’s AI-detection tech to check for sure."
               },
               {
                 "t": "p",
-                "x": "Her replies quickly flooded, with some commenters calling the clip “painfully cringe” and “AI slop.” One wrote: “You found a way to make artificial intelligence look stupid.”"
+                "x": "This process led to nine artists being identified as AI-generated. In each case, the researchers had encountered their music through Spotify’s ‘Release Radar’ personalised playlist, and none of the artists had self-disclosed their use of AI in their profiles."
               },
               {
                 "t": "p",
-                "x": "Her Democratic opponent, Jerri Green, wrote on X: “When I say please stop using AI to support our campaign, this is what I mean.”"
+                "x": "The study is dated June 2026, but it’s unclear when the researchers actually did the work. That’s important, because Spotify has launched several transparency features this year: including a ‘Verified’ badge for human artists in May and an ‘AI Persona’ badge in September – with Spotify saying it “won’t rely on self-disclosure alone” to assign the latter."
               },
               {
                 "t": "p",
-                "x": "Lamar won a second Primetime Emmy for his Super Bowl LIX Halftime Show performance in February 2025 in New Orleans."
+                "x": "The study’s authors identified some sensible measures Spotify could take, but it has already been rolling some of those out – and says it is working on ways to keep AI-slop tracks out of recommendations, ‘Release Radar’ included."
               }
             ]
           }
         },
         "ko": {
-          "headline": "블랙번의 AI 켄드릭\n영상에 쏟아진 비판",
-          "body": "마샤 블랙번 상원의원이 켄드릭 라마의 슈퍼볼 무대를 AI로 재현해 비판받았다.",
-          "mini_headline": "블랙번의 AI 켄드릭 영상",
+          "headline": "Duke 연구진이 찾은\nSpotify의 AI 음악",
+          "body": "Duke 연구가 Spotify에서 AI임을 알리지 않은 아티스트 아홉을 찾았다.",
+          "mini_headline": "Spotify 속 AI 찾기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-                "cap": "마샤 블랙번 상원의원"
+                "t": "p",
+                "x": "“Spotify는 AI 음악에 라벨을 붙이지 않는다. 그래서 우리가 직접 찾아보기로 했다.” Duke Sanford Tech Policy Program의 새 보고서를 알리는 블로그 글의 제목이다."
               },
               {
                 "t": "p",
-                "x": "테네시 주지사 선거에 나선 U.S. 상원의원 마샤 블랙번이 소셜미디어로 지지를 모으려다 역풍을 맞았다. Super Bowl LIX에서 자신이 켄드릭 라마가 되어 “Not Like Us”를 부르는 AI-generated 영상을 올렸다가 조롱거리가 됐다."
+                "x": "보고서는 “Spotify와 Apple Music 같은 주요 음악 스트리밍 플랫폼은 AI-generated 음악에 라벨을 붙이겠다고 계속 약속하면서도 여전히 아티스트의 자발적 표기에 기대고 있다”고 주장했다. “이런 라벨링 방식은 효과가 없고, 음악 산업과 창작 경제에 책임의 문화를 키우지 못한다.”"
               },
               {
                 "t": "p",
-                "x": "블랙번은 X에 영상을 올리며 “내일. 달릴 준비 끝”이라고 적었다. 배경에는 케인(글렌 제이콥스), 팀 버쳇 하원의원, 빌 해거티 상원의원, 브렌트 테일러 주 상원의원이 나온다. Billboard는 켄드릭 라마 측에 입장을 물었다."
+                "x": "방식은 이랬다. 연구진 다섯 명이 장르를 하나씩 맡아 새 Spotify 계정을 만들고 25일 동안 플레이리스트를 들었다. 누가 봐도 ‘인간’이 아닌 아티스트를 표시해 두고 Deezer의 AI-detection 기술로 확인했다."
               },
               {
                 "t": "p",
-                "x": "게시물에는 순식간에 댓글이 몰렸다. 일부는 영상을 “보기 괴로울 만큼 민망하다”, “AI 슬롭”이라고 불렀고, 한 사용자는 “인공지능을 멍청해 보이게 만드는 방법을 찾아냈다”고 썼다."
+                "x": "그렇게 AI-generated로 판별된 아티스트가 아홉 팀이다. 연구진은 모두 Spotify의 개인화 플레이리스트 ‘Release Radar’에서 이들의 음악을 접했고, 프로필에서 AI 사용을 스스로 밝힌 아티스트는 한 팀도 없었다."
               },
               {
                 "t": "p",
-                "x": "민주당 경쟁자 제리 그린은 X에 “우리 캠프를 돕겠다고 AI를 쓰지 말아 달라고 할 때, 바로 이런 걸 말하는 것”이라고 썼다."
+                "x": "보고서 날짜는 2026년 6월이지만, 연구진이 실제로 언제 작업했는지는 분명하지 않다. Spotify가 올해 여러 투명성 기능을 내놓았기에 시점이 중요하다. 5월에는 인간 아티스트용 ‘Verified’ 배지를, 9월에는 ‘AI Persona’ 배지를 도입했고, Spotify는 후자를 부여할 때 “자기 신고에만 의존하지 않겠다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "라마는 2025년 2월 뉴올리언스 Super Bowl LIX 하프타임 쇼로 두 번째 프라임타임 에미상을 받았다."
+                "x": "저자들은 Spotify가 해 볼 만한 합리적 조치를 몇 가지 내놓았는데, 그중 일부는 Spotify가 이미 하고 있다. Spotify는 ‘Release Radar’를 포함한 추천에서 AI-slop 트랙을 걸러낼 방법도 마련 중이라고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラックバーン氏の\nAIケンドリック動画に批判",
-          "body": "ブラックバーン上院議員が、スーパーボウルのケンドリックに扮したAI動画で批判を浴びた。",
-          "mini_headline": "ブラックバーンのAIケンドリック動画",
+          "headline": "Duke研究者が\nSpotifyでAI音楽検出",
+          "body": "Duke研究がSpotifyでAIと明かさない九組のアーティストを特定した。",
+          "mini_headline": "Spotify上のAIを検出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-                "cap": "マーシャ・ブラックバーン上院議員"
+                "t": "p",
+                "x": "「SpotifyはAI音楽にラベルを付けない。だから自分たちで検出を試みた」。これはDuke Sanford Tech Policy Programの新しい報告書を告知するブログ記事の見出しである。"
               },
               {
                 "t": "p",
-                "x": "テネシー州知事選に出馬しているU.S.上院議員マーシャ・ブラックバーンが、ソーシャルメディアで支持を集めようとした試みは裏目に出た。Super Bowl LIXでケンドリック・ラマーとして「Not Like Us」を披露する自身のAI-generated動画を投稿し、嘲笑を浴びたのだ。"
+                "x": "報告書は「SpotifyやApple Musicなどの主要な音楽ストリーミングプラットフォームは、AI-generatedの音楽にラベルを付けると約束し続けながら、依然としてアーティストの自主的な表示に頼っている」と主張した。「このラベリング手法は効果がなく、音楽業界やクリエイティブ経済に説明責任の文化を育てない」。"
               },
               {
                 "t": "p",
-                "x": "彼女はXにこの動画を投稿し、「明日。準備万端」と添えた。背景にはケイン(グレン・ジェイコブス)、ティム・バーチェット下院議員、ビル・ハガティ上院議員、ブレント・テイラー州上院議員が映っている。Billboardはケンドリック・ラマーの代理人にコメントを求めている。"
+                "x": "調査は、五人の研究者がそれぞれ異なるジャンルに絞った新しいSpotifyアカウントを作り、25日間プレイリストを聴いて、明らかに「人間」ではないアーティストを洗い出し、DeezerのAI-detection技術で確認するというものだった。"
               },
               {
                 "t": "p",
-                "x": "返信欄はたちまち埋まり、動画を「痛々しいほどイタい」「AIスロップ」と呼ぶ声も出た。ある人は「人工知能を間抜けに見せる方法を見つけたね」と書いた。"
+                "x": "その結果、九組のアーティストがAI-generatedと判定された。研究者はいずれもSpotifyのパーソナライズされたプレイリスト「Release Radar」でその音楽に出会っており、プロフィールでAI使用を自ら明かしたアーティストは一組もいなかった。"
               },
               {
                 "t": "p",
-                "x": "民主党の対立候補ジェリー・グリーンはXに「選挙運動を応援するためにAIを使うのはやめてほしいと言うのは、こういうことだ」と投稿した。"
+                "x": "報告書の日付は2026年6月だが、実際にいつ調査が行われたかは不明だ。これが重要なのは、Spotifyが今年いくつもの透明性機能を導入しているからだ。5月には人間のアーティスト向けの「Verified」バッジを、9月には「AI Persona」バッジを開始し、後者の付与については「自己申告だけには頼らない」としている。"
               },
               {
                 "t": "p",
-                "x": "ラマーは2025年2月にニューオーリンズで行われたSuper Bowl LIXハーフタイムショーのパフォーマンスで、2度目のプライムタイム・エミー賞を受賞した。"
+                "x": "報告書の著者らはSpotifyが取り得る妥当な対策をいくつか挙げたが、同社はすでにその一部を展開しており、「Release Radar」を含むおすすめからAI-slopトラックを排除する方法にも取り組んでいるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "布莱克本发布AI版\n肯德里克视频遭批",
-          "body": "参议员玛莎·布莱克本因发布自己演绎肯德里克·拉马尔超级碗表演的AI视频而遭批评。",
-          "mini_headline": "布莱克本的AI肯德里克视频",
+          "headline": "Duke研究者揪出\nSpotify上的AI音乐",
+          "body": "Duke Sanford研究在Spotify上揪出九位未披露AI身份的艺人。",
+          "mini_headline": "检测Spotify上的AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-                "cap": "参议员玛莎·布莱克本"
+                "t": "p",
+                "x": "“Spotify不给AI音乐贴标签，我们试着自己检测。”这是Duke Sanford Tech Policy Program宣布一份新报告的博客文章标题。"
               },
               {
                 "t": "p",
-                "x": "U.S.参议员玛莎·布莱克本正在竞选田纳西州州长，她试图借社交媒体造势，却适得其反：她发布了一段自己在Super Bowl LIX上化身肯德里克·拉马尔表演《Not Like Us》的AI-generated视频，结果遭到群嘲。"
+                "x": "文章称：“Spotify和Apple Music等主流音乐流媒体平台不断承诺为AI-generated音乐加标签，却仍依赖艺人的自愿标注。”“这种标注方式无效，也无助于在音乐产业或创意经济中培养问责文化。”"
               },
               {
                 "t": "p",
-                "x": "她在X上为视频配文：“明天。准备出发。”视频背景中出现了凯恩（格伦·雅各布斯）、众议员蒂姆·伯切特、参议员比尔·哈格蒂和州参议员布伦特·泰勒。Billboard已联系肯德里克·拉马尔的代表置评。"
+                "x": "研究由五名研究人员各自创建专注不同曲风的新Spotify账号，连续25天收听播放列表，标记任何明显不像“人类”的艺人，再用Deezer的AI-detection技术加以确认。"
               },
               {
                 "t": "p",
-                "x": "她的回复区很快被刷屏，有评论称这段视频“尴尬得令人痛苦”“AI垃圾”。一位网友写道：“你找到了让人工智能显得愚蠢的方法。”"
+                "x": "通过这一流程，共有九位艺人被认定为AI-generated。研究人员都是通过Spotify的个性化播放列表“Release Radar”接触到这些音乐的，而且没有一位艺人在个人资料中主动披露使用了AI。"
               },
               {
                 "t": "p",
-                "x": "她的民主党对手杰丽·格林在X上写道：“我说请别再用AI来支持我们的竞选，指的就是这个。”"
+                "x": "该研究注明的日期为2026年6月，但研究人员实际何时开展工作尚不清楚。这一点很重要，因为Spotify今年推出了多项透明度功能：5月为人类艺人推出“Verified”徽章，9月推出“AI Persona”徽章，Spotify表示授予后者时“不会只依赖自我披露”。"
               },
               {
                 "t": "p",
-                "x": "拉马尔凭借2025年2月在新奥尔良举行的Super Bowl LIX中场秀表演，第二次获得黄金时段艾美奖。"
+                "x": "研究作者提出了Spotify可以采取的一些合理措施，但Spotify已在推行其中部分措施，并表示正在想办法将AI-slop曲目挡在推荐之外，包括“Release Radar”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Críticas a Blackburn por su\nvideo de IA como Kendrick",
-          "body": "Critican a la senadora Marsha Blackburn por un video de IA en el que encarna a Kendrick Lamar en el Super Bowl.",
-          "mini_headline": "El clip de IA de Blackburn como Kendrick",
+          "headline": "Investigadores de Duke detectan\nmúsica de AI en Spotify",
+          "body": "Un estudio de Duke Sanford halló en Release Radar de Spotify nueve artistas de AI que no lo declaraban.",
+          "mini_headline": "Detectar AI en Spotify",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-                "cap": "La senadora Marsha Blackburn"
+                "t": "p",
+                "x": "“Spotify no etiqueta la música de AI. Intentamos detectarla nosotros mismos” es el titular de una entrada de blog que anuncia un nuevo informe del Duke Sanford Tech Policy Program."
               },
               {
                 "t": "p",
-                "x": "El intento de la senadora de EE. UU. (U.S.) Marsha Blackburn de movilizar las redes sociales en su campaña para gobernadora de Tennessee le salió mal: recibió burlas por publicar un clip AI-generated en el que aparece interpretando “Not Like Us” como Kendrick Lamar en el Super Bowl LIX."
+                "x": "“Las plataformas dominantes de streaming musical, como Spotify y Apple Music, siguen prometiendo etiquetas para la música generada por AI (AI-generated), pero aún dependen de etiquetas voluntarias del artista”, afirmó. “Este enfoque de etiquetado es ineficaz y no fomenta una cultura de rendición de cuentas en la industria musical ni en la economía creativa”."
               },
               {
                 "t": "p",
-                "x": "“Mañana. Listos para arrancar”, escribió en X junto al clip, en el que aparecen de fondo Kane (Glenn Jacobs), el representante Tim Burchett, el senador Bill Hagerty y el senador estatal Brent Taylor. Billboard ha contactado a los representantes de Kendrick Lamar para pedir comentarios."
+                "x": "El trabajo consistió en que cinco investigadores crearan cada uno una nueva cuenta de Spotify centrada en un género distinto, escucharan playlists durante 25 días y señalaran a cualquier artista que no fuera claramente ‘humano’, para luego confirmarlo con la tecnología de detección de AI (AI-detection) de Deezer."
               },
               {
                 "t": "p",
-                "x": "Las respuestas se llenaron rápidamente; algunos calificaron el clip de “dolorosamente vergonzoso” y de “bazofia de IA”. Uno escribió: “Encontraste la manera de hacer que la inteligencia artificial parezca estúpida”."
+                "x": "Así se identificó a nueve artistas como generados por AI (AI-generated). En todos los casos, los investigadores habían dado con su música a través de la playlist personalizada ‘Release Radar’ de Spotify, y ninguno de los artistas había declarado en su perfil el uso de AI."
               },
               {
                 "t": "p",
-                "x": "Su rival demócrata, Jerri Green, escribió en X: “Cuando digo que por favor dejen de usar IA para apoyar nuestra campaña, me refiero a esto”."
+                "x": "El estudio está fechado en junio de 2026, pero no está claro cuándo hicieron el trabajo los investigadores. Eso importa, porque Spotify ha lanzado este año varias funciones de transparencia: una insignia ‘Verified’ para artistas humanos en mayo y una insignia ‘AI Persona’ en septiembre, y Spotify asegura que “no dependerá solo de la autodeclaración” para asignar esta última."
               },
               {
                 "t": "p",
-                "x": "Lamar ganó un segundo Primetime Emmy por su actuación en el espectáculo de medio tiempo del Super Bowl LIX, en febrero de 2025 en Nueva Orleans."
+                "x": "Los autores del estudio señalaron algunas medidas sensatas que Spotify podría tomar, pero la compañía ya ha empezado a aplicar algunas, y dice que trabaja en formas de mantener las pistas de baja calidad hechas con AI (AI-slop) fuera de las recomendaciones, incluido ‘Release Radar’."
               }
             ]
           }
@@ -1017,141 +971,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "블랙번의 AI 켄드릭\n영상에 쏟아진 비판",
-          "body": "마샤 블랙번 상원의원이 켄드릭 라마의 슈퍼볼 무대를 AI로 재현해 비판받았다.",
-          "mini_headline": "블랙번의 AI 켄드릭 영상",
+          "headline": "Duke 연구진이 찾은\nSpotify의 AI 음악",
+          "body": "Duke 연구가 Spotify에서 AI임을 알리지 않은 아티스트 아홉을 찾았다.",
+          "mini_headline": "Spotify 속 AI 찾기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-                "cap": "마샤 블랙번 상원의원"
+                "t": "p",
+                "x": "“Spotify는 AI 음악에 라벨을 붙이지 않는다. 그래서 우리가 직접 찾아보기로 했다.” Duke Sanford Tech Policy Program의 새 보고서를 알리는 블로그 글의 제목이다."
               },
               {
                 "t": "p",
-                "x": "테네시 주지사 선거에 나선 U.S. 상원의원 마샤 블랙번이 소셜미디어에서 지지를 끌어모으려던 시도가 역효과를 냈다. 자신이 Super Bowl LIX에서 켄드릭 라마가 되어 “Not Like Us”를 공연하는 AI-generated 영상을 올렸다가 조롱을 받은 것이다."
+                "x": "보고서는 “Spotify와 Apple Music 같은 주요 음악 스트리밍 플랫폼은 AI-generated 음악에 라벨을 붙이겠다고 계속 약속하면서도 여전히 아티스트의 자발적 표기에 기대고 있다”고 주장했다. “이런 라벨링 방식은 효과가 없고, 음악 산업과 창작 경제에 책임의 문화를 키우지 못한다.”"
               },
               {
                 "t": "p",
-                "x": "그는 X에 영상을 올리며 “내일. 달릴 준비 끝”이라고 적었다. 영상 배경에는 케인(글렌 제이콥스), 팀 버쳇 하원의원, 빌 해거티 상원의원, 브렌트 테일러 주 상원의원이 등장한다. Billboard는 켄드릭 라마 측에 입장을 요청했다."
+                "x": "연구진 다섯 명이 각자 다른 장르에 맞춘 새 Spotify 계정을 만들어 25일 동안 플레이리스트를 듣고, 누가 봐도 ‘인간’이 아닌 아티스트를 표시한 뒤 Deezer의 AI-detection 기술로 확인하는 방식이었다."
               },
               {
                 "t": "p",
-                "x": "그의 게시물에는 순식간에 댓글이 쏟아졌고, 일부는 영상을 “보기 괴로울 만큼 민망하다”, “AI 슬롭”이라고 불렀다. 한 사용자는 “인공지능을 멍청해 보이게 만드는 방법을 찾아냈다”고 썼다."
+                "x": "이 과정에서 아티스트 아홉 팀이 AI-generated로 판별됐다. 연구진은 모두 Spotify의 개인화 플레이리스트 ‘Release Radar’에서 이들의 음악을 접했고, 프로필에서 AI 사용을 스스로 밝힌 아티스트는 한 팀도 없었다."
               },
               {
                 "t": "p",
-                "x": "민주당 경쟁자 제리 그린은 X에 “우리 캠프를 돕겠다고 AI를 쓰지 말아 달라고 할 때, 바로 이런 걸 말하는 것”이라고 썼다."
+                "x": "보고서 날짜는 2026년 6월이지만, 연구진이 실제로 언제 작업했는지는 분명하지 않다. 이 점이 중요한 이유는 Spotify가 올해 여러 투명성 기능을 내놓았기 때문이다. 5월에는 인간 아티스트용 ‘Verified’ 배지를, 9월에는 ‘AI Persona’ 배지를 도입했고, Spotify는 후자를 부여할 때 “자기 신고에만 의존하지 않겠다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "라마는 2025년 2월 뉴올리언스에서 열린 Super Bowl LIX 하프타임 쇼 공연으로 두 번째 프라임타임 에미상을 받았다."
+                "x": "보고서 저자들은 Spotify가 취할 만한 합리적 조치를 몇 가지 제시했지만, Spotify는 그중 일부를 이미 시행하고 있다. 또 ‘Release Radar’를 포함한 추천에서 AI-slop 트랙을 걸러낼 방법도 마련하고 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラックバーン氏の\nAIケンドリック動画に批判",
-          "body": "ブラックバーン上院議員が、スーパーボウルのケンドリックに扮したAI動画で批判を浴びた。",
-          "mini_headline": "ブラックバーンのAIケンドリック動画",
+          "headline": "Duke研究者が\nSpotifyでAI音楽検出",
+          "body": "Duke研究がSpotifyでAIと明かさない九組のアーティストを特定した。",
+          "mini_headline": "Spotify上のAIを検出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-                "cap": "マーシャ・ブラックバーン上院議員"
+                "t": "p",
+                "x": "「SpotifyはAI音楽にラベルを付けない。だから自分たちで検出を試みた」。これはDuke Sanford Tech Policy Programの新しい報告書を告知するブログ記事の見出しである。"
               },
               {
                 "t": "p",
-                "x": "テネシー州知事選に出馬しているU.S.上院議員マーシャ・ブラックバーンが、ソーシャルメディアで支持を集めようとした試みは裏目に出た。Super Bowl LIXでケンドリック・ラマーとして「Not Like Us」を披露する自身のAI-generated動画を投稿し、嘲笑を浴びたのだ。"
+                "x": "報告書は「SpotifyやApple Musicなどの主要な音楽ストリーミングプラットフォームは、AI-generatedの音楽にラベルを付けると約束し続けながら、依然としてアーティストの自主的な表示に頼っている」と主張した。「このラベリング手法は効果がなく、音楽業界やクリエイティブ経済に説明責任の文化を育てない」。"
               },
               {
                 "t": "p",
-                "x": "彼女はXにこの動画を投稿し、「明日。準備万端」と添えた。背景にはケイン(グレン・ジェイコブス)、ティム・バーチェット下院議員、ビル・ハガティ上院議員、ブレント・テイラー州上院議員が映っている。Billboardはケンドリック・ラマーの代理人にコメントを求めている。"
+                "x": "調査は、五人の研究者がそれぞれ異なるジャンルに絞った新しいSpotifyアカウントを作り、25日間プレイリストを聴いて、明らかに「人間」ではないアーティストを洗い出し、DeezerのAI-detection技術で確認するというものだった。"
               },
               {
                 "t": "p",
-                "x": "返信欄はたちまち埋まり、動画を「痛々しいほどイタい」「AIスロップ」と呼ぶ声も出た。ある人は「人工知能を間抜けに見せる方法を見つけたね」と書いた。"
+                "x": "その結果、九組のアーティストがAI-generatedと判定された。研究者はいずれもSpotifyのパーソナライズされたプレイリスト「Release Radar」でその音楽に出会っており、プロフィールでAI使用を自ら明かしたアーティストは一組もいなかった。"
               },
               {
                 "t": "p",
-                "x": "民主党の対立候補ジェリー・グリーンはXに「選挙運動を応援するためにAIを使うのはやめてほしいと言うのは、こういうことだ」と投稿した。"
+                "x": "報告書の日付は2026年6月だが、実際にいつ調査が行われたかは不明だ。これが重要なのは、Spotifyが今年いくつもの透明性機能を導入しているからだ。5月には人間のアーティスト向けの「Verified」バッジを、9月には「AI Persona」バッジを開始し、後者の付与については「自己申告だけには頼らない」としている。"
               },
               {
                 "t": "p",
-                "x": "ラマーは2025年2月にニューオーリンズで行われたSuper Bowl LIXハーフタイムショーのパフォーマンスで、2度目のプライムタイム・エミー賞を受賞した。"
+                "x": "報告書の著者らはSpotifyが取り得る妥当な対策をいくつか挙げたが、同社はすでにその一部を展開しており、「Release Radar」を含むおすすめからAI-slopトラックを排除する方法にも取り組んでいるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "布莱克本发布AI版\n肯德里克视频遭批",
-          "body": "参议员玛莎·布莱克本因发布自己演绎肯德里克·拉马尔超级碗表演的AI视频而遭批评。",
-          "mini_headline": "布莱克本的AI肯德里克视频",
+          "headline": "Duke研究者揪出\nSpotify上的AI音乐",
+          "body": "Duke Sanford研究在Spotify上揪出九位未披露AI身份的艺人。",
+          "mini_headline": "检测Spotify上的AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-                "cap": "参议员玛莎·布莱克本"
+                "t": "p",
+                "x": "“Spotify不给AI音乐贴标签，我们试着自己检测。”这是Duke Sanford Tech Policy Program宣布一份新报告的博客文章标题。"
               },
               {
                 "t": "p",
-                "x": "U.S.参议员玛莎·布莱克本正在竞选田纳西州州长，她试图借社交媒体造势，却适得其反：她发布了一段自己在Super Bowl LIX上化身肯德里克·拉马尔表演《Not Like Us》的AI-generated视频，结果遭到群嘲。"
+                "x": "文章称：“Spotify和Apple Music等主流音乐流媒体平台不断承诺为AI-generated音乐加标签，却仍依赖艺人的自愿标注。”“这种标注方式无效，也无助于在音乐产业或创意经济中培养问责文化。”"
               },
               {
                 "t": "p",
-                "x": "她在X上为视频配文：“明天。准备出发。”视频背景中出现了凯恩（格伦·雅各布斯）、众议员蒂姆·伯切特、参议员比尔·哈格蒂和州参议员布伦特·泰勒。Billboard已联系肯德里克·拉马尔的代表置评。"
+                "x": "研究由五名研究人员各自创建专注不同曲风的新Spotify账号，连续25天收听播放列表，标记任何明显不像“人类”的艺人，再用Deezer的AI-detection技术加以确认。"
               },
               {
                 "t": "p",
-                "x": "她的回复区很快被刷屏，有评论称这段视频“尴尬得令人痛苦”“AI垃圾”。一位网友写道：“你找到了让人工智能显得愚蠢的方法。”"
+                "x": "通过这一流程，共有九位艺人被认定为AI-generated。研究人员都是通过Spotify的个性化播放列表“Release Radar”接触到这些音乐的，而且没有一位艺人在个人资料中主动披露使用了AI。"
               },
               {
                 "t": "p",
-                "x": "她的民主党对手杰丽·格林在X上写道：“我说请别再用AI来支持我们的竞选，指的就是这个。”"
+                "x": "该研究注明的日期为2026年6月，但研究人员实际何时开展工作尚不清楚。这一点很重要，因为Spotify今年推出了多项透明度功能：5月为人类艺人推出“Verified”徽章，9月推出“AI Persona”徽章，Spotify表示授予后者时“不会只依赖自我披露”。"
               },
               {
                 "t": "p",
-                "x": "拉马尔凭借2025年2月在新奥尔良举行的Super Bowl LIX中场秀表演，第二次获得黄金时段艾美奖。"
+                "x": "研究作者提出了Spotify可以采取的一些合理措施，但Spotify已在推行其中部分措施，并表示正在想办法将AI-slop曲目挡在推荐之外，包括“Release Radar”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Críticas a Blackburn por su\nvideo de IA como Kendrick",
-          "body": "Critican a la senadora Marsha Blackburn por un video de IA en el que encarna a Kendrick Lamar en el Super Bowl.",
-          "mini_headline": "El clip de IA de Blackburn como Kendrick",
+          "headline": "Investigadores de Duke detectan\nmúsica de AI en Spotify",
+          "body": "Un estudio de Duke Sanford halló en Release Radar de Spotify nueve artistas de AI que no lo declaraban.",
+          "mini_headline": "Detectar AI en Spotify",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2299581138-e1791990066202.jpg?w=1024",
-                "cap": "La senadora Marsha Blackburn"
+                "t": "p",
+                "x": "“Spotify no etiqueta la música de AI. Intentamos detectarla nosotros mismos” es el titular de una entrada de blog que anuncia un nuevo informe del Duke Sanford Tech Policy Program."
               },
               {
                 "t": "p",
-                "x": "El intento de la senadora de EE. UU. (U.S.) Marsha Blackburn de movilizar las redes sociales en su campaña para gobernadora de Tennessee le salió mal: recibió burlas por publicar un clip AI-generated en el que aparece interpretando “Not Like Us” como Kendrick Lamar en el Super Bowl LIX."
+                "x": "“Las plataformas dominantes de streaming musical, como Spotify y Apple Music, siguen prometiendo etiquetas para la música generada por AI (AI-generated), pero aún dependen de etiquetas voluntarias del artista”, afirmó. “Este enfoque de etiquetado es ineficaz y no fomenta una cultura de rendición de cuentas en la industria musical ni en la economía creativa”."
               },
               {
                 "t": "p",
-                "x": "“Mañana. Listos para arrancar”, escribió en X junto al clip, en el que aparecen de fondo Kane (Glenn Jacobs), el representante Tim Burchett, el senador Bill Hagerty y el senador estatal Brent Taylor. Billboard ha contactado a los representantes de Kendrick Lamar para pedir comentarios."
+                "x": "El trabajo consistió en que cinco investigadores crearan cada uno una nueva cuenta de Spotify centrada en un género distinto, escucharan playlists durante 25 días y señalaran a cualquier artista que no fuera claramente ‘humano’, para luego confirmarlo con la tecnología de detección de AI (AI-detection) de Deezer."
               },
               {
                 "t": "p",
-                "x": "Las respuestas se llenaron rápidamente; algunos calificaron el clip de “dolorosamente vergonzoso” y de “bazofia de IA”. Uno escribió: “Encontraste la manera de hacer que la inteligencia artificial parezca estúpida”."
+                "x": "Así se identificó a nueve artistas como generados por AI (AI-generated). En todos los casos, los investigadores habían dado con su música a través de la playlist personalizada ‘Release Radar’ de Spotify, y ninguno de los artistas había declarado en su perfil el uso de AI."
               },
               {
                 "t": "p",
-                "x": "Su rival demócrata, Jerri Green, escribió en X: “Cuando digo que por favor dejen de usar IA para apoyar nuestra campaña, me refiero a esto”."
+                "x": "El estudio está fechado en junio de 2026, pero no está claro cuándo hicieron el trabajo los investigadores. Eso importa, porque Spotify ha lanzado este año varias funciones de transparencia: una insignia ‘Verified’ para artistas humanos en mayo y una insignia ‘AI Persona’ en septiembre, y Spotify asegura que “no dependerá solo de la autodeclaración” para asignar esta última."
               },
               {
                 "t": "p",
-                "x": "Lamar ganó un segundo Primetime Emmy por su actuación en el espectáculo de medio tiempo del Super Bowl LIX, en febrero de 2025 en Nueva Orleans."
+                "x": "Los autores del estudio señalaron algunas medidas sensatas que Spotify podría tomar, pero la compañía ya ha empezado a aplicar algunas, y dice que trabaja en formas de mantener las pistas de baja calidad hechas con AI (AI-slop) fuera de las recomendaciones, incluido ‘Release Radar’."
               }
             ]
           }
@@ -1159,15 +1109,15 @@
       }
     },
     {
-      "id": "music-awards-ai-age",
+      "id": "music-spotify-ai-badge",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 시대 음악상은\n무엇을 시상해야 하나",
-      "body": "Hypebot 에세이는 음악상이 AI 곡의 인간 창작 디렉션을 봐야 한다고 썼다.",
-      "mini_headline": "AI 시대의 음악상",
+      "headline": "Spotify, AI 표시\nBureau 보도 뒤 도입",
+      "body": "TBIJ 질의 엿새 만의 AI Persona 배지가 Danny Bones에 붙었다.",
+      "mini_headline": "Spotify, AI 아티스트 표시",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/what-should-music-awards-recognize-in-the-age-of-ai/",
+      "source": "The Bureau of Investigative Journalism",
+      "url": "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1175,149 +1125,245 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+            "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
           },
           {
             "t": "p",
-            "x": "Academy of Emerging Music Arts & Sciences(AEMAS) 설립자 샤미엘 올스턴은 AI가 등장하면서 시상 단체들이 작품을 누가, 혹은 무엇이 만들었는지 따져 묻게 됐다고 쓴다. 버튼을 눌러 나온 첫 결과를 그대로 받아들이는 일과, 직접 쓰고 출력물 수십 개를 버리고 기술의 방향을 틀어 가며 의도가 담길 때까지 편집하는 일은 같은 창작이 아니다."
+            "x": "Spotify가 합성 아티스트에 라벨을 붙이기 시작했다. 스트리밍 1백만 회를 넘긴 극우 AI 래퍼 Danny Bones를 우리가 보도한 뒤다."
           },
           {
             "t": "p",
-            "x": "AI-assisted 또는 AI-directed 음악을 인정하려면 시상 단체는 정확히 무엇을 인정하는지 설명할 수 있어야 한다. 올스턴은 인간의 창작 디렉션을 핵심으로 꼽는다. 콘셉트를 처음 떠올린 사람이 누구인지, 그 사람이 의미 있는 결정을 내리고 수정을 거쳤는지, 작품이 왜 그런 소리를 내는지 설명할 수 있는지가 기준이다."
+            "x": "이 스트리밍 대기업이 새 “AI Persona” 배지를 발표한 건 8월이다. 합성 아티스트가 왜 지어낸 정체성을 밝히지 않아도 되는지 우리가 회사에 질의한 지 엿새 뒤였다. 배지는 지난 몇 주에 걸쳐 차례로 붙었고, 지금 라벨이 눈에 띄게 붙은 아티스트 가운데 Bones도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
           },
           {
             "t": "p",
-            "x": "AEMAS's 첫 Ellison Awards에는 자격 심사, 출품작마다 심사위원 다섯 명이 맡는 블라인드 심사, 이해충돌 방지 장치가 마련됐다. 2027년 시상 출품 접수는 2026년 11월 1일 시작되고, AI Creative Direction 전용 부문도 생긴다."
+            "x": "청취자가 Spotify에서 해당 아티스트를 이미 팔로하거나 접한 적이 없다면, AI 페르소나의 음악은 에디토리얼 추천과 개인화 추천에도 뜨지 않는다."
+          },
+          {
+            "t": "video",
+            "yt": "5hVInGPwQLs"
+          },
+          {
+            "t": "p",
+            "x": "음악 자체가 AI-generated인지는 배지로 알 수 없다. 아티스트는 AI 페르소나 라벨 없이도 AI-generated 보컬이나 반주, 다른 도구를 쓸 수 있고, AI 크레디트 시스템은 따로 있지만 일부 유통사와 아직 베타로 시험 중이다."
+          },
+          {
+            "t": "p",
+            "x": "Manchester에서 활동하는 아티스트 J.Chambers는 “Spotify가 AI-generated 아티스트 정체성이 심각한 문제를 낳는다는 점을 인정해 기쁘지만, 프로필에 라벨을 달거나 크레디트에 AI 정보를 넣는 것으로는 충분하지 않다고 본다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "What should music awards\nreward in the AI age",
-          "body": "A Hypebot essay argues music awards should judge the human creative direction behind AI-assisted songs.",
-          "mini_headline": "Awards in the AI age",
+          "headline": "Spotify labels AI artists\nafter Bureau investigation",
+          "body": "Spotify's AI Persona badge, announced six days after TBIJ questioned its policy, now labels rapper Danny Bones.",
+          "mini_headline": "Spotify tags AI artists",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
               },
               {
                 "t": "p",
-                "x": "Shamielle Alston, founder of the Academy of Emerging Music Arts & Sciences (AEMAS), writes that AI forces awards organizations to ask who, or what, created a work. Pressing a button and accepting the first result is not the same creative act as writing, rejecting dozens of outputs, redirecting the technology and editing until the result reflects what was intended."
+                "x": "Spotify is now labelling synthetic artists after our reporting into the far-right, AI rapper Danny Bones, who has racked up over 1 million streams."
               },
               {
                 "t": "p",
-                "x": "If an awards organization recognizes AI-assisted or AI-directed music, it should be able to explain what it is recognizing. For Alston, a key idea is human creative direction: who originated the concept, made the meaningful decisions, revised it and can explain why the work sounds the way it does."
+                "x": "The streaming giant announced its new “AI Persona” badge in August, six days after we asked the company why synthetic artists weren’t required to disclose their invented identities. The badges have been rolling out over the last few weeks, with Bones among the artists now visibly labelled."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
               },
               {
                 "t": "p",
-                "x": "AEMAS's inaugural Ellison Awards use eligibility review, blind judging with five judges per entry and conflict-of-interest safeguards. Submissions for the 2027 awards open November 1, 2026, with a dedicated category for AI Creative Direction."
+                "x": "Music from AI personas is also excluded from editorial and personalised recommendations unless listeners have already followed or engaged with an artist on Spotify."
+              },
+              {
+                "t": "video",
+                "yt": "5hVInGPwQLs"
+              },
+              {
+                "t": "p",
+                "x": "The badge says nothing about whether the music itself is AI-generated. Artists can use AI-generated vocals, instrumentals or other tools without being labelled an AI persona; a separate AI credits system is still in beta with select distributors."
+              },
+              {
+                "t": "p",
+                "x": "J.Chambers, a Manchester-based artist, said: “I’m glad Spotify is acknowledging that AI-generated artist identities raise serious questions, but I don’t think labelling profiles or adding AI information to credits goes far enough.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 시대 음악상은\n무엇을 시상해야 하나",
-          "body": "Hypebot 에세이는 음악상이 AI 곡의 인간 창작 디렉션을 봐야 한다고 썼다.",
-          "mini_headline": "AI 시대의 음악상",
+          "headline": "Spotify, AI 표시\nBureau 보도 뒤 도입",
+          "body": "TBIJ 질의 엿새 만의 AI Persona 배지가 Danny Bones에 붙었다.",
+          "mini_headline": "Spotify, AI 아티스트 표시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
               },
               {
                 "t": "p",
-                "x": "Academy of Emerging Music Arts & Sciences(AEMAS) 설립자 샤미엘 올스턴은 AI가 등장하면서 시상 단체들이 작품을 누가, 혹은 무엇이 만들었는지 따져 묻게 됐다고 쓴다. 버튼을 눌러 나온 첫 결과를 그대로 받아들이는 일과, 직접 쓰고 출력물 수십 개를 버리고 기술의 방향을 틀어 가며 의도가 담길 때까지 편집하는 일은 같은 창작이 아니다."
+                "x": "Spotify가 합성 아티스트에 라벨을 붙이기 시작했다. 스트리밍 1백만 회를 넘긴 극우 AI 래퍼 Danny Bones를 우리가 보도한 뒤다."
               },
               {
                 "t": "p",
-                "x": "AI-assisted 또는 AI-directed 음악을 인정하려면 시상 단체는 정확히 무엇을 인정하는지 설명할 수 있어야 한다. 올스턴은 인간의 창작 디렉션을 핵심으로 꼽는다. 콘셉트를 처음 떠올린 사람이 누구인지, 그 사람이 의미 있는 결정을 내리고 수정을 거쳤는지, 작품이 왜 그런 소리를 내는지 설명할 수 있는지가 기준이다."
+                "x": "이 스트리밍 대기업이 새 “AI Persona” 배지를 발표한 건 8월이다. 합성 아티스트가 왜 지어낸 정체성을 밝히지 않아도 되는지 우리가 회사에 질의한 지 엿새 뒤였다. 배지는 지난 몇 주에 걸쳐 차례로 붙었고, 지금 라벨이 눈에 띄게 붙은 아티스트 가운데 Bones도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
               },
               {
                 "t": "p",
-                "x": "AEMAS's 첫 Ellison Awards에는 자격 심사, 출품작마다 심사위원 다섯 명이 맡는 블라인드 심사, 이해충돌 방지 장치가 마련됐다. 2027년 시상 출품 접수는 2026년 11월 1일 시작되고, AI Creative Direction 전용 부문도 생긴다."
+                "x": "청취자가 Spotify에서 해당 아티스트를 이미 팔로하거나 접한 적이 없다면, AI 페르소나의 음악은 에디토리얼 추천과 개인화 추천에도 뜨지 않는다."
+              },
+              {
+                "t": "video",
+                "yt": "5hVInGPwQLs"
+              },
+              {
+                "t": "p",
+                "x": "음악 자체가 AI-generated인지는 배지로 알 수 없다. 아티스트는 AI 페르소나 라벨 없이도 AI-generated 보컬이나 반주, 다른 도구를 쓸 수 있고, AI 크레디트 시스템은 따로 있지만 일부 유통사와 아직 베타로 시험 중이다."
+              },
+              {
+                "t": "p",
+                "x": "Manchester에서 활동하는 아티스트 J.Chambers는 “Spotify가 AI-generated 아티스트 정체성이 심각한 문제를 낳는다는 점을 인정해 기쁘지만, 프로필에 라벨을 달거나 크레디트에 AI 정보를 넣는 것으로는 충분하지 않다고 본다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI時代の音楽賞は\n何を評価すべきか",
-          "body": "Hypebotの論考は、音楽賞はAI支援曲を支える人間の創作の方向性を評価すべきだと説く。",
-          "mini_headline": "AI時代の音楽賞",
+          "headline": "SpotifyがAI表示\nBureauの調査受け導入",
+          "body": "TBIJの質問の六日後に出たAI PersonaバッジがDanny Bonesに付いた。",
+          "mini_headline": "SpotifyがAIアーティストを表示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
               },
               {
                 "t": "p",
-                "x": "Academy of Emerging Music Arts & Sciences(AEMAS)の創設者シャミエル・アルストンは、AIによって賞の主催団体は、作品を誰が、あるいは何が生み出したのかを問わざるを得なくなったと書く。ボタンを押して最初の結果を受け入れることは、自ら書き、数十の出力を退け、技術の方向を修正し、意図したものが反映されるまで編集することと同じ創作行為ではない。"
+                "x": "Spotifyは、1百万回超の再生を記録した極右のAIラッパーDanny Bonesに関する我々の報道を受け、合成アーティストへのラベル付けを始めた。"
               },
               {
                 "t": "p",
-                "x": "賞の主催団体がAI-assistedあるいはAI-directedの音楽を認めるなら、何を評価しているのかを説明できなければならない。アルストンにとって鍵となるのは人間による創作の方向性、つまり誰がコンセプトを生み出し、意味のある判断を下し、手を加え、作品がなぜそのように聞こえるのかを説明できるかという点だ。"
+                "x": "この大手ストリーミング企業は8月、新たな「AI Persona」バッジを発表した。合成アーティストがなぜ作られたアイデンティティを開示しなくてよいのか、我々が同社に問い合わせてから六日後のことだ。バッジはここ数週間で順次導入され、Bonesも現在はっきりとラベルが表示されたアーティストの一人となっている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
               },
               {
                 "t": "p",
-                "x": "AEMAS'sの第1回Ellison Awardsは、応募資格の審査、1作品につき5人の審査員によるブラインド審査、利益相反の防止策を採用する。2027年の賞への応募受付は2026年11月1日に始まり、AI Creative Directionの専用部門が設けられる。"
+                "x": "AIペルソナの音楽は、リスナーがSpotify上ですでにそのアーティストをフォローしたり聴いたりしていない限り、編集部のおすすめやパーソナライズされたおすすめからも除外される。"
+              },
+              {
+                "t": "video",
+                "yt": "5hVInGPwQLs"
+              },
+              {
+                "t": "p",
+                "x": "このバッジは、音楽そのものがAI-generatedかどうかについては何も示さない。アーティストはAIペルソナと表示されることなく、AI-generatedのボーカルや演奏、その他のツールを使うことができる。別のAIクレジット制度は、一部の配信事業者とともにまだベータ段階にある。"
+              },
+              {
+                "t": "p",
+                "x": "Manchesterを拠点とするアーティスト、J.Chambersは「AI-generatedのアーティストのアイデンティティが深刻な問題を提起していることをSpotifyが認めているのはうれしいが、プロフィールにラベルを付けたり、クレジットにAI情報を加えたりするだけでは不十分だと思う」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI时代的音乐奖\n该奖励什么",
-          "body": "Hypebot一篇文章认为，音乐奖应评判AI辅助歌曲背后的人类创作导向。",
-          "mini_headline": "AI时代的音乐奖",
+          "headline": "Spotify为AI艺人贴标\nBureau调查之后",
+          "body": "TBIJ质询六天后推出的AI Persona徽章，已标注说唱歌手Danny Bones。",
+          "mini_headline": "Spotify标注AI艺人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
               },
               {
                 "t": "p",
-                "x": "Academy of Emerging Music Arts & Sciences（AEMAS）创始人沙米埃尔·奥尔斯顿写道，AI迫使颁奖机构追问：作品究竟由谁、或由什么创作。按下按钮、接受第一个结果，与亲自创作、否决数十个输出、调整技术方向并反复编辑直到结果体现本意，并不是同一种创作行为。"
+                "x": "在我们报道了播放量超过1百万次的极右翼AI说唱歌手Danny Bones之后，Spotify开始为合成艺人贴上标签。"
               },
               {
                 "t": "p",
-                "x": "如果颁奖机构认可AI-assisted或AI-directed音乐，就应该能够说明自己认可的是什么。在奥尔斯顿看来，关键在于人类创作导向：谁提出了构想、做出了有意义的决定、进行了修改，并能解释作品为何是现在这种声音。"
+                "x": "这家流媒体巨头在8月宣布推出新的“AI Persona”徽章，距我们询问该公司为何不要求合成艺人披露其虚构身份仅六天。过去几周徽章陆续上线，Bones也是如今被明显标注的艺人之一。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
               },
               {
                 "t": "p",
-                "x": "AEMAS's首届Ellison Awards采用资格审查、每件参赛作品由五位评委盲评，以及利益冲突防范措施。2027年奖项的报名将于2026年11月1日开放，并设有AI Creative Direction专属类别。"
+                "x": "除非听众已在Spotify上关注过该艺人或与其有过互动，否则AI人设艺人的音乐也会被排除在编辑推荐和个性化推荐之外。"
+              },
+              {
+                "t": "video",
+                "yt": "5hVInGPwQLs"
+              },
+              {
+                "t": "p",
+                "x": "该徽章并不说明音乐本身是否为AI-generated。艺人可以使用AI-generated的人声、伴奏或其他工具，而不会被标注为AI人设；另一套AI署名系统仍在与部分发行商进行beta测试。"
+              },
+              {
+                "t": "p",
+                "x": "Manchester的艺人J.Chambers说：“我很高兴Spotify承认AI-generated的艺人身份引发了严重问题，但我认为给个人资料加标签或在署名中加入AI信息还远远不够。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Qué deben premiar los premios\nmusicales en la era de la IA?",
-          "body": "Un ensayo en Hypebot pide que los premios musicales juzguen la dirección creativa humana de las canciones con IA.",
-          "mini_headline": "Los premios en la era de la IA",
+          "headline": "Spotify marca a artistas de AI\ntras la investigación del Bureau",
+          "body": "La insignia AI Persona de Spotify, anunciada seis días después de la consulta de TBIJ, ya marca al rapero Danny Bones.",
+          "mini_headline": "Spotify marca a artistas de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
               },
               {
                 "t": "p",
-                "x": "Shamielle Alston, quien fundó la Academy of Emerging Music Arts & Sciences (AEMAS), escribe que la IA obliga a las organizaciones de premios a preguntarse quién, o qué, creó una obra. Pulsar un botón y aceptar el primer resultado no es el mismo acto creativo que escribir, descartar decenas de resultados, reorientar la tecnología y editar hasta que el resultado refleje lo que se pretendía."
+                "x": "Spotify ya etiqueta a los artistas sintéticos tras nuestra investigación sobre Danny Bones, rapero de AI de extrema derecha que acumula más de 1 millón de reproducciones."
               },
               {
                 "t": "p",
-                "x": "Si una organización de premios reconoce música AI-assisted o AI-directed, debería poder explicar qué está reconociendo. Para Alston, una idea clave es la dirección creativa humana: quién originó el concepto, tomó las decisiones significativas, lo revisó y puede explicar por qué la obra suena como suena."
+                "x": "El gigante del streaming anunció su nueva insignia “AI Persona” en agosto, seis días después de que preguntáramos a la empresa por qué los artistas sintéticos no estaban obligados a revelar sus identidades inventadas. Las insignias se han ido desplegando en las últimas semanas, y Bones figura entre los artistas que ya aparecen etiquetados."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
               },
               {
                 "t": "p",
-                "x": "Los AEMAS's Ellison Awards, en su primera edición, aplican revisión de elegibilidad, evaluación a ciegas con cinco jueces por candidatura y salvaguardas frente a conflictos de interés. Las candidaturas para los premios de 2027 se abren el 1 de noviembre de 2026, con una categoría específica de AI Creative Direction."
+                "x": "La música de personas de AI también queda excluida de las recomendaciones editoriales y personalizadas, salvo que los oyentes ya sigan al artista o hayan interactuado con él en Spotify."
+              },
+              {
+                "t": "video",
+                "yt": "5hVInGPwQLs"
+              },
+              {
+                "t": "p",
+                "x": "La insignia no dice nada sobre si la música en sí está generada por AI (AI-generated). Los artistas pueden usar voces, instrumentales u otras herramientas generadas por AI sin ser etiquetados como persona de AI; un sistema aparte de créditos de AI sigue en beta con algunos distribuidores."
+              },
+              {
+                "t": "p",
+                "x": "J.Chambers, artista de Manchester, dijo: “Me alegra que Spotify reconozca que las identidades de artistas generadas por AI (AI-generated) plantean serias dudas, pero no creo que etiquetar perfiles o añadir información de AI a los créditos sea suficiente”."
               }
             ]
           }
@@ -1325,105 +1371,561 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 시대 음악상은\n무엇을 시상해야 하나",
-          "body": "Hypebot 에세이는 음악상이 AI 곡의 인간 창작 디렉션을 봐야 한다고 썼다.",
-          "mini_headline": "AI 시대의 음악상",
+          "headline": "Spotify, AI 표시\nBureau 보도 뒤 도입",
+          "body": "TBIJ 질의 엿새 만의 AI Persona 배지가 Danny Bones에 붙었다.",
+          "mini_headline": "Spotify, AI 아티스트 표시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
               },
               {
                 "t": "p",
-                "x": "Academy of Emerging Music Arts & Sciences(AEMAS) 설립자 샤미엘 올스턴은 AI 때문에 시상 단체들이 작품을 누가, 혹은 무엇이 만들었는지 묻게 됐다고 쓴다. 버튼을 눌러 첫 결과를 받아들이는 일은, 직접 쓰고 수십 개의 출력물을 버리고 기술의 방향을 바꾸며 의도한 바가 담길 때까지 편집하는 일과 같은 창작 행위가 아니다."
+                "x": "Spotify가 합성 아티스트에 라벨을 붙이기 시작했다. 스트리밍 1백만 회를 넘긴 극우 AI 래퍼 Danny Bones에 대한 우리의 보도 이후다."
               },
               {
                 "t": "p",
-                "x": "시상 단체가 AI-assisted 또는 AI-directed 음악을 인정한다면 무엇을 인정하는지 설명할 수 있어야 한다. 올스턴이 보기에 핵심은 인간의 창작 디렉션이다. 누가 콘셉트를 처음 떠올렸고, 의미 있는 결정을 내렸고, 수정을 거쳤으며, 작품이 왜 그런 소리를 내는지 설명할 수 있는가 하는 점이다."
+                "x": "이 스트리밍 대기업은 8월에 새 “AI Persona” 배지를 발표했다. 합성 아티스트가 왜 지어낸 정체성을 밝히지 않아도 되는지 우리가 회사에 질의한 지 엿새 뒤였다. 배지는 지난 몇 주 동안 차례로 적용됐고, Bones도 지금 눈에 띄게 라벨이 붙은 아티스트 가운데 하나다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
               },
               {
                 "t": "p",
-                "x": "AEMAS's 첫 Ellison Awards는 자격 심사, 출품작당 심사위원 다섯 명의 블라인드 심사, 이해충돌 방지 장치를 갖췄다. 2027년 시상 출품 접수는 2026년 11월 1일에 열리며, AI Creative Direction 전용 부문이 마련된다."
+                "x": "AI 페르소나의 음악은 청취자가 Spotify에서 해당 아티스트를 이미 팔로하거나 접한 적이 없다면 에디토리얼 추천과 개인화 추천에서도 빠진다."
+              },
+              {
+                "t": "video",
+                "yt": "5hVInGPwQLs"
+              },
+              {
+                "t": "p",
+                "x": "배지는 음악 자체가 AI-generated인지에 대해서는 아무것도 말해 주지 않는다. 아티스트는 AI 페르소나 라벨 없이도 AI-generated 보컬이나 반주, 다른 도구를 쓸 수 있고, 별도의 AI 크레디트 시스템은 일부 유통사와 함께 아직 베타 단계다."
+              },
+              {
+                "t": "p",
+                "x": "Manchester에서 활동하는 아티스트 J.Chambers는 “Spotify가 AI-generated 아티스트 정체성이 심각한 문제를 낳는다는 점을 인정해 기쁘지만, 프로필에 라벨을 달거나 크레디트에 AI 정보를 넣는 것으로는 충분하지 않다고 본다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI時代の音楽賞は\n何を評価すべきか",
-          "body": "Hypebotの論考は、音楽賞はAI支援曲を支える人間の創作の方向性を評価すべきだと説く。",
-          "mini_headline": "AI時代の音楽賞",
+          "headline": "SpotifyがAI表示\nBureauの調査受け導入",
+          "body": "TBIJの質問の六日後に出たAI PersonaバッジがDanny Bonesに付いた。",
+          "mini_headline": "SpotifyがAIアーティストを表示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
               },
               {
                 "t": "p",
-                "x": "Academy of Emerging Music Arts & Sciences(AEMAS)の創設者シャミエル・アルストンは、AIによって賞の主催団体は、作品を誰が、あるいは何が生み出したのかを問わざるを得なくなったと書く。ボタンを押して最初の結果を受け入れることは、自ら書き、数十の出力を退け、技術の方向を修正し、意図したものが反映されるまで編集することと同じ創作行為ではない。"
+                "x": "Spotifyは、1百万回超の再生を記録した極右のAIラッパーDanny Bonesに関する我々の報道を受け、合成アーティストへのラベル付けを始めた。"
               },
               {
                 "t": "p",
-                "x": "賞の主催団体がAI-assistedあるいはAI-directedの音楽を認めるなら、何を評価しているのかを説明できなければならない。アルストンにとって鍵となるのは人間による創作の方向性、つまり誰がコンセプトを生み出し、意味のある判断を下し、手を加え、作品がなぜそのように聞こえるのかを説明できるかという点だ。"
+                "x": "この大手ストリーミング企業は8月、新たな「AI Persona」バッジを発表した。合成アーティストがなぜ作られたアイデンティティを開示しなくてよいのか、我々が同社に問い合わせてから六日後のことだ。バッジはここ数週間で順次導入され、Bonesも現在はっきりとラベルが表示されたアーティストの一人となっている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
               },
               {
                 "t": "p",
-                "x": "AEMAS'sの第1回Ellison Awardsは、応募資格の審査、1作品につき5人の審査員によるブラインド審査、利益相反の防止策を採用する。2027年の賞への応募受付は2026年11月1日に始まり、AI Creative Directionの専用部門が設けられる。"
+                "x": "AIペルソナの音楽は、リスナーがSpotify上ですでにそのアーティストをフォローしたり聴いたりしていない限り、編集部のおすすめやパーソナライズされたおすすめからも除外される。"
+              },
+              {
+                "t": "video",
+                "yt": "5hVInGPwQLs"
+              },
+              {
+                "t": "p",
+                "x": "このバッジは、音楽そのものがAI-generatedかどうかについては何も示さない。アーティストはAIペルソナと表示されることなく、AI-generatedのボーカルや演奏、その他のツールを使うことができる。別のAIクレジット制度は、一部の配信事業者とともにまだベータ段階にある。"
+              },
+              {
+                "t": "p",
+                "x": "Manchesterを拠点とするアーティスト、J.Chambersは「AI-generatedのアーティストのアイデンティティが深刻な問題を提起していることをSpotifyが認めているのはうれしいが、プロフィールにラベルを付けたり、クレジットにAI情報を加えたりするだけでは不十分だと思う」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI时代的音乐奖\n该奖励什么",
-          "body": "Hypebot一篇文章认为，音乐奖应评判AI辅助歌曲背后的人类创作导向。",
-          "mini_headline": "AI时代的音乐奖",
+          "headline": "Spotify为AI艺人贴标\nBureau调查之后",
+          "body": "TBIJ质询六天后推出的AI Persona徽章，已标注说唱歌手Danny Bones。",
+          "mini_headline": "Spotify标注AI艺人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
               },
               {
                 "t": "p",
-                "x": "Academy of Emerging Music Arts & Sciences（AEMAS）创始人沙米埃尔·奥尔斯顿写道，AI迫使颁奖机构追问：作品究竟由谁、或由什么创作。按下按钮、接受第一个结果，与亲自创作、否决数十个输出、调整技术方向并反复编辑直到结果体现本意，并不是同一种创作行为。"
+                "x": "在我们报道了播放量超过1百万次的极右翼AI说唱歌手Danny Bones之后，Spotify开始为合成艺人贴上标签。"
               },
               {
                 "t": "p",
-                "x": "如果颁奖机构认可AI-assisted或AI-directed音乐，就应该能够说明自己认可的是什么。在奥尔斯顿看来，关键在于人类创作导向：谁提出了构想、做出了有意义的决定、进行了修改，并能解释作品为何是现在这种声音。"
+                "x": "这家流媒体巨头在8月宣布推出新的“AI Persona”徽章，距我们询问该公司为何不要求合成艺人披露其虚构身份仅六天。过去几周徽章陆续上线，Bones也是如今被明显标注的艺人之一。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
               },
               {
                 "t": "p",
-                "x": "AEMAS's首届Ellison Awards采用资格审查、每件参赛作品由五位评委盲评，以及利益冲突防范措施。2027年奖项的报名将于2026年11月1日开放，并设有AI Creative Direction专属类别。"
+                "x": "除非听众已在Spotify上关注过该艺人或与其有过互动，否则AI人设艺人的音乐也会被排除在编辑推荐和个性化推荐之外。"
+              },
+              {
+                "t": "video",
+                "yt": "5hVInGPwQLs"
+              },
+              {
+                "t": "p",
+                "x": "该徽章并不说明音乐本身是否为AI-generated。艺人可以使用AI-generated的人声、伴奏或其他工具，而不会被标注为AI人设；另一套AI署名系统仍在与部分发行商进行beta测试。"
+              },
+              {
+                "t": "p",
+                "x": "Manchester的艺人J.Chambers说：“我很高兴Spotify承认AI-generated的艺人身份引发了严重问题，但我认为给个人资料加标签或在署名中加入AI信息还远远不够。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Qué deben premiar los premios\nmusicales en la era de la IA?",
-          "body": "Un ensayo en Hypebot pide que los premios musicales juzguen la dirección creativa humana de las canciones con IA.",
-          "mini_headline": "Los premios en la era de la IA",
+          "headline": "Spotify marca a artistas de AI\ntras la investigación del Bureau",
+          "body": "La insignia AI Persona de Spotify, anunciada seis días después de la consulta de TBIJ, ya marca al rapero Danny Bones.",
+          "mini_headline": "Spotify marca a artistas de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
               },
               {
                 "t": "p",
-                "x": "Shamielle Alston, quien fundó la Academy of Emerging Music Arts & Sciences (AEMAS), escribe que la IA obliga a las organizaciones de premios a preguntarse quién, o qué, creó una obra. Pulsar un botón y aceptar el primer resultado no es el mismo acto creativo que escribir, descartar decenas de resultados, reorientar la tecnología y editar hasta que el resultado refleje lo que se pretendía."
+                "x": "Spotify ya etiqueta a los artistas sintéticos tras nuestra investigación sobre Danny Bones, rapero de AI de extrema derecha que acumula más de 1 millón de reproducciones."
               },
               {
                 "t": "p",
-                "x": "Si una organización de premios reconoce música AI-assisted o AI-directed, debería poder explicar qué está reconociendo. Para Alston, una idea clave es la dirección creativa humana: quién originó el concepto, tomó las decisiones significativas, lo revisó y puede explicar por qué la obra suena como suena."
+                "x": "El gigante del streaming anunció su nueva insignia “AI Persona” en agosto, seis días después de que preguntáramos a la empresa por qué los artistas sintéticos no estaban obligados a revelar sus identidades inventadas. Las insignias se han ido desplegando en las últimas semanas, y Bones figura entre los artistas que ya aparecen etiquetados."
+              },
+              {
+                "t": "img",
+                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
               },
               {
                 "t": "p",
-                "x": "Los AEMAS's Ellison Awards, en su primera edición, aplican revisión de elegibilidad, evaluación a ciegas con cinco jueces por candidatura y salvaguardas frente a conflictos de interés. Las candidaturas para los premios de 2027 se abren el 1 de noviembre de 2026, con una categoría específica de AI Creative Direction."
+                "x": "La música de personas de AI también queda excluida de las recomendaciones editoriales y personalizadas, salvo que los oyentes ya sigan al artista o hayan interactuado con él en Spotify."
+              },
+              {
+                "t": "video",
+                "yt": "5hVInGPwQLs"
+              },
+              {
+                "t": "p",
+                "x": "La insignia no dice nada sobre si la música en sí está generada por AI (AI-generated). Los artistas pueden usar voces, instrumentales u otras herramientas generadas por AI sin ser etiquetados como persona de AI; un sistema aparte de créditos de AI sigue en beta con algunos distribuidores."
+              },
+              {
+                "t": "p",
+                "x": "J.Chambers, artista de Manchester, dijo: “Me alegra que Spotify reconozca que las identidades de artistas generadas por AI (AI-generated) plantean serias dudas, pero no creo que etiquetar perfiles o añadir información de AI a los créditos sea suficiente”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-vibe-coded-plugins",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "vibe-coded\n플러그인, 누가 사나",
+      "body": "Attack이 vibe-coded 플러그인 시장 장악을 AI 개발자 둘에게 물었다.",
+      "mini_headline": "vibe-coded 플러그인 수요",
+      "tool": "Music",
+      "source": "Attack Magazine",
+      "url": "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "vibe-coded 플러그인은 어디에나 있다. 그렇다고 시장을 장악했느냐는 다른 문제다. AI 도움으로 만든 플러그인이 마켓플레이스를 채우고 있지만, 정말 사 가는 사람이 있을까."
+          },
+          {
+            "t": "p",
+            "x": "Bedroom Producer’s Blog 편집자 Tomislav Zlatic은 “vibe coding은 플러그인을 ‘만든’ 사람조차 아마 읽지 못할, 디버깅은 더더욱 못할 코드의 벽을 안겨 준다”고 경고한다. 독자들이 가장 걱정한 건 신뢰였다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "Våld Labs의 Jaime Paiva는 AI 에이전트의 도움으로 소프트 신스 Tresse를 만들었지만 코딩은 지금도 직접 한다. 그는 “AI는 워크플로 속 도구일 뿐, 워크플로 그 자체가 아니다”라며 “Tresse가 무엇이어야 할지는 AI가 정하지 않았다”고 말한다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "Artists in DSP의 Amorph로는 DAW 안에서 악기와 이펙트를 vibe code로 만든다. CEO Leonardo Biasca-Caroni는 “Amorph는 음악을 생성하지 않는다. 악기를 생성한다”며 “완성된 플러그인으로 충분하다면 그걸 사라. Amorph는 아무도 팔지 않는 것을 위한 도구다”라고 말한다."
+          },
+          {
+            "t": "p",
+            "x": "Attack은 보안을 꼼꼼히 확인하고 개발자가 오래 갈 생각인지 따져 보라고 조언한다. vibe-coded 플러그인은 먼저 써 볼 데모가 있을 때만 사라는 것이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Who is actually buying\nvibe-coded plugins",
+          "body": "Attack asks whether vibe-coded plugins are taking over the market, hearing from two developers who build with AI.",
+          "mini_headline": "Vibe-coded plugin demand",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Vibe-coded plugins are everywhere but does that mean that they’re actually taking over the market? Made with the help of AI, these plugins are clogging up the marketplace – but is anyone actually buying them?"
+              },
+              {
+                "t": "p",
+                "x": "Bedroom Producer’s Blog editor Tomislav Zlatic warns: “Vibe coding hands you a wall of code that whoever ‘made’ the plugin probably can’t read, much less debug.” Trust was the biggest concern readers raised."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Jaime Paiva of Våld Labs built his soft synth Tresse with the help of an AI agent, but still codes. “AI is a tool in the workflow, not the workflow itself,” he says. “It didn’t decide what Tresse should be.”"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Artists in DSP’s Amorph lets you vibe code instruments and effects inside a DAW. “Amorph doesn’t generate music. It generates the instrument,” says CEO Leonardo Biasca-Caroni. “If a finished plugin does the job, buy it. Amorph is for the thing nobody sells.”"
+              },
+              {
+                "t": "p",
+                "x": "Attack’s advice: do your due diligence on security, ask whether developers are in it for the long haul, and only buy vibe-coded plugins with a demo that you can try first."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "vibe-coded\n플러그인, 누가 사나",
+          "body": "Attack이 vibe-coded 플러그인 시장 장악을 AI 개발자 둘에게 물었다.",
+          "mini_headline": "vibe-coded 플러그인 수요",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "vibe-coded 플러그인은 어디에나 있다. 그렇다고 시장을 장악했느냐는 다른 문제다. AI 도움으로 만든 플러그인이 마켓플레이스를 채우고 있지만, 정말 사 가는 사람이 있을까."
+              },
+              {
+                "t": "p",
+                "x": "Bedroom Producer’s Blog 편집자 Tomislav Zlatic은 “vibe coding은 플러그인을 ‘만든’ 사람조차 아마 읽지 못할, 디버깅은 더더욱 못할 코드의 벽을 안겨 준다”고 경고한다. 독자들이 가장 걱정한 건 신뢰였다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Våld Labs의 Jaime Paiva는 AI 에이전트의 도움으로 소프트 신스 Tresse를 만들었지만 코딩은 지금도 직접 한다. 그는 “AI는 워크플로 속 도구일 뿐, 워크플로 그 자체가 아니다”라며 “Tresse가 무엇이어야 할지는 AI가 정하지 않았다”고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Artists in DSP의 Amorph로는 DAW 안에서 악기와 이펙트를 vibe code로 만든다. CEO Leonardo Biasca-Caroni는 “Amorph는 음악을 생성하지 않는다. 악기를 생성한다”며 “완성된 플러그인으로 충분하다면 그걸 사라. Amorph는 아무도 팔지 않는 것을 위한 도구다”라고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "Attack은 보안을 꼼꼼히 확인하고 개발자가 오래 갈 생각인지 따져 보라고 조언한다. vibe-coded 플러그인은 먼저 써 볼 데모가 있을 때만 사라는 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "vibe-coded\nプラグイン、誰が買うのか",
+          "body": "Attackはvibe-codedプラグインの実需を、AIで作る開発者二人に聞いた。",
+          "mini_headline": "vibe-codedプラグインの需要",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "vibe-codedプラグインはあちこちにあるが、それは本当に市場を席巻しているということなのか。AIの力を借りて作られたこれらのプラグインはマーケットプレイスを埋め尽くしているが、実際に買う人はいるのだろうか。"
+              },
+              {
+                "t": "p",
+                "x": "Bedroom Producer’s Blog編集者のTomislav Zlaticは「vibe codingで手に入るのは、そのプラグインを『作った』人でさえおそらく読めず、ましてデバッグなどできないコードの壁だ」と警告する。読者が最も懸念したのは信頼性だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Våld LabsのJaime Paivaは、AIエージェントの助けを借りてソフトシンセTresseを開発したが、今もコードを書いている。「AIはワークフローの中の道具であって、ワークフローそのものではない」と彼は言う。「Tresseがどうあるべきかを決めたのはAIではない」。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Artists in DSPのAmorphを使えば、DAWの中で楽器やエフェクトをvibe codeで作れる。CEOのLeonardo Biasca-Caroniは「Amorphは音楽を生成しない。楽器を生成する」と語る。「完成したプラグインで用が足りるなら、それを買えばいい。Amorphは誰も売っていないもののためにある」。"
+              },
+              {
+                "t": "p",
+                "x": "Attackの助言は、セキュリティを入念に確認し、開発者が長く続けるつもりかを見極め、vibe-codedプラグインは事前に試せるデモがあるものだけを買うことだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "vibe-coded插件\n到底谁在买",
+          "body": "Attack探讨vibe-coded插件是否正在占领市场，并采访了两位借助AI的开发者。",
+          "mini_headline": "vibe-coded插件需求",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "vibe-coded插件随处可见，但这是否意味着它们真的在占领市场？这些借助AI制作的插件正充斥着市场，可真的有人在买吗？"
+              },
+              {
+                "t": "p",
+                "x": "Bedroom Producer’s Blog编辑Tomislav Zlatic警告：“vibe coding交给你的是一堵代码墙，‘做出’插件的人很可能都读不懂，更别说调试了。”信任是读者提出的最大顾虑。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Våld Labs的Jaime Paiva借助AI智能体打造了软合成器Tresse，但他仍在亲自写代码。他说：“AI是工作流程中的工具，而不是工作流程本身。”“Tresse应该是什么样子，不是由它决定的。”"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Artists in DSP的Amorph可以让你在DAW中用vibe code制作乐器和效果器。CEO Leonardo Biasca-Caroni说：“Amorph不生成音乐，它生成的是乐器。”“如果现成的插件够用，就买它。Amorph是为没人卖的东西准备的。”"
+              },
+              {
+                "t": "p",
+                "x": "Attack的建议是：做好安全方面的尽职调查，问问开发者是否打算长期做下去，并且只购买提供可先试用演示版的vibe-coded插件。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "¿Quién compra realmente\nlos plugins vibe-coded?",
+          "body": "Attack se pregunta si los plugins vibe-coded dominan el mercado y habla con dos desarrolladores que usan AI.",
+          "mini_headline": "Demanda de plugins vibe-coded",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los plugins vibe-coded están por todas partes, pero ¿significa eso que realmente se están apoderando del mercado? Hechos con ayuda de AI, estos plugins están saturando el mercado, pero ¿alguien los compra de verdad?"
+              },
+              {
+                "t": "p",
+                "x": "Tomislav Zlatic, editor de Bedroom Producer’s Blog, advierte: “El vibe coding te entrega un muro de código que probablemente quien ‘hizo’ el plugin no sabe leer, y mucho menos depurar”. La confianza fue la mayor preocupación que plantearon los lectores."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Jaime Paiva, de Våld Labs, creó su sintetizador de software Tresse con ayuda de un agente de AI, pero sigue programando. “La AI es una herramienta dentro del flujo de trabajo, no el flujo de trabajo en sí”, dice. “No fue ella quien decidió qué debía ser Tresse”."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Amorph, de Artists in DSP, permite crear con vibe coding instrumentos y efectos dentro de un DAW. “Amorph no genera música. Genera el instrumento”, dice su CEO, Leonardo Biasca-Caroni. “Si un plugin terminado cumple su función, cómpralo. Amorph es para lo que nadie vende”."
+              },
+              {
+                "t": "p",
+                "x": "El consejo de Attack: revisar a fondo la seguridad, preguntarse si los desarrolladores piensan quedarse a largo plazo y comprar plugins vibe-coded solo si tienen una demo que se pueda probar antes."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "vibe-coded\n플러그인, 누가 사나",
+          "body": "Attack이 vibe-coded 플러그인 시장 장악을 AI 개발자 둘에게 물었다.",
+          "mini_headline": "vibe-coded 플러그인 수요",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "vibe-coded 플러그인은 어디에나 있지만, 그렇다고 실제로 시장을 장악했는지는 별개의 문제다. AI의 도움으로 만든 이 플러그인들이 마켓플레이스를 메우고 있으나, 정말 사는 사람이 있는지는 의문이다."
+              },
+              {
+                "t": "p",
+                "x": "Bedroom Producer’s Blog 편집자 Tomislav Zlatic은 “vibe coding은 플러그인을 ‘만든’ 사람조차 아마 읽지 못할, 디버깅은 더더욱 못할 코드의 벽을 안겨 준다”고 경고한다. 독자들이 가장 크게 우려한 것은 신뢰였다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Våld Labs의 Jaime Paiva는 AI 에이전트의 도움을 받아 소프트 신스 Tresse를 만들었지만, 코딩은 여전히 직접 한다. 그는 “AI는 워크플로 속 도구일 뿐, 워크플로 그 자체가 아니다”라며 “Tresse가 무엇이어야 할지는 AI가 정하지 않았다”고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Artists in DSP의 Amorph를 쓰면 DAW 안에서 악기와 이펙트를 vibe code로 만들 수 있다. CEO Leonardo Biasca-Caroni는 “Amorph는 음악을 생성하지 않는다. 악기를 생성한다”며 “완성된 플러그인으로 충분하다면 그걸 사라. Amorph는 아무도 팔지 않는 것을 위한 도구다”라고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "Attack의 조언은 보안을 꼼꼼히 확인하고, 개발자가 오래 갈 생각인지 따져 보며, vibe-coded 플러그인은 먼저 써 볼 수 있는 데모가 있을 때만 사라는 것이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "vibe-coded\nプラグイン、誰が買うのか",
+          "body": "Attackはvibe-codedプラグインの実需を、AIで作る開発者二人に聞いた。",
+          "mini_headline": "vibe-codedプラグインの需要",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "vibe-codedプラグインはあちこちにあるが、それは本当に市場を席巻しているということなのか。AIの力を借りて作られたこれらのプラグインはマーケットプレイスを埋め尽くしているが、実際に買う人はいるのだろうか。"
+              },
+              {
+                "t": "p",
+                "x": "Bedroom Producer’s Blog編集者のTomislav Zlaticは「vibe codingで手に入るのは、そのプラグインを『作った』人でさえおそらく読めず、ましてデバッグなどできないコードの壁だ」と警告する。読者が最も懸念したのは信頼性だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Våld LabsのJaime Paivaは、AIエージェントの助けを借りてソフトシンセTresseを開発したが、今もコードを書いている。「AIはワークフローの中の道具であって、ワークフローそのものではない」と彼は言う。「Tresseがどうあるべきかを決めたのはAIではない」。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Artists in DSPのAmorphを使えば、DAWの中で楽器やエフェクトをvibe codeで作れる。CEOのLeonardo Biasca-Caroniは「Amorphは音楽を生成しない。楽器を生成する」と語る。「完成したプラグインで用が足りるなら、それを買えばいい。Amorphは誰も売っていないもののためにある」。"
+              },
+              {
+                "t": "p",
+                "x": "Attackの助言は、セキュリティを入念に確認し、開発者が長く続けるつもりかを見極め、vibe-codedプラグインは事前に試せるデモがあるものだけを買うことだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "vibe-coded插件\n到底谁在买",
+          "body": "Attack探讨vibe-coded插件是否正在占领市场，并采访了两位借助AI的开发者。",
+          "mini_headline": "vibe-coded插件需求",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "vibe-coded插件随处可见，但这是否意味着它们真的在占领市场？这些借助AI制作的插件正充斥着市场，可真的有人在买吗？"
+              },
+              {
+                "t": "p",
+                "x": "Bedroom Producer’s Blog编辑Tomislav Zlatic警告：“vibe coding交给你的是一堵代码墙，‘做出’插件的人很可能都读不懂，更别说调试了。”信任是读者提出的最大顾虑。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Våld Labs的Jaime Paiva借助AI智能体打造了软合成器Tresse，但他仍在亲自写代码。他说：“AI是工作流程中的工具，而不是工作流程本身。”“Tresse应该是什么样子，不是由它决定的。”"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Artists in DSP的Amorph可以让你在DAW中用vibe code制作乐器和效果器。CEO Leonardo Biasca-Caroni说：“Amorph不生成音乐，它生成的是乐器。”“如果现成的插件够用，就买它。Amorph是为没人卖的东西准备的。”"
+              },
+              {
+                "t": "p",
+                "x": "Attack的建议是：做好安全方面的尽职调查，问问开发者是否打算长期做下去，并且只购买提供可先试用演示版的vibe-coded插件。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "¿Quién compra realmente\nlos plugins vibe-coded?",
+          "body": "Attack se pregunta si los plugins vibe-coded dominan el mercado y habla con dos desarrolladores que usan AI.",
+          "mini_headline": "Demanda de plugins vibe-coded",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Los plugins vibe-coded están por todas partes, pero ¿significa eso que realmente se están apoderando del mercado? Hechos con ayuda de AI, estos plugins están saturando el mercado, pero ¿alguien los compra de verdad?"
+              },
+              {
+                "t": "p",
+                "x": "Tomislav Zlatic, editor de Bedroom Producer’s Blog, advierte: “El vibe coding te entrega un muro de código que probablemente quien ‘hizo’ el plugin no sabe leer, y mucho menos depurar”. La confianza fue la mayor preocupación que plantearon los lectores."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Jaime Paiva, de Våld Labs, creó su sintetizador de software Tresse con ayuda de un agente de AI, pero sigue programando. “La AI es una herramienta dentro del flujo de trabajo, no el flujo de trabajo en sí”, dice. “No fue ella quien decidió qué debía ser Tresse”."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Amorph, de Artists in DSP, permite crear con vibe coding instrumentos y efectos dentro de un DAW. “Amorph no genera música. Genera el instrumento”, dice su CEO, Leonardo Biasca-Caroni. “Si un plugin terminado cumple su función, cómpralo. Amorph es para lo que nadie vende”."
+              },
+              {
+                "t": "p",
+                "x": "El consejo de Attack: revisar a fondo la seguridad, preguntarse si los desarrolladores piensan quedarse a largo plazo y comprar plugins vibe-coded solo si tienen una demo que se pueda probar antes."
               }
             ]
           }

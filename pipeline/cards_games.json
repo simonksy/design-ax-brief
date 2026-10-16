@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "games",
   "cards": [
     {
-      "id": "games-decompdev-shutdown",
+      "id": "games-dayz-brutal",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Decomp.dev 폐쇄\nAI 저질 콘텐츠 탓",
-      "body": "AI 저질 디컴파일이 넘쳐나자 Luke Street가 decomp.dev를 닫는다.",
-      "mini_headline": "AI 슬롭에 닫힌 Decomp.dev",
+      "headline": "DayZ 개발자, AI에\n무료 BRUTAL로 답하다",
+      "body": "Dean Hall이 AI로 업계가 한계를 넘었다며 무료 BRUTAL을 공개했다.",
+      "mini_headline": "DayZ 개발자, BRUTAL 공개",
       "tool": "Games",
       "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/the-community-aspect-of-decompilation-has-been-broken-by-a-wave-of-low-effort-ai-slop-and-now-a-major-community-tool-is-shutting-down/",
+      "url": "https://www.gamesradar.com/games/our-industry-is-rotting-and-ai-pushed-things-over-the-edge-so-the-creator-of-dayz-wants-to-change-how-games-are-made-with-some-of-the-smartest-devs-in-the-industry/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,173 +19,257 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "디컴파일·리컴파일 커뮤니티에 공들이지 않은 AI 슬롭이 넘쳐나자 개발자 Luke \"encounter\" Street가 decomp.dev를 닫는다. 이 사이트는 사람이 고전 게임 수십 편을 손으로 공들여 디컴파일해 가는 과정을 기록해 왔고, 진행률 미터는 100%를 향해 차올랐다."
+            "x": "DayZ 개발자 Dean Hall은 \"우리 업계가 속부터 썩어 가고 있다\"며 AI 에이전트 주도 개발과 리버스 엔지니어링, 리컴파일이 \"상황을 벼랑 끝으로 밀어붙였다\"고 말한다. 그와 스튜디오 RocketWerkz는 개발자들이 \"Unity에서 벗어나고\" Unreal Engine 같은 주류 도구에서도 자유로워지도록 돕는 무료 오픈소스 C# 프레임워크 Brutal을 공개했다."
           },
           {
             "t": "p",
-            "x": "\"적절한 지도와 사람의 개입, 코드 리뷰가 있으면 AI가 디컴파일 과정을 크게 앞당길 수 있다는 점은 이제 분명하다\"고 Street는 썼다. \"디컴파일의 공동체적 측면이 무너졌다는 점 역시 이제 분명하다.\""
+            "x": "Brutal은 엄밀히 말해 게임 엔진이 아니다. 그래도 게임을 만들거나 자체 엔진의 기반으로 쓸 수 있다. RocketWerkz의 Kitten Space Agency가 이를 쓰고, Ludeon Studios는 RimWorld의 새 자체 엔진 Waylith Engine을 Brutal 위에 올렸다. 테스트에서 성능은 2-4x 좋아졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+            "cap": "곧 나올 Switch 2용 게임 DayZ의 스크린샷"
           },
           {
             "t": "p",
-            "x": "악용은 주로 두 갈래다. 기존 프로젝트를 포크해 AI로 \"완성\"해 버리는 경우, 그리고 커뮤니티 구성원이 게임을 디컴파일하느라 애쓰는 사이 \"덜 익은, 겨우 돌아가는 포트\"를 서둘러 내놓는 기회주의자들이다."
+            "x": "Kerbal Space Program을 만든 Felipe Falanghe는 Brutal로 차기작을 만들었다. 이 게임이 \"보여줄 수 있는 단계에 아주아주 가까워졌다\"고 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+            "cap": "Tim Sweeney"
           },
           {
             "t": "p",
-            "x": "Street는 게임처럼 꾸민 리더보드가 \"공허한 숫자 놀음\"으로 변했다고 본다. 공개 색인으로 남은 decomp.dev는 \"이제 득보다 실이 크다\"고 했다."
+            "x": "\"Unity와 Unreal이 개발자에 대한 책임을 꾸준히 저버리는 모습을 지켜봐 왔다\"고 Hall은 썼다. 그는 에이전트 기반 워크플로가 기존 소프트웨어 기업의 우위를 깎아 내리면 상황이 더 나빠질 수 있다는 경고도 했다. Epic이 \"한 해는 메타버스, 다음 해는 AI\"를 좇는다는 비판도 내놨다."
+          },
+          {
+            "t": "p",
+            "x": "\"BRUTAL은 상업용 게임을 포함해 무료로 쓸 수 있다\"고 Hall은 말한다. \"로열티는 없다.\" 출처 표기만 하면 된다. \"도구가 공개돼 있다면... 선택지가 생긴다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Decomp.dev shuts down\nunder a wave of AI slop",
-          "body": "Luke Street is closing decomp.dev, citing a flood of low-effort AI decomps and ports of classic games.",
-          "mini_headline": "Decomp.dev closes\nover AI slop",
+          "headline": "DayZ creator answers AI\nwith open-source BRUTAL",
+          "body": "Dean Hall, saying AI pushed the industry over the edge, launches BRUTAL, a free open-source dev framework.",
+          "mini_headline": "DayZ creator launches BRUTAL",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "With the decomp and recomp scene now inundated with low-effort AI slop, developer Luke \"encounter\" Street is closing decomp.dev, a site that tracked the painstaking, human-driven decompilation of dozens of classic games with a percentage meter ticking toward 100%."
+                "x": "DayZ creator Dean Hall says \"our industry is rotting from its core,\" and that AI agent-led development, reverse-engineering and recompilation \"have pushed things over the edge.\" He and studio RocketWerkz have shared Brutal, a free open-source C# framework meant to help developers \"break free of Unity\" and mainstream offerings like Unreal Engine."
               },
               {
                 "t": "p",
-                "x": "\"It is now clear that, with the right guidance, human input, and code reviews, AI can expedite the decompilation process in a significant way,\" Street writes. \"What is also now clear is that the community aspect of decompilation has been broken.\""
+                "x": "Brutal is technically not a game engine, but can be used to make games or as a base for custom engines. RocketWerkz's Kitten Space Agency uses it, and Ludeon Studios built RimWorld's new in-house Waylith Engine on it, with performance improved by 2-4x in tests."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+                "cap": "A screenshot of the upcoming Switch 2 game, DayZ"
               },
               {
                 "t": "p",
-                "x": "The abuses include forking existing projects to \"finish\" them with AI, and opportunists racing to release \"a half-baked, barely-functional port\" while community members put in the effort to decompile a game."
+                "x": "Kerbal Space Program creator Felipe Falanghe says he used Brutal to make his next game, which is \"very very close to being showable.\""
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+                "cap": "Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "Street says the gamified leaderboard has warped into \"a hollow numbers game\" and that decomp.dev as a public index \"is now causing more harm than good.\""
+                "x": "\"I have watched Unity and Unreal consistently fail to be accountable to developers,\" Hall writes, warning this could get worse as agentic workflows erode established software companies' advantages. He criticizes Epic for chasing \"the metaverse one year, AI the next.\""
+              },
+              {
+                "t": "p",
+                "x": "\"You can use BRUTAL for free, including in commercial games,\" Hall says. \"There are no royalties.\" Only attribution is required. \"If the tools are public... you have options.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Decomp.dev 폐쇄\nAI 저질 콘텐츠 탓",
-          "body": "AI 저질 디컴파일이 넘쳐나자 Luke Street가 decomp.dev를 닫는다.",
-          "mini_headline": "AI 슬롭에 닫힌 Decomp.dev",
+          "headline": "DayZ 개발자, AI에\n무료 BRUTAL로 답하다",
+          "body": "Dean Hall이 AI로 업계가 한계를 넘었다며 무료 BRUTAL을 공개했다.",
+          "mini_headline": "DayZ 개발자, BRUTAL 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "디컴파일·리컴파일 커뮤니티에 공들이지 않은 AI 슬롭이 넘쳐나자 개발자 Luke \"encounter\" Street가 decomp.dev를 닫는다. 이 사이트는 사람이 고전 게임 수십 편을 손으로 공들여 디컴파일해 가는 과정을 기록해 왔고, 진행률 미터는 100%를 향해 차올랐다."
+                "x": "DayZ 개발자 Dean Hall은 \"우리 업계가 속부터 썩어 가고 있다\"며 AI 에이전트 주도 개발과 리버스 엔지니어링, 리컴파일이 \"상황을 벼랑 끝으로 밀어붙였다\"고 말한다. 그와 스튜디오 RocketWerkz는 개발자들이 \"Unity에서 벗어나고\" Unreal Engine 같은 주류 도구에서도 자유로워지도록 돕는 무료 오픈소스 C# 프레임워크 Brutal을 공개했다."
               },
               {
                 "t": "p",
-                "x": "\"적절한 지도와 사람의 개입, 코드 리뷰가 있으면 AI가 디컴파일 과정을 크게 앞당길 수 있다는 점은 이제 분명하다\"고 Street는 썼다. \"디컴파일의 공동체적 측면이 무너졌다는 점 역시 이제 분명하다.\""
+                "x": "Brutal은 엄밀히 말해 게임 엔진이 아니다. 그래도 게임을 만들거나 자체 엔진의 기반으로 쓸 수 있다. RocketWerkz의 Kitten Space Agency가 이를 쓰고, Ludeon Studios는 RimWorld의 새 자체 엔진 Waylith Engine을 Brutal 위에 올렸다. 테스트에서 성능은 2-4x 좋아졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+                "cap": "곧 나올 Switch 2용 게임 DayZ의 스크린샷"
               },
               {
                 "t": "p",
-                "x": "악용은 주로 두 갈래다. 기존 프로젝트를 포크해 AI로 \"완성\"해 버리는 경우, 그리고 커뮤니티 구성원이 게임을 디컴파일하느라 애쓰는 사이 \"덜 익은, 겨우 돌아가는 포트\"를 서둘러 내놓는 기회주의자들이다."
+                "x": "Kerbal Space Program을 만든 Felipe Falanghe는 Brutal로 차기작을 만들었다. 이 게임이 \"보여줄 수 있는 단계에 아주아주 가까워졌다\"고 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+                "cap": "Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "Street는 게임처럼 꾸민 리더보드가 \"공허한 숫자 놀음\"으로 변했다고 본다. 공개 색인으로 남은 decomp.dev는 \"이제 득보다 실이 크다\"고 했다."
+                "x": "\"Unity와 Unreal이 개발자에 대한 책임을 꾸준히 저버리는 모습을 지켜봐 왔다\"고 Hall은 썼다. 그는 에이전트 기반 워크플로가 기존 소프트웨어 기업의 우위를 깎아 내리면 상황이 더 나빠질 수 있다는 경고도 했다. Epic이 \"한 해는 메타버스, 다음 해는 AI\"를 좇는다는 비판도 내놨다."
+              },
+              {
+                "t": "p",
+                "x": "\"BRUTAL은 상업용 게임을 포함해 무료로 쓸 수 있다\"고 Hall은 말한다. \"로열티는 없다.\" 출처 표기만 하면 된다. \"도구가 공개돼 있다면... 선택지가 생긴다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Decomp.dev閉鎖へ\nAI粗製乱造の波で",
-          "body": "Luke StreetがAI製の粗雑な解析・移植の氾濫でdecomp.devを閉じる。",
-          "mini_headline": "Decomp.devがAI粗製乱造で閉鎖",
+          "headline": "DayZの生みの親\nAIにBRUTALで応える",
+          "body": "Dean HallはAIで業界が一線を越えたとし、無料のBRUTALを公開した。",
+          "mini_headline": "DayZ開発者がBRUTALを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "デコンパイル・リコンパイルの界隈が手抜きのAIスロップであふれるなか、開発者のLuke \"encounter\" Streetがdecomp.devを閉鎖する。同サイトは、数十本のクラシックゲームを人の手で丹念にデコンパイルしていく過程を、100%へ向かって進むパーセンテージメーターで追跡してきた。"
+                "x": "DayZの生みの親Dean Hallは「業界は根幹から腐りつつある」と述べ、AIエージェント主導の開発やリバースエンジニアリング、リコンパイルが「事態を限界の先へ押しやった」と語る。Hallとスタジオ RocketWerkzは、開発者が「Unityから脱却」し、Unreal Engineなど主流の選択肢からも離れられるよう支援する無料のオープンソースC#フレームワーク、Brutalを公開した。"
               },
               {
                 "t": "p",
-                "x": "「適切な指導と人間の関与、コードレビューがあれば、AIがデコンパイル作業を大幅に加速できることは今や明らかだ」とStreetは書く。「同時に、デコンパイルのコミュニティとしての側面が壊れてしまったことも今や明らかだ」"
+                "x": "Brutalは厳密にはゲームエンジンではないが、ゲーム制作にも独自エンジンの土台にも使える。RocketWerkzのKitten Space Agencyが採用しているほか、Ludeon StudiosはRimWorldの新しい自社エンジンWaylith EngineをBrutal上に構築し、テストでは性能が2-4x向上した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+                "cap": "近日発売のSwitch 2向けゲーム、DayZのスクリーンショット"
               },
               {
                 "t": "p",
-                "x": "悪用の例としては、既存プロジェクトをフォークしてAIで「完成」させるもの、そしてコミュニティのメンバーがゲームのデコンパイルに労力を注いでいる最中に「生煮えで、かろうじて動く程度の移植版」を急いで公開する便乗者がある。"
+                "x": "Kerbal Space Programの生みの親Felipe Falangheは、Brutalで次回作を制作したと話す。その作品は「披露できる段階にとてもとても近い」という。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+                "cap": "Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "Streetによれば、ゲーム化されたリーダーボードは「空虚な数字のゲーム」に変質し、公開インデックスとしてのdecomp.devは「今や益より害のほうが大きい」という。"
+                "x": "「UnityとUnrealが開発者への説明責任を果たさない姿を、ずっと見てきた」とHallは書き、エージェント型ワークフローが既存ソフトウェア企業の優位を崩すにつれ、状況はさらに悪化しうると警告する。またEpicについて「ある年はメタバース、翌年はAI」を追いかけていると批判する。"
+              },
+              {
+                "t": "p",
+                "x": "「BRUTALは商用ゲームを含め無料で使える」とHallは言う。「ロイヤリティはない」。必要なのはクレジット表記だけだ。「ツールが公開されていれば...選択肢がある」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Decomp.dev关停\nAI垃圾内容泛滥",
-          "body": "Luke Street以低质AI反编译和经典游戏移植泛滥为由关闭decomp.dev。",
-          "mini_headline": "Decomp.dev因AI垃圾内容关闭",
+          "headline": "DayZ之父以开源\nBRUTAL回应AI",
+          "body": "Dean Hall称AI把行业推过了临界点，推出免费开源开发框架BRUTAL。",
+          "mini_headline": "DayZ之父推出BRUTAL",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "随着反编译与重编译圈子被低质量的AI垃圾内容淹没，开发者Luke \"encounter\" Street将关闭decomp.dev。该网站以一个向100%推进的百分比进度条，记录了数十款经典游戏由人工精心完成的反编译进程。"
+                "x": "DayZ之父Dean Hall表示，“我们的行业正从核心开始腐烂”，而AI智能体主导的开发、逆向工程和重新编译“已把局面推过了临界点”。他与工作室RocketWerkz共享了Brutal——一个免费开源的C#框架，旨在帮助开发者“摆脱Unity”以及Unreal Engine等主流方案。"
               },
               {
                 "t": "p",
-                "x": "“现在已经很清楚，在恰当的引导、人工投入和代码审查下，AI可以显著加快反编译进程，”Street写道，“同样清楚的是，反编译的社区属性已经被破坏了。”"
+                "x": "严格来说，Brutal并不是游戏引擎，但可用于制作游戏，或作为自定义引擎的基础。RocketWerkz的Kitten Space Agency正在使用它；Ludeon Studios则基于它打造了RimWorld全新的自研引擎Waylith Engine，测试中性能提升了2-4x。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+                "cap": "即将登陆Switch 2的游戏DayZ截图"
               },
               {
                 "t": "p",
-                "x": "滥用行为包括分叉现有项目再用AI将其“完成”，以及在社区成员辛苦反编译某款游戏时，投机者抢先发布“半生不熟、勉强能运行的移植版”。"
+                "x": "Kerbal Space Program之父Felipe Falanghe表示，他用Brutal制作了自己的下一款游戏，这款游戏“已非常非常接近可以展示的阶段”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+                "cap": "Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "Street表示，游戏化的排行榜已经扭曲成“空洞的数字游戏”，而作为公共索引的decomp.dev“如今弊大于利”。"
+                "x": "“我看着Unity和Unreal一贯未能对开发者负责，”Hall写道。他警告称，随着智能体工作流削弱老牌软件公司的优势，情况可能进一步恶化。他还批评Epic“一年追逐元宇宙，第二年又追逐AI”。"
+              },
+              {
+                "t": "p",
+                "x": "“你可以免费使用BRUTAL，包括用于商业游戏，”Hall说，“没有版税。”只需署名即可。“如果工具是公开的...你就有选择。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Decomp.dev cierra ante una ola\nde basura generada con AI",
-          "body": "Luke Street cierra decomp.dev ante la avalancha de decompilaciones y ports de juegos clásicos con AI de baja calidad.",
-          "mini_headline": "Decomp.dev cierra por la basura de AI",
+          "headline": "Creador de DayZ responde a la AI\ncon BRUTAL, de código abierto",
+          "body": "Dean Hall, que culpa a la AI de llevar la industria al límite, lanza BRUTAL, un framework gratuito de código abierto.",
+          "mini_headline": "El creador de DayZ lanza BRUTAL",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Con la escena de la decompilación y la recompilación inundada de basura de AI de baja calidad, el desarrollador Luke \"encounter\" Street cierra decomp.dev, un sitio que seguía la laboriosa decompilación hecha por personas de decenas de juegos clásicos con un medidor de porcentaje que avanzaba hacia el 100%."
+                "x": "El creador de DayZ, Dean Hall, afirma que \"nuestra industria se está pudriendo desde su núcleo\" y que el desarrollo dirigido por agentes de AI, la ingeniería inversa y la recompilación \"han llevado las cosas al límite\". Él y el estudio RocketWerkz han compartido Brutal, un framework gratuito de código abierto en C# pensado para ayudar a los desarrolladores a \"liberarse de Unity\" y de opciones dominantes como Unreal Engine."
               },
               {
                 "t": "p",
-                "x": "\"Ahora está claro que, con la orientación adecuada, la intervención humana y revisiones de código, la AI puede acelerar de forma significativa el proceso de decompilación\", escribe Street. \"Lo que también está claro ahora es que el aspecto comunitario de la decompilación se ha roto\"."
+                "x": "Técnicamente, Brutal no es un motor de juego, pero puede usarse para crear juegos o como base para motores propios. Kitten Space Agency, de RocketWerkz, lo utiliza, y Ludeon Studios construyó sobre él el nuevo motor interno de RimWorld, Waylith Engine, con mejoras de rendimiento de 2-4x en las pruebas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+                "cap": "Captura de pantalla de DayZ, el próximo juego para Switch 2"
               },
               {
                 "t": "p",
-                "x": "Los abusos incluyen hacer forks de proyectos existentes para \"terminarlos\" con AI, y oportunistas que se apresuran a publicar \"un port a medio hacer, que apenas funciona\" mientras los miembros de la comunidad se esfuerzan por decompilar un juego."
+                "x": "Felipe Falanghe, creador de Kerbal Space Program, dice que usó Brutal para hacer su próximo juego, que está \"muy, muy cerca de poder mostrarse\"."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+                "cap": "Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "Street afirma que la tabla de clasificación gamificada se ha convertido en \"un juego de números vacío\" y que decomp.dev como índice público \"ahora está causando más daño que beneficio\"."
+                "x": "\"He visto cómo Unity y Unreal fallan sistemáticamente a la hora de rendir cuentas ante los desarrolladores\", escribe Hall, y advierte que esto podría empeorar a medida que los flujos de trabajo agénticos erosionen las ventajas de las empresas de software consolidadas. Critica a Epic por perseguir \"el metaverso un año y la AI al siguiente\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Puedes usar BRUTAL gratis, incluso en juegos comerciales\", dice Hall. \"No hay regalías\". Solo se exige la atribución. \"Si las herramientas son públicas... tienes opciones\"."
               }
             ]
           }
@@ -193,121 +277,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Decomp.dev 폐쇄\nAI 저질 콘텐츠 탓",
-          "body": "Luke Street가 AI 저질 디컴파일 범람에 decomp.dev를 닫는다.",
-          "mini_headline": "AI 슬롭에 닫힌 Decomp.dev",
+          "headline": "DayZ 개발자, AI에\n무료 BRUTAL로 답하다",
+          "body": "Dean Hall이 AI로 업계가 한계를 넘었다며 무료 BRUTAL을 공개했다.",
+          "mini_headline": "DayZ 개발자, BRUTAL 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "디컴파일과 리컴파일 커뮤니티가 공들이지 않은 AI 슬롭으로 넘쳐나자, 개발자 Luke \"encounter\" Street가 decomp.dev를 닫는다. 이 사이트는 고전 게임 수십 편을 사람이 손수, 공들여 디컴파일해 가는 과정을 100%를 향해 올라가는 진행률 미터로 기록해 왔다."
+                "x": "DayZ 개발자 Dean Hall은 \"우리 업계가 속부터 썩어 가고 있다\"며, AI 에이전트 주도 개발과 리버스 엔지니어링, 리컴파일이 \"상황을 벼랑 끝으로 밀어붙였다\"고 말한다. 그와 스튜디오 RocketWerkz는 개발자들이 \"Unity에서 벗어나고\" Unreal Engine 같은 주류 도구에서도 자유로워지도록 돕는 무료 오픈소스 C# 프레임워크 Brutal을 공개했다."
               },
               {
                 "t": "p",
-                "x": "\"적절한 지도와 사람의 개입, 코드 리뷰가 있으면 AI가 디컴파일 과정을 크게 앞당길 수 있다는 점은 이제 분명하다\"고 Street는 썼다. \"디컴파일의 공동체적 측면이 무너졌다는 점 역시 이제 분명하다.\""
+                "x": "Brutal은 엄밀히 말해 게임 엔진은 아니지만, 게임을 만들거나 자체 엔진의 기반으로 쓸 수 있다. RocketWerkz의 Kitten Space Agency가 이를 사용하며, Ludeon Studios는 RimWorld의 새 자체 엔진 Waylith Engine을 Brutal 위에 구축했고 테스트에서 성능이 2-4x 향상됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+                "cap": "곧 나올 Switch 2용 게임 DayZ의 스크린샷"
               },
               {
                 "t": "p",
-                "x": "기존 프로젝트를 포크해 AI로 \"완성\"하는 일, 그리고 커뮤니티 구성원이 게임을 디컴파일하느라 애쓰는 사이 \"덜 익은, 겨우 돌아가는 포트\"를 서둘러 내놓는 기회주의자들이 대표적인 악용 사례다."
+                "x": "Kerbal Space Program을 만든 Felipe Falanghe는 Brutal로 차기작을 만들었으며, 이 게임이 \"보여줄 수 있는 단계에 아주아주 가까워졌다\"고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+                "cap": "Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "Street는 게임처럼 꾸민 리더보드가 \"공허한 숫자 놀음\"으로 변질됐고, 공개 색인으로서의 decomp.dev가 \"이제 득보다 실이 크다\"고 말한다."
+                "x": "\"Unity와 Unreal이 개발자에 대한 책임을 꾸준히 저버리는 모습을 지켜봐 왔다\"고 Hall은 썼다. 그는 에이전트 기반 워크플로가 기존 소프트웨어 기업의 우위를 깎아 내리면서 상황이 더 나빠질 수 있다고 경고한다. 또 Epic이 \"한 해는 메타버스, 다음 해는 AI\"를 좇는다고 비판한다."
+              },
+              {
+                "t": "p",
+                "x": "\"BRUTAL은 상업용 게임을 포함해 무료로 쓸 수 있다\"고 Hall은 말한다. \"로열티는 없다.\" 출처 표기만 하면 된다. \"도구가 공개돼 있다면... 선택지가 생긴다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Decomp.dev閉鎖へ\nAI粗製乱造の波で",
-          "body": "Luke StreetがAI製の粗雑な解析・移植の氾濫でdecomp.devを閉じる。",
-          "mini_headline": "Decomp.devがAI粗製乱造で閉鎖",
+          "headline": "DayZの生みの親\nAIにBRUTALで応える",
+          "body": "Dean HallはAIで業界が一線を越えたとし、無料のBRUTALを公開した。",
+          "mini_headline": "DayZ開発者がBRUTALを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "デコンパイル・リコンパイルの界隈が手抜きのAIスロップであふれるなか、開発者のLuke \"encounter\" Streetがdecomp.devを閉鎖する。同サイトは、数十本のクラシックゲームを人の手で丹念にデコンパイルしていく過程を、100%へ向かって進むパーセンテージメーターで追跡してきた。"
+                "x": "DayZの生みの親Dean Hallは「業界は根幹から腐りつつある」と述べ、AIエージェント主導の開発やリバースエンジニアリング、リコンパイルが「事態を限界の先へ押しやった」と語る。Hallとスタジオ RocketWerkzは、開発者が「Unityから脱却」し、Unreal Engineなど主流の選択肢からも離れられるよう支援する無料のオープンソースC#フレームワーク、Brutalを公開した。"
               },
               {
                 "t": "p",
-                "x": "「適切な指導と人間の関与、コードレビューがあれば、AIがデコンパイル作業を大幅に加速できることは今や明らかだ」とStreetは書く。「同時に、デコンパイルのコミュニティとしての側面が壊れてしまったことも今や明らかだ」"
+                "x": "Brutalは厳密にはゲームエンジンではないが、ゲーム制作にも独自エンジンの土台にも使える。RocketWerkzのKitten Space Agencyが採用しているほか、Ludeon StudiosはRimWorldの新しい自社エンジンWaylith EngineをBrutal上に構築し、テストでは性能が2-4x向上した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+                "cap": "近日発売のSwitch 2向けゲーム、DayZのスクリーンショット"
               },
               {
                 "t": "p",
-                "x": "悪用の例としては、既存プロジェクトをフォークしてAIで「完成」させるもの、そしてコミュニティのメンバーがゲームのデコンパイルに労力を注いでいる最中に「生煮えで、かろうじて動く程度の移植版」を急いで公開する便乗者がある。"
+                "x": "Kerbal Space Programの生みの親Felipe Falangheは、Brutalで次回作を制作したと話す。その作品は「披露できる段階にとてもとても近い」という。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+                "cap": "Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "Streetによれば、ゲーム化されたリーダーボードは「空虚な数字のゲーム」に変質し、公開インデックスとしてのdecomp.devは「今や益より害のほうが大きい」という。"
+                "x": "「UnityとUnrealが開発者への説明責任を果たさない姿を、ずっと見てきた」とHallは書き、エージェント型ワークフローが既存ソフトウェア企業の優位を崩すにつれ、状況はさらに悪化しうると警告する。またEpicについて「ある年はメタバース、翌年はAI」を追いかけていると批判する。"
+              },
+              {
+                "t": "p",
+                "x": "「BRUTALは商用ゲームを含め無料で使える」とHallは言う。「ロイヤリティはない」。必要なのはクレジット表記だけだ。「ツールが公開されていれば...選択肢がある」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Decomp.dev关停\nAI垃圾内容泛滥",
-          "body": "Luke Street以低质AI反编译和经典游戏移植泛滥为由关闭decomp.dev。",
-          "mini_headline": "Decomp.dev因AI垃圾内容关闭",
+          "headline": "DayZ之父以开源\nBRUTAL回应AI",
+          "body": "Dean Hall称AI把行业推过了临界点，推出免费开源开发框架BRUTAL。",
+          "mini_headline": "DayZ之父推出BRUTAL",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "随着反编译与重编译圈子被低质量的AI垃圾内容淹没，开发者Luke \"encounter\" Street将关闭decomp.dev。该网站以一个向100%推进的百分比进度条，记录了数十款经典游戏由人工精心完成的反编译进程。"
+                "x": "DayZ之父Dean Hall表示，“我们的行业正从核心开始腐烂”，而AI智能体主导的开发、逆向工程和重新编译“已把局面推过了临界点”。他与工作室RocketWerkz共享了Brutal——一个免费开源的C#框架，旨在帮助开发者“摆脱Unity”以及Unreal Engine等主流方案。"
               },
               {
                 "t": "p",
-                "x": "“现在已经很清楚，在恰当的引导、人工投入和代码审查下，AI可以显著加快反编译进程，”Street写道，“同样清楚的是，反编译的社区属性已经被破坏了。”"
+                "x": "严格来说，Brutal并不是游戏引擎，但可用于制作游戏，或作为自定义引擎的基础。RocketWerkz的Kitten Space Agency正在使用它；Ludeon Studios则基于它打造了RimWorld全新的自研引擎Waylith Engine，测试中性能提升了2-4x。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+                "cap": "即将登陆Switch 2的游戏DayZ截图"
               },
               {
                 "t": "p",
-                "x": "滥用行为包括分叉现有项目再用AI将其“完成”，以及在社区成员辛苦反编译某款游戏时，投机者抢先发布“半生不熟、勉强能运行的移植版”。"
+                "x": "Kerbal Space Program之父Felipe Falanghe表示，他用Brutal制作了自己的下一款游戏，这款游戏“已非常非常接近可以展示的阶段”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+                "cap": "Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "Street表示，游戏化的排行榜已经扭曲成“空洞的数字游戏”，而作为公共索引的decomp.dev“如今弊大于利”。"
+                "x": "“我看着Unity和Unreal一贯未能对开发者负责，”Hall写道。他警告称，随着智能体工作流削弱老牌软件公司的优势，情况可能进一步恶化。他还批评Epic“一年追逐元宇宙，第二年又追逐AI”。"
+              },
+              {
+                "t": "p",
+                "x": "“你可以免费使用BRUTAL，包括用于商业游戏，”Hall说，“没有版税。”只需署名即可。“如果工具是公开的...你就有选择。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Decomp.dev cierra ante una ola\nde basura generada con AI",
-          "body": "Luke Street cierra decomp.dev ante la avalancha de decompilaciones y ports de juegos clásicos con AI de baja calidad.",
-          "mini_headline": "Decomp.dev cierra por la basura de AI",
+          "headline": "Creador de DayZ responde a la AI\ncon BRUTAL, de código abierto",
+          "body": "Dean Hall, que culpa a la AI de llevar la industria al límite, lanza BRUTAL, un framework gratuito de código abierto.",
+          "mini_headline": "El creador de DayZ lanza BRUTAL",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Con la escena de la decompilación y la recompilación inundada de basura de AI de baja calidad, el desarrollador Luke \"encounter\" Street cierra decomp.dev, un sitio que seguía la laboriosa decompilación hecha por personas de decenas de juegos clásicos con un medidor de porcentaje que avanzaba hacia el 100%."
+                "x": "El creador de DayZ, Dean Hall, afirma que \"nuestra industria se está pudriendo desde su núcleo\" y que el desarrollo dirigido por agentes de AI, la ingeniería inversa y la recompilación \"han llevado las cosas al límite\". Él y el estudio RocketWerkz han compartido Brutal, un framework gratuito de código abierto en C# pensado para ayudar a los desarrolladores a \"liberarse de Unity\" y de opciones dominantes como Unreal Engine."
               },
               {
                 "t": "p",
-                "x": "\"Ahora está claro que, con la orientación adecuada, la intervención humana y revisiones de código, la AI puede acelerar de forma significativa el proceso de decompilación\", escribe Street. \"Lo que también está claro ahora es que el aspecto comunitario de la decompilación se ha roto\"."
+                "x": "Técnicamente, Brutal no es un motor de juego, pero puede usarse para crear juegos o como base para motores propios. Kitten Space Agency, de RocketWerkz, lo utiliza, y Ludeon Studios construyó sobre él el nuevo motor interno de RimWorld, Waylith Engine, con mejoras de rendimiento de 2-4x en las pruebas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+                "cap": "Captura de pantalla de DayZ, el próximo juego para Switch 2"
               },
               {
                 "t": "p",
-                "x": "Los abusos incluyen hacer forks de proyectos existentes para \"terminarlos\" con AI, y oportunistas que se apresuran a publicar \"un port a medio hacer, que apenas funciona\" mientras los miembros de la comunidad se esfuerzan por decompilar un juego."
+                "x": "Felipe Falanghe, creador de Kerbal Space Program, dice que usó Brutal para hacer su próximo juego, que está \"muy, muy cerca de poder mostrarse\"."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+                "cap": "Tim Sweeney"
               },
               {
                 "t": "p",
-                "x": "Street afirma que la tabla de clasificación gamificada se ha convertido en \"un juego de números vacío\" y que decomp.dev como índice público \"ahora está causando más daño que beneficio\"."
+                "x": "\"He visto cómo Unity y Unreal fallan sistemáticamente a la hora de rendir cuentas ante los desarrolladores\", escribe Hall, y advierte que esto podría empeorar a medida que los flujos de trabajo agénticos erosionen las ventajas de las empresas de software consolidadas. Critica a Epic por perseguir \"el metaverso un año y la AI al siguiente\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Puedes usar BRUTAL gratis, incluso en juegos comerciales\", dice Hall. \"No hay regalías\". Solo se exige la atribución. \"Si las herramientas son públicas... tienes opciones\"."
               }
             ]
           }
@@ -315,15 +455,15 @@
       }
     },
     {
-      "id": "games-shogun2-pulled",
+      "id": "games-drunken-goddess",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sega, Shogun 2\nAI-upscaled 철회",
-      "body": "Sega가 이틀 만에 AI-upscaled Shogun 2를 내리고 원작을 살린다.",
-      "mini_headline": "Shogun 2 리메이크 판매 중단",
+      "headline": "AI 모방작 우려에\n호러 게임, 데모 철회",
+      "body": "호러 게임 개발진이 AI 복제를 걱정해 Steam 데모를 비공개 시연으로 바꿨다.",
+      "mini_headline": "AI 복제 우려에 데모 철회",
       "tool": "Games",
       "source": "Kotaku",
-      "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
+      "url": "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -331,179 +471,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+            "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
           },
           {
             "t": "p",
-            "x": "Total War: Shogun 2 – Complete Edition은 October 13 출시 직후 Steam에서 부정적 리뷰 세례를 받았다. 그래픽 문제, 새로 생기거나 그대로 남은 버그, 조악한 UI에 더해 고지도 없이 게임 내 아트에 AI 업스케일링을 쓴 탓이다. Sega는 원작 판매마저 중단하고 가격을 $40로 올려 둔 상태였다."
+            "x": "Drunken Goddess Reflux는 악마와 러시안룰렛을 벌이는 애니메이션풍 호러 게임이다. 다음 주 Steam Next Fest 기간에 무료 데모를 낼 계획이었다. 그런데 생성형 AI 때문에 개발진이 이를 접었다."
           },
           {
             "t": "p",
-            "x": "\"Total War: Shogun 2 – Complete Edition이 여러분의 기대와 저희의 기준 모두에 미치지 못했다는 점을 알고 있습니다\"라고 Sega는 X에 썼다. 조사하는 동안에는 플랫폼 홀더들과 함께 게임 판매를 \"일시적으로\" 멈추고, 이전 버전 판매를 재개할 계획이다."
-          },
-          {
-            "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-            "cap": "© Creative Assembly / Kotaku"
+            "x": "\"10월 19일 월요일로 예정했던 Drunken Goddess Reflux 데모의 공개 배포를 취소하고, 대신 제한된 인원을 대상으로 비공개 플레이 세션을 열기로 했다\"고 개발사 Alliance Arts는 Steam에 썼다."
           },
           {
             "t": "p",
-            "x": "성명은 게임 아트의 AI 업스케일링을 언급하지 않았고, Steam 페이지에도 여전히 AI 사용 고지가 없다. 리메이크의 리뷰 약 2,000건 가운데 긍정 평가는 17-percent뿐이다."
+            "x": "스트리밍과 플레이 영상을 막는 방법은 이만한 규모의 팀이 감당하기 어려웠다. 팀은 \"데모 내용을 바탕으로 이 게임의 연출과 게임플레이를 모방하거나 복제한 작품이 AI 등의 도구로 빠르게 만들어져 게임 출시보다 먼저 나올 수 있다는 점이 우려된다\"고 밝혔다."
+          },
+          {
+            "t": "video",
+            "yt": "SRFDW2Pm9nk"
+          },
+          {
+            "t": "p",
+            "x": "이 게임의 Steam 페이지 팔로워는 이미 25,000명이 넘고, 위시리스트 순위는 65위다. Kotaku에 따르면 이번 달 Claude Opus 같은 AI 도구가 게임계를 뒤흔들었다. 바이브 코딩으로 만든 이식판과 매시업, 프로토타입이 소셜 미디어에 쏟아졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sega pulls AI-upscaled\nShogun 2 from sale",
-          "body": "Sega is pulling the AI-upscaled Shogun 2 Complete Edition two days after launch and will bring back the original.",
-          "mini_headline": "Shogun 2 remake\npulled from sale",
+          "headline": "Horror game drops its demo\nto dodge AI copycats",
+          "body": "Drunken Goddess Reflux's devs swapped a free Steam demo for a closed play session, fearing AI clones before launch.",
+          "mini_headline": "Demo pulled over AI clones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Total War: Shogun 2 – Complete Edition launched October 13 to an onslaught of negative Steam reviews over graphical problems, new and old bugs, a crummy UI and the undeclared use of AI upscaling for in-game art. Sega had also pulled the original from sale and raised the price to $40."
+                "x": "Drunken Goddess Reflux is an anime horror game in which you play Russian Roulette with a demon. It was supposed to get a free demo during next week's Steam Next Fest, but the developers have ditched that plan because of generative AI."
               },
               {
                 "t": "p",
-                "x": "\"We're aware that Total War: Shogun 2 – Complete Edition has fallen short of both your expectations and our own standards,\" Sega wrote on X. It is working with platform holders to \"temporarily\" remove the game from sale while it investigates, and plans to reinstate sale of the previous version."
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-                "cap": "© Creative Assembly / Kotaku"
+                "x": "\"We have decided to cancel the public release of the Drunken Goddess Reflux demo, originally scheduled for Monday, October 19, and will instead hold a closed play session for a limited number of participants,\" developer Alliance Arts wrote on Steam."
               },
               {
                 "t": "p",
-                "x": "The statement doesn't address the AI upscaling of the game's artwork, and the Steam page still lacks an AI declaration. The remake sits at 17-percent positive out of nearly 2,000 reviews."
+                "x": "Restricting streaming and gameplay videos would have been too impractical for a team their size to enforce. \"We are concerned that, based on the content of the demo, works imitating or replicating this game's presentation and gameplay could be quickly produced using AI or other tools and released ahead of the game's launch,\" the team wrote."
+              },
+              {
+                "t": "video",
+                "yt": "SRFDW2Pm9nk"
+              },
+              {
+                "t": "p",
+                "x": "The game's Steam page already has over 25,000 followers and ranks 65th among the top wishlisted games. Kotaku notes AI tools like Claude Opus have upended gaming this month as vibe-coded ports, mash-ups and prototypes flood social media."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sega, Shogun 2\nAI-upscaled 철회",
-          "body": "Sega가 이틀 만에 AI-upscaled Shogun 2를 내리고 원작을 살린다.",
-          "mini_headline": "Shogun 2 리메이크 판매 중단",
+          "headline": "AI 모방작 우려에\n호러 게임, 데모 철회",
+          "body": "호러 게임 개발진이 AI 복제를 걱정해 Steam 데모를 비공개 시연으로 바꿨다.",
+          "mini_headline": "AI 복제 우려에 데모 철회",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Total War: Shogun 2 – Complete Edition은 October 13 출시 직후 Steam에서 부정적 리뷰 세례를 받았다. 그래픽 문제, 새로 생기거나 그대로 남은 버그, 조악한 UI에 더해 고지도 없이 게임 내 아트에 AI 업스케일링을 쓴 탓이다. Sega는 원작 판매마저 중단하고 가격을 $40로 올려 둔 상태였다."
+                "x": "Drunken Goddess Reflux는 악마와 러시안룰렛을 벌이는 애니메이션풍 호러 게임이다. 다음 주 Steam Next Fest 기간에 무료 데모를 낼 계획이었다. 그런데 생성형 AI 때문에 개발진이 이를 접었다."
               },
               {
                 "t": "p",
-                "x": "\"Total War: Shogun 2 – Complete Edition이 여러분의 기대와 저희의 기준 모두에 미치지 못했다는 점을 알고 있습니다\"라고 Sega는 X에 썼다. 조사하는 동안에는 플랫폼 홀더들과 함께 게임 판매를 \"일시적으로\" 멈추고, 이전 버전 판매를 재개할 계획이다."
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-                "cap": "© Creative Assembly / Kotaku"
+                "x": "\"10월 19일 월요일로 예정했던 Drunken Goddess Reflux 데모의 공개 배포를 취소하고, 대신 제한된 인원을 대상으로 비공개 플레이 세션을 열기로 했다\"고 개발사 Alliance Arts는 Steam에 썼다."
               },
               {
                 "t": "p",
-                "x": "성명은 게임 아트의 AI 업스케일링을 언급하지 않았고, Steam 페이지에도 여전히 AI 사용 고지가 없다. 리메이크의 리뷰 약 2,000건 가운데 긍정 평가는 17-percent뿐이다."
+                "x": "스트리밍과 플레이 영상을 막는 방법은 이만한 규모의 팀이 감당하기 어려웠다. 팀은 \"데모 내용을 바탕으로 이 게임의 연출과 게임플레이를 모방하거나 복제한 작품이 AI 등의 도구로 빠르게 만들어져 게임 출시보다 먼저 나올 수 있다는 점이 우려된다\"고 밝혔다."
+              },
+              {
+                "t": "video",
+                "yt": "SRFDW2Pm9nk"
+              },
+              {
+                "t": "p",
+                "x": "이 게임의 Steam 페이지 팔로워는 이미 25,000명이 넘고, 위시리스트 순위는 65위다. Kotaku에 따르면 이번 달 Claude Opus 같은 AI 도구가 게임계를 뒤흔들었다. 바이브 코딩으로 만든 이식판과 매시업, 프로토타입이 소셜 미디어에 쏟아졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sega、Shogun 2\nAI-upscaled版撤回",
-          "body": "SegaはAI-upscaledのShogun 2を発売2日で取り下げ、旧版を戻す。",
-          "mini_headline": "Shogun 2リメイク販売停止",
+          "headline": "AI模倣作を警戒し\nホラーゲームが体験版中止",
+          "body": "ホラーゲームの開発陣が、AI模倣作を恐れ、Steamの体験版を非公開試遊会に切り替えた。",
+          "mini_headline": "AI模倣を恐れ体験版を撤回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Total War: Shogun 2 – Complete EditionはOctober 13に発売されたが、グラフィックの不具合、新旧のバグ、出来の悪いUI、そしてゲーム内アートへのAIアップスケーリングの無申告使用をめぐり、Steamで否定的なレビューが殺到した。Segaはオリジナル版の販売も停止し、価格を$40に引き上げていた。"
+                "x": "Drunken Goddess Refluxは、悪魔とロシアンルーレットに興じるアニメ調ホラーゲームだ。来週のSteam Next Fest期間中に無料体験版を配信する予定だったが、開発陣は生成AIを理由にその計画を取りやめた。"
               },
               {
                 "t": "p",
-                "x": "「Total War: Shogun 2 – Complete Editionが皆さまの期待にも、私たち自身の基準にも届かなかったことを認識しています」とSegaはXに投稿した。調査を進める間、プラットフォーム各社と協力して本作を「一時的に」販売停止にし、以前のバージョンの販売を再開する予定だという。"
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-                "cap": "© Creative Assembly / Kotaku"
+                "x": "「10月19日（月）に予定していたDrunken Goddess Reflux体験版の一般公開を中止し、代わりに人数を限定したクローズドプレイセッションを実施することにした」と、開発元のAlliance ArtsはSteamに記した。"
               },
               {
                 "t": "p",
-                "x": "声明はゲームのアートワークのAIアップスケーリングには触れておらず、Steamページにも依然としてAI使用の申告がない。リメイク版は約2,000件のレビューのうち好評が17-percentにとどまっている。"
+                "x": "配信やプレイ動画を制限するのは、この規模のチームが徹底するにはあまりに現実的でなかった。チームは「体験版の内容をもとに、本作の演出やゲームプレイを模倣・複製した作品がAIなどのツールで素早く作られ、本作の発売より先にリリースされることを懸念している」と記した。"
+              },
+              {
+                "t": "video",
+                "yt": "SRFDW2Pm9nk"
+              },
+              {
+                "t": "p",
+                "x": "本作のSteamページはすでにフォロワーが25,000人を超え、ウィッシュリスト上位タイトルで65位に入っている。Kotakuは、バイブコーディングで作られた移植版やマッシュアップ、プロトタイプがSNSにあふれ、今月はClaude OpusのようなAIツールがゲーム界を揺るがしたと指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sega下架Shogun 2\nAI-upscaled版",
-          "body": "Sega在发售两天后下架AI-upscaled的Shogun 2，并将恢复销售原版。",
-          "mini_headline": "Shogun 2重制版下架",
+          "headline": "担心AI抄袭\n恐怖游戏撤下试玩版",
+          "body": "一款恐怖游戏的开发者担心上市前遭AI克隆，把Steam免费试玩版改为封闭试玩活动。",
+          "mini_headline": "因AI克隆担忧撤下试玩版",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Total War: Shogun 2 – Complete Edition于October 13发售后，在Steam上遭到差评围攻，原因包括画面问题、新旧bug、糟糕的UI，以及未经声明在游戏内美术中使用AI放大。Sega此前还下架了原版，并将价格提高到$40。"
+                "x": "Drunken Goddess Reflux是一款动漫风恐怖游戏，玩家要与恶魔玩俄罗斯轮盘赌。它原定在下周的Steam Next Fest期间推出免费试玩版，但开发者因生成式AI放弃了这一计划。"
               },
               {
                 "t": "p",
-                "x": "“我们意识到，Total War: Shogun 2 – Complete Edition既未达到各位的期望，也未达到我们自己的标准，”Sega在X上写道。Sega正与各平台方合作，在调查期间“暂时”下架该游戏，并计划恢复旧版本的销售。"
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-                "cap": "© Creative Assembly / Kotaku"
+                "x": "“我们决定取消原定于10月19日（星期一）公开发布的Drunken Goddess Reflux试玩版，改为面向有限人数的参与者举办封闭试玩会，”开发商Alliance Arts在Steam上写道。"
               },
               {
                 "t": "p",
-                "x": "声明没有回应游戏美术使用AI放大的问题，Steam页面也仍未标注AI使用声明。这款重制版在近2,000条评测中好评率仅为17-percent。"
+                "x": "对这样规模的团队来说，限制直播和游戏视频难以落实。团队写道：“我们担心，基于试玩版的内容，模仿或复制本作表现形式与玩法的作品可能会借助AI或其他工具迅速制作出来，并抢在本作发售前推出。”"
+              },
+              {
+                "t": "video",
+                "yt": "SRFDW2Pm9nk"
+              },
+              {
+                "t": "p",
+                "x": "该作的Steam页面已有超过25,000名关注者，在愿望单热门游戏中排名第65位。Kotaku指出，随着氛围编程制作的移植版、混搭作品和原型在社交媒体上泛滥，Claude Opus等AI工具在本月颠覆了游戏界。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sega retira el Shogun 2\nAI-upscaled de la venta",
-          "body": "Sega retira la Shogun 2 Complete Edition AI-upscaled dos días después de su lanzamiento y recuperará la original.",
-          "mini_headline": "Retiran de la venta el remake de Shogun 2",
+          "headline": "Juego de terror retira su demo\npara evitar imitaciones con AI",
+          "body": "Los creadores de Drunken Goddess Reflux cambiaron su demo en Steam por una sesión cerrada, temiendo clones de AI.",
+          "mini_headline": "Retiran una demo por clones de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Total War: Shogun 2 – Complete Edition salió el October 13 en medio de una avalancha de reseñas negativas en Steam por problemas gráficos, errores nuevos y antiguos, una UI deficiente y el uso no declarado de escalado con AI en el arte del juego. Sega también había retirado de la venta el original y subido el precio a $40."
+                "x": "Drunken Goddess Reflux es un juego de terror de estilo anime en el que juegas a la ruleta rusa con un demonio. Iba a recibir una demo gratuita durante el Steam Next Fest de la próxima semana, pero los desarrolladores han descartado ese plan por culpa de la AI generativa."
               },
               {
                 "t": "p",
-                "x": "\"Somos conscientes de que Total War: Shogun 2 – Complete Edition no ha estado a la altura ni de sus expectativas ni de nuestros propios estándares\", escribió Sega en X. La compañía trabaja con los responsables de las plataformas para retirar \"temporalmente\" el juego de la venta mientras investiga, y prevé volver a vender la versión anterior."
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-                "cap": "© Creative Assembly / Kotaku"
+                "x": "\"Hemos decidido cancelar el lanzamiento público de la demo de Drunken Goddess Reflux, previsto originalmente para el lunes 19 de octubre, y en su lugar celebraremos una sesión de juego cerrada para un número limitado de participantes\", escribió en Steam el desarrollador Alliance Arts."
               },
               {
                 "t": "p",
-                "x": "El comunicado no aborda el escalado con AI del arte del juego, y la página de Steam sigue sin incluir una declaración de uso de AI. El remake tiene un 17-percent de reseñas positivas sobre casi 2,000."
+                "x": "Restringir las retransmisiones y los videos de juego habría sido demasiado poco práctico de hacer cumplir para un equipo de su tamaño. \"Nos preocupa que, a partir del contenido de la demo, se puedan producir rápidamente con AI u otras herramientas obras que imiten o reproduzcan la presentación y la jugabilidad de este juego, y que se publiquen antes de su lanzamiento\", escribió el equipo."
+              },
+              {
+                "t": "video",
+                "yt": "SRFDW2Pm9nk"
+              },
+              {
+                "t": "p",
+                "x": "La página de Steam del juego ya supera los 25,000 seguidores y ocupa el puesto 65 entre los juegos más añadidos a listas de deseos. Kotaku señala que herramientas de AI como Claude Opus han sacudido el mundo de los videojuegos este mes, mientras ports, mezclas y prototipos hechos con vibe coding inundan las redes sociales."
               }
             ]
           }
@@ -511,125 +669,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sega, Shogun 2\nAI-upscaled 철회",
-          "body": "Sega가 AI-upscaled Shogun 2를 이틀 만에 접고 원작을 되살린다.",
-          "mini_headline": "Shogun 2 리메이크 판매 중단",
+          "headline": "AI 모방작 우려에\n호러 게임, 데모 철회",
+          "body": "호러 게임 개발진이 AI 복제를 걱정해 Steam 데모를 비공개 시연으로 바꿨다.",
+          "mini_headline": "AI 복제 우려에 데모 철회",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Total War: Shogun 2 – Complete Edition은 October 13 출시와 함께 Steam에서 부정적 리뷰 세례를 받았다. 그래픽 문제, 새로 생기거나 남아 있던 버그, 조악한 UI, 그리고 고지 없이 게임 내 아트에 AI 업스케일링을 쓴 점이 이유다. Sega는 원작 판매도 중단하고 가격을 $40로 올린 상태였다."
+                "x": "Drunken Goddess Reflux는 악마와 러시안룰렛을 벌이는 애니메이션풍 호러 게임이다. 다음 주 Steam Next Fest 기간에 무료 데모를 낼 예정이었지만, 개발진은 생성형 AI 때문에 그 계획을 접었다."
               },
               {
                 "t": "p",
-                "x": "\"Total War: Shogun 2 – Complete Edition이 여러분의 기대와 저희의 기준 모두에 미치지 못했다는 점을 알고 있습니다\"라고 Sega는 X에 썼다. Sega는 조사하는 동안 플랫폼 홀더들과 함께 게임 판매를 \"일시적으로\" 중단하고, 이전 버전 판매를 재개할 계획이다."
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-                "cap": "© Creative Assembly / Kotaku"
+                "x": "\"10월 19일 월요일로 예정했던 Drunken Goddess Reflux 데모의 공개 배포를 취소하고, 대신 제한된 인원을 대상으로 비공개 플레이 세션을 열기로 했다\"고 개발사 Alliance Arts는 Steam에 썼다."
               },
               {
                 "t": "p",
-                "x": "성명은 게임 아트의 AI 업스케일링에는 답하지 않았고, Steam 페이지에는 여전히 AI 사용 고지가 없다. 리메이크는 약 2,000건의 리뷰 중 긍정 평가가 17-percent에 머물러 있다."
+                "x": "스트리밍과 플레이 영상을 제한하는 방안은 이 정도 규모의 팀이 집행하기에는 현실성이 너무 떨어졌다. 팀은 \"데모 내용을 바탕으로 이 게임의 연출과 게임플레이를 모방하거나 복제한 작품이 AI 등의 도구로 빠르게 만들어져 게임 출시보다 먼저 나올 수 있다는 점이 우려된다\"고 밝혔다."
+              },
+              {
+                "t": "video",
+                "yt": "SRFDW2Pm9nk"
+              },
+              {
+                "t": "p",
+                "x": "이 게임의 Steam 페이지는 이미 팔로워가 25,000명을 넘었고, 위시리스트 상위 게임 중 65위에 올라 있다. Kotaku는 바이브 코딩으로 만든 이식판과 매시업, 프로토타입이 소셜 미디어에 쏟아지면서 이번 달 Claude Opus 같은 AI 도구가 게임계를 뒤흔들었다고 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sega、Shogun 2\nAI-upscaled版撤回",
-          "body": "SegaはAI-upscaledのShogun 2を発売2日で取り下げ、旧版を戻す。",
-          "mini_headline": "Shogun 2リメイク販売停止",
+          "headline": "AI模倣作を警戒し\nホラーゲームが体験版中止",
+          "body": "ホラーゲームの開発陣が、AI模倣作を恐れ、Steamの体験版を非公開試遊会に切り替えた。",
+          "mini_headline": "AI模倣を恐れ体験版を撤回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Total War: Shogun 2 – Complete EditionはOctober 13に発売されたが、グラフィックの不具合、新旧のバグ、出来の悪いUI、そしてゲーム内アートへのAIアップスケーリングの無申告使用をめぐり、Steamで否定的なレビューが殺到した。Segaはオリジナル版の販売も停止し、価格を$40に引き上げていた。"
+                "x": "Drunken Goddess Refluxは、悪魔とロシアンルーレットに興じるアニメ調ホラーゲームだ。来週のSteam Next Fest期間中に無料体験版を配信する予定だったが、開発陣は生成AIを理由にその計画を取りやめた。"
               },
               {
                 "t": "p",
-                "x": "「Total War: Shogun 2 – Complete Editionが皆さまの期待にも、私たち自身の基準にも届かなかったことを認識しています」とSegaはXに投稿した。調査を進める間、プラットフォーム各社と協力して本作を「一時的に」販売停止にし、以前のバージョンの販売を再開する予定だという。"
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-                "cap": "© Creative Assembly / Kotaku"
+                "x": "「10月19日（月）に予定していたDrunken Goddess Reflux体験版の一般公開を中止し、代わりに人数を限定したクローズドプレイセッションを実施することにした」と、開発元のAlliance ArtsはSteamに記した。"
               },
               {
                 "t": "p",
-                "x": "声明はゲームのアートワークのAIアップスケーリングには触れておらず、Steamページにも依然としてAI使用の申告がない。リメイク版は約2,000件のレビューのうち好評が17-percentにとどまっている。"
+                "x": "配信やプレイ動画を制限するのは、この規模のチームが徹底するにはあまりに現実的でなかった。チームは「体験版の内容をもとに、本作の演出やゲームプレイを模倣・複製した作品がAIなどのツールで素早く作られ、本作の発売より先にリリースされることを懸念している」と記した。"
+              },
+              {
+                "t": "video",
+                "yt": "SRFDW2Pm9nk"
+              },
+              {
+                "t": "p",
+                "x": "本作のSteamページはすでにフォロワーが25,000人を超え、ウィッシュリスト上位タイトルで65位に入っている。Kotakuは、バイブコーディングで作られた移植版やマッシュアップ、プロトタイプがSNSにあふれ、今月はClaude OpusのようなAIツールがゲーム界を揺るがしたと指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sega下架Shogun 2\nAI-upscaled版",
-          "body": "Sega在发售两天后下架AI-upscaled的Shogun 2，并将恢复销售原版。",
-          "mini_headline": "Shogun 2重制版下架",
+          "headline": "担心AI抄袭\n恐怖游戏撤下试玩版",
+          "body": "一款恐怖游戏的开发者担心上市前遭AI克隆，把Steam免费试玩版改为封闭试玩活动。",
+          "mini_headline": "因AI克隆担忧撤下试玩版",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Total War: Shogun 2 – Complete Edition于October 13发售后，在Steam上遭到差评围攻，原因包括画面问题、新旧bug、糟糕的UI，以及未经声明在游戏内美术中使用AI放大。Sega此前还下架了原版，并将价格提高到$40。"
+                "x": "Drunken Goddess Reflux是一款动漫风恐怖游戏，玩家要与恶魔玩俄罗斯轮盘赌。它原定在下周的Steam Next Fest期间推出免费试玩版，但开发者因生成式AI放弃了这一计划。"
               },
               {
                 "t": "p",
-                "x": "“我们意识到，Total War: Shogun 2 – Complete Edition既未达到各位的期望，也未达到我们自己的标准，”Sega在X上写道。Sega正与各平台方合作，在调查期间“暂时”下架该游戏，并计划恢复旧版本的销售。"
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-                "cap": "© Creative Assembly / Kotaku"
+                "x": "“我们决定取消原定于10月19日（星期一）公开发布的Drunken Goddess Reflux试玩版，改为面向有限人数的参与者举办封闭试玩会，”开发商Alliance Arts在Steam上写道。"
               },
               {
                 "t": "p",
-                "x": "声明没有回应游戏美术使用AI放大的问题，Steam页面也仍未标注AI使用声明。这款重制版在近2,000条评测中好评率仅为17-percent。"
+                "x": "对这样规模的团队来说，限制直播和游戏视频难以落实。团队写道：“我们担心，基于试玩版的内容，模仿或复制本作表现形式与玩法的作品可能会借助AI或其他工具迅速制作出来，并抢在本作发售前推出。”"
+              },
+              {
+                "t": "video",
+                "yt": "SRFDW2Pm9nk"
+              },
+              {
+                "t": "p",
+                "x": "该作的Steam页面已有超过25,000名关注者，在愿望单热门游戏中排名第65位。Kotaku指出，随着氛围编程制作的移植版、混搭作品和原型在社交媒体上泛滥，Claude Opus等AI工具在本月颠覆了游戏界。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sega retira el Shogun 2\nAI-upscaled de la venta",
-          "body": "Sega retira la Shogun 2 Complete Edition AI-upscaled dos días después de su lanzamiento y recuperará la original.",
-          "mini_headline": "Retiran de la venta el remake de Shogun 2",
+          "headline": "Juego de terror retira su demo\npara evitar imitaciones con AI",
+          "body": "Los creadores de Drunken Goddess Reflux cambiaron su demo en Steam por una sesión cerrada, temiendo clones de AI.",
+          "mini_headline": "Retiran una demo por clones de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-2.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Total War: Shogun 2 – Complete Edition salió el October 13 en medio de una avalancha de reseñas negativas en Steam por problemas gráficos, errores nuevos y antiguos, una UI deficiente y el uso no declarado de escalado con AI en el arte del juego. Sega también había retirado de la venta el original y subido el precio a $40."
+                "x": "Drunken Goddess Reflux es un juego de terror de estilo anime en el que juegas a la ruleta rusa con un demonio. Iba a recibir una demo gratuita durante el Steam Next Fest de la próxima semana, pero los desarrolladores han descartado ese plan por culpa de la AI generativa."
               },
               {
                 "t": "p",
-                "x": "\"Somos conscientes de que Total War: Shogun 2 – Complete Edition no ha estado a la altura ni de sus expectativas ni de nuestros propios estándares\", escribió Sega en X. La compañía trabaja con los responsables de las plataformas para retirar \"temporalmente\" el juego de la venta mientras investiga, y prevé volver a vender la versión anterior."
-              },
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/shogun-ai-3.jpg",
-                "cap": "© Creative Assembly / Kotaku"
+                "x": "\"Hemos decidido cancelar el lanzamiento público de la demo de Drunken Goddess Reflux, previsto originalmente para el lunes 19 de octubre, y en su lugar celebraremos una sesión de juego cerrada para un número limitado de participantes\", escribió en Steam el desarrollador Alliance Arts."
               },
               {
                 "t": "p",
-                "x": "El comunicado no aborda el escalado con AI del arte del juego, y la página de Steam sigue sin incluir una declaración de uso de AI. El remake tiene un 17-percent de reseñas positivas sobre casi 2,000."
+                "x": "Restringir las retransmisiones y los videos de juego habría sido demasiado poco práctico de hacer cumplir para un equipo de su tamaño. \"Nos preocupa que, a partir del contenido de la demo, se puedan producir rápidamente con AI u otras herramientas obras que imiten o reproduzcan la presentación y la jugabilidad de este juego, y que se publiquen antes de su lanzamiento\", escribió el equipo."
+              },
+              {
+                "t": "video",
+                "yt": "SRFDW2Pm9nk"
+              },
+              {
+                "t": "p",
+                "x": "La página de Steam del juego ya supera los 25,000 seguidores y ocupa el puesto 65 entre los juegos más añadidos a listas de deseos. Kotaku señala que herramientas de AI como Claude Opus han sacudido el mundo de los videojuegos este mes, mientras ports, mezclas y prototipos hechos con vibe coding inundan las redes sociales."
               }
             ]
           }
@@ -637,327 +807,15 @@
       }
     },
     {
-      "id": "games-nemotron-bolt-skyrimnet",
+      "id": "games-sakurai-originality",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NVIDIA 4GB NPC\n모델, SkyrimNET로",
-      "body": "4GB Nemotron 3.5 Bolt가 Oct. 23 SkyrimNET에 실린다.",
-      "mini_headline": "SkyrimNET에 NVIDIA NPC 모델",
+      "headline": "사쿠라이, 독창성을\nAI 복제 방패로 본다",
+      "body": "사쿠라이는 독창적인 게임일수록 AI가 베끼기 어렵지만 팔기도 어렵다고 본다.",
+      "mini_headline": "사쿠라이가 본 독창성과 AI",
       "tool": "Games",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-          },
-          {
-            "t": "p",
-            "x": "RTX Spark 노트북이 금요일인 Oct. 16 수백 개의 게임, 3D-Guided Neural Rendering을 갖춘 DLSS 5와 함께 나온다. DLSS 5는 Oct. 23 RTX Remix에도 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "Nemotron 3.5 Bolt E4B 4GB는 NVIDIA ACE용 3세대 SLM이다. ACE는 게임 속 AI 에이전트를 만드는 도구 모음이다. 자연스러운 대화에 멀티턴 도구 사용을 더했고, 메모리를 적게 쓰면서 첫 토큰을 빨리 내놓도록 설계했다."
-          },
-          {
-            "t": "p",
-            "x": "Oct. 23부터 플레이어는 SkyrimNET에서 이 모델을 써 볼 수 있다. SkyrimNET은 MinLL이 만든 Skyrim용 AI NPC 모딩 플랫폼이다. 모든 NPC가 저마다 기억과 목소리, 자율성을 지닌 대본 없는 캐릭터가 된다."
-          },
-          {
-            "t": "p",
-            "x": "Remix 1.6도 Oct. 23 나온다. ComfyUI Version 2로 AI 텍스처 생성을 전면 개편해, 모더는 API 설정 없이 RTX Remix 안에서 PBR 머티리얼을 만든다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "NVIDIA's 4GB NPC model\narrives in SkyrimNET",
-          "body": "NVIDIA's 4GB third-gen ACE model, Nemotron 3.5 Bolt, arrives Oct. 23 inside SkyrimNET's unscripted AI NPC mod.",
-          "mini_headline": "NVIDIA NPC model\nfor SkyrimNET",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark laptops launch Friday, Oct. 16 with hundreds of games and DLSS 5 with 3D-Guided Neural Rendering; DLSS 5 also comes to RTX Remix on Oct. 23."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron 3.5 Bolt E4B 4GB is the third-generation SLM for NVIDIA ACE, the suite for building in-game AI agents. It combines natural conversation with multi-turn tool use and is designed for a low memory footprint and fast time to first token."
-              },
-              {
-                "t": "p",
-                "x": "Starting Oct. 23, players can test it inside SkyrimNET, an AI NPC modding platform by MinLL for Skyrim that turns every NPC into an unscripted character with personal memory, voice and autonomy."
-              },
-              {
-                "t": "p",
-                "x": "Remix 1.6, also launching Oct. 23, overhauls AI texture generation with ComfyUI Version 2, letting modders generate PBR materials inside RTX Remix with zero API setup."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "NVIDIA 4GB NPC\n모델, SkyrimNET로",
-          "body": "4GB Nemotron 3.5 Bolt가 Oct. 23 SkyrimNET에 실린다.",
-          "mini_headline": "SkyrimNET에 NVIDIA NPC 모델",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark 노트북이 금요일인 Oct. 16 수백 개의 게임, 3D-Guided Neural Rendering을 갖춘 DLSS 5와 함께 나온다. DLSS 5는 Oct. 23 RTX Remix에도 들어간다."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron 3.5 Bolt E4B 4GB는 NVIDIA ACE용 3세대 SLM이다. ACE는 게임 속 AI 에이전트를 만드는 도구 모음이다. 자연스러운 대화에 멀티턴 도구 사용을 더했고, 메모리를 적게 쓰면서 첫 토큰을 빨리 내놓도록 설계했다."
-              },
-              {
-                "t": "p",
-                "x": "Oct. 23부터 플레이어는 SkyrimNET에서 이 모델을 써 볼 수 있다. SkyrimNET은 MinLL이 만든 Skyrim용 AI NPC 모딩 플랫폼이다. 모든 NPC가 저마다 기억과 목소리, 자율성을 지닌 대본 없는 캐릭터가 된다."
-              },
-              {
-                "t": "p",
-                "x": "Remix 1.6도 Oct. 23 나온다. ComfyUI Version 2로 AI 텍스처 생성을 전면 개편해, 모더는 API 설정 없이 RTX Remix 안에서 PBR 머티리얼을 만든다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NVIDIAの4GB NPC\nモデルがSkyrimNETに",
-          "body": "4GBのNemotron 3.5 BoltがOct. 23にSkyrimNETへ登場する。",
-          "mini_headline": "SkyrimNETにNVIDIAのNPCモデル",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-              },
-              {
-                "t": "p",
-                "x": "RTX Sparkノートが金曜日のOct. 16に発売され、数百本のゲームと、3D-Guided Neural Renderingを備えたDLSS 5に対応する。DLSS 5はOct. 23にRTX Remixにも導入される。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron 3.5 Bolt E4B 4GBは、ゲーム内AIエージェントを構築するためのスイートであるNVIDIA ACE向けの第3世代SLMだ。自然な会話とマルチターンのツール利用を組み合わせ、少ないメモリ消費と最初のトークンまでの速さを重視して設計されている。"
-              },
-              {
-                "t": "p",
-                "x": "Oct. 23から、プレイヤーはSkyrimNETの中でこれを試せる。SkyrimNETはMinLLが手がけるSkyrim向けのAI NPC Modプラットフォームで、すべてのNPCを個人の記憶、声、自律性を持つ台本のないキャラクターに変える。"
-              },
-              {
-                "t": "p",
-                "x": "同じくOct. 23に公開されるRemix 1.6は、ComfyUI Version 2でAIテクスチャ生成を刷新し、ModderがAPIの設定なしにRTX Remix内でPBRマテリアルを生成できるようにする。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NVIDIA 4GB NPC\n模型登陆SkyrimNET",
-          "body": "4GB的Nemotron 3.5 Bolt将于Oct. 23登陆SkyrimNET。",
-          "mini_headline": "NVIDIA NPC模型登陆SkyrimNET",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark笔记本将于周五（Oct. 16）上市，支持数百款游戏以及带有3D-Guided Neural Rendering的DLSS 5；DLSS 5也将于Oct. 23登陆RTX Remix。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron 3.5 Bolt E4B 4GB是NVIDIA ACE的第三代SLM，NVIDIA ACE是用于构建游戏内AI智能体的套件。它将自然对话与多轮工具调用相结合，设计目标是低内存占用和更快的首个token响应。"
-              },
-              {
-                "t": "p",
-                "x": "从Oct. 23起，玩家可以在SkyrimNET中试用它。SkyrimNET是MinLL为Skyrim打造的AI NPC模组平台，能把每个NPC变成拥有个人记忆、声音和自主性的无脚本角色。"
-              },
-              {
-                "t": "p",
-                "x": "同样于Oct. 23推出的Remix 1.6借助ComfyUI Version 2全面改进了AI纹理生成，模组作者无需任何API设置即可在RTX Remix中生成PBR材质。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El modelo NPC de 4GB de NVIDIA\nllega a SkyrimNET",
-          "body": "Nemotron 3.5 Bolt, modelo ACE de 4GB de NVIDIA, llega el Oct. 23 a SkyrimNET, mod de AI NPC sin guion.",
-          "mini_headline": "Modelo NPC de NVIDIA para SkyrimNET",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los portátiles RTX Spark salen a la venta el viernes, Oct. 16, con cientos de juegos y DLSS 5 con 3D-Guided Neural Rendering; DLSS 5 también llega a RTX Remix el Oct. 23."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron 3.5 Bolt E4B 4GB es el SLM de tercera generación para NVIDIA ACE, el conjunto de herramientas para crear agentes de AI dentro del juego. Combina conversación natural con uso de herramientas en varios turnos y está diseñado para ocupar poca memoria y ofrecer un tiempo rápido hasta el primer token."
-              },
-              {
-                "t": "p",
-                "x": "A partir del Oct. 23, los jugadores pueden probarlo en SkyrimNET, una plataforma de mods de AI NPC creada por MinLL para Skyrim que convierte a cada NPC en un personaje sin guion con memoria personal, voz y autonomía."
-              },
-              {
-                "t": "p",
-                "x": "Remix 1.6, que también llega el Oct. 23, renueva la generación de texturas con AI mediante ComfyUI Version 2 y permite a los modders generar materiales PBR dentro de RTX Remix sin configurar ninguna API."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "NVIDIA 4GB NPC\n모델, SkyrimNET로",
-          "body": "4GB Nemotron 3.5 Bolt가 Oct. 23 SkyrimNET에 온다.",
-          "mini_headline": "SkyrimNET에 NVIDIA NPC 모델",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark 노트북이 금요일인 Oct. 16 수백 개의 게임, 그리고 3D-Guided Neural Rendering을 갖춘 DLSS 5와 함께 출시된다. DLSS 5는 Oct. 23 RTX Remix에도 들어온다."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron 3.5 Bolt E4B 4GB는 게임 속 AI 에이전트를 만드는 도구 모음인 NVIDIA ACE용 3세대 SLM이다. 자연스러운 대화와 멀티턴 도구 사용을 결합했고, 적은 메모리 사용량과 빠른 첫 토큰 응답을 목표로 설계했다."
-              },
-              {
-                "t": "p",
-                "x": "Oct. 23부터 플레이어는 SkyrimNET에서 이 모델을 시험해 볼 수 있다. SkyrimNET은 MinLL이 만든 Skyrim용 AI NPC 모딩 플랫폼으로, 모든 NPC를 개인 기억과 목소리, 자율성을 지닌 대본 없는 캐릭터로 바꾼다."
-              },
-              {
-                "t": "p",
-                "x": "역시 Oct. 23 출시되는 Remix 1.6은 ComfyUI Version 2로 AI 텍스처 생성을 전면 개편해, 모더가 API 설정 없이 RTX Remix 안에서 PBR 머티리얼을 생성할 수 있게 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NVIDIAの4GB NPC\nモデルがSkyrimNETに",
-          "body": "4GBのNemotron 3.5 BoltがOct. 23にSkyrimNETへ登場する。",
-          "mini_headline": "SkyrimNETにNVIDIAのNPCモデル",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-              },
-              {
-                "t": "p",
-                "x": "RTX Sparkノートが金曜日のOct. 16に発売され、数百本のゲームと、3D-Guided Neural Renderingを備えたDLSS 5に対応する。DLSS 5はOct. 23にRTX Remixにも導入される。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron 3.5 Bolt E4B 4GBは、ゲーム内AIエージェントを構築するためのスイートであるNVIDIA ACE向けの第3世代SLMだ。自然な会話とマルチターンのツール利用を組み合わせ、少ないメモリ消費と最初のトークンまでの速さを重視して設計されている。"
-              },
-              {
-                "t": "p",
-                "x": "Oct. 23から、プレイヤーはSkyrimNETの中でこれを試せる。SkyrimNETはMinLLが手がけるSkyrim向けのAI NPC Modプラットフォームで、すべてのNPCを個人の記憶、声、自律性を持つ台本のないキャラクターに変える。"
-              },
-              {
-                "t": "p",
-                "x": "同じくOct. 23に公開されるRemix 1.6は、ComfyUI Version 2でAIテクスチャ生成を刷新し、ModderがAPIの設定なしにRTX Remix内でPBRマテリアルを生成できるようにする。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NVIDIA 4GB NPC\n模型登陆SkyrimNET",
-          "body": "4GB的Nemotron 3.5 Bolt将于Oct. 23登陆SkyrimNET。",
-          "mini_headline": "NVIDIA NPC模型登陆SkyrimNET",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-              },
-              {
-                "t": "p",
-                "x": "RTX Spark笔记本将于周五（Oct. 16）上市，支持数百款游戏以及带有3D-Guided Neural Rendering的DLSS 5；DLSS 5也将于Oct. 23登陆RTX Remix。"
-              },
-              {
-                "t": "p",
-                "x": "Nemotron 3.5 Bolt E4B 4GB是NVIDIA ACE的第三代SLM，NVIDIA ACE是用于构建游戏内AI智能体的套件。它将自然对话与多轮工具调用相结合，设计目标是低内存占用和更快的首个token响应。"
-              },
-              {
-                "t": "p",
-                "x": "从Oct. 23起，玩家可以在SkyrimNET中试用它。SkyrimNET是MinLL为Skyrim打造的AI NPC模组平台，能把每个NPC变成拥有个人记忆、声音和自主性的无脚本角色。"
-              },
-              {
-                "t": "p",
-                "x": "同样于Oct. 23推出的Remix 1.6借助ComfyUI Version 2全面改进了AI纹理生成，模组作者无需任何API设置即可在RTX Remix中生成PBR材质。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El modelo NPC de 4GB de NVIDIA\nllega a SkyrimNET",
-          "body": "Nemotron 3.5 Bolt, modelo ACE de 4GB de NVIDIA, llega el Oct. 23 a SkyrimNET, mod de AI NPC sin guion.",
-          "mini_headline": "Modelo NPC de NVIDIA para SkyrimNET",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/games-on-rtx-spark-1680x945.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los portátiles RTX Spark salen a la venta el viernes, Oct. 16, con cientos de juegos y DLSS 5 con 3D-Guided Neural Rendering; DLSS 5 también llega a RTX Remix el Oct. 23."
-              },
-              {
-                "t": "p",
-                "x": "Nemotron 3.5 Bolt E4B 4GB es el SLM de tercera generación para NVIDIA ACE, el conjunto de herramientas para crear agentes de AI dentro del juego. Combina conversación natural con uso de herramientas en varios turnos y está diseñado para ocupar poca memoria y ofrecer un tiempo rápido hasta el primer token."
-              },
-              {
-                "t": "p",
-                "x": "A partir del Oct. 23, los jugadores pueden probarlo en SkyrimNET, una plataforma de mods de AI NPC creada por MinLL para Skyrim que convierte a cada NPC en un personaje sin guion con memoria personal, voz y autonomía."
-              },
-              {
-                "t": "p",
-                "x": "Remix 1.6, que también llega el Oct. 23, renueva la generación de texturas con AI mediante ComfyUI Version 2 y permite a los modders generar materiales PBR dentro de RTX Remix sin configurar ninguna API."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-bf6-paid-ai-cosmetics",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Battlefield 6\n유료 스킨에 AI 의혹",
-      "body": "유료 스킨의 시각 결함과 오타 패치를 두고 플레이어가 EA의 AI 판매를 비판한다.",
-      "mini_headline": "Battlefield 6 스킨에 AI 의혹",
-      "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -965,149 +823,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "Battlefield 6 Season 5 \"Siege of Vegas\"는 Area 51 맵으로 호평을 받았다. 시즌 패스 꾸미기 아이템은 사정이 달랐다. 권총 다섯 자루를 홀스터에 찬 오퍼레이터, 이상한 탄창 디자인, \"Secuty\"라고 적힌 팔 패치가 플레이어들의 genAI 경보를 울렸다."
+            "x": "Kirby와 Super Smash Bros 시리즈를 만든 Masahiro Sakurai가 일본 매체 Denfaminico Gamer와의 대담에서 생성형 AI를 두고 생각을 밝혔다. 독창성은 예전만큼 팔리지 않는다는 지적이다. 눈에 띄기도 어렵고 사람을 끌어들이기는 더 어렵다."
           },
           {
             "t": "p",
-            "x": "서브레딧 게시물들에는 추천이 수천 개씩 달렸다. 한 스레드에는 \"AI 생성 콘텐츠로 플레이어에게 $$$를 받는 건 최악의 무례\"라는 글이 올라왔다."
+            "x": "그래서 이미 자리 잡은 장르와 아이디어에 기대고 싶은 유혹이 생기는데, AI가 교묘하게 파고드는 지점이 바로 여기다. 이 기술은 이미 있던 것만 끌어다 쓸 뿐 새것을 만들지 못한다. 그러니 흔한 메커니즘을 쓴 게임이 gen-AI 모방작의 주요 표적이 된다."
           },
           {
             "t": "p",
-            "x": "디자인이 genAI에서 나왔다고 확인된 바는 없다. 다만 EA의 이 슈터는 전에도 출시 몇 달 뒤 AI-generated로 보이는 꾸미기 아이템을 내놓은 적이 있고, 올해 초에는 일부 Battlefield 개발자가 해고됐다."
+            "x": "그는 지난 4월 출시된 Librarian을 예로 든다. 기본 요소를 파악하고 고쳐 쓰기 쉬운 만큼 그 단순함이 AI에 딱 맞는다고 했다. 에셋 플립과 리스킨이라는 오래된 관행도 AI와 바이브 코딩 탓에 더 나빠졌다."
+          },
+          {
+            "t": "p",
+            "x": "Sakurai는 인디와 대형 스튜디오를 가리지 않고, 이런 프로젝트 대부분이 아무도 모르게 사라지리라 본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Battlefield 6 players flag\nAI art in paid cosmetics",
-          "body": "Visual artifacts and misspelled patches on paid operator cosmetics have players accusing EA of selling AI work.",
-          "mini_headline": "Players suspect AI\nin Battlefield 6 skins",
+          "headline": "Sakurai sees originality as\na shield against AI clones",
+          "body": "Masahiro Sakurai argues original games are harder for AI to rip off, though originality makes them harder to sell.",
+          "mini_headline": "Sakurai on originality vs AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Battlefield 6 Season 5, \"Siege of Vegas,\" brought praise for its Area 51 map but also season pass cosmetics that have players' genAI alarm bells ringing: an operator with five holstered pistols, odd magazine designs, and an arm patch that reads \"Secuty.\""
+                "x": "Masahiro Sakurai, creator of the Kirby and Super Smash Bros series, weighed in on generative AI in a chat with Japanese outlet Denfaminico Gamer. He points out that originality doesn't tend to sell like it used to: it's harder to stand out, and harder still to get people on board."
               },
               {
                 "t": "p",
-                "x": "Posts on the subreddit have drawn thousands of upvotes. \"Charging players $$$ for AI generated content is peak disrespect,\" read one thread."
+                "x": "That makes it tempting to fall back on established genres and ideas, which is where AI becomes insidious. The technology only draws on what's come before and can't create something new, so games with well-trodden mechanics are a prime target for a gen-AI lookalike."
               },
               {
                 "t": "p",
-                "x": "There's no confirmation the designs came from genAI, but EA's shooter previously shipped seemingly AI-generated cosmetics months after launch, and some Battlefield developers were laid off earlier this year."
+                "x": "He points to Librarian, released this past April, as an example: its simplicity is ripe for AI because the base elements are easy to comprehend and retool. AI and vibe-coding have exacerbated the old practice of asset flips and reskins."
+              },
+              {
+                "t": "p",
+                "x": "Sakurai doesn't differentiate between indie and larger studios, and believes most of these projects will die in obscurity."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Battlefield 6\n유료 스킨에 AI 의혹",
-          "body": "유료 스킨의 시각 결함과 오타 패치를 두고 플레이어가 EA의 AI 판매를 비판한다.",
-          "mini_headline": "Battlefield 6 스킨에 AI 의혹",
+          "headline": "사쿠라이, 독창성을\nAI 복제 방패로 본다",
+          "body": "사쿠라이는 독창적인 게임일수록 AI가 베끼기 어렵지만 팔기도 어렵다고 본다.",
+          "mini_headline": "사쿠라이가 본 독창성과 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Battlefield 6 Season 5 \"Siege of Vegas\"는 Area 51 맵으로 호평을 받았다. 시즌 패스 꾸미기 아이템은 사정이 달랐다. 권총 다섯 자루를 홀스터에 찬 오퍼레이터, 이상한 탄창 디자인, \"Secuty\"라고 적힌 팔 패치가 플레이어들의 genAI 경보를 울렸다."
+                "x": "Kirby와 Super Smash Bros 시리즈를 만든 Masahiro Sakurai가 일본 매체 Denfaminico Gamer와의 대담에서 생성형 AI를 두고 생각을 밝혔다. 독창성은 예전만큼 팔리지 않는다는 지적이다. 눈에 띄기도 어렵고 사람을 끌어들이기는 더 어렵다."
               },
               {
                 "t": "p",
-                "x": "서브레딧 게시물들에는 추천이 수천 개씩 달렸다. 한 스레드에는 \"AI 생성 콘텐츠로 플레이어에게 $$$를 받는 건 최악의 무례\"라는 글이 올라왔다."
+                "x": "그래서 이미 자리 잡은 장르와 아이디어에 기대고 싶은 유혹이 생기는데, AI가 교묘하게 파고드는 지점이 바로 여기다. 이 기술은 이미 있던 것만 끌어다 쓸 뿐 새것을 만들지 못한다. 그러니 흔한 메커니즘을 쓴 게임이 gen-AI 모방작의 주요 표적이 된다."
               },
               {
                 "t": "p",
-                "x": "디자인이 genAI에서 나왔다고 확인된 바는 없다. 다만 EA의 이 슈터는 전에도 출시 몇 달 뒤 AI-generated로 보이는 꾸미기 아이템을 내놓은 적이 있고, 올해 초에는 일부 Battlefield 개발자가 해고됐다."
+                "x": "그는 지난 4월 출시된 Librarian을 예로 든다. 기본 요소를 파악하고 고쳐 쓰기 쉬운 만큼 그 단순함이 AI에 딱 맞는다고 했다. 에셋 플립과 리스킨이라는 오래된 관행도 AI와 바이브 코딩 탓에 더 나빠졌다."
+              },
+              {
+                "t": "p",
+                "x": "Sakurai는 인디와 대형 스튜디오를 가리지 않고, 이런 프로젝트 대부분이 아무도 모르게 사라지리라 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Battlefield 6\n有料スキンにAI疑惑",
-          "body": "有料スキンの不自然な描写や誤字パッチに、プレイヤーはEAがAI作品を売っていると非難する。",
-          "mini_headline": "Battlefield 6スキンにAI疑惑",
+          "headline": "桜井政博、独創性は\nAI模倣への盾と見る",
+          "body": "桜井政博氏は、独創的なゲームほどAIに模倣されにくいが、その分売るのも難しいと語る。",
+          "mini_headline": "桜井政博、独創性とAIを語る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Battlefield 6のSeason 5「Siege of Vegas」は、Area 51マップで称賛を集めた一方、シーズンパスのコスメティックはプレイヤーのgenAI警報を鳴らした。ホルスターに拳銃を5丁収めたオペレーター、奇妙なマガジンのデザイン、そして「Secuty」と書かれた腕のパッチだ。"
+                "x": "KirbyやSuper Smash Brosシリーズの生みの親である桜井政博（Masahiro Sakurai）氏が、日本のメディアDenfaminico Gamerとの対談で生成AIについて語った。桜井氏によれば、独創性はかつてほど売れなくなっている。目立つことが難しく、人を引き込むのはさらに難しいという。"
               },
               {
                 "t": "p",
-                "x": "サブレディットの投稿は数千の賛成票を集めている。「AI生成コンテンツでプレイヤーから$$$を取るのは最大級の侮辱だ」と、あるスレッドは書いた。"
+                "x": "そのため既存のジャンルやアイデアに頼りたくなるが、そこにこそAIの厄介さがある。この技術は過去にあるものを引き出すだけで新しいものは生み出せないため、ありふれたメカニクスのゲームはgen-AIによる模倣作の格好の標的になる。"
               },
               {
                 "t": "p",
-                "x": "デザインがgenAIによるものだという確証はない。ただ、EAのこのシューターは以前にも発売から数か月後にAI-generatedとみられるコスメティックを配信しており、今年初めには一部のBattlefield開発者が解雇されている。"
+                "x": "桜井氏は、この4月に発売されたLibrarianを例に挙げる。基本要素が理解しやすく作り替えやすいため、そのシンプルさはAIにとって格好の素材だという。AIとバイブコーディングは、アセットフリップやリスキンという昔からの手口に拍車をかけた。"
+              },
+              {
+                "t": "p",
+                "x": "桜井氏はインディーと大手スタジオを区別しておらず、こうしたプロジェクトの多くは人知れず消えていくと考えている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Battlefield 6\n玩家质疑付费外观用AI",
-          "body": "付费干员外观出现视觉瑕疵和拼错的臂章，玩家指责EA在出售AI作品。",
-          "mini_headline": "Battlefield 6外观被疑用AI",
+          "headline": "樱井政博视原创为\n抵御AI克隆之盾",
+          "body": "樱井政博认为，原创游戏更难被AI抄袭，但原创也让游戏更难卖出去。",
+          "mini_headline": "樱井政博谈原创与AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Battlefield 6 Season 5“Siege of Vegas”的Area 51地图广受好评，但季票外观却让玩家拉响了genAI警报：一名枪套里插着五把手枪的干员、古怪的弹匣设计，以及一块写着“Secuty”的臂章。"
+                "x": "Kirby与Super Smash Bros系列的创作者樱井政博（Masahiro Sakurai）在与日本媒体Denfaminico Gamer的对谈中谈到了生成式AI。他指出，原创性已不像过去那样好卖：脱颖而出更难，让玩家买账更是难上加难。"
               },
               {
                 "t": "p",
-                "x": "subreddit上的相关帖子获得了数千个赞。其中一个帖子写道：“用AI生成的内容向玩家收取$$$，是极度的不尊重。”"
+                "x": "这让人很容易退回到成熟的类型和创意上，而AI的阴险之处正在于此。这项技术只能借鉴已有的东西，无法创造新事物，因此玩法套路陈旧的游戏就成了gen-AI仿制品的首要目标。"
               },
               {
                 "t": "p",
-                "x": "目前尚无证据证实这些设计出自genAI，但EA这款射击游戏此前就曾在发售数月后推出疑似AI-generated的外观，今年早些时候也有部分Battlefield开发人员遭到裁员。"
+                "x": "他以今年4月发布的Librarian为例：其基础元素易于理解和改造，这种简单性正好被AI利用。AI和氛围编程加剧了资产翻转和换皮这种老做法。"
+              },
+              {
+                "t": "p",
+                "x": "樱井并不区分独立工作室和大型工作室，他认为这类项目大多会默默无闻地消亡。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Battlefield 6: denuncian arte\nde AI en cosméticos de pago",
-          "body": "Fallos visuales y parches con erratas en cosméticos de pago llevan a los jugadores a acusar a EA de vender arte de AI.",
-          "mini_headline": "Sospechas de AI en las skins de Battlefield 6",
+          "headline": "Sakurai ve la originalidad como\nescudo ante los clones de AI",
+          "body": "Masahiro Sakurai sostiene que los juegos originales son más difíciles de copiar para la AI, pero también de vender.",
+          "mini_headline": "Sakurai: originalidad frente a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "La Season 5 de Battlefield 6, \"Siege of Vegas\", recibió elogios por su mapa Area 51, pero también trajo cosméticos del pase de temporada que han hecho sonar las alarmas de genAI entre los jugadores: un operador con cinco pistolas enfundadas, diseños de cargador extraños y un parche en el brazo que dice \"Secuty\"."
+                "x": "Masahiro Sakurai, creador de las series Kirby y Super Smash Bros, opinó sobre la AI generativa en una conversación con el medio japonés Denfaminico Gamer. Señala que la originalidad ya no suele vender como antes: es más difícil destacar, y todavía más difícil atraer al público."
               },
               {
                 "t": "p",
-                "x": "Las publicaciones en el subreddit han reunido miles de votos positivos. \"Cobrar $$$ a los jugadores por contenido generado con AI es el colmo de la falta de respeto\", decía un hilo."
+                "x": "Eso hace tentador recurrir a géneros e ideas ya establecidos, y ahí es donde la AI se vuelve insidiosa. La tecnología solo se nutre de lo que ya existe y no puede crear algo nuevo, así que los juegos con mecánicas muy trilladas son un blanco ideal para una imitación hecha con gen-AI."
               },
               {
                 "t": "p",
-                "x": "No hay confirmación de que los diseños procedan de genAI, pero el shooter de EA ya lanzó meses después de su estreno cosméticos aparentemente AI-generated, y algunos desarrolladores de Battlefield fueron despedidos a principios de este año."
+                "x": "Pone como ejemplo Librarian, lanzado el pasado abril: su sencillez lo hace presa fácil de la AI porque sus elementos básicos son fáciles de entender y readaptar. La AI y el vibe-coding han agravado la vieja práctica de los asset flips y los reskins."
+              },
+              {
+                "t": "p",
+                "x": "Sakurai no distingue entre estudios indie y grandes, y cree que la mayoría de estos proyectos morirán en el olvido."
               }
             ]
           }
@@ -1115,105 +997,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Battlefield 6\n유료 스킨에 AI 의혹",
-          "body": "유료 스킨의 시각적 결함과 오타 패치에 플레이어들이 EA의 AI 판매를 비판한다.",
-          "mini_headline": "Battlefield 6 스킨에 AI 의혹",
+          "headline": "사쿠라이, 독창성을\nAI 복제 방패로 본다",
+          "body": "사쿠라이는 독창적인 게임일수록 AI가 베끼기 어렵지만 팔기도 어렵다고 본다.",
+          "mini_headline": "사쿠라이가 본 독창성과 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Battlefield 6 Season 5 \"Siege of Vegas\"는 Area 51 맵으로 호평을 받았지만, 시즌 패스 꾸미기 아이템은 플레이어들의 genAI 경보를 울렸다. 권총 다섯 자루를 홀스터에 찬 오퍼레이터, 이상한 탄창 디자인, 그리고 \"Secuty\"라고 적힌 팔 패치가 그것이다."
+                "x": "Kirby와 Super Smash Bros 시리즈를 만든 Masahiro Sakurai가 일본 매체 Denfaminico Gamer와의 대담에서 생성형 AI에 대한 생각을 밝혔다. 그는 독창성이 예전만큼 잘 팔리지 않는다고 지적한다. 눈에 띄기도 어렵고, 사람들을 끌어들이기는 더 어렵다는 것이다."
               },
               {
                 "t": "p",
-                "x": "서브레딧 게시물들은 수천 개의 추천을 받았다. 한 스레드는 \"AI 생성 콘텐츠로 플레이어에게 $$$를 받는 건 최악의 무례\"라고 적었다."
+                "x": "그래서 이미 자리 잡은 장르와 아이디어에 기대고 싶은 유혹이 생기는데, AI가 교묘하게 파고드는 지점이 바로 여기다. 이 기술은 이미 있던 것만 끌어다 쓸 뿐 새로운 것을 만들지 못하므로, 흔한 메커니즘을 쓴 게임은 gen-AI 모방작의 주요 표적이 된다."
               },
               {
                 "t": "p",
-                "x": "디자인이 genAI에서 나왔다는 확인은 없다. 다만 EA의 이 슈터는 이전에도 출시 몇 달 뒤 AI-generated로 보이는 꾸미기 아이템을 내놓은 적이 있고, 올해 초에는 일부 Battlefield 개발자가 해고됐다."
+                "x": "그는 지난 4월 출시된 Librarian을 예로 든다. 기본 요소를 이해하고 고쳐 쓰기 쉬워 그 단순함이 AI에 안성맞춤이라는 것이다. AI와 바이브 코딩은 에셋 플립과 리스킨이라는 오래된 관행을 더 악화시켰다."
+              },
+              {
+                "t": "p",
+                "x": "Sakurai는 인디와 대형 스튜디오를 구분하지 않으며, 이런 프로젝트 대부분이 아무도 모르게 사라질 것으로 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Battlefield 6\n有料スキンにAI疑惑",
-          "body": "有料スキンの不自然な描写や誤字パッチに、プレイヤーはEAがAI作品を売っていると非難する。",
-          "mini_headline": "Battlefield 6スキンにAI疑惑",
+          "headline": "桜井政博、独創性は\nAI模倣への盾と見る",
+          "body": "桜井政博氏は、独創的なゲームほどAIに模倣されにくいが、その分売るのも難しいと語る。",
+          "mini_headline": "桜井政博、独創性とAIを語る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Battlefield 6のSeason 5「Siege of Vegas」は、Area 51マップで称賛を集めた一方、シーズンパスのコスメティックはプレイヤーのgenAI警報を鳴らした。ホルスターに拳銃を5丁収めたオペレーター、奇妙なマガジンのデザイン、そして「Secuty」と書かれた腕のパッチだ。"
+                "x": "KirbyやSuper Smash Brosシリーズの生みの親である桜井政博（Masahiro Sakurai）氏が、日本のメディアDenfaminico Gamerとの対談で生成AIについて語った。桜井氏によれば、独創性はかつてほど売れなくなっている。目立つことが難しく、人を引き込むのはさらに難しいという。"
               },
               {
                 "t": "p",
-                "x": "サブレディットの投稿は数千の賛成票を集めている。「AI生成コンテンツでプレイヤーから$$$を取るのは最大級の侮辱だ」と、あるスレッドは書いた。"
+                "x": "そのため既存のジャンルやアイデアに頼りたくなるが、そこにこそAIの厄介さがある。この技術は過去にあるものを引き出すだけで新しいものは生み出せないため、ありふれたメカニクスのゲームはgen-AIによる模倣作の格好の標的になる。"
               },
               {
                 "t": "p",
-                "x": "デザインがgenAIによるものだという確証はない。ただ、EAのこのシューターは以前にも発売から数か月後にAI-generatedとみられるコスメティックを配信しており、今年初めには一部のBattlefield開発者が解雇されている。"
+                "x": "桜井氏は、この4月に発売されたLibrarianを例に挙げる。基本要素が理解しやすく作り替えやすいため、そのシンプルさはAIにとって格好の素材だという。AIとバイブコーディングは、アセットフリップやリスキンという昔からの手口に拍車をかけた。"
+              },
+              {
+                "t": "p",
+                "x": "桜井氏はインディーと大手スタジオを区別しておらず、こうしたプロジェクトの多くは人知れず消えていくと考えている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Battlefield 6\n玩家质疑付费外观用AI",
-          "body": "付费干员外观出现视觉瑕疵和拼错的臂章，玩家指责EA在出售AI作品。",
-          "mini_headline": "Battlefield 6外观被疑用AI",
+          "headline": "樱井政博视原创为\n抵御AI克隆之盾",
+          "body": "樱井政博认为，原创游戏更难被AI抄袭，但原创也让游戏更难卖出去。",
+          "mini_headline": "樱井政博谈原创与AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Battlefield 6 Season 5“Siege of Vegas”的Area 51地图广受好评，但季票外观却让玩家拉响了genAI警报：一名枪套里插着五把手枪的干员、古怪的弹匣设计，以及一块写着“Secuty”的臂章。"
+                "x": "Kirby与Super Smash Bros系列的创作者樱井政博（Masahiro Sakurai）在与日本媒体Denfaminico Gamer的对谈中谈到了生成式AI。他指出，原创性已不像过去那样好卖：脱颖而出更难，让玩家买账更是难上加难。"
               },
               {
                 "t": "p",
-                "x": "subreddit上的相关帖子获得了数千个赞。其中一个帖子写道：“用AI生成的内容向玩家收取$$$，是极度的不尊重。”"
+                "x": "这让人很容易退回到成熟的类型和创意上，而AI的阴险之处正在于此。这项技术只能借鉴已有的东西，无法创造新事物，因此玩法套路陈旧的游戏就成了gen-AI仿制品的首要目标。"
               },
               {
                 "t": "p",
-                "x": "目前尚无证据证实这些设计出自genAI，但EA这款射击游戏此前就曾在发售数月后推出疑似AI-generated的外观，今年早些时候也有部分Battlefield开发人员遭到裁员。"
+                "x": "他以今年4月发布的Librarian为例：其基础元素易于理解和改造，这种简单性正好被AI利用。AI和氛围编程加剧了资产翻转和换皮这种老做法。"
+              },
+              {
+                "t": "p",
+                "x": "樱井并不区分独立工作室和大型工作室，他认为这类项目大多会默默无闻地消亡。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Battlefield 6: denuncian arte\nde AI en cosméticos de pago",
-          "body": "Fallos visuales y parches con erratas en cosméticos de pago llevan a los jugadores a acusar a EA de vender arte de AI.",
-          "mini_headline": "Sospechas de AI en las skins de Battlefield 6",
+          "headline": "Sakurai ve la originalidad como\nescudo ante los clones de AI",
+          "body": "Masahiro Sakurai sostiene que los juegos originales son más difíciles de copiar para la AI, pero también de vender.",
+          "mini_headline": "Sakurai: originalidad frente a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/battlefield-ai.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "La Season 5 de Battlefield 6, \"Siege of Vegas\", recibió elogios por su mapa Area 51, pero también trajo cosméticos del pase de temporada que han hecho sonar las alarmas de genAI entre los jugadores: un operador con cinco pistolas enfundadas, diseños de cargador extraños y un parche en el brazo que dice \"Secuty\"."
+                "x": "Masahiro Sakurai, creador de las series Kirby y Super Smash Bros, opinó sobre la AI generativa en una conversación con el medio japonés Denfaminico Gamer. Señala que la originalidad ya no suele vender como antes: es más difícil destacar, y todavía más difícil atraer al público."
               },
               {
                 "t": "p",
-                "x": "Las publicaciones en el subreddit han reunido miles de votos positivos. \"Cobrar $$$ a los jugadores por contenido generado con AI es el colmo de la falta de respeto\", decía un hilo."
+                "x": "Eso hace tentador recurrir a géneros e ideas ya establecidos, y ahí es donde la AI se vuelve insidiosa. La tecnología solo se nutre de lo que ya existe y no puede crear algo nuevo, así que los juegos con mecánicas muy trilladas son un blanco ideal para una imitación hecha con gen-AI."
               },
               {
                 "t": "p",
-                "x": "No hay confirmación de que los diseños procedan de genAI, pero el shooter de EA ya lanzó meses después de su estreno cosméticos aparentemente AI-generated, y algunos desarrolladores de Battlefield fueron despedidos a principios de este año."
+                "x": "Pone como ejemplo Librarian, lanzado el pasado abril: su sencillez lo hace presa fácil de la AI porque sus elementos básicos son fáciles de entender y readaptar. La AI y el vibe-coding han agravado la vieja práctica de los asset flips y los reskins."
+              },
+              {
+                "t": "p",
+                "x": "Sakurai no distingue entre estudios indie y grandes, y cree que la mayoría de estos proyectos morirán en el olvido."
               }
             ]
           }
@@ -1221,15 +1119,15 @@
       }
     },
     {
-      "id": "games-shroud-zero-bugs",
+      "id": "games-vibe-coding",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Garriott, AI로\nShroud 버그 해결",
-      "body": "Richard Garriott는 AI로 게임 버그를 한 시간 안에 고친다고 했다.",
-      "mini_headline": "Garriott, AI로 Shroud 버그 정리",
+      "headline": "게임 개발 덮친\n바이브 코딩, 업계 진단",
+      "body": "Take-Two 전 AI 책임자와 Godot 대표가 바이브 코딩 열풍을 짚었다.",
+      "mini_headline": "게임 개발 덮친 바이브 코딩",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/rpg/after-8-years-ultima-creator-says-his-mmo-shroud-of-the-avatar-finally-has-zero-bugs-thanks-to-ai/",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1237,149 +1135,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+            "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
           },
           {
             "t": "p",
-            "x": "Ultima를 만든 Richard Garriott는 TechJesse 팟캐스트에서 이렇게 말했다. \"아주 논쟁적인 이야기다... [하지만] AI가 정말 도움이 된다. 이제 나는 창작에 더 가까이 있을 수 있다. 이제 게임을 만드는 데 사람도 시간도 덜 든다.\" AI를 윤리적으로 쓰는 일은 \"정말 중요한 문제\"라고 덧붙이기도 했다."
+            "x": "브라우저 \"이식판\", 매시업 모드, PlayStation 탈옥의 진전은 모두 9월 22일 Anthropic의 Claude Opus 5.5 출시로 거슬러 올라간다. GitHub의 DMCA 기록은 퍼블리셔들이 낸 삭제 요청으로 뒤덮였다. Kotaku는 Take-Two의 전 AI 책임자 Dr Luke Dicken과 Godot Engine 대표 Emilio Coppola에게 업계가 앞으로 어디로 향할지 물었다."
           },
           {
             "t": "p",
-            "x": "그의 말로는 Shroud of the Avatar에 버그가 늘 천 개쯤 쌓여 있었고, 3년에서 5년씩 손대지 못한 것도 있었다. \"이제는 AI 덕분에 버그가 발견되는 즉시, 한 시간 안에 고쳐진다.\" 게임은 \"이제 매일 버그가 0개다. 제로.\""
+            "x": "\"이번 디컴파일·이식 물결은 개발사와 퍼블리셔가 분명히 진지하게 받아들여야 할 문제\"라고 말한 Dicken은 \"더 침해적인 DRM, 플랫폼 차원의 해법, 그리고 아마도 스트리밍 방식으로의 전환 확대\"를 내다봤다."
+          },
+          {
+            "t": "video",
+            "yt": "r_ScnjXsxTM"
           },
           {
             "t": "p",
-            "x": "성능 문제로 평판이 나빴던 게임이라 더 눈길이 가는 주장이다. 출시 8년이 지났는데도 정기 업데이트가 이어진다. \"예술은 사람이 하고, 노동은 기계가 도울 수 있다\"고 Garriott는 말한다."
+            "x": "Coppola는 저품질 복제작을 파는 악성 업자를 허용하는 Steam처럼 \"이런 행위를 가능케 하는 플랫폼이 책임을 져야 한다\"고 말했다. 불안해서 이제 게임의 앞서 해보기 버전을 공유하지 못한다는 개발자 이야기도 많이 들었다고 한다."
+          },
+          {
+            "t": "p",
+            "x": "두 사람은 AI가 창의성을 대신할 수 없다는 데 뜻을 같이했다. Dicken은 \"AI는 게임을 복제할 수는 있다\"며 \"하지만 다음 작품의 재미를 찾아내지는 못한다\"고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Garriott says AI cleared\nShroud of the Avatar's bugs",
-          "body": "Richard Garriott says AI now fixes Shroud of the Avatar's bugs within an hour, so they need fewer people and less time.",
-          "mini_headline": "Garriott: AI cleared\nShroud's bug backlog",
+          "headline": "Insiders on vibe coding's\nflood into game development",
+          "body": "Take-Two's former head of AI and Godot's executive director discuss how vibe coding is flooding game development.",
+          "mini_headline": "Vibe coding floods game dev",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "On the TechJesse podcast, Ultima creator Richard Garriott said: \"This is super controversial... [but] AI is really helping. Now, I can be closer to the creation. Now, we need fewer people and less time to make it.\" He added that ethical use of AI \"is really an important issue.\""
+                "x": "Browser \"ports,\" mash-up mods and PlayStation jailbreaking advances can all be tied back to Anthropic's Claude Opus 5.5 release on September 22, and GitHub's DMCA logs are littered with takedowns from publishers. Kotaku asked Take-Two's former head of AI Dr Luke Dicken and Godot Engine executive director Emilio Coppola where the industry goes from here."
               },
               {
                 "t": "p",
-                "x": "Shroud of the Avatar, he said, persistently had a bug count of a thousand, some unaddressed for three to five years. \"Now, with AI, those bugs are fixed as soon as they're found, within an hour.\" The game \"now has zero bugs, every day. Zero.\""
+                "x": "\"This new wave of decompile-and-port is definitely something that developers and publishers need to take seriously,\" Dicken said, predicting \"more invasive DRM, platform-level solutions, and probably more of a push towards streaming solutions.\""
+              },
+              {
+                "t": "video",
+                "yt": "r_ScnjXsxTM"
               },
               {
                 "t": "p",
-                "x": "The claim is notable given the game's poor performance reputation; eight years after launch it still gets regular updates. \"Humans do the art and machines can help do the labor,\" Garriott says."
+                "x": "Coppola said \"the burden should fall onto the platforms who are enabling this sort of behavior,\" such as Steam, which lets bad actors sell low-quality clones. He has heard many developers are now too anxious to share early-access versions of their games."
+              },
+              {
+                "t": "p",
+                "x": "Both agreed AI can't replace creativity. \"AI can clone a game,\" Dicken said, \"but what it can't do is find the fun of the next thing.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Garriott, AI로\nShroud 버그 해결",
-          "body": "Richard Garriott는 AI로 게임 버그를 한 시간 안에 고친다고 했다.",
-          "mini_headline": "Garriott, AI로 Shroud 버그 정리",
+          "headline": "게임 개발 덮친\n바이브 코딩, 업계 진단",
+          "body": "Take-Two 전 AI 책임자와 Godot 대표가 바이브 코딩 열풍을 짚었다.",
+          "mini_headline": "게임 개발 덮친 바이브 코딩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Ultima를 만든 Richard Garriott는 TechJesse 팟캐스트에서 이렇게 말했다. \"아주 논쟁적인 이야기다... [하지만] AI가 정말 도움이 된다. 이제 나는 창작에 더 가까이 있을 수 있다. 이제 게임을 만드는 데 사람도 시간도 덜 든다.\" AI를 윤리적으로 쓰는 일은 \"정말 중요한 문제\"라고 덧붙이기도 했다."
+                "x": "브라우저 \"이식판\", 매시업 모드, PlayStation 탈옥의 진전은 모두 9월 22일 Anthropic의 Claude Opus 5.5 출시로 거슬러 올라간다. GitHub의 DMCA 기록은 퍼블리셔들이 낸 삭제 요청으로 뒤덮였다. Kotaku는 Take-Two의 전 AI 책임자 Dr Luke Dicken과 Godot Engine 대표 Emilio Coppola에게 업계가 앞으로 어디로 향할지 물었다."
               },
               {
                 "t": "p",
-                "x": "그의 말로는 Shroud of the Avatar에 버그가 늘 천 개쯤 쌓여 있었고, 3년에서 5년씩 손대지 못한 것도 있었다. \"이제는 AI 덕분에 버그가 발견되는 즉시, 한 시간 안에 고쳐진다.\" 게임은 \"이제 매일 버그가 0개다. 제로.\""
+                "x": "\"이번 디컴파일·이식 물결은 개발사와 퍼블리셔가 분명히 진지하게 받아들여야 할 문제\"라고 말한 Dicken은 \"더 침해적인 DRM, 플랫폼 차원의 해법, 그리고 아마도 스트리밍 방식으로의 전환 확대\"를 내다봤다."
+              },
+              {
+                "t": "video",
+                "yt": "r_ScnjXsxTM"
               },
               {
                 "t": "p",
-                "x": "성능 문제로 평판이 나빴던 게임이라 더 눈길이 가는 주장이다. 출시 8년이 지났는데도 정기 업데이트가 이어진다. \"예술은 사람이 하고, 노동은 기계가 도울 수 있다\"고 Garriott는 말한다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Garriott称AI\n已清空Shroud的bug",
-          "body": "Garriott称，AI一小时内就能修复Shroud of the Avatar的bug。",
-          "mini_headline": "Garriott：AI清空Shroud积压bug",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+                "x": "Coppola는 저품질 복제작을 파는 악성 업자를 허용하는 Steam처럼 \"이런 행위를 가능케 하는 플랫폼이 책임을 져야 한다\"고 말했다. 불안해서 이제 게임의 앞서 해보기 버전을 공유하지 못한다는 개발자 이야기도 많이 들었다고 한다."
               },
               {
                 "t": "p",
-                "x": "在TechJesse播客中，Ultima的创作者Richard Garriott表示：“这非常有争议……[但]AI确实很有帮助。现在，我能更贴近创作本身。现在，我们做游戏需要的人更少、时间更短。”他还说，AI的伦理使用“确实是一个重要问题”。"
-              },
-              {
-                "t": "p",
-                "x": "他说，Shroud of the Avatar的bug数量长期维持在一千个，其中一些三到五年都没有处理。“现在有了AI，这些bug一被发现就会在一小时内修好。”这款游戏“现在每天都是零bug。零。”"
-              },
-              {
-                "t": "p",
-                "x": "考虑到这款游戏一向以性能差著称，这一说法格外引人注目；发售八年后，它仍在定期更新。“艺术由人类来做，机器可以帮忙承担劳动，”Garriott说。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Garriott: la AI eliminó errores\nde Shroud of the Avatar",
-          "body": "Richard Garriott dice que la AI corrige en una hora los errores de Shroud of the Avatar, con menos gente y tiempo.",
-          "mini_headline": "Garriott: la AI acabó con los bugs de Shroud",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En el pódcast TechJesse, el creador de Ultima, Richard Garriott, dijo: \"Esto es muy polémico... [pero] la AI está ayudando de verdad. Ahora puedo estar más cerca de la creación. Ahora necesitamos menos personas y menos tiempo para hacerlo\". Añadió que el uso ético de la AI \"es un asunto realmente importante\"."
-              },
-              {
-                "t": "p",
-                "x": "Según él, Shroud of the Avatar tuvo de forma persistente un recuento de mil errores, algunos sin resolver durante tres a cinco años. \"Ahora, con AI, esos errores se corrigen en cuanto se detectan, en menos de una hora\". El juego \"ahora tiene cero errores, todos los días. Cero\"."
-              },
-              {
-                "t": "p",
-                "x": "La afirmación llama la atención dada la mala reputación de rendimiento del juego; ocho años después de su lanzamiento sigue recibiendo actualizaciones periódicas. \"Los humanos hacen el arte y las máquinas pueden ayudar con el trabajo\", dice Garriott."
+                "x": "두 사람은 AI가 창의성을 대신할 수 없다는 데 뜻을 같이했다. Dicken은 \"AI는 게임을 복제할 수는 있다\"며 \"하지만 다음 작품의 재미를 찾아내지는 못한다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがShroudの\nバグを一掃とGarriott",
-          "body": "GarriottはAIがShroud of the Avatarのバグを即座に直すと語る。",
-          "mini_headline": "Garriott：AIでShroudのバグ一掃",
+          "headline": "ゲーム開発に押し寄せる\nバイブコーディングの波",
+          "body": "Take-Two元AI責任者とGodot事務局長が、バイブコーディングの波を語る。",
+          "mini_headline": "ゲーム開発に押し寄せるバイブコーディング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "TechJesseのポッドキャストで、Ultimaの生みの親Richard Garriottはこう語った。「これは非常に議論を呼ぶ話だが……AIは本当に役立っている。今では創作により近づける。今では、より少ない人数と短い時間で作れる」。さらに、AIの倫理的な利用は「本当に重要な問題だ」と付け加えた。"
+                "x": "ブラウザ「移植版」、マッシュアップMOD、PlayStationの脱獄の進展は、いずれも9月22日のAnthropicによるClaude Opus 5.5のリリースにさかのぼることができ、GitHubのDMCAログはパブリッシャーによる削除要請で埋め尽くされている。Kotakuは、Take-Twoの元AI責任者Dr Luke Dicken氏とGodot Engineの事務局長Emilio Coppola氏に、業界がこれからどこへ向かうのかを尋ねた。"
               },
               {
                 "t": "p",
-                "x": "彼によれば、Shroud of the Avatarには常に千件ものバグがあり、三〜五年放置されたものもあった。「今はAIのおかげで、バグは見つかった途端、一時間以内に修正される」。このゲームは「今や毎日バグがゼロだ。ゼロ」だという。"
+                "x": "「このデコンパイルと移植の新たな波は、開発者とパブリッシャーが間違いなく真剣に受け止めるべきものだ」とDicken氏は述べ、「より侵襲的なDRM、プラットフォームレベルの対策、そしておそらくストリーミングへの移行のさらなる推進」を予測した。"
+              },
+              {
+                "t": "video",
+                "yt": "r_ScnjXsxTM"
               },
               {
                 "t": "p",
-                "x": "動作の重さで評判の悪いゲームだけに、この主張は注目に値する。発売から八年たった今も定期的なアップデートが続いている。「アートは人間が担い、機械は労働を手伝える」とGarriottは言う。"
+                "x": "Coppola氏は、悪質な業者に低品質なクローンの販売を許しているSteamのように、「こうした行為を可能にしているプラットフォームが責任を負うべきだ」と語った。多くの開発者が不安のあまり、ゲームの早期アクセス版を公開できずにいるとも聞いているという。"
+              },
+              {
+                "t": "p",
+                "x": "両氏は、AIは創造性の代わりにはならないという点で一致した。「AIはゲームを複製できる」とDicken氏は言う。「だが、次なるものの面白さを見つけることはできない」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "业内人士谈氛围编程\n涌入游戏开发",
+          "body": "Take-Two前AI负责人与Godot执行董事探讨氛围编程如何涌入游戏开发。",
+          "mini_headline": "氛围编程涌入游戏开发",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "浏览器“移植版”、混搭模组以及PlayStation越狱的进展，都可以追溯到Anthropic于9月22日发布的Claude Opus 5.5，而GitHub的DMCA日志里满是发行商提交的下架请求。Kotaku采访了Take-Two前AI负责人Dr Luke Dicken和Godot Engine执行董事Emilio Coppola，询问行业接下来将走向何方。"
+              },
+              {
+                "t": "p",
+                "x": "“这股反编译加移植的新浪潮，绝对是开发者和发行商需要认真对待的事情，”Dicken说。他预测会出现“更具侵入性的DRM、平台层面的解决方案，可能还会进一步转向串流方案”。"
+              },
+              {
+                "t": "video",
+                "yt": "r_ScnjXsxTM"
+              },
+              {
+                "t": "p",
+                "x": "Coppola表示，“责任应该落在助长这类行为的平台身上”，比如允许不良行为者出售低质量克隆作品的Steam。他听说，许多开发者如今因过于焦虑而不敢分享游戏的抢先体验版本。"
+              },
+              {
+                "t": "p",
+                "x": "两人都认为AI无法取代创造力。“AI可以克隆一款游戏，”Dicken说，“但它做不到的，是找到下一个作品的乐趣。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Expertos del sector analizan\nla ola de vibe coding en juegos",
+          "body": "El exjefe de AI de Take-Two y el director ejecutivo de Godot analizan cómo el vibe coding inunda los videojuegos.",
+          "mini_headline": "El vibe coding inunda el desarrollo de juegos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Los \"ports\" para navegador, los mods de mezcla y los avances en el jailbreak de PlayStation se remontan al lanzamiento de Claude Opus 5.5 de Anthropic el 22 de septiembre, y los registros DMCA de GitHub están plagados de retiradas solicitadas por editoras. Kotaku preguntó al exjefe de AI de Take-Two, Dr Luke Dicken, y al director ejecutivo de Godot Engine, Emilio Coppola, hacia dónde se dirige la industria."
+              },
+              {
+                "t": "p",
+                "x": "\"Esta nueva ola de descompilar y portar es sin duda algo que desarrolladores y editoras deben tomarse en serio\", dijo Dicken, que prevé \"DRM más invasivos, soluciones a nivel de plataforma y probablemente un mayor impulso hacia las soluciones de streaming\"."
+              },
+              {
+                "t": "video",
+                "yt": "r_ScnjXsxTM"
+              },
+              {
+                "t": "p",
+                "x": "Coppola afirmó que \"la carga debería recaer en las plataformas que permiten este tipo de comportamiento\", como Steam, que deja que actores malintencionados vendan clones de baja calidad. Ha oído que muchos desarrolladores tienen ahora demasiado miedo de compartir versiones de acceso anticipado de sus juegos."
+              },
+              {
+                "t": "p",
+                "x": "Ambos coincidieron en que la AI no puede sustituir la creatividad. \"La AI puede clonar un juego\", dijo Dicken, \"pero lo que no puede hacer es encontrar la diversión de lo siguiente\"."
               }
             ]
           }
@@ -1387,105 +1333,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Garriott, AI로\nShroud 버그 해결",
-          "body": "Richard Garriott는 AI로 게임 버그를 한 시간 안에 고친다고 말한다.",
-          "mini_headline": "Garriott, AI로 Shroud 버그 정리",
+          "headline": "게임 개발 덮친\n바이브 코딩, 업계 진단",
+          "body": "Take-Two 전 AI 책임자와 Godot 대표가 바이브 코딩 열풍을 짚었다.",
+          "mini_headline": "게임 개발 덮친 바이브 코딩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Ultima를 만든 Richard Garriott는 TechJesse 팟캐스트에서 이렇게 말했다. \"아주 논쟁적인 이야기다... [하지만] AI가 정말 도움이 된다. 이제 나는 창작에 더 가까이 있을 수 있다. 이제 게임을 만드는 데 사람도 시간도 덜 든다.\" 그는 AI의 윤리적 사용이 \"정말 중요한 문제\"라고 덧붙였다."
+                "x": "브라우저 \"이식판\", 매시업 모드, PlayStation 탈옥의 진전은 모두 9월 22일 Anthropic의 Claude Opus 5.5 출시로 거슬러 올라가며, GitHub의 DMCA 기록은 퍼블리셔들의 삭제 요청으로 뒤덮여 있다. Kotaku는 Take-Two의 전 AI 책임자 Dr Luke Dicken과 Godot Engine 대표 Emilio Coppola에게 업계가 앞으로 어디로 향할지 물었다."
               },
               {
                 "t": "p",
-                "x": "그에 따르면 Shroud of the Avatar는 버그가 늘 천 개에 달했고, 일부는 3년에서 5년 동안 손대지 못했다. \"이제는 AI 덕분에 버그가 발견되는 즉시, 한 시간 안에 고쳐진다.\" 게임은 \"이제 매일 버그가 0개다. 제로.\""
+                "x": "\"이번 디컴파일·이식 물결은 개발사와 퍼블리셔가 분명히 진지하게 받아들여야 할 문제\"라고 Dicken은 말하며, \"더 침해적인 DRM, 플랫폼 차원의 해법, 그리고 아마도 스트리밍 방식으로의 전환 확대\"를 예상했다."
+              },
+              {
+                "t": "video",
+                "yt": "r_ScnjXsxTM"
               },
               {
                 "t": "p",
-                "x": "성능 문제로 평판이 나빴던 게임이라는 점에서 눈여겨볼 주장이다. 출시 8년이 지난 지금도 정기 업데이트가 나온다. \"예술은 사람이 하고, 노동은 기계가 도울 수 있다\"고 Garriott는 말한다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Garriott称AI\n已清空Shroud的bug",
-          "body": "Garriott称，AI一小时内就能修复Shroud of the Avatar的bug。",
-          "mini_headline": "Garriott：AI清空Shroud积压bug",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+                "x": "Coppola는 저품질 복제작을 파는 악성 업자를 허용하는 Steam처럼 \"이런 행위를 가능케 하는 플랫폼이 책임을 져야 한다\"고 말했다. 그는 많은 개발자가 이제 불안한 나머지 게임의 앞서 해보기 버전을 공유하지 못한다는 이야기를 많이 들었다고 한다."
               },
               {
                 "t": "p",
-                "x": "在TechJesse播客中，Ultima的创作者Richard Garriott表示：“这非常有争议……[但]AI确实很有帮助。现在，我能更贴近创作本身。现在，我们做游戏需要的人更少、时间更短。”他还说，AI的伦理使用“确实是一个重要问题”。"
-              },
-              {
-                "t": "p",
-                "x": "他说，Shroud of the Avatar的bug数量长期维持在一千个，其中一些三到五年都没有处理。“现在有了AI，这些bug一被发现就会在一小时内修好。”这款游戏“现在每天都是零bug。零。”"
-              },
-              {
-                "t": "p",
-                "x": "考虑到这款游戏一向以性能差著称，这一说法格外引人注目；发售八年后，它仍在定期更新。“艺术由人类来做，机器可以帮忙承担劳动，”Garriott说。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Garriott: la AI eliminó errores\nde Shroud of the Avatar",
-          "body": "Richard Garriott dice que la AI corrige en una hora los errores de Shroud of the Avatar, con menos gente y tiempo.",
-          "mini_headline": "Garriott: la AI acabó con los bugs de Shroud",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En el pódcast TechJesse, el creador de Ultima, Richard Garriott, dijo: \"Esto es muy polémico... [pero] la AI está ayudando de verdad. Ahora puedo estar más cerca de la creación. Ahora necesitamos menos personas y menos tiempo para hacerlo\". Añadió que el uso ético de la AI \"es un asunto realmente importante\"."
-              },
-              {
-                "t": "p",
-                "x": "Según él, Shroud of the Avatar tuvo de forma persistente un recuento de mil errores, algunos sin resolver durante tres a cinco años. \"Ahora, con AI, esos errores se corrigen en cuanto se detectan, en menos de una hora\". El juego \"ahora tiene cero errores, todos los días. Cero\"."
-              },
-              {
-                "t": "p",
-                "x": "La afirmación llama la atención dada la mala reputación de rendimiento del juego; ocho años después de su lanzamiento sigue recibiendo actualizaciones periódicas. \"Los humanos hacen el arte y las máquinas pueden ayudar con el trabajo\", dice Garriott."
+                "x": "두 사람은 AI가 창의성을 대신할 수 없다는 데 뜻을 같이했다. \"AI는 게임을 복제할 수는 있다\"며 Dicken은 \"하지만 다음 작품의 재미를 찾아내지는 못한다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがShroudの\nバグを一掃とGarriott",
-          "body": "GarriottはAIがShroud of the Avatarのバグを即座に直すと語る。",
-          "mini_headline": "Garriott：AIでShroudのバグ一掃",
+          "headline": "ゲーム開発に押し寄せる\nバイブコーディングの波",
+          "body": "Take-Two元AI責任者とGodot事務局長が、バイブコーディングの波を語る。",
+          "mini_headline": "ゲーム開発に押し寄せるバイブコーディング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/S8FB36fRjnHN8MWNVCwNwB.jpg"
+                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "TechJesseのポッドキャストで、Ultimaの生みの親Richard Garriottはこう語った。「これは非常に議論を呼ぶ話だが……AIは本当に役立っている。今では創作により近づける。今では、より少ない人数と短い時間で作れる」。さらに、AIの倫理的な利用は「本当に重要な問題だ」と付け加えた。"
+                "x": "ブラウザ「移植版」、マッシュアップMOD、PlayStationの脱獄の進展は、いずれも9月22日のAnthropicによるClaude Opus 5.5のリリースにさかのぼることができ、GitHubのDMCAログはパブリッシャーによる削除要請で埋め尽くされている。Kotakuは、Take-Twoの元AI責任者Dr Luke Dicken氏とGodot Engineの事務局長Emilio Coppola氏に、業界がこれからどこへ向かうのかを尋ねた。"
               },
               {
                 "t": "p",
-                "x": "彼によれば、Shroud of the Avatarには常に千件ものバグがあり、三〜五年放置されたものもあった。「今はAIのおかげで、バグは見つかった途端、一時間以内に修正される」。このゲームは「今や毎日バグがゼロだ。ゼロ」だという。"
+                "x": "「このデコンパイルと移植の新たな波は、開発者とパブリッシャーが間違いなく真剣に受け止めるべきものだ」とDicken氏は述べ、「より侵襲的なDRM、プラットフォームレベルの対策、そしておそらくストリーミングへの移行のさらなる推進」を予測した。"
+              },
+              {
+                "t": "video",
+                "yt": "r_ScnjXsxTM"
               },
               {
                 "t": "p",
-                "x": "動作の重さで評判の悪いゲームだけに、この主張は注目に値する。発売から八年たった今も定期的なアップデートが続いている。「アートは人間が担い、機械は労働を手伝える」とGarriottは言う。"
+                "x": "Coppola氏は、悪質な業者に低品質なクローンの販売を許しているSteamのように、「こうした行為を可能にしているプラットフォームが責任を負うべきだ」と語った。多くの開発者が不安のあまり、ゲームの早期アクセス版を公開できずにいるとも聞いているという。"
+              },
+              {
+                "t": "p",
+                "x": "両氏は、AIは創造性の代わりにはならないという点で一致した。「AIはゲームを複製できる」とDicken氏は言う。「だが、次なるものの面白さを見つけることはできない」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "业内人士谈氛围编程\n涌入游戏开发",
+          "body": "Take-Two前AI负责人与Godot执行董事探讨氛围编程如何涌入游戏开发。",
+          "mini_headline": "氛围编程涌入游戏开发",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "浏览器“移植版”、混搭模组以及PlayStation越狱的进展，都可以追溯到Anthropic于9月22日发布的Claude Opus 5.5，而GitHub的DMCA日志里满是发行商提交的下架请求。Kotaku采访了Take-Two前AI负责人Dr Luke Dicken和Godot Engine执行董事Emilio Coppola，询问行业接下来将走向何方。"
+              },
+              {
+                "t": "p",
+                "x": "“这股反编译加移植的新浪潮，绝对是开发者和发行商需要认真对待的事情，”Dicken说。他预测会出现“更具侵入性的DRM、平台层面的解决方案，可能还会进一步转向串流方案”。"
+              },
+              {
+                "t": "video",
+                "yt": "r_ScnjXsxTM"
+              },
+              {
+                "t": "p",
+                "x": "Coppola表示，“责任应该落在助长这类行为的平台身上”，比如允许不良行为者出售低质量克隆作品的Steam。他听说，许多开发者如今因过于焦虑而不敢分享游戏的抢先体验版本。"
+              },
+              {
+                "t": "p",
+                "x": "两人都认为AI无法取代创造力。“AI可以克隆一款游戏，”Dicken说，“但它做不到的，是找到下一个作品的乐趣。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Expertos del sector analizan\nla ola de vibe coding en juegos",
+          "body": "El exjefe de AI de Take-Two y el director ejecutivo de Godot analizan cómo el vibe coding inunda los videojuegos.",
+          "mini_headline": "El vibe coding inunda el desarrollo de juegos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Los \"ports\" para navegador, los mods de mezcla y los avances en el jailbreak de PlayStation se remontan al lanzamiento de Claude Opus 5.5 de Anthropic el 22 de septiembre, y los registros DMCA de GitHub están plagados de retiradas solicitadas por editoras. Kotaku preguntó al exjefe de AI de Take-Two, Dr Luke Dicken, y al director ejecutivo de Godot Engine, Emilio Coppola, hacia dónde se dirige la industria."
+              },
+              {
+                "t": "p",
+                "x": "\"Esta nueva ola de descompilar y portar es sin duda algo que desarrolladores y editoras deben tomarse en serio\", dijo Dicken, que prevé \"DRM más invasivos, soluciones a nivel de plataforma y probablemente un mayor impulso hacia las soluciones de streaming\"."
+              },
+              {
+                "t": "video",
+                "yt": "r_ScnjXsxTM"
+              },
+              {
+                "t": "p",
+                "x": "Coppola afirmó que \"la carga debería recaer en las plataformas que permiten este tipo de comportamiento\", como Steam, que deja que actores malintencionados vendan clones de baja calidad. Ha oído que muchos desarrolladores tienen ahora demasiado miedo de compartir versiones de acceso anticipado de sus juegos."
+              },
+              {
+                "t": "p",
+                "x": "Ambos coincidieron en que la AI no puede sustituir la creatividad. \"La AI puede clonar un juego\", dijo Dicken, \"pero lo que no puede hacer es encontrar la diversión de lo siguiente\"."
               }
             ]
           }

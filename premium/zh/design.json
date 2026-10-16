@@ -7938,6 +7938,157 @@
           "x": "内置团队功能包括共享指令、技能和记忆，以及身份验证、权限和实时同步。可以自带Anthropic、OpenAI、Gemini或OpenRouter的密钥，也可以用Ollama运行本地模型。Clips、Slides和Design都是用它构建的开源智能体应用。"
         }
       ]
+    },
+    "design/design-krea3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+          "cap": "Krea 3介绍"
+        },
+        {
+          "t": "p",
+          "x": "过去一年，图像编辑跨过了质量门槛，但最好的编辑模型也变得更慢、更贵。Krea发布了新的图像编辑模型Krea 3：大多数编辑端到端不到8秒即可返回，原生2K 输出，2K 每张图像$0.06。"
+        },
+        {
+          "t": "p",
+          "x": "它不会改动你没要求修改的部分——更换产品周围的场景，标签依旧清晰；给它一张脸和一套服装，下一张图里的人仍是同一个人。每次编辑最多可使用6张参考图。"
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/soda-after.webp",
+          "cap": "手中的同一罐饮料，被按进碎冰和切半的柚子中"
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/housing-after.webp",
+          "cap": "只换了座椅；地毯、房间和读书的女子都保持不变。"
+        },
+        {
+          "t": "video",
+          "src": "https://s.krea.ai/press/krea-3/k3-video-race-perfume.mp4"
+        },
+        {
+          "t": "p",
+          "x": "它还能把马克笔草图、情绪板或旧宝丽来照片变成成片。Krea 3已在krea.ai上线，面向3000万用户，2K 每张$0.06、1K 每张$0.03，并可通过fal、Hedra、Together AI、Nous Research、OpenRouter和Replicate使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://s.krea.ai/blog-posts/krea-3/sofa-sketch-after.webp",
+          "cap": "一张沙发的马克笔草图变成照片级真实的皮质家具"
+        }
+      ]
+    },
+    "design/design-cursor-canvases": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "云端智能体的画布：云端智能体现在可以在工作中构建交互式画布。完成后，发送链接即可与团队分享。"
+        },
+        {
+          "t": "p",
+          "x": "Environments API：Environments API现已推出测试版。可用它以编程方式创建和管理智能体所运行的云端环境。"
+        },
+        {
+          "t": "p",
+          "x": "更大、更快的环境：云端智能体环境现在最多支持300个代码仓库。大型环境还能以5x 速度加载。"
+        }
+      ]
+    },
+    "design/design-vercel-ship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2jeuk0fkKM6nOkGF8oJP0K/bd463948c92328ba4dd2b6f20bcf56f1/ship-26-sf-recap-photos-1.jpg",
+          "cap": "“我们打造Vercel，是为了把Agentic Infrastructure的全部力量放在开发者你的身后。”"
+        },
+        {
+          "t": "p",
+          "x": "Vercel Ship 2026在London、Berlin、New York、Sydney和San Francisco吸引了数千人参加，焦点是面向智能体的基础设施。"
+        },
+        {
+          "t": "p",
+          "x": "来自SAP的Philip Miseldine和Sophia Levens展示了SAP如何使用v0、eve和json-render构建生成式界面，重点是设计一致性和政府要求。在Berlin，Miseldine展示了公司如何把设计系统重建为可组合的形式，让人与智能体用同样的组件拼装界面，v0则贯穿其构建、交付和决策各阶段。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1C1KEHX9eihfXaG0spoa8b/6017ca1fc18174f2d2890e37bec6874a/DSCF6353_Berlin_AI_Post.jpg",
+          "cap": "Berlin的Ship 2026"
+        },
+        {
+          "t": "p",
+          "x": "Nicolas Le Pallec（AKQA）：AI-native的客户体验以意图取代导航，依靠捕捉到的客户意图、品牌大脑，以及即时组合页面的生成式UI。Victor Oliveros（ZoomInfo）：在ZoomInfo，40,000+客户借助嵌入产品中的v0构建自己的工作流。"
+        },
+        {
+          "t": "p",
+          "x": "被问到为什么要求设计师先为API设计、最后才设计UI时，Notion CEO Ivan Zhao说：“你的下一位客户不只是人，而是人加上智能体，而智能体是看不见的……所以先设计结构和含义，最后才是界面。”"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3bL9W7ie5NnCIR9Je8cOPf/363182e3723717b572779015e921b36a/nyc-ship-glasshouse.jpg",
+          "cap": "New York的Ship 2026"
+        }
+      ]
+    },
+    "design/design-human-in-loop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
+          "cap": "审核者的手悬在批准按钮上方，而它要批准的工作早已撇下他们继续推进。AI辅助生成。"
+        },
+        {
+          "t": "p",
+          "x": "如今，智能体会在我们开另一个会时分拣收件箱、更新记录、发送消息。标准做法是弹出确认对话框，但责任实际上被转移了，落到对结果掌握信息最少、权力最小的人身上。"
+        },
+        {
+          "t": "p",
+          "x": "伤人的不是主动性，而是触达范围。更好的问题是做一次触达测试：智能体能碰到什么，人能否把它恢复原状？谁设定了智能体的触达范围，谁就要为它在其中的行为负责。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*2Cwe5MOREmO-GDq2XL7rng.png",
+          "cap": "打断是好事。连Anthropic都这么说。"
+        },
+        {
+          "t": "p",
+          "x": "Neeman借鉴了自动化偏见、Madeleine Clare Elish提出的“道德缓冲区”以及Eric Horvitz的mixed-initiative（混合主动）原则：主动程度应随可逆性而非信心而变化。授权存在于权限之中，而不是对话之中。"
+        },
+        {
+          "t": "p",
+          "x": "他提出四个做法：审查审批环节；写下规则，并通过权限而非提示词来执行；进行触达测试；在智能体运行时保留独立记录，并在屏幕上提供真正可用的停止控件。"
+        }
+      ]
+    },
+    "design/design-figma-specs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma推出Specs，这是一个位于Figma画布上、用来承载上下文的容器。产品构建者在与智能体协作时越来越多地使用Markdown，但这些文件往往只供单人使用，与背后的项目联系松散。Specs是一个多人协作容器，让上下文可以流入、流出Figma，并在Figma各处流转。"
+        },
+        {
+          "t": "p",
+          "x": "一份规格文档保存共享的决策，可以嵌入FigJam文件、框架或画布上的任意节点，让文字与设计并排呈现。按“D”键或使用工具栏即可创建，也可以把任意.md文件拖到画布上。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "借助GitHub连接器，根据代码库起草技术规格文档。"
+        },
+        {
+          "t": "p",
+          "x": "GitHub、Hex等连接器可引入外部上下文；Figma的智能体能读写规格文档中的评论，并以修改建议回复未解决的评论。它还能把PRD变成设计、原型和代码，或把设计和代码转回规格文档。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/d89a510a2d9768f462349e3355890e600a37c52f-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "查看设计系统组件，让Figma的智能体在规格文档中记录使用上下文，并排放在画布上。"
+        },
+        {
+          "t": "p",
+          "x": "通过Figma MCP服务器，Codex等编程智能体可以读取规格文档及其链接的全部上下文。Specs支持网页端、桌面端和移动端，正以公开测试版形式向付费方案逐步推出。"
+        }
+      ]
     }
   }
 }

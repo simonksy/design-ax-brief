@@ -7689,6 +7689,110 @@
           "x": "The news follows CEO Tim Sweeney announcing a “huge pivot” to “retool for maximum AI acceleration.” The preview is available on Windows, Mac, and Linux, the old launcher remains available, and Epic also plans to bring Fortnite to Linux through the app."
         }
       ]
+    },
+    "games/games-drunken-goddess": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Drunken Goddess Reflux is an anime horror game in which you play Russian Roulette with a demon. It was supposed to get a free demo during next week's Steam Next Fest, but the developers have ditched that plan because of generative AI."
+        },
+        {
+          "t": "p",
+          "x": "\"We have decided to cancel the public release of the Drunken Goddess Reflux demo, originally scheduled for Monday, October 19, and will instead hold a closed play session for a limited number of participants,\" developer Alliance Arts wrote on Steam."
+        },
+        {
+          "t": "p",
+          "x": "Restricting streaming and gameplay videos would have been too impractical for a team their size to enforce. \"We are concerned that, based on the content of the demo, works imitating or replicating this game's presentation and gameplay could be quickly produced using AI or other tools and released ahead of the game's launch,\" the team wrote."
+        },
+        {
+          "t": "video",
+          "yt": "SRFDW2Pm9nk"
+        },
+        {
+          "t": "p",
+          "x": "The game's Steam page already has over 25,000 followers and ranks 65th among the top wishlisted games. Kotaku notes AI tools like Claude Opus have upended gaming this month as vibe-coded ports, mash-ups and prototypes flood social media."
+        }
+      ]
+    },
+    "games/games-sakurai-originality": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Masahiro Sakurai, creator of the Kirby and Super Smash Bros series, weighed in on generative AI in a chat with Japanese outlet Denfaminico Gamer. He points out that originality doesn't tend to sell like it used to: it's harder to stand out, and harder still to get people on board."
+        },
+        {
+          "t": "p",
+          "x": "That makes it tempting to fall back on established genres and ideas, which is where AI becomes insidious. The technology only draws on what's come before and can't create something new, so games with well-trodden mechanics are a prime target for a gen-AI lookalike."
+        },
+        {
+          "t": "p",
+          "x": "He points to Librarian, released this past April, as an example: its simplicity is ripe for AI because the base elements are easy to comprehend and retool. AI and vibe-coding have exacerbated the old practice of asset flips and reskins."
+        },
+        {
+          "t": "p",
+          "x": "Sakurai doesn't differentiate between indie and larger studios, and believes most of these projects will die in obscurity."
+        }
+      ]
+    },
+    "games/games-vibe-coding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Browser \"ports,\" mash-up mods and PlayStation jailbreaking advances can all be tied back to Anthropic's Claude Opus 5.5 release on September 22, and GitHub's DMCA logs are littered with takedowns from publishers. Kotaku asked Take-Two's former head of AI Dr Luke Dicken and Godot Engine executive director Emilio Coppola where the industry goes from here."
+        },
+        {
+          "t": "p",
+          "x": "\"This new wave of decompile-and-port is definitely something that developers and publishers need to take seriously,\" Dicken said, predicting \"more invasive DRM, platform-level solutions, and probably more of a push towards streaming solutions.\""
+        },
+        {
+          "t": "video",
+          "yt": "r_ScnjXsxTM"
+        },
+        {
+          "t": "p",
+          "x": "Coppola said \"the burden should fall onto the platforms who are enabling this sort of behavior,\" such as Steam, which lets bad actors sell low-quality clones. He has heard many developers are now too anxious to share early-access versions of their games."
+        },
+        {
+          "t": "p",
+          "x": "Both agreed AI can't replace creativity. \"AI can clone a game,\" Dicken said, \"but what it can't do is find the fun of the next thing.\""
+        }
+      ]
+    },
+    "games/games-decompdev-shutdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX.jpg"
+        },
+        {
+          "t": "p",
+          "x": "With the decomp and recomp scene now inundated with low-effort AI slop, developer Luke \"encounter\" Street is closing decomp.dev, a site that tracked the painstaking, human-driven decompilation of dozens of classic games with a percentage meter ticking toward 100%."
+        },
+        {
+          "t": "p",
+          "x": "\"It is now clear that, with the right guidance, human input, and code reviews, AI can expedite the decompilation process in a significant way,\" Street writes. \"What is also now clear is that the community aspect of decompilation has been broken.\""
+        },
+        {
+          "t": "p",
+          "x": "The abuses include forking existing projects to \"finish\" them with AI, and opportunists racing to release \"a half-baked, barely-functional port\" while community members put in the effort to decompile a game."
+        },
+        {
+          "t": "p",
+          "x": "Street says the gamified leaderboard has warped into \"a hollow numbers game\" and that decomp.dev as a public index \"is now causing more harm than good.\""
+        }
+      ]
     }
   }
 }

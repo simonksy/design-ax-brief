@@ -1071,6 +1071,138 @@
           "x": "其他承诺包括将科学咨询服务时间从90天缩短至45天,将符合条件的Phase 1试验初始评估目标时间减半至14天,以及制定女性健康计划(Women's Health Plan)。"
         }
       ]
+    },
+    "medicine/medicine-seers-uae": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "可穿戴AI诊断监测企业Seers 16日表示，其与UAE最大公立医疗网络SEHA Clinics推进的国家健康体检项目，已获得阿布扎比卫生部（DoH）下属机构伦理审查委员会（IRB）批准，并正式启动该项目。"
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534058"
+        },
+        {
+          "t": "p",
+          "x": "该项目是在UAE政府每年为40岁以上本国公民提供1次的国家健康体检计划中引入AI心律失常筛查的最终试点。目前UAE国家健康体检尚未包含心律失常筛查检查。Seers去年底通过招标被选为该项目的唯一承接方。"
+        },
+        {
+          "t": "p",
+          "x": "Seers将为约100名受检者开展基于mobiCARE™的AI心电图筛查，验证临床有效性与运营适配性，目标是自明年起独家纳入国家健康体检计划。一旦纳入，每年可为约28万名40岁以上对象提供服务，预计每次检查归属Seers的收入超过100美元。"
+        },
+        {
+          "t": "p",
+          "x": "Seers已在首尔大学医院等5家医疗机构以3000名受检者验证了临床有效性，并在KMI韩国医学研究所、韩国健康管理协会Medicheck等机构运营AI心律失常筛查。公司的战略是以UAE为起点，将业务拓展至GCC（海湾合作委员会）国家。"
+        },
+        {
+          "t": "p",
+          "x": "副总裁（CBO）Kim Sung-jong表示：“将成功完成本项目，进入UAE国家健康体检计划，并以此为基础将AI心血管筛查业务拓展至GCC国家。”"
+        }
+      ]
+    },
+    "medicine/medicine-uci-lung-nlp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+        },
+        {
+          "t": "p",
+          "x": "某放射科详细介绍了如何利用自然语言处理，从医疗系统的电子健康记录中找出符合筛查条件的患者。专家们12日在Journal of the American College of Radiology上指出，全国肺癌筛查率仍然偏低，约为18%。"
+        },
+        {
+          "t": "p",
+          "x": "一大障碍是EHR中的结构化吸烟史不完整或不准确。为此，University of California, Irvine开发了一款NLP工具，可从自由文本临床记录中提取吸烟信息，并识别符合筛查条件的患者。"
+        },
+        {
+          "t": "p",
+          "x": "这项回顾性研究纳入了2018年至2023年间近28,000名50岁及以上患者的近41,000份EHR记录。基于规则的NLP流程由50份人工审阅的记录构建，并在另外2,000份记录上优化。与2,000份人工标注记录相比，NLP在筛查资格判定上的一致率近84%。"
+        },
+        {
+          "t": "p",
+          "x": "通讯作者Gelareh Sadigh（MD）及同事总结称：“NLP-derived（由NLP得出的）吸烟状态和LCS资格与人工审阅高度一致，识别出的符合筛查条件患者是结构化EHR数据的三倍多。”他们称NLP是一种“实用且可扩展的方法”，且“无需改变医生工作流程”。"
+        }
+      ]
+    },
+    "medicine/medicine-parkinsonism-mri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究级多模态MRI扫描在区分帕金森病（PD）与多系统萎缩（MSA）方面显示出潜力，但成本、采集时间和处理负担限制了其临床转化。作者开发了一种基于T1-weighted结构MRI（MRI-based）的机器学习模型来区分帕金森综合征，并将其推广至常规各向异性2D临床MRI。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
+          "cap": "从多模态基准到临床特征、研究级验证及外部clinical-MRI队列。"
+        },
+        {
+          "t": "p",
+          "x": "研究利用969名参与者的多中心队列和“发现–验证–转化”分层框架，多模态基准模型的AUROC达0.98，精简的单模态T1-Top20模型在多分类判别（健康对照、PD、MSA）中达0.93。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
+          "cap": "ROC曲线及用于最终分类的合并Top-20特征集。"
+        },
+        {
+          "t": "p",
+          "x": "在PD与MSA的区分上，冻结的T1-Top20模型在外部研究级队列（n = 227）中的合并AUROC为0.88，并识别出从特发性REM睡眠行为障碍表型转化为PD的25人中的19人。推广模型在clinical-MRI队列（2D T1，n = 303）中的合并AUROC为0.84。"
+        }
+      ]
+    },
+    "medicine/medicine-hira-image-deletion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534168",
+          "cap": "图片=国会广播"
+        },
+        {
+          "t": "p",
+          "x": "韩国健康保险审查评价院以存储空间不足为由删除过往医疗影像数据，且未妥善建立删除标准和数据标准化体系，这一事实在16日国会保健福祉委员会国政监查中曝光，并受到批评。"
+        },
+        {
+          "t": "p",
+          "x": "共同民主党议员Kwon Chil-seung表示：“如今都说是AI时代，但看其实质，是数据之争的时代。”并追问审评院的医疗影像保有量。"
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534166",
+          "cap": "图片=国会广播"
+        },
+        {
+          "t": "p",
+          "x": "资料显示，2021~2024年医疗影像保有量每年约为500万~1300万件，但2025年约为2亿3000万件，今年仅截至9月就达约2亿件。Kwon Chil-seung议员称“这是因为删除了2024年度以前的医疗影像”，推算相当于删除了约90%的过往资料，并指出也没有删除标准。"
+        },
+        {
+          "t": "p",
+          "x": "数据标准化比率仅为1~3%，3年投入20亿韩元的数据实证实验室自2021年以来，外部AI开发企业的使用记录为0件。质询最后还有人批评称“这等于把财产全部毁掉”。"
+        },
+        {
+          "t": "p",
+          "x": "审评院院长Hong Seung-kwon承认存在存储空间问题和内部管理标准缺失，并表示“将把产业界可用于AI训练的优质数据标准化”。"
+        }
+      ]
+    },
+    "medicine/medicine-fake-cxr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Seoul National University Hospital tested whether humans and large language models can tell real chest x-rays from AI-generated ones, in a study published Oct. 13 in the Journal of Imaging Informatics in Medicine."
+        },
+        {
+          "t": "p",
+          "x": "The set held 160 chest x-rays: 40 real and 120 synthetic images from three AI pipelines. Two radiologists, two general practitioners and three LLMs (Gemini 3.5 Flash, GPT-4o, Claude 3.7 Sonnet) judged each one."
+        },
+        {
+          "t": "p",
+          "x": "Gemini 3.5 Flash (77.9% balanced accuracy) and the thoracic radiologist (75.8%) did best, with no significant difference; the general practitioners performed near chance. Radiologists caught diffusion-model images more often (82%–100%) than LLMs (32%–72%), while LLMs were more specific on real images. Overall agreement was poor (Fleiss' kappa 0.213)."
+        },
+        {
+          "t": "p",
+          "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
+        }
+      ]
     }
   }
 }

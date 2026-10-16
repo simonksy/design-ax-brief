@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-maxon-fall",
+      "id": "movies-corridorkey2",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Maxon, AI 재조명과\nAutograph MCP",
-      "body": "Red Giant Scene Light는 AI 깊이로 실사·CG를 사후 재조명한다.",
-      "mini_headline": "Maxon, AI 재조명 도입",
       "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/maxon-fall-2026-ecosystem-release",
+      "eyebrow": "AI NEWS",
+      "headline": "CorridorKey\n2.0 티저 공개",
+      "body": "Corridor Crew가 45초짜리 CorridorKey 2.0 티저를 공개했다.",
+      "mini_headline": "CorridorKey 2.0 티저 공개",
+      "source": "Corridor Crew",
+      "url": "https://www.youtube.com/watch?v=godomkRXBLE",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,375 +19,255 @@
         "blocks": [
           {
             "t": "video",
-            "yt": "sAsuw-nt-GM"
+            "yt": "godomkRXBLE"
           },
           {
             "t": "p",
-            "x": "Maxon이 Fall 2026 에코시스템 릴리스를 내놨다. 2D·3D 디자인, 모션 그래픽, VFX 아티스트를 겨냥해 더 큰 월드와 더 빠른 워크플로, 더 넓은 창작 제어권을 내세운다. 중심은 Cinema 4D, ZBrush, Redshift, Red Giant, Autograph의 2027.0 릴리스다."
-          },
-          {
-            "t": "img",
-            "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
+            "x": "Corridor Crew는 10월 16일 “CorridorKey 2.0 just works...”라는 제목의 45초 YouTube Short를 올렸다. 설명은 “This Weekend.” 한 줄이 전부이고, 2.0 버전의 기능 목록이나 변경 내역은 영상에 나오지 않는다."
           },
           {
             "t": "p",
-            "x": "Cinema 4D에는 절차적 Scatter 시스템과 Liquid FX 거품·물보라·기포가 더해졌다. ZBrush엔 UV Editor가 들어갔고 Redshift는 메모리 구조를 새로 짜면서 절차적 퍼까지 갖췄다."
+            "x": "CorridorKey는 Niko Pueringer가 Corridor에서 만들어 GitHub에 오픈소스로 공개한 무료 신경망 키어다. 원본 그린스크린 프레임을 넣으면 전경을 분리하고, 모션 블러나 초점이 나간 가장자리까지 모든 픽셀의 실제 스트레이트 컬러를 깨끗한 선형 알파 채널과 함께 예측한다. “AI Roto” 도구가 흔히 내놓는 거친 이진 마스크와는 다르다."
           },
           {
             "t": "p",
-            "x": "Red Giant Scene Light는 새로 나온 AI-powered 깊이 인식 재조명 도구다. 실사 영상이든 CG 렌더든 사후에 사실적인 조명을 얹어 연출한다."
-          },
-          {
-            "t": "p",
-            "x": "Autograph MCP Server로는 Autograph를 지원 AI 에이전트에 연결한다. 에이전트가 작업을 거들고 워크플로 질문에 답하며 자연어 프롬프트로 창작 과정 일부를 자동화한다. Cinema 4D의 3D 요소도 Autograph에 바로 복사해 붙여 넣으면 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
+            "x": "지금 저장소에 올라온 기능은 자동 감지를 갖춘 그린스크린·블루스크린 전용 체크포인트, 네이티브 2048x2048 백본에서 최대 4K 해상도까지 해상도와 무관하게 돌아가는 추론, Nuke·Fusion·Resolve용 16비트·32비트 선형 EXR 입출력, 트래킹 마커 자동 정리다. 최신 빌드는 6–8GB VRAM과 대부분의 M1+ Macs에서 돌아간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Maxon adds AI relighting\nand an MCP server for Autograph",
-          "body": "Red Giant Scene Light uses AI depth to relight live-action footage and CG renders after the shoot.",
-          "mini_headline": "Maxon adds AI relighting",
+          "headline": "Corridor Crew shows off\nCorridorKey 2.0",
+          "body": "Corridor Crew posted a 45-second teaser of CorridorKey 2.0, the next version of its open-source AI green-screen keyer.",
+          "mini_headline": "CorridorKey 2.0 teased",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "sAsuw-nt-GM"
+                "yt": "godomkRXBLE"
               },
               {
                 "t": "p",
-                "x": "Maxon has unveiled its Fall 2026 ecosystem release, promising bigger worlds, faster workflows and more creative control for artists working in 2D and 3D design, motion graphics and VFX. Highlights include the 2027.0 releases of Cinema 4D, ZBrush, Redshift, Red Giant and Autograph."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
+                "x": "Corridor Crew posted a 45-second YouTube Short titled “CorridorKey 2.0 just works...” on Oct. 16, with a one-line description: “This Weekend.” The clip gives no feature list or changelog for version 2.0."
               },
               {
                 "t": "p",
-                "x": "Cinema 4D gains a procedural Scatter system and Liquid FX foam, spray and bubbles; ZBrush adds a UV Editor; Redshift gets a reworked memory architecture and procedural fur."
+                "x": "CorridorKey is the free neural keyer Niko Pueringer built at Corridor and open-sourced on GitHub. You feed it a raw green screen frame and it separates the foreground, predicting the true straight color of every pixel — including motion blur and out-of-focus edges — alongside a clean linear alpha channel, instead of the harsh binary mask typical of “AI Roto” tools."
               },
               {
                 "t": "p",
-                "x": "Red Giant Scene Light is a new AI-powered, depth-aware relighting tool that lets artists add and art-direct realistic lighting in live-action footage and CG renders after the fact."
-              },
-              {
-                "t": "p",
-                "x": "An Autograph MCP Server lets Autograph connect with supported AI agents to assist with tasks, answer workflow questions and automate parts of the creative process through natural-language prompting. Artists can also copy and paste 3D elements from Cinema 4D directly into Autograph."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Maxon, AI 재조명과\nAutograph MCP",
-          "body": "Red Giant Scene Light는 AI 깊이로 실사·CG를 사후 재조명한다.",
-          "mini_headline": "Maxon, AI 재조명 도입",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "Maxon이 Fall 2026 에코시스템 릴리스를 내놨다. 2D·3D 디자인, 모션 그래픽, VFX 아티스트를 겨냥해 더 큰 월드와 더 빠른 워크플로, 더 넓은 창작 제어권을 내세운다. 중심은 Cinema 4D, ZBrush, Redshift, Red Giant, Autograph의 2027.0 릴리스다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
-              },
-              {
-                "t": "p",
-                "x": "Cinema 4D에는 절차적 Scatter 시스템과 Liquid FX 거품·물보라·기포가 더해졌다. ZBrush엔 UV Editor가 들어갔고 Redshift는 메모리 구조를 새로 짜면서 절차적 퍼까지 갖췄다."
-              },
-              {
-                "t": "p",
-                "x": "Red Giant Scene Light는 새로 나온 AI-powered 깊이 인식 재조명 도구다. 실사 영상이든 CG 렌더든 사후에 사실적인 조명을 얹어 연출한다."
-              },
-              {
-                "t": "p",
-                "x": "Autograph MCP Server로는 Autograph를 지원 AI 에이전트에 연결한다. 에이전트가 작업을 거들고 워크플로 질문에 답하며 자연어 프롬프트로 창작 과정 일부를 자동화한다. Cinema 4D의 3D 요소도 Autograph에 바로 복사해 붙여 넣으면 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Maxon、AI再照明と\nAutograph用MCP",
-          "body": "Red Giant Scene LightはAI深度で実写とCGを撮影後に再照明する。",
-          "mini_headline": "MaxonがAI再照明を追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "MaxonはFall 2026エコシステムリリースを発表した。2D・3Dデザイン、モーショングラフィックス、VFXに携わるアーティストに向け、より大きなワールド、より速いワークフロー、より高い創作の自由度をうたう。目玉はCinema 4D、ZBrush、Redshift、Red Giant、Autographの2027.0リリースだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
-              },
-              {
-                "t": "p",
-                "x": "Cinema 4DにはプロシージャルなScatterシステムと、Liquid FXの泡・飛沫・気泡が加わった。ZBrushはUV Editorを搭載し、Redshiftはメモリアーキテクチャを刷新してプロシージャルなファーを備えた。"
-              },
-              {
-                "t": "p",
-                "x": "Red Giant Scene Lightは、AI-poweredの深度認識型リライティングツールだ。実写映像やCGレンダーに、撮影後からリアルな照明を加えて演出できる。"
-              },
-              {
-                "t": "p",
-                "x": "Autograph MCP Serverにより、Autographは対応するAIエージェントと連携できる。エージェントは作業を手伝い、ワークフローに関する質問に答え、自然言語のプロンプトで創作工程の一部を自動化する。Cinema 4Dの3D要素をAutographへ直接コピー&ペーストすることも可能だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Maxon推出AI重打光\n与Autograph MCP",
-          "body": "Red Giant Scene Light借助AI深度，在拍摄后为实拍和CG渲染重新打光。",
-          "mini_headline": "Maxon新增AI重打光",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "Maxon发布Fall 2026生态系统版本，承诺为从事2D与3D设计、动态图形和VFX的艺术家带来更大的世界、更快的工作流程和更多创作掌控。亮点包括Cinema 4D、ZBrush、Redshift、Red Giant和Autograph的2027.0版本。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
-              },
-              {
-                "t": "p",
-                "x": "Cinema 4D新增程序化Scatter系统以及Liquid FX泡沫、飞沫和气泡；ZBrush加入UV Editor；Redshift重构了内存架构，并新增程序化毛发。"
-              },
-              {
-                "t": "p",
-                "x": "Red Giant Scene Light是一款全新的AI-powered深度感知重打光工具，艺术家可在事后为实拍素材和CG渲染添加并调校逼真的光照。"
-              },
-              {
-                "t": "p",
-                "x": "借助Autograph MCP Server，Autograph可与受支持的AI代理连接，通过自然语言提示协助完成任务、解答工作流程问题，并将部分创作流程自动化。艺术家还可以把Cinema 4D中的3D元素直接复制粘贴到Autograph。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
+                "x": "Current features on the repo include dedicated green- and blue-screen checkpoints with auto-detection, resolution-independent inference up to 4K on a native 2048x2048 backbone, 16- and 32-bit linear EXR input and output for Nuke, Fusion or Resolve, and auto-cleanup of tracking markers. The latest build runs on 6–8GB of VRAM and on most M1+ Macs."
               }
             ]
           }
         },
         "es": {
-          "headline": "Maxon suma reiluminación con AI\ny un servidor MCP para Autograph",
-          "body": "Red Giant Scene Light usa profundidad AI para reiluminar metraje real y renders CG después del rodaje.",
-          "mini_headline": "Maxon suma reiluminación con AI",
+          "headline": "Corridor Crew presenta\nCorridorKey 2.0",
+          "body": "Corridor Crew publicó un avance de 45 segundos de CorridorKey 2.0, su keyer AI de pantalla verde y código abierto.",
+          "mini_headline": "Avance de CorridorKey 2.0",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "sAsuw-nt-GM"
+                "yt": "godomkRXBLE"
               },
               {
                 "t": "p",
-                "x": "Maxon presentó su lanzamiento de ecosistema Fall 2026, que promete mundos más grandes, flujos de trabajo más rápidos y más control creativo para artistas de diseño 2D y 3D, gráficos en movimiento y VFX. Entre lo más destacado figuran las versiones 2027.0 de Cinema 4D, ZBrush, Redshift, Red Giant y Autograph."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
+                "x": "Corridor Crew publicó el Oct. 16 un YouTube Short de 45 segundos titulado “CorridorKey 2.0 just works...”, con una descripción de una sola línea: “This Weekend.” El clip no incluye lista de funciones ni registro de cambios de la versión 2.0."
               },
               {
                 "t": "p",
-                "x": "Cinema 4D incorpora un sistema procedural Scatter y espuma, salpicaduras y burbujas en Liquid FX; ZBrush añade un UV Editor; Redshift renueva su arquitectura de memoria y suma pelaje procedural."
+                "x": "CorridorKey es el keyer neuronal gratuito que Niko Pueringer creó en Corridor y liberó como código abierto en GitHub. Basta con darle un fotograma de pantalla verde sin procesar para que separe el primer plano y prediga el color recto real de cada píxel —incluidos el desenfoque de movimiento y los bordes fuera de foco— junto con un canal alfa lineal limpio, en lugar de la máscara binaria tosca típica de las herramientas de “AI Roto”."
               },
               {
                 "t": "p",
-                "x": "Red Giant Scene Light es una nueva herramienta AI-powered de reiluminación con reconocimiento de profundidad que permite añadir y dirigir artísticamente una iluminación realista en metraje de acción real y renders CG a posteriori."
+                "x": "Entre las funciones actuales del repositorio figuran checkpoints dedicados para pantalla verde y azul con detección automática, inferencia independiente de la resolución hasta 4K sobre un backbone nativo de 2048x2048, entrada y salida EXR lineal de 16- y 32-bit para Nuke, Fusion o Resolve, y limpieza automática de marcadores de seguimiento. La versión más reciente funciona con 6–8GB de VRAM y en la mayoría de los M1+ Macs."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "CorridorKey\n2.0 티저 공개",
+          "body": "Corridor Crew가 45초짜리 CorridorKey 2.0 티저를 공개했다.",
+          "mini_headline": "CorridorKey 2.0 티저 공개",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "godomkRXBLE"
               },
               {
                 "t": "p",
-                "x": "Un Autograph MCP Server permite conectar Autograph con agentes de AI compatibles para ayudar en tareas, responder dudas sobre el flujo de trabajo y automatizar partes del proceso creativo mediante instrucciones en lenguaje natural. Los artistas también pueden copiar y pegar elementos 3D de Cinema 4D directamente en Autograph."
+                "x": "Corridor Crew는 10월 16일 “CorridorKey 2.0 just works...”라는 제목의 45초 YouTube Short를 올렸다. 설명은 “This Weekend.” 한 줄이 전부이고, 2.0 버전의 기능 목록이나 변경 내역은 영상에 나오지 않는다."
               },
               {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
+                "t": "p",
+                "x": "CorridorKey는 Niko Pueringer가 Corridor에서 만들어 GitHub에 오픈소스로 공개한 무료 신경망 키어다. 원본 그린스크린 프레임을 넣으면 전경을 분리하고, 모션 블러나 초점이 나간 가장자리까지 모든 픽셀의 실제 스트레이트 컬러를 깨끗한 선형 알파 채널과 함께 예측한다. “AI Roto” 도구가 흔히 내놓는 거친 이진 마스크와는 다르다."
+              },
+              {
+                "t": "p",
+                "x": "지금 저장소에 올라온 기능은 자동 감지를 갖춘 그린스크린·블루스크린 전용 체크포인트, 네이티브 2048x2048 백본에서 최대 4K 해상도까지 해상도와 무관하게 돌아가는 추론, Nuke·Fusion·Resolve용 16비트·32비트 선형 EXR 입출력, 트래킹 마커 자동 정리다. 최신 빌드는 6–8GB VRAM과 대부분의 M1+ Macs에서 돌아간다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "CorridorKey\n2.0を予告公開",
+          "body": "Corridor Crewが45秒のCorridorKey 2.0ティザーを公開した。",
+          "mini_headline": "CorridorKey 2.0を予告",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "godomkRXBLE"
+              },
+              {
+                "t": "p",
+                "x": "Corridor Crewは10月16日、“CorridorKey 2.0 just works...”と題した45秒のYouTube Shortを投稿した。説明文は“This Weekend.”の一行だけだ。動画では2.0の機能一覧や変更履歴は示されていない。"
+              },
+              {
+                "t": "p",
+                "x": "CorridorKeyは、Niko PueringerがCorridorで開発し、GitHubでオープンソース化した無料のニューラルキーヤーだ。未加工のグリーンバックのフレームを入力すると前景を分離し、モーションブラーやピンぼけした輪郭も含めて全ピクセルの本来のストレートカラーを、クリーンなリニアアルファチャンネルとともに推定する。“AI Roto”系ツールにありがちな硬い二値マスクとは異なる。"
+              },
+              {
+                "t": "p",
+                "x": "リポジトリにある現行機能は、自動判別付きのグリーンバック用・ブルーバック用専用チェックポイント、ネイティブ2048x2048バックボーンで最大4K までの解像度に依存しない推論、Nuke・Fusion・Resolve向けの16ビット・32ビットのリニアEXR入出力、トラッキングマーカーの自動除去だ。最新ビルドは6–8GBのVRAMと大半のM1+ Macsで動作する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "CorridorKey\n2.0预告发布",
+          "body": "Corridor Crew发布了CorridorKey 2.0的45秒预告片。",
+          "mini_headline": "CorridorKey 2.0预告",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "godomkRXBLE"
+              },
+              {
+                "t": "p",
+                "x": "Corridor Crew于10月16日发布了一条45秒的YouTube Short，标题为“CorridorKey 2.0 just works...”，简介只有一行：“This Weekend.”。视频没有给出2.0版本的功能列表或更新日志。"
+              },
+              {
+                "t": "p",
+                "x": "CorridorKey是Niko Pueringer在Corridor打造并在GitHub开源的免费神经网络抠像工具。输入原始绿幕帧，它就能分离前景，预测每个像素真实的直通颜色（包括运动模糊和失焦边缘），同时输出干净的线性alpha通道，而不是“AI Roto”类工具常见的生硬二值遮罩。"
+              },
+              {
+                "t": "p",
+                "x": "代码库目前的功能包括带自动检测的绿幕和蓝幕专用检查点、基于原生2048x2048主干网络、最高可达4K 的分辨率无关推理、面向Nuke、Fusion或Resolve的16位和32位线性EXR输入输出，以及跟踪标记自动清理。最新版本可在6–8GB VRAM及大多数M1+ Macs上运行。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Maxon, AI 재조명과\nAutograph MCP",
-          "body": "Red Giant Scene Light는 AI 깊이로 실사·CG를 사후 재조명한다.",
-          "mini_headline": "Maxon, AI 재조명 도입",
+        "es": {
+          "headline": "Corridor Crew presenta\nCorridorKey 2.0",
+          "body": "Corridor Crew publicó un avance de 45 segundos de CorridorKey 2.0, su keyer AI de pantalla verde y código abierto.",
+          "mini_headline": "Avance de CorridorKey 2.0",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "sAsuw-nt-GM"
+                "yt": "godomkRXBLE"
               },
               {
                 "t": "p",
-                "x": "Maxon이 Fall 2026 에코시스템 릴리스를 공개했다. 2D·3D 디자인, 모션 그래픽, VFX 아티스트에게 더 큰 월드, 더 빠른 워크플로, 더 많은 창작 제어권을 약속한다. 주요 내용은 Cinema 4D, ZBrush, Redshift, Red Giant, Autograph의 2027.0 릴리스다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
+                "x": "Corridor Crew publicó el Oct. 16 un YouTube Short de 45 segundos titulado “CorridorKey 2.0 just works...”, con una descripción de una sola línea: “This Weekend.” El clip no incluye lista de funciones ni registro de cambios de la versión 2.0."
               },
               {
                 "t": "p",
-                "x": "Cinema 4D에는 절차적 Scatter 시스템과 Liquid FX 거품·물보라·기포가 더해졌다. ZBrush는 UV Editor를 추가했고, Redshift는 메모리 구조를 새로 짜고 절차적 퍼를 갖췄다."
+                "x": "CorridorKey es el keyer neuronal gratuito que Niko Pueringer creó en Corridor y liberó como código abierto en GitHub. Basta con darle un fotograma de pantalla verde sin procesar para que separe el primer plano y prediga el color recto real de cada píxel —incluidos el desenfoque de movimiento y los bordes fuera de foco— junto con un canal alfa lineal limpio, en lugar de la máscara binaria tosca típica de las herramientas de “AI Roto”."
               },
               {
                 "t": "p",
-                "x": "Red Giant Scene Light는 새로운 AI-powered 깊이 인식 재조명 도구다. 아티스트는 실사 영상과 CG 렌더에 사실적인 조명을 사후에 더하고 연출할 수 있다."
+                "x": "Entre las funciones actuales del repositorio figuran checkpoints dedicados para pantalla verde y azul con detección automática, inferencia independiente de la resolución hasta 4K sobre un backbone nativo de 2048x2048, entrada y salida EXR lineal de 16- y 32-bit para Nuke, Fusion o Resolve, y limpieza automática de marcadores de seguimiento. La versión más reciente funciona con 6–8GB de VRAM y en la mayoría de los M1+ Macs."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "CorridorKey\n2.0 티저 공개",
+          "body": "Corridor Crew가 45초짜리 CorridorKey 2.0 티저를 공개했다.",
+          "mini_headline": "CorridorKey 2.0 티저 공개",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "godomkRXBLE"
               },
               {
                 "t": "p",
-                "x": "Autograph MCP Server를 쓰면 Autograph를 지원되는 AI 에이전트와 연결할 수 있다. 에이전트는 작업을 돕고 워크플로 질문에 답하며, 자연어 프롬프트로 창작 과정 일부를 자동화한다. 아티스트는 Cinema 4D의 3D 요소를 Autograph로 바로 복사해 붙여 넣을 수도 있다."
+                "x": "Corridor Crew는 10월 16일 “CorridorKey 2.0 just works...”라는 제목의 45초 YouTube Short를 올렸고, 설명은 “This Weekend.” 한 줄뿐이다. 영상에는 2.0 버전의 기능 목록이나 변경 내역이 없다."
               },
               {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
+                "t": "p",
+                "x": "CorridorKey는 Niko Pueringer가 Corridor에서 만들어 GitHub에 오픈소스로 공개한 무료 신경망 키어다. 원본 그린스크린 프레임을 넣으면 전경을 분리해, 모션 블러와 초점이 나간 가장자리까지 포함한 모든 픽셀의 실제 스트레이트 컬러를 깨끗한 선형 알파 채널과 함께 예측한다. “AI Roto” 도구에서 흔히 보는 거친 이진 마스크와는 다르다."
+              },
+              {
+                "t": "p",
+                "x": "현재 저장소에 올라온 기능은 자동 감지를 갖춘 그린스크린·블루스크린 전용 체크포인트, 네이티브 2048x2048 백본에서 최대 4K 해상도까지 해상도와 무관하게 돌아가는 추론, Nuke·Fusion·Resolve용 16비트·32비트 선형 EXR 입출력, 트래킹 마커 자동 정리다. 최신 빌드는 6–8GB VRAM과 대부분의 M1+ Macs에서 돌아간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Maxon、AI再照明と\nAutograph用MCP",
-          "body": "Red Giant Scene LightはAI深度で実写とCGを撮影後に再照明する。",
-          "mini_headline": "MaxonがAI再照明を追加",
+          "headline": "CorridorKey\n2.0を予告公開",
+          "body": "Corridor Crewが45秒のCorridorKey 2.0ティザーを公開した。",
+          "mini_headline": "CorridorKey 2.0を予告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "sAsuw-nt-GM"
+                "yt": "godomkRXBLE"
               },
               {
                 "t": "p",
-                "x": "MaxonはFall 2026エコシステムリリースを発表した。2D・3Dデザイン、モーショングラフィックス、VFXに携わるアーティストに向け、より大きなワールド、より速いワークフロー、より高い創作の自由度をうたう。目玉はCinema 4D、ZBrush、Redshift、Red Giant、Autographの2027.0リリースだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
+                "x": "Corridor Crewは10月16日、“CorridorKey 2.0 just works...”と題した45秒のYouTube Shortを投稿した。説明文は“This Weekend.”の一行だけだ。動画では2.0の機能一覧や変更履歴は示されていない。"
               },
               {
                 "t": "p",
-                "x": "Cinema 4DにはプロシージャルなScatterシステムと、Liquid FXの泡・飛沫・気泡が加わった。ZBrushはUV Editorを搭載し、Redshiftはメモリアーキテクチャを刷新してプロシージャルなファーを備えた。"
+                "x": "CorridorKeyは、Niko PueringerがCorridorで開発し、GitHubでオープンソース化した無料のニューラルキーヤーだ。未加工のグリーンバックのフレームを入力すると前景を分離し、モーションブラーやピンぼけした輪郭も含めて全ピクセルの本来のストレートカラーを、クリーンなリニアアルファチャンネルとともに推定する。“AI Roto”系ツールにありがちな硬い二値マスクとは異なる。"
               },
               {
                 "t": "p",
-                "x": "Red Giant Scene Lightは、AI-poweredの深度認識型リライティングツールだ。実写映像やCGレンダーに、撮影後からリアルな照明を加えて演出できる。"
-              },
-              {
-                "t": "p",
-                "x": "Autograph MCP Serverにより、Autographは対応するAIエージェントと連携できる。エージェントは作業を手伝い、ワークフローに関する質問に答え、自然言語のプロンプトで創作工程の一部を自動化する。Cinema 4Dの3D要素をAutographへ直接コピー&ペーストすることも可能だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
+                "x": "リポジトリにある現行機能は、自動判別付きのグリーンバック用・ブルーバック用専用チェックポイント、ネイティブ2048x2048バックボーンで最大4K までの解像度に依存しない推論、Nuke・Fusion・Resolve向けの16ビット・32ビットのリニアEXR入出力、トラッキングマーカーの自動除去だ。最新ビルドは6–8GBのVRAMと大半のM1+ Macsで動作する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Maxon推出AI重打光\n与Autograph MCP",
-          "body": "Red Giant Scene Light借助AI深度，在拍摄后为实拍和CG渲染重新打光。",
-          "mini_headline": "Maxon新增AI重打光",
+          "headline": "CorridorKey\n2.0预告发布",
+          "body": "Corridor Crew发布了CorridorKey 2.0的45秒预告片。",
+          "mini_headline": "CorridorKey 2.0预告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "sAsuw-nt-GM"
+                "yt": "godomkRXBLE"
               },
               {
                 "t": "p",
-                "x": "Maxon发布Fall 2026生态系统版本，承诺为从事2D与3D设计、动态图形和VFX的艺术家带来更大的世界、更快的工作流程和更多创作掌控。亮点包括Cinema 4D、ZBrush、Redshift、Red Giant和Autograph的2027.0版本。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
+                "x": "Corridor Crew于10月16日发布了一条45秒的YouTube Short，标题为“CorridorKey 2.0 just works...”，简介只有一行：“This Weekend.”。视频没有给出2.0版本的功能列表或更新日志。"
               },
               {
                 "t": "p",
-                "x": "Cinema 4D新增程序化Scatter系统以及Liquid FX泡沫、飞沫和气泡；ZBrush加入UV Editor；Redshift重构了内存架构，并新增程序化毛发。"
+                "x": "CorridorKey是Niko Pueringer在Corridor打造并在GitHub开源的免费神经网络抠像工具。输入原始绿幕帧，它就能分离前景，预测每个像素真实的直通颜色（包括运动模糊和失焦边缘），同时输出干净的线性alpha通道，而不是“AI Roto”类工具常见的生硬二值遮罩。"
               },
               {
                 "t": "p",
-                "x": "Red Giant Scene Light是一款全新的AI-powered深度感知重打光工具，艺术家可在事后为实拍素材和CG渲染添加并调校逼真的光照。"
-              },
-              {
-                "t": "p",
-                "x": "借助Autograph MCP Server，Autograph可与受支持的AI代理连接，通过自然语言提示协助完成任务、解答工作流程问题，并将部分创作流程自动化。艺术家还可以把Cinema 4D中的3D元素直接复制粘贴到Autograph。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Maxon suma reiluminación con AI\ny un servidor MCP para Autograph",
-          "body": "Red Giant Scene Light usa profundidad AI para reiluminar metraje real y renders CG después del rodaje.",
-          "mini_headline": "Maxon suma reiluminación con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "Maxon presentó su lanzamiento de ecosistema Fall 2026, que promete mundos más grandes, flujos de trabajo más rápidos y más control creativo para artistas de diseño 2D y 3D, gráficos en movimiento y VFX. Entre lo más destacado figuran las versiones 2027.0 de Cinema 4D, ZBrush, Redshift, Red Giant y Autograph."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0"
-              },
-              {
-                "t": "p",
-                "x": "Cinema 4D incorpora un sistema procedural Scatter y espuma, salpicaduras y burbujas en Liquid FX; ZBrush añade un UV Editor; Redshift renueva su arquitectura de memoria y suma pelaje procedural."
-              },
-              {
-                "t": "p",
-                "x": "Red Giant Scene Light es una nueva herramienta AI-powered de reiluminación con reconocimiento de profundidad que permite añadir y dirigir artísticamente una iluminación realista en metraje de acción real y renders CG a posteriori."
-              },
-              {
-                "t": "p",
-                "x": "Un Autograph MCP Server permite conectar Autograph con agentes de AI compatibles para ayudar en tareas, responder dudas sobre el flujo de trabajo y automatizar partes del proceso creativo mediante instrucciones en lenguaje natural. Los artistas también pueden copiar y pegar elementos 3D de Cinema 4D directamente en Autograph."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
+                "x": "代码库目前的功能包括带自动检测的绿幕和蓝幕专用检查点、基于原生2048x2048主干网络、最高可达4K 的分辨率无关推理、面向Nuke、Fusion或Resolve的16位和32位线性EXR输入输出，以及跟踪标记自动清理。最新版本可在6–8GB VRAM及大多数M1+ Macs上运行。"
               }
             ]
           }
@@ -395,15 +275,15 @@
       }
     },
     {
-      "id": "movies-astralabs",
+      "id": "movies-ai-joke-theft",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Astra·VerSe 맞손\nAI-native 영화제작",
-      "body": "SparkStation으로 각본부터 배급까지 잇고 컷마다 얼굴·장소를 지킨다.",
-      "mini_headline": "Astra·VerSe의 AI 파이프라인",
       "tool": "Movies",
-      "source": "AWN",
-      "url": "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 가짜 코미디언이\n농담을 통째로 베낀다",
+      "body": "AI-generated 봇이 농담 베껴 Instagram서 OnlyFans로 끈다.",
+      "mini_headline": "코미디언들, AI 농담 도용 고발",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/business/digital/ai-comedians-stealing-stand-up-jokes-instagram-onlyfans-1236732931/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -411,295 +291,355 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+            "cap": "왼쪽이 실제 George Brett Olson이다."
           },
           {
             "t": "p",
-            "x": "Astra Studios와 VerSe Innovation이 MIPCOM에서 Astra-Spark Alliance를 결성했다고 발표했다. 두 회사는 영화, 시리즈, 애니메이션, 브랜드 콘텐츠용 AI-native 제작 파이프라인을 같이 만들어 시장에 낸다. 마침 Astra는 새 기술 IP 부문 AstraLabs를 출범했다."
+            "x": "최근 몇 주 사이 코미디언 두 명이 영상을 올렸다. 소셜미디어에서 섹시한 AI “코미디언”이 자기들 루틴을 그대로 공연하며 조회수를 쌓는 장면이다."
           },
           {
             "t": "p",
-            "x": "제휴는 VerSe의 AI 콘텐츠 운영체제 SparkStation 위에 선다. 기획·각본부터 스토리보드, 에셋 생성, 편집, 렌더링, 배급까지 제작 전 과정을 이 시스템이 돌린다. 연속성 엔진은 처음부터 끝까지 얼굴, 표정, 의상, 장소, 소품을 고정하고 60개가 넘는 언어로 작동한다."
+            "x": "코미디언 George Brett Olson은 팔로워 300,000명을 거느린 AI Instagram 계정이 자신의 농담을 토씨 하나 틀리지 않고 베꼈다고 고발했다. 계정 속 인물은 같은 공연장 배경에 비슷한 옷차림을 한 사실적인 여성 캐릭터이고, OnlyFans 페이지도 운영한다. 그는 “AI가 내 농담과 의상을 훔쳤다”고 말했다. 하필 그 농담은 AI가 일자리를 위협한다는 내용이었다. “내게 일어난 일 중 가장 아이러니한 일이다.”"
           },
           {
             "t": "p",
-            "x": "제작은 AstraLabs가 맡고 모든 단계의 연출은 아티스트가 쥔다. 두 회사는 이렇게 하면 제작비가 \"최대 75%\" 줄고 제작 기간도 몇 달에서 몇 주로 짧아진다고 밝혔다."
+            "x": "Julia Jasunas(Comics Unleashed)는 팔로워 250,000명의 AI 계정이 자신의 농담 하나를 관객에게 건넨 말까지 그대로 베낀 사례를 보여줬다. Chortle은 같은 계정에서 Char Ramtin, Olivia Carter, Hannah Berner의 소재를 도용한 사례도 찾아냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+            "cap": "AI-generated 코미디언 두 명"
           },
           {
             "t": "p",
-            "x": "Astra Studios 창업자이자 CEO인 Biren Ghose는 \"Astra-Spark 제휴는 영화적 장인정신을 AI 제작의 구조 안에 들여놓는다\"고 말했다."
+            "x": "두 사람 다 Meta에서 아무 도움도 받지 못했다고 한다. Instagram 책임자 Adam Mosseri는 THR에 AI 콘텐츠를 금지하는 건 현실적이지 않다면서도, AI 크리에이터가 콘텐츠를 통째로 베끼고 있다면 “어떻게 대응할 수 있을지 찾아보는 게 좋겠다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Astra Studios teams with VerSe\non an AI-native film pipeline",
-          "body": "Built on SparkStation, the pipeline runs script to distribution, keeping faces and locations consistent across shots.",
-          "mini_headline": "Astra and VerSe's AI pipeline",
+          "headline": "Comics say AI fakes steal\ntheir jokes word for word",
+          "body": "Stand-up comics say AI-generated fake comics copy their jokes word for word on Instagram to funnel viewers to OnlyFans.",
+          "mini_headline": "Comics accuse AI joke thieves",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+                "cap": "The real George Brett Olson is at left."
               },
               {
                 "t": "p",
-                "x": "Astra Studios and VerSe Innovation have formed the Astra-Spark Alliance, announced at MIPCOM, to co-develop and market an AI-native production pipeline for film, series, animation and brand content. The news coincides with Astra's launch of AstraLabs, its new technology IP arm."
+                "x": "Two comics have posted videos within the past couple of weeks showing sexy AI “comedians” on social media racking up views by performing their exact routines."
               },
               {
                 "t": "p",
-                "x": "The alliance builds on SparkStation, VerSe's AI content operating system, which runs a production from ideation and scripting through storyboarding, asset generation, editing, rendering and distribution. Its continuity engine locks faces, expressions, wardrobe, locations and props across an entire production, and it works in more than 60 languages."
+                "x": "Comic George Brett Olson accused an AI Instagram account with 300,000 followers of ripping off his joke word for word — a realistic female character with the same venue background and similar clothing, which also has an OnlyFans page. “AI stole my joke and my outfit,” he said. His joke was about AI’s threat to jobs: “This is the most ironic thing that’s ever happened to me.”"
               },
               {
                 "t": "p",
-                "x": "AstraLabs brings the production side, with artists directing every stage. The companies say the model cuts production cost by \"up to 75%\" and timelines from months to weeks."
+                "x": "Julia Jasunas (Comics Unleashed) showed an AI account with 250,000 followers copying one of her jokes verbatim, even her aside to an audience member. Chortle found stolen material from Char Ramtin, Olivia Carter and Hannah Berner on the same account."
               },
-              {
-                "t": "p",
-                "x": "\"The Astra-Spark alliance puts cinematic craft inside the architecture of AI production,\" said Biren Ghose, founder and CEO of Astra Studios."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Astra Studios se alía con VerSe\nen un pipeline AI-native de cine",
-          "body": "Sobre SparkStation, el pipeline va del guion a la distribución con rostros y escenarios coherentes entre planos.",
-          "mini_headline": "El pipeline AI de Astra y VerSe",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+                "cap": "Two of the AI-generated comedians"
               },
               {
                 "t": "p",
-                "x": "Astra Studios y VerSe Innovation formaron la Astra-Spark Alliance, anunciada en MIPCOM, para desarrollar y comercializar de forma conjunta un pipeline de producción AI-native para cine, series, animación y contenido de marca. La noticia coincide con el lanzamiento de AstraLabs, el nuevo brazo de IP tecnológica de Astra."
-              },
-              {
-                "t": "p",
-                "x": "La alianza se basa en SparkStation, el sistema operativo de contenido con AI de VerSe, que gestiona una producción desde la ideación y el guion hasta el storyboard, la generación de recursos, la edición, el renderizado y la distribución. Su motor de continuidad fija rostros, expresiones, vestuario, escenarios y utilería en toda la producción, y funciona en más de 60 idiomas."
-              },
-              {
-                "t": "p",
-                "x": "AstraLabs aporta la parte de producción, con artistas que dirigen cada etapa. Las empresas afirman que el modelo reduce el costo de producción \"hasta un 75%\" y acorta los plazos de meses a semanas."
-              },
-              {
-                "t": "p",
-                "x": "\"La alianza Astra-Spark sitúa el oficio cinematográfico dentro de la arquitectura de la producción con AI\", dijo Biren Ghose, fundador y CEO de Astra Studios."
+                "x": "Both say Meta gave them no support. Instagram chief Adam Mosseri told THR banning AI content isn’t practical, but if an AI creator is ripping off content wholesale, “it would be good for us to work out what we can do about that.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Astra·VerSe 맞손\nAI-native 영화제작",
-          "body": "SparkStation으로 각본부터 배급까지 잇고 컷마다 얼굴·장소를 지킨다.",
-          "mini_headline": "Astra·VerSe의 AI 파이프라인",
+          "headline": "AI 가짜 코미디언이\n농담을 통째로 베낀다",
+          "body": "AI-generated 봇이 농담 베껴 Instagram서 OnlyFans로 끈다.",
+          "mini_headline": "코미디언들, AI 농담 도용 고발",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+                "cap": "왼쪽이 실제 George Brett Olson이다."
               },
               {
                 "t": "p",
-                "x": "Astra Studios와 VerSe Innovation이 MIPCOM에서 Astra-Spark Alliance를 결성했다고 발표했다. 두 회사는 영화, 시리즈, 애니메이션, 브랜드 콘텐츠용 AI-native 제작 파이프라인을 같이 만들어 시장에 낸다. 마침 Astra는 새 기술 IP 부문 AstraLabs를 출범했다."
+                "x": "최근 몇 주 사이 코미디언 두 명이 영상을 올렸다. 소셜미디어에서 섹시한 AI “코미디언”이 자기들 루틴을 그대로 공연하며 조회수를 쌓는 장면이다."
               },
               {
                 "t": "p",
-                "x": "제휴는 VerSe의 AI 콘텐츠 운영체제 SparkStation 위에 선다. 기획·각본부터 스토리보드, 에셋 생성, 편집, 렌더링, 배급까지 제작 전 과정을 이 시스템이 돌린다. 연속성 엔진은 처음부터 끝까지 얼굴, 표정, 의상, 장소, 소품을 고정하고 60개가 넘는 언어로 작동한다."
+                "x": "코미디언 George Brett Olson은 팔로워 300,000명을 거느린 AI Instagram 계정이 자신의 농담을 토씨 하나 틀리지 않고 베꼈다고 고발했다. 계정 속 인물은 같은 공연장 배경에 비슷한 옷차림을 한 사실적인 여성 캐릭터이고, OnlyFans 페이지도 운영한다. 그는 “AI가 내 농담과 의상을 훔쳤다”고 말했다. 하필 그 농담은 AI가 일자리를 위협한다는 내용이었다. “내게 일어난 일 중 가장 아이러니한 일이다.”"
               },
               {
                 "t": "p",
-                "x": "제작은 AstraLabs가 맡고 모든 단계의 연출은 아티스트가 쥔다. 두 회사는 이렇게 하면 제작비가 \"최대 75%\" 줄고 제작 기간도 몇 달에서 몇 주로 짧아진다고 밝혔다."
+                "x": "Julia Jasunas(Comics Unleashed)는 팔로워 250,000명의 AI 계정이 자신의 농담 하나를 관객에게 건넨 말까지 그대로 베낀 사례를 보여줬다. Chortle은 같은 계정에서 Char Ramtin, Olivia Carter, Hannah Berner의 소재를 도용한 사례도 찾아냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+                "cap": "AI-generated 코미디언 두 명"
               },
               {
                 "t": "p",
-                "x": "Astra Studios 창업자이자 CEO인 Biren Ghose는 \"Astra-Spark 제휴는 영화적 장인정신을 AI 제작의 구조 안에 들여놓는다\"고 말했다."
+                "x": "두 사람 다 Meta에서 아무 도움도 받지 못했다고 한다. Instagram 책임자 Adam Mosseri는 THR에 AI 콘텐츠를 금지하는 건 현실적이지 않다면서도, AI 크리에이터가 콘텐츠를 통째로 베끼고 있다면 “어떻게 대응할 수 있을지 찾아보는 게 좋겠다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Astra・VerSe提携\nAI-native映画制作",
-          "body": "SparkStation基盤で脚本から配信まで担い、顔や場所をショット間で保つ。",
-          "mini_headline": "AstraとVerSeのAIパイプライン",
+          "headline": "AIの偽芸人が\nネタを丸ごと盗む",
+          "body": "AI-generatedの偽芸人がInstagramでネタを盗みOnlyFansへ誘う。",
+          "mini_headline": "芸人がAIのネタ盗用を告発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+                "cap": "左が本物のGeorge Brett Olson。"
               },
               {
                 "t": "p",
-                "x": "Astra StudiosとVerSe InnovationはMIPCOMでAstra-Spark Allianceの結成を発表した。映画、シリーズ、アニメーション、ブランドコンテンツ向けのAI-native制作パイプラインを共同で開発し、市場に展開する。発表はAstraが新たな技術IP部門AstraLabsを立ち上げた時期と重なる。"
+                "x": "ここ数週間のうちに二人の芸人が、SNS上でセクシーなAI「コメディアン」が自分たちのネタをそのまま演じて再生数を稼いでいる様子を示す動画を投稿した。"
               },
               {
                 "t": "p",
-                "x": "提携の土台はVerSeのAIコンテンツOS、SparkStationだ。企画と脚本からストーリーボード、アセット生成、編集、レンダリング、配信まで制作全体を動かす。コンティニュイティエンジンが制作全体を通じて顔、表情、衣装、場所、小道具を固定し、60を超える言語で動作する。"
+                "x": "芸人のGeorge Brett Olsonは、フォロワー300,000人のAI Instagramアカウントが自分のネタを一字一句盗んだと告発した。同じ会場の背景と似た服装のリアルな女性キャラクターで、OnlyFansのページも持っている。「AIにネタも衣装も盗まれた」と彼は語った。彼のネタはAIが仕事を脅かすという内容で、「これまでで一番皮肉な出来事だ」という。"
               },
               {
                 "t": "p",
-                "x": "制作面はAstraLabsが担い、アーティストが全工程を指揮する。両社によれば、このモデルは制作費を「最大75%」削減し、制作期間を数か月から数週間に縮める。"
+                "x": "Julia Jasunas（Comics Unleashed）は、フォロワー250,000人のAIアカウントが自分のネタの一つを、観客への一言まで含めてそのまま真似ていることを示した。Chortleは同じアカウントでChar Ramtin、Olivia Carter、Hannah Bernerのネタの盗用も見つけた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+                "cap": "AI-generatedのコメディアン二人"
               },
               {
                 "t": "p",
-                "x": "Astra Studios創業者兼CEOのBiren Ghoseは「Astra-Spark提携は、映画の職人技をAI制作の構造の内側に据える」と述べた。"
+                "x": "二人ともMetaからの支援はなかったと話す。InstagramトップのAdam MosseriはTHRに対し、AIコンテンツの禁止は現実的ではないとしつつ、AIクリエイターがコンテンツを丸ごと盗用しているなら「どう対処できるか検討するのがいいだろう」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Astra携手VerSe\nAI-native影视管线",
-          "body": "该管线基于SparkStation，从剧本到发行全程运行，跨镜头保持人脸与场景一致。",
-          "mini_headline": "Astra与VerSe的AI管线",
+          "headline": "喜剧演员：AI冒牌货\n逐字偷走段子",
+          "body": "AI-generated冒牌货在Instagram逐字照搬段子，为OnlyFans引流。",
+          "mini_headline": "喜剧演员控诉AI偷段子",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+                "cap": "左为真正的George Brett Olson。"
               },
               {
                 "t": "p",
-                "x": "Astra Studios与VerSe Innovation在MIPCOM上宣布组建Astra-Spark Alliance，共同开发并推广面向电影、剧集、动画和品牌内容的AI-native制作管线。消息发布之际，Astra同时推出了新的技术IP部门AstraLabs。"
+                "x": "过去几周内，两名喜剧演员发布视频，展示社交媒体上性感的AI“喜剧演员”原封不动地表演他们的段子，收割大量播放量。"
               },
               {
                 "t": "p",
-                "x": "该联盟以VerSe的AI内容操作系统SparkStation为基础，覆盖从创意构思、剧本写作到分镜、素材生成、剪辑、渲染和发行的整个制作流程。其连续性引擎在整部作品中锁定人脸、表情、服装、场景和道具，并支持60多种语言。"
+                "x": "喜剧演员George Brett Olson指控一个拥有300,000名粉丝的AI Instagram账号逐字抄袭他的段子——那是一个写实的女性角色，背景是同一演出场地，穿着也相似，还开设了OnlyFans页面。“AI偷走了我的段子和我的衣服，”他说。他的段子讲的正是AI对工作的威胁：“这是我遇到过最讽刺的事。”"
               },
               {
                 "t": "p",
-                "x": "AstraLabs负责制作端，由艺术家主导每个环节。两家公司表示，这一模式可将制作成本降低\"最多75%\"，并把制作周期从数月缩短到数周。"
+                "x": "Julia Jasunas（Comics Unleashed）展示了一个拥有250,000名粉丝的AI账号逐字照搬她的一个段子，连她对台下观众的插话都没放过。Chortle还在同一账号上发现了Char Ramtin、Olivia Carter和Hannah Berner被盗用的内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+                "cap": "两位AI-generated喜剧演员"
               },
               {
                 "t": "p",
-                "x": "Astra Studios创始人兼CEO Biren Ghose表示：\"Astra-Spark联盟把电影工艺放进了AI制作的架构之中。\""
+                "x": "两人都表示Meta没有提供任何帮助。Instagram负责人Adam Mosseri对THR表示，禁止AI内容并不现实，但如果AI创作者整批照搬内容，“我们最好想想能对此做些什么。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Cómicos: falsos de AI les roban\nlos chistes palabra por palabra",
+          "body": "Cómicos denuncian que falsos cómicos AI-generated copian sus chistes en Instagram para llevar público a OnlyFans.",
+          "mini_headline": "Cómicos denuncian robo de chistes con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+                "cap": "El verdadero George Brett Olson está a la izquierda."
+              },
+              {
+                "t": "p",
+                "x": "Dos cómicos han publicado en las últimas semanas videos que muestran a sexis “comediantes” de AI en redes sociales acumulando visualizaciones con sus rutinas exactas."
+              },
+              {
+                "t": "p",
+                "x": "El cómico George Brett Olson acusó a una cuenta de Instagram de AI con 300,000 seguidores de copiar su chiste palabra por palabra: un personaje femenino realista con el mismo fondo de local y ropa similar, que además tiene una página de OnlyFans. “La AI me robó el chiste y el atuendo”, dijo. Su chiste trataba sobre la amenaza de la AI para el empleo: “Es lo más irónico que me ha pasado nunca”."
+              },
+              {
+                "t": "p",
+                "x": "Julia Jasunas (Comics Unleashed) mostró una cuenta de AI con 250,000 seguidores que copiaba textualmente uno de sus chistes, incluso su comentario a un espectador. Chortle encontró en la misma cuenta material robado de Char Ramtin, Olivia Carter y Hannah Berner."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+                "cap": "Dos de los comediantes AI-generated"
+              },
+              {
+                "t": "p",
+                "x": "Ambos dicen que Meta no les dio ningún apoyo. El jefe de Instagram, Adam Mosseri, dijo a THR que prohibir el contenido de AI no es práctico, pero que si un creador de AI está copiando contenido al por mayor, “sería bueno que viéramos qué podemos hacer al respecto”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Astra Studios se alía con VerSe\nen un pipeline AI-native de cine",
-          "body": "Sobre SparkStation, el pipeline va del guion a la distribución con rostros y escenarios coherentes entre planos.",
-          "mini_headline": "El pipeline AI de Astra y VerSe",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
-              },
-              {
-                "t": "p",
-                "x": "Astra Studios y VerSe Innovation formaron la Astra-Spark Alliance, anunciada en MIPCOM, para desarrollar y comercializar de forma conjunta un pipeline de producción AI-native para cine, series, animación y contenido de marca. La noticia coincide con el lanzamiento de AstraLabs, el nuevo brazo de IP tecnológica de Astra."
-              },
-              {
-                "t": "p",
-                "x": "La alianza se basa en SparkStation, el sistema operativo de contenido con AI de VerSe, que gestiona una producción desde la ideación y el guion hasta el storyboard, la generación de recursos, la edición, el renderizado y la distribución. Su motor de continuidad fija rostros, expresiones, vestuario, escenarios y utilería en toda la producción, y funciona en más de 60 idiomas."
-              },
-              {
-                "t": "p",
-                "x": "AstraLabs aporta la parte de producción, con artistas que dirigen cada etapa. Las empresas afirman que el modelo reduce el costo de producción \"hasta un 75%\" y acorta los plazos de meses a semanas."
-              },
-              {
-                "t": "p",
-                "x": "\"La alianza Astra-Spark sitúa el oficio cinematográfico dentro de la arquitectura de la producción con AI\", dijo Biren Ghose, fundador y CEO de Astra Studios."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Astra·VerSe 맞손\nAI-native 영화제작",
-          "body": "SparkStation 기반으로 각본부터 배급까지, 컷마다 얼굴·장소를 지킨다.",
-          "mini_headline": "Astra·VerSe의 AI 파이프라인",
+          "headline": "AI 가짜 코미디언이\n농담을 통째로 베낀다",
+          "body": "AI-generated 봇이 농담 베껴 Instagram서 OnlyFans로 끈다.",
+          "mini_headline": "코미디언들, AI 농담 도용 고발",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+                "cap": "왼쪽이 실제 George Brett Olson이다."
               },
               {
                 "t": "p",
-                "x": "Astra Studios와 VerSe Innovation이 MIPCOM에서 Astra-Spark Alliance 결성을 발표했다. 두 회사는 영화, 시리즈, 애니메이션, 브랜드 콘텐츠를 위한 AI-native 제작 파이프라인을 함께 개발하고 시장에 내놓는다. 발표는 Astra가 새 기술 IP 부문 AstraLabs를 출범한 시점과 맞물린다."
+                "x": "최근 몇 주 사이 코미디언 두 명이, 소셜미디어에서 섹시한 AI “코미디언”이 자신들의 루틴을 그대로 공연하며 조회수를 쌓는 모습을 담은 영상을 올렸다."
               },
               {
                 "t": "p",
-                "x": "이번 제휴의 바탕은 VerSe의 AI 콘텐츠 운영체제 SparkStation이다. 기획과 각본에서 스토리보드, 에셋 생성, 편집, 렌더링, 배급까지 제작 전 과정을 운영한다. 연속성 엔진이 제작 전체에 걸쳐 얼굴, 표정, 의상, 장소, 소품을 고정하며, 60개가 넘는 언어로 작동한다."
+                "x": "코미디언 George Brett Olson은 팔로워 300,000명을 거느린 AI Instagram 계정이 자신의 농담을 토씨 하나 틀리지 않고 베꼈다고 고발했다. 같은 공연장 배경에 비슷한 옷차림을 한 사실적인 여성 캐릭터로, OnlyFans 페이지도 운영한다. 그는 “AI가 내 농담과 의상을 훔쳤다”고 말했다. 그의 농담은 AI가 일자리를 위협한다는 내용이었다. “내게 일어난 일 중 가장 아이러니한 일이다.”"
               },
               {
                 "t": "p",
-                "x": "AstraLabs는 제작을 맡고, 아티스트가 모든 단계를 연출한다. 두 회사는 이 방식이 제작비를 \"최대 75%\" 줄이고 제작 기간을 몇 달에서 몇 주로 단축한다고 밝혔다."
+                "x": "Julia Jasunas(Comics Unleashed)는 팔로워 250,000명의 AI 계정이 자신의 농담 하나를 관객에게 건넨 말까지 그대로 베낀 사례를 보여줬다. Chortle은 같은 계정에서 Char Ramtin, Olivia Carter, Hannah Berner의 소재를 도용한 사례도 찾아냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+                "cap": "AI-generated 코미디언 두 명"
               },
               {
                 "t": "p",
-                "x": "Astra Studios 창업자이자 CEO인 Biren Ghose는 \"Astra-Spark 제휴는 영화적 장인정신을 AI 제작의 구조 안에 들여놓는다\"고 말했다."
+                "x": "두 사람 모두 Meta로부터 아무 지원도 받지 못했다고 말한다. Instagram 책임자 Adam Mosseri는 THR에 AI 콘텐츠를 금지하는 것은 현실적이지 않다면서도, AI 크리에이터가 콘텐츠를 통째로 베끼고 있다면 “어떻게 대응할 수 있을지 찾아보는 게 좋겠다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Astra・VerSe提携\nAI-native映画制作",
-          "body": "SparkStation基盤で脚本から配信まで担い、顔や場所をショット間で保つ。",
-          "mini_headline": "AstraとVerSeのAIパイプライン",
+          "headline": "AIの偽芸人が\nネタを丸ごと盗む",
+          "body": "AI-generatedの偽芸人がInstagramでネタを盗みOnlyFansへ誘う。",
+          "mini_headline": "芸人がAIのネタ盗用を告発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+                "cap": "左が本物のGeorge Brett Olson。"
               },
               {
                 "t": "p",
-                "x": "Astra StudiosとVerSe InnovationはMIPCOMでAstra-Spark Allianceの結成を発表した。映画、シリーズ、アニメーション、ブランドコンテンツ向けのAI-native制作パイプラインを共同で開発し、市場に展開する。発表はAstraが新たな技術IP部門AstraLabsを立ち上げた時期と重なる。"
+                "x": "ここ数週間のうちに二人の芸人が、SNS上でセクシーなAI「コメディアン」が自分たちのネタをそのまま演じて再生数を稼いでいる様子を示す動画を投稿した。"
               },
               {
                 "t": "p",
-                "x": "提携の土台はVerSeのAIコンテンツOS、SparkStationだ。企画と脚本からストーリーボード、アセット生成、編集、レンダリング、配信まで制作全体を動かす。コンティニュイティエンジンが制作全体を通じて顔、表情、衣装、場所、小道具を固定し、60を超える言語で動作する。"
+                "x": "芸人のGeorge Brett Olsonは、フォロワー300,000人のAI Instagramアカウントが自分のネタを一字一句盗んだと告発した。同じ会場の背景と似た服装のリアルな女性キャラクターで、OnlyFansのページも持っている。「AIにネタも衣装も盗まれた」と彼は語った。彼のネタはAIが仕事を脅かすという内容で、「これまでで一番皮肉な出来事だ」という。"
               },
               {
                 "t": "p",
-                "x": "制作面はAstraLabsが担い、アーティストが全工程を指揮する。両社によれば、このモデルは制作費を「最大75%」削減し、制作期間を数か月から数週間に縮める。"
+                "x": "Julia Jasunas（Comics Unleashed）は、フォロワー250,000人のAIアカウントが自分のネタの一つを、観客への一言まで含めてそのまま真似ていることを示した。Chortleは同じアカウントでChar Ramtin、Olivia Carter、Hannah Bernerのネタの盗用も見つけた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+                "cap": "AI-generatedのコメディアン二人"
               },
               {
                 "t": "p",
-                "x": "Astra Studios創業者兼CEOのBiren Ghoseは「Astra-Spark提携は、映画の職人技をAI制作の構造の内側に据える」と述べた。"
+                "x": "二人ともMetaからの支援はなかったと話す。InstagramトップのAdam MosseriはTHRに対し、AIコンテンツの禁止は現実的ではないとしつつ、AIクリエイターがコンテンツを丸ごと盗用しているなら「どう対処できるか検討するのがいいだろう」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Astra携手VerSe\nAI-native影视管线",
-          "body": "该管线基于SparkStation，从剧本到发行全程运行，跨镜头保持人脸与场景一致。",
-          "mini_headline": "Astra与VerSe的AI管线",
+          "headline": "喜剧演员：AI冒牌货\n逐字偷走段子",
+          "body": "AI-generated冒牌货在Instagram逐字照搬段子，为OnlyFans引流。",
+          "mini_headline": "喜剧演员控诉AI偷段子",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/attached/1081545-1000850912b.jpg?itok=gAzxyuGs"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+                "cap": "左为真正的George Brett Olson。"
               },
               {
                 "t": "p",
-                "x": "Astra Studios与VerSe Innovation在MIPCOM上宣布组建Astra-Spark Alliance，共同开发并推广面向电影、剧集、动画和品牌内容的AI-native制作管线。消息发布之际，Astra同时推出了新的技术IP部门AstraLabs。"
+                "x": "过去几周内，两名喜剧演员发布视频，展示社交媒体上性感的AI“喜剧演员”原封不动地表演他们的段子，收割大量播放量。"
               },
               {
                 "t": "p",
-                "x": "该联盟以VerSe的AI内容操作系统SparkStation为基础，覆盖从创意构思、剧本写作到分镜、素材生成、剪辑、渲染和发行的整个制作流程。其连续性引擎在整部作品中锁定人脸、表情、服装、场景和道具，并支持60多种语言。"
+                "x": "喜剧演员George Brett Olson指控一个拥有300,000名粉丝的AI Instagram账号逐字抄袭他的段子——那是一个写实的女性角色，背景是同一演出场地，穿着也相似，还开设了OnlyFans页面。“AI偷走了我的段子和我的衣服，”他说。他的段子讲的正是AI对工作的威胁：“这是我遇到过最讽刺的事。”"
               },
               {
                 "t": "p",
-                "x": "AstraLabs负责制作端，由艺术家主导每个环节。两家公司表示，这一模式可将制作成本降低\"最多75%\"，并把制作周期从数月缩短到数周。"
+                "x": "Julia Jasunas（Comics Unleashed）展示了一个拥有250,000名粉丝的AI账号逐字照搬她的一个段子，连她对台下观众的插话都没放过。Chortle还在同一账号上发现了Char Ramtin、Olivia Carter和Hannah Berner被盗用的内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+                "cap": "两位AI-generated喜剧演员"
               },
               {
                 "t": "p",
-                "x": "Astra Studios创始人兼CEO Biren Ghose表示：\"Astra-Spark联盟把电影工艺放进了AI制作的架构之中。\""
+                "x": "两人都表示Meta没有提供任何帮助。Instagram负责人Adam Mosseri对THR表示，禁止AI内容并不现实，但如果AI创作者整批照搬内容，“我们最好想想能对此做些什么。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Cómicos: falsos de AI les roban\nlos chistes palabra por palabra",
+          "body": "Cómicos denuncian que falsos cómicos AI-generated copian sus chistes en Instagram para llevar público a OnlyFans.",
+          "mini_headline": "Cómicos denuncian robo de chistes con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
+                "cap": "El verdadero George Brett Olson está a la izquierda."
+              },
+              {
+                "t": "p",
+                "x": "Dos cómicos han publicado en las últimas semanas videos que muestran a sexis “comediantes” de AI en redes sociales acumulando visualizaciones con sus rutinas exactas."
+              },
+              {
+                "t": "p",
+                "x": "El cómico George Brett Olson acusó a una cuenta de Instagram de AI con 300,000 seguidores de copiar su chiste palabra por palabra: un personaje femenino realista con el mismo fondo de local y ropa similar, que además tiene una página de OnlyFans. “La AI me robó el chiste y el atuendo”, dijo. Su chiste trataba sobre la amenaza de la AI para el empleo: “Es lo más irónico que me ha pasado nunca”."
+              },
+              {
+                "t": "p",
+                "x": "Julia Jasunas (Comics Unleashed) mostró una cuenta de AI con 250,000 seguidores que copiaba textualmente uno de sus chistes, incluso su comentario a un espectador. Chortle encontró en la misma cuenta material robado de Char Ramtin, Olivia Carter y Hannah Berner."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Screen-Comedy-Spotlight.png?w=1661",
+                "cap": "Dos de los comediantes AI-generated"
+              },
+              {
+                "t": "p",
+                "x": "Ambos dicen que Meta no les dio ningún apoyo. El jefe de Instagram, Adam Mosseri, dijo a THR que prohibir el contenido de AI no es práctico, pero que si un creador de AI está copiando contenido al por mayor, “sería bueno que viéramos qué podemos hacer al respecto”."
               }
             ]
           }
@@ -707,15 +647,15 @@
       }
     },
     {
-      "id": "movies-celebrity-deepfakes",
+      "id": "movies-wahlberg",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "유명인 AI 딥페이크가\n소셜 피드를 덮다",
-      "body": "가짜 Mia Goth 사진이 AI 표시 없이 좋아요 500,000개 가까이 받았다.",
-      "mini_headline": "유명인 딥페이크 확산",
       "tool": "Movies",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "eyebrow": "AI NEWS",
+      "headline": "Mark Wahlberg,\nAI 분신에도 열려 있다",
+      "body": "Mark Wahlberg는 작품을 돕는 AI라면 괜찮다며 AI 분신에도 열려 있다.",
+      "mini_headline": "Wahlberg, AI 분신에 열린 태도",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -723,295 +663,355 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+            "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
           },
           {
             "t": "p",
-            "x": "유명인 AI 사진과 영상이 소셜 미디어에서 수백만 조회수를 올린다. 배우 Mia Goth의 AI-generated Instagram 이미지가 그랬다. 팔로워가 백만 명이 넘는 인증 팬 계정이 올린 이 이미지는 좋아요를 500,000개 가까이 받았고 Instagram이 계정을 지울 때까지 가십 사이트와 Google의 AI 개요를 타고 퍼졌다."
+            "x": "Hollywood에서는 영화 제작에 AI를 쓰는 문제로 아직 의견이 갈린다. 배우이자 감독, 엔젤 투자자인 Mark Wahlberg는 TechCrunch Disrupt에서 제대로만 쓴다면 이 기술에도 설 자리가 있다고 말했다. 곧 나올 Pete Rose 전기 영화에서도 경기장 장면을 보강하는 데 AI를 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Scarlett Johansson 같은 스타의 선정적인 AI 이미지를 올리는 계정도 있다. Taylor Swift의 AI 영상은 수백만 조회수를 찍는다. The Verge가 계정 여덟 곳을 묻자 Meta는 일부를 지웠다고 답했다."
+            "x": "“그냥 ChatGPT에 아이디어를 넣어 대본이 나오면, 진짜 배우 없이 그걸 그대로 만들어야 한다고는 생각하지 않는다. 하지만 하는 일을 보강하는 데 쓸 수 있다면 전적으로 찬성이다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+            "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
           },
           {
             "t": "p",
-            "x": "YouTube는 초상 감지 기능으로 삭제 요청을 받는다. 2026년 상반기 이 프로그램으로 신고된 영상은 95퍼센트 이상 내려갔다."
+            "x": "배우를 스캔해 AI 복제본을 만드는 CAA Vault를 묻자 가본 적은 없지만 열려 있다며 “내 자녀나 손주들이 내 초상과 이미지를 관리할 수 있다면 멋질 것”이라고 했다. 곧 나올 애니메이션 시리즈 “Ted”가 그의 모습을 본뜬 AI 버전으로 수십 년간 이어지는 것에도 반대하지 않겠다고 했다."
           },
           {
-            "t": "p",
-            "x": "Meta는 정지 이미지를 AI 표시 의무에서 빼 두었다. Meta 규정대로라면 가짜 Goth 이미지에는 고지가 필요 없었던 셈이다."
+            "t": "video",
+            "yt": "S2LYDFvDUQ4"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Celebrity AI deepfakes are\nflooding social feeds",
-          "body": "Meta doesn't require AI labels on still images, so a fake Mia Goth post drew nearly 500,000 likes undisclosed.",
-          "mini_headline": "Celebrity deepfakes spread",
+          "headline": "Mark Wahlberg is open to an\nAI clone carrying on his legacy",
+          "body": "Actor and investor Mark Wahlberg says AI is fine in film if it enhances the work, and he is open to an AI legacy clone.",
+          "mini_headline": "Wahlberg open to an AI clone",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "AI photos and videos of celebrities are racking up millions of views on social media. An AI-generated Instagram image of actress Mia Goth, posted by a verified fan account with more than a million followers, drew nearly 500,000 likes and spread through gossip sites and Google's AI overview before Instagram removed the account."
+                "x": "Even as Hollywood remains divided over AI in filmmaking, actor, director and angel investor Mark Wahlberg told TechCrunch Disrupt the technology has a place as long as it’s used the right way. He may use AI to enhance the stadium setting in the upcoming Pete Rose biopic."
               },
               {
                 "t": "p",
-                "x": "Accounts post sexualized AI images of stars like Scarlett Johansson, and AI videos of Taylor Swift rack up millions of views. After The Verge asked about eight accounts, Meta said it had removed some."
+                "x": "“I don’t think you should just, you know, put an idea into ChatGPT and it puts out a script, and then you should go make that and not use real actors. But if you can use it to enhance what you’re doing, I’m all for that.”"
               },
-              {
-                "t": "p",
-                "x": "YouTube's likeness detection lets people request takedowns; it removed over 95 percent of videos reported through the program in the first half of 2026."
-              },
-              {
-                "t": "p",
-                "x": "On Meta, still images are exempt from the AI labeling requirement, so the fake Goth image wouldn't have required a disclosure under Meta's rules."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "名人AI深度伪造\n充斥社交媒体",
-          "body": "Meta不要求静态图片标注AI，假Mia Goth帖子未经标注获近500,000次点赞。",
-          "mini_headline": "名人深度伪造泛滥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "名人的AI照片和视频正在社交媒体上收获数百万次观看。一个拥有逾百万粉丝的认证粉丝账号发布了一张演员Mia Goth的AI-generated Instagram图片，获得近500,000个赞，并在Instagram删除该账号之前经由八卦网站和Google的AI概览广泛传播。"
+                "x": "Asked about the CAA Vault, where actors are scanned to create AI replicas, he said he hadn’t visited but would be open to it: “it would be cool that my children or my grandchildren could be in charge of my likeness and my image.” He also wouldn’t oppose his upcoming animated series “Ted” continuing for decades with an AI version of his likeness."
               },
               {
-                "t": "p",
-                "x": "一些账号发布Scarlett Johansson等明星的色情化AI图片，Taylor Swift的AI视频也获得数百万次观看。The Verge就八个账号询问后，Meta表示已删除其中一部分。"
-              },
-              {
-                "t": "p",
-                "x": "YouTube的肖像检测功能允许用户申请下架；2026年上半年，通过该计划举报的视频中有超过95%被移除。"
-              },
-              {
-                "t": "p",
-                "x": "在Meta平台上，静态图片不受AI标注要求约束，因此按照Meta的规定，这张假Goth图片无需披露。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los deepfakes de famosos con AI\ninundan las redes sociales",
-          "body": "Meta no exige etiquetas de AI en imágenes fijas, y una imagen falsa de Mia Goth logró casi 500,000 me gusta sin aviso.",
-          "mini_headline": "Se propagan deepfakes de famosos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Las fotos y videos de famosos creados con AI acumulan millones de visualizaciones en redes sociales. Una imagen AI-generated de Instagram de la actriz Mia Goth, publicada por una cuenta de fans verificada con más de un millón de seguidores, obtuvo casi 500,000 me gusta y se difundió por sitios de chismes y el resumen de AI de Google antes de que Instagram eliminara la cuenta."
-              },
-              {
-                "t": "p",
-                "x": "Hay cuentas que publican imágenes sexualizadas con AI de estrellas como Scarlett Johansson, y los videos con AI de Taylor Swift suman millones de visualizaciones. Después de que The Verge preguntara por ocho cuentas, Meta dijo que había eliminado algunas."
-              },
-              {
-                "t": "p",
-                "x": "La detección de semejanza de YouTube permite solicitar retiradas; en el primer semestre de 2026 eliminó más del 95 por ciento de los videos denunciados a través del programa."
-              },
-              {
-                "t": "p",
-                "x": "En Meta, las imágenes fijas están exentas del requisito de etiquetado de AI, por lo que la imagen falsa de Goth no habría requerido aviso según las normas de Meta."
+                "t": "video",
+                "yt": "S2LYDFvDUQ4"
               }
             ]
           }
         },
         "ko": {
-          "headline": "유명인 AI 딥페이크가\n소셜 피드를 덮다",
-          "body": "가짜 Mia Goth 사진이 AI 표시 없이 좋아요 500,000개 가까이 받았다.",
-          "mini_headline": "유명인 딥페이크 확산",
+          "headline": "Mark Wahlberg,\nAI 분신에도 열려 있다",
+          "body": "Mark Wahlberg는 작품을 돕는 AI라면 괜찮다며 AI 분신에도 열려 있다.",
+          "mini_headline": "Wahlberg, AI 분신에 열린 태도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "유명인 AI 사진과 영상이 소셜 미디어에서 수백만 조회수를 올린다. 배우 Mia Goth의 AI-generated Instagram 이미지가 그랬다. 팔로워가 백만 명이 넘는 인증 팬 계정이 올린 이 이미지는 좋아요를 500,000개 가까이 받았고 Instagram이 계정을 지울 때까지 가십 사이트와 Google의 AI 개요를 타고 퍼졌다."
+                "x": "Hollywood에서는 영화 제작에 AI를 쓰는 문제로 아직 의견이 갈린다. 배우이자 감독, 엔젤 투자자인 Mark Wahlberg는 TechCrunch Disrupt에서 제대로만 쓴다면 이 기술에도 설 자리가 있다고 말했다. 곧 나올 Pete Rose 전기 영화에서도 경기장 장면을 보강하는 데 AI를 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Scarlett Johansson 같은 스타의 선정적인 AI 이미지를 올리는 계정도 있다. Taylor Swift의 AI 영상은 수백만 조회수를 찍는다. The Verge가 계정 여덟 곳을 묻자 Meta는 일부를 지웠다고 답했다."
+                "x": "“그냥 ChatGPT에 아이디어를 넣어 대본이 나오면, 진짜 배우 없이 그걸 그대로 만들어야 한다고는 생각하지 않는다. 하지만 하는 일을 보강하는 데 쓸 수 있다면 전적으로 찬성이다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "YouTube는 초상 감지 기능으로 삭제 요청을 받는다. 2026년 상반기 이 프로그램으로 신고된 영상은 95퍼센트 이상 내려갔다."
+                "x": "배우를 스캔해 AI 복제본을 만드는 CAA Vault를 묻자 가본 적은 없지만 열려 있다며 “내 자녀나 손주들이 내 초상과 이미지를 관리할 수 있다면 멋질 것”이라고 했다. 곧 나올 애니메이션 시리즈 “Ted”가 그의 모습을 본뜬 AI 버전으로 수십 년간 이어지는 것에도 반대하지 않겠다고 했다."
               },
               {
-                "t": "p",
-                "x": "Meta는 정지 이미지를 AI 표시 의무에서 빼 두었다. Meta 규정대로라면 가짜 Goth 이미지에는 고지가 필요 없었던 셈이다."
+                "t": "video",
+                "yt": "S2LYDFvDUQ4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "有名人のAIディープフェイク\nSNSにあふれる",
-          "body": "偽のMia Goth投稿はAI表示なしで約500,000件のいいねを集めた。",
-          "mini_headline": "有名人ディープフェイク拡散",
+          "headline": "Mark Wahlberg、\nAI分身にも前向き",
+          "body": "Mark Wahlbergは、作品を高めるならAIは構わず、AI分身にも前向きだと語った。",
+          "mini_headline": "WahlbergはAI分身に前向き",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "有名人のAI写真や動画がソーシャルメディアで数百万回の再生を集めている。フォロワー百万人超の認証済みファンアカウントが投稿した、女優Mia GothのAI-generated Instagram画像は約500,000件のいいねを集め、Instagramがアカウントを削除するまでにゴシップサイトやGoogleのAI概要を通じて拡散した。"
+                "x": "映画制作へのAI活用をめぐってHollywoodの意見が割れたままのなか、俳優で監督、エンジェル投資家でもあるMark WahlbergはTechCrunch Disruptで、正しく使う限りこの技術には居場所があると語った。今後のPete Roseの伝記映画では、スタジアムの場面を補強するのにAIを使う可能性がある。"
               },
               {
                 "t": "p",
-                "x": "Scarlett Johanssonらスターの性的なAI画像を投稿するアカウントがあり、Taylor SwiftのAI動画は数百万回再生されている。The Vergeが八つのアカウントについて問い合わせると、Metaは一部を削除したと答えた。"
+                "x": "「ChatGPTにアイデアを入れたら脚本が出てきて、それを本物の俳優を使わずにそのまま作る、というのは違うと思う。でも、自分たちの仕事を高めるために使えるなら大賛成だ」"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "YouTubeの肖像検出機能では削除を依頼でき、2026年上半期にこの仕組みを通じて報告された動画の95パーセント超が削除された。"
+                "x": "俳優をスキャンしてAIレプリカを作るCAA Vaultについて問われると、まだ訪れてはいないが前向きだとし、「自分の子どもや孫が私の肖像とイメージを管理できたらクールだ」と述べた。今後のアニメシリーズ「Ted」が、彼の姿のAI版で何十年も続くことにも反対しないという。"
+              },
+              {
+                "t": "video",
+                "yt": "S2LYDFvDUQ4"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Mark Wahlberg：\n不排斥AI分身传承",
+          "body": "演员兼投资人Mark Wahlberg称，AI只要能提升作品就可以用，他也不排斥AI分身。",
+          "mini_headline": "Wahlberg不排斥AI分身",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "Metaでは静止画がAIラベル表示義務の対象外であり、偽のGoth画像はMetaの規則上、開示が不要だったことになる。"
+                "x": "尽管Hollywood在电影制作中使用AI的问题上仍存在分歧，演员、导演兼天使投资人Mark Wahlberg在TechCrunch Disrupt上表示，只要用得正确，这项技术就有一席之地。他可能会在即将推出的Pete Rose传记片中用AI来增强球场场景。"
+              },
+              {
+                "t": "p",
+                "x": "“我不认为你应该把一个想法丢进ChatGPT，让它吐出一个剧本，然后就照着拍、不用真正的演员。但如果能用它来提升你正在做的事，我完全支持。”"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
+              },
+              {
+                "t": "p",
+                "x": "被问及通过扫描演员来制作AI复制体的CAA Vault时，他说自己还没去过，但愿意尝试：“如果我的孩子或孙辈能掌管我的肖像和形象，那会很酷。”他也不反对自己即将推出的动画剧集《Ted》借助他形象的AI版本延续数十年。"
+              },
+              {
+                "t": "video",
+                "yt": "S2LYDFvDUQ4"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Mark Wahlberg se abre a un clon\nde AI que herede su legado",
+          "body": "El actor e inversor Mark Wahlberg acepta la AI en el cine si mejora el trabajo y se abre a un clon de AI como legado.",
+          "mini_headline": "Wahlberg se abre a un clon de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
+              },
+              {
+                "t": "p",
+                "x": "Aunque Hollywood sigue dividido sobre la AI en el cine, el actor, director e inversor ángel Mark Wahlberg dijo en TechCrunch Disrupt que la tecnología tiene cabida siempre que se use de la forma correcta. Podría usar AI para mejorar el escenario del estadio en su próxima película biográfica sobre Pete Rose."
+              },
+              {
+                "t": "p",
+                "x": "“No creo que debas simplemente, ya sabes, meter una idea en ChatGPT, que te saque un guion y luego ir a rodarlo sin usar actores reales. Pero si puedes usarla para mejorar lo que haces, estoy totalmente a favor”."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
+              },
+              {
+                "t": "p",
+                "x": "Preguntado por el CAA Vault, donde se escanea a actores para crear réplicas con AI, dijo que no lo había visitado pero que estaría abierto a ello: “sería genial que mis hijos o mis nietos pudieran encargarse de mi semejanza y mi imagen”. Tampoco se opondría a que su próxima serie animada “Ted” continuara durante décadas con una versión de AI de su imagen."
+              },
+              {
+                "t": "video",
+                "yt": "S2LYDFvDUQ4"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "zh": {
-          "headline": "名人AI深度伪造\n充斥社交媒体",
-          "body": "Meta不要求静态图片标注AI，假Mia Goth帖子未经标注获近500,000次点赞。",
-          "mini_headline": "名人深度伪造泛滥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "名人的AI照片和视频正在社交媒体上收获数百万次观看。一个拥有逾百万粉丝的认证粉丝账号发布了一张演员Mia Goth的AI-generated Instagram图片，获得近500,000个赞，并在Instagram删除该账号之前经由八卦网站和Google的AI概览广泛传播。"
-              },
-              {
-                "t": "p",
-                "x": "一些账号发布Scarlett Johansson等明星的色情化AI图片，Taylor Swift的AI视频也获得数百万次观看。The Verge就八个账号询问后，Meta表示已删除其中一部分。"
-              },
-              {
-                "t": "p",
-                "x": "YouTube的肖像检测功能允许用户申请下架；2026年上半年，通过该计划举报的视频中有超过95%被移除。"
-              },
-              {
-                "t": "p",
-                "x": "在Meta平台上，静态图片不受AI标注要求约束，因此按照Meta的规定，这张假Goth图片无需披露。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los deepfakes de famosos con AI\ninundan las redes sociales",
-          "body": "Meta no exige etiquetas de AI en imágenes fijas, y una imagen falsa de Mia Goth logró casi 500,000 me gusta sin aviso.",
-          "mini_headline": "Se propagan deepfakes de famosos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
-              },
-              {
-                "t": "p",
-                "x": "Las fotos y videos de famosos creados con AI acumulan millones de visualizaciones en redes sociales. Una imagen AI-generated de Instagram de la actriz Mia Goth, publicada por una cuenta de fans verificada con más de un millón de seguidores, obtuvo casi 500,000 me gusta y se difundió por sitios de chismes y el resumen de AI de Google antes de que Instagram eliminara la cuenta."
-              },
-              {
-                "t": "p",
-                "x": "Hay cuentas que publican imágenes sexualizadas con AI de estrellas como Scarlett Johansson, y los videos con AI de Taylor Swift suman millones de visualizaciones. Después de que The Verge preguntara por ocho cuentas, Meta dijo que había eliminado algunas."
-              },
-              {
-                "t": "p",
-                "x": "La detección de semejanza de YouTube permite solicitar retiradas; en el primer semestre de 2026 eliminó más del 95 por ciento de los videos denunciados a través del programa."
-              },
-              {
-                "t": "p",
-                "x": "En Meta, las imágenes fijas están exentas del requisito de etiquetado de AI, por lo que la imagen falsa de Goth no habría requerido aviso según las normas de Meta."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "유명인 AI 딥페이크가\n소셜 피드를 덮다",
-          "body": "가짜 Mia Goth 사진이 AI 표시 없이 좋아요 500,000개 가까이 받았다.",
-          "mini_headline": "유명인 딥페이크 확산",
+          "headline": "Mark Wahlberg,\nAI 분신에도 열려 있다",
+          "body": "Mark Wahlberg는 작품을 돕는 AI는 괜찮다며 AI 분신에도 열려 있다.",
+          "mini_headline": "Wahlberg, AI 분신에 열린 태도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "유명인을 담은 AI 사진과 영상이 소셜 미디어에서 수백만 조회수를 올리고 있다. 팔로워가 백만 명이 넘는 인증된 팬 계정이 올린 배우 Mia Goth의 AI-generated Instagram 이미지는 좋아요 500,000개 가까이를 받았고, Instagram이 계정을 삭제하기 전까지 가십 사이트와 Google의 AI 개요를 타고 퍼졌다."
+                "x": "영화 제작에서 AI를 둘러싼 Hollywood의 의견이 여전히 갈리는 가운데, 배우이자 감독, 엔젤 투자자인 Mark Wahlberg는 TechCrunch Disrupt에서 이 기술이 올바르게 쓰인다면 설 자리가 있다고 말했다. 그는 곧 나올 Pete Rose 전기 영화에서 경기장 장면을 보강하는 데 AI를 쓸 수도 있다."
               },
               {
                 "t": "p",
-                "x": "Scarlett Johansson 같은 스타의 선정적인 AI 이미지를 올리는 계정들이 있고, Taylor Swift의 AI 영상은 수백만 조회수를 기록한다. The Verge가 계정 여덟 곳에 대해 묻자 Meta는 일부를 삭제했다고 밝혔다."
+                "x": "“그냥 ChatGPT에 아이디어를 넣어 대본이 나오면, 진짜 배우 없이 그걸 그대로 만들어야 한다고는 생각하지 않는다. 하지만 하는 일을 보강하는 데 쓸 수 있다면 전적으로 찬성이다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "YouTube의 초상 감지 기능으로 사람들은 삭제를 요청할 수 있다. 2026년 상반기에 이 프로그램으로 신고된 영상의 95퍼센트 이상이 삭제됐다."
+                "x": "배우를 스캔해 AI 복제본을 만드는 CAA Vault에 대한 질문에는, 가본 적은 없지만 열려 있다며 “내 자녀나 손주들이 내 초상과 이미지를 관리할 수 있다면 멋질 것”이라고 했다. 곧 나올 애니메이션 시리즈 “Ted”가 그의 모습을 본뜬 AI 버전으로 수십 년간 이어지는 것에도 반대하지 않겠다고 했다."
               },
               {
-                "t": "p",
-                "x": "Meta에서는 정지 이미지가 AI 표시 의무에서 빠져 있어, 가짜 Goth 이미지는 Meta 규정상 고지가 필요하지 않았을 것이다."
+                "t": "video",
+                "yt": "S2LYDFvDUQ4"
               }
             ]
           }
         },
         "ja": {
-          "headline": "有名人のAIディープフェイク\nSNSにあふれる",
-          "body": "偽のMia Goth投稿はAI表示なしで約500,000件のいいねを集めた。",
-          "mini_headline": "有名人ディープフェイク拡散",
+          "headline": "Mark Wahlberg、\nAI分身にも前向き",
+          "body": "Mark Wahlbergは、作品を高めるならAIは構わず、AI分身にも前向きだと語った。",
+          "mini_headline": "WahlbergはAI分身に前向き",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "有名人のAI写真や動画がソーシャルメディアで数百万回の再生を集めている。フォロワー百万人超の認証済みファンアカウントが投稿した、女優Mia GothのAI-generated Instagram画像は約500,000件のいいねを集め、Instagramがアカウントを削除するまでにゴシップサイトやGoogleのAI概要を通じて拡散した。"
+                "x": "映画制作へのAI活用をめぐってHollywoodの意見が割れたままのなか、俳優で監督、エンジェル投資家でもあるMark WahlbergはTechCrunch Disruptで、正しく使う限りこの技術には居場所があると語った。今後のPete Roseの伝記映画では、スタジアムの場面を補強するのにAIを使う可能性がある。"
               },
               {
                 "t": "p",
-                "x": "Scarlett Johanssonらスターの性的なAI画像を投稿するアカウントがあり、Taylor SwiftのAI動画は数百万回再生されている。The Vergeが八つのアカウントについて問い合わせると、Metaは一部を削除したと答えた。"
+                "x": "「ChatGPTにアイデアを入れたら脚本が出てきて、それを本物の俳優を使わずにそのまま作る、というのは違うと思う。でも、自分たちの仕事を高めるために使えるなら大賛成だ」"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "YouTubeの肖像検出機能では削除を依頼でき、2026年上半期にこの仕組みを通じて報告された動画の95パーセント超が削除された。"
+                "x": "俳優をスキャンしてAIレプリカを作るCAA Vaultについて問われると、まだ訪れてはいないが前向きだとし、「自分の子どもや孫が私の肖像とイメージを管理できたらクールだ」と述べた。今後のアニメシリーズ「Ted」が、彼の姿のAI版で何十年も続くことにも反対しないという。"
+              },
+              {
+                "t": "video",
+                "yt": "S2LYDFvDUQ4"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Mark Wahlberg：\n不排斥AI分身传承",
+          "body": "演员兼投资人Mark Wahlberg称，AI只要能提升作品就可以用，他也不排斥AI分身。",
+          "mini_headline": "Wahlberg不排斥AI分身",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
               },
               {
                 "t": "p",
-                "x": "Metaでは静止画がAIラベル表示義務の対象外であり、偽のGoth画像はMetaの規則上、開示が不要だったことになる。"
+                "x": "尽管Hollywood在电影制作中使用AI的问题上仍存在分歧，演员、导演兼天使投资人Mark Wahlberg在TechCrunch Disrupt上表示，只要用得正确，这项技术就有一席之地。他可能会在即将推出的Pete Rose传记片中用AI来增强球场场景。"
+              },
+              {
+                "t": "p",
+                "x": "“我不认为你应该把一个想法丢进ChatGPT，让它吐出一个剧本，然后就照着拍、不用真正的演员。但如果能用它来提升你正在做的事，我完全支持。”"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
+              },
+              {
+                "t": "p",
+                "x": "被问及通过扫描演员来制作AI复制体的CAA Vault时，他说自己还没去过，但愿意尝试：“如果我的孩子或孙辈能掌管我的肖像和形象，那会很酷。”他也不反对自己即将推出的动画剧集《Ted》借助他形象的AI版本延续数十年。"
+              },
+              {
+                "t": "video",
+                "yt": "S2LYDFvDUQ4"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Mark Wahlberg se abre a un clon\nde AI que herede su legado",
+          "body": "El actor e inversor Mark Wahlberg acepta la AI en el cine si mejora el trabajo y se abre a un clon de AI como legado.",
+          "mini_headline": "Wahlberg se abre a un clon de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
+              },
+              {
+                "t": "p",
+                "x": "Aunque Hollywood sigue dividido sobre la AI en el cine, el actor, director e inversor ángel Mark Wahlberg dijo en TechCrunch Disrupt que la tecnología tiene cabida siempre que se use de la forma correcta. Podría usar AI para mejorar el escenario del estadio en su próxima película biográfica sobre Pete Rose."
+              },
+              {
+                "t": "p",
+                "x": "“No creo que debas simplemente, ya sabes, meter una idea en ChatGPT, que te saque un guion y luego ir a rodarlo sin usar actores reales. Pero si puedes usarla para mejorar lo que haces, estoy totalmente a favor”."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=1024",
+                "cap": "Image Credits: Kimberly White/Getty Images for TechCrunch"
+              },
+              {
+                "t": "p",
+                "x": "Preguntado por el CAA Vault, donde se escanea a actores para crear réplicas con AI, dijo que no lo había visitado pero que estaría abierto a ello: “sería genial que mis hijos o mis nietos pudieran encargarse de mi semejanza y mi imagen”. Tampoco se opondría a que su próxima serie animada “Ted” continuara durante décadas con una versión de AI de su imagen."
+              },
+              {
+                "t": "video",
+                "yt": "S2LYDFvDUQ4"
               }
             ]
           }
@@ -1019,15 +1019,15 @@
       }
     },
     {
-      "id": "movies-artificial-amazon",
+      "id": "movies-franglen",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Amazon MGM이 버린\nArtificial 호평",
-      "body": "AI 갈등 속 Amazon MGM이 버린 Sam Altman 영화가 호평받았다.",
-      "mini_headline": "'Artificial' 평단 호평",
       "tool": "Movies",
+      "eyebrow": "AI NEWS",
+      "headline": "Avatar 작곡가,\nAI의 연주 재현에 의문",
+      "body": "“Avatar” 작곡가 Simon Franglen은 AI의 연주 재현을 의심했다.",
+      "mini_headline": "Avatar 작곡가, AI에 반기",
       "source": "Variety",
-      "url": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/",
+      "url": "https://variety.com/2026/artisans/festivals/avatar-ai-ghent-wsa-film-music-days-1236910224/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1035,149 +1035,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+            "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+            "cap": "World Soundtrack Awards 폐막 갈라. Courtesy of Jeroen Willems"
           },
           {
             "t": "p",
-            "x": "Luca Guadagnino의 \"Artificial\"은 인공지능의 해악과 Sam Altman을 다룬다. New York Film Festival에서 처음 공개됐고 London Film Festival에선 우레 같은 박수가 쏟아졌다. Rotten Tomatoes 96% Fresh로 Guadagnino 경력 최고 점수다."
+            "x": "World Soundtrack Awards 업계 패널에서 “Avatar: Fire and Ash”의 작곡가 Simon Franglen은 이렇게 회상했다. “수백 명의 연주자가 한 공간에서 바로 그 순간 감정을 쏟아냈다. 그걸 AI가 어떻게 재현할 수 있겠나?”"
           },
           {
             "t": "p",
-            "x": "Amazon MGM은 6월 이 영화를 여름 개봉 라인업에서 빼면서 \"다른 스튜디오가 개봉하는 편이 더 나을 것\"이라고 했다. 이후 작품을 건진 건 글로벌 판권 계약을 맺은 Neon이다. 언론은 Amazon이 OpenAI와 500억 달러($50 billion) 투자를 낀 파트너십을 맺고 3개월 만에 나온 결정이라고 짚었다. 한 경쟁 스튜디오 임원은 Variety에 이 영화를 개봉 불가로 본 스튜디오들이 \"AI에 대한 자체 투자 때문에 이해충돌에 걸렸다\"고 말했다."
+            "x": "ECSA는 57개 단체에 걸쳐 30,000명이 넘는 작곡가와 작사가를 대표한다. 올해 WSA Industry Award를 받은 ECSA는 EU AI Act에 세 가지 요구를 반영하라고 압박한다. 저작권 음악으로 학습하기 전 허락을 받을 것, 공정한 보상, 데이터셋 공개다. Helienne Lindvall 회장은 Suno에 관심 있는 음악가들에게 “이용약관을 읽어보라”고 경고했다."
+          },
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+            "cap": "©Jeroen Willems"
           },
           {
             "t": "p",
-            "x": "Amazon과 인재들 사이의 AI 갈등은 이번만이 아니다. Nicolas Cage는 \"Spider-Noir\"에서 AI 초상 사용 동의서 서명을 거부했다고 밝혔다. 한 Amazon MGM 시리즈의 크리에이티브는 AI 교육이 의무였다고 전했지만 Amazon 절차를 직접 아는 한 소식통은 그런 회의가 의무는 아니라고 했다."
+            "x": "패널들은 AI로 당장 비용을 아끼다가는 신입급 일자리가 위협받는다고 경고했다. Franglen은 “Hans Zimmer도 ‘Going for Gold’가 없었다면 지금의 그가 되지 못했을 것”이라고 말했다. Martin Phipps(“The Crown”)는 “AI에 프롬프트를 넣는 것 자체가 하나의 기술이다. 그 일을 할 사람을 고용해야 한다”고 짚었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Critics embrace 'Artificial'\nafter Amazon MGM dropped it",
-          "body": "Guadagnino's Sam Altman drama won raves after Amazon MGM dropped it, as studios and talent clash over AI.",
-          "mini_headline": "'Artificial' wins critics",
+          "headline": "Avatar composer doubts AI\ncan replicate live musicians",
+          "body": "At Ghent's World Soundtrack Awards, “Avatar” composer Simon Franglen asked how AI could ever replicate live musicians.",
+          "mini_headline": "Avatar composer pushes back on AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+                "cap": "World Soundtrack Awards closing gala. Courtesy of Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Luca Guadagnino's \"Artificial,\" a movie about the evils of artificial intelligence and Sam Altman, premiered at the New York Film Festival and drew thunderous applause at the London Film Festival. It holds a 96% Fresh rating on Rotten Tomatoes, the highest of Guadagnino's career."
+                "x": "At a World Soundtrack Awards industry panel, “Avatar: Fire and Ash” composer Simon Franglen recalled: “We had hundreds of musicians in a room, pouring their emotion out in that precise second. How can that ever be replicated by AI?”"
               },
               {
                 "t": "p",
-                "x": "Amazon MGM punted the film off its summer slate in June, saying it \"will be better served if it were released by a different studio\"; Neon then rescued it with a global rights deal. Press noted the move came three months after Amazon signed a partnership with OpenAI, including a $50 billion investment. A rival studio executive told Variety that studios calling the film unreleasable were \"conflicted out by their own investments in AI.\""
+                "x": "ECSA, representing more than 30,000 composers and songwriters across 57 organizations, received this year’s WSA Industry Award and is pushing the EU AI Act toward three demands: permission before training on copyrighted music, fair compensation, and disclosure of datasets. President Helienne Lindvall warned musicians curious about Suno to “read the terms of service.”"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+                "cap": "©Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Amazon's AI tensions with talent go further: Nicolas Cage said he refused to sign an AI likeness waiver on \"Spider-Noir,\" and a creative on an Amazon MGM series described mandatory AI training. A source with direct knowledge of Amazon's process said such meetings are not mandatory."
+                "x": "Panelists warned that AI’s short-term savings threaten entry-level work. “Hans Zimmer wouldn’t be who he is today without ‘Going for Gold,’” Franglen said. Martin Phipps (“The Crown”) noted: “It’s a skill in itself to prompt an AI. You need to employ someone to do that.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon MGM이 버린\nArtificial 호평",
-          "body": "AI 갈등 속 Amazon MGM이 버린 Sam Altman 영화가 호평받았다.",
-          "mini_headline": "'Artificial' 평단 호평",
+          "headline": "Avatar 작곡가,\nAI의 연주 재현에 의문",
+          "body": "“Avatar” 작곡가 Simon Franglen은 AI의 연주 재현을 의심했다.",
+          "mini_headline": "Avatar 작곡가, AI에 반기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+                "cap": "World Soundtrack Awards 폐막 갈라. Courtesy of Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Luca Guadagnino의 \"Artificial\"은 인공지능의 해악과 Sam Altman을 다룬다. New York Film Festival에서 처음 공개됐고 London Film Festival에선 우레 같은 박수가 쏟아졌다. Rotten Tomatoes 96% Fresh로 Guadagnino 경력 최고 점수다."
+                "x": "World Soundtrack Awards 업계 패널에서 “Avatar: Fire and Ash”의 작곡가 Simon Franglen은 이렇게 회상했다. “수백 명의 연주자가 한 공간에서 바로 그 순간 감정을 쏟아냈다. 그걸 AI가 어떻게 재현할 수 있겠나?”"
               },
               {
                 "t": "p",
-                "x": "Amazon MGM은 6월 이 영화를 여름 개봉 라인업에서 빼면서 \"다른 스튜디오가 개봉하는 편이 더 나을 것\"이라고 했다. 이후 작품을 건진 건 글로벌 판권 계약을 맺은 Neon이다. 언론은 Amazon이 OpenAI와 500억 달러($50 billion) 투자를 낀 파트너십을 맺고 3개월 만에 나온 결정이라고 짚었다. 한 경쟁 스튜디오 임원은 Variety에 이 영화를 개봉 불가로 본 스튜디오들이 \"AI에 대한 자체 투자 때문에 이해충돌에 걸렸다\"고 말했다."
+                "x": "ECSA는 57개 단체에 걸쳐 30,000명이 넘는 작곡가와 작사가를 대표한다. 올해 WSA Industry Award를 받은 ECSA는 EU AI Act에 세 가지 요구를 반영하라고 압박한다. 저작권 음악으로 학습하기 전 허락을 받을 것, 공정한 보상, 데이터셋 공개다. Helienne Lindvall 회장은 Suno에 관심 있는 음악가들에게 “이용약관을 읽어보라”고 경고했다."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+                "cap": "©Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Amazon과 인재들 사이의 AI 갈등은 이번만이 아니다. Nicolas Cage는 \"Spider-Noir\"에서 AI 초상 사용 동의서 서명을 거부했다고 밝혔다. 한 Amazon MGM 시리즈의 크리에이티브는 AI 교육이 의무였다고 전했지만 Amazon 절차를 직접 아는 한 소식통은 그런 회의가 의무는 아니라고 했다."
+                "x": "패널들은 AI로 당장 비용을 아끼다가는 신입급 일자리가 위협받는다고 경고했다. Franglen은 “Hans Zimmer도 ‘Going for Gold’가 없었다면 지금의 그가 되지 못했을 것”이라고 말했다. Martin Phipps(“The Crown”)는 “AI에 프롬프트를 넣는 것 자체가 하나의 기술이다. 그 일을 할 사람을 고용해야 한다”고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon MGMが外した\n『Artificial』絶賛",
-          "body": "Amazon MGMが外したGuadagninoのSam Altman映画が絶賛された。",
-          "mini_headline": "『Artificial』が批評家を魅了",
+          "headline": "Avatar作曲家、\nAIの生演奏再現に疑問",
+          "body": "「Avatar」の作曲家Simon FranglenはAIによる生演奏の再現を疑問視した。",
+          "mini_headline": "Avatar作曲家がAIに異議",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+                "cap": "World Soundtrack Awardsの閉幕ガラ。Courtesy of Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Luca Guadagnino監督の『Artificial』は、人工知能の害悪とSam Altmanを描いた作品で、New York Film Festivalでプレミア上映され、London Film Festivalでは割れんばかりの拍手を浴びた。Rotten Tomatoesでは96% Freshを記録し、Guadagninoのキャリアで最高の評価となっている。"
+                "x": "World Soundtrack Awardsの業界パネルで、「Avatar: Fire and Ash」の作曲家Simon Franglenはこう振り返った。「何百人もの音楽家がひとつの部屋で、まさにその一瞬に感情を注ぎ込んでいた。それをAIがどうやって再現できるというのか」"
               },
               {
                 "t": "p",
-                "x": "Amazon MGMは6月、「別のスタジオが公開した方が作品のためになる」として本作を夏の公開ラインアップから外し、その後Neonが全世界の権利契約で救い出した。報道は、この判断がAmazonがOpenAIと500億ドル（$50 billion）の投資を含む提携を結んだ3カ月後だったと指摘した。ライバルスタジオの幹部はVarietyに対し、本作を公開不可とするスタジオは「自社のAI投資によって利益相反を抱えている」と語った。"
+                "x": "57団体にわたる30,000人超の作曲家・作詞家を代表するECSAは、今年のWSA Industry Awardを受賞し、EU AI Actに三つの要求を盛り込むよう働きかけている。著作権のある音楽で学習する前の許諾、公正な報酬、データセットの開示だ。Helienne Lindvall会長は、Sunoに興味を持つ音楽家に「利用規約を読むように」と警告した。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+                "cap": "©Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "AmazonとタレントのAIを巡る緊張はそれだけではない。Nicolas Cageは『Spider-Noir』でAI肖像の権利放棄書への署名を拒否したと述べ、Amazon MGMのあるシリーズのクリエイターは義務的なAI研修について語った。Amazonの手続きを直接知る関係者は、そうした会合は義務ではないと述べた。"
+                "x": "パネリストらは、AIによる短期的なコスト削減が若手向けの仕事を脅かすと警告した。Franglenは「Hans Zimmerも『Going for Gold』がなければ今の彼にはなっていない」と語った。Martin Phipps（「The Crown」）は「AIにプロンプトを打つこと自体がひとつの技能だ。それをする人を雇う必要がある」と指摘した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon MGM弃映的\n《Artificial》获赞",
-          "body": "遭Amazon MGM弃映后，Guadagnino的Sam Altman题材片广获好评。",
-          "mini_headline": "《Artificial》赢得影评人",
+          "headline": "Avatar作曲家：\nAI难以复刻现场乐手",
+          "body": "在Ghent，《Avatar》作曲家Simon Franglen质疑AI怎能复刻现场乐手。",
+          "mini_headline": "Avatar作曲家对AI说不",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+                "cap": "World Soundtrack Awards闭幕晚会。Courtesy of Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Luca Guadagnino执导的《Artificial》讲述人工智能之恶与Sam Altman，在New York Film Festival首映，并在London Film Festival赢得雷鸣般的掌声。该片在Rotten Tomatoes上获得96% Fresh评分，为Guadagnino职业生涯最高。"
+                "x": "在World Soundtrack Awards的一场行业论坛上，《Avatar: Fire and Ash》作曲家Simon Franglen回忆道：“我们让数百名乐手聚在一个房间里，在那一刻倾注他们的情感。AI怎么可能复制这一切？”"
               },
               {
                 "t": "p",
-                "x": "Amazon MGM在6月将该片撤出夏季片单，称其“由另一家制片公司发行会更好”；随后Neon以全球版权协议接手了这部影片。媒体指出，此举发生在Amazon与OpenAI签署包含500亿美元（$50 billion）投资的合作协议三个月之后。一位竞争对手制片公司高管对Variety表示，称该片无法上映的制片公司“因自身在AI上的投资而存在利益冲突”。"
+                "x": "代表57个组织、逾30,000名作曲家和词曲作者的ECSA获得了今年的WSA Industry Award，并正推动EU AI Act纳入三项诉求：使用受版权保护的音乐训练前须获许可、公平补偿、公开数据集。会长Helienne Lindvall提醒对Suno感兴趣的音乐人“去读读服务条款”。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+                "cap": "©Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Amazon与创作者之间的AI矛盾不止于此：Nicolas Cage表示，他在《Spider-Noir》中拒绝签署AI肖像授权豁免书；一位参与Amazon MGM剧集的创作者描述了强制性的AI培训。一位直接了解Amazon流程的消息人士称，此类会议并非强制。"
+                "x": "与会者警告，AI带来的短期节省会威胁入门级工作。Franglen说：“没有《Going for Gold》，Hans Zimmer就不会成为今天的他。”Martin Phipps（《The Crown》）指出：“给AI写提示词本身就是一门技能，你需要雇人来做这件事。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La crítica abraza 'Artificial'\ntras el descarte de Amazon MGM",
-          "body": "Elogian el drama de Guadagnino sobre Sam Altman que Amazon MGM descartó, mientras estudios y talento chocan por la AI.",
-          "mini_headline": "'Artificial' conquista a la crítica",
+          "headline": "El compositor de Avatar duda de\nque la AI imite a los músicos",
+          "body": "En los World Soundtrack Awards de Ghent, Simon Franglen (“Avatar”) dudó de que la AI imite a músicos en vivo.",
+          "mini_headline": "El compositor de Avatar frena a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+                "cap": "Gala de clausura de los World Soundtrack Awards. Courtesy of Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "\"Artificial\", de Luca Guadagnino, una película sobre los males de la inteligencia artificial y Sam Altman, se estrenó en el New York Film Festival y recibió una ovación atronadora en el London Film Festival. Tiene un 96% Fresh en Rotten Tomatoes, la calificación más alta de la carrera de Guadagnino."
+                "x": "En un panel de la industria de los World Soundtrack Awards, el compositor de “Avatar: Fire and Ash”, Simon Franglen, recordó: “Teníamos a cientos de músicos en una sala, volcando su emoción en ese preciso segundo. ¿Cómo podría la AI replicar eso alguna vez?”"
               },
               {
                 "t": "p",
-                "x": "Amazon MGM retiró la película de su calendario de verano en junio, alegando que \"estaría mejor servida si la estrenara otro estudio\"; después Neon la rescató con un acuerdo de derechos globales. La prensa señaló que la decisión llegó tres meses después de que Amazon firmara una alianza con OpenAI que incluía una inversión de 50.000 millones de dólares ($50 billion). Un ejecutivo de un estudio rival dijo a Variety que los estudios que consideraban la película imposible de estrenar estaban \"en conflicto por sus propias inversiones en AI\"."
+                "x": "ECSA, que representa a más de 30,000 compositores y letristas de 57 organizaciones, recibió este año el WSA Industry Award e impulsa tres demandas ante la EU AI Act: permiso antes de entrenar con música protegida por derechos de autor, compensación justa y transparencia sobre los conjuntos de datos. Su presidenta, Helienne Lindvall, advirtió a los músicos interesados en Suno que “lean los términos del servicio”."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+                "cap": "©Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Las tensiones de Amazon con el talento por la AI van más allá: Nicolas Cage dijo que se negó a firmar una renuncia sobre el uso de su imagen con AI en \"Spider-Noir\", y un creativo de una serie de Amazon MGM describió una formación obligatoria en AI. Una fuente con conocimiento directo del proceso de Amazon dijo que esas reuniones no son obligatorias."
+                "x": "Los panelistas advirtieron que el ahorro a corto plazo de la AI amenaza el trabajo de nivel inicial. “Hans Zimmer no sería quien es hoy sin ‘Going for Gold’”, dijo Franglen. Martin Phipps (“The Crown”) señaló: “Saber dar instrucciones a una AI es una habilidad en sí misma. Hay que contratar a alguien para hacerlo”."
               }
             ]
           }
@@ -1185,105 +1221,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon MGM이 버린\nArtificial 호평",
-          "body": "AI 갈등 속 Amazon MGM이 버린 Sam Altman 영화가 호평받았다.",
-          "mini_headline": "'Artificial' 평단 호평",
+          "headline": "Avatar 작곡가,\nAI의 연주 재현에 의문",
+          "body": "“Avatar” 작곡가 Simon Franglen은 AI의 연주 재현을 의심했다.",
+          "mini_headline": "Avatar 작곡가, AI에 반기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+                "cap": "World Soundtrack Awards 폐막 갈라. Courtesy of Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Luca Guadagnino의 \"Artificial\"은 인공지능의 해악과 Sam Altman을 다룬 영화로, New York Film Festival에서 초연했고 London Film Festival에서 우레 같은 박수를 받았다. Rotten Tomatoes에서 96% Fresh 등급을 기록해 Guadagnino 경력 최고치를 세웠다."
+                "x": "World Soundtrack Awards 업계 패널에서 “Avatar: Fire and Ash”의 작곡가 Simon Franglen은 이렇게 회상했다. “수백 명의 연주자가 한 공간에서 바로 그 순간 감정을 쏟아냈다. 그걸 AI가 어떻게 재현할 수 있겠나?”"
               },
               {
                 "t": "p",
-                "x": "Amazon MGM은 6월 이 영화를 여름 개봉 라인업에서 빼며 \"다른 스튜디오가 개봉하는 편이 더 나을 것\"이라고 밝혔고, 이후 Neon이 글로벌 판권 계약으로 작품을 구해냈다. 언론은 이 결정이 Amazon이 OpenAI와 500억 달러($50 billion) 투자를 포함한 파트너십을 맺은 지 3개월 뒤에 나왔다고 짚었다. 한 경쟁 스튜디오 임원은 Variety에 이 영화를 개봉 불가로 본 스튜디오들이 \"AI에 대한 자체 투자 때문에 이해충돌에 걸렸다\"고 말했다."
+                "x": "57개 단체에 걸쳐 30,000명이 넘는 작곡가와 작사가를 대표하는 ECSA는 올해 WSA Industry Award를 받았고, EU AI Act에 세 가지 요구를 반영하라고 압박하고 있다. 저작권 음악으로 학습하기 전 허락을 받을 것, 공정한 보상, 데이터셋 공개다. Helienne Lindvall 회장은 Suno에 관심 있는 음악가들에게 “이용약관을 읽어보라”고 경고했다."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+                "cap": "©Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Amazon과 인재들 사이의 AI 갈등은 이뿐이 아니다. Nicolas Cage는 \"Spider-Noir\"에서 AI 초상 사용 동의서 서명을 거부했다고 말했고, 한 Amazon MGM 시리즈의 크리에이티브는 의무 AI 교육을 전했다. Amazon의 절차를 직접 아는 한 소식통은 그런 회의가 의무는 아니라고 말했다."
+                "x": "패널들은 AI가 주는 단기 비용 절감이 신입급 일자리를 위협한다고 경고했다. Franglen은 “Hans Zimmer도 ‘Going for Gold’가 없었다면 지금의 그가 되지 못했을 것”이라고 말했다. Martin Phipps(“The Crown”)는 “AI에 프롬프트를 넣는 것 자체가 하나의 기술이다. 그 일을 할 사람을 고용해야 한다”고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Amazon MGMが外した\n『Artificial』絶賛",
-          "body": "Amazon MGMが外したGuadagninoのSam Altman映画が絶賛された。",
-          "mini_headline": "『Artificial』が批評家を魅了",
+          "headline": "Avatar作曲家、\nAIの生演奏再現に疑問",
+          "body": "「Avatar」の作曲家Simon FranglenはAIによる生演奏の再現を疑問視した。",
+          "mini_headline": "Avatar作曲家がAIに異議",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+                "cap": "World Soundtrack Awardsの閉幕ガラ。Courtesy of Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Luca Guadagnino監督の『Artificial』は、人工知能の害悪とSam Altmanを描いた作品で、New York Film Festivalでプレミア上映され、London Film Festivalでは割れんばかりの拍手を浴びた。Rotten Tomatoesでは96% Freshを記録し、Guadagninoのキャリアで最高の評価となっている。"
+                "x": "World Soundtrack Awardsの業界パネルで、「Avatar: Fire and Ash」の作曲家Simon Franglenはこう振り返った。「何百人もの音楽家がひとつの部屋で、まさにその一瞬に感情を注ぎ込んでいた。それをAIがどうやって再現できるというのか」"
               },
               {
                 "t": "p",
-                "x": "Amazon MGMは6月、「別のスタジオが公開した方が作品のためになる」として本作を夏の公開ラインアップから外し、その後Neonが全世界の権利契約で救い出した。報道は、この判断がAmazonがOpenAIと500億ドル（$50 billion）の投資を含む提携を結んだ3カ月後だったと指摘した。ライバルスタジオの幹部はVarietyに対し、本作を公開不可とするスタジオは「自社のAI投資によって利益相反を抱えている」と語った。"
+                "x": "57団体にわたる30,000人超の作曲家・作詞家を代表するECSAは、今年のWSA Industry Awardを受賞し、EU AI Actに三つの要求を盛り込むよう働きかけている。著作権のある音楽で学習する前の許諾、公正な報酬、データセットの開示だ。Helienne Lindvall会長は、Sunoに興味を持つ音楽家に「利用規約を読むように」と警告した。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+                "cap": "©Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "AmazonとタレントのAIを巡る緊張はそれだけではない。Nicolas Cageは『Spider-Noir』でAI肖像の権利放棄書への署名を拒否したと述べ、Amazon MGMのあるシリーズのクリエイターは義務的なAI研修について語った。Amazonの手続きを直接知る関係者は、そうした会合は義務ではないと述べた。"
+                "x": "パネリストらは、AIによる短期的なコスト削減が若手向けの仕事を脅かすと警告した。Franglenは「Hans Zimmerも『Going for Gold』がなければ今の彼にはなっていない」と語った。Martin Phipps（「The Crown」）は「AIにプロンプトを打つこと自体がひとつの技能だ。それをする人を雇う必要がある」と指摘した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon MGM弃映的\n《Artificial》获赞",
-          "body": "遭Amazon MGM弃映后，Guadagnino的Sam Altman题材片广获好评。",
-          "mini_headline": "《Artificial》赢得影评人",
+          "headline": "Avatar作曲家：\nAI难以复刻现场乐手",
+          "body": "在Ghent，《Avatar》作曲家Simon Franglen质疑AI怎能复刻现场乐手。",
+          "mini_headline": "Avatar作曲家对AI说不",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+                "cap": "World Soundtrack Awards闭幕晚会。Courtesy of Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Luca Guadagnino执导的《Artificial》讲述人工智能之恶与Sam Altman，在New York Film Festival首映，并在London Film Festival赢得雷鸣般的掌声。该片在Rotten Tomatoes上获得96% Fresh评分，为Guadagnino职业生涯最高。"
+                "x": "在World Soundtrack Awards的一场行业论坛上，《Avatar: Fire and Ash》作曲家Simon Franglen回忆道：“我们让数百名乐手聚在一个房间里，在那一刻倾注他们的情感。AI怎么可能复制这一切？”"
               },
               {
                 "t": "p",
-                "x": "Amazon MGM在6月将该片撤出夏季片单，称其“由另一家制片公司发行会更好”；随后Neon以全球版权协议接手了这部影片。媒体指出，此举发生在Amazon与OpenAI签署包含500亿美元（$50 billion）投资的合作协议三个月之后。一位竞争对手制片公司高管对Variety表示，称该片无法上映的制片公司“因自身在AI上的投资而存在利益冲突”。"
+                "x": "代表57个组织、逾30,000名作曲家和词曲作者的ECSA获得了今年的WSA Industry Award，并正推动EU AI Act纳入三项诉求：使用受版权保护的音乐训练前须获许可、公平补偿、公开数据集。会长Helienne Lindvall提醒对Suno感兴趣的音乐人“去读读服务条款”。"
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+                "cap": "©Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Amazon与创作者之间的AI矛盾不止于此：Nicolas Cage表示，他在《Spider-Noir》中拒绝签署AI肖像授权豁免书；一位参与Amazon MGM剧集的创作者描述了强制性的AI培训。一位直接了解Amazon流程的消息人士称，此类会议并非强制。"
+                "x": "与会者警告，AI带来的短期节省会威胁入门级工作。Franglen说：“没有《Going for Gold》，Hans Zimmer就不会成为今天的他。”Martin Phipps（《The Crown》）指出：“给AI写提示词本身就是一门技能，你需要雇人来做这件事。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La crítica abraza 'Artificial'\ntras el descarte de Amazon MGM",
-          "body": "Elogian el drama de Guadagnino sobre Sam Altman que Amazon MGM descartó, mientras estudios y talento chocan por la AI.",
-          "mini_headline": "'Artificial' conquista a la crítica",
+          "headline": "El compositor de Avatar duda de\nque la AI imite a los músicos",
+          "body": "En los World Soundtrack Awards de Ghent, Simon Franglen (“Avatar”) dudó de que la AI imite a músicos en vivo.",
+          "mini_headline": "El compositor de Avatar frena a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg?w=1000&h=667&crop=1"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=667&crop=1",
+                "cap": "Gala de clausura de los World Soundtrack Awards. Courtesy of Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "\"Artificial\", de Luca Guadagnino, una película sobre los males de la inteligencia artificial y Sam Altman, se estrenó en el New York Film Festival y recibió una ovación atronadora en el London Film Festival. Tiene un 96% Fresh en Rotten Tomatoes, la calificación más alta de la carrera de Guadagnino."
+                "x": "En un panel de la industria de los World Soundtrack Awards, el compositor de “Avatar: Fire and Ash”, Simon Franglen, recordó: “Teníamos a cientos de músicos en una sala, volcando su emoción en ese preciso segundo. ¿Cómo podría la AI replicar eso alguna vez?”"
               },
               {
                 "t": "p",
-                "x": "Amazon MGM retiró la película de su calendario de verano en junio, alegando que \"estaría mejor servida si la estrenara otro estudio\"; después Neon la rescató con un acuerdo de derechos globales. La prensa señaló que la decisión llegó tres meses después de que Amazon firmara una alianza con OpenAI que incluía una inversión de 50.000 millones de dólares ($50 billion). Un ejecutivo de un estudio rival dijo a Variety que los estudios que consideraban la película imposible de estrenar estaban \"en conflicto por sus propias inversiones en AI\"."
+                "x": "ECSA, que representa a más de 30,000 compositores y letristas de 57 organizaciones, recibió este año el WSA Industry Award e impulsa tres demandas ante la EU AI Act: permiso antes de entrenar con música protegida por derechos de autor, compensación justa y transparencia sobre los conjuntos de datos. Su presidenta, Helienne Lindvall, advirtió a los músicos interesados en Suno que “lean los términos del servicio”."
+              },
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-31-PM-5140_fa6ff5.jpg?w=1024",
+                "cap": "©Jeroen Willems"
               },
               {
                 "t": "p",
-                "x": "Las tensiones de Amazon con el talento por la AI van más allá: Nicolas Cage dijo que se negó a firmar una renuncia sobre el uso de su imagen con AI en \"Spider-Noir\", y un creativo de una serie de Amazon MGM describió una formación obligatoria en AI. Una fuente con conocimiento directo del proceso de Amazon dijo que esas reuniones no son obligatorias."
+                "x": "Los panelistas advirtieron que el ahorro a corto plazo de la AI amenaza el trabajo de nivel inicial. “Hans Zimmer no sería quien es hoy sin ‘Going for Gold’”, dijo Franglen. Martin Phipps (“The Crown”) señaló: “Saber dar instrucciones a una AI es una habilidad en sí misma. Hay que contratar a alguien para hacerlo”."
               }
             ]
           }
@@ -1291,15 +1351,15 @@
       }
     },
     {
-      "id": "movies-view-execs",
+      "id": "movies-nollywood",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "VFX·애니 수장들,\nView서 AI·고용 논의",
-      "body": "ILM의 Janet Lewin은 AI가 만능 해법이 아니라고 경고했다.",
-      "mini_headline": "AI와 일자리, VFX 수장들의 시각",
       "tool": "Movies",
-      "source": "Cartoon Brew",
-      "url": "https://www.cartoonbrew.com/events/studio-executive-roundtable-view-conference-267928.html",
+      "eyebrow": "AI NEWS",
+      "headline": "아프리카 영화계,\nAI 혁명에 대비한다",
+      "body": "Durban FilmMart서 아프리카 영화계가 AI 기대와 비용·편향을 따졌다.",
+      "mini_headline": "아프리카 영화계, AI 주목",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1307,149 +1367,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+            "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+            "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
           },
           {
             "t": "p",
-            "x": "이탈리아 View Conference에 Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio, Cinesite 경영진이 모여 생성형 AI와 달라지는 파이프라인, 일자리를 논의했다. 대체로 AI가 기존 방식을 당장 갈아치운다기보다 더 넓은 변화의 한 부분이라는 시각이었다."
+            "x": "Yoruba어로 된 첫 포토리얼리스틱 AI-generated 장편 영화라고 홍보한 작품의 시사가 무산됐다. 몰린 수요를 스트리밍 플랫폼 Docuth의 서버가 감당하지 못했다. Durban FilmMart에서는 AI의 가능성과 함정이 주요 의제로 떠올랐다."
           },
           {
             "t": "p",
-            "x": "The Yard의 Laurens Ehrmann은 \"AI가 실행 시간을 압축할 수 있다고들 하지만, 취향은 압축할 수 없다\"고 말했다. ILM의 Janet Lewin은 \"AI와 머신러닝이 만능 해법이라는 오류\"를 경계했다. Cinesite의 Shawn Walsh는 \"이 전환을 관리하기 위해 당분간\" VFX 아티스트가 필요하다고 봤다."
+            "x": "아프리카에서 AI 도구를 쓰려면 높은 데이터 비용과 느린 광대역 속도, 결제 처리 문제까지 이 지역만의 장벽을 넘어야 한다. Digicine Motion Picture의 Zukisani Karabo Mabece는 “매우 편향돼 있다. 매우 서구적이다”라며 “이곳 현지 언어를 담기 위해 우리만의 언어 모델을 직접 만들어야 하는 상황”이라고 말했다."
           },
           {
             "t": "p",
-            "x": "아티스트의 생계를 어떻게 지키느냐는 질문에 Imageworks의 Michelle Grady는 \"아티스트 없이는 우리도 없다. 이상이다\"라고 답했다. Lewin은 스튜디오가 손쓸 수 없는 결정을 모회사가 내린다고 짚었다. 다만 일자리를 어떻게 지킬지 구체적인 방안은 패널에서 거의 나오지 않았다."
+            "x": "Gobez Media의 Tamara Dawit는 이를 “구조적 장벽”이라 불렀고, I.M.P.A.C.T.의 Samantha Kaine은 “다른 사람의 미학을 들여오거나 우리 정체성을 지우지 않고” 이 도구를 어떻게 쓸지 물었다."
+          },
+          {
+            "t": "p",
+            "x": "AI-assisted 장면이 약 80%, 실제 배우가 나오는 실사가 20%인 “Mystery of Osu Land”는 현재 Docuth에서 스트리밍 중이다. Mysterious Tech Studio의 Kafilat Yusuff는 AI 덕분에 야심 찬 이야기를 새롭게 탐구할 수 있지만, “인간 배우의 역할, 동의, 보상, 창작 소유권”을 두고 질문이 생긴다고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "VFX and animation chiefs\nweigh AI and jobs at View",
-          "body": "ILM's Janet Lewin cautioned that AI is no magic bullet; The Yard's Laurens Ehrmann said it can't compress taste.",
-          "mini_headline": "VFX chiefs on AI and jobs",
+          "headline": "African filmmakers brace\nfor the AI revolution",
+          "body": "At Durban FilmMart, African filmmakers weighed AI's promise against high data costs, slow broadband and Western bias.",
+          "mini_headline": "Africa's film industry eyes AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+                "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
               },
               {
                 "t": "p",
-                "x": "At Italy's View Conference, executives from Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio and Cinesite discussed generative AI, evolving pipelines and jobs. They generally framed AI as part of a broader transformation rather than an immediate replacement for established methods."
+                "x": "The premiere of what’s been billed as the first photorealistic, AI-generated feature film in the Yoruba language fizzled when demand overwhelmed the servers of streaming platform Docuth. At Durban FilmMart, AI’s potential and pitfalls were high on the agenda."
               },
               {
                 "t": "p",
-                "x": "\"We talk about how AI can compress execution time, but it cannot compress taste,\" said The Yard's Laurens Ehrmann. ILM's Janet Lewin warned of \"a fallacy about this magic bullet of AI and machine learning.\" Cinesite's Shawn Walsh said VFX artists will be needed \"for the foreseeable future to manage this transition.\""
+                "x": "AI tools face unique barriers in Africa, from high data costs and low broadband speeds to payment-processing headaches. “It’s very biased. It’s very Western,” said Zukisani Karabo Mabece of Digicine Motion Picture. “We’re having to build our own language models to accommodate the languages that we have here locally.”"
               },
               {
                 "t": "p",
-                "x": "Asked how they protect artists' livelihoods, Imageworks' Michelle Grady said, \"We don't exist without artists, full stop.\" Lewin noted that parent companies make decisions studios can't control. The panel offered few specifics on how jobs will be protected."
+                "x": "Gobez Media’s Tamara Dawit called them “systemic barriers”; I.M.P.A.C.T.’s Samantha Kaine asked how to use these tools “without importing someone else’s aesthetic or erasing who we are.”"
+              },
+              {
+                "t": "p",
+                "x": "“Mystery of Osu Land,” roughly 80% AI-assisted scenes and 20% live action with real actors, is now streaming on Docuth. Kafilat Yusuff of Mysterious Tech Studio said AI offers new ways to explore ambitious stories but raises questions about “the role of human performers, consent, compensation, creative ownership.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "VFX·애니 수장들,\nView서 AI·고용 논의",
-          "body": "ILM의 Janet Lewin은 AI가 만능 해법이 아니라고 경고했다.",
-          "mini_headline": "AI와 일자리, VFX 수장들의 시각",
+          "headline": "아프리카 영화계,\nAI 혁명에 대비한다",
+          "body": "Durban FilmMart서 아프리카 영화계가 AI 기대와 비용·편향을 따졌다.",
+          "mini_headline": "아프리카 영화계, AI 주목",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+                "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
               },
               {
                 "t": "p",
-                "x": "이탈리아 View Conference에 Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio, Cinesite 경영진이 모여 생성형 AI와 달라지는 파이프라인, 일자리를 논의했다. 대체로 AI가 기존 방식을 당장 갈아치운다기보다 더 넓은 변화의 한 부분이라는 시각이었다."
+                "x": "Yoruba어로 된 첫 포토리얼리스틱 AI-generated 장편 영화라고 홍보한 작품의 시사가 무산됐다. 몰린 수요를 스트리밍 플랫폼 Docuth의 서버가 감당하지 못했다. Durban FilmMart에서는 AI의 가능성과 함정이 주요 의제로 떠올랐다."
               },
               {
                 "t": "p",
-                "x": "The Yard의 Laurens Ehrmann은 \"AI가 실행 시간을 압축할 수 있다고들 하지만, 취향은 압축할 수 없다\"고 말했다. ILM의 Janet Lewin은 \"AI와 머신러닝이 만능 해법이라는 오류\"를 경계했다. Cinesite의 Shawn Walsh는 \"이 전환을 관리하기 위해 당분간\" VFX 아티스트가 필요하다고 봤다."
+                "x": "아프리카에서 AI 도구를 쓰려면 높은 데이터 비용과 느린 광대역 속도, 결제 처리 문제까지 이 지역만의 장벽을 넘어야 한다. Digicine Motion Picture의 Zukisani Karabo Mabece는 “매우 편향돼 있다. 매우 서구적이다”라며 “이곳 현지 언어를 담기 위해 우리만의 언어 모델을 직접 만들어야 하는 상황”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "아티스트의 생계를 어떻게 지키느냐는 질문에 Imageworks의 Michelle Grady는 \"아티스트 없이는 우리도 없다. 이상이다\"라고 답했다. Lewin은 스튜디오가 손쓸 수 없는 결정을 모회사가 내린다고 짚었다. 다만 일자리를 어떻게 지킬지 구체적인 방안은 패널에서 거의 나오지 않았다."
+                "x": "Gobez Media의 Tamara Dawit는 이를 “구조적 장벽”이라 불렀고, I.M.P.A.C.T.의 Samantha Kaine은 “다른 사람의 미학을 들여오거나 우리 정체성을 지우지 않고” 이 도구를 어떻게 쓸지 물었다."
+              },
+              {
+                "t": "p",
+                "x": "AI-assisted 장면이 약 80%, 실제 배우가 나오는 실사가 20%인 “Mystery of Osu Land”는 현재 Docuth에서 스트리밍 중이다. Mysterious Tech Studio의 Kafilat Yusuff는 AI 덕분에 야심 찬 이야기를 새롭게 탐구할 수 있지만, “인간 배우의 역할, 동의, 보상, 창작 소유권”을 두고 질문이 생긴다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VFX・アニメ首脳陣、\nViewでAIと雇用を議論",
-          "body": "ILMのJanet LewinはAIが万能の解決策ではないと警告した。",
-          "mini_headline": "AIと雇用を語るVFX首脳",
+          "headline": "アフリカ映画界、\nAI革命に備える",
+          "body": "Durban FilmMartでアフリカの映画人はAIの利点と通信費や欧米偏重を比べた。",
+          "mini_headline": "アフリカ映画界がAIに注目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+                "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
               },
               {
                 "t": "p",
-                "x": "イタリアのView Conferenceで、Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio、Cinesiteの幹部が、生成AI、進化するパイプライン、雇用について議論した。おおむね、AIは既存の手法をすぐに置き換えるものではなく、より大きな変革の一部だという見方だった。"
+                "x": "Yoruba語初のフォトリアルなAI-generated長編映画と銘打たれた作品のプレミアは、需要がストリーミング配信サービスDocuthのサーバーを圧倒したことで不発に終わった。Durban FilmMartでは、AIの可能性と落とし穴が主要な議題となった。"
               },
               {
                 "t": "p",
-                "x": "「AIは実行時間を圧縮できると言われるが、センスは圧縮できない」とThe YardのLaurens Ehrmannは語った。ILMのJanet Lewinは「AIと機械学習が万能薬だという誤解」に警鐘を鳴らした。CinesiteのShawn Walshは、VFXアーティストは「この移行を管理するため、当面は」必要とされると述べた。"
+                "x": "アフリカでは、高いデータ通信費や遅いブロードバンドから決済処理の問題まで、AIツールが独特の壁に直面している。Digicine Motion PictureのZukisani Karabo Mabeceは「非常に偏っている。非常に欧米的だ」と語り、「地元の言語に対応するため、自分たちで言語モデルを作らなければならない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "アーティストの生活をどう守るかと問われ、ImageworksのMichelle Gradyは「アーティストなしに私たちは存在しない。以上だ」と答えた。Lewinは、親会社がスタジオには制御できない決定を下すと指摘した。雇用をどう守るかについて、パネルから具体策はほとんど示されなかった。"
+                "x": "Gobez MediaのTamara Dawitはこれを「構造的な障壁」と呼び、I.M.P.A.C.T.のSamantha Kaineは「他人の美学を持ち込んだり、自分たちが何者かを消したりせずに」これらのツールをどう使うかを問いかけた。"
+              },
+              {
+                "t": "p",
+                "x": "AI-assistedの場面が約80%、実際の俳優による実写が20%の「Mystery of Osu Land」は、現在Docuthで配信中だ。Mysterious Tech StudioのKafilat Yusuffは、AIは野心的な物語を探る新たな手段をもたらす一方、「人間の演者の役割、同意、報酬、創作上の所有権」をめぐる問いを投げかけると語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VFX与动画高管\n在View热议AI与就业",
-          "body": "ILM的Janet Lewin提醒，AI并不是解决一切的灵丹妙药。",
-          "mini_headline": "VFX高管谈AI与就业",
+          "headline": "非洲电影人\n备战AI革命",
+          "body": "在Durban FilmMart，非洲电影人权衡AI的前景与高昂流量费、网速慢和西方偏见。",
+          "mini_headline": "非洲电影业关注AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+                "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
               },
               {
                 "t": "p",
-                "x": "在意大利View Conference上，来自Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio和Cinesite的高管讨论了生成式AI、不断演变的制作管线和就业问题。他们大多将AI视为更广泛变革的一部分，而非立即取代既有方法的工具。"
+                "x": "一部号称首部Yoruba语照片级写实AI-generated长片的首映，因需求压垮流媒体平台Docuth的服务器而告吹。在Durban FilmMart上，AI的潜力与陷阱成为重要议题。"
               },
               {
                 "t": "p",
-                "x": "The Yard的Laurens Ehrmann说：“我们常说AI可以压缩执行时间，但它无法压缩品味。”ILM的Janet Lewin提醒人们警惕“关于AI和机器学习是灵丹妙药的谬误”。Cinesite的Shawn Walsh表示，“在可预见的未来”仍需要VFX艺术家“来管理这一转型”。"
+                "x": "AI工具在非洲面临独特障碍，从高昂的数据费用、缓慢的宽带速度到支付处理难题。Digicine Motion Picture的Zukisani Karabo Mabece说：“它非常有偏见，非常西方化。”“我们不得不自己构建语言模型，来适配我们本地的语言。”"
               },
               {
                 "t": "p",
-                "x": "被问及如何保障艺术家的生计时，Imageworks的Michelle Grady说：“没有艺术家就没有我们，就这么简单。”Lewin指出，母公司会做出工作室无法掌控的决定。对于如何保护就业，小组几乎没有给出具体方案。"
+                "x": "Gobez Media的Tamara Dawit称之为“系统性障碍”；I.M.P.A.C.T.的Samantha Kaine则问，如何使用这些工具，“而不引入别人的审美，也不抹去我们是谁”。"
+              },
+              {
+                "t": "p",
+                "x": "《Mystery of Osu Land》约80%为AI-assisted场景、20%为真人演员实拍，现已在Docuth上线。Mysterious Tech Studio的Kafilat Yusuff表示，AI为探索宏大故事提供了新途径，但也引发了关于“人类演员的角色、同意、报酬、创作所有权”的问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jefes de VFX y animación\ndebaten AI y empleo en View",
-          "body": "Para Janet Lewin (ILM), la AI no es una bala mágica; para Laurens Ehrmann (The Yard), no puede comprimir el gusto.",
-          "mini_headline": "Jefes de VFX ante la AI y el empleo",
+          "headline": "Cineastas africanos se preparan\npara la revolución de la AI",
+          "body": "En Durban FilmMart, cineastas africanos sopesaron la AI frente a datos caros, banda ancha lenta y sesgo occidental.",
+          "mini_headline": "El cine africano mira a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+                "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
               },
               {
                 "t": "p",
-                "x": "En la View Conference de Italia, ejecutivos de Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio y Cinesite debatieron sobre AI generativa, la evolución de los pipelines y el empleo. En general, presentaron la AI como parte de una transformación más amplia y no como un reemplazo inmediato de los métodos establecidos."
+                "x": "El estreno de lo que se presentó como el primer largometraje fotorrealista AI-generated en idioma Yoruba fracasó cuando la demanda saturó los servidores de la plataforma de streaming Docuth. En Durban FilmMart, el potencial y los riesgos de la AI ocuparon un lugar destacado en la agenda."
               },
               {
                 "t": "p",
-                "x": "\"Hablamos de cómo la AI puede comprimir el tiempo de ejecución, pero no puede comprimir el gusto\", dijo Laurens Ehrmann, de The Yard. Janet Lewin, de ILM, advirtió sobre \"una falacia acerca de esa bala mágica de la AI y el aprendizaje automático\". Shawn Walsh, de Cinesite, dijo que se necesitarán artistas de VFX \"en el futuro previsible para gestionar esta transición\"."
+                "x": "Las herramientas de AI enfrentan barreras propias en África, desde el alto costo de los datos y la baja velocidad de la banda ancha hasta los problemas para procesar pagos. “Está muy sesgada. Es muy occidental”, dijo Zukisani Karabo Mabece, de Digicine Motion Picture. “Tenemos que crear nuestros propios modelos de lenguaje para dar cabida a las lenguas que tenemos aquí localmente”."
               },
               {
                 "t": "p",
-                "x": "Ante la pregunta de cómo protegen el sustento de los artistas, Michelle Grady, de Imageworks, dijo: \"No existimos sin artistas, punto\". Lewin señaló que las empresas matrices toman decisiones que los estudios no pueden controlar. El panel ofreció pocos detalles sobre cómo se protegerán los empleos."
+                "x": "Tamara Dawit, de Gobez Media, las llamó “barreras sistémicas”; Samantha Kaine, de I.M.P.A.C.T., preguntó cómo usar estas herramientas “sin importar la estética de otros ni borrar quiénes somos”."
+              },
+              {
+                "t": "p",
+                "x": "“Mystery of Osu Land”, con cerca de un 80% de escenas AI-assisted y un 20% de acción real con actores de carne y hueso, ya está disponible en Docuth. Kafilat Yusuff, de Mysterious Tech Studio, dijo que la AI ofrece nuevas formas de explorar historias ambiciosas, pero plantea preguntas sobre “el papel de los intérpretes humanos, el consentimiento, la compensación, la autoría creativa”."
               }
             ]
           }
@@ -1457,105 +1547,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "VFX·애니 수장들,\nView서 AI·고용 논의",
-          "body": "ILM의 Janet Lewin은 AI가 만능 해법이 아니라고 경고했다.",
-          "mini_headline": "AI와 일자리, VFX 수장들의 시각",
+          "headline": "아프리카 영화계,\nAI 혁명에 대비한다",
+          "body": "Durban FilmMart서 아프리카 영화계가 AI 기대와 비용·편향을 따졌다.",
+          "mini_headline": "아프리카 영화계, AI 주목",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+                "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
               },
               {
                 "t": "p",
-                "x": "이탈리아 View Conference에서 Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio, Cinesite 경영진이 생성형 AI와 변화하는 파이프라인, 일자리를 논의했다. 이들은 대체로 AI를 기존 방식을 곧바로 대체하는 존재가 아니라 더 넓은 변화의 일부로 봤다."
+                "x": "Yoruba어로 된 첫 포토리얼리스틱 AI-generated 장편 영화로 홍보된 작품의 시사가, 수요가 스트리밍 플랫폼 Docuth의 서버를 압도하면서 무산됐다. Durban FilmMart에서는 AI의 가능성과 함정이 주요 의제로 떠올랐다."
               },
               {
                 "t": "p",
-                "x": "The Yard의 Laurens Ehrmann은 \"AI가 실행 시간을 압축할 수 있다고들 하지만, 취향은 압축할 수 없다\"고 말했다. ILM의 Janet Lewin은 \"AI와 머신러닝이 만능 해법이라는 오류\"를 경계했다. Cinesite의 Shawn Walsh는 \"이 전환을 관리하기 위해 당분간\" VFX 아티스트가 필요할 것이라고 말했다."
+                "x": "아프리카에서 AI 도구는 높은 데이터 비용과 느린 광대역 속도부터 결제 처리 문제까지 고유한 장벽에 부딪힌다. Digicine Motion Picture의 Zukisani Karabo Mabece는 “매우 편향돼 있다. 매우 서구적이다”라며 “이곳 현지 언어를 담기 위해 우리만의 언어 모델을 직접 만들어야 하는 상황”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "아티스트의 생계를 어떻게 지키느냐는 질문에 Imageworks의 Michelle Grady는 \"아티스트 없이는 우리도 없다. 이상이다\"라고 답했다. Lewin은 모회사가 스튜디오가 통제할 수 없는 결정을 내린다고 짚었다. 패널은 일자리를 어떻게 보호할지 구체적인 내용을 거의 내놓지 않았다."
+                "x": "Gobez Media의 Tamara Dawit는 이를 “구조적 장벽”이라 불렀고, I.M.P.A.C.T.의 Samantha Kaine은 “다른 사람의 미학을 들여오거나 우리 정체성을 지우지 않고” 이 도구를 어떻게 쓸지 물었다."
+              },
+              {
+                "t": "p",
+                "x": "AI-assisted 장면이 약 80%, 실제 배우가 나오는 실사가 20%인 “Mystery of Osu Land”는 현재 Docuth에서 스트리밍 중이다. Mysterious Tech Studio의 Kafilat Yusuff는 AI가 야심 찬 이야기를 탐구할 새로운 방법을 주지만 “인간 배우의 역할, 동의, 보상, 창작 소유권”에 대한 질문을 던진다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VFX・アニメ首脳陣、\nViewでAIと雇用を議論",
-          "body": "ILMのJanet LewinはAIが万能の解決策ではないと警告した。",
-          "mini_headline": "AIと雇用を語るVFX首脳",
+          "headline": "アフリカ映画界、\nAI革命に備える",
+          "body": "Durban FilmMartでアフリカの映画人はAIの利点と通信費や欧米偏重を比べた。",
+          "mini_headline": "アフリカ映画界がAIに注目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+                "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
               },
               {
                 "t": "p",
-                "x": "イタリアのView Conferenceで、Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio、Cinesiteの幹部が、生成AI、進化するパイプライン、雇用について議論した。おおむね、AIは既存の手法をすぐに置き換えるものではなく、より大きな変革の一部だという見方だった。"
+                "x": "Yoruba語初のフォトリアルなAI-generated長編映画と銘打たれた作品のプレミアは、需要がストリーミング配信サービスDocuthのサーバーを圧倒したことで不発に終わった。Durban FilmMartでは、AIの可能性と落とし穴が主要な議題となった。"
               },
               {
                 "t": "p",
-                "x": "「AIは実行時間を圧縮できると言われるが、センスは圧縮できない」とThe YardのLaurens Ehrmannは語った。ILMのJanet Lewinは「AIと機械学習が万能薬だという誤解」に警鐘を鳴らした。CinesiteのShawn Walshは、VFXアーティストは「この移行を管理するため、当面は」必要とされると述べた。"
+                "x": "アフリカでは、高いデータ通信費や遅いブロードバンドから決済処理の問題まで、AIツールが独特の壁に直面している。Digicine Motion PictureのZukisani Karabo Mabeceは「非常に偏っている。非常に欧米的だ」と語り、「地元の言語に対応するため、自分たちで言語モデルを作らなければならない」と述べた。"
               },
               {
                 "t": "p",
-                "x": "アーティストの生活をどう守るかと問われ、ImageworksのMichelle Gradyは「アーティストなしに私たちは存在しない。以上だ」と答えた。Lewinは、親会社がスタジオには制御できない決定を下すと指摘した。雇用をどう守るかについて、パネルから具体策はほとんど示されなかった。"
+                "x": "Gobez MediaのTamara Dawitはこれを「構造的な障壁」と呼び、I.M.P.A.C.T.のSamantha Kaineは「他人の美学を持ち込んだり、自分たちが何者かを消したりせずに」これらのツールをどう使うかを問いかけた。"
+              },
+              {
+                "t": "p",
+                "x": "AI-assistedの場面が約80%、実際の俳優による実写が20%の「Mystery of Osu Land」は、現在Docuthで配信中だ。Mysterious Tech StudioのKafilat Yusuffは、AIは野心的な物語を探る新たな手段をもたらす一方、「人間の演者の役割、同意、報酬、創作上の所有権」をめぐる問いを投げかけると語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VFX与动画高管\n在View热议AI与就业",
-          "body": "ILM的Janet Lewin提醒，AI并不是解决一切的灵丹妙药。",
-          "mini_headline": "VFX高管谈AI与就业",
+          "headline": "非洲电影人\n备战AI革命",
+          "body": "在Durban FilmMart，非洲电影人权衡AI的前景与高昂流量费、网速慢和西方偏见。",
+          "mini_headline": "非洲电影业关注AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+                "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
               },
               {
                 "t": "p",
-                "x": "在意大利View Conference上，来自Sony Pictures Imageworks、ILM、Skydance Animation、Proof、The Yard、Opsis Studio和Cinesite的高管讨论了生成式AI、不断演变的制作管线和就业问题。他们大多将AI视为更广泛变革的一部分，而非立即取代既有方法的工具。"
+                "x": "一部号称首部Yoruba语照片级写实AI-generated长片的首映，因需求压垮流媒体平台Docuth的服务器而告吹。在Durban FilmMart上，AI的潜力与陷阱成为重要议题。"
               },
               {
                 "t": "p",
-                "x": "The Yard的Laurens Ehrmann说：“我们常说AI可以压缩执行时间，但它无法压缩品味。”ILM的Janet Lewin提醒人们警惕“关于AI和机器学习是灵丹妙药的谬误”。Cinesite的Shawn Walsh表示，“在可预见的未来”仍需要VFX艺术家“来管理这一转型”。"
+                "x": "AI工具在非洲面临独特障碍，从高昂的数据费用、缓慢的宽带速度到支付处理难题。Digicine Motion Picture的Zukisani Karabo Mabece说：“它非常有偏见，非常西方化。”“我们不得不自己构建语言模型，来适配我们本地的语言。”"
               },
               {
                 "t": "p",
-                "x": "被问及如何保障艺术家的生计时，Imageworks的Michelle Grady说：“没有艺术家就没有我们，就这么简单。”Lewin指出，母公司会做出工作室无法掌控的决定。对于如何保护就业，小组几乎没有给出具体方案。"
+                "x": "Gobez Media的Tamara Dawit称之为“系统性障碍”；I.M.P.A.C.T.的Samantha Kaine则问，如何使用这些工具，“而不引入别人的审美，也不抹去我们是谁”。"
+              },
+              {
+                "t": "p",
+                "x": "《Mystery of Osu Land》约80%为AI-assisted场景、20%为真人演员实拍，现已在Docuth上线。Mysterious Tech Studio的Kafilat Yusuff表示，AI为探索宏大故事提供了新途径，但也引发了关于“人类演员的角色、同意、报酬、创作所有权”的问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jefes de VFX y animación\ndebaten AI y empleo en View",
-          "body": "Para Janet Lewin (ILM), la AI no es una bala mágica; para Laurens Ehrmann (The Yard), no puede comprimir el gusto.",
-          "mini_headline": "Jefes de VFX ante la AI y el empleo",
+          "headline": "Cineastas africanos se preparan\npara la revolución de la AI",
+          "body": "En Durban FilmMart, cineastas africanos sopesaron la AI frente a datos caros, banda ancha lenta y sesgo occidental.",
+          "mini_headline": "El cine africano mira a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Executives.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=667&crop=1",
+                "cap": "“Mystery of Osu Land” (Courtesy Mysterious Tech Studio)"
               },
               {
                 "t": "p",
-                "x": "En la View Conference de Italia, ejecutivos de Sony Pictures Imageworks, ILM, Skydance Animation, Proof, The Yard, Opsis Studio y Cinesite debatieron sobre AI generativa, la evolución de los pipelines y el empleo. En general, presentaron la AI como parte de una transformación más amplia y no como un reemplazo inmediato de los métodos establecidos."
+                "x": "El estreno de lo que se presentó como el primer largometraje fotorrealista AI-generated en idioma Yoruba fracasó cuando la demanda saturó los servidores de la plataforma de streaming Docuth. En Durban FilmMart, el potencial y los riesgos de la AI ocuparon un lugar destacado en la agenda."
               },
               {
                 "t": "p",
-                "x": "\"Hablamos de cómo la AI puede comprimir el tiempo de ejecución, pero no puede comprimir el gusto\", dijo Laurens Ehrmann, de The Yard. Janet Lewin, de ILM, advirtió sobre \"una falacia acerca de esa bala mágica de la AI y el aprendizaje automático\". Shawn Walsh, de Cinesite, dijo que se necesitarán artistas de VFX \"en el futuro previsible para gestionar esta transición\"."
+                "x": "Las herramientas de AI enfrentan barreras propias en África, desde el alto costo de los datos y la baja velocidad de la banda ancha hasta los problemas para procesar pagos. “Está muy sesgada. Es muy occidental”, dijo Zukisani Karabo Mabece, de Digicine Motion Picture. “Tenemos que crear nuestros propios modelos de lenguaje para dar cabida a las lenguas que tenemos aquí localmente”."
               },
               {
                 "t": "p",
-                "x": "Ante la pregunta de cómo protegen el sustento de los artistas, Michelle Grady, de Imageworks, dijo: \"No existimos sin artistas, punto\". Lewin señaló que las empresas matrices toman decisiones que los estudios no pueden controlar. El panel ofreció pocos detalles sobre cómo se protegerán los empleos."
+                "x": "Tamara Dawit, de Gobez Media, las llamó “barreras sistémicas”; Samantha Kaine, de I.M.P.A.C.T., preguntó cómo usar estas herramientas “sin importar la estética de otros ni borrar quiénes somos”."
+              },
+              {
+                "t": "p",
+                "x": "“Mystery of Osu Land”, con cerca de un 80% de escenas AI-assisted y un 20% de acción real con actores de carne y hueso, ya está disponible en Docuth. Kafilat Yusuff, de Mysterious Tech Studio, dijo que la AI ofrece nuevas formas de explorar historias ambiciosas, pero plantea preguntas sobre “el papel de los intérpretes humanos, el consentimiento, la compensación, la autoría creativa”."
               }
             ]
           }

@@ -1227,6 +1227,125 @@
           "x": "对广告主而言，这些机制在Ads Manager中都没有可调设置，其效果通过Advantage+和自动投放体现。"
         }
       ]
+    },
+    "marketing/marketing-google-ai-mode-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
+        },
+        {
+          "t": "p",
+          "x": "Google开始在搜索（Search）的AI模式（AI Mode）中，面向通过Personal Intelligence关联应用的用户测试广告，改变了此前这一体验不含广告的做法。"
+        },
+        {
+          "t": "p",
+          "x": "这次更新意味着，除了已用于生成AI-powered回答的信息外，Google现在还可以利用来自关联应用的洞察来帮助个性化广告。广告仍将反映用户的查询、AI-generated回答的上下文以及用户的兴趣。"
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
+        },
+        {
+          "t": "p",
+          "x": "Google表示保护措施依然有效：关联应用需用户主动选择开启，广告不会直接基于Gmail或Google Photos的内容，广告主无法访问关联应用，敏感信息也不会用于个性化广告。"
+        },
+        {
+          "t": "p",
+          "x": "Google尚未宣布针对这项测试的新广告主控制功能、定向选项或更大范围的推广。"
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-measurement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI正在为ChatGPT Ads推出多项更新，包括扩大衡量合作、改进转化报告、提供每周效果摘要，以及试验更大、更具视觉感的广告格式。"
+        },
+        {
+          "t": "p",
+          "x": "新的衡量集成包括Northbeam、DV Rockerbox和INCRMNTAL，以及移动衡量伙伴Kochava、Tenjin和Airbridge。Ads Manager中重新设计的Conversions页面汇集了转化活动、事件趋势、优化状态和诊断警告。"
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
+        },
+        {
+          "t": "p",
+          "x": "测试内容包括在桌面端使用更宽的广告卡片和更大的图片，在移动端使用全宽图片，素材沿用广告主现有的创意。此外，OpenAI计划在图像生成过程中测试多图广告格式，初期面向部分U.S.广告主。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI尚未公布这些格式的效果数据，也未确认更大范围推广的时间表。"
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-targeting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+          "cap": "图片：Sipa USA via AP."
+        },
+        {
+          "t": "p",
+          "x": "根据404 Media对ChatGPT广告生态的自行测试，OpenAI允许任何人向ChatGPT用户的会话中插入广告，并可根据电子邮件地址、电话号码或手机上的唯一标识符定向特定人群。"
+        },
+        {
+          "t": "p",
+          "x": "虽然ChatGPT提供的广告定向在广告行业中算是较为标准的做法，但这款聊天机器人的十亿月活跃用户可能并不明白，在某些情况下，他们之所以被精准定向，是因为广告主向OpenAI上传了他们的个人数据。ChatGPT的广告定向还有一个新颖之处：它也基于用户输入聊天机器人的提示词。用户可能以为这些提示词是私密的，但正如404 Media此前所揭示的，它们可能会被人工审阅。而在这里，则被用于广告定向。"
+        }
+      ]
+    },
+    "marketing/marketing-thrad-chat-ads-fund": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+          "cap": "Thrad将面向AI应用的聊天内广告支出翻倍至$1m，图为一枚投入聊天气泡的硬币"
+        },
+        {
+          "t": "p",
+          "x": "在AI聊天对话中投放赞助信息的旧金山公司Thrad推出了Monetization Fund II。这是一项滚动计划，通过其DSP将最高100万美元的广告主支出导向愿意测试广告的消费级AI应用。不涉及股权交换，也不发放现金补助。"
+        },
+        {
+          "t": "p",
+          "x": "这一规模是2025年12月首轮50万美元的两倍。公告未说明收入分成、每个应用的分配额或计划的持续时间。"
+        },
+        {
+          "t": "p",
+          "x": "CEO Andrea Tortella表示：“很多用户就是不愿意为订阅付费。”他指出每一次交互背后都有token成本。"
+        },
+        {
+          "t": "p",
+          "x": "广告依据对话内容而非用户画像进行匹配，并以带有“清晰披露”的原生赞助形式展示，以便与AI的自然回答区分开来。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-product-browsing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+          "cap": "Meta将于10月28日在投放中的广告里开启商品浏览，称转化提升3%；可选择退出"
+        },
+        {
+          "t": "p",
+          "x": "Meta已通知广告主，自2026年10月28日起，除非在此之前选择退出，否则将为Facebook和Instagram上已在投放的广告添加商品浏览功能。用户点击广告后，可能会看到包含商品信息和个性化推荐的应用内页面，而不是直接跳转到广告主网站。"
+        },
+        {
+          "t": "p",
+          "x": "Meta称，根据2026年8月6–21日针对约117,700家广告主开展的实验，企业转化量平均提升3%。通知并未说明转化指标、对照组或单次转化成本的定义。"
+        },
+        {
+          "t": "p",
+          "x": "广告主可通过通知选择退出，或在每条广告的Advantage+ Creative和Destination设置中开关该功能。媒介采买David Herrmann称其为一项把创意素材变成动态商品广告的AI功能，并对临近假日季的时间点提出异议。"
+        }
+      ]
     }
   }
 }

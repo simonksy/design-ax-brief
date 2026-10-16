@@ -7713,6 +7713,184 @@
           "x": "筆者は、習慣トラッカーや変換ツール、タイマーのように広告やサブスクリプションだらけの単機能アプリを置き換える存在になるとみる。最大の売りは、アプリが商業的に成り立つ必要も、他人に必要とされる必要もないことだ。自分にとって役立てばそれでいい。"
         }
       ]
+    },
+    "gadgets/gadgets-brera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+        },
+        {
+          "t": "video",
+          "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Meta、Pinacoteca di Brera、EssilorLuxotticaは「Sensing Art – Discovering Masterpieces Beyond What Meets the Eye」(目に見えるものの先にある名作を発見する)を開始した。AI眼鏡が視覚障害や弱視の人々にとって芸術をより身近にできるかを探る試験事業で、ANS、UICI、Fondazione Istituto dei Ciechi di Milanoと協力している。"
+        },
+        {
+          "t": "p",
+          "x": "イタリアには視覚障害のある人が百万人以上いる。AI眼鏡は美術館のGrande Breraアプリと連携しており、このアプリにはANSがDescriVedendo方式で開発した音声ツアーガイドが含まれる。作品の形、構図、視覚的な細部を言葉に置き換えて伝えるものだ。"
+        },
+        {
+          "t": "p",
+          "x": "選ばれた八つの作品のいずれかの前で、来館者は眼鏡から作品認識を起動し、フレームに内蔵されたオープンイヤー型スピーカーで音声解説を聞ける。Meta AIは周囲に関する質問に答え、Be My Eyesは来館者を晴眼者のボランティアやオペレーターにつなぐ。"
+        },
+        {
+          "t": "p",
+          "x": "この試験事業は、視覚障害のある人々とのテストや協議を通じて開発された。ツアーは予約制で、AI眼鏡は火曜日から金曜日の10:00 AMから4:30 PMまで利用できる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxylang": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SamsungはGalaxy AIとBixbyの対応言語を拡大し、より多くのユーザーが自分の言語でこれらの機能を使えるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy AIは、翻訳、文字起こし、要約の機能を皮切りに、より多くの機能で対応言語を広げる。Call Assist、Note Assist、Interpreter、Transcript Assistにハンガリー語とマレー語が加わり、Live Translateなどの機能は24言語に対応する。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+          "cap": "Malay-Englishの通話をLive Translateで翻訳する様子(説明用のシミュレーション画像。実際のUX/UIとは異なる場合がある。)"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy AIではほかにも、画面の内容に応じて次の一手を提案するNow Nudgeが八つの言語を追加し、同じく24言語に対応する。"
+        },
+        {
+          "t": "p",
+          "x": "Bixbyは、自然な会話で直感的に機器を操作できるデバイスエージェントだ。ユーザーは設定の正確な名前やメニューの場所を知らなくても、自分の言葉で必要なことを頼める。ポーランド語、タイ語、ベトナム語の追加により、Bixbyは12言語に対応し、より多くのGalaxyユーザーが機器をより手軽に操作できるようになる。"
+        },
+        {
+          "t": "p",
+          "x": "Bixbyの新言語はOctober 14から順次提供が始まり、Galaxy AIの新言語も数週間のうちに続く。"
+        }
+      ]
+    },
+    "gadgets/gadgets-siri": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+          "cap": "Apple CEOのJohn TernusとiPhoneのSiriアプリ"
+        },
+        {
+          "t": "p",
+          "x": "October 15に公開されたTIMEの新しいインタビューで、Apple CEOのJohn Ternusは、同社がAIに異なるアプローチを取る理由を説明した。Appleは最も賢いチャットボットを作ろうとするのではなく、すでにiPhoneにある情報に賭けている。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+          "cap": "OpenAIとAppleのロゴ"
+        },
+        {
+          "t": "p",
+          "x": "新しいSiriは、GoogleのGemini技術を活用したAppleのAIモデルを使う。TernusはTIMEに「We make the things where we can really bring differentiation」(本当に差別化をもたらせるものを我々は作る)と語った。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+          "cap": "iPhone 17のApple Maps"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーの許可があれば、Siriは対応アプリをまたいで情報を結びつけ、その文脈を使ってタスクを完了できる。Appleはまた、Apple Watchが収集した健康情報をSiriが解釈することにも可能性を見ている。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+          "cap": "iPhone 17 Proで動作するiOS 27のSiri AI。"
+        },
+        {
+          "t": "p",
+          "x": "AppleのAI製品責任者Lilian Rinconは、SiriがAIコンパニオンのように振る舞わないよう意図的に設計されたと説明した。Siriは可能な限りデバイス上でリクエストを処理し、負荷の高いものはPrivate Cloud Computeで処理する。"
+        },
+        {
+          "t": "p",
+          "x": "問題は、AppleがSiriを十分に役立つものにし、iPhoneユーザーがそもそもChatGPTに手を伸ばさなくなるようにできるかどうかだ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-myfirst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+          "cap": "myFirstシリーズ"
+        },
+        {
+          "t": "p",
+          "x": "myFirstは、生成AIと即時印刷を組み合わせた二つの子ども向けガジェット、Insta magiCamとInsta magiBoxの詳細を新たに明らかにした。両機種はIFA 2026での披露に続き、今週発表された。"
+        },
+        {
+          "t": "p",
+          "x": "Insta magiCamは、撮影した被写体を識別し、それについての質問に答えられるデジタルカメラだ。子どもは写真をさまざまなアートスタイルに変えたり、想像した場面を説明してカメラに作らせたりもできる。前面と背面のカメラ、16MPの写真解像度、1080pの動画撮影、3-inch IPSディスプレイを備える。内蔵のサーマルプリンターで、インクカートリッジなしに写真、イラスト、ぬり絵、ステッカーを印刷できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+          "cap": "myFirst Insta magiCam"
+        },
+        {
+          "t": "p",
+          "x": "一方、Insta magiBoxは少し異なるアプローチを取る。子どもがアイデアを声に出して説明すると、アニメ、カートゥーン、鉛筆画など六つのスタイルのいずれかでイラストを生成する。話した物語を四コマ漫画にすることもでき、同じ恐竜を十五回目に描かされる親にとって一息つける存在になるかもしれない。"
+        },
+        {
+          "t": "p",
+          "x": "このプリンターは2.8-inchディスプレイと1,300mAhバッテリーを備え、26言語に対応する。myFirstによると、画像の生成後、印刷にかかる時間は約10秒だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+          "cap": "myFirst Insta magicBox"
+        },
+        {
+          "t": "p",
+          "x": "magiBoxはAI生成にインターネット接続が必要だが、スマートフォンが必要なのは初期設定時だけだ。同社は年齢に応じたコンテンツフィルタリングや子どもの音声データの保護も約束しているが、その有効性は第三者によって検証されていない。"
+        },
+        {
+          "t": "p",
+          "x": "両機種とも「近日発売」とされており、最終価格や販売地域の拡大はまだ確定していない。"
+        }
+      ]
+    },
+    "gadgets/gadgets-bee": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+          "cap": "画像提供：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "Amazon傘下の個人向けAIウェアラブルメーカーBeeが、昨年この小売大手に買収されてから初の新製品を発表する。手首に着けたり服に留めたりできるBee Frontierと、スマートフォンの背面に磁石で装着するクレジットカードサイズのBee Eclipseだ。"
+        },
+        {
+          "t": "p",
+          "x": "Bee Frontierは$74.99、Bee Eclipseは$99.99で、$159のPlaud Noteや$129のPocketより安い。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
+          "cap": "画像提供：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "初代Beeと同様、両機はAIで日常の会話からメモを取り、やることリスト、要約、インサイトにまとめる。たとえば友人と立てた予定からカレンダーの招待を作成する。"
+        },
+        {
+          "t": "p",
+          "x": "要約と14日分のメモリーは無料だ。月額$11.99のBee Proサブスクリプションでは要約が無制限になり、Amazon.com、Alexa+、サードパーティー製アプリとの連携が加わる。"
+        },
+        {
+          "t": "p",
+          "x": "生の音声は保存されない。リアルタイムで処理した後に削除し、文字起こしはデバイスが管理する鍵で暗号化する。Frontierは現在Amazonで購入でき、Eclipseも間もなく続く。"
+        }
+      ]
     }
   }
 }

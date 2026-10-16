@@ -2501,38 +2501,32 @@
     "music/music-vibe-coded-plugins": {
       "blocks": [
         {
-          "t": "img",
-          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/95ce9bd8-d75d-4ac1-848c-4f19b3b93c1a/How+Vibecoding+Has+Shifted+the+Plugins+You+Own+and+Buy.jpg",
-          "cap": "Fuente: Production Expert"
+          "t": "p",
+          "x": "Los plugins vibe-coded están por todas partes, pero ¿significa eso que realmente se están apoderando del mercado? Hechos con ayuda de AI, estos plugins están saturando el mercado, pero ¿alguien los compra de verdad?"
         },
         {
           "t": "p",
-          "x": "El vibe coding, es decir, el desarrollo guiado por IA, se ha convertido en una práctica estándar en la industria del software. Un comentario del año pasado del co-CEO de Spotify —“Most senior engineers haven't written a single line of code since December”— muestra que este enfoque ha dejado atrás su etapa inicial y ha llegado al desarrollo de más alto nivel. Entonces, ¿qué pasa del lado de la compra? ¿Se puede confiar en un plugin que la IA diseñó, construyó y concibió? Deivids, desarrollador de Acedia Audio, resumió cómo se ve el vibe coding tanto desde el lado del desarrollador como del cliente."
-        },
-        {
-          "t": "p",
-          "x": "La promesa de crear una app con un solo prompt sigue siendo, en su mayor parte, una falsa esperanza. Para construir cualquier app mediante vibe coding, el desarrollador necesita entender a fondo la estructura del proyecto. La IA aumentó la velocidad de desarrollo, pero también aumentó en la misma medida la cantidad de supervisión necesaria. Por eso, la programación con IA debe mantenerse enfocada en áreas acotadas. La mayoría de los problemas comienzan por calcular mal el alcance, y dejar que la IA adivine los pilares centrales de un plugin se convierte de inmediato en una gran deuda. La barrera de entrada bajó, pero un plugin utilizable sigue exigiendo un alto nivel de destreza."
-        },
-        {
-          "t": "p",
-          "x": "También hay un lado positivo. Antes, un solo plugin requería un equipo grande y un presupuesto enorme, así que las ideas marginales siempre quedaban relegadas. Ahora, alguien con una idea puede construir una demo para presentar, y a veces hasta un producto terminado. También se vuelve posible que diseñadores de sonido, intérpretes y artistas de foley construyan ellos mismos las herramientas que llevaban mucho tiempo deseando. Usar IA para reparar código antiguo sin soporte es otro buen uso. El reciente lanzamiento del driver de silicio de Eleven Rack es un ejemplo de ello."
+          "x": "Tomislav Zlatic, editor de Bedroom Producer’s Blog, advierte: “El vibe coding te entrega un muro de código que probablemente quien ‘hizo’ el plugin no sabe leer, y mucho menos depurar”. La confianza fue la mayor preocupación que plantearon los lectores."
         },
         {
           "t": "img",
-          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/8eca0442-55f6-407a-aba7-36dd1e7689c2/Depositphotos_850233672_L.jpg",
-          "cap": "Fuente: Production Expert"
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
         },
         {
           "t": "p",
-          "x": "Cada empresa adoptó esta tecnología en un momento y a un ritmo distintos, así que incluso los nombres más importantes de la industria recién están entrando en el desarrollo con IA y atravesando dolores de crecimiento. Lo primero que hay que revisar es la seguridad. Un plugin solo debería necesitar comunicarse con el exterior para verificar y comprobar la licencia. Si usa un proveedor externo verificado como PACE, Moonbase o MuseHub, en general se puede estar tranquilo. Si se trata de una empresa nueva que usa su propio método, es mejor preguntar directamente al equipo de soporte. Qué tan abiertos están los canales de soporte y comunicación también revela cuánto tiempo planea permanecer esa empresa."
+          "x": "Jaime Paiva, de Våld Labs, creó su sintetizador de software Tresse con ayuda de un agente de AI, pero sigue programando. “La AI es una herramienta dentro del flujo de trabajo, no el flujo de trabajo en sí”, dice. “No fue ella quien decidió qué debía ser Tresse”."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
         },
         {
           "t": "p",
-          "x": "El rendimiento y la estabilidad también importan. La latencia o los bloqueos en el procesamiento de audio se convierten de inmediato en un problema, y el resultado producido por un modelo que no conoce bien este dominio tan específico lleva a fallos o a una optimización deficiente. No es necesario correr benchmarks. Basta con tomar una versión de prueba y ver si resiste tu flujo de trabajo y tu equipo. El diseño también es una señal. Si se deja la paleta de colores en manos de la IA, esta converge hacia el estilo que ese modelo usó con más frecuencia. Los modelos Claude Opus tenían la costumbre de elegir automáticamente una paleta azul violeta oscura, y el mismo esquema de color aparecía en proyectos distintos de personas distintas."
+          "x": "Amorph, de Artists in DSP, permite crear con vibe coding instrumentos y efectos dentro de un DAW. “Amorph no genera música. Genera el instrumento”, dice su CEO, Leonardo Biasca-Caroni. “Si un plugin terminado cumple su función, cómpralo. Amorph es para lo que nadie vende”."
         },
         {
           "t": "p",
-          "x": "Al final, hay seis cosas que revisar: si existe una versión de prueba, si usa un sistema de verificación de licencias confiable, si los canales de soporte están abiertos, si soporta tu trabajo sin esfuerzo, si el diseño es distintivo, y si hay evidencia de que se ha usado en entornos profesionales reales. No se necesita formación técnica para juzgar esto. Basta con preguntarse si este plugin da la sensación de que una persona realmente lo estaba guiando. El vibe coding elevó el techo de lo que puede hacer un desarrollador, y el riesgo y la promesa nacen del mismo cambio. Al final, todo depende de cómo los desarrolladores usen esta tecnología."
+          "x": "El consejo de Attack: revisar a fondo la seguridad, preguntarse si los desarrolladores piensan quedarse a largo plazo y comprar plugins vibe-coded solo si tienen una demo que se pueda probar antes."
         }
       ]
     },
@@ -6819,6 +6813,134 @@
         {
           "t": "p",
           "x": "YouTube, en cambio, se centra en la divulgación más que en restricciones generales: la sola participación de la AI no hace que una pista quede excluida de la monetización."
+        }
+      ]
+    },
+    "music/music-distrokid-suno": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+          "cap": "En esta ilustración fotográfica, aplicaciones de música en un teléfono el 04 de junio de 2024 en Nueva York. Michael M. Santiago/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group y Sony Music presentaron una nueva acción legal para obligar a DistroKid a revelar cuántas canciones de AI sube cada mes a los servicios de streaming, con el argumento de que es una prueba crucial en su batalla en curso contra Suno."
+        },
+        {
+          "t": "p",
+          "x": "La petición, presentada el miércoles (14 de octubre) ante un tribunal federal de Manhattan, busca obligar a DistroKid a cumplir una citación enviada el mes pasado. Los sellos describen a DistroKid como “uno de los principales conductos por los que el mercado del streaming se está inundando de grabaciones generadas por AI (AI-generated)” y afirman que “se niega a entregar un solo documento”."
+        },
+        {
+          "t": "p",
+          "x": "Suno “no rastrea dónde se distribuyen sus resultados una vez que salen de la plataforma de Suno”, dicen, pero DistroKid “está aguas arriba de los servicios de streaming”. “DistroKid ha admitido que mide ese flujo con una herramienta de detección de AI (AI-detection)”, escriben los abogados. “Si ese flujo está dañando el mercado de las grabaciones de los demandantes es una cuestión central de la defensa de uso legítimo de Suno”."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de DistroKid declaró: “DistroKid es un tercero en el litigio en curso entre Universal Music Group, Sony Music y Suno. Estamos comprometidos con la transparencia y seguiremos colaborando con el proceso legal a medida que avance este asunto”."
+        }
+      ]
+    },
+    "music/music-duke-spotify": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“Spotify no etiqueta la música de AI. Intentamos detectarla nosotros mismos” es el titular de una entrada de blog que anuncia un nuevo informe del Duke Sanford Tech Policy Program."
+        },
+        {
+          "t": "p",
+          "x": "“Las plataformas dominantes de streaming musical, como Spotify y Apple Music, siguen prometiendo etiquetas para la música generada por AI (AI-generated), pero aún dependen de etiquetas voluntarias del artista”, afirmó. “Este enfoque de etiquetado es ineficaz y no fomenta una cultura de rendición de cuentas en la industria musical ni en la economía creativa”."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo consistió en que cinco investigadores crearan cada uno una nueva cuenta de Spotify centrada en un género distinto, escucharan playlists durante 25 días y señalaran a cualquier artista que no fuera claramente ‘humano’, para luego confirmarlo con la tecnología de detección de AI (AI-detection) de Deezer."
+        },
+        {
+          "t": "p",
+          "x": "Así se identificó a nueve artistas como generados por AI (AI-generated). En todos los casos, los investigadores habían dado con su música a través de la playlist personalizada ‘Release Radar’ de Spotify, y ninguno de los artistas había declarado en su perfil el uso de AI."
+        },
+        {
+          "t": "p",
+          "x": "El estudio está fechado en junio de 2026, pero no está claro cuándo hicieron el trabajo los investigadores. Eso importa, porque Spotify ha lanzado este año varias funciones de transparencia: una insignia ‘Verified’ para artistas humanos en mayo y una insignia ‘AI Persona’ en septiembre, y Spotify asegura que “no dependerá solo de la autodeclaración” para asignar esta última."
+        },
+        {
+          "t": "p",
+          "x": "Los autores del estudio señalaron algunas medidas sensatas que Spotify podría tomar, pero la compañía ya ha empezado a aplicar algunas, y dice que trabaja en formas de mantener las pistas de baja calidad hechas con AI (AI-slop) fuera de las recomendaciones, incluido ‘Release Radar’."
+        }
+      ]
+    },
+    "music/music-spotify-ai-badge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+        },
+        {
+          "t": "p",
+          "x": "Spotify ya etiqueta a los artistas sintéticos tras nuestra investigación sobre Danny Bones, rapero de AI de extrema derecha que acumula más de 1 millón de reproducciones."
+        },
+        {
+          "t": "p",
+          "x": "El gigante del streaming anunció su nueva insignia “AI Persona” en agosto, seis días después de que preguntáramos a la empresa por qué los artistas sintéticos no estaban obligados a revelar sus identidades inventadas. Las insignias se han ido desplegando en las últimas semanas, y Bones figura entre los artistas que ya aparecen etiquetados."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
+        },
+        {
+          "t": "p",
+          "x": "La música de personas de AI también queda excluida de las recomendaciones editoriales y personalizadas, salvo que los oyentes ya sigan al artista o hayan interactuado con él en Spotify."
+        },
+        {
+          "t": "video",
+          "yt": "5hVInGPwQLs"
+        },
+        {
+          "t": "p",
+          "x": "La insignia no dice nada sobre si la música en sí está generada por AI (AI-generated). Los artistas pueden usar voces, instrumentales u otras herramientas generadas por AI sin ser etiquetados como persona de AI; un sistema aparte de créditos de AI sigue en beta con algunos distribuidores."
+        },
+        {
+          "t": "p",
+          "x": "J.Chambers, artista de Manchester, dijo: “Me alegra que Spotify reconozca que las identidades de artistas generadas por AI (AI-generated) plantean serias dudas, pero no creo que etiquetar perfiles o añadir información de AI a los créditos sea suficiente”."
+        }
+      ]
+    },
+    "music/music-musebench": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los avances de la IA generativa permiten producir música casi indistinguible de las composiciones humanas. MUSEBENCH es un banco de pruebas a gran escala para la detección de música AI-generated y el análisis de artefactos, con más de 361K pistas."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
+          "cap": "Figura 1: Panorama de MuseBench."
+        },
+        {
+          "t": "p",
+          "x": "El conjunto de datos incluye composiciones humanas, música de estilo equivalente generada por diez modelos de código abierto y comerciales de última generación, como Suno y Udio, cocreaciones human-AI y variantes procesadas con perturbaciones adversarias, compresión y posprocesamiento acústico."
+        },
+        {
+          "t": "p",
+          "x": "Los autores comparan 11 detectores automáticos y evalúan su precisión, generalización y robustez en escenarios predeterminados, fuera de dominio y con variantes transformadas."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
+          "cap": "Progresión de acordes de música generada por IA."
+        },
+        {
+          "t": "p",
+          "x": "Un análisis de artefactos mediante la inspección de rasgos acústicos identifica firmas recurrentes: progresiones armónicas no idiomáticas, periodicidades espectrales inducidas por el sobremuestreo y violaciones de las restricciones físicas de la interpretación."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
+          "cap": "Notas de guitarra generadas por IA."
+        },
+        {
+          "t": "p",
+          "x": "Los hallazgos revelan las principales fortalezas y vulnerabilidades de los detectores actuales y ofrecen ideas prácticas para construir sistemas de detección de música por IA más fiables."
         }
       ]
     }

@@ -1071,6 +1071,138 @@
           "x": "このほか、科学的助言サービスの期間を90日から45日に短縮し、対象となるPhase 1試験の初期評価目標を半分の14日とし、女性の健康計画(Women's Health Plan)を策定することも盛り込んだ。"
         }
       ]
+    },
+    "medicine/medicine-seers-uae": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ウェアラブルAI診断モニタリング企業のSeersは16日、UAE最大の公的医療ネットワークであるSEHA Clinicsと進める国家健康診断プロジェクトについて、アブダビ保健局(DoH)傘下の施設内倫理委員会(IRB)の承認を取得し、本格的にプロジェクトに着手したと明らかにした。"
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534058"
+        },
+        {
+          "t": "p",
+          "x": "今回のプロジェクトは、UAE政府が40歳以上の自国民に年1回提供する国家健康診断プログラムにAI不整脈スクリーニングを導入するための最終パイロットだ。現在、UAEの国家健康診断には不整脈スクリーニング検査が含まれていない。Seersは昨年末の入札を経て、この事業の唯一の事業者に選ばれた。"
+        },
+        {
+          "t": "p",
+          "x": "Seersは約100人の受診者にmobiCARE™を基盤とするAI心電図スクリーニングを実施して臨床的有効性と運用適合性を検証し、来年から国家健康診断プログラムへの単独適用を目指す。編入されれば年間約28万人の40歳以上の対象者にサービスを提供でき、検査ごとにSeersに帰属する売上は100ドル以上と見込まれる。"
+        },
+        {
+          "t": "p",
+          "x": "Seersはソウル大学病院など5つの医療機関で受診者3000人を対象に臨床的有効性を検証しており、KMI韓国医学研究所や韓国健康管理協会メディチェックなどでAI不整脈スクリーニングを運用している。同社はUAEを皮切りにGCC(湾岸協力会議)諸国まで事業を拡大する戦略だ。"
+        },
+        {
+          "t": "p",
+          "x": "キム・ソンジョン副社長(CBO)は「今回のプロジェクトを成功させてUAEの国家健康診断プログラムに参入し、これを基盤にGCC諸国までAI心血管スクリーニング事業を広げていく」と述べた。"
+        }
+      ]
+    },
+    "medicine/medicine-uci-lung-nlp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+        },
+        {
+          "t": "p",
+          "x": "ある放射線科が、自然言語処理を使って医療システムの電子カルテから検診対象の患者を掘り起こす方法を詳しく紹介した。専門家らは12日、Journal of the American College of Radiologyで、肺がん検診の受診率は全国で約18%と低いままだと説明した。"
+        },
+        {
+          "t": "p",
+          "x": "大きな障壁の一つは、EHR内の構造化された喫煙歴が不完全または不正確なことだ。これに対処するため、University of California, Irvineは自由記述の臨床記録から喫煙情報を抽出し、検診対象の患者を特定するNLPツールを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "後ろ向き研究には、2018年から2023年までの50歳以上の患者約28,000人と、EHR記録約41,000件が含まれた。ルールベースのNLPパイプラインは手作業で確認した50件の記録から構築し、別の2,000件で改良した。人が注釈を付けた2,000件と比べると、NLPは検診適格性で約84%の一致を示した。"
+        },
+        {
+          "t": "p",
+          "x": "責任著者のGelareh Sadigh(MD)らは「NLP-derived(NLP由来)の喫煙状況とLCS適格性は手作業のレビューと高い一致を示し、構造化EHRデータの三倍を超える検診対象患者を特定した」と結論づけ、NLPを「医師のワークフローを変えずに」機能する「実用的で拡張性のあるアプローチ」と評した。"
+        }
+      ]
+    },
+    "medicine/medicine-parkinsonism-mri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究用のマルチモーダルMRIは、パーキンソン病(PD)と多系統萎縮症(MSA)を鑑別できる可能性を示しているが、コストや撮像時間、処理負担のため臨床応用は限られている。著者らはパーキンソニズムを鑑別するT1-weighted構造MRIベース(MRI-based)の機械学習モデルを開発し、日常的な異方性2D臨床MRIに一般化した。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
+          "cap": "マルチモーダルのベンチマークから臨床シグネチャー、研究用データでの検証、外部clinical-MRIコホートまで。"
+        },
+        {
+          "t": "p",
+          "x": "969人の多施設コホートと、発見–検証–応用の階層的フレームワークを用いた結果、マルチモーダルのベンチマークモデルはAUROC 0.98を、簡素化した単一モダリティのT1-Top20モデルは多クラス判別(健常対照、PD、MSA)で0.93を達成した。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
+          "cap": "ROC曲線と、最終分類に用いた統合Top-20特徴量セット。"
+        },
+        {
+          "t": "p",
+          "x": "PDとMSAの鑑別では、固定したT1-Top20モデルが外部の研究用コホート(n = 227)で統合AUROC 0.88を示し、特発性REM睡眠行動障害からPDへ表現型転換した25人中19人を識別した。一般化モデルはclinical-MRIコホート(2D T1、n = 303)で統合AUROC 0.84を達成した。"
+        }
+      ]
+    },
+    "medicine/medicine-hira-image-deletion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534168",
+          "cap": "写真=国会放送"
+        },
+        {
+          "t": "p",
+          "x": "健康保険審査評価院が保存容量不足を理由に過去の医療画像データを削除し、削除基準やデータ標準化も十分に整えていなかったことが、16日の国会保健福祉委員会の国政監査で明らかになり、叱責を受けた。"
+        },
+        {
+          "t": "p",
+          "x": "共に民主党のクォン・チルスン議員は「最近はAI時代と言われるが、実態を見ればデータの戦いの時代だ」と述べ、審査評価院の医療画像の保有量を追及した。"
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/534166",
+          "cap": "写真=国会放送"
+        },
+        {
+          "t": "p",
+          "x": "資料によると、2021〜2024年の医療画像の保有量は年ごとに約500万〜1300万件だったが、2025年は約2億3000万件、今年は9月までだけで約2億件に達した。クォン議員は「2024年度以前にあった医療画像を削除したからだ」として、過去の資料の約90%を削除した計算になると推計し、削除基準もないと指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "データ標準化の比率は1〜3%にとどまり、3年間で20億ウォンを投じたデータ実証ラボは、2021年以降、外部のAI開発企業による活用実績が0件だった。質疑の終盤には「財産をすべてなくしたも同然だ」との批判も出た。"
+        },
+        {
+          "t": "p",
+          "x": "ホン・スングォン審査評価院長は保存容量の問題と内部管理基準の不備を認め、「産業界がAI学習に使える良質なデータを標準化する」と述べた。"
+        }
+      ]
+    },
+    "medicine/medicine-fake-cxr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Seoul National University Hospital tested whether humans and large language models can tell real chest x-rays from AI-generated ones, in a study published Oct. 13 in the Journal of Imaging Informatics in Medicine."
+        },
+        {
+          "t": "p",
+          "x": "The set held 160 chest x-rays: 40 real and 120 synthetic images from three AI pipelines. Two radiologists, two general practitioners and three LLMs (Gemini 3.5 Flash, GPT-4o, Claude 3.7 Sonnet) judged each one."
+        },
+        {
+          "t": "p",
+          "x": "Gemini 3.5 Flash (77.9% balanced accuracy) and the thoracic radiologist (75.8%) did best, with no significant difference; the general practitioners performed near chance. Radiologists caught diffusion-model images more often (82%–100%) than LLMs (32%–72%), while LLMs were more specific on real images. Overall agreement was poor (Fleiss' kappa 0.213)."
+        },
+        {
+          "t": "p",
+          "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
+        }
+      ]
     }
   }
 }

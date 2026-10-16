@@ -6488,38 +6488,32 @@
     "music/music-vibe-coded-plugins": {
       "blocks": [
         {
-          "t": "img",
-          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/95ce9bd8-d75d-4ac1-848c-4f19b3b93c1a/How+Vibecoding+Has+Shifted+the+Plugins+You+Own+and+Buy.jpg",
-          "cap": "출처: Production Expert"
+          "t": "p",
+          "x": "vibe-coded 플러그인은 어디에나 있다. 그렇다고 시장을 장악했느냐는 다른 문제다. AI 도움으로 만든 플러그인이 마켓플레이스를 채우고 있지만, 정말 사 가는 사람이 있을까."
         },
         {
           "t": "p",
-          "x": "바이브코딩, 그러니까 AI가 이끄는 개발은 소프트웨어 업계에서 기본기가 됐다. 지난해 Spotify 공동 CEO가 남긴 “Most senior engineers haven’t written a single line of code since December”라는 발언은 이 방식이 초기 단계를 지나 최고 수준의 개발 현장까지 들어왔음을 보여준다. 그렇다면 사는 쪽은 어떤가. AI가 설계하고 만들고 구상한 플러그인을 믿어도 될까. Acedia Audio의 개발자 Deivids가 개발자와 고객 양쪽에서 본 바이브코딩을 정리했다."
-        },
-        {
-          "t": "p",
-          "x": "프롬프트 한 줄로 앱을 만든다는 광고 문구는 아직 대체로 헛된 기대다. 어떤 앱이든 바이브코딩으로 만들려면 개발자가 프로젝트 구조를 깊이 알아야 한다. AI는 개발 속도를 올렸지만 그만큼 감독해야 할 몫도 키웠다. 그래서 AI 코딩은 좁은 영역에 집중해야 한다. 범위를 잘못 잡는 데서 대부분의 문제가 시작되고, 플러그인의 핵심 기둥을 AI가 추측하게 두면 곧바로 큰 부채가 된다. 진입 문턱은 낮아졌어도 쓸 만한 플러그인은 여전히 높은 숙련을 요구한다."
-        },
-        {
-          "t": "p",
-          "x": "밝은 쪽도 있다. 예전에는 플러그인 하나에 큰 팀과 막대한 예산이 필요해 변두리 아이디어가 늘 밀렸다. 지금은 아이디어가 있는 사람이 피칭용 데모를, 때로는 완제품까지 만든다. 사운드 디자이너와 연주자, 폴리 아티스트가 오래 원했던 도구를 직접 만드는 그림도 가능해진다. 지원이 끊긴 오래된 코드베이스를 AI로 손보는 것도 훌륭한 쓰임이다. Eleven Rack의 실리콘 드라이버 출시가 최근 사례다."
+          "x": "Bedroom Producer’s Blog 편집자 Tomislav Zlatic은 “vibe coding은 플러그인을 ‘만든’ 사람조차 아마 읽지 못할, 디버깅은 더더욱 못할 코드의 벽을 안겨 준다”고 경고한다. 독자들이 가장 걱정한 건 신뢰였다."
         },
         {
           "t": "img",
-          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/8eca0442-55f6-407a-aba7-36dd1e7689c2/Depositphotos_850233672_L.jpg",
-          "cap": "출처: Production Expert"
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
         },
         {
           "t": "p",
-          "x": "개발사마다 이 기술을 받아들인 시점과 속도가 달라, 업계 최고 이름조차 이제 막 AI 개발에 발을 들이며 성장통을 겪는다. 먼저 볼 것은 보안이다. 플러그인이 시스템 밖과 통신할 일은 라이선스 확인과 검증 정도뿐이어야 한다. PACE, Moonbase, MuseHub 같은 검증된 외부 제공자를 쓴다면 대체로 안심해도 된다. 자체 방식을 쓰는 신생 개발사라면 지원팀에 직접 물어보는 편이 낫다. 지원과 소통 창구가 어떻게 열려 있는지를 보면 그 회사가 얼마나 오래 남을 생각인지도 드러난다."
+          "x": "Våld Labs의 Jaime Paiva는 AI 에이전트의 도움으로 소프트 신스 Tresse를 만들었지만 코딩은 지금도 직접 한다. 그는 “AI는 워크플로 속 도구일 뿐, 워크플로 그 자체가 아니다”라며 “Tresse가 무엇이어야 할지는 AI가 정하지 않았다”고 말한다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
         },
         {
           "t": "p",
-          "x": "성능과 안정성도 중요하다. 오디오 처리에서 지연이나 멈춤은 곧바로 사고로 이어지는데, 이 좁은 영역을 잘 모르는 모델이 만든 결과물은 충돌이나 최적화 부족을 낳는다. 벤치마크를 돌릴 필요는 없다. 체험판을 받아 내 작업 흐름과 장비를 견디는지 보면 된다. 디자인도 신호다. 색 팔레트를 AI에 맡기면 그 모델이 가장 많이 쓰던 스타일로 수렴한다. Claude Opus 모델은 깊은 푸른 보라 팔레트를 자동으로 고르는 버릇이 있었고, 서로 다른 사람의 서로 다른 프로젝트에서 똑같은 배색이 보였다."
+          "x": "Artists in DSP의 Amorph로는 DAW 안에서 악기와 이펙트를 vibe code로 만든다. CEO Leonardo Biasca-Caroni는 “Amorph는 음악을 생성하지 않는다. 악기를 생성한다”며 “완성된 플러그인으로 충분하다면 그걸 사라. Amorph는 아무도 팔지 않는 것을 위한 도구다”라고 말한다."
         },
         {
           "t": "p",
-          "x": "확인할 것은 결국 여섯 가지다. 체험판이 있는지, 신뢰할 만한 라이선스 검증 체계를 쓰는지, 지원 창구가 열려 있는지, 내 작업을 무리 없이 감당하는지, 디자인이 고유한지, 실제 전문 현장에서 쓰였다는 증거가 있는지. 기술 배경이 없어도 판단할 수 있다. 이 플러그인을 사람이 실제로 조종했다는 느낌이 드는지 물어보면 된다. 바이브코딩은 개발자가 할 수 있는 일의 천장을 올렸고, 위험과 기대는 같은 변화에서 나온다. 결국 개발자가 이 기술을 어떻게 쓰느냐에 달렸다."
+          "x": "Attack은 보안을 꼼꼼히 확인하고 개발자가 오래 갈 생각인지 따져 보라고 조언한다. vibe-coded 플러그인은 먼저 써 볼 데모가 있을 때만 사라는 것이다."
         }
       ]
     },
@@ -11711,6 +11705,134 @@
         {
           "t": "p",
           "x": "YouTube는 일괄 제한보다 공개 쪽에 무게를 둔다. AI가 관여했다는 이유만으로 곡이 수익화 대상에서 빠지지는 않는다."
+        }
+      ]
+    },
+    "music/music-distrokid-suno": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
+          "cap": "2024년 6월 04일 뉴욕시에서 휴대전화에 음악 앱이 떠 있는 모습을 담은 사진 일러스트. Michael M. Santiago/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group과 Sony Music이 DistroKid가 매달 스트리밍 서비스에 올리는 AI 곡의 수를 밝히게 해 달라며 새 소송을 냈다. Suno와 벌이는 분쟁에서 그 수치가 결정적 증거라는 주장이다."
+        },
+        {
+          "t": "p",
+          "x": "수요일(10월 14일) 맨해튼 연방법원에 낸 이번 신청은 지난달 보낸 소환장에 DistroKid가 응하게 하려는 것이다. 레이블들은 DistroKid를 “스트리밍 시장을 AI-generated 녹음물로 뒤덮는 주요 통로 가운데 하나”라고 부르면서 이 회사가 “문서 한 건도 내놓기를 거부하고 있다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "레이블들은 Suno가 “결과물이 Suno 플랫폼을 떠난 뒤 어디로 유통되는지 추적하지 않는다”고 하면서도 DistroKid는 “스트리밍 서비스의 상류에 있다”고 말한다. 변호인단은 “DistroKid는 AI-detection 도구로 그 흐름을 측정한다고 인정했다”며 “그 흐름이 원고 측 녹음물 시장에 해를 끼치는지가 Suno의 공정 이용 항변의 핵심 쟁점”이라고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "DistroKid 대변인은 “DistroKid는 Universal Music Group, Sony Music과 Suno 사이에 진행 중인 소송의 제삼자다. 우리는 투명성을 지키며, 이 사안이 진행되는 동안 법적 절차에 계속 협조하겠다”고 말했다."
+        }
+      ]
+    },
+    "music/music-duke-spotify": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“Spotify는 AI 음악에 라벨을 붙이지 않는다. 그래서 우리가 직접 찾아보기로 했다.” Duke Sanford Tech Policy Program의 새 보고서를 알리는 블로그 글의 제목이다."
+        },
+        {
+          "t": "p",
+          "x": "보고서는 “Spotify와 Apple Music 같은 주요 음악 스트리밍 플랫폼은 AI-generated 음악에 라벨을 붙이겠다고 계속 약속하면서도 여전히 아티스트의 자발적 표기에 기대고 있다”고 주장했다. “이런 라벨링 방식은 효과가 없고, 음악 산업과 창작 경제에 책임의 문화를 키우지 못한다.”"
+        },
+        {
+          "t": "p",
+          "x": "방식은 이랬다. 연구진 다섯 명이 장르를 하나씩 맡아 새 Spotify 계정을 만들고 25일 동안 플레이리스트를 들었다. 누가 봐도 ‘인간’이 아닌 아티스트를 표시해 두고 Deezer의 AI-detection 기술로 확인했다."
+        },
+        {
+          "t": "p",
+          "x": "그렇게 AI-generated로 판별된 아티스트가 아홉 팀이다. 연구진은 모두 Spotify의 개인화 플레이리스트 ‘Release Radar’에서 이들의 음악을 접했고, 프로필에서 AI 사용을 스스로 밝힌 아티스트는 한 팀도 없었다."
+        },
+        {
+          "t": "p",
+          "x": "보고서 날짜는 2026년 6월이지만, 연구진이 실제로 언제 작업했는지는 분명하지 않다. Spotify가 올해 여러 투명성 기능을 내놓았기에 시점이 중요하다. 5월에는 인간 아티스트용 ‘Verified’ 배지를, 9월에는 ‘AI Persona’ 배지를 도입했고, Spotify는 후자를 부여할 때 “자기 신고에만 의존하지 않겠다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 Spotify가 해 볼 만한 합리적 조치를 몇 가지 내놓았는데, 그중 일부는 Spotify가 이미 하고 있다. Spotify는 ‘Release Radar’를 포함한 추천에서 AI-slop 트랙을 걸러낼 방법도 마련 중이라고 말한다."
+        }
+      ]
+    },
+    "music/music-spotify-ai-badge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+        },
+        {
+          "t": "p",
+          "x": "Spotify가 합성 아티스트에 라벨을 붙이기 시작했다. 스트리밍 1백만 회를 넘긴 극우 AI 래퍼 Danny Bones를 우리가 보도한 뒤다."
+        },
+        {
+          "t": "p",
+          "x": "이 스트리밍 대기업이 새 “AI Persona” 배지를 발표한 건 8월이다. 합성 아티스트가 왜 지어낸 정체성을 밝히지 않아도 되는지 우리가 회사에 질의한 지 엿새 뒤였다. 배지는 지난 몇 주에 걸쳐 차례로 붙었고, 지금 라벨이 눈에 띄게 붙은 아티스트 가운데 Bones도 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
+        },
+        {
+          "t": "p",
+          "x": "청취자가 Spotify에서 해당 아티스트를 이미 팔로하거나 접한 적이 없다면, AI 페르소나의 음악은 에디토리얼 추천과 개인화 추천에도 뜨지 않는다."
+        },
+        {
+          "t": "video",
+          "yt": "5hVInGPwQLs"
+        },
+        {
+          "t": "p",
+          "x": "음악 자체가 AI-generated인지는 배지로 알 수 없다. 아티스트는 AI 페르소나 라벨 없이도 AI-generated 보컬이나 반주, 다른 도구를 쓸 수 있고, AI 크레디트 시스템은 따로 있지만 일부 유통사와 아직 베타로 시험 중이다."
+        },
+        {
+          "t": "p",
+          "x": "Manchester에서 활동하는 아티스트 J.Chambers는 “Spotify가 AI-generated 아티스트 정체성이 심각한 문제를 낳는다는 점을 인정해 기쁘지만, 프로필에 라벨을 달거나 크레디트에 AI 정보를 넣는 것으로는 충분하지 않다고 본다”고 말했다."
+        }
+      ]
+    },
+    "music/music-musebench": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "생성형 AI는 이제 사람이 만든 곡과 거의 구별되지 않는 음악을 만든다. MUSEBENCH는 361K 곡이 넘는 트랙을 모은 대규모 벤치마크로, AI-generated 음악을 탐지하고 아티팩트를 분석하는 데 쓰인다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20310v1/Datasets.png",
+          "cap": "그림 1: MuseBench 개요."
+        },
+        {
+          "t": "p",
+          "x": "데이터셋에는 사람이 만든 곡과 Suno, Udio 등 최신 오픈소스·상용 모델 10종이 스타일을 맞춰 생성한 음악이 들어 있다. human-AI 공동 창작물과 적대적 교란·압축·음향 후처리를 거친 변형본도 담겼다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 자동 탐지기 11종을 기본·도메인 외·변형본 설정에 넣고 정확도와 일반화 성능, 견고성을 따졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20310v1/AI_2.png",
+          "cap": "AI가 만든 음악의 코드 진행."
+        },
+        {
+          "t": "p",
+          "x": "음향 특징을 들여다본 아티팩트 분석에서는 되풀이되는 흔적이 나왔다. 관습을 벗어난 화성 진행, 업샘플링이 남긴 스펙트럼 주기성, 실제 연주라면 물리적으로 낼 수 없는 대목 같은 것들이다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20310v1/guitar_roll.png",
+          "cap": "AI가 만든 기타 음표."
+        },
+        {
+          "t": "p",
+          "x": "연구는 기존 탐지기가 어디에 강하고 어디서 약한지 짚는다. 더 믿을 만한 AI 음악 탐지 시스템을 만들 때 참고할 실용적인 단서도 함께 내놓는다."
         }
       ]
     }

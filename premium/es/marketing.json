@@ -1227,6 +1227,125 @@
           "x": "Para los anunciantes, ninguno de estos mecanismos tiene un ajuste en Ads Manager; sus efectos llegan a través de Advantage+ y la entrega automatizada."
         }
       ]
+    },
+    "marketing/marketing-google-ai-mode-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png"
+        },
+        {
+          "t": "p",
+          "x": "Google empieza a probar anuncios en AI Mode dentro de Search para los usuarios que conectan sus apps mediante Personal Intelligence, con lo que revierte su enfoque anterior de mantener esa experiencia sin anuncios."
+        },
+        {
+          "t": "p",
+          "x": "La actualización implica que Google ahora puede usar información de las apps conectadas para personalizar anuncios, junto con los datos que ya usa para generar respuestas AI-powered. Los anuncios seguirán reflejando la consulta del usuario, el contexto de la respuesta AI-generated y sus intereses."
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Personal-intelligence-connecting-apps.png"
+        },
+        {
+          "t": "p",
+          "x": "Google asegura que las protecciones se mantienen: conectar apps es opcional, los anuncios no se basarán directamente en el contenido de Gmail o Google Photos, los anunciantes no pueden acceder a las apps conectadas y la información sensible no se usará para personalizar anuncios."
+        },
+        {
+          "t": "p",
+          "x": "Google no ha anunciado nuevos controles para anunciantes, opciones de segmentación ni un despliegue más amplio de esta prueba."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-measurement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI está desplegando varias actualizaciones en ChatGPT Ads, entre ellas alianzas de medición ampliadas, mejores informes de conversiones, resúmenes semanales de rendimiento y pruebas con formatos de anuncio más grandes y visuales."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas integraciones de medición incluyen Northbeam, DV Rockerbox e INCRMNTAL, junto con los socios de medición móvil Kochava, Tenjin y Airbridge. Una página de Conversions rediseñada en Ads Manager reúne la actividad de conversiones, las tendencias de eventos, el estado de optimización y las alertas de diagnóstico."
+        },
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-update-1026.png"
+        },
+        {
+          "t": "p",
+          "x": "Las pruebas incluyen tarjetas de anuncio más anchas e imágenes más grandes en escritorio, e imágenes a ancho completo en móvil, con las creatividades que ya tienen los anunciantes. Por separado, OpenAI prevé probar un formato de anuncio con varias imágenes durante la generación de imágenes, al principio con anunciantes seleccionados de U.S."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI no ha compartido resultados de rendimiento ni ha confirmado un calendario de despliegue más amplio para estos formatos."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-targeting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
+          "cap": "Imagen: Sipa USA via AP."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI permite a cualquiera insertar anuncios en las sesiones de los usuarios de ChatGPT y dirigirlos a grupos concretos de personas según su dirección de correo electrónico, su número de teléfono o un identificador único de su teléfono, según las propias pruebas de 404 Media sobre el ecosistema publicitario de ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "Aunque la segmentación publicitaria disponible en ChatGPT es una práctica más o menos estándar en la industria, los mil millones de usuarios activos mensuales del chatbot pueden no entender que, en algunos casos, se les dirige un anuncio específicamente por los datos personales que el anunciante ha subido a OpenAI. La segmentación de ChatGPT también es novedosa porque se basa en los prompts que los usuarios escriben en el chatbot, prompts que pueden creer privados pero que, como 404 Media ya ha mostrado, pueden ser revisados por personas. O, en este caso, usados para segmentar anuncios."
+        }
+      ]
+    },
+    "marketing/marketing-thrad-chat-ads-fund": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
+          "cap": "Thrad duplica a $1m el gasto en anuncios dentro del chat para apps de IA, representado como una moneda que cae en una burbuja de chat"
+        },
+        {
+          "t": "p",
+          "x": "Thrad, una empresa de San Francisco que coloca mensajes patrocinados dentro de conversaciones de chat con IA, abrió Monetization Fund II, un programa continuo que dirige hasta 1 millón de dólares de inversión de anunciantes, a través de su DSP, hacia apps de IA de consumo dispuestas a probar anuncios. No hay intercambio de participaciones ni se paga ninguna subvención en efectivo."
+        },
+        {
+          "t": "p",
+          "x": "Duplica la primera ronda de 500.000 dólares de diciembre de 2025. El anuncio no indica el reparto de ingresos, la asignación por app ni la duración del programa."
+        },
+        {
+          "t": "p",
+          "x": "\"Muchos usuarios simplemente no pagarán una suscripción\", dijo el CEO Andrea Tortella, en referencia a los costes en tokens detrás de cada interacción."
+        },
+        {
+          "t": "p",
+          "x": "Los anuncios se asocian al tema de la conversación y no a un perfil de usuario, y se muestran como ubicaciones patrocinadas nativas con una \"divulgación clara\" que los separa de las respuestas orgánicas de la IA."
+        }
+      ]
+    },
+    "marketing/marketing-meta-product-browsing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/meta-product-browsing-october-28-default-on-billboard-toggle-switch.jpg",
+          "cap": "Meta activa la exploración de productos en anuncios activos el 28 de octubre y cita un 3% más de conversiones; es posible excluirse"
+        },
+        {
+          "t": "p",
+          "x": "Meta notificó a los anunciantes que, a partir del 28 de octubre de 2026, añadirá la exploración de productos a los anuncios que ya se publican en Facebook e Instagram, salvo que se excluyan antes de esa fecha. Al tocar un anuncio, los usuarios podrían ver una experiencia dentro de la app con información del producto y sugerencias personalizadas, en lugar de ir directamente al sitio web del anunciante."
+        },
+        {
+          "t": "p",
+          "x": "Meta afirma que las empresas registraron de media un 3% más de conversiones, según un experimento realizado del 6–21 de agosto de 2026 con unos 117,700 anunciantes. El aviso no define la métrica de conversión, el grupo de comparación ni el coste por conversión."
+        },
+        {
+          "t": "p",
+          "x": "Los anunciantes pueden excluirse desde el aviso o activar y desactivar la función en la configuración Advantage+ Creative y Destination de cada anuncio. El comprador de medios David Herrmann, que la describió como una función de AI que convierte las creatividades en anuncios dinámicos de producto, criticó que llegue justo antes de la temporada de fiestas."
+        }
+      ]
     }
   }
 }

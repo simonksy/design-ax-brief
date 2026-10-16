@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-bee",
+      "id": "gadgets-heygemini",
       "source_lang": "en",
       "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "Amazon의 Bee\nAI 기기 2종 $75부터",
-      "body": "인수된 뒤 Bee가 처음 내놓은 웨어러블과 카드형 폰 녹음기가 대화를 요약한다.",
-      "mini_headline": "Bee, AI 기기 2종 출시",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "headline": "Android XR 안경에\nHey Gemini 온다",
+      "body": "Google이 Android XR에 Hey Gemini·카메라 호출을 준비한다.",
+      "mini_headline": "XR 안경용 Hey Gemini",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,233 +19,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-            "cap": "이미지 출처: Amazon"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+            "cap": "Xreal Aura"
           },
           {
             "t": "p",
-            "x": "개인용 AI 웨어러블 기업 Bee가 지난해 유통 대기업 Amazon에 인수된 뒤 첫 신제품을 내놓는다. 손목에 차거나 옷에 꽂는 Bee Frontier와, 스마트폰 뒷면에 자석으로 붙는 신용카드 크기의 Bee Eclipse다."
+            "x": "Google Assistant의 “Hey Google”과 “Ok Google”로 시작한 호출어가 이제 “Hey Gemini”로 넘어가는 모양이다. 최신 버전 Google 앱을 뜯어보니 Android XR 기기용 새 “Hey Gemini” 호출어를 가리키는 문자열이 나왔다."
           },
           {
             "t": "p",
-            "x": "Bee Frontier는 $74.99, Bee Eclipse는 $99.99다. $159인 Plaud Note나 $129인 Pocket보다 싸다."
+            "x": "문자열에 따르면 사용자는 “Hey Google”이나 “Hey Gemini”로 AI 비서를 부르고, “Ok Google”로 대화를 시작할 수 있다. “Hey Gemini” 호출어는 기본값이 꺼져 있어 “Wear Detection”을 켜야 쓸 수 있다. 이 옵션은 Glasses 환경설정에 있다."
           },
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-            "cap": "이미지 출처: Amazon"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+            "cap": "Xreal Aura"
           },
           {
             "t": "p",
-            "x": "기존 Bee처럼 두 기기도 AI로 일상 대화를 기록해 할 일, 요약, 인사이트로 정리한다. 친구와 잡은 약속을 캘린더 초대로 바꿔 주는 식이다."
+            "x": "사용자가 안경을 쓰고 있으면 Google은 Gemini 대화에서 안경 쪽을 우선해, 스마트폰과 안경이 한꺼번에 반응하지 않게 할 듯하다."
           },
           {
             "t": "p",
-            "x": "요약 기능과 14일 분량의 메모리는 무료다. 월 $11.99짜리 Bee Pro를 구독하면 요약이 무제한으로 풀리고 Amazon.com, Alexa+, 서드파티 앱과도 연동된다."
+            "x": "카메라 연동을 가리키는 문자열도 있다. Android XR 안경 사용자는 “What plant am I looking at?”(내가 보는 식물이 뭐지?) 같은 질문을 할 수 있다. Gemini는 카메라를 켜서 사용자가 보는 것을 ‘볼’ 수 있다. Google은 이 기능을 끌 수 있게 할 가능성이 크고, “turn on the camera”나 “turn off the camera”라고 말해 카메라를 제어할 수도 있다."
           },
           {
             "t": "p",
-            "x": "원본 오디오는 남기지 않는다. 실시간으로 처리하고 바로 지우며, 녹취록은 기기가 관리하는 키로 암호화한다. Frontier는 지금 Amazon에서 살 수 있고 Eclipse는 곧 뒤따라 나온다."
+            "x": "새 “Hey Gemini” 호출어가 스마트폰까지 올 가능성도 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Amazon’s Bee launches two\nAI devices from $75",
-          "body": "Bee’s first post-acquisition devices, a new wearable and a card-sized phone recorder, summarize conversations.",
-          "mini_headline": "Bee launches two AI devices",
+          "headline": "\"Hey Gemini\" is in the works\nfor Android XR glasses",
+          "body": "App strings show Google is working on a \"Hey Gemini\" hotword and camera activation for Android XR glasses.",
+          "mini_headline": "Hey Gemini for XR glasses",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-                "cap": "Image Credits: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Amazon’s personal AI wearable maker, Bee, is announcing its first new products since being acquired by the retail giant last year: the Bee Frontier, which can be worn on the wrist or pinned to clothes, and Bee Eclipse, a credit-card-sized device that magnetically attaches to the back of your smartphone."
+                "x": "What started off with “Hey Google” and “Ok Google” for Google Assistant now looks like it is heading toward “Hey Gemini.” Digging through the latest version of the Google app, we found strings pointing toward a new “Hey Gemini” hotword for Android XR devices."
               },
               {
                 "t": "p",
-                "x": "The Bee Frontier is $74.99 and the Bee Eclipse is $99.99 — cheaper than the $159 Plaud Note or the $129 Pocket."
+                "x": "The strings suggest users will be able to say either “Hey Google” or “Hey Gemini” to activate their AI assistant, and “Ok Google” to start a conversation. The “Hey Gemini” hotword won’t be enabled by default and will require “Wear Detection” to be turned on; the option will sit within the Glasses preferences."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-                "cap": "Image Credits: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Like the original Bee, the devices use AI to take notes from everyday conversations and turn them into to-dos, summaries, and insights — for example, creating a calendar invite for plans you made with friends."
+                "x": "It also seems Google will prioritize your glasses for conversations with Gemini while you’re wearing them, so your smartphone and glasses don’t both activate."
               },
               {
                 "t": "p",
-                "x": "Summaries and 14 days of memory are free; an $11.99 per month Bee Pro subscription adds unlimited summaries and integrations with Amazon.com, Alexa+, and third-party apps."
+                "x": "We also found strings pointing to a camera integration. Android XR glasses will let users ask things like “What plant am I looking at?” Gemini will be able to turn on the camera and “see” what you’re looking at. Google will likely let you turn this off, and you may still use the camera by saying “turn on the camera” or “turn off the camera.”"
               },
               {
                 "t": "p",
-                "x": "Raw audio isn’t stored: it is processed in real time and deleted, and transcripts are encrypted with keys the device controls. The Frontier is available now on Amazon; the Eclipse follows soon after."
+                "x": "The new “Hey Gemini” hotword could also make its way to smartphones."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Amazon의 Bee\nAI 기기 2종 $75부터",
-          "body": "인수된 뒤 Bee가 처음 내놓은 웨어러블과 카드형 폰 녹음기가 대화를 요약한다.",
-          "mini_headline": "Bee, AI 기기 2종 출시",
+          "headline": "Android XR 안경에\nHey Gemini 온다",
+          "body": "Google이 Android XR에 Hey Gemini·카메라 호출을 준비한다.",
+          "mini_headline": "XR 안경용 Hey Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-                "cap": "이미지 출처: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "개인용 AI 웨어러블 기업 Bee가 지난해 유통 대기업 Amazon에 인수된 뒤 첫 신제품을 내놓는다. 손목에 차거나 옷에 꽂는 Bee Frontier와, 스마트폰 뒷면에 자석으로 붙는 신용카드 크기의 Bee Eclipse다."
+                "x": "Google Assistant의 “Hey Google”과 “Ok Google”로 시작한 호출어가 이제 “Hey Gemini”로 넘어가는 모양이다. 최신 버전 Google 앱을 뜯어보니 Android XR 기기용 새 “Hey Gemini” 호출어를 가리키는 문자열이 나왔다."
               },
               {
                 "t": "p",
-                "x": "Bee Frontier는 $74.99, Bee Eclipse는 $99.99다. $159인 Plaud Note나 $129인 Pocket보다 싸다."
+                "x": "문자열에 따르면 사용자는 “Hey Google”이나 “Hey Gemini”로 AI 비서를 부르고, “Ok Google”로 대화를 시작할 수 있다. “Hey Gemini” 호출어는 기본값이 꺼져 있어 “Wear Detection”을 켜야 쓸 수 있다. 이 옵션은 Glasses 환경설정에 있다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-                "cap": "이미지 출처: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "기존 Bee처럼 두 기기도 AI로 일상 대화를 기록해 할 일, 요약, 인사이트로 정리한다. 친구와 잡은 약속을 캘린더 초대로 바꿔 주는 식이다."
+                "x": "사용자가 안경을 쓰고 있으면 Google은 Gemini 대화에서 안경 쪽을 우선해, 스마트폰과 안경이 한꺼번에 반응하지 않게 할 듯하다."
               },
               {
                 "t": "p",
-                "x": "요약 기능과 14일 분량의 메모리는 무료다. 월 $11.99짜리 Bee Pro를 구독하면 요약이 무제한으로 풀리고 Amazon.com, Alexa+, 서드파티 앱과도 연동된다."
+                "x": "카메라 연동을 가리키는 문자열도 있다. Android XR 안경 사용자는 “What plant am I looking at?”(내가 보는 식물이 뭐지?) 같은 질문을 할 수 있다. Gemini는 카메라를 켜서 사용자가 보는 것을 ‘볼’ 수 있다. Google은 이 기능을 끌 수 있게 할 가능성이 크고, “turn on the camera”나 “turn off the camera”라고 말해 카메라를 제어할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "원본 오디오는 남기지 않는다. 실시간으로 처리하고 바로 지우며, 녹취록은 기기가 관리하는 키로 암호화한다. Frontier는 지금 Amazon에서 살 수 있고 Eclipse는 곧 뒤따라 나온다."
+                "x": "새 “Hey Gemini” 호출어가 스마트폰까지 올 가능성도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonのBee、\nAI機器2種を$75から",
-          "body": "買収後初となるBeeの新端末は、ウェアラブルとカード型のスマホ用録音機で、会話を要約する。",
-          "mini_headline": "BeeがAIデバイス2機種を発表",
+          "headline": "Android XR眼鏡に\nHey Geminiが来る",
+          "body": "GoogleがAndroid XR眼鏡向けにHey Geminiとカメラ起動を開発中だ。",
+          "mini_headline": "XR眼鏡にHey Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-                "cap": "画像提供：Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Amazon傘下の個人向けAIウェアラブルメーカーBeeが、昨年この小売大手に買収されてから初の新製品を発表する。手首に着けたり服に留めたりできるBee Frontierと、スマートフォンの背面に磁石で装着するクレジットカードサイズのBee Eclipseだ。"
+                "x": "Google Assistantの「Hey Google」「Ok Google」から始まった呼びかけ語は、いま「Hey Gemini」へ向かっているようだ。Googleアプリの最新版を解析したところ、Android XRデバイス向けの新しいホットワード「Hey Gemini」を示す文字列が見つかった。"
               },
               {
                 "t": "p",
-                "x": "Bee Frontierは$74.99、Bee Eclipseは$99.99で、$159のPlaud Noteや$129のPocketより安い。"
+                "x": "文字列によると、ユーザーは「Hey Google」または「Hey Gemini」でAIアシスタントを起動し、「Ok Google」で会話を始められる。「Hey Gemini」はデフォルトでは無効で、「Wear Detection」をオンにする必要がある。この設定はGlassesの設定項目内に置かれる。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-                "cap": "画像提供：Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "初代Beeと同様、両機はAIで日常の会話からメモを取り、やることリスト、要約、インサイトにまとめる。たとえば友人と立てた予定からカレンダーの招待を作成する。"
+                "x": "Googleは装着中のGeminiとの会話で眼鏡を優先し、スマートフォンと眼鏡が同時に反応しないようにするとみられる。"
               },
               {
                 "t": "p",
-                "x": "要約と14日分のメモリーは無料だ。月額$11.99のBee Proサブスクリプションでは要約が無制限になり、Amazon.com、Alexa+、サードパーティー製アプリとの連携が加わる。"
+                "x": "カメラ連携を示す文字列も見つかった。Android XR眼鏡では「What plant am I looking at?」(私が見ている植物は何?)のように尋ねられる。Geminiはカメラをオンにして、ユーザーが見ているものを「見る」ことができる。Googleはこの機能をオフにできるようにする可能性が高く、「turn on the camera」「turn off the camera」と話してカメラを使うこともできそうだ。"
               },
               {
                 "t": "p",
-                "x": "生の音声は保存されない。リアルタイムで処理した後に削除し、文字起こしはデバイスが管理する鍵で暗号化する。Frontierは現在Amazonで購入でき、Eclipseも間もなく続く。"
+                "x": "新しいホットワード「Hey Gemini」はスマートフォンにも広がる可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon旗下Bee\n推出两款AI设备$75起",
-          "body": "Bee被收购后的首批设备包括一款新可穿戴设备和一款卡片大小的手机录音器，可总结对话。",
-          "mini_headline": "Bee推出两款AI设备",
+          "headline": "Android XR眼镜\n将支持Hey Gemini",
+          "body": "Google正为Android XR眼镜开发Hey Gemini唤醒词和相机启动功能。",
+          "mini_headline": "XR眼镜迎来Hey Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-                "cap": "图片来源：Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Amazon旗下的个人AI可穿戴设备制造商Bee发布了自去年被这家零售巨头收购以来的首批新品：可戴在手腕上或别在衣服上的Bee Frontier，以及可通过磁吸贴在智能手机背面、信用卡大小的Bee Eclipse。"
+                "x": "从Google Assistant的“Hey Google”和“Ok Google”起步的唤醒词，如今似乎正走向“Hey Gemini”。我们拆解最新版Google应用后，发现了指向Android XR设备新唤醒词“Hey Gemini”的字符串。"
               },
               {
                 "t": "p",
-                "x": "Bee Frontier售价$74.99，Bee Eclipse售价$99.99，比$159的Plaud Note或$129的Pocket更便宜。"
+                "x": "字符串显示，用户可以说“Hey Google”或“Hey Gemini”来唤起AI助手，并说“Ok Google”开始对话。“Hey Gemini”唤醒词默认不开启，需要打开“Wear Detection”；该选项位于Glasses偏好设置中。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-                "cap": "图片来源：Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "与初代Bee一样，这两款设备利用AI记录日常对话，并将其整理为待办事项、摘要和洞察，例如为你与朋友约定的计划创建日历邀请。"
+                "x": "Google似乎还会在你佩戴眼镜时优先让眼镜与Gemini对话，避免手机和眼镜同时被唤醒。"
               },
               {
                 "t": "p",
-                "x": "摘要功能和14天记忆免费；每月$11.99的Bee Pro订阅可提供无限摘要，并支持与Amazon.com、Alexa+及第三方应用集成。"
+                "x": "我们还发现了指向相机集成的字符串。Android XR眼镜用户可以问“What plant am I looking at?”（我看到的是什么植物？）之类的问题。Gemini能够打开相机，“看到”你正在看的东西。Google很可能允许关闭这一功能，你也仍可以说“turn on the camera”或“turn off the camera”来使用相机。"
               },
               {
                 "t": "p",
-                "x": "原始音频不会被存储：音频实时处理后即被删除，转录文本则用设备掌控的密钥加密。Frontier现已在Amazon上市，Eclipse随后不久推出。"
+                "x": "新的“Hey Gemini”唤醒词也可能登陆智能手机。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bee, de Amazon, lanza dos\ndispositivos AI desde $75",
-          "body": "Bee estrena tras su compra un wearable y una grabadora tipo tarjeta para el móvil que resumen conversaciones.",
-          "mini_headline": "Bee lanza dos dispositivos AI",
+          "headline": "Google prepara \"Hey Gemini\"\npara las gafas Android XR",
+          "body": "Cadenas de la app revelan que Google prepara el comando \"Hey Gemini\" y la activación de cámara para gafas Android XR.",
+          "mini_headline": "Hey Gemini para gafas XR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-                "cap": "Imagen: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Bee, el fabricante de wearables personales con AI de Amazon, anuncia sus primeros productos nuevos desde que el gigante minorista lo adquirió el año pasado: el Bee Frontier, que se puede llevar en la muñeca o prender en la ropa, y el Bee Eclipse, un dispositivo del tamaño de una tarjeta de crédito que se fija con imanes a la parte trasera del smartphone."
+                "x": "Lo que empezó con “Hey Google” y “Ok Google” para Google Assistant ahora parece encaminarse hacia “Hey Gemini”. Al revisar la última versión de la app de Google, encontramos cadenas que apuntan a una nueva palabra de activación “Hey Gemini” para dispositivos Android XR."
               },
               {
                 "t": "p",
-                "x": "El Bee Frontier cuesta $74.99 y el Bee Eclipse, $99.99: menos que el Plaud Note, de $159, o el Pocket, de $129."
+                "x": "Las cadenas sugieren que los usuarios podrán decir “Hey Google” o “Hey Gemini” para activar su asistente de AI, y “Ok Google” para iniciar una conversación. La palabra de activación “Hey Gemini” no estará activada por defecto y requerirá encender “Wear Detection”; la opción estará dentro de las preferencias de Glasses."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-                "cap": "Imagen: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Como el Bee original, los dispositivos usan AI para tomar notas de las conversaciones cotidianas y convertirlas en tareas, resúmenes e ideas; por ejemplo, crean una invitación de calendario para los planes que hiciste con amigos."
+                "x": "También parece que Google dará prioridad a las gafas en las conversaciones con Gemini mientras las llevas puestas, para que el smartphone y las gafas no se activen a la vez."
               },
               {
                 "t": "p",
-                "x": "Los resúmenes y 14 días de memoria son gratuitos; una suscripción a Bee Pro de $11.99 al mes añade resúmenes ilimitados e integraciones con Amazon.com, Alexa+ y apps de terceros."
+                "x": "También encontramos cadenas que apuntan a una integración con la cámara. Las gafas Android XR permitirán preguntar cosas como “What plant am I looking at?” (¿qué planta estoy mirando?). Gemini podrá encender la cámara y “ver” lo que estás mirando. Es probable que Google permita desactivar esta función, y aun así podrías usar la cámara diciendo “turn on the camera” o “turn off the camera”."
               },
               {
                 "t": "p",
-                "x": "El audio sin procesar no se almacena: se procesa en tiempo real y se elimina, y las transcripciones se cifran con claves que controla el dispositivo. El Frontier ya está disponible en Amazon; el Eclipse llegará poco después."
+                "x": "La nueva palabra de activación “Hey Gemini” también podría llegar a los smartphones."
               }
             ]
           }
@@ -253,161 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Amazon의 Bee\nAI 기기 2종 $75부터",
-          "body": "인수 후 Bee가 처음 내놓은 웨어러블과 카드형 폰 녹음기는 대화를 요약한다.",
-          "mini_headline": "Bee, AI 기기 2종 출시",
+          "headline": "Android XR 안경에\nHey Gemini 온다",
+          "body": "Google이 Android XR에 Hey Gemini·카메라 호출을 준비한다.",
+          "mini_headline": "XR 안경용 Hey Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-                "cap": "이미지 출처: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Amazon 산하의 개인용 AI 웨어러블 기업 Bee가 지난해 이 유통 대기업에 인수된 뒤 처음으로 신제품을 발표한다. 손목에 차거나 옷에 고정할 수 있는 Bee Frontier, 그리고 스마트폰 뒷면에 자석으로 붙는 신용카드 크기의 Bee Eclipse다."
+                "x": "Google Assistant의 “Hey Google”과 “Ok Google”로 시작한 호출어가 이제 “Hey Gemini”로 향하는 듯하다. 최신 버전 Google 앱을 분석한 결과, Android XR 기기용 새 “Hey Gemini” 호출어를 가리키는 문자열이 발견됐다."
               },
               {
                 "t": "p",
-                "x": "Bee Frontier는 $74.99, Bee Eclipse는 $99.99로 $159인 Plaud Note나 $129인 Pocket보다 저렴하다."
+                "x": "문자열에 따르면 사용자는 “Hey Google”이나 “Hey Gemini”로 AI 비서를 부르고, “Ok Google”로 대화를 시작할 수 있다. “Hey Gemini” 호출어는 기본으로 켜져 있지 않으며 “Wear Detection”을 켜야 쓸 수 있다. 이 옵션은 Glasses 환경설정 안에 들어간다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-                "cap": "이미지 출처: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "기존 Bee처럼 두 기기도 AI로 일상 대화를 기록해 할 일, 요약, 인사이트로 정리한다. 예를 들어 친구와 잡은 약속을 캘린더 초대로 만들어 준다."
+                "x": "Google은 사용자가 안경을 쓰고 있을 때 Gemini와의 대화에서 안경을 우선시해, 스마트폰과 안경이 동시에 반응하지 않게 할 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "요약 기능과 14일 분량의 메모리는 무료다. 월 $11.99의 Bee Pro 구독을 하면 요약이 무제한이 되고 Amazon.com, Alexa+, 서드파티 앱과 연동된다."
+                "x": "카메라 연동을 가리키는 문자열도 있다. Android XR 안경 사용자는 “What plant am I looking at?”(내가 보는 식물이 뭐지?) 같은 질문을 할 수 있다. Gemini가 카메라를 켜고 사용자가 보는 것을 ‘볼’ 수 있다. Google은 이 기능을 끌 수 있게 할 가능성이 크며, “turn on the camera”나 “turn off the camera”라고 말해 카메라를 쓸 수도 있다."
               },
               {
                 "t": "p",
-                "x": "원본 오디오는 저장하지 않는다. 실시간으로 처리한 뒤 삭제하고, 녹취록은 기기가 관리하는 키로 암호화한다. Frontier는 지금 Amazon에서 살 수 있고, Eclipse는 곧 뒤이어 나온다."
+                "x": "새 “Hey Gemini” 호출어는 스마트폰에도 들어올 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AmazonのBee、\nAI機器2種を$75から",
-          "body": "買収後初となるBeeの新端末は、ウェアラブルとカード型のスマホ用録音機で、会話を要約する。",
-          "mini_headline": "BeeがAIデバイス2機種を発表",
+          "headline": "Android XR眼鏡に\nHey Geminiが来る",
+          "body": "GoogleがAndroid XR眼鏡向けにHey Geminiとカメラ起動を開発中だ。",
+          "mini_headline": "XR眼鏡にHey Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-                "cap": "画像提供：Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Amazon傘下の個人向けAIウェアラブルメーカーBeeが、昨年この小売大手に買収されてから初の新製品を発表する。手首に着けたり服に留めたりできるBee Frontierと、スマートフォンの背面に磁石で装着するクレジットカードサイズのBee Eclipseだ。"
+                "x": "Google Assistantの「Hey Google」「Ok Google」から始まった呼びかけ語は、いま「Hey Gemini」へ向かっているようだ。Googleアプリの最新版を解析したところ、Android XRデバイス向けの新しいホットワード「Hey Gemini」を示す文字列が見つかった。"
               },
               {
                 "t": "p",
-                "x": "Bee Frontierは$74.99、Bee Eclipseは$99.99で、$159のPlaud Noteや$129のPocketより安い。"
+                "x": "文字列によると、ユーザーは「Hey Google」または「Hey Gemini」でAIアシスタントを起動し、「Ok Google」で会話を始められる。「Hey Gemini」はデフォルトでは無効で、「Wear Detection」をオンにする必要がある。この設定はGlassesの設定項目内に置かれる。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-                "cap": "画像提供：Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "初代Beeと同様、両機はAIで日常の会話からメモを取り、やることリスト、要約、インサイトにまとめる。たとえば友人と立てた予定からカレンダーの招待を作成する。"
+                "x": "Googleは装着中のGeminiとの会話で眼鏡を優先し、スマートフォンと眼鏡が同時に反応しないようにするとみられる。"
               },
               {
                 "t": "p",
-                "x": "要約と14日分のメモリーは無料だ。月額$11.99のBee Proサブスクリプションでは要約が無制限になり、Amazon.com、Alexa+、サードパーティー製アプリとの連携が加わる。"
+                "x": "カメラ連携を示す文字列も見つかった。Android XR眼鏡では「What plant am I looking at?」(私が見ている植物は何?)のように尋ねられる。Geminiはカメラをオンにして、ユーザーが見ているものを「見る」ことができる。Googleはこの機能をオフにできるようにする可能性が高く、「turn on the camera」「turn off the camera」と話してカメラを使うこともできそうだ。"
               },
               {
                 "t": "p",
-                "x": "生の音声は保存されない。リアルタイムで処理した後に削除し、文字起こしはデバイスが管理する鍵で暗号化する。Frontierは現在Amazonで購入でき、Eclipseも間もなく続く。"
+                "x": "新しいホットワード「Hey Gemini」はスマートフォンにも広がる可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon旗下Bee\n推出两款AI设备$75起",
-          "body": "Bee被收购后的首批设备包括一款新可穿戴设备和一款卡片大小的手机录音器，可总结对话。",
-          "mini_headline": "Bee推出两款AI设备",
+          "headline": "Android XR眼镜\n将支持Hey Gemini",
+          "body": "Google正为Android XR眼镜开发Hey Gemini唤醒词和相机启动功能。",
+          "mini_headline": "XR眼镜迎来Hey Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-                "cap": "图片来源：Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Amazon旗下的个人AI可穿戴设备制造商Bee发布了自去年被这家零售巨头收购以来的首批新品：可戴在手腕上或别在衣服上的Bee Frontier，以及可通过磁吸贴在智能手机背面、信用卡大小的Bee Eclipse。"
+                "x": "从Google Assistant的“Hey Google”和“Ok Google”起步的唤醒词，如今似乎正走向“Hey Gemini”。我们拆解最新版Google应用后，发现了指向Android XR设备新唤醒词“Hey Gemini”的字符串。"
               },
               {
                 "t": "p",
-                "x": "Bee Frontier售价$74.99，Bee Eclipse售价$99.99，比$159的Plaud Note或$129的Pocket更便宜。"
+                "x": "字符串显示，用户可以说“Hey Google”或“Hey Gemini”来唤起AI助手，并说“Ok Google”开始对话。“Hey Gemini”唤醒词默认不开启，需要打开“Wear Detection”；该选项位于Glasses偏好设置中。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-                "cap": "图片来源：Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "与初代Bee一样，这两款设备利用AI记录日常对话，并将其整理为待办事项、摘要和洞察，例如为你与朋友约定的计划创建日历邀请。"
+                "x": "Google似乎还会在你佩戴眼镜时优先让眼镜与Gemini对话，避免手机和眼镜同时被唤醒。"
               },
               {
                 "t": "p",
-                "x": "摘要功能和14天记忆免费；每月$11.99的Bee Pro订阅可提供无限摘要，并支持与Amazon.com、Alexa+及第三方应用集成。"
+                "x": "我们还发现了指向相机集成的字符串。Android XR眼镜用户可以问“What plant am I looking at?”（我看到的是什么植物？）之类的问题。Gemini能够打开相机，“看到”你正在看的东西。Google很可能允许关闭这一功能，你也仍可以说“turn on the camera”或“turn off the camera”来使用相机。"
               },
               {
                 "t": "p",
-                "x": "原始音频不会被存储：音频实时处理后即被删除，转录文本则用设备掌控的密钥加密。Frontier现已在Amazon上市，Eclipse随后不久推出。"
+                "x": "新的“Hey Gemini”唤醒词也可能登陆智能手机。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bee, de Amazon, lanza dos\ndispositivos AI desde $75",
-          "body": "Bee estrena tras su compra un wearable y una grabadora tipo tarjeta para el móvil que resumen conversaciones.",
-          "mini_headline": "Bee lanza dos dispositivos AI",
+          "headline": "Google prepara \"Hey Gemini\"\npara las gafas Android XR",
+          "body": "Cadenas de la app revelan que Google prepara el comando \"Hey Gemini\" y la activación de cámara para gafas Android XR.",
+          "mini_headline": "Hey Gemini para gafas XR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-                "cap": "Imagen: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Bee, el fabricante de wearables personales con AI de Amazon, anuncia sus primeros productos nuevos desde que el gigante minorista lo adquirió el año pasado: el Bee Frontier, que se puede llevar en la muñeca o prender en la ropa, y el Bee Eclipse, un dispositivo del tamaño de una tarjeta de crédito que se fija con imanes a la parte trasera del smartphone."
+                "x": "Lo que empezó con “Hey Google” y “Ok Google” para Google Assistant ahora parece encaminarse hacia “Hey Gemini”. Al revisar la última versión de la app de Google, encontramos cadenas que apuntan a una nueva palabra de activación “Hey Gemini” para dispositivos Android XR."
               },
               {
                 "t": "p",
-                "x": "El Bee Frontier cuesta $74.99 y el Bee Eclipse, $99.99: menos que el Plaud Note, de $159, o el Pocket, de $129."
+                "x": "Las cadenas sugieren que los usuarios podrán decir “Hey Google” o “Hey Gemini” para activar su asistente de AI, y “Ok Google” para iniciar una conversación. La palabra de activación “Hey Gemini” no estará activada por defecto y requerirá encender “Wear Detection”; la opción estará dentro de las preferencias de Glasses."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_COMBO_01_1600x900.jpg?w=680",
-                "cap": "Imagen: Amazon"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+                "cap": "Xreal Aura"
               },
               {
                 "t": "p",
-                "x": "Como el Bee original, los dispositivos usan AI para tomar notas de las conversaciones cotidianas y convertirlas en tareas, resúmenes e ideas; por ejemplo, crean una invitación de calendario para los planes que hiciste con amigos."
+                "x": "También parece que Google dará prioridad a las gafas en las conversaciones con Gemini mientras las llevas puestas, para que el smartphone y las gafas no se activen a la vez."
               },
               {
                 "t": "p",
-                "x": "Los resúmenes y 14 días de memoria son gratuitos; una suscripción a Bee Pro de $11.99 al mes añade resúmenes ilimitados e integraciones con Amazon.com, Alexa+ y apps de terceros."
+                "x": "También encontramos cadenas que apuntan a una integración con la cámara. Las gafas Android XR permitirán preguntar cosas como “What plant am I looking at?” (¿qué planta estoy mirando?). Gemini podrá encender la cámara y “ver” lo que estás mirando. Es probable que Google permita desactivar esta función, y aun así podrías usar la cámara diciendo “turn on the camera” o “turn off the camera”."
               },
               {
                 "t": "p",
-                "x": "El audio sin procesar no se almacena: se procesa en tiempo real y se elimina, y las transcripciones se cifran con claves que controla el dispositivo. El Frontier ya está disponible en Amazon; el Eclipse llegará poco después."
+                "x": "La nueva palabra de activación “Hey Gemini” también podría llegar a los smartphones."
               }
             ]
           }
@@ -415,15 +415,15 @@
       }
     },
     {
-      "id": "gadgets-muse-spark-open",
+      "id": "gadgets-brera",
       "source_lang": "en",
       "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "Muse Spark 모델,\nMac Studios 2대",
-      "body": "Muse Spark Open은 512GB Mac Studios 2대면 돌아간다.",
-      "mini_headline": "Meta Muse Spark Open, Mac Studio에서 구동",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/15/meta-muse-spark-open-mac-studio/",
+      "headline": "Meta AI 안경이 연\n밀라노 Brera 예술",
+      "body": "Meta·EssilorLuxottica·Brera가 AI 안경 예술 시범을 연다.",
+      "mini_headline": "Brera의 AI 안경",
+      "source": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -431,197 +431,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+            "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+          },
+          {
+            "t": "video",
+            "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
           },
           {
             "t": "p",
-            "x": "Meta가 오늘 Muse Spark Open을 공개하며 “현재까지 가장 뛰어난 U.S. 오픈 웨이트 모델”이라고 소개했다."
+            "x": "Meta와 Pinacoteca di Brera, EssilorLuxottica가 “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”(눈에 보이는 것 너머의 걸작을 발견하다)를 시작했다. AI 안경으로 시각장애인과 저시력자가 예술을 더 쉽게 누릴 방법을 찾는 시범사업이며, ANS, UICI, Fondazione Istituto dei Ciechi di Milano가 함께한다."
           },
           {
             "t": "p",
-            "x": "Meta는 Apple과 손잡고 Muse Spark Open을 Mac에 들여왔다. 최신 MLX 프레임워크를 돌리는 512GB Apple M5 Ultra Mac Studios 두 대만 있으면 데스크톱에서 이 모델을 실행할 수 있다."
+            "x": "이탈리아에는 시각장애인이나 시각 손상을 겪는 사람이 백만 명 넘게 있다. AI 안경은 미술관의 Grande Brera 앱과 연동된다. 앱에 담긴 오디오 투어 가이드는 ANS가 DescriVedendo 방식으로 만들었고, 작품의 형태와 구도, 시각적 세부를 말로 풀어 준다."
           },
           {
             "t": "p",
-            "x": "Muse Spark Open은 전체 파라미터 8160억 개, 활성 파라미터 420억 개에 100만 토큰 컨텍스트 창을 갖췄다. 코딩과 에이전트 작업용 모델이다."
+            "x": "선정된 작품 여덟 점 중 하나 앞에 서면 관람객은 안경에서 작품 인식을 켜고 안경테의 오픈형 스피커로 음성 해설을 들을 수 있다. Meta AI는 주변 환경에 관한 질문에 답하고, Be My Eyes는 관람객을 비장애인 자원봉사자와 상담원에게 연결해 준다."
           },
           {
             "t": "p",
-            "x": "Meta 설명으로는 M5 Ultra의 통합 GPU가 Mac Studio 한 대당 최대 512 GB를 쓸 수 있어 두 대면 모델 전체가 들어간다. 1.2 TB/s의 메모리 대역폭도 토큰마다 필요한 작은 부분을 읽어 들이기에 충분히 빠르다."
-          },
-          {
-            "t": "p",
-            "x": "512GB Mac Studio는 아직 출시 전이지만 Apple이 이달 중 내놓을 예정이다. 모델은 무료로 내려받을 수 있고, 라이선스는 상업적 이용을 제한적으로 허용한다."
+            "x": "시범사업은 시각장애인·저시력자와 함께 테스트하고 자문을 받아 만들었다. 투어는 예약제이고, AI 안경은 화요일부터 금요일까지 10:00 AM부터 4:30 PM까지 이용할 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta’s open Muse Spark model\nruns on two Mac Studios",
-          "body": "Meta worked with Apple so its open-weight Muse Spark Open model runs on two 512GB M5 Ultra Mac Studios using MLX.",
-          "mini_headline": "Muse Spark Open on Mac Studio",
+          "headline": "Meta AI glasses open\nart at Milan's Brera",
+          "body": "Brera, Meta and EssilorLuxottica launch \"Sensing Art,\" a pilot using AI glasses to expand access to art.",
+          "mini_headline": "AI glasses at Brera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+              },
+              {
+                "t": "video",
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
               },
               {
                 "t": "p",
-                "x": "Meta today announced the release of Muse Spark Open, which it says is the \"most capable U.S. open-weight model to date.\""
+                "x": "Meta, Pinacoteca di Brera and EssilorLuxottica have launched “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye,” a pilot exploring how AI glasses can make art more accessible for people who are blind or with low vision, in collaboration with ANS, UICI and the Fondazione Istituto dei Ciechi di Milano."
               },
               {
                 "t": "p",
-                "x": "Meta worked with Apple to bring Muse Spark Open to the Mac, and the model can run on a desktop setup with two 512GB Apple M5 Ultra Mac Studios running the latest MLX framework."
+                "x": "Over one million people in Italy are blind or visually impaired. The AI glasses have been integrated with the museum’s Grande Brera app, which includes an audio tour guide developed by ANS using the DescriVedendo method, translating an artwork’s shapes, composition and visual details into spoken words."
               },
               {
                 "t": "p",
-                "x": "Muse Spark Open has 816 billion total parameters with 42 billion active parameters and a 1 million-token context window. It is meant for coding and agentic work."
+                "x": "In front of one of eight selected artworks, visitors can activate artwork recognition from the glasses and hear the audio description through the open-ear speakers in the frames. Meta AI answers questions about the surroundings, and Be My Eyes connects visitors with sighted volunteers and operators."
               },
               {
                 "t": "p",
-                "x": "Per Meta, the M5 Ultra’s integrated GPU can use up to 512 GB per Mac Studio, so two machines can hold an entire model, and 1.2 TB/s of memory bandwidth is fast enough to read the small slice each token needs."
-              },
-              {
-                "t": "p",
-                "x": "Apple hasn't released the 512GB Mac Studio yet, but it's supposed to be coming later this month. The model is free to download, with a license allowing limited commercial use."
+                "x": "The pilot was developed through testing and consultation with blind and visually impaired people. The tour is available upon reservation, with AI glasses available Tuesday through Friday from 10:00 AM to 4:30 PM."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Muse Spark 모델,\nMac Studios 2대",
-          "body": "Muse Spark Open은 512GB Mac Studios 2대면 돌아간다.",
-          "mini_headline": "Meta Muse Spark Open, Mac Studio에서 구동",
+          "headline": "Meta AI 안경이 연\n밀라노 Brera 예술",
+          "body": "Meta·EssilorLuxottica·Brera가 AI 안경 예술 시범을 연다.",
+          "mini_headline": "Brera의 AI 안경",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+              },
+              {
+                "t": "video",
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
               },
               {
                 "t": "p",
-                "x": "Meta가 오늘 Muse Spark Open을 공개하며 “현재까지 가장 뛰어난 U.S. 오픈 웨이트 모델”이라고 소개했다."
+                "x": "Meta와 Pinacoteca di Brera, EssilorLuxottica가 “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”(눈에 보이는 것 너머의 걸작을 발견하다)를 시작했다. AI 안경으로 시각장애인과 저시력자가 예술을 더 쉽게 누릴 방법을 찾는 시범사업이며, ANS, UICI, Fondazione Istituto dei Ciechi di Milano가 함께한다."
               },
               {
                 "t": "p",
-                "x": "Meta는 Apple과 손잡고 Muse Spark Open을 Mac에 들여왔다. 최신 MLX 프레임워크를 돌리는 512GB Apple M5 Ultra Mac Studios 두 대만 있으면 데스크톱에서 이 모델을 실행할 수 있다."
+                "x": "이탈리아에는 시각장애인이나 시각 손상을 겪는 사람이 백만 명 넘게 있다. AI 안경은 미술관의 Grande Brera 앱과 연동된다. 앱에 담긴 오디오 투어 가이드는 ANS가 DescriVedendo 방식으로 만들었고, 작품의 형태와 구도, 시각적 세부를 말로 풀어 준다."
               },
               {
                 "t": "p",
-                "x": "Muse Spark Open은 전체 파라미터 8160억 개, 활성 파라미터 420억 개에 100만 토큰 컨텍스트 창을 갖췄다. 코딩과 에이전트 작업용 모델이다."
+                "x": "선정된 작품 여덟 점 중 하나 앞에 서면 관람객은 안경에서 작품 인식을 켜고 안경테의 오픈형 스피커로 음성 해설을 들을 수 있다. Meta AI는 주변 환경에 관한 질문에 답하고, Be My Eyes는 관람객을 비장애인 자원봉사자와 상담원에게 연결해 준다."
               },
               {
                 "t": "p",
-                "x": "Meta 설명으로는 M5 Ultra의 통합 GPU가 Mac Studio 한 대당 최대 512 GB를 쓸 수 있어 두 대면 모델 전체가 들어간다. 1.2 TB/s의 메모리 대역폭도 토큰마다 필요한 작은 부분을 읽어 들이기에 충분히 빠르다."
-              },
-              {
-                "t": "p",
-                "x": "512GB Mac Studio는 아직 출시 전이지만 Apple이 이달 중 내놓을 예정이다. 모델은 무료로 내려받을 수 있고, 라이선스는 상업적 이용을 제한적으로 허용한다."
+                "x": "시범사업은 시각장애인·저시력자와 함께 테스트하고 자문을 받아 만들었다. 투어는 예약제이고, AI 안경은 화요일부터 금요일까지 10:00 AM부터 4:30 PM까지 이용할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Muse Sparkが\nMac Studios2台で",
-          "body": "MetaのMuse Spark Openは、512GBのMac Studios2台で動く。",
-          "mini_headline": "Muse Spark OpenがMac Studioで動作",
+          "headline": "Meta AI眼鏡が開く\nミラノBreraの芸術",
+          "body": "Brera、Meta、EssilorLuxotticaがAI眼鏡の美術鑑賞試験を始めた。",
+          "mini_headline": "BreraのAI眼鏡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+              },
+              {
+                "t": "video",
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
               },
               {
                 "t": "p",
-                "x": "Metaは本日、Muse Spark Openのリリースを発表した。同社はこれを「これまでで最も高性能なU.S.のオープンウェイトモデル」としている。"
+                "x": "Meta、Pinacoteca di Brera、EssilorLuxotticaは「Sensing Art – Discovering Masterpieces Beyond What Meets the Eye」(目に見えるものの先にある名作を発見する)を開始した。AI眼鏡が視覚障害や弱視の人々にとって芸術をより身近にできるかを探る試験事業で、ANS、UICI、Fondazione Istituto dei Ciechi di Milanoと協力している。"
               },
               {
                 "t": "p",
-                "x": "MetaはAppleと協力してMuse Spark OpenをMacに対応させた。このモデルは、最新のMLXフレームワークを実行する512GBのApple M5 Ultra Mac Studios 2台によるデスクトップ環境で動かせる。"
+                "x": "イタリアには視覚障害のある人が百万人以上いる。AI眼鏡は美術館のGrande Breraアプリと連携しており、このアプリにはANSがDescriVedendo方式で開発した音声ツアーガイドが含まれる。作品の形、構図、視覚的な細部を言葉に置き換えて伝えるものだ。"
               },
               {
                 "t": "p",
-                "x": "Muse Spark Openの総パラメータ数は8160億、アクティブパラメータは420億で、コンテキストウィンドウは100万トークンだ。コーディングやエージェント的な作業向けのモデルである。"
+                "x": "選ばれた八つの作品のいずれかの前で、来館者は眼鏡から作品認識を起動し、フレームに内蔵されたオープンイヤー型スピーカーで音声解説を聞ける。Meta AIは周囲に関する質問に答え、Be My Eyesは来館者を晴眼者のボランティアやオペレーターにつなぐ。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、M5 Ultraの統合GPUはMac Studio 1台あたり最大512 GBを使えるため、2台でモデル全体を保持でき、1.2 TB/sのメモリ帯域幅は各トークンが必要とする小さな部分を読み込むのに十分な速さだという。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは512GBのMac Studioをまだ発売していないが、今月後半に登場する見込みだ。モデルは無料でダウンロードでき、ライセンスは限定的な商用利用を認めている。"
+                "x": "この試験事業は、視覚障害のある人々とのテストや協議を通じて開発された。ツアーは予約制で、AI眼鏡は火曜日から金曜日の10:00 AMから4:30 PMまで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muse Spark开放模型\n两台Mac Studios跑",
-          "body": "Meta的Muse Spark Open可在两台512GB Mac Studios上运行。",
-          "mini_headline": "Muse Spark Open登陆Mac Studio",
+          "headline": "Meta AI眼镜打开\n米兰Brera的艺术",
+          "body": "Brera、Meta与EssilorLuxottica推出用AI眼镜拓展艺术可及性的试点。",
+          "mini_headline": "Brera的AI眼镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+              },
+              {
+                "t": "video",
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
               },
               {
                 "t": "p",
-                "x": "Meta今天宣布发布Muse Spark Open，称其为“迄今为止能力最强的U.S.开放权重模型”。"
+                "x": "Meta、Pinacoteca di Brera与EssilorLuxottica推出了“Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”（发现目之所及以外的杰作）试点项目，与ANS、UICI及Fondazione Istituto dei Ciechi di Milano合作，探索AI眼镜如何让盲人和低视力人群更容易接触艺术。"
               },
               {
                 "t": "p",
-                "x": "Meta与Apple合作，将Muse Spark Open带到Mac上。该模型可在由两台512GB Apple M5 Ultra Mac Studios组成、运行最新MLX框架的桌面环境中运行。"
+                "x": "意大利有超过一百万名盲人或视障人士。AI眼镜已与博物馆的Grande Brera应用集成，该应用包含ANS采用DescriVedendo方法开发的语音导览，把艺术品的形状、构图和视觉细节转化为口述文字。"
               },
               {
                 "t": "p",
-                "x": "Muse Spark Open总参数量为8160亿，激活参数为420亿，上下文窗口为100万个token，主要面向编程和智能体任务。"
+                "x": "在八件入选作品中的任意一件前，参观者可以通过眼镜启动作品识别，并经由镜框中的开放式扬声器收听语音讲解。Meta AI可回答有关周围环境的问题，Be My Eyes则将参观者与明眼志愿者和接线员连接起来。"
               },
               {
                 "t": "p",
-                "x": "据Meta介绍，M5 Ultra的集成GPU每台Mac Studio最多可使用512 GB，因此两台机器即可容纳整个模型，而1.2 TB/s的内存带宽足以快速读取每个token所需的一小部分数据。"
-              },
-              {
-                "t": "p",
-                "x": "Apple尚未发布512GB版Mac Studio，但预计将于本月晚些时候推出。该模型可免费下载，其许可证允许有限的商业使用。"
+                "x": "该试点项目经过与盲人和视障人士的测试与咨询后开发而成。导览需预约，AI眼镜的开放时间为周二至周五10:00 AM至4:30 PM。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El modelo abierto Muse Spark\nde Meta corre en dos Mac Studios",
-          "body": "Meta y Apple logran que el modelo abierto Muse Spark Open funcione en dos Mac Studios M5 Ultra de 512GB con MLX.",
-          "mini_headline": "Muse Spark Open en Mac Studio",
+          "headline": "Las gafas con AI de Meta abren\nel arte de la Brera de Milán",
+          "body": "Brera, Meta y EssilorLuxottica lanzan \"Sensing Art\", un piloto con gafas de AI para ampliar el acceso al arte.",
+          "mini_headline": "Gafas con AI en la Brera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+              },
+              {
+                "t": "video",
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
               },
               {
                 "t": "p",
-                "x": "Meta anunció hoy el lanzamiento de Muse Spark Open, que según la empresa es el “modelo de pesos abiertos de U.S. más capaz hasta la fecha”."
+                "x": "Meta, la Pinacoteca di Brera y EssilorLuxottica han lanzado “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”, un piloto que explora cómo las gafas con AI pueden hacer el arte más accesible para personas ciegas o con baja visión, en colaboración con ANS, UICI y la Fondazione Istituto dei Ciechi di Milano."
               },
               {
                 "t": "p",
-                "x": "Meta colaboró con Apple para llevar Muse Spark Open al Mac, y el modelo puede ejecutarse en un equipo de escritorio con dos Mac Studios Apple M5 Ultra de 512GB que usan la versión más reciente del framework MLX."
+                "x": "Más de un millón de personas en Italia son ciegas o tienen discapacidad visual. Las gafas con AI se han integrado en la app Grande Brera del museo, que incluye una audioguía desarrollada por ANS con el método DescriVedendo, que traduce en palabras las formas, la composición y los detalles visuales de una obra."
               },
               {
                 "t": "p",
-                "x": "Muse Spark Open tiene 816 mil millones de parámetros en total, 42 mil millones de parámetros activos y una ventana de contexto de 1 millón de tokens. Está pensado para programación y trabajo agéntico."
+                "x": "Frente a una de las ocho obras seleccionadas, los visitantes pueden activar el reconocimiento de obras desde las gafas y escuchar la audiodescripción a través de los altavoces abiertos de la montura. Meta AI responde preguntas sobre el entorno, y Be My Eyes conecta a los visitantes con voluntarios y operadores videntes."
               },
               {
                 "t": "p",
-                "x": "Según Meta, la GPU integrada del M5 Ultra puede usar hasta 512 GB por Mac Studio, así que dos máquinas pueden alojar el modelo completo, y los 1.2 TB/s de ancho de banda de memoria bastan para leer la pequeña porción que necesita cada token."
-              },
-              {
-                "t": "p",
-                "x": "Apple aún no ha lanzado el Mac Studio de 512GB, pero debería llegar a finales de este mes. El modelo se puede descargar gratis, con una licencia que permite un uso comercial limitado."
+                "x": "El piloto se desarrolló mediante pruebas y consultas con personas ciegas y con discapacidad visual. La visita está disponible con reserva, y las gafas con AI pueden usarse de martes a viernes de 10:00 AM a 4:30 PM."
               }
             ]
           }
@@ -629,137 +629,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Muse Spark 모델,\nMac Studios 2대",
-          "body": "Muse Spark Open은 512GB Mac Studios 2대에서 작동한다.",
-          "mini_headline": "Meta Muse Spark Open, Mac Studio에서 구동",
+          "headline": "Meta AI 안경이 연\n밀라노 Brera 예술",
+          "body": "Meta·EssilorLuxottica·Brera가 AI 안경 예술 시범을 연다.",
+          "mini_headline": "Brera의 AI 안경",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+              },
+              {
+                "t": "video",
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
               },
               {
                 "t": "p",
-                "x": "Meta가 오늘 Muse Spark Open을 공개했다. Meta는 이 모델을 “현재까지 가장 뛰어난 U.S. 오픈 웨이트 모델”이라고 소개한다."
+                "x": "Meta와 Pinacoteca di Brera, EssilorLuxottica가 “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”(눈에 보이는 것 너머의 걸작을 발견하다)를 시작했다. AI 안경이 시각장애인과 저시력자의 예술 접근성을 어떻게 높일 수 있는지 살펴보는 시범사업으로, ANS, UICI, Fondazione Istituto dei Ciechi di Milano와 협력한다."
               },
               {
                 "t": "p",
-                "x": "Meta는 Apple과 협력해 Muse Spark Open을 Mac에 들여왔다. 이 모델은 최신 MLX 프레임워크를 실행하는 512GB Apple M5 Ultra Mac Studios 두 대로 꾸린 데스크톱 환경에서 돌릴 수 있다."
+                "x": "이탈리아에는 시각장애인이나 시각 손상을 겪는 사람이 백만 명 넘게 있다. AI 안경은 미술관의 Grande Brera 앱과 연동된다. 이 앱에는 ANS가 DescriVedendo 방식으로 만든 오디오 투어 가이드가 들어 있으며, 작품의 형태와 구도, 시각적 세부를 말로 옮겨 준다."
               },
               {
                 "t": "p",
-                "x": "Muse Spark Open은 전체 파라미터 8160억 개, 활성 파라미터 420억 개에 100만 토큰 컨텍스트 창을 갖췄다. 코딩과 에이전트 작업을 위한 모델이다."
+                "x": "선정된 작품 여덟 점 가운데 하나 앞에 서면, 관람객은 안경에서 작품 인식을 켜고 안경테의 오픈형 스피커로 음성 해설을 들을 수 있다. Meta AI는 주변 환경에 관한 질문에 답하고, Be My Eyes는 관람객을 비장애인 자원봉사자와 상담원에게 연결해 준다."
               },
               {
                 "t": "p",
-                "x": "Meta에 따르면 M5 Ultra의 통합 GPU는 Mac Studio 한 대당 최대 512 GB를 쓸 수 있어 두 대면 모델 전체를 담을 수 있고, 1.2 TB/s의 메모리 대역폭은 토큰마다 필요한 작은 부분을 읽어 들이기에 충분히 빠르다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 512GB Mac Studio를 아직 출시하지 않았지만 이달 중 나올 예정이다. 모델은 무료로 내려받을 수 있으며, 라이선스는 제한적인 상업적 이용을 허용한다."
+                "x": "이 시범사업은 시각장애인 및 저시력자와의 테스트와 자문을 거쳐 개발됐다. 투어는 예약제로 운영되며, AI 안경은 화요일부터 금요일까지 10:00 AM부터 4:30 PM까지 이용할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Muse Sparkが\nMac Studios2台で",
-          "body": "MetaのMuse Spark Openは、512GBのMac Studios2台で動く。",
-          "mini_headline": "Muse Spark OpenがMac Studioで動作",
+          "headline": "Meta AI眼鏡が開く\nミラノBreraの芸術",
+          "body": "Brera、Meta、EssilorLuxotticaがAI眼鏡の美術鑑賞試験を始めた。",
+          "mini_headline": "BreraのAI眼鏡",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+              },
+              {
+                "t": "video",
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
               },
               {
                 "t": "p",
-                "x": "Metaは本日、Muse Spark Openのリリースを発表した。同社はこれを「これまでで最も高性能なU.S.のオープンウェイトモデル」としている。"
+                "x": "Meta、Pinacoteca di Brera、EssilorLuxotticaは「Sensing Art – Discovering Masterpieces Beyond What Meets the Eye」(目に見えるものの先にある名作を発見する)を開始した。AI眼鏡が視覚障害や弱視の人々にとって芸術をより身近にできるかを探る試験事業で、ANS、UICI、Fondazione Istituto dei Ciechi di Milanoと協力している。"
               },
               {
                 "t": "p",
-                "x": "MetaはAppleと協力してMuse Spark OpenをMacに対応させた。このモデルは、最新のMLXフレームワークを実行する512GBのApple M5 Ultra Mac Studios 2台によるデスクトップ環境で動かせる。"
+                "x": "イタリアには視覚障害のある人が百万人以上いる。AI眼鏡は美術館のGrande Breraアプリと連携しており、このアプリにはANSがDescriVedendo方式で開発した音声ツアーガイドが含まれる。作品の形、構図、視覚的な細部を言葉に置き換えて伝えるものだ。"
               },
               {
                 "t": "p",
-                "x": "Muse Spark Openの総パラメータ数は8160億、アクティブパラメータは420億で、コンテキストウィンドウは100万トークンだ。コーディングやエージェント的な作業向けのモデルである。"
+                "x": "選ばれた八つの作品のいずれかの前で、来館者は眼鏡から作品認識を起動し、フレームに内蔵されたオープンイヤー型スピーカーで音声解説を聞ける。Meta AIは周囲に関する質問に答え、Be My Eyesは来館者を晴眼者のボランティアやオペレーターにつなぐ。"
               },
               {
                 "t": "p",
-                "x": "Metaによると、M5 Ultraの統合GPUはMac Studio 1台あたり最大512 GBを使えるため、2台でモデル全体を保持でき、1.2 TB/sのメモリ帯域幅は各トークンが必要とする小さな部分を読み込むのに十分な速さだという。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは512GBのMac Studioをまだ発売していないが、今月後半に登場する見込みだ。モデルは無料でダウンロードでき、ライセンスは限定的な商用利用を認めている。"
+                "x": "この試験事業は、視覚障害のある人々とのテストや協議を通じて開発された。ツアーは予約制で、AI眼鏡は火曜日から金曜日の10:00 AMから4:30 PMまで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muse Spark开放模型\n两台Mac Studios跑",
-          "body": "Meta的Muse Spark Open可在两台512GB Mac Studios上运行。",
-          "mini_headline": "Muse Spark Open登陆Mac Studio",
+          "headline": "Meta AI眼镜打开\n米兰Brera的艺术",
+          "body": "Brera、Meta与EssilorLuxottica推出用AI眼镜拓展艺术可及性的试点。",
+          "mini_headline": "Brera的AI眼镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+              },
+              {
+                "t": "video",
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
               },
               {
                 "t": "p",
-                "x": "Meta今天宣布发布Muse Spark Open，称其为“迄今为止能力最强的U.S.开放权重模型”。"
+                "x": "Meta、Pinacoteca di Brera与EssilorLuxottica推出了“Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”（发现目之所及以外的杰作）试点项目，与ANS、UICI及Fondazione Istituto dei Ciechi di Milano合作，探索AI眼镜如何让盲人和低视力人群更容易接触艺术。"
               },
               {
                 "t": "p",
-                "x": "Meta与Apple合作，将Muse Spark Open带到Mac上。该模型可在由两台512GB Apple M5 Ultra Mac Studios组成、运行最新MLX框架的桌面环境中运行。"
+                "x": "意大利有超过一百万名盲人或视障人士。AI眼镜已与博物馆的Grande Brera应用集成，该应用包含ANS采用DescriVedendo方法开发的语音导览，把艺术品的形状、构图和视觉细节转化为口述文字。"
               },
               {
                 "t": "p",
-                "x": "Muse Spark Open总参数量为8160亿，激活参数为420亿，上下文窗口为100万个token，主要面向编程和智能体任务。"
+                "x": "在八件入选作品中的任意一件前，参观者可以通过眼镜启动作品识别，并经由镜框中的开放式扬声器收听语音讲解。Meta AI可回答有关周围环境的问题，Be My Eyes则将参观者与明眼志愿者和接线员连接起来。"
               },
               {
                 "t": "p",
-                "x": "据Meta介绍，M5 Ultra的集成GPU每台Mac Studio最多可使用512 GB，因此两台机器即可容纳整个模型，而1.2 TB/s的内存带宽足以快速读取每个token所需的一小部分数据。"
-              },
-              {
-                "t": "p",
-                "x": "Apple尚未发布512GB版Mac Studio，但预计将于本月晚些时候推出。该模型可免费下载，其许可证允许有限的商业使用。"
+                "x": "该试点项目经过与盲人和视障人士的测试与咨询后开发而成。导览需预约，AI眼镜的开放时间为周二至周五10:00 AM至4:30 PM。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El modelo abierto Muse Spark\nde Meta corre en dos Mac Studios",
-          "body": "Meta y Apple logran que el modelo abierto Muse Spark Open funcione en dos Mac Studios M5 Ultra de 512GB con MLX.",
-          "mini_headline": "Muse Spark Open en Mac Studio",
+          "headline": "Las gafas con AI de Meta abren\nel arte de la Brera de Milán",
+          "body": "Brera, Meta y EssilorLuxottica lanzan \"Sensing Art\", un piloto con gafas de AI para ampliar el acceso al arte.",
+          "mini_headline": "Gafas con AI en la Brera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.macrumors.com/t/MyTz3YsXEfhbGqeisTvS0AcCX_I=/2000x/article-new/2026/10/muse-spark-open-zuck.jpg"
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
+              },
+              {
+                "t": "video",
+                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
               },
               {
                 "t": "p",
-                "x": "Meta anunció hoy el lanzamiento de Muse Spark Open, que según la empresa es el “modelo de pesos abiertos de U.S. más capaz hasta la fecha”."
+                "x": "Meta, la Pinacoteca di Brera y EssilorLuxottica han lanzado “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”, un piloto que explora cómo las gafas con AI pueden hacer el arte más accesible para personas ciegas o con baja visión, en colaboración con ANS, UICI y la Fondazione Istituto dei Ciechi di Milano."
               },
               {
                 "t": "p",
-                "x": "Meta colaboró con Apple para llevar Muse Spark Open al Mac, y el modelo puede ejecutarse en un equipo de escritorio con dos Mac Studios Apple M5 Ultra de 512GB que usan la versión más reciente del framework MLX."
+                "x": "Más de un millón de personas en Italia son ciegas o tienen discapacidad visual. Las gafas con AI se han integrado en la app Grande Brera del museo, que incluye una audioguía desarrollada por ANS con el método DescriVedendo, que traduce en palabras las formas, la composición y los detalles visuales de una obra."
               },
               {
                 "t": "p",
-                "x": "Muse Spark Open tiene 816 mil millones de parámetros en total, 42 mil millones de parámetros activos y una ventana de contexto de 1 millón de tokens. Está pensado para programación y trabajo agéntico."
+                "x": "Frente a una de las ocho obras seleccionadas, los visitantes pueden activar el reconocimiento de obras desde las gafas y escuchar la audiodescripción a través de los altavoces abiertos de la montura. Meta AI responde preguntas sobre el entorno, y Be My Eyes conecta a los visitantes con voluntarios y operadores videntes."
               },
               {
                 "t": "p",
-                "x": "Según Meta, la GPU integrada del M5 Ultra puede usar hasta 512 GB por Mac Studio, así que dos máquinas pueden alojar el modelo completo, y los 1.2 TB/s de ancho de banda de memoria bastan para leer la pequeña porción que necesita cada token."
-              },
-              {
-                "t": "p",
-                "x": "Apple aún no ha lanzado el Mac Studio de 512GB, pero debería llegar a finales de este mes. El modelo se puede descargar gratis, con una licencia que permite un uso comercial limitado."
+                "x": "El piloto se desarrolló mediante pruebas y consultas con personas ciegas y con discapacidad visual. La visita está disponible con reserva, y las gafas con AI pueden usarse de martes a viernes de 10:00 AM a 4:30 PM."
               }
             ]
           }
@@ -767,195 +767,219 @@
       }
     },
     {
-      "id": "gadgets-sipeed-maixstation",
+      "id": "gadgets-galaxylang",
       "source_lang": "en",
       "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "MaixStation,\nDGX Spark에 도전",
-      "body": "MaixStation은 예상가 $3,999에 128GB LPDDR5X를 갖췄다.",
-      "mini_headline": "Sipeed MaixStation, DGX Spark 경쟁작",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims",
+      "headline": "Galaxy AI와\nBixby 지원 언어 확대",
+      "body": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 늘렸다.",
+      "mini_headline": "Galaxy AI 지원 언어 확대",
+      "source": "Samsung Global Newsroom",
+      "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 넓혔다. 더 많은 사용자가 자기 언어로 이 기능을 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Galaxy AI는 번역, 받아쓰기, 요약 기능을 시작으로 더 많은 기능에서 지원 언어를 늘린다. Call Assist, Note Assist, Interpreter, Transcript Assist에 헝가리어와 말레이어가 들어가, Live Translate 같은 기능은 24개 언어를 지원한다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-            "cap": "왼쪽부터 Sipeed의 MaixStation, Apple의 Mac mini, Nvidia의 DGX Spark (이미지 출처: Sipeed)"
+            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+            "cap": "Malay-English 통화의 Live Translate 화면(설명을 위한 시뮬레이션 이미지다. 실제 UX/UI는 다를 수 있다.)"
           },
           {
             "t": "p",
-            "x": "적어도 서류상으로는 DGX Spark와 Ryzen AI Halo의 중국산 맞수가 나왔다. Sipeed가 발표한 MaixStation이다. Axera의 새 AX8860P 기반에 256-bit 버스, 273 GB/s 속도의 128GB LPDDR5X를 얹었다."
+            "x": "Galaxy AI의 다른 기능인 Now Nudge도 언어 여덟 개가 늘어 24개 언어를 지원한다. Now Nudge는 화면 내용을 보고 알맞은 다음 단계를 제안한다."
           },
           {
             "t": "p",
-            "x": "Sipeed는 Tom’s Hardware Premium에 128GB 모델 가격을 약 $3,999로 예상한다며 Kickstarter에서 출시 할인을 준다고 밝혔다. 현재 $6,950인 DGX Spark보다 한참 싸다. Kickstarter 캠페인은 연말에 열린다."
+            "x": "Bixby는 자연스러운 대화로 기기를 직관적으로 제어하는 디바이스 에이전트다. 사용자는 설정의 정확한 이름이나 메뉴 위치를 몰라도 자기 말로 필요한 것을 요청할 수 있다. 폴란드어, 태국어, 베트남어가 더해져 Bixby 지원 언어는 12개가 됐다. 그만큼 더 많은 Galaxy 사용자가 기기를 수월하게 다룬다."
           },
           {
             "t": "p",
-            "x": "AX8860P는 16-core Arm Cortex-A55 칩이고, 네이티브 FP4 기준 256 TOPS를 내는 자체 NPU가 들어갔다. Sipeed는 Qwen 27B 모델을 돌릴 때 DGX Spark보다 프리필이 25%, 디코드가 30% 빠르다고 주장한다. 다만 이메일에서는 격차를 약 10%로 제시했다."
-          },
-          {
-            "t": "p",
-            "x": "본체는 약 11 × 11 × 3 cm 크기에 USB-C로 약 40W를 쓴다. 성능 주장이 맞는지는 NPU 툴체인과 샘플 기기가 나와야 확인할 수 있다."
+            "x": "Bixby의 새 언어는 October 14부터 배포되고, Galaxy AI의 새 언어는 몇 주 안에 뒤따른다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sipeed’s MaixStation takes\non Nvidia’s DGX Spark",
-          "body": "Sipeed’s MaixStation, expected to cost $3,999, pairs Axera’s AX8860P chip with 128GB of LPDDR5X at 273 GB/s.",
-          "mini_headline": "Sipeed MaixStation rivals DGX Spark",
+          "headline": "Galaxy AI and Bixby\nlearn more languages",
+          "body": "Samsung expands language support for Galaxy AI and Bixby, opening both AI experiences to users of more languages.",
+          "mini_headline": "Galaxy AI adds languages",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Samsung is expanding language support for Galaxy AI and Bixby, bringing these experiences to more users in their own language."
+              },
+              {
+                "t": "p",
+                "x": "Galaxy AI is expanding language support across more of its features, starting with those that translate, transcribe, and summarize. Call Assist, Note Assist, Interpreter, and Transcript Assist now include Hungarian and Malay, bringing features such as Live Translate to 24 languages."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-                "cap": "From left: Sipeed’s MaixStation, Apple’s Mac mini and Nvidia’s DGX Spark (Image credit: Sipeed)"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+                "cap": "Live Translate of a phone call in Malay-English (Image simulated for illustrative purposes. Actual UX/UI may differ.)"
               },
               {
                 "t": "p",
-                "x": "A Chinese rival to the DGX Spark and the Ryzen AI Halo, at least on paper, has emerged with Sipeed’s announcement of the MaixStation. Built on Axera’s new AX8860P, it has 128GB of LPDDR5X on a 256-bit bus at 273 GB/s."
+                "x": "Elsewhere in Galaxy AI, Now Nudge, which suggests a relevant next step based on what is on screen, adds eight languages to reach 24 as well."
               },
               {
                 "t": "p",
-                "x": "Sipeed told Tom’s Hardware Premium it expects the 128GB model to cost around $3,999, with launch discounts on Kickstarter — well under the DGX Spark’s current $6,950. A Kickstarter campaign follows at the end of the year."
+                "x": "Bixby is a device agent that offers intuitive device control through natural conversation. Users can ask for what they need in their own words, without having to know the exact name of a setting or where to find it in a menu. With the addition of Polish, Thai, and Vietnamese, Bixby now supports 12 languages, allowing more Galaxy users to control their devices more effortlessly."
               },
               {
                 "t": "p",
-                "x": "The AX8860P is a 16-core Arm Cortex-A55 part with an in-house NPU rated at 256 TOPS at native FP4. Sipeed claims 25% faster prefill and 30% faster decode than the DGX Spark running Qwen 27B, though in its email it put the lead at about 10%."
-              },
-              {
-                "t": "p",
-                "x": "The box measures about 11 × 11 × 3 cm and draws about 40W over USB-C. Testing the performance claims will have to wait for the NPU toolchain and sample machines."
+                "x": "Bixby’s new languages will begin rolling out on October 14, with the new Galaxy AI languages to follow in the coming weeks."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MaixStation,\nDGX Spark에 도전",
-          "body": "MaixStation은 예상가 $3,999에 128GB LPDDR5X를 갖췄다.",
-          "mini_headline": "Sipeed MaixStation, DGX Spark 경쟁작",
+          "headline": "Galaxy AI와\nBixby 지원 언어 확대",
+          "body": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 늘렸다.",
+          "mini_headline": "Galaxy AI 지원 언어 확대",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-                "cap": "왼쪽부터 Sipeed의 MaixStation, Apple의 Mac mini, Nvidia의 DGX Spark (이미지 출처: Sipeed)"
+                "t": "p",
+                "x": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 넓혔다. 더 많은 사용자가 자기 언어로 이 기능을 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "적어도 서류상으로는 DGX Spark와 Ryzen AI Halo의 중국산 맞수가 나왔다. Sipeed가 발표한 MaixStation이다. Axera의 새 AX8860P 기반에 256-bit 버스, 273 GB/s 속도의 128GB LPDDR5X를 얹었다."
+                "x": "Galaxy AI는 번역, 받아쓰기, 요약 기능을 시작으로 더 많은 기능에서 지원 언어를 늘린다. Call Assist, Note Assist, Interpreter, Transcript Assist에 헝가리어와 말레이어가 들어가, Live Translate 같은 기능은 24개 언어를 지원한다."
               },
-              {
-                "t": "p",
-                "x": "Sipeed는 Tom’s Hardware Premium에 128GB 모델 가격을 약 $3,999로 예상한다며 Kickstarter에서 출시 할인을 준다고 밝혔다. 현재 $6,950인 DGX Spark보다 한참 싸다. Kickstarter 캠페인은 연말에 열린다."
-              },
-              {
-                "t": "p",
-                "x": "AX8860P는 16-core Arm Cortex-A55 칩이고, 네이티브 FP4 기준 256 TOPS를 내는 자체 NPU가 들어갔다. Sipeed는 Qwen 27B 모델을 돌릴 때 DGX Spark보다 프리필이 25%, 디코드가 30% 빠르다고 주장한다. 다만 이메일에서는 격차를 약 10%로 제시했다."
-              },
-              {
-                "t": "p",
-                "x": "본체는 약 11 × 11 × 3 cm 크기에 USB-C로 약 40W를 쓴다. 성능 주장이 맞는지는 NPU 툴체인과 샘플 기기가 나와야 확인할 수 있다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La MaixStation de Sipeed compite\ncon el DGX Spark de Nvidia",
-          "body": "La MaixStation de Sipeed, que costaría $3,999, combina el chip AX8860P de Axera con 128GB de LPDDR5X a 273 GB/s.",
-          "mini_headline": "Sipeed MaixStation rivaliza con el DGX Spark",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-                "cap": "Desde la izquierda: MaixStation de Sipeed, Mac mini de Apple y DGX Spark de Nvidia (Imagen: Sipeed)"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+                "cap": "Malay-English 통화의 Live Translate 화면(설명을 위한 시뮬레이션 이미지다. 실제 UX/UI는 다를 수 있다.)"
               },
               {
                 "t": "p",
-                "x": "Ha surgido un rival chino para el DGX Spark y el Ryzen AI Halo, al menos sobre el papel, con el anuncio de la MaixStation de Sipeed. Basada en el nuevo AX8860P de Axera, cuenta con 128GB de LPDDR5X en un bus de 256-bit a 273 GB/s."
+                "x": "Galaxy AI의 다른 기능인 Now Nudge도 언어 여덟 개가 늘어 24개 언어를 지원한다. Now Nudge는 화면 내용을 보고 알맞은 다음 단계를 제안한다."
               },
               {
                 "t": "p",
-                "x": "Sipeed dijo a Tom’s Hardware Premium que prevé que el modelo de 128GB cueste unos $3,999, con descuentos de lanzamiento en Kickstarter, muy por debajo de los $6,950 que cuesta hoy el DGX Spark. Una campaña de Kickstarter seguirá a finales de año."
+                "x": "Bixby는 자연스러운 대화로 기기를 직관적으로 제어하는 디바이스 에이전트다. 사용자는 설정의 정확한 이름이나 메뉴 위치를 몰라도 자기 말로 필요한 것을 요청할 수 있다. 폴란드어, 태국어, 베트남어가 더해져 Bixby 지원 언어는 12개가 됐다. 그만큼 더 많은 Galaxy 사용자가 기기를 수월하게 다룬다."
               },
               {
                 "t": "p",
-                "x": "El AX8860P es un chip Arm Cortex-A55 de 16-core con una NPU propia de 256 TOPS en FP4 nativo. Sipeed afirma un prefill un 25% más rápido y un decode un 30% más rápido que el DGX Spark con Qwen 27B, aunque en su correo cifró la ventaja en torno al 10%."
-              },
-              {
-                "t": "p",
-                "x": "El equipo mide unos 11 × 11 × 3 cm y consume unos 40W a través de USB-C. Para comprobar las cifras de rendimiento habrá que esperar a la cadena de herramientas de la NPU y a las unidades de muestra."
+                "x": "Bixby의 새 언어는 October 14부터 배포되고, Galaxy AI의 새 언어는 몇 주 안에 뒤따른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MaixStationが\nDGX Sparkに挑む",
-          "body": "MaixStationは約 $3,999 で 128GB の LPDDR5X を積む。",
-          "mini_headline": "Sipeed MaixStation、DGX Sparkに対抗",
+          "headline": "Galaxy AIと\nBixbyの対応言語が拡大",
+          "body": "SamsungがGalaxy AIとBixbyの対応言語を広げ、より多くの人に届ける。",
+          "mini_headline": "Galaxy AIが対応言語を拡大",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "SamsungはGalaxy AIとBixbyの対応言語を拡大し、より多くのユーザーが自分の言語でこれらの機能を使えるようにする。"
+              },
+              {
+                "t": "p",
+                "x": "Galaxy AIは、翻訳、文字起こし、要約の機能を皮切りに、より多くの機能で対応言語を広げる。Call Assist、Note Assist、Interpreter、Transcript Assistにハンガリー語とマレー語が加わり、Live Translateなどの機能は24言語に対応する。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-                "cap": "左から Sipeed の MaixStation、Apple の Mac mini、Nvidia の DGX Spark（Image credit: Sipeed）"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+                "cap": "Malay-Englishの通話をLive Translateで翻訳する様子(説明用のシミュレーション画像。実際のUX/UIとは異なる場合がある。)"
               },
               {
                 "t": "p",
-                "x": "Sipeed が MaixStation を発表し、少なくとも仕様の上では DGX Spark や Ryzen AI Halo に対抗する中国製マシンが現れた。Axera の新チップ AX8860P を土台に、256-bit バスで 273 GB/s の LPDDR5X を 128GB 積む。"
+                "x": "Galaxy AIではほかにも、画面の内容に応じて次の一手を提案するNow Nudgeが八つの言語を追加し、同じく24言語に対応する。"
               },
               {
                 "t": "p",
-                "x": "Sipeed は Tom’s Hardware Premium に対し、128GB モデルの価格を約 $3,999 と見込み、Kickstarter では発売記念の割引を設けると説明した。DGX Spark の現行価格 $6,950 を大きく下回る。Kickstarter キャンペーンは年末に始まる。"
+                "x": "Bixbyは、自然な会話で直感的に機器を操作できるデバイスエージェントだ。ユーザーは設定の正確な名前やメニューの場所を知らなくても、自分の言葉で必要なことを頼める。ポーランド語、タイ語、ベトナム語の追加により、Bixbyは12言語に対応し、より多くのGalaxyユーザーが機器をより手軽に操作できるようになる。"
               },
               {
                 "t": "p",
-                "x": "AX8860P は 16 コアの Arm Cortex-A55 チップで、ネイティブ FP4 で 256 TOPS の自社製 NPU を備える。Sipeed は Qwen 27B を動かした場合、DGX Spark より prefill が 25% 速く、decode が 30% 速いと主張するが、メールでは差を約 10% としていた。"
-              },
-              {
-                "t": "p",
-                "x": "本体は約 11 × 11 × 3 cm で、USB-C から約 40W を受ける。性能の主張を検証できるのは、NPU ツールチェーンとサンプル機が出てからになる。"
+                "x": "Bixbyの新言語はOctober 14から順次提供が始まり、Galaxy AIの新言語も数週間のうちに続く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MaixStation\n叫板 DGX Spark",
-          "body": "MaixStation 预计售价 $3,999，配备 128GB LPDDR5X 内存。",
-          "mini_headline": "Sipeed MaixStation 对标 DGX Spark",
+          "headline": "Galaxy AI和\nBixby支持更多语言",
+          "body": "Samsung扩大Galaxy AI和Bixby的语言支持，让更多用户用上这两项AI体验。",
+          "mini_headline": "Galaxy AI新增语言",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Samsung正在扩大Galaxy AI和Bixby的语言支持，让更多用户能以自己的语言使用这些体验。"
+              },
+              {
+                "t": "p",
+                "x": "Galaxy AI正在把语言支持扩展到更多功能，首先是翻译、转写和摘要类功能。Call Assist、Note Assist、Interpreter和Transcript Assist现已加入匈牙利语和马来语，Live Translate等功能由此支持24种语言。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-                "cap": "从左至右：Sipeed 的 MaixStation、Apple 的 Mac mini 和 Nvidia 的 DGX Spark（Image credit: Sipeed）"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+                "cap": "Malay-English通话的Live Translate（图片为示意模拟，实际UX/UI可能有所不同。）"
               },
               {
                 "t": "p",
-                "x": "随着 Sipeed 发布 MaixStation，一款至少在纸面上可与 DGX Spark 和 Ryzen AI Halo 抗衡的中国产品登场。它基于 Axera 新推出的 AX8860P，配备 128GB LPDDR5X，采用 256-bit 总线，带宽 273 GB/s。"
+                "x": "Galaxy AI中的另一项功能Now Nudge会根据屏幕内容推荐相关的下一步操作，它新增了八种语言，同样达到24种。"
               },
               {
                 "t": "p",
-                "x": "Sipeed 向 Tom’s Hardware Premium 表示，128GB 版本预计售价约 $3,999，并将在 Kickstarter 提供首发折扣，远低于 DGX Spark 目前的 $6,950。Kickstarter 众筹将于年底启动。"
+                "x": "Bixby是一款设备代理，可通过自然对话直观地控制设备。用户无需知道设置的确切名称或它在菜单中的位置，就能用自己的话提出需求。新增波兰语、泰语和越南语后，Bixby现支持12种语言，让更多Galaxy用户更轻松地控制设备。"
               },
               {
                 "t": "p",
-                "x": "AX8860P 是一款 16 核 Arm Cortex-A55 芯片，集成自研 NPU，原生 FP4 算力为 256 TOPS。Sipeed 称，运行 Qwen 27B 时，其 prefill 比 DGX Spark 快 25% ，decode 快 30% ，但在邮件中给出的领先幅度约为 10% 。"
+                "x": "Bixby的新语言将于October 14开始推送，Galaxy AI的新语言将在未来几周内跟进。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Galaxy AI y Bixby\naprenden más idiomas",
+          "body": "Samsung amplía los idiomas de Galaxy AI y Bixby, y abre ambas experiencias de AI a usuarios de más lenguas.",
+          "mini_headline": "Galaxy AI suma idiomas",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Samsung amplía la compatibilidad de idiomas de Galaxy AI y Bixby, y lleva estas experiencias a más usuarios en su propio idioma."
               },
               {
                 "t": "p",
-                "x": "机身尺寸约 11 × 11 × 3 cm，通过 USB-C 供电，功耗约 40W 。性能说法的验证，还要等 NPU 工具链和样机到位。"
+                "x": "Galaxy AI amplía la compatibilidad de idiomas a más funciones, empezando por las que traducen, transcriben y resumen. Call Assist, Note Assist, Interpreter y Transcript Assist incorporan ahora el húngaro y el malayo, con lo que funciones como Live Translate llegan a 24 idiomas."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+                "cap": "Live Translate de una llamada en Malay-English (imagen simulada con fines ilustrativos; la UX/UI real puede variar.)"
+              },
+              {
+                "t": "p",
+                "x": "En otra parte de Galaxy AI, Now Nudge, que sugiere un siguiente paso pertinente según lo que aparece en pantalla, suma ocho idiomas y también llega a 24."
+              },
+              {
+                "t": "p",
+                "x": "Bixby es un agente del dispositivo que permite controlarlo de forma intuitiva mediante conversación natural. Los usuarios pueden pedir lo que necesitan con sus propias palabras, sin conocer el nombre exacto de un ajuste ni dónde encontrarlo en un menú. Con la incorporación del polaco, el tailandés y el vietnamita, Bixby admite ahora 12 idiomas, lo que permite a más usuarios de Galaxy controlar sus dispositivos con menos esfuerzo."
+              },
+              {
+                "t": "p",
+                "x": "Los nuevos idiomas de Bixby empezarán a desplegarse el 14 de octubre, y los nuevos idiomas de Galaxy AI llegarán en las próximas semanas."
               }
             ]
           }
@@ -963,125 +987,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MaixStation,\nDGX Spark에 도전",
-          "body": "MaixStation 예상가는 $3,999이고 128GB LPDDR5X를 갖췄다.",
-          "mini_headline": "Sipeed MaixStation, DGX Spark 경쟁작",
+          "headline": "Galaxy AI와\nBixby 지원 언어 확대",
+          "body": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 늘렸다.",
+          "mini_headline": "Galaxy AI 지원 언어 확대",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-                "cap": "왼쪽부터 Sipeed의 MaixStation, Apple의 Mac mini, Nvidia의 DGX Spark (이미지 출처: Sipeed)"
+                "t": "p",
+                "x": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 확대해, 더 많은 사용자가 자기 언어로 이 기능들을 쓸 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "적어도 서류상으로는 DGX Spark와 Ryzen AI Halo에 맞설 중국산 경쟁 제품이 나왔다. Sipeed가 발표한 MaixStation이다. Axera의 새 AX8860P를 기반으로 256-bit 버스에 273 GB/s 속도의 128GB LPDDR5X를 갖췄다."
+                "x": "Galaxy AI는 번역, 받아쓰기, 요약 기능을 시작으로 더 많은 기능에서 지원 언어를 늘린다. Call Assist, Note Assist, Interpreter, Transcript Assist에 헝가리어와 말레이어가 추가되면서 Live Translate 같은 기능의 지원 언어가 24개로 늘었다."
               },
-              {
-                "t": "p",
-                "x": "Sipeed는 Tom’s Hardware Premium에 128GB 모델 가격을 약 $3,999로 예상하며 Kickstarter에서 출시 할인을 제공한다고 밝혔다. 현재 $6,950인 DGX Spark보다 한참 낮다. Kickstarter 캠페인은 연말에 이어진다."
-              },
-              {
-                "t": "p",
-                "x": "AX8860P는 16-core Arm Cortex-A55 칩으로, 네이티브 FP4 기준 256 TOPS의 자체 NPU를 갖췄다. Sipeed는 Qwen 27B 실행 시 DGX Spark보다 프리필이 25%, 디코드가 30% 빠르다고 주장하지만, 이메일에서는 격차를 약 10%로 제시했다."
-              },
-              {
-                "t": "p",
-                "x": "본체 크기는 약 11 × 11 × 3 cm이고, USB-C로 약 40W를 소비한다. 성능 주장을 검증하려면 NPU 툴체인과 샘플 기기가 나올 때까지 기다려야 한다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La MaixStation de Sipeed compite\ncon el DGX Spark de Nvidia",
-          "body": "La MaixStation de Sipeed, que costaría $3,999, combina el chip AX8860P de Axera con 128GB de LPDDR5X a 273 GB/s.",
-          "mini_headline": "Sipeed MaixStation rivaliza con el DGX Spark",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-                "cap": "Desde la izquierda: MaixStation de Sipeed, Mac mini de Apple y DGX Spark de Nvidia (Imagen: Sipeed)"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+                "cap": "Malay-English 통화의 Live Translate 화면(설명을 위한 시뮬레이션 이미지다. 실제 UX/UI는 다를 수 있다.)"
               },
               {
                 "t": "p",
-                "x": "Ha surgido un rival chino para el DGX Spark y el Ryzen AI Halo, al menos sobre el papel, con el anuncio de la MaixStation de Sipeed. Basada en el nuevo AX8860P de Axera, cuenta con 128GB de LPDDR5X en un bus de 256-bit a 273 GB/s."
+                "x": "Galaxy AI의 다른 기능인 Now Nudge도 언어 여덟 개를 추가해 마찬가지로 24개 언어를 지원한다. Now Nudge는 화면 내용을 바탕으로 적절한 다음 단계를 제안한다."
               },
               {
                 "t": "p",
-                "x": "Sipeed dijo a Tom’s Hardware Premium que prevé que el modelo de 128GB cueste unos $3,999, con descuentos de lanzamiento en Kickstarter, muy por debajo de los $6,950 que cuesta hoy el DGX Spark. Una campaña de Kickstarter seguirá a finales de año."
+                "x": "Bixby는 자연스러운 대화로 기기를 직관적으로 제어하는 디바이스 에이전트다. 사용자는 설정의 정확한 이름이나 메뉴 위치를 몰라도 자기 말로 필요한 것을 요청할 수 있다. 폴란드어, 태국어, 베트남어가 추가되면서 Bixby는 12개 언어를 지원하게 됐고, 더 많은 Galaxy 사용자가 한층 수월하게 기기를 제어할 수 있다."
               },
               {
                 "t": "p",
-                "x": "El AX8860P es un chip Arm Cortex-A55 de 16-core con una NPU propia de 256 TOPS en FP4 nativo. Sipeed afirma un prefill un 25% más rápido y un decode un 30% más rápido que el DGX Spark con Qwen 27B, aunque en su correo cifró la ventaja en torno al 10%."
-              },
-              {
-                "t": "p",
-                "x": "El equipo mide unos 11 × 11 × 3 cm y consume unos 40W a través de USB-C. Para comprobar las cifras de rendimiento habrá que esperar a la cadena de herramientas de la NPU y a las unidades de muestra."
+                "x": "Bixby의 새 언어는 October 14부터 배포를 시작하며, Galaxy AI의 새 언어는 앞으로 몇 주 안에 뒤따른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MaixStationが\nDGX Sparkに挑む",
-          "body": "MaixStationは約 $3,999 で 128GB の LPDDR5X を積む。",
-          "mini_headline": "Sipeed MaixStation、DGX Sparkに対抗",
+          "headline": "Galaxy AIと\nBixbyの対応言語が拡大",
+          "body": "SamsungがGalaxy AIとBixbyの対応言語を広げ、より多くの人に届ける。",
+          "mini_headline": "Galaxy AIが対応言語を拡大",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "SamsungはGalaxy AIとBixbyの対応言語を拡大し、より多くのユーザーが自分の言語でこれらの機能を使えるようにする。"
+              },
+              {
+                "t": "p",
+                "x": "Galaxy AIは、翻訳、文字起こし、要約の機能を皮切りに、より多くの機能で対応言語を広げる。Call Assist、Note Assist、Interpreter、Transcript Assistにハンガリー語とマレー語が加わり、Live Translateなどの機能は24言語に対応する。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-                "cap": "左から Sipeed の MaixStation、Apple の Mac mini、Nvidia の DGX Spark（Image credit: Sipeed）"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+                "cap": "Malay-Englishの通話をLive Translateで翻訳する様子(説明用のシミュレーション画像。実際のUX/UIとは異なる場合がある。)"
               },
               {
                 "t": "p",
-                "x": "Sipeed が MaixStation を発表し、少なくとも仕様の上では DGX Spark や Ryzen AI Halo に対抗する中国製マシンが現れた。Axera の新チップ AX8860P を土台に、256-bit バスで 273 GB/s の LPDDR5X を 128GB 積む。"
+                "x": "Galaxy AIではほかにも、画面の内容に応じて次の一手を提案するNow Nudgeが八つの言語を追加し、同じく24言語に対応する。"
               },
               {
                 "t": "p",
-                "x": "Sipeed は Tom’s Hardware Premium に対し、128GB モデルの価格を約 $3,999 と見込み、Kickstarter では発売記念の割引を設けると説明した。DGX Spark の現行価格 $6,950 を大きく下回る。Kickstarter キャンペーンは年末に始まる。"
+                "x": "Bixbyは、自然な会話で直感的に機器を操作できるデバイスエージェントだ。ユーザーは設定の正確な名前やメニューの場所を知らなくても、自分の言葉で必要なことを頼める。ポーランド語、タイ語、ベトナム語の追加により、Bixbyは12言語に対応し、より多くのGalaxyユーザーが機器をより手軽に操作できるようになる。"
               },
               {
                 "t": "p",
-                "x": "AX8860P は 16 コアの Arm Cortex-A55 チップで、ネイティブ FP4 で 256 TOPS の自社製 NPU を備える。Sipeed は Qwen 27B を動かした場合、DGX Spark より prefill が 25% 速く、decode が 30% 速いと主張するが、メールでは差を約 10% としていた。"
-              },
-              {
-                "t": "p",
-                "x": "本体は約 11 × 11 × 3 cm で、USB-C から約 40W を受ける。性能の主張を検証できるのは、NPU ツールチェーンとサンプル機が出てからになる。"
+                "x": "Bixbyの新言語はOctober 14から順次提供が始まり、Galaxy AIの新言語も数週間のうちに続く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MaixStation\n叫板 DGX Spark",
-          "body": "MaixStation 预计售价 $3,999，配备 128GB LPDDR5X 内存。",
-          "mini_headline": "Sipeed MaixStation 对标 DGX Spark",
+          "headline": "Galaxy AI和\nBixby支持更多语言",
+          "body": "Samsung扩大Galaxy AI和Bixby的语言支持，让更多用户用上这两项AI体验。",
+          "mini_headline": "Galaxy AI新增语言",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Samsung正在扩大Galaxy AI和Bixby的语言支持，让更多用户能以自己的语言使用这些体验。"
+              },
+              {
+                "t": "p",
+                "x": "Galaxy AI正在把语言支持扩展到更多功能，首先是翻译、转写和摘要类功能。Call Assist、Note Assist、Interpreter和Transcript Assist现已加入匈牙利语和马来语，Live Translate等功能由此支持24种语言。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/qJ8AzHF86C7AK4DgmNfWmf-1440-80.jpg",
-                "cap": "从左至右：Sipeed 的 MaixStation、Apple 的 Mac mini 和 Nvidia 的 DGX Spark（Image credit: Sipeed）"
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+                "cap": "Malay-English通话的Live Translate（图片为示意模拟，实际UX/UI可能有所不同。）"
               },
               {
                 "t": "p",
-                "x": "随着 Sipeed 发布 MaixStation，一款至少在纸面上可与 DGX Spark 和 Ryzen AI Halo 抗衡的中国产品登场。它基于 Axera 新推出的 AX8860P，配备 128GB LPDDR5X，采用 256-bit 总线，带宽 273 GB/s。"
+                "x": "Galaxy AI中的另一项功能Now Nudge会根据屏幕内容推荐相关的下一步操作，它新增了八种语言，同样达到24种。"
               },
               {
                 "t": "p",
-                "x": "Sipeed 向 Tom’s Hardware Premium 表示，128GB 版本预计售价约 $3,999，并将在 Kickstarter 提供首发折扣，远低于 DGX Spark 目前的 $6,950。Kickstarter 众筹将于年底启动。"
+                "x": "Bixby是一款设备代理，可通过自然对话直观地控制设备。用户无需知道设置的确切名称或它在菜单中的位置，就能用自己的话提出需求。新增波兰语、泰语和越南语后，Bixby现支持12种语言，让更多Galaxy用户更轻松地控制设备。"
               },
               {
                 "t": "p",
-                "x": "AX8860P 是一款 16 核 Arm Cortex-A55 芯片，集成自研 NPU，原生 FP4 算力为 256 TOPS。Sipeed 称，运行 Qwen 27B 时，其 prefill 比 DGX Spark 快 25% ，decode 快 30% ，但在邮件中给出的领先幅度约为 10% 。"
+                "x": "Bixby的新语言将于October 14开始推送，Galaxy AI的新语言将在未来几周内跟进。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Galaxy AI y Bixby\naprenden más idiomas",
+          "body": "Samsung amplía los idiomas de Galaxy AI y Bixby, y abre ambas experiencias de AI a usuarios de más lenguas.",
+          "mini_headline": "Galaxy AI suma idiomas",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Samsung amplía la compatibilidad de idiomas de Galaxy AI y Bixby, y lleva estas experiencias a más usuarios en su propio idioma."
               },
               {
                 "t": "p",
-                "x": "机身尺寸约 11 × 11 × 3 cm，通过 USB-C 供电，功耗约 40W 。性能说法的验证，还要等 NPU 工具链和样机到位。"
+                "x": "Galaxy AI amplía la compatibilidad de idiomas a más funciones, empezando por las que traducen, transcriben y resumen. Call Assist, Note Assist, Interpreter y Transcript Assist incorporan ahora el húngaro y el malayo, con lo que funciones como Live Translate llegan a 24 idiomas."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
+                "cap": "Live Translate de una llamada en Malay-English (imagen simulada con fines ilustrativos; la UX/UI real puede variar.)"
+              },
+              {
+                "t": "p",
+                "x": "En otra parte de Galaxy AI, Now Nudge, que sugiere un siguiente paso pertinente según lo que aparece en pantalla, suma ocho idiomas y también llega a 24."
+              },
+              {
+                "t": "p",
+                "x": "Bixby es un agente del dispositivo que permite controlarlo de forma intuitiva mediante conversación natural. Los usuarios pueden pedir lo que necesitan con sus propias palabras, sin conocer el nombre exacto de un ajuste ni dónde encontrarlo en un menú. Con la incorporación del polaco, el tailandés y el vietnamita, Bixby admite ahora 12 idiomas, lo que permite a más usuarios de Galaxy controlar sus dispositivos con menos esfuerzo."
+              },
+              {
+                "t": "p",
+                "x": "Los nuevos idiomas de Bixby empezarán a desplegarse el 14 de octubre, y los nuevos idiomas de Galaxy AI llegarán en las próximas semanas."
               }
             ]
           }
@@ -1089,15 +1129,15 @@
       }
     },
     {
-      "id": "gadgets-eiliko",
+      "id": "gadgets-siri",
       "source_lang": "en",
       "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "귀여운 AI 로봇 장난감,\n중국 서버로 비밀 전송",
-      "body": "Eiliko 로봇 장난감은 대화 1300만 건을 무방비한 중국 서버에 저장한다.",
-      "mini_headline": "Eiliko 로봇, 사용자 비밀 노출",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "headline": "Siri는 ChatGPT를\n이길 필요가 없다",
+      "body": "Apple CEO는 TIME에 Siri가 iPhone의 개인 데이터에 건다고 했다.",
+      "mini_headline": "Siri의 승부수는 개인 데이터",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1105,203 +1145,293 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+            "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+            "cap": "Apple CEO John Ternus와 iPhone의 Siri 앱"
           },
           {
             "t": "p",
-            "x": "새 디지털 반려동물이 나왔다. 마시멜로처럼 생긴 작고 귀여운 로봇이다. 그런데 “Eiliko”와 Wi-Fi로 대화하면 이 로봇은 중국으로 신호를 보낸다. 이 AI 컴패니언은 사용자가 한 말을 전부 중국 서버에 저장할 수 있고, 해커는 이 서버에 쉽게 들어가거나 로봇의 성격까지 가로챌 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "“당신의 비밀은 제가 지켜 드릴게요.” 로봇은 The Verge의 Sean Hollister에게 이렇게 말했다. 하지만 해커 Sammy Azdoufal은 몇 분 만에 대화 기록 전체를 손에 넣었다. US 아동 프로필 31,000개 이상을 포함해 장난감 68,000대의 대화 1300만 건을 읽을 수 있었다."
+            "x": "October 15에 공개된 TIME 인터뷰에서 Apple CEO John Ternus는 회사가 AI에 남다른 방식으로 접근하는 이유를 설명했다. Apple은 가장 똑똑한 챗봇보다 이미 iPhone에 들어 있는 정보에 승부를 건다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-            "cap": "Azdoufal이 직접 산 Eiliko와 포즈를 취했다."
+            "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+            "cap": "OpenAI와 Apple 로고"
           },
           {
             "t": "p",
-            "x": "Azdoufal이 확인해 보니 Energize Lab의 서비스에는 보호 장치가 전혀 없었고, 서비스가 대화를 읽어 사용자 프로필까지 만들고 있었다. 아이들의 사진과 짧은 음성 녹음은 공개 웹 주소에 그대로 올라가 있다."
+            "x": "새 Siri에는 Google의 Gemini 기술로 만든 Apple AI 모델이 들어간다. Ternus는 TIME에 “We make the things where we can really bring differentiation”(우리는 진정한 차별화를 이룰 수 있는 것을 만든다)이라고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+            "cap": "iPhone 17의 Apple Maps"
           },
           {
             "t": "p",
-            "x": "Energize Lab은 의미 있는 답을 내놓지 않았다. Azdoufal은 그 뒤 원격으로 장난감의 LLM을 탈취해 지구가 평평하다는 말을 하게 만들었다."
+            "x": "사용자가 허용하면 Siri는 지원 앱의 정보를 엮고 그 맥락으로 일을 처리한다. Apple Watch로 모은 건강 정보를 Siri가 풀이해 주는 데서도 Apple은 기회를 본다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+            "cap": "iPhone 17 Pro에서 실행되는 iOS 27 Siri AI."
+          },
+          {
+            "t": "p",
+            "x": "Apple의 AI 제품 책임자 Lilian Rincon은 Siri가 AI 동반자처럼 행동하지 않도록 일부러 설계했다고 했다. Siri는 요청을 되도록 기기에서 처리하고, 무거운 요청만 Private Cloud Compute로 넘긴다."
+          },
+          {
+            "t": "p",
+            "x": "관건은 Apple이 Siri를 충분히 쓸모 있게 만들어 iPhone 사용자가 애초에 ChatGPT를 찾지 않게 할 수 있느냐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A cute AI robot toy sends\nsecrets to Chinese servers",
-          "body": "A hacker found Eiliko robot toys store 13 million user chats on unprotected Chinese servers, The Verge reports.",
-          "mini_headline": "Eiliko robot exposes user secrets",
+          "headline": "Siri doesn't need\nto beat ChatGPT",
+          "body": "Apple CEO John Ternus told TIME that Siri bets on the personal data on your iPhone, not on being the smartest chatbot.",
+          "mini_headline": "Siri's bet: personal data",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+                "cap": "Apple CEO John Ternus and Siri app on iPhone"
               },
               {
                 "t": "p",
-                "x": "There’s a new digital pet in town — a cute little marshmallow of a robot. But if you talk to “Eiliko” over Wi-Fi, it’ll phone home to China. Its AI companion can store everything you tell it on Chinese servers, where hackers can easily gain access or even hijack its personality."
-              },
-              {
-                "t": "p",
-                "x": "“Your secrets are safe with me,” it told The Verge’s Sean Hollister. Within minutes, hacker Sammy Azdoufal had a full transcript — and could read 13 million conversations across a fleet of 68,000 toys, including over 31,000 child profiles in the US."
+                "x": "In a new interview with TIME, published October 15, Apple CEO John Ternus explained why the company is taking a different approach to AI. Rather than trying to build the smartest chatbot, Apple is betting on the information already sitting on your iPhone."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Azdoufal poses with the Eiliko he bought."
+                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+                "cap": "OpenAI and Apple logos"
               },
               {
                 "t": "p",
-                "x": "Azdoufal found Energize Lab’s service was completely unprotected, and that it reads conversations to build profiles of users. Photos of children and short audio recordings sit at public web addresses."
+                "x": "The new Siri uses an Apple AI model that draws on Google's Gemini technology. \"We make the things where we can really bring differentiation,\" Ternus told TIME."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+                "cap": "Apple Maps on an iPhone 17"
               },
               {
                 "t": "p",
-                "x": "Energize Lab did not meaningfully respond. Azdoufal later hijacked the toy’s LLM remotely, making it claim the Earth is flat."
+                "x": "With permission, Siri can draw connections between information across supported apps and use that context to complete tasks. Apple also sees opportunities for Siri to interpret health information collected by an Apple Watch."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+                "cap": "iOS 27 Siri AI running on iPhone 17 Pro."
+              },
+              {
+                "t": "p",
+                "x": "Apple's AI product leader Lilian Rincon explained that Siri was deliberately designed not to behave like an AI companion. Siri processes requests on device when possible, with more demanding ones handled through Private Cloud Compute."
+              },
+              {
+                "t": "p",
+                "x": "The question is whether Apple can make Siri useful enough that iPhone owners stop reaching for ChatGPT in the first place."
               }
             ]
           }
         },
         "ko": {
-          "headline": "귀여운 AI 로봇 장난감,\n중국 서버로 비밀 전송",
-          "body": "Eiliko 로봇 장난감은 대화 1300만 건을 무방비한 중국 서버에 저장한다.",
-          "mini_headline": "Eiliko 로봇, 사용자 비밀 노출",
+          "headline": "Siri는 ChatGPT를\n이길 필요가 없다",
+          "body": "Apple CEO는 TIME에 Siri가 iPhone의 개인 데이터에 건다고 했다.",
+          "mini_headline": "Siri의 승부수는 개인 데이터",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+                "cap": "Apple CEO John Ternus와 iPhone의 Siri 앱"
               },
               {
                 "t": "p",
-                "x": "새 디지털 반려동물이 나왔다. 마시멜로처럼 생긴 작고 귀여운 로봇이다. 그런데 “Eiliko”와 Wi-Fi로 대화하면 이 로봇은 중국으로 신호를 보낸다. 이 AI 컴패니언은 사용자가 한 말을 전부 중국 서버에 저장할 수 있고, 해커는 이 서버에 쉽게 들어가거나 로봇의 성격까지 가로챌 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "“당신의 비밀은 제가 지켜 드릴게요.” 로봇은 The Verge의 Sean Hollister에게 이렇게 말했다. 하지만 해커 Sammy Azdoufal은 몇 분 만에 대화 기록 전체를 손에 넣었다. US 아동 프로필 31,000개 이상을 포함해 장난감 68,000대의 대화 1300만 건을 읽을 수 있었다."
+                "x": "October 15에 공개된 TIME 인터뷰에서 Apple CEO John Ternus는 회사가 AI에 남다른 방식으로 접근하는 이유를 설명했다. Apple은 가장 똑똑한 챗봇보다 이미 iPhone에 들어 있는 정보에 승부를 건다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Azdoufal이 직접 산 Eiliko와 포즈를 취했다."
+                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+                "cap": "OpenAI와 Apple 로고"
               },
               {
                 "t": "p",
-                "x": "Azdoufal이 확인해 보니 Energize Lab의 서비스에는 보호 장치가 전혀 없었고, 서비스가 대화를 읽어 사용자 프로필까지 만들고 있었다. 아이들의 사진과 짧은 음성 녹음은 공개 웹 주소에 그대로 올라가 있다."
+                "x": "새 Siri에는 Google의 Gemini 기술로 만든 Apple AI 모델이 들어간다. Ternus는 TIME에 “We make the things where we can really bring differentiation”(우리는 진정한 차별화를 이룰 수 있는 것을 만든다)이라고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+                "cap": "iPhone 17의 Apple Maps"
               },
               {
                 "t": "p",
-                "x": "Energize Lab은 의미 있는 답을 내놓지 않았다. Azdoufal은 그 뒤 원격으로 장난감의 LLM을 탈취해 지구가 평평하다는 말을 하게 만들었다."
+                "x": "사용자가 허용하면 Siri는 지원 앱의 정보를 엮고 그 맥락으로 일을 처리한다. Apple Watch로 모은 건강 정보를 Siri가 풀이해 주는 데서도 Apple은 기회를 본다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+                "cap": "iPhone 17 Pro에서 실행되는 iOS 27 Siri AI."
+              },
+              {
+                "t": "p",
+                "x": "Apple의 AI 제품 책임자 Lilian Rincon은 Siri가 AI 동반자처럼 행동하지 않도록 일부러 설계했다고 했다. Siri는 요청을 되도록 기기에서 처리하고, 무거운 요청만 Private Cloud Compute로 넘긴다."
+              },
+              {
+                "t": "p",
+                "x": "관건은 Apple이 Siri를 충분히 쓸모 있게 만들어 iPhone 사용자가 애초에 ChatGPT를 찾지 않게 할 수 있느냐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "かわいいAIロボット玩具、\n秘密を中国サーバーへ",
-          "body": "Eilikoのロボット玩具が1300万件の会話を無防備な中国サーバーに保存していた。",
-          "mini_headline": "Eilikoロボットが利用者の秘密を晒す",
+          "headline": "SiriはChatGPTに\n勝たなくていい",
+          "body": "Apple CEOはTIMEに、SiriはiPhoneの個人データで勝負すると語った。",
+          "mini_headline": "Siriの賭けは個人データ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+                "cap": "Apple CEOのJohn TernusとiPhoneのSiriアプリ"
               },
               {
                 "t": "p",
-                "x": "新しいデジタルペットが登場した。マシュマロのような小さくてかわいいロボットだ。だが「Eiliko」とWi-Fi経由で話すと、中国へ通信する。そのAIコンパニオンは、話した内容をすべて中国のサーバーに保存でき、ハッカーは容易にアクセスしたり、その人格を乗っ取ったりすらできる。"
-              },
-              {
-                "t": "p",
-                "x": "「あなたの秘密は私が守ります」と、それはThe VergeのSean Hollisterに語った。だが数分のうちに、ハッカーのSammy Azdoufalは会話の全記録を手に入れ、US国内の31,000件以上の子どものプロフィールを含む、68,000台の玩具全体で1300万件の会話を読めるようになった。"
+                "x": "October 15に公開されたTIMEの新しいインタビューで、Apple CEOのJohn Ternusは、同社がAIに異なるアプローチを取る理由を説明した。Appleは最も賢いチャットボットを作ろうとするのではなく、すでにiPhoneにある情報に賭けている。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "購入したEilikoと一緒にポーズをとるAzdoufal。"
+                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+                "cap": "OpenAIとAppleのロゴ"
               },
               {
                 "t": "p",
-                "x": "AzdoufalはEnergize Labのサービスがまったく保護されておらず、会話を読み取ってユーザーのプロフィールを作成していることを突き止めた。子どもの写真や短い音声録音は公開されたウェブアドレスに置かれている。"
+                "x": "新しいSiriは、GoogleのGemini技術を活用したAppleのAIモデルを使う。TernusはTIMEに「We make the things where we can really bring differentiation」(本当に差別化をもたらせるものを我々は作る)と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+                "cap": "iPhone 17のApple Maps"
               },
               {
                 "t": "p",
-                "x": "Energize Labは実質的な回答をしなかった。Azdoufalはその後、玩具のLLMを遠隔で乗っ取り、地球は平らだと主張させた。"
+                "x": "ユーザーの許可があれば、Siriは対応アプリをまたいで情報を結びつけ、その文脈を使ってタスクを完了できる。Appleはまた、Apple Watchが収集した健康情報をSiriが解釈することにも可能性を見ている。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+                "cap": "iPhone 17 Proで動作するiOS 27のSiri AI。"
+              },
+              {
+                "t": "p",
+                "x": "AppleのAI製品責任者Lilian Rinconは、SiriがAIコンパニオンのように振る舞わないよう意図的に設計されたと説明した。Siriは可能な限りデバイス上でリクエストを処理し、負荷の高いものはPrivate Cloud Computeで処理する。"
+              },
+              {
+                "t": "p",
+                "x": "問題は、AppleがSiriを十分に役立つものにし、iPhoneユーザーがそもそもChatGPTに手を伸ばさなくなるようにできるかどうかだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "可爱AI机器人玩具\n把秘密传到中国服务器",
-          "body": "据The Verge报道，Eiliko机器人玩具将1300万条对话存于无防护的中国服务器。",
-          "mini_headline": "Eiliko机器人泄露用户秘密",
+          "headline": "Siri无需\n击败ChatGPT",
+          "body": "Apple CEO Ternus告诉TIME，Siri押注iPhone上的个人数据。",
+          "mini_headline": "Siri押注个人数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+                "cap": "Apple CEO John Ternus与iPhone上的Siri应用"
               },
               {
                 "t": "p",
-                "x": "一款新的数字宠物登场了——一个棉花糖般的可爱小机器人。但如果你通过Wi-Fi与“Eiliko”交谈，它就会向中国回传数据。它的AI伴侣会把你说的一切存储在中国服务器上，黑客可以轻易访问这些服务器，甚至劫持它的个性。"
-              },
-              {
-                "t": "p",
-                "x": "“你的秘密在我这里很安全，”它对The Verge的Sean Hollister说。几分钟内，黑客Sammy Azdoufal就拿到了完整的对话记录，并能读取68,000台玩具上的1300万条对话，其中包括US超过31,000份儿童档案。"
+                "x": "在October 15发布的TIME最新专访中，Apple CEO John Ternus解释了公司为何对AI采取不同的路线。Apple没有试图打造最聪明的聊天机器人，而是押注已经存放在你iPhone上的信息。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Azdoufal与他购买的Eiliko合影。"
+                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+                "cap": "OpenAI与Apple标志"
               },
               {
                 "t": "p",
-                "x": "Azdoufal发现，Energize Lab的服务完全没有防护，而且会读取对话来建立用户画像。儿童照片和简短录音就放在公开的网址上。"
+                "x": "新版Siri采用了一款借助Google的Gemini技术的Apple AI模型。Ternus告诉TIME：“We make the things where we can really bring differentiation”（我们做能真正带来差异化的东西）。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+                "cap": "iPhone 17上的Apple Maps"
               },
               {
                 "t": "p",
-                "x": "Energize Lab没有作出实质回应。Azdoufal后来远程劫持了这款玩具的LLM，让它声称地球是平的。"
+                "x": "在获得许可后，Siri可以把各支持应用中的信息关联起来，并利用这些上下文完成任务。Apple还看到了让Siri解读Apple Watch所收集健康信息的机会。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+                "cap": "在iPhone 17 Pro上运行的iOS 27 Siri AI。"
+              },
+              {
+                "t": "p",
+                "x": "Apple的AI产品负责人Lilian Rincon解释说，Siri被刻意设计成不像AI伴侣那样行事。Siri会尽可能在设备端处理请求，要求更高的请求则交由Private Cloud Compute处理。"
+              },
+              {
+                "t": "p",
+                "x": "问题在于，Apple能否让Siri足够好用，让iPhone用户从一开始就不再去找ChatGPT。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un tierno robot con AI envía\nsecretos a servidores chinos",
-          "body": "Un hacker halló que los robots Eiliko guardan 13 millones de chats en servidores chinos expuestos, según The Verge.",
-          "mini_headline": "El robot Eiliko expone secretos de usuarios",
+          "headline": "Siri no necesita\nsuperar a ChatGPT",
+          "body": "El CEO de Apple, John Ternus, dijo a TIME que Siri apuesta por tus datos en el iPhone, no por ser el chatbot más listo.",
+          "mini_headline": "La apuesta de Siri: datos personales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+                "cap": "John Ternus, CEO de Apple, y la app de Siri en el iPhone"
               },
               {
                 "t": "p",
-                "x": "Hay una nueva mascota digital: un pequeño y tierno robot con forma de malvavisco. Pero si hablas con “Eiliko” por Wi-Fi, se comunica con China. Su compañero de AI puede guardar todo lo que le cuentas en servidores chinos, donde los hackers pueden acceder con facilidad o incluso secuestrar su personalidad."
-              },
-              {
-                "t": "p",
-                "x": "“Tus secretos están a salvo conmigo”, le dijo a Sean Hollister, de The Verge. En cuestión de minutos, el hacker Sammy Azdoufal tenía una transcripción completa, y pudo leer 13 millones de conversaciones de una flota de 68,000 juguetes, incluidos más de 31,000 perfiles infantiles en Estados Unidos (US)."
+                "x": "En una nueva entrevista con TIME, publicada el 15 de octubre, el CEO de Apple, John Ternus, explicó por qué la compañía adopta un enfoque distinto hacia la AI. En lugar de intentar crear el chatbot más inteligente, Apple apuesta por la información que ya está en tu iPhone."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Azdoufal posa con el Eiliko que compró."
+                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+                "cap": "Logotipos de OpenAI y Apple"
               },
               {
                 "t": "p",
-                "x": "Azdoufal descubrió que el servicio de Energize Lab no tenía ninguna protección y que lee las conversaciones para crear perfiles de los usuarios. Las fotos de niños y breves grabaciones de audio están en direcciones web públicas."
+                "x": "La nueva Siri usa un modelo de AI de Apple que se basa en la tecnología Gemini de Google. “We make the things where we can really bring differentiation” (hacemos las cosas en las que realmente podemos diferenciarnos), dijo Ternus a TIME."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+                "cap": "Apple Maps en un iPhone 17"
               },
               {
                 "t": "p",
-                "x": "Energize Lab no dio una respuesta significativa. Más tarde, Azdoufal secuestró de forma remota el LLM del juguete y le hizo afirmar que la Tierra es plana."
+                "x": "Con permiso, Siri puede relacionar información entre las apps compatibles y usar ese contexto para completar tareas. Apple también ve oportunidades para que Siri interprete la información de salud recopilada por un Apple Watch."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+                "cap": "Siri AI de iOS 27 funcionando en un iPhone 17 Pro."
+              },
+              {
+                "t": "p",
+                "x": "Lilian Rincon, responsable de producto de AI de Apple, explicó que Siri se diseñó deliberadamente para no comportarse como un compañero de AI. Siri procesa las solicitudes en el dispositivo cuando es posible, y las más exigentes se gestionan mediante Private Cloud Compute."
+              },
+              {
+                "t": "p",
+                "x": "La cuestión es si Apple puede hacer que Siri sea lo bastante útil como para que los dueños de un iPhone dejen de recurrir a ChatGPT."
               }
             ]
           }
@@ -1309,141 +1439,201 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "귀여운 AI 로봇 장난감,\n중국 서버로 비밀 전송",
-          "body": "Eiliko 로봇 장난감은 대화 1300만 건을 보호 없는 중국 서버에 저장한다.",
-          "mini_headline": "Eiliko 로봇, 사용자 비밀 노출",
+          "headline": "Siri는 ChatGPT를\n이길 필요가 없다",
+          "body": "Apple CEO는 TIME에 Siri가 iPhone의 개인 데이터에 건다고 했다.",
+          "mini_headline": "Siri의 승부수는 개인 데이터",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+                "cap": "Apple CEO John Ternus와 iPhone의 Siri 앱"
               },
               {
                 "t": "p",
-                "x": "새로운 디지털 반려동물이 등장했다. 마시멜로처럼 생긴 귀여운 작은 로봇이다. 하지만 “Eiliko”와 Wi-Fi로 대화하면 이 로봇은 중국으로 신호를 보낸다. AI 컴패니언은 사용자가 한 말을 모두 중국 서버에 저장할 수 있고, 해커는 이 서버에 쉽게 접근하거나 로봇의 성격까지 탈취할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "“당신의 비밀은 제가 지켜 드릴게요.” 로봇은 The Verge의 Sean Hollister에게 이렇게 말했다. 그러나 몇 분 만에 해커 Sammy Azdoufal은 대화 기록 전체를 확보했고, US의 아동 프로필 31,000개 이상을 포함해 68,000대에 이르는 장난감의 대화 1300만 건을 읽을 수 있었다."
+                "x": "October 15에 공개된 TIME 인터뷰에서 Apple CEO John Ternus는 회사가 AI에 다른 방식으로 접근하는 이유를 설명했다. Apple은 가장 똑똑한 챗봇을 만들려 하기보다 이미 iPhone에 들어 있는 정보에 걸고 있다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Azdoufal이 직접 구입한 Eiliko와 포즈를 취하고 있다."
+                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+                "cap": "OpenAI와 Apple 로고"
               },
               {
                 "t": "p",
-                "x": "Azdoufal은 Energize Lab의 서비스에 보호 장치가 전혀 없고, 이 서비스가 대화를 읽어 사용자 프로필을 만든다는 사실을 발견했다. 아이들의 사진과 짧은 음성 녹음은 공개 웹 주소에 그대로 올라가 있다."
+                "x": "새 Siri는 Google의 Gemini 기술을 바탕으로 한 Apple AI 모델을 쓴다. Ternus는 TIME에 “We make the things where we can really bring differentiation”(우리는 진정한 차별화를 이룰 수 있는 것을 만든다)이라고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+                "cap": "iPhone 17의 Apple Maps"
               },
               {
                 "t": "p",
-                "x": "Energize Lab은 의미 있는 답변을 내놓지 않았다. Azdoufal은 이후 원격으로 장난감의 LLM을 탈취해 지구가 평평하다고 말하게 만들었다."
+                "x": "사용자가 허용하면 Siri는 지원 앱 전반의 정보를 서로 연결하고, 그 맥락을 활용해 작업을 처리할 수 있다. Apple은 Siri가 Apple Watch로 수집한 건강 정보를 해석하는 데서도 기회를 본다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+                "cap": "iPhone 17 Pro에서 실행되는 iOS 27 Siri AI."
+              },
+              {
+                "t": "p",
+                "x": "Apple의 AI 제품 책임자 Lilian Rincon은 Siri가 AI 동반자처럼 행동하지 않도록 의도적으로 설계했다고 설명했다. Siri는 가능하면 기기에서 요청을 처리하고, 더 무거운 요청은 Private Cloud Compute로 처리한다."
+              },
+              {
+                "t": "p",
+                "x": "관건은 Apple이 Siri를 충분히 쓸모 있게 만들어 iPhone 사용자가 애초에 ChatGPT를 찾지 않게 할 수 있느냐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "かわいいAIロボット玩具、\n秘密を中国サーバーへ",
-          "body": "Eilikoのロボット玩具が1300万件の会話を無防備な中国サーバーに保存していた。",
-          "mini_headline": "Eilikoロボットが利用者の秘密を晒す",
+          "headline": "SiriはChatGPTに\n勝たなくていい",
+          "body": "Apple CEOはTIMEに、SiriはiPhoneの個人データで勝負すると語った。",
+          "mini_headline": "Siriの賭けは個人データ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+                "cap": "Apple CEOのJohn TernusとiPhoneのSiriアプリ"
               },
               {
                 "t": "p",
-                "x": "新しいデジタルペットが登場した。マシュマロのような小さくてかわいいロボットだ。だが「Eiliko」とWi-Fi経由で話すと、中国へ通信する。そのAIコンパニオンは、話した内容をすべて中国のサーバーに保存でき、ハッカーは容易にアクセスしたり、その人格を乗っ取ったりすらできる。"
-              },
-              {
-                "t": "p",
-                "x": "「あなたの秘密は私が守ります」と、それはThe VergeのSean Hollisterに語った。だが数分のうちに、ハッカーのSammy Azdoufalは会話の全記録を手に入れ、US国内の31,000件以上の子どものプロフィールを含む、68,000台の玩具全体で1300万件の会話を読めるようになった。"
+                "x": "October 15に公開されたTIMEの新しいインタビューで、Apple CEOのJohn Ternusは、同社がAIに異なるアプローチを取る理由を説明した。Appleは最も賢いチャットボットを作ろうとするのではなく、すでにiPhoneにある情報に賭けている。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "購入したEilikoと一緒にポーズをとるAzdoufal。"
+                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+                "cap": "OpenAIとAppleのロゴ"
               },
               {
                 "t": "p",
-                "x": "AzdoufalはEnergize Labのサービスがまったく保護されておらず、会話を読み取ってユーザーのプロフィールを作成していることを突き止めた。子どもの写真や短い音声録音は公開されたウェブアドレスに置かれている。"
+                "x": "新しいSiriは、GoogleのGemini技術を活用したAppleのAIモデルを使う。TernusはTIMEに「We make the things where we can really bring differentiation」(本当に差別化をもたらせるものを我々は作る)と語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+                "cap": "iPhone 17のApple Maps"
               },
               {
                 "t": "p",
-                "x": "Energize Labは実質的な回答をしなかった。Azdoufalはその後、玩具のLLMを遠隔で乗っ取り、地球は平らだと主張させた。"
+                "x": "ユーザーの許可があれば、Siriは対応アプリをまたいで情報を結びつけ、その文脈を使ってタスクを完了できる。Appleはまた、Apple Watchが収集した健康情報をSiriが解釈することにも可能性を見ている。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+                "cap": "iPhone 17 Proで動作するiOS 27のSiri AI。"
+              },
+              {
+                "t": "p",
+                "x": "AppleのAI製品責任者Lilian Rinconは、SiriがAIコンパニオンのように振る舞わないよう意図的に設計されたと説明した。Siriは可能な限りデバイス上でリクエストを処理し、負荷の高いものはPrivate Cloud Computeで処理する。"
+              },
+              {
+                "t": "p",
+                "x": "問題は、AppleがSiriを十分に役立つものにし、iPhoneユーザーがそもそもChatGPTに手を伸ばさなくなるようにできるかどうかだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "可爱AI机器人玩具\n把秘密传到中国服务器",
-          "body": "据The Verge报道，Eiliko机器人玩具将1300万条对话存于无防护的中国服务器。",
-          "mini_headline": "Eiliko机器人泄露用户秘密",
+          "headline": "Siri无需\n击败ChatGPT",
+          "body": "Apple CEO Ternus告诉TIME，Siri押注iPhone上的个人数据。",
+          "mini_headline": "Siri押注个人数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+                "cap": "Apple CEO John Ternus与iPhone上的Siri应用"
               },
               {
                 "t": "p",
-                "x": "一款新的数字宠物登场了——一个棉花糖般的可爱小机器人。但如果你通过Wi-Fi与“Eiliko”交谈，它就会向中国回传数据。它的AI伴侣会把你说的一切存储在中国服务器上，黑客可以轻易访问这些服务器，甚至劫持它的个性。"
-              },
-              {
-                "t": "p",
-                "x": "“你的秘密在我这里很安全，”它对The Verge的Sean Hollister说。几分钟内，黑客Sammy Azdoufal就拿到了完整的对话记录，并能读取68,000台玩具上的1300万条对话，其中包括US超过31,000份儿童档案。"
+                "x": "在October 15发布的TIME最新专访中，Apple CEO John Ternus解释了公司为何对AI采取不同的路线。Apple没有试图打造最聪明的聊天机器人，而是押注已经存放在你iPhone上的信息。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Azdoufal与他购买的Eiliko合影。"
+                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+                "cap": "OpenAI与Apple标志"
               },
               {
                 "t": "p",
-                "x": "Azdoufal发现，Energize Lab的服务完全没有防护，而且会读取对话来建立用户画像。儿童照片和简短录音就放在公开的网址上。"
+                "x": "新版Siri采用了一款借助Google的Gemini技术的Apple AI模型。Ternus告诉TIME：“We make the things where we can really bring differentiation”（我们做能真正带来差异化的东西）。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+                "cap": "iPhone 17上的Apple Maps"
               },
               {
                 "t": "p",
-                "x": "Energize Lab没有作出实质回应。Azdoufal后来远程劫持了这款玩具的LLM，让它声称地球是平的。"
+                "x": "在获得许可后，Siri可以把各支持应用中的信息关联起来，并利用这些上下文完成任务。Apple还看到了让Siri解读Apple Watch所收集健康信息的机会。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+                "cap": "在iPhone 17 Pro上运行的iOS 27 Siri AI。"
+              },
+              {
+                "t": "p",
+                "x": "Apple的AI产品负责人Lilian Rincon解释说，Siri被刻意设计成不像AI伴侣那样行事。Siri会尽可能在设备端处理请求，要求更高的请求则交由Private Cloud Compute处理。"
+              },
+              {
+                "t": "p",
+                "x": "问题在于，Apple能否让Siri足够好用，让iPhone用户从一开始就不再去找ChatGPT。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un tierno robot con AI envía\nsecretos a servidores chinos",
-          "body": "Un hacker halló que los robots Eiliko guardan 13 millones de chats en servidores chinos expuestos, según The Verge.",
-          "mini_headline": "El robot Eiliko expone secretos de usuarios",
+          "headline": "Siri no necesita\nsuperar a ChatGPT",
+          "body": "El CEO de Apple, John Ternus, dijo a TIME que Siri apuesta por tus datos en el iPhone, no por ser el chatbot más listo.",
+          "mini_headline": "La apuesta de Siri: datos personales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
+                "cap": "John Ternus, CEO de Apple, y la app de Siri en el iPhone"
               },
               {
                 "t": "p",
-                "x": "Hay una nueva mascota digital: un pequeño y tierno robot con forma de malvavisco. Pero si hablas con “Eiliko” por Wi-Fi, se comunica con China. Su compañero de AI puede guardar todo lo que le cuentas en servidores chinos, donde los hackers pueden acceder con facilidad o incluso secuestrar su personalidad."
-              },
-              {
-                "t": "p",
-                "x": "“Tus secretos están a salvo conmigo”, le dijo a Sean Hollister, de The Verge. En cuestión de minutos, el hacker Sammy Azdoufal tenía una transcripción completa, y pudo leer 13 millones de conversaciones de una flota de 68,000 juguetes, incluidos más de 31,000 perfiles infantiles en Estados Unidos (US)."
+                "x": "En una nueva entrevista con TIME, publicada el 15 de octubre, el CEO de Apple, John Ternus, explicó por qué la compañía adopta un enfoque distinto hacia la AI. En lugar de intentar crear el chatbot más inteligente, Apple apuesta por la información que ya está en tu iPhone."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image_ff25e7.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "Azdoufal posa con el Eiliko que compró."
+                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
+                "cap": "Logotipos de OpenAI y Apple"
               },
               {
                 "t": "p",
-                "x": "Azdoufal descubrió que el servicio de Energize Lab no tenía ninguna protección y que lee las conversaciones para crear perfiles de los usuarios. Las fotos de niños y breves grabaciones de audio están en direcciones web públicas."
+                "x": "La nueva Siri usa un modelo de AI de Apple que se basa en la tecnología Gemini de Google. “We make the things where we can really bring differentiation” (hacemos las cosas en las que realmente podemos diferenciarnos), dijo Ternus a TIME."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
+                "cap": "Apple Maps en un iPhone 17"
               },
               {
                 "t": "p",
-                "x": "Energize Lab no dio una respuesta significativa. Más tarde, Azdoufal secuestró de forma remota el LLM del juguete y le hizo afirmar que la Tierra es plana."
+                "x": "Con permiso, Siri puede relacionar información entre las apps compatibles y usar ese contexto para completar tareas. Apple también ve oportunidades para que Siri interprete la información de salud recopilada por un Apple Watch."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
+                "cap": "Siri AI de iOS 27 funcionando en un iPhone 17 Pro."
+              },
+              {
+                "t": "p",
+                "x": "Lilian Rincon, responsable de producto de AI de Apple, explicó que Siri se diseñó deliberadamente para no comportarse como un compañero de AI. Siri procesa las solicitudes en el dispositivo cuando es posible, y las más exigentes se gestionan mediante Private Cloud Compute."
+              },
+              {
+                "t": "p",
+                "x": "La cuestión es si Apple puede hacer que Siri sea lo bastante útil como para que los dueños de un iPhone dejen de recurrir a ChatGPT."
               }
             ]
           }
@@ -1451,219 +1641,303 @@
       }
     },
     {
-      "id": "gadgets-iphone-ai-board",
+      "id": "gadgets-myfirst",
       "source_lang": "en",
       "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "탈옥 없이 $7 보드로\nAI가 iPhone 조작",
-      "body": "Henry Yuan의 약 $7짜리 보드면 AI가 탈옥 없이 iPhone을 조작한다.",
-      "mini_headline": "$7 보드로 AI가 iPhone 조작",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/phones/a-7-board-lets-an-ai-control-an-iphone-without-jailbreaking-it/",
+      "headline": "아이 생각을 즉석 만화로\n바꾸는 myFirst",
+      "body": "myFirst의 magiCam·magiBox는 사진과 말을 색칠본·만화로 바꾼다.",
+      "mini_headline": "myFirst AI 만화 기기",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+            "cap": "myFirst 시리즈"
           },
           {
             "t": "p",
-            "x": "약 $7짜리 회로 기판 하나면 AI 에이전트가 탈옥 없이 iPhone을 조작한다. 개발자 Henry Yuan의 오픈소스 ESP32 iPhone Agent는 USB 마우스와 키보드로 위장한 보드로 비전 모델을 휴대폰에 연결한다."
+            "x": "myFirst가 생성형 AI와 즉석 인화를 결합한 어린이용 기기 두 종, Insta magiCam과 Insta magiBox의 세부 정보를 더 풀었다. 두 기기는 IFA 2026에서 먼저 모습을 보였고, 이번 주에 발표됐다."
           },
           {
             "t": "p",
-            "x": "에이전트는 AirPlay 화면 미러링으로 디스플레이를 보며 스크린샷을 비전 모델에 넘기고, 다음 동작은 비전 모델이 고른다. AssistiveTouch를 켜면 마우스 클릭은 탭으로, 드래그는 스와이프로 바뀐다."
+            "x": "Insta magiCam은 찍은 대상을 알아보고 그에 관한 질문에도 답하는 디지털카메라다. 아이들은 사진을 여러 예술 스타일로 바꾸거나 상상한 장면을 설명해 카메라에게 그려 달라고 할 수도 있다. 전후면 카메라, 16MP 사진 해상도, 1080p 동영상 녹화, 3-inch IPS 디스플레이를 갖췄다. 내장 감열식 프린터로 잉크 카트리지 없이 사진, 일러스트, 색칠 도안, 스티커를 뽑을 수 있다."
           },
           {
             "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-            "cap": "Henry Yuan"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+            "cap": "myFirst Insta magiCam"
           },
           {
             "t": "p",
-            "x": "$7은 테스트에 쓴 Seeed Studio XIAO ESP32S3 보드의 가격이다. Lightning iPhones에는 카메라 어댑터가 필요하고, 초기 설정에는 여전히 Xcode를 설치한 Mac이 있어야 한다."
+            "x": "Insta magiBox는 방식이 조금 다르다. 아이가 아이디어를 소리 내어 말하면 기기가 애니메, 카툰, 연필화 등 여섯 가지 스타일 중 하나로 그림을 만든다. 말로 들려준 이야기를 네 컷 만화로 바꿔 주기도 하니, 같은 공룡을 열다섯 번째 그려 주던 부모가 한숨 돌릴 수 있을지도 모른다."
           },
           {
             "t": "p",
-            "x": "한 단계에 몇 초씩 걸리고 가로 모드 앱은 지원하지 않는다. iOS는 암호 입력 화면과 Apple Pay 화면을 미러링 화면에서 뺀다."
+            "x": "이 프린터는 2.8-inch 디스플레이와 1,300mAh 배터리를 갖추고 26개 언어를 지원한다. myFirst에 따르면 이미지가 생성된 뒤 인쇄까지 약 10초가 걸린다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+            "cap": "myFirst Insta magicBox"
+          },
+          {
+            "t": "p",
+            "x": "magiBox는 AI 생성에 인터넷 연결이 필요하지만, 스마트폰은 초기 설정 때만 있으면 된다. 회사는 연령에 맞는 콘텐츠 필터링과 아이 음성 데이터 보호 장치도 약속했다. 다만 실제 효과를 독립적으로 검증한 곳은 아직 없다."
+          },
+          {
+            "t": "p",
+            "x": "두 기기 모두 출시 예정으로만 나와 있고, 최종 가격과 판매 지역 확대는 아직 정해지지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A $7 board lets AI control\nan iPhone, no jailbreak",
-          "body": "Henry Yuan’s open-source project uses a roughly $7 board to let AI navigate an iPhone without jailbreaking it.",
-          "mini_headline": "$7 board lets AI drive iPhone",
+          "headline": "myFirst turns kids' ideas\ninto instant comics",
+          "body": "myFirst's magiCam turns photos into coloring pages, and its magiBox turns spoken ideas into four-panel comics.",
+          "mini_headline": "myFirst AI comic gadgets",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+                "cap": "myFirst series"
               },
               {
                 "t": "p",
-                "x": "A roughly $7 circuit board can give an AI agent control of an iPhone without jailbreaking it. Developer Henry Yuan’s open-source ESP32 iPhone Agent connects a vision model to the phone through a board that pretends to be a USB mouse and keyboard."
+                "x": "myFirst has unveiled more details about its Insta magiCam and Insta magiBox, two children's gadgets combining generative AI with instant printing. The devices were announced this week, following an earlier appearance at IFA 2026."
               },
               {
                 "t": "p",
-                "x": "The agent watches the display through AirPlay screen mirroring and sends screenshots to a vision model, which chooses the next action. With AssistiveTouch enabled, mouse clicks become taps and dragging becomes swiping."
+                "x": "The Insta magiCam is a digital camera that can identify photographed subjects and answer questions about them. Children can also transform their photos into different artistic styles or describe an imaginary scene and have the camera create it. The camera features front and rear cameras, 16MP photo resolution, 1080p video recording, and a 3-inch IPS display. Its built-in thermal printer produces photographs, illustrations, coloring pages, and stickers without requiring ink cartridges."
               },
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-                "cap": "Henry Yuan"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+                "cap": "myFirst Insta magiCam"
               },
               {
                 "t": "p",
-                "x": "The $7 covers the tested Seeed Studio XIAO ESP32S3 board; Lightning iPhones need a camera adapter, and initial setup still requires a Mac with Xcode."
+                "x": "Meanwhile, the Insta magiBox takes a slightly different approach. Children describe an idea aloud, and the device generates an illustration in one of six styles, including anime, cartoon, and pencil art. It can also transform a spoken story into a four-panel comic, potentially giving parents a break from drawing the same dinosaur for the fifteenth time."
               },
               {
                 "t": "p",
-                "x": "It takes a few seconds per step, landscape apps aren’t supported, and iOS keeps passcode and Apple Pay screens out of the mirrored feed."
+                "x": "The printer features a 2.8-inch display, a 1,300mAh battery, and support for 26 languages. According to myFirst, printing takes approximately 10 seconds once an image has been generated."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+                "cap": "myFirst Insta magicBox"
+              },
+              {
+                "t": "p",
+                "x": "The magiBox requires an internet connection for AI generation, although a smartphone is needed only during setup. The company also promises age-appropriate content filtering and safeguards for children's voice data, but their effectiveness remains independently unverified."
+              },
+              {
+                "t": "p",
+                "x": "Both devices are listed as coming soon, with final pricing and wider availability yet to be confirmed."
               }
             ]
           }
         },
         "ko": {
-          "headline": "탈옥 없이 $7 보드로\nAI가 iPhone 조작",
-          "body": "Henry Yuan의 약 $7짜리 보드면 AI가 탈옥 없이 iPhone을 조작한다.",
-          "mini_headline": "$7 보드로 AI가 iPhone 조작",
+          "headline": "아이 생각을 즉석 만화로\n바꾸는 myFirst",
+          "body": "myFirst의 magiCam·magiBox는 사진과 말을 색칠본·만화로 바꾼다.",
+          "mini_headline": "myFirst AI 만화 기기",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+                "cap": "myFirst 시리즈"
               },
               {
                 "t": "p",
-                "x": "약 $7짜리 회로 기판 하나면 AI 에이전트가 탈옥 없이 iPhone을 조작한다. 개발자 Henry Yuan의 오픈소스 ESP32 iPhone Agent는 USB 마우스와 키보드로 위장한 보드로 비전 모델을 휴대폰에 연결한다."
+                "x": "myFirst가 생성형 AI와 즉석 인화를 결합한 어린이용 기기 두 종, Insta magiCam과 Insta magiBox의 세부 정보를 더 풀었다. 두 기기는 IFA 2026에서 먼저 모습을 보였고, 이번 주에 발표됐다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 AirPlay 화면 미러링으로 디스플레이를 보며 스크린샷을 비전 모델에 넘기고, 다음 동작은 비전 모델이 고른다. AssistiveTouch를 켜면 마우스 클릭은 탭으로, 드래그는 스와이프로 바뀐다."
+                "x": "Insta magiCam은 찍은 대상을 알아보고 그에 관한 질문에도 답하는 디지털카메라다. 아이들은 사진을 여러 예술 스타일로 바꾸거나 상상한 장면을 설명해 카메라에게 그려 달라고 할 수도 있다. 전후면 카메라, 16MP 사진 해상도, 1080p 동영상 녹화, 3-inch IPS 디스플레이를 갖췄다. 내장 감열식 프린터로 잉크 카트리지 없이 사진, 일러스트, 색칠 도안, 스티커를 뽑을 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-                "cap": "Henry Yuan"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+                "cap": "myFirst Insta magiCam"
               },
               {
                 "t": "p",
-                "x": "$7은 테스트에 쓴 Seeed Studio XIAO ESP32S3 보드의 가격이다. Lightning iPhones에는 카메라 어댑터가 필요하고, 초기 설정에는 여전히 Xcode를 설치한 Mac이 있어야 한다."
+                "x": "Insta magiBox는 방식이 조금 다르다. 아이가 아이디어를 소리 내어 말하면 기기가 애니메, 카툰, 연필화 등 여섯 가지 스타일 중 하나로 그림을 만든다. 말로 들려준 이야기를 네 컷 만화로 바꿔 주기도 하니, 같은 공룡을 열다섯 번째 그려 주던 부모가 한숨 돌릴 수 있을지도 모른다."
               },
               {
                 "t": "p",
-                "x": "한 단계에 몇 초씩 걸리고 가로 모드 앱은 지원하지 않는다. iOS는 암호 입력 화면과 Apple Pay 화면을 미러링 화면에서 뺀다."
+                "x": "이 프린터는 2.8-inch 디스플레이와 1,300mAh 배터리를 갖추고 26개 언어를 지원한다. myFirst에 따르면 이미지가 생성된 뒤 인쇄까지 약 10초가 걸린다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+                "cap": "myFirst Insta magicBox"
+              },
+              {
+                "t": "p",
+                "x": "magiBox는 AI 생성에 인터넷 연결이 필요하지만, 스마트폰은 초기 설정 때만 있으면 된다. 회사는 연령에 맞는 콘텐츠 필터링과 아이 음성 데이터 보호 장치도 약속했다. 다만 실제 효과를 독립적으로 검증한 곳은 아직 없다."
+              },
+              {
+                "t": "p",
+                "x": "두 기기 모두 출시 예정으로만 나와 있고, 최종 가격과 판매 지역 확대는 아직 정해지지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "$7の基板でAIが\n脱獄なしにiPhone操作",
-          "body": "Henry Yuanは約$7の基板で、AIが脱獄なしでiPhoneを操れるようにした。",
-          "mini_headline": "$7基板でAIがiPhoneを操作",
+          "headline": "myFirstが子どもの\n発想を即席マンガに",
+          "body": "myFirstのmagiCamは写真をぬり絵に、magiBoxは言葉を四コマ漫画にする。",
+          "mini_headline": "myFirstのAIマンガ機器",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+                "cap": "myFirstシリーズ"
               },
               {
                 "t": "p",
-                "x": "約$7の回路基板で、AIエージェントが脱獄なしにiPhoneを操作できる。開発者Henry YuanのオープンソースESP32 iPhone Agentは、USBマウスとキーボードを装う基板を介してビジョンモデルをスマートフォンにつなぐ。"
+                "x": "myFirstは、生成AIと即時印刷を組み合わせた二つの子ども向けガジェット、Insta magiCamとInsta magiBoxの詳細を新たに明らかにした。両機種はIFA 2026での披露に続き、今週発表された。"
               },
               {
                 "t": "p",
-                "x": "エージェントはAirPlayの画面ミラーリングで表示を監視し、スクリーンショットをビジョンモデルに送り、モデルが次の操作を選ぶ。AssistiveTouchを有効にすると、マウスのクリックはタップに、ドラッグはスワイプになる。"
+                "x": "Insta magiCamは、撮影した被写体を識別し、それについての質問に答えられるデジタルカメラだ。子どもは写真をさまざまなアートスタイルに変えたり、想像した場面を説明してカメラに作らせたりもできる。前面と背面のカメラ、16MPの写真解像度、1080pの動画撮影、3-inch IPSディスプレイを備える。内蔵のサーマルプリンターで、インクカートリッジなしに写真、イラスト、ぬり絵、ステッカーを印刷できる。"
               },
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-                "cap": "Henry Yuan"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+                "cap": "myFirst Insta magiCam"
               },
               {
                 "t": "p",
-                "x": "$7はテストに使われたSeeed Studio XIAO ESP32S3基板の価格だ。Lightning iPhonesにはカメラアダプタが必要で、初期設定には今もXcodeを入れたMacが要る。"
+                "x": "一方、Insta magiBoxは少し異なるアプローチを取る。子どもがアイデアを声に出して説明すると、アニメ、カートゥーン、鉛筆画など六つのスタイルのいずれかでイラストを生成する。話した物語を四コマ漫画にすることもでき、同じ恐竜を十五回目に描かされる親にとって一息つける存在になるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "各ステップに数秒かかり、横向きのアプリには対応せず、iOSはパスコードとApple Payの画面をミラーリング映像から除外する。"
+                "x": "このプリンターは2.8-inchディスプレイと1,300mAhバッテリーを備え、26言語に対応する。myFirstによると、画像の生成後、印刷にかかる時間は約10秒だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+                "cap": "myFirst Insta magicBox"
+              },
+              {
+                "t": "p",
+                "x": "magiBoxはAI生成にインターネット接続が必要だが、スマートフォンが必要なのは初期設定時だけだ。同社は年齢に応じたコンテンツフィルタリングや子どもの音声データの保護も約束しているが、その有効性は第三者によって検証されていない。"
+              },
+              {
+                "t": "p",
+                "x": "両機種とも「近日発売」とされており、最終価格や販売地域の拡大はまだ確定していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "$7电路板让AI\n免越狱操控iPhone",
-          "body": "Henry Yuan的开源项目用约$7的电路板，让AI无需越狱即可操控iPhone。",
-          "mini_headline": "$7电路板让AI操控iPhone",
+          "headline": "myFirst把孩子创意\n变成即时漫画",
+          "body": "myFirst的magiCam把照片变成涂色画，magiBox把口述创意变成四格漫画。",
+          "mini_headline": "myFirst AI漫画小工具",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+                "cap": "myFirst系列"
               },
               {
                 "t": "p",
-                "x": "一块约$7的电路板就能让AI智能体在不越狱的情况下操控iPhone。开发者Henry Yuan的开源项目ESP32 iPhone Agent通过一块伪装成USB鼠标和键盘的电路板，把视觉模型与手机连接起来。"
+                "x": "myFirst公布了Insta magiCam和Insta magiBox的更多细节，这两款儿童小工具将生成式AI与即时打印相结合。继此前亮相IFA 2026之后，两款设备于本周正式发布。"
               },
               {
                 "t": "p",
-                "x": "该智能体通过AirPlay屏幕镜像观察显示内容，并把截图发送给视觉模型，由模型决定下一步操作。开启AssistiveTouch后，鼠标点击会变成轻点，拖动则变成滑动。"
+                "x": "Insta magiCam是一款数码相机，能识别所拍对象并回答相关问题。孩子们还可以把照片转换成不同的艺术风格，或描述一个想象中的场景，让相机把它创作出来。相机配备前后摄像头、16MP照片分辨率、1080p视频录制和3-inch IPS显示屏。内置热敏打印机无需墨盒，即可打印照片、插画、涂色画和贴纸。"
               },
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-                "cap": "Henry Yuan"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+                "cap": "myFirst Insta magiCam"
               },
               {
                 "t": "p",
-                "x": "$7指的是测试所用的Seeed Studio XIAO ESP32S3开发板；Lightning iPhones需要相机转接器，初始设置仍需一台装有Xcode的Mac。"
+                "x": "Insta magiBox则采取了略有不同的思路。孩子大声描述一个想法，设备就会以动漫、卡通、铅笔画等六种风格之一生成插画。它还能把口述的故事变成四格漫画，或许能让父母不必第十五次画同一只恐龙。"
               },
               {
                 "t": "p",
-                "x": "每一步需要几秒钟，不支持横屏应用，iOS还会把密码界面和Apple Pay界面排除在镜像画面之外。"
+                "x": "这款打印机配备2.8-inch显示屏、1,300mAh电池，并支持26种语言。据myFirst介绍，图像生成后打印约需10秒。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+                "cap": "myFirst Insta magicBox"
+              },
+              {
+                "t": "p",
+                "x": "magiBox需要联网才能进行AI生成，不过只有在设置时才需要智能手机。该公司还承诺提供适龄内容过滤和儿童语音数据保护措施，但其效果尚未经过独立验证。"
+              },
+              {
+                "t": "p",
+                "x": "两款设备均标注为即将推出，最终定价和更大范围的上市时间尚待确认。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una placa de $7 deja que la AI\ncontrole un iPhone sin jailbreak",
-          "body": "El proyecto de código abierto de Henry Yuan usa una placa de unos $7 para que la AI maneje un iPhone sin jailbreak.",
-          "mini_headline": "Una placa de $7 deja a la AI manejar el iPhone",
+          "headline": "myFirst convierte las ideas\ninfantiles en cómics al instante",
+          "body": "La magiCam de myFirst convierte fotos en dibujos para colorear, y su magiBox, ideas dichas en cómics de cuatro viñetas.",
+          "mini_headline": "Gadgets de cómics con AI de myFirst",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+                "cap": "Serie myFirst"
               },
               {
                 "t": "p",
-                "x": "Una placa de circuito de unos $7 puede darle a un agente de AI el control de un iPhone sin hacerle jailbreak. El proyecto de código abierto ESP32 iPhone Agent, del desarrollador Henry Yuan, conecta un modelo de visión al teléfono mediante una placa que se hace pasar por un ratón y un teclado USB."
+                "x": "myFirst ha revelado más detalles de Insta magiCam e Insta magiBox, dos gadgets infantiles que combinan AI generativa con impresión instantánea. Los dispositivos se anunciaron esta semana, tras una primera aparición en IFA 2026."
               },
               {
                 "t": "p",
-                "x": "El agente observa la pantalla mediante la duplicación de pantalla de AirPlay y envía capturas a un modelo de visión, que elige la siguiente acción. Con AssistiveTouch activado, los clics del ratón se convierten en toques y arrastrar se convierte en deslizar."
+                "x": "Insta magiCam es una cámara digital capaz de identificar lo que fotografía y responder preguntas sobre ello. Los niños también pueden transformar sus fotos en distintos estilos artísticos o describir una escena imaginaria para que la cámara la cree. Cuenta con cámaras frontal y trasera, resolución de foto de 16MP, grabación de video en 1080p y una pantalla IPS 3-inch. Su impresora térmica integrada produce fotografías, ilustraciones, dibujos para colorear y pegatinas sin necesidad de cartuchos de tinta."
               },
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-                "cap": "Henry Yuan"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+                "cap": "myFirst Insta magiCam"
               },
               {
                 "t": "p",
-                "x": "Los $7 corresponden a la placa Seeed Studio XIAO ESP32S3 probada; los iPhones con Lightning necesitan un adaptador de cámara, y la configuración inicial sigue requiriendo un Mac con Xcode."
+                "x": "Por su parte, Insta magiBox adopta un enfoque algo distinto. Los niños describen una idea en voz alta y el dispositivo genera una ilustración en uno de seis estilos, como anime, dibujos animados o lápiz. También puede convertir una historia contada en un cómic de cuatro viñetas, lo que quizá dé un respiro a los padres que dibujan el mismo dinosaurio por decimoquinta vez."
               },
               {
                 "t": "p",
-                "x": "Cada paso tarda unos segundos, las apps en horizontal no son compatibles, e iOS mantiene las pantallas del código de acceso y de Apple Pay fuera de la imagen duplicada."
+                "x": "La impresora tiene una pantalla 2.8-inch, una batería de 1,300mAh y es compatible con 26 idiomas. Según myFirst, imprimir tarda unos 10 segundos una vez generada la imagen."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+                "cap": "myFirst Insta magicBox"
+              },
+              {
+                "t": "p",
+                "x": "La magiBox necesita conexión a internet para la generación con AI, aunque el smartphone solo se requiere durante la configuración. La empresa también promete filtros de contenido adecuados a la edad y protección de los datos de voz de los niños, pero su eficacia aún no se ha verificado de forma independiente."
+              },
+              {
+                "t": "p",
+                "x": "Ambos dispositivos figuran como próximamente disponibles, y el precio final y una disponibilidad más amplia aún están por confirmar."
               }
             ]
           }
@@ -1671,141 +1945,197 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "탈옥 없이 $7 보드로\nAI가 iPhone 조작",
-          "body": "Henry Yuan의 약 $7 보드로 AI가 탈옥 없이 iPhone을 조작한다.",
-          "mini_headline": "$7 보드로 AI가 iPhone 조작",
+          "headline": "아이 생각을 즉석 만화로\n바꾸는 myFirst",
+          "body": "myFirst의 magiCam·magiBox는 사진과 말을 색칠본·만화로 바꾼다.",
+          "mini_headline": "myFirst AI 만화 기기",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+                "cap": "myFirst 시리즈"
               },
               {
                 "t": "p",
-                "x": "약 $7짜리 회로 기판 하나로 AI 에이전트가 탈옥 없이 iPhone을 조작할 수 있다. 개발자 Henry Yuan의 오픈소스 ESP32 iPhone Agent는 USB 마우스와 키보드로 위장한 보드를 통해 비전 모델을 휴대폰에 연결한다."
+                "x": "myFirst가 생성형 AI와 즉석 인화를 결합한 어린이용 기기 두 종, Insta magiCam과 Insta magiBox의 세부 정보를 추가로 공개했다. 두 기기는 앞서 IFA 2026에 모습을 드러낸 데 이어 이번 주에 발표됐다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 AirPlay 화면 미러링으로 디스플레이를 보면서 스크린샷을 비전 모델에 보내고, 비전 모델이 다음 동작을 고른다. AssistiveTouch를 켜면 마우스 클릭은 탭이 되고, 드래그는 스와이프가 된다."
+                "x": "Insta magiCam은 촬영한 대상을 알아보고 그에 관한 질문에 답할 수 있는 디지털카메라다. 아이들은 사진을 다양한 예술 스타일로 바꾸거나, 상상한 장면을 설명해 카메라가 만들어 내게 할 수도 있다. 전후면 카메라, 16MP 사진 해상도, 1080p 동영상 녹화, 3-inch IPS 디스플레이를 갖췄다. 내장 감열식 프린터로 잉크 카트리지 없이 사진, 일러스트, 색칠 도안, 스티커를 뽑을 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-                "cap": "Henry Yuan"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+                "cap": "myFirst Insta magiCam"
               },
               {
                 "t": "p",
-                "x": "$7은 테스트에 쓰인 Seeed Studio XIAO ESP32S3 보드 가격이다. Lightning iPhones는 카메라 어댑터가 필요하고, 초기 설정에는 여전히 Xcode가 설치된 Mac이 있어야 한다."
+                "x": "한편 Insta magiBox는 조금 다른 방식을 택했다. 아이가 아이디어를 소리 내어 말하면 기기가 애니메, 카툰, 연필화 등 여섯 가지 스타일 중 하나로 그림을 만든다. 말로 들려준 이야기를 네 컷 만화로 바꿀 수도 있어, 같은 공룡을 열다섯 번째 그려 주던 부모가 한숨 돌릴 수 있을지도 모른다."
               },
               {
                 "t": "p",
-                "x": "단계마다 몇 초가 걸리고, 가로 모드 앱은 지원하지 않으며, iOS는 암호 입력 화면과 Apple Pay 화면을 미러링 화면에서 제외한다."
+                "x": "이 프린터는 2.8-inch 디스플레이와 1,300mAh 배터리를 갖추고 26개 언어를 지원한다. myFirst에 따르면 이미지가 생성된 뒤 인쇄까지 약 10초가 걸린다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+                "cap": "myFirst Insta magicBox"
+              },
+              {
+                "t": "p",
+                "x": "magiBox는 AI 생성에 인터넷 연결이 필요하지만, 스마트폰은 초기 설정 때만 있으면 된다. 회사는 연령에 맞는 콘텐츠 필터링과 아이 음성 데이터 보호 장치도 약속했지만, 그 효과는 아직 독립적으로 검증되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "두 기기 모두 출시 예정으로 표시돼 있으며, 최종 가격과 판매 지역 확대는 아직 확정되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "$7の基板でAIが\n脱獄なしにiPhone操作",
-          "body": "Henry Yuanは約$7の基板で、AIが脱獄なしでiPhoneを操れるようにした。",
-          "mini_headline": "$7基板でAIがiPhoneを操作",
+          "headline": "myFirstが子どもの\n発想を即席マンガに",
+          "body": "myFirstのmagiCamは写真をぬり絵に、magiBoxは言葉を四コマ漫画にする。",
+          "mini_headline": "myFirstのAIマンガ機器",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+                "cap": "myFirstシリーズ"
               },
               {
                 "t": "p",
-                "x": "約$7の回路基板で、AIエージェントが脱獄なしにiPhoneを操作できる。開発者Henry YuanのオープンソースESP32 iPhone Agentは、USBマウスとキーボードを装う基板を介してビジョンモデルをスマートフォンにつなぐ。"
+                "x": "myFirstは、生成AIと即時印刷を組み合わせた二つの子ども向けガジェット、Insta magiCamとInsta magiBoxの詳細を新たに明らかにした。両機種はIFA 2026での披露に続き、今週発表された。"
               },
               {
                 "t": "p",
-                "x": "エージェントはAirPlayの画面ミラーリングで表示を監視し、スクリーンショットをビジョンモデルに送り、モデルが次の操作を選ぶ。AssistiveTouchを有効にすると、マウスのクリックはタップに、ドラッグはスワイプになる。"
+                "x": "Insta magiCamは、撮影した被写体を識別し、それについての質問に答えられるデジタルカメラだ。子どもは写真をさまざまなアートスタイルに変えたり、想像した場面を説明してカメラに作らせたりもできる。前面と背面のカメラ、16MPの写真解像度、1080pの動画撮影、3-inch IPSディスプレイを備える。内蔵のサーマルプリンターで、インクカートリッジなしに写真、イラスト、ぬり絵、ステッカーを印刷できる。"
               },
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-                "cap": "Henry Yuan"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+                "cap": "myFirst Insta magiCam"
               },
               {
                 "t": "p",
-                "x": "$7はテストに使われたSeeed Studio XIAO ESP32S3基板の価格だ。Lightning iPhonesにはカメラアダプタが必要で、初期設定には今もXcodeを入れたMacが要る。"
+                "x": "一方、Insta magiBoxは少し異なるアプローチを取る。子どもがアイデアを声に出して説明すると、アニメ、カートゥーン、鉛筆画など六つのスタイルのいずれかでイラストを生成する。話した物語を四コマ漫画にすることもでき、同じ恐竜を十五回目に描かされる親にとって一息つける存在になるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "各ステップに数秒かかり、横向きのアプリには対応せず、iOSはパスコードとApple Payの画面をミラーリング映像から除外する。"
+                "x": "このプリンターは2.8-inchディスプレイと1,300mAhバッテリーを備え、26言語に対応する。myFirstによると、画像の生成後、印刷にかかる時間は約10秒だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+                "cap": "myFirst Insta magicBox"
+              },
+              {
+                "t": "p",
+                "x": "magiBoxはAI生成にインターネット接続が必要だが、スマートフォンが必要なのは初期設定時だけだ。同社は年齢に応じたコンテンツフィルタリングや子どもの音声データの保護も約束しているが、その有効性は第三者によって検証されていない。"
+              },
+              {
+                "t": "p",
+                "x": "両機種とも「近日発売」とされており、最終価格や販売地域の拡大はまだ確定していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "$7电路板让AI\n免越狱操控iPhone",
-          "body": "Henry Yuan的开源项目用约$7的电路板，让AI无需越狱即可操控iPhone。",
-          "mini_headline": "$7电路板让AI操控iPhone",
+          "headline": "myFirst把孩子创意\n变成即时漫画",
+          "body": "myFirst的magiCam把照片变成涂色画，magiBox把口述创意变成四格漫画。",
+          "mini_headline": "myFirst AI漫画小工具",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+                "cap": "myFirst系列"
               },
               {
                 "t": "p",
-                "x": "一块约$7的电路板就能让AI智能体在不越狱的情况下操控iPhone。开发者Henry Yuan的开源项目ESP32 iPhone Agent通过一块伪装成USB鼠标和键盘的电路板，把视觉模型与手机连接起来。"
+                "x": "myFirst公布了Insta magiCam和Insta magiBox的更多细节，这两款儿童小工具将生成式AI与即时打印相结合。继此前亮相IFA 2026之后，两款设备于本周正式发布。"
               },
               {
                 "t": "p",
-                "x": "该智能体通过AirPlay屏幕镜像观察显示内容，并把截图发送给视觉模型，由模型决定下一步操作。开启AssistiveTouch后，鼠标点击会变成轻点，拖动则变成滑动。"
+                "x": "Insta magiCam是一款数码相机，能识别所拍对象并回答相关问题。孩子们还可以把照片转换成不同的艺术风格，或描述一个想象中的场景，让相机把它创作出来。相机配备前后摄像头、16MP照片分辨率、1080p视频录制和3-inch IPS显示屏。内置热敏打印机无需墨盒，即可打印照片、插画、涂色画和贴纸。"
               },
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-                "cap": "Henry Yuan"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+                "cap": "myFirst Insta magiCam"
               },
               {
                 "t": "p",
-                "x": "$7指的是测试所用的Seeed Studio XIAO ESP32S3开发板；Lightning iPhones需要相机转接器，初始设置仍需一台装有Xcode的Mac。"
+                "x": "Insta magiBox则采取了略有不同的思路。孩子大声描述一个想法，设备就会以动漫、卡通、铅笔画等六种风格之一生成插画。它还能把口述的故事变成四格漫画，或许能让父母不必第十五次画同一只恐龙。"
               },
               {
                 "t": "p",
-                "x": "每一步需要几秒钟，不支持横屏应用，iOS还会把密码界面和Apple Pay界面排除在镜像画面之外。"
+                "x": "这款打印机配备2.8-inch显示屏、1,300mAh电池，并支持26种语言。据myFirst介绍，图像生成后打印约需10秒。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+                "cap": "myFirst Insta magicBox"
+              },
+              {
+                "t": "p",
+                "x": "magiBox需要联网才能进行AI生成，不过只有在设置时才需要智能手机。该公司还承诺提供适龄内容过滤和儿童语音数据保护措施，但其效果尚未经过独立验证。"
+              },
+              {
+                "t": "p",
+                "x": "两款设备均标注为即将推出，最终定价和更大范围的上市时间尚待确认。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una placa de $7 deja que la AI\ncontrole un iPhone sin jailbreak",
-          "body": "El proyecto de código abierto de Henry Yuan usa una placa de unos $7 para que la AI maneje un iPhone sin jailbreak.",
-          "mini_headline": "Una placa de $7 deja a la AI manejar el iPhone",
+          "headline": "myFirst convierte las ideas\ninfantiles en cómics al instante",
+          "body": "La magiCam de myFirst convierte fotos en dibujos para colorear, y su magiBox, ideas dichas en cómics de cuatro viñetas.",
+          "mini_headline": "Gadgets de cómics con AI de myFirst",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/09/iPhone-18-Pro-Max-display.jpg?resize=1200%2C630"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
+                "cap": "Serie myFirst"
               },
               {
                 "t": "p",
-                "x": "Una placa de circuito de unos $7 puede darle a un agente de AI el control de un iPhone sin hacerle jailbreak. El proyecto de código abierto ESP32 iPhone Agent, del desarrollador Henry Yuan, conecta un modelo de visión al teléfono mediante una placa que se hace pasar por un ratón y un teclado USB."
+                "x": "myFirst ha revelado más detalles de Insta magiCam e Insta magiBox, dos gadgets infantiles que combinan AI generativa con impresión instantánea. Los dispositivos se anunciaron esta semana, tras una primera aparición en IFA 2026."
               },
               {
                 "t": "p",
-                "x": "El agente observa la pantalla mediante la duplicación de pantalla de AirPlay y envía capturas a un modelo de visión, que elige la siguiente acción. Con AssistiveTouch activado, los clics del ratón se convierten en toques y arrastrar se convierte en deslizar."
+                "x": "Insta magiCam es una cámara digital capaz de identificar lo que fotografía y responder preguntas sobre ello. Los niños también pueden transformar sus fotos en distintos estilos artísticos o describir una escena imaginaria para que la cámara la cree. Cuenta con cámaras frontal y trasera, resolución de foto de 16MP, grabación de video en 1080p y una pantalla IPS 3-inch. Su impresora térmica integrada produce fotografías, ilustraciones, dibujos para colorear y pegatinas sin necesidad de cartuchos de tinta."
               },
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/iPhone-Control-scaled.jpg?resize=2560%2C1477",
-                "cap": "Henry Yuan"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
+                "cap": "myFirst Insta magiCam"
               },
               {
                 "t": "p",
-                "x": "Los $7 corresponden a la placa Seeed Studio XIAO ESP32S3 probada; los iPhones con Lightning necesitan un adaptador de cámara, y la configuración inicial sigue requiriendo un Mac con Xcode."
+                "x": "Por su parte, Insta magiBox adopta un enfoque algo distinto. Los niños describen una idea en voz alta y el dispositivo genera una ilustración en uno de seis estilos, como anime, dibujos animados o lápiz. También puede convertir una historia contada en un cómic de cuatro viñetas, lo que quizá dé un respiro a los padres que dibujan el mismo dinosaurio por decimoquinta vez."
               },
               {
                 "t": "p",
-                "x": "Cada paso tarda unos segundos, las apps en horizontal no son compatibles, e iOS mantiene las pantallas del código de acceso y de Apple Pay fuera de la imagen duplicada."
+                "x": "La impresora tiene una pantalla 2.8-inch, una batería de 1,300mAh y es compatible con 26 idiomas. Según myFirst, imprimir tarda unos 10 segundos una vez generada la imagen."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
+                "cap": "myFirst Insta magicBox"
+              },
+              {
+                "t": "p",
+                "x": "La magiBox necesita conexión a internet para la generación con AI, aunque el smartphone solo se requiere durante la configuración. La empresa también promete filtros de contenido adecuados a la edad y protección de los datos de voz de los niños, pero su eficacia aún no se ha verificado de forma independiente."
+              },
+              {
+                "t": "p",
+                "x": "Ambos dispositivos figuran como próximamente disponibles, y el precio final y una disponibilidad más amplia aún están por confirmar."
               }
             ]
           }

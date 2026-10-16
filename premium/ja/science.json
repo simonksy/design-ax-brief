@@ -8013,6 +8013,148 @@
           "cap": "四段階のパイプラインを示すシステム構成図。"
         }
       ]
+    },
+    "science/science-magnet-patterns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
+          "cap": "ダイヤモンド量子センサーが極薄磁石の上の磁場を走査し、物理に基づく手法がその下に隠れた磁化を再構成する。Credit: Alexander Setescak / University of Vienna"
+        },
+        {
+          "t": "p",
+          "x": "現代の顕微鏡が測れるのは、ナノスケールの磁性材料の外側の磁場だけで、内部の模様ではない。異なる多くの内部模様がまったく同じ磁場を生み得るため、逆算は長年の難題だった。"
+        },
+        {
+          "t": "p",
+          "x": "ウィーン大学（University of Vienna）の物理学者たちは、ドレスデン（Dresden）、シンガポール（Singapore）、蔚山（Ulsan）の共同研究者とともに、物理法則を最新の機械学習手法に直接組み込むことでこの問題を解いた。研究はPhysical Review Lettersに掲載され、ソフトウェアはオープンソースとして無償公開されている。"
+        },
+        {
+          "t": "p",
+          "x": "この物理に基づくアルゴリズムは、測定された磁場と一致しつつ材料の物理的エネルギーを最小にする磁気模様を選び、基本的な物理法則に反する模様は除外する。研究を率いたClaas Abertは「どの解が現実的かは、磁石の物理的エネルギーに決めさせた」と語る。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは、National University of Singapore（シンガポール国立大学）で合成された極薄のFe₃−ₓGaTe₂について、ドレスデンのMax Planck Institute for Chemical Physics of Solids（マックス・プランク固体化学物理研究所）が行ったダイヤモンド窒素空孔センサーの測定データで手法を検証した。ソフトウェアは磁気模様とセンサーの高さを同時に計算し、81ナノメートルという距離を導き出した。"
+        },
+        {
+          "t": "p",
+          "x": "この手法は他の磁気イメージング技術にも応用できる。チームはすでに、複雑な磁性ナノ構造の3D X-rayイメージングへの拡張を進めている。"
+        }
+      ]
+    },
+    "science/science-crypto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
+          "cap": "暗号は、オンラインショッピングからソフトウェア更新、暗号通貨まで、現代生活の広い領域を守っている。Jackreznor / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "先週、OpenAIは722本の数学論文原稿を一度にオンラインへ投じた。いずれも一般には使えないAIモデルが書いたものである。OpenAIは一日のうちに三本を取り下げ、数学者たちは残りをなお精査している。"
+        },
+        {
+          "t": "p",
+          "x": "数学は暗号を支えている。Johns Hopkins Universityの暗号研究者Matthew Greenは、既存の公開鍵暗号アルゴリズムへの信頼が失われる可能性は15パーセントだと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "異論もある。Bar-Ilan UniversityとCoinbaseのYehuda Lindellは、突破口の「証拠は一切ない」とXに書いた。OpenAIの722本のうち暗号を扱った論文は一本もなく、StanfordのDan Bonehはそれを「やや目を引く」と評する。"
+        },
+        {
+          "t": "p",
+          "x": "最近のプレプリントで、ETH ZurichのFlorian Tramèrらは主要なAIモデルを191の暗号解読課題に挑ませた。「モデルの暗号解析能力が極めて急速に伸びているのは、かなりはっきりしている」と彼は言う。それでも「今日、実運用中のアルゴリズムでAIに破られたものはない」とGovind Pimpaleは認める。"
+        },
+        {
+          "t": "p",
+          "x": "KU LeuvenのBart Preneelは「慌てる本当の理由はない」と見る。BonehとGreenは、AI企業が自社モデルで暗号について何を試したのかを明かすことを求めている。"
+        }
+      ]
+    },
+    "science/science-materials": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
+          "cap": "結晶構造と電子構造を同時に設計する生成AIモデルを研究者が開発した。Credit: Institute of Industrial Science, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Institute of Industrial Science, The University of Tokyoの研究者らが、代表的な生成AIモデルを拡張し、材料の電子構造を結晶構造と一緒に設計できるようにした。MatterGen-e⁻と名づけられたこの新しいモデルは、npj Computational Materialsで報告されている。"
+        },
+        {
+          "t": "p",
+          "x": "逆設計では、バンドギャップや生成エネルギーといった目標物性を先に指定し、AIがそれに合う安定な結晶を直接設計する。Microsoft ResearchのMatterGenは原子種・座標・格子から構造を生成するが、限られたデータから物性と構造の相関を学ぶのは難しい。"
+        },
+        {
+          "t": "p",
+          "x": "チームは局所的な電子記述子、すなわちBader電荷と原子ごとの状態密度を加えた。目標とする生成エネルギーとバンドギャップについて、MatterGen-e⁻は有効で安定、かつ固有で新規という条件を同時に満たす構造を、MatterGenより大幅に多く生み出した。"
+        },
+        {
+          "t": "p",
+          "x": "「重要なのは変数の数ではなく、電子情報の質である」と責任著者のTeruyasu Mizoguchiは語る。この手法は表面や界面の生成も改善しうる。"
+        }
+      ]
+    },
+    "science/science-benchmarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
+          "cap": "計算機科学者のMoritz Hardtは、ベンチマークを「機械学習をつくった誤り」と呼ぶ。Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Max Planck Institute for Intelligent Systemsのディレクターを務めるMoritz Hardtも、ベンチマーキングが欠陥を抱えるようになったと認める。「議論の余地はない。ベンチマーキングの生態系は壊れている」。2026年の著書The Emerging Science of Machine Learning Benchmarksで彼は、それでもベンチマークが正当な進歩を生んだと論じる——「ほとんどは純粋な幸運によって」。Quantaは、短く整理し読みやすく編集したインタビューでHardtに話を聞いた。"
+        },
+        {
+          "t": "p",
+          "x": "テストセットが少し変わるだけで絶対的なスコアは動くが、モデル間の順位はデータセットをまたいでもきわめて安定していると彼は言う。機械学習が科学的な危機を免れた主な理由である。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
+          "cap": "AIモデルがベンチマークで得るスコアに大きな意味はない、とHardtは戒める。ただし、モデル同士の比較すなわち順位には意味がある。Jerrit Peinelt for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "LLMsではその安定性が崩れる。モデルが何で学習したのか分からず、作り手はベンチマークの成績を押し上げるデータの配合を組めるからだ。「より良いモデルが必ず勝つ、とはもはや言えない」。"
+        },
+        {
+          "t": "p",
+          "x": "彼の処方箋は「高地トレーニング」である。訓練セットは置かず、テストセットと、テスト前に各モデルを整えるための手順だけを定め、順位の妥当性を取り戻す。"
+        }
+      ]
+    },
+    "science/science-cern-mistral": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://home.cern/wp-content/uploads/2026/10/CERN_Mistral-scaled.png",
+          "cap": "CERNとMistralが科学のためのAI推進で手を組む（画像：CERN / Mistral）"
+        },
+        {
+          "t": "p",
+          "x": "CERNと、大規模AIモデルを開発する欧州のMistralは、科学的発見のための基盤モデル開発に焦点を当てた長期的な戦略的パートナーシップの構築に向け、意向表明書に署名した。"
+        },
+        {
+          "t": "p",
+          "x": "取り組みの中心にあるのは、事前学習済みの単一のLarge Physics Model、すなわち衝突型加速器物理学で初となる基盤モデルを開発するという構想だ。このモデルはCERNの大型ハドロン衝突型加速器（LHC）における陽子・陽子衝突のシミュレーション数十億件で学習し、粒子衝突の再構成や粒子識別から、予期しない信号の検出、将来の検出器設計の評価まで、複数のタスクを支えるよう設計される。"
+        },
+        {
+          "t": "p",
+          "x": "現在、再構成は専門化したアルゴリズムの連鎖に頼っている。基盤モデルには、再構成の全工程を通して学習し、単一のモデルで複数のタスクを担える可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "「高エネルギー物理学は、人工知能を並外れた厳密さで開発・検証できる独自の環境を提供する」と、CERNの最高情報責任者Enrica Porcari氏は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "CERNはこれまでに約1エクサバイトのLHC実験データを保存しており、2030年ごろ稼働予定のHL-LHCでは衝突数が10倍に増える。当初は高エネルギー物理学に焦点を当てるが、この提携はより広い科学コミュニティにAIの手法をもたらす可能性がある。"
+        }
+      ]
     }
   }
 }
