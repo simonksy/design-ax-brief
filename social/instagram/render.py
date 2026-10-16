@@ -435,7 +435,10 @@ def shoot(html, out, transparent=False, size=None):
         cmd.append("--default-background-color=00000000")
     cmd += [f"--window-size={w},{h}", f"--screenshot={out}",
             "--virtual-time-budget=5000", "--allow-file-access-from-files", "file://" + p]
-    subprocess.run(cmd, capture_output=True)
+    # 출력을 파이프로 받지 않는다. 크롬은 끝나면서 crashpad 핸들러를 고아로
+    # 남기는데, 그게 stderr 를 물려받아 40~70초 쥐고 있다 — 파이프로 받으면
+    # 크롬이 이미 죽었어도 그동안 기다린다(render_shoot_test).
+    subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     os.path.exists(p) and os.remove(p)
 
 
