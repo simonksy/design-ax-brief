@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "Siri AI, 집으로 들어오다",
+    "date": "2026.10.18",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "녹화 안 하는 카메라 소문부터 HomeView 예약, CEO 인터뷰까지 Apple이 Siri AI를 집 안 개인 데이터 쪽으로 옮기는 한 흐름이다.",
+    "sources": [
+      "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
+      "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
+      "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+      "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.03~10.17",
+      "thread": [
+        {
+          "d": "10.3",
+          "t": "녹화 없는 캠",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.9",
+          "t": "홈 행사 예고",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.14",
+          "t": "HomeView",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.17",
+          "t": "개인 데이터",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "Apple은 가장 똑똑한 챗봇 대신, 집과 iPhone 속 내 정보를 아는 Siri에 건다.",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "Siri AI가 거실로 들어온다",
+      "body": "카메라 소문, 행사 예고, 새 기기, CEO 인터뷰는 따로 보면 제각각이다. 이어 보면 Apple이 Siri AI의 무대를 집 안으로 옮기고 있다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.03",
+      "headline": "녹화하지 않는 Apple 카메라",
+      "body": "Gurman에 따르면 Apple 홈캠은 영상을 녹화하지 않는다. 센서가 AI로 움직임과 얼굴을 읽고, 사용자에겐 텍스트 설명만 보낸다.",
+      "foot": "2026.10.03",
+      "_src": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
+      "_id": "apple-no-record-home-camera",
+      "media": "pipeline/media/apple-no-record-home-camera.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.09",
+      "headline": "10월 13일, \"Welcome home\"",
+      "body": "Apple이 뉴욕 Tribeca 행사를 예고했다. Gurman은 Apple이 Siri AI가 준비될 때까지 홈 기기 출시를 미뤘다고 전했다.",
+      "foot": "2026.10.09",
+      "_src": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
+      "_id": "gadgets-apple-home-event",
+      "media": "pipeline/media/gadgets-apple-home-event.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.14",
+      "headline": "HomeView, 299달러 예약",
+      "body": "내장 카메라로 쓰는 사람을 알아보고 프로필을 띄운다. Siri 요청은 기기나 Private Cloud Compute에서 처리한다.",
+      "foot": "2026.10.14",
+      "_src": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+      "_id": "gadgets-apple-homeview",
+      "stat_top": "7인치 화면 하나",
+      "stat_arrow": "카메라로 알아보는 가족",
+      "stat_bottom": "최대 6명",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "Siri는 ChatGPT를 이길 필요가 없다",
+      "body": "Apple CEO John Ternus는 TIME 인터뷰에서 Siri가 가장 똑똑한 챗봇보다 iPhone에 이미 있는 정보에 승부를 건다고 했다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead",
+      "_id": "gadgets-siri",
+      "media": "pipeline/media/gadgets-siri.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

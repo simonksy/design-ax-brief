@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "진료기록 속 서술문, AI가 읽기 시작했다",
+    "date": "2026.10.18",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "아카이브를 거슬러 사람이 묶었다. 뇌전증·희귀질환·폐암 검진·첫 종양 진료 — 구조화 안 된 진료 메모를 LLM이 읽어 쓸모를 만든 연구가 열흘 새 네 번 나왔다.",
+    "sources": [
+      "https://www.nature.com/articles/s41746-026-03346-2",
+      "https://www.nature.com/articles/s41746-026-03275-0",
+      "https://radiologybusiness.com/topics/artificial-intelligence/radiology-department-uses-ai-identify-lung-cancer-screening-patients-ehr",
+      "https://www.nature.com/articles/s41746-026-03396-6"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 10.09~10.18",
+      "thread": [
+        {
+          "d": "10.09",
+          "t": "뇌전증 선별",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.16",
+          "t": "희귀질환",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.17",
+          "t": "폐암 검진",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.18",
+          "t": "첫 진료 준비",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "쌓여만 있던 진료 메모가 LLM을 만나 환자를 찾아내는 자료가 된다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "묻혀 있던 진료 메모를 AI가 읽는다",
+      "body": "한 건씩 보면 질환별 연구지만, 이어 보면 같은 일이다. 구조화 칸에는 없고 의사 메모에만 있던 정보를 LLM이 꺼내 쓰기 시작했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.09",
+      "headline": "EHR 메모로 뇌전증을 일찍 가린다",
+      "body": "EpiScreen은 임상 메모로 뇌전증과 심인성 발작을 가려낸다. 도움받은 신경과 의사는 단독 전문가보다 최대 14.3% 나았다.",
+      "foot": "2026.10.09",
+      "_src": "https://www.nature.com/articles/s41746-026-03346-2",
+      "_id": "medicine-epilepsy-llm-ehr",
+      "media": "pipeline/media/medicine-epilepsy-llm-ehr.png"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "기록에서 희귀질환 표현형을 뽑는다",
+      "body": "RARE-PHENIX는 기록에서 표현형을 뽑아 HPO 용어로 순위를 매긴다. 외부 검증에서 임상의 큐레이션과 높게 일치했다.",
+      "foot": "2026.10.16",
+      "_src": "https://www.nature.com/articles/s41746-026-03275-0",
+      "_id": "medicine-rare-phenotype",
+      "media": "pipeline/media/medicine-rare-phenotype.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "흡연력 메모로 폐암 검진 대상 찾기",
+      "body": "UC Irvine NLP는 자유 기술 기록에서 흡연력을 읽는다. 구조화 데이터보다 검진 대상을 세 배 넘게 찾았다.",
+      "foot": "2026.10.17",
+      "_src": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-department-uses-ai-identify-lung-cancer-screening-patients-ehr",
+      "_id": "medicine-uci-lung-nlp",
+      "media": "pipeline/media/medicine-uci-lung-nlp.png"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.10.18",
+      "headline": "첫 종양 진료 전, AI가 기록을 정리",
+      "body": "네덜란드 암연구소의 AI-FCP가 비정형 문서를 구조화 요약으로 바꿨다. 사례당 평균 3.26분을 아꼈다고 답했다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.nature.com/articles/s41746-026-03396-6",
+      "_id": "medicine-ai-fcp",
+      "stat_top": "체감 업무 부담",
+      "stat_arrow": "AI-FCP 도입 후",
+      "stat_bottom": "28.9% 감소",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
